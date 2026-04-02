@@ -24,7 +24,7 @@
 
 Det fremgår af skorstensfejerbekendtgørelsens § 1, stk. 1, at "kommunalbestyrelsen skal sørge for, at lovpligtigt skorstensfejerarbejde tilbydes kommunens borgere."
 
-Kommunen kan for eksempel på sin hjemmeside angive kontaktoplysninger på en eller flere skorstensfejere, som vil påtage sig skorstensfejerarbejde i kommunen. I givet fald kontakter borgeren selv den pågældende skorstensfejer, og indgår aftale om regelmæssig fejning og betaler skorstensfejeren direkte.
+Kommunen kan for eksempel på sin hjemmeside angive kontaktoplysninger på en eller flere skorstensfejere, som vil påtage sig skorstensfejerarbejde i kommunen. I givet fald kontakter borgeren selv den pågældende skorstensfejer og indgår aftale om regelmæssig fejning og betaler skorstensfejeren direkte.
 
  
 
