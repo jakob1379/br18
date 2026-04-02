@@ -1,0 +1,14 @@
+# Certificerede statikers og brandrådgivers virke (§ 531 - § 535)
+
+
+## Se alle vejledninger om Certificerede statikers og brandrådgivers virke (§ 531 - § 535)
+
+- [Vejledning til kapitel 32 - Certificerede statiker og brandrådgivers virke](./)
+- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../temasiden-brandogkonstruktioner-dk)
+
+## Vejledning til kapitel 32 - Certificerede statiker og brandrådgivers virke
+
+
+### Vejledning til kapitel 32 - Certificerede statikers og brandrådgivers virke
+
+\

@@ -1,0 +1,79 @@
+# Brand (§ 82 - § 158)
+
+
+## Se alle vejledninger om Brand (§ 82 - § 158)
+
+- [Spørgsmål og svar](../../spoergsmaal-og-svar)
+- [Definitionsliste for brandmæssige begreber](../../definitionsliste-for-brandmaessige-begreber)
+- [Bygningsreglementets vejledning til kapitel 5 - Brand](..)
+  - [Bilag 1a - Præ-accepterede løsninger - Fritliggende og sammenbyggede enfamiliehuse](../enfamiliehuse)
+  - [Bilag 1b - Præ-accepterede løsninger - Sekundær bebyggelse i tilknytning til enfamiliehuse](../sekundear-bebyggelse)
+  - [Bilag 2 - Præ-accepterede løsninger - Etageboligbyggeri](../etageboligbyggeri)
+  - [Bilag 3 - Præ-accepterede løsninger - Kontorbygninger](../bilag-3-kontorbygninger)
+  - [Bilag 4 - Præ-accepterede løsninger - Forsamlingslokaler, butikker mv.](../bilag-4-forsamlingslokaler-og-butikker)
+  - [Bilag 5 - Præ-accepterede løsninger - Undervisningslokaler](../undervisningslokaler)
+  - [Bilag 6 - Præ-accepterede løsninger - Hoteller mv.](../hoteller)
+  - [Bilag 7 - Præ-accepterede løsninger - Bygningsafsnit, hvor personer ikke kan bringe sig i sikkerhed ved egen hjælp](../bilag-7-bygningsafsnit-i-anv-6)
+  - [Bilag 8 -- Præ-accepterede løsninger - Jordbrugserhvervets avls- og driftsbygninger samt væksthuse til produktion](../bilag-8-praeaccepterede-loesninger-jordbrugserhvervets-avls-og-driftsbygninger-mv)
+  - [Bilag 9 - Præ-accepterede løsninger - Bygningsafsnit med garageanlæg](../bilag-9-garageanlaeg)
+  - [Bilag 10 - Præ-accepterede løsninger - Industri- og lagerbygninger](../industri-og-lagerbygninger)
+  - [Bilag 11 - Vejledning om udendørsarrangementer, salgsområder, midlertidige opstillinger, midlertidige overnatning og transportable konstruktioner](../bilag-11-markeder-transportable-konstruktioner-mv)
+  - [Bilag 12 - Præ-accepterede løsninger - Brandtekniske installationer](../brandtekniske-installationer)
+  - [Bilag 13 - Udfærdigelse af planer i forhold til brand](../bilag-13-udfaerdigelse-af-planer-i-forhold-til-brand)
+  - [Bilag 15 - Præ-accepterede løsninger for sekundær bebyggelse i tilknytning til andet end enfamiliehuse](../bilag-15-sekundaert-bebyggelse)
+  - [Bilag 16 - Præ-accepterede løsninger for mindre bebyggelse i anvendelseskategori 1 og 4](../bilag-16-praeaccepterede-loesninger-for-mindre-bebyggelse-i-anvendelseskategori-1-og-4)
+- [Oversigt over Bygningsreglementets vejledninger til kapitel 5 -- Brand, inkl. udgivelsesdatoer](../../oversigt-over-brs-vejledninger-til-kapitel-5-brand-inkl-udgivelsesdatoer-mv)
+- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../../temasiden-brandogkonstruktioner-dk)
+
+## Bygningsreglementets vejledning til kapitel 5 - Brand
+
+
+### Introduktion
+
+
+### Kapitel 1: Generelt om sikkerhed ved brand
+
+
+### Kapitel 2: Evakuering og redning af personer
+
+
+### Kapitel 3: Bærende konstruktioner
+
+
+### Kapitel 4: Antændelse, brand- og røgspredning
+
+
+### Kapitel 5: Redningsberedskabets indsatsmuligheder
+
+
+### Kapitel 6: Funktionsafprøvning og systemintegrationstest
+
+
+### Kapitel 7: Drift-, kontrol- og vedligehold af brandforhold i og ved bygninger
+
+[Åbn rettelsesblad til kapitel om Drift, kontrol og vedligehold af brandforhold i og ved bygninger version 1.1](../../../../../../../media/hwea0jp4/kapitel-7-rettelsesbladtil-ver1120240101uden-ndringsmarkeringer-a.pdf "Kapitel 7  Rettelsesbladtil ver1120240101uden ndringsmarkeringer")
+
+(01.01.2024)
+
+ 
+
+[Åbn rettelsesblad til kapitel om Drift, kontrol og vedligehold af brandforhold i og ved bygninger version 1.1. med ændringsmarkeringer](../../../../../../../media/kbrpnp4s/kapitel-7-rettelsesbladtil-ver1120240101med-ndringsmarkeringer-a.pdf "Kapitel 7  Rettelsesbladtil ver1120240101med ndringsmarkeringer")
+
+(01.01.2024)
+
+ 
+
+[Åbn kapitel om Drift-, kontrol- og vedligehold af brandforhold i og ved bygninger](../../../../../../../media/ybrdtanu/kapitel-7-drift-kontrol-og-vedligehold-ver-11-a.pdf "Kapitel 7 Drift kontrol og vedligehold ver 11")
+
+Version 1.1 (04.03.2021)
+
+* *
+
+[Åbn kapitel om Drift-, kontrol- og vedligehold af brandforhold i og ved bygninger med ændringsmarkeringer](../../../../../../../media/1jujjzag/kapitel-7-drift-kontrol-og-vedligehold-ver-11-med-ndringsmeddelser-a.pdf "Kapitel 7 Drift kontrol og vedligehold ver 11 med ndringsmeddelser")
+
+Version 1.1 (04.03.2021)
+
+
+### Kapitel 8: Eftervisning
+
+\

@@ -1,0 +1,15 @@
+# Konstruktionsklasser (§ 485 - § 489)
+
+
+## Se alle vejledninger om Konstruktionsklasser (§ 485 - § 489)
+
+- [Spørgsmål og svar](../../spoergsmaal-og-svar)
+- [Vejledning om indplacering i konstruktionsklasser](../../indplacering-i-konstruktionsklasser)
+- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](..)
+
+## Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner
+
+
+### Klik her for link til temasiden Brandogkonstruktioner.dk
+
+[Gå til temasiden Brandogkonstruktioner.dk og få overblik over brugen af certificerede statikere og brandrådgivere (nyt vindue)](../../../../../external/brandogkonstruktioner.dk){rel="noopener noreferrer" target="_blank"}\

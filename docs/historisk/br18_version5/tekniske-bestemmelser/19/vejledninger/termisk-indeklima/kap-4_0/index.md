@@ -1,0 +1,30 @@
+# Termisk indeklima og installationer til varme- og køleanlæg (§ 385 - § 392)
+
+## Bygningsreglementets vejledning om termisk indeklima og installationer til varme- og køleanlæg
+
+
+### Forord
+
+[1.0.](../kap-1_0)
+
+### Generelt for termisk indeklima
+
+[2.0.](../kap-2_0)
+
+### Generelt for installationer til varme- og køleanlæg
+
+[3.0.](../kap-3_0)
+
+### Energiforbrug
+
+[4.0.](./)
+
+### Kontrol
+
+Der henvises til bygningsreglementets vejledning om funktionsafprøvning.
+
+[5.0.](../kap-5_0)
+
+### Drift og vedligehold
+
+\

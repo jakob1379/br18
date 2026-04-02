@@ -1,0 +1,292 @@
+# Andre vejledninger
+
+
+## Se alle vejledninger om Andre vejledninger
+
+- [](../../faq)
+- [Vejledning om certificering af statikere og brandrådgivere](..)
+
+## Vejledning om certificering af statikere og brandrådgivere
+
+[1.](../1_indledning)
+
+### Indledning
+
+[1.1.](../1_1_certificeringsordning)
+
+### Certificeringsordningerne
+
+[1.2.](../1_2_certificering_personer)
+
+### Certificering af personer
+
+[1.3.](../1_3_kvalifikationer_kompetencer)
+
+### Kvalifikationer og kompetencer
+
+[1.4.](../1_4_ects_point)
+
+### ECTS-point
+
+[2.](../2_certificeringsorganet)
+
+### Certificeringsorganet
+
+[2.1.](../2_1_certificeringsprocessen)
+
+### Certificeringsprocessen
+
+[3.](../3_database-til-certificerede-statikerere)
+
+### Database til oplysninger om certificerede statikere og brandrådgivere
+
+[4.](../4_certificering-af-statikere)
+
+### Certificering af statikere
+
+[4.1.](../4_1_certificering-af-statiker-til-konstruktionsklasse-2)
+
+### Certificering af statiker til konstruktionsklasse 2
+
+[4.1.1](../4_1_1_krav-til-kvalifikationer-til-statiker)
+
+### Krav til kvalifikationer for statiker til konstruktionsklasse 2
+
+[4.1.2.](../4_1_2_dokumentation-for-kvalifikationer)
+
+### Dokumentation for kvalifikationer for statiker til konstruktionsklasse 2
+
+[4.1.3.](../4_1_3_krav-til-kompetencer)
+
+### Krav til kompetencer for statiker til konstruktionsklasse 2
+
+[4.1.4.](../4_1_4_dokumentation-for-kompetencer)
+
+### Dokumentation for kompetencer for statiker til konstruktionsklasse 2
+
+[4.1.5.](../4_1_5_bedommelse-af-kompetencer)
+
+### Bedømmelse af kompetencer for statiker til konstruktionsklasse 2
+
+[4.2.](../4_2_certificering-af-statiker-til-konstruktionsklasse-3-og-4)
+
+### Certificering af statiker til konstruktionsklasse 3 og 4
+
+[4.2.1.](../4_2_1_krav-til-kvalifikationer-3-og-4)
+
+### Krav til kvalifikationer for statiker til konstruktionsklasse 3 og 4
+
+[4.2.2.](../4_2_2_dokumentation-for-kvalifikationer-for-3-og-4)
+
+### Dokumentation for kvalifikationer for statiker til konstruktionsklasse 3 og 4
+
+[4.2.3.](../4_2_3_krav-til-kompetencer-3-og-4)
+
+### Krav til kompetencer for statiker til konstruktionsklasse 3 og 4
+
+[4.2.4.](../4_2_4_dokumentation-for-kompetencer)
+
+### Dokumentation for kompetencer for statiker til konstruktionsklasse 3 og 4
+
+[4.2.5.](../4_2_5_bedommelse-af-kompetencer-3-og-4)
+
+### Bedømmelse af kompetencer for statiker til konstruktionsklasse 3 og 4
+
+[4.3.](../4_3_certificering-af-statiker-til-tredjepartsforhold)
+
+### Certificering af statiker til tredjepartskontrol af statiske forhold
+
+[4.3.1.](../4_3_1_krav-til-kvalifikationer-tredjepartskontrol)
+
+### Krav til kvalifikationer for statiker til tredjepartskontrol af statiske forhold
+
+[4.3.2.](../4_3_2_dokumentation-for-kvalifikationer)
+
+### Dokumentation for kvalifikationer for statiker til tredjepartskontrol af statiske forhold
+
+[4.3.3.](../4_3_3_krav-til-kompetencer-for-statiker)
+
+### Krav til kompetencer for statiker til tredjepartskontrol af statiske forhold
+
+[4.3.4.](../4_3_4_dokumentation-for-kompetencer)
+
+### Dokumentation for kompetencer for statiker til tredjepartskontrol af statiske forhold
+
+[4.3.5.](../4_3_5_bedommelse-af-statiske-forhold)
+
+### Bedømmelse af kompetencer for statikere til tredjepartskontrol af statiske forhold
+
+[4.4.](../4_4_sarligt-for-anerkendt-statiker)
+
+### Særligt for anerkendt statiker
+
+[4.4.1.](../4_4_1_kvalifikationer-for-statiker)
+
+### Kvalifikationer for statiker til konstruktionsklasse 3 og 4
+
+[4.4.2.](../4_4_2_krav-til-kompetencer)
+
+### Krav til kompetencer for statiker til konstruktionsklasse 3 og 4
+
+[4.4.3.](../4_4_3_kvalifikationer-for-statiker)
+
+### Kvalifikationer for statiker til tredjepartskontrol af statiske forhold
+
+[4.4.4.](../4_4_4_krav-til-kompetencer-for-statiker)
+
+### Krav til kompetence for statiker til tredjepartskontrol
+
+[5.](../5_-certificering-af-brandradgivere)
+
+### Certificering af brandrådgivere
+
+[5.1.](../5_1-certificering-af-brandradgiver-til-brandklasse-2)
+
+### Certificering af brandrådgiver til brandklasse 2
+
+[5.1.1.](../5_1_1-krav)
+
+### Krav til kvalifikationer for brandrådgiver til brandklasse 2
+
+[5.1.2.](../5_1_2)
+
+### Dokumentation for kvalifikationer for brandrådgiver til brandklasse 2
+
+[5.1.3.](../5_1_3)
+
+### Krav til kompetencer for brandrådgiver til brandklasse 2
+
+[5.1.4.](../5_1_4)
+
+### Dokumentation for kompetencer for brandrådgiver til brandklasse 2
+
+[5.1.5.](../5_1_5)
+
+### Bedømmelse af kompetencer for brandrådgiver til brandklasse 2
+
+[5.2.](../5_2)
+
+### Certificering af brandrådgiver til brandklasse 3 og 4
+
+[5.2.1.](../5_2_1)
+
+### Krav til kvalifikationer for brandrådgiver til brandklasse 3 og 4
+
+[5.2.2.](../5_2_2)
+
+### Dokumentation for kvalifikationer for brandrådgiver til brandklasse 3 og 4
+
+[5.2.3.](../5_2_3)
+
+### Krav til kompetencer for brandrådgiver til brandklasse 3 og 4
+
+[5.2.4.](../5_2_4)
+
+### Dokumentation for kompetencer for brandrådgiver til brandklasse 3 og 4
+
+[5.2.5.](../5_2_5)
+
+### Bedømmelse af kompetencer for brandrådgiver tll brandklasse 3 og 4
+
+[5.3.](../5_3)
+
+### Certificering af brandrådgiver til tredjepartskontrol af brandforhold
+
+[5.3.1.](./)
+
+### Krav til kvalifikationer til brandrådgiver til tredjepartskontrol af brandforhold
+
+Krav til personer, der ansøger om certificering som brandrådgiver til tredjepartskontrol af brandforhold, følger af § 21, stk. 1. Kvalifikationerne omfatter:
+
+> • Uddannelse i byggetekniske forhold på et niveau svarende til 210 ECTS-point, hvoraf 60 ECTS-point relaterer sig til brandsikring af byggearbejder og brandteknisk dimensionering, jf. § 20, stk. 1, nr. 1-9.
+>
+> • Viden om byggelovgivning, brandforhold, dokumentation af brandforhold, kontrol mm., jf. § 19, stk. 1, nr. 2-7.
+>
+> • Syv års erfaring inden for de seneste 12 år med anvendelse af ovenstående to punkter, jf. § 21, stk. 2.\
+> \
+
+Kvalifikationerne skal give ansøger tilstrækkelige forudsætninger til at kunne udføre tredjepartskontrol af, at bygningsreglementets brandkrav er opfyldt ved brug af følgende metoder:
+
+> • Præ-accepterede løsninger som angivet i *Bygningsreglementets vejledning til kapitel 5 -- Brand.*
+>
+> • Komparative analyser med udgangspunkt i præ-accepterede løsningen som angivet i *Bygningsreglementets vejledning til kapitel 5 -- Brand*.
+>
+> • Brandteknisk dimensionering af personsikkerhed for de bygninger, der er omfattet af BR18.
+
+Ansøgeren skal tillige kunne udarbejde dokumentation for tredjepartskontrollen.
+
+Dermed skal kvalifikationerne sikre, at ansøgeren har tilstrækkelige forudsætninger til på selvstændig vis at kunne dokumentere og kontrollere, at et byggeri i brandklasse 4 overholder bygningsreglementets brandkrav, og ansøger skal kunne foretage tredjepartskontrol heraf.
+
+ 
+
+**5.3.1.1. Krav til uddannelse i byggetekniske forhold, brandsikring af byggearbejder og brandteknisk dimensionering for brandrådgiver til tredjepartskontrol.**
+
+En ansøger til tredjepartskontrol af brandforhold skal dokumentere at have gennemført en uddannelse i byggetekniske forhold, brandsikring af byggearbejder og brandteknisk dimensionering svarende til mindst 210 ECTS-point, hvoraf 60 point skal relatere sig til brandsikring af byggearbejder og brandteknisk dimensionering, som det følger af § 20, stk. 1, nr. 1. For uddybning af krav til uddannelsen henvises til afsnit 5.2.1.1.
+
+ 
+
+**5.3.1.2. Krav til viden om byggelovgivning, brandforhold, dokumentation af brandforhold, kontrol mm. for brandrådgiver til tredjepartskontrol af brandforhold.**
+
+En ansøger til tredjepartskontrol af brandforhold skal, jf. § 21, stk. 1, nr. 1, have en række supplerende kvalifikationer om viden om byggelovgivning, brandforhold, dokumentation af brandforhold, kontrol mm., jf. § 19, stk. 1, nr. 2-7.
+
+For uddybning af krav til viden om byggelovgivning, brandforhold, dokumentation af brandforhold, kontrol mm. henvises til afsnit 5.1.1.2.
+
+ 
+
+**5.3.1.3. Krav til erfaring for brandrådgiver til tredjepartskontrol af brandforhold**
+
+Ansøgeren skal have minimum syv års erfaring indenfor de seneste 12 år med anvendelse af de kvalifikationer, der følger af § 19, stk. 1, nr. 2-7, samt § 20, stk. 1, nr. 1-9.  Kravet skal sikre, at ansøgeren har erfaring med anvendelse af de kvalifikationer, der er nødvendige for at kunne udføre tredjepartskontrol af brandforhold. Derfor vil en del af erfaringen som minimum også skulle stamme fra brandrådgivning for byggeri i brandklasse 4, og erfaringen skal dække både komparative analyser og brandteknisk dimensionering.
+
+Ved syv års erfaring forstås, at ansøgeren har haft sin hovedbeskæftigelse indenfor arbejde med de brandforhold, der følger af § 19, stk. 1, nr. 2-7, samt § 20, stk. 1, nr. 1-9, i mindst syv år. Perioden skal ikke nødvendigvis være sammenhængende. Dog skal de syv års erfaring være opnået indenfor de seneste 12 år.
+
+Kravet skal sikre, at ansøgerens kvalifikationer er tilegnet og/eller vedligeholdt inden for en nærliggende periode, så ansøgeren kan udnytte disse kvalifikationer til at dokumentere og kontrollere brandtekniske forhold, der lever op til gældende krav samt, at ansøgeren har tilstrækkelig erfaring med dette.
+
+[5.3.2.](../5_3_2)
+
+### Dokumentation for kvalifikationer for brandrådgiver til tredjepartskontrol af brandforhold
+
+[5.3.3.](../5_3_3)
+
+### Krav til kompetencer for brandrådgiver til tredjepartskontrol
+
+[5.3.4.](../5_3_4)
+
+### Dokumentation for kompetencer for brandrådgiver til tredjepartskontrol
+
+[5.3.5.](../5_3_5)
+
+### Bedømmelse af kompetencer for brandrådgiver til tredjepartskontrol
+
+[6.](../6_certificering-af-personer-med-udenlandskee-erhvervsmessige-kvalifikationer-og-kompetencer)
+
+### Certificering af personer med udenlandske erhvervsmæssige kvalifikationer og kompetencer
+
+[6.1.](../6_1)
+
+### Certificering af personer med udenlandske erhvervsmæssige kvalifikationer
+
+[6.1.1.](../6_1_1)
+
+### Certificering af personer med udenlandske kvalifikationer, som ønsker at virke varigt som certificeret statiker eller brandrådgiver
+
+[6.1.2.](../6_1_2)
+
+### Certificering af personer med udenlandske erhvervsmæssige kvalifikationer, som ønsker at virke midlertidigt eller lejlighedsvis som certificeret statiker eller brandrådgiver
+
+[7.](../7_kontrol-og-opretholdelse-af-certificering)
+
+### Kontrol og opretholdelse af certificering (under udarbejdelse)
+
+[8.](../8_fratagelse-af-certificering)
+
+### Fratagelse af certificering
+
+[8.1.](../8_1)
+
+### Betingelser for fratagelse af certificering
+
+[8.2.](../8_2)
+
+### Den certificeredes opgivelse af virke
+
+\

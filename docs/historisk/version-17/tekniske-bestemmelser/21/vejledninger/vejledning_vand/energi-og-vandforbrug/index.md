@@ -1,0 +1,58 @@
+# Vand (§ 403 - § 419)
+
+
+## Se alle vejledninger om Vand (§ 403 - § 419)
+
+- [Vejledning om brug af regnvand](../../brug-af-regnvand)
+- [Vejledning om legionella](../../legionella)
+- [Vejledning om tilbagestrømningssikring af vandforsyningssystemer](../../tilbagestroemningssikring-af-vandforsyningssystemer)
+- [Bygningsreglementets vejledning om vand](..)
+- [Spørgsmål og svar](../../sporgsmaal_svaar)
+
+## Bygningsreglementets vejledning om vand
+
+
+### Forord
+
+
+### Generelt for vandinstallationer
+
+
+### Ledninger i jord og indførelse i bygninger
+
+
+### Frost
+
+
+### Trykstød
+
+
+### Materialer
+
+
+### Udskiftelighed
+
+
+### Henstand
+
+
+### Utætheder
+
+
+### Sikring af vandkvalitet
+
+
+### Koldt vand
+
+
+### Varmt vand
+
+
+### Energi- og vandforbrug
+
+Kravet om tilfredsstillende nøjagtighed af målere er opfyldt ved anvendelse af typegodkendte målere eller målere med en tilsvarende nøjagtighed.
+
+
+### Drift og vedligehold
+
+\

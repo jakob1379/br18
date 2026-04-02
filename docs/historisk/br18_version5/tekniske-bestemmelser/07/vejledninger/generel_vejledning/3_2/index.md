@@ -1,0 +1,204 @@
+# Byggepladsen og udførelsen af Byggearbejder (§ 161 - § 165)
+
+## Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder
+
+
+### Forord
+
+[1.0.](../1_0)
+
+### Generelt
+
+[2.0.](../2_0)
+
+### Planlægning og udførelse af byggearbejder
+
+[3.0.](../3_0)
+
+### Brandsikkerhed og brandværnsforanstaltninger
+
+[3.1.](../3_1)
+
+### Planlægning af brandsikkerhed på byggepladsen
+
+[3.2.](./)
+
+### Byggepladsens indretning
+
+For minimering af de brandmæssige risici og for at sikre redningsberedskabets indsatsmuligheder bør der ved indretningen af en byggeplads tages hensyn til de brandmæssige forhold, som ofte omfatter følgende forhold:
+
+\- Flugtvejsforhold
+
+\- Midlertidige bebyggelser (skurvogne)
+
+\- Stilladser
+
+\- Byggepladshegn
+
+\- Parkeringsforhold
+
+\- Adgangsforhold
+
+\- Oplagspladser for byggematerialer og affald
+
+\- Redningsberedskabets indsatsmulighed; brandveje, brandredningsarealer, stigrør o.lign.
+
+\
+
+Brandbelastningen på byggepladsen bør under hele arbejdet holdes så lav som muligt.
+
+**Midlertidige konstruktioner**
+
+Midlertidige konstruktioner omfatter f.eks. skurvogne, oplagscontainere, omklædning, o.lign.
+
+Afstandsforhold til skel og anden bebyggelse for midlertidige bebyggelser / konstruktioner kan f.eks. fastlægges ud fra bygningsreglementets vejledninger til kapitel 5 om brand.
+
+Sikringen mod brandspredning kan ske ved at placere konstruktionerne i forsvarlig afstand fra skel / andre bygninger eller ved på anden måde at sikre mod brandspredning (flammeskærm eller brandmæssig adskillelse).
+
+**Oplag af brændbare byggematerialer og affald**
+
+Ved planlægningen af byggefaserne er det vigtigt, at byggeledelsen forholder sig til placeringen af oplag af brændbare og brandfarlige materialer og affald, samt vigtigheden af at begrænse mængden af disse oplag til et minimum.\
+
+For at hindre brandspredning fra brændbare byggematerialer bør brændbare materialer o.lign. oplagres udenfor bygningen og i mindst 5 meters afstand fra alle bygninger. Er dette ikke muligt, skal det på anden vis sikres, at der ikke kan ske brandsmitte fra lageret til andre bygninger. Oplagringen af brændbare byggematerialer skal begrænses mest muligt, således brandbelastningen holdes så lav som muligt.
+
+Gasser under tryk og brandfarlige væsker skal opbevares forsvarligt. Placeringen af gasser under tryk og brandfarlige væsker bør være fastlagt på forhånd og indgå som en del af byggepladsens indretning.  Som udgangspunkt skal gasser under tryk og brandfarlige væsker opbevares således, at uvedkommende ikke har uhindret adgang til disse (aflåst). Oplag af brandfarlige væsker og oplag af gasser under tryk i både beholdere og tanke skal endvidere ske i henhold til beredskabsstyrelsens Tekniske forskrifter.
+
+Ved brandfarlige og brændbare oplag skal der skiltes med "brug af åben ild og rygning forbudt".
+
+Oplag af brændbart affald kan udgøre en uhensigtsmæssig stor brandbelastning, og medføre forøget risiko for antændelse og spredning af brand. Følgende forhold bør derfor efterleves for, at minimere risikoen for brande i affaldsoplag:
+
+\- Begræns mængden af brændbart affald og undgå ophobning af brændbart affald.
+
+\- Hyppig bortskaffelse af affald, helst ved arbejdstids ophør.
+
+\- Alt brændbart affald bør fjernes til dertil indrettede og egnede affaldspladser, f.eks. containere. Placeringen af brændbart affald bør være fastlagt på forhånd og indgå som en del af byggepladsens indretning.
+
+\- Affald af eksempelvis brandfarlige væsker skal placeres i egnede beholdere med selvlukkende låg og evt. jording (kan også være omfattet af Beredskabsstyrelsens tekniske forskrifter for brandfarlige væsker
+
+\- Affaldspladser bør være placeret så langt som muligt fra bygninger, midlertidige bygninger (skure), andre oplag, parkeringspladser og kilder til antændelse.
+
+\- Beholdere til gasser under tryk, som har været anvendt, skal opbevares i overensstemmelse med Beredskabsstyrelsens tekniske forskrifter for gasser.
+
+[![](../../../../../../../assets/img/linkbox/dk_linkbox.svg)](./ "#title")
+
+#### 
+
+Bekendtgørelse nr. 1639 af 06/12/2016 om brandfarlige og brandbare væsker (inklusiv tekniske forskrifter)
+
+#### 
+
+#### Gå til bekendtgørelsen [](https://www.retsinformation.dk/Forms/R0710.aspx?id=185816){target="_blank"}
+
+[![](../../../../../../../assets/img/linkbox/dk_linkbox.svg)](./ "#title")
+
+#### 
+
+Bekendtgørelse nr. 1444 af 15/12/2010 (med senere ændringer) om tekniske forskrifter for gasser
+
+#### 
+
+#### Gå til bekendtgørelsen [](https://www.retsinformation.dk/forms/R0710.aspx?id=134984){target="_blank"}
+
+**Byggepladshegn**
+
+Byggepladshegn er, særligt ved større byggepladser, en integreret del af byggepladsens indretning. Byggepladshegnet skal medvirke til at sikre mod f.eks. tyveri, hærværk og ildspåsættelse.
+
+Uhensigtsmæssigt placeret byggepladshegn kan medføre, at det bliver vanskeligt for evt. brugere af bygningen og håndværkere at evakuere bygningen og redningsberedskabets indsatsmuligheder kan blive begrænset i tilfælde af brand. Det skal derfor til enhver tid være muligt for redningsberedskabet at komme helt frem til bygningen, adgangsveje, stigrør, brandhaner o.lign. Tilkørselsveje og brandredningsarealer skal holdes fri for oplag, skurvogne og lignende. Stilladser kan dog opstilles under størst mulig hensyntagen til adgangsvejene og redningsberedskabets indsatsmulighed. Det kan eventuelt være nødvendigt at etablere alternative adgangsveje.
+
+Redningsberedskabets adgangsmulighed kan ved porte sikres ved, at der opsættes nøglebokse, hvortil redningsberedskabet har adgang.
+
+**Parkering og opladning af køretøjer**
+
+Placering af parkeringspladser for private biler og arbejdsrelaterede køretøjer skal udlæggelse således, at redningsberedskabets adgangsveje til byggepladsen og bygninger ikke blokeres.
+
+Opladning af trucks skal ske på dertil indrettede ladepladser.
+
+**Byggearbejder i forbindelse med højhusbyggeri**
+
+Opførelsen af højhusbyggeri udgør en særlig risiko i forbindelse med følgende forhold:
+
+\- Flugtveje ned gennem byggeriet.
+
+\- Ikke færdiggjorte brandadskillelser
+
+\- Redning af personer, hvor redningsberedskabets stiger ikke kan få adgang til eller nå bygninger
+
+\- Stigrør, midlertidige/permanente, til brug for brandvæsen i forbindelse med brandslukning på etagerne.
+
+\
+
+Der bør foretages en vurdering, som kan sikre, at der kan foretages en forsvarlig redning af personer og slukning af brande i højden.
+
+Der henvises også her til bekendtgørelse nr. 559 af 17. juni 2004 (med senere ændringer) om arbejdets udførelse.
+
+[![](../../../../../../../assets/img/linkbox/dk_linkbox.svg)](./ "#title")
+
+#### 
+
+Bekendtgørelse nr. 559 af 17/06/2004 (med senere ændringer) om arbejdets udførelse
+
+#### 
+
+#### Gå til bekendtgørelsen [](https://www.retsinformation.dk/Forms/R0710.aspx?id=30092){target="_blank"}
+
+[3.3.](../3_3)
+
+### Midlertidige afdækning- og inddækning med presenninger og lignende
+
+[3.4](../3_4)
+
+### Passive brandsikringstiltag
+
+[3.5.](../3_5)
+
+### Aktive brandsikringsanlæg
+
+[3.6](../3_6)
+
+### Evakuering af medarbejdere på byggepladsen
+
+[3.7.](../3_7)
+
+### Varmt arbejde - herunder brug af åben ild
+
+[3.8.](../3_8)
+
+### Brandslukningsmateriel
+
+[3.9.](../3_9)
+
+### Alarmering af redningsberedskabet
+
+[3.10.](../3_10)
+
+### Ordensforskrifter
+
+[4.0.](../4_0)
+
+### Gener på anden grund
+
+[4.1.](../4_1)
+
+### Afskærmning
+
+[4.2.](../4_2)
+
+### Støj- og vibrationsgener
+
+[4.3.](../4_3)
+
+### Støvgener
+
+[4.4](../4_4)
+
+### Affaldshåndtering
+
+[4.5](../4_5)
+
+### Vejoverkørsler
+
+[5.0](../5_0)
+
+### Hensyn til klimatiske forhold
+
+\

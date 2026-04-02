@@ -1,0 +1,198 @@
+# Administrative bestemmelser (§ 1 - § 47)
+
+
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+
+- [Spørgsmål og svar](../../qa)
+- [Vejledning om byggesagsbehandling efter BR18](..)
+- [Vejledning om ombygninger og brug af certificerede rådgivere i relation til ændring af BR18 d. 10. marts 2020](../../vejledning-om-ombygning-og-brug-af-certificerede-raadgivere)
+- [Vejledning i kommunernes stikprøvekontrol i tilgængelighed](../../stikprovekontrol-tilgaengelighed)
+- [Vejledning om brug af brand og konstruktionsklasser](../../vejledning-om-brug-af-brand-og-konstruktionsklasser)
+- [Vejledning om opførelse af sekundær bebyggelse med et samlet areal på højst 50 m2](../../sekundaer-bebyggelse)
+- [Vejledning om byggelovens § 6 D](../../vejledning-om-byggelovens-6-d)
+- [Vejledning til kommunerne om krav til parkering i forbindelse med byggeri](../../vejledning-om-parkering)
+- [Vejledning om skorstene og kravet om byggetilladelse](../../vejledning-om-skorstene-og-kravet-om-byggetilladelse)
+- [Vejledning om administration af skorstensfejerordningen](../../vejledning-om-skorstensfejerordningen)
+- [Vejledning om transportable telte og konstruktioner](../../transportable-telte-og-konstruktioner)
+- [Vejledning om lovliggørelse af ulovligt byggeri](../../vejledning-om-lovliggorelse)
+- [Vejledning om byggeri over skel](../../vejledning-om-byggeri_over_skel)
+- [Vejledning om gebyr for kommunernes sagsbehandling på byggeområdet](../../gebyr)
+- [Vejledning om udnyttelige tagetager](../../udnyttelige-tagetager)
+- [Pjecer om sekundær bebyggelse](../../pjecer-om-sekundaer-bebyggelse)
+
+## Vejledning om byggesagsbehandling efter BR18
+
+
+### Kolofon
+
+[1.](../1_0_forord)
+
+### Forord
+
+[2.](../2_0_introduktion-til-bygningsreglementet-2018)
+
+### Introduktion til bygningsreglementet 2018
+
+[2.1.](../2_1_overgangsperiode)
+
+### Overgangsperiode
+
+[2.2.](../2_2_byggelovgivningens-formaal-og-anvendelsesomraade)
+
+### Byggelovgivningens formål og anvendelsesområde
+
+[2.2.1.](../2_2_1_byggelovens-formaal)
+
+### Byggelovens formål
+
+[2.2.2.](../2_2_2_bebyggelsesbegrebet)
+
+### Bebyggelsesbegrebet
+
+[2.2.3.](../2_2_3_bygningsreglementets-anvendelsesomraade)
+
+### Bygningsreglementets anvendelsesområde
+
+[2.2.4.](../2_2_4_begraensninger-i-bygningsreglementets-anvendelsesomraade)
+
+### Begrænsninger i bygningsreglementets anvendelsesområde
+
+[2.2.5.](../2_2_5_byggeri-der-er-undtaget-helt-eller-delvist-fra-overholdelse-af-tekniske-bestemmelser)
+
+### Byggeri, der er undtaget helt eller delvist fra overholdelse af tekniske bestemmelser
+
+[2.3.](../2_3_kommunalbestyrelsen-som-bygningsmyndighed)
+
+### Kommunalbestyrelsen som bygningsmyndighed
+
+[3.](../3_0_ansoegning-om-byggetilladelse)
+
+### Ansøgning om byggetilladelse
+
+[3.1.](../3_1_forhaandsdialog)
+
+### Forhåndsdialog
+
+[3.2.](../3_2_forhold-til-anden-lovgivning)
+
+### Forhold til anden lovgivning
+
+[3.3.](../3_3_dokumentation-ved-ansoegning-om-byggetilladelse)
+
+### Dokumentation ved ansøgning om byggetilladelse
+
+[3.4.](../3_4_indplacering-i-konstruktionsklasse)
+
+### Indplacering i konstruktionsklasse
+
+[3.4.1.](../3_4_1_dokumentation-for-indplacering-i-konstruktionsklasse-1)
+
+### Dokumentation for indplacering i konstruktionsklasse 1
+
+[3.4.2.](../3_4_2_dokumentation-for-indplacering-i-konstruktionsklasse-2_4)
+
+### Dokumentation for indplacering i konstruktionsklasse 2-4
+
+[3.5.](../3_5_indplacering-i-brandklasse)
+
+### Indplacering i brandklasse
+
+[3.5.1.](../3_5_1_dokumentation-for-indplacering-i-brandklasse-1)
+
+### Dokumentation for indplacering i brandklasse 1
+
+[3.5.2.](../3_5_2_dokumentation-for-indplacering-i-brandklasse-2_4)
+
+### Dokumentation for indplacering i brandklasse 2 -- 4
+
+[3.6.](../3_6_dispensation)
+
+### Dispensation
+
+[4.](../4_0_anvendelse-af-certificeret-statiker-og-brandraadgiver)
+
+### Anvendelse af certificeret statiker og brandrådgiver
+
+[4.1.](../4_1_anvendelse-af-certificeret-statiker-i-konstruktionsklasse-2_4)
+
+### Anvendelse af certificeret statiker i konstruktionsklasse 2-4
+
+[4.2.](../4_2_anvendelse-af-certificeret-brandraadgiver-i-brandklasse-2_4)
+
+### Anvendelse af certificeret brandrådgiver i brandklasse 2-4
+
+[4.3.](../4_3_database-over-certificerede-statikere-og-brandraadgivere)
+
+### Database over certificerede statikere og brandrådgivere
+
+[5.](../5_0_byggesagsbehandling-i-konstruktions_-og-brandklasse-2_4-indtil-31_december_2019)
+
+### Anvendelse af anerkendte statikere i konstruktionsklasse 2-4 indtil 30. juni 2020
+
+[6.](../6_0_anvendelse-af-bygvaerksprojekterende)
+
+### Anvendelse af bygværksprojekterende
+
+[7.](../7_0_byggetilladelse)
+
+### Byggetilladelse
+
+[8.](../8_0_afslutning-af-byggesag)
+
+### Afslutning af byggesag
+
+[8.1.](./)
+
+### Færdigmelding
+
+Ved afslutning af et byggeri, hvortil der er meddelt byggetilladelse, skal der ske færdigmelding til kommunalbestyrelsen. Færdigmelding af byggeri sker gennem Byg & Miljø. Ved færdigmeldingen indsendes dokumentation for det færdige byggeri.
+
+Ved færdigmelding skal der indsendes en erklæring om, at det færdige byggeri er i overensstemmelse med byggetilladelsen og bygningsreglementet. Ved færdigmelding af et byggeri skal ansøger indsende følgende:
+
+- Dokumentation for, at der er tegnet byggeskadeforsikring, og at præmien er betalt, jf. byggelovens § 25 C, stk. 2, for byggeri omfattet af byggelovens § 25\
+  A. Læs mere om byggeskadeforsikring [her](../../../../vejledninger/andre_vejledninger/vejledning/byggeskadeforsikring "Byggeskadeforsikring").
+- Erklæring om, at det færdige byggeri er i overensstemmelse med byggetilladelsen og bygningsreglementet. Det er bygningsejeren, der har ansvaret for, at det færdige byggeri er lovligt. Ved afslutning af byggesagen skal det derfor erklæres, at byggeriet er udført i overensstemmelse med byggetilladelsen og bygningsreglementet, hvilket sker igennem Byg & Miljø. Denne erklæring giver ikke bygningsejeren et større eller mindre ansvar, end der allerede følger af byggeloven.
+- Dokumentation for overholdelse af bygningsreglementets bestemmelser i den færdige bygning. Dokumentationen skal bestå af al for byggeriet relevant materiale, herunder overordnede beskrivelser, forudsætninger, beregninger, tegningsmateriale, prøvninger, målinger mv. Det skal ved det fremsendte dokumenteres, hvordan specifikke niveauer er fastsat på baggrund af bygningsreglementets funktionskrav, og hvordan de specifikke niveauer eller detailkrav i bygningsreglementet opfyldes. Dokumentation for det færdige byggeri afhænger af byggeriets karakter og vil derfor variere meget fra sag til sag. Den dokumentation, der indsendes ved færdigmelding, skal svare til det, ansøger har erklæret, at byggeriet var omfattet af ved ansøgning om byggetilladelse. Det forudsættes, at der ikke er foretaget væsentlige ændringer i forhold til den meddelte byggetilladelse undervejs, da dette ville kræve fornyet behandling af kommunalbestyrelsen. Det er ikke muligt at lave en udtømmende liste over dokumentation, der skal indsendes for det færdige byggeri. Der kan dog vejledende henvises til oversigten over den dokumentation, som kommunalbestyrelsen skal påse ved stikprøvekontrollen. Se mere om dette nedenfor.
+- Drift- og vedligeholdelsesmanual for byggeriets installationer, herunder afløbsinstallationer, jf. § 80, energiforsyningsanlæg i tilknytning til bygninger, jf. § 328, termisk indeklima og installationer til varme- og køleanlæg, jf. § 392, vand, jf. § 419, og ventilation, jf. § 452.
+- For byggeri i konstruktionsklasse 2-4, jf. kapitel 26, skal der med færdigmeldingen indsendes en sluterklæring, jf. § 499, stk. 1, der er udfærdiget af den certificerede statiker. For byggeri i konstruktionsklasse 4, skal der derudover indsendes en sluterklæring, jf. § 499, stk. 2, der er udfærdiget af en statiker, der er certificeret til at udføre tredjepartskontrol.
+- For byggeri omfattet af brandklasse 2-4, jf. kapitel 27, skal der med færdigmeldingen indsendes en sluterklæring, jf. § 499, stk. 1, der er udfærdiget af den certificerede brandrådgiver. For byggeri i brandklasse 4, skal der derudover indsendes en sluterklæring, jf. § 499, stk. 2, der er udfærdiget af en brandrådgiver, der er certificeret til at udføre tredjepartskontrol.
+- Ved ansøgning om ibrugtagning til byggeri omfattet § 24, stk. 1, skal der udover den statiske dokumentation også vedlægges en sluterklæring, der er udarbejdet af en anerkendt statiker. Sluterklæringen skal omfatte den statiske dokumentation som helhed. Det er et krav, at sluterklæringen udformes og underskrives personligt af den anerkendte statiker, jf. kapitel 35.
+- Ved ansøgning om ibrugtagning til byggeri omfattet af § 27, stk. 1, skal der foruden en sluterklæring fra en anerkendt statiker gennemføres en tredjepartskontrol af en anden anerkendt statiker, jf. § 27, stk. 1. Tredjepartskontrollanten udarbejder en sluterklæring, hvori det angives, at den anerkendte statikers angivelse i sluterklæringen, jf. § 28, er retvisende. Derudover skal tredjepartskontrollantens sluterklæring indeholde en redegørelse for tredjepartskontrollantens virke.
+
+[8.2.](../8_2_ibrugtagningstilladelse)
+
+### Ibrugtagningstilladelse
+
+[9.](../9_0_stikproevekontrol)
+
+### Stikprøvekontrol
+
+[9.1.](../9_1_kontrol-med-dokumentationen-ved-stikproevekontrol)
+
+### Kontrol med dokumentationen ved stikprøvekontrol
+
+[9.2.](../9_2_gebyr-for-stikproevekontrol)
+
+### Gebyr for stikprøvekontrol
+
+[9.3.](../9_3_lovliggoerelse-paa-baggrund-af-stikproevekontrol)
+
+### Lovliggørelse på baggrund af stikprøvekontrol
+
+[9.4.](../9_4_frist-for-igangsaettelse-af-stikproevekontrol)
+
+### Frist for igangsættelse af stikprøvekontrol
+
+[10.](../10_0_nedrivning-af-bebyggelse)
+
+### Nedrivning af bebyggelse
+
+[10.1.](../10_1_undtagelser-til-ansoegning-om-nedrivning)
+
+### Undtagelser til ansøgning om nedrivning
+
+[11.](../11_0_klage-over-kommunalbestyrelsens-afgoerelser)
+
+### Klage over kommunalbestyrelsens afgørelser
+
+\

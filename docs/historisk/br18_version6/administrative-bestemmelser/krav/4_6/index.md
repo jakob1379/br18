@@ -1,0 +1,141 @@
+# Administrative bestemmelser (§ 1 - § 47)
+
+[§ 1 - § 3](../1_3)
+
+## Anvendelsesområde
+
+[§ 4 - § 6](./)
+
+## Begrænsninger i bygningsreglementets anvendelsesområde
+
+§ 4
+
+Bygningsreglementet gælder ikke for:
+
+1) Broer, tunneler og andre anlæg til trafikale formål, som udføres af eller godkendes af vej-, jernbane- eller andre myndigheder eller selskaber, der ved lov er ansvarlige for byggearbejdet, samt midlertidige konstruktioner og anlæg, der er nødvendige for disse byggearbejders udførelse.
+
+2) Master til elforsyningsanlæg, almindelige master til elinstallationer, herunder vejbelysningsanlæg og master til offentlige elektriske baners køreledningsanlæg.   3) Læskærme ved stoppesteder og lignende.   4) Transformerstationer og kabelskabe for fremføring af elektricitet, måle- og trykregulatorstationer for fremføring af gas, pumpestationer og trykforøgeranlæg for vand-, afløbs- og fjernvarmesystemer samt radio- og blokhytter og relæhuse til offentlig trafik med et areal på højst 30 m² og en højde, der ikke overstiger 3,0 m.   5) Sireneenheder til varslingsanlæg, som udføres af eller godkendes af Beredskabsstyrelsen.   6) Hegnsmure ved skel mod nabo, vej og sti på højst 1,8 m. § 5
+
+Følgende typer af byggearbejder skal overholde bygningsreglementet, men kan udføres uden ansøgning om byggetilladelse:  
+
+1) Opførelse af og tilbygninger til garager og carporte, der ikke er integrerede i den primære bebyggelse, samt udhuse, hønsehuse, drivhuse, overdækkede terrasser og lignende, når bygningerne tilsammen har et areal på højst 50 m² og placeres på terræn.
+
+2) Ombygninger af garager, carporte, udhuse, hønsehuse, drivhuse, overdækkede terrasser og lignende.\
+\
+3) Ombygninger og forandringer af enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse. Ombygningen eller forandringen må ikke medføre en væsentlig anvendelsesændring eller en udvidelse af etagearealet. En udvendig efterisolering på maksimalt 25 cm betragtes ikke som en udvidelse af etagearealet.\
+\
+4) Ombygninger og andre forandringer i eksisterende byggeri, som ikke er omfattet af nr. 2 og 3, og som ikke ændrer de bærende konstruktioners virkemåde eller forudsætningerne for de brandmæssige forhold. Ombygningen eller forandringen må ikke medføre en væsentlig anvendelsesændring eller en udvidelse af etagearealet\
+\
+5) Udendørs svømmebassiner og havepejse i tilknytning til enfamiliehuse, tofamiliehuse, dobbelthuse og sommerhuse.\
+\
+6) Vedligeholdelsesbyggearbejder, ombygninger og andre forandringer i bestående bebyggelse, som har betydning for energiforbruget i bygningen, og som er omfattet af byggelovens § 2, stk. 1, litra e.\
+\
+7) Opførelse af og om- og tilbygninger til campinghytter, mobilehomes og lignende, der er omfattet af campingreglementet.\
+\
+8) Opførelse af og om- og tilbygninger til kolonihavehuse, der er tilladt, og hvis størrelse og placering er fastlagt i en lokalplan, byplanvedtægt eller tinglyst deklaration godkendt af en offentlig myndighed.\
+\
+9) Opførelse af og om- og tilbygninger til teknikhuse til elektroniske kommunikationsnet eller tjenester med et areal på højst 50 m².\
+\
+10) Udendørs anlæg til opbevaring af husdyrgødning, korn og foder samt tørringsanlæg for korn, frø og andre afgrøder.\
+11) Antennesystemer, der anvendes til radiokommunikation i elektroniske kommunikationsnet, jf. § 2, nr. 4 og 5 i lov om elektroniske kommunikationsnet og tjenester, herunder radiofrekvens- eller kabelbaseret teleinfrastruktur.\
+\
+12) Master og antennesystemer omfattende antenner med tilhørende teknisk udstyr, herunder kabler, befæstelse, forstærkere, filtre, teknikhuse, -kabiner og --skabe, jording og microlinks til transmission, der anvendes til jernbanekommunikation.\
+\
+13) Konstruktioner og anlæg, som indeholder brugerbetjente funktioner, såsom IT-standere, betalings- og selvbetjeningsautomater og lignende publikumsrettede servicefunktioner.\
+\
+14) Anlæg med en lagerkapacitet af F-gas i tanke på indtil 1.200 gasoplagsenheder.\
+\
+
+*Stk. 2.* Såfremt der skal foretages en helhedsvurdering efter kapitel 8 for byggearbejder omfattet af stk. 1, skal der søges om byggetilladelse efter § 10.
+
+*Stk. 3.* Undtagelse fra ansøgning om byggetilladelse efter bygningsreglementet undtager ikke fra overholdelse af og ansøgning om tilladelse eller registrering efter anden lovgivning. § 6
+
+Følgende typer af bebyggelse er helt eller delvist undtaget fra overholdelse af reglerne i denne bekendtgørelse:
+
+1) Garager, carporte, udhuse, hønsehuse, drivhuse, overdækkede terrasser og lignende bygninger samt teknikhuse til elektroniske kommunikationsnet eller tjenester med et areal på højst 50 m² kan udføres uden at styrke og stabilitetsforhold eftervises ved beregning.
+
+2) Jordbrugserhvervets avls- og driftsbygninger samt væksthuse er omfattet af følgende krav i afsnit II:
+
+a) Afløb i kapitel 4.
+
+b) Brandforhold i kapitel 5. Driftsbygninger samt væksthuse til produktionsformål er undtaget fra §§ 88 -- 90, §§ 99 -- 103 og §§ 121 -- 123.\
+\
+c) Indretning af byggepladser og udførelse af byggearbejder i kapitel 7.\
+\
+d) Byggeret i §§ 184-186 og højde- og afstandskrav i §§ 191 og 194.\
+\
+e) Arbejdssteders indretning i §§ 221-227.\
+\
+f) Energiforsyningsanlæg i tilknytning til bygninger i kapitel 12.\
+\
+g) Konstruktioner i kapitel 15.\
+\
+h) Vand i kapitel 21.\
+\
+i) Indeklima i rum, hvor ansatte udfører kontorarbejde eller lignende. I disse rum skal kravene om forureninger i kapitel 13, om lydforhold i kapitel 17, om lys og udsyn i kapitel 18 samt de indeklimamæssige krav om termisk indeklima og installationer til varme- og køleanlæg i kapitel 19 og om ventilation i kapitel 22 overholdes.
+
+3) Master og antennesystemer omfattende antenner med tilhørende teknisk udstyr, herunder kabler, befæstelse, forstærkere, filtre, teknikhuse, -kabiner og --skabe, jording og microlinks til transmission, der anvendes til jernbanekommunikation, er undtaget fra bestemmelserne om bebyggelsesregulerende forhold i kapitel 8.
+
+4) Kolonihavehuse, hvis størrelse og placering er fastlagt i en lokalplan, byplanvedtægt eller tinglyst deklaration godkendt af en offentlig myndighed, er omfattet af følgende krav i denne bekendtgørelse:
+
+a) Afløb i kapitel 4.
+
+b) Røgalarmanlæg eller røgalarm, jf. § 93, stk. 1, nr. 7.\
+\
+c) Energiforsyningsanlæg i tilknytning til bygninger i kapitel 12.\
+\
+d) Vand i kapitel 21.
+
+5)  Bygningsafsnit, der ikke er indrettet som bygningsafsnit i anvendelseskategori 5, kan anvendes til midlertidig overnatning, når anvendelsen sker i henhold til § 152 a.
+
+\
+
+[§ 6a - § 6e](../6a_6e)
+
+## Transportable konstruktioner
+
+[§ 6f - § 6g](../6f_6g)
+
+## Camping-, festival- og salgsområder
+
+[§ 6h](../6h)
+
+## Pladsfordelingsplaner og belægningsplaner
+
+[§ 7 - § 19](../7_19)
+
+## Ansøgning om byggetilladelse
+
+[§ 20 - § 23](../20_23)
+
+## Anvendelse af certificeret brandrådgiver i brandklasse 2-4
+
+[§ 24 - § 29](../24_29)
+
+## Anvendelse af anerkendt statiker i konstruktionsklasse 2-4 til og med den 30. juni 2020
+
+[§ 30 - § 30c](../30_30c)
+
+## Byggesagsbehandling af transportable konstruktioner i konstruktionsklasse 2-4, som ikke er certificeret og opstilles midlertidigt på camping-, festival- og salgsområder samt i forsamlingslokaler, idrætshaller o. lign.
+
+[§ 31 - § 34](../31-34)
+
+## Byggesagsbehandling af transportable konstruktioner i brandklasse 2-4 som opstilles midlertidigt på camping-, festival- og salgsområder samt i forsamlingslokaler, idrætshaller o. lign.
+
+[§ 35 - § 38](../35_38)
+
+## Byggetilladelse
+
+[§ 39](../39)
+
+## Byggesagsgebyr
+
+[§ 40 - § 46](../40_46)
+
+## Afslutning af byggesag
+
+[§ 47](../47)
+
+## Nedrivning af bebyggelse
+
+\

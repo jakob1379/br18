@@ -1,0 +1,92 @@
+# Lydforhold (§ 368 - § 376)
+
+
+## Se alle vejledninger om Lydforhold (§ 368 - § 376)
+
+- [Bygningsreglementets vejledning om lydforhold](../../generel_vejledning)
+- [- Vejledning til boliger og andre bygninger til overnatning](../../boliger)
+- [- Vejledning til undervisningsbygninger](..)
+- [- Vejledning til daginstitutionsbygninger](../../daginstitutionsbygninger)
+- [- Vejledning til kontorbyggeri](../../kontorbygninger)
+- [- Vejledning til hospitaler, lægehuse og klinikker](../../hospitaler-laegehuse-og-klinikker)
+
+## - Vejledning til undervisningsbygninger
+
+[3.0](../undervisningsbygninger)
+
+### Undervisningsbygninger
+
+[3.1](../definitioner-af-rumtyper-for-undervisningsbygninger)
+
+### Definitioner af rumtyper for undervisningsbygninger
+
+[3.2](./)
+
+### Lydisolation for undervisningsbygninger
+
+Tabel 3.1 indeholder grænseværdier for luftlydisolation og trinlydniveau i undervisningsbygninger svarende til overholdelse af BR18's lydbestemmelser.
+
+Lydbestemmelserne er gengivet fra SBi-anvisning 218.\
+Referencer findes i [afsnit 1.5](../../../../../../../tekniske-bestemmelser/17/vejledninger/generel_vejledning/referenceliste "Referenceliste").
+
+Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfylde Bygningsreglementets funktionskrav, er anført separat i tabellerne (i kursiv).
+
+Heldagsklasser, helhedsskoler og indskolingslokaler, der dækker over, at de samme lokaler benyttes til undervisning og fritidsaktiviteter, skal med hensyn til lydisolation og støj indrettes efter lydbestemmelserne for undervisningslokaler. Med hensyn til rumakustik skal lydbestemmelserne for opholdsrum i daginstitutionsbygninger opfyldes, idet der dog skal tages hensyn til lærernes mulighed for ubesværet at tale rummet op - se SBi-anvisning 218.
+
++-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
+| **Undervisningsbygninger -- Tabel 3.1 Lydisolation**\                                                                                                                                                                                     |
++-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
+| **Luftlydisolation **     **\[4\]**                                                                                                             | ***R´~w~** *                                                                            |
++-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
+| Mellem undervisningsrum samt mellem undervisningsrum og fællesrum, horisontalt                                                                  | ≥ 48 dB                                                                                 |
++-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
+| Mellem undervisningsrum samt mellem undervisningsrum og fællesrum, vertikalt                                                                    | ≥ 51 dB* *                                                                              |
++-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
+| Mellem undervisningsrum med dørforbindelse (samlet lydisolation for væg med dør, folde- og mobilvægge, glaspartier mv.)                         | ≥ 44 dB                                                                                 |
++-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
+| Mellem undervisningsrum og fællesrum med dørforbindelse (samlet lydisolation for væg med dør, folde- og mobilvægge, glaspartier mv.)            | ≥ 36 dB                                                                                 |
++-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
+| For fleksible rumadskillelser i åbne undervisningsområder ^1)^                                                                                  | ≥ 20 dB                                                                                 |
++-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
+| Mellem undervisningsrum til sløjd og andre undervisningsrum eller fællesrum                                                                     | ≥ 60 dB                                                                                 |
++-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
+| Mellem undervisningsrum til sløjd og fællesrum med dørforbindelse (samlet lydisolation for væg med dør, folde- og mobilvægge, glaspartier mv.)  | ≥ 44 dB                                                                                 |
++-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
+| Mellem undervisningsrum til sang og musik samt mellem undervisningsrum til sang og musik og andre undervisningsrum eller fællesrum              | ≥ 65 dB                                                                                 |
++-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
+| Mellem undervisningsrum til sang og musik med dørforbindelse (samlet lydisolation for væg med dør)                                              | ≥ 55 dB                                                                                 |
++-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
+| Mellem undervisningsrum til sang og musik og fællesrum med dørforbindelse (samlet lydisolation for væg med dør)                                 | ≥ 50 dB\                                                                                |
++-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
+| Mellem undervisningsrum og tilgrænsende rum i erhvervsenheder eller i andre undervisnings- eller daginstitutioner                               | ≥ 60 dB\                                                                                |
++-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
+| **Trinlydniveau **     **\[4\]**                                                                                                                | ***L'~n,w~***                                                                           |
++-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
+| I undervisningsrum ^2)^                                                                                                                         | ≤ 58 dB                                                                                 |
++-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
+| I undervisningsrum fra gulve og dæk i undervisningsrum til sløjd eller sang og musik                                                            | ≤ 53 dB                                                                                 |
++-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
+| I undervisningsrum fra gulve og dæk i tilgrænsende rum i erhvervsenheder eller i andre undervisnings- eller daginstitutioner                    | ≤ 48 dB                                                                                 |
++-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
+| **Noter\                                                                                                                                                                                                                                  |
+| \**                                                                                                                                                                                                                                       |
+|                                                                                                                                                                                                                                           |
+| 1)   Ved fleksible rumadskillelser forstås vægsystemer eller lignende rumopdelende elementer, som ikke fuldstændigt aflukker rum, men som afskærmer og adskiller dele af rum\                                                             |
+| \                                                                                                                                                                                                                                         |
+|                                                                                                                                                                                                                                           |
+| 2)   Fra alle omgivende gulve, dæk og trapper.                                                                                                                                                                                            |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+[3.3](../stoej-indendoers-fra-trafik-i-undervisningsbygninger)
+
+### Støj indendørs fra trafik i undervisningsbygninger
+
+[3.4](../stoej-fra-tekniske-installationer-i-undervisningsbygninger)
+
+### Støj fra tekniske installationer i undervisningsbygninger
+
+[3.5](../rumakustik-i-undervisningsbygninger)
+
+### Rumakustik i undervisningsbygninger
+
+\

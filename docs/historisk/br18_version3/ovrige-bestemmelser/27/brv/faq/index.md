@@ -1,0 +1,11 @@
+# Brandklasser (§ 490 - § 493)
+
+
+## Se alle vejledninger om Brandklasser (§ 490 - § 493)
+
+- [](./)
+- [Vejledning om indplacering i brandklasser](../indplacering-i-brandklasser)
+
+## 
+
+\

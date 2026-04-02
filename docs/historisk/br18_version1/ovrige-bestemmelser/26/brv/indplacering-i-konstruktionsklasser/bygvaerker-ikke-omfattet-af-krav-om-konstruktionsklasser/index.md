@@ -1,0 +1,86 @@
+# Konstruktionsklasser (§ 485 - § 489)
+
+
+## Se alle vejledninger om Konstruktionsklasser (§ 485 - § 489)
+
+- [Spørgsmål og svar](../../faq)
+- [Vejledning om indplacering i konstruktionsklasser](..)
+
+## Vejledning om indplacering i konstruktionsklasser
+
+
+### Forord
+
+[1.0.0.](../konstruktionsklasser)
+
+### Konstruktionsklasser
+
+[1.0.1.](../konstruktionsafsnit)
+
+### Konstruktionsafsnit
+
+[1.0.2.](../konsekvensklasser)
+
+### Konsekvensklasser
+
+[1.0.3.](../konstruktionens-kompleksitet)
+
+### Konstruktionens kompleksitet
+
+[1.0.4.](../erfaring-med-konstruktionstypen)
+
+### Erfaring med konstruktionstypen
+
+[1.1.0.](../indplacering-i-konstruktionsklasser)
+
+### Indplacering i konstruktionsklasser
+
+[1.1.1.](../konstruktioner_konstruktionsafsnit-i-konstruktionsklasse1)
+
+### Konstruktioner/konstruktionsafsnit i konstruktionsklasse 1
+
+[1.1.2.](../konstruktioner_konstruktionsafsnit-i-konstruktionsklasse-2)
+
+### Konstruktioner/konstruktionsafsnit i konstruktionsklasse 2
+
+[1.1.3.](../konstruktioner_konstruktionsafsnit-i-konstruktionsklasse-3)
+
+### Konstruktioner/konstruktionsafsnit i konstruktionsklasse 3
+
+[1.1.4.](../konstruktioner_konstruktionsafsnit-i-konstruktionsklasse-4)
+
+### Konstruktioner/konstruktionsafsnit i konstruktionsklasse 4
+
+[1.1.5.](../bygvaerker-med-konstruktion)
+
+### Bygværker med konstruktioner/konstruktionsafsnit i flere konstruktionsklasser
+
+[1.2.0.](../indplacering)
+
+### Indplacering af bygværker i konstruktionsklasser ved teknisk byggesagsbehandling
+
+[1.3.0.](./)
+
+### Bygværker der ikke er omfattet af krav om indplacering i konstruktionsklasser
+
+Ifølge BR18 § 489, stk. 2, er følgende bygværker med et areal på højst 50 m² undtaget for indplacering i konstruktionsklasser:
+
+> •  garager
+>
+> •  carporte
+>
+> •  udhuse
+>
+> •  hønsehuse
+>
+> •  drivhuse
+>
+> •  overdækkede terrasser og lignende bygninger
+>
+> •  teknikhuse til elektroniske kommunikationsnet eller tjenester
+
+\
+
+Der henvises i øvrigt til *[Vejledning om opførelse af sekundær bebyggelse med et samlet areal på højst 50 m².](../../../../../administrative-bestemmelser/brv/sekundaer-bebyggelse "Sekundaer bebyggelse")*
+
+\

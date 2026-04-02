@@ -6,3 +6,5 @@ docs.wget
 *~
 .direnv/
 .envrc
+.cache/
+site/
