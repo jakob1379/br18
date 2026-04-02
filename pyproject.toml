@@ -1,0 +1,9 @@
+[project]
+name = "br18"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "crawlee[playwright]>=0.7.0",
+    "playwright>=1.48.0",
+    "zensical>=0.0.31",
+]
