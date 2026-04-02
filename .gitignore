@@ -3,3 +3,6 @@ docs.offline
 docs.smoke
 docs.unionraw
 docs.wget
+*~
+.direnv/
+.envrc
