@@ -8,3 +8,7 @@
 - add programs to devshell in flake.nix when you need them
 - manage python dependencies using uv (`nix develop -c uv ...`)
 - prefer using bash tools over custom python scripts, unless the gains are substantial
+
+## references
+use context 7 or the @librarian of simply websearch
+- zensical docs https://zensical.org/docs/get-started/
