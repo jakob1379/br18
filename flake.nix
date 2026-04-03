@@ -15,6 +15,8 @@
             pandoc
             chromium
             single-file-cli
+            ripgrep
+            pv
           ];
 
           LD_LIBRARY_PATH = "${pkgs.lib.makeLibraryPath (with pkgs; [ xorg.libX11 ])
