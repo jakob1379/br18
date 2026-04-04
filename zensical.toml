@@ -1,10 +1,8 @@
 [project]
 site_name = "Documentation"
 site_description = "A new project generated from the default template project."
-site_author = "<your name here>"
-copyright = """
-Copyright &copy; 2026 The authors
-"""
+site_author = "Jakob Stender Guldberg"
+
 [project.theme]
 language = "en"
 features = [
