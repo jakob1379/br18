@@ -1,16 +1,17 @@
 [project]
-site_name = "Documentation"
-site_description = "A new project generated from the default template project."
+site_name = "BR18"
+site_description = "En lokal kopi af https://www.bygningsreglementet.dk/"
 site_author = "Jakob Stender Guldberg"
 
 [project.theme]
-language = "en"
+language = "da"
 features = [
     "announce.dismiss",
     "content.code.annotate",
     "content.code.copy",
     "content.code.select",
     "content.footnote.tooltips",
+    "navigation.tabs",
     "content.tabs.link",
     "content.tooltips",
     "navigation.footer",
@@ -25,6 +26,7 @@ features = [
     "navigation.tracking",
     "search.highlight",
 ]
+
 [[project.theme.palette]]
 scheme = "default"
 toggle.icon = "lucide/sun"
@@ -34,3 +36,9 @@ toggle.name = "Switch to dark mode"
 scheme = "slate"
 toggle.icon = "lucide/moon"
 toggle.name = "Switch to light mode"
+
+[project.markdown_extensions.attr_list]
+[project.markdown_extensions.pymdownx.emoji]
+[project.markdown_extensions.md_in_html]
+[project.markdown_extensions.abbr]
+[project.markdown_extensions.pymdownx.snippets]

@@ -42,9 +42,9 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
-    { name = "crawlee", extras = ["playwright"], specifier = ">=0.7.0" },
+    { name = "crawlee", extras = ["playwright"], specifier = ">=1.6.1" },
     { name = "minify-html", specifier = ">=0.18.1" },
-    { name = "playwright", specifier = ">=1.48.0" },
+    { name = "playwright", specifier = ">=1.58.0" },
     { name = "zensical", specifier = ">=0.0.31" },
 ]
 
