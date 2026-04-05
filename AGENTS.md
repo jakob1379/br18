@@ -2,7 +2,7 @@
 - we are making a local clone of https://bygningsreglementet.dk using zensical (formerly mkdocs-material)
 - include downloadable files into the local clone as well
 - crawling the page recursively should stop at the boundary of the domain i.e. include links to external references e.g. bygningsreglementet.dk has a link to dmi.dk, in which case we should not download any dmi.dk resources.
-
+- we require information parity in non-historical pages of bygningsreglementet
 ## development
 - execute commands inside the nix devshell using `nix develop -c <command>`
 - add programs to devshell in flake.nix when you need them
@@ -11,4 +11,4 @@
 
 ## references
 use context 7 or the @librarian of simply websearch
-- zensical docs https://zensical.org/docs/get-started/
+- make full usage of the features in [zensical](https://zensical.org/docs/authoring/) to make a similar layout as the origin

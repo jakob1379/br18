@@ -1,14 +1,15 @@
 ---
+title: Hjem
 hide:
-  - toc
-  - path
+ - path
+ - navigation
 ---
 
 # BR18
 
 <div class="grid cards" markdown>
 
-- [1 - Administrative bestemmelser (§ 1 - § 47)](administrative-bestemmelser/krav)
+- [1 - Administrative bestemmelser (§ 1 - § 47)](administrative-bestemmelser/)
 
 </div>
 

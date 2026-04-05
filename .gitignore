@@ -8,3 +8,4 @@ docs.wget
 .envrc
 .cache/
 site/
+docs.tar.gz

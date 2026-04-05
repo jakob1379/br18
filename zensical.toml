@@ -20,11 +20,12 @@ features = [
     "navigation.instant.prefetch",
     "navigation.instant.progress",
     "navigation.path",
-    "navigation.prune",
+    "navigation.expand",
     "navigation.sections",
     "navigation.top",
     "navigation.tracking",
     "search.highlight",
+    "toc.follow",
 ]
 
 [[project.theme.palette]]
@@ -38,6 +39,10 @@ toggle.icon = "lucide/moon"
 toggle.name = "Switch to light mode"
 
 [project.markdown_extensions.attr_list]
+[project.markdown_extensions.toc]
+permalink = true
+permalink_title = "Anchor link to this section"
+toc_depth = 2
 [project.markdown_extensions.pymdownx.emoji]
 [project.markdown_extensions.md_in_html]
 [project.markdown_extensions.abbr]
