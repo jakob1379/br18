@@ -1,0 +1,137 @@
+# Administrative bestemmelser (§ 1 - § 47)
+
+[§ 1 - § 3](../1_3/)
+
+## Anvendelsesområde
+
+[§ 4 - § 6](../4_6/)
+
+## Begrænsninger i bygningsreglementets anvendelsesområde
+
+[§ 6a](../6a/)
+
+## Transportable konstruktioner på byggepladser
+
+[§ 6b - § 6e](../6b-6e/)
+
+## Øvrige transportable konstruktioner
+
+[§ 6f](../6f/)
+
+## Midlertidige udendørs camping- og salgsområder og lignende.
+
+[§ 6g](../6g/)
+
+## Midlertidig overnatning
+
+[§ 6h](../6h/)
+
+## Planer m.v. vedrørende brandmæssige forhold
+
+[§ 6i](../6i/)
+
+## Midlertidige indendørsarrangementer
+
+[§ 6j - § 6l](../6j-6l/)
+
+## Midlertidige udendørsarrangementer til højst 500 personer
+
+[§ 7 - § 15](../7_15/)
+
+## Ansøgning om byggetilladelse
+
+[§ 16 - § 19](../16-19/)
+
+## Anvendelse af certificerede statikere i konstruktionsklasse 2-4
+
+[§ 20 - § 23](../20_23/)
+
+## Anvendelse af certificeret brandrådgiver i brandklasse 2-4
+
+[§ 24 - § 27](../24_29/)
+
+## (Ophævet)
+
+[§ 28 - § 29](../28_29/)
+
+## Lovliggørelse af bærende konstruktioner og brandforhold
+
+[§ 30 - § 30c](../30_30c/)
+
+## Byggesagsbehandling af transportable konstruktioner i konstruktionsklasse 2-4, som ikke er certificeret og opstilles midlertidigt på camping- og salgsområder samt i forsamlingslokaler, idrætshaller o. lign.
+
+[§ 31 - § 34](../31-34/)
+
+## Byggesagsbehandling af transportable konstruktioner i brandklasse 2-4, som ikke er certificeret og opstilles midlertidigt på camping- og salgsområder samt i forsamlingslokaler, idrætshaller o. lign.
+
+[§ 35 - § 38](../35_38/)
+
+## Byggetilladelse
+
+[§ 39](../39/)
+
+## Byggesagsgebyr
+
+[§ 40 - § 46](./)
+
+## Afslutning af byggesag
+
+§ 40
+
+Byggearbejder, der kræver byggetilladelse, skal færdigmeldes til kommunalbestyrelsen.
+
+* Stk. 2.* Ved færdigmelding skal følgende fremsendes:
+
+1) Dokumentation for, at der er tegnet byggeskadeforsikring, og at præmien er betalt, jf. [byggelovens § 25 C, stk. 2](https://www.retsinformation.dk/eli/lta/2016/1178), for byggeri omfattet af [byggelovens § 25 A](https://www.retsinformation.dk/eli/lta/2016/1178).
+
+2) Erklæring om, at det færdige byggeri er i overensstemmelse med byggetilladelsen og bygningsreglementet.
+
+3) Erklæring om, at der er fremsendt fyldestgørende dokumentation, der viser, at bygningsreglementets bestemmelser er opfyldt, samt at der er fremsendt drifts- og vedligeholdelsesmanual for bebyggelsens installationer, jf. [§ 80](/tekniske-bestemmelser/04/krav/), [§ 328](/tekniske-bestemmelser/12/krav/), [§ 392](/tekniske-bestemmelser/19/krav/392/), 419 og 452.
+
+4) Dokumentation for overholdelse af bygningsreglementets bestemmelser i den færdige bygning. Dokumentationen skal bestå af al for byggearbejdet relevant materiale, herunder overordnede beskrivelser, forudsætninger, beregninger, tegningsmateriale, prøvninger, målinger mv. Det skal ved det fremsendte dokumenteres, hvordan specifikke niveauer er fastsat på baggrund af bygningsreglementets funktionskrav, og hvordan de specifikke niveauer eller detailkrav i bygningsreglementet opfyldes. 5) Drift- og vedligeholdelsesmanual for bebyggelsens installationer, jf. [§ 80](/tekniske-bestemmelser/04/krav/), [§ 328](/tekniske-bestemmelser/12/krav/), [§ 392](/tekniske-bestemmelser/19/krav/392/), 419 og 452.\
+\
+
+* Stk. 3.* Bygningsejeren har pligt til at meddele forhold, som er af betydning for drift og ajourføring af BBR i overensstemmelse med bekendtgørelse om ajourføring af bygnings- og boligregistret.
+
+* Stk. 4*. Dokumentation, jf. stk. 2 skal udformes på dansk eller engelsk.
+
+\
+§ 41
+
+For byggearbejde omfattet af konstruktionsklasse 2-4, jf. [kapitel 26](/ovrige-bestemmelser/26/), skal der med færdigmeldingen ligeledes indsendes en sluterklæring, jf.[§ 499, stk. 1](/ovrige-bestemmelser/28/krav/494_505/), der er udarbejdet af den certificerede statiker.
+
+* Stk. 2.* For byggearbejde i konstruktionsklasse 4 skal der ligeledes indsendes en sluterklæring, jf. [§ 499, stk. 2](/ovrige-bestemmelser/28/krav/494_505/), der er udarbejdet af den statiker, der er certificeret til at udføre tredjepartskontrol.
+
+* Stk. 3*. For byggearbejde omfattet af konstruktionsklasse 2-4, jf. [kapitel 26](/ovrige-bestemmelser/26/), skal der med færdigmeldingen ligeledes indsendes en erklæring, om at der er gennemført kontrol og udarbejdet Statisk kontrolrapport udførelse - arbejde - almen kontrol, jf. [§ 502, stk. 1, nr. 3, litra b](/ovrige-bestemmelser/28/krav/494_505/), og de ved kontrollen fundne afvigelser er behandlet.
+
+§ 42
+
+For byggearbejde omfattet af brandklasse 2-4, jf. [kapitel 27](/ovrige-bestemmelser/27/), skal der med færdigmeldingen ligeledes indsendes en sluterklæring, jf. [§ 509, stk. 1](/ovrige-bestemmelser/29/krav/506_522/), der er udarbejdet af den certificerede brandrådgiver.
+
+* Stk. 2.* For byggearbejde i brandklasse 4 skal der ligeledes indsendes en sluterklæring, jf. [§ 509, stk. 2](/ovrige-bestemmelser/29/krav/506_522/), der er udarbejdet af den brandrådgiver, der er certificeret til at udføre tredjepartskontrol.
+
+ *Stk. 3.* For byggearbejde omfattet af brandklasse 2-4, jf. [kapitel 27](/ovrige-bestemmelser/27/), skal der med færdigmeldingen ligeledes indsendes en erklæring, om at der er gennemført kontrol og udarbejdet kontrolrapporter for almen kontrol af projektering og udførelse af brandsikringstiltag, jf. [§ 519, stk. 1, nr. 2](/ovrige-bestemmelser/29/krav/506_522/) og 3, og de ved kontrollen fundne afvigelser er behandlet.
+
+§ 43
+
+Byggearbejder, der kræver byggetilladelse, må ikke tages i brug uden kommunalbestyrelsens ibrugtagningstilladelse. 
+
+  * Stk. 2.* Inden kommunalbestyrelsen kan meddele tilladelse til ibrugtagning af byggeriet, skal kommunalbestyrelsen kontrollere, at ansøgeren har indsendt dokumentation jf. [§ 40, stk. 2, nr. 1](/administrative-bestemmelser/krav/40_46/) og erklæringer jf. [§ 40, stk. 2, nr. 2](/administrative-bestemmelser/krav/40_46/) og 3 og hvis relevant erklæringer, jf. 41 og [§ 42](/administrative-bestemmelser/krav/).   * Stk. 3.* Kommunalbestyrelsen kan på ansøgers anmodning udpege en særlig sagkyndig vedrørende den tekniske dokumentation, såfremt dette er nødvendigt for kommunalbestyrelsens afgørelse om ibrugtagningstilladelse. Udgifterne hertil afholdes af ansøgeren.   * Stk. 4.* Garager og carporte, der ikke er integrerede i den primære bebyggelse, samt udhuse, hønsehuse, drivhuse, overdækkede terrasser og lignende, er ikke omfattet af stk. 1 og kan derfor tages i brug uden tilladelse.   * Stk. 5.* Nedrivningsarbejder, der kræver kommunalbestyrelsens tilladelse, jf. [§ 47](/administrative-bestemmelser/krav/47/), er ikke omfattet af stk. 1. § 44
+
+Kommunalbestyrelsen kan give tilladelse til, at bebyggelse kan tages helt eller delvist i brug, selv om byggearbejdet endnu ikke er afsluttet. Kommunalbestyrelsen skal give en frist for byggeriets færdiggørelse og kan kræve sikkerhedsstillelse for færdiggørelsen. Såfremt fristen ikke overholdes, bortfalder tilladelsen til helt eller delvis brug af bebyggelsen, og byggeriet kan færdiggøres ved kommunalbestyrelsens foranstaltning for den stillede sikkerhed.
+
+* Stk. 2. *Kommunalbestyrelsen kan stille vilkår til ansøger i de tilfælde, hvor der gives tilladelse til, at bebyggelse kan tages helt eller delvist i brug, selv om byggearbejdet endnu ikke er afsluttet.
+
+* Stk. 3. *Stk. 1 finder også anvendelse på de byggesager, hvor der efter §§ 19 og 23 er fremsendt starterklæring.\
+§ 45
+
+Ved tilladelse til ibrugtagning, der giver offentligheden adgang til en mine eller lignende anlæg, skal der foreligge en sagkyndig erklæring vedrørende undergrundens styrke- og stabilitetsforhold. Kommunalbestyrelsen kan stille krav om overvågningsforanstaltninger af minen eller lignende anlæg.
+
+§ 46 Kommunalbestyrelsen skal i 10 pct. af de byggesager, hvortil der er meddelt ibrugtagningstilladelse, foretage stikprøvekontrol med den samlede dokumentation, der er indsendt ved færdigmelding af et byggearbejde, som dokumenterer overholdelse af bygningsreglementets krav i det færdige byggeri. Ved stikprøvekontrollen skal kommunalbestyrelsen påse, at byggeriet overholder de for byggearbejdet relevante krav i bygningsreglementet.\
+* Stk. 2.* Kommunalbestyrelsen skal igangsætte stikprøvekontrollen indenfor en måned efter, der er meddelt ibrugtagningstilladelse og meddele bygningsejeren, at byggesagen er udtaget til stikprøvekontrol.   * Stk. 3.* Ved byggearbejder i konstruktionsklasse 2-4 skal kommunalbestyrelsen ikke påse byggeriets overensstemmelse med [kapitel 15](/tekniske-bestemmelser/15/).\
+* Stk. 4.* Ved byggearbejder i brandklasse 2-4 skal kommunalbestyrelsen ikke påse byggeriets overensstemmelse med [kapitel 5](/tekniske-bestemmelser/05/).\
+* Stk. 5.* Byggesager vedrørende enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse samt byggesager vedrørende garager og carporte, udhuse, hønsehuse, drivhuse, overdækkede terrasser og lignende, er ikke omfattet af krav om stikprøvekontrol, jf. stk. 1. [§ 47](../47/)
+
+## Nedrivning af bebyggelse
+
+\

@@ -4,8 +4,13 @@ docs.smoke
 docs.unionraw
 docs.wget
 *~
+.codex/
 .direnv/
 .envrc
 .cache/
+.ruff_cache/
+.venv/
+__pycache__/
+results.txt
 site/
 docs.tar.gz

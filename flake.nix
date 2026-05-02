@@ -18,6 +18,7 @@
             ripgrep
             pv
             http-server
+            lychee
           ];
 
           LD_LIBRARY_PATH = "${pkgs.lib.makeLibraryPath (with pkgs; [ xorg.libX11 ])

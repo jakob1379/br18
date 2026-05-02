@@ -16,6 +16,7 @@ from urllib.parse import parse_qsl, urlsplit, urlunsplit
 
 
 SITE_HOSTS = {"www.bygningsreglementet.dk", "bygningsreglementet.dk"}
+QUERY_ALIAS_RE = re.compile(r"__q_[0-9a-f]+(?=\.[^.]+$)")
 
 DROP_TAGS = {
     "footer",
@@ -115,6 +116,19 @@ def is_same_site_url(url: str) -> bool:
     return bool(parsed.netloc and parsed.netloc in SITE_HOSTS)
 
 
+def canonicalize_asset_path(path: str, source_dir: Path, docs_root: Path) -> str:
+    canonical = QUERY_ALIAS_RE.sub("", path)
+    if canonical == path:
+        return path
+
+    candidate = (
+        docs_root / canonical.lstrip("/")
+        if canonical.startswith("/")
+        else (source_dir / canonical).resolve()
+    )
+    return canonical if candidate.exists() else path
+
+
 def rel_path_for_url(url: str, source_dir: Path, docs_root: Path) -> str | None:
     parsed = urlsplit(url)
 
@@ -124,7 +138,7 @@ def rel_path_for_url(url: str, source_dir: Path, docs_root: Path) -> str | None:
     if parsed.netloc and parsed.netloc not in SITE_HOSTS:
         return None
 
-    path = parsed.path or ""
+    path = canonicalize_asset_path(parsed.path or "", source_dir, docs_root)
     if not path and not parsed.fragment:
         return None
 
@@ -297,6 +311,105 @@ def output_path_for_html(path: Path) -> Path | None:
     return path.parent / stem / "showall" / "index.md"
 
 
+def fix_empty_english_version_links(markdown: str) -> str:
+    pattern = re.compile(
+        r"(?m)(\*English version[^*]*\*)\[\]\(([^)\s]+)(?: \"([^\"]+)\")?\)-"
+    )
+
+    def replace(match: re.Match[str]) -> str:
+        prefix = match.group(1)
+        url = match.group(2)
+        title = match.group(3) or "English version"
+        return f'{prefix}[{title}]({url} "{title}")'
+
+    return pattern.sub(replace, markdown)
+
+
+def normalize_media_alias_links(markdown: str) -> str:
+    return re.sub(r"(/media/[^)\s\"']+)__q_[0-9a-f]+(\.[^)\\s\"']+)", r"\1\2", markdown)
+
+
+def normalize_duplicate_uuid_fragments(markdown: str) -> str:
+    uuid = r"[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}"
+    return re.sub(rf"(#{uuid})#{uuid}", r"\1", markdown)
+
+
+def escape_unresolved_reference_labels(markdown: str) -> str:
+    return re.sub(
+        r"(?<![!\\])\[([^\]\n]+)\](?![\[(])",
+        lambda match: rf"\[{match.group(1)}\]",
+        markdown,
+    )
+
+
+UUID = r"[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}"
+UUID_ANCHOR_LINK_RE = re.compile(
+    rf"(?P<space>\s*)\[(?P<label>[^\]]+)\]\([^)]*#(?P<id>{UUID})\)"
+)
+HEADING_RE = re.compile(r"^(#{1,6}\s+.*?)(?:\s+\{[^}]*\})?\s*$")
+HEADING_ATTR_RE = re.compile(r"^(?P<head>#{1,6}\s+.*?)(?:\s+\{(?P<attrs>[^}]*)\})?\s*$")
+EXPLICIT_ANCHOR_RE = re.compile(
+    r"(?:\{[^}]*#(?P<attr>[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12})[^}]*\}|<[^>]+\bid=[\"'](?P<html>[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12})[\"'][^>]*>)"
+)
+
+
+def explicit_anchor_ids(markdown: str) -> set[str]:
+    ids: set[str] = set()
+    for match in EXPLICIT_ANCHOR_RE.finditer(markdown):
+        ids.add(match.group("attr") or match.group("html"))
+    return ids
+
+
+def add_heading_id(line: str, anchor_id: str) -> str:
+    match = HEADING_ATTR_RE.match(line)
+    if not match:
+        return line
+    attrs = (match.group("attrs") or "").strip()
+    attrs = re.sub(rf"\s*#(?:{UUID})\b", "", attrs).strip()
+    new_attrs = f"#{anchor_id}" if not attrs else f"{attrs} #{anchor_id}"
+    return f"{match.group('head')} {{{new_attrs}}}"
+
+
+def attach_anchor_reference_ids(markdown: str) -> str:
+    """Move Bygningsreglementet accordion UUID anchors onto their headings.
+
+    The source site renders each content block as a ``section.anchor-reference``
+    with a UUID ``id`` and an accordion link such as ``[Kap. 8](#uuid)``.  The
+    cleaner intentionally removes the chrome around those accordions, leaving
+    the trigger link immediately before the section heading.  Zensical validates
+    local anchors, so keep the original section destination by converting the
+    following Markdown heading to ``## Heading { #uuid }`` and removing only the
+    leftover trigger link.
+    """
+    lines = markdown.splitlines()
+    known_ids = explicit_anchor_ids(markdown)
+
+    for index, line in enumerate(lines):
+        for match in list(UUID_ANCHOR_LINK_RE.finditer(line)):
+            anchor_id = match.group("id")
+            label = match.group("label").strip().lower()
+            if label.startswith("gå til") or len(label) > 80:
+                continue
+
+            heading_index = None
+            for candidate in range(index + 1, min(index + 5, len(lines))):
+                if not lines[candidate].strip():
+                    continue
+                if HEADING_RE.match(lines[candidate]):
+                    heading_index = candidate
+                break
+
+            if heading_index is None:
+                continue
+
+            lines[heading_index] = add_heading_id(lines[heading_index], anchor_id)
+            known_ids.add(anchor_id)
+            line = UUID_ANCHOR_LINK_RE.sub("", line, count=1).rstrip()
+            lines[index] = line
+
+    return "\n".join(lines) + ("\n" if markdown.endswith("\n") else "")
+
+
 def convert_file(path: Path, docs_root: Path, delete_html: bool) -> bool:
     output = output_path_for_html(path)
     if output is None:
@@ -315,6 +428,16 @@ def convert_file(path: Path, docs_root: Path, delete_html: bool) -> bool:
 
     markdown = re.sub(r"\[\]\{#[^}]+\}", "", proc.stdout)
     markdown = re.sub(r"(?m)^\[\]\([^\n]+\)\s*$", "", markdown)
+    markdown = re.sub(
+        r"\*\[\]\([^)]+(?:localLink:umb:|%7BlocalLink:umb:)[^)]+\)([^*]+)\*",
+        r"*\1*",
+        markdown,
+    )
+    markdown = fix_empty_english_version_links(markdown)
+    markdown = normalize_media_alias_links(markdown)
+    markdown = normalize_duplicate_uuid_fragments(markdown)
+    markdown = attach_anchor_reference_ids(markdown)
+    markdown = escape_unresolved_reference_labels(markdown)
     output.parent.mkdir(parents=True, exist_ok=True)
     output.write_text(markdown.lstrip(), encoding="utf-8")
     if delete_html:

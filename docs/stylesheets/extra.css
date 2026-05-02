@@ -1,3 +1,35 @@
 .md-grid {
   max-width: initial;
 }
+
+:root {
+  --md-primary-fg-color: #f26522;
+  --md-primary-fg-color--light: #f58c58;
+  --md-primary-fg-color--dark: #cf5318;
+  --md-accent-fg-color: #f26522;
+}
+
+[data-md-color-scheme="default"] .md-header,
+[data-md-color-scheme="default"] .md-tabs {
+  background: #fff;
+  color: #222;
+}
+
+[data-md-color-scheme="default"] .md-header {
+  border-bottom: 1px solid #ece7e3;
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.06);
+}
+
+[data-md-color-scheme="default"] .md-tabs {
+  border-bottom: 1px solid #ece7e3;
+}
+
+[data-md-color-scheme="default"] .md-tabs__link {
+  color: #5b524b;
+  font-weight: 600;
+}
+
+[data-md-color-scheme="default"] .md-tabs__link--active,
+[data-md-color-scheme="default"] .md-tabs__link:hover {
+  color: #f26522;
+}

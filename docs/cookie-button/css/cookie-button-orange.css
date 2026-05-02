@@ -1,0 +1,117 @@
+@font-face {
+    font-family: "CustomIcons";
+    src: url("../fonts/eot/customicons__q_050711f1372c.eot");
+    src:
+        url("../fonts/eot/customicons__q_050711f1372c.eot")
+            format("embedded-opentype"),
+        url("../fonts/woff/customicons__q_050711f1372c.woff") format("woff"),
+        url("../fonts/ttf/customicons__q_050711f1372c.ttf") format("truetype"),
+        url("../fonts/svg/customicons__q_050711f1372c.svg") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+.icon {
+    font-family: "CustomIcons";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: normal;
+    speak: none;
+    display: inline-block;
+    text-decoration: inherit;
+    width: 1em;
+    text-align: center;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1em;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-share:before {
+    content: "\e800";
+}
+.icon-search:before {
+    content: "\e801";
+}
+.icon-plus:before {
+    content: "\e802";
+}
+.icon-mail:before {
+    content: "\e803";
+}
+.icon-download:before {
+    content: "\e804";
+}
+.icon-arrow:before {
+    content: "\e805";
+}
+.icon-burger-close:before {
+    content: "\e806";
+}
+.icon-burger-open:before {
+    content: "\e807";
+}
+.icon-quotation:before {
+    content: "\e808";
+}
+.icon-quotation-mark-left:before {
+    content: "\e812";
+}
+.icon-arrow-large:before {
+    content: "\e809";
+}
+.icon-dropdown:before {
+    content: "\e80a";
+}
+.icon-facebook:before {
+    content: "\e80b";
+}
+.icon-twitter:before {
+    content: "\e810";
+}
+.icon-linkedin:before {
+    content: "\e80d";
+}
+.icon-mailto:before {
+    content: "\e80e";
+}
+.icon-print:before {
+    content: "\e80f";
+}
+.icon-info:before {
+    content: "\e80c";
+}
+.icon-cookie:before {
+    content: "\e811";
+}
+
+.cookie-button {
+    bottom: 0px;
+    right: 0px;
+    width: 45px;
+    height: 45px;
+    background-color: #b2400a;
+    display: block;
+    z-index: 999;
+    cursor: pointer;
+    position: fixed;
+    text-align: center;
+    color: #ffffff;
+    transform-origin: bottom right;
+    transition: all 300ms ease;
+}
+.cookie-button:hover {
+    transform: scale(1.1);
+    background-color: #bc2b16;
+}
+.cookie-button .icon {
+    font-size: 22px;
+    line-height: 47px;
+}
+
+@media only print {
+    .cookie-button {
+        display: none;
+    }
+}
