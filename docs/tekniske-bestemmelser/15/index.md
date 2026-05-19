@@ -9,25 +9,85 @@ title: Konstruktioner (§ 340 - § 357)
 
 ## Se alle bestemmelser om Konstruktioner (§ 340 - § 357)
 
-- [§ 340 - § 343 Konstruktioner](./#s340-343)
-- [§ 344 Projektering og udførelse](./#s344)
-- [§ 345 Særligt for betonkonstruktioner](./#s345)
-- [§ 346 Særligt for stålkonstruktioner](./#s346)
-- [§ 347 Særligt for kompositkonstruktioner](./#s347)
-- [§ 348 Særligt for trækonstruktioner](./#s348)
-- [§ 349 Særligt for murværkskonstruktioner](./#s349)
-- [§ 350 Særligt for geotekniske konstruktioner](./#s350)
-- [§ 351 Særligt for aluminiumkonstruktioner](./#s351)
-- [§ 352 Øvrige materialer og konstruktioner](./#s352)
-- [§ 353 Telte og lignende transportable konstruktioner](./#s353)
-- [§ 354 Stationære opbevaringssystemer](./#s354)
-- [§ 355 Tilskuertribuner](./#s355)
-- [§ 356 Undtagelser](./#s356)
-- [§ 357 Drift, kontrol og vedligehold](./#s357)
+- [§ 340 -
+
+### § 343 {#paragraf-343}
+
+Konstruktioner](./#s340-343)
+- [
+
+### § 344 {#paragraf-344}
+
+Projektering og udførelse](./#s344)
+- [
+
+### § 345 {#paragraf-345}
+
+Særligt for betonkonstruktioner](./#s345)
+- [
+
+### § 346 {#paragraf-346}
+
+Særligt for stålkonstruktioner](./#s346)
+- [
+
+### § 347 {#paragraf-347}
+
+Særligt for kompositkonstruktioner](./#s347)
+- [
+
+### § 348 {#paragraf-348}
+
+Særligt for trækonstruktioner](./#s348)
+- [
+
+### § 349 {#paragraf-349}
+
+Særligt for murværkskonstruktioner](./#s349)
+- [
+
+### § 350 {#paragraf-350}
+
+Særligt for geotekniske konstruktioner](./#s350)
+- [
+
+### § 351 {#paragraf-351}
+
+Særligt for aluminiumkonstruktioner](./#s351)
+- [
+
+### § 352 {#paragraf-352}
+
+Øvrige materialer og konstruktioner](./#s352)
+- [
+
+### § 353 {#paragraf-353}
+
+Telte og lignende transportable konstruktioner](./#s353)
+- [
+
+### § 354 {#paragraf-354}
+
+Stationære opbevaringssystemer](./#s354)
+- [
+
+### § 355 {#paragraf-355}
+
+Tilskuertribuner](./#s355)
+- [
+
+### § 356 {#paragraf-356}
+
+Undtagelser](./#s356)
+- [
+
+### § 357 {#paragraf-357}
+
+Drift, kontrol og vedligehold](./#s357)
 
 ## § 340 - § 343 Konstruktioner {#s340-343}
 
-### § 340 {#p340}
+### § 340 {#p340 #paragraf-340}
 
 Projektering, udførelse, drift og vedligehold af konstruktioner og bygningsdele skal ske under hensyn til, at der:
 
@@ -36,21 +96,21 @@ Projektering, udførelse, drift og vedligehold af konstruktioner og bygningsdele
 3. Skal opnås tilfredsstillende forhold i funktions- og holdbarhedsmæssig henseende.
 4. Ikke opstår risiko for personers sundhed på grund af indtrængen af skadedyr.
 
-### § 341 {#p341}
+### § 341 {#p341 #paragraf-341}
 
 I byggeri skal der anvendes materialer, som er egnede til det konkrete formål.
 
-### § 342 {#p342}
+### § 342 {#p342 #paragraf-342}
 
 Fundering skal ske til frostsikker dybde og bæredygtig bund eller på anden måde, så der ikke opstår skader som følge af bevægelser i jordbunden. Ved udvendig frostsikring af fundamenter skal der tages særlig hensyn til løsningernes robusthed og pålidelighed, så frostsikringen bevares i hele bygningens levetid.
 
-### § 343 {#p343}
+### § 343 {#p343 #paragraf-343}
 
 Tage og ovenlys i tage skal udføres, så der er tilfredsstillende sikkerhed mod gennemtrædning.
 
 ## § 344 Projektering og udførelse {#s344}
 
-### § 344 {#p344}
+### § 344 {#p344 #paragraf-344}
 
 Konstruktioner skal projekteres og udføres, så de kan modstå de normalt forekommende statiske og dynamiske påvirkninger i forhold til konstruktionens placering og anvendelse.
 
@@ -70,7 +130,7 @@ Konstruktioner skal projekteres og udføres, så de kan modstå de normalt forek
 
 ## § 345 Særligt for betonkonstruktioner {#s345}
 
-### § 345 {#p345}
+### § 345 {#p345 #paragraf-345}
 
 Projektering og udførelse af betonkonstruktioner skal, udover bestemmelserne i [§ 344](/tekniske-bestemmelser/15/krav/344/), ske i overensstemmelse med:
 
@@ -86,7 +146,7 @@ Referencer er inklusiv tilhørende rettelsesblade og tillæg.
 
 ## § 346 Særligt for stålkonstruktioner {#s346}
 
-### § 346 {#p346}
+### § 346 {#p346 #paragraf-346}
 
 Projektering og udførelse af stålkonstruktioner skal, udover bestemmelserne i [§ 344](/tekniske-bestemmelser/15/krav/344/), ske i overensstemmelse med:
 
@@ -105,7 +165,7 @@ Referencer er inklusiv tilhørende rettelsesblade og tillæg.
 
 ## § 347 Særligt for kompositkonstruktioner {#s347}
 
-### § 347 {#p347}
+### § 347 {#p347 #paragraf-347}
 
 Projektering og udførelse af kompositkonstruktioner skal, udover bestemmelserne i [§ 344](/tekniske-bestemmelser/15/krav/344/), ske i overensstemmelse med:
 
@@ -116,7 +176,7 @@ Referencer er inklusiv tilhørende rettelsesblade og tillæg.
 
 ## § 348 Særligt for trækonstruktioner {#s348}
 
-### § 348 {#p348}
+### § 348 {#p348 #paragraf-348}
 
 Projektering og udførelse af trækonstruktioner skal, udover bestemmelserne i [§ 344](/tekniske-bestemmelser/15/krav/344/), ske i overensstemmelse med:
 
@@ -127,7 +187,7 @@ Referencer er inklusiv tilhørende rettelsesblade og tillæg.
 
 ## § 349 Særligt for murværkskonstruktioner {#s349}
 
-### § 349 {#p349}
+### § 349 {#p349 #paragraf-349}
 
 Projektering og udførelse af murværkskonstruktioner skal, udover bestemmelserne i [§ 344](/tekniske-bestemmelser/15/krav/344/), ske i overensstemmelse med:
 
@@ -139,7 +199,7 @@ Reference er inklusiv tilhørende rettelsesblade og tillæg.
 
 ## § 350 Særligt for geotekniske konstruktioner {#s350}
 
-### § 350 {#p350}
+### § 350 {#p350 #paragraf-350}
 
 Projektering og udførelse af geotekniske konstruktioner skal, udover bestemmelserne i [§ 344](/tekniske-bestemmelser/15/krav/344/), ske i overensstemmelse med:
 
@@ -150,7 +210,7 @@ Referencer er inklusiv tilhørende rettelsesblade og tillæg.
 
 ## § 351 Særligt for aluminiumkonstruktioner {#s351}
 
-### § 351 {#p351}
+### § 351 {#p351 #paragraf-351}
 
 Projektering og udførelse af aluminiumkonstruktioner skal, udover bestemmelserne i [§ 344](/tekniske-bestemmelser/15/krav/344/), ske i overensstemmelse med:
 
@@ -162,36 +222,36 @@ Referencer er inklusiv tilhørende rettelsesblade og tillæg.
 
 ## § 352 Øvrige materialer og konstruktioner {#s352}
 
-### § 352 {#p352}
+### § 352 {#p352 #paragraf-352}
 
 Ved anvendelse af materialer og konstruktioner, der ikke er omfattet af bestemmelserne i [§ 345](/tekniske-bestemmelser/15/krav/345/)-351, skal det dokumenteres, at der opnås et sikkerhedsniveau, som beskrevet i [§ 344](/tekniske-bestemmelser/15/krav/344/).
 
 ## § 353 Telte og lignende transportable konstruktioner {#s353}
 
-### § 353 {#p353}
+### § 353 {#p353 #paragraf-353}
 
 Telte og lignende transportable konstruktioner skal dimensioneres i overensstemmelse med DS/EN 13782, Midlertidige konstruktioner -- Telte -- Sikkerhed med DS/EN 13782 DK NA, eller på en måde, som sikrer, at de relevante bestemmelser i [§§ 344-351 e](/tekniske-bestemmelser/15/krav/344/)r opfyldt.
 
 ## § 354 Stationære opbevaringssystemer {#s354}
 
-### § 354 {#p354}
+### § 354 {#p354 #paragraf-354}
 
 Stationære opbevaringssystemer skal dimensioneres i overensstemmelse med DS/EN 15512 Stationære opbevaringssystemer af stål - Justerbare pallereolsystemer - Principper for dimensionering med DS/EN 15512 DK NA, eller på en måde, som sikrer, at de relevante bestemmelser i [§§ 344-351 e](/tekniske-bestemmelser/15/krav/344/)r opfyldt.
 
 ## § 355 Tilskuertribuner {#s355}
 
-### § 355 {#p355}
+### § 355 {#p355 #paragraf-355}
 
 Teleskopstande og demonterbare tilskuertribuner skal dimensioneres i overensstemmelse med henholdsvis DS/EN 13200-5 og DS/EN 13200-6 med DS/EN 13200-5 DK NA og DS/EN 13200-6 DK NA, eller på en måde, som sikrer, at de relevante bestemmelser i [§§ 344-351 e](/tekniske-bestemmelser/15/krav/344/)r opfyldt.
 
 ## § 356 Undtagelser {#s356}
 
-### § 356 {#p356}
+### § 356 {#p356 #paragraf-356}
 
 [§ 344, stk. 2](/tekniske-bestemmelser/15/krav/344/), til § 351 samt [§§ 353-355 k](/tekniske-bestemmelser/15/krav/353/)an fraviges, hvis det på anden vis sikres og dokumenteres, at en afvigelse er forsvarlig, og der opnås et sikkerhedsniveau, som beskrevet i [§ 344, stk. 2, nr. 1](/tekniske-bestemmelser/15/krav/344/).
 
 ## § 357 Drift, kontrol og vedligehold {#s357}
 
-### § 357 {#p357}
+### § 357 {#p357 #paragraf-357}
 
 Drift, kontrol og vedligehold af konstruktioner skal ske, så de til enhver tid overholder de relevante bestemmelser i [§ 344](/tekniske-bestemmelser/15/krav/344/)-356.

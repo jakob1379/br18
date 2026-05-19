@@ -1,6 +1,5 @@
 # Konstruktioner (§ 340 - § 357)
 
-
 ## Se alle vejledninger om Konstruktioner (§ 340 - § 357)
 
 - [Bygningsreglementets vejledning om konstruktioner](../)
@@ -9,9 +8,7 @@
 
 ## Bygningsreglementets vejledning om konstruktioner
 
-
 ### Rettelsesblad til Bygningsreglementets vejledning om konstruktioner omhandlende bæreevnevurdering af eksisterende konstruktioner (24.01.2024)
-
 
 ### Forord
 
@@ -49,21 +46,19 @@
 
 Bygningsejere bør undersøge og vedligeholde altaner. Sammen med bl.a. den miljømæssige eksponering af altankonstruktionen og den kvalitet, som altanen oprindeligt er opført i, vil omfanget og kvaliteten af de vedligeholdelsesforanstaltninger, der løbende udføres på altanen, afgøre altanens levetid.
 
-\
-
-#### 
+####
 
 Vejledning: Vejledning om altaner med udliggerjern
 
-#### 
+####
 
 #### Gå til vejledning @@PROTECTED_11@@
 
-#### 
+####
 
 Vejledning: Eftersyn af ældre betonaltaner
 
-#### 
+####
 
 #### @@PROTECTED_12@@
 
@@ -79,4 +74,3 @@ Vejledning: Eftersyn af ældre betonaltaner
 
 ### Tagbrønde og tagnedløb
 
-\

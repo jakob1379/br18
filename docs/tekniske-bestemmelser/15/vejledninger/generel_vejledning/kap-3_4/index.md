@@ -1,6 +1,5 @@
 # Konstruktioner (§ 340 - § 357)
 
-
 ## Se alle vejledninger om Konstruktioner (§ 340 - § 357)
 
 - [Bygningsreglementets vejledning om konstruktioner](../)
@@ -9,9 +8,7 @@
 
 ## Bygningsreglementets vejledning om konstruktioner
 
-
 ### Rettelsesblad til Bygningsreglementets vejledning om konstruktioner omhandlende bæreevnevurdering af eksisterende konstruktioner (24.01.2024)
-
 
 ### Forord
 
@@ -57,9 +54,7 @@
 
 Bygningsejer bør holde øje med fugt i konstruktionen. Fugt i bygninger kan føre til usundt indeklima og svækkede konstruktioner. Fugt i bygninger bør allerede undgås i selve byggeprocessen, men eventuelle fugtskader herefter kan forhindres ved vedligeholdelse og renovering. Ved renoveringsopgaver udføres undersøgelser af de eksisterende forhold, og membraner i bygningen kontrolleres, så eventuelle fugtskader registreres og afgrænses.
 
-\
 [3.5.](../kap-3_5/)
 
 ### Tagbrønde og tagnedløb
 
-\

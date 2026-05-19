@@ -1,6 +1,5 @@
 # Andre vejledninger
 
-
 ## Se alle vejledninger om Andre vejledninger
 
 - [Vejledning om byggelovens § 6 D](../vejledning-om-byggelovens-6-d)
@@ -16,8 +15,6 @@
 
 ## Vejledning om installationer i eksisterende bygninger
 
-
-
 ### Indledning {#068270ca-fb35-4d17-a566-ef47c3d57a92}
 
 *Vejledningen om installationer i eksisterende bygninger er revideret af Trafik-, Bygge- og Boligstyrelsen i oktober 2018. *
@@ -30,20 +27,26 @@ Vejledningen giver desuden en række konkrete eksempler på, hvornår bygningsre
 
 Hvis en teknisk installation ikke er behandlet i vejledningen, er det ikke ensbetydende med, at den ikke kan være omfattet af krav i gældende bygningsreglement.
 
-
-
 ### Anden lovgivning mht. installationsarbejde {#bf57ff9a-ec82-4beb-926a-891398b827ff}
 
 Det skal bemærkes, at der ud over kravene i det gældende bygningsreglement også stilles krav i anden lovgivning, der vedrører udførelsen, tekniske installationer, byggematerialer og komponenter. Den øvrige lovgivning er bl.a.:
 
-> • Vandforsynings- og Miljøbeskyttelseslovgivningen\
-> \
-> • Ecodesign forordningerne (krav til produkters energiforbrug)\
-> \
-> • Elsikkerhedsloven (Lov om sikkerhed ved elektriske anlæg, elektriske installationer og elektrisk materiel)\
-> \
-> • Beredskabsloven (brandslukning)\
-> \
+> • Vandforsynings- og Miljøbeskyttelseslovgivningen
+
+>
+
+> • Ecodesign forordningerne (krav til produkters energiforbrug)
+
+>
+
+> • Elsikkerhedsloven (Lov om sikkerhed ved elektriske anlæg, elektriske installationer og elektrisk materiel)
+
+>
+
+> • Beredskabsloven (brandslukning)
+
+>
+
 > • Vejlovgivningen
 
 Det skal bemærkes at det altid er bygningsejerens ansvar, at der anvendes installationskomponenter, byggematerialer m.m., der opfylder kravene i byggevareforordningen. Derudover findes der anden europæisk lovgivning, fx direktiver, som på forskellig vis er implementeret i dansk ret. Dette omfat-ter blandt andet maskindirektivet, trykudstyrsdirektivet (PED) og lavspæn-dingsdirektivet.
@@ -61,8 +64,6 @@ I bygningsreglementet er det fastlagt, at projektering, udførelse, drift og ved
 4.  At der ikke sker unødigt forbrug af energi.
 
 Disse overordnede krav beskrives i resten af vejledningen som de 'gældende krav i bygningsreglementet'.
-
-
 
 ### Hvornår skal man overholde krav i bygningsreglementet? {#d7d78f5d-86a5-44cb-97a7-467dfbfb417c}
 
@@ -118,7 +119,8 @@ Eksempler, hvor der kan stilles krav i forbindelse med hel eller delvis fjernels
 
 ****
 
->  **• **Ny facadebeklædning uden genetablering af eksisterende udeluftventiler kræver, at ventilationen tilvejebringes på anden vis.\
+>  **• **Ny facadebeklædning uden genetablering af eksisterende udeluftventiler kræver, at ventilationen tilvejebringes på anden vis.
+
 > \****
 > **• Ny facadebeklædning, som tætner facaden og fjerner utætheder, kan udløse krav om udeluftventiler i vinduer eller andre foranstaltninger.\**
 > ***•* Blænding af udeluftventiler og ventilationsaftræk for naturlig ventilation medfører, at der skal laves et mekanisk ventilationsanlæg, som sikrer basisluftskiftet.\**
@@ -154,8 +156,6 @@ Eksempler på en mindre ændring af en teknisk installation, hvor der ikke still
 Det gældende bygningsreglement stiller krav om, at eksisterende installationer vedligeholdes således, at de krav der var gældende, da byggetilladelsen blev givet eller på installationstidspunktet, altid opfyldes.
 
 For eksempel stilles der ikke nye krav ved udskiftning af: Ventiler, rørdele, pakninger, styring, følere, sensorer, spjæld, filtre m.m., idet dette betragtes som almindelig vedligeholdelse. Hvis de delkomponenter, der udskiftes, er omfattet af en harmoniseret standard, skal disse dog være CE-mærkede (se [byggevareinfo.dk](http://byggevareinfo.dk/){rel="noopener noreferrer" target="_blank"}) eller have anden national godkendelse.  ****
-
-
 
 ### Eksempler på installationsarbejder - Balanceret mekanisk ventilationsanlæg {#7fde19f7-262d-4dba-9743-b5ee785c3f13}
 
@@ -195,14 +195,14 @@ Kravene til ventilationssystemer er fastsat i bygningsreglementets kapitel 22 *-
 
 Kravene er blandt andre, at ventilationssystemet skal projekteres og udføres i overensstemmelse med DS 447, DS 428 og DS 452.
 
-For bygninger, der anvendes til bolig, daginstitution eller undervisningsrum, skal de konkrete ventilationskrav i gældende bygningsreglement opfyldes med hensyn til luftmængder. For andre bygningsanvendelsestyper er det et krav i bygningsreglementet, at der foretages en projektering og udførelse af den nødvendige ventilationsluftmængde i forhold til den konkrete størrelse og anvendelse, så der sikres tilfredsstillende luftkvalitet og fugtforhold.\
-\
-For den energimæssige ydeevne af et mekanisk ventilationsanlæg stilles der krav i bygningsreglementet om brug af varmegenvinding i visse bygningstyper og til anlæggets elforbrug til lufttransport (SEL-værdi).\
-\
+For bygninger, der anvendes til bolig, daginstitution eller undervisningsrum, skal de konkrete ventilationskrav i gældende bygningsreglement opfyldes med hensyn til luftmængder. For andre bygningsanvendelsestyper er det et krav i bygningsreglementet, at der foretages en projektering og udførelse af den nødvendige ventilationsluftmængde i forhold til den konkrete størrelse og anvendelse, så der sikres tilfredsstillende luftkvalitet og fugtforhold.
+
+For den energimæssige ydeevne af et mekanisk ventilationsanlæg stilles der krav i bygningsreglementet om brug af varmegenvinding i visse bygningstyper og til anlæggets elforbrug til lufttransport (SEL-værdi).
+
 I særlige tilfælde, hvor det for eksempel af bygningstekniske årsager ikke kan lade sig gøre at opfylde kravene i det gældende bygningsreglement fuldt ud, kan der søges om dispensation. Fx kan der af pladshensyn, være behov for at bruge mindre ventilationskanaler, og dermed øges tryktabet, som har betydning for SEL-værdien, hvorved kravet måske ikke kan opfyldes.
 
-Bygningsreglementet stiller også krav om, at der skal gennemføres en funktionsafprøvning af ventilationsanlægget før ibrugtagning.**\
-\
+Bygningsreglementet stiller også krav om, at der skal gennemføres en funktionsafprøvning af ventilationsanlægget før ibrugtagning.**
+
  **
 
 *****Udskiftning af varmegenvinder eller ventilator**\***
@@ -263,7 +263,8 @@ I forbindelse med anden ombygning kan der være behov for mindre flytninger af k
 
 Ved flytning af indblæsnings- og afkastventiler eller -armaturer stiller det gældende bygningsreglement krav om, at det sikres, at der ikke opstår træk i opholdszonen. Ligeledes skal kravene i DS 447 for luftindtag og -afkast overholdes, fx med hensyn til at de ikke må være til gene for omgivelserne, og at de skal være modstandsdygtige over for indtrængende vand.
 
-**\
+**
+
 Hel eller delvis fjernelse af et ventilationssystem \**
 
 **Ved hel eller delvis fjernelse af et ventilationssystem stiller bygningsreglementet krav om, at ventilationen genetableres svarende til en nyinstallation af et ventilationssystem. Det kan for eksempel være i forbindelse med en facaderenovering, hvor udeluftventilerne i ydervæggen ikke genetableres eller ved nedtagning af et ældre udtjent mekanisk udsugningsanlæg.**
@@ -274,7 +275,8 @@ Hel eller delvis fjernelse af et ventilationssystem \**
 
 **\**
 
-**Reparation og vedligeholdelse af varmegenvindingsaggregat (unit)\
+**Reparation og vedligeholdelse af varmegenvindingsaggregat (unit)
+
 \**
 
 Ved reparation og vedligeholdelse af et samlet varmegenvindingsaggregat stiller det gældende bygningsreglement ikke nye krav.
@@ -284,7 +286,6 @@ Reparation af et varmegenvindingsaggregat må ikke medføre, at kravene, da bygg
 Desuden stiller det gældende bygningsreglement krav om, at eksisterende installationer vedligeholdes således, at de krav der var gældende, da byggetilladelsen blev givet eller på installationstidspunktet, altid opfyldes.
 
 *\*
-
 
 ### Eksempler på installationsarbejder - Centralvarmekedler {#dc1acdb0-fe10-452c-b0c1-935f9d7b366f}
 
@@ -363,8 +364,10 @@ Hvis tilbygningens overholdelse af bygningsreglementets energikrav er baseret p�
 
 Der stilles desuden krav for tilbygningens varmefordelingssystem med hensyn til DS 452 og DS 469.
 
-***\
-Reparation og vedligeholdelse af kedel\
+***
+
+Reparation og vedligeholdelse af kedel
+
 \***
 
 Ved reparationer og udskiftning af delkomponenter i kedlen stilles der ingen krav til den eksisterende kedel. Reparationen eller udskiftningen må dog ikke medføre, at kedlen ikke kan opfylde de på installationstidspunktet gældende krav.
@@ -375,14 +378,13 @@ Hvis der i forbindelse med reparationsarbejdet foretages udskiftning eller delvi
 
 Desuden stiller det gældende bygningsreglement krav om, at eksisterende installationer vedligeholdes således, at de krav der var gældende, da byggetilladelsen blev givet eller på installationstidspunktet, altid opfyldes.
 
-**\
+**
+
 ***Særligt for oliekedler***\**
 
 For eksisterende bygninger, der ligger i et fjernvarme- eller naturgasområde, er det ikke muligt at udskifte en ældre oliekedel til en ny.
 
 Det er dog stadig muligt at installere en oliekedel uanset tidligere opvarmningsform, hvis den eksisterende bygning ligger i et område uden eksisterende eller planlagt kollektiv varmeforsyning.
-
-
 
 ### Eksempler på installationsarbejder - Varmerør {#03bf3fc2-3dec-41d4-a103-1e124bb50fed}
 
@@ -438,7 +440,7 @@ Ved mindre reparationer af varmerør svarende til udskiftning af enkelte rørfit
 
 ### Eksempler på installationsarbejder - Vådrum {#a758f331-d816-42e9-9c9c-e8d9540afb88}
 
-***Nyinstallation***\
+***Nyinstallation***
 
 Fx. ændret anvendelse af et værelse til vådrum.
 
@@ -446,7 +448,7 @@ Fx. ændret anvendelse af et værelse til vådrum.
 
  
 
-***Udskiftning***\
+***Udskiftning***
 
 Eksisterende vådrum skal total renoveres for etablering af nyt vådrum.
 
@@ -462,16 +464,15 @@ Nedtagning af enkeltkomponent for opsætning andet sted i rummet, eksempelvis to
 
 > \- Nye tilslutninger skal følge krav til nyinstallation
 >
-> \- Installationsgenstand må geninstalleres\
-> \
+> \- Installationsgenstand må geninstalleres
+
+>
 
 Mindre flytning af installationer, eksempelvis i forbindelse med opsætning af nyt badeværelsesskab med indbygget vask, som dog ikke ændrer på afløb eller tilslutning til brugsvand.
 
 > \- Bestemmelser om mindre ændringer følges
 
-\
-
-***Hel eller delvis fjernelse af installation ***\
+***Hel eller delvis fjernelse af installation ***
 
 Nedtagning af en installation kan medføre krav fx.
 
@@ -487,7 +488,7 @@ Nedtagning af eksempelvis badekar for bibeholdelse af bruseområde
 
  
 
-***Reparation og mindre anlæg***\
+***Reparation og mindre anlæg***
 
 Udskiftning af armatur i væg til nyt
 
@@ -499,6 +500,6 @@ Udskiftning af armatur i væg til nyt
 
 Skift af pakning i enkeltkomponenter som eksempelvis toilet eller armatur
 
-> \- Der stilles ikke krav i bygningsreglementet for denne type vedligeholdelsesarbejde, dog skal de komponenter der udskiftes fortsat leve op til de oprindelige krav, herunder at leverandørens anvisninger følges.\
+> \- Der stilles ikke krav i bygningsreglementet for denne type vedligeholdelsesarbejde, dog skal de komponenter der udskiftes fortsat leve op til de oprindelige krav, herunder at leverandørens anvisninger følges.
 
-\
+

@@ -1,6 +1,5 @@
 # Konstruktioner (§ 340 - § 357)
 
-
 ## Se alle vejledninger om Konstruktioner (§ 340 - § 357)
 
 - [Bygningsreglementets vejledning om konstruktioner](../)
@@ -9,9 +8,7 @@
 
 ## Bygningsreglementets vejledning om konstruktioner
 
-
 ### Rettelsesblad til Bygningsreglementets vejledning om konstruktioner omhandlende bæreevnevurdering af eksisterende konstruktioner (24.01.2024)
-
 
 ### Forord
 
@@ -45,27 +42,27 @@
 
 Bygningsejer bør rydde eventuel sne fra sit tag og sikre at der ikke sker vandophobning, såfremt der er risiko for kollaps. Især ejere af haller og lignende bygninger med store spænd bør undersøge denne risiko og være opmærksomme på sne eller vandophobning på deres tage.
 
-#### 
+####
 
 Vejledning: Er din bygning snesikker?
 
-#### 
+####
 
 #### Gå til vejledning @@PROTECTED_10@@
 
-#### 
+####
 
 Vejledning: Hvordan rydder jeg mit tag for sne?
 
-#### 
+####
 
 #### Gå til vejledning @@PROTECTED_11@@
 
-#### 
+####
 
 Vejledning: Forebyggelse af sne og ophobning af vand på haller og store tage
 
-#### 
+####
 
 #### Gå til vejledning @@PROTECTED_12@@
 
@@ -85,4 +82,3 @@ Vejledning: Forebyggelse af sne og ophobning af vand på haller og store tage
 
 ### Tagbrønde og tagnedløb
 
-\

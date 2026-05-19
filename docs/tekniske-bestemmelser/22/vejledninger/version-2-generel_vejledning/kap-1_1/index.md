@@ -1,6 +1,5 @@
 # Ventilation (§ 420 - § 452)
 
-
 ## Se alle vejledninger om Ventilation (§ 420 - § 452)
 
 - [Bygningsreglementets vejledning om ventilation](../)
@@ -8,7 +7,6 @@
 - [Spørgsmål og svar](../../sporgsmaal_svaar/)
 
 ## Bygningsreglementets vejledning om ventilation
-
 
 ### Forord
 
@@ -28,19 +26,17 @@ Der henvises til DS/EN ISO 7730 Ergonomi inden for termisk miljø -- Analytisk b
 
 Rengøringsstandarden i et rum har stor betydning for luftkvaliteten. Der henvises til bekendtgørelse om faste arbejdssteders indretning.
 
- 
-
 *Regler i arbejdsmiljølovgivningen af særlig relevans i forbindelse med projektering.*
 
-Efter arbejdsmiljølovens § 33 gælder det, at den der rådgiver om eller leverer et projekt til et bygge- og anlægsarbejde, i projektet skal tage hensyn til sikkerhed og sundhed ved arbejdets udførelse og driften af det færdige byggeri. Det skal være muligt, at udfører arbejdet med at betjene og vedligeholde mv. ventilationsanlæg sikkerheds- og sundhedsmæssigt fuldt forsvarligt. Der skal herunder være sådan tilgang til anlæggene, at arbejdet kan udføres med forsvarlige arbejdsstillinger og -bevægelser, og der skal være sikret mod nedstyrtning i forbindelse med arbejdet. 
+Efter arbejdsmiljølovens § 33 gælder det, at den der rådgiver om eller leverer et projekt til et bygge- og anlægsarbejde, i projektet skal tage hensyn til sikkerhed og sundhed ved arbejdets udførelse og driften af det færdige byggeri. Det skal være muligt, at udfører arbejdet med at betjene og vedligeholde mv. ventilationsanlæg sikkerheds- og sundhedsmæssigt fuldt forsvarligt. Der skal herunder være sådan tilgang til anlæggene, at arbejdet kan udføres med forsvarlige arbejdsstillinger og -bevægelser, og der skal være sikret mod nedstyrtning i forbindelse med arbejdet.
 
 Reglerne beskrevet ovenfor er fastlagt i arbejdsmiljøloven. Yderligere og opdateret information kan findes på Arbejdstilsynets hjemmeside. Desuden opstiller DS 447 pkt. 6.6 krav til tilgængelighed og pladskrav.
 
-#### 
+####
 
 DS/EN ISO 7730 - Ergonomi inden for termisk miljø - Analytisk bestemmelse og fortolkning af termisk komfort ved beregning af PMV- og PPD-indekser og lokale termiske komfortkriterier
 
-#### 
+####
 
 #### Standarden findes på dansk i Dansk Standards webshop webshop.ds.dk
 
@@ -48,33 +44,33 @@ DS/EN ISO 7730 - Ergonomi inden for termisk miljø - Analytisk bestemmelse og fo
 
 Indeklima
 
-#### 
+####
 
 #### @@PROTECTED_4@@
 
 De tre nævnte standarder nedenfor skal overholdes, når ventilationen projekteres og udføres. DS 447 indeholder de overordnede krav til ventilationssystemer, mens DS 428 indeholder brandkravene til ventilationsanlæg og DS 452 indeholder krav til isolering af de tekniske installationer, herunder ventilation.
 
-#### 
+####
 
 DS 428 - Norm for brandtekniske foranstaltninger ved ventilationsanlæg
 
-#### 
+####
 
 #### Standarden findes på dansk i Dansk Standards{target="_blank"}
 
-#### 
+####
 
 DS 447 - Ventilation i bygninger - Mekaniske, naturlige og hybride ventilationssystemer
 
-#### 
+####
 
 #### Standarden findes på dansk i Dansk Standards webshop.ds.dk
 
-#### 
+####
 
 DS 452 - Termisk isolering
 
-#### 
+####
 
 #### Standarden findes på dansk i Dansk Standards webshop.ds.dk
 
@@ -138,4 +134,3 @@ Ved ombygning og renoveringsarbejder kan der ske lempelser af bestemmelserne i [
 
 ### Drift og vedligehold
 
-\

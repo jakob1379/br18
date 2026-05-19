@@ -1,6 +1,5 @@
 # Andre vejledninger
 
-
 ## Se alle vejledninger om Andre vejledninger
 
 - [Vejledning om byggelovens § 6 D](../../vejledning-om-byggelovens-6-d)
@@ -16,7 +15,6 @@
 
 ## Vejledning om certificering af statikere og brandrådgivere
 
-
 ### Vejledning om certificering af statikere og brandrådgivere
 
 [Vejledning om certificering af statikere og brandrådgivere](../../../../../media/zl4jkn1r/vejledning-om-certificering-af-statikere-og-brandraadgivere-22-01-2024-a.pdf "Vejledning om certificering af statikere og brandrådgivere 22-01-2024") (nyt vindue)
@@ -27,4 +25,3 @@
 
 (11.04.2024)
 
-\

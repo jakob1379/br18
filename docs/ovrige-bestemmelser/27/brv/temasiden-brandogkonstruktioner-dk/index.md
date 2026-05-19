@@ -1,6 +1,5 @@
 # Brandklasser (§ 490 - § 493)
 
-
 ## Se alle vejledninger om Brandklasser (§ 490 - § 493)
 
 -
@@ -10,7 +9,5 @@
 
 ## Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner
 
-
 ### Klik her for link til temasiden Brandogkonstruktioner.dk
 
-\

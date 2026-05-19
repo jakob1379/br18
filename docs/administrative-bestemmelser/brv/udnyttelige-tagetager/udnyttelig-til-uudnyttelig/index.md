@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -23,15 +26,11 @@
 
 ## Vejledning om udnyttelige tagetager
 
-
 ### Udnyttelige tagetager og bebyggelsesprocenten
-
 
 ### Hvad er en udnyttelig tagetage?
 
-
 ### Hvilket areal medregnes i en udnyttelig tagetage?
-
 
 ### Fra udnyttelig til uudnyttelig tagetage
 
@@ -39,7 +38,5 @@ En eksisterende udnyttelig tagetage kan gøres uudnyttelig under forudsætning a
 
 Såfremt der udelukkende sker konstruktive ændringer med henblik på at ændre grundlaget for beregning af bebyggelsesprocenten, vil det ikke betyde, at en udnyttelig tagetage bliver uudnyttelig.
 
-
 ### Anvendelsen af den udnyttelige tagetage
 
-\

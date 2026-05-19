@@ -1,6 +1,5 @@
 # Lydforhold (§ 368 - § 376)
 
-
 ## Se alle vejledninger om Lydforhold (§ 368 - § 376)
 
 - [Bygningsreglementets vejledning om lydforhold](../../generel_vejledning/)
@@ -38,4 +37,3 @@ Tabellerne i dette afsnit beskriver lydbestemmelserne for lydisolation, støj in
 
 ### Rumakustik i boliger
 
-\

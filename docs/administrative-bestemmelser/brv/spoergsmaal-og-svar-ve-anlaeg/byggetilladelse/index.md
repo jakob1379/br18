@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../)
@@ -23,12 +26,9 @@
 
 ## Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)
 
-
 ### Hvad forestås ved elproducerende VE-anlæg?
 
-
 ### Hvilke regler gælder for tilladelsesprocessen for elproducerende VE-anlæg?
-
 
 ### I hvilke tilfælde skal der søges om byggetilladelse ved etablering af elproducerende VE-anlæg?
 
@@ -36,9 +36,7 @@ For at afklare, om der skal søges om byggetilladelse til et elproducerende VE-a
 
 Det er kommunen som bygningsmyndighed, der i den konkrete sag vurderer, om det elproducerende VE-anlæg er omfattet af [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178). Hvis kommunen vurderer, at VE-anlægget er omfattet af [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178), vil etableringen af anlægget skulle leve op til relevante krav i bygningsreglementet og følge den generelle byggesagsbehandling. Det betyder bl.a., at der er krav om byggetilladelse til at påbegynde byggearbejdet og ibrugtagningstilladelse til at tage det færdige byggeri i brug. Ibrugtagningstilladelsen gives af kommunen i forbindelse med færdigmelding af byggeriet. For nærmere herom kan henvises til [Vejledning om byggesagsbehandling efter BR18](../../vejledning-om-byggesagsbehandling-efter-br18/ "Vejledning om byggesagsbehandling efter BR18").
 
-I de tilfælde der er krav om byggetilladelse til et elproducerende VE-anlæg, skal kommunen i henhold til tidsfristerne for tilladelsesprocessen for VE-anlæg behandle ansøgningen om byggetilladelse til anlægget inden for to år. Tidsfristen på to år begynder at løbe, når alle relevante ansøgninger er indleveret til de relevante myndigheder i fyldestgørende stand. 
-
+I de tilfælde der er krav om byggetilladelse til et elproducerende VE-anlæg, skal kommunen i henhold til tidsfristerne for tilladelsesprocessen for VE-anlæg behandle ansøgningen om byggetilladelse til anlægget inden for to år. Tidsfristen på to år begynder at løbe, når alle relevante ansøgninger er indleveret til de relevante myndigheder i fyldestgørende stand.
 
 ### Hvad er reglerne for brand- og konstruktionsforhold ved etablering af elproducerende VE-anlæg, og skal der tilknyttes en certificerede rådgivere?
 
-\

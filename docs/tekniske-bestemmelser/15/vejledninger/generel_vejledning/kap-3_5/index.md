@@ -1,6 +1,5 @@
 # Konstruktioner (§ 340 - § 357)
 
-
 ## Se alle vejledninger om Konstruktioner (§ 340 - § 357)
 
 - [Bygningsreglementets vejledning om konstruktioner](../)
@@ -9,9 +8,7 @@
 
 ## Bygningsreglementets vejledning om konstruktioner
 
-
 ### Rettelsesblad til Bygningsreglementets vejledning om konstruktioner omhandlende bæreevnevurdering af eksisterende konstruktioner (24.01.2024)
-
 
 ### Forord
 
@@ -59,4 +56,5 @@
 
 ### Tagbrønde og tagnedløb
 
-Bygningsejere bør vedligeholde tagbrøde og tagnedløb. Dette gælder specielt for ejere af bygninger med flade tage, hvor der er risiko for ophobning af vand. Mangel på vedligeholdelse kan medvirke til, at nedløb tilstopper og gør, at regnvand på taget ikke kan løbe tilstrækkeligt hurtigt væk. Denne ekstra last fra vandet kan overstige den last tagkonstruktionen er dimensioneret for. Der henvises til [BR18, kap. 4](../../../../04/krav/ "Krav"), om afløb for yderligere.\
+Bygningsejere bør vedligeholde tagbrøde og tagnedløb. Dette gælder specielt for ejere af bygninger med flade tage, hvor der er risiko for ophobning af vand. Mangel på vedligeholdelse kan medvirke til, at nedløb tilstopper og gør, at regnvand på taget ikke kan løbe tilstrækkeligt hurtigt væk. Denne ekstra last fra vandet kan overstige den last tagkonstruktionen er dimensioneret for. Der henvises til [BR18, kap. 4](../../../../04/krav/ "Krav"), om afløb for yderligere.
+

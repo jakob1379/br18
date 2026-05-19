@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg)
@@ -23,8 +26,6 @@
 
 ## Vejledning om ombygninger og brug af certificerede rådgivere i relation til ændring af BR18 d. 10. marts 2020
 
-
-
 ### Generelt {#1b393d6d-0d5c-4e74-a86a-cfbbcc00dc82}
 
 Udgangspunktet for byggeloven og bygningsreglementet er, at byggearbejder kræver ansøgning om byggetilladelse.
@@ -37,8 +38,6 @@ Bestemmelsen er ændret med virkning fra den 10. marts 2020. Bekendtgørelsen er
 
 Såfremt en kommune opkræver gebyr for behandling af byggesager, vil der kunne opkræves gebyr for den behandling, der er pågået, indtil sagen kan afsluttes grundet nærværende regelændring.
 
-
-
 ### Ombygningssager undtaget fra kravet om byggetilladelse {#44ea9a4d-12a0-4d3f-8f0d-82285840a6c5}
 
 Bestemmelsen i *§ 5, stk. 1, nr. 4* omhandler ombygninger og andre forandringer i eksisterende byggeri, der ikke er omfattet af § 5, stk. 1, nr. 2 og 3, og som ikke ændrer de bærende konstruktioners virkemåde eller forudsætningerne for de brandmæssige forhold.
@@ -46,8 +45,6 @@ Bestemmelsen i *§ 5, stk. 1, nr. 4* omhandler ombygninger og andre forandringer
 Ombygningen eller forandringen må heller ikke medføre en væsentlig anvendelsesændring eller en udvidelse af etagearealet. En væsentlig anvendelsesændring er f.eks. en ændring i anvendelsen fra bolig til erhverv.
 
 Der er ikke krav om, at byggearbejdet indplaceres i brand- eller konstruktionsklasse, og at der tilknyttes en certificeret brandrådgiver eller statiker for at vurdere om ombygninger og andre forandringer ikke ændrer de bærende konstruktioners virkemåde, forudsætningerne for de brandmæssige forhold eller medfører en væsentlig anvendelsesændring. Ved henvendelser til kommunalbestyrelsen om, hvorvidt et byggearbejde er omfattet af bestemmelsen skal kommunen derfor også lægge ansøgerens oplysninger til grund ved behandling af ansøgning om byggetilladelse, med mindre kommunalbestyrelsen mener, at der er en begrundet mistanke om manglende eller misvisende dokumentation.
-
-
 
 ### Ændring af de bærende konstruktioners virkemåde {#91eb9188-c3a6-4d9c-ba03-505f00266496}
 
@@ -57,15 +54,13 @@ Ved "*ikke* *ændrer de bærende konstruktioners virkemåde"* forstås, at der i
 
 Udskiftning af konstruktionsdele, der ikke ændrer ved de bærende konstruktioners virkemåde, er omfattet af bestemmelsen såfremt disse mindst svarer til de oprindelige, i både brand- og konstruktionsmæssig henseende.
 
-Eksempler på ændringer, der ikke ændrer ved de bærende konstruktioners virkemåde, er f.eks. etablering, flytning eller fjernelse af ikke-bærende vægge, etablering af huller, der ikke påvirker konstruktionsdelens virkemåde eller udskiftning af sekundære bjælker i træbjælkelag. 
+Eksempler på ændringer, der ikke ændrer ved de bærende konstruktioners virkemåde, er f.eks. etablering, flytning eller fjernelse af ikke-bærende vægge, etablering af huller, der ikke påvirker konstruktionsdelens virkemåde eller udskiftning af sekundære bjælker i træbjælkelag.
 
 Hvis der sker ændringer i konstruktionens virkemåde, vil det pågældende byggearbejde kræve byggetilladelse. Et eksempel på en ændring af en konstruktions virkemåde er f.eks. delvis fjernelse af en bærende væg, etablering af et hul i en bærende væg, der påvirker konstruktionsdelens virkemåde, etablering af udvekslingsbjælker eller etablering af altan.
 
 Hvis ombygninger og andre forandringer medfører, at de eksisterende bærende konstruktioner enten bliver belastet med en last, som er mere end 5% af den samlede oprindelig belastning eller der sker en reduktion af last, der virker til gunst for de stabiliserende konstruktioner, vil der være tale om en væsentlig ændring af virkemåden. Dette er f.eks. etablering af en ny gulvopbygning, der er tungere end den oprindelige eller fjernelse af en tung gulvopbygning i væsentlige omfang, der påvirker de stabiliserende vægge.
 
 Der kan findes yderligere vejledning i SBi-anvisning 271 *Dokumentation og kontrol af bærende konstruktioner*, afsnit 1.4.6 *Ombygning, renovering og ændret anvendelse*.
-
-
 
 ### Ændring af forudsætningerne for de brandmæssige forhold {#3c3c9ab1-ae3a-487b-816b-e70a714cbdbb}
 
@@ -95,19 +90,21 @@ Ved forudsætningerne for de brandmæssige forhold, kan der tages udgangspunkt i
 
 En indgriben i en af disse aspekter under byggearbejdet, som retablerer tilsvarende eksisterende forhold, anses ikke som en ændring.
 
-
-
 ### Ombygningssager, der kræver byggetilladelse {#f83292e3-3a7c-4b65-803f-6ce8f39f3a70}
 
 Hvis en ombygning ikke er omfattet af en af bygningsreglementets undtagelsesbestemmelser, er der krav om byggetilladelse.
 
 En ansøgning om byggetilladelse skal indeholde en række oplysninger, som kommunalbestyrelsen skal bruge for at kunne behandle ansøgningen. Kravene til, hvad en ansøgning om byggetilladelse skal indeholde, fremgår af bygningsreglementets § 10.
 
-Bygningsreglementets § 10, stk. 1, omhandler en række oplysninger, der skal indeholdes i en ansøgning om byggetilladelse. Formålet med disse oplysninger er primært at identificere, hvor byggearbejdet udføres, hvilket byggearbejde der udføres, og hvad det skal anvendes til.   
+Bygningsreglementets § 10, stk. 1, omhandler en række oplysninger, der skal indeholdes i en ansøgning om byggetilladelse. Formålet med disse oplysninger er primært at identificere, hvor byggearbejdet udføres, hvilket byggearbejde der udføres, og hvad det skal anvendes til.
 
 Bygningsreglementets § 10, stk. 2, omhandler de oplysninger og den information, der skal indsendes ved ansøgning om byggetilladelse, når det er relevant. Det betyder, at de oplysninger og den dokumentation, der omtales i § 10, stk. 2, ikke i alle tilfælde vil skulle indsendes ved ansøgning om byggetilladelse.
 
-Med *relevant for byggearbejdet* menes dermed de oplysninger og den dokumentation, der er af betydning for det pågældende byggearbejde. Eksempelvis står der i § 10, stk. 2, nr. 1, at en ansøgning om byggetilladelse skal indeholde oplysninger vedrørende byggeret og helhedsvurdering (kapitel 8) samt ubebyggede arealer ved bebyggelse (kapitel 20). Hvis man er i gang med en ombygning af et badeværelse, vil oplysninger om de ubebyggede arealer ved bebyggelsen være sagen uvedkommende, og derfor ikke relevante for ansøgningen om byggetilladelse.
+Med *relevant for byggearbejdet* menes dermed de oplysninger og den dokumentation, der er af betydning for det pågældende byggearbejde. Eksempelvis står der i § 10, stk. 2, nr. 1, at en ansøgning om byggetilladelse skal indeholde oplysninger vedrørende byggeret og helhedsvurdering (kapitel
+
+8) samt ubebyggede arealer ved bebyggelse (kapitel
+
+20). Hvis man er i gang med en ombygning af et badeværelse, vil oplysninger om de ubebyggede arealer ved bebyggelsen være sagen uvedkommende, og derfor ikke relevante for ansøgningen om byggetilladelse.
 
 For § 10, stk. 2, nr. 6, vedrørende dokumentation for, hvorledes byggeriet opfylder §§ 126-133, skal der kun fremsendes dokumentation for dette, såfremt ombygningen påvirker redningsberedskabets indsatsforhold. Eksisterende lovlige forhold svarende til bestemmelserne på opførselstidspunktet kan bibeholdes, forudsat at der ikke ændres på disse ved ombygningen.
 
@@ -116,8 +113,6 @@ Kommunalbestyrelsen kan i tvivlstilfælde forlange supplerende dokumentation til
 Det er ligeledes op til ansøgeren at orientere kommunalbestyrelsen, hvis der sker ændringer i byggearbejdet undervejs, der giver anledning til ændrede vilkår i byggetilladelsen, eller at der skal træffes en helt ny afgørelse i sagen.
 
 Kommunalbestyrelsen er bygningsmyndighed, og skal derfor -- inden der meddeles byggetilladelse -- vurdere om dokumentationen er i overensstemmelse med de af bygningsreglementets krav, der er relevante for byggesagen, jf. BR18 § 36.
-
-
 
 ### Kommunalbestyrelsens ansvar ved indplacering i brand- og konstruktionsklasse {#2cd2304c-7bf1-426e-9271-aa9a1e85d323}
 
@@ -130,8 +125,6 @@ Hensigten med disse bestemmelser er, at kommunalbestyrelsen af den indsendte dok
 Når et byggeri indplaceres i konstruktionsklasse 1 (KK1) eller brandklasse 1 (BK1), er der ikke krav om, at der skal tilknyttes en certificeret brandrådgiver eller certificeret statiker, jf. § 10, stk. 6 og 7. Kommunen kan ikke stille krav om en certificeret brandrådgiver eller certificerede statiker for byggearbejder i konstruktions- og brandklasse 1 i forbindelse med indplacering i brand- og konstruktionsklasse.
 
 Læs mere indplacering i brand- og konstruktionsklasse i og i [Vejledning om indplacering i konstruktionsklasse](../../../../Ovrige-bestemmelser/26/BRV/Indplacering-i-konstruktionsklasser).
-
-
 
 ### Eksempler på, hvornår et byggearbejde normalt er undtaget for byggetilladelse, jf. § 5, stk. 1, nr. 4 {#c998d3d5-bc52-4076-9150-2fc6286e76ae}
 
@@ -155,8 +148,6 @@ Da der ikke ændres på forudsætningerne for de brandmæssige forhold, eller de
 
 Der skal søges om tilladelse til at nedlægge en bolig efter boligreguleringsloven.
 
- 
-
 Eksempel 3
 
 I et kontorbyggeri, hvor hver etage er indrettet som storrumskontor, er det i brandstrategien forudsat, at der kan etableres mindre mødelokaler på op til 20 m^2^, hvis de udføres med u-klassificerede glasvægge, og at der etableres ABA-anlæg og AVA-anlæg med tonevarsling.
@@ -164,8 +155,6 @@ I et kontorbyggeri, hvor hver etage er indrettet som storrumskontor, er det i br
 Et af mødelokalerne ønskes rykket fra den ene ende af etagen til den anden. Da det nye mødelokale udføres med u-klassificerede glasvægge, og da ABA-anlæg og AVA-anlæg bliver justeret i forhold til den nye placering af mødelokalet, ændres der ikke på forudsætningerne i for de brandmæssige forhold eller ved de bærende konstruktioners virkemåde.
 
 Derfor kan byggearbejdet udføres uden byggetilladelse. For ændringerne i ABA-anlæg og AVA-anlæg skal udføres en akkrediteret funktionsafprøvning i overensstemmelse med reglerne i den aktuelle projekteringsstandard for anlæggene.
-
- 
 
 Eksempel 4
 
@@ -183,8 +172,6 @@ Der etableres fire udgange, hvoraf to af udgangene bliver udpeget som primære o
 
 Senere ønskes den ene sekundære udgangsdør udskiftet til en udgangsdør med en fri bredde på 77 cm. Da der stadig er fire udgangsdøre, og de frie bredder på de primære hhv. sekundære døre opfylder kravene til den samlede fri bredde i brandstrategien, ændres der ikke på forudsætningerne for de brandmæssige forhold, og derfor kan døren udskiftes uden byggetilladelse.
 
- 
-
 Eksempel 5
 
 I et hotel er alle hotelværelser udført som selvstændige brandceller. Det er en forudsætning i byggetilladelsen, at der er fra alle værelser, er mindst en udgang til flugtvejsgangen, og at der i hvert værelse er en redningsåbning.
@@ -193,15 +180,11 @@ I forbindelse med en ombygning ønskes det at slå værelser sammen, så der fre
 
 Da der fremadrettet stadig vil være en udgang til flugtvejsgangen og en redningsåbning i hvert værelse, ændres der ikke på forudsætningerne for de brandmæssige forhold, og derfor kan sammenlægning ske uden byggetilladelse.
 
- 
-
 Eksempel 6
 
 I et butikscenter indrettet til flere end 150 personer ændres der på en butiksindretning inkl. udgangsdørene fra butikken til de udlagte flugtveje. Ombygningen følger retningslinjerne i butikscentrets brandstrategi, og der ændres ikke på bærende konstruktioner, personbelastning eller antal og bredde af udgange til flugtveje.
 
 Ændringen kan udføres uden byggetilladelse, men inventaropstillingsplan skal opdateres og udfærdiges af en certificeret brandrådgiver eller godkendes af kommunalbestyrelsen jf. BR18 § 6h, stk.1.
-
-
 
 ### Eksempler på, hvornår et byggearbejde ikke er undtaget for byggetilladelse, jf. § 5, stk. 1, nr. 4, og hvor der enten skal tilknyttes en certificeret brandrådgiver og/eller statiker, jf. § 10, stk. 2, nr. 3 og 5 {#7b806321-6273-455b-a03f-ee7614102c95}
 
@@ -215,8 +198,6 @@ Såfremt der ikke ændres ved de bærende konstruktioner virkemåde skal der ikk
 
 Der skal søges om tilladelse til at nedlægge en bolig efter boligreguleringsloven.
 
- 
-
 Eksempel 2
 
 I et nyere kontorbyggeri i flere etager, hvor hver etage er indrettet som storrumskontor, er det i brandstrategien forudsat, at der på hver etage kan etableres et mødelokale på op til 30 m^2^, til maksimalt 10 personer, hvis de udføres som selvstændige brandceller, og at der er mindst en redningsåbning i mødelokalet.
@@ -227,8 +208,6 @@ Da der ikke længere er en redningsåbning i mødelokalet, ændres der på forud
 
 Da der ikke ændres ved de bærende konstruktioner virkemåde skal der ikke tilknyttes en certificerede statiker.
 
- 
-
 Eksempel 3
 
 Et kontorbyggeri ønskes ændret til boliger. En ændring fra erhverv til bolig udgør en væsentlig anvendelsesændring og kræver derfor ansøgning om byggetilladelse.
@@ -237,4 +216,3 @@ Ved en ændring fra kontorbyggeri til bolig ændres der i forudsætningerne for 
 
 I forbindelse med ombygningen ændres der ikke på de bærende konstruktioner. De nye adskillelser mellem de kommende lejemål udføres af ikke-bærende vægge og lasten i brugskategorien er mindre for bolig end for kontor. Idet der ikke ændres på de bærende konstruktioners virkemåde, skal der ikke tilknyttes en certificeret statiker.
 
-\

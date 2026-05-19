@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -23,7 +26,6 @@
 
 ## Vejledning om lovliggørelse af ulovligt byggeri
 
-
 ### Lovliggørelse af ulovligt byggeri
 
 Byggeri, der er ulovligt udført, skal lovliggøres. Der sondres i bygningsreglementet mellem materielle og formelle regler. De materielle regler angiver de bebyggelsesregulerende og tekniske krav, byggeriet skal overholde. De formelle regler beskriver det administrative system, hvorunder sagen behandles, herunder om forholdet kræver en tilladelse.
@@ -32,52 +34,35 @@ Byggeri, der er ulovligt udført, skal lovliggøres. Der sondres i bygningsregle
 
 *Vejledningen er revideret af Trafik-, Bygge- og Boligstyrelsen den 31. januar 2019.\*
 
-
 ### Indholdet af vejledningen
-
 
 ### Hvornår er et byggeri ulovligt
 
-
 ### Anvendelse af formelle bestemmelser i forbindelse med lovliggørelse af byggeri
-
 
 ### Særligt om stikprøvekontrol efter BR18
 
-
 ### @@PROTECTED_17@@s bestemmelser
-
 
 ### Kommunalbestyrelsen som bygningsmyndighed
 
-
 ### Ejerens pligter
-
 
 ### Lovliggørelsens art
 
-
 ### Retlig lovliggørelse
-
 
 ### Fysisk lovliggørelse
 
-
 ### Vurderingen -- valget mellem retlig og fysisk lovliggørelse
-
 
 ### Byggeri opført uden tilladelse
 
-
 ### Byggeri der afviger fra det byggeri, der er givet tilladelse til
-
 
 ### Hensyn og overvejelser
 
-
 ### Forholdet til anden lovgivning
-
 
 ### Særligt om lovliggørelse i forbindelse med bygningers klimapåvirkning
 
-\

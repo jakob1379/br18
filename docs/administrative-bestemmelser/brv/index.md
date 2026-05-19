@@ -1,15 +1,21 @@
 ---
-title: Administrative bestemmelser (§ 1 - § 47) – Vejledning
+title: Administrative bestemmelser (§ 1 - §
+
+47) – Vejledning
 hide:
  - navigation
 ---
 
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
+
+47)
 
 [Krav](../){ .md-button }
 [Vejledning](./){ .md-button .md-button--primary }
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](./#spoergsmaal-og-svar)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](./#spoergsmaal-og-svar-ve-anlaeg)
@@ -255,7 +261,9 @@ Kontrolplaner og kontrolrapporter kan standardiseres, så den samme skabelon kan
 
 I henhold til bygningsreglementet er der krav om anvendelse af en certificeret tredjepartkontrollant i byggeri indplaceret i brand- og konstruktionsklasse 4, jf. BR18, 18 og [§ 22](/administrative-bestemmelser/krav/). Det er ansøgeren, der udpeger tredjepartskontrollanten.
 
-Tredjepartskontrollen skal udføres af en person, der hverken direkte eller indirekte er økonomisk eller organisatorisk forbundet med den eller de virksomheder og organisationer, som har medvirket ved udfærdigelsen af dokumentationen for byggeriets brandsikkerhed eller projektering af de bærende konstruktioner, jf. BR18, § 526 stk. 1, nr. 3. Den certificerede tredjepartskontrollant skal selv sikre dette og redegøre for dette i start- og sluterklæringen (fx i BR18, [§ 498, stk. 2](/ovrige-bestemmelser/28/krav/494_505/). og 499, stk. 2 og BR18, [§ 508, stk. 2](/ovrige-bestemmelser/29/krav/506_522/). og 509, stk. 2). Dette betyder, at tredjepartskontrollanten ikke må pålægges eller kunne pålægges begrænsninger ved løsning af sin kontrolopgave i henhold til BR18, [§ 535](/ovrige-bestemmelser/32/krav/). Tredjepartskontrollanten må ikke have medvirket til udfærdigelsen af dokumentationen hverken direkte eller indirekte.
+Tredjepartskontrollen skal udføres af en person, der hverken direkte eller indirekte er økonomisk eller organisatorisk forbundet med den eller de virksomheder og organisationer, som har medvirket ved udfærdigelsen af dokumentationen for byggeriets brandsikkerhed eller projektering af de bærende konstruktioner, jf. BR18, § 526 stk. 1, nr. 3. Den certificerede tredjepartskontrollant skal selv sikre dette og redegøre for dette i start- og sluterklæringen (fx i BR18, [§ 498, stk. 2](/ovrige-bestemmelser/28/krav/494_505/). og 499, stk. 2 og BR18, [§ 508, stk. 2](/ovrige-bestemmelser/29/krav/506_522/). og 509, stk.
+
+2). Dette betyder, at tredjepartskontrollanten ikke må pålægges eller kunne pålægges begrænsninger ved løsning af sin kontrolopgave i henhold til BR18, [§ 535](/ovrige-bestemmelser/32/krav/). Tredjepartskontrollanten må ikke have medvirket til udfærdigelsen af dokumentationen hverken direkte eller indirekte.
 
 Tredjepartskontrollantens virke bliver kontrolleret af de certificeringsorganer, der er akkreditereret inden for certificeringsordningen og dette er med til at sikre, at tredjepartskontrollantens virke er i overensstemmelse med bygningsreglementets krav.
 
@@ -378,7 +386,11 @@ Derudover følger det af [§ 2, stk. 1](/administrative-bestemmelser/krav/1_3/),
 
 • Ændringer i benyttelse af bebyggelse, som er væsentlige i forhold til bestemmelser i loven eller de medfør af loven udfærdigede bestemmelser.
 
-Udgangspunktet i [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178) er derfor, at både ombygningsarbejder og anvendelsesændringer kræver ansøgning om byggetilladelse, jf. [byggelovens § 16, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178). Der kan dog fastsættes regler om indskrænkning i kravene om tilladelser i bygningsreglementet, jf. [byggelovens § 16 B, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178). Denne hjemmel er blandt andet udnyttet i BR18 [§ 5, stk. 1, nr. 2](/administrative-bestemmelser/krav/4_6/)-4, hvoraf det følger, at en række ombygningsarbejder kan foretages uden ansøgning om byggetilladelse.
+Udgangspunktet i [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178) er derfor, at både ombygningsarbejder og anvendelsesændringer kræver ansøgning om byggetilladelse, jf. [byggelovens § 16, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178). Der kan dog fastsættes regler om indskrænkning i kravene om tilladelser i bygningsreglementet, jf. [byggelovens
+
+### § 16 B {#paragraf-16b}
+
+, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178). Denne hjemmel er blandt andet udnyttet i BR18 [§ 5, stk. 1, nr. 2](/administrative-bestemmelser/krav/4_6/)-4, hvoraf det følger, at en række ombygningsarbejder kan foretages uden ansøgning om byggetilladelse.
 
 Læs mere om dette nedenfor i afsnit 2.2.4 eller i [Vejledning om ombygninger](vejledning-om-ombygning-og-brug-af-certificerede-raadgivere/ "Vejledning om ombygning og brug af certificerede raadgivere")
 
@@ -768,7 +780,13 @@ Ved afslutning af et byggeri, hvortil der er meddelt byggetilladelse, skal der s
 
 Ved færdigmelding skal der indsendes en erklæring om, at det færdige byggeri er i overensstemmelse med byggetilladelsen og bygningsreglementet. Ved færdigmelding af et byggeri skal ansøger indsende følgende:
 
-* Dokumentation for, at der er tegnet byggeskadeforsikring, og at præmien er betalt, jf. [byggelovens § 25 C, stk. 2](https://www.retsinformation.dk/eli/lta/2016/1178), for byggeri omfattet af [[[[byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178)](https://www.retsinformation.dk/eli/lta/2016/1178)s § 25
+* Dokumentation for, at der er tegnet byggeskadeforsikring, og at præmien er betalt, jf. [byggelovens
+
+### § 25 C {#paragraf-25c}
+
+, stk. 2](https://www.retsinformation.dk/eli/lta/2016/1178), for byggeri omfattet af [[[[byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178)](https://www.retsinformation.dk/eli/lta/2016/1178)s
+
+### § 25 {#paragraf-25}
  A](https://www.retsinformation.dk/eli/lta/2016/1178)](https://www.retsinformation.dk/eli/lta/2016/1178). [Læs mere om byggeskadeforsikring her](../../vejledninger/andre_vejledninger/vejledning/byggeskadeforsikring/ "Byggeskadeforsikring").
 * Erklæring om, at det færdige byggeri er i overensstemmelse med byggetilladelsen og bygningsreglementet. Det er bygningsejeren, der har ansvaret for, at det færdige byggeri er lovligt. Ved afslutning af byggesagen skal det derfor erklæres, at byggeriet er udført i overensstemmelse med byggetilladelsen og bygningsreglementet, hvilket sker igennem Byg & Miljø. Denne erklæring giver ikke bygningsejeren et større eller mindre ansvar, end der allerede følger af [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178).
 * Dokumentation for overholdelse af bygningsreglementets bestemmelser i den færdige bygning. Dokumentationen skal bestå af al for byggeriet relevant materiale, herunder overordnede beskrivelser, forudsætninger, beregninger, tegningsmateriale, prøvninger, målinger mv. Det skal ved det fremsendte dokumenteres, hvordan specifikke niveauer er fastsat på baggrund af bygningsreglementets funktionskrav, og hvordan de specifikke niveauer eller detailkrav i bygningsreglementet opfyldes. Dokumentation for det færdige byggeri afhænger af byggeriets karakter og vil derfor variere meget fra sag til sag. Den dokumentation, der indsendes ved færdigmelding, skal svare til det, ansøger har erklæret, at byggeriet var omfattet af ved ansøgning om byggetilladelse. Det forudsættes, at der ikke er foretaget væsentlige ændringer i forhold til den meddelte byggetilladelse undervejs, da dette ville kræve fornyet behandling af kommunalbestyrelsen. Det er ikke muligt at lave en udtømmende liste over dokumentation, der skal indsendes for det færdige byggeri. Der kan dog vejledende henvises til oversigten over den dokumentation, som kommunalbestyrelsen skal påse ved stikprøvekontrollen. Se mere om dette nedenfor.
@@ -1500,7 +1518,11 @@ Det indledende skridt i kommunens kontrol er at afklare, hvilke bestemmelser i b
 | Kunne komme frem til bygning/ opholdsareal/ parkeringsareal | [§ 48](/tekniske-bestemmelser/02/krav/), [§ 49](/tekniske-bestemmelser/02/krav/) | [§ 48](/tekniske-bestemmelser/02/krav/), [§ 49](/tekniske-bestemmelser/02/krav/) | [§ 48](/tekniske-bestemmelser/02/krav/), [§ 49](/tekniske-bestemmelser/02/krav/) | [§ 48](/tekniske-bestemmelser/02/krav/), [§ 49](/tekniske-bestemmelser/02/krav/) |
 | Ind i bygning | [§ 51](/tekniske-bestemmelser/02/krav/), [§ 52](/tekniske-bestemmelser/02/krav/), § 53, [§ 54](/tekniske-bestemmelser/02/krav/) | [§ 51](/tekniske-bestemmelser/02/krav/), [§ 52](/tekniske-bestemmelser/02/krav/), § 53, [§ 54](/tekniske-bestemmelser/02/krav/) | [§ 51](/tekniske-bestemmelser/02/krav/), [§ 52](/tekniske-bestemmelser/02/krav/), § 53, [§ 54](/tekniske-bestemmelser/02/krav/) | [§ 51](/tekniske-bestemmelser/02/krav/), [§ 52](/tekniske-bestemmelser/02/krav/), § 53, [§ 54](/tekniske-bestemmelser/02/krav/) |
 | Kunne komme frem til funktion | (frem til bolig), [§ 55](/tekniske-bestemmelser/02/krav/), § 56, [§ 57](/tekniske-bestemmelser/02/krav/), [§ 58](/tekniske-bestemmelser/02/krav/), § 59, § 60, § 61 | [§ 55](/tekniske-bestemmelser/02/krav/), § 56, [§ 57](/tekniske-bestemmelser/02/krav/), [§ 58](/tekniske-bestemmelser/02/krav/), § 59, § 60, § 61, § 62 | [§ 55](/tekniske-bestemmelser/02/krav/), § 56, [§ 57](/tekniske-bestemmelser/02/krav/), [§ 58](/tekniske-bestemmelser/02/krav/), § 59, § 60, § 61 | [§ 55](/tekniske-bestemmelser/02/krav/), § 56, [§ 57](/tekniske-bestemmelser/02/krav/), [§ 58](/tekniske-bestemmelser/02/krav/), § 59, § 60, § 61 [§ 232](/tekniske-bestemmelser/09/krav/) |
-| Kunne tage elevator | [§ 242](/tekniske-bestemmelser/10/krav/), § 244, [§ 245](/tekniske-bestemmelser/10/krav/), § 246 Ombygning/ tilbygning: § 247 | [§ 242](/tekniske-bestemmelser/10/krav/), § 244, § 246 | [§ 242](/tekniske-bestemmelser/10/krav/), § 244, § 246 | [§ 242](/tekniske-bestemmelser/10/krav/), § 244, § 246 |
+| Kunne tage elevator | [§ 242](/tekniske-bestemmelser/10/krav/), § 244, [§ 245](/tekniske-bestemmelser/10/krav/),
+
+### § 246 {#paragraf-246}
+
+Ombygning/ tilbygning: § 247 | [§ 242](/tekniske-bestemmelser/10/krav/), § 244, § 246 | [§ 242](/tekniske-bestemmelser/10/krav/), § 244, § 246 | [§ 242](/tekniske-bestemmelser/10/krav/), § 244, § 246 |
 | Kunne benytte brugerbetjente anlæg | [§ 159](/tekniske-bestemmelser/06/krav/), [§ 160](/tekniske-bestemmelser/06/krav/) | [§ 159](/tekniske-bestemmelser/06/krav/), [§ 160](/tekniske-bestemmelser/06/krav/) | [§ 159](/tekniske-bestemmelser/06/krav/), [§ 160](/tekniske-bestemmelser/06/krav/) | [§ 159](/tekniske-bestemmelser/06/krav/), [§ 160](/tekniske-bestemmelser/06/krav/) |
 | Kunne komme på toilettet | § 204 | [§ 214](/tekniske-bestemmelser/09/krav/), § 215, § 216 | [§ 223](/tekniske-bestemmelser/09/krav/) § 224 | § 233 § 234, § 235, § 236 |
 | Kunne forsamles | | § 217, § 218 § 220 | | |
@@ -1557,7 +1579,9 @@ Tabel 2. uddyber de enkelte temaer. En kombination af tekst, tegninger, diagramm
 | **Tema** | **Anbefaling til dokumentation** |
 | Byggeriets idé | En beskrivelse af, hvordan intentionen om ligeværdighed i adgangsforhold og indretning i bygningsreglementets bestemmelser er tolket og indarbejdet i byggeprojektet på et overordnet niveau. Det gælder f.eks. principper for placering af bygning på grunden, disponering af bygning og way-finding. Det betyder, at sammenhængen mellem intentionen og det, som er bygget, dokumenteres. |
 | Brugerkarakteristik | En karakteristik af brugergruppens sammensætning ift. bygningens anvendelse og funktion og en beskrivelse af, hvordan brugernes behov er indarbejdet i byggeriets idé. |
-| Hvorledes bygningen understøtter bevægelse frem til, ind i og gennem bygningen frem til bygningens funktioner | • Beskrivelse af, hvorledes bygningen understøtter bevægelsen frem til bygningen, ind i bygningen og frem til bygningens funktioner for de forskellige brugere i relation til deres behov. • En detaljeret gennemgang af de forskellige bygningsfysiske forhold og elementer i relation til bygningsreglementets bestemmelser (se evt. tabel 1). Det gælder f.eks. belysning, belægning, ramper, trapper og elevatorer. • Hvis en løsning går igen flere steder i byggesagen, kan der indsendes dokumentation for denne løsning samt beskrivelse af, hvor den optræder i byggesagen. • Hvis der f.eks. er tale om forskellige typer af trapper, skal hver enkelt trappetype dokumenteres, og forskelle skal fremgå tydeligt. |
+| Hvorledes bygningen understøtter bevægelse frem til, ind i og gennem bygningen frem til bygningens funktioner | • Beskrivelse af, hvorledes bygningen understøtter bevægelsen frem til bygningen, ind i bygningen og frem til bygningens funktioner for de forskellige brugere i relation til deres behov. • En detaljeret gennemgang af de forskellige bygningsfysiske forhold og elementer i relation til bygningsreglementets bestemmelser (se evt. tabel
+
+1). Det gælder f.eks. belysning, belægning, ramper, trapper og elevatorer. • Hvis en løsning går igen flere steder i byggesagen, kan der indsendes dokumentation for denne løsning samt beskrivelse af, hvor den optræder i byggesagen. • Hvis der f.eks. er tale om forskellige typer af trapper, skal hver enkelt trappetype dokumenteres, og forskelle skal fremgå tydeligt. |
 | Funktionalitet og brugsværdi – konkrete løsninger | • Beskrivelse af, hvorledes brugerbetjente anlæg kan betjenes ved egen hjælp. • Beskrivelse af wc-rums størrelse og placering (kun ved boliger). • Beskrivelse af toiletfacilitet (opfyldelsen af de otte delkrav i bygningsreglementet) samt information i oversigtsplaner/diagrammatisk oversigtsplan om placering og antal. • Beskrivelse af forsamlingslokale, herunder information om teleslyngeanlæg samt antal og placering af pladser til personer med særlige pladsbehov. • Beskrivelse af hotelværelse med badeværelse (opfyldelsen af de otte delkrav i bygningsreglementet), samt information om antal og placering. • Beskrivelse af parkeringsareal med information om og begrundelse for antal pladser til handicapegnede køretøjer samt deres placering. • Beskrivelse af hvorledes affaldssystemer kan betjenes ved egen hjælp. |
 
 Tabel 2.: Anbefaling om dokumentation og dens indhold.
@@ -2266,9 +2290,21 @@ Alene i de tilfælde, hvor der efterfølgende er indført regler, der finder anv
 
 ### Kommunalbestyrelsen som bygningsmyndighed {#vejledning-om-lovliggorelse-kommunalbestyrelsen-som-bygningsmyndighed}
 
-Kommunalbestyrelsen er bygningsmyndighed og påser i denne forbindelse, at [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178) og de regler, der er udstedt i medfør heraf, overholdes. Dette fremgår af [byggelovens § 16 C, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178). Kommunalbestyrelsen påser også, at påbud efter [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178) og regler fastsat i medfør heraf efterkommes, og at vilkår fastsat i tilladelser eller dispensationer, som er meddelt af kommunalbestyrelsen, overholdes. Dette fremgår af [byggelovens § 16 C, stk. 2](https://www.retsinformation.dk/eli/lta/2016/1178).
+Kommunalbestyrelsen er bygningsmyndighed og påser i denne forbindelse, at [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178) og de regler, der er udstedt i medfør heraf, overholdes. Dette fremgår af [byggelovens
 
-Bliver kommunalbestyrelsen opmærksom på et ulovligt forhold, har den pligt til at søge forholdet lovliggjort, medmindre dette er af ganske underordnet betydning. Dette fremgår af [byggelovens § 16 C, stk. 3](https://www.retsinformation.dk/eli/lta/2016/1178).
+### § 16 C {#paragraf-16c}
+
+, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178). Kommunalbestyrelsen påser også, at påbud efter [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178) og regler fastsat i medfør heraf efterkommes, og at vilkår fastsat i tilladelser eller dispensationer, som er meddelt af kommunalbestyrelsen, overholdes. Dette fremgår af [byggelovens
+
+### § 16 C {#paragraf-16c}
+
+, stk. 2](https://www.retsinformation.dk/eli/lta/2016/1178).
+
+Bliver kommunalbestyrelsen opmærksom på et ulovligt forhold, har den pligt til at søge forholdet lovliggjort, medmindre dette er af ganske underordnet betydning. Dette fremgår af [byggelovens
+
+### § 16 C {#paragraf-16c}
+
+, stk. 3](https://www.retsinformation.dk/eli/lta/2016/1178).
 
 Hvornår et forhold er af ganske underordnet betydning beror på en konkret vurdering, men som tommelfingerregel, skal der være tale om ret bagatelagtige forhold for, at et forhold ikke skal lovliggøres. Som eksempel kan det nævnes, at hvis det forhold, der er tilsidesat, ikke påvirker formålet i [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178), omgivelserne eller andre interesser, så er forholdet af ganske underordnet betydning.
 

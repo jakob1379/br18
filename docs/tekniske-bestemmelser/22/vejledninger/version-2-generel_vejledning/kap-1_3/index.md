@@ -1,6 +1,5 @@
 # Ventilation (§ 420 - § 452)
 
-
 ## Se alle vejledninger om Ventilation (§ 420 - § 452)
 
 - [Bygningsreglementets vejledning om ventilation](../)
@@ -8,7 +7,6 @@
 - [Spørgsmål og svar](../../sporgsmaal_svaar/)
 
 ## Bygningsreglementets vejledning om ventilation
-
 
 ### Forord
 
@@ -51,11 +49,11 @@ Ved åbne vinduer, eller ved brug af loft- eller bordventilatorer, som er under 
 
 Ved utætheder, kuldenedfald, loftventilator, åbninger og ventilationssystemer, som ikke er under personlig kontrol, giver DS447 anneks A eksempler på tilladelige perioder med trækraten over 20%.
 
-#### 
+####
 
 DS 447 - Ventilation i bygninger - Mekaniske, naturlige og hybride ventilationssystemer
 
-#### 
+####
 
 #### Standarden findes på dansk i Dansk Standards webshop.ds.dk
 
@@ -87,4 +85,3 @@ DS 447 - Ventilation i bygninger - Mekaniske, naturlige og hybride ventilationss
 
 ### Drift og vedligehold
 
-\

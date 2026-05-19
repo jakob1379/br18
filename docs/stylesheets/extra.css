@@ -1,35 +1,194 @@
-.md-grid {
-  max-width: initial;
+@font-face {
+  font-family: "Spectral";
+  src: url("../fonts/spectral-v2-latin-regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Spectral";
+  src: url("../fonts/spectral-v2-latin-600.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
 }
 
 :root {
-  --md-primary-fg-color: #f26522;
-  --md-primary-fg-color--light: #f58c58;
-  --md-primary-fg-color--dark: #cf5318;
-  --md-accent-fg-color: #f26522;
+  --br18-rust: #b2400a;
+  --br18-rust-dark: #8f3308;
+  --br18-accent: #b2400a;
+  --br18-paper: #f3f1ed;
+  --br18-paper-dark: #e7e4df;
+  --br18-paper-darker: #dcd8ce;
+  --br18-muted: #5f5a51;
+
+  --md-primary-fg-color: var(--br18-rust);
+  --md-primary-fg-color--light: #c65a25;
+  --md-primary-fg-color--dark: var(--br18-rust-dark);
+  --md-accent-fg-color: var(--br18-accent);
+  --md-typeset-a-color: var(--br18-rust);
 }
 
-[data-md-color-scheme="default"] .md-header,
-[data-md-color-scheme="default"] .md-tabs {
-  background: #fff;
-  color: #222;
+[data-md-color-scheme="default"] {
+  --md-default-bg-color: var(--br18-paper);
+  --md-default-fg-color: #111;
+  --md-default-fg-color--light: var(--br18-muted);
+  --md-typeset-a-color: var(--br18-rust);
+  --md-code-bg-color: var(--br18-paper);
 }
 
-[data-md-color-scheme="default"] .md-header {
-  border-bottom: 1px solid #ece7e3;
-  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.06);
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: #211f1b;
+  --md-default-fg-color: #f3f1ed;
+  --md-default-fg-color--light: #dcd8ce;
+  --md-typeset-a-color: #f0a06b;
 }
 
-[data-md-color-scheme="default"] .md-tabs {
-  border-bottom: 1px solid #ece7e3;
+/* Keep the original-site resemblance in the color scheme,
+   while otherwise letting Zensical/Material keep its default spacing, sizing,
+   content widths, sidebars, and typography. */
+body {
+  background: var(--br18-paper);
 }
 
-[data-md-color-scheme="default"] .md-tabs__link {
-  color: #5b524b;
-  font-weight: 600;
+.md-main {
+  background: var(--br18-paper);
 }
 
-[data-md-color-scheme="default"] .md-tabs__link--active,
-[data-md-color-scheme="default"] .md-tabs__link:hover {
-  color: #f26522;
+.md-header,
+.md-tabs {
+  background-color: var(--br18-paper);
+  color: var(--br18-accent);
+}
+
+.md-header {
+  border-bottom: 2px solid var(--br18-accent);
+}
+
+.md-tabs {
+  border-bottom: 1px solid var(--br18-paper-darker);
+}
+
+.md-header a,
+.md-header__button,
+.md-header__title,
+.md-tabs__link {
+  color: var(--br18-accent);
+}
+
+.md-tabs__link {
+  opacity: .78;
+}
+
+.md-tabs__link--active,
+.md-tabs__link:hover,
+.md-nav__link:is(:focus, :hover),
+.md-nav__link--active {
+  color: var(--br18-accent);
+  opacity: 1;
+}
+
+.md-content,
+.md-sidebar__scrollwrap {
+  background-color: var(--br18-paper);
+}
+
+.md-typeset .md-button {
+  border-color: var(--br18-accent);
+  color: var(--br18-accent);
+}
+
+.md-typeset .md-button:is(:focus, :hover) {
+  background-color: var(--br18-accent);
+  border-color: var(--br18-accent);
+  color: var(--br18-paper);
+}
+
+.md-typeset .md-button--primary {
+  background-color: var(--br18-accent);
+  border-color: var(--br18-accent);
+  color: var(--br18-paper);
+}
+
+.md-typeset .md-button--primary:is(:focus, :hover) {
+  background-color: var(--br18-rust-dark);
+  border-color: var(--br18-rust-dark);
+  color: var(--br18-paper);
+}
+
+[data-md-color-scheme="slate"] .md-content,
+[data-md-color-scheme="slate"] .md-sidebar__scrollwrap {
+  background-color: rgba(33, 31, 27, .96);
+}
+
+.md-typeset h1 {
+  color: var(--br18-rust-dark);
+}
+
+/* BR pages distinguish topical sections from legal paragraphs.  Keep h2
+   section headings understated; h3 `paragraf-*` headings are the actual
+   addressable legal paragraphs inside those sections. */
+.md-typeset h2 {
+  color: var(--md-default-fg-color);
+  border-bottom-color: var(--br18-paper-darker);
+}
+
+.md-typeset h3[id^="paragraf-"] {
+  color: var(--br18-rust);
+}
+
+.md-typeset blockquote {
+  border-left-color: var(--br18-rust);
+}
+
+.md-typeset table:not([class]) th {
+  background-color: var(--br18-paper-dark);
+}
+
+.md-footer {
+  background-color: var(--br18-paper-dark);
+  border-top: 2px solid var(--br18-accent);
+  color: var(--br18-accent);
+}
+
+.md-footer-meta {
+  background-color: var(--br18-paper-dark);
+  color: var(--md-default-fg-color);
+}
+
+.md-footer__link,
+.md-footer__button,
+.md-footer__title,
+.md-footer-meta a {
+  color: inherit;
+}
+
+.md-footer__link:is(:focus, :hover),
+.md-footer-meta a:is(:focus, :hover) {
+  color: var(--br18-accent);
+}
+
+[data-md-color-scheme="slate"] .md-footer {
+  background-color: #211f1b;
+  border-top-color: #f0a06b;
+  color: #f0a06b;
+}
+
+[data-md-color-scheme="slate"] .md-footer-meta {
+  background-color: rgba(243, 241, 237, .08);
+  color: var(--md-default-fg-color);
+}
+
+.md-top,
+.headerlink {
+  color: var(--br18-rust) !important;
+}
+
+/* Material renders the current page's table of contents twice on desktop:
+   once nested inside the primary navigation and once in the right sidebar.
+   Keep the primary sidebar for site/chapter navigation only; the right sidebar
+   remains the page-local contents. */
+.md-nav--primary .md-nav--secondary {
+  display: none;
 }

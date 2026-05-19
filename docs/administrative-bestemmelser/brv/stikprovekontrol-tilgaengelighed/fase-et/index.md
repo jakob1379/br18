@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -41,11 +44,9 @@ I 1. fase af stikprøvekontrollen skal kommunen vurdere, om omfanget af dokument
 
 Når ansøger færdigmelder byggesagen skal kommunen, jf. bygningsreglementet^8^, kontrollere, om ansøger har indsendt dokumentation for overholdelse af de bestemmelser i bygningsreglementet, der er relevante i byggetilladelsen, inden kommunen kan give en ibrugtagningstilladelse. Stikprøvekontrollen indeholder en tilsvarende kontrol af omfanget af dokumentationen for at sikre et tilstrækkeligt udgangspunkt for en kvalificeret vurdering af dokumentationen i stikprøvekontrollens 2. fase, se afsnit 1.2 i indeværende vejledning samt Vejledning om byggesagsbehandling efter BR18.
 
-Derefter tager kommunen endeligt stilling til, hvorvidt omfanget af dokumentationen er i orden, eller om der mangler dokumentation. Hvis der mangler dokumentation, eller der burde have været ansøgt om dispensation, vil der være tale om en formel mangel. Senere i kontrollen, vil der være tale om en materiel mangel, hvis bestemmelserne ikke er efterlevet i de dokumenterede løsninger.   
+Derefter tager kommunen endeligt stilling til, hvorvidt omfanget af dokumentationen er i orden, eller om der mangler dokumentation. Hvis der mangler dokumentation, eller der burde have været ansøgt om dispensation, vil der være tale om en formel mangel. Senere i kontrollen, vil der være tale om en materiel mangel, hvis bestemmelserne ikke er efterlevet i de dokumenterede løsninger.
 
- 
-
-**Anbefaling til dokumentation** 
+**Anbefaling til dokumentation**
 
 Det er ansøgers opgave selv at vurdere, hvorledes byggeprojektet dokumenteres. For at imødekomme, at ansøger får indsendt den rette dokumentation fra start angående ligeværdig adgang og indretning, kan kommunen i en eventuel forhåndsdialog anbefale ansøger at være opmærksom på følgende temaer:
 
@@ -56,8 +57,6 @@ Det er ansøgers opgave selv at vurdere, hvorledes byggeprojektet dokumenteres. 
 > • Hvorledes bygningen understøtter bevægelse frem til, ind i og frem til bygningens funktioner
 >
 > • Funktionalitet og brugsværdi -- konkrete løsninger
-
- 
 
 Tabel 2. uddyber de enkelte temaer. En kombination af tekst, tegninger, diagrammer og oversigtsplaner anbefales til udarbejdelse af beskrivelserne, som tilsammen danner den samlede dokumentation.
 
@@ -70,7 +69,9 @@ Tabel 2. uddyber de enkelte temaer. En kombination af tekst, tegninger, diagramm
 +----------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |  Hvorledes bygningen understøtter bevægelse frem til, ind i og gennem bygningen frem til bygningens funktioner | > • Beskrivelse af, hvorledes bygningen understøtter bevægelsen frem til bygningen, ind i bygningen og frem til bygningens funktioner for de forskellige brugere i relation til deres behov.                                                                                                                                                                                                   |
 |                                                                                                                | >                                                                                                                                                                                                                                                                                                                                                                                              |
-|                                                                                                                | > • En detaljeret gennemgang af de forskellige bygningsfysiske forhold og elementer i relation til bygningsreglementets bestemmelser (se evt. tabel 1). Det gælder f.eks. belysning, belægning, ramper, trapper og elevatorer.                                                                                                                                                                 |
+|                                                                                                                | > • En detaljeret gennemgang af de forskellige bygningsfysiske forhold og elementer i relation til bygningsreglementets bestemmelser (se evt. tabel
+
+1). Det gælder f.eks. belysning, belægning, ramper, trapper og elevatorer.                                                                                                                                                                 |
 |                                                                                                                | >                                                                                                                                                                                                                                                                                                                                                                                              |
 |                                                                                                                | > • Hvis en løsning går igen flere steder i byggesagen, kan der indsendes dokumentation for denne løsning samt beskrivelse af, hvor den optræder i byggesagen.                                                                                                                                                                                                                                 |
 |                                                                                                                | >                                                                                                                                                                                                                                                                                                                                                                                              |
@@ -93,9 +94,7 @@ Tabel 2. uddyber de enkelte temaer. En kombination af tekst, tegninger, diagramm
 
 Tabel 2.: Anbefaling om dokumentation og dens indhold.
 
-I en eventuel forhåndsdialog mellem ansøger og kommune kan specifikationer omkring dokumentationen, og i hvilket format den skal afleveres, drøftes og aftales. 
-
- 
+I en eventuel forhåndsdialog mellem ansøger og kommune kan specifikationer omkring dokumentationen, og i hvilket format den skal afleveres, drøftes og aftales.
 
 8\) Bygningsreglementet, [kap. 1](/administrative-bestemmelser/), [§ 43, stk. 2](/administrative-bestemmelser/krav/40_46/)
 
@@ -119,4 +118,3 @@ I en eventuel forhåndsdialog mellem ansøger og kommune kan specifikationer omk
 
 ### Uddybning af ligeværdighed i adgangsforhold og indretning
 
-\

@@ -1,6 +1,5 @@
 # Konstruktioner (§ 340 - § 357)
 
-
 ## Se alle vejledninger om Konstruktioner (§ 340 - § 357)
 
 - [Bygningsreglementets vejledning om konstruktioner](../)
@@ -9,9 +8,7 @@
 
 ## Bygningsreglementets vejledning om konstruktioner
 
-
 ### Rettelsesblad til Bygningsreglementets vejledning om konstruktioner omhandlende bæreevnevurdering af eksisterende konstruktioner (24.01.2024)
-
 
 ### Forord
 
@@ -65,4 +62,3 @@ Trafik- Bygge- og Boligstyrelsen har udarbejdet en række vejledninger, der kan 
 
 ### Tagbrønde og tagnedløb
 
-\

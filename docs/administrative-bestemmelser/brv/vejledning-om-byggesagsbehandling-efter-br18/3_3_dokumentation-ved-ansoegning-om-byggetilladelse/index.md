@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -23,9 +26,7 @@
 
 ## Vejledning om byggesagsbehandling efter BR18
 
-
 ### Rettelsesblad til vejledning om byggesagsbehandling efter BR18 (01.01.2024)
-
 
 ### Kolofon
 
@@ -87,39 +88,40 @@
 
 Kommunalbestyrelsen skal foretage en vurdering af om den dokumentation, der indsendes ved ansøgning om byggetilladelse er i overensstemmelse med de for byggesagen relevante krav.
 
-Kravene til dokumentation ved ansøgning om byggetilladelse følger af BR18 [§ 10](/administrative-bestemmelser/krav/7_15/), og det er den dokumentation, der skal indsendes for, at kommunalbestyrelsen kan behandle en ansøgning. 
+Kravene til dokumentation ved ansøgning om byggetilladelse følger af BR18 [§ 10](/administrative-bestemmelser/krav/7_15/), og det er den dokumentation, der skal indsendes for, at kommunalbestyrelsen kan behandle en ansøgning.
 
 En ansøgning om byggetilladelse skal indeholde:
 
-- Oplysninger til identifikation af ejendommen, bygningen eller enheden, herunder eksempelvis matrikelbetegnelse, adgangsadresse, ejendomsnummer og etageangivelse. Det kan f.eks. være i form af matrikelbetegnelse, adgangsadresse, ejendomsnummer og etageangivelse. Kommunalbestyrelsen skal bruge dokumentationen for at kunne konstatere, hvor byggeriet ønskes udført. Denne dokumentation er ikke genstand for selvstændig behandling af kommunalbestyrelsen, men den er afgørende for kommunalbestyrelsens identifikation af sagen, og det er derfor afgørende, at den er fyldestgørende ved ansøgning.\
-  \
-- Oplysninger til identifikation af det arbejde, der udføres, herunder eksempelvis tegningsmateriale, hvoraf bygningens dimensioner og placering fremgår. Kommunalbestyrelsen skal bruge dokumentationen til at konstatere, hvilket type arbejde, der ønskes udført, og hvad omfanget heraf er, f.eks. om det er nybyggeri eller en ombygning af eksisterende byggeri.\
-  \
-- Oplysning om den planlagte benyttelse af bebyggelsen. Ved ombygning og ændret benyttelse af bebyggelsen skal den ligeledes indeholde oplysninger om den hidtidige benyttelse. Oplysning om bebyggelsens anvendelse er afgørende for kommunalbestyrelsens behandling, da der er krav i bygningsreglementet, der afhænger af, hvad bygningen skal anvendes til. Denne dokumentation er også relevant i forhold til anden lovgivning, da der f.eks. kan være fastsat bestemmelser i en lokalplan om, hvad et bestemt område må anvendes til.\
-  \
-- Oplysninger til registrering af sagen i Bygnings- og Boligregistret (BBR). Der henvises til bekendtgørelse om ajourføring af Bygnings- og Boligregistret (BBR), hvorefter ejeren i forbindelse med ansøgning om byggetilladelse skal meddele alle oplysninger, som er af betydning for drift og ajourføring af Bygnings- og Boligregistret (BBR).\
-  \
-- Erklæring om, hvilke tekniske forhold i bygningsreglementet som er relevant for byggearbejdet. Erklæringen kan henvise til bygningsreglementets tekniske bestemmelser på kapitelniveau. Dette sker af hensyn til kommunalbestyrelsens behandling ved ansøgning, da erklæringen giver kommunalbestyrelsen et mere tydeligt billede af omfanget af byggeriet. Det sker dog også af hensyn til kommunalbestyrelsens behandling ved færdigmelding, hvor erklæringen om omfanget af byggeriet skal stemme overens med den dokumentation, der indsendes ved færdigmelding.\
+- Oplysninger til identifikation af ejendommen, bygningen eller enheden, herunder eksempelvis matrikelbetegnelse, adgangsadresse, ejendomsnummer og etageangivelse. Det kan f.eks. være i form af matrikelbetegnelse, adgangsadresse, ejendomsnummer og etageangivelse. Kommunalbestyrelsen skal bruge dokumentationen for at kunne konstatere, hvor byggeriet ønskes udført. Denne dokumentation er ikke genstand for selvstændig behandling af kommunalbestyrelsen, men den er afgørende for kommunalbestyrelsens identifikation af sagen, og det er derfor afgørende, at den er fyldestgørende ved ansøgning.
 
-\
-En ansøgning om byggetilladelse skal, hvis det er relevant for byggearbejdet indeholde:\
-\
+- Oplysninger til identifikation af det arbejde, der udføres, herunder eksempelvis tegningsmateriale, hvoraf bygningens dimensioner og placering fremgår. Kommunalbestyrelsen skal bruge dokumentationen til at konstatere, hvilket type arbejde, der ønskes udført, og hvad omfanget heraf er, f.eks. om det er nybyggeri eller en ombygning af eksisterende byggeri.
 
-- Oplysning om forhold vedrørende byggeret og helhedsvurdering, jf. [kap. 8](/tekniske-bestemmelser/08/), og de ubebyggede arealer, jf. [kap. 20](/tekniske-bestemmelser/20/). Dokumentationen omfatter f.eks. oplysning om bygningens placering på\
-  grunden og i forhold til andre bygninger samt højdeforhold. Helhedsvurderingen er en del af sagsbehandlingen, som bygningsmyndigheden skal udføre, når byggeretten ikke kan overholdes. Derudover omfatter den oplysning om indretning af de ubebyggede arealer, herunder antal af og placering af parkeringspladser, indretning af opholdsarealer på terræn samt eventuel indretning af arealer til opbevaring af affald. Særligt for så vidt angår byggeret og helhedsvurdering, kan der være anden lovgivning, herunder lokalplaner, som skal iagttages af\
-  kommunalbestyrelsen, ligesom det i mange tilfælde vil være nødvendigt at foretage partshøring af naboer eller andre relevante parter i forbindelse med behandlingen af denne dokumentation.\
-  \
-- Oplysning om og dokumentation for, hvilken konstruktionsklasse byggeriet kan henføres til, jf. [kap. 26](/ovrige-bestemmelser/26/) om konstruktionsklasser og [kap. 28](/ovrige-bestemmelser/28/) om dokumentation af bærende konstruktioner. Læs mere om dette nedenfor.\
-  \
-- For ombygninger og forandringer af eksisterende byggeri, hvor de bærende konstruktioners virkemåde ændres, skal der indsendes oplysning om og dokumentation for, hvilken konstruktionsklasse det berørte konstruktionsafsnit kan henføres til, jf. [kapitel 26](/ovrige-bestemmelser/26/) om konstruktionsklasser og [kapitel 28](/ovrige-bestemmelser/28/) om dokumentation af bærende konstruktioner.\
-  \
-- Oplysning om og dokumentation for, hvilken brandklasse byggeriet kan henføres til, jf. [kap. 27](/ovrige-bestemmelser/27/) om brandklasser og [kap. 29](/ovrige-bestemmelser/29/) om dokumentation af brandforhold. Læs mere om dette nedenfor.\
-  \
-- For ombygninger og forandringer af eksisterende byggeri, hvor forudsætningerne for de brandmæssige forhold ændres, skal der indsendes oplysning om og dokumentation for, hvilken brandklasse det pågældende bygningsafsnit kan henføres til, jf. [kapitel 27](/ovrige-bestemmelser/27/) om brandklasser og [kapitel 29](/ovrige-bestemmelser/29/) om dokumentation af brandforhold. Det skal tages højde for, om ændringen påvirker andre dele af bygningens brandforhold.\
-  \
+- Oplysning om den planlagte benyttelse af bebyggelsen. Ved ombygning og ændret benyttelse af bebyggelsen skal den ligeledes indeholde oplysninger om den hidtidige benyttelse. Oplysning om bebyggelsens anvendelse er afgørende for kommunalbestyrelsens behandling, da der er krav i bygningsreglementet, der afhænger af, hvad bygningen skal anvendes til. Denne dokumentation er også relevant i forhold til anden lovgivning, da der f.eks. kan være fastsat bestemmelser i en lokalplan om, hvad et bestemt område må anvendes til.
+
+- Oplysninger til registrering af sagen i Bygnings- og Boligregistret (BBR). Der henvises til bekendtgørelse om ajourføring af Bygnings- og Boligregistret (BBR), hvorefter ejeren i forbindelse med ansøgning om byggetilladelse skal meddele alle oplysninger, som er af betydning for drift og ajourføring af Bygnings- og Boligregistret (BBR).
+
+- Erklæring om, hvilke tekniske forhold i bygningsreglementet som er relevant for byggearbejdet. Erklæringen kan henvise til bygningsreglementets tekniske bestemmelser på kapitelniveau. Dette sker af hensyn til kommunalbestyrelsens behandling ved ansøgning, da erklæringen giver kommunalbestyrelsen et mere tydeligt billede af omfanget af byggeriet. Det sker dog også af hensyn til kommunalbestyrelsens behandling ved færdigmelding, hvor erklæringen om omfanget af byggeriet skal stemme overens med den dokumentation, der indsendes ved færdigmelding.
+
+En ansøgning om byggetilladelse skal, hvis det er relevant for byggearbejdet indeholde:
+
+- Oplysning om forhold vedrørende byggeret og helhedsvurdering, jf. [kap. 8](/tekniske-bestemmelser/08/), og de ubebyggede arealer, jf. [kap. 20](/tekniske-bestemmelser/20/). Dokumentationen omfatter f.eks. oplysning om bygningens placering på
+
+  grunden og i forhold til andre bygninger samt højdeforhold. Helhedsvurderingen er en del af sagsbehandlingen, som bygningsmyndigheden skal udføre, når byggeretten ikke kan overholdes. Derudover omfatter den oplysning om indretning af de ubebyggede arealer, herunder antal af og placering af parkeringspladser, indretning af opholdsarealer på terræn samt eventuel indretning af arealer til opbevaring af affald. Særligt for så vidt angår byggeret og helhedsvurdering, kan der være anden lovgivning, herunder lokalplaner, som skal iagttages af
+
+  kommunalbestyrelsen, ligesom det i mange tilfælde vil være nødvendigt at foretage partshøring af naboer eller andre relevante parter i forbindelse med behandlingen af denne dokumentation.
+
+- Oplysning om og dokumentation for, hvilken konstruktionsklasse byggeriet kan henføres til, jf. [kap. 26](/ovrige-bestemmelser/26/) om konstruktionsklasser og [kap. 28](/ovrige-bestemmelser/28/) om dokumentation af bærende konstruktioner. Læs mere om dette nedenfor.
+
+- For ombygninger og forandringer af eksisterende byggeri, hvor de bærende konstruktioners virkemåde ændres, skal der indsendes oplysning om og dokumentation for, hvilken konstruktionsklasse det berørte konstruktionsafsnit kan henføres til, jf. [kapitel 26](/ovrige-bestemmelser/26/) om konstruktionsklasser og [kapitel 28](/ovrige-bestemmelser/28/) om dokumentation af bærende konstruktioner.
+
+- Oplysning om og dokumentation for, hvilken brandklasse byggeriet kan henføres til, jf. [kap. 27](/ovrige-bestemmelser/27/) om brandklasser og [kap. 29](/ovrige-bestemmelser/29/) om dokumentation af brandforhold. Læs mere om dette nedenfor.
+
+- For ombygninger og forandringer af eksisterende byggeri, hvor forudsætningerne for de brandmæssige forhold ændres, skal der indsendes oplysning om og dokumentation for, hvilken brandklasse det pågældende bygningsafsnit kan henføres til, jf. [kapitel 27](/ovrige-bestemmelser/27/) om brandklasser og [kapitel 29](/ovrige-bestemmelser/29/) om dokumentation af brandforhold. Det skal tages højde for, om ændringen påvirker andre dele af bygningens brandforhold.
+
 - Oplysninger om og dokumentation for, hvorledes byggeriet opfylder [§§ 126-133 v](/tekniske-bestemmelser/05/krav/126_133/)edrørende redningsberedskabets indsatsforhold, herunder hvorvidt byggeriet er indsatstaktisk traditionelt, jf. [§ 510](/ovrige-bestemmelser/29/krav/506_522/).
 
-Det tidligere krav om tæthedsprøvning fremgår ikke længere af [kapitel 1](/administrative-bestemmelser/) i BR18. I stedet fremgår det af BR18 [§ 263, stk. 3](/tekniske-bestemmelser/11/krav/), at kravet kan dokumenteres ved at der foretages en trykprøvning.\
+Det tidligere krav om tæthedsprøvning fremgår ikke længere af [kapitel 1](/administrative-bestemmelser/) i BR18. I stedet fremgår det af BR18 [§ 263, stk. 3](/tekniske-bestemmelser/11/krav/), at kravet kan dokumenteres ved at der foretages en trykprøvning.
+
 Hvis byggeriet er omfattet af krav om byggeskadeforsikring, skal der indsendes dokumentation for, at et forsikringsselskab har afgivet tilbud på byggeskadeforsikring. [Læs mere om byggeskadeforsikring her](../../../../vejledninger/andre_vejledninger/vejledning/byggeskadeforsikring/ "Byggeskadeforsikring").
 
 Hvor et byggeri indplaceres i konstruktions- eller brandklasse 2-4 gælder der supplerende dokumentationskrav. Krav om certificeret statiker og certificeret brandrådgiver er to selvstændige krav. Et byggeri kan derfor være omfattet af krav om en certificeret brandrådgiver, men ikke af krav om certificeret statiker. Det kan f.eks. være et ombygningsarbejde i et etagebyggeri, som påvirker de bærende konstruktioner, og derfor bliver omfattet af krav om en certificeret statiker, hvorimod byggeriet ikke ændrer på forudsætningerne for brandstrategien.
@@ -224,4 +226,3 @@ Hvor et byggeri indplaceres i konstruktions- eller brandklasse 2-4 gælder der s
 
 ### Klage over kommunalbestyrelsens afgørelser
 
-\

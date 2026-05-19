@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -23,21 +26,15 @@
 
 ## Vejledning om udnyttelige tagetager
 
-
 ### Udnyttelige tagetager og bebyggelsesprocenten
-
 
 ### Hvad er en udnyttelig tagetage?
 
 En udnyttelig tagetage er en tagetage, hvor der er et areal, der kan anvendes uden væsentlige indgreb i de bærende konstruktioner. Et væsentligt indgreb i de bærende konstruktioner er eksempelvis, når gitterspærfag erstattes med hanebåndsspær.
 
-
 ### Hvilket areal medregnes i en udnyttelig tagetage?
-
 
 ### Fra udnyttelig til uudnyttelig tagetage
 
-
 ### Anvendelsen af den udnyttelige tagetage
 
-\

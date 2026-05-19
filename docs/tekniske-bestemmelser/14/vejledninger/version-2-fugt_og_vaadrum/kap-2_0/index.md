@@ -1,13 +1,11 @@
 # Fugt og vådrum (§ 334 - § 339)
 
-
 ## Se alle vejledninger om Fugt og vådrum (§ 334 - § 339)
 
 - [Spørgsmål og svar om fugt og vådrum](../../qa/)
 - [Bygningsreglementets vejledning om fugt og vådrum](../)
 
 ## Bygningsreglementets vejledning om fugt og vådrum
-
 
 ### Generelt om fugt og vådrum
 
@@ -41,19 +39,17 @@ I SBi Anvisning 252 beskrives, hvorledes gulve og vægge i vådrum kan udføres.
 
 Hvis SBi-anvisning 252 følges, opnås en god sikkerhed for at overholde bygningsreglementets krav til vådrum.
 
-\
-
 #### SBi Anvisning 252
 
 Vådrum
 
 #### Anvendelsesområde
 
-SBi-anvisning 252 giver vejledning i planlægning, projektering og korrekt udførelse af gulve, vægge og installationer i vådrum i overensstemmelse med kravene i Bygningsreglement 2010.\
+SBi-anvisning 252 giver vejledning i planlægning, projektering og korrekt udførelse af gulve, vægge og installationer i vådrum i overensstemmelse med kravene i Bygningsreglement 2010.
+
 Vådrum hører til de mest kritiske rum i en bygning, både på grund af den direkte vandpåvirkning og den høje relative luftfugtighed, der ofte forekommer i længere perioder. Anvisningen beskriver, hvordan gulve, vægge og installationer kan udføres, så bygningsreglementets krav er overholdt, og så der opnås størst mulig sikkerhed mod skader fra vand og fugt.
 
 #### Se anvisningen her{target="_blank"}
 
 -  [Gå til krav om Vådrum](../../../krav/339/){target="_blank"}
 
-\

@@ -1,6 +1,5 @@
 # Lydforhold (§ 368 - § 376)
 
-
 ## Se alle vejledninger om Lydforhold (§ 368 - § 376)
 
 - [Bygningsreglementets vejledning om lydforhold](../../generel_vejledning)
@@ -11,8 +10,6 @@
 - [- Vejledning til hospitaler, lægehuse og klinikker](../../hospitaler-laegehuse-og-klinikker)
 
 ## - Vejledning til kontorbyggeri
-
-
 
 ### Kontorbyggeri {#c4285b66-cbe9-411e-8904-e76b5f1be9b5}
 
@@ -26,22 +23,21 @@ De angivne forslag til projekteringsværdier omfatter ikke alle rumtyper og anve
 
 **Definitioner af rumtyper for kontorbyggeri**
 
-\- **Kontorer**, 1-4 personer\
-\
-- **Møderum**\
-\
-- **Videokonferencerum** kan være relativt små rum indrettet i almindelige møderum, men kan også være større rum, der kræver særskilt akustisk projektering.\
-\
-- **Storrumskontorer** er arealer, hvori de enkelte medarbejdere ikke er fysisk adskilt i lukkede rum. Disse arealer kræver særskilt akustisk projektering.\
-\
-- **Auditorier** er rum, der benyttes til præsentationer for et større antal personer, fx fra 50 personer op til flere hundrede. Sådanne rum kræver særskilt akustisk projektering.\
-\
-- **Kantiner** benyttes til servering af frokost og også ofte til møder, seminarer eller lignende. Kantiner kan have meget varierende størrelse og form og kræver særskilt akustisk\
-projektering.\
-\
+\- **Kontorer**, 1-4 personer
+
+- **Møderum**
+
+- **Videokonferencerum** kan være relativt små rum indrettet i almindelige møderum, men kan også være større rum, der kræver særskilt akustisk projektering.
+
+- **Storrumskontorer** er arealer, hvori de enkelte medarbejdere ikke er fysisk adskilt i lukkede rum. Disse arealer kræver særskilt akustisk projektering.
+
+- **Auditorier** er rum, der benyttes til præsentationer for et større antal personer, fx fra 50 personer op til flere hundrede. Sådanne rum kræver særskilt akustisk projektering.
+
+- **Kantiner** benyttes til servering af frokost og også ofte til møder, seminarer eller lignende. Kantiner kan have meget varierende størrelse og form og kræver særskilt akustisk
+
+projektering.
+
 - **Toiletfaciliteter** − ofte bestående af forrum og toiletrum**\**
-
-
 
 ### Lydisolation for kontorbyggeri {#b3ba71ab-4b69-4413-8577-5d81c6a474b6}
 
@@ -98,15 +94,18 @@ Tabel 5.1 indeholder forslag projekteringsværdier for luftlydisolation og trinl
 |                                                                                                                                                                  |                                          |
 | 1\) Der kan til rum med ekstra store krav til fortrolighed være behov for en bedre lydisolation.\                                                                |                                          |
 | \                                                                                                                                                                |                                          |
-| 2) Der opstilles i det konkrete projekt lydkrav, der sikrer tilfredsstillende lydforhold for rumanvendelsen.\                                                    |                                          |
+|
+
+2) Der opstilles i det konkrete projekt lydkrav, der sikrer tilfredsstillende lydforhold for rumanvendelsen.\                                                    |                                          |
 | \                                                                                                                                                                |                                          |
-| 3) I tilfælde af særligt generende støj i egen eller andres virksomhed opstilles relevante lydkrav, der sikrer tilfredsstillende lydforhold for rumanvendelsen.\ |                                          |
+|
+
+3) I tilfælde af særligt generende støj i egen eller andres virksomhed opstilles relevante lydkrav, der sikrer tilfredsstillende lydforhold for rumanvendelsen.\ |                                          |
 | \                                                                                                                                                                |                                          |
-| 4) Fra alle omgivende gulve, dæk og trapper.**\**                                                                                                                |                                          |
+|
+
+4) Fra alle omgivende gulve, dæk og trapper.**\**                                                                                                                |                                          |
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------+
-
-\
-
 
 ### Støj indendørs fra trafik {#fd62d10c-8645-4fce-8301-f417fb7d86c9}
 
@@ -126,11 +125,10 @@ Tabel 5.2 indeholder forslag til projekteringsværdier for trafikstøj i kontorb
 +-------------------------------------------------+-------------------------------------------------+
 | **Noter**                                                                                         |
 |                                                                                                   |
-| 1) Projekteringsværdierne gælder i møblerede rum, men uden personer til stede.                    |
+|
+
+1) Projekteringsværdierne gælder i møblerede rum, men uden personer til stede.                    |
 +---------------------------------------------------------------------------------------------------+
-
-\
-
 
 ### Støj fra tekniske installationer {#5ffe9f4e-f2ad-4108-860f-19bb8d45b344}
 
@@ -159,14 +157,19 @@ Tabel 5.3 indeholder forslag til projekteringsværdier for støj fra tekniske in
 +-------------------------------------------------------------------------------------------------------------------------------+
 | **Noter **                                                                                                                    |
 |                                                                                                                               |
-| 1) Projekteringsværdierne gælder i møblerede rum.\                                                                            |
-| 2) Projekteringsværdierne gælder for den enkelte installation.\                                                               |
-| 3) Der opstilles relevante projektkrav, der kan sikre tilfredsstillende lydforhold for rumanvendelsen.\                       |
-| 4) For kantiner, der benyttes som mødefacilitet, anbefales ***L***~**Aeq**~ ≤ 35 dB.**\**                                     |
+|
+
+1) Projekteringsværdierne gælder i møblerede rum.\                                                                            |
+|
+
+2) Projekteringsværdierne gælder for den enkelte installation.\                                                               |
+|
+
+3) Der opstilles relevante projektkrav, der kan sikre tilfredsstillende lydforhold for rumanvendelsen.\                       |
+|
+
+4) For kantiner, der benyttes som mødefacilitet, anbefales ***L***~**Aeq**~ ≤ 35 dB.**\**                                     |
 +-------------------------------------------------------------------------------------------------------------------------------+
-
-\
-
 
 ### Rumakustik {#580fa499-be47-4546-83b8-d8ab6b3450ff}
 
@@ -175,7 +178,9 @@ Tabel 5.4 indeholder forslag til projekteringsværdier for efterklangstid og abs
 +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
 | **Kontorbyggeri -- Tabel 5.4 Rumakustik** **-- Forslag til projekteringsværdier**                                                                                                                                                                                                                                                                                                                                  |
 +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
-| **Efterklangstid**                                                                                                                   | **T ^1),\ 3)^**                                                                                                                      | **Frekvensområde**                                                                                                                   |
+| **Efterklangstid**                                                                                                                   | **T ^1),\
+
+3)^**                                                                                                                      | **Frekvensområde**                                                                                                                   |
 +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
 | Kontorer (1-4 personer) og møderum                                                                                                   | T ≤ 0,6 s                                                                                                                            | 125-4000Hz                                                                                                                           |
 +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
@@ -187,13 +192,21 @@ Tabel 5.4 indeholder forslag til projekteringsværdier for efterklangstid og abs
 +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
 | Auditorier, videokonferencerum                                                                                                       | Projektkrav ^5)^                                                                                                                     | Projektkrav ^5)^                                                                                                                     |
 +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
-| Cafeteria/kantine                                                                                                                    | Projektkrav ^5),\ 7)^                                                                                                                | 125-4000 Hz                                                                                                                          |
+| Cafeteria/kantine                                                                                                                    | Projektkrav ^5),\
+
+7)^                                                                                                                | 125-4000 Hz                                                                                                                          |
 +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
 | Storkøkkener                                                                                                                         | Projektkrav ^5)^                                                                                                                     |                                                                                                                                      |
 +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
 | **Absorptionsareal**                                                                                                                 | **A ^2)^**                                                                                                                           | **Frekvensområde**                                                                                                                   |
 +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
-| Storrumskontor ^a),\ b),\ 3),\ 4)^                                                                                                   | A ≥ 1,1 × gulvareal                                                                                                                  | 125-4000Hz                                                                                                                           |
+| Storrumskontor ^a),\
+
+b),
+
+3),
+
+4)^                                                                                                   | A ≥ 1,1 × gulvareal                                                                                                                  | 125-4000Hz                                                                                                                           |
 +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
 | Atrier                                                                                                                               | Projektkrav ^5^                                                                                                                      |                                                                                                                                      |
 +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
@@ -202,25 +215,39 @@ Tabel 5.4 indeholder forslag til projekteringsværdier for efterklangstid og abs
 | a\) *For åbne kontorområder gælder specielle forhold fx omkring lydudbredelse og taleforståelighed,\                                                                                                                                                                                                                                                                                                               |
 | se \[3\] og \[12\].\*                                                                                                                                                                                                                                                                                                                                                                                              |
 | \                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| b) *Der kan ikke påregnes optimale lydforhold for alle sædvanlige kontoraktiviteter, uanset omhyggelig projektering. For at opnå gode lydforhold i storrumskontorer, er det vigtigt, at der ud over at overholde de angivne vejledende krav, udarbejdes interne regler for støjmæssig adfærd i storrumskontorer. Det er også vigtigt, at placeringen af forskellige grupper inddrages i projekteringen.*           |
+|
+
+b) *Der kan ikke påregnes optimale lydforhold for alle sædvanlige kontoraktiviteter, uanset omhyggelig projektering. For at opnå gode lydforhold i storrumskontorer, er det vigtigt, at der ud over at overholde de angivne vejledende krav, udarbejdes interne regler for støjmæssig adfærd i storrumskontorer. Det er også vigtigt, at placeringen af forskellige grupper inddrages i projekteringen.*           |
 +--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Noter **                                                                                                                                                                                                                                                                                                                                                                                                         |
 |                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| 1) Maksimumsværdien for efterklangstiden gælder for hvert 1/1-oktavbånd i frekvensområdet. Ved 125 Hz kan den angivne maksimumsværdi dog tillægges 20 %.\                                                                                                                                                                                                                                                          |
+|
+
+1) Maksimumsværdien for efterklangstiden gælder for hvert 1/1-oktavbånd i frekvensområdet. Ved 125 Hz kan den angivne maksimumsværdi dog tillægges 20 %.\                                                                                                                                                                                                                                                          |
 | \                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 2) Minimumsværdien for absorptionsarealet gælder for hvert 1/1-oktavbånd i frekvensområdet. Ved 125 Hz kan den angivne minimumsværdi dog fratrækkes 20 %.\                                                                                                                                                                                                                                                         |
+|
+
+2) Minimumsværdien for absorptionsarealet gælder for hvert 1/1-oktavbånd i frekvensområdet. Ved 125 Hz kan den angivne minimumsværdi dog fratrækkes 20 %.\                                                                                                                                                                                                                                                         |
 | \                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 3) Projekteringsværdierne gælder i møblerede rum. For storrumskontorer vil der være en fordeling af lydabsorptionen mellem bygning og indretning. For bygningen foreslås absorptionsareal ≥ 1,0 x gulvareal.\                                                                                                                                                                                                      |
+|
+
+3) Projekteringsværdierne gælder i møblerede rum. For storrumskontorer vil der være en fordeling af lydabsorptionen mellem bygning og indretning. For bygningen foreslås absorptionsareal ≥ 1,0 x gulvareal.\                                                                                                                                                                                                      |
 | \                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 4) Som minimum bør sikres en afstandsdæmpning af tale *D*~2,s~ og A-vejet lydtrykniveau af tale i 4 m afstand *L*~p,AS,4m~ svarende til lydklasse C i \[16\].\                                                                                                                                                                                                                                                     |
+|
+
+4) Som minimum bør sikres en afstandsdæmpning af tale *D*~2,s~ og A-vejet lydtrykniveau af tale i 4 m afstand *L*~p,AS,4m~ svarende til lydklasse C i \[16\].\                                                                                                                                                                                                                                                     |
 | \                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 5) Der opstilles relevante projektkrav, der kan sikre tilfredsstillende lydforhold for rumanvendelsen.\                                                                                                                                                                                                                                                                                                            |
+|
+
+5) Der opstilles relevante projektkrav, der kan sikre tilfredsstillende lydforhold for rumanvendelsen.\                                                                                                                                                                                                                                                                                                            |
 | \                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 6) Kun gange uden opholds- og arbejdsområder. Hvor arealerne i nogen grad anvendes til opholds- eller arbejdsområder anvendes T ≤ 0,6 s.\                                                                                                                                                                                                                                                                          |
+|
+
+6) Kun gange uden opholds- og arbejdsområder. Hvor arealerne i nogen grad anvendes til opholds- eller arbejdsområder anvendes T ≤ 0,6 s.\                                                                                                                                                                                                                                                                          |
 | \                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 7) Det anbefales til almindelige cafeterier og kantiner at benytte begrebet "akustisk kapacitet" og specificere max efterklangstid som lydklasse C i henhold til \[16\].**\                                                                                                                                                                                                                                        |
+|
+
+7) Det anbefales til almindelige cafeterier og kantiner at benytte begrebet "akustisk kapacitet" og specificere max efterklangstid som lydklasse C i henhold til \[16\].**\                                                                                                                                                                                                                                        |
 | \**                                                                                                                                                                                                                                                                                                                                                                                                                |
 +--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-\
-\

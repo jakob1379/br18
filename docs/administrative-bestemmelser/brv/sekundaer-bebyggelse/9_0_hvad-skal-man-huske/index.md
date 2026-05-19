@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -83,4 +86,5 @@
 
 ### Hvad skal man huske?
 
-Foruden ovenstående, er der også andre forhold, som man skal være opmærksom på, før man påbegynder et byggeri. Sekundær bebyggelse må ikke anvendes til beboelse.    En ændring i anvendelse, fx fra udhus til bolig eller terrasseoverdækning til udestue, kræver byggetilladelse.   Når man har opført sekundær bebyggelse, der ikke kræver byggetilladelse, skal man også huske at meddele oplysninger om byggeriet til Bygnings- og Boligregistret (BBR). Det er kommunalbestyrelsen, der opdaterer oplysninger i BBR, men det er boligejerens ansvar, at oplysningerne er korrekte. Alle bygninger på grunden skal som udgangspunkt være registreret i BBR.   Hvis man er i tvivl om, hvorvidt der må bygges uden tilladelse, er det altid en god idé at kontakte kommunen, inden byggeriet påbegyndes, da man kan risikere at skulle rive en ulovligt opført bygning ned.   [Læs mere i Vejledning om lovliggørelse af ulovligt byggeri](../../vejledning-om-lovliggorelse/).\
+Foruden ovenstående, er der også andre forhold, som man skal være opmærksom på, før man påbegynder et byggeri. Sekundær bebyggelse må ikke anvendes til beboelse.    En ændring i anvendelse, fx fra udhus til bolig eller terrasseoverdækning til udestue, kræver byggetilladelse.   Når man har opført sekundær bebyggelse, der ikke kræver byggetilladelse, skal man også huske at meddele oplysninger om byggeriet til Bygnings- og Boligregistret (BBR). Det er kommunalbestyrelsen, der opdaterer oplysninger i BBR, men det er boligejerens ansvar, at oplysningerne er korrekte. Alle bygninger på grunden skal som udgangspunkt være registreret i BBR.   Hvis man er i tvivl om, hvorvidt der må bygges uden tilladelse, er det altid en god idé at kontakte kommunen, inden byggeriet påbegyndes, da man kan risikere at skulle rive en ulovligt opført bygning ned.   [Læs mere i Vejledning om lovliggørelse af ulovligt byggeri](../../vejledning-om-lovliggorelse/).
+

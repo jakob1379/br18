@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -22,7 +25,6 @@
 - [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../../temasiden-brandogkonstruktioner-dk/)
 
 ## Eksempelsamling om ombygninger og andre forandringer - For etageboligbyggeri samt enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse
-
 
 ### Kolofon
 
@@ -56,7 +58,7 @@ Det er relevant at indplacere en ombygning eller forandring i en brandklasse, hv
 
 Såfremt det er relevant at indplacere en ombygning eller anden forandring i et etageboligbyggeri, skal den altid indplaceres i konstruktionsklasse 2-4 og/eller brandklasse 2-4, fordi det pågældende konstruktionsafsnit eller bygningsafsnit i forvejen kan indplaceres i disse klasser. Dette betyder, at der altid skal tilknyttes en certificeret statiker og/eller brandrådgiver, såfremt det er relevant at indplacere en ombygning eller anden forandring i en konstruktionsklasse og/eller brandklasse.
 
-Såfremt det er relevant at indplacere en ombygning eller anden forandring i et enfamiliehus, dobbelthus, rækkehus og sommerhus, skal den oftest indplaceres i konstruktionsklasse 1 og/eller brandklasse 1. Dette kræver dog, at det pågældende konstruktionsafsnit og/eller bygningsafsnit kan indplaceres i konstruktionsklasse 1 og/eller brandklasse 1. Konstruktionsklasser og brandklasser er nærmere beskrevet i bygningsreglementets *[vejledning om brug af brand og konstruktionsklasser](../../vejledning-om-brug-af-brand-og-konstruktionsklasser/)*. 
+Såfremt det er relevant at indplacere en ombygning eller anden forandring i et enfamiliehus, dobbelthus, rækkehus og sommerhus, skal den oftest indplaceres i konstruktionsklasse 1 og/eller brandklasse 1. Dette kræver dog, at det pågældende konstruktionsafsnit og/eller bygningsafsnit kan indplaceres i konstruktionsklasse 1 og/eller brandklasse 1. Konstruktionsklasser og brandklasser er nærmere beskrevet i bygningsreglementets *[vejledning om brug af brand og konstruktionsklasser](../../vejledning-om-brug-af-brand-og-konstruktionsklasser/)*.
 
 For ombygninger og forandringer, hvor der kræves anvendt certificeret statiker, men ikke kræves anvendt certificeret brandrådgiver, fastligger certificeret statiker selv funktionskravet/bæreevnekravet til bærende bygningsdele iht. bestemmelserne på opførselstidspunktet.
 
@@ -86,4 +88,3 @@ Hvis ombygningen kan opføres uden byggetilladelse, skal den ikke indplaceres i 
 
 ### Ombygninger og andre forandringer der kan udføres uden ansøgning om byggetilladelse
 
-\

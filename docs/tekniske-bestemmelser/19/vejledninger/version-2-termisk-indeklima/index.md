@@ -1,6 +1,5 @@
 # Termisk indeklima og installationer til varme- og køleanlæg (§ 385 - § 392)
 
-
 ## Se alle vejledninger om Termisk indeklima og installationer til varme- og køleanlæg (§ 385 - § 392)
 
 - [Spørgsmål og svar](../sporgsmaal-og-svar)
@@ -8,12 +7,9 @@
 
 ## Bygningsreglementets vejledning om termisk indeklima og installationer til varme- og køleanlæg
 
-
 ### Forord
 
 Bygninger skal planlægges og udføres, så der sikres et tilfredsstillende termisk indeklima i forhold til anvendelsen. Det medfører, at installationer til ventilation og varme- og køleanlæg skal udføres, så de har tilstrækkelig kapacitet til at sikre disse temperaturforhold året rundt.
-
-
 
 ### Generelt for termisk indeklima {#4c7f27cd-1445-45c9-a65c-2c64a5a14b85}
 
@@ -31,8 +27,6 @@ Dokumentation for det termiske indeklima kan ske på grundlag af simulering af f
 
 For vurdering af hvordan det termiske indeklima vil blive påvirket af klimaforandringer, kan der foretages simulering af forholdene i de kritiske rum på grundlag af Typical Meteorological Year, TMY 2050s og TMY 2090s, hvilket er to fremskrivninger af klimaet for henholdsvis 2050'erne og 2090'erne som typiske meteorologiske år.
 
-
-
 ### Generelt for installationer til varme- og køleanlæg {#be28a77a-cbf1-43b6-b8d8-52947cb4e5de}
 
 Ved planlægning og udførelse af installationer til varme- og køleanlæg skal DS 469 Varme- og køleanlæg i bygninger overholdes. DS 469 omfatter alle typer varme- og køleanlæg, der har til formål at tilføre rum og bygninger samt tilknyttede systemer varme eller køling.
@@ -43,22 +37,17 @@ I forhold til korrosion henvises til SBi-anvisning 227 Korrosion i VVS-installat
 
 Der henvises til [vejledning om installationer i eksisterende bygninger](../../../../vejledninger/andre_vejledninger/vejledning/installationer-eksisterende-byggeri "Installationer eksisterende byggeri")
 
-
-
 ### Energiforbrug {#15ef20a4-5f04-48dc-88ab-c2d330d9f881}
 
 DS 452 skal overholdes for at minimere varmetab og beskytte installationerne mod kondensdannelse. Rør og beholdere bør så vidt muligt anbringes, så varmeafgivelsen fra dem kommer bygningen til gode.
 
 Ved installation af målere til måling af elforbrug eller køleydelse til et serverrum skal der installeres målere med tilstrækkelig nøjagtighed. Kravet kan anses for opfyldt ved anvendelse af typegodkendte målere eller målere med en tilsvarende nøjagtighed.
 
-
-
 ### Kontrol {#63618166-5f9f-45e2-8eed-4618eb3f6b13}
 
 Der henvises til bygningsreglementets vejledning om funktionsafprøvning.
 
-
-
 ### Drift og vedligehold {#60c9a220-668d-45d6-af89-955cb04c03a8}
 
-Kravene til drift og vedligehold af installationerne til varme- og køleanlæg vil normalt være opfyldt ved opfyldelse af kravene i kapitel 15 i DS 469 Varme- og køleanlæg i bygninger.\
+Kravene til drift og vedligehold af installationerne til varme- og køleanlæg vil normalt være opfyldt ved opfyldelse af kravene i kapitel 15 i DS 469 Varme- og køleanlæg i bygninger.
+

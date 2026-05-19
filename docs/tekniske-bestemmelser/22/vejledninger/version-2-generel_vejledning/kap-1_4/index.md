@@ -1,6 +1,5 @@
 # Ventilation (§ 420 - § 452)
 
-
 ## Se alle vejledninger om Ventilation (§ 420 - § 452)
 
 - [Bygningsreglementets vejledning om ventilation](../)
@@ -8,7 +7,6 @@
 - [Spørgsmål og svar](../../sporgsmaal_svaar/)
 
 ## Bygningsreglementets vejledning om ventilation
-
 
 ### Forord
 
@@ -28,7 +26,7 @@
 
 ### Overførsel af luft mellem rum
 
-Det skal sikres, at ventilationsløsningen ikke nødvendiggør, at luften bevæger sig fra mere til mindre luftforurenede rum. I boliger vil de mere luftforurenede rum for eksempel være køkkener, baderum, wc-rum og bryggers, mens de mindre luftforurenede rum vil være stue, soverum mv. 
+Det skal sikres, at ventilationsløsningen ikke nødvendiggør, at luften bevæger sig fra mere til mindre luftforurenede rum. I boliger vil de mere luftforurenede rum for eksempel være køkkener, baderum, wc-rum og bryggers, mens de mindre luftforurenede rum vil være stue, soverum mv.
 
 Overførsel af røg, madlugt etc. mellem enheder i fx etageejendomme skal undgås. Roterende varmevekslere og varmevekslere med en intern lækage kan fx overføre røgpartikler til indblæsningsluften til gene for brugerne.
 
@@ -56,4 +54,3 @@ Overførsel af røg, madlugt etc. mellem enheder i fx etageejendomme skal undgå
 
 ### Drift og vedligehold
 
-\

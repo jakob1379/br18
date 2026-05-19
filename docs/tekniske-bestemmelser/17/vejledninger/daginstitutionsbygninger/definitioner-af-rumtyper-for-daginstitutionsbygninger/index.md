@@ -1,6 +1,5 @@
 # Lydforhold (§ 368 - § 376)
 
-
 ## Se alle vejledninger om Lydforhold (§ 368 - § 376)
 
 - [Bygningsreglementets vejledning om lydforhold](../../generel_vejledning/)
@@ -32,7 +31,7 @@ Med hensyn til Bygningsreglementets bestemmelser for lydisolation skelnes der me
 
 Bygningsreglementets krav om særskilte lydisolerende tiltag mellem opholdsrum og tilgrænsende rum i erhvervsenheder eller i andre institutioner gælder kun ved tilgrænsende **rum med særligt generende støj** og således ikke ved sammenbygning med kontorlokaler eller almindelige undervisnings- eller opholdsrum, hvor der derfor kan fastsættes mere lempelige grænseværdier ved den akustiske projektering.
 
-### 
+###
 
 [4.2](../lydisolation-for-daginstitutionsbygninger/)
 
@@ -50,4 +49,3 @@ Bygningsreglementets krav om særskilte lydisolerende tiltag mellem opholdsrum o
 
 ### Rumakustik i daginstitutionsbygninger
 
-\

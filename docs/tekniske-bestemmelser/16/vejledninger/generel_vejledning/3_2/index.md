@@ -1,13 +1,11 @@
 # Legepladser mv. (§ 358 - § 367)
 
-
 ## Se alle vejledninger om Legepladser mv. (§ 358 - § 367)
 
 -
 - [Bygningsreglementets vejledning om legepladser mv.](../)
 
 ## Bygningsreglementets vejledning om legepladser mv.
-
 
 ### Rettelsesblad til vejledning om legepladser (1. januar 2025)
 
@@ -49,7 +47,7 @@ Det fremgår også af BR18, § 493, stk. 3, at visse legepladsredskaber er undta
 
 Det kan være nødvendigt at vurdere de enkelte legepladsredskaber på legepladsen hver for sig, i forhold til indplaceringen. Såfremt ansøger ikke vurderer, at det er relevant at indplacere legepladsen mv. i en brandklasse, skal dette oplyses og begrundes i ansøgningen om byggetilladelsen.
 
-Hvis det er relevant at indplacere legepladsen mv. i en brandklasse, skal indplaceringen følge § BR18, [kapitel 27](/ovrige-bestemmelser/27/) om brandklasser. Indplacering i brandklasse afhænger af byggeriets risikoklasse og den valgte metode for dokumentation af brandsikkerheden.\
+Hvis det er relevant at indplacere legepladsen mv. i en brandklasse, skal indplaceringen følge § BR18, [kapitel 27](/ovrige-bestemmelser/27/) om brandklasser. Indplacering i brandklasse afhænger af byggeriets risikoklasse og den valgte metode for dokumentation af brandsikkerheden.
 
 I visse tilfælde kan der være legepladser mv., som på grund af deres udformning eller anvendelse ikke kan indplaceres i en brandklasse selvom legepladsen mv. i sin helhed skal indplaceres i en brandklasse. I disse tilfælde skal legepladsen mv. i stedet vurderes ud fra § 493, stk. 4.
 
@@ -73,4 +71,3 @@ For yderligere henvises der til [bygningsreglementets vejledning til indplacerin
 
 ### Drift, kontrol og vedligehold
 
-\

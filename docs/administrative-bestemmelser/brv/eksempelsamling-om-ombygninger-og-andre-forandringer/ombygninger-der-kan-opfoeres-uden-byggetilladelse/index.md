@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -22,7 +25,6 @@
 - [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../../temasiden-brandogkonstruktioner-dk/)
 
 ## Eksempelsamling om ombygninger og andre forandringer - For etageboligbyggeri samt enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse
-
 
 ### Kolofon
 
@@ -62,8 +64,6 @@ Ved nogle af de nedenstående eksempler er der tilknyttet specifikke forudsætni
 
 Udover de specifikke forudsætninger, forudsættes det generelt for alle eksempler, at byggearbejde ikke ændrer de bærende konstruktioners virkemåde og/eller forudsætningerne for de brandmæssige forhold på anden vis. Det forudsættes yderligere, at byggearbejdet ikke udvider etagearealet, ændre anvendelsen væsentligt, eller ændre andre forhold, der medfører, at der skal ansøges om byggetilladelse.
 
- 
-
 +-------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
 | **Tabel 2: Eksempler på ombygninger og andre forandringer i etageboligbyggeri, der kan udføres uden ansøgning om byggetilladelse**                                                                                                        |
 +-------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
@@ -98,7 +98,6 @@ Udover de specifikke forudsætninger, forudsættes det generelt for alle eksempl
 | Nedlæggelse af lyskasser.                                                                             | Forudsætter bl.a., at lyskasserne ikke er påkrævet af brandmæssige årsager, f.eks. røgudluftning.                                 |
 +-------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
 
-\
 [3](../eksempler-enfamiliehuse/)
 
 ### Enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse - Eksempler på ombygninger og andre forandringer
@@ -111,4 +110,3 @@ Udover de specifikke forudsætninger, forudsættes det generelt for alle eksempl
 
 ### Ombygninger og andre forandringer der kan udføres uden ansøgning om byggetilladelse
 
-\

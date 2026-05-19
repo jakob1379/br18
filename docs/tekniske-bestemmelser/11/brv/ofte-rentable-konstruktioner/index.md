@@ -1,6 +1,5 @@
 # Energiforbrug og klimapåvirkning (§ 250 - § 298)
 
-
 ## Se alle vejledninger om Energiforbrug og klimapåvirkning (§ 250 - § 298)
 
 - [Spørgsmål og svar om energiforbrug](../qa)
@@ -15,8 +14,7 @@
 
 ## Bygningsreglementets vejledning om efterisolering
 
-
 ### Indledning
 
-Bygningsreglementets vejledning om efterisolering eksisterer kun som pdf - [Bygningsreglementets vejledning om efterisolering](../../../../media/dccb5w5s/vejledning-om-rentabel-efterisolering-a.pdf "Vejledning om rentabel efterisolering")\
-\
+Bygningsreglementets vejledning om efterisolering eksisterer kun som pdf - [Bygningsreglementets vejledning om efterisolering](../../../../media/dccb5w5s/vejledning-om-rentabel-efterisolering-a.pdf "Vejledning om rentabel efterisolering")
+

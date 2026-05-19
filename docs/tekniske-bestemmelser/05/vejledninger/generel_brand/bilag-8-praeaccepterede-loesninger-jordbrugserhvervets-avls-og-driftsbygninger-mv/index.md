@@ -1,6 +1,5 @@
 # Brand (§ 82 - § 158)
 
-
 ## Se alle vejledninger om Brand (§ 82 - § 158)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar)
@@ -27,7 +26,6 @@
 
 ## Bilag 8 -- Præ-accepterede løsninger - Jordbrugserhvervets avls- og driftsbygninger samt væksthuse til produktion
 
-
 ### Bilag 8 til Bygningsreglementets vejledning til kap. 5 -- Brand
 
 [Åbn Bilag 8 - Præ-accepterede løsninger for brandsikring af jordbrugserhvervets avls- og driftsbygninger samt væksthuse til produktion version 1.2](../../../../../media/ebuhoo1b/20210421-bilag-8-jordbrugserhvervets-avls-og-driftsbygninger-samt-vksthuse-til-produktionver12-a.pdf "20210421 Bilag 8  Jordbrugserhvervets avls og driftsbygninger samt vksthuse til produktionver12")[](https://tbstsc.dev.local/-/media/097A42DFA1784478860686757DFC8EC8.ashx)
@@ -38,4 +36,3 @@ Version 1.2 (22.04.2021)
 
 Version 1.1 med ændringsmarkeringer (22.04.2021)
 
-\

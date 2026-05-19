@@ -1,6 +1,5 @@
 # Konstruktioner (§ 340 - § 357)
 
-
 ## Se alle vejledninger om Konstruktioner (§ 340 - § 357)
 
 - [Bygningsreglementets vejledning om konstruktioner](../)
@@ -9,9 +8,7 @@
 
 ## Bygningsreglementets vejledning om konstruktioner
 
-
 ### Rettelsesblad til Bygningsreglementets vejledning om konstruktioner omhandlende bæreevnevurdering af eksisterende konstruktioner (24.01.2024)
-
 
 ### Forord
 
@@ -19,11 +16,11 @@
 
 ### Generelt for konstruktioner
 
-Det fremgår af bygningsreglementet 2018, [kap. 15](/tekniske-bestemmelser/15/), [§ 340](/tekniske-bestemmelser/15/krav/340_343/), at projektering, udførelse, drift og vedligehold af konstruktioner og bygningsdele skal ske under hensyn til, at der: 
+Det fremgår af bygningsreglementet 2018, [kap. 15](/tekniske-bestemmelser/15/), [§ 340](/tekniske-bestemmelser/15/krav/340_343/), at projektering, udførelse, drift og vedligehold af konstruktioner og bygningsdele skal ske under hensyn til, at der:
 
-1.  Ikke sker skade på personer og bygninger på egen grund eller på nabogrunde. 
-2.  Ikke opstår risiko for personers sundhed på grund af svigt i konstruktionerne. 
-3.  Skal opnås tilfredsstillende forhold i funktions- og holdbarhedsmæssig henseende. 
+1.  Ikke sker skade på personer og bygninger på egen grund eller på nabogrunde.
+2.  Ikke opstår risiko for personers sundhed på grund af svigt i konstruktionerne.
+3.  Skal opnås tilfredsstillende forhold i funktions- og holdbarhedsmæssig henseende.
 4.  Ikke opstår risiko for personers sundhed på grund af indtrængen af skadedyr.
 
 § 340 definerer det overordnede personsikkerhedsniveau, som skal opnås i byggeri i konstruktionsmæssig henseende, og angiver således de overordnede rammer for, hvad en bygnings konstruktioner skal leve op til. § 340 består af en række specifikke elementer, der alle kan have indflydelse på konstruktionen. Der skal derfor tages hensyn til disse elementer, ved konstruktionens projektering, udførelse, drift og vedligeholdelse.
@@ -76,4 +73,3 @@ I henhold til §343 skal tage og ovenlys udføres, så der er tilfredsstillende 
 
 ### Tagbrønde og tagnedløb
 
-\

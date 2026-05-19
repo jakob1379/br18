@@ -1,6 +1,5 @@
 # Lydforhold (§ 368 - § 376)
 
-
 ## Se alle vejledninger om Lydforhold (§ 368 - § 376)
 
 - [Bygningsreglementets vejledning om lydforhold](../../generel_vejledning/)
@@ -40,10 +39,11 @@ Tabel 5.2 indeholder forslag til projekteringsværdier for trafikstøj i kontorb
 +-------------------------------------------------+-------------------------------------------------+
 | **Noter**                                                                                         |
 |                                                                                                   |
-| 1) Projekteringsværdierne gælder i møblerede rum, men uden personer til stede.                    |
+|
+
+1) Projekteringsværdierne gælder i møblerede rum, men uden personer til stede.                    |
 +---------------------------------------------------------------------------------------------------+
 
-\
 [5.3](../stoej-fra-tekniske-installationer-i-kontorbyggeri/)
 
 ### Støj fra tekniske installationer
@@ -52,4 +52,3 @@ Tabel 5.2 indeholder forslag til projekteringsværdier for trafikstøj i kontorb
 
 ### Rumakustik
 
-\

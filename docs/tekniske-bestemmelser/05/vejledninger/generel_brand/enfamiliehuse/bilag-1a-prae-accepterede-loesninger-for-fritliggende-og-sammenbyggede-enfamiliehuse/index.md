@@ -1,6 +1,5 @@
 # Brand (§ 82 - § 158)
 
-
 ## Se alle vejledninger om Brand (§ 82 - § 158)
 
 - [Spørgsmål og svar](../../../spoergsmaal-og-svar)
@@ -27,19 +26,14 @@
 
 ## Bilag 1a - Præ-accepterede løsninger - Fritliggende og sammenbyggede enfamiliehuse
 
-
 ### Bilag 1a til Bygningsreglementets vejledning til kap. 5 -- Brand
 
 [Åbn Bilag 1a: Præ-accepterede løsninger for fritliggende og sammenbyggede enfamiliehuse](../../../../../../media/ipzbg42h/bilag-1a-fritliggende-og-sammenbyggede-enfamiliehuse-ver-20-20220103-a.pdf "Bilag 1a  Fritliggende og sammenbyggede enfamiliehuse ver 20 20220103")
 
 Version 2.0 (03.01.2022)
 
- 
-
 [Åbn Bilag 1a: Præ-accepterede løsninger for fritliggende og sammenbyggede enfamiliehuse](../../../../../../media/2s0lnnl3/bilag-1a-fritliggende-og-sammenbyggede-enfamiliehuse-ver-20200701-a.pdf "Bilag 1a  Fritliggende og sammenbyggede enfamiliehuse ver 20200701")
 
 (01.07.2020)
 
- 
 
-\

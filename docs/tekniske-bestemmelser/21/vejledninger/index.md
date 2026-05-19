@@ -1,6 +1,5 @@
 # Vand (§ 403 - § 419)
 
-
 ## Se alle vejledninger om Vand (§ 403 - § 419)
 
 - [Vejledning om brug af regnvand](brug-af-regnvand/)
@@ -9,4 +8,3 @@
 - [Bygningsreglementets vejledning om vand](vejledning_vand/)
 - [Spørgsmål og svar](sporgsmaal_svaar/)
 
-\

@@ -1,6 +1,5 @@
 # Brand (§ 82 - § 158)
 
-
 ## Se alle vejledninger om Brand (§ 82 - § 158)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar)
@@ -27,9 +26,7 @@
 
 ## Bilag 10 - Præ-accepterede løsninger - Industri- og lagerbygninger
 
-
 ### Bilag 10 til Bygningsreglementets vejledning til kap. 5 -- Brand
 
 [Åbn Bilag 10: Præ-accepterede løsninger for brandsikring af industri- og lagerbygninger i én etage](../../../../../media/vqph5tx0/bilag-10-praeaccepterede-loesninger-industri-og-lagerbygninger-31012019-a.pdf)
 
-\

@@ -21,7 +21,7 @@ hide:
 
 ## Ventilation {#ventilation}
 
-### § 420 {#p420}
+### § 420 {#p420 #paragraf-420}
 
 Bygninger skal ventileres, så der sikres tilfredsstillende luftkvalitet og fugtforhold i forhold til anvendelsen.
 
@@ -100,7 +100,7 @@ Garageanlæg med etageareal større end 150 m² skal udføres med fornøden selv
 
 ## Ventilation af andre bygninger og rum {#ventilation-af-andre-bygninger-og-rum}
 
-### § 450 {#p450}
+### § 450 {#p450 #paragraf-450}
 
 Der skal gennemføres en funktionsafprøvning af ventilationssystemet før ibrugtagning. Funktionsafprøvningen skal dokumentere, at ventilationssystemet overholder kravene til specifikt elforbrug til lufttransport, luftmængder og eventuel behovsstyring.
 

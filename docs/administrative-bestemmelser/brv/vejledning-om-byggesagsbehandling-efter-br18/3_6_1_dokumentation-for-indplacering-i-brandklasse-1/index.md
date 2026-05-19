@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -23,9 +26,7 @@
 
 ## Vejledning om byggesagsbehandling efter BR18
 
-
 ### Rettelsesblad til vejledning om byggesagsbehandling efter BR18 (01.01.2024)
-
 
 ### Kolofon
 
@@ -193,4 +194,3 @@ Du kan læse mere om den brandtekniske dokumentation i [Bygningsreglementets vej
 
 ### Klage over kommunalbestyrelsens afgørelser
 
-\

@@ -1,6 +1,5 @@
 # Konstruktioner (§ 340 - § 357)
 
-
 ## Se alle vejledninger om Konstruktioner (§ 340 - § 357)
 
 - [Bygningsreglementets vejledning om konstruktioner](..)
@@ -9,37 +8,33 @@
 
 ## Bygningsreglementets vejledning om konstruktioner
 
-
 ### Rettelsesblad til Bygningsreglementets vejledning om konstruktioner omhandlende bæreevnevurdering af eksisterende konstruktioner (24.01.2024)
 
 [Åbn r](https://tbstsc.dev.local/-/media/71F0CD5822C44632959231D5340D4F4A.ashx){rel="noopener" target="_blank"}[ettelsesblad til Bygningsreglementets vejledning om konstruktioner omhandlende bæreevnevurdering af eksisterende konstruktioner (Nyt vindue).](../../../../../media/ydigl5f3/rettelsesblad-til-vejledning-om-konstruktioner-2024-01-23.pdf "Rettelsesblad Til Vejledning Om Konstruktioner 2024 01 23"){rel="noopener" target="_blank"}
 
-
 ### Forord
 
-Projektering, udførelse, drift og vedligehold af konstruktioner og bygningsdele skal ske efter bestemmelser i bygningsreglementet 2018 (BR18), kapitel 15 om konstruktioner. Følges denne vejledning, sikres det, at konstruktioner og bygningsdele overholder disse bestemmelser.\
-\
-Denne vejledning omfatter kun kapitel 15, og omhandler således ikke yderligere vejledning om f.eks. indplacering i konstruktionsklasser ([BR18, kapitel 26](../../../../../ovrige-bestemmelser/26/krav "Krav")), dokumentation og kontrol af bærende konstruktioner ([BR18, kapitel 28](../../../../../ovrige-bestemmelser/28/krav "Krav") og [30](../../../../../ovrige-bestemmelser/30/krav "Krav")) samt certificeringsordningen for dokumentation af tekniske forhold i bygningsreglementet, herunder certificeret statikers virke [(kapitel 32](../../../../../ovrige-bestemmelser/32/krav "Krav") og [33](../../../../../ovrige-bestemmelser/33/krav "Krav")).\
-\
+Projektering, udførelse, drift og vedligehold af konstruktioner og bygningsdele skal ske efter bestemmelser i bygningsreglementet 2018 (BR18), kapitel 15 om konstruktioner. Følges denne vejledning, sikres det, at konstruktioner og bygningsdele overholder disse bestemmelser.
+
+Denne vejledning omfatter kun kapitel 15, og omhandler således ikke yderligere vejledning om f.eks. indplacering i konstruktionsklasser ([BR18, kapitel 26](../../../../../ovrige-bestemmelser/26/krav "Krav")), dokumentation og kontrol af bærende konstruktioner ([BR18, kapitel 28](../../../../../ovrige-bestemmelser/28/krav "Krav") og [30](../../../../../ovrige-bestemmelser/30/krav "Krav")) samt certificeringsordningen for dokumentation af tekniske forhold i bygningsreglementet, herunder certificeret statikers virke [(kapitel 32](../../../../../ovrige-bestemmelser/32/krav "Krav") og [33](../../../../../ovrige-bestemmelser/33/krav "Krav")).
+
 [![](../../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
 
-#### 
+####
 
 Bekendtgørelse nr. 1693 af 12/12/2023 om certificeringsordning for dokumentation af tekniske forhold i bygningsreglementet
 
-#### 
+####
 
 #### Gå til bekendtgørelsen [](https://www.retsinformation.dk/eli/lta/2023/1693){target="_blank"}
 
-
-
 ### Generelt for konstruktioner {#434fb0c7-f233-4f85-8fb3-2536def1d52a}
 
-Det fremgår af bygningsreglementet 2018, kap. 15, § 340, at projektering, udførelse, drift og vedligehold af konstruktioner og bygningsdele skal ske under hensyn til, at der: 
+Det fremgår af bygningsreglementet 2018, kap. 15, § 340, at projektering, udførelse, drift og vedligehold af konstruktioner og bygningsdele skal ske under hensyn til, at der:
 
-1.  Ikke sker skade på personer og bygninger på egen grund eller på nabogrunde. 
-2.  Ikke opstår risiko for personers sundhed på grund af svigt i konstruktionerne. 
-3.  Skal opnås tilfredsstillende forhold i funktions- og holdbarhedsmæssig henseende. 
+1.  Ikke sker skade på personer og bygninger på egen grund eller på nabogrunde.
+2.  Ikke opstår risiko for personers sundhed på grund af svigt i konstruktionerne.
+3.  Skal opnås tilfredsstillende forhold i funktions- og holdbarhedsmæssig henseende.
 4.  Ikke opstår risiko for personers sundhed på grund af indtrængen af skadedyr.
 
 § 340 definerer det overordnede personsikkerhedsniveau, som skal opnås i byggeri i konstruktionsmæssig henseende, og angiver således de overordnede rammer for, hvad en bygnings konstruktioner skal leve op til. § 340 består af en række specifikke elementer, der alle kan have indflydelse på konstruktionen. Der skal derfor tages hensyn til disse elementer, ved konstruktionens projektering, udførelse, drift og vedligeholdelse.
@@ -68,17 +63,15 @@ Udover Eurocode 0, er der også en række materialespecifikke eurocodes med dert
 
 [![](../../../../../assets/img/linkbox/ds_en_iso_linkbox.svg)](# "#title")
 
-#### 
+####
 
 Eurocodes: DS/EN 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1999
 
-#### 
+####
 
 #### Eurocodes og forkortede udgaver af Eurocodes på Dansk Standards hjemmeside [Gå til link (nyt vindue)](http://www.eurocodes.dk/da/hvad-er-eurocodes/oversigt-over-eurocodes){target="_blank"}
 
 ### De nationale annekser til eurocodes kan læses [her](../../../../../nationale-annekser/nationale-annekser/nationale-annekser "Nationale annekser"){rel="noopener" target="_blank"}.
-
-
 
 ### Øvrige materialer og konstruktioner {#e21f4f0b-67d2-4c6e-9065-a8a93f4846eb}
 
@@ -86,28 +79,25 @@ Det fremgår af bygningsreglementet 2018, kap. 15, § 352, at det ved anvendelse
 
 Glaskonstruktioner er f.eks. ikke omfattet af bestemmelserne i §§ 345-351, og skal dermed dokumenteres på anden vis. I denne sammenhæng omfatter glaskonstruktioner glas som en del af den bærende konstruktion.
 
-Glas som placeres så der er risiko for at personer kollidere med det er tillige omfattet af bygningsreglementet 2018, kap. 9 og behandles yderligere i *Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger*.  
+Glas som placeres så der er risiko for at personer kollidere med det er tillige omfattet af bygningsreglementet 2018, kap. 9 og behandles yderligere i *Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger*.
 
 For vindmøller kan kravene til konstruktioner anses for opfyldt, når vindmøllen opføres i overensstemmelse med den godkendelse, der er meddelt i henhold til *bekendtgørelse nr. 651 af 26/06/2008 med senere ændringer om teknisk godkendelsesordning for konstruktion, fremstilling og opstilling af vindmøller.*
 
-\
 [![](../../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
 
-#### 
+####
 
 Bekendtgørelse nr. 648 af 31/05/2023 (med senere ændringer) om teknisk certificering og servicering af vindmøller m.v.
 
-#### 
+####
 
 Godkendelsesordning for vindmøller
 
 #### Gå til bekendtgørelsen [](https://www.retsinformation.dk/eli/lta/2023/648){target="_blank"}
 
-
-
 ### Telte, teleskopstande, demonterbare tilskuertribuner og lignende transportable konstruktioner {#7d5c293f-3d66-4b91-92f5-978be4d3498b}
 
-Det fremgår af bygningsreglementet 2018, kap. 15, § 353, at telte og lignende transportable konstruktioner skal dimensioneres i overensstemmelse med *DS/EN 13782, Midlertidige konstruktioner -- Telte -- Sikkerhed med DS/EN 13782 DK NA, *eller på en måde, som sikrer, at de relevante bestemmelser i §§ 344-351 er opfyldt. Endvidere fremgår det af bygningsreglementet, kap. 15, §355 at\
+Det fremgår af bygningsreglementet 2018, kap. 15, § 353, at telte og lignende transportable konstruktioner skal dimensioneres i overensstemmelse med *DS/EN 13782, Midlertidige konstruktioner -- Telte -- Sikkerhed med DS/EN 13782 DK NA, *eller på en måde, som sikrer, at de relevante bestemmelser i §§ 344-351 er opfyldt. Endvidere fremgår det af bygningsreglementet, kap. 15, §355 at
 
 Teleskopstande og demonterbare tilskuertribuner skal dimensioneres i overensstemmelse med henholdsvis *DS/EN 13200-5* og *13200-6* med *DS/EN 13200-5 DK NA* og *DS/EN 13200-6 DK NA*, eller på en måde, som sikrer, at de relevante bestemmelser i §§ 344-351 er opfyldt.
 
@@ -121,10 +111,6 @@ En afvigelse fra standarderne i de nævnte bestemmelser kræver som udgangspunkt
 
 For dokumentation af bærende konstruktioner henvises der til [*bygningsreglementet 2018, kap. 28.*](../../../../../ovrige-bestemmelser/28/krav/494_505#544423a7-9d06-46d8-8c72-2deae649bccc){rel="noopener" target="_blank"}
 
- 
-
-
-
 ### Drift, kontrol og vedligehold {#491e0154-3218-4bfb-bf8e-6f3326effa18}
 
 Det fremgår af bygningsreglementet 2018, kap. 15, § 357, at drift, kontrol og vedligehold af konstruktioner skal ske, så de til enhver tid overholder de relevante bestemmelser i §§ 344-354.
@@ -133,70 +119,63 @@ Det påhviler den til enhver tid værende ejer af en bygning at vedligeholde og 
 
 Trafik- Bygge- og Boligstyrelsen har udarbejdet en række vejledninger, der kan hjælpe bygningsejer i forbindelse med drift og vedligehold af forskellige typer konstruktioner. Vejledningerne fremgår i følgende afsnit.
 
-
-
 ### Sne og vandophobning på tage {#16fbd0b9-923e-4649-b49f-3ce0e6da6060}
 
 Bygningsejer bør rydde eventuel sne fra sit tag og sikre at der ikke sker vandophobning, såfremt der er risiko for kollaps. Især ejere af haller og lignende bygninger med store spænd bør undersøge denne risiko og være opmærksomme på sne eller vandophobning på deres tage.
 
 [![](../../../../../assets/img/linkbox/br_v_linkbox.svg)](# "#title")
 
-#### 
+####
 
 Vejledning: Er din bygning snesikker?
 
-#### 
+####
 
 #### Gå til vejledning [Er Din Bygning Snesikker (2010)](../../../../../media/jdtix31f/er-din-bygning-snesikker-2010.pdf){target="_blank"}
 
 [![](../../../../../assets/img/linkbox/br_v_linkbox.svg)](# "#title")
 
-#### 
+####
 
 Vejledning: Hvordan rydder jeg mit tag for sne?
 
-#### 
+####
 
 #### Gå til vejledning [Hvordan Rydder Jeg Mit Tag For Sne (2010)](../../../../../media/nt4nqw1a/hvordan-rydder-jeg-mit-tag-for-sne-2010.pdf){target="_blank"}
 
 [![](../../../../../assets/img/linkbox/br_v_linkbox.svg)](# "#title")
 
-#### 
+####
 
 Vejledning: Forebyggelse af sne og ophobning af vand på haller og store tage
 
-#### 
+####
 
 #### Gå til vejledning [Haller Og Store Tage Forebyg Skader Fra Sne Og Vand (2021)](../../../../../media/al2dyyiy/haller-og-store-tage-forebyg-skader-fra-sne-og-vand-2021.pdf){target="_blank"}
-
-
 
 ### Altaner {#90439abc-eeda-4aa5-90d4-20435c872cfa}
 
 Bygningsejere bør undersøge og vedligeholde altaner. Sammen med bl.a. den miljømæssige eksponering af altankonstruktionen og den kvalitet, som altanen oprindeligt er opført i, vil omfanget og kvaliteten af de vedligeholdelsesforanstaltninger, der løbende udføres på altanen, afgøre altanens levetid.
 
-\
 [![](../../../../../assets/img/linkbox/br_v_linkbox.svg)](# "#title")
 
-#### 
+####
 
 Vejledning: Vejledning om altaner med udliggerjern
 
-#### 
+####
 
 #### Gå til vejledning [Vejledning Om Altaner Med Udliggerjern](../../../../../media/g3efcyll/vejledning-om-altaner-med-udliggerjern.pdf){target="_blank"}
 
 [![](../../../../../assets/img/linkbox/br_v_linkbox.svg)](# "#title")
 
-#### 
+####
 
 Vejledning: Eftersyn af ældre betonaltaner
 
-#### 
+####
 
 #### [Vejledning Om Eftersyn Af Ældre Betonaltaner](../../../../../media/sntagso1/vejledning-om-eftersyn-af-aeldre-betonaltaner.pdf){target="_blank"}
-
-
 
 ### Spærkonstruktioner med store spændvidder {#94617fea-e986-4f00-b17c-b95e48c78310}
 
@@ -204,33 +183,29 @@ Bygningsejer bør undersøge behovet for et særskilt afstivningsprojekt ved st�
 
 [![](../../../../../assets/img/linkbox/br_v_linkbox.svg)](# "#title")
 
-#### 
+####
 
 Vejledning: Store træspær - Behov for afstivning
 
-#### 
+####
 
 #### Gå til vejledning [Store træspor - behov for afstivning](../../../../../media/i4ff0la2/2019-01-22_store_spaer_-_behov_for_afstivning.pdf){target="_blank"}
 
 [![](../../../../../assets/img/linkbox/br_v_linkbox.svg)](# "#title")
 
-#### 
+####
 
 Vejledning: Store stålspær - Behov for afstivning
 
-#### 
+####
 
 #### Gå til vejledning [Store Stålrammer Behov For Afstivning (1)](../../../../../media/j11pa3fg/store-staalrammer-behov-for-afstivning.pdf){target="_blank"}
-
-
 
 ### Fugt i konstruktioner {#ffeed82a-4e0a-4406-b3a0-098d61a48f23}
 
 Bygningsejer bør holde øje med fugt i konstruktionen. Fugt i bygninger kan føre til usundt indeklima og svækkede konstruktioner. Fugt i bygninger bør allerede undgås i selve byggeprocessen, men eventuelle fugtskader herefter kan forhindres ved vedligeholdelse og renovering. Ved renoveringsopgaver udføres undersøgelser af de eksisterende forhold, og membraner i bygningen kontrolleres, så eventuelle fugtskader registreres og afgrænses.
 
-\
-
-
 ### Tagbrønde og tagnedløb {#3d1c4a2b-7666-4e74-9158-8dfa5cc6f035}
 
-Bygningsejere bør vedligeholde tagbrøde og tagnedløb. Dette gælder specielt for ejere af bygninger med flade tage, hvor der er risiko for ophobning af vand. Mangel på vedligeholdelse kan medvirke til, at nedløb tilstopper og gør, at regnvand på taget ikke kan løbe tilstrækkeligt hurtigt væk. Denne ekstra last fra vandet kan overstige den last tagkonstruktionen er dimensioneret for. Der henvises til [BR18, kap. 4](../../../../04/krav "Krav"), om afløb for yderligere.[](https://tbstsc.dev.local/#_msocom_1)\
+Bygningsejere bør vedligeholde tagbrøde og tagnedløb. Dette gælder specielt for ejere af bygninger med flade tage, hvor der er risiko for ophobning af vand. Mangel på vedligeholdelse kan medvirke til, at nedløb tilstopper og gør, at regnvand på taget ikke kan løbe tilstrækkeligt hurtigt væk. Denne ekstra last fra vandet kan overstige den last tagkonstruktionen er dimensioneret for. Der henvises til [BR18, kap. 4](../../../../04/krav "Krav"), om afløb for yderligere.[](https://tbstsc.dev.local/#_msocom_1)
+

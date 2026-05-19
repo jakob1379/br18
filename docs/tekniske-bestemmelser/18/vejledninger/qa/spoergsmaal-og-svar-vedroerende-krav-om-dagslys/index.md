@@ -1,6 +1,5 @@
 # Lys og udsyn (§ 377 - § 384)
 
-
 ## Se alle vejledninger om Lys og udsyn (§ 377 - § 384)
 
 - [Spørgsmål og svar om lys og udsyn](../)
@@ -21,4 +20,3 @@
 
 ### Spørgsmål og svar vedrørende udskiftning af belysningsarmatur
 
-\

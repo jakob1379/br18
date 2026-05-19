@@ -1,6 +1,5 @@
 # Ventilation (§ 420 - § 452)
 
-
 ## Se alle vejledninger om Ventilation (§ 420 - § 452)
 
 - [Bygningsreglementets vejledning om ventilation](../)
@@ -8,7 +7,6 @@
 - [Spørgsmål og svar](../../sporgsmaal_svaar/)
 
 ## Bygningsreglementets vejledning om ventilation
-
 
 ### Forord
 
@@ -56,4 +54,3 @@ Ventilationen kan udføres ved systemer for naturlig ventilation, mekanisk venti
 
 ### Drift og vedligehold
 
-\

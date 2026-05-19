@@ -1,6 +1,5 @@
 # Konstruktioner (§ 340 - § 357)
 
-
 ## Se alle vejledninger om Konstruktioner (§ 340 - § 357)
 
 - [Bygningsreglementets vejledning om konstruktioner](../)
@@ -9,9 +8,7 @@
 
 ## Bygningsreglementets vejledning om konstruktioner
 
-
 ### Rettelsesblad til Bygningsreglementets vejledning om konstruktioner omhandlende bæreevnevurdering af eksisterende konstruktioner (24.01.2024)
-
 
 ### Forord
 
@@ -33,11 +30,11 @@ I forhold til ovenstående, kan et væksthus regnes som opvarmet såfremt det er
 
 Udover Eurocode 0, er der også en række materialespecifikke eurocodes med dertil hørende nationale annekser, som de bærende konstruktioner skal projekteres og udføres efter, jf. bygningsreglementet 2018, [kap. 15](/tekniske-bestemmelser/15/), [§ 345](/tekniske-bestemmelser/15/krav/345/)-351. Dette omfatter beton-, stål-, komposit-, træ-, murværk og aluminiumkonstruktioner samt fundamenter.
 
-#### 
+####
 
 Eurocodes: DS/EN 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1999
 
-#### 
+####
 
 #### Eurocodes og forkortede udgaver af Eurocodes på Dansk Standards hjemmeside Gå til link (nyt vindue)
 
@@ -79,4 +76,3 @@ Eurocodes: DS/EN 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1999
 
 ### Tagbrønde og tagnedløb
 
-\

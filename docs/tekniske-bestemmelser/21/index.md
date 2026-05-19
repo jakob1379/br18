@@ -20,7 +20,7 @@ title: Vand (§ 403 - § 419)
 
 ## Vand {#vand}
 
-### § 403 {#p403}
+### § 403 {#p403 #paragraf-403}
 
 Bygninger skal have vandforsyning passende til bygningens og installationens anvendelse. Projektering, udførelse, drift og vedligehold af vandinstallationer skal ske under hensyn til, at:
 
@@ -28,13 +28,13 @@ Bygninger skal have vandforsyning passende til bygningens og installationens anv
 2. Der ikke sker skader på personer, installationer eller bygningsdele.
 3. Der ikke sker unødigt forbrug af vand og energi.
 
-### § 404 {#p404}
+### § 404 {#p404 #paragraf-404}
 
 Vandinstallationer skal projekteres og udføres, så der er vandforsyning til de enkelte tapsteder. Dette skal ske under hensyn til forsyningsforhold samt til bygningens og installationens anvendelse.
 
 Stk. 2. Vandinstallationer skal dimensioneres som anvist i DS 439 Norm for vandinstallationer, afsnit 2, eller på en måde, som på tilsvarende vis sikrer vandforsyning til de enkelte tapsteder under hensyn til bygningens og installationens anvendelse, jf. stk. 1.
 
-### § 405 {#p405}
+### § 405 {#p405 #paragraf-405}
 
 Vandinstallationer skal projekteres og udføres, så:
 
@@ -63,13 +63,13 @@ Denne norm gælder for vandinstallationer, der er tilsluttet almene vandforsynin
 
 ## Utætheder {#utaetheder}
 
-### § 406 {#p406}
+### § 406 {#p406 #paragraf-406}
 
 Vandinstallationer skal projekteres og udføres, så der er sikkerhed mod udsivning og udstrømning af vand, og så utætheder let kan konstateres. Det gælder også for vandtilslutningen til apparater med automatisk vandpåfyldning, som tilsluttes vandforsyningen.
 
 ## Sikring af vandkvalitet {#sikring-af-vandkvalitet}
 
-### § 407 {#p407}
+### § 407 {#p407 #paragraf-407}
 
 Vandinstallationer skal udformes, så behandlet vand, vand fra brandslukningsanlæg og vand, der er tappet ved et tapsted, ikke kan strømme tilbage til drikkevandsinstallationen.
 
@@ -77,11 +77,11 @@ Stk. 2. Til sikring af vandforsyningsanlægget imod forurening, der strømmer ti
 
 Stk. 3. Sikring mod tilbagestrømning skal ske i overensstemmelse med DS/EN 1717 Sikring mod forurening af drikkevand i vandinstallationer samt generelle krav til tilbagestrømningssikringer og [Rørcenter-anvisning 015 Tilbagestrømning af vandforsyningssystemer](https://www.teknologisk.dk/ydelser/roercenter-anvisninger-og-rapporter-fra-roercentret/486), eller på en måde, som på tilsvarende vis sikrer, at der ikke sker tilbagestrømning af vand i drikkevandinstallationen og vandforsyningsanlægget.
 
-### § 408 {#p408}
+### § 408 {#p408 #paragraf-408}
 
 Hvor installationer for drikkevand kan komme i berøring med sundhedsskadelige stoffer, skal installationerne projekteres og udføres, så der opnås sikkerhed mod indtrængen af sådanne stoffer i drikkevandsinstallationen ved korrosion eller diffusion, så der ikke kan opstå sundhedsfare.
 
-### § 409 {#p409}
+### § 409 {#p409 #paragraf-409}
 
 Installationer for vand til teknisk brug og installationer, der af andre grunde medfører, at kravene til drikkevandskvaliteten ikke er opfyldt, skal være mærket tydeligt, så fejlagtig brug kan undgås.
 
@@ -97,7 +97,7 @@ Denne standard beskriver metoder til at undgå forurening af drikkevand i bygnin
 
 ## Koldt vand {#koldt-vand}
 
-### § 410 {#p410}
+### § 410 {#p410 #paragraf-410}
 
 Vandinstallationer skal udformes, placeres og isoleres, så unødige temperaturstigninger af det kolde vand undgås.
 
@@ -105,21 +105,21 @@ Stk. 2. Stk. 1 gælder ikke for anlæg, hvor regnvand anvendes til wc og/eller v
 
 ## Varmt vand {#varmt-vand}
 
-### § 411 {#p411}
+### § 411 {#p411 #paragraf-411}
 
 Anlæg til produktion af varmt brugsvand skal under hensyn til varmtvandstapstedernes antal og anvendelse kunne yde en tilstrækkelig vandmængde og vandstrøm. Vandinstallationen skal udformes, så temperaturen på det fremførte vand i alle dele af vandinstallationen under den forudsatte brug ikke falder til under 50 °C. Ved tapstederne skal den forudsatte temperatur være tilstede uden besværende ventetid under hensyn til energiforbrug, vandforbrug og hyppigheden af installationens brug. Ved spidsbelastning, som ikke er omfattet af den forudsatte brug, må vandtemperaturen ikke falde til under 45 °C. Der skal samtidig tages hensyn til bakteriebekæmpende tiltag, hvilket kan anses som opfyldt ved at følge Rørcenteranvisning 017 Legionella - Installationsprincipper og bekæmpelsesmetoder.
 
-### § 412 {#p412}
+### § 412 {#p412 #paragraf-412}
 
 Vandinstallationer skal projekteres og udføres, så der ved tapning af vand ikke opstår risiko for skoldning, og så der ikke forekommer overfladetemperaturer, der kan medføre skader på personer.
 
-### § 413 {#p413}
+### § 413 {#p413 #paragraf-413}
 
 Væsker, som er forskellige fra vand, og som benyttes i varmevekslere til brugsvand, skal kunne spores i det varme brugsvand.
 
 ## Energi- og vandforbrug {#energi-og-vandforbrug}
 
-### § 414 {#p414}
+### § 414 {#p414 #paragraf-414}
 
 Vandinstallationer skal projekteres og udføres, så:
 
@@ -127,7 +127,7 @@ Vandinstallationer skal projekteres og udføres, så:
 2. Unødvendigt energiforbrug undgås. Installationer skal isoleres mod varmetab og kondens i overensstemmelse med DS 452 Termisk isolering af tekniske installationer.
 3. Forbruget af varmt og koldt vand kan måles.
 
-### § 415 {#p415}
+### § 415 {#p415 #paragraf-415}
 
 Det samlede forbrug af varme til opvarmning og cirkulation af varmt vand skal måles, hvis varmeforbruget til opvarmning og cirkulation af varmt vand overstiger 10.000 kWh pr. år. Bestemmelsen gælder ved nybyggeri og ved nyinstallation i bestående byggeri. Bestemmelsen gælder ikke, såfremt en tilbygning eller ændrede lokaler forsynes fra et eksisterende anlæg.
 
@@ -145,15 +145,15 @@ Standarden gælder for termisk isolering af bygningsinstallationer, som fx varme
 
 ## Byggematerialer og produkter til vandinstallationer {#byggematerialer-og-produkter-til-vandinstallationer}
 
-### § 416 {#p416}
+### § 416 {#p416 #paragraf-416}
 
 Vandinstallationer skal udformes af materialer, der ikke afgiver sundhedsfarlige stoffer til vandet eller giver generende lugt, smag, misfarvning eller generende vækst af mikroorganismer. Kravet vedrører alle materialer, der indgår i installationen, f.eks. rør, armaturer og pakninger.
 
-### § 417 {#p417}
+### § 417 {#p417 #paragraf-417}
 
 Fabriksfremstillede produkter, der indgår i eller tilsluttes de faste drikkevandinstallationer til og med tapstedet, skal for så vidt angår egenskaber, der har indflydelse på drikkevandets kvalitet, jf. bekendtgørelse om vandkvalitet og tilsyn med vandforsyningsanlæg, være godkendt af Bolig- og Planstyrelsen, medmindre det pågældende produkt er undtaget ifølge bekendtgørelse om markedsføring og salg af byggevarer i kontakt med drikkevand.
 
-### § 418 {#p418}
+### § 418 {#p418 #paragraf-418}
 
 Fabriksfremstillede produkter, der indgår i eller tilsluttes vandinstallationer, skal for så vidt angår de mekaniske/fysiske karakteristika:
 
@@ -162,7 +162,7 @@ Fabriksfremstillede produkter, der indgår i eller tilsluttes vandinstallationer
 
 ## Drift og vedligehold {#drift-og-vedligehold}
 
-### § 419 {#p419}
+### § 419 {#p419 #paragraf-419}
 
 Drift og vedligehold af vandinstallationer skal ske, så de til enhver tid overholder bestemmelserne i [§ 404](/tekniske-bestemmelser/21/krav/403_405/)-418.
 

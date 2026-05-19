@@ -1,11 +1,13 @@
-# Adgangsforhold (§ 48 - § 62)
+# Adgangsforhold (§ 48 - §
+
+62)
 
 [Krav](./){ .md-button .md-button--primary }
 [Vejledning](brv/){ .md-button }
 
 ## § 48 Adgangsforhold {#s48}
 
-### § 48 {#p48}
+### § 48 {#p48 #paragraf-48}
 
 Bygninger, opholdsarealer og parkeringsarealer skal have adgangsforhold, der sikrer, at brugerne ved egen hjælp kan komme frem til dem, ind i dem samt frem til deres funktioner.
 
@@ -15,7 +17,7 @@ Bygninger, opholdsarealer og parkeringsarealer skal have adgangsforhold, der sik
 
 ## § 49 - § 50 Adgangsforhold frem til bygningen {#s49-50}
 
-### § 49 {#p49}
+### § 49 {#p49 #paragraf-49}
 
 Brugerne skal ved egen hjælp kunne komme fra vej frem til alle adgange til bygninger, opholdsarealer og parkeringsarealer på matriklen.
 
@@ -29,13 +31,13 @@ Brugerne skal ved egen hjælp kunne komme fra vej frem til alle adgange til bygn
 6. Gangarealerne til bebyggelsen skal anlægges med markant taktil adskillelse til andre trafikformer.
 7. Ovenfor trapper skal der udføres et belægningsskift i farve og følbarhed 0,90 m før trappens begyndelse. Det yderste af trinflader og trinkanter skal markeres med kontrastfarve.
 
-### § 50 {#p50}
+### § 50 {#p50 #paragraf-50}
 
 Porte eller passager i adgangs- og tilkørselsarealer skal udformes, så der er let adgang for redningskøretøjer.
 
 ## § 51 - § 54 Adgangsforhold ved bygningen {#s51-54}
 
-### § 51 {#p51}
+### § 51 {#p51 #paragraf-51}
 
 Ved alle adgange til bygninger skal det sikres, at brugerne ved egen hjælp kan komme ind i bygningen.
 
@@ -51,7 +53,7 @@ Ved alle adgange til bygninger skal det sikres, at brugerne ved egen hjælp kan 
 
 *Stk. 4.* Kommunalbestyrelsen kan give tilladelse til at fravige bestemmelsen i stk. 3, såfremt det vurderes, at bestemmelsen er uforenelig med hensynet til klimasikring, eller hvor terrænmæssige forhold umuliggør etablering af niveaufri adgang.
 
-### § 52 {#p52}
+### § 52 {#p52 #paragraf-52}
 
 Yderdøre skal have en fri passagebredde på mindst 0,77 m.
 
@@ -59,21 +61,21 @@ Yderdøre skal have en fri passagebredde på mindst 0,77 m.
 
 *Stk. 3.* Stk. 2 gælder ikke for fritliggende enfamiliehuse.
 
-### § 53 {#p53}
+### § 53 {#p53 #paragraf-53}
 
 §§ 51 og 52 gælder også for døre ved flugtveje i stueetagen, have-, altan- og terrassedøre samt døre til fælles tagterrasser, hvortil der er adgang fra elevator eller lignende.
 
-### § 54 {#p54}
+### § 54 {#p54 #paragraf-54}
 
 Ved opholdsarealer, parkeringsarealer samt eventuelle arealer til opbevaring af affald i tilknytning til bygningen skal der være adgangsforhold, der sikrer, at brugerne ved egen hjælp kan komme ind til arealerne og anvende deres funktioner.
 
 ## § 55 - § 56 Fælles adgangsveje i bygningen {#s55-56}
 
-### § 55 {#p55}
+### § 55 {#p55 #paragraf-55}
 
 Brugerne skal ved egen hjælp kunne komme fra det fri eller via fælles adgangsveje i bygningen og frem til bygningens funktioner.
 
-### § 56 {#p56}
+### § 56 {#p56 #paragraf-56}
 
 Fælles adgangsveje, der fører til to eller flere boliger, kontorer, mødelokaler, udstillinger, salgsarealer eller andre enheder og funktioner på de enkelte etager, og som omfatter vindfang, forrum, gange, altangange, svalegange, plads foran elevatorer, ramper og reposer såvel i som uden for bygningen, herunder udvendigt adgangsareal til kælder, skal projekteres og udføres således, at:
 
@@ -86,7 +88,7 @@ Fælles adgangsveje, der fører til to eller flere boliger, kontorer, mødelokal
 
 ## § 57 Trapper {#s57}
 
-### § 57 {#p57}
+### § 57 {#p57 #paragraf-57}
 
 Trapper i fælles adgangsveje skal udformes med tilstrækkelig bredde og fri loftshøjde i forhold til den tilsigtede brug samt have en hældning, der gør dem lette og sikre at gå på. Bestemmelsen anses som opfyldt når:
 
@@ -97,7 +99,7 @@ Trapper i fælles adgangsveje skal udformes med tilstrækkelig bredde og fri lof
 
 ## § 58 - § 60 Værn {#s58-60}
 
-### § 58 {#p58}
+### § 58 {#p58 #paragraf-58}
 
 Gange, trapper og ramper i fælles adgangsveje samt altaner, franske altandøre, altangange, luftsluser, tagterrasser, udvendige trapper samt andre hævede opholdsarealer skal under hensyn til bygningens anvendelse sikres med værn og forsynes med håndlister. Alle typer af værn eller rækværk skal under hensyn til bygningens anvendelse udformes, således at deres højde, udformning, frie åbninger i værnet mv. sikrer personer mod at falde ud over eller igennem dem. Bestemmelsen anses som opfyldt, når:
 
@@ -107,17 +109,17 @@ Gange, trapper og ramper i fælles adgangsveje samt altaner, franske altandøre,
 4. Højden på værn skal måles over trinforkanter og ramper samt fra overkant af gulv/dæk.
 5. Håndlister skal være nemme at gribe om og holde fast i.
 
-### § 59 {#p59}
+### § 59 {#p59 #paragraf-59}
 
 Værn skal udføres, så den indbyrdes afstand mellem alle typer balustre, både lodrette og vandrette, ikke giver anledning til personskader. I den forbindelse skal der i særlig grad tages hensyn til, at børn ikke må kunne klatre på værnet eller komme i klemme mellem balustre.
 
-### § 60 {#p60}
+### § 60 {#p60 #paragraf-60}
 
 Værn udført af glas skal udføres i overensstemmelse med [§§ 238-241](/tekniske-bestemmelser/09/krav/).
 
 ## § 61 Håndlister {#s61}
 
-### § 61 {#p61}
+### § 61 {#p61 #paragraf-61}
 
 Gange, trapper og ramper i fælles adgangsveje, hvor der ikke er opsat værn, skal forsynes med håndlister i begge sider under hensyn til bygningens udformning og anvendelse. Håndlisterne skal være nemme at gribe om og holde fast i. Håndlister skal føres ubrudt forbi repos og afsluttes vandret.
 
@@ -125,7 +127,7 @@ Gange, trapper og ramper i fælles adgangsveje, hvor der ikke er opsat værn, sk
 
 ## § 62 Information {#s62}
 
-### § 62 {#p62}
+### § 62 {#p62 #paragraf-62}
 
 I offentligt tilgængelige bygninger med en borgerrettet servicefunktion skal væsentlig information om orientering i og brug af bygningen være letlæselig og letforståelig.
 

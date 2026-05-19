@@ -1,6 +1,5 @@
 # Brand (§ 82 - § 158)
 
-
 ## Se alle vejledninger om Brand (§ 82 - § 158)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar)
@@ -27,9 +26,7 @@
 
 ## Bilag 9 - Præ-accepterede løsninger - Bygningsafsnit med garageanlæg
 
-
 ### Bilag 9 til Bygningsreglementets vejledning til kap. 5 -- Brand
 
 [Åbn Bilag 9: Præ-accepterede løsninger for brandsikring af bygningsafsnit med garageanlæg](../../../../../media/na5iaxaq/bilag-9-praeaccepterede-loesninger-bygningsafsnit-med-garageanlaeg-01022019-a.pdf)
 
-\

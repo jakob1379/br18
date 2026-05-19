@@ -1,6 +1,5 @@
 # Brand (§ 82 - § 158)
 
-
 ## Se alle vejledninger om Brand (§ 82 - § 158)
 
 - [Spørgsmål og svar](../../../spoergsmaal-og-svar)
@@ -27,17 +26,13 @@
 
 ## Bilag 5 - Præ-accepterede løsninger - Undervisningslokaler
 
-
 ### Bilag 5 til Bygningsreglementets vejledning til kap. 5 -- Brand
 
 [Åbn Bilag 5: Præ-accepterede løsninger for undervisningslokaler mv.](../../../../../../media/cq2biybf/bilag-5-undervisningslokaler-mv-ver-11-20220111-a.pdf "Bilag 5  Undervisningslokaler mv ver 11 20220111")
 
 Version 1.1 - 2022.01.11
 
- 
-
 [Åbn Bilag 5: Præ-accepterede løsninger for brandsikring af bygningsafsnit med undervisningslokaler mv.](../../../../../../media/xx5pjzl3/bilag-5-praeaccepterede-loesninger-undervisningslokaler-mv-20122018-a.pdf)
 
 Version 2018.12.20
 
-\

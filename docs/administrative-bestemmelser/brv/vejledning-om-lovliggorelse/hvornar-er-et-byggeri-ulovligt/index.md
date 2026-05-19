@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -23,12 +26,9 @@
 
 ## Vejledning om lovliggørelse af ulovligt byggeri
 
-
 ### Lovliggørelse af ulovligt byggeri
 
-
 ### Indholdet af vejledningen
-
 
 ### Hvornår er et byggeri ulovligt
 
@@ -36,61 +36,43 @@ Et byggeri kan efter [byggeloven](https://www.retsinformation.dk/eli/lta/2016/11
 
 1.  Ikke at leve op til [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178)s krav på opførelsestidspunktet eller ved ikke at leve op til vilkårene i en byggetilladelse,
 2.  at være opført uden byggetilladelse eller dispensation, eller
-3.  at byggetilladelsen eller dispensationen er ugyldig.\
-    \
+3.  at byggetilladelsen eller dispensationen er ugyldig.
 
-Et byggeri kan således være ulovligt på flere måder, idet et byggeri kan være både materielt og formelt ulovligt. 
+Et byggeri kan således være ulovligt på flere måder, idet et byggeri kan være både materielt og formelt ulovligt.
 
-Et byggeri er materielt ulovligt, hvis bebyggelsen ikke fysisk er opført i overensstemmelse med de bebyggelsesregulerende og tekniske regler, der var gældende på opførelsestidspunktet, eller hvis bebyggelsen ikke er opført i henhold til den meddelte byggetilladelse. 
+Et byggeri er materielt ulovligt, hvis bebyggelsen ikke fysisk er opført i overensstemmelse med de bebyggelsesregulerende og tekniske regler, der var gældende på opførelsestidspunktet, eller hvis bebyggelsen ikke er opført i henhold til den meddelte byggetilladelse.
 
 Hvis der konstateres et enkeltstående materielt ulovligt forhold i et byggeri, f.eks. et ulovligt ventilationsanlæg, er det alene dette forhold, der skal lovliggøres. Kommunalbestyrelsen skal altså i dette tilfælde ikke vurdere det samlede byggeris overensstemmelse med gældende regler^1^.
 
 Et byggeri er formelt ulovligt, hvis det er opført uden, at der på forhånd er indhentet en byggetilladelse eller dispensation, som det er foreskrevet i [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178).
 
- 
-
-1\) Se afsnit om retlig og fysisk lovliggørelse efter de regler, der var gældende på henholdsvis opførelsestidspunktet og lovliggørelsestidspunktet senere i vejledningen. 
-
+1\) Se afsnit om retlig og fysisk lovliggørelse efter de regler, der var gældende på henholdsvis opførelsestidspunktet og lovliggørelsestidspunktet senere i vejledningen.
 
 ### Anvendelse af formelle bestemmelser i forbindelse med lovliggørelse af byggeri
 
-
 ### Særligt om stikprøvekontrol efter BR18
-
 
 ### @@PROTECTED_20@@s bestemmelser
 
-
 ### Kommunalbestyrelsen som bygningsmyndighed
-
 
 ### Ejerens pligter
 
-
 ### Lovliggørelsens art
-
 
 ### Retlig lovliggørelse
 
-
 ### Fysisk lovliggørelse
-
 
 ### Vurderingen -- valget mellem retlig og fysisk lovliggørelse
 
-
 ### Byggeri opført uden tilladelse
-
 
 ### Byggeri der afviger fra det byggeri, der er givet tilladelse til
 
-
 ### Hensyn og overvejelser
-
 
 ### Forholdet til anden lovgivning
 
-
 ### Særligt om lovliggørelse i forbindelse med bygningers klimapåvirkning
 
-\

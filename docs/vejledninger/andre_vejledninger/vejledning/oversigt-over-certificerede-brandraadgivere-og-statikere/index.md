@@ -1,6 +1,5 @@
 # Andre vejledninger
 
-
 ## Se alle vejledninger om Andre vejledninger
 
 - [Vejledning om byggelovens § 6 D](../vejledning-om-byggelovens-6-d)
@@ -16,11 +15,9 @@
 
 ## Oversigt over certificerede brandrådgivere og statikere samt anerkendte statikere
 
-
 ### Oversigt over certificerede brandrådgivere og statikere samt anerkendte statikere
 
 [Oversigt over certificerede brandrådgivere og statikere (nyt vindue)](http://certificering.tbst.dk/){rel="noopener noreferrer" target="_blank"}.
 
 [Oversigt over anerkendte statikere (nyt vindue)](https://ida.dk/om-ida/temaer/statikere/fortegnelse-over-anerkendte-statikere).
 
-\

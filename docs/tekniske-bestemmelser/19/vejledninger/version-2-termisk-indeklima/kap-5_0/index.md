@@ -1,13 +1,11 @@
 # Termisk indeklima og installationer til varme- og køleanlæg (§ 385 - § 392)
 
-
 ## Se alle vejledninger om Termisk indeklima og installationer til varme- og køleanlæg (§ 385 - § 392)
 
 - [Spørgsmål og svar](../../sporgsmaal-og-svar/)
 - [Bygningsreglementets vejledning om termisk indeklima og installationer til varme- og køleanlæg](../)
 
 ## Bygningsreglementets vejledning om termisk indeklima og installationer til varme- og køleanlæg
-
 
 ### Forord
 
@@ -31,4 +29,5 @@
 
 ### Drift og vedligehold
 
-Kravene til drift og vedligehold af installationerne til varme- og køleanlæg vil normalt være opfyldt ved opfyldelse af kravene i [kapitel 15](/tekniske-bestemmelser/15/) i DS 469 Varme- og køleanlæg i bygninger.\
+Kravene til drift og vedligehold af installationerne til varme- og køleanlæg vil normalt være opfyldt ved opfyldelse af kravene i [kapitel 15](/tekniske-bestemmelser/15/) i DS 469 Varme- og køleanlæg i bygninger.
+

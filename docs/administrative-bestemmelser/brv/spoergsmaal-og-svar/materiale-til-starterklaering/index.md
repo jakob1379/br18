@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -69,8 +72,6 @@ Supplerende for brandforhold omfatter kommunens sagsbehandling ligeledes en vurd
 
 Kommunen foretager derfor ingen yderligere kontrol af den dokumentation, som de har modtaget sammen med starterklæringen, men såfremt kommunen bliver opmærksom på et ulovligt forhold, er kommunen forpligtet til at søge forholdet lovliggjort.
 
- 
-
 [?](../pavilloner/)
 
 ### Spørgsmål og svar om pavilloner (30-09-2020)
@@ -87,4 +88,3 @@ Kommunen foretager derfor ingen yderligere kontrol af den dokumentation, som de 
 
 ### Spørgsmål og svar om primitive bygninger (09-01-2024)
 
-\

@@ -1,6 +1,5 @@
 # Brand (§ 82 - § 158)
 
-
 ## Se alle vejledninger om Brand (§ 82 - § 158)
 
 - [Spørgsmål og svar](../../../spoergsmaal-og-svar)
@@ -27,7 +26,6 @@
 
 ## Bilag 3 - Præ-accepterede løsninger - Kontorbygninger
 
-
 ### Bilag 3 til Bygningsreglementets vejledning til kap. 5 -- Brand
 
 [Åbn Bilag 3: Præ-accepterede løsninger for kontorer mv. version 1.2](../../../../../../media/4yjfz4xv/bilag-3-kontorbygninger-ver-12-20211029-a.pdf "Bilag 3  Kontorbygninger ver 12 20211029")
@@ -42,8 +40,7 @@ Version 1.2 (29.10.2021)
 
 Version 1.1 (09.06.2021)
 
-[Åbn Bilag 3: Præ-accepterede løsninger for kontorer mv. version 1.0](../../../../../../media/stkcapxr/bilag-3-kontorbygninger-ver-10-20181206-a.pdf "Bilag 3  Kontorbygninger ver 10 20181206") 
+[Åbn Bilag 3: Præ-accepterede løsninger for kontorer mv. version 1.0](../../../../../../media/stkcapxr/bilag-3-kontorbygninger-ver-10-20181206-a.pdf "Bilag 3  Kontorbygninger ver 10 20181206")
 
 Version 1.0 (06.12.2018)
 
-\

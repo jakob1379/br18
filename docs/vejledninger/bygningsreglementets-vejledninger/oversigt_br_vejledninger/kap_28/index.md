@@ -2,19 +2,27 @@
 
 [Kap. 1](../kap_1/)
 
-## Administrative bestemmelser (§ 1 - § 47)
+## Administrative bestemmelser (§ 1 - §
+
+47)
 
 [Kap. 2](../kap_2/)
 
-## Adgangsforhold (§ 48 - § 62)
+## Adgangsforhold (§ 48 - §
+
+62)
 
 [Kap. 3](../kap_3/)
 
-## Affaldssystemer (§ 63 - § 68)
+## Affaldssystemer (§ 63 - §
+
+68)
 
 [Kap. 4](../kap_4/)
 
-## Afløb (§ 69 - § 81)
+## Afløb (§ 69 - §
+
+81)
 
 [Kap. 5](../kap_5/)
 
@@ -112,7 +120,8 @@
 
 ## Dokumentation af bærende konstruktioner (§ 494 - § 505)
 
-[Vejledning til BR18 kapitel 28 - Dokumentation af bærende konstruktioner [§498](/ovrige-bestemmelser/28/krav/494_505/), §499 og [§503](/ovrige-bestemmelser/28/krav/)\
+[Vejledning til BR18 kapitel 28 - Dokumentation af bærende konstruktioner [§498](/ovrige-bestemmelser/28/krav/494_505/), §499 og [§503](/ovrige-bestemmelser/28/krav/)
+
 ](../../../../ovrige-bestemmelser/28/brv/#vejledning-til-kapitel-28-dokumentation-af-baerende-konstruktioner){rel="noopener" target="_blank"}
 
 [SBi-anvisninger](../../../../ovrige-bestemmelser/28/brv/sbi_anvisning/){rel="noopener noreferrer" target="_blank"}
@@ -145,4 +154,3 @@
 
 ## Anerkendelse af statikere (§ 552 - § 563)
 
-\

@@ -1,6 +1,5 @@
 # Brand (§ 82 - § 158)
 
-
 ## Se alle vejledninger om Brand (§ 82 - § 158)
 
 - [Spørgsmål og svar](../spoergsmaal-og-svar/)
@@ -27,21 +26,15 @@
 
 ## Bygningsreglementets vejledning til kapitel 5 - Brand
 
-
 ### Introduktion
 
 [Åbn introduktion](../../../../media/a32dk0qo/intro-ver-02-2021-02-03-a.pdf "Intro ver 02 2021-02-03")
 
 Version 02 (03.02.2021)
 
- 
-
- 
-
 [Åbn introduktion med ændringsmarkeringer](../../../../media/ar2n1pkz/intro-ver-02-2021-02-03-med-aendringsregistreringer-i-forhold-til-ver-01-a.pdf "Intro ver 02 2021-02-03 med ændringsregistreringer i forhold til ver 01")
 
 Version 02 (03.02.2021)
-
 
 ### Kapitel 1: Generelt om sikkerhed ved brand
 
@@ -49,24 +42,17 @@ Version 02 (03.02.2021)
 
 Version 3.0 (10.05.2022)
 
- 
-
 [Åbn kapitel - Generelt om sikkerhed ved brand med ændringsmarkeringer ](../../../../media/ulvl3dcd/kapitel-1-generelt-om-sikkerhed-ved-brand-ver3020220510med-ndringsmarkeringer-a.pdf "Kapitel 1  Generelt om sikkerhed ved brand ver3020220510med ndringsmarkeringer")
 
 Version 3.0 (10.05.2022)
-
- 
 
 [Åbn kapitlet Generelt om sikkerhed ved brand](../../../../media/2vkhby4b/kapitel-1-generelt-om-sikkerhed-ved-brand-ver-21-a.pdf "Kapitel 1  Generelt om sikkerhed ved brand ver 21")
 
 Version 2.1 (04.03.2021)
 
- 
-
 [Åbn kapitlet Generelt om sikkerhed ved brand med ændringsmarkeringer](../../../../media/hkvg0kul/kapitel-1-generelt-om-sikkerhed-ved-brand-ver-21-med-ndringmarkeringer-a.pdf "Kapitel 1  Generelt om sikkerhed ved brand ver 21 med ndringmarkeringer")
 
 Version 2.1 (04.03.2021)
-
 
 ### Kapitel 2: Evakuering og redning af personer
 
@@ -74,12 +60,9 @@ Version 2.1 (04.03.2021)
 
 Version 02 (08.02.2021)
 
- 
-
 [Åbn kapitel om evakuering og redning af personer med ændringsmarkeringer](../../../../media/lakj2ita/kapitel-2-evakuering-med-ndringsmarkeringer-mellem-ver-01-og-02-a.pdf "Kapitel 2 Evakuering med ndringsmarkeringer mellem ver 01 og 02")
 
 Version 02 (08.02.2021)
-
 
 ### Kapitel 3: Bærende konstruktioner
 
@@ -91,7 +74,6 @@ Version 02 (08.02.2021)
 
 *15.01.2021 - version 02*
 
-
 ### Kapitel 4: Antændelse, brand- og røgspredning
 
 [Åbn kapitel om Antændelse, brand- og røgspredning](../../../../media/cn4cljts/kapitel-4-antaendelse-brand-og-roegspredning-v02-20210115-a.pdf "Kapitel 4 - Antændelse brand og røgspredning v02 20210115")
@@ -101,7 +83,6 @@ Version 02 (08.02.2021)
 [Åbn kapitel om Antændelse, brand- og røgspredning med ændringsmarkeringer](../../../../media/vkdnqlre/kapitel-4-antaendelse-brand-og-roegspredning-v02-20210115_tc-a.pdf "Kapitel 4 - Antændelse brand og røgspredning v02 20210115_TC")
 
 *15.01.2021 - Version 02*
-
 
 ### Kapitel 5: Redningsberedskabets indsatsmuligheder
 
@@ -115,19 +96,15 @@ Version 1.3 (04.03.2021)
 
 Version 1.3 (04.03.2021)
 
-
 ### Kapitel 6: Funktionsafprøvning og systemintegrationstest
 
 [Åbn kapitel om Funktionsafprøvning og systemintegrationstest](../../../../media/g4nckte3/kapitel-6-funktionsafprvning-og-systemintegrationstest-ver-21-a.pdf "Kapitel 6  Funktionsafprvning og systemintegrationstest ver 21")
 
 Version 2.1 (04.03.2021)
 
- 
-
 [Åbn kapitel om Funktionsafprøvning og systemintegrationstest med ændringsmarkeringer](../../../../media/e45ftjpt/kapitel-6-funktionsafprvning-og-systemintegrationstest-ver-21-med-ndringsmarkeringer-a.pdf "Kapitel 6  Funktionsafprvning og systemintegrationstest ver 21 med ndringsmarkeringer")
 
 Version 2.1 (04.03.2021)
-
 
 ### Kapitel 7: Drift-, kontrol- og vedligehold af brandforhold i og ved bygninger
 
@@ -135,13 +112,9 @@ Version 2.1 (04.03.2021)
 
 (01.01.2024)
 
- 
-
 [Åbn rettelsesblad til kapitel om Drift, kontrol og vedligehold af brandforhold i og ved bygninger version 1.1. med ændringsmarkeringer](../../../../media/kbrpnp4s/kapitel-7-rettelsesbladtil-ver1120240101med-ndringsmarkeringer-a.pdf "Kapitel 7  Rettelsesbladtil ver1120240101med ndringsmarkeringer")
 
 (01.01.2024)
-
- 
 
 [Åbn kapitel om Drift-, kontrol- og vedligehold af brandforhold i og ved bygninger](../../../../media/ybrdtanu/kapitel-7-drift-kontrol-og-vedligehold-ver-11-a.pdf "Kapitel 7 Drift kontrol og vedligehold ver 11")
 
@@ -153,17 +126,13 @@ Version 1.1 (04.03.2021)
 
 Version 1.1 (04.03.2021)
 
-
 ### Kapitel 8: Eftervisning
 
 [Åbn kapitel om Eftervisning](../../../../media/hxsjg2hk/kapitel-8-eftervisning-ver-11-20210928-002-a.pdf "Kapitel  8 Eftervisning ver 11 20210928 002")
 
 Version 1.1 (28.09.2021)
 
- 
-
 [Åbn kapitel om Eftervisning med ændringsmarkeringer](../../../../media/xxelu3bp/kapitel-8-eftervisning-ver-11-20210928final-med-ndringsmarkeringer-a.pdf "Kapitel  8 Eftervisning ver 11 20210928final med ndringsmarkeringer")
 
 Version 1.0 (10.01.2020)
 
-\

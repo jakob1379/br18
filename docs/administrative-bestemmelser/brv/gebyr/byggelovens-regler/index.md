@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -35,15 +38,15 @@
 
 ### @@PROTECTED_20@@s regler for opkrævning af byggesagsgebyrer
 
-I dette afsnit gennemgås de regler i byggelovgivningen, der ligger til grund for gebyropkrævningen af byggesagsbehandlingen.     [Byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178)s^1^ [§ 28, stk. 1](/administrative-bestemmelser/krav/28_29/), bestemmer følgende: \
-\
-"Opkræver en kommunalbestyrelse gebyrer for behandlingen af ansøgninger i henhold til denne lov, kan kommunalbestyrelsen opgøre gebyrerne efter tidsforbrug eller opkræve et mindre, fast gebyr".\
-De nærmere regler er udmøntet i bygningsreglementets (BR18)^2^ [§ 39](/administrative-bestemmelser/krav/39/).   BR18, [§ 39, stk. 1](/administrative-bestemmelser/krav/39/), bestemmer herefter, at kommunalbestyrelsen kan beslutte, at der skal opkræves gebyr for behandling af en ansøgning om byggetilladelse. Kommunalbestyrelsen kan endvidere beslutte, at der skal opkræves gebyr for dispensationer samt for lovliggørelsessager.   I sager, hvor lovliggørelsen består i retlig lovliggørelse, meddeler kommunalbestyrelsen efterfølgende byggetilladelse (bibeholdelsesdispensation) eller efterfølgende dispensation fra et eller flere af de tekniske krav i bygningsreglementet. \
-\
-I sager, hvor der skal ske fysisk lovliggørelse, kan kommunalbestyrelsen udstede et påbud om, at der skal ske fysisk lovliggørelse.     Meddelelse af tilladelse, dispensation og påbud i forbindelse med en lovliggørelsessag er afgørelser i konkrete byggesager, som der med hjemmel i [§ 39, stk. 1](/administrative-bestemmelser/krav/39/), kan opkræves gebyr for.     Der kan ligeledes efter [§ 39, stk.1](/administrative-bestemmelser/krav/39/), opkræves gebyr i sager, hvor der meddeles afslag, mens der ved en afvisning af byggesagen ikke kan opkræves gebyr, jf. afsnit 10. Gebyr kan endvidere opkræves såfremt ansøger trækker sin byggeansøgning tilbage.    BR18, [§ 39, stk. 2](/administrative-bestemmelser/krav/39/), bestemmer, at såfremt kommunalbestyrelsen beslutter, at der skal opkræves gebyr for byggesagsbehandlingen, kan det opkræves efter tidsforbrug eller som et fast gebyr. Kommunalbestyrelsen har endvidere mulighed for at beslutte, at der ikke skal opkræves gebyrer for kommunens byggesagsbehandling, idet kommunalbestyrelsen kan vælge om den vil henholdsvis gebyr- eller skattefinansiere byggesagsbehandlingen, jf. afsnit 5.    
+I dette afsnit gennemgås de regler i byggelovgivningen, der ligger til grund for gebyropkrævningen af byggesagsbehandlingen.     [Byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178)s^1^ [§ 28, stk. 1](/administrative-bestemmelser/krav/28_29/), bestemmer følgende:
 
-Der kan alene opkræves byggesagsgebyr i de sager, hvor der træffes en afgørelse med hjemmel i [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178) eller i bygningsreglementet. Der kan derfor som hovedregel ikke opkræves byggesagsgebyr for afgørelser, der træffes med hjemmel i anden lovgivning, jf. afsnit 14. \
-\
+"Opkræver en kommunalbestyrelse gebyrer for behandlingen af ansøgninger i henhold til denne lov, kan kommunalbestyrelsen opgøre gebyrerne efter tidsforbrug eller opkræve et mindre, fast gebyr".
+
+De nærmere regler er udmøntet i bygningsreglementets (BR18)^2^ [§ 39](/administrative-bestemmelser/krav/39/).   BR18, [§ 39, stk. 1](/administrative-bestemmelser/krav/39/), bestemmer herefter, at kommunalbestyrelsen kan beslutte, at der skal opkræves gebyr for behandling af en ansøgning om byggetilladelse. Kommunalbestyrelsen kan endvidere beslutte, at der skal opkræves gebyr for dispensationer samt for lovliggørelsessager.   I sager, hvor lovliggørelsen består i retlig lovliggørelse, meddeler kommunalbestyrelsen efterfølgende byggetilladelse (bibeholdelsesdispensation) eller efterfølgende dispensation fra et eller flere af de tekniske krav i bygningsreglementet.
+
+I sager, hvor der skal ske fysisk lovliggørelse, kan kommunalbestyrelsen udstede et påbud om, at der skal ske fysisk lovliggørelse.     Meddelelse af tilladelse, dispensation og påbud i forbindelse med en lovliggørelsessag er afgørelser i konkrete byggesager, som der med hjemmel i [§ 39, stk. 1](/administrative-bestemmelser/krav/39/), kan opkræves gebyr for.     Der kan ligeledes efter [§ 39, stk.1](/administrative-bestemmelser/krav/39/), opkræves gebyr i sager, hvor der meddeles afslag, mens der ved en afvisning af byggesagen ikke kan opkræves gebyr, jf. afsnit 10. Gebyr kan endvidere opkræves såfremt ansøger trækker sin byggeansøgning tilbage.    BR18, [§ 39, stk. 2](/administrative-bestemmelser/krav/39/), bestemmer, at såfremt kommunalbestyrelsen beslutter, at der skal opkræves gebyr for byggesagsbehandlingen, kan det opkræves efter tidsforbrug eller som et fast gebyr. Kommunalbestyrelsen har endvidere mulighed for at beslutte, at der ikke skal opkræves gebyrer for kommunens byggesagsbehandling, idet kommunalbestyrelsen kan vælge om den vil henholdsvis gebyr- eller skattefinansiere byggesagsbehandlingen, jf. afsnit 5.
+
+Der kan alene opkræves byggesagsgebyr i de sager, hvor der træffes en afgørelse med hjemmel i [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178) eller i bygningsreglementet. Der kan derfor som hovedregel ikke opkræves byggesagsgebyr for afgørelser, der træffes med hjemmel i anden lovgivning, jf. afsnit 14.
 
 1. Lovbekendtgørelse nr. 1185 af 14. oktober 2010 med senere ændringer, [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178)
 
@@ -97,4 +100,3 @@ Der kan alene opkræves byggesagsgebyr i de sager, hvor der træffes en afgørel
 
 ### Intern instruks i kommunen
 
-\

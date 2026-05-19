@@ -1,6 +1,5 @@
 # Brand (§ 82 - § 158)
 
-
 ## Se alle vejledninger om Brand (§ 82 - § 158)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar)
@@ -27,11 +26,9 @@
 
 ## Bilag 15 - Præ-accepterede løsninger for sekundær bebyggelse i tilknytning til andet end enfamiliehuse
 
-
 ### Bilag 15 - Præ-accepterede løsninger for sekundær bebyggelse i tilknytning til andet end enfamiliehuse
 
 [Åbn Bilag 15:  Præ-accepterede løsninger for sekundær bebyggelse i tilknytning til andet end enfamiliehuse (nyt vindue)](../../../../../media/laej3kks/20210311-bilag-15-praccepterede-lsninger-for-sekundr-bebyggelse-i-tilknytning-til-andet-end-enfamil-a.pdf "20210311 Bilag 15  Praccepterede lsninger for sekundr bebyggelse i tilknytning til andet end enfamil")
 
 Version 1.0 (11.03.2021)
 
-\

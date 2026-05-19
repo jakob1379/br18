@@ -1,14 +1,11 @@
 # Termisk indeklima og installationer til varme- og køleanlæg (§ 385 - § 392)
 
-
 ## Se alle vejledninger om Termisk indeklima og installationer til varme- og køleanlæg (§ 385 - § 392)
 
 - [Spørgsmål og svar](./)
 - [Bygningsreglementets vejledning om termisk indeklima og installationer til varme- og køleanlæg](../version-2-termisk-indeklima)
 
 ## Spørgsmål og svar
-
-
 
 ### Spørgsmål og svar om dispensation for vejrkompensering (09-07-2021) {#b9b3083b-3f59-464c-9a78-de41f7e90402}
 
@@ -22,4 +19,3 @@ Når et fjernvarmeværk foretager fremløbstemperaturregulering, tages der kun d
 
 I forbindelse med behandling af en ansøgning om dispensation fra kravet om vejrkompensering er det nødvendigt konkret at vurdere, hvorvidt der i den enkelte bygning er foretaget tiltag, der kan opfylde de hensyn, som ikke opfyldes med fjernvarmeværkernes fremløbstemperaturregulering.
 
-\

@@ -2,7 +2,9 @@
 
 [Kap. 1](./)
 
-## Administrative bestemmelser (§ 1 - § 47)
+## Administrative bestemmelser (§ 1 - §
+
+47)
 
 [Spørgsmål og svar](../../../../administrative-bestemmelser/brv/spoergsmaal-og-svar/){rel="noopener noreferrer" target="_blank"} 
 
@@ -36,15 +38,21 @@
 
 [Kap. 2](../kap_2/)
 
-## Adgangsforhold (§ 48 - § 62)
+## Adgangsforhold (§ 48 - §
+
+62)
 
 [Kap. 3](../kap_3/)
 
-## Affaldssystemer (§ 63 - § 68)
+## Affaldssystemer (§ 63 - §
+
+68)
 
 [Kap. 4](../kap_4/)
 
-## Afløb (§ 69 - § 81)
+## Afløb (§ 69 - §
+
+81)
 
 [Kap. 5](../kap_5/)
 
@@ -170,4 +178,3 @@
 
 ## Anerkendelse af statikere (§ 552 - § 563)
 
-\

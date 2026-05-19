@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../spoergsmaal-og-svar)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../spoergsmaal-og-svar-ve-anlaeg)
@@ -23,16 +26,15 @@
 
 ## Vejledning om transportable telte og konstruktioner
 
-
 ### Kolofon
 
 Vejledningen er opdateret januar 2021
 
 Vejledningen er opdateret i overensstemmelse med de ændringer af bygningsreglementet, der trådte i kraft 1. januar 2021 og vedrører bestemmelserne BR18 § 6 b og 6 d.
 
-
 ### Bygningsreglementets vejledning om opstilling af transportable konstruktioner, herunder telte, tribuner, scener, messestande, portaler, tårne mm.
 
-Find Bygningsreglementets vejledning om opstilling af transportable konstruktioner, herunder telte, tribuner, scener, messestande, portaler, tårne mm. her: 
+Find Bygningsreglementets vejledning om opstilling af transportable konstruktioner, herunder telte, tribuner, scener, messestande, portaler, tårne mm. her:
 
-[Bygningsreglementets vejledning om opstilling af transportable konstruktioner, herunder telte, tribuner, scener, messestande, portaler, tårne mm.](../../../media/ft1d2jaf/120121-opdateret-vejledning-om-transportable-konstruktioner-a.pdf "120121 Opdateret vejledning om transportable konstruktioner")\
+[Bygningsreglementets vejledning om opstilling af transportable konstruktioner, herunder telte, tribuner, scener, messestande, portaler, tårne mm.](../../../media/ft1d2jaf/120121-opdateret-vejledning-om-transportable-konstruktioner-a.pdf "120121 Opdateret vejledning om transportable konstruktioner")
+

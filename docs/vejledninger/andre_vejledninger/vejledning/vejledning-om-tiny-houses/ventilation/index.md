@@ -1,6 +1,5 @@
 # Andre vejledninger
 
-
 ## Se alle vejledninger om Andre vejledninger
 
 - [Vejledning om byggelovens § 6 D](../../vejledning-om-byggelovens-6-d)
@@ -15,8 +14,6 @@
 - [Vejledning til bekendtgørelse om forberedelse til og etablering af ladestandere i forbindelse med bygninger (ladestanderbekendtgørelsen)](../../vejledning-om-laderstander)
 
 ## Vejledning om Tiny Houses
-
-
 
 ### Baggrund {#1bec0835-0d71-4354-9b97-181e3c759fa0}
 
@@ -39,7 +36,7 @@ Vejledningen tager udgangspunkt i Tiny Houses, der opfylder følgende krav:
 - Bygningsstørrelse på højst 50 m² opvarmet etageareal
 - Fritliggende bygning
 - Bygning der anvendes til helårsbeboelse (opvarmet)
-- Blivende bygning (dvs. ikke midlertidig)\
+- Blivende bygning (dvs. ikke midlertidig)
 
 Vejledningen omhandler dermed ikke etageboligbyggeri, containerbyggeri, midlertidige, flytbare pavilloner (jf. §§287-292) eller husbåde.
 
@@ -49,15 +46,11 @@ Dobbelthuse eller andre former for sammenbyggede boliger er ikke Tiny Houses i d
 
 Vejledningen omhandler alene krav der stilles i bygningsreglementet. Det vil sige at krav fra anden lovgivning, som fx miljølovgivningen eller serviceloven (Lov om social service), ikke er omfattet. Ligeledes kan kommunal-/lokalplaner eller by- og landzoneplaner indeholde krav, der skal opfyldes.
 
-
-
 ### Bygningsreglementets generelle krav {#1cb8a810-acd8-4433-8c46-623f6378dc11}
 
 Kravene i bygningsreglementet skal blandt andet sikre, at et byggeri udføres og indrettes, så det er tilfredsstillende i **brand-, sikkerheds- og sundhedsmæssig** henseende. Disse grundlæggende krav skal et Tiny House som udgangspunkt derfor også altid opfylde.
 
 Hvis der i en byggesag er et specifikt krav i bygningsreglementet, som der ønskes dispensation fra, er det den kommunale byggesagsbehandling, der kan give denne. For at søge om dispensation er det vigtigt at beskrive og dokumentere, at hensigten og formålet bag et krav er opfyldt på anden vis eller argumentere for, at kravet ikke er relevant for det aktuelle byggeprojekt.
-
-
 
 ### Bygningens adgangsforhold og indretning {#68bbcffc-f687-48b6-ba4b-044cd9a2f050}
 
@@ -74,8 +67,6 @@ Den niveaufri adgang skal etableres til mindst én yderdør. Ligesom for alminde
 Kravet om etablering af køkken i boliger på under 50 m^2^ kan opfyldes ved, at der etableres en kogeniche, hvor der ikke stilles afstandskrav med hensyn til arbejds- og opbevaringspladser.
 
 Tiny Houses kan udføres i klynger, som fx er fælles om køkken-, bade- og wc-faciliteter og dermed opfyldes hensigten med funktionskravene på anden vis end normalt. I disse tilfælde er det den kommunale byggesagsbehandling, der kan tage stilling til, om der i den konkrete byggesag ikke skal stilles krav om individuelle køkken, bade- og wc-rum jf. § 200 og i stedet anvende § 201. Indretningen af de fælles faciliteter skal ske under hensyn til antallet af beboere i klyngen.
-
-
 
 ### Energiforbrug og klimapåvirkning {#1d19ac66-0648-4771-b140-822fb7f10d2c}
 
@@ -95,8 +86,6 @@ Kravet om, at der skal være en andel af vedvarende energi i energiforsyningen, 
 
 Tiny Houses vil være omfattet af kravet om at der udføres en beregning af klimapåvirkningen, men der er pt. ingen grænseværdi, der skal overholdes.
 
-
-
 ### Energiforsyningsanlæg {#a44f034c-fa78-416b-bff6-d4bfdcd8cf0b}
 
 Bygningsreglementet anfører, at det ved projektering, udførelse, installation, drift og vedligehold af energiforsyningsanlæg i tilknytning til bygninger skal sikres, at der ikke opstår risiko for skader på personer og bygninger som følge af fx brand og eksplosion, ikke opstår risiko for personers sundhed eller komfort, fx som følge af forgiftning, skoldning, røg- eller lugtgener og at der ikke sker unødigt forbrug af energi. Disse krav gælder også for Tiny Houses.
@@ -111,8 +100,6 @@ Det kan være et problem for Tiny Houses at anvende en standard varmepumpeløsni
 
 Placeringen af en brændeovn i et Tiny House bør nøje overvejes, da der vil være høj risiko for overtemperaturer og strålevarme i en stor andel af beboelsesarealet. For brændeovne stiller bygningsreglementet en række afstandskrav af hensyn til brandrisiko. Kravene er beskrevet i [Bilag 1a -- Præ-accepterede løsninger -- Fritliggende og sammenbyggede enfamiliehuse](../../../../../Tekniske-bestemmelser/05/Vejledninger/Generel_Brand/Enfamiliehuse/Bilag-1a---Pr%C3%A6-accepterede-l%C3%B8sninger-for-fritliggende-og-sammenbyggede-enfamiliehuse#33520e5b-f689-418d-83b9-65d4593f8022). Bemærk desuden, at hvis der installeres en brugt brændeovn, skal der også forefindes en prøvningsattest på ovnen, der viser at den overholder gældende lovkrav. Prøvningsattesten skal dokumentere, at brændeovnen lever op til [Brændeovnsbekendtgørelsens](https://www.retsinformation.dk/eli/lta/2022/199) miljøkrav til bl.a. partikeludslip. Brændeovnsbekendtgørelsen stiller desuden en række krav til aftrækssystemet, som også skal efterleves.                   
 
-
-
 ### Fugt og vådrum {#61fba64c-061e-4da4-8bc6-0f675d354dea}
 
 Bygningsreglementet stiller krav om at vådrum, herunder baderum og WC-rum med gulvafløb, skal opfylde en række krav med hensyn til fugtsikring. Gulve og vægge skal udføres, så de kan modstå de fugtpåvirkninger og de mekaniske og kemiske påvirkninger, der normalt forekommer i vådrum. Gulve og gulvbelægninger, herunder samlinger, tilslutninger, rørgennemføringer og lignende, skal være vandtætte. I den vandbelastede del af vådrummet må der ikke udføres rørgennemføringer i gulvet. Vægge og vægbeklædninger, herunder samlinger, tilslutninger, rørgennemføringer og lignende, skal være vandtætte og vand på gulvet skal afledes til gulvafløb. Ved brug af skeletvægge samt gulv- og vægkonstruktioner, der indeholder træ eller andre organiske materialer, skal der anvendes et egnet vandtætningssystem.
@@ -122,8 +109,6 @@ Bygningsreglementet stiller krav om at vådrum, herunder baderum og WC-rum med g
 Et Tiny house vil generelt have de samme fugt- og vandpåvirkninger, som standard byggeri. Dermed har et Tiny House også den samme risiko for, at der opstår problemer forårsaget af et for højt fugtniveau, som kan medføre risiko for personers sundhed eller skader på bygningen. Tiny Houses skal derfor generelt opfylde alle kravene ift. sikring mod fugt- og vandpåvirkninger.
 
 Følges de løsninger der er beskrevet i [Sbi-anvisning 252](https://build.dk/anvisninger/Pages/252-Vaadrum-1.aspx), vil kravene normalt være opfyldt. Vådrum på terrændæk eller over utilgængelige rum, fx over krybekældre, med en fri højde under 0,6 m, skal dæk udføres af uorganiske materialer. Træbaserede materialer må således ikke anvendes her. Vandtæthed af skeletvægge kan typisk opnås ved hjælp af en af vandtætningsmembran, PVC-beklædning, vandtæt malebehandling eller en vandtæt folie. Bemærk at folier af genbrugsplast ikke altid kan forventes at have lang levetid.
-
-
 
 ### Lydforhold (Støj) {#57630aa9-d87f-46d1-8c27-ad9bfec2a30a}
 
@@ -135,13 +120,13 @@ Mange Tiny Houses opvarmes med en luft/luft-varmepumpe, hvilket kan medføre st�
 
 Krav om evt. lydisolering mod trafikstøj vil normalt kunne afklares ved at opslå adressen på [Miljøstyrelsens støjkort](https://mst.dk/luft-stoej/stoej/kortlaegning-af-stoej-og-handlingsplaner/stoejkortet/).
 
-
-
 ### Dagslys {#47625846-287e-45ea-9eba-375ef5cc7d77}
 
 Bygningsreglementet kræver, at beboelsesrum og køkken skal have en sådan tilgang af dagslys, at rummene er tilstrækkeligt belyste. Projektering og udførelse skal ske under hensyn til, at dagslyset udnyttes bedst muligt som lyskilde, unødigt energiforbrug undgås, unødig varmetilførsel til rummene undgås, gener ved direkte solstråling undgås og at gener ved blænding minimeres.
 
-Kravet kan eftervises ved en dagslysberegning eller ved brug af 10%-reglen, der siger at glasarealet (uden poster og sprosser) skal være mindst 10 pct. af det indvendige gulvareal (jf. § 379 stk. 2). Glasarealet skal dog evt. korrigeres for en række skyggende forhold, der reducerer dagslystilgangen.
+Kravet kan eftervises ved en dagslysberegning eller ved brug af 10%-reglen, der siger at glasarealet (uden poster og sprosser) skal være mindst 10 pct. af det indvendige gulvareal (jf. § 379 stk.
+
+2). Glasarealet skal dog evt. korrigeres for en række skyggende forhold, der reducerer dagslystilgangen.
 
 **Efterlevelse af krav**
 
@@ -159,8 +144,6 @@ Dagslyskravet vil normalt være opfyldt for Tiny Houses hvis:
 
 Kan ovenstående ikke efterleves kan det dog være relativt enkelt at eftervise om dagslyskravet alligevel er overholdt jf. bygningsreglementets vejledning om korrektioner af 10% reglen.
 
-
-
 ### Termisk indeklima {#dca6eacf-c936-4c2b-afa8-ef0e14693081}
 
 Bygningsreglementet stiller krav om at bygninger har et sundheds- og komfortmæssigt tilfredsstillende termisk indeklima i forhold til anvendelsen.
@@ -173,8 +156,6 @@ Risikoen for overtemperaturer kan reduceres ved at sikre gode muligheder for tv�
 
 Kravet om individuel rumtemperaturregulering bortfalder, da det må antages at kompaktheden for boligen normalt medfører, at alle rum vil have samme rumtemperatur domineret af den primære opholdszone, der altid må antages at være i brug og dermed temperaturreguleres af beboerne.
 
-
-
 ### Brugsvand {#10d62469-094c-4ee5-a8f6-43a2b5f3190c}
 
 Bygningsreglementet stiller et generelt krav om at alle bygninger skal have en passende vandforsyning svarende til bygningens anvendelse, at der ikke må opstå risiko for personers sundhed eller komfortmæssige gener, samt at der ikke sker skader på personer, installationer eller bygningsdele.
@@ -184,8 +165,6 @@ Bygningsreglementet stiller et generelt krav om at alle bygninger skal have en p
 Disse grundlæggende krav skal Tiny Houses også opfylde og der kan derfor normalt ikke dispenseres fra kravet om vandforsyning -- enten via vandværk eller privat vandboring.
 
 Vil man i et Tiny House gerne udnytte regnvand til toiletskyl og evt. vaskemaskiner kan dette gøres ved at følge DS 439, der igen henviser til Rørcenter-anvisning 003. *Brug af regnvand til wc-skyl og vaskemaskiner i boliger, 4. udgave, september 2012.*
-
-
 
 ### Ventilation {#d62f491e-6bb0-406c-abf3-280d728af42d}
 
@@ -203,4 +182,3 @@ Et Tiny House vil opfylde ventilationskravet, hvis det opføres med mindst to ud
 
  Kravet om emhætte han opfyldes ved en ventilator, der kan yde en luftmængde på mindst 120 l/s og et skørt der sikrer god emfangsevne umiddelbart over kogepladerne.
 
-\

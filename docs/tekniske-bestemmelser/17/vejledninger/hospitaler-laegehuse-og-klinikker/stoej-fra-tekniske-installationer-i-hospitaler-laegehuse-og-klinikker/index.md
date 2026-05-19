@@ -1,6 +1,5 @@
 # Lydforhold (§ 368 - § 376)
 
-
 ## Se alle vejledninger om Lydforhold (§ 368 - § 376)
 
 - [Bygningsreglementets vejledning om lydforhold](../../generel_vejledning/)
@@ -35,7 +34,9 @@ Tabel 6.3 indeholder forslag til projekteringsværdier for støj fra tekniske in
 +-------------------------------------------------------+-----------------------------------------------+-----------------------------------------------+
 | **Rumtype**                                           | **Støjkilde ^2)^**                            | ***L*~Aeq~** ^1)^                             |
 +-------------------------------------------------------+-----------------------------------------------+-----------------------------------------------+
-| Sengestuer^ \ a)^, undersøgelsesrum, behandlingsrum,\ | Bygningens tekniske installationer            | ≤ 30 dB                                       |
+| Sengestuer^ \
+
+a)^, undersøgelsesrum, behandlingsrum,\ | Bygningens tekniske installationer            | ≤ 30 dB                                       |
 | konsultationsrum                                      |                                               |                                               |
 +-------------------------------------------------------+                                               +-----------------------------------------------+
 | Scannerrum, røntgenrum, fødestuer                     |                                               | ≤ 35 dB                                       |
@@ -44,7 +45,9 @@ Tabel 6.3 indeholder forslag til projekteringsværdier for støj fra tekniske in
 +-------------------------------------------------------+                                               +-----------------------------------------------+
 | Kontorer ^a)^                                         |                                               | ≤ 35 dB                                       |
 +-------------------------------------------------------+                                               +-----------------------------------------------+
-| Møderum, videokonferencerum og auditorier ^ a)^       |                                               | ≤ 30 dB                                       |
+| Møderum, videokonferencerum og auditorier ^
+
+a)^       |                                               | ≤ 30 dB                                       |
 +-------------------------------------------------------+                                               +-----------------------------------------------+
 | Kantine, receptionsareal mv.                          |                                               | ≤ 35 dB                                       |
 +-------------------------------------------------------+                                               +-----------------------------------------------+
@@ -60,14 +63,16 @@ Tabel 6.3 indeholder forslag til projekteringsværdier for støj fra tekniske in
 |                                                                                                                                                       |
 | 1\) Projekteringsværdien gælder i møblerede rum.\                                                                                                     |
 | \                                                                                                                                                     |
-| 2) Projekteringsværdien gælder for den enkelte installation.\                                                                                         |
+|
+
+2) Projekteringsværdien gælder for den enkelte installation.\                                                                                         |
 | \                                                                                                                                                     |
-| 3) Der opstilles relevante projektkrav, der kan sikre tilfredsstillende lydforhold for rumanvendelsen.**\**                                           |
+|
+
+3) Der opstilles relevante projektkrav, der kan sikre tilfredsstillende lydforhold for rumanvendelsen.**\**                                           |
 +-------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-\
 [6.4](../rumakustik-i-hospitaler-laegehuse-og-klinikker/)
 
 ### Rumakustik
 
-\

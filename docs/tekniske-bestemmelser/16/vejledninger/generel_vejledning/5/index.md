@@ -1,13 +1,11 @@
 # Legepladser mv. (§ 358 - § 367)
 
-
 ## Se alle vejledninger om Legepladser mv. (§ 358 - § 367)
 
 -
 - [Bygningsreglementets vejledning om legepladser mv.](../)
 
 ## Bygningsreglementets vejledning om legepladser mv.
-
 
 ### Rettelsesblad til vejledning om legepladser (1. januar 2025)
 
@@ -63,4 +61,3 @@ Ejeren bør foranledige, at der bliver udført en rutinemæssig visuel inspektio
 
 I forbindelse med vedligehold bør mekaniske dele som for eksempel bolte, beslag og skruer undersøges og efterspændes, dernæst bør beskadiget dele repareres eller udskiftes og bevægelige dele smøres efter behov. Opmærksomheden bør i øvrigt henledes på producentens anvisninger vedrørende drift, inspektion og vedligehold.
 
-\

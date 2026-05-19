@@ -1,6 +1,5 @@
 # Ventilation (§ 420 - § 452)
 
-
 ## Se alle vejledninger om Ventilation (§ 420 - § 452)
 
 - [Bygningsreglementets vejledning om ventilation](../)
@@ -8,7 +7,6 @@
 - [Spørgsmål og svar](../../sporgsmaal_svaar/)
 
 ## Bygningsreglementets vejledning om ventilation
-
 
 ### Forord
 
@@ -54,4 +52,3 @@ Ventilationens størrelse kan f.eks. fastlægges på grundlag af, kategori II i 
 
 ### Drift og vedligehold
 
-\

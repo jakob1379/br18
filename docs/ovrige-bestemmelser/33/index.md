@@ -10,59 +10,59 @@ hide:
 
 ## § 536 - § 544 Certificeret statikers virke {#s536-544}
 
-### § 536 {#p536}
+### § 536 {#p536 #paragraf-536}
 
-Den certificerede statiker kan virke som udarbejdende eller kontrollerende.\
+Den certificerede statiker kan virke som udarbejdende eller kontrollerende.
 
 *Stk. 2.* Den certificerede tredjepartskontrollant for bærende konstruktioner kan virke som kontrollerende.
 
-### § 537 (Ophævet) § 538 (Ophævet) § 539 (Ophævet) § 540 {#p537-540}
+### § 537 (Ophævet) § 538 (Ophævet) § 539 (Ophævet) § 540 {#p537-540 #paragraf-537}
 
-Den certificerede statikers virke omfatter som minimum at:\
+Den certificerede statikers virke omfatter som minimum at:
 
-1) udarbejde start- og sluterklæring,\
+1) udarbejde start- og sluterklæring,
 
-2) udfærdige dokumentation for konstruktionsklasser for konstruktionsafsnit og for det samlede byggeri, jf. [§ 503, stk. 2](/ovrige-bestemmelser/28/krav/494_505/) og 3,\
+2) udfærdige dokumentation for konstruktionsklasser for konstruktionsafsnit og for det samlede byggeri, jf. [§ 503, stk. 2](/ovrige-bestemmelser/28/krav/494_505/) og 3,
 
-3) udfærdige Statisk kontrolplan projektering -- bygværk, Statisk kontrolplan udførelse - bygværk og Statisk kontrolplan udførelse -- arbejde - særlig kontrol, jf. [§ 502, stk. 1, nr. 2](/ovrige-bestemmelser/28/krav/494_505/) og sikre, at den samlede B2. statisk kontrolplan er i overensstemmelse med [kapitel 30](/ovrige-bestemmelser/30/),\
+3) udfærdige Statisk kontrolplan projektering -- bygværk, Statisk kontrolplan udførelse - bygværk og Statisk kontrolplan udførelse -- arbejde - særlig kontrol, jf. [§ 502, stk. 1, nr. 2](/ovrige-bestemmelser/28/krav/494_505/) og sikre, at den samlede B2. statisk kontrolplan er i overensstemmelse med [kapitel 30](/ovrige-bestemmelser/30/),
 
-4) sikre, at de valgte løsninger for de bærende konstruktioner er i overensstemmelse med kravene i [kapitel 15](/tekniske-bestemmelser/15/),\
+4) sikre, at de valgte løsninger for de bærende konstruktioner er i overensstemmelse med kravene i [kapitel 15](/tekniske-bestemmelser/15/),
 
-5) sikre, at dokumentationen for de bærende konstruktioner opfylder sit formål, jf. [kapitel 28](/ovrige-bestemmelser/28/),\
+5) sikre, at dokumentationen for de bærende konstruktioner opfylder sit formål, jf. [kapitel 28](/ovrige-bestemmelser/28/),
 
-6) sikre, at konstruktionen virker som en helhed og er i overensstemmelse med definerede krav til sikkerhed og anvendelighed, jf. [§ 494](/ovrige-bestemmelser/28/krav/494_505/), og er egnet til formålet,\
+6) sikre, at konstruktionen virker som en helhed og er i overensstemmelse med definerede krav til sikkerhed og anvendelighed, jf. [§ 494](/ovrige-bestemmelser/28/krav/494_505/), og er egnet til formålet,
 
-7) sikre, at dokumentationen er udarbejdet og samlet i overensstemmelse med [kapitel 28](/ovrige-bestemmelser/28/), kontrolleret i overensstemmelse med [kapitel 30](/ovrige-bestemmelser/30/) og kan anvendes, som den foreligger, er fyldestgørende og udgør et hele, og\
+7) sikre, at dokumentationen er udarbejdet og samlet i overensstemmelse med [kapitel 28](/ovrige-bestemmelser/28/), kontrolleret i overensstemmelse med [kapitel 30](/ovrige-bestemmelser/30/) og kan anvendes, som den foreligger, er fyldestgørende og udgør et hele, og
 
 8) udarbejde en redegørelse for sit virke, herunder en redegørelse af den certificerede statikers supplerende kontrol, jf. [§ 542](/ovrige-bestemmelser/33/krav/536_544/).
 
 *Stk. 2.* For dokumentation, jf. stk. 1, nr. 7, er kontrolrapport for Statisk kontrolrapport udførelse - arbejde - almen kontrol, jf. [§ 502, stk. 1, nr. 3, litra b](/ovrige-bestemmelser/28/krav/494_505/), undtaget.
 
-### § 541 (Ophævet) § 542 {#p541-542}
+### § 541 (Ophævet) § 542 {#p541-542 #paragraf-541}
 
-Den certificerede statikers virke, jf. [§ 540](/ovrige-bestemmelser/33/krav/536_544/), kan ikke uddelegeres.\
+Den certificerede statikers virke, jf. [§ 540](/ovrige-bestemmelser/33/krav/536_544/), kan ikke uddelegeres.
 
-*Stk. 2.* Den certificerede statiker kan få assistance til at udfærdige dokumenterne i [§ 540](/ovrige-bestemmelser/33/krav/536_544/), men vil stadig virke som den udfærdigende. Den certificerede statiker skal sikre, at udfærdigelsen mindst svarer til den certificeredes minimumsvirke, således at § 540 er opfyldt.\
+*Stk. 2.* Den certificerede statiker kan få assistance til at udfærdige dokumenterne i [§ 540](/ovrige-bestemmelser/33/krav/536_544/), men vil stadig virke som den udfærdigende. Den certificerede statiker skal sikre, at udfærdigelsen mindst svarer til den certificeredes minimumsvirke, således at § 540 er opfyldt.
 
 *Stk. 3.* Den certificerede statiker kan uddelegere den statiske dokumentation, jf. § 501 og [§ 502, stk. 1](/ovrige-bestemmelser/28/krav/494_505/) nr. 1 og nr. 2, som den certificerede statiker ikke selv skal udfærdige. Den certificerede statiker skal gennemføre en tilstrækkelig supplerende kontrol mindst svarende til en minimumskontrol (MIN), jf. [§ 527](/ovrige-bestemmelser/30/krav/523_528/), af den del af den statiske dokumentation, som den certificerede har uddelegeret, således at § 540 er opfyldt.
 
 *Stk. 4.* Den certificerede statiker skal gennemføre en tilstrækkelig supplerende kontrol af udførelse af bærende konstruktioner, således at [§ 540, stk. 1, nr. 7](/ovrige-bestemmelser/33/krav/536_544/), er opfyldt. Den supplerende kontrol skal mindst omfatte kontrol af kontrolregistreringsrapporter, der viser, at de anførte kontroller i de endelige kontrolplaner for særlig kontrol af udførelsen, herunder tredjepartskontrol, er udført i henhold til kontrolplanen, og de ved kontrollen fundne afvigelser er behandlet.
 
-### § 543 {#p543}
+### § 543 {#p543 #paragraf-543}
 
-Den certificerede statikers virke som tredjepartskontrollant skal som minimum omfatte at\
+Den certificerede statikers virke som tredjepartskontrollant skal som minimum omfatte at
 
-1) udarbejde start- og sluterklæring,\
+1) udarbejde start- og sluterklæring,
 
-2) foretage tredjepartskontrol af dokumentation for projektering af bærende konstruktioner, som følger af § 540 og\
+2) foretage tredjepartskontrol af dokumentation for projektering af bærende konstruktioner, som følger af § 540 og
 
-3) udarbejde en redegørelse for sit virke som tredjepartskontrollant, herunder for sin uafhængighed i henhold til [§ 526, stk. 1, nr. 3](/ovrige-bestemmelser/30/krav/523_528/), samt en redegørelse af den certificerede tredjepartskontrollants supplerende kontrol, jf. stk. 3.\
+3) udarbejde en redegørelse for sit virke som tredjepartskontrollant, herunder for sin uafhængighed i henhold til [§ 526, stk. 1, nr. 3](/ovrige-bestemmelser/30/krav/523_528/), samt en redegørelse af den certificerede tredjepartskontrollants supplerende kontrol, jf. stk. 3.
 
-*Stk. 2*. Tredjepartskontrollen omfatter de dele af byggeriet, der er omfattet af konstruktionsklasse 4. Andre dele af byggeriet skal, i det omfang disses virkemåde og dokumentation har betydning for den del af byggeriet, der er i konstruktionsklasse 4, også kontrolleres af den certificerede tredjepartskontrollant.\
+*Stk. 2.* Tredjepartskontrollen omfatter de dele af byggeriet, der er omfattet af konstruktionsklasse 4. Andre dele af byggeriet skal, i det omfang disses virkemåde og dokumentation har betydning for den del af byggeriet, der er i konstruktionsklasse 4, også kontrolleres af den certificerede tredjepartskontrollant.
 
 *Stk. 3.* Tredjepartskontrollanten kan få assistance til at foretage tredjepartskontrollen, men vil stadig virke som tredjepartskontrollant. Den certificerede tredjepartskontrollant skal sikre at kontrollen mindst svare til tredjepartskontrollens minimumsvirke, således at stk. 1, nr. 2 er opfyldt. Herudover skal tredjepartskontrollanten gennemføre en tilstrækkelig supplerende kontrol mindst svarende til en minimumskontrol (MIN), jf. [§ 527](/ovrige-bestemmelser/30/krav/523_528/), af den del af den statiske dokumentation, hvortil den certificerede har indhentet assistance.
 
-### § 544 {#p544}
+### § 544 {#p544 #paragraf-544}
 
 Ved overdragelse af et projekt, hvortil der er meddelt byggetilladelse, fra en certificeret statiker til en anden, skal den certificerede statiker, der overdrager projektet, udarbejde en erklæring, hvor følgende indgår:
 

@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -37,9 +40,9 @@ Det er ikke afgørende for kravet om byggetilladelse, hvilket byggeri sekundær 
 
 Det er pr. 1. januar 2020 præciseret, at opførelse af sekundær bebyggelse uden byggetilladelse er betinget af, at den sekundære bebyggelse placeres på terræn. Baggrunden for præciseringen er bl.a., at placering af konstruktioner under terræn kan medføre risiko for sammenstyrtning, og dermed er af en anden kompleksitet end konstruktioner, der er placeret på terræn.
 
-Sekundær bebyggelse kan opføres uden byggetilladelse på en grund, hvor der endnu ikke er opført en primær bebyggelse. Dette kan fx være relevant i forbindelse med opførelse af et enfamiliehus, hvor man ønsker at opføre et skur til opbevaring af redskaber, der skal anvendes i byggeprocessen. 
+Sekundær bebyggelse kan opføres uden byggetilladelse på en grund, hvor der endnu ikke er opført en primær bebyggelse. Dette kan fx være relevant i forbindelse med opførelse af et enfamiliehus, hvor man ønsker at opføre et skur til opbevaring af redskaber, der skal anvendes i byggeprocessen.
 
-Det skal understreges, at det ikke er tilladt at anvende sekundær bebyggelse til beboelse, uanset om der er primær bebyggelse på grunden. 
+Det skal understreges, at det ikke er tilladt at anvende sekundær bebyggelse til beboelse, uanset om der er primær bebyggelse på grunden.
 
 Foruden bygningsreglementets regler, kan der også være regler i anden lovgivning, der begrænser mulighederne for at bygge. Læs mere herom i vejledningens afsnit 8 om anden lovgivning.
 
@@ -111,4 +114,3 @@ Foruden bygningsreglementets regler, kan der også være regler i anden lovgivni
 
 ### Hvad skal man huske?
 
-\

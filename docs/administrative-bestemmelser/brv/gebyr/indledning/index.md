@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -27,13 +30,9 @@
 
 ### Indledning
 
-Vejledningen er opdateret af Trafik-, Bygge- og Boligstyrelsen i juli 2018 
+Vejledningen er opdateret af Trafik-, Bygge- og Boligstyrelsen i juli 2018
 
- 
-
-Denne vejledning retter sig mod de kommuner, der ønsker en understøttelse af praksis ved fastsættelsen af byggesagsgebyrer.     Vejledningen indeholder en gennemgang af de regler, der ligger til grund for fastsættelsen af gebyrer for byggesagsbehandlingen og omhandler således primært bestemmelserne i bygningsreglementets (BR18) [§ 39](/administrative-bestemmelser/krav/39/). Vejledningen er opdelt i flere afsnit, der kan læses særskilt.     Ved lov nr. 640 af 12. juni 2013 har Folketinget besluttet, at kommunerne fremover skal opkræve gebyrer for byggesagsbehandlingen efter tidsforbrug. Undtaget herfra er mindre bygninger, herunder carporte, garager, udhuse, drivhuse m.v. For disse småbygninger kan der opkræves et mindre, fast gebyr.  Lovændringen og de tilhørende bestemmelser i bygningsreglementet trådte i kraft 1. januar 2015.  Efterfølgende har Folketinget ved lovbekendtgørelse nr. 1178 af 23. september 2016 besluttet, at kommunernes mulighed for at opkræve et mindre, fast gebyr for byggesagsbehandlingen af de nævnte mindre bygninger, udvides til at omfatte alle typer af byggesager ligesom, at der er nu er fastsat et loft for, hvor meget der kan opkræves som det mindre, faste gebyr. 
-
- 
+Denne vejledning retter sig mod de kommuner, der ønsker en understøttelse af praksis ved fastsættelsen af byggesagsgebyrer.     Vejledningen indeholder en gennemgang af de regler, der ligger til grund for fastsættelsen af gebyrer for byggesagsbehandlingen og omhandler således primært bestemmelserne i bygningsreglementets (BR18) [§ 39](/administrative-bestemmelser/krav/39/). Vejledningen er opdelt i flere afsnit, der kan læses særskilt.     Ved lov nr. 640 af 12. juni 2013 har Folketinget besluttet, at kommunerne fremover skal opkræve gebyrer for byggesagsbehandlingen efter tidsforbrug. Undtaget herfra er mindre bygninger, herunder carporte, garager, udhuse, drivhuse m.v. For disse småbygninger kan der opkræves et mindre, fast gebyr.  Lovændringen og de tilhørende bestemmelser i bygningsreglementet trådte i kraft 1. januar 2015.  Efterfølgende har Folketinget ved lovbekendtgørelse nr. 1178 af 23. september 2016 besluttet, at kommunernes mulighed for at opkræve et mindre, fast gebyr for byggesagsbehandlingen af de nævnte mindre bygninger, udvides til at omfatte alle typer af byggesager ligesom, at der er nu er fastsat et loft for, hvor meget der kan opkræves som det mindre, faste gebyr.
 
 Loftet for det mindre, faste gebyr fremgår af [Bekendtgørelse om gebyrer på byggeområdet fastsat af Social- og Boligstyrelsen](https://www.retsinformation.dk/eli/lta/2024/1519 "Bekendtgørelse om gebyrer på byggeområdet fastsat af Social- og Boligstyrelsen"){rel="noopener" target="_blank"}  og reguleres årligt.
 
@@ -95,4 +94,3 @@ Lovændringen og de tilhørende bestemmelser i bygningsreglementet trådte i kra
 
 ### Intern instruks i kommunen
 
-\

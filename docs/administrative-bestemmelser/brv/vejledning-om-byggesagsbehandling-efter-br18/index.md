@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../spoergsmaal-og-svar-ve-anlaeg/)
@@ -23,13 +26,11 @@
 
 ## Vejledning om byggesagsbehandling efter BR18
 
-
 ### Rettelsesblad til vejledning om byggesagsbehandling efter BR18 (01.01.2024)
 
 [Åbn rettelsesblad til vejledning om byggesagsbehandling efter BR18](../../../media/d3ta5nzm/rettelsesblad-til-vejledning-om-byggesagsbehandling-efter-br18-a.pdf "Rettelsesblad til vejledning om byggesagsbehandling efter BR18")
 
 (01.01.2024)
-
 
 ### Kolofon
 
@@ -81,7 +82,11 @@ Derudover følger det af [§ 2, stk. 1](/administrative-bestemmelser/krav/1_3/),
 
 • Ændringer i benyttelse af bebyggelse, som er væsentlige i forhold til bestemmelser i loven eller de medfør af loven udfærdigede bestemmelser.
 
-Udgangspunktet i [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178) er derfor, at både ombygningsarbejder og anvendelsesændringer kræver ansøgning om byggetilladelse, jf. [byggelovens § 16, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178). Der kan dog fastsættes regler om indskrænkning i kravene om tilladelser i bygningsreglementet, jf. [byggelovens § 16 B, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178). Denne hjemmel er blandt andet udnyttet i BR18 [§ 5, stk. 1, nr. 2](/administrative-bestemmelser/krav/4_6/)-4, hvoraf det følger, at en række ombygningsarbejder kan foretages uden ansøgning om byggetilladelse.
+Udgangspunktet i [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178) er derfor, at både ombygningsarbejder og anvendelsesændringer kræver ansøgning om byggetilladelse, jf. [byggelovens § 16, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178). Der kan dog fastsættes regler om indskrænkning i kravene om tilladelser i bygningsreglementet, jf. [byggelovens
+
+### § 16 B {#paragraf-16b}
+
+, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178). Denne hjemmel er blandt andet udnyttet i BR18 [§ 5, stk. 1, nr. 2](/administrative-bestemmelser/krav/4_6/)-4, hvoraf det følger, at en række ombygningsarbejder kan foretages uden ansøgning om byggetilladelse.
 
 Læs mere om dette nedenfor i afsnit 2.2.4 eller i [Vejledning om ombygninger](../vejledning-om-ombygning-og-brug-af-certificerede-raadgivere/ "Vejledning om ombygning og brug af certificerede raadgivere")
 
@@ -93,7 +98,8 @@ Loven finder også anvendelse ved nedrivning af bebyggelse, der behandles nedenf
 
 ### Bebyggelsesbegrebet
 
-[Byggelovens § 2, stk. 2](https://www.retsinformation.dk/eli/lta/2016/1178), indeholder en positiv afgrænsning af begrebet bebyggelse, og det fremgår heraf, at der ved bebyggelse forstås bygninger, mure og andre faste konstruktioner og anlæg, når\
+[Byggelovens § 2, stk. 2](https://www.retsinformation.dk/eli/lta/2016/1178), indeholder en positiv afgrænsning af begrebet bebyggelse, og det fremgår heraf, at der ved bebyggelse forstås bygninger, mure og andre faste konstruktioner og anlæg, når
+
 lovens anvendelse for de pågældende konstruktioner mv. er begrundet i de hensyn som [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178) varetager.
 
 Bebyggelsesbegrebet omfatter, hvad der konventionelt betragtes som bygninger, men også mere utraditionelle former for konstruktioner og anlæg kan være omfattet. Fælles for disse er, at det er en forudsætning, at bebyggelsen har karakter af at være en fast konstruktion. Transportable konstruktioner såsom scener, telte, skurvogne mv., er også omfattet af bebyggelsesbegrebet, og dermed [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178) og bygningsreglementets regler.
@@ -182,9 +188,6 @@ I § 5 er oplistet en række typer af byggeri, som kan udføres uden ansøgning 
 
 Undtagelse fra ansøgning om byggetilladelse efter bygningsreglementet, undtager ikke fra overholdelse af og ansøgning om tilladelse eller registrering efter anden lovgivning. Der kan eksempelvis være regler fastsat i medfør af [planloven](https://www.retsinformation.dk/eli/lta/2024/572), der forhindrer opførelse af byggeri, der kan opføres efter [§ 5](/administrative-bestemmelser/krav/4_6/). Registrering i BBR (Bygnings- og Boligregisteret) skal ligeledes ske uanset undtagelse fra ansøgning om byggetilladelse.
 
- 
-
-\
 2.2.5.
 
 ### Byggeri, der er undtaget helt eller delvist fra overholdelse af tekniske bestemmelser
@@ -265,39 +268,40 @@ Er kommunalbestyrelsen forpligtet til at føre kontrol med et forhold af teknisk
 
 Kommunalbestyrelsen skal foretage en vurdering af om den dokumentation, der indsendes ved ansøgning om byggetilladelse er i overensstemmelse med de for byggesagen relevante krav.
 
-Kravene til dokumentation ved ansøgning om byggetilladelse følger af BR18 [§ 10](/administrative-bestemmelser/krav/7_15/), og det er den dokumentation, der skal indsendes for, at kommunalbestyrelsen kan behandle en ansøgning. 
+Kravene til dokumentation ved ansøgning om byggetilladelse følger af BR18 [§ 10](/administrative-bestemmelser/krav/7_15/), og det er den dokumentation, der skal indsendes for, at kommunalbestyrelsen kan behandle en ansøgning.
 
 En ansøgning om byggetilladelse skal indeholde:
 
-- Oplysninger til identifikation af ejendommen, bygningen eller enheden, herunder eksempelvis matrikelbetegnelse, adgangsadresse, ejendomsnummer og etageangivelse. Det kan f.eks. være i form af matrikelbetegnelse, adgangsadresse, ejendomsnummer og etageangivelse. Kommunalbestyrelsen skal bruge dokumentationen for at kunne konstatere, hvor byggeriet ønskes udført. Denne dokumentation er ikke genstand for selvstændig behandling af kommunalbestyrelsen, men den er afgørende for kommunalbestyrelsens identifikation af sagen, og det er derfor afgørende, at den er fyldestgørende ved ansøgning.\
-  \
-- Oplysninger til identifikation af det arbejde, der udføres, herunder eksempelvis tegningsmateriale, hvoraf bygningens dimensioner og placering fremgår. Kommunalbestyrelsen skal bruge dokumentationen til at konstatere, hvilket type arbejde, der ønskes udført, og hvad omfanget heraf er, f.eks. om det er nybyggeri eller en ombygning af eksisterende byggeri.\
-  \
-- Oplysning om den planlagte benyttelse af bebyggelsen. Ved ombygning og ændret benyttelse af bebyggelsen skal den ligeledes indeholde oplysninger om den hidtidige benyttelse. Oplysning om bebyggelsens anvendelse er afgørende for kommunalbestyrelsens behandling, da der er krav i bygningsreglementet, der afhænger af, hvad bygningen skal anvendes til. Denne dokumentation er også relevant i forhold til anden lovgivning, da der f.eks. kan være fastsat bestemmelser i en lokalplan om, hvad et bestemt område må anvendes til.\
-  \
-- Oplysninger til registrering af sagen i Bygnings- og Boligregistret (BBR). Der henvises til bekendtgørelse om ajourføring af Bygnings- og Boligregistret (BBR), hvorefter ejeren i forbindelse med ansøgning om byggetilladelse skal meddele alle oplysninger, som er af betydning for drift og ajourføring af Bygnings- og Boligregistret (BBR).\
-  \
-- Erklæring om, hvilke tekniske forhold i bygningsreglementet som er relevant for byggearbejdet. Erklæringen kan henvise til bygningsreglementets tekniske bestemmelser på kapitelniveau. Dette sker af hensyn til kommunalbestyrelsens behandling ved ansøgning, da erklæringen giver kommunalbestyrelsen et mere tydeligt billede af omfanget af byggeriet. Det sker dog også af hensyn til kommunalbestyrelsens behandling ved færdigmelding, hvor erklæringen om omfanget af byggeriet skal stemme overens med den dokumentation, der indsendes ved færdigmelding.\
+- Oplysninger til identifikation af ejendommen, bygningen eller enheden, herunder eksempelvis matrikelbetegnelse, adgangsadresse, ejendomsnummer og etageangivelse. Det kan f.eks. være i form af matrikelbetegnelse, adgangsadresse, ejendomsnummer og etageangivelse. Kommunalbestyrelsen skal bruge dokumentationen for at kunne konstatere, hvor byggeriet ønskes udført. Denne dokumentation er ikke genstand for selvstændig behandling af kommunalbestyrelsen, men den er afgørende for kommunalbestyrelsens identifikation af sagen, og det er derfor afgørende, at den er fyldestgørende ved ansøgning.
 
-\
-En ansøgning om byggetilladelse skal, hvis det er relevant for byggearbejdet indeholde:\
-\
+- Oplysninger til identifikation af det arbejde, der udføres, herunder eksempelvis tegningsmateriale, hvoraf bygningens dimensioner og placering fremgår. Kommunalbestyrelsen skal bruge dokumentationen til at konstatere, hvilket type arbejde, der ønskes udført, og hvad omfanget heraf er, f.eks. om det er nybyggeri eller en ombygning af eksisterende byggeri.
 
-- Oplysning om forhold vedrørende byggeret og helhedsvurdering, jf. [kap. 8](/tekniske-bestemmelser/08/), og de ubebyggede arealer, jf. [kap. 20](/tekniske-bestemmelser/20/). Dokumentationen omfatter f.eks. oplysning om bygningens placering på\
-  grunden og i forhold til andre bygninger samt højdeforhold. Helhedsvurderingen er en del af sagsbehandlingen, som bygningsmyndigheden skal udføre, når byggeretten ikke kan overholdes. Derudover omfatter den oplysning om indretning af de ubebyggede arealer, herunder antal af og placering af parkeringspladser, indretning af opholdsarealer på terræn samt eventuel indretning af arealer til opbevaring af affald. Særligt for så vidt angår byggeret og helhedsvurdering, kan der være anden lovgivning, herunder lokalplaner, som skal iagttages af\
-  kommunalbestyrelsen, ligesom det i mange tilfælde vil være nødvendigt at foretage partshøring af naboer eller andre relevante parter i forbindelse med behandlingen af denne dokumentation.\
-  \
-- Oplysning om og dokumentation for, hvilken konstruktionsklasse byggeriet kan henføres til, jf. [kap. 26](/ovrige-bestemmelser/26/) om konstruktionsklasser og [kap. 28](/ovrige-bestemmelser/28/) om dokumentation af bærende konstruktioner. Læs mere om dette nedenfor.\
-  \
-- For ombygninger og forandringer af eksisterende byggeri, hvor de bærende konstruktioners virkemåde ændres, skal der indsendes oplysning om og dokumentation for, hvilken konstruktionsklasse det berørte konstruktionsafsnit kan henføres til, jf. [kapitel 26](/ovrige-bestemmelser/26/) om konstruktionsklasser og [kapitel 28](/ovrige-bestemmelser/28/) om dokumentation af bærende konstruktioner.\
-  \
-- Oplysning om og dokumentation for, hvilken brandklasse byggeriet kan henføres til, jf. [kap. 27](/ovrige-bestemmelser/27/) om brandklasser og [kap. 29](/ovrige-bestemmelser/29/) om dokumentation af brandforhold. Læs mere om dette nedenfor.\
-  \
-- For ombygninger og forandringer af eksisterende byggeri, hvor forudsætningerne for de brandmæssige forhold ændres, skal der indsendes oplysning om og dokumentation for, hvilken brandklasse det pågældende bygningsafsnit kan henføres til, jf. [kapitel 27](/ovrige-bestemmelser/27/) om brandklasser og [kapitel 29](/ovrige-bestemmelser/29/) om dokumentation af brandforhold. Det skal tages højde for, om ændringen påvirker andre dele af bygningens brandforhold.\
-  \
+- Oplysning om den planlagte benyttelse af bebyggelsen. Ved ombygning og ændret benyttelse af bebyggelsen skal den ligeledes indeholde oplysninger om den hidtidige benyttelse. Oplysning om bebyggelsens anvendelse er afgørende for kommunalbestyrelsens behandling, da der er krav i bygningsreglementet, der afhænger af, hvad bygningen skal anvendes til. Denne dokumentation er også relevant i forhold til anden lovgivning, da der f.eks. kan være fastsat bestemmelser i en lokalplan om, hvad et bestemt område må anvendes til.
+
+- Oplysninger til registrering af sagen i Bygnings- og Boligregistret (BBR). Der henvises til bekendtgørelse om ajourføring af Bygnings- og Boligregistret (BBR), hvorefter ejeren i forbindelse med ansøgning om byggetilladelse skal meddele alle oplysninger, som er af betydning for drift og ajourføring af Bygnings- og Boligregistret (BBR).
+
+- Erklæring om, hvilke tekniske forhold i bygningsreglementet som er relevant for byggearbejdet. Erklæringen kan henvise til bygningsreglementets tekniske bestemmelser på kapitelniveau. Dette sker af hensyn til kommunalbestyrelsens behandling ved ansøgning, da erklæringen giver kommunalbestyrelsen et mere tydeligt billede af omfanget af byggeriet. Det sker dog også af hensyn til kommunalbestyrelsens behandling ved færdigmelding, hvor erklæringen om omfanget af byggeriet skal stemme overens med den dokumentation, der indsendes ved færdigmelding.
+
+En ansøgning om byggetilladelse skal, hvis det er relevant for byggearbejdet indeholde:
+
+- Oplysning om forhold vedrørende byggeret og helhedsvurdering, jf. [kap. 8](/tekniske-bestemmelser/08/), og de ubebyggede arealer, jf. [kap. 20](/tekniske-bestemmelser/20/). Dokumentationen omfatter f.eks. oplysning om bygningens placering på
+
+  grunden og i forhold til andre bygninger samt højdeforhold. Helhedsvurderingen er en del af sagsbehandlingen, som bygningsmyndigheden skal udføre, når byggeretten ikke kan overholdes. Derudover omfatter den oplysning om indretning af de ubebyggede arealer, herunder antal af og placering af parkeringspladser, indretning af opholdsarealer på terræn samt eventuel indretning af arealer til opbevaring af affald. Særligt for så vidt angår byggeret og helhedsvurdering, kan der være anden lovgivning, herunder lokalplaner, som skal iagttages af
+
+  kommunalbestyrelsen, ligesom det i mange tilfælde vil være nødvendigt at foretage partshøring af naboer eller andre relevante parter i forbindelse med behandlingen af denne dokumentation.
+
+- Oplysning om og dokumentation for, hvilken konstruktionsklasse byggeriet kan henføres til, jf. [kap. 26](/ovrige-bestemmelser/26/) om konstruktionsklasser og [kap. 28](/ovrige-bestemmelser/28/) om dokumentation af bærende konstruktioner. Læs mere om dette nedenfor.
+
+- For ombygninger og forandringer af eksisterende byggeri, hvor de bærende konstruktioners virkemåde ændres, skal der indsendes oplysning om og dokumentation for, hvilken konstruktionsklasse det berørte konstruktionsafsnit kan henføres til, jf. [kapitel 26](/ovrige-bestemmelser/26/) om konstruktionsklasser og [kapitel 28](/ovrige-bestemmelser/28/) om dokumentation af bærende konstruktioner.
+
+- Oplysning om og dokumentation for, hvilken brandklasse byggeriet kan henføres til, jf. [kap. 27](/ovrige-bestemmelser/27/) om brandklasser og [kap. 29](/ovrige-bestemmelser/29/) om dokumentation af brandforhold. Læs mere om dette nedenfor.
+
+- For ombygninger og forandringer af eksisterende byggeri, hvor forudsætningerne for de brandmæssige forhold ændres, skal der indsendes oplysning om og dokumentation for, hvilken brandklasse det pågældende bygningsafsnit kan henføres til, jf. [kapitel 27](/ovrige-bestemmelser/27/) om brandklasser og [kapitel 29](/ovrige-bestemmelser/29/) om dokumentation af brandforhold. Det skal tages højde for, om ændringen påvirker andre dele af bygningens brandforhold.
+
 - Oplysninger om og dokumentation for, hvorledes byggeriet opfylder [§§ 126-133 v](/tekniske-bestemmelser/05/krav/126_133/)edrørende redningsberedskabets indsatsforhold, herunder hvorvidt byggeriet er indsatstaktisk traditionelt, jf. [§ 510](/ovrige-bestemmelser/29/krav/506_522/).
 
-Det tidligere krav om tæthedsprøvning fremgår ikke længere af [kapitel 1](/administrative-bestemmelser/) i BR18. I stedet fremgår det af BR18 [§ 263, stk. 3](/tekniske-bestemmelser/11/krav/), at kravet kan dokumenteres ved at der foretages en trykprøvning.\
+Det tidligere krav om tæthedsprøvning fremgår ikke længere af [kapitel 1](/administrative-bestemmelser/) i BR18. I stedet fremgår det af BR18 [§ 263, stk. 3](/tekniske-bestemmelser/11/krav/), at kravet kan dokumenteres ved at der foretages en trykprøvning.
+
 Hvis byggeriet er omfattet af krav om byggeskadeforsikring, skal der indsendes dokumentation for, at et forsikringsselskab har afgivet tilbud på byggeskadeforsikring. [Læs mere om byggeskadeforsikring her](../ "Byggeskadeforsikring").
 
 Hvor et byggeri indplaceres i konstruktions- eller brandklasse 2-4 gælder der supplerende dokumentationskrav. Krav om certificeret statiker og certificeret brandrådgiver er to selvstændige krav. Et byggeri kan derfor være omfattet af krav om en certificeret brandrådgiver, men ikke af krav om certificeret statiker. Det kan f.eks. være et ombygningsarbejde i et etagebyggeri, som påvirker de bærende konstruktioner, og derfor bliver omfattet af krav om en certificeret statiker, hvorimod byggeriet ikke ændrer på forudsætningerne for brandstrategien.
@@ -342,10 +346,14 @@ Dokumentation for indplacering i konstruktionsklasse 2-4 skal ligesom konstrukti
 
 Udover grundlaget for indplaceringen skal dokumentationen også som minimum indeholde de for byggeriet relevante dele af:
 
-•   A1. Konstruktionsgrundlag, jf. [§ 501, stk. 1, nr. 1](/ovrige-bestemmelser/28/krav/494_505/),\
-•   A2. Statiske beregninger -- bygværk, jf.[§ 501, stk. 1, nr. 2, litra a](/ovrige-bestemmelser/28/krav/494_505/),\
-•   A3. Konstruktionstegninger og modeller, jf. [§ 501, stk. 1, nr. 3](/ovrige-bestemmelser/28/krav/494_505/),\
-•   B1. Statisk projektredegørelse, jf. [§ 502, stk. 1, nr. 1](/ovrige-bestemmelser/28/krav/494_505/),\
+•   A1. Konstruktionsgrundlag, jf. [§ 501, stk. 1, nr. 1](/ovrige-bestemmelser/28/krav/494_505/),
+
+•   A2. Statiske beregninger -- bygværk, jf.[§ 501, stk. 1, nr. 2, litra a](/ovrige-bestemmelser/28/krav/494_505/),
+
+•   A3. Konstruktionstegninger og modeller, jf. [§ 501, stk. 1, nr. 3](/ovrige-bestemmelser/28/krav/494_505/),
+
+•   B1. Statisk projektredegørelse, jf. [§ 502, stk. 1, nr. 1](/ovrige-bestemmelser/28/krav/494_505/),
+
 •   B2. Statisk kontrolplan, jf. [§ 502, stk. 1, nr. 2](/ovrige-bestemmelser/28/krav/494_505/).
 
 Dokumentationen vil variere i indhold og omfang alt efter typen af byggeri.
@@ -360,12 +368,12 @@ Du kan læse mere om den konstruktionsmæssige dokumentation i [SBi-anvisning 27
 
 ### Koordinering og samling af den statiske dokumentation
 
-For byggeri i konstruktionsklasse 1-4 skal ansøgeren sikre, at den statiske dokumentation er koordineret og samlet, så dokumentationen udgør et hele. Krav til udformningen af den statiske dokumentation fremgår af § 494 og en nærmere beskrivelse af de opgaver, der skal sikre dette, fremgår af vejledningen til [kapitel 28](/ovrige-bestemmelser/28/). Opgaven med at sikre koordinering og samling af den statiske dokumentation er større jo flere organisationer, der medvirker til udarbejdelse og kontrol af den statiske dokumentation.\
-\
-Ansøgeren kan sikre dette ved at udpege en organisation i form af en bygværksprojekterende til at definere, koordinere og samle den statiske dokumentation, således at dokumentationen udgør et hele. Yderligere oplysning om den bygværksprojekterende og de tilknyttede opgaver fremgår af vejledningen til [kapitel 28](/ovrige-bestemmelser/28/) samt af SBi-anvisning 271 om dokumentation og kontrol af bærende konstruktioner.\
-\
-Den certificerede statikers virke indeholder ikke disse opgaver, men den certificerede statiker kan godt være en del af organisationen, der varetager opgaverne og udføre dele af de opgaver, der er knyttet til koordinering og samling af den statiske dokumentation.\
-\
+For byggeri i konstruktionsklasse 1-4 skal ansøgeren sikre, at den statiske dokumentation er koordineret og samlet, så dokumentationen udgør et hele. Krav til udformningen af den statiske dokumentation fremgår af § 494 og en nærmere beskrivelse af de opgaver, der skal sikre dette, fremgår af vejledningen til [kapitel 28](/ovrige-bestemmelser/28/). Opgaven med at sikre koordinering og samling af den statiske dokumentation er større jo flere organisationer, der medvirker til udarbejdelse og kontrol af den statiske dokumentation.
+
+Ansøgeren kan sikre dette ved at udpege en organisation i form af en bygværksprojekterende til at definere, koordinere og samle den statiske dokumentation, således at dokumentationen udgør et hele. Yderligere oplysning om den bygværksprojekterende og de tilknyttede opgaver fremgår af vejledningen til [kapitel 28](/ovrige-bestemmelser/28/) samt af SBi-anvisning 271 om dokumentation og kontrol af bærende konstruktioner.
+
+Den certificerede statikers virke indeholder ikke disse opgaver, men den certificerede statiker kan godt være en del af organisationen, der varetager opgaverne og udføre dele af de opgaver, der er knyttet til koordinering og samling af den statiske dokumentation.
+
 3.5.
 
 ### Indplacering i brandklasse
@@ -446,7 +454,8 @@ Ved ansøgning om byggetilladelse til byggeri i konstruktionsklasse 2-4 er der k
 
 Certificeringen skal følge den konstruktionsklasse, som byggeriet, der søges om byggetilladelse til, kan indplaceres i. Det betyder, at såfremt der søges om byggetilladelse til et byggeri, der kan indplaceres i konstruktionsklasse 3, skal den certificerede statiker ligeledes være certificeret til konstruktionsklasse 3, jf. [bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet](https://www.retsinformation.dk/eli/lta/2019/674) [§ 13](/administrative-bestemmelser/krav/7_15/).
 
-Ved byggeri, der indplaceres i konstruktionsklasse 4, er der ligeledes krav om certificeret tredjepart,\
+Ved byggeri, der indplaceres i konstruktionsklasse 4, er der ligeledes krav om certificeret tredjepart,
+
 der er certificeret i overensstemmelse med [bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet](https://www.retsinformation.dk/eli/lta/2019/674) [§ 14](/administrative-bestemmelser/krav/7_15/).
 
 Der kan kun være én certificeret statiker tilknyttet sagen, medmindre byggeriet indplaceres i konstruktionsklasse 4, og der derfor er krav om en certificeret tredjepart. Der er dog mulighed for at skifte certificeret statiker undervejs i byggeriet, jf. [§ 544](/ovrige-bestemmelser/33/krav/536_544/).
@@ -463,7 +472,7 @@ Certificeringsorganerne, der certificerer statikere i konstruktionsklasse 2-4, s
 
 Ved ansøgning om byggetilladelse til byggeri i brandklasse 2-4 er der krav om, at der skal være tilknyttet en certificeret brandrådgiver. Den certificerede brandrådgiver skal være certificeret i overensstemmelse med [bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet](https://www.retsinformation.dk/eli/lta/2019/674) [§§ 19-21](/administrative-bestemmelser/krav/20_23/). Certificeringen skal følge den brandklasse, som byggeriet, der søges om byggetilladelse til, kan indplaceres i. Det betyder, at såfremt der søges om byggetilladelse til et byggeri, der kan indplaceres i brandklasse 3, skal den certificerede brandrådgiver ligeledes være certificeret til brandklasse 3, jf. [bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet](https://www.retsinformation.dk/eli/lta/2019/674) [§ 20](/administrative-bestemmelser/krav/20_23/). Ved ansøgning om byggetilladelse til byggeri i brandklasse 2-4 skal oplysning til identifikation af den certificerede brandrådgiver, herunder dokumentation for gyldigt certifikat, fremgå af ansøgningen om byggetilladelse. Dette gælder ligeledes, hvis brandrådgiveren er certificeret til at udføre tredjepartskontrol. Ved byggeri, der indplaceres i brandklasse 4, er der ligeledes krav om certificeret tredjepart, der er certificeret i overensstemmelse med [bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet](https://www.retsinformation.dk/eli/lta/2019/674) [§ 21](/administrative-bestemmelser/krav/20_23/).
 
-Der kan kun være én certificeret brandrådgiver tilknyttet sagen, medmindre byggeriet indplaceres i brandklasse 4, og der derfor er krav om en certificeret tredjepart. Der er dog mulighed for at skifte certificeret brandrådgiver undervejs i byggeriet, jf. [§ 551](/ovrige-bestemmelser/34/krav/545_551/). 
+Der kan kun være én certificeret brandrådgiver tilknyttet sagen, medmindre byggeriet indplaceres i brandklasse 4, og der derfor er krav om en certificeret tredjepart. Der er dog mulighed for at skifte certificeret brandrådgiver undervejs i byggeriet, jf. [§ 551](/ovrige-bestemmelser/34/krav/545_551/).
 
 Ved ansøgning om byggetilladelse til byggeri i brandklasse 2-4, skal der indsendes dokumentation, der er godkendt af den certificerede brandrådgiver. Det omfatter oplysning om og dokumentation for indplacering af byggeriet i brandklassen, jf. [kapitel 29](/ovrige-bestemmelser/29/), oplysning om, og dokumentation for, hvorvidt byggeriet er indsatstaktisk traditionelt, jf. § 510 og en starterklæring fra den certificerede brandrådgiver, der er tilknyttet byggesagen, jf. [§ 508, stk. 1](/ovrige-bestemmelser/29/krav/506_522/). Er byggeriet indplaceret i brandklasse 4, skal der ligeledes indsendes en starterklæring fra en certificeret tredjepart, jf. [§ 508, stk. 2](/ovrige-bestemmelser/29/krav/506_522/).
 
@@ -507,7 +516,7 @@ Det følger bl.a. af [§ 25, stk. 1](/administrative-bestemmelser/krav/24_29/), 
 
 Kommunalbestyrelsens opgave i forhold til de anerkendte statikere i overgangsperioden, er det samme som kommunalbestyrelsens opgave i forhold til de certificerede statikere.
 
-Ansøgeren skal udpege en bygværksprojekterende, jf. [§ 24, stk. 2](/administrative-bestemmelser/krav/24_29/). Den bygværksprojekterende skal samle og koordinere den statiske dokumentation ved at udføre nedenstående opgaver. Der er i § 24 stk. 2, henvist til [kapitel 31](/ovrige-bestemmelser/31/) for en præcisering af, hvorledes den bygværksprojekterende skal samle og koordinere den statiske dokumentation. [Kapitel 31](/ovrige-bestemmelser/31/) er ophævet pr. 1. januar 2021 og i stedet kan nedenstående anvendes. 
+Ansøgeren skal udpege en bygværksprojekterende, jf. [§ 24, stk. 2](/administrative-bestemmelser/krav/24_29/). Den bygværksprojekterende skal samle og koordinere den statiske dokumentation ved at udføre nedenstående opgaver. Der er i § 24 stk. 2, henvist til [kapitel 31](/ovrige-bestemmelser/31/) for en præcisering af, hvorledes den bygværksprojekterende skal samle og koordinere den statiske dokumentation. [Kapitel 31](/ovrige-bestemmelser/31/) er ophævet pr. 1. januar 2021 og i stedet kan nedenstående anvendes.
 
 Nedenfor præciseres den bygværksprojekterendes rolle i henhold til [§ 24, stk. 2](/administrative-bestemmelser/krav/24_29/).
 
@@ -515,29 +524,47 @@ Der kan kun være én bygværksprojekterende tilknyttet en byggesag.
 
 Den bygværksprojekterende vil typisk være en organisation givet omfanget af opgaven. Den certificerede statiker kan godt være en del af denne organisation og udføre dele af de opgaver, der fremgår af nedenstående.
 
-Den bygværksprojekterende skal forestå:\
-1.    Definition af konstruktionsafsnit og grænseflader mellem konstruktionsafsnit.\
-2.    Bestemmelse af konsekvensklasser og konstruktionsklasser.\
-3.    Afgrænsning af byggeriet.\
-4.    Udarbejdelse, kontrol og godkendelse af A1. Konstruktionsgrundlag, A2. 1. Statiske beregninger -- bygværk, A3. 1. Konstruktionstegninger og Modeller -- bygværk, B1. Statisk projektredegørelse og B2. Statisk kontrolplan.\
-5.    Specifikation og formidling af grundlag for projektering af de konstruktionsafsnit, der projekteres af andre end den bygværksprojekterende.\
-6.    Koordinering og kontrol af grænseflader mellem konstruktionsafsnit.\
-7.    Kontrol af, at dokumentation for konstruktionsafsnit er kontrolleret, og at kontrollen er dokumenteret.\
-8.    Kontrol af opfølgning på kontrol af dokumentation af konstruktionsafsnit.\
-9.    Koordinering og samling af dokumentationer for kontrol af projektering og udførelse i B3. Statisk kontrolrapport.\
-10.    Koordinering og videreførelse af punkter for særlig kontrol under udførelse.\
-11.    Samling af dokumentation for gennemført kontrol af udførelsen i B3. 2 Statisk kontrolrapport udførelse.\
-12.    Koordinering af ændringer under projektering og udførelse.\
-13.    Udarbejdelse, kontrol og godkendelse af A4. 1 Konstruktionsændringer -- bygværk.\
-14.    Koordinering og samling af dokumentationer for ændringer af konstruktioner i konstruktionsafsnit i A4. 2 Konstruktionsændringer - konstruktionsafsnit.\
-15.    Koordinering af projekterings- og udførelsesmæssige tiltag som konsekvens af afvigelser fundet ved kontrol af projektering og udførelse.\
-16.    Koordinering af opdatering af den statiske dokumentation til "som-udført-dokumentation".\
-17.    Løbende kontrol med forudsætninger for indplacering i konstruktionsklasse i hele projektets forløb.\
-18.    Koordinering og samling af dokumentationer i A5 Konstruktion som udført.\
+Den bygværksprojekterende skal forestå:
+
+1.    Definition af konstruktionsafsnit og grænseflader mellem konstruktionsafsnit.
+
+2.    Bestemmelse af konsekvensklasser og konstruktionsklasser.
+
+3.    Afgrænsning af byggeriet.
+
+4.    Udarbejdelse, kontrol og godkendelse af A1. Konstruktionsgrundlag, A2. 1. Statiske beregninger -- bygværk, A3. 1. Konstruktionstegninger og Modeller -- bygværk, B1. Statisk projektredegørelse og B2. Statisk kontrolplan.
+
+5.    Specifikation og formidling af grundlag for projektering af de konstruktionsafsnit, der projekteres af andre end den bygværksprojekterende.
+
+6.    Koordinering og kontrol af grænseflader mellem konstruktionsafsnit.
+
+7.    Kontrol af, at dokumentation for konstruktionsafsnit er kontrolleret, og at kontrollen er dokumenteret.
+
+8.    Kontrol af opfølgning på kontrol af dokumentation af konstruktionsafsnit.
+
+9.    Koordinering og samling af dokumentationer for kontrol af projektering og udførelse i B3. Statisk kontrolrapport.
+
+10.    Koordinering og videreførelse af punkter for særlig kontrol under udførelse.
+
+11.    Samling af dokumentation for gennemført kontrol af udførelsen i B3. 2 Statisk kontrolrapport udførelse.
+
+12.    Koordinering af ændringer under projektering og udførelse.
+
+13.    Udarbejdelse, kontrol og godkendelse af A4. 1 Konstruktionsændringer -- bygværk.
+
+14.    Koordinering og samling af dokumentationer for ændringer af konstruktioner i konstruktionsafsnit i A4. 2 Konstruktionsændringer - konstruktionsafsnit.
+
+15.    Koordinering af projekterings- og udførelsesmæssige tiltag som konsekvens af afvigelser fundet ved kontrol af projektering og udførelse.
+
+16.    Koordinering af opdatering af den statiske dokumentation til "som-udført-dokumentation".
+
+17.    Løbende kontrol med forudsætninger for indplacering i konstruktionsklasse i hele projektets forløb.
+
+18.    Koordinering og samling af dokumentationer i A5 Konstruktion som udført.
+
 19.    Samling af den statiske dokumentation for hele byggeriet, så dette udgør et hele.
 
-Yderligere oplysning om den bygværksprojekterende fremgår af SBi-anvisning 271 om dokumentation og kontrol af bærende konstruktioner\
-\
+Yderligere oplysning om den bygværksprojekterende fremgår af SBi-anvisning 271 om dokumentation og kontrol af bærende konstruktioner
 
 6.
 
@@ -565,7 +592,12 @@ Ved afslutning af et byggeri, hvortil der er meddelt byggetilladelse, skal der s
 
 Ved færdigmelding skal der indsendes en erklæring om, at det færdige byggeri er i overensstemmelse med byggetilladelsen og bygningsreglementet. Ved færdigmelding af et byggeri skal ansøger indsende følgende:
 
-- Dokumentation for, at der er tegnet byggeskadeforsikring, og at præmien er betalt, jf. [byggelovens § 25 C, stk. 2](https://www.retsinformation.dk/eli/lta/2016/1178), for byggeri omfattet af [byggelovens § 25](https://www.retsinformation.dk/eli/lta/2016/1178)\
+- Dokumentation for, at der er tegnet byggeskadeforsikring, og at præmien er betalt, jf. [byggelovens
+
+### § 25 C {#paragraf-25c}
+
+, stk. 2](https://www.retsinformation.dk/eli/lta/2016/1178), for byggeri omfattet af [byggelovens § 25](https://www.retsinformation.dk/eli/lta/2016/1178)
+
   A. [Læs mere om byggeskadeforsikring her](../ "Byggeskadeforsikring").
 - Erklæring om, at det færdige byggeri er i overensstemmelse med byggetilladelsen og bygningsreglementet. Det er bygningsejeren, der har ansvaret for, at det færdige byggeri er lovligt. Ved afslutning af byggesagen skal det derfor erklæres, at byggeriet er udført i overensstemmelse med byggetilladelsen og bygningsreglementet, hvilket sker igennem Byg & Miljø. Denne erklæring giver ikke bygningsejeren et større eller mindre ansvar, end der allerede følger af [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178).
 - Dokumentation for overholdelse af bygningsreglementets bestemmelser i den færdige bygning. Dokumentationen skal bestå af al for byggeriet relevant materiale, herunder overordnede beskrivelser, forudsætninger, beregninger, tegningsmateriale, prøvninger, målinger mv. Det skal ved det fremsendte dokumenteres, hvordan specifikke niveauer er fastsat på baggrund af bygningsreglementets funktionskrav, og hvordan de specifikke niveauer eller detailkrav i bygningsreglementet opfyldes. Dokumentation for det færdige byggeri afhænger af byggeriets karakter og vil derfor variere meget fra sag til sag. Den dokumentation, der indsendes ved færdigmelding, skal svare til det, ansøger har erklæret, at byggeriet var omfattet af ved ansøgning om byggetilladelse. Det forudsættes, at der ikke er foretaget væsentlige ændringer i forhold til den meddelte byggetilladelse undervejs, da dette ville kræve fornyet behandling af kommunalbestyrelsen. Det er ikke muligt at lave en udtømmende liste over dokumentation, der skal indsendes for det færdige byggeri. Der kan dog vejledende henvises til oversigten over den dokumentation, som kommunalbestyrelsen skal påse ved stikprøvekontrollen. Se mere om dette nedenfor.
@@ -588,8 +620,10 @@ Generelt er der krav om ibrugtagningstilladelse for byggeri, som kræver byggeti
 Visse typer af byggeri er dog undtaget fra krav om ibrugtagningstilladelse, selvom de kræver byggetilladelse. Undtaget fra ibrugtagningstilladelse er følgende:
 
 - Garager, carporte, udhuse, hønsehuse, drivhuse, overdækkede terrasser og lignende, der ikke er integrerede i den primære bebyggelse.
-- Nedrivningsarbejder\
-  Kommunalbestyrelsen kan give tilladelse til, at et byggeri tages helt eller delvist i brug, selv om byggeriet endnu ikke er afsluttet. Det kan f.eks. være, hvor der er tale om et større byggeri, hvor dele af det står færdigt og kan tages i brug, eller hvor byggeriet skal tages i brug til et bestemt enkeltstående formål. Kommunalbestyrelsen kan stille betingelser til ansøgeren, hvor der gives sådan en tilladelse. Det kan f.eks. være, hvis kommunalbestyrelsen vurderer, at der skal tages visse forholdsregler ved brugen af byggeriet.\
+- Nedrivningsarbejder
+
+  Kommunalbestyrelsen kan give tilladelse til, at et byggeri tages helt eller delvist i brug, selv om byggeriet endnu ikke er afsluttet. Det kan f.eks. være, hvor der er tale om et større byggeri, hvor dele af det står færdigt og kan tages i brug, eller hvor byggeriet skal tages i brug til et bestemt enkeltstående formål. Kommunalbestyrelsen kan stille betingelser til ansøgeren, hvor der gives sådan en tilladelse. Det kan f.eks. være, hvis kommunalbestyrelsen vurderer, at der skal tages visse forholdsregler ved brugen af byggeriet.
+
   Kommunalbestyrelsen kan give en frist for færdiggørelse af byggeriet, hvor der gives tilladelse til at tage det i brug, før det er helt afsluttet. Kommunalbestyrelsen kan kræve sikkerhedsstillelse, når der gives en frist for færdiggørelsen, og hvis ikke byggeriet færdiggøres inden for denne frist, kan kommunalbestyrelsen færdiggøre byggeriet for den stillede sikkerhed.
 
 8.
@@ -648,10 +682,12 @@ Nedenstående liste angiver en række tekniske forhold, som afhængigt af bygger
   - Bredder
   - Niveauforskelle
   - Trapper/ramper
-- Adgangsforhold ved bygningen\
+- Adgangsforhold ved bygningen
+
   - Niveauforskelle
   - Dørbredder
-- Fælles adgangsveje\
+- Fælles adgangsveje
+
   - Direkte og uhindret adgang
   - Bredder
   - Udligning af niveauforskelle
@@ -668,7 +704,8 @@ Nedenstående liste angiver en række tekniske forhold, som afhængigt af bygger
 
 **[Kapitel 3](/tekniske-bestemmelser/03/): Affaldssystemer**
 
-- Den valgte løsning for affaldshåndtering\
+- Den valgte løsning for affaldshåndtering
+
   - Sundhed
   - Støj- og lugtgener
   - Kildesortering
@@ -702,26 +739,32 @@ Nedenstående liste angiver en række tekniske forhold, som afhængigt af bygger
 
 **[Kapitel 9](/tekniske-bestemmelser/09/): Bygningers indretning**
 
-- Hvordan er boligen indrettet, størrelse og udformning\
+- Hvordan er boligen indrettet, størrelse og udformning
+
   - Køkkener
   - Wc-rum
   - Wc-rum i adgangsetage
   - Loftshøjder
   - Hemse
-- Indretning af offentligt tilgængelige bygninger\
+- Indretning af offentligt tilgængelige bygninger
+
   - Handicap-wc
   - Teleslynge
-- Indretning af bygninger med arbejdspladser\
+- Indretning af bygninger med arbejdspladser
+
   - Rumhøjder
   - Wc-rum
   - Handicap-wc
   - Spiserum
-- Indretning af normalklasserum\
+- Indretning af normalklasserum
+
   - Areal
   - Placering i forhold til terræn
-- Indretning af hoteller\
+- Indretning af hoteller
+
   - Antal handicapindrettede rum
-- Sikkerhed ved glaspartier, f.eks. ved niveauspring\
+- Sikkerhed ved glaspartier, f.eks. ved niveauspring
+
   - Risikovurdering
 
 **[Kapitel 10](/tekniske-bestemmelser/10/): Elevatorer**
@@ -733,7 +776,8 @@ Nedenstående liste angiver en række tekniske forhold, som afhængigt af bygger
 **[Kapitel 11](/tekniske-bestemmelser/11/): Energiforbrug**
 
 - Valg af dokumentationsmetode
-- Energiberegning\
+- Energiberegning
+
   - Forudsætninger
   - Værdier for de tekniske anlæg er i overensstemmelse med det udførte og med resultaterne af funktionsafprøvning
 - Dokumentation af tæthed
@@ -742,7 +786,8 @@ Nedenstående liste angiver en række tekniske forhold, som afhængigt af bygger
 
 **[Kapitel 12](/tekniske-bestemmelser/12/): Energiforsyningsanlæg**
 
-- Aftrækssystemer\
+- Aftrækssystemer
+
   - Komplet drift- og vedligeholdelsesmanual
 
 **[Kapitel 13](/tekniske-bestemmelser/13/): Forureninger**
@@ -776,12 +821,14 @@ Nedenstående liste angiver en række tekniske forhold, som afhængigt af bygger
 
 **[Kapitel 18](/tekniske-bestemmelser/18/): Lys og udsyn**
 
-- Dagslys\
+- Dagslys
+
   - Anvendt dokumentationsmetode
   - Korrektionsfaktorer ved dokumentation ved glasareal ift. gulvareal
   - Beregninger/simuleringer ved dokumentation ud fra den indvendige belysningstyrke fra dagslys
 - Udsyn, herunder evt. solafskærmnings indflydelse herpå
-- Belysning\
+- Belysning
+
   - DS/EN 12464-1
   - Dagslysstyring
   - Bevægelsesmeldere og zoneopdeling
@@ -794,7 +841,8 @@ Nedenstående liste angiver en række tekniske forhold, som afhængigt af bygger
 - Installationers overensstemmelse med DS 469
 - Sikring mod legionella
 - Målere på serverrum
-- Funktionsafprøvning\
+- Funktionsafprøvning
+
   - Komplet drift- og vedligeholdelsesmanual
 
 **[Kapitel 21](/tekniske-bestemmelser/21/): Vand**
@@ -804,7 +852,8 @@ Nedenstående liste angiver en række tekniske forhold, som afhængigt af bygger
 - Vandtemperaturer
 - Sikring mod legionella
 - Sikkerhed for udsivning og udstrømning
-- Sikkerhed mod tilbagestrømning\
+- Sikkerhed mod tilbagestrømning
+
   - Komplet drift- og vedligeholdelsesmanual
 
 **[Kapitel 22](/tekniske-bestemmelser/22/): Ventilation**
@@ -818,7 +867,8 @@ Nedenstående liste angiver en række tekniske forhold, som afhængigt af bygger
 - Ventilationsmængder
 - Funktionsafprøvning
 - Behovstyring
-- Overensstemmelse mellem det udførte ventilationsanlæg og forudsætninger i energibehovsberegningen\
+- Overensstemmelse mellem det udførte ventilationsanlæg og forudsætninger i energibehovsberegningen
+
   - Komplet drift- og vedligeholdelsesmanual
 
 8.2.
@@ -891,4 +941,3 @@ Det er Nævnenes Hus, der afgør, om betingelserne for klage efter [byggeloven](
 
 Der er ikke anden administrativ klageadgang efter [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178), og kommunalbestyrelsens og Nævnenes Hus' afgørelser kan derfor ikke påklages til Transport-og Boligministeriet. Der kan anlægges en civil sag ved domstolene inden for seks måneder efter den dag, hvor afgørelsen er meddelt sagens parter, jf. [byggelovens § 25, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178).
 
-\

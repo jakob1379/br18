@@ -1,6 +1,5 @@
 # Konstruktionsklasser (§ 485 - § 489)
 
-
 ## Se alle vejledninger om Konstruktionsklasser (§ 485 - § 489)
 
 - [Spørgsmål og svar](./)
@@ -8,8 +7,6 @@
 - [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../temasiden-brandogkonstruktioner-dk)
 
 ## Spørgsmål og svar
-
-
 
 ### Spørgsmål og svar om konstruktionsklasser {#0fb21587-62a6-49e5-8238-773506cc8f73}
 
@@ -31,4 +28,3 @@ Dette kan illustreres med følgende eksempler:
 
 Bygherre eller dennes rådgiver har mulighed for at bede kommunen om en forhåndsdialog, før ansøgning om byggetilladelse indsendes, og derved bl.a. få afstemt indplacering af et byggearbejde i en konstruktionsklasse.
 
-\

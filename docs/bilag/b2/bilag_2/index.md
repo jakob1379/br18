@@ -1,6 +1,5 @@
 # Bilag 2: Tabeller til kapitel 11 - Energiforbrug
 
-
 ## Tabel 1 - Generelle mindstekrav til klimaskærm
 
 +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+
@@ -61,7 +60,6 @@
 
  
 
-
 ## Tabel 2 - Mindstekrav til klimaskærm ved ændret anvendelse og tilbygninger
 
 +---------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------+-------------------------------------+
@@ -96,26 +94,24 @@
 | Samling mellem tagkonstruktion og ovenlysvinduer eller ovenlyskupler | 0,10\                   | 0,10\                   |
 +----------------------------------------------------------------------+-------------------------+-------------------------+
 
-\
-
 ## Tabel 3 - Mindstekrav til klimaskærm ved ombygninger og andre forandringer i bygningen
 
   -------------------------------------------------------------------------------------------------------- -----------------------------------
-  **Bygningsdel**                                                                                          **U-værdi\[W/m²K\]**\
+  **Bygningsdel**                                                                                          **U-værdi\[W/m²K\]**
 
-  Ydervægge og kældervægge mod jord\                                                                       0,18\
+  Ydervægge og kældervægge mod jord\                                                                       0,18
 
-  Etageadskillelser og skillevægge mod rum, hvor temperaturforskellen mellem rummene er 5 °C eller mere\   0,40\
+  Etageadskillelser og skillevægge mod rum, hvor temperaturforskellen mellem rummene er 5 °C eller mere\   0,40
 
-  Terrændæk, kældergulve mod jord og etageadskillelser over det fri eller ventileret kryberum\             0,10\
+  Terrændæk, kældergulve mod jord og etageadskillelser over det fri eller ventileret kryberum\             0,10
 
-  Loft- og tagkonstruktioner, herunder skunkvægge, flade tage og skråvægge direkte mod tag\                0,12\
+  Loft- og tagkonstruktioner, herunder skunkvægge, flade tage og skråvægge direkte mod tag\                0,12
 
-  Porte\                                                                                                   1,8\
+  Porte\                                                                                                   1,8
 
-  Lemme, nye forsatsvinduer og ovenlyskupler\                                                              1,4\
+  Lemme, nye forsatsvinduer og ovenlyskupler\                                                              1,4
 
-  Renoverede forsatsvinduer\                                                                               1,65\
+  Renoverede forsatsvinduer\                                                                               1,65
 
   Lystunneler eller lignende                                                                               2,0
   -------------------------------------------------------------------------------------------------------- -----------------------------------
@@ -123,32 +119,33 @@
   ----------------------------------------------------------------------- -----------------------------------
   **Bygningsdel**\                                                        **Linjetab \[W/mK\]**
 
-  Fundamenter\                                                            0,12\
+  Fundamenter\                                                            0,12
 
-  Samling mellem ydervæg, vinduer eller yderdøre, porte og lemme\         0,03\
+  Samling mellem ydervæg, vinduer eller yderdøre, porte og lemme\         0,03
 
-  Samling mellem tagkonstruktion og ovenlysvinduer eller ovenlyskupler\   0,10\
+  Samling mellem tagkonstruktion og ovenlysvinduer eller ovenlyskupler\   0,10
+
   ----------------------------------------------------------------------- -----------------------------------
-
 
 ## Tabel 4 -- Mindstekrav til klimaskærm for sommerhuse, campinghytter og lignende ferieboliger
 
   -------------------------------------------------------------------------------------------------------------------------- -----------------------------------
   **Bygningsdel**                                                                                                            **U-værdi \[W/m²K\]**
 
-  Ydervægge og kældervægge mod jord\                                                                                         0,25\
+  Ydervægge og kældervægge mod jord\                                                                                         0,25
 
-  Skillevægge og etageadskillelser mod rum, der er uopvarmede\                                                               0,40\
+  Skillevægge og etageadskillelser mod rum, der er uopvarmede\                                                               0,40
 
-  Terrændæk, kældergulve mod jord og etageadskillelser over det fri eller ventileret kryberum\                               0,15\
+  Terrændæk, kældergulve mod jord og etageadskillelser over det fri eller ventileret kryberum\                               0,15
 
-  Loft- og tagkonstruktion, herunder skunkvægge samt flade tage                                                              0,15\
+  Loft- og tagkonstruktion, herunder skunkvægge samt flade tage                                                              0,15
 
-  Vinduer, yderdøre, ovenlysvinduer, glasydervægge, glastage og ovenlyskupler mod det fri eller mod rum, der er uopvarmede   1,8\
+  Vinduer, yderdøre, ovenlysvinduer, glasydervægge, glastage og ovenlyskupler mod det fri eller mod rum, der er uopvarmede   1,8
+
   -------------------------------------------------------------------------------------------------------------------------- -----------------------------------
 
   ---------------------------------------------------------------------- -----------------------------------
-  **Bygningsdel**                                                        **Linjetab \[W/mK\]**\
+  **Bygningsdel**                                                        **Linjetab \[W/mK\]**
 
   Fundamenter\                                                           0,15
 
@@ -157,23 +154,22 @@
   Samling mellem tagkonstruktion og ovenlysvinduer eller ovenlyskupler   0,10
   ---------------------------------------------------------------------- -----------------------------------
 
-
 ## Tabel 5 - Mindstekrav til klimaskærm for midlertidige, flytbare pavilloner
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------
   **Bygningsdel**                                                                                                                                                                              **U-værdi \[W/m²K\]**
 
-  Ydervægge\                                                                                                                                                                                   0,20\
+  Ydervægge\                                                                                                                                                                                   0,20
 
-  Etageadskillelser og skillevægge mod rum, hvor temperaturforskellen mellem rummene er 5 °C eller mere\                                                                                       0,40\
+  Etageadskillelser og skillevægge mod rum, hvor temperaturforskellen mellem rummene er 5 °C eller mere\                                                                                       0,40
 
   Gulv og etageadskillelser over det fri eller ventileret kryberum                                                                                                                             0,12
 
   Loft- og tagkonstruktioner, herunder skunkvægge, flade tage og skråvægge direkte mod tag                                                                                                     0,15
 
-  For porte og lemme mod det fri eller mod rum, der er uopvarmede, samt glasvægge og vinduer mod rum opvarmet til en temperatur, hvor temperaturforskellen mellem rummene er 5 °C eller mere   1,8\
+  For porte og lemme mod det fri eller mod rum, der er uopvarmede, samt glasvægge og vinduer mod rum opvarmet til en temperatur, hvor temperaturforskellen mellem rummene er 5 °C eller mere   1,8
 
-  Ovenlyskupler                                                                                                                                                                                1,8\
+  Ovenlyskupler                                                                                                                                                                                1,8
 
   Lystunneler eller lignende                                                                                                                                                                   2,0
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------
@@ -188,14 +184,14 @@
   Samling mellem tagkonstruktion og ovenlysvinduer eller ovenlyskupler   0,10
   ---------------------------------------------------------------------- -----------------------------------
 
-\
-
 ## Tabel 6 - Bygningsdele til beregning af klimapåvirkning
 
-Dette bilag beskriver, hvilke bygningsdele der skal indgå i beregningen af bygningers klimapåvirkning.\
+Dette bilag beskriver, hvilke bygningsdele der skal indgå i beregningen af bygningers klimapåvirkning.
+
 Værdierne i tabel 6 afgrænser hvilke dele af byggeriet, der indgår i beregningen, jf. § 297, stk. 6. Bygningsdele, der ikke er nævnt, indgår ikke.
 
-Tabellen indeholder desuden detaljerede linjer for forskellige typer af konstruktioner eller installationer.\
+Tabellen indeholder desuden detaljerede linjer for forskellige typer af konstruktioner eller installationer.
+
 Alle delkomponenter i konstruktioner medtages.
 
 Bygningsdele, der indgår i den færdige bygning som tag, ydervægge, indervægge, dæk og lignende, medregnes fra den indvendige overflade til den udvendige overflade.
@@ -205,26 +201,30 @@ Bygningsdelene er grupperet i typer og kategorier. I kolonnen detaljeringsniveau
 ***Forenklinger\***
 Fastgørelsesmidler, fx søm, skruer, kiler, hulplader til søm eller skruer, murbindere eller lignende, medregnes ikke.
 
-Større samlinger af væsentlig betydning for det bærende system, fx boltesamlinger, medregnes. Dette kan være som et samlet skøn af materialemængder, sådan som materialet er opgjort i [bilag 2, tabel 7](tabel_7 "Tabel_7").\
+Større samlinger af væsentlig betydning for det bærende system, fx boltesamlinger, medregnes. Dette kan være som et samlet skøn af materialemængder, sådan som materialet er opgjort i [bilag 2, tabel 7](tabel_7 "Tabel_7").
+
 Udstøbning af revner i betonelementer, udstøbning af et filigrandæk eller lignende samling mellem elementer kan anses for samme konstruktion. Delvist præfabrikerede konstruktioner kan beregnes uden at medtage udfyldning imellem elementerne.
 
 Der medregnes ikke fugemateriale, lokale membraner og fugtspærre i fundamenter, samt håndlister, fodpaneler og lignende lister.
 
-Tegloverliggere og lignende indregnes som det omkringliggende murværk.\
+Tegloverliggere og lignende indregnes som det omkringliggende murværk.
+
 Brandlukninger, recesser, rørgennemføringer og andre former for lukninger af udsparinger mm. kan udelades fra beregningen, hvis der i stedet foretages beregning på baggrund af den omliggende konstruktion, antaget homogen.
 
-Ved rør eller ledninger til de tekniske installationer medregnes kun de lige strækninger og ikke bøjninger.\
+Ved rør eller ledninger til de tekniske installationer medregnes kun de lige strækninger og ikke bøjninger.
+
 Hvor det af tabel 6 fremgår "eventuelt som mængde råmateriale" i kolonnen for Detaljeringsniveau, kan bygningsdelen opgøres ved at antage, at hele bygningsdelen består af det materiale, som er tilstede i størst omfang i bygningsdelen, og beskrives ved den klimapåvirkning for materialet, som fremgår af bilag 2, tabel 7.
 
-***Råhuse***\
+***Råhuse***
+
 Såfremt bygningen ved færdigmelding mangler dele, som fx gulv, vægmaling mm., som er nødvendige for at sikre funktionaliteten for bygningen, medregnes sådanne dele af bygningen i beregningen af bygningens klimapåvirkning, uanset at bygningsdelene faktisk ikke er til stede i bygningen på færdigmeldingstidspunktet.
 
 [Download bilag 2, tabel 6 som excel-fil her.](../../../media/4rqdskud/tabel-6-2025.xlsx "Tabel 6 (2025)"){rel="noopener" target="_blank"}
 
-
 ## Tabel 7 - Generisk datagrundlag
 
-Dette dokument indeholder det generiske datagrundlag for modulerne A1-A3, C3-C4 og D, jf. § 297, stk. 7.\
+Dette dokument indeholder det generiske datagrundlag for modulerne A1-A3, C3-C4 og D, jf. § 297, stk. 7.
+
 Ved anvendelsen af datagrundlaget anvendes det mest repræsentative datasæt for materialet. Såfremt der ikke findes et repræsentativt datasæt, anvendes data for de forskellige delkomponenter. Dog kan der altid anvendes en opgørelse af mængde råmateriale hvor dette fremgår af kolonnen Detaljeringsniveau i [bilag 2, tabel 6](../../../media/4rqdskud/tabel-6-2025.xlsx "Tabel 6 (2025)"){rel="noopener" target="_blank"}.
 
 [Download bilag 2, tabel 7 som excel-fil her](../../../media/1o1nnozd/tabel-7-2025.xlsx "Tabel 7 (2025)"){rel="noopener" target="_blank"}.
@@ -233,17 +233,17 @@ For så vidt angår tekniske installationer kan bygningsejer som alternativ til 
 
 For genbrug anvendes de undtagelser, som fremgår nederst.
 
-*Standardværdier for installationer*\
+*Standardværdier for installationer*
+
 Standardværdierne herunder kan anvendes af bygningsejer som alternativ til faktiske mængder ved at opgøre installationernes klimapåvirkning alene på baggrund af areal. Det anvendte areal i m2 er det samlede opvarmede etageareal (jf. § 256, stk. 3) plus det opvarmede kælderareal. Det således fremkomne areal ganges med standardværdien. Den således fremkomne værdi benyttes i stedet for en opgørelse af installationernes faktiske klimapåvirkning.
 
-\
-*Genbrug*\
+*Genbrug*
+
 For genbrugte materialer sættes klimapåvirkningen til 0 kg CO2-ækvivalenter for A1-A3, B4, C3-C4 og D.
 
 Genbrug forstås som defineret i affaldsbekendtgørelsen, dog uden hensyntagen til om den tidligere brug af materialet har haft samme formål.
 
 Såfremt der sammen med genbrugte materialer også anvendes supplerende nye materialer, anvendes datasættet som normalt for de nye materialer, i det omfang, de indgår i beregningen jf. tabel 6. Nødvendig overfladebehandling eller lignende af det genbrugte produkt, sammenligneligt med vedligehold eller reparation, indgår ikke.
-
 
 ## Tabel 8 - Emissionsfaktorer
 
@@ -259,7 +259,6 @@ Datasættet kan benyttes som emissionsfaktorer for brændstof til transport til,
 
 [Download bilag 2, tabel 8.2 som excel-fil her.](../../../media/2bphcenr/tabel-82-september-2025.xlsx "Tabel 8.2 (September 2025)")
 
-
 ## Tabel 9 -- Referenceværdier for beregning af klimapåvirkning, som ikke indgår i beregningen ifølge § 298, stk. 1.
 
 For at fastlægge størrelsen af den berettigede øgede klimapåvirkning, der som følge af § 298, stk. 8, ikke skal medregnes, foretages en isoleret beregning af klimapåvirkningen fra den del af bygningen, der er påvirket af det særlige forhold.
@@ -274,7 +273,8 @@ Der sondres i det følgende mellem konstruktioner, søjler/bjælker, fundamenter
 
 ***Konstruktioner\***
 
-For konstruktioner beregnes forskellen vha. referenceværdi jf. tabel 9 og formel 1 herunder\
+For konstruktioner beregnes forskellen vha. referenceværdi jf. tabel 9 og formel 1 herunder
+
 Referenceværdier for konstruktioner:
 
 Tabel 9: Liste over referenceværdier, som anvendes til at beregne den berettigede øgede klimapåvirkning af konstruktioner ved særlige forhold.
@@ -329,7 +329,7 @@ a er arealet som opgjort ifølge § 297, stk. 5 (i m2).
  
 
 ***Fundamenter\***
-For fundamenter skal forskellen i klimapåvirkning i forhold til en almindelig referenceværdi beregnes som i formel 3 herunder. Påvirkningen opgøres samlet for hele fundamentet, også i de tilfælde hvor kun dele af fundamentet har et øget materialeforbrug.\
+For fundamenter skal forskellen i klimapåvirkning i forhold til en almindelig referenceværdi beregnes som i formel 3 herunder. Påvirkningen opgøres samlet for hele fundamentet, også i de tilfælde hvor kun dele af fundamentet har et øget materialeforbrug.
 
 Formel 3: 
 
@@ -337,11 +337,14 @@ Formel 3: 
 
 hvor
 
-x er klimapåvirkningen fra materialerne i fundamentet (i kg CO2-ækv.) opgjort over den 50-årige betragtningsperiode.\
-r er en referenceværdi på 0,33 kg CO2-ækv. /m2 /år,\
+x er klimapåvirkningen fra materialerne i fundamentet (i kg CO2-ækv.) opgjort over den 50-årige betragtningsperiode.
+
+r er en referenceværdi på 0,33 kg CO2-ækv. /m2 /år,
+
 a er arealet som opgjort ifølge § 297, stk. 5 (i m2).
 
-***Installationer***\
+***Installationer***
+
 For installationer beregnes forskellen mellem den faktiske klimapåvirkning af installationerne og standardværdierne i BR18 bilag 2, tabel 7, øvrige bygningstyper, som i formel 4 herunder.
 
 Formel 4:
@@ -362,15 +365,16 @@ a er arealet som opgjort ifølge § 297, stk. 5, (i m2).
 
  
 
-
 ## Tabel 10 -- Beregning af klimapåvirkning fra energiforbrug i byggeprocessen (modul A4 og A5)
 
-*Generelle beregningsprincipper*\
+*Generelle beregningsprincipper*
+
 Klimapåvirkning fra energiforbrug relateret til transport (i modul A4 og A5) og til energiforbruget på pladsen (i modul A5) beregnes ved måling af forbruget, herunder af brændstof, el og/eller fjernvarme. Forbruget opgøres ved måling, og hvis nødvendigt ved en forholdsmæssig fordeling af et forbrug, såfremt forbruget ikke kun vedrører det pågældende byggeri. For transport kan et forbrug beregnes ud fra antal kørte kilometer sammenholdt med forbrug per kilometer. Det opgjorte forbrug sammenholdes med de emissionsfaktorer som fremgår af tabel [8.1](tabel_8 "Tabel_8"){rel="noopener" target="_blank"} og [8.2](tabel_8 "Tabel_8"){rel="noopener" target="_blank"}, alternativt kan en miljøvaredeklaration for et fjernvarmeforsyningsanlæg anvendes på samme vis som beskrevet i § 297, stk. 11.
 
 Ved eldrevet transport udenfor Danmark kan klimapåvirkningen fra produktionen af el i stedet beregnes ved anvendelse af en miljøvaredeklaration ifølge tilsvarende principper som i § 297, stk. 11.
 
-*Særligt om transport af materialer til byggepladsen*\
+*Særligt om transport af materialer til byggepladsen*
+
 Transport af materialer til byggepladsen (i modul A4), bortset fra midlertidig oplagring af materialer til byggepladsen ("terminalprocesser"), kan i stedet for beregning af forbruget, jf. de generelle principper, fastsættes ud fra følgende værdier pr. kg materiale som indgår i byggeriet:
 
   --------------------------------------- ------------------------------ -------------------------
@@ -422,7 +426,7 @@ For installationer kan antal kg materiale opgøres på baggrund af standardværd
 Alle terminalprocesser i forbindelse med transport (i modul A4) opgøres samlet set som 0,02 kg CO~2~-ækvivalenter pr. m^2^ byggeri pr. år
 
 *Særligt om transport af materiel samt transport af affald\*
-For følgende delprocesser kan transport - i stedet for beregning af forbruget ifølge principperne ovenfor - fastsættes til følgende værdier:\
+For følgende delprocesser kan transport - i stedet for beregning af forbruget ifølge principperne ovenfor - fastsættes til følgende værdier:
 
  
 
@@ -434,7 +438,6 @@ For følgende delprocesser kan transport - i stedet for beregning af forbruget i
   ----------- ----------------------------------------------------------------------------------------------------------- ------------------------------
 
 Når der i ovenstående refereres til et antal kvadratmeter byggeri, benyttes samme areal som ifølge § 297, stk. 5.
-
 
 ## Tabel 11 -- Generiske data for behandling af byggeaffald
 
@@ -459,7 +462,6 @@ Tabellen indeholder generiske data for udledninger pr. kg byggeaffald fra byggep
   Sanitet, fliser og glaserede tegl   0,36
   ----------------------------------- -----------------------
 
-
 ## Tabel 12 - Standardværdier for energiforbrug i sommerhuse, campinghytter og lignende ferieboliger
 
 Klimapåvirkningen fra driftsenergi (i modul B6) beregnes på baggrund af energibehovet fra nedenstående standardværdier pr. m2 opvarmet etageareal, med udgangspunkt i bygningens forsyningskilde. Hvis bygningen har flere forsyningskilder, foretages et arealvægtet gennemsnit.
@@ -473,7 +475,6 @@ Energibehovet omregnes til klimapåvirkning ifølge de emissionsfaktorer, som fr
   **Varmebehov ved elvarme, fjernvarme eller anden opvarmning**   **Varmepumpe luft/luft - elbehov**   **Varmepumpe luft/vand - elbehov**
   33,2                                                            21,2                                 10,1
   --------------------------------------------------------------- ------------------------------------ ------------------------------------
-
 
 ## Tabel 13 - Standardværdier for energiforbrug i tilbygninger.
 
@@ -491,5 +492,3 @@ Energibehovet omregnes til klimapåvirkning ifølge de emissionsfaktorer, som fr
   ------------------------------ ---------------- -------------
 
  
-
-\

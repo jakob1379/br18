@@ -1,6 +1,5 @@
 # Brand (§ 82 - § 158)
 
-
 ## Se alle vejledninger om Brand (§ 82 - § 158)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
@@ -27,11 +26,9 @@
 
 ## Bilag 16 - Præ-accepterede løsninger for mindre bebyggelse i anvendelseskategori 1 og 4
 
-
 ### Bilag 16 - Præ-accepterede løsninger for mindre bebyggelse i anvendelseskategori 1 og 4
 
 [Åbn Bilag 16: Præ-accepterede løsninger for mindre bebyggelse i anvendelseskategori 1 og 4](../../../../../media/ndadboft/20210421-bilag-16-praccepterede-lsninger-for-mindre-bebyggelse-i-anvkat1og-4ver10-a.pdf "20210421 Bilag 16 Praccepterede lsninger for mindre bebyggelse i anvkat1og 4ver10")
 
 Version 1.0 (22.04.2021)
 
-\

@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -63,8 +66,6 @@ Pavilloner kan betragtes som transportable konstruktioner og kan opsættes i ove
 
 Transportable konstruktioner i brandklasse 2-4, som opstilles midlertidigt på camping- og salgsområder samt i forsamlingslokaler, idrætshaller og lignende er ikke omfattet af denne FAQ, jf. BR18, [§ 30a](/administrative-bestemmelser/krav/30_30c/).
 
- 
-
 *Opstilling med en varighed på højst 6 uger:*
 
 Styrelsen vurderer, at pavilloner er omfattet af BR18, [§ 6b, stk. 1, nr. 6](/administrative-bestemmelser/krav/6b-6e/). De kan derfor opstilles uden byggetilladelse med en varighed på op til højst 6 uger. Herefter er der krav om byggetilladelse, jf. BR18, [§ 6d](/administrative-bestemmelser/krav/6b-6e/).
@@ -77,8 +78,6 @@ Pavilloner opstillet på byggepladser, der er omfattet af BR18, [§ 6a](/adminis
 
 For pavilloner, som skal anvendes til overnatning, er der altid krav om byggetilladelse.
 
- 
-
 *Opstilling med en varighed af mere end 6 uger:*
 
 Pavilloner, der opstilles på samme sted i mere end 6 uger, er omfattet af [§ 6d](/administrative-bestemmelser/krav/6b-6e/), som angiver, at transportable konstruktioner, der opstilles med en varighed på mere end 6 uger på den samme placering, ikke må opstilles uden byggetilladelse fra kommunalbestyrelsen, jf. [§ 7](/administrative-bestemmelser/krav/7_15/).
@@ -86,8 +85,6 @@ Pavilloner, der opstilles på samme sted i mere end 6 uger, er omfattet af [§ 6
 Ved byggesagsbehandling af en certificeret konstruktion, omfattet af [§ 6b, stk. 3](/administrative-bestemmelser/krav/6b-6e/), der ønskes opstillet i mere end 6 uger, kan certifikatet lægges til grund for opfyldelse af de tekniske krav, og det er alene de bebyggelsesregulerende forhold, der skal byggesagsbehandles. Bestemmelsen omfatter ikke transportable konstruktioner, som opstilles på byggepladser, jf. BR18 [§ 6a, stk. 1, nr. 1](/administrative-bestemmelser/krav/6a/) og 2*.*
 
 Dette betyder, at pavilloner, der opstilles i mere end 6 uger på samme sted, generelt skal opfylde bygningsreglementets krav til den anvendelse, de skal benyttes til, og der skal søges byggetilladelse til opstillingen.
-
- 
 
 *Brandmæssige forhold for brandklasse 1*
 
@@ -133,15 +130,11 @@ Pavilloner, der kan udføres som anvendelseskasse 4 og indplaceres i brandklasse
 - Sommerhus
 - Til brug for genhusning
 
- 
-
 *Brandmæssige forhold for brandklasse 2-4*
 
 For pavilloner, der indplaceres i brandklasse 2-4, skal der tilknyttes en certificeret brandrådgiver, der skal udfærdige den brandtekniske dokumentation.
 
 Med henvisning til BR18, [§ 6d](/administrative-bestemmelser/krav/6b-6e/) vil det være en fordel at have certificerede pavilloner, da certifikatet kan lægges til grund for opfyldelse af de tekniske krav, og det er alene de bebyggelsesregulerende forhold, der skal byggesagsbehandles.
-
- 
 
 *Konstruktionsmæssige forhold for konstruktionsklasse 1*
 
@@ -155,8 +148,6 @@ Det er styrelsens vurdering, at følgende pavilloner skal indplaceres i konstruk
 - Pavilloner til enfamiliehus uanset type f.eks. genhusning i op til 2 etager (uden vandret lejlighedskel).
 - Pavilloner til sommerhus.
 
- 
-
 *Konstruktionsmæssige forhold for konstruktionsklasse 2-4*
 
 Med henvisning til BR18, [§ 6d](/administrative-bestemmelser/krav/6b-6e/) vil det være en fordel at have certificerede pavilloner, da certifikatet kan lægges til grund for opfyldelse af de tekniske krav, og det er alene de bebyggelsesregulerende forhold, der skal byggesagsbehandles.
@@ -168,8 +159,6 @@ Dette betyder, at dokumentationen for de bærende dele af pavillonen enten kan u
 Reglerne for indplacering i konstruktionsklasse 2-4 fremgår nærmere af BR18, [kapitel 26](/ovrige-bestemmelser/26/). I forhold til hvilke konsekvensklasser, som konstruktionsklasserne skal henregnes til, kan der hentes mere inspiration i DS/INF 1990.
 
 Typisk vil pavilloner, der anvendes til andet end enfamiliehuse, skulle henregnes til CC2, og de kan opfattes som simpelt og traditionelt byggeri.
-
- 
 
 *Dokumentation af de statiske forhold for pavilloner*
 
@@ -193,4 +182,3 @@ Kontrolplaner og kontrolrapporter kan standardiseres, så den samme skabelon kan
 
 ### Spørgsmål og svar om primitive bygninger (09-01-2024)
 
-\

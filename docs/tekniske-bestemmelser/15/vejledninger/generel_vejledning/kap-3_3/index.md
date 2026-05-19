@@ -1,6 +1,5 @@
 # Konstruktioner (§ 340 - § 357)
 
-
 ## Se alle vejledninger om Konstruktioner (§ 340 - § 357)
 
 - [Bygningsreglementets vejledning om konstruktioner](../)
@@ -9,9 +8,7 @@
 
 ## Bygningsreglementets vejledning om konstruktioner
 
-
 ### Rettelsesblad til Bygningsreglementets vejledning om konstruktioner omhandlende bæreevnevurdering af eksisterende konstruktioner (24.01.2024)
-
 
 ### Forord
 
@@ -53,19 +50,19 @@
 
 Bygningsejer bør undersøge behovet for et særskilt afstivningsprojekt ved større spærkonstruktioner idet det afstivende elements styrke og stivhed er særligt vigtigt for konstruktionens samlede stabilitet. Der er normalt behov for et særskilt projekt ved spærkonstruktioner med en spændvidde mere end 12-14 m. Det kan også være relevant at efterse eksisterende spærkonstruktioner nærmere i forhold til deres sikkerhed, som beskrevet i nedenstående vejledning.
 
-#### 
+####
 
 Vejledning: Store træspær - Behov for afstivning
 
-#### 
+####
 
 #### Gå til vejledning @@PROTECTED_12@@
 
-#### 
+####
 
 Vejledning: Store stålspær - Behov for afstivning
 
-#### 
+####
 
 #### Gå til vejledning @@PROTECTED_13@@
 
@@ -77,4 +74,3 @@ Vejledning: Store stålspær - Behov for afstivning
 
 ### Tagbrønde og tagnedløb
 
-\

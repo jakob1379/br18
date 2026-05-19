@@ -1,6 +1,5 @@
 # Ventilation (§ 420 - § 452)
 
-
 ## Se alle vejledninger om Ventilation (§ 420 - § 452)
 
 - [Bygningsreglementets vejledning om ventilation](../../version-2-generel_vejledning)
@@ -8,7 +7,6 @@
 - [Spørgsmål og svar](..)
 
 ## Spørgsmål og svar
-
 
 ### Hvilke energimæssige bestemmelser i bygningsreglementets ventilationskapitlet er relevante for en boligventilationsvarmepumpe som udnytter varmen i udsugningsluften til at forvarme indblæsningsluften gennem et væskebåret varmesystem samt evt. til varmt brugsvand samt rumopvarmning?
 
@@ -18,4 +16,3 @@ Anlægget kan for boliger betragtes på samme måde som et udsugningsanlæg. I d
 
 I mindre boligenheder under 50 m2 kan det accepteres at øvrig udsugning i et kortere tidsrum reduceres ved effektiv brug af emhætten under madlavning, såfremt ventilationssystemets design, boligens indretning og køkkenets placering i relation til toilet- og badeværelser medfører, at der ikke er risiko for overførsel af forureninger fra toilet- og badeværelser til den øvrige boligenhed.
 
-\

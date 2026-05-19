@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -65,20 +68,19 @@
 
 *Regler om at tage en bygning helt eller delvist i brug *
 
-Bygningsreglementet stiller krav om ibrugtagningstilladelse for byggearbejder, som kræver byggetilladelse. Disse byggearbejder må ikke tages i brug, før der er givet tilladelse hertil fra kommunen. \
-\
-Kommunen kan dog give tilladelse, jf. [§ 44](/administrative-bestemmelser/krav/40_46/), til, at byggeri kan tages helt eller delvist i brug, selvom byggearbejdet endnu ikke er afsluttet. Det kan f.eks. være, hvor der er tale om et større byggeri, hvor dele står færdigt og kan tages i brug, eller hvor byggeriet skal tages i brug til enkeltstående formål. \
-\
-Kommunen kan, jf. [§ 44, stk. 2](/administrative-bestemmelser/krav/40_46/), stille vilkår til ansøger i de tilfælde, hvor kommunen vurderer, at der skal tages visse forholdsregler, før byggeriet tages i brug. Det kan være en erklæring vedrørende sikkerheden, eller dokumentation for at tilgængelighedskravene er opfyldt og lignende.\
-\
-Det er præciseret i bygningsreglementets [§ 44, stk. 3](/administrative-bestemmelser/krav/40_46/), at bestemmelsen også finder anvendelse i byggesager, hvor der er tilknyttet en certificeret rådgiver. Det skal bemærkes, at en evt. erklæring om konstruktions- og brandtekniske forhold kan udarbejdes af en kompetent rådgiver, som ikke behøver at være den certificerede rådgiver, hvis en sådan er tilknyttet projektet.\
-\
-Den certificerede rådgiver, der er tilknyttet sagen, kan dog udarbejde en sådan erklæring, men dette vil i så fald ikke være en del af den certificeredes virke.\
-\
+Bygningsreglementet stiller krav om ibrugtagningstilladelse for byggearbejder, som kræver byggetilladelse. Disse byggearbejder må ikke tages i brug, før der er givet tilladelse hertil fra kommunen.
+
+Kommunen kan dog give tilladelse, jf. [§ 44](/administrative-bestemmelser/krav/40_46/), til, at byggeri kan tages helt eller delvist i brug, selvom byggearbejdet endnu ikke er afsluttet. Det kan f.eks. være, hvor der er tale om et større byggeri, hvor dele står færdigt og kan tages i brug, eller hvor byggeriet skal tages i brug til enkeltstående formål.
+
+Kommunen kan, jf. [§ 44, stk. 2](/administrative-bestemmelser/krav/40_46/), stille vilkår til ansøger i de tilfælde, hvor kommunen vurderer, at der skal tages visse forholdsregler, før byggeriet tages i brug. Det kan være en erklæring vedrørende sikkerheden, eller dokumentation for at tilgængelighedskravene er opfyldt og lignende.
+
+Det er præciseret i bygningsreglementets [§ 44, stk. 3](/administrative-bestemmelser/krav/40_46/), at bestemmelsen også finder anvendelse i byggesager, hvor der er tilknyttet en certificeret rådgiver. Det skal bemærkes, at en evt. erklæring om konstruktions- og brandtekniske forhold kan udarbejdes af en kompetent rådgiver, som ikke behøver at være den certificerede rådgiver, hvis en sådan er tilknyttet projektet.
+
+Den certificerede rådgiver, der er tilknyttet sagen, kan dog udarbejde en sådan erklæring, men dette vil i så fald ikke være en del af den certificeredes virke.
+
 Det skal pointeres, at det er bygningsejer, der er ansvarlig for, at byggeriet er lovligt og kan tages i brug. Det er derfor også bygningsejer, der skal dokumentere, at vilkår, jf. [§ 44, stk. 2](/administrative-bestemmelser/krav/40_46/), er opfyldt og dokumentation herfor er fremsendt til kommunens sagsbehandling. Såfremt denne dokumentation ikke opfylder de stillede vilkår, er det en sag mellem bygningsejer og kommunen.
 
   [?](../primitive-bygninger/)
 
 ### Spørgsmål og svar om primitive bygninger (09-01-2024)
 
-\

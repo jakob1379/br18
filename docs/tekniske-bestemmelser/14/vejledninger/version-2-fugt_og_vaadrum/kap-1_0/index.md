@@ -1,13 +1,11 @@
 # Fugt og vådrum (§ 334 - § 339)
 
-
 ## Se alle vejledninger om Fugt og vådrum (§ 334 - § 339)
 
 - [Spørgsmål og svar om fugt og vådrum](../../qa/)
 - [Bygningsreglementets vejledning om fugt og vådrum](../)
 
 ## Bygningsreglementets vejledning om fugt og vådrum
-
 
 ### Generelt om fugt og vådrum
 
@@ -21,8 +19,6 @@ Kondens på kolde indvendige overflader opstår sædvanligvis som følge af util
 
 Visse bygningstyper, som for eksempel svømmehaller, har forhøjede fugtpåvirkninger. Beskyttelsen mod fugt skal derfor i disse bygninger have ekstra fokus.
 
-\
-
 1.2.
 
 Det skal sikres, at konstruktionerne ved indbygning ikke har et fugtindhold, der medfører risiko for vækst af skimmelsvamp. Ligeledes skal det sikres, at konstruktionerne ikke opfugtes i byggefasen eller at der indbygges materialer med synlig skimmelvækst.
@@ -35,13 +31,13 @@ Der skal træffes tilstrækkelige tiltag til at sikre, at bygningen er beskyttet
 
 En måde at beskytte bygningen mod indtrængen af overfladevand, er at sikre, at der er fald på terrænet væk fra bygningen eller ved at sikre, at den del af bygningen der kan blive udsat for påvirkning af overfladevand kan modstå denne påvirkning.
 
-### 
+###
 
 !
 
 Måder at beskytte mod overfaldevand
 
-### 
+###
 
 !
 
@@ -51,9 +47,7 @@ Tiltag til at sikre mod fugt fra undergrunden
 
 Det er vigtigt for overholdelse af kravet, at regn og smeltevand fra sne føres væk fra bygningen. Det betyder bl.a. at taget skal udføres med tilstrækkelig hældning til at sikre, at vandet føres væk fra bygningen. Hvis hældningen på tagfladen er større end 1:40 svarende til 2,5 cm pr. m, vil vand fra tage normalt kunne løbe af på forsvarlig vis. Tagvand skal desuden via tagrender og/eller tagnedløb ledes til afløb, så vandet ikke fugtbelaster facaden. I visse tilfælde kan tagrender udelades ved bygninger med særlig fri beliggenhed, herunder sommerhuse samt ved garager, udhuse og lignende mindre bygninger, forudsat at tagvandet ikke afledes til gene for vejarealer eller nabogrunde. Tilsvarende kan tagrender udelades ved bygninger med særlig traditionel byggeskik, der tilsiger dette. Der skal dog tages særligt hensyn til overfladevand i forhold til begrænsning af skader på bygning og miljø.
 
-\
-
-### 
+###
 
 !
 
@@ -75,4 +69,3 @@ Spildevandstilladelser
 
 ### Vådrum
 
-\

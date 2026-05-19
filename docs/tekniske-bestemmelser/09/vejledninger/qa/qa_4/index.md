@@ -1,6 +1,5 @@
 # Bygningens indretning (§ 196 - § 241)
 
-
 ## Se alle vejledninger om Bygningens indretning (§ 196 - § 241)
 
 - [Spørgsmål og svar om bygningens indretning](../)
@@ -33,4 +32,3 @@
 
 ### Hemse
 
-\

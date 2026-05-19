@@ -1,13 +1,11 @@
 # Legepladser mv. (§ 358 - § 367)
 
-
 ## Se alle vejledninger om Legepladser mv. (§ 358 - § 367)
 
 -
 - [Bygningsreglementets vejledning om legepladser mv.](../)
 
 ## Bygningsreglementets vejledning om legepladser mv.
-
 
 ### Rettelsesblad til vejledning om legepladser (1. januar 2025)
 
@@ -43,12 +41,12 @@ Legepladser mv. kan være undtaget fra indplacering i konstruktionsklasse efter 
 
 Hvorvidt der *ikke* medføres en risiko for personskade ved svigt, kan bl.a. afhænge af følgende faktorer:
 
-• Der er ikke risiko for nedfald af materialer ovenfra ved svigt.\
-\
-• Der er ikke risiko for at komme i klemme ved svigt.\
-\
-• Der er ikke risiko for at vind eller andre belastninger påvirker stabiliteten.\
-\
+• Der er ikke risiko for nedfald af materialer ovenfra ved svigt.
+
+• Der er ikke risiko for at komme i klemme ved svigt.
+
+• Der er ikke risiko for at vind eller andre belastninger påvirker stabiliteten.
+
 • Legepladsredskabet har en tilpas fri faldhøjde ved svigt.
 
 Ovenstående liste er eksempler og er ikke udtømmende.
@@ -71,4 +69,3 @@ I forhold til fri faldhøjde, betragtes et legepladsredskab med en fri faldhøjd
 
 ### Drift, kontrol og vedligehold
 
-\

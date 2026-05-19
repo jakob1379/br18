@@ -1,6 +1,5 @@
 # Dokumentation af brandforhold (§ 506 - § 522)
 
-
 ## Se alle vejledninger om Dokumentation af brandforhold (§ 506 - § 522)
 
 - [Spørgsmål og svar](../spoersgmaal-og-svar/)
@@ -10,7 +9,5 @@
 
 ## Vejledning til kapitel 29 - Dokumentation af brandforhold
 
-
 ### Vejledning til kapitel 29 - Dokumentation af brandforhold
 
-\

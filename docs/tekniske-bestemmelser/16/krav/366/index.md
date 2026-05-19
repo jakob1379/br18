@@ -1,24 +1,68 @@
 # Legepladser mv. (§ 358 - § 367)
 
-[§ 358](../358/)
+## § 358 Legepladser mv. {#e5b70fb8-9e01-4761-a722-71dc702c5f5b}
 
-## Legepladser mv.
+Projektering, udførelse, drift og vedligehold af legepladsredskaber og -underlag, multisportsudstyr, motionsredskaber i det fri, skateboardbaner og lignende, der er offentligt tilgængelige, skal ske, så der opnås tilfredsstillende sikkerhed mod personskader.
 
-[§ 359](../359/)
+## § 359 Legepladsredskaber- og underlag {#e46aa162-8b77-41eb-a53b-d7eccd0145d8}
 
-## Legepladsredskaber- og underlag
+Legepladsredskaber skal projekteres i overensstemmelse med:
 
-[§ 360 - § 365](../360_365/)
+1.  DS/EN 1176-1 Legepladsredskaber og -underlag - Del 1: Generelle sikkerhedskrav og prøvningsmetoder*.*
+2.  DS/EN 1176-2 Legepladsredskaber og -underlag - Del 2: Gynger - Supplerende specifikke sikkerhedskrav og prøvningsmetoder*.*
+3.  DS/EN 1176-3 Legepladsredskaber og -underlag - Del 3: Rutsjebaner - Supplerende specifikke sikkerhedskrav og prøvningsmetoder*.*
+4.  DS/EN 1176-4 Legepladsredskaber og -underlag - Del 4: Svævebaner - Supplerende specifikke sikkerhedskrav og prøvningsmetoder*.*
+5.  DS/EN 1176-5 Legepladsredskaber og -underlag - Del 5: Karruseller - Supplerende specifikke sikkerhedskrav og prøvningsmetoder*.*
+6.  DS/EN 1176-6 Legepladsredskaber og -underlag - Del 6: Vipper - Supplerende specifikke sikkerhedskrav og prøvningsmetoder*.*
+7.  DS/EN 1176-10 Legepladsredskaber og -underlag - Del 10: Fuldstændigt lukkede legeredskaber - Supplerende specifikke sikkerhedskrav og prøvningsmetoder.
+8.  DS/EN 1176-11 Legepladsredskaber og -underlag - Del 11: Tredimensionelle klatrenet - Supplerende specifikke sikkerhedskrav og prøvningsmetoder.
+9.  DS/EN 1177 Stødabsorberende legepladsunderlag - Bestemmelse af den kritiske faldhøjde.
 
-## Skateboardbaner, parkourredskaber, oppustelige legeredskaber og kunstige klatrevægge og motionsredskaber i det fri
+## § 360 - § 365 Skateboardbaner, parkourredskaber, oppustelige legeredskaber og kunstige klatrevægge og motionsredskaber i det fri {#6da6fa7f-4f46-44a4-8d77-100ec06e97d6}
 
-[§ 366](./)
+### § 360 {#paragraf-360}
 
-## Undtagelser
+Skateboardbaner, parkourredskaber og frit tilgængelige multisportudstyr skal projekteres i overensstemmelse med:
 
-§ 359 til § 364 kan fraviges, hvis det på anden vis sikres og dokumenteres, at der er tilstrækkelig sikkerhed mod personskader som beskrevet i [§ 358](/tekniske-bestemmelser/16/krav/358/).\
-[§ 367](../367/)
+1) DS/EN 14974 + A l Sportsudstyr - Faciliteter for brugere af rullesportsudstyr (f.eks. inlinere, rulleskøjter, skateboard, BMX-cykler) - Sikkerhedskrav og prøvningsmetoder.
 
-## Drift, kontrol og vedligehold
+2) DS/EN 16899 Sport- og fritidsudstyr - Parkourredskaber - Sikkerhedskrav og prøvningsmetoder.
 
-\
+3) DS/EN 15312 + Al Frit tilgængeligt multisportsudstyr - Krav, herunder sikkerhedskrav og prøvningsmetoder.
+
+### § 361 {#paragraf-361}
+
+Oppustelige legeredskaber skal projekteres og udføres i overensstemmelse med DS/EN 14960-1 Oppustelige legeredskaber - Del 1: Sikkerhedskrav og prøvningsmetoder.
+
+*Stk. 2.* Oppustelige hoppepuder skal projekteres og udføres i overensstemmelse med DS/EN 14960-2 Oppustelige legeredskaber - Del 2: Yderligere sikkerhedskrav til oppustelige hoppepuder beregnet til permanent installation.
+
+### § 362 {#paragraf-362}
+
+Kunstige klatrevægge skal projekteres og udføres i overensstemmelse med:
+
+1.  DS/EN 12572-1 Kunstige klatrevægge - Del 1: Sikkerhedskrav og prøvningsmetoder for kunstige klatrevægge med sikringspunkter.
+2.  DS/EN 12572-2 Kunstige klatrevægge - Del 2: Sikkerhedskrav og prøvningsmetoder til boulderstrukturer.
+3.  DS/EN 12572-3 Kunstige klatrevægge - Del 3: Sikkerhedskrav og prøvningsmetoder til klatregreb*.*
+
+### § 363 {#paragraf-363}
+
+Udendørs motionsredskaber skal projekteres og udføres i overensstemmelse med DS/EN 16630 Fastinstalleret udendørs fitnessudstyr -- Sikkerhedskrav og prøvningsmetoder.
+
+### § 364 {#paragraf-364}
+
+Motionsredskaber, der også anvendes som legepladsredskaber, skal projekteres, så redskabet og underlaget er egnede til den faktiske anvendelse.
+
+### § 365 {#paragraf-365}
+
+For legepladsredskaber og --underlag, multisportsudstyr, motionsredskaber i det fri, skateboardbaner og lignende, der ikke er omfattet af § 359 til § 363, skal det dokumenteres, at der opnås et sikkerhedsniveau, som beskrevet i § 358.
+
+## § 366 Undtagelser {#6541b307-0484-4112-8e6c-c6502c186513}
+
+§ 359 til § 364 kan fraviges, hvis det på anden vis sikres og dokumenteres, at der er tilstrækkelig sikkerhed mod personskader som beskrevet i § 358.
+
+## § 367 Drift, kontrol og vedligehold {#fb1966b1-3276-406c-b5cd-e7ee67bf06df}
+
+Drift, kontrol og vedligehold af offentligt tilgængelige legepladsredskaber og -underlag, motionsredskaber i det fri, skateboardbaner og lignende, skal ske, så de til enhver tid overholder de relevante bestemmelser i §§ 358-365.
+
+*Stk. 2.* Planlægning og udførsel af drift, kontrol og vedligehold, jf. stk. 1, kan ske efter principperne i DS/EN 1176-7 Legepladsredskaber og -underlag - Del 7: Vejledning til brug ved installation, inspektion, vedligeholdelse og drift, eller på anden vis, som sikrer overholdelse af stk. 1.
+

@@ -10,7 +10,9 @@ hide:
 
 ## Kontrol af dokumentation for bærende konstruktioner og brandforhold
 
-§ 523 Kontrol af dokumentation for bærende konstruktioner og brandforhold skal sikre, at dokumentationen lever op til sit formål, jf. [kapitel 28](../../) og [29](../../), og kontrol af udførelse skal sikre, at udførelsen sker i overensstemmelse med denne dokumentation.
+### § 523 {#paragraf-523}
+
+Kontrol af dokumentation for bærende konstruktioner og brandforhold skal sikre, at dokumentationen lever op til sit formål, jf. [kapitel 28](../../) og [29](../../), og kontrol af udførelse skal sikre, at udførelsen sker i overensstemmelse med denne dokumentation.
 
 *Stk. 2.* Kontrol af dokumentation, jf. [bilag 3, tabel 1](/bilag/b3/bilag_3/), skal gennemføres, og de ved kontrollen fundne afvigelser skal behandles inden dokumentation anvendes som grundlag for det videre arbejde. Dette omfatter ikke tredjepartskontrol. Kontrol af udførelse skal gennemføres, og de ved kontrollen fundne afvigelser skal behandles.
 
@@ -24,15 +26,21 @@ hide:
 
 *Stk. 7.* Mindre om- og tilbygninger, der omfatter et begrænset omfang af brandsikringstiltag, kan undtages for uafhængig kontrol af dokumentation af projektering af brandsikringstiltag, såfremt der foretages en fuld uafhængig kontrol af det udførte brandsikringstiltag på grundlag af dokumentation for design af brandforhold.
 
-§ 524 Der skal udføres kontrol af de bærende konstruktioner i overensstemmelse med DS/EN 1990 Projekteringsgrundlag for bærende konstruktioner, med tilhørende DS/EN 1990 DK NA og efter principperne i SBi-anvisning 271, Dokumentation og kontrol af bærende konstruktioner.
+### § 524 {#paragraf-524}
+
+Der skal udføres kontrol af de bærende konstruktioner i overensstemmelse med DS/EN 1990 Projekteringsgrundlag for bærende konstruktioner, med tilhørende DS/EN 1990 DK NA og efter principperne i SBi-anvisning 271, Dokumentation og kontrol af bærende konstruktioner.
 
 *Stk. 2.* Der skal udføres kontrol af de bærende konstruktioner i overensstemmelse med DS/EN 1990 Projekteringsgrundlag for bærende konstruktioner, med tilhørende DS/EN 1990 DK NA og efter principperne i vejledning til [kap. 30](/ovrige-bestemmelser/30/).
 
 *Stk. 3.* Stk. 2 træder i kraft den 1. april 2024. Samtidig ophæves stk. 1.
 
-§ 525 Der skal udføres kontrol af brandforhold for byggeri i overensstemmelse med bygningsreglementets vejledning til [kapitel 29](/ovrige-bestemmelser/29/) og 30.
+### § 525 {#paragraf-525}
 
-§ 526 Kontroltyper for kontrol af dokumentation for projektering af bærende konstruktioner og design af brandforhold omfatter:
+Der skal udføres kontrol af brandforhold for byggeri i overensstemmelse med bygningsreglementets vejledning til [kapitel 29](/ovrige-bestemmelser/29/) og 30.
+
+### § 526 {#paragraf-526}
+
+Kontroltyper for kontrol af dokumentation for projektering af bærende konstruktioner og design af brandforhold omfatter:
 
 1. Egenkontrol: Kontrol udført af samme person, som har udarbejdet dokumentationen.
 2. Uafhængig kontrol: Kontrol udført af person, der for byggeriet ikke har medvirket ved udarbejdelse af dokumentationen for design af byggeriets brandsikkerhed eller projektering af de bærende konstruktioner.
@@ -40,7 +48,9 @@ hide:
 
 *Stk. 2.* Fastlæggelse af kontroltyper for kontrol af dokumentation for bærende konstruktioner og brandforhold skal ske på baggrund af byggeriets indplacering i konstruktions- og brandklasse i overensstemmelse med [bilag 3, tabel 1](/bilag/b3/bilag_3/).
 
-[§ 526 a](/ovrige-bestemmelser/30/krav/) Kontroltyper for kontrol af udførelse af de bærende konstruktioner og projektering henholdsvis udførelse af brandsikringstiltag omfatter:
+### § 526 a {#paragraf-526a}
+
+Kontroltyper for kontrol af udførelse af de bærende konstruktioner og projektering henholdsvis udførelse af brandsikringstiltag omfatter:
 
 1. Egenkontrol: Kontrol udført af samme person, som har projekteret henholdsvis udført brandsikringstiltag eller udført de bærende konstruktioner.
 2. Uafhængig kontrol: Kontrol udført af person, der for byggeriet ikke har medvirket ved projektering henholdsvis udførelsen af brandsikringstiltag eller udførelsen af de bærende konstruktioner.
@@ -48,7 +58,9 @@ hide:
 
 *Stk. 2.* Fastlæggelse af kontroltyper for kontrol af udførelse af bærende konstruktioner og projektering og udførelse af brandsikringstiltag skal ske på baggrund af byggeriets indplacering i konstruktions- og brandklasse i overensstemmelse med [bilag 3, tabel 1](/bilag/b3/bilag_3/).
 
-§ 527 Fastlæggelse af kontrolniveau for kontrol af dokumentation for bærende konstruktioner skal ske på baggrund af byggeriets indplacering i konstruktionsklasse i overensstemmelse med [bilag 3, tabel 2](/bilag/b3/bilag_3/)a og 3. Fastlæggelse af kontrolniveau for kontrol af dokumentation af brandforhold skal ske på baggrund af byggeriets indplacering i brandklasse i overensstemmelse med [bilag 3, tabel 4](/bilag/b3/bilag_3/)a og 5.
+### § 527 {#paragraf-527}
+
+Fastlæggelse af kontrolniveau for kontrol af dokumentation for bærende konstruktioner skal ske på baggrund af byggeriets indplacering i konstruktionsklasse i overensstemmelse med [bilag 3, tabel 2](/bilag/b3/bilag_3/)a og 3. Fastlæggelse af kontrolniveau for kontrol af dokumentation af brandforhold skal ske på baggrund af byggeriets indplacering i brandklasse i overensstemmelse med [bilag 3, tabel 4](/bilag/b3/bilag_3/)a og 5.
 
 *Stk. 2.* Der foretages kontrol på følgende niveauer:
 
@@ -68,7 +80,9 @@ hide:
 
 *Stk. 8.* Fastlæggelse af kontrolniveau for udførelse af brandsikringstiltag skal ske i overensstemmelse med [bilag 3, tabel 4](/bilag/b3/bilag_3/)b, samt vejledningen til bygningsreglementet [kapitel 30](/ovrige-bestemmelser/30/).
 
-§ 528 Den uafhængige kontrollant skal have den fornødne kompetence og overblik inden for det faglige område, som dokumentationen omfatter.
+### § 528 {#paragraf-528}
+
+Den uafhængige kontrollant skal have den fornødne kompetence og overblik inden for det faglige område, som dokumentationen omfatter.
 
 *Stk. 2.* Tredjepartskontrollen, jf. [§ 526](/ovrige-bestemmelser/30/krav/523_528/), skal foretages af en person, der er certificeret til tredjepartskontrol af dokumentation for de bærende konstruktioner eller brandforhold, jf. [bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet](https://www.retsinformation.dk/eli/lta/2019/674).
 

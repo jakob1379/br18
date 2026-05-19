@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -37,7 +40,7 @@
 
 Det er vigtigt, at bygningsreglementets bestemmelser om brandforhold overholdes ved opførelse af sekundær bebyggelse på grunden. Dette er afgørende for, at der opnås og opretholdes tilfredsstillende sikkerhed mod brand og brandspredning til andre bygninger på egen og omkringliggende grunde.
 
-Ved sekundær bebyggelse skelnes der mellem byggeri, der bygges sammen med den primære bebyggelse (fx et enfamiliehus), og byggeri, der ikke er bygget sammen. Læs mere herom i afsnit 6 om integrerede og sammenbyggede bygninger. 
+Ved sekundær bebyggelse skelnes der mellem byggeri, der bygges sammen med den primære bebyggelse (fx et enfamiliehus), og byggeri, der ikke er bygget sammen. Læs mere herom i afsnit 6 om integrerede og sammenbyggede bygninger.
 
 Det kan på samme måde have betydning for brandsikringen, hvis man bygger tæt på skel. Konkret kan det eksempelvis have betydning for, hvilke materialer, som du skal bygge med, og om du skal lave en brandvæg mod skel for at forhindre brandspredning.
 
@@ -61,7 +64,8 @@ Vi henviser i øvrigt til Bygningsreglementets vejledning til [kapitel 5](/tekni
 
 **Eksempel 3:**
 
-*På en sommerhusgrund placeres et udhus på 32 m2 i en afstand af 2,5 m fra skel og 2,5 m fra sommerhuset. Da udhusets afstand til skel er 2,5 m skal der som udgangspunkt ikke tages særligt hensyn til brandforholdene. Bemærk, at der er særlige afstandskrav for sekundær bebyggelse i tilknytning til sommerhuse. Læs mere herom i afsnit 4.1.3.\
+*På en sommerhusgrund placeres et udhus på 32 m2 i en afstand af 2,5 m fra skel og 2,5 m fra sommerhuset. Da udhusets afstand til skel er 2,5 m skal der som udgangspunkt ikke tages særligt hensyn til brandforholdene. Bemærk, at der er særlige afstandskrav for sekundær bebyggelse i tilknytning til sommerhuse. Læs mere herom i afsnit 4.1.3.
+
 Det er en forudsætning, at bygningsreglementet, deklarationer og anden lovgivning overholdes.*
 
   [4.0.](../4_0_bebyggelsesregulerende/)
@@ -112,4 +116,3 @@ Det er en forudsætning, at bygningsreglementet, deklarationer og anden lovgivni
 
 ### Hvad skal man huske?
 
-\

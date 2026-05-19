@@ -1,13 +1,15 @@
-# Afløb (§ 69 - § 81)
+# Afløb (§ 69 - §
 
+81)
 
-## Se alle vejledninger om Afløb (§ 69 - § 81)
+## Se alle vejledninger om Afløb (§ 69 - §
+
+81)
 
 - [Spørgsmål og svar om afløb](./)
 - [Bygningsreglementets vejledning om afløb](../generel_vejledning/)
 
 ## Spørgsmål og svar om afløb
-
 
 ### Spørgsmål og svar om afløb
 
@@ -21,4 +23,3 @@ Der er kommet en nyere udgave af DS 436, end den bygningsreglementet peger på. 
 
 Det fremgår af bygningsreglementet, at man skal følge DS 436 fra 1993. I denne norm fremgår det, at der kan afviges fra normens krav, hvis det dokumenteres, at afvigelsen er forsvarlig. Det er SBST's vurdering, at anvendelsen af den nyeste udgave af DS 436 vil være en forsvarlig afvigelse.
 
-\

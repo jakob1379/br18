@@ -1,6 +1,5 @@
 # Dokumentation af bærende konstruktioner (§ 494 - § 505)
 
-
 ## Se alle vejledninger om Dokumentation af bærende konstruktioner (§ 494 - § 505)
 
 - [Vejledning til kapitel 28 - Dokumentation af bærende konstruktioner](../../vejledning-til-kapitel-28-dokumentation-af-baerende-konstruktioner)
@@ -8,7 +7,6 @@
 - [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../../temasiden-brandogkonstruktioner-dk)
 
 ## SBi-anvisninger
-
 
 ### SBi-anvisninger
 
@@ -36,4 +34,3 @@ Denne anvisning knytter sig til Bygningsreglement 2018 (BR18) og omhandler dokum
 
 #### Gå til anvisningen [](https://sbi.dk/anvisninger/Pages/271-Dokumentation-af-baerende-konstruktioner-3.aspx "SBi Anvisning 271"){target="_blank"}
 
-\

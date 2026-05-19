@@ -1,6 +1,5 @@
 # Brand (§ 82 - § 158)
 
-
 ## Se alle vejledninger om Brand (§ 82 - § 158)
 
 - [Spørgsmål og svar](../../../spoergsmaal-og-svar)
@@ -27,20 +26,15 @@
 
 ## Bilag 13 - Udfærdigelse af planer i forhold til brand
 
-
 ### Bilag 13 til Bygningsreglementets vejledning til kap. 5 -- Brand
 
 [Åbn Bilag 13: Udfærdigelse af planer i forhold til brand](../../../../../../media/rbfo0dyz/bilag-13-udfrdigelse-af-planer-i-forhold-til-brand-ver-11-a.pdf "Bilag 13 Udfrdigelse af planer i forhold til brand ver 11")
 
 Version 1.1 (04.03.2021)
 
- 
-
 [Åbn Bilag 13: udfærdigelse af planer i forhold til brand med ændringsmarkeringer](../../../../../../media/uxwhdrm2/bilag-13-udfrdigelse-af-planer-i-forhold-til-brand-ver-11-med-ndringsmarkeringer-a.pdf "Bilag 13 Udfrdigelse af planer i forhold til brand ver 11 med ndringsmarkeringer")
 
 Version 1.1 (04.03.2021)
-
- 
 
 [Åbn Bilag 13a: Signaturer i PDF format](../../../../../../media/3usn3rcb/2020-06-12-bilag-13a-signaturer-i-pdf-format-a.pdf "2020-06-12 Bilag 13a Signaturer i PDF format"){rel="noopener" target="_blank"}
 
@@ -50,4 +44,3 @@ Version 1.1 (04.03.2021)
 
 [Åbn Bilag 13d: Kopi af planer fra bilag 13](../../../../../../media/iisjvtco/2020-06-12-bilag-13d-kopi-af-planer-fra-bilag-13-a.pdf "2020-06-12 Bilag 13d Kopi af planer fra bilag 13"){rel="noopener" target="_blank"}
 
-\

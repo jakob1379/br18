@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -53,12 +56,13 @@ Hvis sekundær bebyggelse opføres nærmere skel mod nabo og sti end 2,5 meter, 
 
 • De sider, der vender mod skel, må ikke have en samlet længde på mere end 12 meter. Det er alene bygningens længste side, der medregnes. Også i dette tilfælde er det den samlede længde af al sekundær bebyggelse på grunden, der er afgørende for, om kravet er overholdt.
 
-• Der må ikke udføres vinduer, døre eller andre åbninger i den side, der vender mod skel mod nabo og sti. 
+• Der må ikke udføres vinduer, døre eller andre åbninger i den side, der vender mod skel mod nabo og sti.
 
-• Tagvand skal holdes på egen grund. Man skal altså sørge for, at tagvandet ikke \
-løber ind på naboens grund.\
-\
-Hvis ovenstående betingelser overholdes, er det som udgangspunkt tilladt at bygge nærmere skel end 2,5 meter. Sommerhuse er selvstændigt reguleret -- se afsnit 4.1.3 nedenfor. Er der tvivl om, hvorvidt byggeriet kan opfylde alle betingelserne, kan man kontakte kommunen for vejledning. 
+• Tagvand skal holdes på egen grund. Man skal altså sørge for, at tagvandet ikke
+
+løber ind på naboens grund.
+
+Hvis ovenstående betingelser overholdes, er det som udgangspunkt tilladt at bygge nærmere skel end 2,5 meter. Sommerhuse er selvstændigt reguleret -- se afsnit 4.1.3 nedenfor. Er der tvivl om, hvorvidt byggeriet kan opfylde alle betingelserne, kan man kontakte kommunen for vejledning.
 
 **Eksempel 1:**
 
@@ -104,4 +108,3 @@ Hvis ovenstående betingelser overholdes, er det som udgangspunkt tilladt at byg
 
 ### Hvad skal man huske?
 
-\

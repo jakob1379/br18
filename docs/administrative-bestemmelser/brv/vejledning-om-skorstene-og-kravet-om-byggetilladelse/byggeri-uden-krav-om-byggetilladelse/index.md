@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -23,38 +26,25 @@
 
 ## Vejledning om skorstene og kravet om byggetilladelse
 
-
 ### Skorstene og kravet om byggetilladelse
-
 
 ### @@PROTECTED_17@@s anvendelsesområde
 
-
 ### Krav om byggetilladelse
-
 
 ### Byggeri uden krav om byggetilladelse
 
 BR18 § 5 indeholder væsentlige undtagelser fra ovenstående, som medfører, at aftrækssystemer i mange tilfælde ikke kræver byggetilladelse. Det er dog en forudsætning, at de relevante krav i bygningsreglementet overholdes.
 
-   
-
 BR18, [kap. 1](/administrative-bestemmelser/), [§ 5, stk. 1, nr. 3](/administrative-bestemmelser/krav/4_6/), bestemmer, at ombygninger af enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse kan udføres uden ansøgning om byggetilladelse, dog under forudsætning af, at de relevante krav i bygningsreglementet overholdes. Ombygningen eller forandringen må ikke medføre en væsentlig anvendelsesændring eller en udvidelse af etagearealet.
-
- 
 
 BR18, [kap. 1](/administrative-bestemmelser/), [§ 5, stk. 1, nr. 4](/administrative-bestemmelser/krav/4_6/), bestemmer endvidere, at ombygninger og andre forandringer i eksisterende byggeri, som ikke ændrer eller påvirker de bærende konstruktioner, forudsætningerne for bygningens brandstrategi samt bygningens fælles installationer, ligeledes kan udføres uden ansøgning om byggetilladelse. De relevante krav i bygningsreglementet skal dog overholdes.
 
-
 ### Byggesagsbehandling
-
 
 ### Afslutning af en byggesag
 
-
 ### Genibrugtagning
-
 
 ### Kommunen som påtalepligtig
 
-\

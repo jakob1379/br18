@@ -1,6 +1,5 @@
 # Konstruktioner (§ 340 - § 357)
 
-
 ## Se alle vejledninger om Konstruktioner (§ 340 - § 357)
 
 - [Bygningsreglementets vejledning om konstruktioner](../)
@@ -9,9 +8,7 @@
 
 ## Bygningsreglementets vejledning om konstruktioner
 
-
 ### Rettelsesblad til Bygningsreglementets vejledning om konstruktioner omhandlende bæreevnevurdering af eksisterende konstruktioner (24.01.2024)
-
 
 ### Forord
 
@@ -41,8 +38,6 @@ En afvigelse fra standarderne i de nævnte bestemmelser kræver som udgangspunkt
 
 For dokumentation af bærende konstruktioner henvises der til [*bygningsreglementet 2018, kap. 28.*](../../../../../ovrige-bestemmelser/28/krav/494_505/){rel="noopener" target="_blank"}
 
- 
-
 [3.0.](../kap-3_0/)
 
 ### Drift, kontrol og vedligehold
@@ -67,4 +62,3 @@ For dokumentation af bærende konstruktioner henvises der til [*bygningsreglemen
 
 ### Tagbrønde og tagnedløb
 
-\

@@ -1,6 +1,5 @@
 # Brand (§ 82 - § 158)
 
-
 ## Se alle vejledninger om Brand (§ 82 - § 158)
 
 - [Spørgsmål og svar](../../../spoergsmaal-og-svar)
@@ -27,7 +26,6 @@
 
 ## Bilag 2 - Præ-accepterede løsninger - Etageboligbyggeri
 
-
 ### Bilag 2 til Bygningsreglementets vejledning til kap. 5 -- Brand
 
 [Åbn Bilag 2: Præ-accepterede løsninger for etageboligbyggeri version 1.4](../../../../../../media/zj1pprxq/bilag-2-etagebyggeri-ver-14-20211029-a.pdf "Bilag 2 Etagebyggeri ver 14 20211029")
@@ -46,4 +44,3 @@ Version 1.3 (17.06.2021)
 
 Version 1.1 (01.07.2020)
 
-\

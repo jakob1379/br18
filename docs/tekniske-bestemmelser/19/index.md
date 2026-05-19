@@ -10,7 +10,7 @@ hide:
 
 ## § 385 - § 386 Termisk indeklima og installationer til varme- og køleanlæg {#s385-386}
 
-### § 385 {#p385}
+### § 385 {#p385 #paragraf-385}
 
 Bygninger skal have et sundheds- og komfortmæssigt tilfredsstillende termisk indeklima i forhold til anvendelsen.
 
@@ -21,7 +21,7 @@ Bygninger skal have et sundheds- og komfortmæssigt tilfredsstillende termisk in
 3. Der ikke sker skader på personer, bygningsdele eller installationer.
 4. Der ikke sker unødigt forbrug af energi.
 
-### § 386 {#p386}
+### § 386 {#p386 #paragraf-386}
 
 I rum, hvor personer opholder sig i længere tid, skal det sikres, at der under den tilsigtede brug og aktivitet kan opretholdes et sundheds- og komfortmæssigt tilfredsstillende termisk indeklima.
 
@@ -29,7 +29,7 @@ I rum, hvor personer opholder sig i længere tid, skal det sikres, at der under 
 
 ## § 387 - § 389 Generelt for termisk indeklima {#s387-389}
 
-### § 387 {#p387}
+### § 387 {#p387 #paragraf-387}
 
 Det termiske indeklima bestemmes af luftens og overfladernes temperatur og luftens hastighed, turbulensintensitet og fugtighed. Ud fra sammenhængen mellem det termiske indeklima og den menneskelige aktivitet og påklædning kan den termiske komfort bestemmes.
 
@@ -45,11 +45,11 @@ Dokumentation for det termiske indeklima kan ske på grundlag af simulering af f
 
 For vurdering af hvordan det termiske indeklima vil blive påvirket af klimaforandringer, kan der foretages simulering af forholdene i de kritiske rum på grundlag af Typical Meteorological Year, TMY 2050s og TMY 2090s, hvilket er to fremskrivninger af klimaet for henholdsvis 2050'erne og 2090'erne som typiske meteorologiske år.
 
-### § 388 {#p388}
+### § 388 {#p388 #paragraf-388}
 
 Brugsvandsanlæg skal dimensioneres og udføres, så risikoen for vækst af legionellabakterier i det varme vand minimeres. Dimensionering og udførelse skal ske som anvist i DS 469 Varme- og køleanlæg i bygninger og i overensstemmelse med [kapitel 21](/tekniske-bestemmelser/21/).
 
-### § 389 {#p389}
+### § 389 {#p389 #paragraf-389}
 
 Varme- og køleinstallationer skal projekteres og udføres, så:
 

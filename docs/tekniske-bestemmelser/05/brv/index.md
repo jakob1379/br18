@@ -7,7 +7,6 @@ title: Brand (§ 82 - § 158) – Vejledning
 [Krav](../){ .md-button }
 [Vejledning](./){ .md-button .md-button--primary }
 
-
 ## Se alle vejledninger om Brand (§ 82 - § 158)
 
 - [Spørgsmål og svar](./)
@@ -32,4 +31,3 @@ title: Brand (§ 82 - § 158) – Vejledning
 - [Oversigt over Bygningsreglementets vejledninger til kapitel 5 -- Brand, inkl. udgivelsesdatoer](./)
 - [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](./)
 
-\

@@ -1,6 +1,5 @@
 # Vand (§ 403 - § 419)
 
-
 ## Se alle vejledninger om Vand (§ 403 - § 419)
 
 - [Vejledning om brug af regnvand](../../brug-af-regnvand/)
@@ -11,10 +10,9 @@
 
 ## Vejledning om legionella
 
-
 ### Link til vejledning om legionella
-
 
 ### Infopjece om legionella
 
-[Åbn Infopjece om legionella](../../../../../media/wuac5lhm/2018_12_03_legionella_pjece-a.pdf)\
+[Åbn Infopjece om legionella](../../../../../media/wuac5lhm/2018_12_03_legionella_pjece-a.pdf)
+

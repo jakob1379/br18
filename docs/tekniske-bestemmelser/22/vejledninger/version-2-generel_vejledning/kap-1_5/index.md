@@ -1,6 +1,5 @@
 # Ventilation (§ 420 - § 452)
 
-
 ## Se alle vejledninger om Ventilation (§ 420 - § 452)
 
 - [Bygningsreglementets vejledning om ventilation](../)
@@ -8,7 +7,6 @@
 - [Spørgsmål og svar](../../sporgsmaal_svaar/)
 
 ## Bygningsreglementets vejledning om ventilation
-
 
 ### Forord
 
@@ -34,12 +32,12 @@
 
 *Varmegenvinding*
 
-Ventilationsanlæg med indblæsning og udsugning skal opfylde kravene til varmegenvinding i EU-forordning nr. 1253/2014. Kravet i EU-forordningen svarer til 73 pct. temperaturvirkningsgrad for alle typer varmegenvindingssystemer på nær væskekoblede batterier, hvor kravet er 68 pct.\
-\
-Bygningsreglementet giver mulighed for at benytte væskekoblede batterier, hvis adskillelse af luftstrømmene er afgørende for opretholdelse af rummenes funktion, for eksempel som følge af forureninger i udsugningsluften, der ikke må sprede sig til indblæsningen. Det gør sig for eksempel gældende i mange laboratorier og lignende.\
-\
-Recirkulation anses ikke for et alternativ til et varmegenvindingsanlæg.\
-\
+Ventilationsanlæg med indblæsning og udsugning skal opfylde kravene til varmegenvinding i EU-forordning nr. 1253/2014. Kravet i EU-forordningen svarer til 73 pct. temperaturvirkningsgrad for alle typer varmegenvindingssystemer på nær væskekoblede batterier, hvor kravet er 68 pct.
+
+Bygningsreglementet giver mulighed for at benytte væskekoblede batterier, hvis adskillelse af luftstrømmene er afgørende for opretholdelse af rummenes funktion, for eksempel som følge af forureninger i udsugningsluften, der ikke må sprede sig til indblæsningen. Det gør sig for eksempel gældende i mange laboratorier og lignende.
+
+Recirkulation anses ikke for et alternativ til et varmegenvindingsanlæg.
+
 I forhold til varmegenvinding fra ventilationsanlæg til én bolig er der ikke angivet metode i bygningsreglementet, hvilket giver mulighed for at benytte enten DS/EN 308 eller DS/EN 13141-7. Den sidste benyttes af EcoDesign, hvorfor det vil være den normale at benytte.
 
 *Specifikt elforbrug til lufttransport*
@@ -68,8 +66,6 @@ Denne standard specificerer krav til ventilation og ventilationssystemer i bygni
 
 Kravet om præcision af målere er opfyldt ved anvendelse af typegodkendte målere eller målere med en tilsvarende nøjagtighed.
 
- 
-
 [1.6.](../kap-1_6/)
 
 ### Ventilation i beboelsesbygninger
@@ -90,4 +86,3 @@ Kravet om præcision af målere er opfyldt ved anvendelse af typegodkendte måle
 
 ### Drift og vedligehold
 
-\

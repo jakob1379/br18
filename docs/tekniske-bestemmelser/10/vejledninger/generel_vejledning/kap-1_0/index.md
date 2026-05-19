@@ -19,9 +19,7 @@ Som alternativ til elevatorer kan der under visse omstændigheder anvendes løft
 
 Reglerne for løfteplatforme fremgår af *EF direktiv 2006/42/EF af 17. maj 2006 (Maskindirektivet),* der i Danmark er implementeret gennem *bekendtgørelse nr. 693 af 10/06/2013 om indretning m.v. af maskiner.*
 
-Anvendelsen af løfteplatforme skal ses som et muligt alternativ når det ikke er muligt at installere en elevator, ved for eksempel ombygninger af eksisterende ejendomme. Løfteplatforme som alternativ til elevator skal ikke anvendes som løsning i nybyggeri. 
-
-\
+Anvendelsen af løfteplatforme skal ses som et muligt alternativ når det ikke er muligt at installere en elevator, ved for eksempel ombygninger af eksisterende ejendomme. Løfteplatforme som alternativ til elevator skal ikke anvendes som løsning i nybyggeri.
 
 [1.0.](./)
 
@@ -46,8 +44,6 @@ Ifølge bygningsreglementet 2018, § 244 skal der i nybyggeri med 3 etager og de
 
 Kravet om elevatorer gælder ikke for fritliggende enfamiliehuse, rækkehuse og dobbelthuse og lignende, der alene anvendes til boligformål, samt sommerhuse i sommerhusområder, jf. bygningsreglementet 2018, [§ 243](/tekniske-bestemmelser/10/krav/).
 
-\
-
 Tilbygning og ombygning
 
 Ifølge bygningsreglementet 2018, § 247, er ombygninger og mindre tilbygninger til eksisterende boligbebyggelse ikke omfattet af krav om etablering af elevator.
@@ -56,23 +52,21 @@ Ombygninger i eksisterende boligbyggeri omfatter for eksempel inddragelse af en 
 
 Mindre tilbygninger omfatter for eksempel etablering af tårne til bade- og wc-rum, køkkener mv. i tilknytning til eksisterende boliger.
 
-Der henvises til *Bekendtgørelse nr. 1250 af 13/12/2004 om tilgængelighedsforanstaltninger i forbindelse med ombygninger i eksisterende byggeri*, der omhandler tilgængelighedskrav i offentlig tilgængelige bygninger og erhvervsbyggeri ved ombygning. 
+Der henvises til *Bekendtgørelse nr. 1250 af 13/12/2004 om tilgængelighedsforanstaltninger i forbindelse med ombygninger i eksisterende byggeri*, der omhandler tilgængelighedskrav i offentlig tilgængelige bygninger og erhvervsbyggeri ved ombygning.
 
- 
-
-### 
+###
 
 !
 
 Figur 1: Eksempler på etager i bygninger (snit) - Eksemplerne er vejledende og ikke udtømmende
 
-### 
+###
 
 !
 
 Figur 2: Eksempler på etager i bygninger (snit) - Eksemplerne er vejledende og ikke udtømmende
 
-### 
+###
 
 !
 
@@ -86,7 +80,7 @@ Ifølge bygningsreglementet 2018, [§ 249](/tekniske-bestemmelser/10/krav/), ska
 
 Elevatorer skal altid tilpasses til anvendelsen og det kan således være nødvendigt med en elevator der er større end minimumskravet, for eksempel såfremt den skal kunne medbringe større kørestole eller ambulancebårer, eller såfremt den etableres i et byggeri med mange brugere.
 
-Ved især ombygninger kan det være svært at opfylde kravet om en type 2 elevator i forhold til elevatorernes dimensioner. Der kan som alternativ installeres en minielevator eller løfteplatform, der har mindre dimensioner. Det bemærkes dog, at det kræver, at kommunalbestyrelsen dispenserer fra bygningsreglementets krav om type 2 elevator.  
+Ved især ombygninger kan det være svært at opfylde kravet om en type 2 elevator i forhold til elevatorernes dimensioner. Der kan som alternativ installeres en minielevator eller løfteplatform, der har mindre dimensioner. Det bemærkes dog, at det kræver, at kommunalbestyrelsen dispenserer fra bygningsreglementets krav om type 2 elevator.
 
 [3.0.](../)
 
@@ -116,4 +110,3 @@ Før ibrugtagningen af elevatorer skal der gennemføres en funktionsafprøvning 
 
 Kommunalbestyrelsen kan efter en konkret vurdering vælge at dispensere for bestemmelserne i bygningsreglementet og f.eks. tillade en minielevator eller løfteplatform der ikke opfylder type 2 kravet. Dispensationen skal dog være foreneligt med de hensyn, der ligger bag den konkrete bestemmelse der dispenseres fra.
 
-\

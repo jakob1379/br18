@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -23,60 +26,43 @@
 
 ## Vejledning om lovliggørelse af ulovligt byggeri
 
-
 ### Lovliggørelse af ulovligt byggeri
-
 
 ### Indholdet af vejledningen
 
-
 ### Hvornår er et byggeri ulovligt
-
 
 ### Anvendelse af formelle bestemmelser i forbindelse med lovliggørelse af byggeri
 
-
 ### Særligt om stikprøvekontrol efter BR18
-
 
 ### @@PROTECTED_17@@s bestemmelser
 
-
 ### Kommunalbestyrelsen som bygningsmyndighed
-
 
 ### Ejerens pligter
 
-
 ### Lovliggørelsens art
-
 
 ### Retlig lovliggørelse
 
-
 ### Fysisk lovliggørelse
-
 
 ### Vurderingen -- valget mellem retlig og fysisk lovliggørelse
 
-Valget mellem retlig og fysisk lovliggørelse beror på afgørelsesmyndighedens konkrete, skønsmæssige afvejning af forskellige hensyn i hver enkelt sag. Denne vurdering er bundet af de forvaltningsretlige principper for skønsudøvelse. 
+Valget mellem retlig og fysisk lovliggørelse beror på afgørelsesmyndighedens konkrete, skønsmæssige afvejning af forskellige hensyn i hver enkelt sag. Denne vurdering er bundet af de forvaltningsretlige principper for skønsudøvelse.
 
-Ved vurderingen af, om der skal ske retlig eller fysisk lovliggørelse, skal kommunalbestyrelsen først og fremmest se på, om der ville være blevet meddelt byggetilladelse, hvis der på korrekt vis var ansøgt om byggetilladelse inden byggearbejdet blev udført. 
+Ved vurderingen af, om der skal ske retlig eller fysisk lovliggørelse, skal kommunalbestyrelsen først og fremmest se på, om der ville være blevet meddelt byggetilladelse, hvis der på korrekt vis var ansøgt om byggetilladelse inden byggearbejdet blev udført.
 
 Hvis vurderingen er, at der ville være blevet meddelt byggetilladelse, skal der ske retlig lovliggørelse. Det betyder, at kommunalbestyrelsen efterfølgende meddeler tilladelse og/eller dispensation til bibeholdelse af forholdet.
 
 ### Byggeri opført uden tilladelse
 
-
 ### Byggeri der afviger fra det byggeri, der er givet tilladelse til
-
 
 ### Hensyn og overvejelser
 
-
 ### Forholdet til anden lovgivning
-
 
 ### Særligt om lovliggørelse i forbindelse med bygningers klimapåvirkning
 
-\

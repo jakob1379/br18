@@ -1,6 +1,5 @@
 # Ventilation (§ 420 - § 452)
 
-
 ## Se alle vejledninger om Ventilation (§ 420 - § 452)
 
 - [Bygningsreglementets vejledning om ventilation](../)
@@ -8,7 +7,6 @@
 - [Spørgsmål og svar](../../sporgsmaal_svaar/)
 
 ## Bygningsreglementets vejledning om ventilation
-
 
 ### Forord
 
@@ -56,12 +54,11 @@ Ventilationsbestemmelserne skal overholdes i hele bygningens levetid. Det betyde
 
 DS 447 indeholder yderligere krav omkring drift og vedligeholdelse af ventilationssystemer. Kravene heri skal overholdes.
 
-#### 
+####
 
 DS 447 - Ventilation i bygninger - Mekaniske, naturlige og hybride ventilationssystemer
 
-#### 
+####
 
 #### Standarden findes på dansk i Dansk Standards webshop.ds.dk
 
-\

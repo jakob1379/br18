@@ -1,6 +1,5 @@
 # Lydforhold (§ 368 - § 376)
 
-
 ## Se alle vejledninger om Lydforhold (§ 368 - § 376)
 
 - [Bygningsreglementets vejledning om lydforhold](../../generel_vejledning/)
@@ -26,7 +25,8 @@
 
 Tabel 3.1 indeholder grænseværdier for luftlydisolation og trinlydniveau i undervisningsbygninger svarende til overholdelse af BR18's lydbestemmelser.
 
-Lydbestemmelserne er gengivet fra SBi-anvisning 218.\
+Lydbestemmelserne er gengivet fra SBi-anvisning 218.
+
 Referencer findes i [afsnit 1.5](../../generel_vejledning/referenceliste/ "Referenceliste").
 
 Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfylde Bygningsreglementets funktionskrav, er anført separat i tabellerne (i kursiv).
@@ -71,10 +71,14 @@ Heldagsklasser, helhedsskoler og indskolingslokaler, der dækker over, at de sam
 | **Noter\                                                                                                                                                                                                                                  |
 | \**                                                                                                                                                                                                                                       |
 |                                                                                                                                                                                                                                           |
-| 1)   Ved fleksible rumadskillelser forstås vægsystemer eller lignende rumopdelende elementer, som ikke fuldstændigt aflukker rum, men som afskærmer og adskiller dele af rum\                                                             |
+|
+
+1)   Ved fleksible rumadskillelser forstås vægsystemer eller lignende rumopdelende elementer, som ikke fuldstændigt aflukker rum, men som afskærmer og adskiller dele af rum\                                                             |
 | \                                                                                                                                                                                                                                         |
 |                                                                                                                                                                                                                                           |
-| 2)   Fra alle omgivende gulve, dæk og trapper.                                                                                                                                                                                            |
+|
+
+2)   Fra alle omgivende gulve, dæk og trapper.                                                                                                                                                                                            |
 +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 [3.3](../stoej-indendoers-fra-trafik-i-undervisningsbygninger/)
@@ -89,4 +93,3 @@ Heldagsklasser, helhedsskoler og indskolingslokaler, der dækker over, at de sam
 
 ### Rumakustik i undervisningsbygninger
 
-\

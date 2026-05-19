@@ -1,6 +1,5 @@
 # Legepladser mv. (§ 358 - § 367)
 
-
 ## Se alle vejledninger om Legepladser mv. (§ 358 - § 367)
 
 - [](../../qa)
@@ -8,22 +7,15 @@
 
 ## Bygningsreglementets vejledning om legepladser mv.
 
-
 ### Rettelsesblad til vejledning om legepladser (1. januar 2025)
 
 Der er udgivet et rettelsesblad den 1. januar 2025.
 
- 
-
 [Åbn rettelsesblad til vejledning om legepladser mv.](../../../../../media/twznawnd/rettelsesblad-til-bygningsreglementets-vejledning-om-legepladser-mv.pdf "Åbn rettelsesblad til vejledning om legepladser mv.")
-
-
 
 ### Forord {#65b73685-d9f4-4e3b-8a90-9bcec6a68773}
 
 Denne vejledning omfatter offentligt tilgængelige legepladser mv. og redegøre for, hvordan de kan overholde bygningsreglementet 2018 (BR18), kapitel 16 om legepladser mv. Derudover redegøre vejledningen for hvornår legepladser og legepladsredskaber kan betragtes som offentligt tilgængelige og hvordan de skal indplaceres i brand- og konstruktionsklasser.
-
-
 
 ### Generelt {#311d3af7-7ff8-409f-b0ec-f4794334b40d}
 
@@ -32,8 +24,6 @@ Projektering, udførelse, drift og vedligeholdelse af offentligt tilgængelige l
 Legepladser m.v. som beskrevet i kapitel 16 omfatter legepladsredskaber og -underlag, multisportsudstyr, motionsredskaber i det fri, skateboardbaner, parkourredskaber og lignende, der er offentligt tilgængelige.
 
 Hvorvidt legepladser og legepladsredskaber er omfattet af kapitel 16, beror på om de kan betragtes som bebyggelse i byggelovens forstand og om de er offentligt tilgængelige. Disse begreber er forklaret nærmere i afsnit 2.1 og 2.2.
-
-
 
 ### Hvornår er legepladser og legepladsredskaber bebyggelse? {#a8f02ff9-7ec7-4fce-aac9-9551989fb835}
 
@@ -46,8 +36,6 @@ De kriterier, der kan lægges vægt på, når det skal vurderes om legepladser m
 Grundet ovenstående vurderes det, at mindre flytbare havetrampoliner, der alene benyttes til leg, ikke har karakter af bebyggelse, og derfor falder uden for byggelovens og bygningsreglementets områder. Nogle trampoliner afviger dog markant fra legetrampoliner i både størrelse og anvendelsesmuligheder. Ved større trampoliner eller trampoliner, der i markant omfang afviger fra havetrampoliner, eller som ikke blot anvendes til leg, kan der være tale om en bygningsmæssig konstruktion omfattet af byggeloven.
 
 Om et bestemt legepladsredskab kan betragtes som bebyggelse i byggelovens forstand afgøres af kommunen efter en konkret vurdering.
-
-
 
 ### Hvornår er legepladser og legepladsredskaber offentligt tilgængelige? {#50db7ce8-eb57-41a7-bf1c-736f4ace0f3f}
 
@@ -73,9 +61,7 @@ Om en bestemt legeplads eller legepladsredskab er offentligt tilgængelige eller
 
 Der kan i øvrigt gælde andre regler for legepladsredskaber m.v., der ikke er offentligt tilgængelige. Disse regler kan f.eks. være direktiv 2009/48/EF om sikkerhedskrav til legetøj samt BEK 309 om Sikkerhedskrav til legetøjsprodukter.
 
-Bygningsreglementet skelner ikke mellem forskellige ejerforhold, og der skelnes således heller ikke mellem om brugerne f.eks. er boligejere eller --lejere. 
-
-
+Bygningsreglementet skelner ikke mellem forskellige ejerforhold, og der skelnes således heller ikke mellem om brugerne f.eks. er boligejere eller --lejere.
 
 ### Byggesagsbehandling af legepladser mv. {#3d15f438-c9f9-4289-bc25-073498fdfaf1}
 
@@ -87,8 +73,6 @@ Ansøgning om byggetilladelse til legepladser mv. skal byggesagsbehandles ud fra
 
 For yderligere omkring ansøgning om byggetilladelse samt byggesagsbehandling af legepladser mv. henvises der til *[bygningsreglementets vejledning om byggesagsbehandling efter BR18](../../../../../administrative-bestemmelser/brv/vejledning-om-byggesagsbehandling-efter-br18 "Vejledning om byggesagsbehandling efter BR18").*
 
-
-
 ### Indplacering i konstruktionsklasse {#bdf21a94-3d46-4fd2-83f6-c7c2939c8a7f}
 
 Ved ansøgning om byggetilladelse, skal der indsendes oplysning om og dokumentation for indplacering i konstruktionsklasse, såfremt det er relevant at indplacere legepladsen mv. i en konstruktionsklasse. Dette er ofte relevant, når der er konstruktionsmæssige forhold at tage stilling til i forhold til sikkerhed. Det afhænger dog altid af en konkret vurdering fra sag til sag.
@@ -97,7 +81,7 @@ Det fremgår også af BR18, § 489, stk. 4, at visse legepladsredskaber er undta
 
 Det kan være nødvendigt at vurdere de enkelte legepladsredskaber på legepladsen hver for sig, i forhold til indplaceringen. Såfremt ansøger ikke vurderer, at det er relevant at indplacere hele eller dele af legepladsen mv. i en konstruktionsklasse, skal dette oplyses og begrundes i ansøgningen om byggetilladelsen.
 
-Hvis det er relevant at indplacere legepladsen mv. i en konstruktionsklasse, skal indplaceringen følge § BR18, kapitel 26 om konstruktionsklasser. Indplacering i en konstruktionsklasse afhænger af konstruktionens kompleksitet og konsekvensklasse (CC), samt erfaringen med konstruktionstypen.\
+Hvis det er relevant at indplacere legepladsen mv. i en konstruktionsklasse, skal indplaceringen følge § BR18, kapitel 26 om konstruktionsklasser. Indplacering i en konstruktionsklasse afhænger af konstruktionens kompleksitet og konsekvensklasse (CC), samt erfaringen med konstruktionstypen.
 
 I visse tilfælde kan der være legepladser mv., som på grund af deres udformning eller anvendelse ikke kan indplaceres i en konstruktionsklasse selvom legepladsen mv. i sin helhed skal indplaceres. I disse tilfælde skal legepladsen mv. i stedet vurderes ud fra § 489, stk. 5.
 
@@ -107,27 +91,23 @@ Såfremt legepladser mv. indplaceres i konstruktionsklasse 2-4 skal der tilknytt
 
 For yderligere henvises der til [bygningsreglementets vejledning om indplacering i konstruktionsklasser](../../../../../ovrige-bestemmelser/26/brv/indplacering-i-konstruktionsklasser "Indplacering i konstruktionsklasser").
 
-
-
 ### Legepladser mv., der er undtaget for indplacering i konstruktionsklasse {#1a25dde1-3c1c-4c03-a76a-068cf6b15e8d}
 
 Legepladser mv. kan være undtaget fra indplacering i konstruktionsklasse efter § 489, stk. 1, hvilket fremgår af § 489, stk. 4. Her fremgår det, at mindre legepladsredskaber og -underlag, multisportsudstyr, motionsredskaber i det fri, skateboardbaner og lignede er undtaget fra indplacering i en konstruktionsklasse, hvis udformningen udføres i henhold til §§ 359-363, og når udformningen eller anvendelsen ikke medfører en risiko for personskade ved et svigt. Andre mindre legepladsredskaber er tillige undtaget fra indplacering i konstruktionsklasse, hvis udformningen eller anvendelsen ikke medfører en risiko for personskade ved et svigt.
 
 Hvorvidt der *ikke* medføres en risiko for personskade ved svigt, kan bl.a. afhænge af følgende faktorer:
 
-• Der er ikke risiko for nedfald af materialer ovenfra ved svigt.\
-\
-• Der er ikke risiko for at komme i klemme ved svigt.\
-\
-• Der er ikke risiko for at vind eller andre belastninger påvirker stabiliteten.\
-\
+• Der er ikke risiko for nedfald af materialer ovenfra ved svigt.
+
+• Der er ikke risiko for at komme i klemme ved svigt.
+
+• Der er ikke risiko for at vind eller andre belastninger påvirker stabiliteten.
+
 • Legepladsredskabet har en tilpas fri faldhøjde ved svigt.
 
 Ovenstående liste er eksempler og er ikke udtømmende.
 
 I forhold til fri faldhøjde, betragtes et legepladsredskab med en fri faldhøjde på højst 1,0 meter ikke som en risiko for personskade. Ved "mindre legepladsredskaber" nævnt i § 489, stk. 4, forstås ligeledes legepladsredskaber med en fri faldhøjde på højst 1 meter. Den fri faldhøjde er den største lodrette afstand til stødområdet nedenunder fra de flader hvortil der opmuntres adgang.
-
-
 
 ### Indplacering i brandklasse {#ec67cfb6-3db0-4f76-bce2-7a6f917204b0}
 
@@ -137,7 +117,7 @@ Det fremgår også af BR18, § 493, stk. 3, at visse legepladsredskaber er undta
 
 Det kan være nødvendigt at vurdere de enkelte legepladsredskaber på legepladsen hver for sig, i forhold til indplaceringen. Såfremt ansøger ikke vurderer, at det er relevant at indplacere legepladsen mv. i en brandklasse, skal dette oplyses og begrundes i ansøgningen om byggetilladelsen.
 
-Hvis det er relevant at indplacere legepladsen mv. i en brandklasse, skal indplaceringen følge § BR18, kapitel 27 om brandklasser. Indplacering i brandklasse afhænger af byggeriets risikoklasse og den valgte metode for dokumentation af brandsikkerheden.\
+Hvis det er relevant at indplacere legepladsen mv. i en brandklasse, skal indplaceringen følge § BR18, kapitel 27 om brandklasser. Indplacering i brandklasse afhænger af byggeriets risikoklasse og den valgte metode for dokumentation af brandsikkerheden.
 
 I visse tilfælde kan der være legepladser mv., som på grund af deres udformning eller anvendelse ikke kan indplaceres i en brandklasse selvom legepladsen mv. i sin helhed skal indplaceres i en brandklasse. I disse tilfælde skal legepladsen mv. i stedet vurderes ud fra § 493, stk. 4.
 
@@ -149,18 +129,16 @@ Såfremt legepladser mv. indplaceres i brandklasse 2-4 skal der tilknyttes en ce
 
 For yderligere henvises der til [bygningsreglementets vejledning til indplacering i brandklasse.](../../../../../ovrige-bestemmelser/27/brv/indplacering-i-brandklasser "Indplacering i brandklasser")
 
-
-
 ### Legepladser mv., der er undtaget for indplacering i brandklasse {#edfcf8a6-5d39-485e-b349-eb8b38f1fc4a}
 
 Legepladser mv. kan være undtaget fra indplacering i brandklasse efter § 493, stk. 1, hvilket fremgår af § 493, stk. 3. Her fremgår det, at legepladsredskaber og -underlag, multisportsudstyr, motionsredskaber i det fri, skateboardbaner og lignede er undtaget fra indplacering i en brandklasse, hvis udformningen eller anvendelsen ikke medfører en uacceptabel risiko for personskade i tilfælde af brand.
 
 Hvorvidt der *ikke* medføres en uacceptabel risiko for personskade, kan bl.a. afhænge af følgende faktorer:
 
-• Materialet har en lav brandbelastning.\
-\
-• Der er overskuelige flugtforhold\
-\
+• Materialet har en lav brandbelastning.
+
+• Der er overskuelige flugtforhold
+
 • Legepladsredskabet er placeret udendørs.
 
 Ovenstående liste er eksempler, og er ikke udtømmende.
@@ -168,8 +146,6 @@ Ovenstående liste er eksempler, og er ikke udtømmende.
 Flugtvejene kan være uoverskuelige, hvis legepladsen mv.  f.eks. er udformet fuldstændig lukket, udformet som en form for labyrint, eller på anden vis er udformet med langt til nærmeste udgang, eller uden direkte adgang til det fri. Flugtvejene kan også være uoverskuelige, hvis det er besværligt at komme ned fra eller væk fra legepladsredskabet.
 
 Såfremt legepladsredskabet f.eks. placeres indendørs, kan dette medføre en uacceptabel risiko for personskade, hvis der kan opstå kritiske forhold i bygningen inden det er muligt for alle at forlade legepladsen.
-
-
 
 ### Sikkerhedskrav og adgangsforhold for legepladser mv. {#52895043-7fae-4429-ac60-b0909eb1bbab}
 
@@ -187,11 +163,11 @@ Derudover indeholder DS-håndbog 105:2012 en række retningslinjer for planlægn
 
 [![](../../../../../assets/img/linkbox/ds_en_tr_linkbox.svg)](# "#title")
 
-#### 
+####
 
 DS/CEN/TR 16879:2016 - Placering af legeplads- og andre fritidsfaciliteter -- Rådgivning om metoder til placering og adskillelse
 
-#### 
+####
 
 Denne tekniske rapport giver råd om placering og mulige metoder til adskillelse mellem rekreative faciliteter, der benyttes af forskellige aldersgrupper og har forskellige risikoniveauer.
 
@@ -199,11 +175,11 @@ Denne tekniske rapport giver råd om placering og mulige metoder til adskillelse
 
 [![](../../../../../assets/img/linkbox/ds_en_tr_linkbox.svg)](# "#title")
 
-#### 
+####
 
 DS/CEN/TR 16467:2013 - Legepladsudstyr tilgængeligt for alle børn
 
-#### 
+####
 
 Denne tekniske rapport indeholder guidelines til at udforme legeområder der giver børn med forskellige niveauer af funktionsnedsættelse mulighed for at lege selvstændigt og med passende niveauer af udfordringer og risici
 
@@ -211,11 +187,11 @@ Denne tekniske rapport indeholder guidelines til at udforme legeområder der giv
 
 [![](../../../../../assets/img/linkbox/ds_en_tr_linkbox.svg)](# "#title")
 
-#### 
+####
 
 DS/CEN/TR 16598:2023 - Samling af rationaler for EN 1176 -- Krav
 
-#### 
+####
 
 Denne tekniske rapport indeholder rationaler bag EN 1176 serien, der har til formål, at undgå situationer, hvor et barn på grund af sin alder, evne eller udviklingsstadium ikke er i stand til at forstå en risiko på legepladser mv.
 
@@ -223,11 +199,11 @@ Denne tekniske rapport indeholder rationaler bag EN 1176 serien, der har til for
 
 [![](../../../../../assets/img/linkbox/ds_en_tr_linkbox.svg)](# "#title")
 
-#### 
+####
 
 DS/CEN/TR 16396:2020 - Legepladsredskaber til børn -- Svar på forespørgsler om fortolkning af EN 1176-serien.
 
-#### 
+####
 
 Denne tekniske rapport indeholder svar på anmodninger om fortolkninger vedrørende forståelsen af EN 1176 serien.
 
@@ -235,17 +211,15 @@ Denne tekniske rapport indeholder svar på anmodninger om fortolkninger vedrøre
 
 [![](../../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
 
-#### 
+####
 
 DS-håndbog 105:2012 - Udearealer for alle - sådan planlægges et tilgængeligt udemiljø
 
-#### 
+####
 
 Denne håndbog indeholder bl.a. information og eksempler på adgangsforhold til legepladser.
 
 #### Køb håndbogen her [Køb håndbogen her](https://webshop.ds.dk/Default.aspx?ID=120&GroupID=11.180.01&ProductID=M266059){target="_blank"}
-
-
 
 ### Drift, kontrol og vedligehold {#9010be35-e1df-4a55-919d-9ce0c4978514}
 
@@ -257,4 +231,3 @@ Ejeren bør foranledige, at der bliver udført en rutinemæssig visuel inspektio
 
 I forbindelse med vedligehold bør mekaniske dele som for eksempel bolte, beslag og skruer undersøges og efterspændes, dernæst bør beskadiget dele repareres eller udskiftes og bevægelige dele smøres efter behov. Opmærksomheden bør i øvrigt henledes på producentens anvisninger vedrørende drift, inspektion og vedligehold.
 
-\

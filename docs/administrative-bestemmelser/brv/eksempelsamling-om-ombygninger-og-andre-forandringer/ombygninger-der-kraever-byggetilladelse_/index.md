@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -22,7 +25,6 @@
 - [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../../temasiden-brandogkonstruktioner-dk/)
 
 ## Eksempelsamling om ombygninger og andre forandringer - For etageboligbyggeri samt enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse
-
 
 ### Kolofon
 
@@ -70,8 +72,6 @@ Det forudsættes generelt for alle nedenstående eksempler, der ikke skal indpla
 
 Det forudsættes ydermere for de eksempler, der skal indplaceres i en konstruktionsklasse og brandklasse, at det pågældende konstruktionsafsnit og bygningsafsnit kan indplaceres i konstruktionsklasse 1 og brandklasse 1, således, at der ikke skal tilknyttes en certificeret statiker og brandrådgiver som angivet.
 
- 
-
 +------------------------------------------------------------------------------------------------+--------------------------------------------+------------------------------------+-------------------------------------------+------------------------------------------------+
 | **Tabel 3: Eksempler på ombygninger og andre forandringer i enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse der kræver byggetilladelse**                                                                                                                                  |
 +------------------------------------------------------------------------------------------------+--------------------------------------------+------------------------------------+-------------------------------------------+------------------------------------------------+
@@ -89,9 +89,7 @@ Det forudsættes ydermere for de eksempler, der skal indplaceres i en konstrukti
 |                                                                                                |                                            |                                    |                                           | \                                              |
 +------------------------------------------------------------------------------------------------+--------------------------------------------+------------------------------------+-------------------------------------------+------------------------------------------------+
 
-\
 [3.2](../ombygninger-der-kan-opfoeres-uden-byggetilladelse_/)
 
 ### Ombygninger og andre forandringer der kan udføres uden ansøgning om byggetilladelse
 
-\

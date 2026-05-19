@@ -1,6 +1,5 @@
 # Energiforbrug og klimapåvirkning (§ 250 - § 298)
 
-
 ## Se alle vejledninger om Energiforbrug og klimapåvirkning (§ 250 - § 298)
 
 - [Spørgsmål og svar om energiforbrug](../qa/)
@@ -15,11 +14,9 @@
 
 ## Eksempelsamling for energi
 
-
 ### Indledning
 
 Eksempelsamlingen for energi er under revision, så den er opdateret med de rigtige henvisninger til BR18. De grundlæggende principper er dog ikke ændret.
 
 [Åbn eksempelsamlingen](/tekniske-bestemmelser/11/brv/eksempelsamling/)
 
-\

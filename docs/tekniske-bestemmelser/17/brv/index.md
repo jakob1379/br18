@@ -19,7 +19,6 @@ title: Lydforhold (§ 368 - § 376) – Vejledning
 
 ## Bygningsreglementets vejledning om lydforhold
 
-
 ### Forord
 
 [1.0](./)
@@ -46,7 +45,6 @@ title: Lydforhold (§ 368 - § 376) – Vejledning
 
 ### Referenceliste
 
-\
 ## Vejledning til boliger og andre bygninger til overnatning
 
 ### Boliger og andre bygninger til overnatning (§§ 369 - 373)
@@ -73,8 +71,6 @@ Tabellerne i dette afsnit beskriver lydbestemmelserne for lydisolation, støj in
 
 ### Rumakustik i boliger
 
-\
-
 ### Boliger og andre bygninger til overnatning (§§ 369 - 373)
 
 [2.1](./)
@@ -95,7 +91,8 @@ Tabellerne i dette afsnit beskriver lydbestemmelserne for lydisolation, støj in
 
 **Udearealer umiddelbart uden for bygningernes vinduer** er området tæt på vinduer til beboelsesrum og køkken.
 
-**Udendørs rekreative arealer** er primære udendørs opholdsarealer som altaner, terrasser, tagterrasser og siddepladser, men ikke gangarealer, trapper, bede, beplantninger mv.\
+**Udendørs rekreative arealer** er primære udendørs opholdsarealer som altaner, terrasser, tagterrasser og siddepladser, men ikke gangarealer, trapper, bede, beplantninger mv.
+
 2.2
 
 ### Lydisolation for boliger
@@ -112,8 +109,6 @@ Tabellerne i dette afsnit beskriver lydbestemmelserne for lydisolation, støj in
 
 ### Rumakustik i boliger
 
-\
-
 ### Boliger og andre bygninger til overnatning (§§ 369 - 373)
 
 2.1
@@ -126,8 +121,7 @@ Tabellerne i dette afsnit beskriver lydbestemmelserne for lydisolation, støj in
 
 Tabel 2.1 indeholder grænseværdier for luftlydisolation og trinlydniveau i boligbyggeri svarende til overholdelse af BR18's lydbestemmelser samt supplerende vejledende grænseværdier for lette konstruktioner i lejlighedsskel.
 
-Lydbestemmelserne er gengivet fra DS 490 og den supplerende vejledning fra SBi-anvisning 272. Referenceliste findes i [afsnit 1.5](../vejledninger/generel_vejledning/referenceliste/). \
-\
+Lydbestemmelserne er gengivet fra DS 490 og den supplerende vejledning fra SBi-anvisning 272. Referenceliste findes i [afsnit 1.5](../vejledninger/generel_vejledning/referenceliste/).
 
 Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfylde Bygningsreglementets funktionskrav, er anført separat i tabellerne (i kursiv).
 
@@ -142,11 +136,17 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 +----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Mellem en bolig og rum uden for boligen ^a)^\                                                                                                            | ≥ 55 dB                                                                                                                                                  |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Mellem fælles opholdsrum indbyrdes^ 5)^                                                                                                                  | ≥ 55 dB                                                                                                                                                  |
+| Mellem fælles opholdsrum indbyrdes^
+
+5)^                                                                                                                  | ≥ 55 dB                                                                                                                                                  |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Dør^ 2)^ mellem bolig og fællesrum                                                                                                                       |  ≥ 32 dB\                                                                                                                                                |
+| Dør^
+
+2)^ mellem bolig og fællesrum                                                                                                                       |  ≥ 32 dB\                                                                                                                                                |
 |                                                                                                                                                          |                                                                                                                                                          |
-| Dør^ 2)^ mellem fælles opholdsrum og gange/trapperum                                                                                                     |                                                                                                                                                          |
+| Dør^
+
+2)^ mellem fælles opholdsrum og gange/trapperum                                                                                                     |                                                                                                                                                          |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Trinlydniveau \[2\]**                                                                                                                                  |  ***L\'~n,w~***\                                                                                                                                         |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -157,10 +157,14 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 | -- fra andre boliger og fra fællesrum ^b)^                                                                                                               |                                                                                                                                                          |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
 | I beboelsesrum og køkkener\                                                                                                                              | ≤ 58 dB                                                                                                                                                  |
-| -- fra fælles trapperum og gange, fra altaner eller tilsvarende samt fra toilet- og baderum i andre boliger ^3),\ 4)^                                    |                                                                                                                                                          |
+| -- fra fælles trapperum og gange, fra altaner eller tilsvarende samt fra toilet- og baderum i andre boliger ^3),\
+
+4)^                                    |                                                                                                                                                          |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
 | I fælles opholdsrum\                                                                                                                                     | ≤ 58 dB                                                                                                                                                  |
-| -- fra beboelsesrum, andre fællesrum, trapperum, gange, altaner eller tilsvarende samt fra toilet- og baderum ^3),\ 4)^                                  |                                                                                                                                                          |
+| -- fra beboelsesrum, andre fællesrum, trapperum, gange, altaner eller tilsvarende samt fra toilet- og baderum ^3),\
+
+4)^                                  |                                                                                                                                                          |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
 | ***Supplerende vejledning* \[3\]**                                                                                                                                                                                                                                                                                  |
 |                                                                                                                                                                                                                                                                                                                     |
@@ -172,18 +176,27 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Noter**                                                                                                                                                                                                                                                                                                           |
 |                                                                                                                                                                                                                                                                                                                     |
-| 1)   Lette konstruktioner i lejlighedsskel, dvs. skillevægge med en vægt pr. arealenhed under 100 kg/m^2^ og etageadskillelser med en vægt pr. arealenhed under 250 kg/m^2^, kan give problemer med utilstrækkelig lydisolation ved lave frekvenser, selv om kravene til lydisolation i lydklasse C er opfyldt.     |
+|
+
+1)   Lette konstruktioner i lejlighedsskel, dvs. skillevægge med en vægt pr. arealenhed under 100 kg/m^2^ og etageadskillelser med en vægt pr. arealenhed under 250 kg/m^2^, kan give problemer med utilstrækkelig lydisolation ved lave frekvenser, selv om kravene til lydisolation i lydklasse C er opfyldt.     |
 |                                                                                                                                                                                                                                                                                                                     |
-| 2)   Grænseværdien gælder for dørens areal. Den omgivende væg skal opfylde grænseværdien for 'mellem en bolig og rum uden for boligen' henholdsvis 'mellem fælles opholdsrum indbyrdes'.                                                                                                                            |
+|
+
+2)   Grænseværdien gælder for dørens areal. Den omgivende væg skal opfylde grænseværdien for 'mellem en bolig og rum uden for boligen' henholdsvis 'mellem fælles opholdsrum indbyrdes'.                                                                                                                            |
 |                                                                                                                                                                                                                                                                                                                     |
-| 3)   Altaner samt gulve og dæk i toilet- og baderum og andre rum med et gulvareal mindre end 2,5 m^2^ skal ikke opfylde krav til trinlydniveau.                                                                                                                                                                     |
+|
+
+3)   Altaner samt gulve og dæk i toilet- og baderum og andre rum med et gulvareal mindre end 2,5 m^2^ skal ikke opfylde krav til trinlydniveau.                                                                                                                                                                     |
 |                                                                                                                                                                                                                                                                                                                     |
-| 4)   Fælles og private tagterrasser skal opfylde samme grænseværdier som altaner.                                                                                                                                                                                                                                   |
+|
+
+4)   Fælles og private tagterrasser skal opfylde samme grænseværdier som altaner.                                                                                                                                                                                                                                   |
 |                                                                                                                                                                                                                                                                                                                     |
-| 5)   Hvis et fælles opholdsrum opdeles med en foldedør/mobilvæg bør lydisolationen mellem de to dele af rummet fastsættes efter den planlagte anvendelse.                                                                                                                                                           |
+|
+
+5)   Hvis et fælles opholdsrum opdeles med en foldedør/mobilvæg bør lydisolationen mellem de to dele af rummet fastsættes efter den planlagte anvendelse.                                                                                                                                                           |
 +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-\
 2.3
 
 ### Støj indendørs fra trafik i boliger
@@ -195,8 +208,6 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 2.5
 
 ### Rumakustik i boliger
-
-\
 
 ### Boliger og andre bygninger til overnatning (§§ 369 - 373)
 
@@ -222,7 +233,8 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 
 Tabel 2.4 nedenfor indeholder grænseværdier for efterklangstid i boligbyggeri svarende til overholdelse af BR18's lydbestemmelser.
 
-Lydbestemmelserne er gengivet fra DS 490 og den supplerende vejledning fra SBi-anvisning 272.\
+Lydbestemmelserne er gengivet fra DS 490 og den supplerende vejledning fra SBi-anvisning 272.
+
 Referencer findes i [afsnit 1.5](../vejledninger/generel_vejledning/referenceliste/).
 
 Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfylde Bygningsreglementets funktionskrav, er anført separat i tabellerne (i kursiv).
@@ -238,7 +250,9 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 +-------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+
 | I gange i plejehjem og lignende, hvor gangarealet i nogen grad anvendes til ophold              | ≤ 0,9 s                                                                                         | 500-2000 Hz                                                                                     |
 +-------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+
-| Fælles opholdsrum^ 2)^                                                                          | ≤ 0,9 s                                                                                         | 125 Hz   250-4000 Hz                                                                            |
+| Fælles opholdsrum^
+
+2)^                                                                          | ≤ 0,9 s                                                                                         | 125 Hz   250-4000 Hz                                                                            |
 |                                                                                                 |                                                                                                 |                                                                                                 |
 |                                                                                                 | ≤ 0,6 s                                                                                         |                                                                                                 |
 +-------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+
@@ -248,13 +262,15 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 +-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Noter**                                                                                                                                                                                                                                                                                           |
 |                                                                                                                                                                                                                                                                                                     |
-| 1)   Maksimumsværdien for efterklangstiden gælder for hvert 1/1-oktavbånd i frekvensområdet.\                                                                                                                                                                                                       |
+|
+
+1)   Maksimumsværdien for efterklangstiden gælder for hvert 1/1-oktavbånd i frekvensområdet.\                                                                                                                                                                                                       |
 | \                                                                                                                                                                                                                                                                                                   |
 |                                                                                                                                                                                                                                                                                                     |
-| 2)   Grænseværdierne gælder i møblerede rum.                                                                                                                                                                                                                                                        |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|
 
-\
+2)   Grænseværdierne gælder i møblerede rum.                                                                                                                                                                                                                                                        |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ### Boliger og andre bygninger til overnatning (§§ 369 - 373)
 
@@ -287,11 +303,15 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 +------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
 | Indendørs                           **\[2\]**                                | Bygningens tekniske installationer ^5)^                            | ≤ 30 dB                                                            |                                                                    |                                                                    |
 |                                                                              |                                                                    |                                                                    |                                                                    |                                                                    |
-| I beboelsesrum, fælles opholdsrum og køkkener ^1),\ a)^                      |                                                                    |                                                                    |                                                                    |                                                                    |
+| I beboelsesrum, fælles opholdsrum og køkkener ^1),\
+
+a)^                      |                                                                    |                                                                    |                                                                    |                                                                    |
 +------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
 | Indendørs                    **\[1\], \[5\]**                                | Tekniske installationer i erhvervsenheder i samme bygning          | ≤ 30 dB                                                            |                                                                    | kl. 07-22\                                                         |
 |                                                                              |                                                                    |                                                                    |                                                                    |                                                                    |
-| I beboelsesrum og fælles opholdsrum ^2),\ a)^                                |                                                                    |                                                                    |                                                                    |                                                                    |
+| I beboelsesrum og fælles opholdsrum ^2),\
+
+a)^                                |                                                                    |                                                                    |                                                                    |                                                                    |
 |                                                                              |                                                                    +--------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
 |                                                                              |                                                                    | ≤ 25 dB                                                            | ≤ 40 dB\                                                           | kl. 22-07\                                                         |
 +------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
@@ -309,29 +329,39 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Noter**                                                                                                                                                                                                                                                                                                                                                        |
 |                                                                                                                                                                                                                                                                                                                                                                  |
-| 1)   Grænseværdierne gælder i umøblerede rum.\                                                                                                                                                                                                                                                                                                                   |
+|
+
+1)   Grænseværdierne gælder i umøblerede rum.\                                                                                                                                                                                                                                                                                                                   |
 | \                                                                                                                                                                                                                                                                                                                                                                |
 |                                                                                                                                                                                                                                                                                                                                                                  |
-| 2)   Grænseværdierne gælder i møblerede rum.\                                                                                                                                                                                                                                                                                                                    |
+|
+
+2)   Grænseværdierne gælder i møblerede rum.\                                                                                                                                                                                                                                                                                                                    |
 | \                                                                                                                                                                                                                                                                                                                                                                |
 |                                                                                                                                                                                                                                                                                                                                                                  |
-| 3)   For sammenbyggede enfamiliehuse og etageboligbyggerier også ved naboboliger.\                                                                                                                                                                                                                                                                               |
+|
+
+3)   For sammenbyggede enfamiliehuse og etageboligbyggerier også ved naboboliger.\                                                                                                                                                                                                                                                                               |
 | \                                                                                                                                                                                                                                                                                                                                                                |
 |                                                                                                                                                                                                                                                                                                                                                                  |
-| 4)   Grænseværdierne gælder for den enkelte installation.\                                                                                                                                                                                                                                                                                                       |
+|
+
+4)   Grænseværdierne gælder for den enkelte installation.\                                                                                                                                                                                                                                                                                                       |
 | \                                                                                                                                                                                                                                                                                                                                                                |
 |                                                                                                                                                                                                                                                                                                                                                                  |
-| 5)   Inklusive boligens egne faste installationer, såfremt de ikke kan kontrolleres af den aktuelle boligs egen beboer.\                                                                                                                                                                                                                                         |
+|
+
+5)   Inklusive boligens egne faste installationer, såfremt de ikke kan kontrolleres af den aktuelle boligs egen beboer.\                                                                                                                                                                                                                                         |
 | \                                                                                                                                                                                                                                                                                                                                                                |
 |                                                                                                                                                                                                                                                                                                                                                                  |
-| 6)   Inklusive boligens egne faste installationer som varmepumper, aftræk mv.                                                                                                                                                                                                                                                                                    |
+|
+
+6)   Inklusive boligens egne faste installationer som varmepumper, aftræk mv.                                                                                                                                                                                                                                                                                    |
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 2.5
 
 ### Rumakustik i boliger
-
-\
 
 ### Boliger og andre bygninger til overnatning (§§ 369 - 373)
 
@@ -351,8 +381,9 @@ Det akustiske indeklima beskrives gennem en række lydtekniske begreber og tilh�
 
 Tabel 2.2 nedenfor indeholder grænseværdier for trafikstøj i boliger svarende til overholdelse af BR18's lydbestemmelser samt supplerende vejledende grænseværdier for trafikstøj indendørs med åbne vinduer.
 
-Lydbestemmelserne er gengivet fra DS 490 og den supplerende vejledning fra Miljøstyrelsens vejledning 4/2007 og 1/1997.\
-Referencer findes i [afsnit 1.5](../vejledninger/generel_vejledning/referenceliste/). 
+Lydbestemmelserne er gengivet fra DS 490 og den supplerende vejledning fra Miljøstyrelsens vejledning 4/2007 og 1/1997.
+
+Referencer findes i [afsnit 1.5](../vejledninger/generel_vejledning/referenceliste/).
 
 Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfylde Bygningsreglementets funktionskrav, er anført separat i tabellerne (i kursiv).
 
@@ -367,7 +398,9 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 |                                                   |                                            |                                                    |                                            |
 |                                                   | **Jernbaner: *L~den~* ≤ 64 dB**            | **Jernbaner: *L~den~* \> 64dB**                    |                                            |
 +---------------------------------------------------+--------------------------------------------+----------------------------------------------------+--------------------------------------------+
-| BR18 ^1),\ 4)^             **\[1\], \[2\]**\      | *L~den~* ≤ 33 dB                           | *L~den~* ≤ 33 dB                                   | *L~den~* ≤ 33 dB                           |
+| BR18 ^1),\
+
+4)^             **\[1\], \[2\]**\      | *L~den~* ≤ 33 dB                           | *L~den~* ≤ 33 dB                                   | *L~den~* ≤ 33 dB                           |
 |                                                   |                                            |                                                    |                                            |
 |                                                   | med lukkede vinduer                        | med lukkede vinduer                                | med lukkede vinduer                        |
 +---------------------------------------------------+--------------------------------------------+----------------------------------------------------+--------------------------------------------+
@@ -375,32 +408,48 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 |                                                   |                                            |                                                    | planlægges for boliger ^6)^*               |
 | *Planlovgivning*                                  |                                            | *Veje: L~den~ ≤ 46 dB \                            |                                            |
 |                                                   |                                            | med åbne vinduer ^3)^*                             |                                            |
-| * - Veje ^ 5)^                        ***\[7\]**  |                                            |                                                    |                                            |
+| * - Veje ^
+
+5)^                        ***\[7\]**  |                                            |                                                    |                                            |
 +---------------------------------------------------+--------------------------------------------+----------------------------------------------------+--------------------------------------------+
 | ***Supplerende vejledning***                      | *Ingen krav*                               | *Byfornyelse mv. ^2)^*                             |                                            |
 |                                                   |                                            |                                                    |                                            |
 | *Planlovgivning*                                  |                                            | *Jernbaner: L~den~ ≤ 52 dB med åbne vinduer ^3)^*  |                                            |
 |                                                   |                                            |                                                    |                                            |
-| * - Jernbaner ^ 5)^               ***\[8\]**      |                                            |                                                    |                                            |
+| * - Jernbaner ^
+
+5)^               ***\[8\]**      |                                            |                                                    |                                            |
 +---------------------------------------------------+--------------------------------------------+----------------------------------------------------+--------------------------------------------+
 | **Noter**                                                                                                                                                                                        |
 |                                                                                                                                                                                                  |
-| 1)   BR18 henviser til DS 490 om lydklassifikation af boliger, lydklasse C, med grænseværdien for L~den~gældende for de enkelte trafikstøjkilder hver for sig.\                                  |
+|
+
+1)   BR18 henviser til DS 490 om lydklassifikation af boliger, lydklasse C, med grænseværdien for L~den~gældende for de enkelte trafikstøjkilder hver for sig.\                                  |
 | \                                                                                                                                                                                                |
 |                                                                                                                                                                                                  |
-| 2)   Byfornyelse, huludfyldning o.l. i eksisterende boligområder samt områder for blandede byfunktioner i bymæssig bebyggelse.\                                                                  |
+|
+
+2)   Byfornyelse, huludfyldning o.l. i eksisterende boligområder samt områder for blandede byfunktioner i bymæssig bebyggelse.\                                                                  |
 | \                                                                                                                                                                                                |
 |                                                                                                                                                                                                  |
-| 3)   Specielle løsninger er nødvendige.\                                                                                                                                                         |
+|
+
+3)   Specielle løsninger er nødvendige.\                                                                                                                                                         |
 | \                                                                                                                                                                                                |
 |                                                                                                                                                                                                  |
-| 4)   Grænseværdierne gælder i møblerede rum med eventuelle udeluftventiler i åben position.\                                                                                                     |
+|
+
+4)   Grænseværdierne gælder i møblerede rum med eventuelle udeluftventiler i åben position.\                                                                                                     |
 | \                                                                                                                                                                                                |
 |                                                                                                                                                                                                  |
-| 5)   Grænseværdierne gælder i møblerede rum.\                                                                                                                                                    |
+|
+
+5)   Grænseværdierne gælder i møblerede rum.\                                                                                                                                                    |
 | \                                                                                                                                                                                                |
 |                                                                                                                                                                                                  |
-| 6)   Lokale bestemmelser kan omfatte boliger ved en udendørs støjbelastning over 68 dB.                                                                                                          |
+|
+
+6)   Lokale bestemmelser kan omfatte boliger ved en udendørs støjbelastning over 68 dB.                                                                                                          |
 +--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 2.4
@@ -410,8 +459,6 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 2.5
 
 ### Rumakustik i boliger
-
-\
 
 ## Vejledning til undervisningsbygninger
 
@@ -427,9 +474,9 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 
 Bygningsreglementets krav om særskilte lydisolerende tiltag mellem undervisningsrum og tilgrænsende rum i erhvervsenheder eller i andre institutioner gælder kun ved tilgrænsende **rum med særligt generende støj** og således ikke ved sammenbygning med kontorlokaler eller almindelige undervisnings- eller opholdsrum, hvor der derfor kan fastsættes mere lempelige grænseværdier ved den akustiske projektering.
 
-**Åbne undervisningsområder** er arealer, hvori der undervises flere individuelle klasser eller grupper, der ikke er fysisk adskilt i lukkede rum. Disse arealer kræver særskilt akustisk projektering.\
+**Åbne undervisningsområder** er arealer, hvori der undervises flere individuelle klasser eller grupper, der ikke er fysisk adskilt i lukkede rum. Disse arealer kræver særskilt akustisk projektering.
 
-### 
+###
 
 [3.2](../)
 
@@ -447,8 +494,6 @@ Bygningsreglementets krav om særskilte lydisolerende tiltag mellem undervisning
 
 ### Rumakustik i undervisningsbygninger
 
-\
-
 ### Undervisningsbygninger
 
 [3.1](../)
@@ -461,7 +506,8 @@ Bygningsreglementets krav om særskilte lydisolerende tiltag mellem undervisning
 
 Tabel 3.1 indeholder grænseværdier for luftlydisolation og trinlydniveau i undervisningsbygninger svarende til overholdelse af BR18's lydbestemmelser.
 
-Lydbestemmelserne er gengivet fra SBi-anvisning 218.\
+Lydbestemmelserne er gengivet fra SBi-anvisning 218.
+
 Referencer findes i [afsnit 1.5](../vejledninger/generel_vejledning/referenceliste/).
 
 Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfylde Bygningsreglementets funktionskrav, er anført separat i tabellerne (i kursiv).
@@ -506,10 +552,14 @@ Heldagsklasser, helhedsskoler og indskolingslokaler, der dækker over, at de sam
 | **Noter\                                                                                                                                                                                                                                  |
 | \**                                                                                                                                                                                                                                       |
 |                                                                                                                                                                                                                                           |
-| 1)   Ved fleksible rumadskillelser forstås vægsystemer eller lignende rumopdelende elementer, som ikke fuldstændigt aflukker rum, men som afskærmer og adskiller dele af rum\                                                             |
+|
+
+1)   Ved fleksible rumadskillelser forstås vægsystemer eller lignende rumopdelende elementer, som ikke fuldstændigt aflukker rum, men som afskærmer og adskiller dele af rum\                                                             |
 | \                                                                                                                                                                                                                                         |
 |                                                                                                                                                                                                                                           |
-| 2)   Fra alle omgivende gulve, dæk og trapper.                                                                                                                                                                                            |
+|
+
+2)   Fra alle omgivende gulve, dæk og trapper.                                                                                                                                                                                            |
 +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 [3.3](../)
@@ -523,8 +573,6 @@ Heldagsklasser, helhedsskoler og indskolingslokaler, der dækker over, at de sam
 [3.5](../)
 
 ### Rumakustik i undervisningsbygninger
-
-\
 
 ### Undervisningsbygninger
 
@@ -550,7 +598,8 @@ Heldagsklasser, helhedsskoler og indskolingslokaler, der dækker over, at de sam
 
 Tabel 3.4 indeholder grænseværdier for efterklangstid og absorptionsareal i undervisnings­bygninger svarende til overholdelse af BR18's lydbestemmelser.
 
-Lydbestemmelserne er gengivet fra SBi-anvisning 218 og den supplerende vejledning fra SBi-anvisning 218.\
+Lydbestemmelserne er gengivet fra SBi-anvisning 218 og den supplerende vejledning fra SBi-anvisning 218.
+
 Referencer findes i [afsnit 1.5](../vejledninger/generel_vejledning/referenceliste/).
 
 Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde bygningsreglementets funktionskrav, er anført separat i tabellerne (i kursiv).
@@ -558,7 +607,11 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 +-----------------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
 | **Undervisningsbygninger -- Tabel 3.4 Rumakustik**                                                                                                                                                                                |
 +-----------------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
-| **Efterklangstid     \[4\]**                                                            | **T ^1),\ 3),\ a)^**                                               | **Frekvensområde**                                                 |
+| **Efterklangstid     \[4\]**                                                            | **T ^1),\
+
+3),
+
+a)^**                                               | **Frekvensområde**                                                 |
 +-----------------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
 | Klasserum ^b)^                                                                          | T ≤ 0,6 s                                                          | 125-4000Hz                                                         |
 +-----------------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
@@ -582,7 +635,11 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 +-----------------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
 | Trapperum                                                                               | T ≤ 1,3 s                                                          | 500-2000 Hz\                                                       |
 +-----------------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
-| **Absorptionsareal     \[4\]**                                                          | **A ^2),\ 3),\ a)^**                                               | **Frekvensområde**                                                 |
+| **Absorptionsareal     \[4\]**                                                          | **A ^2),\
+
+3),
+
+a)^**                                               | **Frekvensområde**                                                 |
 +-----------------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
 | Åbne undervisningsområder ^c)^                                                          | A ≥ 1,3 × gulvareal                                                |  125-4000Hz\                                                       |
 +-----------------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
@@ -598,19 +655,25 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 +-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Noter\**                                                                                                                                                                                                                        |
 |                                                                                                                                                                                                                                   |
-| 1)   Maksimumsværdien for efterklangstiden gælder for hvert 1/1-oktavbånd i frekvensområdet. Ved 125 Hz kan den angivne maksimumsværdi dog tillægges 20 %.\                                                                       |
-| \                                                                                                                                                                                                                                 |
-|                                                                                                                                                                                                                                   |
-| 2)   Minimumsværdien for absorptionsarealet gælder for hvert 1/1-oktavbånd.i frekvensområdet. Ved 125 Hz kan den angivne minimumsværdi dog fratrækkes 20 %.\                                                                      |
-| \                                                                                                                                                                                                                                 |
-|                                                                                                                                                                                                                                   |
-| 3)   Grænseværdierne gælder i møblerede rum. For gymnastiksale, svømmehaller, fællesgange (uden gruppearbejde) og trapperum dog i umøblerede rum.\                                                                                |
-| \                                                                                                                                                                                                                                 |
-|                                                                                                                                                                                                                                   |
-| 4)   Kan der ikke etableres særskilte rum til de to sang- og musikanvendelser, anbefales det at udføre undervisningsrum til sang og musik med variabel akustik, så begge anvendelser kan tilgodeses.                              |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|
 
-\
+1)   Maksimumsværdien for efterklangstiden gælder for hvert 1/1-oktavbånd i frekvensområdet. Ved 125 Hz kan den angivne maksimumsværdi dog tillægges 20 %.\                                                                       |
+| \                                                                                                                                                                                                                                 |
+|                                                                                                                                                                                                                                   |
+|
+
+2)   Minimumsværdien for absorptionsarealet gælder for hvert 1/1-oktavbånd.i frekvensområdet. Ved 125 Hz kan den angivne minimumsværdi dog fratrækkes 20 %.\                                                                      |
+| \                                                                                                                                                                                                                                 |
+|                                                                                                                                                                                                                                   |
+|
+
+3)   Grænseværdierne gælder i møblerede rum. For gymnastiksale, svømmehaller, fællesgange (uden gruppearbejde) og trapperum dog i umøblerede rum.\                                                                                |
+| \                                                                                                                                                                                                                                 |
+|                                                                                                                                                                                                                                   |
+|
+
+4)   Kan der ikke etableres særskilte rum til de to sang- og musikanvendelser, anbefales det at udføre undervisningsrum til sang og musik med variabel akustik, så begge anvendelser kan tilgodeses.                              |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ### Undervisningsbygninger
 
@@ -632,7 +695,8 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 
 Tabel 3.3 indeholder grænseværdier for støj fra tekniske installationer i undervisningsbygninger svarende til overholdelse af BR18's lydbestemmelser samt supplerende vejledende grænseværdier for lavfrekvent støj og infralyd.
 
-Lydbestemmelserne er gengivet fra SBi-anvisning 218 og den supplerende vejledning fra SBi-anvisning 272 og Miljøstyrelsens orientering 9/1997.\
+Lydbestemmelserne er gengivet fra SBi-anvisning 218 og den supplerende vejledning fra SBi-anvisning 272 og Miljøstyrelsens orientering 9/1997.
+
 Referencer findes i [afsnit 1.5](../vejledninger/generel_vejledning/referenceliste/).
 
 Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde Bygningsreglementets funktionskrav, er anført separat i tabellerne (i kursiv).
@@ -642,11 +706,15 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde By
 +---------------------------------------------+-------------------------------------+-----------------------------------+
 | **Rumtype**\                                | **Støjkilde ^2)^**                  | ***L~Aeq~***                      |
 +---------------------------------------------+-------------------------------------+-----------------------------------+
-| I undervisningsrum ^1),\ a)^     **\[4\]**  | Bygningens tekniske installationer  | ≤ 30 dB\                          |
+| I undervisningsrum ^1),\
+
+a)^     **\[4\]**  | Bygningens tekniske installationer  | ≤ 30 dB\                          |
 +---------------------------------------------+-------------------------------------+-----------------------------------+
 | ***Supplerende vejledning****     ***\[3\], \[9\]**                                                                   |
 |                                                                                                                       |
-| a)  *For tekniske installationer, der giver anledning til lavfrekvent støj i undervisningsrum:*                       |
+|
+
+a)  *For tekniske installationer, der giver anledning til lavfrekvent støj i undervisningsrum:*                       |
 |                                                                                                                       |
 | *A-vægtet, ækvivalent lydtrykniveau i lavfrekvensområdet, L*~p*A,LF*~*  ≤ 30 dB.*                                     |
 |                                                                                                                       |
@@ -654,17 +722,19 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde By
 +-----------------------------------------------------------------------------------------------------------------------+
 | **Noter\**                                                                                                            |
 |                                                                                                                       |
-| 1)   Grænseværdien gælder i møblerede rum.\                                                                           |
+|
+
+1)   Grænseværdien gælder i møblerede rum.\                                                                           |
 | \                                                                                                                     |
 |                                                                                                                       |
-| 2)   Grænseværdien gælder for den enkelte installation.                                                               |
+|
+
+2)   Grænseværdien gælder for den enkelte installation.                                                               |
 +-----------------------------------------------------------------------------------------------------------------------+
 
 [3.5](../)
 
 ### Rumakustik i undervisningsbygninger
-
-\
 
 ### Undervisningsbygninger
 
@@ -682,7 +752,8 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde By
 
 Tabel 3.2 indeholder grænseværdier for trafikstøj i undervisningsbygninger svarende til overholdelse af BR18's lydbestemmelser samt supplerende vejledende grænseværdier for trafikstøj indendørs med åbne vinduer.
 
-Lydbestemmelserne er gengivet fra SBi-anvisning 218 og den supplerende vejledning fra Miljøstyrelsens vejledning 4/2007 og 1/1997.\
+Lydbestemmelserne er gengivet fra SBi-anvisning 218 og den supplerende vejledning fra Miljøstyrelsens vejledning 4/2007 og 1/1997.
+
 Referencer findes i [afsnit 1.5](../vejledninger/generel_vejledning/referenceliste/).
 
 Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde bygningsreglementets funktionskrav, er anført separat i tabellerne (i kursiv).
@@ -690,7 +761,9 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 +----------------------------------------------------------------------+-----------------------------------------+---------------------------------------------------+----------------------------------------------------------------+
 | **Undervisningsbygninger -- Tabel 3.2 Støj indendørs fra trafik**                                                                                                                                                                   |
 +----------------------------------------------------------------------+-----------------------------------------+---------------------------------------------------+----------------------------------------------------------------+
-| **Lovgivning^ 4)^**                                                  | **Støjbelastning ude**                  | **Støjbelastning ude**                            | **Støjbelastning ude**                                         |
+| **Lovgivning^
+
+4)^**                                                  | **Støjbelastning ude**                  | **Støjbelastning ude**                            | **Støjbelastning ude**                                         |
 |                                                                      |                                         |                                                   |                                                                |
 |                                                                      | **Veje: *L~den~* ≤ 58 dB**              | **Veje: 58 dB \< *L~den~* ≤ 68 dB**               | **Veje: *L~den~* \> 68 dB**                                    |
 |                                                                      |                                         |                                                   |                                                                |
@@ -698,7 +771,9 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 +----------------------------------------------------------------------+-----------------------------------------+---------------------------------------------------+----------------------------------------------------------------+
 | BR18 ^1) ^**                                                \[4\]**  |  *L*~*den*~ ≤ 33 dB med lukkede vinduer |  *L~den~* ≤ 33 dB med lukkede vinduer             |  *L~den~* ≤ 33 dB med lukkede vinduer                          |
 +----------------------------------------------------------------------+-----------------------------------------+---------------------------------------------------+----------------------------------------------------------------+
-| ***Supplerende vejledning***                                         |  *Ingen krav*\                          |  *Byfornyelse mv. ^ 2)^*                          | *Der bør ikke planlægges for støjfølsom anvendelse ^**5)**^* \ |
+| ***Supplerende vejledning***                                         |  *Ingen krav*\                          |  *Byfornyelse mv. ^
+
+2)^*                          | *Der bør ikke planlægges for støjfølsom anvendelse ^**5)**^* \ |
 |                                                                      |                                         |                                                   |                                                                |
 | *Planlovgivning - Veje   *                         **\[7\]**         |                                         | *Veje: L~den~ ≤ 46 dB med åbne vinduer ^3)^*      |                                                                |
 +----------------------------------------------------------------------+-----------------------------------------+---------------------------------------------------+----------------------------------------------------------------+
@@ -711,19 +786,29 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 | **Noter\                                                                                                                                                                                                                            |
 | \**                                                                                                                                                                                                                                 |
 |                                                                                                                                                                                                                                     |
-| 1)   Grænseværdien for L~den~ gældende for de enkelte trafikstøjkilder hver for sig.\                                                                                                                                               |
+|
+
+1)   Grænseværdien for L~den~ gældende for de enkelte trafikstøjkilder hver for sig.\                                                                                                                                               |
 | \                                                                                                                                                                                                                                   |
 |                                                                                                                                                                                                                                     |
-| 2)   Byfornyelse, huludfyldning o.l. i eksisterende boligområder samt områder for blandede byfunktioner i bymæssig bebyggelse.\                                                                                                     |
+|
+
+2)   Byfornyelse, huludfyldning o.l. i eksisterende boligområder samt områder for blandede byfunktioner i bymæssig bebyggelse.\                                                                                                     |
 | \                                                                                                                                                                                                                                   |
 |                                                                                                                                                                                                                                     |
-| 3)   Specielle løsninger er nødvendige.\                                                                                                                                                                                            |
+|
+
+3)   Specielle løsninger er nødvendige.\                                                                                                                                                                                            |
 | \                                                                                                                                                                                                                                   |
 |                                                                                                                                                                                                                                     |
-| 4)   Grænseværdierne gælder i møblerede undervisningsrum.\                                                                                                                                                                          |
+|
+
+4)   Grænseværdierne gælder i møblerede undervisningsrum.\                                                                                                                                                                          |
 | \                                                                                                                                                                                                                                   |
 |                                                                                                                                                                                                                                     |
-| 5)   Lokale bestemmelser kan omfatte undervisningsbygninger ved en udendørs støjbelastning over 68 dB.                                                                                                                              |
+|
+
+5)   Lokale bestemmelser kan omfatte undervisningsbygninger ved en udendørs støjbelastning over 68 dB.                                                                                                                              |
 +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 +-----------------------------------------------------------------------+
@@ -750,12 +835,9 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 
 ### Rumakustik i undervisningsbygninger
 
-\
-
 ### Undervisningsbygninger
 
-Tabellerne i dette afsnit beskriver grænseværdierne for lydisolation, støj indendørs fra trafik, støj fra tekniske installationer samt efterklangstid og absorptionsareal. Grænseværdierne er primært gengivet fra SBi-anvisning 218 om lydforhold i undervisnings- og daginstitutionsbygninger.\
-\
+Tabellerne i dette afsnit beskriver grænseværdierne for lydisolation, støj indendørs fra trafik, støj fra tekniske installationer samt efterklangstid og absorptionsareal. Grænseværdierne er primært gengivet fra SBi-anvisning 218 om lydforhold i undervisnings- og daginstitutionsbygninger.
 
 [3.1](../)
 
@@ -776,8 +858,6 @@ Tabellerne i dette afsnit beskriver grænseværdierne for lydisolation, støj in
 [3.5](../)
 
 ### Rumakustik i undervisningsbygninger
-
-\
 
 ## Vejledning til daginstitutionsbygninger
 
@@ -805,8 +885,6 @@ Tabellerne i dette afsnit beskriver lydbestemmelserne for lydisolation, støj in
 
 ### Rumakustik i daginstitutionsbygninger
 
-\
-
 ### Daginstitutionsbygninger
 
 [4.1](./)
@@ -825,7 +903,7 @@ Med hensyn til Bygningsreglementets bestemmelser for lydisolation skelnes der me
 
 Bygningsreglementets krav om særskilte lydisolerende tiltag mellem opholdsrum og tilgrænsende rum i erhvervsenheder eller i andre institutioner gælder kun ved tilgrænsende **rum med særligt generende støj** og således ikke ved sammenbygning med kontorlokaler eller almindelige undervisnings- eller opholdsrum, hvor der derfor kan fastsættes mere lempelige grænseværdier ved den akustiske projektering.
 
-### 
+###
 
 [4.2](../)
 
@@ -843,8 +921,6 @@ Bygningsreglementets krav om særskilte lydisolerende tiltag mellem opholdsrum o
 
 ### Rumakustik i daginstitutionsbygninger
 
-\
-
 ### Daginstitutionsbygninger
 
 [4.1](../)
@@ -861,7 +937,8 @@ Daginstitutionsbygninger omfatter børneinstitutioner, skolefritidsordninger m.v
 
 Tabel 4.1 indeholder grænseværdier for luftlydisolation og trinlydniveau i daginstitutionsbygninger svarende til overholdelse af BR18's lydbestemmelser.
 
-Lydbestemmelserne er gengivet fra SBi-anvisning 218.\
+Lydbestemmelserne er gengivet fra SBi-anvisning 218.
+
 Referencer findes i [afsnit 1.5](../vejledninger/generel_vejledning/referenceliste/).
 
 Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde bygningsreglementets funktionskrav, er anført separat i tabellerne (i kursiv).
@@ -902,8 +979,6 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 
 ### Rumakustik i daginstitutionsbygninger
 
-\
-
 ### Daginstitutionsbygninger
 
 [4.1](../)
@@ -928,7 +1003,8 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 
 Tabel 4.4 indeholder grænseværdier for efterklangstid og absorptionsareal i daginstitutionsbygninger svarende til overholdelse af BR18's lydbestemmelser.
 
-Lydbestemmelserne og den supplerende vejledning er gengivet fra SBi-anvisning 218.\
+Lydbestemmelserne og den supplerende vejledning er gengivet fra SBi-anvisning 218.
+
 Referencer findes i [afsnit 1.5](../vejledninger/generel_vejledning/referenceliste/).
 
 Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde bygningsreglementets funktionskrav, er anført separat i tabellerne (i kursiv).
@@ -936,11 +1012,19 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 +----------------------------------------------------------------------------+-----------------------------------+-----------------------------------+
 | **Daginstitutionsbygninger -- Tabel 4.4 Rumakustik**                                                                                               |
 +----------------------------------------------------------------------------+-----------------------------------+-----------------------------------+
-| **Efterklangstid**           **\[4\]**                                     | **T ^1),\ 3),\ a)^**              | **Frekvensområde**                |
+| **Efterklangstid**           **\[4\]**                                     | **T ^1),\
+
+3),
+
+a)^**              | **Frekvensområde**                |
 +----------------------------------------------------------------------------+-----------------------------------+-----------------------------------+
 | Opholdsrum                                                                 | T ≤ 0,4 s                         | 125-4000Hz                        |
 +----------------------------------------------------------------------------+-----------------------------------+-----------------------------------+
-| **Absorptionsareal     \[4\]**                                             | **A ^2),\ 3),\ a)^**              |                                   |
+| **Absorptionsareal     \[4\]**                                             | **A ^2),\
+
+3),
+
+a)^**              |                                   |
 +----------------------------------------------------------------------------+-----------------------------------+-----------------------------------+
 | Opholdsrum med lofthøjde større end 4 m og rumvolumen større end 300 m^3^  | A ≥ 1,2 × gulvareal               | 125-4000Hz                        |
 +----------------------------------------------------------------------------+-----------------------------------+-----------------------------------+
@@ -950,18 +1034,22 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 +----------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Noter**                                                                                                                                          |
 |                                                                                                                                                    |
-| 1)   Maksimumsværdien for efterklangstiden gælder for hvert 1/1-oktavbånd i frekvensområdet. \                                                     |
+|
+
+1)   Maksimumsværdien for efterklangstiden gælder for hvert 1/1-oktavbånd i frekvensområdet. \                                                     |
 | Ved 125 Hz kan den angivne maksimumsværdi dog tillægges 20 %.\                                                                                     |
 | \                                                                                                                                                  |
 |                                                                                                                                                    |
-| 2)   Minimumsværdien for absorptionsarealet gælder for hvert 1/1-oktavbånd i frekvensområdet. \                                                    |
+|
+
+2)   Minimumsværdien for absorptionsarealet gælder for hvert 1/1-oktavbånd i frekvensområdet. \                                                    |
 | Ved 125 Hz kan den angivne minimumsværdi dog fratrækkes 20 %.\                                                                                     |
 | \                                                                                                                                                  |
 |                                                                                                                                                    |
-| 3)   Grænseværdierne gælder i møblerede rum.                                                                                                       |
-+----------------------------------------------------------------------------------------------------------------------------------------------------+
+|
 
-\
+3)   Grænseværdierne gælder i møblerede rum.                                                                                                       |
++----------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ### Daginstitutionsbygninger
 
@@ -983,7 +1071,8 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 
 Tabel 4.3 indeholder grænseværdier for støj fra tekniske installationer i daginstitutionsbygninger svarende til overholdelse af BR2018's lydbestemmelser samt supplerende vejledende grænseværdier for lavfrekvent støj og infralyd.
 
-Lydbestemmelserne er gengivet fra SBi-anvisning 218, og den supplerende vejledning fra SBi-anvisning 272 og Miljøstyrelsens orientering 9/1997.\
+Lydbestemmelserne er gengivet fra SBi-anvisning 218, og den supplerende vejledning fra SBi-anvisning 272 og Miljøstyrelsens orientering 9/1997.
+
 Referencer findes i [afsnit 1.5](../vejledninger/generel_vejledning/referenceliste/).
 
 Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde bygningsreglementets funktionskrav, er anført separat i tabellerne (i kursiv).
@@ -993,11 +1082,15 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 +----------------------------------------+------------------------------------+---------------------------------+
 | **Rumtype**                            | **Støjkilde ^2)^**                 | ***L~Aeq~***                    |
 +----------------------------------------+------------------------------------+---------------------------------+
-| I opholdsrum ^1),\ a)^*    ***\[4\]**  | Bygningens tekniske installationer | ≤ 30 dB                         |
+| I opholdsrum ^1),\
+
+a)^*    ***\[4\]**  | Bygningens tekniske installationer | ≤ 30 dB                         |
 +----------------------------------------+------------------------------------+---------------------------------+
 | *Supplerende vejledning     ***\[3\], \[9\]**                                                                 |
 |                                                                                                               |
-| a)  *For tekniske installationer, der giver anledning til lavfrekvent støj i opholdsrum:*                     |
+|
+
+a)  *For tekniske installationer, der giver anledning til lavfrekvent støj i opholdsrum:*                     |
 |                                                                                                               |
 | *A-vægtet, ækvivalent lydtrykniveau i lavfrekvensområdet, L*~p*A,LF*~*  ≤ 25 dB.*                             |
 |                                                                                                               |
@@ -1005,17 +1098,19 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 +---------------------------------------------------------------------------------------------------------------+
 | **Noter\**                                                                                                    |
 |                                                                                                               |
-| 1)   Grænseværdien gælder i møblerede rum.\                                                                   |
+|
+
+1)   Grænseværdien gælder i møblerede rum.\                                                                   |
 | \                                                                                                             |
 |                                                                                                               |
-| 2)   Grænseværdien gælder for den enkelte installation.                                                       |
+|
+
+2)   Grænseværdien gælder for den enkelte installation.                                                       |
 +---------------------------------------------------------------------------------------------------------------+
 
 [4.5](../)
 
 ### Rumakustik i daginstitutionsbygninger
-
-\
 
 ### Daginstitutionsbygninger
 
@@ -1033,7 +1128,8 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 
 Tabel 4.2 indeholder grænseværdier for trafikstøj i daginstitutionsbygninger svarende til overholdelse af BR18's lydbestemmelser samt supplerende vejledende grænseværdier for trafikstøj indendørs med åbne vinduer.
 
-Lydbestemmelserne er gengivet fra SBi-anvisning 218, og den supplerende vejledning fra Miljøstyrelsens vejledning 4/2007 og 1/1997.\
+Lydbestemmelserne er gengivet fra SBi-anvisning 218, og den supplerende vejledning fra Miljøstyrelsens vejledning 4/2007 og 1/1997.
+
 Referencer findes i [afsnit 1.5](../vejledninger/generel_vejledning/referenceliste/).
 
 Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfylde Bygningsreglementets funktionskrav, er anført separat i tabellerne (i kursiv).
@@ -1060,19 +1156,29 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 | **Noter\                                                                                                                                                                                                                 |
 | \**                                                                                                                                                                                                                      |
 |                                                                                                                                                                                                                          |
-| 1)   Grænseværdien for L~den~ gældende for de enkelte trafikstøjkilder hver for sig.\                                                                                                                                    |
+|
+
+1)   Grænseværdien for L~den~ gældende for de enkelte trafikstøjkilder hver for sig.\                                                                                                                                    |
 | \                                                                                                                                                                                                                        |
 |                                                                                                                                                                                                                          |
-| 2)   Byfornyelse, huludfyldning o.l. i eksisterende boligområder samt områder for blandede byfunktioner i bymæssig bebyggelse.\                                                                                          |
+|
+
+2)   Byfornyelse, huludfyldning o.l. i eksisterende boligområder samt områder for blandede byfunktioner i bymæssig bebyggelse.\                                                                                          |
 | \                                                                                                                                                                                                                        |
 |                                                                                                                                                                                                                          |
-| 3)   Specielle løsninger er nødvendige.\                                                                                                                                                                                 |
+|
+
+3)   Specielle løsninger er nødvendige.\                                                                                                                                                                                 |
 | \                                                                                                                                                                                                                        |
 |                                                                                                                                                                                                                          |
-| 4)   Grænseværdierne gælder i møblerede opholdsrum.\                                                                                                                                                                     |
+|
+
+4)   Grænseværdierne gælder i møblerede opholdsrum.\                                                                                                                                                                     |
 | \                                                                                                                                                                                                                        |
 |                                                                                                                                                                                                                          |
-| 5)   Lokale bestemmelser kan omfatte daginstitutionsbygninger ved en udendørs støjbelastning over 68 dB.                                                                                                                 |
+|
+
+5)   Lokale bestemmelser kan omfatte daginstitutionsbygninger ved en udendørs støjbelastning over 68 dB.                                                                                                                 |
 +--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 [4.4](../)
@@ -1082,8 +1188,6 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 [4.5](../)
 
 ### Rumakustik i daginstitutionsbygninger
-
-\
 
 ## Vejledning til kontorbyggeri
 
@@ -1099,19 +1203,20 @@ De angivne forslag til projekteringsværdier omfatter ikke alle rumtyper og anve
 
 **Definitioner af rumtyper for kontorbyggeri**
 
-\- **Kontorer**, 1-4 personer\
-\
-- **Møderum**\
-\
-- **Videokonferencerum** kan være relativt små rum indrettet i almindelige møderum, men kan også være større rum, der kræver særskilt akustisk projektering.\
-\
-- **Storrumskontorer** er arealer, hvori de enkelte medarbejdere ikke er fysisk adskilt i lukkede rum. Disse arealer kræver særskilt akustisk projektering.\
-\
-- **Auditorier** er rum, der benyttes til præsentationer for et større antal personer, fx fra 50 personer op til flere hundrede. Sådanne rum kræver særskilt akustisk projektering.\
-\
-- **Kantiner** benyttes til servering af frokost og også ofte til møder, seminarer eller lignende. Kantiner kan have meget varierende størrelse og form og kræver særskilt akustisk\
-projektering.\
-\
+\- **Kontorer**, 1-4 personer
+
+- **Møderum**
+
+- **Videokonferencerum** kan være relativt små rum indrettet i almindelige møderum, men kan også være større rum, der kræver særskilt akustisk projektering.
+
+- **Storrumskontorer** er arealer, hvori de enkelte medarbejdere ikke er fysisk adskilt i lukkede rum. Disse arealer kræver særskilt akustisk projektering.
+
+- **Auditorier** er rum, der benyttes til præsentationer for et større antal personer, fx fra 50 personer op til flere hundrede. Sådanne rum kræver særskilt akustisk projektering.
+
+- **Kantiner** benyttes til servering af frokost og også ofte til møder, seminarer eller lignende. Kantiner kan have meget varierende størrelse og form og kræver særskilt akustisk
+
+projektering.
+
 - **Toiletfaciliteter** − ofte bestående af forrum og toiletrum**\**
 
 [5.1](../)
@@ -1129,8 +1234,6 @@ projektering.\
 [5.4](../)
 
 ### Rumakustik
-
-\
 
 ### Kontorbyggeri
 
@@ -1191,14 +1294,19 @@ Tabel 5.1 indeholder forslag projekteringsværdier for luftlydisolation og trinl
 |                                                                                                                                                                  |                                          |
 | 1\) Der kan til rum med ekstra store krav til fortrolighed være behov for en bedre lydisolation.\                                                                |                                          |
 | \                                                                                                                                                                |                                          |
-| 2) Der opstilles i det konkrete projekt lydkrav, der sikrer tilfredsstillende lydforhold for rumanvendelsen.\                                                    |                                          |
+|
+
+2) Der opstilles i det konkrete projekt lydkrav, der sikrer tilfredsstillende lydforhold for rumanvendelsen.\                                                    |                                          |
 | \                                                                                                                                                                |                                          |
-| 3) I tilfælde af særligt generende støj i egen eller andres virksomhed opstilles relevante lydkrav, der sikrer tilfredsstillende lydforhold for rumanvendelsen.\ |                                          |
+|
+
+3) I tilfælde af særligt generende støj i egen eller andres virksomhed opstilles relevante lydkrav, der sikrer tilfredsstillende lydforhold for rumanvendelsen.\ |                                          |
 | \                                                                                                                                                                |                                          |
-| 4) Fra alle omgivende gulve, dæk og trapper.**\**                                                                                                                |                                          |
+|
+
+4) Fra alle omgivende gulve, dæk og trapper.**\**                                                                                                                |                                          |
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------+
 
-\
 [5.2](../)
 
 ### Støj indendørs fra trafik
@@ -1210,8 +1318,6 @@ Tabel 5.1 indeholder forslag projekteringsværdier for luftlydisolation og trinl
 [5.4](../)
 
 ### Rumakustik
-
-\
 
 ### Kontorbyggeri
 
@@ -1236,7 +1342,9 @@ Tabel 5.4 indeholder forslag til projekteringsværdier for efterklangstid og abs
 +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
 | **Kontorbyggeri -- Tabel 5.4 Rumakustik** **-- Forslag til projekteringsværdier**                                                                                                                                                                                                                                                                                                                                  |
 +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
-| **Efterklangstid**                                                                                                                   | **T ^1),\ 3)^**                                                                                                                      | **Frekvensområde**                                                                                                                   |
+| **Efterklangstid**                                                                                                                   | **T ^1),\
+
+3)^**                                                                                                                      | **Frekvensområde**                                                                                                                   |
 +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
 | Kontorer (1-4 personer) og møderum                                                                                                   | T ≤ 0,6 s                                                                                                                            | 125-4000Hz                                                                                                                           |
 +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
@@ -1248,13 +1356,21 @@ Tabel 5.4 indeholder forslag til projekteringsværdier for efterklangstid og abs
 +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
 | Auditorier, videokonferencerum                                                                                                       | Projektkrav ^5)^                                                                                                                     | Projektkrav ^5)^                                                                                                                     |
 +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
-| Cafeteria/kantine                                                                                                                    | Projektkrav ^5),\ 7)^                                                                                                                | 125-4000 Hz                                                                                                                          |
+| Cafeteria/kantine                                                                                                                    | Projektkrav ^5),\
+
+7)^                                                                                                                | 125-4000 Hz                                                                                                                          |
 +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
 | Storkøkkener                                                                                                                         | Projektkrav ^5)^                                                                                                                     |                                                                                                                                      |
 +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
 | **Absorptionsareal**                                                                                                                 | **A ^2)^**                                                                                                                           | **Frekvensområde**                                                                                                                   |
 +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
-| Storrumskontor ^a),\ b),\ 3),\ 4)^                                                                                                   | A ≥ 1,1 × gulvareal                                                                                                                  | 125-4000Hz                                                                                                                           |
+| Storrumskontor ^a),\
+
+b),
+
+3),
+
+4)^                                                                                                   | A ≥ 1,1 × gulvareal                                                                                                                  | 125-4000Hz                                                                                                                           |
 +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
 | Atrier                                                                                                                               | Projektkrav ^5^                                                                                                                      |                                                                                                                                      |
 +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
@@ -1263,28 +1379,41 @@ Tabel 5.4 indeholder forslag til projekteringsværdier for efterklangstid og abs
 | a\) *For åbne kontorområder gælder specielle forhold fx omkring lydudbredelse og taleforståelighed,\                                                                                                                                                                                                                                                                                                               |
 | se \[3\] og \[12\].\*                                                                                                                                                                                                                                                                                                                                                                                              |
 | \                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| b) *Der kan ikke påregnes optimale lydforhold for alle sædvanlige kontoraktiviteter, uanset omhyggelig projektering. For at opnå gode lydforhold i storrumskontorer, er det vigtigt, at der ud over at overholde de angivne vejledende krav, udarbejdes interne regler for støjmæssig adfærd i storrumskontorer. Det er også vigtigt, at placeringen af forskellige grupper inddrages i projekteringen.*           |
+|
+
+b) *Der kan ikke påregnes optimale lydforhold for alle sædvanlige kontoraktiviteter, uanset omhyggelig projektering. For at opnå gode lydforhold i storrumskontorer, er det vigtigt, at der ud over at overholde de angivne vejledende krav, udarbejdes interne regler for støjmæssig adfærd i storrumskontorer. Det er også vigtigt, at placeringen af forskellige grupper inddrages i projekteringen.*           |
 +--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Noter **                                                                                                                                                                                                                                                                                                                                                                                                         |
 |                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| 1) Maksimumsværdien for efterklangstiden gælder for hvert 1/1-oktavbånd i frekvensområdet. Ved 125 Hz kan den angivne maksimumsværdi dog tillægges 20 %.\                                                                                                                                                                                                                                                          |
+|
+
+1) Maksimumsværdien for efterklangstiden gælder for hvert 1/1-oktavbånd i frekvensområdet. Ved 125 Hz kan den angivne maksimumsværdi dog tillægges 20 %.\                                                                                                                                                                                                                                                          |
 | \                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 2) Minimumsværdien for absorptionsarealet gælder for hvert 1/1-oktavbånd i frekvensområdet. Ved 125 Hz kan den angivne minimumsværdi dog fratrækkes 20 %.\                                                                                                                                                                                                                                                         |
+|
+
+2) Minimumsværdien for absorptionsarealet gælder for hvert 1/1-oktavbånd i frekvensområdet. Ved 125 Hz kan den angivne minimumsværdi dog fratrækkes 20 %.\                                                                                                                                                                                                                                                         |
 | \                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 3) Projekteringsværdierne gælder i møblerede rum. For storrumskontorer vil der være en fordeling af lydabsorptionen mellem bygning og indretning. For bygningen foreslås absorptionsareal ≥ 1,0 x gulvareal.\                                                                                                                                                                                                      |
+|
+
+3) Projekteringsværdierne gælder i møblerede rum. For storrumskontorer vil der være en fordeling af lydabsorptionen mellem bygning og indretning. For bygningen foreslås absorptionsareal ≥ 1,0 x gulvareal.\                                                                                                                                                                                                      |
 | \                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 4) Som minimum bør sikres en afstandsdæmpning af tale *D*~2,s~ og A-vejet lydtrykniveau af tale i 4 m afstand *L*~p,AS,4m~ svarende til lydklasse C i \[16\].\                                                                                                                                                                                                                                                     |
+|
+
+4) Som minimum bør sikres en afstandsdæmpning af tale *D*~2,s~ og A-vejet lydtrykniveau af tale i 4 m afstand *L*~p,AS,4m~ svarende til lydklasse C i \[16\].\                                                                                                                                                                                                                                                     |
 | \                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 5) Der opstilles relevante projektkrav, der kan sikre tilfredsstillende lydforhold for rumanvendelsen.\                                                                                                                                                                                                                                                                                                            |
+|
+
+5) Der opstilles relevante projektkrav, der kan sikre tilfredsstillende lydforhold for rumanvendelsen.\                                                                                                                                                                                                                                                                                                            |
 | \                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 6) Kun gange uden opholds- og arbejdsområder. Hvor arealerne i nogen grad anvendes til opholds- eller arbejdsområder anvendes T ≤ 0,6 s.\                                                                                                                                                                                                                                                                          |
+|
+
+6) Kun gange uden opholds- og arbejdsområder. Hvor arealerne i nogen grad anvendes til opholds- eller arbejdsområder anvendes T ≤ 0,6 s.\                                                                                                                                                                                                                                                                          |
 | \                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 7) Det anbefales til almindelige cafeterier og kantiner at benytte begrebet "akustisk kapacitet" og specificere max efterklangstid som lydklasse C i henhold til \[16\].**\                                                                                                                                                                                                                                        |
+|
+
+7) Det anbefales til almindelige cafeterier og kantiner at benytte begrebet "akustisk kapacitet" og specificere max efterklangstid som lydklasse C i henhold til \[16\].**\                                                                                                                                                                                                                                        |
 | \**                                                                                                                                                                                                                                                                                                                                                                                                                |
 +--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-
-\
-\
 
 ### Kontorbyggeri
 
@@ -1325,18 +1454,23 @@ Tabel 5.3 indeholder forslag til projekteringsværdier for støj fra tekniske in
 +-------------------------------------------------------------------------------------------------------------------------------+
 | **Noter **                                                                                                                    |
 |                                                                                                                               |
-| 1) Projekteringsværdierne gælder i møblerede rum.\                                                                            |
-| 2) Projekteringsværdierne gælder for den enkelte installation.\                                                               |
-| 3) Der opstilles relevante projektkrav, der kan sikre tilfredsstillende lydforhold for rumanvendelsen.\                       |
-| 4) For kantiner, der benyttes som mødefacilitet, anbefales ***L***~**Aeq**~ ≤ 35 dB.**\**                                     |
+|
+
+1) Projekteringsværdierne gælder i møblerede rum.\                                                                            |
+|
+
+2) Projekteringsværdierne gælder for den enkelte installation.\                                                               |
+|
+
+3) Der opstilles relevante projektkrav, der kan sikre tilfredsstillende lydforhold for rumanvendelsen.\                       |
+|
+
+4) For kantiner, der benyttes som mødefacilitet, anbefales ***L***~**Aeq**~ ≤ 35 dB.**\**                                     |
 +-------------------------------------------------------------------------------------------------------------------------------+
 
-\
 [5.4](../)
 
 ### Rumakustik
-
-\
 
 ### Kontorbyggeri
 
@@ -1364,10 +1498,11 @@ Tabel 5.2 indeholder forslag til projekteringsværdier for trafikstøj i kontorb
 +-------------------------------------------------+-------------------------------------------------+
 | **Noter**                                                                                         |
 |                                                                                                   |
-| 1) Projekteringsværdierne gælder i møblerede rum, men uden personer til stede.                    |
+|
+
+1) Projekteringsværdierne gælder i møblerede rum, men uden personer til stede.                    |
 +---------------------------------------------------------------------------------------------------+
 
-\
 [5.3](../)
 
 ### Støj fra tekniske installationer
@@ -1375,8 +1510,6 @@ Tabel 5.2 indeholder forslag til projekteringsværdier for trafikstøj i kontorb
 [5.4](../)
 
 ### Rumakustik
-
-\
 
 ## Vejledning til hospitaler, lægehuse og klinikker
 
@@ -1397,27 +1530,27 @@ For hospitaler har en række rum skærpede lydkrav i forhold til andre bygningsa
 **Definitioner af rumtyper for hospitaler, lægehuse og klinikker**
 
 **- **Sengestuer\**
-\
+
 - **Undersøgelsesrum, behandlingsrum, operationsstuer mv.\**
-\
+
 - **Kontorer\**
-\
+
 - **Møderum\**
-\
+
 - **Toiletrum\**
 \**
-- **Videokonferencerum** kan være relativt små rum indrettet i almindelige møderum, men kan også være større rum, der kræver særskilt akustisk projektering.\
-\
-- **Storrumskontorer** er arealer, hvori de enkelte medarbejdere ikke er fysisk adskilt i lukkede rum. Disse arealer kræver særskilt akustisk projektering.\
-\
-- **Kantiner** benyttes til servering af frokost og også ofte til møder, seminarer eller lignende. Kantiner kan have meget varierende størrelse og form og kræver særskilt akustisk projektering.\
-\
-- **Auditorier** er rum, der benyttes til præsentationer for et større antal personer, fx fra 50 personer op til flere hundrede. Sådanne rum kræver særskilt akustisk projektering.\
-\
+- **Videokonferencerum** kan være relativt små rum indrettet i almindelige møderum, men kan også være større rum, der kræver særskilt akustisk projektering.
+
+- **Storrumskontorer** er arealer, hvori de enkelte medarbejdere ikke er fysisk adskilt i lukkede rum. Disse arealer kræver særskilt akustisk projektering.
+
+- **Kantiner** benyttes til servering af frokost og også ofte til møder, seminarer eller lignende. Kantiner kan have meget varierende størrelse og form og kræver særskilt akustisk projektering.
+
+- **Auditorier** er rum, der benyttes til præsentationer for et større antal personer, fx fra 50 personer op til flere hundrede. Sådanne rum kræver særskilt akustisk projektering.
+
 - **Opholdsrum\**
-\
+
 - **Gange og trapper\**
-\
+
 - **Teknikrum\**
 
 [6.1](../)
@@ -1435,8 +1568,6 @@ For hospitaler har en række rum skærpede lydkrav i forhold til andre bygningsa
 [6.4](../)
 
 ### Rumakustik
-
-\
 
 ### Hospitaler, lægehuse og klinikker
 
@@ -1502,14 +1633,19 @@ Tabel 6.1 indeholder forslag til projekteringsværdier for luftlydisolation og t
 |                                                                                                                                                                  |                                       |
 | 1\) Der kan til rum med ekstra store krav til fortrolighed være behov for en bedre lydisolation.\                                                                |                                       |
 | \                                                                                                                                                                |                                       |
-| 2) Der opstilles i det konkrete projekt lydkrav, der sikrer tilfredsstillende lydforhold for rumanvendelsen.\                                                    |                                       |
+|
+
+2) Der opstilles i det konkrete projekt lydkrav, der sikrer tilfredsstillende lydforhold for rumanvendelsen.\                                                    |                                       |
 | \                                                                                                                                                                |                                       |
-| 3) I tilfælde af særligt generende støj i egen eller andres virksomhed opstilles relevante lydkrav, der sikrer tilfredsstillende lydforhold for rumanvendelsen.\ |                                       |
+|
+
+3) I tilfælde af særligt generende støj i egen eller andres virksomhed opstilles relevante lydkrav, der sikrer tilfredsstillende lydforhold for rumanvendelsen.\ |                                       |
 | \                                                                                                                                                                |                                       |
-| 4) Fra alle omgivende gulve, dæk og trapper.                                                                                                                     |                                       |
+|
+
+4) Fra alle omgivende gulve, dæk og trapper.                                                                                                                     |                                       |
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------+
 
-\
 [6.2](../)
 
 ### Støj indendørs fra trafik
@@ -1521,8 +1657,6 @@ Tabel 6.1 indeholder forslag til projekteringsværdier for luftlydisolation og t
 [6.4](../)
 
 ### Rumakustik
-
-\
 
 ### Hospitaler, lægehuse og klinikker
 
@@ -1547,7 +1681,9 @@ Tabel 6.4 indeholder forslag til projekteringsværdier for efterklangstid og abs
 +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
 | **Hospitaler** **-- Tabel 6.4 Rumakustik -- Forslag til projekteringsværdier**                                                                                                                                                                                                                                                                                                                                     |
 +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
-| **Efterklangstid**                                                                                                                   | **T ^1),\ 3)^**                                                                                                                      | **Frekvensområde**                                                                                                                   |
+| **Efterklangstid**                                                                                                                   | **T ^1),\
+
+3)^**                                                                                                                      | **Frekvensområde**                                                                                                                   |
 +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
 | Sengestuer, undersøgelsesrum, behandlingsrum, operationsstuer, konsultationsrum, scannerrum, røntgenrum, fødestuer, skyllerum        | T ≤ 0,6 s                                                                                                                            | 125-4000Hz                                                                                                                           |
 +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
@@ -1565,13 +1701,21 @@ Tabel 6.4 indeholder forslag til projekteringsværdier for efterklangstid og abs
 +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
 | Auditorier og større videokonferencerum                                                                                              | Projektkrav **^5)^**                                                                                                                 | Projektkrav **^5)^**                                                                                                                 |
 +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
-| Cafeteria/kantine                                                                                                                    | Projektkrav **^5,\ 6)^**                                                                                                             | 125-4000 Hz                                                                                                                          |
+| Cafeteria/kantine                                                                                                                    | Projektkrav **^5,\
+
+6)^**                                                                                                             | 125-4000 Hz                                                                                                                          |
 +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
 | Storkøkkener                                                                                                                         | Projektkrav **^5)^**                                                                                                                 |                                                                                                                                      |
 +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
 | **Absorptionsareal**                                                                                                                 | **A ^2)^**                                                                                                                           | **Frekvensområde**                                                                                                                   |
 +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
-| Storrumskontor ^a),\ b),\ 3),\ 4)^                                                                                                   | A ≥ 1,1 × gulvareal                                                                                                                  | 125-4000Hz                                                                                                                           |
+| Storrumskontor ^a),\
+
+b),
+
+3),
+
+4)^                                                                                                   | A ≥ 1,1 × gulvareal                                                                                                                  | 125-4000Hz                                                                                                                           |
 +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
 | Atrier                                                                                                                               | Projektkrav **^5)^**                                                                                                                 |                                                                                                                                      |
 +--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
@@ -1579,25 +1723,34 @@ Tabel 6.4 indeholder forslag til projekteringsværdier for efterklangstid og abs
 |                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | a\) *For åbne kontorområder gælder specielle forhold fx omkring lydudbredelse og taleforståelighed, se \[3\] og \[12\].\*                                                                                                                                                                                                                                                                                          |
 | \                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| b) *Der kan ikke påregnes optimale lydforhold for alle sædvanlige kontoraktiviteter, uanset omhyggelig projektering. For at opnå gode lydforhold i storrumskontorer, er det vigtigt, at der ud over at overholde de angivne vejledende krav, udarbejdes interne regler for støjmæssig adfærd i storrumskontorer. Det er også vigtigt, at placeringen af forskellige grupper inddrages i projekteringen.*           |
+|
+
+b) *Der kan ikke påregnes optimale lydforhold for alle sædvanlige kontoraktiviteter, uanset omhyggelig projektering. For at opnå gode lydforhold i storrumskontorer, er det vigtigt, at der ud over at overholde de angivne vejledende krav, udarbejdes interne regler for støjmæssig adfærd i storrumskontorer. Det er også vigtigt, at placeringen af forskellige grupper inddrages i projekteringen.*           |
 +--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Noter                                                                                                                                                                                                                                                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | 1\) Maksimumsværdien for efterklangstiden gælder for hvert 1/1-oktavbånd i frekvensområdet. Ved 125 Hz kan den angivne maksimumsværdi dog tillægges 20 %.\                                                                                                                                                                                                                                                         |
 | \                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 2) Minimumsværdien for absorptionsarealet gælder for hvert 1/1-oktavbånd i frekvensområdet. Ved 125 Hz kan den angivne minimumsværdi dog fratrækkes 20 %.\                                                                                                                                                                                                                                                         |
-| \                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 3) Projekteringsværdierne gælder for møblerede rum. For storrumskontorer vil der være en fordeling af lydabsorptionen mellem bygning og indretning. For bygningen foreslås absorptionsareal ≥ 1,0 x gulvareal.\                                                                                                                                                                                                    |
-| \                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 4) Som minimum bør sikres afstandsdæmpning *D*~2,s~  og A-vejet lydtrykniveau af tale i 4 m afstand *L*~p,AS,4m~ svarende til lydklasse C i \[16\].\                                                                                                                                                                                                                                                               |
-| \                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 5) Der opstilles relevante projektkrav, der kan sikre tilfredsstillende lydforhold for rumanvendelsen.\                                                                                                                                                                                                                                                                                                            |
-| \                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 6) Det anbefales til almindelige cafeterier og kantiner at benytte begrebet "akustisk kapacitet" og specificere max efterklangstid som lydklasse C i henhold til \[16\].                                                                                                                                                                                                                                           |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|
 
-\
-\
+2) Minimumsværdien for absorptionsarealet gælder for hvert 1/1-oktavbånd i frekvensområdet. Ved 125 Hz kan den angivne minimumsværdi dog fratrækkes 20 %.\                                                                                                                                                                                                                                                         |
+| \                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|
+
+3) Projekteringsværdierne gælder for møblerede rum. For storrumskontorer vil der være en fordeling af lydabsorptionen mellem bygning og indretning. For bygningen foreslås absorptionsareal ≥ 1,0 x gulvareal.\                                                                                                                                                                                                    |
+| \                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|
+
+4) Som minimum bør sikres afstandsdæmpning *D*~2,s~  og A-vejet lydtrykniveau af tale i 4 m afstand *L*~p,AS,4m~ svarende til lydklasse C i \[16\].\                                                                                                                                                                                                                                                               |
+| \                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|
+
+5) Der opstilles relevante projektkrav, der kan sikre tilfredsstillende lydforhold for rumanvendelsen.\                                                                                                                                                                                                                                                                                                            |
+| \                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|
+
+6) Det anbefales til almindelige cafeterier og kantiner at benytte begrebet "akustisk kapacitet" og specificere max efterklangstid som lydklasse C i henhold til \[16\].                                                                                                                                                                                                                                           |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ### Hospitaler, lægehuse og klinikker
 
@@ -1620,7 +1773,9 @@ Tabel 6.3 indeholder forslag til projekteringsværdier for støj fra tekniske in
 +-------------------------------------------------------+-----------------------------------------------+-----------------------------------------------+
 | **Rumtype**                                           | **Støjkilde ^2)^**                            | ***L*~Aeq~** ^1)^                             |
 +-------------------------------------------------------+-----------------------------------------------+-----------------------------------------------+
-| Sengestuer^ \ a)^, undersøgelsesrum, behandlingsrum,\ | Bygningens tekniske installationer            | ≤ 30 dB                                       |
+| Sengestuer^ \
+
+a)^, undersøgelsesrum, behandlingsrum,\ | Bygningens tekniske installationer            | ≤ 30 dB                                       |
 | konsultationsrum                                      |                                               |                                               |
 +-------------------------------------------------------+                                               +-----------------------------------------------+
 | Scannerrum, røntgenrum, fødestuer                     |                                               | ≤ 35 dB                                       |
@@ -1629,7 +1784,9 @@ Tabel 6.3 indeholder forslag til projekteringsværdier for støj fra tekniske in
 +-------------------------------------------------------+                                               +-----------------------------------------------+
 | Kontorer ^a)^                                         |                                               | ≤ 35 dB                                       |
 +-------------------------------------------------------+                                               +-----------------------------------------------+
-| Møderum, videokonferencerum og auditorier ^ a)^       |                                               | ≤ 30 dB                                       |
+| Møderum, videokonferencerum og auditorier ^
+
+a)^       |                                               | ≤ 30 dB                                       |
 +-------------------------------------------------------+                                               +-----------------------------------------------+
 | Kantine, receptionsareal mv.                          |                                               | ≤ 35 dB                                       |
 +-------------------------------------------------------+                                               +-----------------------------------------------+
@@ -1645,17 +1802,18 @@ Tabel 6.3 indeholder forslag til projekteringsværdier for støj fra tekniske in
 |                                                                                                                                                       |
 | 1\) Projekteringsværdien gælder i møblerede rum.\                                                                                                     |
 | \                                                                                                                                                     |
-| 2) Projekteringsværdien gælder for den enkelte installation.\                                                                                         |
+|
+
+2) Projekteringsværdien gælder for den enkelte installation.\                                                                                         |
 | \                                                                                                                                                     |
-| 3) Der opstilles relevante projektkrav, der kan sikre tilfredsstillende lydforhold for rumanvendelsen.**\**                                           |
+|
+
+3) Der opstilles relevante projektkrav, der kan sikre tilfredsstillende lydforhold for rumanvendelsen.**\**                                           |
 +-------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-\
 [6.4](../)
 
 ### Rumakustik
-
-\
 
 ### Hospitaler, lægehuse og klinikker
 
@@ -1700,10 +1858,11 @@ Tabel 6.2 indeholder forslag til projekteringsværdier for trafikstøj i hospita
 |                                                                                                           |
 | 1\) Projekteringsværdierne gælder i møblerede rum.\                                                       |
 | \                                                                                                         |
-| 2) Der opstilles relevante projektkrav, der kan sikre tilfredsstillende lydforhold for rumanvendelsen.    |
+|
+
+2) Der opstilles relevante projektkrav, der kan sikre tilfredsstillende lydforhold for rumanvendelsen.    |
 +-----------------------------------------------------------------------------------------------------------+
 
-\
 [6.3](../)
 
 ### Støj fra tekniske installationer
@@ -1712,4 +1871,3 @@ Tabel 6.2 indeholder forslag til projekteringsværdier for trafikstøj i hospita
 
 ### Rumakustik
 
-\

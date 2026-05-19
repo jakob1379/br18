@@ -1,6 +1,5 @@
 # Andre vejledninger
 
-
 ## Se alle vejledninger om Andre vejledninger
 
 - [Vejledning om byggelovens § 6 D](../../vejledning-om-byggelovens-6-d)
@@ -16,8 +15,9 @@
 
 ## Vejledning om byggeskadeforsikring
 
-
 ### Vejledning om byggeskadeforsikring
 
-[Åbn Vejledning om byggeskadeforsikring](../../../../../media/0emf4voh/060824-vejledning-om-byggeskadeforsikring-revideret-juli-2019-rettet-m-lovhenvisning-2024-a.pdf "060824 Vejledning om byggeskadeforsikring  revideret juli 2019  RETTET M LOVHENVISNING 2024")[\
-](../../../../../media/mv2ek0od/vejledning-om-byggeskadeforsikring_.pdf "Vejledning om byggeskadeforsikring_")\
+[Åbn Vejledning om byggeskadeforsikring](../../../../../media/0emf4voh/060824-vejledning-om-byggeskadeforsikring-revideret-juli-2019-rettet-m-lovhenvisning-2024-a.pdf "060824 Vejledning om byggeskadeforsikring  revideret juli 2019  RETTET M LOVHENVISNING 2024")[
+
+](../../../../../media/mv2ek0od/vejledning-om-byggeskadeforsikring_.pdf "Vejledning om byggeskadeforsikring_")
+

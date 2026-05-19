@@ -11,6 +11,7 @@ from posixpath import splitext
 from urllib.parse import urlsplit
 
 from fetch_origin_pages import SITE_ROOT, fetch, target_path_for_url
+from convert_br18_docs import promote_legal_paragraph_headings
 
 
 INLINE_DESCENDANT_LINK = re.compile(r"\]\(([^)\s]+#[^)\"\s]+)\)")
@@ -42,6 +43,11 @@ def promote_showall_md(docs_root: Path, url: str) -> None:
         raise SystemExit(f"missing converted markdown: {showall_md}")
     markdown = showall_md.read_text(encoding="utf-8")
     markdown = rewrite_descendant_fragment_links(markdown)
+    for _ in range(4):
+        promoted = promote_legal_paragraph_headings(markdown)
+        if promoted == markdown:
+            break
+        markdown = promoted
     target_md.write_text(markdown, encoding="utf-8")
     showall_md.unlink()
     try:

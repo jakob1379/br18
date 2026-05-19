@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -22,7 +25,6 @@
 - [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../../temasiden-brandogkonstruktioner-dk/)
 
 ## Vejledning til kommunerne om krav til parkering i forbindelse med byggeri
-
 
 ### Indledning
 
@@ -50,4 +52,3 @@ Vejledningen omhandler krav til parkering i forbindelse med byggeri, der er fast
 
 ### Hvornår kan der dispenseres fra parkeringsreglerne på betingelse af indbetaling til parkeringsfond
 
-\

@@ -1,10 +1,8 @@
 # Byggepladsen og udførelsen af Byggearbejder (§ 161 - § 165)
 
+## § 161 - § 165 Byggepladsen og udførelse af byggearbejder {#21f70c28-9b34-425f-a740-5eae7d538527}
 
-
-## Byggepladsen og udførelse af byggearbejder {#21f70c28-9b34-425f-a740-5eae7d538527}
-
-§ 161
+### § 161 {#paragraf-161}
 
 Byggepladsen og byggearbejder skal planlægges og udføres, så der:
 
@@ -14,8 +12,7 @@ Byggepladsen og byggearbejder skal planlægges og udføres, så der:
 
 3\) Tages højde for vejrforhold.
 
-\
-§ 162
+### § 162 {#paragraf-162}
 
 Ved planlægning og udførelse af byggearbejder skal det sikres, at:
 
@@ -23,8 +20,7 @@ Ved planlægning og udførelse af byggearbejder skal det sikres, at:
 
 2\) Montage af bygningsdele udføres, så der ikke er risiko for personer på egen grund eller på nabogrunde.
 
-\
-§ 163
+### § 163 {#paragraf-163}
 
 Under byggearbejdets udførelse skal der gennemføres brandværnsforanstaltninger, som sikrer, at:
 
@@ -44,7 +40,7 @@ Under byggearbejdets udførelse skal der gennemføres brandværnsforanstaltninge
 
 8\) Materialer og konstruktioner til brug for byggearbejdet skal placeres på eller i direkte tilknytning til byggepladser, så de ikke medfører risiko for brandspredning til bygninger på egen grund eller på nabogrunde.
 
-§ 164
+### § 164 {#paragraf-164}
 
 Byggearbejder må ikke medføre uacceptable gener på anden grund. Det skal ved byggearbejde sikres, at:
 
@@ -56,6 +52,7 @@ Byggearbejder må ikke medføre uacceptable gener på anden grund. Det skal ved 
 
 4\) Vejoverkørsler holdes frie og rengjorte.
 
-\
-§ 165 Ved udførelse af byggearbejder skal der træffes de foranstaltninger, som af hensyn til klimatiske forhold, såsom sne, regn og kulde, er nødvendige for at beskytte fugtfølsomme materialer, og så det sikres, at der ikke indbygges fugt i bygningen under opførelsen.\
-\
+### § 165 {#paragraf-165}
+
+Ved udførelse af byggearbejder skal der træffes de foranstaltninger, som af hensyn til klimatiske forhold, såsom sne, regn og kulde, er nødvendige for at beskytte fugtfølsomme materialer, og så det sikres, at der ikke indbygges fugt i bygningen under opførelsen.
+

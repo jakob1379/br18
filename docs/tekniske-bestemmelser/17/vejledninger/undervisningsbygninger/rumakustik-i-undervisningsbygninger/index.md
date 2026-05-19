@@ -1,6 +1,5 @@
 # Lydforhold (§ 368 - § 376)
 
-
 ## Se alle vejledninger om Lydforhold (§ 368 - § 376)
 
 - [Bygningsreglementets vejledning om lydforhold](../../generel_vejledning/)
@@ -38,7 +37,8 @@
 
 Tabel 3.4 indeholder grænseværdier for efterklangstid og absorptionsareal i undervisnings­bygninger svarende til overholdelse af BR18's lydbestemmelser.
 
-Lydbestemmelserne er gengivet fra SBi-anvisning 218 og den supplerende vejledning fra SBi-anvisning 218.\
+Lydbestemmelserne er gengivet fra SBi-anvisning 218 og den supplerende vejledning fra SBi-anvisning 218.
+
 Referencer findes i [afsnit 1.5](../../generel_vejledning/referenceliste/ "Referenceliste").
 
 Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde bygningsreglementets funktionskrav, er anført separat i tabellerne (i kursiv).
@@ -46,7 +46,11 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 +-----------------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
 | **Undervisningsbygninger -- Tabel 3.4 Rumakustik**                                                                                                                                                                                |
 +-----------------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
-| **Efterklangstid     \[4\]**                                                            | **T ^1),\ 3),\ a)^**                                               | **Frekvensområde**                                                 |
+| **Efterklangstid     \[4\]**                                                            | **T ^1),\
+
+3),
+
+a)^**                                               | **Frekvensområde**                                                 |
 +-----------------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
 | Klasserum ^b)^                                                                          | T ≤ 0,6 s                                                          | 125-4000Hz                                                         |
 +-----------------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
@@ -70,7 +74,11 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 +-----------------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
 | Trapperum                                                                               | T ≤ 1,3 s                                                          | 500-2000 Hz\                                                       |
 +-----------------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
-| **Absorptionsareal     \[4\]**                                                          | **A ^2),\ 3),\ a)^**                                               | **Frekvensområde**                                                 |
+| **Absorptionsareal     \[4\]**                                                          | **A ^2),\
+
+3),
+
+a)^**                                               | **Frekvensområde**                                                 |
 +-----------------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
 | Åbne undervisningsområder ^c)^                                                          | A ≥ 1,3 × gulvareal                                                |  125-4000Hz\                                                       |
 +-----------------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
@@ -86,16 +94,23 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 +-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Noter\**                                                                                                                                                                                                                        |
 |                                                                                                                                                                                                                                   |
-| 1)   Maksimumsværdien for efterklangstiden gælder for hvert 1/1-oktavbånd i frekvensområdet. Ved 125 Hz kan den angivne maksimumsværdi dog tillægges 20 %.\                                                                       |
+|
+
+1)   Maksimumsværdien for efterklangstiden gælder for hvert 1/1-oktavbånd i frekvensområdet. Ved 125 Hz kan den angivne maksimumsværdi dog tillægges 20 %.\                                                                       |
 | \                                                                                                                                                                                                                                 |
 |                                                                                                                                                                                                                                   |
-| 2)   Minimumsværdien for absorptionsarealet gælder for hvert 1/1-oktavbånd.i frekvensområdet. Ved 125 Hz kan den angivne minimumsværdi dog fratrækkes 20 %.\                                                                      |
+|
+
+2)   Minimumsværdien for absorptionsarealet gælder for hvert 1/1-oktavbånd.i frekvensområdet. Ved 125 Hz kan den angivne minimumsværdi dog fratrækkes 20 %.\                                                                      |
 | \                                                                                                                                                                                                                                 |
 |                                                                                                                                                                                                                                   |
-| 3)   Grænseværdierne gælder i møblerede rum. For gymnastiksale, svømmehaller, fællesgange (uden gruppearbejde) og trapperum dog i umøblerede rum.\                                                                                |
+|
+
+3)   Grænseværdierne gælder i møblerede rum. For gymnastiksale, svømmehaller, fællesgange (uden gruppearbejde) og trapperum dog i umøblerede rum.\                                                                                |
 | \                                                                                                                                                                                                                                 |
 |                                                                                                                                                                                                                                   |
-| 4)   Kan der ikke etableres særskilte rum til de to sang- og musikanvendelser, anbefales det at udføre undervisningsrum til sang og musik med variabel akustik, så begge anvendelser kan tilgodeses.                              |
+|
+
+4)   Kan der ikke etableres særskilte rum til de to sang- og musikanvendelser, anbefales det at udføre undervisningsrum til sang og musik med variabel akustik, så begge anvendelser kan tilgodeses.                              |
 +-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-\

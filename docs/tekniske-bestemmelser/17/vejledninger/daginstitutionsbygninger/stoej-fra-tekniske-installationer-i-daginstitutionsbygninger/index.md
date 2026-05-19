@@ -1,6 +1,5 @@
 # Lydforhold (§ 368 - § 376)
 
-
 ## Se alle vejledninger om Lydforhold (§ 368 - § 376)
 
 - [Bygningsreglementets vejledning om lydforhold](../../generel_vejledning/)
@@ -34,7 +33,8 @@
 
 Tabel 4.3 indeholder grænseværdier for støj fra tekniske installationer i daginstitutionsbygninger svarende til overholdelse af BR2018's lydbestemmelser samt supplerende vejledende grænseværdier for lavfrekvent støj og infralyd.
 
-Lydbestemmelserne er gengivet fra SBi-anvisning 218, og den supplerende vejledning fra SBi-anvisning 272 og Miljøstyrelsens orientering 9/1997.\
+Lydbestemmelserne er gengivet fra SBi-anvisning 218, og den supplerende vejledning fra SBi-anvisning 272 og Miljøstyrelsens orientering 9/1997.
+
 Referencer findes i [afsnit 1.5](../../generel_vejledning/referenceliste/ "Referenceliste").
 
 Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde bygningsreglementets funktionskrav, er anført separat i tabellerne (i kursiv).
@@ -44,11 +44,15 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 +----------------------------------------+------------------------------------+---------------------------------+
 | **Rumtype**                            | **Støjkilde ^2)^**                 | ***L~Aeq~***                    |
 +----------------------------------------+------------------------------------+---------------------------------+
-| I opholdsrum ^1),\ a)^*    ***\[4\]**  | Bygningens tekniske installationer | ≤ 30 dB                         |
+| I opholdsrum ^1),\
+
+a)^*    ***\[4\]**  | Bygningens tekniske installationer | ≤ 30 dB                         |
 +----------------------------------------+------------------------------------+---------------------------------+
 | *Supplerende vejledning     ***\[3\], \[9\]**                                                                 |
 |                                                                                                               |
-| a)  *For tekniske installationer, der giver anledning til lavfrekvent støj i opholdsrum:*                     |
+|
+
+a)  *For tekniske installationer, der giver anledning til lavfrekvent støj i opholdsrum:*                     |
 |                                                                                                               |
 | *A-vægtet, ækvivalent lydtrykniveau i lavfrekvensområdet, L*~p*A,LF*~*  ≤ 25 dB.*                             |
 |                                                                                                               |
@@ -56,14 +60,17 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 +---------------------------------------------------------------------------------------------------------------+
 | **Noter\**                                                                                                    |
 |                                                                                                               |
-| 1)   Grænseværdien gælder i møblerede rum.\                                                                   |
+|
+
+1)   Grænseværdien gælder i møblerede rum.\                                                                   |
 | \                                                                                                             |
 |                                                                                                               |
-| 2)   Grænseværdien gælder for den enkelte installation.                                                       |
+|
+
+2)   Grænseværdien gælder for den enkelte installation.                                                       |
 +---------------------------------------------------------------------------------------------------------------+
 
 [4.5](../rumakustik-i-daginstitutionsbygninger/)
 
 ### Rumakustik i daginstitutionsbygninger
 
-\

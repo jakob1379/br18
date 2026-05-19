@@ -1,6 +1,5 @@
 # Dokumentation af brandforhold (§ 506 - § 522)
 
-
 ## Se alle vejledninger om Dokumentation af brandforhold (§ 506 - § 522)
 
 - [Spørgsmål og svar](./)
@@ -14,4 +13,3 @@
 
 ### Spørgsmål og svar om dokumentation af bygningsdele ved brug af "alment teknisk fælleseje\" (17-10-2023)
 
-\

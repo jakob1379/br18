@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -45,16 +48,16 @@
 
 **Skal der ansøges om en ny byggetilladelse, hvis der sker ændringer i forudsætningerne for indplacering i konstruktionsklasse efter at byggetilladelse er givet? Det kan enten være på konstruktionsafsnits- eller på projektniveau, f.eks. et KK2-projekt, der går fra at være traditionelt til komplekst og dermed KK3 eller f.eks. et konstruktionsafsnit, der går fra KK3 til KK2. (17-06-2021)**
 
-Når der ansøges om byggetilladelse til et byggearbejde, skal dette være indplaceret i en konstruktionsklasse, jf. BR18, [kapitel 1](/administrative-bestemmelser/) og [26](/ovrige-bestemmelser/26/). Et byggearbejde kan bestå af flere konstruktionsafsnit, der hver for sig kan blive indplaceret i forskellige konstruktionsklasser. Konstruktionsklassen for hele byggearbejdet er dog altid den klasse, hvori konstruktionsafsnittet med den højeste klasse er indplaceret.\
-\
-Når byggearbejdet har opnået byggetilladelse hos kommunen, og der efterfølgende opstår ændringer i projektet under selve byggearbejdet, der resulterer i en ændring af de forudsætninger for indplacering i konstruktionsklassen, hvorpå byggetilladelsen blev udstedt, har ansøgeren i henhold til BR18, § 37 pligt til at oplyse kommunalbestyrelsen herom. Kommunalbestyrelsen vurderer derefter, om der skal ændres i vilkår i byggetilladelsen eller om der skal træffes ny afgørelse om byggetilladelse.   \
-\
-Hvis konstruktionsklassen for det samlede byggearbejde ændres til en højere klasse, og den certificerede statiker ikke er certificeret til denne ordning, skal der udover oplysning om ændringen til kommunalbestyrelsen tillige tilknyttes en ny certificeret statiker, der er certificeret til den nye klasse. Skift af den certificerede skal ske efter bestemmelserne for overdragelse i BR18, [kapitel 33](/ovrige-bestemmelser/33/).\
-\
-Såfremt ændringen der er opstået efter, at byggearbejdet har opnået byggetilladelse, indebærer en ændring af konstruktionsklassen i et konstruktionsafsnit, men ikke indebærer en ændring af konstruktionsklassen for det samlede byggearbejde, vil det ikke nødvendigvis betyde, at forudsætningerne for byggetilladelsen er ændret. Det vil være op til den enkelte kommune at vurdere dette.\
-\
-Selvom kommunen vurderer, at det ikke er nødvendigt at ansøge om byggetilladelse på ny, vil det dog stadigvæk få betydning for omfanget af og kontrolniveauet for den statiske dokumentation for de konstruktionsafsnit, som har ændret konstruktionsklasse.\
-\
+Når der ansøges om byggetilladelse til et byggearbejde, skal dette være indplaceret i en konstruktionsklasse, jf. BR18, [kapitel 1](/administrative-bestemmelser/) og [26](/ovrige-bestemmelser/26/). Et byggearbejde kan bestå af flere konstruktionsafsnit, der hver for sig kan blive indplaceret i forskellige konstruktionsklasser. Konstruktionsklassen for hele byggearbejdet er dog altid den klasse, hvori konstruktionsafsnittet med den højeste klasse er indplaceret.
+
+Når byggearbejdet har opnået byggetilladelse hos kommunen, og der efterfølgende opstår ændringer i projektet under selve byggearbejdet, der resulterer i en ændring af de forudsætninger for indplacering i konstruktionsklassen, hvorpå byggetilladelsen blev udstedt, har ansøgeren i henhold til BR18, § 37 pligt til at oplyse kommunalbestyrelsen herom. Kommunalbestyrelsen vurderer derefter, om der skal ændres i vilkår i byggetilladelsen eller om der skal træffes ny afgørelse om byggetilladelse.
+
+Hvis konstruktionsklassen for det samlede byggearbejde ændres til en højere klasse, og den certificerede statiker ikke er certificeret til denne ordning, skal der udover oplysning om ændringen til kommunalbestyrelsen tillige tilknyttes en ny certificeret statiker, der er certificeret til den nye klasse. Skift af den certificerede skal ske efter bestemmelserne for overdragelse i BR18, [kapitel 33](/ovrige-bestemmelser/33/).
+
+Såfremt ændringen der er opstået efter, at byggearbejdet har opnået byggetilladelse, indebærer en ændring af konstruktionsklassen i et konstruktionsafsnit, men ikke indebærer en ændring af konstruktionsklassen for det samlede byggearbejde, vil det ikke nødvendigvis betyde, at forudsætningerne for byggetilladelsen er ændret. Det vil være op til den enkelte kommune at vurdere dette.
+
+Selvom kommunen vurderer, at det ikke er nødvendigt at ansøge om byggetilladelse på ny, vil det dog stadigvæk få betydning for omfanget af og kontrolniveauet for den statiske dokumentation for de konstruktionsafsnit, som har ændret konstruktionsklasse.
+
 Den certificerede skal sikre, at forudsætningerne i byggetilladelsen for indplacering i konstruktionsklasser fortsat er til stede i forbindelse med færdigmelding.
 
   [?](../overgangsperiode/)
@@ -81,4 +84,3 @@ Den certificerede skal sikre, at forudsætningerne i byggetilladelsen for indpla
 
 ### Spørgsmål og svar om primitive bygninger (09-01-2024)
 
-\

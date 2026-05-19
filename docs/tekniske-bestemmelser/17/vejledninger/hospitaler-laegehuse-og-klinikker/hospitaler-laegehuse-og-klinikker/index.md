@@ -1,6 +1,5 @@
 # Lydforhold (§ 368 - § 376)
 
-
 ## Se alle vejledninger om Lydforhold (§ 368 - § 376)
 
 - [Bygningsreglementets vejledning om lydforhold](../../generel_vejledning/)
@@ -31,27 +30,27 @@ For hospitaler har en række rum skærpede lydkrav i forhold til andre bygningsa
 **Definitioner af rumtyper for hospitaler, lægehuse og klinikker**
 
 **- **Sengestuer\**
-\
+
 - **Undersøgelsesrum, behandlingsrum, operationsstuer mv.\**
-\
+
 - **Kontorer\**
-\
+
 - **Møderum\**
-\
+
 - **Toiletrum\**
 \**
-- **Videokonferencerum** kan være relativt små rum indrettet i almindelige møderum, men kan også være større rum, der kræver særskilt akustisk projektering.\
-\
-- **Storrumskontorer** er arealer, hvori de enkelte medarbejdere ikke er fysisk adskilt i lukkede rum. Disse arealer kræver særskilt akustisk projektering.\
-\
-- **Kantiner** benyttes til servering af frokost og også ofte til møder, seminarer eller lignende. Kantiner kan have meget varierende størrelse og form og kræver særskilt akustisk projektering.\
-\
-- **Auditorier** er rum, der benyttes til præsentationer for et større antal personer, fx fra 50 personer op til flere hundrede. Sådanne rum kræver særskilt akustisk projektering.\
-\
+- **Videokonferencerum** kan være relativt små rum indrettet i almindelige møderum, men kan også være større rum, der kræver særskilt akustisk projektering.
+
+- **Storrumskontorer** er arealer, hvori de enkelte medarbejdere ikke er fysisk adskilt i lukkede rum. Disse arealer kræver særskilt akustisk projektering.
+
+- **Kantiner** benyttes til servering af frokost og også ofte til møder, seminarer eller lignende. Kantiner kan have meget varierende størrelse og form og kræver særskilt akustisk projektering.
+
+- **Auditorier** er rum, der benyttes til præsentationer for et større antal personer, fx fra 50 personer op til flere hundrede. Sådanne rum kræver særskilt akustisk projektering.
+
 - **Opholdsrum\**
-\
+
 - **Gange og trapper\**
-\
+
 - **Teknikrum\**
 
 [6.1](../lydisolation-for-hospitaler-laegehuse-og-klinikker/)
@@ -70,4 +69,3 @@ For hospitaler har en række rum skærpede lydkrav i forhold til andre bygningsa
 
 ### Rumakustik
 
-\

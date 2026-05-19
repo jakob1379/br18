@@ -19,11 +19,9 @@ hide:
 
 ### Vejledning til kapitel 28 - Dokumentation af bærende konstruktioner
 
-
 ## SBi-anvisninger {#sbi-anvisninger}
 
 ### SBi-anvisninger
-
 
 ## Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner {#temasiden-brandogkonstruktioner-dk-om-certificeringsordningen-for-brandforhold-og-baerende-konstruktioner}
 

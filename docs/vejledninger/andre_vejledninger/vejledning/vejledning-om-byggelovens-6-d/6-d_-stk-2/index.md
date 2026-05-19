@@ -1,6 +1,5 @@
 # Andre vejledninger
 
-
 ## Se alle vejledninger om Andre vejledninger
 
 - [Vejledning om byggelovens § 6 D](..)
@@ -15,8 +14,6 @@
 - [Vejledning til bekendtgørelse om forberedelse til og etablering af ladestandere i forbindelse med bygninger (ladestanderbekendtgørelsen)](../../vejledning-om-laderstander)
 
 ## Vejledning om byggelovens § 6 D
-
-
 
 ### § 6 D, stk. 1 {#fffefe41-689d-430d-b0b4-ac0f3d029282}
 
@@ -36,19 +33,13 @@ Byggelovens § 6 D, stk. 1, kan ikke bringes i anvendelse, hvis en byplanvedtæg
 
 Reglerne for kommunalbestyrelsens behandling af ansøgninger om byggetilladelse følger af bygningsreglementets kapitel 1.
 
-
-
 ### Undtagelser i bygningsreglementet, der indskrænker § 6 D, stk. 1's, anvendelsesområde {#571ad59c-7ee9-4566-bd27-c57c7c794aca}
 
 Bygningsreglementet fastsætter de nærmere regler for kommunalbestyrelsens behandling af byggesager. Bygningsreglementet gælder i udgangspunktet for de sager, der er omfattet af byggelovens § 2, men indeholder dog en række undtagelser, der indskrænker anvendelsesområdet.
 
-
-
 ### BR18 § 4 {#62a1f537-1cdc-4c03-994e-afda41cc7192}
 
 BR18 § 4 indskrænker anvendelsesområdet for byggelovens § 6 D, stk. 1, da bestemmelsen oplister en række byggearbejder, som bygningsreglementet ikke gælder for. Da de byggearbejder, der er omfattet af BR18 § 4, således ikke er omfattet af krav om ansøgning om byggetilladelse, betyder det, at byggelovens § 6 D, stk. 1, ikke kan anvendes i disse sager.
-
-
 
 ### BR18 § 5 {#03eeb4d9-0e91-4234-8f1d-7a6745e33ebc}
 
@@ -62,4 +53,5 @@ Bestemmelsens anvendelsesområde omfatter bl.a. fjernelse af facadelysbånd, sta
 
 § 6 D, stk. 2, kan bringes i anvendelse uanset, hvor skiltet/lysinstallationen er opsat og er dermed ikke ligesom stk. 1 afhængig af, at der søges om byggetilladelse.
 
-Påbud anvendes, hvor skiltet/lysinstallationen er opsat, og kommunalbestyrelsen vurderer, at det er til ulempe eller virker skæmmende i forhold til omgivelserne. Forbud anvendes, hvor skiltet/lysinstallationen endnu ikke er opsat. Det skal dog være en konkret tiltænkt opsætning, der er tale om, og bestemmelsen kan således ikke anvendes til at nægte opsætning af skilte eller lysinstallationer generelt. Hvis opsætning af skiltet/lysinstallationen kræver byggetilladelse, kan § 6 D, stk. 1, anvendes til at nægte tilladelse hertil. Et påbud eller forbud efter § 6 D, stk. 2, kan formentlig rettes både mod en bygningsejer og ejeren af skiltet, hvis disse ikke er identiske.\
+Påbud anvendes, hvor skiltet/lysinstallationen er opsat, og kommunalbestyrelsen vurderer, at det er til ulempe eller virker skæmmende i forhold til omgivelserne. Forbud anvendes, hvor skiltet/lysinstallationen endnu ikke er opsat. Det skal dog være en konkret tiltænkt opsætning, der er tale om, og bestemmelsen kan således ikke anvendes til at nægte opsætning af skilte eller lysinstallationer generelt. Hvis opsætning af skiltet/lysinstallationen kræver byggetilladelse, kan § 6 D, stk. 1, anvendes til at nægte tilladelse hertil. Et påbud eller forbud efter § 6 D, stk. 2, kan formentlig rettes både mod en bygningsejer og ejeren af skiltet, hvis disse ikke er identiske.
+

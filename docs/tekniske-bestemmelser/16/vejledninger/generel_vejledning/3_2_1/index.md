@@ -1,13 +1,11 @@
 # Legepladser mv. (§ 358 - § 367)
 
-
 ## Se alle vejledninger om Legepladser mv. (§ 358 - § 367)
 
 -
 - [Bygningsreglementets vejledning om legepladser mv.](../)
 
 ## Bygningsreglementets vejledning om legepladser mv.
-
 
 ### Rettelsesblad til vejledning om legepladser (1. januar 2025)
 
@@ -51,10 +49,10 @@ Legepladser mv. kan være undtaget fra indplacering i brandklasse efter § 493, 
 
 Hvorvidt der *ikke* medføres en uacceptabel risiko for personskade, kan bl.a. afhænge af følgende faktorer:
 
-• Materialet har en lav brandbelastning.\
-\
-• Der er overskuelige flugtforhold\
-\
+• Materialet har en lav brandbelastning.
+
+• Der er overskuelige flugtforhold
+
 • Legepladsredskabet er placeret udendørs.
 
 Ovenstående liste er eksempler, og er ikke udtømmende.
@@ -71,4 +69,3 @@ Såfremt legepladsredskabet f.eks. placeres indendørs, kan dette medføre en ua
 
 ### Drift, kontrol og vedligehold
 
-\

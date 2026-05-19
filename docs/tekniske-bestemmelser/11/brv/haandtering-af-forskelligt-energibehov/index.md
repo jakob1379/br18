@@ -1,6 +1,5 @@
 # Energiforbrug og klimapåvirkning (§ 250 - § 298)
 
-
 ## Se alle vejledninger om Energiforbrug og klimapåvirkning (§ 250 - § 298)
 
 - [Spørgsmål og svar om energiforbrug](../qa/)
@@ -14,7 +13,6 @@
 - [Eksempelsamling for energi](../eksempelsamling/)
 
 ## Vejledning om håndtering af forskelligt energibehov i energirammen
-
 
 ### Indledning
 
@@ -30,10 +28,7 @@ Denne udgave af vejledningen er version 2, dateret 6. december. Eneste ændringe
 
 Vejledningen anvender bevidst ikke ordet procesenergi, da SKAT har en definitionsliste af hvad der er procesenergi. For ikke at forvirre begreberne er der i denne vejledning derfor ikke benyttet begrebet procesenergi. Der opereres dog i vejledningen her med begrebet "af procesmæssige hensyn", som henviser til hvis der etableres anlæg eller lignende, der giver øget energibehov af hensyn til en proces eller produktion i en bygning. Dette er for eksempel, hvis der af renlighedskrav i en operationsstue etableres yderligere ventilation end hvad der er behov for af komforthensyn.
 
-\
-
 - ^1^ Præcisering af adskillelse mellem proces- og bygningsenergi i energirammeberegningen, juli 2016
-
 
 ### Håndtering af forskelligt energibehov
 
@@ -56,148 +51,132 @@ For bygningsenergi og tillægsberettiget energi er komponentkravene i bygningsre
 
 I nedenstående tabel er Trafik-, Bygge og Boligstyrelsens fortolkning af håndtering af forskellige typer af energibehov klassificeret som en af de forskellige typer af energibehov.
 
- 
-
- 
-
   -------------------------------------------------------------------------------------------------------------------------- ------------------ ---------------------------- -----------------------------------------
-                                                                                                                             Bygningsenergi \    Tillægsberettiget energi\   Energi udenfor energirammeberegningen \
+                                                                                                                             Bygningsenergi \    Tillægsberettiget energi\   Energi udenfor energirammeberegningen
 
-  **Rumopvarmning **                                                                                                                                                          
+  **Rumopvarmning **
 
-  El-radiatorer til 20 °C                                                                                                     X                                               
+  El-radiatorer til 20 °C                                                                                                     X
 
-  Vandbårne radiatorer til 20 °C                                                                                              X                                               
+  Vandbårne radiatorer til 20 °C                                                                                              X
 
-  Luftvarme til 20 °C                                                                                                         X                                               
+  Luftvarme til 20 °C                                                                                                         X
 
-  Opvarmning over 20 °C, som følge af proceskrav                                                                                                 X                            
+  Opvarmning over 20 °C, som følge af proceskrav                                                                                                 X
 
-  Elforbrug i varmepumper                                                                                                     X                                               
+  Elforbrug i varmepumper                                                                                                     X
 
-  Automatik til kedler                                                                                                        X                                               
+  Automatik til kedler                                                                                                        X
 
-  Automatik til varmeanlæg, jf. SBi 213                                                                                      X\                                               
+  Automatik til varmeanlæg, jf. SBi 213                                                                                      X
 
-  Automatik til fjernvarmevekslere                                                                                            X                                               
+  Automatik til fjernvarmevekslere                                                                                            X
 
-  Automatik til solvarmeanlæg                                                                                                 X                                               
+  Automatik til solvarmeanlæg                                                                                                 X
 
-  Automatik til varmepumper                                                                                                  X\                                               
+  Automatik til varmepumper                                                                                                  X
 
-  Blæser på kedel til opvarmning                                                                                              X                                               
+  Blæser på kedel til opvarmning                                                                                              X
 
-  Varmetab fra distributionssystem efter tilslutningspunkt fjernvarme                                                        X\                                               
+  Varmetab fra distributionssystem efter tilslutningspunkt fjernvarme                                                        X
 
-  Varmetab fra fjernvarmerør som erstatter distributionssystem i bygning                                                      X                                               
+  Varmetab fra fjernvarmerør som erstatter distributionssystem i bygning                                                      X
 
-  Elforbrug til luftvarmeanlæg, varmlufttæpper og lignende                                                                    X                                               
+  Elforbrug til luftvarmeanlæg, varmlufttæpper og lignende                                                                    X
 
-  Elforbrug til fancoils og aktive kølebafler                                                                                 X                                               
+  Elforbrug til fancoils og aktive kølebafler                                                                                 X
 
-                                                                                                                                                                              
+  **Ventilation **
 
-  **Ventilation **                                                                                                                                                            
+  Al ventilation op til 1,2 l/s m^2^ i alle rum med personophold                                                              X
 
-  Al ventilation op til 1,2 l/s m^2^ i alle rum med personophold                                                              X                                               
+  Komfortventilation ud over 1,2 l/s m²                                                                                                         X
 
-  Komfortventilation ud over 1,2 l/s m²                                                                                                         X                             
+  Ventilation af procesmæssige hensyn ud over 1,2 l/s m² i alle rum med personophold                                                            X
 
-  Ventilation af procesmæssige hensyn ud over 1,2 l/s m² i alle rum med personophold                                                            X\                            
+  Al ventilation op til 0,3 l/s m^2^ i alle rum uden personophold                                                             X
 
-  Al ventilation op til 0,3 l/s m^2^ i alle rum uden personophold                                                             X                                               
+  Ventilation af procesmæssige hensyn ud over 0,3 l/s m² i alle rum uden personophold                                                            X
 
-  Ventilation af procesmæssige hensyn ud over 0,3 l/s m² i alle rum uden personophold                                                            X                            
+  El-varmeflader i ventilationsanlæg                                                                                          X
 
-  El-varmeflader i ventilationsanlæg                                                                                          X                                               
-
-  El til ventilatorer i ventilationsanlæg og køle-/varmebafler                                                               X\                                               
+  El til ventilatorer i ventilationsanlæg og køle-/varmebafler                                                               X
 
   Befugtning/affugtning, som følge af proceskrav                                                                                                                              X
 
-  El til ventilatorer i varmekonvektorer                                                                                     X\                                               
+  El til ventilatorer i varmekonvektorer                                                                                     X
 
   El til ventilatorer til uopvarmede parkeringsarealer                                                                                                                        X^\*^
 
   Motorer til vinduesåbnere                                                                                                                                                   X
 
-                                                                                                                                                                              
+  **Belysning **
 
-  **Belysning **                                                                                                                                                              
+  Almenbelysning op til 300 lux inkl. stand-by effekt.                                                                        X
 
-  Almenbelysning op til 300 lux inkl. stand-by effekt.                                                                        X                                               
+  Almenbelysning over 300 lux som følge af krav i DS/EN 12464-1                                                                                  X
 
-  Almenbelysning over 300 lux som følge af krav i DS/EN 12464-1                                                                                  X                            
+  Almenbelysning over 300 lux som ikke er som følge af krav i DS/EN 12464-1                                                   X
 
-  Almenbelysning over 300 lux som ikke er som følge af krav i DS/EN 12464-1                                                   X                                               
+  Arbejdslamper på kontorarbejdspladser                                                                                       X
 
-  Arbejdslamper på kontorarbejdspladser                                                                                       X                                               
+  Øvrige arbejdslamper som følge af krav i DS/EN 12464-1 eller af procesmæssige hensyn, som for eksempel operationslamper                        X
 
-  Øvrige arbejdslamper som følge af krav i DS/EN 12464-1 eller af procesmæssige hensyn, som for eksempel operationslamper                        X                            
+  Tavlebelysning                                                                                                                                 X
 
-  Tavlebelysning                                                                                                                                 X                            
+  Dekorations og salgsbelysning ud over almenbelysningsniveauet som følge af krav i DS/EN 12464-1                                                X
 
-  Dekorations og salgsbelysning ud over almenbelysningsniveauet som følge af krav i DS/EN 12464-1                                                X                            
+  Udendørs belysning                                                                                                                                                         X^\*^
 
-  Udendørs belysning                                                                                                                                                         X^\*^\
+  Belysning i indendørs, uopvarmet parkering                                                                                                                                 X^\*^
 
-  Belysning i indendørs, uopvarmet parkering                                                                                                                                 X^\*^\
+  Belysning i uopvarmede områder fx. kældre                                                                                                                                  X^\*^
 
-  Belysning i uopvarmede områder fx. kældre                                                                                                                                  X^\*^\
+  **Pumper **
 
-                                                                                                                                                                              
+  Pumper på kedler                                                                                                            X
 
-  **Pumper **                                                                                                                                                                 
+  Pumper på fjernvarmevekslere                                                                                                X
 
-  Pumper på kedler                                                                                                            X                                               
+  Pumper i brugsvandsanlæg                                                                                                   X
 
-  Pumper på fjernvarmevekslere                                                                                                X                                               
+  Pumper i centralvarmeanlæg                                                                                                  X
 
-  Pumper i brugsvandsanlæg                                                                                                   X\                                               
+  Pumper i solvarmeanlæg                                                                                                      X
 
-  Pumper i centralvarmeanlæg                                                                                                  X                                               
+  Pumper ved varmeflader i ventilationsanlæg                                                                                  X
 
-  Pumper i solvarmeanlæg                                                                                                      X                                               
+  Pumper i køleanlæg                                                                                                          X
 
-  Pumper ved varmeflader i ventilationsanlæg                                                                                  X                                               
+  Pumper i afløbssystemer og vandbehandlingsanlæg                                                                                                                            X
 
-  Pumper i køleanlæg                                                                                                          X                                               
+  Pumper i sprinkleranlæg/vandtågeanlæg                                                                                                                                      X
 
-  Pumper i afløbssystemer og vandbehandlingsanlæg                                                                                                                            X 
+  Pumper i trykforøgeranlæg til varmt og koldt brugsvand                                                                                                                     X
 
-  Pumper i sprinkleranlæg/vandtågeanlæg                                                                                                                                      X\
-
-  Pumper i trykforøgeranlæg til varmt og koldt brugsvand                                                                                                                     X\
-
-  Trykforøgerpumper på direkte fjernvarme                                                                                     X                                               
+  Trykforøgerpumper på direkte fjernvarme                                                                                     X
 
   Pumper til andre medier, fx dem. vand, hedtvand, ilt , sug m.m.                                                                                                             X
 
-                                                                                                                                                                              
+  **Brugsvand**
 
-  **Brugsvand**                                                                                                                                                               
+  Opvarmning af varmt brugsvand                                                                                               X
 
-  Opvarmning af varmt brugsvand                                                                                               X                                               
+  Varmetab fra cirkulations og distributionssystemer (efter tilslutningspunkt for fjernvarme)                                 X
 
-  Varmetab fra cirkulations og distributionssystemer (efter tilslutningspunkt for fjernvarme)                                 X                                               
+  Varmetab fra fjernvarmerør som erstatter distributionssystem i byggeriet                                                    X
 
-  Varmetab fra fjernvarmerør som erstatter distributionssystem i byggeriet                                                    X                                               
+  **Køling **
 
-                                                                                                                                                                              
+  Komfort-køling                                                                                                              X
 
-  **Køling **                                                                                                                                                                 
+  Køling af procesmæssige hensyn, herunder bl.a. køling af servere, laboratorieudstyr, medikoudstyr og lignende.                                                             X
 
-  Komfort-køling                                                                                                              X                                               
+  **Udstyr**
 
-  Køling af procesmæssige hensyn, herunder bl.a. køling af servere, laboratorieudstyr, medikoudstyr og lignende.                                                             X\
+  EDB-udstyr, krydsfelter og EDB-servere inkl. Køling                                                                                                                        X
 
-                                                                                                                                                                              
-
-  **Udstyr**                                                                                                                                                                  
-
-  EDB-udstyr, krydsfelter og EDB-servere inkl. Køling                                                                                                                        X\
-
-  Audio-og videoudstyr                                                                                                                                                       X\
+  Audio-og videoudstyr                                                                                                                                                       X
 
   Elevator til persontransport                                                                                                                                                X
 
@@ -205,11 +184,11 @@ I nedenstående tabel er Trafik-, Bygge og Boligstyrelsens fortolkning af håndt
 
   Laboratorieudstyr                                                                                                                                                           X
 
-  Hårde hvidevarer (proceskøkken udstyr)                                                                                                                                     X\
+  Hårde hvidevarer (proceskøkken udstyr)                                                                                                                                     X
 
-  Køkkenudstyr                                                                                                                                                               X\
+  Køkkenudstyr                                                                                                                                                               X
 
-  Kaffemaskiner, sodavandsmaskiner og lign.                                                                                                                                  X\
+  Kaffemaskiner, sodavandsmaskiner og lign.                                                                                                                                  X
 
   Elevator til varer m.m.                                                                                                                                                     X
 
@@ -219,13 +198,12 @@ I nedenstående tabel er Trafik-, Bygge og Boligstyrelsens fortolkning af håndt
 
   Vaskerifunktioner, autoklaver og lignende                                                                                                                                   X
 
-  Laboratorie- og produktionsudstyr inklusive køling                                                                                                                         X\
-                                                                                                                                                                             \
+  Laboratorie- og produktionsudstyr inklusive køling                                                                                                                         X
+
   -------------------------------------------------------------------------------------------------------------------------- ------------------ ---------------------------- -----------------------------------------
 
-(\*) betyder udenfor opvarmet etageareal.\
+(\*) betyder udenfor opvarmet etageareal.
+
 *Tabel opdateret den 1. juli 2023 *
 
- 
 
-\

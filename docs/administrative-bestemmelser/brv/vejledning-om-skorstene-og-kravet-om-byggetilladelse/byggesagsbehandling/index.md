@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -23,40 +26,31 @@
 
 ## Vejledning om skorstene og kravet om byggetilladelse
 
-
 ### Skorstene og kravet om byggetilladelse
-
 
 ### @@PROTECTED_17@@s anvendelsesområde
 
-
 ### Krav om byggetilladelse
-
 
 ### Byggeri uden krav om byggetilladelse
 
-
 ### Byggesagsbehandling
 
-Ansøgning om byggetilladelse skal ske efter BR18 [§ 10](/administrative-bestemmelser/krav/7_15/). Det følger heraf, hvilken dokumentation der skal indsendes ved ansøgning om byggetilladelse. Der skal bl.a. indsendes oplysninger til identifikation af det arbejde, der udføres, erklæring om, hvilke tekniske forhold i bygningsreglementet byggearbejdet er omfattet af, og oplysning om og dokumentation for indplacering i konstruktions- og brandklasser.\
-\
-Indplacering i brand- og konstruktionsklasser skal ske efter henholdsvis [§§ 485-489 f](/ovrige-bestemmelser/26/krav/485_489/)or konstruktionsklasser og [§§ 490-493 f](/ovrige-bestemmelser/27/krav/)or brandklasser.\
+Ansøgning om byggetilladelse skal ske efter BR18 [§ 10](/administrative-bestemmelser/krav/7_15/). Det følger heraf, hvilken dokumentation der skal indsendes ved ansøgning om byggetilladelse. Der skal bl.a. indsendes oplysninger til identifikation af det arbejde, der udføres, erklæring om, hvilke tekniske forhold i bygningsreglementet byggearbejdet er omfattet af, og oplysning om og dokumentation for indplacering i konstruktions- og brandklasser.
 
-Kommunalbestyrelsen er bygningsmyndighed og behandler den dokumentation, der indsendes efter [§ 10](/administrative-bestemmelser/krav/7_15/). Derudover kan ansøger indtil 31. december 2019 vælge, om der tilknyttes en certificeret statiker og brandrådgiver til at udarbejde dokumentation for henholdsvis konstruktions- og brandforhold, eller om der ønskes teknisk byggesagsbehandling af konstruktions- og brandforhold af kommunalbestyrelsen.\
-\
-Hvis der vælges en certificeret statiker og brandrådgiver, skal der indsendes dokumentation til kommunalbestyrelsen i overensstemmelse med henholdsvis [§§ 16-19](/administrative-bestemmelser/krav/) og [§§ 20-23](/administrative-bestemmelser/krav/20_23/).\
-\
-Hvis der vælges teknisk byggesagsbehandling af konstruktions- og brandforhold, skal der indsendes dokumentation til kommunalbestyrelsen i overensstemmelse med henholdsvis [§§ 24-27](/administrative-bestemmelser/krav/24_29/) og 28 og [§ 29](/administrative-bestemmelser/krav/28_29/).\
-\
+Indplacering i brand- og konstruktionsklasser skal ske efter henholdsvis [§§ 485-489 f](/ovrige-bestemmelser/26/krav/485_489/)or konstruktionsklasser og [§§ 490-493 f](/ovrige-bestemmelser/27/krav/)or brandklasser.
+
+Kommunalbestyrelsen er bygningsmyndighed og behandler den dokumentation, der indsendes efter [§ 10](/administrative-bestemmelser/krav/7_15/). Derudover kan ansøger indtil 31. december 2019 vælge, om der tilknyttes en certificeret statiker og brandrådgiver til at udarbejde dokumentation for henholdsvis konstruktions- og brandforhold, eller om der ønskes teknisk byggesagsbehandling af konstruktions- og brandforhold af kommunalbestyrelsen.
+
+Hvis der vælges en certificeret statiker og brandrådgiver, skal der indsendes dokumentation til kommunalbestyrelsen i overensstemmelse med henholdsvis [§§ 16-19](/administrative-bestemmelser/krav/) og [§§ 20-23](/administrative-bestemmelser/krav/20_23/).
+
+Hvis der vælges teknisk byggesagsbehandling af konstruktions- og brandforhold, skal der indsendes dokumentation til kommunalbestyrelsen i overensstemmelse med henholdsvis [§§ 24-27](/administrative-bestemmelser/krav/24_29/) og 28 og [§ 29](/administrative-bestemmelser/krav/28_29/).
+
 Kommunalbestyrelsen foretager efter BR18 ikke teknisk byggesagsbehandling af anden teknisk dokumentation, herunder dokumentation for overholdelse af krav til skorstene, aftrækssystemer og fyringsanlæg.
-
 
 ### Afslutning af en byggesag
 
-
 ### Genibrugtagning
-
 
 ### Kommunen som påtalepligtig
 
-\

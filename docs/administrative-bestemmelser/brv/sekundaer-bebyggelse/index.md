@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../spoergsmaal-og-svar)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../spoergsmaal-og-svar-ve-anlaeg)
@@ -23,8 +26,6 @@
 
 ## Vejledning om opførelse af sekundær bebyggelse med et samlet areal på højst 50 m2
 
-
-
 ### Indledning {#261b8b2e-1b20-4582-b46e-a8e529044717}
 
 **Vejledningen er opdateret i januar 2021.**
@@ -45,9 +46,7 @@ Der er dog ikke noget til hinder for, at et drivhus indrettes med borde, stole, 
 
 I denne vejledning behandles en række fokuspunkter som man skal være særligt opmærksom på ved opførelse af sekundær bebyggelse.
 
-Hverken vejledningen eller eksemplerne, der følger af denne, er udtømmende. Der kan derfor være konkrete situationer, der ikke er nævnt i hverken vejledningen eller eksemplerne. 
-
-
+Hverken vejledningen eller eksemplerne, der følger af denne, er udtømmende. Der kan derfor være konkrete situationer, der ikke er nævnt i hverken vejledningen eller eksemplerne.
 
 ### Hvor meget må man bygge? {#6a342020-cf53-43dc-9f54-1e63ef0b9273}
 
@@ -57,9 +56,9 @@ Det er ikke afgørende for kravet om byggetilladelse, hvilket byggeri sekundær 
 
 Det er pr. 1. januar 2020 præciseret, at opførelse af sekundær bebyggelse uden byggetilladelse er betinget af, at den sekundære bebyggelse placeres på terræn. Baggrunden for præciseringen er bl.a., at placering af konstruktioner under terræn kan medføre risiko for sammenstyrtning, og dermed er af en anden kompleksitet end konstruktioner, der er placeret på terræn.
 
-Sekundær bebyggelse kan opføres uden byggetilladelse på en grund, hvor der endnu ikke er opført en primær bebyggelse. Dette kan fx være relevant i forbindelse med opførelse af et enfamiliehus, hvor man ønsker at opføre et skur til opbevaring af redskaber, der skal anvendes i byggeprocessen. 
+Sekundær bebyggelse kan opføres uden byggetilladelse på en grund, hvor der endnu ikke er opført en primær bebyggelse. Dette kan fx være relevant i forbindelse med opførelse af et enfamiliehus, hvor man ønsker at opføre et skur til opbevaring af redskaber, der skal anvendes i byggeprocessen.
 
-Det skal understreges, at det ikke er tilladt at anvende sekundær bebyggelse til beboelse, uanset om der er primær bebyggelse på grunden. 
+Det skal understreges, at det ikke er tilladt at anvende sekundær bebyggelse til beboelse, uanset om der er primær bebyggelse på grunden.
 
 Foruden bygningsreglementets regler, kan der også være regler i anden lovgivning, der begrænser mulighederne for at bygge. Læs mere herom i vejledningens afsnit 8 om anden lovgivning.
 
@@ -79,13 +78,11 @@ Foruden bygningsreglementets regler, kan der også være regler i anden lovgivni
 
 *Det er en forudsætning, at bygningsreglementet, deklarationer og anden lovgivning overholdes.*
 
-
-
 ### Brandforhold {#6878ba72-8872-435d-8988-768f98a45f05}
 
 Det er vigtigt, at bygningsreglementets bestemmelser om brandforhold overholdes ved opførelse af sekundær bebyggelse på grunden. Dette er afgørende for, at der opnås og opretholdes tilfredsstillende sikkerhed mod brand og brandspredning til andre bygninger på egen og omkringliggende grunde.
 
-Ved sekundær bebyggelse skelnes der mellem byggeri, der bygges sammen med den primære bebyggelse (fx et enfamiliehus), og byggeri, der ikke er bygget sammen. Læs mere herom i afsnit 6 om integrerede og sammenbyggede bygninger. 
+Ved sekundær bebyggelse skelnes der mellem byggeri, der bygges sammen med den primære bebyggelse (fx et enfamiliehus), og byggeri, der ikke er bygget sammen. Læs mere herom i afsnit 6 om integrerede og sammenbyggede bygninger.
 
 Det kan på samme måde have betydning for brandsikringen, hvis man bygger tæt på skel. Konkret kan det eksempelvis have betydning for, hvilke materialer, som du skal bygge med, og om du skal lave en brandvæg mod skel for at forhindre brandspredning.
 
@@ -109,10 +106,9 @@ Vi henviser i øvrigt til Bygningsreglementets vejledning til kapitel 5 -- Brand
 
 **Eksempel 3:**
 
-*På en sommerhusgrund placeres et udhus på 32 m2 i en afstand af 2,5 m fra skel og 2,5 m fra sommerhuset. Da udhusets afstand til skel er 2,5 m skal der som udgangspunkt ikke tages særligt hensyn til brandforholdene. Bemærk, at der er særlige afstandskrav for sekundær bebyggelse i tilknytning til sommerhuse. Læs mere herom i afsnit 4.1.3.\
+*På en sommerhusgrund placeres et udhus på 32 m2 i en afstand af 2,5 m fra skel og 2,5 m fra sommerhuset. Da udhusets afstand til skel er 2,5 m skal der som udgangspunkt ikke tages særligt hensyn til brandforholdene. Bemærk, at der er særlige afstandskrav for sekundær bebyggelse i tilknytning til sommerhuse. Læs mere herom i afsnit 4.1.3.
+
 Det er en forudsætning, at bygningsreglementet, deklarationer og anden lovgivning overholdes.*
-
-
 
 ### Bebyggelsesregulerende bestemmelser for sekundær bebyggelse {#2aacad95-d2ec-4756-9876-47afb7f43a68}
 
@@ -136,11 +132,7 @@ Kan den sekundære bebyggelse ikke opføres inden for rammerne af byggeretten vi
 
 *På en grund er der opført en garage på 25m^2^. Hvis ejeren af ejendommen efterfølgende ønsker at opføre et udhus på 15 m2, der ligger i en afstand fra skel på 1,5 m. og er højere end 2,5 m. (højde for byggeri i skelbremmen), skal kommunen fortage en helhedsvurdering. Det skal den selvom, der er "plads" indenfor bebyggelsesprocenten, fordi byggeretten ikke er overholdt.*
 
-
-
 ### Bebyggelse i skelbræmmen {#5f2f5eb0-99ff-4bed-9784-46c8080b9ca8}
-
-
 
 ### Betingelser for opførelse af sekundær bebyggelse nærmere skel mod nabo og sti end 2,5 meter {#215df4b5-8346-4df4-a6c9-24d557dee493}
 
@@ -150,12 +142,13 @@ Hvis sekundær bebyggelse opføres nærmere skel mod nabo og sti end 2,5 meter, 
 
 • De sider, der vender mod skel, må ikke have en samlet længde på mere end 12 meter. Det er alene bygningens længste side, der medregnes. Også i dette tilfælde er det den samlede længde af al sekundær bebyggelse på grunden, der er afgørende for, om kravet er overholdt.
 
-• Der må ikke udføres vinduer, døre eller andre åbninger i den side, der vender mod skel mod nabo og sti. 
+• Der må ikke udføres vinduer, døre eller andre åbninger i den side, der vender mod skel mod nabo og sti.
 
-• Tagvand skal holdes på egen grund. Man skal altså sørge for, at tagvandet ikke \
-løber ind på naboens grund.\
-\
-Hvis ovenstående betingelser overholdes, er det som udgangspunkt tilladt at bygge nærmere skel end 2,5 meter. Sommerhuse er selvstændigt reguleret -- se afsnit 4.1.3 nedenfor. Er der tvivl om, hvorvidt byggeriet kan opfylde alle betingelserne, kan man kontakte kommunen for vejledning. 
+• Tagvand skal holdes på egen grund. Man skal altså sørge for, at tagvandet ikke
+
+løber ind på naboens grund.
+
+Hvis ovenstående betingelser overholdes, er det som udgangspunkt tilladt at bygge nærmere skel end 2,5 meter. Sommerhuse er selvstændigt reguleret -- se afsnit 4.1.3 nedenfor. Er der tvivl om, hvorvidt byggeriet kan opfylde alle betingelserne, kan man kontakte kommunen for vejledning.
 
 **Eksempel 1:**
 
@@ -165,21 +158,19 @@ Hvis ovenstående betingelser overholdes, er det som udgangspunkt tilladt at byg
 
 - ^1^ Bemærk, at bestemmelsen ikke omfatter integrerede garager og carporte.
 
-
-
 ### Sekundær bebyggelse, der placeres længere fra skel end 2,5 meter {#b36ca33a-453b-4cfd-b16f-267842e4518c}
 
 Placeres bygningen i en afstand på mere end 2,5 meter fra skel, er bygningen ikke omfattet af betingelserne nævnt i afsnit 4.1.1. Placeres bygningen længere fra skel mod nabo og sti end 2,5 meter, skal du dog være opmærksom på, hvor højt du må bygge, og om du overskrider bebyggelsesprocenten. I disse tilfælde skal man ligeledes være opmærksom på, at tagvand skal holdes på egen grund.
 
 ### Sekundær bebyggelse i tilknytning til sommerhuse {#83fd48d6-b801-4442-b94d-9b2a769c54db}
 
-For sekundær bebyggelse, der opføres i tilknytning til sommerhuse, gælder særlige afstandskrav. 
+For sekundær bebyggelse, der opføres i tilknytning til sommerhuse, gælder særlige afstandskrav.
 
 Udgangspunktet er, at der ikke må opføres bebyggelse i en afstand af 0,0 - 5,0 meter fra skel. Man kan skelne mellem den ydre skelbræmme, dvs. fra 0,0 - 2,5 meter fra skel, og den indre skelbræmme, dvs. fra 2,5 -- 5,0 meter fra skel.
 
 Det er ikke tilladt at opføre bebyggelse i den ydre skelbræmme, dvs. inden for en afstand fra 0,0 - 2,5 meter fra skel.
 
-I visse tilfælde kan man opføre sekundær bebyggelse i den indre skelbræmme mod nabo og sti, hvis en række betingelser er opfyldt. Opføres sekundær bebyggelse i den indre skelbræmme, dvs. inden for en afstand af 2,5 - 5,0 meter fra skel mod nabo og sti, skal følgende betingelser være opfyldt^2^: 
+I visse tilfælde kan man opføre sekundær bebyggelse i den indre skelbræmme mod nabo og sti, hvis en række betingelser er opfyldt. Opføres sekundær bebyggelse i den indre skelbræmme, dvs. inden for en afstand af 2,5 - 5,0 meter fra skel mod nabo og sti, skal følgende betingelser være opfyldt^2^:
 
 • Ingen del af bygningens ydervægge eller tag inklusiv eventuel brandkam må inden for en afstand af 2,5 meter til 5,0 meter fra skel mod nabo og sti være højere end 2,5 meter over terræn eller det niveauplan som kommunen har fastsat for bygningen. Placeres bebyggelsen på et skrånende terræn eller terræn med større niveauforskelle måles fra et eller flere niveauplaner fastsat af kommunen. I de tilfælde, hvor kommunen skal fastsætte et eller flere niveauplan, vil der være krav om byggetilladelse. Såfremt højden målt fra lodret terræn ikke overstiger de i byggeretten fastsætte grænser for højde samt afstand til skel, kan bebyggelsen opføres uden fastsættelse af niveauplaner.
 
@@ -194,8 +185,6 @@ I visse tilfælde kan man opføre sekundær bebyggelse i den indre skelbræmme m
 *Det er en forudsætning, at bygningsreglementet, deklarationer og anden lovgivning overholdes.*
 
 - ^2^ Bemærk, at bestemmelsen ikke omfatter integrerede garager og carporte.
-
-
 
 ### Fradragsreglen {#68a81df4-34a2-4264-8061-399efbdf0101}
 
@@ -222,8 +211,6 @@ Fradragsreglen er blevet ændret med bygningsreglementet 2018 (BR18), og grænse
 *Det er en forudsætning, at bygningsreglementet, deklarationer og anden lovgivning overholdes.*
 
 - ^3^ For fritliggende enfamiliehuse, dobbelthuse med lodret lejlighedsskel og sommerhuse skulle der ved beregning af etagearealet tidligere kun medregnes den del af arealet, der oversteg 35 m2 pr. bolig. For etageboligboligbebyggelser, ved samlede boligbebyggelser med både lodret og vandret lejlighedsskel samt ved rækkehuse, kædehuse, gruppehuse eller lignende former for helt eller delvist sammenbyggede enfamiliehuse, er det 20 m2.
-
-
 
 ### Integrerede og sammenbyggede bygninger {#b1eb4379-b434-4b01-9edf-6f1171cb9a6c}
 
@@ -257,8 +244,6 @@ Nedrivning af bebyggelse skal meddeles til Bygnings- og Boligregistret (BBR). Be
 
 *Det er dog en forudsætning, at bygningsreglementet, deklarationer og anden lovgivning overholdes.*
 
-
-
 ### Anden lovgivning {#4b0fb2ea-7300-4ce4-a3d9-c5955771783c}
 
 Før man bygger, skal man altid være opmærksom på, at der foruden de nævnte krav i bygningsreglementet, også kan være regler i anden lovgivning, som har betydning for, hvad og hvor meget, man må bygge på sin grund.
@@ -281,8 +266,7 @@ Der kan ligeledes være fastsat begrænsninger i form af deklarationer og servit
 
 Kommunalbestyrelsen kan med hjemmel i planloven håndhæve privatretlige deklarationer og servitutter med fx bebyggelsesregulerende bestemmelser. [Du kan læse mere om servitutter på www.tinglysning.dk](https://www.tinglysning.dk/tinglysning/landingpage/landingpage.xhtml){rel="noopener noreferrer" target="_blank"}[ ](https://www.tinglysning.dk/tinglysning/landingpage/landingpage.xhtml){rel="noopener noreferrer" target="_blank"}
 
-
-
 ### Hvad skal man huske? {#cbaf7f4f-594c-41d5-bc32-c40d16d9674e}
 
-Foruden ovenstående, er der også andre forhold, som man skal være opmærksom på, før man påbegynder et byggeri. Sekundær bebyggelse må ikke anvendes til beboelse.    En ændring i anvendelse, fx fra udhus til bolig eller terrasseoverdækning til udestue, kræver byggetilladelse.   Når man har opført sekundær bebyggelse, der ikke kræver byggetilladelse, skal man også huske at meddele oplysninger om byggeriet til Bygnings- og Boligregistret (BBR). Det er kommunalbestyrelsen, der opdaterer oplysninger i BBR, men det er boligejerens ansvar, at oplysningerne er korrekte. Alle bygninger på grunden skal som udgangspunkt være registreret i BBR.   Hvis man er i tvivl om, hvorvidt der må bygges uden tilladelse, er det altid en god idé at kontakte kommunen, inden byggeriet påbegyndes, da man kan risikere at skulle rive en ulovligt opført bygning ned.   [Læs mere i Vejledning om lovliggørelse af ulovligt byggeri](../../../Administrative-bestemmelser/BRV/Vejledning-om-lovliggorelse).\
+Foruden ovenstående, er der også andre forhold, som man skal være opmærksom på, før man påbegynder et byggeri. Sekundær bebyggelse må ikke anvendes til beboelse.    En ændring i anvendelse, fx fra udhus til bolig eller terrasseoverdækning til udestue, kræver byggetilladelse.   Når man har opført sekundær bebyggelse, der ikke kræver byggetilladelse, skal man også huske at meddele oplysninger om byggeriet til Bygnings- og Boligregistret (BBR). Det er kommunalbestyrelsen, der opdaterer oplysninger i BBR, men det er boligejerens ansvar, at oplysningerne er korrekte. Alle bygninger på grunden skal som udgangspunkt være registreret i BBR.   Hvis man er i tvivl om, hvorvidt der må bygges uden tilladelse, er det altid en god idé at kontakte kommunen, inden byggeriet påbegyndes, da man kan risikere at skulle rive en ulovligt opført bygning ned.   [Læs mere i Vejledning om lovliggørelse af ulovligt byggeri](../../../Administrative-bestemmelser/BRV/Vejledning-om-lovliggorelse).
+

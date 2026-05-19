@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -22,7 +25,6 @@
 - [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../../temasiden-brandogkonstruktioner-dk/)
 
 ## Eksempelsamling om ombygninger og andre forandringer - For etageboligbyggeri samt enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse
-
 
 ### Kolofon
 
@@ -57,8 +59,6 @@
 Ved nogle af nedenstående eksempler er der tilknyttet specifikke forudsætninger for konstruktions- og/eller brandforhold, som skal være opfyldt for at eksemplerne kan benyttes.
 
 Udover de specifikke forudsætninger, forudsættes det generelt for de eksempler, der ikke skal indplaceres i en konstruktionsklasse og/eller brandklasse, at byggearbejdet ikke ændrer de bærende konstruktioners virkemåde og/eller forudsætningerne for de brandmæssige forhold på anden vis.
-
- 
 
 +--------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Tabel 1: Eksempler på ombygninger og andre forandringer i etageboligbyggeri der kræver byggetilladelse**                                                                                                                                                                                                                                                                                                                                                                                       |
@@ -118,7 +118,6 @@ Udover de specifikke forudsætninger, forudsættes det generelt for de eksempler
 | Udnyttelse af pulterrum i udnyttelig tagetage til beboelse.                                                        | Ja                                                                                            | Ja                                                                                       |                                                                                                                                                                                  |
 +--------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-\
 [2.2](../ombygninger-der-kan-opfoeres-uden-byggetilladelse/)
 
 ### Ombygninger og andre forandringer der kan udføres uden ansøgning om byggetilladelse
@@ -135,4 +134,3 @@ Udover de specifikke forudsætninger, forudsættes det generelt for de eksempler
 
 ### Ombygninger og andre forandringer der kan udføres uden ansøgning om byggetilladelse
 
-\

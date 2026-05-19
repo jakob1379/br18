@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -63,8 +66,10 @@
 
 ### Byggesagsgebyr i sager, hvor der meddeles afslag
 
-I BR18 [§ 39, stk. 1](/administrative-bestemmelser/krav/39/), fremgår det, at der kan opkræves gebyr, selvom der meddeles afslag på en ansøgning om byggetilladelse, midlertidig tilladelse eller dispensation efter reglementet. Det er dog frivilligt, hvorvidt kommunen vælger at opkræve gebyr for afslag, idet kommunen efter [§ 39, stk. 1](/administrative-bestemmelser/krav/39/), selv kan vælge om og i givet fald i hvilke sagstyper, der skal opkræves byggesagsgebyr. Se mere herom i afsnit 5.    Hvis kommunen vælger at opkræve gebyr i sager, hvor kommunens afgørelse har karakter af et afslag, er det vigtigt at skelne mellem afvisning og afslag, idet der alene er hjemmel til at opkræve gebyr for afslag.    Et afslag er den afgørelse, som kommunen når frem til, efter der er foretaget en egentlig byggesagsbehandling af sagen, men hvor der er forhold, der gør, at byggeriet ikke kan tillades.       En afvisning er den situation, hvor kommunen afviser at foretage en egentlig byggesagsbehandling, da der fra sagens start mangler væsentlige oplysninger i sagen, eller hvis det viser sig, at sagen ikke skal behandles efter byggelovgivningen. En afvisning dækker således over de situationer, hvor kommunen vurderer, at der foreligger formalitetsmæssige mangler i en ansøgning og således må afvise sagen uden at have prøvet eller behandlet sagens materielle indhold. En afvisning indebærer således, at kommunen ikke har vurderet og taget stilling til sagens konkrete indhold. \
-De udgifter, som kommunen vil have i forbindelse med afvisning af en ansøgning, kan dækkes som en del af de samlede, indirekte udgifter, som kommunerne har i forbindelse med administrationen af byggesagsbehandlingen, jf. afsnit 15. Disse udgifter kan kommunen lade afspejle i den timepris, som kommunen selv fastsætter.\
+I BR18 [§ 39, stk. 1](/administrative-bestemmelser/krav/39/), fremgår det, at der kan opkræves gebyr, selvom der meddeles afslag på en ansøgning om byggetilladelse, midlertidig tilladelse eller dispensation efter reglementet. Det er dog frivilligt, hvorvidt kommunen vælger at opkræve gebyr for afslag, idet kommunen efter [§ 39, stk. 1](/administrative-bestemmelser/krav/39/), selv kan vælge om og i givet fald i hvilke sagstyper, der skal opkræves byggesagsgebyr. Se mere herom i afsnit 5.    Hvis kommunen vælger at opkræve gebyr i sager, hvor kommunens afgørelse har karakter af et afslag, er det vigtigt at skelne mellem afvisning og afslag, idet der alene er hjemmel til at opkræve gebyr for afslag.    Et afslag er den afgørelse, som kommunen når frem til, efter der er foretaget en egentlig byggesagsbehandling af sagen, men hvor der er forhold, der gør, at byggeriet ikke kan tillades.       En afvisning er den situation, hvor kommunen afviser at foretage en egentlig byggesagsbehandling, da der fra sagens start mangler væsentlige oplysninger i sagen, eller hvis det viser sig, at sagen ikke skal behandles efter byggelovgivningen. En afvisning dækker således over de situationer, hvor kommunen vurderer, at der foreligger formalitetsmæssige mangler i en ansøgning og således må afvise sagen uden at have prøvet eller behandlet sagens materielle indhold. En afvisning indebærer således, at kommunen ikke har vurderet og taget stilling til sagens konkrete indhold.
+
+De udgifter, som kommunen vil have i forbindelse med afvisning af en ansøgning, kan dækkes som en del af de samlede, indirekte udgifter, som kommunerne har i forbindelse med administrationen af byggesagsbehandlingen, jf. afsnit 15. Disse udgifter kan kommunen lade afspejle i den timepris, som kommunen selv fastsætter.
+
 [11.](../deltilladelser/)
 
 ### Byggesagsgebyr for deltilladelser
@@ -85,4 +90,3 @@ De udgifter, som kommunen vil have i forbindelse med afvisning af en ansøgning,
 
 ### Intern instruks i kommunen
 
-\

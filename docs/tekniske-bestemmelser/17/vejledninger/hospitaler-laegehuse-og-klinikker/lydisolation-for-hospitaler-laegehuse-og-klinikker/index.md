@@ -1,6 +1,5 @@
 # Lydforhold (§ 368 - § 376)
 
-
 ## Se alle vejledninger om Lydforhold (§ 368 - § 376)
 
 - [Bygningsreglementets vejledning om lydforhold](../../generel_vejledning/)
@@ -78,14 +77,19 @@ Tabel 6.1 indeholder forslag til projekteringsværdier for luftlydisolation og t
 |                                                                                                                                                                  |                                       |
 | 1\) Der kan til rum med ekstra store krav til fortrolighed være behov for en bedre lydisolation.\                                                                |                                       |
 | \                                                                                                                                                                |                                       |
-| 2) Der opstilles i det konkrete projekt lydkrav, der sikrer tilfredsstillende lydforhold for rumanvendelsen.\                                                    |                                       |
+|
+
+2) Der opstilles i det konkrete projekt lydkrav, der sikrer tilfredsstillende lydforhold for rumanvendelsen.\                                                    |                                       |
 | \                                                                                                                                                                |                                       |
-| 3) I tilfælde af særligt generende støj i egen eller andres virksomhed opstilles relevante lydkrav, der sikrer tilfredsstillende lydforhold for rumanvendelsen.\ |                                       |
+|
+
+3) I tilfælde af særligt generende støj i egen eller andres virksomhed opstilles relevante lydkrav, der sikrer tilfredsstillende lydforhold for rumanvendelsen.\ |                                       |
 | \                                                                                                                                                                |                                       |
-| 4) Fra alle omgivende gulve, dæk og trapper.                                                                                                                     |                                       |
+|
+
+4) Fra alle omgivende gulve, dæk og trapper.                                                                                                                     |                                       |
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------+
 
-\
 [6.2](../stoej-indendoers-fra-trafik-i-hospitaler-laegehuse-og-klinikker/)
 
 ### Støj indendørs fra trafik
@@ -98,4 +102,3 @@ Tabel 6.1 indeholder forslag til projekteringsværdier for luftlydisolation og t
 
 ### Rumakustik
 
-\

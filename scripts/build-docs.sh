@@ -6,7 +6,7 @@ site_dir="${SITE_DIR:-site}"
 
 cd "$repo_root"
 
-uv run zensical build
+uv run zensical build --strict
 
 root_dir="$(cd "$site_dir" && pwd)"
 

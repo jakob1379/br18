@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -43,8 +46,6 @@ Denne vejledning skal understøtte kommunernes indsats i forbindelse med den del
 
 I stikprøvekontrollen skal kommunerne bl.a. vurdere, om de udtrukne byggesager tilbyder ligeværdighed i adgangsforhold og indretning^4^. Et ensartet kontrolniveau vil understøtte en identificering af, hvor udfordringerne befinder sig. Derfor er det vigtigt, at stikprøvekontrollen omfatter alle relevante bestemmelser i bygningsreglementet.
 
- 
-
 1\) Bygningsreglementet, [kap. 1](/administrative-bestemmelser/), [§ 46](/administrative-bestemmelser/krav/40_46/).
 
 2\) Bygningsreglementet, [kap. 1](/administrative-bestemmelser/), Vejledning om byggesagsbehandling efter BR18.
@@ -79,4 +80,3 @@ I stikprøvekontrollen skal kommunerne bl.a. vurdere, om de udtrukne byggesager 
 
 ### Uddybning af ligeværdighed i adgangsforhold og indretning
 
-\

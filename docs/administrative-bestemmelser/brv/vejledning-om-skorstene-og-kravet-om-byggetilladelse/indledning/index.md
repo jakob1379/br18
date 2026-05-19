@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -23,16 +26,15 @@
 
 ## Vejledning om skorstene og kravet om byggetilladelse
 
-
 ### Skorstene og kravet om byggetilladelse
 
 Denne vejledning indeholder en beskrivelse af reglerne for, hvornår der er krav om, at ejeren af en ejendom skal søge om byggetilladelse hos kommunen ved opførelse af en skorsten. Vejledningen indeholder også en kort beskrivelse af reglerne for, hvordan kommunen skal søge en ulovlig skorsten lovliggjort.
 
-#### 
+####
 
 [Skorstensfejerbekendtgørelsen](https://www.retsinformation.dk/Forms/R0710.aspx?id=191239)
 
-#### 
+####
 
 Reglerne for det lovpligtige skorstensfejerarbejde er fastsat i [skorstensfejerbekendtgørelsen](https://www.retsinformation.dk/Forms/R0710.aspx?id=191239), som er udstedt med hjemmel i [byggelovens § 15](https://www.retsinformation.dk/eli/lta/2016/1178).
 
@@ -40,29 +42,19 @@ Reglerne for det lovpligtige skorstensfejerarbejde er fastsat i [skorstensfejerb
 
 Denne bekendtgørelse indeholder blandt andet regler om, at skorstene skal tilses og rengøres af en faglært person, der har bestået skorstensfejerfagets svendeprøve. **Det er en forudsætning for at kunne overholde kravene i [skorstensfejerbekendtgørelsen](https://www.retsinformation.dk/Forms/R0710.aspx?id=191239), at en skorsten anmeldes til Bygnings- og Boligregisteret (BBR).** Dette er bygningsejerens ansvar, idet det i henhold til [byggelovens § 17, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178), påhviler den til enhver tid værende ejer af en ejendom at sørge for, at ejendommen ikke er i strid med [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178) eller de i medfør af [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178) udstedte regler samt anden lovgivning
 
- 
-
-I bygningsreglement 2018 benyttes terminologien aftrækssystemer for skorsten og røgrør med tilhørende samlinger og andre systemer af enhver art, der modtager forbrændingsprodukter fra et eller flere fyringsanlæg. 
-
+I bygningsreglement 2018 benyttes terminologien aftrækssystemer for skorsten og røgrør med tilhørende samlinger og andre systemer af enhver art, der modtager forbrændingsprodukter fra et eller flere fyringsanlæg.
 
 ### @@PROTECTED_26@@s anvendelsesområde
 
-
 ### Krav om byggetilladelse
-
 
 ### Byggeri uden krav om byggetilladelse
 
-
 ### Byggesagsbehandling
-
 
 ### Afslutning af en byggesag
 
-
 ### Genibrugtagning
-
 
 ### Kommunen som påtalepligtig
 
-\

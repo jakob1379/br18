@@ -1,6 +1,5 @@
 # Brand (§ 82 - § 158)
 
-
 ## Se alle vejledninger om Brand (§ 82 - § 158)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar)
@@ -27,17 +26,13 @@
 
 ## Bilag 6 - Præ-accepterede løsninger - Hoteller mv.
 
-
 ### Bilag 6 til Bygningsreglementets vejledning til kap. 5 -- Brand
 
 [Åbn Bilag 6: Præ-accepterede løsninger for hoteller mv.](../../../../../media/ylopiebc/bilag-6-hoteller-mv-ver-11-20220111-a.pdf "Bilag 6  Hoteller mv ver 11 20220111")
 
 Version 1.1 - 2022.01.11
 
- 
-
 [Åbn Bilag 6: Præ-accepterede løsninger for brandsikring af bygningsafsnit med hoteller mv.](../../../../../media/tmjdtwgs/bilag-6-praeaccepterede-loesninger-hoteller-mv-21122018-a.pdf)
 
 Version 2018.12.21
 
-\

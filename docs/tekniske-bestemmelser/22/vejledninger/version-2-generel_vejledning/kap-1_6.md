@@ -1,6 +1,5 @@
 # Ventilation (§ 420 - § 452)
 
-
 ## Se alle vejledninger om Ventilation (§ 420 - § 452)
 
 - [Bygningsreglementets vejledning om ventilation](./)
@@ -8,7 +7,6 @@
 - [Spørgsmål og svar](../sporgsmaal_svaar/)
 
 ## Bygningsreglementets vejledning om ventilation
-
 
 ### Forord
 
@@ -57,8 +55,6 @@ Kravet til primærenergiforbrug for andre ventilationssystemer end mekaniske ber
 *Kompenserende tiltag\*
 Såfremt der ikke anvendes en energiramme til at beregne primærenergibehov, kan der i beregning af ventilationens energiforbrug indgå kompenserende tiltag, så som vedvarende energianlæg og energibesparende tiltag ud over bygningsreglementets mindstekrav, eksempler herpå kan være, men er ikke begrænset til, solcelleanlæg eller isolering.
 
- 
-
 *Emhætter*
 
 Madlavning genererer forurening for indeklimaet gennem dannelse af luftformige forureninger som partikler samt fugt. For at sikre et sundt indeklima i boliger er der derfor krav om, at der skal etableres en emhætte, der er effektiv til at fjerne forureninger fra madlavningen.
@@ -85,7 +81,7 @@ Såfremt det vælges at dokumentere emhættens effektivitet med luftmængder, ka
 
 Mindre aflukkede køkkenrum defineres som mindre rum fortrinsvis indrettet til madlavning og adskilt fra øvrige opholdsrum
 
-Tabel præ-accepterede korrektionsfaktorer for emhætteplacering og minimums luftmængde: 
+Tabel præ-accepterede korrektionsfaktorer for emhætteplacering og minimums luftmængde:
 
 +------------------------------------------------+--------------------------------------------------------------------------------+--------------------+------------------------------+-------------------------------------------+
 | Udformning                                     | Placering                                                                      | Korrektionsfaktor  | Eksempel                     | Eksempel                                  |
@@ -195,4 +191,3 @@ For etageboligbygninger, kollegier, hoteller og lign. kan der ikke anvendes redu
 
 ### Drift og vedligehold
 
-\

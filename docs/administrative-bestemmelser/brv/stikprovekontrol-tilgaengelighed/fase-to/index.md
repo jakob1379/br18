@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -43,15 +46,13 @@ I denne fase af stikprøvekontrollen skal kommunen kontrollere, om dokumentation
 
 Byggesagsbehandleren skal i denne fase granske den indsendte dokumentation. Granskningen kan suppleres af et tilsyn på stedet. I granskningen vurderes det, om de beskrevne løsninger i dokumentationen efterlever byggetilladelsen og bygningsreglementets bestemmelser. Alt efter bygningstype vælges det relevante bygningsspor i oversigtsnøglen som udgangspunkt for granskningen.
 
-Byggesagens dokumentation holdes op imod de enkelte bestemmelser i bygningsreglementet, og det vurderes, om de dokumenterede løsninger er opført i overensstemmelse med bestemmelserne. I de tilfælde, hvor de dokumenterede løsninger ikke lever op til bestemmelserne, er der tale om en materiel mangel.   
+Byggesagens dokumentation holdes op imod de enkelte bestemmelser i bygningsreglementet, og det vurderes, om de dokumenterede løsninger er opført i overensstemmelse med bestemmelserne. I de tilfælde, hvor de dokumenterede løsninger ikke lever op til bestemmelserne, er der tale om en materiel mangel.
 
 Det er på dette tidspunkt i stikprøvekontrollen, at det vurderes, om dokumentationens beskrevne løsninger tilgodeser ligeværdighed i adgangsforhold og indretning samt sikrer, at brugerne ved egen hjælp kan benytte bygningen og dens funktioner.
 
 Mere information om ligeværdig samt en definition af 'ved egen hjælp' præsenteres i afsnit *3.0 Uddybning af ligeværdighed i adgangsforhold og indretning*. Ligeledes henvises til DS-håndbog 186:2017 for konkrete eksempler på, hvordan bygningsreglementets bestemmelser kan overholdes ved brug af eksempler fra DS/ISO 21542.
 
- 
-
-**Omfang og antal** 
+**Omfang og antal**
 
 Bygningsreglementets bestemmelser omhandler en række detailkrav, hvor et givet antal er defineret. Det gælder antallet af sengepladser indrettet med egne bade- og wc-faciliteter. Andre bestemmelser anvender begrebet 'passende antal'. Det gælder pladser til personer med særlige pladskrav i lokaler og anlæg med fastmonterede publikumspladser samt antallet af parkeringspladser til handicapegnede køretøjer.
 
@@ -59,9 +60,7 @@ Vurderingen af behovet og dermed hvad, der er et passende antal, bør dog altid 
 
 I denne 2. fase af stikprøvekontrollen er det kommunens opgave at vurdere, hvordan der i dokumentationen er gjort rede for antallet af f.eks. parkeringspladser til handicapegnede køretøjer i relation til typen af byggeprojekt i den pågældende byggesag.
 
- 
-
-9\) Grangaard, S. & Pedersen, L.S. (2014) Tilgængelighed i forbindelse med ombygning -- et casestudie af Nordkraft. SBI 2014:16. Statens Byggeforskningsinstitut, Aalborg Universitet, København. 
+9\) Grangaard, S. & Pedersen, L.S. (2014) Tilgængelighed i forbindelse med ombygning -- et casestudie af Nordkraft. SBI 2014:16. Statens Byggeforskningsinstitut, Aalborg Universitet, København.
 
 [1.3](../fase-tre/)
 
@@ -79,4 +78,3 @@ I denne 2. fase af stikprøvekontrollen er det kommunens opgave at vurdere, hvor
 
 ### Uddybning af ligeværdighed i adgangsforhold og indretning
 
-\

@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -45,7 +48,7 @@ Der er dog ikke noget til hinder for, at et drivhus indrettes med borde, stole, 
 
 I denne vejledning behandles en række fokuspunkter som man skal være særligt opmærksom på ved opførelse af sekundær bebyggelse.
 
-Hverken vejledningen eller eksemplerne, der følger af denne, er udtømmende. Der kan derfor være konkrete situationer, der ikke er nævnt i hverken vejledningen eller eksemplerne. 
+Hverken vejledningen eller eksemplerne, der følger af denne, er udtømmende. Der kan derfor være konkrete situationer, der ikke er nævnt i hverken vejledningen eller eksemplerne.
 
 [2.0.](../2_0_hvor_meget_maa_man_bygge/)
 
@@ -103,4 +106,3 @@ Hverken vejledningen eller eksemplerne, der følger af denne, er udtømmende. De
 
 ### Hvad skal man huske?
 
-\

@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -23,34 +26,23 @@
 
 ## Vejledning om skorstene og kravet om byggetilladelse
 
-
 ### Skorstene og kravet om byggetilladelse
-
 
 ### @@PROTECTED_17@@s anvendelsesområde
 
-
 ### Krav om byggetilladelse
 
-Det er udgangspunktet i [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178), at der er krav om byggetilladelse for de omfattede byggearbejder og dermed, at byggearbejder, hvor aftrækssystemet får karakter af en tilbygning, kræver byggetilladelse fra kommunen, jf. [byggelovens § 16, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178). Det følger ligeledes heraf, at i de tilfælde byggearbejdet er en ombygning eller forandring i bebyggelsen, skal der søges byggetilladelse fra kommunen, såfremt ombygningen/forandringen er væsentlig i forhold til bestemmelser i byggelovgivningen, herunder de konstruktive krav i BR18, [kap. 15](/tekniske-bestemmelser/15/).   
-
- 
+Det er udgangspunktet i [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178), at der er krav om byggetilladelse for de omfattede byggearbejder og dermed, at byggearbejder, hvor aftrækssystemet får karakter af en tilbygning, kræver byggetilladelse fra kommunen, jf. [byggelovens § 16, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178). Det følger ligeledes heraf, at i de tilfælde byggearbejdet er en ombygning eller forandring i bebyggelsen, skal der søges byggetilladelse fra kommunen, såfremt ombygningen/forandringen er væsentlig i forhold til bestemmelser i byggelovgivningen, herunder de konstruktive krav i BR18, [kap. 15](/tekniske-bestemmelser/15/).
 
 Hvorvidt ombygningen eller forandringen er væsentlig, beror på kommunens konkrete vurdering.
 
-
 ### Byggeri uden krav om byggetilladelse
-
 
 ### Byggesagsbehandling
 
-
 ### Afslutning af en byggesag
-
 
 ### Genibrugtagning
 
-
 ### Kommunen som påtalepligtig
 
-\

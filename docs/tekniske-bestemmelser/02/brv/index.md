@@ -1,13 +1,19 @@
 ---
-title: Adgangsforhold (§ 48 - § 62) – Vejledning
+title: Adgangsforhold (§ 48 - §
+
+62) – Vejledning
 ---
 
-# Adgangsforhold (§ 48 - § 62)
+# Adgangsforhold (§ 48 - §
+
+62)
 
 [Krav](../){ .md-button }
 [Vejledning](./){ .md-button .md-button--primary }
 
-## Se alle vejledninger om Adgangsforhold (§ 48 - § 62)
+## Se alle vejledninger om Adgangsforhold (§ 48 - §
+
+62)
 
 - [Spørgsmål og svar om adgangsforhold](./#spoergsmaal-og-svar-om-adgangsforhold)
 - [Vejledning til brugerbegreb](./#vejledning-til-brugerbegreb)
@@ -39,9 +45,13 @@ Denne vejledning beskriver brugerbegrebet set i forhold til BR18 og den konkrete
 
 Vejledningen retter sig mod,
 
-> 1) bygherrer og rådgivere, der planlægger, projekterer og udfører de påkrævede foranstaltninger under hensyn til brugerne og bygningens anvendelse, og
 >
-> 2) kommuner, der i forbindelse med forhåndsdialog, byggetilladelser, dispensationsansøgninger og stikprøvekontroller behandler løsninger i konkrete byggerier.
+
+1) bygherrer og rådgivere, der planlægger, projekterer og udfører de påkrævede foranstaltninger under hensyn til brugerne og bygningens anvendelse, og
+>
+>
+
+2) kommuner, der i forbindelse med forhåndsdialog, byggetilladelser, dispensationsansøgninger og stikprøvekontroller behandler løsninger i konkrete byggerier.
 
 ### Generelt {#generelt}
 

@@ -1,13 +1,11 @@
 # Fugt og vådrum (§ 334 - § 339)
 
-
 ## Se alle vejledninger om Fugt og vådrum (§ 334 - § 339)
 
 - [Spørgsmål og svar om fugt og vådrum](../../qa/)
 - [Bygningsreglementets vejledning om fugt og vådrum](../)
 
 ## Bygningsreglementets vejledning om fugt og vådrum
-
 
 ### Generelt om fugt og vådrum
 
@@ -19,9 +17,7 @@ Høj relativ luftfugtighed kan give problemer med kondens eller skimmelvækst p�
 
 Det er derfor vigtigt, at vælge robuste løsninger, dvs. enten løsninger der forhindrer fugtpåvirkninger eller at der vælges materialer, der kan modstå de påvirkninger der er, eller kan forventes, i eller på bygningen.
 
-\
-
-### 
+###
 
 !
 
@@ -37,4 +33,3 @@ Typer af fugtpåvirkninger
 
 ### Vådrum
 
-\

@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../)
@@ -23,9 +26,7 @@
 
 ## Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)
 
-
 ### Hvad forestås ved elproducerende VE-anlæg?
-
 
 ### Hvilke regler gælder for tilladelsesprocessen for elproducerende VE-anlæg?
 
@@ -35,10 +36,7 @@ Artikel 16 har til formål at lette den administrative proces for etablering af 
 
 Da byggetilladelsen er en af flere tilladelser, der kan være relevant ved etablering af elproducerende VE-anlæg, kan behandling af ansøgning om byggetilladelse i forbindelse med disse anlæg blive underlagt tidsfristerne i art. 16. Tidsfristens påbegyndelse, længde m.v. fremgår af [kapitel 3](/tekniske-bestemmelser/03/) i Energistyrelsens bekendtgørelse om kontaktpunkt og tidsfrist for VE-tilladelser. Det fremgår af BR18 [§ 11 a](/administrative-bestemmelser/krav/), at ansøgning om byggetilladelse til elproducerende VE-anlæg er omfattet af dette kapitel.
 
-
 ### I hvilke tilfælde skal der søges om byggetilladelse ved etablering af elproducerende VE-anlæg?
-
 
 ### Hvad er reglerne for brand- og konstruktionsforhold ved etablering af elproducerende VE-anlæg, og skal der tilknyttes en certificerede rådgivere?
 
-\

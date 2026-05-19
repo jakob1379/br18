@@ -1,6 +1,5 @@
 # Brand (§ 82 - § 158)
 
-
 ## Se alle vejledninger om Brand (§ 82 - § 158)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar)
@@ -27,7 +26,6 @@
 
 ## Bilag 4 - Præ-accepterede løsninger - Forsamlingslokaler, butikker mv.
 
-
 ### Bilag 4 til Bygningsreglementets vejledning til kap. 5 -- Brand
 
 [Åbn Bilag 4: Præ-accepterede løsninger for forsamlingslokaler, butikker mv. version 1.2](../../../../../media/4kwdmmqe/bilag-4-forsamlingslokaler-butik-mv-ver-12-20211029-a.pdf "Bilag 4  Forsamlingslokaler butik mv ver 12 20211029")
@@ -45,4 +43,3 @@ Version 1.1 (09.06.2021)
 [Åbn Bilag 4: Præ-accepterede løsninger for forsamlingslokaler, butikker mv. version 1.0](../../../../../media/02pnkd0h/bilag-4-forsamlingslokaler-butik-mv-ver-10-20181221-a.pdf "Bilag 4  Forsamlingslokaler butik mv ver 10 20181221")
 
 
-\

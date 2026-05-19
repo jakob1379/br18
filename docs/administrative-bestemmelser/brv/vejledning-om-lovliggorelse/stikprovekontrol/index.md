@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -23,23 +26,17 @@
 
 ## Vejledning om lovliggørelse af ulovligt byggeri
 
-
 ### Lovliggørelse af ulovligt byggeri
-
 
 ### Indholdet af vejledningen
 
-
 ### Hvornår er et byggeri ulovligt
-
 
 ### Anvendelse af formelle bestemmelser i forbindelse med lovliggørelse af byggeri
 
-
 ### Særligt om stikprøvekontrol efter BR18
 
-Hvis det ved stikprøvekontrollen efter BR18, § 46 konstateres, at der ikke er indsendt tilstrækkelig dokumentation for overholdelse af tekniske bestemmelser, vil ansøgeren efterfølgende skulle fremsende den manglende dokumentation.\
-\
+Hvis det ved stikprøvekontrollen efter BR18, § 46 konstateres, at der ikke er indsendt tilstrækkelig dokumentation for overholdelse af tekniske bestemmelser, vil ansøgeren efterfølgende skulle fremsende den manglende dokumentation.
 
 Hvis det derimod ved stikprøvekontrollen konstateres, at et byggeri er opført anderledes end tilladt, eller at der er forhold, der kræver dispensation fra en materiel bestemmelse, skal ansøger enten søge og opnå dispensation eller dokumentere, at byggeriet er bragt i overensstemmelse med det tilladte eller den materielle bestemmelse.
 
@@ -47,40 +44,27 @@ Også ulovligt byggeri, der er opført før BR18 kan udtages til stikprøvekontr
 
 I byggesager, hvor der ved stikprøvekontrollen er konstateret et ulovligt forhold, er kommunalbestyrelsen i medfør af BR18, § 46 forpligtet til at gennemgå den indsendte dokumentation og påse, at byggeriet overholder de for byggeriet relevante krav i bygningsreglementet. Det betyder, at kommunalbestyrelsen som bygningsmyndighed skal føre en egentlig kontrol med, at det ulovlige forhold er lovliggjort inden sagen kan afsluttes.
 
-
 ### @@PROTECTED_17@@s bestemmelser
-
 
 ### Kommunalbestyrelsen som bygningsmyndighed
 
-
 ### Ejerens pligter
-
 
 ### Lovliggørelsens art
 
-
 ### Retlig lovliggørelse
-
 
 ### Fysisk lovliggørelse
 
-
 ### Vurderingen -- valget mellem retlig og fysisk lovliggørelse
-
 
 ### Byggeri opført uden tilladelse
 
-
 ### Byggeri der afviger fra det byggeri, der er givet tilladelse til
-
 
 ### Hensyn og overvejelser
 
-
 ### Forholdet til anden lovgivning
-
 
 ### Særligt om lovliggørelse i forbindelse med bygningers klimapåvirkning
 
-\

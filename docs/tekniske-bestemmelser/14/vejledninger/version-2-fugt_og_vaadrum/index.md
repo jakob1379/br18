@@ -1,13 +1,11 @@
 # Fugt og vådrum (§ 334 - § 339)
 
-
 ## Se alle vejledninger om Fugt og vådrum (§ 334 - § 339)
 
 - [Spørgsmål og svar om fugt og vådrum](../qa)
 - [Bygningsreglementets vejledning om fugt og vådrum](./)
 
 ## Bygningsreglementets vejledning om fugt og vådrum
-
 
 ### Generelt om fugt og vådrum
 
@@ -19,17 +17,13 @@ Høj relativ luftfugtighed kan give problemer med kondens eller skimmelvækst p�
 
 Det er derfor vigtigt, at vælge robuste løsninger, dvs. enten løsninger der forhindrer fugtpåvirkninger eller at der vælges materialer, der kan modstå de påvirkninger der er, eller kan forventes, i eller på bygningen.
 
-\
-
-### 
+###
 
 ![](../../../../media/v4dh0nsx/kap_14_brv_0_0_typer_af_fugtpaavirkninger.svg)
 
 Typer af fugtpåvirkninger
 
 -{target="_blank"}
-
-
 
 ### Fugt {#15eef60e-136b-4f8a-88ab-46705ab5ca21}
 
@@ -38,8 +32,6 @@ Typer af fugtpåvirkninger
 Kondens på kolde indvendige overflader opstår sædvanligvis som følge af utilsigtet høj luftfugtighed, kombineret med utilstrækkelig ventilation og ringe luftbevægelse i områder med kolde overflader. Kolde indvendige overflader optræder typisk ved kuldebroer og ved utætheder i klimaskærmen, mm. Ved nybyggeri og renovering bør fugtbelastningen medtages i vurderingen af, om der er tilstrækkelig ventilation og luftbevægelse i alle rum. Ved valg af ventilationsstrategi, materialer, konstruktioner og bygningsdele bør der i projekterings-, udførelses- samt brugsfasen tages hensyn til den fugtproduktion, temperatur, luftudskiftning og luftbevægelse, der kan forekomme i bygningen, således at forudsætningerne for et sundt indeklima skabes, og så byggekomponenter og konstruktioner ikke nedbrydes eller skimmelsvampe dannes.
 
 Visse bygningstyper, som for eksempel svømmehaller, har forhøjede fugtpåvirkninger. Beskyttelsen mod fugt skal derfor i disse bygninger have ekstra fokus.
-
-\
 
 1.2.
 
@@ -53,13 +45,13 @@ Der skal træffes tilstrækkelige tiltag til at sikre, at bygningen er beskyttet
 
 En måde at beskytte bygningen mod indtrængen af overfladevand, er at sikre, at der er fald på terrænet væk fra bygningen eller ved at sikre, at den del af bygningen der kan blive udsat for påvirkning af overfladevand kan modstå denne påvirkning.
 
-### 
+###
 
 ![](../../../../media/ii0byiao/kap_14_brv_1_3_maader_at_beskytte_mod_overfaldevand.svg)
 
 Måder at beskytte mod overfaldevand
 
-### 
+###
 
 ![](../../../../media/qjxnokjl/kap_14_brv_1_3_tiltag_til_at_sikre_mod_fugt_fra_undergrunden.svg)
 
@@ -69,9 +61,7 @@ Tiltag til at sikre mod fugt fra undergrunden
 
 Det er vigtigt for overholdelse af kravet, at regn og smeltevand fra sne føres væk fra bygningen. Det betyder bl.a. at taget skal udføres med tilstrækkelig hældning til at sikre, at vandet føres væk fra bygningen. Hvis hældningen på tagfladen er større end 1:40 svarende til 2,5 cm pr. m, vil vand fra tage normalt kunne løbe af på forsvarlig vis. Tagvand skal desuden via tagrender og/eller tagnedløb ledes til afløb, så vandet ikke fugtbelaster facaden. I visse tilfælde kan tagrender udelades ved bygninger med særlig fri beliggenhed, herunder sommerhuse samt ved garager, udhuse og lignende mindre bygninger, forudsat at tagvandet ikke afledes til gene for vejarealer eller nabogrunde. Tilsvarende kan tagrender udelades ved bygninger med særlig traditionel byggeskik, der tilsiger dette. Der skal dog tages særligt hensyn til overfladevand i forhold til begrænsning af skader på bygning og miljø.
 
-\
-
-### 
+###
 
 ![](../../../../media/hq5phvgc/kap_14_brv_1_4_afledning_af_tagvand_og_tiltraekkelig_taghaeldning.svg)
 
@@ -90,8 +80,6 @@ Spildevandstilladelser
 #### Se bekendtgørelsen her [Spildevandsbekendtgørelsen](https://www.retsinformation.dk/eli/lta/2024/532 "Miljøministeriets bekendtgørelse om "){target="_blank"}
 
 -{target="_blank"}
-
-
 
 ### Vådrum {#15eef60e-136b-4f8a-88ab-46705ab5ca21}
 
@@ -117,8 +105,6 @@ I SBi Anvisning 252 beskrives, hvorledes gulve og vægge i vådrum kan udføres.
 
 Hvis SBi-anvisning 252 følges, opnås en god sikkerhed for at overholde bygningsreglementets krav til vådrum.
 
-\
-
 [![](../../../../assets/img/linkbox/sbi_anv_linkbox.svg)](# "#title")
 
 #### SBi Anvisning 252
@@ -127,11 +113,11 @@ Vådrum
 
 #### Anvendelsesområde
 
-SBi-anvisning 252 giver vejledning i planlægning, projektering og korrekt udførelse af gulve, vægge og installationer i vådrum i overensstemmelse med kravene i Bygningsreglement 2010.\
+SBi-anvisning 252 giver vejledning i planlægning, projektering og korrekt udførelse af gulve, vægge og installationer i vådrum i overensstemmelse med kravene i Bygningsreglement 2010.
+
 Vådrum hører til de mest kritiske rum i en bygning, både på grund af den direkte vandpåvirkning og den høje relative luftfugtighed, der ofte forekommer i længere perioder. Anvisningen beskriver, hvordan gulve, vægge og installationer kan udføres, så bygningsreglementets krav er overholdt, og så der opnås størst mulig sikkerhed mod skader fra vand og fugt.
 
 #### Se anvisningen her [](https://sbi.dk/anvisninger/Pages/252-Vaadrum-1.aspx "SBi Anvisning 252"){target="_blank"}
 
 -  [Gå til krav om Vådrum](../../krav/339#eb0ba6a3-9056-4315-aba8-417e17607290){target="_blank"}
 
-\

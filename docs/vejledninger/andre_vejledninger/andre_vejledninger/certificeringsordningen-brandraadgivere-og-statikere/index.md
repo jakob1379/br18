@@ -1,6 +1,5 @@
 # Andre vejledninger
 
-
 ## Certificeringsordningen - brandrådgivere og statikere
 
 [Temaside om brugen af certificerede statikere og brandrådgivere](../../../../media/zl4jkn1r/vejledning-om-certificering-af-statikere-og-brandraadgivere-22-01-2024-a.pdf){rel="noopener" target="_blank"}
@@ -17,22 +16,15 @@
 
 [Rettelsesblad til Vejledning om certificering af statikere og brandrådgivere (11. april 2024)](../../../../media/g4rpappd/rettelsesblad-til-vejledning-om-certificering-af-statikere-og-brandraadgivere-a.pdf "Rettelsesblad til Vejledning om certificering af statikere og brandrådgivere")
 
-
 ## Vejledning om installationer i eksisterende bygninger
-
 
 ## Vejledning om byggeskadeforsikring
 
-
 ## Vejledning om klimasikring
-
 
 ## Vejledning til @@PROTECTED_6@@ (@@PROTECTED_7@@)
 
-
 ## Pjece om legionella
-
 
 ## Radonguiden.dk
 
-\

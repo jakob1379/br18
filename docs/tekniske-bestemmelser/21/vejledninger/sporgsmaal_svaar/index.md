@@ -1,6 +1,5 @@
 # Vand (§ 403 - § 419)
 
-
 ## Se alle vejledninger om Vand (§ 403 - § 419)
 
 - [Vejledning om brug af regnvand](../brug-af-regnvand/)
@@ -11,7 +10,5 @@
 
 ## Spørgsmål og svar
 
-
 ### Kan den nye udgave af DS 439 anvendes til at opfylde kravene om dimensionering i bygningsreglementet?
 
-\

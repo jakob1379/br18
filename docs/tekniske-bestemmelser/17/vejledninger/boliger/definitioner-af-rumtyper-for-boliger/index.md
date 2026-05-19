@@ -1,6 +1,5 @@
 # Lydforhold (§ 368 - § 376)
 
-
 ## Se alle vejledninger om Lydforhold (§ 368 - § 376)
 
 - [Bygningsreglementets vejledning om lydforhold](../../generel_vejledning/)
@@ -34,7 +33,8 @@
 
 **Udearealer umiddelbart uden for bygningernes vinduer** er området tæt på vinduer til beboelsesrum og køkken.
 
-**Udendørs rekreative arealer** er primære udendørs opholdsarealer som altaner, terrasser, tagterrasser og siddepladser, men ikke gangarealer, trapper, bede, beplantninger mv.\
+**Udendørs rekreative arealer** er primære udendørs opholdsarealer som altaner, terrasser, tagterrasser og siddepladser, men ikke gangarealer, trapper, bede, beplantninger mv.
+
 [2.2](../lydisolation-for-boliger/)
 
 ### Lydisolation for boliger
@@ -51,4 +51,3 @@
 
 ### Rumakustik i boliger
 
-\

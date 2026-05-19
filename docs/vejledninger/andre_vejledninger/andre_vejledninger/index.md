@@ -1,6 +1,5 @@
 # Andre vejledninger
 
-
 ## Certificeringsordningen - brandrådgivere og statikere
 
 [Temaside om brugen af certificerede statikere og brandrådgivere](../../../media/zl4jkn1r/vejledning-om-certificering-af-statikere-og-brandraadgivere-22-01-2024-a.pdf){rel="noopener" target="_blank"}
@@ -17,7 +16,6 @@
 
 [Rettelsesblad til Vejledning om certificering af statikere og brandrådgivere (11. april 2024)](../../../media/g4rpappd/rettelsesblad-til-vejledning-om-certificering-af-statikere-og-brandraadgivere-a.pdf "Rettelsesblad til Vejledning om certificering af statikere og brandrådgivere")
 
-
 ## Vejledning om installationer i eksisterende bygninger
 
 [Vejledning om installationer i eksisterende bygninger](../../../Vejledninger/Andre_vejledninger/Vejledning/Installationer-eksisterende-byggeri){rel="noopener noreferrer" target="_blank"} [](#d26da01f-2202-4033-89bd-42b91523f588)
@@ -30,7 +28,6 @@
 
 [Vejledning om byggeri i kystnære områder - til bygherrer vedrørende sikring mod stormflod og vandstigninger](../../../Historisk/BR18_Version3/Vejledninger/Klimasikring/Vejledning_Klimasikring/Byygeri_i_kystnaere_omraader/2_2){rel="noopener" target="_blank"}
 
-
 ## Vejledning til bekendtgørelse om forberedelse til og etablering af ladestandere i forbindelse med bygninger (ladestanderbekendtgørelsen)
 
 [Vejledning til bekendtgørelse om forberedelse til og etablering af ladestandere i forbindelse med bygninger (ladestanderbekendtgørelsen)](../../../Vejledninger/Andre_vejledninger/Vejledning/Vejledning-om-laderstander) [](#36f218f3-fbf6-4079-91e1-98459dad405c)
@@ -41,4 +38,5 @@
 
 ## Radonguiden.dk
 
-[Radonguiden.dk - fra risikovurdering og måling til afklaring og nedbringelse af for højt radonniveau i boliger](https://www.radonguiden.dk/){rel="noopener noreferrer" target="_blank"}\
+[Radonguiden.dk - fra risikovurdering og måling til afklaring og nedbringelse af for højt radonniveau i boliger](https://www.radonguiden.dk/){rel="noopener noreferrer" target="_blank"}
+

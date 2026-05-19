@@ -10,11 +10,11 @@ hide:
 
 ## § 453 - § 458 Beregningsregler {#s453-458}
 
-### § 453 {#p453}
+### § 453 {#p453 #paragraf-453}
 
 Ved bebyggelsesprocenten forstås etagearealets procentvise andel af grundens areal.
 
-### § 454 {#p454}
+### § 454 {#p454 #paragraf-454}
 
 Grundens areal omfatter det areal, der er angivet for det pågældende matrikelnummer. Vejareal eller areal, der skal holdes ubebygget, som følge af hjørneafskæring eller byggelinjepålæg til sikring af vejanlæg, skal indgå i grundens areal ved beregning af bebyggelsesprocenten.
 
@@ -29,7 +29,7 @@ Grundens areal omfatter det areal, der er angivet for det pågældende matrikeln
 1. Arealer af grunden, der er beliggende i en anden zone end den, hvori der bygges.
 2. Matrikelnumre, der er en del af en samlet fast ejendom, men som ikke grænser op til hinanden.
 
-### § 455 {#p455}
+### § 455 {#p455 #paragraf-455}
 
 Etageareal beregnes ved sammenlægning af bruttoarealerne af samtlige etager, herunder indskudte etager, kældre og udnyttelige tagetager samt altanlukninger, udestuer, forbindelsesgange og lignende.
 
@@ -59,7 +59,7 @@ Etageareal beregnes ved sammenlægning af bruttoarealerne af samtlige etager, he
 2. Ved åbne etager, porte, luftsluser og lignende medregnes til den linje, som bygningens ydervægge i øvrigt angiver.
 3. Ved fælles vægge mellem rum, der skal medregnes til hvert sit etageareal, måles til midten af væggen, idet der dog ved fælles vægge placeret over skel måles til skellinjen.
 
-### § 456 {#p456}
+### § 456 {#p456 #paragraf-456}
 
 Højder måles lodret fra naturligt terræn. For bebyggelser på skrånende terræn eller terræn med større niveauforskelle måles fra et eller flere niveauplaner, der fastsættes af kommunalbestyrelsen. Niveauplanernes beliggenhed skal på entydig måde fremgå af byggetilladelsen, f.eks. ved angivelse af planernes koter. Der kan efter behov fastlægges flere niveauplaner for samme grund.
 
@@ -72,7 +72,7 @@ Højder måles lodret fra naturligt terræn. For bebyggelser på skrånende terr
 
 *Stk. 4.* Antenner, hvis øverste punkt ikke er mere end 5,50 m over tagfladen, tagkviste, skorstenspiber, ventilationshætter, gavltrekanter og tagudhæng, medregnes ikke ved beregningen af en bygningshøjde, såfremt de er af sædvanligt omfang. Ved fastlæggelse af bebyggelsens højde kan kommunalbestyrelsen endvidere beslutte at se bort fra trappehuse, elevatorskakter, ventilationsanlæg, varmepumper, solcelleanlæg, solfangere, skilte og lysreklamer.
 
-### § 457 {#p457}
+### § 457 {#p457 #paragraf-457}
 
 Afstande måles vandret uden hensyn til terrænforskelle. Afstanden måles vinkelret på den pågældende modstående linje (vejlinje, skel mod nabo) eller bebyggelse, men kan af hensyn til lysforholdene eller for at begrænse indbliksgener måles som den mindste fri afstand mellem bygning eller bygningsdel og modstående vejlinje, skel mod nabo eller anden bebyggelse på samme grund. Ved bygninger uden begrænsende ydervægge måles fra tagfladen.
 
@@ -86,7 +86,7 @@ Afstande måles vandret uden hensyn til terrænforskelle. Afstanden måles vinke
 1. Karnapper, åbne altaner, udbuede vinduer og lignende bygningsdele, der er hævet 2,80 m over fortov og indtil 1,50 m fra kørebanekant eller cykelsti.
 2. Porte, døre, skodder og vinduer, der er indrettet til at åbne udad, og som målt fra underkanten anbringes i en højde af mindst 2,30 m over fortov.
 
-### § 458 {#p458}
+### § 458 {#p458 #paragraf-458}
 
 Hver af bygningens etager inklusiv stueetage medregnes i etageantallet, sådan som det fremgår af BBR-registret. Til etageantallet medregnes derudover:
 

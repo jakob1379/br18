@@ -1,6 +1,5 @@
 # Lydforhold (§ 368 - § 376)
 
-
 ## Se alle vejledninger om Lydforhold (§ 368 - § 376)
 
 - [Bygningsreglementets vejledning om lydforhold](../../generel_vejledning/)
@@ -53,15 +52,21 @@ Tabel 5.3 indeholder forslag til projekteringsværdier for støj fra tekniske in
 +-------------------------------------------------------------------------------------------------------------------------------+
 | **Noter **                                                                                                                    |
 |                                                                                                                               |
-| 1) Projekteringsværdierne gælder i møblerede rum.\                                                                            |
-| 2) Projekteringsværdierne gælder for den enkelte installation.\                                                               |
-| 3) Der opstilles relevante projektkrav, der kan sikre tilfredsstillende lydforhold for rumanvendelsen.\                       |
-| 4) For kantiner, der benyttes som mødefacilitet, anbefales ***L***~**Aeq**~ ≤ 35 dB.**\**                                     |
+|
+
+1) Projekteringsværdierne gælder i møblerede rum.\                                                                            |
+|
+
+2) Projekteringsværdierne gælder for den enkelte installation.\                                                               |
+|
+
+3) Der opstilles relevante projektkrav, der kan sikre tilfredsstillende lydforhold for rumanvendelsen.\                       |
+|
+
+4) For kantiner, der benyttes som mødefacilitet, anbefales ***L***~**Aeq**~ ≤ 35 dB.**\**                                     |
 +-------------------------------------------------------------------------------------------------------------------------------+
 
-\
 [5.4](../rumakustik-i-kontorbyggeri/)
 
 ### Rumakustik
 
-\

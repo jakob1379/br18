@@ -1,6 +1,5 @@
 # Brand (§ 82 - § 158)
 
-
 ## Se alle vejledninger om Brand (§ 82 - § 158)
 
 - [Spørgsmål og svar](../spoergsmaal-og-svar/)
@@ -27,9 +26,7 @@
 
 ## Bygningsreglementets vejledning til kapitel 5 - Brand
 
-
 ### Introduktion
-
 
 ### Kapitel 1: Generelt om sikkerhed ved brand
 
@@ -37,43 +34,29 @@
 
 Version 3.0 (10.05.2022)
 
- 
-
 [Åbn kapitel - Generelt om sikkerhed ved brand med ændringsmarkeringer ](../../../../media/ulvl3dcd/kapitel-1-generelt-om-sikkerhed-ved-brand-ver3020220510med-ndringsmarkeringer-a.pdf "Kapitel 1  Generelt om sikkerhed ved brand ver3020220510med ndringsmarkeringer")
 
 Version 3.0 (10.05.2022)
-
- 
 
 [Åbn kapitlet Generelt om sikkerhed ved brand](../../../../media/2vkhby4b/kapitel-1-generelt-om-sikkerhed-ved-brand-ver-21-a.pdf "Kapitel 1  Generelt om sikkerhed ved brand ver 21")
 
 Version 2.1 (04.03.2021)
 
- 
-
 [Åbn kapitlet Generelt om sikkerhed ved brand med ændringsmarkeringer](../../../../media/hkvg0kul/kapitel-1-generelt-om-sikkerhed-ved-brand-ver-21-med-ndringmarkeringer-a.pdf "Kapitel 1  Generelt om sikkerhed ved brand ver 21 med ndringmarkeringer")
 
 Version 2.1 (04.03.2021)
 
-
 ### Kapitel 2: Evakuering og redning af personer
-
 
 ### Kapitel 3: Bærende konstruktioner
 
-
 ### Kapitel 4: Antændelse, brand- og røgspredning
-
 
 ### Kapitel 5: Redningsberedskabets indsatsmuligheder
 
-
 ### Kapitel 6: Funktionsafprøvning og systemintegrationstest
-
 
 ### Kapitel 7: Drift-, kontrol- og vedligehold af brandforhold i og ved bygninger
 
-
 ### Kapitel 8: Eftervisning
 
-\

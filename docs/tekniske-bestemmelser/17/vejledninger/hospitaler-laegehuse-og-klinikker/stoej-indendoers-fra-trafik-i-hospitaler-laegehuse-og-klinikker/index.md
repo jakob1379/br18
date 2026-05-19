@@ -1,6 +1,5 @@
 # Lydforhold (§ 368 - § 376)
 
-
 ## Se alle vejledninger om Lydforhold (§ 368 - § 376)
 
 - [Bygningsreglementets vejledning om lydforhold](../../generel_vejledning/)
@@ -57,10 +56,11 @@ Tabel 6.2 indeholder forslag til projekteringsværdier for trafikstøj i hospita
 |                                                                                                           |
 | 1\) Projekteringsværdierne gælder i møblerede rum.\                                                       |
 | \                                                                                                         |
-| 2) Der opstilles relevante projektkrav, der kan sikre tilfredsstillende lydforhold for rumanvendelsen.    |
+|
+
+2) Der opstilles relevante projektkrav, der kan sikre tilfredsstillende lydforhold for rumanvendelsen.    |
 +-----------------------------------------------------------------------------------------------------------+
 
-\
 [6.3](../stoej-fra-tekniske-installationer-i-hospitaler-laegehuse-og-klinikker/)
 
 ### Støj fra tekniske installationer
@@ -69,4 +69,3 @@ Tabel 6.2 indeholder forslag til projekteringsværdier for trafikstøj i hospita
 
 ### Rumakustik
 
-\

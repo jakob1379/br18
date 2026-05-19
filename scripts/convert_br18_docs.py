@@ -296,7 +296,11 @@ class Cleaner(HTMLParser):
 def output_path_for_html(path: Path) -> Path | None:
     name = path.name
     if "?" not in name:
-        return path.with_suffix(".md")
+        if path.suffix.lower() in {".html", ".htm", ".xhtml"}:
+            return path.with_suffix(".md")
+        if path.suffix == "":
+            return path / "index.md"
+        return None
 
     prefix, _, query_suffix = name.partition("?")
     if query_suffix != "Layout=ShowAll.html":
@@ -334,6 +338,62 @@ def normalize_duplicate_uuid_fragments(markdown: str) -> str:
     return re.sub(rf"(#{uuid})#{uuid}", r"\1", markdown)
 
 
+def normalize_markdown_linebreak_artifacts(markdown: str) -> str:
+    """Turn source-site ``<br>`` artifacts into readable Markdown blocks.
+
+    Pandoc represents many BR18 ``<br>`` tags as literal Markdown hard-break
+    backslashes.  In the legal text this often produces visible ``\\`` lines or
+    one very long paragraph containing multiple list items and ``Stk.`` clauses.
+    The original site uses those breaks as paragraph/list layout, so normalize
+    them to blank-line separated Markdown before heading promotion.
+    """
+    normalized_lines: list[str] = []
+    for raw in markdown.splitlines():
+        stripped = raw.strip()
+        if stripped == "\\":
+            if normalized_lines and normalized_lines[-1] != "":
+                normalized_lines.append("")
+            continue
+        if raw.endswith("\\") and not raw.lstrip().startswith("|"):
+            raw = raw[:-1].rstrip()
+            normalized_lines.append(raw)
+            if normalized_lines[-1] != "":
+                normalized_lines.append("")
+            continue
+        normalized_lines.append(raw)
+
+    text = "\n".join(normalized_lines)
+
+    # Normalize legal subsection labels so Markdown emphasis parses despite
+    # non-breaking spaces and inconsistent source punctuation.
+    text = re.sub(
+        r"\*\s*\u00a0?(Stk\.\s*\d+[a-z]?)\.?\s*\*\.?(?=\S)",
+        r"*\1.* ",
+        text,
+    )
+    text = re.sub(
+        r"\*\s*\u00a0?(Stk\.\s*\d+[a-z]?)\.?\s*\*\.?(?=\s|$)",
+        r"*\1.*",
+        text,
+    )
+
+    # Split inline legal subsection clauses: "...  *Stk. 2.* ...".
+    text = re.sub(
+        r"(?<!^)\s+(?=\*Stk\.\s*\d+[a-z]?\.\*)",
+        "\n\n",
+        text,
+    )
+
+    # Split numbered and lettered legal list items that were flattened into one
+    # paragraph. Require whitespace before the marker to avoid touching words,
+    # section references, or URLs.
+    text = re.sub(r"(?<!^)\s+(?=\d{1,2}\)\s*\S)", "\n\n", text)
+    text = re.sub(r"(?<!^)\s+(?=[a-zæøå]\)\s*\S)", "\n\n", text)
+
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    return text + ("\n" if markdown.endswith("\n") else "")
+
+
 def escape_unresolved_reference_labels(markdown: str) -> str:
     return re.sub(
         r"(?<![!\\])\[([^\]\n]+)\](?![\[(])",
@@ -341,8 +401,202 @@ def escape_unresolved_reference_labels(markdown: str) -> str:
         markdown,
     )
 
+LEGAL_PARAGRAPH = r"§\s*\d+(?:\s*[a-zæøå](?![a-zæøå]))?"
+LEGAL_PARAGRAPH_RE = re.compile(rf"^(?P<label>{LEGAL_PARAGRAPH})(?P<rest>.*)$", re.IGNORECASE)
+LINKED_LEGAL_PARAGRAPH_RE = re.compile(
+    rf"^\[(?P<label>{LEGAL_PARAGRAPH})\]\([^)]*\)(?P<rest>.*)$",
+    re.IGNORECASE,
+)
+LEGAL_SECTION_LINK_RE = re.compile(r"^\[(?P<label>§[^\]]+)\]\([^)]*\)\s*$")
+HEADING_LINE_RE = re.compile(r"^(?P<marks>#{1,6})\s+(?P<title>.*?)(?:\s+\{(?P<attrs>[^}]*)\})?\s*$")
+INLINE_LEGAL_SPLIT_RE = re.compile(rf"(?<![§\w/])(?={LEGAL_PARAGRAPH}\s+[A-ZÆØÅ])")
+TRAILING_LEGAL_MARKER_RE = re.compile(rf"^(?P<prefix>.+?)(?P<label>{LEGAL_PARAGRAPH})\s*$", re.IGNORECASE)
+
+
+def legal_anchor(label: str) -> str:
+    suffix = re.sub(r"\s+", "", label.replace("§", "")).lower()
+    return f"paragraf-{suffix}"
+
+
+def add_attr_id_to_heading(line: str, anchor_id: str) -> str:
+    match = HEADING_LINE_RE.match(line)
+    if not match:
+        return line
+    attrs = (match.group("attrs") or "").strip()
+    if re.search(rf"(?:^|\s)#{re.escape(anchor_id)}(?:\s|$)", attrs):
+        return line
+    attrs = f"{attrs} #{anchor_id}".strip()
+    return f"{match.group('marks')} {match.group('title')} {{{attrs}}}"
+
+
+def promote_legal_paragraph_headings(markdown: str) -> str:
+    """Make official legal paragraph markers addressable Markdown headings.
+
+    BR18 pages often contain bare text rows like ``§ 5`` or linked rows like
+    ``[§ 6a](...) Følgende ...``.  Zensical cannot infer that these legal
+    markers are section headings, and CSS-only decoration would not create TOC,
+    search, or anchor targets.  Convert the markers to explicit headings with
+    stable ``paragraf-*`` ids while keeping source UUIDs on enclosing section
+    headings.
+    """
+    lines = markdown.splitlines()
+    first_h1 = next((line for line in lines if line.startswith("# ")), "")
+    if first_h1 and "§" not in first_h1:
+        return markdown
+    out: list[str] = []
+    pending_section_label: str | None = None
+
+    def append_heading(line: str) -> None:
+        if out and out[-1] != "":
+            out.append("")
+        out.append(line)
+
+    def emit_paragraph(label: str, rest: str = "") -> None:
+        append_heading(f"### {label.strip()} {{#{legal_anchor(label)}}}")
+        rest = rest.strip()
+        if rest:
+            out.append("")
+            out.append(rest)
+
+    def is_inline_reference_continuation(text: str) -> bool:
+        """Return true when text following a § marker is reference syntax, not heading text."""
+        text = text.strip()
+        return bool(text and (re.match(r"[,.;:]", text) or re.match(r"[a-zæøå]", text)))
+
+    i = 0
+    while i < len(lines):
+        raw = lines[i].rstrip()
+        stripped = raw.strip()
+
+        if stripped in {"[]", "Linket er kopieret", "Til top []", "Fold alle ind"}:
+            i += 1
+            continue
+
+        linked = LINKED_LEGAL_PARAGRAPH_RE.match(stripped)
+        if linked:
+            rest = linked.group("rest").strip()
+            next_text = ""
+            if not rest:
+                for candidate in lines[i + 1 : min(i + 4, len(lines))]:
+                    if candidate.strip():
+                        next_text = candidate.strip()
+                        break
+            if is_inline_reference_continuation(rest) or (not rest and next_text and is_inline_reference_continuation(next_text)):
+                out.append(raw)
+            else:
+                emit_paragraph(linked.group("label"), rest)
+            i += 1
+            continue
+
+        section_link = LEGAL_SECTION_LINK_RE.match(stripped)
+        if section_link:
+            pending_section_label = section_link.group("label").strip()
+            i += 1
+            continue
+
+        heading = HEADING_LINE_RE.match(stripped)
+        if heading and pending_section_label and not heading.group("title").startswith("§"):
+            attrs = (heading.group("attrs") or "").strip()
+            attr_text = f" {{{attrs}}}" if attrs else ""
+            append_heading(f"{heading.group('marks')} {pending_section_label} {heading.group('title')}{attr_text}")
+            pending_section_label = None
+            i += 1
+            continue
+        pending_section_label = None
+
+        if heading:
+            if heading.group("title").startswith("§"):
+                label_match = LEGAL_PARAGRAPH_RE.match(heading.group("title"))
+                if label_match and " - " not in heading.group("title") and len(heading.group("marks")) >= 3:
+                    append_heading(add_attr_id_to_heading(stripped, legal_anchor(label_match.group("label"))))
+                else:
+                    append_heading(raw)
+            else:
+                out.append(raw)
+            i += 1
+            continue
+
+        para = LEGAL_PARAGRAPH_RE.match(stripped)
+        chunks = [chunk.strip() for chunk in INLINE_LEGAL_SPLIT_RE.split(stripped) if chunk.strip()]
+        if para and not stripped.startswith("#"):
+            label = para.group("label")
+            rest = para.group("rest").strip()
+            if is_inline_reference_continuation(rest):
+                out.append(raw)
+                i += 1
+                continue
+            if not rest:
+                next_text = ""
+                for candidate in lines[i + 1 : min(i + 4, len(lines))]:
+                    if candidate.strip():
+                        next_text = candidate.strip()
+                        break
+                if next_text and re.match(r"[a-zæøå]", next_text):
+                    out.append(raw)
+                    i += 1
+                    continue
+            # Split paragraphs that pandoc glued together: "§ 1 text § 2 text".
+            if len(chunks) > 1 and all(LEGAL_PARAGRAPH_RE.match(chunk) for chunk in chunks):
+                for chunk in chunks:
+                    m = LEGAL_PARAGRAPH_RE.match(chunk)
+                    if m:
+                        emit_paragraph(m.group("label"), m.group("rest"))
+                        out.append("")
+                while out and out[-1] == "":
+                    out.pop()
+            else:
+                emit_paragraph(label, rest)
+            i += 1
+            continue
+
+        if len(chunks) > 1 and any(LEGAL_PARAGRAPH_RE.match(chunk) for chunk in chunks[1:]):
+            first = chunks[0]
+            if first:
+                out.append(first)
+                out.append("")
+            for chunk in chunks[1:]:
+                m = LEGAL_PARAGRAPH_RE.match(chunk)
+                if m:
+                    emit_paragraph(m.group("label"), m.group("rest"))
+                    out.append("")
+                else:
+                    out.append(chunk)
+                    out.append("")
+            while out and out[-1] == "":
+                out.pop()
+            i += 1
+            continue
+
+        trailing = TRAILING_LEGAL_MARKER_RE.match(stripped)
+        if trailing and not stripped.startswith("#"):
+            next_text = ""
+            for candidate in lines[i + 1 : min(i + 4, len(lines))]:
+                if candidate.strip():
+                    next_text = candidate.strip()
+                    break
+            if next_text and re.match(r"[A-ZÆØÅ]", next_text):
+                out.append(trailing.group("prefix").rstrip())
+                out.append("")
+                emit_paragraph(trailing.group("label"))
+                i += 1
+                continue
+
+        if heading and heading.group("title").startswith("§"):
+            label_match = LEGAL_PARAGRAPH_RE.match(heading.group("title"))
+            if label_match and " - " not in heading.group("title"):
+                out.append(add_attr_id_to_heading(stripped, legal_anchor(label_match.group("label"))))
+                i += 1
+                continue
+
+        out.append(raw)
+        i += 1
+
+    text = "\n".join(out)
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    return text + ("\n" if markdown.endswith("\n") else "")
 
 UUID = r"[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}"
+
 UUID_ANCHOR_LINK_RE = re.compile(
     rf"(?P<space>\s*)\[(?P<label>[^\]]+)\]\([^)]*#(?P<id>{UUID})\)"
 )
@@ -402,7 +656,15 @@ def attach_anchor_reference_ids(markdown: str) -> str:
             if heading_index is None:
                 continue
 
-            lines[heading_index] = add_heading_id(lines[heading_index], anchor_id)
+            heading_line = add_heading_id(lines[heading_index], anchor_id)
+            if label.startswith("§"):
+                hm = HEADING_ATTR_RE.match(heading_line)
+                if hm and not hm.group("head").split(maxsplit=1)[1].startswith("§"):
+                    heading_line = f"{hm.group('head').split(maxsplit=1)[0]} {match.group('label').strip()} {hm.group('head').split(maxsplit=1)[1]}"
+                    attrs = (hm.group("attrs") or "").strip()
+                    if attrs:
+                        heading_line = f"{heading_line} {{{attrs}}}"
+            lines[heading_index] = heading_line
             known_ids.add(anchor_id)
             line = UUID_ANCHOR_LINK_RE.sub("", line, count=1).rstrip()
             lines[index] = line
@@ -436,18 +698,47 @@ def convert_file(path: Path, docs_root: Path, delete_html: bool) -> bool:
     markdown = fix_empty_english_version_links(markdown)
     markdown = normalize_media_alias_links(markdown)
     markdown = normalize_duplicate_uuid_fragments(markdown)
+    markdown = normalize_markdown_linebreak_artifacts(markdown)
     markdown = attach_anchor_reference_ids(markdown)
+    for _ in range(4):
+        promoted = promote_legal_paragraph_headings(markdown)
+        if promoted == markdown:
+            break
+        markdown = promoted
     markdown = escape_unresolved_reference_labels(markdown)
+    if output.parent == path:
+        if not delete_html:
+            raise RuntimeError(f"cannot keep extensionless route HTML while writing {output}")
+        path.unlink()
     output.parent.mkdir(parents=True, exist_ok=True)
     output.write_text(markdown.lstrip(), encoding="utf-8")
-    if delete_html:
+    if delete_html and path.exists() and path.is_file():
         path.unlink()
     return True
 
 
+def looks_like_html_file(path: Path) -> bool:
+    if path.suffix.lower() in {".html", ".htm", ".xhtml"} or "?" in path.name:
+        return True
+    if path.suffix != "":
+        return False
+    try:
+        head = path.read_bytes()[:1024].lower()
+    except OSError:
+        return False
+    stripped = head.lstrip()
+    return stripped.startswith(b"<!doctype html") or stripped.startswith(b"<html") or b"<html" in head
+
+
 def iter_html_paths(docs_root: Path, selected_paths: list[str]) -> list[Path]:
     if not selected_paths:
-        return sorted(docs_root.rglob("*.html"))
+        return sorted(
+            path
+            for path in docs_root.rglob("*")
+            if path.is_file()
+            and "historisk" not in path.relative_to(docs_root).parts
+            and looks_like_html_file(path)
+        )
 
     paths: list[Path] = []
     seen: set[Path] = set()
@@ -458,7 +749,9 @@ def iter_html_paths(docs_root: Path, selected_paths: list[str]) -> list[Path]:
         if not candidate.is_relative_to(docs_root):
             raise SystemExit(f"path escapes docs root: {value}")
         matches = (
-            [candidate] if candidate.is_file() else sorted(candidate.rglob("*.html"))
+            [candidate]
+            if candidate.is_file()
+            else sorted(path for path in candidate.rglob("*") if path.is_file() and looks_like_html_file(path))
         )
         for match in matches:
             if match not in seen:

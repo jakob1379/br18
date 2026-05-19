@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -41,7 +44,7 @@ Ved "*ikke* *ændrer de bærende konstruktioners virkemåde"* forstås, at der i
 
 Udskiftning af konstruktionsdele, der ikke ændrer ved de bærende konstruktioners virkemåde, er omfattet af bestemmelsen såfremt disse mindst svarer til de oprindelige, i både brand- og konstruktionsmæssig henseende.
 
-Eksempler på ændringer, der ikke ændrer ved de bærende konstruktioners virkemåde, er f.eks. etablering, flytning eller fjernelse af ikke-bærende vægge, etablering af huller, der ikke påvirker konstruktionsdelens virkemåde eller udskiftning af sekundære bjælker i træbjælkelag. 
+Eksempler på ændringer, der ikke ændrer ved de bærende konstruktioners virkemåde, er f.eks. etablering, flytning eller fjernelse af ikke-bærende vægge, etablering af huller, der ikke påvirker konstruktionsdelens virkemåde eller udskiftning af sekundære bjælker i træbjælkelag.
 
 Hvis der sker ændringer i konstruktionens virkemåde, vil det pågældende byggearbejde kræve byggetilladelse. Et eksempel på en ændring af en konstruktions virkemåde er f.eks. delvis fjernelse af en bærende væg, etablering af et hul i en bærende væg, der påvirker konstruktionsdelens virkemåde, etablering af udvekslingsbjælker eller etablering af altan.
 
@@ -69,4 +72,3 @@ Der kan findes yderligere vejledning i SBi-anvisning 271 *Dokumentation og kontr
 
 ### Eksempler på, hvornår et byggearbejde ikke er undtaget for byggetilladelse, jf. § 5, stk. 1, nr. 4, og hvor der enten skal tilknyttes en certificeret brandrådgiver og/eller statiker, jf. § 10, stk. 2, nr. 3 og 5
 
-\

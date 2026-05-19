@@ -1,6 +1,5 @@
 # Brand (§ 82 - § 158)
 
-
 ## Se alle vejledninger om Brand (§ 82 - § 158)
 
 - [Spørgsmål og svar](..)
@@ -27,8 +26,6 @@
 
 ## Spørgsmål og svar
 
-
-
 ### Spørgsmål og svar om redningsåbninger (30-09-2020) {#762378f8-b00d-4c77-98ff-1b9c5cd98170}
 
 **Kan redningsåbninger udelades i hoteller og lignende i bygninger med gulv i øverste etage højst 22 m over terræn? (30-09-2020)**
@@ -49,35 +46,34 @@ For hoteller med gulv i øverste etage mere end 22 m over terræn er det beting
 
 For hotelbyggeri med gulv i øverste etage højst 22 m over terræn, hvor redningsåbninger ønskes udeladt, er det styrelsens vurdering, at dette byggeri kan indplaceres i brandklasse 3 eller 4 ved, at der udføres en komparativ analyse af flugtvejsmulighederne for et tilsvarende byggeri med gulv i øverste etage mere end 22 m over terræn.
 
-
-
 ### Spørgsmål og svar om let tagkonstruktion (06-07-2022) {#71716646-28c1-4231-ac24-25fd9753bd1f}
 
-**Hvad forstås ved en 'let tagkonstruktion'?** ** ** *I Bygningsreglementets vejledning til kapitel 5 -- brand, Kapitel 3: Bærende konstruktioner*, er angivet følgende for bygninger i én etage i anvendelseskategori 1-5:\
-\
-*I en bygning med let tagkonstruktion og med automatisk brandventilation, kan de bærende bygningsdele i bygningen udføres uden brandmodstandsevne, hvis brandsektionen er højst 1.000 m^2^, og i brandsektioner, der er større end 1.000 m^2^ kan de bærende konstruktioner, der bærer mindre end 200 m^2^ tag udføres uden krav til brandmodstandsevne.\*
-*\
-Ved en let tagkonstruktion forstås en isoleret eller uisoleret konstruktion opbygget af lette konstruktionsmaterialer f.eks. træ eller stålbjælker med eller uden loftsbeklædning mod rummet og med tagdækning af tagpap, metalplader, fibercementplader eller tilsvarende. Fladedensiteten for en let tagkonstruktion må højst være 30 kg/m^2^.\*
-\
-Hensynet bag, at det skal være en let tagkonstruktion, er at sikre, at egenvægten af tagkonstruktionen, og dermed lasten på den bærende, uklassificerede bygningsdel, minimeres. Desuden vurderes en let tagkonstruktion at have kortere brandmodstandsevne end den bærende bygningsdel, hvorved risikoen for, at der sker et progressivt kollaps, bl.a. til fare for rednings- og slukningsarbejdet, minimeres. \
-\
-Følgende præciseres ved en kommende opdatering af Bygningsreglementets *vejledning til kapitel 5 -- Brand, Kapitel 3: Bærende konstruktioner:* *\
-Ved en let tagkonstruktion forstås en isoleret eller uisoleret konstruktion opbygget af lette konstruktionsmaterialer, f.eks. træ eller stålbjælker med eller uden loftsbeklædning mod rummet, og med tagdækning af tagpap, metalplader, fibercementplader eller tilsvarende. Dvs. at en let tagkonstruktion typisk er alt andet end et betontagdæk og øvrige tagkonstruktioner med tagdækning af teglsten eller betontagsten.*\
-\
-At fladedensiteten (fladevægten) for en let tagkonstruktion højst må være 30 kg/m^2^ for at det kan betragtes som en præ-accepteret løsning, har givet anledning til tvivlsspørgsmål og en række udfordringer i forhold til at overholde kravet i praksis, som ikke har været hensigten, hvorfor kravet udgår.\
+**Hvad forstås ved en 'let tagkonstruktion'?** ** ** *I Bygningsreglementets vejledning til kapitel 5 -- brand, Kapitel 3: Bærende konstruktioner*, er angivet følgende for bygninger i én etage i anvendelseskategori 1-5:
 
+*I en bygning med let tagkonstruktion og med automatisk brandventilation, kan de bærende bygningsdele i bygningen udføres uden brandmodstandsevne, hvis brandsektionen er højst 1.000 m^2^, og i brandsektioner, der er større end 1.000 m^2^ kan de bærende konstruktioner, der bærer mindre end 200 m^2^ tag udføres uden krav til brandmodstandsevne.\*
+*
+
+Ved en let tagkonstruktion forstås en isoleret eller uisoleret konstruktion opbygget af lette konstruktionsmaterialer f.eks. træ eller stålbjælker med eller uden loftsbeklædning mod rummet og med tagdækning af tagpap, metalplader, fibercementplader eller tilsvarende. Fladedensiteten for en let tagkonstruktion må højst være 30 kg/m^2^.\*
+
+Hensynet bag, at det skal være en let tagkonstruktion, er at sikre, at egenvægten af tagkonstruktionen, og dermed lasten på den bærende, uklassificerede bygningsdel, minimeres. Desuden vurderes en let tagkonstruktion at have kortere brandmodstandsevne end den bærende bygningsdel, hvorved risikoen for, at der sker et progressivt kollaps, bl.a. til fare for rednings- og slukningsarbejdet, minimeres.
+
+Følgende præciseres ved en kommende opdatering af Bygningsreglementets *vejledning til kapitel 5 -- Brand, Kapitel 3: Bærende konstruktioner:* *
+
+Ved en let tagkonstruktion forstås en isoleret eller uisoleret konstruktion opbygget af lette konstruktionsmaterialer, f.eks. træ eller stålbjælker med eller uden loftsbeklædning mod rummet, og med tagdækning af tagpap, metalplader, fibercementplader eller tilsvarende. Dvs. at en let tagkonstruktion typisk er alt andet end et betontagdæk og øvrige tagkonstruktioner med tagdækning af teglsten eller betontagsten.*
+
+At fladedensiteten (fladevægten) for en let tagkonstruktion højst må være 30 kg/m^2^ for at det kan betragtes som en præ-accepteret løsning, har givet anledning til tvivlsspørgsmål og en række udfordringer i forhold til at overholde kravet i praksis, som ikke har været hensigten, hvorfor kravet udgår.
 
 ### Spørgsmål og svar om dokumentation af bygningsdele ved brug af "alment teknisk fælleseje\" (17-10-2023) {#47016155-51b4-45eb-9669-3ad825336d31}
 
 ### Kan alment teknisk fælleseje benyttes ved dokumentation af brandsikringstiltag til en præ-accepteret løsning? Og hvad er en certificeret brandrådgivers virke ift. dokumentation ved anvendelse af alment teknisk fælleseje?
 
-####  
+####
 
 #### Præ-accepteret løsning
 
-Præ-accepterede løsninger omfatter alene de brandsikringsløsninger, der fremgår af Bygningsreglementets vejledning til kapitel 5 -- Brand. De præ-accepterede løsninger angiver hvilke brandsikringstiltag, der indgår i løsningen, og de funktionskrav og ydeevnekriterier, der er til brandsikringstiltagene. De præ-accepterede løsninger angiver således grundlaget for projektering af de indgående brandsikringstiltag, herunder de funktionskrav og ydeevnekriterier, som skal opfyldes ved projektering og udførelse, for at opfylde den præ-accepterede løsning. 
+Præ-accepterede løsninger omfatter alene de brandsikringsløsninger, der fremgår af Bygningsreglementets vejledning til kapitel 5 -- Brand. De præ-accepterede løsninger angiver hvilke brandsikringstiltag, der indgår i løsningen, og de funktionskrav og ydeevnekriterier, der er til brandsikringstiltagene. De præ-accepterede løsninger angiver således grundlaget for projektering af de indgående brandsikringstiltag, herunder de funktionskrav og ydeevnekriterier, som skal opfyldes ved projektering og udførelse, for at opfylde den præ-accepterede løsning.
 
-De præ-accepterede løsninger er materialeneutrale og angiver ikke anvisninger til udformning af byggevarer og bygningsdele, som udgør brandsikringstiltag. I kapitel 1 i Bygningsreglementets vejledning til kapitel 5 -- Brand, angives retningslinjer for dokumentation af de brandmæssige egenskaber af byggevarer og bygningsdele. 
+De præ-accepterede løsninger er materialeneutrale og angiver ikke anvisninger til udformning af byggevarer og bygningsdele, som udgør brandsikringstiltag. I kapitel 1 i Bygningsreglementets vejledning til kapitel 5 -- Brand, angives retningslinjer for dokumentation af de brandmæssige egenskaber af byggevarer og bygningsdele.
 
 Ved fravigelse af præ-accepterede løsninger, f.eks. ved udeladelse af et brandsikringstiltag eller ved anvendelse af andre funktionskrav eller ydeevnekriterier for et brandsikringstiltag, end forudsat i den præ-accepterede løsning, skal det eftervises, at sikkerhedsniveauet i BR18, kapitel 5 er opfyldt. Fravigelse af præ-accepterede løsninger og metode for eftervisning af sikkerhedsniveauet ved fravigelsen, kan influere på byggeriets indplacering i brandklasse.
 
@@ -100,7 +96,7 @@ Det fremgår endvidere af afsnit 1.7.1, at:
 
 Det kan f.eks. være baseret på alment teknisk fælleseje. Brandsikringstiltag i alment teknisk fælleseje, der angiver opfyldelse af brandmæssige funktionskrav og ydeevnekriterier mv. svarende til brandsikringstiltag i en præ-accepterede løsning, kan anvendes ved dokumentation for opfyldelse af de brandmæssige egenskaber for brandsikringstiltaget.
 
-Hvis der anvendes en løsning for et brandsikringstiltag fra alment teknisk fælleseje, til udformning af f.eks. en bygningsdel, som fuldt ud dokumenterer opfyldelse af alle funktionskrav og ydeevnekriterier for bygningsdelens anvendelse som brandsikringstiltag i de aktuelle præ-accepterede løsninger, betragtes det ikke som en fravigelse af de præ-accepterede løsninger. Det vil sige, at måden til at dokumentere bygningsdeles brandmæssige egenskaber kan bruges i alle brandklasser uden at indplaceringen i brandklasse for byggearbejdet påvirkes heraf. 
+Hvis der anvendes en løsning for et brandsikringstiltag fra alment teknisk fælleseje, til udformning af f.eks. en bygningsdel, som fuldt ud dokumenterer opfyldelse af alle funktionskrav og ydeevnekriterier for bygningsdelens anvendelse som brandsikringstiltag i de aktuelle præ-accepterede løsninger, betragtes det ikke som en fravigelse af de præ-accepterede løsninger. Det vil sige, at måden til at dokumentere bygningsdeles brandmæssige egenskaber kan bruges i alle brandklasser uden at indplaceringen i brandklasse for byggearbejdet påvirkes heraf.
 
 #### Dokumentation ved brug af alment teknisk fælleseje
 
@@ -134,8 +130,6 @@ I Bygningsreglementets vejledning til kapitel 34 -- Certificerede brandrådgiver
 
 Den certificerede brandrådgivers virke omfatter således ikke udarbejdelse af dokumentationen for, hvordan ydeevnekriterier for et specifikt brandsikringstiltag er dokumenteret opfyldt, eller kontrol heraf.
 
-
-
 ### Spørgsmål og svar om brug af certificeret rådgiver ved anvendelsesændring (30-09-2020) {#70137627-dba9-42fa-a40f-015559c387fe}
 
 **Et mindre kontor med lager beliggende i stuetagen i en etageejendom ønskes ændret til butik. Skal der søges byggetilladelse, og skal der i givet fald benyttes en certificeret rådgiver? (30-09-2020)**
@@ -150,19 +144,13 @@ Såfremt ombygningen følger retningslinjerne i bilag 4 (Præ-accepterede løsni
 
 Bygherre eller dennes rådgiver har mulighed for at bede kommunen om en forhåndsdialog, før ansøgning om byggetilladelse indsendes, og derved bl.a. få afstemt indplacering af byggearbejdet i en brandklasse.
 
-
-
 ### Spørgsmål og svar om længde af redningsberedskabets indtrængningsvej (01-07-2022) {#e8960140-b8ad-4cd8-8180-af8c685075ac}
 
 **Hvor lang kan indtrængningsvejen være i en brandsektion, hvor indtrængningsvejen ikke er via et trapperum, men f.eks. direkte fra terræn i det fri? (01-07-2022).**
 
- 
-
 Indtrængningsvejen (slangevejen) inde i en brandsektion med adgang direkte fra det fri, kan tilsvarende brandsektioner med adgang via et trapperum, højst være med en ganglængde på 60 m fra adgangsvejen til det fjerneste sted i brandsektionen.
 
 Dette vil blive præciseret i en kommende opdatering af Bygningsreglementets vejledning til kapitel 5 -- Brand, Kapitel 5: Redningsberedskabets indsatsmuligheder
-
-
 
 ### Spørgsmål og svar om uoverensstemmelser mellem hovedteksten i kapitlerne og teksten i bilag 1-10 {#91019736-7e0b-42d9-89b4-b8a5ef6b21d0}
 
@@ -182,18 +170,19 @@ For følgende områder i bilag 1-10 skal de præ-accepterede løsninger følge b
 
 Her skal benyttes beskrivelserne i kapitel 5: Redningsberedskabets indsatsmuligheder
 
-**• Drift, kontrol og vedligehold af brandforhold i og ved bygninger:**\
+**• Drift, kontrol og vedligehold af brandforhold i og ved bygninger:**
+
 Her skal benyttes beskrivelserne i kapitel 7: Drift-, kontrol- og vedligehold af brandforhold i og ved bygninger.
 
-**• Udførelsen af brandtekniske installationer og håndslukningsudstyr:**\
+**• Udførelsen af brandtekniske installationer og håndslukningsudstyr:**
+
 Her skal benyttes beskrivelserne i bilag 12: Præ-accepterede løsninger for brandtekniske installationer og håndslukningsudstyr. Dog undtaget konkrete specialtilfælde i bilag 8: Præ-accepterede løsninger for brandsikring af landbrugserhvervets avls- og driftsbygninger.
 
-**• Kapitel 6: Funktionsafprøvning og systemintegration:**\
+**• Kapitel 6: Funktionsafprøvning og systemintegration:**
+
 Her skal benyttes beskrivelserne i kapitel 6: Funktionsafprøvning og systemintegration.
 
 Ved kommende opdateringer af bilag 1-10 vil disse henvisninger blive indarbejdet i bilagene, alternativet vil de relevante beskrivelser blive indarbejdet i det aktuelle bilag.
-
-
 
 ### Spørgsmål og svar om maksimal personbelastning i lokaler? {#6f74b1ff-5afc-458c-8832-804df69e039c}
 
@@ -209,9 +198,7 @@ Den maksimale personbelastning skal fastsættes af den certificerede rådgiver. 
 
 • For rum der benyttes til flere end 150 personer skal der udarbejdes en pladsfordelingsplan.
 
-• For rum indrette til højst 150 personer bør retningslinjerne i bygningsreglementets vejledning til kapitel 5 -- Brand, kapitel 7 vedrørende drift, kontrol og vedligehold, afsnit 7.3.7 følges, hvor det angives: *For forsamlingslokaler og butikker og lignende indrettet til højst 150 personer, kan der i lokalerne opsættes tydelig skiltning med den tilladte personbelastning. For eksempel "I dette lokale højst 150 personer".*\
-
-
+• For rum indrette til højst 150 personer bør retningslinjerne i bygningsreglementets vejledning til kapitel 5 -- Brand, kapitel 7 vedrørende drift, kontrol og vedligehold, afsnit 7.3.7 følges, hvor det angives: *For forsamlingslokaler og butikker og lignende indrettet til højst 150 personer, kan der i lokalerne opsættes tydelig skiltning med den tilladte personbelastning. For eksempel "I dette lokale højst 150 personer".*
 
 ### Hvordan skal varsling af personale i daginstitutioner udføres? (26.04.2021) {#16d2c8e8-3b82-4821-9e7e-3a2e60455478}
 
@@ -221,9 +208,6 @@ I bygningsreglementets vejledning til kapitel 5 -- Brand, bilag 12 - Præ-accept
 
 • I vuggestuer og børnehaver kan varslingen udføres med talt besked integreret i ABA-anlæggets detektorer/sokler. Det er dog en betingelse at den talte besked afgives synkront i alle meldere. Varslingssignalet betragtes dimensioneringsmæssigt som tonevarsling, og der stilles ikke krav til taleforståelighed.
 
-\
-
-
 ### Spørgsmål og svar om anvendelse af isoleringsmaterialer, som ikke mindst er materiale klasse D-s2,d2 \[klasse B materiale\] i bygninger, hvor gulv i øverste etage er højst 22 meter over terræn (28.02.2022) {#7855e6b2-cf79-4189-a544-2810c9ffceb1}
 
 **Spørgsmål og svar om anvendelse af isoleringsmaterialer, som ikke mindst er materiale klasse D-s2,d2 \[klasse B materiale\] i bygninger, hvor gulv i øverste etage er højst 22 meter over terræn**
@@ -231,8 +215,6 @@ I bygningsreglementets vejledning til kapitel 5 -- Brand, bilag 12 - Præ-accept
 Isoleringsmateriale, som ikke mindst er materiale klasse D-s2,d2 \[klasse B materiale\], kan anvendes ovenpå etageadskillelser, som er mindst bygningsdel klasse REI 60 / A2-s1,d0 \[BS-bygningsdel 60\], når gulvet er mindst gulvbelægning klasse D~fl~-s1 \[klasse G gulvbelægning\].
 
 Som alternativ til gulvbelægning klasse D~fl~-s1 \[klasse G gulvbelægning\] kan anvendes en tæt og sammenhængende overflade som mindst materiale klasse D-s2,d2 \[klasse B materiale\]. Gulvbelægningen skal dog altid overholde krav til indvendige overflader, jf. *Bygningsreglementets vejledning til kapitel 5 -- Brand, Kapitel 4: Antændelse, brand og røgspredning, Tabel 1.*
-
-
 
 ### Kan alarmtransmission til automatisk alarmering af redningsberedskabet bestå af to trådløse/luftbårne forbindelser? (04-03-2025) {#55332de0-f382-4b84-9a7e-4f0c9c7dad04}
 
@@ -242,13 +224,12 @@ Det er styrelsens vurdering, at der med mindst én sikker og kablet transmission
 
 Udføres alarmtransmission med to trådløse/luftbårne forbindelser vil det være en fravigelse af de præ-accepterede løsninger, som skal dokumenteres. Afhængig af dokumentationsmetoden kan det få indflydelse på byggeriets brandklasse.
 
-
-
 ### Til hvilken anvendelseskategori skal lagerhoteller henføres? (04-03-2025) {#ffec17fe-7e43-4607-9e20-0f15b0b89a63}
 
 Ved en anvendelseskategori forstås følgende: *Kategori med et nummer fra 1 -- 6, der fastlægges på baggrund af en bygnings eller et bygningsafsnits primære anvendelse baseret på, om bygningsafsnittet er indrettet med sovepladser, om personerne i bygningsafsnittet har kendskab til flugtveje, om personerne i bygningsafsnittet har mulighed for ved egen hjælp at bringe sig i sikkerhed samt på antallet af personer pr. brandmæssig enhed. Anvendelseskategorien lægges blandt andet til grund ved indplacering af et byggeri eller bygningsafsnit i risikoklasse.*
 
-Ethvert bygningsafsnit skal henføres til mindst en anvendelseskategori, jf. BR18 § 84. Heraf følger, at et bygningsafsnit kan indeholde flere anvendelseskategorier.\
+Ethvert bygningsafsnit skal henføres til mindst en anvendelseskategori, jf. BR18 § 84. Heraf følger, at et bygningsafsnit kan indeholde flere anvendelseskategorier.
+
 Hvis et bygningsafsnit indeholder flere anvendelseskategorier, skal brandsikringen i hele bygningsafsnittet opfylde de krav, der gælder for den anvendelseskategori i afsnittet, der har det største sikringsbehov, jf. BR18 § 85, stk. 2.
 
 I [*Bygningsreglementets vejledning til kapitel 5 -- Brand, Kapitel 1: Generelt om sikkerhed ved brand, afsnit 1.4.3*](../../../../../Tekniske-bestemmelser/05/Vejledninger/Generel_Brand/Kapitel-1#c998d3d5-bc52-4076-9150-2fc6286e76ae){rel="noopener" target="_blank"}, er der givet eksempler på, hvilke bygningsafsnit, der typisk kan henføres til de forskellige anvendelseskategorier. Det er den faktiske anvendelse, der er bestemmende for, hvilke(n) anvendelseskategori(er) et bygningsafsnit skal henføres til, og ikke bygningsafsnittets betegnelse.
@@ -261,4 +242,3 @@ Det er i forbindelse med ansøgningen om byggetilladelse ansøger (ofte en certi
 
 Det vil altid være en konkret vurdering i den aktuelle sag, til hvilken anvendelseskategori et lagerhotel skal henføres, baseret på de aktuelle forhold.
 
-\

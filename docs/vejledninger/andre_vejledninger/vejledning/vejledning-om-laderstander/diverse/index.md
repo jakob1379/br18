@@ -1,6 +1,5 @@
 # Andre vejledninger
 
-
 ## Se alle vejledninger om Andre vejledninger
 
 - [Vejledning om byggelovens § 6 D](../../vejledning-om-byggelovens-6-d)
@@ -16,32 +15,27 @@
 
 ## Vejledning til bekendtgørelse om forberedelse til og etablering af ladestandere i forbindelse med bygninger (ladestanderbekendtgørelsen)
 
-
 ### Kolofon
 
 **Vejledning til bekendtgørelse om forberedelse til og etablering af ladestandere i forbindelse med bygninger (ladestanderbekendtgørelsen)**
 
 Opdateret 28. november 2024.
 
-
 ### Indledning
 
-Bekendtgørelsen er udstedt med hjemmel i byggelovens § 4 D, der trådte i kraft den 1. januar 2020 og implementerer en revision af bygningsdirektivet. Der var frist for at implementere Bygningsdirektivet den 10. marts 2020.\
-\
-Revisionen af bygningsdirektivet indeholder krav om, at der i tilknytning til visse typer af bygninger skal ske forberedelse til og/eller etablering af ladestandere til elektriske køretøjer.\
-\
-Kravene om etablering af forberedelse til og/eller etablering af ladestandere blev indført i bygningsdirektivet i forbindelse med EU-Kommissionens såkaldte vinterpakke og er ifølge EU-Kommissionen et vigtigt element i forbindelse med ønskerne om at udvikle et bæredygtigt, konkurrencedygtigt, sikkert og dekarboniseret energisystem senest i 2050.\
-\
-Kravene i bygningsdirektivet og dermed kravene i ladestanderbekendtgørelsen supplerer direktiv om etablering af infrastruktur til alternative brændstoffer (AFI-direktivet). AFI-direktivet beskæftiger sig primært med de offentligt tilgængelige ladestandere, mens bygningsdirektivet og ladestanderbekendtgørelsen stiller krav om etablering af ladestandere i forbindelse med bygninger. Det er ikke et krav i ladestanderbekendtgørelsen, at ladestanderne bliver placeret på offentlige parkeringspladser eller er offentligt tilgængelige.\
-\
+Bekendtgørelsen er udstedt med hjemmel i byggelovens § 4 D, der trådte i kraft den 1. januar 2020 og implementerer en revision af bygningsdirektivet. Der var frist for at implementere Bygningsdirektivet den 10. marts 2020.
 
+Revisionen af bygningsdirektivet indeholder krav om, at der i tilknytning til visse typer af bygninger skal ske forberedelse til og/eller etablering af ladestandere til elektriske køretøjer.
+
+Kravene om etablering af forberedelse til og/eller etablering af ladestandere blev indført i bygningsdirektivet i forbindelse med EU-Kommissionens såkaldte vinterpakke og er ifølge EU-Kommissionen et vigtigt element i forbindelse med ønskerne om at udvikle et bæredygtigt, konkurrencedygtigt, sikkert og dekarboniseret energisystem senest i 2050.
+
+Kravene i bygningsdirektivet og dermed kravene i ladestanderbekendtgørelsen supplerer direktiv om etablering af infrastruktur til alternative brændstoffer (AFI-direktivet). AFI-direktivet beskæftiger sig primært med de offentligt tilgængelige ladestandere, mens bygningsdirektivet og ladestanderbekendtgørelsen stiller krav om etablering af ladestandere i forbindelse med bygninger. Det er ikke et krav i ladestanderbekendtgørelsen, at ladestanderne bliver placeret på offentlige parkeringspladser eller er offentligt tilgængelige.
 
 ### Bygning
 
 En bygning er ikke defineret direkte i ladestanderbekendtgørelsen. Det følger imidlertid af bygningsdirektivet, at en bygning skal være opvarmet for at være omfattet af krav om etablering af ladestandere. 
 
 Når man skal vurdere om et eksisterende bygningskompleks er én eller flere bygninger i regi af ladestanderbekendtgørelsen, så kan man bruge BBR-oplysningerne til at afgøre hvor mange bygninger, der er tale om. Tilsvarende kan man benytte indmeldingen til BBR i forbindelse med nye bygninger til at afgøre hvor mange bygninger, der er tale om på matriklen.
-
 
 ### Parkeringsplads
 
@@ -62,13 +56,11 @@ Parkeringspladser hører til en bygning, når de er etableret i tilknytning til 
 
 En række bygningstyper har et stort antal parkeringspladser i nærheden, men hvor parkeringspladserne ikke nødvendigvis har en tilknytning til bygningen. Det kunne være en parkeringsplads ved f.eks. en tennisklub, fodboldbane eller indgangen til en skov, hvor parkeringsarealet primært er etableret for at betjene de pågældende udendørsarealer. Hvis bygningen i forbindelse med udendørsarealerne har en begrænset brug, vil der formodentlig ikke være krav i henhold til ladestanderbekendtgørelsen. Det er dog en konkret vurdering i den enkelte byggesag. Hvis bygningen har en karakter, hvor der er et behov for parkeringspladser til at understøtte aktiviteterne i bygningen, så finder ladestanderbekendtgørelsen anvendelse. Det kunne for eksempel være, hvis der er en restaurant eller et cafeteria i bygningen, som bliver benyttet af brugerne i bygningen og andre, eller hvis bygningen indeholder indendørs aktiviteter som idrætshaller eller ligeledes betjener idrætshaller.
 
-
 ### Forberedelse til ladestander
 
 Ladestanderbekendtgørelsen stiller alene krav om trækning af tomrør eller kabelbakker for senere fremførsel af kabler til ladestandere. Tomrørerne og kabelbakker skal derfor være af en dimension, så det er muligt at trække kabler i det efterfølgende, ligesom der bør være træksnor i tomrørerne. Det vil derudover være fornuftigt at overveje om eltavler og eltilslutning er forberedt til en fremtidig etablering af ladestandere, ligesom man bør sikre sig, at tomrøret er tilgængeligt eller markeret.
 
 Det er muligt, at en enkelt tomrørsforbindelse kan dække flere parkeringspladsers behov for forberedelse. Hvis der for eksempel etableres en tomrørsforbindelse til et punkt mellem fire parkeringspladser, hvor der kan etableres to ladestandere med hver to ladepunkter, så kan denne tomrørsforbindelse anses som forberedelse til fire parkeringspladser, hvis tomrøret er tilstrækkeligt stort til at kunne indeholde et kabel til fire ladepunkter.
-
 
 ### Krav
 
@@ -90,13 +82,11 @@ I nedenstående tabel oplistes kravene fra ladestanderbekendtgørelsen i tabelfo
   Eksisterende bygning, der ikke er beboelsesbygning, med mere end 20 parkeringspladser                       Installation af mindst 1 ladestander før 1. januar 2025. 
   ----------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------
 
-
 ### Undtagelse for små og mellemstore virksomheder
 
 Der er indført en undtagelse fra kravene om at etablere ladestandere i bestående bygninger for små og mellemstore virksomheder. Undtagelsen gælder, hvis bygningen er ejet *og* benyttet af små eller mellemstore virksomheder. Det betyder, at hvis der er indgår en offentlig myndighed, en privatperson eller en stor virksomhed i ejer- eller brugerkredsen af bygningen, så gælder undtagelsen ikke.
 
 Små og mellemstore virksomheder er virksomheder med mindre end 250 medarbejdere og en årlig omsætning på under 50 mio. EUR eller en samlet årlig balance på under 43 mio. EUR. Definitionen følger af Kommissionens henstilling af 6. maj 2003 om definitionen af mikrovirksomheder, små og mellemstore virksomheder.
-
 
 ### Blandet anvendelse
 
@@ -110,14 +100,13 @@ Eksempel 3: En ny bygning med erhverv og beboelse og samlet set 30 parkeringspla
 
 Eksempel 4: En ny bygning med erhverv og beboelse og samlet set 15 parkeringspladser. Der er i byggetilladelsen krav om 5 parkeringspladser til erhvervsdelen og 10 parkeringspladser til beboelsesdelen. Bygningen har samlet set mere end 10 parkeringspladser og er dermed omfattet af § 5, stk. 1 og stk. 2. Der skal derfor etableres mindst 1 ladestander og forberedes på mindst 1 af parkeringspladserne i erhvervsdelen af parkeringspladsen, mens alle 10 parkeringspladser i boligdelen af parkeringspladsen skal forberedes til ladestandere.
 
-
 ### Større ombygninger
 
 Hvis bygninger bliver ombygget, kan bygningen blive omfattet af ladestanderbekendtgørelsen. Det kræver dog, at ombygningen opfylder en række forudsætninger, der fremgår af ladestanderbekendtgørelsens § 2, nr. 4. For at ombygningen defineres som en større ombygning i ladestanderbekendtgørelsen, skal følgende være opfyldt:
 
 1. Der skal pågå et byggearbejde på bygningen, 
 
-2\. udgifterne til etableringen af ladestander og forberedelse for ladestandere er under 7 pct. af de samlede ombygningsomkostninger, \
+2\. udgifterne til etableringen af ladestander og forberedelse for ladestandere er under 7 pct. af de samlede ombygningsomkostninger,
 
 3\. der er mere end 10 parkeringspladser tilknyttet bygningen efter ombygningen,
 
@@ -149,11 +138,9 @@ Hvis parkeringspladserne befinder sig udenfor bygningen, men er i tilknytning ti
 
 Ved ombygning af en bygning med blandet anvendelse, hvor det kun er den del af bygningen, der er knyttet til den ene anvendelse, der ombygges, gælder kravene kun for den ombyggede del af bygningen.
 
-
 ### Ny eller bestående bygning
 
 Ladestanderbekendtgørelsen trådte i kraft den 10. marts 2020. Bygninger, der er ansøgt om på denne dato eller senere, vil være omfattet af kravene vedrørende nybyggeri. Bygninger, der er opført før den 10. marts 2020, vil være omfattet af kravet for bestående bebyggelse. Bygninger der er ansøgt om før den 10. marts 2020, men opført efter denne dato, vil ligeledes blive omfattet af kravet til bestående bebyggelse.
-
 
 ### Tekniske krav til ladestandere og forberedelse til ladestandere
 
@@ -165,30 +152,25 @@ Ladestanderne skal kunne anvendes til at lade elbiler og plugin-hybrider op. Det
 
 Der kan være flere hunstik og/eller hanstik med fast kabel på den samme ladestander.
 
-
 ### Byggetilladelse
 
 Ansøgning om byggetilladelse sker i henhold til bygningsreglementet. Som udgangspunkt vurderer styrelsen, at ladestandere vil være omfattet af bygningsreglementets § 5, stk. 1, nr. 13, vedrørende brugerbetjente anlæg. Disse skal overholde bygningsreglementet, men kan udføres uden ansøgning om byggetilladelse.
 
 Såfremt kommunalbestyrelsen modtager en ansøgning om byggetilladelse til et byggearbejde, der er omfattet af krav om etablering og/eller forberedelse til ladestandere, skal kommunalbestyrelsen stille krav herom, jf. BR18 § 400, stk. 2. Kommunalbestyrelsen skal ikke foretage teknisk byggesagsbehandling, men alene kontrollere, om byggearbejdet er omfattet.
 
-
 ### Håndhævelse
 
 Kommunalbestyrelsen er bygningsmyndighed i henhold til byggelovens § 16 C. Håndhævelsen følger den øvrige byggelovgivning. I henhold til byggelovens § 16 C, stk. 3, skal kommunalbestyrelsen, såfremt den bliver opmærksom på et ulovligt forhold, søge forholdet lovliggjort, medmindre det er af ganske underordnet betydning.
-
 
 ### Tilbygninger
 
 Såfremt en tilbygning enten i sig selv eller kombineret med de eksisterende parkeringspladser medfører, at antallet af parkeringspladser til bygningen overstiger 10, falder den ind under kravene til nybyggeri i § 5. Det vil være de tilføjede parkeringspladser, der skal forberedes på og evt. også etableres en ladestander. Hvis der allerede er etableret en ladestander til den eksisterende bygning, vil der ikke være krav om etablering af yderligere ladestandere.
 
-Eksempel 1: Der opføres en tilbygning til en eksisterende boligbygning. Tilbygningen udløser 8 nye p-pladser der skal etableres. Den samlede p-plads for ejendommen er efter tilbygning på 20 p-pladser. De nuværende parkeringspladser gøres der ikke noget ved. I dette eksempel skal der forberedes til ladestandere på de 8 nye pladser.\
-\
-Eksempel 2: En virksomhed udfører en tilbygning til deres eksisterende kontorbygning. På de eksisterende parkeringspladser er der allerede sat en ladestander op, men der er ikke forberedt. Der tilføjes 15 nye parkeringspladser i forbindelse med tilbygningen. Da bygningen allerede har en ladestander, så stilles der ikke krav om installation af ladestander i forbindelse med tilbygningen, men der stilles krav om forberedelse på hver 5. parkingsplads, i alt 3 forberedelser.\
-\
-Eksempel 3: En virksomhed udfører en tilbygning til deres eksisterende kontorbygning. På parkeringsanlægget i tilknytning til bygningen er der hverken ladestander eller forberedt for ladestander. Der tilføjes 53 nye parkeringspladser i forbindelse med tilbygningen. Der stilles krav om etablering af én ladestander og forberedelse på 11 parkeringspladser.\
-\
+Eksempel 1: Der opføres en tilbygning til en eksisterende boligbygning. Tilbygningen udløser 8 nye p-pladser der skal etableres. Den samlede p-plads for ejendommen er efter tilbygning på 20 p-pladser. De nuværende parkeringspladser gøres der ikke noget ved. I dette eksempel skal der forberedes til ladestandere på de 8 nye pladser.
 
+Eksempel 2: En virksomhed udfører en tilbygning til deres eksisterende kontorbygning. På de eksisterende parkeringspladser er der allerede sat en ladestander op, men der er ikke forberedt. Der tilføjes 15 nye parkeringspladser i forbindelse med tilbygningen. Da bygningen allerede har en ladestander, så stilles der ikke krav om installation af ladestander i forbindelse med tilbygningen, men der stilles krav om forberedelse på hver 5. parkingsplads, i alt 3 forberedelser.
+
+Eksempel 3: En virksomhed udfører en tilbygning til deres eksisterende kontorbygning. På parkeringsanlægget i tilknytning til bygningen er der hverken ladestander eller forberedt for ladestander. Der tilføjes 53 nye parkeringspladser i forbindelse med tilbygningen. Der stilles krav om etablering af én ladestander og forberedelse på 11 parkeringspladser.
 
 ### Diverse
 
@@ -214,4 +196,3 @@ Hvis der i forbindelse med en bestående bygning allerede er etableret en ladest
 
 En ladestander er et brugerbetjent anlæg i henhold til bygningsreglementet. Der skal dog kun tilføres tilgængelighedsforanstaltninger, hvis parkeringspladserne som ladestanderen betjener er handicap-parkeringspladser. En ladestander der betjener en handicapparkeringsplads skal derfor være handicaptilgængelig, mens en ladestander der ikke betjener handicapparkeringspladser, ikke behøver at være handicaptilgængelig.
 
-\

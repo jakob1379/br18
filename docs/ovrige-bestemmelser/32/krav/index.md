@@ -1,10 +1,8 @@
 # Certificerede statikers og brandrådgivers virke (§ 531 - § 535)
 
+## § 531 - § 535 Certificerede statikers og brandrådgivers virke {#423a7c0b-72a6-4031-a07e-588d9f623919}
 
-
-## Certificerede statikers og brandrådgivers virke {#423a7c0b-72a6-4031-a07e-588d9f623919}
-
-§ 531
+### § 531 {#paragraf-531}
 
 Formålet med den certificerede statikers og brandrådgivers virke er at sikre, at
 
@@ -16,11 +14,9 @@ Formålet med den certificerede statikers og brandrådgivers virke er at sikre, 
 
 4\) dokumentation for og udførelse af byggeriet kontrolleres i henhold til kapitel 30.
 
-* Stk. 2*. For dokumentation, jf. stk. 1, nr. 4, er kontroldokumentationen af almen kontrol undtaget fra den certificerede statikers og brandrådgivers virke.
+*Stk. 2.* For dokumentation, jf. stk. 1, nr. 4, er kontroldokumentationen af almen kontrol undtaget fra den certificerede statikers og brandrådgivers virke.
 
- 
-
-§ 532
+### § 532 {#paragraf-532}
 
 Den certificerede statiker og brandrådgiver skal
 
@@ -28,29 +24,25 @@ Den certificerede statiker og brandrådgiver skal
 2.  være bevist om egne kompetencer og søge kvalificeret assistance til forhold, hvor der kan drages tvivl om egne kompetencer, og
 3.  handle upartisk og objektivt.
 
-> 
+>
 
-\
-§ 533
+### § 533 {#paragraf-533}
 
 Den certificerede statiker eller brandrådgiver er tilknyttet byggesagen og byggeriet i sin helhed og skal være certificeret svarende til den højest forekommende konstruktionsklasse eller brandklasse i byggeriet. Der kan kun være tilknyttet én certificeret statiker og én brandrådgiver på en byggesag, jf. dog stk. 2 og 3.
 
-*   Stk. 2.* For de dele af et byggeri, der er i konstruktionsklasse 4 og brandklasse 4, skal der være tilknyttet en certificeret statiker og brandrådgiver som tredjepartskontrollant.
+*Stk. 2.* For de dele af et byggeri, der er i konstruktionsklasse 4 og brandklasse 4, skal der være tilknyttet en certificeret statiker og brandrådgiver som tredjepartskontrollant.
 
 *   Stk.* *3.* Den certificerede brandrådgiver, der medvirker på byggearbejder i medfør af § 21, stk. 1, nr. 3, er dog ikke tilknyttet byggesagen i sin helhed, men kun til at eftervise, at brandsikkerhedsniveauet overholdes ved fravigelser fra de præ-accepterede løsninger.
 
- \
-§ 534
+### § 534 {#paragraf-534}
 
-Ved udfærdigelse af dokumentation for bærende konstruktioner og brandforhold, jf. kapitel 28-30, skal den certificerede statiker eller brandrådgiver afhængigt af sit virke, jf. [§§ 536](../../../Ovrige-bestemmelser/33/Krav/536_544#8526eafe-036b-4ecd-969d-efeabad6b471) og [545](../../../Ovrige-bestemmelser/34/Krav/545_551#a558d1b7-6c5e-474d-9603-830eb0914241), foretage en af følgende handlinger:\
-\
-1) Ved virke som udarbejdende: Tilrettelægge og udforme dokumentationen.\
-\
+Ved udfærdigelse af dokumentation for bærende konstruktioner og brandforhold, jf. kapitel 28-30, skal den certificerede statiker eller brandrådgiver afhængigt af sit virke, jf. [§§ 536](../../../Ovrige-bestemmelser/33/Krav/536_544#8526eafe-036b-4ecd-969d-efeabad6b471) og [545](../../../Ovrige-bestemmelser/34/Krav/545_551#a558d1b7-6c5e-474d-9603-830eb0914241), foretage en af følgende handlinger:
+
+1) Ved virke som udarbejdende: Tilrettelægge og udforme dokumentationen.
+
 2) Ved virke som kontrollerende: Kontrollere dokumentationen.
 
-\
-§ 535
+### § 535 {#paragraf-535}
 
 Tredjepartskontrollanten må ikke pålægges begrænsninger ved løsning af kontrolopgaven.
 
-\

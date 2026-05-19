@@ -10,7 +10,7 @@ hide:
 
 ## § 490 - § 493 Brandklasser {#s490-493}
 
-### § 490 {#p490}
+### § 490 {#p490 #paragraf-490}
 
 Et byggeri skal indplaceres i en brandklasse, jf. [bilag 1, tabel 3](/bilag/b1/bilag_1/), på baggrund af:
 
@@ -19,15 +19,15 @@ Et byggeri skal indplaceres i en brandklasse, jf. [bilag 1, tabel 3](/bilag/b1/b
 
 *Stk. 2.* Hvis det kan dokumenteres, at den brandmæssige opdeling af byggeriet i flere brandmæssige uafhængige bygningsafsnit kan ske på en sikkerhedsmæssig forsvarlig måde, kan de enkelte brandmæssige uafhængige bygningsafsnit indplaceres i forskellige brandklasser.
 
-### § 491 {#p491}
+### § 491 {#p491 #paragraf-491}
 
 Risikoklassen skal fastlægges i henhold til [kapitel 5](/tekniske-bestemmelser/05/) og er baseret på byggeriets risikoforhold, anvendelse og kompleksitet.
 
-### § 492 (Ophævet) {#p492}
+### § 492 (Ophævet) {#p492 #paragraf-492}
 
 § 492 er ophævet.
 
-### § 493 {#p493}
+### § 493 {#p493 #paragraf-493}
 
 Et byggeri eller bygningsafsnit skal indplaceres i en af følgende brandklasser:
 

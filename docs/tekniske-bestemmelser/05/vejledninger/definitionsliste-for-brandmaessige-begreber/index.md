@@ -1,6 +1,5 @@
 # Brand (§ 82 - § 158)
 
-
 ## Se alle vejledninger om Brand (§ 82 - § 158)
 
 - [Spørgsmål og svar](../spoergsmaal-og-svar)
@@ -27,11 +26,9 @@
 
 ## Definitionsliste for brandmæssige begreber
 
-
 ### Klik her for at åbne definitionsliste for brandmæssige begreber
 
 [Åbn definitionsliste for brandmæssige begreber](../../../../media/nkeltkmk/definitionsliste-for-brandmssige-begreberver-1020240101-a.pdf "Definitionsliste for brandmssige begreberver 1020240101")
 
 Version 1.0 (01.01.2024)
 
-\

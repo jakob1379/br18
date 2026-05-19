@@ -1,6 +1,5 @@
 # Brandklasser (§ 490 - § 493)
 
-
 ## Se alle vejledninger om Brandklasser (§ 490 - § 493)
 
 - [](../faq)
@@ -9,8 +8,6 @@
 - [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../temasiden-brandogkonstruktioner-dk)
 
 ## Spørgsmål og svar
-
-
 
 ### Spørgsmål og svar om brandklasser (30-09-2020) {#628bdb98-7741-4923-aa14-93bb8f9f0297}
 
@@ -30,4 +27,3 @@ Følgende er eksempler på byggerier og konstruktioner, der kan undtages for ind
 - Simple konstruktioner, f.eks. en pergola, hvor der ikke er overdækning
 - Hegnsmure og andre lignende konstruktioner.
 
-\

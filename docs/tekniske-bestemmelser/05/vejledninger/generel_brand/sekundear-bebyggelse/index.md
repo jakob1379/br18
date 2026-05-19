@@ -1,6 +1,5 @@
 # Brand (§ 82 - § 158)
 
-
 ## Se alle vejledninger om Brand (§ 82 - § 158)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar)
@@ -27,19 +26,14 @@
 
 ## Bilag 1b - Præ-accepterede løsninger - Sekundær bebyggelse i tilknytning til enfamiliehuse
 
-
 ### Bilag 1b til Bygningsreglementets vejledning til kap. 5 -- Brand
 
 [Åbn Bilag 1b: Præ-accepterede løsninger for sekundær bebyggelse i tilknytning til enfamiliehuse](../../../../../media/jtrbbzrv/bilag-1b-ver-2020220218-a.pdf "Bilag 1b ver 2020220218") (nyt vindue)
 
 Version 2.0 (18.02.2022)
 
- 
-
 [Åbn Bilag 1b: Præ-accepterede løsninger for sekundær bebyggelse i tilknytning til enfamiliehuse](../../../../../media/l55nkm03/bilag-1b-prae-accepterede-loesninger-sekundaer-bebyggelse-a.pdf "Bilag 1b - præ-accepterede løsninger - sekundær bebyggelse") (nyt vindue)
 
 (01.07.2020)
 
- 
 
-\

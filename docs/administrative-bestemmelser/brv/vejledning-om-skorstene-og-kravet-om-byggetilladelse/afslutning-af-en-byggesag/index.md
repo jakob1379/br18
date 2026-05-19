@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -23,38 +26,25 @@
 
 ## Vejledning om skorstene og kravet om byggetilladelse
 
-
 ### Skorstene og kravet om byggetilladelse
-
 
 ### @@PROTECTED_17@@s anvendelsesområde
 
-
 ### Krav om byggetilladelse
-
 
 ### Byggeri uden krav om byggetilladelse
 
-
 ### Byggesagsbehandling
-
 
 ### Afslutning af en byggesag
 
 BR18, [kap. 1](/administrative-bestemmelser/), [§ 40, stk. 1](/administrative-bestemmelser/krav/40_46/), bestemmer, at byggearbejder, der kræver byggetilladelse, skal færdigmeldes til kommunalbestyrelsen.
 
- 
-
 Det fremgår af BR18, [kap. 1](/administrative-bestemmelser/), [§ 40, stk. 2](/administrative-bestemmelser/krav/40_46/), hvad der skal fremsendes til kommunalbestyrelsen i forbindelse med færdigmeldingen, herunder dokumentation og erklæring om, at det færdige byggeri er i overensstemmelse med byggetilladelsen og bygningsreglementet.
-
- 
 
 Det følger endvidere af BR18, [kap. 1](/administrative-bestemmelser/), [§ 43, stk. 1](/administrative-bestemmelser/krav/40_46/), at byggearbejder, der kræver byggetilladelse, ikke må tages i brug, inden kommunalbestyrelsen har udstedt en ibrugtagningstilladelse.
 
-
 ### Genibrugtagning
-
 
 ### Kommunen som påtalepligtig
 
-\

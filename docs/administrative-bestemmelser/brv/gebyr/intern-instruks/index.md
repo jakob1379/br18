@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -83,25 +86,23 @@
 
 ### Intern instruks i kommunen
 
-Administration af enhver gebyrordning forudsætter, at myndigheden har udarbejdet en intern instruks, som beskriver, hvordan gebyrordningen håndteres.\
-\
-Vælger kommunen at opkræve gebyr i byggesager, skal der således foreligge en instruks herfor. Instruksen skal indeholde kommunens retningslinjer for opkrævning og kontering af gebyrer samt for opgørelse af udgifter forbundet med gebyrordningen. Instruksen skal ligeledes indeholde retningslinjer for fordeling og kontering af timer i kommunen.\
-\
-Derudover skal det fremgå, hvilke faste fordelingsnøgler kommunen anvender til fastsættelsen af de indirekte omkostninger. Kommunens fordelingsnøgler skal kunne dokumenteres.\
-\
-Som en del af instruksen skal det derfor fremgå, hvilke direkte og indirekte udgifter, som kommunen vil dække gennem opkrævningen af gebyrerne.\
-\
+Administration af enhver gebyrordning forudsætter, at myndigheden har udarbejdet en intern instruks, som beskriver, hvordan gebyrordningen håndteres.
+
+Vælger kommunen at opkræve gebyr i byggesager, skal der således foreligge en instruks herfor. Instruksen skal indeholde kommunens retningslinjer for opkrævning og kontering af gebyrer samt for opgørelse af udgifter forbundet med gebyrordningen. Instruksen skal ligeledes indeholde retningslinjer for fordeling og kontering af timer i kommunen.
+
+Derudover skal det fremgå, hvilke faste fordelingsnøgler kommunen anvender til fastsættelsen af de indirekte omkostninger. Kommunens fordelingsnøgler skal kunne dokumenteres.
+
+Som en del af instruksen skal det derfor fremgå, hvilke direkte og indirekte udgifter, som kommunen vil dække gennem opkrævningen af gebyrerne.
 
 Som nævnt under afsnit 2, 5, 7 og 9, må gebyrindtægterne ikke overstige de samlede udgifter. Se i denne forbindelse afsnit 5, hvoraf det fremgår at, såfremt kommunen vælger alene at opkræve byggesagsgebyr i visse sagstyper, må gebyrindtægterne ikke overstige kommunens samlede udgifter (både de direkte og de indirekte), der er forbundet med byggesagsområdet ved netop disse sagstyper.
 
 Se desuden afsnit 7, hvoraf det fremgår, at såfremt kommunen vælger at opkræve et fast gebyr ved behandlingen af visse sagstyper, må de samlede indtægter for disse sagstyper (altså både de direkte og indirekte) ikke overstige de samlede udgifter der er forbundet med varetagelsen af netop disse sager.
 
-\
-Dette kræver, at instruksen beskriver, hvordan kommunen opgør og dokumenterer fordelingen af henholdsvis indtægter og omkostninger i forbindelse med hver enkelt bebyggelseskategori.\
-\
-Kommunerne har således et ansvar for at opgøre såvel omkostningerne som gebyrindtægterne ved byggesagsbehandlingen, så det kan dokumenteres, at indtægterne ikke overstiger omkostningerne.\
-\
-For en uddybning af ovenstående samt for mere konkret beregning af udgifter henvises til Økonomi- og Indenrigsministeriets Budget- og Regnskabssystem for Kommuner, særligt [kap. 9](/tekniske-bestemmelser/09/).3, der er optrykt som [bilag 1](/bilag/b1/bilag_1/) til bekendtgørelse om kommunernes budget- og regnskabsvæsen, revision m.v., som har til hensigt at tilvejebringe et generelt grundlag for kommunernes udarbejdelse af omkostningskalkulationer.\
-\
-Budget og Regnskabssystemet kan findes på hjemmesiden: [www.budregn.oim.dk](https://budregn.oim.dk/){target="_blank"} og på [retsinformation.dk](https://www.retsinformation.dk/){target="_blank"}\
-\
+Dette kræver, at instruksen beskriver, hvordan kommunen opgør og dokumenterer fordelingen af henholdsvis indtægter og omkostninger i forbindelse med hver enkelt bebyggelseskategori.
+
+Kommunerne har således et ansvar for at opgøre såvel omkostningerne som gebyrindtægterne ved byggesagsbehandlingen, så det kan dokumenteres, at indtægterne ikke overstiger omkostningerne.
+
+For en uddybning af ovenstående samt for mere konkret beregning af udgifter henvises til Økonomi- og Indenrigsministeriets Budget- og Regnskabssystem for Kommuner, særligt [kap. 9](/tekniske-bestemmelser/09/).3, der er optrykt som [bilag 1](/bilag/b1/bilag_1/) til bekendtgørelse om kommunernes budget- og regnskabsvæsen, revision m.v., som har til hensigt at tilvejebringe et generelt grundlag for kommunernes udarbejdelse af omkostningskalkulationer.
+
+Budget og Regnskabssystemet kan findes på hjemmesiden: [www.budregn.oim.dk](https://budregn.oim.dk/){target="_blank"} og på [retsinformation.dk](https://www.retsinformation.dk/){target="_blank"}
+

@@ -1,6 +1,5 @@
 # Lydforhold (§ 368 - § 376)
 
-
 ## Se alle vejledninger om Lydforhold (§ 368 - § 376)
 
 - [Bygningsreglementets vejledning om lydforhold](../../generel_vejledning/)
@@ -16,8 +15,7 @@
 
 ### Undervisningsbygninger
 
-Tabellerne i dette afsnit beskriver grænseværdierne for lydisolation, støj indendørs fra trafik, støj fra tekniske installationer samt efterklangstid og absorptionsareal. Grænseværdierne er primært gengivet fra SBi-anvisning 218 om lydforhold i undervisnings- og daginstitutionsbygninger.\
-\
+Tabellerne i dette afsnit beskriver grænseværdierne for lydisolation, støj indendørs fra trafik, støj fra tekniske installationer samt efterklangstid og absorptionsareal. Grænseværdierne er primært gengivet fra SBi-anvisning 218 om lydforhold i undervisnings- og daginstitutionsbygninger.
 
 [3.1](../definitioner-af-rumtyper-for-undervisningsbygninger/)
 
@@ -39,4 +37,3 @@ Tabellerne i dette afsnit beskriver grænseværdierne for lydisolation, støj in
 
 ### Rumakustik i undervisningsbygninger
 
-\

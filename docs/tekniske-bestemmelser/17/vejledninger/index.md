@@ -1,6 +1,5 @@
 # Lydforhold (§ 368 - § 376)
 
-
 ## Se alle vejledninger om Lydforhold (§ 368 - § 376)
 
 - [Bygningsreglementets vejledning om lydforhold](generel_vejledning/)
@@ -10,4 +9,3 @@
 - [- Vejledning til kontorbyggeri](kontorbygninger/)
 - [- Vejledning til hospitaler, lægehuse og klinikker](hospitaler-laegehuse-og-klinikker/)
 
-\

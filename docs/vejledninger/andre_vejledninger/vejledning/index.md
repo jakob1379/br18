@@ -1,6 +1,5 @@
 # Andre vejledninger
 
-
 ## Se alle vejledninger om Andre vejledninger
 
 - [Vejledning om byggelovens § 6 D](vejledning-om-byggelovens-6-d/)
@@ -14,4 +13,3 @@
 - [Vejledning om byggeskadeforsikring](byggeskadeforsikring/)
 - [Vejledning til bekendtgørelse om forberedelse til og etablering af ladestandere i forbindelse med bygninger (ladestanderbekendtgørelsen)](vejledning-om-laderstander/)
 
-\

@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -23,9 +26,7 @@
 
 ## Vejledning om byggeri over skel
 
-
 ### Indledning
-
 
 ### I hvilke situationer der kan forekomme byggeri over skel?
 
@@ -33,18 +34,15 @@ Bebyggelse, der overskrider skel, kan forekomme på flere forskellige måder. Fo
 
 *Byggeri over skel beliggende over terræn*
 
-Når der etableres bebyggelse over skel, som er beliggende over terræn, er det under forudsætning af, at de ejendomsretlige hensyn er afklaret ved indhentelse af samtykke fra nabogrundejer, og at bebyggelsen  lovligt vil kunne etableres i henhold til bygningsreglementets bestemmelser, samt at bebyggelsen i øvrigt ikke er i strid med anden lovgivning, jf. BR18, [kap. 1](/administrative-bestemmelser/), [§ 35, stk. 2](/administrative-bestemmelser/krav/35_38/).\
-\
+Når der etableres bebyggelse over skel, som er beliggende over terræn, er det under forudsætning af, at de ejendomsretlige hensyn er afklaret ved indhentelse af samtykke fra nabogrundejer, og at bebyggelsen  lovligt vil kunne etableres i henhold til bygningsreglementets bestemmelser, samt at bebyggelsen i øvrigt ikke er i strid med anden lovgivning, jf. BR18, [kap. 1](/administrative-bestemmelser/), [§ 35, stk. 2](/administrative-bestemmelser/krav/35_38/).
+
 Er de ejendomsretlige forhold således afklaret, og er opførelsen af bebyggelsen ikke i strid med anden lovgivning, vil kommunen efter en helhedsvurdering i henhold til BR18, [kap. 8](/tekniske-bestemmelser/08/), [§§ 187-195](/tekniske-bestemmelser/08/krav/), kunne give tilladelse til opførelse af f.eks. altaner i gavl beliggende over nabogrunden.
 
 *Byggeri over skel beliggende på terræn og under terræn*
 
 Det følger af de almindelige principper om råden over fast ejendom, at nabogrundejeren som udgangspunkt hverken kan råde helt eller delvist over nabogrunden uden samtykke fra ejeren af nabogrunden, når der bygges over skel enten på terræn eller under terræn, jf. ovenstående. Hvor der foreligger et samtykke, skal bebyggelse i øvrigt være i overensstemmelse med [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178), herunder bygningsreglementet samt anden lovgivning.
 
-
 ### Lovliggørelsessager
-
 
 ### @@PROTECTED_18@@
 
-\

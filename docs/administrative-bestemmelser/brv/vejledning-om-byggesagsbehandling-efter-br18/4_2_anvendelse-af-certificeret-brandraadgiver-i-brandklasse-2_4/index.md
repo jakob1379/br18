@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -23,9 +26,7 @@
 
 ## Vejledning om byggesagsbehandling efter BR18
 
-
 ### Rettelsesblad til vejledning om byggesagsbehandling efter BR18 (01.01.2024)
-
 
 ### Kolofon
 
@@ -131,7 +132,7 @@
 
 Ved ansøgning om byggetilladelse til byggeri i brandklasse 2-4 er der krav om, at der skal være tilknyttet en certificeret brandrådgiver. Den certificerede brandrådgiver skal være certificeret i overensstemmelse med [bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet](https://www.retsinformation.dk/eli/lta/2019/674) [§§ 19-21](/administrative-bestemmelser/krav/20_23/). Certificeringen skal følge den brandklasse, som byggeriet, der søges om byggetilladelse til, kan indplaceres i. Det betyder, at såfremt der søges om byggetilladelse til et byggeri, der kan indplaceres i brandklasse 3, skal den certificerede brandrådgiver ligeledes være certificeret til brandklasse 3, jf. [bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet](https://www.retsinformation.dk/eli/lta/2019/674) [§ 20](/administrative-bestemmelser/krav/20_23/). Ved ansøgning om byggetilladelse til byggeri i brandklasse 2-4 skal oplysning til identifikation af den certificerede brandrådgiver, herunder dokumentation for gyldigt certifikat, fremgå af ansøgningen om byggetilladelse. Dette gælder ligeledes, hvis brandrådgiveren er certificeret til at udføre tredjepartskontrol. Ved byggeri, der indplaceres i brandklasse 4, er der ligeledes krav om certificeret tredjepart, der er certificeret i overensstemmelse med [bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet](https://www.retsinformation.dk/eli/lta/2019/674) [§ 21](/administrative-bestemmelser/krav/20_23/).
 
-Der kan kun være én certificeret brandrådgiver tilknyttet sagen, medmindre byggeriet indplaceres i brandklasse 4, og der derfor er krav om en certificeret tredjepart. Der er dog mulighed for at skifte certificeret brandrådgiver undervejs i byggeriet, jf. [§ 551](/ovrige-bestemmelser/34/krav/545_551/). 
+Der kan kun være én certificeret brandrådgiver tilknyttet sagen, medmindre byggeriet indplaceres i brandklasse 4, og der derfor er krav om en certificeret tredjepart. Der er dog mulighed for at skifte certificeret brandrådgiver undervejs i byggeriet, jf. [§ 551](/ovrige-bestemmelser/34/krav/545_551/).
 
 Ved ansøgning om byggetilladelse til byggeri i brandklasse 2-4, skal der indsendes dokumentation, der er godkendt af den certificerede brandrådgiver. Det omfatter oplysning om og dokumentation for indplacering af byggeriet i brandklassen, jf. [kapitel 29](/ovrige-bestemmelser/29/), oplysning om, og dokumentation for, hvorvidt byggeriet er indsatstaktisk traditionelt, jf. § 510 og en starterklæring fra den certificerede brandrådgiver, der er tilknyttet byggesagen, jf. [§ 508, stk. 1](/ovrige-bestemmelser/29/krav/506_522/). Er byggeriet indplaceret i brandklasse 4, skal der ligeledes indsendes en starterklæring fra en certificeret tredjepart, jf. [§ 508, stk. 2](/ovrige-bestemmelser/29/krav/506_522/).
 
@@ -193,4 +194,3 @@ Certificeringsorganerne, der certificerer brandrådgivere i brandklasse 2-4, ska
 
 ### Klage over kommunalbestyrelsens afgørelser
 
-\

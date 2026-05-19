@@ -1,6 +1,5 @@
 # Dokumentation af brandforhold (§ 506 - § 522)
 
-
 ## Se alle vejledninger om Dokumentation af brandforhold (§ 506 - § 522)
 
 - [Spørgsmål og svar](..)
@@ -10,19 +9,17 @@
 
 ## Spørgsmål og svar
 
-
-
 ### Spørgsmål og svar om dokumentation af bygningsdele ved brug af "alment teknisk fælleseje\" (17-10-2023) {#907f45a6-9391-4205-b848-8f9d57e85e91}
 
 ### Kan alment teknisk fælleseje benyttes ved dokumentation af brandsikringstiltag til en præ-accepteret løsning? Og hvad er en certificeret brandrådgivers virke ift. dokumentation ved anvendelse af alment teknisk fælleseje?
 
-####  
+####
 
 #### Præ-accepteret løsning
 
-Præ-accepterede løsninger omfatter alene de brandsikringsløsninger, der fremgår af Bygningsreglementets vejledning til kapitel 5 -- Brand. De præ-accepterede løsninger angiver hvilke brandsikringstiltag, der indgår i løsningen, og de funktionskrav og ydeevnekriterier, der er til brandsikringstiltagene. De præ-accepterede løsninger angiver således grundlaget for projektering af de indgående brandsikringstiltag, herunder de funktionskrav og ydeevnekriterier, som skal opfyldes ved projektering og udførelse, for at opfylde den præ-accepterede løsning. 
+Præ-accepterede løsninger omfatter alene de brandsikringsløsninger, der fremgår af Bygningsreglementets vejledning til kapitel 5 -- Brand. De præ-accepterede løsninger angiver hvilke brandsikringstiltag, der indgår i løsningen, og de funktionskrav og ydeevnekriterier, der er til brandsikringstiltagene. De præ-accepterede løsninger angiver således grundlaget for projektering af de indgående brandsikringstiltag, herunder de funktionskrav og ydeevnekriterier, som skal opfyldes ved projektering og udførelse, for at opfylde den præ-accepterede løsning.
 
-De præ-accepterede løsninger er materialeneutrale og angiver ikke anvisninger til udformning af byggevarer og bygningsdele, som udgør brandsikringstiltag. I kapitel 1 i Bygningsreglementets vejledning til kapitel 5 -- Brand, angives retningslinjer for dokumentation af de brandmæssige egenskaber af byggevarer og bygningsdele. 
+De præ-accepterede løsninger er materialeneutrale og angiver ikke anvisninger til udformning af byggevarer og bygningsdele, som udgør brandsikringstiltag. I kapitel 1 i Bygningsreglementets vejledning til kapitel 5 -- Brand, angives retningslinjer for dokumentation af de brandmæssige egenskaber af byggevarer og bygningsdele.
 
 Ved fravigelse af præ-accepterede løsninger, f.eks. ved udeladelse af et brandsikringstiltag eller ved anvendelse af andre funktionskrav eller ydeevnekriterier for et brandsikringstiltag, end forudsat i den præ-accepterede løsning, skal det eftervises, at sikkerhedsniveauet i BR18, kapitel 5 er opfyldt. Fravigelse af præ-accepterede løsninger og metode for eftervisning af sikkerhedsniveauet ved fravigelsen, kan influere på byggeriets indplacering i brandklasse.
 
@@ -45,7 +42,7 @@ Det fremgår endvidere af afsnit 1.7.1, at:
 
 Det kan f.eks. være baseret på alment teknisk fælleseje. Brandsikringstiltag i alment teknisk fælleseje, der angiver opfyldelse af brandmæssige funktionskrav og ydeevnekriterier mv. svarende til brandsikringstiltag i en præ-accepterede løsning, kan anvendes ved dokumentation for opfyldelse af de brandmæssige egenskaber for brandsikringstiltaget.
 
-Hvis der anvendes en løsning for et brandsikringstiltag fra alment teknisk fælleseje, til udformning af f.eks. en bygningsdel, som fuldt ud dokumenterer opfyldelse af alle funktionskrav og ydeevnekriterier for bygningsdelens anvendelse som brandsikringstiltag i de aktuelle præ-accepterede løsninger, betragtes det ikke som en fravigelse af de præ-accepterede løsninger. Det vil sige, at måden til at dokumentere bygningsdeles brandmæssige egenskaber kan bruges i alle brandklasser uden at indplaceringen i brandklasse for byggearbejdet påvirkes heraf. 
+Hvis der anvendes en løsning for et brandsikringstiltag fra alment teknisk fælleseje, til udformning af f.eks. en bygningsdel, som fuldt ud dokumenterer opfyldelse af alle funktionskrav og ydeevnekriterier for bygningsdelens anvendelse som brandsikringstiltag i de aktuelle præ-accepterede løsninger, betragtes det ikke som en fravigelse af de præ-accepterede løsninger. Det vil sige, at måden til at dokumentere bygningsdeles brandmæssige egenskaber kan bruges i alle brandklasser uden at indplaceringen i brandklasse for byggearbejdet påvirkes heraf.
 
 #### Dokumentation ved brug af alment teknisk fælleseje
 
@@ -79,4 +76,3 @@ I Bygningsreglementets vejledning til kapitel 34 -- Certificerede brandrådgiver
 
 Den certificerede brandrådgivers virke omfatter således ikke udarbejdelse af dokumentationen for, hvordan ydeevnekriterier for et specifikt brandsikringstiltag er dokumenteret opfyldt, eller kontrol heraf.
 
-\

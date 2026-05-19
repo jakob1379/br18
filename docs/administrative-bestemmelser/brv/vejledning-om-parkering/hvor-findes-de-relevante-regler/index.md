@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -23,7 +26,6 @@
 
 ## Vejledning til kommunerne om krav til parkering i forbindelse med byggeri
 
-
 ### Indledning
 
 [1.](./)
@@ -33,31 +35,32 @@
 *****[Byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178)\*
 \****
 
-I [byggelovens § 7, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178), er der hjemmel til, at der i bygningsreglementet kan fastsættes regler om indretning af ejendommes ubebyggede arealer for bl.a. at sikre tilfredsstillende opholdsarealer og parkeringsarealer. 
+I [byggelovens § 7, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178), er der hjemmel til, at der i bygningsreglementet kan fastsættes regler om indretning af ejendommes ubebyggede arealer for bl.a. at sikre tilfredsstillende opholdsarealer og parkeringsarealer.
 
-I medfør af [byggeloven § 7, stk. 2](https://www.retsinformation.dk/eli/lta/2016/1178), må et ubebygget areal, der er udlagt og godkendt til parkering ikke benyttes til andet end parkering. For frie arealer i forbindelse med byggeri, der er opført før [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178) trådte i kraft, gælder at kommunalbestyrelsen som bygningsmyndighed kan modsætte sig, at arealet bebygges eller benyttes på en måde, der forhindrer, at det blandt andet kan anvendes som parkeringsareal.\
-\
+I medfør af [byggeloven § 7, stk. 2](https://www.retsinformation.dk/eli/lta/2016/1178), må et ubebygget areal, der er udlagt og godkendt til parkering ikke benyttes til andet end parkering. For frie arealer i forbindelse med byggeri, der er opført før [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178) trådte i kraft, gælder at kommunalbestyrelsen som bygningsmyndighed kan modsætte sig, at arealet bebygges eller benyttes på en måde, der forhindrer, at det blandt andet kan anvendes som parkeringsareal.
 
-*****Bygningsreglementet\
+*****Bygningsreglementet
+
 \*****
 
 Med hjemmel i [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178) er der i BR18, [kap. 20](/tekniske-bestemmelser/20/), § 393 og [§§ 399-402 f](/tekniske-bestemmelser/20/krav/399_402/)astsat regler for parkering i forbindelse med byggeri.
 
-I medfør af BR18, [kap. 20](/tekniske-bestemmelser/20/), [§ 399, stk. 1](/tekniske-bestemmelser/20/krav/399_402/), skal der på ejendommens område udlægges tilstrækkeligt areal til parkering af biler, motorcykler, knallerter og cykler mv. i forhold til anvendelsen af bygningen. Det fremgår endvidere af [kap. 20](/tekniske-bestemmelser/20/), [§ 399, stk. 2](/tekniske-bestemmelser/20/krav/399_402/), at parkeringsarealerne skal kunne benyttes af bebyggelsens beboere, de beskæftigede i bebyggelsen, besøgende, kunder og leverandører mv. 
+I medfør af BR18, [kap. 20](/tekniske-bestemmelser/20/), [§ 399, stk. 1](/tekniske-bestemmelser/20/krav/399_402/), skal der på ejendommens område udlægges tilstrækkeligt areal til parkering af biler, motorcykler, knallerter og cykler mv. i forhold til anvendelsen af bygningen. Det fremgår endvidere af [kap. 20](/tekniske-bestemmelser/20/), [§ 399, stk. 2](/tekniske-bestemmelser/20/krav/399_402/), at parkeringsarealerne skal kunne benyttes af bebyggelsens beboere, de beskæftigede i bebyggelsen, besøgende, kunder og leverandører mv.
 
 I forhold til handicapvenlige parkeringspladser er der med BR 18, [§ 401, stk. 1](/tekniske-bestemmelser/20/krav/399_402/) krav om, at der ved udformningen af parkeringspladser skal etableres et passende antal, der kan anvendes af handicapegnede køretøjer. Kravet til handicapegnede parkeringspladser anses som opfyldt, når kravene i BR18, [§ 401, stk. 2](/tekniske-bestemmelser/20/krav/399_402/) om, at brugsarealet skal være 3,5 m x 5.0 m, og placeret så nær indgangen som muligt, at belægningen skal være fast og jævn, samt at niveauspring i adgangsarealet fra parkeringsarealet til andet areal højst er 2,5 cm.
 
 Når der indrettes handicapvenlige parkeringspladser bør mindst én parkeringsplads have et brugsareal på 4,5 m x 8,0 m for at imødekomme behovet for parkering af minibusser med lift bag på.
 
-For yderligere vejledning kan i øvrigt henvises til DS-Håndbog 186.\
-\
+For yderligere vejledning kan i øvrigt henvises til DS-Håndbog 186.
 
-***Parkeringscirkulæret\
+***Parkeringscirkulæret
+
 \***
 
 De konkrete regler om kommunale parkeringsfonde er fastsat i cirkulære nr. 10 af 17. januar 1994, der er udstedt med hjemmel i [byggelovens § 22, stk. 6](https://www.retsinformation.dk/eli/lta/2016/1178).
 
-*****\
+*****
+
 Bestemmelser i lokalplan eller byplanvedtægt\***
 **\****
 
@@ -89,4 +92,3 @@ Denne vejledning om tilgængelighed i bygninger er udarbejdet af Dansk Standard 
 
 ### Hvornår kan der dispenseres fra parkeringsreglerne på betingelse af indbetaling til parkeringsfond
 
-\

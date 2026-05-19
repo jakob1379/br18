@@ -1,5 +1,5 @@
 [project]
-site_name = "BR18"
+site_name = "Bygningsreglementet.dk"
 site_description = "En lokal kopi af https://www.bygningsreglementet.dk/"
 site_author = "Jakob Stender Guldberg"
 extra_css = ["stylesheets/extra.css"]
@@ -91,6 +91,8 @@ nav = [
 
 [project.theme]
 language = "da"
+favicon = "assets/img/favicons/favicon-32x32.png"
+logo = "assets/img/favicons/favicon-32x32.png"
 features = [
     "announce.dismiss",
     "content.code.annotate",
@@ -117,11 +119,15 @@ features = [
 
 [[project.theme.palette]]
 scheme = "default"
+primary = "custom"
+accent = "custom"
 toggle.icon = "lucide/sun"
 toggle.name = "Switch to dark mode"
 
 [[project.theme.palette]]
 scheme = "slate"
+primary = "custom"
+accent = "custom"
 toggle.icon = "lucide/moon"
 toggle.name = "Switch to light mode"
 
@@ -129,8 +135,9 @@ toggle.name = "Switch to light mode"
 [project.markdown_extensions.toc]
 permalink = true
 permalink_title = "Anchor link to this section"
-toc_depth = 4
+toc_depth = 2
 [project.markdown_extensions.pymdownx.emoji]
+[project.markdown_extensions.pymdownx.caret]
 [project.markdown_extensions.md_in_html]
 [project.markdown_extensions.abbr]
 [project.markdown_extensions.pymdownx.snippets]

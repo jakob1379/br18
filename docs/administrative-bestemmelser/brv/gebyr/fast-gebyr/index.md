@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -53,14 +56,14 @@
 
 BR18, [§ 39, stk. 1](/administrative-bestemmelser/krav/39/), bestemmer, at kommunalbestyrelsen kan vælge at opkræve gebyr efter tidsforbrug eller som et mindre, fast gebyr. Bestemmelsen om det mindre, faste gebyr omfatter alle sagstyper.     Såfremt en kommune beslutter, at der skal opkræves et mindre, fast gebyr, skal kommunalbestyrelsen selv nærmere fastsætte, hvilke typer af byggesager omfattet af bygningsreglementets bestemmelser, der er omfattet af denne type af gebyropkrævning.
 
-Hvis kommunen vælger at opkræve et mindre, fast gebyr, må indtægterne fra de faste gebyrer samlet set ikke overstige de omkostninger, som kommunen har i forbindelse med byggesagsbehandlingen af de byggesager, som der opkræves et fast gebyr for.  Det betyder, at hvis kommunalbestyrelsen vælger, at der skal opkræves et fast gebyr for opførelsen af sekundære bygninger, herunder f.eks. udhuse og drivhuse på højst 50 m2, må indtægterne fra de faste gebyrer for disse to sagstyper ikke overstige kommunens samlede udgifter til byggesagsbehandlingen af sekundære bygninger på højst 50 m2.  
+Hvis kommunen vælger at opkræve et mindre, fast gebyr, må indtægterne fra de faste gebyrer samlet set ikke overstige de omkostninger, som kommunen har i forbindelse med byggesagsbehandlingen af de byggesager, som der opkræves et fast gebyr for.  Det betyder, at hvis kommunalbestyrelsen vælger, at der skal opkræves et fast gebyr for opførelsen af sekundære bygninger, herunder f.eks. udhuse og drivhuse på højst 50 m2, må indtægterne fra de faste gebyrer for disse to sagstyper ikke overstige kommunens samlede udgifter til byggesagsbehandlingen af sekundære bygninger på højst 50 m2.
 
-Baggrunden for bestemmelsen er, at opkrævning efter tidsforbrug, eksempelvis ved mindre bygninger, kan medføre gebyrer, der ikke står i rimeligt forhold til ansøgerens investering i byggeprojektet. Derfor har kommunen mulighed for at vælge, at gebyret for eksempelvis mindre bygningstyper skal opkræves efter tidsforbrug eller som et mindre, fast gebyr.   Bestemmelsen om det mindre, faste gebyr erstatter den tidligere undtagelse om, at kommunerne alene kunne fastsætte et fast gebyr for småbygninger. Muligheden for at opkræve et fastgebyr er nu udvidet til at omfatte alle typer af byggesager.    Der kan ikke både opkræves et mindre, fast gebyr for den på forhånd definerede sagstype samtidig med, at der opkræves gebyr efter tidsforbrug for den samme sagstype. De to typer af gebyropkrævning kan altså ikke kombineres for den samme sagstype, men kan godt kombineres såfremt gebyropkrævningen ikke vedrører den samme sagstype. 
+Baggrunden for bestemmelsen er, at opkrævning efter tidsforbrug, eksempelvis ved mindre bygninger, kan medføre gebyrer, der ikke står i rimeligt forhold til ansøgerens investering i byggeprojektet. Derfor har kommunen mulighed for at vælge, at gebyret for eksempelvis mindre bygningstyper skal opkræves efter tidsforbrug eller som et mindre, fast gebyr.   Bestemmelsen om det mindre, faste gebyr erstatter den tidligere undtagelse om, at kommunerne alene kunne fastsætte et fast gebyr for småbygninger. Muligheden for at opkræve et fastgebyr er nu udvidet til at omfatte alle typer af byggesager.    Der kan ikke både opkræves et mindre, fast gebyr for den på forhånd definerede sagstype samtidig med, at der opkræves gebyr efter tidsforbrug for den samme sagstype. De to typer af gebyropkrævning kan altså ikke kombineres for den samme sagstype, men kan godt kombineres såfremt gebyropkrævningen ikke vedrører den samme sagstype.
 
-Der kan eksempelvis ikke opkræves et fast gebyr for sagsbehandlingen af garager, carporte mv. samtidig med, at der opkræves gebyr efter tidsforbrug for den samme sagstype. Der kan dog godt opkræves et fast gebyr for eksempelvis garager, carporte mv. samtidig med, at der opkræves byggesagsgebyr efter tidsbrug for de resterende byggesagstyper eller for en anden klart defineret sagstype som f.eks. etagebyggeri. 
+Der kan eksempelvis ikke opkræves et fast gebyr for sagsbehandlingen af garager, carporte mv. samtidig med, at der opkræves gebyr efter tidsforbrug for den samme sagstype. Der kan dog godt opkræves et fast gebyr for eksempelvis garager, carporte mv. samtidig med, at der opkræves byggesagsgebyr efter tidsbrug for de resterende byggesagstyper eller for en anden klart defineret sagstype som f.eks. etagebyggeri.
 
-*Maksimumbeløb for det mindre, faste gebyr*\
-\
+*Maksimumbeløb for det mindre, faste gebyr*
+
 Der er fastsat et loft for, hvor meget kommunerne må opkræve som det mindre, faste gebyr. Loftet gælder for alle de typer af byggesager, som kommunalbestyrelsen beslutter, at der skal opkræves et fast gebyr for. Opkræves gebyret som et fast gebyr, må gebyret ikke overstige det beløb, der er fastsat i bekendtgørelse om Trafik-, Bygge- og Boligstyrelsens gebyrer på byggeområdet.    Loftet for det fastsatte gebyr pristalsreguleres årligt den 1. januar efter Finansministeriets generelle indeks for løn- og prisstigninger. I 2024 udgør loftet for det mindre, faste gebyr 1.175 kr.  [8.](../poster/)
 
 ### Hvilke poster kan indeholdes i gebyret?
@@ -93,4 +96,3 @@ Der er fastsat et loft for, hvor meget kommunerne må opkræve som det mindre, f
 
 ### Intern instruks i kommunen
 
-\

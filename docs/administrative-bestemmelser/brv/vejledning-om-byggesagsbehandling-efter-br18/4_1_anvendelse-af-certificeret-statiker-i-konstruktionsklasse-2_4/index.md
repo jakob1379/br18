@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -23,9 +26,7 @@
 
 ## Vejledning om byggesagsbehandling efter BR18
 
-
 ### Rettelsesblad til vejledning om byggesagsbehandling efter BR18 (01.01.2024)
-
 
 ### Kolofon
 
@@ -129,7 +130,8 @@ Ved ansøgning om byggetilladelse til byggeri i konstruktionsklasse 2-4 er der k
 
 Certificeringen skal følge den konstruktionsklasse, som byggeriet, der søges om byggetilladelse til, kan indplaceres i. Det betyder, at såfremt der søges om byggetilladelse til et byggeri, der kan indplaceres i konstruktionsklasse 3, skal den certificerede statiker ligeledes være certificeret til konstruktionsklasse 3, jf. [bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet](https://www.retsinformation.dk/eli/lta/2019/674) [§ 13](/administrative-bestemmelser/krav/7_15/).
 
-Ved byggeri, der indplaceres i konstruktionsklasse 4, er der ligeledes krav om certificeret tredjepart,\
+Ved byggeri, der indplaceres i konstruktionsklasse 4, er der ligeledes krav om certificeret tredjepart,
+
 der er certificeret i overensstemmelse med [bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet](https://www.retsinformation.dk/eli/lta/2019/674) [§ 14](/administrative-bestemmelser/krav/7_15/).
 
 Der kan kun være én certificeret statiker tilknyttet sagen, medmindre byggeriet indplaceres i konstruktionsklasse 4, og der derfor er krav om en certificeret tredjepart. Der er dog mulighed for at skifte certificeret statiker undervejs i byggeriet, jf. [§ 544](/ovrige-bestemmelser/33/krav/536_544/).
@@ -200,4 +202,3 @@ Certificeringsorganerne, der certificerer statikere i konstruktionsklasse 2-4, s
 
 ### Klage over kommunalbestyrelsens afgørelser
 
-\

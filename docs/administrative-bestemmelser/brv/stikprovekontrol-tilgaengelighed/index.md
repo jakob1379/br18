@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../spoergsmaal-og-svar-ve-anlaeg/)
@@ -43,8 +46,6 @@ Denne vejledning skal understøtte kommunernes indsats i forbindelse med den del
 
 I stikprøvekontrollen skal kommunerne bl.a. vurdere, om de udtrukne byggesager tilbyder ligeværdighed i adgangsforhold og indretning^4^. Et ensartet kontrolniveau vil understøtte en identificering af, hvor udfordringerne befinder sig. Derfor er det vigtigt, at stikprøvekontrollen omfatter alle relevante bestemmelser i bygningsreglementet.
 
- 
-
 1\) Bygningsreglementet, [kap. 1](/administrative-bestemmelser/), [§ 46](/administrative-bestemmelser/krav/40_46/).
 
 2\) Bygningsreglementet, [kap. 1](/administrative-bestemmelser/), Vejledning om byggesagsbehandling efter BR18.
@@ -55,7 +56,8 @@ I stikprøvekontrollen skal kommunerne bl.a. vurdere, om de udtrukne byggesager 
 
 ### Stikprøvekontrol - Afklaring af bestemmelser og brugergruppe
 
-Til den enkelte byggesag følger en erklæring fra ansøger i forbindelse med færdigmeldingen om, at det færdige byggeri er i overensstemmelse med byggetilladelsen og bygningsreglementet^5^\
+Til den enkelte byggesag følger en erklæring fra ansøger i forbindelse med færdigmeldingen om, at det færdige byggeri er i overensstemmelse med byggetilladelsen og bygningsreglementet^5^
+
 .
 
 Det indledende skridt i kommunens kontrol er at afklare, hvilke bestemmelser i bygningsreglementet den pågældende byggesag er omfattet af, når det drejer sig om tilgængelighed, samt brugergruppens sammensætning. I forbindelse med afklaring af, hvilke bestemmelser byggesagen er omfattet af, anvendes oversigtsnøglen i tabel 1. Oversigtsnøglen oplister de bestemmelser, der er relevante i forhold til fire overordnede bygningstyper, henholdsvis boligbebyggelse/boliger, offentligt tilgængelig bygninger, bygninger med arbejdspladser samt hotel, kro og lignende. De relevante bestemmelser er oplistet tematisk ud fra formålet med bestemmelserne, f.eks. at 'kunne komme frem til en funktion i en bygning' eller at 'kunne komme på toilettet'.
@@ -104,12 +106,11 @@ Det indledende skridt i kommunens kontrol er at afklare, hvilke bestemmelser i b
 |  Kunne aflevere affald                                       |  [§ 65](/tekniske-bestemmelser/03/krav/), [§ 397](/tekniske-bestemmelser/20/krav/395_398/)                 |  [§ 65](/tekniske-bestemmelser/03/krav/), [§ 397](/tekniske-bestemmelser/20/krav/395_398/)                      |  [§ 65](/tekniske-bestemmelser/03/krav/), [§ 397](/tekniske-bestemmelser/20/krav/395_398/)                 |  [§ 65](/tekniske-bestemmelser/03/krav/), [§ 397](/tekniske-bestemmelser/20/krav/395_398/)         |
 +--------------------------------------------------------------+------------------------------+-----------------------------------+------------------------------+----------------------+
 
-Tabel 1.: Oversigtsnøgle, der viser relevante bestemmelser i bygningsreglementet i forhold til de fire overordnede bygningstyper boligbebyggelse/boliger, offentligt tilgængelige bygninger, bygninger med arbejdspladser samt hotel, kro og lignende.\
- 
+Tabel 1.: Oversigtsnøgle, der viser relevante bestemmelser i bygningsreglementet i forhold til de fire overordnede bygningstyper boligbebyggelse/boliger, offentligt tilgængelige bygninger, bygninger med arbejdspladser samt hotel, kro og lignende.
 
 **Brugergruppens sammensætning**
 
-Når det er afklaret, hvilke bestemmelser i bygningsreglementet den pågældende byggesag er omfattet af, er næste skridt at afklare brugergruppens sammensætning.  
+Når det er afklaret, hvilke bestemmelser i bygningsreglementet den pågældende byggesag er omfattet af, er næste skridt at afklare brugergruppens sammensætning.
 
 Bygningsreglementet stiller i [kap. 2](/tekniske-bestemmelser/02/) krav om, at brugerne ved egen hjælp skal kunne komme frem til, ind og frem til funktioner i bygninger, opholdsarealer og parkeringsarealer. Det er derfor relevant at afklare sammensætningen af brugergruppen i relation til den færdige bygnings overordnede funktion eller funktioner.
 
@@ -119,9 +120,7 @@ Ligeværdighed i adgangsforhold og indretning handler om at gøre det muligt for
 
 For mere inspiration til fastlæggelse af brugergruppe henvises til 2.0 Uddybning angående brugerne samt *Vejledning til brugerbegreb*^7^ i bygningsreglementet.
 
- 
-
-5\) Bygningsreglementet, [kap. 1](/administrative-bestemmelser/), [§ 40, stk. 2](/administrative-bestemmelser/krav/40_46/). 
+5\) Bygningsreglementet, [kap. 1](/administrative-bestemmelser/), [§ 40, stk. 2](/administrative-bestemmelser/krav/40_46/).
 
 6\) Bygningsreglementet, [kap. 2](/tekniske-bestemmelser/02/), Vejledning til brugerbegreb, 3.0.0.
 
@@ -135,11 +134,9 @@ I 1. fase af stikprøvekontrollen skal kommunen vurdere, om omfanget af dokument
 
 Når ansøger færdigmelder byggesagen skal kommunen, jf. bygningsreglementet^8^, kontrollere, om ansøger har indsendt dokumentation for overholdelse af de bestemmelser i bygningsreglementet, der er relevante i byggetilladelsen, inden kommunen kan give en ibrugtagningstilladelse. Stikprøvekontrollen indeholder en tilsvarende kontrol af omfanget af dokumentationen for at sikre et tilstrækkeligt udgangspunkt for en kvalificeret vurdering af dokumentationen i stikprøvekontrollens 2. fase, se afsnit 1.2 i indeværende vejledning samt Vejledning om byggesagsbehandling efter BR18.
 
-Derefter tager kommunen endeligt stilling til, hvorvidt omfanget af dokumentationen er i orden, eller om der mangler dokumentation. Hvis der mangler dokumentation, eller der burde have været ansøgt om dispensation, vil der være tale om en formel mangel. Senere i kontrollen, vil der være tale om en materiel mangel, hvis bestemmelserne ikke er efterlevet i de dokumenterede løsninger.   
+Derefter tager kommunen endeligt stilling til, hvorvidt omfanget af dokumentationen er i orden, eller om der mangler dokumentation. Hvis der mangler dokumentation, eller der burde have været ansøgt om dispensation, vil der være tale om en formel mangel. Senere i kontrollen, vil der være tale om en materiel mangel, hvis bestemmelserne ikke er efterlevet i de dokumenterede løsninger.
 
- 
-
-**Anbefaling til dokumentation** 
+**Anbefaling til dokumentation**
 
 Det er ansøgers opgave selv at vurdere, hvorledes byggeprojektet dokumenteres. For at imødekomme, at ansøger får indsendt den rette dokumentation fra start angående ligeværdig adgang og indretning, kan kommunen i en eventuel forhåndsdialog anbefale ansøger at være opmærksom på følgende temaer:
 
@@ -150,8 +147,6 @@ Det er ansøgers opgave selv at vurdere, hvorledes byggeprojektet dokumenteres. 
 > • Hvorledes bygningen understøtter bevægelse frem til, ind i og frem til bygningens funktioner
 >
 > • Funktionalitet og brugsværdi -- konkrete løsninger
-
- 
 
 Tabel 2. uddyber de enkelte temaer. En kombination af tekst, tegninger, diagrammer og oversigtsplaner anbefales til udarbejdelse af beskrivelserne, som tilsammen danner den samlede dokumentation.
 
@@ -164,7 +159,9 @@ Tabel 2. uddyber de enkelte temaer. En kombination af tekst, tegninger, diagramm
 +----------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |  Hvorledes bygningen understøtter bevægelse frem til, ind i og gennem bygningen frem til bygningens funktioner | > • Beskrivelse af, hvorledes bygningen understøtter bevægelsen frem til bygningen, ind i bygningen og frem til bygningens funktioner for de forskellige brugere i relation til deres behov.                                                                                                                                                                                                   |
 |                                                                                                                | >                                                                                                                                                                                                                                                                                                                                                                                              |
-|                                                                                                                | > • En detaljeret gennemgang af de forskellige bygningsfysiske forhold og elementer i relation til bygningsreglementets bestemmelser (se evt. tabel 1). Det gælder f.eks. belysning, belægning, ramper, trapper og elevatorer.                                                                                                                                                                 |
+|                                                                                                                | > • En detaljeret gennemgang af de forskellige bygningsfysiske forhold og elementer i relation til bygningsreglementets bestemmelser (se evt. tabel
+
+1). Det gælder f.eks. belysning, belægning, ramper, trapper og elevatorer.                                                                                                                                                                 |
 |                                                                                                                | >                                                                                                                                                                                                                                                                                                                                                                                              |
 |                                                                                                                | > • Hvis en løsning går igen flere steder i byggesagen, kan der indsendes dokumentation for denne løsning samt beskrivelse af, hvor den optræder i byggesagen.                                                                                                                                                                                                                                 |
 |                                                                                                                | >                                                                                                                                                                                                                                                                                                                                                                                              |
@@ -187,9 +184,7 @@ Tabel 2. uddyber de enkelte temaer. En kombination af tekst, tegninger, diagramm
 
 Tabel 2.: Anbefaling om dokumentation og dens indhold.
 
-I en eventuel forhåndsdialog mellem ansøger og kommune kan specifikationer omkring dokumentationen, og i hvilket format den skal afleveres, drøftes og aftales. 
-
- 
+I en eventuel forhåndsdialog mellem ansøger og kommune kan specifikationer omkring dokumentationen, og i hvilket format den skal afleveres, drøftes og aftales.
 
 8\) Bygningsreglementet, [kap. 1](/administrative-bestemmelser/), [§ 43, stk. 2](/administrative-bestemmelser/krav/40_46/)
 
@@ -201,15 +196,13 @@ I denne fase af stikprøvekontrollen skal kommunen kontrollere, om dokumentation
 
 Byggesagsbehandleren skal i denne fase granske den indsendte dokumentation. Granskningen kan suppleres af et tilsyn på stedet. I granskningen vurderes det, om de beskrevne løsninger i dokumentationen efterlever byggetilladelsen og bygningsreglementets bestemmelser. Alt efter bygningstype vælges det relevante bygningsspor i oversigtsnøglen som udgangspunkt for granskningen.
 
-Byggesagens dokumentation holdes op imod de enkelte bestemmelser i bygningsreglementet, og det vurderes, om de dokumenterede løsninger er opført i overensstemmelse med bestemmelserne. I de tilfælde, hvor de dokumenterede løsninger ikke lever op til bestemmelserne, er der tale om en materiel mangel.   
+Byggesagens dokumentation holdes op imod de enkelte bestemmelser i bygningsreglementet, og det vurderes, om de dokumenterede løsninger er opført i overensstemmelse med bestemmelserne. I de tilfælde, hvor de dokumenterede løsninger ikke lever op til bestemmelserne, er der tale om en materiel mangel.
 
 Det er på dette tidspunkt i stikprøvekontrollen, at det vurderes, om dokumentationens beskrevne løsninger tilgodeser ligeværdighed i adgangsforhold og indretning samt sikrer, at brugerne ved egen hjælp kan benytte bygningen og dens funktioner.
 
 Mere information om ligeværdig samt en definition af 'ved egen hjælp' præsenteres i afsnit *3.0 Uddybning af ligeværdighed i adgangsforhold og indretning*. Ligeledes henvises til DS-håndbog 186:2017 for konkrete eksempler på, hvordan bygningsreglementets bestemmelser kan overholdes ved brug af eksempler fra DS/ISO 21542.
 
- 
-
-**Omfang og antal** 
+**Omfang og antal**
 
 Bygningsreglementets bestemmelser omhandler en række detailkrav, hvor et givet antal er defineret. Det gælder antallet af sengepladser indrettet med egne bade- og wc-faciliteter. Andre bestemmelser anvender begrebet 'passende antal'. Det gælder pladser til personer med særlige pladskrav i lokaler og anlæg med fastmonterede publikumspladser samt antallet af parkeringspladser til handicapegnede køretøjer.
 
@@ -217,9 +210,7 @@ Vurderingen af behovet og dermed hvad, der er et passende antal, bør dog altid 
 
 I denne 2. fase af stikprøvekontrollen er det kommunens opgave at vurdere, hvordan der i dokumentationen er gjort rede for antallet af f.eks. parkeringspladser til handicapegnede køretøjer i relation til typen af byggeprojekt i den pågældende byggesag.
 
- 
-
-9\) Grangaard, S. & Pedersen, L.S. (2014) Tilgængelighed i forbindelse med ombygning -- et casestudie af Nordkraft. SBI 2014:16. Statens Byggeforskningsinstitut, Aalborg Universitet, København. 
+9\) Grangaard, S. & Pedersen, L.S. (2014) Tilgængelighed i forbindelse med ombygning -- et casestudie af Nordkraft. SBI 2014:16. Statens Byggeforskningsinstitut, Aalborg Universitet, København.
 
 1.3
 
@@ -227,12 +218,9 @@ I denne 2. fase af stikprøvekontrollen er det kommunens opgave at vurdere, hvor
 
 I denne fase af stikprøvekontrollen skal kommunen vurdere betydningen af de ulovlige forhold (såvel materielle som formelle mangler). Hvis kommunen bliver opmærksom på et ulovligt forhold, er den forpligtet til at søge forholdet lovliggjort, medmindre det er af bagatelagtig karakter.
 
- 
+**Grænsen for, hvad kommunen opfatter som bagatelagtigt, kan variere imellem de tekniske områder og dermed kapitler i bygningsreglementet. Når betydningen af et forhold skal vurderes, relaterer tilgængelighedsområdet sig i særdeleshed til brugergruppen og bestemmelsernes formål. Små afvigelser fra bestemmelserne kan have afgørende betydning for brugsværdien og dermed brugernes muligheder for at gøre brug af bygningernes funktioner, opholdsarealer og parkeringsarealer. Hensyn til brugerne skal derfor inddrages i vurderingen.*
 
-**Grænsen for, hvad kommunen opfatter som bagatelagtigt, kan variere imellem de tekniske områder og dermed kapitler i bygningsreglementet. Når betydningen af et forhold skal vurderes, relaterer tilgængelighedsområdet sig i særdeleshed til brugergruppen og bestemmelsernes formål. Små afvigelser fra bestemmelserne kan have afgørende betydning for brugsværdien og dermed brugernes muligheder for at gøre brug af bygningernes funktioner, opholdsarealer og parkeringsarealer. Hensyn til brugerne skal derfor inddrages i vurderingen.*\
 \*
-
- 
 
 I det følgende præsenteres eksempler på denne problemstilling, som kommunen bør være opmærksom på, når det vurderes, om en mangel er af bagatelagtig karakter. Det er hensigten, at disse eksempler kan bidrage til en forståelse af brugsværdien, brugernes situation og deres møde med det fysiske miljø.
 
@@ -256,7 +244,7 @@ Afstanden mellem wc'et og håndvasken samt armatur har afgørende betydning for 
 
 Udformningen af brusearealet ved en bade- og wc-facilitet på et hotelværelse kan have betydning for brugsværdien. Hvis friarealet ved siden af håndvasken anvendes som bruseareal, kan en kant ved brusearealet hindre en person i kørestol i at manøvrere.
 
-**Kunne parkere**  
+**Kunne parkere**
 
 Passende arealer til parkering af handicapegnede køretøjer (personbil, kassebil/minibus, el-scooter) udlagt tæt på indgangen har betydning for brugernes mulighed for at anvende bygninger og arealer. Hvis en person med gangbesvær skal parkere sin bil eller sin el-scooter langt fra den bygning, som vedkommende skal benytte, er der tale om tab af brugsværdi, fordi personen har svært ved eller ikke kan gå over længere afstande.
 
@@ -278,8 +266,6 @@ Når en brugergruppe skal karakteriseres, er det relevant at overveje en række 
 
 Generelt gælder det for brugerne, at der kan være tale om forskellige brugsmønstre i forhold til hyppighed og varighed. Nogle er daglige brugere, mens andre måske kun opholder sig i en bygning én gang, men over længere tid. Inden for hver kategori af funktionsnedsættelse vil der være individuelle forskelle blandt brugerne i forhold til funktionstab og funktionsevne. Når en brugergruppe vurderes, gælder det om at fange denne mangfoldighed og ikke lade forståelsen af brugerne være fastlåst. Nogle personer med en funktionsnedsættelse har en funktionsevne og et helbred, der gør dem i stand til at kunne varetage et arbejde, mens andre ikke er i stand til dette. Forskelle kan ligeledes påvirkes af alder, køn, kultur, opdragelse og erfaring^10^. Der kan også være forskel på, hvor aktive brugerne er i forhold til f.eks. familieliv, venner, fritidsinteresser, foreningsliv, naturoplevelser og kulturelle tilbud. Muligheden for at være aktiv og deltage er til stede, hvis de fysiske rammer er lagt tilrette for deltagelsen.
 
-\
-
 10\) Bygningsreglementet, [kap. 2](/tekniske-bestemmelser/02/), Vejledning til brugerbegreb, 3.0.0.
 
 3.0
@@ -290,7 +276,7 @@ Bygningsreglementets formålsparagraf vedrørende adgangsforhold beskriver i [§
 
 'Ved egen hjælp' betyder, at brugerne selv eller ved hjælp af et hjælpemiddel kan komme frem til, ind i og frem til funktionerne i en bygning, et opholdsareal eller et parkeringsareal. Et hjælpemiddel kan f.eks. være en mobilitystok eller en kørestol. Der kan være tale om et samspil mellem hjælpemiddel og personlig hjælp i nogle situationer.
 
-Det er vigtigt at vurdere adgangsforholdene som helhed, også i forhold til hvorledes de enkelte løsninger forvaltes, for at sikre, der ikke optræder barrierer undervejs, som kan hindre brugerne i at nå frem til den pågældende funktion på egen hånd. 
+Det er vigtigt at vurdere adgangsforholdene som helhed, også i forhold til hvorledes de enkelte løsninger forvaltes, for at sikre, der ikke optræder barrierer undervejs, som kan hindre brugerne i at nå frem til den pågældende funktion på egen hånd.
 
 Et eksempel på en barriere kan være, når det for en person med en synsnedsættelse, der anvender mobilitystok er muligt at komme frem til bygningen og finde den rette adgang, men ikke videre hen til den pågældende funktion i bygningen. Hvis den videre vej er meget kompliceret, og der ikke findes en bemandet reception med personale, som kan forklare vejen, eller der ej heller er mulighed for personlig assistance frem til den endelige funktion, vil der være tale om en barriere.
 
@@ -306,10 +292,6 @@ Udformningen af bygninger og arealer er bestemmende for, i hvor høj grad bruger
 
 Ligeværdige muligheder handler grundlæggende om, at alle brugere får adgang til de samme bygninger, parkeringsarealer og opholdsarealer samt mulighed for at anvende deres funktioner. Ligeværdighed handler også om måden, hvorpå det kan lade sig gøre at ankomme til en bygning eller et sted i en bygning, og om måden, hvorpå anvendelsen af funktionen finder sted. For selvom en funktion er mulig at anvende, bidrager den ikke nødvendigvis til ligeværdighed. Nogle løsninger kan virke stigmatiserende, f.eks. ved at en bruger føler sig udstillet. Det kan være i biografen, hvor en kørestolsbruger ikke selv kan vælge en plads, og derfor må sidde alene foran forreste række eller i et andet område af rummet frem for at sidde sammen med andre, f.eks. sine venner. Det kan være ved en indgang til en bygning, hvor en lift f.eks. bevæger sig op langs et vindue ved en restaurant, så alle gæsterne i restauranten kan følge kørestolsbrugerens vej frem til indgangen. Ligeværdighed handler derfor også om at undgå stigmatisering af mennesker.
 
- 
-
- 
-
 11\) Bygningsreglementet, [kap. 2](/tekniske-bestemmelser/02/), Vejledning til brugerbegreb, 0.0.0.
 
 12\) [https://ordnet.dk/ddo/ordbog?query=ligev%C3%A6rdighed](https://ordnet.dk/ddo/ordbog?query=ligev%C3%A6rdighed){target="_blank"} besøgt 28.11.2018.
@@ -318,4 +300,3 @@ Ligeværdige muligheder handler grundlæggende om, at alle brugere får adgang t
 
 14\) Bygningsreglementet, [kap. 2](/tekniske-bestemmelser/02/), Vejledning til brugerbegreb, 2.0.0.
 
-\

@@ -12,15 +12,15 @@ hide:
 
 ## Lavenergiklasse
 
-§ 473
+### § 473 {#paragraf-473}
 
 For at kunne klassificere bygningen som lavenergiklasse, skal kravene i dette kapitel overholdes. De øvrige krav i [kapitel 11](/tekniske-bestemmelser/11/) skal ligeledes overholdes.
 
-§ 474
+### § 474 {#paragraf-474}
 
 Boliger, kollegier, hoteller og lignende kan klassificeres som lavenergiklasse, når bygningens samlede behov for tilført energi til opvarmning, ventilation, køling og varmt brugsvand pr. m² opvarmet etageareal ikke overstiger 27,0 kWh/m^2^ pr. år.
 
-§ 475
+### § 475 {#paragraf-475}
 
 Andre bygninger end boliger, der ikke er omfattet af § 474, kan klassificeres som lavenergiklasse, når det samlede behov for tilført energi til opvarmning, ventilation, køling, varmt brugsvand og belysning pr. m² opvarmet etageareal ikke overstiger 33,0 kWh/m^2^ pr. år.
 
@@ -38,15 +38,15 @@ Anvisningen beskriver, hvordan man bruger beregningsprogrammet Be15 til beregnin
 
 Anvisning og beregningsprogram er betalingsbelagt.
 
-§ 476
+### § 476 {#paragraf-476}
 
 Bygninger, der er omfattet af §§ 474 eller 475, skal udføres, så det dimensionerende transmissionstab pr. m² etageareal ikke overstiger 11,0+6,0/E+300/A, hvor E er antallet af etager, og A er det opvarmede etageareal. Antal etager er et decimaltal, som udregnes som opvarmet etageareal divideret med bebygget areal. Bygninger med gennemsnitlig rumhøjde over 4,0 meter får et tillæg på 1,0 W/m² pr. meter gennemsnitlig rumhøjde over 4,0 meter. Opvarmet kælder, der ikke indgår i etagearealet, medregnes med 40 pct. i antal etager og det opvarmede etageareal.
 
-§ 477
+### § 477 {#paragraf-477}
 
 (Ophævet).
 
-§ 478
+### § 478 {#paragraf-478}
 
 Energibalancen (Eref) gennem vinduer og glasydervægge i opvarmningssæsonen må ikke være mindre end 0 kWh/m² pr. år.
 
@@ -56,13 +56,15 @@ Energibalancen (Eref) gennem vinduer og glasydervægge i opvarmningssæsonen må
 
 *Stk. 4.* Referencestørrelser fremgår af [§ 258](/tekniske-bestemmelser/11/krav/).
 
-[§ 479](/ovrige-bestemmelser/25/krav/) (Ophævet)
+### § 479 {#paragraf-479}
 
-§ 480
+(Ophævet)
+
+### § 480 {#paragraf-480}
 
 (Ophævet).
 
-§ 481
+### § 481 {#paragraf-481}
 
 Volumenstrømmen gennem utætheder i klimaskærmen i nye bygninger opvarmet til 15 °C eller mere må ikke overstige 0,7 l/s pr. m² opvarmet etageareal ved en trykforskel på 50 Pa.
 
@@ -70,17 +72,17 @@ Volumenstrømmen gennem utætheder i klimaskærmen i nye bygninger opvarmet til 
 
 *Stk. 3.* Kravet kan dokumenteres ved at foretage trykprøvning af bygningen eller repræsentative dele af større bygninger.
 
-§ 482
+### § 482 {#paragraf-482}
 
 For etagearealer, hvor der foretages trykprøvning af volumenstrømmen gennem utætheder, kan prøvningsresultatet anvendes ved beregning af energibehovet for disse arealer. Foreligger dokumentation ikke, benyttes 1,5 l/s pr. m² ved 50 Pa.
 
 *Stk. 2.* Trykprøvning skal gennemføres i henhold til [§ 263, stk. 5](/tekniske-bestemmelser/11/krav/).
 
-§ 483
+### § 483 {#paragraf-483}
 
 Ventilationsanlæg, hvor aggregat og kanalsystem kun betjener én bolig, skal udføres med varmegenvinding med en tør virkningsgrad på mindst 85 pct.
 
-§ 484
+### § 484 {#paragraf-484}
 
 For ventilationsanlæg med konstant luftydelse må det specifikke elforbrug til lufttransport ikke overstige 1.500 J/m³ udeluft.
 

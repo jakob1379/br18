@@ -12,7 +12,7 @@ hide:
 
 ## § 485 - § 489 Konstruktionsklasser {#s485-489}
 
-### § 485 {#p485}
+### § 485 {#p485 #paragraf-485}
 
 De bærende konstruktioner i et byggeri skal indplaceres i en konstruktionsklasse på baggrund af:
 
@@ -22,11 +22,11 @@ De bærende konstruktioner i et byggeri skal indplaceres i en konstruktionsklass
 
 *Stk. 2.* Hvis det kan dokumenteres, at en opdeling af byggeriet i flere konstruktionsafsnit kan ske på en sikkerhedsmæssigt forsvarlig måde, kan de enkelte konstruktionsafsnit indplaceres i forskellige konstruktionsklasser.
 
-### § 486 {#p486}
+### § 486 {#p486 #paragraf-486}
 
 Ved konstruktionsafsnit forstås i denne bekendtgørelse en afgrænset del af en konstruktion, der indplaceres i én konstruktionsklasse og én konsekvensklasse.
 
-### § 487 {#p487}
+### § 487 {#p487 #paragraf-487}
 
 Konstruktionens kompleksitet skal fastlægges som en af følgende:
 
@@ -43,7 +43,7 @@ Konstruktionens kompleksitet skal fastlægges som en af følgende:
 
 *Stk. 4.* Hvor der er tvivl om ombygningens eller forandringens kompleksitet, anses denne for kompleks.
 
-### § 488 {#p488}
+### § 488 {#p488 #paragraf-488}
 
 Erfaringer med konstruktionstypen skal fastlægges som en af følgende:
 
@@ -54,7 +54,7 @@ Erfaringer med konstruktionstypen skal fastlægges som en af følgende:
 
 *Stk. 3.* Hvor der er tvivl om erfaringer med konstruktionstypen, anses denne for utraditionel.
 
-### § 489 {#p489}
+### § 489 {#p489 #paragraf-489}
 
 Konstruktioner eller konstruktionsafsnit skal indplaceres i en af følgende konstruktionsklasser:
 

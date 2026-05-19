@@ -1,6 +1,5 @@
 # Lydforhold (§ 368 - § 376)
 
-
 ## Se alle vejledninger om Lydforhold (§ 368 - § 376)
 
 - [Bygningsreglementets vejledning om lydforhold](../../generel_vejledning/)
@@ -30,7 +29,8 @@ Daginstitutionsbygninger omfatter børneinstitutioner, skolefritidsordninger m.v
 
 Tabel 4.1 indeholder grænseværdier for luftlydisolation og trinlydniveau i daginstitutionsbygninger svarende til overholdelse af BR18's lydbestemmelser.
 
-Lydbestemmelserne er gengivet fra SBi-anvisning 218.\
+Lydbestemmelserne er gengivet fra SBi-anvisning 218.
+
 Referencer findes i [afsnit 1.5](../../generel_vejledning/referenceliste/ "Referenceliste").
 
 Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde bygningsreglementets funktionskrav, er anført separat i tabellerne (i kursiv).
@@ -71,4 +71,3 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 
 ### Rumakustik i daginstitutionsbygninger
 
-\

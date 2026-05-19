@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -23,7 +26,6 @@
 
 ## Vejledning til kommunerne om krav til parkering i forbindelse med byggeri
 
-
 ### Indledning
 
 [1.](../hvor-findes-de-relevante-regler/)
@@ -42,9 +44,9 @@
 
 Ved enhver form for ny bebyggelse kan der i byggetilladelsen stilles krav om etablering af parkeringsarealer. Det er bygningsmyndigheden, der ud fra vurderingen af behovet for parkeringsarealer afgør, om der i byggetilladelsen skal stilles krav om etablering af et parkeringsareal, herunder størrelsen af parkeringsarealet.
 
-*\
+*
+
 ****Tilbygning\*****
-\
 
 Ved opførelse af tilbygninger kan der kun stilles krav om etablering af parkeringsareal, når det vurderes, at tilbygningen skaber et øget parkeringsbehov. Der kan i denne forbindelse ikke stilles krav om etablering af parkeringsareal til dækning af den eksisterende bygnings parkeringsbehov, hvis tilbygningen ikke medfører en ændring af anvendelsen af den samlede bygning. Dette gælder også i den situation, hvor den eksisterende bygning ikke har tilstrækkeligt parkeringsareal eller slet intet parkeringsareal.
 
@@ -57,8 +59,6 @@ I et eksempel hvor der opføres en tilbygning til en skole til undervisningsform
 Ved ændret anvendelse af en eksisterende bebyggelse skal bygningsmyndigheden tage stilling til, om den ændrede anvendelse øger behovet for parkeringsareal, og der dermed skal stilles krav om udvidelse af det eksisterende parkeringsareal.
 
 En ændret anvendelse kan endvidere betyde et mindre behov for parkeringsareal, og kan resultere i et overskud af parkeringsareal.
-
- 
 
 ***Brugen af parkeringsarealer***
 
@@ -74,4 +74,3 @@ Der er ikke hjemmel i byggelovgivningen til at stille krav om, at de parkeringsa
 
 ### Hvornår kan der dispenseres fra parkeringsreglerne på betingelse af indbetaling til parkeringsfond
 
-\

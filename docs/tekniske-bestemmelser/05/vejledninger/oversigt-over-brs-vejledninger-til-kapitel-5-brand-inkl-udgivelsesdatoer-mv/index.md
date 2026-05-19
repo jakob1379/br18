@@ -1,6 +1,5 @@
 # Brand (§ 82 - § 158)
 
-
 ## Se alle vejledninger om Brand (§ 82 - § 158)
 
 - [Spørgsmål og svar](../spoergsmaal-og-svar/)
@@ -26,7 +25,6 @@
 - [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](https://brandogkonstruktioner.dk/)
 
 ## Oversigt over Bygningsreglementets vejledninger til kapitel 5 -- Brand, inkl. udgivelsesdatoer
-
 
 ### Oversigter over vejledninger til kapitel 5 - Brand
 
@@ -71,8 +69,6 @@
 +-------------+-----------------------------------------------------------+------------------+--------------+-----------+-------------------+
 | 8           | Eftervisning                                              | 10.01.2020       |  28.09.2021  | 152       | \-                |
 +-------------+-----------------------------------------------------------+------------------+--------------+-----------+-------------------+
-
- 
 
 +-----------+---------------------------------------------------------------------------------------------------------------------------+------------------+--------------+-----------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Bilag** | **Titel**                                                                                                                 | **1. udgivelse** | **Revision** | **Sider** | **Bemærkninger**                                                                                                                                                          |
@@ -138,8 +134,6 @@
 |  16       | Præ-accepterede løsninger for mindre bebyggelse i anvendelseskategori 1 og 4                                              | 22.04.2021       |              | 6         |                                                                                                                                                                           |
 +-----------+---------------------------------------------------------------------------------------------------------------------------+------------------+--------------+-----------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-\
-
 ### Ved uoverensstemmelser mellem hovedteksten i kapitlerne og teksten i bilag 1-10 i Bygningsreglementets vejledning til kapitel 5 -- Brand, hvilken vejledning er så gældende?
 
 **Supplement til [bilag 1](/bilag/b1/bilag_1/)-10**
@@ -154,15 +148,17 @@ For følgende områder i [bilag 1](/bilag/b1/bilag_1/)-10 skal de præ-acceptere
 
 Her skal benyttes beskrivelserne i [kapitel 5](/tekniske-bestemmelser/05/): Redningsberedskabets indsatsmuligheder
 
-**• Drift, kontrol og vedligehold af brandforhold i og ved bygninger:**\
+**• Drift, kontrol og vedligehold af brandforhold i og ved bygninger:**
+
 Her skal benyttes beskrivelserne i [kapitel 7](/tekniske-bestemmelser/07/): Drift-, kontrol- og vedligehold af brandforhold i og ved bygninger.
 
-**• Udførelsen af brandtekniske installationer og håndslukningsudstyr:**\
+**• Udførelsen af brandtekniske installationer og håndslukningsudstyr:**
+
 Her skal benyttes beskrivelserne i [bilag 12: Præ-accepterede løsninger for brandtekniske installationer og håndslukningsudstyr](../generel_brand/brandtekniske-installationer/). Dog undtaget konkrete specialtilfælde i [bilag 8: Præ-accepterede løsninger for brandsikring af landbrugserhvervets avls- og driftsbygninger](../generel_brand/bilag-8-praeaccepterede-loesninger-jordbrugserhvervets-avls-og-driftsbygninger-mv/).
 
-**• [Kapitel 6](/tekniske-bestemmelser/06/): Funktionsafprøvning og systemintegration:**\
+**• [Kapitel 6](/tekniske-bestemmelser/06/): Funktionsafprøvning og systemintegration:**
+
 Her skal benyttes beskrivelserne i [kapitel 6](/tekniske-bestemmelser/06/): Funktionsafprøvning og systemintegration.
 
 Ved kommende opdateringer af [bilag 1](/bilag/b1/bilag_1/)-10 vil disse henvisninger blive indarbejdet i bilagene, alternativet vil de relevante beskrivelser blive indarbejdet i det aktuelle bilag.
 
- \

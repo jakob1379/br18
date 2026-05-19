@@ -1,6 +1,5 @@
 # Brand (§ 82 - § 158)
 
-
 ## Se alle vejledninger om Brand (§ 82 - § 158)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar)
@@ -27,17 +26,13 @@
 
 ## Bilag 12 - Præ-accepterede løsninger - Brandtekniske installationer
 
-
 ### Bilag 12 til Bygningsreglementets vejledning til kap. 5 -- Brand
 
 [Åbn Bilag 12: Præ-accepterede løsninger for brandtekniske installationer og håndslukningsudstyr](../../../../../media/uxep2y1h/bilag-12-ver-11-20210308-a.pdf "Bilag 12 Ver 11 20210308")
 
 Version 1.1 (08.03.2021)
 
- 
-
 [Åbn Bilag 12: Præ-accepterede løsninger for brandtekniske installationer og håndslukningsudstyr med ændringsmarkeringer](../../../../../media/3ifnaybn/bilag-12-ver-11-med-ndringsmarkeringer-20210308-a.pdf "Bilag 12 ver 11 med ndringsmarkeringer 20210308")
 
 Version 1.1 (08.03.2021)
 
-\

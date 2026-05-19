@@ -1,6 +1,5 @@
 # Konstruktioner (§ 340 - § 357)
 
-
 ## Se alle vejledninger om Konstruktioner (§ 340 - § 357)
 
 - [Bygningsreglementets vejledning om konstruktioner](../)
@@ -9,9 +8,7 @@
 
 ## Bygningsreglementets vejledning om konstruktioner
 
-
 ### Rettelsesblad til Bygningsreglementets vejledning om konstruktioner omhandlende bæreevnevurdering af eksisterende konstruktioner (24.01.2024)
-
 
 ### Forord
 
@@ -31,7 +28,7 @@
 
 ### Telte, teleskopstande, demonterbare tilskuertribuner og lignende transportable konstruktioner
 
-Det fremgår af bygningsreglementet 2018, [kap. 15](/tekniske-bestemmelser/15/), [§ 353](/tekniske-bestemmelser/15/krav/353/), at telte og lignende transportable konstruktioner skal dimensioneres i overensstemmelse med *DS/EN 13782, Midlertidige konstruktioner -- Telte -- Sikkerhed med DS/EN 13782 DK NA, *eller på en måde, som sikrer, at de relevante bestemmelser i [§§ 344-351 e](/tekniske-bestemmelser/15/krav/344/)r opfyldt. Endvidere fremgår det af bygningsreglementet, [kap. 15](/tekniske-bestemmelser/15/), §355 at\
+Det fremgår af bygningsreglementet 2018, [kap. 15](/tekniske-bestemmelser/15/), [§ 353](/tekniske-bestemmelser/15/krav/353/), at telte og lignende transportable konstruktioner skal dimensioneres i overensstemmelse med *DS/EN 13782, Midlertidige konstruktioner -- Telte -- Sikkerhed med DS/EN 13782 DK NA, *eller på en måde, som sikrer, at de relevante bestemmelser i [§§ 344-351 e](/tekniske-bestemmelser/15/krav/344/)r opfyldt. Endvidere fremgår det af bygningsreglementet, [kap. 15](/tekniske-bestemmelser/15/), §355 at
 
 Teleskopstande og demonterbare tilskuertribuner skal dimensioneres i overensstemmelse med henholdsvis *DS/EN 13200-5* og *13200-6* med *DS/EN 13200-5 DK NA* og *DS/EN 13200-6 DK NA*, eller på en måde, som sikrer, at de relevante bestemmelser i [§§ 344-351 e](/tekniske-bestemmelser/15/krav/344/)r opfyldt.
 
@@ -63,4 +60,3 @@ For hjælp til forståelsen af de særlige forhold, der ofte knytter sig til dim
 
 ### Tagbrønde og tagnedløb
 
-\

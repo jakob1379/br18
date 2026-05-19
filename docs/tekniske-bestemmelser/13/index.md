@@ -10,11 +10,11 @@ title: Forureninger (§ 329 - § 333)
 
 ## § 329 - § 330 Forureninger {#s329-330}
 
-### § 329 {#p329}
+### § 329 {#p329 #paragraf-329}
 
 Forureninger fra byggematerialer må ikke påvirke bygningers indeklima, så der opstår risiko for personers sundhed eller komfortmæssige gener.
 
-### § 330 {#p330}
+### § 330 {#p330 #paragraf-330}
 
 Byggematerialer må ikke afgive gasser, partikler, ioniserende stråling eller andet, der kan give anledning til sundhedsmæssigt utilfredsstillende indeklimaforhold. Byggematerialer omfatter også materialer, der anvendes som underlag for bygningen.
 
@@ -24,17 +24,17 @@ Byggematerialer må ikke afgive gasser, partikler, ioniserende stråling eller a
 
 ## § 331 - § 333 Forureninger fra undergrunden {#s331-333}
 
-### § 331 {#p331}
+### § 331 {#p331 #paragraf-331}
 
 Forureninger fra undergrunden må ikke påvirke bygningers indeklima, så der opstår risiko for personers sundhed eller komfortmæssige gener.
 
-### § 332 {#p332}
+### § 332 {#p332 #paragraf-332}
 
 Indstrømning af radon til indeklimaet skal begrænses ved at gøre bygningskonstruktionen mod undergrunden tilstrækkeligt lufttæt eller ved at benytte andre tilsvarende effektive foranstaltninger.
 
 *Stk. 2.* Bygningen skal udføres, så det sikres, at radonindholdet i indeluften vurderet som en estimeret årsmiddelværdi ikke overstiger 100 Bq/m³.
 
-### § 333 {#p333}
+### § 333 {#p333 #paragraf-333}
 
 Bygninger, som opføres på grunde med forurening fra eksempelvis tidligere lossepladser, gasværker eller forurenede industrigrunde, skal udføres, så forureningen ikke giver anledning til sundheds- eller sikkerhedsmæssigt utilfredsstillende indeklima.
 

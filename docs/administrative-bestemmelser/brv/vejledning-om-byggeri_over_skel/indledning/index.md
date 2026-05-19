@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -23,7 +26,6 @@
 
 ## Vejledning om byggeri over skel
 
-
 ### Indledning
 
 *Vejledningen om byggeri over skel er revideret af Trafik-, Bygge- og Boligstyrelsen i juli 2018.*
@@ -32,13 +34,9 @@
 
 Det er kommunalbestyrelsen, som er bygningsmyndighed, herefter omtalt som kommunen.
 
-
 ### I hvilke situationer der kan forekomme byggeri over skel?
-
 
 ### Lovliggørelsessager
 
-
 ### @@PROTECTED_19@@
 
-\

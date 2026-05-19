@@ -1,6 +1,5 @@
 # Andre vejledninger
 
-
 ## Se alle vejledninger om Andre vejledninger
 
 - [Vejledning om byggelovens § 6 D](../vejledning-om-byggelovens-6-d)
@@ -16,7 +15,6 @@
 
 ## Vejledning om administration af skorstensfejerordningen
 
-
 ### Skorstensfejerbekendtgørelsen
 
 Skorstensfejerordningen er reguleret i skorstensfejerbekendtgørelsen, (bekendtgørelse nr. 541 af 22/05/2017 og ændringsbekendtgørelse nr. 1245 af 17. oktober 2023 om brandværnsforanstaltninger for aftrækssystemer og fyringsanlæg). Skorstensfejerbekendtgørelsen er udstedt med hjemmel i byggelovens § 15.
@@ -24,7 +22,6 @@ Skorstensfejerordningen er reguleret i skorstensfejerbekendtgørelsen, (bekendtg
 De faglige krav, som stilles til skorstensfejere, fremgår tillige af bekendtgørelsen, men behandles ikke i denne vejledning.
 
 Vejledningen om administration af skorstensfejerordningen er senest revideret januar 2024.
-
 
 ### Kommunalbestyrelsens pligt til at sørge for, at skorstensfejerarbejde tilbydes i kommunen
 
@@ -34,23 +31,19 @@ Kommunen kan for eksempel på sin hjemmeside angive kontaktoplysninger på en el
 
  
 
-
 ### Frit valg af skorstensfejer
 
 Borgerne har frit valg i forhold til, hvilken skorstensfejer, de vil benytte. Der er ikke efter bekendtgørelsen krav om, at kommunens borgere skal anvende den skorstensfejer, som kommunen har sørget for, eller at skorstensfejeren skal have et samarbejde med kommunen for at udføre lovpligtig skorstensfejning i den pågældende kommune.
 
-
 ### Kommunalbestyrelsen som bygningsmyndighed
 
 Kommunalbestyrelsen er bygningsmyndighed i medfør af byggelovens § 16 C . Kommunalbestyrelsen har pligt til at søge et ulovligt forhold lovliggjort, når kommunalbestyrelsen bliver opmærksom på forholdet, og forholdet ikke er af ganske underordnet betydning.
-
 
 ### Ansvaret for at ejendommen er lovlig
 
 Det fremgår af byggelovens § 17, stk. 1, at det er bygningsejeren, der er ansvarlig for, at dennes bygning er i lovlig stand. Eksisterer der et ulovligt forhold, påhviler det således bygningsejeren at berigtige det ulovlige forhold.
 
 Det er således bygningsejerens ansvar, at reglerne i skorstensfejerbekendtgørelsen, herunder bestemmelserne om fejningsterminer, overholdes, uanset om bygningsejeren benytter en skorstensfejer, som kommunen har sørget for, eller om bygningsejeren vælger at indgå aftale med en anden skorstensfejer..
-
 
 ### Gebyr
 
@@ -60,4 +53,3 @@ Kommunalbestyrelsen fastsætter beregningsmåden for gebyrerne, gebyrstørrelsen
 
 Såfremt der er betalt for skorstensfejerarbejde, som ikke udføres som aftalt, og der i den forbindelse opstår krav på tilbagebetaling, kan bygningsejer rette kravet mod den, der er betalt til. Det kan være kommunalbestyrelsen, hvis der er opkrævet gebyr, og skorstensfejeren, hvis der er betalt direkte til skorstensfejeren.
 
-\

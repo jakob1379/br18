@@ -9,14 +9,14 @@ hide:
 
 ## § 459 - § 460 Beskrivelse af kontrolsystem for vand- og afløbsinstallationer {#s459-460}
 
-### § 459 {#p459}
+### § 459 {#p459 #paragraf-459}
 
 For fabriksfremstillede produkter, som indgår i vand- og afløbsinstallationer, og som endnu ikke er blevet omfattet af en harmoniseret standard under byggevareforordningen eller en europæisk teknisk vurdering, kræves i forhold til de mekaniske/fysiske egenskaber følgende:
 
 1. En førstegangsafprøvning, der baserer sig på de egenskaber, der som følge af kravene i bygningsreglementet er relevante at deklarere i Danmark.
 2. Et produktionskontrolsystem, der sikrer, at produkternes deklarerede ydeevne opretholdes. Det er ikke et krav, at produktionskontrollen skal certificeres.
 
-### § 460 {#p460}
+### § 460 {#p460 #paragraf-460}
 
 Fabrikanten skal have sin egen produktionskontrolordning. En produktionskontrolordning er en intern løbende kontrol, der udføres af fabrikanten. Denne kontrol skal systematisk dokumentere, at produkterne opretholder de deklarerede egenskaber.
 
@@ -26,7 +26,7 @@ Fabrikanten skal have sin egen produktionskontrolordning. En produktionskontrolo
 
 ## § 461 - § 463 Krav til produktionskontrollen {#s461-463}
 
-### § 461 {#p461}
+### § 461 {#p461 #paragraf-461}
 
 Fabrikanten er ansvarlig for at tilrettelægge fabrikkens produktionskontrolordning. Opgaver og ansvar i ordningen skal dokumenteres, og denne dokumentation skal holdes vedlige. Fabrikanten kan delegere kompetencen til en person, der har den nødvendige myndighed til at:
 
@@ -36,7 +36,7 @@ Fabrikanten er ansvarlig for at tilrettelægge fabrikkens produktionskontrolordn
 
 *Stk. 2.* Fabrikanten skal beskrive kontrolordningen udførligt og holde denne dokumentation vedlige. Fabrikantens dokumentation og fabrikkens kontrolsystem skal tilpasses produktet og fabrikationsprocessen.
 
-### § 462 {#p462}
+### § 462 {#p462 #paragraf-462}
 
 Kontrolsystemernes pålidelighed skal fastsættes i forhold til produktets overensstemmelse, dvs.:
 
@@ -45,7 +45,7 @@ Kontrolsystemernes pålidelighed skal fastsættes i forhold til produktets overe
 3. Beskrivelse af opgaver, ansvar og resultater.
 4. Resultaterne skal bruges til at rette afvigelser, udbedre virkningen af afvigelser og revidere produktionskontrolsystemet for at fjerne grunden til manglende overensstemmelse med den tekniske specifikation, hvis det viser sig nødvendigt.
 
-### § 463 {#p463}
+### § 463 {#p463 #paragraf-463}
 
 Kontrolforanstaltningerne omfatter et eller flere af følgende tiltag:
 
@@ -57,7 +57,7 @@ Kontrolforanstaltningerne omfatter et eller flere af følgende tiltag:
 
 ## § 464 Verifikation {#s464}
 
-### § 464 {#p464}
+### § 464 {#p464 #paragraf-464}
 
 Fabrikanten skal enten selv have måleudstyr og personale eller have adgang til det for at udføre de nødvendige verifikationer og prøvninger.
 
@@ -67,31 +67,31 @@ Fabrikanten skal enten selv have måleudstyr og personale eller have adgang til 
 
 ## § 465 - § 466 Prøvning {#s465-466}
 
-### § 465 {#p465}
+### § 465 {#p465 #paragraf-465}
 
 Prøvning skal finde sted efter en fastlagt plan og gennemføres i overensstemmelse med de metoder, der er anført i den tekniske specifikation. Prøvningsmetoderne skal i almindelighed være direkte metoder.
 
-### § 466 {#p466}
+### § 466 {#p466 #paragraf-466}
 
 Fabrikanten skal oprette og vedligeholde registreringer, der viser, at prøvning af produktet har fundet sted. Disse registreringer skal vise, at produktet har opfyldt de fastlagte acceptkriterier.
 
 ## § 467 - § 469 Sikring af overensstemmelse {#s467-469}
 
-### § 467 {#p467}
+### § 467 {#p467 #paragraf-467}
 
 Hvis kontrol- eller prøvningsresultater viser, at produktet ikke lever op til kravene, skal fabrikanten straks gribe ind med de nødvendige foranstaltninger for at bringe produktionen i orden.
 
-### § 468 {#p468}
+### § 468 {#p468 #paragraf-468}
 
 Produkter og serier af produkter, som ikke er i overensstemmelse med den fastlagte kvalitet, skal holdes adskilt, så de kan identificeres. Når fejlen er rettet, skal prøvning og verifikation gentages.
 
-### § 469 {#p469}
+### § 469 {#p469 #paragraf-469}
 
 Hvis produktet er leveret, før resultaterne kendes, skal fabrikanten have tilrettelagt en procedure, der sikrer, at kunderne bliver underrettet på en sådan måde, at de nødvendige konsekvenser kan tages.
 
 ## § 470 Fabrikantens register {#s470}
 
-### § 470 {#p470}
+### § 470 {#p470 #paragraf-470}
 
 Fabrikkens egen produktionskontrol skal være veldokumenteret hos fabrikanten. Beskrivelse af produktet, dato for fabrikationen, anvendt prøvningsmetode, prøvningsresultater og acceptkriterier skal være registreret med en påtegning af den person, der som kontrolansvarlig har forestået verifikationen.
 
@@ -99,11 +99,11 @@ Fabrikkens egen produktionskontrol skal være veldokumenteret hos fabrikanten. B
 
 ## § 471 - § 472 Sporbarhed {#s471-472}
 
-### § 471 {#p471}
+### § 471 {#p471 #paragraf-471}
 
 Det er fabrikantens ansvar at opretholde en komplet fortegnelse over de enkelte produkter eller serier af produkter med produktionsdetaljer og egenskaber. Fabrikanten skal også registrere, hvem produkterne først er blevet solgt til.
 
-### § 472 {#p472}
+### § 472 {#p472 #paragraf-472}
 
 Individuelle produkter eller serier af produkter skal fuldt ud kunne identificeres og spores i kraft af disse oplysninger. I visse tilfælde, f.eks. for råvarer, er det ikke altid muligt.
 

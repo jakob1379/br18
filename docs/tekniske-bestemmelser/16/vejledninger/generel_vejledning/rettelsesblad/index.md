@@ -1,6 +1,5 @@
 # Legepladser mv. (§ 358 - § 367)
 
-
 ## Se alle vejledninger om Legepladser mv. (§ 358 - § 367)
 
 -
@@ -8,12 +7,9 @@
 
 ## Bygningsreglementets vejledning om legepladser mv.
 
-
 ### Rettelsesblad til vejledning om legepladser (1. januar 2025)
 
 Der er udgivet et rettelsesblad den 1. januar 2025.
-
- 
 
 [Åbn rettelsesblad til vejledning om legepladser mv.](../../../../../media/twznawnd/rettelsesblad-til-bygningsreglementets-vejledning-om-legepladser-mv.pdf "Åbn rettelsesblad til vejledning om legepladser mv.")
 
@@ -61,4 +57,3 @@ Der er udgivet et rettelsesblad den 1. januar 2025.
 
 ### Drift, kontrol og vedligehold
 
-\

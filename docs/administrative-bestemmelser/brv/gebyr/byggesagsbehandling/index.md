@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -39,19 +42,27 @@
 
 ### Kommunalbestyrelsens byggesagsbehandling efter BR18
 
-Med bygningsreglement (BR18^1^) er den tekniske byggesagsbehandling afskaffet. I stedet er der indført en certificeringsordning^2^.\
-Med BR18 er kommunens opgave med at foretage teknisk byggesagsbehandling ændret pr. 1. januar 2018. \
-Ændringen betyder, at kommunalbestyrelsen ikke længere skal foretage en vurdering af de tekniske løsninger, der er valgt i byggeriet i forbindelse med byggesagsbehandlingen. For brand- og konstruktionsforhold indføres krav om, at certificerede statikere og brandrådgivere skal dokumentere overholdelse af bygningsreglementets tekniske bestemmelser i det komplicerede byggeri.\
+Med bygningsreglement (BR18^1^) er den tekniske byggesagsbehandling afskaffet. I stedet er der indført en certificeringsordning^2^.
 
-For de øvrige tekniske emner i bygningsreglementet, skal kommunalbestyrelsen ikke foretage teknisk byggesagsbehandling pr. 1. januar 2018^3^. Bygningsreglementets administrative bestemmelser er ændret på denne baggrund. \
-Kommunalbestyrelsens rolle ved ansøgning om byggetilladelse, fremgår af [§ 36](/administrative-bestemmelser/krav/35_38/). Her fremgår det, at kommunalbestyrelsen skal foretage en vurdering af, om den dokumentation, der er indsendt efter 10 og [§ 11](/administrative-bestemmelser/krav/), er i overensstemmelse med de for byggesagen relevante krav. \
-Når kommunalbestyrelsen som bygningsmyndighed modtager en ansøgning om byggetilladelse, skal kommunalbestyrelsen bl.a. foretage en vurdering af, om byggeriet er indplaceret i den korrekte brand- og konstruktionsklasse. Denne del er således en del af kommunens byggesagsbehandling, som der kan opkræves gebyr for. \
-Byggearbejder, der kræver byggetilladelse, skal færdigmeldes til kommunalbestyrelsen^4^ ligesom at byggearbejder, der kræver byggetilladelse, ikke må tages i brug uden kommunalbestyrelsens ibrugtagningstilladelse^5^. Inden kommunalbestyrelsen kan give tilladelse til at tage byggeriet i brug, skal den kontrollere, at ansøger har indsendt den dokumentation for overholdelse af de krav i bygningsreglementet, som byggearbejdet er omfattet af samt krav til dokumentation stillet ved byggetilladelsen. \
-Det betyder, at den tid kommunalbestyrelsen bruger på afslutningen af en byggesag efter [§ 43](/administrative-bestemmelser/krav/40_46/), som nævnt oven over, kan der også opkræves byggesagsgebyr for.  \
-Kommunalbestyrelsen kan fortsat opkræve byggesagsgebyr, hvor en ansøgning om byggetilladelse trækkes tilbage, hvor der meddeles afslag på ansøgningen samt ved kommunalbestyrelsens behandling af lovliggørelsessager og dispensationsansøgninger ligesom, at der kan opkræves gebyr for kommunens byggesagsbehandling efter [kap. 8](/tekniske-bestemmelser/08/) og [kap. 20](/tekniske-bestemmelser/20/). \
-For yderligere vejledning om kommunens byggesagsbehandling henvises til bygningsreglementets vejledning om byggesagsbehandling efter BR18. \
-Der gøres opmærksom på overgangsordningen for teknisk byggesagsbehandling ved kommunalbestyrelsen, hvor det vil være muligt at vælge teknisk byggesagsbehandling af konstruktions- og/eller brandforhold ved kommunalbestyrelsen frem til den 31. december 2019^6^.\
-\
+Med BR18 er kommunens opgave med at foretage teknisk byggesagsbehandling ændret pr. 1. januar 2018.
+
+Ændringen betyder, at kommunalbestyrelsen ikke længere skal foretage en vurdering af de tekniske løsninger, der er valgt i byggeriet i forbindelse med byggesagsbehandlingen. For brand- og konstruktionsforhold indføres krav om, at certificerede statikere og brandrådgivere skal dokumentere overholdelse af bygningsreglementets tekniske bestemmelser i det komplicerede byggeri.
+
+For de øvrige tekniske emner i bygningsreglementet, skal kommunalbestyrelsen ikke foretage teknisk byggesagsbehandling pr. 1. januar 2018^3^. Bygningsreglementets administrative bestemmelser er ændret på denne baggrund.
+
+Kommunalbestyrelsens rolle ved ansøgning om byggetilladelse, fremgår af [§ 36](/administrative-bestemmelser/krav/35_38/). Her fremgår det, at kommunalbestyrelsen skal foretage en vurdering af, om den dokumentation, der er indsendt efter 10 og [§ 11](/administrative-bestemmelser/krav/), er i overensstemmelse med de for byggesagen relevante krav.
+
+Når kommunalbestyrelsen som bygningsmyndighed modtager en ansøgning om byggetilladelse, skal kommunalbestyrelsen bl.a. foretage en vurdering af, om byggeriet er indplaceret i den korrekte brand- og konstruktionsklasse. Denne del er således en del af kommunens byggesagsbehandling, som der kan opkræves gebyr for.
+
+Byggearbejder, der kræver byggetilladelse, skal færdigmeldes til kommunalbestyrelsen^4^ ligesom at byggearbejder, der kræver byggetilladelse, ikke må tages i brug uden kommunalbestyrelsens ibrugtagningstilladelse^5^. Inden kommunalbestyrelsen kan give tilladelse til at tage byggeriet i brug, skal den kontrollere, at ansøger har indsendt den dokumentation for overholdelse af de krav i bygningsreglementet, som byggearbejdet er omfattet af samt krav til dokumentation stillet ved byggetilladelsen.
+
+Det betyder, at den tid kommunalbestyrelsen bruger på afslutningen af en byggesag efter [§ 43](/administrative-bestemmelser/krav/40_46/), som nævnt oven over, kan der også opkræves byggesagsgebyr for.
+
+Kommunalbestyrelsen kan fortsat opkræve byggesagsgebyr, hvor en ansøgning om byggetilladelse trækkes tilbage, hvor der meddeles afslag på ansøgningen samt ved kommunalbestyrelsens behandling af lovliggørelsessager og dispensationsansøgninger ligesom, at der kan opkræves gebyr for kommunens byggesagsbehandling efter [kap. 8](/tekniske-bestemmelser/08/) og [kap. 20](/tekniske-bestemmelser/20/).
+
+For yderligere vejledning om kommunens byggesagsbehandling henvises til bygningsreglementets vejledning om byggesagsbehandling efter BR18.
+
+Der gøres opmærksom på overgangsordningen for teknisk byggesagsbehandling ved kommunalbestyrelsen, hvor det vil være muligt at vælge teknisk byggesagsbehandling af konstruktions- og/eller brandforhold ved kommunalbestyrelsen frem til den 31. december 2019^6^.
 
 1. Bek nr. 1615 af den 13. december 2017
 
@@ -109,4 +120,3 @@ Der gøres opmærksom på overgangsordningen for teknisk byggesagsbehandling ved
 
 ### Intern instruks i kommunen
 
-\

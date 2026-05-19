@@ -1,6 +1,5 @@
 # Brand (§ 82 - § 158)
 
-
 ## Se alle vejledninger om Brand (§ 82 - § 158)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar)
@@ -27,17 +26,13 @@
 
 ## Bilag 7 - Præ-accepterede løsninger - Bygningsafsnit, hvor personer ikke kan bringe sig i sikkerhed ved egen hjælp
 
-
 ### Bilag 7 til Bygningsreglementets vejledning til kap. 5 -- Brand
 
 [Åbn Bilag 7: Præ-accepterede løsninger for bygningsafsnit, hvor personer ikke kan bringe sig i sikkerhed ved egen hjælp](../../../../../media/xk2io24g/bilag-7-anvendelseskategori-6-ver-11-20220111-a.pdf "Bilag 7  Anvendelseskategori 6 ver 11 20220111")
 
 Version 1.1 - 2022.01.11
 
- 
-
 [Åbn Bilag 7: Præ-accepterede løsninger for brandsikring af bygningsafsnit, hvor personer ikke kan bringe sig i sikkerhed ved egen hjælp](../../../../../media/l31avfbw/bilag-7-praeaccepterede-loeasninger-bygningsagsnit-hvor-personer-ikke-kan-bringe-sig-i-sikkerhed-ved-egen-hjaelp-211218-a.pdf)
 
 Version 2018.12.21
 
-\

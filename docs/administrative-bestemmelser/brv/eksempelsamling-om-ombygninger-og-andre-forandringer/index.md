@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../spoergsmaal-og-svar)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../spoergsmaal-og-svar-ve-anlaeg)
@@ -23,7 +26,6 @@
 
 ## Eksempelsamling om ombygninger og andre forandringer - For etageboligbyggeri samt enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse
 
-
 ### Kolofon
 
 **Eksempelsamling om ombygninger og andre forandringer - For etageboligbyggeri samt enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse.**   Opdateret januar 2021.
@@ -36,13 +38,9 @@ For de ombygninger og forandringer, der kræver byggetilladelse, angives det ogs
 
 For mere generel vejledning om ombygninger og andre forandringer henvises der til *[vejledning om ombygning og brug af certificerede rådgivere i relation til ændring af BR18 d. 10. marts 2020.](../../../Administrative-bestemmelser/BRV/Vejledning-om-ombygning-og-brug-af-certificerede-raadgivere)*
 
-
-
 ### Generelt {#21495b6f-78b7-4e10-9743-4c47b41ae9d4}
 
 En ombygning indebærer som udgangspunkt, at der sker ændringer inden for de eksisterende rammer for byggeriet som f.eks. udnyttelse af eksisterende loft, ændring af anvendelsen af de enkelte rum (f.eks. fra opholdsrum til køkken), sammenlægning af boligenheder og rum samt etablering af rum mv. Som udgangspunkt øger ombygninger ikke det samlede etageareal. Denne vejledning omfatter dog også andre forandringer end ombygninger, der som udgangspunkt godt kan udvide byggeriets etageareal, højde og volumen.
-
-
 
 ### Bygningsreglementets ombygningsbestemmelser {#298c7843-a0dd-4973-be74-472322ebef49}
 
@@ -54,8 +52,6 @@ Det fremgår f.eks. af BR18, § 5, stk. 1, nr. 3, at ombygninger og andre forand
 
 \- ikke medfører en væsentlig anvendelsesændring.
 
- 
-
 Derudover fremgår det af BR18, § 5, stk. 1, nr. 4, at ombygninger og andre forandringer af bl.a. etageboligbyggeri kan opføres uden ansøgning om byggetilladelse såfremt de:
 
 \- ikke ændrer i de bærende konstruktioners virkemåde,
@@ -66,19 +62,13 @@ Derudover fremgår det af BR18, § 5, stk. 1, nr. 4, at ombygninger og andre for
 
 \- ikke medfører en væsentlig anvendelsesændring.
 
- 
-
 Ved ombygninger og andre forandringer, der gør, at byggeriet ikke overholder byggeretten i BR18, kapitel 8, skal kommunen foretage en helhedsvurdering af byggeriet. I så fald kræver ombygningen eller forandringen under alle omstændigheder byggetilladelse. Byggeretten er nærmere beskrevet i [*Vejledning om bygningsreglementets kapitel 8 - byggeret og helhedsvurdering, kapitel 20 - ubebyggede arealer ved bebyggelse og kapitel 23 - beregningsregler.*](../../../media/5z1m5wzd/vejledning-om-br18-kap-8-byggeret-og-helhedsvurdering-beregningsreglerne-kap-23-1720.pdf)
 
 Ombygninger og andre forandringer kan også ændre i forhold, der er reguleret af en lokalplan eller lignende som kommunen først skal godkende.
 
 I nedenstående afsnit er de forskellige elementer i bygningsreglementets ombygningsbestemmelser kort beskrevet.
 
- 
-
 ### 1.1.1 Ændring af de bærende konstruktioners virkemåde
-
- 
 
 Ombygninger og andre forandringer omfattet af BR18, § 5, stk. 1 nr. 4, må ikke medføre ændringer af de bærende konstruktioners virkemåde eller indføre nye bærende konstruktioner. Hvordan dette vurderes er nærmere beskrevet i bygningsreglementets *[vejledning om ombygninger og brug af certificerede rådgivere.](../../../Administrative-bestemmelser/BRV/Vejledning-om-ombygning-og-brug-af-certificerede-raadgivere)*
 
@@ -86,21 +76,13 @@ Vær opmærksom på, at nyt etagebyggeri kan være mere kompliceret end ældre e
 
 Ved tvivl kan det være en fordel som bygningsejer at involvere en håndværker eller anden rådgiver, der kan vurdere de bærende konstruktioners virkemåde.
 
- 
-
 ### 1.1.2 Ændring af forudsætningerne for de brandmæssige forhold
-
- 
 
 Ombygninger og andre forandringer omfattet af BR18, § 5, stk. 1 nr. 4, må ikke medføre ændring af forudsætningerne for de brandmæssige forhold. Hvordan dette vurderes er nærmere beskrevet i bygningsreglementets *[vejledning om ombygninger og brug af certificerede rådgivere.](../../../Administrative-bestemmelser/BRV/Vejledning-om-ombygning-og-brug-af-certificerede-raadgivere)*
 
 Ved tvivl kan det være en fordel som bygningsejer at involvere en håndværker eller anden rådgiver, der kan vurdere forudsætningerne for de brandmæssige forhold.
 
- 
-
 ### 1.1.3 Udvidelse af etagearealet
-
- 
 
 Ombygninger og andre forandringer omfattet af BR18, § 5, stk. 1 nr. 3 og 4, må ikke medføre en udvidelse af etagearealet. Etagearealet er her det samlede etageareal, der i denne forbindelse forstås som det areal, der opstår ved, at arealet af samtlige etager og al anden bebyggelse på grunden sammenlægges. Dette omfatter bl.a. arealet for kældre, åbne altaner, åbne tagterrasser mv. Det samlede etageareal er ikke nødvendigvis det samme som det etageareal, der indgår i beregningen af bebyggelsesprocenten, hvor der her er mulighed for en række fradrag, jf. BR18, § 455. Hvordan det samlede etageareal beregnes, er nærmere beskrevet i bygningsreglementets *[vejledning til kapitel 8 - byggeret og helhedsvurdering, kapitel 20 -- ubebyggede arealer ved bebyggelse og kapitel 23 -- beregningsregler.](../../../Tekniske-bestemmelser/08/Vejledninger/Byggeret_helhedsvurdering_ubebyggede_beregningsregler)*
 
@@ -108,11 +90,7 @@ Ombygninger og andre forandringer omfattet af BR18, § 5, stk. 1 nr. 3 og 4, må
 
 ### 1.1.4 Væsentlig anvendelsesændring
 
- 
-
 Ombygninger og andre forandringer omfattet af BR18, § 5, stk. 1 nr. 3 og 4, må ikke medføre en væsentlig anvendelsesændring. En væsentlig anvendelsesændring er f.eks. en ændring i anvendelsen fra bolig til erhverv. Væsentlige anvendelsesændringer er nærmere beskrevet i bygningsreglementets *[vejledning om byggesagsbehandling efter BR18](../../../Administrative-bestemmelser/BRV/Vejledning-om-byggesagsbehandling-efter-BR18)*.
-
-
 
 ### Krav til konstruktions- og brandforhold {#c67e186d-c5c0-429e-820b-7176d3a9d547}
 
@@ -121,8 +99,6 @@ Ombygninger og andre forandringer, der er omfattet af BR18, er ligeledes omfatte
 I forhold til konstruktionsforhold, er det ved ombygninger og andre forandringer kun de konstruktioner, der berøres af byggearbejdet, der skal følge bestemmelserne i det nugældende bygningsreglement. Øvrige eksisterende konstruktioner, der ikke berøres, kan fortsat benyttes uændret i overensstemmelse med reglerne på ansøgningstidspunktet for byggetilladelse eller senere relevante byggetilladelser. Dette er nærmere beskrevet i bygningsreglementets *[vejledning til kapitel 15 -- konstruktioner](../../../Tekniske-bestemmelser/15/Vejledninger/Generel_vejledning)*.
 
 I forhold til brandforhold, er det ved ombygninger og andre forandringer kun byggearbejdet i den pågældende brandmæssige enhed samt flugtveje derfra, der skal følge bestemmelserne i det nugældende bygningsreglement og beskrivelserne i hertil hørende vejledninger. Ved ombygninger kan eksisterende brandmæssige forhold, der ikke direkte influeres, fortsat benyttes uændret i overensstemmelse med reglerne på opførelsestidspunktet eller senere relevante byggetilladelser. Dette er nærmere beskrevet i bygningsreglements *[vejledning til kapitel 5 -- brand, kapitel 1.](../../../Tekniske-bestemmelser/05/Vejledninger/Generel_Brand)*
-
-
 
 ### Dokumentation, herunder indplacering i konstruktions- og brandklasse {#c14359ca-3376-40c9-ac8d-e91e38a456d5}
 
@@ -136,13 +112,11 @@ Det er relevant at indplacere en ombygning eller forandring i en brandklasse, hv
 
 Såfremt det er relevant at indplacere en ombygning eller anden forandring i et etageboligbyggeri, skal den altid indplaceres i konstruktionsklasse 2-4 og/eller brandklasse 2-4, fordi det pågældende konstruktionsafsnit eller bygningsafsnit i forvejen kan indplaceres i disse klasser. Dette betyder, at der altid skal tilknyttes en certificeret statiker og/eller brandrådgiver, såfremt det er relevant at indplacere en ombygning eller anden forandring i en konstruktionsklasse og/eller brandklasse.
 
-Såfremt det er relevant at indplacere en ombygning eller anden forandring i et enfamiliehus, dobbelthus, rækkehus og sommerhus, skal den oftest indplaceres i konstruktionsklasse 1 og/eller brandklasse 1. Dette kræver dog, at det pågældende konstruktionsafsnit og/eller bygningsafsnit kan indplaceres i konstruktionsklasse 1 og/eller brandklasse 1. Konstruktionsklasser og brandklasser er nærmere beskrevet i bygningsreglementets *[vejledning om brug af brand og konstruktionsklasser](../../../Administrative-bestemmelser/BRV/Vejledning-om-brug-af-brand-og-konstruktionsklasser)*. 
+Såfremt det er relevant at indplacere en ombygning eller anden forandring i et enfamiliehus, dobbelthus, rækkehus og sommerhus, skal den oftest indplaceres i konstruktionsklasse 1 og/eller brandklasse 1. Dette kræver dog, at det pågældende konstruktionsafsnit og/eller bygningsafsnit kan indplaceres i konstruktionsklasse 1 og/eller brandklasse 1. Konstruktionsklasser og brandklasser er nærmere beskrevet i bygningsreglementets *[vejledning om brug af brand og konstruktionsklasser](../../../Administrative-bestemmelser/BRV/Vejledning-om-brug-af-brand-og-konstruktionsklasser)*.
 
 For ombygninger og forandringer, hvor der kræves anvendt certificeret statiker, men ikke kræves anvendt certificeret brandrådgiver, fastligger certificeret statiker selv funktionskravet/bæreevnekravet til bærende bygningsdele iht. bestemmelserne på opførselstidspunktet.
 
 Hvis ombygningen kan opføres uden byggetilladelse, skal den ikke indplaceres i en konstruktionsklasse eller brandklasse.
-
-
 
 ### Etageboligbyggeri - Eksempler på ombygninger og andre forandringer {#3bffc19b-782d-4144-8df2-a2f65378e944}
 
@@ -152,15 +126,11 @@ Ved eksemplerne der kræver byggetilladelse, angives det ligeledes om byggearbej
 
 Det enkelte byggearbejde skal altid vurderes konkret.
 
-
-
 ### Ombygninger og andre forandringer der kræver byggetilladelse {#a2f39fe8-9ddb-4b6e-94e7-969bfbdce576}
 
 Ved nogle af nedenstående eksempler er der tilknyttet specifikke forudsætninger for konstruktions- og/eller brandforhold, som skal være opfyldt for at eksemplerne kan benyttes.
 
 Udover de specifikke forudsætninger, forudsættes det generelt for de eksempler, der ikke skal indplaceres i en konstruktionsklasse og/eller brandklasse, at byggearbejdet ikke ændrer de bærende konstruktioners virkemåde og/eller forudsætningerne for de brandmæssige forhold på anden vis.
-
- 
 
 +--------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Tabel 1: Eksempler på ombygninger og andre forandringer i etageboligbyggeri der kræver byggetilladelse**                                                                                                                                                                                                                                                                                                                                                                                       |
@@ -220,16 +190,11 @@ Udover de specifikke forudsætninger, forudsættes det generelt for de eksempler
 | Udnyttelse af pulterrum i udnyttelig tagetage til beboelse.                                                        | Ja                                                                                            | Ja                                                                                       |                                                                                                                                                                                  |
 +--------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-\
-
-
 ### Ombygninger og andre forandringer der kan udføres uden ansøgning om byggetilladelse {#9561ac47-4b09-4b1c-87ed-1332e9e5dd07}
 
 Ved nogle af de nedenstående eksempler er der tilknyttet specifikke forudsætninger for konstruktions- og/eller brandforhold, som skal være opfyldt for at eksemplerne kan benyttes.
 
 Udover de specifikke forudsætninger, forudsættes det generelt for alle eksempler, at byggearbejde ikke ændrer de bærende konstruktioners virkemåde og/eller forudsætningerne for de brandmæssige forhold på anden vis. Det forudsættes yderligere, at byggearbejdet ikke udvider etagearealet, ændre anvendelsen væsentligt, eller ændre andre forhold, der medfører, at der skal ansøges om byggetilladelse.
-
- 
 
 +-------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
 | **Tabel 2: Eksempler på ombygninger og andre forandringer i etageboligbyggeri, der kan udføres uden ansøgning om byggetilladelse**                                                                                                        |
@@ -265,9 +230,6 @@ Udover de specifikke forudsætninger, forudsættes det generelt for alle eksempl
 | Nedlæggelse af lyskasser.                                                                             | Forudsætter bl.a., at lyskasserne ikke er påkrævet af brandmæssige årsager, f.eks. røgudluftning.                                 |
 +-------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
 
-\
-
-
 ### Enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse - Eksempler på ombygninger og andre forandringer {#0c0b0cd0-4953-4816-91f1-d2a02999a2a8}
 
 I nedenstående afsnit fremgår en række vejledende og ikke-udtømmende eksempler på ombygninger og andre forandringer i enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse. Eksemplerne er delt op i, hvorvidt de kræver byggetilladelse, eller kan udføres uden ansøgning om byggetilladelse.
@@ -276,15 +238,11 @@ Ved eksemplerne der kræver byggetilladelse, angives det ligeledes om byggearbej
 
 Det enkelte byggearbejde skal altid vurderes konkret.
 
-
-
 ### Ombygninger og andre forandringer der kræver byggetilladelse {#76275838-91af-4905-8352-8d2aef45e85b}
 
 Det forudsættes generelt for alle nedenstående eksempler, der ikke skal indplaceres i en konstruktionsklasse og/eller brandklasse, at byggearbejdet ikke ændrer de bærende konstruktioners virkemåde og/eller forudsætningerne for de brandmæssige forhold.
 
 Det forudsættes ydermere for de eksempler, der skal indplaceres i en konstruktionsklasse og brandklasse, at det pågældende konstruktionsafsnit og bygningsafsnit kan indplaceres i konstruktionsklasse 1 og brandklasse 1, således, at der ikke skal tilknyttes en certificeret statiker og brandrådgiver som angivet.
-
- 
 
 +------------------------------------------------------------------------------------------------+--------------------------------------------+------------------------------------+-------------------------------------------+------------------------------------------------+
 | **Tabel 3: Eksempler på ombygninger og andre forandringer i enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse der kræver byggetilladelse**                                                                                                                                  |
@@ -303,14 +261,9 @@ Det forudsættes ydermere for de eksempler, der skal indplaceres i en konstrukti
 |                                                                                                |                                            |                                    |                                           | \                                              |
 +------------------------------------------------------------------------------------------------+--------------------------------------------+------------------------------------+-------------------------------------------+------------------------------------------------+
 
-\
-
-
 ### Ombygninger og andre forandringer der kan udføres uden ansøgning om byggetilladelse {#9adc1b1f-315c-4069-97b9-35c305f352ac}
 
 Det forudsættes generelt for alle nedenstående eksempler, at byggearbejdet ikke udvider etagearealet, ændrer anvendelsen væsentligt, eller omfatter andre forhold der medfører, at der skal ansøges om byggetilladelse.
-
- 
 
 +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Tabel 4: Eksempler på ombygninger og andre forandringer i enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse, der kan udføres uden ansøgning om byggetilladelse**                                                                                                                                                                                                                                                                                                                                                |
@@ -358,5 +311,3 @@ Det forudsættes generelt for alle nedenstående eksempler, at byggearbejdet ikk
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-\
-\

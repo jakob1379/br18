@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -23,7 +26,6 @@
 
 ## Vejledning om udnyttelige tagetager
 
-
 ### Udnyttelige tagetager og bebyggelsesprocenten
 
 *Vejledningen er udarbejdet af Trafik-, Bygge- og Boligstyrelsen i juli 2018.*
@@ -34,13 +36,9 @@ Indtil 1. januar 1976 var det kun beboelsesrum og badeværelser samt adgangsveje
 
 ### Hvad er en udnyttelig tagetage?
 
-
 ### Hvilket areal medregnes i en udnyttelig tagetage?
-
 
 ### Fra udnyttelig til uudnyttelig tagetage
 
-
 ### Anvendelsen af den udnyttelige tagetage
 
-\

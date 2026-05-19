@@ -1,7 +1,10 @@
-# Administrative bestemmelser (§ 1 - § 47)
+# Administrative bestemmelser (§ 1 - §
 
+47)
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+
+47)
 
 - [Spørgsmål og svar](../spoergsmaal-og-svar)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../spoergsmaal-og-svar-ve-anlaeg)
@@ -23,14 +26,11 @@
 
 ## Vejledning om brug af brand og konstruktionsklasser
 
-
 ### Bygningsreglementets vejledning om indplacering i konstruktionsklasser
 
 ### [Se vejledning her](../../../Historisk/Version-13/Ovrige-bestemmelser/26/BRV/Indplacering-i-konstruktionsklasser){rel="noopener" target="_blank"}
-
 
 ### Bygningsreglementets vejledning om indplacering i brandklasser
 
 ### [Se vejledning her](../../../Historisk/Version-13/Ovrige-bestemmelser/27/BRV/Indplacering-i-brandklasser){rel="noopener" target="_blank"}
 
-\
