@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -33,4 +29,3 @@
 Find Bygningsreglementets vejledning om opstilling af transportable konstruktioner, herunder telte, tribuner, scener, messestande, portaler, tårne mm. her:
 
 [Bygningsreglementets vejledning om opstilling af transportable konstruktioner, herunder telte, tribuner, scener, messestande, portaler, tårne mm.](../../../../media/ft1d2jaf/120121-opdateret-vejledning-om-transportable-konstruktioner-a.pdf "120121 Opdateret vejledning om transportable konstruktioner")
-

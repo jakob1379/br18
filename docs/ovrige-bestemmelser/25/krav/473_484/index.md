@@ -26,13 +26,15 @@ Bygningers energibehov
 
 ​Anvisningen beskriver, hvordan man bruger beregningsprogrammet Be15 til beregning af bygningers energibehov. Programmet skal bruges, når man skal eftervise, at en bygning opfylder energibestemmelserne i bygningsreglementet. Anvisning og beregningsprogram henvender sig til rådgivende ingeniører, arkitekter, entreprenører, andre projekterende og udførende inden for byggeri samt til offentlige myndigheder.
 
-### Find SBi-Anvisning 213 på Statens Byggeforskningsinstituts (SBi) hjemmeside her [](https://sbi.dk/anvisninger/Pages/213-Bygningers-energibehov-4.aspx "SBi-Anvisning 213"){target="_blank"}
+### [Find SBi-Anvisning 213 på Statens Byggeforskningsinstituts (SBi) hjemmeside her](https://sbi.dk/anvisninger/Pages/213-Bygningers-energibehov-4.aspx "SBi-Anvisning 213"){target="_blank"}
 
 Anvisning og beregningsprogram er betalingsbelagt.
 
 ### § 476 {#paragraf-476}
 
-Bygninger, der er omfattet af §§ 474 eller 475, skal udføres, så det dimensionerende transmissionstab pr. m² etageareal ikke overstiger 11,0+6,0/E+300/A, hvor E er antallet af etager, og A er det opvarmede etageareal. Antal etager er et decimaltal, som udregnes som opvarmet etageareal divideret med bebygget areal. Bygninger med gennemsnitlig rumhøjde over 4,0 meter får et tillæg på 1,0 W/m² pr. meter gennemsnitlig rumhøjde over 4,0 meter. Opvarmet kælder, der ikke indgår i etagearealet, medregnes med 40 pct. i antal etager og det opvarmede etageareal. § 477
+Bygninger, der er omfattet af §§ 474 eller 475, skal udføres, så det dimensionerende transmissionstab pr. m² etageareal ikke overstiger 11,0+6,0/E+300/A, hvor E er antallet af etager, og A er det opvarmede etageareal. Antal etager er et decimaltal, som udregnes som opvarmet etageareal divideret med bebygget areal. Bygninger med gennemsnitlig rumhøjde over 4,0 meter får et tillæg på 1,0 W/m² pr. meter gennemsnitlig rumhøjde over 4,0 meter. Opvarmet kælder, der ikke indgår i etagearealet, medregnes med 40 pct. i antal etager og det opvarmede etageareal.
+
+### § 477 {#paragraf-477}
 
 (Ophævet).
 
@@ -48,7 +50,9 @@ Energibalancen (Eref) gennem vinduer og glasydervægge i opvarmningssæsonen m�
 
 ### § 479 {#paragraf-479}
 
-(Ophævet) § 480
+(Ophævet)
+
+### § 480 {#paragraf-480}
 
 (Ophævet).
 
@@ -77,4 +81,3 @@ For ventilationsanlæg med konstant luftydelse må det specifikke elforbrug til 
 *Stk. 2.* For anlæg med variabel luftydelse må det specifikke elforbrug til lufttransport ikke overstige 1.800 J/m³ udeluft ved maksimalt tryktab.
 
 *Stk. 3.* For ventilationsanlæg til etageboliger må det specifikke elforbrug til lufttransport ikke overstige 1.200 J/m³ udeluft ved grundluftsskiftet.
-

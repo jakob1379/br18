@@ -1,10 +1,6 @@
-# Adgangsforhold (§ 48 - §
+# Adgangsforhold (§ 48 - § 62)
 
-62)
-
-## Se alle vejledninger om Adgangsforhold (§ 48 - §
-
-62)
+## Se alle vejledninger om Adgangsforhold (§ 48 - § 62)
 
 - [Spørgsmål og svar om adgangsforhold](..)
 - [Vejledning til brugerbegreb](../../vejledning-til-brugerbegreb)
@@ -23,4 +19,3 @@ Er der ikke opsat værn skal der under hensyn til bygningens udformning og anven
 I erhvervsbyggerier eller boligbebyggelser kan man som bygherre overveje om det af sikkerhedsmæssige årsager er nødvendigt at opsætte håndlister i begge sider, eller om det er forsvarligt med den ene side.
 
 Kravet gælder udelukkende i fælles adgangsveje.
-

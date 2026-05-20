@@ -73,11 +73,11 @@
 +-----------+---------------------------------------------------------------------------------------------------------------------------+------------------+--------------+-----------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Bilag** | **Titel**                                                                                                                 | **1. udgivelse** | **Revision** | **Sider** | **Bemærkninger**                                                                                                                                                          |
 +-----------+---------------------------------------------------------------------------------------------------------------------------+------------------+--------------+-----------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 1         | Præ-accepterede løsninger - Enfamiliehuse                                                                                 | 30.04.2018       | \            | 24        | Erstattet af [bilag 1](/bilag/b1/bilag_1/)a og 1b\                                                                                                                                              |
+| 1         | Præ-accepterede løsninger - Enfamiliehuse                                                                                 | 30.04.2018       | \            | 24        | Erstattet af bilag 1a og 1b\                                                                                                                                              |
 |           |                                                                                                                           |                  |              |           |                                                                                                                                                                           |
 |           |                                                                                                                           | 07.01.2020       |              |           |                                                                                                                                                                           |
 +-----------+---------------------------------------------------------------------------------------------------------------------------+------------------+--------------+-----------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 1a        | [Bilag 1](/bilag/b1/bilag_1/)a -- præ-accepterede løsninger for fritliggende og sammenbyggede enfamiliehuse                                     | 02.07.2020       |  03.01.2022  | 43        |                                                                                                                                                                           |
+| 1a        | Bilag 1a -- præ-accepterede løsninger for fritliggende og sammenbyggede enfamiliehuse                                     | 02.07.2020       |  03.01.2022  | 43        |                                                                                                                                                                           |
 +-----------+---------------------------------------------------------------------------------------------------------------------------+------------------+--------------+-----------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | 1b        | Præ-accepterede løsninger for sekundær bebyggelse i tilknytning til enfamiliehuse                                         | August 2020      |  18.02.2022  | 30        | \-                                                                                                                                                                        |
 +-----------+---------------------------------------------------------------------------------------------------------------------------+------------------+--------------+-----------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -136,13 +136,13 @@
 
 ### Ved uoverensstemmelser mellem hovedteksten i kapitlerne og teksten i bilag 1-10 i Bygningsreglementets vejledning til kapitel 5 -- Brand, hvilken vejledning er så gældende?
 
-**Supplement til [bilag 1](/bilag/b1/bilag_1/)-10**
+**Supplement til bilag 1-10**
 
-De præ-accepterede løsninger til Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) -- Brand, udgivet som [bilag 1](/bilag/b1/bilag_1/)-10, er udarbejdet i 2018.
+De præ-accepterede løsninger til Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) -- Brand, udgivet som bilag 1-10, er udarbejdet i 2018.
 
-Efterfølgende er der udgivet de øvrige kapitler og bilag til denne vejledning, hvor en del af de præaccepterede løsninger er opdateret med ny eller supplerende viden og erfaringer. Herved er der er opstået visse uoverensstemmelser mellem [bilag 1](/bilag/b1/bilag_1/)-10 og disse øvrige kapitler/bilag.
+Efterfølgende er der udgivet de øvrige kapitler og bilag til denne vejledning, hvor en del af de præaccepterede løsninger er opdateret med ny eller supplerende viden og erfaringer. Herved er der er opstået visse uoverensstemmelser mellem bilag 1-10 og disse øvrige kapitler/bilag.
 
-For følgende områder i [bilag 1](/bilag/b1/bilag_1/)-10 skal de præ-accepterede løsninger følge beskrivelserne i de generelle kapitler/bilag til Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) -- Brand.
+For følgende områder i bilag 1-10 skal de præ-accepterede løsninger følge beskrivelserne i de generelle kapitler/bilag til Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) -- Brand.
 
 **• Redningsberedskabets indsatsmuligheder:**
 
@@ -160,5 +160,4 @@ Her skal benyttes beskrivelserne i [bilag 12: Præ-accepterede løsninger for br
 
 Her skal benyttes beskrivelserne i [kapitel 6](/tekniske-bestemmelser/06/): Funktionsafprøvning og systemintegration.
 
-Ved kommende opdateringer af [bilag 1](/bilag/b1/bilag_1/)-10 vil disse henvisninger blive indarbejdet i bilagene, alternativet vil de relevante beskrivelser blive indarbejdet i det aktuelle bilag.
-
+Ved kommende opdateringer af bilag 1-10 vil disse henvisninger blive indarbejdet i bilagene, alternativet vil de relevante beskrivelser blive indarbejdet i det aktuelle bilag.

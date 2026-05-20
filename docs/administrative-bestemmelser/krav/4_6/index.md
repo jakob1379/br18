@@ -1,6 +1,4 @@
-# Administrative bestemmelser (§ 1 - §
-
-47)
+# Administrative bestemmelser (§ 1 - § 47)
 
 ## § 1 - § 3 Anvendelsesområde {#63d0eb43-08aa-4f77-8f77-c42dec6d6f22}
 
@@ -150,7 +148,7 @@ c) Energiforsyningsanlæg i tilknytning til bygninger i kapitel 12.
 
 d) Vand i kapitel 21.
 
-6)  Bygningsafsnit, der ikke er indrettet som bygningsafsnit i anvendelseskategori 5, kan anvendes til midlertidig overnatning, når anvendelsen sker i henhold til § 6 g.
+6)  Bygningsafsnit, der ikke er indrettet som bygningsafsnit i anvendelseskategori 5, kan anvendes til midlertidig overnatning, når anvendelsen sker i henhold til § 6g.
 
 7\) Primitiv mindre bygning til lejlighedsvis overnatning opført efter § 5, stk. 1, nr. 16, er omfattet af følgende krav i afsnit II i det omfang det er relevant for byggeriet:
 
@@ -252,15 +250,15 @@ Følgende transportable konstruktioner skal overholde bygningsreglementet, men k
 
 *Stk. 5.* Konstruktioner, der opstilles midlertidigt i op til 6 uger, er ikke omfattet af §§ 40, 43 og 46.
 
-*Stk. 6.* Transportable konstruktioner, der ikke er omfattet af § 6 b, stk. 1, skal have byggetilladelse eller inspektionscertifikat, jf. bekendtgørelse om certificeringsordning for transportable konstruktioner anbragt et synligt sted på den transportable konstruktion. Hvor der er krav om en pladsfordelingsplan, skal denne anbringes på et tydeligt, let læseligt sted ved alle primære indgange.
+*Stk. 6.* Transportable konstruktioner, der ikke er omfattet af § 6b, stk. 1, skal have byggetilladelse eller inspektionscertifikat, jf. bekendtgørelse om certificeringsordning for transportable konstruktioner anbragt et synligt sted på den transportable konstruktion. Hvor der er krav om en pladsfordelingsplan, skal denne anbringes på et tydeligt, let læseligt sted ved alle primære indgange.
 
 ### § 6c {#paragraf-6c}
 
-Raftekonstruktioner, der opstilles midlertidigt, er alene omfattet af byggeloven efter kommunalbestyrelsens konkrete vurdering, jf. byggelovens § 2, stk. 3. Raftekonstruktioner, der opstilles midlertidigt, er derfor ikke omfattet af § 6 b, stk. 1, eller § 6 b, stk. 3.
+Raftekonstruktioner, der opstilles midlertidigt, er alene omfattet af byggeloven efter kommunalbestyrelsens konkrete vurdering, jf. byggelovens § 2, stk. 3. Raftekonstruktioner, der opstilles midlertidigt, er derfor ikke omfattet af § 6b, stk. 1, eller § 6b, stk. 3.
 
 ### § 6d {#paragraf-6d}
 
-Transportable konstruktioner, der opstilles med en varighed på mere end 6 uger på den samme placering, må ikke opstilles uden byggetilladelse fra kommunalbestyrelsen, jf. § 7. Ved byggesagsbehandling af en certificeret konstruktion omfattet af § 6 b, stk. 2, der ønskes opstillet i mere end 6 uger, kan certifikatet lægges til grund for opfyldelse af de tekniske krav, og det er alene de bebyggelsesregulerende forhold, der skal byggesagsbehandles. Bestemmelsen omfatter ikke transportable konstruktioner, som er omfattet af § 6 a, stk. 1, nr. 1 og 2.
+Transportable konstruktioner, der opstilles med en varighed på mere end 6 uger på den samme placering, må ikke opstilles uden byggetilladelse fra kommunalbestyrelsen, jf. § 7. Ved byggesagsbehandling af en certificeret konstruktion omfattet af § 6b, stk. 2, der ønskes opstillet i mere end 6 uger, kan certifikatet lægges til grund for opfyldelse af de tekniske krav, og det er alene de bebyggelsesregulerende forhold, der skal byggesagsbehandles. Bestemmelsen omfatter ikke transportable konstruktioner, som er omfattet af § 6a, stk. 1, nr. 1 og 2.
 
 ### § 6e {#paragraf-6e}
 
@@ -330,7 +328,7 @@ Ved udarbejdelse eller ændring af pladsfordelingsplaner, indretningsplaner for 
 
 *Stk. 3.* Hvis der ikke sker ændringer af forudsætningerne for de brandmæssige forhold, kan dokumentation, jf. stk. 2, udarbejdes og ændres uden brug af certificeret brandrådgiver eller ansøgning om byggetilladelse.
 
-*Stk. 4.* Ved indarbejdelse af betingelser for midlertidig overnatning i et byggeris drifts-, kontrol- og vedligeholdelsesplan, jf. § 6 g, stk. 4, nr. 1, skal denne udfærdiges af en certificeret brandrådgiver, der er certificeret til at virke i den brandklasse, som byggeriet eller bygningsafsnittet indplaceres i.
+*Stk. 4.* Ved indarbejdelse af betingelser for midlertidig overnatning i et byggeris drifts-, kontrol- og vedligeholdelsesplan, jf. § 6g, stk. 4, nr. 1, skal denne udfærdiges af en certificeret brandrådgiver, der er certificeret til at virke i den brandklasse, som byggeriet eller bygningsafsnittet indplaceres i.
 
 *Stk. 5.* For byggeri eller bygningsafsnit, der er omfattet af §§ 147 og 153, skal dokumentationen, jf. stk. 1 og 2, indsendes til kommunalbestyrelsen.
 
@@ -350,7 +348,7 @@ Kommunalbestyrelsen kan meddele byggetilladelse til afholdelse af midlertidige i
 
 ### § 6j {#paragraf-6j}
 
-For udendørs salgsområder og lignende samt transportable konstruktioner, jf. stk. 3, der ved midlertidige udendørsarrangementer til højst 500 personer, gælder bestemmelserne i §§ 6 k-6 l.
+For udendørs salgsområder og lignende samt transportable konstruktioner, jf. stk. 3, der ved midlertidige udendørsarrangementer til højst 500 personer, gælder bestemmelserne i §§ 6k-6l.
 
 *Stk. 2.* Ved midlertidige udendørsarrangementer til højst 500 personer, forstås det største antal personer, der vil være til stede ved arrangementet samtidigt. I beregningen af personantallet indgår det samlede antal personer, der er tilknyttet arrangementet, herunder personale, stadeholdere, frivillige og gæster.
 
@@ -374,7 +372,7 @@ Kommunalbestyrelsen skal have modtaget meddelelse om det midlertidige udendørsa
 
 1\) Oplysning til identifikation af det midlertidige udendørsarrangements placering, herunder eksempelvis matrikelbetegnelse og adgangsadresse.
 
-2\) Personantallet for det samlede midlertidige udendørsarrangement, jf. § 6 j, stk. 2.
+2\) Personantallet for det samlede midlertidige udendørsarrangement, jf. § 6j, stk. 2.
 
 3\) Oplysning om, hvornår det midlertidige udendørsarrangement afholdes.
 
@@ -384,7 +382,7 @@ Kommunalbestyrelsen skal have modtaget meddelelse om det midlertidige udendørsa
 
 ### § 6l {#paragraf-6l}
 
-Følgende transportable konstruktioner, som opstilles i forbindelse med midlertidige udendørsarrangementer til højst 500 personer, jf. § 6 j, stk. 2, og som ikke anvendes til overnatning, skal overholde bygningsreglementet, men kan opføres uden ansøgning om byggetilladelse:
+Følgende transportable konstruktioner, som opstilles i forbindelse med midlertidige udendørsarrangementer til højst 500 personer, jf. § 6j, stk. 2, og som ikke anvendes til overnatning, skal overholde bygningsreglementet, men kan opføres uden ansøgning om byggetilladelse:
 
 1\) Mastesejl, parasoller og telte i én etage placeret i terræn under 100 m².
 
@@ -392,7 +390,7 @@ Følgende transportable konstruktioner, som opstilles i forbindelse med midlerti
 
 3\) Åbne tribuner, herunder automobiltribuner, der er højst 1,0 m i højden, målt fra terræn til gulvhøjde og uden overdækning.
 
-*Stk. 2.* Følgende transportable konstruktioner, som opstilles i forbindelse med midlertidige udendørsarrangementer til højst 500 personer, jf. § 6 j, stk. 2 skal overholde bygningsreglementet og må alene opstilles uden forudgående byggetilladelse, hvis de er certificeret i henhold til bekendtgørelse om certificeringsordning for transportable konstruktioner og ikke anvendes til overnatning:
+*Stk. 2.* Følgende transportable konstruktioner, som opstilles i forbindelse med midlertidige udendørsarrangementer til højst 500 personer, jf. § 6j, stk. 2 skal overholde bygningsreglementet og må alene opstilles uden forudgående byggetilladelse, hvis de er certificeret i henhold til bekendtgørelse om certificeringsordning for transportable konstruktioner og ikke anvendes til overnatning:
 
 1\) Mastesejl, parasoller og telte i én etage placeret i terræn over 100 m².
 
@@ -408,7 +406,7 @@ Følgende transportable konstruktioner, som opstilles i forbindelse med midlerti
 
 7\) Truss-systemer, der udføres, placeres eller anvendes på en sådan måde, at der ved svigt kan være risiko for væsentlig personskade.
 
-*Stk. 3.* Transportable konstruktioner, jf. § 6 j, stk. 3, som opstilles i forbindelse med midlertidige udendørsarrangementer til højst 500 personer, jf. § 6 j, stk. 2, er omfattet af følgende krav:
+*Stk. 3.* Transportable konstruktioner, jf. § 6j, stk. 3, som opstilles i forbindelse med midlertidige udendørsarrangementer til højst 500 personer, jf. § 6j, stk. 2, er omfattet af følgende krav:
 
 1\) adgangsforhold i §§ 51-54,
 
@@ -498,13 +496,13 @@ Ansøgning om byggetilladelse til opstilling af en vindmølle samt byggearbejder
 
 3) nødvendige tilladelser efter anden lovgivning.
 
-### § 11 a {#paragraf-11a}
+### § 11a {#paragraf-11a}
 
 Ansøgning om byggetilladelse for anlæg med henblik på produktion af vedvarende energi er omfattet af regler vedr. tilrettelæggelse af tilladelsesprocessen og tidsfrister m.v. i bekendtgørelse om kontaktpunkt, VE-tilladelsesprocessen og områder til fremme af VE
 
-### § 11 b {#paragraf-11b}
+### § 11b {#paragraf-11b}
 
-Ansøgning om byggetilladelse til byggearbejder omfattet af §§ 6 f - 6 i skal, hvis det er relevant for byggearbejdet indeholde:
+Ansøgning om byggetilladelse til byggearbejder omfattet af §§ 6f-6i skal, hvis det er relevant for byggearbejdet indeholde:
 
 1\) Oplysninger til identifikation af ejendommen, bygningen eller enheden, herunder eksempelvis matrikelbetegnelse, adgangsadresse, ejendomsnummer og etageangivelse.
 
@@ -518,7 +516,7 @@ Ansøgning om byggetilladelse til byggearbejder omfattet af §§ 6 f - 6 i skal,
 
 *Stk. 3.* Foretager kommunalbestyrelsen den tekniske byggesagsbehandling af de brand- og konstruktionsmæssige forhold, vurderer kommunalbestyrelsen i hvilket omfang, der skal foreligge dokumentation. Kommunalbestyrelsen kan indhente sagkyndig bistand vedrørende dokumentation af de brand- og konstruktionsmæssige forhold. Udgifterne hertil afholdes af ansøger.
 
-*Stk. 4.* Byggearbejder omfattet af §§ 6 f - 6 i er ikke omfattet af §§ 40, 43 og 46.
+*Stk. 4.* Byggearbejder omfattet af §§ 6f-6i er ikke omfattet af §§ 40, 43 og 46.
 
 ### § 12 {#paragraf-12}
 
@@ -596,7 +594,7 @@ Ved ansøgning om byggetilladelse til byggearbejder i konstruktionsklasse 2-4 sk
 
 Ved ansøgning om byggetilladelse til byggearbejder i brandklasse 2-4 skal der tilknyttes en certificeret brandrådgiver, der gennem sit virke, jf. kapitel 32 og 34, sikrer, at byggearbejdet er i overensstemmelse med kapitel 5 samt sikrer, at dokumentation herfor, jf. kapitel 29, er fyldestgørende, opfylder sit formål og er kontrolleret, jf. kapitel 30.
 
-*Stk. 2.* Ved udarbejdelse eller ændring af planer mv., jf. § 6 h, stk. 1, nr. 2, skal den tilknyttede certificerede brandrådgiver, gennem sit virke, jf. kapitel 32 og 34, sikre, at byggearbejdet er i overensstemmelse med kapitel 5 samt sikre, at dokumentation herfor, jf. kapitel 29, er fyldestgørende, opfylder sit formål og er kontrolleret, jf. kapitel 30.
+*Stk. 2.* Ved udarbejdelse eller ændring af planer mv., jf. § 6h, stk. 1, nr. 2, skal den tilknyttede certificerede brandrådgiver, gennem sit virke, jf. kapitel 32 og 34, sikre, at byggearbejdet er i overensstemmelse med kapitel 5 samt sikre, at dokumentation herfor, jf. kapitel 29, er fyldestgørende, opfylder sit formål og er kontrolleret, jf. kapitel 30.
 
 ### § 21 {#paragraf-21}
 
@@ -608,7 +606,7 @@ For byggearbejder i de enkelte brandklasser gælder følgende:
 
 3) For byggearbejder i brandklasse 2 med fravigelser af de præ-accepterede løsninger jf. § 493, stk. 1, nr. 2 og bilag 4, afsnit 2 skal der tillige medvirke en brandrådgiver, der er certificeret til brandklasse 3 og 4 eller til at udføre tredjepartskontrol i overensstemmelse med § 20 eller § 21 i bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet.
 
-*Stk. 2.* For byggearbejder i brandklasse 4 skal der tillige tilknyttes én brandrådgiver, der er certificeret til at udføre tredjepartskontrol, jf. § 21 i bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet. Udarbejdelse eller ændring af planer, jf. § 6 h, stk. 1, nr. 2, for byggeri i brandklasse 4 er undtaget herfor, såfremt der ikke ændres på forudsætningerne for de brandmæssige forhold.
+*Stk. 2.* For byggearbejder i brandklasse 4 skal der tillige tilknyttes én brandrådgiver, der er certificeret til at udføre tredjepartskontrol, jf. § 21 i bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet. Udarbejdelse eller ændring af planer, jf. § 6h, stk. 1, nr. 2, for byggeri i brandklasse 4 er undtaget herfor, såfremt der ikke ændres på forudsætningerne for de brandmæssige forhold.
 
 *Stk. 3.* Når der tilknyttes en certificeret brandrådgiver med et certifikat med begrænset gyldighedsområde, skal byggearbejdet i sin helhed være omfattet af certifikatets gyldighedsområde.
 
@@ -694,7 +692,7 @@ Inden lovliggørelse af byggeri i konstruktionsklasse 2-4 og brandklasse 2-4, jf
 
 (Ophævet)
 
-### § 30 a {#paragraf-30a}
+### § 30a {#paragraf-30a}
 
 Hvis der ikke er tilknyttet en certificeret statiker for transportable konstruktioner i konstruktionsklasse 2-4, og de transportable konstruktioner opstilles midlertidigt på camping-, og salgsområder samt i forsamlingslokaler, idrætshaller og lignende, og konstruktionen ikke er certificeret, skal kommunalbestyrelsen foretage byggesagsbehandling af dokumentation af bærende konstruktioner, jf. kapitel 15.
 
@@ -718,13 +716,13 @@ b) B2. Statisk kontrolrapport.
 
 c) B3. Statisk tilsynsrapport.
 
-*Stk. 3.* For midlertidige transportable konstruktioner, som er omfattet af § 30 a, stk. 1, og som er i høj konsekvensklasse (CC3), jf. DS/EN 1990 Projekteringsgrundlag for bærende konstruktioner med DS/EN 1990 DK NA:2019, skal der tilknyttes en anerkendt statiker, der har anerkendelse efter reglerne i kapitel 35, og som skal sikre overholdelse af kapitel 15.
+*Stk. 3.* For midlertidige transportable konstruktioner, som er omfattet af § 30a, stk. 1, og som er i høj konsekvensklasse (CC3), jf. DS/EN 1990 Projekteringsgrundlag for bærende konstruktioner med DS/EN 1990 DK NA:2019, skal der tilknyttes en anerkendt statiker, der har anerkendelse efter reglerne i kapitel 35, og som skal sikre overholdelse af kapitel 15.
 
 *Stk. 4.* Ansøger udpeger den anerkendte statiker. Oplysning herom skal fremgå af ansøgningen om byggetilladelse.
 
-### § 30 b {#paragraf-30b}
+### § 30b {#paragraf-30b}
 
-Ved ansøgning om byggetilladelse for midlertidige transportable konstruktioner, som er omfattet af § 30 a, stk. 3, skal der indsendes dokumentation for, at bestemmelserne i kapitel 15 overholdes.
+Ved ansøgning om byggetilladelse for midlertidige transportable konstruktioner, som er omfattet af § 30a, stk. 3, skal der indsendes dokumentation for, at bestemmelserne i kapitel 15 overholdes.
 
 *Stk. 2.* Den statiske dokumentation skal bilægges følgende dokumentation udfærdiget af en anerkendte statiker:
 
@@ -742,15 +740,15 @@ d) redegørelse for den anerkendte statikers virke.
 
 *Stk. 3.* Erklæringen udarbejdes og underskrives personligt af den anerkendte statiker, jf. kapitel 35.
 
-### § 30 c {#paragraf-30c}
+### § 30c {#paragraf-30c}
 
-For konstruktioner omfattet af § 30 a, stk. 1, og som henregnes til høj konsekvensklasse, hvor konsekvenserne af et svigt er særligt alvorlige (CC3+), jf. DS/EN 1990 Projekteringsgrundlag for bærende konstruktioner med DS/EN 1990 DK NA:2013, skal der ved ansøgning til byggetilladelse endvidere indsendes en erklæring fra en tredjepartskontrollant, der har anerkendelse efter reglerne i kapitel 35, og som hverken direkte eller indirekte må være økonomisk forbunden med den eller de organisationer, som har medvirket ved projekteringen af bygningen.
+For konstruktioner omfattet af § 30a, stk. 1, og som henregnes til høj konsekvensklasse, hvor konsekvenserne af et svigt er særligt alvorlige (CC3+), jf. DS/EN 1990 Projekteringsgrundlag for bærende konstruktioner med DS/EN 1990 DK NA:2013, skal der ved ansøgning til byggetilladelse endvidere indsendes en erklæring fra en tredjepartskontrollant, der har anerkendelse efter reglerne i kapitel 35, og som hverken direkte eller indirekte må være økonomisk forbunden med den eller de organisationer, som har medvirket ved projekteringen af bygningen.
 
 *Stk. 2.* Ansøger udpeger tredjepartskontrollanten. Oplysning herom skal fremgå af ansøgningen om byggetilladelse.
 
 *Stk. 3.* I erklæringen angives
 
-1) at den anerkendte statikers angivelse i erklæringen, jf. § 30 b, stk. 2, nr.2, litra b-d, er retvisende og
+1) at den anerkendte statikers angivelse i erklæringen, jf. § 30b, stk. 2, nr.2, litra b-d, er retvisende og
 
 2) redegørelse for den i stk. 1 anførte anerkendte statikers virke som tredjepartskontrollant.
 
@@ -762,11 +760,11 @@ For konstruktioner omfattet af § 30 a, stk. 1, og som henregnes til høj konsek
 
 (Ophævet)
 
-### § 31 a {#paragraf-31a}
+### § 31a {#paragraf-31a}
 
 Hvis der ikke er tilknyttet en certificeret rådgiver for transportable konstruktioner i brandklasse 2-4, som opstilles midlertidigt på camping-, og salgsområder samt i forsamlingslokaler, idrætshaller og lignende, skal kommunalbestyrelsen foretage byggesagsbehandling af brandforhold, jf. kapitel 5.
 
-### § 31 b {#paragraf-31b}
+### § 31b {#paragraf-31b}
 
 Ved ansøgning om byggetilladelse til transportable konstruktioner i brandklasse 2-4, som opstilles midlertidigt på camping-, og salgsområder samt forsamlingslokaler, idrætshaller o.lign., hvor der ikke er tilknyttet en certificeret brandrådgiver, skal der indsendes dokumentation for, at bestemmelserne i kapitel 5 overholdes. Afhængigt af den transportable konstruktion skal dokumentationen indeholde følgende:
 
@@ -804,7 +802,7 @@ Meddelelse om byggetilladelse skal ske skriftligt til ansøger.
 
 ### § 36 {#paragraf-36}
 
-Inden kommunalbestyrelsen kan meddele byggetilladelse, skal kommunalbestyrelsen foretage en vurdering af, om den dokumentation, der indsendes efter § 10, stk. 1, § 10, stk. 2, nr. 1, § 11, § 11 b, § 18 og § 22, er i overensstemmelse med de for byggesagen relevante krav i bygningsreglementet.
+Inden kommunalbestyrelsen kan meddele byggetilladelse, skal kommunalbestyrelsen foretage en vurdering af, om den dokumentation, der indsendes efter § 10, stk. 1, § 10, stk. 2, nr. 1, § 11, § 11b, § 18 og § 22, er i overensstemmelse med de for byggesagen relevante krav i bygningsreglementet.
 
 *Stk. 2.* Hvis det ansøgte byggeri er indplaceret i konstruktionsklasse 1 skal kommunalbestyrelsen foretage en vurdering af, om den dokumentation, der indsendes efter § 10, stk. 2, nr. 2 og 3 er i overensstemmelse med de for byggesagen relevante krav i bygningsreglementet.
 
@@ -856,15 +854,7 @@ Byggearbejder, der kræver byggetilladelse, skal færdigmeldes til kommunalbesty
 
 *Stk. 2.* Ved færdigmelding skal følgende fremsendes:
 
-1) Dokumentation for, at der er tegnet byggeskadeforsikring, og at præmien er betalt, jf. byggelovens
-
-### § 25 C {#paragraf-25c}
-
-, stk. 2, for byggeri omfattet af byggelovens
-
-### § 25 A {#paragraf-25a}
-
-.
+1) Dokumentation for, at der er tegnet byggeskadeforsikring, og at præmien er betalt, jf. byggelovens § 25 C, stk. 2, for byggeri omfattet af byggelovens § 25 A.
 
 2) Erklæring om, at det færdige byggeri er i overensstemmelse med byggetilladelsen og bygningsreglementet.
 

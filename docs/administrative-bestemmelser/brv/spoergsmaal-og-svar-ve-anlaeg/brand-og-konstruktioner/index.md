@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../)
@@ -37,4 +33,3 @@
 Elproducerende VE-anlæg kan være af en sådan størrelse og udformning, at der skal tages hensyn til de brand- og konstruktionsmæssige forhold. Det er kommunen, der er i de enkelte sager vurderer, hvilke brand- og konstruktionsmæssige forhold, der er relevant for det specifikke anlæg.
 
 Derudover er særligt de indsatstaktiske forhold relevante for det brandmæssige aspekt. De indsatstatiske forhold er reguleret i beredskabslovgivningen.
-

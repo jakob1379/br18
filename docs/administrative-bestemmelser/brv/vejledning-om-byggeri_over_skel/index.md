@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../spoergsmaal-og-svar)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../spoergsmaal-og-svar-ve-anlaeg)
@@ -89,4 +85,3 @@ Undladelse af at gennemføre den nødvendige matrikulære ændring, jf. udstykni
 Det bemærkes, at Geodatastyrelsens beføjelser efter udstykningsloven ikke har til formål og er ikke egnede til, at løse almindelige naboretlige konflikter om overskridelse af skel. En tvist om byggeri på naboejendom må efter omstændighederne i sidste ende afgøres privatretligt ved domstolene.
 
 Ved behov for yderligere information om udstykningsloven henvises til Geodatastyrelsen.
-

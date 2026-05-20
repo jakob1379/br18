@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -119,4 +115,3 @@ Ombygninger og andre forandringer omfattet af BR18, [§ 5, stk. 1](/administrati
 [3.2](../ombygninger-der-kan-opfoeres-uden-byggetilladelse_/)
 
 ### Ombygninger og andre forandringer der kan udføres uden ansøgning om byggetilladelse
-

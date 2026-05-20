@@ -24,9 +24,7 @@ Den certificerede brandrådgivers virke omfatter som minimum at
 6.  sikre, at dokumentationen er udarbejdet og samlet i overensstemmelse med kapitel 29, kontrolleret i overensstemmelse med kapitel 30 og kan anvendes, som den foreligger, er fyldestgørende og udgør et hele, og
 7.  udarbejde en redegørelse for sit virke herunder en redegørelse af den certificerede brandrådgivers supplerende kontrol, jf. § 549.
 
-*Stk. 2.* For dokumentation, jf. stk. 1, nr. 6, er kontrolrapport for almen kontrol, jf. § 519, stk. 1, nr. 2 og 3,
-
-undtaget.
+*Stk. 2.* For dokumentation, jf. stk. 1, nr. 6, er kontrolrapport for almen kontrol, jf. § 519, stk. 1, nr. 2 og 3, undtaget.
 
 ### § 549 {#paragraf-549}
 
@@ -83,4 +81,3 @@ Ved overdragelse af et projekt, hvortil der er meddelt byggetilladelse, fra en c
 *Stk. 2.* Den certificerede brandrådgiver, der overtager et projekt, vurderer på baggrund af erklæringen, jf. stk. 1, i hvilket omfang, det er nødvendigt at foretage en kontrol af den overdragede brandtekniske dokumentation forud for videreførelse af projekteringen og/eller udførelsen. Der redegøres for denne vurdering i kontrolrapporten. Beskrivelsen skal resumeres i sluterklæringen.
 
 *Stk. 3.* Hvis det ikke er muligt at udarbejde en erklæring i forbindelse med overdragelse af projektet, skal den certificerede brandrådgiver, der overtager projektet, foretage en maksimal (MAX) kontrol af den brandtekniske dokumentation, der overdrages, svarende til virket for certificeret brandrådgiver som kontrollant.
-

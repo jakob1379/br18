@@ -1,8 +1,6 @@
 # Bygningsreglementets vejledninger
 
-## Administrative bestemmelser (§ 1 - §
-
-47) {#91a9c9a0-10b6-4976-8eb9-d4e7d54300ac}
+## Administrative bestemmelser (§ 1 - § 47) {#91a9c9a0-10b6-4976-8eb9-d4e7d54300ac}
 
 [Spørgsmål og svar](../../../Administrative-bestemmelser/BRV/Spoergsmaal-og-svar){rel="noopener noreferrer" target="_blank"} 
 
@@ -34,9 +32,7 @@
 
 [Pjecer om sekundær bebyggelse](../../../historisk/br18_version7/administrative-bestemmelser/brv/pjecer-om-sekundaer-bebyggelse/pjecer-om-sekundaer-bebyggelse#5404179e-60a8-4ca0-804a-6b34a66d6630?item=%7B31F10391-036B-438E-98F3-BEBBD59A1BB1%7D%40en){rel="noopener" target="_blank"}
 
-## Adgangsforhold (§ 48 - §
-
-62) {#f3c5a4e8-27eb-44c4-8358-6e65bff95b99}
+## Adgangsforhold (§ 48 - § 62) {#f3c5a4e8-27eb-44c4-8358-6e65bff95b99}
 
 [Spørgsmål og svar om adgangsforhold ](../../../Tekniske-bestemmelser/02/Vejledninger/QA){rel="noopener noreferrer" target="_blank"}
 
@@ -48,15 +44,11 @@
 
 [Vejledning om tilgængelighed til transportable konstruktioner](../../../media/lnvhj0zl/vejledning-om-tilgaengelighed-til-transportable-konstruktioner-a.pdf "Vejledning om tilgængelighed til transportable konstruktioner")
 
-## Affaldssystemer (§ 63 - §
-
-68) {#1b5a9be7-3d4a-491e-a4c0-5e294e6f2c7e}
+## Affaldssystemer (§ 63 - § 68) {#1b5a9be7-3d4a-491e-a4c0-5e294e6f2c7e}
 
 [Bygningsreglementets vejledning om affaldssystemer](../../../Tekniske-bestemmelser/03/Vejledninger/Generel_vejledning){rel="noopener noreferrer" target="_blank"}
 
-## Afløb (§ 69 - §
-
-81) {#befad56d-6bc0-4869-a682-5a0d9653aa76}
+## Afløb (§ 69 - § 81) {#befad56d-6bc0-4869-a682-5a0d9653aa76}
 
 [Spørgsmål og svar om afløb ](../../../Tekniske-bestemmelser/04/Vejledninger/QA){rel="noopener noreferrer" target="_blank"}
 
@@ -238,9 +230,7 @@ Der er på nuværende tidspunkt ingen vejledning til bygningsreglementets kap. 2
 
 ## Dokumentation af bærende konstruktioner (§ 494 - § 505) {#3beb73f9-1be5-4ce3-b211-38cb0540576a}
 
-[Vejledning til BR18 kapitel 28 - Dokumentation af bærende konstruktioner §498, §499 og §503
-
-](../../../ovrige-bestemmelser/28/brv/vejledning-til-kapitel-28-dokumentation-af-baerende-konstruktioner/vejledning-til-kapitel-28-dokumentation-af-baerende-konstruktioner#f902c8c2-1a23-444e-ab8e-222f3e05be2d){rel="noopener" target="_blank"}
+[Vejledning til BR18 kapitel 28 - Dokumentation af bærende konstruktioner §498, §499 og §503](../../../ovrige-bestemmelser/28/brv/vejledning-til-kapitel-28-dokumentation-af-baerende-konstruktioner/vejledning-til-kapitel-28-dokumentation-af-baerende-konstruktioner#f902c8c2-1a23-444e-ab8e-222f3e05be2d){rel="noopener" target="_blank"}
 
 [SBi-anvisninger](../../../Ovrige-bestemmelser/28/BRV/SBI_anvisning){rel="noopener noreferrer" target="_blank"}
 
@@ -273,4 +263,3 @@ Der er på nuværende tidspunkt ingen vejledning til bygningsreglementets kap. 3
 ## Anerkendelse af statikere (§ 552 - § 563) {#b81b4ec6-dd24-412c-a863-94a1f07ebed5}
 
 Der er på nuværende tidspunkt ingen vejledning til bygningsreglementets kap. 35.
-

@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](./)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../spoergsmaal-og-svar-ve-anlaeg/)
@@ -270,9 +266,7 @@ Kontrolplaner og kontrolrapporter kan standardiseres, så den samme skabelon kan
 
 I henhold til bygningsreglementet er der krav om anvendelse af en certificeret tredjepartkontrollant i byggeri indplaceret i brand- og konstruktionsklasse 4, jf. BR18, 18 og [§ 22](/administrative-bestemmelser/krav/). Det er ansøgeren, der udpeger tredjepartskontrollanten.
 
-Tredjepartskontrollen skal udføres af en person, der hverken direkte eller indirekte er økonomisk eller organisatorisk forbundet med den eller de virksomheder og organisationer, som har medvirket ved udfærdigelsen af dokumentationen for byggeriets brandsikkerhed eller projektering af de bærende konstruktioner, jf. BR18, § 526 stk. 1, nr. 3. Den certificerede tredjepartskontrollant skal selv sikre dette og redegøre for dette i start- og sluterklæringen (fx i BR18, [§ 498, stk. 2](/ovrige-bestemmelser/28/krav/494_505/). og 499, stk. 2 og BR18, [§ 508, stk. 2](/ovrige-bestemmelser/29/krav/506_522/). og 509, stk.
-
-2). Dette betyder, at tredjepartskontrollanten ikke må pålægges eller kunne pålægges begrænsninger ved løsning af sin kontrolopgave i henhold til BR18, [§ 535](/ovrige-bestemmelser/32/krav/). Tredjepartskontrollanten må ikke have medvirket til udfærdigelsen af dokumentationen hverken direkte eller indirekte.
+Tredjepartskontrollen skal udføres af en person, der hverken direkte eller indirekte er økonomisk eller organisatorisk forbundet med den eller de virksomheder og organisationer, som har medvirket ved udfærdigelsen af dokumentationen for byggeriets brandsikkerhed eller projektering af de bærende konstruktioner, jf. BR18, § 526 stk. 1, nr. 3. Den certificerede tredjepartskontrollant skal selv sikre dette og redegøre for dette i start- og sluterklæringen (fx i BR18, [§ 498, stk. 2](/ovrige-bestemmelser/28/krav/494_505/). og 499, stk. 2 og BR18, [§ 508, stk. 2](/ovrige-bestemmelser/29/krav/506_522/). og 509, stk. 2). Dette betyder, at tredjepartskontrollanten ikke må pålægges eller kunne pålægges begrænsninger ved løsning af sin kontrolopgave i henhold til BR18, [§ 535](/ovrige-bestemmelser/32/krav/). Tredjepartskontrollanten må ikke have medvirket til udfærdigelsen af dokumentationen hverken direkte eller indirekte.
 
 Tredjepartskontrollantens virke bliver kontrolleret af de certificeringsorganer, der er akkreditereret inden for certificeringsordningen og dette er med til at sikre, at tredjepartskontrollantens virke er i overensstemmelse med bygningsreglementets krav.
 
@@ -317,4 +311,3 @@ Formålet med der i [§ 5, stk. 1, nr. 16](/administrative-bestemmelser/krav/4_6
 Det er styrelsens opfattelse at primitive bygninger til lejlighedsvis overnatning ikke kan kategoriseres som sekundært byggeri, fordi bygningen bruges til længerevarende ophold i det der overnattes i bygningen.
 
 De primitive bygninger til lejlighedsvis overnatning beskrevet blandt andet i [§ 5, stk. 1, nr. 6](/administrative-bestemmelser/krav/4_6/), vil derfor som udgangspunkt ikke blive omfattet af bestemmelserne i [§ 5, stk.1](/administrative-bestemmelser/krav/4_6/), nr 1 om 50 m² samlet sekundære bygninger, der kan opføres uden byggetilladelse, bestemmelserne i [kapitel 8](/tekniske-bestemmelser/08/) der vedrører sekundære bygninger som fx [§ 181](/tekniske-bestemmelser/08/krav/), stk 1, nr 3 om en maksimal samlede længde på 12 m i skelbræmmen eller bestemmelser i [kapitel 23](/ovrige-bestemmelser/23/) om blandt andet fradrag for sekundære bygninger ved beregning af bebyggelsesprocenten i [§ 455](/ovrige-bestemmelser/23/krav/), stk 4.
-

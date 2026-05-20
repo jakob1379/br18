@@ -1,6 +1,4 @@
-# Adgangsforhold (§ 48 - §
-
-62)
+# Adgangsforhold (§ 48 - § 62)
 
 ## § 48 Adgangsforhold {#c6942220-e3f7-4553-a064-c1749f215574}
 
@@ -145,4 +143,3 @@ I offentligt tilgængelige bygninger med en borgerrettet servicefunktion, skal v
 *Stk. 2.* Stk. 1 omfatter information ved indgangen til bygningen samt i forbindelse med orientering ved væsentlige funktioner i bygningen som wc-rum, handicaptoiletter, elevatorer, trapper, fordelingsveje mv.
 
 *Stk. 3.* Informationen skal, under hensyn til bygningens anvendelse, være i form af punktskrift, lyd, piktogrammer, skrift og grafik i relief og ledelinjer.
-

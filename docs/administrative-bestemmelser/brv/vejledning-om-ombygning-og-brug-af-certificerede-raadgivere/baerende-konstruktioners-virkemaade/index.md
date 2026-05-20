@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -71,4 +67,3 @@ Der kan findes yderligere vejledning i SBi-anvisning 271 *Dokumentation og kontr
 [6](../eksempler_byggetilladelse/)
 
 ### Eksempler på, hvornår et byggearbejde ikke er undtaget for byggetilladelse, jf. § 5, stk. 1, nr. 4, og hvor der enten skal tilknyttes en certificeret brandrådgiver og/eller statiker, jf. § 10, stk. 2, nr. 3 og 5
-

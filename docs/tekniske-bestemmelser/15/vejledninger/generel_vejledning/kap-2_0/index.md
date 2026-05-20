@@ -36,9 +36,9 @@ Eurocodes: DS/EN 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1999
 
 ####
 
-#### Eurocodes og forkortede udgaver af Eurocodes på Dansk Standards hjemmeside Gå til link (nyt vindue)
+#### Eurocodes og forkortede udgaver af Eurocodes på Dansk Standards hjemmeside [Gå til link (nyt vindue)](http://www.eurocodes.dk/da/hvad-er-eurocodes/oversigt-over-eurocodes){target="_blank"}
 
-### De nationale annekser til eurocodes kan læses @@PROTECTED_5@@.
+### De nationale annekser til eurocodes kan læses [her](../../../../../nationale-annekser/nationale-annekser/nationale-annekser "Nationale annekser"){rel="noopener" target="_blank"}.
 
 [2.1.](../kap-2_1/)
 
@@ -75,4 +75,3 @@ Eurocodes: DS/EN 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1999
 [3.5.](../kap-3_5/)
 
 ### Tagbrønde og tagnedløb
-

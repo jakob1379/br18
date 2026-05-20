@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../spoergsmaal-og-svar-ve-anlaeg/)
@@ -56,9 +52,7 @@ I stikprøvekontrollen skal kommunerne bl.a. vurdere, om de udtrukne byggesager 
 
 ### Stikprøvekontrol - Afklaring af bestemmelser og brugergruppe
 
-Til den enkelte byggesag følger en erklæring fra ansøger i forbindelse med færdigmeldingen om, at det færdige byggeri er i overensstemmelse med byggetilladelsen og bygningsreglementet^5^
-
-.
+Til den enkelte byggesag følger en erklæring fra ansøger i forbindelse med færdigmeldingen om, at det færdige byggeri er i overensstemmelse med byggetilladelsen og bygningsreglementet^5^.
 
 Det indledende skridt i kommunens kontrol er at afklare, hvilke bestemmelser i bygningsreglementet den pågældende byggesag er omfattet af, når det drejer sig om tilgængelighed, samt brugergruppens sammensætning. I forbindelse med afklaring af, hvilke bestemmelser byggesagen er omfattet af, anvendes oversigtsnøglen i tabel 1. Oversigtsnøglen oplister de bestemmelser, der er relevante i forhold til fire overordnede bygningstyper, henholdsvis boligbebyggelse/boliger, offentligt tilgængelig bygninger, bygninger med arbejdspladser samt hotel, kro og lignende. De relevante bestemmelser er oplistet tematisk ud fra formålet med bestemmelserne, f.eks. at 'kunne komme frem til en funktion i en bygning' eller at 'kunne komme på toilettet'.
 
@@ -159,9 +153,7 @@ Tabel 2. uddyber de enkelte temaer. En kombination af tekst, tegninger, diagramm
 +----------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |  Hvorledes bygningen understøtter bevægelse frem til, ind i og gennem bygningen frem til bygningens funktioner | > • Beskrivelse af, hvorledes bygningen understøtter bevægelsen frem til bygningen, ind i bygningen og frem til bygningens funktioner for de forskellige brugere i relation til deres behov.                                                                                                                                                                                                   |
 |                                                                                                                | >                                                                                                                                                                                                                                                                                                                                                                                              |
-|                                                                                                                | > • En detaljeret gennemgang af de forskellige bygningsfysiske forhold og elementer i relation til bygningsreglementets bestemmelser (se evt. tabel
-
-1). Det gælder f.eks. belysning, belægning, ramper, trapper og elevatorer.                                                                                                                                                                 |
+|                                                                                                                | > • En detaljeret gennemgang af de forskellige bygningsfysiske forhold og elementer i relation til bygningsreglementets bestemmelser (se evt. tabel 1). Det gælder f.eks. belysning, belægning, ramper, trapper og elevatorer.                                                                                                                                                                 |
 |                                                                                                                | >                                                                                                                                                                                                                                                                                                                                                                                              |
 |                                                                                                                | > • Hvis en løsning går igen flere steder i byggesagen, kan der indsendes dokumentation for denne løsning samt beskrivelse af, hvor den optræder i byggesagen.                                                                                                                                                                                                                                 |
 |                                                                                                                | >                                                                                                                                                                                                                                                                                                                                                                                              |
@@ -299,4 +291,3 @@ Ligeværdige muligheder handler grundlæggende om, at alle brugere får adgang t
 13\) [https://ordnet.dk/ddo/ordbog?query=ligev%C3%A6rdig](https://ordnet.dk/ddo/ordbog?query=ligev%C3%A6rdig){target="_blank"} besøgt 28.11.2018.
 
 14\) Bygningsreglementet, [kap. 2](/tekniske-bestemmelser/02/), Vejledning til brugerbegreb, 2.0.0.
-

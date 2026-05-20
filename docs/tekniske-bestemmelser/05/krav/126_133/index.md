@@ -502,11 +502,19 @@ I bygninger med redningsåbninger til brug for redningsberedskabets personrednin
 
 (Ophævet)
 
-### § 130 I {#paragraf-130i}
+### § 130 {#paragraf-130}
 
-bygninger, hvor redningsberedskabets brandslanger ikke kan føres frem af de primære indtrængningsveje som trapper mv., skal der installeres stigrør.
+I bygninger, hvor redningsberedskabets brandslanger ikke kan føres frem af de primære indtrængningsveje som trapper mv., skal der installeres stigrør.
 
-§ 131 I redningsberedskabets primære indtrængningsveje skal der være mulighed for røgudluftning. § 132 I bygningsafsnit, hvor røgudluftning ikke kan ske ved naturlig ventilation via åbninger i ydervægge eller i tag, skal der på anden måde etableres mulighed for røgudluftning. § 133
+### § 131 {#paragraf-131}
+
+I redningsberedskabets primære indtrængningsveje skal der være mulighed for røgudluftning.
+
+### § 132 {#paragraf-132}
+
+I bygningsafsnit, hvor røgudluftning ikke kan ske ved naturlig ventilation via åbninger i ydervægge eller i tag, skal der på anden måde etableres mulighed for røgudluftning.
+
+### § 133 {#paragraf-133}
 
 I bygningsafsnit med gulv i øverste etage mere end 22 m over terræn, skal der installeres mindst en brandmandselevator af hensyn til redningsberedskabets indsatsmuligheder.
 
@@ -718,4 +726,3 @@ Der skal udarbejdes en drifts-, kontrol- og vedligeholdelsesplan for de transpor
 3) Der udarbejdes ordensregler om forebyggelse af brand.
 
 4) Personalet er instrueret i de udarbejdede ordensregler, brand- og evakueringsinstruks, placering og brug af håndslukningsudstyr og brandtekniske installationer. § 158 §§ 156 og 157 anses for opfyldt, såfremt drifts-, kontrol- og vedligeholdelsesplanen er udført i henhold til *Bygningsreglementets vejledning til kapitel 5 - Brand.*
-

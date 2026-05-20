@@ -2,27 +2,19 @@
 
 [Kap. 1](../kap_1/)
 
-## Administrative bestemmelser (§ 1 - §
-
-47)
+## Administrative bestemmelser (§ 1 - § 47)
 
 [Kap. 2](../kap_2/)
 
-## Adgangsforhold (§ 48 - §
-
-62)
+## Adgangsforhold (§ 48 - § 62)
 
 [Kap. 3](../kap_3/)
 
-## Affaldssystemer (§ 63 - §
-
-68)
+## Affaldssystemer (§ 63 - § 68)
 
 [Kap. 4](../kap_4/)
 
-## Afløb (§ 69 - §
-
-81)
+## Afløb (§ 69 - § 81)
 
 [Kap. 5](../kap_5/)
 
@@ -56,7 +48,9 @@
 
 ## Energiforsyningsanlæg i tilknytning til bygninger (§ 299 - § 328)
 
-[Bygningsreglementets vejledning om energiforsyningsanlæg i tilknytning til bygninger ](../../../../tekniske-bestemmelser/12/vejledninger/generel_vejledning/){rel="noopener noreferrer" target="_blank"} [Kap. 13](../kap_13/)
+[Bygningsreglementets vejledning om energiforsyningsanlæg i tilknytning til bygninger](../../../../tekniske-bestemmelser/12/vejledninger/generel_vejledning/){rel="noopener noreferrer" target="_blank"}
+
+[Kap. 13](../kap_13/)
 
 ## Forureninger (§ 329 - § 333)
 
@@ -147,4 +141,3 @@
 [Kap. 35](../kap_35/)
 
 ## Anerkendelse af statikere (§ 552 - § 563)
-

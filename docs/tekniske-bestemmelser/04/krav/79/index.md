@@ -1,6 +1,4 @@
-# Afløb (§ 69 - §
-
-81)
+# Afløb (§ 69 - § 81)
 
 ## § 69 Afløb {#4dcab947-3dab-4037-9777-d974ca3e856f}
 
@@ -148,4 +146,3 @@ Drift og vedligehold af afløbsinstallationer skal ske, så de til enhver tid ov
 ### § 81 {#paragraf-81}
 
 Afløbsinstallationer og hovedafløbssystem må ikke tilføres stoffer, der kan skade eller forringe funktionen af afløbsinstallationer, hovedafløbssystem, renseanlæg eller recipient.
-

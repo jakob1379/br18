@@ -70,9 +70,7 @@ I forbindelse med større renoveringsarbejder på bevaringsværdige bygninger b�
 
 [![](../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
 
-####
-
-Byggeloven
+#### Byggeloven
 
 #### Anvendelsesområde
 
@@ -82,21 +80,17 @@ Byggeloven
 
 [![](../../../../assets/img/linkbox/info_linkbox.svg)](# "#title")
 
-####
-
-Energiguide for fredede og bevaringsværdige huse, Bygningskultur Danmark 2019
+#### Energiguide for fredede og bevaringsværdige huse, Bygningskultur Danmark 2019
 
 #### Anvendelsesområde
 
 En energiguide, som i et let forståeligt sprog uden indforstået teknisk jargon klæder husejere på til at gøre deres huse mere energivenlige - uden at gå på kompromis med husets historiske og kulturelle kvaliteter.
 
-#### Se energiguiden her [](https://historiskehuse.dk/produkt/energiguide-for-fredede-og-bevaringsvaerdige-huse/){target="_blank"}
+#### [Se energiguiden her](https://historiskehuse.dk/produkt/energiguide-for-fredede-og-bevaringsvaerdige-huse/){target="_blank"}
 
 [![](../../../../assets/img/linkbox/info_linkbox.svg)](# "#title")
 
-####
-
-E-SAVE-vejledning til kommunal sagsbehandling af byggesager med energitiltag i bevaringsværdige bygninger
+#### E-SAVE-vejledning til kommunal sagsbehandling af byggesager med energitiltag i bevaringsværdige bygninger
 
 #### Anvendelsesområde
 
@@ -137,4 +131,3 @@ En guide til forhåndsdialog mellem kommunen og bygningsejere og/eller dennes r�
 ### Eksempler på energibehov {#3058d94d-a8e8-4740-8b79-8e25740686c7}
 
 ### Krav til bygningsautomatikken {#3a095cce-b7d0-4e11-837e-7194d984e382}
-

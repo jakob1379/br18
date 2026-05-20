@@ -1,6 +1,4 @@
-# Affaldssystemer (§ 63 - §
-
-68)
+# Affaldssystemer (§ 63 - § 68)
 
 ## Bygningsreglementets vejledning om affaldssystemer
 
@@ -153,4 +151,3 @@ Det er kommunalbestyrelsen, der er bygningsmyndighed, og derfor træffer afgøre
 Kommunalbestyrelsen kan nægte at give tilladelse, hvis ikke hensynene i bygningsreglementet vurderes at være opfyldt.
 
 Ved ombygning af eksisterende byggeri, afhænger det af de konkrete omstændigheder, om det vil kræve en byggetilladelse. Isoleret set kan nedlæggelse af en affaldsskakt foretages uden en byggetilladelse. Dog vil det i praksis formentlig kræve byggetilladelse i langt de fleste tilfælde, da nedlæggelsen enten vil indebære væsentlige ombygninger i byggeriet, eksempelvis ved at inddrage arealet til beboelse, en overskridelse af bebyggelsesprocenten på grunden, der kræver en helhedsvurdering efter ansøgning ved kommunalbestyrelsen eller, at inddragelse af et friareal til at anlægge en affaldsø, hvilket vil være i strid med den byggetilladelse, der er givet, og derfor også kræve ansøgning om byggetilladelse.
-

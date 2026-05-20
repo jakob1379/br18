@@ -1,6 +1,4 @@
-# Adgangsforhold (§ 48 - §
-
-62)
+# Adgangsforhold (§ 48 - § 62)
 
 ## § 48 Adgangsforhold {#c6942220-e3f7-4553-a064-c1749f215574}
 
@@ -86,11 +84,7 @@ Fælles adgangsveje, der fører til to eller flere boliger, kontorer, mødelokal
 
 3) De er markeret ved forskellige materialer, farver eller belysning.
 
-4) Eventuelle niveauspring og højdeforskelle skal udlignes med ramper. Ramper må ikke udføres med en større hældning end 1:20 (5 cm pr.
-
-m), og der skal være en vandret plads på mindst 1,30 m x 1,30 m for hver ende af rampen. Ramper, der udligner højdeforskelle på mere end 0,60 m, skal desuden forsynes med en vandret repos for hver 0,60 m stigning. Ramper skal forsynes med håndlister i begge sider. Ved ramper med en hældning på 1:25 (4 cm pr.
-
-m) eller mindre kan håndlister udelades.
+4) Eventuelle niveauspring og højdeforskelle skal udlignes med ramper. Ramper må ikke udføres med en større hældning end 1:20 (5 cm pr. m), og der skal være en vandret plads på mindst 1,30 m x 1,30 m for hver ende af rampen. Ramper, der udligner højdeforskelle på mere end 0,60 m, skal desuden forsynes med en vandret repos for hver 0,60 m stigning. Ramper skal forsynes med håndlister i begge sider. Ved ramper med en hældning på 1:25 (4 cm pr. m) eller mindre kan håndlister udelades.
 
 5) Døre i fælles adgangsveje skal have en fri passagebredde på mindst 0,77 m. På den side af døren, der åbner imod personen, skal der være mindst 0,50 m ved siden af døren modsat hængselsiden.
 
@@ -145,4 +139,3 @@ I offentligt tilgængelige bygninger med en borgerrettet servicefunktion, skal v
 *Stk. 2.* Stk. 1 omfatter information ved indgangen til bygningen samt i forbindelse med orientering ved væsentlige funktioner i bygningen som wc-rum, handicaptoiletter, elevatorer, trapper, fordelingsveje mv.
 
 *Stk. 3.* Informationen skal, under hensyn til bygningens anvendelse, være i form af punktskrift, lyd, piktogrammer, skrift og grafik i relief og ledelinjer.
-

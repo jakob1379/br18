@@ -1,12 +1,8 @@
 ---
-title: Afløb (§ 69 - §
-
-81)
+title: Afløb (§ 69 - § 81)
 ---
 
-# Afløb (§ 69 - §
-
-81)
+# Afløb (§ 69 - § 81)
 
 [Krav](./){ .md-button .md-button--primary }
 [Vejledning](brv/){ .md-button }
@@ -29,7 +25,7 @@ Afløbsinstallationer skal projekteres og udføres, så det tilførte afløbsvan
 
 Stk. 2. Afløbsinstallationer skal dimensioneres som anvist i DS 432 Afløbsinstallationer, afsnit 6, eller på en måde som på tilsvarende vis sikrer en tilfredsstillende bortledning, jf. stk. 1.
 
-Stk. 3. [§§ 69-81 k](/tekniske-bestemmelser/04/krav/)an opfyldes ved at følge DS 432 Afløbsinstallationer.
+Stk. 3. [§§ 69-81](/tekniske-bestemmelser/04/krav/) kan opfyldes ved at følge DS 432 Afløbsinstallationer.
 
 ### § 71 {#p71 #paragraf-71}
 

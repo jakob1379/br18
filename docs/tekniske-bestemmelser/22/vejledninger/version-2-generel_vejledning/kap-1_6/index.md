@@ -61,7 +61,7 @@ Madlavning genererer forurening for indeklimaet gennem dannelse af luftformige f
 
 Emhætten skal have afkast til det fri, så det sikres, at forureninger fjernes fra boligen. Dette krav vil altid være gældende, når der etableres kogeplader eller emhætte i en bolig. Emhætter med recirkulation vil normalt ikke opfylde dette krav.
 
-Der skal altid sikres erstatningsluft, når emhætten er i drift. Manuel åbning af vinduer eller lignende kan ikke være en forudsætning for opfyldelse af kravene til emhætten. I det omfang erstatningsluft ikke tilføres ved brug af et mekanisk anlæg henvises til nærværende vejlednings [kapitel 1](/administrative-bestemmelser/).2 for vejledning i brugen af ventilationsåbninger direkte til det fri.
+Der skal altid sikres erstatningsluft, når emhætten er i drift. Manuel åbning af vinduer eller lignende kan ikke være en forudsætning for opfyldelse af kravene til emhætten. I det omfang erstatningsluft ikke tilføres ved brug af et mekanisk anlæg henvises til nærværende vejlednings [kapitel 1.2](../kap-1_2/) for vejledning i brugen af ventilationsåbninger direkte til det fri.
 
 Hvis en emhætte er i stand til at udsuge en luftmængde større end den, der er nødvendig for at overholde bygningsreglementets krav, er det ikke nødvendigt at dokumentere forhold som f.eks. energiforbrug eller træk i forhold til denne yderligere luftmængde.
 
@@ -186,4 +186,3 @@ For etageboligbygninger, kollegier, hoteller og lign. kan der ikke anvendes redu
 [1.10.](../kap-1_10/)
 
 ### Drift og vedligehold
-

@@ -17,7 +17,7 @@
 
 Tabellerne i dette afsnit beskriver lydbestemmelserne for lydisolation, støj indendørs fra trafik, støj fra tekniske installationer samt efterklangstid. Grænseværdierne er primært gengivet fra den danske standard om lydklassifikation af boliger og Miljøstyrelsens vejledninger om støj.
 
-2.1
+[2.1](../definitioner-af-rumtyper-for-boliger/)
 
 ### Definitioner af rumtyper for boliger
 
@@ -36,4 +36,3 @@ Tabellerne i dette afsnit beskriver lydbestemmelserne for lydisolation, støj in
 [2.5](../rumakustik-i-boliger/)
 
 ### Rumakustik i boliger
-

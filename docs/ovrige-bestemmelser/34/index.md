@@ -28,9 +28,7 @@ Den certificerede brandrådgivers virke omfatter som minimum at
 6.  sikre, at dokumentationen er udarbejdet og samlet i overensstemmelse med [kapitel 29](/ovrige-bestemmelser/29/), kontrolleret i overensstemmelse med [kapitel 30](/ovrige-bestemmelser/30/) og kan anvendes, som den foreligger, er fyldestgørende og udgør et hele, og
 7.  udarbejde en redegørelse for sit virke herunder en redegørelse af den certificerede brandrådgivers supplerende kontrol, jf. [§ 549](/ovrige-bestemmelser/34/krav/545_551/).
 
-*Stk. 2.* For dokumentation, jf. stk. 1, nr. 6, er kontrolrapport for almen kontrol, jf. [§ 519, stk. 1, nr. 2](/ovrige-bestemmelser/29/krav/506_522/) og 3,
-
-undtaget.
+*Stk. 2.* For dokumentation, jf. stk. 1, nr. 6, er kontrolrapport for almen kontrol, jf. [§ 519, stk. 1, nr. 2](/ovrige-bestemmelser/29/krav/506_522/) og 3, undtaget.
 
 ### § 549 {#p549 #paragraf-549}
 
@@ -40,7 +38,7 @@ Den certificerede brandrådgivers virke, jf. [§ 548](/ovrige-bestemmelser/34/kr
 
 *Stk. 3.* Den certificerede brandrådgiver kan uddelegere dokumentation for design af brandforhold, jf. [§ 507, stk.1, nr. 5](/ovrige-bestemmelser/29/krav/506_522/)-8 og 10, [§ 507, stk. 2](/ovrige-bestemmelser/29/krav/506_522/) samt [§ 519, stk. 1, nr. 1](/ovrige-bestemmelser/29/krav/506_522/), som den certificerede brandrådgiver ikke selv skal udfærdige. Den certificerede brandrådgiver skal gennemføre en tilstrækkelig supplerende kontrol mindst svarende til en minimumskontrol (MIN), jf. § 527 af den del af den brandtekniske dokumentation, som den certificerede har uddelegeret, således at § 548 er opfyldt.
 
-*Stk. 4.* Den certificerede brandrådgiver skal gennemføre en tilstrækkelig supplerende kontrol af projektering og udførelse af brandsikringstiltag, således at [§ 548, stk. 1, nr. 6](/ovrige-bestemmelser/34/krav/545_551/), er opfyldt. Den supplerende kontrol skal mindst omfatte kontrol af kontrolregistreringsrapporter, der viser, at kontrolrapporter for særlig kontrol af projektering og udførelse af brandsikringstiltag samt dokumentation omfattet af [§§ 135-136 e](/tekniske-bestemmelser/05/krav/)r udført i henhold til kontrolplanen og de ved kontrollen fundne afvigelser er behandlet.
+*Stk. 4.* Den certificerede brandrådgiver skal gennemføre en tilstrækkelig supplerende kontrol af projektering og udførelse af brandsikringstiltag, således at [§ 548, stk. 1, nr. 6](/ovrige-bestemmelser/34/krav/545_551/), er opfyldt. Den supplerende kontrol skal mindst omfatte kontrol af kontrolregistreringsrapporter, der viser, at kontrolrapporter for særlig kontrol af projektering og udførelse af brandsikringstiltag samt dokumentation omfattet af [§§ 135-136](/tekniske-bestemmelser/05/krav/) er udført i henhold til kontrolplanen og de ved kontrollen fundne afvigelser er behandlet.
 
 ### § 550 {#p550 #paragraf-550}
 

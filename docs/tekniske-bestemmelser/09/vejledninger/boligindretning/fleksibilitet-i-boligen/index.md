@@ -26,17 +26,11 @@ Den norske arkitekturforsker Jon Guttu opererer med tre kategorier af foranderli
 
 De tre kategorier rummer forskellige muligheder, og de kan inddrages i den overordnede tilrettelæggelse af boligen, for at tilgodese beboerens mange forskellige ønsker i forbindelse med at skabe et hjem.
 
-Den generelle bolig: Her opnås foranderligheden igennem at dimensionere boligens rum, så de kan skabe rammerne for forskellige funktioner. Det betyder, at planløsningen bør tage højde for, at fx køkken og bad ikke låser anvendelsen af de øvrige rum, ved at man fx kun kan komme til badet igennem et af boligens opholdsrum. Boligens vægge er statiske, men der er indbygget en generel anvendelighed i de enkelte rum, så forandringen kan opstå ved en simpel ommøblering af rummene. Når der skal være plads til forskellige funktioner og dermed forskellige møbeltyper, er det rummenes dimensioner, der er afgørende, så der er plads til fx en seng langs flere af rummets vægge. Det betyder, at rummenes størrelse og form er afgørende for at skabe den generelle bolig. (se ill. 01,
+Den generelle bolig: Her opnås foranderligheden igennem at dimensionere boligens rum, så de kan skabe rammerne for forskellige funktioner. Det betyder, at planløsningen bør tage højde for, at fx køkken og bad ikke låser anvendelsen af de øvrige rum, ved at man fx kun kan komme til badet igennem et af boligens opholdsrum. Boligens vægge er statiske, men der er indbygget en generel anvendelighed i de enkelte rum, så forandringen kan opstå ved en simpel ommøblering af rummene. Når der skal være plads til forskellige funktioner og dermed forskellige møbeltyper, er det rummenes dimensioner, der er afgørende, så der er plads til fx en seng langs flere af rummets vægge. Det betyder, at rummenes størrelse og form er afgørende for at skabe den generelle bolig. (se ill. 01, a)
 
-a)
+Den fleksible bolig: Her opnås foranderligheden ved at udvikle løsninger, der gør det muligt at ændre boligens plan og indre organisering. Det kan fx ske ved at lave møbler, dobbeltdøre og andet inventar, der kan trækkes for eller skydes til side og gemmes væk, hvorved der kan ændres i rummets udformning eller funktion, afhængig af hvilke elementer der er gjort plads til. Eller det kan ske ved, at der i selve boligens plan og konstruktion er forberedt til vægsystemer eller rummoduler, der kan tilføjes eller flyttes. Det giver mulighed for enten at opdele rum i mindre rum eller at koble rumligheder sammen, hvilket bør tilgodeses i den overordnede planlægning af rum og konstruktion. (se ill. 01, b)
 
-Den fleksible bolig: Her opnås foranderligheden ved at udvikle løsninger, der gør det muligt at ændre boligens plan og indre organisering. Det kan fx ske ved at lave møbler, dobbeltdøre og andet inventar, der kan trækkes for eller skydes til side og gemmes væk, hvorved der kan ændres i rummets udformning eller funktion, afhængig af hvilke elementer der er gjort plads til. Eller det kan ske ved, at der i selve boligens plan og konstruktion er forberedt til vægsystemer eller rummoduler, der kan tilføjes eller flyttes. Det giver mulighed for enten at opdele rum i mindre rum eller at koble rumligheder sammen, hvilket bør tilgodeses i den overordnede planlægning af rum og konstruktion. (se ill. 01,
-
-b)
-
-Den elastiske bolig: Her kan boligen ændre størrelse efter behov. Det kan ske ved, at arealet af de enkelte boliger i en bebyggelse udvides eller reduceres afhængigt af modsvarende ændringer i de tilgrænsende boliger. Eller det kan ske ved, at et boligområde rummer lokaler (arbejdsrum, gæsteværelser, teenagerum e.l.), der kan lejes midlertidigt. Dette bør indarbejdes i den overordnede planlægning af bebyggelsen. (se ill. 01,
-
-c)
+Den elastiske bolig: Her kan boligen ændre størrelse efter behov. Det kan ske ved, at arealet af de enkelte boliger i en bebyggelse udvides eller reduceres afhængigt af modsvarende ændringer i de tilgrænsende boliger. Eller det kan ske ved, at et boligområde rummer lokaler (arbejdsrum, gæsteværelser, teenagerum e.l.), der kan lejes midlertidigt. Dette bør indarbejdes i den overordnede planlægning af bebyggelsen. (se ill. 01, c)
 
 ###
 
@@ -85,4 +79,3 @@ Illustration 01 BR vejledning om boligindretning
 ### At bade {#9d95ee42-38e2-41d4-ae53-1d23da54a544}
 
 ### Appendix: Litteratur
-

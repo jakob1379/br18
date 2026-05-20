@@ -14,7 +14,7 @@
 Der skal foretages uafhængig kontrol af dokumentationen vedrørende:
 
 - indplacering i brandklasse
-- dokumentation for, hvorledes byggeriet opfylder [§§ 126-133 v](/tekniske-bestemmelser/05/krav/126_133/)edrørende redningsberedskabets indsatsforhold
+- dokumentation for, hvorledes byggeriet opfylder [§§ 126-133](/tekniske-bestemmelser/05/krav/126_133/) vedrørende redningsberedskabets indsatsforhold
 - brandstrategirapporten
 - kontrolplanen, jf. [§§ 510-512](/ovrige-bestemmelser/29/krav/506_522/) og § 518
 
@@ -119,7 +119,7 @@ Udv. : Udvidet kontrol, Max. : Maksimumskontrol.
 | Emne | BK2 | BK3 | BK4 |
 | --- | --- | --- | --- |
 | Dokumentation for indplacering i brandklasse(r) | Max. | Max. | Max. |
-| Dokumentation for, hvorledes byggeriet opfylder [§§ 126-133 v](/tekniske-bestemmelser/05/krav/126_133/)edrørende redningsberedskabets indsatsforhold | Max. | Max. | Max. |
+| Dokumentation for, hvorledes byggeriet opfylder [§§ 126-133](/tekniske-bestemmelser/05/krav/126_133/) vedrørende redningsberedskabets indsatsforhold | Max. | Max. | Max. |
 | Brandstrategirapport | Max. | Max. | Max. |
 | Brandplaner og situationsplan | Udv. | Max. | Max. |
 | Pladsfordelingsplaner og belægningsplaner | Udv. | Udv. | Udv. |
@@ -154,7 +154,7 @@ Udv. : Udvidet kontrol, Max. : Maksimumskontrol.
 | Emne | Tredjepart |
 | --- | --- |
 | Dokumentation for indplacering i brandklasse(r) | Max. |
-| Dokumentation for, hvorledes byggeriet opfylder [§§ 126-133 v](/tekniske-bestemmelser/05/krav/126_133/)edrørende redningsberedskabets indsatsforhold | Max. |
+| Dokumentation for, hvorledes byggeriet opfylder [§§ 126-133](/tekniske-bestemmelser/05/krav/126_133/) vedrørende redningsberedskabets indsatsforhold | Max. |
 | Brandstrategirapport | Udv. |
 | Brandplaner | Max. |
 | Pladsfordelingsplaner og belægningsplaner | Udv. |

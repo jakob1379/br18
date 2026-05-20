@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../spoergsmaal-og-svar)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../spoergsmaal-og-svar-ve-anlaeg)
@@ -30,11 +26,7 @@
 
 Denne vejledning indeholder en beskrivelse af reglerne for, hvornår der er krav om, at ejeren af en ejendom skal søge om byggetilladelse hos kommunen ved opførelse af en skorsten. Vejledningen indeholder også en kort beskrivelse af reglerne for, hvordan kommunen skal søge en ulovlig skorsten lovliggjort. [![](../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
 
-####
-
-Skorstensfejerbekendtgørelsen
-
-####
+#### Skorstensfejerbekendtgørelsen
 
 Reglerne for det lovpligtige skorstensfejerarbejde er fastsat i skorstensfejerbekendtgørelsen, som er udstedt med hjemmel i byggelovens § 15.
 
@@ -99,4 +91,3 @@ Da ændringen kan karakteriseres som væsentlig, vil det kræve en byggetilladel
 Uanset om et byggearbejde kræver byggetilladelse eller ej, skal byggearbejdet opfylde de til enhver tid gældende regler i byggelovgivningen, herunder reglerne i bygningsreglementet. Dette betyder, at opførelsen af et aftrækssystem altid skal leve op til de krav, der findes i BR18, herunder kapitel 5, 12 og 15.
 
 Byggelovens § 16C, stk. 3, bestemmer, at kommunalbestyrelsen, såfremt den bliver opmærksom på et ulovligt forhold, skal søge forholdet lovliggjort. Såfremt kommunen bliver opmærksom på, at et aftrækssystem ikke lever op til kravene herfor, kan kommunalbestyrelsen således kræve, at ejeren lovliggør aftrækssystemet.
-

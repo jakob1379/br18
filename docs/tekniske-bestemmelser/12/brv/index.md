@@ -58,33 +58,19 @@ Reglerne beskrevet ovenfor er fastlagt i arbejdsmiljøloven, yderligere og opdat
 
 ** **
 
-[1.1.](./#kap-1_1)
+[1.1. Energiforsyningsanlæg i tilknytning til bygninger](./#kap-1_1)
 
-### Energiforsyningsanlæg i tilknytning til bygninger
+[1.2. Generelt for fyringsanlæg](./#kap-1_2)
 
-[1.2.](./#kap-1_2)
+[1.3. Brændeovne, masseovne og åbne fyringsanlæg](./#kap-1_3)
 
-### Generelt for fyringsanlæg
+[1.4. Centralvarmekedler, oliebrændere mv.](./#kap-1_4)
 
-[1.3.](./#kap-1_3)
+[1.5. Tilslutning til aftrækssystem](./#kap-1_5)
 
-### Brændeovne, masseovne og åbne fyringsanlæg
+[1.6. Aftrækssystemer til fyringsanlæg](./#kap-1_6)
 
-[1.4.](./#kap-1_4)
-
-### Centralvarmekedler, oliebrændere mv.
-
-[1.5.](./#kap-1_5)
-
-### Tilslutning til aftrækssystem
-
-[1.6.](./#kap-1_6)
-
-### Aftrækssystemer til fyringsanlæg
-
-[1.7.](./#kap-1_7)
-
-### Øvrige energiforsyningsanlæg: Solvarme, solcelle-, køleanlæg og varmepumper
+[1.7. Øvrige energiforsyningsanlæg: Solvarme, solcelle-, køleanlæg og varmepumper](./#kap-1_7)
 
 ### Energiforsyningsanlæg i tilknytning til bygninger {#kap-1_1}
 
@@ -96,29 +82,17 @@ Mulighed for rensning af røgrør kan f.eks. ske ved montering af renselem på r
 
 Der henvises til [vejledning om installationer i eksisterende bygninger](../../../vejledninger/andre_vejledninger/vejledning/installationer-eksisterende-byggeri/ "Installationer eksisterende byggeri")
 
-[1.2.](./#kap-1_2)
+[1.2. Generelt for fyringsanlæg](./#kap-1_2)
 
-### Generelt for fyringsanlæg
+[1.3. Brændeovne, masseovne og åbne fyringsanlæg](./#kap-1_3)
 
-[1.3.](./#kap-1_3)
+[1.4. Centralvarmekedler, oliebrændere mv.](./#kap-1_4)
 
-### Brændeovne, masseovne og åbne fyringsanlæg
+[1.5. Tilslutning til aftrækssystem](./#kap-1_5)
 
-[1.4.](./#kap-1_4)
+[1.6. Aftrækssystemer til fyringsanlæg](./#kap-1_6)
 
-### Centralvarmekedler, oliebrændere mv.
-
-[1.5.](./#kap-1_5)
-
-### Tilslutning til aftrækssystem
-
-[1.6.](./#kap-1_6)
-
-### Aftrækssystemer til fyringsanlæg
-
-[1.7.](./#kap-1_7)
-
-### Øvrige energiforsyningsanlæg: Solvarme, solcelle-, køleanlæg og varmepumper
+[1.7. Øvrige energiforsyningsanlæg: Solvarme, solcelle-, køleanlæg og varmepumper](./#kap-1_7)
 
 ### Generelt for fyringsanlæg {#kap-1_2}
 
@@ -128,45 +102,27 @@ Ved overtryksfyring bør der benyttes dobbeltvæggede aftrækssystemer.
 
 Ved installation bør det sikres, at skorstenstrækket svarer til mindstekravet angivet i kedlens installationsvejledning. Er dette ikke tilfældet, bør aftrækket forbedres eller forsynes med røgsuger.
 
-[1.3.](./#kap-1_3)
+[1.3. Brændeovne, masseovne og åbne fyringsanlæg](./#kap-1_3)
 
-### Brændeovne, masseovne og åbne fyringsanlæg
+[1.4. Centralvarmekedler, oliebrændere mv.](./#kap-1_4)
 
-[1.4.](./#kap-1_4)
+[1.5. Tilslutning til aftrækssystem](./#kap-1_5)
 
-### Centralvarmekedler, oliebrændere mv.
+[1.6. Aftrækssystemer til fyringsanlæg](./#kap-1_6)
 
-[1.5.](./#kap-1_5)
-
-### Tilslutning til aftrækssystem
-
-[1.6.](./#kap-1_6)
-
-### Aftrækssystemer til fyringsanlæg
-
-[1.7.](./#kap-1_7)
-
-### Øvrige energiforsyningsanlæg: Solvarme, solcelle-, køleanlæg og varmepumper
+[1.7. Øvrige energiforsyningsanlæg: Solvarme, solcelle-, køleanlæg og varmepumper](./#kap-1_7)
 
 ### Brændeovne, masseovne og åbne fyringsanlæg {#kap-1_3}
 
 Ved lukkede centralvarmeanlæg forstås anlæg med sikkerhedsventiler og tilsluttet trykekspansionsbeholder.
 
-Mht. sikkerhedsventil på kedler henvises til At-vejledning B. 4.8 Indretning og anvendelse af fyrede varmtvandsanlæg. [1.4.](./#kap-1_4)
+Mht. sikkerhedsventil på kedler henvises til At-vejledning B. 4.8 Indretning og anvendelse af fyrede varmtvandsanlæg. [1.4. Centralvarmekedler, oliebrændere mv.](./#kap-1_4)
 
-### Centralvarmekedler, oliebrændere mv.
+[1.5. Tilslutning til aftrækssystem](./#kap-1_5)
 
-[1.5.](./#kap-1_5)
+[1.6. Aftrækssystemer til fyringsanlæg](./#kap-1_6)
 
-### Tilslutning til aftrækssystem
-
-[1.6.](./#kap-1_6)
-
-### Aftrækssystemer til fyringsanlæg
-
-[1.7.](./#kap-1_7)
-
-### Øvrige energiforsyningsanlæg: Solvarme, solcelle-, køleanlæg og varmepumper
+[1.7. Øvrige energiforsyningsanlæg: Solvarme, solcelle-, køleanlæg og varmepumper](./#kap-1_7)
 
 ### Centralvarmekedler, oliebrændere mv. {#kap-1_4}
 
@@ -186,17 +142,11 @@ Returtemperatur ved -- 12 °C ude:
 
 Ved særlige biobrændselsfyrede anlæg forstås eksempelvis tørringsanlæg for korn, frø og grøntafgrøder, røgeanlæg og varmolieanlæg.
 
-[1.5.](./#kap-1_5)
+[1.5. Tilslutning til aftrækssystem](./#kap-1_5)
 
-### Tilslutning til aftrækssystem
+[1.6. Aftrækssystemer til fyringsanlæg](./#kap-1_6)
 
-[1.6.](./#kap-1_6)
-
-### Aftrækssystemer til fyringsanlæg
-
-[1.7.](./#kap-1_7)
-
-### Øvrige energiforsyningsanlæg: Solvarme, solcelle-, køleanlæg og varmepumper
+[1.7. Øvrige energiforsyningsanlæg: Solvarme, solcelle-, køleanlæg og varmepumper](./#kap-1_7)
 
 ### Tilslutning til aftrækssystem {#kap-1_5}
 
@@ -212,13 +162,9 @@ For gasfyrede pejse henvises til gasreglementet.
 
 Kraftvarmeapparater er kraftvarmeenheder med en maksimal kapacitet på 50 kWe, og en maksimal indfyret effekt på 70 kW.
 
-[1.6.](./#kap-1_6)
+[1.6. Aftrækssystemer til fyringsanlæg](./#kap-1_6)
 
-### Aftrækssystemer til fyringsanlæg
-
-[1.7.](./#kap-1_7)
-
-### Øvrige energiforsyningsanlæg: Solvarme, solcelle-, køleanlæg og varmepumper
+[1.7. Øvrige energiforsyningsanlæg: Solvarme, solcelle-, køleanlæg og varmepumper](./#kap-1_7)
 
 ### Aftrækssystemer til fyringsanlæg {#kap-1_6}
 
@@ -246,9 +192,7 @@ For øvrige aftrækningssystemer, der er omfattet og CE-mærket i henhold til en
 
 Skorstene skal, uanset om de er fritstående eller integrerede, overholde bygningsreglementets krav til højde- og afstandsforhold, herunder afstand til skel på mindst 2,5 m, og det skrå højdegrænseplan, såfremt skorstenspiben er af sædvanligt omfang, medregnes denne ikke ved beregning af bygningens højde. Se også [§§ 177-178](/tekniske-bestemmelser/08/krav/).
 
-[1.7.](./#kap-1_7)
-
-### Øvrige energiforsyningsanlæg: Solvarme, solcelle-, køleanlæg og varmepumper
+[1.7. Øvrige energiforsyningsanlæg: Solvarme, solcelle-, køleanlæg og varmepumper](./#kap-1_7)
 
 ### Øvrige energiforsyningsanlæg: Solvarme, solcelle-, køleanlæg og varmepumper {#kap-1_7}
 
@@ -273,4 +217,3 @@ Der henvises til
 \- DS/EN 378 - Kølesystemer og varmepumper -- Sikkerheds- og miljøkrav - Del 1, 2, 3 og 4
 
 Kravet om tilfredsstillende nøjagtighed af målere er opfyldt ved anvendelse af typegodkendte målere eller målere med en tilsvarende nøjagtighed.
-

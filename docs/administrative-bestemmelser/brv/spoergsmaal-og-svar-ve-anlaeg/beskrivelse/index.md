@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../)
@@ -35,4 +31,3 @@ Ved elproducerende VE-anlæg forstås anlæg, der etableres og drives med henbli
 ### I hvilke tilfælde skal der søges om byggetilladelse ved etablering af elproducerende VE-anlæg?
 
 ### Hvad er reglerne for brand- og konstruktionsforhold ved etablering af elproducerende VE-anlæg, og skal der tilknyttes en certificerede rådgivere?
-

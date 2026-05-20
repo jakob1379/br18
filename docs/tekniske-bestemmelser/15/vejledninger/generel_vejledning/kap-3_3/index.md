@@ -56,7 +56,7 @@ Vejledning: Store træspær - Behov for afstivning
 
 ####
 
-#### Gå til vejledning @@PROTECTED_12@@
+#### Gå til vejledning [Store træspor - behov for afstivning](../../../../../media/i4ff0la2/2019-01-22_store_spaer_-_behov_for_afstivning.pdf){target="_blank"}
 
 ####
 
@@ -64,7 +64,7 @@ Vejledning: Store stålspær - Behov for afstivning
 
 ####
 
-#### Gå til vejledning @@PROTECTED_13@@
+#### Gå til vejledning [Store Stålrammer Behov For Afstivning (1)](../../../../../media/j11pa3fg/store-staalrammer-behov-for-afstivning.pdf){target="_blank"}
 
 [3.4.](../kap-3_4/)
 
@@ -73,4 +73,3 @@ Vejledning: Store stålspær - Behov for afstivning
 [3.5.](../kap-3_5/)
 
 ### Tagbrønde og tagnedløb
-

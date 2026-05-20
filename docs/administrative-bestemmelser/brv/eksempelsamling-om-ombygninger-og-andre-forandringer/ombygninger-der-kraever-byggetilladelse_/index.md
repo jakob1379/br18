@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -85,11 +81,9 @@ Det forudsættes ydermere for de eksempler, der skal indplaceres i en konstrukti
 +------------------------------------------------------------------------------------------------+--------------------------------------------+------------------------------------+-------------------------------------------+------------------------------------------------+
 | Udnyttelse af uudnyttet tagetage til beboelse, der udvider etagearealet.                       | Ja                                         | Ja                                 | Nej                                       | Nej                                            |
 +------------------------------------------------------------------------------------------------+--------------------------------------------+------------------------------------+-------------------------------------------+------------------------------------------------+
-| Udnyttelse af pulterrum i udnyttelig tagetage til beboelse, der ændrer anvendelsen væsentligt. | Ja                                         | Ja                                 | Nej                                       | Nej\                                           |
-|                                                                                                |                                            |                                    |                                           | \                                              |
+| Udnyttelse af pulterrum i udnyttelig tagetage til beboelse, der ændrer anvendelsen væsentligt. | Ja                                         | Ja                                 | Nej                                       | Nej                                            |
 +------------------------------------------------------------------------------------------------+--------------------------------------------+------------------------------------+-------------------------------------------+------------------------------------------------+
 
 [3.2](../ombygninger-der-kan-opfoeres-uden-byggetilladelse_/)
 
 ### Ombygninger og andre forandringer der kan udføres uden ansøgning om byggetilladelse
-

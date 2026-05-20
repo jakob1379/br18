@@ -1,19 +1,13 @@
 ---
-title: Adgangsforhold (§ 48 - §
-
-62) – Vejledning
+title: Adgangsforhold (§ 48 - § 62) – Vejledning
 ---
 
-# Adgangsforhold (§ 48 - §
-
-62)
+# Adgangsforhold (§ 48 - § 62)
 
 [Krav](../){ .md-button }
 [Vejledning](./){ .md-button .md-button--primary }
 
-## Se alle vejledninger om Adgangsforhold (§ 48 - §
-
-62)
+## Se alle vejledninger om Adgangsforhold (§ 48 - § 62)
 
 - [Spørgsmål og svar om adgangsforhold](./#spoergsmaal-og-svar-om-adgangsforhold)
 - [Vejledning til brugerbegreb](./#vejledning-til-brugerbegreb)

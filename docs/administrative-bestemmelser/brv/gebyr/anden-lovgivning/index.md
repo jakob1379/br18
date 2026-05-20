@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -86,7 +82,8 @@ Det fremgår af BR18 [§ 35, stk. 2](/administrative-bestemmelser/krav/35_38/), 
 
 Såfremt der som led i denne undersøgelse af anden lovgivning opstår en situation, hvor kommunen er nødsaget til at undersøge visse forhold under den anden lovgivning nærmere, herunder eksempelvis afklaring af en lovs anvendelsesområde, fortolkning af et regelsæt osv., vil der opstå en situation, hvor kommunen ikke blot nøjes med at vurdere byggeansøgningen efter anden lovgivning, og som derfor ikke naturligt indgår som en del af byggesagsbehandlingen. Det arbejde, der ligger i at få disse uklarheder vedrørende anden lovgivning afklaret, vil typisk falde uden for selve vurderingen af byggesagen, hvorfor tiden hertil ikke kan medregnes i opgørelsen af byggesagsgebyret.
 
-Der kan alene opkræves byggesagsgebyr i de sager, hvor der træffes afgørelse med hjemmel i [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178). Tilladelser og dispensationer, der meddeles i henhold til anden lovgivning, kan der derfor ikke opkræves byggesagsgebyr for. Dette ændres ikke af, at kommunen som myndighed i henhold til anden lovgivning skal meddele tilladelse, der er en forudsætning for, at byggetilladelsen kan meddeles. Som eksempel kan nævnes den situation, hvor en landzonetilladelse er en forudsætning for, at der kan meddeles byggetilladelse. I disse tilfælde kan der ikke opkræves byggesagsgebyr for udstedelse af landzonetilladelsen, idet landzonetilladelser meddeles med hjemmel i [planloven](https://www.retsinformation.dk/eli/lta/2024/572).  [15.](../intern-instruks/)
+Der kan alene opkræves byggesagsgebyr i de sager, hvor der træffes afgørelse med hjemmel i [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178). Tilladelser og dispensationer, der meddeles i henhold til anden lovgivning, kan der derfor ikke opkræves byggesagsgebyr for. Dette ændres ikke af, at kommunen som myndighed i henhold til anden lovgivning skal meddele tilladelse, der er en forudsætning for, at byggetilladelsen kan meddeles. Som eksempel kan nævnes den situation, hvor en landzonetilladelse er en forudsætning for, at der kan meddeles byggetilladelse. I disse tilfælde kan der ikke opkræves byggesagsgebyr for udstedelse af landzonetilladelsen, idet landzonetilladelser meddeles med hjemmel i [planloven](https://www.retsinformation.dk/eli/lta/2024/572).
+
+[15.](../intern-instruks/)
 
 ### Intern instruks i kommunen
-

@@ -40,17 +40,11 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 +----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Mellem en bolig og rum uden for boligen ^a)^\                                                                                                            | ≥ 55 dB                                                                                                                                                  |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Mellem fælles opholdsrum indbyrdes^
-
-5)^                                                                                                                  | ≥ 55 dB                                                                                                                                                  |
+| Mellem fælles opholdsrum indbyrdes^5)^                                                                                                                  | ≥ 55 dB                                                                                                                                                  |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Dør^
-
-2)^ mellem bolig og fællesrum                                                                                                                       |  ≥ 32 dB\                                                                                                                                                |
+| Dør^2)^ mellem bolig og fællesrum                                                                                                                       |  ≥ 32 dB\                                                                                                                                                |
 |                                                                                                                                                          |                                                                                                                                                          |
-| Dør^
-
-2)^ mellem fælles opholdsrum og gange/trapperum                                                                                                     |                                                                                                                                                          |
+| Dør^2)^ mellem fælles opholdsrum og gange/trapperum                                                                                                     |                                                                                                                                                          |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Trinlydniveau \[2\]**                                                                                                                                  |  ***L\'~n,w~***\                                                                                                                                         |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -61,14 +55,10 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 | -- fra andre boliger og fra fællesrum ^b)^                                                                                                               |                                                                                                                                                          |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
 | I beboelsesrum og køkkener\                                                                                                                              | ≤ 58 dB                                                                                                                                                  |
-| -- fra fælles trapperum og gange, fra altaner eller tilsvarende samt fra toilet- og baderum i andre boliger ^3),\
-
-4)^                                    |                                                                                                                                                          |
+| -- fra fælles trapperum og gange, fra altaner eller tilsvarende samt fra toilet- og baderum i andre boliger ^3), 4)^                                 |                                                                                                                                                          |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
 | I fælles opholdsrum\                                                                                                                                     | ≤ 58 dB                                                                                                                                                  |
-| -- fra beboelsesrum, andre fællesrum, trapperum, gange, altaner eller tilsvarende samt fra toilet- og baderum ^3),\
-
-4)^                                  |                                                                                                                                                          |
+| -- fra beboelsesrum, andre fællesrum, trapperum, gange, altaner eller tilsvarende samt fra toilet- og baderum ^3), 4)^                               |                                                                                                                                                          |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
 | ***Supplerende vejledning* \[3\]**                                                                                                                                                                                                                                                                                  |
 |                                                                                                                                                                                                                                                                                                                     |
@@ -80,25 +70,15 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Noter**                                                                                                                                                                                                                                                                                                           |
 |                                                                                                                                                                                                                                                                                                                     |
-|
-
-1)   Lette konstruktioner i lejlighedsskel, dvs. skillevægge med en vægt pr. arealenhed under 100 kg/m^2^ og etageadskillelser med en vægt pr. arealenhed under 250 kg/m^2^, kan give problemer med utilstrækkelig lydisolation ved lave frekvenser, selv om kravene til lydisolation i lydklasse C er opfyldt.     |
+| 1)   Lette konstruktioner i lejlighedsskel, dvs. skillevægge med en vægt pr. arealenhed under 100 kg/m^2^ og etageadskillelser med en vægt pr. arealenhed under 250 kg/m^2^, kan give problemer med utilstrækkelig lydisolation ved lave frekvenser, selv om kravene til lydisolation i lydklasse C er opfyldt.     |
 |                                                                                                                                                                                                                                                                                                                     |
-|
-
-2)   Grænseværdien gælder for dørens areal. Den omgivende væg skal opfylde grænseværdien for 'mellem en bolig og rum uden for boligen' henholdsvis 'mellem fælles opholdsrum indbyrdes'.                                                                                                                            |
+| 2)   Grænseværdien gælder for dørens areal. Den omgivende væg skal opfylde grænseværdien for 'mellem en bolig og rum uden for boligen' henholdsvis 'mellem fælles opholdsrum indbyrdes'.                                                                                                                            |
 |                                                                                                                                                                                                                                                                                                                     |
-|
-
-3)   Altaner samt gulve og dæk i toilet- og baderum og andre rum med et gulvareal mindre end 2,5 m^2^ skal ikke opfylde krav til trinlydniveau.                                                                                                                                                                     |
+| 3)   Altaner samt gulve og dæk i toilet- og baderum og andre rum med et gulvareal mindre end 2,5 m^2^ skal ikke opfylde krav til trinlydniveau.                                                                                                                                                                     |
 |                                                                                                                                                                                                                                                                                                                     |
-|
-
-4)   Fælles og private tagterrasser skal opfylde samme grænseværdier som altaner.                                                                                                                                                                                                                                   |
+| 4)   Fælles og private tagterrasser skal opfylde samme grænseværdier som altaner.                                                                                                                                                                                                                                   |
 |                                                                                                                                                                                                                                                                                                                     |
-|
-
-5)   Hvis et fælles opholdsrum opdeles med en foldedør/mobilvæg bør lydisolationen mellem de to dele af rummet fastsættes efter den planlagte anvendelse.                                                                                                                                                           |
+| 5)   Hvis et fælles opholdsrum opdeles med en foldedør/mobilvæg bør lydisolationen mellem de to dele af rummet fastsættes efter den planlagte anvendelse.                                                                                                                                                           |
 +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 [2.3](../stoej-indendoers-fra-trafik-i-boliger/)
@@ -112,4 +92,3 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 [2.5](../rumakustik-i-boliger/)
 
 ### Rumakustik i boliger
-

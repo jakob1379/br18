@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -46,7 +42,7 @@ Pligten til at lovliggøre et ulovligt forhold påhviler den til enhver tid vær
 
 Pligten er dog personlig i den forstand, at et påbud om lovliggørelse skalrettes til den konkrete ejer. Skifter ejendommen ejer, skal påbuddet derfor gentages over for den nye ejer.
 
-[Byggelovens § 17 i](https://www.retsinformation.dk/eli/lta/2016/1178)ndeholder således [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178)s ansvarsbestemmelse, der som udgangspunkt pålægger ejeren at berigtige ulovlige forhold, uanset hvem der er skyld i det ulovlige forhold.
+[Byggelovens § 17](https://www.retsinformation.dk/eli/lta/2016/1178) indeholder således [byggelovens](https://www.retsinformation.dk/eli/lta/2016/1178) ansvarsbestemmelse, der som udgangspunkt pålægger ejeren at berigtige ulovlige forhold, uanset hvem der er skyld i det ulovlige forhold.
 
 Hvis det ulovlige forhold består i ulovlig brug af ejendommen, påhviler pligten til at berigtige det ulovlige forhold tillige brugeren. Dette fremgår af [byggelovens § 17, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178), 2. pkt.
 
@@ -69,4 +65,3 @@ Bestemmelsen om, at pligten til at berigtige ulovlige forhold også kan påhvile
 ### Forholdet til anden lovgivning
 
 ### Særligt om lovliggørelse i forbindelse med bygningers klimapåvirkning
-

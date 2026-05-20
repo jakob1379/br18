@@ -1,6 +1,4 @@
-# Affaldssystemer (§ 63 - §
-
-68)
+# Affaldssystemer (§ 63 - § 68)
 
 ## Bygningsreglementets vejledning om affaldssystemer
 
@@ -41,4 +39,3 @@ Bygherren skal efter de nye regler forsat tage hensyn til, at der ikke opstår s
 ### Brugerhensyn {#cf35d4fb-7f22-4403-9b39-372cc0b8025b}
 
 ### Affaldsskakte i eksisterende byggeri {#9066c486-cccb-4977-a72e-b70d06564b36}
-

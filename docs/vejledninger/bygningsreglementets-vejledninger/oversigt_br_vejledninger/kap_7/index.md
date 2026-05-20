@@ -36,7 +36,9 @@
 
 ## Byggepladsen og udførelsen af Byggearbejder (§ 161 - § 165)
 
-[Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder](../../../../tekniske-bestemmelser/07/vejledninger/generel_vejledning/){rel="noopener noreferrer" target="_blank"} [Kap. 8](../kap_8/)
+[Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder](../../../../tekniske-bestemmelser/07/vejledninger/generel_vejledning/){rel="noopener noreferrer" target="_blank"}
+
+[Kap. 8](../kap_8/)
 
 ## Byggeret og helhedsvurdering (§ 166 - § 195)
 
@@ -147,4 +149,3 @@
 [Kap. 35](../kap_35/)
 
 ## Anerkendelse af statikere (§ 552 - § 563)
-

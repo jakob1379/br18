@@ -40,9 +40,9 @@ I køkkener skal der være plads til, at køkkenarbejde kan foregå på en hensi
 
 For boliger på under 50 m² kan køkken indrettes som kogeniche.
 
-### § 204 I {#paragraf-204i}
+### § 204 {#paragraf-204}
 
-fritliggende enfamiliehuse, etageboliger, boliger i rækkehuse og dobbelthuse mv. skal der indrettes mindst et wc-rum i adgangsetagen, der har en hensigtsmæssig størrelse og indretning, således at der sikres tilstrækkelig fri afstand foran håndvask og wc. Wc-rum skal have håndvask.
+I fritliggende enfamiliehuse, etageboliger, boliger i rækkehuse og dobbelthuse mv. skal der indrettes mindst et wc-rum i adgangsetagen, der har en hensigtsmæssig størrelse og indretning, således at der sikres tilstrækkelig fri afstand foran håndvask og wc. Wc-rum skal have håndvask.
 
 ### § 205 {#paragraf-205}
 
@@ -72,7 +72,11 @@ Hvis der er døre eller skabsdøre i siderne af gangarealet, skal gangarealet v�
 
 Der kan etableres en eller flere hemse, hvis de har et gulvareal på højst 4,5 m², så de ikke kan betragtes som en indskudt etage. Det er en betingelse, at en hems står i åben forbindelse med det rum, den er indbygget i.
 
-§ 212 I tilknytning til etageboliger og sammenbyggede enfamiliehuse skal der etableres et tilstrækkeligt og aflukket areal til opbevaring af større brugsgenstande, f.eks. cykler, barnevogne og rollatorer. § 213
+### § 212 {#paragraf-212}
+
+I tilknytning til etageboliger og sammenbyggede enfamiliehuse skal der etableres et tilstrækkeligt og aflukket areal til opbevaring af større brugsgenstande, f.eks. cykler, barnevogne og rollatorer.
+
+### § 213 {#paragraf-213}
 
 I eller i tilknytning til etageboliger og sammenbyggede enfamiliehuse skal der under hensyn til indeklimaet etableres faciliteter til vask og tørring af tøj.
 
@@ -110,9 +114,9 @@ Wc-rum omfattet af § 214 stk. 2, skal ved ombygning indrettes, så det kan be
 
 *Stk. 2.* Bestemmelsen i § 214, stk. 2, gælder kun ved ombygninger, når der ved ombygningen etableres offentlige tilgængelige wc-rum i stueetagen eller på andre etager med adgang via elevator, lift eller lignende.
 
-### § 217 I {#paragraf-217i}
+### § 217 {#paragraf-217}
 
-bygninger med forsamlingslokaler skal installationer projekteres og udføres under hensyn til bygningens tekniske muligheder, så personer med behov for tekniske hjælpemidler, som eksempelvis teleslynger, ved egen hjælp kan deltage i aktiviteter i bygningen.
+I bygninger med forsamlingslokaler skal installationer projekteres og udføres under hensyn til bygningens tekniske muligheder, så personer med behov for tekniske hjælpemidler, som eksempelvis teleslynger, ved egen hjælp kan deltage i aktiviteter i bygningen.
 
 ### § 218 {#paragraf-218}
 
@@ -124,11 +128,17 @@ I forsamlingslokaler, herunder rum, der er indrettet til fællesaktiviteter sås
 
 Almindelige undervisningslokaler i folkeskoler og mødelokaler i kontorbyggeri er ikke omfattet af § 218.
 
-§ 220 I offentligt tilgængelige lokaler og anlæg med fastmonterede publikumspladser skal der afsættes pladser, der sikrer adgang for personer med særlige pladsbehov, eksempelvis kørestolsbrugere.
+### § 220 {#paragraf-220}
+
+I offentligt tilgængelige lokaler og anlæg med fastmonterede publikumspladser skal der afsættes pladser, der sikrer adgang for personer med særlige pladsbehov, eksempelvis kørestolsbrugere.
 
 ## § 221 - § 227 Indretning af bygninger med arbejdspladser {#78e0d380-331c-4767-a150-4cd522ecce82}
 
-§ 221 I bygninger, hvori der indrettes arbejdspladser, skal rummene indrettes i forhold til størrelse, dagslys, rumhøjde og rumindhold, så rummet i forhold til dets anvendelse og det antal personer, der forventes at arbejde i det, er dimensioneret, så der tages højde for sikkerhed, sundhed og funktionalitet i rummet. § 222
+### § 221 {#paragraf-221}
+
+I bygninger, hvori der indrettes arbejdspladser, skal rummene indrettes i forhold til størrelse, dagslys, rumhøjde og rumindhold, så rummet i forhold til dets anvendelse og det antal personer, der forventes at arbejde i det, er dimensioneret, så der tages højde for sikkerhed, sundhed og funktionalitet i rummet.
+
+### § 222 {#paragraf-222}
 
 På arbejdspladser skal der indrettes wc-rum, baderum og udenomsrum. Rummene skal opfylde følgende betingelser:
 
@@ -212,7 +222,7 @@ Hoteller, kroer og lignende bygninger skal indrettes således, at brugerne ved e
 
 ### § 233 {#paragraf-233}
 
-I hoteller, kroer og lignende med 10-20 sengepladser skal der indrettes minimum 2 sengepladser med egne bade- og wc- faciliteter, som opfylder følgende krav:
+I hoteller, kroer og lignende med 10-20 sengepladser skal der indrettes minimum 2 sengepladser med egne bade- og wc-faciliteter, som opfylder følgende krav:
 
 1\) Der skal være niveaufri adgang frem til wc-rum.
 
@@ -230,7 +240,21 @@ I hoteller, kroer og lignende med 10-20 sengepladser skal der indrettes minimum 
 
 8\) Håndvask skal placeres i en højde på ca. 0,80 m med afløb under vask trukket tilbage.
 
-§ 234 I hoteller, kroer og lignende med 21-40 sengepladser skal der indrettes minimum 4 sengepladser med egne bade- og wc- faciliteter, som opfylder § 233. § 235 I hoteller, kroer og lignende med mere end 40 sengepladser skal der for hver yderligere 20. sengeplads indrettes mindst 1 sengeplads med egne bade- og wc-faciliteter, som opfylder § 233. § 236 Uanset det samlede antal af sengepladser i bygningen, er § 232 altid opfyldt, når mindst 10 sengepladser er indrettet med egne bade- og wc-faciliteter i henhold til § 233. § 237 Altaner i forbindelse med værelser omfattet af § 232 skal udføres, så brugerne ved egen hjælp kan benytte dem.
+### § 234 {#paragraf-234}
+
+I hoteller, kroer og lignende med 21-40 sengepladser skal der indrettes minimum 4 sengepladser med egne bade- og wc-faciliteter, som opfylder § 233.
+
+### § 235 {#paragraf-235}
+
+I hoteller, kroer og lignende med mere end 40 sengepladser skal der for hver yderligere 20. sengeplads indrettes mindst 1 sengeplads med egne bade- og wc-faciliteter, som opfylder § 233.
+
+### § 236 {#paragraf-236}
+
+Uanset det samlede antal af sengepladser i bygningen, er § 232 altid opfyldt, når mindst 10 sengepladser er indrettet med egne bade- og wc-faciliteter i henhold til § 233.
+
+### § 237 {#paragraf-237}
+
+Altaner i forbindelse med værelser omfattet af § 232 skal udføres, så brugerne ved egen hjælp kan benytte dem.
 
 ## § 238 - § 241 Glaspartier, glasflader, og værn af glas i bygninger {#098ed0b6-7eb7-4c64-ae1b-529b392d3d3c}
 
@@ -257,4 +281,3 @@ Såfremt der i værn ved niveauspring i eller uden for bygningen benyttes glas, 
 ### § 241 {#paragraf-241}
 
 Glas benyttet i vinduer og døre i boliger er ikke omfattet af §§ 238 og 239, med mindre der foreligger særlige forhold, hvor vinduet eller døren er placeret således, eller bygningen benyttes på en sådan måde, at der kan opstå risiko for personskader ved kollision med glasset.
-

@@ -38,7 +38,7 @@ I boliger er der varierende dagslysbehov. Der kan derfor normalt accepteres et l
 
 ### Glasareal og relevant gulvareal
 
-Glasarealet i et rum beregnes som summen af glasarealer i alle rummets vinduer. Glasarealet for hvert vindue beregnes som det frie åbningsareal, dvs. hele vinduets areal minus ramme-, karm- og sprossearealer. Det faktiske glasareal for hvert vindue skal korrigeres for forhold, som begrænser dagslysadgangen til vinduet, samt for lystransmittansen af den valgte rudetype, som beskrevet i Trafik-, Bygge- og Boligstyrelsens *Vejledning om lys og udsyn*. Da ovenlys modtager væsentligt mere dagslys end lodrette vinduer, kan glasarealet for ovenlys indregnes som beskrevet i *ogtildefjernestearbejdspladser,inklusivehelearbejdsfeltet(fxetskrivebord)forhverarbejdsplads.%3C/p%3E%3Cp%3EGulvarealopmålesfraindersideafvæggeogudgørderforetnettoarealirummene.Gulvarealetivinduesnicherskaltællesmed,hvisvinduesnichenersåstor,atgulvarealeterrelevantiforholdtilrummetsfunktion.Forgulvarealerunderskråvæggemedregneskundetarealhvorloftshøjdeneroverberegningsplanet,derbenyttesvedberegningafbelysningsstyrker,altså0,50meterovergulvetforrumiboligerog0,85meterovergulvetforarbejdsrum.%3C/p%3E%3Cp%3EDagslysforholdenevedarbejdspladserlængereend8meterfrafacadenvilnormaltskulledokumenteresvedberegningafbelysningsstyrkerfradagslys,dametodenmedbrugafglasarealikketagerhøjdeformegetdyberum.%3C/p%3E%3Ch3%3E%3Caname=)Forudsætninger vedr. beregning af belysningsstyrker*
+Glasarealet i et rum beregnes som summen af glasarealer i alle rummets vinduer. Glasarealet for hvert vindue beregnes som det frie åbningsareal, dvs. hele vinduets areal minus ramme-, karm- og sprossearealer. Det faktiske glasareal for hvert vindue skal korrigeres for forhold, som begrænser dagslysadgangen til vinduet, samt for lystransmittansen af den valgte rudetype, som beskrevet i Trafik-, Bygge- og Boligstyrelsens *Vejledning om lys og udsyn*. Da ovenlys modtager væsentligt mere dagslys end lodrette vinduer, kan glasarealet for ovenlys indregnes som beskrevet i *Forudsætninger vedr. beregning af belysningsstyrker*.
 
 For beboelsesrum og køkkener beregnes det relevante gulvareal i almindelighed som arealet af den gulvflade, der omsluttes af rummets vægge.
 
@@ -112,4 +112,3 @@ Der henvises til [vejledning om installationer i eksisterende bygninger](../../.
 ### Funktionsafprøvning (§ 384) {#e214b888-0da2-49b2-a52f-06b4caea8021}
 
 Der henvises til [Trafik-, Bygge- og Boligstyrelsens vejledning om funktionsafprøvning.](../../../../11/brv/version-2-funktionsafprovning "Version 2 Funktionsafprovning"){rel="noopener" target="_blank"}
-

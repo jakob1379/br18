@@ -751,7 +751,7 @@ Når midlertidige, flytbare pavilloner bliver ombygget, er der krav om gennemfø
 
 Kravet til U-værdi for lystunneler eller lignende gælder for gennembrydningen af den isolerede flade, som lystunnelen er indsat i. Det kunne for eksempel være lysfordeleren i et isoleret loft. U-værdien skal dokumenteres i henhold til DS/EN 10077-1.
 
--{target="_blank"}
+-  [Gå til energikrav for midlertidige, flytbare pavilloner (§ 287 - § 292)](../../../krav/287_292#f83468ad-c2a0-4b59-840a-7f0e0afc27f9){target="_blank"}
 
 ### Bygningsopvarmning {#f83468ad-c2a0-4b59-840a-7f0e0afc27f9}
 
@@ -942,5 +942,4 @@ Målerdataene sammenholdes med vejrdata for lufttemperatur og soltilskud fx med 
 *Funktionsafprøvning*
 
 Bygningsautomatikken skal funktionsafprøves ifølge bygningsreglementets §296. Funktionsafprøvningen skal gennemføres, så det sikres, at bygningsautomatikken er korrekt installeret og virker efter hensigten. Se mere om funktionsafprøvning i bygningsreglementets vejledning om funktionsafprøvning.
-
 

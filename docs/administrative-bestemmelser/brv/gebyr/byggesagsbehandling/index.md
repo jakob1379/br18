@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -68,7 +64,7 @@ Der gøres opmærksom på overgangsordningen for teknisk byggesagsbehandling ved
 
 2. Bek nr. 1616 af den 13. december 2017
 
-3. Der er med BR18 [§§ 24-29 i](/administrative-bestemmelser/krav/24_29/)ndført en overgangsperiode indtil 31. december 2019 for byggesagsbehandling af brand- og konstruktionsklasse 2-4.
+3. Der er med BR18 [§§ 24-29](/administrative-bestemmelser/krav/24_29/) indført en overgangsperiode indtil 31. december 2019 for byggesagsbehandling af brand- og konstruktionsklasse 2-4.
 
 4. BR18 [§ 40, stk. 1](/administrative-bestemmelser/krav/40_46/).
 
@@ -119,4 +115,3 @@ Der gøres opmærksom på overgangsordningen for teknisk byggesagsbehandling ved
 [15.](../intern-instruks/)
 
 ### Intern instruks i kommunen
-

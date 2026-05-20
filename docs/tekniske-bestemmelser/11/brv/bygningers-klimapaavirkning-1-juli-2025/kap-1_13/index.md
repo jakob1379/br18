@@ -418,9 +418,7 @@ Disse værdier fremgår af BR18, bilag 2, tabel 7.
 
 Standard installationsværdierne er angivet i enheden kg CO2-ækvivalenter pr. m2 opvarmet areal pr. år. Værdierne skaleres altså med arealet, som svarer til det samlede opvarmet etageareal, jf. § 256 stk. 3, plus arealet for opvarmet kælder. Hvis der er forskellige anvendelser af en bygning, kan man arealvægte standardværdierne.
 
-Værdierne er fastsat ud fra en betragtningsperiode på 50 år. Det betyder, at der ikke skal knyttes levetider til værdierne (læs mere om levetider i vejledningen om § 297, stk.
-
-10). Udskiftninger undervejs i betragtningsperioden er indregnet i henholdsvis modulerne A1-A3 og C3/C4. Klimapåvirkningerne fra installationer ved anvendelse af standard installationsværdier fremgår derfor kun for modulerne A1-A3 og C3 og C4, og modul D.
+Værdierne er fastsat ud fra en betragtningsperiode på 50 år. Det betyder, at der ikke skal knyttes levetider til værdierne (læs mere om levetider i vejledningen om § 297, stk. 10). Udskiftninger undervejs i betragtningsperioden er indregnet i henholdsvis modulerne A1-A3 og C3/C4. Klimapåvirkningerne fra installationer ved anvendelse af standard installationsværdier fremgår derfor kun for modulerne A1-A3 og C3 og C4, og modul D.
 
 Da værdierne er opdelt i tre kategorier
 
@@ -1333,9 +1331,7 @@ hvor
 
 x er klimapåvirkningen fra materialerne i den pågældende bygningskonstruktion (i kg CO~2~-ækv.) opgjort over den 50-årige betragtningsperiode, r er referenceværdien for den givne konstruktion (i kg CO~2~-ækv. /m^2^ /år), m er arealet af den konstruktion, som berøres af det særlige forhold (i m^2^), o a er arealet som opgjort ifølge § 297, stk. 3, (i m^2^).
 
-Bygningen er på 2.000 m^2^ referenceareal (referenceareal beregnes, jf. § 297, stk.
-
-3), og den særligt høje last forekommer på et areal på 500 m^2^ af etagedækket. Etagedækket designes i det område både tykkere og med kraftigere armering, hvilket medfører, at konstruktionen i det område har en CO~2~ udledning på 50.000 kg CO~2~-ækvivalenter. Bygningsejer beregner vha. referenceværdierne i BR18, bilag 2, tabel 9, og Formel 1, hvor stor en ekstra klimapåvirkning, som etagedækket har i forhold til en almindelig referencebygning. Arealet, jf. § 297, stk. 3, er på 2.000 m2.
+Bygningen er på 2.000 m^2^ referenceareal (referenceareal beregnes, jf. § 297, stk. 3), og den særligt høje last forekommer på et areal på 500 m^2^ af etagedækket. Etagedækket designes i det område både tykkere og med kraftigere armering, hvilket medfører, at konstruktionen i det område har en CO~2~ udledning på 50.000 kg CO~2~-ækvivalenter. Bygningsejer beregner vha. referenceværdierne i BR18, bilag 2, tabel 9, og Formel 1, hvor stor en ekstra klimapåvirkning, som etagedækket har i forhold til en almindelig referencebygning. Arealet, jf. § 297, stk. 3, er på 2.000 m2.
 
 ((50.000 kg CO2-ækv. / 50 år) -- (1,30 kg CO2-ækv. /m2 /år 500 m2)) / 2000 m2 = 0,175 kg CO2-ækv./m2/år
 
@@ -1462,9 +1458,7 @@ Hvor
 
 x er klimapåvirkningen fra materialerne i den pågældende bygningskonstruktion (i kg CO~2~-ækv.) opgjort over den 50-årige betragtningsperiode, r er referenceværdien for den givne konstruktion (i kg CO~2~-ækv. /m^2^ /år), m er arealet af den konstruktion, som berøres af det særlige forhold (i m^2^) og a er arealet som opgjort ifølge § 297, stk. 3, (i m^2^).
 
-Bygningen er på 2.000 m^2^ referenceareal (referenceareal beregnes, jf. § 297, stk.
-
-3), og den særligt høje last forekommer på et areal på 500 m^2^ af etagedækket. Etagedækket designes i det område både tykkere og med kraftigere armering, hvilket medfører, at konstruktionen i det område har en CO~2~ udledning på 50.000 kg CO~2~-ækvivalenter. Bygningsejer beregner vha. referenceværdierne i BR18, bilag 2, tabel 9, og Formel 1, hvor stor en ekstra klimapåvirkning, som etagedækket har i forhold til en almindelig referencebygning.
+Bygningen er på 2.000 m^2^ referenceareal (referenceareal beregnes, jf. § 297, stk. 3), og den særligt høje last forekommer på et areal på 500 m^2^ af etagedækket. Etagedækket designes i det område både tykkere og med kraftigere armering, hvilket medfører, at konstruktionen i det område har en CO~2~ udledning på 50.000 kg CO~2~-ækvivalenter. Bygningsejer beregner vha. referenceværdierne i BR18, bilag 2, tabel 9, og Formel 1, hvor stor en ekstra klimapåvirkning, som etagedækket har i forhold til en almindelig referencebygning.
 
 ((50.000 kg CO~2~‐ækv. / 50 år) -- (0,99 kg CO~2~‐ækv. /m^2^ /år × 500 m^2^)) / 2000 m^2^ = 0,253 kg CO~2~‐ækv./m^2^/år
 
@@ -1509,4 +1503,3 @@ Bygninger med specielle sikringskrav som fx museer og sikrede døgninstitutioner
 Hvis en lokalplan stiller detaljerede krav til en bygnings udformning på bestemte steder, fx i forbindelse med krav om særlig byggestil i bevaringsværdigt bymiljø eller andre krav til bygningens fysiske fremtoning, kan dette krav resultere i en øget klimapåvirkning.
 
 Eftersom kravet som følge af plangrundlaget relaterer sig direkte til, hvor bygningen geografisk befinder sig, kan det ifølge § 298, stk. 8, anses for at være en følge af bygningens særlige placering. Der kan sondres mellem hensyn som følge af plankrav og bygningsejers egne valg af udformning. Førstnævnte kan henføres til en placering, sidstnævnte ikke. Ved behov kan der indledes en dialog med kommunen om byggeriet i forhold til lokalplanens krav.
-

@@ -14,43 +14,22 @@ Bygninger skal ventileres for at sikre, at beboere og brugere af bygninger har e
 
 Ventilationen kan udføres ved systemer for naturlig ventilation, mekanisk ventilation eller hybrid ventilation. "Ventilationssystemer" refererer både til naturlig ventilation, hybrid ventilation og mekanisk ventilation. "Ventilationsanlæg" refererer alene til mekanisk ventilation, herunder den mekaniske del af hybrid ventilation. Valg af ventilationstype, samt dimensionering af ventilation skal foretages ud fra bygningens udformning, herunder rumtyper og udformning af rum, bygningens brug og bygningens belastninger i forhold til forureninger, varmepåvirkning mv.
 
-[1.1.](../kap-1_1/)
+### [1.1. Generelt om bestemmelserne om ventilation](../kap-1_1/)
 
-### Generelt om bestemmelserne om ventilation
+### [1.2. Luftindtag og -afkast](../kap-1_2/)
 
-[1.2.](../kap-1_2/)
+### [1.3. Træk](../kap-1_3/)
 
-### Luftindtag og -afkast
+### [1.4. Overførsel af luft mellem rum](../kap-1_4/)
 
-[1.3.](../kap-1_3/)
+### [1.5. Energikrav til ventilationssystemer](../kap-1_5/)
 
-### Træk
+### [1.6. Ventilation i beboelsesbygninger](../kap-1_6/)
 
-[1.4.](../kap-1_4/)
+### [1.7. Ventilation af andre bygninger og rum](../kap-1_7/)
 
-### Overførsel af luft mellem rum
+### [1.8. Ventilation af daginstitutioner og undervisningsrum](../kap-1_8/)
 
-[1.5.](../kap-1_5/)
+### [1.9. Funktionsafprøvning](../kap-1_9/)
 
-### Energikrav til ventilationssystemer
-
-[1.6.](../kap-1_6/)
-
-### Ventilation i beboelsesbygninger
-
-[1.7.](../kap-1_7/)
-
-### Ventilation af andre bygninger og rum
-
-[1.8.](../kap-1_8/)
-
-### Ventilation af daginstitutioner og undervisningsrum
-
-[1.9.](../kap-1_9/)
-
-### Funktionsafprøvning
-
-[1.10.](../kap-1_10/)
-
-### Drift og vedligehold
-
+### [1.10. Drift og vedligehold](../kap-1_10/)

@@ -22,7 +22,7 @@ Bygninger skal sikres mod indtrængning af vand fra grundvand og overfladevand. 
 
 Klimaskærmen skal projekteres, udføres og vedligeholdes, så der er tæthed mod indtrængen af regn og smeltevand, og så det på en forsvarlig måde kan løbe af. Tagvand skal via tagrender og/eller tagnedløb afledes til afløb.
 
--  Gå til BR-vejledning om Fugt og vådrum
+-  [Gå til BR-vejledning om Fugt og vådrum](../brv/){target="_blank"}
 
 ## § 339 Vådrum {#eb0ba6a3-9056-4315-aba8-417e17607290}
 
@@ -42,5 +42,4 @@ Vådrum, herunder baderum samt bryggers og WC-rum med gulvafløb, skal opfylde f
 
 6\) Ved brug af skeletvægge samt gulv- og vægkonstruktioner, der indeholder træ eller andre organiske materialer, skal der anvendes et egnet vandtætningssystem.
 
--  Gå til BR-vejledning om vådrum
-
+-  [Gå til BR-vejledning om vådrum](../brv/#bygningsreglementets-vejledning-om-fugt-og-vaadrum){target="_blank"}

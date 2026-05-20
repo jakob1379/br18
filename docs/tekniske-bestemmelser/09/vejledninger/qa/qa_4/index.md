@@ -8,27 +8,16 @@
 
 ## Spørgsmål og svar om bygningens indretning
 
-[?](../qa_1/)
+### [WC-rum](../qa_1/)
 
-### WC-rum
+### [Altaner](../qa_2/)
 
-[?](../qa_2/)
+### [Handicaptoiletter](../qa_3/)
 
-### Altaner
+### [Niveaufri adgang indenfor en enhed.](./)
 
-[?](../qa_3/)
+[? Er der krav om, at der skal være niveaufri adgang inde i en enhed, for eksempel en bolig?](./) Nej; kravet er udformet sådan, at der skal være niveaufri adgang til alle enheder, men ikke inde i en enhed som for eksempel en bolig.
 
-### Handicaptoiletter
+### [Beboelsesrum, grunde med skrånende terræn](../qa_5/)
 
-[?](./)
-
-### Niveaufri adgang indenfor en enhed.
-
-[? Er der krav om, at der skal være niveaufri adgang inde i en enhed, for eksempel en bolig?](./) Nej; kravet er udformet sådan, at der skal være niveaufri adgang til alle enheder, men ikke inde i en enhed som for eksempel en bolig. [?](../qa_5/)
-
-### Beboelsesrum, grunde med skrånende terræn
-
-[?](../qa_6/)
-
-### Hemse
-
+### [Hemse](../qa_6/)

@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -40,21 +36,9 @@
 
 ### Kommunalbestyrelsen som bygningsmyndighed
 
-Kommunalbestyrelsen er bygningsmyndighed og påser i denne forbindelse, at [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178) og de regler, der er udstedt i medfør heraf, overholdes. Dette fremgår af [byggelovens
+Kommunalbestyrelsen er bygningsmyndighed og påser i denne forbindelse, at [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178) og de regler, der er udstedt i medfør heraf, overholdes. Dette fremgår af [byggelovens § 16 C, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178). Kommunalbestyrelsen påser også, at påbud efter [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178) og regler fastsat i medfør heraf efterkommes, og at vilkår fastsat i tilladelser eller dispensationer, som er meddelt af kommunalbestyrelsen, overholdes. Dette fremgår af [byggelovens § 16 C, stk. 2](https://www.retsinformation.dk/eli/lta/2016/1178).
 
-### § 16 C {#paragraf-16c}
-
-, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178). Kommunalbestyrelsen påser også, at påbud efter [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178) og regler fastsat i medfør heraf efterkommes, og at vilkår fastsat i tilladelser eller dispensationer, som er meddelt af kommunalbestyrelsen, overholdes. Dette fremgår af [byggelovens
-
-### § 16 C {#paragraf-16c}
-
-, stk. 2](https://www.retsinformation.dk/eli/lta/2016/1178).
-
-Bliver kommunalbestyrelsen opmærksom på et ulovligt forhold, har den pligt til at søge forholdet lovliggjort, medmindre dette er af ganske underordnet betydning. Dette fremgår af [byggelovens
-
-### § 16 C {#paragraf-16c}
-
-, stk. 3](https://www.retsinformation.dk/eli/lta/2016/1178).
+Bliver kommunalbestyrelsen opmærksom på et ulovligt forhold, har den pligt til at søge forholdet lovliggjort, medmindre dette er af ganske underordnet betydning. Dette fremgår af [byggelovens § 16 C, stk. 3](https://www.retsinformation.dk/eli/lta/2016/1178).
 
 Hvornår et forhold er af ganske underordnet betydning beror på en konkret vurdering, men som tommelfingerregel, skal der være tale om ret bagatelagtige forhold for, at et forhold ikke skal lovliggøres. Som eksempel kan det nævnes, at hvis det forhold, der er tilsidesat, ikke påvirker formålet i [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178), omgivelserne eller andre interesser, så er forholdet af ganske underordnet betydning.
 
@@ -79,4 +63,3 @@ Hvordan, kommunen indretter og varetager administrationen af byggelovgivningen o
 ### Forholdet til anden lovgivning
 
 ### Særligt om lovliggørelse i forbindelse med bygningers klimapåvirkning
-

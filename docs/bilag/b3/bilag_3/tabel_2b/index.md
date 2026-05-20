@@ -74,8 +74,6 @@ Tredjepartskontrol af projektering og udførelse af brandsikringstiltag omfatter
 
 --Dokumentkontrollen af projekteringen og udførelsen af brandsikringstiltag omfatter den øvrige kontroldokumentation for den uafhængige kontrol.
 
-  [](../tabel_2a#156f5746-c9f7-4d30-b5cb-3c53516b2f75)
-
 ## Tabel 2a - Mindstekrav til niveau af uafhængig kontrol af dokumentation for de bærende konstruktioner i forhold til konstruktionsklassen (KK), jf. § 527
 
 *Tabel 2a. Mindstekrav til niveau af uafhængig kontrol af dokumentation for de bærende konstruktioner afhængig af konstruktionsklassen, jf. § 527*
@@ -208,9 +206,7 @@ Udv. : Udvidet kontrol, Max. : Maksimumskontrol.
 +--------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------+--------------------------------------+--------------------------------------+
 | Dokumentation for udførelse af brandsikringstiltag                                                                                                     | Udv.^3)^                             | Udv.^3)^                             | Udv.^3)^                             |
 +--------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------+--------------------------------------+--------------------------------------+
-|
-
-1) Ved fravigelser af de præ-accepterede løsninger i brandklasse 2, jf. bilag 4.                                                                                                                                                                                            |
+| 1\) Ved fravigelser af de præ-accepterede løsninger i brandklasse 2, jf. bilag 4.                                                                                                                                                                                           |
 |                                                                                                                                                                                                                                                                             |
 | 2\) I medfør af Bygningsreglementets vejledning til kapitel 5 -- Brand, kapitel 8: Eftervisning.                                                                                                                                                                            |
 |                                                                                                                                                                                                                                                                             |
@@ -271,4 +267,3 @@ Udv. : Udvidet kontrol, Max. : Maksimumskontrol.
   ---------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------
 
 Udv. : Udvidet kontrol, Max. : Maksimumskontrol.
-

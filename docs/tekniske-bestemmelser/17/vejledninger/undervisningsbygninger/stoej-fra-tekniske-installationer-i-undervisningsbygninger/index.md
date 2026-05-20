@@ -44,15 +44,11 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde By
 +---------------------------------------------+-------------------------------------+-----------------------------------+
 | **Rumtype**\                                | **Støjkilde ^2)^**                  | ***L~Aeq~***                      |
 +---------------------------------------------+-------------------------------------+-----------------------------------+
-| I undervisningsrum ^1),\
-
-a)^     **\[4\]**  | Bygningens tekniske installationer  | ≤ 30 dB\                          |
+| I undervisningsrum ^1), a)^*     ***\[4\]**  | Bygningens tekniske installationer  | ≤ 30 dB                           |
 +---------------------------------------------+-------------------------------------+-----------------------------------+
-| ***Supplerende vejledning****     ***\[3\], \[9\]**                                                                   |
+| *Supplerende vejledning     ***\[3\], \[9\]**                                                                         |
 |                                                                                                                       |
-|
-
-a)  *For tekniske installationer, der giver anledning til lavfrekvent støj i undervisningsrum:*                       |
+| a)  *For tekniske installationer, der giver anledning til lavfrekvent støj i undervisningsrum:*                       |
 |                                                                                                                       |
 | *A-vægtet, ækvivalent lydtrykniveau i lavfrekvensområdet, L*~p*A,LF*~*  ≤ 30 dB.*                                     |
 |                                                                                                                       |
@@ -60,17 +56,11 @@ a)  *For tekniske installationer, der giver anledning til lavfrekvent støj i 
 +-----------------------------------------------------------------------------------------------------------------------+
 | **Noter\**                                                                                                            |
 |                                                                                                                       |
-|
-
-1)   Grænseværdien gælder i møblerede rum.\                                                                           |
-| \                                                                                                                     |
+| 1)   Grænseværdien gælder i møblerede rum.                                                                            |
 |                                                                                                                       |
-|
-
-2)   Grænseværdien gælder for den enkelte installation.                                                               |
+| 2)   Grænseværdien gælder for den enkelte installation.                                                               |
 +-----------------------------------------------------------------------------------------------------------------------+
 
 [3.5](../rumakustik-i-undervisningsbygninger/)
 
 ### Rumakustik i undervisningsbygninger
-

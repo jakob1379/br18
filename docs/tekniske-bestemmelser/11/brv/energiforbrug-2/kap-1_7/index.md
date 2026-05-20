@@ -46,9 +46,7 @@ SBi-anvisning 213 skal benyttes til beregning af bygningers energibehov og til e
 
 [![](../../../../assets/img/linkbox/sbi_anv_linkbox.svg)](# "#title")
 
-####
-
-SBi-Anvisning 213 Bygningers energibehov
+#### SBi-Anvisning 213 Bygningers energibehov
 
 #### BEREGNINGSVEJLEDNING
 
@@ -113,4 +111,3 @@ Anvisning og programmet er betalingsbelagt.
 ### Eksempler på energibehov {#3058d94d-a8e8-4740-8b79-8e25740686c7}
 
 ### Krav til bygningsautomatikken {#3a095cce-b7d0-4e11-837e-7194d984e382}
-

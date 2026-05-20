@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -104,11 +100,7 @@ En ansøgning om byggetilladelse skal indeholde:
 
 En ansøgning om byggetilladelse skal, hvis det er relevant for byggearbejdet indeholde:
 
-- Oplysning om forhold vedrørende byggeret og helhedsvurdering, jf. [kap. 8](/tekniske-bestemmelser/08/), og de ubebyggede arealer, jf. [kap. 20](/tekniske-bestemmelser/20/). Dokumentationen omfatter f.eks. oplysning om bygningens placering på
-
-  grunden og i forhold til andre bygninger samt højdeforhold. Helhedsvurderingen er en del af sagsbehandlingen, som bygningsmyndigheden skal udføre, når byggeretten ikke kan overholdes. Derudover omfatter den oplysning om indretning af de ubebyggede arealer, herunder antal af og placering af parkeringspladser, indretning af opholdsarealer på terræn samt eventuel indretning af arealer til opbevaring af affald. Særligt for så vidt angår byggeret og helhedsvurdering, kan der være anden lovgivning, herunder lokalplaner, som skal iagttages af
-
-  kommunalbestyrelsen, ligesom det i mange tilfælde vil være nødvendigt at foretage partshøring af naboer eller andre relevante parter i forbindelse med behandlingen af denne dokumentation.
+- Oplysning om forhold vedrørende byggeret og helhedsvurdering, jf. [kap. 8](/tekniske-bestemmelser/08/), og de ubebyggede arealer, jf. [kap. 20](/tekniske-bestemmelser/20/). Dokumentationen omfatter f.eks. oplysning om bygningens placering på grunden og i forhold til andre bygninger samt højdeforhold. Helhedsvurderingen er en del af sagsbehandlingen, som bygningsmyndigheden skal udføre, når byggeretten ikke kan overholdes. Derudover omfatter den oplysning om indretning af de ubebyggede arealer, herunder antal af og placering af parkeringspladser, indretning af opholdsarealer på terræn samt eventuel indretning af arealer til opbevaring af affald. Særligt for så vidt angår byggeret og helhedsvurdering, kan der være anden lovgivning, herunder lokalplaner, som skal iagttages af kommunalbestyrelsen, ligesom det i mange tilfælde vil være nødvendigt at foretage partshøring af naboer eller andre relevante parter i forbindelse med behandlingen af denne dokumentation.
 
 - Oplysning om og dokumentation for, hvilken konstruktionsklasse byggeriet kan henføres til, jf. [kap. 26](/ovrige-bestemmelser/26/) om konstruktionsklasser og [kap. 28](/ovrige-bestemmelser/28/) om dokumentation af bærende konstruktioner. Læs mere om dette nedenfor.
 
@@ -118,7 +110,7 @@ En ansøgning om byggetilladelse skal, hvis det er relevant for byggearbejdet in
 
 - For ombygninger og forandringer af eksisterende byggeri, hvor forudsætningerne for de brandmæssige forhold ændres, skal der indsendes oplysning om og dokumentation for, hvilken brandklasse det pågældende bygningsafsnit kan henføres til, jf. [kapitel 27](/ovrige-bestemmelser/27/) om brandklasser og [kapitel 29](/ovrige-bestemmelser/29/) om dokumentation af brandforhold. Det skal tages højde for, om ændringen påvirker andre dele af bygningens brandforhold.
 
-- Oplysninger om og dokumentation for, hvorledes byggeriet opfylder [§§ 126-133 v](/tekniske-bestemmelser/05/krav/126_133/)edrørende redningsberedskabets indsatsforhold, herunder hvorvidt byggeriet er indsatstaktisk traditionelt, jf. [§ 510](/ovrige-bestemmelser/29/krav/506_522/).
+- Oplysninger om og dokumentation for, hvorledes byggeriet opfylder [§§ 126-133](/tekniske-bestemmelser/05/krav/126_133/) vedrørende redningsberedskabets indsatsforhold, herunder hvorvidt byggeriet er indsatstaktisk traditionelt, jf. [§ 510](/ovrige-bestemmelser/29/krav/506_522/).
 
 Det tidligere krav om tæthedsprøvning fremgår ikke længere af [kapitel 1](/administrative-bestemmelser/) i BR18. I stedet fremgår det af BR18 [§ 263, stk. 3](/tekniske-bestemmelser/11/krav/), at kravet kan dokumenteres ved at der foretages en trykprøvning.
 
@@ -225,4 +217,3 @@ Hvor et byggeri indplaceres i konstruktions- eller brandklasse 2-4 gælder der s
 [10.](../10_0_klage-over-kommunalbestyrelsens-afgoerelser/)
 
 ### Klage over kommunalbestyrelsens afgørelser
-

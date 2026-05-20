@@ -10,7 +10,7 @@
 
 ### Rettelsesblad til Bygningsreglementets vejledning om konstruktioner omhandlende bæreevnevurdering af eksisterende konstruktioner (24.01.2024)
 
-Åbn r[ettelsesblad til Bygningsreglementets vejledning om konstruktioner omhandlende bæreevnevurdering af eksisterende konstruktioner (Nyt vindue).](../../../../../media/ydigl5f3/rettelsesblad-til-vejledning-om-konstruktioner-2024-01-23.pdf "Rettelsesblad Til Vejledning Om Konstruktioner 2024 01 23"){rel="noopener" target="_blank"}
+[Åbn rettelsesblad til Bygningsreglementets vejledning om konstruktioner omhandlende bæreevnevurdering af eksisterende konstruktioner (Nyt vindue).](../../../../../media/ydigl5f3/rettelsesblad-til-vejledning-om-konstruktioner-2024-01-23.pdf "Rettelsesblad Til Vejledning Om Konstruktioner 2024 01 23"){rel="noopener" target="_blank"}
 
 ### Forord
 
@@ -57,4 +57,3 @@
 [3.5.](../kap-3_5/)
 
 ### Tagbrønde og tagnedløb
-

@@ -1,6 +1,4 @@
-# Afløb (§ 69 - §
-
-81)
+# Afløb (§ 69 - § 81)
 
 ## § 69 Afløb {#4dcab947-3dab-4037-9777-d974ca3e856f}
 
@@ -90,8 +88,7 @@ Vandinstallationer med aftapning samt tekniske installationer med f.eks. aftræk
 
 ### § 76 {#paragraf-76}
 
-Højvandslukke til sikring mod oversvømmelser, der installeres i eller uden for bygningen, skal udføres i overensstemmelse med tabel 13 til DS 432 Afløbsinstallationer.*\*
-[![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+Højvandslukke til sikring mod oversvømmelser, der installeres i eller uden for bygningen, skal udføres i overensstemmelse med tabel 13 til DS 432 Afløbsinstallationer. [![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
 
 ### DS 432
 
@@ -148,4 +145,3 @@ Drift og vedligehold af afløbsinstallationer skal ske, så de til enhver tid ov
 ### § 81 {#paragraf-81}
 
 Afløbsinstallationer og hovedafløbssystem må ikke tilføres stoffer, der kan skade eller forringe funktionen af afløbsinstallationer, hovedafløbssystem, renseanlæg eller recipient.
-

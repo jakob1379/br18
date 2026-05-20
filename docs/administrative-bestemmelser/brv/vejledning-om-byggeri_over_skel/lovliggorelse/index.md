@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -55,4 +51,3 @@ Hvis forholdet ikke kan lovliggøres retligt, må der meddeles påbud om fysisk 
 En eventuel tvist mellem de to ejere, eksempelvis om skellets placering, er privatretlig og skal i sidste ende afgøres af domstolene.
 
 ### @@PROTECTED_23@@
-

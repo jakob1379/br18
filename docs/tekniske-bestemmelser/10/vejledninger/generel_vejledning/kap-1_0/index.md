@@ -56,19 +56,19 @@ Der henvises til *Bekendtgørelse nr. 1250 af 13/12/2004 om tilgængelighedsfora
 
 ###
 
-!
+![](../../../../../media/a5tdjw5m/elavatorer_tegning_1.svg)
 
 Figur 1: Eksempler på etager i bygninger (snit) - Eksemplerne er vejledende og ikke udtømmende
 
 ###
 
-!
+![](../../../../../media/ivffycsi/elavatorer_tegning_2.svg)
 
 Figur 2: Eksempler på etager i bygninger (snit) - Eksemplerne er vejledende og ikke udtømmende
 
 ###
 
-!
+![](../../../../../media/psce1f0r/elavatorer_tegning_3.svg)
 
 Figur 3: Eksempler på etager i bygninger (snit) - Eksemplerne er vejledende og ikke udtømmende
 
@@ -109,4 +109,3 @@ Før ibrugtagningen af elevatorer skal der gennemføres en funktionsafprøvning 
 ### Dispensationer
 
 Kommunalbestyrelsen kan efter en konkret vurdering vælge at dispensere for bestemmelserne i bygningsreglementet og f.eks. tillade en minielevator eller løfteplatform der ikke opfylder type 2 kravet. Dispensationen skal dog være foreneligt med de hensyn, der ligger bag den konkrete bestemmelse der dispenseres fra.
-

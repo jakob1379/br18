@@ -66,7 +66,9 @@ Ved installation bør det sikres, at skorstenstrækket svarer til mindstekravet 
 
 Ved lukkede centralvarmeanlæg forstås anlæg med sikkerhedsventiler og tilsluttet trykekspansionsbeholder.
 
-Mht. sikkerhedsventil på kedler henvises til At-vejledning B. 4.8 Indretning og anvendelse af fyrede varmtvandsanlæg. [1.4.](../kap-1_4/)
+Mht. sikkerhedsventil på kedler henvises til At-vejledning B. 4.8 Indretning og anvendelse af fyrede varmtvandsanlæg.
+
+[1.4.](../kap-1_4/)
 
 ### Centralvarmekedler, oliebrændere mv.
 
@@ -155,4 +157,3 @@ Der henvises til
 \- DS/EN 378 - Kølesystemer og varmepumper -- Sikkerheds- og miljøkrav - Del 1, 2, 3 og 4
 
 Kravet om tilfredsstillende nøjagtighed af målere er opfyldt ved anvendelse af typegodkendte målere eller målere med en tilsvarende nøjagtighed.
-

@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -69,9 +65,7 @@ Tabel 2. uddyber de enkelte temaer. En kombination af tekst, tegninger, diagramm
 +----------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |  Hvorledes bygningen understøtter bevægelse frem til, ind i og gennem bygningen frem til bygningens funktioner | > • Beskrivelse af, hvorledes bygningen understøtter bevægelsen frem til bygningen, ind i bygningen og frem til bygningens funktioner for de forskellige brugere i relation til deres behov.                                                                                                                                                                                                   |
 |                                                                                                                | >                                                                                                                                                                                                                                                                                                                                                                                              |
-|                                                                                                                | > • En detaljeret gennemgang af de forskellige bygningsfysiske forhold og elementer i relation til bygningsreglementets bestemmelser (se evt. tabel
-
-1). Det gælder f.eks. belysning, belægning, ramper, trapper og elevatorer.                                                                                                                                                                 |
+|                                                                                                                | > • En detaljeret gennemgang af de forskellige bygningsfysiske forhold og elementer i relation til bygningsreglementets bestemmelser (se evt. tabel 1). Det gælder f.eks. belysning, belægning, ramper, trapper og elevatorer.                                                                                                                                                                 |
 |                                                                                                                | >                                                                                                                                                                                                                                                                                                                                                                                              |
 |                                                                                                                | > • Hvis en løsning går igen flere steder i byggesagen, kan der indsendes dokumentation for denne løsning samt beskrivelse af, hvor den optræder i byggesagen.                                                                                                                                                                                                                                 |
 |                                                                                                                | >                                                                                                                                                                                                                                                                                                                                                                                              |
@@ -117,4 +111,3 @@ I en eventuel forhåndsdialog mellem ansøger og kommune kan specifikationer omk
 [3.0](../uddybning-ligevardighed/)
 
 ### Uddybning af ligeværdighed i adgangsforhold og indretning
-

@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -73,4 +69,3 @@ Der er ikke hjemmel i byggelovgivningen til at stille krav om, at de parkeringsa
 [5.](../indbetaling-til-parkeringsfond/)
 
 ### Hvornår kan der dispenseres fra parkeringsreglerne på betingelse af indbetaling til parkeringsfond
-

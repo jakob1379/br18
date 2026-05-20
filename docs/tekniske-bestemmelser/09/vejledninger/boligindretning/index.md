@@ -90,17 +90,11 @@ Den norske arkitekturforsker Jon Guttu opererer med tre kategorier af foranderli
 
 De tre kategorier rummer forskellige muligheder, og de kan inddrages i den overordnede tilrettelæggelse af boligen, for at tilgodese beboerens mange forskellige ønsker i forbindelse med at skabe et hjem.
 
-Den generelle bolig: Her opnås foranderligheden igennem at dimensionere boligens rum, så de kan skabe rammerne for forskellige funktioner. Det betyder, at planløsningen bør tage højde for, at fx køkken og bad ikke låser anvendelsen af de øvrige rum, ved at man fx kun kan komme til badet igennem et af boligens opholdsrum. Boligens vægge er statiske, men der er indbygget en generel anvendelighed i de enkelte rum, så forandringen kan opstå ved en simpel ommøblering af rummene. Når der skal være plads til forskellige funktioner og dermed forskellige møbeltyper, er det rummenes dimensioner, der er afgørende, så der er plads til fx en seng langs flere af rummets vægge. Det betyder, at rummenes størrelse og form er afgørende for at skabe den generelle bolig. (se ill. 01,
+Den generelle bolig: Her opnås foranderligheden igennem at dimensionere boligens rum, så de kan skabe rammerne for forskellige funktioner. Det betyder, at planløsningen bør tage højde for, at fx køkken og bad ikke låser anvendelsen af de øvrige rum, ved at man fx kun kan komme til badet igennem et af boligens opholdsrum. Boligens vægge er statiske, men der er indbygget en generel anvendelighed i de enkelte rum, så forandringen kan opstå ved en simpel ommøblering af rummene. Når der skal være plads til forskellige funktioner og dermed forskellige møbeltyper, er det rummenes dimensioner, der er afgørende, så der er plads til fx en seng langs flere af rummets vægge. Det betyder, at rummenes størrelse og form er afgørende for at skabe den generelle bolig. (se ill. 01, a)
 
-a)
+Den fleksible bolig: Her opnås foranderligheden ved at udvikle løsninger, der gør det muligt at ændre boligens plan og indre organisering. Det kan fx ske ved at lave møbler, dobbeltdøre og andet inventar, der kan trækkes for eller skydes til side og gemmes væk, hvorved der kan ændres i rummets udformning eller funktion, afhængig af hvilke elementer der er gjort plads til. Eller det kan ske ved, at der i selve boligens plan og konstruktion er forberedt til vægsystemer eller rummoduler, der kan tilføjes eller flyttes. Det giver mulighed for enten at opdele rum i mindre rum eller at koble rumligheder sammen, hvilket bør tilgodeses i den overordnede planlægning af rum og konstruktion. (se ill. 01, b)
 
-Den fleksible bolig: Her opnås foranderligheden ved at udvikle løsninger, der gør det muligt at ændre boligens plan og indre organisering. Det kan fx ske ved at lave møbler, dobbeltdøre og andet inventar, der kan trækkes for eller skydes til side og gemmes væk, hvorved der kan ændres i rummets udformning eller funktion, afhængig af hvilke elementer der er gjort plads til. Eller det kan ske ved, at der i selve boligens plan og konstruktion er forberedt til vægsystemer eller rummoduler, der kan tilføjes eller flyttes. Det giver mulighed for enten at opdele rum i mindre rum eller at koble rumligheder sammen, hvilket bør tilgodeses i den overordnede planlægning af rum og konstruktion. (se ill. 01,
-
-b)
-
-Den elastiske bolig: Her kan boligen ændre størrelse efter behov. Det kan ske ved, at arealet af de enkelte boliger i en bebyggelse udvides eller reduceres afhængigt af modsvarende ændringer i de tilgrænsende boliger. Eller det kan ske ved, at et boligområde rummer lokaler (arbejdsrum, gæsteværelser, teenagerum e.l.), der kan lejes midlertidigt. Dette bør indarbejdes i den overordnede planlægning af bebyggelsen. (se ill. 01,
-
-c)
+Den elastiske bolig: Her kan boligen ændre størrelse efter behov. Det kan ske ved, at arealet af de enkelte boliger i en bebyggelse udvides eller reduceres afhængigt af modsvarende ændringer i de tilgrænsende boliger. Eller det kan ske ved, at et boligområde rummer lokaler (arbejdsrum, gæsteværelser, teenagerum e.l.), der kan lejes midlertidigt. Dette bør indarbejdes i den overordnede planlægning af bebyggelsen. (se ill. 01, c)
 
 ###
 
@@ -130,17 +124,11 @@ Valget af bebyggelsestype spiller en afgørende rolle for kompaktheden af bebygg
 
 Karrébebyggelsen, længehusbebyggelsen og punkthusbebyggelsen repræsenterer tre principielt forskellige bebyggelsestyper.
 
-Karrébebyggelsen (ill. 03,
+Karrébebyggelsen (ill. 03, a) skaber indre gårdrum, hvor der kan etableres halvprivate fællesområder med mulighed for både rekreative arealer, legeområder og funktioner som tørrepladser. Karrébebyggelsen har den udfordring, at orienteringen i forhold til sol varierer for boligerne i karréen, og at bebyggelsens huskroppe kan skygge for lys i andre dele af bebyggelsens nederste etager, afhængigt af karréens størrelse og husenes højde.
 
-a) skaber indre gårdrum, hvor der kan etableres halvprivate fællesområder med mulighed for både rekreative arealer, legeområder og funktioner som tørrepladser. Karrébebyggelsen har den udfordring, at orienteringen i forhold til sol varierer for boligerne i karréen, og at bebyggelsens huskroppe kan skygge for lys i andre dele af bebyggelsens nederste etager, afhængigt af karréens størrelse og husenes højde.
+Det langstrakte længehus eller rækkehus (ill. 03, b) kan planlægges med ankomstområde foran bebyggelsen, hvor der fx kan etableres opbevaringsrum eller udendørs opholdsområder, som kan lægge op til uformelle møder med naboerne. Ligesom der til den modsatte side af bebyggelsen kan etableres et mere privat område til fritidsaktiviteter, leg og udendørsophold. Længehusbebyggelsen kan give mulighed for at sikre en orientering af boligerne i forhold til solen og dermed skabe variation i dagslyset i boligerne hen over dagen.
 
-Det langstrakte længehus eller rækkehus (ill. 03,
-
-b) kan planlægges med ankomstområde foran bebyggelsen, hvor der fx kan etableres opbevaringsrum eller udendørs opholdsområder, som kan lægge op til uformelle møder med naboerne. Ligesom der til den modsatte side af bebyggelsen kan etableres et mere privat område til fritidsaktiviteter, leg og udendørsophold. Længehusbebyggelsen kan give mulighed for at sikre en orientering af boligerne i forhold til solen og dermed skabe variation i dagslyset i boligerne hen over dagen.
-
-I punkthusbebyggelsen (ill. 03,
-
-c) er boligen placeret mere frit i et åbent område. Dette giver gode muligheder for plads til leg og ophold mellem husene, men også mindre klart definerede grænser for, hvad der er private eller halvprivate zoner.
+I punkthusbebyggelsen (ill. 03, c) er boligen placeret mere frit i et åbent område. Dette giver gode muligheder for plads til leg og ophold mellem husene, men også mindre klart definerede grænser for, hvad der er private eller halvprivate zoner.
 
 Punkthusbebyggelsen giver mulighed for at orientere alle boliger i forhold til dagslys og fx prioritere at have opholdsrum, der er orienteret mod syd/sydvest.
 
@@ -276,9 +264,7 @@ I boliger bidrager møbleringen traditionelt set med en lydabsorberende effekt, 
 
 Trappen er et arkitektonisk element, der kan give boligen rumlig karakter, samtidig med at den opfylder en specifik funktion. Placeringen af trappen har stor betydning for planløsningens funktionalitet og bevægelsesmønstrene i boligen. I boligbyggeri fungerer trappen som henholdsvis adgangsvej til de enkelte boliger og som intern forbindelse imellem to etager og andre niveauforskelle inde i boligen.
 
-En intern trappe fungerer godt, hvis den er placeret, så den giver ugeneret passage imellem boligens områder og ikke besværliggør møbleringen af rummene eller generer rummets ganglinjer. En trappe, der forbinder entréen med en gang på etagen ovenover, giver ugeneret adgang til begge etager og opdeler samtidig boligen i to adskilte dele. Det giver mulighed for at opdele boligen i fx et område til hjemmearbejde, et område, der kan fremlejes, eller med adskilte boligarealer til forskellige generationer. En trappe, der forbinder fx et køkken-alrum med en stue på etagen over, kan give oplevelsen af et sammenhængende rum, men også mere gennemgangstrafik og uheldig varmefordeling (kap. 2.5, ill.
-
-07).
+En intern trappe fungerer godt, hvis den er placeret, så den giver ugeneret passage imellem boligens områder og ikke besværliggør møbleringen af rummene eller generer rummets ganglinjer. En trappe, der forbinder entréen med en gang på etagen ovenover, giver ugeneret adgang til begge etager og opdeler samtidig boligen i to adskilte dele. Det giver mulighed for at opdele boligen i fx et område til hjemmearbejde, et område, der kan fremlejes, eller med adskilte boligarealer til forskellige generationer. En trappe, der forbinder fx et køkken-alrum med en stue på etagen over, kan give oplevelsen af et sammenhængende rum, men også mere gennemgangstrafik og uheldig varmefordeling (kap. 2.5, ill. 07).
 
 Se SBi-anvisning 253, Småhuse -- indretning og funktion, 3.7 Trapper i boligen (de Place Hansen, 2015).
 
@@ -308,9 +294,7 @@ Terrasser, gårdhaver og haver bør placeres, så der tages hensyn til grundens 
 
 En altan udgør et markant arkitektonisk element og kan udformes enten som udenpåliggende, delvist indeliggende eller indeliggende element. Altaner, især den udenpåliggende altan, er et markant træk ved facaden og kan være udfordrende at integrere i en facadekomposition.
 
-Især den udenpåliggende altan kan skygge for den underliggende bolig og reducere lysniveauet, primært i området tættest på vinduet. Hvis der yderligere er en genbobygning, der skygger, kan boligen risikere ikke at have tilgang af direkte sollys eller himmellys, hvorved lysniveauet i boligen sænkes (se kap. 2.6 Dagslysforhold, ill.
-
-09).
+Især den udenpåliggende altan kan skygge for den underliggende bolig og reducere lysniveauet, primært i området tættest på vinduet. Hvis der yderligere er en genbobygning, der skygger, kan boligen risikere ikke at have tilgang af direkte sollys eller himmellys, hvorved lysniveauet i boligen sænkes (se kap. 2.6 Dagslysforhold, ill. 09).
 
 Udformes den delvist indeliggende eller indeliggende altan med vinduer i flere sider (altan-karnap-princippet), vil det give mulighed for at trække lys fra flere verdenshjørner ind og skabe varieret lys i rummene bag altanen.
 
@@ -322,9 +306,7 @@ En tagterrasse kan være et fælles eller et privat uderum, som er integreret i 
 
 ![](../../../../media/tg1gb1cr/illustration-10-br-vejledning-om-boligindretning.png)
 
-Illustration 10: Altaner. Alt efter om altanen er udeliggende (a), delvist indeliggende (b) eller indeliggende (c), skygger den mere eller mindre for rum under altanen. Diagrammet er en forenklet illustration af, hvordan en altan kan skabe skygge i rummene under sig og dermed påvirke rummets lysniveau. Diagrammet illustrerer situationen for en bolig, hvor der også er en genbobygning, der skygger (se kap. 2.6 Dagslysforhold, ill.
-
-09). Samspillet mellem dagslyset, vinduet og skyggende elementer er komplekst og har indflydelse på lysniveauet i rummet og bør tilrettelægges med omhu.
+Illustration 10: Altaner. Alt efter om altanen er udeliggende (a), delvist indeliggende (b) eller indeliggende (c), skygger den mere eller mindre for rum under altanen. Diagrammet er en forenklet illustration af, hvordan en altan kan skabe skygge i rummene under sig og dermed påvirke rummets lysniveau. Diagrammet illustrerer situationen for en bolig, hvor der også er en genbobygning, der skygger (se kap. 2.6 Dagslysforhold, ill. 09). Samspillet mellem dagslyset, vinduet og skyggende elementer er komplekst og har indflydelse på lysniveauet i rummet og bør tilrettelægges med omhu.
 
 ### Boligens aktiviteter {#29b603f5-2588-4abb-a33b-7f51ad402e5d}
 
@@ -485,4 +467,3 @@ Trafik-, Bygge- og Boligstyrelsen. (2019). Bygningsreglementets vejledning om ko
 Vedel-Petersen, F. (1967). God bolig i etagehuse. Hørsholm: Statens Byggeforskningsinstitut. Aalborg Universitet.
 
 WHO (2011). Burden of disease from environmental noise. Quantification of healthy life years lost in Europe. Bonn: The WHO European Centre for Environment and Health.
-

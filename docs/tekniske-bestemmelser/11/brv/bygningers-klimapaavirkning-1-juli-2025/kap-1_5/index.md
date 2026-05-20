@@ -418,9 +418,7 @@ Disse værdier fremgår af BR18, bilag 2, tabel 7.
 
 Standard installationsværdierne er angivet i enheden kg CO2-ækvivalenter pr. m2 opvarmet areal pr. år. Værdierne skaleres altså med arealet, som svarer til det samlede opvarmet etageareal, jf. § 256 stk. 3, plus arealet for opvarmet kælder. Hvis der er forskellige anvendelser af en bygning, kan man arealvægte standardværdierne.
 
-Værdierne er fastsat ud fra en betragtningsperiode på 50 år. Det betyder, at der ikke skal knyttes levetider til værdierne (læs mere om levetider i vejledningen om § 297, stk.
-
-10). Udskiftninger undervejs i betragtningsperioden er indregnet i henholdsvis modulerne A1-A3 og C3/C4. Klimapåvirkningerne fra installationer ved anvendelse af standard installationsværdier fremgår derfor kun for modulerne A1-A3 og C3 og C4, og modul D.
+Værdierne er fastsat ud fra en betragtningsperiode på 50 år. Det betyder, at der ikke skal knyttes levetider til værdierne (læs mere om levetider i vejledningen om § 297, stk. 10). Udskiftninger undervejs i betragtningsperioden er indregnet i henholdsvis modulerne A1-A3 og C3/C4. Klimapåvirkningerne fra installationer ved anvendelse af standard installationsværdier fremgår derfor kun for modulerne A1-A3 og C3 og C4, og modul D.
 
 Da værdierne er opdelt i tre kategorier
 
@@ -889,9 +887,7 @@ Klimapåvirkningen aflæses under enten GWP eller GWP-total, afhængigt af om mi
 
 #### **1.6.4 Håndtering af modul C3/C4**
 
-Ved anvendelse af EPD'er skal affaldsscenarierne (modul C3/C4), som de fremgår af
-
-EPD'en, anvendes i beregningen.
+Ved anvendelse af EPD'er skal affaldsscenarierne (modul C3/C4), som de fremgår af EPD'en, anvendes i beregningen.
 
 #### **1.6.5  Manglende C3 modul**
 
@@ -903,9 +899,7 @@ Hvis en EPD i modul C3/C4 indeholder flere forskellige scenarier for affaldshån
 
 #### **1.6.7 Manglende scenarie for affaldshåndtering**
 
-Hvis EPD'er hverken indeholder et C3- eller C4-modul, kan der anvendes et passende modul fra det generiske datagrundlag (BR18, bilag 2, tabel
-
-7).
+Hvis EPD'er hverken indeholder et C3- eller C4-modul, kan der anvendes et passende modul fra det generiske datagrundlag (BR18, bilag 2, tabel 7).
 
 Der gøres opmærksom på, at sammensat data kun skal benyttes, hvis der ikke findes den nødvendige data indenfor samme datasæt af et materiale.
 
@@ -1059,11 +1053,7 @@ Byggeprocessens klimapåvirkning skal herefter beregnes ved at opgøre brændsel
 
 "Brug af hjælpe-/interimsmaterialer" er forbrug forbundet med at benytte materialerne, fx ophejsning af stillads. Produktion af interimsmaterialerne selv (stilladser, støbeforme) tæller ikke med.).
 
-Produktion af materialer på pladsen, fx sammenstøbningsbeton indgår ikke i A5. Sådanne indgår i stedet i A1-A3, hvis de er med i bygningsmodellen (bilag 2, tabel
-
-6). Fx er udfyldning mellem elementer (sammenstøbningsbeton) udtrykkeligt undtaget fra beregningen (se teksten til bilag 2, tabel
-
-6) og derfor skal det hverken opgøres i A1-A3 eller A5.
+Produktion af materialer på pladsen, fx sammenstøbningsbeton indgår ikke i A5. Sådanne indgår i stedet i A1-A3, hvis de er med i bygningsmodellen (bilag 2, tabel 6). Fx er udfyldning mellem elementer (sammenstøbningsbeton) udtrykkeligt undtaget fra beregningen (se teksten til bilag 2, tabel 6) og derfor skal det hverken opgøres i A1-A3 eller A5.
 
 I standarden fremgår det ikke klart om udledningerne fra præfabrikation af bygningselementer, som fx præfabrikerede trækassetter skal indgå i A1-A3 eller i A4-A5. Det er op til bygningsejer at vurdere, hvor det passer bedst, samt at sikre, at alle udledningerne bliver talt med.
 
@@ -1281,7 +1271,7 @@ Følgende eksempler er udelukkende af vejledende karakter, og det skal altid vur
 
    Anvendelse af hospitals- og laboratorieudstyr (bygningens funktion)
 
-   Høj last på dæk og andre påvirkede konstruktionsdele (bygningens anvendelse
+   Høj last på dæk og andre påvirkede konstruktionsdele (bygningens anvendelse)
 
    Ekstra højt sikkerhedsniveau (konsekvensklasse CC3+) (bygningens funktion)
 
@@ -1306,9 +1296,7 @@ Følgende eksempler er udelukkende af vejledende karakter, og det skal altid vur
 
 Det er op til bygningsejer at redegøre for, at der er tale om et særligt forhold. Dette skal fremgå af dokumentationen, jf. §40. Beregningen af, hvor stor en del af bygningens klimapåvirkning, som ikke skal medregnes, foretages efter anvisningerne i BR18, bilag 2, tabel 9. Tabellen indeholder referenceværdier for konstruktioner uden særlige forhold.
 
-Af BR18, bilag 2, tabel 9, fremgår også fire formler (Formel 1, 2, 3 og
-
-4), der skal anvendes til beregning af forskellen.
+Af BR18, bilag 2, tabel 9, fremgår også fire formler (Formel 1, 2, 3 og 4), der skal anvendes til beregning af forskellen.
 
 - Formel 1 anvendes, hvis konstruktioner som etage- og kælderdæk, gulv, loft, vægge, tage, terrændæk og pladefundamenter er påvirket af et særlige forhold.
 - Formel 2 anvendes, hvis søjler eller bjælker er påvirket af et særlige forhold.
@@ -1325,17 +1313,13 @@ Såfremt resultatet af Formel 1, 3 eller 4 er mindre end 0, udgør det særlige 
 
 En produktionsbygning har behov for særlig høj last på en del af etagedækket grundet tungt procesudstyr. Den høje last vurderes for værende et særligt forhold. Formel 1 anvendes for at beregne forskellen og dermed den øgede klimapåvirkning, som ikke skal indgå i grænseværdien, jf. § 298, stk. 1.
 
-Formel 1: ((x / 50 år) -- (r
-
-m)) / a
+Formel 1: ((x / 50 år) -- (r × m)) / a
 
 hvor
 
 x er klimapåvirkningen fra materialerne i den pågældende bygningskonstruktion (i kg CO~2~-ækv.) opgjort over den 50-årige betragtningsperiode, r er referenceværdien for den givne konstruktion (i kg CO~2~-ækv. /m^2^ /år), m er arealet af den konstruktion, som berøres af det særlige forhold (i m^2^), o a er arealet som opgjort ifølge § 297, stk. 3, (i m^2^).
 
-Bygningen er på 2.000 m^2^ referenceareal (referenceareal beregnes, jf. § 297, stk.
-
-3), og den særligt høje last forekommer på et areal på 500 m^2^ af etagedækket. Etagedækket designes i det område både tykkere og med kraftigere armering, hvilket medfører, at konstruktionen i det område har en CO~2~ udledning på 50.000 kg CO~2~-ækvivalenter. Bygningsejer beregner vha. referenceværdierne i BR18, bilag 2, tabel 9, og Formel 1, hvor stor en ekstra klimapåvirkning, som etagedækket har i forhold til en almindelig referencebygning. Arealet, jf. § 297, stk. 3, er på 2.000 m2.
+Bygningen er på 2.000 m^2^ referenceareal (referenceareal beregnes, jf. § 297, stk. 3), og den særligt høje last forekommer på et areal på 500 m^2^ af etagedækket. Etagedækket designes i det område både tykkere og med kraftigere armering, hvilket medfører, at konstruktionen i det område har en CO~2~ udledning på 50.000 kg CO~2~-ækvivalenter. Bygningsejer beregner vha. referenceværdierne i BR18, bilag 2, tabel 9, og Formel 1, hvor stor en ekstra klimapåvirkning, som etagedækket har i forhold til en almindelig referencebygning. Arealet, jf. § 297, stk. 3, er på 2.000 m2.
 
 ((50.000 kg CO2-ækv. / 50 år) -- (1,30 kg CO2-ækv. /m2 /år 500 m2)) / 2000 m2 = 0,175 kg CO2-ækv./m2/år
 
@@ -1432,9 +1416,7 @@ Følgende eksempler er udelukkende af vejledende karakter, og det skal altid vur
 
 Det er op til bygningsejer at redegøre for, at der er tale om et særligt forhold. Dette skal fremgå af dokumentationen, jf. §40. Beregningen af, hvor stor en del af bygningens klimapåvirkning, som ikke skal medregnes, foretages efter anvisningerne i BR18, bilag 2, tabel 9. Tabellen indeholder referenceværdier for konstruktioner uden særlige forhold.
 
-Af BR18, bilag 2, tabel 9, fremgår også fire formler (Formel 1, 2, 3 og
-
-4), der skal anvendes til beregning af forskellen.
+Af BR18, bilag 2, tabel 9, fremgår også fire formler (Formel 1, 2, 3 og 4), der skal anvendes til beregning af forskellen.
 
 ·         Formel 1 anvendes, hvis konstruktioner som etage- og kælderdæk, gulv, loft, vægge, tage, terrændæk og pladefundamenter er påvirket af et særligt forhold.
 
@@ -1454,17 +1436,13 @@ Såfremt resultatet af Formel 1, 3 eller 4 er mindre end 0, udgør det særlige 
 
 En produktionsbygning har behov for særlig høj last på en del af etagedækket grundet tungt procesudstyr. Den høje last vurderes for værende et særligt forhold. Formel 1 anvendes for at beregne forskellen og dermed den øgede klimapåvirkning, som ikke skal indgå i grænseværdien, jf. § 298, stk. 1.
 
-Formel 1: ((x / 50 år) -- (r ×
-
-m)) / a
+Formel 1: ((x / 50 år) -- (r × m)) / a
 
 Hvor
 
 x er klimapåvirkningen fra materialerne i den pågældende bygningskonstruktion (i kg CO~2~-ækv.) opgjort over den 50-årige betragtningsperiode, r er referenceværdien for den givne konstruktion (i kg CO~2~-ækv. /m^2^ /år), m er arealet af den konstruktion, som berøres af det særlige forhold (i m^2^) og a er arealet som opgjort ifølge § 297, stk. 3, (i m^2^).
 
-Bygningen er på 2.000 m^2^ referenceareal (referenceareal beregnes, jf. § 297, stk.
-
-3), og den særligt høje last forekommer på et areal på 500 m^2^ af etagedækket. Etagedækket designes i det område både tykkere og med kraftigere armering, hvilket medfører, at konstruktionen i det område har en CO~2~ udledning på 50.000 kg CO~2~-ækvivalenter. Bygningsejer beregner vha. referenceværdierne i BR18, bilag 2, tabel 9, og Formel 1, hvor stor en ekstra klimapåvirkning, som etagedækket har i forhold til en almindelig referencebygning.
+Bygningen er på 2.000 m^2^ referenceareal (referenceareal beregnes, jf. § 297, stk. 3), og den særligt høje last forekommer på et areal på 500 m^2^ af etagedækket. Etagedækket designes i det område både tykkere og med kraftigere armering, hvilket medfører, at konstruktionen i det område har en CO~2~ udledning på 50.000 kg CO~2~-ækvivalenter. Bygningsejer beregner vha. referenceværdierne i BR18, bilag 2, tabel 9, og Formel 1, hvor stor en ekstra klimapåvirkning, som etagedækket har i forhold til en almindelig referencebygning.
 
 ((50.000 kg CO~2~‐ækv. / 50 år) -- (0,99 kg CO~2~‐ækv. /m^2^ /år × 500 m^2^)) / 2000 m^2^ = 0,253 kg CO~2~‐ækv./m^2^/år
 
@@ -1509,4 +1487,3 @@ Bygninger med specielle sikringskrav som fx museer og sikrede døgninstitutioner
 Hvis en lokalplan stiller detaljerede krav til en bygnings udformning på bestemte steder, fx i forbindelse med krav om særlig byggestil i bevaringsværdigt bymiljø eller andre krav til bygningens fysiske fremtoning, kan dette krav resultere i en øget klimapåvirkning.
 
 Eftersom kravet som følge af plangrundlaget relaterer sig direkte til, hvor bygningen geografisk befinder sig, kan det ifølge § 298, stk. 8, anses for at være en følge af bygningens særlige placering. Der kan sondres mellem hensyn som følge af plankrav og bygningsejers egne valg af udformning. Førstnævnte kan henføres til en placering, sidstnævnte ikke. Ved behov kan der indledes en dialog med kommunen om byggeriet i forhold til lokalplanens krav.
-

@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../spoergsmaal-og-svar)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../spoergsmaal-og-svar-ve-anlaeg)
@@ -100,11 +96,7 @@ Bygningsreglementets § 10, stk. 1, omhandler en række oplysninger, der skal in
 
 Bygningsreglementets § 10, stk. 2, omhandler de oplysninger og den information, der skal indsendes ved ansøgning om byggetilladelse, når det er relevant. Det betyder, at de oplysninger og den dokumentation, der omtales i § 10, stk. 2, ikke i alle tilfælde vil skulle indsendes ved ansøgning om byggetilladelse.
 
-Med *relevant for byggearbejdet* menes dermed de oplysninger og den dokumentation, der er af betydning for det pågældende byggearbejde. Eksempelvis står der i § 10, stk. 2, nr. 1, at en ansøgning om byggetilladelse skal indeholde oplysninger vedrørende byggeret og helhedsvurdering (kapitel
-
-8) samt ubebyggede arealer ved bebyggelse (kapitel
-
-20). Hvis man er i gang med en ombygning af et badeværelse, vil oplysninger om de ubebyggede arealer ved bebyggelsen være sagen uvedkommende, og derfor ikke relevante for ansøgningen om byggetilladelse.
+Med *relevant for byggearbejdet* menes dermed de oplysninger og den dokumentation, der er af betydning for det pågældende byggearbejde. Eksempelvis står der i § 10, stk. 2, nr. 1, at en ansøgning om byggetilladelse skal indeholde oplysninger vedrørende byggeret og helhedsvurdering (kapitel 8) samt ubebyggede arealer ved bebyggelse (kapitel 20). Hvis man er i gang med en ombygning af et badeværelse, vil oplysninger om de ubebyggede arealer ved bebyggelsen være sagen uvedkommende, og derfor ikke relevante for ansøgningen om byggetilladelse.
 
 For § 10, stk. 2, nr. 6, vedrørende dokumentation for, hvorledes byggeriet opfylder §§ 126-133, skal der kun fremsendes dokumentation for dette, såfremt ombygningen påvirker redningsberedskabets indsatsforhold. Eksisterende lovlige forhold svarende til bestemmelserne på opførselstidspunktet kan bibeholdes, forudsat at der ikke ændres på disse ved ombygningen.
 
@@ -215,4 +207,3 @@ Et kontorbyggeri ønskes ændret til boliger. En ændring fra erhverv til bolig 
 Ved en ændring fra kontorbyggeri til bolig ændres der i forudsætningerne for de brandmæssige forhold, og der skal afhængig af byggeriets kompleksitet derfor tilknyttes en certificeret brandrådgiver.
 
 I forbindelse med ombygningen ændres der ikke på de bærende konstruktioner. De nye adskillelser mellem de kommende lejemål udføres af ikke-bærende vægge og lasten i brugskategorien er mindre for bolig end for kontor. Idet der ikke ændres på de bærende konstruktioners virkemåde, skal der ikke tilknyttes en certificeret statiker.
-

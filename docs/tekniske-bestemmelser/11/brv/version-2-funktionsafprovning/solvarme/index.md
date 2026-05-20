@@ -97,7 +97,7 @@ Termisk isolering af tekniske installationer
 
 #### Anvendelsesområde
 
-#### Standarden findes på dansk i Dansk Standards [](https://webshop.ds.dk/standard/M345889/ds-452-2013-ret-1-till-1-2020 "DS 452"){target="_blank"}
+#### Standarden findes på dansk i Dansk Standards [webshop.ds.dk](https://webshop.ds.dk/standard/M345889/ds-452-2013-ret-1-till-1-2020 "DS 452"){target="_blank"}
 
 *Forudsætninger for udførelse af funktionsafprøvning*
 
@@ -170,4 +170,3 @@ Der udarbejdes en funktionsafprøvningsrapport, der beskriver:
 ### Acceptkriterium {#8c276468-27da-40b5-9cd3-21d0faf66b5c}
 
 ### Dokumentation {#bfd6298a-b31e-4a25-99f5-295e4738889d}
-

@@ -44,15 +44,11 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 +----------------------------------------+------------------------------------+---------------------------------+
 | **Rumtype**                            | **Støjkilde ^2)^**                 | ***L~Aeq~***                    |
 +----------------------------------------+------------------------------------+---------------------------------+
-| I opholdsrum ^1),\
-
-a)^*    ***\[4\]**  | Bygningens tekniske installationer | ≤ 30 dB                         |
+| I opholdsrum ^1), a)^*    ***\[4\]**  | Bygningens tekniske installationer | ≤ 30 dB                         |
 +----------------------------------------+------------------------------------+---------------------------------+
 | *Supplerende vejledning     ***\[3\], \[9\]**                                                                 |
 |                                                                                                               |
-|
-
-a)  *For tekniske installationer, der giver anledning til lavfrekvent støj i opholdsrum:*                     |
+| a)  *For tekniske installationer, der giver anledning til lavfrekvent støj i opholdsrum:*                     |
 |                                                                                                               |
 | *A-vægtet, ækvivalent lydtrykniveau i lavfrekvensområdet, L*~p*A,LF*~*  ≤ 25 dB.*                             |
 |                                                                                                               |
@@ -60,17 +56,11 @@ a)  *For tekniske installationer, der giver anledning til lavfrekvent støj i 
 +---------------------------------------------------------------------------------------------------------------+
 | **Noter\**                                                                                                    |
 |                                                                                                               |
-|
-
-1)   Grænseværdien gælder i møblerede rum.\                                                                   |
-| \                                                                                                             |
+| 1)   Grænseværdien gælder i møblerede rum.                                                                   |
 |                                                                                                               |
-|
-
-2)   Grænseværdien gælder for den enkelte installation.                                                       |
+| 2)   Grænseværdien gælder for den enkelte installation.                                                       |
 +---------------------------------------------------------------------------------------------------------------+
 
 [4.5](../rumakustik-i-daginstitutionsbygninger/)
 
 ### Rumakustik i daginstitutionsbygninger
-

@@ -1041,9 +1041,7 @@ Følgende typer af energiforsyningsanlæg i relation til bygninger vil typisk v�
 
 • Kondenseringsenheder til køleanlæg
 
-Hvilke energiforsyningsanlæg der er omfattet af Ecodesign i hver af de ovennævnte produktkategorier afhænger blandt andet af anlæggets størrelse og den anvendte energikilde. For nærmere information herom henvises der til Energistyrelsens oversigt over produkter omfattet af Ecodesign, som kan findes her: [Energistyrelsens oversigt
-
-](https://ens.dk/ansvarsomraader/energikrav-til-produkter/produkter-med-energikrav){target="_blank"}
+Hvilke energiforsyningsanlæg der er omfattet af Ecodesign i hver af de ovennævnte produktkategorier afhænger blandt andet af anlæggets størrelse og den anvendte energikilde. For nærmere information herom henvises der til Energistyrelsens oversigt over produkter omfattet af Ecodesign, som kan findes her: [Energistyrelsens oversigt](https://ens.dk/ansvarsomraader/energikrav-til-produkter/produkter-med-energikrav){target="_blank"}
 
 *Relevante standarder*
 
@@ -1131,7 +1129,7 @@ DS 469, Varme- og køleanlæg i bygninger
 
 #### Beskrivelse
 
-#### Standarden findes på dansk i Dansk Standards [](https://webshop.ds.dk/standard/M253996/ds-469-2013 "DS 469"){target="_blank"}
+#### Standarden findes på dansk i Dansk Standards [webshop.ds.dk](https://webshop.ds.dk/standard/M253996/ds-469-2013 "DS 469"){target="_blank"}
 
 [![](../../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
 
@@ -1290,7 +1288,7 @@ Termisk isolering af tekniske installationer
 
 #### Anvendelsesområde
 
-#### Standarden findes på dansk i Dansk Standards [](https://webshop.ds.dk/standard/M345889/ds-452-2013-ret-1-till-1-2020 "DS 452"){target="_blank"}
+#### Standarden findes på dansk i Dansk Standards [webshop.ds.dk](https://webshop.ds.dk/standard/M345889/ds-452-2013-ret-1-till-1-2020 "DS 452"){target="_blank"}
 
 *Forudsætninger for udførelse af funktionsafprøvning*
 
@@ -1407,7 +1405,7 @@ DS/EN 61400-12-1
 
 #### Beskrivelse
 
-#### Standarden findes på dansk i Dansk Standards [](https://webshop.ds.dk/standard/M353490/ds-en-iec-61400-12-1-2022 "DS/EN 61400-12-1"){target="_blank"}
+#### Standarden findes på dansk i Dansk Standards [webshop.ds.dk](https://webshop.ds.dk/standard/M353490/ds-en-iec-61400-12-1-2022 "DS/EN 61400-12-1"){target="_blank"}
 
  *Forudsætninger for udførelse af funktionsafprøvning*
 
@@ -1542,4 +1540,3 @@ Der udarbejdes en funktionsafprøvningsrapport, der beskriver:
 • Samlet resultat og konklusionen af funktionsafprøvningen.
 
 • Oplysninger om hvem der har udført funktionsafprøvning.
-

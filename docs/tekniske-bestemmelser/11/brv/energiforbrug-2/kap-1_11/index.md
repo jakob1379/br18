@@ -48,15 +48,13 @@ Etageantallet beregnes som forholdet mellem etagearealet og det bebyggede areal.
 
 [![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
 
-####
-
-Dansk standard: DS 418 -- Beregning af bygningers varmetab
+#### Dansk standard: DS 418 -- Beregning af bygningers varmetab
 
 #### Anvendelsesområde
 
 Standarden indeholder beregningsregler for beregning af bygningers varmetab.
 
-#### Standarden findes i Dansk Standards Webshop.ds.dk her [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/){target="_blank"}
+#### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/){target="_blank"}
 
 ### Vedvarende energi {#cea05059-f673-4746-86a6-8e6320193440}
 
@@ -105,4 +103,3 @@ Standarden indeholder beregningsregler for beregning af bygningers varmetab.
 ### Eksempler på energibehov {#3058d94d-a8e8-4740-8b79-8e25740686c7}
 
 ### Krav til bygningsautomatikken {#3a095cce-b7d0-4e11-837e-7194d984e382}
-

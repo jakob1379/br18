@@ -32,7 +32,7 @@
 
 ### Undtagelser
 
-Det fremgår af bygningsreglementet 2018, [kap. 15](/tekniske-bestemmelser/15/), [§ 356](/tekniske-bestemmelser/15/krav/356/), at [§ 344, stk. 2](/tekniske-bestemmelser/15/krav/344/), til § 351 samt [§§ 353-355 k](/tekniske-bestemmelser/15/krav/353/)an fraviges, hvis det på anden vis sikres og dokumenteres, at en afvigelse er forsvarlig, og der opnås et sikkerhedsniveau, som beskrevet i [§ 344, stk. 2, nr. 1](/tekniske-bestemmelser/15/krav/344/).
+Det fremgår af bygningsreglementet 2018, [kap. 15](/tekniske-bestemmelser/15/), [§ 356](/tekniske-bestemmelser/15/krav/356/), at [§ 344, stk. 2](/tekniske-bestemmelser/15/krav/344/), til § 351 samt [§§ 353-355](/tekniske-bestemmelser/15/krav/353/) kan fraviges, hvis det på anden vis sikres og dokumenteres, at en afvigelse er forsvarlig, og der opnås et sikkerhedsniveau, som beskrevet i [§ 344, stk. 2, nr. 1](/tekniske-bestemmelser/15/krav/344/).
 
 En afvigelse fra standarderne i de nævnte bestemmelser kræver som udgangspunkt at materialestyrke, brudmekaniske modeller og materialeparametre dokumenteres for afvigelsen. Modeller og beregningsregler kan fraviges såfremt en tilsvarende eller højere sikkerhed kan dokumenteres. Materialeparametre kan fraviges såfremt de faktiske materialeparametre kan dokumenteres og har er tilsvarende eller højere sikkerhedsniveau end den standard der fraviges.
 
@@ -61,4 +61,3 @@ For dokumentation af bærende konstruktioner henvises der til [*bygningsreglemen
 [3.5.](../kap-3_5/)
 
 ### Tagbrønde og tagnedløb
-

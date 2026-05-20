@@ -152,7 +152,7 @@ Det fremgår af bygningsreglementet 2018, [kap. 16](/tekniske-bestemmelser/16/),
 
 Standarderne der henvises til i bygningsreglementet 2018, [kap. 16](/tekniske-bestemmelser/16/) om legepladser mv. angiver de specifikationer, som skal opfyldes, for i videst muligt omfang at beskytte mod den risiko, der kan være forbundet med, at personer benytter forskellige typer af legepladser mv. Forskellige former for risici kan f.eks. være snorefælder, hovedklemsfælder, huller samt manglende stabilitet og faldunderlag.
 
-Bygningsreglementet 2018, [kap. 16](/tekniske-bestemmelser/16/), [§ 358](/tekniske-bestemmelser/16/krav/358/), beskriver det overordnede sikkerhedsniveau, mens [§§ 359-363 h](/tekniske-bestemmelser/16/krav/359/)enviser til standarder med generelle og specifikke sikkerhedskrav for forskellige typer af legepladser mv.
+Bygningsreglementet 2018, [kap. 16](/tekniske-bestemmelser/16/), [§ 358](/tekniske-bestemmelser/16/krav/358/), beskriver det overordnede sikkerhedsniveau, mens [§§ 359-363](/tekniske-bestemmelser/16/krav/359/) henviser til standarder med generelle og specifikke sikkerhedskrav for forskellige typer af legepladser mv.
 
 Hvis der i et område opstilles flere typer legepladsredskaber mv., vil de skrappeste krav være gældende.
 

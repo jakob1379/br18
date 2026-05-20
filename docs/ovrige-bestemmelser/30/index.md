@@ -22,7 +22,7 @@ Kontrol af dokumentation for bærende konstruktioner og brandforhold skal sikre,
 
 *Stk. 5.* Ved simple og traditionelle ombygninger i eksisterende konstruktioner og konstruktionsafsnit, der henregnes til middel konsekvensklasse (CC2), og som kan indplaceres i konstruktionsklasse 1 (KK1) i henhold til [§ 489, stk. 2, nr. 1](/ovrige-bestemmelser/26/krav/485_489/), skal der udføres kontrol af dokumentationen svarende til konstruktionsklasse 2.
 
-*Stk. 6.* Byggearbejder omfattet af [§§ 135-136 k](/tekniske-bestemmelser/05/krav/)an udføres uden, at der forinden er gennemført en uafhængig kontrol af dokumentation for projektering af brandsikringstiltaget, såfremt kontrol af projektering og udførelse foretages samtidig af et akkrediteret inspektionsorgan efter byggearbejdet er udført.
+*Stk. 6.* Byggearbejder omfattet af [§§ 135-136](/tekniske-bestemmelser/05/krav/) kan udføres uden, at der forinden er gennemført en uafhængig kontrol af dokumentation for projektering af brandsikringstiltaget, såfremt kontrol af projektering og udførelse foretages samtidig af et akkrediteret inspektionsorgan efter byggearbejdet er udført.
 
 *Stk. 7.* Mindre om- og tilbygninger, der omfatter et begrænset omfang af brandsikringstiltag, kan undtages for uafhængig kontrol af dokumentation af projektering af brandsikringstiltag, såfremt der foretages en fuld uafhængig kontrol af det udførte brandsikringstiltag på grundlag af dokumentation for design af brandforhold.
 
@@ -60,7 +60,7 @@ Kontroltyper for kontrol af udførelse af de bærende konstruktioner og projekte
 
 ### § 527 {#paragraf-527}
 
-Fastlæggelse af kontrolniveau for kontrol af dokumentation for bærende konstruktioner skal ske på baggrund af byggeriets indplacering i konstruktionsklasse i overensstemmelse med [bilag 3, tabel 2](/bilag/b3/bilag_3/)a og 3. Fastlæggelse af kontrolniveau for kontrol af dokumentation af brandforhold skal ske på baggrund af byggeriets indplacering i brandklasse i overensstemmelse med [bilag 3, tabel 4](/bilag/b3/bilag_3/)a og 5.
+Fastlæggelse af kontrolniveau for kontrol af dokumentation for bærende konstruktioner skal ske på baggrund af byggeriets indplacering i konstruktionsklasse i overensstemmelse med [bilag 3, tabel 2a](/bilag/b3/bilag_3/) og 3. Fastlæggelse af kontrolniveau for kontrol af dokumentation af brandforhold skal ske på baggrund af byggeriets indplacering i brandklasse i overensstemmelse med [bilag 3, tabel 4a](/bilag/b3/bilag_3/) og 5.
 
 *Stk. 2.* Der foretages kontrol på følgende niveauer:
 
@@ -72,13 +72,13 @@ Fastlæggelse af kontrolniveau for kontrol af dokumentation for bærende konstru
 
 *Stk. 4.* Kontrolniveauer skal være i overensstemmelse med principperne i vejledning til [kap. 30](/ovrige-bestemmelser/30/).
 
-*Stk. 5.* Fastlæggelse af kontrolniveau for udførelse af bærende konstruktioner skal ske i overensstemmelse med [bilag 3, tabel 2](/bilag/b3/bilag_3/)b, principperne i SBi-anvisning 271, Dokumentation og kontrol af bærende konstruktioner samt DS 1140, Udførelse af bærende konstruktioner -- Almen kontrol.
+*Stk. 5.* Fastlæggelse af kontrolniveau for udførelse af bærende konstruktioner skal ske i overensstemmelse med [bilag 3, tabel 2b](/bilag/b3/bilag_3/), principperne i SBi-anvisning 271, Dokumentation og kontrol af bærende konstruktioner samt DS 1140, Udførelse af bærende konstruktioner -- Almen kontrol.
 
-*Stk. 6.* Fastlæggelse af kontrolniveau for udførelse af bærende konstruktioner skal ske i overensstemmelse med [bilag 3, tabel 2](/bilag/b3/bilag_3/)b, principperne i vejledning til [kap. 30](/ovrige-bestemmelser/30/) samt DS 1140, Udførelse af bærende konstruktioner -- Almen kontrol.
+*Stk. 6.* Fastlæggelse af kontrolniveau for udførelse af bærende konstruktioner skal ske i overensstemmelse med [bilag 3, tabel 2b](/bilag/b3/bilag_3/), principperne i vejledning til [kap. 30](/ovrige-bestemmelser/30/) samt DS 1140, Udførelse af bærende konstruktioner -- Almen kontrol.
 
 *Stk. 7.* Stk. 4 og 6 træder i kraft den 1. april 2024. Samtidig ophæves stk. 3 og 5.
 
-*Stk. 8.* Fastlæggelse af kontrolniveau for udførelse af brandsikringstiltag skal ske i overensstemmelse med [bilag 3, tabel 4](/bilag/b3/bilag_3/)b, samt vejledningen til bygningsreglementet [kapitel 30](/ovrige-bestemmelser/30/).
+*Stk. 8.* Fastlæggelse af kontrolniveau for udførelse af brandsikringstiltag skal ske i overensstemmelse med [bilag 3, tabel 4b](/bilag/b3/bilag_3/), samt vejledningen til bygningsreglementet [kapitel 30](/ovrige-bestemmelser/30/).
 
 ### § 528 {#paragraf-528}
 

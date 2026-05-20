@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -52,7 +48,9 @@ I stikprøvekontrollen skal kommunerne bl.a. vurdere, om de udtrukne byggesager 
 
 3\) Tiltagspakke til fremme af tilgængelighed 2018, Trafik-, Bygge- og Boligstyrelsen, 23. januar 2018
 
-4\) Bygningsreglementet, [kap. 2](/tekniske-bestemmelser/02/), Vejledning til brugerbegreb, 0.0.0. [1.0](../stikprove-afsnit-et/)
+4\) Bygningsreglementet, [kap. 2](/tekniske-bestemmelser/02/), Vejledning til brugerbegreb, 0.0.0.
+
+[1.0](../stikprove-afsnit-et/)
 
 ### Stikprøvekontrol - Afklaring af bestemmelser og brugergruppe
 
@@ -79,4 +77,3 @@ I stikprøvekontrollen skal kommunerne bl.a. vurdere, om de udtrukne byggesager 
 [3.0](../uddybning-ligevardighed/)
 
 ### Uddybning af ligeværdighed i adgangsforhold og indretning
-

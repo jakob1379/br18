@@ -52,17 +52,11 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 +----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Mellem en bolig og rum uden for boligen ^a)^\                                                                                                            | ≥ 55 dB                                                                                                                                                  |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Mellem fælles opholdsrum indbyrdes^
-
-5)^                                                                                                                  | ≥ 55 dB                                                                                                                                                  |
+| Mellem fælles opholdsrum indbyrdes^5)^                                                                                                                  | ≥ 55 dB                                                                                                                                                  |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Dør^
-
-2)^ mellem bolig og fællesrum                                                                                                                       |  ≥ 32 dB\                                                                                                                                                |
+| Dør^2)^ mellem bolig og fællesrum                                                                                                                       |  ≥ 32 dB\                                                                                                                                                |
 |                                                                                                                                                          |                                                                                                                                                          |
-| Dør^
-
-2)^ mellem fælles opholdsrum og gange/trapperum                                                                                                     |                                                                                                                                                          |
+| Dør^2)^ mellem fælles opholdsrum og gange/trapperum                                                                                                     |                                                                                                                                                          |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Trinlydniveau \[2\]**                                                                                                                                  |  ***L\'~n,w~***\                                                                                                                                         |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -73,14 +67,10 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 | -- fra andre boliger og fra fællesrum ^b)^                                                                                                               |                                                                                                                                                          |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
 | I beboelsesrum og køkkener\                                                                                                                              | ≤ 58 dB                                                                                                                                                  |
-| -- fra fælles trapperum og gange, fra altaner eller tilsvarende samt fra toilet- og baderum i andre boliger ^3),\
-
-4)^                                    |                                                                                                                                                          |
+| -- fra fælles trapperum og gange, fra altaner eller tilsvarende samt fra toilet- og baderum i andre boliger ^3), 4)^                                    |                                                                                                                                                          |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
 | I fælles opholdsrum\                                                                                                                                     | ≤ 58 dB                                                                                                                                                  |
-| -- fra beboelsesrum, andre fællesrum, trapperum, gange, altaner eller tilsvarende samt fra toilet- og baderum ^3),\
-
-4)^                                  |                                                                                                                                                          |
+| -- fra beboelsesrum, andre fællesrum, trapperum, gange, altaner eller tilsvarende samt fra toilet- og baderum ^3), 4)^                                  |                                                                                                                                                          |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
 | ***Supplerende vejledning* \[3\]**                                                                                                                                                                                                                                                                                  |
 |                                                                                                                                                                                                                                                                                                                     |
@@ -92,25 +82,15 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Noter**                                                                                                                                                                                                                                                                                                           |
 |                                                                                                                                                                                                                                                                                                                     |
-|
-
-1)   Lette konstruktioner i lejlighedsskel, dvs. skillevægge med en vægt pr. arealenhed under 100 kg/m^2^ og etageadskillelser med en vægt pr. arealenhed under 250 kg/m^2^, kan give problemer med utilstrækkelig lydisolation ved lave frekvenser, selv om kravene til lydisolation i lydklasse C er opfyldt.     |
+| 1)   Lette konstruktioner i lejlighedsskel, dvs. skillevægge med en vægt pr. arealenhed under 100 kg/m^2^ og etageadskillelser med en vægt pr. arealenhed under 250 kg/m^2^, kan give problemer med utilstrækkelig lydisolation ved lave frekvenser, selv om kravene til lydisolation i lydklasse C er opfyldt.     |
 |                                                                                                                                                                                                                                                                                                                     |
-|
-
-2)   Grænseværdien gælder for dørens areal. Den omgivende væg skal opfylde grænseværdien for 'mellem en bolig og rum uden for boligen' henholdsvis 'mellem fælles opholdsrum indbyrdes'.                                                                                                                            |
+| 2)   Grænseværdien gælder for dørens areal. Den omgivende væg skal opfylde grænseværdien for 'mellem en bolig og rum uden for boligen' henholdsvis 'mellem fælles opholdsrum indbyrdes'.                                                                                                                            |
 |                                                                                                                                                                                                                                                                                                                     |
-|
-
-3)   Altaner samt gulve og dæk i toilet- og baderum og andre rum med et gulvareal mindre end 2,5 m^2^ skal ikke opfylde krav til trinlydniveau.                                                                                                                                                                     |
+| 3)   Altaner samt gulve og dæk i toilet- og baderum og andre rum med et gulvareal mindre end 2,5 m^2^ skal ikke opfylde krav til trinlydniveau.                                                                                                                                                                     |
 |                                                                                                                                                                                                                                                                                                                     |
-|
-
-4)   Fælles og private tagterrasser skal opfylde samme grænseværdier som altaner.                                                                                                                                                                                                                                   |
+| 4)   Fælles og private tagterrasser skal opfylde samme grænseværdier som altaner.                                                                                                                                                                                                                                   |
 |                                                                                                                                                                                                                                                                                                                     |
-|
-
-5)   Hvis et fælles opholdsrum opdeles med en foldedør/mobilvæg bør lydisolationen mellem de to dele af rummet fastsættes efter den planlagte anvendelse.                                                                                                                                                           |
+| 5)   Hvis et fælles opholdsrum opdeles med en foldedør/mobilvæg bør lydisolationen mellem de to dele af rummet fastsættes efter den planlagte anvendelse.                                                                                                                                                           |
 +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ### Støj indendørs fra trafik i boliger {#1dc563fc-338b-493f-a74a-f86f0a455bc4}
@@ -136,9 +116,7 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 |                                                   |                                            |                                                    |                                            |
 |                                                   | **Jernbaner: *L~den~* ≤ 64 dB**            | **Jernbaner: *L~den~* \> 64dB**                    |                                            |
 +---------------------------------------------------+--------------------------------------------+----------------------------------------------------+--------------------------------------------+
-| BR18 ^1),\
-
-4)^             **\[1\], \[2\]**\      | *L~den~* ≤ 33 dB                           | *L~den~* ≤ 33 dB                                   | *L~den~* ≤ 33 dB                           |
+| BR18 ^1), 4)^             **\[1\], \[2\]**\      | *L~den~* ≤ 33 dB                           | *L~den~* ≤ 33 dB                                   | *L~den~* ≤ 33 dB                           |
 |                                                   |                                            |                                                    |                                            |
 |                                                   | med lukkede vinduer                        | med lukkede vinduer                                | med lukkede vinduer                        |
 +---------------------------------------------------+--------------------------------------------+----------------------------------------------------+--------------------------------------------+
@@ -146,48 +124,32 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 |                                                   |                                            |                                                    | planlægges for boliger ^6)^*               |
 | *Planlovgivning*                                  |                                            | *Veje: L~den~ ≤ 46 dB \                            |                                            |
 |                                                   |                                            | med åbne vinduer ^3)^*                             |                                            |
-| * - Veje ^
-
-5)^                        ***\[7\]**  |                                            |                                                    |                                            |
+| * - Veje ^5)^                        ***\[7\]**  |                                            |                                                    |                                            |
 +---------------------------------------------------+--------------------------------------------+----------------------------------------------------+--------------------------------------------+
 | ***Supplerende vejledning***                      | *Ingen krav*                               | *Byfornyelse mv. ^2)^*                             |                                            |
 |                                                   |                                            |                                                    |                                            |
 | *Planlovgivning*                                  |                                            | *Jernbaner: L~den~ ≤ 52 dB med åbne vinduer ^3)^*  |                                            |
 |                                                   |                                            |                                                    |                                            |
-| * - Jernbaner ^
-
-5)^               ***\[8\]**      |                                            |                                                    |                                            |
+| * - Jernbaner ^5)^               ***\[8\]**      |                                            |                                                    |                                            |
 +---------------------------------------------------+--------------------------------------------+----------------------------------------------------+--------------------------------------------+
 | **Noter**                                                                                                                                                                                        |
 |                                                                                                                                                                                                  |
-|
-
-1)   BR18 henviser til DS 490 om lydklassifikation af boliger, lydklasse C, med grænseværdien for L~den~gældende for de enkelte trafikstøjkilder hver for sig.\                                  |
+| 1)   BR18 henviser til DS 490 om lydklassifikation af boliger, lydklasse C, med grænseværdien for L~den~gældende for de enkelte trafikstøjkilder hver for sig.\                                  |
 | \                                                                                                                                                                                                |
 |                                                                                                                                                                                                  |
-|
-
-2)   Byfornyelse, huludfyldning o.l. i eksisterende boligområder samt områder for blandede byfunktioner i bymæssig bebyggelse.\                                                                  |
+| 2)   Byfornyelse, huludfyldning o.l. i eksisterende boligområder samt områder for blandede byfunktioner i bymæssig bebyggelse.\                                                                  |
 | \                                                                                                                                                                                                |
 |                                                                                                                                                                                                  |
-|
-
-3)   Specielle løsninger er nødvendige.\                                                                                                                                                         |
+| 3)   Specielle løsninger er nødvendige.\                                                                                                                                                         |
 | \                                                                                                                                                                                                |
 |                                                                                                                                                                                                  |
-|
-
-4)   Grænseværdierne gælder i møblerede rum med eventuelle udeluftventiler i åben position.\                                                                                                     |
+| 4)   Grænseværdierne gælder i møblerede rum med eventuelle udeluftventiler i åben position.\                                                                                                     |
 | \                                                                                                                                                                                                |
 |                                                                                                                                                                                                  |
-|
-
-5)   Grænseværdierne gælder i møblerede rum.\                                                                                                                                                    |
+| 5)   Grænseværdierne gælder i møblerede rum.\                                                                                                                                                    |
 | \                                                                                                                                                                                                |
 |                                                                                                                                                                                                  |
-|
-
-6)   Lokale bestemmelser kan omfatte boliger ved en udendørs støjbelastning over 68 dB.                                                                                                          |
+| 6)   Lokale bestemmelser kan omfatte boliger ved en udendørs støjbelastning over 68 dB.                                                                                                          |
 +--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ### Støj fra tekniske installationer i boliger {#f0f23bd2-598e-408d-b432-10015dc168fd}
@@ -205,15 +167,11 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 +------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
 | Indendørs                           **\[2\]**                                | Bygningens tekniske installationer ^5)^                            | ≤ 30 dB                                                            |                                                                    |                                                                    |
 |                                                                              |                                                                    |                                                                    |                                                                    |                                                                    |
-| I beboelsesrum, fælles opholdsrum og køkkener ^1),\
-
-a)^                      |                                                                    |                                                                    |                                                                    |                                                                    |
+| I beboelsesrum, fælles opholdsrum og køkkener ^1), a)^                      |                                                                    |                                                                    |                                                                    |                                                                    |
 +------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
 | Indendørs                    **\[1\], \[5\]**                                | Tekniske installationer i erhvervsenheder i samme bygning          | ≤ 30 dB                                                            |                                                                    | kl. 07-22\                                                         |
 |                                                                              |                                                                    |                                                                    |                                                                    |                                                                    |
-| I beboelsesrum og fælles opholdsrum ^2),\
-
-a)^                                |                                                                    |                                                                    |                                                                    |                                                                    |
+| I beboelsesrum og fælles opholdsrum ^2), a)^                                |                                                                    |                                                                    |                                                                    |                                                                    |
 |                                                                              |                                                                    +--------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
 |                                                                              |                                                                    | ≤ 25 dB                                                            | ≤ 40 dB\                                                           | kl. 22-07\                                                         |
 +------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
@@ -231,34 +189,22 @@ a)^                                |                                            
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Noter**                                                                                                                                                                                                                                                                                                                                                        |
 |                                                                                                                                                                                                                                                                                                                                                                  |
-|
-
-1)   Grænseværdierne gælder i umøblerede rum.\                                                                                                                                                                                                                                                                                                                   |
+| 1)   Grænseværdierne gælder i umøblerede rum.\                                                                                                                                                                                                                                                                                                                   |
 | \                                                                                                                                                                                                                                                                                                                                                                |
 |                                                                                                                                                                                                                                                                                                                                                                  |
-|
-
-2)   Grænseværdierne gælder i møblerede rum.\                                                                                                                                                                                                                                                                                                                    |
+| 2)   Grænseværdierne gælder i møblerede rum.\                                                                                                                                                                                                                                                                                                                    |
 | \                                                                                                                                                                                                                                                                                                                                                                |
 |                                                                                                                                                                                                                                                                                                                                                                  |
-|
-
-3)   For sammenbyggede enfamiliehuse og etageboligbyggerier også ved naboboliger.\                                                                                                                                                                                                                                                                               |
+| 3)   For sammenbyggede enfamiliehuse og etageboligbyggerier også ved naboboliger.\                                                                                                                                                                                                                                                                               |
 | \                                                                                                                                                                                                                                                                                                                                                                |
 |                                                                                                                                                                                                                                                                                                                                                                  |
-|
-
-4)   Grænseværdierne gælder for den enkelte installation.\                                                                                                                                                                                                                                                                                                       |
+| 4)   Grænseværdierne gælder for den enkelte installation.\                                                                                                                                                                                                                                                                                                       |
 | \                                                                                                                                                                                                                                                                                                                                                                |
 |                                                                                                                                                                                                                                                                                                                                                                  |
-|
-
-5)   Inklusive boligens egne faste installationer, såfremt de ikke kan kontrolleres af den aktuelle boligs egen beboer.\                                                                                                                                                                                                                                         |
+| 5)   Inklusive boligens egne faste installationer, såfremt de ikke kan kontrolleres af den aktuelle boligs egen beboer.\                                                                                                                                                                                                                                         |
 | \                                                                                                                                                                                                                                                                                                                                                                |
 |                                                                                                                                                                                                                                                                                                                                                                  |
-|
-
-6)   Inklusive boligens egne faste installationer som varmepumper, aftræk mv.                                                                                                                                                                                                                                                                                    |
+| 6)   Inklusive boligens egne faste installationer som varmepumper, aftræk mv.                                                                                                                                                                                                                                                                                    |
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ### Rumakustik i boliger {#3e1aeb87-38eb-4d08-8d52-f6f416dc2e29}
@@ -282,9 +228,7 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 +-------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+
 | I gange i plejehjem og lignende, hvor gangarealet i nogen grad anvendes til ophold              | ≤ 0,9 s                                                                                         | 500-2000 Hz                                                                                     |
 +-------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+
-| Fælles opholdsrum^
-
-2)^                                                                          | ≤ 0,9 s                                                                                         | 125 Hz   250-4000 Hz                                                                            |
+| Fælles opholdsrum^2)^                                                                          | ≤ 0,9 s                                                                                         | 125 Hz   250-4000 Hz                                                                            |
 |                                                                                                 |                                                                                                 |                                                                                                 |
 |                                                                                                 | ≤ 0,6 s                                                                                         |                                                                                                 |
 +-------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+
@@ -294,13 +238,8 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 +-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Noter**                                                                                                                                                                                                                                                                                           |
 |                                                                                                                                                                                                                                                                                                     |
-|
-
-1)   Maksimumsværdien for efterklangstiden gælder for hvert 1/1-oktavbånd i frekvensområdet.\                                                                                                                                                                                                       |
+| 1)   Maksimumsværdien for efterklangstiden gælder for hvert 1/1-oktavbånd i frekvensområdet.\                                                                                                                                                                                                       |
 | \                                                                                                                                                                                                                                                                                                   |
 |                                                                                                                                                                                                                                                                                                     |
-|
-
-2)   Grænseværdierne gælder i møblerede rum.                                                                                                                                                                                                                                                        |
+| 2)   Grænseværdierne gælder i møblerede rum.                                                                                                                                                                                                                                                        |
 +-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-

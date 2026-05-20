@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -79,4 +75,3 @@ Formålet med der i [§ 5, stk. 1, nr. 16](/administrative-bestemmelser/krav/4_6
 Det er styrelsens opfattelse at primitive bygninger til lejlighedsvis overnatning ikke kan kategoriseres som sekundært byggeri, fordi bygningen bruges til længerevarende ophold i det der overnattes i bygningen.
 
 De primitive bygninger til lejlighedsvis overnatning beskrevet blandt andet i [§ 5, stk. 1, nr. 6](/administrative-bestemmelser/krav/4_6/), vil derfor som udgangspunkt ikke blive omfattet af bestemmelserne i [§ 5, stk.1](/administrative-bestemmelser/krav/4_6/), nr 1 om 50 m² samlet sekundære bygninger, der kan opføres uden byggetilladelse, bestemmelserne i [kapitel 8](/tekniske-bestemmelser/08/) der vedrører sekundære bygninger som fx [§ 181](/tekniske-bestemmelser/08/krav/), stk 1, nr 3 om en maksimal samlede længde på 12 m i skelbræmmen eller bestemmelser i [kapitel 23](/ovrige-bestemmelser/23/) om blandt andet fradrag for sekundære bygninger ved beregning af bebyggelsesprocenten i [§ 455](/ovrige-bestemmelser/23/krav/), stk 4.
-

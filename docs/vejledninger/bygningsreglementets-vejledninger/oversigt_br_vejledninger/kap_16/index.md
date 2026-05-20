@@ -2,27 +2,19 @@
 
 [Kap. 1](../kap_1/)
 
-## Administrative bestemmelser (§ 1 - §
-
-47)
+## Administrative bestemmelser (§ 1 - § 47)
 
 [Kap. 2](../kap_2/)
 
-## Adgangsforhold (§ 48 - §
-
-62)
+## Adgangsforhold (§ 48 - § 62)
 
 [Kap. 3](../kap_3/)
 
-## Affaldssystemer (§ 63 - §
-
-68)
+## Affaldssystemer (§ 63 - § 68)
 
 [Kap. 4](../kap_4/)
 
-## Afløb (§ 69 - §
-
-81)
+## Afløb (§ 69 - § 81)
 
 [Kap. 5](../kap_5/)
 
@@ -72,7 +64,9 @@
 
 ## Legepladser mv. (§ 358 - § 367)
 
-[Bygningsreglementets vejledning om legepladser mv.](../../../../tekniske-bestemmelser/16/vejledninger/generel_vejledning/){rel="noopener noreferrer" target="_blank"} [Kap. 17](../kap_17/)
+[Bygningsreglementets vejledning om legepladser mv.](../../../../tekniske-bestemmelser/16/vejledninger/generel_vejledning/){rel="noopener noreferrer" target="_blank"}
+
+[Kap. 17](../kap_17/)
 
 ## Lydforhold (§ 368 - § 376)
 
@@ -147,4 +141,3 @@
 [Kap. 35](../kap_35/)
 
 ## Anerkendelse af statikere (§ 552 - § 563)
-

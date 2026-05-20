@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -60,7 +56,7 @@ Selvom kommunen vurderer, at det ikke er nødvendigt at ansøge om byggetilladel
 
 Den certificerede skal sikre, at forudsætningerne i byggetilladelsen for indplacering i konstruktionsklasser fortsat er til stede i forbindelse med færdigmelding.
 
-  [?](../overgangsperiode/)
+[?](../overgangsperiode/)
 
 ### Spørgsmål og svar vedrørende anvendelse af overgangsordning for anerkendte statikere (30-09-2020)
 
@@ -83,4 +79,3 @@ Den certificerede skal sikre, at forudsætningerne i byggetilladelsen for indpla
 [?](../primitive-bygninger/)
 
 ### Spørgsmål og svar om primitive bygninger (09-01-2024)
-

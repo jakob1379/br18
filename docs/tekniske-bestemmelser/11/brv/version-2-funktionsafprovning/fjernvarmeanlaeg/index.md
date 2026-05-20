@@ -84,7 +84,7 @@ DS 469, Varme- og køleanlæg i bygninger
 
 #### Beskrivelse
 
-#### Standarden findes på dansk i Dansk Standards [](https://webshop.ds.dk/standard/M253996/ds-469-2013 "DS 469"){target="_blank"}
+#### Standarden findes på dansk i Dansk Standards [webshop.ds.dk](https://webshop.ds.dk/standard/M253996/ds-469-2013 "DS 469"){target="_blank"}
 
 [![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
 
@@ -175,4 +175,3 @@ Der udarbejdes en funktionsafprøvningsrapport, der beskriver:
 ### Acceptkriterium {#8c276468-27da-40b5-9cd3-21d0faf66b5c}
 
 ### Dokumentation {#bfd6298a-b31e-4a25-99f5-295e4738889d}
-

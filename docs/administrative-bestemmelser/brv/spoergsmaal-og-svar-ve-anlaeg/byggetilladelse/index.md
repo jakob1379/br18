@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../)
@@ -39,4 +35,3 @@ Det er kommunen som bygningsmyndighed, der i den konkrete sag vurderer, om det e
 I de tilfælde der er krav om byggetilladelse til et elproducerende VE-anlæg, skal kommunen i henhold til tidsfristerne for tilladelsesprocessen for VE-anlæg behandle ansøgningen om byggetilladelse til anlægget inden for to år. Tidsfristen på to år begynder at løbe, når alle relevante ansøgninger er indleveret til de relevante myndigheder i fyldestgørende stand.
 
 ### Hvad er reglerne for brand- og konstruktionsforhold ved etablering af elproducerende VE-anlæg, og skal der tilknyttes en certificerede rådgivere?
-

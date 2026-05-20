@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -70,7 +66,9 @@
 
 ### Byggesagsgebyr for deltilladelser
 
-Kommunerne kan vælge at opkræve byggesagsgebyr efter tidsforbrug for deltilladelser.   Hvis kommunen vælger at opkræve byggesagsgebyr for en deltilladelse, skal kommunen blot være opmærksom på, at opkrævningen af byggesagsgebyr følger gebyrreglerne generelt.    Derudover skal kravet om udspecificering af tidsforbruget ved gebyropkrævning ved deltilladelser iagttages.  [12.](../forfaldstidspunkt/)
+Kommunerne kan vælge at opkræve byggesagsgebyr efter tidsforbrug for deltilladelser.   Hvis kommunen vælger at opkræve byggesagsgebyr for en deltilladelse, skal kommunen blot være opmærksom på, at opkrævningen af byggesagsgebyr følger gebyrreglerne generelt.    Derudover skal kravet om udspecificering af tidsforbruget ved gebyropkrævning ved deltilladelser iagttages.
+
+[12.](../forfaldstidspunkt/)
 
 ### Byggesagsgebyrets forfaldstidspunkt
 
@@ -85,4 +83,3 @@ Kommunerne kan vælge at opkræve byggesagsgebyr efter tidsforbrug for deltillad
 [15.](../intern-instruks/)
 
 ### Intern instruks i kommunen
-

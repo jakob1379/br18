@@ -52,7 +52,7 @@ Vejledning: Vejledning om altaner med udliggerjern
 
 ####
 
-#### Gå til vejledning @@PROTECTED_11@@
+#### Gå til vejledning [Vejledning Om Altaner Med Udliggerjern](../../../../../media/g3efcyll/vejledning-om-altaner-med-udliggerjern.pdf){target="_blank"}
 
 ####
 
@@ -60,7 +60,7 @@ Vejledning: Eftersyn af ældre betonaltaner
 
 ####
 
-#### @@PROTECTED_12@@
+#### [Vejledning Om Eftersyn Af Ældre Betonaltaner](../../../../../media/sntagso1/vejledning-om-eftersyn-af-aeldre-betonaltaner.pdf){target="_blank"}
 
 [3.3.](../kap-3_3/)
 
@@ -73,4 +73,3 @@ Vejledning: Eftersyn af ældre betonaltaner
 [3.5.](../kap-3_5/)
 
 ### Tagbrønde og tagnedløb
-

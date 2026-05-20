@@ -793,7 +793,7 @@ Siden indførelsen af projektsystemet i 1990 har kommunalbestyrelsen skullet tr�
 
 De enkelte kommuner har mulighed for at fastlægges tilslutningspligt til et bestemt forsyningsnet i henhold til varmeforsyningsloven.
 
--{target="_blank"}
+-  [Gå til energikrav for bygningsopvarmning - Individuel naturgasforsyning (§ 295)](../../../krav/295_296#0fa99ed3-1c44-426c-a3b3-6de893c65b2b){target="_blank"}
 
 ### Områder uden adgang til fjernvarme eller naturgas {#0fa99ed3-1c44-426c-a3b3-6de893c65b2b}
 
@@ -942,5 +942,4 @@ Målerdataene sammenholdes med vejrdata for lufttemperatur og soltilskud fx med 
 *Funktionsafprøvning*
 
 Bygningsautomatikken skal funktionsafprøves ifølge bygningsreglementets §296. Funktionsafprøvningen skal gennemføres, så det sikres, at bygningsautomatikken er korrekt installeret og virker efter hensigten. Se mere om funktionsafprøvning i bygningsreglementets vejledning om funktionsafprøvning.
-
 

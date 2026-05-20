@@ -2,7 +2,6 @@
 
 ## Se alle vejledninger om Legepladser mv. (§ 358 - § 367)
 
--
 - [Bygningsreglementets vejledning om legepladser mv.](../)
 
 ## Bygningsreglementets vejledning om legepladser mv.
@@ -60,4 +59,3 @@ For yderligere omkring ansøgning om byggetilladelse samt byggesagsbehandling af
 [5.](../5/)
 
 ### Drift, kontrol og vedligehold
-

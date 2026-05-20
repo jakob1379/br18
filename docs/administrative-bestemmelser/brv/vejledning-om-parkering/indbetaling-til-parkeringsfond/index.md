@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -91,4 +87,3 @@ Ved en dispensation fra parkeringskravet, hvor der sker indbetaling til en parke
 ***Hensigtsmæssig placering i forbindelse med indbetaling til parkeringsfond**\*
 
 Parkeringsfondspladserne skal i medfør af cirkulæret kunne anlægges med en hensigtsmæssig placering i forhold til den bidragsydende ejendom. Der er ikke fastsat en bestemt afstand for, hvor tæt på den bidragsydende ejendom, parkeringspladserne skal anlægges. Det bør dog indgå i kommunalbestyrelsens vurdering af placeringen af parkeringsfondspladserne, om der kan etableres areal i det pågældende område til anlæg af parkeringspladserne. Det bør ligeledes indgå i kommunalbestyrelsens vurdering af placeringen, at parkeringsfondspladserne anlægges så tæt på den bidragsydende ejendom, som det efter det pågældende områdes karakter, er muligt.
-

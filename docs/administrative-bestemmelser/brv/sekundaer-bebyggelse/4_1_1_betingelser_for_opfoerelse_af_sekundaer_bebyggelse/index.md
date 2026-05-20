@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -58,9 +54,7 @@ Hvis sekundær bebyggelse opføres nærmere skel mod nabo og sti end 2,5 meter, 
 
 • Der må ikke udføres vinduer, døre eller andre åbninger i den side, der vender mod skel mod nabo og sti.
 
-• Tagvand skal holdes på egen grund. Man skal altså sørge for, at tagvandet ikke
-
-løber ind på naboens grund.
+• Tagvand skal holdes på egen grund. Man skal altså sørge for, at tagvandet ikke løber ind på naboens grund.
 
 Hvis ovenstående betingelser overholdes, er det som udgangspunkt tilladt at bygge nærmere skel end 2,5 meter. Sommerhuse er selvstændigt reguleret -- se afsnit 4.1.3 nedenfor. Er der tvivl om, hvorvidt byggeriet kan opfylde alle betingelserne, kan man kontakte kommunen for vejledning.
 
@@ -107,4 +101,3 @@ Hvis ovenstående betingelser overholdes, er det som udgangspunkt tilladt at byg
 [9.0.](../9_0_hvad-skal-man-huske/)
 
 ### Hvad skal man huske?
-

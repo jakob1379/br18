@@ -152,7 +152,7 @@ Foreningens formand oplyser, at store bygninger ofte er byggeteknisk enkle og de
 
 Trafik-, Bygge- og Boligstyrelsen er ikke via disse kontakter blevet bekendt med særskilte problemer i forbindelse med tæthed.
 
-Tæthedskravet i store bygninger fordrer, at de valgte løsninger er bygbare (rådgiveropgave), og at samlinger mm. udføres korrekt (entreprenøropgave). For byggerier med stor gentagelseseffekt fx 250 ens facademoduler, er det meget nyttigt at foretage afprøvning på et par af de første moduler, så dårlige løsninger ikke ge[Tæthed](https://eksempelsamling.bygningsreglementet.dk/fokus_taethed/0/52 "Tæthed"){rel="noopener" target="_blank"}ntages.
+Tæthedskravet i store bygninger fordrer, at de valgte løsninger er bygbare (rådgiveropgave), og at samlinger mm. udføres korrekt (entreprenøropgave). For byggerier med stor gentagelseseffekt fx 250 ens facademoduler, er det meget nyttigt at foretage afprøvning på et par af de første moduler, så dårlige løsninger ikke gentages.
 
 I forbindelse med bygningsreglementet er der en eksempelsamling, der bl.a. indeholder et tema om tæthed, se [Tema om tæthed - Eksempelsamling](https://eksempelsamling.bygningsreglementet.dk/fokus_taethed/0/52)
 
@@ -382,4 +382,3 @@ Som det fremgår ovenfor, er det Trafik-, Bygge- og Boligstyrelsens opfattelse, 
 Ventilation af fx operationsstuer vil udløse et tillæg, der dækker et merforbrug i forhold til normal kontorventilation med den aktuelt anvendte teknologi. Der er ikke et pres på for at forbedre denne teknologi.
 
 Tillægget til energirammen beregnes som fx merforbrug af el til belysning, varme- og køleforbrug og eventuelt vandforbrug i den aktuelle bygning i forhold til en referencebygning.
-

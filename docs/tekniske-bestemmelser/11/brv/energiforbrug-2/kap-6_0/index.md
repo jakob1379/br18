@@ -533,7 +533,7 @@ SBi-Anvisning 213 Bygningers energibehov
 
 Denne anvisning beskriver metoden til beregning af bygningers energibehov i henhold til bygningsreglementets energiramme.
 
-#### http://www.anvisninger.dk [](){target="_blank"}
+#### [http://www.anvisninger.dk](http://www.anvisninger.dk){target="_blank"}
 
 ### Ombygninger og udskiftninger af bygningsdele {#667be8d0-d9db-472e-addd-bc927954fa7c}
 
@@ -653,7 +653,7 @@ Energiguide for fredede og bevaringsværdige huse, Bygningskultur Danmark 2019
 
 En energiguide, som i et let forståeligt sprog uden indforstået teknisk jargon klæder husejere på til at gøre deres huse mere energivenlige - uden at gå på kompromis med husets historiske og kulturelle kvaliteter.
 
-#### Se energiguiden her [](https://historiskehuse.dk/produkt/energiguide-for-fredede-og-bevaringsvaerdige-huse/){target="_blank"}
+#### [Se energiguiden her](https://historiskehuse.dk/produkt/energiguide-for-fredede-og-bevaringsvaerdige-huse/){target="_blank"}
 
 [![](../../../../../assets/img/linkbox/info_linkbox.svg)](# "#title")
 
@@ -942,5 +942,4 @@ Målerdataene sammenholdes med vejrdata for lufttemperatur og soltilskud fx med 
 *Funktionsafprøvning*
 
 Bygningsautomatikken skal funktionsafprøves ifølge bygningsreglementets §296. Funktionsafprøvningen skal gennemføres, så det sikres, at bygningsautomatikken er korrekt installeret og virker efter hensigten. Se mere om funktionsafprøvning i bygningsreglementets vejledning om funktionsafprøvning.
-
 

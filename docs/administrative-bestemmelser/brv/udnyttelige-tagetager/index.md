@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../spoergsmaal-og-svar)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../spoergsmaal-og-svar-ve-anlaeg)
@@ -55,4 +51,3 @@ Såfremt der udelukkende sker konstruktive ændringer med henblik på at ændre 
 ### Anvendelsen af den udnyttelige tagetage
 
 Når det er konstateret, at tagetagen er udnyttelig, og det areal, der skal medregnes til bebyggelsesprocenten er fastsat, skal der herefter selvstændigt tages stilling, om den ansøgte anvendelse betyder, at der er krav om byggetilladelse, og hvilke krav den ansøgte anvendelse i øvrigt skal overholde. Eksempelvis vil der ved en ændret anvendelse fra pulterrum i en udnyttelig tagetage til beboelse være tale om en væsentlig anvendelsesændring i henhold til byggelovens § 2, stk.2, litra c, og der vil dermed være krav om byggetilladelse. Hvilke krav der i øvrigt skal stilles, afhænger at den konkrete sag.
-

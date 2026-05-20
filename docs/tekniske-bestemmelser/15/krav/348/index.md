@@ -83,11 +83,11 @@ Projektering og udførelse af stålkonstruktioner skal, udover bestemmelserne i 
 
 6) DS/EN 1993-1-6+AC:2012 Stålkonstruktioner, Styrke og stabilitet af skalkonstruktioner med DS/EN 1993-1-6 DK NA.
 
-7) DS/EN 1993-1-7+AC:2011 Stålkonstruktioner, Styrke og stabilitet af pladekonstruktioner med tværbelastning med DS/EN 1993- 1-7 DK NA.
+7) DS/EN 1993-1-7+AC:2011 Stålkonstruktioner, Styrke og stabilitet af pladekonstruktioner med tværbelastning med DS/EN 1993-1-7 DK NA.
 
 8) DS/EN 1993-1-8+AC:2007 Stålkonstruktioner, Samlinger med DS/EN 1993-1-8 DK NA.
 
-9) DS/EN 1993-1-9+AC:2007 Stålkonstruktioner, Udmattelse med DS/EN 1993-1-9 DK NA. 10.
+9) DS/EN 1993-1-9+AC:2007 Stålkonstruktioner, Udmattelse med DS/EN 1993-1-9 DK NA.
 
 10) DS/EN 1993-1-10+AC:2007 Stålkonstruktioner, Materialesejhed og egenskaber i tykkelsesretningen med DS/EN 1993-1-10 DK NA.
 
@@ -99,7 +99,7 @@ Projektering og udførelse af stålkonstruktioner skal, udover bestemmelserne i 
 
 Projektering og udførelse af kompositkonstruktioner skal, udover bestemmelserne i § 344, ske i overensstemmelse med:
 
-1\) DS/EN 1994-1-1:2007 Kompositkonstruktioner, Generelle regler samt regler for bygningskonstruktioner med DS/EN 1994-1- 1 DK NA.
+1\) DS/EN 1994-1-1:2007 Kompositkonstruktioner, Generelle regler samt regler for bygningskonstruktioner med DS/EN 1994-1-1 DK NA.
 
 2) DS/EN 1994-1-2:2007 Kompositkonstruktioner, Brandteknisk dimensionering med DS/EN 1994-1-2 DK NA.
 
@@ -137,9 +137,9 @@ Projektering og udførelse af murværkskonstruktioner skal, udover bestemmelsern
 
 Projektering og udførelse af geotekniske konstruktioner skal, udover bestemmelserne i § 344, ske i overensstemmelse med:
 
-1\) DS/EN 1997- 1:2007 Geoteknik, Generelle regler med DS/EN 1997-1 DK NA.
+1\) DS/EN 1997-1:2007 Geoteknik, Generelle regler med DS/EN 1997-1 DK NA.
 
-2) DS/EN 1997- 2+AC:2011 Geoteknik, Jordbundsundersøgelse og -prøvning med DS/EN 1997-2 DK NA.
+2) DS/EN 1997-2+AC:2011 Geoteknik, Jordbundsundersøgelse og -prøvning med DS/EN 1997-2 DK NA.
 
 *Stk. 2.* Reference er inklusiv tilhørende rettelsesblade og tillæg.
 
@@ -179,7 +179,7 @@ Stationære opbevaringssystemer skal dimensioneres i overensstemmelse med DS/EN 
 
 ### § 355 {#paragraf-355}
 
-Teleskopstande og demonterbare tilskuertribuner skal dimensioneres i overensstemmelse med henholdsvis DS/EN 13200- 5 og 13200-6 med DS/EN 13200-5 DK NA og DS/EN 13200-6 DK NA*,* eller på en måde, som sikrer, at de relevante bestemmelser i §§ 344-351 er opfyldt.
+Teleskopstande og demonterbare tilskuertribuner skal dimensioneres i overensstemmelse med henholdsvis DS/EN 13200-5 og 13200-6 med DS/EN 13200-5 DK NA og DS/EN 13200-6 DK NA*,* eller på en måde, som sikrer, at de relevante bestemmelser i §§ 344-351 er opfyldt.
 
 ## § 356 Undtagelser {#2f6fb7da-16dd-49c7-b4e8-af9e3a8226a0}
 
@@ -191,5 +191,4 @@ Teleskopstande og demonterbare tilskuertribuner skal dimensioneres i overensstem
 
 ### § 357 {#paragraf-357}
 
-Drift, kontrol og vedligehold af konstruktioner skal ske, så de til enhver tid overholder de relevante bestemmelser i §§ 344- 356.
-
+Drift, kontrol og vedligehold af konstruktioner skal ske, så de til enhver tid overholder de relevante bestemmelser i §§ 344-356.

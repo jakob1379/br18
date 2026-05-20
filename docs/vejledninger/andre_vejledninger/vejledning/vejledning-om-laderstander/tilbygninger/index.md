@@ -46,7 +46,7 @@ Det medfører, at et areal ikke anses som omfattet af krav i ladestanderbekendtg
 - Græsmarker eller grusarealer til parkering i forbindelse med arrangementer, der afholdes en eller få gange om året, fx en festival, koncert, idrætsstævne el. lign.
 - Parkeringspladser til en landsbykirke, forsamlingshus el. lign., hvor arealet kun anvendes til parkering ganske få gange om året.
 
-Det vigtige i denne sammenhæng er at vurdere, i hvilket omfang arealet har en reel betydning for bygningens almindelige brug, eller om det er et areal, der primært anvendes i særlige tilfælde og kun få gange om året. [](../i-tilknytning-til#b2609f4b-6fe1-4364-b8a1-55a0fa6b1594)
+Det vigtige i denne sammenhæng er at vurdere, i hvilket omfang arealet har en reel betydning for bygningens almindelige brug, eller om det er et areal, der primært anvendes i særlige tilfælde og kun få gange om året. [I tilknytning til](../i-tilknytning-til#b2609f4b-6fe1-4364-b8a1-55a0fa6b1594)
 
 ### I tilknytning til
 
@@ -195,4 +195,3 @@ Hvis en bestående bygning udelukkende benytter gadeparkering, vil bygningen ikk
 Hvis der i forbindelse med en bestående bygning allerede er etableret en ladestander af andre årsager end ladestanderbekendtgørelsen, er der ikke yderligere krav om etablering af ladestander.
 
 En ladestander er et brugerbetjent anlæg i henhold til bygningsreglementet. Der skal dog kun tilføres tilgængelighedsforanstaltninger, hvis parkeringspladserne som ladestanderen betjener er handicap-parkeringspladser. En ladestander der betjener en handicapparkeringsplads skal derfor være handicaptilgængelig, mens en ladestander der ikke betjener handicapparkeringspladser, ikke behøver at være handicaptilgængelig.
-

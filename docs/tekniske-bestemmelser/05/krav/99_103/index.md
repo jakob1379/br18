@@ -272,7 +272,7 @@ Design, projektering og udførelse af redningsåbninger skal ske under hensyn ti
 
 4) At redningsåbninger i brandmæssige enheder kan åbnes uden brug af nøgle eller særligt udstyr, når der opholder sig personer som har lovlig adgang, i de pågældende brandmæssige enheder.
 
-## § 99 - 103 Bærende konstruktioners brandmodstandsevne {#916e0fd2-a694-4fcc-a9e7-ba687c40c206}
+## § 99 - § 103 Bærende konstruktioners brandmodstandsevne {#916e0fd2-a694-4fcc-a9e7-ba687c40c206}
 
 ### § 99 {#paragraf-99}
 
@@ -292,7 +292,11 @@ I tilfælde af brand skal bygninger og bygningsdele have en tilstrækkelig brand
 
 Brandmodstandsevnen for bærende bygningsdele bestemmes enten ved standardbrandpåvirkning eller ved anvendelse af et naturligt brandforløb som beskrevet i DS/EN 1991-1-2 Eurocode 1: Last på bærende konstruktioner- Del 1-2: Generelle laster - Brandlast og DS/EN 1991-1-2 DK NA Nationalt Anneks til Eurocode 1: Last på bygværker - Del 1-2: Generelle laster - Brandlaster.
 
-*Stk. 2.* Anvendes et naturligt brandforløb i medfør af stk. 1, skal det dokumenteres, at konstruktionen kan modstå det fulde brandforløb. § 101 § 100 kan fraviges, hvis det på anden vis sikres og dokumenteres, at fravigelsen er forsvarlig, og der opnås et sikkerhedsniveau som beskrevet i § 82 og § 344, stk. 2, nr. 1.
+*Stk. 2.* Anvendes et naturligt brandforløb i medfør af stk. 1, skal det dokumenteres, at konstruktionen kan modstå det fulde brandforløb.
+
+### § 101 {#paragraf-101}
+
+§ 100 kan fraviges, hvis det på anden vis sikres og dokumenteres, at fravigelsen er forsvarlig, og der opnås et sikkerhedsniveau som beskrevet i § 82 og § 344, stk. 2, nr. 1.
 
 ### § 102 {#paragraf-102}
 
@@ -364,7 +368,11 @@ Byggeri kan opdeles i flere brandmæssige enheder. Opdelingen i brandmæssige en
 
 ### § 112 {#paragraf-112}
 
-Bygningsafsnit skal udgøre en eller flere selvstændige brandmæssige enheder. § 113 (Ophævet)
+Bygningsafsnit skal udgøre en eller flere selvstændige brandmæssige enheder.
+
+### § 113 {#paragraf-113}
+
+(Ophævet)
 
 ### § 114 {#paragraf-114}
 
@@ -400,7 +408,11 @@ Midlertidige camping- og salgsområder skal placeres, indrettes og bruges på en
 
 ## § 120 - § 124 Brandtekniske installationer til begrænsning af brand- og røgspredning {#511f9aa7-c87c-4831-b1a7-9c57f5846709}
 
-§ 120 I camping- og salgsområder skal der være brandslukningsmateriel i et sådan omfang, at tilstedeværende kan foretage en acceptabel indledende indsats. § 121
+### § 120 {#paragraf-120}
+
+I camping- og salgsområder skal der være brandslukningsmateriel i et sådan omfang, at tilstedeværende kan foretage en acceptabel indledende indsats.
+
+### § 121 {#paragraf-121}
 
 Der skal i følgende bygningsafsnit installeres slangevinder for at sikre, at personer i bygningen kan foretage en indledende slukning:
 
@@ -502,11 +514,19 @@ I bygninger med redningsåbninger til brug for redningsberedskabets personrednin
 
 (Ophævet)
 
-### § 130 I {#paragraf-130i}
+### § 130 {#paragraf-130}
 
-bygninger, hvor redningsberedskabets brandslanger ikke kan føres frem af de primære indtrængningsveje som trapper mv., skal der installeres stigrør.
+I bygninger, hvor redningsberedskabets brandslanger ikke kan føres frem af de primære indtrængningsveje som trapper mv., skal der installeres stigrør.
 
-§ 131 I redningsberedskabets primære indtrængningsveje skal der være mulighed for røgudluftning. § 132 I bygningsafsnit, hvor røgudluftning ikke kan ske ved naturlig ventilation via åbninger i ydervægge eller i tag, skal der på anden måde etableres mulighed for røgudluftning. § 133
+### § 131 {#paragraf-131}
+
+I redningsberedskabets primære indtrængningsveje skal der være mulighed for røgudluftning.
+
+### § 132 {#paragraf-132}
+
+I bygningsafsnit, hvor røgudluftning ikke kan ske ved naturlig ventilation via åbninger i ydervægge eller i tag, skal der på anden måde etableres mulighed for røgudluftning.
+
+### § 133 {#paragraf-133}
 
 I bygningsafsnit med gulv i øverste etage mere end 22 m over terræn, skal der installeres mindst en brandmandselevator af hensyn til redningsberedskabets indsatsmuligheder.
 
@@ -662,7 +682,11 @@ For eksisterende bygninger, omfattet af § 147, hvor der ikke inden ibrugtagning
 
 ## § 151 - § 152 a Eksisterende feriehuse med flere end 10 sovepladser, der anvendes til udlejning, samt eksisterende kirker {#a3ea78d8-d52d-4d35-8388-68ef770d9ccc}
 
-§ 151 I feriehuse med flere end 10 sovepladser, der anvendes til udlejning, skal der i passende omfang installeres røgalarmer. Der skal placeres mindst én røgalarm i hvert feriehus, dog mindst én på hver etage. § 152
+### § 151 {#paragraf-151}
+
+I feriehuse med flere end 10 sovepladser, der anvendes til udlejning, skal der i passende omfang installeres røgalarmer. Der skal placeres mindst én røgalarm i hvert feriehus, dog mindst én på hver etage.
+
+### § 152 {#paragraf-152}
 
 I eksisterende kirkerum, som anvendes til kirkelige handlinger, koncerter samt arrangementer af lignende karakter, som ikke medfører forøget brandrisiko, kan forhold, som ellers er gældende for forsamlingslokaler, jf. § 148, undlades.
 
@@ -717,5 +741,8 @@ Der skal udarbejdes en drifts-, kontrol- og vedligeholdelsesplan for de transpor
 
 3) Der udarbejdes ordensregler om forebyggelse af brand.
 
-4) Personalet er instrueret i de udarbejdede ordensregler, brand- og evakueringsinstruks, placering og brug af håndslukningsudstyr og brandtekniske installationer. § 158 §§ 156 og 157 anses for opfyldt, såfremt drifts-, kontrol- og vedligeholdelsesplanen er udført i henhold til *Bygningsreglementets vejledning til kapitel 5 - Brand.*
+4) Personalet er instrueret i de udarbejdede ordensregler, brand- og evakueringsinstruks, placering og brug af håndslukningsudstyr og brandtekniske installationer.
 
+### § 158 {#paragraf-158}
+
+§§ 156 og 157 anses for opfyldt, såfremt drifts-, kontrol- og vedligeholdelsesplanen er udført i henhold til *Bygningsreglementets vejledning til kapitel 5 - Brand.*

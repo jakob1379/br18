@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -36,9 +32,9 @@
 
 Aftaler om opførelse af bebyggelse over skel kan være i strid med [udstykningsloven](https://www.retsinformation.dk/eli/lta/2024/53), som henhører under Geodatastyrelsen.
 
-Efter ordlyden af [udstykningslovens § 16 e](https://www.retsinformation.dk/eli/lta/2024/53)r det alene muligt at indgå aftale om brugsret for en del af en fast samlet ejendom for et tidsrum op til 30 år.
+Efter ordlyden af [udstykningslovens § 16 e](https://www.retsinformation.dk/eli/lta/2024/53) er det alene muligt at indgå aftale om brugsret for en del af en fast samlet ejendom for et tidsrum op til 30 år.
 
-[Udstykningslovens § 16 f](https://www.retsinformation.dk/eli/lta/2024/53)ortolkes dog således, at aftalen blot skal indeholde mulighed for opsigelse, så ingen af aftalens parter på noget tidspunkt er bundet af aftalen for mere end 30 år.
+[Udstykningslovens § 16 f](https://www.retsinformation.dk/eli/lta/2024/53) fortolkes dog således, at aftalen blot skal indeholde mulighed for opsigelse, så ingen af aftalens parter på noget tidspunkt er bundet af aftalen for mere end 30 år.
 
 Hvis brugsretten overskrider åremålsgrænsen, kan brugsretsaftalen kun lovlig indgås, hvis aftalen angår en helt samlet fast ejendom.
 
@@ -49,4 +45,3 @@ Undladelse af at gennemføre den nødvendige matrikulære ændring, jf. [udstykn
 Det bemærkes, at Geodatastyrelsens beføjelser efter [udstykningsloven](https://www.retsinformation.dk/eli/lta/2024/53) ikke har til formål og er ikke egnede til, at løse almindelige naboretlige konflikter om overskridelse af skel. En tvist om byggeri på naboejendom må efter omstændighederne i sidste ende afgøres privatretligt ved domstolene.
 
 Ved behov for yderligere information om [udstykningsloven](https://www.retsinformation.dk/eli/lta/2024/53) henvises til Geodatastyrelsen.
-

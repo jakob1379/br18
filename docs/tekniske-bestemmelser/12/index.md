@@ -253,7 +253,7 @@ Aftrækssystemer skal udføres og installeres, så de er sikret mod tilstopning,
 
 ### § 320 {#paragraf-320}
 
-Aftrækssystemer skal projekteres, udføres og installeres, så de kan modstå fyringsanlæggets røggastemperatur. Der henvises til bestemmelserne i [§§ 105-107 i](/tekniske-bestemmelser/05/krav/) forhold til risikoen for en brands opståen og spredning og § 323 i forhold til aftrækssystemets overfladetemperatur.
+Aftrækssystemer skal projekteres, udføres og installeres, så de kan modstå fyringsanlæggets røggastemperatur. Der henvises til bestemmelserne i [§§ 105-107](/tekniske-bestemmelser/05/krav/) i forhold til risikoen for en brands opståen og spredning og § 323 i forhold til aftrækssystemets overfladetemperatur.
 
 *Stk. 2.* Manuelt fyrede fastbrændselsanlæg samt pejse og brændeovne må ikke tilsluttes aftræk med lavere temperaturklasse, jf. *DS/EN 1443 Skorstene -- Generelle krav end T400. *
 
@@ -293,7 +293,7 @@ Aftrækssystemets overfladetemperatur må under normal drift ikke overstige den 
 
 ## Aftrækssystemer ved tagdækning med utilstrækkelig brandmodstandsevne {#s324}
 
-[§ 324 I](/tekniske-bestemmelser/12/krav/) forbindelse med tagdækninger, som ikke kan klassificeres som tagdækning klasse BROOF(t2) \[klasse T tagdækning\], skal aftrækssystemer udføres og opsættes på en sådan måde, at der opnås tilstrækkelig sikkerhed mod brand. [§ 325 - § 327](./#s325-327)
+[§ 324](/tekniske-bestemmelser/12/krav/) I forbindelse med tagdækninger, som ikke kan klassificeres som tagdækning klasse BROOF(t2) \[klasse T tagdækning\], skal aftrækssystemer udføres og opsættes på en sådan måde, at der opnås tilstrækkelig sikkerhed mod brand. [§ 325 - § 327](./#s325-327)
 
 ## Øvrige energiforsyningsanlæg: Solvarme-, solcelle-, køleanlæg og varmepumper
 
@@ -344,4 +344,3 @@ Drift og vedligehold af installationer til energiforsyning skal ske, så de til 
 *Stk. 2.* Der skal foreligge en drifts- og vedligeholdelsesmanual inden ibrugtagning. Manualen skal indeholde tegninger med oplysning om placering af installationer, der skal vedligeholdes, samt hvordan og hvor ofte vedligeholdelsen skal ske.
 
 *Stk. 3.* Ved installation af centralvarmekedler med oliebrænder skal brænderen indreguleres.
-

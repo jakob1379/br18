@@ -193,7 +193,7 @@ Dansk standard: DS 418 -- Beregning af bygningers varmetab
 
 Standarden indeholder beregningsregler for beregning af bygningers varmetab.
 
-#### Standarden findes i Dansk Standards Webshop.ds.dk her [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/){target="_blank"}
+#### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/){target="_blank"}
 
 ### Energikrav til vinduer, glasydervægge, ovenlysvinduer og glastage {#74b8dcb5-1d2c-4d26-a488-19aef6197097}
 
@@ -313,7 +313,9 @@ Denne standard specificerer karakteristika for curtain walling og giver teknisk 
 
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/standard/ds-en-138302003){target="_blank"}
 
-Bemærk, engelske udgaver af europæiske standarder kan købes hos [alle europæiske standardiseringsorganisationer](https://standards.cen.eu/dyn/www/f?p=CENWEB:5){target="_blank"}. [![](../../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+Bemærk, engelske udgaver af europæiske standarder kan købes hos [alle europæiske standardiseringsorganisationer](https://standards.cen.eu/dyn/www/f?p=CENWEB:5){target="_blank"}.
+
+[![](../../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
 
 #### DS/INF 60:1990
 
@@ -323,7 +325,7 @@ Overfladebeskaffenhed. Overfladeruhed. Ordliste over nordiske termer for overfla
 
 Informationsbladet opstiller i tabelform de anvendte termer i Danmark, Finland, Norge og Sverige for overfladeruhed, som er defineret i de Internationale Standarder, ISO 4287/1 og ISO 4287/2.
 
-#### Standarden findes i Dansk Standards Webshop.ds.dk her [webshop.ds.dk](https://webshop.ds.dk/default.aspx?id=118&productId=11035 "DS/INF 60:1990"){target="_blank"}
+#### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/default.aspx?id=118&productId=11035 "DS/INF 60:1990"){target="_blank"}
 
 ### Energirammen {#38ddddea-b3b6-41a3-8596-10bbb3f0523c}
 
@@ -349,7 +351,7 @@ SBi-Anvisning 213 Bygningers energibehov
 
 ​Anvisningen beskriver, hvordan man bruger beregningsprogrammet Be15 til beregning af bygningers energibehov. Programmet skal bruges, når man skal eftervise, at en bygning opfylder energibestemmelserne i bygningsreglementet. Anvisning og beregningsprogram henvender sig til rådgivende ingeniører, arkitekter, entreprenører, andre projekterende og udførende inden for byggeri samt til offentlige myndigheder.
 
-#### Find SBi-Anvisning 213 på Statens Byggeforskningsinstituts (SBi) hjemmeside her [Find SBi-Anvisning 213 på Statens Byggeforskningsinstituts (SBi) hjemmeside her](https://sbi.dk/anvisninger/Pages/213-Bygningers-energibehov-4.aspx){target="_blank"}
+#### [Find SBi-Anvisning 213 på Statens Byggeforskningsinstituts (SBi) hjemmeside her](https://sbi.dk/anvisninger/Pages/213-Bygningers-energibehov-4.aspx){target="_blank"}
 
 Anvisning og programmet er betalingsbelagt.
 
@@ -372,7 +374,7 @@ Bygningers energibehov
 
 ​Anvisningen beskriver, hvordan man bruger beregningsprogrammet Be15 til beregning af bygningers energibehov. Programmet skal bruges, når man skal eftervise, at en bygning opfylder energibestemmelserne i bygningsreglementet. Anvisning og beregningsprogram henvender sig til rådgivende ingeniører, arkitekter, entreprenører, andre projekterende og udførende inden for byggeri samt til offentlige myndigheder.
 
-#### Find SBi-Anvisning 213 på Statens Byggeforskningsinstituts (SBi) hjemmeside her [Find SBi-Anvisning 213 på Statens Byggeforskningsinstituts (SBi) hjemmeside her](https://sbi.dk/anvisninger/Pages/213-Bygningers-energibehov-4.aspx "SBi-Anvisning 213"){target="_blank"}
+#### [Find SBi-Anvisning 213 på Statens Byggeforskningsinstituts (SBi) hjemmeside her](https://sbi.dk/anvisninger/Pages/213-Bygningers-energibehov-4.aspx "SBi-Anvisning 213"){target="_blank"}
 
 Anvisning og beregningsprogram er betalingsbelagt.
 
@@ -431,7 +433,7 @@ Bygningers termiske ydeevne - Bestemmelse af bygningers luftgennemtrængelighed 
 
 Denne standard er beregnet til in situ måling af bygningers eller bygningsdeles luftgennemtrængelighed. Den specificerer brugen af mekanisk tryk og undertryk i en bygning eller en del af en bygning. Den beskriver målingen af det resulterende luftflow ved en serie af forskellige indendørs-udendørs statiske tryk-differenser. Standarden er til brug ved målinger af luft-utætheder i klimaskærmen i bygninger med kun én zone.
 
-#### Standarden findes i Dansk Standards Webshop.ds.dk her [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/standard/ds-en-iso-99722015 "DS/EN ISO 9972:2015"){target="_blank"}
+#### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/standard/ds-en-iso-99722015 "DS/EN ISO 9972:2015"){target="_blank"}
 
 Bemærk, at de engelske versioner af de europæiske standarder kan købes hos alle europæiske standardiseringsorganisationer.
 
@@ -453,7 +455,7 @@ Dansk standard: DS 418 -- Beregning af bygningers varmetab
 
 Standarden indeholder beregningsregler for beregning af bygningers varmetab.
 
-#### Standarden findes i Dansk Standards Webshop.ds.dk her [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/){target="_blank"}
+#### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/){target="_blank"}
 
 ### Vedvarende energi {#cea05059-f673-4746-86a6-8e6320193440}
 
@@ -533,7 +535,7 @@ SBi-Anvisning 213 Bygningers energibehov
 
 Denne anvisning beskriver metoden til beregning af bygningers energibehov i henhold til bygningsreglementets energiramme.
 
-#### http://www.anvisninger.dk [](){target="_blank"}
+#### [http://www.anvisninger.dk](http://www.anvisninger.dk){target="_blank"}
 
 ### Ombygninger og udskiftninger af bygningsdele {#667be8d0-d9db-472e-addd-bc927954fa7c}
 
@@ -641,7 +643,7 @@ Byggeloven
 
 Byggeloven
 
-#### Se byggeloven her [Se byggeloven her](https://www.retsinformation.dk/forms/R0710.aspx?id=183662){target="_blank"}
+#### [Se byggeloven her](https://www.retsinformation.dk/forms/R0710.aspx?id=183662){target="_blank"}
 
 [![](../../../../../assets/img/linkbox/info_linkbox.svg)](# "#title")
 
@@ -653,7 +655,7 @@ Energiguide for fredede og bevaringsværdige huse, Bygningskultur Danmark 2019
 
 En energiguide, som i et let forståeligt sprog uden indforstået teknisk jargon klæder husejere på til at gøre deres huse mere energivenlige - uden at gå på kompromis med husets historiske og kulturelle kvaliteter.
 
-#### Se energiguiden her [](https://historiskehuse.dk/produkt/energiguide-for-fredede-og-bevaringsvaerdige-huse/){target="_blank"}
+#### [Se energiguiden her](https://historiskehuse.dk/produkt/energiguide-for-fredede-og-bevaringsvaerdige-huse/){target="_blank"}
 
 [![](../../../../../assets/img/linkbox/info_linkbox.svg)](# "#title")
 
@@ -665,7 +667,7 @@ E-SAVE-vejledning til kommunal sagsbehandling af byggesager med energitiltag i b
 
 En guide til forhåndsdialog mellem kommunen og bygningsejere og/eller dennes rådgiver om potentielle energibesparelser i bevaringsværdige ejendomme.
 
-#### Se guiden her [Se guiden her](https://gate21.dk/wp-content/uploads/2024/02/Esavevejledning.pdf){target="_blank"}
+#### [Se guiden her](https://gate21.dk/wp-content/uploads/2024/02/Esavevejledning.pdf){target="_blank"}
 
 ### Forsatsvinduer, porte, lemme og ovenlyskupler {#0953d039-72d1-4db2-abb2-e88d6a7c7981}
 
@@ -713,7 +715,7 @@ DMI Technical Report 13-19: 2001-2010 Danish Design Reference Year, 2013
 
 Lorem ipsum dolor sit amet...
 
-#### Se DMI Technical Report her [Se DMI Technical Report her](http://www.dmi.dk/fileadmin/user_upload/Rapporter/TR/2013/TR13-19.pdf){target="_blank"}
+#### [Se DMI Technical Report her](http://www.dmi.dk/fileadmin/user_upload/Rapporter/TR/2013/TR13-19.pdf){target="_blank"}
 
 ### Sommerhuse, campinghytter og lignende ferieboliger {#26f4b016-58b1-4881-b0a7-0d5cf7cbe85c}
 
@@ -775,7 +777,7 @@ Byggeloven
 
 Lorem ipsum dolor sit amet...
 
-#### Se byggeloven her [Se byggeloven her](https://www.retsinformation.dk/forms/R0710.aspx?id=183662){target="_blank"}
+#### [Se byggeloven her](https://www.retsinformation.dk/forms/R0710.aspx?id=183662){target="_blank"}
 
 ### Fjernvarme og vedvarende energi {#bc6d590f-bf2d-4b90-b394-44b83c63dbca}
 
@@ -811,7 +813,7 @@ Byggeloven
 
 Lorem ipsum dolor sit amet...
 
-#### Se byggeloven her [Se byggeloven her](https://www.retsinformation.dk/forms/R0710.aspx?id=183662){target="_blank"}
+#### [Se byggeloven her](https://www.retsinformation.dk/forms/R0710.aspx?id=183662){target="_blank"}
 
 ### Dispensation {#acc806ef-5e18-47b7-ac9e-f43662db0fa0}
 
@@ -851,7 +853,7 @@ EU-direktiv 2009/28/EF - om fremme af anvendelsen af energi fra vedvarende energ
 
 #### Anvendelsesområde
 
-#### Se EU-direktivet her [Se EU-direktivet her](http://eur-lex.europa.eu/legal-content/DA/TXT/PDF/?uri=CELEX:32009L0028&from=DA){target="_blank"}
+#### [Se EU-direktivet her](http://eur-lex.europa.eu/legal-content/DA/TXT/PDF/?uri=CELEX:32009L0028&from=DA){target="_blank"}
 
 ### Bygningsautomatik i større bygninger {#7e795995-247b-49e7-94d4-018b4d783347}
 
@@ -942,5 +944,3 @@ Målerdataene sammenholdes med vejrdata for lufttemperatur og soltilskud fx med 
 *Funktionsafprøvning*
 
 Bygningsautomatikken skal funktionsafprøves ifølge bygningsreglementets §296. Funktionsafprøvningen skal gennemføres, så det sikres, at bygningsautomatikken er korrekt installeret og virker efter hensigten. Se mere om funktionsafprøvning i bygningsreglementets vejledning om funktionsafprøvning.
-
-

@@ -22,7 +22,7 @@ Bestemmelserne om ventilation varetager alene de normale ventilationsbehov. I fx
 
 Det er ikke nødvendigt at ventilationen er fuldstændig konstant. I de fleste tilfælde vil det ikke gøre en forskel for indeklimaet om der ventileres med en konstant luftmængde eller om man over en lidt længere periode i gennemsnit har den krævede luftmængde. For de dimensionerende forhold bør den gennemsnitlige ventilation over en time for kontorer og en lektion for undervisningslokaler kunne overholde den krævede luftmængde. Bygningsreglementets øvrige krav til indeklima skal derudover overholdes. I alle tilfælde sikres det, at bygningen er ventileret i henhold til den brug, den har.
 
-Der henvises til DS/EN ISO 7730 Ergonomi inden for termisk miljø -- Analytisk bestemmelse og fortolkning af termisk komfort ved beregning af PMV- og PPD-indekser og lokale termiske komfortkriterier og At-vejledning A. 1.2 Indeklima. For ventilation af rum med ildsteder henvises til [§§301-303 s](/tekniske-bestemmelser/12/krav/301_303/)amt til Gassikkerhedsloven.
+Der henvises til DS/EN ISO 7730 Ergonomi inden for termisk miljø -- Analytisk bestemmelse og fortolkning af termisk komfort ved beregning af PMV- og PPD-indekser og lokale termiske komfortkriterier og At-vejledning A. 1.2 Indeklima. For ventilation af rum med ildsteder henvises til [§§301-303](/tekniske-bestemmelser/12/krav/301_303/) samt til Gassikkerhedsloven.
 
 Rengøringsstandarden i et rum har stor betydning for luftkvaliteten. Der henvises til bekendtgørelse om faste arbejdssteders indretning.
 
@@ -32,13 +32,15 @@ Efter arbejdsmiljølovens § 33 gælder det, at den der rådgiver om eller lever
 
 Reglerne beskrevet ovenfor er fastlagt i arbejdsmiljøloven. Yderligere og opdateret information kan findes på Arbejdstilsynets hjemmeside. Desuden opstiller DS 447 pkt. 6.6 krav til tilgængelighed og pladskrav.
 
+  [![](../../../../../assets/img/linkbox/ds_en_iso_linkbox.svg)](# "#title")
+
 ####
 
 DS/EN ISO 7730 - Ergonomi inden for termisk miljø - Analytisk bestemmelse og fortolkning af termisk komfort ved beregning af PMV- og PPD-indekser og lokale termiske komfortkriterier
 
 ####
 
-#### Standarden findes på dansk i Dansk Standards webshop webshop.ds.dk
+#### Standarden findes på dansk i Dansk Standards webshop [webshop.ds.dk](https://webshop.ds.dk/da-dk/standard/ds-en-iso-77302006){target="_blank"}
 
 #### At-vejledning A.1.2-1
 
@@ -46,9 +48,11 @@ Indeklima
 
 ####
 
-#### @@PROTECTED_4@@
+#### [Find At-vejledningen her](https://at.dk/regler/at-vejledninger/indeklima-a-1-2/ "At-vejledning A.1.2-1"){target="_blank"}
 
 De tre nævnte standarder nedenfor skal overholdes, når ventilationen projekteres og udføres. DS 447 indeholder de overordnede krav til ventilationssystemer, mens DS 428 indeholder brandkravene til ventilationsanlæg og DS 452 indeholder krav til isolering af de tekniske installationer, herunder ventilation.
+
+[![](../../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
 
 ####
 
@@ -56,7 +60,9 @@ DS 428 - Norm for brandtekniske foranstaltninger ved ventilationsanlæg
 
 ####
 
-#### Standarden findes på dansk i Dansk Standards{target="_blank"}
+#### Standarden findes på dansk i Dansk Standards [](https://webshop.ds.dk/da-dk/s%C3%B8gning/13-220-20-brandbeskyttelse/ds-4282011){target="_blank"}
+
+[![](../../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
 
 ####
 
@@ -64,7 +70,9 @@ DS 447 - Ventilation i bygninger - Mekaniske, naturlige og hybride ventilationss
 
 ####
 
-#### Standarden findes på dansk i Dansk Standards webshop.ds.dk
+#### Standarden findes på dansk i Dansk Standards [webshop.ds.dk](https://webshop.ds.dk/da-dk/s%C3%B8gning/91-140-30-ventilationssystemer-og-klimaanl%C3%A6g/ds-4472013){target="_blank"}
+
+[![](../../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
 
 ####
 
@@ -72,7 +80,7 @@ DS 452 - Termisk isolering
 
 ####
 
-#### Standarden findes på dansk i Dansk Standards webshop.ds.dk
+#### Standarden findes på dansk i Dansk Standards [webshop.ds.dk](https://webshop.ds.dk/da-dk/s%C3%B8gning/27-220-varmegenvinding--varmeisolering/ds-4522013){target="_blank"}
 
 *Befugtning af indblæsningsluften.*
 
@@ -94,7 +102,7 @@ Som ekstra sikkerhed ved installation af befugtere i kanal bør kondensafløb f�
 
 *Nyinstallation og renovering.*
 
-Bygningsreglementets bestemmelser om ventilation gælder ved nyinstallation i en eksisterende bygning eller ved total udskiftning af et eksisterende ventilationssystem. Der henvises til [§ 277 ](../../../../11/krav/ "274_279")og [Vejledning om installationer i eksisterende bygninger.](../../../../../vejledninger/andre_vejledninger/andre_vejledninger/vejledning-om-installationer-i-eksisterende-bygninger/ "Vejledning om installationer i eksisterende bygninger")
+Bygningsreglementets bestemmelser om ventilation gælder ved nyinstallation i en eksisterende bygning eller ved total udskiftning af et eksisterende ventilationssystem. Der henvises til [§ 277 ](../../../../11/krav/ "274_279") og [Vejledning om installationer i eksisterende bygninger.](../../../../../vejledninger/andre_vejledninger/andre_vejledninger/vejledning-om-installationer-i-eksisterende-bygninger/ "Vejledning om installationer i eksisterende bygninger")
 
 Ved ombygning og renoveringsarbejder kan der ske lempelser af bestemmelserne i [§443, stk. 2](../../../krav/443_446/ "443_446"), når ombygningsarbejdet efter kommunalbestyrelsens skøn ikke kan udføres uden omfattende ændringer i bebyggelsen. En lempelse af [§443, stk. 2](../../../krav/443_446/ "443_446") kan eksempelvis være tilvejebringelse af basisluftskiftet ved udsugning i bad og køkken suppleret med tilførsel af udeluft gennem facade, vinduer eller lignende, hvor det af byggetekniske årsager eller pladshensyn kan være vanskeligt at etablere mekanisk indblæsning. Dette medfører ikke lempelser af kravet til grundluftskiftet.
 
@@ -133,4 +141,3 @@ Ved ombygning og renoveringsarbejder kan der ske lempelser af bestemmelserne i [
 [1.10.](../kap-1_10/)
 
 ### Drift og vedligehold
-

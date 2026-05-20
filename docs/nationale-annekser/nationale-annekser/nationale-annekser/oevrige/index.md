@@ -86,7 +86,7 @@ English version: [DS/EN 1993-1-6 DK NA:2021 - Eurocode 3: Design of steel stru
 
 [DS/EN 1993-1-8+AC:2007 DK NA:2023 - Del 1-8: Samlinger](../../../../media/j4qkxio0/ds-en-1993-1-8-dk-na-2019_2024-07-01-a.pdf "DS EN 1993-1-8 DK NA 2023_2024-07-01"){rel="noopener" target="_blank"} (nyt vindue)
 
-English version: [](../../../../media/j4qkxio0/ds-en-1993-1-8-dk-na-2019_2024-07-01-a.pdf "DS EN 1993-1-8 DK NA 2019_2024-07-01")-
+English version: [DS EN 1993-1-8 DK NA 2019_2024-07-01](../../../../media/j4qkxio0/ds-en-1993-1-8-dk-na-2019_2024-07-01-a.pdf "DS EN 1993-1-8 DK NA 2019_2024-07-01"){rel="noopener" target="_blank"} (nyt vindue)
 
 [EN 1993-1-9+AC:2007 DK NA:2007 - Del 1-9: Udmattelse](../../../../media/zbdpcu2n/ds-en-1993-1-9-dk-na-2007_2024-07-01-a.pdf "DS EN 1993-1-9 DK NA 2007_2024-07-01"){rel="noopener" target="_blank"} (nyt vindue)
 
@@ -118,11 +118,11 @@ English version: [DS/EN 1994-1-2 DK NA:2011 - Part 1-2: Structural fire design
 
 [DS/EN 1995-1-1+AC:2007 DK NA:2024 - Del 1-1: Generelt - Almindelige regler samt regler for bygningskonstruktioner](../../../../media/bntpjiqk/ds-en-1995-1-1-dk-na-2024_01-07-2024-a.pdf "DS EN 1995-1-1 DK NA 2024_01-07-2024"){rel="noopener" target="_blank"} (nyt vindue)
 
-English version: [](../../../../media/yvjl2ejo/ds-en-1995-1-1-dk-na-2019-english_2024-07-01-a.pdf "DS EN 1995-1-1 DK NA 2019 English_2024-07-01")-
+English version: [DS EN 1995-1-1 DK NA 2019 English_2024-07-01](../../../../media/yvjl2ejo/ds-en-1995-1-1-dk-na-2019-english_2024-07-01-a.pdf "DS EN 1995-1-1 DK NA 2019 English_2024-07-01"){rel="noopener" target="_blank"} (nyt vindue)
 
 [EN 1995-1-2+AC:2007 DK NA: 2026 - Del 1-2: Generelt - Brandteknisk dimensionering](../../../../media/iuyp3kud/ds_en-1995-1-2-dk-na_2026.pdf "DS EN 1995 1 2 DK NA 2026"){rel="noopener" target="_blank"} (nyt vindue)
 
-English version: [](../../../../media/kvwh4z5k/ds-en-1995-1-2-dk-na-2007-english_2024-07-01-a.pdf "DS EN 1995-1-2 DK NA 2007 English_2024-07-01")-
+English version: [DS EN 1995-1-2 DK NA 2007 English_2024-07-01](../../../../media/kvwh4z5k/ds-en-1995-1-2-dk-na-2007-english_2024-07-01-a.pdf "DS EN 1995-1-2 DK NA 2007 English_2024-07-01"){rel="noopener" target="_blank"} (nyt vindue)
 
 ## Eurocode 6 - Murværkskonstruktioner (EN 1996)
 
@@ -209,4 +209,3 @@ Her finder du link til de nationale annekser (DK NA) for brokonstruktioner, udar
 Her finder du link til tekniske krav, normer og regler, udarbejdet af Banedanmark.
 
 [https://www.bane.dk/Leverandoer/Krav/Tekniske-normer-og-regler](https://www.bane.dk/Leverandoer/Krav/Tekniske-normer-og-regler){rel="noopener" target="_blank"} (nyt vindue)
-

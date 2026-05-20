@@ -9,81 +9,21 @@ title: Konstruktioner (§ 340 - § 357)
 
 ## Se alle bestemmelser om Konstruktioner (§ 340 - § 357)
 
-- [§ 340 -
-
-### § 343 {#paragraf-343}
-
-Konstruktioner](./#s340-343)
-- [
-
-### § 344 {#paragraf-344}
-
-Projektering og udførelse](./#s344)
-- [
-
-### § 345 {#paragraf-345}
-
-Særligt for betonkonstruktioner](./#s345)
-- [
-
-### § 346 {#paragraf-346}
-
-Særligt for stålkonstruktioner](./#s346)
-- [
-
-### § 347 {#paragraf-347}
-
-Særligt for kompositkonstruktioner](./#s347)
-- [
-
-### § 348 {#paragraf-348}
-
-Særligt for trækonstruktioner](./#s348)
-- [
-
-### § 349 {#paragraf-349}
-
-Særligt for murværkskonstruktioner](./#s349)
-- [
-
-### § 350 {#paragraf-350}
-
-Særligt for geotekniske konstruktioner](./#s350)
-- [
-
-### § 351 {#paragraf-351}
-
-Særligt for aluminiumkonstruktioner](./#s351)
-- [
-
-### § 352 {#paragraf-352}
-
-Øvrige materialer og konstruktioner](./#s352)
-- [
-
-### § 353 {#paragraf-353}
-
-Telte og lignende transportable konstruktioner](./#s353)
-- [
-
-### § 354 {#paragraf-354}
-
-Stationære opbevaringssystemer](./#s354)
-- [
-
-### § 355 {#paragraf-355}
-
-Tilskuertribuner](./#s355)
-- [
-
-### § 356 {#paragraf-356}
-
-Undtagelser](./#s356)
-- [
-
-### § 357 {#paragraf-357}
-
-Drift, kontrol og vedligehold](./#s357)
+- [§ 340 - § 343 Konstruktioner](./#s340-343)
+- [§ 344 Projektering og udførelse](./#s344)
+- [§ 345 Særligt for betonkonstruktioner](./#s345)
+- [§ 346 Særligt for stålkonstruktioner](./#s346)
+- [§ 347 Særligt for kompositkonstruktioner](./#s347)
+- [§ 348 Særligt for trækonstruktioner](./#s348)
+- [§ 349 Særligt for murværkskonstruktioner](./#s349)
+- [§ 350 Særligt for geotekniske konstruktioner](./#s350)
+- [§ 351 Særligt for aluminiumkonstruktioner](./#s351)
+- [§ 352 Øvrige materialer og konstruktioner](./#s352)
+- [§ 353 Telte og lignende transportable konstruktioner](./#s353)
+- [§ 354 Stationære opbevaringssystemer](./#s354)
+- [§ 355 Tilskuertribuner](./#s355)
+- [§ 356 Undtagelser](./#s356)
+- [§ 357 Drift, kontrol og vedligehold](./#s357)
 
 ## § 340 - § 343 Konstruktioner {#s340-343}
 
@@ -230,25 +170,25 @@ Ved anvendelse af materialer og konstruktioner, der ikke er omfattet af bestemme
 
 ### § 353 {#p353 #paragraf-353}
 
-Telte og lignende transportable konstruktioner skal dimensioneres i overensstemmelse med DS/EN 13782, Midlertidige konstruktioner -- Telte -- Sikkerhed med DS/EN 13782 DK NA, eller på en måde, som sikrer, at de relevante bestemmelser i [§§ 344-351 e](/tekniske-bestemmelser/15/krav/344/)r opfyldt.
+Telte og lignende transportable konstruktioner skal dimensioneres i overensstemmelse med DS/EN 13782, Midlertidige konstruktioner -- Telte -- Sikkerhed med DS/EN 13782 DK NA, eller på en måde, som sikrer, at de relevante bestemmelser i [§§ 344-351](/tekniske-bestemmelser/15/krav/344/) er opfyldt.
 
 ## § 354 Stationære opbevaringssystemer {#s354}
 
 ### § 354 {#p354 #paragraf-354}
 
-Stationære opbevaringssystemer skal dimensioneres i overensstemmelse med DS/EN 15512 Stationære opbevaringssystemer af stål - Justerbare pallereolsystemer - Principper for dimensionering med DS/EN 15512 DK NA, eller på en måde, som sikrer, at de relevante bestemmelser i [§§ 344-351 e](/tekniske-bestemmelser/15/krav/344/)r opfyldt.
+Stationære opbevaringssystemer skal dimensioneres i overensstemmelse med DS/EN 15512 Stationære opbevaringssystemer af stål - Justerbare pallereolsystemer - Principper for dimensionering med DS/EN 15512 DK NA, eller på en måde, som sikrer, at de relevante bestemmelser i [§§ 344-351](/tekniske-bestemmelser/15/krav/344/) er opfyldt.
 
 ## § 355 Tilskuertribuner {#s355}
 
 ### § 355 {#p355 #paragraf-355}
 
-Teleskopstande og demonterbare tilskuertribuner skal dimensioneres i overensstemmelse med henholdsvis DS/EN 13200-5 og DS/EN 13200-6 med DS/EN 13200-5 DK NA og DS/EN 13200-6 DK NA, eller på en måde, som sikrer, at de relevante bestemmelser i [§§ 344-351 e](/tekniske-bestemmelser/15/krav/344/)r opfyldt.
+Teleskopstande og demonterbare tilskuertribuner skal dimensioneres i overensstemmelse med henholdsvis DS/EN 13200-5 og DS/EN 13200-6 med DS/EN 13200-5 DK NA og DS/EN 13200-6 DK NA, eller på en måde, som sikrer, at de relevante bestemmelser i [§§ 344-351](/tekniske-bestemmelser/15/krav/344/) er opfyldt.
 
 ## § 356 Undtagelser {#s356}
 
 ### § 356 {#p356 #paragraf-356}
 
-[§ 344, stk. 2](/tekniske-bestemmelser/15/krav/344/), til § 351 samt [§§ 353-355 k](/tekniske-bestemmelser/15/krav/353/)an fraviges, hvis det på anden vis sikres og dokumenteres, at en afvigelse er forsvarlig, og der opnås et sikkerhedsniveau, som beskrevet i [§ 344, stk. 2, nr. 1](/tekniske-bestemmelser/15/krav/344/).
+[§ 344, stk. 2](/tekniske-bestemmelser/15/krav/344/), til § 351 samt [§§ 353-355](/tekniske-bestemmelser/15/krav/353/) kan fraviges, hvis det på anden vis sikres og dokumenteres, at en afvigelse er forsvarlig, og der opnås et sikkerhedsniveau, som beskrevet i [§ 344, stk. 2, nr. 1](/tekniske-bestemmelser/15/krav/344/).
 
 ## § 357 Drift, kontrol og vedligehold {#s357}
 

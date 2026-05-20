@@ -71,18 +71,9 @@ Tabel 5.1 indeholder forslag projekteringsværdier for luftlydisolation og trinl
 | **Noter **                                                                                                                                                       |                                          |
 |                                                                                                                                                                  |                                          |
 | 1\) Der kan til rum med ekstra store krav til fortrolighed være behov for en bedre lydisolation.\                                                                |                                          |
-| \                                                                                                                                                                |                                          |
-|
-
-2) Der opstilles i det konkrete projekt lydkrav, der sikrer tilfredsstillende lydforhold for rumanvendelsen.\                                                    |                                          |
-| \                                                                                                                                                                |                                          |
-|
-
-3) I tilfælde af særligt generende støj i egen eller andres virksomhed opstilles relevante lydkrav, der sikrer tilfredsstillende lydforhold for rumanvendelsen.\ |                                          |
-| \                                                                                                                                                                |                                          |
-|
-
-4) Fra alle omgivende gulve, dæk og trapper.**\**                                                                                                                |                                          |
+| 2) Der opstilles i det konkrete projekt lydkrav, der sikrer tilfredsstillende lydforhold for rumanvendelsen.\                                                    |                                          |
+| 3) I tilfælde af særligt generende støj i egen eller andres virksomhed opstilles relevante lydkrav, der sikrer tilfredsstillende lydforhold for rumanvendelsen.\ |                                          |
+| 4) Fra alle omgivende gulve, dæk og trapper.**\**                                                                                                                |                                          |
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------+
 
 [5.2](../stoej-indendoers-fra-trafik-i-kontorbyggeri/)
@@ -96,4 +87,3 @@ Tabel 5.1 indeholder forslag projekteringsværdier for luftlydisolation og trinl
 [5.4](../rumakustik-i-kontorbyggeri/)
 
 ### Rumakustik
-

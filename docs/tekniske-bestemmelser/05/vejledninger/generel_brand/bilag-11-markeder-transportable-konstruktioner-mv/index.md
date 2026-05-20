@@ -70,9 +70,6 @@ Version 2.0 med ændringsmarkeringer (02.09.2024)
 
 ## Øvrige
 
-Bilag 11d: Vejledning for belægningsplaner ved midlertidige overnatning (Ophævet, se bilag 11b)
+[Bilag 11d: Vejledning for belægningsplaner ved midlertidige overnatning](../../../../../media/mjalaynp/211219-bilag-11d-vejledning-for-belaegningsplaner-ved-midlertidige-overnatning-a.pdf "211219 Bilag 11d Vejledning for belægningsplaner ved midlertidige overnatning") (Ophævet, se bilag 11b)
 
-Bilag 11e: Vejledning om transportable konstruktioner (Ophævet) [
-
-](../../../../../media/mjalaynp/211219-bilag-11d-vejledning-for-belaegningsplaner-ved-midlertidige-overnatning-a.pdf "211219 Bilag 11d Vejledning for belægningsplaner ved midlertidige overnatning")
-
+Bilag 11e: Vejledning om transportable konstruktioner (Ophævet)

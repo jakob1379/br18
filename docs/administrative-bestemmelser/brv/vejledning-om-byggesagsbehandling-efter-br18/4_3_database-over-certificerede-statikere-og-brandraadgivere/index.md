@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -158,7 +154,9 @@ Det er certificeringsorganet, der har certificeret den enkelte rådgiver, der er
 
 Kommunalbestyrelsen kan anvende databasen til at undersøge gyldigheden af det certifikat, som den certificerede rådgiver har sendt ind i forbindelse med ansøgning om byggetilladelse.
 
-[Find databasen på www.tbst.certificering.dk.](https://certificering.sbst.dk/){rel="noopener noreferrer" target="_blank"} [5.](../5_0_byggesagsbehandling-i-konstruktions_-og-brandklasse-2_4-indtil-31_december_2019/)
+[Find databasen på www.tbst.certificering.dk.](https://certificering.sbst.dk/){rel="noopener noreferrer" target="_blank"}
+
+[5.](../5_0_byggesagsbehandling-i-konstruktions_-og-brandklasse-2_4-indtil-31_december_2019/)
 
 ### Anvendelse af anerkendte statikere i konstruktionsklasse 2-4 indtil 1. januar 2022
 
@@ -209,4 +207,3 @@ Kommunalbestyrelsen kan anvende databasen til at undersøge gyldigheden af det c
 [10.](../10_0_klage-over-kommunalbestyrelsens-afgoerelser/)
 
 ### Klage over kommunalbestyrelsens afgørelser
-

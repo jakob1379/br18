@@ -122,9 +122,7 @@ Bemærk, engelske udgaver af europæiske standarder kan købes hos [alle europ�
 
 [![](../../../../assets/img/linkbox/ds_en_iso_linkbox.svg)](# "#title")
 
-####
-
-DS/EN ISO 12631:2017 - Termisk ydeevne for curtainwalling -- Beregning af varmetransmissionskoefficient
+#### DS/EN ISO 12631:2017 - Termisk ydeevne for curtainwalling -- Beregning af varmetransmissionskoefficient
 
 #### Beskrivelse
 
@@ -136,9 +134,7 @@ Bemærk, engelske udgaver af europæiske standarder kan købes hos [alle europ�
 
 [![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
 
-####
-
-DS/EN 13830:2003 - Curtain walling - Produktstandard
+#### DS/EN 13830:2003 - Curtain walling - Produktstandard
 
 #### Beskrivelse
 
@@ -215,4 +211,3 @@ Informationsbladet opstiller i tabelform de anvendte termer i Danmark, Finland, 
 ### Eksempler på energibehov {#3058d94d-a8e8-4740-8b79-8e25740686c7}
 
 ### Krav til bygningsautomatikken {#3a095cce-b7d0-4e11-837e-7194d984e382}
-

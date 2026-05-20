@@ -153,7 +153,9 @@ Ventilationsanlæg, hvor elforbruget til ventilatorer overstiger 3.000 kWh pr. �
 
 § 439 gælder ikke, hvis et eksisterende ventilationsanlæg udvides til at dække andre lokaler i bygningen.
 
-§ 441 I ventilationsanlæg, hvor varmeforbruget til varmeflader overstiger 10.000 kWh pr. år, skal varmeforbruget måles. Elforbruget i elvarmeflader, hvor det samlede forbrug overstiger 3.000 kWh pr. år, skal måles. Bestemmelserne gælder ved nybyggeri og ved nyinstallation i eksisterende byggeri. § 442 Målere, der anvendes til måling af elforbrug eller varme i henhold til §§ 438, 439 og 441, skal have en tilfredsstillende nøjagtighed. [![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
+§ 441 I ventilationsanlæg, hvor varmeforbruget til varmeflader overstiger 10.000 kWh pr. år, skal varmeforbruget måles. Elforbruget i elvarmeflader, hvor det samlede forbrug overstiger 3.000 kWh pr. år, skal måles. Bestemmelserne gælder ved nybyggeri og ved nyinstallation i eksisterende byggeri. § 442 Målere, der anvendes til måling af elforbrug eller varme i henhold til §§ 438, 439 og 441, skal have en tilfredsstillende nøjagtighed.
+
+[![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
 
 ### DS/EN 14511-1
 
@@ -250,4 +252,3 @@ Ventilation i bygninger - Mekaniske, naturlige og hybride ventilationssystemer
 Denne standard specificerer krav til ventilation og ventilationssystemer i bygninger, herunder boliger, beregnet til menneskeligt ophold.
 
 ### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/standard/M337327/ds-447-2021 "DS 447"){target="_blank"}
-

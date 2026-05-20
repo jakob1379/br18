@@ -23,8 +23,6 @@ Det er derfor vigtigt, at vælge robuste løsninger, dvs. enten løsninger der f
 
 Typer af fugtpåvirkninger
 
--{target="_blank"}
-
 ### Fugt {#15eef60e-136b-4f8a-88ab-46705ab5ca21}
 
 1.1.
@@ -71,15 +69,11 @@ Af hensyn til grundvandsressourcerne og rensningsanlægs funktion kan overfladev
 
 [![](../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
 
-#### Miljøministeriets bekendtgørelse om
-
-Spildevandstilladelser
+#### Miljøministeriets bekendtgørelse om Spildevandstilladelser
 
 #### Anvendelsesområde
 
-#### Se bekendtgørelsen her [Spildevandsbekendtgørelsen](https://www.retsinformation.dk/eli/lta/2024/532 "Miljøministeriets bekendtgørelse om "){target="_blank"}
-
--{target="_blank"}
+#### Se bekendtgørelsen her [Spildevandsbekendtgørelsen](https://www.retsinformation.dk/eli/lta/2024/532 "Miljøministeriets bekendtgørelse om Spildevandstilladelser"){target="_blank"}
 
 ### Vådrum {#15eef60e-136b-4f8a-88ab-46705ab5ca21}
 
@@ -117,7 +111,6 @@ SBi-anvisning 252 giver vejledning i planlægning, projektering og korrekt udfø
 
 Vådrum hører til de mest kritiske rum i en bygning, både på grund af den direkte vandpåvirkning og den høje relative luftfugtighed, der ofte forekommer i længere perioder. Anvisningen beskriver, hvordan gulve, vægge og installationer kan udføres, så bygningsreglementets krav er overholdt, og så der opnås størst mulig sikkerhed mod skader fra vand og fugt.
 
-#### Se anvisningen her [](https://sbi.dk/anvisninger/Pages/252-Vaadrum-1.aspx "SBi Anvisning 252"){target="_blank"}
+#### Se anvisningen her [SBi Anvisning 252](https://sbi.dk/anvisninger/Pages/252-Vaadrum-1.aspx "SBi Anvisning 252"){target="_blank"}
 
 -  [Gå til krav om Vådrum](../../krav/339#eb0ba6a3-9056-4315-aba8-417e17607290){target="_blank"}
-

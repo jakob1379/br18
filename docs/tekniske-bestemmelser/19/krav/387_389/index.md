@@ -32,7 +32,7 @@ Varme- og køleanlæg skal projekteres og udføres, så der opnås tilstrækkeli
 
 ### § 388 {#paragraf-388}
 
-Brugsvandsanlæg skal dimensioneres og udføres, så risikoen for vækst af legionellabakterier i det varme vand minimeres. Dimensionering og udførelse skal ske som anvist i DS 469 Varme- og køleanlæg i bygninger og i overensstemmelse med kapitel 21*.*
+Brugsvandsanlæg skal dimensioneres og udføres, så risikoen for vækst af legionellabakterier i det varme vand minimeres. Dimensionering og udførelse skal ske som anvist i DS 469 Varme- og køleanlæg i bygninger og i overensstemmelse med kapitel 21.
 
 ### § 389 {#paragraf-389}
 
@@ -66,4 +66,3 @@ Der skal gennemføres en funktionsafprøvning af varme- og køleanlæg før ibru
 Drift og vedligehold af installationer til varme- og køleanlæg skal ske, så de til enhver tid overholder bestemmelserne i §§ 385- 390.
 
 *Stk. 2.* Der skal foreligge en drifts- og vedligeholdelsesmanual inden ibrugtagning. Manualen skal indeholde tegninger med oplysning om placering af installationer, der skal vedligeholdes, samt hvordan og hvor ofte vedligeholdelsen skal ske.
-

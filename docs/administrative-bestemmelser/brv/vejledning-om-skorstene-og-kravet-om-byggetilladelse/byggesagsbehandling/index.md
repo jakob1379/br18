@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -38,7 +34,7 @@
 
 Ansøgning om byggetilladelse skal ske efter BR18 [§ 10](/administrative-bestemmelser/krav/7_15/). Det følger heraf, hvilken dokumentation der skal indsendes ved ansøgning om byggetilladelse. Der skal bl.a. indsendes oplysninger til identifikation af det arbejde, der udføres, erklæring om, hvilke tekniske forhold i bygningsreglementet byggearbejdet er omfattet af, og oplysning om og dokumentation for indplacering i konstruktions- og brandklasser.
 
-Indplacering i brand- og konstruktionsklasser skal ske efter henholdsvis [§§ 485-489 f](/ovrige-bestemmelser/26/krav/485_489/)or konstruktionsklasser og [§§ 490-493 f](/ovrige-bestemmelser/27/krav/)or brandklasser.
+Indplacering i brand- og konstruktionsklasser skal ske efter henholdsvis [§§ 485-489](/ovrige-bestemmelser/26/krav/485_489/) for konstruktionsklasser og [§§ 490-493](/ovrige-bestemmelser/27/krav/) for brandklasser.
 
 Kommunalbestyrelsen er bygningsmyndighed og behandler den dokumentation, der indsendes efter [§ 10](/administrative-bestemmelser/krav/7_15/). Derudover kan ansøger indtil 31. december 2019 vælge, om der tilknyttes en certificeret statiker og brandrådgiver til at udarbejde dokumentation for henholdsvis konstruktions- og brandforhold, eller om der ønskes teknisk byggesagsbehandling af konstruktions- og brandforhold af kommunalbestyrelsen.
 
@@ -53,4 +49,3 @@ Kommunalbestyrelsen foretager efter BR18 ikke teknisk byggesagsbehandling af and
 ### Genibrugtagning
 
 ### Kommunen som påtalepligtig
-

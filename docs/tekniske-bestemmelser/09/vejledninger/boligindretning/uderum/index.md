@@ -50,9 +50,7 @@ Terrasser, gårdhaver og haver bør placeres, så der tages hensyn til grundens 
 
 En altan udgør et markant arkitektonisk element og kan udformes enten som udenpåliggende, delvist indeliggende eller indeliggende element. Altaner, især den udenpåliggende altan, er et markant træk ved facaden og kan være udfordrende at integrere i en facadekomposition.
 
-Især den udenpåliggende altan kan skygge for den underliggende bolig og reducere lysniveauet, primært i området tættest på vinduet. Hvis der yderligere er en genbobygning, der skygger, kan boligen risikere ikke at have tilgang af direkte sollys eller himmellys, hvorved lysniveauet i boligen sænkes (se kap. 2.6 Dagslysforhold, ill.
-
-09).
+Især den udenpåliggende altan kan skygge for den underliggende bolig og reducere lysniveauet, primært i området tættest på vinduet. Hvis der yderligere er en genbobygning, der skygger, kan boligen risikere ikke at have tilgang af direkte sollys eller himmellys, hvorved lysniveauet i boligen sænkes (se kap. 2.6 Dagslysforhold, ill. 09).
 
 Udformes den delvist indeliggende eller indeliggende altan med vinduer i flere sider (altan-karnap-princippet), vil det give mulighed for at trække lys fra flere verdenshjørner ind og skabe varieret lys i rummene bag altanen.
 
@@ -64,9 +62,7 @@ En tagterrasse kan være et fælles eller et privat uderum, som er integreret i 
 
 ![](../../../../media/tg1gb1cr/illustration-10-br-vejledning-om-boligindretning.png)
 
-Illustration 10: Altaner. Alt efter om altanen er udeliggende (a), delvist indeliggende (b) eller indeliggende (c), skygger den mere eller mindre for rum under altanen. Diagrammet er en forenklet illustration af, hvordan en altan kan skabe skygge i rummene under sig og dermed påvirke rummets lysniveau. Diagrammet illustrerer situationen for en bolig, hvor der også er en genbobygning, der skygger (se kap. 2.6 Dagslysforhold, ill.
-
-09). Samspillet mellem dagslyset, vinduet og skyggende elementer er komplekst og har indflydelse på lysniveauet i rummet og bør tilrettelægges med omhu.
+Illustration 10: Altaner. Alt efter om altanen er udeliggende (a), delvist indeliggende (b) eller indeliggende (c), skygger den mere eller mindre for rum under altanen. Diagrammet er en forenklet illustration af, hvordan en altan kan skabe skygge i rummene under sig og dermed påvirke rummets lysniveau. Diagrammet illustrerer situationen for en bolig, hvor der også er en genbobygning, der skygger (se kap. 2.6 Dagslysforhold, ill. 09). Samspillet mellem dagslyset, vinduet og skyggende elementer er komplekst og har indflydelse på lysniveauet i rummet og bør tilrettelægges med omhu.
 
 ### Boligens aktiviteter {#29b603f5-2588-4abb-a33b-7f51ad402e5d}
 
@@ -85,4 +81,3 @@ Illustration 10: Altaner. Alt efter om altanen er udeliggende (a), delvist indel
 ### At bade {#9d95ee42-38e2-41d4-ae53-1d23da54a544}
 
 ### Appendix: Litteratur
-

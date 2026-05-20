@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -75,4 +71,3 @@ Det er Trafik-, Bygge- og Boligstyrelsens vurdering, at den certificeredes ansva
 [?](../primitive-bygninger/)
 
 ### Spørgsmål og svar om primitive bygninger (09-01-2024)
-

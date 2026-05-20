@@ -42,7 +42,7 @@
 
 Formålet med afprøvningen er at eftervise, at de effektive åbningsarealer og øvrige vigtige geometriske forhold er som forudsat i beregningen af energibehov og i projekteringen.
 
-*Definition af naturlig ventilation\*
+*Definition af naturlig ventilation*
 
 Ventilation ved udnyttelse af naturlige drivkræfter.
 
@@ -60,11 +60,9 @@ For at kunne udføre funktionsafprøvningen skal følgende normalt være opfyldt
 
 • Bygningens varme- og køleanlæg er indreguleret og i drift jf. DS 469 stk. 14.7 og stk. 16.1.
 
-• Under måleperioden holdes vinduer og døre, og andre åbninger til det fri, der ikke indgår i ventilationssystemet, lukkede for at opnå stabile måleforho*ld.\*
+• Under måleperioden holdes vinduer og døre, og andre åbninger til det fri, der ikke indgår i ventilationssystemet, lukkede for at opnå stabile måleforhold.
 
-*
-
-Målepunkter*
+*Målepunkter*
 
 Ved funktionsafprøvning af bygninger med et naturligt ventilationssystem bør det kontrolleres, at:
 
@@ -143,4 +141,3 @@ I enfamiliehuse med naturlig ventilation er kravet opfyldt, hvis åbningsarealer
 ### Acceptkriterium {#8c276468-27da-40b5-9cd3-21d0faf66b5c}
 
 ### Dokumentation {#bfd6298a-b31e-4a25-99f5-295e4738889d}
-

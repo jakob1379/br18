@@ -39,9 +39,7 @@ Det skal løbende kontrolleres at brandslukningsmateriel er tilgængeligt, synli
 
 Håndildslukkere bør være placeret på identificerede steder og være af en type, som er egnet til slukning af de potentielle brande, der kan opstå i det pågældende område. Her henledes opmærksomheden på klassificeringen af slukkerne (A, B, C, D, E og F), som angiver hvad den egnet til bekæmpelse af brand i, se Tabel 1.
 
-Håndildslukkere skal være udført i overensstemmelse med gældende regler (DS/EN
-
-3).
+Håndildslukkere skal være udført i overensstemmelse med gældende regler (DS/EN 3).
 
 *Tabel 1 - klassificering af slukkere*
 
@@ -98,4 +96,3 @@ Brandtæpper anbringes på steder, hvor der er risiko for brand i personer/bekl�
 ### Vejoverkørsler {#2f03a7c3-82a4-4cb1-8ace-f925776838cb}
 
 ### Hensyn til klimatiske forhold {#21b7bb99-b8b3-43c2-87ca-4d251b1b1419}
-

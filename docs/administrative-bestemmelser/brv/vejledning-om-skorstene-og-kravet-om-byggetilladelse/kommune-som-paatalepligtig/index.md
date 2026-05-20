@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -45,4 +41,3 @@
 Uanset om et byggearbejde kræver byggetilladelse eller ej, skal byggearbejdet opfylde de til enhver tid gældende regler i byggelovgivningen, herunder reglerne i bygningsreglementet. Dette betyder, at opførelsen af et aftrækssystem altid skal leve op til de krav, der findes i BR18, herunder [kapitel 5](/tekniske-bestemmelser/05/), 12 og 15.
 
 [Byggelovens § 16C, stk. 3](https://www.retsinformation.dk/eli/lta/2016/1178), bestemmer, at kommunalbestyrelsen, såfremt den bliver opmærksom på et ulovligt forhold, skal søge forholdet lovliggjort. Såfremt kommunen bliver opmærksom på, at et aftrækssystem ikke lever op til kravene herfor, kan kommunalbestyrelsen således kræve, at ejeren lovliggør aftrækssystemet.
-

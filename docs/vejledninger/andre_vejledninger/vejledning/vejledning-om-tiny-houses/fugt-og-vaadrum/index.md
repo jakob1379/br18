@@ -124,9 +124,7 @@ Krav om evt. lydisolering mod trafikstøj vil normalt kunne afklares ved at opsl
 
 Bygningsreglementet kræver, at beboelsesrum og køkken skal have en sådan tilgang af dagslys, at rummene er tilstrækkeligt belyste. Projektering og udførelse skal ske under hensyn til, at dagslyset udnyttes bedst muligt som lyskilde, unødigt energiforbrug undgås, unødig varmetilførsel til rummene undgås, gener ved direkte solstråling undgås og at gener ved blænding minimeres.
 
-Kravet kan eftervises ved en dagslysberegning eller ved brug af 10%-reglen, der siger at glasarealet (uden poster og sprosser) skal være mindst 10 pct. af det indvendige gulvareal (jf. § 379 stk.
-
-2). Glasarealet skal dog evt. korrigeres for en række skyggende forhold, der reducerer dagslystilgangen.
+Kravet kan eftervises ved en dagslysberegning eller ved brug af 10%-reglen, der siger at glasarealet (uden poster og sprosser) skal være mindst 10 pct. af det indvendige gulvareal (jf. § 379 stk. 2). Glasarealet skal dog evt. korrigeres for en række skyggende forhold, der reducerer dagslystilgangen.
 
 **Efterlevelse af krav**
 
@@ -181,4 +179,3 @@ I bade- og wc-rum i boliger skal der kunne udsuges mindst 15 l/s. I wc-rum uden 
 Et Tiny House vil opfylde ventilationskravet, hvis det opføres med mindst to udeluftventiler med et åbningsareal på mindst 60 cm² (Ø100) pr. stk. placeret i beboelsesrummenes ydervægge og mindst to afkastkanaler placeret i loftet med et åbningsareal på mindst 200 cm² (Ø160) pr. stk. fordelt med én i bade- og wc-rum og én placeret over kogepladerne. Alternativt kan afkastkanalerne forsynes med ventilatorer, der kan yde den krævede luftmængde. Bade og wc-rum samt køkken skal desuden have oplukkeligt vindue, lem eller yderdør, hvis det er placeret mod en ydervæg og have et åbningsareal mod adgangsrummet på mindst 100 cm². Se bygningsreglementets [vejledning](../../../../../Tekniske-bestemmelser/22/Vejledninger/Version-2-Generel_vejledning/Kap-1_6#40c16342-0c30-44bf-8d3a-7ba5333cb471).
 
  Kravet om emhætte han opfyldes ved en ventilator, der kan yde en luftmængde på mindst 120 l/s og et skørt der sikrer god emfangsevne umiddelbart over kogepladerne.
-

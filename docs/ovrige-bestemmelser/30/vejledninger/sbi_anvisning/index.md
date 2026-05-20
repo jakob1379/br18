@@ -2,7 +2,7 @@
 
 ## Se alle vejledninger om Kontrol af dokumentation for og udførelse af bærende konstruktioner og brandforhold (§ 523 - § 528)
 
-- [](../faq)
+- [FAQ](../faq)
 - [Vejledning til kapitel 30 - Kontrol af dokumentation for og udførelse af bærende konstruktioner](../vejledning-til-kap-30-baerende-konstruktioner)
 - [Vejledning til kapitel 30 - Kontrol af dokumentation af brandforhold](../vejledning-til-kap-30-brand)
 - [SBi-anvisninger](./)
@@ -24,5 +24,4 @@ Denne anvisning knytter sig til Bygningsreglement 2018 (BR18) og omhandler dokum
 
 Anvisningen bygger på SBi-anvisning 223, Dokumentation af bærende konstruktioner, men er udvidet og revideret for blandt andet: Bygningsreglement 2018 og dettes krav til dokumentation og kontrol, Anneks B5 til Eurocode 0 om kontrol af udførelse, Anneks E til Eurocode 0 om robusthed, Digital rapportering af kontrol og Bekendtgørelse om certificering af statikere.
 
-#### Gå til anvisningen [](https://sbi.dk/anvisninger/Pages/271-Dokumentation-af-baerende-konstruktioner-3.aspx "SBi Anvisning 271"){target="_blank"}
-
+#### [Gå til anvisningen](https://sbi.dk/anvisninger/Pages/271-Dokumentation-af-baerende-konstruktioner-3.aspx "SBi Anvisning 271"){target="_blank"}

@@ -1,6 +1,4 @@
-# Adgangsforhold (§ 48 - §
-
-62)
+# Adgangsforhold (§ 48 - § 62)
 
 [Krav](./){ .md-button .md-button--primary }
 [Vejledning](brv/){ .md-button }

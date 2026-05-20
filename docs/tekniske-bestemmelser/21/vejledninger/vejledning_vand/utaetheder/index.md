@@ -44,11 +44,7 @@ Vandinstallationer omfatter installationer i bygninger og i jord inden for grund
 
 [![](../../../../../assets/img/linkbox/roer_anv_linkbox.svg)](# "#title")
 
-####
-
-Rørcenteranvisning 027
-
-####
+#### Rørcenteranvisning 027
 
 #### [027](https://www.teknologisk.dk/ydelser/roercenter-anvisninger-og-rapporter-fra-roercentret/486){target="_blank"}
 
@@ -202,8 +198,6 @@ Sikring mod forurening af drikkevand i vandinstallationer samt generelle krav ti
 
 Rørcenter-anvisning 015
 
-####
-
 #### [Anvisning 015](https://www.teknologisk.dk/ydelser/roercenter-anvisninger-og-rapporter-fra-roercentret/486 "015"){target="_blank"}
 
 [![](../../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
@@ -247,4 +241,3 @@ Under hensyntagen til, at eventuelle arbejder skal kunne foretages på en sikker
 Betjeningsmåde og begrænsninger i anvendelse for installationsdele skal fremgå af forståelig afmærkning.
 
 Der skal udarbejdes en drifts- og vedligeholdelsesvejledning, som skal foreligge ved ibrugtagning. Vejledningen skal bl.a. indeholde et sæt hovedtegninger med kontrol og målepunkter anført.
-

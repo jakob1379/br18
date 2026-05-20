@@ -435,7 +435,9 @@ Denne standard er beregnet til in situ måling af bygningers eller bygningsdeles
 
 #### Standarden findes i Dansk Standards Webshop.ds.dk her @@PROTECTED_54@@
 
-Bemærk, at de engelske versioner af de europæiske standarder kan købes hos alle europæiske standardiseringsorganisationer. [1.11.](../)
+Bemærk, at de engelske versioner af de europæiske standarder kan købes hos alle europæiske standardiseringsorganisationer.
+
+[1.11.](../)
 
 ### Bestemmelse af det dimensionerede transmissionstab
 
@@ -541,7 +543,7 @@ SBi-Anvisning 213 Bygningers energibehov
 
 Denne anvisning beskriver metoden til beregning af bygningers energibehov i henhold til bygningsreglementets energiramme.
 
-#### http://www.anvisninger.dk [](){target="_blank"}
+#### [http://www.anvisninger.dk](http://www.anvisninger.dk){target="_blank"}
 
 [4.0.](../)
 
@@ -629,7 +631,7 @@ Kravet til U-værdi for lystunneler eller lignende gælder for gennembrydningen 
 
 ### Fredede og bevaringsværdige bygninger
 
-Som udgangspunkt kræver alle bygningsarbejder vedrørende en fredet bygning tilladelse fra Slots- og Kulturstyrelsen, hvis arbejderne går ud over almindelig vedligeholdelse. Vurderingen af, om energimæssige tiltag efter [§§274-282 e](/tekniske-bestemmelser/11/krav/)r i strid med den fredede bygnings arkitektoniske eller kulturhistoriske værdier, foretages af Slots- og Kulturstyrelsen, mens det for bevaringsværdige bygninger er kommunen, der foretager vurderingen.
+Som udgangspunkt kræver alle bygningsarbejder vedrørende en fredet bygning tilladelse fra Slots- og Kulturstyrelsen, hvis arbejderne går ud over almindelig vedligeholdelse. Vurderingen af, om energimæssige tiltag efter [§§274-282](/tekniske-bestemmelser/11/krav/) er i strid med den fredede bygnings arkitektoniske eller kulturhistoriske værdier, foretages af Slots- og Kulturstyrelsen, mens det for bevaringsværdige bygninger er kommunen, der foretager vurderingen.
 
 [Planloven](https://www.retsinformation.dk/eli/lta/2024/572) muliggør alene planlægning for bevaring af en bebyggelses ydre fremtræden. Undtagelsen for bevaringsværdige bygninger gælder for byggearbejder, der vil have en visuel indflydelse på de dele af en bygnings ydre, der er omfattet af den beskyttende planlægning eller udpegning.
 
@@ -637,7 +639,7 @@ Energimæssige tiltag bør udføres uden, at det forringer den pågældende beva
 
 Det fremgår af [§274](/tekniske-bestemmelser/11/krav/), at byggetekniske forhold kan indebære, at energibesparelser ikke kan opfyldes på rentabel eller fugtteknisk forsvarlig måde. Hvis energimæssige forbedringer således alene kan ske ved indvendig efterisolering, men dette ikke kan udføres teknisk forsvarligt, eller efterisoleringen vil medføre et indeklima, der ikke lever op til de gældende regler, vil der i den konkrete situation ikke være krav om, at der foretages energimæssige forbedringer.
 
-Der kan med hjemmel i [byggelovens § 22 d](https://www.retsinformation.dk/eli/lta/2016/1178)ispenseres fra bestemmelserne i [§279](/tekniske-bestemmelser/11/krav/), hvis det skønnes foreneligt med hensynene bag bestemmelserne. Dispensation kan eksempelvis meddeles, hvis en tilsvarende energibesparelse kan opnås på anden måde. Energiguide for fredede og bevaringsværdige huse, Bygningskultur Danmark 2019, indeholder eksempler på energibesparende løsninger som ikke går på kompromis med husets historiske og kulturelle kvaliteter.
+Der kan med hjemmel i [byggelovens § 22 d](https://www.retsinformation.dk/eli/lta/2016/1178) dispenseres fra bestemmelserne i [§279](/tekniske-bestemmelser/11/krav/), hvis det skønnes foreneligt med hensynene bag bestemmelserne. Dispensation kan eksempelvis meddeles, hvis en tilsvarende energibesparelse kan opnås på anden måde. Energiguide for fredede og bevaringsværdige huse, Bygningskultur Danmark 2019, indeholder eksempler på energibesparende løsninger som ikke går på kompromis med husets historiske og kulturelle kvaliteter.
 
 I forbindelse med større renoveringsarbejder på bevaringsværdige bygninger bør potentielle energiforbedringer altid indgå i forhåndsdialogen mellem kommunen og bygningsejere og/eller dennes rådgiver. E-SAVE-Vejledning til kommunal sagsbehandling af byggesager med energitiltag i bevaringsværdige bygninger, udgivet af GATE 21, Bygherreforeningen m.fl. (2016), indeholder redskaber til denne dialog og forhandling.
 
@@ -661,7 +663,7 @@ Energiguide for fredede og bevaringsværdige huse, Bygningskultur Danmark 2019
 
 En energiguide, som i et let forståeligt sprog uden indforstået teknisk jargon klæder husejere på til at gøre deres huse mere energivenlige - uden at gå på kompromis med husets historiske og kulturelle kvaliteter.
 
-#### Se energiguiden her{target="_blank"}
+#### Se energiguiden her
 
 ####
 
@@ -891,7 +893,9 @@ Såfremt denne vejledning bliver fulgt, anses kravene i BR18, §295 for opfyldt.
 
 Hvis det dimensionerende varmebehov er større end 290 kW skal kravene i § 295 stk. 3. Det samme gælder for det dimensionerende kølebehov, hvis der er mekanisk køling i bygningen. Det dimensionerende varmebehov og det dimensionerende kølebehov opgøres hver for sig. Det er i den sammenhæng uden betydning, hvad summen af dem er.
 
-Det dimensionerende varmebehov og det dimensionerende kølebehov bestemmes som beskrevet i DS 418 *Beregning af bygningers varmetab* og DS 469 *Varme og køleanlæg i bygninger*. [9.3.](../)
+Det dimensionerende varmebehov og det dimensionerende kølebehov bestemmes som beskrevet i DS 418 *Beregning af bygningers varmetab* og DS 469 *Varme og køleanlæg i bygninger*.
+
+[9.3.](../)
 
 ### Omfang, eksisterende bygninger:
 
@@ -909,17 +913,21 @@ Ved beregning af rentabiliteten anvendes en levetid for automatikken på 15 år
 
 Hvis ikke det er rentabelt at etablere den fulde automatikløsning, som er nødvendig for at opfylde kravene i § 295 stk. 3, undersøges det, om der er en mindre omfattende automatikløsning, som kun omfatter nogle af kravene, der er rentabel. Hvis det er tilfældet, skal den så etableres. Hvis der er flere rentable automatikløsninger, etableres den, som giver den største energibesparelse.
 
-Det er bygningsejerens ansvar at kravene i [§§295-296 e](/tekniske-bestemmelser/11/krav/)r overholdt. I forbindelse med fx salg af en ejendom, vil der kunne stilles krav om at bygningsejer fremlægger dokumentation for hvorfor der i bygningen ikke er krav om etablering af bygningsautomatik. Det kunne fx være i form af en rentabilitetsberegning.
+Det er bygningsejerens ansvar at kravene i [§§295-296](/tekniske-bestemmelser/11/krav/) er overholdt. I forbindelse med fx salg af en ejendom, vil der kunne stilles krav om at bygningsejer fremlægger dokumentation for hvorfor der i bygningen ikke er krav om etablering af bygningsautomatik. Det kunne fx være i form af en rentabilitetsberegning.
 
 [9.4.](../)
 
 ### Omfang, undtagelse:
 
-Kravet gælder ikke for boliger herunder kollegier, plejehjem og døgninstitutioner med BBR anvendelseskoder 100-199.  [9.5.](../)
+Kravet gælder ikke for boliger herunder kollegier, plejehjem og døgninstitutioner med BBR anvendelseskoder 100-199.
+
+[9.5.](../)
 
 ### Eksempler på energibehov
 
-For nye bygninger med et dimensionerende varmebehov på op til 30 W/m² skal bygningen have et opvarmet etageareal over 9.600 m² for at kravet træder i kraft. For eksisterende bygninger med et dimensionerende varmebehov på op til 70 W/m² skal bygningen have et opvarmet etageareal over 4.100 m². Det er typisk bygninger med byggetilladelse før BR 82 ibrugtaget før ca. 1985. Hvis en bygning er dårligt isoleret, har mekanisk ventilation uden varmegenvinding eller stort varmtvandsforbrug kan det dimensionerende varmebehov blive større end 70 W/m² og arealgrænsen lavere. For bygninger med et dimensionerende kølebehov på op til 50 W/m² skal bygningen have et kølet etageareal over 5.800 m². [9.6.](../)
+For nye bygninger med et dimensionerende varmebehov på op til 30 W/m² skal bygningen have et opvarmet etageareal over 9.600 m² for at kravet træder i kraft. For eksisterende bygninger med et dimensionerende varmebehov på op til 70 W/m² skal bygningen have et opvarmet etageareal over 4.100 m². Det er typisk bygninger med byggetilladelse før BR 82 ibrugtaget før ca. 1985. Hvis en bygning er dårligt isoleret, har mekanisk ventilation uden varmegenvinding eller stort varmtvandsforbrug kan det dimensionerende varmebehov blive større end 70 W/m² og arealgrænsen lavere. For bygninger med et dimensionerende kølebehov på op til 50 W/m² skal bygningen have et kølet etageareal over 5.800 m².
+
+[9.6.](../)
 
 ### Krav til bygningsautomatikken
 
@@ -968,5 +976,4 @@ Målerdataene sammenholdes med vejrdata for lufttemperatur og soltilskud fx med 
 *Funktionsafprøvning*
 
 Bygningsautomatikken skal funktionsafprøves ifølge bygningsreglementets [§296](/tekniske-bestemmelser/11/krav/). Funktionsafprøvningen skal gennemføres, så det sikres, at bygningsautomatikken er korrekt installeret og virker efter hensigten. Se mere om funktionsafprøvning i bygningsreglementets vejledning om funktionsafprøvning.
-
 

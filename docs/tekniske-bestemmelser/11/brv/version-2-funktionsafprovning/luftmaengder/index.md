@@ -57,8 +57,6 @@ Kravet til ventilation af bygninger til beboelse er beskrevet i bygningsreglemen
 > • I daginstitutioner skal ventilationsanlægget yde mindst 3 l/s pr. barn og mindst 5 l/s pr. voksen samt 0,35 l/s pr. m² etageareal. Hvis der benyttes ventilationsanlæg med behovstyret ventilation, kan der afviges fra de angivne luftmængder, når der er reduceret behov. Dog må ventilationen i brugstiden ikke være mindre end 0,35 l/s pr. m² etageareal, og CO2-koncentrationen må ikke overstige 1000 ppm ved de dimensionerende forhold.   • I undervisningsrum i skoler og lignende skal ventilationsanlægget i normalklasserum yde mindst 5 l/s pr. person samt 0,35 l/s pr. m² etageareal. Hvis der benyttes ventilationsanlæg med behovstyret ventilation, kan der afviges fra de angivne luftmængder, når der er reduceret behov. Dog må ventilationen i brugstiden ikke være mindre end 0,35 l/s pr. m² etageareal og CO2-koncentrationen må ikke overstige 1000 ppm ved de dimensionerende forhold.   • Ved benyttelse af særlige byggetekniske tiltag, som for eksempel større rumvoluminer pr. person, brug af flere udluftningsmuligheder, herunder muligheder for tværventilation, kan kravet om mekanisk ventilation fraviges under forudsætning af, at der kan opretholdes et sundhedsmæssigt tilfredsstillende indeklima.
 >
 > • I andre bygninger end de tidligere nævnte, fx kontor- og erhvervsbygninger, skal der fastlægges et dimensionerende ventilationsbehov for hvert rum i bygningen. Luftmængder forudsat i dimensioneringen skal eftervises af funktionsafprøvningen.
->
-> *\*
 
 *Formål med funktionsafprøvning af luftmængder*
 
@@ -82,9 +80,7 @@ For at kunne måle luftmængder i ventilationsanlæg skal følgende normalt vær
 
 • Under måleperioden holdes vinduer og døre lukkede for at opnå stabile måleforhold.
 
-*Målepunkter
-
-\*
+*Målepunkter*
 Ifølge DS 447, pkt. 9.7, skal ventilationsanlæg være forsynet med fastmonterede udtag til måling af hovedluftstrømme eller have mulighed for aflæsning af hovedluftstrømme på betjeningspanel. Hovedluftstrømmen eller luftstrøm på rumniveau kan også måles som summen gennem hvert enkelt armatur.
 
 Der måles for de evt. forskellige referencetilstande og på relevante steder i ventilationsanlægget.
@@ -182,4 +178,3 @@ Der udarbejdes en funktionsafprøvningsrapport, der beskriver:
 ### Acceptkriterium {#8c276468-27da-40b5-9cd3-21d0faf66b5c}
 
 ### Dokumentation {#bfd6298a-b31e-4a25-99f5-295e4738889d}
-

@@ -155,9 +155,7 @@ Konstruktioner skal projekteres og udføres, så de kan modstå de normalt forek
 
 Bestemmelserne i bygningsreglementet (BR18) støttes af en række vejledninger fra Social- og Boligstyrelsen. Vejledningerne omfatter blandt andet fugthåndtering, som skal hjælpe bygherren til at vurdere, hvilke tiltag der er nødvendige for at undgå eller minimere skader som følge af uønsket fugt i bygningen.
 
-[Vejledninger til fugt og vådrum
-
-](../../../../../historisk/br18_version3/tekniske-bestemmelser/14/vejledninger/fugt_og_vaadrum/forord){rel="noopener" target="_blank"}
+[Vejledninger til fugt og vådrum](../../../../../historisk/br18_version3/tekniske-bestemmelser/14/vejledninger/fugt_og_vaadrum/forord){rel="noopener" target="_blank"}
 
  
 
@@ -747,4 +745,3 @@ I forbindelse med renovering og ombygning bør senarier om stormflod og vandstig
 
 *- Et almindeligt ønske om opgradering af sikkerheden\*
 I forbindelse med opgradering og sikkerhed bør det overvejes, om der kan fremstilles udstyr, som med timers varsel kan monteres og forhindre at vand trænger ind i bygningen. Sørg for, at brugere af bygningen er instrueret i, at det findes og kan drage omsorg for, at det bliver monteret korrekt og i tide.
-

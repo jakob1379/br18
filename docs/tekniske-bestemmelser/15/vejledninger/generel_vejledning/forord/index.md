@@ -10,7 +10,7 @@
 
 ### Rettelsesblad til Bygningsreglementets vejledning om konstruktioner omhandlende bæreevnevurdering af eksisterende konstruktioner (24.01.2024)
 
-[Åbn r](https://tbstsc.dev.local/-/media/71F0CD5822C44632959231D5340D4F4A.ashx){rel="noopener" target="_blank"}[ettelsesblad til Bygningsreglementets vejledning om konstruktioner omhandlende bæreevnevurdering af eksisterende konstruktioner (Nyt vindue).](../../../../../media/ydigl5f3/rettelsesblad-til-vejledning-om-konstruktioner-2024-01-23.pdf "Rettelsesblad Til Vejledning Om Konstruktioner 2024 01 23"){rel="noopener" target="_blank"}
+[Åbn rettelsesblad til Bygningsreglementets vejledning om konstruktioner omhandlende bæreevnevurdering af eksisterende konstruktioner (Nyt vindue).](../../../../../media/ydigl5f3/rettelsesblad-til-vejledning-om-konstruktioner-2024-01-23.pdf "Rettelsesblad Til Vejledning Om Konstruktioner 2024 01 23"){rel="noopener" target="_blank"}
 
 ### Forord
 
@@ -26,7 +26,7 @@ Bekendtgørelse nr. 1693 af 12/12/2023 om certificeringsordning for dokumentatio
 
 ####
 
-#### Gå til bekendtgørelsen [](https://www.retsinformation.dk/eli/lta/2023/1693){target="_blank"}
+#### [Gå til bekendtgørelsen](https://www.retsinformation.dk/eli/lta/2023/1693){target="_blank"}
 
 ### Generelt for konstruktioner {#434fb0c7-f233-4f85-8fb3-2536def1d52a}
 
@@ -93,7 +93,7 @@ Bekendtgørelse nr. 648 af 31/05/2023 (med senere ændringer) om teknisk certifi
 
 Godkendelsesordning for vindmøller
 
-#### Gå til bekendtgørelsen [](https://www.retsinformation.dk/eli/lta/2023/648){target="_blank"}
+#### [Gå til bekendtgørelsen](https://www.retsinformation.dk/eli/lta/2023/648){target="_blank"}
 
 ### Telte, teleskopstande, demonterbare tilskuertribuner og lignende transportable konstruktioner {#7d5c293f-3d66-4b91-92f5-978be4d3498b}
 
@@ -207,5 +207,4 @@ Bygningsejer bør holde øje med fugt i konstruktionen. Fugt i bygninger kan fø
 
 ### Tagbrønde og tagnedløb {#3d1c4a2b-7666-4e74-9158-8dfa5cc6f035}
 
-Bygningsejere bør vedligeholde tagbrøde og tagnedløb. Dette gælder specielt for ejere af bygninger med flade tage, hvor der er risiko for ophobning af vand. Mangel på vedligeholdelse kan medvirke til, at nedløb tilstopper og gør, at regnvand på taget ikke kan løbe tilstrækkeligt hurtigt væk. Denne ekstra last fra vandet kan overstige den last tagkonstruktionen er dimensioneret for. Der henvises til [BR18, kap. 4](../../../../04/krav "Krav"), om afløb for yderligere.[](https://tbstsc.dev.local/#_msocom_1)
-
+Bygningsejere bør vedligeholde tagbrøde og tagnedløb. Dette gælder specielt for ejere af bygninger med flade tage, hvor der er risiko for ophobning af vand. Mangel på vedligeholdelse kan medvirke til, at nedløb tilstopper og gør, at regnvand på taget ikke kan løbe tilstrækkeligt hurtigt væk. Denne ekstra last fra vandet kan overstige den last tagkonstruktionen er dimensioneret for. Der henvises til [BR18, kap. 4](../../../../04/krav "Krav"), om afløb for yderligere.

@@ -1,10 +1,6 @@
-# Adgangsforhold (§ 48 - §
+# Adgangsforhold (§ 48 - § 62)
 
-62)
-
-## Se alle vejledninger om Adgangsforhold (§ 48 - §
-
-62)
+## Se alle vejledninger om Adgangsforhold (§ 48 - § 62)
 
 - [Spørgsmål og svar om adgangsforhold](../qa)
 - [Vejledning til brugerbegreb](./)
@@ -35,4 +31,3 @@ Der kan også hentes mere viden om særlige udfordringer og behov for de enkelte
 ### Eksempel 2 {#e0b35a3f-55fb-4c8f-a2a4-fa2357e42288}
 
 ### Eksempel 3 {#b57985ce-284a-485b-88a8-77ca7118806a}
-

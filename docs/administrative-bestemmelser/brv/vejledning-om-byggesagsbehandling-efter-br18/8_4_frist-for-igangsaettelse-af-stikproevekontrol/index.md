@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg)
@@ -876,4 +872,3 @@ En klage over kommunalbestyrelsens afgørelse efter byggeloven har som udgangspu
 Det er Nævnenes Hus, der afgør, om betingelserne for klage efter byggeloven er opfyldt.
 
 Der er ikke anden administrativ klageadgang efter byggeloven, og kommunalbestyrelsens og Nævnenes Hus' afgørelser kan derfor ikke påklages til Transport-og Boligministeriet. Der kan anlægges en civil sag ved domstolene inden for seks måneder efter den dag, hvor afgørelsen er meddelt sagens parter, jf. byggelovens § 25, stk. 1.
-

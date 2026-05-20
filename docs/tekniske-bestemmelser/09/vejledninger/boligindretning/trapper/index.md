@@ -40,9 +40,7 @@
 
 Trappen er et arkitektonisk element, der kan give boligen rumlig karakter, samtidig med at den opfylder en specifik funktion. Placeringen af trappen har stor betydning for planløsningens funktionalitet og bevægelsesmønstrene i boligen. I boligbyggeri fungerer trappen som henholdsvis adgangsvej til de enkelte boliger og som intern forbindelse imellem to etager og andre niveauforskelle inde i boligen.
 
-En intern trappe fungerer godt, hvis den er placeret, så den giver ugeneret passage imellem boligens områder og ikke besværliggør møbleringen af rummene eller generer rummets ganglinjer. En trappe, der forbinder entréen med en gang på etagen ovenover, giver ugeneret adgang til begge etager og opdeler samtidig boligen i to adskilte dele. Det giver mulighed for at opdele boligen i fx et område til hjemmearbejde, et område, der kan fremlejes, eller med adskilte boligarealer til forskellige generationer. En trappe, der forbinder fx et køkken-alrum med en stue på etagen over, kan give oplevelsen af et sammenhængende rum, men også mere gennemgangstrafik og uheldig varmefordeling (kap. 2.5, ill.
-
-07).
+En intern trappe fungerer godt, hvis den er placeret, så den giver ugeneret passage imellem boligens områder og ikke besværliggør møbleringen af rummene eller generer rummets ganglinjer. En trappe, der forbinder entréen med en gang på etagen ovenover, giver ugeneret adgang til begge etager og opdeler samtidig boligen i to adskilte dele. Det giver mulighed for at opdele boligen i fx et område til hjemmearbejde, et område, der kan fremlejes, eller med adskilte boligarealer til forskellige generationer. En trappe, der forbinder fx et køkken-alrum med en stue på etagen over, kan give oplevelsen af et sammenhængende rum, men også mere gennemgangstrafik og uheldig varmefordeling (kap. 2.5, ill. 07).
 
 Se SBi-anvisning 253, Småhuse -- indretning og funktion, 3.7 Trapper i boligen (de Place Hansen, 2015).
 
@@ -69,4 +67,3 @@ Se SBi-anvisning 253, Småhuse -- indretning og funktion, 3.7 Trapper i boligen 
 ### At bade {#9d95ee42-38e2-41d4-ae53-1d23da54a544}
 
 ### Appendix: Litteratur
-

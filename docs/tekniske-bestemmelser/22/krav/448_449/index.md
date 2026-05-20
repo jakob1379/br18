@@ -141,7 +141,11 @@ Det specifikke elforbrug til lufttransport må ikke overstige:
 
 3) 1.200 J/m³ udeluft ved grundluftsskiftet for ventilationsanlæg til etageboliger.
 
-4) 600 J/m³ ved maksimalt tryktab for udsugningsanlæg uden mekanisk udelufttilførsel. § 437 § 436 gælder ikke for anlæg knyttet til industrielle processer.
+4) 600 J/m³ ved maksimalt tryktab for udsugningsanlæg uden mekanisk udelufttilførsel.
+
+### § 437 {#paragraf-437}
+
+§ 436 gælder ikke for anlæg knyttet til industrielle processer.
 
 ### § 438 {#paragraf-438}
 
@@ -149,11 +153,21 @@ For ventilationsanlæg med varmegenvinding, hvor aggregat og kanalsystem kun bet
 
 ### § 439 {#paragraf-439}
 
-Ventilationsanlæg, hvor elforbruget til ventilatorer overstiger 3.000 kWh pr. år, skal forsynes med målere til måling af elforbruget. Bestemmelsen gælder ved nybyggeri og ved nyinstallation i eksisterende byggeri. § 440
+Ventilationsanlæg, hvor elforbruget til ventilatorer overstiger 3.000 kWh pr. år, skal forsynes med målere til måling af elforbruget. Bestemmelsen gælder ved nybyggeri og ved nyinstallation i eksisterende byggeri.
+
+### § 440 {#paragraf-440}
 
 § 439 gælder ikke, hvis et eksisterende ventilationsanlæg udvides til at dække andre lokaler i bygningen.
 
-§ 441 I ventilationsanlæg, hvor varmeforbruget til varmeflader overstiger 10.000 kWh pr. år, skal varmeforbruget måles. Elforbruget i elvarmeflader, hvor det samlede forbrug overstiger 3.000 kWh pr. år, skal måles. Bestemmelserne gælder ved nybyggeri og ved nyinstallation i eksisterende byggeri. § 442 Målere, der anvendes til måling af elforbrug eller varme i henhold til §§ 438, 439 og 441, skal have en tilfredsstillende nøjagtighed. [![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
+### § 441 {#paragraf-441}
+
+I ventilationsanlæg, hvor varmeforbruget til varmeflader overstiger 10.000 kWh pr. år, skal varmeforbruget måles. Elforbruget i elvarmeflader, hvor det samlede forbrug overstiger 3.000 kWh pr. år, skal måles. Bestemmelserne gælder ved nybyggeri og ved nyinstallation i eksisterende byggeri.
+
+### § 442 {#paragraf-442}
+
+Målere, der anvendes til måling af elforbrug eller varme i henhold til §§ 438, 439 og 441, skal have en tilfredsstillende nøjagtighed.
+
+[![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
 
 ### DS/EN 14511-1
 
@@ -250,4 +264,3 @@ Ventilation i bygninger - Mekaniske, naturlige og hybride ventilationssystemer
 Denne standard specificerer krav til ventilation og ventilationssystemer i bygninger, herunder boliger, beregnet til menneskeligt ophold.
 
 ### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/standard/M337327/ds-447-2021 "DS 447"){target="_blank"}
-

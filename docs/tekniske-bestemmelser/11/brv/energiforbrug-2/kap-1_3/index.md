@@ -111,7 +111,7 @@ Visse typer af rum og bygninger har specielle vilkår, der retfærdiggør, at de
 >
 > c\) Uopvarmede bygninger eller bygninger opvarmet til under 5 °C skal ikke isoleres af hensyn til opvarmning. Hvis bygningen køles skal bygningen isoleres af hensyn til energiforbruget til køling.
 
--{target="_blank"}
+-  [Gå til krav om rum og bygninger med særlige bestemmelser (§ 254)](../../../krav/251_256#ac3ec9cc-582d-4399-b58f-a5a7253bfa32){target="_blank"}
 
 ### Begrænsning af varmetab {#ac3ec9cc-582d-4399-b58f-a5a7253bfa32}
 
@@ -942,5 +942,4 @@ Målerdataene sammenholdes med vejrdata for lufttemperatur og soltilskud fx med 
 *Funktionsafprøvning*
 
 Bygningsautomatikken skal funktionsafprøves ifølge bygningsreglementets §296. Funktionsafprøvningen skal gennemføres, så det sikres, at bygningsautomatikken er korrekt installeret og virker efter hensigten. Se mere om funktionsafprøvning i bygningsreglementets vejledning om funktionsafprøvning.
-
 

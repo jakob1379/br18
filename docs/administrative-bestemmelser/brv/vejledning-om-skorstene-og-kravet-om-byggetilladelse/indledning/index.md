@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -30,11 +26,7 @@
 
 Denne vejledning indeholder en beskrivelse af reglerne for, hvornår der er krav om, at ejeren af en ejendom skal søge om byggetilladelse hos kommunen ved opførelse af en skorsten. Vejledningen indeholder også en kort beskrivelse af reglerne for, hvordan kommunen skal søge en ulovlig skorsten lovliggjort.
 
-####
-
-[Skorstensfejerbekendtgørelsen](https://www.retsinformation.dk/Forms/R0710.aspx?id=191239)
-
-####
+#### [Skorstensfejerbekendtgørelsen](https://www.retsinformation.dk/Forms/R0710.aspx?id=191239)
 
 Reglerne for det lovpligtige skorstensfejerarbejde er fastsat i [skorstensfejerbekendtgørelsen](https://www.retsinformation.dk/Forms/R0710.aspx?id=191239), som er udstedt med hjemmel i [byggelovens § 15](https://www.retsinformation.dk/eli/lta/2016/1178).
 
@@ -57,4 +49,3 @@ I bygningsreglement 2018 benyttes terminologien aftrækssystemer for skorsten og
 ### Genibrugtagning
 
 ### Kommunen som påtalepligtig
-

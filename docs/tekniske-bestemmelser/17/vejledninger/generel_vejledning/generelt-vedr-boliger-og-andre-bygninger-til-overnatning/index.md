@@ -213,9 +213,7 @@ Balkoner, hemse og lignende i dobbelthøje rum skal ikke umiddelbart medregnes i
 
 I de følgende publikationer er det muligt at finde yderligere information om lydbestem­melser i og omkring bygninger til boliger, undervisnings- og daginstitutioner og andre formål.
 
-**Referencer til de publikationer, der henvises til i denne vejledning og i Bygnings-
-
-reglementets afsnit om akustisk indeklima, er gengivet her:**
+**Referencer til de publikationer, der henvises til i denne vejledning og i Bygningsreglementets afsnit om akustisk indeklima, er gengivet her:**
 
 \[1\]      Bygningsreglement 2018. BR2018.
 
@@ -280,5 +278,4 @@ DS/EN ISO 12354-3:2017: *Bygningsakustik. Beregning af bygningers akustiske ege
 DS/EN 12354-6:2004: *Bygningsakustik - Beregning af bygningers akustiske egenskaber ud fra *bygningselementernes* egenskaber - Del 6: Lydabsorption i lukkede rum*
 
 DS/EN ISO 3382-2:2008: *Akustik - Måling af rumakustiske parametre - Del 2: Efterklangstid i almindelige rum*. Amendment DS/EN ISO 3382-2/AC:2009
-
 

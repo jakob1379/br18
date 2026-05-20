@@ -201,7 +201,7 @@ Referencearealet tager udgangspunkt i beregningen til etagearealet, som skal opg
 - *Overdækkede, ikke-integrerede terrasser samt udnyttede tagflader og lignende medtages ikke,* hverken hvad angår materialer anvendt til opførelsen eller arealet af disse områder. Overdækkede terrasser kan f.eks. være en  tagkonstruktionen med det formål, at have mulighed for ophold herunder.
 - Almindelige tagudhæng vil ikke udløse et referenceareal, men materialerne skal medregnes.
 
-Det fremhæves, at det for de beskrevne områder kun er arealet, der reduceres, og ikke mængderne af materialer. Materialernes mængder indgår stadig med 100 *pct.*, jf.{rel="noopener noreferrer" target="_blank"}.
+Det fremhæves, at det for de beskrevne områder kun er arealet, der reduceres, og ikke mængderne af materialer. Materialernes mængder indgår stadig med 100 *pct.*, jf. [BR18, bilag 2, tabel 6](../../../../../bilag/b2/bilag_2/tabel_6 "Tabel_6"){rel="noopener noreferrer" target="_blank"}.
 
 #### **1.3.1 Eksempler** {#e53ebfa8-1dea-4737-aa53-69c8a848b30c}
 
@@ -305,7 +305,7 @@ Til brug for beregning af klimapåvirkningen skal udledningerne fra de materiale
 
 For at sikre ensartede livscyklusvurderinger med samme afgrænsning for alle bygninger er der udarbejdet en oversigt over de dele af en bygning, der som minimum skal indgå i livscyklusvurderingen (markeret med ja), herunder også præcisering af det detaljeringsniveau, der skal ligge til grund for opgørelsen. Oversigten fremgår af [BR18, bilag 2, tabel 6](../../../../../Bilag/B2/Bilag_2/Tabel_6#e53ebfa8-1dea-4737-aa53-69c8a848b30c){rel="noopener noreferrer" target="_blank"} (nyt vindue). Der skelnes generelt mellem bygningsdele og så de materialer, der indgår i hver bygningsdel.
 
-I det følgende uddybes, hvordan BR18, bilag 2, tabel 6 skal anvendes i forbindelse med beregningen. Det uddybes også, hvordan man kan opgøre klimapåvirkningerne for visse dele af bygningen, hvor det ikke er muligt at opgøre de enkelte materialer grundet manglende data, jf.{rel="noopener noreferrer" target="_blank"} (nyt vindue).
+I det følgende uddybes, hvordan BR18, bilag 2, tabel 6 skal anvendes i forbindelse med beregningen. Det uddybes også, hvordan man kan opgøre klimapåvirkningerne for visse dele af bygningen, hvor det ikke er muligt at opgøre de enkelte materialer grundet manglende data, jf. [BR18, bilag 2, tabel 6](../../../../../bilag/b2/bilag_2/tabel_6 "Tabel_6"){rel="noopener noreferrer" target="_blank"} (nyt vindue).
 
 #### **1.4.1 Tabellens opbygning og anvendelse** {#787e83a6-b7d9-4a83-a4be-37574156daef}
 
@@ -626,7 +626,7 @@ BR18, bilag 2, tabel 7, er opdelt i følgende kolonner:
 
 **Tabel 5.1** Oversigt over opbygningen af BR18, bilag 2, tabel 7, med et eksempel for byggematerialet 4 mm glas.
 
-I tabellen på bygningsreglementets hjemmeside indgår der for hvert produkt/materiale et link, hvor det er muligt at læse mere om datakilden. Tabellen kan også tilgås{rel="noopener noreferrer" target="_blank"} (nyt vindue).
+I tabellen på bygningsreglementets hjemmeside indgår der for hvert produkt/materiale et link, hvor det er muligt at læse mere om datakilden. Tabellen kan også tilgås [her](../../../../../bilag/b2/bilag_2/tabel_7 "Tabel_7"){rel="noopener noreferrer" target="_blank"} (nyt vindue).
 
 #### **Valg af datasæt for et konkret materiale** {#787e83a6-b7d9-4a83-a4be-37574156daef}
 
@@ -889,9 +889,7 @@ Klimapåvirkningen aflæses under enten GWP eller GWP-total, afhængigt af om mi
 
 #### **1.6.4 Håndtering af modul C3/C4**
 
-Ved anvendelse af EPD'er skal affaldsscenarierne (modul C3/C4), som de fremgår af
-
-EPD'en, anvendes i beregningen.
+Ved anvendelse af EPD'er skal affaldsscenarierne (modul C3/C4), som de fremgår af EPD'en, anvendes i beregningen.
 
 #### **1.6.5  Manglende C3 modul**
 
@@ -903,9 +901,7 @@ Hvis en EPD i modul C3/C4 indeholder flere forskellige scenarier for affaldshån
 
 #### **1.6.7 Manglende scenarie for affaldshåndtering**
 
-Hvis EPD'er hverken indeholder et C3- eller C4-modul, kan der anvendes et passende modul fra det generiske datagrundlag (BR18, bilag 2, tabel
-
-7).
+Hvis EPD'er hverken indeholder et C3- eller C4-modul, kan der anvendes et passende modul fra det generiske datagrundlag ([BR18, bilag 2, tabel 7](../../../../../bilag/b2/bilag_2/tabel_7 "Tabel_7")).
 
 Der gøres opmærksom på, at sammensat data kun skal benyttes, hvis der ikke findes den nødvendige data indenfor samme datasæt af et materiale.
 
@@ -1059,11 +1055,7 @@ Byggeprocessens klimapåvirkning skal herefter beregnes ved at opgøre brændsel
 
 "Brug af hjælpe-/interimsmaterialer" er forbrug forbundet med at benytte materialerne, fx ophejsning af stillads. Produktion af interimsmaterialerne selv (stilladser, støbeforme) tæller ikke med.).
 
-Produktion af materialer på pladsen, fx sammenstøbningsbeton indgår ikke i A5. Sådanne indgår i stedet i A1-A3, hvis de er med i bygningsmodellen (bilag 2, tabel
-
-6). Fx er udfyldning mellem elementer (sammenstøbningsbeton) udtrykkeligt undtaget fra beregningen (se teksten til bilag 2, tabel
-
-6) og derfor skal det hverken opgøres i A1-A3 eller A5.
+Produktion af materialer på pladsen, fx sammenstøbningsbeton indgår ikke i A5. Sådanne indgår i stedet i A1-A3, hvis de er med i bygningsmodellen ([bilag 2, tabel 6](../../../../../bilag/b2/bilag_2/tabel_6 "Tabel_6")). Fx er udfyldning mellem elementer (sammenstøbningsbeton) udtrykkeligt undtaget fra beregningen (se teksten til [bilag 2, tabel 6](../../../../../bilag/b2/bilag_2/tabel_6 "Tabel_6")) og derfor skal det hverken opgøres i A1-A3 eller A5.
 
 I standarden fremgår det ikke klart om udledningerne fra præfabrikation af bygningselementer, som fx præfabrikerede trækassetter skal indgå i A1-A3 eller i A4-A5. Det er op til bygningsejer at vurdere, hvor det passer bedst, samt at sikre, at alle udledningerne bliver talt med.
 
@@ -1509,4 +1501,3 @@ Bygninger med specielle sikringskrav som fx museer og sikrede døgninstitutioner
 Hvis en lokalplan stiller detaljerede krav til en bygnings udformning på bestemte steder, fx i forbindelse med krav om særlig byggestil i bevaringsværdigt bymiljø eller andre krav til bygningens fysiske fremtoning, kan dette krav resultere i en øget klimapåvirkning.
 
 Eftersom kravet som følge af plangrundlaget relaterer sig direkte til, hvor bygningen geografisk befinder sig, kan det ifølge § 298, stk. 8, anses for at være en følge af bygningens særlige placering. Der kan sondres mellem hensyn som følge af plankrav og bygningsejers egne valg af udformning. Førstnævnte kan henføres til en placering, sidstnævnte ikke. Ved behov kan der indledes en dialog med kommunen om byggeriet i forhold til lokalplanens krav.
-

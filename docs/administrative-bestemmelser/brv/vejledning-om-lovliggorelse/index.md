@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../spoergsmaal-og-svar)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../spoergsmaal-og-svar-ve-anlaeg)
@@ -112,21 +108,9 @@ Alene i de tilfælde, hvor der efterfølgende er indført regler, der finder anv
 
 ### Kommunalbestyrelsen som bygningsmyndighed
 
-Kommunalbestyrelsen er bygningsmyndighed og påser i denne forbindelse, at byggeloven og de regler, der er udstedt i medfør heraf, overholdes. Dette fremgår af byggelovens
+Kommunalbestyrelsen er bygningsmyndighed og påser i denne forbindelse, at byggeloven og de regler, der er udstedt i medfør heraf, overholdes. Dette fremgår af byggelovens § 16 C, stk. 1. Kommunalbestyrelsen påser også, at påbud efter byggeloven og regler fastsat i medfør heraf efterkommes, og at vilkår fastsat i tilladelser eller dispensationer, som er meddelt af kommunalbestyrelsen, overholdes. Dette fremgår af byggelovens § 16 C, stk. 2.
 
-### § 16 C {#paragraf-16c}
-
-, stk. 1. Kommunalbestyrelsen påser også, at påbud efter byggeloven og regler fastsat i medfør heraf efterkommes, og at vilkår fastsat i tilladelser eller dispensationer, som er meddelt af kommunalbestyrelsen, overholdes. Dette fremgår af byggelovens
-
-### § 16 C {#paragraf-16c}
-
-, stk. 2.
-
-Bliver kommunalbestyrelsen opmærksom på et ulovligt forhold, har den pligt til at søge forholdet lovliggjort, medmindre dette er af ganske underordnet betydning. Dette fremgår af byggelovens
-
-### § 16 C {#paragraf-16c}
-
-, stk. 3.
+Bliver kommunalbestyrelsen opmærksom på et ulovligt forhold, har den pligt til at søge forholdet lovliggjort, medmindre dette er af ganske underordnet betydning. Dette fremgår af byggelovens § 16 C, stk. 3.
 
 Hvornår et forhold er af ganske underordnet betydning beror på en konkret vurdering, men som tommelfingerregel, skal der være tale om ret bagatelagtige forhold for, at et forhold ikke skal lovliggøres. Som eksempel kan det nævnes, at hvis det forhold, der er tilsidesat, ikke påvirker formålet i byggeloven, omgivelserne eller andre interesser, så er forholdet af ganske underordnet betydning.
 
@@ -256,7 +240,4 @@ Eventuelle tiltag til lovliggørelse, herunder retlig lovliggørelse i form af e
 
 Kun politiet kan give bøde for overtrædelse.
 
-§ 564 anvendes for den skete overtrædelse, i modsætning til eksempelvis byggelovens § 30, litra
-
-c), som kan anvendes ved manglende efterlevelse af et påbud.
-
+§ 564 anvendes for den skete overtrædelse, i modsætning til eksempelvis byggelovens § 30, litra c), som kan anvendes ved manglende efterlevelse af et påbud.

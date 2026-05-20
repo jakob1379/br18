@@ -90,9 +90,7 @@ Følgende typer af energiforsyningsanlæg i relation til bygninger vil typisk v�
 
 • Kondenseringsenheder til køleanlæg
 
-Hvilke energiforsyningsanlæg der er omfattet af Ecodesign i hver af de ovennævnte produktkategorier afhænger blandt andet af anlæggets størrelse og den anvendte energikilde. For nærmere information herom henvises der til Energistyrelsens oversigt over produkter omfattet af Ecodesign, som kan findes her: [Energistyrelsens oversigt
-
-](https://ens.dk/ansvarsomraader/energikrav-til-produkter/produkter-med-energikrav){target="_blank"}
+Hvilke energiforsyningsanlæg der er omfattet af Ecodesign i hver af de ovennævnte produktkategorier afhænger blandt andet af anlæggets størrelse og den anvendte energikilde. For nærmere information herom henvises der til Energistyrelsens oversigt over produkter omfattet af Ecodesign, som kan findes her: [Energistyrelsens oversigt](https://ens.dk/ansvarsomraader/energikrav-til-produkter/produkter-med-energikrav){target="_blank"}
 
 *Relevante standarder*
 
@@ -193,4 +191,3 @@ Der udarbejdes en funktionsafprøvningsrapport, der beskriver:
 ### Acceptkriterium {#8c276468-27da-40b5-9cd3-21d0faf66b5c}
 
 ### Dokumentation {#bfd6298a-b31e-4a25-99f5-295e4738889d}
-

@@ -1,6 +1,4 @@
-# Administrative bestemmelser (§ 1 - §
-
-47)
+# Administrative bestemmelser (§ 1 - § 47)
 
 ## Anvendelsesområde {#63d0eb43-08aa-4f77-8f77-c42dec6d6f22}
 
@@ -856,15 +854,7 @@ Byggearbejder, der kræver byggetilladelse, skal færdigmeldes til kommunalbesty
 
 *Stk. 2.* Ved færdigmelding skal følgende fremsendes:
 
-1) Dokumentation for, at der er tegnet byggeskadeforsikring, og at præmien er betalt, jf. byggelovens
-
-### § 25 C {#paragraf-25c}
-
-, stk. 2, for byggeri omfattet af byggelovens
-
-### § 25 A {#paragraf-25a}
-
-.
+1) Dokumentation for, at der er tegnet byggeskadeforsikring, og at præmien er betalt, jf. byggelovens § 25 C, stk. 2, for byggeri omfattet af byggelovens § 25 A.
 
 2) Erklæring om, at det færdige byggeri er i overensstemmelse med byggetilladelsen og bygningsreglementet.
 
@@ -943,4 +933,3 @@ Nedrivning af bebyggelse, der kræver byggetilladelse at opføre, må ikke påbe
 *Stk. 4.* Kommunalbestyrelsen kan fastsætte retningslinjer for nedrivning af bebyggelse.
 
 *Stk. 5.* Afslutning af en byggesag, hvor der er meddelt tilladelse til nedrivning af bebyggelse, skal færdigmeldes til kommunalbestyrelsen.
-

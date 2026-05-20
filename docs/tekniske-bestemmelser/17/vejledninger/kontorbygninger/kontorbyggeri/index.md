@@ -35,9 +35,7 @@ De angivne forslag til projekteringsværdier omfatter ikke alle rumtyper og anve
 
 - **Auditorier** er rum, der benyttes til præsentationer for et større antal personer, fx fra 50 personer op til flere hundrede. Sådanne rum kræver særskilt akustisk projektering.
 
-- **Kantiner** benyttes til servering af frokost og også ofte til møder, seminarer eller lignende. Kantiner kan have meget varierende størrelse og form og kræver særskilt akustisk
-
-projektering.
+- **Kantiner** benyttes til servering af frokost og også ofte til møder, seminarer eller lignende. Kantiner kan have meget varierende størrelse og form og kræver særskilt akustisk projektering.
 
 - **Toiletfaciliteter** − ofte bestående af forrum og toiletrum**\**
 
@@ -56,4 +54,3 @@ projektering.
 [5.4](../rumakustik-i-kontorbyggeri/)
 
 ### Rumakustik
-

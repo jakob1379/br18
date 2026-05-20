@@ -34,7 +34,7 @@ Bygningers energibehov
 
 Anvisningen beskriver, hvordan man bruger beregningsprogrammet Be15 til beregning af bygningers energibehov. Programmet skal bruges, når man skal eftervise, at en bygning opfylder energibestemmelserne i bygningsreglementet. Anvisning og beregningsprogram henvender sig til rådgivende ingeniører, arkitekter, entreprenører, andre projekterende og udførende inden for byggeri samt til offentlige myndigheder.
 
-### Find SBi-Anvisning 213 på Statens Byggeforskningsinstituts (SBi) hjemmeside her{target="_blank"}
+### [Find SBi-Anvisning 213 på Statens Byggeforskningsinstituts (SBi) hjemmeside her](https://sbi.dk/anvisninger/Pages/213-Bygningers-energibehov-4.aspx "SBi-Anvisning 213"){target="_blank"}
 
 Anvisning og beregningsprogram er betalingsbelagt.
 

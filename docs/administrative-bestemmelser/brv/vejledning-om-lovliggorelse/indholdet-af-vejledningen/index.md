@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -30,13 +26,8 @@
 
 ### Indholdet af vejledningen
 
->
-
-• Hvilke regler, der er relevante, i forbindelse med kommunalbestyrelsens vurdering af, om der består et ulovligt forhold og
-
->
-
-• Hvilke regler, der er relevante, i forbindelse med kommunalbestyrelsens vurdering af, hvordan der skal ske lovliggørelse.
+> • Hvilke regler, der er relevante, i forbindelse med kommunalbestyrelsens vurdering af, om der består et ulovligt forhold og
+> • Hvilke regler, der er relevante, i forbindelse med kommunalbestyrelsens vurdering af, hvordan der skal ske lovliggørelse.
 
 ### Hvornår er et byggeri ulovligt
 
@@ -67,4 +58,3 @@
 ### Forholdet til anden lovgivning
 
 ### Særligt om lovliggørelse i forbindelse med bygningers klimapåvirkning
-

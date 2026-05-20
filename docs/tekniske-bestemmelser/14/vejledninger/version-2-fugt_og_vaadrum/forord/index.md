@@ -19,7 +19,7 @@ Det er derfor vigtigt, at vælge robuste løsninger, dvs. enten løsninger der f
 
 ###
 
-!
+![](../../../../../media/v4dh0nsx/kap_14_brv_0_0_typer_af_fugtpaavirkninger.svg)
 
 Typer af fugtpåvirkninger
 
@@ -32,4 +32,3 @@ Typer af fugtpåvirkninger
 [2.0.](../kap-2_0/)
 
 ### Vådrum
-

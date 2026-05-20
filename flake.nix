@@ -21,8 +21,6 @@
             lychee
           ];
 
-          LD_LIBRARY_PATH = "${pkgs.lib.makeLibraryPath (with pkgs; [ xorg.libX11 ])
-                              }:$LD_LIBRARY_PATH";
           shellHook = ''
             export CHROMIUM_PATH=${pkgs.chromium}/bin/chromium
             export UV_PYTHON_PREFERENCE="managed"

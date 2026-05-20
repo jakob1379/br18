@@ -1,10 +1,6 @@
-# Adgangsforhold (§ 48 - §
+# Adgangsforhold (§ 48 - § 62)
 
-62)
-
-## Se alle vejledninger om Adgangsforhold (§ 48 - §
-
-62)
+## Se alle vejledninger om Adgangsforhold (§ 48 - § 62)
 
 - [Spørgsmål og svar om adgangsforhold](../qa)
 - [Vejledning til brugerbegreb](./)
@@ -85,4 +81,3 @@ Fredede eller bevaringsværdige bygninger vil være omfattet af andre regler end
 Hensynet for fredningsværdien kan nødvendiggøre, at der lempes fra bygningsreglementets bestemmelser om adgangsforhold og at indretning designes ud fra de deraf følgende behov. Brugerbegrebet muliggør sammen med kravene i andre regelsæt en begrundelse af dette behov. Begrundelsen skal kunne dokumenteres. I dette eksempel betyder det, at det bl.a. skal dokumenteres, hvordan bygningen er omfattet af fredningsreglerne, hvorfor adgangsforhold ikke kan etableres efter bygningsreglementets kapitel 6, og hvorfor det dermed kan medføre en uforholdsmæssig byrde, at wc-rum indrettes efter bygningsreglementets kapitel 13.
 
 Bygherre og rådgiver kan undersøge, om der findes løsninger, der både tilgodeser fredningsværdien og tilgængeligheden af bygningen, som måske ikke lever op til bygningsreglementets detailløsninger, men opfylder hensynene bag adgangsforhold. Det er kommunen som bygningsmyndighed, der på foranledning af fx dispensationsansøgning vil skulle vurdere rimeligheden af løsningerne.
-

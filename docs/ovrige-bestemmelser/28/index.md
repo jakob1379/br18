@@ -187,9 +187,7 @@ d) A4. Konstruktionsændringer, jf. [§ 501, stk. 1, nr. 4](/ovrige-bestemmelser
 
 2\) Projektdokumentation: B1. Statisk projektredegørelse, jf. [§ 502, stk. 1, nr. 1](/ovrige-bestemmelser/28/krav/494_505/).
 
-*
-
-Stk. 3. Stk. 2* træder i kraft den 1. april 2024. Samtidig ophæves stk. 1.
+*Stk. 3. Stk. 2* træder i kraft den 1. april 2024. Samtidig ophæves stk. 1.
 
 *Stk. 4.* Den fremsendte dokumentation skal dokumentere valg af konstruktionsklasse.
 

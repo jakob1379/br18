@@ -33,13 +33,13 @@ En måde at beskytte bygningen mod indtrængen af overfladevand, er at sikre, at
 
 ###
 
-!
+![](../../../../../media/ii0byiao/kap_14_brv_1_3_maader_at_beskytte_mod_overfaldevand.svg)
 
 Måder at beskytte mod overfaldevand
 
 ###
 
-!
+![](../../../../../media/qjxnokjl/kap_14_brv_1_3_tiltag_til_at_sikre_mod_fugt_fra_undergrunden.svg)
 
 Tiltag til at sikre mod fugt fra undergrunden
 
@@ -49,23 +49,22 @@ Det er vigtigt for overholdelse af kravet, at regn og smeltevand fra sne føres 
 
 ###
 
-!
+![](../../../../../media/hq5phvgc/kap_14_brv_1_4_afledning_af_tagvand_og_tiltraekkelig_taghaeldning.svg)
 
 Afledning af tagvand og tiltrækkelig taghældning
 
 Af hensyn til grundvandsressourcerne og rensningsanlægs funktion kan overfladevand og tagvand, hvor det kan godkendes af kommunalbestyrelsen, ledes til nedsivningsanlæg fremfor kloak, se Miljøministeriets bekendtgørelse om spildevandstilladelser mv. efter miljøbeskyttelseslovens [kapitel 3](/tekniske-bestemmelser/03/) og 4
 
-#### Miljøministeriets bekendtgørelse om
+[![](../../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
 
-Spildevandstilladelser
+#### Miljøministeriets bekendtgørelse om Spildevandstilladelser
 
 #### Anvendelsesområde
 
-#### Se bekendtgørelsen her @@PROTECTED_3@@
+#### Se bekendtgørelsen her [Spildevandsbekendtgørelsen](https://www.retsinformation.dk/eli/lta/2024/532 "Miljøministeriets bekendtgørelse om Spildevandstilladelser"){target="_blank"}
 
 -  [Gå til krav om Fugt](../../../krav/334_338/){target="_blank"}
 
 [2.0.](../kap-2_0/)
 
 ### Vådrum
-

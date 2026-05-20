@@ -46,7 +46,7 @@ Ved det specifikke elforbrug til lufttransport forstås her det samlede elforbru
 
 Det specifikke elforbrug til lufttransport kan beregnes for det enkelte anlæg for sig eller alternativt ved en samlet beregning for luftmængde og energiforbruget af flere anlæg i en bygning.
 
-Grundluftskiftet for ventilationsanlæg til etageboliger vil normalt være luftmængden, der ventileres med, hvis der ikke er forcerede luftmængder i hverken køkken, bad eller WC. Grundluftskiftet må ikke blive mindre end 0,30 l/s pr. m² opvarmet etageareal, jf. [§443](../../../krav/443_446/ "443_446") når boligen er i anvendelse og 0,15 l/s pr. m^2^ når boligen ikke er i anvendelse[.](../../../krav/443_446/)
+Grundluftskiftet for ventilationsanlæg til etageboliger vil normalt være luftmængden, der ventileres med, hvis der ikke er forcerede luftmængder i hverken køkken, bad eller WC. Grundluftskiftet må ikke blive mindre end 0,30 l/s pr. m² opvarmet etageareal, jf. [§443](../../../krav/443_446/ "443_446") når boligen er i anvendelse og 0,15 l/s pr. m^2^ når boligen ikke er i anvendelse.
 
 Ventilationsanlæg, der kun betjener en enkelt bolig, har et skærpet krav til specifikt elforbrug til lufttransport. Dette gælder også for anlæg der betjener en enkelt boligenhed i en etagebolig. Hvis decentrale ventilationsanlæg i etageboliger er koblet sammen, for eksempel gennem et fælles aftræk er det kravet til specifikt elforbrug til lufttransport for etageboliger, der skal overholdes.
 
@@ -85,4 +85,3 @@ Kravet om præcision af målere er opfyldt ved anvendelse af typegodkendte måle
 [1.10.](../kap-1_10/)
 
 ### Drift og vedligehold
-

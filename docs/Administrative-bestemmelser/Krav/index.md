@@ -1,6 +1,4 @@
-# Administrative bestemmelser (§ 1 - §
-
-47)
+# Administrative bestemmelser (§ 1 - § 47)
 
 ## Anvendelsesområde {#63d0eb43-08aa-4f77-8f77-c42dec6d6f22}
 
@@ -41,4 +39,3 @@
 ## Afslutning af byggesag {#32798ba8-5569-4276-98f6-5dc6503156df}
 
 ## Nedrivning af bebyggelse {#bad92379-7648-45d8-8471-10c9e1caccf7}
-

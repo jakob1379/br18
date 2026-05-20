@@ -41,7 +41,7 @@ Ergonomi inden for termisk miljø - Analytisk bestemmelse og fortolkning af term
 
 Formålet med denne standard er at beskrive en metode til at forudsige menneskers termiske sansefornemmelse og graden af ubehag, når de er udsat for et moderat termisk miljø, at fastsætte betingelser for termisk miljø, som giver en følelse af velvære.
 
-#### @@PROTECTED_6@@
+#### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/s%C3%B8gning/13-180-ergonomi/ds-en-iso-77302006 "DS/EN ISO 7730"){target="_blank"}
 
 Lufthastigheden kan både have en positiv og en negativ indflydelse på den termiske komfort. Varmediskomforten pga. højere rumtemperaturer kan eksempelvis delvis kompenseres ved en forhøjet lufthastighed.
 
@@ -49,13 +49,9 @@ Ved åbne vinduer, eller ved brug af loft- eller bordventilatorer, som er under 
 
 Ved utætheder, kuldenedfald, loftventilator, åbninger og ventilationssystemer, som ikke er under personlig kontrol, giver DS447 anneks A eksempler på tilladelige perioder med trækraten over 20%.
 
-####
+#### DS 447 - Ventilation i bygninger - Mekaniske, naturlige og hybride ventilationssystemer
 
-DS 447 - Ventilation i bygninger - Mekaniske, naturlige og hybride ventilationssystemer
-
-####
-
-#### Standarden findes på dansk i Dansk Standards webshop.ds.dk
+#### Standarden findes på dansk i Dansk Standards [webshop.ds.dk](https://webshop.ds.dk/da-dk/s%C3%B8gning/91-140-30-ventilationssystemer-og-klimaanl%C3%A6g/ds-4472013){target="_blank"}
 
 [1.4.](../kap-1_4/)
 
@@ -84,4 +80,3 @@ DS 447 - Ventilation i bygninger - Mekaniske, naturlige og hybride ventilationss
 [1.10.](../kap-1_10/)
 
 ### Drift og vedligehold
-

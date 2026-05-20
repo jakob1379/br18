@@ -1,6 +1,4 @@
-# Affaldssystemer (§ 63 - §
-
-68)
+# Affaldssystemer (§ 63 - § 68)
 
 ## Bygningsreglementets vejledning om affaldssystemer
 
@@ -102,9 +100,7 @@ Der er varierende pladskrav forbundet med de enkelte indsamlingssystemer. De enk
 
 Enfamiliehuse skal reservere et givent areal på matriklen, til placering af affaldsbeholdere.  Da tømningen skal ske fra offentlig vej, er det blevet et almindeligt krav i kommunerne, at disse beholdere skal stå i forhaven med en maksimumafstand til kantsten.
 
-I fællesbebyggelser (etagebyggeri og tæt/-lav-bebyggelse), skal der afhængig af bebyggelsens omfang og antal boliger indrettes én eller flere - store eller små - affaldsgårde, hvor et antal (fra 5 til
-
-10) affaldsfraktioner skal kunne indsamles. Hertil kommer, at de fleste fællesbebyggelser har behov for opsamling af storskrald, som til dels er "stort brændbart", men også f.eks. kan være rent træ til genanvendelse, tekstiler eller lign. Samtidig anbefaler man i reglen fra affaldsselskabets/kommunens side, at der opføres skure til opsamling af farligt affald samt stort elektronikaffald.
+I fællesbebyggelser (etagebyggeri og tæt/-lav-bebyggelse), skal der afhængig af bebyggelsens omfang og antal boliger indrettes én eller flere - store eller små - affaldsgårde, hvor et antal (fra 5 til 10) affaldsfraktioner skal kunne indsamles. Hertil kommer, at de fleste fællesbebyggelser har behov for opsamling af storskrald, som til dels er "stort brændbart", men også f.eks. kan være rent træ til genanvendelse, tekstiler eller lign. Samtidig anbefaler man i reglen fra affaldsselskabets/kommunens side, at der opføres skure til opsamling af farligt affald samt stort elektronikaffald.
 
 Ved byggeri i tætte byområder, er det almindeligt, at kommune og bygherre indgår aftale om, at indsamling og kildesortering af husholdningsaffald m.v. kan ske i over- eller underjordiske beholdere placeret på offentlig vej, placeret i umiddelbar nærhed af den bebyggelse, der genererer affaldet.
 
@@ -163,4 +159,3 @@ Det er kommunalbestyrelsen, der er bygningsmyndighed, og derfor træffer afgøre
 Kommunalbestyrelsen kan nægte at give tilladelse, hvis ikke hensynene i bygningsreglementet vurderes at være opfyldt.
 
 Ved ombygning af eksisterende byggeri, afhænger det af de konkrete omstændigheder, om det vil kræve en byggetilladelse. Isoleret set kan nedlæggelse af en affaldsskakt foretages uden en byggetilladelse. Dog vil det i praksis formentlig kræve byggetilladelse i langt de fleste tilfælde, da nedlæggelsen enten vil indebære væsentlige ombygninger i byggeriet, eksempelvis ved at inddrage arealet til beboelse, en overskridelse af bebyggelsesprocenten på grunden, der kræver en helhedsvurdering efter ansøgning ved kommunalbestyrelsen eller, at inddragelse af et friareal til at anlægge en affaldsø, hvilket vil være i strid med den byggetilladelse, der er givet, og derfor også kræve ansøgning om byggetilladelse.
-

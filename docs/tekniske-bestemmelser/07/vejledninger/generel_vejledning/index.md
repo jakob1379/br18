@@ -414,9 +414,7 @@ Det skal løbende kontrolleres at brandslukningsmateriel er tilgængeligt, synli
 
 Håndildslukkere bør være placeret på identificerede steder og være af en type, som er egnet til slukning af de potentielle brande, der kan opstå i det pågældende område. Her henledes opmærksomheden på klassificeringen af slukkerne (A, B, C, D, E og F), som angiver hvad den egnet til bekæmpelse af brand i, se Tabel 1.
 
-Håndildslukkere skal være udført i overensstemmelse med gældende regler (DS/EN
-
-3).
+Håndildslukkere skal være udført i overensstemmelse med gældende regler (DS/EN 3).
 
 *Tabel 1 - klassificering af slukkere*
 
@@ -672,4 +670,3 @@ Bekendtgørelse nr. 477 af 18/05/2011 om bygge og anlægsarbejder i perioden 1. 
 ####
 
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/Forms/r0710.aspx?id=137101){target="_blank"}
-

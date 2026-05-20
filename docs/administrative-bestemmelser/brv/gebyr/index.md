@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../spoergsmaal-og-svar)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../spoergsmaal-og-svar-ve-anlaeg)
@@ -239,4 +235,3 @@ Kommunerne har således et ansvar for at opgøre såvel omkostningerne som gebyr
 For en uddybning af ovenstående samt for mere konkret beregning af udgifter henvises til Økonomi- og Indenrigsministeriets Budget- og Regnskabssystem for Kommuner, særligt kap. 9.3, der er optrykt som bilag 1 til bekendtgørelse om kommunernes budget- og regnskabsvæsen, revision m.v., som har til hensigt at tilvejebringe et generelt grundlag for kommunernes udarbejdelse af omkostningskalkulationer.
 
 Budget og Regnskabssystemet kan findes på hjemmesiden: [www.budregn.oim.dk](https://budregn.oim.dk/){target="_blank"} og på [retsinformation.dk](https://www.retsinformation.dk/){target="_blank"}
-

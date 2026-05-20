@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -82,11 +78,12 @@ Omkostningerne ved kommunens generelle stikprøvekontrol efter [§ 46](/administ
 
 Kommunalbestyrelsen kan fastsætte sin timepris således, at de indirekte udgifter (overhead), som en kommune har ved sin byggesagsbehandling, herunder udgifter i forbindelse med den generelle stikprøvekontrol, kan medtages som en del af timeprisen.
 
-Hvis resultatet af den generelle stikprøvekontrol udløser en konkret lovliggørelsessag, vil der herefter kunne opkræves et konkret gebyr for kommunalbestyrelsens behandling af den pågældende lovliggørelsessag udløst af stikprøvekontrollen. I den konkrete lovliggørelsessag vil der således kunne opkræves et byggesagsgebyr fra det tidspunkt sagsbehandlingen af den konkrete lovliggørelsessag er påbegyndt ved stikprøvekontrollen og frem til sagens afslutning ved lovlig ibrugtagning efter, at byggeriet er blevet lovliggjort. [14.](../anden-lovgivning/)
+Hvis resultatet af den generelle stikprøvekontrol udløser en konkret lovliggørelsessag, vil der herefter kunne opkræves et konkret gebyr for kommunalbestyrelsens behandling af den pågældende lovliggørelsessag udløst af stikprøvekontrollen. I den konkrete lovliggørelsessag vil der således kunne opkræves et byggesagsgebyr fra det tidspunkt sagsbehandlingen af den konkrete lovliggørelsessag er påbegyndt ved stikprøvekontrollen og frem til sagens afslutning ved lovlig ibrugtagning efter, at byggeriet er blevet lovliggjort.
+
+[14.](../anden-lovgivning/)
 
 ### Byggesagsgebyr, når kommunen påser anden lovgivning
 
 [15.](../intern-instruks/)
 
 ### Intern instruks i kommunen
-

@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -195,4 +191,3 @@ Fra den 1. januar 2020 til den 30. juni 2022 er der en overgangsperiode, hvor de
 [10.](../10_0_klage-over-kommunalbestyrelsens-afgoerelser/)
 
 ### Klage over kommunalbestyrelsens afgørelser
-

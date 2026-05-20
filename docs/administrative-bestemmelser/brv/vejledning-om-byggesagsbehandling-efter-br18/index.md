@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../spoergsmaal-og-svar-ve-anlaeg/)
@@ -82,11 +78,7 @@ Derudover følger det af [§ 2, stk. 1](/administrative-bestemmelser/krav/1_3/),
 
 • Ændringer i benyttelse af bebyggelse, som er væsentlige i forhold til bestemmelser i loven eller de medfør af loven udfærdigede bestemmelser.
 
-Udgangspunktet i [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178) er derfor, at både ombygningsarbejder og anvendelsesændringer kræver ansøgning om byggetilladelse, jf. [byggelovens § 16, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178). Der kan dog fastsættes regler om indskrænkning i kravene om tilladelser i bygningsreglementet, jf. [byggelovens
-
-### § 16 B {#paragraf-16b}
-
-, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178). Denne hjemmel er blandt andet udnyttet i BR18 [§ 5, stk. 1, nr. 2](/administrative-bestemmelser/krav/4_6/)-4, hvoraf det følger, at en række ombygningsarbejder kan foretages uden ansøgning om byggetilladelse.
+Udgangspunktet i [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178) er derfor, at både ombygningsarbejder og anvendelsesændringer kræver ansøgning om byggetilladelse, jf. [byggelovens § 16, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178). Der kan dog fastsættes regler om indskrænkning i kravene om tilladelser i bygningsreglementet, jf. [byggelovens § 16 B, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178). Denne hjemmel er blandt andet udnyttet i BR18 [§ 5, stk. 1, nr. 2](/administrative-bestemmelser/krav/4_6/)-4, hvoraf det følger, at en række ombygningsarbejder kan foretages uden ansøgning om byggetilladelse.
 
 Læs mere om dette nedenfor i afsnit 2.2.4 eller i [Vejledning om ombygninger](../vejledning-om-ombygning-og-brug-af-certificerede-raadgivere/ "Vejledning om ombygning og brug af certificerede raadgivere")
 
@@ -592,11 +584,7 @@ Ved afslutning af et byggeri, hvortil der er meddelt byggetilladelse, skal der s
 
 Ved færdigmelding skal der indsendes en erklæring om, at det færdige byggeri er i overensstemmelse med byggetilladelsen og bygningsreglementet. Ved færdigmelding af et byggeri skal ansøger indsende følgende:
 
-- Dokumentation for, at der er tegnet byggeskadeforsikring, og at præmien er betalt, jf. [byggelovens
-
-### § 25 C {#paragraf-25c}
-
-, stk. 2](https://www.retsinformation.dk/eli/lta/2016/1178), for byggeri omfattet af [byggelovens § 25](https://www.retsinformation.dk/eli/lta/2016/1178)
+- Dokumentation for, at der er tegnet byggeskadeforsikring, og at præmien er betalt, jf. [byggelovens § 25 C, stk. 2](https://www.retsinformation.dk/eli/lta/2016/1178), for byggeri omfattet af [byggelovens § 25](https://www.retsinformation.dk/eli/lta/2016/1178)
 
   A. [Læs mere om byggeskadeforsikring her](../ "Byggeskadeforsikring").
 - Erklæring om, at det færdige byggeri er i overensstemmelse med byggetilladelsen og bygningsreglementet. Det er bygningsejeren, der har ansvaret for, at det færdige byggeri er lovligt. Ved afslutning af byggesagen skal det derfor erklæres, at byggeriet er udført i overensstemmelse med byggetilladelsen og bygningsreglementet, hvilket sker igennem Byg & Miljø. Denne erklæring giver ikke bygningsejeren et større eller mindre ansvar, end der allerede følger af [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178).
@@ -940,4 +928,3 @@ En klage over kommunalbestyrelsens afgørelse efter [byggeloven](https://www.ret
 Det er Nævnenes Hus, der afgør, om betingelserne for klage efter [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178) er opfyldt.
 
 Der er ikke anden administrativ klageadgang efter [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178), og kommunalbestyrelsens og Nævnenes Hus' afgørelser kan derfor ikke påklages til Transport-og Boligministeriet. Der kan anlægges en civil sag ved domstolene inden for seks måneder efter den dag, hvor afgørelsen er meddelt sagens parter, jf. [byggelovens § 25, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178).
-

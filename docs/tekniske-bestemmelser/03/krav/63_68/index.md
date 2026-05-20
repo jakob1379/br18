@@ -1,6 +1,4 @@
-# Affaldssystemer (§ 63 - §
-
-68)
+# Affaldssystemer (§ 63 - § 68)
 
 ## § 63 - § 68 Affaldssystemer {#7438aeeb-906d-4669-9cbe-4aa126ccc04d}
 
@@ -41,4 +39,3 @@ Affaldsrum skal designes og udføres, så de er tilstrækkelig ventileret. Krave
 ### § 68 {#paragraf-68}
 
 Affaldssystemer, herunder affaldsskakte, skal projekteres og udføres, så de under hensyn til det valgte system er tilstrækkelig ventileret.
-

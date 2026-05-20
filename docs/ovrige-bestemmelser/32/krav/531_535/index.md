@@ -36,7 +36,7 @@ Den certificerede statiker eller brandrådgiver er tilknyttet byggesagen og bygg
 
 ### § 534 {#paragraf-534}
 
-Ved udfærdigelse af dokumentation for bærende konstruktioner og brandforhold, jf. kapitel 28-30, skal den certificerede statiker eller brandrådgiver afhængigt af sit virke, jf. [§§ 536](../../../../Ovrige-bestemmelser/33/Krav/536_544#8526eafe-036b-4ecd-969d-efeabad6b471) og [545](../../../../Ovrige-bestemmelser/34/Krav/545_551#a558d1b7-6c5e-474d-9603-830eb0914241), foretage en af følgende handlinger:
+Ved udfærdigelse af dokumentation for bærende konstruktioner og brandforhold, jf. kapitel 28-30, skal den certificerede statiker eller brandrådgiver afhængigt af sit virke, jf. [§§ 536](../../../../ovrige-bestemmelser/33/krav/536_544#8526eafe-036b-4ecd-969d-efeabad6b471) og [545](../../../../ovrige-bestemmelser/34/krav/545_551#a558d1b7-6c5e-474d-9603-830eb0914241), foretage en af følgende handlinger:
 
 1) Ved virke som udarbejdende: Tilrettelægge og udforme dokumentationen.
 
@@ -45,4 +45,3 @@ Ved udfærdigelse af dokumentation for bærende konstruktioner og brandforhold, 
 ### § 535 {#paragraf-535}
 
 Tredjepartskontrollanten må ikke pålægges begrænsninger ved løsning af kontrolopgaven.
-

@@ -55,10 +55,8 @@ Tabel 6.2 indeholder forslag til projekteringsværdier for trafikstøj i hospita
 | **Noter**                                                                                                 |
 |                                                                                                           |
 | 1\) Projekteringsværdierne gælder i møblerede rum.\                                                       |
-| \                                                                                                         |
-|
-
-2) Der opstilles relevante projektkrav, der kan sikre tilfredsstillende lydforhold for rumanvendelsen.    |
+|                                                                                                           |
+| 2\) Der opstilles relevante projektkrav, der kan sikre tilfredsstillende lydforhold for rumanvendelsen.    |
 +-----------------------------------------------------------------------------------------------------------+
 
 [6.3](../stoej-fra-tekniske-installationer-i-hospitaler-laegehuse-og-klinikker/)
@@ -68,4 +66,3 @@ Tabel 6.2 indeholder forslag til projekteringsværdier for trafikstøj i hospita
 [6.4](../rumakustik-i-hospitaler-laegehuse-og-klinikker/)
 
 ### Rumakustik
-

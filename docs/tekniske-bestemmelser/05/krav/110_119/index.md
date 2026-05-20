@@ -364,7 +364,11 @@ Byggeri kan opdeles i flere brandmæssige enheder. Opdelingen i brandmæssige en
 
 ### § 112 {#paragraf-112}
 
-Bygningsafsnit skal udgøre en eller flere selvstændige brandmæssige enheder. § 113 (Ophævet)
+Bygningsafsnit skal udgøre en eller flere selvstændige brandmæssige enheder.
+
+### § 113 {#paragraf-113}
+
+(Ophævet)
 
 ### § 114 {#paragraf-114}
 
@@ -718,4 +722,3 @@ Der skal udarbejdes en drifts-, kontrol- og vedligeholdelsesplan for de transpor
 3) Der udarbejdes ordensregler om forebyggelse af brand.
 
 4) Personalet er instrueret i de udarbejdede ordensregler, brand- og evakueringsinstruks, placering og brug af håndslukningsudstyr og brandtekniske installationer. § 158 §§ 156 og 157 anses for opfyldt, såfremt drifts-, kontrol- og vedligeholdelsesplanen er udført i henhold til *Bygningsreglementets vejledning til kapitel 5 - Brand.*
-

@@ -60,7 +60,7 @@ For vindmøller kan kravene til konstruktioner anses for opfyldt, når vindmøll
 
 ### Telte, teleskopstande, demonterbare tilskuertribuner og lignende transportable konstruktioner {#vejledning-om-konstruktionsforhold-for-transportable-konstruktioner}
 
-Det fremgår af bygningsreglementet 2018, [kap. 15](/tekniske-bestemmelser/15/), [§ 353](/tekniske-bestemmelser/15/krav/353/), at telte og lignende transportable konstruktioner skal dimensioneres i overensstemmelse med DS/EN 13782, eller på en måde, som sikrer, at de relevante bestemmelser i [§§ 344-351 e](/tekniske-bestemmelser/15/krav/344/)r opfyldt.
+Det fremgår af bygningsreglementet 2018, [kap. 15](/tekniske-bestemmelser/15/), [§ 353](/tekniske-bestemmelser/15/krav/353/), at telte og lignende transportable konstruktioner skal dimensioneres i overensstemmelse med DS/EN 13782, eller på en måde, som sikrer, at de relevante bestemmelser i [§§ 344-351](/tekniske-bestemmelser/15/krav/344/) er opfyldt.
 
 Det fremgår endvidere af [kap. 15](/tekniske-bestemmelser/15/), [§ 355](/tekniske-bestemmelser/15/krav/355/), at teleskopstande og demonterbare tilskuertribuner skal dimensioneres i overensstemmelse med DS/EN 13200-5 og DS/EN 13200-6.
 
@@ -68,7 +68,7 @@ For hjælp til forståelsen af de særlige forhold, der ofte knytter sig til dim
 
 ### Undtagelser {#undtagelser}
 
-Det fremgår af bygningsreglementet 2018, [kap. 15](/tekniske-bestemmelser/15/), [§ 356](/tekniske-bestemmelser/15/krav/356/), at [§ 344, stk. 2](/tekniske-bestemmelser/15/krav/344/), til § 351 samt [§§ 353-355 k](/tekniske-bestemmelser/15/krav/353/)an fraviges, hvis det på anden vis sikres og dokumenteres, at en afvigelse er forsvarlig, og der opnås et sikkerhedsniveau, som beskrevet i [§ 344, stk. 2, nr. 1](/tekniske-bestemmelser/15/krav/344/).
+Det fremgår af bygningsreglementet 2018, [kap. 15](/tekniske-bestemmelser/15/), [§ 356](/tekniske-bestemmelser/15/krav/356/), at [§ 344, stk. 2](/tekniske-bestemmelser/15/krav/344/), til § 351 samt [§§ 353-355](/tekniske-bestemmelser/15/krav/353/) kan fraviges, hvis det på anden vis sikres og dokumenteres, at en afvigelse er forsvarlig, og der opnås et sikkerhedsniveau, som beskrevet i [§ 344, stk. 2, nr. 1](/tekniske-bestemmelser/15/krav/344/).
 
 En afvigelse fra standarderne i de nævnte bestemmelser kræver som udgangspunkt, at materialestyrke, brudmekaniske modeller og materialeparametre dokumenteres for afvigelsen.
 

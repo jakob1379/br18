@@ -25,7 +25,7 @@ Dokumentation af brandforhold for byggeri i brandklasse 2-4 skal omfatte:
 
 2) Sluterklæring, jf. [§ 509](/ovrige-bestemmelser/29/krav/506_522/).
 
-3) Oplysninger om og dokumentation for, hvorledes byggeriet opfylder [§§ 126-133 v](/tekniske-bestemmelser/05/krav/126_133/)edrørende redningsberedskabets indsatsforhold, herunder hvorvidt byggeriet er indsatstaktisk traditionelt, jf. [§ 510](/ovrige-bestemmelser/29/krav/506_522/).
+3) Oplysninger om og dokumentation for, hvorledes byggeriet opfylder [§§ 126-133](/tekniske-bestemmelser/05/krav/126_133/) vedrørende redningsberedskabets indsatsforhold, herunder hvorvidt byggeriet er indsatstaktisk traditionelt, jf. [§ 510](/ovrige-bestemmelser/29/krav/506_522/).
 
 4) Oplysning om og dokumentation for indplacering i brandklasser, jf. [§ 511](/ovrige-bestemmelser/29/krav/506_522/).
 
@@ -67,7 +67,7 @@ Dokumentation af brandforhold for byggeri i brandklasse 2-4 skal omfatte:
 
 a\) Indplacering i brandklasser, jf. [§ 511](/ovrige-bestemmelser/29/krav/506_522/).
 
-b) Hvorledes byggeriet opfylder [§§ 126-133 v](/tekniske-bestemmelser/05/krav/126_133/)edrørende redningsberedskabets indsatsforhold, herunder hvorvidt byggeriet er indsatstaktisk traditionelt, jf. [§ 510](/ovrige-bestemmelser/29/krav/506_522/).
+b) Hvorledes byggeriet opfylder [§§ 126-133](/tekniske-bestemmelser/05/krav/126_133/) vedrørende redningsberedskabets indsatsforhold, herunder hvorvidt byggeriet er indsatstaktisk traditionelt, jf. [§ 510](/ovrige-bestemmelser/29/krav/506_522/).
 
 2\) At der er valgt de korrekte brandklasser, og at dokumentationen herfor er retvisende, jf. [§ 511](/ovrige-bestemmelser/29/krav/506_522/).
 
@@ -119,7 +119,7 @@ særlig kontrol anførte kontroller er gennemført, og at de ved kontrollen fund
 
 Ved oplysning om og dokumentation for, at byggeriet er indsatstaktisk traditionelt, skal det dokumenteres på brandplanerne, at byggeriet er udført i overensstemmelse med Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) -- Brand, vedrørende redningsberedskabets indsatsmuligheder.
 
-*Stk. 2.* For byggeri, som ikke er indsatstaktisk traditionelt, skal det på anden vis dokumenteres, at bestemmelserne i bygningsreglementets [kapitel 5](/tekniske-bestemmelser/05/) [§§ 126-133 e](/tekniske-bestemmelser/05/krav/126_133/)r opfyldt.
+*Stk. 2.* For byggeri, som ikke er indsatstaktisk traditionelt, skal det på anden vis dokumenteres, at bestemmelserne i bygningsreglementets [kapitel 5](/tekniske-bestemmelser/05/) [§§ 126-133](/tekniske-bestemmelser/05/krav/126_133/) er opfyldt.
 
 ### § 511 {#paragraf-511}
 
@@ -201,9 +201,7 @@ Funktionsbeskrivelsen skal beskrive, hvilke brandsikringstiltag, der er nødvend
 
 ### § 518 {#paragraf-518}
 
-Den brandtekniske kontrolplan for design af brandforhold skal beskrive de krav, der er til kontrol, jf.
-
-[kapitel 30](/ovrige-bestemmelser/30/). I kontrolplanen skal niveauet for kontrol af dokumentation for design af brandforhold svare til den brandklasse, som byggearbejdet er indplaceret i.
+Den brandtekniske kontrolplan for design af brandforhold skal beskrive de krav, der er til kontrol, jf. [kapitel 30](/ovrige-bestemmelser/30/). I kontrolplanen skal niveauet for kontrol af dokumentation for design af brandforhold svare til den brandklasse, som byggearbejdet er indplaceret i.
 
 *Stk. 2.* Den brandtekniske kontrolplan for projektering og udførelse af brandsikringstiltag skal beskrive de krav, der er til særlig kontrol og almen kontrol, jf. [kapitel 30](/ovrige-bestemmelser/30/). I kontrolplanen skal niveauet for særlig kontrol og almen kontrol af projektering og udførelse af brandsikringstiltag svare til henholdsvis den brandklasse og risikoklasse, som det enkelte bygningsafsnit er indplaceret i.
 
@@ -234,4 +232,3 @@ Dokumentation for brandforhold for byggeri, som er indplaceret i brandklasse 1, 
 ### § 522 {#paragraf-522}
 
 (Ophævet).
-

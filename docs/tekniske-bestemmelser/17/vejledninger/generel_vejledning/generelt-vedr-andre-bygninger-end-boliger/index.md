@@ -93,9 +93,7 @@ De følgende lydtekniske begreber og henvisninger til akustiske målestandarder 
 
 Bygningsdeles evne til at isolere mod luftlydtransmission i en bygning angivet som et enkelt tal i form af det vægtede reduktionstal, *R\'~w~*, med eller uden en spektral korrektion, *C~50-3150~*, udtrykt i decibel (dB).
 
-Grænseværdier er relateret til feltmålinger i 1/3-oktavbånd udført i henhold til
-
-DS/EN ISO 16283-1 og vurderingsværdier i henhold til DS/EN ISO 717-1.
+Grænseværdier er relateret til feltmålinger i 1/3-oktavbånd udført i henhold til DS/EN ISO 16283-1 og vurderingsværdier i henhold til DS/EN ISO 717-1.
 
 Når den spektrale korrektion, *C~50-3150~*, anvendes, angives resultaterne som *R\'~w~* + *C~50-3150~* i henhold til DS/EN ISO 717-1.
 
@@ -109,9 +107,7 @@ Når den spektrale korrektion, *C~I,50-2500~*, anvendes, angives resultaterne so
 
 **Lydtrykniveau**
 
-Resultat af en lydmåling udført med en lydtrykmåler; målestørrelsen er oftest det
-
-A-vægtede, ækvivalente lydtrykniveau, *L~Aeq~* udtrykt i decibel (dB).
+Resultat af en lydmåling udført med en lydtrykmåler; målestørrelsen er oftest det A-vægtede, ækvivalente lydtrykniveau, *L~Aeq~* udtrykt i decibel (dB).
 
 Støj fra trafik beregnes og karakteriseres ved størrelsen *L~den~*, som giver et mål for støjgenen fra trafikken.
 
@@ -213,9 +209,7 @@ Balkoner, hemse og lignende i dobbelthøje rum skal ikke umiddelbart medregnes i
 
 I de følgende publikationer er det muligt at finde yderligere information om lydbestem­melser i og omkring bygninger til boliger, undervisnings- og daginstitutioner og andre formål.
 
-**Referencer til de publikationer, der henvises til i denne vejledning og i Bygnings-
-
-reglementets afsnit om akustisk indeklima, er gengivet her:**
+**Referencer til de publikationer, der henvises til i denne vejledning og i Bygningsreglementets afsnit om akustisk indeklima, er gengivet her:**
 
 \[1\]      Bygningsreglement 2018. BR2018.
 
@@ -249,9 +243,7 @@ reglementets afsnit om akustisk indeklima, er gengivet her:**
 
 \[15\]    SBi-anvisning 244 (2014): *Lydisolering af klimaskærmen*.
 
-Inspiration til fastlæggelse af projekteringsværdier i kontorbyggeri, hospitaler mv. kan fx
-
-findes i:
+Inspiration til fastlæggelse af projekteringsværdier i kontorbyggeri, hospitaler mv. kan fx findes i:
 
 \[16\]    NS 8175:2019: *Lydforhold i bygninger, Lydklassifisering for ulike bygningstyper*, Norge.
 
@@ -280,5 +272,3 @@ DS/EN ISO 12354-3:2017: *Bygningsakustik. Beregning af bygningers akustiske ege
 DS/EN 12354-6:2004: *Bygningsakustik - Beregning af bygningers akustiske egenskaber ud fra *bygningselementernes* egenskaber - Del 6: Lydabsorption i lukkede rum*
 
 DS/EN ISO 3382-2:2008: *Akustik - Måling af rumakustiske parametre - Del 2: Efterklangstid i almindelige rum*. Amendment DS/EN ISO 3382-2/AC:2009
-
-

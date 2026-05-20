@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg)
@@ -74,11 +70,7 @@ Derudover følger det af § 2, stk. 1, at byggeloven finder anvendelse ved:
 
 • Ændringer i benyttelse af bebyggelse, som er væsentlige i forhold til bestemmelser i loven eller de medfør af loven udfærdigede bestemmelser.
 
-Udgangspunktet i byggeloven er derfor, at både ombygningsarbejder og anvendelsesændringer kræver ansøgning om byggetilladelse, jf. byggelovens § 16, stk. 1. Der kan dog fastsættes regler om indskrænkning i kravene om tilladelser i bygningsreglementet, jf. byggelovens
-
-### § 16 B {#paragraf-16b}
-
-, stk. 1. Denne hjemmel er blandt andet udnyttet i BR18 § 5, stk. 1, nr. 2-4, hvoraf det følger, at en række ombygningsarbejder kan foretages uden ansøgning om byggetilladelse.
+Udgangspunktet i byggeloven er derfor, at både ombygningsarbejder og anvendelsesændringer kræver ansøgning om byggetilladelse, jf. byggelovens § 16, stk. 1. Der kan dog fastsættes regler om indskrænkning i kravene om tilladelser i bygningsreglementet, jf. byggelovens § 16 B, stk. 1. Denne hjemmel er blandt andet udnyttet i BR18 § 5, stk. 1, nr. 2-4, hvoraf det følger, at en række ombygningsarbejder kan foretages uden ansøgning om byggetilladelse.
 
 Læs mere om dette nedenfor i afsnit 2.2.4 eller i [Vejledning om ombygninger](../../vejledning-om-ombygning-og-brug-af-certificerede-raadgivere "Vejledning om ombygning og brug af certificerede raadgivere")
 
@@ -540,15 +532,7 @@ Ved afslutning af et byggeri, hvortil der er meddelt byggetilladelse, skal der s
 
 Ved færdigmelding skal der indsendes en erklæring om, at det færdige byggeri er i overensstemmelse med byggetilladelsen og bygningsreglementet. Ved færdigmelding af et byggeri skal ansøger indsende følgende:
 
-- Dokumentation for, at der er tegnet byggeskadeforsikring, og at præmien er betalt, jf. byggelovens
-
-### § 25 C {#paragraf-25c}
-
-, stk. 2, for byggeri omfattet af byggelovens
-
-### § 25 {#paragraf-25}
-
-  A. [Læs mere om byggeskadeforsikring her](../../../../vejledninger/andre_vejledninger/vejledning/byggeskadeforsikring "Byggeskadeforsikring").
+- Dokumentation for, at der er tegnet byggeskadeforsikring, og at præmien er betalt, jf. byggelovens § 25 C, stk. 2, for byggeri omfattet af byggelovens § 25 A. [Læs mere om byggeskadeforsikring her](../../../../vejledninger/andre_vejledninger/vejledning/byggeskadeforsikring "Byggeskadeforsikring").
 - Erklæring om, at det færdige byggeri er i overensstemmelse med byggetilladelsen og bygningsreglementet. Det er bygningsejeren, der har ansvaret for, at det færdige byggeri er lovligt. Ved afslutning af byggesagen skal det derfor erklæres, at byggeriet er udført i overensstemmelse med byggetilladelsen og bygningsreglementet, hvilket sker igennem Byg & Miljø. Denne erklæring giver ikke bygningsejeren et større eller mindre ansvar, end der allerede følger af byggeloven.
 - Dokumentation for overholdelse af bygningsreglementets bestemmelser i den færdige bygning. Dokumentationen skal bestå af al for byggeriet relevant materiale, herunder overordnede beskrivelser, forudsætninger, beregninger, tegningsmateriale, prøvninger, målinger mv. Det skal ved det fremsendte dokumenteres, hvordan specifikke niveauer er fastsat på baggrund af bygningsreglementets funktionskrav, og hvordan de specifikke niveauer eller detailkrav i bygningsreglementet opfyldes. Dokumentation for det færdige byggeri afhænger af byggeriets karakter og vil derfor variere meget fra sag til sag. Den dokumentation, der indsendes ved færdigmelding, skal svare til det, ansøger har erklæret, at byggeriet var omfattet af ved ansøgning om byggetilladelse. Det forudsættes, at der ikke er foretaget væsentlige ændringer i forhold til den meddelte byggetilladelse undervejs, da dette ville kræve fornyet behandling af kommunalbestyrelsen. Det er ikke muligt at lave en udtømmende liste over dokumentation, der skal indsendes for det færdige byggeri. Der kan dog vejledende henvises til oversigten over den dokumentation, som kommunalbestyrelsen skal påse ved stikprøvekontrollen. Se mere om dette nedenfor.
 - Drift- og vedligeholdelsesmanual for byggeriets installationer, herunder afløbsinstallationer, jf. § 80, energiforsyningsanlæg i tilknytning til bygninger, jf. § 328, termisk indeklima og installationer til varme- og køleanlæg, jf. § 392, vand, jf. § 419, og ventilation, jf. § 452.
@@ -876,4 +860,3 @@ En klage over kommunalbestyrelsens afgørelse efter byggeloven har som udgangspu
 Det er Nævnenes Hus, der afgør, om betingelserne for klage efter byggeloven er opfyldt.
 
 Der er ikke anden administrativ klageadgang efter byggeloven, og kommunalbestyrelsens og Nævnenes Hus' afgørelser kan derfor ikke påklages til Transport-og Boligministeriet. Der kan anlægges en civil sag ved domstolene inden for seks måneder efter den dag, hvor afgørelsen er meddelt sagens parter, jf. byggelovens § 25, stk. 1.
-

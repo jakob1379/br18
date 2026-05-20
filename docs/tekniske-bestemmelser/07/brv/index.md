@@ -26,7 +26,7 @@ Det overordnede krav til byggepladser fremgår af bygningsreglementet 2018, [kap
 2. Ikke opstår væsentlige gener for naboer, på vej og fortovsarealer.
 3. Tages højde for vejrforhold.
 
-I [§§ 162-165 u](/tekniske-bestemmelser/07/krav/)ddybes kravene til byggepladsen og udførelse af byggearbejde.
+I [§§ 162-165](/tekniske-bestemmelser/07/krav/) uddybes kravene til byggepladsen og udførelse af byggearbejde.
 
 ### Planlægning og udførelse af byggearbejder {#planlaegning-og-udfoerelse-af-byggearbejder}
 

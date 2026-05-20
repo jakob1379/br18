@@ -163,63 +163,43 @@ Derudover indeholder DS-håndbog 105:2012 en række retningslinjer for planlægn
 
 [![](../../../../../assets/img/linkbox/ds_en_tr_linkbox.svg)](# "#title")
 
-####
-
-DS/CEN/TR 16879:2016 - Placering af legeplads- og andre fritidsfaciliteter -- Rådgivning om metoder til placering og adskillelse
-
-####
+#### DS/CEN/TR 16879:2016 - Placering af legeplads- og andre fritidsfaciliteter -- Rådgivning om metoder til placering og adskillelse
 
 Denne tekniske rapport giver råd om placering og mulige metoder til adskillelse mellem rekreative faciliteter, der benyttes af forskellige aldersgrupper og har forskellige risikoniveauer.
 
-#### Køb standarden her [](https://webshop.ds.dk/da-dk/standard/ds-cen-tr-168792016){target="_blank"}
+#### [Køb standarden her](https://webshop.ds.dk/da-dk/standard/ds-cen-tr-168792016){target="_blank"}
 
 [![](../../../../../assets/img/linkbox/ds_en_tr_linkbox.svg)](# "#title")
 
-####
-
-DS/CEN/TR 16467:2013 - Legepladsudstyr tilgængeligt for alle børn
-
-####
+#### DS/CEN/TR 16467:2013 - Legepladsudstyr tilgængeligt for alle børn
 
 Denne tekniske rapport indeholder guidelines til at udforme legeområder der giver børn med forskellige niveauer af funktionsnedsættelse mulighed for at lege selvstændigt og med passende niveauer af udfordringer og risici
 
-#### Køb standarden her: [Køb standarden her:](https://webshop.ds.dk/da-dk/standard/ds-cen-tr-164672013){target="_blank"}
+#### [Køb standarden her](https://webshop.ds.dk/da-dk/standard/ds-cen-tr-164672013){target="_blank"}
 
 [![](../../../../../assets/img/linkbox/ds_en_tr_linkbox.svg)](# "#title")
 
-####
-
-DS/CEN/TR 16598:2023 - Samling af rationaler for EN 1176 -- Krav
-
-####
+#### DS/CEN/TR 16598:2023 - Samling af rationaler for EN 1176 -- Krav
 
 Denne tekniske rapport indeholder rationaler bag EN 1176 serien, der har til formål, at undgå situationer, hvor et barn på grund af sin alder, evne eller udviklingsstadium ikke er i stand til at forstå en risiko på legepladser mv.
 
-#### Køb standarden her [Køb standarden her](https://webshop.ds.dk/standard/M365218/ds-cen-tr-16598-2023%20){target="_blank"}
+#### [Køb standarden her](https://webshop.ds.dk/standard/M365218/ds-cen-tr-16598-2023%20){target="_blank"}
 
 [![](../../../../../assets/img/linkbox/ds_en_tr_linkbox.svg)](# "#title")
 
-####
-
-DS/CEN/TR 16396:2020 - Legepladsredskaber til børn -- Svar på forespørgsler om fortolkning af EN 1176-serien.
-
-####
+#### DS/CEN/TR 16396:2020 - Legepladsredskaber til børn -- Svar på forespørgsler om fortolkning af EN 1176-serien.
 
 Denne tekniske rapport indeholder svar på anmodninger om fortolkninger vedrørende forståelsen af EN 1176 serien.
 
-#### Køb standarden her [Køb standarden her](https://webshop.ds.dk/standard/M335885/ds-cen-tr-16396-2020){target="_blank"}
+#### [Køb standarden her](https://webshop.ds.dk/standard/M335885/ds-cen-tr-16396-2020){target="_blank"}
 
 [![](../../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
 
-####
-
-DS-håndbog 105:2012 - Udearealer for alle - sådan planlægges et tilgængeligt udemiljø
-
-####
+#### DS-håndbog 105:2012 - Udearealer for alle - sådan planlægges et tilgængeligt udemiljø
 
 Denne håndbog indeholder bl.a. information og eksempler på adgangsforhold til legepladser.
 
-#### Køb håndbogen her [Køb håndbogen her](https://webshop.ds.dk/Default.aspx?ID=120&GroupID=11.180.01&ProductID=M266059){target="_blank"}
+#### [Køb håndbogen her](https://webshop.ds.dk/Default.aspx?ID=120&GroupID=11.180.01&ProductID=M266059){target="_blank"}
 
 ### Drift, kontrol og vedligehold {#9010be35-e1df-4a55-919d-9ce0c4978514}
 
@@ -230,4 +210,3 @@ Det påhviler den til enhver tid værende ejer at vedligeholde og reparere sine 
 Ejeren bør foranledige, at der bliver udført en rutinemæssig visuel inspektion på dagligt eller ugentligt basis eller efter behov, samt en driftinspektion med et mellemrum på 1-3 måneder. Ejeren bør dernæst foranledige, at der bliver udført årlig hovedinspektion af en certificeret legepladsinspektør eller anden kompetent person. Der bør blandt andet testes for halsklem- hovedklem- og snorefælder i forbindelse med årlig hovedinspektion. Endelig bør stabilitet og underlag kontrolleres i forbindelse med både drifts og årlig hovedinspektion.
 
 I forbindelse med vedligehold bør mekaniske dele som for eksempel bolte, beslag og skruer undersøges og efterspændes, dernæst bør beskadiget dele repareres eller udskiftes og bevægelige dele smøres efter behov. Opmærksomheden bør i øvrigt henledes på producentens anvisninger vedrørende drift, inspektion og vedligehold.
-

@@ -378,9 +378,7 @@ Ombygning og andre forandringer i bygningen skal opfylde kravene til U-værdier
   Samling mellem tagkonstruktion og ovenlysvinduer eller ovenlyskupler    0,10
   ----------------------------------------------------------------------- -------------------------
 
--  [Gå til Bilag 2: Tabeller til kapitel 11 - Energiforbrug (Tabel 1 -
-
-5)](../../../../historisk/br18_version2/bilag/b2/bilag_2/tabel_1#4bdb0dc8-ed98-45e5-b1fd-4b90048e86fa){target="_blank"}
+-  [Gå til Bilag 2: Tabeller til kapitel 11 - Energiforbrug (Tabel 1-5)](../../../../historisk/br18_version2/bilag/b2/bilag_2/tabel_1#4bdb0dc8-ed98-45e5-b1fd-4b90048e86fa){target="_blank"}
 -  [Gå til BR-vejledning om energikrav ved ombygninger og udskiftninger af bygningsdele](../../../../historisk/br18_version7/tekniske-bestemmelser/11/brv/energiforbrug/kap-4_0#3a520add-ecb5-493c-acdb-5b8b4ade195c){target="_blank"}
 
 ## § 280 - § 282 Renoveringsklasser for eksisterende bygninger {#794cbbfb-74ff-4078-933c-43679ab3e5ca}
@@ -706,4 +704,3 @@ For byggeri, som er omfattet af § 297 må klimapåvirkningen fra modulerne A1-A
 9.  534 - Tribune i forbindelse med stadion.
 
 *Stk. 10.* Forsvarets operative bygninger er undtaget fra § 298.
-

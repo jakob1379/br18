@@ -221,9 +221,7 @@ Såfremt certificeringsorganet på baggrund af recertificering vurderer, at den 
 
 En statiker og brandrådgiver, der er certificeret jf. bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet (certificeringsbekendtgørelsen) bliver løbende kontrolleret af det certificeringsorgan, som har certificeret vedkommende.
 
-Certificeringsorganet kan fratage en certificeret statiker eller brandrådgiver deres certificering (jf. certificeringsbekendtgørelsen §
-
-38), såfremt certificeringsorganet fx i forbindelse med den årlige kontrol af den certificeredes virke eller ved en konkret anmeldelse af den certificerede finder, at 
+Certificeringsorganet kan fratage en certificeret statiker eller brandrådgiver deres certificering (jf. certificeringsbekendtgørelsen § 38), såfremt certificeringsorganet fx i forbindelse med den årlige kontrol af den certificeredes virke eller ved en konkret anmeldelse af den certificerede finder, at 
 
 1.  Den certificerede statiker eller brandrådgiver ikke inden for en af certificeringsorganet fastsat frist kan dokumentere, at betingelserne for certificering er opfyldt.
 2.  Certificeringsorganet på baggrund af den udførte kontrol ikke finder, at den certificerede statiker eller brandrådgiver lever op til betingelserne for certificering.
@@ -234,22 +232,18 @@ Såfremt et certificeringsorgan fratager en certificeret statiker eller brandrå
 
 Hvorvidt en certificeret rådgiver er forpligtet til at orientere nuværende og tidligere kunder om en frataget certificering reguleres ikke i byggelovgivningen, men kan være en del af den privatretlige aftale, der er indgået med den certificerede rådgiver i forbindelse med konkrete byggeprojekter.
 
-**Byggesag med byggetilladelse\**
+**Byggesag med byggetilladelse**
 Såfremt en certificeret statiker eller brandrådgiver får frataget sin certificering, mens vedkommende virker som certificeret på en igangværende byggesag, hvortil der er givet byggetilladelse, skal bygningsejer udpege en ny certificeret statiker eller brandrådgiver, der er certificeret til at kunne virke i den klasse, som projektet er indplaceret i jf. byggetilladelsen.
 
 Bygningsejer skal iht. BR18, § 37 oplyse kommunalbestyrelsen om udpegning af ny certificeret statiker eller brandrådgiver samt indsende dokumentation herfor i form af kopi af den udpegende certificerede statiker eller brandrådgivers certifikat.
 
 Såfremt forudsætningerne for byggetilladelsen ikke længere er tilstede, skal bygningsejer iht. BR18, § 37, stk. 2, oplyse kommunalbestyrelsen herom.
 
-Projektet overdrages (jf. BR18, § 544, stk. 3 eller § 551, stk.
+Projektet overdrages (jf. BR18, § 544, stk. 3 eller § 551, stk. 3) til den nye udpegede certificeret statiker eller brandrådgiver.
 
-3) til den nye udpegede certificeret statiker eller brandrådgiver.
+Dette betyder i praksis, at den nye certificerede statiker eller brandrådgiver, der overtager projektet skal foretage en maksimal (MAX) kontrol af den dokumentation, der overdrages, svarende til virket for certificeret statiker eller brandrådgiver som kontrollant, idet der ikke kan foreligge en gyldig overdragelseserklæring fra den overdragende certificerede statiker eller brandrådgiver (jf. BR18, § 544, stk. 1 eller § 551 stk. 1), da denne ikke længere er certificeret.
 
-Dette betyder i praksis, at den nye certificerede statiker eller brandrådgiver, der overtager projektet skal foretage en maksimal (MAX) kontrol af den dokumentation, der overdrages, svarende til virket for certificeret statiker eller brandrådgiver som kontrollant, idet der ikke kan foreligge en gyldig overdragelseserklæring fra den overdragende certificerede statiker eller brandrådgiver (jf. BR18, § 544, stk. 1 eller § 551 stk.
-
-1), da denne ikke længere er certificeret.
-
-**Byggesag med ibrugtagningstilladelse\**
+**Byggesag med ibrugtagningstilladelse**
 Såfremt en certificeret statiker eller brandrådgiver får frataget sin certificering, kan der være projekter, hvor vedkommende har virket som certificeret inden for det seneste år og som allerede har fået en ibrugtagningstilladelse.
 
 Kommunen vil tillige for sådanne projekter blive orienteret af certificeringsorganet, om at den certificerede statiker eller brandrådgiver, der har virket på disse projekter, har fået frataget sin certificering. Kommunen vil i sådanne tilfælde ikke få oplyst årsagen hertil.
@@ -257,4 +251,3 @@ Kommunen vil tillige for sådanne projekter blive orienteret af certificeringsor
 For sådanne projekter vil det være op til den enkelte kommune at afgøre om og i evt. hvilket omfang der skal ageres.
 
 Såfremt kommunen for sådanne projekter finder forhold, der ikke overholder bygningsreglementets krav skal kommunen sørge for at lovliggøre byggeriet. Der henvises til bygningsreglementets vejledning om lovliggørelse af ulovligt byggeri.
-

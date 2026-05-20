@@ -2,27 +2,19 @@
 
 [Kap. 1](../kap_1/)
 
-## Administrative bestemmelser (§ 1 - §
-
-47)
+## Administrative bestemmelser (§ 1 - § 47)
 
 [Kap. 2](../kap_2/)
 
-## Adgangsforhold (§ 48 - §
-
-62)
+## Adgangsforhold (§ 48 - § 62)
 
 [Kap. 3](../kap_3/)
 
-## Affaldssystemer (§ 63 - §
-
-68)
+## Affaldssystemer (§ 63 - § 68)
 
 [Kap. 4](../kap_4/)
 
-## Afløb (§ 69 - §
-
-81)
+## Afløb (§ 69 - § 81)
 
 [Kap. 5](../kap_5/)
 
@@ -116,7 +108,9 @@
 
 ## Brandklasser (§ 490 - § 493)
 
-[Vejledning om indplacering i brandklasser](../../../../ovrige-bestemmelser/27/brv/indplacering-i-brandklasser/){rel="noopener noreferrer" target="_blank"} [Kap. 28](../kap_28/)
+[Vejledning om indplacering i brandklasser](../../../../ovrige-bestemmelser/27/brv/indplacering-i-brandklasser/){rel="noopener noreferrer" target="_blank"}
+
+[Kap. 28](../kap_28/)
 
 ## Dokumentation af bærende konstruktioner (§ 494 - § 505)
 
@@ -147,4 +141,3 @@
 [Kap. 35](../kap_35/)
 
 ## Anerkendelse af statikere (§ 552 - § 563)
-

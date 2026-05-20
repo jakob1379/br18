@@ -30,17 +30,11 @@ Valget af bebyggelsestype spiller en afgørende rolle for kompaktheden af bebygg
 
 Karrébebyggelsen, længehusbebyggelsen og punkthusbebyggelsen repræsenterer tre principielt forskellige bebyggelsestyper.
 
-Karrébebyggelsen (ill. 03,
+Karrébebyggelsen (ill. 03, a) skaber indre gårdrum, hvor der kan etableres halvprivate fællesområder med mulighed for både rekreative arealer, legeområder og funktioner som tørrepladser. Karrébebyggelsen har den udfordring, at orienteringen i forhold til sol varierer for boligerne i karréen, og at bebyggelsens huskroppe kan skygge for lys i andre dele af bebyggelsens nederste etager, afhængigt af karréens størrelse og husenes højde.
 
-a) skaber indre gårdrum, hvor der kan etableres halvprivate fællesområder med mulighed for både rekreative arealer, legeområder og funktioner som tørrepladser. Karrébebyggelsen har den udfordring, at orienteringen i forhold til sol varierer for boligerne i karréen, og at bebyggelsens huskroppe kan skygge for lys i andre dele af bebyggelsens nederste etager, afhængigt af karréens størrelse og husenes højde.
+Det langstrakte længehus eller rækkehus (ill. 03, b) kan planlægges med ankomstområde foran bebyggelsen, hvor der fx kan etableres opbevaringsrum eller udendørs opholdsområder, som kan lægge op til uformelle møder med naboerne. Ligesom der til den modsatte side af bebyggelsen kan etableres et mere privat område til fritidsaktiviteter, leg og udendørsophold. Længehusbebyggelsen kan give mulighed for at sikre en orientering af boligerne i forhold til solen og dermed skabe variation i dagslyset i boligerne hen over dagen.
 
-Det langstrakte længehus eller rækkehus (ill. 03,
-
-b) kan planlægges med ankomstområde foran bebyggelsen, hvor der fx kan etableres opbevaringsrum eller udendørs opholdsområder, som kan lægge op til uformelle møder med naboerne. Ligesom der til den modsatte side af bebyggelsen kan etableres et mere privat område til fritidsaktiviteter, leg og udendørsophold. Længehusbebyggelsen kan give mulighed for at sikre en orientering af boligerne i forhold til solen og dermed skabe variation i dagslyset i boligerne hen over dagen.
-
-I punkthusbebyggelsen (ill. 03,
-
-c) er boligen placeret mere frit i et åbent område. Dette giver gode muligheder for plads til leg og ophold mellem husene, men også mindre klart definerede grænser for, hvad der er private eller halvprivate zoner.
+I punkthusbebyggelsen (ill. 03, c) er boligen placeret mere frit i et åbent område. Dette giver gode muligheder for plads til leg og ophold mellem husene, men også mindre klart definerede grænser for, hvad der er private eller halvprivate zoner.
 
 Punkthusbebyggelsen giver mulighed for at orientere alle boliger i forhold til dagslys og fx prioritere at have opholdsrum, der er orienteret mod syd/sydvest.
 
@@ -99,4 +93,3 @@ c) punkthusbebyggelsen.
 ### At bade {#9d95ee42-38e2-41d4-ae53-1d23da54a544}
 
 ### Appendix: Litteratur
-

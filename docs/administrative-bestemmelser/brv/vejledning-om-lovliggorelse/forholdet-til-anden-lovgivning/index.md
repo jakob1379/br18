@@ -1,10 +1,6 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -63,4 +59,3 @@ Det fremgår af BR18 [§ 35, stk. 2](/administrative-bestemmelser/krav/35_38/), 
 Kommunen må være berettiget til at meddele afslag på retligt lovliggørende byggetilladelse alene med henvisning til, at der ikke er opnået tilladelse eller dispensation efter denne anden lovgivning. Hvis afslag på retlig lovliggørelse gives med denne begrundelse, kan kommunen være forpligtet til at udsætte sagen på behandling af spørgsmålet om retlig lovliggørelse efter denne anden lovgivning.
 
 ### Særligt om lovliggørelse i forbindelse med bygningers klimapåvirkning
-
