@@ -8,7 +8,7 @@
 
 ## Vejledning om klimasikring
 
-[Vejledning om byggeri i kystnære områder - til bygherrer vedrørende sikring mod stormflod og vandstigninger](../../../Historisk/BR18_Version3/Vejledninger/Klimasikring/Vejledning_Klimasikring/Byygeri_i_kystnaere_omraader/2_2){rel="noopener" target="_blank"}
+[Vejledning om byggeri i kystnære områder - til bygherrer vedrørende sikring mod stormflod og vandstigninger](../../../../historisk/br18_version3/vejledninger/klimasikring/vejledning_klimasikring/byygeri_i_kystnaere_omraader/2_2){rel="noopener" target="_blank"}
 
 ## Vejledning til bekendtgørelse om forberedelse til og etablering af ladestandere i forbindelse med bygninger (ladestanderbekendtgørelsen)
 

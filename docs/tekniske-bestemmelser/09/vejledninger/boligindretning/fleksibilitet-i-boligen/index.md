@@ -2,9 +2,9 @@
 
 ## Se alle vejledninger om Bygningens indretning (§ 196 - § 241)
 
-- [Spørgsmål og svar om bygningens indretning](../qa)
+- [Spørgsmål og svar om bygningens indretning](../../qa)
 - [Vejledning om boligindretning](./)
-- [Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger](../bygningsglas)
+- [Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger](../../bygningsglas)
 
 ## Vejledning om boligindretning
 
@@ -34,7 +34,7 @@ Den elastiske bolig: Her kan boligen ændre størrelse efter behov. Det kan ske 
 
 ###
 
-![](../../../../media/qp1pja0y/illustration-01-br-vejledning-om-boligindretning.png)
+![](../../../../../media/qp1pja0y/illustration-01-br-vejledning-om-boligindretning.png)
 
 Illustration 01 BR vejledning om boligindretning
 

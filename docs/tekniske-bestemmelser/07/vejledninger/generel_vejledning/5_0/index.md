@@ -3,7 +3,7 @@
 ## Se alle vejledninger om Byggepladsen og udførelsen af Byggearbejder (§ 161 - § 165)
 
 - [Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder](./)
-- [Vejledning om brandværnsforanstaltninger for skurbyer og lignende på byggepladser](../brandvarnforanstaltninger)
+- [Vejledning om brandværnsforanstaltninger for skurbyer og lignende på byggepladser](../../brandvarnforanstaltninger)
 
 ## Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder
 
@@ -63,7 +63,7 @@ Kravet kan f.eks. opfyldes ved:
 
 \- At bygherren ved udbud i fagentrepriser for- anstalter fælles faciliteter til opbevaring af fugtfølsomme materialer.
 
-[![](../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
 
 ####
 

@@ -16,9 +16,9 @@
 
 Dette dokument indeholder det generiske datagrundlag for modulerne A1-A3, C3-C4 og D, jf. § 297, stk. 7.
 
-Ved anvendelsen af datagrundlaget anvendes det mest repræsentative datasæt for materialet. Såfremt der ikke findes et repræsentativt datasæt, anvendes data for de forskellige delkomponenter. Dog kan der altid anvendes en opgørelse af mængde råmateriale hvor dette fremgår af kolonnen Detaljeringsniveau i [bilag 2, tabel 6](../../../media/4rqdskud/tabel-6-2025.xlsx "Tabel 6 (2025)"){rel="noopener" target="_blank"}.
+Ved anvendelsen af datagrundlaget anvendes det mest repræsentative datasæt for materialet. Såfremt der ikke findes et repræsentativt datasæt, anvendes data for de forskellige delkomponenter. Dog kan der altid anvendes en opgørelse af mængde råmateriale hvor dette fremgår af kolonnen Detaljeringsniveau i [bilag 2, tabel 6](../../../../media/4rqdskud/tabel-6-2025.xlsx "Tabel 6 (2025)"){rel="noopener" target="_blank"}.
 
-[Download bilag 2, tabel 7 som excel-fil her](../../../media/1o1nnozd/tabel-7-2025.xlsx "Tabel 7 (2025)"){rel="noopener" target="_blank"}.
+[Download bilag 2, tabel 7 som excel-fil her](../../../../media/1o1nnozd/tabel-7-2025.xlsx "Tabel 7 (2025)"){rel="noopener" target="_blank"}.
 
 For så vidt angår tekniske installationer kan bygningsejer som alternativ til opgørelse af anvendte mængder vælge at opgøre klimapåvirkningen for bygningen på basis af de standardværdier, som fremgår nederst i datasættet, markeret med S før talværdien.
 

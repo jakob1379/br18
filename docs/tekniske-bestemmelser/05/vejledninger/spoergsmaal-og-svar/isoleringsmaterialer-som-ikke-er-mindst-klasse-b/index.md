@@ -136,7 +136,7 @@ Den certificerede brandrådgivers virke omfatter således ikke udarbejdelse af d
 
 Der skal i dette tilfælde søges byggetilladelse, da det anses for en væsentlig anvendelsesændring, og der skal benyttes en certificeret rådgiver, idet byggeriet ikke kan indplaceres i brandklasse 1.
 
-I forbindelse med en ombygningssag kan man tage udgangspunkt i kapitel 1: Generelt om sikkerhed ved brand, afsnit 1.6.9, der er en del af *[Bygningsreglementets vejledning til kapitel 5 -- Brand](../../../../../Tekniske-bestemmelser/05/Vejledninger/Generel_Brand)*. Her er der angivet retningslinjer og eksempler på afgrænsninger ved ombygninger, tilbygninger og anvendelsesændringer. Disse retningslinjer er gældende både for byggeri, hvor der skal søges om byggetilladelse, og byggeri, hvor der ikke skal om søges byggetilladelse.
+I forbindelse med en ombygningssag kan man tage udgangspunkt i kapitel 1: Generelt om sikkerhed ved brand, afsnit 1.6.9, der er en del af *[Bygningsreglementets vejledning til kapitel 5 -- Brand](../../generel_brand)*. Her er der angivet retningslinjer og eksempler på afgrænsninger ved ombygninger, tilbygninger og anvendelsesændringer. Disse retningslinjer er gældende både for byggeri, hvor der skal søges om byggetilladelse, og byggeri, hvor der ikke skal om søges byggetilladelse.
 
 Retningslinjerne i afsnit 1.6.9 angiver, at eksisterende brandmæssige forhold, der ikke direkte influeres ved byggearbejdet, fortsat kan benyttes uændret i overensstemmelse med reglerne på opførelsestidspunktet eller senere relevante byggetilladelser. Dette medfører også, at dokumentationen, der skal indsendes i forbindelse med byggesagen, kun skal omhandle de forhold, der berøres ved byggearbejdet.
 
@@ -232,7 +232,7 @@ Ethvert bygningsafsnit skal henføres til mindst en anvendelseskategori, jf. BR1
 
 Hvis et bygningsafsnit indeholder flere anvendelseskategorier, skal brandsikringen i hele bygningsafsnittet opfylde de krav, der gælder for den anvendelseskategori i afsnittet, der har det største sikringsbehov, jf. BR18 § 85, stk. 2.
 
-I [*Bygningsreglementets vejledning til kapitel 5 -- Brand, Kapitel 1: Generelt om sikkerhed ved brand, afsnit 1.4.3*](../../../../../Tekniske-bestemmelser/05/Vejledninger/Generel_Brand/Kapitel-1#c998d3d5-bc52-4076-9150-2fc6286e76ae){rel="noopener" target="_blank"}, er der givet eksempler på, hvilke bygningsafsnit, der typisk kan henføres til de forskellige anvendelseskategorier. Det er den faktiske anvendelse, der er bestemmende for, hvilke(n) anvendelseskategori(er) et bygningsafsnit skal henføres til, og ikke bygningsafsnittets betegnelse.
+I [*Bygningsreglementets vejledning til kapitel 5 -- Brand, Kapitel 1: Generelt om sikkerhed ved brand, afsnit 1.4.3*](../../generel_brand/kapitel-1){rel="noopener" target="_blank"}, er der givet eksempler på, hvilke bygningsafsnit, der typisk kan henføres til de forskellige anvendelseskategorier. Det er den faktiske anvendelse, der er bestemmende for, hvilke(n) anvendelseskategori(er) et bygningsafsnit skal henføres til, og ikke bygningsafsnittets betegnelse.
 
 Det er styrelsens vurdering, at et lagerhotel med simple flugtveje til personophold for højst 50 personer, hvor der fra alle lagerrum er direkte udgang til terræn i det fri, vil kunne henføres til anvendelseskategori 1.
 

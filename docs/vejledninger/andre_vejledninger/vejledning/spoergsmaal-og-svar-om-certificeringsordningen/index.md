@@ -19,15 +19,15 @@
 
 Indførelse af en certificeringsordning i byggeriet er en del af afskaffelsen af den kommunale tekniske byggesagsbehandling. Forslaget blev vedtaget af Folketinget i 2016 og udspringer af S-R-regeringens byggepolitiske strategi fra november 2014 -- *Vejen til et styrket byggeri i Danmark. *   Baggrunden for afskaffelsen af den tekniske byggesagsbehandling i kommunerne var overordnet, at reglerne var meget komplekse og blev administreret meget forskelligt.    I praksis kunne det fx betyde, at en løsning, der blev godkendt i en kommune, blev afvist i en anden. Det gjorde det indimellem vanskeligt for virksomheder -- fx landsdækkende supermarkeder -- at udarbejde standardiserede og billigere løsninger. Samtidig kunne en bygherre opleve, at nye innovative løsninger og byggemetoder blev bremset, fordi der i en given kommune ikke var tilstrækkelige tekniske kompetencer.   Afskaffelse af den tekniske byggesagsbehandling i kommunen betyder, at fx et etagebyggeri, en produktionsfacilitet eller en sportshal kan opføres, uden at kommunen skal godkende den konkrete tekniske løsning.    Formålet med certificeringsordningen er i den sammenhæng at sikre, at der sker en ensartet efterlevelse af de tekniske bestemmelser for brand og konstruktioner på tværs af *alle* kommuner. Disse forhold har afgørende betydning for, om en bygning er sikker at opholde sig i.    I stedet for at få kommunens godkendelse skal en bygherre i henhold til de nye regler få de brand- og konstruktionstekniske forhold godkendt af en bygningsrådgiver, der er certificeret.    Kravet om certificering skal sikre, at sikkerhedsniveauet opretholdes. Certificeringsordningen tydeliggør, at bygherren og dennes rådgiver har ansvaret for, at et byggeri lever op til bygningsreglementets krav. [](#eda275fc-fa74-4d3b-b823-a0c4c3d489cd)
 
-### Hvordan fungerer certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet?
+### Hvordan fungerer certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet? {#eda275fc-fa74-4d3b-b823-a0c4c3d489cd}
 
 Certificeringsordningen fungerer på den måde, at certificerede rådgivere som led i projekteringen, udførelsen og kontrollen af et byggeri skal dokumentere, at byggeriet er dokumenteret og kontrolleret i henhold til reglerne på brand- og konstruktionsområdet.    For at sikre det rette sikkerhedsniveau i det konkrete byggeri, indplaceres alt byggeri i fire klasser inden for konstruktioner og brandforhold; konstruktionsklasse KK1-KK4 og brandklasse BK1-BK4.    Ukompliceret byggeri som fx enfamiliehuse og sommerhuse vil kunne opføres i KK1 og BK1, hvor der ikke kræves brug af en certificeret rådgiver. Jo mere kompliceret et byggeri er, jo højere brandklasse og/eller konstruktionsklasse vil byggeriet blive indplaceret i, og jo højere krav stilles der til de certificerede rådgiveres kompetencer.    Byggeri, hvor der kan være stor risiko ved et svigt i brandsikkerheden eller konstruktioner, kategoriseres som henholdsvis BK4 og KK4. Her vil der udover den almindelige kontrol fra en certificeret rådgiver være krav om, at projektet godkendes af en uvildig certificeret rådgiver, som er certificeret til at gennemføre en tredjepartskontrol.    [](#989cf28d-6d07-430f-9cd9-af3e859240e3)
 
-### Hvordan hænger certificeringsordningen sammen med den øvrige afskaffelse af den kommunale tekniske byggesagsbehandling?
+### Hvordan hænger certificeringsordningen sammen med den øvrige afskaffelse af den kommunale tekniske byggesagsbehandling? {#989cf28d-6d07-430f-9cd9-af3e859240e3}
 
 Den *1. januar 2009* blev byggesagsbehandlingen afskaffet for enfamiliehuse, sommerhuse og lignende små bygninger.    Den *1. juli 2018* blev byggesagsbehandlingen af dokumentationen af de tekniske forhold, undtagen brand og konstruktion, for alt byggeri afskaffet. Det omfatter fx bygningers ventilationsforhold, indeklima og energiforbrug.    Den 1*. januar 2020* afskaffes den kommunale sagsbehandling af de brand- og konstruktions forhold, og certificeringsordningen indføres som en obligatorisk del af et mere kompliceret byggeprojekt.    **Undtaget for reglen** er midlertidige arrangementer som fx markeder, byfester, festivaler og lignende, midlertidige overnatninger, og arrangementer i eksisterende forsamlingslokaler. I disse tilfælde kan bygherren fortsat vælge teknisk byggesagsbehandling hos kommunen.    Derudover gælder der en overgangsordning på konstruktionsområdet frem til 1. juli 2020. [](#e6a626de-ea49-4f61-a553-93da0962ffc0)
 
-### Hvad er årsagen til, at der indføres en overgangsperiode for brug af anerkendte statikere indtil 1. juli 2020?
+### Hvad er årsagen til, at der indføres en overgangsperiode for brug af anerkendte statikere indtil 1. juli 2020? {#e6a626de-ea49-4f61-a553-93da0962ffc0}
 
 Styrelsen har sammen med branchen vurderet, at der er behov for en overgangsperiode på konstruktionsområdet på seks måneder, hvor det er valgfrit, om man vil bruge en statiker, som er certificeret, eller en statiker, som er anerkendt efter den hidtidige ordning. I denne overgangsperiode kan der således enten tilknyttes en certificeret statiker eller en anerkendt statiker til byggerier i konstruktionsklasse KK2-KK4.  
 
@@ -53,7 +53,7 @@ På konstruktionsområdet opdeles et byggeri i en række konstruktionsafsnit, og
 
 Det er vurderet, at der er brug for ca. 250 certificerede rådgivere på brandområdet og ca. 250 certificerede rådgivere på konstruktionsområdet, når ordningen er fuldt implementeret.    Behovet vil dog være langt mindre den 1. januar 2020, men vil herefter langsomt stige i takt med, at nye byggeprojekter igangsættes. Det har derfor aldrig været nødvendigt, at der den 1. januar 2020 skulle være det endelige antal certificerede.   På konstruktionsområdet forventes der at være omkring 20 certificerede statikere 1. januar 2020. Derudover vil det frem til 1. juli 2020 også være muligt at anvende anerkendte statikere.   På brandområdet forventes der at være omkring 80 certificerede brandrådgivere 1. januar 2020. [](#8343bc1d-b6b8-4fcd-8365-3c980e988322)
 
-### Hvor mange certificeringsorganer er der?
+### Hvor mange certificeringsorganer er der? {#8343bc1d-b6b8-4fcd-8365-3c980e988322}
 
 På brandområdet er der to certificeringsorganer, der kan certificere brandrådgivere.
 
@@ -65,9 +65,9 @@ Trafik-, Bygge- og Boligstyrelsen har udarbejdet en lang række vejledninger rel
 
 Vejledningerne uddyber kravene til, hvad der anses som nødvendigt for, at et projekt er strækkeligt dokumenteret. Vejledningerne er præciseringer af eksisterende vejledninger samt beskrivelser af, hvad der allerede bør være almindelig praksis. Derudover er der udarbejdet vejledninger, som detaljeret beskriver, f.eks. hvordan et byggeri kan brandsikres, så kravene i bygningsreglementet er opfyldt. 
 
-[Den samlede oversigt over bygningsreglementets vejledninger kan findes her.](../../../../Vejledninger/Bygningsreglementets-vejledninger/Oversigt_BR_Vejledninger){rel="noopener noreferrer" target="_blank"}
+[Den samlede oversigt over bygningsreglementets vejledninger kan findes her.](../../../bygningsreglementets-vejledninger/oversigt_br_vejledninger){rel="noopener noreferrer" target="_blank"}
 
-[Andre vejledninger kan findes her](../../../../Vejledninger/Andre_vejledninger/Andre_vejledninger){rel="noopener noreferrer" target="_blank"}.
+[Andre vejledninger kan findes her](../../andre_vejledninger){rel="noopener noreferrer" target="_blank"}.
 
 ### Hvordan foretages den årlige kontrol af den certificeredes virke? (05.07.2021)
 

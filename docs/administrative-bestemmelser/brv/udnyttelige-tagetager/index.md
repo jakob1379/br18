@@ -30,7 +30,7 @@ Siden 1. januar 1976 har udnyttelige tagetager skulle medregnes i bebyggelsespro
 
 Indtil 1. januar 1976 var det kun beboelsesrum og badeværelser samt adgangsvejen til disse rum i tagetagen, der skulle medregnes, mens bi- og udenoms rum i tagetagen ikke skulle medregnes.  [](#6e4031f5-0105-45dd-bca5-582519860f9b)
 
-### Hvad er en udnyttelig tagetage?
+### Hvad er en udnyttelig tagetage? {#6e4031f5-0105-45dd-bca5-582519860f9b}
 
 En udnyttelig tagetage er en tagetage, hvor der er et areal, der kan anvendes uden væsentlige indgreb i de bærende konstruktioner. Et væsentligt indgreb i de bærende konstruktioner er eksempelvis, når gitterspærfag erstattes med hanebåndsspær.
 
@@ -42,7 +42,7 @@ I 1976 blev det areal i tagetagen medregnet, som i et vandret plan 1,0 m over f�
 
 Når det område ejendommen med tagetagen er beliggende i er omfattet af en lokalplan eller en byplanvedtægt er det de beregningsregler, der var gældende da plangrundlaget blev vedtaget, som skal anvendes ved beregning af etagearealet. [](#cbecce15-92a8-4ddb-85fe-10a8e2716515)
 
-### Fra udnyttelig til uudnyttelig tagetage
+### Fra udnyttelig til uudnyttelig tagetage {#cbecce15-92a8-4ddb-85fe-10a8e2716515}
 
 En eksisterende udnyttelig tagetage kan gøres uudnyttelig under forudsætning af at de konstruktive forhold, herunder statiske forhold i tagkonstruktionen ændres i forbindelse med en ombygning, og der eksempelvis etableres et gitterspær.
 

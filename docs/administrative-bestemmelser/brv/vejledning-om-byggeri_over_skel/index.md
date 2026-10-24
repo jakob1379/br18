@@ -68,7 +68,7 @@ Hvis forholdet ikke kan lovliggøres retligt, må der meddeles påbud om fysisk 
 
 En eventuel tvist mellem de to ejere, eksempelvis om skellets placering, er privatretlig og skal i sidste ende afgøres af domstolene. [](#f9b11c26-a215-48c6-ad79-4cc09287f3dc)
 
-### Udstykningsloven
+### Udstykningsloven {#f9b11c26-a215-48c6-ad79-4cc09287f3dc}
 
 Aftaler om opførelse af bebyggelse over skel kan være i strid med udstykningsloven, som henhører under Geodatastyrelsen.
 

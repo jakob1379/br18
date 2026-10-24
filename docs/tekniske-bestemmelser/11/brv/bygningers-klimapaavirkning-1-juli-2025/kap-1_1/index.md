@@ -303,7 +303,7 @@ For §297, stk. 5 gælder den samme definition for hvornår en carport eller gar
 
 Til brug for beregning af klimapåvirkningen skal udledningerne fra de materialer, der indgår i de enkelte dele af bygningen, medregnes. Som udgangspunkt bør en bygnings livscyklusvurdering omfatte så mange bygningsdele som muligt, for at repræsentere bygningens klimapåvirkning så godt som muligt. Da en bygning består af mange bygningsdele, kan der opstå spørgsmål om, hvor grænsen skal trækkes, for at afspejle den rette balance mellem ressourceforbrug og præcision.
 
-For at sikre ensartede livscyklusvurderinger med samme afgrænsning for alle bygninger er der udarbejdet en oversigt over de dele af en bygning, der som minimum skal indgå i livscyklusvurderingen (markeret med ja), herunder også præcisering af det detaljeringsniveau, der skal ligge til grund for opgørelsen. Oversigten fremgår af [BR18, bilag 2, tabel 6](../../../../../Bilag/B2/Bilag_2/Tabel_6#e53ebfa8-1dea-4737-aa53-69c8a848b30c){rel="noopener noreferrer" target="_blank"} (nyt vindue). Der skelnes generelt mellem bygningsdele og så de materialer, der indgår i hver bygningsdel.
+For at sikre ensartede livscyklusvurderinger med samme afgrænsning for alle bygninger er der udarbejdet en oversigt over de dele af en bygning, der som minimum skal indgå i livscyklusvurderingen (markeret med ja), herunder også præcisering af det detaljeringsniveau, der skal ligge til grund for opgørelsen. Oversigten fremgår af [BR18, bilag 2, tabel 6](../../../../../bilag/b2/bilag_2/tabel_6){rel="noopener noreferrer" target="_blank"} (nyt vindue). Der skelnes generelt mellem bygningsdele og så de materialer, der indgår i hver bygningsdel.
 
 I det følgende uddybes, hvordan BR18, bilag 2, tabel 6 skal anvendes i forbindelse med beregningen. Det uddybes også, hvordan man kan opgøre klimapåvirkningerne for visse dele af bygningen, hvor det ikke er muligt at opgøre de enkelte materialer grundet manglende data, jf. [BR18, bilag 2, tabel 7](../../../../../bilag/b2/bilag_2/tabel_7){rel="noopener noreferrer" target="_blank"} (nyt vindue).
 
@@ -327,7 +327,7 @@ Overordnet kan nævnes, at for de tekniske installationer medregnes tekniske anl
 
 #### **1.4.2 Hoved- og undergruppe**
 
-Ud over ovenstående excel-baserede skema, er der som supplement udviklet et bygningssnit. Bygningssnittet har til formål at illustrere og uddybe de enkelte bygningsdeles placering i hovedgrupper og undergrupper. ([Bilag 2, tabel 6 -- Skitse til vejledning](../../../../../Bilag/B2/Bilag_2/Tabel_6#e53ebfa8-1dea-4737-aa53-69c8a848b30c){rel="noopener noreferrer" target="_blank"})
+Ud over ovenstående excel-baserede skema, er der som supplement udviklet et bygningssnit. Bygningssnittet har til formål at illustrere og uddybe de enkelte bygningsdeles placering i hovedgrupper og undergrupper. ([Bilag 2, tabel 6 -- Skitse til vejledning](../../../../../bilag/b2/bilag_2/tabel_6){rel="noopener noreferrer" target="_blank"})
 
 Bygningssnittet illustrer under hvilke hovedgrupper de enkelte konstruktioner skal placeres. Eksempelvis placeres murkronens overflader under hovedgruppen \"Ydervægge\" lige så vel som murkronens primærbygningsdel også placeres under hovedgruppen \"ydervægge\". Et andet eksempel er Etagedæk hvis primær bygningsdel placeres under hovedgruppen \"dæk\" og hvis gulvkonstruktion placeres under undergruppen \"gulve\".
 
@@ -563,7 +563,7 @@ For at kunne opgøre en bygnings samlede klimapåvirkning skal der knyttes milj�
 
 Ved beregning af klimapåvirkningen skal der for hvert materiale, som indgår i bygningen, anvendes et datasæt fra BR18, bilag 2, tabel 7, eller data fra miljøvaredeklarationer (EPD'er). Hvis der anvendes EPD'er skal reglerne jf. § 297, stk. 8 følges.
 
-Datagrundlaget, som fremgår af BR18, bilag 2, tabel 7, er generiske miljødata, baseret på gennemsnitsværdier for materialer, der anvendes i byggeri. Datasættet kan tilgås direkte på bygningsreglementets hjemmeside eller via dette [link](../../../../../Bilag/B2/Bilag_2/Tabel_7#787e83a6-b7d9-4a83-a4be-37574156daef){rel="noopener noreferrer" target="_blank"} (nyt vindue). I datasættet kan der også ses links til den datakilde, der har dannet grundlag for fastsættelsen af data om den pågældende type materiale. Fra linket fremgår der typisk en udløbsdato for datasættet. Datakilden og udløbsdatoen er ikke relevante for kravet.
+Datagrundlaget, som fremgår af BR18, bilag 2, tabel 7, er generiske miljødata, baseret på gennemsnitsværdier for materialer, der anvendes i byggeri. Datasættet kan tilgås direkte på bygningsreglementets hjemmeside eller via dette [link](../../../../../bilag/b2/bilag_2/tabel_7){rel="noopener noreferrer" target="_blank"} (nyt vindue). I datasættet kan der også ses links til den datakilde, der har dannet grundlag for fastsættelsen af data om den pågældende type materiale. Fra linket fremgår der typisk en udløbsdato for datasættet. Datakilden og udløbsdatoen er ikke relevante for kravet.
 
 Det er ikke muligt at anvende andet generisk data end det, der fremgår af BR18, bilag 2, tabel 7. Andet miljødata kan udelukkende komme fra miljøvaredeklarationer, jf. § 297, stk. 8 I det følgende beskrives det, hvordan BR18, bilag 2, tabel 7, anvendes. Derudover gives der konkrete eksempler på, hvilket data og hvordan beregningen foretages, hvis ikke der findes et datasæt, der stemmer overens med det materiale, der anvendes i bygningen.
 
@@ -1085,7 +1085,7 @@ I bygningsreglementet er dette afgrænset til kun at være affaldshåndtering af
 
 -    *For behandling af affald indgår kun byggeaffald.* Når behandlingen af affald skal opgøres, skal man kun medregne byggeaffald jf. tabel 11. Man skal derfor ikke opgøre behandling af bortkørt jord og det almindelige husholdningsaffald eller lignende fra skurbyen.
 
--    *For transport af affald indgår kun byggeaffald og jord.* Transport af jordaffald indgår, men transport af jord, der ikke er affald, indgår ikke. Når transporten af affald skal opgøres, så skal man kun opgøre byggeaffald og bortkørt jord, hvis jorden er affald. Man skal derfor ikke opgøre transport af det almindelige husholdningsaffald eller lignende fra skurbyen. Affald forstås som defineret i affaldsbekendtgørelsen\[\[1\\]](#_ftn1){#_ftnref1} § 2. Miljøstyrelsen træffer afgørelse, om et stof eller en genstand er affald, jf. affaldsbekendtgørelsen § 4.
+-    *For transport af affald indgår kun byggeaffald og jord.* Transport af jordaffald indgår, men transport af jord, der ikke er affald, indgår ikke. Når transporten af affald skal opgøres, så skal man kun opgøre byggeaffald og bortkørt jord, hvis jorden er affald. Man skal derfor ikke opgøre transport af det almindelige husholdningsaffald eller lignende fra skurbyen. Affald forstås som defineret i affaldsbekendtgørelsen[&#91;1&#93;](#_ftn1){#_ftnref1} § 2. Miljøstyrelsen træffer afgørelse, om et stof eller en genstand er affald, jf. affaldsbekendtgørelsen § 4.
 
 For bygninger med affaldsjord fra både opførelsen af en bygning og terrænarbejde skal man derfor fordele klimapåvirkningen mellem bygning og terrænarbejde.
 
@@ -1103,7 +1103,7 @@ Bortkørsel af jord skal kun regnes med, hvis jorden er affald. Derfor kan ovens
 
 ------------------------------------------------------------------------
 
-\[\[1\\]](#_ftnref1){#_ftn1} https://www.retsinformation.dk/eli/lta/2024/1749
+[&#91;1&#93;](#_ftnref1){#_ftn1} https://www.retsinformation.dk/eli/lta/2024/1749
 
 ### Levetider {#b7facc0b-7a44-4398-be71-c1fd8daa0640}
 
@@ -1254,7 +1254,7 @@ For bygninger der har særlige forhold eller tillæg til energirammen, medfører
 
 Grænseværdien er angivet med én decimal i bestemmelsen. Det betyder, at fx et resultat på 6,73 for et rækkehus vil holde sig inden for grænseværdien, da der afrundes til 6,7.
 
-Dokumentationen skal følge kravene, jf. § 40. [Se Vejledning om dokumentation af bygningsreglementets tekniske bestemmelser i forbindelse med færdigmelding af byggeriet (nyt vindue).](../../../../../Administrative-bestemmelser/BRV/Dokumentationsvejledning/Dokumentationsvejledning#14e6bd2d-d66d-44ff-bcbb-9059b9452cf5){rel="noopener" target="_blank"}
+Dokumentationen skal følge kravene, jf. § 40. [Se Vejledning om dokumentation af bygningsreglementets tekniske bestemmelser i forbindelse med færdigmelding af byggeriet (nyt vindue).](../../../../../administrative-bestemmelser/brv/dokumentationsvejledning/dokumentationsvejledning){rel="noopener" target="_blank"}
 
 Der kan med fordel udarbejdes beregninger for byggeriet fra de tidlige designfaser, så risikoen for overskridelse minimeres.
 

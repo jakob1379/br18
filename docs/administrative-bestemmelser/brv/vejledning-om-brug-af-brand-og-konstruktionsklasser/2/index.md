@@ -24,8 +24,8 @@
 
 ### Bygningsreglementets vejledning om indplacering i konstruktionsklasser
 
-### [Se vejledning her](../../../../Historisk/Version-13/Ovrige-bestemmelser/26/BRV/Indplacering-i-konstruktionsklasser){rel="noopener" target="_blank"}
+### [Se vejledning her](../../../../historisk/version-13/ovrige-bestemmelser/26/brv/indplacering-i-konstruktionsklasser){rel="noopener" target="_blank"}
 
 ### Bygningsreglementets vejledning om indplacering i brandklasser
 
-### [Se vejledning her](../../../../Historisk/Version-13/Ovrige-bestemmelser/27/BRV/Indplacering-i-brandklasser){rel="noopener" target="_blank"}
+### [Se vejledning her](../../../../historisk/version-13/ovrige-bestemmelser/27/brv/indplacering-i-brandklasser){rel="noopener" target="_blank"}
