@@ -3,11 +3,20 @@
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
     utils.url = "github:numtide/flake-utils";
   };
-  outputs = { self, nixpkgs, utils }: utils.lib.eachDefaultSystem (system:
-    let
-      pkgs = nixpkgs.legacyPackages.${system};
-    in
+  outputs =
+    {
+      self,
+      nixpkgs,
+      utils,
+    }:
+    utils.lib.eachDefaultSystem (
+      system:
+      let
+        pkgs = nixpkgs.legacyPackages.${system};
+      in
       {
+        formatter = pkgs.nixfmt-tree;
+
         devShell = pkgs.mkShell {
           buildInputs = with pkgs; [
             uv
@@ -25,9 +34,9 @@
             export CHROMIUM_PATH=${pkgs.chromium}/bin/chromium
             export UV_PYTHON_PREFERENCE="managed"
             export SSL_CERT_FILE=${pkgs.cacert}/etc/ssl/certs/ca-bundle.crt
-            '';
+          '';
         };
       }
-  );
+    );
 
 }
