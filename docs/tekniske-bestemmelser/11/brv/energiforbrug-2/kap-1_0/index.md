@@ -2,15 +2,15 @@
 
 ## Se alle vejledninger om Energiforbrug og klimapåvirkning (§ 250 - § 298)
 
-- [Spørgsmål og svar om energiforbrug](../qa)
-- [Spørgsmål og svar om bygningers klimapåvirkning](../spoergsmaal-og-svar-om-bygningers-klimapaavirkning)
+- [Spørgsmål og svar om energiforbrug](../../qa)
+- [Spørgsmål og svar om bygningers klimapåvirkning](../../spoergsmaal-og-svar-om-bygningers-klimapaavirkning)
 - [Bygningsreglementets vejledning om energiforbrug](./)
-- [Bygningsreglementets vejledning om efterisolering](../ofte-rentable-konstruktioner)
-- [Vejledning om funktionsafprøvning](../version-2-funktionsafprovning)
-- [Vejledning om håndtering af forskelligt energibehov i energirammen](../haandtering-af-forskelligt-energibehov)
-- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../bygningers-klimapaavirkning-1-juli-2025)
-- [Vejledning om energiberegning af hospitaler](../energiberegning-af-hospitaler)
-- [Eksempelsamling for energi](../eksempelsamling)
+- [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner)
+- [Vejledning om funktionsafprøvning](../../version-2-funktionsafprovning)
+- [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov)
+- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../../bygningers-klimapaavirkning-1-juli-2025)
+- [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler)
+- [Eksempelsamling for energi](../../eksempelsamling)
 
 ## Bygningsreglementets vejledning om energiforbrug
 
@@ -22,7 +22,7 @@ Det primære formål med kravene i kapitel 11 - Energiforbrug (§ 250 - § 296),
 
 Gå til krav om energiforbrug \[§ 250 - § 298\]{#Link til krav om energiforbrug} (nyt vindue).
 
--  [Gå til krav om energiforbrug (§ 250 - § 298)](../../krav){target="_blank"}
+-  [Gå til krav om energiforbrug (§ 250 - § 298)](../../../krav){target="_blank"}
 
 ### Energifaktorer {#e1939b7a-413e-4987-a882-c3c48ef87fe1}
 

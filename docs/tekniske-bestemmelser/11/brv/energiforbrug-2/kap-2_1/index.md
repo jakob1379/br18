@@ -497,7 +497,7 @@ Kravet til U-værdi for lystunneler eller lignende gælder for gennembrydningen 
 
 [2.1.](./)
 
-### Bygningsmæssige ændringer
+### Bygningsmæssige ændringer {#689f7df4-be19-40a4-bde0-8fccec531084}
 
 Bestemmelsen finder f.eks. anvendelse, såfremt der ønskes etableret nye vinduespartier i facaden eller i taget. Den manglende energimæssige ydeevne kan eksempelvis dækkes ved merisolering, solvarmeanlæg, varmepumpeanlæg eller solceller.
 

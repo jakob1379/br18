@@ -2,15 +2,15 @@
 
 ## Se alle vejledninger om Energiforbrug og klimapåvirkning (§ 250 - § 298)
 
-- [Spørgsmål og svar om energiforbrug](../qa)
-- [Spørgsmål og svar om bygningers klimapåvirkning](../spoergsmaal-og-svar-om-bygningers-klimapaavirkning)
+- [Spørgsmål og svar om energiforbrug](../../qa)
+- [Spørgsmål og svar om bygningers klimapåvirkning](../../spoergsmaal-og-svar-om-bygningers-klimapaavirkning)
 - [Bygningsreglementets vejledning om energiforbrug](./)
-- [Bygningsreglementets vejledning om efterisolering](../ofte-rentable-konstruktioner)
-- [Vejledning om funktionsafprøvning](../version-2-funktionsafprovning)
-- [Vejledning om håndtering af forskelligt energibehov i energirammen](../haandtering-af-forskelligt-energibehov)
-- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../bygningers-klimapaavirkning-1-juli-2025)
-- [Vejledning om energiberegning af hospitaler](../energiberegning-af-hospitaler)
-- [Eksempelsamling for energi](../eksempelsamling)
+- [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner)
+- [Vejledning om funktionsafprøvning](../../version-2-funktionsafprovning)
+- [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov)
+- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../../bygningers-klimapaavirkning-1-juli-2025)
+- [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler)
+- [Eksempelsamling for energi](../../eksempelsamling)
 
 ## Bygningsreglementets vejledning om energiforbrug
 
@@ -44,9 +44,9 @@ Bestemmelsen skal sikre, at klimaskærmen som helhed udformes med en rimelig iso
 
 Etageantallet beregnes som forholdet mellem etagearealet og det bebyggede areal. Det bebyggede areal følger BBR, hvor det bebyggede areal er arealet af den største etage. Der kan dog ikke medtages uopvarmede arealer. Hvis en bygning for eksempel har et samlet etageareal på 8277 m², men det bebyggede areal er 2500 m², så er etageantallet der skal benyttes til at finde kravet til det dimensionerende transmissionstab 3,31. Etageantallet er her angivet med to decimaler, men ved beregning af det dimensionerende transmissionstab foretages beregningen uden afrunding af mellemregningen.
 
--  [Gå til krav om bestemmelse af det dimensionerede transmissionstab (§ 264)](../../krav/261_266#3a8ca349-26eb-45ea-919c-350ef44b666a){target="_blank"}
+-  [Gå til krav om bestemmelse af det dimensionerede transmissionstab (§ 264)](../../../krav/261_266#3a8ca349-26eb-45ea-919c-350ef44b666a){target="_blank"}
 
-[![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
 
 #### Dansk standard: DS 418 -- Beregning af bygningers varmetab
 

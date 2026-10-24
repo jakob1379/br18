@@ -211,7 +211,7 @@ Ved det specifikke elforbrug til lufttransport forstås her det samlede elforbru
 
 Det specifikke elforbrug til lufttransport kan beregnes for det enkelte anlæg for sig eller alternativt ved en samlet beregning for luftmængde og energiforbruget af flere anlæg i en bygning.
 
-Grundluftskiftet for ventilationsanlæg til etageboliger vil normalt være luftmængden, der ventileres med, hvis der ikke er forcerede luftmængder i hverken køkken, bad eller WC. Grundluftskiftet må ikke blive mindre end 0,30 l/s pr. m² opvarmet etageareal, jf. [§443](../../krav/443_446 "443_446") når boligen er i anvendelse og 0,15 l/s pr. m^2^ når boligen ikke er i anvendelse[.](../../../../Tekniske-bestemmelser/22/Krav/443_446)
+Grundluftskiftet for ventilationsanlæg til etageboliger vil normalt være luftmængden, der ventileres med, hvis der ikke er forcerede luftmængder i hverken køkken, bad eller WC. Grundluftskiftet må ikke blive mindre end 0,30 l/s pr. m² opvarmet etageareal, jf. [§443](../../krav/443_446 "443_446") når boligen er i anvendelse og 0,15 l/s pr. m^2^ når boligen ikke er i anvendelse[.](../../krav/443_446)
 
 Ventilationsanlæg, der kun betjener en enkelt bolig, har et skærpet krav til specifikt elforbrug til lufttransport. Dette gælder også for anlæg der betjener en enkelt boligenhed i en etagebolig. Hvis decentrale ventilationsanlæg i etageboliger er koblet sammen, for eksempel gennem et fælles aftræk er det kravet til specifikt elforbrug til lufttransport for etageboliger, der skal overholdes.
 
@@ -237,7 +237,7 @@ Kravet om præcision af målere er opfyldt ved anvendelse af typegodkendte måle
 
 *Luftskifte*
 
-I beboelsesbygninger er der et generelt krav om et grundluftskifte på 0,30 l/s pr. m² opvarmet etageareal når boligen er i anvendelse, hvor det opvarmede etageareal beregnes som beskrevet i [kapitel 23](../../../../ovrige-bestemmelser/23/krav/showall "kapitel 23"){rel="noopener" target="_blank"} i bygningsreglementet. De 0,30 l/s pr. m² svarer ved normal rumhøjde omtrentligt til et luftskifte på 0,5 /h. Hvis boligen ikke er i anvendelse i en periode og har et behovsstyret ventilationssystem, kan grundluftskiftet reduceres til 0,15 l/s pr. m^2^, så længe luftkvalitet og fugtforhold er tilfredsstillende. Derudover er der krav om, at luftmængderne kan forøges til specifikke niveauer i køkken, bad, wc-rum og bryggers. Begge krav er mindstekrav, der begge skal være opfyldt. I visse tilfælde kan det dog være nødvendigt at forøge luftmængderne for at overholde det grundlæggende funktionskrav i §420. Det kan for eksempel være i rum der benyttes som soveværelse eller børneværelse.
+I beboelsesbygninger er der et generelt krav om et grundluftskifte på 0,30 l/s pr. m² opvarmet etageareal når boligen er i anvendelse, hvor det opvarmede etageareal beregnes som beskrevet i [kapitel 23](../../../../ovrige-bestemmelser/23/krav "kapitel 23"){rel="noopener" target="_blank"} i bygningsreglementet. De 0,30 l/s pr. m² svarer ved normal rumhøjde omtrentligt til et luftskifte på 0,5 /h. Hvis boligen ikke er i anvendelse i en periode og har et behovsstyret ventilationssystem, kan grundluftskiftet reduceres til 0,15 l/s pr. m^2^, så længe luftkvalitet og fugtforhold er tilfredsstillende. Derudover er der krav om, at luftmængderne kan forøges til specifikke niveauer i køkken, bad, wc-rum og bryggers. Begge krav er mindstekrav, der begge skal være opfyldt. I visse tilfælde kan det dog være nødvendigt at forøge luftmængderne for at overholde det grundlæggende funktionskrav i §420. Det kan for eksempel være i rum der benyttes som soveværelse eller børneværelse.
 
 Naturlig og mekanisk ventilation kan kombineres, forudsat at dette tilsammen opfylder det generelle krav om grundluftskifte. Tilvejebringelse af grundluftskiftet kan ikke være afhængig af fx manuel opluk af vinduer, da dette er udluftning og ikke ventilation. Infiltration gennem klimaskærmen er heller ikke naturlig ventilation, men et utilsigtet luftskifte.
 
@@ -398,7 +398,7 @@ Kravet til primærenergiforbrug for andre ventilationssystemer end mekaniske ber
 
 ### Funktionsafprøvning {#ad1b9889-dbb6-4715-bb2e-463ac6068b46}
 
-Der henvises til [Bygningsreglementets vejledning om funktionsafprøvning](../../../../Tekniske-bestemmelser/11/BRV/Version-2-Funktionsafprovning){rel="noopener noreferrer" target="_blank"}[.](../../../../Tekniske-bestemmelser/11/BRV/Version-2-Funktionsafprovning){rel="noopener noreferrer" target="_blank"}
+Der henvises til [Bygningsreglementets vejledning om funktionsafprøvning](../../../11/brv/version-2-funktionsafprovning){rel="noopener noreferrer" target="_blank"}[.](../../../11/brv/version-2-funktionsafprovning){rel="noopener noreferrer" target="_blank"}
 
 ### Drift og vedligehold {#6e48ddb0-faf3-4a33-90dd-8d2600796ee3}
 

@@ -2,9 +2,9 @@
 
 ## Se alle vejledninger om Bygningens indretning (§ 196 - § 241)
 
-- [Spørgsmål og svar om bygningens indretning](../qa)
+- [Spørgsmål og svar om bygningens indretning](../../qa)
 - [Vejledning om boligindretning](./)
-- [Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger](../bygningsglas)
+- [Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger](../../bygningsglas)
 
 ## Vejledning om boligindretning
 
@@ -60,7 +60,7 @@ En tagterrasse kan være et fælles eller et privat uderum, som er integreret i 
 
 ###
 
-![](../../../../media/tg1gb1cr/illustration-10-br-vejledning-om-boligindretning.png)
+![](../../../../../media/tg1gb1cr/illustration-10-br-vejledning-om-boligindretning.png)
 
 Illustration 10: Altaner. Alt efter om altanen er udeliggende (a), delvist indeliggende (b) eller indeliggende (c), skygger den mere eller mindre for rum under altanen. Diagrammet er en forenklet illustration af, hvordan en altan kan skabe skygge i rummene under sig og dermed påvirke rummets lysniveau. Diagrammet illustrerer situationen for en bolig, hvor der også er en genbobygning, der skygger (se kap. 2.6 Dagslysforhold, ill. 09). Samspillet mellem dagslyset, vinduet og skyggende elementer er komplekst og har indflydelse på lysniveauet i rummet og bør tilrettelægges med omhu.
 

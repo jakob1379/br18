@@ -210,7 +210,7 @@ Det fremgår af BR18 § 35, stk. 2, at der ikke kan meddeles byggetilladelse, ud
 
 Kommunen må være berettiget til at meddele afslag på retligt lovliggørende byggetilladelse alene med henvisning til, at der ikke er opnået tilladelse eller dispensation efter denne anden lovgivning. Hvis afslag på retlig lovliggørelse gives med denne begrundelse, kan kommunen være forpligtet til at udsætte sagen på behandling af spørgsmålet om retlig lovliggørelse efter denne anden lovgivning. [](./#8e481eaa-32b8-45b7-97d5-47a22df171c8)
 
-### Særligt om lovliggørelse i forbindelse med bygningers klimapåvirkning
+### Særligt om lovliggørelse i forbindelse med bygningers klimapåvirkning {#8e481eaa-32b8-45b7-97d5-47a22df171c8}
 
 ***Lovliggørelse når kravet om beregning er overtrådt***
 

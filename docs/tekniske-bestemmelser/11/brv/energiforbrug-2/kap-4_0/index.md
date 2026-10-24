@@ -2,15 +2,15 @@
 
 ## Se alle vejledninger om Energiforbrug og klimapåvirkning (§ 250 - § 298)
 
-- [Spørgsmål og svar om energiforbrug](../qa)
-- [Spørgsmål og svar om bygningers klimapåvirkning](../spoergsmaal-og-svar-om-bygningers-klimapaavirkning)
+- [Spørgsmål og svar om energiforbrug](../../qa)
+- [Spørgsmål og svar om bygningers klimapåvirkning](../../spoergsmaal-og-svar-om-bygningers-klimapaavirkning)
 - [Bygningsreglementets vejledning om energiforbrug](./)
-- [Bygningsreglementets vejledning om efterisolering](../ofte-rentable-konstruktioner)
-- [Vejledning om funktionsafprøvning](../version-2-funktionsafprovning)
-- [Vejledning om håndtering af forskelligt energibehov i energirammen](../haandtering-af-forskelligt-energibehov)
-- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../bygningers-klimapaavirkning-1-juli-2025)
-- [Vejledning om energiberegning af hospitaler](../energiberegning-af-hospitaler)
-- [Eksempelsamling for energi](../eksempelsamling)
+- [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner)
+- [Vejledning om funktionsafprøvning](../../version-2-funktionsafprovning)
+- [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov)
+- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../../bygningers-klimapaavirkning-1-juli-2025)
+- [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler)
+- [Eksempelsamling for energi](../../eksempelsamling)
 
 ## Bygningsreglementets vejledning om energiforbrug
 
@@ -64,7 +64,7 @@ Reparationer dækker over mindre ændringer, der ikke udløser krav om gennemfø
 
 ###
 
-![](../../../../media/uuqlpcxb/kap11_brv_4_00_energikrav_ved_ombygning.svg)
+![](../../../../../media/uuqlpcxb/kap11_brv_4_00_energikrav_ved_ombygning.svg)
 
 Energikrav ved ombygning
 
@@ -80,7 +80,7 @@ Eksempler på arbejder, hvor der skal foretages rentabel isolering, er:
 
 ###
 
-![](../../../../media/ytvnf1kw/kap11_brv_4_00_eksempler_paa_arbejder_hvor_der_skal_foretages_rentabel_isolering.svg)
+![](../../../../../media/ytvnf1kw/kap11_brv_4_00_eksempler_paa_arbejder_hvor_der_skal_foretages_rentabel_isolering.svg)
 
 Eksempler på arbejder hvor der skal foretages rentabel isolering
 
@@ -92,9 +92,9 @@ Ved evaluering af rentabilitet i eksisterende bygningskonstruktioner med hulrum,
 
 ###
 
-![](../../../../media/wj3dgcqy/kap11_brv_4_00_energikrav_ved_udskriftning_af_bygningsdele.svg)
+![](../../../../../media/wj3dgcqy/kap11_brv_4_00_energikrav_ved_udskriftning_af_bygningsdele.svg)
 
-Udskiftning er, hvis hele bygningsdelen udskiftes. Det kan for eksempel være en hel tagkonstruktion, inklusiv tagdækning, spær, isolering og loft, eller det kan være komponenter, der udskiftes, som for eksempel vinduer eller en kedel. Ved udskiftning skal konstruktionen eller komponenten leve op til kravene i [§279](../../krav/274_279 "274_279") og installationsemnerne. Der kan dog være forhold, der gør at udskiftningen ikke kan gennemføres uden uforholdsmæssige meromkostninger på de omkringliggende konstruktioner. I disse tilfælde er der ikke krav om fuld isolering, men hvis der kan isoleres til et lavere niveau skal dette gennemføres. Dette vil for eksempel være tilfældet, hvis der skal understøbes fundamenter for at gulvkonstruktionen kan isoleres svarende til kravet. I dette tilfælde skal der i stedet isoleres svarende til det niveau, der kan opnås uden understøbning. Tilsvarende skal kravet til linjetab omkring vinduer ikke overholdes ved udskiftning af vinduer uden samtidig renovering af ydervæg. Kravet gælder alene vinduet.
+Udskiftning er, hvis hele bygningsdelen udskiftes. Det kan for eksempel være en hel tagkonstruktion, inklusiv tagdækning, spær, isolering og loft, eller det kan være komponenter, der udskiftes, som for eksempel vinduer eller en kedel. Ved udskiftning skal konstruktionen eller komponenten leve op til kravene i [§279](../../../krav/274_279 "274_279") og installationsemnerne. Der kan dog være forhold, der gør at udskiftningen ikke kan gennemføres uden uforholdsmæssige meromkostninger på de omkringliggende konstruktioner. I disse tilfælde er der ikke krav om fuld isolering, men hvis der kan isoleres til et lavere niveau skal dette gennemføres. Dette vil for eksempel være tilfældet, hvis der skal understøbes fundamenter for at gulvkonstruktionen kan isoleres svarende til kravet. I dette tilfælde skal der i stedet isoleres svarende til det niveau, der kan opnås uden understøbning. Tilsvarende skal kravet til linjetab omkring vinduer ikke overholdes ved udskiftning af vinduer uden samtidig renovering af ydervæg. Kravet gælder alene vinduet.
 
 Der henvises til Bygningsreglementets vejledning om efterisolering, der indeholder yderligere uddybninger af ombygningskravene og indeholder en række eksempelkonstruktioner, der er regnet igennem generisk. Disse beregninger kan benyttes som rettesnor. Hvis beregningen i vejledningen om efterisolering viser at en efterisolering ikke er rentabel, så behøver man ikke at lave en beregning på det konkrete byggeri, men kan bruge eksemplet i vejledningen som dokumentation.
 
@@ -122,11 +122,11 @@ Der kan gennemføres bygningsmæssige ændringer, der medfører et forøget ener
 
 ###
 
-![](../../../../media/bn4p4ej5/kap11_brv_4_00_levetider_rentabilitet.svg)
+![](../../../../../media/bn4p4ej5/kap11_brv_4_00_levetider_rentabilitet.svg)
 
 Levetider der kan anvendes ved beregning af rentabiliteten
 
--  [Gå til energikrav ved ombygninger og udskiftning af bygningsdele (§ 274 - § 279)](../../krav/274_279#afb229c4-65a2-4b7d-8613-8fe584c21e25){target="_blank"}
+-  [Gå til energikrav ved ombygninger og udskiftning af bygningsdele (§ 274 - § 279)](../../../krav/274_279#afb229c4-65a2-4b7d-8613-8fe584c21e25){target="_blank"}
 
 Kravet til U-værdi for lystunneler eller lignende gælder for gennembrydningen af den isolerede flade, som lystunnelen er indsat i. Det kunne for eksempel være lysfordeleren i et isoleret loft. U-værdien skal dokumenteres i henhold til DS/EN 10077-1.
 

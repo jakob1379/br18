@@ -3,7 +3,7 @@
 ## Se alle vejledninger om Byggepladsen og udførelsen af Byggearbejder (§ 161 - § 165)
 
 - [Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder](./)
-- [Vejledning om brandværnsforanstaltninger for skurbyer og lignende på byggepladser](../brandvarnforanstaltninger)
+- [Vejledning om brandværnsforanstaltninger for skurbyer og lignende på byggepladser](../../brandvarnforanstaltninger)
 
 ## Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder
 
@@ -65,7 +65,7 @@ Håndildslukkere skal være udført i overensstemmelse med gældende regler (DS/
 4.  *Afhænger af slukkerens godkendelse iht. DS/EN 3 typisk op til 1.000 V i 1,0 m afstand.\*
 5.  *Hvis vand ikke er til stede.*
 
-[![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
 
 ####
 

@@ -4,7 +4,7 @@
 
 ### § 523 {#paragraf-523}
 
-Kontrol af dokumentation for bærende konstruktioner og brandforhold skal sikre, at dokumentationen lever op til sit formål, jf. [kapitel 28](../../../../Ovrige-bestemmelser/28/Krav) og [29](../../../../Ovrige-bestemmelser/29/Krav), og kontrol af udførelse skal sikre, at udførelsen sker i overensstemmelse med denne dokumentation.
+Kontrol af dokumentation for bærende konstruktioner og brandforhold skal sikre, at dokumentationen lever op til sit formål, jf. [kapitel 28](../../../28/krav) og [29](../../../29/krav), og kontrol af udførelse skal sikre, at udførelsen sker i overensstemmelse med denne dokumentation.
 
 *Stk. 2.* Kontrol af dokumentation, jf. bilag 3, tabel 1, skal gennemføres, og de ved kontrollen fundne afvigelser skal behandles inden dokumentation anvendes som grundlag for det videre arbejde. Dette omfatter ikke tredjepartskontrol. Kontrol af udførelse skal gennemføres, og de ved kontrollen fundne afvigelser skal behandles.
 

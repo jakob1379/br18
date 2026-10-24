@@ -76,7 +76,7 @@ Tredjepartskontrol af projektering og udførelse af brandsikringstiltag omfatter
 
   [](#156f5746-c9f7-4d30-b5cb-3c53516b2f75)
 
-## Tabel 2a - Mindstekrav til niveau af uafhængig kontrol af dokumentation for de bærende konstruktioner i forhold til konstruktionsklassen (KK), jf. § 527
+## Tabel 2a - Mindstekrav til niveau af uafhængig kontrol af dokumentation for de bærende konstruktioner i forhold til konstruktionsklassen (KK), jf. § 527 {#156f5746-c9f7-4d30-b5cb-3c53516b2f75}
 
 *Tabel 2a. Mindstekrav til niveau af uafhængig kontrol af dokumentation for de bærende konstruktioner afhængig af konstruktionsklassen, jf. § 527*
 

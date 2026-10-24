@@ -2,9 +2,9 @@
 
 ## Se alle vejledninger om Bygningens indretning (§ 196 - § 241)
 
-- [Spørgsmål og svar om bygningens indretning](../qa)
+- [Spørgsmål og svar om bygningens indretning](../../qa)
 - [Vejledning om boligindretning](./)
-- [Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger](../bygningsglas)
+- [Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger](../../bygningsglas)
 
 ## Vejledning om boligindretning
 
@@ -48,7 +48,7 @@ Se SBi-anvisning 249, Tilgængelige boliger -- Indretning, 1.2 Parkeringsarealer
 
 ###
 
-![](../../../../media/howc2ejz/illustration-03-br-vejledning-i-boligindretning.png)
+![](../../../../../media/howc2ejz/illustration-03-br-vejledning-i-boligindretning.png)
 
 Illustration 03: Tre forskellige bebyggelsesprincipper:
 

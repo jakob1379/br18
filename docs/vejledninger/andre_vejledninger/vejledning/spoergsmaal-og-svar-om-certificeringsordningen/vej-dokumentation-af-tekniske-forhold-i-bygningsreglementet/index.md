@@ -65,9 +65,9 @@ Trafik-, Bygge- og Boligstyrelsen har udarbejdet en lang række vejledninger rel
 
 Vejledningerne uddyber kravene til, hvad der anses som nødvendigt for, at et projekt er strækkeligt dokumenteret. Vejledningerne er præciseringer af eksisterende vejledninger samt beskrivelser af, hvad der allerede bør være almindelig praksis. Derudover er der udarbejdet vejledninger, som detaljeret beskriver, f.eks. hvordan et byggeri kan brandsikres, så kravene i bygningsreglementet er opfyldt. 
 
-[Den samlede oversigt over bygningsreglementets vejledninger kan findes her.](../../../../../Vejledninger/Bygningsreglementets-vejledninger/Oversigt_BR_Vejledninger){rel="noopener noreferrer" target="_blank"}
+[Den samlede oversigt over bygningsreglementets vejledninger kan findes her.](../../../../bygningsreglementets-vejledninger/oversigt_br_vejledninger){rel="noopener noreferrer" target="_blank"}
 
-[Andre vejledninger kan findes her](../../../../../Vejledninger/Andre_vejledninger/Andre_vejledninger){rel="noopener noreferrer" target="_blank"}.
+[Andre vejledninger kan findes her](../../../andre_vejledninger){rel="noopener noreferrer" target="_blank"}.
 
 ### Hvordan foretages den årlige kontrol af den certificeredes virke? (05.07.2021)
 

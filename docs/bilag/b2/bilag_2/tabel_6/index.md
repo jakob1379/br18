@@ -27,7 +27,7 @@ Bygningsdelene er grupperet i typer og kategorier. I kolonnen detaljeringsniveau
 ***Forenklinger\***
 Fastgørelsesmidler, fx søm, skruer, kiler, hulplader til søm eller skruer, murbindere eller lignende, medregnes ikke.
 
-Større samlinger af væsentlig betydning for det bærende system, fx boltesamlinger, medregnes. Dette kan være som et samlet skøn af materialemængder, sådan som materialet er opgjort i [bilag 2, tabel 7](tabel_7 "Tabel_7").
+Større samlinger af væsentlig betydning for det bærende system, fx boltesamlinger, medregnes. Dette kan være som et samlet skøn af materialemængder, sådan som materialet er opgjort i [bilag 2, tabel 7](../tabel_7 "Tabel_7").
 
 Udstøbning af revner i betonelementer, udstøbning af et filigrandæk eller lignende samling mellem elementer kan anses for samme konstruktion. Delvist præfabrikerede konstruktioner kan beregnes uden at medtage udfyldning imellem elementerne.
 
@@ -45,7 +45,7 @@ Hvor det af tabel 6 fremgår "eventuelt som mængde råmateriale" i kolonnen for
 
 Såfremt bygningen ved færdigmelding mangler dele, som fx gulv, vægmaling mm., som er nødvendige for at sikre funktionaliteten for bygningen, medregnes sådanne dele af bygningen i beregningen af bygningens klimapåvirkning, uanset at bygningsdelene faktisk ikke er til stede i bygningen på færdigmeldingstidspunktet.
 
-[Download bilag 2, tabel 6 som excel-fil her.](../../../media/4rqdskud/tabel-6-2025.xlsx "Tabel 6 (2025)"){rel="noopener" target="_blank"}
+[Download bilag 2, tabel 6 som excel-fil her.](../../../../media/4rqdskud/tabel-6-2025.xlsx "Tabel 6 (2025)"){rel="noopener" target="_blank"}
 
 ## Tabel 7 - Generisk datagrundlag
 

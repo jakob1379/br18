@@ -290,7 +290,7 @@ Kommunalbestyrelsen træffer afgørelse om indplacering i konstruktionsklasse p�
 
 Kommunalbestyrelsen kan anmode om supplerende dokumentation, hvis det vurderes, at den tilsendte dokumentation ikke er tilstrækkelig til at kunne vurdere om byggeriet er indplaceret i den rette konstruktionsklasse.
 
-For yderligere vejledning om indplacering i konstruktionsklasser henvises til [Bygningsreglementets vejledning om indplacering i konstruktionsklasser](../../../../Ovrige-bestemmelser/26/BRV/Indplacering-i-konstruktionsklasser){rel="noopener noreferrer" target="_blank"}.
+For yderligere vejledning om indplacering i konstruktionsklasser henvises til [Bygningsreglementets vejledning om indplacering i konstruktionsklasser](../../../../ovrige-bestemmelser/26/brv/indplacering-i-konstruktionsklasser){rel="noopener noreferrer" target="_blank"}.
 
 ### Dokumentation for indplacering i konstruktionsklasse 1 {#6a4b5c52-9b10-4fac-abdc-fe0626d04b42}
 
@@ -350,7 +350,7 @@ Kommunalbestyrelsen træffer afgørelse om indplacering i brandklasse på baggru
 
 Kommunalbestyrelsen kan anmode om supplerende dokumentation, hvis det vurderes, at den tilsendte dokumentation ikke er tilstrækkelig til at kunne vurdere om byggeriet er indplaceret i den rette brandklasse.
 
-For yderligere vejledning om indplacering i brandklasse henvises til kapitel 1 i [Bygningsreglementets vejledning til kapitel 5 -- brand.](../../../../Tekniske-bestemmelser/05/Vejledninger/Generel_Brand){rel="noopener noreferrer" target="_blank"}
+For yderligere vejledning om indplacering i brandklasse henvises til kapitel 1 i [Bygningsreglementets vejledning til kapitel 5 -- brand.](../../../../tekniske-bestemmelser/05/vejledninger/generel_brand){rel="noopener noreferrer" target="_blank"}
 
 ### Dokumentation for indplacering i brandklasse 1 {#6a8a34ff-b88b-4312-95fe-04c1c6fd5bd9}
 
@@ -360,7 +360,7 @@ Brandklasse 1 (BK1), som omfatter byggeri i risikoklasse 1, hvor hvert bygningsa
 
 De præ-accepterede løsninger er beskrevet i forskellige bilag til Bygningsreglementets vejledning til kapitel 5 -- brand.
 
-Du kan læse mere om den brandtekniske dokumentation i [Bygningsreglementets vejledning til dokumentation brandforhold](../../../../Tekniske-bestemmelser/05/Vejledninger/Generel_Brand){rel="noopener noreferrer" target="_blank"}.
+Du kan læse mere om den brandtekniske dokumentation i [Bygningsreglementets vejledning til dokumentation brandforhold](../../../../tekniske-bestemmelser/05/vejledninger/generel_brand){rel="noopener noreferrer" target="_blank"}.
 
 ### Dokumentation for indplacering i brandklasse 2 -- 4 {#a0662794-783a-4fcf-8263-5af61fc5d19e}
 
@@ -412,7 +412,7 @@ Såfremt der ikke er tilknyttet en certificeret statiker på byggesagen for bygg
 
 Ved ansøgning om byggetilladelse til byggeri i konstruktionsklasse 2-4, skal der indsendes dokumentation, der er godkendt af den certificerede statiker. Dokumentationen omfatter indplacering af byggeriet i konstruktionsklassen, jf. kap. 26 og 28, og en starterklæring fra den certificerede statiker, der er tilknyttet byggesagen, jf. § 498, stk. 1. Er byggeriet indplaceret i konstruktionsklasse 4, skal der ligeledes indsendes en starterklæring fra en certificeret tredjepart, jf. § 498, stk. 2.
 
-Certificeringsorganerne, der certificerer statikere i konstruktionsklasse 2-4, skal underrette kommunalbestyrelsen, hvis en statiker fratages sin certificering. Det er kun de kommuner, hvor den certificerede statiker har virket på et projekt, der orienteres. [Læs mere herom i Vejledning om certificering af statikere og brandrådgivere](../../../../Vejledninger/Andre_vejledninger/Vejledning/Certificering_statikere_brandradgivere){rel="noopener noreferrer" target="_blank"}.
+Certificeringsorganerne, der certificerer statikere i konstruktionsklasse 2-4, skal underrette kommunalbestyrelsen, hvis en statiker fratages sin certificering. Det er kun de kommuner, hvor den certificerede statiker har virket på et projekt, der orienteres. [Læs mere herom i Vejledning om certificering af statikere og brandrådgivere](../../../../vejledninger/andre_vejledninger/vejledning/certificering_statikere_brandradgivere){rel="noopener noreferrer" target="_blank"}.
 
 ### Anvendelse af certificeret brandrådgiver i brandklasse 2-4 {#364baddb-019c-4742-ae84-32858cdbd02f}
 
@@ -422,7 +422,7 @@ Der kan kun være én certificeret brandrådgiver tilknyttet sagen, medmindre by
 
 Ved ansøgning om byggetilladelse til byggeri i brandklasse 2-4, skal der indsendes dokumentation, der er godkendt af den certificerede brandrådgiver. Det omfatter oplysning om og dokumentation for indplacering af byggeriet i brandklassen, jf. kapitel 29, oplysning om, og dokumentation for, hvorvidt byggeriet er indsatstaktisk traditionelt, jf. § 510 og en starterklæring fra den certificerede brandrådgiver, der er tilknyttet byggesagen, jf. § 508, stk. 1. Er byggeriet indplaceret i brandklasse 4, skal der ligeledes indsendes en starterklæring fra en certificeret tredjepart, jf. § 508, stk. 2.
 
-Certificeringsorganerne, der certificerer brandrådgivere i brandklasse 2-4, skal underrette kommunalbestyrelsen, hvis en brandrådgiver fratages sin certificering. Det er kun de kommuner, hvor den certificerede brandrådgiver har virket på et projekt, der orienteres. [Læs mere i Vejledning om certificering af statikere og brandrådgivere](../../../../Vejledninger/Andre_vejledninger/Vejledning/Certificering_statikere_brandradgivere){rel="noopener noreferrer" target="_blank"}.
+Certificeringsorganerne, der certificerer brandrådgivere i brandklasse 2-4, skal underrette kommunalbestyrelsen, hvis en brandrådgiver fratages sin certificering. Det er kun de kommuner, hvor den certificerede brandrådgiver har virket på et projekt, der orienteres. [Læs mere i Vejledning om certificering af statikere og brandrådgivere](../../../../vejledninger/andre_vejledninger/vejledning/certificering_statikere_brandradgivere){rel="noopener noreferrer" target="_blank"}.
 
 ### Database over certificerede statikere og brandrådgivere {#fcd7c4c2-24b2-41b3-b669-8705d5d22530}
 
@@ -801,7 +801,7 @@ Nedenstående liste angiver en række tekniske forhold, som afhængigt af bygger
 
 ### Gebyr for stikprøvekontrol {#7e133f7c-9a12-42a3-8ecf-aa1b87cbac1e}
 
-Kommunalbestyrelsen kan ikke opkræve gebyr for stikprøvekontrollen. Udgifterne hertil skal indregnes i overheadomkostningerne til byggesagsbehandlingen. [Åbn Vejledning om gebyr for kommunernes sagsbehandling på byggeområdet](../../../../Administrative-bestemmelser/BRV/Gebyr){rel="noopener noreferrer" target="_blank"}.
+Kommunalbestyrelsen kan ikke opkræve gebyr for stikprøvekontrollen. Udgifterne hertil skal indregnes i overheadomkostningerne til byggesagsbehandlingen. [Åbn Vejledning om gebyr for kommunernes sagsbehandling på byggeområdet](../../gebyr){rel="noopener noreferrer" target="_blank"}.
 
 ### Lovliggørelse på baggrund af stikprøvekontrol {#9ecafdd2-776b-4b72-9071-04c298fc02ed}
 
@@ -809,9 +809,9 @@ Ved stikprøvekontrollen kan kommunalbestyrelsen blive opmærksom på ulovlige f
 
 Et ulovligt forhold kan både bestå i en materiel mangel, altså at byggeriet ikke er opført i overensstemmelse med bygningsreglementet, eller en formel mangel, f.eks. at der ikke er ansøgt om dispensation, eller der mangler dokumentation for dele af byggeriet.
 
-[Læs mere om lovliggørelse af ulovligt byggeri her](../../../../Administrative-bestemmelser/BRV/Vejledning-om-lovliggorelse){rel="noopener noreferrer" target="_blank"}.
+[Læs mere om lovliggørelse af ulovligt byggeri her](../../vejledning-om-lovliggorelse){rel="noopener noreferrer" target="_blank"}.
 
-Der kan opkræves gebyr for behandling af en lovliggørelsessag, som er opstået på baggrund af en stikprøvekontrol, jf. BR18 § 39, stk. 1. Læs mere om dette i [Åbn Vejledning om gebyr for kommunernes sagsbehandling på byggeområdet](../../../../Administrative-bestemmelser/BRV/Gebyr){rel="noopener noreferrer" target="_blank"}.
+Der kan opkræves gebyr for behandling af en lovliggørelsessag, som er opstået på baggrund af en stikprøvekontrol, jf. BR18 § 39, stk. 1. Læs mere om dette i [Åbn Vejledning om gebyr for kommunernes sagsbehandling på byggeområdet](../../gebyr){rel="noopener noreferrer" target="_blank"}.
 
 ### Frist for igangsættelse af stikprøvekontrol {#10a06e25-13cc-42dc-b4ae-5ada2c1195c3}
 

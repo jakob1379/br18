@@ -2,9 +2,9 @@
 
 ## Se alle vejledninger om Bygningens indretning (§ 196 - § 241)
 
-- [Spørgsmål og svar om bygningens indretning](../qa)
+- [Spørgsmål og svar om bygningens indretning](../../qa)
 - [Vejledning om boligindretning](./)
-- [Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger](../bygningsglas)
+- [Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger](../../bygningsglas)
 
 ## Vejledning om boligindretning
 
@@ -60,7 +60,7 @@ I boliger med flere planer kan trappen placeres i en del af ankomstområdet elle
 
 ###
 
-![](../../../../media/3ckl1xjy/illustration-11-br-vejledning-om-boligindretning.png)
+![](../../../../../media/3ckl1xjy/illustration-11-br-vejledning-om-boligindretning.png)
 
 Illustration 11: Ved indgangen til boligen har man brug for at kunne hænge overtøj og stille sko. Det gælder også i det tilfælde, at man kommer direkte ind i et køkken eller opholdsrum. Derudover er det et område, der med fordel kan rumme mange funktioner som fx plads til opbevaring.
 

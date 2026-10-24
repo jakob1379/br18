@@ -3,7 +3,7 @@
 ## Se alle vejledninger om Byggepladsen og udførelsen af Byggearbejder (§ 161 - § 165)
 
 - [Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder](./)
-- [Vejledning om brandværnsforanstaltninger for skurbyer og lignende på byggepladser](../brandvarnforanstaltninger)
+- [Vejledning om brandværnsforanstaltninger for skurbyer og lignende på byggepladser](../../brandvarnforanstaltninger)
 
 ## Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder
 
@@ -71,7 +71,7 @@ Oplag af brændbart affald kan udgøre en uhensigtsmæssig stor brandbelastning,
 
 \- Beholdere til gasser under tryk, som har været anvendt, skal opbevares i overensstemmelse med Beredskabsstyrelsens tekniske forskrifter for gasser.
 
-[![](../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
 
 ####
 
@@ -81,7 +81,7 @@ Bekendtgørelse nr. 1639 af 06/12/2016 om brandfarlige og brandbare væsker (ink
 
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/Forms/R0710.aspx?id=185816){target="_blank"}
 
-[![](../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
 
 ####
 
@@ -121,7 +121,7 @@ Der bør foretages en vurdering, som kan sikre, at der kan foretages en forsvarl
 
 Der henvises også her til bekendtgørelse nr. 559 af 17. juni 2004 (med senere ændringer) om arbejdets udførelse.
 
-[![](../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
 
 ####
 

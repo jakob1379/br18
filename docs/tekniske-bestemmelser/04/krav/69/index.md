@@ -131,7 +131,7 @@ Fabriksfremstillede produkter, der indgår i eller tilsluttes afløbsinstallatio
 
 1) være forsynet med CE-mærke, der viser, at produkterne stemmer overens med en harmoniseret standard eller er omfattet af en europæisk teknisk godkendelse med de deklarerede egenskaber, der er relevante for Danmark, eller
 
-2) have gennemgået en afprøvning for de egenskaber, der er relevante for Danmark, og være underlagt en produktionskontrol hos fabrikanten, der sikrer, at den deklarerede ydeevne opretholdes, som beskrevet i [kapitel](../../../../Ovrige-bestemmelser/24/Krav){rel="noopener noreferrer" target="_blank"} [24](../../../../Ovrige-bestemmelser/24/Krav){rel="noopener noreferrer" target="_blank"}[.](../../../../Ovrige-bestemmelser/24/Krav){rel="noopener noreferrer" target="_blank"}
+2) have gennemgået en afprøvning for de egenskaber, der er relevante for Danmark, og være underlagt en produktionskontrol hos fabrikanten, der sikrer, at den deklarerede ydeevne opretholdes, som beskrevet i [kapitel](../../../../ovrige-bestemmelser/24/krav){rel="noopener noreferrer" target="_blank"} [24](../../../../ovrige-bestemmelser/24/krav){rel="noopener noreferrer" target="_blank"}[.](../../../../ovrige-bestemmelser/24/krav){rel="noopener noreferrer" target="_blank"}
 
 ## § 80 - § 81 Drift og vedligehold af afløbsinstallationer {#41511b7a-2fe6-4ac5-8825-0d0921a7f31e}
 

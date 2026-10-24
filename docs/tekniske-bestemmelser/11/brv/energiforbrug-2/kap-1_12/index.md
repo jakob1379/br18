@@ -2,15 +2,15 @@
 
 ## Se alle vejledninger om Energiforbrug og klimapåvirkning (§ 250 - § 298)
 
-- [Spørgsmål og svar om energiforbrug](../qa)
-- [Spørgsmål og svar om bygningers klimapåvirkning](../spoergsmaal-og-svar-om-bygningers-klimapaavirkning)
+- [Spørgsmål og svar om energiforbrug](../../qa)
+- [Spørgsmål og svar om bygningers klimapåvirkning](../../spoergsmaal-og-svar-om-bygningers-klimapaavirkning)
 - [Bygningsreglementets vejledning om energiforbrug](./)
-- [Bygningsreglementets vejledning om efterisolering](../ofte-rentable-konstruktioner)
-- [Vejledning om funktionsafprøvning](../version-2-funktionsafprovning)
-- [Vejledning om håndtering af forskelligt energibehov i energirammen](../haandtering-af-forskelligt-energibehov)
-- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../bygningers-klimapaavirkning-1-juli-2025)
-- [Vejledning om energiberegning af hospitaler](../energiberegning-af-hospitaler)
-- [Eksempelsamling for energi](../eksempelsamling)
+- [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner)
+- [Vejledning om funktionsafprøvning](../../version-2-funktionsafprovning)
+- [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov)
+- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../../bygningers-klimapaavirkning-1-juli-2025)
+- [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler)
+- [Eksempelsamling for energi](../../eksempelsamling)
 
 ## Bygningsreglementets vejledning om energiforbrug
 
@@ -48,7 +48,7 @@ Bestemmelsen om vedvarende energi medfører at vedvarende energianlæg kan indre
 
 Bygningsreglementet indeholder ikke krav til hvordan det vedvarende anlæg er tilkoblet i bygningen og hvordan afregningen af den producerede energi foretages. Det vigtige er i denne sammenhæng om det vedvarende energianlæg er etableret til energiforsyning af den konkrete bygning. Det betyder fx at man ikke kan indregne vedvarende energianlæg, der allerede er etableret af andre grunde end energiforsyning af den konkrete bygning.
 
--  [Gå til krav om vedvarende energi (§ 265)](../../krav/261_266#3a8ca349-26eb-45ea-919c-350ef44b666a){target="_blank"}
+-  [Gå til krav om vedvarende energi (§ 265)](../../../krav/261_266#3a8ca349-26eb-45ea-919c-350ef44b666a){target="_blank"}
 
 ### Ændret anvendelse {#1768cdff-bc36-4979-b144-536aa44263bc}
 

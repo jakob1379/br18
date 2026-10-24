@@ -23,7 +23,7 @@ Indførelse af en certificeringsordning i byggeriet er en del af afskaffelsen af
 
 Certificeringsordningen fungerer på den måde, at certificerede rådgivere som led i projekteringen, udførelsen og kontrollen af et byggeri skal dokumentere, at byggeriet er dokumenteret og kontrolleret i henhold til reglerne på brand- og konstruktionsområdet.    For at sikre det rette sikkerhedsniveau i det konkrete byggeri, indplaceres alt byggeri i fire klasser inden for konstruktioner og brandforhold; konstruktionsklasse KK1-KK4 og brandklasse BK1-BK4.    Ukompliceret byggeri som fx enfamiliehuse og sommerhuse vil kunne opføres i KK1 og BK1, hvor der ikke kræves brug af en certificeret rådgiver. Jo mere kompliceret et byggeri er, jo højere brandklasse og/eller konstruktionsklasse vil byggeriet blive indplaceret i, og jo højere krav stilles der til de certificerede rådgiveres kompetencer.    Byggeri, hvor der kan være stor risiko ved et svigt i brandsikkerheden eller konstruktioner, kategoriseres som henholdsvis BK4 og KK4. Her vil der udover den almindelige kontrol fra en certificeret rådgiver være krav om, at projektet godkendes af en uvildig certificeret rådgiver, som er certificeret til at gennemføre en tredjepartskontrol.    [](./#989cf28d-6d07-430f-9cd9-af3e859240e3)
 
-### Hvordan hænger certificeringsordningen sammen med den øvrige afskaffelse af den kommunale tekniske byggesagsbehandling?
+### Hvordan hænger certificeringsordningen sammen med den øvrige afskaffelse af den kommunale tekniske byggesagsbehandling? {#989cf28d-6d07-430f-9cd9-af3e859240e3}
 
 Den *1. januar 2009* blev byggesagsbehandlingen afskaffet for enfamiliehuse, sommerhuse og lignende små bygninger.    Den *1. juli 2018* blev byggesagsbehandlingen af dokumentationen af de tekniske forhold, undtagen brand og konstruktion, for alt byggeri afskaffet. Det omfatter fx bygningers ventilationsforhold, indeklima og energiforbrug.    Den 1*. januar 2020* afskaffes den kommunale sagsbehandling af de brand- og konstruktions forhold, og certificeringsordningen indføres som en obligatorisk del af et mere kompliceret byggeprojekt.    **Undtaget for reglen** er midlertidige arrangementer som fx markeder, byfester, festivaler og lignende, midlertidige overnatninger, og arrangementer i eksisterende forsamlingslokaler. I disse tilfælde kan bygherren fortsat vælge teknisk byggesagsbehandling hos kommunen.    Derudover gælder der en overgangsordning på konstruktionsområdet frem til 1. juli 2020. [](../overgangsperiode-for-brug-af-anerkendte-statikere-indtil-1-juli-2020#e6a626de-ea49-4f61-a553-93da0962ffc0)
 
@@ -65,9 +65,9 @@ Trafik-, Bygge- og Boligstyrelsen har udarbejdet en lang række vejledninger rel
 
 Vejledningerne uddyber kravene til, hvad der anses som nødvendigt for, at et projekt er strækkeligt dokumenteret. Vejledningerne er præciseringer af eksisterende vejledninger samt beskrivelser af, hvad der allerede bør være almindelig praksis. Derudover er der udarbejdet vejledninger, som detaljeret beskriver, f.eks. hvordan et byggeri kan brandsikres, så kravene i bygningsreglementet er opfyldt. 
 
-[Den samlede oversigt over bygningsreglementets vejledninger kan findes her.](../../../../../Vejledninger/Bygningsreglementets-vejledninger/Oversigt_BR_Vejledninger){rel="noopener noreferrer" target="_blank"}
+[Den samlede oversigt over bygningsreglementets vejledninger kan findes her.](../../../../bygningsreglementets-vejledninger/oversigt_br_vejledninger){rel="noopener noreferrer" target="_blank"}
 
-[Andre vejledninger kan findes her](../../../../../Vejledninger/Andre_vejledninger/Andre_vejledninger){rel="noopener noreferrer" target="_blank"}.
+[Andre vejledninger kan findes her](../../../andre_vejledninger){rel="noopener noreferrer" target="_blank"}.
 
 ### Hvordan foretages den årlige kontrol af den certificeredes virke? (05.07.2021)
 
