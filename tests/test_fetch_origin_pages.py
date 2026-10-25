@@ -72,6 +72,25 @@ class FetchFromSnapshotTest(unittest.TestCase):
         self.assertIn("vejledningen", (docs / target.strip("/") / "index.html").read_text())
         self.assertFalse((docs / alias.strip("/")).exists())
 
+    def test_page_missing_from_the_snapshot_is_reported_and_the_rest_fetched(self) -> None:
+        tmp = Path(tempfile.mkdtemp())
+        self.addCleanup(shutil.rmtree, tmp)
+        cache = tmp / "cache"
+        cache.mkdir()
+        record = page("/tekniske-bestemmelser/16/krav/", "kapitlet")
+        (cache / f"{hashlib.sha256(record['url'].encode()).hexdigest()[:32]}.json").write_text(json.dumps(record))
+
+        result = subprocess.run(
+            [sys.executable, str(SCRIPT), "--docs-root", str(tmp / "docs"), "--cache-dir", str(cache),
+             f"{SITE}/tekniske-bestemmelser/16/", f"{SITE}/tekniske-bestemmelser/16/krav/"],
+            capture_output=True,
+            text=True,
+        )
+
+        self.assertEqual(result.returncode, 1)
+        self.assertIn("tekniske-bestemmelser/16/", result.stderr)
+        self.assertIn("kapitlet", (tmp / "docs" / "tekniske-bestemmelser" / "16" / "krav" / "index.html").read_text())
+
     def test_mixed_case_url_is_written_at_the_lowercase_path(self) -> None:
         mixed = "/Tekniske-bestemmelser/17/Vejledninger/Kontorbygninger"
         record = page(mixed.lower() + "/", "kontorbyggeri", final=mixed)

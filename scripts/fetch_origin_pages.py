@@ -6,6 +6,7 @@ import argparse
 import hashlib
 import json
 import re
+import sys
 from pathlib import Path
 from urllib.parse import quote, unquote, urlsplit, urlunsplit
 from urllib.request import Request, urlopen
@@ -77,18 +78,24 @@ def main() -> int:
     args = parser.parse_args()
 
     docs_root = Path(args.docs_root).resolve()
+    failed = 0
     for raw in args.urls:
         url = raw if raw.startswith("http") else f"{SITE_ROOT.rstrip('/')}/{raw.lstrip('/')}"
-        html, final = download(url, args.cache_dir)
-        page = urlsplit(final)._replace(query="", fragment="").geturl()
-        expand_all = EXPAND_ALL_RE.search(html)
-        if expand_all and urlsplit(final).query != "Layout=ShowAll" and (not is_section_page(html, page) or is_krav_subpage(page)):
-            html, _ = download(expand_all.group(1).decode(), args.cache_dir)
+        try:
+            html, final = download(url, args.cache_dir)
+            page = urlsplit(final)._replace(query="", fragment="").geturl()
+            expand_all = EXPAND_ALL_RE.search(html)
+            if expand_all and urlsplit(final).query != "Layout=ShowAll" and (not is_section_page(html, page) or is_krav_subpage(page)):
+                html, _ = download(expand_all.group(1).decode(), args.cache_dir)
+        except OSError as exc:
+            failed += 1
+            print(f"not fetched: {url} ({exc})", file=sys.stderr)
+            continue
         target = target_path_for_url(docs_root, page)
         target.parent.mkdir(parents=True, exist_ok=True)
         target.write_bytes(html)
         print(target.relative_to(docs_root.parent))
-    return 0
+    return 1 if failed else 0
 
 
 if __name__ == "__main__":
