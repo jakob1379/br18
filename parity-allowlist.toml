@@ -7,3 +7,15 @@
 # kind = "extra_text"
 # item = "§ 48"
 # reason = "Why this difference is intentional."
+
+[[exception]]
+page = "/tekniske-bestemmelser/05/vejledninger/spoergsmaal-og-svar/aba-anlaeg-alarmtransmission/"
+kind = "extra_text"
+item = "Index"
+reason = "Origin defect: the origin page is blank (empty <main>, title 'BR18'; re-checked live 2026-10-25) although other pages link to it. The clone's page is empty too; 'Index' is only the theme's fallback H1 for a page without a title."
+
+[[exception]]
+page = "/tekniske-bestemmelser/05/vejledninger/spoergsmaal-og-svar/spoergsmaal-og-svar-om-lagerhoteller/"
+kind = "extra_text"
+item = "Index"
+reason = "Origin defect: the origin page is blank (empty <main>, title 'BR18'; re-checked live 2026-10-25) although other pages link to it. The clone's page is empty too; 'Index' is only the theme's fallback H1 for a page without a title."

@@ -40,7 +40,10 @@ Version 1.4 (29.10.2021)
 
 Version 1.3 (17.06.2021)
 
-[Åbn Bilag 2: Præ-accepterede løsninger for etageboligbyggeri version 1.1 med ændringsvandmærke](../../../../../media/kkwfich2/bilag-2-etageboligbyggeri-ver-11-20200701-nu-med-ndringsvandmrke-a.pdf "Bilag 2 Etageboligbyggeri ver 11 20200701 nu med ndringsvandmrke")
+[Åbn Bilag 2: Præ-accepterede løsninger for etageboligbyggeri version 1.2 med ændringsvandmærke](../../../../../media/kkwfich2/bilag-2-etageboligbyggeri-ver-11-20200701-nu-med-ndringsvandmrke-a.pdf "Bilag 2 Etageboligbyggeri ver 11 20200701 nu med ndringsvandmrke")
 
-Version 1.1 (01.07.2020)
+Version 1.2 (03.07.2020)
 
+[Åbn Bilag 2: Præ-accepterede løsninger for etageboligbyggeri version 1.1](../../../../../media/zkuhr42h/bilag-2_praeaccepterede_loesninger_for_etageboligbyggeri_version-11_20122018.pdf "Bilag 2 Praeaccepterede Loesninger For Etageboligbyggeri Version 1.1 20122018")
+
+Version 1.1 (20.12.2018)

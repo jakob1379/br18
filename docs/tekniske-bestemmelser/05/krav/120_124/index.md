@@ -328,7 +328,7 @@ Design, projektering og udførelse af redningsåbninger skal ske under hensyn ti
 
 4) At redningsåbninger i brandmæssige enheder kan åbnes uden brug af nøgle eller særligt udstyr, når der opholder sig personer som har lovlig adgang, i de pågældende brandmæssige enheder.
 
-## § 99 - § 103 Bærende konstruktioners brandmodstandsevne {#916e0fd2-a694-4fcc-a9e7-ba687c40c206}
+## § 99 - 103 Bærende konstruktioners brandmodstandsevne {#916e0fd2-a694-4fcc-a9e7-ba687c40c206}
 
 ### § 99 {#paragraf-99}
 
@@ -719,7 +719,7 @@ En drifts-, kontrol- og vedligeholdelsesplan for bygningsafsnit i § 147 skal ud
 5.  Der er udarbejdet og ophængt en pladsfordelingsplan i lokaler, som er omfattet af § 147, stk. 1, nr. 2.
 6.  Der er udarbejdet en driftsjournal for lokaler, som er omfattet af § 147, stk. 1, nr. 2.
 7.  Det dokumenteres, at kontroller som er foreskrevet i driftsjournalen er gennemført, og nødvendige udbedringer er foretaget. Dokumentationen skal opbevares på stedet.
-8.  Der i soverumsafsnit, som er omfattet af § 147, stk. 1, nr. 3, er udarbejdet og ophængt opslag til brugerne om alarmering og evakuering. Opslagene skal placeres synligt på alle værelser og i fællesarealer.
+8.  Der i soverumsafsnit, som er omfattet af§ 147, stk. 1, nr. 3, er udarbejdet og ophængt opslag til brugerne om alarmering og evakuering. Opslagene skal placeres synligt på alle værelser og i fællesarealer.
 9.  Der i eksisterende soverumsafsnit i plejeinstitutioner, hvor der ikke er installeret automatisk brandalarmanlæg, er en fast vågen vagt pr. 50 meter ganglængde på hver etage.
 10. Det sikres, at der i tilstrækkeligt omfang er opstillet håndslukningsudstyr.
 11. Der udarbejdes beskrivelser af omfang og frekvens af eventuelle brand- og evakueringsøvelser.
