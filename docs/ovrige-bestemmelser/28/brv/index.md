@@ -1,7 +1,5 @@
 ---
 title: Dokumentation af bærende konstruktioner (§ 494 - § 505) – Vejledning
-hide:
-  - navigation
 ---
 
 # Dokumentation af bærende konstruktioner (§ 494 - § 505)

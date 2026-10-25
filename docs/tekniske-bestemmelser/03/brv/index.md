@@ -7,16 +7,9 @@ title: Affaldssystemer (§ 63 - § 68) – Vejledning
 [Krav](../){ .md-button }
 [Vejledning](./){ .md-button .md-button--primary }
 
-## Se alle vejledninger om Affaldssystemer (§ 63 - § 68)
+## Bygningsreglementets vejledning om affaldssystemer
 
-- [Forord](./#forord)
-- [Generelt](./#generelt)
-- [Eksempler på affaldssystemer](./#eksempler-paa-affaldssystemer)
-- [Pladskrav](./#pladskrav)
-- [Brugerhensyn](./#brugerhensyn)
-- [Affaldsskakte i eksisterende byggeri](./#affaldsskakte-i-eksisterende-byggeri)
-
-## Forord {#forord}
+### Forord {#9ab0ac2f-29a3-4947-8417-f34d30606232}
 
 For at opnå en større grad af fleksibilitet ved indretning af affaldssystemer og mulighed for eksempelvis at indrette systemer, der passer til det konkrete byggeri i nybyggeri, blev de tidligere detailkrav om etablering af affaldsskakte i boligbyggerier på mere end tre etager ændret. Dette skete med virkning fra den 1. juli 2017, hvor de hidtidige krav blev erstattet af funktionskrav om etablering af affaldssystemer.
 
@@ -26,35 +19,35 @@ Etablering af affaldsskakte vil være blandt de løsninger til bortskaffelse. De
 
 Med indførelsen af et funktionskrav sikres balance mellem hensynet til, at alle borgere kan bortskaffe deres affald, samt fleksibiliteten for bygherrer til at vælge de løsninger, som bedst tilgodeser behovet i netop deres byggeri, herunder også hensynet til kommunernes krav til eksempelvis kildesortering.
 
-## Generelt {#generelt}
+### 1. Generelt {#949c3121-98e4-4f31-90b3-ddd183407389}
 
-Reglerne på affaldsforsyningsområdet findes i miljøbeskyttelsesloven, [affaldsbekendtgørelsen](https://www.retsinformation.dk/eli/lta/2024/1749) og affaldsregisterbekendtgørelsen. Mange af bestemmelserne udspringer af EU-lovgivning.
+Reglerne på affaldsforsyningsområdet findes i miljøbeskyttelsesloven, affaldsbekendtgørelsen og affaldsregisterbekendtgørelsen. Mange af bestemmelserne udspringer af EU-lovgivning.
 
 Yderligere information om affaldshåndtering kan findes på følgende link:
 
 <https://ens.dk/ansvarsomraader/affald/nstar>
 
-Bygningsreglementets krav (BR18) til etablering af affaldssystemer fremgår af [Kapitel 3](/tekniske-bestemmelser/03/), Affaldssystemer.
+Bygningsreglementets krav (BR18) til etablering af affaldssystemer fremgår af Kapitel 3, Affaldssystemer.
 
-Bestemmelserne findes nærmere bestemt i §63 til [§68](/tekniske-bestemmelser/03/krav/).
+Bestemmelserne findes nærmere bestemt i §63 til §68.
 
 Det betyder, at design, udførelse, drift og vedligehold af affaldssystemer skal ske under hensyn til:
 
-> • at der ikke opstår risiko for personers sundhed.
+> •  at der ikke opstår risiko for personers sundhed.
 >
-> • at der ikke opstår komfortmæssige gener, f.eks. støj- og lugtgener.
+> •  at der ikke opstår komfortmæssige gener, f.eks. støj- og lugtgener.
 >
-> • at det er muligt at foretage kildesortering.
+> •  at det er muligt, at foretage kildesortering.
 >
-> • at der ikke sker unødigt forbrug af energi.
+> •  at der ikke sker unødigt forbrug af energi.
 
-Af § 65 fremgår det, at affaldssystemerne skal indrettes, så det er muligt for brugerne at benytte dem ved egen hjælp. Her henvises i den forbindelse til [kapitel 6](/tekniske-bestemmelser/06/) og [kapitel 20](/tekniske-bestemmelser/20/) om indretning og etablering af henholdsvis brugerbetjente anlæg samt om ubebyggede arealer ved bebyggelse.
+Af § 65 fremgår det, at affaldssystemerne skal indrettes, så det er muligt for brugerne at benytte dem ved egen hjælp. Her henvises i den forbindelse til kapitel 6 og kapitel 20 om indretning og etablering af henholdsvis brugerbetjente anlæg samt om ubebyggede arealer ved bebyggelse.
 
 Det betyder, at kravene til opsætning af brugerbetjente anlæg også omfatter indkast til affaldssystemer. Desuden er der indført et krav om, at der ved arealer til opbevaring af affald i tilknytning til boligerne skal være adgangsforhold, der sikrer, at brugerne ved egen hjælp kan komme ind i arealerne og anvende funktionerne.
 
 Bygherren skal efter de nye regler forsat tage hensyn til, at der ikke opstår sundhedsmæssig risiko eller unødige gener som følge af etablering af eksempelvis affaldsøer i det konkrete byggeri.
 
-## Eksempler på affaldssystemer {#eksempler-paa-affaldssystemer}
+### 2. Eksempler på affaldssystemer {#5e2cd802-b148-4e93-9e35-f48184cffe30}
 
 Mange kommuner har etableret ordninger for sortering af organisk affald, plast, papir, pap, metal, glas, restaffald, småt elektronik, farligt affald og storskrald m.v. Det er ikke er ualmindeligt, at der skal opstilles materiel til kildesortering af mellem 5 og 10 affaldsfraktioner.
 
@@ -62,13 +55,15 @@ Det er op til kommunalbestyrelsen at beslutte, hvordan affaldsordningen skal adm
 
 Affaldssystemerne fordeler sig overordnet set på følgende typer:
 
-> • Affaldsskakte
+> •  Affaldsskakte
 >
-> • Central og mobilsug
+> •  Central og mobilsug
+
 >
-> • Nedgravede beholdere, nedgravede containere og kuber
+
+> •  Nedgravede beholdere, nedgravede containere og kuber
 >
-> • Affaldsøer/affaldsskure til beholdere på hjul
+> •  Affaldsøer/affaldsskure til beholdere på hjul
 
 **Affaldsskakte**
 
@@ -78,37 +73,39 @@ Etageejendomme med affaldsskakte har et skaktindkast på hver etageadskillelse. 
 
 **Central- og mobilsug**
 
-Centralsug kan etableres med flere indkastmuligheder. Derved muliggøres kildesortering af flere affaldsfraktioner kan finde sted. Centralsug etableres oftest i nybyggeri med etageboliger. Systemet kan kombineres med skakt, men indkast til flere affaldsfraktioner kan også etableres i terræn, og affaldet kan derved afleveres samlet et centralt sted i bebyggelsen, eksempelvis i gårdanlægget.
+Centralsug, kan etableres med flere indkastmuligheder. Derved muliggøres kildesortering af flere affaldsfraktioner kan finde sted. Centralsug etableres oftest i nybyggeri, med etageboliger. Systemet kan kombineres med skakt, men indkast til flere affaldsfraktioner kan også etableres i terræn, og affaldet kan derved afleveres samlet, et centralt sted i bebyggelsen, eksempelvis i gårdanlægget.
 
 Ved centralsug suges affaldet til en eller flere containere, der derefter hentes af en lastbil.
 
-Ved mobilsug suges affaldet af en specialindrettet renovationsvogn, der suger affaldet fra de etablerede tanke. Renovationsvognen kan være stor (12-meter og 4-akslet) og kræver derfor typisk gode tilkørselsforhold.
+Ved mobilsug suges affaldet af en specialindrettet renovationsvogn, der suger affaldet fra de etablerede tanke. Renovationsvognen kan være stor (12-meter og 4-akslet), og kræver derfor typisk gode tilkørselsforhold.
 
 **Nedgravede beholdere og nedgravede containere**
 
-Nedgravede beholdere og nedgravede containere har en mindre top i terræn med et eller flere indkastmuligheder og kildesortering af flere fraktioner er derfor mulig. Forskellen mellem nedgravet beholder og nedgravede containere er størrelsen/volumen og hvordan de fylder i gadebilledet.
+Nedgravede beholdere og nedgravede containere har en mindre top i terræn med et eller flere indkastmuligheder og kildesortering af flere fraktioner er derfor mulig. Forskellen mellem nedgravet beholder og nedgravede containere er størrelsen/volumen, og hvordan de fylder i gadebilledet.
 
-Nedgravede beholderne tømmes med kranbil, så det er vigtigt, at beholderne etableres med gode tilkørselsforhold. Kuber er overjordiske større beholdere (ca. 2 m2) der tømmes med kranbil.
+Nedgravede beholderne tømmes med kranbil, så det er vigtigt, at beholderne etableres med gode tilkørselsforhold.  Kuber er overjordiske større beholdere (ca. 2 m3) der tømmes med kranbil.
 
 **Affaldsøer/affaldsskure til beholdere på hjul**
 
 Affaldsbeholdere på hjul findes i mange forskellige varianter og størrelser, med et eller flere rum, til indsamling af en eller flere affaldsfraktioner. Nogle kommuner benytter denne beholderløsning til indsamling af kildesorteret eller kildeopdelt affald fra husholdningerne.
 
-Beholdere på hjul kan placeres tæt på boligen og er en enkel og fleksibel, men en pladskrævende, affaldsløsning. I etageboliger med affaldsskakte etableres affaldsøer/affaldsskure med beholdere i terræn, til borgernes genanvendelige affald som for eksempel kan være plast, pap, papir, metal og organisk m.v.
+Beholdere på hjul kan placeres tæt på boligen og er en enkel og fleksibel, men en pladskrævende, affaldsløsning. I etageboliger med affaldsskakte, etableres affaldsøer/affaldsskure med beholdere i terræn, til borgernes genanvendelige affald som for eksempel kan være plast, pap, papir, metal og organisk m.v.
 
 Samtlige typer af affaldssystemer stiller visse krav til opbevaring på matriklen. Det kan være i form af opbevarings- og opsamlingstank, underjordiske rørsystemer samt selve opsamlingsstedet. Etableringen af affaldssystemerne vil være omfattet af bygningsreglementets bestemmelser samt den enkelte kommunalbestyrelses krav og anbefalinger.
 
-## Pladskrav {#pladskrav}
+>
 
-Der er varierende pladskrav forbundet med de enkelte indsamlingssystemer. De enkelte indsamlingssystemer og heraf kommuners krav til kildesortering af husholdningsaffaldet er ligeledes varierende.
+### 3. Pladskrav {#44b6a6f1-cdf5-4e26-9304-f03bf430c891}
 
-Enfamiliehuse skal reservere et givent areal på matriklen til placering af affaldsbeholdere. Da tømningen skal ske fra offentlig vej, er det blevet et almindeligt krav i kommunerne, at disse beholdere skal stå i forhaven med en maksimumafstand til kantsten.
+Der er varierende pladskrav forbundet med de enkelte indsamlingssystemer. De enkelte indsamlingssystemer og heraf kommuners krav til kildesortering af husholdningsaffaldet, er ligeledes varierende.
 
-I fællesbebyggelser (etagebyggeri og tæt/-lav-bebyggelse) skal der afhængig af bebyggelsens omfang og antal boliger indrettes én eller flere - store eller små - affaldsgårde, hvor et antal (fra 5 til 10) affaldsfraktioner skal kunne indsamles. Hertil kommer, at de fleste fællesbebyggelser har behov for opsamling af storskrald, som til dels er "stort brændbart", men også f.eks. kan være rent træ til genanvendelse, tekstiler eller lign. Samtidig anbefaler man i reglen fra affaldsselskabets/kommunens side, at der opføres skure til opsamling af farligt affald samt stort elektronikaffald.
+Enfamiliehuse skal reservere et givent areal på matriklen, til placering af affaldsbeholdere.  Da tømningen skal ske fra offentlig vej, er det blevet et almindeligt krav i kommunerne, at disse beholdere skal stå i forhaven med en maksimumafstand til kantsten.
 
-Ved byggeri i tætte byområder er det almindeligt, at kommune og bygherre indgår aftale om, at indsamling og kildesortering af husholdningsaffald m.v. kan ske i over- eller underjordiske beholdere placeret på offentlig vej, placeret i umiddelbar nærhed af den bebyggelse, der genererer affaldet.
+I fællesbebyggelser (etagebyggeri og tæt/-lav-bebyggelse), skal der afhængig af bebyggelsens omfang og antal boliger indrettes én eller flere - store eller små - affaldsgårde, hvor et antal (fra 5 til 10) affaldsfraktioner skal kunne indsamles. Hertil kommer, at de fleste fællesbebyggelser har behov for opsamling af storskrald, som til dels er ”stort brændbart”, men også f.eks. kan være rent træ til genanvendelse, tekstiler eller lign. Samtidig anbefaler man i reglen fra affaldsselskabets/kommunens side, at der opføres skure til opsamling af farligt affald samt stort elektronikaffald.
 
-## Brugerhensyn {#brugerhensyn}
+Ved byggeri i tætte byområder, er det almindeligt, at kommune og bygherre indgår aftale om, at indsamling og kildesortering af husholdningsaffald m.v. kan ske i over- eller underjordiske beholdere placeret på offentlig vej, placeret i umiddelbar nærhed af den bebyggelse, der genererer affaldet.
+
+### 4. Brugerhensyn {#cf35d4fb-7f22-4403-9b39-372cc0b8025b}
 
 Bygningsreglementets bestemmelser om affaldssystemer indeholder foruden kravet om etablering af affaldssystemer også en række præciseringer, der skal sikre, at alle brugere kan betjene affaldssystemerne.
 
@@ -150,12 +147,12 @@ For nærmere information om brugergrupperne og de hensyn, der skal tages for de 
 
 Vejledning om BR18 tilgængeligheds krav. Dansk Standard håndbog 186.
 
-## Affaldsskakte i eksisterende byggeri {#affaldsskakte-i-eksisterende-byggeri}
+### 5. Affaldsskakte i eksisterende byggeri {#9066c486-cccb-4977-a72e-b70d06564b36}
 
-Hvis bygherre ønsker at nedlægge affaldsskakte i eksisterende byggeri, skal det dokumenteres, at de hensyn, der fremgår af [kapitel 3](/tekniske-bestemmelser/03/) i BR18 imødekommes.
+Hvis bygherre ønsker at nedlægge affaldsskakte i eksisterende byggeri, skal det dokumenteres, at de hensyn, der fremgår af kapitel 3 i BR18 imødekommes.
 
-Det er kommunalbestyrelsen, der er bygningsmyndighed, og derfor træffer afgørelse i sager omfattet af [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178), herunder ved spørgsmål om udførelse af affaldssystemer i etagebyggeri.
+Det er kommunalbestyrelsen, der er bygningsmyndighed, og derfor træffer afgørelse i sager omfattet af byggeloven, herunder ved spørgsmål om udførelse af affaldssystemer i etagebyggeri.
 
 Kommunalbestyrelsen kan nægte at give tilladelse, hvis ikke hensynene i bygningsreglementet vurderes at være opfyldt.
 
-Ved ombygning af eksisterende byggeri afhænger det af de konkrete omstændigheder, om det vil kræve en byggetilladelse. Isoleret set kan nedlæggelse af en affaldsskakt foretages uden en byggetilladelse. Dog vil det i praksis formentlig kræve byggetilladelse i langt de fleste tilfælde, da nedlæggelsen enten vil indebære væsentlige ombygninger i byggeriet, eksempelvis ved at inddrage arealet til beboelse, en overskridelse af bebyggelsesprocenten på grunden, der kræver en helhedsvurdering efter ansøgning ved kommunalbestyrelsen eller, at inddragelse af et friareal til at anlægge en affaldsø, hvilket vil være i strid med den byggetilladelse, der er givet, og derfor også kræve ansøgning om byggetilladelse.
+Ved ombygning af eksisterende byggeri, afhænger det af de konkrete omstændigheder, om det vil kræve en byggetilladelse. Isoleret set kan nedlæggelse af en affaldsskakt foretages uden en byggetilladelse. Dog vil det i praksis formentlig kræve byggetilladelse i langt de fleste tilfælde, da nedlæggelsen enten vil indebære væsentlige ombygninger i byggeriet, eksempelvis ved at inddrage arealet til beboelse, en overskridelse af bebyggelsesprocenten på grunden, der kræver en helhedsvurdering efter ansøgning ved kommunalbestyrelsen eller, at inddragelse af et friareal til at anlægge en affaldsø, hvilket vil være i strid med den byggetilladelse, der er givet, og derfor også kræve ansøgning om byggetilladelse.

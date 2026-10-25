@@ -1,7 +1,5 @@
 ---
 title: Administrative bestemmelser (§ 1 - § 47) – Vejledning
-hide:
- - navigation
 ---
 
 # Administrative bestemmelser (§ 1 - § 47)

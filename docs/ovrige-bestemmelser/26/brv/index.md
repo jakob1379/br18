@@ -1,16 +1,13 @@
 ---
 title: Konstruktionsklasser (§ 485 - § 489) – Vejledning
-hide:
-  - navigation
 ---
 
 # Konstruktionsklasser (§ 485 - § 489)
 
 [Krav](../){ .md-button }
 [Vejledning](./){ .md-button .md-button--primary }
-[PDF](../){ .md-button }
 
-## Se alle vejledninger om Konstruktionsklasser (§ 485 - § 489) {#indholdsoversigt}
+## Se alle vejledninger om Konstruktionsklasser (§ 485 - § 489)
 
 - [Spørgsmål og svar](spoergsmaal-og-svar/)
 - [Vejledning om indplacering i konstruktionsklasser](indplacering-i-konstruktionsklasser/)

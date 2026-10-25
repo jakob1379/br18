@@ -1,7 +1,5 @@
 ---
 title: Energiforsyningsanlæg i tilknytning til bygninger (§ 299 - § 328) – Vejledning
-hide:
- - navigation
 ---
 
 # Energiforsyningsanlæg i tilknytning til bygninger (§ 299 - § 328)
@@ -11,22 +9,11 @@ hide:
 
 ## Bygningsreglementets vejledning om energiforsyningsanlæg i tilknytning til bygninger
 
-## Se alle vejledninger om Energiforsyningsanlæg i tilknytning til bygninger (§ 299 - § 328)
+### Forord {#104a2024-d6c9-4187-988d-fa4014e5e7e3}
 
-- [Forord](./#forord)
-- [1.1. Energiforsyningsanlæg i tilknytning til bygninger](./#kap-1_1)
-- [1.2. Generelt for fyringsanlæg](./#kap-1_2)
-- [1.3. Brændeovne, masseovne og åbne fyringsanlæg](./#kap-1_3)
-- [1.4. Centralvarmekedler, oliebrændere mv.](./#kap-1_4)
-- [1.5. Tilslutning til aftrækssystem](./#kap-1_5)
-- [1.6. Aftrækssystemer til fyringsanlæg](./#kap-1_6)
-- [1.7. Øvrige energiforsyningsanlæg: Solvarme, solcelle-, køleanlæg og varmepumper](./#kap-1_7)
+Installationer er omfattet af bygningsreglementet og byggeloven i det omfang, at de kan betegnes som faste installationer. Faste installationer er typisk installationer, som er fastgjort til bygningen, indbygget i bygningen eller tilsluttet et rørsystem i bygningen. Eksempler på faste installationer er kedler, brændeovne, aftræk, solceller og varmepumper. Eksempler på installationer, som ikke er faste installationer er olieradiatorer, elektriske varmeblæsere, petroleumskaminer og biopejse dvs. typisk installationer, som tilsluttes strømforsyningen gennem en stikkontakt eller ved manuel tilførsel af en mindre mængde brændstof og som er uden aftræk til det fri.
 
-### Forord {#forord}
-
-Installationer er omfattet af bygningsreglementet og [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178) i det omfang, at de kan betegnes som faste installationer. Faste installationer er typisk installationer, som er fastgjort til bygningen, indbygget i bygningen eller tilsluttet et rørsystem i bygningen. Eksempler på faste installationer er kedler, brændeovne, aftræk, solceller og varmepumper. Eksempler på installationer, som ikke er faste installationer er olieradiatorer, elektriske varmeblæsere, petroleumskaminer og biopejse dvs. typisk installationer, som tilsluttes strømforsyningen gennem en stikkontakt eller ved manuel tilførsel af en mindre mængde brændstof og som er uden aftræk til det fri.
-
-Betegnelsen "fast installation" benyttes også i forbindelse med energikravene i bygningsreglementet. Her er der dog tale om faste *varme*installationer, og betegnelsen går på om den konkrete varmeinstallationen udløser energikrav til bygningen, og ikke om den konkrete installation skal overholde bygningsreglementet.
+Betegnelsen ”fast installation” benyttes også i forbindelse med energikravene i bygningsreglementet. Her er der dog tale om faste *varme*installationer, og betegnelsen går på om den konkrete varmeinstallationen udløser energikrav til bygningen, og ikke om den konkrete installation skal overholde bygningsreglementet.
 
 Kravene i bygningsreglementet består dels af krav til produktet og dels af krav til installationen. Krav til produktet stilles kun i det tilfælde, at det ikke allerede er reguleret i anden dansk eller international lovgivning. Om kravet er til produktet, fx krav om virkningsgrad eller til selve installationen, fx krav om ventilation, så gælder det for kravene i bygningsreglementet, at de gælder på installationstidspunktet i bygningen for den enkelte installation og således ikke alene på fx prøvningstidspunktet. Det gælder også, at kravene skal opfyldes for den samlede installation. Det betyder fx, at hvis en kedel udskiftes til en anden kedel, så skal aftrækket tilpasses den nye kedel. Det er eksempelvis ikke tilladt at afmontere kedlens retardere, så der opnås en højere røggastemperatur og dermed et bedre træk i skorstenen. I sådan et tilfælde skal aftrækket tilpasses kedlen og eventuelt udskiftes.
 
@@ -38,7 +25,7 @@ Mange af de produkter som indgår i energiforsyningsanlæg er omfattet af harmon
 
 **Brandkrav**
 
-Brandkrav til rum og konstruktioner i forbindelse med energiforsyningsanlæg i tilknytning til bygninger er fastsat i [kapitel 5](/tekniske-bestemmelser/05/), Brand.
+Brandkrav til rum og konstruktioner i forbindelse med energiforsyningsanlæg i tilknytning til bygninger er fastsat i kapitel 5, Brand.
 
 **Gas og elinstallationer**
 
@@ -56,23 +43,7 @@ Reglerne beskrevet ovenfor er fastlagt i arbejdsmiljøloven, yderligere og opdat
 
 *Opdateret 1. juli 2023*
 
-
-
-[1.1. Energiforsyningsanlæg i tilknytning til bygninger](./#kap-1_1)
-
-[1.2. Generelt for fyringsanlæg](./#kap-1_2)
-
-[1.3. Brændeovne, masseovne og åbne fyringsanlæg](./#kap-1_3)
-
-[1.4. Centralvarmekedler, oliebrændere mv.](./#kap-1_4)
-
-[1.5. Tilslutning til aftrækssystem](./#kap-1_5)
-
-[1.6. Aftrækssystemer til fyringsanlæg](./#kap-1_6)
-
-[1.7. Øvrige energiforsyningsanlæg: Solvarme, solcelle-, køleanlæg og varmepumper](./#kap-1_7)
-
-### Energiforsyningsanlæg i tilknytning til bygninger {#kap-1_1}
+### 1.1. Energiforsyningsanlæg i tilknytning til bygninger {#4b9d2495-a250-4ad6-b96a-a4833bd96098}
 
 Aftrækssystemer, der er beregnet til negativt tryk, bør have en tæthed mindst som tæthedsklasse N1. Skorstensforinger, der er beregnet til negativt tryk, bør have en tæthed mindst som tæthedsklasse N2. Aftrækssystemer, der er beregnet til positivt tryk, bør have en tæthed mindst som tæthedsklasse P1.
 
@@ -82,19 +53,7 @@ Mulighed for rensning af røgrør kan f.eks. ske ved montering af renselem på r
 
 Der henvises til [vejledning om installationer i eksisterende bygninger](../../../vejledninger/andre_vejledninger/vejledning/installationer-eksisterende-byggeri/ "Installationer eksisterende byggeri")
 
-[1.2. Generelt for fyringsanlæg](./#kap-1_2)
-
-[1.3. Brændeovne, masseovne og åbne fyringsanlæg](./#kap-1_3)
-
-[1.4. Centralvarmekedler, oliebrændere mv.](./#kap-1_4)
-
-[1.5. Tilslutning til aftrækssystem](./#kap-1_5)
-
-[1.6. Aftrækssystemer til fyringsanlæg](./#kap-1_6)
-
-[1.7. Øvrige energiforsyningsanlæg: Solvarme, solcelle-, køleanlæg og varmepumper](./#kap-1_7)
-
-### Generelt for fyringsanlæg {#kap-1_2}
+### 1.2. Generelt for fyringsanlæg {#f36ecccb-c33c-4576-a204-120ef4dc9403}
 
 Der henvises til www.brændefyringsportalen.dk
 
@@ -102,29 +61,13 @@ Ved overtryksfyring bør der benyttes dobbeltvæggede aftrækssystemer.
 
 Ved installation bør det sikres, at skorstenstrækket svarer til mindstekravet angivet i kedlens installationsvejledning. Er dette ikke tilfældet, bør aftrækket forbedres eller forsynes med røgsuger.
 
-[1.3. Brændeovne, masseovne og åbne fyringsanlæg](./#kap-1_3)
-
-[1.4. Centralvarmekedler, oliebrændere mv.](./#kap-1_4)
-
-[1.5. Tilslutning til aftrækssystem](./#kap-1_5)
-
-[1.6. Aftrækssystemer til fyringsanlæg](./#kap-1_6)
-
-[1.7. Øvrige energiforsyningsanlæg: Solvarme, solcelle-, køleanlæg og varmepumper](./#kap-1_7)
-
-### Brændeovne, masseovne og åbne fyringsanlæg {#kap-1_3}
+### 1.3. Brændeovne, masseovne og åbne fyringsanlæg {#68ebc771-c526-48d7-a207-dbe4e5dda719}
 
 Ved lukkede centralvarmeanlæg forstås anlæg med sikkerhedsventiler og tilsluttet trykekspansionsbeholder.
 
-Mht. sikkerhedsventil på kedler henvises til At-vejledning B. 4.8 Indretning og anvendelse af fyrede varmtvandsanlæg. [1.4. Centralvarmekedler, oliebrændere mv.](./#kap-1_4)
+Mht. sikkerhedsventil på kedler henvises til At-vejledning B. 4.8 Indretning og anvendelse af fyrede varmtvandsanlæg.
 
-[1.5. Tilslutning til aftrækssystem](./#kap-1_5)
-
-[1.6. Aftrækssystemer til fyringsanlæg](./#kap-1_6)
-
-[1.7. Øvrige energiforsyningsanlæg: Solvarme, solcelle-, køleanlæg og varmepumper](./#kap-1_7)
-
-### Centralvarmekedler, oliebrændere mv. {#kap-1_4}
+### 1.4. Centralvarmekedler, oliebrændere mv. {#3d6c8b14-1cea-4746-bd8f-ef1f31ce537b}
 
 Der er metodefrihed for opfyldelse af kravet til virkningsgrad.
 
@@ -142,13 +85,7 @@ Returtemperatur ved – 12 °C ude:
 
 Ved særlige biobrændselsfyrede anlæg forstås eksempelvis tørringsanlæg for korn, frø og grøntafgrøder, røgeanlæg og varmolieanlæg.
 
-[1.5. Tilslutning til aftrækssystem](./#kap-1_5)
-
-[1.6. Aftrækssystemer til fyringsanlæg](./#kap-1_6)
-
-[1.7. Øvrige energiforsyningsanlæg: Solvarme, solcelle-, køleanlæg og varmepumper](./#kap-1_7)
-
-### Tilslutning til aftrækssystem {#kap-1_5}
+### 1.5. Tilslutning til aftrækssystem {#d14b15a2-2041-4af6-b6de-9c1140fdd0fd}
 
 Den indfyrede effekt vil for de fleste fyringsanlæg kunne oplyses af fabrikanten.
 
@@ -162,21 +99,17 @@ For gasfyrede pejse henvises til gasreglementet.
 
 Kraftvarmeapparater er kraftvarmeenheder med en maksimal kapacitet på 50 kWe, og en maksimal indfyret effekt på 70 kW.
 
-[1.6. Aftrækssystemer til fyringsanlæg](./#kap-1_6)
-
-[1.7. Øvrige energiforsyningsanlæg: Solvarme, solcelle-, køleanlæg og varmepumper](./#kap-1_7)
-
-### Aftrækssystemer til fyringsanlæg {#kap-1_6}
+### 1.6. Aftrækssystemer til fyringsanlæg {#4de4b21b-d4ba-4568-bba5-1b2bfaecfcd1}
 
 Der henvises til DS/EN 1443 Skorstene - generelle krav samt de relevante produktstandarder.
 
 Aftrækssystemer fra anlæg til fyring med fast brændsel bør altid være højere end bygningens højeste punkt. Der stilles i miljølovgivningen krav til højden over tag på skorstene, dvs. det kan enten være bygningsreglementet eller miljølovgivningen som er dimensionsgivende for højden på skorsten. For at leve op til miljølovgivningens krav, bør der ved fastlæggelse af aftrækshøjden, specielt for brændeovne og andre anlæg til fyring med faste brændsler, tages hensyn til spredningsforholdene, dvs. turbulens fra bygning og beplantning, afstand til og højden af omgivende huse samt den fremherskende vindretning i forhold til naboerne. Hvis et fyringsanlæg medfører væsentlige røgluftgener for omgivelserne, giver miljølovgivningen kommunalbestyrelsen mulighed for at kræve, at fyringsanlæg og aftrækssystemet eller fyringen ændres, så generne ophører. Hvis ulemperne ikke kan afhjælpes, kan kommunalbestyrelsen forbyde anvendelse af anlægget.
 
-Der henvises til [§ 300, nr. 8](/tekniske-bestemmelser/12/krav/299_300/)
+Der henvises til § 300, nr. 8
 
 For at kunne undgå at kulilte kan trænge ud i bygningen, er det vigtigt, at eventuelle revner og utætheder i aftrækssystemer kan opdages i tide. Forebyggelse af kulilteulykker i forbindelse med fyring med olie eller fast brændsel kan ske ved etablering af en allikerist eller en skorstenshætte over murede skorstene og ved etablering af en aftrækssikring, der afbryder fyringen i tilfælde af tilstopning af skorsten/aftræk.For kedler med overtryksfyring kan aftrækssikringer dog ikke anvendes. En kuliltealarm kan supplere sikkerheden ved anlægget.
 
-[§320, stk. 2](/tekniske-bestemmelser/12/krav/316_323/) og 3 angiver den nedre grænse for valg af temperaturklasser. Valg af aftrækkets temperaturklasse skal dokumenteres bl.a. på baggrund af prøvning og funktionerne i det konkrete fyringsanlæg, fx selvrensningsfunktioner og styring af røggastemperatur.
+§320, stk. 2 og 3 angiver den nedre grænse for valg af temperaturklasser. Valg af aftrækkets temperaturklasse skal dokumenteres bl.a. på baggrund af prøvning og funktionerne i det konkrete fyringsanlæg, fx selvrensningsfunktioner og styring af røggastemperatur.
 
 Røgrør bør kun monteres i opstillingsrummet.
 
@@ -190,11 +123,9 @@ For CE-mærkede røgrør af stål, der forbinder fyringsanlæg med en skorsten, 
 
 For øvrige aftrækningssystemer, der er omfattet og CE-mærket i henhold til en harmoniseret produktstandard, kan kravet om modstandsdygtighed mod korrosion anses for opfyldt, hvis disse mindst har en bestandighed mod korrosion efter relevant korrosionsklasse i EN 1443.
 
-Skorstene skal, uanset om de er fritstående eller integrerede, overholde bygningsreglementets krav til højde- og afstandsforhold, herunder afstand til skel på mindst 2,5 m, og det skrå højdegrænseplan, såfremt skorstenspiben er af sædvanligt omfang, medregnes denne ikke ved beregning af bygningens højde. Se også [§§ 177-178](/tekniske-bestemmelser/08/krav/).
+Skorstene skal, uanset om de er fritstående eller integrerede, overholde bygningsreglementets krav til højde- og afstandsforhold, herunder afstand til skel på mindst 2,5 m, og det skrå højdegrænseplan, såfremt skorstenspiben er af sædvanligt omfang, medregnes denne ikke ved beregning af bygningens højde. Se også §§ 177-178.
 
-[1.7. Øvrige energiforsyningsanlæg: Solvarme, solcelle-, køleanlæg og varmepumper](./#kap-1_7)
-
-### Øvrige energiforsyningsanlæg: Solvarme, solcelle-, køleanlæg og varmepumper {#kap-1_7}
+### 1.7. Øvrige energiforsyningsanlæg: Solvarme, solcelle-, køleanlæg og varmepumper {#132de16a-1c14-4ca9-8276-7e0c09cdacec}
 
 Solvarmerør kan blive over 85 – 100° C varme og bør derfor ikke placeres i kontakt med brændbart materiale, herunder trækonstruktioner. Der skal træffes foranstaltninger mod skoldningsfare fra varmt brugsvand.
 

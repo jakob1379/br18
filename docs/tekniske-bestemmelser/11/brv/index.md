@@ -1,7 +1,5 @@
 ---
 title: Energiforbrug og klimapåvirkning (§ 250 - § 298) – Vejledning
-hide:
-  - navigation
 ---
 
 # Energiforbrug og klimapåvirkning (§ 250 - § 298)

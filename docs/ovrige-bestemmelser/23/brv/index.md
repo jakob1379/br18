@@ -1,7 +1,5 @@
 ---
 title: Beregningsregler (§ 453 - § 458) – Vejledning
-hide:
-  - navigation
 ---
 
 # Beregningsregler (§ 453 - § 458)

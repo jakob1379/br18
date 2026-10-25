@@ -3,58 +3,58 @@
 [Krav](./){ .md-button .md-button--primary }
 [Vejledning](brv/){ .md-button }
 
-## § 377 - § 378
-
-### § 377 {#p377 #paragraf-377}
+## § 377 Lys og udsyn {#eeceaff9-45f0-4acd-957f-60d6f5e556e4}
 
 I bygninger skal der være lysforhold, der sikrer, at der ikke opstår risiko for personers sikkerhed og sundhed, eller komfortmæssige gener. Det skal sikres, at der er tilstrækkeligt dagslys og udsyn samt tilstrækkelig elektrisk belysning i forhold til anvendelsen.
 
 *Stk. 2.* Projektering og udførelse skal ske under hensyn til, at:
 
-1. Dagslyset udnyttes bedst muligt som lyskilde.
-2. Unødigt energiforbrug undgås.
-3. Unødig varmetilførsel til rummene undgås.
-4. Gener ved direkte solstråling kan undgås.
-5. Gener ved blænding minimeres.
+1.  Dagslyset udnyttes bedst muligt som lyskilde.
+2.  Unødigt energiforbrug undgås.
+3.  Unødig varmetilførsel til rummene undgås.
+4.  Gener ved direkte solstråling kan undgås.
+5.  Gener ved blænding minimeres.
 
-### § 378 {#p378 #paragraf-378}
+## § 378 Udsyn {#5860319c-4b5b-448a-ac1f-482272258204}
+
+### § 378 {#paragraf-378}
 
 Arbejdsrum, opholdsrum, undervisningslokaler og beboelsesrum mv. skal forsynes med vinduer, der er anbragt, så personer i rummene kan se ud på omgivelserne. Vinduer og solafskærmning skal projekteres og udføres, så det sikres, at der kan opretholdes udsyn til omgivelserne i en tilfredsstillende del af brugstiden.
 
-## § 379 - § 381
+## § 379-381 Dagslys {#857b2ac9-edf9-41f4-8b14-c56afb0b5f69}
 
-### § 379 {#p379 #paragraf-379}
+### § 379 {#paragraf-379}
 
 Arbejdsrum, opholdsrum i institutioner, undervisningslokaler, spiserum, i det følgende benævnt arbejdsrum mv., samt beboelsesrum og køkken skal have en sådan tilgang af dagslys, at rummene er tilstrækkeligt belyste.
 
 *Stk. 2.* Tilstrækkelig tilgang af dagslys kan dokumenteres ved, at glasarealet uden skyggende forhold svarer til mindst 10 pct. af det relevante gulvareal. Det angivne glasareal skal korrigeres for evt. skyggende omgivelser, reduceret lystransmittans mv., som angivet i Bygningsreglementets Vejledning om lys og udsyn. Alternativt kan tilstrækkeligt dagslys dokumenteres ved at eftervise, at den indvendige belysningsstyrke fra dagslys er 300 lux eller mere ved mindst halvdelen af det relevante gulvareal i mindst halvdelen af dagslystimerne. For beboelsesrum er det relevante gulvareal lig det indvendige gulvareal. For arbejdsrum mv. er det relevante gulvareal det areal, hvor der placeres arbejdspladser. Såfremt det kan dokumenteres, at rummene er tilstrækkeligt belyste, kan andre beregningsmetoder benyttes som dokumentation.
 
-### § 380 {#p380 #paragraf-380}
+### § 380 {#paragraf-380}
 
 Kravet om tilgang af dagslys kan fraviges, når opfyldelsen vil betyde en afgørende ulempe for virksomhedens drift, f.eks. hvor produktionens art ikke tillader dagslys.
 
-### § 381 {#p381 #paragraf-381}
+### § 381 {#paragraf-381}
 
 Vinduer skal udføres, placeres og eventuelt afskærmes, så solindfald gennem dem ikke medfører overophedning i rummene, og så gener ved direkte solstråling kan undgås.
 
-## § 382 - § 384
+## § 382 - § 384 Elektrisk belysning {#b8c72b63-e263-403b-b1f9-67b39fc5b0b7}
 
-### § 382 {#p382 #paragraf-382}
+### § 382 {#paragraf-382}
 
 Arbejdsrum mv. og fælles adgangsveje skal:
 
-1. Have elektrisk belysning i fornødent omfang. Arbejdspladsbelysning skal udføres i overensstemmelse med DS/EN 12464-1 Lys og belysning – Belysning ved arbejdspladser – Del 1: Indendørs arbejdspladser.
-2. Forsynes med energieffektiv belysning.
-3. Forsynes med automatisk dagslysstyring, hvis der er tilstrækkeligt dagslys.
-4. Hvor der kun er lejlighedsvis benyttelse, forsynes med bevægelsesmeldere. Bestemmelsen gælder også baderum og toiletter i tilknytning til arbejdsrum mv. Anvendelse af bevægelsesmeldere kan udelades, hvor slukning af lyset kan give risiko for ulykker, eller hvor lyskilderne ikke er egnet hertil.
-5. Udføres med belysningsanlæg opdelt i zoner med mulighed for benyttelse efter dagslysforhold og aktiviteter. I mindre arbejdsrum, f.eks. enkeltmandskontorer, kan kravet fraviges.
+1.  Have elektrisk belysning i fornødent omfang. Arbejdspladsbelysning skal udføres i overensstemmelse med DS/EN 12464-1 Lys og belysning – Belysning ved arbejdspladser – Del 1: Indendørs arbejdspladser.
+2.  Forsynes med energieffektiv belysning.
+3.  Forsynes med automatisk dagslysstyring, hvis der er tilstrækkeligt dagslys.
+4.  Hvor der kun er lejlighedsvis benyttelse, forsynes med bevægelsesmeldere. Bestemmelsen gælder også baderum og toiletter i tilknytning til arbejdsrum mv. Anvendelse af bevægelsesmeldere kan udelades, hvor slukning af lyset kan give risiko for ulykker, eller hvor lyskilderne ikke er egnet hertil.
+5.  Udføres med belysningsanlæg opdelt i zoner med mulighed for benyttelse efter dagslysforhold og aktiviteter. I mindre arbejdsrum, f.eks. enkeltmandskontorer, kan kravet fraviges.
 
 *Stk. 2.* Stk. 1 kan fraviges, når opfyldelsen vil betyde en afgørende ulempe for virksomhedens drift.
 
-### § 383 {#p383 #paragraf-383}
+### § 383 {#paragraf-383}
 
-§ 382 gælder også ved udskiftning af armaturer. Ved udskiftning af armaturer er [§ 382, stk. 1, nr. 3](/tekniske-bestemmelser/18/krav/382_384/)-5, dog kun gældende, hvor foranstaltningerne samlet set har den fornødne rentabilitet, jf. [§ 275](/tekniske-bestemmelser/11/krav/).
+ § 382 gælder også ved udskiftning af armaturer. Ved udskiftning af armaturer er § 382, stk. 1, nr. 3-5, dog kun gældende, hvor foranstaltningerne samlet set har den fornødne rentabilitet, jf.§ 275.
 
-### § 384 {#p384 #paragraf-384}
+### § 384 {#paragraf-384}
 
-Der skal gennemføres en funktionsafprøvning af belysningsanlægget før ibrugtagning. Funktionsafprøvningen skal dokumentere, at belysningsanlægget overholder bygningsreglementets krav til belysningsstyrke, samt at dagslysstyring, bevægelsesmeldere og zoneopdeling fungerer efter hensigten.
+Der skal gennemføres en funktionsafprøvning af belysningsanlægget før ibrugtagning. Funktionsafprøvningen skal dokumentere, at belysningsanlægget overholder bygningsreglementets krav til belysningsstyrke, samt at dagslysstyring, bevægelsesmeldere og zoneopdeling fungerer efter hensigten
