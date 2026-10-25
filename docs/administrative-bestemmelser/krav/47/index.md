@@ -612,7 +612,7 @@ For byggearbejder i de enkelte brandklasser gælder følgende:
 
 ### § 22 {#paragraf-22}
 
-Ansøgeren udpeger den eller de certificerede brandrådgivere. Oplysning til identifikation af disse, herunder dokumentation for gyldigt certifikat, skal fremgå af ansøgningen om byggetilladelse. * *
+Ansøgeren udpeger den eller de certificerede brandrådgivere. Oplysning til identifikation af disse, herunder dokumentation for gyldigt certifikat, skal fremgå af ansøgningen om byggetilladelse.
 
 *Stk. 2.* For byggeri i brandklasse 4 udpeger ansøgeren ligeledes en brandrådgiver, der er certificeret til at udføre tredjepartskontrol. Oplysning til identifikation af brandrådgiveren, der er certificeret til at udføre tredjepartskontrol, herunder dokumentation for gyldigt certifikat, skal fremgå af ansøgningen om byggetilladelse.
 

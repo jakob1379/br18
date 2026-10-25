@@ -60,9 +60,9 @@ Vi henviser i øvrigt til Bygningsreglementets vejledning til [kapitel 5](/tekni
 
 **Eksempel 3:**
 
-*På en sommerhusgrund placeres et udhus på 32 m2 i en afstand af 2,5 m fra skel og 2,5 m fra sommerhuset. Da udhusets afstand til skel er 2,5 m skal der som udgangspunkt ikke tages særligt hensyn til brandforholdene. Bemærk, at der er særlige afstandskrav for sekundær bebyggelse i tilknytning til sommerhuse. Læs mere herom i afsnit 4.1.3.
+*På en sommerhusgrund placeres et udhus på 32 m2 i en afstand af 2,5 m fra skel og 2,5 m fra sommerhuset. Da udhusets afstand til skel er 2,5 m skal der som udgangspunkt ikke tages særligt hensyn til brandforholdene. Bemærk, at der er særlige afstandskrav for sekundær bebyggelse i tilknytning til sommerhuse. Læs mere herom i afsnit 4.1.3.*
 
-Det er en forudsætning, at bygningsreglementet, deklarationer og anden lovgivning overholdes.*
+*Det er en forudsætning, at bygningsreglementet, deklarationer og anden lovgivning overholdes.*
 
   [4.0.](../4_0_bebyggelsesregulerende/)
 
