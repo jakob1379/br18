@@ -324,11 +324,13 @@ def _show_all_html(fetcher: OriginFetcher, url: str, links: list[str]) -> str | 
 
 def crawl(
     fetcher: OriginFetcher, sections: set[str], max_pages: int
-) -> tuple[dict[str, str], dict[str, str], dict[str, str]]:
+) -> tuple[dict[str, str], dict[str, str], dict[str, str], dict[str, str]]:
+    """Returns (reference html, own html as served on the page's URL, fetch errors, origin 4xx) per page."""
     seed = SITE + "/"
     todo = deque([seed])
     seen: set[str] = set()
     pages: dict[str, str] = {}
+    own: dict[str, str] = {}
     errors: dict[str, str] = {}
     origin_broken: dict[str, str] = {}
     while todo and len(pages) < max_pages:
@@ -354,8 +356,9 @@ def crawl(
         if section_of(final) in sections:
             show_all = urlsplit(final).query == "Layout=ShowAll"
             pages[page_url] = (None if show_all else _show_all_html(fetcher, final, links)) or rec["html"]
+            own[page_url] = rec["html"]
         todo.extend(canonical_page(u) for u in links if "?" not in u and not looks_asset(urlsplit(u).path))
-    return pages, errors, origin_broken
+    return pages, own, errors, origin_broken
 
 
 def _origin_refs(hrefs: list[str], base: str, docs_root: Path) -> tuple[set[str], set[str]]:
@@ -402,8 +405,11 @@ def _local_view(doc: Path, docs_root: Path, site_dir: Path) -> tuple[ContentPars
     return local, "http://local/" + (doc.relative_to(docs_root).parent.as_posix().strip(".") + "/").lstrip("/")
 
 
-def compare(url: str, origin_html: str, docs_root: Path, site_dir: Path, root_url: str | None = None) -> list[tuple[str, str]]:
-    """root_url: an alias's guide root; its built page supplies the text, links count from both pages."""
+def compare(
+    url: str, origin_html: str, docs_root: Path, site_dir: Path, root_url: str | None = None, own_html: str | None = None
+) -> list[tuple[str, str]]:
+    """root_url: an alias's guide root; its built page supplies the text, links count from both pages.
+    own_html: what the origin shows on the alias's own URL (its own section open); the subpage must keep that text."""
     doc = page_to_doc(urlsplit(url).path, docs_root)
     doc_rel = doc.relative_to(docs_root).as_posix()
     built = _built_page(doc, docs_root, site_dir)
@@ -430,7 +436,11 @@ def compare(url: str, origin_html: str, docs_root: Path, site_dir: Path, root_ur
     missing_text, extra_text = text_diff(origin_words, words("".join(views[0][0].text)))
     if root_url and built.exists():
         # A subpage keeps only its own section of the guide, so only its text that the reference lacks counts.
-        extra_text += [f"(own page) {t}" for t in text_diff(origin_words, words("".join(views[-1][0].text)))[1]]
+        own_words = words("".join(views[-1][0].text))
+        extra_text += [f"(own page) {t}" for t in text_diff(origin_words, own_words)[1]]
+        if own_html:
+            shown = words(ESCAPED_BR.sub(" ", "".join(parse(own_html, "main", None, ORIGIN_SKIP_CLASSES).text)))
+            missing_text += [f"(own page) {t}" for t in text_diff(shown, own_words)[0]]
     origin_pages, origin_files = _origin_refs(origin.links, url, docs_root)
     origin_images = _origin_refs(origin.images, url, docs_root)[1]
     diffs = [("missing_text", t) for t in missing_text] + [("extra_text", t) for t in extra_text]
@@ -546,7 +556,7 @@ def main() -> int:
         ap.error(str(exc))
     fetcher = OriginFetcher(args.origin, Path(args.cache_dir), args.delay)
     try:
-        pages, errors, origin_broken = crawl(fetcher, set(sections), args.max_pages)
+        pages, own, errors, origin_broken = crawl(fetcher, set(sections), args.max_pages)
     finally:
         fetcher.close()
     results: dict[str, list[tuple[str, str]]] = {}
@@ -556,7 +566,7 @@ def main() -> int:
         if _built_page(page_to_doc(urlsplit(r).path, docs_root), docs_root, site_dir).exists()
     }
     for url, html_text in pages.items():
-        diffs = compare(url, html_text, docs_root, site_dir, roots.get(url))
+        diffs = compare(url, html_text, docs_root, site_dir, roots.get(url), own.get(url))
         results[url], allowed[url] = apply_allowlist(url, diffs, allowlist)
     out = Path(args.output)
     out.parent.mkdir(parents=True, exist_ok=True)
