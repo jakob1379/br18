@@ -108,8 +108,6 @@ Risiko for frostskader vil normalt kunne undgås, når følgende vejledning iagt
 
 *Rørinstallation der er korrekt anbragt på den varme side af isoleringen i et skunkrum*
 
-* *
-
 Såfremt der ikke er sikkerhed for at en bygning holdes frostfri, og såfremt installationerne i bygningen kun periodevis er benyttet, bør disse indrettes, således at de kan tømmes.
 
 ### Trykstød

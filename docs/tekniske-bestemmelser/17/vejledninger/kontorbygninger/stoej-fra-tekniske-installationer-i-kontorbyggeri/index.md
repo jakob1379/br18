@@ -59,11 +59,11 @@ Tabel 5.3 indeholder forslag til projekteringsværdier for støj fra tekniske in
 </tr>
 <tr>
 <td>Kantine</td>
-<td>Projektkrav ** <sup>3),4)</sup></td>
+<td>Projektkrav  <sup>3),4)</sup></td>
 </tr>
 <tr>
-<td>Øvrige rum ** <sup>3)</sup></td>
-<td>Projektkrav ** <sup>3)</sup></td>
+<td>Øvrige rum  <sup>3)</sup></td>
+<td>Projektkrav  <sup>3)</sup></td>
 </tr>
 <tr>
 <td colspan="3"><p><strong><em>Supplerende vejledning</em></strong><em>    </em> <strong>[3], [9]</strong></p>
@@ -76,7 +76,7 @@ Tilsvarende grænseværdi for G-vægtet infralydniveau, L<sub>pG</sub> ≤ 85 dB
 <p>1) Projekteringsværdierne gælder i møblerede rum.<br />
 2) Projekteringsværdierne gælder for den enkelte installation.<br />
 3) Der opstilles relevante projektkrav, der kan sikre tilfredsstillende lydforhold for rumanvendelsen.<br />
-4) For kantiner, der benyttes som mødefacilitet, anbefales <strong><em>L</em></strong><sub><strong>Aeq</strong></sub> ≤ 35 dB.****</p></td>
+4) For kantiner, der benyttes som mødefacilitet, anbefales <strong><em>L</em></strong><sub><strong>Aeq</strong></sub> ≤ 35 dB.</p></td>
 </tr>
 </tbody>
 </table>

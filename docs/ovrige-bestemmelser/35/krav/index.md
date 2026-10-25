@@ -92,8 +92,6 @@ Personer, som er i besiddelse af et kursusbevis, uddannelsesbevis eller certifik
 
 En anerkendelse kan fornys ved udløbet af gyldighedsperioden efter ansøgning fra den anerkendte statiker. Som grundlag for fornyelse af anerkendelse tjener oplysninger om ansøgerens virke i en periode op til ansøgningen.
 
-**  **
-
 *Stk. 2.* Hvis anerkendelsesorganet giver en ansøger afslag på fornyet anerkendelse, skal den pågældende have en begrundet skriftlig meddelelse herom.
 
 ### § 560 {#paragraf-560}

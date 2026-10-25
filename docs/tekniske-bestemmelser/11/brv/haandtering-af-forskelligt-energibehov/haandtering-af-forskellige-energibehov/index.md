@@ -41,7 +41,7 @@ Der opereres i det følgende med tre forskellige typer af energibehov.
 3.  Energi udenfor energirammeberegningen
 
 
-****Bygningsenergi**** er bygningens basisenergibehov til bygningsdrift, som bl.a. omfatter opvarmning, køling, ventilation, pumper, varmt brugsvand og belysning.
+**Bygningsenergi** er bygningens basisenergibehov til bygningsdrift, som bl.a. omfatter opvarmning, køling, ventilation, pumper, varmt brugsvand og belysning.
 
 **Tillægsberettiget energi** er energibehov, der er omfattet af tillæg som følge af driftsforhold, der afviger fra standard. Det kan for eksempel være som følge af højt belysningsniveau, ekstra meget ventilation, et stort forbrug af varmt brugsvand eller lang benyttelsestid. Det kan desuden være tillæg af hensyn til særlige, øgede krav til bygningen. Det kan for eksempel være øget ventilation i operationsstuer som følge af renhedskrav.
 

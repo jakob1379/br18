@@ -62,7 +62,7 @@ Ventilation i bygninger - Mekaniske, naturlige og hybride ventilationssystemer
 
 Denne standard specificerer krav til ventilation og ventilationssystemer i bygninger, herunder boliger, beregnet til menneskeligt ophold.
 
-#### @@PROTECTED_10@@
+#### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/s%C3%B8gning/91-140-30-ventilationssystemer-og-klimaanl%C3%A6g/ds-4472013 "DS 447"){target="_blank"}
 
 Kravet om præcision af målere er opfyldt ved anvendelse af typegodkendte målere eller målere med en tilsvarende nøjagtighed.
 

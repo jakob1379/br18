@@ -32,7 +32,7 @@ Dokumentationen af et byggeris bærende konstruktioner skal påvise
 
 ### § 495 {#paragraf-495}
 
-Der skal udarbejdes dokumentation for, at bygningsreglementets krav til bærende konstruktioner overholdes under udførelse og i det færdige byggeri.**  **
+Der skal udarbejdes dokumentation for, at bygningsreglementets krav til bærende konstruktioner overholdes under udførelse og i det færdige byggeri.
 
 ### § 496 {#paragraf-496}
 

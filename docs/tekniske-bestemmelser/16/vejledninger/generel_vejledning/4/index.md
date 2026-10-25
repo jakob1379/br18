@@ -67,7 +67,7 @@ I tabellen nedenfor er der angivet eksempler på hvilke legepladser og legeplads
 <td>Fællesarealer i forbindelse med gårdhaver, boligforeninger og rækkehuse (inklusive dobbelthuse).</td>
 </tr>
 <tr>
-<td><strong>Legepladser og legepladsredskaber, der <em>ikke</em> betragtes som </strong>offentlig tilgængelige ****</td>
+<td><strong>Legepladser og legepladsredskaber, der <em>ikke</em> betragtes som </strong>offentlig tilgængelige </td>
 <td>Legepladsredskaber beliggende på privat grund og hvor benyttelse kun er forbeholdt og muliggjort for højst én boligenhed.</td>
 <td>Private haver (for den enkelte boligenhed) i forbindelse med enfamiliehuse, dobbelthuse rækkehuse og evt. etageboligbyggeri.</td>
 </tr>

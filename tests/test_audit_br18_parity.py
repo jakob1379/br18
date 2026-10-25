@@ -180,7 +180,7 @@ class AuditTest(unittest.TestCase):
 
         self.assertEqual(result.returncode, 0, self.report.read_text(encoding="utf-8"))
 
-    def guide_site(self, root_text: str) -> Origin:
+    def guide_site(self, root_text: str, subpage_text: str = "<h3>1.0 Indledning</h3><h3>2.0 Ramper</h3><p>Ramper skal være jævne.</p>") -> Origin:
         guide = "/tekniske-bestemmelser/02/vejledninger/guide/"
         sections = "<h3>1.0 Indledning</h3><p>Guiden indleder.</p><h3>2.0 Ramper</h3><p>Ramper skal være jævne.</p>"
         links = f'<a href="{guide}">Guide</a><a href="{guide}ramper/">Ramper</a>'
@@ -192,7 +192,7 @@ class AuditTest(unittest.TestCase):
         self.corpus.add("tekniske-bestemmelser/02/vejledninger/guide", local_page(root_text))
         self.corpus.add(
             "tekniske-bestemmelser/02/vejledninger/guide/ramper",
-            local_page("<h3>1.0 Indledning</h3><h3>2.0 Ramper</h3><p>Ramper skal være jævne.</p>"),
+            local_page(subpage_text),
         )
         return self.serve(
             {
@@ -223,6 +223,37 @@ class AuditTest(unittest.TestCase):
         self.assertEqual(result.returncode, 1, report)
         self.assertIn("### https://www.bygningsreglementet.dk/tekniske-bestemmelser/02/vejledninger/guide/ramper/", report)
         self.assertIn("missing_text: Guiden indleder.", report)
+
+    def test_guide_subpage_text_missing_from_its_reference_is_reported(self) -> None:
+        origin = self.guide_site(
+            "<h3>1.0 Indledning</h3><p>Guiden indleder.</p><h3>2.0 Ramper</h3><p>Ramper skal være jævne.</p>",
+            "<h3>1.0 Indledning</h3><h3>@@PROTECTED_7@@</h3><p>Ramper skal være jævne.</p>",
+        )
+
+        result = self.audit(origin)
+
+        report = self.report.read_text(encoding="utf-8")
+        self.assertEqual(result.returncode, 1, report)
+        self.assertIn("### https://www.bygningsreglementet.dk/tekniske-bestemmelser/02/vejledninger/guide/ramper/", report)
+        self.assertIn("@@PROTECTED_7@@", report)
+
+    def test_markup_residue_is_reported(self) -> None:
+        origin = self.two_page_site()
+        self.corpus.add(
+            "administrative-bestemmelser",
+            local_page(
+                "<h1>Anvendelsesområde</h1><p>* *</p><p>Reglementet gælder for alt byggeri. **</p>"
+                '<ul><li><a href="/administrative-bestemmelser/brv/">Vejledning om anvendelse</a></li></ul>'
+            ),
+        )
+
+        result = self.audit(origin, "--section", "S1")
+
+        report = self.report.read_text(encoding="utf-8")
+        self.assertEqual(result.returncode, 1, report)
+        self.assertIn("### https://www.bygningsreglementet.dk/administrative-bestemmelser/krav/", report)
+        self.assertIn("extra_text: * *", report)
+        self.assertIn("extra_text: **", report)
 
     def test_differently_spelled_links_to_one_page_are_fetched_once(self) -> None:
         origin = self.two_page_site()

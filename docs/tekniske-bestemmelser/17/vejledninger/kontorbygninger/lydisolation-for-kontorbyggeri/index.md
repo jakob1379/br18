@@ -31,7 +31,7 @@ Tabel 5.1 indeholder forslag projekteringsværdier for luftlydisolation og trinl
 <td colspan="2"><strong>Kontorbyggeri – Tabel 5.1 Lydisolation – Forslag til projekteringsværdier</strong></td>
 </tr>
 <tr>
-<td><strong>Luftlydisolation</strong> ** <sup>1)</sup> <strong>- Vandret</strong></td>
+<td><strong>Luftlydisolation</strong>  <sup>1)</sup> <strong>- Vandret</strong></td>
 <td><strong><em>R’</em><sub>w</sub></strong></td>
 </tr>
 <tr>
@@ -70,7 +70,7 @@ Tabel 5.1 indeholder forslag projekteringsværdier for luftlydisolation og trinl
 </tr>
 <tr>
 <td>Auditorier og større møde- og videokonferencerum</td>
-<td>Projektkrav ** <sup>2)</sup></td>
+<td>Projektkrav  <sup>2)</sup></td>
 </tr>
 <tr>
 <td>Teknikrum</td>
@@ -78,15 +78,15 @@ Tabel 5.1 indeholder forslag projekteringsværdier for luftlydisolation og trinl
 </tr>
 <tr>
 <td>Mellem kontorer og møderum mod tilgrænsende rum i andre erhvervsenheder eller rum med støjende aktiviteter i samme virksomhed</td>
-<td>≥ 55 dB ** <sup>3)</sup></td>
+<td>≥ 55 dB  <sup>3)</sup></td>
 </tr>
 <tr>
-<td><strong>Luftlydisolation</strong> ** <sup>1)</sup> <strong>- Lodret</strong></td>
+<td><strong>Luftlydisolation</strong>  <sup>1)</sup> <strong>- Lodret</strong></td>
 <td><strong><em>R’</em><sub>w</sub></strong></td>
 </tr>
 <tr>
 <td>Mellem kontorer og møderum mod tilgrænsende rum i andre erhvervsenheder eller rum med støjende aktiviteter i samme virksomhed</td>
-<td>≥ 55 dB ** <sup>3)</sup></td>
+<td>≥ 55 dB  <sup>3)</sup></td>
 </tr>
 <tr>
 <td>Etagedæk mellem andre rum end nævnt ovenfor</td>
@@ -107,18 +107,18 @@ Tabel 5.1 indeholder forslag projekteringsværdier for luftlydisolation og trinl
 <tr>
 <td>Auditorier og større møde- og videokonferencerum</td>
 <td><p>≤ 58 dB eller</p>
-<p>Projektkrav ** <sup>2)</sup></p></td>
+<p>Projektkrav  <sup>2)</sup></p></td>
 </tr>
 <tr>
 <td>I kontorer og møderum fra tilgrænsende rum i andre erhvervsenheder</td>
-<td>≤ 58 dB ** <sup>3)</sup></td>
+<td>≤ 58 dB  <sup>3)</sup></td>
 </tr>
 <tr>
 <td><p><strong>Noter </strong></p>
 <p>1) Der kan til rum med ekstra store krav til fortrolighed være behov for en bedre lydisolation.<br />
 2) Der opstilles i det konkrete projekt lydkrav, der sikrer tilfredsstillende lydforhold for rumanvendelsen.<br />
 3) I tilfælde af særligt generende støj i egen eller andres virksomhed opstilles relevante lydkrav, der sikrer tilfredsstillende lydforhold for rumanvendelsen.<br />
-4) Fra alle omgivende gulve, dæk og trapper.****</p></td>
+4) Fra alle omgivende gulve, dæk og trapper.</p></td>
 <td></td>
 </tr>
 </tbody>

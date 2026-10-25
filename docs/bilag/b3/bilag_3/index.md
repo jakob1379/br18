@@ -4,7 +4,7 @@
 
 |  |  |  |  |
 |:-------------------------|:------------|:---------------|:----------------|
-| \*\*Brand- eller konstruktionsklasse\*\* | **Egenkontrol** | **Uafhængig kontrol** | **Tredjepartskontrol** |
+| **Brand- eller konstruktionsklasse** | **Egenkontrol** | **Uafhængig kontrol** | **Tredjepartskontrol** |
 | 1 | X |  |  |
 | 2 | X | X ¹ ² |  |
 | 3 | X | X |  |

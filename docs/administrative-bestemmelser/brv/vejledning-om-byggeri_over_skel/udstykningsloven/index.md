@@ -32,9 +32,9 @@
 
 Aftaler om opførelse af bebyggelse over skel kan være i strid med [udstykningsloven](https://www.retsinformation.dk/eli/lta/2024/53), som henhører under Geodatastyrelsen.
 
-Efter ordlyden af [udstykningslovens § 16 e](https://www.retsinformation.dk/eli/lta/2024/53) er det alene muligt at indgå aftale om brugsret for en del af en fast samlet ejendom for et tidsrum op til 30 år.
+Efter ordlyden af [udstykningslovens § 16](https://www.retsinformation.dk/eli/lta/2024/53) er det alene muligt at indgå aftale om brugsret for en del af en fast samlet ejendom for et tidsrum op til 30 år.
 
-[Udstykningslovens § 16 f](https://www.retsinformation.dk/eli/lta/2024/53) fortolkes dog således, at aftalen blot skal indeholde mulighed for opsigelse, så ingen af aftalens parter på noget tidspunkt er bundet af aftalen for mere end 30 år.
+[Udstykningslovens § 16](https://www.retsinformation.dk/eli/lta/2024/53) fortolkes dog således, at aftalen blot skal indeholde mulighed for opsigelse, så ingen af aftalens parter på noget tidspunkt er bundet af aftalen for mere end 30 år.
 
 Hvis brugsretten overskrider åremålsgrænsen, kan brugsretsaftalen kun lovlig indgås, hvis aftalen angår en helt samlet fast ejendom.
 

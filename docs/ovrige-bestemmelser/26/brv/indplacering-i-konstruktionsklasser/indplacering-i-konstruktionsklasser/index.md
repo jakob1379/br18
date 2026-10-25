@@ -38,7 +38,7 @@ Overordnet kan inddelingen i konstruktionsklasse 1-4 (KK14) ifølge BR18, § 489
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="2"><p>****</p>
+<td rowspan="2"><p></p>
 <p><strong> </strong></p></td>
 <td colspan="4"><strong> Konsekvensklasse (CC)</strong></td>
 </tr>

@@ -83,9 +83,7 @@ Nyinstallation kan fx være en bygning med naturlig ventilation, der får instal
 
  
 
-****
-
-*****Udskiftning** ***
+***Udskiftning***
 
 Udskiftning af en eksisterende teknisk installation består af nedtagning af den eksisterende installation og erstatning med en ny installation. Den nye installation skal leve op til kravene i det gældende bygningsreglement. For eksempel ved udskiftning af tekniske installationer i vådrum eller køkken.  
 
@@ -97,13 +95,9 @@ Ved tilkobling med den eksisterende installation følges reglerne for reparation
 
  
 
-*****Flytning af en eksisterende tekniske installationer **\***
-
-****
+***Flytning af en eksisterende tekniske installationer***
 
 **Ved flytning forstås normalt nedtagning af en teknisk installationskomponent og dennes tekniske installation i en ejendom, bygning, enhed eller rum/lokale på samme matrikel, hvori geninstalleringen foretages.**
-
-****
 
 Flytning af en installation betragtes i de fleste tilfælde, som en nyinstallation og de gældende krav i bygningsreglementet skal opfyldes.
 
@@ -117,11 +111,8 @@ I nogle tilfælde stiller bygningsreglementet krav ved hel eller delvis fjernels
 
 Eksempler, hvor der kan stilles krav i forbindelse med hel eller delvis fjernelse af eksisterende tekniske installationer:
 
-****
-
 >  **• **Ny facadebeklædning uden genetablering af eksisterende udeluftventiler kræver, at ventilationen tilvejebringes på anden vis.
 
-> \****
 > **• Ny facadebeklædning, som tætner facaden og fjerner utætheder, kan udløse krav om udeluftventiler i vinduer eller andre foranstaltninger.**
 >
 > ***•* Blænding af udeluftventiler og ventilationsaftræk for naturlig ventilation medfører, at der skal laves et mekanisk ventilationsanlæg, som sikrer basisluftskiftet.**
@@ -137,7 +128,7 @@ Eksempler, hvor der kan stilles krav i forbindelse med hel eller delvis fjernels
 >
 >
 
-*****Reparationer og mindre ændringer*****
+***Reparationer og mindre ændringer***
 
 Reparation af tekniske installationer og mindre ændringer ved udskiftning af enkelte komponenter, kan udføres med materiel og efter metoder, der var gældende på installationens udførelsestidspunkt.
 
@@ -146,20 +137,18 @@ I forbindelse med anden ombygningsarbejde, kan der af byggetekniske årsager væ
 Eksempler på en mindre ændring af en teknisk installation, hvor der ikke stilles nye krav, kan fx være:
 
 > • En emhætte kan flyttes fx i forbindelse med flytning af kogeplader ved udskiftning af et eksisterende køkken med et nyt køkken.
-> ****•**** Flytning af en radiator ud fra væggen fx i forbindelse med indvendig efterisolering.****\****
-> ******•****** Flytning af en varmtvandsbeholder.
+> **•** Flytning af en radiator ud fra væggen fx i forbindelse med indvendig efterisolering.
+> **•** Flytning af en varmtvandsbeholder.
 >
-> ********•******** En håndvask kan flyttes, men hvis taparmaturet og tilslutningsrør også flyttes, er der tale om udskiftning.
+> **•** En håndvask kan flyttes, men hvis taparmaturet og tilslutningsrør også flyttes, er der tale om udskiftning.
 >
 >  
-
-****
 
 ***Vedligeholdelse af eksisterende tekniske installationer*** 
 
 Det gældende bygningsreglement stiller krav om, at eksisterende installationer vedligeholdes således, at de krav der var gældende, da byggetilladelsen blev givet eller på installationstidspunktet, altid opfyldes.
 
-For eksempel stilles der ikke nye krav ved udskiftning af: Ventiler, rørdele, pakninger, styring, følere, sensorer, spjæld, filtre m.m., idet dette betragtes som almindelig vedligeholdelse. Hvis de delkomponenter, der udskiftes, er omfattet af en harmoniseret standard, skal disse dog være CE-mærkede (se [byggevareinfo.dk](http://byggevareinfo.dk/){rel="noopener noreferrer" target="_blank"}) eller have anden national godkendelse.  ****
+For eksempel stilles der ikke nye krav ved udskiftning af: Ventiler, rørdele, pakninger, styring, følere, sensorer, spjæld, filtre m.m., idet dette betragtes som almindelig vedligeholdelse. Hvis de delkomponenter, der udskiftes, er omfattet af en harmoniseret standard, skal disse dog være CE-mærkede (se [byggevareinfo.dk](http://byggevareinfo.dk/){rel="noopener noreferrer" target="_blank"}) eller have anden national godkendelse.  
 
 ### 3. Eksempler på installationsarbejder - Balanceret mekanisk ventilationsanlæg {#7fde19f7-262d-4dba-9743-b5ee785c3f13}
 
@@ -195,8 +184,6 @@ Kravene til ventilationssystemer er fastsat i bygningsreglementets kapitel 22 *�
 
 **Ved nyinstallation i en eksisterende bygning eller en total udskiftning af et eksisterende mekanisk ventilationsanlæg stiller det gældende bygningsreglement krav. Kravene gælder på lige fod med et nybyggeri.**
 
-****
-
 Kravene er blandt andre, at ventilationssystemet skal projekteres og udføres i overensstemmelse med DS 447, DS 428 og DS 452.
 
 For bygninger, der anvendes til bolig, daginstitution eller undervisningsrum, skal de konkrete ventilationskrav i gældende bygningsreglement opfyldes med hensyn til luftmængder. For andre bygningsanvendelsestyper er det et krav i bygningsreglementet, at der foretages en projektering og udførelse af den nødvendige ventilationsluftmængde i forhold til den konkrete størrelse og anvendelse, så der sikres tilfredsstillende luftkvalitet og fugtforhold.
@@ -205,11 +192,9 @@ For den energimæssige ydeevne af et mekanisk ventilationsanlæg stilles der kra
 
 I særlige tilfælde, hvor det for eksempel af bygningstekniske årsager ikke kan lade sig gøre at opfylde kravene i det gældende bygningsreglement fuldt ud, kan der søges om dispensation. Fx kan der af pladshensyn, være behov for at bruge mindre ventilationskanaler, og dermed øges tryktabet, som har betydning for SEL-værdien, hvorved kravet måske ikke kan opfyldes.
 
-Bygningsreglementet stiller også krav om, at der skal gennemføres en funktionsafprøvning af ventilationsanlægget før ibrugtagning.**
+Bygningsreglementet stiller også krav om, at der skal gennemføres en funktionsafprøvning af ventilationsanlægget før ibrugtagning.
 
- **
-
-*****Udskiftning af varmegenvinder eller ventilator**\***
+***Udskiftning af varmegenvinder eller ventilator***
 
 Ved udskiftning af en varmegenvinder (varmeveksler) eller ventilator stiller bygningsreglementet krav om, at projektering og udførelse sker i henhold til DS 447, DS 428 og DS 452.
 
@@ -267,15 +252,11 @@ I forbindelse med anden ombygning kan der være behov for mindre flytninger af k
 
 Ved flytning af indblæsnings- og afkastventiler eller -armaturer stiller det gældende bygningsreglement krav om, at det sikres, at der ikke opstår træk i opholdszonen. Ligeledes skal kravene i DS 447 for luftindtag og -afkast overholdes, fx med hensyn til at de ikke må være til gene for omgivelserne, og at de skal være modstandsdygtige over for indtrængende vand.
 
-**
-
-Hel eller delvis fjernelse af et ventilationssystem \**
+**Hel eller delvis fjernelse af et ventilationssystem**
 
 **Ved hel eller delvis fjernelse af et ventilationssystem stiller bygningsreglementet krav om, at ventilationen genetableres svarende til en nyinstallation af et ventilationssystem. Det kan for eksempel være i forbindelse med en facaderenovering, hvor udeluftventilerne i ydervæggen ikke genetableres eller ved nedtagning af et ældre udtjent mekanisk udsugningsanlæg.**
 
 **Ved nyinstallation eller en total udskiftning af et eksisterende mekanisk ventilationsanlæg stiller det gældende bygningsreglement krav. Se beskrivelsen af bygningsreglementets krav i afsnittet om Nyinstallation eller udskiftning.**
-
-**
 
 
 
@@ -357,17 +338,13 @@ De dele, fx varmefordelingsrør og tilslutningsrør til varmtvandsbeholder, der 
 
  
 
-*****Tilbygning, der tilsluttes eksisterende varmefordelingssystem fra en kedel***\**
+***Tilbygning, der tilsluttes eksisterende varmefordelingssystem fra en kedel***
 
 **For en ny tilbygning, der tilsluttes et eksisterende varmefordelingssystem med en kedel, stilles der krav i gældende bygningsreglement til, at kedlen har en effekt, der er stor nok til at kunne opvarme hele bygningen og en tilfredsstillende nedre grænse for det termiske indeklima.**
-
-****
 
 Hvis tilbygningens overholdelse af bygningsreglementets energikrav er baseret på energirammen, skal energibehovet for tilbygningen bestemmes ved brug af den eksisterende kedels virkningsgrad.
 
 Der stilles desuden krav for tilbygningens varmefordelingssystem med hensyn til DS 452 og DS 469.
-
-***
 
 Reparation og vedligeholdelse af kedel
 
@@ -381,9 +358,7 @@ Hvis der i forbindelse med reparationsarbejdet foretages udskiftning eller delvi
 
 Desuden stiller det gældende bygningsreglement krav om, at eksisterende installationer vedligeholdes således, at de krav der var gældende, da byggetilladelsen blev givet eller på installationstidspunktet, altid opfyldes.
 
-**
-
-***Særligt for oliekedler***\**
+***Særligt for oliekedler***
 
 For eksisterende bygninger, der ligger i et fjernvarme- eller naturgasområde, er det ikke muligt at udskifte en ældre oliekedel til en ny.
 
@@ -427,8 +402,6 @@ Der stilles et generelt krav i bygningsreglementet om, at der ved udvidelsen for
 
  
 
-**
-
 ***Udvidelse af varmt brugsvandssystem***
 
 Ved udvidelse af et varmt brugsvandssystem til et nyt rum eller en ny tilbygning stiller det gældende bygningsreglement krav med hensyn til projektering og udførelse, jf. DS 439, for den del, der er indeholdt i det nye rum eller nye tilbygning.
@@ -437,7 +410,7 @@ Der stilles for eksempel krav i bygningsreglementet med hensyn til passende vand
 
  
 
-*****Reparation af varmerør**\***
+***Reparation af varmerør***
 
 Ved mindre reparationer af varmerør svarende til udskiftning af enkelte rørfittings og komponenter, fx T-stykker, reduktioner eller ventiler, der er gennemtæret, stilles der ikke krav i bygningsreglementet. Hvis delkomponenten der udskiftes er omfattet af en harmoniseret standard, skal den dog være CE-mærket eller have anden national godkendelse.
 

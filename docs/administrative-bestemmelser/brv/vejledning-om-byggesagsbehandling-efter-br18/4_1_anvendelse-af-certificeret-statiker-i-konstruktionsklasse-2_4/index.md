@@ -130,7 +130,7 @@ Ved byggeri, der indplaceres i konstruktionsklasse 4, er der ligeledes krav om c
 
 Der kan kun være én certificeret statiker tilknyttet sagen, medmindre byggeriet indplaceres i konstruktionsklasse 4, og der derfor er krav om en certificeret tredjepart. Der er dog mulighed for at skifte certificeret statiker undervejs i byggeriet, jf. [§ 544](/ovrige-bestemmelser/33/krav/536_544/).
 
-Såfremt der ikke er tilknyttet en certificeret statiker på byggesagen for byggeri i konstruktionsklasse 2-4 skal reglerne i [§§ 24-29 a](/administrative-bestemmelser/krav/24_29/) anvendes.
+Såfremt der ikke er tilknyttet en certificeret statiker på byggesagen for byggeri i konstruktionsklasse 2-4 skal reglerne i [§§ 24-29](/administrative-bestemmelser/krav/24_29/) anvendes.
 
 Ved ansøgning om byggetilladelse til byggeri i konstruktionsklasse 2-4, skal der indsendes dokumentation, der er godkendt af den certificerede statiker. Dokumentationen omfatter indplacering af byggeriet i konstruktionsklassen, jf. [kap. 26](/ovrige-bestemmelser/26/) og 28, og en starterklæring fra den certificerede statiker, der er tilknyttet byggesagen, jf. [§ 498, stk. 1](/ovrige-bestemmelser/28/krav/494_505/). Er byggeriet indplaceret i konstruktionsklasse 4, skal der ligeledes indsendes en starterklæring fra en certificeret tredjepart, jf. [§ 498, stk. 2](/ovrige-bestemmelser/28/krav/494_505/).
 

@@ -18,8 +18,6 @@ Bygninger skal have et sundheds- og komfortmæssigt tilfredsstillende termisk in
 
 I rum, hvor personer opholder sig i længere tid, skal det sikres, at der under den tilsigtede brug og aktivitet kan opretholdes et sundheds- og komfortmæssigt tilfredsstillende termisk indeklima.
 
-**  **
-
 *Stk. 2.* Dokumentation af det termiske indeklima skal ske ved beregning på grundlag af forholdene i de kritiske rum og baseres på Design Reference Year, DRY 2013 for kalenderåret 2010. For boliger kan der anvendes en forenklet beregning.
 
 ## § 387 - § 389 Generelt for installationer til varme- og køleanlæg {#2d7d23ab-e520-4be7-a5df-c156f23f7fba}

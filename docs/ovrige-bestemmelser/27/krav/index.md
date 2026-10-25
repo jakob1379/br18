@@ -10,7 +10,7 @@ Et byggeri skal indplaceres i en brandklasse, jf. bilag 1, tabel 3, på baggrund
 
 2\) den valgte metode for dokumentation af brandsikkerheden, jf. § 493.
 
-*Stk. 2.* Hvis det kan dokumenteres, at den brandmæssige opdeling af byggeriet i flere brandmæssige uafhængige bygningsafsnit kan ske på en sikkerhedsmæssig forsvarlig måde, kan de enkelte brandmæssige uafhængige bygningsafsnit indplaceres i forskellige brandklasser.**  **
+*Stk. 2.* Hvis det kan dokumenteres, at den brandmæssige opdeling af byggeriet i flere brandmæssige uafhængige bygningsafsnit kan ske på en sikkerhedsmæssig forsvarlig måde, kan de enkelte brandmæssige uafhængige bygningsafsnit indplaceres i forskellige brandklasser.
 
 ### § 491 {#paragraf-491}
 
@@ -62,7 +62,7 @@ d) Brandteknisk dimensionering.
 
 1) En certificeret brandrådgiver skal inddrages.
 
-2\) Dokumentationen skal udfærdiges efter principperne i kapitel 29 og 30. * *
+2\) Dokumentationen skal udfærdiges efter principperne i kapitel 29 og 30. 
 
 *Stk. 6.* Dokumentationen for overholdelse af stk. 3 og stk. 5 skal indsendes i forbindelse med ansøgning om byggetilladelse.
 

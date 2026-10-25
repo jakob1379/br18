@@ -82,8 +82,8 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 <td></td>
 </tr>
 <tr>
-<td colspan="4"><p>**Noter<br />
-**</p>
+<td colspan="4"><p><strong>Noter</strong><br />
+</p>
 <p>1)   Grænseværdien for L<sub>den</sub> gældende for de enkelte trafikstøjkilder hver for sig.<br />
 <br />
 </p>

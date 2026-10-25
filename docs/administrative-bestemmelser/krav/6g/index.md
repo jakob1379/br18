@@ -870,7 +870,7 @@ Byggearbejder, der kræver byggetilladelse, skal færdigmeldes til kommunalbesty
 
 ### § 41 {#paragraf-41}
 
-For byggearbejde omfattet af konstruktionsklasse 2-4, jf. kapitel 26, skal der med færdigmeldingen ligeledes indsendes en sluterklæring, jf. § 499, stk. 1, der er udarbejdet af den certificerede statiker.
+For byggearbejde omfattet af konstruktionsklasse 2-4, jf. kapitel 26, skal der med færdigmeldingen ligeledes indsendes en sluterklæring, jf.§ 499, stk. 1, der er udarbejdet af den certificerede statiker.
 
 *Stk. 2.* For byggearbejde i konstruktionsklasse 4 skal der ligeledes indsendes en sluterklæring, jf. § 499, stk. 2, der er udarbejdet af den statiker, der er certificeret til at udføre tredjepartskontrol.
 

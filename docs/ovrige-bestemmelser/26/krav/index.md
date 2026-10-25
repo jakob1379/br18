@@ -10,8 +10,6 @@ De bærende konstruktioner i et byggeri skal indplaceres i en konstruktionsklass
 2.  konstruktionens kompleksitet og
 3.  erfaringer med konstruktionstypen.
 
-*  *
-
 *Stk. 2.* Hvis det kan dokumenteres, at en opdeling af byggeriet i flere konstruktionsafsnit kan ske på en sikkerhedsmæssigt forsvarlig måde, kan de enkelte konstruktionsafsnit indplaceres i forskellige konstruktionsklasser.
 
 ### § 486 {#paragraf-486}

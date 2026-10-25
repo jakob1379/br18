@@ -90,8 +90,6 @@ Version 02 (08.02.2021)
 
 Version 1.3 (04.03.2021)
 
-* *
-
 [Åbn kapitlet om Redningsberedskabets indsatsmuligheder med ændringsmarkeringer](../../../../../media/yf5p3jdm/kapitel5-redningsberedskabets-indsatsmuligheder-ver-13-med-ndringsmarkeringer-a.pdf "Kapitel5 Redningsberedskabets indsatsmuligheder ver 13 med ndringsmarkeringer")
 
 Version 1.3 (04.03.2021)
@@ -119,8 +117,6 @@ Version 2.1 (04.03.2021)
 [Åbn kapitel om Drift-, kontrol- og vedligehold af brandforhold i og ved bygninger](../../../../../media/ybrdtanu/kapitel-7-drift-kontrol-og-vedligehold-ver-11-a.pdf "Kapitel 7 Drift kontrol og vedligehold ver 11")
 
 Version 1.1 (04.03.2021)
-
-* *
 
 [Åbn kapitel om Drift-, kontrol- og vedligehold af brandforhold i og ved bygninger med ændringsmarkeringer](../../../../../media/1jujjzag/kapitel-7-drift-kontrol-og-vedligehold-ver-11-med-ndringsmeddelser-a.pdf "Kapitel 7 Drift kontrol og vedligehold ver 11 med ndringsmeddelser")
 

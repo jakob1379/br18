@@ -35,6 +35,19 @@ if [[ -n "$table_text" ]]; then
   exit 1
 fi
 
+space='(?:\s|&nbsp;|&#160;|\x{a0})'
+residue="$(rg -n -o -P --glob '*.html' --glob '!historisk/**' \
+  -e '@@PROTECTED_' \
+  -e '>[^<]*\*\*' \
+  -e "(?:^|[\\s>])\\*{1,3}${space}+\\*{1,3}(?=[\\s<]|$)" \
+  -e "<(?:p|li|h[1-6])\\b[^>]*>${space}*\\*+${space}*(?:</|<a class=\"headerlink\")" \
+  -e '<(?:em|strong)>\*+</(?:em|strong)>' \
+  "$site_dir" || true)"
+if [[ -n "$residue" ]]; then
+  printf 'built pages show markup residue as text:\n%s\n' "$residue" >&2
+  exit 1
+fi
+
 network_flag=(--offline)
 if [[ "${CHECK_EXTERNAL_LINKS:-}" == 1 ]]; then
   network_flag=()

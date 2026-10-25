@@ -146,7 +146,8 @@ def protect_spans(text: str) -> tuple[str, dict[str, str]]:
 
 
 def restore_spans(text: str, placeholders: dict[str, str]) -> str:
-    for key, value in placeholders.items():
+    # Later spans (headings) can contain earlier keys (links), so restore newest first.
+    for key, value in reversed(placeholders.items()):
         text = text.replace(key, value)
     return text
 

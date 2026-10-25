@@ -506,8 +506,6 @@ Forskellen imellem den faktiske beregnede klimapåvirkning og referenceværdien 
 
 Der sondres i det følgende mellem konstruktioner, søjler/bjælker, fundamenter, og installationer.
 
-*** ***
-
 ***Konstruktioner***
 
 For konstruktioner beregnes forskellen vha. referenceværdi jf. tabel 9 og formel 1 herunder
@@ -526,8 +524,6 @@ Tabel 9: Liste over referenceværdier, som anvendes til at beregne den berettige
 | Tag                      | 1,21           | kg CO2-ækv. /m2 konstruktion/år  |
 | Terrændæk/pladefundament | 1,52           | kg CO2-ækv. /m2 konstruktion/år  |
 | Ydervæg og kælderydervæg | 1,46           | kg CO2-ækv. /m2 konstruktion/år  |
-
-*** ***
 
 ***Konstruktioner***
 

@@ -8,7 +8,7 @@
 
 ## Vejledning om klimasikring
 
-## Vejledning til @@PROTECTED_0@@ (@@PROTECTED_1@@)
+## Vejledning til bekendtgørelse om forberedelse til og etablering af ladestandere i forbindelse med bygninger (ladestanderbekendtgørelsen)
 
 ## Pjece om legionella
 

@@ -13,7 +13,7 @@ For fabriksfremstillede produkter, som indgår i vand- og afløbsinstallationer,
 
 Fabrikanten skal have sin egen produktionskontrolordning. En produktionskontrolordning er en intern løbende kontrol, der udføres af fabrikanten. Denne kontrol skal systematisk dokumentere, at produkterne opretholder de deklarerede egenskaber.
 
-**  ** *Stk.* *2.* Fabrikkens produktionskontrol kombinerer produktionsteknik med de midler, som er nødvendige for at vedligeholde og kontrollere produktets overensstemmelse med de relevante tekniske specifikationer.
+*Stk.* *2.* Fabrikkens produktionskontrol kombinerer produktionsteknik med de midler, som er nødvendige for at vedligeholde og kontrollere produktets overensstemmelse med de relevante tekniske specifikationer.
 
 *Stk. 3.* Produktionskontrollen omfatter både kontrol og test af måleudstyr, råmaterialer, indgående bestanddele, processer, maskiner og produktionsudstyr samt de færdige produkter, herunder deres materialeegenskaber. Endelig omfatter kontrollen anvendelsen af de opnåede resultater.
 

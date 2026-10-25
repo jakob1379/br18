@@ -144,7 +144,7 @@ For køleanlæg kontrolleres det at nedenstående punkter er opfyldt:
 
 • cirkulationspumper og pumpestyringer (kølevandskredsen) er udført som foreskrevet. Der bør være foreskrevet tidsstyring og omdrejningstalsregulerbare cirkulationspumper.
 
-*Acceptkriterium \*
+*Acceptkriterium*
 Afprøvningens resultat med hensyn til den energimæssige effektivitet kan accepteres, hvis energiforsyningsanlægget overholder Ecodesignkravene og punkterne under afsnittet 'Kontrolpunkter' er overholdt.
 
 *Dokumentation*
