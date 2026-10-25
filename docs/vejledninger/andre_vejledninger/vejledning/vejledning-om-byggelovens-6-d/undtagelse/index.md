@@ -33,7 +33,7 @@ Byggelovens § 6 D, stk. 1, kan ikke bringes i anvendelse, hvis en byplanvedtæg
 
 Reglerne for kommunalbestyrelsens behandling af ansøgninger om byggetilladelse følger af bygningsreglementets kapitel 1.
 
-### Undtagelser i bygningsreglementet, der indskrænker § 6 D, stk. 1's, anvendelsesområde {#571ad59c-7ee9-4566-bd27-c57c7c794aca}
+### 1.0.0. Undtagelser i bygningsreglementet, der indskrænker § 6 D, stk. 1's, anvendelsesområde {#571ad59c-7ee9-4566-bd27-c57c7c794aca}
 
 Bygningsreglementet fastsætter de nærmere regler for kommunalbestyrelsens behandling af byggesager. Bygningsreglementet gælder i udgangspunktet for de sager, der er omfattet af byggelovens § 2, men indeholder dog en række undtagelser, der indskrænker anvendelsesområdet.
 
