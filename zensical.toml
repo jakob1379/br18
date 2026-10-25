@@ -94,6 +94,7 @@ invalid_links = false
 invalid_link_anchors = false
 
 [project.theme]
+custom_dir = "overrides"
 language = "da"
 favicon = "assets/img/favicons/favicon-32x32.png"
 logo = "assets/img/favicons/favicon-32x32.png"
