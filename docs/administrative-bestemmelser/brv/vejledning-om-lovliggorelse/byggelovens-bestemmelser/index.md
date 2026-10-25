@@ -32,7 +32,7 @@
 
 ### Særligt om stikprøvekontrol efter BR18
 
-### @@PROTECTED_17@@s bestemmelser
+### Byggelovens bestemmelser
 
 [Byggelovens § 16, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178), 1. pkt., bestemmer, at byggearbejder, der er omfattet af [byggelovens § 2](https://www.retsinformation.dk/eli/lta/2016/1178), ikke må påbegyndes uden byggetilladelse. Det betyder, at opførelsen af et byggeri, der kræver tilladelse, er ulovligt, såfremt der ikke er indhentet tilladelse inden, selve opførelsen finder sted.
 
