@@ -238,9 +238,8 @@ For at kunne måle luftmængder i ventilationsanlæg skal følgende normalt vær
 
 • Under måleperioden holdes vinduer og døre lukkede for at opnå stabile måleforhold.
 
-*Målepunkter
+*Målepunkter*
 
-\*
 Ifølge DS 447, pkt. 9.7, skal ventilationsanlæg være forsynet med fastmonterede udtag til måling af hovedluftstrømme eller have mulighed for aflæsning af hovedluftstrømme på betjeningspanel. Hovedluftstrømmen eller luftstrøm på rumniveau kan også måles som summen gennem hvert enkelt armatur.
 
 Der måles for de evt. forskellige referencetilstande og på relevante steder i ventilationsanlægget.
@@ -332,9 +331,8 @@ Kontrol af at styringsautomatik og følere til åbning og lukning af ventilation
 
 
 
-*Acceptkriterium
+*Acceptkriterium*
 
-\*
 
 Testens resultat accepteres, hvis det konstateres, at:
 
@@ -346,9 +344,8 @@ Testens resultat accepteres, hvis det konstateres, at:
 
 >
 
-*Dokumentation
+*Dokumentation*
 
-\*
 
 Der udarbejdes en funktionsafprøvningsrapport, der beskriver:
 
@@ -372,9 +369,8 @@ Der udarbejdes en funktionsafprøvningsrapport, der beskriver:
 
 Det skal desuden eftervises, at ventilationsanlæggets SEL-værdi opfylder bygningsreglementets energikrav til ventilationsanlæg, jf. §§ 436-438. Kravet til SEL-værdien fremgår af tabel 2.
 
-    *Definition af SEL-værdien
+    *Definition af SEL-værdien*
 
-\*
 SEL-værdien er defineret som effektbehovet til ventilatormotorerne inklusive reguleringsudstyr, *P*, divideret med den transporterede volumenstrøm, q~v~, jf. DS 447, kap. 6.5.2.   For anlæg med varmegenvinding er det summen af effektbehovet til tilluftsventilatorer og fraluftsventilatorer, P~tilluft~ + P~fraluft.~
 
 SEL-værdien har enheden J/m^3^ og beregnes for ventilationsanlæg i balance med tilluft, fraluft og varmegenvinding som:
@@ -943,9 +939,8 @@ Der udføres en manuel afprøvning af om zoneopdelingen for belysningsanlægget 
 
 *Acceptkriterium*
 
-Funktionsafprøvningens resultat for lysstyringen kan accepteres, hvis det konstateres, at den anvendte lysstyring reagerer i fuld overensstemmelse med dokumentationen anvendt til byggeandragende. Afvigelser i forhold til byggeandragende, som ikke medfører et øget elforbrug til belysningsanlægget, kan dog accepteres så længe minimumsværdier ifølge EN12464 er overholdt.   *Dokumentation
+Funktionsafprøvningens resultat for lysstyringen kan accepteres, hvis det konstateres, at den anvendte lysstyring reagerer i fuld overensstemmelse med dokumentationen anvendt til byggeandragende. Afvigelser i forhold til byggeandragende, som ikke medfører et øget elforbrug til belysningsanlægget, kan dog accepteres så længe minimumsværdier ifølge EN12464 er overholdt.   *Dokumentation*
 
-\*
 Der udarbejdes en funktionsafprøvningsrapport, der beskriver:
 
 > • Hvilke forudsætninger og forhold målingen er udført under.
@@ -972,9 +967,8 @@ Bestemmelsen gælder kun for elevatorer med en mærkelast af elevatorstolen på 
 
 Relevante standarder i forbindelse med funktionsafprøvning af elevatorer omfatter:
 
-> • DS/EN ISO 25745-1, *Energieffektivitet for elevatorer, rulletrapper og rullefor-tov -- Del 1: Energimåling og verifikation.
-
-> \*
+> • DS/EN ISO 25745-1, *Energieffektivitet for elevatorer, rulletrapper og rullefor-tov -- Del 1: Energimåling og verifikation.*
+>
 > • DS/EN ISO 25745-2, *Elevatorer, rulletrapper og rullefortoves energieffektivitet - Del 2: Beregning af energi for og klassifikation af elevatorer*
 
 [![](../../../../assets/img/linkbox/ds_en_iso_linkbox.svg)](# "#title")

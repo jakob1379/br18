@@ -40,9 +40,8 @@
 
 Det skal desuden eftervises, at ventilationsanlæggets SEL-værdi opfylder bygningsreglementets energikrav til ventilationsanlæg, jf. §§ 436-438. Kravet til SEL-værdien fremgår af tabel 2.
 
-    *Definition af SEL-værdien
+    *Definition af SEL-værdien*
 
-\*
 SEL-værdien er defineret som effektbehovet til ventilatormotorerne inklusive reguleringsudstyr, *P*, divideret med den transporterede volumenstrøm, q~v~, jf. DS 447, kap. 6.5.2.   For anlæg med varmegenvinding er det summen af effektbehovet til tilluftsventilatorer og fraluftsventilatorer, P~tilluft~ + P~fraluft.~
 
 SEL-værdien har enheden J/m^3^ og beregnes for ventilationsanlæg i balance med tilluft, fraluft og varmegenvinding som:

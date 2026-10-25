@@ -279,9 +279,8 @@ Hel eller delvis fjernelse af et ventilationssystem \**
 
 
 
-**Reparation og vedligeholdelse af varmegenvindingsaggregat (unit)
+**Reparation og vedligeholdelse af varmegenvindingsaggregat (unit)**
 
-\**
 
 Ved reparation og vedligeholdelse af et samlet varmegenvindingsaggregat stiller det gældende bygningsreglement ikke nye krav.
 

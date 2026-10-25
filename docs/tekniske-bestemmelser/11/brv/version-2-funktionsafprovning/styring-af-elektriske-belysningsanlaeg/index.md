@@ -129,9 +129,8 @@ Der udføres en manuel afprøvning af om zoneopdelingen for belysningsanlægget 
 
 *Acceptkriterium*
 
-Funktionsafprøvningens resultat for lysstyringen kan accepteres, hvis det konstateres, at den anvendte lysstyring reagerer i fuld overensstemmelse med dokumentationen anvendt til byggeandragende. Afvigelser i forhold til byggeandragende, som ikke medfører et øget elforbrug til belysningsanlægget, kan dog accepteres så længe minimumsværdier ifølge EN12464 er overholdt.   *Dokumentation
+Funktionsafprøvningens resultat for lysstyringen kan accepteres, hvis det konstateres, at den anvendte lysstyring reagerer i fuld overensstemmelse med dokumentationen anvendt til byggeandragende. Afvigelser i forhold til byggeandragende, som ikke medfører et øget elforbrug til belysningsanlægget, kan dog accepteres så længe minimumsværdier ifølge EN12464 er overholdt.   *Dokumentation*
 
-\*
 Der udarbejdes en funktionsafprøvningsrapport, der beskriver:
 
 > • Hvilke forudsætninger og forhold målingen er udført under.

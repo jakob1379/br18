@@ -283,9 +283,8 @@ I denne 2. fase af stikprøvekontrollen er det kommunens opgave at vurdere, hvor
 
 I denne fase af stikprøvekontrollen skal kommunen vurdere betydningen af de ulovlige forhold (såvel materielle som formelle mangler). Hvis kommunen bliver opmærksom på et ulovligt forhold, er den forpligtet til at søge forholdet lovliggjort, medmindre det er af bagatelagtig karakter.
 
-**Grænsen for, hvad kommunen opfatter som bagatelagtigt, kan variere imellem de tekniske områder og dermed kapitler i bygningsreglementet. Når betydningen af et forhold skal vurderes, relaterer tilgængelighedsområdet sig i særdeleshed til brugergruppen og bestemmelsernes formål. Små afvigelser fra bestemmelserne kan have afgørende betydning for brugsværdien og dermed brugernes muligheder for at gøre brug af bygningernes funktioner, opholdsarealer og parkeringsarealer. Hensyn til brugerne skal derfor inddrages i vurderingen.*
+**Grænsen for, hvad kommunen opfatter som bagatelagtigt, kan variere imellem de tekniske områder og dermed kapitler i bygningsreglementet. Når betydningen af et forhold skal vurderes, relaterer tilgængelighedsområdet sig i særdeleshed til brugergruppen og bestemmelsernes formål. Små afvigelser fra bestemmelserne kan have afgørende betydning for brugsværdien og dermed brugernes muligheder for at gøre brug af bygningernes funktioner, opholdsarealer og parkeringsarealer. Hensyn til brugerne skal derfor inddrages i vurderingen.**
 
-\*
 
 I det følgende præsenteres eksempler på denne problemstilling, som kommunen bør være opmærksom på, når det vurderes, om en mangel er af bagatelagtig karakter. Det er hensigten, at disse eksempler kan bidrage til en forståelse af brugsværdien, brugernes situation og deres møde med det fysiske miljø.
 

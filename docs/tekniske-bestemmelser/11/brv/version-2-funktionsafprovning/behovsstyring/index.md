@@ -92,9 +92,8 @@ Kontrol af at styringsautomatik og følere til åbning og lukning af ventilation
 
 
 
-*Acceptkriterium
+*Acceptkriterium*
 
-\*
 
 Testens resultat accepteres, hvis det konstateres, at:
 
@@ -106,9 +105,8 @@ Testens resultat accepteres, hvis det konstateres, at:
 
 >
 
-*Dokumentation
+*Dokumentation*
 
-\*
 
 Der udarbejdes en funktionsafprøvningsrapport, der beskriver:
 

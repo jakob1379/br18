@@ -252,9 +252,8 @@ I rum med renlighedskrav, der overstiger de normale komfortanlæg, hvilket for e
 
 *Hvordan håndteres sammenbygning med eksisterende bygning, hvor etagehøjden i den eksisterende bygning dikterer etagehøjden i det nye byggeri -- set i forhold til muligheden for at opfylde kravet til elforbrug til ventilation, SEL?*
 
-**Svar:** *
+**Svar:**
 
-\*
 Kravene til det specifikke elforbrug til lufttransport i ventilationsanlæg kan opfyldes med flere forskellige løsninger. Vandrette føringer af kanaler kan være så pladskrævende, at det nødvendiggør en højere etagehøjde. Løsninger med vandret føring af kanaler i et teknikrum eller kælder og flere skakte vil kunne reducere størrelsen af de kanaler, der skal føres vandret i de enkelte etager. Herudover kan elforbruget begrænses ved bedre ventilationsaggregater og benyttelse af bedre reguleringsspjæld med lavt tryktab.
 
 ### Varmegenvinding
