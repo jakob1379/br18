@@ -54,7 +54,7 @@ Der henvises til følgende vejledninger til bygningsreglementets energikrav.
 
 Dette direktiv fremmer forbedring af bygningers energimæssige ydeevne i Unionen, under hensyntagen til udeklima og lokale forhold, samt indeklimakrav og omkostningseffektivitet.
 
-#### @@PROTECTED_14@@
+#### [Link til EU-direktiv 2010/31/EU (eur-lex)](http://eur-lex.europa.eu/legal-content/DA/TXT/PDF/?uri=CELEX:32010L0031&from=EN "EU-direktiv 2010/31/EU om bygningers energimæssige ydeevne"){target="_blank"}
 
 #### SBi-Anvisning 213
 
@@ -64,7 +64,7 @@ Bygningers energibehov
 
 ​Anvisningen beskriver, hvordan man bruger beregningsprogrammet Be15 til beregning af bygningers energibehov. Programmet skal bruges, når man skal eftervise, at en bygning opfylder energibestemmelserne i bygningsreglementet. Anvisning og beregningsprogram henvender sig til rådgivende ingeniører, arkitekter, entreprenører, andre projekterende og udførende inden for byggeri samt til offentlige myndigheder.
 
-#### @@PROTECTED_15@@
+#### [Find SBi-Anvisning 213 på Statens Byggeforskningsinstituts (SBi) hjemmeside her](https://sbi.dk/anvisninger/Pages/213-Bygningers-energibehov-4.aspx "SBi-Anvisning 213"){target="_blank"}
 
 Anvisning og beregningsprogram er betalingsbelagt.
 
@@ -175,7 +175,7 @@ Beregning af bygningers varmetab
 
 Standarden angiver regler for beregning af beboelsesbygningers varmetab. Beregning af konstruktionsdeles transmissionskoefficienter samt fastsættelse af materialers varmeledningsevne.
 
-#### @@PROTECTED_28@@
+#### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/s%C3%B8gning/91-120-10-varmeisolering-af-bygninger/ds-4182011 "DS 418"){target="_blank"}
 
 [1.5.](../)
 
@@ -197,7 +197,7 @@ Dansk standard: DS 418 – Beregning af bygningers varmetab
 
 Standarden indeholder beregningsregler for beregning af bygningers varmetab.
 
-#### Standarden findes i Dansk Standards Webshop.ds.dk her @@PROTECTED_31@@
+#### Standarden findes i Dansk Standards Webshop.ds.dk her [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/){target="_blank"}
 
 [1.6.](../)
 
@@ -287,7 +287,7 @@ Denne europæiske standard gælder for:
 
 - evt. tilhørende beslag
 
-#### @@PROTECTED_34@@
+#### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/standard/M251339/history "DS/EN 14351-1 + A1:2010"){target="_blank"}
 
 Bemærk, engelske udgaver af europæiske standarder kan købes hos [alle europæiske standardiseringsorganisationer](https://standards.cen.eu/dyn/www/f?p=CENWEB:5){target="_blank"}.
 
@@ -299,7 +299,7 @@ DS/EN ISO 12631:2017 - Termisk ydeevne for curtainwalling – Beregning af varme
 
 Denne standard specificerer en procedure til beregning af den termiske transmissionskoefficient for curtain wall konstruktioner.
 
-#### @@PROTECTED_36@@
+#### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/s%c3%b8gning/91-120-10-varmeisolering-af-bygninger/ds-en-iso-126312017){target="_blank"}
 
 Bemærk, engelske udgaver af europæiske standarder kan købes hos [alle europæiske standardiseringsorganisationer](https://standards.cen.eu/dyn/www/f?p=CENWEB:5){target="_blank"}.
 
@@ -311,7 +311,7 @@ DS/EN 13830:2003 - Curtain walling - Produktstandard
 
 Denne standard specificerer karakteristika for curtain walling og giver teknisk information om de forskellige ydeevnekrav, som gælder for hele Europa, samt kriterier og rækkefølge for prøvning af krav til produktet med henblik på at vise overensstemmelse. Der refereres til andre europæiske standarder, som omhandler ydeevne og prøvning af curtain walling og, hvor det er hensigtsmæssigt, til europæiske standarder, som omhandler produkter, der indgår i curtain walling.
 
-#### @@PROTECTED_38@@
+#### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/standard/ds-en-138302003){target="_blank"}
 
 Bemærk, engelske udgaver af europæiske standarder kan købes hos [alle europæiske standardiseringsorganisationer](https://standards.cen.eu/dyn/www/f?p=CENWEB:5){target="_blank"}.
 
@@ -323,7 +323,7 @@ Overfladebeskaffenhed. Overfladeruhed. Ordliste over nordiske termer for overfla
 
 Informationsbladet opstiller i tabelform de anvendte termer i Danmark, Finland, Norge og Sverige for overfladeruhed, som er defineret i de Internationale Standarder, ISO 4287/1 og ISO 4287/2.
 
-#### Standarden findes i Dansk Standards Webshop.ds.dk her @@PROTECTED_40@@
+#### Standarden findes i Dansk Standards Webshop.ds.dk her [webshop.ds.dk](https://webshop.ds.dk/default.aspx?id=118&productId=11035 "DS/INF 60:1990"){target="_blank"}
 
 [1.7.](../)
 
@@ -349,7 +349,7 @@ SBi-Anvisning 213 Bygningers energibehov
 
 ​Anvisningen beskriver, hvordan man bruger beregningsprogrammet Be15 til beregning af bygningers energibehov. Programmet skal bruges, når man skal eftervise, at en bygning opfylder energibestemmelserne i bygningsreglementet. Anvisning og beregningsprogram henvender sig til rådgivende ingeniører, arkitekter, entreprenører, andre projekterende og udførende inden for byggeri samt til offentlige myndigheder.
 
-#### Find SBi-Anvisning 213 på Statens Byggeforskningsinstituts (SBi) hjemmeside her @@PROTECTED_45@@
+#### Find SBi-Anvisning 213 på Statens Byggeforskningsinstituts (SBi) hjemmeside her [Find SBi-Anvisning 213 på Statens Byggeforskningsinstituts (SBi) hjemmeside her](https://sbi.dk/anvisninger/Pages/213-Bygningers-energibehov-4.aspx){target="_blank"}
 
 Anvisning og programmet er betalingsbelagt.
 
@@ -372,7 +372,7 @@ Bygningers energibehov
 
 ​Anvisningen beskriver, hvordan man bruger beregningsprogrammet Be15 til beregning af bygningers energibehov. Programmet skal bruges, når man skal eftervise, at en bygning opfylder energibestemmelserne i bygningsreglementet. Anvisning og beregningsprogram henvender sig til rådgivende ingeniører, arkitekter, entreprenører, andre projekterende og udførende inden for byggeri samt til offentlige myndigheder.
 
-#### Find SBi-Anvisning 213 på Statens Byggeforskningsinstituts (SBi) hjemmeside her @@PROTECTED_49@@
+#### Find SBi-Anvisning 213 på Statens Byggeforskningsinstituts (SBi) hjemmeside her [Find SBi-Anvisning 213 på Statens Byggeforskningsinstituts (SBi) hjemmeside her](https://sbi.dk/anvisninger/Pages/213-Bygningers-energibehov-4.aspx "SBi-Anvisning 213"){target="_blank"}
 
 Anvisning og beregningsprogram er betalingsbelagt.
 
@@ -457,7 +457,7 @@ Bygningers termiske ydeevne - Bestemmelse af bygningers luftgennemtrængelighed 
 
 Denne standard er beregnet til in situ måling af bygningers eller bygningsdeles luftgennemtrængelighed. Den specificerer brugen af mekanisk tryk og undertryk i en bygning eller en del af en bygning. Den beskriver målingen af det resulterende luftflow ved en serie af forskellige indendørs-udendørs statiske tryk-differenser. Standarden er til brug ved målinger af luft-utætheder i klimaskærmen i bygninger med kun én zone.
 
-#### Standarden findes i Dansk Standards Webshop.ds.dk her @@PROTECTED_54@@
+#### Standarden findes i Dansk Standards Webshop.ds.dk her [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/standard/ds-en-iso-99722015 "DS/EN ISO 9972:2015"){target="_blank"}
 
 Bemærk, at de engelske versioner af de europæiske standarder kan købes hos alle europæiske standardiseringsorganisationer.
 
@@ -479,7 +479,7 @@ Dansk standard: DS 418 – Beregning af bygningers varmetab
 
 Standarden indeholder beregningsregler for beregning af bygningers varmetab.
 
-#### Standarden findes i Dansk Standards Webshop.ds.dk her @@PROTECTED_57@@
+#### Standarden findes i Dansk Standards Webshop.ds.dk her [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/){target="_blank"}
 
 [1.12.](../)
 
@@ -707,7 +707,7 @@ I forbindelse med større renoveringsarbejder på bevaringsværdige bygninger b�
 
 [Byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178)
 
-#### Se byggeloven her @@PROTECTED_73@@
+#### Se byggeloven her [Se byggeloven her](https://www.retsinformation.dk/forms/R0710.aspx?id=183662){target="_blank"}
 
 ####
 
@@ -727,7 +727,7 @@ E-SAVE-vejledning til kommunal sagsbehandling af byggesager med energitiltag i b
 
 En guide til forhåndsdialog mellem kommunen og bygningsejere og/eller dennes rådgiver om potentielle energibesparelser i bevaringsværdige ejendomme.
 
-#### Se guiden her @@PROTECTED_74@@
+#### Se guiden her [Se guiden her](https://gate21.dk/wp-content/uploads/2024/02/Esavevejledning.pdf){target="_blank"}
 
 [4.2.](../)
 
@@ -777,7 +777,7 @@ DMI Technical Report 13-19: 2001-2010 Danish Design Reference Year, 2013
 
 Lorem ipsum dolor sit amet...
 
-#### Se DMI Technical Report her @@PROTECTED_79@@
+#### Se DMI Technical Report her [Se DMI Technical Report her](http://www.dmi.dk/fileadmin/user_upload/Rapporter/TR/2013/TR13-19.pdf){target="_blank"}
 
 [6.0.](../)
 
@@ -843,7 +843,7 @@ Bestemmelsen omfatter desuden ikke højeffektive opvarmningssystemer, der anvend
 
 Lorem ipsum dolor sit amet...
 
-#### Se byggeloven her @@PROTECTED_86@@
+#### Se byggeloven her [Se byggeloven her](https://www.retsinformation.dk/forms/R0710.aspx?id=183662){target="_blank"}
 
 [8.1.](../)
 
@@ -883,7 +883,7 @@ Eksisterende bygninger beliggende i områder uden adgang til fjernvarme eller na
 
 Lorem ipsum dolor sit amet...
 
-#### Se byggeloven her @@PROTECTED_93@@
+#### Se byggeloven her [Se byggeloven her](https://www.retsinformation.dk/forms/R0710.aspx?id=183662){target="_blank"}
 
 [8.4.](../kap-8_4/)
 
@@ -925,7 +925,7 @@ EU-direktiv 2009/28/EF - om fremme af anvendelsen af energi fra vedvarende energ
 
 #### Anvendelsesområde
 
-#### Se EU-direktivet her @@PROTECTED_98@@
+#### Se EU-direktivet her [Se EU-direktivet her](http://eur-lex.europa.eu/legal-content/DA/TXT/PDF/?uri=CELEX:32009L0028&from=DA){target="_blank"}
 
 [9.0.](../)
 

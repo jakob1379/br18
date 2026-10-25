@@ -151,7 +151,7 @@ Ventilation i bygninger - Ydeevneprøvning af komponenter/produkter til boligven
 
 This document specifies methods for measuring the main performance characteristics of range hoods for residential use. It applies to air extraction range hoods without fan.
 
-#### @@PROTECTED_13@@
+#### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/s%c3%b8gning/91-140-30-ventilationssystemer-og-klimaanl%c3%a6g/ds-en-13141-32017 "DS/EN 13141-3"){target="_blank"}
 
 #### DS/EN 61591
 
@@ -161,7 +161,7 @@ Emhætter og emfang til husholdningsbrug - Metoder til måling af ydeevne
 
 Denne standard gælder for emhætter indeholdende en ventilator til recirkulering eller tvungen fjernelse af luften ovenover et komfur anbragt i et husholdningskøkken. Denne standard definerer hovedkarakteristikkerne for brugsegenskaberne for emhætter og specificerer metoderne til måling af disse karakteristikker, til information for brugere. Denne standard specificerer ikke påbudte værdier for karakteristikker for brugsegenskaber.
 
-#### @@PROTECTED_14@@
+#### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/standard/ds-en-61591-a112014 "DS/EN 61591"){target="_blank"}
 
 *Enfamiliehuse*
 

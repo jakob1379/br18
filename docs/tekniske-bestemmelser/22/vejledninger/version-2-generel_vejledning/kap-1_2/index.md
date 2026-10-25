@@ -42,7 +42,7 @@ Ventilation i bygninger - Mekaniske, naturlige og hybride ventilationssystemer
 
 Denne standard specificerer krav til ventilation og ventilationssystemer i bygninger, herunder boliger, beregnet til menneskeligt ophold.
 
-#### @@PROTECTED_5@@
+#### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/s%C3%B8gning/91-140-30-ventilationssystemer-og-klimaanl%C3%A6g/ds-4472013 "DS 447"){target="_blank"}
 
 Luftindtag og afkast kan også være ventilationsåbninger direkte til det fri fx udeluftventiler eller automatisk styrede vinduer. Åbningernes primære formål er at sikre, at udeluft tilføres rummene på en kontrolleret måde. Åbningerne bør i fornødent omfang kunne filtrere den indkomne luft og bør placeres således, at den indkomne luft er mindst mulig forurenet.
 

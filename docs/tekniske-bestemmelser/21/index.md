@@ -59,7 +59,7 @@ Norm for vandinstallationer
 
 Denne norm gælder for vandinstallationer, der er tilsluttet almene vandforsyninger (offentlige eller private vandforsyningsanlæg) samt mindre ikke-almene vandforsyningsanlæg. Bygningsreglementets og normens overordnede, funktionelle krav gælder desuden for den del af regnvandsanlæg, der omfatter ledningssystemet, der forsyner wc'er og vaskemaskiner med regnvand fra tank eller anden beholder. Regnvandsanlæg kan udføres som beskrevet i Rørcenter-anvisning 003 Brug af regnvand til wc-skyl og vaskemaskiner i boliger. Normen gælder såvel for nye installationer som for ændringer og tilføjelser i eksisterende anlæg. Reparation af ledninger og mindre ændringer ved udskiftning af enkelte sanitetsgenstande, armaturer, apparater, beholdere mv. kan udføres med materiel og efter metoder, der var tilladte på installationens udførelsestidspunkt. Vandinstallationer omfatter installationer i bygninger og i jord inden for grundgrænsen.
 
-#### @@PROTECTED_12@@
+#### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/standard/M231064/ds-439-2009%20 "DS 439"){target="_blank"}
 
 ## Utætheder {#utaetheder}
 
@@ -93,7 +93,7 @@ Sikring mod forurening af drikkevand i vandinstallationer samt generelle krav ti
 
 Denne standard beskriver metoder til at undgå forurening af drikkevand i bygninger og de generelle krav til sikringsanordninger for at hindre forurening ved tilbagestrømning. De sundhedsmæssige sikringskrav i denne standard er anvendelige for alle systemstandarder eller standarder for apparater, som er tilsluttet drikkevandsinstallationer. Denne standard fastlægger minimumskravene til produktstandarder for tilbagestrømningssikringer. Produktstandarderne anvendes til at detaljere produktspecifikationer. I mangel af en produktstandard anvendes denne standard som reference ved opstilling af specifikationer for nyudviklede produkter.
 
-#### @@PROTECTED_14@@
+#### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/standard/50487/ds-en-1717-2002%20 "DS/EN 1717:2002 "){target="_blank"}
 
 ## Koldt vand {#koldt-vand}
 
@@ -141,7 +141,7 @@ Termisk isolering af tekniske installationer.
 
 Standarden gælder for termisk isolering af bygningsinstallationer, som fx varme-, ventilations-, køle-, solvarme- og brugsvandsanlæg, samt for termisk isolering af industrianlæg herunder proces- og forsyningsanlæg. Standarden gælder også for installationer i det fri.
 
-#### @@PROTECTED_15@@
+#### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/standard/M345889/ds-452-2013-ret-1-till-1-2020%20%20 "DS 452"){target="_blank"}
 
 ## Byggematerialer og produkter til vandinstallationer {#byggematerialer-og-produkter-til-vandinstallationer}
 
@@ -182,4 +182,4 @@ Specifikationer for drikkevandsinstallationer i bygninger - Del 5: Drift og vedl
 
 Denne europæiske standard angiver krav og giver anbefalinger for funktion og vedligeholdelse af drikkevandsinstallationer i bygninger og for rørarbejder udenfor bygninger, men indenfor ejendommen i henhold til EN 806-1.
 
-#### @@PROTECTED_16@@
+#### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/standard/29926/ds-en-806-3-2006 "DS/EN 806-5"){target="_blank"}
