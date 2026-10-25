@@ -22,7 +22,7 @@
   - [Bilag 15 - Præ-accepterede løsninger for sekundær bebyggelse i tilknytning til andet end enfamiliehuse](../generel_brand/bilag-15-sekundaert-bebyggelse/)
   - [Bilag 16 - Præ-accepterede løsninger for mindre bebyggelse i anvendelseskategori 1 og 4](../generel_brand/bilag-16-praeaccepterede-loesninger-for-mindre-bebyggelse-i-anvendelseskategori-1-og-4/)
 - [Oversigt over Bygningsreglementets vejledninger til kapitel 5 – Brand, inkl. udgivelsesdatoer](./)
-- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](https://brandogkonstruktioner.dk/)
+- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../temasiden-brandogkonstruktioner-dk/)
 
 ## Oversigt over Bygningsreglementets vejledninger til kapitel 5 – Brand, inkl. udgivelsesdatoer
 

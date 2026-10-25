@@ -18,7 +18,7 @@
 - [Vejledning om gebyr for kommunernes sagsbehandling på byggeområdet](../gebyr/)
 - [Vejledning om udnyttelige tagetager](../udnyttelige-tagetager/)
 - [Dokumentation af bygningsreglementets tekniske bestemmelser i forbindelse med færdigmelding af byggeriet](../dokumentationsvejledning/)
-- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](https://brandogkonstruktioner.dk/)
+- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../temasiden-brandogkonstruktioner-dk/)
 
 ## Spørgsmål og svar
 

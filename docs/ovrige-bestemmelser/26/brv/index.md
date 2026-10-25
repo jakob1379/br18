@@ -12,9 +12,9 @@ hide:
 
 ## Se alle vejledninger om Konstruktionsklasser (§ 485 - § 489) {#indholdsoversigt}
 
-- [Spørgsmål og svar](./#spoergsmaal-og-svar)
-- [Vejledning om indplacering i konstruktionsklasser](./#vejledning-om-indplacering-i-konstruktionsklasser)
-- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](./#temasiden-brandogkonstruktioner-dk-om-certificeringsordningen-for-brandforhold-og-baerende-konstruktioner)
+- [Spørgsmål og svar](spoergsmaal-og-svar/)
+- [Vejledning om indplacering i konstruktionsklasser](indplacering-i-konstruktionsklasser/)
+- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](temasiden-brandogkonstruktioner-dk/)
 
 ## Spørgsmål og svar {#spoergsmaal-og-svar}
 

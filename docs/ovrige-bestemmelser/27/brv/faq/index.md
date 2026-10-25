@@ -5,7 +5,7 @@
 -
 - [Spørgsmål og svar](../spoergsmaal-og-svar/)
 - [Vejledning om indplacering i brandklasser](../indplacering-i-brandklasser/)
-- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](https://brandogkonstruktioner.dk/)
+- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../temasiden-brandogkonstruktioner-dk/)
 
 ##
 
