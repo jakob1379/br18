@@ -128,6 +128,17 @@ class ConvertTest(unittest.TestCase):
         self.assertIn('[](../media/x/en.pdf "DS EN 1991-1-1 English")-', markdown)
         self.assertIn("- [](faq/)", markdown)
 
+    def test_links_to_the_origins_internal_cms_host_are_dropped(self) -> None:
+        markdown = self.convert(
+            '<p><a rel="noopener" href="https://tbstsc.dev.local/-/media/71F0.ashx" target="_blank">Åbn r</a>'
+            '<a rel="noopener" href="/media/y/r.pdf" target="_blank">ettelsesblad (Nyt vindue).</a></p>'
+            '<p>Tekst.<a id="_anchor_1" href="https://tbstsc.dev.local/#_msocom_1"></a></p>'
+        )
+
+        self.assertNotIn("dev.local", markdown)
+        self.assertIn('[Åbn rettelsesblad (Nyt vindue).](../media/y/r.pdf){rel="noopener" target="_blank"}', markdown)
+        self.assertIn("Tekst.\n", markdown)
+
     def test_page_ends_with_a_single_newline(self) -> None:
         markdown = self.convert("<p>Tekst</p><p><a href='/x'></a></p>")
 

@@ -19,6 +19,7 @@ SITE_HOSTS = {"www.bygningsreglementet.dk", "bygningsreglementet.dk"}
 QUERY_ALIAS_RE = re.compile(r"__q_[0-9a-f]+(?=\.[^.]+$)")
 TABLE_BLOCK_RE = re.compile(r"^<table\b[^>]*>$.*?^</table>$|^\|[^\n]*(?:\n\|[^\n]*)*", re.MULTILINE | re.DOTALL)
 TABLE_TOKEN_RE = re.compile(r"BR18TABLE(\d+)")
+DEV_LINK = r"https?://[^)\s]*\.dev\.local\b[^)\s]*"
 
 DROP_TAGS = {
     "footer",
@@ -754,6 +755,10 @@ def convert_file(path: Path, docs_root: Path, delete_html: bool) -> bool:
         r"*\1*",
         markdown,
     )
+    # Links to the origin CMS's internal host (tbstsc.dev.local) are editing leftovers; one often holds
+    # the first letters of the real link that follows ("[Åbn r](dev)[ettelsesblad](pdf)").
+    markdown = re.sub(rf"\[([^\]]*)\]\({DEV_LINK}\)(?:\{{[^}}]*\}})?\[", r"[\1", markdown)
+    markdown = re.sub(rf"\[([^\]]*)\]\({DEV_LINK}\)(?:\{{[^}}]*\}})?", r"\1", markdown)
     markdown = normalize_media_alias_links(markdown)
     markdown = normalize_duplicate_uuid_fragments(markdown)
     # The prose passes below split "1)" items and rewrite lines, which breaks table rows.
