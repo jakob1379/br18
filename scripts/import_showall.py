@@ -8,7 +8,7 @@ import subprocess
 import sys
 from pathlib import Path
 from posixpath import splitext
-from urllib.parse import urlsplit
+from urllib.parse import unquote, urlsplit
 
 from fetch_origin_pages import SITE_ROOT, fetch, is_section_page, target_path_for_url
 from convert_br18_docs import promote_legal_paragraph_headings
@@ -35,7 +35,7 @@ def rewrite_descendant_fragment_links(markdown: str) -> str:
 
 def promote_showall_md(docs_root: Path, url: str) -> None:
     parsed = urlsplit(url)
-    rel_dir = parsed.path.strip("/")
+    rel_dir = unquote(parsed.path).strip("/").lower()
     target_dir = docs_root / rel_dir if rel_dir else docs_root
     showall_md = target_dir / "showall" / "index.md"
     target_md = target_dir / "index.md"
