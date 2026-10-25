@@ -58,7 +58,7 @@ Ifølge BR18, [§ 485, stk. 1](/ovrige-bestemmelser/26/krav/485_489/), skal en b
 
 Konstruktionsklassen kan betragtes som et udtryk for konsekvenser ved et eventuelt svigt i konstruktionen.
 
-Oplysning om og dokumentation for indplacering i konstruktionsklasse skal fremgå ved ansøgning om byggetilladelse, hvis det er relevant for byggearbejdet, jf. BR18, [§ 10, stk. 1, nr. 5](/administrative-bestemmelser/krav/7_15/). For mere om ansøgning om byggetilladelse henvises der til [bygningsreglementets vejledning om byggesagsbehandling efter BR18](../../../administrative-bestemmelser/brv/#vejledning-om-byggesagsbehandling-efter-br18).
+Oplysning om og dokumentation for indplacering i konstruktionsklasse skal fremgå ved ansøgning om byggetilladelse, hvis det er relevant for byggearbejdet, jf. BR18, [§ 10, stk. 1, nr. 5](/administrative-bestemmelser/krav/7_15/). For mere om ansøgning om byggetilladelse henvises der til [bygningsreglementets vejledning om byggesagsbehandling efter BR18](../../../administrative-bestemmelser/brv/vejledning-om-byggesagsbehandling-efter-br18/).
 
 Kommunalbestyrelsen træffer afgørelse om indplacering i konstruktionsklasse på baggrund af den fremsendte dokumentation. Dokumentationen for indplacering i konstruktionsklasse skal følge BR18, [§§ 503 - 504](/ovrige-bestemmelser/28/krav/494_505/). De relevante dele, der skal fremsendes sammen med ansøgningen om byggetilladelse beskrives yderligere i *Vejledningen til BR18 [kapitel 28](/ovrige-bestemmelser/28/) – Dokumentation af bærende konstruktioner [§494](/ovrige-bestemmelser/28/krav/494_505/), [§498](/ovrige-bestemmelser/28/krav/494_505/), §499 og [§503](/ovrige-bestemmelser/28/krav/494_505/),* samt i *SBi-anvisning 271 Dokumentation og kontrol af bærende konstruktioner*.
 
@@ -322,7 +322,7 @@ Ifølge BR18, [§ 489, stk. 2](/ovrige-bestemmelser/26/krav/485_489/), er følge
 >
 > • Teknikhuse til elektroniske kommunikationsnet eller tjenester
 
-Der henvises til *[Vejledning om opførelse af sekundær bebyggelse med et samlet areal på højst 50 m².](../../../administrative-bestemmelser/brv/#sekundaer-bebyggelse)*
+Der henvises til *[Vejledning om opførelse af sekundær bebyggelse med et samlet areal på højst 50 m².](../../../administrative-bestemmelser/brv/sekundaer-bebyggelse/)*
 
 Ifølge BR18, [§ 489, stk. 3](/ovrige-bestemmelser/26/krav/485_489/), er festival-, salgs- og campingområder undtaget fra indplacering. Derudover er mindre legepladsredskaber og -underlag, multisportsudstyr, motionsredskaber i det fri, skateboardbaner og lignede undtaget fra indplacering i en konstruktionsklasse, hvis udformningen udføres i henhold til [§ 359](/tekniske-bestemmelser/16/krav/359/)-363, og når udformningen eller anvendelsen ikke medfører en risiko for personskade ved et svigt. Andre mindre legepladsredskaber er tillige undtaget fra indplacering i konstruktionsklasse, hvis udformningen eller anvendelsen ikke medfører en risiko for personskade ved et svigt.
 
