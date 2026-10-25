@@ -62,7 +62,11 @@ Yderdøre skal have en fri passagebredde på mindst 0,77 m.
 
 *Stk. 2.* På den side af døren, der åbner imod personen, skal der være mindst 0,50 m ved siden af døren modsat hængselsiden.
 
-*Stk.* 3. Stk. 2 gælder ikke for fritliggende enfamiliehuse. § 53 §§ 51 og 52 gælder også for døre ved flugtveje i stueetagen, have-, altan- og terrassedøre samt døre til fælles tagterrasser, hvortil der er adgang fra elevator eller lignende.
+*Stk.* 3. Stk. 2 gælder ikke for fritliggende enfamiliehuse.
+
+### § 53 {#paragraf-53}
+
+§§ 51 og 52 gælder også for døre ved flugtveje i stueetagen, have-, altan- og terrassedøre samt døre til fælles tagterrasser, hvortil der er adgang fra elevator eller lignende.
 
 ### § 54 {#paragraf-54}
 
@@ -84,7 +88,11 @@ Fælles adgangsveje, der fører til to eller flere boliger, kontorer, mødelokal
 
 3) De er markeret ved forskellige materialer, farver eller belysning.
 
-4) Eventuelle niveauspring og højdeforskelle skal udlignes med ramper. Ramper må ikke udføres med en større hældning end 1:20 (5 cm pr. m), og der skal være en vandret plads på mindst 1,30 m x 1,30 m for hver ende af rampen. Ramper, der udligner højdeforskelle på mere end 0,60 m, skal desuden forsynes med en vandret repos for hver 0,60 m stigning. Ramper skal forsynes med håndlister i begge sider. Ved ramper med en hældning på 1:25 (4 cm pr. m) eller mindre kan håndlister udelades.
+4) Eventuelle niveauspring og højdeforskelle skal udlignes med ramper. Ramper må ikke udføres med en større hældning end 1:20 (5 cm pr.
+
+m), og der skal være en vandret plads på mindst 1,30 m x 1,30 m for hver ende af rampen. Ramper, der udligner højdeforskelle på mere end 0,60 m, skal desuden forsynes med en vandret repos for hver 0,60 m stigning. Ramper skal forsynes med håndlister i begge sider. Ved ramper med en hældning på 1:25 (4 cm pr.
+
+m) eller mindre kan håndlister udelades.
 
 5) Døre i fælles adgangsveje skal have en fri passagebredde på mindst 0,77 m. På den side af døren, der åbner imod personen, skal der være mindst 0,50 m ved siden af døren modsat hængselsiden.
 
@@ -106,7 +114,7 @@ Trapper i fælles adgangsveje skal udformes med tilstrækkelig bredde og fri lof
 
 ### § 58 {#paragraf-58}
 
-Gange, trapper og ramper i fælles adgangsveje samt altaner, franske altandøre, altangange, luftsluser, tagterrasser, udvendige trapper samt andre hævede opholdsarealer, skal under hensyn til bygningens anvendelse sikres med værn og forsynes med håndlister. Alle typer af værn eller rækværk skal under hensyn til bygningens anvendelse udformes, således at deres højde, udformning, frie åbninger i værnet mv. sikrer personer mod at falde ud over eller igennem dem. Bestemmelsen anses som opfyldt, når:
+ Gange, trapper og ramper i fælles adgangsveje samt altaner, franske altandøre, altangange, luftsluser, tagterrasser, udvendige trapper samt andre hævede opholdsarealer, skal under hensyn til bygningens anvendelse sikres med værn og forsynes med håndlister. Alle typer af værn eller rækværk skal under hensyn til bygningens anvendelse udformes, således at deres højde, udformning, frie åbninger i værnet mv. sikrer personer mod at falde ud over eller igennem dem. Bestemmelsen anses som opfyldt, når:
 
 1) Højden på værn eller rækværker er mindst 1,0 m.
 

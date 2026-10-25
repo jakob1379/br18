@@ -64,7 +64,7 @@ Afløbsinstallationer skal udføres som separatsystem, hvis hovedafløbsledninge
 
 ### § 74 {#paragraf-74}
 
-Kommunalbestyrelsen kan forlange, at der etableres fornøden ventilation af hovedafløbsledninger gennem en ejendoms afløbsinstallation. [![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+Kommunalbestyrelsen kan forlange, at der etableres fornøden ventilation af hovedafløbsledninger gennem en ejendoms afløbsinstallation. [![](../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 ### DS 432
 
@@ -89,7 +89,8 @@ Vandinstallationer med aftapning samt tekniske installationer med f.eks. aftræk
 ### § 76 {#paragraf-76}
 
 Højvandslukke til sikring mod oversvømmelser, der installeres i eller uden for bygningen, skal udføres i overensstemmelse med tabel 13 til DS 432 Afløbsinstallationer.
-[![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+
+[![](../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 ### DS 432
 
@@ -113,7 +114,7 @@ Afløb for regnvand skal udføres, så bortledning, nedsivning eller vandansamli
 
 ## § 78 Drænvand {#61509430-c2ad-45a3-a482-391e7c60763e}
 
-Installationer til dræning af bygninger mv. skal udføres i overensstemmelse med DS 436 Norm for dræning af bygværker mv. [![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+Installationer til dræning af bygninger mv. skal udføres i overensstemmelse med DS 436 Norm for dræning af bygværker mv. [![](../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 ### DS 436
 
@@ -131,7 +132,7 @@ Fabriksfremstillede produkter, der indgår i eller tilsluttes afløbsinstallatio
 
 1) være forsynet med CE-mærke, der viser, at produkterne stemmer overens med en harmoniseret standard eller er omfattet af en europæisk teknisk godkendelse med de deklarerede egenskaber, der er relevante for Danmark, eller
 
-2) have gennemgået en afprøvning for de egenskaber, der er relevante for Danmark, og være underlagt en produktionskontrol hos fabrikanten, der sikrer, at den deklarerede ydeevne opretholdes, som beskrevet i [kapitel](../../../../ovrige-bestemmelser/24/krav){rel="noopener noreferrer" target="_blank"} [24](../../../../ovrige-bestemmelser/24/krav){rel="noopener noreferrer" target="_blank"}[.](../../../../ovrige-bestemmelser/24/krav){rel="noopener noreferrer" target="_blank"}
+2) have gennemgået en afprøvning for de egenskaber, der er relevante for Danmark, og være underlagt en produktionskontrol hos fabrikanten, der sikrer, at den deklarerede ydeevne opretholdes, som beskrevet i [kapitel](../../../../ovrige-bestemmelser/24/krav/){rel="noopener noreferrer" target="_blank"} [24](../../../../ovrige-bestemmelser/24/krav/){rel="noopener noreferrer" target="_blank"}[.](../../../../ovrige-bestemmelser/24/krav/){rel="noopener noreferrer" target="_blank"}
 
 ## § 80 - § 81 Drift og vedligehold af afløbsinstallationer {#41511b7a-2fe6-4ac5-8825-0d0921a7f31e}
 

@@ -2,13 +2,13 @@
 
 ## Se alle vejledninger om Byggepladsen og udførelsen af Byggearbejder (§ 161 - § 165)
 
-- [Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder](./)
-- [Vejledning om brandværnsforanstaltninger for skurbyer og lignende på byggepladser](../../brandvarnforanstaltninger)
-- [Bygningsreglementets vejledning om brandsikkerhed under byggearbejder i særligt vigtige historiske bygninger](../../vejledning-om-brandsikkerhed-under-byggearbejder-i-saerligt-vigtige-historiske-bygninger)
+- [Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder](../)
+- [Vejledning om brandværnsforanstaltninger for skurbyer og lignende på byggepladser](../../brandvarnforanstaltninger/)
+- [Bygningsreglementets vejledning om brandsikkerhed under byggearbejder i særligt vigtige historiske bygninger](../../vejledning-om-brandsikkerhed-under-byggearbejder-i-saerligt-vigtige-historiske-bygninger/)
 
 ## Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder
 
-### Forord
+### Forord {#53aaae9d-a33f-44f1-868e-5c37b9a3decc}
 
 ### 1.0. Generelt {#ae17a0d2-4078-40c7-9064-6ab09cfc67b2}
 
@@ -44,17 +44,17 @@ Håndildslukkere skal være udført i overensstemmelse med gældende regler (DS/
 
 *Tabel 1 - klassificering af slukkere*
 
-<table style="width:99%;">
+<table>
 <colgroup>
-<col style="width: 17%" />
-<col style="width: 10%" />
-<col style="width: 43%" />
-<col style="width: 27%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
 </colgroup>
 <tbody>
 <tr>
 <td><strong>Type</strong></td>
-<td><strong>Klasse</strong></td>
+<td><strong>Klasse</strong> </td>
 <td> <strong>Anvendelse ved</strong></td>
 <td><strong>Anvendes <em>ikke</em> ved</strong></td>
 </tr>
@@ -66,29 +66,30 @@ Håndildslukkere skal være udført i overensstemmelse med gældende regler (DS/
 <td>Væskebrande, el-brande, metalbrande, brande i vegetabilsk olie</td>
 </tr>
 <tr>
-<td><strong>Pulverslukker</strong></td>
-<td>A, B, C, D<sup>2</sup>, E<sup>2</sup></td>
-<td>Faste stoffer - træ, tekstil, papir mv., væskebrande, gasser, metalbrande, el-brande (max 1.000 V)</td>
+<td><strong>Pulverslukker</strong> </td>
+<td>A, B, C, D<sup>2</sup>, E<sup>2</sup>  </td>
+<td>Faste stoffer - træ, tekstil, papir mv., væskebrande, gasser, metalbrande, el-brande (max 1.000 V) </td>
 <td> Brande i vegetabilsk olie<br />
 </td>
 </tr>
 <tr>
 <td><strong>Kulsyresneslukker (CO<sub>2</sub> - slukker)</strong></td>
 <td>A, C, E</td>
-<td>Væskebrande, gasser, el-brande</td>
+<td><p>Væskebrande, gasser, el-brande</p></td>
 <td> Metalbrande, brande i vegetabilsk olie</td>
 </tr>
 <tr>
-<td><strong>Skumslukker </strong></td>
+<td><strong>Skumslukker</strong> </td>
 <td>A, B, E<sup>4</sup></td>
-<td>Faste stoffer, væskebrande, el-brande (max. 1.000 V)</td>
-<td>Metalbrande, el-brande, brande i vegetabilsk olie</td>
+<td><p>Faste stoffer, væskebrande, el-brande (max. 1.000 V)</p></td>
+<td> 
+<p>Metalbrande, el-brande, brande i vegetabilsk olie</p></td>
 </tr>
 <tr>
-<td><strong>Brandtæppe</strong></td>
+<td><strong>Brandtæppe</strong> </td>
 <td>-</td>
 <td>Brand i personer/beklædning<sup>5</sup>, Mindre væskebrande</td>
-<td>Brand i faste stoffer, metalbrande, el-brande</td>
+<td><p>Brand i faste stoffer, metalbrande, el-brande</p></td>
 </tr>
 </tbody>
 </table>
@@ -103,7 +104,7 @@ Håndildslukkere skal være udført i overensstemmelse med gældende regler (DS/
 
 5.  *Hvis vand ikke er til stede.*
 
-[![](../../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/ds_en_linkbox.svg)](#)
 
 ####
 

@@ -2,8 +2,8 @@
 
 ## Se alle vejledninger om Afløb (§ 69 - § 81)
 
-- [Spørgsmål og svar om afløb](../qa)
-- [Bygningsreglementets vejledning om afløb](.)
+- [Spørgsmål og svar om afløb](../qa/)
+- [Bygningsreglementets vejledning om afløb](./)
 
 ## Bygningsreglementets vejledning om afløb
 
@@ -21,11 +21,11 @@ Dæksler og riste skal vælges ud fra de belastninger de påføres, og det skal 
 
 Der henvises i øvrigt til arbejdstilsynets regler for dæksler.
 
-Der henvises til [vejledning om installationer i eksisterende bygninger](../../../../vejledninger/andre_vejledninger/vejledning/installationer-eksisterende-byggeri "Installationer eksisterende byggeri")
+Der henvises til [vejledning om installationer i eksisterende bygninger](../../../../vejledninger/andre_vejledninger/vejledning/installationer-eksisterende-byggeri/ "Installationer eksisterende byggeri")
 
 Der henvises til [rørcenteranvisning 011 Vacuumsystemer i bygninger](https://www.teknologisk.dk/_/media/53552_R%F8rcenter-anvisning%20011.%20Vacuumsystemer%20i%20bygninger..pdf){target="_blank"}.
 
-[![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 #### DS 432
 

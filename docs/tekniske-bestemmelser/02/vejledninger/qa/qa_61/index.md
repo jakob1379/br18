@@ -2,9 +2,9 @@
 
 ## Se alle vejledninger om Adgangsforhold (§ 48 - § 62)
 
-- [Spørgsmål og svar om adgangsforhold](..)
-- [Vejledning til brugerbegreb](../../vejledning-til-brugerbegreb)
-- [Vejledning om tilgængelighed til transportable konstruktioner](../../vejledning-om-tilgaengelighed-til-transportable-konstruktioner)
+- [Spørgsmål og svar om adgangsforhold](../)
+- [Vejledning til brugerbegreb](../../vejledning-til-brugerbegreb/)
+- [Vejledning om tilgængelighed til transportable konstruktioner](../../vejledning-om-tilgaengelighed-til-transportable-konstruktioner/)
 
 ## Spørgsmål og svar om adgangsforhold
 
