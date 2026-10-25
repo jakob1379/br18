@@ -45,6 +45,16 @@ class ConvertTest(unittest.TestCase):
         self.assertIn("*SBi-anvisning 231, Fundering af mindre bygninger*", markdown)
         self.assertNotRegex(markdown, r"(?m)^\*\s*$")
 
+    def test_line_breaks_inside_emphasis_close_it_on_each_line(self) -> None:
+        markdown = self.convert(
+            "<p><strong><span>- <strong><span>Sengestuer<br></span></strong><br>"
+            "- <strong><span>Kontorer<br></span></strong><br></span></strong>Mere</p>"
+            "<p><strong>Bygnings-<br> reglementets krav</strong></p>"
+        )
+
+        self.assertIn("- **Sengestuer**\n\n- **Kontorer**\n\nMere", markdown)
+        self.assertIn("**Bygnings-**\n\n**reglementets krav**", markdown)
+
     def test_links_to_origin_pages_point_at_directories(self) -> None:
         markdown = self.convert(
             '<p><a href="/side/vejledning">Vejledning</a> <a href="https://www.bygningsreglementet.dk/side">Her</a>'

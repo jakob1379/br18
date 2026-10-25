@@ -186,7 +186,7 @@ class Cleaner(HTMLParser):
         self.parts: list[str] = []
         self.skip_depth = 0
         self.stack: list[str] = []
-        self.emphasis: list[str] = []
+        self.emphasis: list[str] = []  # open emitted emphasis tags
 
     def _before_emphasis_opens(self) -> int:
         """Index before the emphasis tags just opened, where leading whitespace and breaks belong."""
@@ -242,7 +242,14 @@ class Cleaner(HTMLParser):
             if self.skip_depth > 0 or self._should_skip(tag, attrs):
                 return
             attrs = self._rewrite_attrs(tag, attrs)
-            self.parts.insert(self._before_emphasis_opens() if tag == "br" else len(self.parts), f"<{tag}{self._render_attrs(attrs)} />")
+            if tag == "br" and self.emphasis:
+                # The converter turns line breaks into paragraph breaks, which emphasis cannot span.
+                for open_tag in reversed(self.emphasis):
+                    self._close(open_tag)
+                self.parts.append("<br />")
+                self.parts.extend(f"<{open_tag}>" for open_tag in self.emphasis)
+                return
+            self.parts.append(f"<{tag}{self._render_attrs(attrs)} />")
             return
 
         if self.skip_depth > 0 or self._should_skip(tag, attrs):
@@ -251,7 +258,7 @@ class Cleaner(HTMLParser):
             return
 
         # Markdown cannot nest emphasis of one kind (`**a **b****`), and the inner one adds nothing visible.
-        nested = tag in EMPHASIS_TAGS and EMPHASIS_KIND[tag] in self.emphasis
+        nested = tag in EMPHASIS_TAGS and EMPHASIS_KIND[tag] in {EMPHASIS_KIND[t] for t in self.emphasis}
         if nested or tag in FLATTEN_TAGS or (tag == "a" and "href" not in self._attrs(attrs)):
             self.stack.append("flatten")
             if tag in BLOCK_FLATTEN_TAGS:
@@ -260,7 +267,7 @@ class Cleaner(HTMLParser):
 
         self.stack.append("emit")
         if tag in EMPHASIS_TAGS:
-            self.emphasis.append(EMPHASIS_KIND[tag])
+            self.emphasis.append(tag)
         attrs = self._rewrite_attrs(tag, attrs)
         self.parts.append(f"<{tag}{self._render_attrs(attrs)}>")
 
@@ -283,10 +290,13 @@ class Cleaner(HTMLParser):
             if tag in BLOCK_FLATTEN_TAGS:
                 self.parts.append("\n\n")
             return
+        if tag in EMPHASIS_TAGS and self.emphasis:
+            self.emphasis.pop()
+        self._close(tag)
+
+    def _close(self, tag: str) -> None:
         moved: list[str] = []
         if tag in EMPHASIS_TAGS:
-            if self.emphasis:
-                self.emphasis.pop()
             while self.parts and (self.parts[-1] == "<br />" or not self.parts[-1].strip(" \t\n ")):
                 moved.insert(0, self.parts.pop())
             if self.parts and not self.parts[-1].startswith("<"):
@@ -427,6 +437,9 @@ def normalize_markdown_linebreak_artifacts(markdown: str) -> str:
     # section references, or URLs.
     text = re.sub(r"(?<!^)(?<!\\)\s+(?=\d{1,2}\)\s*\S)", "\n\n", text)
     text = re.sub(r"(?<!^)(?<!\\)\s+(?=[a-zæøå]\)\s*\S)", "\n\n", text)
+
+    # An emphasised "- item" line (the origin's typed dash list) becomes a list item like the unemphasised ones.
+    text = re.sub(r"(?m)^(\*{1,3})- (?=\S)", r"- \1", text)
 
     text = re.sub(r"\n{3,}", "\n\n", text)
     return text + ("\n" if markdown.endswith("\n") else "")
