@@ -21,7 +21,7 @@ Forslagene til projekteringsværdier er baseret på SBi-anvisning 272 \[3\] samt
 
 Referencer findes i afsnit 1.5.
 
-De angivne forslag til projekteringsværdier omfatter ikke alle rumtyper og anvendelser. Ved projektering bør der derfor for alle byggeriets rum opstilles projektrelevante lydkrav for at sikre tilfredsstillende lydforhold for rummenes brugere, jf. BR18, [§ 368, stk. 1](/tekniske-bestemmelser/17/krav/368/). Det er specielt vigtigt at være opmærksom på lydisolerende tiltag mod rum med støjende aktiviteter i egen bygning eller i andre erhvervsenheder.
+De angivne forslag til projekteringsværdier omfatter ikke alle rumtyper og anvendelser. Ved projektering bør der derfor for alle byggeriets rum opstilles projektrelevante lydkrav for at sikre tilfredsstillende lydforhold for rummenes brugere, jf. BR18, § 368, stk. 1. Det er specielt vigtigt at være opmærksom på lydisolerende tiltag mod rum med støjende aktiviteter i egen bygning eller i andre erhvervsenheder.
 
 For visse rumtyper, fx almindelige kontorer, henvises også til afsnit 5 om kontorbyggeri.
 
@@ -29,7 +29,7 @@ For hospitaler har en række rum skærpede lydkrav i forhold til andre bygningsa
 
 **Definitioner af rumtyper for hospitaler, lægehuse og klinikker**
 
-**- **Sengestuer
+- **Sengestuer**
 
 - **Undersøgelsesrum, behandlingsrum, operationsstuer mv.**
 
@@ -68,4 +68,3 @@ For hospitaler har en række rum skærpede lydkrav i forhold til andre bygningsa
 [6.4](../rumakustik-i-hospitaler-laegehuse-og-klinikker/)
 
 ### Rumakustik
-

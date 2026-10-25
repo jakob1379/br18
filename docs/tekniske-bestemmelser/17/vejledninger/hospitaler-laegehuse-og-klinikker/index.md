@@ -27,7 +27,7 @@ For hospitaler har en række rum skærpede lydkrav i forhold til andre bygningsa
 
 **Definitioner af rumtyper for hospitaler, lægehuse og klinikker**
 
-**- **Sengestuer
+- **Sengestuer**
 
 - **Undersøgelsesrum, behandlingsrum, operationsstuer mv.**
 
@@ -53,112 +53,112 @@ For hospitaler har en række rum skærpede lydkrav i forhold til andre bygningsa
 
 ### 6.1 Lydisolation {#8bb1a8f1-5b7d-4bce-9ee0-6bb125388942}
 
-Tabel 6.1 indeholder forslag til projekteringsværdier for luftlydisolation og trinlydniveau i hospitaler svarende til overholdelse af BR18's generelle bestemmelse i § 368, stk. 1 om at "*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen".*
+Tabel 6.1 indeholder forslag til projekteringsværdier for luftlydisolation og trinlydniveau i hospitaler svarende til overholdelse af BR18’s generelle bestemmelse i § 368, stk. 1 om at ”*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen”.*
 
 <table>
 <colgroup>
-<col style="width: 80%" />
-<col style="width: 19%" />
+<col style="width: 50%" />
+<col style="width: 50%" />
 </colgroup>
 <tbody>
 <tr>
-<td colspan="2">Hospitaler – Tabel 6.1 Lydisolation – Forslag til projekteringsværdier</td>
+<td colspan="2">Hospitaler – Tabel 6.1 Lydisolation – Forslag til projekteringsværdier </td>
 </tr>
 <tr>
-<td><strong>Luftlydisolation</strong>  <sup>1)</sup> <strong>- Vandret</strong></td>
-<td><strong><em>R’</em><sub>w</sub></strong></td>
+<td><strong>Luftlydisolation</strong> <sup></sup> <sup>1)</sup> <strong>- Vandret</strong> </td>
+<td><strong><em>R’</em><sub>w</sub></strong> </td>
 </tr>
 <tr>
-<td>Mellem sengestuer<br />
+<td><p>Mellem sengestuer<br />
 Mellem toilet/bad og tilstødende sengestuer<br />
 Mellem sengestuer og andre rum (uden dørforbindelse)<br />
-Mellem skyllerum og andre rum</td>
-<td>≥ 48 dB</td>
+Mellem skyllerum og andre rum</p></td>
+<td>≥ 48 dB </td>
 </tr>
 <tr>
-<td>Mellem sengestuer og toilet/bad, der anvendes af mere end én patient</td>
-<td>≥ 30 dB</td>
+<td>Mellem sengestuer og toilet/bad, der anvendes af mere end én patient </td>
+<td>≥ 30 dB </td>
 </tr>
 <tr>
-<td>Mellem sengestuer og andre rum (med dørforbindelse)</td>
-<td>≥ 35 dB</td>
+<td>Mellem sengestuer og andre rum (med dørforbindelse) </td>
+<td>≥ 35 dB </td>
 </tr>
 <tr>
-<td>Mellem undersøgelsesrum, behandlingsrum, operationsstuer mv. og andre rum <sup>1)</sup></td>
-<td>≥ 48 dB</td>
+<td>Mellem undersøgelsesrum, behandlingsrum, operationsstuer mv. og andre rum <sup>1)</sup> </td>
+<td>≥ 48 dB </td>
 </tr>
 <tr>
-<td>Mellem møderum og andre rum (uden dørforbindelse)</td>
-<td>≥ 48 dB</td>
+<td>Mellem møderum og andre rum (uden dørforbindelse) </td>
+<td>≥ 48 dB </td>
 </tr>
 <tr>
-<td>Mellem møderum og andre rum med folde- og mobilvægge</td>
-<td>≥ 44 dB</td>
+<td>Mellem møderum og andre rum med folde- og mobilvægge </td>
+<td>≥ 44 dB </td>
 </tr>
 <tr>
-<td>Mellem møderum og andre rum med dørforbindelse (samlet lydisolation for væg med dør, glaspartier mv.)</td>
+<td>Mellem møderum og andre rum med dørforbindelse (samlet lydisolation for væg med dør, glaspartier mv.) </td>
 <td>≥ 40 dB<br />
 </td>
 </tr>
 <tr>
-<td>Mellem rum med krav om fortrolighed og andre rum</td>
-<td>≥ 52 dB</td>
+<td>Mellem rum med krav om fortrolighed og andre rum </td>
+<td>≥ 52 dB </td>
 </tr>
 <tr>
-<td>Fødestuer, teknikrum m.v.</td>
-<td>≥ 52 dB</td>
+<td>Fødestuer, teknikrum m.v. </td>
+<td>≥ 52 dB </td>
 </tr>
 <tr>
-<td>MR-scannerrum</td>
-<td>Projektkrav  <sup>2)</sup></td>
+<td>MR-scannerrum </td>
+<td>Projektkrav <sup></sup> <sup>2)</sup> </td>
 </tr>
 <tr>
-<td>Auditorier og større møde- og videokonferencerum</td>
-<td>Projektkrav  <sup>2)</sup></td>
+<td>Auditorier og større møde- og videokonferencerum </td>
+<td>Projektkrav <sup></sup> <sup>2)</sup> </td>
 </tr>
 <tr>
-<td>Mellem kontorer, møderum, sengestuer mv. mod tilgrænsende rum i andre erhvervsenheder eller rum med støjende aktiviteter i samme virksomhed</td>
-<td>≥ 55 dB  <sup>3)</sup></td>
+<td>Mellem kontorer, møderum, sengestuer mv. mod tilgrænsende rum i andre erhvervsenheder eller rum med støjende aktiviteter i samme virksomhed </td>
+<td>≥ 55 dB <sup></sup> <sup>3)</sup> </td>
 </tr>
 <tr>
-<td><strong>Luftlydisolation</strong>  <sup>1)</sup> <strong>- Lodret</strong></td>
-<td><strong><em>R’</em><sub>w</sub></strong></td>
+<td><strong>Luftlydisolation</strong> <sup></sup> <sup>1)</sup> <strong>- Lodret</strong> </td>
+<td><strong><em>R’</em><sub>w</sub></strong> </td>
 </tr>
 <tr>
-<td>Operationsstuer, fødestuer m.v.</td>
-<td>≥ 55 dB</td>
+<td>Operationsstuer, fødestuer m.v. </td>
+<td>≥ 55 dB </td>
 </tr>
 <tr>
-<td>MR-scannerrum</td>
-<td>Projektkrav  <sup>2)</sup></td>
+<td>MR-scannerrum </td>
+<td>Projektkrav <sup></sup> <sup>2)</sup> </td>
 </tr>
 <tr>
-<td>Mellem kontorer, møderum, sengestuer mv. mod tilgrænsende rum i andre erhvervsenheder eller rum med støjende aktiviteter i samme virksomhed</td>
-<td></td>
+<td>Mellem kontorer, møderum, sengestuer mv. mod tilgrænsende rum i andre erhvervsenheder eller rum med støjende aktiviteter i samme virksomhed </td>
+<td> </td>
 </tr>
 <tr>
-<td>Etagedæk mellem andre rumtyper</td>
-<td>≥ 51 dB</td>
+<td>Etagedæk mellem andre rumtyper </td>
+<td>≥ 51 dB </td>
 </tr>
 <tr>
-<td><strong>Trinlydniveau</strong></td>
-<td><strong><em>L’</em><sub>n,w</sub></strong></td>
+<td><strong>Trinlydniveau</strong> </td>
+<td><strong><em>L’</em><sub>n,w</sub></strong> </td>
 </tr>
 <tr>
-<td>I sengestuer, undersøgelsesrum, behandlingsrum mv. fra gulve i andre rum <sup>4)</sup></td>
-<td>≤ 58 dB</td>
+<td>I sengestuer, undersøgelsesrum, behandlingsrum mv. fra gulve i andre rum <sup>4)</sup> </td>
+<td>≤ 58 dB </td>
 </tr>
 <tr>
-<td>I sengestuer, undersøgelsesrum, behandlingsrum mv. fra gulve i baderum, toiletter, balkoner</td>
-<td>≤ 63 dB</td>
+<td>I sengestuer, undersøgelsesrum, behandlingsrum mv. fra gulve i baderum, toiletter, balkoner </td>
+<td>≤ 63 dB </td>
 </tr>
 <tr>
-<td>Auditorier og større møde- og videokonferencerum</td>
-<td>Projektkrav  <sup>2)</sup></td>
+<td>Auditorier og større møde- og videokonferencerum </td>
+<td>Projektkrav <sup></sup> <sup>2)</sup> </td>
 </tr>
 <tr>
-<td>I kontorer, møderum, sengestuer mv. fra tilgrænsende rum i andre erhvervsenheder</td>
-<td>≤ 58 dB  <sup>3)</sup></td>
+<td>I kontorer, møderum, sengestuer mv. fra tilgrænsende rum i andre erhvervsenheder </td>
+<td>≤ 58 dB <sup></sup> <sup>3)</sup> </td>
 </tr>
 <tr>
 <td><p><strong>Noter</strong></p>
@@ -169,14 +169,14 @@ Mellem skyllerum og andre rum</td>
 3) I tilfælde af særligt generende støj i egen eller andres virksomhed opstilles relevante lydkrav, der sikrer tilfredsstillende lydforhold for rumanvendelsen.<br />
 <br />
 4) Fra alle omgivende gulve, dæk og trapper.</p></td>
-<td></td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
 ### 6.2 Støj indendørs fra trafik {#e4f257c7-aa92-45b0-bee8-6f1d15b43982}
 
-Tabel 6.2 indeholder forslag til projekteringsværdier for trafikstøj i hospitaler svarende til overholdelse af BR18's generelle bestemmelse i § 368, stk. 1 om at "*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen",* samt supplerende vejledende grænseværdier for trafikstøj indendørs med åbne vinduer*.*
+Tabel 6.2 indeholder forslag til projekteringsværdier for trafikstøj i hospitaler svarende til overholdelse af BR18’s generelle bestemmelse i § 368, stk. 1 om at ”*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen”,* samt supplerende vejledende grænseværdier for trafikstøj indendørs med åbne vinduer*.*
 
 <table>
 <colgroup>
@@ -185,44 +185,47 @@ Tabel 6.2 indeholder forslag til projekteringsværdier for trafikstøj i hospita
 </colgroup>
 <tbody>
 <tr>
-<td colspan="2"><strong>Hospitaler – Tabel 6.2 Støj indendørs fra trafik – Forslag til projekteringsværdier </strong></td>
+<td colspan="2"><strong>Hospitaler – Tabel 6.2 Støj indendørs fra trafik – Forslag til projekteringsværdier</strong> </td>
 </tr>
 <tr>
-<td><strong>Rumtype</strong></td>
+<td><strong>Rumtype</strong> </td>
 <td><p><strong>Støjbelastning indendørs</strong> <sup>1)</sup></p>
-<p><strong>fra veje og jernbaner</strong></p></td>
+<strong>fra veje og jernbaner</strong> </td>
 </tr>
 <tr>
-<td colspan="2">Sengestuer, undersøgelses­rum, behandlingsrum,  | <em>L</em><sub>den</sub> ≤ 33 dB  | operationsstuer, konsultationsrum  | med lukkede vinduer</td>
-</tr>
-<tr>
-<td>Fællesarealer, TV-stue mv.</td>
-<td><em>L</em><sub>den</sub> ≤ 38 dB<br />
-med lukkede vinduer</td>
-</tr>
-<tr>
-<td>I kontorer og møderum</td>
-<td><em>L</em><sub>den</sub> ≤ 38 dB<br />
-med lukkede vinduer</td>
-</tr>
-<tr>
-<td>I videokonferencerum og auditorier</td>
+<td>Sengestuer, undersøgelses­rum, behandlingsrum,<br />
+operationsstuer, konsultationsrum </td>
 <td><em>L</em><sub>den</sub> ≤ 33 dB<br />
-med lukkede vinduer</td>
+med lukkede vinduer </td>
 </tr>
 <tr>
-<td>Kantine, receptionsareal mv.</td>
+<td>Fællesarealer, TV-stue mv. </td>
 <td><em>L</em><sub>den</sub> ≤ 38 dB<br />
-med lukkede vinduer</td>
+med lukkede vinduer </td>
 </tr>
 <tr>
-<td>Scannerrum, røntgenrum, fødestuer</td>
+<td>I kontorer og møderum </td>
 <td><em>L</em><sub>den</sub> ≤ 38 dB<br />
-med lukkede vinduer</td>
+med lukkede vinduer </td>
 </tr>
 <tr>
-<td>Øvrige rum samt alle rum udsat for helikopterstøj</td>
-<td>Projektkrav  <sup>2)</sup></td>
+<td><p>I videokonferencerum og auditorier </p></td>
+<td><em>L</em><sub>den</sub> ≤ 33 dB<br />
+med lukkede vinduer </td>
+</tr>
+<tr>
+<td>Kantine, receptionsareal mv. </td>
+<td><em>L</em><sub>den</sub> ≤ 38 dB<br />
+med lukkede vinduer </td>
+</tr>
+<tr>
+<td>Scannerrum, røntgenrum, fødestuer </td>
+<td><em>L</em><sub>den</sub> ≤ 38 dB<br />
+med lukkede vinduer </td>
+</tr>
+<tr>
+<td>Øvrige rum samt alle rum udsat for helikopterstøj </td>
+<td>Projektkrav <sup></sup> <sup>2)</sup> </td>
 </tr>
 <tr>
 <td colspan="2"><p><strong>Noter</strong></p>
@@ -235,75 +238,76 @@ med lukkede vinduer</td>
 
 ### 6.3 Støj fra tekniske installationer {#604f2261-6385-420f-95be-82ffe076bed8}
 
-Tabel 6.3 indeholder forslag til projekteringsværdier for støj fra tekniske installationer i hospitaler svarende til overholdelse af BR18's generelle bestemmelse i § 368, stk. 1 om at "*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen",* samt supplerende vejledende grænseværdier for lavfrekvent støj og infralyd.
+Tabel 6.3 indeholder forslag til projekteringsværdier for støj fra tekniske installationer i hospitaler svarende til overholdelse af BR18’s generelle bestemmelse i § 368, stk. 1 om at ”*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen”,* samt supplerende vejledende grænseværdier for lavfrekvent støj og infralyd.
 
-<table style="width:99%;">
+<table>
 <colgroup>
-<col style="width: 36%" />
-<col style="width: 31%" />
-<col style="width: 31%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
 </colgroup>
 <tbody>
 <tr>
-<td colspan="3"><strong>Hospitaler</strong> <strong>– Tabel 6.3 Støj fra tekniske installationer – Forslag til projekteringsværdier</strong></td>
+<td colspan="3"><strong>Hospitaler</strong> <strong>– Tabel 6.3 Støj fra tekniske installationer – Forslag til projekteringsværdier</strong> </td>
 </tr>
 <tr>
-<td><strong>Rumtype</strong></td>
-<td><strong>Støjkilde <sup>2)</sup></strong></td>
-<td><strong><em>L</em><sub>Aeq</sub></strong> <sup>1)</sup></td>
+<td><strong>Rumtype</strong> </td>
+<td><strong>Støjkilde <sup>2)</sup></strong> </td>
+<td><strong><em>L</em><sub>Aeq</sub></strong> <sup>1)</sup> </td>
 </tr>
 <tr>
-<td>Sengestuer <sup>a)</sup>, undersøgelsesrum, behandlingsrum,<br />
-konsultationsrum</td>
-<td rowspan="7">Bygningens tekniske installationer</td>
-<td>≤ 30 dB</td>
+<td>Sengestuer<sup>  a)</sup>, undersøgelsesrum, behandlingsrum,<br />
+konsultationsrum </td>
+<td rowspan="7">Bygningens tekniske installationer </td>
+<td>≤ 30 dB </td>
 </tr>
 <tr>
-<td>Scannerrum, røntgenrum, fødestuer</td>
-<td>≤ 35 dB</td>
+<td>Scannerrum, røntgenrum, fødestuer </td>
+<td>≤ 35 dB </td>
 </tr>
 <tr>
-<td>Fællesarealer, gangarealer, opholdsrum, TV-stue mv.</td>
-<td>≤ 35 dB</td>
+<td>Fællesarealer, gangarealer, opholdsrum, TV-stue mv. </td>
+<td>≤ 35 dB </td>
 </tr>
 <tr>
-<td>Kontorer <sup>a)</sup></td>
-<td>≤ 35 dB</td>
+<td>Kontorer <sup>a)</sup> </td>
+<td>≤ 35 dB </td>
 </tr>
 <tr>
-<td>Møderum, videokonferencerum og auditorier <sup>a)</sup></td>
-<td>≤ 30 dB</td>
+<td>Møderum, videokonferencerum og auditorier <sup> a)</sup> </td>
+<td>≤ 30 dB </td>
 </tr>
 <tr>
-<td>Kantine, receptionsareal mv.</td>
-<td>≤ 35 dB</td>
+<td>Kantine, receptionsareal mv. </td>
+<td>≤ 35 dB </td>
 </tr>
 <tr>
-<td>Øvrige rum</td>
-<td>Projektkrav  <sup>3)</sup></td>
+<td>Øvrige rum </td>
+<td>Projektkrav <sup></sup> <sup>3)</sup> </td>
 </tr>
 <tr>
-<td colspan="3"><p><strong><em>Supplerende vejledning</em></strong><em>    </em> <strong>[3], [9]</strong></p>
+<td colspan="3"><p><strong><em>Supplerende vejledning</em></strong>     <strong>[3], [9]</strong></p>
 <p>a) <em>For tekniske installationer, der giver anledning til lavfrekvent støj:<br />
-A-vægtet, ækvivalent lydtrykniveau i lavfrekvensområdet, L</em><sub>p<em>A,LF</em></sub><em>  ≤ 25 dB, forsengestuer ≤ 20 dB for aften og nat (kl. 18-07).</em><br />
+A-vægtet, ækvivalent lydtrykniveau i lavfrekvensområdet, L</em><sub>p<em>A,LF</em></sub>  <em>≤ 25 dB, forsengestuer ≤ 20 dB for aften og nat (kl. 18-07).</em><br />
 <em>Tilsvarende grænseværdi for G-vægtet infralydniveau, L<sub>pG</sub> ≤ 85 dB.</em></p></td>
 </tr>
 <tr>
-<td colspan="3"><p><strong>Noter </strong></p>
+<td colspan="3"><p><strong>Noter</strong> </p>
 <p>1) Projekteringsværdien gælder i møblerede rum.<br />
 <br />
 2) Projekteringsværdien gælder for den enkelte installation.<br />
 <br />
-3) Der opstilles relevante projektkrav, der kan sikre tilfredsstillende lydforhold for rumanvendelsen.</p></td>
+3) Der opstilles relevante projektkrav, der kan sikre tilfredsstillende lydforhold for rumanvendelsen.<br />
+</p></td>
 </tr>
 </tbody>
 </table>
 
 ### 6.4 Rumakustik {#e7acca73-f8e2-4a4f-b1ad-85505632d69a}
 
-Tabel 6.4 indeholder forslag til projekteringsværdier for efterklangstid og absorptionsareal i hospitaler svarende til overholdelse af BR18's generelle bestemmelse i § 368, stk. 1 om at "*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen".*
+Tabel 6.4 indeholder forslag til projekteringsværdier for efterklangstid og absorptionsareal i hospitaler svarende til overholdelse af BR18’s generelle bestemmelse i § 368, stk. 1 om at ”*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen”.*
 
-<table style="width:100%;">
+<table>
 <colgroup>
 <col style="width: 33%" />
 <col style="width: 33%" />
@@ -311,82 +315,83 @@ Tabel 6.4 indeholder forslag til projekteringsværdier for efterklangstid og abs
 </colgroup>
 <tbody>
 <tr>
-<td colspan="3"><strong>Hospitaler</strong> <strong>– Tabel 6.4 Rumakustik – Forslag til projekteringsværdier</strong></td>
+<td colspan="3"><strong>Hospitaler</strong> <strong>– Tabel 6.4 Rumakustik – Forslag til projekteringsværdier</strong> </td>
 </tr>
 <tr>
-<td><strong>Efterklangstid</strong></td>
-<td><strong>T <sup>1), 3)</sup></strong></td>
-<td><strong>Frekvensområde</strong></td>
+<td><strong>Efterklangstid</strong> </td>
+<td><strong>T <sup>1), 3)</sup></strong> </td>
+<td><strong>Frekvensområde</strong> </td>
 </tr>
 <tr>
-<td>Sengestuer, undersøgelsesrum, behandlingsrum, operationsstuer, konsultationsrum, scannerrum, røntgenrum, fødestuer, skyllerum</td>
-<td>T ≤ 0,6 s</td>
-<td>125-4000Hz</td>
+<td>Sengestuer, undersøgelsesrum, behandlingsrum, operationsstuer, konsultationsrum, scannerrum, røntgenrum, fødestuer, skyllerum </td>
+<td>T ≤ 0,6 s </td>
+<td>125-4000Hz </td>
 </tr>
 <tr>
-<td>Toilet/bad</td>
-<td>T ≤ 0,8 s</td>
-<td>250-4000Hz</td>
+<td>Toilet/bad </td>
+<td>T ≤ 0,8 s </td>
+<td>250-4000Hz </td>
 </tr>
 <tr>
-<td>Kontorer (op til ca. 4 personer) og møderum</td>
-<td>T ≤ 0,6 s</td>
-<td>125-4000Hz</td>
+<td>Kontorer (op til ca. 4 personer) og møderum </td>
+<td>T ≤ 0,6 s </td>
+<td>125-4000Hz </td>
 </tr>
 <tr>
-<td>Fælles opholdsrum, TV-stue mv.</td>
-<td>T ≤ 0,6 s</td>
-<td>250-4000Hz</td>
+<td>Fælles opholdsrum, TV-stue mv. </td>
+<td>T ≤ 0,6 s </td>
+<td>250-4000Hz </td>
 </tr>
 <tr>
-<td>Gange</td>
-<td>T ≤ 0,6 s</td>
-<td>250-4000Hz</td>
+<td>Gange </td>
+<td>T ≤ 0,6 s </td>
+<td>250-4000Hz </td>
 </tr>
 <tr>
-<td>Trapperum</td>
-<td>T ≤ 1,0 s</td>
-<td>250-4000 Hz</td>
+<td>Trapperum </td>
+<td>T ≤ 1,0 s </td>
+<td>250-4000 Hz </td>
 </tr>
 <tr>
-<td>Reception</td>
-<td>T ≤ 0,6 s</td>
-<td>250-4000 Hz</td>
+<td>Reception </td>
+<td>T ≤ 0,6 s </td>
+<td>250-4000 Hz </td>
 </tr>
 <tr>
-<td>Auditorier og større videokonferencerum</td>
-<td>Projektkrav <strong><sup>5)</sup></strong></td>
-<td>Projektkrav <strong><sup>5)</sup></strong></td>
+<td>Auditorier og større videokonferencerum </td>
+<td>Projektkrav <strong><sup>5)</sup></strong> </td>
+<td>Projektkrav <strong><sup>5)</sup></strong> </td>
 </tr>
 <tr>
-<td>Cafeteria/kantine</td>
-<td>Projektkrav <strong><sup>5, 6)</sup></strong></td>
-<td>125-4000 Hz</td>
+<td>Cafeteria/kantine </td>
+<td>Projektkrav <strong><sup>5, 6)</sup></strong> </td>
+<td>125-4000 Hz </td>
 </tr>
 <tr>
-<td>Storkøkkener</td>
-<td>Projektkrav <strong><sup>5)</sup></strong></td>
-<td></td>
+<td>Storkøkkener </td>
+<td>Projektkrav <strong><sup>5)</sup></strong> </td>
+<td> </td>
 </tr>
 <tr>
-<td><strong>Absorptionsareal</strong></td>
-<td><strong>A <sup>2)</sup></strong></td>
-<td><strong>Frekvensområde</strong></td>
+<td><strong>Absorptionsareal</strong> </td>
+<td><strong>A <sup>2)</sup></strong> </td>
+<td><strong>Frekvensområde</strong> </td>
 </tr>
 <tr>
-<td>Storrumskontor <sup>a), b), 3), 4)</sup></td>
-<td>A ≥ 1,1 × gulvareal</td>
-<td>125-4000Hz</td>
+<td>Storrumskontor <sup>a), b), 3), 4)</sup> </td>
+<td>A ≥ 1,1 × gulvareal </td>
+<td>125-4000Hz </td>
 </tr>
 <tr>
-<td>Atrier</td>
-<td>Projektkrav <strong><sup>5)</sup></strong></td>
-<td></td>
+<td>Atrier </td>
+<td>Projektkrav <strong><sup>5)</sup></strong> </td>
+<td> </td>
 </tr>
 <tr>
 <td colspan="3"><p><strong><em>Supplerende vejledning</em></strong></p>
-<p>a) <em>For åbne kontorområder gælder specielle forhold fx omkring lydudbredelse og taleforståelighed, se [3] og [12].*<br />
-b) </em>Der kan ikke påregnes optimale lydforhold for alle sædvanlige kontoraktiviteter, uanset omhyggelig projektering. For at opnå gode lydforhold i storrumskontorer, er det vigtigt, at der ud over at overholde de angivne vejledende krav, udarbejdes interne regler for støjmæssig adfærd i storrumskontorer. Det er også vigtigt, at placeringen af forskellige grupper inddrages i projekteringen.*</p></td>
+<p>a) <em>For åbne kontorområder gælder specielle forhold fx omkring lydudbredelse og taleforståelighed, se [3] og [12].</em><br />
+<br />
+b) <em>Der kan ikke påregnes optimale lydforhold for alle sædvanlige kontoraktiviteter, uanset omhyggelig projektering. For at opnå gode lydforhold i storrumskontorer, er det vigtigt, at der ud over at overholde de angivne vejledende krav, udarbejdes interne regler for støjmæssig adfærd i storrumskontorer. Det er også vigtigt, at placeringen af forskellige grupper inddrages i projekteringen.</em></p></td>
 </tr>
 <tr>
 <td colspan="3"><p>Noter</p>
@@ -400,7 +405,8 @@ b) </em>Der kan ikke påregnes optimale lydforhold for alle sædvanlige kontorak
 <br />
 5) Der opstilles relevante projektkrav, der kan sikre tilfredsstillende lydforhold for rumanvendelsen.<br />
 <br />
-6) Det anbefales til almindelige cafeterier og kantiner at benytte begrebet “akustisk kapacitet” og specificere max efterklangstid som lydklasse C i henhold til [16].</p></td>
+6) Det anbefales til almindelige cafeterier og kantiner at benytte begrebet ”akustisk kapacitet” og specificere max efterklangstid som lydklasse C i henhold til [16].</p></td>
 </tr>
 </tbody>
 </table>
+
