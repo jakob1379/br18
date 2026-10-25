@@ -2,6 +2,7 @@
 site_name = "Bygningsreglementet.dk"
 site_description = "En lokal kopi af https://www.bygningsreglementet.dk/"
 site_author = "Jakob Stender Guldberg"
+copyright = "Social- og Boligstyrelsen . Holmens kanal 22 . 1060 København K . Tlf. 72 42 37 00 . byggeri@sbst.dk"
 extra_css = ["stylesheets/extra.css"]
 nav = [
     { Hjem = "index.md" },
@@ -93,10 +94,15 @@ nav = [
 invalid_links = false
 invalid_link_anchors = false
 
+[project.extra]
+generator = false
+
 [project.theme]
+custom_dir = "overrides"
 language = "da"
+font = false
 favicon = "assets/img/favicons/favicon-32x32.png"
-logo = "assets/img/favicons/favicon-32x32.png"
+logo = "assets/img/logo.svg"
 features = [
     "announce.dismiss",
     "content.code.annotate",
