@@ -94,12 +94,12 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 </tr>
 <tr>
 <td>I beboelsesrum og køkkener<br />
-– fra fælles trapperum og gange, fra altaner eller tilsvarende samt fra toilet- og baderum i andre boliger ^3), 4)^</td>
+– fra fælles trapperum og gange, fra altaner eller tilsvarende samt fra toilet- og baderum i andre boliger <sup>3), 4)</sup></td>
 <td>≤ 58 dB</td>
 </tr>
 <tr>
 <td>I fælles opholdsrum<br />
-– fra beboelsesrum, andre fællesrum, trapperum, gange, altaner eller tilsvarende samt fra toilet- og baderum ^3), 4)^</td>
+– fra beboelsesrum, andre fællesrum, trapperum, gange, altaner eller tilsvarende samt fra toilet- og baderum <sup>3), 4)</sup></td>
 <td>≤ 58 dB</td>
 </tr>
 <tr>
@@ -155,7 +155,7 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 <p><strong>Veje: <em>L</em><sub><em>den</em> </sub>&gt; 68 dB</strong></p></td>
 </tr>
 <tr>
-<td>BR18 ^1), 4)^             <strong>[1], [2]</strong><br />
+<td>BR18 <sup>1), 4)</sup>             <strong>[1], [2]</strong><br />
 </td>
 <td><p><em>L<sub>den</sub></em> ≤ 33 dB</p>
 <p>med lukkede vinduer</p></td>
@@ -235,7 +235,7 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 </tr>
 <tr>
 <td><p>Indendørs                           <strong>[2]</strong></p>
-<p>I beboelsesrum, fælles opholdsrum og køkkener ^1), a)^</p></td>
+<p>I beboelsesrum, fælles opholdsrum og køkkener <sup>1), a)</sup></p></td>
 <td>Bygningens tekniske installationer <sup>5)</sup></td>
 <td>≤ 30 dB</td>
 <td></td>
@@ -243,7 +243,7 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 </tr>
 <tr>
 <td rowspan="2"><p>Indendørs                    <strong>[1], [5]</strong></p>
-<p>I beboelsesrum og fælles opholdsrum ^2), a)^</p></td>
+<p>I beboelsesrum og fælles opholdsrum <sup>2), a)</sup></p></td>
 <td rowspan="2">Tekniske installationer i erhvervsenheder i samme bygning</td>
 <td>≤ 30 dB</td>
 <td></td>

@@ -82,12 +82,12 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 </tr>
 <tr>
 <td>I beboelsesrum og køkkener<br />
-– fra fælles trapperum og gange, fra altaner eller tilsvarende samt fra toilet- og baderum i andre boliger ^3), 4)^</td>
+– fra fælles trapperum og gange, fra altaner eller tilsvarende samt fra toilet- og baderum i andre boliger <sup>3), 4)</sup></td>
 <td>≤ 58 dB</td>
 </tr>
 <tr>
 <td>I fælles opholdsrum<br />
-– fra beboelsesrum, andre fællesrum, trapperum, gange, altaner eller tilsvarende samt fra toilet- og baderum ^3), 4)^</td>
+– fra beboelsesrum, andre fællesrum, trapperum, gange, altaner eller tilsvarende samt fra toilet- og baderum <sup>3), 4)</sup></td>
 <td>≤ 58 dB</td>
 </tr>
 <tr>

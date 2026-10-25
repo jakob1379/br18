@@ -316,7 +316,7 @@ Tabel 6.4 indeholder forslag til projekteringsværdier for efterklangstid og abs
 </tr>
 <tr>
 <td><strong>Efterklangstid</strong></td>
-<td><strong>T ^1), 3)^</strong></td>
+<td><strong>T <sup>1), 3)</sup></strong></td>
 <td><strong>Frekvensområde</strong></td>
 </tr>
 <tr>
@@ -361,7 +361,7 @@ Tabel 6.4 indeholder forslag til projekteringsværdier for efterklangstid og abs
 </tr>
 <tr>
 <td>Cafeteria/kantine</td>
-<td>Projektkrav <strong>^5, 6)^</strong></td>
+<td>Projektkrav <strong><sup>5, 6)</sup></strong></td>
 <td>125-4000 Hz</td>
 </tr>
 <tr>
@@ -375,7 +375,7 @@ Tabel 6.4 indeholder forslag til projekteringsværdier for efterklangstid og abs
 <td><strong>Frekvensområde</strong></td>
 </tr>
 <tr>
-<td>Storrumskontor ^a), b), 3), 4)^</td>
+<td>Storrumskontor <sup>a), b), 3), 4)</sup></td>
 <td>A ≥ 1,1 × gulvareal</td>
 <td>125-4000Hz</td>
 </tr>

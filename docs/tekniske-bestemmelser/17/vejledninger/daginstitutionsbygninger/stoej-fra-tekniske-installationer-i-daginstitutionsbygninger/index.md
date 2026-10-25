@@ -55,7 +55,7 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 <td><strong><em>L<sub>Aeq</sub></em></strong></td>
 </tr>
 <tr>
-<td>I opholdsrum ^1), a)^<em>    </em><strong>[4]</strong></td>
+<td>I opholdsrum <sup>1), a)</sup><em>    </em><strong>[4]</strong></td>
 <td>Bygningens tekniske installationer</td>
 <td>≤ 30 dB</td>
 </tr>
@@ -66,7 +66,7 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 <p><em>Tilsvarende grænseværdi for G-vægtet infralydniveau, L<sub>pG</sub> ≤ 85 dB.</em></p></td>
 </tr>
 <tr>
-<td colspan="3"><p>**Noter**</p>
+<td colspan="3"><p><strong>Noter</strong></p>
 <p>1)   Grænseværdien gælder i møblerede rum.</p>
 <p>2)   Grænseværdien gælder for den enkelte installation.</p></td>
 </tr>

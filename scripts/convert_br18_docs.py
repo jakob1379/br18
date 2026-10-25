@@ -406,8 +406,8 @@ def normalize_markdown_linebreak_artifacts(markdown: str) -> str:
     # Split numbered and lettered legal list items that were flattened into one
     # paragraph. Require whitespace before the marker to avoid touching words,
     # section references, or URLs.
-    text = re.sub(r"(?<!^)\s+(?=\d{1,2}\)\s*\S)", "\n\n", text)
-    text = re.sub(r"(?<!^)\s+(?=[a-zæøå]\)\s*\S)", "\n\n", text)
+    text = re.sub(r"(?<!^)(?<!\\)\s+(?=\d{1,2}\)\s*\S)", "\n\n", text)
+    text = re.sub(r"(?<!^)(?<!\\)\s+(?=[a-zæøå]\)\s*\S)", "\n\n", text)
 
     text = re.sub(r"\n{3,}", "\n\n", text)
     return text + ("\n" if markdown.endswith("\n") else "")

@@ -178,12 +178,12 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 </tr>
 <tr>
 <td>I beboelsesrum og køkkener<br />
-– fra fælles trapperum og gange, fra altaner eller tilsvarende samt fra toilet- og baderum i andre boliger ^3), 4)^</td>
+– fra fælles trapperum og gange, fra altaner eller tilsvarende samt fra toilet- og baderum i andre boliger <sup>3), 4)</sup></td>
 <td>≤ 58 dB</td>
 </tr>
 <tr>
 <td>I fælles opholdsrum<br />
-– fra beboelsesrum, andre fællesrum, trapperum, gange, altaner eller tilsvarende samt fra toilet- og baderum ^3), 4)^</td>
+– fra beboelsesrum, andre fællesrum, trapperum, gange, altaner eller tilsvarende samt fra toilet- og baderum <sup>3), 4)</sup></td>
 <td>≤ 58 dB</td>
 </tr>
 <tr>
@@ -336,7 +336,7 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 </tr>
 <tr>
 <td><p>Indendørs                           <strong>[2]</strong></p>
-<p>I beboelsesrum, fælles opholdsrum og køkkener ^1), a)^</p></td>
+<p>I beboelsesrum, fælles opholdsrum og køkkener <sup>1), a)</sup></p></td>
 <td>Bygningens tekniske installationer <sup>5)</sup></td>
 <td>≤ 30 dB</td>
 <td></td>
@@ -344,7 +344,7 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 </tr>
 <tr>
 <td rowspan="2"><p>Indendørs                    <strong>[1], [5]</strong></p>
-<p>I beboelsesrum og fælles opholdsrum ^2), a)^</p></td>
+<p>I beboelsesrum og fælles opholdsrum <sup>2), a)</sup></p></td>
 <td rowspan="2">Tekniske installationer i erhvervsenheder i samme bygning</td>
 <td>≤ 30 dB</td>
 <td></td>
@@ -450,7 +450,7 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 <p><strong>Veje: <em>L</em><sub><em>den</em> </sub>&gt; 68 dB</strong></p></td>
 </tr>
 <tr>
-<td>BR18 ^1), 4)^             <strong>[1], [2]</strong><br />
+<td>BR18 <sup>1), 4)</sup>             <strong>[1], [2]</strong><br />
 </td>
 <td><p><em>L<sub>den</sub></em> ≤ 33 dB</p>
 <p>med lukkede vinduer</p></td>
@@ -704,7 +704,7 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 </tr>
 <tr>
 <td><strong>Efterklangstid     [4]</strong></td>
-<td><strong>T ^1), 3), a)^</strong></td>
+<td><strong>T <sup>1), 3), a)</sup></strong></td>
 <td><strong>Frekvensområde</strong></td>
 </tr>
 <tr>
@@ -771,7 +771,7 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 </tr>
 <tr>
 <td><strong>Absorptionsareal     [4]</strong></td>
-<td><strong>A ^2), 3), a)^</strong></td>
+<td><strong>A <sup>2), 3), a)</sup></strong></td>
 <td><strong>Frekvensområde</strong></td>
 </tr>
 <tr>
@@ -793,7 +793,7 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 <p><em>c)   For åbne undervisningsområder gælder specielle forhold, se [4].</em></p></td>
 </tr>
 <tr>
-<td colspan="3"><p>**Noter**</p>
+<td colspan="3"><p><strong>Noter</strong></p>
 <p>1)   Maksimumsværdien for efterklangstiden gælder for hvert 1/1-oktavbånd i frekvensområdet. Ved 125 Hz kan den angivne maksimumsværdi dog tillægges 20 %.<br />
 <br />
 </p>
@@ -852,7 +852,7 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde By
 <td><strong><em>L<sub>Aeq</sub></em></strong></td>
 </tr>
 <tr>
-<td>I undervisningsrum ^1), a)^     <strong>[4]</strong></td>
+<td>I undervisningsrum <sup>1), a)</sup>     <strong>[4]</strong></td>
 <td>Bygningens tekniske installationer</td>
 <td>≤ 30 dB<br />
 </td>
@@ -864,7 +864,7 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde By
 <p><em>Tilsvarende grænseværdi for G-vægtet infralydniveau, L<sub>pG</sub> ≤ 85 dB</em></p></td>
 </tr>
 <tr>
-<td colspan="3"><p>**Noter**</p>
+<td colspan="3"><p><strong>Noter</strong></p>
 <p>1)   Grænseværdien gælder i møblerede rum.<br />
 <br />
 </p>
@@ -1218,7 +1218,7 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 </tr>
 <tr>
 <td><strong>Efterklangstid</strong>           <strong>[4]</strong></td>
-<td><strong>T ^1), 3), a)^</strong></td>
+<td><strong>T <sup>1), 3), a)</sup></strong></td>
 <td><strong>Frekvensområde</strong></td>
 </tr>
 <tr>
@@ -1228,7 +1228,7 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 </tr>
 <tr>
 <td><strong>Absorptionsareal     [4]</strong></td>
-<td><strong>A ^2), 3), a)^</strong></td>
+<td><strong>A <sup>2), 3), a)</sup></strong></td>
 <td></td>
 </tr>
 <tr>
@@ -1297,7 +1297,7 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 <td><strong><em>L<sub>Aeq</sub></em></strong></td>
 </tr>
 <tr>
-<td>I opholdsrum ^1), a)^<em>    </em><strong>[4]</strong></td>
+<td>I opholdsrum <sup>1), a)</sup><em>    </em><strong>[4]</strong></td>
 <td>Bygningens tekniske installationer</td>
 <td>≤ 30 dB</td>
 </tr>
@@ -1308,7 +1308,7 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 <p><em>Tilsvarende grænseværdi for G-vægtet infralydniveau, L<sub>pG</sub> ≤ 85 dB.</em></p></td>
 </tr>
 <tr>
-<td colspan="3"><p>**Noter**</p>
+<td colspan="3"><p><strong>Noter</strong></p>
 <p>1)   Grænseværdien gælder i møblerede rum.<br />
 <br />
 </p>
@@ -1621,7 +1621,7 @@ Tabel 5.4 indeholder forslag til projekteringsværdier for efterklangstid og abs
 </tr>
 <tr>
 <td><strong>Efterklangstid</strong></td>
-<td><strong>T ^1), 3)^</strong></td>
+<td><strong>T <sup>1), 3)</sup></strong></td>
 <td><strong>Frekvensområde</strong></td>
 </tr>
 <tr>
@@ -1651,7 +1651,7 @@ Tabel 5.4 indeholder forslag til projekteringsværdier for efterklangstid og abs
 </tr>
 <tr>
 <td>Cafeteria/kantine</td>
-<td>Projektkrav ^5), 7)^</td>
+<td>Projektkrav <sup>5), 7)</sup></td>
 <td>125-4000 Hz</td>
 </tr>
 <tr>
@@ -1665,7 +1665,7 @@ Tabel 5.4 indeholder forslag til projekteringsværdier for efterklangstid og abs
 <td><strong>Frekvensområde</strong></td>
 </tr>
 <tr>
-<td>Storrumskontor ^a), b), 3), 4)^</td>
+<td>Storrumskontor <sup>a), b), 3), 4)</sup></td>
 <td>A ≥ 1,1 × gulvareal</td>
 <td>125-4000Hz</td>
 </tr>
@@ -2053,7 +2053,7 @@ Tabel 6.4 indeholder forslag til projekteringsværdier for efterklangstid og abs
 </tr>
 <tr>
 <td><strong>Efterklangstid</strong></td>
-<td><strong>T ^1), 3)^</strong></td>
+<td><strong>T <sup>1), 3)</sup></strong></td>
 <td><strong>Frekvensområde</strong></td>
 </tr>
 <tr>
@@ -2098,7 +2098,7 @@ Tabel 6.4 indeholder forslag til projekteringsværdier for efterklangstid og abs
 </tr>
 <tr>
 <td>Cafeteria/kantine</td>
-<td>Projektkrav <strong>^5), 6)^</strong></td>
+<td>Projektkrav <strong><sup>5), 6)</sup></strong></td>
 <td>125-4000 Hz</td>
 </tr>
 <tr>
@@ -2112,7 +2112,7 @@ Tabel 6.4 indeholder forslag til projekteringsværdier for efterklangstid og abs
 <td><strong>Frekvensområde</strong></td>
 </tr>
 <tr>
-<td>Storrumskontor ^a), b), 3), 4)^</td>
+<td>Storrumskontor <sup>a), b), 3), 4)</sup></td>
 <td>A ≥ 1,1 × gulvareal</td>
 <td>125-4000Hz</td>
 </tr>

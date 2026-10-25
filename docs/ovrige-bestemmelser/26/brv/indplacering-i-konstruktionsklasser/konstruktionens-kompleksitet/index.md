@@ -167,7 +167,7 @@ Eksemplerne i Tabel 2 nedenfor gælder for konstruktioner i middel konsekvenskla
 <tbody>
 <tr>
 <td><strong>ID</strong></td>
-<td>**Betegnelse**</td>
+<td><strong>Betegnelse</strong></td>
 <td><strong>Beskrivelse</strong></td>
 <td><strong>Erfaring med konstruktionstype</strong></td>
 <td><strong>Konstruktionens kompleksitet</strong></td>
