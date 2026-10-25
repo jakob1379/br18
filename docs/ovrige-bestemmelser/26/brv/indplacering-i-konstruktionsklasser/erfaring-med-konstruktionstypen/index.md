@@ -2,13 +2,13 @@
 
 ## Se alle vejledninger om Konstruktionsklasser (§ 485 - § 489)
 
-- [Spørgsmål og svar](../../spoergsmaal-og-svar)
-- [Vejledning om indplacering i konstruktionsklasser](./)
-- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../../temasiden-brandogkonstruktioner-dk)
+- [Spørgsmål og svar](../../spoergsmaal-og-svar/)
+- [Vejledning om indplacering i konstruktionsklasser](../)
+- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../../temasiden-brandogkonstruktioner-dk/)
 
 ## Vejledning om indplacering i konstruktionsklasser
 
-### Forord
+### Forord {#35e70e33-75c9-456f-aa85-162fac4257b3}
 
 ### 1.0.0. Generelt {#9dba3612-6875-42ed-8bd8-0962a7e85a86}
 
@@ -37,4 +37,3 @@ Hvor der er tvivl om erfaringer med konstruktionstypen i en eller flere af bygge
 ### 3.0.1. Byggeri der ikke skal indplaceres i en konstruktionsklasse {#dae86834-bcdb-4729-a3b8-97d5bbc295e7}
 
 ### 3.0.2 Byggeri der ikke kan indplaceres i en konstruktionsklasse {#b4456f94-63d8-405d-8ae5-af6199b1f280}
-

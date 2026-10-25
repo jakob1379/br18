@@ -8,4 +8,3 @@
 - [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../temasiden-brandogkonstruktioner-dk/)
 
 ##
-

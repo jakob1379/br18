@@ -31,7 +31,7 @@ Konstruktionens kompleksitet skal fastlægges som en af følgende:
 
 2) En kompleks ombygning eller forandring: øvrige ombygninger og forandringer, som ikke er omfattet af pkt. 1.
 
-*Stk. 4.* Hvor der er tvivl om ombygningens eller forandringens kompleksitet, anses denne for kompleks.
+*Stk. 4.* Hvor der er tvivl om ombygningens eller forandringens kompleksitet, anses denne for kompleks.
 
 ### § 488 {#paragraf-488}
 
@@ -72,7 +72,7 @@ Konstruktioner eller konstruktionsafsnit skal indplaceres i en af følgende kons
 
 4.  Konstruktionsklasse 4 (KK4), som omfatter konstruktioner og konstruktionsafsnit, der henregnes til høj konsekvensklasse, hvor konsekvenserne af et svigt er særligt alvorlige (CC3+).
 
-*Stk.* *2. *Byggearbejder, der ændrer virkemåde i en eksisterende konstruktion eller konstruktionsafsnit, skal indplaceres i samme konstruktionsklasse, som konstruktionen eller konstruktionsafsnittet er indplaceret i, dog med følgende undtagelser:
+   *Stk.* *2.* Byggearbejder, der ændrer virkemåde i en eksisterende konstruktion eller konstruktionsafsnit, skal indplaceres i samme konstruktionsklasse, som konstruktionen eller konstruktionsafsnittet er indplaceret i, dog med følgende undtagelser:
 
   1. Simple og traditionelle ombygninger og forandringer i eksisterende simple og traditionelle konstruktioner eller konstruktionsafsnit, der henregnes til middel konsekvensklasse (CC2) kan indplaceres i konstruktionsklasse 1 (KK1), såfremt der udføres kontrol af dokumentation i henhold til kapitel 30 svarende til konstruktionsklasse 2 (KK2).
 
@@ -88,7 +88,7 @@ Konstruktioner eller konstruktionsafsnit skal indplaceres i en af følgende kons
 
 3) Ombygninger og andre forandringer af enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse. Ombygningen eller forandringen må ikke medføre en væsentlig anvendelsesændring eller en udvidelse af etagearealet.
 
-*Stk. 4.* Midlertidige udendørs camping- og salgsområder er undtaget fra indplacering i konstruktionsklasser efter stk. l.
+*Stk. 4.* Midlertidige udendørs camping- og salgsområder er undtaget fra indplacering i konstruktionsklasser efter stk. l.
 
 *Stk. 5.* Mindre legepladsredskaber og -underlag, multisportsudstyr, motionsredskaber i det fri, skateboardbaner og lignede er undtaget fra indplacering i en konstruktionsklasse, hvis udformningen udføres i henhold til §§ 359-363, og når udformningen eller anvendelsen ikke medfører en risiko for personskade ved et svigt. Andre mindre legepladsredskaber er tillige undtaget fra indplacering i konstruktionsklasse, hvis udformningen eller anvendelsen ikke medfører en risiko for personskade ved et svigt.
 
@@ -98,4 +98,3 @@ Konstruktioner eller konstruktionsafsnit skal indplaceres i en af følgende kons
 2.  Dokumentationen skal udfærdiges efter principperne i kapitel 28 og 30.
 
 *Stk. 7.* Dokumentationen for overholdelse af stk. 6 skal indsendes i forbindelse med ansøgning om byggetilladelse.
-

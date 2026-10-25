@@ -2,10 +2,10 @@
 
 ## Se alle vejledninger om Brandklasser (§ 490 - § 493)
 
-- [](../faq)
+- [](../faq/)
 - [Spørgsmål og svar](./)
-- [Vejledning om indplacering i brandklasser](../indplacering-i-brandklasser)
-- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../temasiden-brandogkonstruktioner-dk)
+- [Vejledning om indplacering i brandklasser](../indplacering-i-brandklasser/)
+- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../temasiden-brandogkonstruktioner-dk/)
 
 ## Spørgsmål og svar
 
@@ -26,4 +26,3 @@ Følgende er eksempler på byggerier og konstruktioner, der kan undtages for ind
 - Tekniske anlæg, hvor der ikke er personophold, f.eks. halmfyringsanlæg uden teknikrum
 - Simple konstruktioner, f.eks. en pergola, hvor der ikke er overdækning
 - Hegnsmure og andre lignende konstruktioner.
-

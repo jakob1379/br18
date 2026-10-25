@@ -4,7 +4,7 @@
 
 ### § 506 {#paragraf-506}
 
-Dokumentationen af et byggeris brandsikkerhed skal påvise, at brandforholdene er i overensstemmelse med definerede krav til sikkerhed og anvendelighed, jf. [kapitel 5](../../28/krav/494_505), samt at design, projektering og udførelse er fyldestgørende og i overensstemmelse med definerede krav.
+Dokumentationen af et byggeris brandsikkerhed skal påvise, at brandforholdene er i overensstemmelse med definerede krav til sikkerhed og anvendelighed, jf. [kapitel 5](../../28/krav/494_505/), samt at design, projektering og udførelse er fyldestgørende og i overensstemmelse med definerede krav.
 
 *Stk. 2.* For byggeri, som er indplaceret i brandklasse 2-4, skal ansøgeren sikre, at dokumentation af brandforhold er samlet og koordineret, så dokumentationen udgør et hele.
 
@@ -192,7 +192,9 @@ Funktionsbeskrivelsen skal beskrive, hvilke brandsikringstiltag, der er nødvend
 
 ### § 518 {#paragraf-518}
 
-Den brandtekniske kontrolplan for design af brandforhold skal beskrive de krav, der er til kontrol, jf. kapitel 30. I kontrolplanen skal niveauet for kontrol af dokumentation for design af brandforhold svare til den brandklasse, som byggearbejdet er indplaceret i.
+Den brandtekniske kontrolplan for design af brandforhold skal beskrive de krav, der er til kontrol, jf.
+
+kapitel 30. I kontrolplanen skal niveauet for kontrol af dokumentation for design af brandforhold svare til den brandklasse, som byggearbejdet er indplaceret i.
 
 *Stk. 2.* Den brandtekniske kontrolplan for projektering og udførelse af brandsikringstiltag skal beskrive de krav, der er til særlig kontrol og almen kontrol, jf. kapitel 30. I kontrolplanen skal niveauet for særlig kontrol og almen kontrol af projektering og udførelse af brandsikringstiltag svare til henholdsvis den brandklasse og risikoklasse, som det enkelte bygningsafsnit er indplaceret i.
 

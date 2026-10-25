@@ -10,7 +10,15 @@ Den certificerede statiker kan virke som udarbejdende eller kontrollerende.
 
 ### § 537 {#paragraf-537}
 
-(Ophævet) § 538 (Ophævet) § 539 (Ophævet)
+(Ophævet)
+
+### § 538 {#paragraf-538}
+
+(Ophævet)
+
+### § 539 {#paragraf-539}
+
+(Ophævet)
 
 ### § 540 {#paragraf-540}
 
@@ -75,4 +83,3 @@ Ved overdragelse af et projekt, hvortil der er meddelt byggetilladelse, fra en c
 *Stk. 2.* Den certificerede statiker, der overtager et projekt, vurderer på baggrund af erklæringen, jf. stk. 1, i hvilket omfang, det er nødvendigt at foretage en kontrol af den overdragede statiske dokumentation forud for videreførelse af projekteringen og/eller udførelsen. Der redegøres for denne vurdering i B1. Statisk Projektredegørelse. Beskrivelsen skal resumeres i sluterklæringen.
 
 *Stk. 3.* Hvis det ikke er muligt at udarbejde en erklæring i forbindelse med overdragelse af projektet, skal den certificerede statiker, der overtager projektet, foretage en maksimal (MAX) kontrol af den statiske dokumentation, der overdrages, svarende til virket for certificeret statiker som kontrollant.
-

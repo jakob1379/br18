@@ -2,13 +2,13 @@
 
 ## Se alle vejledninger om Konstruktionsklasser (§ 485 - § 489)
 
-- [Spørgsmål og svar](../spoergsmaal-og-svar)
+- [Spørgsmål og svar](../spoergsmaal-og-svar/)
 - [Vejledning om indplacering i konstruktionsklasser](./)
-- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../temasiden-brandogkonstruktioner-dk)
+- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../temasiden-brandogkonstruktioner-dk/)
 
 ## Vejledning om indplacering i konstruktionsklasser
 
-### Forord
+### Forord {#35e70e33-75c9-456f-aa85-162fac4257b3}
 
 Ved ansøgning om byggetilladelse, skal der, som det nævnes i Bygningsreglementet 2018 (BR18), kapitel 1, § 10 indsendes oplysning om og dokumentation for indplacering i konstruktionsklasse, såfremt det er relevant at indplacere byggeriet i en konstruktionsklasse. Dette er relevant når der er konstruktionsmæssige forhold, der har betydning for sikkerheden i byggeriet. Det afhænger dog altid af en konkret vurdering fra sag til sag. Denne vejledning beskriver, hvorledes bærende konstruktioner og konstruktionsafsnit indplaceres i konstruktionsklasser.
 
@@ -23,9 +23,9 @@ Ifølge BR18, § 485, stk. 1, skal en bærende konstruktion i et byggeri indplac
 
 Konstruktionsklassen kan betragtes som et udtryk for konsekvenser ved et eventuelt svigt i konstruktionen.
 
-Oplysning om og dokumentation for indplacering i konstruktionsklasse skal fremgå ved ansøgning om byggetilladelse, hvis det er relevant for byggearbejdet, jf. BR18, § 10, stk. 1, nr. 5. For mere om ansøgning om byggetilladelse henvises der til [bygningsreglementets vejledning om byggesagsbehandling efter BR18.](../../../../administrative-bestemmelser/brv/vejledning-om-byggesagsbehandling-efter-br18/4_0_anvendelse-af-certificeret-statiker-og-brandraadgiver "4_0_Anvendelse af certificeret statiker og brandraadgiver")
+Oplysning om og dokumentation for indplacering i konstruktionsklasse skal fremgå ved ansøgning om byggetilladelse, hvis det er relevant for byggearbejdet, jf. BR18, § 10, stk. 1, nr. 5. For mere om ansøgning om byggetilladelse henvises der til [bygningsreglementets vejledning om byggesagsbehandling efter BR18.](../../../../administrative-bestemmelser/brv/vejledning-om-byggesagsbehandling-efter-br18/4_0_anvendelse-af-certificeret-statiker-og-brandraadgiver/ "4_0_Anvendelse af certificeret statiker og brandraadgiver")
 
-Kommunalbestyrelsen træffer afgørelse om indplacering i konstruktionsklasse på baggrund af den fremsendte dokumentation. Dokumentationen for indplacering i konstruktionsklasse skal følge BR18, §§ 503 – 504. De relevante dele, der skal fremsendes sammen med ansøgningen om byggetilladelse beskrives yderligere i *[Vejledningen til BR18 kapitel 28 – Dokumentation af bærende konstruktioner §494, §498, §499 og §503,](../../../../ovrige-bestemmelser/28/brv/vejledning-til-kapitel-28-dokumentation-af-baerende-konstruktioner)* [ ](../../../../ovrige-bestemmelser/28/brv/vejledning-til-kapitel-28-dokumentation-af-baerende-konstruktioner)samt i [*SBi-anvisning 271 Dokumentation og kontrol af bærende konstruktioner*.](../../../../historisk/br18_version4/ovrige-bestemmelser/28/brv/sbi_anvisning/sbi_anvisninger#a0cc8c0d-39f3-4fbb-b0e6-2a53c9fa80b4 "SBI-anvisning 271 - Dokumentation og kontrol af bærende konstruktione"){rel="noopener" target="_blank"}
+Kommunalbestyrelsen træffer afgørelse om indplacering i konstruktionsklasse på baggrund af den fremsendte dokumentation. Dokumentationen for indplacering i konstruktionsklasse skal følge BR18, §§ 503 – 504. De relevante dele, der skal fremsendes sammen med ansøgningen om byggetilladelse beskrives yderligere i *[Vejledningen til BR18 kapitel 28 – Dokumentation af bærende konstruktioner §494, §498, §499 og §503,](../../../28/brv/vejledning-til-kapitel-28-dokumentation-af-baerende-konstruktioner/)*  [](../../../28/brv/vejledning-til-kapitel-28-dokumentation-af-baerende-konstruktioner/)samt i [*SBi-anvisning 271 Dokumentation og kontrol af bærende konstruktioner*.](https://www.bygningsreglementet.dk/historisk/br18_version4/ovrige-bestemmelser/28/brv/sbi_anvisning/sbi_anvisninger/#a0cc8c0d-39f3-4fbb-b0e6-2a53c9fa80b4 "SBI-anvisning 271 - Dokumentation og kontrol af bærende konstruktione"){rel="noopener" target="_blank"}
 
 ### 1.0.1. Konstruktionsafsnit {#6abd7fb9-7a6b-4f94-a203-d5dc0e566a25}
 
@@ -37,9 +37,9 @@ Grundlag for konstruktionsafsnit og inddelingen af byggeriet i konstruktionsafsn
 
 Eksempel på tilknytning af certificerede statiker og opdeling af konstruktionsafsnit:
 
-- *Den bærende hovedkonstruktion i et byggeri indplaceres i konstruktionsklasse 3.*
+- *Den bærende hovedkonstruktion i et byggeri* *indplaceres i konstruktionsklasse 3.*
 - *Trapper er af en traditionel og simpel konstruktion, der ikke bærer andet end sig selv, og trapperne kan henregnes til konsekvensklasse 2, hvorfor trapperne kan indplaceres i konstruktionsklasse 2.*
-- *Til projektet er tilknyttet en statiker, der er certificeret til mindst at virke i konstruktionsklasse 3, medens kontrolomfang og dokumentationskrav udføres i henhold til de for konstruktionsafsnittene fastlagte konstruktionsklasser.*
+- *Til projektet er tilknyttet en statiker, der er certificeret til mindst at virke i konstruktionsklasse 3, medens kontrolomfang og dokumentationskrav udføres i henhold til de for konstruktionsafsnittene* *fastlagte konstruktionsklasser.*
 
 Nærmere beskrivelse af indplacering af byggeri, konstruktioner og konstruktionsafsnit i konstruktionsklasser fremgår af *SBi-anvisning 271 Dokumentation og kontrol af bærende konstruktioner*.
 
@@ -71,7 +71,7 @@ Konsekvensklasse, kompleksitet og erfaring beskrives nedenfor.
 
 ### 2.0.1. Konsekvensklasser {#4ffebca8-f509-4e30-8ded-dee858bbaf92}
 
-Overordnet henføres konstruktioner eller konstruktionsafsnit til konsekvensklasserne CC1, CC2, CC3 eller CC3+ som beskrevet i *DS/EN 1990 Eurocode 0: Projektgrundlag for bærende konstruktioner* samt tilhørende nationale anneks *DS/EN 1990 DK NA* anneks B, idet CC3+ dækker konstruktioner i høj konsekvensklasse, hvor "konsekvenser af svigt er særlig alvorlige". Dette er nærmere beskrevet i *DS/INF 1990 "Konsekvensklasser for bygningskonstruktioner"*.
+Overordnet henføres konstruktioner eller konstruktionsafsnit til konsekvensklasserne CC1, CC2, CC3 eller CC3+ som beskrevet i *DS/EN 1990 Eurocode 0: Projektgrundlag for bærende konstruktioner* samt tilhørende nationale anneks *DS/EN 1990 DK NA* anneks B, idet CC3+ dækker konstruktioner i høj konsekvensklasse, hvor ”konsekvenser af svigt er særlig alvorlige”. Dette er nærmere beskrevet i *DS/INF 1990 ”Konsekvensklasser for bygningskonstruktioner”*.
 
 Byggerier opdeles i henhold til DS/EN 1990 i konsekvensklasser alt efter omfanget af konsekvenser ved svigt i konstruktionen, herunder
 
@@ -104,19 +104,20 @@ Hvor der er tvivl om erfaringer med konstruktionstypen i en eller flere af bygge
 
 Overordnet kan inddelingen i konstruktionsklasse 1-4 (KK14) ifølge BR18, § 489 ske som angivet i nedenstående tabel 1.
 
-<table style="width:98%;">
+<table>
 <colgroup>
-<col style="width: 39%" />
-<col style="width: 14%" />
-<col style="width: 14%" />
-<col style="width: 14%" />
-<col style="width: 14%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="2"><p></p>
-<p><strong> </strong></p></td>
-<td colspan="4"><strong> Konsekvensklasse (CC)</strong></td>
+<td rowspan="2"> 
+<br />
+&#10;<p> </p></td>
+<td colspan="4"> <strong>Konsekvensklasse (CC)</strong></td>
 </tr>
 <tr>
 <td><p><strong>Lav</strong></p>
@@ -129,17 +130,17 @@ Overordnet kan inddelingen i konstruktionsklasse 1-4 (KK14) ifølge BR18, § 489
 <p><strong>(CC3+)</strong></p></td>
 </tr>
 <tr>
-<td><strong>Simpel <em>og</em> traditionel konstruktion</strong></td>
-<td>KK1</td>
-<td>KK2*</td>
-<td>KK3</td>
-<td>KK4</td>
+<td><p><strong>Simpel <em>og</em> traditionel konstruktion</strong></p></td>
+<td><p>KK1</p></td>
+<td><p>KK2*</p></td>
+<td><p>KK3</p></td>
+<td><p>KK4</p></td>
 </tr>
 <tr>
 <td><strong>Kompleks <em>eller</em> utraditionel konstruktion</strong></td>
-<td>KK1</td>
+<td>KK1 </td>
 <td>KK3*</td>
-<td>KK3</td>
+<td>KK3 </td>
 <td>KK4</td>
 </tr>
 </tbody>
@@ -155,19 +156,20 @@ Note \*: *Dog KK1 for:*
 
 Eksemplerne i Tabel 2 nedenfor gælder for konstruktioner i middel konsekvensklasse, CC2, jf. Eurocode 0 (Dansk Standard 2007a) og DS/INF 1990 (Dansk Standard 2018a).
 
-<table style="width:98%;">
+<table style="width:100%;">
 <colgroup>
-<col style="width: 5%" />
-<col style="width: 10%" />
-<col style="width: 34%" />
-<col style="width: 17%" />
 <col style="width: 16%" />
-<col style="width: 12%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
 </colgroup>
 <tbody>
 <tr>
 <td><strong>ID</strong></td>
-<td><strong>Betegnelse</strong></td>
+<td><strong>Betegnelse</strong><br />
+</td>
 <td><strong>Beskrivelse</strong></td>
 <td><strong>Erfaring med konstruktionstype</strong></td>
 <td><strong>Konstruktionens kompleksitet</strong></td>
@@ -189,7 +191,7 @@ Eksemplerne i Tabel 2 nedenfor gælder for konstruktioner i middel konsekvenskla
 <p>Højde 10 m</p></td>
 <td>Traditionel</td>
 <td>Simpel</td>
-<td>KK1</td>
+<td><p>KK1</p></td>
 </tr>
 <tr>
 <td>3<br />
@@ -230,21 +232,21 @@ Eksemplerne i Tabel 2 nedenfor gælder for konstruktioner i middel konsekvenskla
 <td>7</td>
 <td>Skole med idrætshal</td>
 <td><p>Undervisningsbygning i 1 etage, &gt; 150 elever, små spændvidder/højder</p>
-<p>Idrætshal for maks 149 personer, 10 m høj</p></td>
+Idrætshal for maks 149 personer, 10 m høj</td>
 <td><p>Traditionel</p>
 <p>Traditionel</p></td>
 <td><p>Simpel</p>
 <p>Kompleks</p></td>
-<td>KK2<br />
+<td><p>KK2<br />
 <br />
-KK3</td>
+KK3</p></td>
 </tr>
 <tr>
 <td>8</td>
 <td>Industribygning</td>
-<td><p>Vareproduktion,</p>
+<td>Vareproduktion,
 <p>Spændvidde 30 m</p>
-<p>Højde 10m</p></td>
+Højde 10m</td>
 <td>Traditionel</td>
 <td>Simpel</td>
 <td>KK1</td>
@@ -288,7 +290,7 @@ Ifølge BR18, § 489, stk. 2, er følgende byggeri med et areal på højst 50 m
 >
 > •  Teknikhuse til elektroniske kommunikationsnet eller tjenester
 
-Der henvises til *[Vejledning om opførelse af sekundær bebyggelse med et samlet areal på højst 50 m².](../../../../administrative-bestemmelser/brv/sekundaer-bebyggelse "Sekundaer bebyggelse")*
+Der henvises til *[Vejledning om opførelse af sekundær bebyggelse med et samlet areal på højst 50 m².](../../../../administrative-bestemmelser/brv/sekundaer-bebyggelse/ "Sekundaer bebyggelse")*
 
 Ifølge BR18, § 489, stk. 3, er festival-, salgs- og campingområder undtaget fra indplacering. Derudover er mindre legepladsredskaber og -underlag, multisportsudstyr, motionsredskaber i det fri, skateboardbaner og lignede undtaget fra indplacering i en konstruktionsklasse, hvis udformningen udføres i henhold til §§ 359-363, og når udformningen eller anvendelsen ikke medfører en risiko for personskade ved et svigt. Andre mindre legepladsredskaber er tillige undtaget fra indplacering i konstruktionsklasse, hvis udformningen eller anvendelsen ikke medfører en risiko for personskade ved et svigt.
 
@@ -301,4 +303,3 @@ Ifølge BR18, §489, stk. 5. skal konstruktioner eller konstruktionsafsnit, som
 - En anerkendt statiker skal inddrages
 
 Hvorvidt en konstruktion eller et konstruktionsafsnit er omfattet af § 489, stk. 5, beror på om udformningen eller anvendelsen gør, at konstruktionen eller konstruktionsafsnittet ikke kan vurderes ud fra grundlaget for indplacering i konstruktionsklassen, dvs. ud fra indplaceringen i konsekvensklasse (afsnit 1.0.2), konstruktionens kompleksitet (afsnit 1.0.3) eller erfaring med konstruktionen (afsnit 1.0.4).
-

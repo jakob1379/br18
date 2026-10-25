@@ -4,7 +4,7 @@
 
 ### § 523 {#paragraf-523}
 
-Kontrol af dokumentation for bærende konstruktioner og brandforhold skal sikre, at dokumentationen lever op til sit formål, jf. [kapitel 28](../../../28/krav) og [29](../../../29/krav), og kontrol af udførelse skal sikre, at udførelsen sker i overensstemmelse med denne dokumentation.
+Kontrol af dokumentation for bærende konstruktioner og brandforhold skal sikre, at dokumentationen lever op til sit formål, jf. [kapitel 28](../../../28/krav/) og [29](../../../29/krav/), og kontrol af udførelse skal sikre, at udførelsen sker i overensstemmelse med denne dokumentation.
 
 *Stk. 2.* Kontrol af dokumentation, jf. bilag 3, tabel 1, skal gennemføres, og de ved kontrollen fundne afvigelser skal behandles inden dokumentation anvendes som grundlag for det videre arbejde. Dette omfatter ikke tredjepartskontrol. Kontrol af udførelse skal gennemføres, og de ved kontrollen fundne afvigelser skal behandles.
 
@@ -84,5 +84,4 @@ Den uafhængige kontrollant skal have den fornødne kompetence og overblik inden
 
 *Stk. 2.* Tredjepartskontrollen, jf. § 526, skal foretages af en person, der er certificeret til tredjepartskontrol af dokumentation for de bærende konstruktioner eller brandforhold, jf. bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet.
 
-*Stk. 3.* Tredjepartskontrollen, jf. § 526 a, skal foretages af en person, der har den fornødne faglige kompetence og overblik inden for udførelsen af de bærende konstruktioner henholdsvis projektering og udførelsen af brandsikringstiltag.
-
+*Stk. 3.* Tredjepartskontrollen, jf. § 526 a, skal foretages af en person, der har den fornødne faglige kompetence og overblik inden for udførelsen af de bærende konstruktioner henholdsvis projektering og udførelsen af brandsikringstiltag.
