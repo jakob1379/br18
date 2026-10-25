@@ -119,6 +119,15 @@ class ConvertTest(unittest.TestCase):
         self.assertIn("Se [BR18, bilag 2, tabel 7](../bilag/b2/bilag_2/tabel_7/#787e83a6-b7d9-4a83-a4be-37574156daef)", markdown)
         self.assertIn("#### Tabellens opbygning\n", markdown)
 
+    def test_empty_text_links_keep_the_link_and_no_text(self) -> None:
+        markdown = self.convert(
+            '<p><em>English version</em><a href="/media/x/en.pdf" title="DS EN 1991-1-1 English"></a>-</p>'
+            '<ul><li><a href="faq"></a></li><li><a href="/side/">Vejledning</a></li></ul>'
+        )
+
+        self.assertIn('[](../media/x/en.pdf "DS EN 1991-1-1 English")-', markdown)
+        self.assertIn("- [](faq/)", markdown)
+
     def test_page_ends_with_a_single_newline(self) -> None:
         markdown = self.convert("<p>Tekst</p><p><a href='/x'></a></p>")
 

@@ -373,20 +373,6 @@ def output_path_for_html(path: Path) -> Path | None:
     return path.parent / stem / "showall" / "index.md"
 
 
-def fix_empty_english_version_links(markdown: str) -> str:
-    pattern = re.compile(
-        r"(?m)(\*English version[^*]*\*)\[\]\(([^)\s]+)(?: \"([^\"]+)\")?\)-"
-    )
-
-    def replace(match: re.Match[str]) -> str:
-        prefix = match.group(1)
-        url = match.group(2)
-        title = match.group(3) or "English version"
-        return f'{prefix}[{title}]({url} "{title}")'
-
-    return pattern.sub(replace, markdown)
-
-
 def normalize_media_alias_links(markdown: str) -> str:
     return re.sub(r"(/media/[^)\s\"']+)__q_[0-9a-f]+(\.[^)\\s\"']+)", r"\1\2", markdown)
 
@@ -768,7 +754,6 @@ def convert_file(path: Path, docs_root: Path, delete_html: bool) -> bool:
         r"*\1*",
         markdown,
     )
-    markdown = fix_empty_english_version_links(markdown)
     markdown = normalize_media_alias_links(markdown)
     markdown = normalize_duplicate_uuid_fragments(markdown)
     # The prose passes below split "1)" items and rewrite lines, which breaks table rows.
