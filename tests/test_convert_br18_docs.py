@@ -164,6 +164,23 @@ class ConvertTest(unittest.TestCase):
         self.assertIn("### Tabel 1 {#3498d4bb-6317-4085-8a97-18bc8fae2ab3}", markdown)
         self.assertNotIn("[]", markdown)
 
+    def test_faq_question_trigger_keeps_its_answer_and_leaves_the_next_heading_alone(self) -> None:
+        markdown = self.convert(
+            '<section id="aa480314-460a-49e3-a01d-ddd6aaa62881"><div class="accordion__header">'
+            '<a href="/side/qa_2/#aa480314-460a-49e3-a01d-ddd6aaa62881" class="accordion__trigger">'
+            '<div class="accordion__tag">?</div><h3 class="accordion__title">Altaner</h3></a></div>'
+            '<div><div class="accordion__header"><a href="#aa480314-460a-49e3-a01d-ddd6aaa62881" class="accordion__trigger">'
+            '<div class="accordion__tag">?</div><div class="accordion__title">Betragtes en altan som en enhed?</div></a></div>'
+            "<div>Ja, der skal være niveaufri adgang.</div></div></section>"
+            '<section id="334bd38a-2759-4aab-8d4a-a3689e0e2c2c"><div class="accordion__header">'
+            '<a href="/side/qa_3/#334bd38a-2759-4aab-8d4a-a3689e0e2c2c" class="accordion__trigger">'
+            '<div class="accordion__tag">?</div><h3 class="accordion__title">Handicaptoiletter</h3></a></div></section>'
+        )
+
+        self.assertIn("### Altaner {#aa480314-460a-49e3-a01d-ddd6aaa62881}", markdown)
+        self.assertIn("[? Betragtes en altan som en enhed?](#aa480314-460a-49e3-a01d-ddd6aaa62881) Ja, der skal være", markdown)
+        self.assertIn("### Handicaptoiletter {#334bd38a-2759-4aab-8d4a-a3689e0e2c2c}", markdown)
+
     def test_empty_link_to_a_fragment_of_the_page_is_dropped(self) -> None:
         markdown = self.convert('<a href="#Indholdsoversigt" class="accordion__trigger"><svg></svg></a><p>Tekst</p>')
 

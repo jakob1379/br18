@@ -700,7 +700,8 @@ def attach_anchor_reference_ids(markdown: str) -> str:
         for match in reversed(list(UUID_ANCHOR_LINK_RE.finditer(line))):
             anchor_id = match.group("id")
             label = match.group("label").strip().lower()
-            if label.startswith("gå til") or len(label) > 80:
+            # A section trigger ends its line; a FAQ question trigger is followed by its answer.
+            if label.startswith("gå til") or len(label) > 80 or line[match.end() :].strip():
                 continue
 
             heading_index = None
