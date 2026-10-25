@@ -38,7 +38,7 @@ I boliger er der varierende dagslysbehov. Der kan derfor normalt accepteres et l
 
 ### Glasareal og relevant gulvareal
 
-Glasarealet i et rum beregnes som summen af glasarealer i alle rummets vinduer. Glasarealet for hvert vindue beregnes som det frie åbningsareal, dvs. hele vinduets areal minus ramme-, karm- og sprossearealer. Det faktiske glasareal for hvert vindue skal korrigeres for forhold, som begrænser dagslysadgangen til vinduet, samt for lystransmittansen af den valgte rudetype, som beskrevet i Trafik-, Bygge- og Boligstyrelsens *Vejledning om lys og udsyn*. Da ovenlys modtager væsentligt mere dagslys end lodrette vinduer, kan glasarealet for ovenlys indregnes som beskrevet i *Forudsætninger vedr. beregning af belysningsstyrker*.
+Glasarealet i et rum beregnes som summen af glasarealer i alle rummets vinduer. Glasarealet for hvert vindue beregnes som det frie åbningsareal, dvs. hele vinduets areal minus ramme-, karm- og sprossearealer. Det faktiske glasareal for hvert vindue skal korrigeres for forhold, som begrænser dagslysadgangen til vinduet, samt for lystransmittansen af den valgte rudetype, som beskrevet i Trafik-, Bygge- og Boligstyrelsens *Vejledning om lys og udsyn*. Da ovenlys modtager væsentligt mere dagslys end lodrette vinduer, kan glasarealet for ovenlys indregnes som beskrevet i *Forudsætninger vedr. beregning af belysningsstyrker*
 
 For beboelsesrum og køkkener beregnes det relevante gulvareal i almindelighed som arealet af den gulvflade, der omsluttes af rummets vægge.
 

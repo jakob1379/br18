@@ -148,7 +148,7 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 <td colspan="4"><strong>Undervisningsbygninger – Tabel 3.2 Støj indendørs fra trafik</strong></td>
 </tr>
 <tr>
-<td><strong>Lovgivning<sup>4)</sup></strong></td>
+<td><strong>Lovgivning<sup> 4)</sup></strong></td>
 <td><p><strong>Støjbelastning ude</strong></p>
 <p><strong>Veje: <em>L<sub>den</sub></em> ≤ 58 dB</strong></p>
 <p><strong>Jernbaner: <em>L<sub>den</sub></em> ≤ 64 dB</strong></p></td>

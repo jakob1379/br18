@@ -211,7 +211,8 @@ Balkoner, hemse og lignende i dobbelthøje rum skal ikke umiddelbart medregnes i
 
 I de følgende publikationer er det muligt at finde yderligere information om lydbestem­melser i og omkring bygninger til boliger, undervisnings- og daginstitutioner og andre formål.
 
-**Referencer til de publikationer, der henvises til i denne vejledning og i Bygningsreglementets afsnit om akustisk indeklima, er gengivet her:**
+**Referencer til de publikationer, der henvises til i denne vejledning og i Bygnings-<br />
+reglementets afsnit om akustisk indeklima, er gengivet her:**
 
 \[1\]      Bygningsreglement 2018. BR2018.
 
