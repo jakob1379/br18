@@ -28,12 +28,15 @@
             pv
             http-server
             lychee
+            agent-browser
           ];
 
           shellHook = ''
             export CHROMIUM_PATH=${pkgs.chromium}/bin/chromium
             export UV_PYTHON_PREFERENCE="managed"
             export SSL_CERT_FILE=${pkgs.cacert}/etc/ssl/certs/ca-bundle.crt
+            export AGENT_BROWSER_EXECUTABLE_PATH=${pkgs.chromium}/bin/chromium
+            unset LD_LIBRARY_PATH
           '';
         };
       }
