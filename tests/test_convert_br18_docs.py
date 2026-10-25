@@ -62,6 +62,11 @@ class ConvertTest(unittest.TestCase):
 
         self.assertTrue(markdown.endswith("Tekst\n"), repr(markdown[-20:]))
 
+    def test_stk_label_followed_by_its_period_is_not_split(self) -> None:
+        markdown = self.convert("<div><em>&nbsp; &nbsp;Stk. 2</em>. Oppustelige hoppepuder.</div>")
+
+        self.assertIn("*Stk. 2.* Oppustelige hoppepuder.", markdown)
+
     def test_emphasis_closing_after_a_non_breaking_space_closes(self) -> None:
         markdown = self.convert("<p><strong><em>konstruktionsklasse 2-4.&nbsp; </em></strong>Mere</p>")
 

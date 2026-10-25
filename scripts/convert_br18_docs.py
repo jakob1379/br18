@@ -405,7 +405,7 @@ def normalize_markdown_linebreak_artifacts(markdown: str) -> str:
     # Normalize legal subsection labels so Markdown emphasis parses despite
     # non-breaking spaces and inconsistent source punctuation.
     text = re.sub(
-        r"\*\s*\u00a0?(Stk\.\s*\d+[a-z]?)\.?\s*\*\.?(?=\S)",
+        r"\*\s*\u00a0?(Stk\.\s*\d+[a-z]?)\.?\s*\*\.?+(?=\S)",
         r"*\1.* ",
         text,
     )
