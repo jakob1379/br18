@@ -23,7 +23,9 @@ Det er derfor vigtigt, at vælge robuste løsninger, dvs. enten løsninger der f
 
 Typer af fugtpåvirkninger
 
-### Fugt {#15eef60e-136b-4f8a-88ab-46705ab5ca21}
+-  [Gå til krav om Fugt og vådrum](../../krav/334_338#15eef60e-136b-4f8a-88ab-46705ab5ca21){target="_blank"}
+
+### 1.0. Fugt {#518be76c-4c21-4760-9fae-5c60265b1fd6}
 
 1.1.
 
@@ -75,7 +77,9 @@ Af hensyn til grundvandsressourcerne og rensningsanlægs funktion kan overfladev
 
 #### Se bekendtgørelsen her [Spildevandsbekendtgørelsen](https://www.retsinformation.dk/eli/lta/2024/532 "Miljøministeriets bekendtgørelse om Spildevandstilladelser"){target="_blank"}
 
-### Vådrum {#15eef60e-136b-4f8a-88ab-46705ab5ca21}
+-  [Gå til krav om Fugt](../../krav/334_338#15eef60e-136b-4f8a-88ab-46705ab5ca21){target="_blank"}
+
+### 2.0. Vådrum {#19b28c28-7ff7-45b4-aff0-7ca71f849b31}
 
 Vådrum er et af de mest fugtbelastede rum, og derfor skal vådrum udføres med fokus på beskyttelse mod vand- og fugtbelastninger, ligesom der er specifikke krav til ventilation i vådrum i boliger i kapitel 22. Vådrum skal udføres, så der er sikkerhed mod skader fra vand og fugt, og de skader, som vand og fugt kan medføre. De typiske problemer med vandskader i vådrum stammer fra utætheder i rørsamlinger eller omkring installationsgennembrydninger, utilstrækkelige vådrumsmembraner og manglende fald på gulvet mod gulvafløb i de vandbelastede områder af vådrummet.
 
@@ -111,6 +115,6 @@ SBi-anvisning 252 giver vejledning i planlægning, projektering og korrekt udfø
 
 Vådrum hører til de mest kritiske rum i en bygning, både på grund af den direkte vandpåvirkning og den høje relative luftfugtighed, der ofte forekommer i længere perioder. Anvisningen beskriver, hvordan gulve, vægge og installationer kan udføres, så bygningsreglementets krav er overholdt, og så der opnås størst mulig sikkerhed mod skader fra vand og fugt.
 
-#### Se anvisningen her [SBi Anvisning 252](https://sbi.dk/anvisninger/Pages/252-Vaadrum-1.aspx "SBi Anvisning 252"){target="_blank"}
+#### Se anvisningen her [](https://sbi.dk/anvisninger/Pages/252-Vaadrum-1.aspx "SBi Anvisning 252"){target="_blank"}
 
 -  [Gå til krav om Vådrum](../../krav/339#eb0ba6a3-9056-4315-aba8-417e17607290){target="_blank"}
