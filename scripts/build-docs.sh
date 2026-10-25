@@ -6,11 +6,24 @@ site_dir="${SITE_DIR:-site}"
 
 cd "$repo_root"
 
+collisions="$(find docs | LC_ALL=C sort -f | LC_ALL=C uniq -Di)"
+if [[ -n "$collisions" ]]; then
+  echo "case-insensitive path collisions in docs/:" >&2
+  echo "$collisions" >&2
+  exit 1
+fi
+
 uv run zensical build --strict
 
 root_dir="$(cd "$site_dir" && pwd)"
 
+network_flag=(--offline)
+if [[ "${CHECK_EXTERNAL_LINKS:-}" == 1 ]]; then
+  network_flag=()
+fi
+
 lychee \
+  "${network_flag[@]}" \
   --include-fragments \
   --root-dir "$root_dir" \
   --index-files index.html \
