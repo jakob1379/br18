@@ -28,6 +28,7 @@
   --md-primary-fg-color--dark: var(--br18-rust-dark);
   --md-accent-fg-color: var(--br18-accent);
   --md-typeset-a-color: var(--br18-rust);
+  --md-text-font: Arial, "Helvetica Neue", Helvetica;
 }
 
 [data-md-color-scheme="default"] {
@@ -122,8 +123,11 @@ body {
   background-color: rgba(33, 31, 27, .96);
 }
 
-.md-typeset h1 {
-  color: var(--br18-rust-dark);
+.md-typeset h1,
+.md-header__title {
+  font-family: Spectral, serif;
+  font-weight: 400;
+  color: var(--md-default-fg-color);
 }
 
 /* BR pages distinguish topical sections from legal paragraphs.  Keep h2

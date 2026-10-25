@@ -6,39 +6,161 @@
 
 *Tabel 2a. Mindstekrav til niveau af uafhængig kontrol af dokumentation for de bærende konstruktioner afhængig af konstruktionsklassen, jf. § 527*
 
-+-------------------+-----------------------------------------------------------------+-------------------+-------------------+-------------------+
-| ID\               | Emne                                                            | KK2\              | KK3\              | KK4               |
-+-------------------+-----------------------------------------------------------------+-------------------+-------------------+-------------------+
-| A1                | Konstruktionsgrundlag\                                          | Max.\             | Max.\             | Max.\             |
-+-------------------+-----------------------------------------------------------------+-------------------+-------------------+-------------------+
-| A2                | Statiske beregninger\                                           |                   |                   |                   |
-+-------------------+-----------------------------------------------------------------+-------------------+-------------------+-------------------+
-|                   | A2. 1 Statiske beregninger -- bygværk\                          | Udv.\             | Max.\             | Max.\             |
-+-------------------+-----------------------------------------------------------------+-------------------+-------------------+-------------------+
-|                   | A2. 2 Statiske beregninger -- konstruktionsafsnit\              | Udv.\             | Udv.\             | Max.\             |
-+-------------------+-----------------------------------------------------------------+-------------------+-------------------+-------------------+
-| A3                | Konstruktionstegninger og modeller                              |                   |                   |                   |
-+-------------------+-----------------------------------------------------------------+-------------------+-------------------+-------------------+
-|                   | A3. 1 Konstruktionstegninger og modeller - bygværk\             | Udv.\             | Max.\             | Max.\             |
-+-------------------+-----------------------------------------------------------------+-------------------+-------------------+-------------------+
-|                   | A3. 2 Konstruktionstegninger og modeller - konstruktionsafsnit\ | Udv.\             | Udv.\             | Max.\             |
-+-------------------+-----------------------------------------------------------------+-------------------+-------------------+-------------------+
-| A4                | Konstruktionsændringer\                                         |                   |                   |                   |
-+-------------------+-----------------------------------------------------------------+-------------------+-------------------+-------------------+
-|                   | A4. 1 Konstruktionsændringer - bygværk                          | Udv.\             | Max.\             | Max.\             |
-+-------------------+-----------------------------------------------------------------+-------------------+-------------------+-------------------+
-|                   | A4. 2 Konstruktionsændringer - konstruktionsafsnit\             | Udv.\             | Udv.\             | Max.\             |
-+-------------------+-----------------------------------------------------------------+-------------------+-------------------+-------------------+
-| A5                | Konstruktion som udført\                                        | Min.\             | Udv.\             | Udv.\             |
-+-------------------+-----------------------------------------------------------------+-------------------+-------------------+-------------------+
-| B1                | Statisk projektredegørelse                                      | Udv.              | Udv.              | Max.              |
-+-------------------+-----------------------------------------------------------------+-------------------+-------------------+-------------------+
-| B2                | Statisk kontrolplan                                             | Max.              | Max.              | Max.              |
-+-------------------+-----------------------------------------------------------------+-------------------+-------------------+-------------------+
-|  \*               |  Udførelsesgrundlag                                             | Udv.              | Max.              | Max.              |
-+-------------------+-----------------------------------------------------------------+-------------------+-------------------+-------------------+
-|  \* ID er ikke relevant.                                                                                                                        |
-+-------------------------------------------------------------------------------------------------------------------------------------------------+
+<table style="width:98%;">
+<colgroup>
+<col style="width: 13%" />
+<col style="width: 44%" />
+<col style="width: 13%" />
+<col style="width: 13%" />
+<col style="width: 13%" />
+</colgroup>
+<tbody>
+<tr>
+<td>ID<br />
+</td>
+<td>Emne</td>
+<td>KK2<br />
+</td>
+<td>KK3<br />
+</td>
+<td>KK4</td>
+</tr>
+<tr>
+<td>A1</td>
+<td>Konstruktionsgrundlag<br />
+</td>
+<td>Max.<br />
+</td>
+<td>Max.<br />
+</td>
+<td>Max.<br />
+</td>
+</tr>
+<tr>
+<td>A2</td>
+<td>Statiske beregninger<br />
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>A2. 1 Statiske beregninger – bygværk<br />
+</td>
+<td>Udv.<br />
+</td>
+<td>Max.<br />
+</td>
+<td>Max.<br />
+</td>
+</tr>
+<tr>
+<td></td>
+<td>A2. 2 Statiske beregninger – konstruktionsafsnit<br />
+</td>
+<td>Udv.<br />
+</td>
+<td>Udv.<br />
+</td>
+<td>Max.<br />
+</td>
+</tr>
+<tr>
+<td>A3</td>
+<td>Konstruktionstegninger og modeller</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>A3. 1 Konstruktionstegninger og modeller - bygværk<br />
+</td>
+<td>Udv.<br />
+</td>
+<td>Max.<br />
+</td>
+<td>Max.<br />
+</td>
+</tr>
+<tr>
+<td></td>
+<td>A3. 2 Konstruktionstegninger og modeller - konstruktionsafsnit<br />
+</td>
+<td>Udv.<br />
+</td>
+<td>Udv.<br />
+</td>
+<td>Max.<br />
+</td>
+</tr>
+<tr>
+<td>A4</td>
+<td>Konstruktionsændringer<br />
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>A4. 1 Konstruktionsændringer - bygværk</td>
+<td>Udv.<br />
+</td>
+<td>Max.<br />
+</td>
+<td>Max.<br />
+</td>
+</tr>
+<tr>
+<td></td>
+<td>A4. 2 Konstruktionsændringer - konstruktionsafsnit<br />
+</td>
+<td>Udv.<br />
+</td>
+<td>Udv.<br />
+</td>
+<td>Max.<br />
+</td>
+</tr>
+<tr>
+<td>A5</td>
+<td>Konstruktion som udført<br />
+</td>
+<td>Min.<br />
+</td>
+<td>Udv.<br />
+</td>
+<td>Udv.<br />
+</td>
+</tr>
+<tr>
+<td>B1</td>
+<td>Statisk projektredegørelse</td>
+<td>Udv.</td>
+<td>Udv.</td>
+<td>Max.</td>
+</tr>
+<tr>
+<td>B2</td>
+<td>Statisk kontrolplan</td>
+<td>Max.</td>
+<td>Max.</td>
+<td>Max.</td>
+</tr>
+<tr>
+<td> *</td>
+<td> Udførelsesgrundlag</td>
+<td>Udv.</td>
+<td>Max.</td>
+<td>Max.</td>
+</tr>
+<tr>
+<td colspan="5"> * ID er ikke relevant.</td>
+</tr>
+</tbody>
+</table>
 
 Min. : Minimumskontrol, Udv. : Udvidet kontrol, Max. : Maksimumskontrol.
 

@@ -43,21 +43,54 @@ Håndildslukkere skal være udført i overensstemmelse med gældende regler (DS/
 
 *Tabel 1 - klassificering af slukkere*
 
-+-----------------------------------------+-----------------------+-----------------------------------------------------------------------------------------------------+----------------------------------------------------------------+
-| **Type**                                | **Klasse**            |  **Anvendelse ved**                                                                                 | **Anvendes *ikke* ved**                                        |
-+-----------------------------------------+-----------------------+-----------------------------------------------------------------------------------------------------+----------------------------------------------------------------+
-| **Vandtrykslukker**                     | A, E^1^               | Faste stoffer - træ, tekstil, papir mv, el-brande (max. 1.000 V)\                                   | Væskebrande, el-brande, metalbrande, brande i vegetabilsk olie |
-+-----------------------------------------+-----------------------+-----------------------------------------------------------------------------------------------------+----------------------------------------------------------------+
-| **Pulverslukker**                       | A, B, C, D^2^, E^2^   | Faste stoffer - træ, tekstil, papir mv., væskebrande, gasser, metalbrande, el-brande (max 1.000 V)  |  Brande i vegetabilsk olie\                                    |
-+-----------------------------------------+-----------------------+-----------------------------------------------------------------------------------------------------+----------------------------------------------------------------+
-| **Kulsyresneslukker (CO~2~ - slukker)** | A, C, E               | Væskebrande, gasser, el-brande                                                                      |  Metalbrande, brande i vegetabilsk olie                        |
-+-----------------------------------------+-----------------------+-----------------------------------------------------------------------------------------------------+----------------------------------------------------------------+
-| **Skumslukker **                        | A, B, E^4^            | Faste stoffer, væskebrande, el-brande (max. 1.000 V)                                                |                                                                |
-|                                         |                       |                                                                                                     |                                                                |
-|                                         |                       |                                                                                                     | Metalbrande, el-brande, brande i vegetabilsk olie              |
-+-----------------------------------------+-----------------------+-----------------------------------------------------------------------------------------------------+----------------------------------------------------------------+
-| **Brandtæppe**                          | \-                    | Brand i personer/beklædning^5^, Mindre væskebrande                                                  | Brand i faste stoffer, metalbrande, el-brande                  |
-+-----------------------------------------+-----------------------+-----------------------------------------------------------------------------------------------------+----------------------------------------------------------------+
+<table style="width:99%;">
+<colgroup>
+<col style="width: 17%" />
+<col style="width: 10%" />
+<col style="width: 43%" />
+<col style="width: 27%" />
+</colgroup>
+<tbody>
+<tr>
+<td><strong>Type</strong></td>
+<td><strong>Klasse</strong></td>
+<td> <strong>Anvendelse ved</strong></td>
+<td><strong>Anvendes <em>ikke</em> ved</strong></td>
+</tr>
+<tr>
+<td><strong>Vandtrykslukker</strong></td>
+<td>A, E<sup>1</sup></td>
+<td>Faste stoffer - træ, tekstil, papir mv, el-brande (max. 1.000 V)<br />
+</td>
+<td>Væskebrande, el-brande, metalbrande, brande i vegetabilsk olie</td>
+</tr>
+<tr>
+<td><strong>Pulverslukker</strong></td>
+<td>A, B, C, D<sup>2</sup>, E<sup>2</sup></td>
+<td>Faste stoffer - træ, tekstil, papir mv., væskebrande, gasser, metalbrande, el-brande (max 1.000 V)</td>
+<td> Brande i vegetabilsk olie<br />
+</td>
+</tr>
+<tr>
+<td><strong>Kulsyresneslukker (CO<sub>2</sub> - slukker)</strong></td>
+<td>A, C, E</td>
+<td>Væskebrande, gasser, el-brande</td>
+<td> Metalbrande, brande i vegetabilsk olie</td>
+</tr>
+<tr>
+<td><strong>Skumslukker </strong></td>
+<td>A, B, E<sup>4</sup></td>
+<td>Faste stoffer, væskebrande, el-brande (max. 1.000 V)</td>
+<td>Metalbrande, el-brande, brande i vegetabilsk olie</td>
+</tr>
+<tr>
+<td><strong>Brandtæppe</strong></td>
+<td>-</td>
+<td>Brand i personer/beklædning<sup>5</sup>, Mindre væskebrande</td>
+<td>Brand i faste stoffer, metalbrande, el-brande</td>
+</tr>
+</tbody>
+</table>
 
 1.  *Afhænger af slukkerens godkendelse iht. DS/EN 3 typisk op til 1.000 V i 1,0 m afstand.\*
 2.  *Kun med specialpulver.\*

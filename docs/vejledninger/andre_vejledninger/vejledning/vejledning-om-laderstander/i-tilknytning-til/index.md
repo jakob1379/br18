@@ -68,19 +68,39 @@ Krav om etablering af ladestander afhænger dels af, hvilken type bygning der er
 
 I nedenstående tabel oplistes kravene fra ladestanderbekendtgørelsen i tabelform.
 
-  ----------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------
-  **Type af bygning og type af byggearbejde **                                                                **Krav** 
-
-  Ny beboelsesbygning med mere end 10 parkeringspladser\                                                      Forberedelse af alle parkeringspladser til ladestandere. 
-
-  Ny bygning, der ikke er beboelsesbygning, med mere end 10 parkeringspladser                                 Installation af mindst 1 ladestander og forberedelse af mindst hver femte af parkeringspladserne 
-
-  Beboelsesbygning, der gennemgår større ombygning, med mere end 10 parkeringspladser                         Forberedelse af alle ombyggede parkeringspladser til ladestandere 
-
-  Bygning, der ikke er beboelsesbygning, der gennemgår større ombygning, med mere end 10 parkeringspladser    Installation af mindst 1 ladestander og forberedelse af mindst hver femte ombyggede parkeringsplads 
-
-  Eksisterende bygning, der ikke er beboelsesbygning, med mere end 20 parkeringspladser                       Installation af mindst 1 ladestander før 1. januar 2025. 
-  ----------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------
+<table style="width:99%;">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 48%" />
+</colgroup>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Type af bygning og type af byggearbejde </strong></td>
+<td style="text-align: left;"><strong>Krav</strong> </td>
+</tr>
+<tr>
+<td style="text-align: left;">Ny beboelsesbygning med mere end 10 parkeringspladser<br />
+</td>
+<td style="text-align: left;">Forberedelse af alle parkeringspladser til ladestandere. </td>
+</tr>
+<tr>
+<td style="text-align: left;">Ny bygning, der ikke er beboelsesbygning, med mere end 10 parkeringspladser </td>
+<td style="text-align: left;">Installation af mindst 1 ladestander og forberedelse af mindst hver femte af parkeringspladserne </td>
+</tr>
+<tr>
+<td style="text-align: left;">Beboelsesbygning, der gennemgår større ombygning, med mere end 10 parkeringspladser </td>
+<td style="text-align: left;">Forberedelse af alle ombyggede parkeringspladser til ladestandere </td>
+</tr>
+<tr>
+<td style="text-align: left;">Bygning, der ikke er beboelsesbygning, der gennemgår større ombygning, med mere end 10 parkeringspladser </td>
+<td style="text-align: left;">Installation af mindst 1 ladestander og forberedelse af mindst hver femte ombyggede parkeringsplads </td>
+</tr>
+<tr>
+<td style="text-align: left;">Eksisterende bygning, der ikke er beboelsesbygning, med mere end 20 parkeringspladser </td>
+<td style="text-align: left;">Installation af mindst 1 ladestander før 1. januar 2025. </td>
+</tr>
+</tbody>
+</table>
 
 ### Undtagelse for små og mellemstore virksomheder
 

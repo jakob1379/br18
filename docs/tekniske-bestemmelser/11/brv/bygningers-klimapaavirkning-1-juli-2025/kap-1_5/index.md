@@ -126,29 +126,76 @@ Figur 2.2 understøtter figur 2.1 på en alternativ grafisk måde. Det, der frem
 
 I tabel 2.1 fremgår de moduler, der indgår i beregningen med en forklaring på, hvad de enkelte moduler indeholder. Det datagrundlag, der skal anvendes til beregning af klimapåvirkningen, er allerede opdelt på de moduler, der fremgår af tabellen. I forhold til dokumentation af overholdelse af grænseværdien er det derfor ikke nødvendigt at forholde sig konkret til de enkelte moduler i forbindelse med beregningen, dog med undtagelse af modul A4-A5, som har en selvstændig grænseværdi jf. § 298, stk. 5 (se i øvrigt nærmere i vejledning: § 297, stk. 7-8, Datagrundlag)
 
-+-----------------+------+--------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Faser           | Moduler                                                             | Uddybning af modulers processer                                                                                                                                           |
-+-----------------+------+--------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Produkt         | A1   | Råmaterialer                                                 | Klimamæssige konsekvenser som følge af processer for udvinding af råstoffer og brug af sekundære materialer.                                                              |
-|                 +------+--------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|                 | A2   | Transport til fremstilling                                   | Klimamæssige konsekvenser som følge af transport til fabrikken til fremstilling af den færdige byggevare eller det præfabrikerede system.                                 |
-|                 +------+--------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|                 | A3   | Fremstilling                                                 | Klimamæssige konsekvenser som følge af processer til fremstilling af den færdige byggevare eller det præfabrikerede system.                                               |
-+-----------------+------+--------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Byggeproces     | A4   |  Transport                                                   | Klimamæssige konsekvenser som følge af transport til og fra byggepladsen.                                                                                                 |
-|                 +------+--------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|                 | A5   |   Opførelse                                                  | Klimamæssige konsekvenser som følge af påvirkninger relateret til opførelse af bygningen.                                                                                 |
-+-----------------+------+--------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Brug            | B4   | Udskiftning                                                  | Klimamæssige konsekvenser som følge af påvirkninger relateret til udskiftninger af bygningsdele.                                                                          |
-|                 +------+--------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|                 | B6   | Energiforbrug til drift                                      | Klimamæssige konsekvenser som følge af produktion af energi til bygningsdrift.                                                                                            |
-+-----------------+------+--------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Endt levetid    | C3   | Forbehandling af affald                                      | Klimamæssige konsekvenser som følge af affaldsbehandling forud for nyttiggørelse.                                                                                         |
-|                 +------+--------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|                 | C4   | Bortskaffelse                                                | Klimamæssige konsekvenser som følge af bortskaffelse af affald, inklusive forbehandling forud for bortskaffelse.                                                          |
-+-----------------+------+--------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Udenfor projekt | D    | Potentiale for genbrug, genanvendelse og anden nyttiggørelse | Potentielle miljømæssige gevinster eller belastninger fra genbrug og genanvendelse af byggevarer og anden nyttiggørelse som for eksempel energiindvinding fra afbrænding. |
-+-----------------+------+--------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+<table style="width:99%;">
+<colgroup>
+<col style="width: 6%" />
+<col style="width: 2%" />
+<col style="width: 24%" />
+<col style="width: 65%" />
+</colgroup>
+<tbody>
+<tr>
+<td>Faser</td>
+<td colspan="2">Moduler</td>
+<td>Uddybning af modulers processer</td>
+</tr>
+<tr>
+<td rowspan="3">Produkt</td>
+<td>A1</td>
+<td>Råmaterialer</td>
+<td>Klimamæssige konsekvenser som følge af processer for udvinding af råstoffer og brug af sekundære materialer.</td>
+</tr>
+<tr>
+<td>A2</td>
+<td>Transport til fremstilling</td>
+<td>Klimamæssige konsekvenser som følge af transport til fabrikken til fremstilling af den færdige byggevare eller det præfabrikerede system.</td>
+</tr>
+<tr>
+<td>A3</td>
+<td>Fremstilling</td>
+<td>Klimamæssige konsekvenser som følge af processer til fremstilling af den færdige byggevare eller det præfabrikerede system.</td>
+</tr>
+<tr>
+<td rowspan="2">Byggeproces</td>
+<td>A4</td>
+<td> Transport</td>
+<td>Klimamæssige konsekvenser som følge af transport til og fra byggepladsen.</td>
+</tr>
+<tr>
+<td>A5</td>
+<td>  Opførelse</td>
+<td>Klimamæssige konsekvenser som følge af påvirkninger relateret til opførelse af bygningen.</td>
+</tr>
+<tr>
+<td rowspan="2">Brug</td>
+<td>B4</td>
+<td>Udskiftning</td>
+<td>Klimamæssige konsekvenser som følge af påvirkninger relateret til udskiftninger af bygningsdele.</td>
+</tr>
+<tr>
+<td>B6</td>
+<td>Energiforbrug til drift</td>
+<td>Klimamæssige konsekvenser som følge af produktion af energi til bygningsdrift.</td>
+</tr>
+<tr>
+<td rowspan="2">Endt levetid</td>
+<td>C3</td>
+<td>Forbehandling af affald</td>
+<td>Klimamæssige konsekvenser som følge af affaldsbehandling forud for nyttiggørelse.</td>
+</tr>
+<tr>
+<td>C4</td>
+<td>Bortskaffelse</td>
+<td>Klimamæssige konsekvenser som følge af bortskaffelse af affald, inklusive forbehandling forud for bortskaffelse.</td>
+</tr>
+<tr>
+<td>Udenfor projekt</td>
+<td>D</td>
+<td>Potentiale for genbrug, genanvendelse og anden nyttiggørelse</td>
+<td>Potentielle miljømæssige gevinster eller belastninger fra genbrug og genanvendelse af byggevarer og anden nyttiggørelse som for eksempel energiindvinding fra afbrænding.</td>
+</tr>
+</tbody>
+</table>
 
 ***Tabel 2.1:** Oversigt og beskrivelse af de moduler, der skal indgå i beregning af klimapåvirkningen jf. § 297*
 
@@ -452,64 +499,175 @@ En større fleretagers kontorbygning projekteres som søjle-bjælkekonstruktion 
 
 Herunder vises, hvordan der findes mængden på samlinger og hvilket data, der vælges ift. BR18, bilag 2, tabel 7. Selvom bygningens samlede klimapåvirkning kun skal angives med et decimal, kan det for mere nøjagtige beregninger anbefales at være mere præcis i mellemregningerne.
 
-+-----------------------------+--------------------------------------+----------------------+----------------------+-----------------------+------------------+
-|                             |  **Formel**                          |  **Areal** \[mm^2^\] |  **Tykkelse** \[mm\] | **Volumen **\[m^3^\]  | **Vægt **\[kg\]  |
-+-----------------------------+--------------------------------------+----------------------+----------------------+-----------------------+------------------+
-|  **Fodbeslag**                                                                                                                                              |
-+-----------------------------+--------------------------------------+----------------------+----------------------+-----------------------+------------------+
-|  Dorn plade                 |                                      |  98.850              |  15                  |  0,00135              |                  |
-+-----------------------------+--------------------------------------+----------------------+----------------------+-----------------------+------------------+
-|  Ankerplade                 |                                      |  442.500             |  15                  |  0,00634              |                  |
-+-----------------------------+--------------------------------------+----------------------+----------------------+-----------------------+------------------+
-|  Forskydningsknast          |                                      |  50.400              |  6                   |  0,00030              |                  |
-+-----------------------------+--------------------------------------+----------------------+----------------------+-----------------------+------------------+
-|  Dorne                      |                                      |  4 x 200             |  24                  |  0,00036              |                  |
-+-----------------------------+--------------------------------------+----------------------+----------------------+-----------------------+------------------+
-|  Samlet volumen             |                                      |                      |                      |  0,00835              |                  |
-+-----------------------------+--------------------------------------+----------------------+----------------------+-----------------------+------------------+
-|  Samlet vægt for samling    | Volumen x densitet af stål           |                      |                      |                       |  65,548          |
-|                             |                                      |                      |                      |                       |                  |
-|                             | 0,00835 m^3^ x 7.850 kg/m^3^         |                      |                      |                       |                  |
-+-----------------------------+--------------------------------------+----------------------+----------------------+-----------------------+------------------+
-|  Samlet vægt i projektet    | Vægt for samling x antal i projektet |                      |                      |                       | 2.097,52         |
-|                             |                                      |                      |                      |                       |                  |
-|                             | 65,548 kg x 32                       |                      |                      |                       |                  |
-+-----------------------------+--------------------------------------+----------------------+----------------------+-----------------------+------------------+
-| ** Etagekryds**                                                                                                                                             |
-+-----------------------------+--------------------------------------+----------------------+----------------------+-----------------------+------------------+
-| Dorn plader                 |                                      |  760.000             |  760.000             |  0,01140              |                  |
-+-----------------------------+--------------------------------------+----------------------+----------------------+-----------------------+------------------+
-|  Ankerplader                |                                      |  360.400             |  360.400             |  0,00721              |                  |
-+-----------------------------+--------------------------------------+----------------------+----------------------+-----------------------+------------------+
-|  Bundplader                 |                                      |  193.800             |  193.800             |  0,00388              |                  |
-+-----------------------------+--------------------------------------+----------------------+----------------------+-----------------------+------------------+
-|  Dorne                      |                                      |  40 x 200            |  40 x 200            |  0,00251              |                  |
-+-----------------------------+--------------------------------------+----------------------+----------------------+-----------------------+------------------+
-|  Bolte                      |                                      |  20 x 460            |  20 x 460            |  0,00289              |                  |
-+-----------------------------+--------------------------------------+----------------------+----------------------+-----------------------+------------------+
-|  Samlet volumen             |                                      |                      |                      |  0,02789              |                  |
-+-----------------------------+--------------------------------------+----------------------+----------------------+-----------------------+------------------+
-|  Samlet vægt for samling    | volumen \* densitet af stål          |                      |                      |                       | 218,937          |
-|                             |                                      |                      |                      |                       |                  |
-|                             | 0,02789 m3 \* 7880 kg/m3             |                      |                      |                       |                  |
-+-----------------------------+--------------------------------------+----------------------+----------------------+-----------------------+------------------+
-|  Samlet vægt i projektet    | Vægt for samling x antal i projektet |                      |                      |                       |  22.988,33       |
-|                             |                                      |                      |                      |                       |                  |
-|                             | 218,937 x 105                        |                      |                      |                       |                  |
-+-----------------------------+--------------------------------------+----------------------+----------------------+-----------------------+------------------+
-|  **Sum samlinger**                                                                                                                                          |
-+--------------------------------------------------------------------+----------------------+----------------------+-----------------------+------------------+
-|  *Samlet vægt af fodbeslag og etagekryds i projektet*              |                      |                      |                       |  *22.085,85*     |
-+--------------------------------------------------------------------+----------------------+----------------------+-----------------------+------------------+
+<table style="width:98%;">
+<colgroup>
+<col style="width: 18%" />
+<col style="width: 24%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 11%" />
+</colgroup>
+<tbody>
+<tr>
+<td></td>
+<td> <strong>Formel</strong></td>
+<td> <strong>Areal</strong> [mm<sup>2</sup>]</td>
+<td> <strong>Tykkelse</strong> [mm]</td>
+<td><strong>Volumen </strong>[m<sup>3</sup>]</td>
+<td><strong>Vægt </strong>[kg]</td>
+</tr>
+<tr>
+<td colspan="6"> <strong>Fodbeslag</strong></td>
+</tr>
+<tr>
+<td> Dorn plade</td>
+<td></td>
+<td> 98.850</td>
+<td> 15</td>
+<td> 0,00135</td>
+<td></td>
+</tr>
+<tr>
+<td> Ankerplade</td>
+<td></td>
+<td> 442.500</td>
+<td> 15</td>
+<td> 0,00634</td>
+<td></td>
+</tr>
+<tr>
+<td> Forskydningsknast</td>
+<td></td>
+<td> 50.400</td>
+<td> 6</td>
+<td> 0,00030</td>
+<td></td>
+</tr>
+<tr>
+<td> Dorne</td>
+<td></td>
+<td> 4 x 200</td>
+<td> 24</td>
+<td> 0,00036</td>
+<td></td>
+</tr>
+<tr>
+<td> Samlet volumen</td>
+<td></td>
+<td></td>
+<td></td>
+<td> 0,00835</td>
+<td></td>
+</tr>
+<tr>
+<td> Samlet vægt for samling</td>
+<td><p>Volumen x densitet af stål</p>
+<p>0,00835 m<sup>3</sup> x 7.850 kg/m<sup>3</sup></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td> 65,548</td>
+</tr>
+<tr>
+<td> Samlet vægt i projektet</td>
+<td><p>Vægt for samling x antal i projektet</p>
+<p>65,548 kg x 32</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td>2.097,52</td>
+</tr>
+<tr>
+<td colspan="6"><strong> Etagekryds</strong></td>
+</tr>
+<tr>
+<td>Dorn plader</td>
+<td></td>
+<td> 760.000</td>
+<td> 760.000</td>
+<td> 0,01140</td>
+<td></td>
+</tr>
+<tr>
+<td> Ankerplader</td>
+<td></td>
+<td> 360.400</td>
+<td> 360.400</td>
+<td> 0,00721</td>
+<td></td>
+</tr>
+<tr>
+<td> Bundplader</td>
+<td></td>
+<td> 193.800</td>
+<td> 193.800</td>
+<td> 0,00388</td>
+<td></td>
+</tr>
+<tr>
+<td> Dorne</td>
+<td></td>
+<td> 40 x 200</td>
+<td> 40 x 200</td>
+<td> 0,00251</td>
+<td></td>
+</tr>
+<tr>
+<td> Bolte</td>
+<td></td>
+<td> 20 x 460</td>
+<td> 20 x 460</td>
+<td> 0,00289</td>
+<td></td>
+</tr>
+<tr>
+<td> Samlet volumen</td>
+<td></td>
+<td></td>
+<td></td>
+<td> 0,02789</td>
+<td></td>
+</tr>
+<tr>
+<td> Samlet vægt for samling</td>
+<td><p>volumen * densitet af stål</p>
+<p>0,02789 m3 * 7880 kg/m3</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td>218,937</td>
+</tr>
+<tr>
+<td> Samlet vægt i projektet</td>
+<td><p>Vægt for samling x antal i projektet</p>
+<p>218,937 x 105</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td> 22.988,33</td>
+</tr>
+<tr>
+<td colspan="6"> <strong>Sum samlinger</strong></td>
+</tr>
+<tr>
+<td colspan="2"> <em>Samlet vægt af fodbeslag og etagekryds i projektet</em></td>
+<td></td>
+<td></td>
+<td></td>
+<td> <em>22.085,85</em></td>
+</tr>
+</tbody>
+</table>
 
 Følgende miljødata fra BR18, bilag 2, tabel 7, vælges:
 
 #### **Datagrundlaget for materialerne**
 
-  ---------------------------------- ---------- ----------- --------- --------- ---------- -----------------------
-   **Materiale**                     **ID **    ** A1-3**   ** C3**   ** C4**   ** D**     ** Funktionel enhed**
-   Stål, varmvalset plade, 2-20 mm    #G0767     2,78247                        -1,50772    1 kg
-  ---------------------------------- ---------- ----------- --------- --------- ---------- -----------------------
+|  |  |  |  |  |  |  |
+|:---|:---|:---|:---|:---|:---|:---|
+|  **Materiale** | **ID ** | ** A1-3** | ** C3** | ** C4** | ** D** | ** Funktionel enhed** |
+|  Stål, varmvalset plade, 2-20 mm |  #G0767  |  2,78247 |   |   | -1,50772 |  1 kg |
 
 #### ** **
 
@@ -517,17 +675,53 @@ Følgende miljødata fra BR18, bilag 2, tabel 7, vælges:
 
 Bygherren skal lave en beregning om bygningens klimapåvirkning for sit enfamiliehus. Grundet arbejdsomfanget vurderes det mest optimalt at bruge standardværdier for installation for dokumentationen om bygningens klimapåvirkning, da der spares tid på den måde. Følgende værdier fra BR18, bilag 2, tabel 7, er relevante for enfamiliehuset; #S0001, #S0002, #S0003.
 
-+-----------------+-------------------------------------------+---------------------------------+------------------------------+------------------------------+-----------------------------+
-|  **Standardværdier for installationer** \[i kg CO~2~-ækv. pr. m^2^ pr. år\]                                                                                                               |
-+-----------------+-------------------------------------------+---------------------------------+------------------------------+------------------------------+-----------------------------+
-|  ID             |  Navn                                     |  Global Opvarmning, modul A1-A3 |  Global Opvarmning, modul C3 |  Global Opvarmning, modul C4 |  Global Opvarmning, modul D |
-+-----------------+-------------------------------------------+---------------------------------+------------------------------+------------------------------+-----------------------------+
-|  #S0001         |  Enfamiliehuse, afløb                     |  0,008                          |  0,012                       |  -                           |  -0,01                      |
-+-----------------+-------------------------------------------+---------------------------------+------------------------------+------------------------------+-----------------------------+
-|  #S0002         |  Enfamiliehuse, vand                      |  0,048                          |  0,012                       |  -                           |  -0,025                     |
-+-----------------+-------------------------------------------+---------------------------------+------------------------------+------------------------------+-----------------------------+
-|  #S0003         |  Enfamiliehuse, varme, ventilation og køl |  0,475                          |  0,105                       |  -                           |  -0,274                     |
-+-----------------+-------------------------------------------+---------------------------------+------------------------------+------------------------------+-----------------------------+
+<table style="width:98%;">
+<colgroup>
+<col style="width: 9%" />
+<col style="width: 22%" />
+<col style="width: 17%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 15%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="6"> <strong>Standardværdier for installationer</strong> [i kg CO<sub>2</sub>-ækv. pr. m<sup>2</sup> pr. år]</td>
+</tr>
+<tr>
+<td> ID</td>
+<td> Navn</td>
+<td> Global Opvarmning, modul A1-A3</td>
+<td> Global Opvarmning, modul C3</td>
+<td> Global Opvarmning, modul C4</td>
+<td> Global Opvarmning, modul D</td>
+</tr>
+<tr>
+<td> #S0001</td>
+<td> Enfamiliehuse, afløb</td>
+<td> 0,008</td>
+<td> 0,012</td>
+<td> -</td>
+<td> -0,01</td>
+</tr>
+<tr>
+<td> #S0002</td>
+<td> Enfamiliehuse, vand</td>
+<td> 0,048</td>
+<td> 0,012</td>
+<td> -</td>
+<td> -0,025</td>
+</tr>
+<tr>
+<td> #S0003</td>
+<td> Enfamiliehuse, varme, ventilation og køl</td>
+<td> 0,475</td>
+<td> 0,105</td>
+<td> -</td>
+<td> -0,274</td>
+</tr>
+</tbody>
+</table>
 
 Bygherren kender det samlede opvarmede etageareal, jf. § 256 stk. 3, som i dette eksempel svarer til 110 m2.
 
@@ -648,13 +842,10 @@ Datasættet #G0768 Stål, Varmgalvaniseret stålplade har en deklareret faktor p
 
 16,789 kg CO~2~-ækv./ 1 m^2^ / 5,72 kg/m^2^ = 2,935 kg CO~2~-ækv./kg
 
-+--------+-------------------------------------+-------------------------------+----------------------------+----------------------------+---------------------------+------------------------+-----------------------+--------------+-------------+
-| ID     | Navn                                | Global opvarmning, fase A1-A3 | Global opvarmning, fase C3 | Global opvarmning, fase C4 | Global opvarmning, fase D | Deklareret factor (FU) | Deklareret enhed (FU) | Masse factor | Masse enhed |
-+--------+-------------------------------------+-------------------------------+----------------------------+----------------------------+---------------------------+------------------------+-----------------------+--------------+-------------+
-| #G0768 | Stål, Varmgalvaniseret stålplade    | 16,789                        |                            | 0                          | -7,8865                   | 1                      | m^2^                  | 5,72         | kg/m^2^     |
-|        |                                     |                               |                            |                            |                           |                        |                       |              |             |
-|        |                                     |                               | 0                          |                            |                           |                        |                       |              |             |
-+--------+-------------------------------------+-------------------------------+----------------------------+----------------------------+---------------------------+------------------------+-----------------------+--------------+-------------+
+|  |  |  |  |  |  |  |  |  |  |
+|----|-----------|---------|---------|---------|--------|--------|-------|-----|-----|
+| ID | Navn | Global opvarmning, fase A1-A3 | Global opvarmning, fase C3 | Global opvarmning, fase C4 | Global opvarmning, fase D | Deklareret factor (FU) | Deklareret enhed (FU) | Masse factor | Masse enhed |
+| #G0768 | Stål, Varmgalvaniseret stålplade | 16,789 | 0 | 0 | -7,8865 | 1 | m^2^ | 5,72 | kg/m^2^ |
 
 *Eksempel på anvendelse af standardværdier for tekniske installationer*
 
@@ -694,14 +885,14 @@ I databladet for det konkrete produkt er materialesammensætning oplyst med en s
 
 #### **1.5.5 Materialesammensætning**
 
-  ------------------- ------------
-  **Materiale**       **Mængde**
-  Galvaniseret stål    18,2 kg
-   Aluminium           2,5 kg
-   Kobber              1,6 kg
-   Plast               0,2 kg
-   Zink                0,1 kg
-  ------------------- ------------
+|                   |            |
+|:------------------|:-----------|
+| **Materiale**     | **Mængde** |
+| Galvaniseret stål |  18,2 kg   |
+|  Aluminium        |  2,5 kg    |
+|  Kobber           |  1,6 kg    |
+|  Plast            |  0,2 kg    |
+|  Zink             |  0,1 kg    |
 
 Af BR18, bilag 2, tabel 7, fremgår det, at datasættet for modul A1-3 for galvaniseret stål er opgjort i kvadratmeter og derfor er det først omregnet til kilogram efter ovenstående vejledning:
 
@@ -709,26 +900,26 @@ Af BR18, bilag 2, tabel 7, fremgår det, at datasættet for modul A1-3 for galva
 
 #### **1.5.6 Datagrundlaget for materialerne omregnet til den samme funktionelle enhed på 1 kg**
 
-  ------------------- -------- -------- -------- ---------- -------- ------------------
-  **Materiale**       ID       A1-3     C3       C4         D        Funktionel enhed
-  Galvaniseret stål   #G0768   2,935    0        0          -1,379   1 kg
-  Aluminium           #G0333   10,698   0        0          -7,277   1 kg
-  Kobber              #G0768   2,935    0        0          -1,379   1 kg
-  Plast               #G0496   2,497    3,22     0,00161    -1,223   1 kg
-  Zink                #G0015   3,222    0,0573   0,000264   -2,498   1 kg
-  ------------------- -------- -------- -------- ---------- -------- ------------------
+|                   |        |        |        |          |        |                  |
+|:------------------|:-------|:-------|:-------|:---------|:-------|:-----------------|
+| **Materiale**     | ID     | A1-3   | C3     | C4       | D      | Funktionel enhed |
+| Galvaniseret stål | #G0768 | 2,935  | 0      | 0        | -1,379 | 1 kg             |
+| Aluminium         | #G0333 | 10,698 | 0      | 0        | -7,277 | 1 kg             |
+| Kobber            | #G0768 | 2,935  | 0      | 0        | -1,379 | 1 kg             |
+| Plast             | #G0496 | 2,497  | 3,22   | 0,00161  | -1,223 | 1 kg             |
+| Zink              | #G0015 | 3,222  | 0,0573 | 0,000264 | -2,498 | 1 kg             |
 
 Det vil sige, at GWP for komfortmodulet, beregnet ud fra princippet om mængde råmateriale, er:
 
 #### **1.5.7 Beregning**
 
-  ----------- -------------------------------------------------------------------------------------- --------------------------------------
-  **Modul**   **Formel**                                                                             **Sum** **-** **kg** **CO2-ækv.**
-  A1-3        2,935 x 18,2 kg + 10,698 x 2,5 kg + 2,935 x 1,6 kg + 2,467 x 0,2 kg + 3,222 x 0,1 kg   85,683
-  C3          3,22 x 0,2 + 0,00573 x 0,1                                                             0,650
-  C4          0,00161 x 0,2 kg + 0,000264 x 0,1 kg                                                   0,000348
-  D           -1,379 x 18,2 kg - 7,277 x 2,5 kg - 1,379 x 1,6 kg - 1,223 x 0,2 kg - 2,498 x 0,1 kg   -45,985
-  ----------- -------------------------------------------------------------------------------------- --------------------------------------
+|  |  |  |
+|:---|:---|:---|
+| **Modul** | **Formel** | **Sum** **-** **kg** **CO2-ækv.** |
+| A1-3 | 2,935 x 18,2 kg + 10,698 x 2,5 kg + 2,935 x 1,6 kg + 2,467 x 0,2 kg + 3,222 x 0,1 kg | 85,683 |
+| C3 | 3,22 x 0,2 + 0,00573 x 0,1 | 0,650 |
+| C4 | 0,00161 x 0,2 kg + 0,000264 x 0,1 kg | 0,000348 |
+| D | -1,379 x 18,2 kg - 7,277 x 2,5 kg - 1,379 x 1,6 kg - 1,223 x 0,2 kg - 2,498 x 0,1 kg | -45,985 |
 
 *Eksempel på beregning af klimapåvirkning efter metoden for mængde råmateriale uden kendt materialesammensætning*
 
@@ -738,20 +929,20 @@ BR18, bilag 2, tabel 6, oplyser, at der kan anvendes miljødata til råmateriale
 
 #### **1.5.8 Datagrundlag**
 
-  ------------------- -------- ---------- -------- -------- -------- ---------------------------
-  **Materiale**       **ID**   **A1-3**   **C3**   **C4**   **D**    **Funktionel** **enhed**
-  Galvaniseret stål   #G0768   2,935      0        0        -1,379   1 kg
-  ------------------- -------- ---------- -------- -------- -------- ---------------------------
+|  |  |  |  |  |  |  |
+|:---|:---|:---|:---|:---|:---|:---|
+| **Materiale** | **ID** | **A1-3** | **C3** | **C4** | **D** | **Funktionel** **enhed** |
+| Galvaniseret stål | #G0768 | 2,935 | 0 | 0 | -1,379 | 1 kg |
 
 #### ** 1.5.9 Beregning**
 
-  ----------- ---------------- -------------------
-  **Modul**   **Formel**       Sum - Kg CO2-ækv.
-  A1-3        2,935 x 24 kg    70,445
-  C3          0                0
-  C4          0                0
-  D           -1,379 x 24 kg   -33,09
-  ----------- ---------------- -------------------
+|           |                |                   |
+|:----------|:---------------|:------------------|
+| **Modul** | **Formel**     | Sum - Kg CO2-ækv. |
+| A1-3      | 2,935 x 24 kg  | 70,445            |
+| C3        | 0              | 0                 |
+| C4        | 0              | 0                 |
+| D         | -1,379 x 24 kg | -33,09            |
 
 ### **1.5.10 Genbrugte materialer**
 
@@ -1266,31 +1457,24 @@ Kun den del af klimapåvirkningen, som er en følge af det særlige forhold, er 
 
 Følgende eksempler er udelukkende af vejledende karakter, og det skal altid vurderes i den konkrete byggesag, om der er tale om særlige forhold eller ej.
 
-  -----------------------------------------------------------------------------------------------------------------------------------
-  ** Eksempler på bygningers funktion og placering, der kan medføre en nødvendig øget klimapåvirkning (listen er ikke udtømmende)**
+|  |
+|:---------------------------------------------------------------------|
+| ** Eksempler på bygningers funktion og placering, der kan medføre en nødvendig øget klimapåvirkning (listen er ikke udtømmende)** |
+|  Anvendelse af hospitals- og laboratorieudstyr (bygningens funktion) |
+|  Høj last på dæk og andre påvirkede konstruktionsdele (bygningens anvendelse) |
+|  Ekstra højt sikkerhedsniveau (konsekvensklasse CC3+) (bygningens funktion) |
+|  Særlige jordbundsforhold, herunder vandtryk (bygningens placering) |
+|  Høje renhedskrav (bygningens funktion) |
+|  Sikringskrav (bygningens funktion) |
+|  Krav om særlig udformning som følge af planlovgivningen (bygningens placering) |
 
-   Anvendelse af hospitals- og laboratorieudstyr (bygningens funktion)
-
-   Høj last på dæk og andre påvirkede konstruktionsdele (bygningens anvendelse)
-
-   Ekstra højt sikkerhedsniveau (konsekvensklasse CC3+) (bygningens funktion)
-
-   Særlige jordbundsforhold, herunder vandtryk (bygningens placering)
-
-   Høje renhedskrav (bygningens funktion)
-
-   Sikringskrav (bygningens funktion)
-
-   Krav om særlig udformning som følge af planlovgivningen (bygningens placering)
-  -----------------------------------------------------------------------------------------------------------------------------------
-
-  -----------------------------------------------------------------------------------------------
-  ** Eksempler på forhold der ikke tænkes omfattet af undtagelsen (listen er ikke udtømmende)**
-   Æstetiske hensyn (bygningsejerens valg af udformning)
-   Store rumvolumener
-   Parkeringskældre
-   Mange rum- og brandadskillelser
-  -----------------------------------------------------------------------------------------------
+|  |
+|:---|
+| ** Eksempler på forhold der ikke tænkes omfattet af undtagelsen (listen er ikke udtømmende)** |
+|  Æstetiske hensyn (bygningsejerens valg af udformning) |
+|  Store rumvolumener |
+|  Parkeringskældre |
+|  Mange rum- og brandadskillelser |
 
 ### *Beregning af det tillægsgivende forhold*
 
@@ -1393,24 +1577,24 @@ Kun den del af klimapåvirkningen, som er en følge af det særlige forhold, er 
 
 Følgende eksempler er udelukkende af vejledende karakter, og det skal altid vurderes i den konkrete byggesag, om der er tale om særlige forhold eller ej.
 
-  ----------------------------------------------------------------------------------------------------------------------------------
-  **Eksempler på bygningers funktion og placering, der kan medføre en nødvendig øget klimapåvirkning (listen er ikke udtømmende)**
-  Anvendelse af laboratorieudstyr (bygningens funktion)
-  Høj last på dæk og andre påvirkede konstruktionsdele (bygningens anvendelse)
-  Ekstra højt sikkerhedsniveau (konsekvensklasse CC3) (bygningens funktion)
-  Særlige jordbundsforhold, herunder vandtryk eller blød bund (bygningens placering)
-  Høje renhedskrav (bygningens funktion)
-  Sikringskrav (bygningens funktion)
-  Krav om særlig udformning som følge af planlovgivningen (bygningens placering)
-  ----------------------------------------------------------------------------------------------------------------------------------
+|  |
+|:---|
+| **Eksempler på bygningers funktion og placering, der kan medføre en nødvendig øget klimapåvirkning (listen er ikke udtømmende)** |
+| Anvendelse af laboratorieudstyr (bygningens funktion) |
+| Høj last på dæk og andre påvirkede konstruktionsdele (bygningens anvendelse) |
+| Ekstra højt sikkerhedsniveau (konsekvensklasse CC3) (bygningens funktion) |
+| Særlige jordbundsforhold, herunder vandtryk eller blød bund (bygningens placering) |
+| Høje renhedskrav (bygningens funktion) |
+| Sikringskrav (bygningens funktion) |
+| Krav om særlig udformning som følge af planlovgivningen (bygningens placering) |
 
-  ----------------------------------------------------------------------------------------------
-  **Eksempler på forhold der ikke tænkes omfattet af undtagelsen (listen er ikke udtømmende)**
-  Æstetiske hensyn (bygningsejerens valg af udformning)
-  Store rumvolumener
-  Parkeringskældre
-  Mange rum- og brandadskillelser
-  ----------------------------------------------------------------------------------------------
+|  |
+|:---|
+| **Eksempler på forhold der ikke tænkes omfattet af undtagelsen (listen er ikke udtømmende)** |
+| Æstetiske hensyn (bygningsejerens valg af udformning) |
+| Store rumvolumener |
+| Parkeringskældre |
+| Mange rum- og brandadskillelser |
 
 *Beregning af det tillægsgivende forhold*
 

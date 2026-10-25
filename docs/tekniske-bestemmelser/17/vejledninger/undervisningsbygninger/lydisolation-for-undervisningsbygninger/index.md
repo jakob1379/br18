@@ -33,53 +33,92 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 
 Heldagsklasser, helhedsskoler og indskolingslokaler, der dækker over, at de samme lokaler benyttes til undervisning og fritidsaktiviteter, skal med hensyn til lydisolation og støj indrettes efter lydbestemmelserne for undervisningslokaler. Med hensyn til rumakustik skal lydbestemmelserne for opholdsrum i daginstitutionsbygninger opfyldes, idet der dog skal tages hensyn til lærernes mulighed for ubesværet at tale rummet op - se SBi-anvisning 218.
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| **Undervisningsbygninger -- Tabel 3.1 Lydisolation**\                                                                                                                                                                                     |
-+-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| **Luftlydisolation **     **\[4\]**                                                                                                             | ***R´~w~** *                                                                            |
-+-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| Mellem undervisningsrum samt mellem undervisningsrum og fællesrum, horisontalt                                                                  | ≥ 48 dB                                                                                 |
-+-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| Mellem undervisningsrum samt mellem undervisningsrum og fællesrum, vertikalt                                                                    | ≥ 51 dB* *                                                                              |
-+-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| Mellem undervisningsrum med dørforbindelse (samlet lydisolation for væg med dør, folde- og mobilvægge, glaspartier mv.)                         | ≥ 44 dB                                                                                 |
-+-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| Mellem undervisningsrum og fællesrum med dørforbindelse (samlet lydisolation for væg med dør, folde- og mobilvægge, glaspartier mv.)            | ≥ 36 dB                                                                                 |
-+-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| For fleksible rumadskillelser i åbne undervisningsområder ^1)^                                                                                  | ≥ 20 dB                                                                                 |
-+-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| Mellem undervisningsrum til sløjd og andre undervisningsrum eller fællesrum                                                                     | ≥ 60 dB                                                                                 |
-+-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| Mellem undervisningsrum til sløjd og fællesrum med dørforbindelse (samlet lydisolation for væg med dør, folde- og mobilvægge, glaspartier mv.)  | ≥ 44 dB                                                                                 |
-+-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| Mellem undervisningsrum til sang og musik samt mellem undervisningsrum til sang og musik og andre undervisningsrum eller fællesrum              | ≥ 65 dB                                                                                 |
-+-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| Mellem undervisningsrum til sang og musik med dørforbindelse (samlet lydisolation for væg med dør)                                              | ≥ 55 dB                                                                                 |
-+-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| Mellem undervisningsrum til sang og musik og fællesrum med dørforbindelse (samlet lydisolation for væg med dør)                                 | ≥ 50 dB\                                                                                |
-+-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| Mellem undervisningsrum og tilgrænsende rum i erhvervsenheder eller i andre undervisnings- eller daginstitutioner                               | ≥ 60 dB\                                                                                |
-+-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| **Trinlydniveau **     **\[4\]**                                                                                                                | ***L'~n,w~***                                                                           |
-+-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| I undervisningsrum ^2)^                                                                                                                         | ≤ 58 dB                                                                                 |
-+-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| I undervisningsrum fra gulve og dæk i undervisningsrum til sløjd eller sang og musik                                                            | ≤ 53 dB                                                                                 |
-+-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| I undervisningsrum fra gulve og dæk i tilgrænsende rum i erhvervsenheder eller i andre undervisnings- eller daginstitutioner                    | ≤ 48 dB                                                                                 |
-+-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| **Noter\                                                                                                                                                                                                                                  |
-| \**                                                                                                                                                                                                                                       |
-|                                                                                                                                                                                                                                           |
-|
-
-1)   Ved fleksible rumadskillelser forstås vægsystemer eller lignende rumopdelende elementer, som ikke fuldstændigt aflukker rum, men som afskærmer og adskiller dele af rum\                                                             |
-| \                                                                                                                                                                                                                                         |
-|                                                                                                                                                                                                                                           |
-|
-
-2)   Fra alle omgivende gulve, dæk og trapper.                                                                                                                                                                                            |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+<table>
+<colgroup>
+<col style="width: 61%" />
+<col style="width: 38%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><strong>Undervisningsbygninger – Tabel 3.1 Lydisolation</strong><br />
+</td>
+</tr>
+<tr>
+<td><strong>Luftlydisolation </strong>     <strong>[4]</strong></td>
+<td><em><strong>R´<sub>w</sub></strong> </em></td>
+</tr>
+<tr>
+<td>Mellem undervisningsrum samt mellem undervisningsrum og fællesrum, horisontalt</td>
+<td>≥ 48 dB</td>
+</tr>
+<tr>
+<td>Mellem undervisningsrum samt mellem undervisningsrum og fællesrum, vertikalt</td>
+<td>≥ 51 dB<em> </em></td>
+</tr>
+<tr>
+<td>Mellem undervisningsrum med dørforbindelse (samlet lydisolation for væg med dør, folde- og mobilvægge, glaspartier mv.)</td>
+<td>≥ 44 dB</td>
+</tr>
+<tr>
+<td>Mellem undervisningsrum og fællesrum med dørforbindelse (samlet lydisolation for væg med dør, folde- og mobilvægge, glaspartier mv.)</td>
+<td>≥ 36 dB</td>
+</tr>
+<tr>
+<td>For fleksible rumadskillelser i åbne undervisningsområder <sup>1)</sup></td>
+<td>≥ 20 dB</td>
+</tr>
+<tr>
+<td>Mellem undervisningsrum til sløjd og andre undervisningsrum eller fællesrum</td>
+<td>≥ 60 dB</td>
+</tr>
+<tr>
+<td>Mellem undervisningsrum til sløjd og fællesrum med dørforbindelse (samlet lydisolation for væg med dør, folde- og mobilvægge, glaspartier mv.)</td>
+<td>≥ 44 dB</td>
+</tr>
+<tr>
+<td>Mellem undervisningsrum til sang og musik samt mellem undervisningsrum til sang og musik og andre undervisningsrum eller fællesrum</td>
+<td>≥ 65 dB</td>
+</tr>
+<tr>
+<td>Mellem undervisningsrum til sang og musik med dørforbindelse (samlet lydisolation for væg med dør)</td>
+<td>≥ 55 dB</td>
+</tr>
+<tr>
+<td>Mellem undervisningsrum til sang og musik og fællesrum med dørforbindelse (samlet lydisolation for væg med dør)</td>
+<td>≥ 50 dB<br />
+</td>
+</tr>
+<tr>
+<td>Mellem undervisningsrum og tilgrænsende rum i erhvervsenheder eller i andre undervisnings- eller daginstitutioner</td>
+<td>≥ 60 dB<br />
+</td>
+</tr>
+<tr>
+<td><strong>Trinlydniveau </strong>     <strong>[4]</strong></td>
+<td><strong><em>L’<sub>n,w</sub></em></strong></td>
+</tr>
+<tr>
+<td>I undervisningsrum <sup>2)</sup></td>
+<td>≤ 58 dB</td>
+</tr>
+<tr>
+<td>I undervisningsrum fra gulve og dæk i undervisningsrum til sløjd eller sang og musik</td>
+<td>≤ 53 dB</td>
+</tr>
+<tr>
+<td>I undervisningsrum fra gulve og dæk i tilgrænsende rum i erhvervsenheder eller i andre undervisnings- eller daginstitutioner</td>
+<td>≤ 48 dB</td>
+</tr>
+<tr>
+<td colspan="2"><p>**Noter<br />
+**</p>
+<p>1)   Ved fleksible rumadskillelser forstås vægsystemer eller lignende rumopdelende elementer, som ikke fuldstændigt aflukker rum, men som afskærmer og adskiller dele af rum<br />
+<br />
+</p>
+<p>2)   Fra alle omgivende gulve, dæk og trapper.</p></td>
+</tr>
+</tbody>
+</table>
 
 [3.3](../stoej-indendoers-fra-trafik-i-undervisningsbygninger/)
 

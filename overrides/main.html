@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block htmltitle %}
+  {% if page.url == nav.homepage.url %}
+    <title>BR18</title>
+  {% elif page.meta and page.meta.title %}
+    <title>{{ page.meta.title }} | BR18</title>
+  {% elif page.title %}
+    <title>{{ page.title | striptags }} | BR18</title>
+  {% else %}
+    <title>BR18</title>
+  {% endif %}
+{% endblock %}

@@ -100,23 +100,53 @@ Der henvises til Bygningsreglementets vejledning om efterisolering, der indehold
 
  Levetider der normalt kan anvendes ved beregning af rentabiliteten:
 
-  ------------------------------------------------------------------------------------------------- -----------------------------------
-  Energibesparende tiltag                                                                           Levetid \[år\]
-
-  Efterisolering af bygningsdele\                                                                   40
-
-  Vinduer samt forsatsrammer og koblede rammer\                                                     30
-
-  Varmeanlæg, radiatorer og gulvvarme samt ventilationskanaler og armaturer inklusive isolering\    30
-
-  Varmeproducerende anlæg mv., f.eks. kedler, varmepumper, solvarmeanlæg, ventilationsaggregater\   20
-
-  Belysningsarmaturer\                                                                              15
-
-  Automatik til varme og klimaanlæg\                                                                15
-
-  Fugetætningsarbejder\                                                                             10
-  ------------------------------------------------------------------------------------------------- -----------------------------------
+<table style="width:99%;">
+<colgroup>
+<col style="width: 72%" />
+<col style="width: 26%" />
+</colgroup>
+<tbody>
+<tr>
+<td style="text-align: left;">Energibesparende tiltag </td>
+<td style="text-align: left;">Levetid [år]</td>
+</tr>
+<tr>
+<td style="text-align: left;">Efterisolering af bygningsdele<br />
+</td>
+<td style="text-align: left;">40</td>
+</tr>
+<tr>
+<td style="text-align: left;">Vinduer samt forsatsrammer og koblede rammer<br />
+</td>
+<td style="text-align: left;">30</td>
+</tr>
+<tr>
+<td style="text-align: left;">Varmeanlæg, radiatorer og gulvvarme samt ventilationskanaler og armaturer inklusive isolering<br />
+</td>
+<td style="text-align: left;">30</td>
+</tr>
+<tr>
+<td style="text-align: left;">Varmeproducerende anlæg mv., f.eks. kedler, varmepumper, solvarmeanlæg, ventilationsaggregater<br />
+</td>
+<td style="text-align: left;">20</td>
+</tr>
+<tr>
+<td style="text-align: left;">Belysningsarmaturer<br />
+</td>
+<td style="text-align: left;">15</td>
+</tr>
+<tr>
+<td style="text-align: left;">Automatik til varme og klimaanlæg<br />
+</td>
+<td style="text-align: left;">15</td>
+</tr>
+<tr>
+<td style="text-align: left;">Fugetætningsarbejder<br />
+</td>
+<td style="text-align: left;">10</td>
+</tr>
+</tbody>
+</table>
 
 Der kan gennemføres bygningsmæssige ændringer, der medfører et forøget energiforbrug, hvis der gennemføres tilsvarende kompenserende energibesparelser. Denne bestemmelse finder f.eks. anvendelse, hvis der ønskes etableret nye vinduespartier i facaden eller i taget. Den manglende energimæssige ydeevne dækkes f.eks. ved merisolering, solvarmeanlæg, varmepumpeanlæg eller solceller.
 

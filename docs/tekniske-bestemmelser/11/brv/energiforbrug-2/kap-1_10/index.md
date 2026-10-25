@@ -400,20 +400,44 @@ Hvis der gennemføres trykprøvning af bygningen eller dele af bygningen, så ka
 
 Trykprøvning af bygninger gennemføres i henhold til *DS/EN ISO 9972 Bygningers termiske ydeevne - Bestemmelse af bygningers luftgennemtrængelighed - Prøvningsmetode med overtryk skabt af ventilator*. Kravene eftervises ved brug af Metode 3 i DS/EN ISO 9972, hvor nedenstående tabel benyttes i forhold til hvordan åbninger i klima- skærmen skal håndteres. Tabellen svarer til Tabel 1 i afsnit 5.2.3 i DS/EN ISO 9972.
 
-  -------------------------------------------------------------------- --------------------------------------------------------------
-  Type af åbning i klimaskærm\                                         Hvordan åbningen håndteres i forbindelse med trykprøvning
-
-   Åbninger for naturlig ventilation\                                   Lukkes
-
-   Åbninger for centrale ventilationsanlæg eller lignende\              Forsegles - Anlæg slukkes under måling
-
-   Åbninger til mekanisk ventilationsanlæg, der benyttes kortvarigt\    Forsegles - Anlæg slukkes under måling
-
-   Vinduer, døre, lemme og lignende i klimaskærmen\                     Lukkes
-
-   Øvrige åbninger, der ikke er beregnet til ventilation\               Lukkes - Vakuumventiler eller afløb uden vandlås forsegles
-
-  -------------------------------------------------------------------- --------------------------------------------------------------
+<table style="width:99%;">
+<colgroup>
+<col style="width: 51%" />
+<col style="width: 47%" />
+</colgroup>
+<tbody>
+<tr>
+<td style="text-align: left;">Type af åbning i klimaskærm<br />
+</td>
+<td style="text-align: left;">Hvordan åbningen håndteres i forbindelse med trykprøvning</td>
+</tr>
+<tr>
+<td style="text-align: left;"> Åbninger for naturlig ventilation<br />
+</td>
+<td style="text-align: left;"> Lukkes</td>
+</tr>
+<tr>
+<td style="text-align: left;"> Åbninger for centrale ventilationsanlæg eller lignende<br />
+</td>
+<td style="text-align: left;"> Forsegles - Anlæg slukkes under måling</td>
+</tr>
+<tr>
+<td style="text-align: left;"> Åbninger til mekanisk ventilationsanlæg, der benyttes kortvarigt<br />
+</td>
+<td style="text-align: left;"> Forsegles - Anlæg slukkes under måling</td>
+</tr>
+<tr>
+<td style="text-align: left;"> Vinduer, døre, lemme og lignende i klimaskærmen<br />
+</td>
+<td style="text-align: left;"> Lukkes</td>
+</tr>
+<tr>
+<td style="text-align: left;"> Øvrige åbninger, der ikke er beregnet til ventilation<br />
+</td>
+<td style="text-align: left;"> Lukkes - Vakuumventiler eller afløb uden vandlås forsegles</td>
+</tr>
+</tbody>
+</table>
 
 Bygninger over 10 meter kan testes, hvis bygningshøjde gange temperaturforskel er mindre end 500 mK.
 
@@ -583,23 +607,53 @@ Der henvises til Bygningsreglementets vejledning om efterisolering, der indehold
 
  Levetider der normalt kan anvendes ved beregning af rentabiliteten:
 
-  ------------------------------------------------------------------------------------------------- -----------------------------------
-  Energibesparende tiltag                                                                           Levetid \[år\]
-
-  Efterisolering af bygningsdele\                                                                   40
-
-  Vinduer samt forsatsrammer og koblede rammer\                                                     30
-
-  Varmeanlæg, radiatorer og gulvvarme samt ventilationskanaler og armaturer inklusive isolering\    30
-
-  Varmeproducerende anlæg mv., f.eks. kedler, varmepumper, solvarmeanlæg, ventilationsaggregater\   20
-
-  Belysningsarmaturer\                                                                              15
-
-  Automatik til varme og klimaanlæg\                                                                15
-
-  Fugetætningsarbejder\                                                                             10
-  ------------------------------------------------------------------------------------------------- -----------------------------------
+<table style="width:99%;">
+<colgroup>
+<col style="width: 72%" />
+<col style="width: 26%" />
+</colgroup>
+<tbody>
+<tr>
+<td style="text-align: left;">Energibesparende tiltag </td>
+<td style="text-align: left;">Levetid [år]</td>
+</tr>
+<tr>
+<td style="text-align: left;">Efterisolering af bygningsdele<br />
+</td>
+<td style="text-align: left;">40</td>
+</tr>
+<tr>
+<td style="text-align: left;">Vinduer samt forsatsrammer og koblede rammer<br />
+</td>
+<td style="text-align: left;">30</td>
+</tr>
+<tr>
+<td style="text-align: left;">Varmeanlæg, radiatorer og gulvvarme samt ventilationskanaler og armaturer inklusive isolering<br />
+</td>
+<td style="text-align: left;">30</td>
+</tr>
+<tr>
+<td style="text-align: left;">Varmeproducerende anlæg mv., f.eks. kedler, varmepumper, solvarmeanlæg, ventilationsaggregater<br />
+</td>
+<td style="text-align: left;">20</td>
+</tr>
+<tr>
+<td style="text-align: left;">Belysningsarmaturer<br />
+</td>
+<td style="text-align: left;">15</td>
+</tr>
+<tr>
+<td style="text-align: left;">Automatik til varme og klimaanlæg<br />
+</td>
+<td style="text-align: left;">15</td>
+</tr>
+<tr>
+<td style="text-align: left;">Fugetætningsarbejder<br />
+</td>
+<td style="text-align: left;">10</td>
+</tr>
+</tbody>
+</table>
 
 Der kan gennemføres bygningsmæssige ændringer, der medfører et forøget energiforbrug, hvis der gennemføres tilsvarende kompenserende energibesparelser. Denne bestemmelse finder f.eks. anvendelse, hvis der ønskes etableret nye vinduespartier i facaden eller i taget. Den manglende energimæssige ydeevne dækkes f.eks. ved merisolering, solvarmeanlæg, varmepumpeanlæg eller solceller.
 

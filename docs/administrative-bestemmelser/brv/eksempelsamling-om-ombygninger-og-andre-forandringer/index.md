@@ -128,63 +128,131 @@ Ved nogle af nedenstående eksempler er der tilknyttet specifikke forudsætninge
 
 Udover de specifikke forudsætninger, forudsættes det generelt for de eksempler, der ikke skal indplaceres i en konstruktionsklasse og/eller brandklasse, at byggearbejdet ikke ændrer de bærende konstruktioners virkemåde og/eller forudsætningerne for de brandmæssige forhold på anden vis.
 
-+--------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Tabel 1: Eksempler på ombygninger og andre forandringer i etageboligbyggeri der kræver byggetilladelse**                                                                                                                                                                                                                                                                                                                                                                                       |
-+--------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Byggearbejde**                                                                                                   | **Skal indplaceres i konstruktions-klasse 2-4, og en certificeret statiker skal tilknyttes**  | **Skal indplaceres i brandklasse 2-4, og en certificeret brandrådgiver skal tilknyttes** | **Specifikke forudsætninger**                                                                                                                                                    |
-+--------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Nyt dørhul/vindueshul i intern bærende væg.                                                                        | Ja                                                                                            | Nej                                                                                      | Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold.                                                                            |
-+--------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Udvidelse af dørhul/vindueshul (i bredden) i bærende væg.                                                          | Ja                                                                                            | Nej                                                                                      | Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold.                                                                            |
-+--------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Fuld eller delvis nedrivning af bærende dele f.eks. væg, søjler, bjælker eller etagedæk.                           | Ja                                                                                            | Nej                                                                                      | Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold.                                                                            |
-+--------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Delvis fjernelse af spær i tagkonstruktionen, f.eks. i forbindelse med etablering af en kvist.                     | Ja                                                                                            | Nej                                                                                      | Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold.                                                                            |
-|                                                                                                                    |                                                                                               |                                                                                          |                                                                                                                                                                                  |
-|                                                                                                                    |                                                                                               |                                                                                          | Forudsætter bl.a., at kvisten udføres med samme udvendige beklædning som bygningen generelt.                                                                                     |
-+--------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Ny kvist, der udvider etagearealet.                                                                                | Nej                                                                                           | Nej                                                                                      | Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold.                                                                            |
-|                                                                                                                    |                                                                                               |                                                                                          |                                                                                                                                                                                  |
-|                                                                                                                    |                                                                                               |                                                                                          | Forudsætter bl.a., at kvisten udføres med samme udvendige beklædning som bygningen generelt.                                                                                     |
-|                                                                                                                    |                                                                                               |                                                                                          |                                                                                                                                                                                  |
-|                                                                                                                    |                                                                                               |                                                                                          | Forudsætter bl.a., at der ikke etableres udveksling i spær i tagkonstruktionen.                                                                                                  |
-+--------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Udvidelse af eksisterende kvist, der udvider etagearealet.                                                         | Nej                                                                                           | Nej                                                                                      | Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold.                                                                            |
-|                                                                                                                    |                                                                                               |                                                                                          |                                                                                                                                                                                  |
-|                                                                                                                    |                                                                                               |                                                                                          | Forudsætter bl.a., at kvisten udføres med samme udvendige beklædning som bygningen generelt.                                                                                     |
-|                                                                                                                    |                                                                                               |                                                                                          |                                                                                                                                                                                  |
-|                                                                                                                    |                                                                                               |                                                                                          | Forudsætter bl.a., at der ikke udveksles i spær i tagkonstruktionen.                                                                                                             |
-+--------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Udveksling i spær for en tagaltan.                                                                                 | Ja                                                                                            | Nej                                                                                      | Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold.                                                                            |
-+--------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Udveksling i bærende bjælkelag for at etablere en intern trappe.                                                   | Ja                                                                                            | Nej                                                                                      | Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold.                                                                            |
-+--------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Udvidelse af vindueshul til dørhul med større bredde i bærende væg, hvor der f.eks. etableres en fransk altan.     | Ja                                                                                            | Nej                                                                                      | Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold.                                                                            |
-+--------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Nedlæggelse af lyskasser, hvor lyskassen er påkrævet af brandmæssige årsager.                                      | Nej                                                                                           | Ja                                                                                       |                                                                                                                                                                                  |
-+--------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Blænding af alle døre til sekundært trapperum, der er påkrævet af brandmæssige årsager (også ved sammenlægninger). | Nej                                                                                           | Ja                                                                                       |                                                                                                                                                                                  |
-+--------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Nedlæggelse af sekundært trapperum til beboelse, hvor der udføres nyt etagedæk i det gamle trapperum.              | Ja                                                                                            | Ja                                                                                       |                                                                                                                                                                                  |
-+--------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Udvendig efterisolering, hvor der sker indgreb i den bærende del af væggen.                                        | Ja                                                                                            | Nej                                                                                      | Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold.                                                                            |
-|                                                                                                                    |                                                                                               |                                                                                          |                                                                                                                                                                                  |
-|                                                                                                                    |                                                                                               |                                                                                          | Forudsætter bl.a., at afstanden fra den udvendige efterisolering til skel og bygninger på samme grund ikke kræver yderligere tiltag i forhold til ydervæggens brandmostandsevne. |
-|                                                                                                                    |                                                                                               |                                                                                          |                                                                                                                                                                                  |
-|                                                                                                                    |                                                                                               |                                                                                          | Forudsætter bl.a., at der ikke anvendes brændbart isoleringsmateriale.                                                                                                           |
-|                                                                                                                    |                                                                                               |                                                                                          |                                                                                                                                                                                  |
-|                                                                                                                    |                                                                                               |                                                                                          | Forudsætter bl.a., at der ikke etableres gennemgående hulrum.                                                                                                                    |
-+--------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Etablering af åben altan.                                                                                          | Ja                                                                                            | Nej                                                                                      | Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold.                                                                            |
-|                                                                                                                    |                                                                                               |                                                                                          |                                                                                                                                                                                  |
-|                                                                                                                    |                                                                                               |                                                                                          | Forudsætter bl.a., at beredskabets indsatsmuligheder ikke påvirkes negativt.                                                                                                     |
-|                                                                                                                    |                                                                                               |                                                                                          |                                                                                                                                                                                  |
-|                                                                                                                    |                                                                                               |                                                                                          | Se også bygningsreglementets [spørgsmål og svar om altaner og certificerede rådgivere](../spoergsmaal-og-svar).                            |
-+--------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Udnyttelse af uudnyttet tagetage til beboelse.                                                                     | Ja                                                                                            | Ja                                                                                       |                                                                                                                                                                                  |
-+--------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Udnyttelse af pulterrum i udnyttelig tagetage til beboelse.                                                        | Ja                                                                                            | Ja                                                                                       |                                                                                                                                                                                  |
-+--------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+<table style="width:100%;">
+<colgroup>
+<col style="width: 24%" />
+<col style="width: 19%" />
+<col style="width: 18%" />
+<col style="width: 36%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="4"><strong>Tabel 1: Eksempler på ombygninger og andre forandringer i etageboligbyggeri der kræver byggetilladelse</strong></td>
+</tr>
+<tr>
+<td><strong>Byggearbejde</strong></td>
+<td><strong>Skal indplaceres i konstruktions-klasse 2-4, og en certificeret statiker skal tilknyttes</strong></td>
+<td><strong>Skal indplaceres i brandklasse 2-4, og en certificeret brandrådgiver skal tilknyttes</strong></td>
+<td><strong>Specifikke forudsætninger</strong></td>
+</tr>
+<tr>
+<td>Nyt dørhul/vindueshul i intern bærende væg.</td>
+<td>Ja</td>
+<td>Nej</td>
+<td>Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold.</td>
+</tr>
+<tr>
+<td>Udvidelse af dørhul/vindueshul (i bredden) i bærende væg.</td>
+<td>Ja</td>
+<td>Nej</td>
+<td>Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold.</td>
+</tr>
+<tr>
+<td>Fuld eller delvis nedrivning af bærende dele f.eks. væg, søjler, bjælker eller etagedæk.</td>
+<td>Ja</td>
+<td>Nej</td>
+<td>Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold.</td>
+</tr>
+<tr>
+<td>Delvis fjernelse af spær i tagkonstruktionen, f.eks. i forbindelse med etablering af en kvist.</td>
+<td>Ja</td>
+<td>Nej</td>
+<td><p>Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold.</p>
+<p>Forudsætter bl.a., at kvisten udføres med samme udvendige beklædning som bygningen generelt.</p></td>
+</tr>
+<tr>
+<td>Ny kvist, der udvider etagearealet.</td>
+<td>Nej</td>
+<td>Nej</td>
+<td><p>Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold.</p>
+<p>Forudsætter bl.a., at kvisten udføres med samme udvendige beklædning som bygningen generelt.</p>
+<p>Forudsætter bl.a., at der ikke etableres udveksling i spær i tagkonstruktionen.</p></td>
+</tr>
+<tr>
+<td>Udvidelse af eksisterende kvist, der udvider etagearealet.</td>
+<td>Nej</td>
+<td>Nej</td>
+<td><p>Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold.</p>
+<p>Forudsætter bl.a., at kvisten udføres med samme udvendige beklædning som bygningen generelt.</p>
+<p>Forudsætter bl.a., at der ikke udveksles i spær i tagkonstruktionen.</p></td>
+</tr>
+<tr>
+<td>Udveksling i spær for en tagaltan.</td>
+<td>Ja</td>
+<td>Nej</td>
+<td>Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold.</td>
+</tr>
+<tr>
+<td>Udveksling i bærende bjælkelag for at etablere en intern trappe.</td>
+<td>Ja</td>
+<td>Nej</td>
+<td>Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold.</td>
+</tr>
+<tr>
+<td>Udvidelse af vindueshul til dørhul med større bredde i bærende væg, hvor der f.eks. etableres en fransk altan.</td>
+<td>Ja</td>
+<td>Nej</td>
+<td>Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold.</td>
+</tr>
+<tr>
+<td>Nedlæggelse af lyskasser, hvor lyskassen er påkrævet af brandmæssige årsager.</td>
+<td>Nej</td>
+<td>Ja</td>
+<td></td>
+</tr>
+<tr>
+<td>Blænding af alle døre til sekundært trapperum, der er påkrævet af brandmæssige årsager (også ved sammenlægninger).</td>
+<td>Nej</td>
+<td>Ja</td>
+<td></td>
+</tr>
+<tr>
+<td>Nedlæggelse af sekundært trapperum til beboelse, hvor der udføres nyt etagedæk i det gamle trapperum.</td>
+<td>Ja</td>
+<td>Ja</td>
+<td></td>
+</tr>
+<tr>
+<td>Udvendig efterisolering, hvor der sker indgreb i den bærende del af væggen.</td>
+<td>Ja</td>
+<td>Nej</td>
+<td><p>Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold.</p>
+<p>Forudsætter bl.a., at afstanden fra den udvendige efterisolering til skel og bygninger på samme grund ikke kræver yderligere tiltag i forhold til ydervæggens brandmostandsevne.</p>
+<p>Forudsætter bl.a., at der ikke anvendes brændbart isoleringsmateriale.</p>
+<p>Forudsætter bl.a., at der ikke etableres gennemgående hulrum.</p></td>
+</tr>
+<tr>
+<td>Etablering af åben altan.</td>
+<td>Ja</td>
+<td>Nej</td>
+<td><p>Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold.</p>
+<p>Forudsætter bl.a., at beredskabets indsatsmuligheder ikke påvirkes negativt.</p>
+<p>Se også bygningsreglementets <a href="../spoergsmaal-og-svar">spørgsmål og svar om altaner og certificerede rådgivere</a>.</p></td>
+</tr>
+<tr>
+<td>Udnyttelse af uudnyttet tagetage til beboelse.</td>
+<td>Ja</td>
+<td>Ja</td>
+<td></td>
+</tr>
+<tr>
+<td>Udnyttelse af pulterrum i udnyttelig tagetage til beboelse.</td>
+<td>Ja</td>
+<td>Ja</td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### Ombygninger og andre forandringer der kan udføres uden ansøgning om byggetilladelse {#9561ac47-4b09-4b1c-87ed-1332e9e5dd07}
 
@@ -192,39 +260,65 @@ Ved nogle af de nedenstående eksempler er der tilknyttet specifikke forudsætni
 
 Udover de specifikke forudsætninger, forudsættes det generelt for alle eksempler, at byggearbejde ikke ændrer de bærende konstruktioners virkemåde og/eller forudsætningerne for de brandmæssige forhold på anden vis. Det forudsættes yderligere, at byggearbejdet ikke udvider etagearealet, ændre anvendelsen væsentligt, eller ændre andre forhold, der medfører, at der skal ansøges om byggetilladelse.
 
-+-------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
-| **Tabel 2: Eksempler på ombygninger og andre forandringer i etageboligbyggeri, der kan udføres uden ansøgning om byggetilladelse**                                                                                                        |
-+-------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
-| **Byggearbejde**                                                                                      | **Specifikke forudsætninger**                                                                                                     |
-+-------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
-| Udvidelse af wc-rum med bad, hvor der sker ny rørgennemføring gennem etageadskillelse.                | Forudsætter bl.a., at gennemføringen udføres med brandtætninger, der har samme brandmodstandsevne som den pågældende bygningsdel. |
-|                                                                                                       |                                                                                                                                   |
-|                                                                                                       | Forudsætter bl.a., at evt. ændring i etagedæk retableres på tilsvarende måde som eksisterende etagedæk.                           |
-+-------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
-| Nyt badeværelse eller wc-rum i andet rum, hvor der sker ny rørgennemføring gennem etageadskillelse.   | Forudsætter bl.a., at gennemføringen udføres med brandtætning, der har samme brandmodstandsevne som den pågældende bygningsdel.   |
-|                                                                                                       |                                                                                                                                   |
-|                                                                                                       | Forudsætter bl.a., at evt. ændring i etagedæk retableres på tilsvarende måde som eksisterende etagedæk.                           |
-+-------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
-| Flytning af køkken til andet rum.                                                                     |                                                                                                                                   |
-+-------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
-| Nedrivning af ikke-bærende vægge (gælder også vægge mellem boliger ved sammenlægning af lejligheder). |                                                                                                                                   |
-+-------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
-| Opdeling af rum med skillevæg.                                                                        | Forudsætter bl.a., at adgang til redningsåbninger og flugtveje via trapperne ikke forringes i forhold til kravene i BR18.         |
-+-------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
-| Blænding af internt dørhul.                                                                           | Forudsætter bl.a., at adgang til redningsåbninger og flugtveje ikke forringes i forhold til kravene i BR18.                       |
-+-------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
-| Udvidelse af vindueshul til dørhul med samme bredde i bærende væg samt etablering af fransk altan.    | Forudsætter bl.a., at dørhullet har højst samme bredde som det eksisterende hul til vinduet.                                      |
-|                                                                                                       |                                                                                                                                   |
-|                                                                                                       | Forudsætter bl.a., at vinduets/dørens eventuelle funktion som redningsåbning bibeholdes.                                          |
-|                                                                                                       |                                                                                                                                   |
-|                                                                                                       | Forudsætter at vægges eventuelle afstivende funktion bibeholdes.                                                                  |
-+-------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
-| Blænding af én dør til primært trapperum ved sammenlægning af lejligheder på samme etage.             | Forudsætter bl.a., at der fortsat er adgang til mindst én dør til primært trapperum.                                              |
-+-------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
-| Blænding af dør til sekundært trapperum ved sammenlægning af lejligheder på samme etage.              | Forudsætter bl.a., at der fortsat er adgang til mindst én dør til sekundært trapperum.                                            |
-+-------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
-| Nedlæggelse af lyskasser.                                                                             | Forudsætter bl.a., at lyskasserne ikke er påkrævet af brandmæssige årsager, f.eks. røgudluftning.                                 |
-+-------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
+<table>
+<colgroup>
+<col style="width: 44%" />
+<col style="width: 55%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><strong>Tabel 2: Eksempler på ombygninger og andre forandringer i etageboligbyggeri, der kan udføres uden ansøgning om byggetilladelse</strong></td>
+</tr>
+<tr>
+<td><strong>Byggearbejde</strong></td>
+<td><strong>Specifikke forudsætninger</strong></td>
+</tr>
+<tr>
+<td>Udvidelse af wc-rum med bad, hvor der sker ny rørgennemføring gennem etageadskillelse.</td>
+<td><p>Forudsætter bl.a., at gennemføringen udføres med brandtætninger, der har samme brandmodstandsevne som den pågældende bygningsdel.</p>
+<p>Forudsætter bl.a., at evt. ændring i etagedæk retableres på tilsvarende måde som eksisterende etagedæk.</p></td>
+</tr>
+<tr>
+<td>Nyt badeværelse eller wc-rum i andet rum, hvor der sker ny rørgennemføring gennem etageadskillelse.</td>
+<td><p>Forudsætter bl.a., at gennemføringen udføres med brandtætning, der har samme brandmodstandsevne som den pågældende bygningsdel.</p>
+<p>Forudsætter bl.a., at evt. ændring i etagedæk retableres på tilsvarende måde som eksisterende etagedæk.</p></td>
+</tr>
+<tr>
+<td>Flytning af køkken til andet rum.</td>
+<td></td>
+</tr>
+<tr>
+<td>Nedrivning af ikke-bærende vægge (gælder også vægge mellem boliger ved sammenlægning af lejligheder).</td>
+<td></td>
+</tr>
+<tr>
+<td>Opdeling af rum med skillevæg.</td>
+<td>Forudsætter bl.a., at adgang til redningsåbninger og flugtveje via trapperne ikke forringes i forhold til kravene i BR18.</td>
+</tr>
+<tr>
+<td>Blænding af internt dørhul.</td>
+<td>Forudsætter bl.a., at adgang til redningsåbninger og flugtveje ikke forringes i forhold til kravene i BR18.</td>
+</tr>
+<tr>
+<td>Udvidelse af vindueshul til dørhul med samme bredde i bærende væg samt etablering af fransk altan.</td>
+<td><p>Forudsætter bl.a., at dørhullet har højst samme bredde som det eksisterende hul til vinduet.</p>
+<p>Forudsætter bl.a., at vinduets/dørens eventuelle funktion som redningsåbning bibeholdes.</p>
+<p>Forudsætter at vægges eventuelle afstivende funktion bibeholdes.</p></td>
+</tr>
+<tr>
+<td>Blænding af én dør til primært trapperum ved sammenlægning af lejligheder på samme etage.</td>
+<td>Forudsætter bl.a., at der fortsat er adgang til mindst én dør til primært trapperum.</td>
+</tr>
+<tr>
+<td>Blænding af dør til sekundært trapperum ved sammenlægning af lejligheder på samme etage.</td>
+<td>Forudsætter bl.a., at der fortsat er adgang til mindst én dør til sekundært trapperum.</td>
+</tr>
+<tr>
+<td>Nedlæggelse af lyskasser.</td>
+<td>Forudsætter bl.a., at lyskasserne ikke er påkrævet af brandmæssige årsager, f.eks. røgudluftning.</td>
+</tr>
+</tbody>
+</table>
 
 ### Enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse - Eksempler på ombygninger og andre forandringer {#0c0b0cd0-4953-4816-91f1-d2a02999a2a8}
 
@@ -240,68 +334,87 @@ Det forudsættes generelt for alle nedenstående eksempler, der ikke skal indpla
 
 Det forudsættes ydermere for de eksempler, der skal indplaceres i en konstruktionsklasse og brandklasse, at det pågældende konstruktionsafsnit og bygningsafsnit kan indplaceres i konstruktionsklasse 1 og brandklasse 1, således, at der ikke skal tilknyttes en certificeret statiker og brandrådgiver som angivet.
 
-+------------------------------------------------------------------------------------------------+--------------------------------------------+------------------------------------+-------------------------------------------+------------------------------------------------+
-| **Tabel 3: Eksempler på ombygninger og andre forandringer i enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse der kræver byggetilladelse**                                                                                                                                  |
-+------------------------------------------------------------------------------------------------+--------------------------------------------+------------------------------------+-------------------------------------------+------------------------------------------------+
-| **Byggearbejde**                                                                               | **Skal indplaceres i konstruktionsklasse** | **Skal indplaceres i brandklasse** | **Certificeret statiker skal tilknyttes** | **Certificeret brandrådgiver skal tilknyttes** |
-+------------------------------------------------------------------------------------------------+--------------------------------------------+------------------------------------+-------------------------------------------+------------------------------------------------+
-| Etablering af kvist, der udvider etagearealet.                                                 | Nej                                        | Nej                                | Nej                                       | Nej                                            |
-+------------------------------------------------------------------------------------------------+--------------------------------------------+------------------------------------+-------------------------------------------+------------------------------------------------+
-| Udvendig efterisolering på mere end 25 cm, der udvider etagearealet.                           | Nej                                        | Nej                                | Nej                                       | Nej                                            |
-+------------------------------------------------------------------------------------------------+--------------------------------------------+------------------------------------+-------------------------------------------+------------------------------------------------+
-| Indretning af liberalt erhverv, der er en ændring af en hel beboelse til erhvervsformål.       | Nej                                        | Nej                                | Nej                                       | Nej                                            |
-+------------------------------------------------------------------------------------------------+--------------------------------------------+------------------------------------+-------------------------------------------+------------------------------------------------+
-| Udnyttelse af uudnyttet tagetage til beboelse, der udvider etagearealet.                       | Ja                                         | Ja                                 | Nej                                       | Nej                                            |
-+------------------------------------------------------------------------------------------------+--------------------------------------------+------------------------------------+-------------------------------------------+------------------------------------------------+
-| Udnyttelse af pulterrum i udnyttelig tagetage til beboelse, der ændrer anvendelsen væsentligt. | Ja                                         | Ja                                 | Nej                                       | Nej                                            |
-+------------------------------------------------------------------------------------------------+--------------------------------------------+------------------------------------+-------------------------------------------+------------------------------------------------+
+<table style="width:99%;">
+<colgroup>
+<col style="width: 35%" />
+<col style="width: 16%" />
+<col style="width: 13%" />
+<col style="width: 16%" />
+<col style="width: 17%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="5"><strong>Tabel 3: Eksempler på ombygninger og andre forandringer i enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse der kræver byggetilladelse</strong></td>
+</tr>
+<tr>
+<td><strong>Byggearbejde</strong></td>
+<td><strong>Skal indplaceres i konstruktionsklasse</strong></td>
+<td><strong>Skal indplaceres i brandklasse</strong></td>
+<td><strong>Certificeret statiker skal tilknyttes</strong></td>
+<td><strong>Certificeret brandrådgiver skal tilknyttes</strong></td>
+</tr>
+<tr>
+<td>Etablering af kvist, der udvider etagearealet.</td>
+<td>Nej</td>
+<td>Nej</td>
+<td>Nej</td>
+<td>Nej</td>
+</tr>
+<tr>
+<td>Udvendig efterisolering på mere end 25 cm, der udvider etagearealet.</td>
+<td>Nej</td>
+<td>Nej</td>
+<td>Nej</td>
+<td>Nej</td>
+</tr>
+<tr>
+<td>Indretning af liberalt erhverv, der er en ændring af en hel beboelse til erhvervsformål.</td>
+<td>Nej</td>
+<td>Nej</td>
+<td>Nej</td>
+<td>Nej</td>
+</tr>
+<tr>
+<td>Udnyttelse af uudnyttet tagetage til beboelse, der udvider etagearealet.</td>
+<td>Ja</td>
+<td>Ja</td>
+<td>Nej</td>
+<td>Nej</td>
+</tr>
+<tr>
+<td>Udnyttelse af pulterrum i udnyttelig tagetage til beboelse, der ændrer anvendelsen væsentligt.</td>
+<td>Ja</td>
+<td>Ja</td>
+<td>Nej</td>
+<td>Nej</td>
+</tr>
+</tbody>
+</table>
 
 ### Ombygninger og andre forandringer der kan udføres uden ansøgning om byggetilladelse {#9adc1b1f-315c-4069-97b9-35c305f352ac}
 
 Det forudsættes generelt for alle nedenstående eksempler, at byggearbejdet ikke udvider etagearealet, ændrer anvendelsen væsentligt, eller omfatter andre forhold der medfører, at der skal ansøges om byggetilladelse.
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Tabel 4: Eksempler på ombygninger og andre forandringer i enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse, der kan udføres uden ansøgning om byggetilladelse**                                                                                                                                                                                                                                                                                                                                                |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Byggearbejde**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Etablering af større vinduespartier og døre i facaden.                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Udskiftning af vinduer. (Såfremt der er installeret røgalarmanlæg i huset udført i henhold til beskrivelserne i *Bygningsreglementets vejledning til kapitel 5 -- Brand*, bilag 12, afsnit 5.4, behøves nye vinduer ikke at have funktion som redningsåbninger for personredning.)                                                                                                                                                                                                                                  |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Etablering af ovenlys.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Sammenlægning af rum for at få opholdsplads i forbindelse med køkken.                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Sammenlægning af badeværelse og gæstetoilet.                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Sammenlægning af opholdsrum.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Opdeling af rum.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Nedlæggelse af gang og entré, der inddrages til f.eks. opholdsrum.                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Nedlæggelse af bryggers, der inddrages til f.eks. badeværelse.                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  |
+|------------------------------------------------------------------------|
+| **Tabel 4: Eksempler på ombygninger og andre forandringer i enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse, der kan udføres uden ansøgning om byggetilladelse** |
+| **Byggearbejde** |
+| Etablering af større vinduespartier og døre i facaden. |
+| Udskiftning af vinduer. (Såfremt der er installeret røgalarmanlæg i huset udført i henhold til beskrivelserne i *Bygningsreglementets vejledning til kapitel 5 -- Brand*, bilag 12, afsnit 5.4, behøves nye vinduer ikke at have funktion som redningsåbninger for personredning.) |
+| Etablering af ovenlys. |
+| Sammenlægning af rum for at få opholdsplads i forbindelse med køkken. |
+| Sammenlægning af badeværelse og gæstetoilet. |
+| Sammenlægning af opholdsrum. |
+| Opdeling af rum. |
+| Nedlæggelse af gang og entré, der inddrages til f.eks. opholdsrum. |
+| Nedlæggelse af bryggers, der inddrages til f.eks. badeværelse. |
 | Åbning af brandmæssig adskillelse til kælderetage. (Dette kan dog kun udføres såfremt der ikke er tekniske installationer med stor risiko for antændelse eller stor brandbelastning. Eksempler herpå er oliefyr, pillefyr, koksfyr mv. inklusiv deres oplag. Disse skal placeres i selvstændig brandcelle. Tillige er det under forudsætning af, at der er installeret røgalarmanlæg i huset udført i henhold til beskrivelserne i *Bygningsreglementets vejledning til kapitel 5 -- Brand*, bilag 12, afsnit 5.4.) |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Udskiftning af tagkonstruktionen.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Åbning af brandmæssig adskillelse internt i enfamilieshuse, dog ikke til garager eller teknikrum. (For enfamilieshuse i 3 etager, dog for en  boligenhed med et samlet etageareal på højst 150 m^2^. Dette er under forudsætning af, at der er installeret røgalarmanlæg i huset udført i henhold til beskrivelserne i *Bygningsreglementets vejledning til kapitel 5 -- Brand*, bilag 12, afsnit 5.4.)                                                                                                             |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Nyt dørhul/vindueshul i bærende væg.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Fuld eller delvis nedrivning af bærende væg.                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Udveksling i en bærende bjælke for at etablere en intern trappe.                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Udvendig efterisolering i væg og tagflade på højst 25 cm.                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Udvendig efterisolering eller fugtisolering af kælderydervægge.                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Etablering af hems med areal på højst 4,5 m².                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Indretning af liberalt erhverv, der ikke er en ændring af en hel beboelse til erhvervsformål.                                                                                                                                                                                                                                                                                                                                                                                                                       |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Udskiftning af tagkonstruktionen. |
+| Åbning af brandmæssig adskillelse internt i enfamilieshuse, dog ikke til garager eller teknikrum. (For enfamilieshuse i 3 etager, dog for en  boligenhed med et samlet etageareal på højst 150 m^2^. Dette er under forudsætning af, at der er installeret røgalarmanlæg i huset udført i henhold til beskrivelserne i *Bygningsreglementets vejledning til kapitel 5 -- Brand*, bilag 12, afsnit 5.4.) |
+| Nyt dørhul/vindueshul i bærende væg. |
+| Fuld eller delvis nedrivning af bærende væg. |
+| Udveksling i en bærende bjælke for at etablere en intern trappe. |
+| Udvendig efterisolering i væg og tagflade på højst 25 cm. |
+| Udvendig efterisolering eller fugtisolering af kælderydervægge. |
+| Etablering af hems med areal på højst 4,5 m². |
+| Indretning af liberalt erhverv, der ikke er en ændring af en hel beboelse til erhvervsformål. |
