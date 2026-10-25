@@ -2,19 +2,19 @@
 
 ## Se alle vejledninger om Bygningens indretning (§ 196 - § 241)
 
-- [Spørgsmål og svar om bygningens indretning](../qa)
+- [Spørgsmål og svar om bygningens indretning](../qa/)
 - [Vejledning om boligindretning](./)
-- [Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger](../bygningsglas)
+- [Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger](../bygningsglas/)
 
 ## Vejledning om boligindretning
 
-### Kolofon
+### Kolofon {#818585de-abef-41f2-b417-27010078f7d0}
 
 **Bygningsreglementets vejledning om boligindretning**
 
 2. udgave, September 2022
 
-### Forord
+### Forord {#a65228a9-ae42-48b3-b79b-97cd2de40d36}
 
 Målsætningen med denne vejledning er, at beskrive hvilke muligheder man har indenfor lovgivningens rammer for at planlægge en bolig, der sikre en god boligkvalitet. Vejledningen adskiller sig fra de fleste andre vejledninger til BR18 idet den ikke beskriver konkrete løsninger men i højere grad beskriver de overvejelser man bør gøre i forbindelse med planlægningen af boligbyggeri. Det betyder at vejledningen primært retter sig mod to målgrupper: bygherre og rådgivere (arkitekten, ingeniøren m.fl.).
 
@@ -330,7 +330,7 @@ Illustration 11: Ved indgangen til boligen har man brug for at kunne hænge over
 
 ### 3.2. At lave mad {#e5951ab1-95e3-4dfb-9f63-a0e915cad343}
 
-Køkkenet er et centralt sted i boligen og ofte et af de mest anvendte fællesarealer i boligen. Køkkenet er et arbejdssted, hvor man enten alene eller i fællesskab med familie eller venner samles om aktiviteten 'at lave mad'. På den måde fungerer køkkenet både som socialt samlingssted og som arbejdssted, hvor mange specifikke funktioner i forbindelse med madlavningen skal fungere bedst muligt.
+Køkkenet er et centralt sted i boligen og ofte et af de mest anvendte fællesarealer i boligen. Køkkenet er et arbejdssted, hvor man enten alene eller i fællesskab med familie eller venner samles om aktiviteten ‘at lave mad’. På den måde fungerer køkkenet både som socialt samlingssted og som arbejdssted, hvor mange specifikke funktioner i forbindelse med madlavningen skal fungere bedst muligt.
 
 Køkkenet kan tilrettelægges med eller uden spiseplads: som et lille køkken, der fx er placeret i en niche, eller som et stort køkken-alrum med mange funktioner. Og køkkenet kan være udformet, så det åbner mere eller mindre op til resten af boligen. Det lukkede køkkenrum og det åbne køkken har hver deres fordele og ulemper. Det lukkede køkken kan optimeres i forhold til funktion og effektivitet og dermed være et koncentreret madlavningssted, hvor støj og mados bliver i køkkenet og ikke generer de andre rum og deres aktiviteter. Men det lukkede køkken tillader ikke umiddelbart den eller de personer, der laver mad, at have tæt kontakt til boligens andre rum og beboere. Det åbne køkken giver derimod personerne, der laver mad, god mulighed for at følge med i de andre beboeres aktiviteter, hvorved man ikke er isoleret omkring madlavningen. Det åbne køkken kan ligeledes være en god idé, hvis man ønsker at optimere pladsen og gøre en mindre bolig mere luftig og dermed skabe en oplevelse af større rumlighed. Ulempen er, at køkkenet, og dertilhørende mados og støj fra køkkenets aktiviteter, kan komme til at dominere en stor del af boligen. Derfor er det vigtigt, at der i det åbne køkken er god mulighed for ventilation, så mados og fugt fra madlavning kan mindskes.
 
@@ -392,7 +392,7 @@ Badeværelset er boligens mest private rum, der danner ramme om den daglige ruti
 
 Indrettes der et stort badeværelse, vil det samtidig give større anvendelighed for fx børnefamilier samt personer med behov for hjælpemidler. Se SBi-anvisning 249, Tilgængelige boliger – Indretning, 2.6 Bade- og wc-rum (Sigbrand, 2015).
 
-I en større bolig, og i en husstand med mere end fire beboere, kan det være praktisk med mere end ét wc-rum. I boliger i to planer bør der være et wc-rum på hver etage og badeværelse med wc på samme etage som soverummene. I boliger uden bryggers eller vaskerum bør der beregnes plads til vaskemaskine og tørretumbler i badeværelset. [](#dad94911-d8be-4830-9756-dcbefa202590)
+I en større bolig, og i en husstand med mere end fire beboere, kan det være praktisk med mere end ét wc-rum. I boliger i to planer bør der være et wc-rum på hver etage og badeværelse med wc på samme etage som soverummene. I boliger uden bryggers eller vaskerum bør der beregnes plads til vaskemaskine og tørretumbler i badeværelset.
 
 ### Appendix: Litteratur {#dad94911-d8be-4830-9756-dcbefa202590}
 
@@ -414,7 +414,7 @@ Duelund Mortensen, P. (2018). Viljeløst og fattigt på visioner. Arkitekten nr.
 
 Gehl, J. (2010). Byer for mennesker, Nykøbing Sjælland: Bogværket.
 
-Guttu, J. (2003). "Den gode boligen". Fagfolks oppfatning av boligkvalitet gjennom 50 år. Oslo: Arkitekthøgskolen i Oslo.
+Guttu, J. (2003). “Den gode boligen”. Fagfolks oppfatning av boligkvalitet gjennom 50 år. Oslo: Arkitekthøgskolen i Oslo.
 
 Johnsen, K., & Christoffersen, J. (2008). Dagslys i rum og bygninger (SBi-anvisning 219). Hørsholm: Statens Byggeforskningsinstitut. Aalborg Universitet.
 

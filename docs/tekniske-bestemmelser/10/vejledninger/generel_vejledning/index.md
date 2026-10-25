@@ -23,7 +23,7 @@ Anvendelsen af løfteplatforme skal ses som et muligt alternativ når det ikke e
 
 Det primære formål med kravene i kapitel 10 - Elevatorer, er at sikrer, at brugerne ved egen hjælp har adgang til bygningens etager og derved kan komme til bygningens funktioner. Derudover er formålet også at opnå et forsvarligt sikkerhedsniveau og begrænse energiforbruget ved design, udførelse, drift og vedligehold af elevatorerne.
 
-Der henvises til [vejledning om installationer i eksisterende bygninger](../../../../vejledninger/andre_vejledninger/vejledning/installationer-eksisterende-byggeri "Installationer eksisterende byggeri")
+Der henvises til [vejledning om installationer i eksisterende bygninger](../../../../vejledninger/andre_vejledninger/vejledning/installationer-eksisterende-byggeri/ "Installationer eksisterende byggeri")
 
 Bygningsreglementet behandler andetsteds andre krav til elevatorer såsom:
 
@@ -95,4 +95,3 @@ Før ibrugtagningen af elevatorer skal der gennemføres en funktionsafprøvning 
 ### 5.0. Dispensationer {#b58ca414-4e85-411b-a507-cfd66969d40b}
 
 Kommunalbestyrelsen kan efter en konkret vurdering vælge at dispensere for bestemmelserne i bygningsreglementet og f.eks. tillade en minielevator eller løfteplatform der ikke opfylder type 2 kravet. Dispensationen skal dog være foreneligt med de hensyn, der ligger bag den konkrete bestemmelse der dispenseres fra.
-

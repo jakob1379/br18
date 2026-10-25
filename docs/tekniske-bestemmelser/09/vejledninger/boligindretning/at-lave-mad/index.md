@@ -2,15 +2,15 @@
 
 ## Se alle vejledninger om Bygningens indretning (§ 196 - § 241)
 
-- [Spørgsmål og svar om bygningens indretning](../../qa)
-- [Vejledning om boligindretning](./)
-- [Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger](../../bygningsglas)
+- [Spørgsmål og svar om bygningens indretning](../../qa/)
+- [Vejledning om boligindretning](../)
+- [Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger](../../bygningsglas/)
 
 ## Vejledning om boligindretning
 
-### Kolofon
+### Kolofon {#818585de-abef-41f2-b417-27010078f7d0}
 
-### Forord
+### Forord {#a65228a9-ae42-48b3-b79b-97cd2de40d36}
 
 ### 1. Boligens beboere {#f036d581-3495-4f91-bd3a-93c1361c0e4d}
 
@@ -50,7 +50,7 @@
 
 ### 3.2. At lave mad {#e5951ab1-95e3-4dfb-9f63-a0e915cad343}
 
-Køkkenet er et centralt sted i boligen og ofte et af de mest anvendte fællesarealer i boligen. Køkkenet er et arbejdssted, hvor man enten alene eller i fællesskab med familie eller venner samles om aktiviteten 'at lave mad'. På den måde fungerer køkkenet både som socialt samlingssted og som arbejdssted, hvor mange specifikke funktioner i forbindelse med madlavningen skal fungere bedst muligt.
+Køkkenet er et centralt sted i boligen og ofte et af de mest anvendte fællesarealer i boligen. Køkkenet er et arbejdssted, hvor man enten alene eller i fællesskab med familie eller venner samles om aktiviteten ‘at lave mad’. På den måde fungerer køkkenet både som socialt samlingssted og som arbejdssted, hvor mange specifikke funktioner i forbindelse med madlavningen skal fungere bedst muligt.
 
 Køkkenet kan tilrettelægges med eller uden spiseplads: som et lille køkken, der fx er placeret i en niche, eller som et stort køkken-alrum med mange funktioner. Og køkkenet kan være udformet, så det åbner mere eller mindre op til resten af boligen. Det lukkede køkkenrum og det åbne køkken har hver deres fordele og ulemper. Det lukkede køkken kan optimeres i forhold til funktion og effektivitet og dermed være et koncentreret madlavningssted, hvor støj og mados bliver i køkkenet og ikke generer de andre rum og deres aktiviteter. Men det lukkede køkken tillader ikke umiddelbart den eller de personer, der laver mad, at have tæt kontakt til boligens andre rum og beboere. Det åbne køkken giver derimod personerne, der laver mad, god mulighed for at følge med i de andre beboeres aktiviteter, hvorved man ikke er isoleret omkring madlavningen. Det åbne køkken kan ligeledes være en god idé, hvis man ønsker at optimere pladsen og gøre en mindre bolig mere luftig og dermed skabe en oplevelse af større rumlighed. Ulempen er, at køkkenet, og dertilhørende mados og støj fra køkkenets aktiviteter, kan komme til at dominere en stor del af boligen. Derfor er det vigtigt, at der i det åbne køkken er god mulighed for ventilation, så mados og fugt fra madlavning kan mindskes.
 
@@ -78,5 +78,4 @@ Illustration 12: Køkkenets indretning kan understøtte en hensigtsmæssig arbej
 
 ### 3.7. At bade {#9d95ee42-38e2-41d4-ae53-1d23da54a544}
 
-### Appendix: Litteratur
-
+### Appendix: Litteratur {#dad94911-d8be-4830-9756-dcbefa202590}

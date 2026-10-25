@@ -7,11 +7,9 @@
 
 ## Bygningsreglementets vejledning om fugt og vådrum
 
-### Generelt om fugt og vådrum
+### Generelt om fugt og vådrum {#cacc9ea9-63fb-42d2-b4e1-448c263cf36d}
 
-[1.0.](./)
-
-### Fugt
+### 1.0. Fugt {#518be76c-4c21-4760-9fae-5c60265b1fd6}
 
 1.1.
 
@@ -25,7 +23,7 @@ Det skal sikres, at konstruktionerne ved indbygning ikke har et fugtindhold, der
 
 Der henvises til SBi-anvisning 278, Fugt - Projektering og udførelse (Brandt, 2022).
 
-  1.3.
+1.3.
 
 Der skal træffes tilstrækkelige tiltag til at sikre, at bygningen er beskyttet mod fugt fra undergrunden. Mulige tiltag inkluderer for eksempel kapillarbrydende lag, vandtætning af bygningens yderside, omfangsdræn og fugtspærre imellem fundamentet og ydervæggen.
 
@@ -53,18 +51,18 @@ Det er vigtigt for overholdelse af kravet, at regn og smeltevand fra sne føres 
 
 Afledning af tagvand og tiltrækkelig taghældning
 
-Af hensyn til grundvandsressourcerne og rensningsanlægs funktion kan overfladevand og tagvand, hvor det kan godkendes af kommunalbestyrelsen, ledes til nedsivningsanlæg fremfor kloak, se Miljøministeriets bekendtgørelse om spildevandstilladelser mv. efter miljøbeskyttelseslovens [kapitel 3](/tekniske-bestemmelser/03/) og 4
+Af hensyn til grundvandsressourcerne og rensningsanlægs funktion kan overfladevand og tagvand, hvor det kan godkendes af kommunalbestyrelsen, ledes til nedsivningsanlæg fremfor kloak, se Miljøministeriets bekendtgørelse om spildevandstilladelser mv. efter miljøbeskyttelseslovens kapitel 3 og 4
 
-[![](../../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
-#### Miljøministeriets bekendtgørelse om Spildevandstilladelser
+#### Miljøministeriets bekendtgørelse om
+
+Spildevandstilladelser
 
 #### Anvendelsesområde
 
-#### Se bekendtgørelsen her [Spildevandsbekendtgørelsen](https://www.retsinformation.dk/eli/lta/2024/532 "Miljøministeriets bekendtgørelse om Spildevandstilladelser"){target="_blank"}
+#### Se bekendtgørelsen her [Spildevandsbekendtgørelsen](https://www.retsinformation.dk/eli/lta/2024/532 "Miljøministeriets bekendtgørelse om "){target="_blank"}
 
--  [Gå til krav om Fugt](../../../krav/334_338/){target="_blank"}
+- [Gå til krav om Fugt](../../../krav/334_338/#15eef60e-136b-4f8a-88ab-46705ab5ca21){target="_blank"}
 
-[2.0.](../kap-2_0/)
-
-### Vådrum
+### 2.0. Vådrum {#19b28c28-7ff7-45b4-aff0-7ca71f849b31}

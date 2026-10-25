@@ -2,9 +2,9 @@
 
 ## Se alle vejledninger om Bygningens indretning (§ 196 - § 241)
 
-- [Spørgsmål og svar om bygningens indretning](..)
-- [Vejledning om boligindretning](../../boligindretning)
-- [Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger](../../bygningsglas)
+- [Spørgsmål og svar om bygningens indretning](../)
+- [Vejledning om boligindretning](../../boligindretning/)
+- [Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger](../../bygningsglas/)
 
 ## Spørgsmål og svar om bygningens indretning
 
@@ -12,7 +12,7 @@
 
 ### Altaner {#aa480314-460a-49e3-a01d-ddd6aaa62881}
 
-[? Betragtes en altan som en enhed, der skal være niveaufri adgang til?](./) Ja der skal være niveaufri adgang fra boligen og ud på altanen.
+[? Betragtes en altan som en enhed, der skal være niveaufri adgang til?](#aa480314-460a-49e3-a01d-ddd6aaa62881) Ja der skal være niveaufri adgang fra boligen og ud på altanen.
 
 ### Handicaptoiletter {#334bd38a-2759-4aab-8d4a-a3689e0e2c2c}
 

@@ -2,12 +2,12 @@
 
 ## Se alle vejledninger om Fugt og vådrum (§ 334 - § 339)
 
-- [Spørgsmål og svar om fugt og vådrum](../qa)
+- [Spørgsmål og svar om fugt og vådrum](../qa/)
 - [Bygningsreglementets vejledning om fugt og vådrum](./)
 
 ## Bygningsreglementets vejledning om fugt og vådrum
 
-### Generelt om fugt og vådrum
+### Generelt om fugt og vådrum {#cacc9ea9-63fb-42d2-b4e1-448c263cf36d}
 
 Kravene i kapitel 14 om fugt og vådrum er indført for at beskytte bygninger mod fugt og vand. Fugt og vand må ikke medføre risiko for personers sundhed eller give risiko for skader på bygninger. Fugtskader er et af de mest udbredte problemer i byggeriet. Typiske problemer i forhold til utilsigtet fugtpåvirkning i bygninger er skimmelsvampevækst, råd og svampevækst, der kan give helbredsproblemer.
 
@@ -23,7 +23,7 @@ Det er derfor vigtigt, at vælge robuste løsninger, dvs. enten løsninger der f
 
 Typer af fugtpåvirkninger
 
--  [Gå til krav om Fugt og vådrum](../../krav/334_338#15eef60e-136b-4f8a-88ab-46705ab5ca21){target="_blank"}
+- [Gå til krav om Fugt og vådrum](../../krav/334_338/#15eef60e-136b-4f8a-88ab-46705ab5ca21){target="_blank"}
 
 ### 1.0. Fugt {#518be76c-4c21-4760-9fae-5c60265b1fd6}
 
@@ -39,7 +39,7 @@ Det skal sikres, at konstruktionerne ved indbygning ikke har et fugtindhold, der
 
 Der henvises til SBi-anvisning 278, Fugt - Projektering og udførelse (Brandt, 2022).
 
-  1.3.
+1.3.
 
 Der skal træffes tilstrækkelige tiltag til at sikre, at bygningen er beskyttet mod fugt fra undergrunden. Mulige tiltag inkluderer for eksempel kapillarbrydende lag, vandtætning af bygningens yderside, omfangsdræn og fugtspærre imellem fundamentet og ydervæggen.
 
@@ -69,15 +69,17 @@ Afledning af tagvand og tiltrækkelig taghældning
 
 Af hensyn til grundvandsressourcerne og rensningsanlægs funktion kan overfladevand og tagvand, hvor det kan godkendes af kommunalbestyrelsen, ledes til nedsivningsanlæg fremfor kloak, se Miljøministeriets bekendtgørelse om spildevandstilladelser mv. efter miljøbeskyttelseslovens kapitel 3 og 4
 
-[![](../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
-#### Miljøministeriets bekendtgørelse om Spildevandstilladelser
+#### Miljøministeriets bekendtgørelse om
+
+Spildevandstilladelser
 
 #### Anvendelsesområde
 
-#### Se bekendtgørelsen her [Spildevandsbekendtgørelsen](https://www.retsinformation.dk/eli/lta/2024/532 "Miljøministeriets bekendtgørelse om Spildevandstilladelser"){target="_blank"}
+#### Se bekendtgørelsen her [Spildevandsbekendtgørelsen](https://www.retsinformation.dk/eli/lta/2024/532 "Miljøministeriets bekendtgørelse om "){target="_blank"}
 
--  [Gå til krav om Fugt](../../krav/334_338#15eef60e-136b-4f8a-88ab-46705ab5ca21){target="_blank"}
+- [Gå til krav om Fugt](../../krav/334_338/#15eef60e-136b-4f8a-88ab-46705ab5ca21){target="_blank"}
 
 ### 2.0. Vådrum {#19b28c28-7ff7-45b4-aff0-7ca71f849b31}
 
@@ -103,7 +105,7 @@ I SBi Anvisning 252 beskrives, hvorledes gulve og vægge i vådrum kan udføres.
 
 Hvis SBi-anvisning 252 følges, opnås en god sikkerhed for at overholde bygningsreglementets krav til vådrum.
 
-[![](../../../../assets/img/linkbox/sbi_anv_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/sbi_anv_linkbox.svg)](#)
 
 #### SBi Anvisning 252
 
@@ -117,4 +119,4 @@ Vådrum hører til de mest kritiske rum i en bygning, både på grund af den dir
 
 #### Se anvisningen her [](https://sbi.dk/anvisninger/Pages/252-Vaadrum-1.aspx "SBi Anvisning 252"){target="_blank"}
 
--  [Gå til krav om Vådrum](../../krav/339#eb0ba6a3-9056-4315-aba8-417e17607290){target="_blank"}
+- [Gå til krav om Vådrum](../../krav/339/#eb0ba6a3-9056-4315-aba8-417e17607290){target="_blank"}

@@ -18,15 +18,17 @@ Elevatorer i fælles adgangsveje skal sikre, at brugerne ved egen hjælp har adg
 
 Kravet om elevatorer gælder ikke for fritliggende enfamiliehuse, rækkehuse og dobbelthuse og lignende, der alene anvendes til boligformål, midlertidige studieboliger opført efter dispensation fra lov om planlægning samt sommerhuse.
 
-§ 244 I bygninger med 3 etager og derover skal der installeres mindst én elevator, der kan betjene hver etage, herunder udnyttet tagetage og kælder. I bygninger med flere opgange gælder kravet for hver opgang. En bygning med stueplan, 1. sal og 2. sal, regnes for en bygning med 3 etager. Kælder medregnes i denne sammenhæng ikke ved opgørelse af etageantallet.
+### § 244 {#paragraf-244}
+
+I bygninger med 3 etager og derover skal der installeres mindst én elevator, der kan betjene hver etage, herunder udnyttet tagetage og kælder. I bygninger med flere opgange gælder kravet for hver opgang. En bygning med stueplan, 1. sal og 2. sal, regnes for en bygning med 3 etager. Kælder medregnes i denne sammenhæng ikke ved opgørelse af etageantallet.
 
 ### § 245 {#paragraf-245}
 
 For boliger med flere internt forbundne etager skal elevatoren alene føres til boligens adgangsetage.
 
-### § 246 I {#paragraf-246i}
+### § 246 {#paragraf-246}
 
-nybyggeri, jf. § 244, hvor der installeres elevator, skal mindst én elevator designes og udføres som type 2 elevator i overensstemmelse med DS/EN 81-70: Sikkerhedsregler for konstruktion og installation af elevatorer – Særlige anvendelser for passager- og godselevatorer – Del 70: Tilgængelighed til elevatorer for personer, inklusive personer med handicap eller på tilsvarende vis, der sikrer tilgængelighed for personer med handicap.
+I nybyggeri, jf. § 244, hvor der installeres elevator, skal mindst én elevator designes og udføres som type 2 elevator i overensstemmelse med DS/EN 81-70: Sikkerhedsregler for konstruktion og installation af elevatorer – Særlige anvendelser for passager- og godselevatorer – Del 70: Tilgængelighed til elevatorer for personer, inklusive personer med handicap eller på tilsvarende vis, der sikrer tilgængelighed for personer med handicap.
 
 ### § 247 {#paragraf-247}
 
@@ -34,7 +36,7 @@ Ombygninger og mindre tilbygninger til eksisterende boligbebyggelse er ikke omfa
 
 ### § 248 {#paragraf-248}
 
-Elevatorer i nybyggeri og installation af nye elevatorer i eksisterende bygninger skal leve op til energiklasse B i *DS/EN ISO 25745-2*. Hvis elevatoren ikke kan regnes ud fra *DS/EN ISO 25745-2*, skal elevatoren leve op til klasse B i *VDI 4707 Aufzüge Energieeffizienz, März 2009.* 
+Elevatorer i nybyggeri og installation af nye elevatorer i eksisterende bygninger skal leve op til energiklasse B i *DS/EN ISO 25745-2*. Hvis elevatoren ikke kan regnes ud fra *DS/EN ISO 25745-2*, skal elevatoren leve op til klasse B i *VDI 4707 Aufzüge Energieeffizienz, März 2009.*
 
 *Stk. 2.* Bestemmelsen gælder for elevatorer med mærkelast af elevatorstol på op til 2.000 kg. Elevatorens anvendelseskategori er grundlaget for fastlæggelse af energiklassifikationen.
 
@@ -43,4 +45,3 @@ Elevatorer i nybyggeri og installation af nye elevatorer i eksisterende bygning
 ### § 249 {#paragraf-249}
 
 Der skal gennemføres en funktionsafprøvning af elevatorers energiforbrug før ibrugtagning.
-
