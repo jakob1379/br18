@@ -24,11 +24,11 @@ Legepladsredskaber skal projekteres i overensstemmelse med:
 
 Skateboardbaner, parkourredskaber og frit tilgængelige multisportudstyr skal projekteres i overensstemmelse med:
 
-1) DS/EN 14974 + A1 Sportsudstyr - Faciliteter for brugere af rullesportsudstyr (f.eks. inlinere, rulleskøjter, skateboard, BMX-cykler) - Sikkerhedskrav og prøvningsmetoder.
+1) DS/EN 14974 + A l Sportsudstyr - Faciliteter for brugere af rullesportsudstyr (f.eks. inlinere, rulleskøjter, skateboard, BMX-cykler) - Sikkerhedskrav og prøvningsmetoder.
 
 2) DS/EN 16899 Sport- og fritidsudstyr - Parkourredskaber - Sikkerhedskrav og prøvningsmetoder.
 
-3) DS/EN 15312 + A1 Frit tilgængeligt multisportsudstyr - Krav, herunder sikkerhedskrav og prøvningsmetoder.
+3) DS/EN 15312 + Al Frit tilgængeligt multisportsudstyr - Krav, herunder sikkerhedskrav og prøvningsmetoder.
 
 ### § 361 {#paragraf-361}
 
@@ -65,3 +65,4 @@ For legepladsredskaber og –underlag, multisportsudstyr, motionsredskaber i det
 Drift, kontrol og vedligehold af offentligt tilgængelige legepladsredskaber og -underlag, motionsredskaber i det fri, skateboardbaner og lignende, skal ske, så de til enhver tid overholder de relevante bestemmelser i §§ 358-365.
 
 *Stk. 2.* Planlægning og udførsel af drift, kontrol og vedligehold, jf. stk. 1, kan ske efter principperne i DS/EN 1176-7 Legepladsredskaber og -underlag - Del 7: Vejledning til brug ved installation, inspektion, vedligeholdelse og drift, eller på anden vis, som sikrer overholdelse af stk. 1.
+
