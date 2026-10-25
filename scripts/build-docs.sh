@@ -36,7 +36,7 @@ if [[ -n "$table_text" ]]; then
 fi
 
 space='(?:\s|&nbsp;|&#160;|\x{a0})'
-residue="$(rg -n -o -P --glob '*.html' --glob '!historisk/**' \
+residue="$(rg -n -o -P --glob '*.html' \
   -e '@@PROTECTED_' \
   -e '>[^<]*\*\*' \
   -e "(?:^|[\\s>])\\*{1,3}${space}+\\*{1,3}(?=[\\s<]|$)" \
@@ -60,8 +60,6 @@ lychee \
   --index-files index.html \
   --fallback-extensions html \
   --exclude '^file://.*/site/404\.html#__skip$' \
-  --exclude '^file://.*/site/external/' \
-  --exclude '^file://.*/site/historisk/' \
   --exclude '^https://brandogkonstruktioner\.dk/' \
   --exclude '^https://www\.brandogkonstruktioner\.dk/' \
   --exclude '^https?://historisk\.bygningsreglementet\.dk/' \
