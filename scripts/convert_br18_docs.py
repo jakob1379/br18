@@ -189,6 +189,7 @@ class Cleaner(HTMLParser):
         self.skip_depth = 0
         self.stack: list[str] = []
         self.emphasis: list[str] = []  # open emitted emphasis tags
+        self.links = 0  # open emitted links
 
     def _before_emphasis_opens(self) -> int:
         """Index before the emphasis tags just opened, where leading whitespace and breaks belong."""
@@ -267,6 +268,11 @@ class Cleaner(HTMLParser):
         nested = tag in EMPHASIS_TAGS and EMPHASIS_KIND[tag] in {EMPHASIS_KIND[t] for t in self.emphasis}
         # An unresolved CMS link ("{localLink:umb:...}") leads nowhere; its text stays.
         unlinked = tag == "a" and ("href" not in self._attrs(attrs) or "locallink:" in unquote(self._attrs(attrs)["href"]).lower())
+        if tag == "div" and "accordion__tag" in self._attrs(attrs).get("class", "") and not self.links:
+            # A row's tag ("§ 101") is its own paragraph; flattened, it ran into the previous row's text.
+            self.stack.append("paragraph")
+            self.parts.append("<p>")
+            return
         if nested or tag in FLATTEN_TAGS or unlinked:
             self.stack.append("flatten")
             if tag in BLOCK_FLATTEN_TAGS:
@@ -276,6 +282,7 @@ class Cleaner(HTMLParser):
         self.stack.append("emit")
         if tag in EMPHASIS_TAGS:
             self.emphasis.append(tag)
+        self.links += tag == "a"
         trigger = tag == "a" and "accordion__trigger" in self._attrs(attrs).get("class", "")
         attrs = self._rewrite_attrs(tag, attrs)
         if trigger:
@@ -301,8 +308,12 @@ class Cleaner(HTMLParser):
             if tag in BLOCK_FLATTEN_TAGS:
                 self.parts.append("\n\n")
             return
+        if state == "paragraph":
+            self.parts.append("</p>")
+            return
         if tag in EMPHASIS_TAGS and self.emphasis:
             self.emphasis.pop()
+        self.links -= tag == "a"
         self._close(tag)
 
     def _close(self, tag: str) -> None:

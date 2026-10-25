@@ -229,6 +229,17 @@ class ConvertTest(unittest.TestCase):
 
         self.assertEqual(markdown, "Tekst\n")
 
+    def test_paragraph_tag_of_an_accordion_row_becomes_its_heading(self) -> None:
+        markdown = self.convert(
+            '<h1>Brand (§ 82 - § 158)</h1>'
+            '<div class="accordion__row"><div class="accordion__tag">§ 100</div><div class="accordion__content">'
+            "<div>Brandmodstandsevnen bestemmes.</div><div><em>Stk. 2.</em> Det fulde brandforløb.</div></div></div>"
+            '<div class="accordion__row"><div class="accordion__tag">§ 101</div><div class="accordion__content">'
+            "<div>§ 100 kan fraviges, hvis det sikres.</div></div></div>"
+        )
+
+        self.assertIn("*Stk. 2.* Det fulde brandforløb.\n\n### § 101 {#paragraf-101}\n\n§ 100 kan fraviges", markdown)
+
     def test_page_ends_with_a_single_newline(self) -> None:
         markdown = self.convert("<p>Tekst</p><div><span>&nbsp;</span></div><div></div>")
 
