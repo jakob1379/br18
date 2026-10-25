@@ -8,7 +8,7 @@
 - [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner)
 - [Vejledning om funktionsafprøvning](../../version-2-funktionsafprovning)
 - [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov)
-- [Bygningsreglementets vejledning om bygningers klimapåvirkning](..)
+- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../)
 - [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler)
 - [Eksempelsamling for energi](../../eksempelsamling)
 
@@ -354,7 +354,7 @@ For at sikre ensartede livscyklusvurderinger med samme afgrænsning for alle byg
 
 I det følgende uddybes, hvordan BR18, bilag 2, tabel 6 skal anvendes i forbindelse med beregningen. Det uddybes også, hvordan man kan opgøre klimapåvirkningerne for visse dele af bygningen, hvor det ikke er muligt at opgøre de enkelte materialer grundet manglende data, jf. [BR18, bilag 2, tabel 7](../../../../../bilag/b2/bilag_2/tabel_7){rel="noopener noreferrer" target="_blank"} (nyt vindue).
 
-#### **1.4.1 Tabellens opbygning og anvendelse** {#787e83a6-b7d9-4a83-a4be-37574156daef}
+#### **1.4.1 Tabellens opbygning og anvendelse**
 
 BR18, bilag 2, tabel 6 er opbygget sådan, at der først er delt op i overordnede bygningskategorier. Hver kategori indeholder en opdeling i typer, og for hver type fremgår de enkelte bygningsdele. Hver bygningsdel har en hovedgruppe og en undergruppe, disse to grupperinger er med som vejledning og er derfor frivillige at benytte. Se et uddrag af tabellen nedenfor.
 
@@ -465,9 +465,7 @@ Disse værdier fremgår af BR18, bilag 2, tabel 7.
 
 Standard installationsværdierne er angivet i enheden kg CO2-ækvivalenter pr. m2 opvarmet areal pr. år. Værdierne skaleres altså med arealet, som svarer til det samlede opvarmet etageareal, jf. § 256 stk. 3, plus arealet for opvarmet kælder. Hvis der er forskellige anvendelser af en bygning, kan man arealvægte standardværdierne.
 
-Værdierne er fastsat ud fra en betragtningsperiode på 50 år. Det betyder, at der ikke skal knyttes levetider til værdierne (læs mere om levetider i vejledningen om § 297, stk.
-
-10). Udskiftninger undervejs i betragtningsperioden er indregnet i henholdsvis modulerne A1-A3 og C3/C4. Klimapåvirkningerne fra installationer ved anvendelse af standard installationsværdier fremgår derfor kun for modulerne A1-A3 og C3 og C4, og modul D.
+Værdierne er fastsat ud fra en betragtningsperiode på 50 år. Det betyder, at der ikke skal knyttes levetider til værdierne (læs mere om levetider i vejledningen om § 297, stk. 10). Udskiftninger undervejs i betragtningsperioden er indregnet i henholdsvis modulerne A1-A3 og C3/C4. Klimapåvirkningerne fra installationer ved anvendelse af standard installationsværdier fremgår derfor kun for modulerne A1-A3 og C3 og C4, og modul D.
 
 Da værdierne er opdelt i tre kategorier
 
@@ -822,7 +820,7 @@ BR18, bilag 2, tabel 7, er opdelt i følgende kolonner:
 
 I tabellen på bygningsreglementets hjemmeside indgår der for hvert produkt/materiale et link, hvor det er muligt at læse mere om datakilden. Tabellen kan også tilgås [her](../../../../../bilag/b2/bilag_2/tabel_7){rel="noopener noreferrer" target="_blank"} (nyt vindue).
 
-#### **Valg af datasæt for et konkret materiale** {#787e83a6-b7d9-4a83-a4be-37574156daef}
+#### **Valg af datasæt for et konkret materiale**
 
 Som beskrevet, skal der for hvert materiale, som indgår i bygningen, anvendes et datasæt fra BR18, bilag 2, tabel 7, eller miljøvaredeklarationer, jf. § 297, stk. 8. Hvis der for et konkret materiale ikke findes et generisk datasæt i tabellen eller en miljøvaredeklaration, skal der anvendes det generiske datasæt fra BR18, bilag 2, tabel 7, hvor materialesammensætning svarer bedst muligt til det pågældende materiale. Med materialesammensætning forstås de materialetyper og repræsentative mængder, der fremgår af tabellen for det konkrete materiale. På nuværende tidspunkt er der fx ikke datagrundlag for at invertere til solcelleanlæg eller lignende. Derfor bliver man nødt til at angive et materiale, der så godt som muligt svarer til en inverter. Det kunne fx være "aluminiumsplade" eller "fjernvarmeanlæg".
 
@@ -1081,9 +1079,7 @@ Klimapåvirkningen aflæses under enten GWP eller GWP-total, afhængigt af om mi
 
 #### **1.6.4 Håndtering af modul C3/C4**
 
-Ved anvendelse af EPD'er skal affaldsscenarierne (modul C3/C4), som de fremgår af
-
-EPD'en, anvendes i beregningen.
+Ved anvendelse af EPD'er skal affaldsscenarierne (modul C3/C4), som de fremgår af EPD'en, anvendes i beregningen.
 
 #### **1.6.5  Manglende C3 modul**
 
@@ -1095,9 +1091,7 @@ Hvis en EPD i modul C3/C4 indeholder flere forskellige scenarier for affaldshån
 
 #### **1.6.7 Manglende scenarie for affaldshåndtering**
 
-Hvis EPD'er hverken indeholder et C3- eller C4-modul, kan der anvendes et passende modul fra det generiske datagrundlag (BR18, bilag 2, tabel
-
-7).
+Hvis EPD'er hverken indeholder et C3- eller C4-modul, kan der anvendes et passende modul fra det generiske datagrundlag (BR18, bilag 2, tabel 7).
 
 Der gøres opmærksom på, at sammensat data kun skal benyttes, hvis der ikke findes den nødvendige data indenfor samme datasæt af et materiale.
 
@@ -1245,11 +1239,7 @@ Byggeprocessens klimapåvirkning skal herefter beregnes ved at opgøre brændsel
 
 "Brug af hjælpe-/interimsmaterialer" er forbrug forbundet med at benytte materialerne, fx ophejsning af stillads. Produktion af interimsmaterialerne selv (stilladser, støbeforme) tæller ikke med.).
 
-Produktion af materialer på pladsen, fx sammenstøbningsbeton indgår ikke i A5. Sådanne indgår i stedet i A1-A3, hvis de er med i bygningsmodellen (bilag 2, tabel
-
-6). Fx er udfyldning mellem elementer (sammenstøbningsbeton) udtrykkeligt undtaget fra beregningen (se teksten til bilag 2, tabel
-
-6) og derfor skal det hverken opgøres i A1-A3 eller A5.
+Produktion af materialer på pladsen, fx sammenstøbningsbeton indgår ikke i A5. Sådanne indgår i stedet i A1-A3, hvis de er med i bygningsmodellen (bilag 2, tabel 6). Fx er udfyldning mellem elementer (sammenstøbningsbeton) udtrykkeligt undtaget fra beregningen (se teksten til bilag 2, tabel 6) og derfor skal det hverken opgøres i A1-A3 eller A5.
 
 I standarden fremgår det ikke klart om udledningerne fra præfabrikation af bygningselementer, som fx præfabrikerede trækassetter skal indgå i A1-A3 eller i A4-A5. Det er op til bygningsejer at vurdere, hvor det passer bedst, samt at sikre, at alle udledningerne bliver talt med.
 
@@ -1513,9 +1503,7 @@ hvor
 
 x er klimapåvirkningen fra materialerne i den pågældende bygningskonstruktion (i kg CO~2~-ækv.) opgjort over den 50-årige betragtningsperiode, r er referenceværdien for den givne konstruktion (i kg CO~2~-ækv. /m^2^ /år), m er arealet af den konstruktion, som berøres af det særlige forhold (i m^2^), o a er arealet som opgjort ifølge § 297, stk. 3, (i m^2^).
 
-Bygningen er på 2.000 m^2^ referenceareal (referenceareal beregnes, jf. § 297, stk.
-
-3), og den særligt høje last forekommer på et areal på 500 m^2^ af etagedækket. Etagedækket designes i det område både tykkere og med kraftigere armering, hvilket medfører, at konstruktionen i det område har en CO~2~ udledning på 50.000 kg CO~2~-ækvivalenter. Bygningsejer beregner vha. referenceværdierne i BR18, bilag 2, tabel 9, og Formel 1, hvor stor en ekstra klimapåvirkning, som etagedækket har i forhold til en almindelig referencebygning. Arealet, jf. § 297, stk. 3, er på 2.000 m2.
+Bygningen er på 2.000 m^2^ referenceareal (referenceareal beregnes, jf. § 297, stk. 3), og den særligt høje last forekommer på et areal på 500 m^2^ af etagedækket. Etagedækket designes i det område både tykkere og med kraftigere armering, hvilket medfører, at konstruktionen i det område har en CO~2~ udledning på 50.000 kg CO~2~-ækvivalenter. Bygningsejer beregner vha. referenceværdierne i BR18, bilag 2, tabel 9, og Formel 1, hvor stor en ekstra klimapåvirkning, som etagedækket har i forhold til en almindelig referencebygning. Arealet, jf. § 297, stk. 3, er på 2.000 m2.
 
 ((50.000 kg CO2-ækv. / 50 år) – (1,30 kg CO2-ækv. /m2 /år 500 m2)) / 2000 m2 = 0,175 kg CO2-ækv./m2/år
 
@@ -1642,9 +1630,7 @@ Hvor
 
 x er klimapåvirkningen fra materialerne i den pågældende bygningskonstruktion (i kg CO~2~-ækv.) opgjort over den 50-årige betragtningsperiode, r er referenceværdien for den givne konstruktion (i kg CO~2~-ækv. /m^2^ /år), m er arealet af den konstruktion, som berøres af det særlige forhold (i m^2^) og a er arealet som opgjort ifølge § 297, stk. 3, (i m^2^).
 
-Bygningen er på 2.000 m^2^ referenceareal (referenceareal beregnes, jf. § 297, stk.
-
-3), og den særligt høje last forekommer på et areal på 500 m^2^ af etagedækket. Etagedækket designes i det område både tykkere og med kraftigere armering, hvilket medfører, at konstruktionen i det område har en CO~2~ udledning på 50.000 kg CO~2~-ækvivalenter. Bygningsejer beregner vha. referenceværdierne i BR18, bilag 2, tabel 9, og Formel 1, hvor stor en ekstra klimapåvirkning, som etagedækket har i forhold til en almindelig referencebygning.
+Bygningen er på 2.000 m^2^ referenceareal (referenceareal beregnes, jf. § 297, stk. 3), og den særligt høje last forekommer på et areal på 500 m^2^ af etagedækket. Etagedækket designes i det område både tykkere og med kraftigere armering, hvilket medfører, at konstruktionen i det område har en CO~2~ udledning på 50.000 kg CO~2~-ækvivalenter. Bygningsejer beregner vha. referenceværdierne i BR18, bilag 2, tabel 9, og Formel 1, hvor stor en ekstra klimapåvirkning, som etagedækket har i forhold til en almindelig referencebygning.
 
 ((50.000 kg CO~2~‐ækv. / 50 år) – (0,99 kg CO~2~‐ækv. /m^2^ /år × 500 m^2^)) / 2000 m^2^ = 0,253 kg CO~2~‐ækv./m^2^/år
 

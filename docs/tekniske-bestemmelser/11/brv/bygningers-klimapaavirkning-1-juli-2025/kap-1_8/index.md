@@ -8,7 +8,7 @@
 - [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner)
 - [Vejledning om funktionsafprøvning](../../version-2-funktionsafprovning)
 - [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov)
-- [Bygningsreglementets vejledning om bygningers klimapåvirkning](..)
+- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../)
 - [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler)
 - [Eksempelsamling for energi](../../eksempelsamling)
 
@@ -354,7 +354,7 @@ For at sikre ensartede livscyklusvurderinger med samme afgrænsning for alle byg
 
 I det følgende uddybes, hvordan BR18, bilag 2, tabel 6 skal anvendes i forbindelse med beregningen. Det uddybes også, hvordan man kan opgøre klimapåvirkningerne for visse dele af bygningen, hvor det ikke er muligt at opgøre de enkelte materialer grundet manglende data, jf. [BR18, bilag 2, tabel 7](../../../../../bilag/b2/bilag_2/tabel_7){rel="noopener noreferrer" target="_blank"} (nyt vindue).
 
-#### **1.4.1 Tabellens opbygning og anvendelse** {#787e83a6-b7d9-4a83-a4be-37574156daef}
+#### **1.4.1 Tabellens opbygning og anvendelse**
 
 BR18, bilag 2, tabel 6 er opbygget sådan, at der først er delt op i overordnede bygningskategorier. Hver kategori indeholder en opdeling i typer, og for hver type fremgår de enkelte bygningsdele. Hver bygningsdel har en hovedgruppe og en undergruppe, disse to grupperinger er med som vejledning og er derfor frivillige at benytte. Se et uddrag af tabellen nedenfor.
 
@@ -818,9 +818,9 @@ BR18, bilag 2, tabel 7, er opdelt i følgende kolonner:
 
 **Tabel 5.1** Oversigt over opbygningen af BR18, bilag 2, tabel 7, med et eksempel for byggematerialet 4 mm glas.
 
-I tabellen på bygningsreglementets hjemmeside indgår der for hvert produkt/materiale et link, hvor det er muligt at læse mere om datakilden. Tabellen kan også tilgås via dette [link](../../../../../bilag/b2/bilag_2/tabel_7){rel="noopener noreferrer" target="_blank"} (nyt vindue).
+I tabellen på bygningsreglementets hjemmeside indgår der for hvert produkt/materiale et link, hvor det er muligt at læse mere om datakilden. Tabellen kan også tilgås [her](../../../../../bilag/b2/bilag_2/tabel_7){rel="noopener noreferrer" target="_blank"} (nyt vindue).
 
-#### **Valg af datasæt for et konkret materiale** {#787e83a6-b7d9-4a83-a4be-37574156daef}
+#### **Valg af datasæt for et konkret materiale**
 
 Som beskrevet, skal der for hvert materiale, som indgår i bygningen, anvendes et datasæt fra BR18, bilag 2, tabel 7, eller miljøvaredeklarationer, jf. § 297, stk. 8. Hvis der for et konkret materiale ikke findes et generisk datasæt i tabellen eller en miljøvaredeklaration, skal der anvendes det generiske datasæt fra BR18, bilag 2, tabel 7, hvor materialesammensætning svarer bedst muligt til det pågældende materiale. Med materialesammensætning forstås de materialetyper og repræsentative mængder, der fremgår af tabellen for det konkrete materiale. På nuværende tidspunkt er der fx ikke datagrundlag for at invertere til solcelleanlæg eller lignende. Derfor bliver man nødt til at angive et materiale, der så godt som muligt svarer til en inverter. Det kunne fx være "aluminiumsplade" eller "fjernvarmeanlæg".
 
@@ -1079,9 +1079,7 @@ Klimapåvirkningen aflæses under enten GWP eller GWP-total, afhængigt af om mi
 
 #### **1.6.4 Håndtering af modul C3/C4**
 
-Ved anvendelse af EPD'er skal affaldsscenarierne (modul C3/C4), som de fremgår af
-
-EPD'en, anvendes i beregningen.
+Ved anvendelse af EPD'er skal affaldsscenarierne (modul C3/C4), som de fremgår af EPD'en, anvendes i beregningen.
 
 #### **1.6.5  Manglende C3 modul**
 
