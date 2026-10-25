@@ -2,6 +2,7 @@
 
 ## Se alle vejledninger om Legepladser mv. (§ 358 - § 367)
 
+- [](../qa)
 - [Bygningsreglementets vejledning om legepladser mv.](./)
 
 ## Bygningsreglementets vejledning om legepladser mv.
@@ -40,35 +41,30 @@ Om et bestemt legepladsredskab kan betragtes som bebyggelse i byggelovens forsta
 
 I tabellen nedenfor er der angivet eksempler på hvilke legepladser og legepladsredskaber, der betragtes som offentligt tilgængelige og hvilke, der ikke betragtes som offentligt tilgængelige. Eksemplerne er ikke udtømmende.
 
-<table style="width:100%;">
-<colgroup>
-<col style="width: 22%" />
-<col style="width: 45%" />
-<col style="width: 31%" />
-</colgroup>
+<table>
 <tbody>
 <tr>
-<td></td>
+<td> </td>
 <td><strong>Beskrivelse</strong></td>
-<td><strong>Eksempler </strong></td>
+<td><strong>Eksempler</strong> </td>
 </tr>
 <tr>
-<td rowspan="3"><strong>Legepladser og legepladsredskaber, der betragtes som offentligt tilgængelige </strong></td>
-<td>Legepladsredskaber beliggende på offentlig tilgængelige steder, hvortil der er almindelig adgang</td>
-<td>Legepladsredskaber i parker, restaurationer, butikker og butikscentre i åbningstiden, forlystelsessteder og offentlige kontorer.</td>
+<td rowspan="3"><strong>Legepladser og legepladsredskaber, der betragtes som offentligt tilgængelige</strong> </td>
+<td><p>Legepladsredskaber beliggende på offentlig tilgængelige steder, hvortil der er almindelig adgang</p></td>
+<td><p>Legepladsredskaber i parker, restaurationer, butikker og butikscentre i åbningstiden, forlystelsessteder og offentlige kontorer.</p></td>
 </tr>
 <tr>
 <td>Legepladsredskaber beliggende i offentlige skoler og børneinstitutioner, uanset om det område, hvorpå legepladsen eller -redskabet er placeret, er aflåst uden for institutionens åbningstid.</td>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>Legepladsredskaber beliggende på fællesarealer for mere end én boligenhed, uanset om fællesarealet er aflåst eller kun en afgrænset kreds af personer har adgang til arealet.</td>
-<td>Fællesarealer i forbindelse med gårdhaver, boligforeninger og rækkehuse (inklusive dobbelthuse).</td>
+<td>Fællesarealer i forbindelse med gårdhaver, boligforeninger og rækkehuse (inklusive dobbelthuse). </td>
 </tr>
 <tr>
-<td><strong>Legepladser og legepladsredskaber, der <em>ikke</em> betragtes som </strong>offentlig tilgængelige </td>
-<td>Legepladsredskaber beliggende på privat grund og hvor benyttelse kun er forbeholdt og muliggjort for højst én boligenhed.</td>
-<td>Private haver (for den enkelte boligenhed) i forbindelse med enfamiliehuse, dobbelthuse rækkehuse og evt. etageboligbyggeri.</td>
+<td><strong>Legepladser og legepladsredskaber, der <em>ikke</em> betragtes som offentlig tilgængelige</strong>  </td>
+<td><p>Legepladsredskaber beliggende på privat grund og hvor benyttelse kun er forbeholdt og muliggjort for højst én boligenhed.</p></td>
+<td><p>Private haver (for den enkelte boligenhed) i forbindelse med enfamiliehuse, dobbelthuse rækkehuse og evt. etageboligbyggeri.</p></td>
 </tr>
 </tbody>
 </table>
@@ -127,7 +123,7 @@ Hvorvidt der *ikke* medføres en risiko for personskade ved svigt, kan bl.a. afh
 
 Ovenstående liste er eksempler og er ikke udtømmende.
 
-I forhold til fri faldhøjde, betragtes et legepladsredskab med en fri faldhøjde på højst 1,0 meter ikke som en risiko for personskade. Ved "mindre legepladsredskaber" nævnt i § 489, stk. 4, forstås ligeledes legepladsredskaber med en fri faldhøjde på højst 1 meter. Den fri faldhøjde er den største lodrette afstand til stødområdet nedenunder fra de flader hvortil der opmuntres adgang.
+I forhold til fri faldhøjde, betragtes et legepladsredskab med en fri faldhøjde på højst 1,0 meter ikke som en risiko for personskade. Ved ”mindre legepladsredskaber” nævnt i § 489, stk. 4, forstås ligeledes legepladsredskaber med en fri faldhøjde på højst 1 meter. Den fri faldhøjde er den største lodrette afstand til stødområdet nedenunder fra de flader hvortil der opmuntres adgang.
 
 ### 3.2. Indplacering i brandklasse {#ec67cfb6-3db0-4f76-bce2-7a6f917204b0}
 
@@ -191,7 +187,7 @@ DS/CEN/TR 16879:2016 - Placering af legeplads- og andre fritidsfaciliteter – R
 
 Denne tekniske rapport giver råd om placering og mulige metoder til adskillelse mellem rekreative faciliteter, der benyttes af forskellige aldersgrupper og har forskellige risikoniveauer.
 
-#### [Køb standarden her](https://webshop.ds.dk/da-dk/standard/ds-cen-tr-168792016){target="_blank"}
+#### Køb standarden her [](https://webshop.ds.dk/da-dk/standard/ds-cen-tr-168792016){target="_blank"}
 
 [![](../../../../assets/img/linkbox/ds_en_tr_linkbox.svg)](# "#title")
 
@@ -203,7 +199,7 @@ DS/CEN/TR 16467:2013 - Legepladsudstyr tilgængeligt for alle børn
 
 Denne tekniske rapport indeholder guidelines til at udforme legeområder der giver børn med forskellige niveauer af funktionsnedsættelse mulighed for at lege selvstændigt og med passende niveauer af udfordringer og risici
 
-#### [Køb standarden her:](https://webshop.ds.dk/da-dk/standard/ds-cen-tr-164672013){target="_blank"}
+#### Køb standarden her: [Køb standarden her:](https://webshop.ds.dk/da-dk/standard/ds-cen-tr-164672013){target="_blank"}
 
 [![](../../../../assets/img/linkbox/ds_en_tr_linkbox.svg)](# "#title")
 
@@ -215,7 +211,7 @@ DS/CEN/TR 16598:2023 - Samling af rationaler for EN 1176 – Krav
 
 Denne tekniske rapport indeholder rationaler bag EN 1176 serien, der har til formål, at undgå situationer, hvor et barn på grund af sin alder, evne eller udviklingsstadium ikke er i stand til at forstå en risiko på legepladser mv.
 
-#### [Køb standarden her](https://webshop.ds.dk/standard/M365218/ds-cen-tr-16598-2023%20){target="_blank"}
+#### Køb standarden her [Køb standarden her](https://webshop.ds.dk/standard/M365218/ds-cen-tr-16598-2023%20){target="_blank"}
 
 [![](../../../../assets/img/linkbox/ds_en_tr_linkbox.svg)](# "#title")
 
@@ -227,7 +223,7 @@ DS/CEN/TR 16396:2020 - Legepladsredskaber til børn – Svar på forespørgsler 
 
 Denne tekniske rapport indeholder svar på anmodninger om fortolkninger vedrørende forståelsen af EN 1176 serien.
 
-#### [Køb standarden her](https://webshop.ds.dk/standard/M335885/ds-cen-tr-16396-2020){target="_blank"}
+#### Køb standarden her [Køb standarden her](https://webshop.ds.dk/standard/M335885/ds-cen-tr-16396-2020){target="_blank"}
 
 [![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
 
@@ -239,7 +235,7 @@ DS-håndbog 105:2012 - Udearealer for alle - sådan planlægges et tilgængeligt
 
 Denne håndbog indeholder bl.a. information og eksempler på adgangsforhold til legepladser.
 
-#### [Køb håndbogen her](https://webshop.ds.dk/Default.aspx?ID=120&GroupID=11.180.01&ProductID=M266059){target="_blank"}
+#### Køb håndbogen her [Køb håndbogen her](https://webshop.ds.dk/Default.aspx?ID=120&GroupID=11.180.01&ProductID=M266059){target="_blank"}
 
 ### 5. Drift, kontrol og vedligehold {#9010be35-e1df-4a55-919d-9ce0c4978514}
 
@@ -250,3 +246,4 @@ Det påhviler den til enhver tid værende ejer at vedligeholde og reparere sine 
 Ejeren bør foranledige, at der bliver udført en rutinemæssig visuel inspektion på dagligt eller ugentligt basis eller efter behov, samt en driftinspektion med et mellemrum på 1-3 måneder. Ejeren bør dernæst foranledige, at der bliver udført årlig hovedinspektion af en certificeret legepladsinspektør eller anden kompetent person. Der bør blandt andet testes for halsklem- hovedklem- og snorefælder i forbindelse med årlig hovedinspektion. Endelig bør stabilitet og underlag kontrolleres i forbindelse med både drifts og årlig hovedinspektion.
 
 I forbindelse med vedligehold bør mekaniske dele som for eksempel bolte, beslag og skruer undersøges og efterspændes, dernæst bør beskadiget dele repareres eller udskiftes og bevægelige dele smøres efter behov. Opmærksomheden bør i øvrigt henledes på producentens anvisninger vedrørende drift, inspektion og vedligehold.
+
