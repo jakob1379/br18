@@ -8,7 +8,9 @@ import re
 import sys
 from collections import defaultdict
 from pathlib import Path
-from urllib.parse import unquote
+from urllib.parse import unquote, urlsplit
+
+from fetch_origin_pages import cached
 
 MARKDOWN_LINK_RE = re.compile(r"(\]\()([^)\s]+)")
 HTML_ATTR_RE = re.compile(r"""((?:href|src)\s*=\s*["'])([^"']+)""")
@@ -16,11 +18,23 @@ ID_RE = re.compile(r"""\s(?:id|name)\s*=\s*["']([^"']+)["']""")
 HEADING_ID_RE = re.compile(r"^(#{1,6} .*?) \{#([^}\s]+)\}\s*$", re.MULTILINE)
 SKIP_PREFIXES = ("mailto:", "tel:", "javascript:", "data:", "/")
 MAX_UPS = 8
+SITE_URL = "https://www.bygningsreglementet.dk/"
+# Links the origin itself gets wrong (404 there), mapped to the page the sweeps chose; see parity-allowlist.toml.
+ORIGIN_DEAD_LINKS = {
+    "tekniske-bestemmelser/02/vejledninger/parkering": "tekniske-bestemmelser/20/vejledninger/parkering",
+}
+
+
+def fold(name: str) -> str:
+    """Origin URLs and corpus paths spell one page differently: case, æøå transliterated, repeated hyphens."""
+    name = name.casefold().replace("å", "aa").replace("æ", "ae").replace("ø", "oe")
+    return re.sub(r"-{2,}", "-", name)
 
 
 class Site:
-    def __init__(self, site_root: Path) -> None:
+    def __init__(self, site_root: Path, cache_dir: Path | None = None) -> None:
         self.root = site_root.resolve()
+        self.cache_dir = cache_dir
         self.ids: dict[Path, set[str]] = {}
         self.pages_by_id: dict[str, list[Path]] = defaultdict(list)
         for html in self.root.rglob("*.html"):
@@ -49,6 +63,19 @@ class Site:
                 return candidate
         return None
 
+    def redirect_target(self, path: Path) -> Path | None:
+        """A link to an origin redirect alias, or to a page the origin itself links wrongly."""
+        rel = path.relative_to(self.root).as_posix()
+        if rel in ORIGIN_DEAD_LINKS:
+            return self.resolve_casefold(self.root / ORIGIN_DEAD_LINKS[rel])
+        if not self.cache_dir:
+            return None
+        try:
+            _, final = cached(self.cache_dir, SITE_URL + rel + "/")
+        except OSError:
+            return None
+        return self.resolve_casefold(self.root / urlsplit(final).path.strip("/"))
+
     def resolve_casefold(self, path: Path) -> Path | None:
         return self._walk_casefold(self.root, path.relative_to(self.root).parts)
 
@@ -57,9 +84,9 @@ class Site:
             return current if self.resolve(current) else None
         if not current.is_dir():
             return None
-        head = parts[0].casefold()
+        head = fold(parts[0])
         children = sorted(
-            child for child in current.iterdir() if child.name.casefold() == head
+            child for child in current.iterdir() if fold(child.name) == head
         )
         children.sort(key=lambda child: child.name != child.name.lower())
         for child in children:
@@ -95,7 +122,11 @@ def fix_target(
                 new_path = os.path.relpath(found, base) + trailing
                 break
         if current is None:
-            return target, False
+            found = site.redirect_target(site.join(base, stripped))
+            if found is None:
+                return target, False
+            current = site.resolve(found)
+            new_path = os.path.relpath(found, base) + trailing
 
     resolved = True
     if fragments:
@@ -105,7 +136,10 @@ def fix_target(
             fragments = present[-1:]
         else:
             hosts = {page for f in fragments for page in site.pages_by_id.get(f, [])}
-            if len(hosts) == 1:
+            if not hosts:
+                # The origin links a fragment no page has; the page itself is still the target.
+                fragments = []
+            elif len(hosts) == 1:
                 host = hosts.pop()
                 fragments = [
                     f for f in fragments if host in site.pages_by_id.get(f, [])
@@ -186,10 +220,11 @@ def main() -> int:
     )
     parser.add_argument("--docs-root", default="docs")
     parser.add_argument("--site-root", default="site")
+    parser.add_argument("--cache-dir", type=Path, help="parity audit origin snapshot, to resolve links to origin redirects")
     args = parser.parse_args()
 
     docs_root = Path(args.docs_root).resolve()
-    site = Site(Path(args.site_root))
+    site = Site(Path(args.site_root), args.cache_dir)
     unresolved: list[str] = []
     missing: set[tuple[Path, str]] = set()
     total = sum(
