@@ -259,6 +259,32 @@ class AuditTest(unittest.TestCase):
         self.assertIn("missing_text: (own page) Ramper skal være jævne.", report)
         self.assertNotIn("Guiden indleder", report)
 
+    def test_section_only_subpage_matching_its_own_origin_page_is_clean(self) -> None:
+        guide = "/tekniske-bestemmelser/21/vejledninger/guide/"
+        sections = "<h3>Ramper</h3><p>Se afsnittet.</p><h3>Ramper</h3><p>Se afsnittet.</p>"
+        own = "<h3>Ramper</h3><h3>Ramper</h3><p>Se afsnittet.</p>"
+        links = f'<a href="{guide}">Guide</a><a href="{guide}ramper/">Ramper</a>'
+
+        def expand(page: str) -> str:
+            return f'<section class="accordion__actions"><a href="{page}?Layout=ShowAll" class="link--expand-all">Fold alle ud</a></section>'
+
+        self.corpus.add("", local_page("<p>Forside</p>"))
+        self.corpus.add("tekniske-bestemmelser/21/vejledninger/guide", local_page(sections))
+        self.corpus.add("tekniske-bestemmelser/21/vejledninger/guide/ramper", local_page(own))
+        origin = self.serve(
+            {
+                "/": origin_page("<p>Forside</p>", links),
+                guide: origin_page(f"{expand(guide)}<h3>Ramper</h3><h3>Ramper</h3>", links),
+                f"{guide}?Layout=ShowAll": origin_page(sections),
+                f"{guide}ramper/": origin_page(f"{expand(guide + 'ramper/')}{own}", links),
+                f"{guide}ramper/?Layout=ShowAll": origin_page(sections),
+            }
+        )
+
+        result = self.audit(origin)
+
+        self.assertEqual(result.returncode, 0, self.report.read_text(encoding="utf-8"))
+
     def test_markup_residue_is_reported(self) -> None:
         origin = self.two_page_site()
         self.corpus.add(

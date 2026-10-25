@@ -445,9 +445,11 @@ def compare(
     if root_url and built.exists():
         # A subpage keeps only its own section of the guide, so only its text that the reference lacks counts.
         own_words = words("".join(views[-1][0].text))
-        extra_text += [f"(own page) {t}" for t in text_diff(origin_words, own_words)[1]]
+        shown = words(ESCAPED_BR.sub(" ", "".join(parse(own_html, "main", None, ORIGIN_SKIP_CLASSES).text))) if own_html else []
+        # The word diff against the long reference can misalign a section-only page; text its own origin page shows is not extra.
+        shown_text = f" {' '.join(shown)} "
+        extra_text += [f"(own page) {t}" for t in text_diff(origin_words, own_words)[1] if f" {t} " not in shown_text]
         if own_html:
-            shown = words(ESCAPED_BR.sub(" ", "".join(parse(own_html, "main", None, ORIGIN_SKIP_CLASSES).text)))
             missing_text += [f"(own page) {t}" for t in text_diff(shown, own_words)[0]]
     origin_pages, origin_files = _origin_refs(origin.links, url, docs_root, redirects)
     origin_images = _origin_refs(origin.images, url, docs_root, redirects)[1]
