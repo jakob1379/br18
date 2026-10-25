@@ -145,8 +145,8 @@ def rel_path_for_url(url: str, source_dir: Path, docs_root: Path) -> str | None:
         return None
 
     path = canonicalize_asset_path(parsed.path or ("/" if parsed.netloc else ""), source_dir, docs_root)
-    if not path and not parsed.fragment:
-        return None
+    if not path:
+        return "" if parsed.fragment else None
 
     if path.startswith("/"):
         local_target = docs_root / path.lstrip("/")
@@ -163,12 +163,10 @@ def rel_path_for_url(url: str, source_dir: Path, docs_root: Path) -> str | None:
         rel = os.path.relpath(target, source_dir)
         return rel if rel != "." else "./"
 
-    directory_route = path.endswith("/") or path == "/"
-
-    if directory_route:
-        target = local_target
-        rel = os.path.relpath(target, source_dir)
-        return rel if rel != "." else "./"
+    # Origin pages are directories (`/x/vejledning` serves `/x/vejledning/`); only files have a suffix.
+    if path.endswith("/") or not local_target.suffix:
+        rel = os.path.relpath(local_target, source_dir)
+        return "./" if rel == "." else f"{rel}/"
 
     suffix = local_target.suffix.lower()
     if suffix in {".html", ".htm", ".xhtml"}:
@@ -769,7 +767,7 @@ def convert_file(path: Path, docs_root: Path, delete_html: bool) -> bool:
             raise RuntimeError(f"cannot keep extensionless route HTML while writing {output}")
         path.unlink()
     output.parent.mkdir(parents=True, exist_ok=True)
-    output.write_text(markdown.lstrip(), encoding="utf-8")
+    output.write_text(markdown.strip() + "\n", encoding="utf-8")
     if delete_html and path.exists() and path.is_file():
         path.unlink()
     return True
