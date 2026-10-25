@@ -19,7 +19,7 @@ Bygninger skal ventileres, så der sikres tilfredsstillende luftkvalitet og fugt
 
 Ventilationssystemer skal projekteres og udføres i overensstemmelse med:
 
-1.  DS 447 Ventilation i bygninger -- Mekaniske, naturlige og hybride ventilationssystemer.
+1.  DS 447 Ventilation i bygninger – Mekaniske, naturlige og hybride ventilationssystemer.
 2.  DS 428 Brandsikring af ventilationsanlæg. Systemer til naturlig ventilation skal kun udføres i overensstemmelse med DS 428 i den udstrækning, de kan sidestilles med mekaniske ventilationssystemer.
 3.  DS 452 Termisk isolering af tekniske installationer.
 
@@ -43,7 +43,7 @@ Tilførsel af udeluft skal tilvejebringes gennem åbninger direkte til det fri e
 
 ### § 424 {#paragraf-424}
 
-Udvendigt placerede luftindtag og --afkast skal være placeret og udformet under hensyntagen til udeluftens renhed og temperaturforhold og således, at ventilationsluften tilføres og bortkastes på en for ventilationssystemet hensigtsmæssig måde og uden gene for omgivelserne. Aftrækskanaler fra naturlig ventilation skal føres over tag og have en sådan højde og udformning, at der sikres tilfredsstillende funktion uden gener for omgivelserne.
+Udvendigt placerede luftindtag og –afkast skal være placeret og udformet under hensyntagen til udeluftens renhed og temperaturforhold og således, at ventilationsluften tilføres og bortkastes på en for ventilationssystemet hensigtsmæssig måde og uden gene for omgivelserne. Aftrækskanaler fra naturlig ventilation skal føres over tag og have en sådan højde og udformning, at der sikres tilfredsstillende funktion uden gener for omgivelserne.
 
 ### § 425 {#paragraf-425}
 
@@ -125,7 +125,7 @@ Der kan kun benyttes væskekoblede batterier, hvis adskillelse af luftstrømmene
 
 Kravet til varmegenvinding kan dog fraviges, når afkastningsluftens overskud af varme ikke på rimelig måde kan udnyttes, f.eks. i situationer, hvor der alene er et kølebehov.
 
-*Stk. 2.* Varmegenvinderen kan kombineres med en varmepumpe til varmegenvinding. Ved udsugningsanlæg kan der ligeledes benyttes en varmepumpe. Varmepumper skal have en COP på minimum 3,6 i opvarmningstilstand (heating mode). COP ved opvarmning dokumenteres i henhold til DS/EN 14511 Airconditionanlæg, væskekølere og varmepumper med eldrevne kompressorer til rumopvarmning og rumkøling -- Del 1-3.
+*Stk. 2.* Varmegenvinderen kan kombineres med en varmepumpe til varmegenvinding. Ved udsugningsanlæg kan der ligeledes benyttes en varmepumpe. Varmepumper skal have en COP på minimum 3,6 i opvarmningstilstand (heating mode). COP ved opvarmning dokumenteres i henhold til DS/EN 14511 Airconditionanlæg, væskekølere og varmepumper med eldrevne kompressorer til rumopvarmning og rumkøling – Del 1-3.
 
 ### § 435 {#paragraf-435}
 
@@ -171,7 +171,7 @@ Målere, der anvendes til måling af elforbrug eller varme i henhold til §§ 43
 
 ### DS/EN 14511-1
 
-Airconditionanlæg, væskekøleaggregater og varmepumper til rumopvarmning og -køling samt proceskøleaggregater med eldrevne kompressorer -- Del 1: Termer og definitioner
+Airconditionanlæg, væskekøleaggregater og varmepumper til rumopvarmning og -køling samt proceskøleaggregater med eldrevne kompressorer – Del 1: Termer og definitioner
 
 ### Beskrivelse
 
@@ -247,11 +247,11 @@ Der skal gennemføres en funktionsafprøvning af ventilationssystemet før ibrug
 
 ### § 451 {#paragraf-451}
 
-Rensning, drift, service og vedligehold af ventilationssystemer skal ske, så de holdes i en teknisk og hygiejnisk forsvarlig stand, og så de til enhver tid overholder bestemmelserne i §§ 421-449. Rensning, drift, service og vedligehold af ventilationssystemer skal ske som anvist i DS 447 Ventilation i bygninger -- Mekaniske, naturlige og hybride ventilationssystemer.
+Rensning, drift, service og vedligehold af ventilationssystemer skal ske, så de holdes i en teknisk og hygiejnisk forsvarlig stand, og så de til enhver tid overholder bestemmelserne i §§ 421-449. Rensning, drift, service og vedligehold af ventilationssystemer skal ske som anvist i DS 447 Ventilation i bygninger – Mekaniske, naturlige og hybride ventilationssystemer.
 
 ### § 452 {#paragraf-452}
 
-Der skal foreligge en drifts- og vedligeholdelsesmanual for ventilationssystemer ved ibrugtagning. Manualen skal indeholde tegninger med oplysning om placering af installationer, der skal vedligeholdes, samt hvordan og hvor ofte vedligeholdelsen skal ske. Drift- og vedligeholdelsesmanualen skal udarbejdes som anvist i henhold til DS 447, Ventilation i bygninger -- Mekaniske, naturlige og hybride ventilationssystemer.
+Der skal foreligge en drifts- og vedligeholdelsesmanual for ventilationssystemer ved ibrugtagning. Manualen skal indeholde tegninger med oplysning om placering af installationer, der skal vedligeholdes, samt hvordan og hvor ofte vedligeholdelsen skal ske. Drift- og vedligeholdelsesmanualen skal udarbejdes som anvist i henhold til DS 447, Ventilation i bygninger – Mekaniske, naturlige og hybride ventilationssystemer.
 
 [![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
 

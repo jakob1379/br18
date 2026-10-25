@@ -26,7 +26,7 @@ For boliger med flere internt forbundne etager skal elevatoren alene føres til 
 
 ### § 246 I {#paragraf-246i}
 
-nybyggeri, jf. § 244, hvor der installeres elevator, skal mindst én elevator designes og udføres som type 2 elevator i overensstemmelse med DS/EN 81-70: Sikkerhedsregler for konstruktion og installation af elevatorer -- Særlige anvendelser for passager- og godselevatorer -- Del 70: Tilgængelighed til elevatorer for personer, inklusive personer med handicap eller på tilsvarende vis, der sikrer tilgængelighed for personer med handicap.
+nybyggeri, jf. § 244, hvor der installeres elevator, skal mindst én elevator designes og udføres som type 2 elevator i overensstemmelse med DS/EN 81-70: Sikkerhedsregler for konstruktion og installation af elevatorer – Særlige anvendelser for passager- og godselevatorer – Del 70: Tilgængelighed til elevatorer for personer, inklusive personer med handicap eller på tilsvarende vis, der sikrer tilgængelighed for personer med handicap.
 
 ### § 247 {#paragraf-247}
 

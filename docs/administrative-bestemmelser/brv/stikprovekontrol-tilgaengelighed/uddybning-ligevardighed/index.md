@@ -173,7 +173,7 @@ Bygningsreglementet stiller i kap. 2 krav om, at brugerne ved egen hjælp skal k
 
 Brugerne af en bygning, et opholdsareal eller et parkeringsareal kan være alle mennesker med ingen, mindre eller større funktionsnedsættelser^6^. Der kan derfor være tale om en mangfoldig brugergruppe.
 
-Ligeværdighed i adgangsforhold og indretning handler om at gøre det muligt for alle mennesker, uanset omfanget af en funktionsnedsættelse at deltage i såvel hverdagsaktiviteter som andre typer af aktiviteter -- uddanne sig, passe sit arbejde, handle dagligvarer, deltage i børnehavens årlige sommerfest, gå i teatret, være på en legeplads med sine børn eller børnebørn, dyrke sport i den lokale klub mv.
+Ligeværdighed i adgangsforhold og indretning handler om at gøre det muligt for alle mennesker, uanset omfanget af en funktionsnedsættelse at deltage i såvel hverdagsaktiviteter som andre typer af aktiviteter – uddanne sig, passe sit arbejde, handle dagligvarer, deltage i børnehavens årlige sommerfest, gå i teatret, være på en legeplads med sine børn eller børnebørn, dyrke sport i den lokale klub mv.
 
 For mere inspiration til fastlæggelse af brugergruppe henvises til 2.0 Uddybning angående brugerne samt *Vejledning til brugerbegreb*^7^ i bygningsreglementet.
 
@@ -183,7 +183,7 @@ For mere inspiration til fastlæggelse af brugergruppe henvises til 2.0 Uddybnin
 
 7\) Bygningsreglementet, kap. 2, Vejledning til brugerbegreb
 
-### Stikprøvekontrol -- 1. fase: Tilstrækkelig dokumentation {#c4f664b3-d02a-4df2-9442-57335692301c}
+### 1.1 Stikprøvekontrol – 1. fase: Tilstrækkelig dokumentation {#c4f664b3-d02a-4df2-9442-57335692301c}
 
 Vejledningen er for overskuelighedens og forståelsens skyld inddelt i faser.
 
@@ -203,7 +203,7 @@ Det er ansøgers opgave selv at vurdere, hvorledes byggeprojektet dokumenteres. 
 >
 > • Hvorledes bygningen understøtter bevægelse frem til, ind i og frem til bygningens funktioner
 >
-> • Funktionalitet og brugsværdi -- konkrete løsninger
+> • Funktionalitet og brugsværdi – konkrete løsninger
 
 Tabel 2. uddyber de enkelte temaer. En kombination af tekst, tegninger, diagrammer og oversigtsplaner anbefales til udarbejdelse af beskrivelserne, som tilsammen danner den samlede dokumentation.
 
@@ -277,9 +277,9 @@ Vurderingen af behovet og dermed hvad, der er et passende antal, bør dog altid 
 
 I denne 2. fase af stikprøvekontrollen er det kommunens opgave at vurdere, hvordan der i dokumentationen er gjort rede for antallet af f.eks. parkeringspladser til handicapegnede køretøjer i relation til typen af byggeprojekt i den pågældende byggesag.
 
-9\) Grangaard, S. & Pedersen, L.S. (2014) Tilgængelighed i forbindelse med ombygning -- et casestudie af Nordkraft. SBI 2014:16. Statens Byggeforskningsinstitut, Aalborg Universitet, København.
+9\) Grangaard, S. & Pedersen, L.S. (2014) Tilgængelighed i forbindelse med ombygning – et casestudie af Nordkraft. SBI 2014:16. Statens Byggeforskningsinstitut, Aalborg Universitet, København.
 
-### Stikprøvekontrol -- 3. fase: Vurdering af mangel {#0121521b-e5e3-4323-a262-01113b1e9dae}
+### 1.3 Stikprøvekontrol – 3. fase: Vurdering af mangel {#0121521b-e5e3-4323-a262-01113b1e9dae}
 
 I denne fase af stikprøvekontrollen skal kommunen vurdere betydningen af de ulovlige forhold (såvel materielle som formelle mangler). Hvis kommunen bliver opmærksom på et ulovligt forhold, er den forpligtet til at søge forholdet lovliggjort, medmindre det er af bagatelagtig karakter.
 

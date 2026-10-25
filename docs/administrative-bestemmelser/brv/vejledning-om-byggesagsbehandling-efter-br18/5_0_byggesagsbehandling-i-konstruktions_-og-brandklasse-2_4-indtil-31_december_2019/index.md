@@ -334,7 +334,7 @@ Udover grundlaget for indplaceringen skal dokumentationen også som minimum inde
 
 •   A1. Konstruktionsgrundlag, jf. § 501, stk. 1, nr. 1,
 
-•   A2. Statiske beregninger -- bygværk, jf.§ 501, stk. 1, nr. 2, litra a,
+•   A2. Statiske beregninger – bygværk, jf.§ 501, stk. 1, nr. 2, litra a,
 
 •   A3. Konstruktionstegninger og modeller, jf. § 501, stk. 1, nr. 3,
 
@@ -376,7 +376,7 @@ Kommunalbestyrelsen træffer afgørelse om indplacering i brandklasse på baggru
 
 Kommunalbestyrelsen kan anmode om supplerende dokumentation, hvis det vurderes, at den tilsendte dokumentation ikke er tilstrækkelig til at kunne vurdere om byggeriet er indplaceret i den rette brandklasse.
 
-For yderligere vejledning om indplacering i brandklasse henvises til kapitel 1 i [Bygningsreglementets vejledning til kapitel 5 -- brand.](../../../../tekniske-bestemmelser/05/vejledninger/generel_brand){rel="noopener noreferrer" target="_blank"}
+For yderligere vejledning om indplacering i brandklasse henvises til kapitel 1 i [Bygningsreglementets vejledning til kapitel 5 – brand.](../../../../tekniske-bestemmelser/05/vejledninger/generel_brand){rel="noopener noreferrer" target="_blank"}
 
 ### 3.5.1. Dokumentation for indplacering i brandklasse 1 {#6a8a34ff-b88b-4312-95fe-04c1c6fd5bd9}
 
@@ -384,11 +384,11 @@ Dokumentation for indplacering i brandklasse 1 skal følge § 511. Det følger h
 
 Brandklasse 1 (BK1), som omfatter byggeri i risikoklasse 1, hvor hvert bygningsafsnit har et samlet etageareal, der er mindre end 600 m2. De tekniske løsninger skal udføres i overensstemmelse med de præ-accepterede løsninger, som er beskrevet i Bygningsreglementets vejledning til kapitel 5 - Brand. Til overholdelse af krav til byggeri i brandklasse 1 må der alene anvendes simple brandtekniske installationer, og håndslukningsudstyr.
 
-De præ-accepterede løsninger er beskrevet i forskellige bilag til Bygningsreglementets vejledning til kapitel 5 -- brand.
+De præ-accepterede løsninger er beskrevet i forskellige bilag til Bygningsreglementets vejledning til kapitel 5 – brand.
 
 Du kan læse mere om den brandtekniske dokumentation i [Bygningsreglementets vejledning til dokumentation brandforhold](../../../../tekniske-bestemmelser/05/vejledninger/generel_brand){rel="noopener noreferrer" target="_blank"}.
 
-### Dokumentation for indplacering i brandklasse 2 -- 4 {#a0662794-783a-4fcf-8263-5af61fc5d19e}
+### 3.5.2. Dokumentation for indplacering i brandklasse 2 – 4 {#a0662794-783a-4fcf-8263-5af61fc5d19e}
 
 Dokumentation for indplacering i brandklasse 2-4 skal ligesom brandklasse 1 følge §511, dvs., at dokumentationen skal indeholde en overordnet brandstrategi for byggeriet samt tegninger, der viser byggeriets udformning, og som underbygger, at den valgte brandstrategi kan indarbejdes i byggeriet.
 
@@ -468,7 +468,7 @@ Følgende oplysninger er frivillige, og kan fremgå af databasen, hvis den certi
 
 • Virksomhed
 
-• Kontaktoplysninger -- telefonnummer og mailadresse
+• Kontaktoplysninger – telefonnummer og mailadresse
 
 • Postnummer
 
@@ -502,7 +502,7 @@ Den bygværksprojekterende skal forestå:
 
 3.    Afgrænsning af byggeriet.
 
-4.    Udarbejdelse, kontrol og godkendelse af A1. Konstruktionsgrundlag, A2. 1. Statiske beregninger -- bygværk, A3. 1. Konstruktionstegninger og Modeller -- bygværk, B1. Statisk projektredegørelse og B2. Statisk kontrolplan.
+4.    Udarbejdelse, kontrol og godkendelse af A1. Konstruktionsgrundlag, A2. 1. Statiske beregninger – bygværk, A3. 1. Konstruktionstegninger og Modeller – bygværk, B1. Statisk projektredegørelse og B2. Statisk kontrolplan.
 
 5.    Specifikation og formidling af grundlag for projektering af de konstruktionsafsnit, der projekteres af andre end den bygværksprojekterende.
 
@@ -520,7 +520,7 @@ Den bygværksprojekterende skal forestå:
 
 12.    Koordinering af ændringer under projektering og udførelse.
 
-13.    Udarbejdelse, kontrol og godkendelse af A4. 1 Konstruktionsændringer -- bygværk.
+13.    Udarbejdelse, kontrol og godkendelse af A4. 1 Konstruktionsændringer – bygværk.
 
 14.    Koordinering og samling af dokumentationer for ændringer af konstruktioner i konstruktionsafsnit i A4. 2 Konstruktionsændringer - konstruktionsafsnit.
 
@@ -760,7 +760,7 @@ Nedenstående liste angiver en række tekniske forhold, som afhængigt af bygger
 
 **Kapitel 16: Legepladser mv.**
 
-- DS/EN 1176 -- serien
+- DS/EN 1176 – serien
 - Motionsredskaber og andre legeredskaber mv. iht. relevante standarder
 
 **Kapitel 17: Lydforhold**

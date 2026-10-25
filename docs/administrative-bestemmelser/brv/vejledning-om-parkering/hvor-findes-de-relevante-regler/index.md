@@ -56,7 +56,7 @@ De konkrete regler om kommunale parkeringsfonde er fastsat i cirkulære nr. 10 a
 
 #### DS-håndbog 186
 
-Tilgængelighedskrav i BR18 -- holdt op mod DS/ISO 21542
+Tilgængelighedskrav i BR18 – holdt op mod DS/ISO 21542
 
 #### Beskrivelse
 

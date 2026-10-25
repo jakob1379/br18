@@ -22,7 +22,7 @@ Den eller de personer, der bor i boligen, er boligens beboere og udgør tilsamme
 
 Ligeledes er der stor forskel på den enkelte persons fysiske, sensoriske, kognitive og psykiske forudsætninger. Er man barn, er man ældre, har man en funktionsnedsættelse, enten kronisk eller i en kortere eller længere periode, så spiller det en afgørende rolle i forhold til, hvilke behov og ønsker man har til boligen. Og da boligen er en vigtig ramme for vores sociale liv, er det ikke alene beboerne i den enkelte bolig, der er afgørende for, hvilke behov der skal tilgodeses. Man må også tage højde for nogle af de behov, som beboernes gæster kan have, således at det er muligt fx for den dårligt gående bedsteforælder at hjælpe med at passe børn eller komme til fødselsdag, eller for den svagtseende veninde at komme til middag. Det vil sige, at boligen bør give mulighed for at rumme en mangfoldighed af brugere og deres behov.
 
-Se endvidere SBi-anvisning 249 Tilgængelige boliger -- indretning. København: Statens Byggeforskningsinstitut, Aalborg Universitet (Sigbrand & Jensen, 2015).
+Se endvidere SBi-anvisning 249 Tilgængelige boliger – indretning. København: Statens Byggeforskningsinstitut, Aalborg Universitet (Sigbrand & Jensen, 2015).
 
 ### 1.3. Fleksibilitet i boligen {#0fa8534b-a98a-4234-ad46-d742c17f3559}
 

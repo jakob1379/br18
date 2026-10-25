@@ -74,7 +74,7 @@ Den brandtekniske dokumentation skal omfatte den dokumentation, der var krav om 
 
 3) Brandstrategirapport for lovliggørelsen, med det indhold, der fremgår af § 512.
 
-4) Dokumentation for eftervisning af brandsikkerheden ved fravigelser fra præ-accepterede løsninger, jf. afsnit 1, i det omfang det er relevant for lovliggørelsen. Rapport om brandteknisk dimensionering skal indeholde den dokumentation, som fremgår af § 516. Dokumentation skal foretages ved de metoder, og i øvrigt opbygges, som angivet i kapitel 8: Eftervisning i Bygningsreglementets Vejledning til kapitel 5 -- Brand.
+4) Dokumentation for eftervisning af brandsikkerheden ved fravigelser fra præ-accepterede løsninger, jf. afsnit 1, i det omfang det er relevant for lovliggørelsen. Rapport om brandteknisk dimensionering skal indeholde den dokumentation, som fremgår af § 516. Dokumentation skal foretages ved de metoder, og i øvrigt opbygges, som angivet i kapitel 8: Eftervisning i Bygningsreglementets Vejledning til kapitel 5 – Brand.
 
 5) Funktionsbeskrivelse for brandsikringstiltag omfattet af lovliggørelsen, med det indhold, der fremgår af § 517.
 

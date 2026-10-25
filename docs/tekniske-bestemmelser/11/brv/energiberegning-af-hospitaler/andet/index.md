@@ -146,7 +146,7 @@ Da energirammen for bygningsklasse 2020 ikke afhænger af bygningens størrelse,
 
 Trafik-, Bygge- og Boligstyrelsen er i jævnlig dialog med Foreningen Klimaskærm og de to certificeringsordninger, hvis certificerede virksomheder gennemfører tæthedsmåling på nye bygninger.
 
-Foreningens formand oplyser, at store bygninger ofte er byggeteknisk enkle og derfor let lever op til 2020 kravet. Erfaringer fra tæthedsprøvning af en række store bygninger viser, at de ofte har en tæthed på 0,2 -- 0,4 l/s pr. m2 ved 50 Pa, hvor kravet i bygningsklasse 2020 er 0,5 l/s pr. m2 ved 50 Pa.
+Foreningens formand oplyser, at store bygninger ofte er byggeteknisk enkle og derfor let lever op til 2020 kravet. Erfaringer fra tæthedsprøvning af en række store bygninger viser, at de ofte har en tæthed på 0,2 – 0,4 l/s pr. m2 ved 50 Pa, hvor kravet i bygningsklasse 2020 er 0,5 l/s pr. m2 ved 50 Pa.
 
 Trafik-, Bygge- og Boligstyrelsen er ikke via disse kontakter blevet bekendt med særskilte problemer i forbindelse med tæthed.
 
@@ -248,7 +248,7 @@ I rum med renlighedskrav, der overstiger de normale komfortanlæg, hvilket for e
 
 **Spørgsmål:** 
 
-*Hvordan håndteres sammenbygning med eksisterende bygning, hvor etagehøjden i den eksisterende bygning dikterer etagehøjden i det nye byggeri -- set i forhold til muligheden for at opfylde kravet til elforbrug til ventilation, SEL?*
+*Hvordan håndteres sammenbygning med eksisterende bygning, hvor etagehøjden i den eksisterende bygning dikterer etagehøjden i det nye byggeri – set i forhold til muligheden for at opfylde kravet til elforbrug til ventilation, SEL?*
 
 **Svar:**
 
@@ -294,7 +294,7 @@ Bestemmelsen i bygningsreglementet om VE-anlæg på bygningen eller nærved stam
 
 **Svar:**
 
-I bygningsklasse 2020 er der taget højde for at en stigende del af elproduktionen kommer fra VE-anlæg. Fælles produktion af vedvarende energi fra fx havvindmøller er allerede indregnet i Energifaktoren for el, der anvendes i bygningsklasse 2020. Energifaktoren er på grund af den forventede udbygning med vind reduceret fra 2,5 til 1,8. Det skal i denne sammenhæng bemærkes, at selv med en tidshorisont frem til 2050 forventes energifaktoren i Klimakommissionens fremtidsscenarier kun at falde til 1,25 -- 1,6 afhængigt af om udviklingen følger et ambitiøst scenarie eller ikke. Energistyrelsens fortolkning af "nærved" er en vidtgående fortolkning af EU direktivet, der begunstiger VE-anlæg.
+I bygningsklasse 2020 er der taget højde for at en stigende del af elproduktionen kommer fra VE-anlæg. Fælles produktion af vedvarende energi fra fx havvindmøller er allerede indregnet i Energifaktoren for el, der anvendes i bygningsklasse 2020. Energifaktoren er på grund af den forventede udbygning med vind reduceret fra 2,5 til 1,8. Det skal i denne sammenhæng bemærkes, at selv med en tidshorisont frem til 2050 forventes energifaktoren i Klimakommissionens fremtidsscenarier kun at falde til 1,25 – 1,6 afhængigt af om udviklingen følger et ambitiøst scenarie eller ikke. Energistyrelsens fortolkning af "nærved" er en vidtgående fortolkning af EU direktivet, der begunstiger VE-anlæg.
 
 **Spørgsmål:** 
 

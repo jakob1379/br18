@@ -9,5 +9,5 @@
 
 ### Vejledning til kapitel 34 - Certificeret brandrådgivers virke
 
-[Bygningsreglementets vejledning til kapitel 34 -- Certificeret brandrådgivers virke af 23.01.2025](../../../../../media/f5tnjp0r/bygningsreglementets-vejledning-til-kapitel-34-certificeret-brandraadgivers-virke_23-01-25.pdf "Bygningsreglementets Vejledning Til Kapitel 34 – Certificeret Brandrådgivers Virke 23 01 25"){rel="noopener" target="_blank"}
+[Bygningsreglementets vejledning til kapitel 34 – Certificeret brandrådgivers virke af 23.01.2025](../../../../../media/f5tnjp0r/bygningsreglementets-vejledning-til-kapitel-34-certificeret-brandraadgivers-virke_23-01-25.pdf "Bygningsreglementets Vejledning Til Kapitel 34 – Certificeret Brandrådgivers Virke 23 01 25"){rel="noopener" target="_blank"}
 

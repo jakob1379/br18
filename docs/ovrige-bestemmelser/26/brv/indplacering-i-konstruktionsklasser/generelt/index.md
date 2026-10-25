@@ -25,7 +25,7 @@ Konstruktionsklassen kan betragtes som et udtryk for konsekvenser ved et eventue
 
 Oplysning om og dokumentation for indplacering i konstruktionsklasse skal fremgå ved ansøgning om byggetilladelse, hvis det er relevant for byggearbejdet, jf. BR18, § 10, stk. 1, nr. 5. For mere om ansøgning om byggetilladelse henvises der til [bygningsreglementets vejledning om byggesagsbehandling efter BR18.](../../../../../administrative-bestemmelser/brv/vejledning-om-byggesagsbehandling-efter-br18/4_0_anvendelse-af-certificeret-statiker-og-brandraadgiver "4_0_Anvendelse af certificeret statiker og brandraadgiver")
 
-Kommunalbestyrelsen træffer afgørelse om indplacering i konstruktionsklasse på baggrund af den fremsendte dokumentation. Dokumentationen for indplacering i konstruktionsklasse skal følge BR18, §§ 503 -- 504. De relevante dele, der skal fremsendes sammen med ansøgningen om byggetilladelse beskrives yderligere i *[Vejledningen til BR18 kapitel 28 -- Dokumentation af bærende konstruktioner §494, §498, §499 og §503](../../../../../ovrige-bestemmelser/28/brv/vejledning-til-kapitel-28-dokumentation-af-baerende-konstruktioner)* samt i [*SBi-anvisning 271 Dokumentation og kontrol af bærende konstruktioner*.](../../../../../historisk/br18_version4/ovrige-bestemmelser/28/brv/sbi_anvisning/sbi_anvisninger#a0cc8c0d-39f3-4fbb-b0e6-2a53c9fa80b4 "SBI-anvisning 271 - Dokumentation og kontrol af bærende konstruktione"){rel="noopener" target="_blank"}
+Kommunalbestyrelsen træffer afgørelse om indplacering i konstruktionsklasse på baggrund af den fremsendte dokumentation. Dokumentationen for indplacering i konstruktionsklasse skal følge BR18, §§ 503 – 504. De relevante dele, der skal fremsendes sammen med ansøgningen om byggetilladelse beskrives yderligere i *[Vejledningen til BR18 kapitel 28 – Dokumentation af bærende konstruktioner §494, §498, §499 og §503](../../../../../ovrige-bestemmelser/28/brv/vejledning-til-kapitel-28-dokumentation-af-baerende-konstruktioner)* samt i [*SBi-anvisning 271 Dokumentation og kontrol af bærende konstruktioner*.](../../../../../historisk/br18_version4/ovrige-bestemmelser/28/brv/sbi_anvisning/sbi_anvisninger#a0cc8c0d-39f3-4fbb-b0e6-2a53c9fa80b4 "SBI-anvisning 271 - Dokumentation og kontrol af bærende konstruktione"){rel="noopener" target="_blank"}
 
 ### 1.0.1. Konstruktionsafsnit {#6abd7fb9-7a6b-4f94-a203-d5dc0e566a25}
 
@@ -76,7 +76,7 @@ Overordnet henføres konstruktioner eller konstruktionsafsnit til konsekvensklas
 Byggerier opdeles i henhold til DS/EN 1990 i konsekvensklasser alt efter omfanget af konsekvenser ved svigt i konstruktionen, herunder
 
 - Risiko for menneskeliv og personskade
-- Sociale forhold -- offentlige reaktioner på svigt
+- Sociale forhold – offentlige reaktioner på svigt
 - Risiko for forurening
 - Økonomiske tab
 
@@ -84,7 +84,7 @@ Dette grundlag adskiller sig fra byggeloven, idet byggeloven fx ikke eksplicit s
 
 ### 2.0.2. Konstruktionens kompleksitet {#91d32d98-0d1d-48ce-a0df-84f6114d0810}
 
-En konstruktion betegnes ifølge BR18, § 487 som simpel eller kompleks alt efter, hvordan de påvirkninger, der virker på konstruktionen, føres til fundament. Jo svære det er at overskue fordelingen af påvirkningerne og lastvirkningerne -- jo mere kompleks betegnes konstruktionen.
+En konstruktion betegnes ifølge BR18, § 487 som simpel eller kompleks alt efter, hvordan de påvirkninger, der virker på konstruktionen, føres til fundament. Jo svære det er at overskue fordelingen af påvirkningerne og lastvirkningerne – jo mere kompleks betegnes konstruktionen.
 
 En nærmere beskrivelse af konstruktioners kompleksitet fremgår af *SBi-anvisning 271 Dokumentation og kontrol af bærende konstruktioner*.
 

@@ -282,7 +282,7 @@ Et tilknyttet funktionskrav er brandmodstand, sikring af en flugtvej, personsikk
 </tbody>
 </table>
 
-## Tabel 4 -- Mindstekrav til klimaskærm for sommerhuse, campinghytter og lignende ferieboliger
+## Tabel 4 – Mindstekrav til klimaskærm for sommerhuse, campinghytter og lignende ferieboliger
 
 <table style="width:99%;">
 <colgroup>
@@ -484,19 +484,19 @@ Såfremt der sammen med genbrugte materialer også anvendes supplerende nye mate
 
 ## Tabel 8 - Emissionsfaktorer
 
-**Tabel 8.1 -- Emissionsfaktorer for el, fjernvarme og ledningsgas**
+**Tabel 8.1 – Emissionsfaktorer for el, fjernvarme og ledningsgas**
 
 Datasættet kan benyttes som emissionsfaktorer for energiforbrug. 
 
 [Download bilag 2, tabel 8.1 som excel-fil her.](../../../../media/xoontk4a/tabel-81.xlsx "Tabel 8.1")
 
-**Tabel 8.2 -- Emissionsfaktorer for brændstof**
+**Tabel 8.2 – Emissionsfaktorer for brændstof**
 
 Datasættet kan benyttes som emissionsfaktorer for brændstof til transport til, fra og på byggepladsen samt til forbrug fra maskiner.
 
 [Download bilag 2, tabel 8.2 som excel-fil her.](../../../../media/2bphcenr/tabel-82-september-2025.xlsx "Tabel 8.2 (September 2025)")
 
-## Tabel 9 -- Referenceværdier for beregning af klimapåvirkning, som ikke indgår i beregningen ifølge § 298, stk. 1.
+## Tabel 9 – Referenceværdier for beregning af klimapåvirkning, som ikke indgår i beregningen ifølge § 298, stk. 1.
 
 For at fastlægge størrelsen af den berettigede øgede klimapåvirkning, der som følge af § 298, stk. 8, ikke skal medregnes, foretages en isoleret beregning af klimapåvirkningen fra den del af bygningen, der er påvirket af det særlige forhold.
 
@@ -605,7 +605,7 @@ a er arealet som opgjort ifølge § 297, stk. 5, (i m2).
 
  
 
-## Tabel 10 -- Beregning af klimapåvirkning fra energiforbrug i byggeprocessen (modul A4 og A5)
+## Tabel 10 – Beregning af klimapåvirkning fra energiforbrug i byggeprocessen (modul A4 og A5)
 
 *Generelle beregningsprincipper*
 
@@ -681,7 +681,7 @@ For følgende delprocesser kan transport - i stedet for beregning af forbruget i
 
 Når der i ovenstående refereres til et antal kvadratmeter byggeri, benyttes samme areal som ifølge § 297, stk. 5.
 
-## Tabel 11 -- Generiske data for behandling af byggeaffald
+## Tabel 11 – Generiske data for behandling af byggeaffald
 
 Tabellen indeholder generiske data for udledninger pr. kg byggeaffald fra byggeprocessen (i modul A5), herunder afskær og andre materialer som bliver til affald under byggeprocessen. Det mest repræsentative datasæt anvendes.  For affald som indsamles blandet anvendes den højeste værdi af de blandede typer. Hvis der benyttes en EPD i stedet for nedenstående værdier, jf. § 297, stk. 7, fastlægges klimapåvirkningen til den samlede værdi af modulerne A1-A3 og C3-C4 for produktet.
 

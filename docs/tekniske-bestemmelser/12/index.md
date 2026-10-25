@@ -165,7 +165,7 @@ Løst udskiftelige pillebrændere med en indfyret effekt på højst 70 kW, der 
 
 ### § 310 {#paragraf-310}
 
-Oliefyrede varmluftsaggregater til bygningsopvarmning skal opfylde kravene til luftvarmere i *DS/EN 13842 Oliefyrede konvektionsluftvarmere -- stationære eller transportable til rumopvarmning*
+Oliefyrede varmluftsaggregater til bygningsopvarmning skal opfylde kravene til luftvarmere i *DS/EN 13842 Oliefyrede konvektionsluftvarmere – stationære eller transportable til rumopvarmning*
 
 ### § 311 {#paragraf-311}
 
@@ -255,9 +255,9 @@ Aftrækssystemer skal udføres og installeres, så de er sikret mod tilstopning,
 
 Aftrækssystemer skal projekteres, udføres og installeres, så de kan modstå fyringsanlæggets røggastemperatur. Der henvises til bestemmelserne i [§§ 105-107](/tekniske-bestemmelser/05/krav/) i forhold til risikoen for en brands opståen og spredning og § 323 i forhold til aftrækssystemets overfladetemperatur.
 
-*Stk. 2.* Manuelt fyrede fastbrændselsanlæg samt pejse og brændeovne må ikke tilsluttes aftræk med lavere temperaturklasse, jf. *DS/EN 1443 Skorstene -- Generelle krav end T400.* 
+*Stk. 2.* Manuelt fyrede fastbrændselsanlæg samt pejse og brændeovne må ikke tilsluttes aftræk med lavere temperaturklasse, jf. *DS/EN 1443 Skorstene – Generelle krav end T400.* 
 
-*Stk. 3.* Automatisk fyrede fastbrændselsanlæg og pilleovne må ikke tilsluttes aftræk med lavere temperaturklasse, jf.*DS/EN 1443 Skorstene -- Generelle krav end T250.*
+*Stk. 3.* Automatisk fyrede fastbrændselsanlæg og pilleovne må ikke tilsluttes aftræk med lavere temperaturklasse, jf.*DS/EN 1443 Skorstene – Generelle krav end T250.*
 
 ### § 321 {#paragraf-321}
 
@@ -273,7 +273,7 @@ Aftrækssystemer, der anvendes i forbindelse med fyringsanlæg med kondenserende
 
 ### § 323 {#paragraf-323}
 
-Aftrækssystemets overfladetemperatur må under normal drift ikke overstige den fastsatte maksimale berøringstemperatur i DS/EN 1443 Skorstene -- Generelle krav.
+Aftrækssystemets overfladetemperatur må under normal drift ikke overstige den fastsatte maksimale berøringstemperatur i DS/EN 1443 Skorstene – Generelle krav.
 
 *Stk. 2.* Stk. 1 kan fraviges, hvis aftrækssystemet placeres i en skakt og i overensstemmelse med producentens anvisninger.
 

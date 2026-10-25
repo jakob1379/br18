@@ -40,7 +40,7 @@ Beregningen af energikrav til vinduer, glasydervægge (Curtain Walls), ovenlysvi
 
 Energitilskuddet for vinduer beregnes som:
 
-Eref = I x g~w~ -- G x U~w~ = 196,4 x g~w~ -- 90,36 x U~w~
+Eref = I x g~w~ – G x U~w~ = 196,4 x g~w~ – 90,36 x U~w~
 
 hvor:
 
@@ -76,7 +76,7 @@ Beregningen af ovenlysvinduer foretages for et oplukkeligt referencevindue for e
 
 For ovenlysvinduer beregner vinduesproducenten energitilskuddet som:
 
-Eref = I x gw -- G x U = 345 x gw -- 90,36 x U
+Eref = I x gw – G x U = 345 x gw – 90,36 x U
 
 hvor:
 
@@ -96,7 +96,7 @@ For glasydervægge, jf. EN 13830 Curtain Walling, og glastage, beregnes energiba
 
 For glastage beregner producenten energitilskuddet som for ovenlysvinduer. Dog beregnes Eref fra profilsystemets centerlinjer i et fast og et oplukkeligt felt (hvis et sådant findes) i størrelsen 1,230 x 1,480 m.
 
-Ved beregning af U-værdi benyttes DS/EN 12631 Termisk ydeevne for curtainwalling -- Beregning af varmetransmissionskoefficient.
+Ved beregning af U-værdi benyttes DS/EN 12631 Termisk ydeevne for curtainwalling – Beregning af varmetransmissionskoefficient.
 
 -  [Gå til generelle mindstekrav til vinduer, glasydervægge, ovenlysvinduer og glastage (§ 258)](../../../krav/258#fd620db7-f2ed-41e9-8e42-3f4b75f234be){target="_blank"}
 
@@ -122,7 +122,7 @@ Bemærk, engelske udgaver af europæiske standarder kan købes hos [alle europ�
 
 [![](../../../../../assets/img/linkbox/ds_en_iso_linkbox.svg)](# "#title")
 
-#### DS/EN ISO 12631:2017 - Termisk ydeevne for curtainwalling -- Beregning af varmetransmissionskoefficient
+#### DS/EN ISO 12631:2017 - Termisk ydeevne for curtainwalling – Beregning af varmetransmissionskoefficient
 
 #### Beskrivelse
 

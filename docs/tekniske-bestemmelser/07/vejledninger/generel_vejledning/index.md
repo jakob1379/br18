@@ -81,7 +81,7 @@ Det overordnede krav til byggepladser fremgår af bygningsreglementet 2018, kap.
 
 3)   tages højde for vejrforhold.
 
-I §§ 162 -- 165 uddybes kravene til byggepladsen og udførelse af byggearbejde.
+I §§ 162 – 165 uddybes kravene til byggepladsen og udførelse af byggearbejde.
 
 ### 2.0. Planlægning og udførelse af byggearbejder {#c9304f30-d3dc-4ef6-a2f4-96000abc0f1f}
 
@@ -553,7 +553,7 @@ Påfyldning af brændstof til maskiner, generatorer, kompressorer, arbejdsredska
 
 ####
 
-Bekendtgørelse nr. 1639 af 06/12/2006 om Brandfarlige og brandbare væsker -- (inklusiv tekniske forskrifter)
+Bekendtgørelse nr. 1639 af 06/12/2006 om Brandfarlige og brandbare væsker – (inklusiv tekniske forskrifter)
 
 ####
 

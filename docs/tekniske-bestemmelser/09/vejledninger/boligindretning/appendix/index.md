@@ -66,15 +66,15 @@ Andersen, H.T.; Larsen, J.N.; Jensen, J.O. & Haldrup, K. (2014). Boligmarkedet u
 
 Bech-Danielsen, C.; Mechlenborg, M. & Stender, M. (2018). Velkommen hjem. Tendenser i dansk boligarkitektur. København: Politikens Forlag.
 
-Bech-Danielsen, C. (2006). Når sjælen flytter ind: Hjemfølelse og mobilitet. Den gode bolig -- Hvordan skal vi bo i fremtiden? Lyngby: Akademiet for de Tekniske Videnskaber.
+Bech-Danielsen, C. (2006). Når sjælen flytter ind: Hjemfølelse og mobilitet. Den gode bolig – Hvordan skal vi bo i fremtiden? Lyngby: Akademiet for de Tekniske Videnskaber.
 
 Beck, A.F. (2019). What is Co-housing? Developing a Conceptual Spatial Framework from the Studies of Danish Intergenerational Co-housing. Housing, Theory and Society. London: Routledge.
 
-de Place Hansen, E.J. (2015). Småhuse -- indretning og funktion (SBi-anvisning 253). København: Statens Byggeforskningsinstitut. Aalborg Universitet.
+de Place Hansen, E.J. (2015). Småhuse – indretning og funktion (SBi-anvisning 253). København: Statens Byggeforskningsinstitut. Aalborg Universitet.
 
 de Place Hansen, E.J. (red) (2018). Anvisning om Bygningsreglement 2018 (SBi-anvisning 272). København: Statens Byggeforskningsinstitut. Aalborg Universitet.
 
-Duelund Mortensen, P. (2018). Hjem -- bebyggelse -- by. Bolig og velfærd i København. København: Arkitekturforlaget B.
+Duelund Mortensen, P. (2018). Hjem – bebyggelse – by. Bolig og velfærd i København. København: Arkitekturforlaget B.
 
 Duelund Mortensen, P. (2018). Viljeløst og fattigt på visioner. Arkitekten nr. 8 vol. 120. København: Akademisk Arkitektforening.
 
@@ -92,7 +92,7 @@ Keiding, M. (2018). Krav til hinanden. Arkitekten nr. 8 vol. 120. København: Ak
 
 Keiding, M. (2018). Social ingeniørkunst. Arkitekten nr. 9 vol. 120. København: Akademisk Arkitektforening.
 
-Københavns Kommune (2019). Status på København 2018 -- opdateret august 2018. København: Københavns Kommune.
+Københavns Kommune (2019). Status på København 2018 – opdateret august 2018. København: Københavns Kommune.
 
 Liliegreen, C. & Jensen, P.B. (2017). De danske yderområder er udfordrede. København: Boligøkonomisk Videncenter. Realdania.
 
@@ -112,7 +112,7 @@ Ranten, K. (1991). Boligplan og brugsværdi. Hørsholm: Statens Byggeforskningsi
 
 Realdania By & Byg (2019). Byggefællesskaber. Beboerdrevet boligbyggeri i byudvikling. København: Realdania By & Byg.
 
-Sigbrand, L. & Jensen, P.H. (2015). Tilgængelige boliger -- indretning (SBi-anvisning 249). København: Statens Byggeforskningsinstitut, Aalborg Universitet.
+Sigbrand, L. & Jensen, P.H. (2015). Tilgængelige boliger – indretning (SBi-anvisning 249). København: Statens Byggeforskningsinstitut, Aalborg Universitet.
 
 SINTEF Byggforsk. (2019). Kjøkken i boliger (Byggforskserien 361.411). Oslo: SINTEF akademisk forlag.
 

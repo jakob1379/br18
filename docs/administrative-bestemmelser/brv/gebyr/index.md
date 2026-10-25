@@ -188,7 +188,7 @@ I nogle sager forekommer der en længere forhåndsdialog mellem kommunen og bygh
 
 Anden rate forfalder som nævnt til betaling, når bygningen endeligt kan tages lovligt i brug svarende til det tidspunkt, hvor byggesagen endeligt kan afsluttes, jf. ovenstående.
 
-Opkræves gebyret som et mindre, fast gebyr, forfalder gebyret til betaling, når byggearbejdet lovligt kan påbegyndes -- det vil sige ved meddelelse om byggetilladelse. Opkræves gebyret som et mindre, fast gebyr, kan kommunalbestyrelsen tilbageholde tilladelsen eller dispensationen, indtil gebyret er indbetalt.
+Opkræves gebyret som et mindre, fast gebyr, forfalder gebyret til betaling, når byggearbejdet lovligt kan påbegyndes – det vil sige ved meddelelse om byggetilladelse. Opkræves gebyret som et mindre, fast gebyr, kan kommunalbestyrelsen tilbageholde tilladelsen eller dispensationen, indtil gebyret er indbetalt.
 
 I tilfælde, hvor en ansøger i løbet af processen trækker sin ansøgning tilbage, kan kommunen opkræve gebyr for den tid, kommunen har brugt på byggesagsbehandling i perioden fra byggesagsbehandlingens påbegyndelse og indtil ansøgningen trækkes tilbage. Opkrævning af gebyret foregår i sådant et tilfælde ved, at kommunen meddeler ansøgeren et afslag med gebyropkrævning efter § 39, stk. 1 efterfulgt af en udspecificering af gebyret, jf. § 39, stk. 7.
 

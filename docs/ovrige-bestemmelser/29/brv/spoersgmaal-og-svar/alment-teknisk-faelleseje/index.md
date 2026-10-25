@@ -17,15 +17,15 @@
 
 #### Præ-accepteret løsning
 
-Præ-accepterede løsninger omfatter alene de brandsikringsløsninger, der fremgår af Bygningsreglementets vejledning til kapitel 5 -- Brand. De præ-accepterede løsninger angiver hvilke brandsikringstiltag, der indgår i løsningen, og de funktionskrav og ydeevnekriterier, der er til brandsikringstiltagene. De præ-accepterede løsninger angiver således grundlaget for projektering af de indgående brandsikringstiltag, herunder de funktionskrav og ydeevnekriterier, som skal opfyldes ved projektering og udførelse, for at opfylde den præ-accepterede løsning.
+Præ-accepterede løsninger omfatter alene de brandsikringsløsninger, der fremgår af Bygningsreglementets vejledning til kapitel 5 – Brand. De præ-accepterede løsninger angiver hvilke brandsikringstiltag, der indgår i løsningen, og de funktionskrav og ydeevnekriterier, der er til brandsikringstiltagene. De præ-accepterede løsninger angiver således grundlaget for projektering af de indgående brandsikringstiltag, herunder de funktionskrav og ydeevnekriterier, som skal opfyldes ved projektering og udførelse, for at opfylde den præ-accepterede løsning.
 
-De præ-accepterede løsninger er materialeneutrale og angiver ikke anvisninger til udformning af byggevarer og bygningsdele, som udgør brandsikringstiltag. I kapitel 1 i Bygningsreglementets vejledning til kapitel 5 -- Brand, angives retningslinjer for dokumentation af de brandmæssige egenskaber af byggevarer og bygningsdele.
+De præ-accepterede løsninger er materialeneutrale og angiver ikke anvisninger til udformning af byggevarer og bygningsdele, som udgør brandsikringstiltag. I kapitel 1 i Bygningsreglementets vejledning til kapitel 5 – Brand, angives retningslinjer for dokumentation af de brandmæssige egenskaber af byggevarer og bygningsdele.
 
 Ved fravigelse af præ-accepterede løsninger, f.eks. ved udeladelse af et brandsikringstiltag eller ved anvendelse af andre funktionskrav eller ydeevnekriterier for et brandsikringstiltag, end forudsat i den præ-accepterede løsning, skal det eftervises, at sikkerhedsniveauet i BR18, kapitel 5 er opfyldt. Fravigelse af præ-accepterede løsninger og metode for eftervisning af sikkerhedsniveauet ved fravigelsen, kan influere på byggeriets indplacering i brandklasse.
 
 #### Dokumentation af bygningsdeles brandmæssige egenskaber
 
-I Bygningsreglementets vejledning til kapitel 5 -- Brand, Kapitel 1: Generelt om sikkerhed ved brand, afsnit 1.7.1 Dokumentation af byggevarers og bygningsdeles brandmæssige egenskaber, er angivet følgende:
+I Bygningsreglementets vejledning til kapitel 5 – Brand, Kapitel 1: Generelt om sikkerhed ved brand, afsnit 1.7.1 Dokumentation af byggevarers og bygningsdeles brandmæssige egenskaber, er angivet følgende:
 
 *En byggevare eller en bygningsdels brandmæssige egenskaber kan dokumenteres på følgende måder:*
 
@@ -34,7 +34,7 @@ I Bygningsreglementets vejledning til kapitel 5 -- Brand, Kapitel 1: Generelt om
 - *Beregning efter Eurocode*
 - *Kommissions delegerede forordninger/beslutninger omhandlende byggevarer, der er klassificeret uden eller uden yderligere brandprøvning (CWT/CWFT).*
 
-Dokumentation ved de 4 måder er yderligere beskrevet i de efterfølgende afsnit 1.7.2 -- 1.7.5.
+Dokumentation ved de 4 måder er yderligere beskrevet i de efterfølgende afsnit 1.7.2 – 1.7.5.
 
 Det fremgår endvidere af afsnit 1.7.1, at:
 
@@ -48,7 +48,7 @@ Hvis der anvendes en løsning for et brandsikringstiltag fra alment teknisk fæl
 
 Alment teknisk fælleseje kan således anvendes ved projektering af brandsikringstiltag, til dokumentation af, at brandsikringstiltaget opfylder de funktionskrav og ydeevnekriterier, der er stillet hertil i den brandtekniske dokumentation fra designprocessen (i brandstrategi, funktionsbeskrivelse, brandplaner mv.).
 
-Noget alment teknisk fælleseje, og særligt af ældre dato, opstiller både funktionskrav og ydeevnekriterier til et brandsikringstiltag og angiver konkrete løsninger til udformninger af brandsikringstiltaget for opfyldelse af disse. I nogle tilfælde kan der være opstillet funktionskrav og ydeevnekriterier, der fraviger fra funktionskrav og ydeevnekriterier i den aktuelle præ-accepterede løsning i Bygningsreglementets vejledning til kapitel 5 -- Brand. Det er derfor vigtigt at være opmærksom på, at alment teknisk fælleseje ikke kan anvendes i design-processen til at fastsætte funktionskrav og ydeevnekriterier til brandsikringstiltag, der indgår i præ-accepterede løsninger.
+Noget alment teknisk fælleseje, og særligt af ældre dato, opstiller både funktionskrav og ydeevnekriterier til et brandsikringstiltag og angiver konkrete løsninger til udformninger af brandsikringstiltaget for opfyldelse af disse. I nogle tilfælde kan der være opstillet funktionskrav og ydeevnekriterier, der fraviger fra funktionskrav og ydeevnekriterier i den aktuelle præ-accepterede løsning i Bygningsreglementets vejledning til kapitel 5 – Brand. Det er derfor vigtigt at være opmærksom på, at alment teknisk fælleseje ikke kan anvendes i design-processen til at fastsætte funktionskrav og ydeevnekriterier til brandsikringstiltag, der indgår i præ-accepterede løsninger.
 
 I Bygningsreglementets Vejledning til kapitel 29: Dokumentation af brandforhold, afsnit 1.3.3 Dokumentation ved anvendelse af alment teknisk fælleseje fremgår følgende:
 
@@ -68,7 +68,7 @@ Bygningsejer, eller dennes fagansvarlige rådgiver, har således ansvaret for, a
 
 #### Den certificerede brandrådgivers virke ift. dokumentation ved ATF
 
-I Bygningsreglementets vejledning til kapitel 34 -- Certificerede brandrådgivers virke, afsnit 1.1 angives følgende:
+I Bygningsreglementets vejledning til kapitel 34 – Certificerede brandrådgivers virke, afsnit 1.1 angives følgende:
 
 *BR18 stiller krav til, at den certificerede brandrådgiver udarbejder eller kontrollerer den del af dokumentationen, der vedrører designprocessen (udfærdigelse af den brandtekniske dokumentation herunder kontrolplaner), jf. BR18, § 548. For den del af dokumentationen, som vedrører dokumentation for projektering og udførelse af brandsikringstiltag, skal den certificerede brandrådgiver som minimum udfærdige kontrolplaner og sikre, at kontrolrapporter er udarbejdet og afvigelser behandlet.*
 

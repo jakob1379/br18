@@ -46,7 +46,7 @@ De tekniske installationer bør på lige fod med boligens øvrige dispositioner 
 
 Installationer til afløb og ventilation bør placeres samlet i boligen. Varme-, el- og datainstallationer skal derimod ud i alle rum og er mere fleksible i forhold til, hvordan de placeres. Derudover skal der afsættes plads til vvs-komponenter som opvarmningsanlæg og varmtvandsforsyning samt deres rørinstallationer. Disse komponenter kan placeres i et bryggers eller i et andet rum som fx køkken, gang, opbevaringsrum eller badeværelse, således at de er lette at komme til.
 
-Se SBi-anvisning 253, Småhuse -- indretning og funktion, 3.8 Disponering af installationer og føringsveje (de Place Hansen, 2015).
+Se SBi-anvisning 253, Småhuse – indretning og funktion, 3.8 Disponering af installationer og føringsveje (de Place Hansen, 2015).
 
 ### 2.11. Uderum {#069a16f1-9b52-4f41-8fc9-7e4609b24a3a}
 

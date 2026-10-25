@@ -11,7 +11,7 @@ Ud over reglerne i Elevatordirektivet er opstillet krav til adgangsveje og anven
 - *Bekendtgørelse nr. 460 af 23/05/2016 om adgangsveje til elevatorer, rulletrapper og lignende maskiner*
 - *Bekendtgørelse nr*. 461 af 23/05/2016 om anvendelse m.v. af elevatorer, rulletrapper og lignende maskiner
 
-Ydermere har SBi udarbejdet SBi-anvisning 249 Tilgængelige boliger -- indretning, og Anvisning 262 Tilgængelige etageboliger -- indledende spørgsmål. Begge indeholder relevant vejledning i forhold til elevatorer og løfteplatforme.
+Ydermere har SBi udarbejdet SBi-anvisning 249 Tilgængelige boliger – indretning, og Anvisning 262 Tilgængelige etageboliger – indledende spørgsmål. Begge indeholder relevant vejledning i forhold til elevatorer og løfteplatforme.
 
 Som alternativ til elevatorer kan der under visse omstændigheder anvendes løfteplatforme. Ligesom elevatorer er løfteplatforme løftemateriel der betjener fastlagte niveauer ad en fast bane, dog med en hastighed på højst 0,15 m/s. Derudover har den også til formål at transportere personer og gods, men ikke gods alene.
 
@@ -68,7 +68,7 @@ Figur 3: Eksempler på etager i bygninger (snit) - Eksemplerne er vejledende og 
 
 ### 2.0. Tilgængelighed {#05a1649c-3682-4580-8da1-6eeeeb260593}
 
-Ifølge bygningsreglementet 2018, § 249, skal der i nybyggeri, hvor der installeres elevator, være mindst én elevator designet og udført som type 2 elevator i overensstemmelse med *DS/EN 81-70+A1:2009: Sikkerhedsforskrifter for konstruktion og installation af elevatorer -- Særlig anvendelser for passager- og godselevatorer -- Del 70: Tilgængelighed til elevatorer for personer, inklusive personer med handicap.* Dette gælder for alle opgange. En type 2 elevator stiller bl.a. specifikke krav til elevatorens dimensioner (1,4 meter x 1,1 meter) og placering af betjeningsknapper.
+Ifølge bygningsreglementet 2018, § 249, skal der i nybyggeri, hvor der installeres elevator, være mindst én elevator designet og udført som type 2 elevator i overensstemmelse med *DS/EN 81-70+A1:2009: Sikkerhedsforskrifter for konstruktion og installation af elevatorer – Særlig anvendelser for passager- og godselevatorer – Del 70: Tilgængelighed til elevatorer for personer, inklusive personer med handicap.* Dette gælder for alle opgange. En type 2 elevator stiller bl.a. specifikke krav til elevatorens dimensioner (1,4 meter x 1,1 meter) og placering af betjeningsknapper.
 
 Elevatorer skal altid tilpasses til anvendelsen og det kan således være nødvendigt med en elevator der er større end minimumskravet, for eksempel såfremt den skal kunne medbringe større kørestole eller ambulancebårer, eller såfremt den etableres i et byggeri med mange brugere.
 
@@ -76,7 +76,7 @@ Ved især ombygninger kan det være svært at opfylde kravet om en type 2 elevat
 
 ### 3.0. Sikkerhed {#248e9b9f-04af-49ff-9027-ae22f804e2f0}
 
-Elevatorer i nybyggeri kan opføres efter *DS/EN 81-20:2014 Sikkerhedsregler for konstruktion og installation af elevatorer -- Elevatorer til transport af personer og gods -- Del 20: Personelevatorer og person-gods-elevatorer.* I forbindelse med installation af nye elevatorer i eksisterende byggeri kan det være nødvendigt at anvende DS*/EN 81-21+A1: 2012 Sikkerhedsforskrifter for konstruktion og installation af elevatorer -- Elevatorer til transport af personer og gods -- Del 21: Nye person- og godselevatorer i eksisterende bygninger*.
+Elevatorer i nybyggeri kan opføres efter *DS/EN 81-20:2014 Sikkerhedsregler for konstruktion og installation af elevatorer – Elevatorer til transport af personer og gods – Del 20: Personelevatorer og person-gods-elevatorer.* I forbindelse med installation af nye elevatorer i eksisterende byggeri kan det være nødvendigt at anvende DS*/EN 81-21+A1: 2012 Sikkerhedsforskrifter for konstruktion og installation af elevatorer – Elevatorer til transport af personer og gods – Del 21: Nye person- og godselevatorer i eksisterende bygninger*.
 
 Løfteplatforme kan opføres efter DS/EN 81-41:2011 *vertikale løfteplatforme til personer med hæmmede bevægelsesmuligheder.* Løfteplatforme forstås ikke som elevatorer, idet de normalt ikke opfylder de samme krav til personsikkerhed i *Bekendtgørelse nr. 1540 af 10/12/2015.* Grundet dette er det som udgangspunkt kun muligt at anvende løfteplatforme, hvis det sker for at udligne niveauforskelle inden for én enhed, og ikke som niveaufri afgang i fælles adgangsveje. Såfremt løfteplatforme ønskes anvendt til netop niveaufri adgang i fælles adgangsveje, skal de ligeledes udføres med lukket stol og efterleve sikkerhedsniveauet i *DS/EN 81-70*.
 

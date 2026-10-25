@@ -72,7 +72,7 @@ Miljøministeriet har emissionskrav til en række biobrændselsfyrede anlæg.
 
 Den maksimale nytteeffekt vil for de fleste fyringsanlæg kunne oplyses af fabrikanten. En række europæiske standarder har andre afgrænsninger mht. kedelstørrelser. Temperaturforholdene er vejledende egnet til røggaskølere, hvis følgende gælder:
 
-Returtemperatur ved -- 12 °C ude:
+Returtemperatur ved – 12 °C ude:
 
 \- Ved gasfyring højst 45 °C
 
@@ -122,7 +122,7 @@ Skorstene skal, uanset om de er fritstående eller integrerede, overholde bygnin
 
 ### 1.7. Øvrige energiforsyningsanlæg: Solvarme, solcelle-, køleanlæg og varmepumper {#132de16a-1c14-4ca9-8276-7e0c09cdacec}
 
-Solvarmerør kan blive over 85 -- 100° C varme og bør derfor ikke placeres i kontakt med brændbart materiale, herunder trækonstruktioner. Der skal træffes foranstaltninger mod skoldningsfare fra varmt brugsvand.
+Solvarmerør kan blive over 85 – 100° C varme og bør derfor ikke placeres i kontakt med brændbart materiale, herunder trækonstruktioner. Der skal træffes foranstaltninger mod skoldningsfare fra varmt brugsvand.
 
 Der henvises til:
 
@@ -136,11 +136,11 @@ Der henvises til
 
 \- bekendtgørelse om klassifikation af eksplosionsfarlige områder og bekendtgørelse om indretning af tekniske hjælpemidler til anvendelse i eksplosionsfarlig atmosfære.
 
-\- At vejledning, tekniske hjælpemidler -- B. 4.4 Køleanlæg og varmepumper og DS/EN 378-1 og 2 Kølesystemer og varmepumper -- Sikkerheds- og miljøkrav.
+\- At vejledning, tekniske hjælpemidler – B. 4.4 Køleanlæg og varmepumper og DS/EN 378-1 og 2 Kølesystemer og varmepumper – Sikkerheds- og miljøkrav.
 
 \- Gasreglementet
 
-\- DS/EN 378 - Kølesystemer og varmepumper -- Sikkerheds- og miljøkrav - Del 1, 2, 3 og 4
+\- DS/EN 378 - Kølesystemer og varmepumper – Sikkerheds- og miljøkrav - Del 1, 2, 3 og 4
 
 Kravet om tilfredsstillende nøjagtighed af målere er opfyldt ved anvendelse af typegodkendte målere eller målere med en tilsvarende nøjagtighed.
 

@@ -32,15 +32,15 @@
 
 Relevante standarder i forbindelse med funktionsafprøvning af ventilationssystemer  omfatter:
 
-> • DS 447, *Ventilation i bygninger -- Mekaniske, naturlige og hybride ventilationssystemer*
+> • DS 447, *Ventilation i bygninger – Mekaniske, naturlige og hybride ventilationssystemer*
 
 >
 
-> • DS/EN 12599, *Ventilation i bygninger -- Prøvningsprocedurer og målemetoder ved aflevering af installerede aircondition- og ventilationssystemer*
+> • DS/EN 12599, *Ventilation i bygninger – Prøvningsprocedurer og målemetoder ved aflevering af installerede aircondition- og ventilationssystemer*
 
 >
 
-> • DS/EN 14134, *Ventilation til bygninger -- Ydeevneprøvning og installationskontrol af systemer til boligventilation*
+> • DS/EN 14134, *Ventilation til bygninger – Ydeevneprøvning og installationskontrol af systemer til boligventilation*
 
 >
 

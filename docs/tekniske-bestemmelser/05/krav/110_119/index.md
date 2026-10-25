@@ -582,7 +582,7 @@ Før ibrugtagning af et byggeri skal der gennemføres en funktionsafprøvning og
 
 ### § 135 {#paragraf-135}
 
-For bygningsafsnit i risikoklasse 2-4 skal funktionsafprøvning og kontrol for følgende brandtekniske installationer foretages af et akkrediteret inspektionsorgan, der er akkrediteret i henhold til DS/EN/ ISO/IEC 17020 -- Overensstemmelsesvurdering -- Krav til forskellige typer inspektionsorganer:
+For bygningsafsnit i risikoklasse 2-4 skal funktionsafprøvning og kontrol for følgende brandtekniske installationer foretages af et akkrediteret inspektionsorgan, der er akkrediteret i henhold til DS/EN/ ISO/IEC 17020 – Overensstemmelsesvurdering – Krav til forskellige typer inspektionsorganer:
 
 1) Automatisk brandalarmanlæg, ABA-anlæg.
 
@@ -602,7 +602,7 @@ For bygningsafsnit i risikoklasse 2-4 skal funktionsafprøvning og kontrol for f
 
 Hvor flere brandtekniske installationer skal virke sammen, skal der før ibrugtagning foretages systemintegrationstest, der viser, at det sammenhængende system af installationer har den ønskede funktion.
 
-*Stk. 2.* Systemintegrationstest udføres efter Bygningsreglementets vejledning til kapitel 5 -- Brand eller på anden måde, som på tilsvarende vis dokumenterer, at de brandtekniske installationer fungerer efter hensigten. For bygningsafsnit i risikoklasse 2-4 skal systemintegrationstest foretages af et akkrediteret inspektionsorgan, der er akkrediteret i henhold til DS/EN/ ISO/IEC 17020 -- Overensstemmelsesvurdering -- Krav til forskellige typer af inspektionsorganer.
+*Stk. 2.* Systemintegrationstest udføres efter Bygningsreglementets vejledning til kapitel 5 – Brand eller på anden måde, som på tilsvarende vis dokumenterer, at de brandtekniske installationer fungerer efter hensigten. For bygningsafsnit i risikoklasse 2-4 skal systemintegrationstest foretages af et akkrediteret inspektionsorgan, der er akkrediteret i henhold til DS/EN/ ISO/IEC 17020 – Overensstemmelsesvurdering – Krav til forskellige typer af inspektionsorganer.
 
 ## § 137 - § 146 Drift, kontrol og vedligehold af brandforhold i og ved bygninger {#485950eb-76a7-424f-a7a9-fa0c55df7ae3}
 
@@ -628,7 +628,7 @@ Brandtekniske installationer, håndslukningsudstyr samt brandsikring af ventilat
 
 *Stk. 2.* Kravet om løbende funktionsafprøvning og kontrol anses som opfyldt, hvis afprøvning og kontrol sker med de intervaller, som er beskrevet i Bygningsreglementets vejledning til kapitel 5 - Brand.
 
-Stk. 3. For bygningsafsnit i risikoklasse 2-4 skal den løbende funktionsafprøvning og kontrol af følgende brandtekniske installationer foretages af et akkrediteret inspektionsorgan, der er akkrediteret i henhold til DS/EN/ ISO/IEC 17020 - Overensstemmelsesvurdering -- Krav til forskellige typer inspektionsorganer:
+Stk. 3. For bygningsafsnit i risikoklasse 2-4 skal den løbende funktionsafprøvning og kontrol af følgende brandtekniske installationer foretages af et akkrediteret inspektionsorgan, der er akkrediteret i henhold til DS/EN/ ISO/IEC 17020 - Overensstemmelsesvurdering – Krav til forskellige typer inspektionsorganer:
 
 1) Automatisk brandalarmanlæg, ABA-anlæg.
 
@@ -654,9 +654,9 @@ Hvor flere brandtekniske installationer skal virke sammen, skal der foretages l�
 
 **  **
 
-*Stk. 2.* Kravet om løbende systemintegrationstest i stk. 1 anses som opfyldt, hvis systemintegrationstesten sker med de intervaller, som er beskrevet i Bygningsreglementets vejledning til kapitel 5 -- Brand.
+*Stk. 2.* Kravet om løbende systemintegrationstest i stk. 1 anses som opfyldt, hvis systemintegrationstesten sker med de intervaller, som er beskrevet i Bygningsreglementets vejledning til kapitel 5 – Brand.
 
-*Stk. 3.* Den løbende systemintegrationstest udføres efter Bygningsreglementets vejledning til kapitel 5 -- Brand eller på anden måde, som på tilsvarende vis dokumenterer, at de brandtekniske installationer fungerer efter hensigten. For bygningsafsnit i risikoklasse 2-4 skal systemintegrationstest foretages af et akkrediteret inspektionsorgan, der er akkrediteret i henhold til DS/EN ISO/IEC 17020 -- Overensstemmelsesvurdering -- Krav til forskellige typer inspektionsorganer.
+*Stk. 3.* Den løbende systemintegrationstest udføres efter Bygningsreglementets vejledning til kapitel 5 – Brand eller på anden måde, som på tilsvarende vis dokumenterer, at de brandtekniske installationer fungerer efter hensigten. For bygningsafsnit i risikoklasse 2-4 skal systemintegrationstest foretages af et akkrediteret inspektionsorgan, der er akkrediteret i henhold til DS/EN ISO/IEC 17020 – Overensstemmelsesvurdering – Krav til forskellige typer inspektionsorganer.
 
 *Stk. 4.* Stk. 3 omfatter alene byggeri, hvortil der er meddelt ibrugtagningstilladelse i medfør af bekendtgørelser udstedt vedrørende bygningsreglement 2018 samt byggeri opført efter tidligere lovgivning, hvor systemintegrationstest ved et akkrediteret inspektionsorgan er et krav i byggetilladelsen eller en forudsætning i den brandtekniske dokumentation for det pågældende byggeri.
 

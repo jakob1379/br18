@@ -100,7 +100,7 @@ Kontrol af lysføler/sensor ved måling af belysningsstyrke, E, i de tilfælde h
 >
 > • Almenbelysning tænder automatisk, når belysningsstyrken er under E~min~ for lokale/zone, og der er konstateret persontilstedeværelse, hvis det anvendes bevægelsesmelder.
 >
-> • Reguleringen fungerer jf. dokumentationen -- konstateres for eksempel ved at trække gardiner for eller lukke solafskærmning
+> • Reguleringen fungerer jf. dokumentationen – konstateres for eksempel ved at trække gardiner for eller lukke solafskærmning
 >
 > • Solafskærmning aktiveres når belysningsstyrken er over E~max~ for lokale/zone
 >

@@ -48,7 +48,7 @@ Etageantallet beregnes som forholdet mellem etagearealet og det bebyggede areal.
 
 [![](../../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
 
-#### Dansk standard: DS 418 -- Beregning af bygningers varmetab
+#### Dansk standard: DS 418 – Beregning af bygningers varmetab
 
 #### Anvendelsesområde
 

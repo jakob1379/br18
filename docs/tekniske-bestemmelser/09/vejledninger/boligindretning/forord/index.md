@@ -70,7 +70,7 @@ Forskningschef, Sektionen for Bygge-, Anlægsteknik og Proces, BUILD AAU
 
 En bolig er en bygning, der har en særlig funktion: Den er beregnet til beboelse. Boligen kan udvikle sig til at blive et hjem, når beboerne flytter ind i boligen og knytter sig til den. Mens bygninger og boliger er fysiske rammer, er hjemmet forbundet med en følelsesmæssig relation. De fysiske rammer kan være afgørende for udviklingen af hjemfølelsen, men også andre kvaliteter, som fx gode naboer og minder, kan være afgørende.
 
-Boligens status som hjem har fået øget betydning gennem de seneste årtier. Boligen er knyttet til oplevelsen af identitet, og mange beboere giver deres bolig et personligt præg, ikke mindst gennem indretning og boligens brug. Med det personlige præg bliver boligen til et særligt sted, som beboeren knytter sig til. Det kan derfor være en stor kvalitet ved en bolig, når beboerne har mulighed for at præge den og dens umiddelbare omgivelser. Det gælder såvel i det store som i det små. En bolig kan blive personliggjort ved fx at tilføje individuelle tilbygninger, flytte vægge i boligen, placere en lille gruppe af opholdsmøbler ved indgangspartiet eller blot et par krukker med blomster foran hoveddøren. På den måde markerer beboeren sit område, udformer boligen, så den passer til de aktuelle behov, sætter sit personlige præg på boligen -- og skaber et hjem.
+Boligens status som hjem har fået øget betydning gennem de seneste årtier. Boligen er knyttet til oplevelsen af identitet, og mange beboere giver deres bolig et personligt præg, ikke mindst gennem indretning og boligens brug. Med det personlige præg bliver boligen til et særligt sted, som beboeren knytter sig til. Det kan derfor være en stor kvalitet ved en bolig, når beboerne har mulighed for at præge den og dens umiddelbare omgivelser. Det gælder såvel i det store som i det små. En bolig kan blive personliggjort ved fx at tilføje individuelle tilbygninger, flytte vægge i boligen, placere en lille gruppe af opholdsmøbler ved indgangspartiet eller blot et par krukker med blomster foran hoveddøren. På den måde markerer beboeren sit område, udformer boligen, så den passer til de aktuelle behov, sætter sit personlige præg på boligen – og skaber et hjem.
 
 Gennem lovgivningen i bygningsreglementet kan man sætte en minimumsgrænse for de komforthensyn, der udgør rammen for boligen, og som danner grundlag for, at boligen kan udvikle sig til et hjem.
 
@@ -80,7 +80,7 @@ Den eller de personer, der bor i boligen, er boligens beboere og udgør tilsamme
 
 Ligeledes er der stor forskel på den enkelte persons fysiske, sensoriske, kognitive og psykiske forudsætninger. Er man barn, er man ældre, har man en funktionsnedsættelse, enten kronisk eller i en kortere eller længere periode, så spiller det en afgørende rolle i forhold til, hvilke behov og ønsker man har til boligen. Og da boligen er en vigtig ramme for vores sociale liv, er det ikke alene beboerne i den enkelte bolig, der er afgørende for, hvilke behov der skal tilgodeses. Man må også tage højde for nogle af de behov, som beboernes gæster kan have, således at det er muligt fx for den dårligt gående bedsteforælder at hjælpe med at passe børn eller komme til fødselsdag, eller for den svagtseende veninde at komme til middag. Det vil sige, at boligen bør give mulighed for at rumme en mangfoldighed af brugere og deres behov.
 
-Se endvidere SBi-anvisning 249 Tilgængelige boliger -- indretning. København: Statens Byggeforskningsinstitut, Aalborg Universitet (Sigbrand & Jensen, 2015).
+Se endvidere SBi-anvisning 249 Tilgængelige boliger – indretning. København: Statens Byggeforskningsinstitut, Aalborg Universitet (Sigbrand & Jensen, 2015).
 
 ### 1.3. Fleksibilitet i boligen {#0fa8534b-a98a-4234-ad46-d742c17f3559}
 
@@ -138,7 +138,7 @@ I planlægningen af boligens placering på grunden skal parkeringsmulighederne o
 
 Se SBi-anvisning 272, Anvisning om Bygningsreglementet 2018-20. Ubebyggede arealer ved bebyggelsen, Parkeringsarealer (de Place Hansen, 2018).
 
-Se SBi-anvisning 249, Tilgængelige boliger -- Indretning, 1.2 Parkeringsarealer for biler og cykler m.m. (Sigbrand & Jensen, 2015).
+Se SBi-anvisning 249, Tilgængelige boliger – Indretning, 1.2 Parkeringsarealer for biler og cykler m.m. (Sigbrand & Jensen, 2015).
 
 ###
 
@@ -158,7 +158,7 @@ Adgangsvejen til boligen er overgangen mellem det offentlige rum og den private 
 
 Overgangszonen kan desuden tænkes som et fællesområde, der kan udformes, så det lægger op til uformelt samvær og spontant møde mellem de beboere, der deler ejendom eller bor i bebyggelsen. Overgangszonen kan tillige udformes, så den modvirker, at vind, træk og kulde kommer ind i boligen, ligesom den kan skærme for generende indblik.
 
-Se SBi-anvisning 272, Anvisning om Bygningsreglementet 2018 -- 2. Adgangsforhold, Fælles adgangsveje i bygningen (de Place Hansen, 2018).
+Se SBi-anvisning 272, Anvisning om Bygningsreglementet 2018 – 2. Adgangsforhold, Fælles adgangsveje i bygningen (de Place Hansen, 2018).
 
 ###
 
@@ -198,7 +198,7 @@ Et trappeløb kan skabe sammenhæng mellem flere etager, et ensidigt hældende t
 
 Åbninger i etageadskillelsen kan være en måde at skabe en tættere forbindelse mellem to etager. Man bør dog være opmærksom på, at rum gennem to etager kan give en uheldig varmefordeling samt eventuelle lyd-, træk- og lugtgener.
 
-Rige rumoplevelser tilfører kvalitet til boligen. Arkitektoniske elementer, som fx nicher eller karnapper, kan bidrage til at øge kvaliteten, samtidig med at de kan lægge op til en opdeling af rummet i mindre områder. Det betyder, at der -- ud over de funktionelle krav til rummenes anvendelighed, placering og størrelse -- også kan lægges et arkitektonisk blik på rummets udformning og rumforløbets kvalitet.
+Rige rumoplevelser tilfører kvalitet til boligen. Arkitektoniske elementer, som fx nicher eller karnapper, kan bidrage til at øge kvaliteten, samtidig med at de kan lægge op til en opdeling af rummet i mindre områder. Det betyder, at der – ud over de funktionelle krav til rummenes anvendelighed, placering og størrelse – også kan lægges et arkitektonisk blik på rummets udformning og rumforløbets kvalitet.
 
 ###
 
@@ -266,7 +266,7 @@ Trappen er et arkitektonisk element, der kan give boligen rumlig karakter, samti
 
 En intern trappe fungerer godt, hvis den er placeret, så den giver ugeneret passage imellem boligens områder og ikke besværliggør møbleringen af rummene eller generer rummets ganglinjer. En trappe, der forbinder entréen med en gang på etagen ovenover, giver ugeneret adgang til begge etager og opdeler samtidig boligen i to adskilte dele. Det giver mulighed for at opdele boligen i fx et område til hjemmearbejde, et område, der kan fremlejes, eller med adskilte boligarealer til forskellige generationer. En trappe, der forbinder fx et køkken-alrum med en stue på etagen over, kan give oplevelsen af et sammenhængende rum, men også mere gennemgangstrafik og uheldig varmefordeling (kap. 2.5, ill. 07).
 
-Se SBi-anvisning 253, Småhuse -- indretning og funktion, 3.7 Trapper i boligen (de Place Hansen, 2015).
+Se SBi-anvisning 253, Småhuse – indretning og funktion, 3.7 Trapper i boligen (de Place Hansen, 2015).
 
 ### 2.9. Opbevaring {#384b515f-6eb0-4cea-b038-30f5f2032df1}
 
@@ -284,11 +284,11 @@ De tekniske installationer bør på lige fod med boligens øvrige dispositioner 
 
 Installationer til afløb og ventilation bør placeres samlet i boligen. Varme-, el- og datainstallationer skal derimod ud i alle rum og er mere fleksible i forhold til, hvordan de placeres. Derudover skal der afsættes plads til vvs-komponenter som opvarmningsanlæg og varmtvandsforsyning samt deres rørinstallationer. Disse komponenter kan placeres i et bryggers eller i et andet rum som fx køkken, gang, opbevaringsrum eller badeværelse, således at de er lette at komme til.
 
-Se SBi-anvisning 253, Småhuse -- indretning og funktion, 3.8 Disponering af installationer og føringsveje (de Place Hansen, 2015).
+Se SBi-anvisning 253, Småhuse – indretning og funktion, 3.8 Disponering af installationer og føringsveje (de Place Hansen, 2015).
 
 ### 2.11. Uderum {#069a16f1-9b52-4f41-8fc9-7e4609b24a3a}
 
-De fleste rum i boligen vil vinde ved direkte adgang til et uderum, der tilbyder lys, luft og grønne områder. Både haver, terrasser, gårdrum, altaner og fælles grønne arealer kan -- alt efter deres udformning -- fungere som en udvidelse af boligarealet, og navnlig i sommerhalvåret vil de opleves som en stor kvalitet i boligen. Hvis uderummet skal bidrage til boligens kvalitet, bør planlægningen af det indgå i den overordnede disposition af boligens planløsning. Især boligens fælles opholdsrum, køkken og spiseplads vil vinde ved at have direkte adgang til uderummet. Et uderum med gode sol- og læforhold, god udsigt samt plads til spisning, leg, grønne planter etc. vil være attraktivt. Men også franske altaner og større vinduespartier i tag og facade, der kan åbnes eller skydes til side, kan bidrage positivt til boligens kvalitet. Har boligen mulighed for flere uderum, kan de placeres, så deres dagslysforhold, karakter og stemning er forskellige.
+De fleste rum i boligen vil vinde ved direkte adgang til et uderum, der tilbyder lys, luft og grønne områder. Både haver, terrasser, gårdrum, altaner og fælles grønne arealer kan – alt efter deres udformning – fungere som en udvidelse af boligarealet, og navnlig i sommerhalvåret vil de opleves som en stor kvalitet i boligen. Hvis uderummet skal bidrage til boligens kvalitet, bør planlægningen af det indgå i den overordnede disposition af boligens planløsning. Især boligens fælles opholdsrum, køkken og spiseplads vil vinde ved at have direkte adgang til uderummet. Et uderum med gode sol- og læforhold, god udsigt samt plads til spisning, leg, grønne planter etc. vil være attraktivt. Men også franske altaner og større vinduespartier i tag og facade, der kan åbnes eller skydes til side, kan bidrage positivt til boligens kvalitet. Har boligen mulighed for flere uderum, kan de placeres, så deres dagslysforhold, karakter og stemning er forskellige.
 
 Terrasser, gårdhaver og haver bør placeres, så der tages hensyn til grundens orientering og til særlig attraktive udsigts- og terrænforhold. Ved at placere det størst mulige samlede haverum mod syd eller vest, under hensyntagen til udsigt og eventuel trafikstøj, sikrer man, at uderummet er solfyldt en stor del af dagen. I planlægningen af udeområderne kan udhus og garage indgå som skærmende elementer, der kan sikre behagelige udendørs siddepladser uden indblik og vindgener. En eventuel udestue eller overdækket terrasse bør hverken hindre udsynet fra boligen eller tage dagslys fra opholdsrum.
 
@@ -338,9 +338,9 @@ At lave mad kræver redskaber og inventar, der er mere eller mindre målrettet d
 
 emhætte og bordplads på begge sider af komfuret, til henholdsvis tilberedning og afsætning. Jo flere beboere i boligen, desto flere brugere vil der typisk være af køkkenet, og dermed vil der være et større behov for plads ved de enkelte arbejdspladser. Udformningen af køkkenet kan tillade færre eller flere at deltage i madlavningen. Det langstrakte køkken kan tillade mange at komme til, men der kan være langt fra opbevaring til komfur til køleskab. Er køkkenbordene stillet over for hinanden, L-formet eller U-formet, kan det optimere afstanden til de forskellige funktioner, men tillige give mindre plads til personer i køkkenet. Imellem to køkkenborde, der er stillet over for hinanden, bør der være tilstrækkelig plads til, at to personer kan arbejde på hver sin side. En køkkenø kan give gode muligheder for, at flere personer kan være fælles om madlavningen og tillige have let ved at følge med i, hvad hinanden laver. Men der kan være langt mellem de forskellige funktioner.
 
-I køkkenet er det praktisk, at der er god plads til service og bestik og til gryder og pander, der gerne skal kunne nås fra de tilhørende arbejdspladser. I forbindelse med madlavning gør man ofte brug af mange forskellige køkkenmaskiner (kaffemaskine, elkedel, brødrister, røremaskine, mikrobølgeovn etc.). Det er hensigtsmæssigt, at de køkkenmaskiner, der bruges til dagligt, har plads til at kunne stå fremme. De køkkenmaskiner, der bruges mindre, bør der være opbevaringsplads til. Et depotrum eller et bryggers kan aflaste opbevaringsbehovet i køkkenet. Her kan der være ekstra kolonialvarer, køkkenmaskiner, drikkevarer, service. Der kan gøres plads til genbrugssortering eller en fryser. I nogle tilfælde indeholder køkkenet også andre funktioner som fx opbevaring af støvsuger, kost, spand, vaskemaskine og tørretumbler. Se SBi-anvisning 253, Småhuse -- indretning og funktion, 3.6.4 Køkken (de Place Hansen, 2015).
+I køkkenet er det praktisk, at der er god plads til service og bestik og til gryder og pander, der gerne skal kunne nås fra de tilhørende arbejdspladser. I forbindelse med madlavning gør man ofte brug af mange forskellige køkkenmaskiner (kaffemaskine, elkedel, brødrister, røremaskine, mikrobølgeovn etc.). Det er hensigtsmæssigt, at de køkkenmaskiner, der bruges til dagligt, har plads til at kunne stå fremme. De køkkenmaskiner, der bruges mindre, bør der være opbevaringsplads til. Et depotrum eller et bryggers kan aflaste opbevaringsbehovet i køkkenet. Her kan der være ekstra kolonialvarer, køkkenmaskiner, drikkevarer, service. Der kan gøres plads til genbrugssortering eller en fryser. I nogle tilfælde indeholder køkkenet også andre funktioner som fx opbevaring af støvsuger, kost, spand, vaskemaskine og tørretumbler. Se SBi-anvisning 253, Småhuse – indretning og funktion, 3.6.4 Køkken (de Place Hansen, 2015).
 
-For forhold vedrørende tilgængelighed i køkkener, se SBi-anvisning 249, Tilgængelige boliger -- Indretning, 2.3 Køkken (Sigbrand & Jensen, 2015).
+For forhold vedrørende tilgængelighed i køkkener, se SBi-anvisning 249, Tilgængelige boliger – Indretning, 2.3 Køkken (Sigbrand & Jensen, 2015).
 
 ###
 
@@ -390,7 +390,7 @@ Når der ikke er tale om helt små boliger, bør mindst ét rum have plads til e
 
 Badeværelset er boligens mest private rum, der danner ramme om den daglige rutine i forbindelse med personlig pleje. Det omfatter fx at gå på wc, bade, børste tænder, tørre hår og barbere sig. Derudover kan badeværelset også være et rum til velvære. Derfor har rummets overflader og materialer, sammen med lys og luft, stor indflydelse på, hvordan det opleves at opholde sig i rummet.
 
-Indrettes der et stort badeværelse, vil det samtidig give større anvendelighed for fx børnefamilier samt personer med behov for hjælpemidler. Se SBi-anvisning 249, Tilgængelige boliger -- Indretning, 2.6 Bade- og wc-rum (Sigbrand, 2015).
+Indrettes der et stort badeværelse, vil det samtidig give større anvendelighed for fx børnefamilier samt personer med behov for hjælpemidler. Se SBi-anvisning 249, Tilgængelige boliger – Indretning, 2.6 Bade- og wc-rum (Sigbrand, 2015).
 
 I en større bolig, og i en husstand med mere end fire beboere, kan det være praktisk med mere end ét wc-rum. I boliger i to planer bør der være et wc-rum på hver etage og badeværelse med wc på samme etage som soverummene. I boliger uden bryggers eller vaskerum bør der beregnes plads til vaskemaskine og tørretumbler i badeværelset. [](../appendix#dad94911-d8be-4830-9756-dcbefa202590)
 
@@ -400,15 +400,15 @@ Andersen, H.T.; Larsen, J.N.; Jensen, J.O. & Haldrup, K. (2014). Boligmarkedet u
 
 Bech-Danielsen, C.; Mechlenborg, M. & Stender, M. (2018). Velkommen hjem. Tendenser i dansk boligarkitektur. København: Politikens Forlag.
 
-Bech-Danielsen, C. (2006). Når sjælen flytter ind: Hjemfølelse og mobilitet. Den gode bolig -- Hvordan skal vi bo i fremtiden? Lyngby: Akademiet for de Tekniske Videnskaber.
+Bech-Danielsen, C. (2006). Når sjælen flytter ind: Hjemfølelse og mobilitet. Den gode bolig – Hvordan skal vi bo i fremtiden? Lyngby: Akademiet for de Tekniske Videnskaber.
 
 Beck, A.F. (2019). What is Co-housing? Developing a Conceptual Spatial Framework from the Studies of Danish Intergenerational Co-housing. Housing, Theory and Society. London: Routledge.
 
-de Place Hansen, E.J. (2015). Småhuse -- indretning og funktion (SBi-anvisning 253). København: Statens Byggeforskningsinstitut. Aalborg Universitet.
+de Place Hansen, E.J. (2015). Småhuse – indretning og funktion (SBi-anvisning 253). København: Statens Byggeforskningsinstitut. Aalborg Universitet.
 
 de Place Hansen, E.J. (red) (2018). Anvisning om Bygningsreglement 2018 (SBi-anvisning 272). København: Statens Byggeforskningsinstitut. Aalborg Universitet.
 
-Duelund Mortensen, P. (2018). Hjem -- bebyggelse -- by. Bolig og velfærd i København. København: Arkitekturforlaget B.
+Duelund Mortensen, P. (2018). Hjem – bebyggelse – by. Bolig og velfærd i København. København: Arkitekturforlaget B.
 
 Duelund Mortensen, P. (2018). Viljeløst og fattigt på visioner. Arkitekten nr. 8 vol. 120. København: Akademisk Arkitektforening.
 
@@ -426,7 +426,7 @@ Keiding, M. (2018). Krav til hinanden. Arkitekten nr. 8 vol. 120. København: Ak
 
 Keiding, M. (2018). Social ingeniørkunst. Arkitekten nr. 9 vol. 120. København: Akademisk Arkitektforening.
 
-Københavns Kommune (2019). Status på København 2018 -- opdateret august 2018. København: Københavns Kommune.
+Københavns Kommune (2019). Status på København 2018 – opdateret august 2018. København: Københavns Kommune.
 
 Liliegreen, C. & Jensen, P.B. (2017). De danske yderområder er udfordrede. København: Boligøkonomisk Videncenter. Realdania.
 
@@ -446,7 +446,7 @@ Ranten, K. (1991). Boligplan og brugsværdi. Hørsholm: Statens Byggeforskningsi
 
 Realdania By & Byg (2019). Byggefællesskaber. Beboerdrevet boligbyggeri i byudvikling. København: Realdania By & Byg.
 
-Sigbrand, L. & Jensen, P.H. (2015). Tilgængelige boliger -- indretning (SBi-anvisning 249). København: Statens Byggeforskningsinstitut, Aalborg Universitet.
+Sigbrand, L. & Jensen, P.H. (2015). Tilgængelige boliger – indretning (SBi-anvisning 249). København: Statens Byggeforskningsinstitut, Aalborg Universitet.
 
 SINTEF Byggforsk. (2019). Kjøkken i boliger (Byggforskserien 361.411). Oslo: SINTEF akademisk forlag.
 

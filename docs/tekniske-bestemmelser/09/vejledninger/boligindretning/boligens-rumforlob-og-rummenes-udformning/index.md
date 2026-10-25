@@ -46,7 +46,7 @@ Et trappeløb kan skabe sammenhæng mellem flere etager, et ensidigt hældende t
 
 Åbninger i etageadskillelsen kan være en måde at skabe en tættere forbindelse mellem to etager. Man bør dog være opmærksom på, at rum gennem to etager kan give en uheldig varmefordeling samt eventuelle lyd-, træk- og lugtgener.
 
-Rige rumoplevelser tilfører kvalitet til boligen. Arkitektoniske elementer, som fx nicher eller karnapper, kan bidrage til at øge kvaliteten, samtidig med at de kan lægge op til en opdeling af rummet i mindre områder. Det betyder, at der -- ud over de funktionelle krav til rummenes anvendelighed, placering og størrelse -- også kan lægges et arkitektonisk blik på rummets udformning og rumforløbets kvalitet.
+Rige rumoplevelser tilfører kvalitet til boligen. Arkitektoniske elementer, som fx nicher eller karnapper, kan bidrage til at øge kvaliteten, samtidig med at de kan lægge op til en opdeling af rummet i mindre områder. Det betyder, at der – ud over de funktionelle krav til rummenes anvendelighed, placering og størrelse – også kan lægges et arkitektonisk blik på rummets udformning og rumforløbets kvalitet.
 
 ###
 

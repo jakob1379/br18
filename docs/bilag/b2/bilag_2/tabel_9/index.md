@@ -6,7 +6,7 @@
 
 ## Tabel 3 - Mindstekrav til klimaskærm ved ombygninger og andre forandringer i bygningen
 
-## Tabel 4 -- Mindstekrav til klimaskærm for sommerhuse, campinghytter og lignende ferieboliger
+## Tabel 4 – Mindstekrav til klimaskærm for sommerhuse, campinghytter og lignende ferieboliger
 
 ## Tabel 5 - Mindstekrav til klimaskærm for midlertidige, flytbare pavilloner
 
@@ -16,7 +16,7 @@
 
 ## Tabel 8 - Emissionsfaktorer
 
-## Tabel 9 -- Referenceværdier for beregning af klimapåvirkning, som ikke indgår i beregningen ifølge § 298, stk. 1.
+## Tabel 9 – Referenceværdier for beregning af klimapåvirkning, som ikke indgår i beregningen ifølge § 298, stk. 1.
 
 For at fastlægge størrelsen af den berettigede øgede klimapåvirkning, der som følge af § 298, stk. 8, ikke skal medregnes, foretages en isoleret beregning af klimapåvirkningen fra den del af bygningen, der er påvirket af det særlige forhold.
 
@@ -125,9 +125,9 @@ a er arealet som opgjort ifølge § 297, stk. 5, (i m2).
 
  
 
-## Tabel 10 -- Beregning af klimapåvirkning fra energiforbrug i byggeprocessen (modul A4 og A5)
+## Tabel 10 – Beregning af klimapåvirkning fra energiforbrug i byggeprocessen (modul A4 og A5)
 
-## Tabel 11 -- Generiske data for behandling af byggeaffald
+## Tabel 11 – Generiske data for behandling af byggeaffald
 
 ## Tabel 12 - Standardværdier for energiforbrug i sommerhuse, campinghytter og lignende ferieboliger
 

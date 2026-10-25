@@ -54,7 +54,7 @@ Hensigten med disse bestemmelser er, at kommunalbestyrelsen af den indsendte dok
 
 Når et byggeri indplaceres i konstruktionsklasse 1 (KK1) eller brandklasse 1 (BK1), er der ikke krav om, at der skal tilknyttes en certificeret brandrådgiver eller certificeret statiker, jf. [§ 10, stk. 6](/administrative-bestemmelser/krav/7_15/) og 7. Kommunen kan ikke stille krav om en certificeret brandrådgiver eller certificerede statiker for byggearbejder i konstruktions- og brandklasse 1 i forbindelse med indplacering i brand- og konstruktionsklasse.
 
-Læs mere indplacering i brand- og konstruktionsklasse i [Bygningsreglementets vejledning til kapitel 5 -- kapitel 1 -- afsnit 1.6.0](../../../../tekniske-bestemmelser/05/vejledninger/generel_brand/kapitel-1/) og i [Vejledning om indplacering i konstruktionsklasse](../../../../ovrige-bestemmelser/26/brv/indplacering-i-konstruktionsklasser/).
+Læs mere indplacering i brand- og konstruktionsklasse i [Bygningsreglementets vejledning til kapitel 5 – kapitel 1 – afsnit 1.6.0](../../../../tekniske-bestemmelser/05/vejledninger/generel_brand/kapitel-1/) og i [Vejledning om indplacering i konstruktionsklasse](../../../../ovrige-bestemmelser/26/brv/indplacering-i-konstruktionsklasser/).
 
 [5](../eksempler_undtaget/)
 

@@ -60,7 +60,7 @@ Konstruktionsklassen kan betragtes som et udtryk for konsekvenser ved et eventue
 
 Oplysning om og dokumentation for indplacering i konstruktionsklasse skal fremgå ved ansøgning om byggetilladelse, hvis det er relevant for byggearbejdet, jf. BR18, [§ 10, stk. 1, nr. 5](/administrative-bestemmelser/krav/7_15/). For mere om ansøgning om byggetilladelse henvises der til [bygningsreglementets vejledning om byggesagsbehandling efter BR18](../../../administrative-bestemmelser/brv/#vejledning-om-byggesagsbehandling-efter-br18).
 
-Kommunalbestyrelsen træffer afgørelse om indplacering i konstruktionsklasse på baggrund af den fremsendte dokumentation. Dokumentationen for indplacering i konstruktionsklasse skal følge BR18, [§§ 503 - 504](/ovrige-bestemmelser/28/krav/494_505/). De relevante dele, der skal fremsendes sammen med ansøgningen om byggetilladelse beskrives yderligere i *Vejledningen til BR18 [kapitel 28](/ovrige-bestemmelser/28/) -- Dokumentation af bærende konstruktioner [§494](/ovrige-bestemmelser/28/krav/494_505/), [§498](/ovrige-bestemmelser/28/krav/494_505/), §499 og [§503](/ovrige-bestemmelser/28/krav/494_505/),* samt i *SBi-anvisning 271 Dokumentation og kontrol af bærende konstruktioner*.
+Kommunalbestyrelsen træffer afgørelse om indplacering i konstruktionsklasse på baggrund af den fremsendte dokumentation. Dokumentationen for indplacering i konstruktionsklasse skal følge BR18, [§§ 503 - 504](/ovrige-bestemmelser/28/krav/494_505/). De relevante dele, der skal fremsendes sammen med ansøgningen om byggetilladelse beskrives yderligere i *Vejledningen til BR18 [kapitel 28](/ovrige-bestemmelser/28/) – Dokumentation af bærende konstruktioner [§494](/ovrige-bestemmelser/28/krav/494_505/), [§498](/ovrige-bestemmelser/28/krav/494_505/), §499 og [§503](/ovrige-bestemmelser/28/krav/494_505/),* samt i *SBi-anvisning 271 Dokumentation og kontrol af bærende konstruktioner*.
 
 ### Konstruktionsafsnit {#konstruktionsafsnit}
 
@@ -119,7 +119,7 @@ Overordnet henføres konstruktioner eller konstruktionsafsnit til konsekvensklas
 Byggerier opdeles i henhold til DS/EN 1990 i konsekvensklasser alt efter omfanget af konsekvenser ved svigt i konstruktionen, herunder
 
 - Risiko for menneskeliv og personskade
-- Sociale forhold -- offentlige reaktioner på svigt
+- Sociale forhold – offentlige reaktioner på svigt
 - Risiko for forurening
 - Økonomiske tab
 
@@ -129,7 +129,7 @@ Dette grundlag adskiller sig fra [byggeloven](https://www.retsinformation.dk/eli
 
 [2.0.3.](./#erfaring-med-konstruktionstypen)
 
-En konstruktion betegnes ifølge BR18, § 487 som simpel eller kompleks alt efter, hvordan de påvirkninger, der virker på konstruktionen, føres til fundament. Jo svære det er at overskue fordelingen af påvirkningerne og lastvirkningerne -- jo mere kompleks betegnes konstruktionen.
+En konstruktion betegnes ifølge BR18, § 487 som simpel eller kompleks alt efter, hvordan de påvirkninger, der virker på konstruktionen, føres til fundament. Jo svære det er at overskue fordelingen af påvirkningerne og lastvirkningerne – jo mere kompleks betegnes konstruktionen.
 
 En nærmere beskrivelse af konstruktioners kompleksitet fremgår af *SBi-anvisning 271 Dokumentation og kontrol af bærende konstruktioner*.
 

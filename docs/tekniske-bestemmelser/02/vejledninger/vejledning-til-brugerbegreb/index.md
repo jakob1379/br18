@@ -54,7 +54,7 @@ En bygning kan med fordel designes, så der sikres mulighed for anvendelse på t
 
 Detailkravene i bygningsreglementets kapitler om indretning og adgangsforhold er overvejende udformet med henblik på kørestolsbrugere, gangbesværede og synshandicappede. Der vil dog sjældent være én, enkeltstående løsning, der vil virke for alle. De optimale løsninger vil være afhængige af de specifikke brugergrupper og konteksterne for brug, da der kan være mange brugergrupper og flere bygningsfunktioner i et byggeri. Rådgivere og bygherrer kan derfor med fordel overveje at tænke i universelle løsninger eller løsninger, der på lignende vis dækker en bred vifte af potentielle brugerbehov og forskellige funktioner og anvendelser af bygningen.
 
-Der kan også hentes mere viden om særlige udfordringer og behov for de enkelte brugergrupper i den internationale standard, DS/ISO 21542:2012, Bygningskonstruktion -- Tilgængelighed til og anvendelighed af det byggede miljø, og vejledningen om tilgængelighedskrav i BR18, når de er holdt op imod DS/ISO 21542, DS-håndbog 186:2018.
+Der kan også hentes mere viden om særlige udfordringer og behov for de enkelte brugergrupper i den internationale standard, DS/ISO 21542:2012, Bygningskonstruktion – Tilgængelighed til og anvendelighed af det byggede miljø, og vejledningen om tilgængelighedskrav i BR18, når de er holdt op imod DS/ISO 21542, DS-håndbog 186:2018.
 
 ### 4.0.0. Eksempler på bygningsfunktioner set i forhold til brugere {#d58ca4b2-09f6-4426-8477-299df7f8ba33}
 

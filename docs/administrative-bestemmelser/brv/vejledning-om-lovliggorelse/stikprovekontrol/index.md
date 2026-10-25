@@ -52,7 +52,7 @@ I byggesager, hvor der ved stikprøvekontrollen er konstateret et ulovligt forho
 
 ### Fysisk lovliggørelse
 
-### Vurderingen -- valget mellem retlig og fysisk lovliggørelse
+### Vurderingen – valget mellem retlig og fysisk lovliggørelse
 
 ### Byggeri opført uden tilladelse
 

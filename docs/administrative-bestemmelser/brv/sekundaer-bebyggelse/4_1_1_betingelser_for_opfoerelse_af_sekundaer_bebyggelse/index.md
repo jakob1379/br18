@@ -56,7 +56,7 @@ Hvis sekundær bebyggelse opføres nærmere skel mod nabo og sti end 2,5 meter, 
 
 • Tagvand skal holdes på egen grund. Man skal altså sørge for, at tagvandet ikke løber ind på naboens grund.
 
-Hvis ovenstående betingelser overholdes, er det som udgangspunkt tilladt at bygge nærmere skel end 2,5 meter. Sommerhuse er selvstændigt reguleret -- se afsnit 4.1.3 nedenfor. Er der tvivl om, hvorvidt byggeriet kan opfylde alle betingelserne, kan man kontakte kommunen for vejledning.
+Hvis ovenstående betingelser overholdes, er det som udgangspunkt tilladt at bygge nærmere skel end 2,5 meter. Sommerhuse er selvstændigt reguleret – se afsnit 4.1.3 nedenfor. Er der tvivl om, hvorvidt byggeriet kan opfylde alle betingelserne, kan man kontakte kommunen for vejledning.
 
 **Eksempel 1:**
 

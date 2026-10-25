@@ -74,7 +74,7 @@ Byggeloven og bygningsreglementets bestemmelser i kap. 20 om parkering gælder i
 
 #### DS-håndbog 186
 
-Tilgængelighedskrav i BR18 -- holdt op mod DS/ISO 21542
+Tilgængelighedskrav i BR18 – holdt op mod DS/ISO 21542
 
 #### Beskrivelse
 

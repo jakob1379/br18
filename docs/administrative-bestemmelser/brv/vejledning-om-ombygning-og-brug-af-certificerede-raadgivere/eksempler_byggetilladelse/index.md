@@ -104,7 +104,7 @@ Kommunalbestyrelsen kan i tvivlstilfælde forlange supplerende dokumentation til
 
 Det er ligeledes op til ansøgeren at orientere kommunalbestyrelsen, hvis der sker ændringer i byggearbejdet undervejs, der giver anledning til ændrede vilkår i byggetilladelsen, eller at der skal træffes en helt ny afgørelse i sagen.
 
-Kommunalbestyrelsen er bygningsmyndighed, og skal derfor -- inden der meddeles byggetilladelse -- vurdere om dokumentationen er i overensstemmelse med de af bygningsreglementets krav, der er relevante for byggesagen, jf. BR18 § 36.
+Kommunalbestyrelsen er bygningsmyndighed, og skal derfor – inden der meddeles byggetilladelse – vurdere om dokumentationen er i overensstemmelse med de af bygningsreglementets krav, der er relevante for byggesagen, jf. BR18 § 36.
 
 ### 4 Kommunalbestyrelsens ansvar ved indplacering i brand- og konstruktionsklasse {#2cd2304c-7bf1-426e-9271-aa9a1e85d323}
 
@@ -116,7 +116,7 @@ Hensigten med disse bestemmelser er, at kommunalbestyrelsen af den indsendte dok
 
 Når et byggeri indplaceres i konstruktionsklasse 1 (KK1) eller brandklasse 1 (BK1), er der ikke krav om, at der skal tilknyttes en certificeret brandrådgiver eller certificeret statiker, jf. § 10, stk. 6 og 7. Kommunen kan ikke stille krav om en certificeret brandrådgiver eller certificerede statiker for byggearbejder i konstruktions- og brandklasse 1 i forbindelse med indplacering i brand- og konstruktionsklasse.
 
-Læs mere indplacering i brand- og konstruktionsklasse i [Bygningsreglementets vejledning til kapitel 5 -- kapitel 1 -- afsnit 1.6.0](../../../../tekniske-bestemmelser/05/vejledninger/generel_brand/kapitel-1) og i [Vejledning om indplacering i konstruktionsklasse](../../../../ovrige-bestemmelser/26/brv/indplacering-i-konstruktionsklasser).
+Læs mere indplacering i brand- og konstruktionsklasse i [Bygningsreglementets vejledning til kapitel 5 – kapitel 1 – afsnit 1.6.0](../../../../tekniske-bestemmelser/05/vejledninger/generel_brand/kapitel-1) og i [Vejledning om indplacering i konstruktionsklasse](../../../../ovrige-bestemmelser/26/brv/indplacering-i-konstruktionsklasser).
 
 ### 5 Eksempler på, hvornår et byggearbejde normalt er undtaget for byggetilladelse, jf. § 5, stk. 1, nr. 4 {#9a1bd2dd-0bce-42bd-a6a4-360f3ad8dc34}
 

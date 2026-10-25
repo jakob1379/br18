@@ -25,11 +25,11 @@ I de følgende afsnit kan der findes nærmere vejledning samt tabeller med græn
 
 Vejledningens grænseværdier og supplerende anbefalinger er gengivet fra:
 
-> -- Den danske standard for lydklassifikation af boliger
+> – Den danske standard for lydklassifikation af boliger
 >
-> -- SBi-anvisninger med tilknytning til bygningsreglementets lydbestemmelser
+> – SBi-anvisninger med tilknytning til bygningsreglementets lydbestemmelser
 >
-> -- Miljøstyrelsens publikationer om støj fra virksomheder, veje og jernbaner
+> – Miljøstyrelsens publikationer om støj fra virksomheder, veje og jernbaner
 
 **Afgrænsning**
 
@@ -61,7 +61,7 @@ Boliger omfatter i denne forbindelse også hoteller, kollegier, pensionater, kro
 
 Tabellerne 2.1 - 2.4 for boliger beskriver lydbestemmelserne for lydisolation, støj indendørs fra trafik, støj fra tekniske installationer samt efterklangstid. Grænseværdierne er primært gengivet fra den danske standard DS 490 \[14\] om lydklassifikation af boliger, lydklasse C, og Miljøstyrelsens vejledninger om støj.
 
-DS 490 Lydklassifikation af boliger indeholder også grænseværdier for boliger, der lydmæssigt har en bedre kvalitet end bygningsreglementets minimumskrav om klasse C -- klasse B og klasse A. Det er alene værdierne for klasse C, som er medtaget i denne vejledning.
+DS 490 Lydklassifikation af boliger indeholder også grænseværdier for boliger, der lydmæssigt har en bedre kvalitet end bygningsreglementets minimumskrav om klasse C – klasse B og klasse A. Det er alene værdierne for klasse C, som er medtaget i denne vejledning.
 
 Funktionskravet for boliger for støj indendørs i beboelsesrum fra tekniske installationer i erhvervsenheder i samme bygning anses for opfyldt, når støjniveauet ikke overstiger værdier svarende til de vejledende grænseværdier i [tabel 2.3](../../boliger/stoej-fra-tekniske-installationer-i-boliger "Stoej fra tekniske installationer i boliger") nedenfor.
 
@@ -255,11 +255,11 @@ DS/EN ISO 717-1:2020: *Akustik - Vurdering af lydisolation i bygninger og af byg
 
 DS/EN ISO 717-2:2020: *Akustik - Vurdering af lydisolation i bygninger og af bygningsdele - Del 2: Trinlydniveau*.
 
-DS/EN ISO 16283-1: 2014: *Akustik -- Feltmåling af lydisolation i bygninger og af bygningselementer -- Del 1: Luftlydisolation*.
+DS/EN ISO 16283-1: 2014: *Akustik – Feltmåling af lydisolation i bygninger og af bygningselementer – Del 1: Luftlydisolation*.
 
-DS/EN ISO 16283-2: 2020: *Akustik -- Feltmåling af lydisolation i bygninger og af bygningselementer -- Del 2: Trinlydisolation.*
+DS/EN ISO 16283-2: 2020: *Akustik – Feltmåling af lydisolation i bygninger og af bygningselementer – Del 2: Trinlydisolation.*
 
-DS/EN ISO 16283-3: 2016: *Akustik -- Feltmåling af lydisolation i bygninger og af bygningselementer -- Del 3: Facaders lydisolation.*
+DS/EN ISO 16283-3: 2016: *Akustik – Feltmåling af lydisolation i bygninger og af bygningselementer – Del 3: Facaders lydisolation.*
 
 DS/EN ISO 10052:2021: *Akustik - Måling af luftlyd- og trinlydisolation samt støj fra tekniske installationer i bygninger - Overslagsmetode.* Amendment DS/EN ISO 10052/A1:2010.
 

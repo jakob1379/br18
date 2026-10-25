@@ -165,29 +165,29 @@ For eksempel stilles der ikke nye krav ved udskiftning af: Ventiler, rørdele, p
 
 I det følgende gennemgås, hvornår bygningsreglementet stiller krav i forhold til bygninger med et balanceret, mekanisk ventilationsanlæg. Følgende situationer belyses i eksemplet:
 
-> --    Nyinstallation eller total udskiftning
+> –    Nyinstallation eller total udskiftning
 >
-> --    Udskiftning af ældre varmegenvinder eller ventilator
+> –    Udskiftning af ældre varmegenvinder eller ventilator
 >
-> --    Udskiftning af ældre ventilationskanaler, spjæld, varmeflade eller ventiler m.m.
+> –    Udskiftning af ældre ventilationskanaler, spjæld, varmeflade eller ventiler m.m.
 >
-> --    Udbygning af et eksisterende ventilationsanlæg
+> –    Udbygning af et eksisterende ventilationsanlæg
 >
-> --    Ændret anvendelse af bygning med et mekanisk ventilationsanlæg
+> –    Ændret anvendelse af bygning med et mekanisk ventilationsanlæg
 >
-> --    Flytning af ventilationskanaler og ventiler ved ombygning
+> –    Flytning af ventilationskanaler og ventiler ved ombygning
 >
-> --    Hel eller delvis fjernelse af et ventilationssystem
+> –    Hel eller delvis fjernelse af et ventilationssystem
 
-> --    Reparation og vedligeholdelses af varmegenvindingsaggregat (unit).
+> –    Reparation og vedligeholdelses af varmegenvindingsaggregat (unit).
 
-Kravene til ventilationssystemer er fastsat i bygningsreglementets kapitel 22 *-- Ventilation.* Heri henvises til følgende standarder:
+Kravene til ventilationssystemer er fastsat i bygningsreglementets kapitel 22 *– Ventilation.* Heri henvises til følgende standarder:
 
-> --    DS 447, *Ventilation i bygninger -- Mekaniske, naturlige og hybride ventilationssystemer*.
+> –    DS 447, *Ventilation i bygninger – Mekaniske, naturlige og hybride ventilationssystemer*.
 >
-> --    DS 428 *Norm for brandtekniske foranstaltninger ved ventilationsanlæg.*
+> –    DS 428 *Norm for brandtekniske foranstaltninger ved ventilationsanlæg.*
 >
-> --    DS 452 *Termisk isolering af tekniske installationer.* 
+> –    DS 452 *Termisk isolering af tekniske installationer.* 
 
 
 
@@ -292,7 +292,7 @@ Desuden stiller det gældende bygningsreglement krav om, at eksisterende install
 
 ### 4. Eksempler på installationsarbejder - Centralvarmekedler {#dc1acdb0-fe10-452c-b0c1-935f9d7b366f}
 
-Kravene til varmeinstallationer er i det gældende bygningsreglement beskrevet i kapitel 19 *Termisk indeklima og installationer til varme- og køleanlæg* og kapitel 12 *-- Energiforsyningsanlæg i tilknytning til bygninger*.
+Kravene til varmeinstallationer er i det gældende bygningsreglement beskrevet i kapitel 19 *Termisk indeklima og installationer til varme- og køleanlæg* og kapitel 12 *– Energiforsyningsanlæg i tilknytning til bygninger*.
 
 Bygningsreglementet stiller generelle krav om, at det for energiforsyningsanlæg skal sikres, at der ikke kan opstå risiko for skader på personer og bygninger som følge af for eksempel brand og eksplosion, og at der ikke opstår risiko for personers sundhed eller komfort, for eksempel som følge af forgiftning, skoldning eller lugtgener.
 
@@ -300,19 +300,19 @@ Installation af en ny kedel skal desuden sikre, at der ikke sker unødigt forbru
 
 I bygningsreglementet henvises til følgende standarder med hensyn til energiforsyningsanlæg, centralvarmekedler og varmefordelingssystemer:
 
-> --    DS 469, *Varme- og køleanlæg i bygninger*
+> –    DS 469, *Varme- og køleanlæg i bygninger*
 >
-> --    DS 452, *Termisk isolering af tekniske installationer.* 
+> –    DS 452, *Termisk isolering af tekniske installationer.* 
 >
-> --    DS/EN 303-5*, Centralvarmekedler til fast brændsel, manuelt eller automatisk fyrede med en nominel varmeeffekt på op til 500 kW - Terminologi, krav, prøvning og mærkning*
+> –    DS/EN 303-5*, Centralvarmekedler til fast brændsel, manuelt eller automatisk fyrede med en nominel varmeeffekt på op til 500 kW - Terminologi, krav, prøvning og mærkning*
 >
-> --    DS/EN 15270, *Pillebrændere til små varmekedler - Definitioner, krav, prøvning, mærkning.*
+> –    DS/EN 15270, *Pillebrændere til små varmekedler - Definitioner, krav, prøvning, mærkning.*
 >
-> --    DS/EN 298, *Automatisk brændekontrolsystem til brændere og apparater, der forbrænder gasformige eller flydende brændsler*
+> –    DS/EN 298, *Automatisk brændekontrolsystem til brændere og apparater, der forbrænder gasformige eller flydende brændsler*
 >
-> --    DS/EN 267, *Automatiske blæseluftsoliebrændere til flydende brændstof.*
+> –    DS/EN 267, *Automatiske blæseluftsoliebrændere til flydende brændstof.*
 >
-> --    DS/EN 1443, *Skorstene -- Generelle krav.*
+> –    DS/EN 1443, *Skorstene – Generelle krav.*
 
 
 

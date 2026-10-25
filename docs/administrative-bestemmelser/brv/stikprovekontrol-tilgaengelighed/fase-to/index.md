@@ -32,7 +32,7 @@
 
 [1.1](../fase-et/)
 
-### Stikprøvekontrol -- 1. fase: Tilstrækkelig dokumentation
+### Stikprøvekontrol – 1. fase: Tilstrækkelig dokumentation
 
 [1.2](./)
 
@@ -56,11 +56,11 @@ Vurderingen af behovet og dermed hvad, der er et passende antal, bør dog altid 
 
 I denne 2. fase af stikprøvekontrollen er det kommunens opgave at vurdere, hvordan der i dokumentationen er gjort rede for antallet af f.eks. parkeringspladser til handicapegnede køretøjer i relation til typen af byggeprojekt i den pågældende byggesag.
 
-9\) Grangaard, S. & Pedersen, L.S. (2014) Tilgængelighed i forbindelse med ombygning -- et casestudie af Nordkraft. SBI 2014:16. Statens Byggeforskningsinstitut, Aalborg Universitet, København.
+9\) Grangaard, S. & Pedersen, L.S. (2014) Tilgængelighed i forbindelse med ombygning – et casestudie af Nordkraft. SBI 2014:16. Statens Byggeforskningsinstitut, Aalborg Universitet, København.
 
 [1.3](../fase-tre/)
 
-### Stikprøvekontrol -- 3. fase: Vurdering af mangel
+### Stikprøvekontrol – 3. fase: Vurdering af mangel
 
 [1.4](../afslutning/)
 

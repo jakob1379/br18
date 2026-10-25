@@ -54,7 +54,7 @@ Bestemmelsen om, at pligten til at berigtige ulovlige forhold også kan påhvile
 
 ### Fysisk lovliggørelse
 
-### Vurderingen -- valget mellem retlig og fysisk lovliggørelse
+### Vurderingen – valget mellem retlig og fysisk lovliggørelse
 
 ### Byggeri opført uden tilladelse
 

@@ -108,7 +108,7 @@ Vejledning om byggesagsbehandling efter BR18 dækker over vejledning om de beste
 
 [3.5.2.](../3_6_2_dokumentation-for-indplacering-i-brandklasse-2_4/)
 
-### Dokumentation for indplacering i brandklasse 2 -- 4
+### Dokumentation for indplacering i brandklasse 2 – 4
 
 [3.6.](../3_6_dispensation/)
 

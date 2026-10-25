@@ -80,7 +80,7 @@ Ved tvivl kan det være en fordel som bygningsejer at involvere en håndværker 
 
 ### 1.1.3 Udvidelse af etagearealet
 
-Ombygninger og andre forandringer omfattet af BR18, § 5, stk. 1 nr. 3 og 4, må ikke medføre en udvidelse af etagearealet. Etagearealet er her det samlede etageareal, der i denne forbindelse forstås som det areal, der opstår ved, at arealet af samtlige etager og al anden bebyggelse på grunden sammenlægges. Dette omfatter bl.a. arealet for kældre, åbne altaner, åbne tagterrasser mv. Det samlede etageareal er ikke nødvendigvis det samme som det etageareal, der indgår i beregningen af bebyggelsesprocenten, hvor der her er mulighed for en række fradrag, jf. BR18, § 455. Hvordan det samlede etageareal beregnes, er nærmere beskrevet i bygningsreglementets *[vejledning til kapitel 8 - byggeret og helhedsvurdering, kapitel 20 -- ubebyggede arealer ved bebyggelse og kapitel 23 -- beregningsregler.](../../../tekniske-bestemmelser/08/vejledninger/byggeret_helhedsvurdering_ubebyggede_beregningsregler)*
+Ombygninger og andre forandringer omfattet af BR18, § 5, stk. 1 nr. 3 og 4, må ikke medføre en udvidelse af etagearealet. Etagearealet er her det samlede etageareal, der i denne forbindelse forstås som det areal, der opstår ved, at arealet af samtlige etager og al anden bebyggelse på grunden sammenlægges. Dette omfatter bl.a. arealet for kældre, åbne altaner, åbne tagterrasser mv. Det samlede etageareal er ikke nødvendigvis det samme som det etageareal, der indgår i beregningen af bebyggelsesprocenten, hvor der her er mulighed for en række fradrag, jf. BR18, § 455. Hvordan det samlede etageareal beregnes, er nærmere beskrevet i bygningsreglementets *[vejledning til kapitel 8 - byggeret og helhedsvurdering, kapitel 20 – ubebyggede arealer ved bebyggelse og kapitel 23 – beregningsregler.](../../../tekniske-bestemmelser/08/vejledninger/byggeret_helhedsvurdering_ubebyggede_beregningsregler)*
 
 * *
 
@@ -92,9 +92,9 @@ Ombygninger og andre forandringer omfattet af BR18, § 5, stk. 1 nr. 3 og 4, må
 
 Ombygninger og andre forandringer, der er omfattet af BR18, er ligeledes omfattet af en række tekniske krav til bl.a. brand- og konstruktionsforhold for selve byggearbejdet og det der påvirkes heraf. Dette gør sig gældende både for ombygninger og forandringer, der kræver byggetilladelse, og dem der kan udføres uden ansøgning om byggetilladelse.
 
-I forhold til konstruktionsforhold, er det ved ombygninger og andre forandringer kun de konstruktioner, der berøres af byggearbejdet, der skal følge bestemmelserne i det nugældende bygningsreglement. Øvrige eksisterende konstruktioner, der ikke berøres, kan fortsat benyttes uændret i overensstemmelse med reglerne på ansøgningstidspunktet for byggetilladelse eller senere relevante byggetilladelser. Dette er nærmere beskrevet i bygningsreglementets *[vejledning til kapitel 15 -- konstruktioner](../../../tekniske-bestemmelser/15/vejledninger/generel_vejledning)*.
+I forhold til konstruktionsforhold, er det ved ombygninger og andre forandringer kun de konstruktioner, der berøres af byggearbejdet, der skal følge bestemmelserne i det nugældende bygningsreglement. Øvrige eksisterende konstruktioner, der ikke berøres, kan fortsat benyttes uændret i overensstemmelse med reglerne på ansøgningstidspunktet for byggetilladelse eller senere relevante byggetilladelser. Dette er nærmere beskrevet i bygningsreglementets *[vejledning til kapitel 15 – konstruktioner](../../../tekniske-bestemmelser/15/vejledninger/generel_vejledning)*.
 
-I forhold til brandforhold, er det ved ombygninger og andre forandringer kun byggearbejdet i den pågældende brandmæssige enhed samt flugtveje derfra, der skal følge bestemmelserne i det nugældende bygningsreglement og beskrivelserne i hertil hørende vejledninger. Ved ombygninger kan eksisterende brandmæssige forhold, der ikke direkte influeres, fortsat benyttes uændret i overensstemmelse med reglerne på opførelsestidspunktet eller senere relevante byggetilladelser. Dette er nærmere beskrevet i bygningsreglements *[vejledning til kapitel 5 -- brand, kapitel 1.](../../../tekniske-bestemmelser/05/vejledninger/generel_brand)*
+I forhold til brandforhold, er det ved ombygninger og andre forandringer kun byggearbejdet i den pågældende brandmæssige enhed samt flugtveje derfra, der skal følge bestemmelserne i det nugældende bygningsreglement og beskrivelserne i hertil hørende vejledninger. Ved ombygninger kan eksisterende brandmæssige forhold, der ikke direkte influeres, fortsat benyttes uændret i overensstemmelse med reglerne på opførelsestidspunktet eller senere relevante byggetilladelser. Dette er nærmere beskrevet i bygningsreglements *[vejledning til kapitel 5 – brand, kapitel 1.](../../../tekniske-bestemmelser/05/vejledninger/generel_brand)*
 
 ### 1.3 Dokumentation, herunder indplacering i konstruktions- og brandklasse {#c14359ca-3376-40c9-ac8d-e91e38a456d5}
 
@@ -400,7 +400,7 @@ Det forudsættes generelt for alle nedenstående eksempler, at byggearbejdet ikk
 | **Tabel 4: Eksempler på ombygninger og andre forandringer i enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse, der kan udføres uden ansøgning om byggetilladelse** |
 | **Byggearbejde** |
 | Etablering af større vinduespartier og døre i facaden. |
-| Udskiftning af vinduer. (Såfremt der er installeret røgalarmanlæg i huset udført i henhold til beskrivelserne i *Bygningsreglementets vejledning til kapitel 5 -- Brand*, bilag 12, afsnit 5.4, behøves nye vinduer ikke at have funktion som redningsåbninger for personredning.) |
+| Udskiftning af vinduer. (Såfremt der er installeret røgalarmanlæg i huset udført i henhold til beskrivelserne i *Bygningsreglementets vejledning til kapitel 5 – Brand*, bilag 12, afsnit 5.4, behøves nye vinduer ikke at have funktion som redningsåbninger for personredning.) |
 | Etablering af ovenlys. |
 | Sammenlægning af rum for at få opholdsplads i forbindelse med køkken. |
 | Sammenlægning af badeværelse og gæstetoilet. |
@@ -408,9 +408,9 @@ Det forudsættes generelt for alle nedenstående eksempler, at byggearbejdet ikk
 | Opdeling af rum. |
 | Nedlæggelse af gang og entré, der inddrages til f.eks. opholdsrum. |
 | Nedlæggelse af bryggers, der inddrages til f.eks. badeværelse. |
-| Åbning af brandmæssig adskillelse til kælderetage. (Dette kan dog kun udføres såfremt der ikke er tekniske installationer med stor risiko for antændelse eller stor brandbelastning. Eksempler herpå er oliefyr, pillefyr, koksfyr mv. inklusiv deres oplag. Disse skal placeres i selvstændig brandcelle. Tillige er det under forudsætning af, at der er installeret røgalarmanlæg i huset udført i henhold til beskrivelserne i *Bygningsreglementets vejledning til kapitel 5 -- Brand*, bilag 12, afsnit 5.4.) |
+| Åbning af brandmæssig adskillelse til kælderetage. (Dette kan dog kun udføres såfremt der ikke er tekniske installationer med stor risiko for antændelse eller stor brandbelastning. Eksempler herpå er oliefyr, pillefyr, koksfyr mv. inklusiv deres oplag. Disse skal placeres i selvstændig brandcelle. Tillige er det under forudsætning af, at der er installeret røgalarmanlæg i huset udført i henhold til beskrivelserne i *Bygningsreglementets vejledning til kapitel 5 – Brand*, bilag 12, afsnit 5.4.) |
 | Udskiftning af tagkonstruktionen. |
-| Åbning af brandmæssig adskillelse internt i enfamilieshuse, dog ikke til garager eller teknikrum. (For enfamilieshuse i 3 etager, dog for en  boligenhed med et samlet etageareal på højst 150 m^2^. Dette er under forudsætning af, at der er installeret røgalarmanlæg i huset udført i henhold til beskrivelserne i *Bygningsreglementets vejledning til kapitel 5 -- Brand*, bilag 12, afsnit 5.4.) |
+| Åbning af brandmæssig adskillelse internt i enfamilieshuse, dog ikke til garager eller teknikrum. (For enfamilieshuse i 3 etager, dog for en  boligenhed med et samlet etageareal på højst 150 m^2^. Dette er under forudsætning af, at der er installeret røgalarmanlæg i huset udført i henhold til beskrivelserne i *Bygningsreglementets vejledning til kapitel 5 – Brand*, bilag 12, afsnit 5.4.) |
 | Nyt dørhul/vindueshul i bærende væg. |
 | Fuld eller delvis nedrivning af bærende væg. |
 | Udveksling i en bærende bjælke for at etablere en intern trappe. |

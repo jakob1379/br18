@@ -12,7 +12,7 @@ Bygninger skal sikres mod skadelig akkumulering af fugt som følge af fugttransp
 
 ### § 336 {#paragraf-336}
 
-Bygningskonstruktioner og --materialer må ikke have et fugtindhold, der ved indflytning medfører risiko for vækst af skimmelsvamp.
+Bygningskonstruktioner og –materialer må ikke have et fugtindhold, der ved indflytning medfører risiko for vækst af skimmelsvamp.
 
 ### § 337 {#paragraf-337}
 

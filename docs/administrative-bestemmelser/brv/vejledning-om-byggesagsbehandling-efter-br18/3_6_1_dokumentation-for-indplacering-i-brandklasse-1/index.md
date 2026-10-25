@@ -110,13 +110,13 @@ Dokumentation for indplacering i brandklasse 1 skal følge [§ 511](/ovrige-best
 
 Brandklasse 1 (BK1), som omfatter byggeri i risikoklasse 1, hvor hvert bygningsafsnit har et samlet etageareal, der er mindre end 600 m2. De tekniske løsninger skal udføres i overensstemmelse med de præ-accepterede løsninger, som er beskrevet i Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) - Brand. Til overholdelse af krav til byggeri i brandklasse 1 må der alene anvendes simple brandtekniske installationer, og håndslukningsudstyr.
 
-De præ-accepterede løsninger er beskrevet i forskellige bilag til Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) -- brand.
+De præ-accepterede løsninger er beskrevet i forskellige bilag til Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) – brand.
 
 Du kan læse mere om den brandtekniske dokumentation i [Bygningsreglementets vejledning til dokumentation brandforhold](../../../../tekniske-bestemmelser/05/vejledninger/generel_brand/){rel="noopener noreferrer" target="_blank"}.
 
 [3.5.2.](../3_6_2_dokumentation-for-indplacering-i-brandklasse-2_4/)
 
-### Dokumentation for indplacering i brandklasse 2 -- 4
+### Dokumentation for indplacering i brandklasse 2 – 4
 
 [3.6.](../3_6_dispensation/)
 

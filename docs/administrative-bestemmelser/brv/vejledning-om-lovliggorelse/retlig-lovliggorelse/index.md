@@ -52,7 +52,7 @@ Ud fra hensynet til proportionalitetsprincippet bør den retlige lovliggørelse 
 
 ### Fysisk lovliggørelse
 
-### Vurderingen -- valget mellem retlig og fysisk lovliggørelse
+### Vurderingen – valget mellem retlig og fysisk lovliggørelse
 
 ### Byggeri opført uden tilladelse
 

@@ -68,7 +68,7 @@ Eksempler på nye altaner, der ændrer de brandmæssige forudsætninger, kan f.e
 
 Vær opmærksom på at der for eksisterende byggeri på opførelsestidspunktet, kan have været krav om redningsåbninger i alle opholdsrum og køkkener. Sløjfes eller ændres sådan en redningsåbning, kan det betyde at redningsberedskabets indsatsmuligheder påvirkes.
 
-I forbindelse med byggeansøgning kan der derfor, samtidig ansøges om at boligens redningsmuligheder udføres i overensstemmelse med beskrivelserne i Bygningsreglementets [kapitel 5](/tekniske-bestemmelser/05/) -- Brand, [bilag 2](/bilag/b2/bilag_2/). Dette medfører bl.a., at der skal installeres røgalarmanlæg i boligen, og der skal mindst være en redningsåbning fra boligen som helhed. Denne kan så være en eksisterende redningsåbning, der ikke berøres af altanmontagen. For denne redningsåbning ændres der ikke på de brandmæssige forudsætninger, og eksisterende brandredningsarealer kan fortsat benyttes.
+I forbindelse med byggeansøgning kan der derfor, samtidig ansøges om at boligens redningsmuligheder udføres i overensstemmelse med beskrivelserne i Bygningsreglementets [kapitel 5](/tekniske-bestemmelser/05/) – Brand, [bilag 2](/bilag/b2/bilag_2/). Dette medfører bl.a., at der skal installeres røgalarmanlæg i boligen, og der skal mindst være en redningsåbning fra boligen som helhed. Denne kan så være en eksisterende redningsåbning, der ikke berøres af altanmontagen. For denne redningsåbning ændres der ikke på de brandmæssige forudsætninger, og eksisterende brandredningsarealer kan fortsat benyttes.
 
 Ved etablering af en ny åben altan, evt. fransk altan, vil der ofte blive etableret en ny dør i bygningens ydervæg. I bygninger med gulv i øverste etage højst 22 m over terræn vil etablering af en dør i ydervæggen som udgangspunkt ikke ændre de brandmæssige forudsætninger for bygningen, da der i de præ-accepterede løsninger for etagebyggeri ikke er krav til sikring mod brandspredning vertikalt mellem eksempelvis vindues- og døråbninger. En etablering af en ny dør og en altan i bygninger med gulv i øverste etage højst 22 m over terræn vil derfor normalt ikke medføre, at der ændres i de brandmæssige forudsætninger.
 
@@ -276,7 +276,7 @@ Det væsentlige i denne sammenhæng er således, at tredjepartskontrollanten ikk
 
 Derfor vurderer Bolig- og planstyrelsen, at en ansøger af en byggetilladelse, hvor ansøger selv forestår projekteringen af de bærende konstruktioner eller brandforhold, kan udpege og indgå aftale med en tredjepartskontrollant og samtidig overholde bygningsreglementet [§ 526, stk. 1, nr. 3](/ovrige-bestemmelser/30/krav/523_528/).
 
-Hvis en totalentreprenør ikke er ansøgeren, så kan totalentreprenøren ikke udpege en tredjepartskontrollant -- det vil i dette tilfælde være ansøgeren (bygningsejer eller bygherren), der skal udpege en sådan.
+Hvis en totalentreprenør ikke er ansøgeren, så kan totalentreprenøren ikke udpege en tredjepartskontrollant – det vil i dette tilfælde være ansøgeren (bygningsejer eller bygherren), der skal udpege en sådan.
 
 Hvis totalentreprenøren er ansøgeren, så skal totalentreprenøren udpege tredjepartskontrollanten.
 

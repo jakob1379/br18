@@ -154,7 +154,7 @@ Ud fra hensynet til proportionalitetsprincippet bør den retlige lovliggørelse 
 
 Ved fysisk lovliggørelse bringes den ulovlige tilstand derimod til ophør ved, at byggeriet rent fysisk bringes i overensstemmelse med lovgivningen. Dette kan ske enten ved ombygning eller nedrivning eller ved en kombination af disse.
 
-### Vurderingen -- valget mellem retlig og fysisk lovliggørelse
+### Vurderingen – valget mellem retlig og fysisk lovliggørelse
 
 Valget mellem retlig og fysisk lovliggørelse beror på afgørelsesmyndighedens konkrete, skønsmæssige afvejning af forskellige hensyn i hver enkelt sag. Denne vurdering er bundet af de forvaltningsretlige principper for skønsudøvelse.
 

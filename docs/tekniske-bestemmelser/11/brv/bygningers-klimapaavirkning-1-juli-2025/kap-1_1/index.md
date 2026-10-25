@@ -18,7 +18,7 @@
 
 Kapitel 11 i bygningsreglementet indeholder krav om bygningers energiforbrug og klimapåvirkning.
 
-Den overordnede metode til beregningen af bygningers klimapåvirkning er baseret på EN 15978:2012 "Bæredygtighed inden for byggeri og anlæg -- Vurdering af bygningers miljømæssige kvalitet -- Beregningsmetode".
+Den overordnede metode til beregningen af bygningers klimapåvirkning er baseret på EN 15978:2012 "Bæredygtighed inden for byggeri og anlæg – Vurdering af bygningers miljømæssige kvalitet – Beregningsmetode".
 
 Kravet, som fremgår af henholdsvis §§ 297 og 298, indeholder to elementer:
 
@@ -82,7 +82,7 @@ Der er ikke regler om, at et bestemt værktøj skal anvendes til livscyklusvurde
 
 Bygningsejer kan vælge at foretage beregningen for flere bygninger sammenlagt. Det kan være, hvis bygningsejer ser en økonomisk besparelse i at gøre det således. Det er ikke et krav, at bygningerne befinder sig på samme matrikel, så længe de behandles på samme byggesag.
 
-For bygninger, som skal overholde grænseværdien i § 298, er det også muligt at foretage beregningen samlet, men her er det et krav, at bygningerne er så ens, at det ikke skaber tvivl om, at bygningerne hver især -- hvis de blev beregnet hver for sig -- ville kunne overholde grænseværdien. Der henvises til de nærmere forudsætninger for at beregne bygningerne samlet i § 298, stk. 6.
+For bygninger, som skal overholde grænseværdien i § 298, er det også muligt at foretage beregningen samlet, men her er det et krav, at bygningerne er så ens, at det ikke skaber tvivl om, at bygningerne hver især – hvis de blev beregnet hver for sig – ville kunne overholde grænseværdien. Der henvises til de nærmere forudsætninger for at beregne bygningerne samlet i § 298, stk. 6.
 
 [Gå til krav om bygningers klimapåvirkning § 297 - § 298 (nyt vindue)](../../../krav/297_298 "297_298"){rel="noopener" target="_blank"}
 
@@ -92,7 +92,7 @@ I en livscyklusvurdering (Life Cycle Assessment, LCA) af en bygning opgøres byg
 
 #### **1.2.1   Beregningsprincipper for beregning af klimapåvirkningen**
 
-Til beregning af klimapåvirkningen skal der tages udgangspunkt i de beregningsprincipper, som fremgår af standarden DS/EN15978:2012 "Bæredygtighed inden for byggeri og anlæg - Vurdering af bygningers miljømæssige kvalitet -- Beregningsmetode".
+Til beregning af klimapåvirkningen skal der tages udgangspunkt i de beregningsprincipper, som fremgår af standarden DS/EN15978:2012 "Bæredygtighed inden for byggeri og anlæg - Vurdering af bygningers miljømæssige kvalitet – Beregningsmetode".
 
 Standarden DS/EN15978:2012 skal følges med de præciseringer, der fremgår af § 297. Det vil sige, at:
 
@@ -374,7 +374,7 @@ Overordnet kan nævnes, at for de tekniske installationer medregnes tekniske anl
 
 #### **1.4.2 Hoved- og undergruppe**
 
-Ud over ovenstående excel-baserede skema, er der som supplement udviklet et bygningssnit. Bygningssnittet har til formål at illustrere og uddybe de enkelte bygningsdeles placering i hovedgrupper og undergrupper. ([Bilag 2, tabel 6 -- Skitse til vejledning](../../../../../bilag/b2/bilag_2/tabel_6){rel="noopener noreferrer" target="_blank"})
+Ud over ovenstående excel-baserede skema, er der som supplement udviklet et bygningssnit. Bygningssnittet har til formål at illustrere og uddybe de enkelte bygningsdeles placering i hovedgrupper og undergrupper. ([Bilag 2, tabel 6 – Skitse til vejledning](../../../../../bilag/b2/bilag_2/tabel_6){rel="noopener noreferrer" target="_blank"})
 
 Bygningssnittet illustrer under hvilke hovedgrupper de enkelte konstruktioner skal placeres. Eksempelvis placeres murkronens overflader under hovedgruppen "Ydervægge" lige så vel som murkronens primærbygningsdel også placeres under hovedgruppen "ydervægge". Et andet eksempel er Etagedæk hvis primær bygningsdel placeres under hovedgruppen "dæk" og hvis gulvkonstruktion placeres under undergruppen "gulve".
 
@@ -406,7 +406,7 @@ Excel-filen med mapping kan findes her: [Tabel 6 Mapping](../../../../../media/x
 
 Enkelte konstruktioner kan placeres efter eget ønske. Det gælder "kviste" og "glasvægssystemer". Som vist og beskrevet på bygningssnittet kan "kviste" enten opgøres som et samlet element under "tage" eller fordelt på de respektive bygningsdele og overflader. Det skyldes, at metode for opgørelse af mængder i kviste både kan være som system-leverance med samlede mængder pr styk, eller opgjort for de enkelte bygningsdele og overflader f.eks. via opgørelser fra 2D eller 3D BIM-modeller.
 
-På samme måde kan glasvægssystemer være en samlet system-leverance, hvor det ikke er muligt at opgøre "døre" for sig. Her kan det samlede glasvægssystem placeres under "indervægge". Alternativt -- hvis mængderne i forvejen opgøres opdelt og opmåling derfor tilsvarende lettest også foretages særskilt, kan døre i glasvægssystemer opgøres som undergruppen "døre" og resterende dele af væggen som undergruppen "indervægge".
+På samme måde kan glasvægssystemer være en samlet system-leverance, hvor det ikke er muligt at opgøre "døre" for sig. Her kan det samlede glasvægssystem placeres under "indervægge". Alternativt – hvis mængderne i forvejen opgøres opdelt og opmåling derfor tilsvarende lettest også foretages særskilt, kan døre i glasvægssystemer opgøres som undergruppen "døre" og resterende dele af væggen som undergruppen "indervægge".
 
 #### **1.4.5    Placering af elementer, der ikke indgår i tabel 6**
 
@@ -975,7 +975,7 @@ Klimapåvirkningen af genbrugte byggematerialer er 0 for A1-A3, B4, C3-C4 og D. 
 
 Det vil sige, at der regnes med 0 kg CO~2~-ækvivalenter pr. m^2^ pr. år i hele betragtningsperioden.
 
-Beregningsmæssigt betyder det, at miljødata af genbrugte byggematerialer indgår i beregningen -- sådan at det er synligt at materialerne er brugt -- men sættes til 0 kg CO~2~-ækvivalenter.
+Beregningsmæssigt betyder det, at miljødata af genbrugte byggematerialer indgår i beregningen – sådan at det er synligt at materialerne er brugt – men sættes til 0 kg CO~2~-ækvivalenter.
 
 Bemærk, at for genbrugte byggematerialer medregnes udledning fra modulerne A4-A5 i beregningen i §297 og i grænseværdien i §298.
 
@@ -989,15 +989,15 @@ Som undtagelse til ovenstående så indgår behandling af det genbrugte material
 
 *Eksempler vedrørende forskel på genbrug og genanvendelse*
 
-Gulvbrædder, der anvendes til gulvbrædder -- genbrug
+Gulvbrædder, der anvendes til gulvbrædder – genbrug
 
-Gulvbrædder, der anvendes til facadebeklædning -- genbrug
+Gulvbrædder, der anvendes til facadebeklædning – genbrug
 
-Gulvbrædder, der anvendes til produktion af spånplader -- genanvendelse, ikke genbrug.
+Gulvbrædder, der anvendes til produktion af spånplader – genanvendelse, ikke genbrug.
 
-Spånplader, der har været brugt og tages ud for at bruges igen i et andet byggeri -- genbrug.
+Spånplader, der har været brugt og tages ud for at bruges igen i et andet byggeri – genbrug.
 
-#### Eksempel -- fastsættelse af miljødata for genbrugte gulvbrædder
+#### Eksempel – fastsættelse af miljødata for genbrugte gulvbrædder
 
 ![](../../../../../media/ouynshg0/billede-1.png){width="500" height="340"}
 
@@ -1017,7 +1017,7 @@ Da levetider ikke skal opgøres for genbrugte materialer, ses der bort fra dem. 
 
 For at skabe en fyldestgørende dokumentation, jf. § 40, dokumenteres mængderne af de brugte gulvbrædder i dokumentationen, som indsendes i forbindelse med færdigmelding af bygningen:
 
-*"53 m^2^, 30 mm tyk -- genbrugte gulvbrædder i stueetagen, undtagen bad -- sat til 0 kg CO^2^-ækvivalenter. i hele bygningens livscyklus."*
+*"53 m^2^, 30 mm tyk – genbrugte gulvbrædder i stueetagen, undtagen bad – sat til 0 kg CO^2^-ækvivalenter. i hele bygningens livscyklus."*
 
 #### Eksempel - beregning af mørtel til genbrugte mursten
 
@@ -1303,7 +1303,7 @@ Afvigelse fra levetidstabellenSom nærmere uddybet i vejledning: § 297, stk. 4,
 
 For at vide hvornår udskiftningerne sker, skal der knyttes forventede levetider til bygningsdele og -materialer.
 
-Levetider for bygningsdele er anført i rapporten BUILD RAPPORT 2021:32 -- BUILD levetidstabel -- Version 2021, [se her](https://vbn.aau.dk/ws/portalfiles/portal/465276076/BUILD_Levetidstabel_version_2021.pdf){rel="noopener" target="_blank"} (nyt vindue)*,* under rapportens bilag 4. Endvidere er principperne i rapportens kapitel 3 vigtige at forholde sig til.
+Levetider for bygningsdele er anført i rapporten BUILD RAPPORT 2021:32 – BUILD levetidstabel – Version 2021, [se her](https://vbn.aau.dk/ws/portalfiles/portal/465276076/BUILD_Levetidstabel_version_2021.pdf){rel="noopener" target="_blank"} (nyt vindue)*,* under rapportens bilag 4. Endvidere er principperne i rapportens kapitel 3 vigtige at forholde sig til.
 
 Hvis levetiden af en konkret bygningsdel eller materiale er kortere end betragtningsperioden på 50 år, antages denne at skulle udskiftes i løbet af de 50 år, og dermed skal klimapåvirkningen fra den nye bygningsdel, der installeres, også medregnes i bygningens samlede klimaregnskab. Desuden skal klimapåvirkningen fra endt levetidsfasen for den erstattede/forrige bygningsdel eller materiale medregnes.
 
@@ -1367,7 +1367,7 @@ Faktorer for el, fjernvarme og ledningsgas er baseret på 1 kWh og er fremskreve
 
 Bygningens energibehov kendes fra energirammeberegningen i bygningsreglementets
 
-§§ 250 -- 256 eller fra standardværdier i bilag 2, tabel 12 og 13.
+§§ 250 – 256 eller fra standardværdier i bilag 2, tabel 12 og 13.
 
 For alle bygninger skal energibehov til drift beregnes ud fra § 297, stk. 11 og 12, inkl. eventuelle tillæg hertil, jf. § 260, stk. 3. Det vil sige at bygninger der er underlagt energirammeberegningen i §§250-256 skal benytte denne som energibehov, mens andre opvarmede bygninger som tilbygninger eller sommerhuse kan vælge enten at beregne energibehovet ud fra tilsvarende energirammeberegning i §§250-256 eller benytte standardværdierne i bilag 2, tabel 12 og 13.
 
@@ -1443,7 +1443,7 @@ Derimod kan (særskilte) administrative bygninger, fx plejepersonales kontorer o
 
 Derimellem kan opstå en række situationer, hvor det kan være op til en konkret vurdering at tage stilling til, om en kantine udgør en del af beboelsen eller er et selvstændigt areal som må kategoriseres som andet. Såfremt det er tilfældet, og fx kantineområdet kategoriseres som andet men samtidig er del af den samme fysiske bygning som beboelsesområdet, må der foretages en arealvægtet beregning for at finde bygningens grænseværdi, jf. § 298 stk. 4.
 
-For bygninger der har særlige forhold eller tillæg til energirammen, medfører det, at der skal dokumenteres to beregninger af bygningens klimapåvirkning -- en samlet beregning, jf. § 297, og en samlet beregning, jf. § 298.
+For bygninger der har særlige forhold eller tillæg til energirammen, medfører det, at der skal dokumenteres to beregninger af bygningens klimapåvirkning – en samlet beregning, jf. § 297, og en samlet beregning, jf. § 298.
 
 Grænseværdien er angivet med én decimal i bestemmelsen. Det betyder, at fx et resultat på 6,73 for et rækkehus vil holde sig inden for grænseværdien, da der afrundes til 6,7.
 
@@ -1511,7 +1511,7 @@ Såfremt resultatet af Formel 1, 3 eller 4 er mindre end 0, udgør det særlige 
 
 En produktionsbygning har behov for særlig høj last på en del af etagedækket grundet tungt procesudstyr. Den høje last vurderes for værende et særligt forhold. Formel 1 anvendes for at beregne forskellen og dermed den øgede klimapåvirkning, som ikke skal indgå i grænseværdien, jf. § 298, stk. 1.
 
-Formel 1: ((x / 50 år) -- (r
+Formel 1: ((x / 50 år) – (r
 
 m)) / a
 
@@ -1523,9 +1523,9 @@ Bygningen er på 2.000 m^2^ referenceareal (referenceareal beregnes, jf. § 297,
 
 3), og den særligt høje last forekommer på et areal på 500 m^2^ af etagedækket. Etagedækket designes i det område både tykkere og med kraftigere armering, hvilket medfører, at konstruktionen i det område har en CO~2~ udledning på 50.000 kg CO~2~-ækvivalenter. Bygningsejer beregner vha. referenceværdierne i BR18, bilag 2, tabel 9, og Formel 1, hvor stor en ekstra klimapåvirkning, som etagedækket har i forhold til en almindelig referencebygning. Arealet, jf. § 297, stk. 3, er på 2.000 m2.
 
-((50.000 kg CO2-ækv. / 50 år) -- (1,30 kg CO2-ækv. /m2 /år 500 m2)) / 2000 m2 = 0,175 kg CO2-ækv./m2/år
+((50.000 kg CO2-ækv. / 50 år) – (1,30 kg CO2-ækv. /m2 /år 500 m2)) / 2000 m2 = 0,175 kg CO2-ækv./m2/år
 
-Bygningsejer når derefter frem til, at bygningens særlige forhold udviser en merudledning af kg CO~2~-ækv. på = 0,175 kg CO~2~-ækv./m^2^ /år, i forhold til en referencebygning. Bygningsejer trækker derefter 0,175 fra det samlede resultat, og kan nu konstatere, om bygningen samlet set -- med iagttagelse af det særlige forhold - overholder grænseværdien på 12,0 kg CO~2~-ækv./m^2^/år.
+Bygningsejer når derefter frem til, at bygningens særlige forhold udviser en merudledning af kg CO~2~-ækv. på = 0,175 kg CO~2~-ækv./m^2^ /år, i forhold til en referencebygning. Bygningsejer trækker derefter 0,175 fra det samlede resultat, og kan nu konstatere, om bygningen samlet set – med iagttagelse af det særlige forhold - overholder grænseværdien på 12,0 kg CO~2~-ækv./m^2^/år.
 
 ## *Uddybende om eksemplerne på særlige forhold*
 
@@ -1640,7 +1640,7 @@ Såfremt resultatet af Formel 1, 3 eller 4 er mindre end 0, udgør det særlige 
 
 En produktionsbygning har behov for særlig høj last på en del af etagedækket grundet tungt procesudstyr. Den høje last vurderes for værende et særligt forhold. Formel 1 anvendes for at beregne forskellen og dermed den øgede klimapåvirkning, som ikke skal indgå i grænseværdien, jf. § 298, stk. 1.
 
-Formel 1: ((x / 50 år) -- (r ×
+Formel 1: ((x / 50 år) – (r ×
 
 m)) / a
 
@@ -1652,9 +1652,9 @@ Bygningen er på 2.000 m^2^ referenceareal (referenceareal beregnes, jf. § 297,
 
 3), og den særligt høje last forekommer på et areal på 500 m^2^ af etagedækket. Etagedækket designes i det område både tykkere og med kraftigere armering, hvilket medfører, at konstruktionen i det område har en CO~2~ udledning på 50.000 kg CO~2~-ækvivalenter. Bygningsejer beregner vha. referenceværdierne i BR18, bilag 2, tabel 9, og Formel 1, hvor stor en ekstra klimapåvirkning, som etagedækket har i forhold til en almindelig referencebygning.
 
-((50.000 kg CO~2~‐ækv. / 50 år) -- (0,99 kg CO~2~‐ækv. /m^2^ /år × 500 m^2^)) / 2000 m^2^ = 0,253 kg CO~2~‐ækv./m^2^/år
+((50.000 kg CO~2~‐ækv. / 50 år) – (0,99 kg CO~2~‐ækv. /m^2^ /år × 500 m^2^)) / 2000 m^2^ = 0,253 kg CO~2~‐ækv./m^2^/år
 
-Bygningsejer når derefter frem til, at bygningens særlige forhold udviser en merudledning på = 0,253 kg CO~2~-ækv./m^2^ /år, i forhold til en referencebygning. Bygningsejer trækker derefter 0,253 fra det samlede resultat, og kan nu konstatere, om bygningen samlet set -- med iagttagelse af det særlige forhold - overholder grænseværdien.
+Bygningsejer når derefter frem til, at bygningens særlige forhold udviser en merudledning på = 0,253 kg CO~2~-ækv./m^2^ /år, i forhold til en referencebygning. Bygningsejer trækker derefter 0,253 fra det samlede resultat, og kan nu konstatere, om bygningen samlet set – med iagttagelse af det særlige forhold - overholder grænseværdien.
 
 #### 1.15.2    Uddybende om eksemplerne på særlige forhold
 

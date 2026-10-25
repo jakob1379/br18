@@ -160,7 +160,7 @@ Fabriksfremstillede produkter, der indgår i eller tilsluttes vandinstallationer
 
 Drift og vedligehold af vandinstallationer skal ske, så de til enhver tid overholder bestemmelserne i §§ 404-418.
 
-*Stk. 2.* Vedligehold af tilbagestrømningssikringer skal ske i overensstemmelse med DS/EN 806-5 Specifikationer for drikkevandsinstallationer i bygninger -- Del 5: Drift og vedligehold eller på en anden måde, som på tilsvarende vis sikrer, at funktionen af tilbagestrømningssikringerne er opretholdt.
+*Stk. 2.* Vedligehold af tilbagestrømningssikringer skal ske i overensstemmelse med DS/EN 806-5 Specifikationer for drikkevandsinstallationer i bygninger – Del 5: Drift og vedligehold eller på en anden måde, som på tilsvarende vis sikrer, at funktionen af tilbagestrømningssikringerne er opretholdt.
 
 *Stk. 3.* Der skal foreligge en drifts- og vedligeholdelsesmanual ved ibrugtagning. Manualen skal indeholde tegninger med oplysning om placering af installationer, der skal vedligeholdes, samt hvordan og hvor ofte vedligeholdelsen skal ske.
 

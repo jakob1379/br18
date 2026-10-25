@@ -32,7 +32,7 @@
 
 [1.1](./)
 
-### Stikprøvekontrol -- 1. fase: Tilstrækkelig dokumentation
+### Stikprøvekontrol – 1. fase: Tilstrækkelig dokumentation
 
 Vejledningen er for overskuelighedens og forståelsens skyld inddelt i faser.
 
@@ -52,7 +52,7 @@ Det er ansøgers opgave selv at vurdere, hvorledes byggeprojektet dokumenteres. 
 >
 > • Hvorledes bygningen understøtter bevægelse frem til, ind i og frem til bygningens funktioner
 >
-> • Funktionalitet og brugsværdi -- konkrete løsninger
+> • Funktionalitet og brugsværdi – konkrete løsninger
 
 Tabel 2. uddyber de enkelte temaer. En kombination af tekst, tegninger, diagrammer og oversigtsplaner anbefales til udarbejdelse af beskrivelserne, som tilsammen danner den samlede dokumentation.
 
@@ -112,7 +112,7 @@ I en eventuel forhåndsdialog mellem ansøger og kommune kan specifikationer omk
 
 [1.3](../fase-tre/)
 
-### Stikprøvekontrol -- 3. fase: Vurdering af mangel
+### Stikprøvekontrol – 3. fase: Vurdering af mangel
 
 [1.4](../afslutning/)
 

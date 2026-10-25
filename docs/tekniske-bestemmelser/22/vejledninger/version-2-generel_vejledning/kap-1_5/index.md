@@ -50,7 +50,7 @@ Grundluftskiftet for ventilationsanlæg til etageboliger vil normalt være luftm
 
 Ventilationsanlæg, der kun betjener en enkelt bolig, har et skærpet krav til specifikt elforbrug til lufttransport. Dette gælder også for anlæg der betjener en enkelt boligenhed i en etagebolig. Hvis decentrale ventilationsanlæg i etageboliger er koblet sammen, for eksempel gennem et fælles aftræk er det kravet til specifikt elforbrug til lufttransport for etageboliger, der skal overholdes.
 
-Det specifikke elforbrug til lufttransport opgøres som angivet i DS 447 Ventilation i bygninger -- Mekaniske, naturlige og hybride ventilationssystemer. Opmærksomheden henledes på, at tryktabet til brandtekniske komponenter som fx brandspjæld ligeledes medregnes ved beregning af elforbruget.
+Det specifikke elforbrug til lufttransport opgøres som angivet i DS 447 Ventilation i bygninger – Mekaniske, naturlige og hybride ventilationssystemer. Opmærksomheden henledes på, at tryktabet til brandtekniske komponenter som fx brandspjæld ligeledes medregnes ved beregning af elforbruget.
 
 For udsugningsanlæg uden mekanisk udelufttilførsel medregnes ligeledes tryktabet på tilluftsiden i anlæggets samlede tryktab (eksempelvis via udeluftsventiler og vinduer).
 

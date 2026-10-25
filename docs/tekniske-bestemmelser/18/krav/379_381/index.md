@@ -40,7 +40,7 @@ Vinduer skal udføres, placeres og eventuelt afskærmes, så solindfald gennem d
 
 Arbejdsrum mv. og fælles adgangsveje skal:
 
-1.  Have elektrisk belysning i fornødent omfang. Arbejdspladsbelysning skal udføres i overensstemmelse med DS/EN 12464-1 Lys og belysning -- Belysning ved arbejdspladser -- Del 1: Indendørs arbejdspladser.
+1.  Have elektrisk belysning i fornødent omfang. Arbejdspladsbelysning skal udføres i overensstemmelse med DS/EN 12464-1 Lys og belysning – Belysning ved arbejdspladser – Del 1: Indendørs arbejdspladser.
 2.  Forsynes med energieffektiv belysning.
 3.  Forsynes med automatisk dagslysstyring, hvis der er tilstrækkeligt dagslys.
 4.  Hvor der kun er lejlighedsvis benyttelse, forsynes med bevægelsesmeldere. Bestemmelsen gælder også baderum og toiletter i tilknytning til arbejdsrum mv. Anvendelse af bevægelsesmeldere kan udelades, hvor slukning af lyset kan give risiko for ulykker, eller hvor lyskilderne ikke er egnet hertil.

@@ -81,7 +81,7 @@ Om en bestemt legeplads eller legepladsredskab er offentligt tilgængelige eller
 
 Der kan i øvrigt gælde andre regler for legepladsredskaber m.v., der ikke er offentligt tilgængelige. Disse regler kan f.eks. være direktiv 2009/48/EF om sikkerhedskrav til legetøj samt BEK 309 om Sikkerhedskrav til legetøjsprodukter.
 
-Bygningsreglementet skelner ikke mellem forskellige ejerforhold, og der skelnes således heller ikke mellem om brugerne f.eks. er boligejere eller --lejere.
+Bygningsreglementet skelner ikke mellem forskellige ejerforhold, og der skelnes således heller ikke mellem om brugerne f.eks. er boligejere eller –lejere.
 
 ### 3. Byggesagsbehandling af legepladser mv. {#3d15f438-c9f9-4289-bc25-073498fdfaf1}
 
@@ -185,7 +185,7 @@ Derudover indeholder DS-håndbog 105:2012 en række retningslinjer for planlægn
 
 ####
 
-DS/CEN/TR 16879:2016 - Placering af legeplads- og andre fritidsfaciliteter -- Rådgivning om metoder til placering og adskillelse
+DS/CEN/TR 16879:2016 - Placering af legeplads- og andre fritidsfaciliteter – Rådgivning om metoder til placering og adskillelse
 
 ####
 
@@ -209,7 +209,7 @@ Denne tekniske rapport indeholder guidelines til at udforme legeområder der giv
 
 ####
 
-DS/CEN/TR 16598:2023 - Samling af rationaler for EN 1176 -- Krav
+DS/CEN/TR 16598:2023 - Samling af rationaler for EN 1176 – Krav
 
 ####
 
@@ -221,7 +221,7 @@ Denne tekniske rapport indeholder rationaler bag EN 1176 serien, der har til for
 
 ####
 
-DS/CEN/TR 16396:2020 - Legepladsredskaber til børn -- Svar på forespørgsler om fortolkning af EN 1176-serien.
+DS/CEN/TR 16396:2020 - Legepladsredskaber til børn – Svar på forespørgsler om fortolkning af EN 1176-serien.
 
 ####
 
@@ -243,7 +243,7 @@ Denne håndbog indeholder bl.a. information og eksempler på adgangsforhold til 
 
 ### 5. Drift, kontrol og vedligehold {#9010be35-e1df-4a55-919d-9ce0c4978514}
 
-Det fremgår af bygningsreglementet 2018, kap. 16, § 367, at drift, kontrol og vedligehold af offentligt tilgængelige legepladsredskaber og --underlag, motionsredskaber i det fri, skateboardbaner og lignende skal ske, så de til enhver tid overholder de relevante bestemmelser i §§ 358-365.
+Det fremgår af bygningsreglementet 2018, kap. 16, § 367, at drift, kontrol og vedligehold af offentligt tilgængelige legepladsredskaber og –underlag, motionsredskaber i det fri, skateboardbaner og lignende skal ske, så de til enhver tid overholder de relevante bestemmelser i §§ 358-365.
 
 Det påhviler den til enhver tid værende ejer at vedligeholde og reparere sine legepladser mv., så de til en hver tid opfylder bygningsreglementets krav og, at der dermed er en tilfredsstillende sikkerhed mod personskader, jf. byggeloven § 17.
 

@@ -112,21 +112,21 @@ Der skal gennemføres funktionsafprøvning af ventilationssystemer. Funktionsafp
 
 >
 
-samt at eventuel behovsstyring fungerer efter hensigten.   For så vidt angår naturlige og hybride ventilationssystemer skal funktionsafprøvningen dokumentere at systemerne er udført og fungerer efter hensigten. Ifølge bygningsreglementet §421, skal ventilationssystemer projekteres og udføres som anvist i DS 447, Ventilation i bygninger -- Mekaniske, naturlige og hybride ventilationssystemer. Vejledning om funktionsafprøvning af ventilationssystemer er derfor baseret på kravene i såvel bygningsreglementet som i DS 447.
+samt at eventuel behovsstyring fungerer efter hensigten.   For så vidt angår naturlige og hybride ventilationssystemer skal funktionsafprøvningen dokumentere at systemerne er udført og fungerer efter hensigten. Ifølge bygningsreglementet §421, skal ventilationssystemer projekteres og udføres som anvist i DS 447, Ventilation i bygninger – Mekaniske, naturlige og hybride ventilationssystemer. Vejledning om funktionsafprøvning af ventilationssystemer er derfor baseret på kravene i såvel bygningsreglementet som i DS 447.
 
 ### 2.1 Relevante standarder {#089edcda-2abb-44a6-8e78-47277dfe7e1f}
 
 Relevante standarder i forbindelse med funktionsafprøvning af ventilationssystemer  omfatter:
 
-> • DS 447, *Ventilation i bygninger -- Mekaniske, naturlige og hybride ventilationssystemer*
+> • DS 447, *Ventilation i bygninger – Mekaniske, naturlige og hybride ventilationssystemer*
 
 >
 
-> • DS/EN 12599, *Ventilation i bygninger -- Prøvningsprocedurer og målemetoder ved aflevering af installerede aircondition- og ventilationssystemer*
+> • DS/EN 12599, *Ventilation i bygninger – Prøvningsprocedurer og målemetoder ved aflevering af installerede aircondition- og ventilationssystemer*
 
 >
 
-> • DS/EN 14134, *Ventilation til bygninger -- Ydeevneprøvning og installationskontrol af systemer til boligventilation*
+> • DS/EN 14134, *Ventilation til bygninger – Ydeevneprøvning og installationskontrol af systemer til boligventilation*
 
 >
 
@@ -570,7 +570,7 @@ Relevante standarder i forbindelse med funktionsafprøvning af varme- og kølean
 
 >
 
-> • DS 447, *Ventilation i bygninger -- Mekaniske, naturlige og hybride ventilationssystemer.*
+> • DS 447, *Ventilation i bygninger – Mekaniske, naturlige og hybride ventilationssystemer.*
 
 >
 
@@ -756,7 +756,7 @@ Samt at dagslysstyring, bevægelsesmeldere og zoneopdeling fungerer efter hensig
 
 Relevante standarder og anvisninger i forbindelse med funktionsafprøvning af belysningsanlæg omfatter:
 
-> • DS/EN 12464-1, *Lys og belysning* - *Belysning ved arbejdspladser -- Del 1: Indendørs arbejdspladser* • DS/EN 12665, *Lys og belysning -- Grundlæggende begreber og kriterier til beskrivelse af krav til belysning*
+> • DS/EN 12464-1, *Lys og belysning* - *Belysning ved arbejdspladser – Del 1: Indendørs arbejdspladser* • DS/EN 12665, *Lys og belysning – Grundlæggende begreber og kriterier til beskrivelse af krav til belysning*
 >
 > • SBi-anvisning 220, *Lysstyring* • At-vejledning A.1.5-1, *Vejledning om kunstig belysning på faste arbejdssteder)* 
 
@@ -812,15 +812,15 @@ At-vejledningen beskriver Arbejdstilsynets krav til kunstig belysning på faste 
 
 *Formål med funktionsafprøvning af belysningsstyrke*
 
-Det skal eftervises, at det elektriske belysningsanlæg opfylder bygningsreglementets krav for belysningsstyrke, jf. DS/EN 1*2464-1, Lys og Belysning - Belysning ved arbejdspladser -- Del 1: Indendørs arbejdspladser.*
+Det skal eftervises, at det elektriske belysningsanlæg opfylder bygningsreglementets krav for belysningsstyrke, jf. DS/EN 1*2464-1, Lys og Belysning - Belysning ved arbejdspladser – Del 1: Indendørs arbejdspladser.*
 
-De tekniske krav til belysningen skal kunne opfyldes i hele anlæggets levetid. Belysningsanlæg bør altid udføres i henhold til informationer i en lysberegning.  Det overordnede formål med en funktionsafprøvning af belysningsanlæg er at eftervise, at anlægget leverer det, beregningen angiver. Den skal således eftervise, at det elektriske belysningsanlæg opfylder bygningsreglementets krav jf. DS/EN 12464-1, *Lys og Belysning - Belysning ved arbejdspladser -- Del 1: Indendørs arbejdspladser.* Disse krav omfatter: • den vedligeholdte belysningsstyrke Ē~m~ på alle relevante flader (arbejdsplan, lofter, vægge, cylindrisk belysningsstyrke)
+De tekniske krav til belysningen skal kunne opfyldes i hele anlæggets levetid. Belysningsanlæg bør altid udføres i henhold til informationer i en lysberegning.  Det overordnede formål med en funktionsafprøvning af belysningsanlæg er at eftervise, at anlægget leverer det, beregningen angiver. Den skal således eftervise, at det elektriske belysningsanlæg opfylder bygningsreglementets krav jf. DS/EN 12464-1, *Lys og Belysning - Belysning ved arbejdspladser – Del 1: Indendørs arbejdspladser.* Disse krav omfatter: • den vedligeholdte belysningsstyrke Ē~m~ på alle relevante flader (arbejdsplan, lofter, vægge, cylindrisk belysningsstyrke)
 
 • belysningens regelmæssighed U0 (E~min~/Ē~m~)
 
 • farvegengivelsesindeks R~a~.
 
-Det kontrolleres, at det oplyste blændingstal for enkelte rum (UGR tabelmetoden) overholder krav til R~UGL~ (grænseværdi for R~UG~ -- Unified Glare Rating)
+Det kontrolleres, at det oplyste blændingstal for enkelte rum (UGR tabelmetoden) overholder krav til R~UGL~ (grænseværdi for R~UG~ – Unified Glare Rating)
 
       Forudsætninger for udførelse af funktionsafprøvning
 
@@ -838,7 +838,7 @@ Det kontrolleres, at det oplyste blændingstal for enkelte rum (UGR tabelmetoden
 
 Som målepunkter udvælges et grid, der dækker mindst 25% repræsentative arbejdspladser (dog mindst svarende til en arbejdsplads) og enkelte typiske målesteder i områder med normal færdsel, fx gange og trapper. Antallet af målepunkter i et grid kan bestemmes ved brug af DS/EN 12464-1. Hvis afprøvningen påviser fejl, øges omfanget af repræsentative arbejdspladser. Hvis flere/adskillige målinger afviger fra det forventede i forhold til lysberegningen, foreslås det, at der tages kontakt til bygherre for at afklare det videre forløb. Udfør målinger på et tilstrækkeligt antal målepunkter i alle rum, små som store, til at fastslå, at Ē~min~, Ē~mid~ og Ē~max~ er som forventet i forhold til lysberegningen. Hvis arbejdspladserne endnu ikke er indrettet inden funktionsafprøvningen må der antages arbejdspladszoner mm. Antagelserne skal beskrives i dokumentationen for funktionsafprøvningen. Måling af belysningsstyrken kan for eksempel foretages med et kalibreret luxmeter og udføres, jf. DS/EN 12464-1.   *Anvendelse af Vedligeholdelsesfaktor*
 
-Krav til belysningsstyrker i DS/EN 12464-1 angives som Ē~m~ -- vedligeholdte belysningsstyrker. Belysningsanlæg skal derfor kunne levere mere lys end de krav, der stilles i DS/EN 12464-1, når anlægget tages i brug. Det skyldes den såkaldte Vedligeholdelsesfaktor fm, jf. DS/EN 12464-1, kapitel 6.3. Hvis det målte kun netop opfylder gældende krav, kan dette skyldes at der er indreguleret, så anlægget er energioptimeret til ikke, at kunne levere mere lys end nødvendigt er på et hvilket som helst tidspunkt i anlæggets levetid. Er dette tilfældet, skal det kontrolleres, at anlægget kan levere lys der svarer til, at fm er sat = 1.
+Krav til belysningsstyrker i DS/EN 12464-1 angives som Ē~m~ – vedligeholdte belysningsstyrker. Belysningsanlæg skal derfor kunne levere mere lys end de krav, der stilles i DS/EN 12464-1, når anlægget tages i brug. Det skyldes den såkaldte Vedligeholdelsesfaktor fm, jf. DS/EN 12464-1, kapitel 6.3. Hvis det målte kun netop opfylder gældende krav, kan dette skyldes at der er indreguleret, så anlægget er energioptimeret til ikke, at kunne levere mere lys end nødvendigt er på et hvilket som helst tidspunkt i anlæggets levetid. Er dette tilfældet, skal det kontrolleres, at anlægget kan levere lys der svarer til, at fm er sat = 1.
 
 For rum uden automatisk dagslysstyring betyder det, at der skal måles en belysningsstyrke, der svarer til kravet plus det, som anlægget er beregnet til ved den for rummet anvendte vedligeholdsfaktor fm. Er denne fx 0,79 skal den målte belysningsstyrke være mindst 1,27 x kravet i DS/EN 12464-1.  For rum med automatisk dagslysstyring kontrolleres lysstyringens set-punkt og belysningsstyrken ved endt levetid beregnes ud fra denne. Kan der ikke indhentes oplysninger om dette set-punkt, justeres belysningsstyrken manuelt til det maksimale output, og målingen sammenholdes med den målte Ē for at afgøre, om vedligeholdelsesfaktoren er anvendt korrekt.  Hvis der ikke er møbleret, når der måles, så anbefales det at der fratrækkes 10% på de målte belysningsstyrker.
 
@@ -910,7 +910,7 @@ Kontrol af lysføler/sensor ved måling af belysningsstyrke, E, i de tilfælde h
 >
 > • Almenbelysning tænder automatisk, når belysningsstyrken er under E~min~ for lokale/zone, og der er konstateret persontilstedeværelse, hvis det anvendes bevægelsesmelder.
 >
-> • Reguleringen fungerer jf. dokumentationen -- konstateres for eksempel ved at trække gardiner for eller lukke solafskærmning
+> • Reguleringen fungerer jf. dokumentationen – konstateres for eksempel ved at trække gardiner for eller lukke solafskærmning
 >
 > • Solafskærmning aktiveres når belysningsstyrken er over E~max~ for lokale/zone
 >
@@ -967,7 +967,7 @@ Bestemmelsen gælder kun for elevatorer med en mærkelast af elevatorstolen på 
 
 Relevante standarder i forbindelse med funktionsafprøvning af elevatorer omfatter:
 
-> • DS/EN ISO 25745-1, *Energieffektivitet for elevatorer, rulletrapper og rullefor-tov -- Del 1: Energimåling og verifikation.*
+> • DS/EN ISO 25745-1, *Energieffektivitet for elevatorer, rulletrapper og rullefor-tov – Del 1: Energimåling og verifikation.*
 >
 > • DS/EN ISO 25745-2, *Elevatorer, rulletrapper og rullefortoves energieffektivitet - Del 2: Beregning af energi for og klassifikation af elevatorer*
 
@@ -1239,7 +1239,7 @@ Relevante standarder i forbindelse med funktionsafprøvning af kedelanlæg omfat
 
 • DS 469, *Varme- og køleanlæg i bygninger*
 
-• DS/EN 13842, *Oliefyrede konvektionsluftvarmere -- stationære eller transportable til rumopvarmn*ing
+• DS/EN 13842, *Oliefyrede konvektionsluftvarmere – stationære eller transportable til rumopvarmn*ing
 
 *Formål med funktionsafprøvning af kedelanlæg*
 
@@ -1249,7 +1249,7 @@ Røggastabet beregnes som:
 
 Røggastab = (66/(21-O~2~) +
 
-1) · (T~røg~ -- T~friskluft~)
+1) · (T~røg~ – T~friskluft~)
 
 hvor:
 
@@ -1391,7 +1391,7 @@ Relevante standarder og anvisninger i forbindelse med funktionsafprøvning af so
 
 #### DS/IEC TS 61724-3
 
-Fotovoltaiske systemers ydeevne -- Del 3: Energievalueringsmetode
+Fotovoltaiske systemers ydeevne – Del 3: Energievalueringsmetode
 
 #### Beskrivelse
 

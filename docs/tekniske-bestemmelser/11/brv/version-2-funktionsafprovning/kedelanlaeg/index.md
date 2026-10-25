@@ -78,7 +78,7 @@ Relevante standarder i forbindelse med funktionsafprøvning af kedelanlæg omfat
 
 • DS 469, *Varme- og køleanlæg i bygninger*
 
-• DS/EN 13842, *Oliefyrede konvektionsluftvarmere -- stationære eller transportable til rumopvarmn*ing
+• DS/EN 13842, *Oliefyrede konvektionsluftvarmere – stationære eller transportable til rumopvarmn*ing
 
 *Formål med funktionsafprøvning af kedelanlæg*
 
@@ -88,7 +88,7 @@ Røggastabet beregnes som:
 
 Røggastab = (66/(21-O~2~) +
 
-1) · (T~røg~ -- T~friskluft~)
+1) · (T~røg~ – T~friskluft~)
 
 hvor:
 

@@ -81,7 +81,7 @@ Påfyldning af brændstof til maskiner, generatorer, kompressorer, arbejdsredska
 
 ####
 
-Bekendtgørelse nr. 1639 af 06/12/2006 om Brandfarlige og brandbare væsker -- (inklusiv tekniske forskrifter)
+Bekendtgørelse nr. 1639 af 06/12/2006 om Brandfarlige og brandbare væsker – (inklusiv tekniske forskrifter)
 
 ####
 

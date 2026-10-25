@@ -88,7 +88,7 @@ Der skal sikres acceptable lysforhold gennem elektrisk belysning. Belysningen sk
 
 På arbejdspladser stiller bygningsreglementet krav til, at man følger DS/EN 12464-1. Det drejer sig for eksempel om kontorarbejdspladser, klasseværelser og opholdsrum i institutioner. For de øvrige rum og arealer i arbejdsbygninger, hvor der ikke er arbejdspladser, fx spiserum, møderum, stillerum, depoter og printerrum vil man være sikker på at opfylde kravene om tilstrækkelig belysning, hvis man følger værdierne for belysningsniveau og blænding i DS/EN 12464-1.
 
-Yderligere beskrivelse og mulige projekteringskriterier kan findes i DS/EN 12464-2 Lys og belysning - Lys ved arbejdspladser - Del 2: Udendørs arbejdspladser, DS/EN 12665 Lys og belysning - Grundlæggende begreber og kriterier til beskrivelse af krav til belysning, og DS/EN 12193 Lys og belysning -- Sportsbelysning.
+Yderligere beskrivelse og mulige projekteringskriterier kan findes i DS/EN 12464-2 Lys og belysning - Lys ved arbejdspladser - Del 2: Udendørs arbejdspladser, DS/EN 12665 Lys og belysning - Grundlæggende begreber og kriterier til beskrivelse af krav til belysning, og DS/EN 12193 Lys og belysning – Sportsbelysning.
 
 I rum med begrænset eller ingen dagslysadgang kan dagslysstyring udelades.
 

@@ -17,7 +17,7 @@
 
 ### Hvilket ansvar har akkrediteringsorganerne i forhold til certificeringsbekendtgørelsen?
 
-Det følger af certificeringsbekendtgørelsen, at DANAK eller et tilsvarende akkrediteringsorgan, som er medunderskriver af EA´s (European co-operation for Accreditation) multilaterale aftale om gensidig anerkendelse, kan akkreditere certificeringsorganer. Certificeringsbekendtgørelsen angiver, at akkreditering af certificeringsorganer bl.a. skal ske i henhold til "DS/EN ISO/IEC 17024 Overensstemmelsesvurdering -- Generelle krav til organer, der udfører certificering af personer". Standarden indeholder principperne for, og krav til, et organ, der certificerer personer.
+Det følger af certificeringsbekendtgørelsen, at DANAK eller et tilsvarende akkrediteringsorgan, som er medunderskriver af EA´s (European co-operation for Accreditation) multilaterale aftale om gensidig anerkendelse, kan akkreditere certificeringsorganer. Certificeringsbekendtgørelsen angiver, at akkreditering af certificeringsorganer bl.a. skal ske i henhold til "DS/EN ISO/IEC 17024 Overensstemmelsesvurdering – Generelle krav til organer, der udfører certificering af personer". Standarden indeholder principperne for, og krav til, et organ, der certificerer personer.
 
 Akkrediteringsorganerne har allerede fra 1. januar 2018, hvor certificeringsbekendtgørelsen trådte i kraft, kunnet akkreditere virksomheder som certificeringsorganer efter certificeringsbekendtgørelsen.
 

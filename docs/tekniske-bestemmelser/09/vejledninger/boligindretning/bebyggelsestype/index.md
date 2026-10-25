@@ -44,7 +44,7 @@ I planlægningen af boligens placering på grunden skal parkeringsmulighederne o
 
 Se SBi-anvisning 272, Anvisning om Bygningsreglementet 2018-20. Ubebyggede arealer ved bebyggelsen, Parkeringsarealer (de Place Hansen, 2018).
 
-Se SBi-anvisning 249, Tilgængelige boliger -- Indretning, 1.2 Parkeringsarealer for biler og cykler m.m. (Sigbrand & Jensen, 2015).
+Se SBi-anvisning 249, Tilgængelige boliger – Indretning, 1.2 Parkeringsarealer for biler og cykler m.m. (Sigbrand & Jensen, 2015).
 
 ###
 

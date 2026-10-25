@@ -26,7 +26,7 @@ Der henvises til [EU-LCI-værdier](https://ec.europa.eu/growth/sectors/construct
 
 Indhold af formaldehyd bl.a. i træplader reguleres gennem REACH. Ved anvendelse af sådanne træplader, som er holdt sammen af en formaldehydafgivende lim til gulv, væg og loft, f.eks. MDF- og spånplader, anbefales det at beklæde pladerne med et ikke-formaldehydafgivende materiale for at minimere mængden af formaldehyd i indeluften. Beklædningen kan være f.eks. gipsplader, banevarer, trægulve eller anden gulvbelægning.
 
-WHO anbefaler, at det samlede formaldehydindhold i indeluften ikke overstiger 0,1 mg/m³. Det skal bemærkes, at der kan være andre kilder end byggematerialer, der forårsager formaldehydafgasning til indeklimaet -- som f.eks. møbler og andet inventar.
+WHO anbefaler, at det samlede formaldehydindhold i indeluften ikke overstiger 0,1 mg/m³. Det skal bemærkes, at der kan være andre kilder end byggematerialer, der forårsager formaldehydafgasning til indeklimaet – som f.eks. møbler og andet inventar.
 
 Det skal sikres ved mineraluldsholdige materialer med overflader i kontakt med indeluften, at konstruktionen er forsvarligt konstrueret, så der ikke er risiko for afgivelse af partikler herunder fibre til indeklimaet. Mineraluldsholdige materialer bør derfor afdækkes, indkapsles eller overfladebehandles.
 
@@ -50,7 +50,7 @@ Kravet til radonindholdet i indeluften for bygninger omfattet af BR18, kapitel 9
 
 Forslag til radonsikring af nye bygninger kan findes i *SBi-anvisning 233 Radonsikring af nye bygninger (2015), Byggeteknisk Erfaringsformidling, [BYG-ERFA blad SfB (99) 15 01 02](https://byg-erfa.dk/radonsikring-nye-bygninger-2udg){rel="noopener" target="_blank"}* *Radonsikring nye bygninger* og [Radonguiden](https://www.radonguiden.dk/){rel="noopener" target="_blank"}.
 
-Foretages der måling af radon, bør målingen ske over mindst to måneder i fyringssæsonen og målingen bør resultere i en beregnet gennemsnitlig radonkoncentration over et helt år -- en estimeret årsmiddelværdien for bygningen. Der henvises i øvrigt til *SBi-anvisning 270 Måling af radon i bygninger*, hvor måle- og beregningsmetode for den estimerede årsmiddelværdi er præciseret.
+Foretages der måling af radon, bør målingen ske over mindst to måneder i fyringssæsonen og målingen bør resultere i en beregnet gennemsnitlig radonkoncentration over et helt år – en estimeret årsmiddelværdien for bygningen. Der henvises i øvrigt til *SBi-anvisning 270 Måling af radon i bygninger*, hvor måle- og beregningsmetode for den estimerede årsmiddelværdi er præciseret.
 
 WHO anbefaler generelt et referenceniveau for radon i indeklimaet på 100 Bq/m^3^. Et referenceniveau er den aktivitetskoncentration over hvilken radonudsættelse anses for uhensigtsmæssig, og hvor gennemførelse af rimelige radonsænkende tiltag anbefales.
 
@@ -82,7 +82,7 @@ Radonsikring af nye bygninger
 
 Denne anvisning indeholder en vejledning i, hvordan man opbygger klimaskærmen mod jord og tætner mod indtrængning af jordluft. Anvisningen gør også rede for sammenhængen mellem radonindtrængning, radon i indeluften, ventilation og energiforbrug i en bygning.
 
-Anvisningen knytter sig til SBi-anvisning 232, Radon -- kilder og måling, der redegør for radonproblematikken og anviser metoder til måling af radon i bygninger.
+Anvisningen knytter sig til SBi-anvisning 232, Radon – kilder og måling, der redegør for radonproblematikken og anviser metoder til måling af radon i bygninger.
 
 Anvisningen henvender sig til både bygherrer, projekterende og udførende
 
@@ -114,7 +114,7 @@ Radonsikring af eksisterende bygninger
 
 SBi-anvisning 247 forklarer, hvordan indholdet af radon i en bygning undersøges, og hvordan radonindholdet i bygningen reduceres, så bygningsreglementets anbefalinger imødekommes.
 
-Anvisningen knytter sig til SBi-anvisning 232, Radon -- kilder og måling, der redegør for radonproblematikken og anviser metoder til måling af radon i bygninger, og SBi-anvisning 233, Radonsikring af nye bygninger.
+Anvisningen knytter sig til SBi-anvisning 232, Radon – kilder og måling, der redegør for radonproblematikken og anviser metoder til måling af radon i bygninger, og SBi-anvisning 233, Radonsikring af nye bygninger.
 
 SBi-anvisning 247 henvender sig til både bygherrer, projekterende og udførende, der ønsker at radonsikre eksisterende bygninger.
 

@@ -40,7 +40,7 @@ Ved sekundær bebyggelse skelnes der mellem byggeri, der bygges sammen med den p
 
 Det kan på samme måde have betydning for brandsikringen, hvis man bygger tæt på skel. Konkret kan det eksempelvis have betydning for, hvilke materialer, som du skal bygge med, og om du skal lave en brandvæg mod skel for at forhindre brandspredning.
 
-Vi henviser i øvrigt til Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) -- Brand, [Bilag 1](/bilag/b1/bilag_1/) -- Præ-accepterede løsninger -- Enfamiliehuse, afsnit 4.6, der omhandler særlige forhold ved sekundær bebyggelse.
+Vi henviser i øvrigt til Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) – Brand, [Bilag 1](/bilag/b1/bilag_1/) – Præ-accepterede løsninger – Enfamiliehuse, afsnit 4.6, der omhandler særlige forhold ved sekundær bebyggelse.
 
 **Eksempel 1:**
 

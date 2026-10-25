@@ -98,7 +98,7 @@ Af hensyn til komforten bør varmeforsyningen placeres så varmen fordeles bedst
 
 Det kan være et problem for Tiny Houses at anvende en standard varmepumpeløsning, da varmebehovet er relativt lavt og der derfor er risiko for overdimensionering som medfører en ineffektiv drift med korte driftsperioder. For klynger af Tiny Houses kan det derfor være en fordel at anvende én fælles varmepumpe, hvorved problemet kan reduceres eller helt undgås.
 
-Placeringen af en brændeovn i et Tiny House bør nøje overvejes, da der vil være høj risiko for overtemperaturer og strålevarme i en stor andel af beboelsesarealet. For brændeovne stiller bygningsreglementet en række afstandskrav af hensyn til brandrisiko. Kravene er beskrevet i [Bilag 1a -- Præ-accepterede løsninger -- Fritliggende og sammenbyggede enfamiliehuse](../../../../tekniske-bestemmelser/05/vejledninger/generel_brand/enfamiliehuse/bilag-1a-prae-accepterede-loesninger-for-fritliggende-og-sammenbyggede-enfamiliehuse/). Bemærk desuden, at hvis der installeres en brugt brændeovn, skal der også forefindes en prøvningsattest på ovnen, der viser at den overholder gældende lovkrav. Prøvningsattesten skal dokumentere, at brændeovnen lever op til [Brændeovnsbekendtgørelsens](https://www.retsinformation.dk/eli/lta/2022/199) miljøkrav til bl.a. partikeludslip. Brændeovnsbekendtgørelsen stiller desuden en række krav til aftrækssystemet, som også skal efterleves.
+Placeringen af en brændeovn i et Tiny House bør nøje overvejes, da der vil være høj risiko for overtemperaturer og strålevarme i en stor andel af beboelsesarealet. For brændeovne stiller bygningsreglementet en række afstandskrav af hensyn til brandrisiko. Kravene er beskrevet i [Bilag 1a – Præ-accepterede løsninger – Fritliggende og sammenbyggede enfamiliehuse](../../../../tekniske-bestemmelser/05/vejledninger/generel_brand/enfamiliehuse/bilag-1a-prae-accepterede-loesninger-for-fritliggende-og-sammenbyggede-enfamiliehuse/). Bemærk desuden, at hvis der installeres en brugt brændeovn, skal der også forefindes en prøvningsattest på ovnen, der viser at den overholder gældende lovkrav. Prøvningsattesten skal dokumentere, at brændeovnen lever op til [Brændeovnsbekendtgørelsens](https://www.retsinformation.dk/eli/lta/2022/199) miljøkrav til bl.a. partikeludslip. Brændeovnsbekendtgørelsen stiller desuden en række krav til aftrækssystemet, som også skal efterleves.
 
 ### Fugt og vådrum {#33520e5b-f689-418d-83b9-65d4593f8022}
 
@@ -160,7 +160,7 @@ Bygningsreglementet stiller et generelt krav om at alle bygninger skal have en p
 
 **Efterlevelse af krav**
 
-Disse grundlæggende krav skal Tiny Houses også opfylde og der kan derfor normalt ikke dispenseres fra kravet om vandforsyning -- enten via vandværk eller privat vandboring.
+Disse grundlæggende krav skal Tiny Houses også opfylde og der kan derfor normalt ikke dispenseres fra kravet om vandforsyning – enten via vandværk eller privat vandboring.
 
 Vil man i et Tiny House gerne udnytte regnvand til toiletskyl og evt. vaskemaskiner kan dette gøres ved at følge DS 439, der igen henviser til Rørcenter-anvisning 003. *Brug af regnvand til wc-skyl og vaskemaskiner i boliger, 4. udgave, september 2012.*
 

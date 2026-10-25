@@ -82,7 +82,7 @@ Ved sekundær bebyggelse skelnes der mellem byggeri, der bygges sammen med den p
 
 Det kan på samme måde have betydning for brandsikringen, hvis man bygger tæt på skel. Konkret kan det eksempelvis have betydning for, hvilke materialer, som du skal bygge med, og om du skal lave en brandvæg mod skel for at forhindre brandspredning.
 
-Vi henviser i øvrigt til Bygningsreglementets vejledning til kapitel 5 -- Brand, Bilag 1 -- Præ-accepterede løsninger -- Enfamiliehuse, afsnit 4.6, der omhandler særlige forhold ved sekundær bebyggelse.
+Vi henviser i øvrigt til Bygningsreglementets vejledning til kapitel 5 – Brand, Bilag 1 – Præ-accepterede løsninger – Enfamiliehuse, afsnit 4.6, der omhandler særlige forhold ved sekundær bebyggelse.
 
 **Eksempel 1:**
 
@@ -144,7 +144,7 @@ Hvis sekundær bebyggelse opføres nærmere skel mod nabo og sti end 2,5 meter, 
 
 løber ind på naboens grund.
 
-Hvis ovenstående betingelser overholdes, er det som udgangspunkt tilladt at bygge nærmere skel end 2,5 meter. Sommerhuse er selvstændigt reguleret -- se afsnit 4.1.3 nedenfor. Er der tvivl om, hvorvidt byggeriet kan opfylde alle betingelserne, kan man kontakte kommunen for vejledning.
+Hvis ovenstående betingelser overholdes, er det som udgangspunkt tilladt at bygge nærmere skel end 2,5 meter. Sommerhuse er selvstændigt reguleret – se afsnit 4.1.3 nedenfor. Er der tvivl om, hvorvidt byggeriet kan opfylde alle betingelserne, kan man kontakte kommunen for vejledning.
 
 **Eksempel 1:**
 
@@ -162,7 +162,7 @@ Placeres bygningen i en afstand på mere end 2,5 meter fra skel, er bygningen ik
 
 For sekundær bebyggelse, der opføres i tilknytning til sommerhuse, gælder særlige afstandskrav.
 
-Udgangspunktet er, at der ikke må opføres bebyggelse i en afstand af 0,0 - 5,0 meter fra skel. Man kan skelne mellem den ydre skelbræmme, dvs. fra 0,0 - 2,5 meter fra skel, og den indre skelbræmme, dvs. fra 2,5 -- 5,0 meter fra skel.
+Udgangspunktet er, at der ikke må opføres bebyggelse i en afstand af 0,0 - 5,0 meter fra skel. Man kan skelne mellem den ydre skelbræmme, dvs. fra 0,0 - 2,5 meter fra skel, og den indre skelbræmme, dvs. fra 2,5 – 5,0 meter fra skel.
 
 Det er ikke tilladt at opføre bebyggelse i den ydre skelbræmme, dvs. inden for en afstand fra 0,0 - 2,5 meter fra skel.
 
@@ -196,7 +196,7 @@ Fradragsreglen er blevet ændret med bygningsreglementet 2018 (BR18), og grænse
 
 **Eksempel 1:**
 
-*På en 600 m^2^ stor grund er der opført et fritliggende enfamiliehus på 150 m^2^. Med en bebyggelsesprocent på 30 %, må etagearealet ikke overstige 600 m^2^ x 0,30 = 180 m^2^. Det samlede areal af den sekundære bebyggelse, der kan opføres uden byggetilladelse er 50 m^2^, hvis bebyggelsesprocenten, deklarationer og anden lovgivning er overholdt. I dette tilfælde vil der være 180 m^2^ -- 150 m^2^ = 30 m^2^ tilbage på grunden til at opføre sekundær bebyggelse inden for rammerne af bebyggelsesprocenten og anden lovgivning. Overstiger arealet af den sekundære bebyggelse 30 m^2^ vil bebyggelsesprocenten overskrides, og der vil være krav om byggetilladelse.*
+*På en 600 m^2^ stor grund er der opført et fritliggende enfamiliehus på 150 m^2^. Med en bebyggelsesprocent på 30 %, må etagearealet ikke overstige 600 m^2^ x 0,30 = 180 m^2^. Det samlede areal af den sekundære bebyggelse, der kan opføres uden byggetilladelse er 50 m^2^, hvis bebyggelsesprocenten, deklarationer og anden lovgivning er overholdt. I dette tilfælde vil der være 180 m^2^ – 150 m^2^ = 30 m^2^ tilbage på grunden til at opføre sekundær bebyggelse inden for rammerne af bebyggelsesprocenten og anden lovgivning. Overstiger arealet af den sekundære bebyggelse 30 m^2^ vil bebyggelsesprocenten overskrides, og der vil være krav om byggetilladelse.*
 
 *Fradragsretten giver dog mulighed for at fradrage 50,0 m^2^, når man skal udregne etagearealet, der har betydning for bebyggelsesprocenten.*
 

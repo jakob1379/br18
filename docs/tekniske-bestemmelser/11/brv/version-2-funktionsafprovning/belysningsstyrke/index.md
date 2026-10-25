@@ -56,15 +56,15 @@
 
 *Formål med funktionsafprøvning af belysningsstyrke*
 
-Det skal eftervises, at det elektriske belysningsanlæg opfylder bygningsreglementets krav for belysningsstyrke, jf. DS/EN 1*2464-1, Lys og Belysning - Belysning ved arbejdspladser -- Del 1: Indendørs arbejdspladser.*
+Det skal eftervises, at det elektriske belysningsanlæg opfylder bygningsreglementets krav for belysningsstyrke, jf. DS/EN 1*2464-1, Lys og Belysning - Belysning ved arbejdspladser – Del 1: Indendørs arbejdspladser.*
 
-De tekniske krav til belysningen skal kunne opfyldes i hele anlæggets levetid. Belysningsanlæg bør altid udføres i henhold til informationer i en lysberegning.  Det overordnede formål med en funktionsafprøvning af belysningsanlæg er at eftervise, at anlægget leverer det, beregningen angiver. Den skal således eftervise, at det elektriske belysningsanlæg opfylder bygningsreglementets krav jf. DS/EN 12464-1, *Lys og Belysning - Belysning ved arbejdspladser -- Del 1: Indendørs arbejdspladser.* Disse krav omfatter: • den vedligeholdte belysningsstyrke Ē~m~ på alle relevante flader (arbejdsplan, lofter, vægge, cylindrisk belysningsstyrke)
+De tekniske krav til belysningen skal kunne opfyldes i hele anlæggets levetid. Belysningsanlæg bør altid udføres i henhold til informationer i en lysberegning.  Det overordnede formål med en funktionsafprøvning af belysningsanlæg er at eftervise, at anlægget leverer det, beregningen angiver. Den skal således eftervise, at det elektriske belysningsanlæg opfylder bygningsreglementets krav jf. DS/EN 12464-1, *Lys og Belysning - Belysning ved arbejdspladser – Del 1: Indendørs arbejdspladser.* Disse krav omfatter: • den vedligeholdte belysningsstyrke Ē~m~ på alle relevante flader (arbejdsplan, lofter, vægge, cylindrisk belysningsstyrke)
 
 • belysningens regelmæssighed U0 (E~min~/Ē~m~)
 
 • farvegengivelsesindeks R~a~.
 
-Det kontrolleres, at det oplyste blændingstal for enkelte rum (UGR tabelmetoden) overholder krav til R~UGL~ (grænseværdi for R~UG~ -- Unified Glare Rating)
+Det kontrolleres, at det oplyste blændingstal for enkelte rum (UGR tabelmetoden) overholder krav til R~UGL~ (grænseværdi for R~UG~ – Unified Glare Rating)
 
       Forudsætninger for udførelse af funktionsafprøvning
 
@@ -82,7 +82,7 @@ Det kontrolleres, at det oplyste blændingstal for enkelte rum (UGR tabelmetoden
 
 Som målepunkter udvælges et grid, der dækker mindst 25% repræsentative arbejdspladser (dog mindst svarende til en arbejdsplads) og enkelte typiske målesteder i områder med normal færdsel, fx gange og trapper. Antallet af målepunkter i et grid kan bestemmes ved brug af DS/EN 12464-1. Hvis afprøvningen påviser fejl, øges omfanget af repræsentative arbejdspladser. Hvis flere/adskillige målinger afviger fra det forventede i forhold til lysberegningen, foreslås det, at der tages kontakt til bygherre for at afklare det videre forløb. Udfør målinger på et tilstrækkeligt antal målepunkter i alle rum, små som store, til at fastslå, at Ē~min~, Ē~mid~ og Ē~max~ er som forventet i forhold til lysberegningen. Hvis arbejdspladserne endnu ikke er indrettet inden funktionsafprøvningen må der antages arbejdspladszoner mm. Antagelserne skal beskrives i dokumentationen for funktionsafprøvningen. Måling af belysningsstyrken kan for eksempel foretages med et kalibreret luxmeter og udføres, jf. DS/EN 12464-1.   *Anvendelse af Vedligeholdelsesfaktor*
 
-Krav til belysningsstyrker i DS/EN 12464-1 angives som Ē~m~ -- vedligeholdte belysningsstyrker. Belysningsanlæg skal derfor kunne levere mere lys end de krav, der stilles i DS/EN 12464-1, når anlægget tages i brug. Det skyldes den såkaldte Vedligeholdelsesfaktor fm, jf. DS/EN 12464-1, kapitel 6.3. Hvis det målte kun netop opfylder gældende krav, kan dette skyldes at der er indreguleret, så anlægget er energioptimeret til ikke, at kunne levere mere lys end nødvendigt er på et hvilket som helst tidspunkt i anlæggets levetid. Er dette tilfældet, skal det kontrolleres, at anlægget kan levere lys der svarer til, at fm er sat = 1.
+Krav til belysningsstyrker i DS/EN 12464-1 angives som Ē~m~ – vedligeholdte belysningsstyrker. Belysningsanlæg skal derfor kunne levere mere lys end de krav, der stilles i DS/EN 12464-1, når anlægget tages i brug. Det skyldes den såkaldte Vedligeholdelsesfaktor fm, jf. DS/EN 12464-1, kapitel 6.3. Hvis det målte kun netop opfylder gældende krav, kan dette skyldes at der er indreguleret, så anlægget er energioptimeret til ikke, at kunne levere mere lys end nødvendigt er på et hvilket som helst tidspunkt i anlæggets levetid. Er dette tilfældet, skal det kontrolleres, at anlægget kan levere lys der svarer til, at fm er sat = 1.
 
 For rum uden automatisk dagslysstyring betyder det, at der skal måles en belysningsstyrke, der svarer til kravet plus det, som anlægget er beregnet til ved den for rummet anvendte vedligeholdsfaktor fm. Er denne fx 0,79 skal den målte belysningsstyrke være mindst 1,27 x kravet i DS/EN 12464-1.  For rum med automatisk dagslysstyring kontrolleres lysstyringens set-punkt og belysningsstyrken ved endt levetid beregnes ud fra denne. Kan der ikke indhentes oplysninger om dette set-punkt, justeres belysningsstyrken manuelt til det maksimale output, og målingen sammenholdes med den målte Ē for at afgøre, om vedligeholdelsesfaktoren er anvendt korrekt.  Hvis der ikke er møbleret, når der måles, så anbefales det at der fratrækkes 10% på de målte belysningsstyrker.
 

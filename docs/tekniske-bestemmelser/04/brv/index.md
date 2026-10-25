@@ -56,7 +56,7 @@ Normen gælder både for nye installationer og for ændringer og tilføjelser i 
 
 ### 1.2. Spildevand {#spildevand}
 
-Der henvises til rørcenter-anvisning 021 Kælderoversvømmelser -- Sikring mod opstigende kloakvand.
+Der henvises til rørcenter-anvisning 021 Kælderoversvømmelser – Sikring mod opstigende kloakvand.
 
 ### 1.3. Regnvand {#regnvand}
 

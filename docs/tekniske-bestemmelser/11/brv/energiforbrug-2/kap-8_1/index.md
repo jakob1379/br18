@@ -187,7 +187,7 @@ Kravet til U-værdi for lystunneler eller lignende gælder for gennembrydningen 
 
 ####
 
-Dansk standard: DS 418 -- Beregning af bygningers varmetab
+Dansk standard: DS 418 – Beregning af bygningers varmetab
 
 #### Anvendelsesområde
 
@@ -207,7 +207,7 @@ Beregningen af energikrav til vinduer, glasydervægge (Curtain Walls), ovenlysvi
 
 Energitilskuddet for vinduer beregnes som:
 
-Eref = I x g~w~ -- G x U~w~ = 196,4 x g~w~ -- 90,36 x U~w~
+Eref = I x g~w~ – G x U~w~ = 196,4 x g~w~ – 90,36 x U~w~
 
 hvor:
 
@@ -243,7 +243,7 @@ Beregningen af ovenlysvinduer foretages for et oplukkeligt referencevindue for e
 
 For ovenlysvinduer beregner vinduesproducenten energitilskuddet som:
 
-Eref = I x gw -- G x U = 345 x gw -- 90,36 x U
+Eref = I x gw – G x U = 345 x gw – 90,36 x U
 
 hvor:
 
@@ -263,7 +263,7 @@ For glasydervægge, jf. EN 13830 Curtain Walling, og glastage, beregnes energiba
 
 For glastage beregner producenten energitilskuddet som for ovenlysvinduer. Dog beregnes Eref fra profilsystemets centerlinjer i et fast og et oplukkeligt felt (hvis et sådant findes) i størrelsen 1,230 x 1,480 m.
 
-Ved beregning af U-værdi benyttes DS/EN 12631 Termisk ydeevne for curtainwalling -- Beregning af varmetransmissionskoefficient.
+Ved beregning af U-værdi benyttes DS/EN 12631 Termisk ydeevne for curtainwalling – Beregning af varmetransmissionskoefficient.
 
 -  [Gå til generelle mindstekrav til vinduer, glasydervægge, ovenlysvinduer og glastage (§ 258)](../../../krav/258#fd620db7-f2ed-41e9-8e42-3f4b75f234be){target="_blank"}
 
@@ -291,7 +291,7 @@ Bemærk, engelske udgaver af europæiske standarder kan købes hos [alle europ�
 
 ####
 
-DS/EN ISO 12631:2017 - Termisk ydeevne for curtainwalling -- Beregning af varmetransmissionskoefficient
+DS/EN ISO 12631:2017 - Termisk ydeevne for curtainwalling – Beregning af varmetransmissionskoefficient
 
 #### Beskrivelse
 
@@ -473,7 +473,7 @@ Etageantallet beregnes som forholdet mellem etagearealet og det bebyggede areal.
 
 ####
 
-Dansk standard: DS 418 -- Beregning af bygningers varmetab
+Dansk standard: DS 418 – Beregning af bygningers varmetab
 
 #### Anvendelsesområde
 
@@ -981,7 +981,7 @@ Overvågning og fejldetektering omfatter alarmgrænser på alle parametre, uanse
 
 Alle data fra regulerede eller styrede parametre, regulerings- og styringssignaler, driftsstatus og alarmer skal opsamles med højst 5 minutters opløsning og gemmes i mindst 60 uger. Rum- og udetemperaturer behøver dog kun at blive logget med højst 15 minutters opløsning.
 
-Desuden etableres mulighed for at driftspersonalet kan etablere samlede ad hoc logninger af parametre, signaler, driftsstatus og alarmer efter eget valg, med valgfri opløsning (5 sek. -- 6 timer) og for tidsperioder, de selv kan bestemme.
+Desuden etableres mulighed for at driftspersonalet kan etablere samlede ad hoc logninger af parametre, signaler, driftsstatus og alarmer efter eget valg, med valgfri opløsning (5 sek. – 6 timer) og for tidsperioder, de selv kan bestemme.
 
 Målerdata opsamles med interval på højest en time og gemmes mindst 10 år. Målerdata vises i diagrammer og i tabeller som timeværdier og summeret for døgn, uge, måned og år. Tabellerne udformes, så data kan trækkes over til videre anvendelse i andre it-systemer.
 

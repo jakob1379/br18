@@ -13,7 +13,7 @@
   - [Bilag 5 - Præ-accepterede løsninger - Undervisningslokaler](../undervisningslokaler)
   - [Bilag 6 - Præ-accepterede løsninger - Hoteller mv.](../hoteller)
   - [Bilag 7 - Præ-accepterede løsninger - Bygningsafsnit, hvor personer ikke kan bringe sig i sikkerhed ved egen hjælp](../bilag-7-bygningsafsnit-i-anv-6)
-  - [Bilag 8 -- Præ-accepterede løsninger - Jordbrugserhvervets avls- og driftsbygninger samt væksthuse til produktion](../bilag-8-praeaccepterede-loesninger-jordbrugserhvervets-avls-og-driftsbygninger-mv)
+  - [Bilag 8 – Præ-accepterede løsninger - Jordbrugserhvervets avls- og driftsbygninger samt væksthuse til produktion](../bilag-8-praeaccepterede-loesninger-jordbrugserhvervets-avls-og-driftsbygninger-mv)
   - [Bilag 9 - Præ-accepterede løsninger - Bygningsafsnit med garageanlæg](../bilag-9-garageanlaeg)
   - [Bilag 10 - Præ-accepterede løsninger - Industri- og lagerbygninger](../industri-og-lagerbygninger)
   - [Bilag 11 - Vejledning om udendørsarrangementer, salgsområder, midlertidige opstillinger, midlertidige overnatning og transportable konstruktioner](./)
@@ -21,12 +21,12 @@
   - [Bilag 13 - Udfærdigelse af planer i forhold til brand](../bilag-13-udfaerdigelse-af-planer-i-forhold-til-brand)
   - [Bilag 15 - Præ-accepterede løsninger for sekundær bebyggelse i tilknytning til andet end enfamiliehuse](../bilag-15-sekundaert-bebyggelse)
   - [Bilag 16 - Præ-accepterede løsninger for mindre bebyggelse i anvendelseskategori 1 og 4](../bilag-16-praeaccepterede-loesninger-for-mindre-bebyggelse-i-anvendelseskategori-1-og-4)
-- [Oversigt over Bygningsreglementets vejledninger til kapitel 5 -- Brand, inkl. udgivelsesdatoer](../../oversigt-over-brs-vejledninger-til-kapitel-5-brand-inkl-udgivelsesdatoer-mv)
+- [Oversigt over Bygningsreglementets vejledninger til kapitel 5 – Brand, inkl. udgivelsesdatoer](../../oversigt-over-brs-vejledninger-til-kapitel-5-brand-inkl-udgivelsesdatoer-mv)
 - [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../../temasiden-brandogkonstruktioner-dk)
 
 ## Bilag 11 - Vejledning om udendørsarrangementer, salgsområder, midlertidige opstillinger, midlertidige overnatning og transportable konstruktioner
 
-### Bilag 11 til Bygningsreglementets vejledning til kap. 5 -- Brand
+### Bilag 11 til Bygningsreglementets vejledning til kap. 5 – Brand
 
 ## Bilag 11
 

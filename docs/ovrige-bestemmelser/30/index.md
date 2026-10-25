@@ -72,9 +72,9 @@ Fastlæggelse af kontrolniveau for kontrol af dokumentation for bærende konstru
 
 *Stk. 4.* Kontrolniveauer skal være i overensstemmelse med principperne i vejledning til [kap. 30](/ovrige-bestemmelser/30/).
 
-*Stk. 5.* Fastlæggelse af kontrolniveau for udførelse af bærende konstruktioner skal ske i overensstemmelse med [bilag 3, tabel 2b](/bilag/b3/bilag_3/), principperne i SBi-anvisning 271, Dokumentation og kontrol af bærende konstruktioner samt DS 1140, Udførelse af bærende konstruktioner -- Almen kontrol.
+*Stk. 5.* Fastlæggelse af kontrolniveau for udførelse af bærende konstruktioner skal ske i overensstemmelse med [bilag 3, tabel 2b](/bilag/b3/bilag_3/), principperne i SBi-anvisning 271, Dokumentation og kontrol af bærende konstruktioner samt DS 1140, Udførelse af bærende konstruktioner – Almen kontrol.
 
-*Stk. 6.* Fastlæggelse af kontrolniveau for udførelse af bærende konstruktioner skal ske i overensstemmelse med [bilag 3, tabel 2b](/bilag/b3/bilag_3/), principperne i vejledning til [kap. 30](/ovrige-bestemmelser/30/) samt DS 1140, Udførelse af bærende konstruktioner -- Almen kontrol.
+*Stk. 6.* Fastlæggelse af kontrolniveau for udførelse af bærende konstruktioner skal ske i overensstemmelse med [bilag 3, tabel 2b](/bilag/b3/bilag_3/), principperne i vejledning til [kap. 30](/ovrige-bestemmelser/30/) samt DS 1140, Udførelse af bærende konstruktioner – Almen kontrol.
 
 *Stk. 7.* Stk. 4 og 6 træder i kraft den 1. april 2024. Samtidig ophæves stk. 3 og 5.
 

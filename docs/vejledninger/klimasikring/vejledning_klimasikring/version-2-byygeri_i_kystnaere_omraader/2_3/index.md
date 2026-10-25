@@ -137,7 +137,7 @@ Bestemmelserne i bygningsreglementet (BR18) støttes af en række vejledninger f
 
 #### 
 
-*SBi-anvisning 272, Bygningsreglementet 2018 -- BR18*
+*SBi-anvisning 272, Bygningsreglementet 2018 – BR18*
 
 BUILD, Aalborg Universitet udgiver en SBi-anvisning om bygningsreglementet, der rummer en række anvisninger på, hvordan kravene i reglementet kan imødekommes eller opfyldes, samt indeholder supplerende referencer til alment teknisk fælleseje m.m. (de Place Hansen, 2020).
 
@@ -145,15 +145,15 @@ BUILD, Aalborg Universitet udgiver en SBi-anvisning om bygningsreglementet, der 
 
 Ved fundering på en skråning eller opfyldning skal det eftervises, at der er den fornødne sikkerhed mod brud i jorden, se f.eks. SBi-anvisning 231, Fundering af mindre bygninger (Pedersen, 2011). Hvis man bygger på en skrånende grund, skal man også være opmærksom på, at gulvet i beboelsesrum og køkken ikke må ligge lavere end det naturlige terræn udenfor.
 
-*SBi-anvisning 277, Fugt i bygninger -- Teori, beregning og undersøgelse*
+*SBi-anvisning 277, Fugt i bygninger – Teori, beregning og undersøgelse*
 
 Anvisningen beskriver fugtteori og beregningsmetoder til vurdering af hvordan en given konstruktion kan påvirkes af fugt, og omtaler hvad der er kritiske fugtforhold for forskellige byggematerialer. Desuden gives forslag til, hvordan der kan gennemføres undersøgelse af bygninger med henblik på at afdække eventuelle fugtrelaterede skader eller risikobehæftede forhold. Der beskrives målemetoder til anvendelse ved fugtundersøgelser, samt systemer til fugtovervågning, hvor sensorer anbragt i bygninger kan fjernaflæses (Brandt, 2022a).
 
-*SBi-anvisning 278, Fugt i bygninger -- Projektering og udførelse*
+*SBi-anvisning 278, Fugt i bygninger – Projektering og udførelse*
 
 Anvisningen er udarbejdet som en hjælp til at håndtere fugt i projekterings- og byggefasen, så bygningsreglementets bestemmelser og intentioner vedrørende fugtindhold kan overholdes og dokumenteres. Den skal hjælpe bygherren til at vurdere, hvilke tiltag der er nødvendige for at undgå eller minimere skader som følge af uønsket fugt i bygningen, herunder behovet for at lade en fugtsagkyndig vurdere, om fugtforholdene er håndteret på fornuftigt vis under byggeriet (Brandt, 2022b). Anvisningen bygger på og er en opdatering af vejledning om håndtering af fugt i byggeriet (Møller, 2010), som blev udarbejdet som vejledning til BR10.
 
-*SBi-anvisning 279, Fugt i bygninger -- Bygningsdele*
+*SBi-anvisning 279, Fugt i bygninger – Bygningsdele*
 
 Generelt kan bygningen beskyttes mod fugtpåvirkning fra overfladevand ved at give terrænet fald væk fra bygningen de første 3 m. Beskyttelse mod fugtpåvirkning fra nedsivende overfladevand kan ske ved vandtætning af bygningens yderside kombineret med dræning. Langs kældervægge placeres et drænende lag, et såkaldt vægdræn, der opfanger overfladevand og fører det til omfangsdrænet. Foroven afsluttes med et mindst 0,2 m tykt tætnende lag, fx lermuld, så overfladevand ledes væk. Kun hvor grunden er med selvdrænende materiale, fx groft sand, kan omfangsdræn udelades (Brandt, 2022c). Dræning udføres i overensstemmelse med DS 436, Norm for dræning af bygværker (Dansk Standard, 1993).
 
@@ -169,7 +169,7 @@ Denne anvisning beskriver, hvordan tagvand og vand fra terrasser og lignende kan
 
 *Rørcenter-anvisning 026, LAR-anlæg. Vejledning i projektering, dimensionering, udførelse og drift*
 
-Formålet med denne anvisning er at danne et fælles teknisk grundlag for projektering, dimensionering, udførelse og drift af anlæg til Lokal Afledning af Regnvand -- LAR-anlæg. Anvisningen dækker både store og små anlæg og er et supplement til Rørcenter-anvisning 016, Anvisning for håndtering af regnvand på egen grund (TI Rørcentret, 2018).
+Formålet med denne anvisning er at danne et fælles teknisk grundlag for projektering, dimensionering, udførelse og drift af anlæg til Lokal Afledning af Regnvand – LAR-anlæg. Anvisningen dækker både store og små anlæg og er et supplement til Rørcenter-anvisning 016, Anvisning for håndtering af regnvand på egen grund (TI Rørcentret, 2018).
 
 *Rørcenter-anvisning 020, Skybrudssikring af bygninger*
 
@@ -179,7 +179,7 @@ Selv om denne anvisning retter sig mod oversvømmelse som følge af skybrud, vil
 
 Anvisningen retter sig specifikt mod sikring af kældre mod kloakvand, der stemmer op i hovedkloakkerne, og beskriver en systematik for gennemgang af de tiltag, der kan anvendes. Desuden anvises en række løsninger, der er relateret til de muligheder, som DS 432 beskriver til sikring mod oversvømmelse som følge af opstemning i hovedafløbssystemet. Ligeledes beskrives mulige løsninger til håndtering af regnvand (TI Rørcentret, 2013b).
 
-*Rørcenter-anvisning 011, Vacuumsystemer i bygninger -- vejledning i projektering, udførelse og drift*
+*Rørcenter-anvisning 011, Vacuumsystemer i bygninger – vejledning i projektering, udførelse og drift*
 
 Anvisningen beskriver afløbssystemer. Disse ledninger kan lægges med fald, så tyngdekraften leverer transportenergien. Ved afløb fra lavtliggende områder kan det være nødvendigt at bruge energi til at løfte vandet op til et højere niveau, enten ved tryksystemer eller vakuumsystemer. Anvisningen er en praktisk vejledning i projektering, udførelse og drift af vacuumsystemer, herunder fordele og ulemper ved vacuumsystemer frem for andre afløbsystemer (TI Rørcentret, 2006).
 
@@ -295,7 +295,7 @@ Med hensyn til byggeri i kystnære områder er især følgende bestemmelser i lo
 
 Konkret kan kommunen med en lokalplan således for eksempel reservere konkrete arealer til opmagasinering af vand, kræve større sokkelhøjder ved risiko for oversvømmelser, forbyde kældre ved risiko for oversvømmelser, udlægge arealer til diger, der kan beskytte mod stormflod m.m.
 
-Lokalplanlægning påvirker ikke eksisterende forhold. Der er derfor begrænsede muligheder for kommunen for at stille krav om klimatilpasning i eksisterende byområder -- det kan i praksis ske, hvis der f.eks. benyttes ekspropriation (Flensborg, 2015). Det kan også ske i et af kommuneplanen udpeget område, som kan blive udsat for oversvømmelse eller erosion, og hvor der planlægges for byudvikling, særlige tekniske anlæg, ændret arealanvendelse m.v. (planlovens § 11a, stk. 1, nr. 18). I disse områder skal der ved lokalplanlægning optages bestemmelser i lokalplanen om sikring af afværgeforanstaltninger. Der skal desuden optages bestemmelser i lokalplanen om, hvorvidt afværgeforanstaltninger skal etableres før ibrugtagning af det, som skal sikres mod oversvømmelse (planlovens § 15, stk. 10).
+Lokalplanlægning påvirker ikke eksisterende forhold. Der er derfor begrænsede muligheder for kommunen for at stille krav om klimatilpasning i eksisterende byområder – det kan i praksis ske, hvis der f.eks. benyttes ekspropriation (Flensborg, 2015). Det kan også ske i et af kommuneplanen udpeget område, som kan blive udsat for oversvømmelse eller erosion, og hvor der planlægges for byudvikling, særlige tekniske anlæg, ændret arealanvendelse m.v. (planlovens § 11a, stk. 1, nr. 18). I disse områder skal der ved lokalplanlægning optages bestemmelser i lokalplanen om sikring af afværgeforanstaltninger. Der skal desuden optages bestemmelser i lokalplanen om, hvorvidt afværgeforanstaltninger skal etableres før ibrugtagning af det, som skal sikres mod oversvømmelse (planlovens § 15, stk. 10).
 
 Når der er sket udpegning af områder i en kommuneplan eller i et kommuneplantillæg, skal der i nye lokalplaner eller ved ændring af eksisterende lokalplan optages bestemmelser om sikring af afværgeforanstaltninger, såfremt der planlægges for byudvikling, særlige tekniske anlæg, ændret arealanvendelse m.v., i et udpeget område.
 
@@ -458,15 +458,15 @@ IPCC's 6. hovedrapports fire dele:
 
 ### 4.0. Referencer {#8ad38069-4f20-4ca0-9df3-5c8e25b34d91}
 
-Brandt, E. (2022a). Fugt i bygninger -- Teori, beregning og undersøgelse (1. udg.) (SBi-anvisning 277). København: BUILD, Aalborg Universitet.
+Brandt, E. (2022a). Fugt i bygninger – Teori, beregning og undersøgelse (1. udg.) (SBi-anvisning 277). København: BUILD, Aalborg Universitet.
 
  
 
-Brandt, E. (2022b). Fugt i bygninger -- Projektering og udførelse (1. udg.) (SBi-anvisning 278). København: BUILD, Aalborg Universitet.
+Brandt, E. (2022b). Fugt i bygninger – Projektering og udførelse (1. udg.) (SBi-anvisning 278). København: BUILD, Aalborg Universitet.
 
  
 
-Brandt, E. (2022c). Fugt i bygninger -- Bygningsdele (1. udg.) (SBi-anvisning 279). København: BUILD, Aalborg Universitet.
+Brandt, E. (2022c). Fugt i bygninger – Bygningsdele (1. udg.) (SBi-anvisning 279). København: BUILD, Aalborg Universitet.
 
  
 
@@ -494,7 +494,7 @@ Europaparlamentet & Rådet. (2000). Direktiv om fastlæggelse af en ramme for F�
 
  
 
-Flensborg, J. (2015). Klimatilpasning i praksis -- juraen som medspiller. Lokaliseret 06.06.2023: [http://www.byplanlab.dk/sites/default/files2/Juraen_som_medspiller_Jens_Flensborg_2015.pdf](http://www.byplanlab.dk/sites/default/files2/Juraen_som_medspiller_Jens_Flensborg_2015.pdf){rel="noopener noreferrer" target="_blank"}
+Flensborg, J. (2015). Klimatilpasning i praksis – juraen som medspiller. Lokaliseret 06.06.2023: [http://www.byplanlab.dk/sites/default/files2/Juraen_som_medspiller_Jens_Flensborg_2015.pdf](http://www.byplanlab.dk/sites/default/files2/Juraen_som_medspiller_Jens_Flensborg_2015.pdf){rel="noopener noreferrer" target="_blank"}
 
  
 
@@ -568,7 +568,7 @@ Plan- og Landdistriktsstyrelsen. (2023). Planinfo. Lokaliseret 06.06.2023. [http
 
  
 
-TI Rørcentret. (2006). Rørcenter-anvisning 011, Vacuumsystemer i bygninger -- vejledning i projektering, udførelse og drift. Taastrup.
+TI Rørcentret. (2006). Rørcenter-anvisning 011, Vacuumsystemer i bygninger – vejledning i projektering, udførelse og drift. Taastrup.
 
  
 
@@ -604,7 +604,7 @@ BYG-ERFA blade indeholder indsamlet og bearbejdet byggeteknisk erfaring, herunde
 
 *Erfaringsblad (50) 22 12 19: Nedsivning af regnvand i faskiner*
 
-Faskiner til nedsivning af regnvand har været brugt i mange år, og som regel fungerer de uden problemer. Det sker dog, at de giver anledning til oversvømmelse på terræn og fugt i ydermure -- enten fordi de er for små, forkert opbyggede eller er dårligt vedligeholdt. Erfaringsbladet gennemgår opbygning og udførelse af faskiner, herunder afstandskrav og dimensioneringsregler samt anbefalinger til drift og vedligehold.
+Faskiner til nedsivning af regnvand har været brugt i mange år, og som regel fungerer de uden problemer. Det sker dog, at de giver anledning til oversvømmelse på terræn og fugt i ydermure – enten fordi de er for små, forkert opbyggede eller er dårligt vedligeholdt. Erfaringsbladet gennemgår opbygning og udførelse af faskiner, herunder afstandskrav og dimensioneringsregler samt anbefalinger til drift og vedligehold.
 
 *Erfaringsblad (19) 22 08 18: Niveaufri adgang og terrændæk*
 
@@ -614,11 +614,11 @@ Niveaufri adgang til bygninger skal udformes, så der ikke opstår vandindtræng
 
 Kraftige regnskyl og skybrud kan resultere i, at kloakkerne ikke kan følge med, og det medfører en sammenblanding af spildevand og regnvand, som vil stemme op i kloakken og løbe ind i kældre og lavtliggende bygninger. Skaderne er ofte store, netop fordi oversvømmelsen består af blandet spilde- og regnvand. Erfaringsbladet beskriver de foranstaltninger, der kan gennemføres for at undgå kælderoversvømmelse.
 
-*Erfaringsblad (50) 19 12 13: Omfangsdræn -- ved enfamiliehuse og småhuse*
+*Erfaringsblad (50) 19 12 13: Omfangsdræn – ved enfamiliehuse og småhuse*
 
-Fugtskader i vægge og kældre ses ofte i bygninger uden omfangsdræn med forkert projekterede eller dårligt udførte dræn -- eller gode dræn, der ikke fungerer på grund af manglende vedligehold. I erfaringsbladet gennemgås retningslinjer for dræning ved enfamiliehuse og andre mindre bygninger samt udførelse og vedligehold af drænsystemet.
+Fugtskader i vægge og kældre ses ofte i bygninger uden omfangsdræn med forkert projekterede eller dårligt udførte dræn – eller gode dræn, der ikke fungerer på grund af manglende vedligehold. I erfaringsbladet gennemgås retningslinjer for dræning ved enfamiliehuse og andre mindre bygninger samt udførelse og vedligehold af drænsystemet.
 
-*Erfaringsblad (21) 16 09 02: Fugtspærrer -- udførelsesdetaljer ved nybyggeri*
+*Erfaringsblad (21) 16 09 02: Fugtspærrer – udførelsesdetaljer ved nybyggeri*
 
 Dette blad beskriver udførelse af bygningsdetaljer ved en bygnings fundament for at modvirke fugtopstigning i vægge. Manglende fugtspærre kan øge konsekvenserne af store vandbelastninger, f.eks. ved at jorden omkring bygningen ikke kan håndtere de store vandmængder, som så trækker ind i huset. Det fugtspærrende materialelag skal udføres, så fugten ikke kan opsuges og trækkes forbi laget. Det påpeges, at alle gennembrydninger af fugtspærren skal udføres fugt-, luft- og radontæt.
 
@@ -628,11 +628,11 @@ Ved isolering af kælderydervægge og -gulve opnås ikke altid det ønskede resu
 
 *Erfaringsblad (99) 14 12 31: Skybrud og sikring af bygninger*
 
-Stadigt flere skybrud øger risiko for oversvømmelser af regn- og spildevand i særligt udsatte områder -- og dermed indtrængning af vand i bygninger. Skaderne kan begrænses gennem målrettede foranstaltninger -- fx ændring af bygninger og terræn samt effektivt beredskab -- som sikrer bygninger mod fugtskader. Ud over kommunale aktiviteter med klimatilpasningsplaner og renoveringer af fælles afløbsanlæg kan den enkelte bygningsejer også bidrage til at sikre bygningen mod indtrængende vand fra terræn og afløb. I erfaringsbladet beskrives nogle enkle foranstaltninger, som kan reducere risiko for vandskader i bygningen -- herunder skader som følge af overbelastede nedløbsrør og regnvandsafløb.
+Stadigt flere skybrud øger risiko for oversvømmelser af regn- og spildevand i særligt udsatte områder – og dermed indtrængning af vand i bygninger. Skaderne kan begrænses gennem målrettede foranstaltninger – fx ændring af bygninger og terræn samt effektivt beredskab – som sikrer bygninger mod fugtskader. Ud over kommunale aktiviteter med klimatilpasningsplaner og renoveringer af fælles afløbsanlæg kan den enkelte bygningsejer også bidrage til at sikre bygningen mod indtrængende vand fra terræn og afløb. I erfaringsbladet beskrives nogle enkle foranstaltninger, som kan reducere risiko for vandskader i bygningen – herunder skader som følge af overbelastede nedløbsrør og regnvandsafløb.
 
-*Erfaringsblad (50) 14 12 30: Lokal afledning af regnvand -- på græsarealer, i regnbede og faskiner*
+*Erfaringsblad (50) 14 12 30: Lokal afledning af regnvand – på græsarealer, i regnbede og faskiner*
 
-De senere års hyppige, kraftige regnbyger har i nogle områder medført oversvømmelser i såvel kældre som på terrænet omkring bygninger. I mange kommuner undersøges muligheder for at aflaste kloaksystemerne ved, at de enkelte grundejere håndterer afledning af regnvand på egen grund. I erfaringsbladet beskrives, hvordan tagvand og regnvand fra terrasser og andre befæstede arealer kan nedsives ved udledning på græsplæne, i regnbede og faskiner -- i daglig tale lokal afledning af regnvand (LAR). Desuden gennemgås forudsætninger for nedsivning og nødvendige forundersøgelser før realisering -- herunder dimensionering og udformning af anlæg til nedsivning af regnvand. Anlægstyperne kan anvendes ved både parcelhuse og større bebyggelser.
+De senere års hyppige, kraftige regnbyger har i nogle områder medført oversvømmelser i såvel kældre som på terrænet omkring bygninger. I mange kommuner undersøges muligheder for at aflaste kloaksystemerne ved, at de enkelte grundejere håndterer afledning af regnvand på egen grund. I erfaringsbladet beskrives, hvordan tagvand og regnvand fra terrasser og andre befæstede arealer kan nedsives ved udledning på græsplæne, i regnbede og faskiner – i daglig tale lokal afledning af regnvand (LAR). Desuden gennemgås forudsætninger for nedsivning og nødvendige forundersøgelser før realisering – herunder dimensionering og udformning af anlæg til nedsivning af regnvand. Anlægstyperne kan anvendes ved både parcelhuse og større bebyggelser.
 
 *Erfaringsblad (99) 12 07 23: Udtørring efter vandskade*
 

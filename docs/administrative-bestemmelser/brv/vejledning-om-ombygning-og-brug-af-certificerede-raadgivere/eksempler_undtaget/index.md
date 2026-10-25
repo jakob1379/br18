@@ -104,7 +104,7 @@ Kommunalbestyrelsen kan i tvivlstilfælde forlange supplerende dokumentation til
 
 Det er ligeledes op til ansøgeren at orientere kommunalbestyrelsen, hvis der sker ændringer i byggearbejdet undervejs, der giver anledning til ændrede vilkår i byggetilladelsen, eller at der skal træffes en helt ny afgørelse i sagen.
 
-Kommunalbestyrelsen er bygningsmyndighed, og skal derfor -- inden der meddeles byggetilladelse -- vurdere om dokumentationen er i overensstemmelse med de af bygningsreglementets krav, der er relevante for byggesagen, jf. BR18 § 36.
+Kommunalbestyrelsen er bygningsmyndighed, og skal derfor – inden der meddeles byggetilladelse – vurdere om dokumentationen er i overensstemmelse med de af bygningsreglementets krav, der er relevante for byggesagen, jf. BR18 § 36.
 
 ### 4 Kommunalbestyrelsens ansvar ved indplacering i brand- og konstruktionsklasse {#2cd2304c-7bf1-426e-9271-aa9a1e85d323}
 

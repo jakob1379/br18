@@ -34,7 +34,7 @@ Det påhviler den anerkendte statiker alene at virke inden for de af anerkendels
 
 ### § 556 {#paragraf-556}
 
-Anerkendelsesorganet er Ingeniørforeningen i Danmarks hovedbestyrelse, som etablerer en anerkendelsesordning og tilser, at denne er i overensstemmelse med DS/EN ISO/IEC 17024 Overensstemmelsesvurdering -- Generelle krav til organer, der udfører certificering af personer.
+Anerkendelsesorganet er Ingeniørforeningen i Danmarks hovedbestyrelse, som etablerer en anerkendelsesordning og tilser, at denne er i overensstemmelse med DS/EN ISO/IEC 17024 Overensstemmelsesvurdering – Generelle krav til organer, der udfører certificering af personer.
 
 *Stk. 2.* Til at varetage anerkendelsesordningens opgaver nedsætter anerkendelsesorganet et udvalg på 9 medlemmer således:
 

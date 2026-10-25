@@ -32,7 +32,7 @@ Adgangsvejen til boligen er overgangen mellem det offentlige rum og den private 
 
 Overgangszonen kan desuden tænkes som et fællesområde, der kan udformes, så det lægger op til uformelt samvær og spontant møde mellem de beboere, der deler ejendom eller bor i bebyggelsen. Overgangszonen kan tillige udformes, så den modvirker, at vind, træk og kulde kommer ind i boligen, ligesom den kan skærme for generende indblik.
 
-Se SBi-anvisning 272, Anvisning om Bygningsreglementet 2018 -- 2. Adgangsforhold, Fælles adgangsveje i bygningen (de Place Hansen, 2018).
+Se SBi-anvisning 272, Anvisning om Bygningsreglementet 2018 – 2. Adgangsforhold, Fælles adgangsveje i bygningen (de Place Hansen, 2018).
 
 ###
 

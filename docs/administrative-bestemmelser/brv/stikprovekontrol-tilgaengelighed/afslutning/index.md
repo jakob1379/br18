@@ -32,7 +32,7 @@
 
 [1.1](../fase-et/)
 
-### Stikprøvekontrol -- 1. fase: Tilstrækkelig dokumentation
+### Stikprøvekontrol – 1. fase: Tilstrækkelig dokumentation
 
 [1.2](../fase-to/)
 
@@ -40,7 +40,7 @@
 
 [1.3](../fase-tre/)
 
-### Stikprøvekontrol -- 3. fase: Vurdering af mangel
+### Stikprøvekontrol – 3. fase: Vurdering af mangel
 
 [1.4](./)
 

@@ -50,7 +50,7 @@ Relevante standarder i forbindelse med funktionsafprøvning af varme- og kølean
 
 >
 
-> • DS 447, *Ventilation i bygninger -- Mekaniske, naturlige og hybride ventilationssystemer.*
+> • DS 447, *Ventilation i bygninger – Mekaniske, naturlige og hybride ventilationssystemer.*
 
 >
 

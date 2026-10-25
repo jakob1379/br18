@@ -86,7 +86,7 @@ Relevante standarder og anvisninger i forbindelse med funktionsafprøvning af so
 
 #### DS/IEC TS 61724-3
 
-Fotovoltaiske systemers ydeevne -- Del 3: Energievalueringsmetode
+Fotovoltaiske systemers ydeevne – Del 3: Energievalueringsmetode
 
 #### Beskrivelse
 

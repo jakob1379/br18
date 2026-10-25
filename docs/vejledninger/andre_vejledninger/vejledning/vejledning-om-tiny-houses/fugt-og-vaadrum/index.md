@@ -160,7 +160,7 @@ Bygningsreglementet stiller et generelt krav om at alle bygninger skal have en p
 
 **Efterlevelse af krav**
 
-Disse grundlæggende krav skal Tiny Houses også opfylde og der kan derfor normalt ikke dispenseres fra kravet om vandforsyning -- enten via vandværk eller privat vandboring.
+Disse grundlæggende krav skal Tiny Houses også opfylde og der kan derfor normalt ikke dispenseres fra kravet om vandforsyning – enten via vandværk eller privat vandboring.
 
 Vil man i et Tiny House gerne udnytte regnvand til toiletskyl og evt. vaskemaskiner kan dette gøres ved at følge DS 439, der igen henviser til Rørcenter-anvisning 003. *Brug af regnvand til wc-skyl og vaskemaskiner i boliger, 4. udgave, september 2012.*
 

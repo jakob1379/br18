@@ -56,7 +56,7 @@ I stikprøvekontrollen skal kommunerne bl.a. vurdere, om de udtrukne byggesager 
 
 [1.1](../fase-et/)
 
-### Stikprøvekontrol -- 1. fase: Tilstrækkelig dokumentation
+### Stikprøvekontrol – 1. fase: Tilstrækkelig dokumentation
 
 [1.2](../fase-to/)
 
@@ -64,7 +64,7 @@ I stikprøvekontrollen skal kommunerne bl.a. vurdere, om de udtrukne byggesager 
 
 [1.3](../fase-tre/)
 
-### Stikprøvekontrol -- 3. fase: Vurdering af mangel
+### Stikprøvekontrol – 3. fase: Vurdering af mangel
 
 [1.4](../afslutning/)
 

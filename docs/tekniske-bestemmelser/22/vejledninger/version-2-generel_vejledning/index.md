@@ -24,7 +24,7 @@ Bestemmelserne om ventilation varetager alene de normale ventilationsbehov. I fx
 
 Det er ikke nødvendigt at ventilationen er fuldstændig konstant. I de fleste tilfælde vil det ikke gøre en forskel for indeklimaet om der ventileres med en konstant luftmængde eller om man over en lidt længere periode i gennemsnit har den krævede luftmængde. For de dimensionerende forhold bør den gennemsnitlige ventilation over en time for kontorer og en lektion for undervisningslokaler kunne overholde den krævede luftmængde. Bygningsreglementets øvrige krav til indeklima skal derudover overholdes. I alle tilfælde sikres det, at bygningen er ventileret i henhold til den brug, den har.
 
-Der henvises til DS/EN ISO 7730 Ergonomi inden for termisk miljø -- Analytisk bestemmelse og fortolkning af termisk komfort ved beregning af PMV- og PPD-indekser og lokale termiske komfortkriterier og At-vejledning A. 1.2 Indeklima. For ventilation af rum med ildsteder henvises til §§301-303 samt til Gassikkerhedsloven.
+Der henvises til DS/EN ISO 7730 Ergonomi inden for termisk miljø – Analytisk bestemmelse og fortolkning af termisk komfort ved beregning af PMV- og PPD-indekser og lokale termiske komfortkriterier og At-vejledning A. 1.2 Indeklima. For ventilation af rum med ildsteder henvises til §§301-303 samt til Gassikkerhedsloven.
 
 Rengøringsstandarden i et rum har stor betydning for luftkvaliteten. Der henvises til bekendtgørelse om faste arbejdssteders indretning.
 
@@ -112,9 +112,9 @@ Ved ombygning og renoveringsarbejder kan der ske lempelser af bestemmelserne i [
 
 ### 1.2. Luftindtag og -afkast {#a4dae939-46b9-4e31-9e35-bcbf2321b11f}
 
-Der er en række forhold, der skal tages i betragtning ved udformning af luftindtag og -- afkast til ventilation. Det bør eksempelvis tilstræbes, at minimere risikoen for uønsket forurening, luftgener eller væsentlig reduktion af ventilationssystemets effektivitet som følge af overførsel af luft fra afkast til indtag. Desuden er det vigtigt at udeluften er så ren, som det er muligt.
+Der er en række forhold, der skal tages i betragtning ved udformning af luftindtag og – afkast til ventilation. Det bør eksempelvis tilstræbes, at minimere risikoen for uønsket forurening, luftgener eller væsentlig reduktion af ventilationssystemets effektivitet som følge af overførsel af luft fra afkast til indtag. Desuden er det vigtigt at udeluften er så ren, som det er muligt.
 
-Herudover bør blandt andet følgende forhold tages i betragtning ved udformning af luftindtag og --afkast
+Herudover bør blandt andet følgende forhold tages i betragtning ved udformning af luftindtag og –afkast
 
 \- Bygningen og nabobygningernes indbyrdes placering og afstandsforhold
 
@@ -126,7 +126,7 @@ Herudover bør blandt andet følgende forhold tages i betragtning ved udformning
 
 \- Lokale temperaturforhold, for eksempel opvarmning af sorte tage på solskinsdage
 
-Der henvises til DS 447, der indeholder nærmere præcisering af placering af luftindtag og --afkast.
+Der henvises til DS 447, der indeholder nærmere præcisering af placering af luftindtag og –afkast.
 
 [![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
 
@@ -215,7 +215,7 @@ Grundluftskiftet for ventilationsanlæg til etageboliger vil normalt være luftm
 
 Ventilationsanlæg, der kun betjener en enkelt bolig, har et skærpet krav til specifikt elforbrug til lufttransport. Dette gælder også for anlæg der betjener en enkelt boligenhed i en etagebolig. Hvis decentrale ventilationsanlæg i etageboliger er koblet sammen, for eksempel gennem et fælles aftræk er det kravet til specifikt elforbrug til lufttransport for etageboliger, der skal overholdes.
 
-Det specifikke elforbrug til lufttransport opgøres som angivet i DS 447 Ventilation i bygninger -- Mekaniske, naturlige og hybride ventilationssystemer. Opmærksomheden henledes på, at tryktabet til brandtekniske komponenter som fx brandspjæld ligeledes medregnes ved beregning af elforbruget.
+Det specifikke elforbrug til lufttransport opgøres som angivet i DS 447 Ventilation i bygninger – Mekaniske, naturlige og hybride ventilationssystemer. Opmærksomheden henledes på, at tryktabet til brandtekniske komponenter som fx brandspjæld ligeledes medregnes ved beregning af elforbruget.
 
 For udsugningsanlæg uden mekanisk udelufttilførsel medregnes ligeledes tryktabet på tilluftsiden i anlæggets samlede tryktab (eksempelvis via udeluftsventiler og vinduer).
 
