@@ -66,6 +66,8 @@ CHAPTER_SECTIONS = {
 }
 TYPOGRAPHY = str.maketrans({"\u201c": '"', "\u201d": '"', "\u201e": '"', "\u00ab": '"', "\u00bb": '"', "\u2018": "'", "\u2019": "'", "\u2013": "-", "\u2014": "-", "\u00ad": None, "\u200b": None})
 LIST_MARKER = re.compile(r"^\(?(\d{1,3}|[a-zæøå]|[ivxl]{1,5})[.)]$", re.IGNORECASE)
+# Differing runs without a word still matter when they carry markdown/markup characters (`* *`, `**`, `\*`).
+SIGNIFICANT = re.compile(r"[\w*_`\\#@\[\]{}<>|~^]")
 
 
 class ContentParser(HTMLParser):
@@ -152,7 +154,7 @@ def text_diff(origin: list[str], local: list[str]) -> tuple[list[str], list[str]
             missing.append(" ".join(origin[i1:i2]))
         if op in {"insert", "replace"}:
             extra.append(" ".join(local[j1:j2]))
-    return [r for r in missing if re.search(r"\w", r)], [r for r in extra if re.search(r"\w", r)]
+    return [r for r in missing if SIGNIFICANT.search(r)], [r for r in extra if SIGNIFICANT.search(r)]
 
 
 def normalize_url(url: str) -> str | None:
@@ -422,7 +424,11 @@ def compare(url: str, origin_html: str, docs_root: Path, site_dir: Path, root_ur
         local_pages |= pages_
         local_files |= files_
         local_images |= _local_refs(view.images, base)[1]
-    missing_text, extra_text = text_diff(words("".join(origin.text)), words("".join(views[0][0].text)))
+    origin_words = words("".join(origin.text))
+    missing_text, extra_text = text_diff(origin_words, words("".join(views[0][0].text)))
+    if root_url and built.exists():
+        # A subpage keeps only its own section of the guide, so only its text that the reference lacks counts.
+        extra_text += [f"(own page) {t}" for t in text_diff(origin_words, words("".join(views[-1][0].text)))[1]]
     origin_pages, origin_files = _origin_refs(origin.links, url, docs_root)
     origin_images = _origin_refs(origin.images, url, docs_root)[1]
     diffs = [("missing_text", t) for t in missing_text] + [("extra_text", t) for t in extra_text]
