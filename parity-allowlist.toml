@@ -37,3 +37,51 @@ page = "/straf-og-ikrafttraedelse/36/brv/bygningers-klimapaavirkning/"
 kind = "missing_link"
 item = "docs/administrative-bestemmelser/brv/vejledning-om-lovliggorelse/bygningers-klimapåvirkning/index.md"
 reason = "Origin defect: 'Se om klimakravet her' links .../vejledning-om-lovliggorelse/bygningers-klimapåvirkning (with å), which the origin answers with 404 (cached). The clone links the existing page .../bygningers-klimapaavirkning/ with the same link text. Covers the alias page .../bygningers-klimapaavirkning/vejledning/ too."
+
+[[exception]]
+page = "/"
+kind = "missing_text"
+item = "1Administrative"
+reason = "Origin markup artifact: the front page's first tile puts its square icon '1' and its label in adjacent spans with no whitespace (<span class=\"link-square__icon\">1</span><span class=\"link-square__label\">Administrative ...), so the text run reads '1Administrative' although the page shows a '1' square next to the label. Every other tile has whitespace between icon and label. The clone writes '1 Administrative bestemmelser (§ 1 - § 47)'."
+
+[[exception]]
+page = "/"
+kind = "extra_text"
+item = "BR18 1 Administrative"
+reason = "Pairs with the '1Administrative' entry: the origin's page H1 'BR18' is visually hidden (<h1 class=\"visuallyhidden\">BR18</h1>, skipped by the audit), the clone shows it as the page H1 (without an H1 the theme falls back to the nav title 'Hjem'). The rest of the run is the '1 Administrative' tile label."
+
+[[exception]]
+page = "/bilag/b2/bilag_2/tabel_10/"
+kind = "extra_text"
+item = "Index"
+reason = "Origin defect: the origin page is blank (empty <main>, title 'BR18'; re-checked live 2026-10-25) although other pages link to it. The clone's page is empty too; 'Index' is only the theme's fallback H1 for a page without a title."
+
+[[exception]]
+page = "/bilag/b2/bilag_2/tabel_11/"
+kind = "extra_text"
+item = "Index"
+reason = "Origin defect: the origin page is blank (empty <main>, title 'BR18'; re-checked live 2026-10-25) although other pages link to it. The clone's page is empty too; 'Index' is only the theme's fallback H1 for a page without a title."
+
+[[exception]]
+page = "/bilag/b2/bilag_2/tabel_12/"
+kind = "extra_text"
+item = "Index"
+reason = "Origin defect: the origin page is blank (empty <main>, title 'BR18'; re-checked live 2026-10-25) although other pages link to it. The clone's page is empty too; 'Index' is only the theme's fallback H1 for a page without a title."
+
+[[exception]]
+page = "/bilag/b2/bilag_2/tabel_13/"
+kind = "extra_text"
+item = "Index"
+reason = "Origin defect: the origin page is blank (empty <main>, title 'BR18'; re-checked live 2026-10-25) although other pages link to it. The clone's page is empty too; 'Index' is only the theme's fallback H1 for a page without a title."
+
+[[exception]]
+page = "/vejledninger/bygningsreglementets-vejledninger/oversigt_br_vejledninger/"
+kind = "missing_link"
+item = "docs/tekniske-bestemmelser/02/vejledninger/parkering/index.md"
+reason = "Origin defect: under Kap. 2 'Vejledning til kommunerne om krav til parkering i forbindelse med byggeri' links /Tekniske-bestemmelser/02/Vejledninger/Parkering, which the origin answers with 404 (cached). The clone links the existing guide with that title, /tekniske-bestemmelser/20/vejledninger/parkering/ (the origin's Kap. 20 entry links the same guide). Covers the 36 kap_N alias pages."
+
+[[exception]]
+page = "/vejledninger/andre_vejledninger/vejledning/vejledning-om-tiny-houses/"
+kind = "missing_link"
+item = "docs/tekniske-bestemmelser/05/vejledninger/generel_brand/enfamiliehuse/bilag-1a---præ-accepterede-løsninger-for-fritliggende-og-sammenbyggede-enfamiliehuse/index.md"
+reason = "Origin defect: 'Bilag 1a – Præ-accepterede løsninger – Fritliggende og sammenbyggede enfamiliehuse' links .../enfamiliehuse/Bilag-1a---Præ-accepterede-løsninger-for-fritliggende-og-sammenbyggede-enfamiliehuse, which the origin answers with 404 (cached). The clone links the existing page .../enfamiliehuse/bilag-1a-prae-accepterede-loesninger-for-fritliggende-og-sammenbyggede-enfamiliehuse/ with the same link text. Covers the 11 alias subpages."
