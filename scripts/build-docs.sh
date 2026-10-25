@@ -6,6 +6,12 @@ site_dir="${SITE_DIR:-site}"
 
 cd "$repo_root"
 
+query_files="$(find docs -name '*\?*')"
+if [[ -n "$query_files" ]]; then
+  printf 'corpus filenames contain URL query strings:\n%s\n' "$query_files" >&2
+  exit 1
+fi
+
 uv run zensical build --strict
 
 root_dir="$(cd "$site_dir" && pwd)"
