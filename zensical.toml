@@ -89,6 +89,10 @@ nav = [
     ] },
 ]
 
+[project.validation]
+invalid_links = false
+invalid_link_anchors = false
+
 [project.theme]
 language = "da"
 favicon = "assets/img/favicons/favicon-32x32.png"

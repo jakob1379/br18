@@ -1,5 +1,5 @@
 ---
-title: Bilag 4: Fravigelser af de præ-accepterede løsninger i brandklasse 2, jf. § 493, stk. 1, nr. 2
+title: "Bilag 4: Fravigelser af de præ-accepterede løsninger i brandklasse 2, jf. § 493, stk. 1, nr. 2"
 ---
 
 # Bilag 4: Fravigelser af de præ-accepterede løsninger i brandklasse 2, jf. § 493, stk. 1, nr. 2
