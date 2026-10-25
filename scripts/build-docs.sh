@@ -10,7 +10,13 @@ uv run zensical build --strict
 
 root_dir="$(cd "$site_dir" && pwd)"
 
+network_flag=(--offline)
+if [[ "${CHECK_EXTERNAL_LINKS:-}" == 1 ]]; then
+  network_flag=()
+fi
+
 lychee \
+  "${network_flag[@]}" \
   --include-fragments \
   --root-dir "$root_dir" \
   --index-files index.html \
