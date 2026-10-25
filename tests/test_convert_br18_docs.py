@@ -67,6 +67,18 @@ class ConvertTest(unittest.TestCase):
         self.assertIn("[PDF](../media/abc/fil.pdf)", markdown)
         self.assertIn("[Afsnit](#afsnit)", markdown)
 
+    def test_historisk_links_stay_on_the_origin(self) -> None:
+        markdown = self.convert(
+            '<p><a href="/historisk/br18_version7/tekniske-bestemmelser/11/krav/267_270#9a9a97b3">Gammel</a>'
+            ' <a href="http://bygningsreglementet.dk/Historisk/BR18_Version2/">Version 2</a></p>'
+        )
+
+        self.assertIn(
+            "[Gammel](https://www.bygningsreglementet.dk/historisk/br18_version7/tekniske-bestemmelser/11/krav/267_270#9a9a97b3)",
+            markdown,
+        )
+        self.assertIn("[Version 2](https://www.bygningsreglementet.dk/Historisk/BR18_Version2/)", markdown)
+
     def test_page_ends_with_a_single_newline(self) -> None:
         markdown = self.convert("<p>Tekst</p><p><a href='/x'></a></p>")
 

@@ -144,6 +144,10 @@ def rel_path_for_url(url: str, source_dir: Path, docs_root: Path) -> str | None:
     if parsed.netloc and parsed.netloc not in SITE_HOSTS:
         return None
 
+    if parsed.path.lower().startswith("/historisk/"):
+        # Historisk content is out of scope, so it stays on the origin.
+        return urlunsplit(("https", "www.bygningsreglementet.dk", parsed.path, parsed.query, ""))
+
     path = canonicalize_asset_path(parsed.path or ("/" if parsed.netloc else ""), source_dir, docs_root)
     if not path:
         return "" if parsed.fragment else None
