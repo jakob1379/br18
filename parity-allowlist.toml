@@ -1,0 +1,9 @@
+# Reviewed exceptions for scripts/audit_br18_parity.py. Every entry needs a reason.
+# page: origin path; kind: missing_page | missing_text | extra_text | missing_link | missing_image | missing_file
+# item: exact item text from the report (omit to cover every item of that kind on the page)
+#
+# [[exception]]
+# page = "/tekniske-bestemmelser/02/krav/"
+# kind = "extra_text"
+# item = "§ 48"
+# reason = "Why this difference is intentional."
