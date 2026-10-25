@@ -68,16 +68,16 @@ Ved beregning af belysningsstyrker i beregningsnettets knudepunkter kan der norm
 
 Tabel 1. Standardværdier for overfladereflektanser ved beregning af belysningsstyrker.
 
-  ------------------------------------------------- -------------------
-  **Overflade**                                     **Lysreflektans**
-  Lofter                                            0,70
-  Indvendige vægflader                              0,50
-  Gulvflader                                        0,20
-  Glasflader                                        0,15
-  Vinduesramme/-karm                                0,70
-  Udvendige naturomgivelser, terræn, træer, m.v.    0,10
-  Omkringliggende bygninger                         0,20
-  ------------------------------------------------- -------------------
+|                                                 |                   |
+|:------------------------------------------------|:------------------|
+| **Overflade**                                   | **Lysreflektans** |
+| Lofter                                          | 0,70              |
+| Indvendige vægflader                            | 0,50              |
+| Gulvflader                                      | 0,20              |
+| Glasflader                                      | 0,15              |
+| Vinduesramme/-karm                              | 0,70              |
+| Udvendige naturomgivelser, terræn, træer, m.v.  | 0,10              |
+| Omkringliggende bygninger                       | 0,20              |
 
 **
 
@@ -85,13 +85,13 @@ Forhold til lokalplaner**
 
 *I specielle tilfælde kan det være svært at overholde dagslyskravet i alle rum, for eksempel som følge af lokalplaner der pålægger en bestemt bebyggelsesgrad eller bygningsgeometri. I sådanne tilfælde må der indledes en dialog med den lokale bygningsmyndighed om en evt. dispensation for disse rum. Selvom der gives dispensation skal dagslysforholdene altid optimeres således, at dagslyset udnyttes bedst muligt i det enkelte rum. I disse tilfælde hvor enkelte rum har mindre dagslys end de niveauer som bygningsreglementet foreskriver, bør det tilstræbes, at de angivne niveauer i stedet er overholdt for bolig- eller erhvervsenheden som helhed. Det henstilles i øvrigt til, at der ved planlægning af byggeri og fastlæggelse af lokalplaner tages hensyn til, at bygningsreglementets krav til dagslysforhold i bygningerne kan overholdes.*
 
-  -------------------
-  **Lysreflektans**
-  -------------------
+|                   |
+|:------------------|
+| **Lysreflektans** |
 
-  -------------------
-  **Lysreflektans**
-  -------------------
+|                   |
+|:------------------|
+| **Lysreflektans** |
 
 ### Elektrisk belysning (§ 382-383) {#441019b0-05db-477e-8da9-2383c2179a5f}
 

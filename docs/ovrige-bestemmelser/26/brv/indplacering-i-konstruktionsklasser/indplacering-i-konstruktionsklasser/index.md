@@ -28,21 +28,46 @@
 
 Overordnet kan inddelingen i konstruktionsklasse 1-4 (KK14) ifølge BR18, § 489 ske som angivet i nedenstående tabel 1.
 
-+------------------------------------------------+-----------------+-----------------+-----------------+-----------------+
-|                                                | ** Konsekvensklasse (CC)**                                            |
-|                                                |                                                                       |
-| **\**                                          |                                                                       |
-|                                                |                                                                       |
-| ** **                                          |                                                                       |
-|                                                +-----------------+-----------------+-----------------+-----------------+
-|                                                | **Lav**         | **Middel**      | **Høj**         | **Ekstra høj**  |
-|                                                |                 |                 |                 |                 |
-|                                                | **(CC1)**       | **(CC2)**       | **(CC3)**       | **(CC3+)**      |
-+------------------------------------------------+-----------------+-----------------+-----------------+-----------------+
-| **Simpel *og* traditionel konstruktion**       | KK1             | KK2\*           | KK3             | KK4             |
-+------------------------------------------------+-----------------+-----------------+-----------------+-----------------+
-| **Kompleks *eller* utraditionel konstruktion** | KK1             | KK3\*           | KK3             | KK4             |
-+------------------------------------------------+-----------------+-----------------+-----------------+-----------------+
+<table style="width:98%;">
+<colgroup>
+<col style="width: 39%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 14%" />
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2"><p>****</p>
+<p><strong> </strong></p></td>
+<td colspan="4"><strong> Konsekvensklasse (CC)</strong></td>
+</tr>
+<tr>
+<td><p><strong>Lav</strong></p>
+<p><strong>(CC1)</strong></p></td>
+<td><p><strong>Middel</strong></p>
+<p><strong>(CC2)</strong></p></td>
+<td><p><strong>Høj</strong></p>
+<p><strong>(CC3)</strong></p></td>
+<td><p><strong>Ekstra høj</strong></p>
+<p><strong>(CC3+)</strong></p></td>
+</tr>
+<tr>
+<td><strong>Simpel <em>og</em> traditionel konstruktion</strong></td>
+<td>KK1</td>
+<td>KK2*</td>
+<td>KK3</td>
+<td>KK4</td>
+</tr>
+<tr>
+<td><strong>Kompleks <em>eller</em> utraditionel konstruktion</strong></td>
+<td>KK1</td>
+<td>KK3*</td>
+<td>KK3</td>
+<td>KK4</td>
+</tr>
+</tbody>
+</table>
 
 **Tabel 1: Indplacering i konstruktionsklasse**
 
@@ -54,39 +79,118 @@ Note \*: *Dog KK1 for:*
 
 Eksemplerne i Tabel 2 nedenfor gælder for konstruktioner i middel konsekvensklasse, CC2, jf. Eurocode 0 (Dansk Standard 2007a) og DS/INF 1990 (Dansk Standard 2018a).
 
-+-----------+---------------------+-----------------------------------------------------------------------+------------------------------------+----------------------------------+-------------------------+
-| **ID**    | **Betegnelse\**     | **Beskrivelse**                                                       | **Erfaring med konstruktionstype** | **Konstruktionens kompleksitet** | **Konstruktionsklasse** |
-+-----------+---------------------+-----------------------------------------------------------------------+------------------------------------+----------------------------------+-------------------------+
-| 1         | Enfamiliehus        | 2 etager                                                              | Ej relevant                        | Ej relevant                      | KK1                     |
-+-----------+---------------------+-----------------------------------------------------------------------+------------------------------------+----------------------------------+-------------------------+
-| 2         | Industribygning     | Lager                                                                 | Traditionel                        | Simpel                           | KK1                     |
-|           |                     |                                                                       |                                    |                                  |                         |
-|           |                     | Spændvidde 30 m                                                       |                                    |                                  |                         |
-|           |                     |                                                                       |                                    |                                  |                         |
-|           |                     | Højde 10 m                                                            |                                    |                                  |                         |
-+-----------+---------------------+-----------------------------------------------------------------------+------------------------------------+----------------------------------+-------------------------+
-| 3\        | Daginstitution      | 1 etage                                                               | Traditionel                        | Simpel                           | KK2                     |
-+-----------+---------------------+-----------------------------------------------------------------------+------------------------------------+----------------------------------+-------------------------+
-| 4\        | Boligejendom        | 3 etager                                                              | Traditionel                        | Simpel                           | KK2                     |
-+-----------+---------------------+-----------------------------------------------------------------------+------------------------------------+----------------------------------+-------------------------+
-| 5         | Boligejendom        | 3 etager                                                              | Utraditionel                       | Simpel                           | KK3                     |
-+-----------+---------------------+-----------------------------------------------------------------------+------------------------------------+----------------------------------+-------------------------+
-| 6         | Støttemur           | 4 m høj\                                                              | Traditionel                        | Simpel                           | KK2                     |
-+-----------+---------------------+-----------------------------------------------------------------------+------------------------------------+----------------------------------+-------------------------+
-| 7         | Skole med idrætshal | Undervisningsbygning i 1 etage, \> 150 elever, små spændvidder/højder | Traditionel                        | Simpel                           | KK2\                    |
-|           |                     |                                                                       |                                    |                                  | \                       |
-|           |                     | Idrætshal for maks 149 personer, 10 m høj                             | Traditionel                        | Kompleks                         | KK3                     |
-+-----------+---------------------+-----------------------------------------------------------------------+------------------------------------+----------------------------------+-------------------------+
-| 8         | Industribygning     | Vareproduktion,                                                       | Traditionel                        | Simpel                           | KK1                     |
-|           |                     |                                                                       |                                    |                                  |                         |
-|           |                     | Spændvidde 30 m                                                       |                                    |                                  |                         |
-|           |                     |                                                                       |                                    |                                  |                         |
-|           |                     | Højde 10m                                                             |                                    |                                  |                         |
-+-----------+---------------------+-----------------------------------------------------------------------+------------------------------------+----------------------------------+-------------------------+
-| 9         | Parkeringshus       | 3 etager                                                              | Traditionel                        | Kompleks                         | KK3                     |
-+-----------+---------------------+-----------------------------------------------------------------------+------------------------------------+----------------------------------+-------------------------+
-| 10        | Trapper             | Interne trapper i beboelsesejendom                                    | Traditionel                        | Simpel                           | KK2                     |
-+-----------+---------------------+-----------------------------------------------------------------------+------------------------------------+----------------------------------+-------------------------+
+<table style="width:98%;">
+<colgroup>
+<col style="width: 5%" />
+<col style="width: 10%" />
+<col style="width: 34%" />
+<col style="width: 17%" />
+<col style="width: 16%" />
+<col style="width: 12%" />
+</colgroup>
+<tbody>
+<tr>
+<td><strong>ID</strong></td>
+<td>**Betegnelse**</td>
+<td><strong>Beskrivelse</strong></td>
+<td><strong>Erfaring med konstruktionstype</strong></td>
+<td><strong>Konstruktionens kompleksitet</strong></td>
+<td><strong>Konstruktionsklasse</strong></td>
+</tr>
+<tr>
+<td>1</td>
+<td>Enfamiliehus</td>
+<td>2 etager</td>
+<td>Ej relevant</td>
+<td>Ej relevant</td>
+<td>KK1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Industribygning</td>
+<td><p>Lager</p>
+<p>Spændvidde 30 m</p>
+<p>Højde 10 m</p></td>
+<td>Traditionel</td>
+<td>Simpel</td>
+<td>KK1</td>
+</tr>
+<tr>
+<td>3<br />
+</td>
+<td>Daginstitution</td>
+<td>1 etage</td>
+<td>Traditionel</td>
+<td>Simpel</td>
+<td>KK2</td>
+</tr>
+<tr>
+<td>4<br />
+</td>
+<td>Boligejendom</td>
+<td>3 etager</td>
+<td>Traditionel</td>
+<td>Simpel</td>
+<td>KK2</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Boligejendom</td>
+<td>3 etager</td>
+<td>Utraditionel</td>
+<td>Simpel</td>
+<td>KK3</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Støttemur</td>
+<td>4 m høj<br />
+</td>
+<td>Traditionel</td>
+<td>Simpel</td>
+<td>KK2</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Skole med idrætshal</td>
+<td><p>Undervisningsbygning i 1 etage, &gt; 150 elever, små spændvidder/højder</p>
+<p>Idrætshal for maks 149 personer, 10 m høj</p></td>
+<td><p>Traditionel</p>
+<p>Traditionel</p></td>
+<td><p>Simpel</p>
+<p>Kompleks</p></td>
+<td>KK2<br />
+<br />
+KK3</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Industribygning</td>
+<td><p>Vareproduktion,</p>
+<p>Spændvidde 30 m</p>
+<p>Højde 10m</p></td>
+<td>Traditionel</td>
+<td>Simpel</td>
+<td>KK1</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Parkeringshus</td>
+<td>3 etager</td>
+<td>Traditionel</td>
+<td>Kompleks</td>
+<td>KK3</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Trapper</td>
+<td>Interne trapper i beboelsesejendom</td>
+<td>Traditionel</td>
+<td>Simpel</td>
+<td>KK2</td>
+</tr>
+</tbody>
+</table>
 
 **Tabel 2: Eksempler på indplacering af konstruktioner i konstruktionsklasse**
 

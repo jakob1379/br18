@@ -35,29 +35,61 @@ Referencer findes i [afsnit 1.5](../../generel_vejledning/referenceliste/ "Refe
 
 Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde bygningsreglementets funktionskrav, er anført separat i tabellerne (i kursiv).
 
-+-----------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------+
-| **Daginstitutionsbygninger -- Tabel 4.1 Lydisolation**                                                                                                                        |
-+-----------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------+
-| **Luftlydisolation **     **\[4\]**                                                                                                     | ***R'*~w~**\                        |
-+-----------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------+
-| Mellem opholdsrum for stille og/eller støjende aktiviteter samt mellem disse rum og øvrige rum                                          | ≥ 48 dB\                            |
-+-----------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------+
-| Mellem opholdsrum for stille og/eller støjende aktiviteter og øvrige rum med dørforbindelse (samlet lydisolation for væg med dør mv.)   | ≥ 40 dB\                            |
-+-----------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------+
-| Mellem opholdsrum samt mellem opholdsrum og øvrige rum                                                                                  | ≥ 40 dB                             |
-+-----------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------+
-| Mellem opholdsrum med dørforbindelse samt mellem opholdsrum og øvrige rum med dørforbindelse (samlet lydisolation for væg med dør mv.)  | ≥ 30 dB                             |
-+-----------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------+
-| Mellem opholdsrum og tilgrænsende rum i erhvervsenheder eller i andre undervisnings- eller daginstitutioner                             | ≥ 60 dB                             |
-+-----------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------+
-| **Trinlydniveau **     **\[4\]**                                                                                                        | ***L***'***~n,w~***                 |
-+-----------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------+
-| I opholdsrum (fra gulve i overliggende rum) og i opholdsrum for stille aktiviteter (fra alle gulve)                                     | ≤ 58 dB                             |
-+-----------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------+
-| I opholdsrum (fra gulve i rum på samme etage)                                                                                           | ≤ 63 dB                             |
-+-----------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------+
-| I opholdsrum fra gulve og dæk i tilgrænsende rum i erhvervsenheder eller i andre undervisnings- eller daginstitutioner                  | ≤ 48 dB\                            |
-+-----------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------+
+<table>
+<colgroup>
+<col style="width: 78%" />
+<col style="width: 21%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><strong>Daginstitutionsbygninger – Tabel 4.1 Lydisolation</strong></td>
+</tr>
+<tr>
+<td><strong>Luftlydisolation </strong>     <strong>[4]</strong></td>
+<td><strong><em>R’</em><sub>w</sub></strong><br />
+</td>
+</tr>
+<tr>
+<td>Mellem opholdsrum for stille og/eller støjende aktiviteter samt mellem disse rum og øvrige rum</td>
+<td>≥ 48 dB<br />
+</td>
+</tr>
+<tr>
+<td>Mellem opholdsrum for stille og/eller støjende aktiviteter og øvrige rum med dørforbindelse (samlet lydisolation for væg med dør mv.)</td>
+<td>≥ 40 dB<br />
+</td>
+</tr>
+<tr>
+<td>Mellem opholdsrum samt mellem opholdsrum og øvrige rum</td>
+<td>≥ 40 dB</td>
+</tr>
+<tr>
+<td>Mellem opholdsrum med dørforbindelse samt mellem opholdsrum og øvrige rum med dørforbindelse (samlet lydisolation for væg med dør mv.)</td>
+<td>≥ 30 dB</td>
+</tr>
+<tr>
+<td>Mellem opholdsrum og tilgrænsende rum i erhvervsenheder eller i andre undervisnings- eller daginstitutioner</td>
+<td>≥ 60 dB</td>
+</tr>
+<tr>
+<td><strong>Trinlydniveau </strong>     <strong>[4]</strong></td>
+<td><strong><em>L</em></strong>’<strong><em><sub>n,w</sub></em></strong></td>
+</tr>
+<tr>
+<td>I opholdsrum (fra gulve i overliggende rum) og i opholdsrum for stille aktiviteter (fra alle gulve)</td>
+<td>≤ 58 dB</td>
+</tr>
+<tr>
+<td>I opholdsrum (fra gulve i rum på samme etage)</td>
+<td>≤ 63 dB</td>
+</tr>
+<tr>
+<td>I opholdsrum fra gulve og dæk i tilgrænsende rum i erhvervsenheder eller i andre undervisnings- eller daginstitutioner</td>
+<td>≤ 48 dB<br />
+</td>
+</tr>
+</tbody>
+</table>
 
 [4.3](../stoej-indendoers-fra-trafik-i-daginstitutionsbygninger/)
 

@@ -152,10 +152,10 @@ For at begrænse træk bør draught rate i opholdszonen i lokaler med stillesidd
 
 Med draught rate på 20% fås følgende, maksimale middellufthastigheder ved normal turbulens (Turbulensintensitet på 40 pct):
 
-  ----------------- ----- ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------
-  Lufttemperatur    °C    18     19     20     21     22     23     24     25     26     27     28
-  Lufthastighed     m/s   0,15   0,15   0,16   0,17   0,18   0,19   0,21   0,23   0,25   0,27   0,31
-  ----------------- ----- ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------
+|                 |     |      |      |      |      |      |      |      |      |      |      |      |
+|:----------------|:----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+| Lufttemperatur  | °C  | 18   | 19   | 20   | 21   | 22   | 23   | 24   | 25   | 26   | 27   | 28   |
+| Lufthastighed   | m/s | 0,15 | 0,15 | 0,16 | 0,17 | 0,18 | 0,19 | 0,21 | 0,23 | 0,25 | 0,27 | 0,31 |
 
 Ved andre turbulensintensiteter, fx ved brug af fortrængningsventilation, vil de maksimale lufthastigheder være anderledes.
 
@@ -284,19 +284,54 @@ Mindre aflukkede køkkenrum defineres som mindre rum fortrinsvis indrettet til m
 
 Tabel præ-accepterede korrektionsfaktorer for emhætteplacering og minimums luftmængde:
 
-+------------------------------------------------+--------------------------------------------------------------------------------+--------------------+------------------------------+-------------------------------------------+
-| Udformning                                     | Placering                                                                      | Korrektionsfaktor  | Eksempel                     | Eksempel                                  |
-|                                                |                                                                                |                    |                              |                                           |
-|                                                |                                                                                |                    | Resulterende (åbent køkken)  | Resulterende (mindre aflukket køkkenrum)  |
-+------------------------------------------------+--------------------------------------------------------------------------------+--------------------+------------------------------+-------------------------------------------+
-| Vandret med en hældning på ikke mere end 15 °  | Afstand over kogepladerne på højst 60 cm                                       | 0,5                | 60 l/s                       | 40 l/s                                    |
-+------------------------------------------------+--------------------------------------------------------------------------------+--------------------+------------------------------+-------------------------------------------+
-| Vandret med en hældning på ikke mere end 15 °  | Afstand over kogepladerne på mere end 60 cm og mindre end 90 cm fra kogepladen | 0,67               | 80 l/s                       | 53 l/s                                    |
-+------------------------------------------------+--------------------------------------------------------------------------------+--------------------+------------------------------+-------------------------------------------+
-| Skrå væghængte og frithængende over kogeøer    | Højst 90 cm fra kogeplade                                                      | 0,67               | 80 l/s                       | 53 l/s                                    |
-+------------------------------------------------+--------------------------------------------------------------------------------+--------------------+------------------------------+-------------------------------------------+
-| Andre                                          |                                                                                | 1                  | 120 l/s                      | 80 l/s                                    |
-+------------------------------------------------+--------------------------------------------------------------------------------+--------------------+------------------------------+-------------------------------------------+
+<table style="width:99%;">
+<colgroup>
+<col style="width: 21%" />
+<col style="width: 35%" />
+<col style="width: 9%" />
+<col style="width: 13%" />
+<col style="width: 19%" />
+</colgroup>
+<tbody>
+<tr>
+<td>Udformning</td>
+<td>Placering</td>
+<td>Korrektionsfaktor</td>
+<td><p>Eksempel</p>
+<p>Resulterende (åbent køkken)</p></td>
+<td><p>Eksempel</p>
+<p>Resulterende (mindre aflukket køkkenrum)</p></td>
+</tr>
+<tr>
+<td>Vandret med en hældning på ikke mere end 15 °</td>
+<td>Afstand over kogepladerne på højst 60 cm</td>
+<td>0,5</td>
+<td>60 l/s</td>
+<td>40 l/s</td>
+</tr>
+<tr>
+<td>Vandret med en hældning på ikke mere end 15 °</td>
+<td>Afstand over kogepladerne på mere end 60 cm og mindre end 90 cm fra kogepladen</td>
+<td>0,67</td>
+<td>80 l/s</td>
+<td>53 l/s</td>
+</tr>
+<tr>
+<td>Skrå væghængte og frithængende over kogeøer</td>
+<td>Højst 90 cm fra kogeplade</td>
+<td>0,67</td>
+<td>80 l/s</td>
+<td>53 l/s</td>
+</tr>
+<tr>
+<td>Andre</td>
+<td></td>
+<td>1</td>
+<td>120 l/s</td>
+<td>80 l/s</td>
+</tr>
+</tbody>
+</table>
 
 Emhætte i boligenheder under 50 m² kan alternativt dimensioneres til 1,8 l/s pr. m² boligareal i boligenheden.
 

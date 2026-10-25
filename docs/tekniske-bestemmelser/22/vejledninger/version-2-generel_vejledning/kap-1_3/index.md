@@ -26,10 +26,10 @@ For at begrænse træk bør draught rate i opholdszonen i lokaler med stillesidd
 
 Med draught rate på 20% fås følgende, maksimale middellufthastigheder ved normal turbulens (Turbulensintensitet på 40 pct):
 
-  ----------------- ----- ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------
-  Lufttemperatur    °C    18     19     20     21     22     23     24     25     26     27     28
-  Lufthastighed     m/s   0,15   0,15   0,16   0,17   0,18   0,19   0,21   0,23   0,25   0,27   0,31
-  ----------------- ----- ------ ------ ------ ------ ------ ------ ------ ------ ------ ------ ------
+|                 |     |      |      |      |      |      |      |      |      |      |      |      |
+|:----------------|:----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+| Lufttemperatur  | °C  | 18   | 19   | 20   | 21   | 22   | 23   | 24   | 25   | 26   | 27   | 28   |
+| Lufthastighed   | m/s | 0,15 | 0,15 | 0,16 | 0,17 | 0,18 | 0,19 | 0,21 | 0,23 | 0,25 | 0,27 | 0,31 |
 
 Ved andre turbulensintensiteter, fx ved brug af fortrængningsventilation, vil de maksimale lufthastigheder være anderledes.
 

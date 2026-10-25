@@ -40,17 +40,38 @@ Om et bestemt legepladsredskab kan betragtes som bebyggelse i byggelovens forsta
 
 I tabellen nedenfor er der angivet eksempler på hvilke legepladser og legepladsredskaber, der betragtes som offentligt tilgængelige og hvilke, der ikke betragtes som offentligt tilgængelige. Eksemplerne er ikke udtømmende.
 
-+----------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-|                                                                                              | **Beskrivelse**                                                                                                                                                                               | **Eksempler **                                                                                                                   |
-+----------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-| **Legepladser og legepladsredskaber, der betragtes som offentligt tilgængelige **            | Legepladsredskaber beliggende på offentlig tilgængelige steder, hvortil der er almindelig adgang                                                                                              | Legepladsredskaber i parker, restaurationer, butikker og butikscentre i åbningstiden, forlystelsessteder og offentlige kontorer. |
-|                                                                                              +-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-|                                                                                              | Legepladsredskaber beliggende i offentlige skoler og børneinstitutioner, uanset om det område, hvorpå legepladsen eller -redskabet er placeret, er aflåst uden for institutionens åbningstid. |                                                                                                                                  |
-|                                                                                              +-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-|                                                                                              | Legepladsredskaber beliggende på fællesarealer for mere end én boligenhed, uanset om fællesarealet er aflåst eller kun en afgrænset kreds af personer har adgang til arealet.                 | Fællesarealer i forbindelse med gårdhaver, boligforeninger og rækkehuse (inklusive dobbelthuse).                                 |
-+----------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
-| **Legepladser og legepladsredskaber, der *ikke* betragtes som **offentlig tilgængelige ****  | Legepladsredskaber beliggende på privat grund og hvor benyttelse kun er forbeholdt og muliggjort for højst én boligenhed.                                                                     | Private haver (for den enkelte boligenhed) i forbindelse med enfamiliehuse, dobbelthuse rækkehuse og evt. etageboligbyggeri.     |
-+----------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+
+<table style="width:100%;">
+<colgroup>
+<col style="width: 22%" />
+<col style="width: 45%" />
+<col style="width: 31%" />
+</colgroup>
+<tbody>
+<tr>
+<td></td>
+<td><strong>Beskrivelse</strong></td>
+<td><strong>Eksempler </strong></td>
+</tr>
+<tr>
+<td rowspan="3"><strong>Legepladser og legepladsredskaber, der betragtes som offentligt tilgængelige </strong></td>
+<td>Legepladsredskaber beliggende på offentlig tilgængelige steder, hvortil der er almindelig adgang</td>
+<td>Legepladsredskaber i parker, restaurationer, butikker og butikscentre i åbningstiden, forlystelsessteder og offentlige kontorer.</td>
+</tr>
+<tr>
+<td>Legepladsredskaber beliggende i offentlige skoler og børneinstitutioner, uanset om det område, hvorpå legepladsen eller -redskabet er placeret, er aflåst uden for institutionens åbningstid.</td>
+<td></td>
+</tr>
+<tr>
+<td>Legepladsredskaber beliggende på fællesarealer for mere end én boligenhed, uanset om fællesarealet er aflåst eller kun en afgrænset kreds af personer har adgang til arealet.</td>
+<td>Fællesarealer i forbindelse med gårdhaver, boligforeninger og rækkehuse (inklusive dobbelthuse).</td>
+</tr>
+<tr>
+<td><strong>Legepladser og legepladsredskaber, der <em>ikke</em> betragtes som </strong>offentlig tilgængelige ****</td>
+<td>Legepladsredskaber beliggende på privat grund og hvor benyttelse kun er forbeholdt og muliggjort for højst én boligenhed.</td>
+<td>Private haver (for den enkelte boligenhed) i forbindelse med enfamiliehuse, dobbelthuse rækkehuse og evt. etageboligbyggeri.</td>
+</tr>
+</tbody>
+</table>
 
 Legepladser og legepladsredskaber beliggende på fællesarealer i forbindelse med gårdhaver, boligforeninger eller rækkehuse (inklusive dobbelthuse) betragtes som offentligt tilgængelige uanset om fællesarealet er aflåst eller kun en afgrænset kreds af personer har adgang til arealet. Mange af disse legepladser mv. bliver, trods den afgrænsede benyttelse, alligevel benyttet af et antal af børn, der gør, at det er hensigtsmæssigt at sidestille disse med hvad der traditionelt bliver betragtet som offentligt tilgængelige legepladser (som fx legepladsredskaber beliggende på offentligt tilgængelige steder, hvortil der er almindelig adgang).
 

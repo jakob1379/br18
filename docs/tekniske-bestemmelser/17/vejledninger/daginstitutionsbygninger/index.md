@@ -51,29 +51,61 @@ Referencer findes i [afsnit 1.5](../generel_vejledning/referenceliste/ "Referen
 
 Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde bygningsreglementets funktionskrav, er anført separat i tabellerne (i kursiv).
 
-+-----------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------+
-| **Daginstitutionsbygninger -- Tabel 4.1 Lydisolation**                                                                                                                        |
-+-----------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------+
-| **Luftlydisolation **     **\[4\]**                                                                                                     | ***R'*~w~**\                        |
-+-----------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------+
-| Mellem opholdsrum for stille og/eller støjende aktiviteter samt mellem disse rum og øvrige rum                                          | ≥ 48 dB\                            |
-+-----------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------+
-| Mellem opholdsrum for stille og/eller støjende aktiviteter og øvrige rum med dørforbindelse (samlet lydisolation for væg med dør mv.)   | ≥ 40 dB\                            |
-+-----------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------+
-| Mellem opholdsrum samt mellem opholdsrum og øvrige rum                                                                                  | ≥ 40 dB                             |
-+-----------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------+
-| Mellem opholdsrum med dørforbindelse samt mellem opholdsrum og øvrige rum med dørforbindelse (samlet lydisolation for væg med dør mv.)  | ≥ 30 dB                             |
-+-----------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------+
-| Mellem opholdsrum og tilgrænsende rum i erhvervsenheder eller i andre undervisnings- eller daginstitutioner                             | ≥ 60 dB                             |
-+-----------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------+
-| **Trinlydniveau **     **\[4\]**                                                                                                        | ***L***'***~n,w~***                 |
-+-----------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------+
-| I opholdsrum (fra gulve i overliggende rum) og i opholdsrum for stille aktiviteter (fra alle gulve)                                     | ≤ 58 dB                             |
-+-----------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------+
-| I opholdsrum (fra gulve i rum på samme etage)                                                                                           | ≤ 63 dB                             |
-+-----------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------+
-| I opholdsrum fra gulve og dæk i tilgrænsende rum i erhvervsenheder eller i andre undervisnings- eller daginstitutioner                  | ≤ 48 dB\                            |
-+-----------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------+
+<table>
+<colgroup>
+<col style="width: 78%" />
+<col style="width: 21%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><strong>Daginstitutionsbygninger – Tabel 4.1 Lydisolation</strong></td>
+</tr>
+<tr>
+<td><strong>Luftlydisolation </strong>     <strong>[4]</strong></td>
+<td><strong><em>R’</em><sub>w</sub></strong><br />
+</td>
+</tr>
+<tr>
+<td>Mellem opholdsrum for stille og/eller støjende aktiviteter samt mellem disse rum og øvrige rum</td>
+<td>≥ 48 dB<br />
+</td>
+</tr>
+<tr>
+<td>Mellem opholdsrum for stille og/eller støjende aktiviteter og øvrige rum med dørforbindelse (samlet lydisolation for væg med dør mv.)</td>
+<td>≥ 40 dB<br />
+</td>
+</tr>
+<tr>
+<td>Mellem opholdsrum samt mellem opholdsrum og øvrige rum</td>
+<td>≥ 40 dB</td>
+</tr>
+<tr>
+<td>Mellem opholdsrum med dørforbindelse samt mellem opholdsrum og øvrige rum med dørforbindelse (samlet lydisolation for væg med dør mv.)</td>
+<td>≥ 30 dB</td>
+</tr>
+<tr>
+<td>Mellem opholdsrum og tilgrænsende rum i erhvervsenheder eller i andre undervisnings- eller daginstitutioner</td>
+<td>≥ 60 dB</td>
+</tr>
+<tr>
+<td><strong>Trinlydniveau </strong>     <strong>[4]</strong></td>
+<td><strong><em>L</em></strong>’<strong><em><sub>n,w</sub></em></strong></td>
+</tr>
+<tr>
+<td>I opholdsrum (fra gulve i overliggende rum) og i opholdsrum for stille aktiviteter (fra alle gulve)</td>
+<td>≤ 58 dB</td>
+</tr>
+<tr>
+<td>I opholdsrum (fra gulve i rum på samme etage)</td>
+<td>≤ 63 dB</td>
+</tr>
+<tr>
+<td>I opholdsrum fra gulve og dæk i tilgrænsende rum i erhvervsenheder eller i andre undervisnings- eller daginstitutioner</td>
+<td>≤ 48 dB<br />
+</td>
+</tr>
+</tbody>
+</table>
 
 4.3
 
@@ -87,52 +119,71 @@ Referencer findes i [afsnit 1.5](../generel_vejledning/referenceliste/ "Referen
 
 Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfylde Bygningsreglementets funktionskrav, er anført separat i tabellerne (i kursiv).
 
-+------------------------------------------------------------------+---------------------------------------+---------------------------------------------------+-----------------------------------------------------------+
-| **Daginstitutionsbygninger -- Tabel 4.2 Støj indendørs fra trafik**                                                                                                                                                      |
-+------------------------------------------------------------------+---------------------------------------+---------------------------------------------------+-----------------------------------------------------------+
-| **Lovgivning ^4)^**                                              | **Støjbelastning ude**                | **Støjbelastning ude**                            | **Støjbelastning ude**                                    |
-|                                                                  |                                       |                                                   |                                                           |
-|                                                                  | **Veje: *L~den~* ≤ 58 dB**            | **Veje: 58 dB \< *L~den~* ≤ 68 dB**               | **Veje: *L~den~* \> 68 dB**                               |
-|                                                                  |                                       |                                                   |                                                           |
-|                                                                  | **Jernbaner: *L~den~* ≤ 64 dB**       | **Jernbaner: *L~den~* \> 64dB**                   |                                                           |
-+------------------------------------------------------------------+---------------------------------------+---------------------------------------------------+-----------------------------------------------------------+
-| BR18 ^1)^     **          ** **      \[4\]**\                    | *L~den~* ≤ 33 dB med lukkede vinduer  | *L~den~* ≤ 33 dB med lukkede vinduer              | *L~den~ *≤ 33 dB med lukkede vinduer                      |
-+------------------------------------------------------------------+---------------------------------------+---------------------------------------------------+-----------------------------------------------------------+
-| ***Supplerende vejledning***                                     | *Ingen krav*\                         | *Byfornyelse mv. ^2)^*                            | *Der bør ikke planlægges for støjfølsom anvendelse ^5)^*  |
-|                                                                  |                                       |                                                   |                                                           |
-| *Planlovgivning - Veje  *      **                  ** **\[7\]**  |                                       | *Veje: L~den~ ≤ 46 dB  med åbne vinduer ^3)^*     |                                                           |
-+------------------------------------------------------------------+---------------------------------------+---------------------------------------------------+-----------------------------------------------------------+
-| ***Supplerende vejledning***                                     | *Ingen krav*                          | *Byfornyelse mv. ^2)^*                            |                                                           |
-|                                                                  |                                       |                                                   |                                                           |
-| *Planlovgivning - Jernbaner *                 **\[8\]**          |                                       | *Jernbaner: L~den~ ≤ 52 dB med åbne vinduer ^3)^* |                                                           |
-+------------------------------------------------------------------+---------------------------------------+---------------------------------------------------+-----------------------------------------------------------+
-| **Noter\                                                                                                                                                                                                                 |
-| \**                                                                                                                                                                                                                      |
-|                                                                                                                                                                                                                          |
-|
-
-1)   Grænseværdien for L~den~ gældende for de enkelte trafikstøjkilder hver for sig.\                                                                                                                                    |
-| \                                                                                                                                                                                                                        |
-|                                                                                                                                                                                                                          |
-|
-
-2)   Byfornyelse, huludfyldning o.l. i eksisterende boligområder samt områder for blandede byfunktioner i bymæssig bebyggelse.\                                                                                          |
-| \                                                                                                                                                                                                                        |
-|                                                                                                                                                                                                                          |
-|
-
-3)   Specielle løsninger er nødvendige.\                                                                                                                                                                                 |
-| \                                                                                                                                                                                                                        |
-|                                                                                                                                                                                                                          |
-|
-
-4)   Grænseværdierne gælder i møblerede opholdsrum.\                                                                                                                                                                     |
-| \                                                                                                                                                                                                                        |
-|                                                                                                                                                                                                                          |
-|
-
-5)   Lokale bestemmelser kan omfatte daginstitutionsbygninger ved en udendørs støjbelastning over 68 dB.                                                                                                                 |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+<table style="width:99%;">
+<colgroup>
+<col style="width: 30%" />
+<col style="width: 18%" />
+<col style="width: 23%" />
+<col style="width: 27%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="4"><strong>Daginstitutionsbygninger – Tabel 4.2 Støj indendørs fra trafik</strong></td>
+</tr>
+<tr>
+<td><strong>Lovgivning <sup>4)</sup></strong></td>
+<td><p><strong>Støjbelastning ude</strong></p>
+<p><strong>Veje: <em>L<sub>den</sub></em> ≤ 58 dB</strong></p>
+<p><strong>Jernbaner: <em>L<sub>den</sub></em> ≤ 64 dB</strong></p></td>
+<td><p><strong>Støjbelastning ude</strong></p>
+<p><strong>Veje: 58 dB &lt; <em>L<sub>den</sub></em> ≤ 68 dB</strong></p>
+<p><strong>Jernbaner: <em>L<sub>den</sub></em> &gt; 64dB</strong></p></td>
+<td><p><strong>Støjbelastning ude</strong></p>
+<p><strong>Veje: <em>L<sub>den</sub></em> &gt; 68 dB</strong></p></td>
+</tr>
+<tr>
+<td>BR18 <sup>1)</sup>     <strong>          </strong> <strong>      [4]</strong><br />
+</td>
+<td><em>L<sub>den</sub></em> ≤ 33 dB med lukkede vinduer</td>
+<td><em>L<sub>den</sub></em> ≤ 33 dB med lukkede vinduer</td>
+<td><em>L<sub>den</sub> </em>≤ 33 dB med lukkede vinduer</td>
+</tr>
+<tr>
+<td><p><strong><em>Supplerende vejledning</em></strong></p>
+<p><em>Planlovgivning - Veje  </em>      <strong>                  </strong> <strong>[7]</strong></p></td>
+<td><em>Ingen krav</em><br />
+</td>
+<td><p><em>Byfornyelse mv. <sup>2)</sup></em></p>
+<p><em>Veje: L<sub>den</sub> ≤ 46 dB  med åbne vinduer <sup>3)</sup></em></p></td>
+<td><em>Der bør ikke planlægges for støjfølsom anvendelse <sup>5)</sup></em></td>
+</tr>
+<tr>
+<td><p><strong><em>Supplerende vejledning</em></strong></p>
+<p><em>Planlovgivning - Jernbaner </em>                 <strong>[8]</strong></p></td>
+<td><em>Ingen krav</em></td>
+<td><p><em>Byfornyelse mv. <sup>2)</sup></em></p>
+<p><em>Jernbaner: L<sub>den</sub> ≤ 52 dB med åbne vinduer <sup>3)</sup></em></p></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4"><p>**Noter<br />
+**</p>
+<p>1)   Grænseværdien for L<sub>den</sub> gældende for de enkelte trafikstøjkilder hver for sig.<br />
+<br />
+</p>
+<p>2)   Byfornyelse, huludfyldning o.l. i eksisterende boligområder samt områder for blandede byfunktioner i bymæssig bebyggelse.<br />
+<br />
+</p>
+<p>3)   Specielle løsninger er nødvendige.<br />
+<br />
+</p>
+<p>4)   Grænseværdierne gælder i møblerede opholdsrum.<br />
+<br />
+</p>
+<p>5)   Lokale bestemmelser kan omfatte daginstitutionsbygninger ved en udendørs støjbelastning over 68 dB.</p></td>
+</tr>
+</tbody>
+</table>
 
 4.4
 
@@ -146,34 +197,41 @@ Referencer findes i [afsnit 1.5](../generel_vejledning/referenceliste/ "Referen
 
 Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde bygningsreglementets funktionskrav, er anført separat i tabellerne (i kursiv).
 
-+----------------------------------------+------------------------------------+---------------------------------+
-| **Daginstitutionsbygninger -- Tabel 4.3 Støj fra tekniske installationer**                                    |
-+----------------------------------------+------------------------------------+---------------------------------+
-| **Rumtype**                            | **Støjkilde ^2)^**                 | ***L~Aeq~***                    |
-+----------------------------------------+------------------------------------+---------------------------------+
-| I opholdsrum ^1), a)^*    ***\[4\]**  | Bygningens tekniske installationer | ≤ 30 dB                         |
-+----------------------------------------+------------------------------------+---------------------------------+
-| *Supplerende vejledning     ***\[3\], \[9\]**                                                                 |
-|                                                                                                               |
-|
-
-a)  *For tekniske installationer, der giver anledning til lavfrekvent støj i opholdsrum:*                     |
-|                                                                                                               |
-| *A-vægtet, ækvivalent lydtrykniveau i lavfrekvensområdet, L*~p*A,LF*~*  ≤ 25 dB.*                             |
-|                                                                                                               |
-| *Tilsvarende grænseværdi for G-vægtet infralydniveau, L~pG~ ≤ 85 dB.*                                         |
-+---------------------------------------------------------------------------------------------------------------+
-| **Noter\**                                                                                                    |
-|                                                                                                               |
-|
-
-1)   Grænseværdien gælder i møblerede rum.\                                                                   |
-| \                                                                                                             |
-|                                                                                                               |
-|
-
-2)   Grænseværdien gælder for den enkelte installation.                                                       |
-+---------------------------------------------------------------------------------------------------------------+
+<table style="width:99%;">
+<colgroup>
+<col style="width: 36%" />
+<col style="width: 32%" />
+<col style="width: 30%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="3"><strong>Daginstitutionsbygninger – Tabel 4.3 Støj fra tekniske installationer</strong></td>
+</tr>
+<tr>
+<td><strong>Rumtype</strong></td>
+<td><strong>Støjkilde <sup>2)</sup></strong></td>
+<td><strong><em>L<sub>Aeq</sub></em></strong></td>
+</tr>
+<tr>
+<td>I opholdsrum ^1), a)^<em>    </em><strong>[4]</strong></td>
+<td>Bygningens tekniske installationer</td>
+<td>≤ 30 dB</td>
+</tr>
+<tr>
+<td colspan="3"><p><em>Supplerende vejledning     </em><strong>[3], [9]</strong></p>
+<p>a)  <em>For tekniske installationer, der giver anledning til lavfrekvent støj i opholdsrum:</em></p>
+<p><em>A-vægtet, ækvivalent lydtrykniveau i lavfrekvensområdet, L</em><sub>p<em>A,LF</em></sub><em>  ≤ 25 dB.</em></p>
+<p><em>Tilsvarende grænseværdi for G-vægtet infralydniveau, L<sub>pG</sub> ≤ 85 dB.</em></p></td>
+</tr>
+<tr>
+<td colspan="3"><p>**Noter**</p>
+<p>1)   Grænseværdien gælder i møblerede rum.<br />
+<br />
+</p>
+<p>2)   Grænseværdien gælder for den enkelte installation.</p></td>
+</tr>
+</tbody>
+</table>
 
 4.5
 
@@ -187,36 +245,51 @@ Referencer findes i [afsnit 1.5](../generel_vejledning/referenceliste/ "Referen
 
 Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde bygningsreglementets funktionskrav, er anført separat i tabellerne (i kursiv).
 
-+----------------------------------------------------------------------------+-----------------------------------+-----------------------------------+
-| **Daginstitutionsbygninger -- Tabel 4.4 Rumakustik**                                                                                               |
-+----------------------------------------------------------------------------+-----------------------------------+-----------------------------------+
-| **Efterklangstid**           **\[4\]**                                     | **T ^1), 3), a)^**              | **Frekvensområde**                |
-+----------------------------------------------------------------------------+-----------------------------------+-----------------------------------+
-| Opholdsrum                                                                 | T ≤ 0,4 s                         | 125-4000Hz                        |
-+----------------------------------------------------------------------------+-----------------------------------+-----------------------------------+
-| **Absorptionsareal     \[4\]**                                             | **A ^2), 3), a)^**              |                                   |
-+----------------------------------------------------------------------------+-----------------------------------+-----------------------------------+
-| Opholdsrum med lofthøjde større end 4 m og rumvolumen større end 300 m^3^  | A ≥ 1,2 × gulvareal               | 125-4000Hz                        |
-+----------------------------------------------------------------------------+-----------------------------------+-----------------------------------+
-| ***Supplerende vejledning     \[4\]***                                                                                                             |
-|                                                                                                                                                    |
-| *a) Fordeling af lydabsorbenter i rummet har betydning, se \[4\].*                                                                                 |
-+----------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Noter**                                                                                                                                          |
-|                                                                                                                                                    |
-|
-
-1)   Maksimumsværdien for efterklangstiden gælder for hvert 1/1-oktavbånd i frekvensområdet. \                                                     |
-| Ved 125 Hz kan den angivne maksimumsværdi dog tillægges 20 %.\                                                                                     |
-| \                                                                                                                                                  |
-|                                                                                                                                                    |
-|
-
-2)   Minimumsværdien for absorptionsarealet gælder for hvert 1/1-oktavbånd i frekvensområdet. \                                                    |
-| Ved 125 Hz kan den angivne minimumsværdi dog fratrækkes 20 %.\                                                                                     |
-| \                                                                                                                                                  |
-|                                                                                                                                                    |
-|
-
-3)   Grænseværdierne gælder i møblerede rum.                                                                                                       |
-+----------------------------------------------------------------------------------------------------------------------------------------------------+
+<table style="width:99%;">
+<colgroup>
+<col style="width: 51%" />
+<col style="width: 24%" />
+<col style="width: 24%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="3"><strong>Daginstitutionsbygninger – Tabel 4.4 Rumakustik</strong></td>
+</tr>
+<tr>
+<td><strong>Efterklangstid</strong>           <strong>[4]</strong></td>
+<td><strong>T ^1), 3), a)^</strong></td>
+<td><strong>Frekvensområde</strong></td>
+</tr>
+<tr>
+<td>Opholdsrum</td>
+<td>T ≤ 0,4 s</td>
+<td>125-4000Hz</td>
+</tr>
+<tr>
+<td><strong>Absorptionsareal     [4]</strong></td>
+<td><strong>A ^2), 3), a)^</strong></td>
+<td></td>
+</tr>
+<tr>
+<td>Opholdsrum med lofthøjde større end 4 m og rumvolumen større end 300 m<sup>3</sup></td>
+<td>A ≥ 1,2 × gulvareal</td>
+<td>125-4000Hz</td>
+</tr>
+<tr>
+<td colspan="3"><p><strong><em>Supplerende vejledning     [4]</em></strong></p>
+<p><em>a) Fordeling af lydabsorbenter i rummet har betydning, se [4].</em></p></td>
+</tr>
+<tr>
+<td colspan="3"><p><strong>Noter</strong></p>
+<p>1)   Maksimumsværdien for efterklangstiden gælder for hvert 1/1-oktavbånd i frekvensområdet. <br />
+Ved 125 Hz kan den angivne maksimumsværdi dog tillægges 20 %.<br />
+<br />
+</p>
+<p>2)   Minimumsværdien for absorptionsarealet gælder for hvert 1/1-oktavbånd i frekvensområdet. <br />
+Ved 125 Hz kan den angivne minimumsværdi dog fratrækkes 20 %.<br />
+<br />
+</p>
+<p>3)   Grænseværdierne gælder i møblerede rum.</p></td>
+</tr>
+</tbody>
+</table>

@@ -89,11 +89,10 @@ Der måles for de evt. forskellige referencetilstande og på relevante steder i 
 
 Tabel 1. Normalt tilladelig måleusikkerhed i forbindelse med måling af de luftstrømme der skal leveres af ventilationsanlægget jf. DS 447 stk. 9.3.
 
-+---------------------------------+----------------------------------+
-| Samlet luftstrøm til rummet     | Hovedluftstrøm fra/til aggregat  |
-+---------------------------------+----------------------------------+
-|  ± 10 %                         |  ± 10%                           |
-+---------------------------------+----------------------------------+
+|                             |                                 |
+|-----------------------------|---------------------------------|
+| Samlet luftstrøm til rummet | Hovedluftstrøm fra/til aggregat |
+|  ± 10 %                     |  ± 10%                          |
 
 Emhætte efterprøves i boliger ved at måle, at der er en luftstrøm svarende til kravet. Der kan normalt accepteres en måleusikkerhed på op til 15 %. Målingen udføres med lukkede vinduer og døre.
 

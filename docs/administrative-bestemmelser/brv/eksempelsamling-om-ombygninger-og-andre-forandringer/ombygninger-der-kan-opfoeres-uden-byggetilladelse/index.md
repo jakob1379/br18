@@ -60,39 +60,65 @@ Ved nogle af de nedenstående eksempler er der tilknyttet specifikke forudsætni
 
 Udover de specifikke forudsætninger, forudsættes det generelt for alle eksempler, at byggearbejde ikke ændrer de bærende konstruktioners virkemåde og/eller forudsætningerne for de brandmæssige forhold på anden vis. Det forudsættes yderligere, at byggearbejdet ikke udvider etagearealet, ændre anvendelsen væsentligt, eller ændre andre forhold, der medfører, at der skal ansøges om byggetilladelse.
 
-+-------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
-| **Tabel 2: Eksempler på ombygninger og andre forandringer i etageboligbyggeri, der kan udføres uden ansøgning om byggetilladelse**                                                                                                        |
-+-------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
-| **Byggearbejde**                                                                                      | **Specifikke forudsætninger**                                                                                                     |
-+-------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
-| Udvidelse af wc-rum med bad, hvor der sker ny rørgennemføring gennem etageadskillelse.                | Forudsætter bl.a., at gennemføringen udføres med brandtætninger, der har samme brandmodstandsevne som den pågældende bygningsdel. |
-|                                                                                                       |                                                                                                                                   |
-|                                                                                                       | Forudsætter bl.a., at evt. ændring i etagedæk retableres på tilsvarende måde som eksisterende etagedæk.                           |
-+-------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
-| Nyt badeværelse eller wc-rum i andet rum, hvor der sker ny rørgennemføring gennem etageadskillelse.   | Forudsætter bl.a., at gennemføringen udføres med brandtætning, der har samme brandmodstandsevne som den pågældende bygningsdel.   |
-|                                                                                                       |                                                                                                                                   |
-|                                                                                                       | Forudsætter bl.a., at evt. ændring i etagedæk retableres på tilsvarende måde som eksisterende etagedæk.                           |
-+-------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
-| Flytning af køkken til andet rum.                                                                     |                                                                                                                                   |
-+-------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
-| Nedrivning af ikke-bærende vægge (gælder også vægge mellem boliger ved sammenlægning af lejligheder). |                                                                                                                                   |
-+-------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
-| Opdeling af rum med skillevæg.                                                                        | Forudsætter bl.a., at adgang til redningsåbninger og flugtveje via trapperne ikke forringes i forhold til kravene i BR18.         |
-+-------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
-| Blænding af internt dørhul.                                                                           | Forudsætter bl.a., at adgang til redningsåbninger og flugtveje ikke forringes i forhold til kravene i BR18.                       |
-+-------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
-| Udvidelse af vindueshul til dørhul med samme bredde i bærende væg samt etablering af fransk altan.    | Forudsætter bl.a., at dørhullet har højst samme bredde som det eksisterende hul til vinduet.                                      |
-|                                                                                                       |                                                                                                                                   |
-|                                                                                                       | Forudsætter bl.a., at vinduets/dørens eventuelle funktion som redningsåbning bibeholdes.                                          |
-|                                                                                                       |                                                                                                                                   |
-|                                                                                                       | Forudsætter at vægges eventuelle afstivende funktion bibeholdes.                                                                  |
-+-------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
-| Blænding af én dør til primært trapperum ved sammenlægning af lejligheder på samme etage.             | Forudsætter bl.a., at der fortsat er adgang til mindst én dør til primært trapperum.                                              |
-+-------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
-| Blænding af dør til sekundært trapperum ved sammenlægning af lejligheder på samme etage.              | Forudsætter bl.a., at der fortsat er adgang til mindst én dør til sekundært trapperum.                                            |
-+-------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
-| Nedlæggelse af lyskasser.                                                                             | Forudsætter bl.a., at lyskasserne ikke er påkrævet af brandmæssige årsager, f.eks. røgudluftning.                                 |
-+-------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
+<table>
+<colgroup>
+<col style="width: 44%" />
+<col style="width: 55%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><strong>Tabel 2: Eksempler på ombygninger og andre forandringer i etageboligbyggeri, der kan udføres uden ansøgning om byggetilladelse</strong></td>
+</tr>
+<tr>
+<td><strong>Byggearbejde</strong></td>
+<td><strong>Specifikke forudsætninger</strong></td>
+</tr>
+<tr>
+<td>Udvidelse af wc-rum med bad, hvor der sker ny rørgennemføring gennem etageadskillelse.</td>
+<td><p>Forudsætter bl.a., at gennemføringen udføres med brandtætninger, der har samme brandmodstandsevne som den pågældende bygningsdel.</p>
+<p>Forudsætter bl.a., at evt. ændring i etagedæk retableres på tilsvarende måde som eksisterende etagedæk.</p></td>
+</tr>
+<tr>
+<td>Nyt badeværelse eller wc-rum i andet rum, hvor der sker ny rørgennemføring gennem etageadskillelse.</td>
+<td><p>Forudsætter bl.a., at gennemføringen udføres med brandtætning, der har samme brandmodstandsevne som den pågældende bygningsdel.</p>
+<p>Forudsætter bl.a., at evt. ændring i etagedæk retableres på tilsvarende måde som eksisterende etagedæk.</p></td>
+</tr>
+<tr>
+<td>Flytning af køkken til andet rum.</td>
+<td></td>
+</tr>
+<tr>
+<td>Nedrivning af ikke-bærende vægge (gælder også vægge mellem boliger ved sammenlægning af lejligheder).</td>
+<td></td>
+</tr>
+<tr>
+<td>Opdeling af rum med skillevæg.</td>
+<td>Forudsætter bl.a., at adgang til redningsåbninger og flugtveje via trapperne ikke forringes i forhold til kravene i BR18.</td>
+</tr>
+<tr>
+<td>Blænding af internt dørhul.</td>
+<td>Forudsætter bl.a., at adgang til redningsåbninger og flugtveje ikke forringes i forhold til kravene i BR18.</td>
+</tr>
+<tr>
+<td>Udvidelse af vindueshul til dørhul med samme bredde i bærende væg samt etablering af fransk altan.</td>
+<td><p>Forudsætter bl.a., at dørhullet har højst samme bredde som det eksisterende hul til vinduet.</p>
+<p>Forudsætter bl.a., at vinduets/dørens eventuelle funktion som redningsåbning bibeholdes.</p>
+<p>Forudsætter at vægges eventuelle afstivende funktion bibeholdes.</p></td>
+</tr>
+<tr>
+<td>Blænding af én dør til primært trapperum ved sammenlægning af lejligheder på samme etage.</td>
+<td>Forudsætter bl.a., at der fortsat er adgang til mindst én dør til primært trapperum.</td>
+</tr>
+<tr>
+<td>Blænding af dør til sekundært trapperum ved sammenlægning af lejligheder på samme etage.</td>
+<td>Forudsætter bl.a., at der fortsat er adgang til mindst én dør til sekundært trapperum.</td>
+</tr>
+<tr>
+<td>Nedlæggelse af lyskasser.</td>
+<td>Forudsætter bl.a., at lyskasserne ikke er påkrævet af brandmæssige årsager, f.eks. røgudluftning.</td>
+</tr>
+</tbody>
+</table>
 
 [3](../eksempler-enfamiliehuse/)
 

@@ -25,39 +25,60 @@
 
 Tabel 6.2 indeholder forslag til projekteringsværdier for trafikstøj i hospitaler svarende til overholdelse af BR18's generelle bestemmelse i [§ 368, stk. 1](/tekniske-bestemmelser/17/krav/368/) om at "*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen",* samt supplerende vejledende grænseværdier for trafikstøj indendørs med åbne vinduer*.*
 
-+-----------------------------------------------------+-----------------------------------------------------+
-| **Hospitaler -- Tabel 6.2 Støj indendørs fra trafik -- Forslag til projekteringsværdier **                |
-+-----------------------------------------------------+-----------------------------------------------------+
-| **Rumtype**                                         | **Støjbelastning indendørs** ^1)^                   |
-|                                                     |                                                     |
-|                                                     | **fra veje og jernbaner**                           |
-+-----------------------------------------------------+-----------------------------------------------------+
-| Sengestuer, undersøgelses­rum, behandlingsrum,\      | *L*~den~ ≤ 33 dB\                                   |
-| operationsstuer, konsultationsrum                   | med lukkede vinduer                                 |
-+-----------------------------------------------------+-----------------------------------------------------+
-| Fællesarealer, TV-stue mv.                          | *L*~den~ ≤ 38 dB\                                   |
-|                                                     | med lukkede vinduer                                 |
-+-----------------------------------------------------+-----------------------------------------------------+
-| I kontorer og møderum                               | *L*~den~ ≤ 38 dB\                                   |
-|                                                     | med lukkede vinduer                                 |
-+-----------------------------------------------------+-----------------------------------------------------+
-| I videokonferencerum og auditorier                  | *L*~den~ ≤ 33 dB\                                   |
-|                                                     | med lukkede vinduer                                 |
-+-----------------------------------------------------+-----------------------------------------------------+
-| Kantine, receptionsareal mv.                        | *L*~den~ ≤ 38 dB\                                   |
-|                                                     | med lukkede vinduer                                 |
-+-----------------------------------------------------+-----------------------------------------------------+
-| Scannerrum, røntgenrum, fødestuer                   | *L*~den~ ≤ 38 dB\                                   |
-|                                                     | med lukkede vinduer                                 |
-+-----------------------------------------------------+-----------------------------------------------------+
-| Øvrige rum samt alle rum udsat for helikopterstøj   | Projektkrav ** ^2)^                                 |
-+-----------------------------------------------------+-----------------------------------------------------+
-| **Noter**                                                                                                 |
-|                                                                                                           |
-| 1\) Projekteringsværdierne gælder i møblerede rum.\                                                       |
-|                                                                                                           |
-| 2\) Der opstilles relevante projektkrav, der kan sikre tilfredsstillende lydforhold for rumanvendelsen.    |
-+-----------------------------------------------------------------------------------------------------------+
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><strong>Hospitaler – Tabel 6.2 Støj indendørs fra trafik – Forslag til projekteringsværdier </strong></td>
+</tr>
+<tr>
+<td><strong>Rumtype</strong></td>
+<td><p><strong>Støjbelastning indendørs</strong> <sup>1)</sup></p>
+<p><strong>fra veje og jernbaner</strong></p></td>
+</tr>
+<tr>
+<td colspan="2">Sengestuer, undersøgelses­rum, behandlingsrum,  | <em>L</em><sub>den</sub> ≤ 33 dB  | operationsstuer, konsultationsrum  | med lukkede vinduer</td>
+</tr>
+<tr>
+<td>Fællesarealer, TV-stue mv.</td>
+<td><em>L</em><sub>den</sub> ≤ 38 dB<br />
+med lukkede vinduer</td>
+</tr>
+<tr>
+<td>I kontorer og møderum</td>
+<td><em>L</em><sub>den</sub> ≤ 38 dB<br />
+med lukkede vinduer</td>
+</tr>
+<tr>
+<td>I videokonferencerum og auditorier</td>
+<td><em>L</em><sub>den</sub> ≤ 33 dB<br />
+med lukkede vinduer</td>
+</tr>
+<tr>
+<td>Kantine, receptionsareal mv.</td>
+<td><em>L</em><sub>den</sub> ≤ 38 dB<br />
+med lukkede vinduer</td>
+</tr>
+<tr>
+<td>Scannerrum, røntgenrum, fødestuer</td>
+<td><em>L</em><sub>den</sub> ≤ 38 dB<br />
+med lukkede vinduer</td>
+</tr>
+<tr>
+<td>Øvrige rum samt alle rum udsat for helikopterstøj</td>
+<td>Projektkrav ** <sup>2)</sup></td>
+</tr>
+<tr>
+<td colspan="2"><p><strong>Noter</strong></p>
+<p>1) Projekteringsværdierne gælder i møblerede rum.<br />
+</p>
+<p>2) Der opstilles relevante projektkrav, der kan sikre tilfredsstillende lydforhold for rumanvendelsen.</p></td>
+</tr>
+</tbody>
+</table>
 
 [6.3](../stoej-fra-tekniske-installationer-i-hospitaler-laegehuse-og-klinikker/)
 

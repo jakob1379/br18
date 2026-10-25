@@ -56,49 +56,114 @@ Til den enkelte byggesag følger en erklæring fra ansøger i forbindelse med f�
 
 Det indledende skridt i kommunens kontrol er at afklare, hvilke bestemmelser i bygningsreglementet den pågældende byggesag er omfattet af, når det drejer sig om tilgængelighed, samt brugergruppens sammensætning. I forbindelse med afklaring af, hvilke bestemmelser byggesagen er omfattet af, anvendes oversigtsnøglen i tabel 1. Oversigtsnøglen oplister de bestemmelser, der er relevante i forhold til fire overordnede bygningstyper, henholdsvis boligbebyggelse/boliger, offentligt tilgængelig bygninger, bygninger med arbejdspladser samt hotel, kro og lignende. De relevante bestemmelser er oplistet tematisk ud fra formålet med bestemmelserne, f.eks. at 'kunne komme frem til en funktion i en bygning' eller at 'kunne komme på toilettet'.
 
-+--------------------------------------------------------------+------------------------------+-----------------------------------+------------------------------+----------------------+
-|                                                              |                              | Offentligt tilgængelige bygninger | Bygninger med arbejdspladser | Hotel, kro og lign.  |
-|                                                              |                              |                                   |                              |                      |
-|                                                              | Boligbebyggelse / boliger    |                                   |                              |                      |
-+--------------------------------------------------------------+------------------------------+-----------------------------------+------------------------------+----------------------+
-|  Kunne komme frem til bygning/ opholdsareal/ parkeringsareal |  [§ 48](/tekniske-bestemmelser/02/krav/), [§ 49](/tekniske-bestemmelser/02/krav/)                  |  [§ 48](/tekniske-bestemmelser/02/krav/), [§ 49](/tekniske-bestemmelser/02/krav/)                       |  [§ 48](/tekniske-bestemmelser/02/krav/), [§ 49](/tekniske-bestemmelser/02/krav/)                  |  [§ 48](/tekniske-bestemmelser/02/krav/), [§ 49](/tekniske-bestemmelser/02/krav/)          |
-+--------------------------------------------------------------+------------------------------+-----------------------------------+------------------------------+----------------------+
-|                                                              | [§ 51](/tekniske-bestemmelser/02/krav/),                        |  [§ 51](/tekniske-bestemmelser/02/krav/), [§ 52](/tekniske-bestemmelser/02/krav/), § 53, [§ 54](/tekniske-bestemmelser/02/krav/)           | [§ 51](/tekniske-bestemmelser/02/krav/),                        | [§ 51](/tekniske-bestemmelser/02/krav/),                |
-|                                                              |                              |                                   |                              |                      |
-| Ind i bygning                                                | [§ 52](/tekniske-bestemmelser/02/krav/), § 53, [§ 54](/tekniske-bestemmelser/02/krav/)             |                                   | [§ 52](/tekniske-bestemmelser/02/krav/), § 53, [§ 54](/tekniske-bestemmelser/02/krav/)             | [§ 52](/tekniske-bestemmelser/02/krav/), § 53, [§ 54](/tekniske-bestemmelser/02/krav/)     |
-+--------------------------------------------------------------+------------------------------+-----------------------------------+------------------------------+----------------------+
-|                                                              | (frem til bolig),            | [§ 55](/tekniske-bestemmelser/02/krav/),                             | [§ 55](/tekniske-bestemmelser/02/krav/), § 56, [§ 57](/tekniske-bestemmelser/02/krav/),            | [§ 55](/tekniske-bestemmelser/02/krav/), § 56, [§ 57](/tekniske-bestemmelser/02/krav/),    |
-|                                                              |                              |                                   |                              |                      |
-| Kunne komme frem til funktion                                | [§ 55](/tekniske-bestemmelser/02/krav/),                        | § 56, [§ 57](/tekniske-bestemmelser/02/krav/), [§ 58](/tekniske-bestemmelser/02/krav/),                 | [§ 58](/tekniske-bestemmelser/02/krav/), § 59, § 60,            | [§ 58](/tekniske-bestemmelser/02/krav/), § 59,          |
-|                                                              |                              |                                   |                              |                      |
-|                                                              | § 56, [§ 57](/tekniske-bestemmelser/02/krav/), [§ 58](/tekniske-bestemmelser/02/krav/),            | § 59, § 60,                       | § 61                         | § 60,                |
-|                                                              |                              |                                   |                              |                      |
-|                                                              | § 59, § 60, § 61             | § 61, § 62                        |                              | § 61                 |
-|                                                              |                              |                                   |                              |                      |
-|                                                              |                              |                                   |                              | [§ 232](/tekniske-bestemmelser/09/krav/)                |
-+--------------------------------------------------------------+------------------------------+-----------------------------------+------------------------------+----------------------+
-|                                                              | [§ 242](/tekniske-bestemmelser/10/krav/), § 244, [§ 245](/tekniske-bestemmelser/10/krav/), § 246   |                                   |                              |  [§ 242](/tekniske-bestemmelser/10/krav/), § 244, § 246 |
-|                                                              |                              |                                   |                              |                      |
-| Kunne tage elevator                                          | Ombygning/ tilbygning: § 247 | [§ 242](/tekniske-bestemmelser/10/krav/), § 244, § 246               | [§ 242](/tekniske-bestemmelser/10/krav/), § 244, § 246          |                      |
-+--------------------------------------------------------------+------------------------------+-----------------------------------+------------------------------+----------------------+
-|  Kunne benytte brugerbetjente anlæg                          |  [§ 159](/tekniske-bestemmelser/06/krav/), [§ 160](/tekniske-bestemmelser/06/krav/)                |  [§ 159](/tekniske-bestemmelser/06/krav/), [§ 160](/tekniske-bestemmelser/06/krav/)                     |  [§ 159](/tekniske-bestemmelser/06/krav/), [§ 160](/tekniske-bestemmelser/06/krav/)                |  [§ 159](/tekniske-bestemmelser/06/krav/), [§ 160](/tekniske-bestemmelser/06/krav/)        |
-+--------------------------------------------------------------+------------------------------+-----------------------------------+------------------------------+----------------------+
-|  Kunne komme på toilettet                                    |  § 204                       |  [§ 214](/tekniske-bestemmelser/09/krav/), § 215, § 216              | [§ 223](/tekniske-bestemmelser/09/krav/)                        | § 233                |
-|                                                              |                              |                                   |                              |                      |
-|                                                              |                              |                                   | § 224                        | § 234, § 235,        |
-|                                                              |                              |                                   |                              |                      |
-|                                                              |                              |                                   |                              | § 236                |
-+--------------------------------------------------------------+------------------------------+-----------------------------------+------------------------------+----------------------+
-|  Kunne forsamles                                             |                              | § 217, § 218                      |                              |                      |
-|                                                              |                              |                                   |                              |                      |
-|                                                              |                              | § 220                             |                              |                      |
-+--------------------------------------------------------------+------------------------------+-----------------------------------+------------------------------+----------------------+
-|  Kunne benytte altan ved hotelværelse                        |                              |                                   |                              |  § 237               |
-+--------------------------------------------------------------+------------------------------+-----------------------------------+------------------------------+----------------------+
-|  Kunne parkere                                               |  [§ 399](/tekniske-bestemmelser/20/krav/399_402/), [§ 401](/tekniske-bestemmelser/20/krav/399_402/)                |  [§ 399](/tekniske-bestemmelser/20/krav/399_402/), [§ 401](/tekniske-bestemmelser/20/krav/399_402/)                     |  [§ 399](/tekniske-bestemmelser/20/krav/399_402/), [§ 401](/tekniske-bestemmelser/20/krav/399_402/)                |  [§ 399](/tekniske-bestemmelser/20/krav/399_402/), [§ 401](/tekniske-bestemmelser/20/krav/399_402/)        |
-+--------------------------------------------------------------+------------------------------+-----------------------------------+------------------------------+----------------------+
-|  Kunne aflevere affald                                       |  [§ 65](/tekniske-bestemmelser/03/krav/), [§ 397](/tekniske-bestemmelser/20/krav/395_398/)                 |  [§ 65](/tekniske-bestemmelser/03/krav/), [§ 397](/tekniske-bestemmelser/20/krav/395_398/)                      |  [§ 65](/tekniske-bestemmelser/03/krav/), [§ 397](/tekniske-bestemmelser/20/krav/395_398/)                 |  [§ 65](/tekniske-bestemmelser/03/krav/), [§ 397](/tekniske-bestemmelser/20/krav/395_398/)         |
-+--------------------------------------------------------------+------------------------------+-----------------------------------+------------------------------+----------------------+
+<table style="width:99%;">
+<colgroup>
+<col style="width: 12%" />
+<col style="width: 20%" />
+<col style="width: 26%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr>
+<td></td>
+<td>Boligbebyggelse / boliger</td>
+<td>Offentligt tilgængelige bygninger</td>
+<td>Bygninger med arbejdspladser</td>
+<td>Hotel, kro og lign.</td>
+</tr>
+<tr>
+<td> Kunne komme frem til bygning/ opholdsareal/ parkeringsareal</td>
+<td> <a href="/tekniske-bestemmelser/02/krav/">§ 48</a>, <a href="/tekniske-bestemmelser/02/krav/">§ 49</a></td>
+<td> <a href="/tekniske-bestemmelser/02/krav/">§ 48</a>, <a href="/tekniske-bestemmelser/02/krav/">§ 49</a></td>
+<td> <a href="/tekniske-bestemmelser/02/krav/">§ 48</a>, <a href="/tekniske-bestemmelser/02/krav/">§ 49</a></td>
+<td> <a href="/tekniske-bestemmelser/02/krav/">§ 48</a>, <a href="/tekniske-bestemmelser/02/krav/">§ 49</a></td>
+</tr>
+<tr>
+<td>Ind i bygning</td>
+<td><p><a href="/tekniske-bestemmelser/02/krav/">§ 51</a>,</p>
+<p><a href="/tekniske-bestemmelser/02/krav/">§ 52</a>, § 53, <a href="/tekniske-bestemmelser/02/krav/">§ 54</a></p></td>
+<td> <a href="/tekniske-bestemmelser/02/krav/">§ 51</a>, <a href="/tekniske-bestemmelser/02/krav/">§ 52</a>, § 53, <a href="/tekniske-bestemmelser/02/krav/">§ 54</a></td>
+<td><p><a href="/tekniske-bestemmelser/02/krav/">§ 51</a>,</p>
+<p><a href="/tekniske-bestemmelser/02/krav/">§ 52</a>, § 53, <a href="/tekniske-bestemmelser/02/krav/">§ 54</a></p></td>
+<td><p><a href="/tekniske-bestemmelser/02/krav/">§ 51</a>,</p>
+<p><a href="/tekniske-bestemmelser/02/krav/">§ 52</a>, § 53, <a href="/tekniske-bestemmelser/02/krav/">§ 54</a></p></td>
+</tr>
+<tr>
+<td>Kunne komme frem til funktion</td>
+<td><p>(frem til bolig),</p>
+<p><a href="/tekniske-bestemmelser/02/krav/">§ 55</a>,</p>
+<p>§ 56, <a href="/tekniske-bestemmelser/02/krav/">§ 57</a>, <a href="/tekniske-bestemmelser/02/krav/">§ 58</a>,</p>
+<p>§ 59, § 60, § 61</p></td>
+<td><p><a href="/tekniske-bestemmelser/02/krav/">§ 55</a>,</p>
+<p>§ 56, <a href="/tekniske-bestemmelser/02/krav/">§ 57</a>, <a href="/tekniske-bestemmelser/02/krav/">§ 58</a>,</p>
+<p>§ 59, § 60,</p>
+<p>§ 61, § 62</p></td>
+<td><p><a href="/tekniske-bestemmelser/02/krav/">§ 55</a>, § 56, <a href="/tekniske-bestemmelser/02/krav/">§ 57</a>,</p>
+<p><a href="/tekniske-bestemmelser/02/krav/">§ 58</a>, § 59, § 60,</p>
+<p>§ 61</p></td>
+<td><p><a href="/tekniske-bestemmelser/02/krav/">§ 55</a>, § 56, <a href="/tekniske-bestemmelser/02/krav/">§ 57</a>,</p>
+<p><a href="/tekniske-bestemmelser/02/krav/">§ 58</a>, § 59,</p>
+<p>§ 60,</p>
+<p>§ 61</p>
+<p><a href="/tekniske-bestemmelser/09/krav/">§ 232</a></p></td>
+</tr>
+<tr>
+<td>Kunne tage elevator</td>
+<td><p><a href="/tekniske-bestemmelser/10/krav/">§ 242</a>, § 244, <a href="/tekniske-bestemmelser/10/krav/">§ 245</a>, § 246</p>
+<p>Ombygning/ tilbygning: § 247</p></td>
+<td><a href="/tekniske-bestemmelser/10/krav/">§ 242</a>, § 244, § 246</td>
+<td><a href="/tekniske-bestemmelser/10/krav/">§ 242</a>, § 244, § 246</td>
+<td> <a href="/tekniske-bestemmelser/10/krav/">§ 242</a>, § 244, § 246</td>
+</tr>
+<tr>
+<td> Kunne benytte brugerbetjente anlæg</td>
+<td> <a href="/tekniske-bestemmelser/06/krav/">§ 159</a>, <a href="/tekniske-bestemmelser/06/krav/">§ 160</a></td>
+<td> <a href="/tekniske-bestemmelser/06/krav/">§ 159</a>, <a href="/tekniske-bestemmelser/06/krav/">§ 160</a></td>
+<td> <a href="/tekniske-bestemmelser/06/krav/">§ 159</a>, <a href="/tekniske-bestemmelser/06/krav/">§ 160</a></td>
+<td> <a href="/tekniske-bestemmelser/06/krav/">§ 159</a>, <a href="/tekniske-bestemmelser/06/krav/">§ 160</a></td>
+</tr>
+<tr>
+<td> Kunne komme på toilettet</td>
+<td> § 204</td>
+<td> <a href="/tekniske-bestemmelser/09/krav/">§ 214</a>, § 215, § 216</td>
+<td><p><a href="/tekniske-bestemmelser/09/krav/">§ 223</a></p>
+<p>§ 224</p></td>
+<td><p>§ 233</p>
+<p>§ 234, § 235,</p>
+<p>§ 236</p></td>
+</tr>
+<tr>
+<td> Kunne forsamles</td>
+<td></td>
+<td><p>§ 217, § 218</p>
+<p>§ 220</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td> Kunne benytte altan ved hotelværelse</td>
+<td></td>
+<td></td>
+<td></td>
+<td> § 237</td>
+</tr>
+<tr>
+<td> Kunne parkere</td>
+<td> <a href="/tekniske-bestemmelser/20/krav/399_402/">§ 399</a>, <a href="/tekniske-bestemmelser/20/krav/399_402/">§ 401</a></td>
+<td> <a href="/tekniske-bestemmelser/20/krav/399_402/">§ 399</a>, <a href="/tekniske-bestemmelser/20/krav/399_402/">§ 401</a></td>
+<td> <a href="/tekniske-bestemmelser/20/krav/399_402/">§ 399</a>, <a href="/tekniske-bestemmelser/20/krav/399_402/">§ 401</a></td>
+<td> <a href="/tekniske-bestemmelser/20/krav/399_402/">§ 399</a>, <a href="/tekniske-bestemmelser/20/krav/399_402/">§ 401</a></td>
+</tr>
+<tr>
+<td> Kunne aflevere affald</td>
+<td> <a href="/tekniske-bestemmelser/03/krav/">§ 65</a>, <a href="/tekniske-bestemmelser/20/krav/395_398/">§ 397</a></td>
+<td> <a href="/tekniske-bestemmelser/03/krav/">§ 65</a>, <a href="/tekniske-bestemmelser/20/krav/395_398/">§ 397</a></td>
+<td> <a href="/tekniske-bestemmelser/03/krav/">§ 65</a>, <a href="/tekniske-bestemmelser/20/krav/395_398/">§ 397</a></td>
+<td> <a href="/tekniske-bestemmelser/03/krav/">§ 65</a>, <a href="/tekniske-bestemmelser/20/krav/395_398/">§ 397</a></td>
+</tr>
+</tbody>
+</table>
 
 Tabel 1.: Oversigtsnøgle, der viser relevante bestemmelser i bygningsreglementet i forhold til de fire overordnede bygningstyper boligbebyggelse/boliger, offentligt tilgængelige bygninger, bygninger med arbejdspladser samt hotel, kro og lignende.
 
@@ -144,35 +209,49 @@ Det er ansøgers opgave selv at vurdere, hvorledes byggeprojektet dokumenteres. 
 
 Tabel 2. uddyber de enkelte temaer. En kombination af tekst, tegninger, diagrammer og oversigtsplaner anbefales til udarbejdelse af beskrivelserne, som tilsammen danner den samlede dokumentation.
 
-+----------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|  **Tema**                                                                                                      |  **Anbefaling til dokumentation**                                                                                                                                                                                                                                                                                                                                                              |
-+----------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|  Byggeriets idé                                                                                                |  En beskrivelse af, hvordan intentionen om ligeværdighed i adgangsforhold og indretning i bygningsreglementets bestemmelser er tolket og indarbejdet i byggeprojektet på et overordnet niveau. Det gælder f.eks. principper for placering af bygning på grunden, disponering af bygning og way-finding.   Det betyder, at sammenhængen mellem intentionen og det, som er bygget, dokumenteres. |
-+----------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|  Brugerkarakteristik                                                                                           |  En karakteristik af brugergruppens sammensætning ift. bygningens anvendelse og funktion og en beskrivelse af, hvordan brugernes behov er indarbejdet i byggeriets idé.                                                                                                                                                                                                                        |
-+----------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|  Hvorledes bygningen understøtter bevægelse frem til, ind i og gennem bygningen frem til bygningens funktioner | > • Beskrivelse af, hvorledes bygningen understøtter bevægelsen frem til bygningen, ind i bygningen og frem til bygningens funktioner for de forskellige brugere i relation til deres behov.                                                                                                                                                                                                   |
-|                                                                                                                | >                                                                                                                                                                                                                                                                                                                                                                                              |
-|                                                                                                                | > • En detaljeret gennemgang af de forskellige bygningsfysiske forhold og elementer i relation til bygningsreglementets bestemmelser (se evt. tabel 1). Det gælder f.eks. belysning, belægning, ramper, trapper og elevatorer.                                                                                                                                                                 |
-|                                                                                                                | >                                                                                                                                                                                                                                                                                                                                                                                              |
-|                                                                                                                | > • Hvis en løsning går igen flere steder i byggesagen, kan der indsendes dokumentation for denne løsning samt beskrivelse af, hvor den optræder i byggesagen.                                                                                                                                                                                                                                 |
-|                                                                                                                | >                                                                                                                                                                                                                                                                                                                                                                                              |
-|                                                                                                                | > • Hvis der f.eks. er tale om forskellige typer af trapper, skal hver enkelt trappetype dokumenteres, og forskelle skal fremgå tydeligt.                                                                                                                                                                                                                                                      |
-+----------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| >  Funktionalitet og brugsværdi -- konkrete løsninger                                                          | > • Beskrivelse af, hvorledes brugerbetjente anlæg kan betjenes ved egen hjælp.                                                                                                                                                                                                                                                                                                                |
-|                                                                                                                | >                                                                                                                                                                                                                                                                                                                                                                                              |
-|                                                                                                                | > • Beskrivelse af wc-rums størrelse og placering (kun ved boliger).                                                                                                                                                                                                                                                                                                                           |
-|                                                                                                                | >                                                                                                                                                                                                                                                                                                                                                                                              |
-|                                                                                                                | > • Beskrivelse af toiletfacilitet (opfyldelsen af de otte delkrav i bygningsreglementet) samt information i oversigtsplaner/diagrammatisk oversigtsplan om placering og antal.                                                                                                                                                                                                                |
-|                                                                                                                | >                                                                                                                                                                                                                                                                                                                                                                                              |
-|                                                                                                                | > • Beskrivelse af forsamlingslokale, herunder information om teleslyngeanlæg samt antal og placering af pladser til personer med særlige pladsbehov.                                                                                                                                                                                                                                          |
-|                                                                                                                | >                                                                                                                                                                                                                                                                                                                                                                                              |
-|                                                                                                                | > • Beskrivelse af hotelværelse med badeværelse (opfyldelsen af de otte delkrav i bygningsreglementet), samt information om antal og placering.                                                                                                                                                                                                                                                |
-|                                                                                                                | >                                                                                                                                                                                                                                                                                                                                                                                              |
-|                                                                                                                | > • Beskrivelse af parkeringsareal med information om og begrundelse for antal pladser til handicapegnede køretøjer samt deres placering.                                                                                                                                                                                                                                                      |
-|                                                                                                                | >                                                                                                                                                                                                                                                                                                                                                                                              |
-|                                                                                                                | > • Beskrivelse af hvorledes affaldssystemer kan betjenes ved egen hjælp.                                                                                                                                                                                                                                                                                                                      |
-+----------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+<table>
+<colgroup>
+<col style="width: 22%" />
+<col style="width: 77%" />
+</colgroup>
+<tbody>
+<tr>
+<td> <strong>Tema</strong></td>
+<td> <strong>Anbefaling til dokumentation</strong></td>
+</tr>
+<tr>
+<td> Byggeriets idé</td>
+<td> En beskrivelse af, hvordan intentionen om ligeværdighed i adgangsforhold og indretning i bygningsreglementets bestemmelser er tolket og indarbejdet i byggeprojektet på et overordnet niveau. Det gælder f.eks. principper for placering af bygning på grunden, disponering af bygning og way-finding.   Det betyder, at sammenhængen mellem intentionen og det, som er bygget, dokumenteres.</td>
+</tr>
+<tr>
+<td> Brugerkarakteristik</td>
+<td> En karakteristik af brugergruppens sammensætning ift. bygningens anvendelse og funktion og en beskrivelse af, hvordan brugernes behov er indarbejdet i byggeriets idé.</td>
+</tr>
+<tr>
+<td> Hvorledes bygningen understøtter bevægelse frem til, ind i og gennem bygningen frem til bygningens funktioner</td>
+<td><blockquote>
+<p>• Beskrivelse af, hvorledes bygningen understøtter bevægelsen frem til bygningen, ind i bygningen og frem til bygningens funktioner for de forskellige brugere i relation til deres behov.</p>
+<p>• En detaljeret gennemgang af de forskellige bygningsfysiske forhold og elementer i relation til bygningsreglementets bestemmelser (se evt. tabel 1). Det gælder f.eks. belysning, belægning, ramper, trapper og elevatorer.</p>
+<p>• Hvis en løsning går igen flere steder i byggesagen, kan der indsendes dokumentation for denne løsning samt beskrivelse af, hvor den optræder i byggesagen.</p>
+<p>• Hvis der f.eks. er tale om forskellige typer af trapper, skal hver enkelt trappetype dokumenteres, og forskelle skal fremgå tydeligt.</p>
+</blockquote></td>
+</tr>
+<tr>
+<td><blockquote>
+<p> Funktionalitet og brugsværdi – konkrete løsninger</p>
+</blockquote></td>
+<td><blockquote>
+<p>• Beskrivelse af, hvorledes brugerbetjente anlæg kan betjenes ved egen hjælp.</p>
+<p>• Beskrivelse af wc-rums størrelse og placering (kun ved boliger).</p>
+<p>• Beskrivelse af toiletfacilitet (opfyldelsen af de otte delkrav i bygningsreglementet) samt information i oversigtsplaner/diagrammatisk oversigtsplan om placering og antal.</p>
+<p>• Beskrivelse af forsamlingslokale, herunder information om teleslyngeanlæg samt antal og placering af pladser til personer med særlige pladsbehov.</p>
+<p>• Beskrivelse af hotelværelse med badeværelse (opfyldelsen af de otte delkrav i bygningsreglementet), samt information om antal og placering.</p>
+<p>• Beskrivelse af parkeringsareal med information om og begrundelse for antal pladser til handicapegnede køretøjer samt deres placering.</p>
+<p>• Beskrivelse af hvorledes affaldssystemer kan betjenes ved egen hjælp.</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
 
 Tabel 2.: Anbefaling om dokumentation og dens indhold.
 

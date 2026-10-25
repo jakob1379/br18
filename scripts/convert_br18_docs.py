@@ -17,6 +17,8 @@ from urllib.parse import parse_qsl, urlsplit, urlunsplit
 
 SITE_HOSTS = {"www.bygningsreglementet.dk", "bygningsreglementet.dk"}
 QUERY_ALIAS_RE = re.compile(r"__q_[0-9a-f]+(?=\.[^.]+$)")
+TABLE_BLOCK_RE = re.compile(r"^<table\b[^>]*>$.*?^</table>$|^\|[^\n]*(?:\n\|[^\n]*)*", re.MULTILINE | re.DOTALL)
+TABLE_TOKEN_RE = re.compile(r"BR18TABLE(\d+)")
 
 DROP_TAGS = {
     "footer",
@@ -681,7 +683,14 @@ def convert_file(path: Path, docs_root: Path, delete_html: bool) -> bool:
     cleaned = cleaner.clean(html_text)
 
     proc = subprocess.run(
-        ["pandoc", "--from", "html", "--to", "markdown", "--wrap=none"],
+        [
+            "pandoc",
+            "--from",
+            "html",
+            "--to",
+            "markdown-grid_tables-simple_tables-multiline_tables",
+            "--wrap=none",
+        ],
         input=cleaned,
         text=True,
         capture_output=True,
@@ -698,6 +707,14 @@ def convert_file(path: Path, docs_root: Path, delete_html: bool) -> bool:
     markdown = fix_empty_english_version_links(markdown)
     markdown = normalize_media_alias_links(markdown)
     markdown = normalize_duplicate_uuid_fragments(markdown)
+    # The prose passes below split "1)" items and rewrite lines, which breaks table rows.
+    tables: list[str] = []
+
+    def stash_table(match: re.Match[str]) -> str:
+        tables.append(match.group(0))
+        return f"BR18TABLE{len(tables) - 1}"
+
+    markdown = TABLE_BLOCK_RE.sub(stash_table, markdown)
     markdown = normalize_markdown_linebreak_artifacts(markdown)
     markdown = attach_anchor_reference_ids(markdown)
     for _ in range(4):
@@ -706,6 +723,7 @@ def convert_file(path: Path, docs_root: Path, delete_html: bool) -> bool:
             break
         markdown = promoted
     markdown = escape_unresolved_reference_labels(markdown)
+    markdown = TABLE_TOKEN_RE.sub(lambda m: tables[int(m.group(1))], markdown)
     if output.parent == path:
         if not delete_html:
             raise RuntimeError(f"cannot keep extensionless route HTML while writing {output}")

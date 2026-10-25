@@ -2,187 +2,423 @@
 
 ## Tabel 1 - Generelle mindstekrav til klimaskærm
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+
-| **Bygningsdel**                                                                                                                                                                                                                                                   | **U-værdi \[W/m²K\]**             |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+
-| Ydervægge og kældervægge mod jord                                                                                                                                                                                                                                 | 0,30                              |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+
-| Etageadskillelser og skillevægge mod rum, hvor temperaturforskellen mellem rummene er 5 °C eller mere                                                                                                                                                             | 0,40                              |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+
-| Terrændæk, kældergulve mod jord og etageadskillelser over det fri eller ventileret kryberum                                                                                                                                                                       | 0,20                              |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+
-| Etageadskillelser under gulve med gulvvarme mod rum, der er opvarmede                                                                                                                                                                                             | 0,50                              |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+
-| Loft- og tagkonstruktioner, herunder skunkvægge, flade tage og skråvægge direkte mod tag                                                                                                                                                                          | 0,20                              |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+
-| Yderdøre                                                                                                                                                                                                                                                          | 1,0                               |
-|                                                                                                                                                                                                                                                                   |                                   |
-| Yderdøre med funktionskrav                                                                                                                                                                                                                                        | 1,4                               |
-|                                                                                                                                                                                                                                                                   |                                   |
-| Referencestørrelse er 1,23 m x 2,18 m                                                                                                                                                                                                                             |                                   |
-|                                                                                                                                                                                                                                                                   |                                   |
-| Et tilknyttet funktionskrav er brandmodstand, sikring af en flugtvej, personsikkerhed (hvor underkanten af glasfeltet er placeret lavere end 800 mm fra gulv), indbrudshæmning større end modstandsklasse EN 1627/RC3 eller en øget lydreduktion større end 35 dB |                                   |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+
-| For porte og lemme mod det fri eller mod rum, der er uopvarmede samt glasvægge og vinduer mod rum opvarmet til en temperatur, hvor temperaturforskellen mellem rummene er 5 °C eller mere                                                                         | 1,8                               |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+
-| Ovenlyskupler                                                                                                                                                                                                                                                     | 1,4                               |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+
-| Isolerede partier i glasydervægge. Kravet er til center-U-værdi                                                                                                                                                                                                   | 0,60                              |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+
-| Etageadskillelser og vægge mod fryserum                                                                                                                                                                                                                           | 0,15                              |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+
-| Etageadskillelser og vægge mod kølerum                                                                                                                                                                                                                            | 0,25                              |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+
-| Skyde- og foldedøre.\                                                                                                                                                                                                                                             | 1,0                               |
-| Alternativt en energibalance på mindst 0 kWh/m² pr. år. Beregningsmetode for energibalance skal følge § 258, stk. 1. Der kan anvendes funktionsglas, svarende til § 258, stk. 1, nr. 3\                                                                           |                                   |
-| \                                                                                                                                                                                                                                                                 |                                   |
-| Referencestørrelse er 2,50 m x 2,18 m i henholdsvis 2 og 3 fag\                                                                                                                                                                                                   |                                   |
-| \                                                                                                                                                                                                                                                                 |                                   |
-| \                                                                                                                                                                                                                                                                 |                                   |
-| Automatiske skyde- og foldedøre eller skyde- og foldedøre med funktionskrav.\                                                                                                                                                                                     |  \                                |
-| \                                                                                                                                                                                                                                                                 | \                                 |
-| Et tilknyttet funktionskrav er brandmodstand, sikring af en flugtvej, personsikkerhed (hvor underkanten af glasfeltet er placeret lavere end 800 mm fra gulv), indbrudshæmning større end modstandsklasse EN 1627/RC3 eller en øget lydreduktion større end 35 dB |                                   |
-|                                                                                                                                                                                                                                                                   | 1,4                               |
-|                                                                                                                                                                                                                                                                   |                                   |
-|                                                                                                                                                                                                                                                                   |                                   |
-|                                                                                                                                                                                                                                                                   |                                   |
-|                                                                                                                                                                                                                                                                   |                                   |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+
-| Lystunneler eller lignende                                                                                                                                                                                                                                        | 2,0                               |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+
+<table>
+<colgroup>
+<col style="width: 87%" />
+<col style="width: 12%" />
+</colgroup>
+<tbody>
+<tr>
+<td><strong>Bygningsdel</strong></td>
+<td><strong>U-værdi [W/m²K]</strong></td>
+</tr>
+<tr>
+<td>Ydervægge og kældervægge mod jord</td>
+<td>0,30</td>
+</tr>
+<tr>
+<td>Etageadskillelser og skillevægge mod rum, hvor temperaturforskellen mellem rummene er 5 °C eller mere</td>
+<td>0,40</td>
+</tr>
+<tr>
+<td>Terrændæk, kældergulve mod jord og etageadskillelser over det fri eller ventileret kryberum</td>
+<td>0,20</td>
+</tr>
+<tr>
+<td>Etageadskillelser under gulve med gulvvarme mod rum, der er opvarmede</td>
+<td>0,50</td>
+</tr>
+<tr>
+<td>Loft- og tagkonstruktioner, herunder skunkvægge, flade tage og skråvægge direkte mod tag</td>
+<td>0,20</td>
+</tr>
+<tr>
+<td><p>Yderdøre</p>
+<p>Yderdøre med funktionskrav</p>
+<p>Referencestørrelse er 1,23 m x 2,18 m</p>
+<p>Et tilknyttet funktionskrav er brandmodstand, sikring af en flugtvej, personsikkerhed (hvor underkanten af glasfeltet er placeret lavere end 800 mm fra gulv), indbrudshæmning større end modstandsklasse EN 1627/RC3 eller en øget lydreduktion større end 35 dB</p></td>
+<td><p>1,0</p>
+<p>1,4</p></td>
+</tr>
+<tr>
+<td>For porte og lemme mod det fri eller mod rum, der er uopvarmede samt glasvægge og vinduer mod rum opvarmet til en temperatur, hvor temperaturforskellen mellem rummene er 5 °C eller mere</td>
+<td>1,8</td>
+</tr>
+<tr>
+<td>Ovenlyskupler</td>
+<td>1,4</td>
+</tr>
+<tr>
+<td>Isolerede partier i glasydervægge. Kravet er til center-U-værdi</td>
+<td>0,60</td>
+</tr>
+<tr>
+<td>Etageadskillelser og vægge mod fryserum</td>
+<td>0,15</td>
+</tr>
+<tr>
+<td>Etageadskillelser og vægge mod kølerum</td>
+<td>0,25</td>
+</tr>
+<tr>
+<td>Skyde- og foldedøre.<br />
+Alternativt en energibalance på mindst 0 kWh/m² pr. år. Beregningsmetode for energibalance skal følge § 258, stk. 1. Der kan anvendes funktionsglas, svarende til § 258, stk. 1, nr. 3<br />
+<br />
+Referencestørrelse er 2,50 m x 2,18 m i henholdsvis 2 og 3 fag<br />
+<br />
+<br />
+Automatiske skyde- og foldedøre eller skyde- og foldedøre med funktionskrav.<br />
+<br />
+Et tilknyttet funktionskrav er brandmodstand, sikring af en flugtvej, personsikkerhed (hvor underkanten af glasfeltet er placeret lavere end 800 mm fra gulv), indbrudshæmning større end modstandsklasse EN 1627/RC3 eller en øget lydreduktion større end 35 dB</td>
+<td><p>1,0</p>
+<p> <br />
+<br />
+</p>
+<p>1,4</p></td>
+</tr>
+<tr>
+<td>Lystunneler eller lignende</td>
+<td>2,0</td>
+</tr>
+</tbody>
+</table>
 
-  ---------------------------------------------------------------------- -----------------------
-  **Bygningsdel**                                                        **Linjetab \[W/mK\]**
-  Fundamenter omkring rum, der opvarmes til mindst 5 °C                  0,40
-  Samling mellem ydervæg og vinduer eller yderdøre, porte og lemme       0,06
-  Samling mellem tagkonstruktion og ovenlysvinduer eller ovenlyskupler   0,20
-  ---------------------------------------------------------------------- -----------------------
+|  |  |
+|:---|:---|
+| **Bygningsdel** | **Linjetab \[W/mK\]** |
+| Fundamenter omkring rum, der opvarmes til mindst 5 °C | 0,40 |
+| Samling mellem ydervæg og vinduer eller yderdøre, porte og lemme | 0,06 |
+| Samling mellem tagkonstruktion og ovenlysvinduer eller ovenlyskupler | 0,20 |
 
  
 
 ## Tabel 2 - Mindstekrav til klimaskærm ved ændret anvendelse og tilbygninger
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------+-------------------------------------+
-| **Bygningsdel**\                                                                                                                                  | **U-værdi\[W/m²K\]**                                              |
-+---------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------+-------------------------------------+
-| Rum opvarmet til                                                                                                                                  | Rum opvarmet til T \> 15 °C | Rum opvarmet til 5 °C \< T \< 15 °C |
-+---------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------+-------------------------------------+
-| Ydervægge og kældervægge mod jord                                                                                                                 | 0,15                        | 0,25                                |
-+---------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------+-------------------------------------+
-| Etageadskillelser og skillevægge mod rum, hvor temperaturforskellen mellem rummene er 5 °C eller mere                                             | 0,40                        | 0,40                                |
-+---------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------+-------------------------------------+
-| Terrændæk, kældergulve mod jord og etageadskillelser over det fri eller ventileret kryberum                                                       | 0,10                        | 0,15\                               |
-+---------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------+-------------------------------------+
-| Loft- og tagkonstruktioner, herunder skunkvægge, flade tage og skråvægge direkte mod tag\                                                         | 0,12                        | 0,15\                               |
-+---------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------+-------------------------------------+
-| Porte\                                                                                                                                            | 1,8\                        | 1,8\                                |
-+---------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------+-------------------------------------+
-| Lemme mod det fri eller mod rum, hvor temperaturforskellen mellem rummene er 5 °C eller mere (gælder ikke ventilationsåbninger på under 500 cm²)\ | 1,4\                        | 1,5\                                |
-+---------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------+-------------------------------------+
-| Ovenlyskupler\                                                                                                                                    | 1,4                         | 1,8                                 |
-+---------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------+-------------------------------------+
-| Lystunneler eller lignende                                                                                                                        | 2,0                         | 2,0                                 |
-+---------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------+-------------------------------------+
+<table style="width:100%;">
+<colgroup>
+<col style="width: 68%" />
+<col style="width: 13%" />
+<col style="width: 17%" />
+</colgroup>
+<tbody>
+<tr>
+<td><strong>Bygningsdel</strong><br />
+</td>
+<td colspan="2"><strong>U-værdi[W/m²K]</strong></td>
+</tr>
+<tr>
+<td>Rum opvarmet til</td>
+<td>Rum opvarmet til T &gt; 15 °C</td>
+<td>Rum opvarmet til 5 °C &lt; T &lt; 15 °C</td>
+</tr>
+<tr>
+<td>Ydervægge og kældervægge mod jord</td>
+<td>0,15</td>
+<td>0,25</td>
+</tr>
+<tr>
+<td>Etageadskillelser og skillevægge mod rum, hvor temperaturforskellen mellem rummene er 5 °C eller mere</td>
+<td>0,40</td>
+<td>0,40</td>
+</tr>
+<tr>
+<td>Terrændæk, kældergulve mod jord og etageadskillelser over det fri eller ventileret kryberum</td>
+<td>0,10</td>
+<td>0,15<br />
+</td>
+</tr>
+<tr>
+<td>Loft- og tagkonstruktioner, herunder skunkvægge, flade tage og skråvægge direkte mod tag<br />
+</td>
+<td>0,12</td>
+<td>0,15<br />
+</td>
+</tr>
+<tr>
+<td>Porte<br />
+</td>
+<td>1,8<br />
+</td>
+<td>1,8<br />
+</td>
+</tr>
+<tr>
+<td>Lemme mod det fri eller mod rum, hvor temperaturforskellen mellem rummene er 5 °C eller mere (gælder ikke ventilationsåbninger på under 500 cm²)<br />
+</td>
+<td>1,4<br />
+</td>
+<td>1,5<br />
+</td>
+</tr>
+<tr>
+<td>Ovenlyskupler<br />
+</td>
+<td>1,4</td>
+<td>1,8</td>
+</tr>
+<tr>
+<td>Lystunneler eller lignende</td>
+<td>2,0</td>
+<td>2,0</td>
+</tr>
+</tbody>
+</table>
 
-+----------------------------------------------------------------------+-------------------------+-------------------------+
-| **Bygningsdel**                                                      | **LinjetabW/mK**                                  |
-+----------------------------------------------------------------------+-------------------------+-------------------------+
-| Fundamenter\                                                         | 0,12\                   | 0,20\                   |
-+----------------------------------------------------------------------+-------------------------+-------------------------+
-| Samling mellem ydervæg og vinduer eller yderdøre, porte og lemme     | 0,03\                   | 0,03                    |
-+----------------------------------------------------------------------+-------------------------+-------------------------+
-| Samling mellem tagkonstruktion og ovenlysvinduer eller ovenlyskupler | 0,10\                   | 0,10\                   |
-+----------------------------------------------------------------------+-------------------------+-------------------------+
+<table style="width:99%;">
+<colgroup>
+<col style="width: 57%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr>
+<td><strong>Bygningsdel</strong></td>
+<td colspan="2"><strong>LinjetabW/mK</strong></td>
+</tr>
+<tr>
+<td>Fundamenter<br />
+</td>
+<td>0,12<br />
+</td>
+<td>0,20<br />
+</td>
+</tr>
+<tr>
+<td>Samling mellem ydervæg og vinduer eller yderdøre, porte og lemme</td>
+<td>0,03<br />
+</td>
+<td>0,03</td>
+</tr>
+<tr>
+<td>Samling mellem tagkonstruktion og ovenlysvinduer eller ovenlyskupler</td>
+<td>0,10<br />
+</td>
+<td>0,10<br />
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Tabel 3 - Mindstekrav til klimaskærm ved ombygninger og andre forandringer i bygningen
 
-  -------------------------------------------------------------------------------------------------------- -----------------------------------
-  **Bygningsdel**                                                                                          **U-værdi\[W/m²K\]**
+<table style="width:99%;">
+<colgroup>
+<col style="width: 73%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Bygningsdel</strong></td>
+<td style="text-align: left;"><strong>U-værdi[W/m²K]</strong></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ydervægge og kældervægge mod jord<br />
+</td>
+<td style="text-align: left;">0,18</td>
+</tr>
+<tr>
+<td style="text-align: left;">Etageadskillelser og skillevægge mod rum, hvor temperaturforskellen mellem rummene er 5 °C eller mere<br />
+</td>
+<td style="text-align: left;">0,40</td>
+</tr>
+<tr>
+<td style="text-align: left;">Terrændæk, kældergulve mod jord og etageadskillelser over det fri eller ventileret kryberum<br />
+</td>
+<td style="text-align: left;">0,10</td>
+</tr>
+<tr>
+<td style="text-align: left;">Loft- og tagkonstruktioner, herunder skunkvægge, flade tage og skråvægge direkte mod tag<br />
+</td>
+<td style="text-align: left;">0,12</td>
+</tr>
+<tr>
+<td style="text-align: left;">Porte<br />
+</td>
+<td style="text-align: left;">1,8</td>
+</tr>
+<tr>
+<td style="text-align: left;">Lemme, nye forsatsvinduer og ovenlyskupler<br />
+</td>
+<td style="text-align: left;">1,4</td>
+</tr>
+<tr>
+<td style="text-align: left;">Renoverede forsatsvinduer<br />
+</td>
+<td style="text-align: left;">1,65</td>
+</tr>
+<tr>
+<td style="text-align: left;">Lystunneler eller lignende</td>
+<td style="text-align: left;">2,0</td>
+</tr>
+</tbody>
+</table>
 
-  Ydervægge og kældervægge mod jord\                                                                       0,18
-
-  Etageadskillelser og skillevægge mod rum, hvor temperaturforskellen mellem rummene er 5 °C eller mere\   0,40
-
-  Terrændæk, kældergulve mod jord og etageadskillelser over det fri eller ventileret kryberum\             0,10
-
-  Loft- og tagkonstruktioner, herunder skunkvægge, flade tage og skråvægge direkte mod tag\                0,12
-
-  Porte\                                                                                                   1,8
-
-  Lemme, nye forsatsvinduer og ovenlyskupler\                                                              1,4
-
-  Renoverede forsatsvinduer\                                                                               1,65
-
-  Lystunneler eller lignende                                                                               2,0
-  -------------------------------------------------------------------------------------------------------- -----------------------------------
-
-  ----------------------------------------------------------------------- -----------------------------------
-  **Bygningsdel**\                                                        **Linjetab \[W/mK\]**
-
-  Fundamenter\                                                            0,12
-
-  Samling mellem ydervæg, vinduer eller yderdøre, porte og lemme\         0,03
-
-  Samling mellem tagkonstruktion og ovenlysvinduer eller ovenlyskupler\   0,10
-
-  ----------------------------------------------------------------------- -----------------------------------
+<table style="width:98%;">
+<colgroup>
+<col style="width: 65%" />
+<col style="width: 32%" />
+</colgroup>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Bygningsdel</strong><br />
+</td>
+<td style="text-align: left;"><strong>Linjetab [W/mK]</strong></td>
+</tr>
+<tr>
+<td style="text-align: left;">Fundamenter<br />
+</td>
+<td style="text-align: left;">0,12</td>
+</tr>
+<tr>
+<td style="text-align: left;">Samling mellem ydervæg, vinduer eller yderdøre, porte og lemme<br />
+</td>
+<td style="text-align: left;">0,03</td>
+</tr>
+<tr>
+<td style="text-align: left;">Samling mellem tagkonstruktion og ovenlysvinduer eller ovenlyskupler<br />
+</td>
+<td style="text-align: left;">0,10</td>
+</tr>
+</tbody>
+</table>
 
 ## Tabel 4 -- Mindstekrav til klimaskærm for sommerhuse, campinghytter og lignende ferieboliger
 
-  -------------------------------------------------------------------------------------------------------------------------- -----------------------------------
-  **Bygningsdel**                                                                                                            **U-værdi \[W/m²K\]**
+<table style="width:99%;">
+<colgroup>
+<col style="width: 76%" />
+<col style="width: 22%" />
+</colgroup>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Bygningsdel</strong></td>
+<td style="text-align: left;"><strong>U-værdi [W/m²K]</strong></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ydervægge og kældervægge mod jord<br />
+</td>
+<td style="text-align: left;">0,25</td>
+</tr>
+<tr>
+<td style="text-align: left;">Skillevægge og etageadskillelser mod rum, der er uopvarmede<br />
+</td>
+<td style="text-align: left;">0,40</td>
+</tr>
+<tr>
+<td style="text-align: left;">Terrændæk, kældergulve mod jord og etageadskillelser over det fri eller ventileret kryberum<br />
+</td>
+<td style="text-align: left;">0,15</td>
+</tr>
+<tr>
+<td style="text-align: left;">Loft- og tagkonstruktion, herunder skunkvægge samt flade tage</td>
+<td style="text-align: left;">0,15</td>
+</tr>
+<tr>
+<td style="text-align: left;">Vinduer, yderdøre, ovenlysvinduer, glasydervægge, glastage og ovenlyskupler mod det fri eller mod rum, der er uopvarmede</td>
+<td style="text-align: left;">1,8</td>
+</tr>
+</tbody>
+</table>
 
-  Ydervægge og kældervægge mod jord\                                                                                         0,25
-
-  Skillevægge og etageadskillelser mod rum, der er uopvarmede\                                                               0,40
-
-  Terrændæk, kældergulve mod jord og etageadskillelser over det fri eller ventileret kryberum\                               0,15
-
-  Loft- og tagkonstruktion, herunder skunkvægge samt flade tage                                                              0,15
-
-  Vinduer, yderdøre, ovenlysvinduer, glasydervægge, glastage og ovenlyskupler mod det fri eller mod rum, der er uopvarmede   1,8
-
-  -------------------------------------------------------------------------------------------------------------------------- -----------------------------------
-
-  ---------------------------------------------------------------------- -----------------------------------
-  **Bygningsdel**                                                        **Linjetab \[W/mK\]**
-
-  Fundamenter\                                                           0,15
-
-  Samling mellem ydervæg og vinduer eller yderdøre, porte og lemme\      0,03
-
-  Samling mellem tagkonstruktion og ovenlysvinduer eller ovenlyskupler   0,10
-  ---------------------------------------------------------------------- -----------------------------------
+<table style="width:98%;">
+<colgroup>
+<col style="width: 65%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Bygningsdel</strong></td>
+<td style="text-align: left;"><strong>Linjetab [W/mK]</strong></td>
+</tr>
+<tr>
+<td style="text-align: left;">Fundamenter<br />
+</td>
+<td style="text-align: left;">0,15</td>
+</tr>
+<tr>
+<td style="text-align: left;">Samling mellem ydervæg og vinduer eller yderdøre, porte og lemme<br />
+</td>
+<td style="text-align: left;">0,03</td>
+</tr>
+<tr>
+<td style="text-align: left;">Samling mellem tagkonstruktion og ovenlysvinduer eller ovenlyskupler</td>
+<td style="text-align: left;">0,10</td>
+</tr>
+</tbody>
+</table>
 
 ## Tabel 5 - Mindstekrav til klimaskærm for midlertidige, flytbare pavilloner
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------
-  **Bygningsdel**                                                                                                                                                                              **U-værdi \[W/m²K\]**
+<table style="width:99%;">
+<colgroup>
+<col style="width: 83%" />
+<col style="width: 15%" />
+</colgroup>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Bygningsdel</strong></td>
+<td style="text-align: left;"><strong>U-værdi [W/m²K]</strong></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ydervægge<br />
+</td>
+<td style="text-align: left;">0,20</td>
+</tr>
+<tr>
+<td style="text-align: left;">Etageadskillelser og skillevægge mod rum, hvor temperaturforskellen mellem rummene er 5 °C eller mere<br />
+</td>
+<td style="text-align: left;">0,40</td>
+</tr>
+<tr>
+<td style="text-align: left;">Gulv og etageadskillelser over det fri eller ventileret kryberum</td>
+<td style="text-align: left;">0,12</td>
+</tr>
+<tr>
+<td style="text-align: left;">Loft- og tagkonstruktioner, herunder skunkvægge, flade tage og skråvægge direkte mod tag</td>
+<td style="text-align: left;">0,15</td>
+</tr>
+<tr>
+<td style="text-align: left;">For porte og lemme mod det fri eller mod rum, der er uopvarmede, samt glasvægge og vinduer mod rum opvarmet til en temperatur, hvor temperaturforskellen mellem rummene er 5 °C eller mere</td>
+<td style="text-align: left;">1,8</td>
+</tr>
+<tr>
+<td style="text-align: left;">Ovenlyskupler</td>
+<td style="text-align: left;">1,8</td>
+</tr>
+<tr>
+<td style="text-align: left;">Lystunneler eller lignende</td>
+<td style="text-align: left;">2,0</td>
+</tr>
+</tbody>
+</table>
 
-  Ydervægge\                                                                                                                                                                                   0,20
-
-  Etageadskillelser og skillevægge mod rum, hvor temperaturforskellen mellem rummene er 5 °C eller mere\                                                                                       0,40
-
-  Gulv og etageadskillelser over det fri eller ventileret kryberum                                                                                                                             0,12
-
-  Loft- og tagkonstruktioner, herunder skunkvægge, flade tage og skråvægge direkte mod tag                                                                                                     0,15
-
-  For porte og lemme mod det fri eller mod rum, der er uopvarmede, samt glasvægge og vinduer mod rum opvarmet til en temperatur, hvor temperaturforskellen mellem rummene er 5 °C eller mere   1,8
-
-  Ovenlyskupler                                                                                                                                                                                1,8
-
-  Lystunneler eller lignende                                                                                                                                                                   2,0
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------
-
-  ---------------------------------------------------------------------- -----------------------------------
-  **Linjetab**\                                                          **Linjetab \[W/mK\]**
-
-  Fundamenter\                                                           0,20
-
-  Samling mellem ydervæg, vinduer eller yderdøre, porte og lemme\        0,03
-
-  Samling mellem tagkonstruktion og ovenlysvinduer eller ovenlyskupler   0,10
-  ---------------------------------------------------------------------- -----------------------------------
+<table style="width:98%;">
+<colgroup>
+<col style="width: 65%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Linjetab</strong><br />
+</td>
+<td style="text-align: left;"><strong>Linjetab [W/mK]</strong></td>
+</tr>
+<tr>
+<td style="text-align: left;">Fundamenter<br />
+</td>
+<td style="text-align: left;">0,20</td>
+</tr>
+<tr>
+<td style="text-align: left;">Samling mellem ydervæg, vinduer eller yderdøre, porte og lemme<br />
+</td>
+<td style="text-align: left;">0,03</td>
+</tr>
+<tr>
+<td style="text-align: left;">Samling mellem tagkonstruktion og ovenlysvinduer eller ovenlyskupler</td>
+<td style="text-align: left;">0,10</td>
+</tr>
+</tbody>
+</table>
 
 ## Tabel 6 - Bygningsdele til beregning af klimapåvirkning
 
@@ -279,16 +515,16 @@ Referenceværdier for konstruktioner:
 
 Tabel 9: Liste over referenceværdier, som anvendes til at beregne den berettigede øgede klimapåvirkning af konstruktioner ved særlige forhold.
 
-  -------------------------- ---------------- ----------------------------------
-  Konstruktion               Referenceværdi   Enhed 
-  Etage- og kælderdæk        0,99             kg CO2-ækv. /m2 konstruktion/år
-  Gulv                       0,15             kg CO2-ækv. /m2 konstruktion/år 
-  Loft                       0,16             kg CO2-ækv. /m2 konstruktion/år 
-  Indervæg                   0,57             kg CO2-ækv. /m2 konstruktion/år 
-  Tag                        1,21             kg CO2-ækv. /m2 konstruktion/år 
-  Terrændæk/pladefundament   1,52             kg CO2-ækv. /m2 konstruktion/år 
-  Ydervæg og kælderydervæg   1,46             kg CO2-ækv. /m2 konstruktion/år 
-  -------------------------- ---------------- ----------------------------------
+|                          |                |                                  |
+|:-------------------------|:---------------|:---------------------------------|
+| Konstruktion             | Referenceværdi | Enhed                            |
+| Etage- og kælderdæk      | 0,99           | kg CO2-ækv. /m2 konstruktion/år  |
+| Gulv                     | 0,15           | kg CO2-ækv. /m2 konstruktion/år  |
+| Loft                     | 0,16           | kg CO2-ækv. /m2 konstruktion/år  |
+| Indervæg                 | 0,57           | kg CO2-ækv. /m2 konstruktion/år  |
+| Tag                      | 1,21           | kg CO2-ækv. /m2 konstruktion/år  |
+| Terrændæk/pladefundament | 1,52           | kg CO2-ækv. /m2 konstruktion/år  |
+| Ydervæg og kælderydervæg | 1,46           | kg CO2-ækv. /m2 konstruktion/år  |
 
 *** ***
 
@@ -377,44 +613,44 @@ Ved eldrevet transport udenfor Danmark kan klimapåvirkningen fra produktionen a
 
 Transport af materialer til byggepladsen (i modul A4), bortset fra midlertidig oplagring af materialer til byggepladsen ("terminalprocesser"), kan i stedet for beregning af forbruget, jf. de generelle principper, fastsættes ud fra følgende værdier pr. kg materiale som indgår i byggeriet:
 
-  --------------------------------------- ------------------------------ -------------------------
-  **Hovedgruppe**                         **Undergruppe**                **GWP \[kgCO~2~e/kg\]**
-  Beton                                   Fabriksbeton                   0,0024
-  Beton                                   Væg- og dækelementer           0,011
-  Beton                                   Øvrige elementer               0,0214
-  Træ                                     Konstruktionstræ               0,0074
-  Træ                                     Træplader, brædder og gulve    0,0491
-  Træ                                     Træelementer                   0,0814
-  Stål                                    Armeringsstål                  0,0091
-  Stål                                    Plader og profiler             0,0124
-  Aluminium                               Plader og profiler             0,0086
-  Gips                                    Gipsplader                     0,0166
-  Gips                                    Mørtel og puds                 0,0209
-  Tegl og mursten                         Mursten                        0,0045
-  Tegl og mursten                         Tagsten                        0,009
-  Cementbaserede produkter (uden beton)   Porebeton                      0,0701
-  Cementbaserede produkter (uden beton)   Letklinker                     0,0041
-  Cementbaserede produkter (uden beton)   Fibercement                    0,2011
-  Cementbaserede produkter (uden beton)   Cementbaseret mørtel og puds   0,105
-  Kalciumsilikat                          Kalksandsten                   0,0185
-  Zink                                    Zinkbeklædninger               0,0695
-  Bitumen                                 Tagpap                         0,0378
-  Facadeåbninger                          Vinduer og døre                0,0846
-  Facadeåbninger                          Curtain wall facader           0,019
-  Natursten                               Natursten                      0,0614
-  Isolering                               EPS                            0,0609
-  Isolering                               Kalciumsilikat                 0,0029
-  Isolering                               Cellulose                      0,0721
-  Isolering                               Træfiber                       0,092
-  Isolering                               Mineraluld                     0,0196
-  Membraner og overfladebehandlinger      Dampspærre                     0,9375
-  Membraner og overfladebehandlinger      Paint                          0,0798
-  Tekniske bygningsinstallationer         Solceller                      0,296
-  Tekniske bygningsinstallationer         Mekaniske anlæg                0,0561
-  Tekniske bygningsinstallationer         Afløb                          0,0561
-  Tekniske bygningsinstallationer         Vand                           0,0561
-  Tekniske bygningsinstallationer         Varme, ventilation og køl      0,0561
-  --------------------------------------- ------------------------------ -------------------------
+|  |  |  |
+|:---|:---|:---|
+| **Hovedgruppe** | **Undergruppe** | **GWP \[kgCO~2~e/kg\]** |
+| Beton | Fabriksbeton | 0,0024 |
+| Beton | Væg- og dækelementer | 0,011 |
+| Beton | Øvrige elementer | 0,0214 |
+| Træ | Konstruktionstræ | 0,0074 |
+| Træ | Træplader, brædder og gulve | 0,0491 |
+| Træ | Træelementer | 0,0814 |
+| Stål | Armeringsstål | 0,0091 |
+| Stål | Plader og profiler | 0,0124 |
+| Aluminium | Plader og profiler | 0,0086 |
+| Gips | Gipsplader | 0,0166 |
+| Gips | Mørtel og puds | 0,0209 |
+| Tegl og mursten | Mursten | 0,0045 |
+| Tegl og mursten | Tagsten | 0,009 |
+| Cementbaserede produkter (uden beton) | Porebeton | 0,0701 |
+| Cementbaserede produkter (uden beton) | Letklinker | 0,0041 |
+| Cementbaserede produkter (uden beton) | Fibercement | 0,2011 |
+| Cementbaserede produkter (uden beton) | Cementbaseret mørtel og puds | 0,105 |
+| Kalciumsilikat | Kalksandsten | 0,0185 |
+| Zink | Zinkbeklædninger | 0,0695 |
+| Bitumen | Tagpap | 0,0378 |
+| Facadeåbninger | Vinduer og døre | 0,0846 |
+| Facadeåbninger | Curtain wall facader | 0,019 |
+| Natursten | Natursten | 0,0614 |
+| Isolering | EPS | 0,0609 |
+| Isolering | Kalciumsilikat | 0,0029 |
+| Isolering | Cellulose | 0,0721 |
+| Isolering | Træfiber | 0,092 |
+| Isolering | Mineraluld | 0,0196 |
+| Membraner og overfladebehandlinger | Dampspærre | 0,9375 |
+| Membraner og overfladebehandlinger | Paint | 0,0798 |
+| Tekniske bygningsinstallationer | Solceller | 0,296 |
+| Tekniske bygningsinstallationer | Mekaniske anlæg | 0,0561 |
+| Tekniske bygningsinstallationer | Afløb | 0,0561 |
+| Tekniske bygningsinstallationer | Vand | 0,0561 |
+| Tekniske bygningsinstallationer | Varme, ventilation og køl | 0,0561 |
 
 Det mest repræsentative datasæt for materialet anvendes. 
 
@@ -430,12 +666,12 @@ For følgende delprocesser kan transport - i stedet for beregning af forbruget i
 
  
 
-  ----------- ----------------------------------------------------------------------------------------------------------- ------------------------------
-  **Modul**   **Delproces**                                                                                               **GWP \[kgCO~2~e/m^2^ år\]**
-  A4          Transport af materiel til og fra byggepladsen                                                               0,02
-  A5          Bortkørsel af jord, som er affald                                                                           0,06
-  A5          Bortkørsel af byggeaffald, herunder afskær og andre materialer som bliver til affald under byggeprocessen   0,06
-  ----------- ----------------------------------------------------------------------------------------------------------- ------------------------------
+|  |  |  |
+|:---|:---|:---|
+| **Modul** | **Delproces** | **GWP \[kgCO~2~e/m^2^ år\]** |
+| A4 | Transport af materiel til og fra byggepladsen | 0,02 |
+| A5 | Bortkørsel af jord, som er affald | 0,06 |
+| A5 | Bortkørsel af byggeaffald, herunder afskær og andre materialer som bliver til affald under byggeprocessen | 0,06 |
 
 Når der i ovenstående refereres til et antal kvadratmeter byggeri, benyttes samme areal som ifølge § 297, stk. 5.
 
@@ -443,24 +679,24 @@ Når der i ovenstående refereres til et antal kvadratmeter byggeri, benyttes sa
 
 Tabellen indeholder generiske data for udledninger pr. kg byggeaffald fra byggeprocessen (i modul A5), herunder afskær og andre materialer som bliver til affald under byggeprocessen. Det mest repræsentative datasæt anvendes.  For affald som indsamles blandet anvendes den højeste værdi af de blandede typer. Hvis der benyttes en EPD i stedet for nedenstående værdier, jf. § 297, stk. 7, fastlægges klimapåvirkningen til den samlede værdi af modulerne A1-A3 og C3-C4 for produktet.
 
-  ----------------------------------- -----------------------
-  Fraktion                            GWP - \[kg CO~2~/kg\]
-  Natursten                           0,29
-  Uglaseret tegl (mur- og tagsten)    0,36
-  Beton                               0,17
-  Jern og metal                       1,97
-  Fibergips                           0,33
-  Almindelig gips                     0,33
-  Stenuld                             0,69
-  Glasuld                             0,69 
-  Asfalt                              0,07
-  Træ                                 0,14
-  Plastik                             5,17
-  PVC                                 4,95
-  Glas                                2,02
-  Emballagepap                        0,44
-  Sanitet, fliser og glaserede tegl   0,36
-  ----------------------------------- -----------------------
+|                                   |                       |
+|:----------------------------------|:----------------------|
+| Fraktion                          | GWP - \[kg CO~2~/kg\] |
+| Natursten                         | 0,29                  |
+| Uglaseret tegl (mur- og tagsten)  | 0,36                  |
+| Beton                             | 0,17                  |
+| Jern og metal                     | 1,97                  |
+| Fibergips                         | 0,33                  |
+| Almindelig gips                   | 0,33                  |
+| Stenuld                           | 0,69                  |
+| Glasuld                           | 0,69                  |
+| Asfalt                            | 0,07                  |
+| Træ                               | 0,14                  |
+| Plastik                           | 5,17                  |
+| PVC                               | 4,95                  |
+| Glas                              | 2,02                  |
+| Emballagepap                      | 0,44                  |
+| Sanitet, fliser og glaserede tegl | 0,36                  |
 
 ## Tabel 12 - Standardværdier for energiforbrug i sommerhuse, campinghytter og lignende ferieboliger
 
@@ -470,11 +706,11 @@ Energibehovet omregnes til klimapåvirkning ifølge de emissionsfaktorer, som fr
 
  
 
-  --------------------------------------------------------------- ------------------------------------ ------------------------------------
-  **Energiforbrug  \[kWh/m^2^\]**                                                                       
-  **Varmebehov ved elvarme, fjernvarme eller anden opvarmning**   **Varmepumpe luft/luft - elbehov**   **Varmepumpe luft/vand - elbehov**
-  33,2                                                            21,2                                 10,1
-  --------------------------------------------------------------- ------------------------------------ ------------------------------------
+|  |  |  |
+|:---|:---|:---|
+| **Energiforbrug  \[kWh/m^2^\]** |   |   |
+| **Varmebehov ved elvarme, fjernvarme eller anden opvarmning** | **Varmepumpe luft/luft - elbehov** | **Varmepumpe luft/vand - elbehov** |
+| 33,2 | 21,2 | 10,1 |
 
 ## Tabel 13 - Standardværdier for energiforbrug i tilbygninger.
 
@@ -484,11 +720,11 @@ Energibehovet omregnes til klimapåvirkning ifølge de emissionsfaktorer, som fr
 
  
 
-  ------------------------------ ---------------- -------------
-  **Energiforbrug \[kWh/m²\]**   **Varmebehov**   **Elbehov**
-  Enfamiliehuse                  37 kWh/m²        2 kWh/m²
-  Øvrige boliger                 32 kWh/m²        2 kWh/m²
-  Øvrige                         32 kWh/m²        7 kWh/m²
-  ------------------------------ ---------------- -------------
+|                              |                |             |
+|:-----------------------------|:---------------|:------------|
+| **Energiforbrug \[kWh/m²\]** | **Varmebehov** | **Elbehov** |
+| Enfamiliehuse                | 37 kWh/m²      | 2 kWh/m²    |
+| Øvrige boliger               | 32 kWh/m²      | 2 kWh/m²    |
+| Øvrige                       | 32 kWh/m²      | 7 kWh/m²    |
 
  

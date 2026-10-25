@@ -39,27 +39,39 @@ Referencer findes i [afsnit 1.5](../../generel_vejledning/referenceliste/ "Refe
 
 Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde bygningsreglementets funktionskrav, er anført separat i tabellerne (i kursiv).
 
-+----------------------------------------+------------------------------------+---------------------------------+
-| **Daginstitutionsbygninger -- Tabel 4.3 Støj fra tekniske installationer**                                    |
-+----------------------------------------+------------------------------------+---------------------------------+
-| **Rumtype**                            | **Støjkilde ^2)^**                 | ***L~Aeq~***                    |
-+----------------------------------------+------------------------------------+---------------------------------+
-| I opholdsrum ^1), a)^*    ***\[4\]**  | Bygningens tekniske installationer | ≤ 30 dB                         |
-+----------------------------------------+------------------------------------+---------------------------------+
-| *Supplerende vejledning     ***\[3\], \[9\]**                                                                 |
-|                                                                                                               |
-| a)  *For tekniske installationer, der giver anledning til lavfrekvent støj i opholdsrum:*                     |
-|                                                                                                               |
-| *A-vægtet, ækvivalent lydtrykniveau i lavfrekvensområdet, L*~p*A,LF*~*  ≤ 25 dB.*                             |
-|                                                                                                               |
-| *Tilsvarende grænseværdi for G-vægtet infralydniveau, L~pG~ ≤ 85 dB.*                                         |
-+---------------------------------------------------------------------------------------------------------------+
-| **Noter\**                                                                                                    |
-|                                                                                                               |
-| 1)   Grænseværdien gælder i møblerede rum.                                                                   |
-|                                                                                                               |
-| 2)   Grænseværdien gælder for den enkelte installation.                                                       |
-+---------------------------------------------------------------------------------------------------------------+
+<table style="width:99%;">
+<colgroup>
+<col style="width: 36%" />
+<col style="width: 32%" />
+<col style="width: 30%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="3"><strong>Daginstitutionsbygninger – Tabel 4.3 Støj fra tekniske installationer</strong></td>
+</tr>
+<tr>
+<td><strong>Rumtype</strong></td>
+<td><strong>Støjkilde <sup>2)</sup></strong></td>
+<td><strong><em>L<sub>Aeq</sub></em></strong></td>
+</tr>
+<tr>
+<td>I opholdsrum ^1), a)^<em>    </em><strong>[4]</strong></td>
+<td>Bygningens tekniske installationer</td>
+<td>≤ 30 dB</td>
+</tr>
+<tr>
+<td colspan="3"><p><em>Supplerende vejledning     </em><strong>[3], [9]</strong></p>
+<p>a)  <em>For tekniske installationer, der giver anledning til lavfrekvent støj i opholdsrum:</em></p>
+<p><em>A-vægtet, ækvivalent lydtrykniveau i lavfrekvensområdet, L</em><sub>p<em>A,LF</em></sub><em>  ≤ 25 dB.</em></p>
+<p><em>Tilsvarende grænseværdi for G-vægtet infralydniveau, L<sub>pG</sub> ≤ 85 dB.</em></p></td>
+</tr>
+<tr>
+<td colspan="3"><p>**Noter**</p>
+<p>1)   Grænseværdien gælder i møblerede rum.</p>
+<p>2)   Grænseværdien gælder for den enkelte installation.</p></td>
+</tr>
+</tbody>
+</table>
 
 [4.5](../rumakustik-i-daginstitutionsbygninger/)
 

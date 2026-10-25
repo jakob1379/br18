@@ -51,156 +51,462 @@ For bygningsenergi og tillægsberettiget energi er komponentkravene i bygningsre
 
 I nedenstående tabel er Trafik-, Bygge og Boligstyrelsens fortolkning af håndtering af forskellige typer af energibehov klassificeret som en af de forskellige typer af energibehov.
 
-  -------------------------------------------------------------------------------------------------------------------------- ------------------ ---------------------------- -----------------------------------------
-                                                                                                                             Bygningsenergi \    Tillægsberettiget energi\   Energi udenfor energirammeberegningen
-
-  **Rumopvarmning **
-
-  El-radiatorer til 20 °C                                                                                                     X
-
-  Vandbårne radiatorer til 20 °C                                                                                              X
-
-  Luftvarme til 20 °C                                                                                                         X
-
-  Opvarmning over 20 °C, som følge af proceskrav                                                                                                 X
-
-  Elforbrug i varmepumper                                                                                                     X
-
-  Automatik til kedler                                                                                                        X
-
-  Automatik til varmeanlæg, jf. SBi 213                                                                                      X
-
-  Automatik til fjernvarmevekslere                                                                                            X
-
-  Automatik til solvarmeanlæg                                                                                                 X
-
-  Automatik til varmepumper                                                                                                  X
-
-  Blæser på kedel til opvarmning                                                                                              X
-
-  Varmetab fra distributionssystem efter tilslutningspunkt fjernvarme                                                        X
-
-  Varmetab fra fjernvarmerør som erstatter distributionssystem i bygning                                                      X
-
-  Elforbrug til luftvarmeanlæg, varmlufttæpper og lignende                                                                    X
-
-  Elforbrug til fancoils og aktive kølebafler                                                                                 X
-
-  **Ventilation **
-
-  Al ventilation op til 1,2 l/s m^2^ i alle rum med personophold                                                              X
-
-  Komfortventilation ud over 1,2 l/s m²                                                                                                         X
-
-  Ventilation af procesmæssige hensyn ud over 1,2 l/s m² i alle rum med personophold                                                            X
-
-  Al ventilation op til 0,3 l/s m^2^ i alle rum uden personophold                                                             X
-
-  Ventilation af procesmæssige hensyn ud over 0,3 l/s m² i alle rum uden personophold                                                            X
-
-  El-varmeflader i ventilationsanlæg                                                                                          X
-
-  El til ventilatorer i ventilationsanlæg og køle-/varmebafler                                                               X
-
-  Befugtning/affugtning, som følge af proceskrav                                                                                                                              X
-
-  El til ventilatorer i varmekonvektorer                                                                                     X
-
-  El til ventilatorer til uopvarmede parkeringsarealer                                                                                                                        X^\*^
-
-  Motorer til vinduesåbnere                                                                                                                                                   X
-
-  **Belysning **
-
-  Almenbelysning op til 300 lux inkl. stand-by effekt.                                                                        X
-
-  Almenbelysning over 300 lux som følge af krav i DS/EN 12464-1                                                                                  X
-
-  Almenbelysning over 300 lux som ikke er som følge af krav i DS/EN 12464-1                                                   X
-
-  Arbejdslamper på kontorarbejdspladser                                                                                       X
-
-  Øvrige arbejdslamper som følge af krav i DS/EN 12464-1 eller af procesmæssige hensyn, som for eksempel operationslamper                        X
-
-  Tavlebelysning                                                                                                                                 X
-
-  Dekorations og salgsbelysning ud over almenbelysningsniveauet som følge af krav i DS/EN 12464-1                                                X
-
-  Udendørs belysning                                                                                                                                                         X^\*^
-
-  Belysning i indendørs, uopvarmet parkering                                                                                                                                 X^\*^
-
-  Belysning i uopvarmede områder fx. kældre                                                                                                                                  X^\*^
-
-  **Pumper **
-
-  Pumper på kedler                                                                                                            X
-
-  Pumper på fjernvarmevekslere                                                                                                X
-
-  Pumper i brugsvandsanlæg                                                                                                   X
-
-  Pumper i centralvarmeanlæg                                                                                                  X
-
-  Pumper i solvarmeanlæg                                                                                                      X
-
-  Pumper ved varmeflader i ventilationsanlæg                                                                                  X
-
-  Pumper i køleanlæg                                                                                                          X
-
-  Pumper i afløbssystemer og vandbehandlingsanlæg                                                                                                                            X
-
-  Pumper i sprinkleranlæg/vandtågeanlæg                                                                                                                                      X
-
-  Pumper i trykforøgeranlæg til varmt og koldt brugsvand                                                                                                                     X
-
-  Trykforøgerpumper på direkte fjernvarme                                                                                     X
-
-  Pumper til andre medier, fx dem. vand, hedtvand, ilt , sug m.m.                                                                                                             X
-
-  **Brugsvand**
-
-  Opvarmning af varmt brugsvand                                                                                               X
-
-  Varmetab fra cirkulations og distributionssystemer (efter tilslutningspunkt for fjernvarme)                                 X
-
-  Varmetab fra fjernvarmerør som erstatter distributionssystem i byggeriet                                                    X
-
-  **Køling **
-
-  Komfort-køling                                                                                                              X
-
-  Køling af procesmæssige hensyn, herunder bl.a. køling af servere, laboratorieudstyr, medikoudstyr og lignende.                                                             X
-
-  **Udstyr**
-
-  EDB-udstyr, krydsfelter og EDB-servere inkl. Køling                                                                                                                        X
-
-  Audio-og videoudstyr                                                                                                                                                       X
-
-  Elevator til persontransport                                                                                                                                                X
-
-  Hæve/sænkeborde og lignende                                                                                                                                                 X
-
-  Laboratorieudstyr                                                                                                                                                           X
-
-  Hårde hvidevarer (proceskøkken udstyr)                                                                                                                                     X
-
-  Køkkenudstyr                                                                                                                                                               X
-
-  Kaffemaskiner, sodavandsmaskiner og lign.                                                                                                                                  X
-
-  Elevator til varer m.m.                                                                                                                                                     X
-
-  Butiksinventar                                                                                                                                                              X
-
-  Medikoteknisk apparatur, som f.eks. CT- eller MR-scannere.                                                                                                                  X
-
-  Vaskerifunktioner, autoklaver og lignende                                                                                                                                   X
-
-  Laboratorie- og produktionsudstyr inklusive køling                                                                                                                         X
-
-  -------------------------------------------------------------------------------------------------------------------------- ------------------ ---------------------------- -----------------------------------------
+<table style="width:99%;">
+<colgroup>
+<col style="width: 57%" />
+<col style="width: 8%" />
+<col style="width: 13%" />
+<col style="width: 19%" />
+</colgroup>
+<tbody>
+<tr>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;">Bygningsenergi <br />
+</td>
+<td style="text-align: left;"> Tillægsberettiget energi<br />
+</td>
+<td style="text-align: left;">Energi udenfor energirammeberegningen</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Rumopvarmning </strong></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">El-radiatorer til 20 °C</td>
+<td style="text-align: left;"> X</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Vandbårne radiatorer til 20 °C </td>
+<td style="text-align: left;"> X</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Luftvarme til 20 °C </td>
+<td style="text-align: left;"> X</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Opvarmning over 20 °C, som følge af proceskrav </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> X</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Elforbrug i varmepumper </td>
+<td style="text-align: left;"> X</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Automatik til kedler </td>
+<td style="text-align: left;"> X</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Automatik til varmeanlæg, jf. SBi 213</td>
+<td style="text-align: left;">X</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Automatik til fjernvarmevekslere </td>
+<td style="text-align: left;"> X</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Automatik til solvarmeanlæg </td>
+<td style="text-align: left;"> X</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Automatik til varmepumper </td>
+<td style="text-align: left;">X</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Blæser på kedel til opvarmning </td>
+<td style="text-align: left;"> X</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Varmetab fra distributionssystem efter tilslutningspunkt fjernvarme </td>
+<td style="text-align: left;">X</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Varmetab fra fjernvarmerør som erstatter distributionssystem i bygning </td>
+<td style="text-align: left;"> X</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Elforbrug til luftvarmeanlæg, varmlufttæpper og lignende </td>
+<td style="text-align: left;"> X</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Elforbrug til fancoils og aktive kølebafler </td>
+<td style="text-align: left;"> X</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Ventilation </strong></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Al ventilation op til 1,2 l/s m<sup>2</sup> i alle rum med personophold </td>
+<td style="text-align: left;"> X</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Komfortventilation ud over 1,2 l/s m² </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;">X</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ventilation af procesmæssige hensyn ud over 1,2 l/s m² i alle rum med personophold </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;">X</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Al ventilation op til 0,3 l/s m<sup>2</sup> i alle rum uden personophold </td>
+<td style="text-align: left;"> X</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Ventilation af procesmæssige hensyn ud over 0,3 l/s m² i alle rum uden personophold </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> X</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">El-varmeflader i ventilationsanlæg </td>
+<td style="text-align: left;"> X</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">El til ventilatorer i ventilationsanlæg og køle-/varmebafler</td>
+<td style="text-align: left;">X</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Befugtning/affugtning, som følge af proceskrav </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> X</td>
+</tr>
+<tr>
+<td style="text-align: left;">El til ventilatorer i varmekonvektorer</td>
+<td style="text-align: left;">X</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">El til ventilatorer til uopvarmede parkeringsarealer </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> X<sup>*</sup></td>
+</tr>
+<tr>
+<td style="text-align: left;">Motorer til vinduesåbnere </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> X</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Belysning </strong></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Almenbelysning op til 300 lux inkl. stand-by effekt. </td>
+<td style="text-align: left;"> X</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Almenbelysning over 300 lux som følge af krav i DS/EN 12464-1 </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> X</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Almenbelysning over 300 lux som ikke er som følge af krav i DS/EN 12464-1 </td>
+<td style="text-align: left;"> X</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Arbejdslamper på kontorarbejdspladser </td>
+<td style="text-align: left;"> X</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Øvrige arbejdslamper som følge af krav i DS/EN 12464-1 eller af procesmæssige hensyn, som for eksempel operationslamper </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> X</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Tavlebelysning </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> X</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Dekorations og salgsbelysning ud over almenbelysningsniveauet som følge af krav i DS/EN 12464-1 </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> X</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Udendørs belysning </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;">X<sup>*</sup></td>
+</tr>
+<tr>
+<td style="text-align: left;">Belysning i indendørs, uopvarmet parkering </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;">X<sup>*</sup></td>
+</tr>
+<tr>
+<td style="text-align: left;">Belysning i uopvarmede områder fx. kældre </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;">X<sup>*</sup></td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Pumper </strong></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Pumper på kedler</td>
+<td style="text-align: left;"> X</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Pumper på fjernvarmevekslere </td>
+<td style="text-align: left;"> X</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Pumper i brugsvandsanlæg </td>
+<td style="text-align: left;">X</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Pumper i centralvarmeanlæg </td>
+<td style="text-align: left;"> X</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Pumper i solvarmeanlæg </td>
+<td style="text-align: left;"> X</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Pumper ved varmeflader i ventilationsanlæg </td>
+<td style="text-align: left;"> X</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Pumper i køleanlæg </td>
+<td style="text-align: left;"> X</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Pumper i afløbssystemer og vandbehandlingsanlæg </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;">X</td>
+</tr>
+<tr>
+<td style="text-align: left;">Pumper i sprinkleranlæg/vandtågeanlæg </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;">X</td>
+</tr>
+<tr>
+<td style="text-align: left;">Pumper i trykforøgeranlæg til varmt og koldt brugsvand </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;">X</td>
+</tr>
+<tr>
+<td style="text-align: left;">Trykforøgerpumper på direkte fjernvarme </td>
+<td style="text-align: left;"> X</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Pumper til andre medier, fx dem. vand, hedtvand, ilt , sug m.m. </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> X</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Brugsvand</strong></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Opvarmning af varmt brugsvand </td>
+<td style="text-align: left;"> X</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Varmetab fra cirkulations og distributionssystemer (efter tilslutningspunkt for fjernvarme) </td>
+<td style="text-align: left;"> X</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Varmetab fra fjernvarmerør som erstatter distributionssystem i byggeriet </td>
+<td style="text-align: left;"> X</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Køling </strong></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Komfort-køling </td>
+<td style="text-align: left;"> X</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Køling af procesmæssige hensyn, herunder bl.a. køling af servere, laboratorieudstyr, medikoudstyr og lignende. </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;">X</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Udstyr</strong></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">EDB-udstyr, krydsfelter og EDB-servere inkl. Køling </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;">X</td>
+</tr>
+<tr>
+<td style="text-align: left;">Audio-og videoudstyr </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;">X</td>
+</tr>
+<tr>
+<td style="text-align: left;">Elevator til persontransport </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> X</td>
+</tr>
+<tr>
+<td style="text-align: left;">Hæve/sænkeborde og lignende </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> X</td>
+</tr>
+<tr>
+<td style="text-align: left;">Laboratorieudstyr </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> X</td>
+</tr>
+<tr>
+<td style="text-align: left;">Hårde hvidevarer (proceskøkken udstyr) </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;">X</td>
+</tr>
+<tr>
+<td style="text-align: left;">Køkkenudstyr </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;">X</td>
+</tr>
+<tr>
+<td style="text-align: left;">Kaffemaskiner, sodavandsmaskiner og lign. </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;">X</td>
+</tr>
+<tr>
+<td style="text-align: left;">Elevator til varer m.m. </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> X</td>
+</tr>
+<tr>
+<td style="text-align: left;">Butiksinventar </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> X</td>
+</tr>
+<tr>
+<td style="text-align: left;">Medikoteknisk apparatur, som f.eks. CT- eller MR-scannere. </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> X</td>
+</tr>
+<tr>
+<td style="text-align: left;">Vaskerifunktioner, autoklaver og lignende </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> X</td>
+</tr>
+<tr>
+<td style="text-align: left;">Laboratorie- og produktionsudstyr inklusive køling </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;"> </td>
+<td style="text-align: left;">X</td>
+</tr>
+</tbody>
+</table>
 
 (\*) betyder udenfor opvarmet etageareal.
 
