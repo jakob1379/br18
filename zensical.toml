@@ -100,8 +100,9 @@ generator = false
 [project.theme]
 custom_dir = "overrides"
 language = "da"
+font = false
 favicon = "assets/img/favicons/favicon-32x32.png"
-logo = "assets/img/favicons/favicon-32x32.png"
+logo = "assets/img/logo.svg"
 features = [
     "announce.dismiss",
     "content.code.annotate",
