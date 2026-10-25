@@ -267,7 +267,9 @@ class Cleaner(HTMLParser):
 
         # Markdown cannot nest emphasis of one kind (`**a **b****`), and the inner one adds nothing visible.
         nested = tag in EMPHASIS_TAGS and EMPHASIS_KIND[tag] in {EMPHASIS_KIND[t] for t in self.emphasis}
-        if nested or tag in FLATTEN_TAGS or (tag == "a" and "href" not in self._attrs(attrs)):
+        # An unresolved CMS link ("{localLink:umb:...}") leads nowhere; its text stays.
+        unlinked = tag == "a" and ("href" not in self._attrs(attrs) or "locallink:" in unquote(self._attrs(attrs)["href"]).lower())
+        if nested or tag in FLATTEN_TAGS or unlinked:
             self.stack.append("flatten")
             if tag in BLOCK_FLATTEN_TAGS:
                 self.parts.append("\n\n")
@@ -758,11 +760,6 @@ def convert_file(path: Path, docs_root: Path, delete_html: bool) -> bool:
 
     # Python-Markdown cannot unescape `\<`, so the page would show the backslash.
     markdown = re.sub(r"\[\]\{#[^}]+\}", "", proc.stdout.replace("\\<", "&lt;"))
-    markdown = re.sub(
-        r"\*\[\]\([^)]+(?:localLink:umb:|%7BlocalLink:umb:)[^)]+\)([^*]+)\*",
-        r"*\1*",
-        markdown,
-    )
     # Links to the origin CMS's internal host (tbstsc.dev.local) are editing leftovers; one often holds
     # the first letters of the real link that follows ("[Åbn r](dev)[ettelsesblad](pdf)").
     markdown = re.sub(rf"\[([^\]]*)\]\({DEV_LINK}\)(?:\{{[^}}]*\}})?\[", r"[\1", markdown)

@@ -186,6 +186,15 @@ class ConvertTest(unittest.TestCase):
 
         self.assertIn("affaldsbekendtgørelsen[\\[1\\]](#_ftn1) og \\[a\\] her.", markdown)
 
+    def test_unresolved_cms_local_links_are_dropped(self) -> None:
+        markdown = self.convert(
+            '<p>som beskrevet i <em><a href="/{localLink:umb:/media/faf2ae2c}økkenerberegnes.%3C/p%3E%3Caname=">'
+            "</a>Forudsætninger vedr. beregning</em> og <a href='{localLink:umb://document/abc}'>Bilag 6</a>.</p>"
+        )
+
+        self.assertNotIn("ocal", markdown.lower().replace("localt", ""))
+        self.assertIn("som beskrevet i *Forudsætninger vedr. beregning* og Bilag 6.", markdown)
+
     def test_empty_link_to_a_fragment_of_the_page_is_dropped(self) -> None:
         markdown = self.convert('<a href="#Indholdsoversigt" class="accordion__trigger"><svg></svg></a><p>Tekst</p>')
 
