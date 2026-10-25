@@ -2,15 +2,15 @@
 
 ## Se alle vejledninger om Energiforbrug og klimapåvirkning (§ 250 - § 298)
 
-- [Spørgsmål og svar om energiforbrug](../qa)
-- [Spørgsmål og svar om bygningers klimapåvirkning](../spoergsmaal-og-svar-om-bygningers-klimapaavirkning)
-- [Bygningsreglementets vejledning om energiforbrug](../energiforbrug-2)
-- [Bygningsreglementets vejledning om efterisolering](../ofte-rentable-konstruktioner)
+- [Spørgsmål og svar om energiforbrug](../../qa)
+- [Spørgsmål og svar om bygningers klimapåvirkning](../../spoergsmaal-og-svar-om-bygningers-klimapaavirkning)
+- [Bygningsreglementets vejledning om energiforbrug](../../energiforbrug-2)
+- [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner)
 - [Vejledning om funktionsafprøvning](./)
-- [Vejledning om håndtering af forskelligt energibehov i energirammen](../haandtering-af-forskelligt-energibehov)
-- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../bygningers-klimapaavirkning-1-juli-2025)
-- [Vejledning om energiberegning af hospitaler](../energiberegning-af-hospitaler)
-- [Eksempelsamling for energi](../eksempelsamling)
+- [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov)
+- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../../bygningers-klimapaavirkning-1-juli-2025)
+- [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler)
+- [Eksempelsamling for energi](../../eksempelsamling)
 
 ## Vejledning om funktionsafprøvning
 
@@ -54,7 +54,7 @@ Relevante standarder i forbindelse med funktionsafprøvning af varme- og kølean
 
 >
 
-[![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
 
 #### DS 469
 
@@ -66,7 +66,7 @@ Denne standard opstiller krav til varme- og køleanlæg. Kravene tilsigter, at d
 
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/s%c3%b8gning/91-140-10-centralvarmeanl%c3%a6g/ds-4692013 "DS 469"){target="_blank"}
 
-[![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
 
 #### DS 447
 

@@ -2,15 +2,15 @@
 
 ## Se alle vejledninger om Energiforbrug og klimapåvirkning (§ 250 - § 298)
 
-- [Spørgsmål og svar om energiforbrug](../qa)
-- [Spørgsmål og svar om bygningers klimapåvirkning](../spoergsmaal-og-svar-om-bygningers-klimapaavirkning)
+- [Spørgsmål og svar om energiforbrug](../../qa)
+- [Spørgsmål og svar om bygningers klimapåvirkning](../../spoergsmaal-og-svar-om-bygningers-klimapaavirkning)
 - [Bygningsreglementets vejledning om energiforbrug](./)
-- [Bygningsreglementets vejledning om efterisolering](../ofte-rentable-konstruktioner)
-- [Vejledning om funktionsafprøvning](../version-2-funktionsafprovning)
-- [Vejledning om håndtering af forskelligt energibehov i energirammen](../haandtering-af-forskelligt-energibehov)
-- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../bygningers-klimapaavirkning-1-juli-2025)
-- [Vejledning om energiberegning af hospitaler](../energiberegning-af-hospitaler)
-- [Eksempelsamling for energi](../eksempelsamling)
+- [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner)
+- [Vejledning om funktionsafprøvning](../../version-2-funktionsafprovning)
+- [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov)
+- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../../bygningers-klimapaavirkning-1-juli-2025)
+- [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler)
+- [Eksempelsamling for energi](../../eksempelsamling)
 
 ## Bygningsreglementets vejledning om energiforbrug
 
@@ -70,7 +70,7 @@ Linjetab har væsentlig betydning for energiøkonomi og minimering af indeklimag
 
 Byggetekniske forhold kan betyde, at kravene i §279 ikke kan opfyldes, jf. §274.
 
--  [Gå til energikrav ved ombygninger og udskiftning af bygningsdele - fredede bygninger (§ 278)](../../krav/274_279#afb229c4-65a2-4b7d-8613-8fe584c21e25){target="_blank"}
+-  [Gå til energikrav ved ombygninger og udskiftning af bygningsdele - fredede bygninger (§ 278)](../../../krav/274_279#afb229c4-65a2-4b7d-8613-8fe584c21e25){target="_blank"}
 
 ### Renoveringsklasser {#f2461737-622c-4c04-959d-885e24c53fdb}
 

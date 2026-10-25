@@ -394,7 +394,7 @@ Indrettes der et stort badeværelse, vil det samtidig give større anvendelighed
 
 I en større bolig, og i en husstand med mere end fire beboere, kan det være praktisk med mere end ét wc-rum. I boliger i to planer bør der være et wc-rum på hver etage og badeværelse med wc på samme etage som soverummene. I boliger uden bryggers eller vaskerum bør der beregnes plads til vaskemaskine og tørretumbler i badeværelset. [](#dad94911-d8be-4830-9756-dcbefa202590)
 
-### Appendix: Litteratur
+### Appendix: Litteratur {#dad94911-d8be-4830-9756-dcbefa202590}
 
 Andersen, H.T.; Larsen, J.N.; Jensen, J.O. & Haldrup, K. (2014). Boligmarkedet uden for de store byer. Sammenfatning. SBi 2014:04. København: Statens Byggeforskningsinstitut, Aalborg Universitet.
 

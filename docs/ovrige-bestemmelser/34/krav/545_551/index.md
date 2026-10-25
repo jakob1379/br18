@@ -17,10 +17,10 @@ Den certificerede brandrådgiver kan virke som udarbejdende eller kontrollerende
 Den certificerede brandrådgivers virke omfatter som minimum at
 
 1.  udarbejde start- og sluterklæring,
-2.  udfærdige dokumentation for brandklasser for bygningsafsnit og for brandklassen for det samlede byggeri, samt dokumentation for, at byggeriet opfylder [§§ 126-133](../../../../Tekniske-bestemmelser/05/Krav/126_133#3cd45dcf-33dd-46c8-b4e6-7489f2b06d01) vedrørende redningsberedskabets indsatsforhold,
+2.  udfærdige dokumentation for brandklasser for bygningsafsnit og for brandklassen for det samlede byggeri, samt dokumentation for, at byggeriet opfylder [§§ 126-133](../../../../tekniske-bestemmelser/05/krav/126_133) vedrørende redningsberedskabets indsatsforhold,
 3.  udfærdige kontrolplan for den brandtekniske dokumentation for design af brandforhold og sikre, at denne, samt kontrolplan for projektering og udførelse af brandsikringstiltag, er i overensstemmelse med kapitel 30,
-4.  sikre, at de valgte løsninger for brandforholdene er i overensstemmelse med kravene i [kapitel 5](../../../../Tekniske-bestemmelser/05/Krav),
-5.  sikre, at dokumentationen for brandforholdene opfylder sit formål, jf. [kapitel 29](../../../../Ovrige-bestemmelser/29/Krav),
+4.  sikre, at de valgte løsninger for brandforholdene er i overensstemmelse med kravene i [kapitel 5](../../../../tekniske-bestemmelser/05/krav),
+5.  sikre, at dokumentationen for brandforholdene opfylder sit formål, jf. [kapitel 29](../../../29/krav),
 6.  sikre, at dokumentationen er udarbejdet og samlet i overensstemmelse med kapitel 29, kontrolleret i overensstemmelse med kapitel 30 og kan anvendes, som den foreligger, er fyldestgørende og udgør et hele, og
 7.  udarbejde en redegørelse for sit virke herunder en redegørelse af den certificerede brandrådgivers supplerende kontrol, jf. § 549.
 
@@ -42,7 +42,7 @@ Den certificerede brandrådgivers virke som tredjepartskontrollant skal som mini
 
 1.  udarbejde start- og sluterklæring,
 2.  foretage tredjepartskontrol af dokumentation for design af brandforhold, der følger af § 548, og
-3.  udarbejde en redegørelse for sit virke som tredjepartskontrollant, herunder for sin uafhængighed i henhold til [§ 526](../../../../Ovrige-bestemmelser/30/Krav/523_528#ec1c8030-a51e-4c6e-9ba1-2efd14e8249d), stk. 1, nr. 3 samt en redegørelse af den certificerede tredjepartskontrollants supplerende kontrol, jf. stk. 3.
+3.  udarbejde en redegørelse for sit virke som tredjepartskontrollant, herunder for sin uafhængighed i henhold til [§ 526](../../../30/krav/523_528), stk. 1, nr. 3 samt en redegørelse af den certificerede tredjepartskontrollants supplerende kontrol, jf. stk. 3.
 
 *Stk. 2.* Tredjepartskontrollen omfatter de dele af et byggeri, der er omfattet af brandklasse 4. Andre dele af byggeriet skal i det omfang, de brandtekniske forhold og dokumentation har betydning for den del af byggeriet, der er i brandklasse 4, også kontrolleres af den certificerede tredjepartskontrollant.
 
@@ -76,7 +76,7 @@ Ved overdragelse af et projekt, hvortil der er meddelt byggetilladelse, fra en c
 2.  Hvilket virke den certificerede brandrådgiver har haft på projektet.
 3.  Hvilke dokumenter den certificerede brandrådgiver har udarbejdet og/eller kontrolleret, og om dokumenterne er endelige eller som udkast.
 4.  Status for gennemførelse af kontroller, jf. kontrolplanen og kontrolrapporter.
-5.  Kritiske punkter i projektet, som kræver særlig opmærksomhed fra den certificerede brandrådgiver, der overtager projektet, f.eks. afvigelser fra [Bygningsreglementets vejledning til kapitel 5 - Brand](../../../../Tekniske-bestemmelser/05/Vejledninger)*,* eller forhold, der gør, at byggeriet ikke er indsatstaktisk traditionelt.
+5.  Kritiske punkter i projektet, som kræver særlig opmærksomhed fra den certificerede brandrådgiver, der overtager projektet, f.eks. afvigelser fra [Bygningsreglementets vejledning til kapitel 5 - Brand](../../../../tekniske-bestemmelser/05/vejledninger)*,* eller forhold, der gør, at byggeriet ikke er indsatstaktisk traditionelt.
 
 *Stk. 2.* Den certificerede brandrådgiver, der overtager et projekt, vurderer på baggrund af erklæringen, jf. stk. 1, i hvilket omfang, det er nødvendigt at foretage en kontrol af den overdragede brandtekniske dokumentation forud for videreførelse af projekteringen og/eller udførelsen. Der redegøres for denne vurdering i kontrolrapporten. Beskrivelsen skal resumeres i sluterklæringen.
 

@@ -53,7 +53,7 @@ På konstruktionsområdet opdeles et byggeri i en række konstruktionsafsnit, og
 
 Det er vurderet, at der er brug for ca. 250 certificerede rådgivere på brandområdet og ca. 250 certificerede rådgivere på konstruktionsområdet, når ordningen er fuldt implementeret.    Behovet vil dog være langt mindre den 1. januar 2020, men vil herefter langsomt stige i takt med, at nye byggeprojekter igangsættes. Det har derfor aldrig været nødvendigt, at der den 1. januar 2020 skulle være det endelige antal certificerede.   På konstruktionsområdet forventes der at være omkring 20 certificerede statikere 1. januar 2020. Derudover vil det frem til 1. juli 2020 også være muligt at anvende anerkendte statikere.   På brandområdet forventes der at være omkring 80 certificerede brandrådgivere 1. januar 2020. [](./#8343bc1d-b6b8-4fcd-8365-3c980e988322)
 
-### Hvor mange certificeringsorganer er der?
+### Hvor mange certificeringsorganer er der? {#8343bc1d-b6b8-4fcd-8365-3c980e988322}
 
 På brandområdet er der to certificeringsorganer, der kan certificere brandrådgivere.
 
@@ -65,9 +65,9 @@ Trafik-, Bygge- og Boligstyrelsen har udarbejdet en lang række vejledninger rel
 
 Vejledningerne uddyber kravene til, hvad der anses som nødvendigt for, at et projekt er strækkeligt dokumenteret. Vejledningerne er præciseringer af eksisterende vejledninger samt beskrivelser af, hvad der allerede bør være almindelig praksis. Derudover er der udarbejdet vejledninger, som detaljeret beskriver, f.eks. hvordan et byggeri kan brandsikres, så kravene i bygningsreglementet er opfyldt. 
 
-[Den samlede oversigt over bygningsreglementets vejledninger kan findes her.](../../../../../Vejledninger/Bygningsreglementets-vejledninger/Oversigt_BR_Vejledninger){rel="noopener noreferrer" target="_blank"}
+[Den samlede oversigt over bygningsreglementets vejledninger kan findes her.](../../../../bygningsreglementets-vejledninger/oversigt_br_vejledninger){rel="noopener noreferrer" target="_blank"}
 
-[Andre vejledninger kan findes her](../../../../../Vejledninger/Andre_vejledninger/Andre_vejledninger){rel="noopener noreferrer" target="_blank"}.
+[Andre vejledninger kan findes her](../../../andre_vejledninger){rel="noopener noreferrer" target="_blank"}.
 
 ### Hvordan foretages den årlige kontrol af den certificeredes virke? (05.07.2021)
 

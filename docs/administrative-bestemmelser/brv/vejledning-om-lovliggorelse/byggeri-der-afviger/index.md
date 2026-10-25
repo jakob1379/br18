@@ -48,7 +48,7 @@
 
 ### Byggeri opført uden tilladelse
 
-### Byggeri der afviger fra det byggeri, der er givet tilladelse til
+### Byggeri der afviger fra det byggeri, der er givet tilladelse til {#6abc4d89-97e1-4f26-97e5-6fde590579e4}
 
 I den situation, hvor der er givet en byggetilladelse, men hvor der opføres byggeri, der afviger fra det byggeri, der er givet tilladelse til, og der ikke kan ske retlig lovliggørelse, skal fysisk lovliggørelse som udgangspunkt ske efter reglerne på opførelsestidspunktet. Såfremt dette ikke er muligt skal byggeriet fysisk bringes i overensstemmelse med de regler, der er gældende på lovliggørelsestidspunktet.
 

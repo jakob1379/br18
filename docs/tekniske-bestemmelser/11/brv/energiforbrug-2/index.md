@@ -34,15 +34,15 @@ Reglerne om energibehovet i bygninger er baseret på at sikre, at bygninger opf�
 
 Nye bygninger skal overholde energirammen, mens øvrigt byggearbejde som alternativ til energirammen kan benytte følgende alternativer:
 
-> \- Ændret anvendelse af eksisterende bygninger fremgår af [§ 267 - § 270](../../krav/267_270#9a9a97b3-01e2-4af4-af72-faf0fdbd74ce#8384908b-b6de-4e3b-8b7f-7c3c2fcb6f4a){target="_self"}
+> \- Ændret anvendelse af eksisterende bygninger fremgår af [§ 267 - § 270](../../krav/267_270#9a9a97b3-01e2-4af4-af72-faf0fdbd74ce){target="_self"}
 >
-> \- Tilbygninger til eksisterende bygninger fremgår af [§ 271 - § 273](../../krav/271_273#660bcd55-d949-4c59-8e07-94cad1f2116a#57f7179a-f6ad-4902-ab90-4872f90a2613){target="_self"}
+> \- Tilbygninger til eksisterende bygninger fremgår af [§ 271 - § 273](../../krav/271_273#660bcd55-d949-4c59-8e07-94cad1f2116a){target="_self"}
 >
-> \- Ombygninger fremgår af [§ 274 - § 279](../../krav/274_279#afb229c4-65a2-4b7d-8613-8fe584c21e25#ec49a09a-9509-4fdb-8868-52065f40f6cc){target="_self"}
+> \- Ombygninger fremgår af [§ 274 - § 279](../../krav/274_279#afb229c4-65a2-4b7d-8613-8fe584c21e25){target="_self"}
 >
-> \- Sommerhuse og lignende fremgår af [§ 283 - § 286](../../krav/267_270#9a9a97b3-01e2-4af4-af72-faf0fdbd74ce#0d3efc38-aea9-4018-8eff-fb03447e094a){target="_self"}
+> \- Sommerhuse og lignende fremgår af [§ 283 - § 286](../../krav/267_270#9a9a97b3-01e2-4af4-af72-faf0fdbd74ce){target="_self"}
 >
-> \- Midlertidige, flytbare pavilloner fremgår af [§ 287 - § 292](../../krav/287_292#f83468ad-c2a0-4b59-840a-7f0e0afc27f9#fb99c5b5-4767-4374-a237-1fc2bd027ece){target="_self"}
+> \- Midlertidige, flytbare pavilloner fremgår af [§ 287 - § 292](../../krav/287_292#f83468ad-c2a0-4b59-840a-7f0e0afc27f9){target="_self"}
 
 Dog gælder det for bygningsfredede bygninger og bygninger, som er en del af et fredet fortidsminde, at der kan ske lempelser fra bestemmelserne i bygningsreglementet, såfremt kommunalbestyrelsen vurderer, at bestemmelserne er uforenelige med frednings- og bevaringsværdierne.
 

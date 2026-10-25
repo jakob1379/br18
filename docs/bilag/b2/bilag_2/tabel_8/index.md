@@ -20,13 +20,13 @@
 
 Datasættet kan benyttes som emissionsfaktorer for energiforbrug. 
 
-[Download bilag 2, tabel 8.1 som excel-fil her.](../../../media/xoontk4a/tabel-81.xlsx "Tabel 8.1")
+[Download bilag 2, tabel 8.1 som excel-fil her.](../../../../media/xoontk4a/tabel-81.xlsx "Tabel 8.1")
 
 **Tabel 8.2 -- Emissionsfaktorer for brændstof**
 
 Datasættet kan benyttes som emissionsfaktorer for brændstof til transport til, fra og på byggepladsen samt til forbrug fra maskiner.
 
-[Download bilag 2, tabel 8.2 som excel-fil her.](../../../media/2bphcenr/tabel-82-september-2025.xlsx "Tabel 8.2 (September 2025)")
+[Download bilag 2, tabel 8.2 som excel-fil her.](../../../../media/2bphcenr/tabel-82-september-2025.xlsx "Tabel 8.2 (September 2025)")
 
 ## Tabel 9 -- Referenceværdier for beregning af klimapåvirkning, som ikke indgår i beregningen ifølge § 298, stk. 1.
 

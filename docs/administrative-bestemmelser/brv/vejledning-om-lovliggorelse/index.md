@@ -150,7 +150,7 @@ Retlig lovliggørelse kan som udgangspunkt alene ske i de tilfælde, hvor det ul
 
 Ud fra hensynet til proportionalitetsprincippet bør den retlige lovliggørelse af en bebyggelse altid vælges frem for den fysiske lovliggørelse, hvis dette er muligt. [](#89ada0c8-3144-4e2d-95c9-e36564461d52)
 
-### Fysisk lovliggørelse
+### Fysisk lovliggørelse {#89ada0c8-3144-4e2d-95c9-e36564461d52}
 
 Ved fysisk lovliggørelse bringes den ulovlige tilstand derimod til ophør ved, at byggeriet rent fysisk bringes i overensstemmelse med lovgivningen. Dette kan ske enten ved ombygning eller nedrivning eller ved en kombination af disse.
 
@@ -162,13 +162,13 @@ Ved vurderingen af, om der skal ske retlig eller fysisk lovliggørelse, skal kom
 
 Hvis vurderingen er, at der ville være blevet meddelt byggetilladelse, skal der ske retlig lovliggørelse. Det betyder, at kommunalbestyrelsen efterfølgende meddeler tilladelse og/eller dispensation til bibeholdelse af forholdet. [](#bfb1838a-8a77-4560-a35f-75f3fd3290f4)
 
-### Byggeri opført uden tilladelse
+### Byggeri opført uden tilladelse {#bfb1838a-8a77-4560-a35f-75f3fd3290f4}
 
 Hvis en forudgående ansøgning om tilladelse eller dispensation efter reglerne på opførelsestidspunktet ikke ville være blevet imødekommet, er det udgangspunktet, at der skal ske fysisk lovliggørelse efter de regler, der er gældende på lovliggørelsestidspunktet.
 
 Forinden der træffes afgørelse om fysisk lovliggørelse, skal kommunalbestyrelsen foretage en vurdering af, om der kan meddeles dispensation til forholdet efter de regler, der er gældende på lovliggørelsestidspunktet. Det kan indgå i kommunalbestyrelsens vurdering, om der ville være meddelt tilladelse efter en dispensationspraksis, der var gældende på opførelsestidspunktet. [](#6abc4d89-97e1-4f26-97e5-6fde590579e4)
 
-### Byggeri der afviger fra det byggeri, der er givet tilladelse til
+### Byggeri der afviger fra det byggeri, der er givet tilladelse til {#6abc4d89-97e1-4f26-97e5-6fde590579e4}
 
 I den situation, hvor der er givet en byggetilladelse, men hvor der opføres byggeri, der afviger fra det byggeri, der er givet tilladelse til, og der ikke kan ske retlig lovliggørelse, skal fysisk lovliggørelse som udgangspunkt ske efter reglerne på opførelsestidspunktet. Såfremt dette ikke er muligt skal byggeriet fysisk bringes i overensstemmelse med de regler, der er gældende på lovliggørelsestidspunktet.
 
@@ -210,7 +210,7 @@ Det fremgår af BR18 § 35, stk. 2, at der ikke kan meddeles byggetilladelse, ud
 
 Kommunen må være berettiget til at meddele afslag på retligt lovliggørende byggetilladelse alene med henvisning til, at der ikke er opnået tilladelse eller dispensation efter denne anden lovgivning. Hvis afslag på retlig lovliggørelse gives med denne begrundelse, kan kommunen være forpligtet til at udsætte sagen på behandling af spørgsmålet om retlig lovliggørelse efter denne anden lovgivning. [](#8e481eaa-32b8-45b7-97d5-47a22df171c8)
 
-### Særligt om lovliggørelse i forbindelse med bygningers klimapåvirkning
+### Særligt om lovliggørelse i forbindelse med bygningers klimapåvirkning {#8e481eaa-32b8-45b7-97d5-47a22df171c8}
 
 ***Lovliggørelse når kravet om beregning er overtrådt***
 

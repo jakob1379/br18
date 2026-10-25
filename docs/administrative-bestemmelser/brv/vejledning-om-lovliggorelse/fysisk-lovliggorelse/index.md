@@ -42,7 +42,7 @@
 
 ### Retlig lovliggørelse
 
-### Fysisk lovliggørelse
+### Fysisk lovliggørelse {#89ada0c8-3144-4e2d-95c9-e36564461d52}
 
 Ved fysisk lovliggørelse bringes den ulovlige tilstand derimod til ophør ved, at byggeriet rent fysisk bringes i overensstemmelse med lovgivningen. Dette kan ske enten ved ombygning eller nedrivning eller ved en kombination af disse.
 

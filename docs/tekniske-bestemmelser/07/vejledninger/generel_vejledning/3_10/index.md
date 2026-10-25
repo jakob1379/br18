@@ -3,7 +3,7 @@
 ## Se alle vejledninger om Byggepladsen og udførelsen af Byggearbejder (§ 161 - § 165)
 
 - [Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder](./)
-- [Vejledning om brandværnsforanstaltninger for skurbyer og lignende på byggepladser](../brandvarnforanstaltninger)
+- [Vejledning om brandværnsforanstaltninger for skurbyer og lignende på byggepladser](../../brandvarnforanstaltninger)
 
 ## Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder
 
@@ -55,7 +55,7 @@ Sikkerhedsbelysning skal være synlig og funktionsdygtig.
 
 Skiltning af risikoområder, flugtveje, brandslukningsmateriel, redningsmateriel o. lign. skal ske i overensstemmelse med Arbejdstilsynet bestemmelser. Byggepladsen bør i hele byggeperioden gennemgås jævnligt med henblik på skiltning af disse områder, samt udskiftning af defekte skilte.
 
-[![](../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
 
 ####
 
@@ -77,7 +77,7 @@ Det er ikke tilladt at bortskaffe affald ved afbrænding.
 
 Påfyldning af brændstof til maskiner, generatorer, kompressorer, arbejdsredskaber o.lign. skal foretages når maskiners/redskabers motorer er slukket og på dertil indrettede pladser. Brændstof skal opbevares i godkendte og egnede beholdere eller tanke til oplag over terræn. Oplag og forbrugstankanlæg for brændstof kan være omfattet af Beredskabsstyrelsens Tekniske forskrifter for brandfarlige væsker og skal i givet fald opføres og anvendes i overensstemmelse med denne forskrift. Oplag af brandfarlige væsker skal skiltes i overensstemmelse med Arbejdstilsynets bestemmelser.
 
-[![](../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
 
 ####
 
@@ -121,7 +121,7 @@ Hvis muligt bør hovedstrøm afbrydes ved arbejdstidsophør, det omfatter dog ik
 
 Bekendtgørelser iht elsikkerhedsloven bestemmelser skal overholdes.
 
-[![](../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
 
 ####
 

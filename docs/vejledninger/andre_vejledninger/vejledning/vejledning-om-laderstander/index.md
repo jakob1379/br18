@@ -48,7 +48,7 @@ Det medfører, at et areal ikke anses som omfattet af krav i ladestanderbekendtg
 
 Det vigtige i denne sammenhæng er at vurdere, i hvilket omfang arealet har en reel betydning for bygningens almindelige brug, eller om det er et areal, der primært anvendes i særlige tilfælde og kun få gange om året. [](#b2609f4b-6fe1-4364-b8a1-55a0fa6b1594)
 
-### I tilknytning til
+### I tilknytning til {#b2609f4b-6fe1-4364-b8a1-55a0fa6b1594}
 
 Ladestanderbekendtgørelsen stiller krav om, at ladestandere skal etableres i tilknytning til parkeringsanlægget. Det betyder, at ladestandere opsat som følge af ladestanderbekendtgørelsen skal opsættes på/ved parkeringspladser. Der er dog ikke krav om hvilke parkeringspladser på parkeringsanlægget, som der etableres ladestandere på.
 

@@ -27,7 +27,7 @@ Certificeringsordningen fungerer på den måde, at certificerede rådgivere som 
 
 Den *1. januar 2009* blev byggesagsbehandlingen afskaffet for enfamiliehuse, sommerhuse og lignende små bygninger.    Den *1. juli 2018* blev byggesagsbehandlingen af dokumentationen af de tekniske forhold, undtagen brand og konstruktion, for alt byggeri afskaffet. Det omfatter fx bygningers ventilationsforhold, indeklima og energiforbrug.    Den 1*. januar 2020* afskaffes den kommunale sagsbehandling af de brand- og konstruktions forhold, og certificeringsordningen indføres som en obligatorisk del af et mere kompliceret byggeprojekt.    **Undtaget for reglen** er midlertidige arrangementer som fx markeder, byfester, festivaler og lignende, midlertidige overnatninger, og arrangementer i eksisterende forsamlingslokaler. I disse tilfælde kan bygherren fortsat vælge teknisk byggesagsbehandling hos kommunen.    Derudover gælder der en overgangsordning på konstruktionsområdet frem til 1. juli 2020. [](./#e6a626de-ea49-4f61-a553-93da0962ffc0)
 
-### Hvad er årsagen til, at der indføres en overgangsperiode for brug af anerkendte statikere indtil 1. juli 2020?
+### Hvad er årsagen til, at der indføres en overgangsperiode for brug af anerkendte statikere indtil 1. juli 2020? {#e6a626de-ea49-4f61-a553-93da0962ffc0}
 
 Styrelsen har sammen med branchen vurderet, at der er behov for en overgangsperiode på konstruktionsområdet på seks måneder, hvor det er valgfrit, om man vil bruge en statiker, som er certificeret, eller en statiker, som er anerkendt efter den hidtidige ordning. I denne overgangsperiode kan der således enten tilknyttes en certificeret statiker eller en anerkendt statiker til byggerier i konstruktionsklasse KK2-KK4.  
 
@@ -65,9 +65,9 @@ Trafik-, Bygge- og Boligstyrelsen har udarbejdet en lang række vejledninger rel
 
 Vejledningerne uddyber kravene til, hvad der anses som nødvendigt for, at et projekt er strækkeligt dokumenteret. Vejledningerne er præciseringer af eksisterende vejledninger samt beskrivelser af, hvad der allerede bør være almindelig praksis. Derudover er der udarbejdet vejledninger, som detaljeret beskriver, f.eks. hvordan et byggeri kan brandsikres, så kravene i bygningsreglementet er opfyldt. 
 
-[Den samlede oversigt over bygningsreglementets vejledninger kan findes her.](../../../../../Vejledninger/Bygningsreglementets-vejledninger/Oversigt_BR_Vejledninger){rel="noopener noreferrer" target="_blank"}
+[Den samlede oversigt over bygningsreglementets vejledninger kan findes her.](../../../../bygningsreglementets-vejledninger/oversigt_br_vejledninger){rel="noopener noreferrer" target="_blank"}
 
-[Andre vejledninger kan findes her](../../../../../Vejledninger/Andre_vejledninger/Andre_vejledninger){rel="noopener noreferrer" target="_blank"}.
+[Andre vejledninger kan findes her](../../../andre_vejledninger){rel="noopener noreferrer" target="_blank"}.
 
 ### Hvordan foretages den årlige kontrol af den certificeredes virke? (05.07.2021)
 

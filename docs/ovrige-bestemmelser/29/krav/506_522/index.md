@@ -4,7 +4,7 @@
 
 ### § 506 {#paragraf-506}
 
-Dokumentationen af et byggeris brandsikkerhed skal påvise, at brandforholdene er i overensstemmelse med definerede krav til sikkerhed og anvendelighed, jf. [kapitel 5](../../../../Ovrige-bestemmelser/28/Krav/494_505#fc49d5cc-5ae3-4d74-9a80-0ba58701074b), samt at design, projektering og udførelse er fyldestgørende og i overensstemmelse med definerede krav.
+Dokumentationen af et byggeris brandsikkerhed skal påvise, at brandforholdene er i overensstemmelse med definerede krav til sikkerhed og anvendelighed, jf. [kapitel 5](../../../28/krav/494_505), samt at design, projektering og udførelse er fyldestgørende og i overensstemmelse med definerede krav.
 
 *Stk. 2.* For byggeri, som er indplaceret i brandklasse 2-4, skal ansøgeren sikre, at dokumentation af brandforhold er samlet og koordineret, så dokumentationen udgør et hele.
 

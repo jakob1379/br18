@@ -65,7 +65,7 @@ Bygningsreglementets bestemmelser til imødegåelse af vandskader findes primær
 
 [Kapitel 8 - Byggeret og helhedsvurdering](../../../../../tekniske-bestemmelser/08/krav){rel="noopener" target="_blank"}
 
-[Kapitel 14 - Fugt og vådrum](../../../../../tekniske-bestemmelser/14/krav/showall){rel="noopener" target="_blank"}
+[Kapitel 14 - Fugt og vådrum](../../../../../tekniske-bestemmelser/14/krav){rel="noopener" target="_blank"}
 
 [Kapitel 15 - Konstruktioner](../../../../../tekniske-bestemmelser/15/krav){rel="noopener" target="_blank"}
 

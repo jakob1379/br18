@@ -2,9 +2,9 @@
 
 ## Se alle vejledninger om Bygningens indretning (§ 196 - § 241)
 
-- [Spørgsmål og svar om bygningens indretning](../qa)
+- [Spørgsmål og svar om bygningens indretning](../../qa)
 - [Vejledning om boligindretning](./)
-- [Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger](../bygningsglas)
+- [Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger](../../bygningsglas)
 
 ## Vejledning om boligindretning
 
@@ -36,7 +36,7 @@ Se SBi-anvisning 272, Anvisning om Bygningsreglementet 2018 -- 2. Adgangsforhold
 
 ###
 
-![](../../../../media/p0rlsaxg/illustration-04-br-vejledning-om-boligindretning.png)
+![](../../../../../media/p0rlsaxg/illustration-04-br-vejledning-om-boligindretning.png)
 
 Illustration 04: Boligens adgangsveje kan alt efter deres karakter bruges til rekreative områder og give beboerne mulighed for at skabe uformelle mødesteder. Udformningen af overgangszonen med niveauer af privathed fra det offentlige rum til den private bolig eller zonen tæt på boligen kan sikre, at det føles naturligt at trække uden for sin bolig, uden at føle sig eksponeret.
 

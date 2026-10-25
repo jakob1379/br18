@@ -2,15 +2,15 @@
 
 ## Se alle vejledninger om Energiforbrug og klimapåvirkning (§ 250 - § 298)
 
-- [Spørgsmål og svar om energiforbrug](../qa)
-- [Spørgsmål og svar om bygningers klimapåvirkning](../spoergsmaal-og-svar-om-bygningers-klimapaavirkning)
+- [Spørgsmål og svar om energiforbrug](../../qa)
+- [Spørgsmål og svar om bygningers klimapåvirkning](../../spoergsmaal-og-svar-om-bygningers-klimapaavirkning)
 - [Bygningsreglementets vejledning om energiforbrug](./)
-- [Bygningsreglementets vejledning om efterisolering](../ofte-rentable-konstruktioner)
-- [Vejledning om funktionsafprøvning](../version-2-funktionsafprovning)
-- [Vejledning om håndtering af forskelligt energibehov i energirammen](../haandtering-af-forskelligt-energibehov)
-- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../bygningers-klimapaavirkning-1-juli-2025)
-- [Vejledning om energiberegning af hospitaler](../energiberegning-af-hospitaler)
-- [Eksempelsamling for energi](../eksempelsamling)
+- [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner)
+- [Vejledning om funktionsafprøvning](../../version-2-funktionsafprovning)
+- [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov)
+- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../../bygningers-klimapaavirkning-1-juli-2025)
+- [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler)
+- [Eksempelsamling for energi](../../eksempelsamling)
 
 ## Bygningsreglementets vejledning om energiforbrug
 
@@ -32,7 +32,7 @@
 
 ###
 
-![](../../../../media/x5ldgnq4/kap11_brv_1_6_beregning_af_energitilskud_for_vinduer.svg)
+![](../../../../../media/x5ldgnq4/kap11_brv_1_6_beregning_af_energitilskud_for_vinduer.svg)
 
 Beregning af energitilskud for vinduer (Eref)
 
@@ -98,9 +98,9 @@ For glastage beregner producenten energitilskuddet som for ovenlysvinduer. Dog b
 
 Ved beregning af U-værdi benyttes DS/EN 12631 Termisk ydeevne for curtainwalling -- Beregning af varmetransmissionskoefficient.
 
--  [Gå til generelle mindstekrav til vinduer, glasydervægge, ovenlysvinduer og glastage (§ 258)](../../krav/258#fd620db7-f2ed-41e9-8e42-3f4b75f234be){target="_blank"}
+-  [Gå til generelle mindstekrav til vinduer, glasydervægge, ovenlysvinduer og glastage (§ 258)](../../../krav/258#fd620db7-f2ed-41e9-8e42-3f4b75f234be){target="_blank"}
 
-[![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
 
 #### DS/EN 14351-1 + A1:2010
 
@@ -120,7 +120,7 @@ Denne europæiske standard gælder for:
 
 Bemærk, engelske udgaver af europæiske standarder kan købes hos [alle europæiske standardiseringsorganisationer](https://standards.cen.eu/dyn/www/f?p=CENWEB:5){target="_blank"}.
 
-[![](../../../../assets/img/linkbox/ds_en_iso_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/ds_en_iso_linkbox.svg)](# "#title")
 
 #### DS/EN ISO 12631:2017 - Termisk ydeevne for curtainwalling -- Beregning af varmetransmissionskoefficient
 
@@ -132,7 +132,7 @@ Denne standard specificerer en procedure til beregning af den termiske transmiss
 
 Bemærk, engelske udgaver af europæiske standarder kan købes hos [alle europæiske standardiseringsorganisationer](https://standards.cen.eu/dyn/www/f?p=CENWEB:5){target="_blank"}.
 
-[![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
 
 #### DS/EN 13830:2003 - Curtain walling - Produktstandard
 
@@ -142,7 +142,7 @@ Denne standard specificerer karakteristika for curtain walling og giver teknisk 
 
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/standard/ds-en-138302003){target="_blank"}
 
-Bemærk, engelske udgaver af europæiske standarder kan købes hos [alle europæiske standardiseringsorganisationer](https://standards.cen.eu/dyn/www/f?p=CENWEB:5){target="_blank"}. [![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+Bemærk, engelske udgaver af europæiske standarder kan købes hos [alle europæiske standardiseringsorganisationer](https://standards.cen.eu/dyn/www/f?p=CENWEB:5){target="_blank"}. [![](../../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
 
 #### DS/INF 60:1990
 

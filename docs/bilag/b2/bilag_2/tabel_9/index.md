@@ -54,7 +54,7 @@ For konstruktioner skal forskellen i klimapåvirkning i forhold til en almindeli
 
 Formel 1:
 
-![](../../../media/xgtpniyq/formel-1.jpg){width="204" height="84"}
+![](../../../../media/xgtpniyq/formel-1.jpg){width="204" height="84"}
 
 hvor
 
@@ -73,7 +73,7 @@ For søjler og bjælker skal forskellen i klimapåvirkning i forhold til en almi
 
 Formel 2:
 
-![](../../../media/ahvhiaaw/formel-2.jpg){width="107" height="65"}
+![](../../../../media/ahvhiaaw/formel-2.jpg){width="107" height="65"}
 
 hvor
 
@@ -90,7 +90,7 @@ For fundamenter skal forskellen i klimapåvirkning i forhold til en almindelig r
 
 Formel 3: 
 
-![](../../../media/1iyjs0i1/formel-3.jpg){width="178" height="94"}
+![](../../../../media/1iyjs0i1/formel-3.jpg){width="178" height="94"}
 
 hvor
 
@@ -106,7 +106,7 @@ For installationer beregnes forskellen mellem den faktiske klimapåvirkning af i
 
 Formel 4:
 
-![](../../../media/ei4f3c2s/formel-4.jpg){width="193" height="88"}
+![](../../../../media/ei4f3c2s/formel-4.jpg){width="193" height="88"}
 
 hvor
 
