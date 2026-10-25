@@ -225,7 +225,7 @@ bygningsafsnit højst 1 etage under terræn, i bygninger hvor ingen bygningsafsn
 <tr>
 <td>Præ-accepterede løsninger <sup>a)</sup></td>
 <td> Brandteknisk begrundet vurdering <sup>a)</sup></td>
-<td>Komparativ analyse<sup>a)</sup></td>
+<td>Komparativ analyse <sup>a)</sup></td>
 <td>Brandteknisk dimensionering <sup>a)</sup></td>
 <td>Andre metoder <sup>d)</sup></td>
 </tr>
@@ -236,7 +236,7 @@ bygningsafsnit højst 1 etage under terræn, i bygninger hvor ingen bygningsafsn
 <td></td>
 <td></td>
 <td></td>
-<td>1<sup>b)</sup></td>
+<td>1 <sup>b)</sup></td>
 </tr>
 <tr>
 <td>2</td>
@@ -245,7 +245,7 @@ bygningsafsnit højst 1 etage under terræn, i bygninger hvor ingen bygningsafsn
 <td></td>
 <td></td>
 <td></td>
-<td rowspan="2">2<sup>c)</sup></td>
+<td rowspan="2">2 <sup>c)</sup></td>
 </tr>
 <tr>
 <td>3</td>
