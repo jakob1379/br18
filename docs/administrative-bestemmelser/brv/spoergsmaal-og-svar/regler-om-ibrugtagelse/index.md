@@ -62,7 +62,7 @@
 
 ### Spørgsmål og svar om at tage en bygning helt eller delvist i brug (13-12-2023)
 
-*Regler om at tage en bygning helt eller delvist i brug *
+*Regler om at tage en bygning helt eller delvist i brug* 
 
 Bygningsreglementet stiller krav om ibrugtagningstilladelse for byggearbejder, som kræver byggetilladelse. Disse byggearbejder må ikke tages i brug, før der er givet tilladelse hertil fra kommunen.
 

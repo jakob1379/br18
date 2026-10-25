@@ -467,10 +467,14 @@ Håndildslukkere skal være udført i overensstemmelse med gældende regler (DS/
 </tbody>
 </table>
 
-1.  *Afhænger af slukkerens godkendelse iht. DS/EN 3 typisk op til 1.000 V i 1,0 m afstand.\*
-2.  *Kun med specialpulver.\*
-3.  *Elektronik og IT-udstyr kan tage skade (risiko for korrosion/ vanskelig rengøring).\*
-4.  *Afhænger af slukkerens godkendelse iht. DS/EN 3 typisk op til 1.000 V i 1,0 m afstand.\*
+1.  *Afhænger af slukkerens godkendelse iht. DS/EN 3 typisk op til 1.000 V i 1,0 m afstand.*
+
+2.  *Kun med specialpulver.*
+
+3.  *Elektronik og IT-udstyr kan tage skade (risiko for korrosion/ vanskelig rengøring).*
+
+4.  *Afhænger af slukkerens godkendelse iht. DS/EN 3 typisk op til 1.000 V i 1,0 m afstand.*
+
 5.  *Hvis vand ikke er til stede.*
 
 [![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")

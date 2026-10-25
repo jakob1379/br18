@@ -30,7 +30,8 @@ Trafik-, Bygge- og Boligstyrelsen indførte pr. 1. juli 2017 krav i bygningsregl
 
 Baggrunden for kravet er, at nybyggerier og større renoveringer ofte bliver afleveret med alvorlige fejl i de tekniske installationer. Dette kan føre til et forringet indeklima og et energiforbrug, der ligger væsentligt højere end forventet. Funktionsafprøvningen skal eftervise, om de antagelser, der blev anvendt ved projekteringen af byggeriet og er anvendt i byggeansøgningen som grundlag for byggetilladelsen, er overholdt.
 
-**Version\**
+**Version**
+
 Dette er version 4, dateret 1. juli 2023. Vejledningen er opdateret som følge en generel gennemgang af vejledningen i samarbejde med branchen.
 
 ### 2.0 Ventilationssystemer {#2c036873-5116-4bcc-a05c-7253058c13b6}

@@ -561,7 +561,7 @@ Pavilloner, der opstilles til midlertidig brug, skal opfylde krav til U-værdie
 
 |  |  |
 |:----------------------------------------------------------|:-----------|
-| **Bygningsdel**   | **U-værdi \[W/m²K\] ** |
+| **Bygningsdel**   | **U-værdi \[W/m²K\]**  |
 | Ydervægge  | 0,20 |
 | Etageadskillelser og skillevægge mod rum, hvor temperaturforskellen mellem rummene er 5 °C eller mere  | 0,40 |
 | Gulv og etageadskillelser over det fri eller ventileret kryberum  | 0,12 |

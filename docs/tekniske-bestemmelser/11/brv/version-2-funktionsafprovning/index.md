@@ -96,7 +96,8 @@ Trafik-, Bygge- og Boligstyrelsen indførte pr. 1. juli 2017 krav i bygningsregl
 
 Baggrunden for kravet er, at nybyggerier og større renoveringer ofte bliver afleveret med alvorlige fejl i de tekniske installationer. Dette kan føre til et forringet indeklima og et energiforbrug, der ligger væsentligt højere end forventet. Funktionsafprøvningen skal eftervise, om de antagelser, der blev anvendt ved projekteringen af byggeriet og er anvendt i byggeansøgningen som grundlag for byggetilladelsen, er overholdt.
 
-**Version\**
+**Version**
+
 Dette er version 4, dateret 1. juli 2023. Vejledningen er opdateret som følge en generel gennemgang af vejledningen i samarbejde med branchen.
 
 ### 2.0 Ventilationssystemer {#2c036873-5116-4bcc-a05c-7253058c13b6}
@@ -213,7 +214,7 @@ Kravet til ventilation af bygninger til beboelse er beskrevet i bygningsreglemen
 >
 > • I andre bygninger end de tidligere nævnte, fx kontor- og erhvervsbygninger, skal der fastlægges et dimensionerende ventilationsbehov for hvert rum i bygningen. Luftmængder forudsat i dimensioneringen skal eftervises af funktionsafprøvningen.
 >
-> *\*
+>
 
 *Formål med funktionsafprøvning af luftmængder*
 
@@ -327,9 +328,9 @@ Effektoptag og omdrejningstal for ventilatormotorer kan fx logges for at eftervi
 
 Ved afprøvning af behovsstyringer, der styres efter CO2- og fugtniveau, er det hensigtsmæssigt at afprøvningen fremprovokerer, at setpunktet for disse parametre overskrides for at påvise, at styringen reagerer efter de indstillede setpunktsværdier. Eftervisningen kan også ske ved at ændre setpunktet.
 
-Kontrol af at styringsautomatik og følere til åbning og lukning af ventilationsåbninger fungerer efter hensigten og som projekteret.*\*
+Kontrol af at styringsautomatik og følere til åbning og lukning af ventilationsåbninger fungerer efter hensigten og som projekteret.
 
-*\*
+
 
 *Acceptkriterium
 
@@ -400,7 +401,7 @@ For at kunne eftervise ventilationsanlæggets SEL-værdi skal følgende normalt 
 
 • I forbindelse med mekanisk ventilation holdes vinduer og døre lukkede under måleperioden for at opnå stabile måleforhold.
 
-> > *\*
+> >
 
 *Målepunkter*
 
@@ -509,7 +510,7 @@ Der udarbejdes en funktionsafprøvningsrapport, der beskriver:
 
 Formålet med afprøvningen er at eftervise, at de effektive åbningsarealer og øvrige vigtige geometriske forhold er som forudsat i beregningen af energibehov og i projekteringen.
 
-*Definition af naturlig ventilation\*
+*Definition af naturlig ventilation*
 
 Ventilation ved udnyttelse af naturlige drivkræfter.
 
@@ -527,7 +528,7 @@ For at kunne udføre funktionsafprøvningen skal følgende normalt være opfyldt
 
 • Bygningens varme- og køleanlæg er indreguleret og i drift jf. DS 469 stk. 14.7 og stk. 16.1.
 
-• Under måleperioden holdes vinduer og døre, og andre åbninger til det fri, der ikke indgår i ventilationssystemet, lukkede for at opnå stabile måleforho*ld.\*
+• Under måleperioden holdes vinduer og døre, og andre åbninger til det fri, der ikke indgår i ventilationssystemet, lukkede for at opnå stabile måleforho*ld.*
 
 *
 
@@ -619,7 +620,8 @@ Ved 'indregulering' forstås, at vand- eller luftstrømme fordeles, så de enkel
 
 *Formål med funktionsafprøvning af indregulering*   Afprøvningen skal eftervise, at anlægget i praksis mindst yder svarende til de forudsætninger, der dokumenterer bygningens overholdelse af bygningsreglementets krav til energiforbrug og termisk indeklima, jf. kapitel 11 og 19, Energiforbrug samt Termisk indeklima og installationer til varme- og køleanlæg. Det skal derfor eftervises, at anlægget er indreguleret efter forudsætningerne. I mindre og simple anlæg kan eftervisningen foretages i forbindelse med indreguleringen.
 
-*Forudsætninger for udførelse af funktionsafprøvning af indregulering\*
+*Forudsætninger for udførelse af funktionsafprøvning af indregulering*
+
 For at kunne udføre funktionsafprøvning af indregulering af varme- og køleanlæg skal følgende normalt være opfyldt: • Der er foretaget den fornødne udluftning og rensning for urenheder ved fx gennemskylning jf. DS 469, kap. 14.6.
 
 • Alle vandkredse til varme og køling er indreguleret i henhold til DS 469, kap. 14.7, Indregulering, og dokumentation foreligger.
@@ -630,20 +632,21 @@ For at kunne udføre funktionsafprøvning af indregulering af varme- og køleanl
 
 • Alle decentrale ventiler ved varme-/kølegivere er indstillet som anført i dokumentationen.
 
-  *Målepunkter\*
+  *Målepunkter*
 
 Hvis fremløbstemperaturstyringen sker ved vejrkompensering, måles udetemperaturen ved brug af eksternt måleudstyr samme sted som anlæggets udetemperaturføler er placeret. Samtidigt kontrolleres det, om målepunktet er egnet til måling af udetemperatur. Det vil sige uden påvirkning af direkte solindfald.  *
 
 Zoner med radiatorer *
 
-Ved radiatoranlæg afprøves det, om der kommer jævn varme på alle radiatorer. Afprøvningen foregår ved at afmontere alle følerelementer og derefter manuelt indstille fremløbstemperaturen. Radiatoren skal være varm i toppen og godt afkølet i bunden.   Kontrollen kan foretages med termografi eller temperaturmåling.   *Zoner med gulvvarme\*
+Ved radiatoranlæg afprøves det, om der kommer jævn varme på alle radiatorer. Afprøvningen foregår ved at afmontere alle følerelementer og derefter manuelt indstille fremløbstemperaturen. Radiatoren skal være varm i toppen og godt afkølet i bunden.   Kontrollen kan foretages med termografi eller temperaturmåling.   *Zoner med gulvvarme*
+
 Ved gulvvarmeanlæg afprøves det, om der kommer jævn varme på alle gulvene. Afprøvningen foregår ved at afmontere alle følerelementer eller rumtermostaterne stilles på en høj rumtemperatur. Derefter indstilles fremløbstemperaturen manuelt.
 
 Såfremt fremløbsretningen på gulvvarmeslangen har betydning for anlæggets funktion, f.eks. i tilfælde hvor fremløbet er tænkt ført direkte under et vindue for at forhindre kuldenedfald skal korrekt fremløbsretning eftervises f.eks. ved termografi af gulvet, eller ved fotografisk dokumentation af sammenhæng mellem de lagte gulvvarmeslanger og tilslutningen til korrekt ventil.
 
 Såfremt der er installeret gulvvarme med manuel indregulering kan denne for eksempel eftervises ved visuel kontrol af den projekterede forindstilling ved fordelerrør og strengreguleringsventiler, der er monteret i anlægget. Denne eftervisning kan ske i forbindelse med indreguleringen.
 
-*Acceptkriterium\*
+*Acceptkriterium*
 
 Funktionsafprøvningens resultat med hensyn til indregulering kan accepteres, når de forudsatte værdier for forindstilling er kontrolleret. Såfremt der er installeret gulvvarme med automatiseret indregulering af vandmænger kan funktionsafprøvningen accepteres hvis: • Anlægget er i overensstemmelse med det oplyste anlæg til byggemyndigheden og det udleverede drift- og vedligeholdelsesmateriale.
 
@@ -729,7 +732,8 @@ Zoner med gulvvarme
 
 • Hvis fremløbsretningen er vigtig for gulvvarmens funktion skal det eftervises at det relevante område af gulvet ikke er koldere end resten af gulvet.
 
-*Dokumentation\*
+*Dokumentation*
+
 Der udarbejdes en funktionsafprøvningsrapport, der beskriver:
 
 • Hvilke forudsætninger og forhold målingen er udført under.
@@ -756,8 +760,9 @@ Samt at dagslysstyring, bevægelsesmeldere og zoneopdeling fungerer efter hensig
 
 Relevante standarder og anvisninger i forbindelse med funktionsafprøvning af belysningsanlæg omfatter:
 
-> • DS/EN 12464-1, *Lys og belysning* - *Belysning ved arbejdspladser -- Del 1: Indendørs arbejdspladser* • DS/EN 12665, *Lys og belysning -- Grundlæggende begreber og kriterier til beskrivelse af krav til belysning\*
-> • SBi-anvisning 220, *Lysstyring* • At-vejledning A.1.5-1, *Vejledning om kunstig belysning på faste arbejdssteder) *
+> • DS/EN 12464-1, *Lys og belysning* - *Belysning ved arbejdspladser -- Del 1: Indendørs arbejdspladser* • DS/EN 12665, *Lys og belysning -- Grundlæggende begreber og kriterier til beskrivelse af krav til belysning*
+>
+> • SBi-anvisning 220, *Lysstyring* • At-vejledning A.1.5-1, *Vejledning om kunstig belysning på faste arbejdssteder)* 
 
 [![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
 
@@ -835,7 +840,8 @@ Det kontrolleres, at det oplyste blændingstal for enkelte rum (UGR tabelmetoden
 
 *Målepunkter*
 
-Som målepunkter udvælges et grid, der dækker mindst 25% repræsentative arbejdspladser (dog mindst svarende til en arbejdsplads) og enkelte typiske målesteder i områder med normal færdsel, fx gange og trapper. Antallet af målepunkter i et grid kan bestemmes ved brug af DS/EN 12464-1. Hvis afprøvningen påviser fejl, øges omfanget af repræsentative arbejdspladser. Hvis flere/adskillige målinger afviger fra det forventede i forhold til lysberegningen, foreslås det, at der tages kontakt til bygherre for at afklare det videre forløb. Udfør målinger på et tilstrækkeligt antal målepunkter i alle rum, små som store, til at fastslå, at Ē~min~, Ē~mid~ og Ē~max~ er som forventet i forhold til lysberegningen. Hvis arbejdspladserne endnu ikke er indrettet inden funktionsafprøvningen må der antages arbejdspladszoner mm. Antagelserne skal beskrives i dokumentationen for funktionsafprøvningen. Måling af belysningsstyrken kan for eksempel foretages med et kalibreret luxmeter og udføres, jf. DS/EN 12464-1.   *Anvendelse af Vedligeholdelsesfaktor\*
+Som målepunkter udvælges et grid, der dækker mindst 25% repræsentative arbejdspladser (dog mindst svarende til en arbejdsplads) og enkelte typiske målesteder i områder med normal færdsel, fx gange og trapper. Antallet af målepunkter i et grid kan bestemmes ved brug af DS/EN 12464-1. Hvis afprøvningen påviser fejl, øges omfanget af repræsentative arbejdspladser. Hvis flere/adskillige målinger afviger fra det forventede i forhold til lysberegningen, foreslås det, at der tages kontakt til bygherre for at afklare det videre forløb. Udfør målinger på et tilstrækkeligt antal målepunkter i alle rum, små som store, til at fastslå, at Ē~min~, Ē~mid~ og Ē~max~ er som forventet i forhold til lysberegningen. Hvis arbejdspladserne endnu ikke er indrettet inden funktionsafprøvningen må der antages arbejdspladszoner mm. Antagelserne skal beskrives i dokumentationen for funktionsafprøvningen. Måling af belysningsstyrken kan for eksempel foretages med et kalibreret luxmeter og udføres, jf. DS/EN 12464-1.   *Anvendelse af Vedligeholdelsesfaktor*
+
 Krav til belysningsstyrker i DS/EN 12464-1 angives som Ē~m~ -- vedligeholdte belysningsstyrker. Belysningsanlæg skal derfor kunne levere mere lys end de krav, der stilles i DS/EN 12464-1, når anlægget tages i brug. Det skyldes den såkaldte Vedligeholdelsesfaktor fm, jf. DS/EN 12464-1, kapitel 6.3. Hvis det målte kun netop opfylder gældende krav, kan dette skyldes at der er indreguleret, så anlægget er energioptimeret til ikke, at kunne levere mere lys end nødvendigt er på et hvilket som helst tidspunkt i anlæggets levetid. Er dette tilfældet, skal det kontrolleres, at anlægget kan levere lys der svarer til, at fm er sat = 1.
 
 For rum uden automatisk dagslysstyring betyder det, at der skal måles en belysningsstyrke, der svarer til kravet plus det, som anlægget er beregnet til ved den for rummet anvendte vedligeholdsfaktor fm. Er denne fx 0,79 skal den målte belysningsstyrke være mindst 1,27 x kravet i DS/EN 12464-1.  For rum med automatisk dagslysstyring kontrolleres lysstyringens set-punkt og belysningsstyrken ved endt levetid beregnes ud fra denne. Kan der ikke indhentes oplysninger om dette set-punkt, justeres belysningsstyrken manuelt til det maksimale output, og målingen sammenholdes med den målte Ē for at afgøre, om vedligeholdelsesfaktoren er anvendt korrekt.  Hvis der ikke er møbleret, når der måles, så anbefales det at der fratrækkes 10% på de målte belysningsstyrker.
@@ -934,7 +940,7 @@ Der udføres en manuel afprøvning af om zoneopdelingen for belysningsanlægget 
 >
 > • Ved maksimal dæmpning opfyldes kravene til belysningsstyrke
 
-*\*
+
 *Acceptkriterium*
 
 Funktionsafprøvningens resultat for lysstyringen kan accepteres, hvis det konstateres, at den anvendte lysstyring reagerer i fuld overensstemmelse med dokumentationen anvendt til byggeandragende. Afvigelser i forhold til byggeandragende, som ikke medfører et øget elforbrug til belysningsanlægget, kan dog accepteres så længe minimumsværdier ifølge EN12464 er overholdt.   *Dokumentation
@@ -1017,7 +1023,7 @@ Elevatoren skal være fuldt færdiginstalleret og opfylde alle sikkerhedsmæssig
 
 El-effekt til elevatoren, fx målt via en el-bimåler.   *Acceptkriterium*
 
-Det målte energiforbrug for referencekørslen skal være mindre end grænseværdien for energiklasse B eller alternativt den energiklasse, der er antaget ved brug af kompenserende energibesparende tiltag. Grænseværdien for elevatorers energiklasser udregnes efter DS/EN ISO 25745-2. *\*
+Det målte energiforbrug for referencekørslen skal være mindre end grænseværdien for energiklasse B eller alternativt den energiklasse, der er antaget ved brug af kompenserende energibesparende tiltag. Grænseværdien for elevatorers energiklasser udregnes efter DS/EN ISO 25745-2.
 *Dokumentation*
 
 Der udarbejdes en funktionsafprøvningsrapport, der beskriver:
@@ -1090,7 +1096,7 @@ Energiforsyningsanlæg der leveres som færdige units og skal overholde Ecodesig
 
 Der foretages dog en vurdering af om energiforsyningsanlæggets energimæssige effektivitet er tilstrækkelig, ved at der foretages kontrol af det varme- eller kølefordelingssystem som er tilsluttet til energiforsyningsanlægget, hvis dette er aktuelt. Dette er med til at verificere, at energiforsyningsanlægget fungerer korrekt i det samlede varme- og køleanlæg, inkl. dets komponenter, herunder styring- og reguleringskomponenter.
 
-*Forudsætninger for udførelse af funktionsafprøvning *
+*Forudsætninger for udførelse af funktionsafprøvning* 
 
 For at kunne foretage en vurdering af om energiforsyningsanlægget har den forudsatte energimæssige effektivitet, skal følgende normalt være opfyldt:
 
@@ -1106,7 +1112,8 @@ For at kunne foretage en vurdering af om energiforsyningsanlægget har den forud
 
 • Alle temperaturmålere til styring er korrekt monteret og kalibreret med den aktuelle varme- eller kølegiver.
 
-*Kontrolpunkter\*
+*Kontrolpunkter*
+
 For varmeanlæg kontrolleres det at nedenstående punkter er opfyldt:
 
 • energiforsyningsanlægget er dimensioneret til dimensionerende fremløbs- og returløbstemperatur for henholdsvist radiator- eller gulvvarmeanlæg, som angivet i kap. 6.9 i DS 469. Ved udskiftninger i eksisterende bygninger kontrolleres det at energiforsyningsanlægget kan dække bygningens behov.
@@ -1176,12 +1183,14 @@ Varmevekslere. Vand til vand varmevekslere til fjernvarme. Prøvningsprocedurer 
 
 #### Standarden findes på dansk i Dansk Standards [webshop.ds.dk](https://webshop.ds.dk/standard/26993/ds-en-1148-1998 "DS/EN 1148"){target="_blank"}
 
-*Formål med funktionsafprøvning af fjernvarmeanlæg\*
+*Formål med funktionsafprøvning af fjernvarmeanlæg*
+
 Formålet med funktionsafprøvningen er at eftervise, at fjernvarmeveksleren er i stand til at overføre den specificerede effekt med den ønskede afkøling. Desuden eftervises det at tryktabet i veksleren ikke overstiger det dimensionerende pumpetryk.
 
 Ofte vil det være det lokale fjernvarmeværk, der stiller krav til veksleren. Hvis det ikke er tilfældet, kan der testes ved et primær-temperatursæt som angivet i kap. 6.9 i DS469.
 
-*Forudsætninger for udførelse af funktionsafprøvningen\*
+*Forudsætninger for udførelse af funktionsafprøvningen*
+
 For at kunne eftervise fjernvarmevekslerens effektivitet skal følgende normalt være opfyldt, inden afprøvningen udføres:
 
 • Der er etableret en energimåler med udlæsning af temperaturer og flow, eller etableret de nødvendige trykudtag, termometre og måleventiler.
@@ -1230,7 +1239,7 @@ Der udarbejdes en funktionsafprøvningsrapport, der beskriver:
 
 Der skal foretages funktionsafprøvning af olie- og gasfyrede centralvarmekedler med nominel ydelse på mere end 400 kW.
 
-*Relevante standarder\*
+*Relevante standarder*
 
 Relevante standarder i forbindelse med funktionsafprøvning af kedelanlæg omfatter:
 
@@ -1238,7 +1247,8 @@ Relevante standarder i forbindelse med funktionsafprøvning af kedelanlæg omfat
 
 • DS/EN 13842, *Oliefyrede konvektionsluftvarmere -- stationære eller transportable til rumopvarmn*ing
 
-*Formål med funktionsafprøvning af kedelanlæg\*
+*Formål med funktionsafprøvning af kedelanlæg*
+
 For olie- og gasfyrede centralvarmekedler med nominel ydelse på mere end 400 kW, skal der foretages en vurdering af kedlens energimæssige effektivitet ved beregning af røggastabet ud fra målinger, jf. §308.
 
 Røggastabet beregnes som:
@@ -1255,7 +1265,8 @@ T~røg \  \  \  \  \  \  ~Røggastemperaturen \[°C\]
 
 T~luft~           Frisklufttemperaturen \[°C\]
 
-*Forudsætninger for udførelse af funktionsafprøvningen\*
+*Forudsætninger for udførelse af funktionsafprøvningen*
+
 For at kunne udføre funktionsafprøvningen skal følgende normalt være opfyldt, inden afprøvningen udføres:
 
 • Det er en fordel med lav udendørstemperatur, for at kunne opnå den ønskede ydelse af kedlen for vurdering af virkningsgraden.
@@ -1302,7 +1313,8 @@ Bygningsreglementets kravtekst mht. funktionsafprøvning af energiproduktionsanl
 
 Der skal gennemføres en funktionsafprøvning af solvarmeanlægget før ibrugtagning af bygningen. Funktionsafprøvningen skal påvise, at solvarmeanlægget er funktionsdygtigt og kan bidrage energieffektivt til rumvarme- og varmtvandsproduktionen.
 
-*Relevante standarder og anvisninger\*
+*Relevante standarder og anvisninger*
+
 Relevante standarder og anvisninger i forbindelse med funktionsafprøvning af solvarmeanlæg er:
 
   [![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
@@ -1341,7 +1353,7 @@ Det kontrolleres, at rør frem og retur mellem solfangerpaneler og solvarmebehol
 
 Det kontrolleres, at der er det nødvendige tryk på anlægget (hvis anlægstypen kræver det).
 
-Det kontrolleres, at der ikke kan opstå selvcirkulation når anlægget er ude af drift. Det vil fx sige, at der er installeret en kontra- eller magnetventil inden rørisolering. Det kan eventuelt dokumenteres med foto.*\*
+Det kontrolleres, at der ikke kan opstå selvcirkulation når anlægget er ude af drift. Det vil fx sige, at der er installeret en kontra- eller magnetventil inden rørisolering. Det kan eventuelt dokumenteres med foto.
 
 *Acceptkriterium*
 
@@ -1377,7 +1389,8 @@ Der udarbejdes en funktionsafprøvningsrapport, der beskriver:
 
 Der skal gennemføres en funktionsafprøvning af solcelleanlægget før ibrugtagning af bygningen. Funktionsafprøvningen skal påvise, at solcelleanlægget er korrekt installeret og har den forudsatte energimæssige ydeevne.
 
-*Relevante standarder og anvisninger\*
+*Relevante standarder og anvisninger*
+
 Relevante standarder og anvisninger i forbindelse med funktionsafprøvning af solcelleanlæg er:
 
 [![](../../../../assets/img/linkbox/ds_en_tr_linkbox.svg)](# "#title")
@@ -1516,7 +1529,7 @@ Inden funktionsafprøvning udføres skal følgende være opfyldt:
 
 ### 8.4 Målepunkter {#552b8f12-921e-4209-9548-758617227e55}
 
-*Sensorer *
+*Sensorer* 
 
 Med kalibreret eksternt måleudstyr skal anlæggets sensorer (fx temperatur-, CO2, fugt, kanaltryk, lys) afprøves om de måler korrekt. Anlæg der anvender bevægelsessensorer (PIR) skal ligeledes afprøves med hensyn til at reagere som forudsat inden for de zoner de betjener.
 

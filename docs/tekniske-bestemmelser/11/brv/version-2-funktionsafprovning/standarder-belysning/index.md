@@ -54,8 +54,9 @@
 
 Relevante standarder og anvisninger i forbindelse med funktionsafprøvning af belysningsanlæg omfatter:
 
-> • DS/EN 12464-1, *Lys og belysning* - *Belysning ved arbejdspladser -- Del 1: Indendørs arbejdspladser* • DS/EN 12665, *Lys og belysning -- Grundlæggende begreber og kriterier til beskrivelse af krav til belysning\*
-> • SBi-anvisning 220, *Lysstyring* • At-vejledning A.1.5-1, *Vejledning om kunstig belysning på faste arbejdssteder) *
+> • DS/EN 12464-1, *Lys og belysning* - *Belysning ved arbejdspladser -- Del 1: Indendørs arbejdspladser* • DS/EN 12665, *Lys og belysning -- Grundlæggende begreber og kriterier til beskrivelse af krav til belysning*
+>
+> • SBi-anvisning 220, *Lysstyring* • At-vejledning A.1.5-1, *Vejledning om kunstig belysning på faste arbejdssteder)* 
 
 [![](../../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
 

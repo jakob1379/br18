@@ -55,12 +55,12 @@ Etageareal beregnes ved sammenlægning af bruttoarealerne af samtlige etager, he
 
 Højder måles lodret fra naturligt terræn. For bebyggelser på skrånende terræn eller terræn med større niveauforskelle måles fra et eller flere niveauplaner, der fastsættes af kommunalbestyrelsen. Niveauplanernes beliggenhed skal på entydig måde fremgå af byggetilladelsen, f.eks. ved angivelse af planernes koter. Der kan efter behov fastlægges flere niveauplaner for samme grund.
 
-*   Stk.* *2.* Ved fastlæggelse af niveauplaner skal kommunalbestyrelsen tage hensyn til:
+*Stk.* *2.* Ved fastlæggelse af niveauplaner skal kommunalbestyrelsen tage hensyn til:
 
 1.  Terrænforholdene på de tilstødende grunde og karakteren af den omliggende bebyggelse.
 2.  At der skal skabes rimelige bebyggelsesmuligheder og adgangsforhold for den pågældende grund.
 
-*   Stk.* *3.* Bebyggelse i skrånende terræn kan opføres uden fastsættelse af niveauplaner, såfremt højden målt lodret fra terræn ikke overstiger de i §§ 176-186 fastsatte grænser for bebyggelsens højde samt den angivne afstand til skel.
+*Stk.* *3.* Bebyggelse i skrånende terræn kan opføres uden fastsættelse af niveauplaner, såfremt højden målt lodret fra terræn ikke overstiger de i §§ 176-186 fastsatte grænser for bebyggelsens højde samt den angivne afstand til skel.
 
 *Stk. 4.* Antenner, hvis øverste punkt ikke er mere end 5,50 m over tagfladen, tagkviste, skorstenspiber, ventilationshætter, gavltrekanter og tagudhæng, medregnes ikke ved beregningen af en bygningshøjde, såfremt de er af sædvanligt omfang. Ved fastlæggelse af bebyggelsens højde kan kommunalbestyrelsen endvidere beslutte at se bort fra trappehuse, elevatorskakter, ventilationsanlæg, varmepumper, solcelleanlæg, solfangere, skilte og lysreklamer.
 

@@ -78,7 +78,8 @@
 
 Der skal gennemføres en funktionsafprøvning af solcelleanlægget før ibrugtagning af bygningen. Funktionsafprøvningen skal påvise, at solcelleanlægget er korrekt installeret og har den forudsatte energimæssige ydeevne.
 
-*Relevante standarder og anvisninger\*
+*Relevante standarder og anvisninger*
+
 Relevante standarder og anvisninger i forbindelse med funktionsafprøvning af solcelleanlæg er:
 
 [![](../../../../../assets/img/linkbox/ds_en_tr_linkbox.svg)](# "#title")

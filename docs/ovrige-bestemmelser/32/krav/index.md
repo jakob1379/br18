@@ -32,7 +32,7 @@ Den certificerede statiker eller brandrådgiver er tilknyttet byggesagen og bygg
 
 *Stk. 2.* For de dele af et byggeri, der er i konstruktionsklasse 4 og brandklasse 4, skal der være tilknyttet en certificeret statiker og brandrådgiver som tredjepartskontrollant.
 
-*   Stk.* *3.* Den certificerede brandrådgiver, der medvirker på byggearbejder i medfør af § 21, stk. 1, nr. 3, er dog ikke tilknyttet byggesagen i sin helhed, men kun til at eftervise, at brandsikkerhedsniveauet overholdes ved fravigelser fra de præ-accepterede løsninger.
+*Stk.* *3.* Den certificerede brandrådgiver, der medvirker på byggearbejder i medfør af § 21, stk. 1, nr. 3, er dog ikke tilknyttet byggesagen i sin helhed, men kun til at eftervise, at brandsikkerhedsniveauet overholdes ved fravigelser fra de præ-accepterede løsninger.
 
 ### § 534 {#paragraf-534}
 

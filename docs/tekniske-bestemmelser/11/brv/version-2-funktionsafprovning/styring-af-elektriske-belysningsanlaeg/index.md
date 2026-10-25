@@ -126,7 +126,7 @@ Der udføres en manuel afprøvning af om zoneopdelingen for belysningsanlægget 
 >
 > • Ved maksimal dæmpning opfyldes kravene til belysningsstyrke
 
-*\*
+
 *Acceptkriterium*
 
 Funktionsafprøvningens resultat for lysstyringen kan accepteres, hvis det konstateres, at den anvendte lysstyring reagerer i fuld overensstemmelse med dokumentationen anvendt til byggeandragende. Afvigelser i forhold til byggeandragende, som ikke medfører et øget elforbrug til belysningsanlægget, kan dog accepteres så længe minimumsværdier ifølge EN12464 er overholdt.   *Dokumentation

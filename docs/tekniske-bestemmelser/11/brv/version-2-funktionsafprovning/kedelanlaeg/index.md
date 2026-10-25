@@ -72,7 +72,7 @@
 
 Der skal foretages funktionsafprøvning af olie- og gasfyrede centralvarmekedler med nominel ydelse på mere end 400 kW.
 
-*Relevante standarder\*
+*Relevante standarder*
 
 Relevante standarder i forbindelse med funktionsafprøvning af kedelanlæg omfatter:
 
@@ -80,7 +80,8 @@ Relevante standarder i forbindelse med funktionsafprøvning af kedelanlæg omfat
 
 • DS/EN 13842, *Oliefyrede konvektionsluftvarmere -- stationære eller transportable til rumopvarmn*ing
 
-*Formål med funktionsafprøvning af kedelanlæg\*
+*Formål med funktionsafprøvning af kedelanlæg*
+
 For olie- og gasfyrede centralvarmekedler med nominel ydelse på mere end 400 kW, skal der foretages en vurdering af kedlens energimæssige effektivitet ved beregning af røggastabet ud fra målinger, jf. §308.
 
 Røggastabet beregnes som:
@@ -97,7 +98,8 @@ T~røg \  \  \  \  \  \  ~Røggastemperaturen \[°C\]
 
 T~luft~           Frisklufttemperaturen \[°C\]
 
-*Forudsætninger for udførelse af funktionsafprøvningen\*
+*Forudsætninger for udførelse af funktionsafprøvningen*
+
 For at kunne udføre funktionsafprøvningen skal følgende normalt være opfyldt, inden afprøvningen udføres:
 
 • Det er en fordel med lav udendørstemperatur, for at kunne opnå den ønskede ydelse af kedlen for vurdering af virkningsgraden.

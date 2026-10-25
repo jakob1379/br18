@@ -434,7 +434,8 @@ Bygningsdele, der indgår i den færdige bygning som tag, ydervægge, indervægg
 
 Bygningsdelene er grupperet i typer og kategorier. I kolonnen detaljeringsniveau fremgår eventuelle afgrænsninger af, hvad der skal medregnes af materialer for den pågældende bygningsdel.
 
-***Forenklinger\***
+***Forenklinger***
+
 Fastgørelsesmidler, fx søm, skruer, kiler, hulplader til søm eller skruer, murbindere eller lignende, medregnes ikke.
 
 Større samlinger af væsentlig betydning for det bærende system, fx boltesamlinger, medregnes. Dette kan være som et samlet skøn af materialemængder, sådan som materialet er opgjort i [bilag 2, tabel 7](../tabel_7 "Tabel_7").
@@ -507,7 +508,7 @@ Der sondres i det følgende mellem konstruktioner, søjler/bjælker, fundamenter
 
 *** ***
 
-***Konstruktioner\***
+***Konstruktioner***
 
 For konstruktioner beregnes forskellen vha. referenceværdi jf. tabel 9 og formel 1 herunder
 
@@ -528,7 +529,8 @@ Tabel 9: Liste over referenceværdier, som anvendes til at beregne den berettige
 
 *** ***
 
-***Konstruktioner\***
+***Konstruktioner***
+
 For konstruktioner skal forskellen i klimapåvirkning i forhold til en almindelig referenceværdi beregnes som i formel 1 herunder.
 
 Formel 1:
@@ -547,7 +549,8 @@ a er arealet som opgjort ifølge § 297, stk. 5, (i m2).
 
  
 
-***Søjler/bjælker\***
+***Søjler/bjælker***
+
 For søjler og bjælker skal forskellen i klimapåvirkning i forhold til en almindelig referenceværdi beregnes som i formel 2 herunder.
 
 Formel 2:
@@ -564,7 +567,8 @@ a er arealet som opgjort ifølge § 297, stk. 5 (i m2).
 
  
 
-***Fundamenter\***
+***Fundamenter***
+
 For fundamenter skal forskellen i klimapåvirkning i forhold til en almindelig referenceværdi beregnes som i formel 3 herunder. Påvirkningen opgøres samlet for hele fundamentet, også i de tilfælde hvor kun dele af fundamentet har et øget materialeforbrug.
 
 Formel 3: 
@@ -658,10 +662,12 @@ Hvis transporten beregnes ud fra ovenstående værdier pr. kg materiale, tilføj
 
 For installationer kan antal kg materiale opgøres på baggrund af standardværdierne for installationer i tabel 7 i stedet for faktiske mængder.
 
-*Særligt om terminalprocesser\*
+*Særligt om terminalprocesser*
+
 Alle terminalprocesser i forbindelse med transport (i modul A4) opgøres samlet set som 0,02 kg CO~2~-ækvivalenter pr. m^2^ byggeri pr. år
 
-*Særligt om transport af materiel samt transport af affald\*
+*Særligt om transport af materiel samt transport af affald*
+
 For følgende delprocesser kan transport - i stedet for beregning af forbruget ifølge principperne ovenfor - fastsættes til følgende værdier:
 
  

@@ -54,7 +54,7 @@ I Bygningsreglementets Vejledning til kapitel 29: Dokumentation af brandforhold,
 
 *Alment teknisk fælleseje er blandt andet gældende europæiske standarder udarbejdet af CEN, ISO-standarder og danske standarder, SBi-anvisninger, BYG-ERFA-blade samt erfaringsformidling fra byggeskadefondene.*
 
-* Alment teknisk fælleseje kan anvendes som dokumentation for en løsning af et brandteknisk tiltag, og der kan ofte i en vis udstrækning findes beskrivelser for løsningens udformning, ydeevne og udførelse, som kan lægges til grund som dokumentation af løsningen.*
+*Alment teknisk fælleseje kan anvendes som dokumentation for en løsning af et brandteknisk tiltag, og der kan ofte i en vis udstrækning findes beskrivelser for løsningens udformning, ydeevne og udførelse, som kan lægges til grund som dokumentation af løsningen.*
 
 *Ofte vil et dokument i det alment tekniske fælleseje ikke fuldt ud beskrive den konkrete løsning eller dokumentere ydeevnen, hvorfor dokumentation for brandtekniske tiltag i disse tilfælde må sammensættes fra flere kilder og suppleres med en beskrivelse af, hvordan det specifikke forhold baseres på principper og eksempler i de refererede dokumenter i det alment tekniske fælleseje.*
 

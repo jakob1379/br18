@@ -52,7 +52,8 @@ Såfremt der anvendes et andet ventilationssystem end et mekanisk ventilationsan
 
 Kravet til primærenergiforbrug for andre ventilationssystemer end mekaniske beregnes med udgangspunkt i energirammen. I renoveringssager, hvor der ikke benyttes en energiramme, kan primærenergiforbruget beregnes med primærenergifaktorerne beskrevet i [§ 252](../../../../11/krav/ "§ 252"){rel="noopener" target="_blank"} ud fra minimumskravene for varmegenvinding, SEL-værdi og luftskifte. Der skal ved beregning anvendes de samme luftmængder til mekanisk, naturlig og hybrid ventilation. Kravet til primærenergiforbrug er opfyldt, hvis det på baggrund af beregningen kan dokumenteres, at det alternative ventilationssystem ikke har et højere primærenergiforbrug end det mekaniske ventilationsanlæg.
 
-*Kompenserende tiltag\*
+*Kompenserende tiltag*
+
 Såfremt der ikke anvendes en energiramme til at beregne primærenergibehov, kan der i beregning af ventilationens energiforbrug indgå kompenserende tiltag, så som vedvarende energianlæg og energibesparende tiltag ud over bygningsreglementets mindstekrav, eksempler herpå kan være, men er ikke begrænset til, solcelleanlæg eller isolering.
 
 *Emhætter*

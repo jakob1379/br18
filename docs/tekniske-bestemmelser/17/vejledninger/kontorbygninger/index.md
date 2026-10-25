@@ -37,7 +37,7 @@ De angivne forslag til projekteringsværdier omfatter ikke alle rumtyper og anve
 
 projektering.
 
-- **Toiletfaciliteter** − ofte bestående af forrum og toiletrum**\**
+- **Toiletfaciliteter** − ofte bestående af forrum og toiletrum
 
 ### 5.1 Lydisolation for kontorbyggeri {#b3ba71ab-4b69-4413-8577-5d81c6a474b6}
 

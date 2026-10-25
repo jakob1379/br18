@@ -88,7 +88,7 @@
 
 ### 8.4 Målepunkter {#552b8f12-921e-4209-9548-758617227e55}
 
-*Sensorer *
+*Sensorer* 
 
 Med kalibreret eksternt måleudstyr skal anlæggets sensorer (fx temperatur-, CO2, fugt, kanaltryk, lys) afprøves om de måler korrekt. Anlæg der anvender bevægelsessensorer (PIR) skal ligeledes afprøves med hensyn til at reagere som forudsat inden for de zoner de betjener.
 

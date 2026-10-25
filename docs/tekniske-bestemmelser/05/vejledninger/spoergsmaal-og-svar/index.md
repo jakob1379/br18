@@ -50,10 +50,11 @@ For hotelbyggeri med gulv i øverste etage højst 22 m over terræn, hvor rednin
 
 **Hvad forstås ved en 'let tagkonstruktion'?** ** ** *I Bygningsreglementets vejledning til kapitel 5 -- brand, Kapitel 3: Bærende konstruktioner*, er angivet følgende for bygninger i én etage i anvendelseskategori 1-5:
 
-*I en bygning med let tagkonstruktion og med automatisk brandventilation, kan de bærende bygningsdele i bygningen udføres uden brandmodstandsevne, hvis brandsektionen er højst 1.000 m^2^, og i brandsektioner, der er større end 1.000 m^2^ kan de bærende konstruktioner, der bærer mindre end 200 m^2^ tag udføres uden krav til brandmodstandsevne.\*
+*I en bygning med let tagkonstruktion og med automatisk brandventilation, kan de bærende bygningsdele i bygningen udføres uden brandmodstandsevne, hvis brandsektionen er højst 1.000 m^2^, og i brandsektioner, der er større end 1.000 m^2^ kan de bærende konstruktioner, der bærer mindre end 200 m^2^ tag udføres uden krav til brandmodstandsevne.*
+
 *
 
-Ved en let tagkonstruktion forstås en isoleret eller uisoleret konstruktion opbygget af lette konstruktionsmaterialer f.eks. træ eller stålbjælker med eller uden loftsbeklædning mod rummet og med tagdækning af tagpap, metalplader, fibercementplader eller tilsvarende. Fladedensiteten for en let tagkonstruktion må højst være 30 kg/m^2^.\*
+Ved en let tagkonstruktion forstås en isoleret eller uisoleret konstruktion opbygget af lette konstruktionsmaterialer f.eks. træ eller stålbjælker med eller uden loftsbeklædning mod rummet og med tagdækning af tagpap, metalplader, fibercementplader eller tilsvarende. Fladedensiteten for en let tagkonstruktion må højst være 30 kg/m^2^.*
 
 Hensynet bag, at det skal være en let tagkonstruktion, er at sikre, at egenvægten af tagkonstruktionen, og dermed lasten på den bærende, uklassificerede bygningsdel, minimeres. Desuden vurderes en let tagkonstruktion at have kortere brandmodstandsevne end den bærende bygningsdel, hvorved risikoen for, at der sker et progressivt kollaps, bl.a. til fare for rednings- og slukningsarbejdet, minimeres.
 
@@ -108,7 +109,7 @@ I Bygningsreglementets Vejledning til kapitel 29: Dokumentation af brandforhold,
 
 *Alment teknisk fælleseje er blandt andet gældende europæiske standarder udarbejdet af CEN, ISO-standarder og danske standarder, SBi-anvisninger, BYG-ERFA-blade samt erfaringsformidling fra byggeskadefondene.*
 
-* Alment teknisk fælleseje kan anvendes som dokumentation for en løsning af et brandteknisk tiltag, og der kan ofte i en vis udstrækning findes beskrivelser for løsningens udformning, ydeevne og udførelse, som kan lægges til grund som dokumentation af løsningen.*
+*Alment teknisk fælleseje kan anvendes som dokumentation for en løsning af et brandteknisk tiltag, og der kan ofte i en vis udstrækning findes beskrivelser for løsningens udformning, ydeevne og udførelse, som kan lægges til grund som dokumentation af løsningen.*
 
 *Ofte vil et dokument i det alment tekniske fælleseje ikke fuldt ud beskrive den konkrete løsning eller dokumentere ydeevnen, hvorfor dokumentation for brandtekniske tiltag i disse tilfælde må sammensættes fra flere kilder og suppleres med en beskrivelse af, hvordan det specifikke forhold baseres på principper og eksempler i de refererede dokumenter i det alment tekniske fælleseje.*
 

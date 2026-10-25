@@ -26,9 +26,9 @@
 
 Byggeri, der er ulovligt udført, skal lovliggøres. Der sondres i bygningsreglementet mellem materielle og formelle regler. De materielle regler angiver de bebyggelsesregulerende og tekniske krav, byggeriet skal overholde. De formelle regler beskriver det administrative system, hvorunder sagen behandles, herunder om forholdet kræver en tilladelse.
 
-*\*
 
-*Vejledningen er revideret af Trafik-, Bygge- og Boligstyrelsen den 31. januar 2019.\*
+
+*Vejledningen er revideret af Trafik-, Bygge- og Boligstyrelsen den 31. januar 2019.*
 
 ### Indholdet af vejledningen
 

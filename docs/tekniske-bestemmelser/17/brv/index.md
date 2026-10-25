@@ -1445,7 +1445,7 @@ De angivne forslag til projekteringsværdier omfatter ikke alle rumtyper og anve
 
 projektering.
 
-- **Toiletfaciliteter** − ofte bestående af forrum og toiletrum**\**
+- **Toiletfaciliteter** − ofte bestående af forrum og toiletrum
 
 [5.1](../)
 
@@ -1841,15 +1841,16 @@ For hospitaler har en række rum skærpede lydkrav i forhold til andre bygningsa
 
 **Definitioner af rumtyper for hospitaler, lægehuse og klinikker**
 
-**- **Sengestuer\**
+**- **Sengestuer**
 
-- **Undersøgelsesrum, behandlingsrum, operationsstuer mv.\**
+- **Undersøgelsesrum, behandlingsrum, operationsstuer mv.**
 
-- **Kontorer\**
+- **Kontorer**
 
-- **Møderum\**
+- **Møderum**
 
-- **Toiletrum\**
+- **Toiletrum**
+
 \**
 - **Videokonferencerum** kan være relativt små rum indrettet i almindelige møderum, men kan også være større rum, der kræver særskilt akustisk projektering.
 
@@ -1859,11 +1860,11 @@ For hospitaler har en række rum skærpede lydkrav i forhold til andre bygningsa
 
 - **Auditorier** er rum, der benyttes til præsentationer for et større antal personer, fx fra 50 personer op til flere hundrede. Sådanne rum kræver særskilt akustisk projektering.
 
-- **Opholdsrum\**
+- **Opholdsrum**
 
-- **Gange og trapper\**
+- **Gange og trapper**
 
-- **Teknikrum\**
+- **Teknikrum**
 
 [6.1](../)
 

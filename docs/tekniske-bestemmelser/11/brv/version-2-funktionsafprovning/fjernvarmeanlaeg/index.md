@@ -96,12 +96,14 @@ Varmevekslere. Vand til vand varmevekslere til fjernvarme. Prøvningsprocedurer 
 
 #### Standarden findes på dansk i Dansk Standards [webshop.ds.dk](https://webshop.ds.dk/standard/26993/ds-en-1148-1998 "DS/EN 1148"){target="_blank"}
 
-*Formål med funktionsafprøvning af fjernvarmeanlæg\*
+*Formål med funktionsafprøvning af fjernvarmeanlæg*
+
 Formålet med funktionsafprøvningen er at eftervise, at fjernvarmeveksleren er i stand til at overføre den specificerede effekt med den ønskede afkøling. Desuden eftervises det at tryktabet i veksleren ikke overstiger det dimensionerende pumpetryk.
 
 Ofte vil det være det lokale fjernvarmeværk, der stiller krav til veksleren. Hvis det ikke er tilfældet, kan der testes ved et primær-temperatursæt som angivet i kap. 6.9 i DS469.
 
-*Forudsætninger for udførelse af funktionsafprøvningen\*
+*Forudsætninger for udførelse af funktionsafprøvningen*
+
 For at kunne eftervise fjernvarmevekslerens effektivitet skal følgende normalt være opfyldt, inden afprøvningen udføres:
 
 • Der er etableret en energimåler med udlæsning af temperaturer og flow, eller etableret de nødvendige trykudtag, termometre og måleventiler.

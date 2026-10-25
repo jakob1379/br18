@@ -86,7 +86,7 @@ Elevatoren skal være fuldt færdiginstalleret og opfylde alle sikkerhedsmæssig
 
 El-effekt til elevatoren, fx målt via en el-bimåler.   *Acceptkriterium*
 
-Det målte energiforbrug for referencekørslen skal være mindre end grænseværdien for energiklasse B eller alternativt den energiklasse, der er antaget ved brug af kompenserende energibesparende tiltag. Grænseværdien for elevatorers energiklasser udregnes efter DS/EN ISO 25745-2. *\*
+Det målte energiforbrug for referencekørslen skal være mindre end grænseværdien for energiklasse B eller alternativt den energiklasse, der er antaget ved brug af kompenserende energibesparende tiltag. Grænseværdien for elevatorers energiklasser udregnes efter DS/EN ISO 25745-2.
 *Dokumentation*
 
 Der udarbejdes en funktionsafprøvningsrapport, der beskriver:

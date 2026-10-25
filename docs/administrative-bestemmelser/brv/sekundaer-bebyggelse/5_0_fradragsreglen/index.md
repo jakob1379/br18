@@ -60,17 +60,17 @@ Foruden bygningsreglementets regler, kan der også være regler i anden lovgivni
 
 **Eksempel 1:**
 
-*På en grund er der opført en garage på 25 m^2^. Ejeren af ejendommen ønsker efterfølgende at opføre et udhus. Det samlede areal af sekundær bebyggelse på grunden må maksimalt være 50 m^2^. Ejeren af ejendommen kan derfor opføre et udhus på maksimalt 25 m^2^, uden at det kræver byggetilladelse fra kommunen.\*
+*På en grund er der opført en garage på 25 m^2^. Ejeren af ejendommen ønsker efterfølgende at opføre et udhus. Det samlede areal af sekundær bebyggelse på grunden må maksimalt være 50 m^2^. Ejeren af ejendommen kan derfor opføre et udhus på maksimalt 25 m^2^, uden at det kræver byggetilladelse fra kommunen.*
 
-*Ønsker ejeren af ejendommen at opføre et udhus på mere end 25 m^2^, vil bygningernes samlede areal overstige 50 m2, og der vil derfor være krav om byggetilladelse.\*
+*Ønsker ejeren af ejendommen at opføre et udhus på mere end 25 m^2^, vil bygningernes samlede areal overstige 50 m2, og der vil derfor være krav om byggetilladelse.*
 
 *Det er en forudsætning, at bygningsreglementet, deklarationer og anden lovgivning overholdes.*
 
 **Eksempel 2:**
 
-*På en grund med en garage på 30 m^2^, der er bygget sammen med en overdækning på 19 m^2^ vil ejeren gerne opføre et skur på 14 m^2^.\*
+*På en grund med en garage på 30 m^2^, der er bygget sammen med en overdækning på 19 m^2^ vil ejeren gerne opføre et skur på 14 m^2^.*
 
-*I eksemplet er det samlede areal af sekundær bebyggelse ved opførelse af skuret 63 m^2^, og overstiger dermed 50 m^2^. Der er derfor krav om byggetilladelse.\*
+*I eksemplet er det samlede areal af sekundær bebyggelse ved opførelse af skuret 63 m^2^, og overstiger dermed 50 m^2^. Der er derfor krav om byggetilladelse.*
 
 *Det er en forudsætning, at bygningsreglementet, deklarationer og anden lovgivning overholdes.*
 
@@ -86,17 +86,17 @@ Vi henviser i øvrigt til Bygningsreglementets vejledning til kapitel 5 -- Brand
 
 **Eksempel 1:**
 
-*På en grund med et dobbelthus placeres et udhus 3 m fra skel. Udhusets afstand fra skel er større end 2,5 m, og derfor skal der som udgangspunkt ikke tages hensyn til brandforholdene, herunder de bygningsdele, der vender mod skel.\*
+*På en grund med et dobbelthus placeres et udhus 3 m fra skel. Udhusets afstand fra skel er større end 2,5 m, og derfor skal der som udgangspunkt ikke tages hensyn til brandforholdene, herunder de bygningsdele, der vender mod skel.*
 
 *Det er en forudsætning, at bygningsreglementet, deklarationer og anden lovgivning overholdes.*
 
 **Eksempel 2:**
 
-*Ved et enfamiliehus placeres en sammenbygget garage i skel mod nabo.\*
+*Ved et enfamiliehus placeres en sammenbygget garage i skel mod nabo.*
 
-*Garagens afstand til skel på mindre end 2,5 m medfører, at man skal være opmærksom på brandforholdene for de bygningsdele, der vender mod skel eller enfamiliehuset. Garagen skal som minimum udføres med væg mod naboskel som bygningsdel EI60 \[BD-bygningsdel 60\].\*
+*Garagens afstand til skel på mindre end 2,5 m medfører, at man skal være opmærksom på brandforholdene for de bygningsdele, der vender mod skel eller enfamiliehuset. Garagen skal som minimum udføres med væg mod naboskel som bygningsdel EI60 \[BD-bygningsdel 60\].*
 
-*At bygningsdelen er EI60 betyder, at den kan holde varme og flammer ude i 60 minutter, og dermed er der større sandsynlighed for, at branden kan blive slukket inden den spreder sig. Sikringen kan også foretages i enfamiliehuset. Brandsikringen kan konkret bestå i, at der bygges med brandhæmmende materialer i de sider, der vender mod skel.\*
+*At bygningsdelen er EI60 betyder, at den kan holde varme og flammer ude i 60 minutter, og dermed er der større sandsynlighed for, at branden kan blive slukket inden den spreder sig. Sikringen kan også foretages i enfamiliehuset. Brandsikringen kan konkret bestå i, at der bygges med brandhæmmende materialer i de sider, der vender mod skel.*
 
 *Det er en forudsætning, at bygningsreglementet, deklarationer og anden lovgivning overholdes.*
 
@@ -148,7 +148,7 @@ Hvis ovenstående betingelser overholdes, er det som udgangspunkt tilladt at byg
 
 **Eksempel 1:**
 
-*På en grund er der opført en garage 1,5 meter fra skel. Garagens længste side mod skel er 6 meter. Ejeren af ejendommen ønsker efterfølgende at opføre et udhus, der placeres 2 meter fra skel. Da den samlede længde af samtlige bygninger på grunden maksimalt må udgøre 12 meter i skel, må udhusets længste side mod skel maksimalt være 6 meter. Hvis den samlede længde af garagen og udhuset mod skel overstiger 12 meter, vil betingelserne ikke være opfyldt, og der vil derfor skulle ansøges om byggetilladelse, og det vil være op til kommunen, om der kan gives en byggetilladelse til opførelse af bebyggelse, der ikke overholder byggeretten. Alternativt kan udhuset placeres længere fra skel end 2,5 meter.\*
+*På en grund er der opført en garage 1,5 meter fra skel. Garagens længste side mod skel er 6 meter. Ejeren af ejendommen ønsker efterfølgende at opføre et udhus, der placeres 2 meter fra skel. Da den samlede længde af samtlige bygninger på grunden maksimalt må udgøre 12 meter i skel, må udhusets længste side mod skel maksimalt være 6 meter. Hvis den samlede længde af garagen og udhuset mod skel overstiger 12 meter, vil betingelserne ikke være opfyldt, og der vil derfor skulle ansøges om byggetilladelse, og det vil være op til kommunen, om der kan gives en byggetilladelse til opførelse af bebyggelse, der ikke overholder byggeretten. Alternativt kan udhuset placeres længere fra skel end 2,5 meter.*
 
 *Det er en forudsætning, at bygningsreglementet og anden lovgivning overholdes.*
 
@@ -176,7 +176,7 @@ I visse tilfælde kan man opføre sekundær bebyggelse i den indre skelbræmme m
 
 **Eksempel 1:**
 
-*I tilknytning til et sommerhus i et sommerhusområde opføres en overdækket terrasse på 45 m2. Ejeren ønsker at placere overdækningen så tæt på skel som muligt uden at skulle søge om byggetilladelse. For sommerhuse gælder som nævnt særlige afstandskrav. Ejeren kan derfor opføre den overdækkede terrasse 2,5 meter fra skel uden byggetilladelse fra kommunen, hvis ovenstående betingelser er overholdt.\*
+*I tilknytning til et sommerhus i et sommerhusområde opføres en overdækket terrasse på 45 m2. Ejeren ønsker at placere overdækningen så tæt på skel som muligt uden at skulle søge om byggetilladelse. For sommerhuse gælder som nævnt særlige afstandskrav. Ejeren kan derfor opføre den overdækkede terrasse 2,5 meter fra skel uden byggetilladelse fra kommunen, hvis ovenstående betingelser er overholdt.*
 
 *Det er en forudsætning, at bygningsreglementet, deklarationer og anden lovgivning overholdes.*
 
@@ -196,13 +196,13 @@ Fradragsreglen er blevet ændret med bygningsreglementet 2018 (BR18), og grænse
 
 **Eksempel 1:**
 
-*På en 600 m^2^ stor grund er der opført et fritliggende enfamiliehus på 150 m^2^. Med en bebyggelsesprocent på 30 %, må etagearealet ikke overstige 600 m^2^ x 0,30 = 180 m^2^. Det samlede areal af den sekundære bebyggelse, der kan opføres uden byggetilladelse er 50 m^2^, hvis bebyggelsesprocenten, deklarationer og anden lovgivning er overholdt. I dette tilfælde vil der være 180 m^2^ -- 150 m^2^ = 30 m^2^ tilbage på grunden til at opføre sekundær bebyggelse inden for rammerne af bebyggelsesprocenten og anden lovgivning. Overstiger arealet af den sekundære bebyggelse 30 m^2^ vil bebyggelsesprocenten overskrides, og der vil være krav om byggetilladelse.\*
+*På en 600 m^2^ stor grund er der opført et fritliggende enfamiliehus på 150 m^2^. Med en bebyggelsesprocent på 30 %, må etagearealet ikke overstige 600 m^2^ x 0,30 = 180 m^2^. Det samlede areal af den sekundære bebyggelse, der kan opføres uden byggetilladelse er 50 m^2^, hvis bebyggelsesprocenten, deklarationer og anden lovgivning er overholdt. I dette tilfælde vil der være 180 m^2^ -- 150 m^2^ = 30 m^2^ tilbage på grunden til at opføre sekundær bebyggelse inden for rammerne af bebyggelsesprocenten og anden lovgivning. Overstiger arealet af den sekundære bebyggelse 30 m^2^ vil bebyggelsesprocenten overskrides, og der vil være krav om byggetilladelse.*
 
-*Fradragsretten giver dog mulighed for at fradrage 50,0 m^2^, når man skal udregne etagearealet, der har betydning for bebyggelsesprocenten.\*
+*Fradragsretten giver dog mulighed for at fradrage 50,0 m^2^, når man skal udregne etagearealet, der har betydning for bebyggelsesprocenten.*
 
-*Med en bebyggelsesprocent på 30 %, må etagearealet ikke overstige 600 m^2^ x 0,30 + 50 (fradragsreglen) = 230 m^2^. Enfamiliehuset udgør 150 m^2^, og der er derfor 80 m2 tilbage på grunden inden for rammerne af bebyggelsesprocenten.\*
+*Med en bebyggelsesprocent på 30 %, må etagearealet ikke overstige 600 m^2^ x 0,30 + 50 (fradragsreglen) = 230 m^2^. Enfamiliehuset udgør 150 m^2^, og der er derfor 80 m2 tilbage på grunden inden for rammerne af bebyggelsesprocenten.*
 
-*Her skal man dog være opmærksom på, at når den sekundære bebyggelses samlede areal overstiger 50,0 m^2^, er der krav om byggetilladelse, uanset at det kan lade sig gøre at bygge større end 50,0 m^2^ inden for rammerne af bebyggelsesprocenten.\*
+*Her skal man dog være opmærksom på, at når den sekundære bebyggelses samlede areal overstiger 50,0 m^2^, er der krav om byggetilladelse, uanset at det kan lade sig gøre at bygge større end 50,0 m^2^ inden for rammerne af bebyggelsesprocenten.*
 
 *Det er en forudsætning, at bygningsreglementet, deklarationer og anden lovgivning overholdes.*
 
@@ -230,13 +230,13 @@ Nedrivning af bebyggelse skal meddeles til Bygnings- og Boligregistret (BBR). Be
 
 **Eksempel 1**
 
-*I tilknytning til et enfamiliehus ønsker man at nedrive en garage på 30 m2. Dette kan ske uden tilladelse, da sekundær bebyggelse, der ikke er integreret, ikke kræver tilladelse ved nedrivning uanset størrelsen af det samlede areal af den sekundære bebyggelse.\*
+*I tilknytning til et enfamiliehus ønsker man at nedrive en garage på 30 m2. Dette kan ske uden tilladelse, da sekundær bebyggelse, der ikke er integreret, ikke kræver tilladelse ved nedrivning uanset størrelsen af det samlede areal af den sekundære bebyggelse.*
 
 *Det er dog en forudsætning, at bygningsreglementet, deklarationer og anden lovgivning overholdes.*
 
 **Eksempel 2:**
 
-*I tilknytning til et enfamiliehus ønsker man at nedrive en integreret garage på 30 m2. Dette kan ikke ske uden tilladelse. Nedrivning af integreret sekundær bebyggelse kræver altid tilladelse at opføre, og kræver ligeledes altid tilladelse at nedrive.\*
+*I tilknytning til et enfamiliehus ønsker man at nedrive en integreret garage på 30 m2. Dette kan ikke ske uden tilladelse. Nedrivning af integreret sekundær bebyggelse kræver altid tilladelse at opføre, og kræver ligeledes altid tilladelse at nedrive.*
 
 *Det er dog en forudsætning, at bygningsreglementet, deklarationer og anden lovgivning overholdes.*
 

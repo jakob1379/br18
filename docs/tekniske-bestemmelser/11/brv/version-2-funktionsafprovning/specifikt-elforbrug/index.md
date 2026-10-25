@@ -69,7 +69,7 @@ For at kunne eftervise ventilationsanlæggets SEL-værdi skal følgende normalt 
 
 • I forbindelse med mekanisk ventilation holdes vinduer og døre lukkede under måleperioden for at opnå stabile måleforhold.
 
-> > *\*
+> >
 
 *Målepunkter*
 

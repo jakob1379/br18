@@ -90,6 +90,9 @@ FLATTEN_TAGS = {
     "span",
 }
 
+EMPHASIS_TAGS = {"b", "em", "i", "strong"}
+EMPHASIS_OPEN_RE = re.compile(r"^<(?:b|em|i|strong)\b[^>]*>$")
+
 BLOCK_FLATTEN_TAGS = {
     "aside",
     "div",
@@ -269,13 +272,27 @@ class Cleaner(HTMLParser):
             if tag in BLOCK_FLATTEN_TAGS:
                 self.parts.append("\n\n")
             return
+        moved: list[str] = []
+        if tag in EMPHASIS_TAGS:
+            while self.parts and (self.parts[-1] == "<br />" or not self.parts[-1].strip(" \t\n ")):
+                moved.insert(0, self.parts.pop())
+            if self.parts and not self.parts[-1].startswith("<"):
+                text = self.parts.pop()
+                kept = text.rstrip(" \t\n ")
+                self.parts.append(kept)
+                moved.insert(0, text[len(kept):])
         self.parts.append(f"</{tag}>")
+        self.parts.extend(moved)
 
     def handle_data(self, data: str) -> None:
         if (
             self.skip_depth == 0
             and data.strip() != "Swipe horisontalt for at se alle emner"
         ):
+            lead = data[: len(data) - len(data.lstrip(" \t\n "))]
+            if lead and self.parts and EMPHASIS_OPEN_RE.match(self.parts[-1]):
+                self.parts.insert(len(self.parts) - 1, lead)
+                data = data[len(lead):]
             self.parts.append(data)
 
     def handle_entityref(self, name: str) -> None:

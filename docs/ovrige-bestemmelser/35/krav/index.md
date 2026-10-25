@@ -24,9 +24,9 @@ Formålet med anerkendelse af statikere er at:
 
 Personer kan tildeles titlen "Anerkendt statiker" for en afgrænset gyldighedsperiode ved beslutning af det i § 556, stk. 1, nævnte anerkendelsesorgan.
 
-*   Stk.* *2.* Anerkendelsen er personlig og følger den anerkendte statiker, uanset ansættelsesforhold.
+*Stk.* *2.* Anerkendelsen er personlig og følger den anerkendte statiker, uanset ansættelsesforhold.
 
-*   Stk.* *3.* Fra 1. januar 2020 er det ikke længere muligt at opnå anerkendelse som anerkendt statiker. Personer, der har opnået anerkendelse som anerkendt statiker før denne dato, kan søge om fornyelse af anerkendelse, jf. § 559.
+*Stk.* *3.* Fra 1. januar 2020 er det ikke længere muligt at opnå anerkendelse som anerkendt statiker. Personer, der har opnået anerkendelse som anerkendt statiker før denne dato, kan søge om fornyelse af anerkendelse, jf. § 559.
 
 ### § 555 {#paragraf-555}
 
@@ -81,7 +81,7 @@ Personer, som er i besiddelse af et kursusbevis, uddannelsesbevis eller certifik
 
 *Stk. 4.* Anerkendelsesorganet kan kontrollere ansøgerens kvalifikationer. Anerkendelsesorganet kan endvidere kontrollere ansøgerens sprogkundskaber, hvor der er alvorlig og konkret tvivl om tilstrækkeligheden af erhvervsudøverens sprogkundskaber.
 
-*   Stk.* *5.* Anerkendelsesorganet kan i overensstemmelse med Europa- Parlamentets og Rådets direktiv 2005/36/EF, som senest ændret ved Europa-Parlamentets og Rådets direktiv 2013/55/EU om anerkendelse af erhvervsmæssige kvalifikationer i EU, art. 14, stk. 1, 2, 4 og 5, selvom ansøger opfylder betingelserne i § 558, stk. 1, kræve, at ansøgeren gennemgår en prøvetid, der ikke må overstige tre år, eller går op til en egnethedsprøve. Hvis anerkendelsesorganet gør brug af adgangen til at kræve prøvetid eller egnethedsprøve, skal anerkendelsesorganets beslutning være behørigt begrundet. Ved vurderingen af, om en ansøger skal gennemgå prøvetid eller egnethedsprøve, skal det indgå, hvorvidt de kundskaber, som ansøgeren har erhvervet i løbet af sin erhvervserfaring eller gennem livslang læring i et andet land, helt eller delvist opfylder kravet om fornødne kvalifikationer. Ansøgeren skal have mulighed for at tage egnethedsprøven senest 6 måneder efter den oprindelige beslutning om at underlægge ansøgeren en egnethedsprøve i overensstemmelse med Europa-Parlamentets og Rådets direktiv 2005/36/EF, som senest ændret ved Europa-Parlamentets og Rådets direktiv 2013/55/EU om anerkendelse af erhvervsmæssige kvalifikationer i EU, art. 14, stk. 6 og 7.
+*Stk.* *5.* Anerkendelsesorganet kan i overensstemmelse med Europa- Parlamentets og Rådets direktiv 2005/36/EF, som senest ændret ved Europa-Parlamentets og Rådets direktiv 2013/55/EU om anerkendelse af erhvervsmæssige kvalifikationer i EU, art. 14, stk. 1, 2, 4 og 5, selvom ansøger opfylder betingelserne i § 558, stk. 1, kræve, at ansøgeren gennemgår en prøvetid, der ikke må overstige tre år, eller går op til en egnethedsprøve. Hvis anerkendelsesorganet gør brug af adgangen til at kræve prøvetid eller egnethedsprøve, skal anerkendelsesorganets beslutning være behørigt begrundet. Ved vurderingen af, om en ansøger skal gennemgå prøvetid eller egnethedsprøve, skal det indgå, hvorvidt de kundskaber, som ansøgeren har erhvervet i løbet af sin erhvervserfaring eller gennem livslang læring i et andet land, helt eller delvist opfylder kravet om fornødne kvalifikationer. Ansøgeren skal have mulighed for at tage egnethedsprøven senest 6 måneder efter den oprindelige beslutning om at underlægge ansøgeren en egnethedsprøve i overensstemmelse med Europa-Parlamentets og Rådets direktiv 2005/36/EF, som senest ændret ved Europa-Parlamentets og Rådets direktiv 2013/55/EU om anerkendelse af erhvervsmæssige kvalifikationer i EU, art. 14, stk. 6 og 7.
 
 *Stk. 6.* Anerkendelsesorganet kan udveksle oplysninger med kompetente myndigheder i andre lande om:
 

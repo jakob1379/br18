@@ -24,7 +24,8 @@ Bygningsdele, der indgår i den færdige bygning som tag, ydervægge, indervægg
 
 Bygningsdelene er grupperet i typer og kategorier. I kolonnen detaljeringsniveau fremgår eventuelle afgrænsninger af, hvad der skal medregnes af materialer for den pågældende bygningsdel.
 
-***Forenklinger\***
+***Forenklinger***
+
 Fastgørelsesmidler, fx søm, skruer, kiler, hulplader til søm eller skruer, murbindere eller lignende, medregnes ikke.
 
 Større samlinger af væsentlig betydning for det bærende system, fx boltesamlinger, medregnes. Dette kan være som et samlet skøn af materialemængder, sådan som materialet er opgjort i [bilag 2, tabel 7](../tabel_7 "Tabel_7").

@@ -101,7 +101,7 @@ Ifølge BR18 skal der etableres tilstrækkeligt afløb for regnvand, så dette i
 
  
 
-**Kapitel 8 - Byggeret og helhedsvurdering **
+**Kapitel 8 - Byggeret og helhedsvurdering** 
 
 Lokalplaner regulerer en række forhold for byggeri. I det omfang en lokalplan ikke foreligger for et givet område, reguleres forholdene af bygningsreglementet, f.eks. den tilladte højde af et byggeri, og dermed i nogen grad sokkelhøjden (BR18, kap. 8). Byggeri, der højst er 8,5 meter højt og er på højst to etager, vil, hvis det i øvrigt opfylder specifikke bestemmelser om bebyggelsesprocent, grundens størrelse samt afstandsforhold, kunne opnå byggetilladelse. Højder måles som angivet i bygningsreglementet (BR18, kap. 23, § 456, og kap. 8).
 
@@ -159,22 +159,26 @@ Generelt kan bygningen beskyttes mod fugtpåvirkning fra overfladevand ved at gi
 
  
 
-**Anvisninger fra Rørcentret **
+**Anvisninger fra Rørcentret** 
 
 *Rørcenter-anvisning 016, Anvisning for håndtering af regnvand på egen grund*
 
 Denne anvisning beskriver, hvordan tagvand og vand fra terrasser og lignende kan nedsives sikkert på egen grund i en faskine, i et regnbed eller ved udledning på græsplænen. Anvisningen gennemgår reglerne for nedsivning og de forundersøgelser, der er nødvendige, før et nedsivningsprojekt kan begynde. Derudover findes en beskrivelse af, hvordan de tre anlægstyper dimensioneres og udformes (TI Rørcentret, 2012).
 
-*Rørcenter-anvisning 026, LAR-anlæg. Vejledning i projektering, dimensionering, udførelse og drift\*
+*Rørcenter-anvisning 026, LAR-anlæg. Vejledning i projektering, dimensionering, udførelse og drift*
+
 Formålet med denne anvisning er at danne et fælles teknisk grundlag for projektering, dimensionering, udførelse og drift af anlæg til Lokal Afledning af Regnvand -- LAR-anlæg. Anvisningen dækker både store og små anlæg og er et supplement til Rørcenter-anvisning 016, Anvisning for håndtering af regnvand på egen grund (TI Rørcentret, 2018).
 
-*Rørcenter-anvisning 020, Skybrudssikring af bygninger\*
+*Rørcenter-anvisning 020, Skybrudssikring af bygninger*
+
 Selv om denne anvisning retter sig mod oversvømmelse som følge af skybrud, vil mange af de tiltag, der beskrives, også kunne anvendes i kystnære områder med risiko for oversvømmelse som følge af vandstigninger og stormflod. Det drejer sig blandt andet om at sikre fald på terræn, at eventuelle kældernedgange og lyskasser etableres med hævet kant, og at nedkørselsramper til garageanlæg f.eks. udføres med linjedræn eller med skot, der kan rejses ved risiko for oversvømmelse. Anvisningen giver driftspersonale, kloakmestre og ingeniører et konkret værktøj, som de kan bruge til at beskytte større ejendomme mod skader fra skybrud. Anvisningen beskriver en systematisk gennemgang af bygninger med en risiko for indtrængen af vand fra kloaksystemet eller terræn i forbindelse med skybrud, og anviser en række løsninger på de problemer, der typisk kan føre til, at vandet kan trænge ind. Anvisningen indeholder også afsnit om ansvarsforhold med henvisning til bygningsreglementets bestemmelse om sikring mod oversvømmelse ved risiko for opstemning i hovedafløbssystemet. Desuden indeholder anvisningen afsnit om beredskab mod oversvømmelser samt, hvordan konsekvenserne af en oversvømmelse kan reduceres. (TI Rørcentret, 2013a). Rørcenteranvisning 020 er suppleret med en hjemmeside ([www.skybrudssikringafbygninger.dk](https://www.skybrudssikringafbygninger.dk/)), hvor løsningsforslag til sikring af en ejendom mod vand på terræn er vist.
 
-*Rørcenter-anvisning 021, Kælderoversvømmelser. Sikring mod opstigende kloakvand\*
+*Rørcenter-anvisning 021, Kælderoversvømmelser. Sikring mod opstigende kloakvand*
+
 Anvisningen retter sig specifikt mod sikring af kældre mod kloakvand, der stemmer op i hovedkloakkerne, og beskriver en systematik for gennemgang af de tiltag, der kan anvendes. Desuden anvises en række løsninger, der er relateret til de muligheder, som DS 432 beskriver til sikring mod oversvømmelse som følge af opstemning i hovedafløbssystemet. Ligeledes beskrives mulige løsninger til håndtering af regnvand (TI Rørcentret, 2013b).
 
-*Rørcenter-anvisning 011, Vacuumsystemer i bygninger -- vejledning i projektering, udførelse og drift\*
+*Rørcenter-anvisning 011, Vacuumsystemer i bygninger -- vejledning i projektering, udførelse og drift*
+
 Anvisningen beskriver afløbssystemer. Disse ledninger kan lægges med fald, så tyngdekraften leverer transportenergien. Ved afløb fra lavtliggende områder kan det være nødvendigt at bruge energi til at løfte vandet op til et højere niveau, enten ved tryksystemer eller vakuumsystemer. Anvisningen er en praktisk vejledning i projektering, udførelse og drift af vacuumsystemer, herunder fordele og ulemper ved vacuumsystemer frem for andre afløbsystemer (TI Rørcentret, 2006).
 
  
@@ -389,7 +393,8 @@ Værktøjet er især rettet mod miljø- og planmedarbejdere i kommunerne, og sø
 
 I KAMP kan man direkte aflæse, hvor mange bygninger og hvor mange kilometer vej, der potentielt kan blive påvirket af vandmasserne og den anslåede bygningsværdi, der bringes i fare. Rapportfunktionaliteten giver brugeren et resultat i PDF-form, og det er muligt at downloade en QGIS-fil, der gør det nemmere at arbejde videre i egne systemer og lokale datasæt.
 
-**PLASK\**
+**PLASK**
+
 [PLASK](https://www.klimatilpasning.dk/vaerktoejer/plask/){rel="noopener noreferrer" target="_blank"} er et gratis værktøj, som Miljøstyrelsen stiller til rådighed for alle, der kan have gavn af at beregne den samfundsøkonomiske gevinst ved klimatilpasning. Redskabet er særligt målrettet forsyningsselskaber og kommuner, der udvikler fælles løsninger. Disse er oftest billigere og skaber flere kvaliteter end traditionelle rørbaserede projekter. Udviklingen af disse alternative løsninger kræver et tæt samarbejde og PLASK er derfor også udviklet med det mål at fremme dialog og fælles vidensudvikling.
 
 **SkadesØkonomi**
@@ -427,7 +432,8 @@ Risikostyringsplanerne for Vanddistrikt Sjælland omfatter følgende områder: K
 
 Se indrapporteringen af risikostyringsplanerne for Vanddistrikt Sjælland her: [https://oversvommelse.kyst.dk/media/327353/sammenfatning-af-risikostyringsplaner-for-oversvoemmelse-for-vanddistrikt-sjaelland\_\_web.pdf](https://oversvommelse.kyst.dk/media/s5yhznld/kdi-nst-2015-_risikostyringsplan-for-vanddistrikt-sjaelland.pdf){rel="noopener" target="_blank"}
 
-**IPCC's 6. hovedrapport\**
+**IPCC's 6. hovedrapport**
+
 FN's klimapanel udgiver rapporter, der samler og integrerer international viden om jordens tilstand og dets klima. Rapporterne forsyner verden med den mest omfattende vurdering af klimaforskningen, og viden om hvordan de modvirkes, og hvordan vi tilpasser os. Derudover udgør de det faktuelle grundlag for de internationale klimaforhandlinger.
 
 Under det seneste arbejdsprogram er der udgivet tre særrapporter, en metoderapport, samt tre arbejdsgrupperapporter, der udgør de største bidrag til panelets 6. hovedrapport. Hovedrapportens sidste del er en synteserapport, der giver en tværgående og integreret sammenstilling af de tre arbejdsgrupperapporter.
@@ -602,25 +608,32 @@ Faskiner til nedsivning af regnvand har været brugt i mange år, og som regel f
 
 Niveaufri adgang til bygninger skal udformes, så der ikke opstår vandindtrængning. Erfaringsbladet beskriver de forhold, som man skal være opmærksom på for at undgå fugtskader i bygninger. Herunder disponering af bygninger ift. terræn, gulvniveau, sokkelrender, placering af betonplade i terrændæk, dræning, ramper, vandtæt sokkelpuds og omgivende terræn.
 
-*Erfaringsblad (50) 20 09 29: Undgå kælderoversvømmelse\*
+*Erfaringsblad (50) 20 09 29: Undgå kælderoversvømmelse*
+
 Kraftige regnskyl og skybrud kan resultere i, at kloakkerne ikke kan følge med, og det medfører en sammenblanding af spildevand og regnvand, som vil stemme op i kloakken og løbe ind i kældre og lavtliggende bygninger. Skaderne er ofte store, netop fordi oversvømmelsen består af blandet spilde- og regnvand. Erfaringsbladet beskriver de foranstaltninger, der kan gennemføres for at undgå kælderoversvømmelse.
 
-*Erfaringsblad (50) 19 12 13: Omfangsdræn -- ved enfamiliehuse og småhuse\*
+*Erfaringsblad (50) 19 12 13: Omfangsdræn -- ved enfamiliehuse og småhuse*
+
 Fugtskader i vægge og kældre ses ofte i bygninger uden omfangsdræn med forkert projekterede eller dårligt udførte dræn -- eller gode dræn, der ikke fungerer på grund af manglende vedligehold. I erfaringsbladet gennemgås retningslinjer for dræning ved enfamiliehuse og andre mindre bygninger samt udførelse og vedligehold af drænsystemet.
 
-*Erfaringsblad (21) 16 09 02: Fugtspærrer -- udførelsesdetaljer ved nybyggeri\*
+*Erfaringsblad (21) 16 09 02: Fugtspærrer -- udførelsesdetaljer ved nybyggeri*
+
 Dette blad beskriver udførelse af bygningsdetaljer ved en bygnings fundament for at modvirke fugtopstigning i vægge. Manglende fugtspærre kan øge konsekvenserne af store vandbelastninger, f.eks. ved at jorden omkring bygningen ikke kan håndtere de store vandmængder, som så trækker ind i huset. Det fugtspærrende materialelag skal udføres, så fugten ikke kan opsuges og trækkes forbi laget. Det påpeges, at alle gennembrydninger af fugtspærren skal udføres fugt-, luft- og radontæt.
 
-*Erfaringsblad (19) 15 11 14: Kældervægge og -gulve - fugtsikring og varmeisolering\*
+*Erfaringsblad (19) 15 11 14: Kældervægge og -gulve - fugtsikring og varmeisolering*
+
 Ved isolering af kælderydervægge og -gulve opnås ikke altid det ønskede resultat. Årsagen er i nogle tilfælde uensartede retningslinjer fra leverandørerne af varmeisoleringsmaterialer og grundmursplader, f.eks. med hensyn til tilbagefyldningsmateriale, brug af geotekstil, fugtisolering af fundamentklods og kælderydervæg samt udførelse af dræn. I andre tilfælde er der fejl i udførelsen, f.eks. af kælderydervægge med grundmursplade uden etablering af omfangsdræn. I dette erfaringsblad beskrives fugtpåvirkninger, -mekanismer og materialer samt forskellige metoders anvendelse i bygninger med kælderydervægge udført af beton, letklinkerbeton og fundamentblokke. Erfaringsbladet handler ikke om afhjælpning af vandskader, men om forhold, som det er vigtigt at håndtere for at begrænse konsekvensen af vandskader.
 
-*Erfaringsblad (99) 14 12 31: Skybrud og sikring af bygninger\*
+*Erfaringsblad (99) 14 12 31: Skybrud og sikring af bygninger*
+
 Stadigt flere skybrud øger risiko for oversvømmelser af regn- og spildevand i særligt udsatte områder -- og dermed indtrængning af vand i bygninger. Skaderne kan begrænses gennem målrettede foranstaltninger -- fx ændring af bygninger og terræn samt effektivt beredskab -- som sikrer bygninger mod fugtskader. Ud over kommunale aktiviteter med klimatilpasningsplaner og renoveringer af fælles afløbsanlæg kan den enkelte bygningsejer også bidrage til at sikre bygningen mod indtrængende vand fra terræn og afløb. I erfaringsbladet beskrives nogle enkle foranstaltninger, som kan reducere risiko for vandskader i bygningen -- herunder skader som følge af overbelastede nedløbsrør og regnvandsafløb.
 
-*Erfaringsblad (50) 14 12 30: Lokal afledning af regnvand -- på græsarealer, i regnbede og faskiner\*
+*Erfaringsblad (50) 14 12 30: Lokal afledning af regnvand -- på græsarealer, i regnbede og faskiner*
+
 De senere års hyppige, kraftige regnbyger har i nogle områder medført oversvømmelser i såvel kældre som på terrænet omkring bygninger. I mange kommuner undersøges muligheder for at aflaste kloaksystemerne ved, at de enkelte grundejere håndterer afledning af regnvand på egen grund. I erfaringsbladet beskrives, hvordan tagvand og regnvand fra terrasser og andre befæstede arealer kan nedsives ved udledning på græsplæne, i regnbede og faskiner -- i daglig tale lokal afledning af regnvand (LAR). Desuden gennemgås forudsætninger for nedsivning og nødvendige forundersøgelser før realisering -- herunder dimensionering og udformning af anlæg til nedsivning af regnvand. Anlægstyperne kan anvendes ved både parcelhuse og større bebyggelser.
 
-*Erfaringsblad (99) 12 07 23: Udtørring efter vandskade\*
+*Erfaringsblad (99) 12 07 23: Udtørring efter vandskade*
+
 Der skal hurtigt igangsættes udtørrende foranstaltninger, hvis en bygning eller bygningsdel har været udsat for vandskade. Dette er nødvendigt for at reducere direkte skader og følgeskader, f.eks. skimmelvækst, korrosion og angreb fra trænedbrydende svampe. I erfaringsbladet præsenteres fordele og ulemper ved forskellige udtørringsmetoder. Desuden omtales en række forholdsregler, der knytter sig til udtørringsprocessen og den efterfølgende udbedring efter vandskader.
 
 ### Bilag 2 Særlige udfordringer ved byggeri i kystnære områder {#1a73f940-a14f-47c3-84a1-3d1da9390066}
@@ -630,29 +643,36 @@ I kystnære områder møder byggeriet en række særlige udfordringer, som byghe
 I den forbindelse er det vigtigt at forstille sig de ekstreme hændelser i forbindelse med stormflod og vandstigninger, der i fremtiden kan forekomme, og at overveje om man i tide og med en rimelig investering kan gennemføre tiltag, som kan imødegå eller reducere risikoen for skader, når de ekstreme hændelser indtræffer.
 
 **Ved planlægning af en byggesag er det særlig vigtigt systematisk at gennemtænke blandt andet følgende forhold: \**
-*- Kan stormflod eller overløb fra åer ramme byggegrunden\*
+*- Kan stormflod eller overløb fra åer ramme byggegrunden*
+
 Hvis ja, hvilken kote vil den maksimale vandstand nå?
 
 Planlæg byggerier med udgangspunkt i en sådan belastning, og vær opmærksom på, at almindeligt anvendte standardløsninger ikke nødvendigvis opfylder de krav, der bør stille.
 
-*- Er der risiko for, at opstemning i afløbssystemet fører til oversvømmelse?\*
+*- Er der risiko for, at opstemning i afløbssystemet fører til oversvømmelse?*
+
 Hvis ja, hvilket niveau af opstemning kan forekomme?
 
 Planlæg byggeriet med udgangspunkt i en sådan belastning, og vær særlig opmærksom på de anvisninger, der sigter på at imødegå skader under sådanne forhold
 
-*For alle byggerier opfyldes krav til bortledning af vand fra ekstreme regnskyl.\*
+*For alle byggerier opfyldes krav til bortledning af vand fra ekstreme regnskyl.*
+
 Planlæg byggeriet med udgangspunkt i de regler og anvisninger, der er peget på i det foregående.
 
-**Udfordringerne afhænger af, om der er tale om:\**
+**Udfordringerne afhænger af, om der er tale om:**
+
 *- En nybygning \*
 I forbindelse med en nybygning har man muligheden for økonomisk at vælge robuste løsninger, men en god sikkerhedsmargin ud fra en betragtning om, at det ofte er væsentlig billigere at indbygge øget sikkerhed fra start end senere at skulle indbygge samme sikkerhed
 
-*- En tilbygning\*
+*- En tilbygning*
+
 I forbindelse med en tilbygning bør man i så vid udstrækning som muligt projektere som for nybyggeri, og det bør samtidig overvejes, om man med fordel kan opgradere sikkerheden for den eksisterende del af bygningen
 
-*- Renovering og ombygning\*
+*- Renovering og ombygning*
+
 I forbindelse med renovering og ombygning bør senarier om stormflod og vandstigninger inddrages i planlægningen af byggesagen uanset årsagen til byggearbejdet
 
-*- Et almindeligt ønske om opgradering af sikkerheden\*
+*- Et almindeligt ønske om opgradering af sikkerheden*
+
 I forbindelse med opgradering og sikkerhed bør det overvejes, om der kan fremstilles udstyr, som med timers varsel kan monteres og forhindre at vand trænger ind i bygningen. Sørg for, at brugere af bygningen er instrueret i, at det findes og kan drage omsorg for, at det bliver monteret korrekt og i tide.
 

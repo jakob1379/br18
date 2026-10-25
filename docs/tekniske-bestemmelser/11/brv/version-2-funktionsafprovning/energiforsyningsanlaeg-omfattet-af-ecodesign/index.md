@@ -104,7 +104,7 @@ Energiforsyningsanlæg der leveres som færdige units og skal overholde Ecodesig
 
 Der foretages dog en vurdering af om energiforsyningsanlæggets energimæssige effektivitet er tilstrækkelig, ved at der foretages kontrol af det varme- eller kølefordelingssystem som er tilsluttet til energiforsyningsanlægget, hvis dette er aktuelt. Dette er med til at verificere, at energiforsyningsanlægget fungerer korrekt i det samlede varme- og køleanlæg, inkl. dets komponenter, herunder styring- og reguleringskomponenter.
 
-*Forudsætninger for udførelse af funktionsafprøvning *
+*Forudsætninger for udførelse af funktionsafprøvning* 
 
 For at kunne foretage en vurdering af om energiforsyningsanlægget har den forudsatte energimæssige effektivitet, skal følgende normalt være opfyldt:
 
@@ -120,7 +120,8 @@ For at kunne foretage en vurdering af om energiforsyningsanlægget har den forud
 
 • Alle temperaturmålere til styring er korrekt monteret og kalibreret med den aktuelle varme- eller kølegiver.
 
-*Kontrolpunkter\*
+*Kontrolpunkter*
+
 For varmeanlæg kontrolleres det at nedenstående punkter er opfyldt:
 
 • energiforsyningsanlægget er dimensioneret til dimensionerende fremløbs- og returløbstemperatur for henholdsvist radiator- eller gulvvarmeanlæg, som angivet i kap. 6.9 i DS 469. Ved udskiftninger i eksisterende bygninger kontrolleres det at energiforsyningsanlægget kan dække bygningens behov.

@@ -76,7 +76,8 @@
 
 Der skal gennemføres en funktionsafprøvning af solvarmeanlægget før ibrugtagning af bygningen. Funktionsafprøvningen skal påvise, at solvarmeanlægget er funktionsdygtigt og kan bidrage energieffektivt til rumvarme- og varmtvandsproduktionen.
 
-*Relevante standarder og anvisninger\*
+*Relevante standarder og anvisninger*
+
 Relevante standarder og anvisninger i forbindelse med funktionsafprøvning af solvarmeanlæg er:
 
   [![](../../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
@@ -115,7 +116,7 @@ Det kontrolleres, at rør frem og retur mellem solfangerpaneler og solvarmebehol
 
 Det kontrolleres, at der er det nødvendige tryk på anlægget (hvis anlægstypen kræver det).
 
-Det kontrolleres, at der ikke kan opstå selvcirkulation når anlægget er ude af drift. Det vil fx sige, at der er installeret en kontra- eller magnetventil inden rørisolering. Det kan eventuelt dokumenteres med foto.*\*
+Det kontrolleres, at der ikke kan opstå selvcirkulation når anlægget er ude af drift. Det vil fx sige, at der er installeret en kontra- eller magnetventil inden rørisolering. Det kan eventuelt dokumenteres med foto.
 
 *Acceptkriterium*
 

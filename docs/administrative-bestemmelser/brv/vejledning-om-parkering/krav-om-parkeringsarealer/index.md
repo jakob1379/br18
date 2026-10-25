@@ -49,7 +49,8 @@ Ved opførelse af tilbygninger kan der kun stilles krav om etablering af parkeri
 I et eksempel hvor der opføres en tilbygning til en skole til undervisningsformål, skal det vurderes, om tilbygningen skaber et øget parkeringsbehov, men der kan ikke stilles krav om etablering af parkeringsareal til dækning af den eksisterende skoles parkeringsbehov. Hvis der derimod ansøges om opførelse af en tilbygning til boliger og samtidig ansøges om en anvendelsesændring af den eksisterende skole til boliger, kan der stilles krav om etablering af parkeringsareal både til tilbygningen og den eksisterende bebyggelse.
 
 **\*
-***Ændret anvendelse\***
+***Ændret anvendelse***
+
 \*
 
 Ved ændret anvendelse af en eksisterende bebyggelse skal bygningsmyndigheden tage stilling til, om den ændrede anvendelse øger behovet for parkeringsareal, og der dermed skal stilles krav om udvidelse af det eksisterende parkeringsareal.

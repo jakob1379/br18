@@ -60,7 +60,7 @@ Hvis ovenstående betingelser overholdes, er det som udgangspunkt tilladt at byg
 
 **Eksempel 1:**
 
-*På en grund er der opført en garage 1,5 meter fra skel. Garagens længste side mod skel er 6 meter. Ejeren af ejendommen ønsker efterfølgende at opføre et udhus, der placeres 2 meter fra skel. Da den samlede længde af samtlige bygninger på grunden maksimalt må udgøre 12 meter i skel, må udhusets længste side mod skel maksimalt være 6 meter. Hvis den samlede længde af garagen og udhuset mod skel overstiger 12 meter, vil betingelserne ikke være opfyldt, og der vil derfor skulle ansøges om byggetilladelse, og det vil være op til kommunen, om der kan gives en byggetilladelse til opførelse af bebyggelse, der ikke overholder byggeretten. Alternativt kan udhuset placeres længere fra skel end 2,5 meter.\*
+*På en grund er der opført en garage 1,5 meter fra skel. Garagens længste side mod skel er 6 meter. Ejeren af ejendommen ønsker efterfølgende at opføre et udhus, der placeres 2 meter fra skel. Da den samlede længde af samtlige bygninger på grunden maksimalt må udgøre 12 meter i skel, må udhusets længste side mod skel maksimalt være 6 meter. Hvis den samlede længde af garagen og udhuset mod skel overstiger 12 meter, vil betingelserne ikke være opfyldt, og der vil derfor skulle ansøges om byggetilladelse, og det vil være op til kommunen, om der kan gives en byggetilladelse til opførelse af bebyggelse, der ikke overholder byggeretten. Alternativt kan udhuset placeres længere fra skel end 2,5 meter.*
 
 *Det er en forudsætning, at bygningsreglementet og anden lovgivning overholdes.*
 

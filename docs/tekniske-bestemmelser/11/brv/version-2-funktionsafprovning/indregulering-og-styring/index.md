@@ -56,7 +56,8 @@ Ved 'indregulering' forstås, at vand- eller luftstrømme fordeles, så de enkel
 
 *Formål med funktionsafprøvning af indregulering*   Afprøvningen skal eftervise, at anlægget i praksis mindst yder svarende til de forudsætninger, der dokumenterer bygningens overholdelse af bygningsreglementets krav til energiforbrug og termisk indeklima, jf. kapitel 11 og 19, Energiforbrug samt Termisk indeklima og installationer til varme- og køleanlæg. Det skal derfor eftervises, at anlægget er indreguleret efter forudsætningerne. I mindre og simple anlæg kan eftervisningen foretages i forbindelse med indreguleringen.
 
-*Forudsætninger for udførelse af funktionsafprøvning af indregulering\*
+*Forudsætninger for udførelse af funktionsafprøvning af indregulering*
+
 For at kunne udføre funktionsafprøvning af indregulering af varme- og køleanlæg skal følgende normalt være opfyldt: • Der er foretaget den fornødne udluftning og rensning for urenheder ved fx gennemskylning jf. DS 469, kap. 14.6.
 
 • Alle vandkredse til varme og køling er indreguleret i henhold til DS 469, kap. 14.7, Indregulering, og dokumentation foreligger.
@@ -67,20 +68,21 @@ For at kunne udføre funktionsafprøvning af indregulering af varme- og køleanl
 
 • Alle decentrale ventiler ved varme-/kølegivere er indstillet som anført i dokumentationen.
 
-  *Målepunkter\*
+  *Målepunkter*
 
 Hvis fremløbstemperaturstyringen sker ved vejrkompensering, måles udetemperaturen ved brug af eksternt måleudstyr samme sted som anlæggets udetemperaturføler er placeret. Samtidigt kontrolleres det, om målepunktet er egnet til måling af udetemperatur. Det vil sige uden påvirkning af direkte solindfald.  *
 
 Zoner med radiatorer *
 
-Ved radiatoranlæg afprøves det, om der kommer jævn varme på alle radiatorer. Afprøvningen foregår ved at afmontere alle følerelementer og derefter manuelt indstille fremløbstemperaturen. Radiatoren skal være varm i toppen og godt afkølet i bunden.   Kontrollen kan foretages med termografi eller temperaturmåling.   *Zoner med gulvvarme\*
+Ved radiatoranlæg afprøves det, om der kommer jævn varme på alle radiatorer. Afprøvningen foregår ved at afmontere alle følerelementer og derefter manuelt indstille fremløbstemperaturen. Radiatoren skal være varm i toppen og godt afkølet i bunden.   Kontrollen kan foretages med termografi eller temperaturmåling.   *Zoner med gulvvarme*
+
 Ved gulvvarmeanlæg afprøves det, om der kommer jævn varme på alle gulvene. Afprøvningen foregår ved at afmontere alle følerelementer eller rumtermostaterne stilles på en høj rumtemperatur. Derefter indstilles fremløbstemperaturen manuelt.
 
 Såfremt fremløbsretningen på gulvvarmeslangen har betydning for anlæggets funktion, f.eks. i tilfælde hvor fremløbet er tænkt ført direkte under et vindue for at forhindre kuldenedfald skal korrekt fremløbsretning eftervises f.eks. ved termografi af gulvet, eller ved fotografisk dokumentation af sammenhæng mellem de lagte gulvvarmeslanger og tilslutningen til korrekt ventil.
 
 Såfremt der er installeret gulvvarme med manuel indregulering kan denne for eksempel eftervises ved visuel kontrol af den projekterede forindstilling ved fordelerrør og strengreguleringsventiler, der er monteret i anlægget. Denne eftervisning kan ske i forbindelse med indreguleringen.
 
-*Acceptkriterium\*
+*Acceptkriterium*
 
 Funktionsafprøvningens resultat med hensyn til indregulering kan accepteres, når de forudsatte værdier for forindstilling er kontrolleret. Såfremt der er installeret gulvvarme med automatiseret indregulering af vandmænger kan funktionsafprøvningen accepteres hvis: • Anlægget er i overensstemmelse med det oplyste anlæg til byggemyndigheden og det udleverede drift- og vedligeholdelsesmateriale.
 

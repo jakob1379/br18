@@ -88,9 +88,9 @@ Effektoptag og omdrejningstal for ventilatormotorer kan fx logges for at eftervi
 
 Ved afprøvning af behovsstyringer, der styres efter CO2- og fugtniveau, er det hensigtsmæssigt at afprøvningen fremprovokerer, at setpunktet for disse parametre overskrides for at påvise, at styringen reagerer efter de indstillede setpunktsværdier. Eftervisningen kan også ske ved at ændre setpunktet.
 
-Kontrol af at styringsautomatik og følere til åbning og lukning af ventilationsåbninger fungerer efter hensigten og som projekteret.*\*
+Kontrol af at styringsautomatik og følere til åbning og lukning af ventilationsåbninger fungerer efter hensigten og som projekteret.
 
-*\*
+
 
 *Acceptkriterium
 

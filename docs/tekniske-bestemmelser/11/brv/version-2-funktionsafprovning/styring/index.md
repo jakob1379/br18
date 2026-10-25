@@ -112,7 +112,8 @@ Zoner med gulvvarme
 
 • Hvis fremløbsretningen er vigtig for gulvvarmens funktion skal det eftervises at det relevante område af gulvet ikke er koldere end resten af gulvet.
 
-*Dokumentation\*
+*Dokumentation*
+
 Der udarbejdes en funktionsafprøvningsrapport, der beskriver:
 
 • Hvilke forudsætninger og forhold målingen er udført under.

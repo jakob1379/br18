@@ -82,13 +82,13 @@ Nedrivning af bebyggelse skal meddeles til Bygnings- og Boligregistret (BBR). Be
 
 **Eksempel 1**
 
-*I tilknytning til et enfamiliehus ønsker man at nedrive en garage på 30 m2. Dette kan ske uden tilladelse, da sekundær bebyggelse, der ikke er integreret, ikke kræver tilladelse ved nedrivning uanset størrelsen af det samlede areal af den sekundære bebyggelse.\*
+*I tilknytning til et enfamiliehus ønsker man at nedrive en garage på 30 m2. Dette kan ske uden tilladelse, da sekundær bebyggelse, der ikke er integreret, ikke kræver tilladelse ved nedrivning uanset størrelsen af det samlede areal af den sekundære bebyggelse.*
 
 *Det er dog en forudsætning, at bygningsreglementet, deklarationer og anden lovgivning overholdes.*
 
 **Eksempel 2:**
 
-*I tilknytning til et enfamiliehus ønsker man at nedrive en integreret garage på 30 m2. Dette kan ikke ske uden tilladelse. Nedrivning af integreret sekundær bebyggelse kræver altid tilladelse at opføre, og kræver ligeledes altid tilladelse at nedrive.\*
+*I tilknytning til et enfamiliehus ønsker man at nedrive en integreret garage på 30 m2. Dette kan ikke ske uden tilladelse. Nedrivning af integreret sekundær bebyggelse kræver altid tilladelse at opføre, og kræver ligeledes altid tilladelse at nedrive.*
 
 *Det er dog en forudsætning, at bygningsreglementet, deklarationer og anden lovgivning overholdes.*
 

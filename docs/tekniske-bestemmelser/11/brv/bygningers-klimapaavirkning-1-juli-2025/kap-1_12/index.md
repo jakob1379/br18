@@ -394,7 +394,7 @@ Valg af hoved- og undergrupper og sammenhæng med input-mængder i tabel 6 er fo
 
 •    Detaljeringsniveau der ikke fordrer større detaljering end i mest anvendte klassifikationssystemer
 
-#### **1.4.3    Mapping af tabel 6 mod forskellige klassifikationssystemer **
+#### **1.4.3    Mapping af tabel 6 mod forskellige klassifikationssystemer** 
 
 Ved brug af klassifikationssystemer til projektering og udførsel af byggeri er der udviklet en mapping, der giver mulighed for at se, hvordan bygningsdele i et byggeri relaterer sig til bygningsdele i tabel 6. Mappingen er lavet ud fra fem forskellige klassifikationssystemer: BIM7AA, BIMTypeCode, Cuneco Classification System (CCS), Construction Classification International (CCI) og Industry Foundation Classes (IFC).
 
@@ -666,7 +666,7 @@ Følgende miljødata fra BR18, bilag 2, tabel 7, vælges:
 
 |  |  |  |  |  |  |  |
 |:---|:---|:---|:---|:---|:---|:---|
-|  **Materiale** | **ID ** | ** A1-3** | ** C3** | ** C4** | ** D** | ** Funktionel enhed** |
+|  **Materiale** | **ID**  |  **A1-3** |  **C3** |  **C4** |  **D** |  **Funktionel enhed** |
 |  Stål, varmvalset plade, 2-20 mm |  #G0767  |  2,78247 |   |   | -1,50772 |  1 kg |
 
 #### ** **
@@ -863,7 +863,8 @@ Når et datagrundlag skal findes vha. mængde råmateriale, kan overordnet to sc
 
 Begge metoder medfører en række usikkerheder og vil undervurdere påvirkningen af produktet, hvorfor denne metode kun bør anvendes, hvis intet andet datasæt, jf. BR18, bilag 2, tabel 7, vurderes værende repræsentativ, og hvis der gives mulighed herfor, jf. BR18, bilag 2, tabel 6.
 
-***Metode for opgørelse af klimapåvirkning ved en mængde råmateriale\***
+***Metode for opgørelse af klimapåvirkning ved en mængde råmateriale***
+
 Hvor det af BR18, bilag 2, tabel 6, fremgår, at bygningsdelene kan opgøres *eventuelt som mængde råmateriale*, kan miljødata findes ved at foretage en *samlet opgørelse* af det materiale, som indgår i bygningsdelene. Denne undtagelse er der behov for, da der på nuværende tidspunkt ikke findes generiske miljødata for alle produkter, som indgår i et byggeri.
 
 Når et datagrundlag skal findes vha. mængde råmateriale, kan overordnet to scenarier og metoder være relevante:
@@ -896,7 +897,7 @@ I databladet for det konkrete produkt er materialesammensætning oplyst med en s
 
 Af BR18, bilag 2, tabel 7, fremgår det, at datasættet for modul A1-3 for galvaniseret stål er opgjort i kvadratmeter og derfor er det først omregnet til kilogram efter ovenstående vejledning:
 
-* Eksempel på omregning af data ved ændring af enhed.*
+*Eksempel på omregning af data ved ændring af enhed.*
 
 #### **1.5.6 Datagrundlaget for materialerne omregnet til den samme funktionelle enhed på 1 kg**
 
@@ -934,7 +935,7 @@ BR18, bilag 2, tabel 6, oplyser, at der kan anvendes miljødata til råmateriale
 | **Materiale** | **ID** | **A1-3** | **C3** | **C4** | **D** | **Funktionel** **enhed** |
 | Galvaniseret stål | #G0768 | 2,935 | 0 | 0 | -1,379 | 1 kg |
 
-#### ** 1.5.9 Beregning**
+####  **1.5.9 Beregning**
 
 |           |                |                   |
 |:----------|:---------------|:------------------|
@@ -982,7 +983,7 @@ Hvis der sammen med det genbrugte materiale også anvendes nye materialer, tæll
 
 Som undtagelse til ovenstående så indgår behandling af det genbrugte materiale i form af maling, lak mm., som er sammenligneligt med reparation og vedligehold, ikke i beregningen. Det gælder også, selv om behandlingen har været nødvendig for at forberede materialet til et nyt formål. Dette gælder, så længe behandlingen er sammenlignelig med reparation og vedligehold af materialet, som det indgår i sin nye funktion.
 
-#### ** 1.5.14 Eksempler**
+####  **1.5.14 Eksempler**
 
 *Eksempler vedrørende forskel på genbrug og genanvendelse*
 
@@ -1125,7 +1126,7 @@ For transport til og fra byggepladsen skal følgende opgøres som følge af stan
 
 Transport af personer til og fra byggepladsen skal ikke inkluderes ifølge standarden.
 
-*Hvordan afviger kravet i bygningsreglementet fra standarden? *
+*Hvordan afviger kravet i bygningsreglementet fra standarden?* 
 
 Der er flere af de ovenstående processer, der er modificeret i bygningsreglementet, jf. § 297, stk. 9. Modifikationerne fremgår herunder:
 
@@ -1322,7 +1323,7 @@ BUILD rapport 2021:32 angiver den tilstrækkelige dokumentation for eventuel afv
 
 Ved sammensatte bygningsdele, som ydervægge, tagopbygninger m.m., skal der tages stilling til, om der alt efter opbygningen er tale om en samlet levetid for bygningsdelen, eller om enkelte materialer kan udskiftes separat, dvs. uden destruktiv nedtagning.
 
-Dette er nærmere beskrevet i afsnit 3.5 i BUILD rapport 2021:32. Hvis den sammensatte bygningsdel er opbygget således, at dele med kort levetid ikke er udskiftelige uden destruktiv nedtagning af dele med længere levetid, bestemmes levetiden af den sammensatte bygningsdel af delen med kortest levetid.*\*
+Dette er nærmere beskrevet i afsnit 3.5 i BUILD rapport 2021:32. Hvis den sammensatte bygningsdel er opbygget således, at dele med kort levetid ikke er udskiftelige uden destruktiv nedtagning af dele med længere levetid, bestemmes levetiden af den sammensatte bygningsdel af delen med kortest levetid.
 
 Eksempel
 
@@ -1330,7 +1331,8 @@ Eksempel
 
 Ved opførelsen af bygningen vælges en løsning, som medfører, at byggemateriale A med en levetid på 30 år indbygges på en måde, så byggemateriale B med en levetid på 20 år ved udskiftning ikke kan fjernes uden at ødelægge byggemateriale A. På grund af denne sammensætning skal levetiden for den sammensatte bygningsdel dvs. byggemateriale A og B sættes til 20 år.
 
-*Eksempel på håndtering af levetiden af et vindue som sammensat bygningskomponent\*
+*Eksempel på håndtering af levetiden af et vindue som sammensat bygningskomponent*
+
 Der henvises til levetidsrapporten fra BUILD "Levetidstabel BUILD 2021:32, Version 2021", som beskriver, at der kan antages forskellige udskiftningstidspunkter for komponenter i sammensatte bygningsdele, så længe udskiftningen ikke medfører at andre bygningsdele skal udskiftes i samme omgang.
 
 Af levetidstabellen fremgår det, at vinduer har en levetid på 50 år eller 60 år, hvorimod termoruder har en levetid på 25 år. Hvis der anvendes et vindue, hvor ruden kan udskiftes uden destruktiv nedtagning af rammen/karmen, så kan ruden og ramme/karm have forskellige levetider. Hvis der derimod er tale om et vindue, hvor konstruktionsløsningen ikke muliggør en særskilt udskiftning af ruden, skal levetiden for hele vinduet sættes til 25 år.
@@ -1459,7 +1461,7 @@ Følgende eksempler er udelukkende af vejledende karakter, og det skal altid vur
 
 |  |
 |:---------------------------------------------------------------------|
-| ** Eksempler på bygningers funktion og placering, der kan medføre en nødvendig øget klimapåvirkning (listen er ikke udtømmende)** |
+|  **Eksempler på bygningers funktion og placering, der kan medføre en nødvendig øget klimapåvirkning (listen er ikke udtømmende)** |
 |  Anvendelse af hospitals- og laboratorieudstyr (bygningens funktion) |
 |  Høj last på dæk og andre påvirkede konstruktionsdele (bygningens anvendelse |
 |  Ekstra højt sikkerhedsniveau (konsekvensklasse CC3+) (bygningens funktion) |
@@ -1470,7 +1472,7 @@ Følgende eksempler er udelukkende af vejledende karakter, og det skal altid vur
 
 |  |
 |:---|
-| ** Eksempler på forhold der ikke tænkes omfattet af undtagelsen (listen er ikke udtømmende)** |
+|  **Eksempler på forhold der ikke tænkes omfattet af undtagelsen (listen er ikke udtømmende)** |
 |  Æstetiske hensyn (bygningsejerens valg af udformning) |
 |  Store rumvolumener |
 |  Parkeringskældre |
@@ -1614,7 +1616,7 @@ Forskellen mellem påvirkningen af den faktiske bygningsdel og bygningsdelen, so
 
 Såfremt resultatet af Formel 1, 3 eller 4 er mindre end 0, udgør det særlige forhold under alle omstændigheder ikke et problem, da klimapåvirkningen fra bygningsdelen holder sig under referenceværdien for en almindelig bygning.
 
-#### **1.15.1 Eksempel **
+#### **1.15.1 Eksempel** 
 
 *Eksempel på beregning af tillæg ved høj last*
 

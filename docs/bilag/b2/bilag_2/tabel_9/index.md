@@ -28,7 +28,7 @@ Der sondres i det følgende mellem konstruktioner, søjler/bjælker, fundamenter
 
 *** ***
 
-***Konstruktioner\***
+***Konstruktioner***
 
 For konstruktioner beregnes forskellen vha. referenceværdi jf. tabel 9 og formel 1 herunder
 
@@ -49,7 +49,8 @@ Tabel 9: Liste over referenceværdier, som anvendes til at beregne den berettige
 
 *** ***
 
-***Konstruktioner\***
+***Konstruktioner***
+
 For konstruktioner skal forskellen i klimapåvirkning i forhold til en almindelig referenceværdi beregnes som i formel 1 herunder.
 
 Formel 1:
@@ -68,7 +69,8 @@ a er arealet som opgjort ifølge § 297, stk. 5, (i m2).
 
  
 
-***Søjler/bjælker\***
+***Søjler/bjælker***
+
 For søjler og bjælker skal forskellen i klimapåvirkning i forhold til en almindelig referenceværdi beregnes som i formel 2 herunder.
 
 Formel 2:
@@ -85,7 +87,8 @@ a er arealet som opgjort ifølge § 297, stk. 5 (i m2).
 
  
 
-***Fundamenter\***
+***Fundamenter***
+
 For fundamenter skal forskellen i klimapåvirkning i forhold til en almindelig referenceværdi beregnes som i formel 3 herunder. Påvirkningen opgøres samlet for hele fundamentet, også i de tilfælde hvor kun dele af fundamentet har et øget materialeforbrug.
 
 Formel 3: 

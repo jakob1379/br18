@@ -144,7 +144,7 @@ Aftrækssystemer skal udføres og installeres, så de er sikret mod tilstopning,
 
 Aftrækssystemer skal projekteres, udføres og installeres, så de kan modstå fyringsanlæggets røggastemperatur. Der henvises til bestemmelserne i §§ 105-107 i forhold til risikoen for en brands opståen og spredning og § 323 i forhold til aftrækssystemets overfladetemperatur.
 
-*Stk. 2.* Manuelt fyrede fastbrændselsanlæg samt pejse og brændeovne må ikke tilsluttes aftræk med lavere temperaturklasse, jf. *DS/EN 1443 Skorstene -- Generelle krav end T400. *
+*Stk. 2.* Manuelt fyrede fastbrændselsanlæg samt pejse og brændeovne må ikke tilsluttes aftræk med lavere temperaturklasse, jf. *DS/EN 1443 Skorstene -- Generelle krav end T400.* 
 
 *Stk. 3.* Automatisk fyrede fastbrændselsanlæg og pilleovne må ikke tilsluttes aftræk med lavere temperaturklasse, jf.*DS/EN 1443 Skorstene -- Generelle krav end T250.*
 

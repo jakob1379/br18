@@ -289,11 +289,11 @@ I denne fase af stikprøvekontrollen skal kommunen vurdere betydningen af de ulo
 
 I det følgende præsenteres eksempler på denne problemstilling, som kommunen bør være opmærksom på, når det vurderes, om en mangel er af bagatelagtig karakter. Det er hensigten, at disse eksempler kan bidrage til en forståelse af brugsværdien, brugernes situation og deres møde med det fysiske miljø.
 
-**Kunne komme hen til **
+**Kunne komme hen til** 
 
 Særligt for personer med synsnedsættelse, personer med gangbesvær, men også børn, er det afgørende for både brugskvalitet og sikkerhed, at gangareal frem til bebyggelse er anlagt med taktil adskillelse til andre trafikformer (cykel, bil).
 
-**Kunne komme ind  **
+**Kunne komme ind**  
 
 Et 9M murhul giver, afhængig af dørkarmens udformning, ikke nødvendigvis en fri passagebredde på 0,77 meter ved lyd- eller branddøre. En fri passage på 0,77 meter er nødvendig for, at en elektrisk kørestol kan passere.
 
