@@ -76,7 +76,7 @@ Anvisning og beregningsprogram er betalingsbelagt.
 
 Det primære formål med kravene i kapitel 11 - Energiforbrug (§ 250 - § 296), er at begrænse primærenergiforbruget til bygningsdrift set på årsplan. Der er dog visse energikrav i emnet, der er fastlagt ud fra hensyn om at minimere risikoen for kondensproblemer og ud fra hensyn om at begrænse afhængigheden af tilført energi til bygningsdrift fra energisystemet.
 
-Gå til krav om energiforbrug \[§ 250 - § 298\]{#Link til krav om energiforbrug} (nyt vindue).
+Gå til krav om energiforbrug § 250 - § 298 (nyt vindue).
 
 -  [Gå til krav om energiforbrug (§ 250 - § 298)](../../../krav){target="_blank"}
 

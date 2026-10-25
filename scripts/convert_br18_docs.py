@@ -243,7 +243,7 @@ class Cleaner(HTMLParser):
             self.skip_depth += 1
             return
 
-        if tag in FLATTEN_TAGS:
+        if tag in FLATTEN_TAGS or (tag == "a" and "href" not in self._attrs(attrs)):
             self.stack.append("flatten")
             if tag in BLOCK_FLATTEN_TAGS:
                 self.parts.append("\n\n")
