@@ -9,7 +9,7 @@
 - [Eksempelsamling om ombygninger og andre forandringer - For etageboligbyggeri samt enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse](../eksempelsamling-om-ombygninger-og-andre-forandringer)
 - [Vejledning i kommunernes stikprøvekontrol i tilgængelighed](../stikprovekontrol-tilgaengelighed)
 - [Vejledning om brug af brand og konstruktionsklasser](../vejledning-om-brug-af-brand-og-konstruktionsklasser)
-- [Vejledning om opførelse af sekundær bebyggelse med et samlet areal på højst 50 m2](./)
+- [Vejledning om opførelse af sekundær bebyggelse med et samlet areal på højst 50 m2](.)
 - [Vejledning til kommunerne om krav til parkering i forbindelse med byggeri](../vejledning-om-parkering)
 - [Vejledning om skorstene og kravet om byggetilladelse](../vejledning-om-skorstene-og-kravet-om-byggetilladelse)
 - [Vejledning om transportable telte og konstruktioner](../transportable-telte-og-konstruktioner)
@@ -102,9 +102,9 @@ Vi henviser i øvrigt til Bygningsreglementets vejledning til kapitel 5 -- Brand
 
 **Eksempel 3:**
 
-*På en sommerhusgrund placeres et udhus på 32 m2 i en afstand af 2,5 m fra skel og 2,5 m fra sommerhuset. Da udhusets afstand til skel er 2,5 m skal der som udgangspunkt ikke tages særligt hensyn til brandforholdene. Bemærk, at der er særlige afstandskrav for sekundær bebyggelse i tilknytning til sommerhuse. Læs mere herom i afsnit 4.1.3.
+*På en sommerhusgrund placeres et udhus på 32 m2 i en afstand af 2,5 m fra skel og 2,5 m fra sommerhuset. Da udhusets afstand til skel er 2,5 m skal der som udgangspunkt ikke tages særligt hensyn til brandforholdene. Bemærk, at der er særlige afstandskrav for sekundær bebyggelse i tilknytning til sommerhuse. Læs mere herom i afsnit 4.1.3.*
 
-Det er en forudsætning, at bygningsreglementet, deklarationer og anden lovgivning overholdes.*
+*Det er en forudsætning, at bygningsreglementet, deklarationer og anden lovgivning overholdes.*
 
 ### 4.0. Bebyggelsesregulerende bestemmelser for sekundær bebyggelse {#2aacad95-d2ec-4756-9876-47afb7f43a68}
 

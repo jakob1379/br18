@@ -4,7 +4,7 @@
 
 - [Spørgsmål og svar om energiforbrug](../qa)
 - [Spørgsmål og svar om bygningers klimapåvirkning](../spoergsmaal-og-svar-om-bygningers-klimapaavirkning)
-- [Bygningsreglementets vejledning om energiforbrug](./)
+- [Bygningsreglementets vejledning om energiforbrug](.)
 - [Bygningsreglementets vejledning om efterisolering](../ofte-rentable-konstruktioner)
 - [Vejledning om funktionsafprøvning](../version-2-funktionsafprovning)
 - [Vejledning om håndtering af forskelligt energibehov i energirammen](../haandtering-af-forskelligt-energibehov)
@@ -94,9 +94,9 @@ Fjernkøling er ofte sammensat af forskellige køleprocesser. Det kan f.eks. væ
 
 Til brug for eftervisning af overholdelse af energirammen beregnes kølevirkningsgraden som et vægtet gennemsnit af de forskellige køleprocesser i de respektive driftsperioder for bygningen. For frikøling med havvand og grundvandskøling er det elforbruget til pumper og hjælpeudstyr, der indgår. For absorptionskøleanlæg, der er baseret på overskudsvarme, kan der i stedet for anlæggets energimæssige virkningsgrad indregnes kølevirkningsgraden COP på 4,0 for et godt konventionelt køleanlæg. Herved er der et incitament til at benytte køling på grundlag af overskudsvarme, men samtidig er der valgt en robust løsning, der også er holdbar, når muligheden for overskudsvarmeproduktion ophører.
 
--{target="_blank"}
+-  [Gå til krav om energifaktorer (§ 251 - § 253)](../../krav/251_256#ac3ec9cc-582d-4399-b58f-a5a7253bfa32){target="_blank"}
 
-### Rum og bygninger med særlige bestemmelser {#ac3ec9cc-582d-4399-b58f-a5a7253bfa32}
+### 1.2. Rum og bygninger med særlige bestemmelser {#b4a11b4b-0c28-4a2d-85c2-45a37fa9ae5b}
 
 Visse typer af rum og bygninger har specielle vilkår, der retfærdiggør, at de udføres anderledes end normale rum eller bygninger.
 
@@ -111,9 +111,9 @@ Visse typer af rum og bygninger har specielle vilkår, der retfærdiggør, at de
 >
 > c\) Uopvarmede bygninger eller bygninger opvarmet til under 5 °C skal ikke isoleres af hensyn til opvarmning. Hvis bygningen køles skal bygningen isoleres af hensyn til energiforbruget til køling.
 
--{target="_blank"}
+-  [Gå til krav om rum og bygninger med særlige bestemmelser (§ 254)](../../krav/251_256#ac3ec9cc-582d-4399-b58f-a5a7253bfa32){target="_blank"}
 
-### Begrænsning af varmetab {#ac3ec9cc-582d-4399-b58f-a5a7253bfa32}
+### 1.3. Begrænsning af varmetab {#cf5860b6-bc99-4151-85ee-cb008ec772b3}
 
 Når bygninger projekteres, skal der tages højde for en række forhold i forbindelse med projektering og udførelse. Konstruktionerne skal beskyttes mod fugt, vind og kuldebroer, da det forøger varmetabet væsentligt.
 
@@ -133,9 +133,9 @@ Når bygninger projekteres, skal der tages højde for en række forhold i forbin
 
 > d\) Hvis kuldebroer ikke kan undgås, skal kuldebroerne minimeres, så de ikke medfører problemer med fugt og kuldebroerne skal indregnes i energiberegningerne.
 
--{target="_blank"}
+-  [Gå til krav om begrænsning af varmetab (§ 255)](../../krav/251_256#ac3ec9cc-582d-4399-b58f-a5a7253bfa32){target="_blank"}
 
-### Forudsætninger for beregning af bygningers varmetab {#ac3ec9cc-582d-4399-b58f-a5a7253bfa32}
+### 1.4. Forudsætninger for beregning af bygningers varmetab {#515f7ad5-a193-4cbe-9c8f-f21e6f8edac6}
 
 Når energiberegningerne i henhold til bygningsreglementets krav gennemføres er der en række forhold, der skal iagttages.
 
@@ -384,9 +384,9 @@ For bygninger med blandet anvendelse, hvor hovedanvendelsen udgør mindst 80 pct
 
 I energirammeberegningen skal butiksarealet derfor gennemføres med samme data for fx interne belastninger, brugstid, ventilation osv som resten af bygningen. Komponentkravene til installationerne og konstruktionerne skal dog samtidig overholdes for de særlige konstruktioner eller installationer i butiksarealet.
 
--{target="_blank"}
+-  [Gå til krav for bygninger med blandet anvendelse (§ 261 - § 262) og øvrige krav ved brug af energiramme (§ 263 - § 266)](../../krav/261_266#3a8ca349-26eb-45ea-919c-350ef44b666a){target="_blank"}
 
-### Tæthed og trykprøvning af bygninger {#3a8ca349-26eb-45ea-919c-350ef44b666a}
+### 1.10. Tæthed og trykprøvning af bygninger {#8a5de75a-35a6-44ca-9312-35fe7c95663d}
 
 ###
 
@@ -487,9 +487,9 @@ Bestemmelsen om vedvarende energi medfører at vedvarende energianlæg kan indre
 
 Bygningsreglementet indeholder ikke krav til hvordan det vedvarende anlæg er tilkoblet i bygningen og hvordan afregningen af den producerede energi foretages. Det vigtige er i denne sammenhæng om det vedvarende energianlæg er etableret til energiforsyning af den konkrete bygning. Det betyder fx at man ikke kan indregne vedvarende energianlæg, der allerede er etableret af andre grunde end energiforsyning af den konkrete bygning.
 
--{target="_blank"}
+-  [Gå til krav om vedvarende energi (§ 265)](../../krav/261_266#3a8ca349-26eb-45ea-919c-350ef44b666a){target="_blank"}
 
-### Ændret anvendelse {#3a8ca349-26eb-45ea-919c-350ef44b666a}
+### 2.0. Ændret anvendelse {#1768cdff-bc36-4979-b144-536aa44263bc}
 
 Når bygninger ændrer anvendelse, der indebærer et væsentligt større energiforbrug, skal bygningerne overholde kravene i bygningsreglementet til ændret anvendelse.
 
@@ -511,21 +511,21 @@ Konstruktionerne omkring bygninger, der ændrer anvendelse skal isoleres svarend
 
 Kravet til U-værdi for lystunneler eller lignende gælder for gennembrydningen af den isolerede flade, som lystunnelen er indsat i. Det kunne for eksempel være lysfordeleren i et isoleret loft. U-værdien skal dokumenteres i henhold til DS/EN 10077-1.
 
--{target="_blank"}
+-  [Gå til energikrav ved ændret anvendelse (§ 267 - § 270)](../../krav/267_270#9a9a97b3-01e2-4af4-af72-faf0fdbd74ce){target="_blank"}
 
-### Bygningsmæssige ændringer {#9a9a97b3-01e2-4af4-af72-faf0fdbd74ce}
+### 2.1. Bygningsmæssige ændringer {#689f7df4-be19-40a4-bde0-8fccec531084}
 
 Bestemmelsen finder f.eks. anvendelse, såfremt der ønskes etableret nye vinduespartier i facaden eller i taget. Den manglende energimæssige ydeevne kan eksempelvis dækkes ved merisolering, solvarmeanlæg, varmepumpeanlæg eller solceller.
 
--{target="_blank"}
+-  [Gå til energikrav ved ændret anvendelse (§ 267 - § 270)](../../krav/267_270#9a9a97b3-01e2-4af4-af72-faf0fdbd74ce){target="_blank"}
 
-### Tilbygninger {#9a9a97b3-01e2-4af4-af72-faf0fdbd74ce}
+### 3.0. Tilbygninger {#5eebe19f-379c-4856-9b7b-e761654d55e5}
 
 Reglerne om tilbygninger kan benyttes når der laves mindre tilbygninger til eksisterende bygninger.
 
--{target="_blank"}
+-  [Gå til energikrav ved tilbygninger (§ 271 - § 273)](../../krav/271_273#660bcd55-d949-4c59-8e07-94cad1f2116a){target="_blank"}
 
-### Varmetabsrammen {#660bcd55-d949-4c59-8e07-94cad1f2116a}
+### 3.1. Varmetabsrammen {#914d4817-1f61-4c94-a126-a1d823b14931}
 
 ###
 
@@ -737,9 +737,9 @@ Linjetab har væsentlig betydning for energiøkonomi og minimering af indeklimag
 
 Byggetekniske forhold kan betyde, at kravene i §279 ikke kan opfyldes, jf. §274.
 
--{target="_blank"}
+-  [Gå til energikrav ved ombygninger og udskiftning af bygningsdele - fredede bygninger (§ 278)](../../krav/274_279#afb229c4-65a2-4b7d-8613-8fe584c21e25){target="_blank"}
 
-### Renoveringsklasser {#afb229c4-65a2-4b7d-8613-8fe584c21e25}
+### 5.0. Renoveringsklasser {#f2461737-622c-4c04-959d-885e24c53fdb}
 
 Renoveringsklasserne er energirammer for eksisterende bygninger. Renoveringsklasserne kan benyttes som alternativ til de almindelige ombygningskrav. Renoveringsklasserne er primært tiltænkt som en frivillig mulighed for de bygherrer, der laver gennemgribende energirenoveringer og som samtidig har et ønske om et mere helhedsorienteret tilgang til energirenovering. Samtidig er det en implementering af bygningsdirektivet.
 
@@ -783,9 +783,9 @@ Hvis det samlede areal af vinduer og yderdøre udgør mindre end 30 pct. af det 
 
 Når sommerhuse, campinghytter og lignende ferieboliger bliver ombygget, er der krav om gennemførelse af rentable energibesparelser. Vurderingen af rentabilitet gennemføres som i §275. Bygningsreglementets vejledning om ofte rentable konstruktioner indeholder en yderligere vejledning til fortolkning af ombygningskravene.
 
--{target="_blank"}
+-  [Gå til energikrav for sommerhuse, campinghytter og lignende ferieboliger (§ 283 - § 286)](../../krav/283_286#81b0a907-cbd5-4c5a-89fa-aacae6e0b169){target="_blank"}
 
-### Midlertidige, flytbare pavilloner {#81b0a907-cbd5-4c5a-89fa-aacae6e0b169}
+### 7.0. Midlertidige, flytbare pavilloner {#563449d5-1d97-4ce3-a10b-492d3debb6ba}
 
 Midlertidige flytbare pavilloner opstillet op til 5 år har lempeligere energikrav end permanente bygninger. For midlertidige opstillinger ud over 5 år eller permanente opstillinger skal de almindelige energikrav til nybyggeri overholdes. Det indebærer at disse pavilloner skal leve op til energirammen i §§259-260.
 
@@ -805,9 +805,9 @@ Når midlertidige, flytbare pavilloner bliver ombygget, er der krav om gennemfø
 
 Kravet til U-værdi for lystunneler eller lignende gælder for gennembrydningen af den isolerede flade, som lystunnelen er indsat i. Det kunne for eksempel være lysfordeleren i et isoleret loft. U-værdien skal dokumenteres i henhold til DS/EN 10077-1.
 
--{target="_blank"}
+-  [Gå til energikrav for midlertidige, flytbare pavilloner (§ 287 - § 292)](../../krav/287_292#f83468ad-c2a0-4b59-840a-7f0e0afc27f9){target="_blank"}
 
-### Bygningsopvarmning {#f83468ad-c2a0-4b59-840a-7f0e0afc27f9}
+### 8.0. Bygningsopvarmning {#6375337f-e65d-434b-85f9-1c57c716a8f0}
 
 Bestemmelserne om bygningsopvarmning finder anvendelse på ny bebyggelse, der opføres efter bestemmelsens ikrafttræden og ved udskiftning af opvarmningssystemet i eksisterende bygninger. Hvorvidt omfanget af et ombygningsarbejde må sidestilles med et nybyggeri, beror på en konkret vurdering efter byggelovens § 2, stk. 1, litra b. Bestemmelsen finder tillige anvendelse på eksisterende bebyggelse, hvor der foretages en ombygning eller forandring, der er omfattet af byggelovens § 2, stk. 1, litra e, og som har betydning for opvarmningsformen i bygningen. Dette kan eksempelvis være i de tilfælde, hvor et oliefyr eller en kedel udskiftes.
 
@@ -837,9 +837,9 @@ En undtagelse til kravet om, at bygningsopvarmning skal baseres på vedvarende e
 
 De enkelte kommuner har mulighed for at fastlægge tilslutningspligt til et bestemt forsyningsnet i henhold til varmeforsyningsloven.
 
--{target="_blank"}
+-  [Gå til energikrav for bygningsopvarmning - Fjernvarme (§ 294)](../../krav/293_294#86d6f121-955d-4989-a889-75c55e0d7634){target="_blank"}
 
-### Individuel naturgasforsyning og vedvarende energi {#86d6f121-955d-4989-a889-75c55e0d7634}
+### 8.2. Individuel naturgasforsyning og vedvarende energi {#4012ace1-09e5-485b-93ba-9fffe44e0978}
 
 Der gælder en undtagelse fra kravet om, at bygningsopvarmning skal baseres på vedvarende energi i områder, hvor kommunalbestyrelsen inden 1. januar 2013 har truffet endelig beslutning om, at bygninger skal have mulighed for individuel naturgasforsyning. I disse områder vil bebyggelse således kunne opvarmes med naturgas eller med vedvarende energi.
 
@@ -847,9 +847,9 @@ Siden indførelsen af projektsystemet i 1990 har kommunalbestyrelsen skullet tr�
 
 De enkelte kommuner har mulighed for at fastlægges tilslutningspligt til et bestemt forsyningsnet i henhold til varmeforsyningsloven.
 
--{target="_blank"}
+-  [Gå til energikrav for bygningsopvarmning - Individuel naturgasforsyning (§ 295)](../../krav/295_296#0fa99ed3-1c44-426c-a3b3-6de893c65b2b){target="_blank"}
 
-### Områder uden adgang til fjernvarme eller naturgas {#0fa99ed3-1c44-426c-a3b3-6de893c65b2b}
+### 8.3. Områder uden adgang til fjernvarme eller naturgas {#1a5f696b-8140-48d6-bc8b-0207d6ef699d}
 
 Eksisterende bygninger beliggende i områder uden adgang til fjernvarme eller naturgas er ikke omfattet af kravet om, at bygningsopvarmning skal baseres på vedvarende energi. Dette gælder ved såvel udskiftning af varmesystemet som ved mindre ombygninger. Hvorvidt omfanget af et ombygningsarbejde kan sidestilles med et nybyggeri, og derfor vil være omfattet af kravet i §293, beror på en konkret vurdering efter byggelovens § 2, stk. 1, litra b.
 
@@ -881,9 +881,9 @@ Dispensation kan alene meddeles, når alle relevante former for vedvarende energ
 
 > • Bygningens påtænkte anvendelse. Bygningens anvendelse betyder, at der f.eks. skal anvendes store mængder meget varmt vand, som ikke kan dækkes af vedvarende energikilder. En anden situation kan være, at en ny bygning har en midlertidig karakter (f.eks. en midlertidig pavillon til en skole) og inden for en kort årrække vil blive fjernet igen.
 
--{target="_blank"}
+-  [Gå til krav vedr. dispensation ift. bygningsopvarmning (§ 297)](../../krav/297_298#c64981c6-c158-4e7f-a6e4-11aa7c248abf){target="_blank"}
 
-### Vedvarende energi {#c64981c6-c158-4e7f-a6e4-11aa7c248abf}
+### 8.5. Vedvarende energi {#1a15c63e-dc8f-487b-944e-16d1c009e26f}
 
 Ved væsentlige ombygninger og forandringer forstås i denne bestemmelse omfattende byggearbejder og gennemrenoveringer i henhold til EU-direktiv 2009/28/EF om fremme af anvendelsen af energi fra vedvarende energikilder, og væsentlige ombygninger og forandringer er derfor i denne bestemmelse renoveringer, der involverer en stor andel af klimaskærmen samt samtidig udskiftning af kedel eller fyr. Hvis der er elvarme, skal der indføres vedvarende energi, hvis en stor andel af klimaskærmen renoveres.
 

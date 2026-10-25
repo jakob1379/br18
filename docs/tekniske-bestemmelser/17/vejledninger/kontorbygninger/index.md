@@ -6,7 +6,7 @@
 - [- Vejledning til boliger og andre bygninger til overnatning](../boliger)
 - [- Vejledning til undervisningsbygninger](../undervisningsbygninger)
 - [- Vejledning til daginstitutionsbygninger](../daginstitutionsbygninger)
-- [- Vejledning til kontorbyggeri](./)
+- [- Vejledning til kontorbyggeri](.)
 - [- Vejledning til hospitaler, lægehuse og klinikker](../hospitaler-laegehuse-og-klinikker)
 
 ## - Vejledning til kontorbyggeri
@@ -329,9 +329,7 @@ b) </em>Der kan ikke påregnes optimale lydforhold for alle sædvanlige kontorak
 <br />
 6) Kun gange uden opholds- og arbejdsområder. Hvor arealerne i nogen grad anvendes til opholds- eller arbejdsområder anvendes T ≤ 0,6 s.<br />
 <br />
-7) Det anbefales til almindelige cafeterier og kantiner at benytte begrebet “akustisk kapacitet” og specificere max efterklangstid som lydklasse C i henhold til [16].**<br />
-**</p></td>
+7) Det anbefales til almindelige cafeterier og kantiner at benytte begrebet “akustisk kapacitet” og specificere max efterklangstid som lydklasse C i henhold til [16].****</p></td>
 </tr>
 </tbody>
 </table>
-

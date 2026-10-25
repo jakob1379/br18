@@ -59,7 +59,7 @@ Projektering og udførelse af betonkonstruktioner skal, udover bestemmelserne i 
 
 5\) DS/EN 206 Beton, specifikation, egenskaber, produktion og overensstemmelse og DS 206, Beton -- Specifikation, egenskaber, produktion og overensstemmelse -- Regler for anvendelse af DS/EN 206 i Danmark.
 
-6) DS/EN 1520 Præfabrikerede armerede elementer af letbeton med lette tilslag og åben struktur med bærende eller ikke-bærende armering med DS/EN 1520 DK NA for konstruktioner i letbeton med lette tilslag.
+6) DS/EN 1520 Præfabrikerede armerede elementer af letbeton med lette tilslag og åben struktur med bærende eller ikke- bærende armering med DS/EN 1520 DK NA for konstruktioner i letbeton med lette tilslag.
 
 7) DS/EN 12602. Præfabrikerede armerede komponenter af autoklaveret porebeton med DS/EN 12602 DK NA for konstruktioner af autoklaveret porebeton.
 
@@ -87,7 +87,7 @@ Projektering og udførelse af stålkonstruktioner skal, udover bestemmelserne i 
 
 8) DS/EN 1993-1-8+AC:2007 Stålkonstruktioner, Samlinger med DS/EN 1993-1-8 DK NA.
 
-9) DS/EN 1993-1-9+AC:2007 Stålkonstruktioner, Udmattelse med DS/EN 1993-1-9 DK NA. 10.
+9) DS/EN 1993-1-9+AC:2007 Stålkonstruktioner, Udmattelse med DS/EN 1993-1-9 DK NA.
 
 10) DS/EN 1993-1-10+AC:2007 Stålkonstruktioner, Materialesejhed og egenskaber i tykkelsesretningen med DS/EN 1993-1-10 DK NA.
 

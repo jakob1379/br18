@@ -389,27 +389,59 @@ def _local_refs(hrefs: list[str], base: str) -> tuple[set[str], set[str]]:
     return pages, assets
 
 
-def compare(url: str, origin_html: str, docs_root: Path, site_dir: Path) -> list[tuple[str, str]]:
+def _built_page(doc: Path, docs_root: Path, site_dir: Path) -> Path:
+    return site_dir / doc.relative_to(docs_root).parent / "index.html"
+
+
+def _local_view(doc: Path, docs_root: Path, site_dir: Path) -> tuple[ContentParser, str]:
+    local = parse(_built_page(doc, docs_root, site_dir).read_text(encoding="utf-8", errors="replace"), "article", "md-content__inner", LOCAL_SKIP_CLASSES)
+    return local, "http://local/" + (doc.relative_to(docs_root).parent.as_posix().strip(".") + "/").lstrip("/")
+
+
+def compare(url: str, origin_html: str, docs_root: Path, site_dir: Path, root_url: str | None = None) -> list[tuple[str, str]]:
+    """root_url: an alias's guide root; its built page supplies the text, links count from both pages."""
     doc = page_to_doc(urlsplit(url).path, docs_root)
     doc_rel = doc.relative_to(docs_root).as_posix()
-    built = site_dir / doc.relative_to(docs_root).parent / "index.html"
-    if not doc.exists():
+    built = _built_page(doc, docs_root, site_dir)
+    if not root_url and not doc.exists():
         return [("missing_page", f"docs/{doc_rel}")]
-    if not built.exists():
+    if not root_url and not built.exists():
         return [("missing_page", f"{built.name} not built for docs/{doc_rel}")]
     origin = parse(origin_html, "main", None, ORIGIN_SKIP_CLASSES)
-    local = parse(built.read_text(encoding="utf-8", errors="replace"), "article", "md-content__inner", LOCAL_SKIP_CLASSES)
-    local_base = "http://local/" + (doc.relative_to(docs_root).parent.as_posix().strip(".") + "/").lstrip("/")
-    missing_text, extra_text = text_diff(words("".join(origin.text)), words("".join(local.text)))
+    views = [_local_view(doc, docs_root, site_dir)] if built.exists() else []
+    excluded = {doc_rel}
+    if root_url:
+        root_doc = page_to_doc(urlsplit(root_url).path, docs_root)
+        views.insert(0, _local_view(root_doc, docs_root, site_dir))
+        excluded.add(root_doc.relative_to(docs_root).as_posix())
+    local_pages: set[str] = set()
+    local_files: set[str] = set()
+    local_images: set[str] = set()
+    for view, base in views:
+        pages_, files_ = _local_refs(view.links, base)
+        local_pages |= pages_
+        local_files |= files_
+        local_images |= _local_refs(view.images, base)[1]
+    missing_text, extra_text = text_diff(words("".join(origin.text)), words("".join(views[0][0].text)))
     origin_pages, origin_files = _origin_refs(origin.links, url, docs_root)
     origin_images = _origin_refs(origin.images, url, docs_root)[1]
-    local_pages, local_files = _local_refs(local.links, local_base)
-    local_images = _local_refs(local.images, local_base)[1]
     diffs = [("missing_text", t) for t in missing_text] + [("extra_text", t) for t in extra_text]
-    diffs += [("missing_link", f"docs/{p}") for p in sorted(origin_pages - local_pages - {doc_rel})]
+    diffs += [("missing_link", f"docs/{p}") for p in sorted(origin_pages - local_pages - excluded)]
     diffs += [("missing_image", f"docs/{p}") for p in sorted(origin_images - local_images)]
     diffs += [("missing_file", f"docs/{p}") for p in sorted(origin_files - local_files)]
     return diffs
+
+
+def alias_roots(pages: dict[str, str]) -> dict[str, str]:
+    """Guide subpages render the whole guide: a page whose reference text equals an ancestor page's is that guide root's alias."""
+    texts = {u: words("".join(parse(h, "main", None, ORIGIN_SKIP_CLASSES).text)) for u, h in pages.items()}
+    roots: dict[str, str] = {}
+    for url in pages:
+        path = urlsplit(url).path
+        same = [r for r in pages if r != url and path.startswith(urlsplit(r).path) and texts[r] == texts[url]]
+        if same:
+            roots[url] = min(same, key=len)
+    return roots
 
 
 KINDS = ("missing_page", "missing_text", "extra_text", "missing_link", "missing_image", "missing_file")
@@ -438,7 +470,9 @@ def render_report(
     errors: dict[str, str],
     origin_broken: dict[str, str],
     sections: list[str],
+    roots: dict[str, str],
 ) -> str:
+    aliases = {u: r for u, r in roots.items() if u in results and not results[u]}
     by_section = {s: {u: d for u, d in sorted(results.items()) if section_of(u) == s} for s in sections}
     lines = [
         "# BR18 content parity audit",
@@ -447,6 +481,7 @@ def render_report(
         f"Origin pages audited: {len(results)}",
         f"Pages with unexplained differences: {sum(1 for d in results.values() if d)}",
         f"Allowlisted differences: {sum(allowed.values())}",
+        f"Alias pages (guide subpages whose guide root covers their reference): {len(aliases)}",
         f"Fetch errors (retried on the next run): {len(errors)}",
         f"Origin URLs answering 4xx (origin's own broken links, not counted): {len(origin_broken)}",
         "",
@@ -463,8 +498,14 @@ def render_report(
             if not diffs:
                 continue
             lines += [f"### {url}", ""]
+            if url in roots:
+                lines += [f"Compared against its guide root {roots[url]}.", ""]
             lines += [f"- {kind}: {item}" for kind, item in diffs]
             lines.append("")
+    if aliases:
+        lines += ["## Alias pages", ""]
+        lines += [f"- {url} -> {root}" for url, root in sorted(aliases.items())]
+        lines.append("")
     if errors:
         lines += ["## Fetch errors", ""]
         lines += [f"- {url}: {err}" for url, err in sorted(errors.items())]
@@ -502,11 +543,16 @@ def main() -> int:
         fetcher.close()
     results: dict[str, list[tuple[str, str]]] = {}
     allowed: dict[str, int] = {}
+    roots = {
+        u: r for u, r in alias_roots(pages).items()
+        if _built_page(page_to_doc(urlsplit(r).path, docs_root), docs_root, site_dir).exists()
+    }
     for url, html_text in pages.items():
-        results[url], allowed[url] = apply_allowlist(url, compare(url, html_text, docs_root, site_dir), allowlist)
+        diffs = compare(url, html_text, docs_root, site_dir, roots.get(url))
+        results[url], allowed[url] = apply_allowlist(url, diffs, allowlist)
     out = Path(args.output)
     out.parent.mkdir(parents=True, exist_ok=True)
-    out.write_text(render_report(results, allowed, errors, origin_broken, sections), encoding="utf-8")
+    out.write_text(render_report(results, allowed, errors, origin_broken, sections, roots), encoding="utf-8")
     print(out)
     for s in sections:
         pages_in = [u for u in results if section_of(u) == s]

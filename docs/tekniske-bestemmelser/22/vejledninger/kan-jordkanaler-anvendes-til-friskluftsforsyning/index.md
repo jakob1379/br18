@@ -10,3 +10,5 @@
 
 ### Link til vejledning om jordkanaler kan anvendes til friskluftsforsyning
 
+[Åbn vejledningen: Kan jordkanaler anvendes til friskluftsforsyning?](../../../../media/3e5csas4/udeluftindtag-a.pdf)
+
