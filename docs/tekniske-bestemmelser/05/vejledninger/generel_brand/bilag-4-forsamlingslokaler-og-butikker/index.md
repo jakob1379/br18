@@ -42,4 +42,4 @@ Version 1.1 (09.06.2021)
 
 [Åbn Bilag 4: Præ-accepterede løsninger for forsamlingslokaler, butikker mv. version 1.0](../../../../../media/02pnkd0h/bilag-4-forsamlingslokaler-butik-mv-ver-10-20181221-a.pdf "Bilag 4  Forsamlingslokaler butik mv ver 10 20181221")
 
-
+Version 1.0 (21.12.2018)
