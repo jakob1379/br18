@@ -376,16 +376,14 @@ reason = "Fixture: sentence intentionally dropped from the guide."
         self.assertEqual(result.returncode, 0, report)
         self.assertNotIn("missing_text: Guiden indleder.", report)
 
-    def test_link_to_an_origin_redirect_matches_a_clone_link_to_its_target(self) -> None:
+    def redirect_site(self, clone_link: str) -> Origin:
         chapter = "/tekniske-bestemmelser/02/krav/"
         nav = f'<a href="{chapter}">2</a>'
         self.corpus.add("", local_page("<p>Forside</p>"))
-        self.corpus.add(
-            "tekniske-bestemmelser/02",
-            local_page('<p>Adgang</p><a href="/tekniske-bestemmelser/02/vejledninger/ny/">Vejledning</a>'),
-        )
+        self.corpus.add("tekniske-bestemmelser/02", local_page(f'<p>Adgang</p><a href="{clone_link}">Vejledning</a>'))
         self.corpus.add("tekniske-bestemmelser/02/vejledninger/ny", local_page("<p>Ny vejledning</p>"))
-        origin = self.serve(
+        self.corpus.add("tekniske-bestemmelser/02/vejledninger/gammel", local_page("<p>Ny vejledning</p>"))
+        return self.serve(
             {
                 "/": origin_page("<p>Forside</p>", nav),
                 chapter: origin_page('<p>Adgang</p><a href="/Tekniske-bestemmelser/02/Vejledninger/Gammel">Vejledning</a>', nav),
@@ -393,6 +391,18 @@ reason = "Fixture: sentence intentionally dropped from the guide."
             },
             redirects={"/tekniske-bestemmelser/02/vejledninger/gammel/": "/tekniske-bestemmelser/02/vejledninger/ny/"},
         )
+
+    def test_link_to_an_origin_redirect_matches_a_clone_link_to_its_target(self) -> None:
+        origin = self.redirect_site("/tekniske-bestemmelser/02/vejledninger/ny/")
+
+        result = self.audit(origin)
+
+        report = self.report.read_text(encoding="utf-8")
+        self.assertEqual(result.returncode, 0, report)
+        self.assertNotIn("- missing_link:", report)
+
+    def test_link_to_an_origin_redirect_matches_a_clone_link_to_the_redirect_itself(self) -> None:
+        origin = self.redirect_site("/tekniske-bestemmelser/02/vejledninger/gammel/")
 
         result = self.audit(origin)
 

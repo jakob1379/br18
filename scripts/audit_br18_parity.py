@@ -377,8 +377,8 @@ def _origin_refs(hrefs: list[str], base: str, docs_root: Path, redirects: dict[s
         if looks_asset(path):
             assets.add(asset_to_doc(path, docs_root).relative_to(docs_root).as_posix())
         else:
-            path = urlsplit(redirects.get(canonical_page(url), url)).path
-            pages.add(page_to_doc(path, docs_root).relative_to(docs_root).as_posix())
+            rel = page_to_doc(path, docs_root).relative_to(docs_root).as_posix()
+            pages.add(redirects.get(rel, rel))
     return pages, assets
 
 
@@ -414,7 +414,9 @@ def compare(
     redirects: dict[str, str] | None = None,
 ) -> list[tuple[str, str]]:
     """root_url: an alias's guide root; its built page supplies the text, links count from both pages.
-    own_html: what the origin shows on the alias's own URL (its own section open); the subpage must keep that text."""
+    own_html: what the origin shows on the alias's own URL (its own section open); the subpage must keep that text.
+    redirects: doc of an origin redirect alias -> doc of its target; links on both sides count as the target."""
+    redirects = redirects or {}
     doc = page_to_doc(urlsplit(url).path, docs_root)
     doc_rel = doc.relative_to(docs_root).as_posix()
     built = _built_page(doc, docs_root, site_dir)
@@ -434,6 +436,7 @@ def compare(
     local_images: set[str] = set()
     for view, base in views:
         pages_, files_ = _local_refs(view.links, base)
+        pages_ = {redirects.get(p, p) for p in pages_}
         local_pages |= pages_
         local_files |= files_
         local_images |= _local_refs(view.images, base)[1]
@@ -446,8 +449,8 @@ def compare(
         if own_html:
             shown = words(ESCAPED_BR.sub(" ", "".join(parse(own_html, "main", None, ORIGIN_SKIP_CLASSES).text)))
             missing_text += [f"(own page) {t}" for t in text_diff(shown, own_words)[0]]
-    origin_pages, origin_files = _origin_refs(origin.links, url, docs_root, redirects or {})
-    origin_images = _origin_refs(origin.images, url, docs_root, redirects or {})[1]
+    origin_pages, origin_files = _origin_refs(origin.links, url, docs_root, redirects)
+    origin_images = _origin_refs(origin.images, url, docs_root, redirects)[1]
     diffs = [("missing_text", t) for t in missing_text] + [("extra_text", t) for t in extra_text]
     diffs += [("missing_link", f"docs/{p}") for p in sorted(origin_pages - local_pages - excluded)]
     diffs += [("missing_image", f"docs/{p}") for p in sorted(origin_images - local_images)]
@@ -577,8 +580,12 @@ def main() -> int:
         u: r for u, r in alias_roots(pages).items()
         if _built_page(page_to_doc(urlsplit(r).path, docs_root), docs_root, site_dir).exists()
     }
+    def doc_of(u: str) -> str:
+        return page_to_doc(urlsplit(u).path, docs_root).relative_to(docs_root).as_posix()
+
+    doc_redirects = {doc_of(a): doc_of(t) for a, t in redirects.items()}
     for url, html_text in pages.items():
-        diffs = compare(url, html_text, docs_root, site_dir, roots.get(url), own.get(url), redirects)
+        diffs = compare(url, html_text, docs_root, site_dir, roots.get(url), own.get(url), doc_redirects)
         results[url], allowed[url] = apply_allowlist(url, diffs, allowlist, roots.get(url))
     out = Path(args.output)
     out.parent.mkdir(parents=True, exist_ok=True)
