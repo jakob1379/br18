@@ -34,17 +34,13 @@ Vejledningen omhandler krav til parkering i forbindelse med byggeri, der er fast
 
 ### 1. Hvor findes de relevante regler {#5742b6d9-ad2d-4fc1-b878-1788e0073f28}
 
-*****Byggeloven*
-
-\****
+***Byggeloven***
 
 I byggelovens § 7, stk. 1, er der hjemmel til, at der i bygningsreglementet kan fastsættes regler om indretning af ejendommes ubebyggede arealer for bl.a. at sikre tilfredsstillende opholdsarealer og parkeringsarealer.
 
 I medfør af byggeloven § 7, stk. 2, må et ubebygget areal, der er udlagt og godkendt til parkering ikke benyttes til andet end parkering. For frie arealer i forbindelse med byggeri, der er opført før byggeloven trådte i kraft, gælder at kommunalbestyrelsen som bygningsmyndighed kan modsætte sig, at arealet bebygges eller benyttes på en måde, der forhindrer, at det blandt andet kan anvendes som parkeringsareal.
 
-*****Bygningsreglementet
-
-\*****
+***Bygningsreglementet***
 
 Med hjemmel i byggeloven er der i BR18, kap. 20, § 393 og §§ 399-402 fastsat regler for parkering i forbindelse med byggeri.
 
@@ -56,17 +52,11 @@ Når der indrettes handicapvenlige parkeringspladser bør mindst én parkeringsp
 
 For yderligere vejledning kan i øvrigt henvises til DS-Håndbog 186.
 
-***Parkeringscirkulæret
-
-
+***Parkeringscirkulæret***
 
 De konkrete regler om kommunale parkeringsfonde er fastsat i cirkulære nr. 10 af 17. januar 1994, der er udstedt med hjemmel i byggelovens § 22, stk. 6.
 
-*****
-
-Bestemmelser i lokalplan eller byplanvedtægt***
-
-**\****
+***Bestemmelser i lokalplan eller byplanvedtægt***
 
 Byggeloven og bygningsreglementets bestemmelser i kap. 20 om parkering gælder ikke, når der i en lokalplan eller byplanvedtægt er fastsat bestemmelser om parkering for det område, hvor byggeriet foregår. Det kan eksempelvis være angivet i en lokalplan, at der ved opførelse af et nybyggeri i et bestemt område inden for lokalplanens område, skal etableres 1 parkeringsplads pr. 100 m² etageareal. Når der opføres 1500 m² nybyggeri i det pågældende område, vil det med hjemmel i lokalplanen udløse krav om etablering af 15 parkeringspladser.
 
@@ -104,26 +94,19 @@ Et eksempel på et byggeri, der ikke nødvendigvis øger parkeringsbehovet, er o
 
 Ved enhver form for ny bebyggelse kan der i byggetilladelsen stilles krav om etablering af parkeringsarealer. Det er bygningsmyndigheden, der ud fra vurderingen af behovet for parkeringsarealer afgør, om der i byggetilladelsen skal stilles krav om etablering af et parkeringsareal, herunder størrelsen af parkeringsarealet.
 
-*
-
-****Tilbygning\*****
+***Tilbygning***
 
 Ved opførelse af tilbygninger kan der kun stilles krav om etablering af parkeringsareal, når det vurderes, at tilbygningen skaber et øget parkeringsbehov. Der kan i denne forbindelse ikke stilles krav om etablering af parkeringsareal til dækning af den eksisterende bygnings parkeringsbehov, hvis tilbygningen ikke medfører en ændring af anvendelsen af den samlede bygning. Dette gælder også i den situation, hvor den eksisterende bygning ikke har tilstrækkeligt parkeringsareal eller slet intet parkeringsareal.
 
 I et eksempel hvor der opføres en tilbygning til en skole til undervisningsformål, skal det vurderes, om tilbygningen skaber et øget parkeringsbehov, men der kan ikke stilles krav om etablering af parkeringsareal til dækning af den eksisterende skoles parkeringsbehov. Hvis der derimod ansøges om opførelse af en tilbygning til boliger og samtidig ansøges om en anvendelsesændring af den eksisterende skole til boliger, kan der stilles krav om etablering af parkeringsareal både til tilbygningen og den eksisterende bebyggelse.
 
-**\*
 ***Ændret anvendelse***
-
-\*
 
 Ved ændret anvendelse af en eksisterende bebyggelse skal bygningsmyndigheden tage stilling til, om den ændrede anvendelse øger behovet for parkeringsareal, og der dermed skal stilles krav om udvidelse af det eksisterende parkeringsareal.
 
 En ændret anvendelse kan endvidere betyde et mindre behov for parkeringsareal, og kan resultere i et overskud af parkeringsareal.
 
 ***Brugen af parkeringsarealer***
-
-****
 
 Der er ikke hjemmel i byggelovgivningen til at stille krav om, at de parkeringsarealer, der etableres i forbindelse med et byggeri, skal anvendes af den personkreds, der er tilknyttet det byggeri, der er årsag til kravet om parkeringsarealer. Denne personkreds sikres således ikke gennem byggelovgivningen eksklusiv råderet over pladserne. Samtidig må personkredsen ikke helt udelukkes fra at kunne anvende parkeringspladserne, såfremt der eksempelvis betales for brugen af pladserne på lige vilkår med andre.
 
@@ -137,9 +120,7 @@ Der er i bekendtgørelse nr. 146 af 12. februar 2015 om dispensation fra parkeri
 
 Det fremgår af bekendtgørelsens § 1, at kommunalbestyrelsen kan meddele dispensation fra byggelovens bestemmelser om tilvejebringelse af parkeringsarealer på egen grund i henhold til cirkulære nr. 10 af 17. oktober 1994 om kommunale parkeringsfonde, og i medfør af bekendtgørelsen om dispensation fra parkeringskrav, når der foreligger et forpligtende aftalegrundlag.
 
-***
-
-Andet forpligtende grundlag***
+***Andet forpligtende grundlag***
 
 Dispensation betinget af, at der foreligger et andet forpligtende grundlag, er reguleret i bekendtgørelse nr. 146 af 12. februar 2015 med hjemmel i byggeloven.
 
@@ -149,9 +130,7 @@ Det er fastsat i bekendtgørelsen, at parkeringsarealerne skal have en hensigtsm
 
 Et forpligtende grundlag i henhold til bekendtgørelsen kan eksempelvis være vedtagne retningslinjer for hvor, hvornår og af hvem parkeringspladserne anlægges. Formen for det forpligtende grundlag kan være en kontrakt indgået af de ejendomsejere, der sammen forpligter sig til at tilvejebringe parkeringsarealerne eller andet kontraktretligt grundlag.
 
-***
-
-Krav til det forpligtende grundlag***
+***Krav til det forpligtende grundlag***
 
 Det forpligtende grundlag skal efter bekendtgørelsen indeholde oplysninger om, hvilke ejendomsejere der skal etablere parkeringspladserne og afholde udgifterne til etableringen af parkeringspladserne. Antallet af parkeringspladser eller det samlede parkeringsareal samt den præcise angivelse af parkeringspladsernes beliggenhed skal fremgå af det forpligtende grundlag. Tidspunktet for, hvornår parkeringspladserne er eller forventes at være klar til ibrugtagning, skal ligeledes fremgå af det forpligtende grundlag.
 
@@ -165,17 +144,13 @@ Da forpligtelsen følger ejendommen, er det, i tilfælde af, at de involverede e
 
 Tinglysningen af aftalen om det andet forpligtende grundlag på den ejendom, hvor parkeringskravet fraviges, kan med hjemmel i byggelovens § 27 tinglyses som en meddelelse. Tinglysningen af aftalen om det andet forpligtende grundlag på den ejendom, hvor parkeringspladserne etableres, skal tinglyses som en deklaration, idet byggelovens § 27 om tinglysning af meddelelser ikke kan anvendes, hvis vilkåret for en dispensation vedrører en anden ejendom end den, der har modtaget dispensationen.
 
-***
-
-Nye parkeringspladser - tilvækstkravet***
+***Nye parkeringspladser - tilvækstkravet***
 
 For at kunne meddele dispensation fra parkeringskravet i forbindelse med en byggesag på et andet forpligtende aftalegrundlag, skal der etableres nye parkeringspladser på en anden privat grund i nærheden.
 
 Kravet om etablering af nye parkeringspladser, indebærer et tilvækstkrav. Tilvækstkravet kan opfyldes ved, at der etableres parkeringspladser på en privat grund, hvor der i forvejen er parkeringspladser, som ikke er etableret i forbindelse med et krav i en tidligere byggesag. Tilvækstkravet kan endvidere opfyldes ved, at der i forbindelse med et andet nyt byggeri etableres yderligere parkeringspladser, således at parkeringskravet kan indfries.
 
-***Hensigtsmæssig placering
-
-
+***Hensigtsmæssig placering***
 
 Når der er dispenseret fra et parkeringskrav på et andet forpligtende grundlag, og der skal etableres parkeringspladser på en anden ejendom, skal parkeringspladserne have en hensigtsmæssig placering i forhold til den ejendom, hvor parkeringspladserne skulle have været etableret. Der er ikke fastsat en bestemt afstand for, hvor langt der må være mellem de to ejendomme. Afstanden skal dog, under hensyn til det pågældende områdes karakter og ejendommens placering, være så kort som muligt.
 
@@ -203,9 +178,7 @@ Det afgørende er, at kommunalbestyrelsen er forpligtet til at anvende det indbe
 
 Det fremgår af parkeringsfondscirkulærets § 5, stk. 1, at parkeringsfondens midler skal holdes regnskabsmæssigt adskilt fra kommunens øvrige virksomhed. Erstatningsparkeringspladserne skal være anlagt senest 5 år efter, at kommunalbestyrelsen har meddelt dispensation.
 
-***Tilbagebetaling af parkeringsfondsbidrag
-
-
+***Tilbagebetaling af parkeringsfondsbidrag***
 
 Såfremt erstatningspladserne ikke er etableret inden for 5-års fristen, skal det indbetalte beløb i medfør af cirkulærets § 6, tilbagebetales.
 
@@ -213,18 +186,15 @@ Det indbetalte beløb skal tilbagebetales til den til enhver tid værende ejer p
 
 Begrundelsen for dette er, at det generelle udgangspunkt efter byggeloven er, at byrder og rettigheder i henhold til loven påhviler den pågældende ejendom, uanset tidligere ejeres rettigheder eller pligter.
 
-
 ***Flere fonde***
 
 Byggeloven og parkeringsfondscirkulæret er ikke til hinder for, at en kommune kan oprette flere parkeringsfonde. Det afgørende for kommunens administration af parkeringsfondsordningen er, at ordningen administreres i overensstemmelse med bestemmelserne i parkeringsfondscirkulæret.
 
-***Tilvækst i forbindelse med indbetaling til parkeringsfond**
-
-\*
+***Tilvækst i forbindelse med indbetaling til parkeringsfond***
 
 Ved en dispensation fra parkeringskravet, hvor der sker indbetaling til en parkeringsfond, kan tilvækstkravet alene indfries ved, at der etableres helt nye parkeringspladser eller ved, at allerede eksisterende parkeringspladser ændres således, at arealet udnyttes på en måde, hvorved der etableres flere parkeringspladser. Tilvækstkravet kan ikke opfyldes ved, at kommunen opkøber allerede eksisterende parkeringspladser i området på offentlig vej eller parkeringspladser, der allerede opfylder et parkeringskrav i forbindelse med opførelse af et andet byggeri, såkaldte "byggelovspladser".
 
-***Hensigtsmæssig placering i forbindelse med indbetaling til parkeringsfond**\*
+***Hensigtsmæssig placering i forbindelse med indbetaling til parkeringsfond***
 
 Parkeringsfondspladserne skal i medfør af cirkulæret kunne anlægges med en hensigtsmæssig placering i forhold til den bidragsydende ejendom. Der er ikke fastsat en bestemt afstand for, hvor tæt på den bidragsydende ejendom, parkeringspladserne skal anlægges. Det bør dog indgå i kommunalbestyrelsens vurdering af placeringen af parkeringsfondspladserne, om der kan etableres areal i det pågældende område til anlæg af parkeringspladserne. Det bør ligeledes indgå i kommunalbestyrelsens vurdering af placeringen, at parkeringsfondspladserne anlægges så tæt på den bidragsydende ejendom, som det efter det pågældende områdes karakter, er muligt.
 
