@@ -138,6 +138,8 @@ permalink_title = "Anchor link to this section"
 toc_depth = 2
 [project.markdown_extensions.pymdownx.emoji]
 [project.markdown_extensions.pymdownx.caret]
+[project.markdown_extensions.pymdownx.tilde]
+[project.markdown_extensions.footnotes]
 [project.markdown_extensions.md_in_html]
 [project.markdown_extensions.abbr]
 [project.markdown_extensions.pymdownx.snippets]
