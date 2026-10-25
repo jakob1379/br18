@@ -55,6 +55,17 @@ class ConvertTest(unittest.TestCase):
         self.assertIn("- **Sengestuer**\n\n- **Kontorer**\n\nMere", markdown)
         self.assertIn("**Bygnings-**\n\n**reglementets krav**", markdown)
 
+    def test_line_breaks_at_the_edges_of_a_link_move_out_of_it(self) -> None:
+        markdown = self.convert(
+            '<p>findes her:&nbsp;<a href="https://ens.dk/x" target="_blank">Energistyrelsens oversigt&nbsp;<br>\n</a>'
+            "<br><em>Relevante standarder</em></p>"
+            '<p>Bilag 11e (Ophævet)&nbsp;<a href="/media/m/b.pdf" title="B"><br>\n</a>&nbsp;</p>'
+        )
+
+        self.assertIn('[Energistyrelsens oversigt](https://ens.dk/x){target="_blank"}', markdown)
+        self.assertIn('[](../media/m/b.pdf "B")', markdown)
+        self.assertNotRegex(markdown, r"(?m)^\]")
+
     def test_links_to_origin_pages_point_at_directories(self) -> None:
         markdown = self.convert(
             '<p><a href="/side/vejledning">Vejledning</a> <a href="https://www.bygningsreglementet.dk/side">Her</a>'

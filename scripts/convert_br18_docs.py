@@ -94,7 +94,8 @@ FLATTEN_TAGS = {
 # Inline markup that markdown writes with delimiters, which cannot open or close next to whitespace.
 EMPHASIS_TAGS = {"b", "em", "i", "strong", "sub", "sup"}
 EMPHASIS_KIND = {"b": "strong", "strong": "strong", "em": "em", "i": "em", "sub": "sub", "sup": "sup"}
-EMPHASIS_OPEN_RE = re.compile(r"^<(?:b|em|i|strong|sub|sup)\b[^>]*>$")
+# Opening tags whose leading whitespace and line breaks belong before them.
+EMPHASIS_OPEN_RE = re.compile(r"^<(?:a|b|em|i|strong|sub|sup)\b[^>]*>$")
 
 BLOCK_FLATTEN_TAGS = {
     "aside",
@@ -250,6 +251,9 @@ class Cleaner(HTMLParser):
             if self.skip_depth > 0 or self._should_skip(tag, attrs):
                 return
             attrs = self._rewrite_attrs(tag, attrs)
+            if tag == "br" and self.parts and EMPHASIS_OPEN_RE.match(self.parts[-1]):
+                self.parts.insert(self._before_emphasis_opens(), "<br />")
+                return
             if tag == "br" and self.emphasis:
                 # The converter turns line breaks into paragraph breaks, which emphasis cannot span.
                 for open_tag in reversed(self.emphasis):
@@ -309,7 +313,7 @@ class Cleaner(HTMLParser):
 
     def _close(self, tag: str) -> None:
         moved: list[str] = []
-        if tag in EMPHASIS_TAGS:
+        if tag in EMPHASIS_TAGS or tag == "a":
             while self.parts and (self.parts[-1] == "<br />" or not self.parts[-1].strip(" \t\n ")):
                 moved.insert(0, self.parts.pop())
             if self.parts and not self.parts[-1].startswith("<"):
@@ -318,7 +322,7 @@ class Cleaner(HTMLParser):
                 self.parts.append(kept)
                 moved.insert(0, text[len(kept):])
             opened = next((i for i in range(len(self.parts) - 1, -1, -1) if re.match(rf"<{tag}\b", self.parts[i])), None)
-            if opened is not None and not re.sub(r"<[^>]*>", "", "".join(self.parts[opened + 1 :])).strip(" \t\n\u00a0"):
+            if tag != "a" and opened is not None and not re.sub(r"<[^>]*>", "", "".join(self.parts[opened + 1 :])).strip(" \t\n\u00a0"):
                 # Emphasis around nothing visible renders as literal `* *`.
                 del self.parts[opened]
                 self.parts.extend(moved)
