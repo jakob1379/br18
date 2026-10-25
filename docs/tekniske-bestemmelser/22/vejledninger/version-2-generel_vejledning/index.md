@@ -3,16 +3,16 @@
 ## Se alle vejledninger om Ventilation (§ 420 - § 452)
 
 - [Bygningsreglementets vejledning om ventilation](./)
-- [Vejledning om jordkanaler kan anvendes til friskluftsforsyning](../kan-jordkanaler-anvendes-til-friskluftsforsyning)
-- [Spørgsmål og svar](../sporgsmaal_svaar)
+- [Vejledning om jordkanaler kan anvendes til friskluftsforsyning](../kan-jordkanaler-anvendes-til-friskluftsforsyning/)
+- [Spørgsmål og svar](../sporgsmaal_svaar/)
 
 ## Bygningsreglementets vejledning om ventilation
 
-### Forord
+### Forord {#1e05e48e-6478-41b0-a8d2-c1bcb6c2e292}
 
 Bygninger skal ventileres for at sikre, at beboere og brugere af bygninger har et acceptabelt indeklima. Ventilationen skal sikre, at der er frisk luft til brugerne, samt at fugt og andre forureninger ikke optræder i koncentrationer, der kan give sundhedsproblemer, gener for brugerne eller skader på bygningerne.
 
-Ventilationen kan udføres ved systemer for naturlig ventilation, mekanisk ventilation eller hybrid ventilation. "Ventilationssystemer" refererer både til naturlig ventilation, hybrid ventilation og mekanisk ventilation. "Ventilationsanlæg" refererer alene til mekanisk ventilation, herunder den mekaniske del af hybrid ventilation. Valg af ventilationstype, samt dimensionering af ventilation skal foretages ud fra bygningens udformning, herunder rumtyper og udformning af rum, bygningens brug og bygningens belastninger i forhold til forureninger, varmepåvirkning mv.
+Ventilationen kan udføres ved systemer for naturlig ventilation, mekanisk ventilation eller hybrid ventilation. ”Ventilationssystemer” refererer både til naturlig ventilation, hybrid ventilation og mekanisk ventilation. ”Ventilationsanlæg” refererer alene til mekanisk ventilation, herunder den mekaniske del af hybrid ventilation. Valg af ventilationstype, samt dimensionering af ventilation skal foretages ud fra bygningens udformning, herunder rumtyper og udformning af rum, bygningens brug og bygningens belastninger i forhold til forureninger, varmepåvirkning mv.
 
 ### 1.1. Generelt om bestemmelserne om ventilation {#670cd376-5a3b-4f8c-ae13-b55176029380}
 
@@ -34,7 +34,7 @@ Efter arbejdsmiljølovens § 33 gælder det, at den der rådgiver om eller lever
 
 Reglerne beskrevet ovenfor er fastlagt i arbejdsmiljøloven. Yderligere og opdateret information kan findes på Arbejdstilsynets hjemmeside. Desuden opstiller DS 447 pkt. 6.6 krav til tilgængelighed og pladskrav.
 
-  [![](../../../../assets/img/linkbox/ds_en_iso_linkbox.svg)](# "#title")
+  [![](../../../../assets/img/linkbox/ds_en_iso_linkbox.svg)](#)
 
 ####
 
@@ -44,7 +44,7 @@ DS/EN ISO 7730 - Ergonomi inden for termisk miljø - Analytisk bestemmelse og fo
 
 #### Standarden findes på dansk i Dansk Standards webshop [webshop.ds.dk](https://webshop.ds.dk/da-dk/standard/ds-en-iso-77302006){target="_blank"}
 
-[![](../../../../assets/img/linkbox/at_vejl_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/at_vejl_linkbox.svg)](#)
 
 #### At-vejledning A.1.2-1
 
@@ -56,7 +56,7 @@ Indeklima
 
 De tre nævnte standarder nedenfor skal overholdes, når ventilationen projekteres og udføres. DS 447 indeholder de overordnede krav til ventilationssystemer, mens DS 428 indeholder brandkravene til ventilationsanlæg og DS 452 indeholder krav til isolering af de tekniske installationer, herunder ventilation.
 
-[![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 ####
 
@@ -66,7 +66,7 @@ DS 428 - Norm for brandtekniske foranstaltninger ved ventilationsanlæg
 
 #### Standarden findes på dansk i Dansk Standards [](https://webshop.ds.dk/da-dk/s%C3%B8gning/13-220-20-brandbeskyttelse/ds-4282011){target="_blank"}
 
-[![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 ####
 
@@ -76,7 +76,7 @@ DS 447 - Ventilation i bygninger - Mekaniske, naturlige og hybride ventilationss
 
 #### Standarden findes på dansk i Dansk Standards [webshop.ds.dk](https://webshop.ds.dk/da-dk/s%C3%B8gning/91-140-30-ventilationssystemer-og-klimaanl%C3%A6g/ds-4472013){target="_blank"}
 
-[![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 ####
 
@@ -94,7 +94,7 @@ Befugtning af ventilationsluften må dog ikke medføre, at der opstår risiko fo
 
 Hvis befugtningsanlægget ikke er en integreret del af ventilationssystemet, bør det have egen vedligeholdelsesplan.
 
-Befugtere tilkobles normalt drikkevandsforsyningen, og vandinstallationer i forbindelse med befugtere skal udføres i henhold til [kapitel 21 Vand](../../../21/krav "Krav"). I situationer hvor befugtningsanlægget undtagelsesvist ikke tilkobles drikkevandsinstallationerne, bør der tages særskilte forholdsregler for at sikre, at vandet har en tilfredsstillende kvalitet i forhold til sundhedsmæssige forhold.
+Befugtere tilkobles normalt drikkevandsforsyningen, og vandinstallationer i forbindelse med befugtere skal udføres i henhold til [kapitel 21 Vand](../../../21/krav/ "Krav"). I situationer hvor befugtningsanlægget undtagelsesvist ikke tilkobles drikkevandsinstallationerne, bør der tages særskilte forholdsregler for at sikre, at vandet har en tilfredsstillende kvalitet i forhold til sundhedsmæssige forhold.
 
 Generelt er det vigtigt, at der ved brug af be- og affugtere sikres en tilfredsstillende sikkerhed og hygiejne for lufttransport. Hvis der eksempelvis anvendes befugtere med vandtank, bør der sikres der mod fremvækst af biofilm i vandtank.
 
@@ -106,9 +106,9 @@ Som ekstra sikkerhed ved installation af befugtere i kanal bør kondensafløb f�
 
 *Nyinstallation og renovering.*
 
-Bygningsreglementets bestemmelser om ventilation gælder ved nyinstallation i en eksisterende bygning eller ved total udskiftning af et eksisterende ventilationssystem. Der henvises til [§ 277 ](../../../11/krav/274_279 "274_279")og [Vejledning om installationer i eksisterende bygninger.](../../../../vejledninger/andre_vejledninger/andre_vejledninger/vejledning-om-installationer-i-eksisterende-bygninger "Vejledning om installationer i eksisterende bygninger")
+Bygningsreglementets bestemmelser om ventilation gælder ved nyinstallation i en eksisterende bygning eller ved total udskiftning af et eksisterende ventilationssystem. Der henvises til [§ 277](../../../11/krav/274_279/ "274_279") og [Vejledning om installationer i eksisterende bygninger.](../../../../vejledninger/andre_vejledninger/andre_vejledninger/vejledning-om-installationer-i-eksisterende-bygninger/ "Vejledning om installationer i eksisterende bygninger")
 
-Ved ombygning og renoveringsarbejder kan der ske lempelser af bestemmelserne i [§443, stk. 2](../../krav/443_446 "443_446"), når ombygningsarbejdet efter kommunalbestyrelsens skøn ikke kan udføres uden omfattende ændringer i bebyggelsen. En lempelse af [§443, stk. 2](../../krav/443_446 "443_446") kan eksempelvis være tilvejebringelse af basisluftskiftet ved udsugning i bad og køkken suppleret med tilførsel af udeluft gennem facade, vinduer eller lignende, hvor det af byggetekniske årsager eller pladshensyn kan være vanskeligt at etablere mekanisk indblæsning. Dette medfører ikke lempelser af kravet til grundluftskiftet.
+Ved ombygning og renoveringsarbejder kan der ske lempelser af bestemmelserne i [§443, stk. 2](../../krav/443_446/ "443_446"), når ombygningsarbejdet efter kommunalbestyrelsens skøn ikke kan udføres uden omfattende ændringer i bebyggelsen. En lempelse af [§443, stk. 2](../../krav/443_446/ "443_446") kan eksempelvis være tilvejebringelse af basisluftskiftet ved udsugning i bad og køkken suppleret med tilførsel af udeluft gennem facade, vinduer eller lignende, hvor det af byggetekniske årsager eller pladshensyn kan være vanskeligt at etablere mekanisk indblæsning. Dette medfører ikke lempelser af kravet til grundluftskiftet.
 
 ### 1.2. Luftindtag og -afkast {#a4dae939-46b9-4e31-9e35-bcbf2321b11f}
 
@@ -128,7 +128,7 @@ Herudover bør blandt andet følgende forhold tages i betragtning ved udformning
 
 Der henvises til DS 447, der indeholder nærmere præcisering af placering af luftindtag og –afkast.
 
-[![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 #### DS 447
 
@@ -144,7 +144,7 @@ Luftindtag og afkast kan også være ventilationsåbninger direkte til det fri f
 
 Ventilationsåbninger direkte til det fri bør udformes og fungere, så brugerne tilskyndes til at anvende åbningerne efter hensigten og derved korrekt udnytte mulighederne for at regulere både mængden og fordelingen af den tilførte udeluft. En ventilationsåbning direkte til det fri bør derfor være regulerbar, let at indstille, og kunne betjenes fra gulv. Endelig skal der tages højde for at ventilationsåbninger ikke giver anledning til træk.
 
-Der kan være krav om en vis lyddæmpning i ventilationsåbningen, se [§ 369](../../../17/krav/369_373 "369_373"). I de tilfælde, hvor udelufttilførslen skal ske gennem styrede vinduer, bør tyveriaspektet iagttages.
+Der kan være krav om en vis lyddæmpning i ventilationsåbningen, se [§ 369](../../../17/krav/369_373/ "369_373"). I de tilfælde, hvor udelufttilførslen skal ske gennem styrede vinduer, bør tyveriaspektet iagttages.
 
 ### 1.3. Træk {#626c6ed0-d8db-43db-88f0-3c9df15a14b2}
 
@@ -153,13 +153,13 @@ For at begrænse træk bør draught rate i opholdszonen i lokaler med stillesidd
 Med draught rate på 20% fås følgende, maksimale middellufthastigheder ved normal turbulens (Turbulensintensitet på 40 pct):
 
 |                 |     |      |      |      |      |      |      |      |      |      |      |      |
-|:----------------|:----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+|-----------------|-----|------|------|------|------|------|------|------|------|------|------|------|
 | Lufttemperatur  | °C  | 18   | 19   | 20   | 21   | 22   | 23   | 24   | 25   | 26   | 27   | 28   |
 | Lufthastighed   | m/s | 0,15 | 0,15 | 0,16 | 0,17 | 0,18 | 0,19 | 0,21 | 0,23 | 0,25 | 0,27 | 0,31 |
 
 Ved andre turbulensintensiteter, fx ved brug af fortrængningsventilation, vil de maksimale lufthastigheder være anderledes.
 
-[![](../../../../assets/img/linkbox/ds_en_iso_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/ds_en_iso_linkbox.svg)](#)
 
 #### DS/EN ISO 7730
 
@@ -177,7 +177,7 @@ Ved åbne vinduer, eller ved brug af loft- eller bordventilatorer, som er under 
 
 Ved utætheder, kuldenedfald, loftventilator, åbninger og ventilationssystemer, som ikke er under personlig kontrol, giver DS447 anneks A eksempler på tilladelige perioder med trækraten over 20%.
 
-[![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 ####
 
@@ -211,7 +211,7 @@ Ved det specifikke elforbrug til lufttransport forstås her det samlede elforbru
 
 Det specifikke elforbrug til lufttransport kan beregnes for det enkelte anlæg for sig eller alternativt ved en samlet beregning for luftmængde og energiforbruget af flere anlæg i en bygning.
 
-Grundluftskiftet for ventilationsanlæg til etageboliger vil normalt være luftmængden, der ventileres med, hvis der ikke er forcerede luftmængder i hverken køkken, bad eller WC. Grundluftskiftet må ikke blive mindre end 0,30 l/s pr. m² opvarmet etageareal, jf. [§443](../../krav/443_446 "443_446") når boligen er i anvendelse og 0,15 l/s pr. m^2^ når boligen ikke er i anvendelse[.](../../krav/443_446)
+Grundluftskiftet for ventilationsanlæg til etageboliger vil normalt være luftmængden, der ventileres med, hvis der ikke er forcerede luftmængder i hverken køkken, bad eller WC. Grundluftskiftet må ikke blive mindre end 0,30 l/s pr. m² opvarmet etageareal, jf. [§443](../../krav/443_446/ "443_446") når boligen er i anvendelse og 0,15 l/s pr. m^2^ når boligen ikke er i anvendelse[.](../../krav/443_446/)
 
 Ventilationsanlæg, der kun betjener en enkelt bolig, har et skærpet krav til specifikt elforbrug til lufttransport. Dette gælder også for anlæg der betjener en enkelt boligenhed i en etagebolig. Hvis decentrale ventilationsanlæg i etageboliger er koblet sammen, for eksempel gennem et fælles aftræk er det kravet til specifikt elforbrug til lufttransport for etageboliger, der skal overholdes.
 
@@ -219,7 +219,7 @@ Det specifikke elforbrug til lufttransport opgøres som angivet i DS 447 Ventila
 
 For udsugningsanlæg uden mekanisk udelufttilførsel medregnes ligeledes tryktabet på tilluftsiden i anlæggets samlede tryktab (eksempelvis via udeluftsventiler og vinduer).
 
-[![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 #### DS 447
 
@@ -237,11 +237,11 @@ Kravet om præcision af målere er opfyldt ved anvendelse af typegodkendte måle
 
 *Luftskifte*
 
-I beboelsesbygninger er der et generelt krav om et grundluftskifte på 0,30 l/s pr. m² opvarmet etageareal når boligen er i anvendelse, hvor det opvarmede etageareal beregnes som beskrevet i [kapitel 23](../../../../ovrige-bestemmelser/23/krav "kapitel 23"){rel="noopener" target="_blank"} i bygningsreglementet. De 0,30 l/s pr. m² svarer ved normal rumhøjde omtrentligt til et luftskifte på 0,5 /h. Hvis boligen ikke er i anvendelse i en periode og har et behovsstyret ventilationssystem, kan grundluftskiftet reduceres til 0,15 l/s pr. m^2^, så længe luftkvalitet og fugtforhold er tilfredsstillende. Derudover er der krav om, at luftmængderne kan forøges til specifikke niveauer i køkken, bad, wc-rum og bryggers. Begge krav er mindstekrav, der begge skal være opfyldt. I visse tilfælde kan det dog være nødvendigt at forøge luftmængderne for at overholde det grundlæggende funktionskrav i §420. Det kan for eksempel være i rum der benyttes som soveværelse eller børneværelse.
+I beboelsesbygninger er der et generelt krav om et grundluftskifte på 0,30 l/s pr. m² opvarmet etageareal når boligen er i anvendelse, hvor det opvarmede etageareal beregnes som beskrevet i [kapitel 23](../../../../ovrige-bestemmelser/23/krav/ "kapitel 23"){rel="noopener" target="_blank"} i bygningsreglementet. De 0,30 l/s pr. m² svarer ved normal rumhøjde omtrentligt til et luftskifte på 0,5 /h. Hvis boligen ikke er i anvendelse i en periode og har et behovsstyret ventilationssystem, kan grundluftskiftet reduceres til 0,15 l/s pr. m^2^, så længe luftkvalitet og fugtforhold er tilfredsstillende. Derudover er der krav om, at luftmængderne kan forøges til specifikke niveauer i køkken, bad, wc-rum og bryggers. Begge krav er mindstekrav, der begge skal være opfyldt. I visse tilfælde kan det dog være nødvendigt at forøge luftmængderne for at overholde det grundlæggende funktionskrav i §420. Det kan for eksempel være i rum der benyttes som soveværelse eller børneværelse.
 
 Naturlig og mekanisk ventilation kan kombineres, forudsat at dette tilsammen opfylder det generelle krav om grundluftskifte. Tilvejebringelse af grundluftskiftet kan ikke være afhængig af fx manuel opluk af vinduer, da dette er udluftning og ikke ventilation. Infiltration gennem klimaskærmen er heller ikke naturlig ventilation, men et utilsigtet luftskifte.
 
-At der for køkkener stilles krav om både en udsugning på 20 l/s og en emhætte skal læses i forbindelse med reglementets [§ 443 stk. 2](../../krav/443_446 "443_446"), i hvilken der stilles krav til indblæsning eller udsugning i en række rum herunder køkkenet i forbindelse med bygningens grundluftskifte. Reglementet har altså en mulighed for at man kan finde den løsning der passer bedst ind i en given situation. Emhætten kan i køkkenet eksempelvis anvendes til at tilvejebringe grundluftskiftet, men bør i denne situation være integreret med boligens øvrige ventilationssystem. Alternativt kan ventilationssystemet og emhætten være to adskilte enheder, hvor ventilationssystemet varetager kravet om grundluftskiftet, mens emhætten sikrer udsugningen ved madlavning.
+At der for køkkener stilles krav om både en udsugning på 20 l/s og en emhætte skal læses i forbindelse med reglementets [§ 443 stk. 2](../../krav/443_446/ "443_446"), i hvilken der stilles krav til indblæsning eller udsugning i en række rum herunder køkkenet i forbindelse med bygningens grundluftskifte. Reglementet har altså en mulighed for at man kan finde den løsning der passer bedst ind i en given situation. Emhætten kan i køkkenet eksempelvis anvendes til at tilvejebringe grundluftskiftet, men bør i denne situation være integreret med boligens øvrige ventilationssystem. Alternativt kan ventilationssystemet og emhætten være to adskilte enheder, hvor ventilationssystemet varetager kravet om grundluftskiftet, mens emhætten sikrer udsugningen ved madlavning.
 
 Der er krav om, at ventilationen i andre rum end de ovenfor nævnte dimensioneres under hensyn til rummenes størrelse og anvendelse. Andre rum i beboelsesbygninger kan fx være kældre, vaske- og tørrerum, sauna, elevatorer eller garageanlæg. Grundluftskifte i disse andre rum bør dog aldrig blive mindre end 0,15 l/s pr. m². Er der mekanisk ventilation i en bolig, skal denne derfor normalt køre hele tiden med mindst den krævede minimumsydelse. Se dog afsnittet om behovsstyret ventilation i beboelsesbygninger.
 
@@ -249,9 +249,9 @@ Det skal sikres, at luften kan fordele sig mellem de individuelle rum, selvom d�
 
 Om sommeren kan der være brug for yderligere ventilation for at fjerne overskudsvarme.
 
-Såfremt der anvendes et andet ventilationssystem end et mekanisk ventilationsanlæg i forbindelse med [§ 443 stk. 2](../../krav/443_446 "443_446"), skal det efterleve bygningsreglementets krav på en tilsvarende måde. Herunder skal opmærksomheden særligt henledes på bygningsreglementets bestemmelser om termisk komfort, luftkvalitet og lydforhold og til primærenergiforbruget set i forhold til et ventilationsanlæg, der opfylder bygningsreglementets og Ecodesigns minimumskrav. Desuden skal systemet være forsynet med et reguleringssystem, der er projekteret og udført sådan, at ventilationssystemet på en energiøkonomisk måde kan opretholde de ovenfor nævnte krav til indeklimaet.
+Såfremt der anvendes et andet ventilationssystem end et mekanisk ventilationsanlæg i forbindelse med [§ 443 stk. 2](../../krav/443_446/ "443_446"), skal det efterleve bygningsreglementets krav på en tilsvarende måde. Herunder skal opmærksomheden særligt henledes på bygningsreglementets bestemmelser om termisk komfort, luftkvalitet og lydforhold og til primærenergiforbruget set i forhold til et ventilationsanlæg, der opfylder bygningsreglementets og Ecodesigns minimumskrav. Desuden skal systemet være forsynet med et reguleringssystem, der er projekteret og udført sådan, at ventilationssystemet på en energiøkonomisk måde kan opretholde de ovenfor nævnte krav til indeklimaet.
 
-Kravet til primærenergiforbrug for andre ventilationssystemer end mekaniske beregnes med udgangspunkt i energirammen. I renoveringssager, hvor der ikke benyttes en energiramme, kan primærenergiforbruget beregnes med primærenergifaktorerne beskrevet i [§ 252](../../../11/krav "§ 252"){rel="noopener" target="_blank"} ud fra minimumskravene for varmegenvinding, SEL-værdi og luftskifte. Der skal ved beregning anvendes de samme luftmængder til mekanisk, naturlig og hybrid ventilation. Kravet til primærenergiforbrug er opfyldt, hvis det på baggrund af beregningen kan dokumenteres, at det alternative ventilationssystem ikke har et højere primærenergiforbrug end det mekaniske ventilationsanlæg.
+Kravet til primærenergiforbrug for andre ventilationssystemer end mekaniske beregnes med udgangspunkt i energirammen. I renoveringssager, hvor der ikke benyttes en energiramme, kan primærenergiforbruget beregnes med primærenergifaktorerne beskrevet i [§ 252](../../../11/krav/ "§ 252"){rel="noopener" target="_blank"} ud fra minimumskravene for varmegenvinding, SEL-værdi og luftskifte. Der skal ved beregning anvendes de samme luftmængder til mekanisk, naturlig og hybrid ventilation. Kravet til primærenergiforbrug er opfyldt, hvis det på baggrund af beregningen kan dokumenteres, at det alternative ventilationssystem ikke har et højere primærenergiforbrug end det mekaniske ventilationsanlæg.
 
 *Kompenserende tiltag*
 
@@ -285,51 +285,51 @@ Mindre aflukkede køkkenrum defineres som mindre rum fortrinsvis indrettet til m
 
 Tabel præ-accepterede korrektionsfaktorer for emhætteplacering og minimums luftmængde:
 
-<table style="width:99%;">
+<table data-border="0">
 <colgroup>
-<col style="width: 21%" />
-<col style="width: 35%" />
-<col style="width: 9%" />
-<col style="width: 13%" />
-<col style="width: 19%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
 </colgroup>
 <tbody>
 <tr>
-<td>Udformning</td>
-<td>Placering</td>
-<td>Korrektionsfaktor</td>
+<td>Udformning </td>
+<td>Placering </td>
+<td>Korrektionsfaktor </td>
 <td><p>Eksempel</p>
-<p>Resulterende (åbent køkken)</p></td>
+Resulterende (åbent køkken) </td>
 <td><p>Eksempel</p>
-<p>Resulterende (mindre aflukket køkkenrum)</p></td>
+Resulterende (mindre aflukket køkkenrum) </td>
 </tr>
 <tr>
 <td>Vandret med en hældning på ikke mere end 15 °</td>
-<td>Afstand over kogepladerne på højst 60 cm</td>
+<td>Afstand over kogepladerne på højst 60 cm </td>
 <td>0,5</td>
-<td>60 l/s</td>
+<td>60 l/s </td>
 <td>40 l/s</td>
 </tr>
 <tr>
-<td>Vandret med en hældning på ikke mere end 15 °</td>
+<td>Vandret med en hældning på ikke mere end 15 ° </td>
 <td>Afstand over kogepladerne på mere end 60 cm og mindre end 90 cm fra kogepladen</td>
-<td>0,67</td>
+<td>0,67 </td>
 <td>80 l/s</td>
 <td>53 l/s</td>
 </tr>
 <tr>
-<td>Skrå væghængte og frithængende over kogeøer</td>
-<td>Højst 90 cm fra kogeplade</td>
-<td>0,67</td>
-<td>80 l/s</td>
-<td>53 l/s</td>
+<td>Skrå væghængte og frithængende over kogeøer </td>
+<td>Højst 90 cm fra kogeplade </td>
+<td>0,67 </td>
+<td>80 l/s </td>
+<td>53 l/s </td>
 </tr>
 <tr>
-<td>Andre</td>
-<td></td>
-<td>1</td>
-<td>120 l/s</td>
-<td>80 l/s</td>
+<td>Andre </td>
+<td> </td>
+<td>1 </td>
+<td>120 l/s </td>
+<td>80 l/s </td>
 </tr>
 </tbody>
 </table>
@@ -342,9 +342,9 @@ Dokumentation med test
 
 Såfremt der vælges at anvende en test som dokumentationsmetode, er de relevante teststandarder DS/EN 61591 og DS/EN 13141-3. Hvilken af de to teststandarder, der anvendes, følger af standardernes scope.
 
-For emhætter testet efter DS/EN 13141-3 eller DS/EN 61591:1997 med tillæg benævnes den relevante værdi 'odour extraction'. For emhætter testet efter DS/EN 61591 benævnes den 'odour reduction'. Disse værdier betragtes som angivelser af begrebet 'emopfangsevne'.
+For emhætter testet efter DS/EN 13141-3 eller DS/EN 61591:1997 med tillæg benævnes den relevante værdi ’odour extraction’. For emhætter testet efter DS/EN 61591 benævnes den ’odour reduction’. Disse værdier betragtes som angivelser af begrebet ’emopfangsevne’.
 
-[![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](#)
 
 #### DS/EN 13141-3
 
@@ -356,7 +356,7 @@ This document specifies methods for measuring the main performance characteristi
 
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/s%c3%b8gning/91-140-30-ventilationssystemer-og-klimaanl%c3%a6g/ds-en-13141-32017 "DS/EN 13141-3"){target="_blank"}
 
-[![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](#)
 
 #### DS/EN 61591
 
@@ -388,7 +388,7 @@ I enfamiliehuse vil overholdelse af nedenstående åbningsarealer normalt medfø
 
 Ventilation i boliger kan reduceres uden for brugstiden under forudsætning af, at det ikke giver anledning til et utilfredsstillende indeklima, medfører sundhedsrisiko eller risiko for fugtproblemer, der fx kan føre til skimmelsvamp. For boliger vil det normalt sige, at ventilationen som minimum skal sikre, at rumluftens CO~2~-indhold og luftfugtighed altid holdes på et acceptabelt niveau.
 
-Ved brugstid forstås den tid, hvor boligen er i anvendelse, og der er mindst én person til stede i boligen. Det vil omvendt sige, at der ved "uden for brugstid" skal forstås den tid, hvor boligen som helhed er uden persontilstedeværelse i en længere periode.
+Ved brugstid forstås den tid, hvor boligen er i anvendelse, og der er mindst én person til stede i boligen. Det vil omvendt sige, at der ved ”uden for brugstid” skal forstås den tid, hvor boligen som helhed er uden persontilstedeværelse i en længere periode.
 
 Det er en forudsætning for brug af behovsstyret ventilation, at der er følere eller sensorer der automatisk og med høj sikkerhed kan fastlægge om brugeren/brugerne er til stede i boligen eller ej. Dette gælder også på tidspunkter, hvor brugerne er inaktive eksempelvis sover.
 
@@ -426,15 +426,15 @@ Ventilationen kan dimensioneres ud fra antagelser om antal brugere og aktivitets
 
 I beregningen af de nødvendige luftmængder kan det normalt antages at udeluftkoncentrationen af CO~2~ er 400 ppm. Hvis udeluftkoncentrationen er højere end 400 ppm kan der accepteres tilsvarende højere CO~2~-niveau indenfor.
 
-Såfremt der anvendes et andet ventilationssystem end et mekanisk ventilationsanlæg i forbindelse med [§ 447 stk. 1](../../krav/447 "447"), skal det efterleve bygningsreglementets krav på en tilsvarende måde. Herunder skal opmærksomheden særligt henledes på bygningsreglementets bestemmelser om termisk komfort, træk, luftkvalitet og lydforhold og til primærenergiforbruget set i forhold til et ventilationsanlæg, der opfylder bygningsreglementets og Ecodesigns minimumskrav. Desuden skal systemet være forsynet med et reguleringssystem, der er projekteret og udført sådan, at ventilationssystemet på en energiøkonomisk måde kan opretholde de ovenfor nævnte krav til indeklimaet.
+Såfremt der anvendes et andet ventilationssystem end et mekanisk ventilationsanlæg i forbindelse med [§ 447 stk. 1](../../krav/447/ "447"), skal det efterleve bygningsreglementets krav på en tilsvarende måde. Herunder skal opmærksomheden særligt henledes på bygningsreglementets bestemmelser om termisk komfort, træk, luftkvalitet og lydforhold og til primærenergiforbruget set i forhold til et ventilationsanlæg, der opfylder bygningsreglementets og Ecodesigns minimumskrav. Desuden skal systemet være forsynet med et reguleringssystem, der er projekteret og udført sådan, at ventilationssystemet på en energiøkonomisk måde kan opretholde de ovenfor nævnte krav til indeklimaet.
 
 Manuel åbning af vinduer eller lignende kan ikke være en forudsætning for opfyldelse af kravet til luftkvaliteten.
 
-Kravet til primærenergiforbrug for andre ventilationssystemer end mekaniske beregnes med udgangspunkt i energirammen. I renoveringssager, hvor der ikke benyttes en energiramme, kan primærenergiforbruget beregnes med primærenergifaktorerne beskrevet i [§ 252](../../../11/krav "Krav") ud fra minimumskravene for varmegenvinding, SEL-værdi og luftskifte. Der skal ved beregning anvendes de samme luftmængder til mekanisk, naturlig og hybrid ventilation. Kravet til primærenergiforbrug er opfyldt, hvis det på baggrund af beregningen kan dokumenteres, at det alternative ventilationssystem ikke har et højere primærenergiforbrug end det mekaniske ventilationsanlæg.
+Kravet til primærenergiforbrug for andre ventilationssystemer end mekaniske beregnes med udgangspunkt i energirammen. I renoveringssager, hvor der ikke benyttes en energiramme, kan primærenergiforbruget beregnes med primærenergifaktorerne beskrevet i [§ 252](../../../11/krav/ "Krav") ud fra minimumskravene for varmegenvinding, SEL-værdi og luftskifte. Der skal ved beregning anvendes de samme luftmængder til mekanisk, naturlig og hybrid ventilation. Kravet til primærenergiforbrug er opfyldt, hvis det på baggrund af beregningen kan dokumenteres, at det alternative ventilationssystem ikke har et højere primærenergiforbrug end det mekaniske ventilationsanlæg.
 
 ### 1.9. Funktionsafprøvning {#ad1b9889-dbb6-4715-bb2e-463ac6068b46}
 
-Der henvises til [Bygningsreglementets vejledning om funktionsafprøvning](../../../11/brv/version-2-funktionsafprovning){rel="noopener noreferrer" target="_blank"}[.](../../../11/brv/version-2-funktionsafprovning){rel="noopener noreferrer" target="_blank"}
+Der henvises til [Bygningsreglementets vejledning om funktionsafprøvning](../../../11/brv/version-2-funktionsafprovning/){rel="noopener noreferrer" target="_blank"}[.](../../../11/brv/version-2-funktionsafprovning/){rel="noopener noreferrer" target="_blank"}
 
 ### 1.10. Drift og vedligehold {#6e48ddb0-faf3-4a33-90dd-8d2600796ee3}
 
@@ -442,7 +442,7 @@ Ventilationsbestemmelserne skal overholdes i hele bygningens levetid. Det betyde
 
 DS 447 indeholder yderligere krav omkring drift og vedligeholdelse af ventilationssystemer. Kravene heri skal overholdes.
 
-[![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 ####
 
@@ -451,4 +451,3 @@ DS 447 - Ventilation i bygninger - Mekaniske, naturlige og hybride ventilationss
 ####
 
 #### Standarden findes på dansk i Dansk Standards [webshop.ds.dk](https://webshop.ds.dk/da-dk/s%C3%B8gning/91-140-30-ventilationssystemer-og-klimaanl%C3%A6g/ds-4472013){target="_blank"}
-

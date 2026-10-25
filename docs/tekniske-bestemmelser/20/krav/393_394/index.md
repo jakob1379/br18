@@ -61,4 +61,3 @@ Ved udformningen af parkeringspladser skal et passende antal parkeringspladser u
 ### § 402 {#paragraf-402}
 
 Fritliggende enfamiliehuse og sommerhuse er ikke omfattet af § 401.
-

@@ -8,51 +8,33 @@
 
 ## Bygningsreglementets vejledning om ventilation
 
-### Forord
+### Forord {#1e05e48e-6478-41b0-a8d2-c1bcb6c2e292}
 
-[1.1.](../kap-1_1/)
+### 1.1. Generelt om bestemmelserne om ventilation {#670cd376-5a3b-4f8c-ae13-b55176029380}
 
-### Generelt om bestemmelserne om ventilation
+### 1.2. Luftindtag og -afkast {#a4dae939-46b9-4e31-9e35-bcbf2321b11f}
 
-[1.2.](../kap-1_2/)
+### 1.3. Træk {#626c6ed0-d8db-43db-88f0-3c9df15a14b2}
 
-### Luftindtag og -afkast
+### 1.4. Overførsel af luft mellem rum {#9585ac1f-f041-4ab4-b904-ce4720f5f1d8}
 
-[1.3.](../kap-1_3/)
+### 1.5. Energikrav til ventilationssystemer {#26e28304-9f06-4175-baef-1bd6186d4204}
 
-### Træk
+### 1.6. Ventilation i beboelsesbygninger {#5e6d9918-0372-42b6-8af9-993eb2861b42}
 
-[1.4.](../kap-1_4/)
+### 1.7. Ventilation af andre bygninger og rum {#9b9e4589-4565-4dee-b20d-553695f2cad6}
 
-### Overførsel af luft mellem rum
+### 1.8. Ventilation af daginstitutioner og undervisningsrum {#25f1bfe1-d835-42f9-b095-95af5ceda41b}
 
-[1.5.](../kap-1_5/)
+### 1.9. Funktionsafprøvning {#ad1b9889-dbb6-4715-bb2e-463ac6068b46}
 
-### Energikrav til ventilationssystemer
-
-[1.6.](../kap-1_6/)
-
-### Ventilation i beboelsesbygninger
-
-[1.7.](../kap-1_7/)
-
-### Ventilation af andre bygninger og rum
-
-[1.8.](../kap-1_8/)
-
-### Ventilation af daginstitutioner og undervisningsrum
-
-[1.9.](../kap-1_9/)
-
-### Funktionsafprøvning
-
-[1.10.](./)
-
-### Drift og vedligehold
+### 1.10. Drift og vedligehold {#6e48ddb0-faf3-4a33-90dd-8d2600796ee3}
 
 Ventilationsbestemmelserne skal overholdes i hele bygningens levetid. Det betyder, at ventilationen skal vedligeholdes, driftes og rengøres, så anlæggene til enhver tid overholder bygningsreglementets krav.
 
 DS 447 indeholder yderligere krav omkring drift og vedligeholdelse af ventilationssystemer. Kravene heri skal overholdes.
+
+[![](../../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 ####
 
@@ -60,5 +42,4 @@ DS 447 - Ventilation i bygninger - Mekaniske, naturlige og hybride ventilationss
 
 ####
 
-#### Standarden findes på dansk i Dansk Standards webshop.ds.dk
-
+#### Standarden findes på dansk i Dansk Standards [webshop.ds.dk](https://webshop.ds.dk/da-dk/s%C3%B8gning/91-140-30-ventilationssystemer-og-klimaanl%C3%A6g/ds-4472013){target="_blank"}

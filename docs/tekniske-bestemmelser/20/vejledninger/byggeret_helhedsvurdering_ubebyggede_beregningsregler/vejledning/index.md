@@ -7,9 +7,8 @@
 
 ## Vejledning om bygningsreglementets kapitel 8 - byggeret og helhedsvurdering, kapitel 20 - ubebyggede arealer ved bebyggelse og kapitel 23 - beregningsregler
 
-### Rettelsesblad til vejledning om bygningsreglementets kapitel 8 - byggeret og helhedsvurdering, kapitel 20 - ubebyggede arealer ved bebyggelse og kapitel 23 - beregningsregler (01.01.2024)
+### Rettelsesblad til vejledning om bygningsreglementets kapitel 8 - byggeret og helhedsvurdering, kapitel 20 - ubebyggede arealer ved bebyggelse og kapitel 23 - beregningsregler (01.01.2024) {#310bcd09-1c24-4722-bc36-9156c4c62ca1}
 
-### Vejledning om bygningsreglementets kapitel 8 - byggeret og helhedsvurdering, kapitel 20 - ubebyggede arealer ved bebyggelse og kapitel 23 - beregningsregler
+### Vejledning om bygningsreglementets kapitel 8 - byggeret og helhedsvurdering, kapitel 20 - ubebyggede arealer ved bebyggelse og kapitel 23 - beregningsregler {#a1b29c8b-b84a-4d4f-898f-3f3b0c1c2a2a}
 
-[Åbn Vejledning om bygningsreglementets kapitel 8 - byggeret](../../../../../media/ng2h5vfj/4-vejledning-om-bygningsreglementets-kapitel-8-byggeret-og-helhedsvurdering-2-2021.pdf "4 Vejledning Om Bygningsreglementets Kapitel 8 Byggeret Og Helhedsvurdering 2 2021") [og helhedsvurdering, kapitel 20 - ubebyggede arealer ved](../../../../../media/ng2h5vfj/4-vejledning-om-bygningsreglementets-kapitel-8-byggeret-og-helhedsvurdering-2-2021.pdf "4 Vejledning Om Bygningsreglementets Kapitel 8 Byggeret Og Helhedsvurdering 2 2021") [bebyggelse og kapitel 23 - beregningsregler ](../../../../../media/ng2h5vfj/4-vejledning-om-bygningsreglementets-kapitel-8-byggeret-og-helhedsvurdering-2-2021.pdf "4 Vejledning Om Bygningsreglementets Kapitel 8 Byggeret Og Helhedsvurdering 2 2021")
-
+[Åbn Vejledning om bygningsreglementets kapitel 8 - byggeret](../../../../../media/ng2h5vfj/4-vejledning-om-bygningsreglementets-kapitel-8-byggeret-og-helhedsvurdering-2-2021.pdf "4 Vejledning Om Bygningsreglementets Kapitel 8 Byggeret Og Helhedsvurdering 2 2021") [og helhedsvurdering, kapitel 20 - ubebyggede arealer ved](../../../../../media/ng2h5vfj/4-vejledning-om-bygningsreglementets-kapitel-8-byggeret-og-helhedsvurdering-2-2021.pdf "4 Vejledning Om Bygningsreglementets Kapitel 8 Byggeret Og Helhedsvurdering 2 2021") [bebyggelse og kapitel 23 - beregningsregler](../../../../../media/ng2h5vfj/4-vejledning-om-bygningsreglementets-kapitel-8-byggeret-og-helhedsvurdering-2-2021.pdf "4 Vejledning Om Bygningsreglementets Kapitel 8 Byggeret Og Helhedsvurdering 2 2021")

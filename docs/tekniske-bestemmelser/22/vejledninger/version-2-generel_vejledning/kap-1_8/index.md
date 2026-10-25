@@ -8,39 +8,23 @@
 
 ## Bygningsreglementets vejledning om ventilation
 
-### Forord
+### Forord {#1e05e48e-6478-41b0-a8d2-c1bcb6c2e292}
 
-[1.1.](../kap-1_1/)
+### 1.1. Generelt om bestemmelserne om ventilation {#670cd376-5a3b-4f8c-ae13-b55176029380}
 
-### Generelt om bestemmelserne om ventilation
+### 1.2. Luftindtag og -afkast {#a4dae939-46b9-4e31-9e35-bcbf2321b11f}
 
-[1.2.](../kap-1_2/)
+### 1.3. Træk {#626c6ed0-d8db-43db-88f0-3c9df15a14b2}
 
-### Luftindtag og -afkast
+### 1.4. Overførsel af luft mellem rum {#9585ac1f-f041-4ab4-b904-ce4720f5f1d8}
 
-[1.3.](../kap-1_3/)
+### 1.5. Energikrav til ventilationssystemer {#26e28304-9f06-4175-baef-1bd6186d4204}
 
-### Træk
+### 1.6. Ventilation i beboelsesbygninger {#5e6d9918-0372-42b6-8af9-993eb2861b42}
 
-[1.4.](../kap-1_4/)
+### 1.7. Ventilation af andre bygninger og rum {#9b9e4589-4565-4dee-b20d-553695f2cad6}
 
-### Overførsel af luft mellem rum
-
-[1.5.](../kap-1_5/)
-
-### Energikrav til ventilationssystemer
-
-[1.6.](../kap-1_6/)
-
-### Ventilation i beboelsesbygninger
-
-[1.7.](../kap-1_7/)
-
-### Ventilation af andre bygninger og rum
-
-[1.8.](./)
-
-### Ventilation af daginstitutioner og undervisningsrum
+### 1.8. Ventilation af daginstitutioner og undervisningsrum {#25f1bfe1-d835-42f9-b095-95af5ceda41b}
 
 For opholdsrum i daginstitutioner og undervisningsrum i skoler og lignende, hvor personer er den væsentligste forureningskilde stilles der krav til at CO~2~-indholdet i indeluften ikke overstiger 1000 ppm ved de dimensionerende forhold.
 
@@ -56,11 +40,6 @@ Manuel åbning af vinduer eller lignende kan ikke være en forudsætning for opf
 
 Kravet til primærenergiforbrug for andre ventilationssystemer end mekaniske beregnes med udgangspunkt i energirammen. I renoveringssager, hvor der ikke benyttes en energiramme, kan primærenergiforbruget beregnes med primærenergifaktorerne beskrevet i [§ 252](../../../../11/krav/ "Krav") ud fra minimumskravene for varmegenvinding, SEL-værdi og luftskifte. Der skal ved beregning anvendes de samme luftmængder til mekanisk, naturlig og hybrid ventilation. Kravet til primærenergiforbrug er opfyldt, hvis det på baggrund af beregningen kan dokumenteres, at det alternative ventilationssystem ikke har et højere primærenergiforbrug end det mekaniske ventilationsanlæg.
 
-[1.9.](../kap-1_9/)
+### 1.9. Funktionsafprøvning {#ad1b9889-dbb6-4715-bb2e-463ac6068b46}
 
-### Funktionsafprøvning
-
-[1.10.](../kap-1_10/)
-
-### Drift og vedligehold
-
+### 1.10. Drift og vedligehold {#6e48ddb0-faf3-4a33-90dd-8d2600796ee3}

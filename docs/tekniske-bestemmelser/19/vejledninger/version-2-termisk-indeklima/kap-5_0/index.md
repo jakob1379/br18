@@ -7,27 +7,16 @@
 
 ## Bygningsreglementets vejledning om termisk indeklima og installationer til varme- og køleanlæg
 
-### Forord
+### Forord {#e918372c-926c-45f4-a87b-48d3ce39434e}
 
-[1.0.](../kap-1_0/)
+### 1.0. Generelt for termisk indeklima {#4c7f27cd-1445-45c9-a65c-2c64a5a14b85}
 
-### Generelt for termisk indeklima
+### 2.0. Generelt for installationer til varme- og køleanlæg {#be28a77a-cbf1-43b6-b8d8-52947cb4e5de}
 
-[2.0.](../kap-2_0/)
+### 3.0. Energiforbrug {#15ef20a4-5f04-48dc-88ab-c2d330d9f881}
 
-### Generelt for installationer til varme- og køleanlæg
+### 4.0. Kontrol {#63618166-5f9f-45e2-8eed-4618eb3f6b13}
 
-[3.0.](../kap-3_0/)
+### 5.0. Drift og vedligehold {#60c9a220-668d-45d6-af89-955cb04c03a8}
 
-### Energiforbrug
-
-[4.0.](../kap-4_0/)
-
-### Kontrol
-
-[5.0.](./)
-
-### Drift og vedligehold
-
-Kravene til drift og vedligehold af installationerne til varme- og køleanlæg vil normalt være opfyldt ved opfyldelse af kravene i [kapitel 15](/tekniske-bestemmelser/15/) i DS 469 Varme- og køleanlæg i bygninger.
-
+Kravene til drift og vedligehold af installationerne til varme- og køleanlæg vil normalt være opfyldt ved opfyldelse af kravene i kapitel 15 i DS 469 Varme- og køleanlæg i bygninger.

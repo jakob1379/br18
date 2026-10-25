@@ -8,35 +8,23 @@
 
 ## Bygningsreglementets vejledning om ventilation
 
-### Forord
+### Forord {#1e05e48e-6478-41b0-a8d2-c1bcb6c2e292}
 
-[1.1.](../kap-1_1/)
+### 1.1. Generelt om bestemmelserne om ventilation {#670cd376-5a3b-4f8c-ae13-b55176029380}
 
-### Generelt om bestemmelserne om ventilation
+### 1.2. Luftindtag og -afkast {#a4dae939-46b9-4e31-9e35-bcbf2321b11f}
 
-[1.2.](../kap-1_2/)
+### 1.3. Træk {#626c6ed0-d8db-43db-88f0-3c9df15a14b2}
 
-### Luftindtag og -afkast
+### 1.4. Overførsel af luft mellem rum {#9585ac1f-f041-4ab4-b904-ce4720f5f1d8}
 
-[1.3.](../kap-1_3/)
+### 1.5. Energikrav til ventilationssystemer {#26e28304-9f06-4175-baef-1bd6186d4204}
 
-### Træk
-
-[1.4.](../kap-1_4/)
-
-### Overførsel af luft mellem rum
-
-[1.5.](../kap-1_5/)
-
-### Energikrav til ventilationssystemer
-
-[1.6.](./)
-
-### Ventilation i beboelsesbygninger
+### 1.6. Ventilation i beboelsesbygninger {#5e6d9918-0372-42b6-8af9-993eb2861b42}
 
 *Luftskifte*
 
-I beboelsesbygninger er der et generelt krav om et grundluftskifte på 0,30 l/s pr. m² opvarmet etageareal når boligen er i anvendelse, hvor det opvarmede etageareal beregnes som beskrevet i [kapitel 23](../../../../../ovrige-bestemmelser/23/krav/ "kapitel 23"){rel="noopener" target="_blank"} i bygningsreglementet. De 0,30 l/s pr. m² svarer ved normal rumhøjde omtrentligt til et luftskifte på 0,5 /h. Hvis boligen ikke er i anvendelse i en periode og har et behovsstyret ventilationssystem, kan grundluftskiftet reduceres til 0,15 l/s pr. m^2^, så længe luftkvalitet og fugtforhold er tilfredsstillende. Derudover er der krav om, at luftmængderne kan forøges til specifikke niveauer i køkken, bad, wc-rum og bryggers. Begge krav er mindstekrav, der begge skal være opfyldt. I visse tilfælde kan det dog være nødvendigt at forøge luftmængderne for at overholde det grundlæggende funktionskrav i [§420](/tekniske-bestemmelser/22/krav/420/). Det kan for eksempel være i rum der benyttes som soveværelse eller børneværelse.
+I beboelsesbygninger er der et generelt krav om et grundluftskifte på 0,30 l/s pr. m² opvarmet etageareal når boligen er i anvendelse, hvor det opvarmede etageareal beregnes som beskrevet i [kapitel 23](../../../../../ovrige-bestemmelser/23/krav/ "kapitel 23"){rel="noopener" target="_blank"} i bygningsreglementet. De 0,30 l/s pr. m² svarer ved normal rumhøjde omtrentligt til et luftskifte på 0,5 /h. Hvis boligen ikke er i anvendelse i en periode og har et behovsstyret ventilationssystem, kan grundluftskiftet reduceres til 0,15 l/s pr. m^2^, så længe luftkvalitet og fugtforhold er tilfredsstillende. Derudover er der krav om, at luftmængderne kan forøges til specifikke niveauer i køkken, bad, wc-rum og bryggers. Begge krav er mindstekrav, der begge skal være opfyldt. I visse tilfælde kan det dog være nødvendigt at forøge luftmængderne for at overholde det grundlæggende funktionskrav i §420. Det kan for eksempel være i rum der benyttes som soveværelse eller børneværelse.
 
 Naturlig og mekanisk ventilation kan kombineres, forudsat at dette tilsammen opfylder det generelle krav om grundluftskifte. Tilvejebringelse af grundluftskiftet kan ikke være afhængig af fx manuel opluk af vinduer, da dette er udluftning og ikke ventilation. Infiltration gennem klimaskærmen er heller ikke naturlig ventilation, men et utilsigtet luftskifte.
 
@@ -62,7 +50,7 @@ Madlavning genererer forurening for indeklimaet gennem dannelse af luftformige f
 
 Emhætten skal have afkast til det fri, så det sikres, at forureninger fjernes fra boligen. Dette krav vil altid være gældende, når der etableres kogeplader eller emhætte i en bolig. Emhætter med recirkulation vil normalt ikke opfylde dette krav.
 
-Der skal altid sikres erstatningsluft, når emhætten er i drift. Manuel åbning af vinduer eller lignende kan ikke være en forudsætning for opfyldelse af kravene til emhætten. I det omfang erstatningsluft ikke tilføres ved brug af et mekanisk anlæg henvises til nærværende vejlednings [kapitel 1.2](../kap-1_2/) for vejledning i brugen af ventilationsåbninger direkte til det fri.
+Der skal altid sikres erstatningsluft, når emhætten er i drift. Manuel åbning af vinduer eller lignende kan ikke være en forudsætning for opfyldelse af kravene til emhætten. I det omfang erstatningsluft ikke tilføres ved brug af et mekanisk anlæg henvises til nærværende vejlednings kapitel 1.2 for vejledning i brugen af ventilationsåbninger direkte til det fri.
 
 Hvis en emhætte er i stand til at udsuge en luftmængde større end den, der er nødvendig for at overholde bygningsreglementets krav, er det ikke nødvendigt at dokumentere forhold som f.eks. energiforbrug eller træk i forhold til denne yderligere luftmængde.
 
@@ -84,51 +72,51 @@ Mindre aflukkede køkkenrum defineres som mindre rum fortrinsvis indrettet til m
 
 Tabel præ-accepterede korrektionsfaktorer for emhætteplacering og minimums luftmængde:
 
-<table style="width:99%;">
+<table data-border="0">
 <colgroup>
-<col style="width: 21%" />
-<col style="width: 35%" />
-<col style="width: 9%" />
-<col style="width: 13%" />
-<col style="width: 19%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
 </colgroup>
 <tbody>
 <tr>
-<td>Udformning</td>
-<td>Placering</td>
-<td>Korrektionsfaktor</td>
+<td>Udformning </td>
+<td>Placering </td>
+<td>Korrektionsfaktor </td>
 <td><p>Eksempel</p>
-<p>Resulterende (åbent køkken)</p></td>
+Resulterende (åbent køkken) </td>
 <td><p>Eksempel</p>
-<p>Resulterende (mindre aflukket køkkenrum)</p></td>
+Resulterende (mindre aflukket køkkenrum) </td>
 </tr>
 <tr>
 <td>Vandret med en hældning på ikke mere end 15 °</td>
-<td>Afstand over kogepladerne på højst 60 cm</td>
+<td>Afstand over kogepladerne på højst 60 cm </td>
 <td>0,5</td>
-<td>60 l/s</td>
+<td>60 l/s </td>
 <td>40 l/s</td>
 </tr>
 <tr>
-<td>Vandret med en hældning på ikke mere end 15 °</td>
+<td>Vandret med en hældning på ikke mere end 15 ° </td>
 <td>Afstand over kogepladerne på mere end 60 cm og mindre end 90 cm fra kogepladen</td>
-<td>0,67</td>
+<td>0,67 </td>
 <td>80 l/s</td>
 <td>53 l/s</td>
 </tr>
 <tr>
-<td>Skrå væghængte og frithængende over kogeøer</td>
-<td>Højst 90 cm fra kogeplade</td>
-<td>0,67</td>
-<td>80 l/s</td>
-<td>53 l/s</td>
+<td>Skrå væghængte og frithængende over kogeøer </td>
+<td>Højst 90 cm fra kogeplade </td>
+<td>0,67 </td>
+<td>80 l/s </td>
+<td>53 l/s </td>
 </tr>
 <tr>
-<td>Andre</td>
-<td></td>
-<td>1</td>
-<td>120 l/s</td>
-<td>80 l/s</td>
+<td>Andre </td>
+<td> </td>
+<td>1 </td>
+<td>120 l/s </td>
+<td>80 l/s </td>
 </tr>
 </tbody>
 </table>
@@ -141,7 +129,9 @@ Dokumentation med test
 
 Såfremt der vælges at anvende en test som dokumentationsmetode, er de relevante teststandarder DS/EN 61591 og DS/EN 13141-3. Hvilken af de to teststandarder, der anvendes, følger af standardernes scope.
 
-For emhætter testet efter DS/EN 13141-3 eller DS/EN 61591:1997 med tillæg benævnes den relevante værdi 'odour extraction'. For emhætter testet efter DS/EN 61591 benævnes den 'odour reduction'. Disse værdier betragtes som angivelser af begrebet 'emopfangsevne'.
+For emhætter testet efter DS/EN 13141-3 eller DS/EN 61591:1997 med tillæg benævnes den relevante værdi ’odour extraction’. For emhætter testet efter DS/EN 61591 benævnes den ’odour reduction’. Disse værdier betragtes som angivelser af begrebet ’emopfangsevne’.
+
+[![](../../../../../assets/img/linkbox/ds_en_linkbox.svg)](#)
 
 #### DS/EN 13141-3
 
@@ -152,6 +142,8 @@ Ventilation i bygninger - Ydeevneprøvning af komponenter/produkter til boligven
 This document specifies methods for measuring the main performance characteristics of range hoods for residential use. It applies to air extraction range hoods without fan.
 
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/s%c3%b8gning/91-140-30-ventilationssystemer-og-klimaanl%c3%a6g/ds-en-13141-32017 "DS/EN 13141-3"){target="_blank"}
+
+[![](../../../../../assets/img/linkbox/ds_en_linkbox.svg)](#)
 
 #### DS/EN 61591
 
@@ -183,7 +175,7 @@ I enfamiliehuse vil overholdelse af nedenstående åbningsarealer normalt medfø
 
 Ventilation i boliger kan reduceres uden for brugstiden under forudsætning af, at det ikke giver anledning til et utilfredsstillende indeklima, medfører sundhedsrisiko eller risiko for fugtproblemer, der fx kan føre til skimmelsvamp. For boliger vil det normalt sige, at ventilationen som minimum skal sikre, at rumluftens CO~2~-indhold og luftfugtighed altid holdes på et acceptabelt niveau.
 
-Ved brugstid forstås den tid, hvor boligen er i anvendelse, og der er mindst én person til stede i boligen. Det vil omvendt sige, at der ved "uden for brugstid" skal forstås den tid, hvor boligen som helhed er uden persontilstedeværelse i en længere periode.
+Ved brugstid forstås den tid, hvor boligen er i anvendelse, og der er mindst én person til stede i boligen. Det vil omvendt sige, at der ved ”uden for brugstid” skal forstås den tid, hvor boligen som helhed er uden persontilstedeværelse i en længere periode.
 
 Det er en forudsætning for brug af behovsstyret ventilation, at der er følere eller sensorer der automatisk og med høj sikkerhed kan fastlægge om brugeren/brugerne er til stede i boligen eller ej. Dette gælder også på tidspunkter, hvor brugerne er inaktive eksempelvis sover.
 
@@ -207,18 +199,10 @@ For bygninger der skal anvendes til bolig med et behovsstyret ventilationssystem
 
 For etageboligbygninger, kollegier, hoteller og lign. kan der ikke anvendes reduceret ventilation i fælles rum, som fx trappe og gangarealer. Ligeledes kan der ikke indregnes reduceret ventilation i boliger hvor beboerne i vid udstrækning må forventes at være hjemme i udstrakt grad, eksempelvis plejehjem.
 
-[1.7.](../kap-1_7/)
+### 1.7. Ventilation af andre bygninger og rum {#9b9e4589-4565-4dee-b20d-553695f2cad6}
 
-### Ventilation af andre bygninger og rum
+### 1.8. Ventilation af daginstitutioner og undervisningsrum {#25f1bfe1-d835-42f9-b095-95af5ceda41b}
 
-[1.8.](../kap-1_8/)
+### 1.9. Funktionsafprøvning {#ad1b9889-dbb6-4715-bb2e-463ac6068b46}
 
-### Ventilation af daginstitutioner og undervisningsrum
-
-[1.9.](../kap-1_9/)
-
-### Funktionsafprøvning
-
-[1.10.](../kap-1_10/)
-
-### Drift og vedligehold
+### 1.10. Drift og vedligehold {#6e48ddb0-faf3-4a33-90dd-8d2600796ee3}

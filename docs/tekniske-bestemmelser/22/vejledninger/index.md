@@ -5,4 +5,3 @@
 - [Bygningsreglementets vejledning om ventilation](version-2-generel_vejledning/)
 - [Vejledning om jordkanaler kan anvendes til friskluftsforsyning](kan-jordkanaler-anvendes-til-friskluftsforsyning/)
 - [Spørgsmål og svar](sporgsmaal_svaar/)
-

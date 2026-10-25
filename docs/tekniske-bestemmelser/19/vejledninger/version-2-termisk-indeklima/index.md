@@ -2,12 +2,12 @@
 
 ## Se alle vejledninger om Termisk indeklima og installationer til varme- og køleanlæg (§ 385 - § 392)
 
-- [Spørgsmål og svar](../sporgsmaal-og-svar)
+- [Spørgsmål og svar](../sporgsmaal-og-svar/)
 - [Bygningsreglementets vejledning om termisk indeklima og installationer til varme- og køleanlæg](./)
 
 ## Bygningsreglementets vejledning om termisk indeklima og installationer til varme- og køleanlæg
 
-### Forord
+### Forord {#e918372c-926c-45f4-a87b-48d3ce39434e}
 
 Bygninger skal planlægges og udføres, så der sikres et tilfredsstillende termisk indeklima i forhold til anvendelsen. Det medfører, at installationer til ventilation og varme- og køleanlæg skal udføres, så de har tilstrækkelig kapacitet til at sikre disse temperaturforhold året rundt.
 
@@ -25,7 +25,7 @@ Der henvises til ventilationsemnet for information om trækforhold, der hænger 
 
 Dokumentation for det termiske indeklima kan ske på grundlag af simulering af forholdene i de kritiske rum på grundlag af Design Reference Year, DRY 2013, for kalenderåret 2010. For boliger kan dokumentation ske på grundlag af en forenklet beregning, jf. SBi-anvisning 213 Bygningers energibehov.
 
-For vurdering af hvordan det termiske indeklima vil blive påvirket af klimaforandringer, kan der foretages simulering af forholdene i de kritiske rum på grundlag af Typical Meteorological Year, TMY 2050s og TMY 2090s, hvilket er to fremskrivninger af klimaet for henholdsvis 2050'erne og 2090'erne som typiske meteorologiske år.
+For vurdering af hvordan det termiske indeklima vil blive påvirket af klimaforandringer, kan der foretages simulering af forholdene i de kritiske rum på grundlag af Typical Meteorological Year, TMY 2050s og TMY 2090s, hvilket er to fremskrivninger af klimaet for henholdsvis 2050’erne og 2090’erne som typiske meteorologiske år.
 
 ### 2.0. Generelt for installationer til varme- og køleanlæg {#be28a77a-cbf1-43b6-b8d8-52947cb4e5de}
 
@@ -35,7 +35,7 @@ Brugsvandsanlæg skal udføres, så risikoen for vækst af legionella minimeres.
 
 I forhold til korrosion henvises til SBi-anvisning 227 Korrosion i VVS-installationer.
 
-Der henvises til [vejledning om installationer i eksisterende bygninger](../../../../vejledninger/andre_vejledninger/vejledning/installationer-eksisterende-byggeri "Installationer eksisterende byggeri")
+Der henvises til [vejledning om installationer i eksisterende bygninger](../../../../vejledninger/andre_vejledninger/vejledning/installationer-eksisterende-byggeri/ "Installationer eksisterende byggeri")
 
 ### 3.0. Energiforbrug {#15ef20a4-5f04-48dc-88ab-c2d330d9f881}
 
@@ -50,4 +50,3 @@ Der henvises til bygningsreglementets vejledning om funktionsafprøvning.
 ### 5.0. Drift og vedligehold {#60c9a220-668d-45d6-af89-955cb04c03a8}
 
 Kravene til drift og vedligehold af installationerne til varme- og køleanlæg vil normalt være opfyldt ved opfyldelse af kravene i kapitel 15 i DS 469 Varme- og køleanlæg i bygninger.
-

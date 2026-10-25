@@ -31,9 +31,9 @@ Vandinstallationer skal projekteres og udføres, så:
 9.  Der ved rørgennemføringer ikke spredes generende støj, fugt og lugt.
 10. De kan renses, betjenes og vedligeholdes i fornødent omfang. Komponenter, der kræver betjening, eftersyn eller vedligehold, skal være let tilgængelige, så dette kan ske på en hensigtsmæssig og forsvarlig måde.
 
-*Stk. 2.* Stk. 1, nr. 1, kan opfyldes ved at følge [Rørcenteranvisning 017 Legionella - Installationsprincipper og bekæmpelsesmetoder ](../../../media/4erbhjv3/rrcenteranvisning-017-legionella-a.pdf "Rrcenteranvisning 017 Legionella")
+*Stk. 2.* Stk. 1, nr. 1, kan opfyldes ved at følge [Rørcenteranvisning 017 Legionella - Installationsprincipper og bekæmpelsesmetoder](../../../media/4erbhjv3/rrcenteranvisning-017-legionella-a.pdf "Rrcenteranvisning 017 Legionella")
 
-[![](../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+[![](../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 ### DS 439
 
@@ -75,7 +75,7 @@ Hvor installationer for drikkevand kan komme i berøring med sundhedsskadelige s
 
 ### § 409 {#paragraf-409}
 
-Installationer for vand til teknisk brug og installationer, der af andre grunde medfører, at kravene til drikkevandskvaliteten ikke er opfyldt, skal være mærket tydeligt, så fejlagtig brug kan undgås. [![](../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
+Installationer for vand til teknisk brug og installationer, der af andre grunde medfører, at kravene til drikkevandskvaliteten ikke er opfyldt, skal være mærket tydeligt, så fejlagtig brug kan undgås. [![](../../../assets/img/linkbox/ds_en_linkbox.svg)](#)
 
 ### DS/EN 1717:2002
 
@@ -125,7 +125,7 @@ Det samlede forbrug af varme til opvarmning og cirkulation af varmt vand skal m�
 
 *Stk. 2.* Målere, der anvendes til måling af varme, jf. stk. 1, skal have en tilfredsstillende nøjagtighed.
 
-[![](../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+[![](../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 ### DS 452
 
@@ -168,7 +168,7 @@ Drift og vedligehold af vandinstallationer skal ske, så de til enhver tid overh
 
 *Stk. 5.* Ubenyttede installationer skal afmonteres den del af installationen, som er i brug for at forhindre bakterievækst mv. Afmonteringen skal ske umiddelbart ved afgrening fra den del af installationen, som er i brug.
 
-[![](../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
+[![](../../../assets/img/linkbox/ds_en_linkbox.svg)](#)
 
 ### DS/EN 806-5
 
@@ -179,4 +179,3 @@ Specifikationer for drikkevandsinstallationer i bygninger - Del 5: Drift og vedl
 Denne europæiske standard angiver krav og giver anbefalinger for funktion og vedligeholdelse af drikkevandsinstallationer i bygninger og for rørarbejder udenfor bygninger, men indenfor ejendommen i henhold til EN 806-1.
 
 ### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/standard/29926/ds-en-806-3-2006 "DS/EN 806-5"){target="_blank"}
-
