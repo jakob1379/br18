@@ -68,6 +68,8 @@ TYPOGRAPHY = str.maketrans({"\u201c": '"', "\u201d": '"', "\u201e": '"', "\u00ab
 LIST_MARKER = re.compile(r"^\(?(\d{1,3}|[a-zæøå]|[ivxl]{1,5})[.)]$", re.IGNORECASE)
 # Differing runs without a word still matter when they carry markdown/markup characters (`* *`, `**`, `\*`).
 SIGNIFICANT = re.compile(r"[\w*_`\\#@\[\]{}<>|~^]")
+# The origin CMS escapes some line breaks, so they show as literal `<br/>` text where the clone breaks the line.
+ESCAPED_BR = re.compile(r"<br\s*/?>", re.IGNORECASE)
 
 
 class ContentParser(HTMLParser):
@@ -424,7 +426,7 @@ def compare(url: str, origin_html: str, docs_root: Path, site_dir: Path, root_ur
         local_pages |= pages_
         local_files |= files_
         local_images |= _local_refs(view.images, base)[1]
-    origin_words = words("".join(origin.text))
+    origin_words = words(ESCAPED_BR.sub(" ", "".join(origin.text)))
     missing_text, extra_text = text_diff(origin_words, words("".join(views[0][0].text)))
     if root_url and built.exists():
         # A subpage keeps only its own section of the guide, so only its text that the reference lacks counts.
