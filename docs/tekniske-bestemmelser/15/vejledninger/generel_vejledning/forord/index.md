@@ -18,11 +18,7 @@ Denne vejledning omfatter kun kapitel 15, og omhandler således ikke yderligere 
 
 [![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
-####
-
 Bekendtgørelse nr. 1693 af 12/12/2023 om certificeringsordning for dokumentation af tekniske forhold i bygningsreglementet
-
-####
 
 #### Gå til bekendtgørelsen [](https://www.retsinformation.dk/eli/lta/2023/1693){target="_blank"}
 

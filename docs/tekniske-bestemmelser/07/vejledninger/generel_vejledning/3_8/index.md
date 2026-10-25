@@ -106,11 +106,7 @@ Håndildslukkere skal være udført i overensstemmelse med gældende regler (DS/
 
 [![](../../../../../assets/img/linkbox/ds_en_linkbox.svg)](#)
 
-####
-
 DS/EN 3-7 + A1:2007 - Håndildslukkere - Del 7: Karakteristika, ydeevnekrav og prøvningsmetoder
-
-####
 
 #### Standarden findes på dansk i Dansk Standards webshop [Standarden findes på dansk i Dansk Standards webshop](https://webshop.ds.dk/da-dk/s%c3%b8gning/13-220-10-brandslukning/ds-en-3-7-a12007){target="_blank"}
 

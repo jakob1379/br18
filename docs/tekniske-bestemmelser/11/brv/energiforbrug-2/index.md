@@ -16,8 +16,6 @@
 
 ### Forord {#e4a4aefb-350b-4266-827e-1508450a3f72}
 
-###
-
 ![](../../../../media/0m3oiliz/kap11_brv_0_0_energikrav_til_nye_bygninger.svg)
 
 Energikrav til nye bygninger
@@ -81,8 +79,6 @@ Gå til krav om energiforbrug § 250 - § 298 (nyt vindue).
 - [Gå til krav om energiforbrug (§ 250 - § 298)](../../krav/){target="_blank"}
 
 ### 1.1. Energifaktorer {#e1939b7a-413e-4987-a882-c3c48ef87fe1}
-
-###
 
 Energifaktorerne benyttes ved beregningen af behovet for tilført energi for bygninger og skal benyttes i forbindelse med energirammeberegningerne. Energifaktorerne bør også benyttes i forbindelse med andre energiberegninger, hvor der arbejdes med forskellige energiformer. For eksempel vil en ændring af opvarmningskilde fra fjernvarme til direkte elvarme være en ændring, der medfører et væsentligt højere primærenergi.
 
@@ -185,8 +181,6 @@ Kravet til U-værdi for lystunneler eller lignende gælder for gennembrydningen 
 
 [![](../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
-####
-
 Dansk standard: DS 418 – Beregning af bygningers varmetab
 
 #### Anvendelsesområde
@@ -196,8 +190,6 @@ Standarden indeholder beregningsregler for beregning af bygningers varmetab.
 #### Standarden findes i Dansk Standards Webshop.ds.dk her [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/){target="_blank"}
 
 ### 1.6. Energikrav til vinduer, glasydervægge, ovenlysvinduer og glastage {#74b8dcb5-1d2c-4d26-a488-19aef6197097}
-
-###
 
 ![](../../../../media/x5ldgnq4/kap11_brv_1_6_beregning_af_energitilskud_for_vinduer.svg)
 
@@ -289,8 +281,6 @@ Bemærk, engelske udgaver af europæiske standarder kan købes hos [alle europ�
 
 [![](../../../../assets/img/linkbox/ds_en_iso_linkbox.svg)](#)
 
-####
-
 DS/EN ISO 12631:2017 - Termisk ydeevne for curtainwalling – Beregning af varmetransmissionskoefficient
 
 #### Beskrivelse
@@ -302,8 +292,6 @@ Denne standard specificerer en procedure til beregning af den termiske transmiss
 Bemærk, engelske udgaver af europæiske standarder kan købes hos [alle europæiske standardiseringsorganisationer](https://standards.cen.eu/dyn/www/f?p=CENWEB:5){target="_blank"}.
 
 [![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](#)
-
-####
 
 DS/EN 13830:2003 - Curtain walling - Produktstandard
 
@@ -340,8 +328,6 @@ SBi-anvisning 213 skal benyttes til beregning af bygningers energibehov og til e
 - [Gå til krav ved brug af energiramme (§ 261 - § 266)](../../krav/261_266/#3a8ca349-26eb-45ea-919c-350ef44b666a){target="_blank"}
 
 [![](../../../../assets/img/linkbox/sbi_anv_linkbox.svg)](#)
-
-####
 
 SBi-Anvisning 213 Bygningers energibehov
 
@@ -387,8 +373,6 @@ I energirammeberegningen skal butiksarealet derfor gennemføres med samme data f
 - [Gå til krav for bygninger med blandet anvendelse (§ 261 - § 262) og øvrige krav ved brug af energiramme (§ 263 - § 266)](../../krav/261_266/#3a8ca349-26eb-45ea-919c-350ef44b666a){target="_blank"}
 
 ### 1.10. Tæthed og trykprøvning af bygninger {#8a5de75a-35a6-44ca-9312-35fe7c95663d}
-
-###
 
 ![](../../../../media/ezudhdw5/kap11_brv_1_10_taethed_og_trykproevning_klimaskaerm.svg)
 
@@ -474,8 +458,6 @@ Etageantallet beregnes som forholdet mellem etagearealet og det bebyggede areal.
 
 [![](../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
-####
-
 Dansk standard: DS 418 – Beregning af bygningers varmetab
 
 #### Anvendelsesområde
@@ -532,8 +514,6 @@ Reglerne om tilbygninger kan benyttes når der laves mindre tilbygninger til eks
 
 ### 3.1. Varmetabsrammen {#914d4817-1f61-4c94-a126-a1d823b14931}
 
-###
-
 ![](../../../../media/4u3fvfao/kap11_brv_2_0_energikrav_ved_aendret_anvendelse.svg)
 
 Energikrav ved tilbygninger
@@ -553,8 +533,6 @@ Uanset om der er vandinstallationer i tilbygningen eller ikke, benyttes standard
 - [Gå til energikrav ved tilbygninger (§ 271 - § 273)](../../krav/271_273/#660bcd55-d949-4c59-8e07-94cad1f2116a){target="_blank"}
 
 [![](../../../../assets/img/linkbox/sbi_anv_linkbox.svg)](#)
-
-####
 
 SBi-Anvisning 213 Bygningers energibehov
 
@@ -576,8 +554,6 @@ I bygningsreglementets krav til bygningsdelene skelnes der mellem følgende situ
 
 Reparationer dækker over mindre ændringer, der ikke udløser krav om gennemførelse af rentable energibesparelser. Det er typisk mindre arbejder, som for eksempel pudsreparation af en facade, udskiftning af enkelte brædder på en facade eller malerbehandling. Ved skader efter f.eks. en storm, et rørbrud eller en mindre rådskade, hvor størstedelen af bygningsdelen ikke er omfattet, vil der i de fleste tilfælde være tale om mindre reparationer.
 
-###
-
 ![](../../../../media/uuqlpcxb/kap11_brv_4_00_energikrav_ved_ombygning.svg)
 
 Energikrav ved ombygning
@@ -592,8 +568,6 @@ Eksempler på arbejder, hvor der skal foretages rentabel isolering, er:
 >
 > •  Lægning af ny tagpapdækning i form af ny tagdug eller overpap på eksisterende tag.
 
-###
-
 ![](../../../../media/ytvnf1kw/kap11_brv_4_00_eksempler_paa_arbejder_hvor_der_skal_foretages_rentabel_isolering.svg)
 
 Eksempler på arbejder hvor der skal foretages rentabel isolering
@@ -603,8 +577,6 @@ I nogle tilfælde vil det være sådan, at efterisolering op til det niveau, der
 I beregningen af rentabiliteten indgår kun materialer og arbejdsløn ved det energibesparende arbejde og det snævre følgearbejde af det energibesparende arbejde, og ikke f.eks. udgifter til tagdækning, stillads eller andre udgifter.
 
 Ved evaluering af rentabilitet i eksisterende bygningskonstruktioner med hulrum, for eksempel tage, hvor der er plads til yderligere isolering uden ændringer af konstruktioner skal det først evalueres om opfyldning af hulrum er rentabelt. Det vil det ofte være og tiltaget skal derfor gennemføres, hvis det fugtteknisk kan lade sig gøre. Dernæst skal det evalueres om ændring af konstruktionen, for eksempel forhøjelse af taget, er rentabel. Her tages der udgangspunkt i en konstruktion, hvor merisoleringen i hulrummet allerede er foretaget. Det kan f.eks. være tilfældet på en skråvæg, hvor spæret skal forhøjes for, at der kan blive plads til den isolering, som bygningsreglementet stiller krav om. Her skal det først vurderes om der kan monteres mere isolering i skråvæggen uden forhøjelse af spæret og dernæst skal forhøjelse af spæret evalueres. Hvert trin evalueres hver for sig. De rentable dele af tiltaget skal gennemføres.
-
-###
 
 ![](../../../../media/wj3dgcqy/kap11_brv_4_00_energikrav_ved_udskriftning_af_bygningsdele.svg)
 
@@ -665,8 +637,6 @@ Der henvises til Bygningsreglementets vejledning om efterisolering, der indehold
 
 Der kan gennemføres bygningsmæssige ændringer, der medfører et forøget energiforbrug, hvis der gennemføres tilsvarende kompenserende energibesparelser. Denne bestemmelse finder f.eks. anvendelse, hvis der ønskes etableret nye vinduespartier i facaden eller i taget. Den manglende energimæssige ydeevne dækkes f.eks. ved merisolering, solvarmeanlæg, varmepumpeanlæg eller solceller.
 
-###
-
 ![](../../../../media/bn4p4ej5/kap11_brv_4_00_levetider_rentabilitet.svg)
 
 Levetider der kan anvendes ved beregning af rentabiliteten
@@ -693,8 +663,6 @@ I forbindelse med større renoveringsarbejder på bevaringsværdige bygninger b�
 
 [![](../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
-####
-
 Byggeloven
 
 #### Anvendelsesområde
@@ -705,8 +673,6 @@ Byggeloven
 
 [![](../../../../assets/img/linkbox/info_linkbox.svg)](#)
 
-####
-
 Energiguide for fredede og bevaringsværdige huse, Bygningskultur Danmark 2019
 
 #### Anvendelsesområde
@@ -716,8 +682,6 @@ En energiguide, som i et let forståeligt sprog uden indforstået teknisk jargon
 #### Se energiguiden her [](https://historiskehuse.dk/produkt/energiguide-for-fredede-og-bevaringsvaerdige-huse/){target="_blank"}
 
 [![](../../../../assets/img/linkbox/info_linkbox.svg)](#)
-
-####
 
 E-SAVE-vejledning til kommunal sagsbehandling af byggesager med energitiltag i bevaringsværdige bygninger
 
@@ -765,8 +729,6 @@ Beregningen foretages med brug af normalåret (DMI Technical Report 13-19: 2001-
 
 [![](../../../../assets/img/linkbox/info_linkbox.svg)](#)
 
-####
-
 DMI Technical Report 13-19: 2001-2010 Danish Design Reference Year, 2013
 
 #### Anvendelsesområde
@@ -776,8 +738,6 @@ Lorem ipsum dolor sit amet…
 #### Se DMI Technical Report her [Se DMI Technical Report her](http://www.dmi.dk/fileadmin/user_upload/Rapporter/TR/2013/TR13-19.pdf){target="_blank"}
 
 ### 6.0. Sommerhuse, campinghytter og lignende ferieboliger {#26f4b016-58b1-4881-b0a7-0d5cf7cbe85c}
-
-###
 
 ![](../../../../media/lbtfynxy/kap11_brv_6_0_energikrav_til_sommerhuse_campinhytter_og_lign_feriehytter.svg)
 
@@ -827,8 +787,6 @@ Bestemmelsen omfatter desuden ikke højeffektive opvarmningssystemer, der anvend
 
 [![](../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
-####
-
 Byggeloven
 
 #### Anvendelsesområde
@@ -862,8 +820,6 @@ Eksisterende bygninger beliggende i områder uden adgang til fjernvarme eller na
 - [Gå til energikrav for bygningsopvarmning - Områder uden adgang til fjernvarme eller naturgas (§ 296)](../../krav/295_296/#0fa99ed3-1c44-426c-a3b3-6de893c65b2b){target="_blank"}
 
 [![](../../../../assets/img/linkbox/dk_linkbox.svg)](#)
-
-####
 
 Byggeloven
 
@@ -904,8 +860,6 @@ Der kan være lokalplaner, byplanvedtægter eller lignende, som forhindrer insta
 - [Gå til krav vedr. bygningsopvarmning ved væsentlige ombygninger og forandringer (§ 298)](../../krav/297_298/#c64981c6-c158-4e7f-a6e4-11aa7c248abf){target="_blank"}
 
 [![](../../../../assets/img/linkbox/eu_linkbox.svg)](#)
-
-####
 
 EU-direktiv 2009/28/EF - om fremme af anvendelsen af energi fra vedvarende energikilder
 

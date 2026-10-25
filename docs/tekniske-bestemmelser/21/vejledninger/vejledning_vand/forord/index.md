@@ -44,11 +44,7 @@ Vandinstallationer omfatter installationer i bygninger og i jord inden for grund
 
 [![](../../../../../assets/img/linkbox/roer_anv_linkbox.svg)](#)
 
-####
-
 Rørcenteranvisning 027
-
-####
 
 #### [027](https://www.teknologisk.dk/ydelser/roercenter-anvisninger-og-rapporter-fra-roercentret/486){target="_blank"}
 

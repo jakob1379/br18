@@ -32,21 +32,13 @@ Bygningsejere bør undersøge og vedligeholde altaner. Sammen med bl.a. den milj
 
 [![](../../../../../assets/img/linkbox/br_v_linkbox.svg)](#)
 
-####
-
 Vejledning: Vejledning om altaner med udliggerjern
-
-####
 
 #### Gå til vejledning [Vejledning Om Altaner Med Udliggerjern](../../../../../media/g3efcyll/vejledning-om-altaner-med-udliggerjern.pdf){target="_blank"}
 
 [![](../../../../../assets/img/linkbox/br_v_linkbox.svg)](#)
 
-####
-
 Vejledning: Eftersyn af ældre betonaltaner
-
-####
 
 #### [Vejledning Om Eftersyn Af Ældre Betonaltaner](../../../../../media/sntagso1/vejledning-om-eftersyn-af-aeldre-betonaltaner.pdf){target="_blank"}
 

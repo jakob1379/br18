@@ -36,10 +36,6 @@ DS 447 indeholder yderligere krav omkring drift og vedligeholdelse af ventilatio
 
 [![](../../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
-####
-
 DS 447 - Ventilation i bygninger - Mekaniske, naturlige og hybride ventilationssystemer
-
-####
 
 #### Standarden findes på dansk i Dansk Standards [webshop.ds.dk](https://webshop.ds.dk/da-dk/s%C3%B8gning/91-140-30-ventilationssystemer-og-klimaanl%C3%A6g/ds-4472013){target="_blank"}

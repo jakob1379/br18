@@ -27,8 +27,6 @@ Med hensyn til Bygningsreglementets bestemmelser for lydisolation skelnes der me
 
 Bygningsreglementets krav om særskilte lydisolerende tiltag mellem opholdsrum og tilgrænsende rum i erhvervsenheder eller i andre institutioner gælder kun ved tilgrænsende **rum med særligt generende støj** og således ikke ved sammenbygning med kontorlokaler eller almindelige undervisnings- eller opholdsrum, hvor der derfor kan fastsættes mere lempelige grænseværdier ved den akustiske projektering.
 
-###
-
 ### 4.2 Lydisolation for daginstitutionsbygninger {#4744db10-a45b-4319-a98c-d015d8b65921}
 
 ### 4.3 Støj indendørs fra trafik i daginstitutionsbygninger {#260ed0d3-ae7e-4319-9b3f-245014fb85e4}

@@ -70,8 +70,6 @@ I forbindelse med større renoveringsarbejder på bevaringsværdige bygninger b�
 
 [![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
-####
-
 Byggeloven
 
 #### Anvendelsesområde
@@ -82,8 +80,6 @@ Byggeloven
 
 [![](../../../../../assets/img/linkbox/info_linkbox.svg)](#)
 
-####
-
 Energiguide for fredede og bevaringsværdige huse, Bygningskultur Danmark 2019
 
 #### Anvendelsesområde
@@ -93,8 +89,6 @@ En energiguide, som i et let forståeligt sprog uden indforstået teknisk jargon
 #### Se energiguiden her [](https://historiskehuse.dk/produkt/energiguide-for-fredede-og-bevaringsvaerdige-huse/){target="_blank"}
 
 [![](../../../../../assets/img/linkbox/info_linkbox.svg)](#)
-
-####
 
 E-SAVE-vejledning til kommunal sagsbehandling af byggesager med energitiltag i bevaringsværdige bygninger
 

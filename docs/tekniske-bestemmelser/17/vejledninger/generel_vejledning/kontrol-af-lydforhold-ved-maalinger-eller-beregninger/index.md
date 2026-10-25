@@ -29,8 +29,6 @@ Hvordan og efter hvilke målestandarder kontrolmålinger bør udføres samt spec
 
 **Accept af afvigelser fra grænseværdien ved kontrolmålinger**
 
-#####
-
 **Luftlydisolations- og trinlydmålinger**
 
 Der kan normalt accepteres en afvigelse på 1 dB - dog skal middelværdi for alle målinger på ens bygningsdele overholde grænseværdien.

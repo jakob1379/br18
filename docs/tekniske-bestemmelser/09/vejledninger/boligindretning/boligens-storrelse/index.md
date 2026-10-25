@@ -38,8 +38,6 @@ En lille bolig, der er udfordret på sit areal, vil typisk have behov for, at no
 
 En bebyggelse, der indeholder flere forskellige boligstørrelser og boligplaner, kan give mulighed for en differentieret beboersammensætning. Det vil kunne give stedets beboere mulighed for, at finde en anden og mere passende bolig, uden at skulle flytte fra området, hvis eller når deres boligbehov ændrer sig.
 
-###
-
 ![](../../../../../media/ldkfwoyn/illustration-05-br-vejledning-om-boligindretning.png)
 
 Illustration 05: For at en bolig fungerer optimalt, bør man være opmærksom på dens ganglinjer. Det er de usynlige områder, der er omkring en møblering, eller forbindelsen imellem tilstødende rum og adgang til terrassedøren og hovedindgangen

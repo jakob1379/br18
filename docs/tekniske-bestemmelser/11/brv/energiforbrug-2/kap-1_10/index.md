@@ -38,8 +38,6 @@
 
 ### 1.10. Tæthed og trykprøvning af bygninger {#8a5de75a-35a6-44ca-9312-35fe7c95663d}
 
-###
-
 ![](../../../../../media/ezudhdw5/kap11_brv_1_10_taethed_og_trykproevning_klimaskaerm.svg)
 
 Håndtering af åbninger i klimaskærmen, i forbindelse med trykprøvning

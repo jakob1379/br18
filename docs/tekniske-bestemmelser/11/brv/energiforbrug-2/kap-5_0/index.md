@@ -76,8 +76,6 @@ Beregningen foretages med brug af normalåret (DMI Technical Report 13-19: 2001-
 
 [![](../../../../../assets/img/linkbox/info_linkbox.svg)](#)
 
-####
-
 DMI Technical Report 13-19: 2001-2010 Danish Design Reference Year, 2013
 
 #### Anvendelsesområde

@@ -62,8 +62,6 @@ De behov, der knytter sig til arbejdspladsen, vil variere fra beboer til beboer 
 
 Hjemmearbejdspladsen kan være en funktion, som flere af boligens beboere benytter sig af. Alt efter beboernes behov kan hjemmearbejdspladsen også give plads til fx lektielæsning og hobbyaktiviteter. På den måde kan hjemmearbejdspladsen i nogle boliger få en central plads og være en aktivitet, der gives pladsmæssig prioritet.
 
-###
-
 ![](../../../../../media/qwkl3eh3/illustration-13-br-vejledning-om-boligindretning.png)
 
 Illustration 13: Hjemmearbejdspladsen kan prioriteres forskelligt. Den kan enten være en funktion, der tages frem efter behov (a), integreres i et af boligens andre rum (b) eller indrettes i et selvstændigt rum udelukkende til dette specifikke formål (c).

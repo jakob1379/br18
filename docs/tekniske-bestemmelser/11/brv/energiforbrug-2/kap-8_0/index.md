@@ -76,8 +76,6 @@ Bestemmelsen omfatter desuden ikke højeffektive opvarmningssystemer, der anvend
 
 [![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
-####
-
 Byggeloven
 
 #### Anvendelsesområde

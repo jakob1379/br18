@@ -34,8 +34,6 @@ Risiko for frostskader vil normalt kunne undgås, når følgende vejledning iagt
 
 > • I rum, hvor der periodevis er risiko for mild frost, skal vandledninger lægges på en sådan måde, at de kan udnytte opvarmede bygningsdele i tilstrækkelig grad til at forhindre frysning.
 
-###
-
 ![](../../../../../media/wjddqsjl/frost.png)
 
 *Rørinstallation der er korrekt anbragt på den varme side af isoleringen i et skunkrum*

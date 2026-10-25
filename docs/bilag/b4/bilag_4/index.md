@@ -44,8 +44,6 @@ v\) Brandtekniske installationer.
 
 Redegørelse for fravigelser udføres som angivet i Bygningsreglementets vejledning til kapitel 5 - Brand, Kapitel 1: Generelt om sikkerhed ved brand.
 
-###
-
 ### Afsnit 2:
 
 **Fravigelser af præ-accepterede løsninger ved brug af brandrådgiver certificeret til brandklasse 3 og 4 eller til tredjepartskontrol**

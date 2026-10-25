@@ -58,11 +58,7 @@ Skiltning af risikoområder, flugtveje, brandslukningsmateriel, redningsmateriel
 
 [![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
-####
-
 Bekendtgørelse nr. 518 af 17/06/1994 (med senere ændringer) om sikkerhedsskiltning og anden form for signalgivning
-
-####
 
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/Forms/R0710.aspx?id=67376){target="_blank"}
 
@@ -80,11 +76,7 @@ Påfyldning af brændstof til maskiner, generatorer, kompressorer, arbejdsredska
 
 [![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
-####
-
 Bekendtgørelse nr. 1639 af 06/12/2006 om Brandfarlige og brandbare væsker – (inklusiv tekniske forskrifter)
-
-####
 
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/Forms/R0710.aspx?id=185816){target="_blank"}
 
@@ -124,11 +116,7 @@ Bekendtgørelser iht elsikkerhedsloven bestemmelser skal overholdes.
 
 [![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
-####
-
 Lovbekendtgørelse nr. 26 af 10/01/2019 (med senere ændringer) om sikkerhed ved elektriske anlæg, elektriske installationer og elektriske materiel (elsikkerhedsloven)
-
-####
 
 #### Gå til bekendtgørelsen [Lovbekendtgørelse](https://www.retsinformation.dk/eli/lta/2019/26){target="_blank"}
 

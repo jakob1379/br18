@@ -50,8 +50,6 @@
 
 ### 3.1. Varmetabsrammen {#914d4817-1f61-4c94-a126-a1d823b14931}
 
-###
-
 ![](../../../../../media/4u3fvfao/kap11_brv_2_0_energikrav_ved_aendret_anvendelse.svg)
 
 Energikrav ved tilbygninger
@@ -71,8 +69,6 @@ Uanset om der er vandinstallationer i tilbygningen eller ikke, benyttes standard
 - [Gå til energikrav ved tilbygninger (§ 271 - § 273)](../../../krav/271_273/#660bcd55-d949-4c59-8e07-94cad1f2116a){target="_blank"}
 
 [![](../../../../../assets/img/linkbox/sbi_anv_linkbox.svg)](#)
-
-####
 
 SBi-Anvisning 213 Bygningers energibehov
 

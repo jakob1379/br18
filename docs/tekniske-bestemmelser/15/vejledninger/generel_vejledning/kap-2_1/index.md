@@ -28,11 +28,7 @@ For vindmøller kan kravene til konstruktioner anses for opfyldt, når vindmøll
 
 [![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
-####
-
 Bekendtgørelse nr. 648 af 31/05/2023 (med senere ændringer) om teknisk certificering og servicering af vindmøller m.v.
-
-####
 
 Godkendelsesordning for vindmøller
 

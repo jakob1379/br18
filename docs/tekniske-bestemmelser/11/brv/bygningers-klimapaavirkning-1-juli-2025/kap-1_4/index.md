@@ -34,8 +34,6 @@ I det følgende uddybes, hvordan BR18, bilag 2, tabel 6 skal anvendes i forbinde
 
 BR18, bilag 2, tabel 6 er opbygget sådan, at der først er delt op i overordnede bygningskategorier. Hver kategori indeholder en opdeling i typer, og for hver type fremgår de enkelte bygningsdele. Hver bygningsdel har en hovedgruppe og en undergruppe, disse to grupperinger er med som vejledning og er derfor frivillige at benytte. Se et uddrag af tabellen nedenfor.
 
-###
-
 ![](../../../../../media/barepaqs/vejledning_figur-41-opdatering-2025.png)
 
 Figur 4.1: Eksempel fra BR18, bilag 2, tabel 6, for hvilke bygningsdele, der skal medtages for bygningsdele i terræn.
@@ -344,8 +342,6 @@ Følgende miljødata fra BR18, bilag 2, tabel 7, vælges:
 |----|----|----|----|----|----|----|
 |  **Materiale** | **ID**  |  **A1-3** |  **C3** |  **C4** |  **D** |  **Funktionel enhed** |
 |  Stål, varmvalset plade, 2-20 mm |  #G0767  |  2,78247 |   |   | -1,50772 |  1 kg  |
-
-####
 
 #### **1.4.13    Eksempel for anvendelse af standardværdier for installatione**r
 

@@ -38,8 +38,6 @@ Kravet til U-værdi for lystunneler eller lignende gælder for gennembrydningen 
 
 [![](../../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
-####
-
 Dansk standard: DS 418 – Beregning af bygningers varmetab
 
 #### Anvendelsesområde

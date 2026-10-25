@@ -24,51 +24,31 @@ Opmærksomheden henledes endvidere på miljølovgivningen, herunder bl.a. bekend
 
 [![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
-####
-
 Bekendtgørelse nr. 2107 af 24/11/2021 om bygge- og anlægsarbejder
-
-####
 
 #### Gå til bekendtgørelsen [](https://www.retsinformation.dk/eli/lta/2021/2107){target="_blank"}
 
 [![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
-####
-
 Bekendtgørelse nr. 117 af 05/02/2013 om bygherrens pligter
-
-####
 
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/Forms/R0710.aspx?id=145005){target="_blank"}
 
 [![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
-####
-
 Bekendtgørelse nr. 110 af 05/02/2013 om projekterendes og rådgiveres pligter m.v. efter lov om arbejdsmiljø
-
-####
 
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/Forms/R0710.aspx?id=145007){target="_blank"}
 
 [![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
-####
-
 Bekendtgørelse nr. 477 af 18/05/2011 om Bygge og anlægsarbejder i perioden 1. november til 31. marts (vinterbekendtgørelsen)
-
-####
 
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/Forms/r0710.aspx?id=137101){target="_blank"}
 
 [![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
-####
-
 Bekendtgørelse nr. 844 af 23/06/2017 om miljøregulering af visse aktiviteter
-
-####
 
 #### Gå til bekendtgørelsen [](https://www.retsinformation.dk/forms/R0710.aspx?id=192158){target="_blank"}
 

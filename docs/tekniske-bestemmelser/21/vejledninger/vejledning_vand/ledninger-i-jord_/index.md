@@ -28,8 +28,6 @@ Overgangen fra ledninger i jord til ledninger i bygning er kritiske punkter i va
 
 Kravet vedrørende ledningers indføring i bygning kan opfyldes som vist på nedenstående figur
 
-###
-
 ![](../../../../../media/1fpiospx/ledning.png)
 
 *Indføring af ledning i bygning gennem et foringsrør der sikrer, at der ikke sker skader på fundament og bygningsdele*.

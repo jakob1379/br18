@@ -4,5 +4,3 @@
 
 - [](./)
 - [Bygningsreglementets vejledning om legepladser mv.](../generel_vejledning/)
-
-##

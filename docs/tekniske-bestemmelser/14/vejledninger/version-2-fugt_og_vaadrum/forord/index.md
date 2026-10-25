@@ -17,8 +17,6 @@ Høj relativ luftfugtighed kan give problemer med kondens eller skimmelvækst p�
 
 Det er derfor vigtigt, at vælge robuste løsninger, dvs. enten løsninger der forhindrer fugtpåvirkninger eller at der vælges materialer, der kan modstå de påvirkninger der er, eller kan forventes, i eller på bygningen.
 
-###
-
 ![](../../../../../media/v4dh0nsx/kap_14_brv_0_0_typer_af_fugtpaavirkninger.svg)
 
 Typer af fugtpåvirkninger

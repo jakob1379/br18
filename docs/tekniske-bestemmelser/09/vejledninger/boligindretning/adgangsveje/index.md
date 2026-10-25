@@ -34,8 +34,6 @@ Overgangszonen kan desuden tænkes som et fællesområde, der kan udformes, så 
 
 Se SBi-anvisning 272, Anvisning om Bygningsreglementet 2018 – 2. Adgangsforhold, Fælles adgangsveje i bygningen (de Place Hansen, 2018).
 
-###
-
 ![](../../../../../media/p0rlsaxg/illustration-04-br-vejledning-om-boligindretning.png)
 
 Illustration 04: Boligens adgangsveje kan alt efter deres karakter bruges til rekreative områder og give beboerne mulighed for at skabe uformelle mødesteder. Udformningen af overgangszonen med niveauer af privathed fra det offentlige rum til den private bolig eller zonen tæt på boligen kan sikre, at det føles naturligt at trække uden for sin bolig, uden at føle sig eksponeret.

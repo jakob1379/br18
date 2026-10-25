@@ -75,8 +75,6 @@ Der henvises desuden til [jordforureningsloven](https://www.retsinformation.dk/f
 
 Betonkonstruktioner
 
-####
-
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/Default.aspx?ID=120&q=1992-1-1&status=4&harmonized=BrInstruction "DS/EN 1992-1-1"){target="_blank"}
 
 [![](../../../assets/img/linkbox/sbi_anv_linkbox.svg)](#)

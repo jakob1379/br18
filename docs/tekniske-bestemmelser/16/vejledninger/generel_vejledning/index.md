@@ -179,11 +179,7 @@ Derudover indeholder DS-håndbog 105:2012 en række retningslinjer for planlægn
 
 [![](../../../../assets/img/linkbox/ds_en_tr_linkbox.svg)](#)
 
-####
-
 DS/CEN/TR 16879:2016 - Placering af legeplads- og andre fritidsfaciliteter – Rådgivning om metoder til placering og adskillelse
-
-####
 
 Denne tekniske rapport giver råd om placering og mulige metoder til adskillelse mellem rekreative faciliteter, der benyttes af forskellige aldersgrupper og har forskellige risikoniveauer.
 
@@ -191,11 +187,7 @@ Denne tekniske rapport giver råd om placering og mulige metoder til adskillelse
 
 [![](../../../../assets/img/linkbox/ds_en_tr_linkbox.svg)](#)
 
-####
-
 DS/CEN/TR 16467:2013 - Legepladsudstyr tilgængeligt for alle børn
-
-####
 
 Denne tekniske rapport indeholder guidelines til at udforme legeområder der giver børn med forskellige niveauer af funktionsnedsættelse mulighed for at lege selvstændigt og med passende niveauer af udfordringer og risici
 
@@ -203,11 +195,7 @@ Denne tekniske rapport indeholder guidelines til at udforme legeområder der giv
 
 [![](../../../../assets/img/linkbox/ds_en_tr_linkbox.svg)](#)
 
-####
-
 DS/CEN/TR 16598:2023 - Samling af rationaler for EN 1176 – Krav
-
-####
 
 Denne tekniske rapport indeholder rationaler bag EN 1176 serien, der har til formål, at undgå situationer, hvor et barn på grund af sin alder, evne eller udviklingsstadium ikke er i stand til at forstå en risiko på legepladser mv.
 
@@ -215,11 +203,7 @@ Denne tekniske rapport indeholder rationaler bag EN 1176 serien, der har til for
 
 [![](../../../../assets/img/linkbox/ds_en_tr_linkbox.svg)](#)
 
-####
-
 DS/CEN/TR 16396:2020 - Legepladsredskaber til børn – Svar på forespørgsler om fortolkning af EN 1176-serien.
-
-####
 
 Denne tekniske rapport indeholder svar på anmodninger om fortolkninger vedrørende forståelsen af EN 1176 serien.
 
@@ -227,11 +211,7 @@ Denne tekniske rapport indeholder svar på anmodninger om fortolkninger vedrøre
 
 [![](../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
-####
-
 DS-håndbog 105:2012 - Udearealer for alle - sådan planlægges et tilgængeligt udemiljø
-
-####
 
 Denne håndbog indeholder bl.a. information og eksempler på adgangsforhold til legepladser.
 

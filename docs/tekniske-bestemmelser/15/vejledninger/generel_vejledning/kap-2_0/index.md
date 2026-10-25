@@ -28,11 +28,7 @@ Udover Eurocode 0, er der også en række materialespecifikke eurocodes med dert
 
 [![](../../../../../assets/img/linkbox/ds_en_iso_linkbox.svg)](#)
 
-####
-
 Eurocodes: DS/EN 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1999
-
-####
 
 #### Eurocodes og forkortede udgaver af Eurocodes på Dansk Standards hjemmeside [Gå til link (nyt vindue)](http://www.eurocodes.dk/da/hvad-er-eurocodes/oversigt-over-eurocodes){target="_blank"}
 

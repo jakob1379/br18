@@ -30,8 +30,6 @@
 
 ### 1.6. Energikrav til vinduer, glasydervægge, ovenlysvinduer og glastage {#74b8dcb5-1d2c-4d26-a488-19aef6197097}
 
-###
-
 ![](../../../../../media/x5ldgnq4/kap11_brv_1_6_beregning_af_energitilskud_for_vinduer.svg)
 
 Beregning af energitilskud for vinduer (Eref)
@@ -122,8 +120,6 @@ Bemærk, engelske udgaver af europæiske standarder kan købes hos [alle europ�
 
 [![](../../../../../assets/img/linkbox/ds_en_iso_linkbox.svg)](#)
 
-####
-
 DS/EN ISO 12631:2017 - Termisk ydeevne for curtainwalling – Beregning af varmetransmissionskoefficient
 
 #### Beskrivelse
@@ -135,8 +131,6 @@ Denne standard specificerer en procedure til beregning af den termiske transmiss
 Bemærk, engelske udgaver af europæiske standarder kan købes hos [alle europæiske standardiseringsorganisationer](https://standards.cen.eu/dyn/www/f?p=CENWEB:5){target="_blank"}.
 
 [![](../../../../../assets/img/linkbox/ds_en_linkbox.svg)](#)
-
-####
 
 DS/EN 13830:2003 - Curtain walling - Produktstandard
 

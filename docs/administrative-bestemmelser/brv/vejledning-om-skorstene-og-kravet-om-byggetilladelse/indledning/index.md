@@ -26,11 +26,7 @@
 
 Denne vejledning indeholder en beskrivelse af reglerne for, hvornår der er krav om, at ejeren af en ejendom skal søge om byggetilladelse hos kommunen ved opførelse af en skorsten. Vejledningen indeholder også en kort beskrivelse af reglerne for, hvordan kommunen skal søge en ulovlig skorsten lovliggjort. [![](../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
-####
-
 Skorstensfejerbekendtgørelsen
-
-####
 
 Reglerne for det lovpligtige skorstensfejerarbejde er fastsat i skorstensfejerbekendtgørelsen, som er udstedt med hjemmel i byggelovens § 15.
 

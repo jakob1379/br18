@@ -74,21 +74,13 @@ Oplag af brændbart affald kan udgøre en uhensigtsmæssig stor brandbelastning,
 
 [![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
-####
-
 Bekendtgørelse nr. 1639 af 06/12/2016 om brandfarlige og brandbare væsker (inklusiv tekniske forskrifter)
-
-####
 
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/Forms/R0710.aspx?id=185816){target="_blank"}
 
 [![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
-####
-
 Bekendtgørelse nr. 1444 af 15/12/2010 (med senere ændringer) om tekniske forskrifter for gasser
-
-####
 
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/forms/R0710.aspx?id=134984){target="_blank"}
 
@@ -124,11 +116,7 @@ Der henvises også her til bekendtgørelse nr. 559 af 17. juni 2004 (med senere 
 
 [![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
-####
-
 Bekendtgørelse nr. 1839 af 14/12/2023 om arbejdets udførelse
-
-####
 
 #### Gå til bekendtgørelsen [](https://www.retsinformation.dk/eli/lta/2023/1839){target="_blank"}
 

@@ -50,13 +50,9 @@ En markant reduktion af dagslysniveauet i et rum kan forekomme, hvis der er skyg
 
 Himmelgrænseplanet definerer grænsefladen mellem det område i rummet, som modtager dagslys direkte fra himlen, og det område, der kun modtager reflekslys. På den måde illustrerer himmelgrænseplanet, hvor henholdsvis den største og mindste lysintensitet er i rummet. Himmelgrænseplanet findes ved at tegne en linje fra overkanten af genbobygningen igennem overkanten af vindueshullet og forlænge linjen ind i rummet. Lyset under linjen kommer direkte fra himlen og har størst intensitet. Lyset over linjen er reflekslys og har mindre intensitet. Se SBi-anvisning 219, Dagslys i rum og bygninger, 4 Dagslyset på facaden (Johnsen & Christoffersen, 2008).
 
-###
-
 ![](../../../../../media/kgebkoyn/illustration-08-br-vejledning-om-boligindretning.png)
 
 Illustration 08: Alt afhængig af boligens orientering vil dagslyset præge den forskelligt. Er boligen orienteret mod nord/syd, er det kun sydsiden, der har mulighed for, at sollyset kan påvirke rummet. Øst/vest-orientering tillader begge sider at få sollys, og derved fremstår rummene med variationer i lyset.
-
-###
 
 ![](../../../../../media/l0ld2lpm/illustration-09-br-vejledning-om-boligindretning.png)
 

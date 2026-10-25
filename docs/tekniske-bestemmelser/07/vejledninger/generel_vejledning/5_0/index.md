@@ -66,10 +66,6 @@ Kravet kan f.eks. opfyldes ved:
 
 [![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
-####
-
 Bekendtgørelse nr. 477 af 18/05/2011 om bygge og anlægsarbejder i perioden 1. november til 31. marts (vinterbekendtgørelsen)
-
-####
 
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/Forms/r0710.aspx?id=137101){target="_blank"}

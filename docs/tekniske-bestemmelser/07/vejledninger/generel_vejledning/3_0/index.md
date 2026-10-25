@@ -56,11 +56,7 @@ Der henvises tillige til cirkulære om instruks for brandværnsforanstaltninger 
 
 [![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
-####
-
 Cirkulære nr. 2 af 06/11/1994 om instruks for brandværnsforanstaltninger under byggearbejder på fredede bygninger
-
-####
 
 #### Gå til cirkulæret [Gå til cirkulæret](https://www.retsinformation.dk/Forms/R0710.aspx?id=54920){target="_blank"}
 

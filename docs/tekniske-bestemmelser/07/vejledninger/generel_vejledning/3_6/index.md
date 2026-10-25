@@ -66,11 +66,7 @@ Sikkerhedsbelysning bør udføres i overensstemmelse med stærkstrømsbekendtgø
 
 [![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
-####
-
 Bekendtgørelse nr. 1082 af 12/07/2016 om sikkerhed for udførelse og drift af elektriske installationer (tidl. stærkstrømsbekendtgørelsen)
-
-####
 
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/Forms/R0710.aspx?id=183511){target="_blank"}
 

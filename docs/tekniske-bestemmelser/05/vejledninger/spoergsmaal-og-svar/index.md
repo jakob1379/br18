@@ -66,8 +66,6 @@ At fladedensiteten (fladevægten) for en let tagkonstruktion højst må være 30
 
 ### Kan alment teknisk fælleseje benyttes ved dokumentation af brandsikringstiltag til en præ-accepteret løsning? Og hvad er en certificeret brandrådgivers virke ift. dokumentation ved anvendelse af alment teknisk fælleseje?
 
-####
-
 #### Præ-accepteret løsning
 
 Præ-accepterede løsninger omfatter alene de brandsikringsløsninger, der fremgår af Bygningsreglementets vejledning til kapitel 5 – Brand. De præ-accepterede løsninger angiver hvilke brandsikringstiltag, der indgår i løsningen, og de funktionskrav og ydeevnekriterier, der er til brandsikringstiltagene. De præ-accepterede løsninger angiver således grundlaget for projektering af de indgående brandsikringstiltag, herunder de funktionskrav og ydeevnekriterier, som skal opfyldes ved projektering og udførelse, for at opfylde den præ-accepterede løsning.

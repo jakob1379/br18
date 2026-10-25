@@ -34,21 +34,13 @@ Bygningsejer bør undersøge behovet for et særskilt afstivningsprojekt ved st�
 
 [![](../../../../../assets/img/linkbox/br_v_linkbox.svg)](#)
 
-####
-
 Vejledning: Store træspær - Behov for afstivning
-
-####
 
 #### Gå til vejledning [Store træspor - behov for afstivning](../../../../../media/i4ff0la2/2019-01-22_store_spaer_-_behov_for_afstivning.pdf){target="_blank"}
 
 [![](../../../../../assets/img/linkbox/br_v_linkbox.svg)](#)
 
-####
-
 Vejledning: Store stålspær - Behov for afstivning
-
-####
 
 #### Gå til vejledning [Store Stålrammer Behov For Afstivning (1)](../../../../../media/j11pa3fg/store-staalrammer-behov-for-afstivning.pdf){target="_blank"}
 

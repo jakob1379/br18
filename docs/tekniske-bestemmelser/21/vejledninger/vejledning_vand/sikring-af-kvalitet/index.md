@@ -60,8 +60,6 @@ Sikring mod forurening af drikkevand i vandinstallationer samt generelle krav ti
 
 Rørcenter-anvisning 015
 
-####
-
 #### [Anvisning 015](https://www.teknologisk.dk/ydelser/roercenter-anvisninger-og-rapporter-fra-roercentret/486 "015"){target="_blank"}
 
 [![](../../../../../assets/img/linkbox/ds_en_linkbox.svg)](#)

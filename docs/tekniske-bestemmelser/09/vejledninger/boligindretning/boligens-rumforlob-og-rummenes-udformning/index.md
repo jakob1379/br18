@@ -48,13 +48,9 @@ Et trappeløb kan skabe sammenhæng mellem flere etager, et ensidigt hældende t
 
 Rige rumoplevelser tilfører kvalitet til boligen. Arkitektoniske elementer, som fx nicher eller karnapper, kan bidrage til at øge kvaliteten, samtidig med at de kan lægge op til en opdeling af rummet i mindre områder. Det betyder, at der – ud over de funktionelle krav til rummenes anvendelighed, placering og størrelse – også kan lægges et arkitektonisk blik på rummets udformning og rumforløbets kvalitet.
 
-###
-
 ![](../../../../../media/qe1exvvi/illustration-06-br-vejledning-om-boligindretning.png)
 
 Illustration 06: Boligens dybde. Plantegninger med samme areal, men med tre forskellige husdybder og samme størrelser, form og placering af vinduer. Den dybe bolig har, på trods af vinduer i facaderne i et varieret antal, et mørkt område midt i boligen, der typisk ikke opleves nær så attraktivt som rummene, der ligger ud til facaden.
-
-###
 
 ![](../../../../../media/okwji2tj/illustration-07-br-vejledning-om-boligindretning.png)
 

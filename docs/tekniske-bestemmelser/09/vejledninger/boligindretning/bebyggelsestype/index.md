@@ -46,8 +46,6 @@ Se SBi-anvisning 272, Anvisning om Bygningsreglementet 2018-20. Ubebyggede areal
 
 Se SBi-anvisning 249, Tilgængelige boliger – Indretning, 1.2 Parkeringsarealer for biler og cykler m.m. (Sigbrand & Jensen, 2015).
 
-###
-
 ![](../../../../../media/howc2ejz/illustration-03-br-vejledning-i-boligindretning.png)
 
 Illustration 03: Tre forskellige bebyggelsesprincipper:

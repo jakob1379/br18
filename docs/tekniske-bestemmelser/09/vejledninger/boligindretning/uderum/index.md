@@ -58,8 +58,6 @@ Altanen kan have mange udformninger, og samspillet mellem dagslyset, vinduesåbn
 
 En tagterrasse kan være et fælles eller et privat uderum, som er integreret i eller på bebyggelsens tag. Tagterrassen kan placeres, så flere boliger, fx fra en hel opgang, har adgang til den. Den kan derved have samme sociale funktion, som uderum og haverum mellem husene har. Tagterrassen kan tilbyde udsigt over området og, alt efter orienteringen, et solfyldt sted, der også får sollys, når den lave sol ikke har mulighed for at komme ned mellem husene og på den måde bidrage positivt til bebyggelsens kvaliteter.
 
-###
-
 ![](../../../../../media/tg1gb1cr/illustration-10-br-vejledning-om-boligindretning.png)
 
 Illustration 10: Altaner. Alt efter om altanen er udeliggende (a), delvist indeliggende (b) eller indeliggende (c), skygger den mere eller mindre for rum under altanen. Diagrammet er en forenklet illustration af, hvordan en altan kan skabe skygge i rummene under sig og dermed påvirke rummets lysniveau. Diagrammet illustrerer situationen for en bolig, hvor der også er en genbobygning, der skygger (se kap. 2.6 Dagslysforhold, ill. 09). Samspillet mellem dagslyset, vinduet og skyggende elementer er komplekst og har indflydelse på lysniveauet i rummet og bør tilrettelægges med omhu.

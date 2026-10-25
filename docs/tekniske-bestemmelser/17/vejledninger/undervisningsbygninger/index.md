@@ -25,8 +25,6 @@ Bygningsreglementets krav om særskilte lydisolerende tiltag mellem undervisning
 
 **Åbne undervisningsområder** er arealer, hvori der undervises flere individuelle klasser eller grupper, der ikke er fysisk adskilt i lukkede rum. Disse arealer kræver særskilt akustisk projektering.
 
-###
-
 ### 3.2 Lydisolation for undervisningsbygninger {#127bd002-d895-4fe3-b7c5-41d10afcf285}
 
 Tabel 3.1 indeholder grænseværdier for luftlydisolation og trinlydniveau i undervisningsbygninger svarende til overholdelse af BR18’s lydbestemmelser.

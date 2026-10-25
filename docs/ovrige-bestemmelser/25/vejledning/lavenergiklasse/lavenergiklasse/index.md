@@ -14,8 +14,6 @@ Energiberegningen af bygningers overholdelse af lavenergiklassen skal foretages 
 
 Der er strammere krav til en række forskellige bygningsdele og komponenter i lavenergiklassen. Kravene fremgår af bestemmelserne, mens vejledningen til forståelse af kravene fremgår af de forskellige emner, primært kapitel 11 Energiforbrug og kapitel 22 Ventilation.
 
-###
-
 [![](../../../../../assets/img/linkbox/sbi_anv_linkbox.svg)](#)
 
 #### SBi-Anvisning 213

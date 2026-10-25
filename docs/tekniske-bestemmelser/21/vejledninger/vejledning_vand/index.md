@@ -44,11 +44,7 @@ Vandinstallationer omfatter installationer i bygninger og i jord inden for grund
 
 [![](../../../../assets/img/linkbox/roer_anv_linkbox.svg)](#)
 
-####
-
 Rørcenteranvisning 027
-
-####
 
 #### [027](https://www.teknologisk.dk/ydelser/roercenter-anvisninger-og-rapporter-fra-roercentret/486){target="_blank"}
 
@@ -73,8 +69,6 @@ Overgangen fra ledninger i jord til ledninger i bygning er kritiske punkter i va
 > • at udstrømmende vand fra ledningsbrud eller utætte samlinger ikke kan underminere fundamenterne
 
 Kravet vedrørende ledningers indføring i bygning kan opfyldes som vist på nedenstående figur
-
-###
 
 ![](../../../../media/1fpiospx/ledning.png)
 
@@ -101,8 +95,6 @@ Risiko for frostskader vil normalt kunne undgås, når følgende vejledning iagt
 > • I klimaskærmen, fx i ydervægge, på isolerede lofter, i krybekældre eller skunkrum, anbringes ledninger altid på den varme side af isoleringen
 
 > • I rum, hvor der periodevis er risiko for mild frost, skal vandledninger lægges på en sådan måde, at de kan udnytte opvarmede bygningsdele i tilstrækkelig grad til at forhindre frysning.
-
-###
 
 ![](../../../../media/wjddqsjl/frost.png)
 
@@ -199,8 +191,6 @@ Sikring mod forurening af drikkevand i vandinstallationer samt generelle krav ti
 #### 015
 
 Rørcenter-anvisning 015
-
-####
 
 #### [Anvisning 015](https://www.teknologisk.dk/ydelser/roercenter-anvisninger-og-rapporter-fra-roercentret/486 "015"){target="_blank"}
 

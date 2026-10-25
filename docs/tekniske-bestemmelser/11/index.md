@@ -23,8 +23,6 @@ Bygninger skal projekteres, udføres, ombygges og vedligeholdes, så energibeho
 
 [![](../../assets/img/linkbox/sbi_anv_linkbox.svg)](#)
 
-###
-
 SBi-Anvisning 213 - Bygningers energibehov
 
 ### BEREGNINGSVEJLEDNING
@@ -92,8 +90,6 @@ For energiberegninger gælder følgende beregningsforudsætninger:
 - [Gå til BR-vejledning om forudsætninger for beregning af bygningers varmetab](https://www.bygningsreglementet.dk/historisk/br18_version7/tekniske-bestemmelser/11/brv/energiforbrug/kap-1_4/#238f6537-85af-448c-892d-d4fe0c4bb8c1){target="_blank"}
 
 [![](../../assets/img/linkbox/ds_linkbox.svg)](#)
-
-###
 
 DS 418:2011 - Beregning af bygningers varmetab
 

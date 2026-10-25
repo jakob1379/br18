@@ -46,8 +46,6 @@ SBi-anvisning 213 skal benyttes til beregning af bygningers energibehov og til e
 
 [![](../../../../../assets/img/linkbox/sbi_anv_linkbox.svg)](#)
 
-####
-
 SBi-Anvisning 213 Bygningers energibehov
 
 #### BEREGNINGSVEJLEDNING

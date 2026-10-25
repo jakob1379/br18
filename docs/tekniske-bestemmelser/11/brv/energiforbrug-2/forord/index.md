@@ -16,8 +16,6 @@
 
 ### Forord {#e4a4aefb-350b-4266-827e-1508450a3f72}
 
-###
-
 ![](../../../../../media/0m3oiliz/kap11_brv_0_0_energikrav_til_nye_bygninger.svg)
 
 Energikrav til nye bygninger

@@ -62,8 +62,6 @@ I køkkenet er det praktisk, at der er god plads til service og bestik og til gr
 
 For forhold vedrørende tilgængelighed i køkkener, se SBi-anvisning 249, Tilgængelige boliger – Indretning, 2.3 Køkken (Sigbrand & Jensen, 2015).
 
-###
-
 ![](../../../../../media/ssslpyvv/illustration-12-br-vejledning-om-boligindretning.png)
 
 Illustration 12: Køkkenets indretning kan understøtte en hensigtsmæssig arbejdsgang. Den rumlige organisering af køkkenet påvirker arbejdsgangene. Det langstrakte køkken og kogeøen kan give god plads til, at flere personer deltager i madlavningen. Det mere kompakt organiserede køkken optimerer arbejdsgangen for færre personer.

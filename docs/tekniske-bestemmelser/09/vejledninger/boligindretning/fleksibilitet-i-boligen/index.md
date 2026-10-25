@@ -32,8 +32,6 @@ Den fleksible bolig: Her opnås foranderligheden ved at udvikle løsninger, der 
 
 Den elastiske bolig: Her kan boligen ændre størrelse efter behov. Det kan ske ved, at arealet af de enkelte boliger i en bebyggelse udvides eller reduceres afhængigt af modsvarende ændringer i de tilgrænsende boliger. Eller det kan ske ved, at et boligområde rummer lokaler (arbejdsrum, gæsteværelser, teenagerum e.l.), der kan lejes midlertidigt. Dette bør indarbejdes i den overordnede planlægning af bebyggelsen. (se ill. 01, c)
 
-###
-
 ![](../../../../../media/qp1pja0y/illustration-01-br-vejledning-om-boligindretning.png)
 
 Illustration 01 BR vejledning om boligindretning

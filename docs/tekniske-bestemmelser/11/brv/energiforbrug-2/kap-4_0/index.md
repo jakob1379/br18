@@ -62,8 +62,6 @@ I bygningsreglementets krav til bygningsdelene skelnes der mellem følgende situ
 
 Reparationer dækker over mindre ændringer, der ikke udløser krav om gennemførelse af rentable energibesparelser. Det er typisk mindre arbejder, som for eksempel pudsreparation af en facade, udskiftning af enkelte brædder på en facade eller malerbehandling. Ved skader efter f.eks. en storm, et rørbrud eller en mindre rådskade, hvor størstedelen af bygningsdelen ikke er omfattet, vil der i de fleste tilfælde være tale om mindre reparationer.
 
-###
-
 ![](../../../../../media/uuqlpcxb/kap11_brv_4_00_energikrav_ved_ombygning.svg)
 
 Energikrav ved ombygning
@@ -78,8 +76,6 @@ Eksempler på arbejder, hvor der skal foretages rentabel isolering, er:
 >
 > •  Lægning af ny tagpapdækning i form af ny tagdug eller overpap på eksisterende tag.
 
-###
-
 ![](../../../../../media/ytvnf1kw/kap11_brv_4_00_eksempler_paa_arbejder_hvor_der_skal_foretages_rentabel_isolering.svg)
 
 Eksempler på arbejder hvor der skal foretages rentabel isolering
@@ -89,8 +85,6 @@ I nogle tilfælde vil det være sådan, at efterisolering op til det niveau, der
 I beregningen af rentabiliteten indgår kun materialer og arbejdsløn ved det energibesparende arbejde og det snævre følgearbejde af det energibesparende arbejde, og ikke f.eks. udgifter til tagdækning, stillads eller andre udgifter.
 
 Ved evaluering af rentabilitet i eksisterende bygningskonstruktioner med hulrum, for eksempel tage, hvor der er plads til yderligere isolering uden ændringer af konstruktioner skal det først evalueres om opfyldning af hulrum er rentabelt. Det vil det ofte være og tiltaget skal derfor gennemføres, hvis det fugtteknisk kan lade sig gøre. Dernæst skal det evalueres om ændring af konstruktionen, for eksempel forhøjelse af taget, er rentabel. Her tages der udgangspunkt i en konstruktion, hvor merisoleringen i hulrummet allerede er foretaget. Det kan f.eks. være tilfældet på en skråvæg, hvor spæret skal forhøjes for, at der kan blive plads til den isolering, som bygningsreglementet stiller krav om. Her skal det først vurderes om der kan monteres mere isolering i skråvæggen uden forhøjelse af spæret og dernæst skal forhøjelse af spæret evalueres. Hvert trin evalueres hver for sig. De rentable dele af tiltaget skal gennemføres.
-
-###
 
 ![](../../../../../media/wj3dgcqy/kap11_brv_4_00_energikrav_ved_udskriftning_af_bygningsdele.svg)
 
@@ -150,8 +144,6 @@ Der henvises til Bygningsreglementets vejledning om efterisolering, der indehold
 </table>
 
 Der kan gennemføres bygningsmæssige ændringer, der medfører et forøget energiforbrug, hvis der gennemføres tilsvarende kompenserende energibesparelser. Denne bestemmelse finder f.eks. anvendelse, hvis der ønskes etableret nye vinduespartier i facaden eller i taget. Den manglende energimæssige ydeevne dækkes f.eks. ved merisolering, solvarmeanlæg, varmepumpeanlæg eller solceller.
-
-###
 
 ![](../../../../../media/bn4p4ej5/kap11_brv_4_00_levetider_rentabilitet.svg)
 

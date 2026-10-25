@@ -60,8 +60,6 @@
 
 ### 6.0. Sommerhuse, campinghytter og lignende ferieboliger {#26f4b016-58b1-4881-b0a7-0d5cf7cbe85c}
 
-###
-
 ![](../../../../../media/lbtfynxy/kap11_brv_6_0_energikrav_til_sommerhuse_campinhytter_og_lign_feriehytter.svg)
 
 Energikrav til sommerhuse, campinhytter og lign. feriehytter

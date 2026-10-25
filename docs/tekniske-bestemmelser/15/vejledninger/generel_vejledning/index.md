@@ -20,11 +20,7 @@ Denne vejledning omfatter kun kapitel 15, og omhandler således ikke yderligere 
 
 [![](../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
-####
-
 Bekendtgørelse nr. 1693 af 12/12/2023 om certificeringsordning for dokumentation af tekniske forhold i bygningsreglementet
-
-####
 
 #### Gå til bekendtgørelsen [](https://www.retsinformation.dk/eli/lta/2023/1693){target="_blank"}
 
@@ -63,11 +59,7 @@ Udover Eurocode 0, er der også en række materialespecifikke eurocodes med dert
 
 [![](../../../../assets/img/linkbox/ds_en_iso_linkbox.svg)](#)
 
-####
-
 Eurocodes: DS/EN 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1999
-
-####
 
 #### Eurocodes og forkortede udgaver af Eurocodes på Dansk Standards hjemmeside [Gå til link (nyt vindue)](http://www.eurocodes.dk/da/hvad-er-eurocodes/oversigt-over-eurocodes){target="_blank"}
 
@@ -85,11 +77,7 @@ For vindmøller kan kravene til konstruktioner anses for opfyldt, når vindmøll
 
 [![](../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
-####
-
 Bekendtgørelse nr. 648 af 31/05/2023 (med senere ændringer) om teknisk certificering og servicering af vindmøller m.v.
-
-####
 
 Godkendelsesordning for vindmøller
 
@@ -125,31 +113,19 @@ Bygningsejer bør rydde eventuel sne fra sit tag og sikre at der ikke sker vando
 
 [![](../../../../assets/img/linkbox/br_v_linkbox.svg)](#)
 
-####
-
 Vejledning: Er din bygning snesikker?
-
-####
 
 #### Gå til vejledning [Er Din Bygning Snesikker (2010)](../../../../media/jdtix31f/er-din-bygning-snesikker-2010.pdf){target="_blank"}
 
 [![](../../../../assets/img/linkbox/br_v_linkbox.svg)](#)
 
-####
-
 Vejledning: Hvordan rydder jeg mit tag for sne?
-
-####
 
 #### Gå til vejledning [Hvordan Rydder Jeg Mit Tag For Sne (2010)](../../../../media/nt4nqw1a/hvordan-rydder-jeg-mit-tag-for-sne-2010.pdf){target="_blank"}
 
 [![](../../../../assets/img/linkbox/br_v_linkbox.svg)](#)
 
-####
-
 Vejledning: Forebyggelse af sne og ophobning af vand på haller og store tage
-
-####
 
 #### Gå til vejledning [Haller Og Store Tage Forebyg Skader Fra Sne Og Vand (2021)](../../../../media/al2dyyiy/haller-og-store-tage-forebyg-skader-fra-sne-og-vand-2021.pdf){target="_blank"}
 
@@ -159,21 +135,13 @@ Bygningsejere bør undersøge og vedligeholde altaner. Sammen med bl.a. den milj
 
 [![](../../../../assets/img/linkbox/br_v_linkbox.svg)](#)
 
-####
-
 Vejledning: Vejledning om altaner med udliggerjern
-
-####
 
 #### Gå til vejledning [Vejledning Om Altaner Med Udliggerjern](../../../../media/g3efcyll/vejledning-om-altaner-med-udliggerjern.pdf){target="_blank"}
 
 [![](../../../../assets/img/linkbox/br_v_linkbox.svg)](#)
 
-####
-
 Vejledning: Eftersyn af ældre betonaltaner
-
-####
 
 #### [Vejledning Om Eftersyn Af Ældre Betonaltaner](../../../../media/sntagso1/vejledning-om-eftersyn-af-aeldre-betonaltaner.pdf){target="_blank"}
 
@@ -183,21 +151,13 @@ Bygningsejer bør undersøge behovet for et særskilt afstivningsprojekt ved st�
 
 [![](../../../../assets/img/linkbox/br_v_linkbox.svg)](#)
 
-####
-
 Vejledning: Store træspær - Behov for afstivning
-
-####
 
 #### Gå til vejledning [Store træspor - behov for afstivning](../../../../media/i4ff0la2/2019-01-22_store_spaer_-_behov_for_afstivning.pdf){target="_blank"}
 
 [![](../../../../assets/img/linkbox/br_v_linkbox.svg)](#)
 
-####
-
 Vejledning: Store stålspær - Behov for afstivning
-
-####
 
 #### Gå til vejledning [Store Stålrammer Behov For Afstivning (1)](../../../../media/j11pa3fg/store-staalrammer-behov-for-afstivning.pdf){target="_blank"}
 

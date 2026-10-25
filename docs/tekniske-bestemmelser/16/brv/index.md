@@ -11,5 +11,3 @@ title: Legepladser mv. (§ 358 - § 367) – Vejledning
 
 - [](../vejledninger/qa/)
 - [Bygningsreglementets vejledning om legepladser mv.](../vejledninger/generel_vejledning/)
-
-##

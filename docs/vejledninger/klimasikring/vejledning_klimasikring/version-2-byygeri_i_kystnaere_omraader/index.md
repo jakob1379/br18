@@ -135,8 +135,6 @@ Bestemmelserne i bygningsreglementet (BR18) støttes af en række vejledninger f
 
 **SBi-anvisninger**
 
-#### 
-
 *SBi-anvisning 272, Bygningsreglementet 2018 – BR18*
 
 BUILD, Aalborg Universitet udgiver en SBi-anvisning om bygningsreglementet, der rummer en række anvisninger på, hvordan kravene i reglementet kan imødekommes eller opfyldes, samt indeholder supplerende referencer til alment teknisk fælleseje m.m. (de Place Hansen, 2020).

@@ -20,8 +20,6 @@
 
 ### 1.1. Energifaktorer {#e1939b7a-413e-4987-a882-c3c48ef87fe1}
 
-###
-
 Energifaktorerne benyttes ved beregningen af behovet for tilført energi for bygninger og skal benyttes i forbindelse med energirammeberegningerne. Energifaktorerne bør også benyttes i forbindelse med andre energiberegninger, hvor der arbejdes med forskellige energiformer. For eksempel vil en ændring af opvarmningskilde fra fjernvarme til direkte elvarme være en ændring, der medfører et væsentligt højere primærenergi.
 
 Energifaktorerne udtrykker primærenergiforbruget ved forskellige forsyningsformer og er baseret på Energistyrelsens energistatistik og basisfremskrivning. Primærenergi er et udtryk for hvor meget energi, der benyttes til at producere energibærerne. For eksempel vil en primærenergifaktor på 1,9 indikere, at der i gennemsnit benyttes 1,9 kWh energi i produktionsfasen til at producere 1,0 kWh el til slutkunderne.

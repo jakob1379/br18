@@ -32,11 +32,7 @@ Reglerne beskrevet ovenfor er fastlagt i arbejdsmiljøloven. Yderligere og opdat
 
   [![](../../../../../assets/img/linkbox/ds_en_iso_linkbox.svg)](#)
 
-####
-
 DS/EN ISO 7730 - Ergonomi inden for termisk miljø - Analytisk bestemmelse og fortolkning af termisk komfort ved beregning af PMV- og PPD-indekser og lokale termiske komfortkriterier
-
-####
 
 #### Standarden findes på dansk i Dansk Standards webshop [webshop.ds.dk](https://webshop.ds.dk/da-dk/standard/ds-en-iso-77302006){target="_blank"}
 
@@ -46,39 +42,25 @@ DS/EN ISO 7730 - Ergonomi inden for termisk miljø - Analytisk bestemmelse og fo
 
 Indeklima
 
-####
-
 #### [Find At-vejledningen her](https://at.dk/regler/at-vejledninger/indeklima-a-1-2/ "At-vejledning A.1.2-1"){target="_blank"}
 
 De tre nævnte standarder nedenfor skal overholdes, når ventilationen projekteres og udføres. DS 447 indeholder de overordnede krav til ventilationssystemer, mens DS 428 indeholder brandkravene til ventilationsanlæg og DS 452 indeholder krav til isolering af de tekniske installationer, herunder ventilation.
 
 [![](../../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
-####
-
 DS 428 - Norm for brandtekniske foranstaltninger ved ventilationsanlæg
-
-####
 
 #### Standarden findes på dansk i Dansk Standards [](https://webshop.ds.dk/da-dk/s%C3%B8gning/13-220-20-brandbeskyttelse/ds-4282011){target="_blank"}
 
 [![](../../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
-####
-
 DS 447 - Ventilation i bygninger - Mekaniske, naturlige og hybride ventilationssystemer
-
-####
 
 #### Standarden findes på dansk i Dansk Standards [webshop.ds.dk](https://webshop.ds.dk/da-dk/s%C3%B8gning/91-140-30-ventilationssystemer-og-klimaanl%C3%A6g/ds-4472013){target="_blank"}
 
 [![](../../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
-####
-
 DS 452 - Termisk isolering
-
-####
 
 #### Standarden findes på dansk i Dansk Standards [webshop.ds.dk](https://webshop.ds.dk/da-dk/s%C3%B8gning/27-220-varmegenvinding--varmeisolering/ds-4522013){target="_blank"}
 

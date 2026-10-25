@@ -76,8 +76,6 @@ Eksisterende bygninger beliggende i områder uden adgang til fjernvarme eller na
 
 [![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
-####
-
 Byggeloven
 
 #### Anvendelsesområde

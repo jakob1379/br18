@@ -48,19 +48,13 @@ Mindre tilbygninger omfatter for eksempel etablering af tårne til bade- og wc-r
 
 Der henvises til *Bekendtgørelse nr. 1250 af 13/12/2004 om tilgængelighedsforanstaltninger i forbindelse med ombygninger i eksisterende byggeri*, der omhandler tilgængelighedskrav i offentlig tilgængelige bygninger og erhvervsbyggeri ved ombygning.
 
-###
-
 ![](../../../../media/a5tdjw5m/elavatorer_tegning_1.svg)
 
 Figur 1: Eksempler på etager i bygninger (snit) - Eksemplerne er vejledende og ikke udtømmende
 
-###
-
 ![](../../../../media/ivffycsi/elavatorer_tegning_2.svg)
 
 Figur 2: Eksempler på etager i bygninger (snit) - Eksemplerne er vejledende og ikke udtømmende
-
-###
 
 ![](../../../../media/psce1f0r/elavatorer_tegning_3.svg)
 

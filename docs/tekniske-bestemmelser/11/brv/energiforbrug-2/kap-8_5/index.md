@@ -88,8 +88,6 @@ Der kan være lokalplaner, byplanvedtægter eller lignende, som forhindrer insta
 
 [![](../../../../../assets/img/linkbox/eu_linkbox.svg)](#)
 
-####
-
 EU-direktiv 2009/28/EF - om fremme af anvendelsen af energi fra vedvarende energikilder
 
 #### Anvendelsesområde

@@ -30,8 +30,6 @@ En tæt og kompakt bebyggelse har en høj udnyttelsesgrad af grunden. Her er afs
 
 Men den kompakte bebyggelse kan udfordre mulighederne for at placere boligen attraktivt på grunden og skabe anvendelige, rekreative udearealer samt at sikre gode dagslysforhold i boligen uden indbliksgener.
 
-###
-
 ![](../../../../../media/lmnbw1to/01_indretning.png)
 
 Illustration 02: Boligens kontekst og bebyggelsens kompakthed. Afstanden mellem bygningerne og højden på genbobygningerne har især indflydelse på boligens dagslysforhold, evt. indbliksgener og anvendeligheden af uderummet mellem bygningerne.

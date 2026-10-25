@@ -96,8 +96,6 @@ Den fleksible bolig: Her opnås foranderligheden ved at udvikle løsninger, der 
 
 Den elastiske bolig: Her kan boligen ændre størrelse efter behov. Det kan ske ved, at arealet af de enkelte boliger i en bebyggelse udvides eller reduceres afhængigt af modsvarende ændringer i de tilgrænsende boliger. Eller det kan ske ved, at et boligområde rummer lokaler (arbejdsrum, gæsteværelser, teenagerum e.l.), der kan lejes midlertidigt. Dette bør indarbejdes i den overordnede planlægning af bebyggelsen. (se ill. 01, c)
 
-###
-
 ![](../../../../media/qp1pja0y/illustration-01-br-vejledning-om-boligindretning.png)
 
 Illustration 01 BR vejledning om boligindretning
@@ -111,8 +109,6 @@ Kontekst og kompakthed har indflydelse på boligens kvaliteter, og når boligen 
 En tæt og kompakt bebyggelse har en høj udnyttelsesgrad af grunden. Her er afstanden imellem bygningerne lille, samtidig med at antallet af etager ofte er det maksimalt tilladte. Den kompakt udformede bebyggelse findes ofte i storbyer og er med til at definere storbyernes karakter. Den tætte bebyggelse kan skabe fortættede rum, som kan understøtte fornemmelsen af at være i en by eller landsby og kan danne basis for nærhed mellem beboerne.
 
 Men den kompakte bebyggelse kan udfordre mulighederne for at placere boligen attraktivt på grunden og skabe anvendelige, rekreative udearealer samt at sikre gode dagslysforhold i boligen uden indbliksgener.
-
-###
 
 ![](../../../../media/lmnbw1to/01_indretning.png)
 
@@ -140,8 +136,6 @@ Se SBi-anvisning 272, Anvisning om Bygningsreglementet 2018-20. Ubebyggede areal
 
 Se SBi-anvisning 249, Tilgængelige boliger – Indretning, 1.2 Parkeringsarealer for biler og cykler m.m. (Sigbrand & Jensen, 2015).
 
-###
-
 ![](../../../../media/howc2ejz/illustration-03-br-vejledning-i-boligindretning.png)
 
 Illustration 03: Tre forskellige bebyggelsesprincipper:
@@ -160,8 +154,6 @@ Overgangszonen kan desuden tænkes som et fællesområde, der kan udformes, så 
 
 Se SBi-anvisning 272, Anvisning om Bygningsreglementet 2018 – 2. Adgangsforhold, Fælles adgangsveje i bygningen (de Place Hansen, 2018).
 
-###
-
 ![](../../../../media/p0rlsaxg/illustration-04-br-vejledning-om-boligindretning.png)
 
 Illustration 04: Boligens adgangsveje kan alt efter deres karakter bruges til rekreative områder og give beboerne mulighed for at skabe uformelle mødesteder. Udformningen af overgangszonen med niveauer af privathed fra det offentlige rum til den private bolig eller zonen tæt på boligen kan sikre, at det føles naturligt at trække uden for sin bolig, uden at føle sig eksponeret.
@@ -175,8 +167,6 @@ Kvaliteten af en bolig er ikke nødvendigvis relateret til dens størrelse. En s
 En lille bolig, der er udfordret på sit areal, vil typisk have behov for, at nogle af hjemmets funktioner ligger uden for den private bolig. Det kan dog reducere følelsen af privathed og besværliggøre praktiske aktiviteter. Derfor kræver det stillingtagen til, hvilke funktioner boligen som minimum bør rumme. Funktioner, der kan placeres uden for boligen, kan fx være faciliteter til tøjvask, fællesrum med plads til større arrangementer, gæsteværelser til overnattende gæster, værksted, teenagerum eller fælles uderum. Den lille bolig får derved en elasticitet, der øger funktionaliteten og kvaliteten af boligen, uden at det er nødvendigt at øge arealet. På samme måde kan de fælles adgangsveje, der ud over at skabe adgang til boligen, udformes, så de giver mulighed for ophold eller plads til større ting som fx barnevogn, børnelegetøj, snavsede sko og gangstativer.
 
 En bebyggelse, der indeholder flere forskellige boligstørrelser og boligplaner, kan give mulighed for en differentieret beboersammensætning. Det vil kunne give stedets beboere mulighed for, at finde en anden og mere passende bolig, uden at skulle flytte fra området, hvis eller når deres boligbehov ændrer sig.
-
-###
 
 ![](../../../../media/ldkfwoyn/illustration-05-br-vejledning-om-boligindretning.png)
 
@@ -200,13 +190,9 @@ Et trappeløb kan skabe sammenhæng mellem flere etager, et ensidigt hældende t
 
 Rige rumoplevelser tilfører kvalitet til boligen. Arkitektoniske elementer, som fx nicher eller karnapper, kan bidrage til at øge kvaliteten, samtidig med at de kan lægge op til en opdeling af rummet i mindre områder. Det betyder, at der – ud over de funktionelle krav til rummenes anvendelighed, placering og størrelse – også kan lægges et arkitektonisk blik på rummets udformning og rumforløbets kvalitet.
 
-###
-
 ![](../../../../media/qe1exvvi/illustration-06-br-vejledning-om-boligindretning.png)
 
 Illustration 06: Boligens dybde. Plantegninger med samme areal, men med tre forskellige husdybder og samme størrelser, form og placering af vinduer. Den dybe bolig har, på trods af vinduer i facaderne i et varieret antal, et mørkt område midt i boligen, der typisk ikke opleves nær så attraktivt som rummene, der ligger ud til facaden.
-
-###
 
 ![](../../../../media/okwji2tj/illustration-07-br-vejledning-om-boligindretning.png)
 
@@ -230,13 +216,9 @@ En markant reduktion af dagslysniveauet i et rum kan forekomme, hvis der er skyg
 
 Himmelgrænseplanet definerer grænsefladen mellem det område i rummet, som modtager dagslys direkte fra himlen, og det område, der kun modtager reflekslys. På den måde illustrerer himmelgrænseplanet, hvor henholdsvis den største og mindste lysintensitet er i rummet. Himmelgrænseplanet findes ved at tegne en linje fra overkanten af genbobygningen igennem overkanten af vindueshullet og forlænge linjen ind i rummet. Lyset under linjen kommer direkte fra himlen og har størst intensitet. Lyset over linjen er reflekslys og har mindre intensitet. Se SBi-anvisning 219, Dagslys i rum og bygninger, 4 Dagslyset på facaden (Johnsen & Christoffersen, 2008).
 
-###
-
 ![](../../../../media/kgebkoyn/illustration-08-br-vejledning-om-boligindretning.png)
 
 Illustration 08: Alt afhængig af boligens orientering vil dagslyset præge den forskelligt. Er boligen orienteret mod nord/syd, er det kun sydsiden, der har mulighed for, at sollyset kan påvirke rummet. Øst/vest-orientering tillader begge sider at få sollys, og derved fremstår rummene med variationer i lyset.
-
-###
 
 ![](../../../../media/l0ld2lpm/illustration-09-br-vejledning-om-boligindretning.png)
 
@@ -302,8 +284,6 @@ Altanen kan have mange udformninger, og samspillet mellem dagslyset, vinduesåbn
 
 En tagterrasse kan være et fælles eller et privat uderum, som er integreret i eller på bebyggelsens tag. Tagterrassen kan placeres, så flere boliger, fx fra en hel opgang, har adgang til den. Den kan derved have samme sociale funktion, som uderum og haverum mellem husene har. Tagterrassen kan tilbyde udsigt over området og, alt efter orienteringen, et solfyldt sted, der også får sollys, når den lave sol ikke har mulighed for at komme ned mellem husene og på den måde bidrage positivt til bebyggelsens kvaliteter.
 
-###
-
 ![](../../../../media/tg1gb1cr/illustration-10-br-vejledning-om-boligindretning.png)
 
 Illustration 10: Altaner. Alt efter om altanen er udeliggende (a), delvist indeliggende (b) eller indeliggende (c), skygger den mere eller mindre for rum under altanen. Diagrammet er en forenklet illustration af, hvordan en altan kan skabe skygge i rummene under sig og dermed påvirke rummets lysniveau. Diagrammet illustrerer situationen for en bolig, hvor der også er en genbobygning, der skygger (se kap. 2.6 Dagslysforhold, ill. 09). Samspillet mellem dagslyset, vinduet og skyggende elementer er komplekst og har indflydelse på lysniveauet i rummet og bør tilrettelægges med omhu.
@@ -322,8 +302,6 @@ Det kan være praktisk, at ankomstområdet i boligen også fungerer som fordelin
 
 I boliger med flere planer kan trappen placeres i en del af ankomstområdet eller i umiddelbar nærhed. Det giver ugeneret adgang til begge etager og mulighed for opdeling af boligen i to adskilte dele. Det øger boligens fleksibilitet over tid.
 
-###
-
 ![](../../../../media/3ckl1xjy/illustration-11-br-vejledning-om-boligindretning.png)
 
 Illustration 11: Ved indgangen til boligen har man brug for at kunne hænge overtøj og stille sko. Det gælder også i det tilfælde, at man kommer direkte ind i et køkken eller opholdsrum. Derudover er det et område, der med fordel kan rumme mange funktioner som fx plads til opbevaring.
@@ -341,8 +319,6 @@ emhætte og bordplads på begge sider af komfuret, til henholdsvis tilberedning 
 I køkkenet er det praktisk, at der er god plads til service og bestik og til gryder og pander, der gerne skal kunne nås fra de tilhørende arbejdspladser. I forbindelse med madlavning gør man ofte brug af mange forskellige køkkenmaskiner (kaffemaskine, elkedel, brødrister, røremaskine, mikrobølgeovn etc.). Det er hensigtsmæssigt, at de køkkenmaskiner, der bruges til dagligt, har plads til at kunne stå fremme. De køkkenmaskiner, der bruges mindre, bør der være opbevaringsplads til. Et depotrum eller et bryggers kan aflaste opbevaringsbehovet i køkkenet. Her kan der være ekstra kolonialvarer, køkkenmaskiner, drikkevarer, service. Der kan gøres plads til genbrugssortering eller en fryser. I nogle tilfælde indeholder køkkenet også andre funktioner som fx opbevaring af støvsuger, kost, spand, vaskemaskine og tørretumbler. Se SBi-anvisning 253, Småhuse – indretning og funktion, 3.6.4 Køkken (de Place Hansen, 2015).
 
 For forhold vedrørende tilgængelighed i køkkener, se SBi-anvisning 249, Tilgængelige boliger – Indretning, 2.3 Køkken (Sigbrand & Jensen, 2015).
-
-###
 
 ![](../../../../media/ssslpyvv/illustration-12-br-vejledning-om-boligindretning.png)
 
@@ -369,8 +345,6 @@ Da meget arbejde foregår digitalt, er det blevet muligt at lave meget arbejde h
 De behov, der knytter sig til arbejdspladsen, vil variere fra beboer til beboer og alt efter arbejdets karakter. Hjemmearbejdspladsen vil dog typisk have behov for et arbejdsbord og en eller flere stole samt plads til opbevaring af computer, printer, papir og skriveredskaber.
 
 Hjemmearbejdspladsen kan være en funktion, som flere af boligens beboere benytter sig af. Alt efter beboernes behov kan hjemmearbejdspladsen også give plads til fx lektielæsning og hobbyaktiviteter. På den måde kan hjemmearbejdspladsen i nogle boliger få en central plads og være en aktivitet, der gives pladsmæssig prioritet.
-
-###
 
 ![](../../../../media/qwkl3eh3/illustration-13-br-vejledning-om-boligindretning.png)
 
