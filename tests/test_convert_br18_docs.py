@@ -63,6 +63,11 @@ class ConvertTest(unittest.TestCase):
         self.assertIn("***Bestemmelser i lokalplan***", markdown)
         self.assertNotRegex(markdown, r"(?m)^\*\*\\?$")
 
+    def test_emphasised_multiplication_sign_is_plain(self) -> None:
+        markdown = self.convert("<p>(B6 / (A<sub><em>opv</em></sub> <em>*</em> 50 år)) og 25 pct. <em>*</em> A</p>")
+
+        self.assertIn("(B6 / (A~*opv*~ \\* 50 år)) og 25 pct. \\* A", markdown)
+
     def test_line_breaks_at_the_edges_of_a_link_move_out_of_it(self) -> None:
         markdown = self.convert(
             '<p>findes her:&nbsp;<a href="https://ens.dk/x" target="_blank">Energistyrelsens oversigt&nbsp;<br>\n</a>'

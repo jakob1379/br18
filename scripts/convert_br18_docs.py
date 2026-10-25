@@ -316,8 +316,9 @@ class Cleaner(HTMLParser):
                 self.parts.append(kept)
                 moved.insert(0, text[len(kept):])
             opened = next((i for i in range(len(self.parts) - 1, -1, -1) if re.match(rf"<{tag}\b", self.parts[i])), None)
-            if tag != "a" and opened is not None and not re.sub(r"<[^>]*>", "", "".join(self.parts[opened + 1 :])).strip(" \t\n\u00a0"):
-                # Emphasis around nothing visible renders as literal `* *`.
+            # Emphasis around nothing visible renders as literal `* *`; an emphasised `*` (a multiplication sign) as `*\**`.
+            blank = " \t\n\u00a0" + ("*" if tag in {"b", "em", "i", "strong"} else "")
+            if tag != "a" and opened is not None and not re.sub(r"<[^>]*>", "", "".join(self.parts[opened + 1 :])).strip(blank):
                 del self.parts[opened]
                 self.parts.extend(moved)
                 return
