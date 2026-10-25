@@ -20,7 +20,7 @@ def target_path_for_url(docs_root: Path, url: str) -> Path:
     base = docs_root / path if path else docs_root
 
     if parsed.query == "Layout=ShowAll":
-        return base / "index.html?Layout=ShowAll.html"
+        return base / "showall" / "index.html"
     return base / "index.html"
 
 
