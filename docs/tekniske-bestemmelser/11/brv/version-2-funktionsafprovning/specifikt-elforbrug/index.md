@@ -83,28 +83,64 @@ Følgende målepunkter kan indgå ved eftervisning af et ventilationsanlægs SEL
 
 *Tabel 2. Luftskifteniveau (volumenstrøm) og krav ved måling af et ventilationsanlægs SEL-værdi.*
 
-+----------------------------------------------+-------------------------+--------------------+--------------------+
-|                                              | Målingen foretages ved  |  Krav til\                              |
-|                                              |                         | SEL-værdi \[J/m^3^\]                    |
-|                                              |                         +-----------------------------------------+
-|                                              |                         |  BR18\                                  |
-+----------------------------------------------+-------------------------+-----------------------------------------+
-| Ventilationsanlæg til andre bygninger end boliger\                                                               |
-+----------------------------------------------+----------------------------------------------+--------------------+
-| -med konstant luftydelse                     |  Grundluftskifte                             |  1.500             |
-+----------------------------------------------+----------------------------------------------+--------------------+
-| -med variabel luftydelse                     |  Maks. tryktab                               |  1.800             |
-+----------------------------------------------+----------------------------------------------+--------------------+
-| Ventilationsanlæg med varmegenvinding til én bolig                                                               |
-+----------------------------------------------+----------------------------------------------+--------------------+
-| -med konstant luftydelse                     |  Grundluftskifte                             |  1.000             |
-+----------------------------------------------+----------------------------------------------+--------------------+
-| -med variabel luftydelse                     |  Grundluftskifte                             |  1.000             |
-+----------------------------------------------+----------------------------------------------+--------------------+
-| Ventilationsanlæg, der forsyner etageboliger |  Grundluftskifte                             |  1.200             |
-+----------------------------------------------+----------------------------------------------+--------------------+
-| Udsugningsanlæg                              |  Maks. tryktab                               |  600\              |
-+----------------------------------------------+----------------------------------------------+--------------------+
+<table style="width:98%;">
+<colgroup>
+<col style="width: 40%" />
+<col style="width: 22%" />
+<col style="width: 17%" />
+<col style="width: 17%" />
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2"></td>
+<td rowspan="2">Målingen foretages ved</td>
+<td colspan="2"> Krav til<br />
+SEL-værdi [J/m<sup>3</sup>]</td>
+</tr>
+<tr>
+<td colspan="2"> BR18<br />
+</td>
+</tr>
+<tr>
+<td colspan="4">Ventilationsanlæg til andre bygninger end boliger<br />
+</td>
+</tr>
+<tr>
+<td>-med konstant luftydelse</td>
+<td colspan="2"> Grundluftskifte</td>
+<td> 1.500</td>
+</tr>
+<tr>
+<td>-med variabel luftydelse</td>
+<td colspan="2"> Maks. tryktab</td>
+<td> 1.800</td>
+</tr>
+<tr>
+<td colspan="4">Ventilationsanlæg med varmegenvinding til én bolig</td>
+</tr>
+<tr>
+<td>-med konstant luftydelse</td>
+<td colspan="2"> Grundluftskifte</td>
+<td> 1.000</td>
+</tr>
+<tr>
+<td>-med variabel luftydelse</td>
+<td colspan="2"> Grundluftskifte</td>
+<td> 1.000</td>
+</tr>
+<tr>
+<td>Ventilationsanlæg, der forsyner etageboliger</td>
+<td colspan="2"> Grundluftskifte</td>
+<td> 1.200</td>
+</tr>
+<tr>
+<td>Udsugningsanlæg</td>
+<td colspan="2"> Maks. tryktab</td>
+<td> 600<br />
+</td>
+</tr>
+</tbody>
+</table>
 
   Hvis luftskiftet er indstillet, jf. tabel 2, kan afprøvningen accepteres, hvis SEL-værdien måles til en gennemsnitlig værdi, der maksimalt overstiger kravet i bygningsreglementet med 5%, samt hvis målingen af de referencetilstande som anvendes til beregning af bygningens energiforbrug maksimalt overstiges med 5%.
 

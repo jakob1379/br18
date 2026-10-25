@@ -39,53 +39,92 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 
 Heldagsklasser, helhedsskoler og indskolingslokaler, der dækker over, at de samme lokaler benyttes til undervisning og fritidsaktiviteter, skal med hensyn til lydisolation og støj indrettes efter lydbestemmelserne for undervisningslokaler. Med hensyn til rumakustik skal lydbestemmelserne for opholdsrum i daginstitutionsbygninger opfyldes, idet der dog skal tages hensyn til lærernes mulighed for ubesværet at tale rummet op - se SBi-anvisning 218.
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| **Undervisningsbygninger -- Tabel 3.1 Lydisolation**\                                                                                                                                                                                     |
-+-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| **Luftlydisolation **     **\[4\]**                                                                                                             | ***R´~w~** *                                                                            |
-+-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| Mellem undervisningsrum samt mellem undervisningsrum og fællesrum, horisontalt                                                                  | ≥ 48 dB                                                                                 |
-+-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| Mellem undervisningsrum samt mellem undervisningsrum og fællesrum, vertikalt                                                                    | ≥ 51 dB* *                                                                              |
-+-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| Mellem undervisningsrum med dørforbindelse (samlet lydisolation for væg med dør, folde- og mobilvægge, glaspartier mv.)                         | ≥ 44 dB                                                                                 |
-+-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| Mellem undervisningsrum og fællesrum med dørforbindelse (samlet lydisolation for væg med dør, folde- og mobilvægge, glaspartier mv.)            | ≥ 36 dB                                                                                 |
-+-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| For fleksible rumadskillelser i åbne undervisningsområder ^1)^                                                                                  | ≥ 20 dB                                                                                 |
-+-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| Mellem undervisningsrum til sløjd og andre undervisningsrum eller fællesrum                                                                     | ≥ 60 dB                                                                                 |
-+-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| Mellem undervisningsrum til sløjd og fællesrum med dørforbindelse (samlet lydisolation for væg med dør, folde- og mobilvægge, glaspartier mv.)  | ≥ 44 dB                                                                                 |
-+-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| Mellem undervisningsrum til sang og musik samt mellem undervisningsrum til sang og musik og andre undervisningsrum eller fællesrum              | ≥ 65 dB                                                                                 |
-+-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| Mellem undervisningsrum til sang og musik med dørforbindelse (samlet lydisolation for væg med dør)                                              | ≥ 55 dB                                                                                 |
-+-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| Mellem undervisningsrum til sang og musik og fællesrum med dørforbindelse (samlet lydisolation for væg med dør)                                 | ≥ 50 dB\                                                                                |
-+-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| Mellem undervisningsrum og tilgrænsende rum i erhvervsenheder eller i andre undervisnings- eller daginstitutioner                               | ≥ 60 dB\                                                                                |
-+-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| **Trinlydniveau **     **\[4\]**                                                                                                                | ***L'~n,w~***                                                                           |
-+-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| I undervisningsrum ^2)^                                                                                                                         | ≤ 58 dB                                                                                 |
-+-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| I undervisningsrum fra gulve og dæk i undervisningsrum til sløjd eller sang og musik                                                            | ≤ 53 dB                                                                                 |
-+-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| I undervisningsrum fra gulve og dæk i tilgrænsende rum i erhvervsenheder eller i andre undervisnings- eller daginstitutioner                    | ≤ 48 dB                                                                                 |
-+-------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| **Noter\                                                                                                                                                                                                                                  |
-| \**                                                                                                                                                                                                                                       |
-|                                                                                                                                                                                                                                           |
-|
-
-1)   Ved fleksible rumadskillelser forstås vægsystemer eller lignende rumopdelende elementer, som ikke fuldstændigt aflukker rum, men som afskærmer og adskiller dele af rum\                                                             |
-| \                                                                                                                                                                                                                                         |
-|                                                                                                                                                                                                                                           |
-|
-
-2)   Fra alle omgivende gulve, dæk og trapper.                                                                                                                                                                                            |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+<table>
+<colgroup>
+<col style="width: 61%" />
+<col style="width: 38%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2"><strong>Undervisningsbygninger – Tabel 3.1 Lydisolation</strong><br />
+</td>
+</tr>
+<tr>
+<td><strong>Luftlydisolation </strong>     <strong>[4]</strong></td>
+<td><em><strong>R´<sub>w</sub></strong> </em></td>
+</tr>
+<tr>
+<td>Mellem undervisningsrum samt mellem undervisningsrum og fællesrum, horisontalt</td>
+<td>≥ 48 dB</td>
+</tr>
+<tr>
+<td>Mellem undervisningsrum samt mellem undervisningsrum og fællesrum, vertikalt</td>
+<td>≥ 51 dB<em> </em></td>
+</tr>
+<tr>
+<td>Mellem undervisningsrum med dørforbindelse (samlet lydisolation for væg med dør, folde- og mobilvægge, glaspartier mv.)</td>
+<td>≥ 44 dB</td>
+</tr>
+<tr>
+<td>Mellem undervisningsrum og fællesrum med dørforbindelse (samlet lydisolation for væg med dør, folde- og mobilvægge, glaspartier mv.)</td>
+<td>≥ 36 dB</td>
+</tr>
+<tr>
+<td>For fleksible rumadskillelser i åbne undervisningsområder <sup>1)</sup></td>
+<td>≥ 20 dB</td>
+</tr>
+<tr>
+<td>Mellem undervisningsrum til sløjd og andre undervisningsrum eller fællesrum</td>
+<td>≥ 60 dB</td>
+</tr>
+<tr>
+<td>Mellem undervisningsrum til sløjd og fællesrum med dørforbindelse (samlet lydisolation for væg med dør, folde- og mobilvægge, glaspartier mv.)</td>
+<td>≥ 44 dB</td>
+</tr>
+<tr>
+<td>Mellem undervisningsrum til sang og musik samt mellem undervisningsrum til sang og musik og andre undervisningsrum eller fællesrum</td>
+<td>≥ 65 dB</td>
+</tr>
+<tr>
+<td>Mellem undervisningsrum til sang og musik med dørforbindelse (samlet lydisolation for væg med dør)</td>
+<td>≥ 55 dB</td>
+</tr>
+<tr>
+<td>Mellem undervisningsrum til sang og musik og fællesrum med dørforbindelse (samlet lydisolation for væg med dør)</td>
+<td>≥ 50 dB<br />
+</td>
+</tr>
+<tr>
+<td>Mellem undervisningsrum og tilgrænsende rum i erhvervsenheder eller i andre undervisnings- eller daginstitutioner</td>
+<td>≥ 60 dB<br />
+</td>
+</tr>
+<tr>
+<td><strong>Trinlydniveau </strong>     <strong>[4]</strong></td>
+<td><strong><em>L’<sub>n,w</sub></em></strong></td>
+</tr>
+<tr>
+<td>I undervisningsrum <sup>2)</sup></td>
+<td>≤ 58 dB</td>
+</tr>
+<tr>
+<td>I undervisningsrum fra gulve og dæk i undervisningsrum til sløjd eller sang og musik</td>
+<td>≤ 53 dB</td>
+</tr>
+<tr>
+<td>I undervisningsrum fra gulve og dæk i tilgrænsende rum i erhvervsenheder eller i andre undervisnings- eller daginstitutioner</td>
+<td>≤ 48 dB</td>
+</tr>
+<tr>
+<td colspan="2"><p>**Noter<br />
+**</p>
+<p>1)   Ved fleksible rumadskillelser forstås vægsystemer eller lignende rumopdelende elementer, som ikke fuldstændigt aflukker rum, men som afskærmer og adskiller dele af rum<br />
+<br />
+</p>
+<p>2)   Fra alle omgivende gulve, dæk og trapper.</p></td>
+</tr>
+</tbody>
+</table>
 
 ### Støj indendørs fra trafik i undervisningsbygninger {#b08dc5bc-acf8-4756-80a5-0c3fa42b2575}
 
@@ -97,70 +136,98 @@ Referencer findes i [afsnit 1.5](../generel_vejledning/referenceliste "Referenc
 
 Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde bygningsreglementets funktionskrav, er anført separat i tabellerne (i kursiv).
 
-+----------------------------------------------------------------------+-----------------------------------------+---------------------------------------------------+----------------------------------------------------------------+
-| **Undervisningsbygninger -- Tabel 3.2 Støj indendørs fra trafik**                                                                                                                                                                   |
-+----------------------------------------------------------------------+-----------------------------------------+---------------------------------------------------+----------------------------------------------------------------+
-| **Lovgivning^4)^**                                   | **Støjbelastning ude**                  | **Støjbelastning ude**                            | **Støjbelastning ude**                                         |
-|                                                                      |                                         |                                                   |                                                                |
-|                                                                      | **Veje: *L~den~* ≤ 58 dB**              | **Veje: 58 dB \< *L~den~* ≤ 68 dB**               | **Veje: *L~den~* \> 68 dB**                                    |
-|                                                                      |                                         |                                                   |                                                                |
-|                                                                      | **Jernbaner: *L~den~* ≤ 64 dB**         | **Jernbaner: *L~den~* \> 64dB**                   |                                                                |
-+----------------------------------------------------------------------+-----------------------------------------+---------------------------------------------------+----------------------------------------------------------------+
-| BR18 ^1) ^**                                                \[4\]**  |  *L*~*den*~ ≤ 33 dB med lukkede vinduer |  *L~den~* ≤ 33 dB med lukkede vinduer             |  *L~den~* ≤ 33 dB med lukkede vinduer                          |
-+----------------------------------------------------------------------+-----------------------------------------+---------------------------------------------------+----------------------------------------------------------------+
-| ***Supplerende vejledning***                                         |  *Ingen krav*\                          |  *Byfornyelse mv. ^2)^*                          | *Der bør ikke planlægges for støjfølsom anvendelse ^**5)**^* \ |
-|                                                                      |                                         |                                                   |                                                                |
-| *Planlovgivning - Veje   *                         **\[7\]**         |                                         | *Veje: L~den~ ≤ 46 dB med åbne vinduer ^3)^*      |                                                                |
-+----------------------------------------------------------------------+-----------------------------------------+---------------------------------------------------+----------------------------------------------------------------+
-| ***Supplerende vejledning***                                         |  *Ingen krav*\                          |  *Byfornyelse mv. ^2)^*                           |                                                                |
-|                                                                      |                                         |                                                   |                                                                |
-| *Planlovgivning - Jernbaner         *        *  ***\[8\]**           |                                         | *Jernbaner: L~den~ ≤ 52 dB med åbne vinduer ^3)^* |                                                                |
-|                                                                      |                                         |                                                   |                                                                |
-|                                                                      |                                         |                                                   |                                                                |
-+----------------------------------------------------------------------+-----------------------------------------+---------------------------------------------------+----------------------------------------------------------------+
-| **Noter\                                                                                                                                                                                                                            |
-| \**                                                                                                                                                                                                                                 |
-|                                                                                                                                                                                                                                     |
-|
+<table style="width:99%;">
+<colgroup>
+<col style="width: 30%" />
+<col style="width: 18%" />
+<col style="width: 22%" />
+<col style="width: 28%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="4"><strong>Undervisningsbygninger – Tabel 3.2 Støj indendørs fra trafik</strong></td>
+</tr>
+<tr>
+<td><strong>Lovgivning<sup>4)</sup></strong></td>
+<td><p><strong>Støjbelastning ude</strong></p>
+<p><strong>Veje: <em>L<sub>den</sub></em> ≤ 58 dB</strong></p>
+<p><strong>Jernbaner: <em>L<sub>den</sub></em> ≤ 64 dB</strong></p></td>
+<td><p><strong>Støjbelastning ude</strong></p>
+<p><strong>Veje: 58 dB &lt; <em>L<sub>den</sub></em> ≤ 68 dB</strong></p>
+<p><strong>Jernbaner: <em>L<sub>den</sub></em> &gt; 64dB</strong></p></td>
+<td><p><strong>Støjbelastning ude</strong></p>
+<p><strong>Veje: <em>L<sub>den</sub></em> &gt; 68 dB</strong></p></td>
+</tr>
+<tr>
+<td>BR18 <sup>1) </sup><strong>                                                [4]</strong></td>
+<td> <em>L</em><sub><em>den</em></sub> ≤ 33 dB med lukkede vinduer</td>
+<td> <em>L<sub>den</sub></em> ≤ 33 dB med lukkede vinduer</td>
+<td> <em>L<sub>den</sub></em> ≤ 33 dB med lukkede vinduer</td>
+</tr>
+<tr>
+<td><p><strong><em>Supplerende vejledning</em></strong></p>
+<p><em>Planlovgivning - Veje   </em>                         <strong>[7]</strong></p></td>
+<td> <em>Ingen krav</em><br />
+</td>
+<td><p> <em>Byfornyelse mv. <sup>2)</sup></em></p>
+<p><em>Veje: L<sub>den</sub> ≤ 46 dB med åbne vinduer <sup>3)</sup></em></p></td>
+<td><em>Der bør ikke planlægges for støjfølsom anvendelse <sup><strong>5)</strong></sup></em> <br />
+</td>
+</tr>
+<tr>
+<td><p><strong><em>Supplerende vejledning</em></strong></p>
+<p><em>Planlovgivning - Jernbaner         </em>        <em>  </em><strong>[8]</strong></p></td>
+<td> <em>Ingen krav</em><br />
+</td>
+<td><p> <em>Byfornyelse mv. <sup>2)</sup></em></p>
+<p><em>Jernbaner: L<sub>den</sub> ≤ 52 dB med åbne vinduer <sup>3)</sup></em></p></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4"><p>**Noter<br />
+**</p>
+<p>1)   Grænseværdien for L<sub>den</sub> gældende for de enkelte trafikstøjkilder hver for sig.<br />
+<br />
+</p>
+<p>2)   Byfornyelse, huludfyldning o.l. i eksisterende boligområder samt områder for blandede byfunktioner i bymæssig bebyggelse.<br />
+<br />
+</p>
+<p>3)   Specielle løsninger er nødvendige.<br />
+<br />
+</p>
+<p>4)   Grænseværdierne gælder i møblerede undervisningsrum.<br />
+<br />
+</p>
+<p>5)   Lokale bestemmelser kan omfatte undervisningsbygninger ved en udendørs støjbelastning over 68 dB.</p></td>
+</tr>
+</tbody>
+</table>
 
-1)   Grænseværdien for L~den~ gældende for de enkelte trafikstøjkilder hver for sig.\                                                                                                                                               |
-| \                                                                                                                                                                                                                                   |
-|                                                                                                                                                                                                                                     |
-|
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td><p><strong>Støjbelastning ude</strong></p>
+<p><strong>Veje: L<sub>den</sub> ≤ 58 dB</strong></p>
+<p><strong>Jernbaner: L<sub>den</sub> ≤ 64 dB</strong></p></td>
+</tr>
+</tbody>
+</table>
 
-2)   Byfornyelse, huludfyldning o.l. i eksisterende boligområder samt områder for blandede byfunktioner i bymæssig bebyggelse.\                                                                                                     |
-| \                                                                                                                                                                                                                                   |
-|                                                                                                                                                                                                                                     |
-|
-
-3)   Specielle løsninger er nødvendige.\                                                                                                                                                                                            |
-| \                                                                                                                                                                                                                                   |
-|                                                                                                                                                                                                                                     |
-|
-
-4)   Grænseværdierne gælder i møblerede undervisningsrum.\                                                                                                                                                                          |
-| \                                                                                                                                                                                                                                   |
-|                                                                                                                                                                                                                                     |
-|
-
-5)   Lokale bestemmelser kan omfatte undervisningsbygninger ved en udendørs støjbelastning over 68 dB.                                                                                                                              |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-
-+-----------------------------------------------------------------------+
-| **Støjbelastning ude**                                                |
-|                                                                       |
-| **Veje: L~den~ ≤ 58 dB**                                              |
-|                                                                       |
-| **Jernbaner: L~den~ ≤ 64 dB**                                         |
-+-----------------------------------------------------------------------+
-
-+-----------------------------------------------------------------------+
-| **Støjbelastning ude**                                                |
-|                                                                       |
-| **Veje: L~den~ ≤ 58 dB**                                              |
-|                                                                       |
-| **Jernbaner: L~den~ ≤ 64 dB**                                         |
-+-----------------------------------------------------------------------+
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td><p><strong>Støjbelastning ude</strong></p>
+<p><strong>Veje: L<sub>den</sub> ≤ 58 dB</strong></p>
+<p><strong>Jernbaner: L<sub>den</sub> ≤ 64 dB</strong></p></td>
+</tr>
+</tbody>
+</table>
 
 ### Støj fra tekniske installationer i undervisningsbygninger {#2304ac12-0b4e-46e7-a2ff-fb4918293a99}
 
@@ -172,34 +239,44 @@ Referencer findes i [afsnit 1.5](../generel_vejledning/referenceliste "Referenc
 
 Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde Bygningsreglementets funktionskrav, er anført separat i tabellerne (i kursiv).
 
-+---------------------------------------------+-------------------------------------+-----------------------------------+
-| **Undervisningsbygninger -- Tabel 3.3 Støj fra tekniske installationer** \                                            |
-+---------------------------------------------+-------------------------------------+-----------------------------------+
-| **Rumtype**\                                | **Støjkilde ^2)^**                  | ***L~Aeq~***                      |
-+---------------------------------------------+-------------------------------------+-----------------------------------+
-| I undervisningsrum ^1), a)^     **\[4\]**  | Bygningens tekniske installationer  | ≤ 30 dB\                          |
-+---------------------------------------------+-------------------------------------+-----------------------------------+
-| ***Supplerende vejledning****     ***\[3\], \[9\]**                                                                   |
-|                                                                                                                       |
-|
-
-a)  *For tekniske installationer, der giver anledning til lavfrekvent støj i undervisningsrum:*                       |
-|                                                                                                                       |
-| *A-vægtet, ækvivalent lydtrykniveau i lavfrekvensområdet, L*~p*A,LF*~*  ≤ 30 dB.*                                     |
-|                                                                                                                       |
-| *Tilsvarende grænseværdi for G-vægtet infralydniveau, L~pG~ ≤ 85 dB*                                                  |
-+-----------------------------------------------------------------------------------------------------------------------+
-| **Noter\**                                                                                                            |
-|                                                                                                                       |
-|
-
-1)   Grænseværdien gælder i møblerede rum.\                                                                           |
-| \                                                                                                                     |
-|                                                                                                                       |
-|
-
-2)   Grænseværdien gælder for den enkelte installation.                                                               |
-+-----------------------------------------------------------------------------------------------------------------------+
+<table style="width:99%;">
+<colgroup>
+<col style="width: 38%" />
+<col style="width: 31%" />
+<col style="width: 29%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="3"><strong>Undervisningsbygninger – Tabel 3.3 Støj fra tekniske installationer</strong> <br />
+</td>
+</tr>
+<tr>
+<td><strong>Rumtype</strong><br />
+</td>
+<td><strong>Støjkilde <sup>2)</sup></strong></td>
+<td><strong><em>L<sub>Aeq</sub></em></strong></td>
+</tr>
+<tr>
+<td>I undervisningsrum ^1), a)^     <strong>[4]</strong></td>
+<td>Bygningens tekniske installationer</td>
+<td>≤ 30 dB<br />
+</td>
+</tr>
+<tr>
+<td colspan="3"><p><strong><em>Supplerende vejledning</em></strong><em>     </em><strong>[3], [9]</strong></p>
+<p>a)  <em>For tekniske installationer, der giver anledning til lavfrekvent støj i undervisningsrum:</em></p>
+<p><em>A-vægtet, ækvivalent lydtrykniveau i lavfrekvensområdet, L</em><sub>p<em>A,LF</em></sub><em>  ≤ 30 dB.</em></p>
+<p><em>Tilsvarende grænseværdi for G-vægtet infralydniveau, L<sub>pG</sub> ≤ 85 dB</em></p></td>
+</tr>
+<tr>
+<td colspan="3"><p>**Noter**</p>
+<p>1)   Grænseværdien gælder i møblerede rum.<br />
+<br />
+</p>
+<p>2)   Grænseværdien gælder for den enkelte installation.</p></td>
+</tr>
+</tbody>
+</table>
 
 ### Rumakustik i undervisningsbygninger {#36e4855a-6bb4-4abf-9f19-e44479e8114f}
 
@@ -211,65 +288,118 @@ Referencer findes i [afsnit 1.5](../generel_vejledning/referenceliste "Referenc
 
 Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde bygningsreglementets funktionskrav, er anført separat i tabellerne (i kursiv).
 
-+-----------------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
-| **Undervisningsbygninger -- Tabel 3.4 Rumakustik**                                                                                                                                                                                |
-+-----------------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
-| **Efterklangstid     \[4\]**                                                            | **T ^1), 3), a)^**                                | **Frekvensområde**                                                 |
-+-----------------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
-| Klasserum ^b)^                                                                          | T ≤ 0,6 s                                                          | 125-4000Hz                                                         |
-+-----------------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
-| Undervisningsrum til sløjd                                                              | T ≤ 0,6 s                                                          | 125-4000Hz\                                                        |
-+-----------------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
-| Undervisningsrum til sang og musik mindre end 250 m^3 ^(korsang og akustisk musik) ^4)^ | 0,8 ≤ T ≤ 1,1 s                                                    | 125-4000Hz\                                                        |
-+-----------------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
-| Undervisningsrum til sang og musik mindre end 250 m^3 ^(elektrisk forstærket) ^4)^      | T ≤ 0,6 s\                                                         | 125-4000Hz\                                                        |
-+-----------------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
-| Gymnastiksale mindre end 3500 m^3^                                                      | T ≤ 1,6 s                                                          | 125-4000Hz\                                                        |
-+-----------------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
-| Gymnastiksale større end 3500 m^3^                                                      | T ≤ 1,8 s                                                          | 125-4000Hz\                                                        |
-+-----------------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
-| Svømmehaller mindre end 1500 m^3^                                                       | T ≤ 2,0 s                                                          | 125-4000Hz                                                         |
-+-----------------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
-| Svømmehaller større end 1500 m^3^                                                       | T ≤ 2,3 s                                                          | 125-4000Hz                                                         |
-+-----------------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
-| Fællesrum samt fællesgange, der benyttes til gruppearbejde og lignende                  | T ≤ 0,4 s                                                          | 125-4000Hz                                                         |
-+-----------------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
-| Fællesgange, der ikke benyttes til gruppearbejde og lignende                            | T ≤ 0,9 s                                                          | 500-2000 Hz                                                        |
-+-----------------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
-| Trapperum                                                                               | T ≤ 1,3 s                                                          | 500-2000 Hz\                                                       |
-+-----------------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
-| **Absorptionsareal     \[4\]**                                                          | **A ^2), 3), a)^**                                | **Frekvensområde**                                                 |
-+-----------------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
-| Åbne undervisningsområder ^c)^                                                          | A ≥ 1,3 × gulvareal                                                |  125-4000Hz\                                                       |
-+-----------------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
-| Fællesrum med loftshøjde større end 4 m og rumvolumen større end 300 m^3^               | A ≥ 1,2 × gulvareal                                                |  125-4000Hz\                                                       |
-+-----------------------------------------------------------------------------------------+--------------------------------------------------------------------+--------------------------------------------------------------------+
-| ***Supplerende vejledning****     ***\[4\]**                                                                                                                                                                                      |
-|                                                                                                                                                                                                                                   |
-| *a)   Fordeling af lydabsorbenter i rummet har betydning, se \[4\].*                                                                                                                                                              |
-|                                                                                                                                                                                                                                   |
-| *b)   For små undervisningsrum for mindre grupper dog T ≤ 0,4-0,5 s*                                                                                                                                                              |
-|                                                                                                                                                                                                                                   |
-| *c)   For åbne undervisningsområder gælder specielle forhold, se \[4\].*                                                                                                                                                          |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Noter\**                                                                                                                                                                                                                        |
-|                                                                                                                                                                                                                                   |
-|
-
-1)   Maksimumsværdien for efterklangstiden gælder for hvert 1/1-oktavbånd i frekvensområdet. Ved 125 Hz kan den angivne maksimumsværdi dog tillægges 20 %.\                                                                       |
-| \                                                                                                                                                                                                                                 |
-|                                                                                                                                                                                                                                   |
-|
-
-2)   Minimumsværdien for absorptionsarealet gælder for hvert 1/1-oktavbånd.i frekvensområdet. Ved 125 Hz kan den angivne minimumsværdi dog fratrækkes 20 %.\                                                                      |
-| \                                                                                                                                                                                                                                 |
-|                                                                                                                                                                                                                                   |
-|
-
-3)   Grænseværdierne gælder i møblerede rum. For gymnastiksale, svømmehaller, fællesgange (uden gruppearbejde) og trapperum dog i umøblerede rum.\                                                                                |
-| \                                                                                                                                                                                                                                 |
-|                                                                                                                                                                                                                                   |
-|
-
-4)   Kan der ikke etableres særskilte rum til de to sang- og musikanvendelser, anbefales det at udføre undervisningsrum til sang og musik med variabel akustik, så begge anvendelser kan tilgodeses.                              |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+<table style="width:100%;">
+<colgroup>
+<col style="width: 39%" />
+<col style="width: 30%" />
+<col style="width: 30%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="3"><strong>Undervisningsbygninger – Tabel 3.4 Rumakustik</strong></td>
+</tr>
+<tr>
+<td><strong>Efterklangstid     [4]</strong></td>
+<td><strong>T ^1), 3), a)^</strong></td>
+<td><strong>Frekvensområde</strong></td>
+</tr>
+<tr>
+<td>Klasserum <sup>b)</sup></td>
+<td>T ≤ 0,6 s</td>
+<td>125-4000Hz</td>
+</tr>
+<tr>
+<td>Undervisningsrum til sløjd</td>
+<td>T ≤ 0,6 s</td>
+<td>125-4000Hz<br />
+</td>
+</tr>
+<tr>
+<td>Undervisningsrum til sang og musik mindre end 250 m<sup>3 </sup>(korsang og akustisk musik) <sup>4)</sup></td>
+<td>0,8 ≤ T ≤ 1,1 s</td>
+<td>125-4000Hz<br />
+</td>
+</tr>
+<tr>
+<td>Undervisningsrum til sang og musik mindre end 250 m<sup>3 </sup>(elektrisk forstærket) <sup>4)</sup></td>
+<td>T ≤ 0,6 s<br />
+</td>
+<td>125-4000Hz<br />
+</td>
+</tr>
+<tr>
+<td>Gymnastiksale mindre end 3500 m<sup>3</sup></td>
+<td>T ≤ 1,6 s</td>
+<td>125-4000Hz<br />
+</td>
+</tr>
+<tr>
+<td>Gymnastiksale større end 3500 m<sup>3</sup></td>
+<td>T ≤ 1,8 s</td>
+<td>125-4000Hz<br />
+</td>
+</tr>
+<tr>
+<td>Svømmehaller mindre end 1500 m<sup>3</sup></td>
+<td>T ≤ 2,0 s</td>
+<td>125-4000Hz</td>
+</tr>
+<tr>
+<td>Svømmehaller større end 1500 m<sup>3</sup></td>
+<td>T ≤ 2,3 s</td>
+<td>125-4000Hz</td>
+</tr>
+<tr>
+<td>Fællesrum samt fællesgange, der benyttes til gruppearbejde og lignende</td>
+<td>T ≤ 0,4 s</td>
+<td>125-4000Hz</td>
+</tr>
+<tr>
+<td>Fællesgange, der ikke benyttes til gruppearbejde og lignende</td>
+<td>T ≤ 0,9 s</td>
+<td>500-2000 Hz</td>
+</tr>
+<tr>
+<td>Trapperum</td>
+<td>T ≤ 1,3 s</td>
+<td>500-2000 Hz<br />
+</td>
+</tr>
+<tr>
+<td><strong>Absorptionsareal     [4]</strong></td>
+<td><strong>A ^2), 3), a)^</strong></td>
+<td><strong>Frekvensområde</strong></td>
+</tr>
+<tr>
+<td>Åbne undervisningsområder <sup>c)</sup></td>
+<td>A ≥ 1,3 × gulvareal</td>
+<td> 125-4000Hz<br />
+</td>
+</tr>
+<tr>
+<td>Fællesrum med loftshøjde større end 4 m og rumvolumen større end 300 m<sup>3</sup></td>
+<td>A ≥ 1,2 × gulvareal</td>
+<td> 125-4000Hz<br />
+</td>
+</tr>
+<tr>
+<td colspan="3"><p><strong><em>Supplerende vejledning</em></strong><em>     </em><strong>[4]</strong></p>
+<p><em>a)   Fordeling af lydabsorbenter i rummet har betydning, se [4].</em></p>
+<p><em>b)   For små undervisningsrum for mindre grupper dog T ≤ 0,4-0,5 s</em></p>
+<p><em>c)   For åbne undervisningsområder gælder specielle forhold, se [4].</em></p></td>
+</tr>
+<tr>
+<td colspan="3"><p>**Noter**</p>
+<p>1)   Maksimumsværdien for efterklangstiden gælder for hvert 1/1-oktavbånd i frekvensområdet. Ved 125 Hz kan den angivne maksimumsværdi dog tillægges 20 %.<br />
+<br />
+</p>
+<p>2)   Minimumsværdien for absorptionsarealet gælder for hvert 1/1-oktavbånd.i frekvensområdet. Ved 125 Hz kan den angivne minimumsværdi dog fratrækkes 20 %.<br />
+<br />
+</p>
+<p>3)   Grænseværdierne gælder i møblerede rum. For gymnastiksale, svømmehaller, fællesgange (uden gruppearbejde) og trapperum dog i umøblerede rum.<br />
+<br />
+</p>
+<p>4)   Kan der ikke etableres særskilte rum til de to sang- og musikanvendelser, anbefales det at udføre undervisningsrum til sang og musik med variabel akustik, så begge anvendelser kan tilgodeses.</p></td>
+</tr>
+</tbody>
+</table>

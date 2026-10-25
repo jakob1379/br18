@@ -68,21 +68,62 @@ Det forudsættes generelt for alle nedenstående eksempler, der ikke skal indpla
 
 Det forudsættes ydermere for de eksempler, der skal indplaceres i en konstruktionsklasse og brandklasse, at det pågældende konstruktionsafsnit og bygningsafsnit kan indplaceres i konstruktionsklasse 1 og brandklasse 1, således, at der ikke skal tilknyttes en certificeret statiker og brandrådgiver som angivet.
 
-+------------------------------------------------------------------------------------------------+--------------------------------------------+------------------------------------+-------------------------------------------+------------------------------------------------+
-| **Tabel 3: Eksempler på ombygninger og andre forandringer i enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse der kræver byggetilladelse**                                                                                                                                  |
-+------------------------------------------------------------------------------------------------+--------------------------------------------+------------------------------------+-------------------------------------------+------------------------------------------------+
-| **Byggearbejde**                                                                               | **Skal indplaceres i konstruktionsklasse** | **Skal indplaceres i brandklasse** | **Certificeret statiker skal tilknyttes** | **Certificeret brandrådgiver skal tilknyttes** |
-+------------------------------------------------------------------------------------------------+--------------------------------------------+------------------------------------+-------------------------------------------+------------------------------------------------+
-| Etablering af kvist, der udvider etagearealet.                                                 | Nej                                        | Nej                                | Nej                                       | Nej                                            |
-+------------------------------------------------------------------------------------------------+--------------------------------------------+------------------------------------+-------------------------------------------+------------------------------------------------+
-| Udvendig efterisolering på mere end 25 cm, der udvider etagearealet.                           | Nej                                        | Nej                                | Nej                                       | Nej                                            |
-+------------------------------------------------------------------------------------------------+--------------------------------------------+------------------------------------+-------------------------------------------+------------------------------------------------+
-| Indretning af liberalt erhverv, der er en ændring af en hel beboelse til erhvervsformål.       | Nej                                        | Nej                                | Nej                                       | Nej                                            |
-+------------------------------------------------------------------------------------------------+--------------------------------------------+------------------------------------+-------------------------------------------+------------------------------------------------+
-| Udnyttelse af uudnyttet tagetage til beboelse, der udvider etagearealet.                       | Ja                                         | Ja                                 | Nej                                       | Nej                                            |
-+------------------------------------------------------------------------------------------------+--------------------------------------------+------------------------------------+-------------------------------------------+------------------------------------------------+
-| Udnyttelse af pulterrum i udnyttelig tagetage til beboelse, der ændrer anvendelsen væsentligt. | Ja                                         | Ja                                 | Nej                                       | Nej                                            |
-+------------------------------------------------------------------------------------------------+--------------------------------------------+------------------------------------+-------------------------------------------+------------------------------------------------+
+<table style="width:99%;">
+<colgroup>
+<col style="width: 35%" />
+<col style="width: 16%" />
+<col style="width: 13%" />
+<col style="width: 16%" />
+<col style="width: 17%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="5"><strong>Tabel 3: Eksempler på ombygninger og andre forandringer i enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse der kræver byggetilladelse</strong></td>
+</tr>
+<tr>
+<td><strong>Byggearbejde</strong></td>
+<td><strong>Skal indplaceres i konstruktionsklasse</strong></td>
+<td><strong>Skal indplaceres i brandklasse</strong></td>
+<td><strong>Certificeret statiker skal tilknyttes</strong></td>
+<td><strong>Certificeret brandrådgiver skal tilknyttes</strong></td>
+</tr>
+<tr>
+<td>Etablering af kvist, der udvider etagearealet.</td>
+<td>Nej</td>
+<td>Nej</td>
+<td>Nej</td>
+<td>Nej</td>
+</tr>
+<tr>
+<td>Udvendig efterisolering på mere end 25 cm, der udvider etagearealet.</td>
+<td>Nej</td>
+<td>Nej</td>
+<td>Nej</td>
+<td>Nej</td>
+</tr>
+<tr>
+<td>Indretning af liberalt erhverv, der er en ændring af en hel beboelse til erhvervsformål.</td>
+<td>Nej</td>
+<td>Nej</td>
+<td>Nej</td>
+<td>Nej</td>
+</tr>
+<tr>
+<td>Udnyttelse af uudnyttet tagetage til beboelse, der udvider etagearealet.</td>
+<td>Ja</td>
+<td>Ja</td>
+<td>Nej</td>
+<td>Nej</td>
+</tr>
+<tr>
+<td>Udnyttelse af pulterrum i udnyttelig tagetage til beboelse, der ændrer anvendelsen væsentligt.</td>
+<td>Ja</td>
+<td>Ja</td>
+<td>Nej</td>
+<td>Nej</td>
+</tr>
+</tbody>
+</table>
 
 [3.2](../ombygninger-der-kan-opfoeres-uden-byggetilladelse_/)
 

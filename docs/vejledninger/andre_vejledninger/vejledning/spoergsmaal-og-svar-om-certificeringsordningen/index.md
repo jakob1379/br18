@@ -77,51 +77,66 @@ Certificerede rådgivere, der er certificeret til klasse 2-4 samt tredjepartskon
 
 Som følge heraf skal den certificerede hver 12. måned indsende en oversigt til certificeringsorganet over samtlige projekter i klasse 2-4, som vedkommende har virket i som certificeret, og hvortil der er meldt byggetilladelse. Oversigten skal indeholde oplysninger som angivet nedenfor:
 
-+-----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Krav, jf. certificeringsbekendtgørelsen § 29, stk. 1, nr. 1-6**           | **Vejledning til krav**                                                                                                                                                                                            |
-+-----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 1\) Hvilket virke, den certificerede statiker eller brandrådgiver har haft. | Den certificerede kan varetage sit virke i en af følgende funktioner:                                                                                                                                              |
-|                                                                             |                                                                                                                                                                                                                    |
-|                                                                             | - Udarbejdende                                                                                                                                                                                                     |
-|                                                                             | - Kontrollerende                                                                                                                                                                                                   |
-|                                                                             | - Tredjepartskontrollant                                                                                                                                                                                           |
-|                                                                             |                                                                                                                                                                                                                    |
-|                                                                             | Den certificerede kan redegøre for sit virke ved beskrivelse af:                                                                                                                                                   |
-|                                                                             |                                                                                                                                                                                                                    |
-|                                                                             | - Hvilke dele, den certificerede selv har udarbejdet eller kontrolleret                                                                                                                                            |
-|                                                                             | - Hvilke dele, den certificerede har fået assistance til eller har uddelegeret til andre udarbejdende eller kontrollerende, og herunder hvilket niveau af kontrol, den certificerede har udført i den forbindelse. |
-|                                                                             |                                                                                                                                                                                                                    |
-|                                                                             | Såfremt projektet er færdigmeldt, kan der alene henvises til redegørelsen i sluterklæringen.                                                                                                                       |
-|                                                                             |                                                                                                                                                                                                                    |
-|                                                                             | For projekter, som ikke er færdigmeldt, kan der alene henvises til redegørelsen i starterklæringen.                                                                                                                |
-|                                                                             |                                                                                                                                                                                                                    |
-|                                                                             | Såfremt der under projektet er skiftet certificeret, skal der desuden også redegøres for hvilke dele, der er overdraget fra den tidligere certificerede.                                                           |
-+-----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2\) I hvilken klasse projektet er indplaceret.                              | Det angives i hvilken klasse byggeprojektet er indplaceret, jf. BR18, kapitel 26 og 27.                                                                                                                            |
-|                                                                             |                                                                                                                                                                                                                    |
-|                                                                             | Bygningsejer kan vælge en højere klasse end projektet er indplaceret i, jf. BR18, kapitel 26 og 27. Dette kan f.eks. skyldes et ønske om øget fleksibilitet i projektet.                                           |
-|                                                                             |                                                                                                                                                                                                                    |
-|                                                                             | Såfremt der ikke er overensstemmelse mellem den klasse projektet er indplaceret i, jf. BR18, kapitel 26 og 27, og den valgte klasse for projektet, bør dette angives som årsagen hertil.                           |
-+-----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 3\) Hvilken kommune, der har udstedt byggetilladelse til projektet.         | Det angives hvilken kommune, der har udstedt byggetilladelse til projekterne.                                                                                                                                      |
-|                                                                             |                                                                                                                                                                                                                    |
-|                                                                             | Igangværende projekter, der endnu ikke har fået udstedt en byggetilladelse, bør ikke angives.                                                                                                                      |
-+-----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 4\) Byggesagen, som gør, at denne kan identificeres entydigt.               | Der skal angives en entydig identifikation af byggesagen.                                                                                                                                                          |
-|                                                                             |                                                                                                                                                                                                                    |
-|                                                                             | Dette kan være i form af en:                                                                                                                                                                                       |
-|                                                                             |                                                                                                                                                                                                                    |
-|                                                                             | - Matrikelbetegnelse                                                                                                                                                                                               |
-|                                                                             | - Adgangsadresse                                                                                                                                                                                                   |
-|                                                                             | - Ejendomsnummer og etageangivelse                                                                                                                                                                                 |
-|                                                                             | - Byggesagens journalnummer.                                                                                                                                                                                       |
-+-----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 5\) Dato for udstedt byggetilladelse.                                       | For hvert projekt, der har fået udstedt en byggetilladelse, angives udstedelsesdatoen for byggetilladelsen.                                                                                                        |
-+-----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 6\) Dato for sluterklæringer, såfremt en sådan er indsendt til kommunen.    | For hvert projekt, hvor der er indsendt en sluterklæring, angives underskriftsdatoen for sluterklæringen.                                                                                                          |
-|                                                                             |                                                                                                                                                                                                                    |
-|                                                                             | Såfremt den certificerede i løbet af projektet er udskiftet, fremsendes tillige oplysninger om overdragelsesdato.                                                                                                  |
-+-----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+<table>
+<colgroup>
+<col style="width: 26%" />
+<col style="width: 73%" />
+</colgroup>
+<tbody>
+<tr>
+<td><strong>Krav, jf. certificeringsbekendtgørelsen § 29, stk. 1, nr. 1-6</strong></td>
+<td><strong>Vejledning til krav</strong></td>
+</tr>
+<tr>
+<td>1) Hvilket virke, den certificerede statiker eller brandrådgiver har haft.</td>
+<td><p>Den certificerede kan varetage sit virke i en af følgende funktioner:</p>
+<ul>
+<li>Udarbejdende</li>
+<li>Kontrollerende</li>
+<li>Tredjepartskontrollant</li>
+</ul>
+<p>Den certificerede kan redegøre for sit virke ved beskrivelse af:</p>
+<ul>
+<li>Hvilke dele, den certificerede selv har udarbejdet eller kontrolleret</li>
+<li>Hvilke dele, den certificerede har fået assistance til eller har uddelegeret til andre udarbejdende eller kontrollerende, og herunder hvilket niveau af kontrol, den certificerede har udført i den forbindelse.</li>
+</ul>
+<p>Såfremt projektet er færdigmeldt, kan der alene henvises til redegørelsen i sluterklæringen.</p>
+<p>For projekter, som ikke er færdigmeldt, kan der alene henvises til redegørelsen i starterklæringen.</p>
+<p>Såfremt der under projektet er skiftet certificeret, skal der desuden også redegøres for hvilke dele, der er overdraget fra den tidligere certificerede.</p></td>
+</tr>
+<tr>
+<td>2) I hvilken klasse projektet er indplaceret.</td>
+<td><p>Det angives i hvilken klasse byggeprojektet er indplaceret, jf. BR18, kapitel 26 og 27.</p>
+<p>Bygningsejer kan vælge en højere klasse end projektet er indplaceret i, jf. BR18, kapitel 26 og 27. Dette kan f.eks. skyldes et ønske om øget fleksibilitet i projektet.</p>
+<p>Såfremt der ikke er overensstemmelse mellem den klasse projektet er indplaceret i, jf. BR18, kapitel 26 og 27, og den valgte klasse for projektet, bør dette angives som årsagen hertil.</p></td>
+</tr>
+<tr>
+<td>3) Hvilken kommune, der har udstedt byggetilladelse til projektet.</td>
+<td><p>Det angives hvilken kommune, der har udstedt byggetilladelse til projekterne.</p>
+<p>Igangværende projekter, der endnu ikke har fået udstedt en byggetilladelse, bør ikke angives.</p></td>
+</tr>
+<tr>
+<td>4) Byggesagen, som gør, at denne kan identificeres entydigt.</td>
+<td><p>Der skal angives en entydig identifikation af byggesagen.</p>
+<p>Dette kan være i form af en:</p>
+<ul>
+<li>Matrikelbetegnelse</li>
+<li>Adgangsadresse</li>
+<li>Ejendomsnummer og etageangivelse</li>
+<li>Byggesagens journalnummer.</li>
+</ul></td>
+</tr>
+<tr>
+<td>5) Dato for udstedt byggetilladelse.</td>
+<td>For hvert projekt, der har fået udstedt en byggetilladelse, angives udstedelsesdatoen for byggetilladelsen.</td>
+</tr>
+<tr>
+<td>6) Dato for sluterklæringer, såfremt en sådan er indsendt til kommunen.</td>
+<td><p>For hvert projekt, hvor der er indsendt en sluterklæring, angives underskriftsdatoen for sluterklæringen.</p>
+<p>Såfremt den certificerede i løbet af projektet er udskiftet, fremsendes tillige oplysninger om overdragelsesdato.</p></td>
+</tr>
+</tbody>
+</table>
 
 Kontrollen foretages på baggrund af minimum ét af certificeringsorganet udvalgt projekt, som den certificerede har virket på, uafhængigt af hvilken klasse projektet er indplaceret i.
 
@@ -133,42 +148,79 @@ Bedømmelsen skal foretages af mindst én faglig bedømmer, jf. certificeringsbe
 
 Bedømmelsen omfatter som minimum:
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------+
-| **Emne**                                                                                                                                                                                                      | **Indhold**                                                                                                                                                                                     | **Niveau for virke** |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------+
-| En kontrol af start- og sluterklæringen for at bedømme, om start- og sluterklæringen opfylder sit formål                                                                                                      | a\. Redegørelse for den certificeredes virke med henblik på at bedømme om vedkommende har virket som anført i beskrivelsen af virket.                                                           | Stort                |
-|                                                                                                                                                                                                               +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------+
-|                                                                                                                                                                                                               | b\. Overensstemmelse mellem start- og sluterklæring for så vidt angår indplacering i konstruktionsklasse(r)/brandklase(r).                                                                      | Stort                |
-|                                                                                                                                                                                                               +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------+
-|                                                                                                                                                                                                               | c\. Om de valgte konstruktionsklasser/brandklasser er korrekte, og at dokumentation herfor er retvisende.                                                                                       | Meget stort          |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------+
-| En kontrol af, om dokumentation for de statiske forhold/brandforhold udgør et samlet hele og kan anvendes til at godtgøre, at bygningsreglementets krav til bærende konstruktioner/brandforhold er overholdt. | a\. Om projektet er dokumenteret i sin helhed, jf. BR18, kapitel 28 og 29.                                                                                                                      |  Stort               |
-|                                                                                                                                                                                                               +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------+
-|                                                                                                                                                                                                               | b\. Om der er sammenhæng i dokumentationen for så vidt angår grænseflader for konstruktionsafsnit for de statiske forhold og strategidesign og driftsanvisninger for de brandtekniske forhold.  | Stort                |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------+
-| En kontrol af, om den certificerede har opfyldt minimumskravet til virket.                                                                                                                                    | a\. Omfang af de ydelser, som den certificerede selv har udarbejdet eller kontrolleret og om minimumskravet til virket er opfyldt.                                                              | Stort                |
-|                                                                                                                                                                                                               +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------+
-|                                                                                                                                                                                                               | b\. Kontrol af oplistning af de opgaver, som den certificerede har uddelegeret, og af den certificeredes proces for kontrol heraf.                                                              | Stort                |
-|                                                                                                                                                                                                               +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------+
-|                                                                                                                                                                                                               | c\. Vurdering af de kompetencer for de personer, der udarbejder eller kontrollerer dokumentation i assistance eller uddelegering.                                                               | Tilfredsstillende    |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------+
-| En kontrol af, om kontrolplanen er fyldestgørende.                                                                                                                                                            | a\. Udpegning af kritiske fokuspunkter, som er væsentlige for byggeriets sikkerhed.                                                                                                             | Meget stort          |
-|                                                                                                                                                                                                               +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------+
-|                                                                                                                                                                                                               | b\. Valg af kontroltyper og kontrolniveau, og at de er gennemført som planlagt.                                                                                                                 | Stort                |
-|                                                                                                                                                                                                               +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------+
-|                                                                                                                                                                                                               | c\. Håndtering af eventuelle afvigelser og ændringer i projektet.                                                                                                                               | Stort                |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------+
+<table style="width:100%;">
+<colgroup>
+<col style="width: 48%" />
+<col style="width: 45%" />
+<col style="width: 5%" />
+</colgroup>
+<tbody>
+<tr>
+<td><strong>Emne</strong></td>
+<td><strong>Indhold</strong></td>
+<td><strong>Niveau for virke</strong></td>
+</tr>
+<tr>
+<td rowspan="3">En kontrol af start- og sluterklæringen for at bedømme, om start- og sluterklæringen opfylder sit formål</td>
+<td>a. Redegørelse for den certificeredes virke med henblik på at bedømme om vedkommende har virket som anført i beskrivelsen af virket.</td>
+<td>Stort</td>
+</tr>
+<tr>
+<td>b. Overensstemmelse mellem start- og sluterklæring for så vidt angår indplacering i konstruktionsklasse(r)/brandklase(r).</td>
+<td>Stort</td>
+</tr>
+<tr>
+<td>c. Om de valgte konstruktionsklasser/brandklasser er korrekte, og at dokumentation herfor er retvisende.</td>
+<td>Meget stort</td>
+</tr>
+<tr>
+<td rowspan="2">En kontrol af, om dokumentation for de statiske forhold/brandforhold udgør et samlet hele og kan anvendes til at godtgøre, at bygningsreglementets krav til bærende konstruktioner/brandforhold er overholdt.</td>
+<td>a. Om projektet er dokumenteret i sin helhed, jf. BR18, kapitel 28 og 29.</td>
+<td> Stort</td>
+</tr>
+<tr>
+<td>b. Om der er sammenhæng i dokumentationen for så vidt angår grænseflader for konstruktionsafsnit for de statiske forhold og strategidesign og driftsanvisninger for de brandtekniske forhold.</td>
+<td>Stort</td>
+</tr>
+<tr>
+<td rowspan="3">En kontrol af, om den certificerede har opfyldt minimumskravet til virket.</td>
+<td>a. Omfang af de ydelser, som den certificerede selv har udarbejdet eller kontrolleret og om minimumskravet til virket er opfyldt.</td>
+<td>Stort</td>
+</tr>
+<tr>
+<td>b. Kontrol af oplistning af de opgaver, som den certificerede har uddelegeret, og af den certificeredes proces for kontrol heraf.</td>
+<td>Stort</td>
+</tr>
+<tr>
+<td>c. Vurdering af de kompetencer for de personer, der udarbejder eller kontrollerer dokumentation i assistance eller uddelegering.</td>
+<td>Tilfredsstillende</td>
+</tr>
+<tr>
+<td rowspan="3">En kontrol af, om kontrolplanen er fyldestgørende.</td>
+<td>a. Udpegning af kritiske fokuspunkter, som er væsentlige for byggeriets sikkerhed.</td>
+<td>Meget stort</td>
+</tr>
+<tr>
+<td>b. Valg af kontroltyper og kontrolniveau, og at de er gennemført som planlagt.</td>
+<td>Stort</td>
+</tr>
+<tr>
+<td>c. Håndtering af eventuelle afvigelser og ændringer i projektet.</td>
+<td>Stort</td>
+</tr>
+</tbody>
+</table>
 
 Eventuelle fejl og mangler i dokumenterne, som er ansøgerens virke uvedkommende, indgår ikke i bedømmelsen.
 
 Beskrivelse af niveau for den certificeredes virke fremgår af tabellen nedenfor. 
 
-  ---------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Niveau for virke**   **Beskrivelse**
-  Meget stort            Granskningen viser, at den certificerede med stor sikkerhed virker som certificeret, herunder kan udarbejde eller kontrollere dokumentationen, og at der kun er få fejl eller mangler i både virke og dokumentationen, hvor ingen er væsentlige for byggeriets sikkerhed. 
-  Stort                  Granskningen viser, at den certificerede med stor sikkerhed virker som certificeret, herunder kan udarbejde eller kontrollere dokumentationen, og at der kun er nogle fejl eller mangler i både virke og dokumentationen, hvor ingen er væsentlige for byggeriets sikkerhed.
-  Tilfredsstillende      Granskningen viser, at den certificerede virker som certificeret, herunder kan udarbejde eller kontrollere dokumentationen, og at der er flere fejl eller mangler i både virke og dokumentationen, men hvor ingen er væsentlige for byggeriets sikkerhed. 
-  ---------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  |  |
+|:---|:---|
+| **Niveau for virke** | **Beskrivelse** |
+| Meget stort | Granskningen viser, at den certificerede med stor sikkerhed virker som certificeret, herunder kan udarbejde eller kontrollere dokumentationen, og at der kun er få fejl eller mangler i både virke og dokumentationen, hvor ingen er væsentlige for byggeriets sikkerhed.  |
+| Stort | Granskningen viser, at den certificerede med stor sikkerhed virker som certificeret, herunder kan udarbejde eller kontrollere dokumentationen, og at der kun er nogle fejl eller mangler i både virke og dokumentationen, hvor ingen er væsentlige for byggeriets sikkerhed. |
+| Tilfredsstillende | Granskningen viser, at den certificerede virker som certificeret, herunder kan udarbejde eller kontrollere dokumentationen, og at der er flere fejl eller mangler i både virke og dokumentationen, men hvor ingen er væsentlige for byggeriets sikkerhed.  |
 
 Certificeringsorganet skal på baggrund af bedømmelsen udarbejde en bedømmelsesrapport, der fremsendes til den certificerede, der er kontrolleret. Bedømmelsesrapporten skal tillige omfatte indsatsområder for den kontrollerede certificerede og som certificeringsorganet vurderer relevante på baggrund af den gennemførte kontrol. Indsatsområder kan f.eks. være områder, hvor den certificeredes virke er opfyldt, men hvor der er konstateret fejl eller mangler i enten dokumentationen eller virket - dog uden at disse er væsentlige for byggeriets sikkerhed.
 

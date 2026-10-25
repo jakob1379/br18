@@ -39,27 +39,41 @@ Referencer findes i [afsnit 1.5](../../generel_vejledning/referenceliste/ "Refe
 
 Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde Bygningsreglementets funktionskrav, er anført separat i tabellerne (i kursiv).
 
-+---------------------------------------------+-------------------------------------+-----------------------------------+
-| **Undervisningsbygninger -- Tabel 3.3 Støj fra tekniske installationer** \                                            |
-+---------------------------------------------+-------------------------------------+-----------------------------------+
-| **Rumtype**\                                | **Støjkilde ^2)^**                  | ***L~Aeq~***                      |
-+---------------------------------------------+-------------------------------------+-----------------------------------+
-| I undervisningsrum ^1), a)^*     ***\[4\]**  | Bygningens tekniske installationer  | ≤ 30 dB                           |
-+---------------------------------------------+-------------------------------------+-----------------------------------+
-| *Supplerende vejledning     ***\[3\], \[9\]**                                                                         |
-|                                                                                                                       |
-| a)  *For tekniske installationer, der giver anledning til lavfrekvent støj i undervisningsrum:*                       |
-|                                                                                                                       |
-| *A-vægtet, ækvivalent lydtrykniveau i lavfrekvensområdet, L*~p*A,LF*~*  ≤ 30 dB.*                                     |
-|                                                                                                                       |
-| *Tilsvarende grænseværdi for G-vægtet infralydniveau, L~pG~ ≤ 85 dB*                                                  |
-+-----------------------------------------------------------------------------------------------------------------------+
-| **Noter\**                                                                                                            |
-|                                                                                                                       |
-| 1)   Grænseværdien gælder i møblerede rum.                                                                            |
-|                                                                                                                       |
-| 2)   Grænseværdien gælder for den enkelte installation.                                                               |
-+-----------------------------------------------------------------------------------------------------------------------+
+<table style="width:99%;">
+<colgroup>
+<col style="width: 38%" />
+<col style="width: 31%" />
+<col style="width: 29%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="3"><strong>Undervisningsbygninger – Tabel 3.3 Støj fra tekniske installationer</strong> <br />
+</td>
+</tr>
+<tr>
+<td><strong>Rumtype</strong><br />
+</td>
+<td><strong>Støjkilde <sup>2)</sup></strong></td>
+<td><strong><em>L<sub>Aeq</sub></em></strong></td>
+</tr>
+<tr>
+<td>I undervisningsrum ^1), a)^<em>     </em><strong>[4]</strong></td>
+<td>Bygningens tekniske installationer</td>
+<td>≤ 30 dB</td>
+</tr>
+<tr>
+<td colspan="3"><p><em>Supplerende vejledning     </em><strong>[3], [9]</strong></p>
+<p>a)  <em>For tekniske installationer, der giver anledning til lavfrekvent støj i undervisningsrum:</em></p>
+<p><em>A-vægtet, ækvivalent lydtrykniveau i lavfrekvensområdet, L</em><sub>p<em>A,LF</em></sub><em>  ≤ 30 dB.</em></p>
+<p><em>Tilsvarende grænseværdi for G-vægtet infralydniveau, L<sub>pG</sub> ≤ 85 dB</em></p></td>
+</tr>
+<tr>
+<td colspan="3"><p>**Noter**</p>
+<p>1)   Grænseværdien gælder i møblerede rum.</p>
+<p>2)   Grænseværdien gælder for den enkelte installation.</p></td>
+</tr>
+</tbody>
+</table>
 
 [3.5](../rumakustik-i-undervisningsbygninger/)
 

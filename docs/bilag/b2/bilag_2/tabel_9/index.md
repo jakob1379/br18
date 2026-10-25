@@ -36,16 +36,16 @@ Referenceværdier for konstruktioner:
 
 Tabel 9: Liste over referenceværdier, som anvendes til at beregne den berettigede øgede klimapåvirkning af konstruktioner ved særlige forhold.
 
-  -------------------------- ---------------- ----------------------------------
-  Konstruktion               Referenceværdi   Enhed 
-  Etage- og kælderdæk        0,99             kg CO2-ækv. /m2 konstruktion/år
-  Gulv                       0,15             kg CO2-ækv. /m2 konstruktion/år 
-  Loft                       0,16             kg CO2-ækv. /m2 konstruktion/år 
-  Indervæg                   0,57             kg CO2-ækv. /m2 konstruktion/år 
-  Tag                        1,21             kg CO2-ækv. /m2 konstruktion/år 
-  Terrændæk/pladefundament   1,52             kg CO2-ækv. /m2 konstruktion/år 
-  Ydervæg og kælderydervæg   1,46             kg CO2-ækv. /m2 konstruktion/år 
-  -------------------------- ---------------- ----------------------------------
+|                          |                |                                  |
+|:-------------------------|:---------------|:---------------------------------|
+| Konstruktion             | Referenceværdi | Enhed                            |
+| Etage- og kælderdæk      | 0,99           | kg CO2-ækv. /m2 konstruktion/år  |
+| Gulv                     | 0,15           | kg CO2-ækv. /m2 konstruktion/år  |
+| Loft                     | 0,16           | kg CO2-ækv. /m2 konstruktion/år  |
+| Indervæg                 | 0,57           | kg CO2-ækv. /m2 konstruktion/år  |
+| Tag                      | 1,21           | kg CO2-ækv. /m2 konstruktion/år  |
+| Terrændæk/pladefundament | 1,52           | kg CO2-ækv. /m2 konstruktion/år  |
+| Ydervæg og kælderydervæg | 1,46           | kg CO2-ækv. /m2 konstruktion/år  |
 
 *** ***
 
