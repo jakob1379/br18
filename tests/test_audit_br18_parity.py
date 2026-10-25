@@ -193,6 +193,20 @@ class AuditTest(unittest.TestCase):
         self.assertNotIn("/Tekniske-bestemmelser/02/Krav", origin.requests)
         self.assertEqual(self.report.read_text(encoding="utf-8").count("### "), 1)
 
+    def test_link_with_non_ascii_path_reaches_the_origin_page(self) -> None:
+        origin = self.two_page_site()
+        page = "/vejledninger/klimap%C3%A5virkning/"
+        origin.pages[page] = origin_page("<p>Klima</p>")
+        self.corpus.add("vejledninger/klimapåvirkning", local_page("<p>Klima</p>"))
+        origin.pages["/"] = origin_page(
+            "<h1>Forside</h1><p>Velkommen til reglementet.</p>",
+            '<a href="/vejledninger/Klimap%C3%A5virkning">Klima</a>',
+        )
+
+        self.audit(origin)
+
+        self.assertIn(page, origin.page_requests())
+
     def test_section_scope_reports_only_that_section(self) -> None:
         origin = self.two_page_site()
         self.corpus.add("administrative-bestemmelser", local_page("<h1>Anvendelsesområde</h1>"))

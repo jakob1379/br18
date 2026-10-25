@@ -301,7 +301,7 @@ class OriginFetcher:
 def canonical_page(url: str) -> str:
     """The origin serves page paths case-insensitively, with or without a trailing slash."""
     p = urlsplit(url)
-    path = p.path.lower()
+    path = quote(unquote(p.path).lower(), safe="/")
     if not path.endswith("/") and not Path(path).suffix:
         path += "/"
     return urlunsplit((p.scheme, p.netloc, path, p.query, ""))
