@@ -67,6 +67,14 @@ class ConvertTest(unittest.TestCase):
         self.assertIn("[PDF](../media/abc/fil.pdf)", markdown)
         self.assertIn("[Afsnit](#afsnit)", markdown)
 
+    def test_mixed_case_page_links_point_at_the_lowercase_corpus_paths(self) -> None:
+        markdown = self.convert(
+            '<p><a href="/Bilag/B2/Bilag_2/Tabel_7#abc">Tabel 7</a> <a href="/media/Ab1/Fil_Navn.PDF">PDF</a></p>'
+        )
+
+        self.assertIn("[Tabel 7](../bilag/b2/bilag_2/tabel_7/#abc)", markdown)
+        self.assertIn("[PDF](../media/Ab1/Fil_Navn.PDF)", markdown)
+
     def test_historisk_links_stay_on_the_origin(self) -> None:
         markdown = self.convert(
             '<p><a href="/historisk/br18_version7/tekniske-bestemmelser/11/krav/267_270#9a9a97b3">Gammel</a>'

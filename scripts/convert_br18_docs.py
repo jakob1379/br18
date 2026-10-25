@@ -12,7 +12,7 @@ import sys
 import re
 from html.parser import HTMLParser
 from pathlib import Path
-from urllib.parse import parse_qsl, urlsplit, urlunsplit
+from urllib.parse import parse_qsl, unquote, urlsplit, urlunsplit
 
 
 SITE_HOSTS = {"www.bygningsreglementet.dk", "bygningsreglementet.dk"}
@@ -170,6 +170,8 @@ def rel_path_for_url(url: str, source_dir: Path, docs_root: Path) -> str | None:
 
     # Origin pages are directories (`/x/vejledning` serves `/x/vejledning/`); only files have a suffix.
     if path.endswith("/") or not local_target.suffix:
+        # The origin serves pages case-insensitively; the corpus keeps them at lowercase paths.
+        local_target = docs_root / unquote(local_target.relative_to(docs_root).as_posix()).lower()
         rel = os.path.relpath(local_target, source_dir)
         return "./" if rel == "." else f"{rel}/"
 
