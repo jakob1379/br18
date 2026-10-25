@@ -176,6 +176,19 @@ class AuditTest(unittest.TestCase):
 
         self.assertEqual(result.returncode, 0, self.report.read_text(encoding="utf-8"))
 
+    def test_differently_spelled_links_to_one_page_are_fetched_once(self) -> None:
+        origin = self.two_page_site()
+        origin.pages["/"] = origin_page(
+            "<h1>Forside</h1><p>Velkommen til reglementet.</p>",
+            '<a href="/Tekniske-bestemmelser/02/Krav">2</a><a href="/tekniske-bestemmelser/02/krav/">2</a>',
+        )
+
+        self.audit(origin)
+
+        self.assertEqual(origin.requests.count("/tekniske-bestemmelser/02/krav/"), 1)
+        self.assertNotIn("/Tekniske-bestemmelser/02/Krav", origin.requests)
+        self.assertEqual(self.report.read_text(encoding="utf-8").count("### "), 1)
+
     def test_section_scope_reports_only_that_section(self) -> None:
         origin = self.two_page_site()
         self.corpus.add("administrative-bestemmelser", local_page("<h1>Anvendelsesområde</h1>"))

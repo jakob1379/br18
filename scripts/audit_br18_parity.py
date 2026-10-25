@@ -298,10 +298,19 @@ class OriginFetcher:
             self._pw.stop()
 
 
+def canonical_page(url: str) -> str:
+    """The origin serves page paths case-insensitively, with or without a trailing slash."""
+    p = urlsplit(url)
+    path = p.path.lower()
+    if not path.endswith("/") and not Path(path).suffix:
+        path += "/"
+    return urlunsplit((p.scheme, p.netloc, path, p.query, ""))
+
+
 def _show_all_html(fetcher: OriginFetcher, url: str, links: list[str]) -> str | None:
     """Accordion pages load collapsed sections on click; their ShowAll view holds the full content."""
     path = urlsplit(url).path
-    for link in sorted(set(links)):
+    for link in sorted({canonical_page(u) for u in links}):
         p = urlsplit(link)
         if p.query == "Layout=ShowAll" and path.startswith(p.path):
             rec = fetcher.get(link)
@@ -331,16 +340,17 @@ def crawl(
                 target = errors if rec["status"] is None or rec["status"] >= 500 else origin_broken
                 target[url] = rec.get("error") or f"HTTP {rec['status']}"
             continue
-        final = normalize_url(rec["final"]) or url
+        final = canonical_page(normalize_url(rec["final"]) or url)
         page_url = final.split("?", 1)[0]
         if page_url != url and page_url in pages:
             continue
         seen.update({final, page_url})
-        links = [u for u in (normalize_url(urljoin(final, link)) for link in parse(rec["html"], "main", None, ORIGIN_SKIP_CLASSES).all_links) if u]
+        hrefs = parse(rec["html"], "main", None, ORIGIN_SKIP_CLASSES).all_links
+        links = [u for u in (normalize_url(urljoin(final, href)) for href in hrefs) if u]
         if section_of(final) in sections:
             show_all = urlsplit(final).query == "Layout=ShowAll"
             pages[page_url] = (None if show_all else _show_all_html(fetcher, final, links)) or rec["html"]
-        todo.extend(u for u in links if u not in seen and "?" not in u and not looks_asset(urlsplit(u).path))
+        todo.extend(canonical_page(u) for u in links if "?" not in u and not looks_asset(urlsplit(u).path))
     return pages, errors, origin_broken
 
 
