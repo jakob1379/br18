@@ -98,6 +98,19 @@ class ConvertTest(unittest.TestCase):
         self.assertRegex(markdown, r"analyse\s\^a\)\^\s+og")
         self.assertRegex(markdown, r"Sengestuer\s+\^a\)\^,")
 
+    def test_only_accordion_triggers_give_headings_their_ids(self) -> None:
+        markdown = self.convert(
+            '<section id="1f0c2a3b-0000-4000-8000-000000000001"><div class="accordion__header">'
+            '<a href="/side/#1f0c2a3b-0000-4000-8000-000000000001" class="accordion__trigger">'
+            '<div class="accordion__tag">1.4.</div><h3 class="accordion__title">Livscyklus</h3></a></div>'
+            '<div><p>Se <a href="/bilag/b2/bilag_2/tabel_7#787e83a6-b7d9-4a83-a4be-37574156daef">BR18, bilag 2, tabel 7</a></p>'
+            "<h4>Tabellens opbygning</h4><p>Tekst</p></div></section>"
+        )
+
+        self.assertIn("### 1.4. Livscyklus {#1f0c2a3b-0000-4000-8000-000000000001}", markdown)
+        self.assertIn("Se [BR18, bilag 2, tabel 7](../bilag/b2/bilag_2/tabel_7/#787e83a6-b7d9-4a83-a4be-37574156daef)", markdown)
+        self.assertIn("#### Tabellens opbygning\n", markdown)
+
     def test_page_ends_with_a_single_newline(self) -> None:
         markdown = self.convert("<p>Tekst</p><p><a href='/x'></a></p>")
 

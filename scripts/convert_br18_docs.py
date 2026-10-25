@@ -273,7 +273,10 @@ class Cleaner(HTMLParser):
         self.stack.append("emit")
         if tag in EMPHASIS_TAGS:
             self.emphasis.append(tag)
+        trigger = tag == "a" and "accordion__trigger" in self._attrs(attrs).get("class", "")
         attrs = self._rewrite_attrs(tag, attrs)
+        if trigger:
+            attrs = [(n, v) for n, v in attrs if n != "title"] + [("title", TRIGGER_TITLE)]
         self.parts.append(f"<{tag}{self._render_attrs(attrs)}>")
 
     def handle_startendtag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
@@ -653,8 +656,10 @@ def promote_legal_paragraph_headings(markdown: str) -> str:
 
 UUID = r"[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}"
 
+TRIGGER_TITLE = "br18-accordion-trigger"
+# Accordion triggers, marked by the Cleaner; other uuid links point at other pages' sections.
 UUID_ANCHOR_LINK_RE = re.compile(
-    rf"(?P<space>\s*)\[(?P<label>[^\]]+)\]\([^)]*#(?P<id>{UUID})\)"
+    rf"(?P<space>\s*)\[(?P<label>[^\]]+)\]\([^)\s]*#(?P<id>{UUID}) \"{TRIGGER_TITLE}\"\)"
 )
 HEADING_RE = re.compile(r"^(#{1,6}\s+.*?)(?:\s+\{[^}]*\})?\s*$")
 HEADING_ATTR_RE = re.compile(r"^(?P<head>#{1,6}\s+.*?)(?:\s+\{(?P<attrs>[^}]*)\})?\s*$")
@@ -695,7 +700,7 @@ def attach_anchor_reference_ids(markdown: str) -> str:
     known_ids = explicit_anchor_ids(markdown)
 
     for index, line in enumerate(lines):
-        for match in list(UUID_ANCHOR_LINK_RE.finditer(line)):
+        for match in reversed(list(UUID_ANCHOR_LINK_RE.finditer(line))):
             anchor_id = match.group("id")
             label = match.group("label").strip().lower()
             if label.startswith("gå til") or len(label) > 80:
@@ -724,7 +729,7 @@ def attach_anchor_reference_ids(markdown: str) -> str:
                         heading_line = f"{heading_line} {{{attrs}}}"
             lines[heading_index] = heading_line
             known_ids.add(anchor_id)
-            line = UUID_ANCHOR_LINK_RE.sub("", line, count=1).rstrip()
+            line = (line[: match.start()] + line[match.end() :]).rstrip()
             lines[index] = line
 
     return "\n".join(lines) + ("\n" if markdown.endswith("\n") else "")
@@ -781,6 +786,7 @@ def convert_file(path: Path, docs_root: Path, delete_html: bool) -> bool:
         markdown = promoted
     markdown = escape_unresolved_reference_labels(markdown)
     markdown = TABLE_TOKEN_RE.sub(lambda m: tables[int(m.group(1))], markdown)
+    markdown = markdown.replace(f' "{TRIGGER_TITLE}")', ")")
     if output.parent == path:
         if not delete_html:
             raise RuntimeError(f"cannot keep extensionless route HTML while writing {output}")
