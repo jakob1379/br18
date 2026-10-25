@@ -54,7 +54,7 @@ Etageantallet beregnes som forholdet mellem etagearealet og det bebyggede areal.
 
 Standarden indeholder beregningsregler for beregning af bygningers varmetab.
 
-#### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/){target="_blank"}
+#### Standarden findes i Dansk Standards Webshop.ds.dk her [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/){target="_blank"}
 
 ### 1.12. Vedvarende energi {#cea05059-f673-4746-86a6-8e6320193440}
 

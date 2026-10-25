@@ -70,7 +70,7 @@ Bemærk, at der er særlige regler og foranstaltninger i forbindelse med håndte
 
 #### Bekendtgørelse nr. 1672 af 15/12/2016 om anvendelse af restprodukter, jord og sorteret bygge- og anlægsaffald
 
-#### [Gå til bekendtgørelsen](https://www.retsinformation.dk/forms/r0710.aspx?id=184757){target="_blank"}
+#### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/forms/r0710.aspx?id=184757){target="_blank"}
 
 ### 4.5 Vejoverkørsler {#2f03a7c3-82a4-4cb1-8ace-f925776838cb}
 

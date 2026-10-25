@@ -199,7 +199,9 @@ class AuditTest(unittest.TestCase):
                 "/": origin_page("<p>Forside</p>", links),
                 guide: origin_page(f"{expand(guide)}<h3>1.0 Indledning</h3><h3>2.0 Ramper</h3>", links),
                 f"{guide}?Layout=ShowAll": origin_page(sections),
-                f"{guide}ramper/": origin_page(f"{expand(guide + 'ramper/')}<h3>1.0 Indledning</h3><h3>2.0 Ramper</h3>", links),
+                f"{guide}ramper/": origin_page(
+                    f"{expand(guide + 'ramper/')}<h3>1.0 Indledning</h3><h3>2.0 Ramper</h3><p>Ramper skal være jævne.</p>", links
+                ),
                 f"{guide}ramper/?Layout=ShowAll": origin_page(sections),
             }
         )
@@ -236,6 +238,20 @@ class AuditTest(unittest.TestCase):
         self.assertEqual(result.returncode, 1, report)
         self.assertIn("### https://www.bygningsreglementet.dk/tekniske-bestemmelser/02/vejledninger/guide/ramper/", report)
         self.assertIn("@@PROTECTED_7@@", report)
+
+    def test_guide_subpage_missing_its_own_section_body_is_reported(self) -> None:
+        origin = self.guide_site(
+            "<h3>1.0 Indledning</h3><p>Guiden indleder.</p><h3>2.0 Ramper</h3><p>Ramper skal være jævne.</p>",
+            "<h3>1.0 Indledning</h3><h3>2.0 Ramper</h3>",
+        )
+
+        result = self.audit(origin)
+
+        report = self.report.read_text(encoding="utf-8")
+        self.assertEqual(result.returncode, 1, report)
+        self.assertIn("### https://www.bygningsreglementet.dk/tekniske-bestemmelser/02/vejledninger/guide/ramper/", report)
+        self.assertIn("missing_text: (own page) Ramper skal være jævne.", report)
+        self.assertNotIn("Guiden indleder", report)
 
     def test_markup_residue_is_reported(self) -> None:
         origin = self.two_page_site()
