@@ -139,6 +139,17 @@ class ConvertTest(unittest.TestCase):
         self.assertIn('[Åbn rettelsesblad (Nyt vindue).](../media/y/r.pdf){rel="noopener" target="_blank"}', markdown)
         self.assertIn("Tekst.\n", markdown)
 
+    def test_parenthesised_numbers_and_lettered_paragraphs_stay_in_their_sentence(self) -> None:
+        markdown = self.convert(
+            "<h1>Administrative bestemmelser (§ 1 - § 47)</h1>"
+            "<p>Dette fremgår af byggelovens § 16 C, stk. 1. Kommunalbestyrelsen påser også det.</p>"
+            "<p>Se byggeret og helhedsvurdering (kapitel 8) samt ubebyggede arealer (jf. § 256, stk. 3) plus det.</p>"
+        )
+
+        self.assertIn("# Administrative bestemmelser (§ 1 - § 47)\n", markdown)
+        self.assertIn("Dette fremgår af byggelovens § 16 C, stk. 1. Kommunalbestyrelsen påser også det.", markdown)
+        self.assertIn("(kapitel 8) samt ubebyggede arealer (jf. § 256, stk. 3) plus det.", markdown)
+
     def test_page_ends_with_a_single_newline(self) -> None:
         markdown = self.convert("<p>Tekst</p><p><a href='/x'></a></p>")
 

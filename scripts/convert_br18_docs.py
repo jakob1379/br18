@@ -432,8 +432,15 @@ def normalize_markdown_linebreak_artifacts(markdown: str) -> str:
     # Split numbered and lettered legal list items that were flattened into one
     # paragraph. Require whitespace before the marker to avoid touching words,
     # section references, or URLs.
-    text = re.sub(r"(?<!^)(?<!\\)\s+(?=\d{1,2}\)\s*\S)", "\n\n", text)
-    text = re.sub(r"(?<!^)(?<!\\)\s+(?=[a-zæøå]\)\s*\S)", "\n\n", text)
+    def split_item(match: re.Match[str]) -> str:
+        line = text[text.rfind("\n", 0, match.start()) + 1 : match.start()]
+        # "(kapitel 8) samt", "(§ 1 - § 47)" and headings are not lists.
+        if line.lstrip().startswith("#") or line.count("(") > line.count(")"):
+            return match.group(0)
+        return "\n\n"
+
+    for marker in (r"\d{1,2}\)", r"[a-zæøå]\)"):
+        text = re.sub(rf"(?<!^)(?<!\\)\s+(?={marker}[ \t]*\S)", split_item, text)
 
     # An emphasised "- item" line (the origin's typed dash list) becomes a list item like the unemphasised ones.
     text = re.sub(r"(?m)^(\*{1,3})- (?=\S)", r"- \1", text)
@@ -457,7 +464,8 @@ LINKED_LEGAL_PARAGRAPH_RE = re.compile(
 )
 LEGAL_SECTION_LINK_RE = re.compile(r"^\[(?P<label>§[^\]]+)\]\([^)]*\)\s*$")
 HEADING_LINE_RE = re.compile(r"^(?P<marks>#{1,6})\s+(?P<title>.*?)(?:\s+\{(?P<attrs>[^}]*)\})?\s*$")
-INLINE_LEGAL_SPLIT_RE = re.compile(rf"(?<![§\w/])(?={LEGAL_PARAGRAPH}\s+[A-ZÆØÅ])")
+# A capital that starts a word, not a paragraph letter ("§ 16 C, stk. 1").
+INLINE_LEGAL_SPLIT_RE = re.compile(rf"(?<![§\w/])(?={LEGAL_PARAGRAPH}\s+[A-ZÆØÅ][a-zæøå])")
 TRAILING_LEGAL_MARKER_RE = re.compile(rf"^(?P<prefix>.+?)(?P<label>{LEGAL_PARAGRAPH})\s*$", re.IGNORECASE)
 
 
