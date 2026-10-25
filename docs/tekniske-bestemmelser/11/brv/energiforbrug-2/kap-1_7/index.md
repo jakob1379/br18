@@ -2,19 +2,19 @@
 
 ## Se alle vejledninger om Energiforbrug og klimapåvirkning (§ 250 - § 298)
 
-- [Spørgsmål og svar om energiforbrug](../../qa)
-- [Spørgsmål og svar om bygningers klimapåvirkning](../../spoergsmaal-og-svar-om-bygningers-klimapaavirkning)
-- [Bygningsreglementets vejledning om energiforbrug](./)
-- [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner)
-- [Vejledning om funktionsafprøvning](../../version-2-funktionsafprovning)
-- [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov)
-- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../../bygningers-klimapaavirkning-1-juli-2025)
-- [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler)
-- [Eksempelsamling for energi](../../eksempelsamling)
+- [Spørgsmål og svar om energiforbrug](../../qa/)
+- [Spørgsmål og svar om bygningers klimapåvirkning](../../spoergsmaal-og-svar-om-bygningers-klimapaavirkning/)
+- [Bygningsreglementets vejledning om energiforbrug](../)
+- [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner/)
+- [Vejledning om funktionsafprøvning](../../version-2-funktionsafprovning/)
+- [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov/)
+- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../../bygningers-klimapaavirkning-1-juli-2025/)
+- [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler/)
+- [Eksempelsamling for energi](../../eksempelsamling/)
 
 ## Bygningsreglementets vejledning om energiforbrug
 
-### Forord
+### Forord {#e4a4aefb-350b-4266-827e-1508450a3f72}
 
 ### 1.0. Generelt {#5d0fd3cc-01f4-4dbe-bf46-d43a912b077e}
 
@@ -40,13 +40,15 @@ For fjernvarme tages der ikke hensyn til distributionstab i fjernvarmeledninger,
 
 SBi-anvisning 213 skal benyttes til beregning af bygningers energibehov og til eftervisning af at energirammen overholdes.
 
--  [Gå til krav om energirammer for boliger, kollegier, hoteller og lignende (§ 259)](../../../krav/259#f803fa8e-fd9d-42a3-b49c-ec1fbb3cb655){target="_blank"}
--  [Gå til krav om energirammer for andre bygninger end boliger (§ 260)](../../../krav/260#2ec6323f-f853-4f09-9134-38834617a035){target="_blank"}
--  [Gå til krav ved brug af energiramme (§ 261 - § 266)](../../../krav/261_266#3a8ca349-26eb-45ea-919c-350ef44b666a){target="_blank"}
+- [Gå til krav om energirammer for boliger, kollegier, hoteller og lignende (§ 259)](../../../krav/259/#f803fa8e-fd9d-42a3-b49c-ec1fbb3cb655){target="_blank"}
+- [Gå til krav om energirammer for andre bygninger end boliger (§ 260)](../../../krav/260/#2ec6323f-f853-4f09-9134-38834617a035){target="_blank"}
+- [Gå til krav ved brug af energiramme (§ 261 - § 266)](../../../krav/261_266/#3a8ca349-26eb-45ea-919c-350ef44b666a){target="_blank"}
 
-[![](../../../../../assets/img/linkbox/sbi_anv_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/sbi_anv_linkbox.svg)](#)
 
-#### SBi-Anvisning 213 Bygningers energibehov
+####
+
+SBi-Anvisning 213 Bygningers energibehov
 
 #### BEREGNINGSVEJLEDNING
 

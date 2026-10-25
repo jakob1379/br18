@@ -2,15 +2,15 @@
 
 ## Se alle vejledninger om Energiforbrug og klimapåvirkning (§ 250 - § 298)
 
-- [Spørgsmål og svar om energiforbrug](../../qa)
-- [Spørgsmål og svar om bygningers klimapåvirkning](../../spoergsmaal-og-svar-om-bygningers-klimapaavirkning)
-- [Bygningsreglementets vejledning om energiforbrug](../../energiforbrug-2)
-- [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner)
-- [Vejledning om funktionsafprøvning](./)
-- [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov)
-- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../../bygningers-klimapaavirkning-1-juli-2025)
-- [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler)
-- [Eksempelsamling for energi](../../eksempelsamling)
+- [Spørgsmål og svar om energiforbrug](../../qa/)
+- [Spørgsmål og svar om bygningers klimapåvirkning](../../spoergsmaal-og-svar-om-bygningers-klimapaavirkning/)
+- [Bygningsreglementets vejledning om energiforbrug](../../energiforbrug-2/)
+- [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner/)
+- [Vejledning om funktionsafprøvning](../)
+- [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov/)
+- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../../bygningers-klimapaavirkning-1-juli-2025/)
+- [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler/)
+- [Eksempelsamling for energi](../../eksempelsamling/)
 
 ## Vejledning om funktionsafprøvning
 
@@ -84,7 +84,7 @@ Funktionsafprøvningen skal dokumentere, at bygningsautomatikken er korrekt inst
 
 Bygningsreglementets krav til funktionsafprøvning af hovedbygningsautomatik er gengivet her:
 
-**§ 296 **Der skal gennemføres en funktionsafprøvning af bygningsautomatik inden ibrugtagning. Funktionsafprøvningen skal påvise, at bygningsautomatikken er korrekt installeret og reguleret, virker efter hensigten og giver bygningen den forudsatte energimæssige effektivitet.
+**§ 296** Der skal gennemføres en funktionsafprøvning af bygningsautomatik inden ibrugtagning. Funktionsafprøvningen skal påvise, at bygningsautomatikken er korrekt installeret og reguleret, virker efter hensigten og giver bygningen den forudsatte energimæssige effektivitet.
 
 ### 8.1 Definition {#2d39d392-81a1-497e-a0b4-2487d2ed9159}
 
@@ -103,4 +103,3 @@ Bygningsreglementets krav til funktionsafprøvning af hovedbygningsautomatik er 
 ### 8.8 Acceptkriterium {#8c276468-27da-40b5-9cd3-21d0faf66b5c}
 
 ### 8.9 Dokumentation {#bfd6298a-b31e-4a25-99f5-295e4738889d}
-

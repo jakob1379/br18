@@ -2,15 +2,15 @@
 
 ## Se alle vejledninger om Energiforbrug og klimapåvirkning (§ 250 - § 298)
 
-- [Spørgsmål og svar om energiforbrug](../../qa)
-- [Spørgsmål og svar om bygningers klimapåvirkning](../../spoergsmaal-og-svar-om-bygningers-klimapaavirkning)
-- [Bygningsreglementets vejledning om energiforbrug](../../energiforbrug-2)
-- [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner)
-- [Vejledning om funktionsafprøvning](./)
-- [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov)
-- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../../bygningers-klimapaavirkning-1-juli-2025)
-- [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler)
-- [Eksempelsamling for energi](../../eksempelsamling)
+- [Spørgsmål og svar om energiforbrug](../../qa/)
+- [Spørgsmål og svar om bygningers klimapåvirkning](../../spoergsmaal-og-svar-om-bygningers-klimapaavirkning/)
+- [Bygningsreglementets vejledning om energiforbrug](../../energiforbrug-2/)
+- [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner/)
+- [Vejledning om funktionsafprøvning](../)
+- [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov/)
+- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../../bygningers-klimapaavirkning-1-juli-2025/)
+- [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler/)
+- [Eksempelsamling for energi](../../eksempelsamling/)
 
 ## Vejledning om funktionsafprøvning
 
@@ -88,7 +88,7 @@
 
 ### 8.4 Målepunkter {#552b8f12-921e-4209-9548-758617227e55}
 
-*Sensorer* 
+*Sensorer*
 
 Med kalibreret eksternt måleudstyr skal anlæggets sensorer (fx temperatur-, CO2, fugt, kanaltryk, lys) afprøves om de måler korrekt. Anlæg der anvender bevægelsessensorer (PIR) skal ligeledes afprøves med hensyn til at reagere som forudsat inden for de zoner de betjener.
 
@@ -111,4 +111,3 @@ Såfremt anlægget anvender tidsstyring (tidsprogrammer) skal det eftervises ved
 ### 8.8 Acceptkriterium {#8c276468-27da-40b5-9cd3-21d0faf66b5c}
 
 ### 8.9 Dokumentation {#bfd6298a-b31e-4a25-99f5-295e4738889d}
-

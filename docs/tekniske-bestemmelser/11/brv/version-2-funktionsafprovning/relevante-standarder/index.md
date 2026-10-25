@@ -2,15 +2,15 @@
 
 ## Se alle vejledninger om Energiforbrug og klimapåvirkning (§ 250 - § 298)
 
-- [Spørgsmål og svar om energiforbrug](../../qa)
-- [Spørgsmål og svar om bygningers klimapåvirkning](../../spoergsmaal-og-svar-om-bygningers-klimapaavirkning)
-- [Bygningsreglementets vejledning om energiforbrug](../../energiforbrug-2)
-- [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner)
-- [Vejledning om funktionsafprøvning](./)
-- [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov)
-- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../../bygningers-klimapaavirkning-1-juli-2025)
-- [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler)
-- [Eksempelsamling for energi](../../eksempelsamling)
+- [Spørgsmål og svar om energiforbrug](../../qa/)
+- [Spørgsmål og svar om bygningers klimapåvirkning](../../spoergsmaal-og-svar-om-bygningers-klimapaavirkning/)
+- [Bygningsreglementets vejledning om energiforbrug](../../energiforbrug-2/)
+- [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner/)
+- [Vejledning om funktionsafprøvning](../)
+- [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov/)
+- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../../bygningers-klimapaavirkning-1-juli-2025/)
+- [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler/)
+- [Eksempelsamling for energi](../../eksempelsamling/)
 
 ## Vejledning om funktionsafprøvning
 
@@ -46,7 +46,7 @@ Relevante standarder i forbindelse med funktionsafprøvning af ventilationssyste
 
 > • DS 469, *Varme- og køleanlæg i bygninger*
 
-[![](../../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 #### DS 447
 
@@ -64,7 +64,7 @@ Standarden dækker ikke de brandtekniske krav til ventilationssystemer; der henv
 
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/standard/ds-4472013 "DS 447"){target="_blank"}
 
-[![](../../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/ds_en_linkbox.svg)](#)
 
 #### DS/EN 12599
 
@@ -76,7 +76,7 @@ Denne europæiske standard angiver check, prøvningsmetoder og måleinstrumenter
 
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/s%c3%b8gning/91-140-30-ventilationssystemer-og-klimaanl%c3%a6g/ds-en-125992013 "DS/EN 12599"){target="_blank"}
 
-[![](../../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/ds_en_linkbox.svg)](#)
 
 #### DS/EN 14134
 
@@ -88,7 +88,7 @@ Denne europæiske standard specificerer kontrol og prøvningsmetoder til eftervi
 
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/standard/M315407/ds-en-14134-2019 "DS/EN 14134"){target="_blank"}
 
-[![](../../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 #### DS 469
 
@@ -167,4 +167,3 @@ Denne standard opstiller krav til varme- og køleanlæg. Kravene tilsigter, at d
 ### 8.8 Acceptkriterium {#8c276468-27da-40b5-9cd3-21d0faf66b5c}
 
 ### 8.9 Dokumentation {#bfd6298a-b31e-4a25-99f5-295e4738889d}
-

@@ -2,15 +2,15 @@
 
 ## Se alle vejledninger om Energiforbrug og klimapåvirkning (§ 250 - § 298)
 
-- [Spørgsmål og svar om energiforbrug](../../qa)
-- [Spørgsmål og svar om bygningers klimapåvirkning](../../spoergsmaal-og-svar-om-bygningers-klimapaavirkning)
-- [Bygningsreglementets vejledning om energiforbrug](../../energiforbrug-2)
-- [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner)
-- [Vejledning om funktionsafprøvning](./)
-- [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov)
-- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../../bygningers-klimapaavirkning-1-juli-2025)
-- [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler)
-- [Eksempelsamling for energi](../../eksempelsamling)
+- [Spørgsmål og svar om energiforbrug](../../qa/)
+- [Spørgsmål og svar om bygningers klimapåvirkning](../../spoergsmaal-og-svar-om-bygningers-klimapaavirkning/)
+- [Bygningsreglementets vejledning om energiforbrug](../../energiforbrug-2/)
+- [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner/)
+- [Vejledning om funktionsafprøvning](../)
+- [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov/)
+- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../../bygningers-klimapaavirkning-1-juli-2025/)
+- [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler/)
+- [Eksempelsamling for energi](../../eksempelsamling/)
 
 ## Vejledning om funktionsafprøvning
 
@@ -55,10 +55,10 @@
 Relevante standarder og anvisninger i forbindelse med funktionsafprøvning af belysningsanlæg omfatter:
 
 > • DS/EN 12464-1, *Lys og belysning* - *Belysning ved arbejdspladser – Del 1: Indendørs arbejdspladser* • DS/EN 12665, *Lys og belysning – Grundlæggende begreber og kriterier til beskrivelse af krav til belysning*
->
-> • SBi-anvisning 220, *Lysstyring* • At-vejledning A.1.5-1, *Vejledning om kunstig belysning på faste arbejdssteder)* 
 
-[![](../../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
+> • SBi-anvisning 220, *Lysstyring* • At-vejledning A.1.5-1, *Vejledning om kunstig belysning på faste arbejdssteder)*
+
+[![](../../../../../assets/img/linkbox/ds_en_linkbox.svg)](#)
 
 #### DS/EN 12464-1
 
@@ -70,7 +70,7 @@ Denne europæiske standard specificerer krav til belysning for mennesker ved ind
 
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/standard/ds-en-12464-12011 "DS/EN 12464-1"){target="_blank"}
 
-[![](../../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/ds_en_linkbox.svg)](#)
 
 #### DS/EN 12665
 
@@ -82,7 +82,7 @@ Denne standard definerer de grundlæggende betegnelser og definitioner til brug 
 
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/s%c3%b8gning/01-040-91-byggematerialer-og-byggeri-ordliste/ds-en-126652011 "DS/EN 12665"){target="_blank"}
 
-[![](../../../../../assets/img/linkbox/sbi_anv_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/sbi_anv_linkbox.svg)](#)
 
 #### SBi-anvisning 220
 
@@ -94,7 +94,7 @@ Denne anvisning vejleder i valg af systemløsninger til automatisk lysstyring i 
 
 #### [Find anvisningen her](https://sbi.dk/anvisninger/Pages/220-Lysstyring-1_1.aspx "SBi-anvisning 220"){target="_blank"}
 
-[![](../../../../../assets/img/linkbox/at_vejl_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/at_vejl_linkbox.svg)](#)
 
 #### At-vejledning A.1.5-1
 
@@ -151,4 +151,3 @@ At-vejledningen beskriver Arbejdstilsynets krav til kunstig belysning på faste 
 ### 8.8 Acceptkriterium {#8c276468-27da-40b5-9cd3-21d0faf66b5c}
 
 ### 8.9 Dokumentation {#bfd6298a-b31e-4a25-99f5-295e4738889d}
-

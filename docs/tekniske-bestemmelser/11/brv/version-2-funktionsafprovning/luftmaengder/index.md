@@ -2,15 +2,15 @@
 
 ## Se alle vejledninger om Energiforbrug og klimapåvirkning (§ 250 - § 298)
 
-- [Spørgsmål og svar om energiforbrug](../../qa)
-- [Spørgsmål og svar om bygningers klimapåvirkning](../../spoergsmaal-og-svar-om-bygningers-klimapaavirkning)
-- [Bygningsreglementets vejledning om energiforbrug](../../energiforbrug-2)
-- [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner)
-- [Vejledning om funktionsafprøvning](./)
-- [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov)
-- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../../bygningers-klimapaavirkning-1-juli-2025)
-- [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler)
-- [Eksempelsamling for energi](../../eksempelsamling)
+- [Spørgsmål og svar om energiforbrug](../../qa/)
+- [Spørgsmål og svar om bygningers klimapåvirkning](../../spoergsmaal-og-svar-om-bygningers-klimapaavirkning/)
+- [Bygningsreglementets vejledning om energiforbrug](../../energiforbrug-2/)
+- [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner/)
+- [Vejledning om funktionsafprøvning](../)
+- [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov/)
+- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../../bygningers-klimapaavirkning-1-juli-2025/)
+- [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler/)
+- [Eksempelsamling for energi](../../eksempelsamling/)
 
 ## Vejledning om funktionsafprøvning
 
@@ -57,6 +57,8 @@ Kravet til ventilation af bygninger til beboelse er beskrevet i bygningsreglemen
 > • I daginstitutioner skal ventilationsanlægget yde mindst 3 l/s pr. barn og mindst 5 l/s pr. voksen samt 0,35 l/s pr. m² etageareal. Hvis der benyttes ventilationsanlæg med behovstyret ventilation, kan der afviges fra de angivne luftmængder, når der er reduceret behov. Dog må ventilationen i brugstiden ikke være mindre end 0,35 l/s pr. m² etageareal, og CO2-koncentrationen må ikke overstige 1000 ppm ved de dimensionerende forhold.   • I undervisningsrum i skoler og lignende skal ventilationsanlægget i normalklasserum yde mindst 5 l/s pr. person samt 0,35 l/s pr. m² etageareal. Hvis der benyttes ventilationsanlæg med behovstyret ventilation, kan der afviges fra de angivne luftmængder, når der er reduceret behov. Dog må ventilationen i brugstiden ikke være mindre end 0,35 l/s pr. m² etageareal og CO2-koncentrationen må ikke overstige 1000 ppm ved de dimensionerende forhold.   • Ved benyttelse af særlige byggetekniske tiltag, som for eksempel større rumvoluminer pr. person, brug af flere udluftningsmuligheder, herunder muligheder for tværventilation, kan kravet om mekanisk ventilation fraviges under forudsætning af, at der kan opretholdes et sundhedsmæssigt tilfredsstillende indeklima.
 >
 > • I andre bygninger end de tidligere nævnte, fx kontor- og erhvervsbygninger, skal der fastlægges et dimensionerende ventilationsbehov for hvert rum i bygningen. Luftmængder forudsat i dimensioneringen skal eftervises af funktionsafprøvningen.
+>
+>
 
 *Formål med funktionsafprøvning af luftmængder*
 
@@ -81,6 +83,7 @@ For at kunne måle luftmængder i ventilationsanlæg skal følgende normalt vær
 • Under måleperioden holdes vinduer og døre lukkede for at opnå stabile måleforhold.
 
 *Målepunkter*
+
 Ifølge DS 447, pkt. 9.7, skal ventilationsanlæg være forsynet med fastmonterede udtag til måling af hovedluftstrømme eller have mulighed for aflæsning af hovedluftstrømme på betjeningspanel. Hovedluftstrømmen eller luftstrøm på rumniveau kan også måles som summen gennem hvert enkelt armatur.
 
 Der måles for de evt. forskellige referencetilstande og på relevante steder i ventilationsanlægget.
@@ -89,10 +92,18 @@ Der måles for de evt. forskellige referencetilstande og på relevante steder i 
 
 Tabel 1. Normalt tilladelig måleusikkerhed i forbindelse med måling af de luftstrømme der skal leveres af ventilationsanlægget jf. DS 447 stk. 9.3.
 
-|                             |                                 |
-|-----------------------------|---------------------------------|
-| Samlet luftstrøm til rummet | Hovedluftstrøm fra/til aggregat |
-|  ± 10 %                     |  ± 10%                          |
+<table>
+<tbody>
+<tr>
+<td colspan="2">Samlet luftstrøm til rummet</td>
+<td>Hovedluftstrøm fra/til aggregat </td>
+</tr>
+<tr>
+<td colspan="2"> ± 10 %</td>
+<td><p> ± 10%</p></td>
+</tr>
+</tbody>
+</table>
 
 Emhætte efterprøves i boliger ved at måle, at der er en luftstrøm svarende til kravet. Der kan normalt accepteres en måleusikkerhed på op til 15 %. Målingen udføres med lukkede vinduer og døre.
 

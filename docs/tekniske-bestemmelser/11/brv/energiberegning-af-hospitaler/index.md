@@ -2,19 +2,19 @@
 
 ## Se alle vejledninger om Energiforbrug og klimapåvirkning (§ 250 - § 298)
 
-- [Spørgsmål og svar om energiforbrug](../qa)
-- [Spørgsmål og svar om bygningers klimapåvirkning](../spoergsmaal-og-svar-om-bygningers-klimapaavirkning)
-- [Bygningsreglementets vejledning om energiforbrug](../energiforbrug-2)
-- [Bygningsreglementets vejledning om efterisolering](../ofte-rentable-konstruktioner)
-- [Vejledning om funktionsafprøvning](../version-2-funktionsafprovning)
-- [Vejledning om håndtering af forskelligt energibehov i energirammen](../haandtering-af-forskelligt-energibehov)
-- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../bygningers-klimapaavirkning-1-juli-2025)
-- [Vejledning om energiberegning af hospitaler](.)
-- [Eksempelsamling for energi](../eksempelsamling)
+- [Spørgsmål og svar om energiforbrug](../qa/)
+- [Spørgsmål og svar om bygningers klimapåvirkning](../spoergsmaal-og-svar-om-bygningers-klimapaavirkning/)
+- [Bygningsreglementets vejledning om energiforbrug](../energiforbrug-2/)
+- [Bygningsreglementets vejledning om efterisolering](../ofte-rentable-konstruktioner/)
+- [Vejledning om funktionsafprøvning](../version-2-funktionsafprovning/)
+- [Vejledning om håndtering af forskelligt energibehov i energirammen](../haandtering-af-forskelligt-energibehov/)
+- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../bygningers-klimapaavirkning-1-juli-2025/)
+- [Vejledning om energiberegning af hospitaler](./)
+- [Eksempelsamling for energi](../eksempelsamling/)
 
 ## Vejledning om energiberegning af hospitaler
 
-### Forord
+### Forord {#80d5f054-da59-48e1-910e-41db725c67e3}
 
 Formålet med denne vejledning er at sikre, at nye hospitaler opført i Bygningsklasse 2020 bliver myndighedsbehandlet ens og retfærdigt. Vejledningen er en opfølgning på og sammenfatning af de fortolkninger der er lavet på to workshops, der er afholdt af Energistyrelsen i november 2012 og august 2013 i samarbejde med SUM og Regionerne samt SBi. I forbindelse med de afholdte workshops om de store hospitalsbyggerier, blev det aftalt, at der skal laves en vejledning til de projekterende og til kommunerne omkring, hvordan byggerierne håndteres i Be10.
 
@@ -36,7 +36,7 @@ Dette er version 3, dateret 01.01.2018. Den erstatter den tidligere udgivne vejl
 
 De primære ændringer er en opdatering af henvisninger og ændring af titel.
 
-### Indledning
+### Indledning {#4314dcfa-a2b6-4297-a57e-4461bcc18251}
 
 Hospitalsbyggerier er karakteriseret ved en stor kompleksitet både under projektering, opførelse og drift. I alle faser skal der være fokus på det lave energiforbrug og det gode indeklima for at kunne nå i mål med bygningsklasse 2020.
 
@@ -48,7 +48,7 @@ Vejledningen er opbygget som svar på en række centrale fortolkningsspørgsmål
 
 Vejledningen tager netop udgangspunkt i Bygningsreglementet og SBi-anvisning 213: Bygningers Energibehov. Den er således at opfatte som en fortolkning heraf i relation til særlige forhold på hospitaler og eventuelt tilsvarende byggeri, der indeholder tilsvarende problemstillinger. I tvivlstilfælde vil det altid være de grundlæggende regler i Bygningsreglementet og SBi-anvisning 213, der gælder som de primære regler.
 
-### Indeklima
+### Indeklima {#6ce7bd90-66ea-4fee-99d9-6158dfd6918a}
 
 **Spørgsmål:**
 
@@ -70,11 +70,11 @@ Forudsætningerne for beregningen af det termiske indeklima, skal stemme overens
 
 *Hvad er kravet til luftkvalitet?*
 
-**Svar:** 
+**Svar:**
 
 Det specifikke ventilationskrav til bygningsklasse 2020 er fjernet fra BR18. Det normale ventilationskrav i bygningsreglementet skal dog overholdes.
 
-**Spørgsmål:** 
+**Spørgsmål:**
 
 *Hvad er kravet til dagslys?*
 
@@ -82,7 +82,7 @@ Det specifikke ventilationskrav til bygningsklasse 2020 er fjernet fra BR18. Det
 
 Med BR18 er det specifikke dagslyskrav til bygningsklasse 2020 fjernet fra bygningsreglementet. I stedet er der lavet justeringer af de normale minimumskrav til alle bygninger. Dette krav skal i stedet overholdes.
 
-### Tillæg til energirammen
+### Tillæg til energirammen {#4d745970-fa8a-41df-92f8-e7fcd06344df}
 
 **Spørgsmål: (Niras rapport om tillæg til energirammen)**
 
@@ -120,23 +120,23 @@ For de belysningszoner, hvor belysningsniveauet overstiger 300 lux reduceres bel
 
 Hvis der for eksempel er 1 W/m² i standby forbrug og et belysningsniveau på 500 lux med et effektforbrug på 15 W/m² (uden standby forbrug), så vil der skulle indregnes (300 lux / 500 lux) \* 15 W/m² = 9 W/m² (plus standby forbrug).
 
-### Tilbygninger
+### Tilbygninger {#b6f4ed0f-cca4-47d9-9ad6-f20e4af5e607}
 
-**Spørgsmål:** 
+**Spørgsmål:**
 
 *Hvorledes håndteres tilbygninger?*
 
-*- og skal den eksisterende del af bygningen medregnes i energirammeberegningen?*
+- *og skal den eksisterende del af bygningen medregnes i energirammeberegningen?*
 
-**Svar:** 
+**Svar:**
 
-Energirammen kan også gælde for mindre tilbygninger. Det er ejeren, der frit vælger, om der skal bygges efter en energiramme eller efter BR18 ud fra krav til de enkelte bygningsdele (varmetabsramme). Energirammen gælder kun for tilbygningen uanset den øvrige bygnings energimæssige stand. Det gælder uanset om bygningen opføres efter BR18's almindelige bestemmelser eller om bygningen opføres som lavenergibyggeri 2015 eller bygningsklasse 2020.
+Energirammen kan også gælde for mindre tilbygninger. Det er ejeren, der frit vælger, om der skal bygges efter en energiramme eller efter BR18 ud fra krav til de enkelte bygningsdele (varmetabsramme). Energirammen gælder kun for tilbygningen uanset den øvrige bygnings energimæssige stand. Det gælder uanset om bygningen opføres efter BR18’s almindelige bestemmelser eller om bygningen opføres som lavenergibyggeri 2015 eller bygningsklasse 2020.
 
-Selve energirammen for tilbygningen beregnes efter BR18's almindelige regler på basis af det samlede etageareal af hele bygningen, så arealtillægget ikke udløser en høj energiramme.
+Selve energirammen for tilbygningen beregnes efter BR18’s almindelige regler på basis af det samlede etageareal af hele bygningen, så arealtillægget ikke udløser en høj energiramme.
 
 Da energirammen for bygningsklasse 2020 ikke afhænger af bygningens størrelse, er energirammen her 25 kWh/m² med eventuelt tillæg for lang benyttelsestid, ekstra ventilation, belysning og varmt vand mm.
 
-### Tæthed
+### Tæthed {#fc885732-052b-4055-96e2-c19d538db7bd}
 
 **Spørgsmål:**
 
@@ -154,9 +154,9 @@ Tæthedskravet i store bygninger fordrer, at de valgte løsninger er bygbare (r�
 
 I forbindelse med bygningsreglementet er der en eksempelsamling, der bl.a. indeholder et tema om tæthed, se [Tema om tæthed - Eksempelsamling](https://eksempelsamling.bygningsreglementet.dk/fokus_taethed/0/52)
 
-### Rumopvarmning
+### Rumopvarmning {#fa3aaa50-556d-4d47-a3ca-fb72ea35f96f}
 
-**Spørgsmål:** 
+**Spørgsmål:**
 
 *I rum, hvor der er fast installeret udstyr med stor varmeafgivelse, der er tilstrækkelig til at dække varmebehovet, vil det da være i orden ikke at installere nogen varmekilde?*
 
@@ -164,9 +164,9 @@ I forbindelse med bygningsreglementet er der en eksempelsamling, der bl.a. indeh
 
 Bemærk at teknologiudviklingen af apparater vil måske efter kort tid medføre behov for opvarmning, så det vil ofte være relevant enten at have en varmekilde eller have forberedt for en varmekilde i rummet, men det er ikke et krav i bygningsklasse 2020.
 
-### Ventilation
+### Ventilation {#e3a5e724-40f2-4fb3-bcf2-f697bcc23ff4}
 
-**Spørgsmål:** 
+**Spørgsmål:**
 
 *Kan særlige anlæg til ventilation af f.eks. operationsstuer, isolationsstuer og laboratorier med stinkskabe som udgangspunkt kaldes procesanlæg og holdes uden for energibehovsberegningen?*
 
@@ -174,7 +174,7 @@ Bemærk at teknologiudviklingen af apparater vil måske efter kort tid medføre 
 
 Trafik-, Bygge- og Boligstyrelsen skelner mellem procesventilation, hvor det er stinkskabe, serverrum og lignende, og ventilation af operationsstuer og isolationsstuer, der efter styrelsens opfattelse ikke er procesventilation.
 
-[Åbn Bygningsreglementets vejledning om håndtering af forskellige typer af energibehov i energirammen.](../haandtering-af-forskelligt-energibehov "Haandtering af forskelligt energibehov")
+[Åbn Bygningsreglementets vejledning om håndtering af forskellige typer af energibehov i energirammen.](../haandtering-af-forskelligt-energibehov/ "Haandtering af forskelligt energibehov")
 
 **Spørgsmål:**
 
@@ -184,7 +184,7 @@ Trafik-, Bygge- og Boligstyrelsen skelner mellem procesventilation, hvor det er 
 
 Tillægget til energirammen er ikke begrænset til kun at gælde opvarmningssæsonen. Der kan også opnås tillæg for sommerperioden, forudsat at det er begrundet af kravene til atmosfærisk indeklima eller hygiejniske forhold.
 
-[Åbn Bygningsreglementets vejledning om håndtering af forskellige typer af energibehov i energirammen.](../haandtering-af-forskelligt-energibehov "Haandtering af forskelligt energibehov")
+[Åbn Bygningsreglementets vejledning om håndtering af forskellige typer af energibehov i energirammen.](../haandtering-af-forskelligt-energibehov/ "Haandtering af forskelligt energibehov")
 
 **Spørgsmål:**
 
@@ -202,13 +202,13 @@ Statistisk og i praksis vil der altid være en samtidighedsfaktor, der for store
 
 Der skal normalt medregnes en ventilationsmængde på 1,2 l/s pr. m² i referenceberegningen uden tillæg. De 1,2 l/s pr. m² udgør en minimumsluftmængde, der normalt vil være nødvendig for at sikre frisklufttilførslen i rummene. SEL-værdi og varmegenvinding skal være baseret på beregning for den gennemsnitlige luftmængde, inklusive procesventilation.
 
-### Elforbrug til ventilation
+### Elforbrug til ventilation {#38e8d818-8a36-406e-8bb2-7019e1598beb}
 
-**Spørgsmål:** 
+**Spørgsmål:**
 
 *Ved ventilation af operationsstuer og isolationsstuer stilles ofte omfattende kliniske krav til filtrering af luft, hvilket forøger energiforbruget til lufttransport betydeligt. Kan der gives tillæg til den maksimalt tilladelige SEL værdi på baggrund af tryktab over F9 og HEPA filtre?*
 
-**Svar:** 
+**Svar:**
 
 Kravet til SEL-værdi er et komponentkrav. Der er derfor ikke mulighed for højere krav på grund af tryktab på filtre. Der kan dog opnås tillæg for filtre ud over F7, hvis de etableres som følge af hygiejnekrav i bygningen.
 
@@ -244,7 +244,7 @@ Vejledningen til bygningsreglementets §473 definerer SEL som: " Ved det specifi
 
 I rum med renlighedskrav, der overstiger de normale komfortanlæg, hvilket for eksempel er operationsstuer eller laboratorier, kan det accepteres at der benyttes recirkulation uden at blive straffet for det i forhold til Bygningsreglementets krav. I det tilfælde regnes SEL-værdien ud efter den samlede luftmængde. Det er udelukkende ved renlighedskrav, at denne metode kan vælges, ellers skal den normale metode i henhold til bygningsreglementet følges.
 
-**Spørgsmål:** 
+**Spørgsmål:**
 
 *Hvordan håndteres sammenbygning med eksisterende bygning, hvor etagehøjden i den eksisterende bygning dikterer etagehøjden i det nye byggeri – set i forhold til muligheden for at opfylde kravet til elforbrug til ventilation, SEL?*
 
@@ -252,7 +252,7 @@ I rum med renlighedskrav, der overstiger de normale komfortanlæg, hvilket for e
 
 Kravene til det specifikke elforbrug til lufttransport i ventilationsanlæg kan opfyldes med flere forskellige løsninger. Vandrette føringer af kanaler kan være så pladskrævende, at det nødvendiggør en højere etagehøjde. Løsninger med vandret føring af kanaler i et teknikrum eller kælder og flere skakte vil kunne reducere størrelsen af de kanaler, der skal føres vandret i de enkelte etager. Herudover kan elforbruget begrænses ved bedre ventilationsaggregater og benyttelse af bedre reguleringsspjæld med lavt tryktab.
 
-### Varmegenvinding
+### Varmegenvinding {#a15211c9-810a-44c5-94fd-1c86c694c369}
 
 **Spørgsmål:**
 
@@ -268,15 +268,15 @@ Statens Serum institut har sanktioneret anvendelsen af rotorveksler på Aabenraa
 
 Roterende vekslere kan således anvendes, når særlig installation og driftsikkerhed iagttages.
 
-**Spørgsmål:** 
+**Spørgsmål:**
 
 *Hvis der fx på et isolationsafsnit er krav til adskillelse af friskluft og afkastluft i ventilationsanlægget og man dermed er henvist til mindre energieffektive varmegenvindingssystemer som fx væskekoblede batterier, kan der så indregnes et tillæg hertil i energirammen?*
 
 **Svar:**
 
-Ja. Det er Trafik-, Bygge- og Boligstyrelsens opfattelse, at et sådant merforbrug som følge af forskellen på den "procesbestemte" teknologi og så bygningsreglementets generelle krav til varmegenvinding indebærer en mulighed for tillæg til energirammen for forskellen på kravet i bygningsreglementet og så den aktuelle løsning.
+Ja. Det er Trafik-, Bygge- og Boligstyrelsens opfattelse, at et sådant merforbrug som følge af forskellen på den ”procesbestemte” teknologi og så bygningsreglementets generelle krav til varmegenvinding indebærer en mulighed for tillæg til energirammen for forskellen på kravet i bygningsreglementet og så den aktuelle løsning.
 
-### VE-anlæg
+### VE-anlæg {#24ba9ab7-aac0-48a0-b31a-356523e3eb70}
 
 **Spørgsmål:**
 
@@ -284,7 +284,7 @@ Ja. Det er Trafik-, Bygge- og Boligstyrelsens opfattelse, at et sådant merforbr
 
 **Svar:**
 
-Bestemmelsen i bygningsreglementet om VE-anlæg på bygningen eller nærved stammer fra Direktiv 2010/31/EU om bygningers energimæssige ydeevne. I forbindelse med spørgsmål og svar på Bygningsreg-lementet.dk har Energistyrelsen vejledende svaret herpå. Dette svar er nu præciseret. Af dette svar fremgår, at "nærved" efter Energistyrelsens opfattelse er en placering i kommunen, eller for en yderligt beliggende bygning kan det også være en placering nær bygningen selvom placeringen er på den anden side af kommunegrænsen. Derudover er det en forudsætning, at ejerne af bygningerne bidrager økonomisk til etablering af det fælles VE-anlæg.
+Bestemmelsen i bygningsreglementet om VE-anlæg på bygningen eller nærved stammer fra Direktiv 2010/31/EU om bygningers energimæssige ydeevne. I forbindelse med spørgsmål og svar på Bygningsreg-lementet.dk har Energistyrelsen vejledende svaret herpå. Dette svar er nu præciseret. Af dette svar fremgår, at ”nærved” efter Energistyrelsens opfattelse er en placering i kommunen, eller for en yderligt beliggende bygning kan det også være en placering nær bygningen selvom placeringen er på den anden side af kommunegrænsen. Derudover er det en forudsætning, at ejerne af bygningerne bidrager økonomisk til etablering af det fælles VE-anlæg.
 
 **Spørgsmål:**
 
@@ -292,9 +292,9 @@ Bestemmelsen i bygningsreglementet om VE-anlæg på bygningen eller nærved stam
 
 **Svar:**
 
-I bygningsklasse 2020 er der taget højde for at en stigende del af elproduktionen kommer fra VE-anlæg. Fælles produktion af vedvarende energi fra fx havvindmøller er allerede indregnet i Energifaktoren for el, der anvendes i bygningsklasse 2020. Energifaktoren er på grund af den forventede udbygning med vind reduceret fra 2,5 til 1,8. Det skal i denne sammenhæng bemærkes, at selv med en tidshorisont frem til 2050 forventes energifaktoren i Klimakommissionens fremtidsscenarier kun at falde til 1,25 – 1,6 afhængigt af om udviklingen følger et ambitiøst scenarie eller ikke. Energistyrelsens fortolkning af "nærved" er en vidtgående fortolkning af EU direktivet, der begunstiger VE-anlæg.
+I bygningsklasse 2020 er der taget højde for at en stigende del af elproduktionen kommer fra VE-anlæg. Fælles produktion af vedvarende energi fra fx havvindmøller er allerede indregnet i Energifaktoren for el, der anvendes i bygningsklasse 2020. Energifaktoren er på grund af den forventede udbygning med vind reduceret fra 2,5 til 1,8. Det skal i denne sammenhæng bemærkes, at selv med en tidshorisont frem til 2050 forventes energifaktoren i Klimakommissionens fremtidsscenarier kun at falde til 1,25 – 1,6 afhængigt af om udviklingen følger et ambitiøst scenarie eller ikke. Energistyrelsens fortolkning af ”nærved” er en vidtgående fortolkning af EU direktivet, der begunstiger VE-anlæg.
 
-**Spørgsmål:** 
+**Spørgsmål:**
 
 *Det fremgår af bygningsreglementet, at etablering af et fælles VE-anlæg kan indregnes i energirammen under forudsætning af, at ejerne bidrager økonomisk til etableringen heraf. Hvilke regler gælder for regioners deltagelse i fælles VE-anlæg, herunder hjemlen til deltagelse?*
 
@@ -302,13 +302,13 @@ I bygningsklasse 2020 er der taget højde for at en stigende del af elproduktion
 
 En region har mulighed for efter reglerne om myndighedsfuldmagt at etablere VE-anlæg til at forsyne sig selv med energi/elektricitet til eget brug. Anlægget skal derfor dimensioneres til den regionale bygnings eget forbrug. Der knytter sig særlige vilkår for salg overkapacitet af energi/elektricitet for de konkrete anlæg.
 
-### Byggesagsbehandling
+### Byggesagsbehandling {#9bf8838f-884b-4e75-857e-651abd614786}
 
-**Spørgsmål:** 
+**Spørgsmål:**
 
 *Er det muligt for kommune og region på forhånd at aftale et uvildigt kontrolforløb?*
 
-**Svar:** 
+**Svar:**
 
 I de fleste kommuner foregår byggesagsbehandling af store byggeopgaver i en dialog mellem kommune, bygherren og dennes rådgivere.
 
@@ -316,7 +316,7 @@ Trafik-, Bygge- og Boligstyrelsen finder det naturligt, at man også her drøfte
 
 Forudsat at den valgte bygherrerådgiver er uafhængig af det byggekonsortium, der skal bygge hospitalet, kan bygherrerådgiveren indgå i kontrolforløbet på bygherrens vegne.
 
-**Spørgsmål:** 
+**Spørgsmål:**
 
 *Hvilke beregningsforudsætninger og metoder skal anvendes ved kvantificering af forventede energiforbrug og indeklima?*
 
@@ -328,13 +328,13 @@ Det termiske indeklima dokumenteres overholdt ved beregning med et simuleringspr
 
 Forudsætningerne for eftervisning af overholdelse af energirammen fremgår af BR18 og SBi anvisning 213.
 
-### Andet
+### Andet {#8bedbd8b-bcc6-48ef-bcd2-fc5f667bab77}
 
-**Spørgsmål:** 
+**Spørgsmål:**
 
 *De forskellige afsnit har forskellig varmeudvikling. Kan man opdele bygningen, så man ikke skal køle mere, jo mere der isoleres?*
 
-**Svar:** 
+**Svar:**
 
 De forskellige bygningsafsnit skal samlet opfylde bygningsklasse 2020.
 
@@ -350,21 +350,21 @@ Det er fornuftigt at opdele bygningen i relevante afsnit. Det betyder så, at fo
 
 Forbindes enkeltstående bygninger med uopvarmede gange eller tunneler, betragtes bygningerne hver for sig med egen energiramme. Er glasgangen derimod opvarmet indgår den i energirammen, der så omfatter de forbundne bygninger.
 
-**Spørgsmål:** 
+**Spørgsmål:**
 
 *Bygningsreglementets § 475, stk. 2: "* For bygninger eller bygningsafsnit i bygningsklasse 2020 med behov, f.eks. et højt belysningsniveau, ekstra meget ventilation, et stort forbrug af varmt brugsvand, eller lang benyttelsestid eller bygninger med stor rumhøjde forhøjes energirammen med et tillæg, der modsvarer det beregnede energiforbrug hertil.*." Det fremgår dermed, at procesenergi ikke indgår.*
 
 *Fortolkningen af om man kan opnå forskellen mellem varmegenvindingens krav i bygningsreglementet og den aktuelle løsning, virker for simpel. Normalt vil man for bygninger, bygningsklasse 2020, have væsentlig højere krav til varmegenvinding end i bygningsreglementet. Kan der sammenlignes med de øvrige områder i samme bygning, der ikke har proceskrav?*
 
-**Svar:** 
+**Svar:**
 
 Ved nødvendige afvigelser fra bygningsreglementets krav er der mulighed for et tillæg til energirammen. For fx varmegenvinding beregnes dette tillæg som forskellen mellem kravet til varmegenvinding i bygningsklasse 2020 og så det aktuelle anlæg med en lavere virkningsgrad. Det er således ikke det eventuelle bedste anlæg ud af fx 25 forskellige, der danner basis for beregningen af tillægget.
 
-**Spørgsmål:** 
+**Spørgsmål:**
 
 *En tydelig definition af hvad der defineres som procesventilation er nødvendig - eksempelvis skelnet på opblandingsventilation og ex stinkskabe/LAF. Samtidigt bør det således specificeres, at ventilation af operationsstuer og isolationsstuer (ved opblanding) medtages i energiberegninger med hele den ventilerede luftmængde og at luftmængden over 1,2 l/s m2 som følge af atmosfæriske krav i opvarmningssæsonen er tillægsberettiget?*
 
-**Svar:** 
+**Svar:**
 
 Som det fremgår ovenfor, er det Trafik-, Bygge- og Boligstyrelsens opfattelse, at ventilation, der etableres af hensyn til en proces for at fjerne overskudsvarme, fugt eller farlige stoffer er procesventilation, hvorimod ventilation, der klimatiserer et rum og leverer friskluft af hensyn til personerne i rummet, ikke er procesventilation.
 
@@ -377,4 +377,3 @@ Som det fremgår ovenfor, er det Trafik-, Bygge- og Boligstyrelsens opfattelse, 
 Ventilation af fx operationsstuer vil udløse et tillæg, der dækker et merforbrug i forhold til normal kontorventilation med den aktuelt anvendte teknologi. Der er ikke et pres på for at forbedre denne teknologi.
 
 Tillægget til energirammen beregnes som fx merforbrug af el til belysning, varme- og køleforbrug og eventuelt vandforbrug i den aktuelle bygning i forhold til en referencebygning.
-

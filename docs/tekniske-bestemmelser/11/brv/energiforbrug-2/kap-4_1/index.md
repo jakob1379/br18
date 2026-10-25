@@ -2,19 +2,19 @@
 
 ## Se alle vejledninger om Energiforbrug og klimapåvirkning (§ 250 - § 298)
 
-- [Spørgsmål og svar om energiforbrug](../../qa)
-- [Spørgsmål og svar om bygningers klimapåvirkning](../../spoergsmaal-og-svar-om-bygningers-klimapaavirkning)
-- [Bygningsreglementets vejledning om energiforbrug](./)
-- [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner)
-- [Vejledning om funktionsafprøvning](../../version-2-funktionsafprovning)
-- [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov)
-- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../../bygningers-klimapaavirkning-1-juli-2025)
-- [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler)
-- [Eksempelsamling for energi](../../eksempelsamling)
+- [Spørgsmål og svar om energiforbrug](../../qa/)
+- [Spørgsmål og svar om bygningers klimapåvirkning](../../spoergsmaal-og-svar-om-bygningers-klimapaavirkning/)
+- [Bygningsreglementets vejledning om energiforbrug](../)
+- [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner/)
+- [Vejledning om funktionsafprøvning](../../version-2-funktionsafprovning/)
+- [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov/)
+- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../../bygningers-klimapaavirkning-1-juli-2025/)
+- [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler/)
+- [Eksempelsamling for energi](../../eksempelsamling/)
 
 ## Bygningsreglementets vejledning om energiforbrug
 
-### Forord
+### Forord {#e4a4aefb-350b-4266-827e-1508450a3f72}
 
 ### 1.0. Generelt {#5d0fd3cc-01f4-4dbe-bf46-d43a912b077e}
 
@@ -66,11 +66,13 @@ Der kan med hjemmel i byggelovens § 22 dispenseres fra bestemmelserne i §279, 
 
 I forbindelse med større renoveringsarbejder på bevaringsværdige bygninger bør potentielle energiforbedringer altid indgå i forhåndsdialogen mellem kommunen og bygningsejere og/eller dennes rådgiver. E-SAVE-Vejledning til kommunal sagsbehandling af byggesager med energitiltag i bevaringsværdige bygninger, udgivet af GATE 21, Bygherreforeningen m.fl. (2016), indeholder redskaber til denne dialog og forhandling.
 
--  [Gå til energikrav ved ombygninger og udskiftning af bygningsdele - fredede bygninger (§ 278)](../../../krav/274_279#afb229c4-65a2-4b7d-8613-8fe584c21e25){target="_blank"}
+- [Gå til energikrav ved ombygninger og udskiftning af bygningsdele - fredede bygninger (§ 278)](../../../krav/274_279/#afb229c4-65a2-4b7d-8613-8fe584c21e25){target="_blank"}
 
-[![](../../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
-#### Byggeloven
+####
+
+Byggeloven
 
 #### Anvendelsesområde
 
@@ -78,19 +80,23 @@ Byggeloven
 
 #### Se byggeloven her [Se byggeloven her](https://www.retsinformation.dk/forms/R0710.aspx?id=183662){target="_blank"}
 
-[![](../../../../../assets/img/linkbox/info_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/info_linkbox.svg)](#)
 
-#### Energiguide for fredede og bevaringsværdige huse, Bygningskultur Danmark 2019
+####
+
+Energiguide for fredede og bevaringsværdige huse, Bygningskultur Danmark 2019
 
 #### Anvendelsesområde
 
 En energiguide, som i et let forståeligt sprog uden indforstået teknisk jargon klæder husejere på til at gøre deres huse mere energivenlige - uden at gå på kompromis med husets historiske og kulturelle kvaliteter.
 
-#### [Se energiguiden her](https://historiskehuse.dk/produkt/energiguide-for-fredede-og-bevaringsvaerdige-huse/){target="_blank"}
+#### Se energiguiden her [](https://historiskehuse.dk/produkt/energiguide-for-fredede-og-bevaringsvaerdige-huse/){target="_blank"}
 
-[![](../../../../../assets/img/linkbox/info_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/info_linkbox.svg)](#)
 
-#### E-SAVE-vejledning til kommunal sagsbehandling af byggesager med energitiltag i bevaringsværdige bygninger
+####
+
+E-SAVE-vejledning til kommunal sagsbehandling af byggesager med energitiltag i bevaringsværdige bygninger
 
 #### Anvendelsesområde
 
