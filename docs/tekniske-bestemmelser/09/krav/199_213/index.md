@@ -222,7 +222,7 @@ Hoteller, kroer og lignende bygninger skal indrettes således, at brugerne ved e
 
 ### § 233 {#paragraf-233}
 
-I hoteller, kroer og lignende med 10-20 sengepladser skal der indrettes minimum 2 sengepladser med egne bade- og wc-faciliteter, som opfylder følgende krav:
+I hoteller, kroer og lignende med 10-20 sengepladser skal der indrettes minimum 2 sengepladser med egne bade- og wc- faciliteter, som opfylder følgende krav:
 
 1\) Der skal være niveaufri adgang frem til wc-rum.
 
@@ -242,7 +242,7 @@ I hoteller, kroer og lignende med 10-20 sengepladser skal der indrettes minimum 
 
 ### § 234 {#paragraf-234}
 
-I hoteller, kroer og lignende med 21-40 sengepladser skal der indrettes minimum 4 sengepladser med egne bade- og wc-faciliteter, som opfylder § 233.
+I hoteller, kroer og lignende med 21-40 sengepladser skal der indrettes minimum 4 sengepladser med egne bade- og wc- faciliteter, som opfylder § 233.
 
 ### § 235 {#paragraf-235}
 
