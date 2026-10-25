@@ -11,29 +11,16 @@
 
 ## - Vejledning til daginstitutionsbygninger
 
-[4.0](./)
-
-### Daginstitutionsbygninger
+### 4.0 Daginstitutionsbygninger {#094ec304-9893-4358-a568-bdddbcf3061e}
 
 Tabellerne i dette afsnit beskriver lydbestemmelserne for lydisolation, støj indendørs fra trafik, støj fra tekniske installationer samt efterklangstid og absorptionsareal. Grænseværdierne er primært gengivet fra SBi-anvisning 218 om lydforhold i undervisnings- og daginstitutionsbygninger.
 
-[4.1](../definitioner-af-rumtyper-for-daginstitutionsbygninger/)
+### 4.1 Definitioner af rumtyper for daginstitutionsbygninger {#164545a8-0817-4f4b-b148-f12863ce4727}
 
-### Definitioner af rumtyper for daginstitutionsbygninger
+### 4.2 Lydisolation for daginstitutionsbygninger {#4744db10-a45b-4319-a98c-d015d8b65921}
 
-[4.2](../lydisolation-for-daginstitutionsbygninger/)
+### 4.3 Støj indendørs fra trafik i daginstitutionsbygninger {#260ed0d3-ae7e-4319-9b3f-245014fb85e4}
 
-### Lydisolation for daginstitutionsbygninger
+### 4.4 Støj fra tekniske installationer i daginstitutionsbygninger {#76725ae1-5721-442b-8968-6204a1cd5e7b}
 
-[4.3](../stoej-indendoers-fra-trafik-i-daginstitutionsbygninger/)
-
-### Støj indendørs fra trafik i daginstitutionsbygninger
-
-[4.4](../stoej-fra-tekniske-installationer-i-daginstitutionsbygninger/)
-
-### Støj fra tekniske installationer i daginstitutionsbygninger
-
-[4.5](../rumakustik-i-daginstitutionsbygninger/)
-
-### Rumakustik i daginstitutionsbygninger
-
+### 4.5 Rumakustik i daginstitutionsbygninger {#dd0f6c4b-6b64-4dcc-95d6-f3bac962e516}

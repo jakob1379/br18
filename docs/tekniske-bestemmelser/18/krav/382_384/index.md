@@ -50,9 +50,8 @@ Arbejdsrum mv. og fælles adgangsveje skal:
 
 ### § 383 {#paragraf-383}
 
-§ 382 gælder også ved udskiftning af armaturer. Ved udskiftning af armaturer er § 382, stk. 1, nr. 3-5, dog kun gældende, hvor foranstaltningerne samlet set har den fornødne rentabilitet, jf.§ 275.
+ § 382 gælder også ved udskiftning af armaturer. Ved udskiftning af armaturer er § 382, stk. 1, nr. 3-5, dog kun gældende, hvor foranstaltningerne samlet set har den fornødne rentabilitet, jf.§ 275.
 
 ### § 384 {#paragraf-384}
 
 Der skal gennemføres en funktionsafprøvning af belysningsanlægget før ibrugtagning. Funktionsafprøvningen skal dokumentere, at belysningsanlægget overholder bygningsreglementets krav til belysningsstyrke, samt at dagslysstyring, bevægelsesmeldere og zoneopdeling fungerer efter hensigten
-

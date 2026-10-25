@@ -58,4 +58,3 @@ Hvis rum med støjende aktiviteter i samme eller tilgrænsende bygninger grænse
 Rums efterklangstid skal være reguleret i overensstemmelse med rummenes anvendelse.
 
 Stk. 2. For undervisnings- og daginstitutionsbygninger er bestemmelsen opfyldt, når det kan dokumenteres, at grænseværdierne angivet i Bygningsreglementets vejledning om lydforhold er overholdt, eller når det på anden vis kan dokumenteres, at et tilsvarende niveau er opnået.
-

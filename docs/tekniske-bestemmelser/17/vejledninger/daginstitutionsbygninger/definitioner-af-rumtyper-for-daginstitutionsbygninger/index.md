@@ -11,13 +11,9 @@
 
 ## - Vejledning til daginstitutionsbygninger
 
-[4.0](../daginstitutionsbygninger/)
+### 4.0 Daginstitutionsbygninger {#094ec304-9893-4358-a568-bdddbcf3061e}
 
-### Daginstitutionsbygninger
-
-[4.1](./)
-
-### Definitioner af rumtyper for daginstitutionsbygninger
+### 4.1 Definitioner af rumtyper for daginstitutionsbygninger {#164545a8-0817-4f4b-b148-f12863ce4727}
 
 I en daginstitution er stort set alle rum, hvor der opholder sig børn eller voksne, at betragte som **opholdsrum**, herunder også fællesrum, gangarealer, garderober, trapperum, værksteder, personalerum, kontorer mv. Kun toiletrum, depotrum og tilsvarende regnes ikke som opholdsrum.
 
@@ -31,18 +27,12 @@ Med hensyn til Bygningsreglementets bestemmelser for lydisolation skelnes der me
 
 Bygningsreglementets krav om særskilte lydisolerende tiltag mellem opholdsrum og tilgrænsende rum i erhvervsenheder eller i andre institutioner gælder kun ved tilgrænsende **rum med særligt generende støj** og således ikke ved sammenbygning med kontorlokaler eller almindelige undervisnings- eller opholdsrum, hvor der derfor kan fastsættes mere lempelige grænseværdier ved den akustiske projektering.
 
-[4.2](../lydisolation-for-daginstitutionsbygninger/)
+###
 
-### Lydisolation for daginstitutionsbygninger
+### 4.2 Lydisolation for daginstitutionsbygninger {#4744db10-a45b-4319-a98c-d015d8b65921}
 
-[4.3](../stoej-indendoers-fra-trafik-i-daginstitutionsbygninger/)
+### 4.3 Støj indendørs fra trafik i daginstitutionsbygninger {#260ed0d3-ae7e-4319-9b3f-245014fb85e4}
 
-### Støj indendørs fra trafik i daginstitutionsbygninger
+### 4.4 Støj fra tekniske installationer i daginstitutionsbygninger {#76725ae1-5721-442b-8968-6204a1cd5e7b}
 
-[4.4](../stoej-fra-tekniske-installationer-i-daginstitutionsbygninger/)
-
-### Støj fra tekniske installationer i daginstitutionsbygninger
-
-[4.5](../rumakustik-i-daginstitutionsbygninger/)
-
-### Rumakustik i daginstitutionsbygninger
+### 4.5 Rumakustik i daginstitutionsbygninger {#dd0f6c4b-6b64-4dcc-95d6-f3bac962e516}

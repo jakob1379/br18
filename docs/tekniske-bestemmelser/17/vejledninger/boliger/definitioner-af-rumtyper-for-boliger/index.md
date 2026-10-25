@@ -11,13 +11,9 @@
 
 ## - Vejledning til boliger og andre bygninger til overnatning
 
-[2.0](../boliger-og-andre-bygninger-til-overnatning/)
+### 2.0 Boliger og andre bygninger til overnatning (§§ 369 - 373) {#590907f1-dc1f-4f86-a3b7-529da3246874}
 
-### Boliger og andre bygninger til overnatning (§§ 369 - 373)
-
-[2.1](./)
-
-### Definitioner af rumtyper for boliger
+### 2.1 Definitioner af rumtyper for boliger {#a9156c46-aca7-4a44-ae12-d5c0444157ec}
 
 ### Definitioner af rumtyper for boliger
 
@@ -33,19 +29,10 @@
 
 **Udendørs rekreative arealer** er primære udendørs opholdsarealer som altaner, terrasser, tagterrasser og siddepladser, men ikke gangarealer, trapper, bede, beplantninger mv.
 
-[2.2](../lydisolation-for-boliger/)
+### 2.2 Lydisolation for boliger {#f5c760f7-e452-453e-9383-0fc836479a59}
 
-### Lydisolation for boliger
+### 2.3 Støj indendørs fra trafik i boliger {#1dc563fc-338b-493f-a74a-f86f0a455bc4}
 
-[2.3](../stoej-indendoers-fra-trafik-i-boliger/)
+### 2.4 Støj fra tekniske installationer i boliger {#f0f23bd2-598e-408d-b432-10015dc168fd}
 
-### Støj indendørs fra trafik i boliger
-
-[2.4](../stoej-fra-tekniske-installationer-i-boliger/)
-
-### Støj fra tekniske installationer i boliger
-
-[2.5](../rumakustik-i-boliger/)
-
-### Rumakustik i boliger
-
+### 2.5 Rumakustik i boliger {#3e1aeb87-38eb-4d08-8d52-f6f416dc2e29}

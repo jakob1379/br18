@@ -11,9 +11,7 @@
 
 ## - Vejledning til hospitaler, lægehuse og klinikker
 
-[6.0](./)
-
-### Hospitaler, lægehuse og klinikker
+### 6.0 Hospitaler, lægehuse og klinikker {#5489c5c0-ab5f-41ad-80d7-9c09256175c9}
 
 Tabellerne i dette afsnit beskriver forslag til projekteringsværdier for lydisolation, støj indendørs fra trafik, støj fra tekniske installationer samt efterklangstid og absorptions­areal i hospitaler og i andre bygninger med lignende anvendelse, fx lægehuse og klinikker.
 
@@ -53,18 +51,10 @@ For hospitaler har en række rum skærpede lydkrav i forhold til andre bygningsa
 
 - **Teknikrum**
 
-[6.1](../lydisolation-for-hospitaler-laegehuse-og-klinikker/)
+### 6.1 Lydisolation {#8bb1a8f1-5b7d-4bce-9ee0-6bb125388942}
 
-### Lydisolation
+### 6.2 Støj indendørs fra trafik {#e4f257c7-aa92-45b0-bee8-6f1d15b43982}
 
-[6.2](../stoej-indendoers-fra-trafik-i-hospitaler-laegehuse-og-klinikker/)
+### 6.3 Støj fra tekniske installationer {#604f2261-6385-420f-95be-82ffe076bed8}
 
-### Støj indendørs fra trafik
-
-[6.3](../stoej-fra-tekniske-installationer-i-hospitaler-laegehuse-og-klinikker/)
-
-### Støj fra tekniske installationer
-
-[6.4](../rumakustik-i-hospitaler-laegehuse-og-klinikker/)
-
-### Rumakustik
+### 6.4 Rumakustik {#e7acca73-f8e2-4a4f-b1ad-85505632d69a}

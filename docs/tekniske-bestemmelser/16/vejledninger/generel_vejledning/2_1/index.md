@@ -2,24 +2,18 @@
 
 ## Se alle vejledninger om Legepladser mv. (§ 358 - § 367)
 
-- [](../../qa)
+- [](../../qa/)
 - [Bygningsreglementets vejledning om legepladser mv.](../)
 
 ## Bygningsreglementets vejledning om legepladser mv.
 
-### Rettelsesblad til vejledning om legepladser (1. januar 2025)
+### Rettelsesblad til vejledning om legepladser (1. januar 2025) {#4d2c1417-498a-4d15-aa8a-9bf90427efa7}
 
-[1.](../forord/)
+### 1. Forord {#65b73685-d9f4-4e3b-8a90-9bcec6a68773}
 
-### Forord
+### 2. Generelt {#311d3af7-7ff8-409f-b0ec-f4794334b40d}
 
-[2.](../2/)
-
-### Generelt
-
-[2.1.](./)
-
-### Hvornår er legepladser og legepladsredskaber bebyggelse?
+### 2.1. Hvornår er legepladser og legepladsredskaber bebyggelse? {#a8f02ff9-7ec7-4fce-aac9-9551989fb835}
 
 Byggelovens § 2, stk. 2, fastslår, at loven finder anvendelse på bygninger, mure og andre faste konstruktioner og anlæg, når anvendelsen af byggeloven er begrundet med sikkerheds- og sundhedsmæssige hensyn, som er de overordnede formål med byggeloven.
 
@@ -31,35 +25,18 @@ Grundet ovenstående vurderes det, at mindre flytbare havetrampoliner, der alene
 
 Om et bestemt legepladsredskab kan betragtes som bebyggelse i byggelovens forstand afgøres af kommunen efter en konkret vurdering.
 
-[2.2.](../2_2/)
+### 2.2. Hvornår er legepladser og legepladsredskaber offentligt tilgængelige? {#50db7ce8-eb57-41a7-bf1c-736f4ace0f3f}
 
-### Hvornår er legepladser og legepladsredskaber offentligt tilgængelige?
+### 3. Byggesagsbehandling af legepladser mv. {#3d15f438-c9f9-4289-bc25-073498fdfaf1}
 
-[3.](../3_0/)
+### 3.1. Indplacering i konstruktionsklasse {#bdf21a94-3d46-4fd2-83f6-c7c2939c8a7f}
 
-### Byggesagsbehandling af legepladser mv.
+### 3.1.1. Legepladser mv., der er undtaget for indplacering i konstruktionsklasse {#1a25dde1-3c1c-4c03-a76a-068cf6b15e8d}
 
-[3.1.](../3_1/)
+### 3.2. Indplacering i brandklasse {#ec67cfb6-3db0-4f76-bce2-7a6f917204b0}
 
-### Indplacering i konstruktionsklasse
+### 3.2.1. Legepladser mv., der er undtaget for indplacering i brandklasse {#edfcf8a6-5d39-485e-b349-eb8b38f1fc4a}
 
-[3.1.1.](../3_1_1/)
+### 4. Sikkerhedskrav og adgangsforhold for legepladser mv. {#52895043-7fae-4429-ac60-b0909eb1bbab}
 
-### Legepladser mv., der er undtaget for indplacering i konstruktionsklasse
-
-[3.2.](../3_2/)
-
-### Indplacering i brandklasse
-
-[3.2.1.](../3_2_1/)
-
-### Legepladser mv., der er undtaget for indplacering i brandklasse
-
-[4.](../4/)
-
-### Sikkerhedskrav og adgangsforhold for legepladser mv.
-
-[5.](../5/)
-
-### Drift, kontrol og vedligehold
-
+### 5. Drift, kontrol og vedligehold {#9010be35-e1df-4a55-919d-9ce0c4978514}

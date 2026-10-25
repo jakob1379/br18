@@ -11,27 +11,17 @@
 
 ## - Vejledning til daginstitutionsbygninger
 
-[4.0](../daginstitutionsbygninger/)
+### 4.0 Daginstitutionsbygninger {#094ec304-9893-4358-a568-bdddbcf3061e}
 
-### Daginstitutionsbygninger
+### 4.1 Definitioner af rumtyper for daginstitutionsbygninger {#164545a8-0817-4f4b-b148-f12863ce4727}
 
-[4.1](../definitioner-af-rumtyper-for-daginstitutionsbygninger/)
+### 4.2 Lydisolation for daginstitutionsbygninger {#4744db10-a45b-4319-a98c-d015d8b65921}
 
-### Definitioner af rumtyper for daginstitutionsbygninger
+### 4.3 Støj indendørs fra trafik i daginstitutionsbygninger {#260ed0d3-ae7e-4319-9b3f-245014fb85e4}
 
-[4.2](../lydisolation-for-daginstitutionsbygninger/)
+### 4.4 Støj fra tekniske installationer i daginstitutionsbygninger {#76725ae1-5721-442b-8968-6204a1cd5e7b}
 
-### Lydisolation for daginstitutionsbygninger
-
-[4.3](../stoej-indendoers-fra-trafik-i-daginstitutionsbygninger/)
-
-### Støj indendørs fra trafik i daginstitutionsbygninger
-
-[4.4](./)
-
-### Støj fra tekniske installationer i daginstitutionsbygninger
-
-Tabel 4.3 indeholder grænseværdier for støj fra tekniske installationer i daginstitutionsbygninger svarende til overholdelse af BR2018's lydbestemmelser samt supplerende vejledende grænseværdier for lavfrekvent støj og infralyd.
+Tabel 4.3 indeholder grænseværdier for støj fra tekniske installationer i daginstitutionsbygninger svarende til overholdelse af BR2018’s lydbestemmelser samt supplerende vejledende grænseværdier for lavfrekvent støj og infralyd.
 
 Lydbestemmelserne er gengivet fra SBi-anvisning 218, og den supplerende vejledning fra SBi-anvisning 272 og Miljøstyrelsens orientering 9/1997.
 
@@ -39,40 +29,41 @@ Referencer findes i [afsnit 1.5](../../generel_vejledning/referenceliste/ "Refe
 
 Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde bygningsreglementets funktionskrav, er anført separat i tabellerne (i kursiv).
 
-<table style="width:99%;">
+<table>
 <colgroup>
-<col style="width: 36%" />
-<col style="width: 32%" />
-<col style="width: 30%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
 </colgroup>
 <tbody>
 <tr>
-<td colspan="3"><strong>Daginstitutionsbygninger – Tabel 4.3 Støj fra tekniske installationer</strong></td>
+<td colspan="3"><strong>Daginstitutionsbygninger – Tabel 4.3 Støj fra tekniske installationer</strong> </td>
 </tr>
 <tr>
-<td><strong>Rumtype</strong></td>
+<td><strong>Rumtype</strong> </td>
 <td><strong>Støjkilde <sup>2)</sup></strong></td>
 <td><strong><em>L<sub>Aeq</sub></em></strong></td>
 </tr>
 <tr>
-<td>I opholdsrum <sup>1), a)</sup><em>    </em><strong>[4]</strong></td>
-<td>Bygningens tekniske installationer</td>
-<td>≤ 30 dB</td>
+<td>I opholdsrum <sup>1), a)</sup>    <strong>[4]</strong> </td>
+<td><p>Bygningens tekniske installationer</p></td>
+<td>≤ 30 dB </td>
 </tr>
 <tr>
-<td colspan="3"><p><em>Supplerende vejledning     </em><strong>[3], [9]</strong></p>
+<td colspan="3"><p><em>Supplerende vejledning</em>     <strong>[3], [9]</strong></p>
 <p>a)  <em>For tekniske installationer, der giver anledning til lavfrekvent støj i opholdsrum:</em></p>
-<p><em>A-vægtet, ækvivalent lydtrykniveau i lavfrekvensområdet, L</em><sub>p<em>A,LF</em></sub><em>  ≤ 25 dB.</em></p>
+<p><em>A-vægtet, ækvivalent lydtrykniveau i lavfrekvensområdet, L</em><sub>p<em>A,LF</em></sub>  <em>≤ 25 dB.</em></p>
 <p><em>Tilsvarende grænseværdi for G-vægtet infralydniveau, L<sub>pG</sub> ≤ 85 dB.</em></p></td>
 </tr>
 <tr>
-<td colspan="3"><p><strong>Noter</strong></p>
-<p>1)   Grænseværdien gælder i møblerede rum.</p>
+<td colspan="3"><p><strong>Noter</strong><br />
+</p>
+<p>1)   Grænseværdien gælder i møblerede rum.<br />
+<br />
+</p>
 <p>2)   Grænseværdien gælder for den enkelte installation.</p></td>
 </tr>
 </tbody>
 </table>
 
-[4.5](../rumakustik-i-daginstitutionsbygninger/)
-
-### Rumakustik i daginstitutionsbygninger
+### 4.5 Rumakustik i daginstitutionsbygninger {#dd0f6c4b-6b64-4dcc-95d6-f3bac962e516}

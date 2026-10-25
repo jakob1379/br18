@@ -11,17 +11,11 @@
 
 ## - Vejledning til hospitaler, lægehuse og klinikker
 
-[6.0](../hospitaler-laegehuse-og-klinikker/)
+### 6.0 Hospitaler, lægehuse og klinikker {#5489c5c0-ab5f-41ad-80d7-9c09256175c9}
 
-### Hospitaler, lægehuse og klinikker
+### 6.1 Lydisolation {#8bb1a8f1-5b7d-4bce-9ee0-6bb125388942}
 
-[6.1](../lydisolation-for-hospitaler-laegehuse-og-klinikker/)
-
-### Lydisolation
-
-[6.2](./)
-
-### Støj indendørs fra trafik
+### 6.2 Støj indendørs fra trafik {#e4f257c7-aa92-45b0-bee8-6f1d15b43982}
 
 Tabel 6.2 indeholder forslag til projekteringsværdier for trafikstøj i hospitaler svarende til overholdelse af BR18’s generelle bestemmelse i § 368, stk. 1 om at ”*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen”,* samt supplerende vejledende grænseværdier for trafikstøj indendørs med åbne vinduer*.*
 
@@ -72,7 +66,7 @@ med lukkede vinduer </td>
 </tr>
 <tr>
 <td>Øvrige rum samt alle rum udsat for helikopterstøj </td>
-<td>Projektkrav <sup></sup> <sup>2)</sup> </td>
+<td>Projektkrav <sup>2)</sup> </td>
 </tr>
 <tr>
 <td colspan="2"><p><strong>Noter</strong></p>
@@ -83,10 +77,6 @@ med lukkede vinduer </td>
 </tbody>
 </table>
 
-[6.3](../stoej-fra-tekniske-installationer-i-hospitaler-laegehuse-og-klinikker/)
+### 6.3 Støj fra tekniske installationer {#604f2261-6385-420f-95be-82ffe076bed8}
 
-### Støj fra tekniske installationer
-
-[6.4](../rumakustik-i-hospitaler-laegehuse-og-klinikker/)
-
-### Rumakustik
+### 6.4 Rumakustik {#e7acca73-f8e2-4a4f-b1ad-85505632d69a}

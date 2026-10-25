@@ -2,16 +2,16 @@
 
 ## Se alle vejledninger om Lydforhold (§ 368 - § 376)
 
-- [Bygningsreglementets vejledning om lydforhold](..)
-- [- Vejledning til boliger og andre bygninger til overnatning](../../boliger)
-- [- Vejledning til undervisningsbygninger](../../undervisningsbygninger)
-- [- Vejledning til daginstitutionsbygninger](../../daginstitutionsbygninger)
-- [- Vejledning til kontorbyggeri](../../kontorbygninger)
-- [- Vejledning til hospitaler, lægehuse og klinikker](../../hospitaler-laegehuse-og-klinikker)
+- [Bygningsreglementets vejledning om lydforhold](../)
+- [- Vejledning til boliger og andre bygninger til overnatning](../../boliger/)
+- [- Vejledning til undervisningsbygninger](../../undervisningsbygninger/)
+- [- Vejledning til daginstitutionsbygninger](../../daginstitutionsbygninger/)
+- [- Vejledning til kontorbyggeri](../../kontorbygninger/)
+- [- Vejledning til hospitaler, lægehuse og klinikker](../../hospitaler-laegehuse-og-klinikker/)
 
 ## Bygningsreglementets vejledning om lydforhold
 
-### Forord
+### Forord {#f8f28711-8be8-4539-ba26-9a8f0b1e4f41}
 
 ### 1.0 Generelt for bestemmelserne om lydforhold (§§ 368 - 376) {#0bbdae59-0484-4bd1-b5f8-4e14c23f4e45}
 

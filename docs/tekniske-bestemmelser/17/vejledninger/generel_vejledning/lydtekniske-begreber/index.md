@@ -2,16 +2,16 @@
 
 ## Se alle vejledninger om Lydforhold (§ 368 - § 376)
 
-- [Bygningsreglementets vejledning om lydforhold](..)
-- [- Vejledning til boliger og andre bygninger til overnatning](../../boliger)
-- [- Vejledning til undervisningsbygninger](../../undervisningsbygninger)
-- [- Vejledning til daginstitutionsbygninger](../../daginstitutionsbygninger)
-- [- Vejledning til kontorbyggeri](../../kontorbygninger)
-- [- Vejledning til hospitaler, lægehuse og klinikker](../../hospitaler-laegehuse-og-klinikker)
+- [Bygningsreglementets vejledning om lydforhold](../)
+- [- Vejledning til boliger og andre bygninger til overnatning](../../boliger/)
+- [- Vejledning til undervisningsbygninger](../../undervisningsbygninger/)
+- [- Vejledning til daginstitutionsbygninger](../../daginstitutionsbygninger/)
+- [- Vejledning til kontorbyggeri](../../kontorbygninger/)
+- [- Vejledning til hospitaler, lægehuse og klinikker](../../hospitaler-laegehuse-og-klinikker/)
 
 ## Bygningsreglementets vejledning om lydforhold
 
-### Forord
+### Forord {#f8f28711-8be8-4539-ba26-9a8f0b1e4f41}
 
 ### 1.0 Generelt for bestemmelserne om lydforhold (§§ 368 - 376) {#0bbdae59-0484-4bd1-b5f8-4e14c23f4e45}
 
@@ -27,17 +27,19 @@ De følgende lydtekniske begreber og henvisninger til akustiske målestandarder 
 
 Bygningsdeles evne til at isolere mod luftlydtransmission i en bygning angivet som et enkelt tal i form af det vægtede reduktionstal, *R'~w~*, med eller uden en spektral korrektion, *C~50-3150~*, udtrykt i decibel (dB).
 
-Grænseværdier er relateret til feltmålinger i 1/3-oktavbånd udført i henhold til DS/EN ISO 16283-1 og vurderingsværdier i henhold til DS/EN ISO 717-1.
+Grænseværdier er relateret til feltmålinger i 1/3-oktavbånd udført i henhold til
+
+DS/EN ISO 16283-1 og vurderingsværdier i henhold til DS/EN ISO 717-1.
 
 Når den spektrale korrektion, *C~50-3150~*, anvendes, angives resultaterne som *R'~w~* + *C~50-3150~* i henhold til DS/EN ISO 717-1.
 
 **Trinlydniveau**
 
-Bygningsdeles egenskaber med hensyn til at transmittere trinlyd i en bygning angivet som et enkelt tal i form af det vægtede, normaliserede trinlydniveau, *L'~n,w~*, med eller uden en spektral korrektion, *C~I,50-2500~*, udtrykt i decibel (dB).
+Bygningsdeles egenskaber med hensyn til at transmittere trinlyd i en bygning angivet som et enkelt tal i form af det vægtede, normaliserede trinlydniveau, *L’~n,w~*, med eller uden en spektral korrektion, *C~I,50-2500~*, udtrykt i decibel (dB).
 
 Grænseværdier er relateret til feltmålinger i 1/3-oktavbånd i henhold til DS/EN ISO 16283-2 og vurderingsværdier i henhold til DS/EN ISO 717-2.
 
-Når den spektrale korrektion, *C~I,50-2500~*, anvendes, angives resultaterne som *L'*~*n,w*~ + *C~I,50-2500~* i henhold til DS/EN ISO 717-2. Ved sammenligning med grænseværdier skal korrektionen dog kun medregnes, såfremt den er ≥ 0 dB.
+Når den spektrale korrektion, *C~I,50-2500~*, anvendes, angives resultaterne som *L’*~*n,w*~ + *C~I,50-2500~* i henhold til DS/EN ISO 717-2. Ved sammenligning med grænseværdier skal korrektionen dog kun medregnes, såfremt den er ≥ 0 dB.
 
 **Lydtrykniveau**
 

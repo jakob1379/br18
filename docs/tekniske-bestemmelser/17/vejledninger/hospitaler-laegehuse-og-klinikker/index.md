@@ -2,11 +2,11 @@
 
 ## Se alle vejledninger om Lydforhold (§ 368 - § 376)
 
-- [Bygningsreglementets vejledning om lydforhold](../generel_vejledning)
-- [- Vejledning til boliger og andre bygninger til overnatning](../boliger)
-- [- Vejledning til undervisningsbygninger](../undervisningsbygninger)
-- [- Vejledning til daginstitutionsbygninger](../daginstitutionsbygninger)
-- [- Vejledning til kontorbyggeri](../kontorbygninger)
+- [Bygningsreglementets vejledning om lydforhold](../generel_vejledning/)
+- [- Vejledning til boliger og andre bygninger til overnatning](../boliger/)
+- [- Vejledning til undervisningsbygninger](../undervisningsbygninger/)
+- [- Vejledning til daginstitutionsbygninger](../daginstitutionsbygninger/)
+- [- Vejledning til kontorbyggeri](../kontorbygninger/)
 - [- Vejledning til hospitaler, lægehuse og klinikker](./)
 
 ## - Vejledning til hospitaler, lægehuse og klinikker
@@ -65,7 +65,7 @@ Tabel 6.1 indeholder forslag til projekteringsværdier for luftlydisolation og t
 <td colspan="2">Hospitaler – Tabel 6.1 Lydisolation – Forslag til projekteringsværdier </td>
 </tr>
 <tr>
-<td><strong>Luftlydisolation</strong> <sup></sup> <sup>1)</sup> <strong>- Vandret</strong> </td>
+<td><strong>Luftlydisolation</strong> <sup>1)</sup> <strong>- Vandret</strong> </td>
 <td><strong><em>R’</em><sub>w</sub></strong> </td>
 </tr>
 <tr>
@@ -110,18 +110,18 @@ Mellem skyllerum og andre rum</p></td>
 </tr>
 <tr>
 <td>MR-scannerrum </td>
-<td>Projektkrav <sup></sup> <sup>2)</sup> </td>
+<td>Projektkrav <sup>2)</sup> </td>
 </tr>
 <tr>
 <td>Auditorier og større møde- og videokonferencerum </td>
-<td>Projektkrav <sup></sup> <sup>2)</sup> </td>
+<td>Projektkrav <sup>2)</sup> </td>
 </tr>
 <tr>
 <td>Mellem kontorer, møderum, sengestuer mv. mod tilgrænsende rum i andre erhvervsenheder eller rum med støjende aktiviteter i samme virksomhed </td>
-<td>≥ 55 dB <sup></sup> <sup>3)</sup> </td>
+<td>≥ 55 dB <sup>3)</sup> </td>
 </tr>
 <tr>
-<td><strong>Luftlydisolation</strong> <sup></sup> <sup>1)</sup> <strong>- Lodret</strong> </td>
+<td><strong>Luftlydisolation</strong> <sup>1)</sup> <strong>- Lodret</strong> </td>
 <td><strong><em>R’</em><sub>w</sub></strong> </td>
 </tr>
 <tr>
@@ -130,7 +130,7 @@ Mellem skyllerum og andre rum</p></td>
 </tr>
 <tr>
 <td>MR-scannerrum </td>
-<td>Projektkrav <sup></sup> <sup>2)</sup> </td>
+<td>Projektkrav <sup>2)</sup> </td>
 </tr>
 <tr>
 <td>Mellem kontorer, møderum, sengestuer mv. mod tilgrænsende rum i andre erhvervsenheder eller rum med støjende aktiviteter i samme virksomhed </td>
@@ -154,11 +154,11 @@ Mellem skyllerum og andre rum</p></td>
 </tr>
 <tr>
 <td>Auditorier og større møde- og videokonferencerum </td>
-<td>Projektkrav <sup></sup> <sup>2)</sup> </td>
+<td>Projektkrav <sup>2)</sup> </td>
 </tr>
 <tr>
 <td>I kontorer, møderum, sengestuer mv. fra tilgrænsende rum i andre erhvervsenheder </td>
-<td>≤ 58 dB <sup></sup> <sup>3)</sup> </td>
+<td>≤ 58 dB <sup>3)</sup> </td>
 </tr>
 <tr>
 <td><p><strong>Noter</strong></p>
@@ -225,7 +225,7 @@ med lukkede vinduer </td>
 </tr>
 <tr>
 <td>Øvrige rum samt alle rum udsat for helikopterstøj </td>
-<td>Projektkrav <sup></sup> <sup>2)</sup> </td>
+<td>Projektkrav <sup>2)</sup> </td>
 </tr>
 <tr>
 <td colspan="2"><p><strong>Noter</strong></p>
@@ -256,7 +256,7 @@ Tabel 6.3 indeholder forslag til projekteringsværdier for støj fra tekniske in
 <td><strong><em>L</em><sub>Aeq</sub></strong> <sup>1)</sup> </td>
 </tr>
 <tr>
-<td>Sengestuer<sup>  a)</sup>, undersøgelsesrum, behandlingsrum,<br />
+<td>Sengestuer  <sup>a)</sup>, undersøgelsesrum, behandlingsrum,<br />
 konsultationsrum </td>
 <td rowspan="7">Bygningens tekniske installationer </td>
 <td>≤ 30 dB </td>
@@ -274,7 +274,7 @@ konsultationsrum </td>
 <td>≤ 35 dB </td>
 </tr>
 <tr>
-<td>Møderum, videokonferencerum og auditorier <sup> a)</sup> </td>
+<td>Møderum, videokonferencerum og auditorier  <sup>a)</sup> </td>
 <td>≤ 30 dB </td>
 </tr>
 <tr>
@@ -283,12 +283,12 @@ konsultationsrum </td>
 </tr>
 <tr>
 <td>Øvrige rum </td>
-<td>Projektkrav <sup></sup> <sup>3)</sup> </td>
+<td>Projektkrav <sup>3)</sup> </td>
 </tr>
 <tr>
 <td colspan="3"><p><strong><em>Supplerende vejledning</em></strong>     <strong>[3], [9]</strong></p>
-<p>a) <em>For tekniske installationer, der giver anledning til lavfrekvent støj:<br />
-A-vægtet, ækvivalent lydtrykniveau i lavfrekvensområdet, L</em><sub>p<em>A,LF</em></sub>  <em>≤ 25 dB, forsengestuer ≤ 20 dB for aften og nat (kl. 18-07).</em><br />
+<p>a) <em>For tekniske installationer, der giver anledning til lavfrekvent støj:</em><br />
+<em>A-vægtet, ækvivalent lydtrykniveau i lavfrekvensområdet, L</em><sub>p<em>A,LF</em></sub>  <em>≤ 25 dB, forsengestuer ≤ 20 dB for aften og nat (kl. 18-07).</em><br />
 <em>Tilsvarende grænseværdi for G-vægtet infralydniveau, L<sub>pG</sub> ≤ 85 dB.</em></p></td>
 </tr>
 <tr>
@@ -409,4 +409,3 @@ b) <em>Der kan ikke påregnes optimale lydforhold for alle sædvanlige kontorakt
 </tr>
 </tbody>
 </table>
-

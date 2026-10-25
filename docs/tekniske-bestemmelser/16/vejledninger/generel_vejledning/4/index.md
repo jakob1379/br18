@@ -2,52 +2,32 @@
 
 ## Se alle vejledninger om Legepladser mv. (§ 358 - § 367)
 
-- [](../../qa)
+- [](../../qa/)
 - [Bygningsreglementets vejledning om legepladser mv.](../)
 
 ## Bygningsreglementets vejledning om legepladser mv.
 
-### Rettelsesblad til vejledning om legepladser (1. januar 2025)
+### Rettelsesblad til vejledning om legepladser (1. januar 2025) {#4d2c1417-498a-4d15-aa8a-9bf90427efa7}
 
-[1.](../forord/)
+### 1. Forord {#65b73685-d9f4-4e3b-8a90-9bcec6a68773}
 
-### Forord
+### 2. Generelt {#311d3af7-7ff8-409f-b0ec-f4794334b40d}
 
-[2.](../2/)
+### 2.1. Hvornår er legepladser og legepladsredskaber bebyggelse? {#a8f02ff9-7ec7-4fce-aac9-9551989fb835}
 
-### Generelt
+### 2.2. Hvornår er legepladser og legepladsredskaber offentligt tilgængelige? {#50db7ce8-eb57-41a7-bf1c-736f4ace0f3f}
 
-[2.1.](../2_1/)
+### 3. Byggesagsbehandling af legepladser mv. {#3d15f438-c9f9-4289-bc25-073498fdfaf1}
 
-### Hvornår er legepladser og legepladsredskaber bebyggelse?
+### 3.1. Indplacering i konstruktionsklasse {#bdf21a94-3d46-4fd2-83f6-c7c2939c8a7f}
 
-[2.2.](../2_2/)
+### 3.1.1. Legepladser mv., der er undtaget for indplacering i konstruktionsklasse {#1a25dde1-3c1c-4c03-a76a-068cf6b15e8d}
 
-### Hvornår er legepladser og legepladsredskaber offentligt tilgængelige?
+### 3.2. Indplacering i brandklasse {#ec67cfb6-3db0-4f76-bce2-7a6f917204b0}
 
-[3.](../3_0/)
+### 3.2.1. Legepladser mv., der er undtaget for indplacering i brandklasse {#edfcf8a6-5d39-485e-b349-eb8b38f1fc4a}
 
-### Byggesagsbehandling af legepladser mv.
-
-[3.1.](../3_1/)
-
-### Indplacering i konstruktionsklasse
-
-[3.1.1.](../3_1_1/)
-
-### Legepladser mv., der er undtaget for indplacering i konstruktionsklasse
-
-[3.2.](../3_2/)
-
-### Indplacering i brandklasse
-
-[3.2.1.](../3_2_1/)
-
-### Legepladser mv., der er undtaget for indplacering i brandklasse
-
-[4.](./)
-
-### Sikkerhedskrav og adgangsforhold for legepladser mv.
+### 4. Sikkerhedskrav og adgangsforhold for legepladser mv. {#52895043-7fae-4429-ac60-b0909eb1bbab}
 
 Det fremgår af bygningsreglementet 2018, kap. 16, §358, at projektering, udførelse, drift og vedligehold af legepladsredskaber og -underlag, multisportudstyr, motionsredskaber i det fri, skateboardbaner og lignende, der er offentligt tilgængelige, skal ske, så der opnås tilfredsstillende sikkerhed  mod personskade.
 
@@ -61,7 +41,7 @@ Den Europæiske Standardiseringsorganisation (CEN) har desuden udarbejdet en ræ
 
 Derudover indeholder DS-håndbog 105:2012 en række retningslinjer for planlægning af et tilgængeligt udemiljø, herunder adgangsforhold til legepladser.
 
-[![](../../../../../assets/img/linkbox/ds_en_tr_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/ds_en_tr_linkbox.svg)](#)
 
 ####
 
@@ -73,7 +53,7 @@ Denne tekniske rapport giver råd om placering og mulige metoder til adskillelse
 
 #### Køb standarden her [](https://webshop.ds.dk/da-dk/standard/ds-cen-tr-168792016){target="_blank"}
 
-[![](../../../../../assets/img/linkbox/ds_en_tr_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/ds_en_tr_linkbox.svg)](#)
 
 ####
 
@@ -85,7 +65,7 @@ Denne tekniske rapport indeholder guidelines til at udforme legeområder der giv
 
 #### Køb standarden her: [Køb standarden her:](https://webshop.ds.dk/da-dk/standard/ds-cen-tr-164672013){target="_blank"}
 
-[![](../../../../../assets/img/linkbox/ds_en_tr_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/ds_en_tr_linkbox.svg)](#)
 
 ####
 
@@ -97,7 +77,7 @@ Denne tekniske rapport indeholder rationaler bag EN 1176 serien, der har til for
 
 #### Køb standarden her [Køb standarden her](https://webshop.ds.dk/standard/M365218/ds-cen-tr-16598-2023%20){target="_blank"}
 
-[![](../../../../../assets/img/linkbox/ds_en_tr_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/ds_en_tr_linkbox.svg)](#)
 
 ####
 
@@ -109,7 +89,7 @@ Denne tekniske rapport indeholder svar på anmodninger om fortolkninger vedrøre
 
 #### Køb standarden her [Køb standarden her](https://webshop.ds.dk/standard/M335885/ds-cen-tr-16396-2020){target="_blank"}
 
-[![](../../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 ####
 
@@ -121,7 +101,4 @@ Denne håndbog indeholder bl.a. information og eksempler på adgangsforhold til 
 
 #### Køb håndbogen her [Køb håndbogen her](https://webshop.ds.dk/Default.aspx?ID=120&GroupID=11.180.01&ProductID=M266059){target="_blank"}
 
-[5.](../5/)
-
-### Drift, kontrol og vedligehold
-
+### 5. Drift, kontrol og vedligehold {#9010be35-e1df-4a55-919d-9ce0c4978514}

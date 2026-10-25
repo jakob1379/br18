@@ -11,21 +11,15 @@
 
 ## - Vejledning til boliger og andre bygninger til overnatning
 
-[2.0](../boliger-og-andre-bygninger-til-overnatning/)
+### 2.0 Boliger og andre bygninger til overnatning (§§ 369 - 373) {#590907f1-dc1f-4f86-a3b7-529da3246874}
 
-### Boliger og andre bygninger til overnatning (§§ 369 - 373)
+### 2.1 Definitioner af rumtyper for boliger {#a9156c46-aca7-4a44-ae12-d5c0444157ec}
 
-[2.1](../definitioner-af-rumtyper-for-boliger/)
-
-### Definitioner af rumtyper for boliger
-
-[2.2](./)
-
-### Lydisolation for boliger
+### 2.2 Lydisolation for boliger {#f5c760f7-e452-453e-9383-0fc836479a59}
 
 Tabel 2.1 indeholder grænseværdier for luftlydisolation og trinlydniveau i boligbyggeri svarende til overholdelse af BR18’s lydbestemmelser samt supplerende vejledende grænseværdier for lette konstruktioner i lejlighedsskel.
 
-Lydbestemmelserne er gengivet fra DS 490 og den supplerende vejledning fra SBi-anvisning 272. Referenceliste findes i [afsnit 1.5](../../generel_vejledning/referenceliste "Referenceliste").
+Lydbestemmelserne er gengivet fra DS 490 og den supplerende vejledning fra SBi-anvisning 272. Referenceliste findes i [afsnit 1.5](../../generel_vejledning/referenceliste/ "Referenceliste").
 
 Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfylde Bygningsreglementets funktionskrav, er anført separat i tabellerne (i kursiv).
 
@@ -56,12 +50,12 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 <td>≥ 55 dB </td>
 </tr>
 <tr>
-<td>Mellem fælles opholdsrum indbyrdes<sup> 5)</sup> </td>
+<td>Mellem fælles opholdsrum indbyrdes <sup>5)</sup> </td>
 <td>≥ 55 dB </td>
 </tr>
 <tr>
-<td><p>Dør<sup> 2)</sup> mellem bolig og fællesrum</p>
-<p>Dør<sup> 2)</sup> mellem fælles opholdsrum og gange/trapperum</p></td>
+<td><p>Dør <sup>2)</sup> mellem bolig og fællesrum</p>
+<p>Dør <sup>2)</sup> mellem fælles opholdsrum og gange/trapperum</p></td>
 <td> ≥ 32 dB<br />
 </td>
 </tr>
@@ -107,15 +101,8 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 </tbody>
 </table>
 
-[2.3](../stoej-indendoers-fra-trafik-i-boliger/)
+### 2.3 Støj indendørs fra trafik i boliger {#1dc563fc-338b-493f-a74a-f86f0a455bc4}
 
-### Støj indendørs fra trafik i boliger
+### 2.4 Støj fra tekniske installationer i boliger {#f0f23bd2-598e-408d-b432-10015dc168fd}
 
-[2.4](../stoej-fra-tekniske-installationer-i-boliger/)
-
-### Støj fra tekniske installationer i boliger
-
-[2.5](../rumakustik-i-boliger/)
-
-### Rumakustik i boliger
-
+### 2.5 Rumakustik i boliger {#3e1aeb87-38eb-4d08-8d52-f6f416dc2e29}
