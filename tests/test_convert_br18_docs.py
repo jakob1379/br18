@@ -86,6 +86,11 @@ class ConvertTest(unittest.TestCase):
         self.assertIn("[PDF](../media/abc/fil.pdf)", markdown)
         self.assertIn("[Afsnit](#afsnit)", markdown)
 
+    def test_show_all_links_point_at_the_page_that_holds_the_show_all_content(self) -> None:
+        markdown = self.convert('<p>Se <a href="/ovrige-bestemmelser/23/krav/?Layout=ShowAll">kapitel 23</a>.</p>')
+
+        self.assertIn("[kapitel 23](../ovrige-bestemmelser/23/krav/)", markdown)
+
     def test_mixed_case_page_links_point_at_the_lowercase_corpus_paths(self) -> None:
         markdown = self.convert(
             '<p><a href="/Bilag/B2/Bilag_2/Tabel_7#abc">Tabel 7</a> <a href="/media/Ab1/Fil_Navn.PDF">PDF</a></p>'

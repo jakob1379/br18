@@ -12,7 +12,7 @@ import sys
 import re
 from html.parser import HTMLParser
 from pathlib import Path
-from urllib.parse import parse_qsl, unquote, urlsplit, urlunsplit
+from urllib.parse import unquote, urlsplit, urlunsplit
 
 
 SITE_HOSTS = {"www.bygningsreglementet.dk", "bygningsreglementet.dk"}
@@ -162,15 +162,8 @@ def rel_path_for_url(url: str, source_dir: Path, docs_root: Path) -> str | None:
         if not local_target.is_relative_to(docs_root):
             return None
 
-    query = dict(parse_qsl(parsed.query, keep_blank_values=True))
-    show_all = query == {"Layout": "ShowAll"}
-
-    if show_all:
-        target = local_target / "showall"
-        rel = os.path.relpath(target, source_dir)
-        return rel if rel != "." else "./"
-
     # Origin pages are directories (`/x/vejledning` serves `/x/vejledning/`); only files have a suffix.
+    # A page holds its own ShowAll view, so `?Layout=ShowAll` links point at the page.
     if path.endswith("/") or not local_target.suffix:
         # The origin serves pages case-insensitively; the corpus keeps them at lowercase paths.
         local_target = docs_root / unquote(local_target.relative_to(docs_root).as_posix()).lower()
