@@ -4,6 +4,7 @@
 
 - [Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder](..)
 - [Vejledning om brandværnsforanstaltninger for skurbyer og lignende på byggepladser](../../brandvarnforanstaltninger)
+- [Bygningsreglementets vejledning om brandsikkerhed under byggearbejder i særligt vigtige historiske bygninger](../../vejledning-om-brandsikkerhed-under-byggearbejder-i-saerligt-vigtige-historiske-bygninger)
 
 ## Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder
 

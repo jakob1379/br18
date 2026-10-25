@@ -7,3 +7,447 @@
 # kind = "extra_text"
 # item = "§ 48"
 # reason = "Why this difference is intentional."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/"
+kind = "missing_text"
+item = "nedsivning.<br/>Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/"
+kind = "missing_text"
+item = "beholdere.<br/>Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/"
+kind = "extra_text"
+item = "nedsivning. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/"
+kind = "extra_text"
+item = "beholdere. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/69/"
+kind = "missing_text"
+item = "nedsivning.<br/>Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/69/"
+kind = "missing_text"
+item = "beholdere.<br/>Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/69/"
+kind = "extra_text"
+item = "nedsivning. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/69/"
+kind = "extra_text"
+item = "beholdere. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/69/"
+kind = "extra_text"
+item = "(own page) nedsivning. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/69/"
+kind = "extra_text"
+item = "(own page) beholdere. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/70_74/"
+kind = "missing_text"
+item = "nedsivning.<br/>Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/70_74/"
+kind = "missing_text"
+item = "beholdere.<br/>Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/70_74/"
+kind = "extra_text"
+item = "nedsivning. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/70_74/"
+kind = "extra_text"
+item = "beholdere. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/70_74/"
+kind = "extra_text"
+item = "(own page) nedsivning. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/70_74/"
+kind = "extra_text"
+item = "(own page) beholdere. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/75_76/"
+kind = "missing_text"
+item = "nedsivning.<br/>Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/75_76/"
+kind = "missing_text"
+item = "beholdere.<br/>Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/75_76/"
+kind = "extra_text"
+item = "nedsivning. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/75_76/"
+kind = "extra_text"
+item = "beholdere. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/75_76/"
+kind = "extra_text"
+item = "(own page) nedsivning. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/75_76/"
+kind = "extra_text"
+item = "(own page) beholdere. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/77/"
+kind = "missing_text"
+item = "nedsivning.<br/>Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/77/"
+kind = "missing_text"
+item = "beholdere.<br/>Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/77/"
+kind = "extra_text"
+item = "nedsivning. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/77/"
+kind = "extra_text"
+item = "beholdere. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/77/"
+kind = "extra_text"
+item = "(own page) nedsivning. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/77/"
+kind = "extra_text"
+item = "(own page) beholdere. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/78/"
+kind = "missing_text"
+item = "nedsivning.<br/>Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/78/"
+kind = "missing_text"
+item = "beholdere.<br/>Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/78/"
+kind = "extra_text"
+item = "nedsivning. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/78/"
+kind = "extra_text"
+item = "beholdere. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/78/"
+kind = "extra_text"
+item = "(own page) nedsivning. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/78/"
+kind = "extra_text"
+item = "(own page) beholdere. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/79/"
+kind = "missing_text"
+item = "nedsivning.<br/>Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/79/"
+kind = "missing_text"
+item = "beholdere.<br/>Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/79/"
+kind = "extra_text"
+item = "nedsivning. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/79/"
+kind = "extra_text"
+item = "beholdere. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/79/"
+kind = "extra_text"
+item = "(own page) nedsivning. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/79/"
+kind = "extra_text"
+item = "(own page) beholdere. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/80_81/"
+kind = "missing_text"
+item = "nedsivning.<br/>Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/80_81/"
+kind = "missing_text"
+item = "beholdere.<br/>Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/80_81/"
+kind = "extra_text"
+item = "nedsivning. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/80_81/"
+kind = "extra_text"
+item = "beholdere. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/80_81/"
+kind = "extra_text"
+item = "(own page) nedsivning. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/krav/80_81/"
+kind = "extra_text"
+item = "(own page) beholdere. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/vejledninger/generel_vejledning/"
+kind = "missing_text"
+item = "nedsivning.<br/>Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/vejledninger/generel_vejledning/"
+kind = "missing_text"
+item = "beholdere.<br/>Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/vejledninger/generel_vejledning/"
+kind = "extra_text"
+item = "nedsivning. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/vejledninger/generel_vejledning/"
+kind = "extra_text"
+item = "beholdere. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/vejledninger/generel_vejledning/kap-1_1/"
+kind = "missing_text"
+item = "nedsivning.<br/>Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/vejledninger/generel_vejledning/kap-1_1/"
+kind = "missing_text"
+item = "beholdere.<br/>Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/vejledninger/generel_vejledning/kap-1_1/"
+kind = "extra_text"
+item = "nedsivning. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/vejledninger/generel_vejledning/kap-1_1/"
+kind = "extra_text"
+item = "beholdere. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/vejledninger/generel_vejledning/kap-1_1/"
+kind = "extra_text"
+item = "(own page) nedsivning. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/vejledninger/generel_vejledning/kap-1_1/"
+kind = "extra_text"
+item = "(own page) beholdere. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/vejledninger/generel_vejledning/kap-1_2/"
+kind = "missing_text"
+item = "nedsivning.<br/>Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/vejledninger/generel_vejledning/kap-1_2/"
+kind = "missing_text"
+item = "beholdere.<br/>Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/vejledninger/generel_vejledning/kap-1_2/"
+kind = "extra_text"
+item = "nedsivning. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/vejledninger/generel_vejledning/kap-1_2/"
+kind = "extra_text"
+item = "beholdere. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/vejledninger/generel_vejledning/kap-1_2/"
+kind = "extra_text"
+item = "(own page) nedsivning. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/vejledninger/generel_vejledning/kap-1_2/"
+kind = "extra_text"
+item = "(own page) beholdere. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/vejledninger/generel_vejledning/kap-1_3/"
+kind = "missing_text"
+item = "nedsivning.<br/>Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/vejledninger/generel_vejledning/kap-1_3/"
+kind = "missing_text"
+item = "beholdere.<br/>Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/vejledninger/generel_vejledning/kap-1_3/"
+kind = "extra_text"
+item = "nedsivning. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/vejledninger/generel_vejledning/kap-1_3/"
+kind = "extra_text"
+item = "beholdere. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/vejledninger/generel_vejledning/kap-1_3/"
+kind = "extra_text"
+item = "(own page) nedsivning. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/vejledninger/generel_vejledning/kap-1_3/"
+kind = "extra_text"
+item = "(own page) beholdere. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/vejledninger/generel_vejledning/kap-1_4/"
+kind = "missing_text"
+item = "nedsivning.<br/>Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/vejledninger/generel_vejledning/kap-1_4/"
+kind = "missing_text"
+item = "beholdere.<br/>Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/vejledninger/generel_vejledning/kap-1_4/"
+kind = "extra_text"
+item = "nedsivning. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/vejledninger/generel_vejledning/kap-1_4/"
+kind = "extra_text"
+item = "beholdere. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/vejledninger/generel_vejledning/kap-1_4/"
+kind = "extra_text"
+item = "(own page) nedsivning. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
+
+[[exception]]
+page = "/tekniske-bestemmelser/04/vejledninger/generel_vejledning/kap-1_4/"
+kind = "extra_text"
+item = "(own page) beholdere. Normen"
+reason = "Origin defect: the origin CMS escapes the <br/> between the two sentences, so the origin page shows the literal text '<br/>'; the clone renders the intended line break."
