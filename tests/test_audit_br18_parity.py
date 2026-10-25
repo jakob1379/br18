@@ -112,11 +112,15 @@ class AuditTest(unittest.TestCase):
         )
 
     def two_page_site(self) -> Origin:
+        guides = '<ul><li><a href="/administrative-bestemmelser/brv/">Vejledning om anvendelse</a></li></ul>'
         nav = '<a href="/administrative-bestemmelser/krav/">Admin</a><a href="/tekniske-bestemmelser/02/krav/">Teknik</a>'
         self.corpus.add("", local_page("<h1>Forside</h1><p>Velkommen til reglementet.</p>"))
         self.corpus.add(
             "administrative-bestemmelser",
-            local_page('<h1>Anvendelsesområde<a class="headerlink" href="#x">¶</a></h1><p>Reglementet gælder for alt byggeri.</p>'),
+            local_page(
+                '<h1>Anvendelsesområde<a class="headerlink" href="#x">¶</a></h1><p>Reglementet gælder for alt byggeri.</p>'
+                f"{guides}"
+            ),
         )
         self.corpus.add(
             "tekniske-bestemmelser/02",
@@ -126,7 +130,7 @@ class AuditTest(unittest.TestCase):
             {
                 "/": origin_page("<h1>Forside</h1><p>Velkommen til reglementet.</p>", nav),
                 "/administrative-bestemmelser/krav/": origin_page(
-                    "<h1>Anvendelsesområde</h1><p>Reglementet gælder for alt byggeri.</p>", nav
+                    f'<h1>Anvendelsesområde</h1><p>Reglementet gælder for alt byggeri.</p><nav class="accordion__nav">{guides}</nav>', nav
                 ),
                 "/tekniske-bestemmelser/02/krav/": origin_page(
                     "<h1>Adgangsforhold</h1><p>Bygninger skal have adgangsforhold.</p>"

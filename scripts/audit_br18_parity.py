@@ -100,7 +100,7 @@ class ContentParser(HTMLParser):
             elif tag == "img" and attrs_d.get("src"):
                 self.images.append(attrs_d["src"])
             return
-        if tag in SKIP_TAGS or classes & self.skip_classes:
+        if (tag in SKIP_TAGS and "accordion__nav" not in classes) or classes & self.skip_classes:
             self._skip = [tag, 1]
             return
         if tag == self._root[0]:
