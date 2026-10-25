@@ -401,7 +401,7 @@ I KAMP kan man direkte aflæse, hvor mange bygninger og hvor mange kilometer vej
 
 [SkadesØkonomi](https://klimatilpasning.dk/kommuner-og-forsyning/vaerktoejer/os2-skadesoekonomi){rel="noopener" target="_blank"} er en model som er udviklet som et plugin til QGIS. Den kan anvendes til beregning af omkostningerne ved oversvømmelser knyttet til nedbør, stormflod eller vandløb. Modellen er udviklet til støtte for kommunernes arbejde med DK2020 og klimatilpasning. Værktøjet vurder risiko med udgangspunkt i økonomiske tab i forbindelse med en given oversvømmelse for en given sektor.
 
-**Kystdirektoratet under Miljøministeriet \**
+**Kystdirektoratet under Miljøministeriet**
 På hjemmesiden [Kyst.dk](https://kyst.dk/){rel="noopener noreferrer" target="_blank"} findes information om kysterne, hvor bl.a. oplysninger om kysternes dynamik og metoder til kystbeskyttelse er beskrevet. Ligeledes findes information om sagsbehandlingen af ansøgninger vedrørende byggeri inden for strandbeskyttelseslinjen, klitfredet areal samt anlæg på søterritorie. Desuden informerer hjemmesiden om planlægning af kystbeskyttelse i forhold til bl.a. klimaændringer, stormflod og erosion.
 
 **Kystplanlægger**
@@ -642,7 +642,7 @@ I kystnære områder møder byggeriet en række særlige udfordringer, som byghe
 
 I den forbindelse er det vigtigt at forstille sig de ekstreme hændelser i forbindelse med stormflod og vandstigninger, der i fremtiden kan forekomme, og at overveje om man i tide og med en rimelig investering kan gennemføre tiltag, som kan imødegå eller reducere risikoen for skader, når de ekstreme hændelser indtræffer.
 
-**Ved planlægning af en byggesag er det særlig vigtigt systematisk at gennemtænke blandt andet følgende forhold: \**
+**Ved planlægning af en byggesag er det særlig vigtigt systematisk at gennemtænke blandt andet følgende forhold:**
 *- Kan stormflod eller overløb fra åer ramme byggegrunden*
 
 Hvis ja, hvilken kote vil den maksimale vandstand nå?
@@ -661,7 +661,7 @@ Planlæg byggeriet med udgangspunkt i de regler og anvisninger, der er peget på
 
 **Udfordringerne afhænger af, om der er tale om:**
 
-*- En nybygning \*
+*- En nybygning*
 I forbindelse med en nybygning har man muligheden for økonomisk at vælge robuste løsninger, men en god sikkerhedsmargin ud fra en betragtning om, at det ofte er væsentlig billigere at indbygge øget sikkerhed fra start end senere at skulle indbygge samme sikkerhed
 
 *- En tilbygning*

@@ -669,7 +669,7 @@ Følgende miljødata fra BR18, bilag 2, tabel 7, vælges:
 |  **Materiale** | **ID**  |  **A1-3** |  **C3** |  **C4** |  **D** |  **Funktionel enhed** |
 |  Stål, varmvalset plade, 2-20 mm |  #G0767  |  2,78247 |   |   | -1,50772 |  1 kg |
 
-#### ** **
+#### 
 
 #### **1.4.13    Eksempel for anvendelse af standardværdier for installatione**r
 
@@ -1037,7 +1037,7 @@ EPD'er kan også være projektspecifikke, dvs. udarbejdet for et specifikt mater
 
 I det følgende uddybes reglerne for, hvornår EPD'er kan anvendes. Endvidere beskrives specifikke eksempler på, hvilke data fra en EPD, man skal anvende i beregningen af bygningers klimapåvirkning.
 
-#### **1.6.1 Gyldighed af EPD'er ****
+#### **1.6.1 Gyldighed af EPD'er**
 
 EPD'er kan være projektspecifikke, produktspecifikke eller repræsentere et gennemsnit for en bestemt produkttype. Fælles for dem er, at de skal være udført i henhold til EN15804, være verificeret af en 3. part og godkendt af en EPD programoperatør, før de betragtes som gyldige og kan anvendes i beregning af bygningens klimapåvirkning i henhold til § 297. EPD'er er gyldige i op til 5 år fra udstedelse, og gyldighedsperioden fremgår fra EPD'en.
 
@@ -1051,13 +1051,13 @@ For at kunne bruge en EPD iht. § 297, stk. 8, skal den være gyldig, hvilket i 
 
 Man kan også forestille sig tilfælde, hvor der er anvendt et materiale eller produkt, som der senere udarbejdes en EPD for. Det vil det også være inden for rammerne af kravet om gyldighed at anvende denne EPD, så længe EPD'en er gyldig og repræsenterer det konkret anvendte materiale eller produkt ved anvendelse i byggeriet.
 
-#### **1.6.2 Relevans af EPD'er ****
+#### **1.6.2 Relevans af EPD'er**
 
 Projekt- og produktspecifikke EPD'er er relevante, hvis det "deklarerede produkt", som fremgår af EPD'en repræsenterer det konkrete produkt, der anvendes i bygningen. Endvidere findes EPD'er, der repræsenterer et gennemsnit af produkter i en branche, og dermed gælder for en type produkter. Disse EPD'er anses for at være relevante, hvis det anvendte produkt i bygningen stemmer overens med det deklarerede produkt henholdsvis den angivne produktbeskrivelse, jf. EPD'en.
 
 Visse EPD'er indeholder mulighed for at man kan bruge dem til flere forskellige produkter. Disse EPD'er er derfor normalt angivet med skaleringsfaktorer, så værdierne kan tilpasses det konkrete produkt. Hvis skaleringsfaktorerne i EPD'erne anvendes som tiltænkt, vil EPD'en fortsat være relevant for produktet.
 
-#### **1.6.3 Anvendelse af data fra EPD'er ****
+#### **1.6.3 Anvendelse af data fra EPD'er**
 
 En EPD dokumenterer produkters miljøpåvirkning inden for flere miljøpåvirkningskategorier. For at opgøre bygningers klimapåvirkninger, er det udelukkende miljøindikatoren global opvarmning (Global warming potential, GWP), som skal anvendes, da kun bygningens klimapåvirkning skal opgøres, jf. § 297, stk. 4. GWP opgøres i enheden kg CO2-ækvivalenter (kg CO2-ækv.).
 
@@ -1185,11 +1185,7 @@ Hvis man i stedet har en mere sammensat forsyningskæde for materiellet, så kan
 
 Eksempel på beregning af klimapåvirkning ved materiellevering fra en byggeplads til flere andre byggepladser:
 
-* *
-
 Fx hvis en minigraver på 1,5 ton og en dumper på 2,6 ton hentes på en byggeplads i Slagelse og minigraveren afleveres på en byggeplads i Ringsted 30 km væk og dumperen afleveres på en byggeplads i Køge 55 km fra Slagelse, så kan et brændstofforbrug (CO2-udledningen) fordeles på følgende måde:
-
-* *
 
 *Samlet vægtning:*
 
@@ -1200,8 +1196,6 @@ Fx hvis en minigraver på 1,5 ton og en dumper på 2,6 ton hentes på en byggepl
 *Samlet vægtning: 0,83*
 
 Derefter kan udledningerne fordeles mellem de tre byggepladser. Byggepladsen i Slagelse tildeles halvdelen af udledningen fordi det er der materiellet hentes og halvdelen af transporten vil derfor være transport væk fra byggepladsen i Slagelse, mens den øvrige udledning fordeles mellem de to andre byggepladser.
-
-* *
 
 *Byggeplads i Ringsted: 0,20 / 0,83 \* 0,5 = 12 pct.*
 

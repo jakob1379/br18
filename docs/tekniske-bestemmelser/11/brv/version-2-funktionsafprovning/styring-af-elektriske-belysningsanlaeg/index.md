@@ -58,9 +58,7 @@
 
 Det er et krav i bygningsreglementet, at arbejdsrum m.v. og fælles adgangsveje skal forsynes med energieffektiv belysning, hvilket blandt andet opnås ved effektiv lysstyring. Hvis der er tilstrækkeligt dagslys skal arbejdsrum m.v. og fælles adgangsveje forsynes med automatisk dagslysstyring. Ligeledes er det et krav, at arbejdsrum og fælles adgangsveje, der kun benyttes lejlighedsvis skal forsynes med bevægelsesmeldere. Endeligt er der krav til, at arbejdsrum m.v. skal opdeles i zoner for at kunne reducere belysningen i zoner med højt dagslysniveau eller zoner, der ikke er i brug.
 
-*
-
-Formål med funktionsafprøvning af lysstyring*
+*Formål med funktionsafprøvning af lysstyring*
 
 Formålet med afprøvningen er at eftervise, at lysstyringen i praksis mindst svarer til den forudsætning, der blev anvendt i energibehovsberegningen, der dokumenterer bygningens overholdelse af bygningsreglementets energikrav, jf. kap. 11 om energiforbrug.
 

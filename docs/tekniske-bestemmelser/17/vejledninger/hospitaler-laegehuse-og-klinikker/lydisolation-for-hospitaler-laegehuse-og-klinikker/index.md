@@ -31,7 +31,7 @@ Tabel 6.1 indeholder forslag til projekteringsværdier for luftlydisolation og t
 <td colspan="2">Hospitaler – Tabel 6.1 Lydisolation – Forslag til projekteringsværdier</td>
 </tr>
 <tr>
-<td><strong>Luftlydisolation</strong> ** <sup>1)</sup> <strong>- Vandret</strong></td>
+<td><strong>Luftlydisolation</strong>  <sup>1)</sup> <strong>- Vandret</strong></td>
 <td><strong><em>R’</em><sub>w</sub></strong></td>
 </tr>
 <tr>
@@ -76,18 +76,18 @@ Mellem skyllerum og andre rum</td>
 </tr>
 <tr>
 <td>MR-scannerrum</td>
-<td>Projektkrav ** <sup>2)</sup></td>
+<td>Projektkrav  <sup>2)</sup></td>
 </tr>
 <tr>
 <td>Auditorier og større møde- og videokonferencerum</td>
-<td>Projektkrav ** <sup>2)</sup></td>
+<td>Projektkrav  <sup>2)</sup></td>
 </tr>
 <tr>
 <td>Mellem kontorer, møderum, sengestuer mv. mod tilgrænsende rum i andre erhvervsenheder eller rum med støjende aktiviteter i samme virksomhed</td>
-<td>≥ 55 dB ** <sup>3)</sup></td>
+<td>≥ 55 dB  <sup>3)</sup></td>
 </tr>
 <tr>
-<td><strong>Luftlydisolation</strong> ** <sup>1)</sup> <strong>- Lodret</strong></td>
+<td><strong>Luftlydisolation</strong>  <sup>1)</sup> <strong>- Lodret</strong></td>
 <td><strong><em>R’</em><sub>w</sub></strong></td>
 </tr>
 <tr>
@@ -96,7 +96,7 @@ Mellem skyllerum og andre rum</td>
 </tr>
 <tr>
 <td>MR-scannerrum</td>
-<td>Projektkrav ** <sup>2)</sup></td>
+<td>Projektkrav  <sup>2)</sup></td>
 </tr>
 <tr>
 <td>Mellem kontorer, møderum, sengestuer mv. mod tilgrænsende rum i andre erhvervsenheder eller rum med støjende aktiviteter i samme virksomhed</td>
@@ -120,11 +120,11 @@ Mellem skyllerum og andre rum</td>
 </tr>
 <tr>
 <td>Auditorier og større møde- og videokonferencerum</td>
-<td>Projektkrav ** <sup>2)</sup></td>
+<td>Projektkrav  <sup>2)</sup></td>
 </tr>
 <tr>
 <td>I kontorer, møderum, sengestuer mv. fra tilgrænsende rum i andre erhvervsenheder</td>
-<td>≤ 58 dB ** <sup>3)</sup></td>
+<td>≤ 58 dB  <sup>3)</sup></td>
 </tr>
 <tr>
 <td><p><strong>Noter</strong></p>

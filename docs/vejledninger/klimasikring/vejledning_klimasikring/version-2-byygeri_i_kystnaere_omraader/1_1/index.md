@@ -169,27 +169,19 @@ Bestemmelserne i bygningsreglementet (BR18) støttes af en række vejledninger f
 
 BUILD, Aalborg Universitet udgiver en SBi-anvisning om bygningsreglementet, der rummer en række anvisninger på, hvordan kravene i reglementet kan imødekommes eller opfyldes, samt indeholder supplerende referencer til alment teknisk fælleseje m.m. (de Place Hansen, 2020).
 
-*
-
-SBi-anvisning 231, Fundering af mindre bygninger*
+*SBi-anvisning 231, Fundering af mindre bygninger*
 
 Ved fundering på en skråning eller opfyldning skal det eftervises, at der er den fornødne sikkerhed mod brud i jorden, se f.eks. SBi-anvisning 231, Fundering af mindre bygninger (Pedersen, 2011). Hvis man bygger på en skrånende grund, skal man også være opmærksom på, at gulvet i beboelsesrum og køkken ikke må ligge lavere end det naturlige terræn udenfor.
 
-*
-
-SBi-anvisning 277, Fugt i bygninger – Teori, beregning og undersøgelse*
+*SBi-anvisning 277, Fugt i bygninger – Teori, beregning og undersøgelse*
 
 Anvisningen beskriver fugtteori og beregningsmetoder til vurdering af hvordan en given konstruktion kan påvirkes af fugt, og omtaler hvad der er kritiske fugtforhold for forskellige byggematerialer. Desuden gives forslag til, hvordan der kan gennemføres undersøgelse af bygninger med henblik på at afdække eventuelle fugtrelaterede skader eller risikobehæftede forhold. Der beskrives målemetoder til anvendelse ved fugtundersøgelser, samt systemer til fugtovervågning, hvor sensorer anbragt i bygninger kan fjernaflæses (Brandt, 2022a).
 
-*
-
-SBi-anvisning 278, Fugt i bygninger – Projektering og udførelse*
+*SBi-anvisning 278, Fugt i bygninger – Projektering og udførelse*
 
 Anvisningen er udarbejdet som en hjælp til at håndtere fugt i projekterings- og byggefasen, så bygningsreglementets bestemmelser og intentioner vedrørende fugtindhold kan overholdes og dokumenteres. Den skal hjælpe bygherren til at vurdere, hvilke tiltag der er nødvendige for at undgå eller minimere skader som følge af uønsket fugt i bygningen, herunder behovet for at lade en fugtsagkyndig vurdere, om fugtforholdene er håndteret på fornuftigt vis under byggeriet (Brandt, 2022b). Anvisningen bygger på og er en opdatering af vejledning om håndtering af fugt i byggeriet (Møller, 2010), som blev udarbejdet som vejledning til BR10.
 
-*
-
-SBi-anvisning 279, Fugt i bygninger – Bygningsdele*
+*SBi-anvisning 279, Fugt i bygninger – Bygningsdele*
 
 Generelt kan bygningen beskyttes mod fugtpåvirkning fra overfladevand ved at give terrænet fald væk fra bygningen de første 3 m. Beskyttelse mod fugtpåvirkning fra nedsivende overfladevand kan ske ved vandtætning af bygningens yderside kombineret med dræning. Langs kældervægge placeres et drænende lag, et såkaldt vægdræn, der opfanger overfladevand og fører det til omfangsdrænet. Foroven afsluttes med et mindst 0,2 m tykt tætnende lag, fx lermuld, så overfladevand ledes væk. Kun hvor grunden er med selvdrænende materiale, fx groft sand, kan omfangsdræn udelades (Brandt, 2022c). Dræning udføres i overensstemmelse med DS 436, Norm for dræning af bygværker (Dansk Standard, 1993).
 
@@ -487,7 +479,7 @@ I KAMP kan man direkte aflæse, hvor mange bygninger og hvor mange kilometer vej
 
 [SkadesØkonomi](https://klimatilpasning.dk/kommuner-og-forsyning/vaerktoejer/os2-skadesoekonomi){rel="noopener" target="_blank"} er en model som er udviklet som et plugin til QGIS. Den kan anvendes til beregning af omkostningerne ved oversvømmelser knyttet til nedbør, stormflod eller vandløb. Modellen er udviklet til støtte for kommunernes arbejde med DK2020 og klimatilpasning. Værktøjet vurder risiko med udgangspunkt i økonomiske tab i forbindelse med en given oversvømmelse for en given sektor.
 
-**Kystdirektoratet under Miljøministeriet \**
+**Kystdirektoratet under Miljøministeriet**
 På hjemmesiden [Kyst.dk](https://kyst.dk/){rel="noopener noreferrer" target="_blank"} findes information om kysterne, hvor bl.a. oplysninger om kysternes dynamik og metoder til kystbeskyttelse er beskrevet. Ligeledes findes information om sagsbehandlingen af ansøgninger vedrørende byggeri inden for strandbeskyttelseslinjen, klitfredet areal samt anlæg på søterritorie. Desuden informerer hjemmesiden om planlægning af kystbeskyttelse i forhold til bl.a. klimaændringer, stormflod og erosion.
 
 **Kystplanlægger**
@@ -688,9 +680,7 @@ Vand i byer. Innovationsnetværk for klimatilpasning. LAR i Danmark. Lokaliseret
 
 BYG-ERFA blade indeholder indsamlet og bearbejdet byggeteknisk erfaring, herunder bygbare løsninger til nybyggeri og bygningsfornyelse. Erfaringsformidlingen er især rettet til professionelle i byggeriet, såsom projekterende, rådgivende og tilsynsførende arkitekter, ingeniører, konstruktører, håndværkere, entreprenører m.fl. Formidlingen sker primært gennem erfaringsblade forfattet af eksterne eksperter, som kvalitetssikres og valideres af BYG-ERFAs Teknikergruppe.
 
-*
-
-Erfaringsblad (50) 22 12 19: Nedsivning af regnvand i faskiner*
+*Erfaringsblad (50) 22 12 19: Nedsivning af regnvand i faskiner*
 
 Faskiner til nedsivning af regnvand har været brugt i mange år, og som regel fungerer de uden problemer. Det sker dog, at de giver anledning til oversvømmelse på terræn og fugt i ydermure – enten fordi de er for små, forkert opbyggede eller er dårligt vedligeholdt. Erfaringsbladet gennemgår opbygning og udførelse af faskiner, herunder afstandskrav og dimensioneringsregler samt anbefalinger til drift og vedligehold.
 
@@ -732,7 +722,7 @@ I kystnære områder møder byggeriet en række særlige udfordringer, som byghe
 
 I den forbindelse er det vigtigt at forstille sig de ekstreme hændelser i forbindelse med stormflod og vandstigninger, der i fremtiden kan forekomme, og at overveje om man i tide og med en rimelig investering kan gennemføre tiltag, som kan imødegå eller reducere risikoen for skader, når de ekstreme hændelser indtræffer.
 
-**Ved planlægning af en byggesag er det særlig vigtigt systematisk at gennemtænke blandt andet følgende forhold: \**
+**Ved planlægning af en byggesag er det særlig vigtigt systematisk at gennemtænke blandt andet følgende forhold:**
 *- Kan stormflod eller overløb fra åer ramme byggegrunden*
 
 Hvis ja, hvilken kote vil den maksimale vandstand nå?
@@ -751,7 +741,7 @@ Planlæg byggeriet med udgangspunkt i de regler og anvisninger, der er peget på
 
 **Udfordringerne afhænger af, om der er tale om:**
 
-*- En nybygning \*
+*- En nybygning*
 I forbindelse med en nybygning har man muligheden for økonomisk at vælge robuste løsninger, men en god sikkerhedsmargin ud fra en betragtning om, at det ofte er væsentlig billigere at indbygge øget sikkerhed fra start end senere at skulle indbygge samme sikkerhed
 
 *- En tilbygning*

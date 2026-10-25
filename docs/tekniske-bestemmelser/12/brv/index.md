@@ -56,7 +56,7 @@ Reglerne beskrevet ovenfor er fastlagt i arbejdsmiljøloven, yderligere og opdat
 
 *Opdateret 1. juli 2023*
 
-** **
+
 
 [1.1. Energiforsyningsanlæg i tilknytning til bygninger](./#kap-1_1)
 

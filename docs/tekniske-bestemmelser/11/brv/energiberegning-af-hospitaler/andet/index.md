@@ -160,7 +160,7 @@ I forbindelse med bygningsreglementet er der en eksempelsamling, der bl.a. indeh
 
 *I rum, hvor der er fast installeret udstyr med stor varmeafgivelse, der er tilstrækkelig til at dække varmebehovet, vil det da være i orden ikke at installere nogen varmekilde?*
 
-****Svar:****
+**Svar:**
 
 Bemærk at teknologiudviklingen af apparater vil måske efter kort tid medføre behov for opvarmning, så det vil ofte være relevant enten at have en varmekilde eller have forberedt for en varmekilde i rummet, men det er ikke et krav i bygningsklasse 2020.
 
@@ -201,8 +201,6 @@ Statistisk og i praksis vil der altid være en samtidighedsfaktor, der for store
 **Svar:**
 
 Der skal normalt medregnes en ventilationsmængde på 1,2 l/s pr. m² i referenceberegningen uden tillæg. De 1,2 l/s pr. m² udgør en minimumsluftmængde, der normalt vil være nødvendig for at sikre frisklufttilførslen i rummene. SEL-værdi og varmegenvinding skal være baseret på beregning for den gennemsnitlige luftmængde, inklusive procesventilation.
-
-** **
 
 ### Elforbrug til ventilation
 

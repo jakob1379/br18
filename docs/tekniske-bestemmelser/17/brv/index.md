@@ -79,7 +79,7 @@ Tabellerne i dette afsnit beskriver lydbestemmelserne for lydisolation, støj in
 
 ### Definitioner af rumtyper for boliger
 
-** **
+
 
 **Beboelsesrum** er opholds- eller soverum i en bolig (små, afgrænsede rum såsom entre, forstue, badeværelse osv. anses ikke for at være beboelsesrum).
 
@@ -640,8 +640,8 @@ Heldagsklasser, helhedsskoler og indskolingslokaler, der dækker over, at de sam
 <td>≤ 48 dB</td>
 </tr>
 <tr>
-<td colspan="2"><p>**Noter<br />
-**</p>
+<td colspan="2"><p><strong>Noter</strong><br />
+</p>
 <p>1)   Ved fleksible rumadskillelser forstås vægsystemer eller lignende rumopdelende elementer, som ikke fuldstændigt aflukker rum, men som afskærmer og adskiller dele af rum<br />
 <br />
 </p>
@@ -947,8 +947,8 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 <td></td>
 </tr>
 <tr>
-<td colspan="4"><p>**Noter<br />
-**</p>
+<td colspan="4"><p><strong>Noter</strong><br />
+</p>
 <p>1)   Grænseværdien for L<sub>den</sub> gældende for de enkelte trafikstøjkilder hver for sig.<br />
 <br />
 </p>
@@ -1390,8 +1390,8 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 <td></td>
 </tr>
 <tr>
-<td colspan="4"><p>**Noter<br />
-**</p>
+<td colspan="4"><p><strong>Noter</strong><br />
+</p>
 <p>1)   Grænseværdien for L<sub>den</sub> gældende for de enkelte trafikstøjkilder hver for sig.<br />
 <br />
 </p>
@@ -1481,7 +1481,7 @@ Tabel 5.1 indeholder forslag projekteringsværdier for luftlydisolation og trinl
 <td colspan="2"><strong>Kontorbyggeri – Tabel 5.1 Lydisolation – Forslag til projekteringsværdier</strong></td>
 </tr>
 <tr>
-<td><strong>Luftlydisolation</strong> ** <sup>1)</sup> <strong>- Vandret</strong></td>
+<td><strong>Luftlydisolation</strong>  <sup>1)</sup> <strong>- Vandret</strong></td>
 <td><strong><em>R’</em><sub>w</sub></strong></td>
 </tr>
 <tr>
@@ -1520,7 +1520,7 @@ Tabel 5.1 indeholder forslag projekteringsværdier for luftlydisolation og trinl
 </tr>
 <tr>
 <td>Auditorier og større møde- og videokonferencerum</td>
-<td>Projektkrav ** <sup>2)</sup></td>
+<td>Projektkrav  <sup>2)</sup></td>
 </tr>
 <tr>
 <td>Teknikrum</td>
@@ -1528,15 +1528,15 @@ Tabel 5.1 indeholder forslag projekteringsværdier for luftlydisolation og trinl
 </tr>
 <tr>
 <td>Mellem kontorer og møderum mod tilgrænsende rum i andre erhvervsenheder eller rum med støjende aktiviteter i samme virksomhed</td>
-<td>≥ 55 dB ** <sup>3)</sup></td>
+<td>≥ 55 dB  <sup>3)</sup></td>
 </tr>
 <tr>
-<td><strong>Luftlydisolation</strong> ** <sup>1)</sup> <strong>- Lodret</strong></td>
+<td><strong>Luftlydisolation</strong>  <sup>1)</sup> <strong>- Lodret</strong></td>
 <td><strong><em>R’</em><sub>w</sub></strong></td>
 </tr>
 <tr>
 <td>Mellem kontorer og møderum mod tilgrænsende rum i andre erhvervsenheder eller rum med støjende aktiviteter i samme virksomhed</td>
-<td>≥ 55 dB ** <sup>3)</sup></td>
+<td>≥ 55 dB  <sup>3)</sup></td>
 </tr>
 <tr>
 <td>Etagedæk mellem andre rum end nævnt ovenfor</td>
@@ -1557,11 +1557,11 @@ Tabel 5.1 indeholder forslag projekteringsværdier for luftlydisolation og trinl
 <tr>
 <td>Auditorier og større møde- og videokonferencerum</td>
 <td><p>≤ 58 dB eller</p>
-<p>Projektkrav ** <sup>2)</sup></p></td>
+<p>Projektkrav  <sup>2)</sup></p></td>
 </tr>
 <tr>
 <td>I kontorer og møderum fra tilgrænsende rum i andre erhvervsenheder</td>
-<td>≤ 58 dB ** <sup>3)</sup></td>
+<td>≤ 58 dB  <sup>3)</sup></td>
 </tr>
 <tr>
 <td><p><strong>Noter </strong></p>
@@ -1571,7 +1571,7 @@ Tabel 5.1 indeholder forslag projekteringsværdier for luftlydisolation og trinl
 <br />
 3) I tilfælde af særligt generende støj i egen eller andres virksomhed opstilles relevante lydkrav, der sikrer tilfredsstillende lydforhold for rumanvendelsen.<br />
 <br />
-4) Fra alle omgivende gulve, dæk og trapper.****</p></td>
+4) Fra alle omgivende gulve, dæk og trapper.</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1694,8 +1694,8 @@ b) </em>Der kan ikke påregnes optimale lydforhold for alle sædvanlige kontorak
 <br />
 6) Kun gange uden opholds- og arbejdsområder. Hvor arealerne i nogen grad anvendes til opholds- eller arbejdsområder anvendes T ≤ 0,6 s.<br />
 <br />
-7) Det anbefales til almindelige cafeterier og kantiner at benytte begrebet “akustisk kapacitet” og specificere max efterklangstid som lydklasse C i henhold til [16].**<br />
-**</p></td>
+7) Det anbefales til almindelige cafeterier og kantiner at benytte begrebet “akustisk kapacitet” og specificere max efterklangstid som lydklasse C i henhold til [16].<br />
+</p></td>
 </tr>
 </tbody>
 </table>
@@ -1746,11 +1746,11 @@ Tabel 5.3 indeholder forslag til projekteringsværdier for støj fra tekniske in
 </tr>
 <tr>
 <td>Kantine</td>
-<td>Projektkrav ** <sup>3),4)</sup></td>
+<td>Projektkrav  <sup>3),4)</sup></td>
 </tr>
 <tr>
-<td>Øvrige rum ** <sup>3)</sup></td>
-<td>Projektkrav ** <sup>3)</sup></td>
+<td>Øvrige rum  <sup>3)</sup></td>
+<td>Projektkrav  <sup>3)</sup></td>
 </tr>
 <tr>
 <td colspan="3"><p><strong><em>Supplerende vejledning</em></strong><em>    </em> <strong>[3], [9]</strong></p>
@@ -1763,7 +1763,7 @@ Tilsvarende grænseværdi for G-vægtet infralydniveau, L<sub>pG</sub> ≤ 85 dB
 <p>1) Projekteringsværdierne gælder i møblerede rum.<br />
 2) Projekteringsværdierne gælder for den enkelte installation.<br />
 3) Der opstilles relevante projektkrav, der kan sikre tilfredsstillende lydforhold for rumanvendelsen.<br />
-4) For kantiner, der benyttes som mødefacilitet, anbefales <strong><em>L</em></strong><sub><strong>Aeq</strong></sub> ≤ 35 dB.****</p></td>
+4) For kantiner, der benyttes som mødefacilitet, anbefales <strong><em>L</em></strong><sub><strong>Aeq</strong></sub> ≤ 35 dB.</p></td>
 </tr>
 </tbody>
 </table>
@@ -1841,7 +1841,7 @@ For hospitaler har en række rum skærpede lydkrav i forhold til andre bygningsa
 
 **Definitioner af rumtyper for hospitaler, lægehuse og klinikker**
 
-**- **Sengestuer**
+**- **Sengestuer
 
 - **Undersøgelsesrum, behandlingsrum, operationsstuer mv.**
 
@@ -1851,7 +1851,6 @@ For hospitaler har en række rum skærpede lydkrav i forhold til andre bygningsa
 
 - **Toiletrum**
 
-\**
 - **Videokonferencerum** kan være relativt små rum indrettet i almindelige møderum, men kan også være større rum, der kræver særskilt akustisk projektering.
 
 - **Storrumskontorer** er arealer, hvori de enkelte medarbejdere ikke er fysisk adskilt i lukkede rum. Disse arealer kræver særskilt akustisk projektering.
@@ -1900,7 +1899,7 @@ Tabel 6.1 indeholder forslag til projekteringsværdier for luftlydisolation og t
 <td colspan="2">Hospitaler – Tabel 6.1 Lydisolation – Forslag til projekteringsværdier</td>
 </tr>
 <tr>
-<td><strong>Luftlydisolation</strong> ** <sup>1)</sup> <strong>- Vandret</strong></td>
+<td><strong>Luftlydisolation</strong>  <sup>1)</sup> <strong>- Vandret</strong></td>
 <td><strong><em>R’</em><sub>w</sub></strong></td>
 </tr>
 <tr>
@@ -1945,18 +1944,18 @@ Mellem skyllerum og andre rum</td>
 </tr>
 <tr>
 <td>MR-scannerrum</td>
-<td>Projektkrav ** <sup>2)</sup></td>
+<td>Projektkrav  <sup>2)</sup></td>
 </tr>
 <tr>
 <td>Auditorier og større møde- og videokonferencerum</td>
-<td>Projektkrav ** <sup>2)</sup></td>
+<td>Projektkrav  <sup>2)</sup></td>
 </tr>
 <tr>
 <td>Mellem kontorer, møderum, sengestuer mv. mod tilgrænsende rum i andre erhvervsenheder eller rum med støjende aktiviteter i samme virksomhed</td>
-<td>≥ 55 dB ** <sup>3)</sup></td>
+<td>≥ 55 dB  <sup>3)</sup></td>
 </tr>
 <tr>
-<td><strong>Luftlydisolation</strong> ** <sup>1)</sup> <strong>- Lodret</strong></td>
+<td><strong>Luftlydisolation</strong>  <sup>1)</sup> <strong>- Lodret</strong></td>
 <td><strong><em>R’</em><sub>w</sub></strong></td>
 </tr>
 <tr>
@@ -1965,7 +1964,7 @@ Mellem skyllerum og andre rum</td>
 </tr>
 <tr>
 <td>MR-scannerrum</td>
-<td>Projektkrav ** <sup>2)</sup></td>
+<td>Projektkrav  <sup>2)</sup></td>
 </tr>
 <tr>
 <td>Mellem kontorer, møderum, sengestuer mv. mod tilgrænsende rum i andre erhvervsenheder eller rum med støjende aktiviteter i samme virksomhed</td>
@@ -1989,11 +1988,11 @@ Mellem skyllerum og andre rum</td>
 </tr>
 <tr>
 <td>Auditorier og større møde- og videokonferencerum</td>
-<td>Projektkrav ** <sup>2)</sup></td>
+<td>Projektkrav  <sup>2)</sup></td>
 </tr>
 <tr>
 <td>I kontorer, møderum, sengestuer mv. fra tilgrænsende rum i andre erhvervsenheder</td>
-<td>≤ 58 dB ** <sup>3)</sup></td>
+<td>≤ 58 dB  <sup>3)</sup></td>
 </tr>
 <tr>
 <td><p><strong>Noter</strong></p>
@@ -2202,7 +2201,7 @@ konsultationsrum</td>
 </tr>
 <tr>
 <td>Øvrige rum</td>
-<td>Projektkrav ** <sup>3)</sup></td>
+<td>Projektkrav  <sup>3)</sup></td>
 </tr>
 <tr>
 <td colspan="3"><p><strong><em>Supplerende vejledning</em></strong><em>    </em> <strong>[3], [9]</strong></p>
@@ -2216,7 +2215,7 @@ A-vægtet, ækvivalent lydtrykniveau i lavfrekvensområdet, L</em><sub>p<em>A,LF
 <br />
 2) Projekteringsværdien gælder for den enkelte installation.<br />
 <br />
-3) Der opstilles relevante projektkrav, der kan sikre tilfredsstillende lydforhold for rumanvendelsen.****</p></td>
+3) Der opstilles relevante projektkrav, der kan sikre tilfredsstillende lydforhold for rumanvendelsen.</p></td>
 </tr>
 </tbody>
 </table>
@@ -2281,7 +2280,7 @@ med lukkede vinduer</td>
 </tr>
 <tr>
 <td>Øvrige rum samt alle rum udsat for helikopterstøj</td>
-<td>Projektkrav ** <sup>2)</sup></td>
+<td>Projektkrav  <sup>2)</sup></td>
 </tr>
 <tr>
 <td colspan="2"><p><strong>Noter</strong></p>

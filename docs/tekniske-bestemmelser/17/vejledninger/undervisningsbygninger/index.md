@@ -116,8 +116,8 @@ Heldagsklasser, helhedsskoler og indskolingslokaler, der dækker over, at de sam
 <td>≤ 48 dB</td>
 </tr>
 <tr>
-<td colspan="2"><p>**Noter<br />
-**</p>
+<td colspan="2"><p><strong>Noter</strong><br />
+</p>
 <p>1)   Ved fleksible rumadskillelser forstås vægsystemer eller lignende rumopdelende elementer, som ikke fuldstændigt aflukker rum, men som afskærmer og adskiller dele af rum<br />
 <br />
 </p>
@@ -184,8 +184,8 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 <td></td>
 </tr>
 <tr>
-<td colspan="4"><p>**Noter<br />
-**</p>
+<td colspan="4"><p><strong>Noter</strong><br />
+</p>
 <p>1)   Grænseværdien for L<sub>den</sub> gældende for de enkelte trafikstøjkilder hver for sig.<br />
 <br />
 </p>

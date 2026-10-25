@@ -30,19 +30,17 @@
 
 ### Spørgsmål og svar om let tagkonstruktion (06-07-2022) {#71716646-28c1-4231-ac24-25fd9753bd1f}
 
-**Hvad forstås ved en 'let tagkonstruktion'?** ** ** *I Bygningsreglementets vejledning til kapitel 5 – brand, Kapitel 3: Bærende konstruktioner*, er angivet følgende for bygninger i én etage i anvendelseskategori 1-5:
+**Hvad forstås ved en 'let tagkonstruktion'?**  *I Bygningsreglementets vejledning til kapitel 5 – brand, Kapitel 3: Bærende konstruktioner*, er angivet følgende for bygninger i én etage i anvendelseskategori 1-5:
 
 *I en bygning med let tagkonstruktion og med automatisk brandventilation, kan de bærende bygningsdele i bygningen udføres uden brandmodstandsevne, hvis brandsektionen er højst 1.000 m^2^, og i brandsektioner, der er større end 1.000 m^2^ kan de bærende konstruktioner, der bærer mindre end 200 m^2^ tag udføres uden krav til brandmodstandsevne.*
 
-*
-
-Ved en let tagkonstruktion forstås en isoleret eller uisoleret konstruktion opbygget af lette konstruktionsmaterialer f.eks. træ eller stålbjælker med eller uden loftsbeklædning mod rummet og med tagdækning af tagpap, metalplader, fibercementplader eller tilsvarende. Fladedensiteten for en let tagkonstruktion må højst være 30 kg/m^2^.*
+*Ved en let tagkonstruktion forstås en isoleret eller uisoleret konstruktion opbygget af lette konstruktionsmaterialer f.eks. træ eller stålbjælker med eller uden loftsbeklædning mod rummet og med tagdækning af tagpap, metalplader, fibercementplader eller tilsvarende. Fladedensiteten for en let tagkonstruktion må højst være 30 kg/m^2^.*
 
 Hensynet bag, at det skal være en let tagkonstruktion, er at sikre, at egenvægten af tagkonstruktionen, og dermed lasten på den bærende, uklassificerede bygningsdel, minimeres. Desuden vurderes en let tagkonstruktion at have kortere brandmodstandsevne end den bærende bygningsdel, hvorved risikoen for, at der sker et progressivt kollaps, bl.a. til fare for rednings- og slukningsarbejdet, minimeres.
 
-Følgende præciseres ved en kommende opdatering af Bygningsreglementets *vejledning til kapitel 5 – Brand, Kapitel 3: Bærende konstruktioner:* *
+Følgende præciseres ved en kommende opdatering af Bygningsreglementets *vejledning til kapitel 5 – Brand, Kapitel 3: Bærende konstruktioner:*
 
-Ved en let tagkonstruktion forstås en isoleret eller uisoleret konstruktion opbygget af lette konstruktionsmaterialer, f.eks. træ eller stålbjælker med eller uden loftsbeklædning mod rummet, og med tagdækning af tagpap, metalplader, fibercementplader eller tilsvarende. Dvs. at en let tagkonstruktion typisk er alt andet end et betontagdæk og øvrige tagkonstruktioner med tagdækning af teglsten eller betontagsten.*
+*Ved en let tagkonstruktion forstås en isoleret eller uisoleret konstruktion opbygget af lette konstruktionsmaterialer, f.eks. træ eller stålbjælker med eller uden loftsbeklædning mod rummet, og med tagdækning af tagpap, metalplader, fibercementplader eller tilsvarende. Dvs. at en let tagkonstruktion typisk er alt andet end et betontagdæk og øvrige tagkonstruktioner med tagdækning af teglsten eller betontagsten.*
 
 At fladedensiteten (fladevægten) for en let tagkonstruktion højst må være 30 kg/m^2^ for at det kan betragtes som en præ-accepteret løsning, har givet anledning til tvivlsspørgsmål og en række udfordringer i forhold til at overholde kravet i praksis, som ikke har været hensigten, hvorfor kravet udgår.
 

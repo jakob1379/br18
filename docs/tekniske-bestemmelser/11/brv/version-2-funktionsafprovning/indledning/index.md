@@ -526,9 +526,7 @@ For at kunne udføre funktionsafprøvningen skal følgende normalt være opfyldt
 
 • Under måleperioden holdes vinduer og døre, og andre åbninger til det fri, der ikke indgår i ventilationssystemet, lukkede for at opnå stabile måleforho*ld.*
 
-*
-
-Målepunkter*
+*Målepunkter*
 
 Ved funktionsafprøvning af bygninger med et naturligt ventilationssystem bør det kontrolleres, at:
 
@@ -630,9 +628,9 @@ For at kunne udføre funktionsafprøvning af indregulering af varme- og køleanl
 
   *Målepunkter*
 
-Hvis fremløbstemperaturstyringen sker ved vejrkompensering, måles udetemperaturen ved brug af eksternt måleudstyr samme sted som anlæggets udetemperaturføler er placeret. Samtidigt kontrolleres det, om målepunktet er egnet til måling af udetemperatur. Det vil sige uden påvirkning af direkte solindfald.  *
+Hvis fremløbstemperaturstyringen sker ved vejrkompensering, måles udetemperaturen ved brug af eksternt måleudstyr samme sted som anlæggets udetemperaturføler er placeret. Samtidigt kontrolleres det, om målepunktet er egnet til måling af udetemperatur. Det vil sige uden påvirkning af direkte solindfald.  
 
-Zoner med radiatorer *
+*Zoner med radiatorer*
 
 Ved radiatoranlæg afprøves det, om der kommer jævn varme på alle radiatorer. Afprøvningen foregår ved at afmontere alle følerelementer og derefter manuelt indstille fremløbstemperaturen. Radiatoren skal være varm i toppen og godt afkølet i bunden.   Kontrollen kan foretages med termografi eller temperaturmåling.   *Zoner med gulvvarme*
 
@@ -868,9 +866,7 @@ Der udarbejdes en funktionsafprøvningsrapport, der beskriver:
 
 Det er et krav i bygningsreglementet, at arbejdsrum m.v. og fælles adgangsveje skal forsynes med energieffektiv belysning, hvilket blandt andet opnås ved effektiv lysstyring. Hvis der er tilstrækkeligt dagslys skal arbejdsrum m.v. og fælles adgangsveje forsynes med automatisk dagslysstyring. Ligeledes er det et krav, at arbejdsrum og fælles adgangsveje, der kun benyttes lejlighedsvis skal forsynes med bevægelsesmeldere. Endeligt er der krav til, at arbejdsrum m.v. skal opdeles i zoner for at kunne reducere belysningen i zoner med højt dagslysniveau eller zoner, der ikke er i brug.
 
-*
-
-Formål med funktionsafprøvning af lysstyring*
+*Formål med funktionsafprøvning af lysstyring*
 
 Formålet med afprøvningen er at eftervise, at lysstyringen i praksis mindst svarer til den forudsætning, der blev anvendt i energibehovsberegningen, der dokumenterer bygningens overholdelse af bygningsreglementets energikrav, jf. kap. 11 om energiforbrug.
 
@@ -1130,7 +1126,7 @@ For køleanlæg kontrolleres det at nedenstående punkter er opfyldt:
 
 • cirkulationspumper og pumpestyringer (kølevandskredsen) er udført som foreskrevet. Der bør være foreskrevet tidsstyring og omdrejningstalsregulerbare cirkulationspumper.
 
-*Acceptkriterium \*
+*Acceptkriterium*
 Afprøvningens resultat med hensyn til den energimæssige effektivitet kan accepteres, hvis energiforsyningsanlægget overholder Ecodesignkravene og punkterne under afsnittet 'Kontrolpunkter' er overholdt.
 
 *Dokumentation*

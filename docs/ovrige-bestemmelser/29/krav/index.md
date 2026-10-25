@@ -216,8 +216,6 @@ Der skal udarbejdes en drifts-, kontrol- og vedligeholdelsesplan, jf. § 143, i 
 
 Dokumentation for brandforhold for byggeri, som er indplaceret i brandklasse 1, skal udføres efter principperne, som er beskrevet i Bygningsreglementets vejledning til kapitel 29 og 30.
 
-**  **
-
 *Stk. 2.* Den fremsendte dokumentation skal dokumentere valg af brandklasse, og at byggeriets brandsikkerhed er i overensstemmelse med definerede krav til sikkerhed og anvendelighed.
 
 ### § 522 {#paragraf-522}

@@ -91,6 +91,7 @@ FLATTEN_TAGS = {
 }
 
 EMPHASIS_TAGS = {"b", "em", "i", "strong"}
+EMPHASIS_KIND = {"b": "strong", "strong": "strong", "em": "em", "i": "em"}
 EMPHASIS_OPEN_RE = re.compile(r"^<(?:b|em|i|strong)\b[^>]*>$")
 
 BLOCK_FLATTEN_TAGS = {
@@ -187,6 +188,14 @@ class Cleaner(HTMLParser):
         self.parts: list[str] = []
         self.skip_depth = 0
         self.stack: list[str] = []
+        self.emphasis: list[str] = []
+
+    def _before_emphasis_opens(self) -> int:
+        """Index before the emphasis tags just opened, where leading whitespace and breaks belong."""
+        index = len(self.parts)
+        while index and EMPHASIS_OPEN_RE.match(self.parts[index - 1]):
+            index -= 1
+        return index
 
     def _attrs(self, attrs: list[tuple[str, str | None]]) -> dict[str, str]:
         return {name: value or "" for name, value in attrs}
@@ -235,7 +244,7 @@ class Cleaner(HTMLParser):
             if self.skip_depth > 0 or self._should_skip(tag, attrs):
                 return
             attrs = self._rewrite_attrs(tag, attrs)
-            self.parts.append(f"<{tag}{self._render_attrs(attrs)} />")
+            self.parts.insert(self._before_emphasis_opens() if tag == "br" else len(self.parts), f"<{tag}{self._render_attrs(attrs)} />")
             return
 
         if self.skip_depth > 0 or self._should_skip(tag, attrs):
@@ -243,13 +252,17 @@ class Cleaner(HTMLParser):
             self.skip_depth += 1
             return
 
-        if tag in FLATTEN_TAGS or (tag == "a" and "href" not in self._attrs(attrs)):
+        # Markdown cannot nest emphasis of one kind (`**a **b****`), and the inner one adds nothing visible.
+        nested = tag in EMPHASIS_TAGS and EMPHASIS_KIND[tag] in self.emphasis
+        if nested or tag in FLATTEN_TAGS or (tag == "a" and "href" not in self._attrs(attrs)):
             self.stack.append("flatten")
             if tag in BLOCK_FLATTEN_TAGS:
                 self.parts.append("\n\n")
             return
 
         self.stack.append("emit")
+        if tag in EMPHASIS_TAGS:
+            self.emphasis.append(EMPHASIS_KIND[tag])
         attrs = self._rewrite_attrs(tag, attrs)
         self.parts.append(f"<{tag}{self._render_attrs(attrs)}>")
 
@@ -274,6 +287,8 @@ class Cleaner(HTMLParser):
             return
         moved: list[str] = []
         if tag in EMPHASIS_TAGS:
+            if self.emphasis:
+                self.emphasis.pop()
             while self.parts and (self.parts[-1] == "<br />" or not self.parts[-1].strip(" \t\n ")):
                 moved.insert(0, self.parts.pop())
             if self.parts and not self.parts[-1].startswith("<"):
@@ -281,6 +296,12 @@ class Cleaner(HTMLParser):
                 kept = text.rstrip(" \t\n ")
                 self.parts.append(kept)
                 moved.insert(0, text[len(kept):])
+            opened = next((i for i in range(len(self.parts) - 1, -1, -1) if re.match(rf"<{tag}\b", self.parts[i])), None)
+            if opened is not None and not re.sub(r"<[^>]*>", "", "".join(self.parts[opened + 1 :])).strip(" \t\n\u00a0"):
+                # Emphasis around nothing visible renders as literal `* *`.
+                del self.parts[opened]
+                self.parts.extend(moved)
+                return
         self.parts.append(f"</{tag}>")
         self.parts.extend(moved)
 
@@ -291,7 +312,7 @@ class Cleaner(HTMLParser):
         ):
             lead = data[: len(data) - len(data.lstrip(" \t\n "))]
             if lead and self.parts and EMPHASIS_OPEN_RE.match(self.parts[-1]):
-                self.parts.insert(len(self.parts) - 1, lead)
+                self.parts.insert(self._before_emphasis_opens(), lead)
                 data = data[len(lead):]
             self.parts.append(data)
 

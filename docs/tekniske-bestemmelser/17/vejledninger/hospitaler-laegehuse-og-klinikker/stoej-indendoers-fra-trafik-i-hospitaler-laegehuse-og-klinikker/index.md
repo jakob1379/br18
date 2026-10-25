@@ -69,7 +69,7 @@ med lukkede vinduer</td>
 </tr>
 <tr>
 <td>Øvrige rum samt alle rum udsat for helikopterstøj</td>
-<td>Projektkrav ** <sup>2)</sup></td>
+<td>Projektkrav  <sup>2)</sup></td>
 </tr>
 <tr>
 <td colspan="2"><p><strong>Noter</strong></p>

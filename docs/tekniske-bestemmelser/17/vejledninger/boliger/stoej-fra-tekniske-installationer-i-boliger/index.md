@@ -19,8 +19,6 @@ Tabellerne i dette afsnit beskriver lydbestemmelserne for lydisolation, støj in
 
 ### Definitioner af rumtyper for boliger
 
-** **
-
 **Beboelsesrum** er opholds- eller soverum i en bolig (små, afgrænsede rum såsom entre, forstue, badeværelse osv. anses ikke for at være beboelsesrum).
 
 **Fællesrum** er fælles opholdsrum samt trapperum eller gange, som er fælles for flere boliger.

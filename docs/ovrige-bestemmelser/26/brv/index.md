@@ -163,7 +163,7 @@ Overordnet kan inddelingen i konstruktionsklasse 1-4 (KK14) ifølge BR18, § 489
 </colgroup>
 <tbody>
 <tr>
-<td colspan="5"><p>| <strong>Konsekvensklasse (CC)</strong> | ****</p>
+<td colspan="5"><p>| <strong>Konsekvensklasse (CC)</strong> | </p>
 <p>| +—————–+—————–+—————–+—————–+ | <strong>Lav</strong> | <strong>Middel</strong> | <strong>Høj</strong> | <strong>Ekstra høj</strong> | <strong>(CC1)</strong> | <strong>(CC2)</strong> | <strong>(CC3)</strong> | <strong>(CC3+)</strong> |</p></td>
 </tr>
 <tr>
@@ -185,7 +185,7 @@ Overordnet kan inddelingen i konstruktionsklasse 1-4 (KK14) ifølge BR18, § 489
 
 **Tabel 1: Indplacering i konstruktionsklasse**
 
-Note *: *Dog KK1 for:*
+Note *: *Dog KK1 for:
 
 - *Enfamiliehuse, rækkehuse og sommerhuse uden vandret lejlighedsskel.*
 - *Avls- og driftsbygninger i 1 etage med en maksimal spændvidde på 40 meter, eksklusiv avls- og driftsbygninger, hvor der ved svigt vil være stor fare for tab af dyreliv, svarende til bygninger, der vil blive placeret i høj konsekvensklasse (CC3), hvis de var beregnet til ophold for mennesker.*

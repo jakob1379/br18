@@ -70,9 +70,9 @@ For at kunne udføre funktionsafprøvning af indregulering af varme- og køleanl
 
   *Målepunkter*
 
-Hvis fremløbstemperaturstyringen sker ved vejrkompensering, måles udetemperaturen ved brug af eksternt måleudstyr samme sted som anlæggets udetemperaturføler er placeret. Samtidigt kontrolleres det, om målepunktet er egnet til måling af udetemperatur. Det vil sige uden påvirkning af direkte solindfald.  *
+Hvis fremløbstemperaturstyringen sker ved vejrkompensering, måles udetemperaturen ved brug af eksternt måleudstyr samme sted som anlæggets udetemperaturføler er placeret. Samtidigt kontrolleres det, om målepunktet er egnet til måling af udetemperatur. Det vil sige uden påvirkning af direkte solindfald.  
 
-Zoner med radiatorer *
+*Zoner med radiatorer*
 
 Ved radiatoranlæg afprøves det, om der kommer jævn varme på alle radiatorer. Afprøvningen foregår ved at afmontere alle følerelementer og derefter manuelt indstille fremløbstemperaturen. Radiatoren skal være varm i toppen og godt afkølet i bunden.   Kontrollen kan foretages med termografi eller temperaturmåling.   *Zoner med gulvvarme*
 

@@ -36,8 +36,6 @@ Reglerne beskrevet ovenfor er fastlagt i arbejdsmiljøloven, yderligere og opdat
 
 *Opdateret 1. juli 2023*
 
-** **
-
 ### 1.1. Energiforsyningsanlæg i tilknytning til bygninger {#4b9d2495-a250-4ad6-b96a-a4833bd96098}
 
 Aftrækssystemer, der er beregnet til negativt tryk, bør have en tæthed mindst som tæthedsklasse N1. Skorstensforinger, der er beregnet til negativt tryk, bør have en tæthed mindst som tæthedsklasse N2. Aftrækssystemer, der er beregnet til positivt tryk, bør have en tæthed mindst som tæthedsklasse P1.

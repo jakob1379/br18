@@ -29,7 +29,7 @@ For hospitaler har en række rum skærpede lydkrav i forhold til andre bygningsa
 
 **Definitioner af rumtyper for hospitaler, lægehuse og klinikker**
 
-**- **Sengestuer**
+**- **Sengestuer
 
 - **Undersøgelsesrum, behandlingsrum, operationsstuer mv.**
 
@@ -39,7 +39,6 @@ For hospitaler har en række rum skærpede lydkrav i forhold til andre bygningsa
 
 - **Toiletrum**
 
-\**
 - **Videokonferencerum** kan være relativt små rum indrettet i almindelige møderum, men kan også være større rum, der kræver særskilt akustisk projektering.
 
 - **Storrumskontorer** er arealer, hvori de enkelte medarbejdere ikke er fysisk adskilt i lukkede rum. Disse arealer kræver særskilt akustisk projektering.

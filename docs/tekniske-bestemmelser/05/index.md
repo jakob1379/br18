@@ -537,7 +537,7 @@ c) større end 600 m2 og har mere end 1 etage under terræn.
 
 10) Bygningsafsnit i garageanlæg med frie åbne ramper mellem bygningsafsnittene, når det samlede etageareal af bygningsafsnittene er større end 10.000 m².
 
-* *
+
 
 *Stk. 2.* Telte med en brandbelastning på højst 800 MJ/m2 er ikke omfattet af stk. 1.
 
@@ -679,7 +679,7 @@ Stk. 3. For bygningsafsnit i risikoklasse 2-4 skal den løbende funktionsafprøv
 
 Hvor flere brandtekniske installationer skal virke sammen, skal der foretages løbende systemintegrationstest, der viser, at det sammenhængende system af installationer har den ønskede funktion.
 
-**  **
+
 
 *Stk. 2.* Kravet om løbende systemintegrationstest i stk. 1 anses som opfyldt, hvis systemintegrationstesten sker med de intervaller, som er beskrevet i Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) – Brand.
 

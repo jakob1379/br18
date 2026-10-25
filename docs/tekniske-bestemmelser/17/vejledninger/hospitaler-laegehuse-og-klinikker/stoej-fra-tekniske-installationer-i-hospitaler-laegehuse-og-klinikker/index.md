@@ -72,7 +72,7 @@ konsultationsrum</td>
 </tr>
 <tr>
 <td>Øvrige rum</td>
-<td>Projektkrav ** <sup>3)</sup></td>
+<td>Projektkrav  <sup>3)</sup></td>
 </tr>
 <tr>
 <td colspan="3"><p><strong><em>Supplerende vejledning</em></strong><em>    </em> <strong>[3], [9]</strong></p>
@@ -86,7 +86,7 @@ A-vægtet, ækvivalent lydtrykniveau i lavfrekvensområdet, L</em><sub>p<em>A,LF
 <br />
 2) Projekteringsværdien gælder for den enkelte installation.<br />
 <br />
-3) Der opstilles relevante projektkrav, der kan sikre tilfredsstillende lydforhold for rumanvendelsen.****</p></td>
+3) Der opstilles relevante projektkrav, der kan sikre tilfredsstillende lydforhold for rumanvendelsen.</p></td>
 </tr>
 </tbody>
 </table>
