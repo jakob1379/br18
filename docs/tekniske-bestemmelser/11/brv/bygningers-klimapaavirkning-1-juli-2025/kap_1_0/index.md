@@ -8,7 +8,7 @@
 - [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner)
 - [Vejledning om funktionsafprøvning](../../version-2-funktionsafprovning)
 - [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov)
-- [Bygningsreglementets vejledning om bygningers klimapåvirkning](..)
+- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../)
 - [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler)
 - [Eksempelsamling for energi](../../eksempelsamling)
 
@@ -248,7 +248,7 @@ Referencearealet tager udgangspunkt i beregningen til etagearealet, som skal opg
 - *Overdækkede, ikke-integrerede terrasser samt udnyttede tagflader og lignende medtages ikke,* hverken hvad angår materialer anvendt til opførelsen eller arealet af disse områder. Overdækkede terrasser kan f.eks. være en  tagkonstruktionen med det formål, at have mulighed for ophold herunder.
 - Almindelige tagudhæng vil ikke udløse et referenceareal, men materialerne skal medregnes.
 
-Det fremhæves, at det for de beskrevne områder kun er arealet, der reduceres, og ikke mængderne af materialer. Materialernes mængder indgår stadig med 100 *pct.*, jf. [BR18, bilag 2, tabel 6](../../../../../bilag/b2/bilag_2/tabel_6 "Tabel_6"){rel="noopener noreferrer" target="_blank"}.
+Det fremhæves, at det for de beskrevne områder kun er arealet, der reduceres, og ikke mængderne af materialer. Materialernes mængder indgår stadig med 100 *pct.*, jf. [BR18, bilag 2, tabel 6](../../../../../bilag/b2/bilag_2/tabel_6){rel="noopener noreferrer" target="_blank"}.
 
 #### **1.3.1 Eksempler** {#e53ebfa8-1dea-4737-aa53-69c8a848b30c}
 
@@ -352,9 +352,9 @@ Til brug for beregning af klimapåvirkningen skal udledningerne fra de materiale
 
 For at sikre ensartede livscyklusvurderinger med samme afgrænsning for alle bygninger er der udarbejdet en oversigt over de dele af en bygning, der som minimum skal indgå i livscyklusvurderingen (markeret med ja), herunder også præcisering af det detaljeringsniveau, der skal ligge til grund for opgørelsen. Oversigten fremgår af [BR18, bilag 2, tabel 6](../../../../../bilag/b2/bilag_2/tabel_6){rel="noopener noreferrer" target="_blank"} (nyt vindue). Der skelnes generelt mellem bygningsdele og så de materialer, der indgår i hver bygningsdel.
 
-I det følgende uddybes, hvordan BR18, bilag 2, tabel 6 skal anvendes i forbindelse med beregningen. Det uddybes også, hvordan man kan opgøre klimapåvirkningerne for visse dele af bygningen, hvor det ikke er muligt at opgøre de enkelte materialer grundet manglende data, jf. [BR18, bilag 2, tabel 6](../../../../../bilag/b2/bilag_2/tabel_6 "Tabel_6"){rel="noopener noreferrer" target="_blank"} (nyt vindue).
+I det følgende uddybes, hvordan BR18, bilag 2, tabel 6 skal anvendes i forbindelse med beregningen. Det uddybes også, hvordan man kan opgøre klimapåvirkningerne for visse dele af bygningen, hvor det ikke er muligt at opgøre de enkelte materialer grundet manglende data, jf. [BR18, bilag 2, tabel 7](../../../../../bilag/b2/bilag_2/tabel_7){rel="noopener noreferrer" target="_blank"} (nyt vindue).
 
-#### **1.4.1 Tabellens opbygning og anvendelse** {#787e83a6-b7d9-4a83-a4be-37574156daef}
+#### **1.4.1 Tabellens opbygning og anvendelse**
 
 BR18, bilag 2, tabel 6 er opbygget sådan, at der først er delt op i overordnede bygningskategorier. Hver kategori indeholder en opdeling i typer, og for hver type fremgår de enkelte bygningsdele. Hver bygningsdel har en hovedgruppe og en undergruppe, disse to grupperinger er med som vejledning og er derfor frivillige at benytte. Se et uddrag af tabellen nedenfor.
 
@@ -818,9 +818,9 @@ BR18, bilag 2, tabel 7, er opdelt i følgende kolonner:
 
 **Tabel 5.1** Oversigt over opbygningen af BR18, bilag 2, tabel 7, med et eksempel for byggematerialet 4 mm glas.
 
-I tabellen på bygningsreglementets hjemmeside indgår der for hvert produkt/materiale et link, hvor det er muligt at læse mere om datakilden. Tabellen kan også tilgås [her](../../../../../bilag/b2/bilag_2/tabel_7 "Tabel_7"){rel="noopener noreferrer" target="_blank"} (nyt vindue).
+I tabellen på bygningsreglementets hjemmeside indgår der for hvert produkt/materiale et link, hvor det er muligt at læse mere om datakilden. Tabellen kan også tilgås [her](../../../../../bilag/b2/bilag_2/tabel_7){rel="noopener noreferrer" target="_blank"} (nyt vindue).
 
-#### **Valg af datasæt for et konkret materiale** {#787e83a6-b7d9-4a83-a4be-37574156daef}
+#### **Valg af datasæt for et konkret materiale**
 
 Som beskrevet, skal der for hvert materiale, som indgår i bygningen, anvendes et datasæt fra BR18, bilag 2, tabel 7, eller miljøvaredeklarationer, jf. § 297, stk. 8. Hvis der for et konkret materiale ikke findes et generisk datasæt i tabellen eller en miljøvaredeklaration, skal der anvendes det generiske datasæt fra BR18, bilag 2, tabel 7, hvor materialesammensætning svarer bedst muligt til det pågældende materiale. Med materialesammensætning forstås de materialetyper og repræsentative mængder, der fremgår af tabellen for det konkrete materiale. På nuværende tidspunkt er der fx ikke datagrundlag for at invertere til solcelleanlæg eller lignende. Derfor bliver man nødt til at angive et materiale, der så godt som muligt svarer til en inverter. Det kunne fx være "aluminiumsplade" eller "fjernvarmeanlæg".
 
@@ -1079,9 +1079,7 @@ Klimapåvirkningen aflæses under enten GWP eller GWP-total, afhængigt af om mi
 
 #### **1.6.4 Håndtering af modul C3/C4**
 
-Ved anvendelse af EPD'er skal affaldsscenarierne (modul C3/C4), som de fremgår af
-
-EPD'en, anvendes i beregningen.
+Ved anvendelse af EPD'er skal affaldsscenarierne (modul C3/C4), som de fremgår af EPD'en, anvendes i beregningen.
 
 #### **1.6.5  Manglende C3 modul**
 
@@ -1093,7 +1091,7 @@ Hvis en EPD i modul C3/C4 indeholder flere forskellige scenarier for affaldshån
 
 #### **1.6.7 Manglende scenarie for affaldshåndtering**
 
-Hvis EPD'er hverken indeholder et C3- eller C4-modul, kan der anvendes et passende modul fra det generiske datagrundlag ([BR18, bilag 2, tabel 7](../../../../../bilag/b2/bilag_2/tabel_7 "Tabel_7")).
+Hvis EPD'er hverken indeholder et C3- eller C4-modul, kan der anvendes et passende modul fra det generiske datagrundlag (BR18, bilag 2, tabel 7).
 
 Der gøres opmærksom på, at sammensat data kun skal benyttes, hvis der ikke findes den nødvendige data indenfor samme datasæt af et materiale.
 
@@ -1241,7 +1239,7 @@ Byggeprocessens klimapåvirkning skal herefter beregnes ved at opgøre brændsel
 
 "Brug af hjælpe-/interimsmaterialer" er forbrug forbundet med at benytte materialerne, fx ophejsning af stillads. Produktion af interimsmaterialerne selv (stilladser, støbeforme) tæller ikke med.).
 
-Produktion af materialer på pladsen, fx sammenstøbningsbeton indgår ikke i A5. Sådanne indgår i stedet i A1-A3, hvis de er med i bygningsmodellen ([bilag 2, tabel 6](../../../../../bilag/b2/bilag_2/tabel_6 "Tabel_6")). Fx er udfyldning mellem elementer (sammenstøbningsbeton) udtrykkeligt undtaget fra beregningen (se teksten til [bilag 2, tabel 6](../../../../../bilag/b2/bilag_2/tabel_6 "Tabel_6")) og derfor skal det hverken opgøres i A1-A3 eller A5.
+Produktion af materialer på pladsen, fx sammenstøbningsbeton indgår ikke i A5. Sådanne indgår i stedet i A1-A3, hvis de er med i bygningsmodellen (bilag 2, tabel 6). Fx er udfyldning mellem elementer (sammenstøbningsbeton) udtrykkeligt undtaget fra beregningen (se teksten til bilag 2, tabel 6) og derfor skal det hverken opgøres i A1-A3 eller A5.
 
 I standarden fremgår det ikke klart om udledningerne fra præfabrikation af bygningselementer, som fx præfabrikerede trækassetter skal indgå i A1-A3 eller i A4-A5. Det er op til bygningsejer at vurdere, hvor det passer bedst, samt at sikre, at alle udledningerne bliver talt med.
 
@@ -1478,7 +1476,9 @@ Følgende eksempler er udelukkende af vejledende karakter, og det skal altid vur
 
 Det er op til bygningsejer at redegøre for, at der er tale om et særligt forhold. Dette skal fremgå af dokumentationen, jf. §40. Beregningen af, hvor stor en del af bygningens klimapåvirkning, som ikke skal medregnes, foretages efter anvisningerne i BR18, bilag 2, tabel 9. Tabellen indeholder referenceværdier for konstruktioner uden særlige forhold.
 
-Af BR18, bilag 2, tabel 9, fremgår også fire formler (Formel 1, 2, 3 og 4), der skal anvendes til beregning af forskellen.
+Af BR18, bilag 2, tabel 9, fremgår også fire formler (Formel 1, 2, 3 og
+
+4), der skal anvendes til beregning af forskellen.
 
 - Formel 1 anvendes, hvis konstruktioner som etage- og kælderdæk, gulv, loft, vægge, tage, terrændæk og pladefundamenter er påvirket af et særlige forhold.
 - Formel 2 anvendes, hvis søjler eller bjælker er påvirket af et særlige forhold.
@@ -1600,7 +1600,9 @@ Følgende eksempler er udelukkende af vejledende karakter, og det skal altid vur
 
 Det er op til bygningsejer at redegøre for, at der er tale om et særligt forhold. Dette skal fremgå af dokumentationen, jf. §40. Beregningen af, hvor stor en del af bygningens klimapåvirkning, som ikke skal medregnes, foretages efter anvisningerne i BR18, bilag 2, tabel 9. Tabellen indeholder referenceværdier for konstruktioner uden særlige forhold.
 
-Af BR18, bilag 2, tabel 9, fremgår også fire formler (Formel 1, 2, 3 og 4), der skal anvendes til beregning af forskellen.
+Af BR18, bilag 2, tabel 9, fremgår også fire formler (Formel 1, 2, 3 og
+
+4), der skal anvendes til beregning af forskellen.
 
 ·         Formel 1 anvendes, hvis konstruktioner som etage- og kælderdæk, gulv, loft, vægge, tage, terrændæk og pladefundamenter er påvirket af et særligt forhold.
 

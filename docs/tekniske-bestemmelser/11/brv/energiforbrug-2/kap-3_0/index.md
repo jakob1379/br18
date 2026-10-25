@@ -517,9 +517,9 @@ Kravet til U-værdi for lystunneler eller lignende gælder for gennembrydningen 
 
 Bestemmelsen finder f.eks. anvendelse, såfremt der ønskes etableret nye vinduespartier i facaden eller i taget. Den manglende energimæssige ydeevne kan eksempelvis dækkes ved merisolering, solvarmeanlæg, varmepumpeanlæg eller solceller.
 
--{target="_blank"}
+-  [Gå til energikrav ved ændret anvendelse (§ 267 - § 270)](../../../krav/267_270#9a9a97b3-01e2-4af4-af72-faf0fdbd74ce){target="_blank"}
 
-### Tilbygninger {#9a9a97b3-01e2-4af4-af72-faf0fdbd74ce}
+### 3.0. Tilbygninger {#5eebe19f-379c-4856-9b7b-e761654d55e5}
 
 Reglerne om tilbygninger kan benyttes når der laves mindre tilbygninger til eksisterende bygninger.
 

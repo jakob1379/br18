@@ -523,9 +523,9 @@ Bestemmelsen finder f.eks. anvendelse, såfremt der ønskes etableret nye vindue
 
 Reglerne om tilbygninger kan benyttes når der laves mindre tilbygninger til eksisterende bygninger.
 
--{target="_blank"}
+-  [Gå til energikrav ved tilbygninger (§ 271 - § 273)](../../../krav/271_273#660bcd55-d949-4c59-8e07-94cad1f2116a){target="_blank"}
 
-### Varmetabsrammen {#660bcd55-d949-4c59-8e07-94cad1f2116a}
+### 3.1. Varmetabsrammen {#914d4817-1f61-4c94-a126-a1d823b14931}
 
 ###
 

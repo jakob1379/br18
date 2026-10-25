@@ -783,9 +783,9 @@ Hvis det samlede areal af vinduer og yderdøre udgør mindre end 30 pct. af det 
 
 Når sommerhuse, campinghytter og lignende ferieboliger bliver ombygget, er der krav om gennemførelse af rentable energibesparelser. Vurderingen af rentabilitet gennemføres som i §275. Bygningsreglementets vejledning om ofte rentable konstruktioner indeholder en yderligere vejledning til fortolkning af ombygningskravene.
 
--{target="_blank"}
+-  [Gå til energikrav for sommerhuse, campinghytter og lignende ferieboliger (§ 283 - § 286)](../../../krav/283_286#81b0a907-cbd5-4c5a-89fa-aacae6e0b169){target="_blank"}
 
-### Midlertidige, flytbare pavilloner {#81b0a907-cbd5-4c5a-89fa-aacae6e0b169}
+### 7.0. Midlertidige, flytbare pavilloner {#563449d5-1d97-4ce3-a10b-492d3debb6ba}
 
 Midlertidige flytbare pavilloner opstillet op til 5 år har lempeligere energikrav end permanente bygninger. For midlertidige opstillinger ud over 5 år eller permanente opstillinger skal de almindelige energikrav til nybyggeri overholdes. Det indebærer at disse pavilloner skal leve op til energirammen i §§259-260.
 

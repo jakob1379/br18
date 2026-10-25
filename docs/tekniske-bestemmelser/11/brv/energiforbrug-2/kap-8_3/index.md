@@ -849,7 +849,7 @@ De enkelte kommuner har mulighed for at fastlægges tilslutningspligt til et bes
 
 -  [Gå til energikrav for bygningsopvarmning - Individuel naturgasforsyning (§ 295)](../../../krav/295_296#0fa99ed3-1c44-426c-a3b3-6de893c65b2b){target="_blank"}
 
-### Områder uden adgang til fjernvarme eller naturgas {#0fa99ed3-1c44-426c-a3b3-6de893c65b2b}
+### 8.3. Områder uden adgang til fjernvarme eller naturgas {#1a5f696b-8140-48d6-bc8b-0207d6ef699d}
 
 Eksisterende bygninger beliggende i områder uden adgang til fjernvarme eller naturgas er ikke omfattet af kravet om, at bygningsopvarmning skal baseres på vedvarende energi. Dette gælder ved såvel udskiftning af varmesystemet som ved mindre ombygninger. Hvorvidt omfanget af et ombygningsarbejde kan sidestilles med et nybyggeri, og derfor vil være omfattet af kravet i §293, beror på en konkret vurdering efter byggelovens § 2, stk. 1, litra b.
 
@@ -996,4 +996,5 @@ Målerdataene sammenholdes med vejrdata for lufttemperatur og soltilskud fx med 
 *Funktionsafprøvning*
 
 Bygningsautomatikken skal funktionsafprøves ifølge bygningsreglementets §296. Funktionsafprøvningen skal gennemføres, så det sikres, at bygningsautomatikken er korrekt installeret og virker efter hensigten. Se mere om funktionsafprøvning i bygningsreglementets vejledning om funktionsafprøvning.
+
 

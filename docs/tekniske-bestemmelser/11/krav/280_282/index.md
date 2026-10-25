@@ -275,7 +275,9 @@ For opvarmede eller delvist opvarmede kældre, der ikke indgår i etagearealet,
 
 ### § 267 {#paragraf-267}
 
-Ved ændret anvendelse af en bygning eller dele af en bygning, der indebærer et væsentligt større energiforbrug, kan energikravene overholdes ved at renoveringsklasse 2 i [§§ 280-282](./ "280_282")[](../259 "259") eller ved at følge kravene til U-værdi i § 268.
+Ved ændret anvendelse af en bygning eller dele af en bygning, der indebærer et væsentligt større energiforbrug, kan energikravene overholdes ved at benytte renoveringsklasse 2 i [§§ 280-282](../280_282 "280_282")[](../259 "259") eller ved at følge kravene til U-værdi i § 268.
+
+### § 267a {#paragraf-267a}
 
 Kirker og bygninger, som er en del af et fredet fortidsminde, er undtaget fra bestemmelserne i § 267 og §§ 268-270.
 
@@ -287,95 +289,48 @@ Kirker og bygninger, som er en del af et fredet fortidsminde, er undtaget fra be
 
 Bygningsdele omkring rum, der opvarmes til over 15 °C, skal overholde U-værdierne i bilag 2, tabel 3. Bygningsdele omkring rum, der opvarmes til mellem 5 og 15 °C skal overholde U-værdierne i bilag 2, tabel 2 for disse temperaturer. Vinduer, glasydervægge, døre, glastage og ovenlysvinduer skal leve op til kravene i [§§ 257 og 258](../257 "257").
 
-*Tabel 2 - Mindstekrav til klimaskærm ved ændret anvendelse*
+*Tabel 2 - Mindstekrav til klimaskærm ved ændret anvendelse og tilbygninger*
 
-<table style="width:100%;">
-<colgroup>
-<col style="width: 67%" />
-<col style="width: 14%" />
-<col style="width: 17%" />
-</colgroup>
-<tbody>
-<tr>
-<td><strong>Bygningsdel</strong></td>
-<td colspan="2"><strong>U-værdi [W/m²K]</strong></td>
-</tr>
-<tr>
-<td>Rum opvarmet til</td>
-<td>Rum opvarmet til T &gt; 15 °C</td>
-<td>Rum opvarmet til 5 °C &lt; T &lt; 15 °C</td>
-</tr>
-<tr>
-<td>Ydervægge og kældervægge mod jord</td>
-<td>0,15</td>
-<td>0,25</td>
-</tr>
-<tr>
-<td>Etageadskillelser og skillevægge mod rum, hvor temperaturforskellen mellem rummene er 5 °C eller mere</td>
-<td>0,40</td>
-<td>0,40</td>
-</tr>
-<tr>
-<td>Terrændæk, kældergulve mod jord og etageadskillelser over det fri eller ventileret kryberum</td>
-<td>0,10</td>
-<td>0,15</td>
-</tr>
-<tr>
-<td>Loft- og tagkonstruktioner, herunder skunkvægge, flade tage og skråvægge direkte mod tag</td>
-<td>0,12</td>
-<td>0,15</td>
-</tr>
-<tr>
-<td>Porte</td>
-<td>1,80</td>
-<td>1,80</td>
-</tr>
-<tr>
-<td>Lemme mod det fri eller mod rum, hvor temperaturforskellen mellem rummene er 5 °C eller mere (gælder ikke ventilationsåbninger på under 500 cm²)</td>
-<td>1,40</td>
-<td>1,50</td>
-</tr>
-<tr>
-<td>Ovenlyskupler</td>
-<td>1,40</td>
-<td>1,80</td>
-</tr>
-<tr>
-<td>Lystunneler eller lignende</td>
-<td>2,0</td>
-<td>2,0</td>
-</tr>
-</tbody>
-</table>
+|  |  |
+|----|----|
+| **Bygningsdel** | **U-værdi \[W/m²K\]**   |
+| Rum opvarmet til  | Rum opvarmet til 5 °C &lt; T &lt; 15 °C  |
+| Ydervægge og kældervægge mod jord  | 0,25  |
+| Etageadskillelser og skillevægge mod rum, hvor temperaturforskellen mellem rummene er 5 °C eller mere  | 0,40  |
+| Terrændæk, kældergulve mod jord og etageadskillelser over det fri eller ventileret kryberum  | 0,15  |
+| Loft- og tagkonstruktioner, herunder skunkvægge, flade tage og skråvægge direkte mod tag | 0,15  |
+| Porte  | 1,80  |
+| Lemme mod det fri eller mod rum, hvor temperaturforskellen mellem rummene er 5 °C eller mere (gælder ikke ventilationsåbninger på under 500 cm²)  | 1,50  |
+| Ovenlyskupler  | 1,80  |
+| Lystunneler eller lignende  | 2,0  |
 
-<table style="width:99%;">
-<colgroup>
-<col style="width: 74%" />
-<col style="width: 12%" />
-<col style="width: 12%" />
-</colgroup>
-<tbody>
-<tr>
-<td><strong>Bygningsdel</strong></td>
-<td colspan="2"><strong>Linjetab W/mK</strong></td>
-</tr>
-<tr>
-<td>Fundamenter</td>
-<td>0,12</td>
-<td>0,20</td>
-</tr>
-<tr>
-<td>Samling mellem ydervæg og vinduer eller yderdøre, porte og lemme</td>
-<td>0,03</td>
-<td>0,03</td>
-</tr>
-<tr>
-<td>Samling mellem tagkonstruktion og ovenlysvinduer eller ovenlyskupler</td>
-<td>0,10</td>
-<td>0,10</td>
-</tr>
-</tbody>
-</table>
+|  |  |
+|----|----|
+| **Bygningsdel**   | **Linjetab W/mK** |
+| Fundamenter  | 0,20  |
+| Samling mellem ydervæg og vinduer eller yderdøre, porte og lemme  | 0,03  |
+| Samling mellem tagkonstruktion og ovenlysvinduer eller ovenlyskupler  | 0,10 |
+
+*Tabel 3 - Mindstekrav til klimaskærm ved ombygninger og andre forandringer i bygningen*
+
+|  |  |
+|----|----|
+| **Bygningsdel** | **U-værdi\[W/m²K\]** |
+| Ydervægge og kældervægge mod jord | 0,18 |
+| Etageadskillelser og skillevægge mod rum, hvor temperaturforskellen mellem rummene er 5 °C eller mere | 0,40 |
+| Terrændæk, kældergulve mod jord og etageadskillelser over det fri eller ventileret kryberum | 0,10 |
+| Loft- og tagkonstruktioner, herunder skunkvægge, flade tage og skråvægge direkte mod tag | 0,12 |
+| Porte | 1,8 |
+| Lemme, nye forsatsvinduer og ovenlyskupler | 1,4 |
+| Renoverede forsatsvinduer | 1,65 |
+| Lystunneler eller lignende | 2,0 |
+
+|  |  |
+|----|----|
+| **Bygningsdel** | **Linjetab \[W/mK\]** |
+| Fundamenter | 0,12 |
+| Samling mellem ydervæg, vinduer eller yderdøre, porte og lemme | 0,03 |
+| Samling mellem tagkonstruktion og ovenlysvinduer eller ovenlyskupler | 0,10 |
 
 ### § 269 {#paragraf-269}
 
@@ -411,7 +366,7 @@ Vinduer i tilbygningen kan i varmetabsrammen indregnes som de reelle vinduer ell
 
 ### § 274 {#paragraf-274}
 
-Ved ombygninger skal energibesparelser gennemføres i det omfang, de er rentable, og ikke medfører risiko for fugtskader. Energikravene ved ombygning kan enten overholdes ved at overholde kravene til alle berørte bygningsdele i § 279 eller ved at følge renoveringsklasserne for eksisterende bygninger i [§§ 280-282](./ "280_282"). Renoveringsklasserne er en energiramme for eksisterende bygninger.
+Ved ombygninger skal energibesparelser gennemføres i det omfang, de er rentable, og ikke medfører risiko for fugtskader. Energikravene ved ombygning kan enten overholdes ved at overholde kravene til alle berørte bygningsdele i § 279 eller ved at følge renoveringsklasserne for eksisterende bygninger i [§§ 280-282](../280_282 "280_282"). Renoveringsklasserne er en energiramme for eksisterende bygninger.
 
 ### § 275 {#paragraf-275}
 
@@ -539,7 +494,7 @@ Ved ombygning, andre forandringer og udskiftning gælder de i § 283 angivne kr
 
 sommerhuse kan massive ydervægge af f.eks. træ, letbeton eller teglblokke med U-værdi lavere end 0,50 W/m²K anvendes under forudsætning af, at det samlede varmetab ved transmission ikke bliver større, end hvis U-værdierne i § 283 benyttes.
 
--  [Gå til BR-vejledning om energikrav til sommerhuse, campinghytter og lignende ferieboliger](./#794cbbfb-74ff-4078-933c-43679ab3e5ca){target="_blank"}
+-  [Gå til BR-vejledning om energikrav til sommerhuse, campinghytter og lignende ferieboliger](../280_282#794cbbfb-74ff-4078-933c-43679ab3e5ca){target="_blank"}
 
 ## § 287 - § 292 Midlertidige, flytbare pavilloner {#f83468ad-c2a0-4b59-840a-7f0e0afc27f9}
 

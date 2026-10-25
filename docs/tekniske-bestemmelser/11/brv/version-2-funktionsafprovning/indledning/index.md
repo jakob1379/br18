@@ -6,7 +6,7 @@
 - [Spørgsmål og svar om bygningers klimapåvirkning](../../spoergsmaal-og-svar-om-bygningers-klimapaavirkning)
 - [Bygningsreglementets vejledning om energiforbrug](../../energiforbrug-2)
 - [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner)
-- [Vejledning om funktionsafprøvning](..)
+- [Vejledning om funktionsafprøvning](../)
 - [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov)
 - [Bygningsreglementets vejledning om bygningers klimapåvirkning](../../bygningers-klimapaavirkning-1-juli-2025)
 - [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler)
@@ -1161,7 +1161,7 @@ DS 469, Varme- og køleanlæg i bygninger
 
 #### Beskrivelse
 
-#### Standarden findes på dansk i Dansk Standards [webshop.ds.dk](https://webshop.ds.dk/standard/M253996/ds-469-2013 "DS 469"){target="_blank"}
+#### Standarden findes på dansk i Dansk Standards [](https://webshop.ds.dk/standard/M253996/ds-469-2013 "DS 469"){target="_blank"}
 
 [![](../../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
 
@@ -1251,7 +1251,7 @@ hvor:
 
 O~2~             Iltprocenten \[%\]
 
-T~røg \  \  \  \  \  \  ~Røggastemperaturen \[°C\]
+T~røg~           Røggastemperaturen \[°C\]
 
 T~luft~           Frisklufttemperaturen \[°C\]
 
@@ -1325,7 +1325,7 @@ Termisk isolering af tekniske installationer
 
 #### Anvendelsesområde
 
-#### Standarden findes på dansk i Dansk Standards [webshop.ds.dk](https://webshop.ds.dk/standard/M345889/ds-452-2013-ret-1-till-1-2020 "DS 452"){target="_blank"}
+#### Standarden findes på dansk i Dansk Standards [](https://webshop.ds.dk/standard/M345889/ds-452-2013-ret-1-till-1-2020 "DS 452"){target="_blank"}
 
 *Forudsætninger for udførelse af funktionsafprøvning*
 
@@ -1443,7 +1443,7 @@ DS/EN 61400-12-1
 
 #### Beskrivelse
 
-#### Standarden findes på dansk i Dansk Standards [webshop.ds.dk](https://webshop.ds.dk/standard/M353490/ds-en-iec-61400-12-1-2022 "DS/EN 61400-12-1"){target="_blank"}
+#### Standarden findes på dansk i Dansk Standards [](https://webshop.ds.dk/standard/M353490/ds-en-iec-61400-12-1-2022 "DS/EN 61400-12-1"){target="_blank"}
 
  *Forudsætninger for udførelse af funktionsafprøvning*
 

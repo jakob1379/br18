@@ -557,7 +557,7 @@ SBi-Anvisning 213 Bygningers energibehov
 
 Denne anvisning beskriver metoden til beregning af bygningers energibehov i henhold til bygningsreglementets energiramme.
 
-#### [http://www.anvisninger.dk](http://www.anvisninger.dk){target="_blank"}
+#### http://www.anvisninger.dk [](){target="_blank"}
 
 ### 4.0. Ombygninger og udskiftninger af bygningsdele {#667be8d0-d9db-472e-addd-bc927954fa7c}
 
@@ -707,7 +707,7 @@ Energiguide for fredede og bevaringsværdige huse, Bygningskultur Danmark 2019
 
 En energiguide, som i et let forståeligt sprog uden indforstået teknisk jargon klæder husejere på til at gøre deres huse mere energivenlige - uden at gå på kompromis med husets historiske og kulturelle kvaliteter.
 
-#### [Se energiguiden her](https://historiskehuse.dk/produkt/energiguide-for-fredede-og-bevaringsvaerdige-huse/){target="_blank"}
+#### Se energiguiden her [](https://historiskehuse.dk/produkt/energiguide-for-fredede-og-bevaringsvaerdige-huse/){target="_blank"}
 
 [![](../../../../../assets/img/linkbox/info_linkbox.svg)](# "#title")
 
@@ -839,7 +839,7 @@ De enkelte kommuner har mulighed for at fastlægge tilslutningspligt til et best
 
 -  [Gå til energikrav for bygningsopvarmning - Fjernvarme (§ 294)](../../../krav/293_294#86d6f121-955d-4989-a889-75c55e0d7634){target="_blank"}
 
-### Individuel naturgasforsyning og vedvarende energi {#86d6f121-955d-4989-a889-75c55e0d7634}
+### 8.2. Individuel naturgasforsyning og vedvarende energi {#4012ace1-09e5-485b-93ba-9fffe44e0978}
 
 Der gælder en undtagelse fra kravet om, at bygningsopvarmning skal baseres på vedvarende energi i områder, hvor kommunalbestyrelsen inden 1. januar 2013 har truffet endelig beslutning om, at bygninger skal have mulighed for individuel naturgasforsyning. I disse områder vil bebyggelse således kunne opvarmes med naturgas eller med vedvarende energi.
 
@@ -996,4 +996,5 @@ Målerdataene sammenholdes med vejrdata for lufttemperatur og soltilskud fx med 
 *Funktionsafprøvning*
 
 Bygningsautomatikken skal funktionsafprøves ifølge bygningsreglementets §296. Funktionsafprøvningen skal gennemføres, så det sikres, at bygningsautomatikken er korrekt installeret og virker efter hensigten. Se mere om funktionsafprøvning i bygningsreglementets vejledning om funktionsafprøvning.
+
 

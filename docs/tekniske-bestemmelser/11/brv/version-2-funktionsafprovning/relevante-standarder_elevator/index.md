@@ -62,7 +62,7 @@
 
 Relevante standarder i forbindelse med funktionsafprøvning af elevatorer omfatter:
 
-> • DS/EN ISO 25745-1, *Energieffektivitet for elevatorer, rulletrapper og rullefortov - Del 1: Energimåling og verifikation*
+> • DS/EN ISO 25745-1, *Energieffektivitet for elevatorer, rulletrapper og rullefor-tov – Del 1: Energimåling og verifikation.*
 >
 > • DS/EN ISO 25745-2, *Elevatorer, rulletrapper og rullefortoves energieffektivitet - Del 2: Beregning af energi for og klassifikation af elevatorer*
 

@@ -185,7 +185,9 @@ Kravet til U-værdi for lystunneler eller lignende gælder for gennembrydningen 
 
 [![](../../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
 
-#### Dansk standard: DS 418 – Beregning af bygningers varmetab
+####
+
+Dansk standard: DS 418 – Beregning af bygningers varmetab
 
 #### Anvendelsesområde
 
@@ -287,7 +289,9 @@ Bemærk, engelske udgaver af europæiske standarder kan købes hos [alle europ�
 
 [![](../../../../../assets/img/linkbox/ds_en_iso_linkbox.svg)](# "#title")
 
-#### DS/EN ISO 12631:2017 - Termisk ydeevne for curtainwalling – Beregning af varmetransmissionskoefficient
+####
+
+DS/EN ISO 12631:2017 - Termisk ydeevne for curtainwalling – Beregning af varmetransmissionskoefficient
 
 #### Beskrivelse
 
@@ -299,7 +303,9 @@ Bemærk, engelske udgaver af europæiske standarder kan købes hos [alle europ�
 
 [![](../../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
 
-#### DS/EN 13830:2003 - Curtain walling - Produktstandard
+####
+
+DS/EN 13830:2003 - Curtain walling - Produktstandard
 
 #### Beskrivelse
 
@@ -307,9 +313,7 @@ Denne standard specificerer karakteristika for curtain walling og giver teknisk 
 
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/standard/ds-en-138302003){target="_blank"}
 
-Bemærk, engelske udgaver af europæiske standarder kan købes hos [alle europæiske standardiseringsorganisationer](https://standards.cen.eu/dyn/www/f?p=CENWEB:5){target="_blank"}.
-
-[![](../../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+Bemærk, engelske udgaver af europæiske standarder kan købes hos [alle europæiske standardiseringsorganisationer](https://standards.cen.eu/dyn/www/f?p=CENWEB:5){target="_blank"}. [![](../../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
 
 #### DS/INF 60:1990
 
@@ -337,7 +341,9 @@ SBi-anvisning 213 skal benyttes til beregning af bygningers energibehov og til e
 
 [![](../../../../../assets/img/linkbox/sbi_anv_linkbox.svg)](# "#title")
 
-#### SBi-Anvisning 213 Bygningers energibehov
+####
+
+SBi-Anvisning 213 Bygningers energibehov
 
 #### BEREGNINGSVEJLEDNING
 
@@ -463,7 +469,9 @@ Etageantallet beregnes som forholdet mellem etagearealet og det bebyggede areal.
 
 [![](../../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
 
-#### Dansk standard: DS 418 – Beregning af bygningers varmetab
+####
+
+Dansk standard: DS 418 – Beregning af bygningers varmetab
 
 #### Anvendelsesområde
 
@@ -541,13 +549,15 @@ Uanset om der er vandinstallationer i tilbygningen eller ikke, benyttes standard
 
 [![](../../../../../assets/img/linkbox/sbi_anv_linkbox.svg)](# "#title")
 
-#### SBi-Anvisning 213 Bygningers energibehov
+####
+
+SBi-Anvisning 213 Bygningers energibehov
 
 #### Anvendelsesområde
 
 Denne anvisning beskriver metoden til beregning af bygningers energibehov i henhold til bygningsreglementets energiramme.
 
-#### [http://www.anvisninger.dk](http://www.anvisninger.dk){target="_blank"}
+#### http://www.anvisninger.dk [](){target="_blank"}
 
 ### 4.0. Ombygninger og udskiftninger af bygningsdele {#667be8d0-d9db-472e-addd-bc927954fa7c}
 
@@ -677,7 +687,9 @@ I forbindelse med større renoveringsarbejder på bevaringsværdige bygninger b�
 
 [![](../../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
 
-#### Byggeloven
+####
+
+Byggeloven
 
 #### Anvendelsesområde
 
@@ -687,17 +699,21 @@ Byggeloven
 
 [![](../../../../../assets/img/linkbox/info_linkbox.svg)](# "#title")
 
-#### Energiguide for fredede og bevaringsværdige huse, Bygningskultur Danmark 2019
+####
+
+Energiguide for fredede og bevaringsværdige huse, Bygningskultur Danmark 2019
 
 #### Anvendelsesområde
 
 En energiguide, som i et let forståeligt sprog uden indforstået teknisk jargon klæder husejere på til at gøre deres huse mere energivenlige - uden at gå på kompromis med husets historiske og kulturelle kvaliteter.
 
-#### [Se energiguiden her](https://historiskehuse.dk/produkt/energiguide-for-fredede-og-bevaringsvaerdige-huse/){target="_blank"}
+#### Se energiguiden her [](https://historiskehuse.dk/produkt/energiguide-for-fredede-og-bevaringsvaerdige-huse/){target="_blank"}
 
 [![](../../../../../assets/img/linkbox/info_linkbox.svg)](# "#title")
 
-#### E-SAVE-vejledning til kommunal sagsbehandling af byggesager med energitiltag i bevaringsværdige bygninger
+####
+
+E-SAVE-vejledning til kommunal sagsbehandling af byggesager med energitiltag i bevaringsværdige bygninger
 
 #### Anvendelsesområde
 
@@ -743,7 +759,9 @@ Beregningen foretages med brug af normalåret (DMI Technical Report 13-19: 2001-
 
 [![](../../../../../assets/img/linkbox/info_linkbox.svg)](# "#title")
 
-#### DMI Technical Report 13-19: 2001-2010 Danish Design Reference Year, 2013
+####
+
+DMI Technical Report 13-19: 2001-2010 Danish Design Reference Year, 2013
 
 #### Anvendelsesområde
 
@@ -803,7 +821,9 @@ Bestemmelsen omfatter desuden ikke højeffektive opvarmningssystemer, der anvend
 
 [![](../../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
 
-#### Byggeloven
+####
+
+Byggeloven
 
 #### Anvendelsesområde
 
@@ -837,7 +857,9 @@ Eksisterende bygninger beliggende i områder uden adgang til fjernvarme eller na
 
 [![](../../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
 
-#### Byggeloven
+####
+
+Byggeloven
 
 #### Anvendelsesområde
 
@@ -877,7 +899,9 @@ Der kan være lokalplaner, byplanvedtægter eller lignende, som forhindrer insta
 
 [![](../../../../../assets/img/linkbox/eu_linkbox.svg)](# "#title")
 
-#### EU-direktiv 2009/28/EF - om fremme af anvendelsen af energi fra vedvarende energikilder
+####
+
+EU-direktiv 2009/28/EF - om fremme af anvendelsen af energi fra vedvarende energikilder
 
 #### Anvendelsesområde
 
@@ -972,4 +996,5 @@ Målerdataene sammenholdes med vejrdata for lufttemperatur og soltilskud fx med 
 *Funktionsafprøvning*
 
 Bygningsautomatikken skal funktionsafprøves ifølge bygningsreglementets §296. Funktionsafprøvningen skal gennemføres, så det sikres, at bygningsautomatikken er korrekt installeret og virker efter hensigten. Se mere om funktionsafprøvning i bygningsreglementets vejledning om funktionsafprøvning.
+
 
