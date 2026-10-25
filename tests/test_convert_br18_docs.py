@@ -55,6 +55,14 @@ class ConvertTest(unittest.TestCase):
         self.assertIn("- **Sengestuer**\n\n- **Kontorer**\n\nMere", markdown)
         self.assertIn("**Bygnings-**\n\n**reglementets krav**", markdown)
 
+    def test_line_break_after_whitespace_and_emphasis_openers_moves_before_them(self) -> None:
+        markdown = self.convert(
+            "<p>Tekst.</p><strong>\n<em><strong><br>\nBestemmelser i lokalplan<br>\n</strong></em><strong><br>\n</strong>\n</strong>"
+        )
+
+        self.assertIn("***Bestemmelser i lokalplan***", markdown)
+        self.assertNotRegex(markdown, r"(?m)^\*\*\\?$")
+
     def test_line_breaks_at_the_edges_of_a_link_move_out_of_it(self) -> None:
         markdown = self.convert(
             '<p>findes her:&nbsp;<a href="https://ens.dk/x" target="_blank">Energistyrelsens oversigt&nbsp;<br>\n</a>'

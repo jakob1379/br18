@@ -200,7 +200,7 @@ class Cleaner(HTMLParser):
     def _before_emphasis_opens(self) -> int:
         """Index before the emphasis tags just opened, where leading whitespace and breaks belong."""
         index = len(self.parts)
-        while index and EMPHASIS_OPEN_RE.match(self.parts[index - 1]):
+        while index and (EMPHASIS_OPEN_RE.match(self.parts[index - 1]) or not self.parts[index - 1].strip(" \t\n\u00a0")):
             index -= 1
         return index
 
@@ -251,8 +251,9 @@ class Cleaner(HTMLParser):
             if self.skip_depth > 0 or self._should_skip(tag, attrs):
                 return
             attrs = self._rewrite_attrs(tag, attrs)
-            if tag == "br" and self.parts and EMPHASIS_OPEN_RE.match(self.parts[-1]):
-                self.parts.insert(self._before_emphasis_opens(), "<br />")
+            before = self._before_emphasis_opens()
+            if tag == "br" and any(EMPHASIS_OPEN_RE.match(part) for part in self.parts[before:]):
+                self.parts.insert(before, "<br />")
                 return
             if tag == "br" and self.emphasis:
                 # The converter turns line breaks into paragraph breaks, which emphasis cannot span.
