@@ -88,6 +88,16 @@ class ConvertTest(unittest.TestCase):
         self.assertIn("5 °C &lt; T &lt; 15 °C", markdown)
         self.assertIn("T &lt; 5 °C", markdown)
 
+    def test_whitespace_at_the_edges_of_sub_and_superscripts_moves_out(self) -> None:
+        markdown = self.convert(
+            "<p>T<sub>røg&nbsp;&nbsp;</sub>Røggastemperaturen, analyse<sup>&nbsp;a)&nbsp;</sup> og"
+            " Sengestuer<sup><span>&nbsp; </span>a)</sup>, mere</p>"
+        )
+
+        self.assertRegex(markdown, r"T~røg~\s+Røggastemperaturen")
+        self.assertRegex(markdown, r"analyse\s\^a\)\^\s+og")
+        self.assertRegex(markdown, r"Sengestuer\s+\^a\)\^,")
+
     def test_page_ends_with_a_single_newline(self) -> None:
         markdown = self.convert("<p>Tekst</p><p><a href='/x'></a></p>")
 

@@ -90,9 +90,10 @@ FLATTEN_TAGS = {
     "span",
 }
 
-EMPHASIS_TAGS = {"b", "em", "i", "strong"}
-EMPHASIS_KIND = {"b": "strong", "strong": "strong", "em": "em", "i": "em"}
-EMPHASIS_OPEN_RE = re.compile(r"^<(?:b|em|i|strong)\b[^>]*>$")
+# Inline markup that markdown writes with delimiters, which cannot open or close next to whitespace.
+EMPHASIS_TAGS = {"b", "em", "i", "strong", "sub", "sup"}
+EMPHASIS_KIND = {"b": "strong", "strong": "strong", "em": "em", "i": "em", "sub": "sub", "sup": "sup"}
+EMPHASIS_OPEN_RE = re.compile(r"^<(?:b|em|i|strong|sub|sup)\b[^>]*>$")
 
 BLOCK_FLATTEN_TAGS = {
     "aside",
