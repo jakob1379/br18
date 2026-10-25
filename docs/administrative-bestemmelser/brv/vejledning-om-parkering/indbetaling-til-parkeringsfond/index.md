@@ -22,35 +22,25 @@
 
 ## Vejledning til kommunerne om krav til parkering i forbindelse med byggeri
 
-### Indledning
+### Indledning {#f9ceb636-87f6-4541-bb03-da4fb6904eea}
 
-[1.](../hvor-findes-de-relevante-regler/)
+### 1. Hvor findes de relevante regler {#5742b6d9-ad2d-4fc1-b878-1788e0073f28}
 
-### Hvor findes de relevante regler
+### 2. Generelt om kommunalbestyrelsens afgørelse om parkeringskrav {#78bc7bba-9f43-4276-b0de-533da73da62f}
 
-[2.](../kommunalbestyrelsens-afgorelse/)
+### 3. Hvornår kan der stilles krav om parkeringsarealer {#2ec5ce08-4b61-48e3-81bf-1a2b7961b811}
 
-### Generelt om kommunalbestyrelsens afgørelse om parkeringskrav
+### 4. Hvornår kan der dispenseres fra parkeringskravet {#16668d7b-119f-4e55-8338-c8dc88e31245}
 
-[3.](../krav-om-parkeringsarealer/)
+### 5. Hvornår kan der dispenseres fra parkeringsreglerne på betingelse af indbetaling til parkeringsfond {#56e04d3a-2c24-415d-8bb4-92a88961497b}
 
-### Hvornår kan der stilles krav om parkeringsarealer
+I medfør af byggeloven kan der fastsættes regler om, at dispensation fra bestemmelser om parkeringsarealer på egen grund kan ske på betingelse af, at der sker indbetaling til en parkeringsfond.
 
-[4.](../dispenseres-fra-parkeringskravet/)
+Reglerne om kommunale parkeringsfonde er fastsat i cirkulære nr. 10 af 17. januar 1994, der er udstedt med hjemmel i byggelovens § 22, stk. 6.
 
-### Hvornår kan der dispenseres fra parkeringskravet
+Begrebet ”parkeringsfond”, som det anvendes i parkeringsfondscirkulæret, er alene navnet på den ordning, hvorefter kommunalbestyrelsen kan meddele dispensation fra kravene om tilvejebringelse af parkeringsarealer på egen grund ved opførelse af bebyggelse. En ”parkeringsfond” skal derfor forstås som en ordning, hvorefter kommunen modtager indbetalinger fra borgerne, som kommunen skal anvende til anlæg af parkeringspladser.
 
-[5.](./)
-
-### Hvornår kan der dispenseres fra parkeringsreglerne på betingelse af indbetaling til parkeringsfond
-
-I medfør af [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178) kan der fastsættes regler om, at dispensation fra bestemmelser om parkeringsarealer på egen grund kan ske på betingelse af, at der sker indbetaling til en parkeringsfond.
-
-Reglerne om kommunale parkeringsfonde er fastsat i cirkulære nr. 10 af 17. januar 1994, der er udstedt med hjemmel i [byggelovens § 22, stk. 6](https://www.retsinformation.dk/eli/lta/2016/1178).
-
-Begrebet "parkeringsfond", som det anvendes i parkeringsfondscirkulæret, er alene navnet på den ordning, hvorefter kommunalbestyrelsen kan meddele dispensation fra kravene om tilvejebringelse af parkeringsarealer på egen grund ved opførelse af bebyggelse. En "parkeringsfond" skal derfor forstås som en ordning, hvorefter kommunen modtager indbetalinger fra borgerne, som kommunen skal anvende til anlæg af parkeringspladser.
-
-Kommunerne skal dog ved deres myndighedsudøvelse holde sig inden for [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178)s og forvaltningsrettens rammer.
+Kommunerne skal dog ved deres myndighedsudøvelse holde sig inden for byggelovens og forvaltningsrettens rammer.
 
 Kommunalbestyrelsen kan, såfremt der ansøges om dispensation fra parkeringskravet i forbindelse med byggeriet, fravige bygningsreglementets bestemmelser om etablering af parkeringsarealer på egen grund på betingelse af, at der sker indbetaling til en kommunal parkeringsfond.
 
@@ -62,23 +52,23 @@ Der er ikke krav om, at der skal udarbejdes egentlige vedtægter for en parkerin
 
 Det afgørende er, at kommunalbestyrelsen er forpligtet til at anvende det indbetalte beløb til etablering af parkeringspladser i det pågældende område, og at de anlagte parkeringspladser erstatter de parkeringspladser, som den pågældende bygherre forud for dispensationens meddelelse skulle have etableret på egen grund.
 
-Det fremgår af parkeringsfondscirkulærets [§ 5, stk. 1](/administrative-bestemmelser/krav/4_6/), at parkeringsfondens midler skal holdes regnskabsmæssigt adskilt fra kommunens øvrige virksomhed. Erstatningsparkeringspladserne skal være anlagt senest 5 år efter, at kommunalbestyrelsen har meddelt dispensation.
+Det fremgår af parkeringsfondscirkulærets § 5, stk. 1, at parkeringsfondens midler skal holdes regnskabsmæssigt adskilt fra kommunens øvrige virksomhed. Erstatningsparkeringspladserne skal være anlagt senest 5 år efter, at kommunalbestyrelsen har meddelt dispensation.
 
 ***Tilbagebetaling af parkeringsfondsbidrag***
 
-Såfremt erstatningspladserne ikke er etableret inden for 5-års fristen, skal det indbetalte beløb i medfør af cirkulærets [§ 6](/administrative-bestemmelser/krav/4_6/), tilbagebetales.
+Såfremt erstatningspladserne ikke er etableret inden for 5-års fristen, skal det indbetalte beløb i medfør af cirkulærets § 6, tilbagebetales.
 
 Det indbetalte beløb skal tilbagebetales til den til enhver tid værende ejer på tidspunktet for tilbagebetalingen, og følger derved den bidragsydende ejendom.
 
-Begrundelsen for dette er, at det generelle udgangspunkt efter [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178) er, at byrder og rettigheder i henhold til loven påhviler den pågældende ejendom, uanset tidligere ejeres rettigheder eller pligter.
+Begrundelsen for dette er, at det generelle udgangspunkt efter byggeloven er, at byrder og rettigheder i henhold til loven påhviler den pågældende ejendom, uanset tidligere ejeres rettigheder eller pligter.
 
 ***Flere fonde***
 
-[Byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178) og parkeringsfondscirkulæret er ikke til hinder for, at en kommune kan oprette flere parkeringsfonde. Det afgørende for kommunens administration af parkeringsfondsordningen er, at ordningen administreres i overensstemmelse med bestemmelserne i parkeringsfondscirkulæret.
+Byggeloven og parkeringsfondscirkulæret er ikke til hinder for, at en kommune kan oprette flere parkeringsfonde. Det afgørende for kommunens administration af parkeringsfondsordningen er, at ordningen administreres i overensstemmelse med bestemmelserne i parkeringsfondscirkulæret.
 
 ***Tilvækst i forbindelse med indbetaling til parkeringsfond***
 
-Ved en dispensation fra parkeringskravet, hvor der sker indbetaling til en parkeringsfond, kan tilvækstkravet alene indfries ved, at der etableres helt nye parkeringspladser eller ved, at allerede eksisterende parkeringspladser ændres således, at arealet udnyttes på en måde, hvorved der etableres flere parkeringspladser. Tilvækstkravet kan ikke opfyldes ved, at kommunen opkøber allerede eksisterende parkeringspladser i området på offentlig vej eller parkeringspladser, der allerede opfylder et parkeringskrav i forbindelse med opførelse af et andet byggeri, såkaldte "byggelovspladser".
+Ved en dispensation fra parkeringskravet, hvor der sker indbetaling til en parkeringsfond, kan tilvækstkravet alene indfries ved, at der etableres helt nye parkeringspladser eller ved, at allerede eksisterende parkeringspladser ændres således, at arealet udnyttes på en måde, hvorved der etableres flere parkeringspladser. Tilvækstkravet kan ikke opfyldes ved, at kommunen opkøber allerede eksisterende parkeringspladser i området på offentlig vej eller parkeringspladser, der allerede opfylder et parkeringskrav i forbindelse med opførelse af et andet byggeri, såkaldte ”byggelovspladser”.
 
 ***Hensigtsmæssig placering i forbindelse med indbetaling til parkeringsfond***
 

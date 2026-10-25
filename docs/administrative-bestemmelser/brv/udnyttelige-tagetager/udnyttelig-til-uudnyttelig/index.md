@@ -22,16 +22,16 @@
 
 ## Vejledning om udnyttelige tagetager
 
-### Udnyttelige tagetager og bebyggelsesprocenten
+### Udnyttelige tagetager og bebyggelsesprocenten {#559aa930-ec7b-49cc-9067-922e3ee62a92}
 
-### Hvad er en udnyttelig tagetage?
+### Hvad er en udnyttelig tagetage? {#6e4031f5-0105-45dd-bca5-582519860f9b}
 
-### Hvilket areal medregnes i en udnyttelig tagetage?
+### Hvilket areal medregnes i en udnyttelig tagetage? {#4e165c97-1604-4e5f-af68-7bbf193df905}
 
-### Fra udnyttelig til uudnyttelig tagetage
+### Fra udnyttelig til uudnyttelig tagetage {#cbecce15-92a8-4ddb-85fe-10a8e2716515}
 
 En eksisterende udnyttelig tagetage kan gøres uudnyttelig under forudsætning af at de konstruktive forhold, herunder statiske forhold i tagkonstruktionen ændres i forbindelse med en ombygning, og der eksempelvis etableres et gitterspær.
 
 Såfremt der udelukkende sker konstruktive ændringer med henblik på at ændre grundlaget for beregning af bebyggelsesprocenten, vil det ikke betyde, at en udnyttelig tagetage bliver uudnyttelig.
 
-### Anvendelsen af den udnyttelige tagetage
+### Anvendelsen af den udnyttelige tagetage {#f0f6fa96-3edd-40ac-9bc6-fd696eb072ab}

@@ -22,40 +22,24 @@
 
 ## Vejledning om ombygninger og brug af certificerede rådgivere i relation til ændring af BR18 d. 10. marts 2020
 
-[1](../generelt/)
+### 1 Generelt {#1b393d6d-0d5c-4e74-a86a-cfbbcc00dc82}
 
-### Generelt
+### 2 Ombygningssager undtaget fra kravet om byggetilladelse {#44ea9a4d-12a0-4d3f-8f0d-82285840a6c5}
 
-[2](./)
-
-### Ombygningssager undtaget fra kravet om byggetilladelse
-
-Bestemmelsen i *[§ 5, stk. 1, nr. 4](/administrative-bestemmelser/krav/4_6/)* omhandler ombygninger og andre forandringer i eksisterende byggeri, der ikke er omfattet af [§ 5, stk. 1, nr. 2](/administrative-bestemmelser/krav/4_6/) og 3, og som ikke ændrer de bærende konstruktioners virkemåde eller forudsætningerne for de brandmæssige forhold.
+Bestemmelsen i *§ 5, stk. 1, nr. 4* omhandler ombygninger og andre forandringer i eksisterende byggeri, der ikke er omfattet af § 5, stk. 1, nr. 2 og 3, og som ikke ændrer de bærende konstruktioners virkemåde eller forudsætningerne for de brandmæssige forhold.
 
 Ombygningen eller forandringen må heller ikke medføre en væsentlig anvendelsesændring eller en udvidelse af etagearealet. En væsentlig anvendelsesændring er f.eks. en ændring i anvendelsen fra bolig til erhverv.
 
 Der er ikke krav om, at byggearbejdet indplaceres i brand- eller konstruktionsklasse, og at der tilknyttes en certificeret brandrådgiver eller statiker for at vurdere om ombygninger og andre forandringer ikke ændrer de bærende konstruktioners virkemåde, forudsætningerne for de brandmæssige forhold eller medfører en væsentlig anvendelsesændring. Ved henvendelser til kommunalbestyrelsen om, hvorvidt et byggearbejde er omfattet af bestemmelsen skal kommunen derfor også lægge ansøgerens oplysninger til grund ved behandling af ansøgning om byggetilladelse, med mindre kommunalbestyrelsen mener, at der er en begrundet mistanke om manglende eller misvisende dokumentation.
 
-[2.1](../baerende-konstruktioners-virkemaade/)
+### 2.1 Ændring af de bærende konstruktioners virkemåde {#91eb9188-c3a6-4d9c-ba03-505f00266496}
 
-### Ændring af de bærende konstruktioners virkemåde
+### 2.2 Ændring af forudsætningerne for de brandmæssige forhold {#3c3c9ab1-ae3a-487b-816b-e70a714cbdbb}
 
-[2.2](../forudsaetningerne-for-de-brandmaessige-forhold/)
+### 3 Ombygningssager, der kræver byggetilladelse {#f83292e3-3a7c-4b65-803f-6ce8f39f3a70}
 
-### Ændring af forudsætningerne for de brandmæssige forhold
+### 4 Kommunalbestyrelsens ansvar ved indplacering i brand- og konstruktionsklasse {#2cd2304c-7bf1-426e-9271-aa9a1e85d323}
 
-[3](../byggetilladelse/)
+### 5 Eksempler på, hvornår et byggearbejde normalt er undtaget for byggetilladelse, jf. § 5, stk. 1, nr. 4 {#9a1bd2dd-0bce-42bd-a6a4-360f3ad8dc34}
 
-### Ombygningssager, der kræver byggetilladelse
-
-[4](../kommunalbestyrelsen/)
-
-### Kommunalbestyrelsens ansvar ved indplacering i brand- og konstruktionsklasse
-
-[5](../eksempler_undtaget/)
-
-### Eksempler på, hvornår et byggearbejde normalt er undtaget for byggetilladelse, jf. § 5, stk. 1, nr. 4
-
-[6](../eksempler_byggetilladelse/)
-
-### Eksempler på, hvornår et byggearbejde ikke er undtaget for byggetilladelse, jf. § 5, stk. 1, nr. 4, og hvor der enten skal tilknyttes en certificeret brandrådgiver og/eller statiker, jf. § 10, stk. 2, nr. 3 og 5
+### 6 Eksempler på, hvornår et byggearbejde ikke er undtaget for byggetilladelse, jf. § 5, stk. 1, nr. 4, og hvor der enten skal tilknyttes en certificeret brandrådgiver og/eller statiker, jf. § 10, stk. 2, nr. 3 og 5 {#7b806321-6273-455b-a03f-ee7614102c95}

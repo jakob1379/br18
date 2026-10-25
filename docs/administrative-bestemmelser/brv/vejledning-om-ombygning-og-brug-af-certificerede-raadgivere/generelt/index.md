@@ -22,44 +22,28 @@
 
 ## Vejledning om ombygninger og brug af certificerede rådgivere i relation til ændring af BR18 d. 10. marts 2020
 
-[1](./)
+### 1 Generelt {#1b393d6d-0d5c-4e74-a86a-cfbbcc00dc82}
 
-### Generelt
-
-Udgangspunktet for [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178) og bygningsreglementet er, at byggearbejder kræver ansøgning om byggetilladelse.
+Udgangspunktet for byggeloven og bygningsreglementet er, at byggearbejder kræver ansøgning om byggetilladelse.
 
 En række byggearbejder kræver dog ikke byggetilladelse. Disse byggearbejder skal fortsat overholde reglerne i bygningsreglementet, herunder f.eks. reglerne om brand og konstruktioner.
 
-Denne vejledning omhandler ombygninger og andre forandringer i eksisterende byggeri, der er omfattet af bygningsreglementets [§ 5, stk. 1, nr. 4](/administrative-bestemmelser/krav/4_6/), og dermed kan påbegyndes og udføres uden ansøgning om byggetilladelse, ombygninger der kræver byggetilladelse samt kommunalbestyrelsens ansvar ved indplacering i brand- og konstruktionsklasse.
+Denne vejledning omhandler ombygninger og andre forandringer i eksisterende byggeri, der er omfattet af bygningsreglementets § 5, stk. 1, nr. 4, og dermed kan påbegyndes og udføres uden ansøgning om byggetilladelse, ombygninger der kræver byggetilladelse samt kommunalbestyrelsens ansvar ved indplacering i brand- og konstruktionsklasse.
 
 Bestemmelsen er ændret med virkning fra den 10. marts 2020. Bekendtgørelsen er dog ligeledes gældende for ansøgninger om byggetilladelse vedrørende ombygninger, der er indsendt før den 10. marts, men fortsat er under behandling. Da bekendtgørelsen udvider feltet for ombygningssager, der kan foretages uden ansøgning om byggetilladelse, betyder det i praksis, at en række sager vil kunne afsluttes og henvises til udførelse uden behandling. Disse sager skal dog, jf. også ovenfor, fortsat leve op til relevante krav i bygningsreglementet.
 
 Såfremt en kommune opkræver gebyr for behandling af byggesager, vil der kunne opkræves gebyr for den behandling, der er pågået, indtil sagen kan afsluttes grundet nærværende regelændring.
 
-[2](../undtaget/)
+### 2 Ombygningssager undtaget fra kravet om byggetilladelse {#44ea9a4d-12a0-4d3f-8f0d-82285840a6c5}
 
-### Ombygningssager undtaget fra kravet om byggetilladelse
+### 2.1 Ændring af de bærende konstruktioners virkemåde {#91eb9188-c3a6-4d9c-ba03-505f00266496}
 
-[2.1](../baerende-konstruktioners-virkemaade/)
+### 2.2 Ændring af forudsætningerne for de brandmæssige forhold {#3c3c9ab1-ae3a-487b-816b-e70a714cbdbb}
 
-### Ændring af de bærende konstruktioners virkemåde
+### 3 Ombygningssager, der kræver byggetilladelse {#f83292e3-3a7c-4b65-803f-6ce8f39f3a70}
 
-[2.2](../forudsaetningerne-for-de-brandmaessige-forhold/)
+### 4 Kommunalbestyrelsens ansvar ved indplacering i brand- og konstruktionsklasse {#2cd2304c-7bf1-426e-9271-aa9a1e85d323}
 
-### Ændring af forudsætningerne for de brandmæssige forhold
+### 5 Eksempler på, hvornår et byggearbejde normalt er undtaget for byggetilladelse, jf. § 5, stk. 1, nr. 4 {#9a1bd2dd-0bce-42bd-a6a4-360f3ad8dc34}
 
-[3](../byggetilladelse/)
-
-### Ombygningssager, der kræver byggetilladelse
-
-[4](../kommunalbestyrelsen/)
-
-### Kommunalbestyrelsens ansvar ved indplacering i brand- og konstruktionsklasse
-
-[5](../eksempler_undtaget/)
-
-### Eksempler på, hvornår et byggearbejde normalt er undtaget for byggetilladelse, jf. § 5, stk. 1, nr. 4
-
-[6](../eksempler_byggetilladelse/)
-
-### Eksempler på, hvornår et byggearbejde ikke er undtaget for byggetilladelse, jf. § 5, stk. 1, nr. 4, og hvor der enten skal tilknyttes en certificeret brandrådgiver og/eller statiker, jf. § 10, stk. 2, nr. 3 og 5
+### 6 Eksempler på, hvornår et byggearbejde ikke er undtaget for byggetilladelse, jf. § 5, stk. 1, nr. 4, og hvor der enten skal tilknyttes en certificeret brandrådgiver og/eller statiker, jf. § 10, stk. 2, nr. 3 og 5 {#7b806321-6273-455b-a03f-ee7614102c95}

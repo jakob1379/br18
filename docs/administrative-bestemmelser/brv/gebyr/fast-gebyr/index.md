@@ -22,35 +22,21 @@
 
 ## Vejledning om gebyr for kommunernes sagsbehandling på byggeområdet
 
-[1.](../indledning/)
+### 1. Indledning {#c29b7dd6-3256-4187-b181-dfcf6a1f572b}
 
-### Indledning
+### 2. De forfatningsretlige regler for opkrævning af gebyrer {#8dd51c52-047a-472f-a141-644a9ef842ac}
 
-[2.](../forfatningsretlige-regler/)
+### 3. Byggelovens regler for opkrævning af byggesagsgebyrer {#568414fb-afec-4b2c-84c2-6ba8f7b41745}
 
-### De forfatningsretlige regler for opkrævning af gebyrer
+### 4. Kommunalbestyrelsens byggesagsbehandling efter BR18 {#1a86b6e8-3240-4380-b7e6-eba436bf0ff6}
 
-[3.](../byggelovens-regler/)
+### 5. Byggesagsgebyr efter tidsforbrug {#9783af26-d3da-41cf-ab4e-b69c8a67b4fc}
 
-### Byggelovens regler for opkrævning af byggesagsgebyrer
+### 6. Fastsættelse af gebyret i den enkelte sag {#b659b5e1-970c-412d-9df0-7b0710aace6b}
 
-[4.](../byggesagsbehandling/)
+### 7. Opkrævning af et mindre, fast gebyr {#08c1b6a0-c551-428f-9c8e-9af6bf2affcd}
 
-### Kommunalbestyrelsens byggesagsbehandling efter BR18
-
-[5.](../tidsforbrug/)
-
-### Byggesagsgebyr efter tidsforbrug
-
-[6.](../gebyr-enkelt-sag/)
-
-### Fastsættelse af gebyret i den enkelte sag
-
-[7.](./)
-
-### Opkrævning af et mindre, fast gebyr
-
-BR18, [§ 39, stk. 1](/administrative-bestemmelser/krav/39/), bestemmer, at kommunalbestyrelsen kan vælge at opkræve gebyr efter tidsforbrug eller som et mindre, fast gebyr. Bestemmelsen om det mindre, faste gebyr omfatter alle sagstyper.     Såfremt en kommune beslutter, at der skal opkræves et mindre, fast gebyr, skal kommunalbestyrelsen selv nærmere fastsætte, hvilke typer af byggesager omfattet af bygningsreglementets bestemmelser, der er omfattet af denne type af gebyropkrævning.
+BR18, § 39, stk. 1, bestemmer, at kommunalbestyrelsen kan vælge at opkræve gebyr efter tidsforbrug eller som et mindre, fast gebyr. Bestemmelsen om det mindre, faste gebyr omfatter alle sagstyper.     Såfremt en kommune beslutter, at der skal opkræves et mindre, fast gebyr, skal kommunalbestyrelsen selv nærmere fastsætte, hvilke typer af byggesager omfattet af bygningsreglementets bestemmelser, der er omfattet af denne type af gebyropkrævning.
 
 Hvis kommunen vælger at opkræve et mindre, fast gebyr, må indtægterne fra de faste gebyrer samlet set ikke overstige de omkostninger, som kommunen har i forbindelse med byggesagsbehandlingen af de byggesager, som der opkræves et fast gebyr for.  Det betyder, at hvis kommunalbestyrelsen vælger, at der skal opkræves et fast gebyr for opførelsen af sekundære bygninger, herunder f.eks. udhuse og drivhuse på højst 50 m2, må indtægterne fra de faste gebyrer for disse to sagstyper ikke overstige kommunens samlede udgifter til byggesagsbehandlingen af sekundære bygninger på højst 50 m2.
 
@@ -60,34 +46,20 @@ Der kan eksempelvis ikke opkræves et fast gebyr for sagsbehandlingen af garager
 
 *Maksimumbeløb for det mindre, faste gebyr*
 
-Der er fastsat et loft for, hvor meget kommunerne må opkræve som det mindre, faste gebyr. Loftet gælder for alle de typer af byggesager, som kommunalbestyrelsen beslutter, at der skal opkræves et fast gebyr for. Opkræves gebyret som et fast gebyr, må gebyret ikke overstige det beløb, der er fastsat i bekendtgørelse om Trafik-, Bygge- og Boligstyrelsens gebyrer på byggeområdet.    Loftet for det fastsatte gebyr pristalsreguleres årligt den 1. januar efter Finansministeriets generelle indeks for løn- og prisstigninger. I 2024 udgør loftet for det mindre, faste gebyr 1.175 kr.  [8.](../poster/)
+Der er fastsat et loft for, hvor meget kommunerne må opkræve som det mindre, faste gebyr. Loftet gælder for alle de typer af byggesager, som kommunalbestyrelsen beslutter, at der skal opkræves et fast gebyr for. Opkræves gebyret som et fast gebyr, må gebyret ikke overstige det beløb, der er fastsat i bekendtgørelse om Trafik-, Bygge- og Boligstyrelsens gebyrer på byggeområdet.    Loftet for det fastsatte gebyr pristalsreguleres årligt den 1. januar efter Finansministeriets generelle indeks for løn- og prisstigninger. I 2024 udgør loftet for det mindre, faste gebyr 1.175 kr.
 
-### Hvilke poster kan indeholdes i gebyret?
+### 8. Hvilke poster kan indeholdes i gebyret? {#ca914ed6-250c-417c-a6d3-14938d30504a}
 
-[9.](../principper-timerpris/)
+### 9. Generelle principper for fastsættelse af timeprisen {#e208113b-0e80-41c0-9164-bbb8891d786b}
 
-### Generelle principper for fastsættelse af timeprisen
+### 10. Byggesagsgebyr i sager, hvor der meddeles afslag {#e3f27deb-d2e1-4e29-a873-2e41abe22946}
 
-[10.](../afslag/)
+### 11. Byggesagsgebyr for deltilladelser {#a1800975-5ead-4bc6-8883-ef6e665b5688}
 
-### Byggesagsgebyr i sager, hvor der meddeles afslag
+### 12. Byggesagsgebyrets forfaldstidspunkt {#70bed234-2cba-4a1f-bf1f-38ca072d4d97}
 
-[11.](../deltilladelser/)
+### 13. Opkrævning af gebyr for kommunens stikprøvekontrol {#93b91313-05fa-4d04-ad5e-86c5954b720e}
 
-### Byggesagsgebyr for deltilladelser
+### 14. Byggesagsgebyr, når kommunen påser anden lovgivning {#2a2de623-31df-4776-9c74-591bbf8cb902}
 
-[12.](../forfaldstidspunkt/)
-
-### Byggesagsgebyrets forfaldstidspunkt
-
-[13.](../stikprove/)
-
-### Opkrævning af gebyr for kommunens stikprøvekontrol
-
-[14.](../anden-lovgivning/)
-
-### Byggesagsgebyr, når kommunen påser anden lovgivning
-
-[15.](../intern-instruks/)
-
-### Intern instruks i kommunen
+### 15. Intern instruks i kommunen {#6cf93438-46ec-4275-b0ff-1de96795200c}

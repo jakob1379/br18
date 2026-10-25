@@ -22,16 +22,16 @@
 
 ## Vejledning om byggeri over skel
 
-### Indledning
+### Indledning {#88b6eabb-b153-4564-841f-230828aee26b}
 
 *Vejledningen om byggeri over skel er revideret af Trafik-, Bygge- og Boligstyrelsen i juli 2018.*
 
-[Byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178) indeholder ikke forbud mod, at der opføres byggeri, som overskrider skel. Det forudsættes dog, at de ejendomsretlige forhold er afklaret, at byggeriet er i overensstemmelse med bygningsreglementet, samt at byggeriet ikke er i strid med anden lovgivning, herunder navnlig [udstykningsloven](https://www.retsinformation.dk/eli/lta/2024/53), jf. nedenfor.
+Byggeloven indeholder ikke forbud mod, at der opføres byggeri, som overskrider skel. Det forudsættes dog, at de ejendomsretlige forhold er afklaret, at byggeriet er i overensstemmelse med bygningsreglementet, samt at byggeriet ikke er i strid med anden lovgivning, herunder navnlig udstykningsloven, jf. nedenfor.
 
 Det er kommunalbestyrelsen, som er bygningsmyndighed, herefter omtalt som kommunen.
 
-### I hvilke situationer der kan forekomme byggeri over skel?
+### I hvilke situationer der kan forekomme byggeri over skel? {#fc1555fa-b16d-46e7-b9a8-8692cc54b8ba}
 
-### Lovliggørelsessager
+### Lovliggørelsessager {#25665434-23fc-4004-be61-dfde86ccc3de}
 
 ### Udstykningsloven {#f9b11c26-a215-48c6-ad79-4cc09287f3dc}

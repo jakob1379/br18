@@ -22,69 +22,41 @@
 
 ## Vejledning om byggesagsbehandling efter BR18
 
-### Rettelsesblad til vejledning om byggesagsbehandling efter BR18 (01.01.2024)
+### Rettelsesblad til vejledning om byggesagsbehandling efter BR18 (01.01.2024) {#09b1cdef-c839-4a82-b153-bed20af41bb3}
 
-### Kolofon
+### Kolofon {#b9eb674c-ff6e-42df-8a19-d644bb822492}
 
-[1.](../1_0_forord/)
+### 1. Forord {#31a16eb0-b75f-4b27-a43a-ca0bc0defabe}
 
-### Forord
+### 2. Introduktion til bygningsreglementet 2018 {#c7165940-a14a-4009-a514-12a9821e70cb}
 
-[2.](../2_0_introduktion-til-bygningsreglementet-2018/)
+### 2.1. Overgangsperiode {#63f94e0e-bbfc-460b-85e7-dbd00ada0fb7}
 
-### Introduktion til bygningsreglementet 2018
+### 2.2. Byggelovgivningens formål og anvendelsesområde {#f5b734b9-c0ba-46b1-a5fa-181b469584d6}
 
-[2.1.](../2_1_overgangsperiode/)
+### 2.2.1. Byggelovens formål og anvendelsesområde {#9748a774-dba4-4812-b7e9-69357a571151}
 
-### Overgangsperiode
+### 2.2.2. Bebyggelsesbegrebet {#474459c0-19ed-4874-96f5-45b2f229b99d}
 
-[2.2.](../2_2_byggelovgivningens-formaal-og-anvendelsesomraade/)
+### 2.2.3. Bygningsreglementets anvendelsesområde {#50f2e510-ea96-4d4b-a0f9-3f6919bbaccb}
 
-### Byggelovgivningens formål og anvendelsesområde
+### 2.2.4. Begrænsninger i bygningsreglementets anvendelsesområde {#3d184825-a885-4886-af2c-980593e7655f}
 
-[2.2.1.](../2_2_1_byggelovens-formaal/)
+### 2.2.5. Byggeri, der er undtaget helt eller delvist fra overholdelse af tekniske bestemmelser {#6c15a8fa-5033-49ca-80db-b170e7eb6537}
 
-### Byggelovens formål og anvendelsesområde
+### 2.3. Kommunalbestyrelsen som bygningsmyndighed {#acb65d6c-96d5-4a41-95d8-5a7b76276cdb}
 
-[2.2.2.](../2_2_2_bebyggelsesbegrebet/)
+### 3. Ansøgning om byggetilladelse {#633ab8ec-57f6-4185-82f5-8bd2491b8149}
 
-### Bebyggelsesbegrebet
+### 3.1. Forhåndsdialog {#d4717b93-f323-47d1-8802-e3b8bbf285ec}
 
-[2.2.3.](../2_2_3_bygningsreglementets-anvendelsesomraade/)
+### 3.2. Forhold til anden lovgivning {#ef6c9803-98af-442c-bf31-eb8d40b59f56}
 
-### Bygningsreglementets anvendelsesområde
-
-[2.2.4.](../2_2_4_begraensninger-i-bygningsreglementets-anvendelsesomraade/)
-
-### Begrænsninger i bygningsreglementets anvendelsesområde
-
-[2.2.5.](../2_2_5_byggeri-der-er-undtaget-helt-eller-delvist-fra-overholdelse-af-tekniske-bestemmelser/)
-
-### Byggeri, der er undtaget helt eller delvist fra overholdelse af tekniske bestemmelser
-
-[2.3.](../2_3_kommunalbestyrelsen-som-bygningsmyndighed/)
-
-### Kommunalbestyrelsen som bygningsmyndighed
-
-[3.](../3_0_ansoegning-om-byggetilladelse/)
-
-### Ansøgning om byggetilladelse
-
-[3.1.](../3_1_forhaandsdialog/)
-
-### Forhåndsdialog
-
-[3.2.](../3_2_forhold-til-anden-lovgivning/)
-
-### Forhold til anden lovgivning
-
-[3.3.](./)
-
-### Dokumentation ved ansøgning om byggetilladelse
+### 3.3. Dokumentation ved ansøgning om byggetilladelse {#8a89a57d-d184-4236-a566-88e15cb0c074}
 
 Kommunalbestyrelsen skal foretage en vurdering af om den dokumentation, der indsendes ved ansøgning om byggetilladelse er i overensstemmelse med de for byggesagen relevante krav.
 
-Kravene til dokumentation ved ansøgning om byggetilladelse følger af BR18 [§ 10](/administrative-bestemmelser/krav/7_15/), og det er den dokumentation, der skal indsendes for, at kommunalbestyrelsen kan behandle en ansøgning.
+Kravene til dokumentation ved ansøgning om byggetilladelse følger af BR18 § 10, og det er den dokumentation, der skal indsendes for, at kommunalbestyrelsen kan behandle en ansøgning.
 
 En ansøgning om byggetilladelse skal indeholde:
 
@@ -100,120 +72,74 @@ En ansøgning om byggetilladelse skal indeholde:
 
 En ansøgning om byggetilladelse skal, hvis det er relevant for byggearbejdet indeholde:
 
-- Oplysning om forhold vedrørende byggeret og helhedsvurdering, jf. [kap. 8](/tekniske-bestemmelser/08/), og de ubebyggede arealer, jf. [kap. 20](/tekniske-bestemmelser/20/). Dokumentationen omfatter f.eks. oplysning om bygningens placering på grunden og i forhold til andre bygninger samt højdeforhold. Helhedsvurderingen er en del af sagsbehandlingen, som bygningsmyndigheden skal udføre, når byggeretten ikke kan overholdes. Derudover omfatter den oplysning om indretning af de ubebyggede arealer, herunder antal af og placering af parkeringspladser, indretning af opholdsarealer på terræn samt eventuel indretning af arealer til opbevaring af affald. Særligt for så vidt angår byggeret og helhedsvurdering, kan der være anden lovgivning, herunder lokalplaner, som skal iagttages af kommunalbestyrelsen, ligesom det i mange tilfælde vil være nødvendigt at foretage partshøring af naboer eller andre relevante parter i forbindelse med behandlingen af denne dokumentation.
+- Oplysning om forhold vedrørende byggeret og helhedsvurdering, jf. kap. 8, og de ubebyggede arealer, jf. kap. 20. Dokumentationen omfatter f.eks. oplysning om bygningens placering på
 
-- Oplysning om og dokumentation for, hvilken konstruktionsklasse byggeriet kan henføres til, jf. [kap. 26](/ovrige-bestemmelser/26/) om konstruktionsklasser og [kap. 28](/ovrige-bestemmelser/28/) om dokumentation af bærende konstruktioner. Læs mere om dette nedenfor.
+  grunden og i forhold til andre bygninger samt højdeforhold. Helhedsvurderingen er en del af sagsbehandlingen, som bygningsmyndigheden skal udføre, når byggeretten ikke kan overholdes. Derudover omfatter den oplysning om indretning af de ubebyggede arealer, herunder antal af og placering af parkeringspladser, indretning af opholdsarealer på terræn samt eventuel indretning af arealer til opbevaring af affald. Særligt for så vidt angår byggeret og helhedsvurdering, kan der være anden lovgivning, herunder lokalplaner, som skal iagttages af
 
-- For ombygninger og forandringer af eksisterende byggeri, hvor de bærende konstruktioners virkemåde ændres, skal der indsendes oplysning om og dokumentation for, hvilken konstruktionsklasse det berørte konstruktionsafsnit kan henføres til, jf. [kapitel 26](/ovrige-bestemmelser/26/) om konstruktionsklasser og [kapitel 28](/ovrige-bestemmelser/28/) om dokumentation af bærende konstruktioner.
+  kommunalbestyrelsen, ligesom det i mange tilfælde vil være nødvendigt at foretage partshøring af naboer eller andre relevante parter i forbindelse med behandlingen af denne dokumentation.
 
-- Oplysning om og dokumentation for, hvilken brandklasse byggeriet kan henføres til, jf. [kap. 27](/ovrige-bestemmelser/27/) om brandklasser og [kap. 29](/ovrige-bestemmelser/29/) om dokumentation af brandforhold. Læs mere om dette nedenfor.
+- Oplysning om og dokumentation for, hvilken konstruktionsklasse byggeriet kan henføres til, jf. kap. 26 om konstruktionsklasser og kap. 28 om dokumentation af bærende konstruktioner. Læs mere om dette nedenfor.
 
-- For ombygninger og forandringer af eksisterende byggeri, hvor forudsætningerne for de brandmæssige forhold ændres, skal der indsendes oplysning om og dokumentation for, hvilken brandklasse det pågældende bygningsafsnit kan henføres til, jf. [kapitel 27](/ovrige-bestemmelser/27/) om brandklasser og [kapitel 29](/ovrige-bestemmelser/29/) om dokumentation af brandforhold. Det skal tages højde for, om ændringen påvirker andre dele af bygningens brandforhold.
+- For ombygninger og forandringer af eksisterende byggeri, hvor de bærende konstruktioners virkemåde ændres, skal der indsendes oplysning om og dokumentation for, hvilken konstruktionsklasse det berørte konstruktionsafsnit kan henføres til, jf. kapitel 26 om konstruktionsklasser og kapitel 28 om dokumentation af bærende konstruktioner.
 
-- Oplysninger om og dokumentation for, hvorledes byggeriet opfylder [§§ 126-133](/tekniske-bestemmelser/05/krav/126_133/) vedrørende redningsberedskabets indsatsforhold, herunder hvorvidt byggeriet er indsatstaktisk traditionelt, jf. [§ 510](/ovrige-bestemmelser/29/krav/506_522/).
+- Oplysning om og dokumentation for, hvilken brandklasse byggeriet kan henføres til, jf. kap. 27 om brandklasser og kap. 29 om dokumentation af brandforhold. Læs mere om dette nedenfor.
 
-Det tidligere krav om tæthedsprøvning fremgår ikke længere af [kapitel 1](/administrative-bestemmelser/) i BR18. I stedet fremgår det af BR18 [§ 263, stk. 3](/tekniske-bestemmelser/11/krav/), at kravet kan dokumenteres ved at der foretages en trykprøvning.
+- For ombygninger og forandringer af eksisterende byggeri, hvor forudsætningerne for de brandmæssige forhold ændres, skal der indsendes oplysning om og dokumentation for, hvilken brandklasse det pågældende bygningsafsnit kan henføres til, jf. kapitel 27 om brandklasser og kapitel 29 om dokumentation af brandforhold. Det skal tages højde for, om ændringen påvirker andre dele af bygningens brandforhold.
+
+- Oplysninger om og dokumentation for, hvorledes byggeriet opfylder §§ 126-133 vedrørende redningsberedskabets indsatsforhold, herunder hvorvidt byggeriet er indsatstaktisk traditionelt, jf. § 510.
+
+Det tidligere krav om tæthedsprøvning fremgår ikke længere af kapitel 1 i BR18. I stedet fremgår det af BR18 § 263, stk. 3, at kravet kan dokumenteres ved at der foretages en trykprøvning.
 
 Hvis byggeriet er omfattet af krav om byggeskadeforsikring, skal der indsendes dokumentation for, at et forsikringsselskab har afgivet tilbud på byggeskadeforsikring. [Læs mere om byggeskadeforsikring her](../../../../vejledninger/andre_vejledninger/vejledning/byggeskadeforsikring/ "Byggeskadeforsikring").
 
 Hvor et byggeri indplaceres i konstruktions- eller brandklasse 2-4 gælder der supplerende dokumentationskrav. Krav om certificeret statiker og certificeret brandrådgiver er to selvstændige krav. Et byggeri kan derfor være omfattet af krav om en certificeret brandrådgiver, men ikke af krav om certificeret statiker. Det kan f.eks. være et ombygningsarbejde i et etagebyggeri, som påvirker de bærende konstruktioner, og derfor bliver omfattet af krav om en certificeret statiker, hvorimod byggeriet ikke ændrer på forudsætningerne for brandstrategien.
 
-[3.4.](../3_5_indplacering-i-konstruktionsklasse/)
+### 3.4. Indplacering i konstruktionsklasse {#6631c19f-e602-4c65-b3ee-b4e57fa9305e}
 
-### Indplacering i konstruktionsklasse
+### 3.4.1. Dokumentation for indplacering i konstruktionsklasse 1 {#6a4b5c52-9b10-4fac-abdc-fe0626d04b42}
 
-[3.4.1.](../3_4_1_dokumentation-for-indplacering-i-konstruktionsklasse-1/)
+### 3.4.2. Dokumentation for indplacering i konstruktionsklasse 2-4 {#ae5651cf-cc7c-45e7-9303-35a9c13ff038}
 
-### Dokumentation for indplacering i konstruktionsklasse 1
+### 3.4.3. Koordinering og samling af den statiske dokumentation {#674aaacf-2482-4985-abaf-2377aeae40c8}
 
-[3.4.2.](../3_4_2_dokumentation-for-indplacering-i-konstruktionsklasse-2_4/)
+### 3.5. Indplacering i brandklasse {#4676bda5-565d-4f91-a5d0-049761954bf3}
 
-### Dokumentation for indplacering i konstruktionsklasse 2-4
+### 3.5.1. Dokumentation for indplacering i brandklasse 1 {#6a8a34ff-b88b-4312-95fe-04c1c6fd5bd9}
 
-[3.4.3.](../3_4_3_koordinering-og-samling-af-den-statiske-dokumentation/)
+### 3.5.2. Dokumentation for indplacering i brandklasse 2 – 4 {#a0662794-783a-4fcf-8263-5af61fc5d19e}
 
-### Koordinering og samling af den statiske dokumentation
+### 3.6. Dispensation {#d14d5ac9-e2e4-4faa-bd1f-44169080f364}
 
-[3.5.](../3_6_indplacering-i-brandklasse/)
+### 4. Anvendelse af certificeret statiker og brandrådgiver {#72f53a62-75c4-49b7-96b4-abdb063ce63a}
 
-### Indplacering i brandklasse
+### 4.1. Anvendelse af certificeret statiker i konstruktionsklasse 2-4 {#b829fe8d-7ea3-4dce-b030-b1aeee9ba555}
 
-[3.5.1.](../3_6_1_dokumentation-for-indplacering-i-brandklasse-1/)
+### 4.2. Anvendelse af certificeret brandrådgiver i brandklasse 2-4 {#364baddb-019c-4742-ae84-32858cdbd02f}
 
-### Dokumentation for indplacering i brandklasse 1
+### 4.3. Database over certificerede statikere og brandrådgivere {#fcd7c4c2-24b2-41b3-b669-8705d5d22530}
 
-[3.5.2.](../3_6_2_dokumentation-for-indplacering-i-brandklasse-2_4/)
+### 5. Anvendelse af anerkendte statikere i konstruktionsklasse 2-4 indtil 1. januar 2022 {#e836c484-aa8a-4d55-884b-6af643804e2d}
 
-### Dokumentation for indplacering i brandklasse 2 – 4
+### 6. Byggetilladelse {#4880f9ca-def7-4e21-b3fb-1781a4ddcf95}
 
-[3.6.](../3_6_dispensation/)
+### 7. Afslutning af byggesag {#8a2911be-5e45-4657-9a60-835976917029}
 
-### Dispensation
+### 7.1. Færdigmelding {#b2e6a7cc-1d7a-4297-bfc1-1b9e3ca2ee8d}
 
-[4.](../4_0_anvendelse-af-certificeret-statiker-og-brandraadgiver/)
+### 7.2. Ibrugtagningstilladelse {#132caf47-1154-44c3-b64c-46f20e7e705f}
 
-### Anvendelse af certificeret statiker og brandrådgiver
+### 8. Stikprøvekontrol {#1f5f1798-895c-4c23-9f06-cd39ffa25e72}
 
-[4.1.](../4_1_anvendelse-af-certificeret-statiker-i-konstruktionsklasse-2_4/)
+### 8.1. Kontrol med dokumentationen ved stikprøvekontrol {#cdea2c89-1949-4aa2-bcb3-0b9cb691ed23}
 
-### Anvendelse af certificeret statiker i konstruktionsklasse 2-4
+### 8.2. Gebyr for stikprøvekontrol {#7e133f7c-9a12-42a3-8ecf-aa1b87cbac1e}
 
-[4.2.](../4_2_anvendelse-af-certificeret-brandraadgiver-i-brandklasse-2_4/)
+### 8.3. Lovliggørelse på baggrund af stikprøvekontrol {#9ecafdd2-776b-4b72-9071-04c298fc02ed}
 
-### Anvendelse af certificeret brandrådgiver i brandklasse 2-4
+### 8.4. Frist for igangsættelse af stikprøvekontrol {#10a06e25-13cc-42dc-b4ae-5ada2c1195c3}
 
-[4.3.](../4_3_database-over-certificerede-statikere-og-brandraadgivere/)
+### 9. Nedrivning af bebyggelse {#d820595c-4854-4375-bc4b-7b22cb55c65b}
 
-### Database over certificerede statikere og brandrådgivere
+### 9_1 Undtagelser til ansøgning om nedrivning {#b12e8ea4-038c-4cad-818d-9ff6d2acb9ea}
 
-[5.](../5_0_byggesagsbehandling-i-konstruktions_-og-brandklasse-2_4-indtil-31_december_2019/)
-
-### Anvendelse af anerkendte statikere i konstruktionsklasse 2-4 indtil 1. januar 2022
-
-[6.](../6_0_byggetilladelse/)
-
-### Byggetilladelse
-
-[7.](../7_0_afslutning-af-byggesag/)
-
-### Afslutning af byggesag
-
-[7.1.](../7_1_faerdigmelding/)
-
-### Færdigmelding
-
-[7.2.](../7_2_ibrugtagningstilladelse/)
-
-### Ibrugtagningstilladelse
-
-[8.](../8_0_stikproevekontrol/)
-
-### Stikprøvekontrol
-
-[8.1.](../8_1_kontrol-med-dokumentationen-ved-stikproevekontrol/)
-
-### Kontrol med dokumentationen ved stikprøvekontrol
-
-[8.2.](../8_2_gebyr-for-stikproevekontrol/)
-
-### Gebyr for stikprøvekontrol
-
-[8.3.](../8_3_lovliggoerelse-paa-baggrund-af-stikproevekontrol/)
-
-### Lovliggørelse på baggrund af stikprøvekontrol
-
-[8.4.](../8_4_frist-for-igangsaettelse-af-stikproevekontrol/)
-
-### Frist for igangsættelse af stikprøvekontrol
-
-[9.](../9_0_nedrivning-af-bebyggelse/)
-
-### Nedrivning af bebyggelse
-
-[9_1](../9_1_undtagelser-til-ansoegning-om-nedrivning/)
-
-### Undtagelser til ansøgning om nedrivning
-
-[10.](../10_0_klage-over-kommunalbestyrelsens-afgoerelser/)
-
-### Klage over kommunalbestyrelsens afgørelser
+### 10. Klage over kommunalbestyrelsens afgørelser {#6903fd22-d245-400b-afa2-68165f570d7d}

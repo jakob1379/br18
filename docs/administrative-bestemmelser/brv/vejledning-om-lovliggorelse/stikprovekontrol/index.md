@@ -22,15 +22,15 @@
 
 ## Vejledning om lovliggørelse af ulovligt byggeri
 
-### Lovliggørelse af ulovligt byggeri
+### Lovliggørelse af ulovligt byggeri {#5d450e8c-fb49-433f-8690-d8d28eb1788e}
 
-### Indholdet af vejledningen
+### Indholdet af vejledningen {#dc3a6d01-9b5c-496c-90c9-6220ba5a4d23}
 
-### Hvornår er et byggeri ulovligt
+### Hvornår er et byggeri ulovligt {#374e4894-de9d-4c01-ae8f-cf400192e823}
 
-### Anvendelse af formelle bestemmelser i forbindelse med lovliggørelse af byggeri
+### Anvendelse af formelle bestemmelser i forbindelse med lovliggørelse af byggeri {#d0450863-d860-4671-a144-4f6fff33c44e}
 
-### Særligt om stikprøvekontrol efter BR18
+### Særligt om stikprøvekontrol efter BR18 {#433a388b-4ef7-4ba1-9dcb-0612c7d0975b}
 
 Hvis det ved stikprøvekontrollen efter BR18, § 46 konstateres, at der ikke er indsendt tilstrækkelig dokumentation for overholdelse af tekniske bestemmelser, vil ansøgeren efterfølgende skulle fremsende den manglende dokumentation.
 
@@ -40,26 +40,26 @@ Også ulovligt byggeri, der er opført før BR18 kan udtages til stikprøvekontr
 
 I byggesager, hvor der ved stikprøvekontrollen er konstateret et ulovligt forhold, er kommunalbestyrelsen i medfør af BR18, § 46 forpligtet til at gennemgå den indsendte dokumentation og påse, at byggeriet overholder de for byggeriet relevante krav i bygningsreglementet. Det betyder, at kommunalbestyrelsen som bygningsmyndighed skal føre en egentlig kontrol med, at det ulovlige forhold er lovliggjort inden sagen kan afsluttes.
 
-### Byggelovens bestemmelser
+### Byggelovens bestemmelser {#efade8f2-aeee-4316-9b12-1269bf63b28a}
 
-### Kommunalbestyrelsen som bygningsmyndighed
+### Kommunalbestyrelsen som bygningsmyndighed {#0bac2d7b-6f83-4a5e-bb70-bc10fada3df7}
 
-### Ejerens pligter
+### Ejerens pligter {#0bbb3b63-3292-413b-b1fa-6b12e2b2b7b2}
 
-### Lovliggørelsens art
+### Lovliggørelsens art {#77cb79a5-feaf-4e5a-bd75-e7dbc10f4302}
 
-### Retlig lovliggørelse
+### Retlig lovliggørelse {#0a9d07d9-0e51-498e-9f86-9f4a5ab5be5f}
 
-### Fysisk lovliggørelse
+### Fysisk lovliggørelse {#89ada0c8-3144-4e2d-95c9-e36564461d52}
 
-### Vurderingen – valget mellem retlig og fysisk lovliggørelse
+### Vurderingen – valget mellem retlig og fysisk lovliggørelse {#a7370d8b-3549-4a24-90f2-571fea0345cf}
 
-### Byggeri opført uden tilladelse
+### Byggeri opført uden tilladelse {#bfb1838a-8a77-4560-a35f-75f3fd3290f4}
 
-### Byggeri der afviger fra det byggeri, der er givet tilladelse til
+### Byggeri der afviger fra det byggeri, der er givet tilladelse til {#6abc4d89-97e1-4f26-97e5-6fde590579e4}
 
-### Hensyn og overvejelser
+### Hensyn og overvejelser {#322fb2e3-9fe0-4a40-885e-7ceae6722b25}
 
-### Forholdet til anden lovgivning
+### Forholdet til anden lovgivning {#d5fd9fdf-ce91-4988-a5bb-058378339b40}
 
-### Særligt om lovliggørelse i forbindelse med bygningers klimapåvirkning
+### Særligt om lovliggørelse i forbindelse med bygningers klimapåvirkning {#8e481eaa-32b8-45b7-97d5-47a22df171c8}

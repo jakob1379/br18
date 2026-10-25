@@ -22,62 +22,34 @@
 
 ## Vejledning om opførelse af sekundær bebyggelse med et samlet areal på højst 50 m2
 
-[1.0.](../1_0_indledning/)
+### 1.0. Indledning {#261b8b2e-1b20-4582-b46e-a8e529044717}
 
-### Indledning
+### 2.0. Hvor meget må man bygge? {#6a342020-cf53-43dc-9f54-1e63ef0b9273}
 
-[2.0.](../2_0_hvor_meget_maa_man_bygge/)
+### 3.0. Brandforhold {#6878ba72-8872-435d-8988-768f98a45f05}
 
-### Hvor meget må man bygge?
+### 4.0. Bebyggelsesregulerende bestemmelser for sekundær bebyggelse {#2aacad95-d2ec-4756-9876-47afb7f43a68}
 
-[3.0.](../3_0_brandforhold/)
+### 4.1. Bebyggelse i skelbræmmen {#5f2f5eb0-99ff-4bed-9784-46c8080b9ca8}
 
-### Brandforhold
+### 4.1.1. Betingelser for opførelse af sekundær bebyggelse nærmere skel mod nabo og sti end 2,5 meter {#215df4b5-8346-4df4-a6c9-24d557dee493}
 
-[4.0.](../4_0_bebyggelsesregulerende/)
+### 4.1.2. Sekundær bebyggelse, der placeres længere fra skel end 2,5 meter {#b36ca33a-453b-4cfd-b16f-267842e4518c}
 
-### Bebyggelsesregulerende bestemmelser for sekundær bebyggelse
+### 4.1.3. Sekundær bebyggelse i tilknytning til sommerhuse {#83fd48d6-b801-4442-b94d-9b2a769c54db}
 
-[4.1.](../4_1_bebyggelse-i-skelbraemmen/)
+### 5.0. Fradragsreglen {#68a81df4-34a2-4264-8061-399efbdf0101}
 
-### Bebyggelse i skelbræmmen
+### 6.0. Integrerede og sammenbyggede bygninger {#b1eb4379-b434-4b01-9edf-6f1171cb9a6c}
 
-[4.1.1.](../4_1_1_betingelser_for_opfoerelse_af_sekundaer_bebyggelse/)
+### 6.1. Integrerede bygninger {#19135047-7563-4564-8248-6236e1217a23}
 
-### Betingelser for opførelse af sekundær bebyggelse nærmere skel mod nabo og sti end 2,5 meter
+### 6.2. Sammenbyggede bygninger {#7ca29333-9a2b-49fc-a789-19d32f852f16}
 
-[4.1.2.](../4_1_2_sekundaer_bebyggelse_skel_end_2_5_meter/)
+Sammenbyggede bygninger er placeret op ad et fritliggende enfamiliehus, dobbelthus eller et rækkehus, men er ikke nødvendigvis konstruktivt en del af dette. Der kan eksempelvis være tale om en carport placeret på søjler direkte mod primærbygningens facade uden sammenhængende tagkonstruktioner.    Sammenbyggede bygninger skal indregnes i det samlede areal for sekundær bebyggelse med et samlet areal på højst 50,0 m2, der kan opføres uden byggetilladelse.   Hvis der er adgang via dør eller der er et vindue mellem huset og carporten kan der være brandkrav til døren og vinduet.   **Eksempel 1:**   *På en grund med et enfamiliehus vil ejeren gerne opføre en sammenbygget garage på 40 m^2^. Da den sammenbyggede garage ikke konstruktivt er en del af enfamiliehuset, kan garagen opføres uden ansøgning om byggetilladelse.*  *Det er en forudsætning, at bygningsreglementet, deklarationer og anden lovgivning overholdes.*  *Havde der været eksisterende sekundær bebyggelse på grunden, således at det samlede areal ville overstige 50,0 m^2^, ville det kræve byggetilladelse at opføre den sammenbyggede garage på 40 m^2^.*
 
-### Sekundær bebyggelse, der placeres længere fra skel end 2,5 meter
+### 7.0. Nedrivning {#5bad03fc-cc9d-4b2d-9977-b9576eb55efb}
 
-[4.1.3.](../4_1_3_sekundaer_bebyggelse_i_tilknytning_til_sommerhuse/)
+### 8.0. Anden lovgivning {#4b0fb2ea-7300-4ce4-a3d9-c5955771783c}
 
-### Sekundær bebyggelse i tilknytning til sommerhuse
-
-[5.0.](../5_0_fradragsreglen/)
-
-### Fradragsreglen
-
-[6.0.](../6_0_integrerede-og-sammenbyggede-bygninger/)
-
-### Integrerede og sammenbyggede bygninger
-
-[6.1.](../6_1_integrerede-bygninger/)
-
-### Integrerede bygninger
-
-[6.2.](./)
-
-### Sammenbyggede bygninger
-
-Sammenbyggede bygninger er placeret op ad et fritliggende enfamiliehus, dobbelthus eller et rækkehus, men er ikke nødvendigvis konstruktivt en del af dette. Der kan eksempelvis være tale om en carport placeret på søjler direkte mod primærbygningens facade uden sammenhængende tagkonstruktioner.    Sammenbyggede bygninger skal indregnes i det samlede areal for sekundær bebyggelse med et samlet areal på højst 50,0 m2, der kan opføres uden byggetilladelse.   Hvis der er adgang via dør eller der er et vindue mellem huset og carporten kan der være brandkrav til døren og vinduet.   **Eksempel 1:**   *På en grund med et enfamiliehus vil ejeren gerne opføre en sammenbygget garage på 40 m^2^. Da den sammenbyggede garage ikke konstruktivt er en del af enfamiliehuset, kan garagen opføres uden ansøgning om byggetilladelse.*  *Det er en forudsætning, at bygningsreglementet, deklarationer og anden lovgivning overholdes.*  *Havde der været eksisterende sekundær bebyggelse på grunden, således at det samlede areal ville overstige 50,0 m^2^, ville det kræve byggetilladelse at opføre den sammenbyggede garage på 40 m^2^.* [7.0.](../7_0_nedrivning/)
-
-### Nedrivning
-
-[8.0.](../8_0_anden_lov/)
-
-### Anden lovgivning
-
-[9.0.](../9_0_hvad-skal-man-huske/)
-
-### Hvad skal man huske?
+### 9.0. Hvad skal man huske? {#cbaf7f4f-594c-41d5-bc32-c40d16d9674e}

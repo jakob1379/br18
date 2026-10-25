@@ -22,65 +22,35 @@
 
 ## Vejledning om gebyr for kommunernes sagsbehandling på byggeområdet
 
-[1.](../indledning/)
+### 1. Indledning {#c29b7dd6-3256-4187-b181-dfcf6a1f572b}
 
-### Indledning
+### 2. De forfatningsretlige regler for opkrævning af gebyrer {#8dd51c52-047a-472f-a141-644a9ef842ac}
 
-[2.](../forfatningsretlige-regler/)
+### 3. Byggelovens regler for opkrævning af byggesagsgebyrer {#568414fb-afec-4b2c-84c2-6ba8f7b41745}
 
-### De forfatningsretlige regler for opkrævning af gebyrer
+### 4. Kommunalbestyrelsens byggesagsbehandling efter BR18 {#1a86b6e8-3240-4380-b7e6-eba436bf0ff6}
 
-[3.](../byggelovens-regler/)
+### 5. Byggesagsgebyr efter tidsforbrug {#9783af26-d3da-41cf-ab4e-b69c8a67b4fc}
 
-### Byggelovens regler for opkrævning af byggesagsgebyrer
+### 6. Fastsættelse af gebyret i den enkelte sag {#b659b5e1-970c-412d-9df0-7b0710aace6b}
 
-[4.](../byggesagsbehandling/)
+### 7. Opkrævning af et mindre, fast gebyr {#08c1b6a0-c551-428f-9c8e-9af6bf2affcd}
 
-### Kommunalbestyrelsens byggesagsbehandling efter BR18
+### 8. Hvilke poster kan indeholdes i gebyret? {#ca914ed6-250c-417c-a6d3-14938d30504a}
 
-[5.](../tidsforbrug/)
+### 9. Generelle principper for fastsættelse af timeprisen {#e208113b-0e80-41c0-9164-bbb8891d786b}
 
-### Byggesagsgebyr efter tidsforbrug
+### 10. Byggesagsgebyr i sager, hvor der meddeles afslag {#e3f27deb-d2e1-4e29-a873-2e41abe22946}
 
-[6.](../gebyr-enkelt-sag/)
+### 11. Byggesagsgebyr for deltilladelser {#a1800975-5ead-4bc6-8883-ef6e665b5688}
 
-### Fastsættelse af gebyret i den enkelte sag
+### 12. Byggesagsgebyrets forfaldstidspunkt {#70bed234-2cba-4a1f-bf1f-38ca072d4d97}
 
-[7.](../fast-gebyr/)
+### 13. Opkrævning af gebyr for kommunens stikprøvekontrol {#93b91313-05fa-4d04-ad5e-86c5954b720e}
 
-### Opkrævning af et mindre, fast gebyr
+### 14. Byggesagsgebyr, når kommunen påser anden lovgivning {#2a2de623-31df-4776-9c74-591bbf8cb902}
 
-[8.](../poster/)
-
-### Hvilke poster kan indeholdes i gebyret?
-
-[9.](../principper-timerpris/)
-
-### Generelle principper for fastsættelse af timeprisen
-
-[10.](../afslag/)
-
-### Byggesagsgebyr i sager, hvor der meddeles afslag
-
-[11.](../deltilladelser/)
-
-### Byggesagsgebyr for deltilladelser
-
-[12.](../forfaldstidspunkt/)
-
-### Byggesagsgebyrets forfaldstidspunkt
-
-[13.](../stikprove/)
-
-### Opkrævning af gebyr for kommunens stikprøvekontrol
-
-[14.](../anden-lovgivning/)
-
-### Byggesagsgebyr, når kommunen påser anden lovgivning
-
-[15.](./)
-
-### Intern instruks i kommunen
+### 15. Intern instruks i kommunen {#6cf93438-46ec-4275-b0ff-1de96795200c}
 
 Administration af enhver gebyrordning forudsætter, at myndigheden har udarbejdet en intern instruks, som beskriver, hvordan gebyrordningen håndteres.
 
@@ -98,6 +68,6 @@ Dette kræver, at instruksen beskriver, hvordan kommunen opgør og dokumenterer 
 
 Kommunerne har således et ansvar for at opgøre såvel omkostningerne som gebyrindtægterne ved byggesagsbehandlingen, så det kan dokumenteres, at indtægterne ikke overstiger omkostningerne.
 
-For en uddybning af ovenstående samt for mere konkret beregning af udgifter henvises til Økonomi- og Indenrigsministeriets Budget- og Regnskabssystem for Kommuner, særligt [kap. 9](/tekniske-bestemmelser/09/).3, der er optrykt som [bilag 1](/bilag/b1/bilag_1/) til bekendtgørelse om kommunernes budget- og regnskabsvæsen, revision m.v., som har til hensigt at tilvejebringe et generelt grundlag for kommunernes udarbejdelse af omkostningskalkulationer.
+For en uddybning af ovenstående samt for mere konkret beregning af udgifter henvises til Økonomi- og Indenrigsministeriets Budget- og Regnskabssystem for Kommuner, særligt kap. 9.3, der er optrykt som bilag 1 til bekendtgørelse om kommunernes budget- og regnskabsvæsen, revision m.v., som har til hensigt at tilvejebringe et generelt grundlag for kommunernes udarbejdelse af omkostningskalkulationer.
 
 Budget og Regnskabssystemet kan findes på hjemmesiden: [www.budregn.oim.dk](https://budregn.oim.dk/){target="_blank"} og på [retsinformation.dk](https://www.retsinformation.dk/){target="_blank"}

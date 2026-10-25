@@ -22,31 +22,21 @@
 
 ## Eksempelsamling om ombygninger og andre forandringer - For etageboligbyggeri samt enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse
 
-### Kolofon
+### Kolofon {#f68306c1-c41e-401a-aab2-adb31d6bb0e3}
 
-[0](../forord/)
+### 0 Forord {#df80a889-6625-457d-b3fe-e1687b7b29fb}
 
-### Forord
+### 1 Generelt {#21495b6f-78b7-4e10-9743-4c47b41ae9d4}
 
-[1](../generelt/)
+### 1.1 Bygningsreglementets ombygningsbestemmelser {#298c7843-a0dd-4973-be74-472322ebef49}
 
-### Generelt
+### 1.2 Krav til konstruktions- og brandforhold {#c67e186d-c5c0-429e-820b-7176d3a9d547}
 
-[1.1](../bygningsreglementets-ombygningsbestemmelser/)
+### 1.3 Dokumentation, herunder indplacering i konstruktions- og brandklasse {#c14359ca-3376-40c9-ac8d-e91e38a456d5}
 
-### Bygningsreglementets ombygningsbestemmelser
+Ved ombygninger og andre forandringer der kræver byggetilladelse, skal der i forbindelse med ansøgningen indsendes den dokumentation der fremgår af BR18, § 10, stk. 1-7. Denne dokumentation kan bl.a. bestå i at oplyse og dokumentere, hvilken konstruktionsklasse og brandklasse byggearbejdet kan indplaceres i. Konstruktions- og brandklassen har betydning for, hvordan sikkerheden i byggeriet skal dokumenteres, herunder, hvorvidt der skal tilknyttes certificerede rådgivere. Der er ikke krav om at tilknytte certificerede statikere eller brandrådgivere, hvis byggearbejdet kan indplaceres i konstruktionsklasse 1 og brandklasse 1. Dette er dog et krav i henholdsvis konstruktionsklasse 2-4 og brandklasse 2-4.
 
-[1.2](../krav-til-konstruktions-og-brandforhold/)
-
-### Krav til konstruktions- og brandforhold
-
-[1.3](./)
-
-### Dokumentation, herunder indplacering i konstruktions- og brandklasse
-
-Ved ombygninger og andre forandringer der kræver byggetilladelse, skal der i forbindelse med ansøgningen indsendes den dokumentation der fremgår af BR18, [§ 10, stk. 1](/administrative-bestemmelser/krav/7_15/)-7. Denne dokumentation kan bl.a. bestå i at oplyse og dokumentere, hvilken konstruktionsklasse og brandklasse byggearbejdet kan indplaceres i. Konstruktions- og brandklassen har betydning for, hvordan sikkerheden i byggeriet skal dokumenteres, herunder, hvorvidt der skal tilknyttes certificerede rådgivere. Der er ikke krav om at tilknytte certificerede statikere eller brandrådgivere, hvis byggearbejdet kan indplaceres i konstruktionsklasse 1 og brandklasse 1. Dette er dog et krav i henholdsvis konstruktionsklasse 2-4 og brandklasse 2-4.
-
-Det fremgår af BR18, [§ 10, stk. 2, nr. 3](/administrative-bestemmelser/krav/7_15/) og 5, at såfremt det er relevant, skal det i forbindelse med ansøgning om byggetilladelse, oplyses og dokumenteres, hvilken konstruktionsklasse og brandklasse byggearbejdet kan indplaceres i.
+Det fremgår af BR18, § 10, stk. 2, nr. 3 og 5, at såfremt det er relevant, skal det i forbindelse med ansøgning om byggetilladelse, oplyses og dokumenteres, hvilken konstruktionsklasse og brandklasse byggearbejdet kan indplaceres i.
 
 Det er relevant at indplacere en ombygning eller forandring i en konstruktionsklasse, hvis det medfører, at de bærende konstruktioners virkemåde i byggeriet ændres, eller hvis der indføres nye bærende konstruktioner. Bærende konstruktioners virkemåde er også beskrevet i afsnit 1.1.1.
 
@@ -60,26 +50,14 @@ For ombygninger og forandringer, hvor der kræves anvendt certificeret statiker,
 
 Hvis ombygningen kan opføres uden byggetilladelse, skal den ikke indplaceres i en konstruktionsklasse eller brandklasse.
 
-[2](../eksempler-etageboligbyggeri/)
+### 2 Etageboligbyggeri - Eksempler på ombygninger og andre forandringer {#3bffc19b-782d-4144-8df2-a2f65378e944}
 
-### Etageboligbyggeri - Eksempler på ombygninger og andre forandringer
+### 2.1 Ombygninger og andre forandringer der kræver byggetilladelse {#a2f39fe8-9ddb-4b6e-94e7-969bfbdce576}
 
-[2.1](../ombygninger-der-kraever-byggetilladelse/)
+### 2.2 Ombygninger og andre forandringer der kan udføres uden ansøgning om byggetilladelse {#9561ac47-4b09-4b1c-87ed-1332e9e5dd07}
 
-### Ombygninger og andre forandringer der kræver byggetilladelse
+### 3 Enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse - Eksempler på ombygninger og andre forandringer {#0c0b0cd0-4953-4816-91f1-d2a02999a2a8}
 
-[2.2](../ombygninger-der-kan-opfoeres-uden-byggetilladelse/)
+### 3.1 Ombygninger og andre forandringer der kræver byggetilladelse {#76275838-91af-4905-8352-8d2aef45e85b}
 
-### Ombygninger og andre forandringer der kan udføres uden ansøgning om byggetilladelse
-
-[3](../eksempler-enfamiliehuse/)
-
-### Enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse - Eksempler på ombygninger og andre forandringer
-
-[3.1](../ombygninger-der-kraever-byggetilladelse_/)
-
-### Ombygninger og andre forandringer der kræver byggetilladelse
-
-[3.2](../ombygninger-der-kan-opfoeres-uden-byggetilladelse_/)
-
-### Ombygninger og andre forandringer der kan udføres uden ansøgning om byggetilladelse
+### 3.2 Ombygninger og andre forandringer der kan udføres uden ansøgning om byggetilladelse {#9adc1b1f-315c-4069-97b9-35c305f352ac}

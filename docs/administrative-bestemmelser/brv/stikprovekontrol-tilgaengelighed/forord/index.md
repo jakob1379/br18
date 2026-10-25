@@ -22,9 +22,7 @@
 
 ## Vejledning i kommunernes stikprøvekontrol i tilgængelighed
 
-[0.0](./)
-
-### Forord
+### 0.0 Forord {#f8932be8-37e1-4b17-9fea-7297a38ad5de}
 
 Denne vejledning er rettet mod byggesagsbehandlerne i kommunerne i forbindelse med den kommunale stikprøvekontrol. Vejledningen fokuserer udelukkende på den del af stikprøvekontrollen, der vedrører tilgængelighed.
 
@@ -42,38 +40,24 @@ Denne vejledning skal understøtte kommunernes indsats i forbindelse med den del
 
 I stikprøvekontrollen skal kommunerne bl.a. vurdere, om de udtrukne byggesager tilbyder ligeværdighed i adgangsforhold og indretning^4^. Et ensartet kontrolniveau vil understøtte en identificering af, hvor udfordringerne befinder sig. Derfor er det vigtigt, at stikprøvekontrollen omfatter alle relevante bestemmelser i bygningsreglementet.
 
-1\) Bygningsreglementet, [kap. 1](/administrative-bestemmelser/), [§ 46](/administrative-bestemmelser/krav/40_46/).
+1\) Bygningsreglementet, kap. 1, § 46.
 
-2\) Bygningsreglementet, [kap. 1](/administrative-bestemmelser/), Vejledning om byggesagsbehandling efter BR18.
+2\) Bygningsreglementet, kap. 1, Vejledning om byggesagsbehandling efter BR18.
 
 3\) Tiltagspakke til fremme af tilgængelighed 2018, Trafik-, Bygge- og Boligstyrelsen, 23. januar 2018
 
-4\) Bygningsreglementet, [kap. 2](/tekniske-bestemmelser/02/), Vejledning til brugerbegreb, 0.0.0.
+4\) Bygningsreglementet, kap. 2, Vejledning til brugerbegreb, 0.0.0.
 
-[1.0](../stikprove-afsnit-et/)
+### 1.0 Stikprøvekontrol - Afklaring af bestemmelser og brugergruppe {#42f88323-8b81-4649-868e-d2da47d6562e}
 
-### Stikprøvekontrol - Afklaring af bestemmelser og brugergruppe
+### 1.1 Stikprøvekontrol – 1. fase: Tilstrækkelig dokumentation {#c4f664b3-d02a-4df2-9442-57335692301c}
 
-[1.1](../fase-et/)
+### 1.2 Stikprøvekontrol - 2. fase: Vurdering af løsninger {#a52159d7-fcd6-4eb7-8db2-ee8875f89564}
 
-### Stikprøvekontrol – 1. fase: Tilstrækkelig dokumentation
+### 1.3 Stikprøvekontrol – 3. fase: Vurdering af mangel {#0121521b-e5e3-4323-a262-01113b1e9dae}
 
-[1.2](../fase-to/)
+### 1.4 Afslutning {#1496ab80-def3-4be1-a26a-4f0419931cfe}
 
-### Stikprøvekontrol - 2. fase: Vurdering af løsninger
+### 2.0 Uddybning angående brugerne {#04a33d68-8e1c-4f88-aa20-b52672b7e281}
 
-[1.3](../fase-tre/)
-
-### Stikprøvekontrol – 3. fase: Vurdering af mangel
-
-[1.4](../afslutning/)
-
-### Afslutning
-
-[2.0](../uddybning-brugere/)
-
-### Uddybning angående brugerne
-
-[3.0](../uddybning-ligevardighed/)
-
-### Uddybning af ligeværdighed i adgangsforhold og indretning
+### 3.0 Uddybning af ligeværdighed i adgangsforhold og indretning {#82fa5c77-c3c6-4da8-9fe4-bb8a654e0335}

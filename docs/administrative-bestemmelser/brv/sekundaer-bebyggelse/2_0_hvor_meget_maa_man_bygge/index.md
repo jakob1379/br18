@@ -22,13 +22,9 @@
 
 ## Vejledning om opførelse af sekundær bebyggelse med et samlet areal på højst 50 m2
 
-[1.0.](../1_0_indledning/)
+### 1.0. Indledning {#261b8b2e-1b20-4582-b46e-a8e529044717}
 
-### Indledning
-
-[2.0.](./)
-
-### Hvor meget må man bygge?
+### 2.0. Hvor meget må man bygge? {#6a342020-cf53-43dc-9f54-1e63ef0b9273}
 
 Det er vigtigt at være opmærksom på, at det er det samlede areal af den sekundære bebyggelse på grunden, der er afgørende for, om bygningen kan opføres uden ansøgning om byggetilladelse. Det er derfor ikke den enkelte bygning, der højst må have et samlet areal på 50,0 m^2^, men derimod det samlede areal af den sekundære bebyggelse, der er opført på grunden. Allerede eksisterende sekundær bebyggelse skal tælles med i beregningen af det samlede areal af den sekundære bebyggelse. Det betyder, at hvis der allerede er opført 40 m^2^, kan der maksimalt opføres 10 m^2^ yderligere, medmindre der indhentes en byggetilladelse fra kommunen. Dette gælder uanset som den eksisterende sekundære bebyggelse er opført med eller uden ansøgning om byggetilladelse.
 
@@ -58,54 +54,28 @@ Foruden bygningsreglementets regler, kan der også være regler i anden lovgivni
 
 *Det er en forudsætning, at bygningsreglementet, deklarationer og anden lovgivning overholdes.*
 
-[3.0.](../3_0_brandforhold/)
+### 3.0. Brandforhold {#6878ba72-8872-435d-8988-768f98a45f05}
 
-### Brandforhold
+### 4.0. Bebyggelsesregulerende bestemmelser for sekundær bebyggelse {#2aacad95-d2ec-4756-9876-47afb7f43a68}
 
-[4.0.](../4_0_bebyggelsesregulerende/)
+### 4.1. Bebyggelse i skelbræmmen {#5f2f5eb0-99ff-4bed-9784-46c8080b9ca8}
 
-### Bebyggelsesregulerende bestemmelser for sekundær bebyggelse
+### 4.1.1. Betingelser for opførelse af sekundær bebyggelse nærmere skel mod nabo og sti end 2,5 meter {#215df4b5-8346-4df4-a6c9-24d557dee493}
 
-[4.1.](../4_1_bebyggelse-i-skelbraemmen/)
+### 4.1.2. Sekundær bebyggelse, der placeres længere fra skel end 2,5 meter {#b36ca33a-453b-4cfd-b16f-267842e4518c}
 
-### Bebyggelse i skelbræmmen
+### 4.1.3. Sekundær bebyggelse i tilknytning til sommerhuse {#83fd48d6-b801-4442-b94d-9b2a769c54db}
 
-[4.1.1.](../4_1_1_betingelser_for_opfoerelse_af_sekundaer_bebyggelse/)
+### 5.0. Fradragsreglen {#68a81df4-34a2-4264-8061-399efbdf0101}
 
-### Betingelser for opførelse af sekundær bebyggelse nærmere skel mod nabo og sti end 2,5 meter
+### 6.0. Integrerede og sammenbyggede bygninger {#b1eb4379-b434-4b01-9edf-6f1171cb9a6c}
 
-[4.1.2.](../4_1_2_sekundaer_bebyggelse_skel_end_2_5_meter/)
+### 6.1. Integrerede bygninger {#19135047-7563-4564-8248-6236e1217a23}
 
-### Sekundær bebyggelse, der placeres længere fra skel end 2,5 meter
+### 6.2. Sammenbyggede bygninger {#7ca29333-9a2b-49fc-a789-19d32f852f16}
 
-[4.1.3.](../4_1_3_sekundaer_bebyggelse_i_tilknytning_til_sommerhuse/)
+### 7.0. Nedrivning {#5bad03fc-cc9d-4b2d-9977-b9576eb55efb}
 
-### Sekundær bebyggelse i tilknytning til sommerhuse
+### 8.0. Anden lovgivning {#4b0fb2ea-7300-4ce4-a3d9-c5955771783c}
 
-[5.0.](../5_0_fradragsreglen/)
-
-### Fradragsreglen
-
-[6.0.](../6_0_integrerede-og-sammenbyggede-bygninger/)
-
-### Integrerede og sammenbyggede bygninger
-
-[6.1.](../6_1_integrerede-bygninger/)
-
-### Integrerede bygninger
-
-[6.2.](../6_2_sammenbyggede-bygninger/)
-
-### Sammenbyggede bygninger
-
-[7.0.](../7_0_nedrivning/)
-
-### Nedrivning
-
-[8.0.](../8_0_anden_lov/)
-
-### Anden lovgivning
-
-[9.0.](../9_0_hvad-skal-man-huske/)
-
-### Hvad skal man huske?
+### 9.0. Hvad skal man huske? {#cbaf7f4f-594c-41d5-bc32-c40d16d9674e}

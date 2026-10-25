@@ -22,23 +22,15 @@
 
 ## Eksempelsamling om ombygninger og andre forandringer - For etageboligbyggeri samt enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse
 
-### Kolofon
+### Kolofon {#f68306c1-c41e-401a-aab2-adb31d6bb0e3}
 
-[0](../forord/)
+### 0 Forord {#df80a889-6625-457d-b3fe-e1687b7b29fb}
 
-### Forord
+### 1 Generelt {#21495b6f-78b7-4e10-9743-4c47b41ae9d4}
 
-[1](../generelt/)
+### 1.1 Bygningsreglementets ombygningsbestemmelser {#298c7843-a0dd-4973-be74-472322ebef49}
 
-### Generelt
-
-[1.1](../bygningsreglementets-ombygningsbestemmelser/)
-
-### Bygningsreglementets ombygningsbestemmelser
-
-[1.2](./)
-
-### Krav til konstruktions- og brandforhold
+### 1.2 Krav til konstruktions- og brandforhold {#c67e186d-c5c0-429e-820b-7176d3a9d547}
 
 Ombygninger og andre forandringer, der er omfattet af BR18, er ligeledes omfattet af en række tekniske krav til bl.a. brand- og konstruktionsforhold for selve byggearbejdet og det der påvirkes heraf. Dette gør sig gældende både for ombygninger og forandringer, der kræver byggetilladelse, og dem der kan udføres uden ansøgning om byggetilladelse.
 
@@ -46,30 +38,16 @@ I forhold til konstruktionsforhold, er det ved ombygninger og andre forandringer
 
 I forhold til brandforhold, er det ved ombygninger og andre forandringer kun byggearbejdet i den pågældende brandmæssige enhed samt flugtveje derfra, der skal følge bestemmelserne i det nugældende bygningsreglement og beskrivelserne i hertil hørende vejledninger. Ved ombygninger kan eksisterende brandmæssige forhold, der ikke direkte influeres, fortsat benyttes uændret i overensstemmelse med reglerne på opførelsestidspunktet eller senere relevante byggetilladelser. Dette er nærmere beskrevet i bygningsreglements *[vejledning til kapitel 5 – brand, kapitel 1.](../../../../tekniske-bestemmelser/05/vejledninger/generel_brand/)*
 
-[1.3](../dokumentation-herunder-indplacering-i-konstruktions-og-brandklasser/)
+### 1.3 Dokumentation, herunder indplacering i konstruktions- og brandklasse {#c14359ca-3376-40c9-ac8d-e91e38a456d5}
 
-### Dokumentation, herunder indplacering i konstruktions- og brandklasse
+### 2 Etageboligbyggeri - Eksempler på ombygninger og andre forandringer {#3bffc19b-782d-4144-8df2-a2f65378e944}
 
-[2](../eksempler-etageboligbyggeri/)
+### 2.1 Ombygninger og andre forandringer der kræver byggetilladelse {#a2f39fe8-9ddb-4b6e-94e7-969bfbdce576}
 
-### Etageboligbyggeri - Eksempler på ombygninger og andre forandringer
+### 2.2 Ombygninger og andre forandringer der kan udføres uden ansøgning om byggetilladelse {#9561ac47-4b09-4b1c-87ed-1332e9e5dd07}
 
-[2.1](../ombygninger-der-kraever-byggetilladelse/)
+### 3 Enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse - Eksempler på ombygninger og andre forandringer {#0c0b0cd0-4953-4816-91f1-d2a02999a2a8}
 
-### Ombygninger og andre forandringer der kræver byggetilladelse
+### 3.1 Ombygninger og andre forandringer der kræver byggetilladelse {#76275838-91af-4905-8352-8d2aef45e85b}
 
-[2.2](../ombygninger-der-kan-opfoeres-uden-byggetilladelse/)
-
-### Ombygninger og andre forandringer der kan udføres uden ansøgning om byggetilladelse
-
-[3](../eksempler-enfamiliehuse/)
-
-### Enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse - Eksempler på ombygninger og andre forandringer
-
-[3.1](../ombygninger-der-kraever-byggetilladelse_/)
-
-### Ombygninger og andre forandringer der kræver byggetilladelse
-
-[3.2](../ombygninger-der-kan-opfoeres-uden-byggetilladelse_/)
-
-### Ombygninger og andre forandringer der kan udføres uden ansøgning om byggetilladelse
+### 3.2 Ombygninger og andre forandringer der kan udføres uden ansøgning om byggetilladelse {#9adc1b1f-315c-4069-97b9-35c305f352ac}

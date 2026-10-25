@@ -22,17 +22,11 @@
 
 ## Vejledning i kommunernes stikprøvekontrol i tilgængelighed
 
-[0.0](../forord/)
+### 0.0 Forord {#f8932be8-37e1-4b17-9fea-7297a38ad5de}
 
-### Forord
+### 1.0 Stikprøvekontrol - Afklaring af bestemmelser og brugergruppe {#42f88323-8b81-4649-868e-d2da47d6562e}
 
-[1.0](../stikprove-afsnit-et/)
-
-### Stikprøvekontrol - Afklaring af bestemmelser og brugergruppe
-
-[1.1](./)
-
-### Stikprøvekontrol – 1. fase: Tilstrækkelig dokumentation
+### 1.1 Stikprøvekontrol – 1. fase: Tilstrækkelig dokumentation {#c4f664b3-d02a-4df2-9442-57335692301c}
 
 Vejledningen er for overskuelighedens og forståelsens skyld inddelt i faser.
 
@@ -58,8 +52,8 @@ Tabel 2. uddyber de enkelte temaer. En kombination af tekst, tegninger, diagramm
 
 <table>
 <colgroup>
-<col style="width: 22%" />
-<col style="width: 77%" />
+<col style="width: 50%" />
+<col style="width: 50%" />
 </colgroup>
 <tbody>
 <tr>
@@ -104,24 +98,14 @@ Tabel 2.: Anbefaling om dokumentation og dens indhold.
 
 I en eventuel forhåndsdialog mellem ansøger og kommune kan specifikationer omkring dokumentationen, og i hvilket format den skal afleveres, drøftes og aftales.
 
-8\) Bygningsreglementet, [kap. 1](/administrative-bestemmelser/), [§ 43, stk. 2](/administrative-bestemmelser/krav/40_46/)
+8\) Bygningsreglementet, kap. 1, § 43, stk. 2
 
-[1.2](../fase-to/)
+### 1.2 Stikprøvekontrol - 2. fase: Vurdering af løsninger {#a52159d7-fcd6-4eb7-8db2-ee8875f89564}
 
-### Stikprøvekontrol - 2. fase: Vurdering af løsninger
+### 1.3 Stikprøvekontrol – 3. fase: Vurdering af mangel {#0121521b-e5e3-4323-a262-01113b1e9dae}
 
-[1.3](../fase-tre/)
+### 1.4 Afslutning {#1496ab80-def3-4be1-a26a-4f0419931cfe}
 
-### Stikprøvekontrol – 3. fase: Vurdering af mangel
+### 2.0 Uddybning angående brugerne {#04a33d68-8e1c-4f88-aa20-b52672b7e281}
 
-[1.4](../afslutning/)
-
-### Afslutning
-
-[2.0](../uddybning-brugere/)
-
-### Uddybning angående brugerne
-
-[3.0](../uddybning-ligevardighed/)
-
-### Uddybning af ligeværdighed i adgangsforhold og indretning
+### 3.0 Uddybning af ligeværdighed i adgangsforhold og indretning {#82fa5c77-c3c6-4da8-9fe4-bb8a654e0335}

@@ -22,37 +22,23 @@
 
 ## Spørgsmål og svar
 
-[?](../fejl-og-ansvar/)
+### Spørgsmål og svar om fejl og ansvar (02-10-2020) {#42bdc012-7c2e-4ac9-92d2-ce5fad882dc6}
 
-### Spørgsmål og svar om fejl og ansvar (02-10-2020)
+### Spørgsmål og svar om altaner og certificerede rådgivere (11-12-2020) {#4d82c1df-ca5c-4814-bccc-0ca21aa321b7}
 
-[?](../altaner/)
+### Spørgsmål og svar om lovliggørelse og certificerede rådgivere (30-09-2020) {#f7eaf828-0851-48c5-a84f-024102e4d980}
 
-### Spørgsmål og svar om altaner og certificerede rådgivere (11-12-2020)
+### Spørgsmål og svar om ansættelse og certificeret rådgiver (30-09-2020) {#cfd0a653-262e-46af-a232-b818d0cf1293}
 
-[?](../lovliggoerelse/)
+### Spørgsmål og svar om ændring af forudsætninger for byggetilladelse (17-06-2021) {#fea0ff48-260d-4e55-9a50-4325bd6a0bf6}
 
-### Spørgsmål og svar om lovliggørelse og certificerede rådgivere (30-09-2020)
+### Spørgsmål og svar vedrørende anvendelse af overgangsordning for anerkendte statikere (30-09-2020) {#4eb32e97-a2bc-4adc-bf5e-7d8ce14ae997}
 
-[?](../ansaettelse/)
-
-### Spørgsmål og svar om ansættelse og certificeret rådgiver (30-09-2020)
-
-[?](../aendring-af-forudsaetninger/)
-
-### Spørgsmål og svar om ændring af forudsætninger for byggetilladelse (17-06-2021)
-
-[?](../overgangsperiode/)
-
-### Spørgsmål og svar vedrørende anvendelse af overgangsordning for anerkendte statikere (30-09-2020)
-
-[?](./)
-
-### Spørgsmål og svar om kontrol af dokumentation til starterklæring (30-09-2020)
+### Spørgsmål og svar om kontrol af dokumentation til starterklæring (30-09-2020) {#ac2083a4-6276-48a6-b4c6-699524bb5a50}
 
 **Skal den dokumentation, der indsendes til kommunen sammen med starterklæringen i forbindelse med ansøgning om byggetilladelse, kontrolleres? (30-09-2020)**
 
-Den dokumentation, der indsendes til kommunen sammen med starterklæringen i forbindelse med ansøgning om byggetilladelse, skal være kontrolleret, jf. [BR18, bilag 3](/bilag/b3/bilag_3/). Ligeledes skal der foreligge en kontrolplan, der svarer til projektets stade. Eventuelle fejl i dokumentationen bør derfor allerede være håndteret, når dokumentationen er fremsendt til kommunen.
+Den dokumentation, der indsendes til kommunen sammen med starterklæringen i forbindelse med ansøgning om byggetilladelse, skal være kontrolleret, jf. BR18, bilag 3. Ligeledes skal der foreligge en kontrolplan, der svarer til projektets stade. Eventuelle fejl i dokumentationen bør derfor allerede være håndteret, når dokumentationen er fremsendt til kommunen.
 
 I starterklæringen har den certificerede rådgiver skrevet under på, at den fremsendte dokumentation er kontrolleret og fundet retvisende. Den certificerede rådgiver skal godtgøre, at byggearbejdet vil overholde bygningsreglementets krav for den del, som den certificerede har virket indenfor.
 
@@ -68,18 +54,10 @@ Supplerende for brandforhold omfatter kommunens sagsbehandling ligeledes en vurd
 
 Kommunen foretager derfor ingen yderligere kontrol af den dokumentation, som de har modtaget sammen med starterklæringen, men såfremt kommunen bliver opmærksom på et ulovligt forhold, er kommunen forpligtet til at søge forholdet lovliggjort.
 
-[?](../pavilloner/)
+### Spørgsmål og svar om pavilloner (30-09-2020) {#aeee6c6d-2dab-4ac0-a159-bad2a9dcfbba}
 
-### Spørgsmål og svar om pavilloner (30-09-2020)
+### Spørgsmål og svar om udpegning og indgåelse af aftale med en tredjepartskontrollant fx for totalentrepriser (05-03-2021) {#222254d7-f17e-4cab-9185-a65811fe219e}
 
-[?](../udpegning-og-indgaaelse-af-aftale-med-en-tredjepartskontrollant/)
+### Spørgsmål og svar om at tage en bygning helt eller delvist i brug (13-12-2023) {#b0a34821-eabf-4a65-97d1-60f25e0fff75}
 
-### Spørgsmål og svar om udpegning og indgåelse af aftale med en tredjepartskontrollant fx for totalentrepriser (05-03-2021)
-
-[?](../regler-om-ibrugtagelse/)
-
-### Spørgsmål og svar om at tage en bygning helt eller delvist i brug (13-12-2023)
-
-[?](../primitive-bygninger/)
-
-### Spørgsmål og svar om primitive bygninger (09-01-2024)
+### Spørgsmål og svar om primitive bygninger (09-01-2024) {#39fe6d0e-f128-4c3a-b757-0bfc93c34b6b}

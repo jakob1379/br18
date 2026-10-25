@@ -22,17 +22,11 @@
 
 ## Vejledning om opførelse af sekundær bebyggelse med et samlet areal på højst 50 m2
 
-[1.0.](../1_0_indledning/)
+### 1.0. Indledning {#261b8b2e-1b20-4582-b46e-a8e529044717}
 
-### Indledning
+### 2.0. Hvor meget må man bygge? {#6a342020-cf53-43dc-9f54-1e63ef0b9273}
 
-[2.0.](../2_0_hvor_meget_maa_man_bygge/)
-
-### Hvor meget må man bygge?
-
-[3.0.](./)
-
-### Brandforhold
+### 3.0. Brandforhold {#6878ba72-8872-435d-8988-768f98a45f05}
 
 Det er vigtigt, at bygningsreglementets bestemmelser om brandforhold overholdes ved opførelse af sekundær bebyggelse på grunden. Dette er afgørende for, at der opnås og opretholdes tilfredsstillende sikkerhed mod brand og brandspredning til andre bygninger på egen og omkringliggende grunde.
 
@@ -40,7 +34,7 @@ Ved sekundær bebyggelse skelnes der mellem byggeri, der bygges sammen med den p
 
 Det kan på samme måde have betydning for brandsikringen, hvis man bygger tæt på skel. Konkret kan det eksempelvis have betydning for, hvilke materialer, som du skal bygge med, og om du skal lave en brandvæg mod skel for at forhindre brandspredning.
 
-Vi henviser i øvrigt til Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) – Brand, [Bilag 1](/bilag/b1/bilag_1/) – Præ-accepterede løsninger – Enfamiliehuse, afsnit 4.6, der omhandler særlige forhold ved sekundær bebyggelse.
+Vi henviser i øvrigt til Bygningsreglementets vejledning til kapitel 5 – Brand, Bilag 1 – Præ-accepterede løsninger – Enfamiliehuse, afsnit 4.6, der omhandler særlige forhold ved sekundær bebyggelse.
 
 **Eksempel 1:**
 
@@ -64,50 +58,26 @@ Vi henviser i øvrigt til Bygningsreglementets vejledning til [kapitel 5](/tekni
 
 *Det er en forudsætning, at bygningsreglementet, deklarationer og anden lovgivning overholdes.*
 
-  [4.0.](../4_0_bebyggelsesregulerende/)
+### 4.0. Bebyggelsesregulerende bestemmelser for sekundær bebyggelse {#2aacad95-d2ec-4756-9876-47afb7f43a68}
 
-### Bebyggelsesregulerende bestemmelser for sekundær bebyggelse
+### 4.1. Bebyggelse i skelbræmmen {#5f2f5eb0-99ff-4bed-9784-46c8080b9ca8}
 
-[4.1.](../4_1_bebyggelse-i-skelbraemmen/)
+### 4.1.1. Betingelser for opførelse af sekundær bebyggelse nærmere skel mod nabo og sti end 2,5 meter {#215df4b5-8346-4df4-a6c9-24d557dee493}
 
-### Bebyggelse i skelbræmmen
+### 4.1.2. Sekundær bebyggelse, der placeres længere fra skel end 2,5 meter {#b36ca33a-453b-4cfd-b16f-267842e4518c}
 
-[4.1.1.](../4_1_1_betingelser_for_opfoerelse_af_sekundaer_bebyggelse/)
+### 4.1.3. Sekundær bebyggelse i tilknytning til sommerhuse {#83fd48d6-b801-4442-b94d-9b2a769c54db}
 
-### Betingelser for opførelse af sekundær bebyggelse nærmere skel mod nabo og sti end 2,5 meter
+### 5.0. Fradragsreglen {#68a81df4-34a2-4264-8061-399efbdf0101}
 
-[4.1.2.](../4_1_2_sekundaer_bebyggelse_skel_end_2_5_meter/)
+### 6.0. Integrerede og sammenbyggede bygninger {#b1eb4379-b434-4b01-9edf-6f1171cb9a6c}
 
-### Sekundær bebyggelse, der placeres længere fra skel end 2,5 meter
+### 6.1. Integrerede bygninger {#19135047-7563-4564-8248-6236e1217a23}
 
-[4.1.3.](../4_1_3_sekundaer_bebyggelse_i_tilknytning_til_sommerhuse/)
+### 6.2. Sammenbyggede bygninger {#7ca29333-9a2b-49fc-a789-19d32f852f16}
 
-### Sekundær bebyggelse i tilknytning til sommerhuse
+### 7.0. Nedrivning {#5bad03fc-cc9d-4b2d-9977-b9576eb55efb}
 
-[5.0.](../5_0_fradragsreglen/)
+### 8.0. Anden lovgivning {#4b0fb2ea-7300-4ce4-a3d9-c5955771783c}
 
-### Fradragsreglen
-
-[6.0.](../6_0_integrerede-og-sammenbyggede-bygninger/)
-
-### Integrerede og sammenbyggede bygninger
-
-[6.1.](../6_1_integrerede-bygninger/)
-
-### Integrerede bygninger
-
-[6.2.](../6_2_sammenbyggede-bygninger/)
-
-### Sammenbyggede bygninger
-
-[7.0.](../7_0_nedrivning/)
-
-### Nedrivning
-
-[8.0.](../8_0_anden_lov/)
-
-### Anden lovgivning
-
-[9.0.](../9_0_hvad-skal-man-huske/)
-
-### Hvad skal man huske?
+### 9.0. Hvad skal man huske? {#cbaf7f4f-594c-41d5-bc32-c40d16d9674e}

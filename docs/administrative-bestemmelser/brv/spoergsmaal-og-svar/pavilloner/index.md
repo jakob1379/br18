@@ -22,37 +22,21 @@
 
 ## Spørgsmål og svar
 
-[?](../fejl-og-ansvar/)
+### Spørgsmål og svar om fejl og ansvar (02-10-2020) {#42bdc012-7c2e-4ac9-92d2-ce5fad882dc6}
 
-### Spørgsmål og svar om fejl og ansvar (02-10-2020)
+### Spørgsmål og svar om altaner og certificerede rådgivere (11-12-2020) {#4d82c1df-ca5c-4814-bccc-0ca21aa321b7}
 
-[?](../altaner/)
+### Spørgsmål og svar om lovliggørelse og certificerede rådgivere (30-09-2020) {#f7eaf828-0851-48c5-a84f-024102e4d980}
 
-### Spørgsmål og svar om altaner og certificerede rådgivere (11-12-2020)
+### Spørgsmål og svar om ansættelse og certificeret rådgiver (30-09-2020) {#cfd0a653-262e-46af-a232-b818d0cf1293}
 
-[?](../lovliggoerelse/)
+### Spørgsmål og svar om ændring af forudsætninger for byggetilladelse (17-06-2021) {#fea0ff48-260d-4e55-9a50-4325bd6a0bf6}
 
-### Spørgsmål og svar om lovliggørelse og certificerede rådgivere (30-09-2020)
+### Spørgsmål og svar vedrørende anvendelse af overgangsordning for anerkendte statikere (30-09-2020) {#4eb32e97-a2bc-4adc-bf5e-7d8ce14ae997}
 
-[?](../ansaettelse/)
+### Spørgsmål og svar om kontrol af dokumentation til starterklæring (30-09-2020) {#ac2083a4-6276-48a6-b4c6-699524bb5a50}
 
-### Spørgsmål og svar om ansættelse og certificeret rådgiver (30-09-2020)
-
-[?](../aendring-af-forudsaetninger/)
-
-### Spørgsmål og svar om ændring af forudsætninger for byggetilladelse (17-06-2021)
-
-[?](../overgangsperiode/)
-
-### Spørgsmål og svar vedrørende anvendelse af overgangsordning for anerkendte statikere (30-09-2020)
-
-[?](../materiale-til-starterklaering/)
-
-### Spørgsmål og svar om kontrol af dokumentation til starterklæring (30-09-2020)
-
-[?](./)
-
-### Spørgsmål og svar om pavilloner (30-09-2020)
+### Spørgsmål og svar om pavilloner (30-09-2020) {#aeee6c6d-2dab-4ac0-a159-bad2a9dcfbba}
 
 **Hvad er reglerne for brand- og konstruktionsforhold ved opsætning af pavilloner, og hvornår skal der søges om byggetilladelse? (30-09-2020)**
 
@@ -60,25 +44,25 @@ Med pavilloner forstås flytbare præproducerede moduler, der kan opstilles f.ek
 
 Pavilloner kan betragtes som transportable konstruktioner og kan opsættes i overensstemmelse med følgende betingelser i bygningsreglementet.
 
-Transportable konstruktioner i brandklasse 2-4, som opstilles midlertidigt på camping- og salgsområder samt i forsamlingslokaler, idrætshaller og lignende er ikke omfattet af denne FAQ, jf. BR18, [§ 30a](/administrative-bestemmelser/krav/30_30c/).
+Transportable konstruktioner i brandklasse 2-4, som opstilles midlertidigt på camping- og salgsområder samt i forsamlingslokaler, idrætshaller og lignende er ikke omfattet af denne FAQ, jf. BR18, § 30a.
 
 *Opstilling med en varighed på højst 6 uger:*
 
-Styrelsen vurderer, at pavilloner er omfattet af BR18, [§ 6b, stk. 1, nr. 6](/administrative-bestemmelser/krav/6b-6e/). De kan derfor opstilles uden byggetilladelse med en varighed på op til højst 6 uger. Herefter er der krav om byggetilladelse, jf. BR18, [§ 6d](/administrative-bestemmelser/krav/6b-6e/).
+Styrelsen vurderer, at pavilloner er omfattet af BR18, § 6b, stk. 1, nr. 6. De kan derfor opstilles uden byggetilladelse med en varighed på op til højst 6 uger. Herefter er der krav om byggetilladelse, jf. BR18, § 6d.
 
-Pavilloner kan, hvis de er certificeret i henhold til [bekendtgørelse om certificeringsordning for transportable konstruktioner](https://www.retsinformation.dk/eli/lta/2019/673), opstilles i flere etager uden byggetilladelse med en varighed på højst 6 uger, jf. [§ 6b, stk. 2, nr. 3](/administrative-bestemmelser/krav/6b-6e/). Herefter er der krav om byggetilladelse, jf. BR18, [§ 6d](/administrative-bestemmelser/krav/6b-6e/). Dette omfatter også modulopbyggede pavilloner.
+Pavilloner kan, hvis de er certificeret i henhold til bekendtgørelse om certificeringsordning for transportable konstruktioner, opstilles i flere etager uden byggetilladelse med en varighed på højst 6 uger, jf. § 6b, stk. 2, nr. 3. Herefter er der krav om byggetilladelse, jf. BR18, § 6d. Dette omfatter også modulopbyggede pavilloner.
 
-Kravene til pavilloner er angivet i BR18, [§ 6b, stk. 3](/administrative-bestemmelser/krav/6b-6e/).
+Kravene til pavilloner er angivet i BR18, § 6b, stk. 3.
 
-Pavilloner opstillet på byggepladser, der er omfattet af BR18, [§ 6a](/administrative-bestemmelser/krav/6a/), er undtaget ovenstående.
+Pavilloner opstillet på byggepladser, der er omfattet af BR18, § 6a, er undtaget ovenstående.
 
 For pavilloner, som skal anvendes til overnatning, er der altid krav om byggetilladelse.
 
 *Opstilling med en varighed af mere end 6 uger:*
 
-Pavilloner, der opstilles på samme sted i mere end 6 uger, er omfattet af [§ 6d](/administrative-bestemmelser/krav/6b-6e/), som angiver, at transportable konstruktioner, der opstilles med en varighed på mere end 6 uger på den samme placering, ikke må opstilles uden byggetilladelse fra kommunalbestyrelsen, jf. [§ 7](/administrative-bestemmelser/krav/7_15/).
+Pavilloner, der opstilles på samme sted i mere end 6 uger, er omfattet af § 6d, som angiver, at transportable konstruktioner, der opstilles med en varighed på mere end 6 uger på den samme placering, ikke må opstilles uden byggetilladelse fra kommunalbestyrelsen, jf. § 7.
 
-Ved byggesagsbehandling af en certificeret konstruktion, omfattet af [§ 6b, stk. 3](/administrative-bestemmelser/krav/6b-6e/), der ønskes opstillet i mere end 6 uger, kan certifikatet lægges til grund for opfyldelse af de tekniske krav, og det er alene de bebyggelsesregulerende forhold, der skal byggesagsbehandles. Bestemmelsen omfatter ikke transportable konstruktioner, som opstilles på byggepladser, jf. BR18 [§ 6a, stk. 1, nr. 1](/administrative-bestemmelser/krav/6a/) og 2*.*
+Ved byggesagsbehandling af en certificeret konstruktion, omfattet af § 6b, stk. 3, der ønskes opstillet i mere end 6 uger, kan certifikatet lægges til grund for opfyldelse af de tekniske krav, og det er alene de bebyggelsesregulerende forhold, der skal byggesagsbehandles. Bestemmelsen omfatter ikke transportable konstruktioner, som opstilles på byggepladser, jf. BR18 § 6a, stk. 1, nr. 1 og 2*.*
 
 Dette betyder, at pavilloner, der opstilles i mere end 6 uger på samme sted, generelt skal opfylde bygningsreglementets krav til den anvendelse, de skal benyttes til, og der skal søges byggetilladelse til opstillingen.
 
@@ -86,7 +70,7 @@ Dette betyder, at pavilloner, der opstilles i mere end 6 uger på samme sted, ge
 
 For pavilloner, der indplaceres i brandklasse 1, er der ikke krav om, at dokumentationen for brandforhold udfærdiges af en certificeret brandrådgiver.
 
-Dette betyder, at dokumentationen for brandforhold kan udarbejdes af ansøger selv eller dennes rådgiver f.eks. leverandøren af pavillonen. Det er i denne sammenhæng vigtigt at være klar over hvilke pavilloner, der vil være indplaceret i brandklasse 1. Reglerne for indplacering i brandklasse 1 fremgår nærmere af bygningsreglementets [kapitel 27](/ovrige-bestemmelser/27/) og [bilag 1](/bilag/b1/bilag_1/). Overordnet vil følgende pavilloner være indplaceret i brandklasse 1:
+Dette betyder, at dokumentationen for brandforhold kan udarbejdes af ansøger selv eller dennes rådgiver f.eks. leverandøren af pavillonen. Det er i denne sammenhæng vigtigt at være klar over hvilke pavilloner, der vil være indplaceret i brandklasse 1. Reglerne for indplacering i brandklasse 1 fremgår nærmere af bygningsreglementets kapitel 27 og bilag 1. Overordnet vil følgende pavilloner være indplaceret i brandklasse 1:
 
 Pavilloner i anvendelseskategori 1 i højst 1 etage og med en brandbelastning på højst 1.600 MJ/m² gulvareal. Disse skal dog være fritliggende eller brandmæssigt adskilt for hver 600 m². Anvendelseskategori 1 omfatter:
 
@@ -130,13 +114,13 @@ Pavilloner, der kan udføres som anvendelseskasse 4 og indplaceres i brandklasse
 
 For pavilloner, der indplaceres i brandklasse 2-4, skal der tilknyttes en certificeret brandrådgiver, der skal udfærdige den brandtekniske dokumentation.
 
-Med henvisning til BR18, [§ 6d](/administrative-bestemmelser/krav/6b-6e/) vil det være en fordel at have certificerede pavilloner, da certifikatet kan lægges til grund for opfyldelse af de tekniske krav, og det er alene de bebyggelsesregulerende forhold, der skal byggesagsbehandles.
+Med henvisning til BR18, § 6d vil det være en fordel at have certificerede pavilloner, da certifikatet kan lægges til grund for opfyldelse af de tekniske krav, og det er alene de bebyggelsesregulerende forhold, der skal byggesagsbehandles.
 
 *Konstruktionsmæssige forhold for konstruktionsklasse 1*
 
 For pavilloner, der vil være indplaceret i konstruktionsklasse 1, er der ikke krav om, at dokumentationen udfærdiges af en certificeret statiker. Dette betyder, at dokumentationen for pavilloner, der er omfattet af konstruktionsklasse 1, kan udarbejdes af ansøger selv eller dennes rådgiver, f.eks. leverandøren af pavillonen.
 
-Reglerne for indplacering i konstruktionsklasse 1 fremgår nærmere af BR18, [kapitel 26](/ovrige-bestemmelser/26/).
+Reglerne for indplacering i konstruktionsklasse 1 fremgår nærmere af BR18, kapitel 26.
 
 Det er styrelsens vurdering, at følgende pavilloner skal indplaceres i konstruktionsklasse 1:
 
@@ -146,34 +130,28 @@ Det er styrelsens vurdering, at følgende pavilloner skal indplaceres i konstruk
 
 *Konstruktionsmæssige forhold for konstruktionsklasse 2-4*
 
-Med henvisning til BR18, [§ 6d](/administrative-bestemmelser/krav/6b-6e/) vil det være en fordel at have certificerede pavilloner, da certifikatet kan lægges til grund for opfyldelse af de tekniske krav, og det er alene de bebyggelsesregulerende forhold, der skal byggesagsbehandles.
+Med henvisning til BR18, § 6d vil det være en fordel at have certificerede pavilloner, da certifikatet kan lægges til grund for opfyldelse af de tekniske krav, og det er alene de bebyggelsesregulerende forhold, der skal byggesagsbehandles.
 
 For pavilloner, der indplaceres i konstruktionsklasse 2-4, skal der i forbindelse med ansøgningen om byggetilladelse tilknyttes en certificeret statiker, der skal udfærdige den samlede statiske dokumentation.
 
 Dette betyder, at dokumentationen for de bærende dele af pavillonen enten kan udarbejdes af ansøger selv eller dennes rådgiver, f.eks. leverandøren af pavillonen, og kontrolleres af den certificerede statiker. Ellers kan den certificerede statiker udarbejde dokumentationen, som kontrolleres af en anden faglig kompetent person. Der skal udarbejdes en starterklæring af den certificerede statiker.
 
-Reglerne for indplacering i konstruktionsklasse 2-4 fremgår nærmere af BR18, [kapitel 26](/ovrige-bestemmelser/26/). I forhold til hvilke konsekvensklasser, som konstruktionsklasserne skal henregnes til, kan der hentes mere inspiration i DS/INF 1990.
+Reglerne for indplacering i konstruktionsklasse 2-4 fremgår nærmere af BR18, kapitel 26. I forhold til hvilke konsekvensklasser, som konstruktionsklasserne skal henregnes til, kan der hentes mere inspiration i DS/INF 1990.
 
 Typisk vil pavilloner, der anvendes til andet end enfamiliehuse, skulle henregnes til CC2, og de kan opfattes som simpelt og traditionelt byggeri.
 
 *Dokumentation af de statiske forhold for pavilloner*
 
-Der skal foreligge dokumentation i henhold til [kapitel 28](/ovrige-bestemmelser/28/), som godtgør, at pavillonen overholder bygningsreglementets krav til bærende konstruktioner, jf. [kapitel 15](/tekniske-bestemmelser/15/).
+Der skal foreligge dokumentation i henhold til kapitel 28, som godtgør, at pavillonen overholder bygningsreglementets krav til bærende konstruktioner, jf. kapitel 15.
 
 For eksisterende pavilloner, der ønskes genbrugt, skal der foreligge dokumentation for, at den eksisterende pavillon efterlever kravene til bærende konstruktioner i henhold til det bygningsreglement, hvorefter pavillonen er opført.
 
-For pavilloner, der ikke er certificeret som transportable konstruktioner, skal der til ansøgningen bl.a. udfærdiges starterklæring, dokumentation for indplacering i konstruktionsklasse, herunder kontrolplan for opsættelsen, og ved færdigmelding skal der udfærdiges kontrolrapport i overensstemmelse med [kapitel 30](/ovrige-bestemmelser/30/).
+For pavilloner, der ikke er certificeret som transportable konstruktioner, skal der til ansøgningen bl.a. udfærdiges starterklæring, dokumentation for indplacering i konstruktionsklasse, herunder kontrolplan for opsættelsen, og ved færdigmelding skal der udfærdiges kontrolrapport i overensstemmelse med kapitel 30.
 
 Kontrolplaner og kontrolrapporter kan standardiseres, så den samme skabelon kan benyttes hver gang til de pavilloner, der udføres på samme måde.
 
-[?](../udpegning-og-indgaaelse-af-aftale-med-en-tredjepartskontrollant/)
+### Spørgsmål og svar om udpegning og indgåelse af aftale med en tredjepartskontrollant fx for totalentrepriser (05-03-2021) {#222254d7-f17e-4cab-9185-a65811fe219e}
 
-### Spørgsmål og svar om udpegning og indgåelse af aftale med en tredjepartskontrollant fx for totalentrepriser (05-03-2021)
+### Spørgsmål og svar om at tage en bygning helt eller delvist i brug (13-12-2023) {#b0a34821-eabf-4a65-97d1-60f25e0fff75}
 
-[?](../regler-om-ibrugtagelse/)
-
-### Spørgsmål og svar om at tage en bygning helt eller delvist i brug (13-12-2023)
-
-[?](../primitive-bygninger/)
-
-### Spørgsmål og svar om primitive bygninger (09-01-2024)
+### Spørgsmål og svar om primitive bygninger (09-01-2024) {#39fe6d0e-f128-4c3a-b757-0bfc93c34b6b}

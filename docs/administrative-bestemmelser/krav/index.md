@@ -14,13 +14,7 @@ Bygningsreglementet finder anvendelse ved følgende typer af byggearbejder:
 
 2) Tilbygning til bebyggelse.
 
-3) Ombygning af og andre forandringer i bebyggelse, som er væsentlige i forhold til byggeloven eller bygningsreglementet.
-
-4) Ændringer i benyttelse af bebyggelse, som er væsentlige i forhold til byggeloven eller bygningsreglementet.
-
-5) Nedrivning af bebyggelse.
-
-6) Vedligeholdelsesbyggearbejder, ombygninger og andre forandringer i bestående bebyggelse, som har betydning for energiforbruget i bygningen.
+3) Ombygning af og andre forandringer i bebyggelse, som er væsentlige i forhold til byggeloven eller bygningsreglementet.   4) Ændringer i benyttelse af bebyggelse, som er væsentlige i forhold til byggeloven eller bygningsreglementet.   5) Nedrivning af bebyggelse.   6) Vedligeholdelsesbyggearbejder, ombygninger og andre forandringer i bestående bebyggelse, som har betydning for energiforbruget i bygningen.
 
 ### § 3 {#paragraf-3}
 
@@ -34,15 +28,7 @@ Bygningsreglementet gælder ikke for:
 
 1) Broer, tunneler og andre anlæg til trafikale formål, som udføres af eller godkendes af vej-, jernbane- eller andre myndigheder eller selskaber, der ved lov er ansvarlige for byggearbejdet, samt midlertidige konstruktioner og anlæg, der er nødvendige for disse byggearbejders udførelse.
 
-2) Master til elforsyningsanlæg, almindelige master til elinstallationer, herunder vejbelysningsanlæg og master til offentlige elektriske baners køreledningsanlæg.
-
-3) Læskærme ved stoppesteder og lignende.
-
-4) Transformerstationer og kabelskabe for fremføring af elektricitet, måle- og trykregulatorstationer for fremføring af gas, pumpestationer og trykforøgeranlæg for vand-, afløbs- og fjernvarmesystemer samt radio- og blokhytter og relæhuse til offentlig trafik med et areal på højst 30 m² og en højde, der ikke overstiger 3,0 m.
-
-5) Sireneenheder til varslingsanlæg, som udføres af eller godkendes af Beredskabsstyrelsen.
-
-6) Hegnsmure ved skel mod nabo, vej og sti på højst 1,8 m.
+2) Master til elforsyningsanlæg, almindelige master til elinstallationer, herunder vejbelysningsanlæg og master til offentlige elektriske baners køreledningsanlæg.   3) Læskærme ved stoppesteder og lignende.   4) Transformerstationer og kabelskabe for fremføring af elektricitet, måle- og trykregulatorstationer for fremføring af gas, pumpestationer og trykforøgeranlæg for vand-, afløbs- og fjernvarmesystemer samt radio- og blokhytter og relæhuse til offentlig trafik med et areal på højst 30 m² og en højde, der ikke overstiger 3,0 m.   5) Sireneenheder til varslingsanlæg, som udføres af eller godkendes af Beredskabsstyrelsen.   6) Hegnsmure ved skel mod nabo, vej og sti på højst 1,8 m.
 
 7\) Midlertidige udendørs camping- og salgsområder og lignende til højst 150 personer.
 
@@ -64,9 +50,7 @@ Følgende typer af byggearbejder skal overholde bygningsreglementet, men kan udf
 
 3) Ombygninger og andre forandringer af enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse. Ombygningen eller forandringen må ikke medføre en væsentlig anvendelsesændring eller en udvidelse af etagearealet og skal udføres i overensstemmelse med de præ-accepterede løsninger, som er beskrevet i Bygningsreglementets vejledning til kapitel 5 – Brand. En udvendig efterisolering på maksimalt 25 cm betragtes ikke som en udvidelse af etagearealet.
 
-4) Ombygninger og andre forandringer i eksisterende byggeri, som ikke er omfattet af nr. 2 og 3, og som ikke ændrer de bærende konstruktioners virkemåde eller forudsætningerne for de brandmæssige forhold. Ombygningen eller forandringen må ikke medføre en væsentlig anvendelsesændring eller en udvidelse af etagearealet. En udvendig efterisolering på maksimalt 25 cm betragtes ikke som en udvidelse af etagearealet. Ændringer af lastvirkning på mindre end 5 pct. i forhold til eksisterende dokumentation og uændret statisk virkemåde af konstruktionen betragtes ikke som en ændring.
-
-5) Udendørs svømmebassiner og havepejse i tilknytning til enfamiliehuse, tofamiliehuse, dobbelthuse og sommerhuse.
+4) Ombygninger og andre forandringer i eksisterende byggeri, som ikke er omfattet af nr. 2 og 3, og som ikke ændrer de bærende konstruktioners virkemåde eller forudsætningerne for de brandmæssige forhold. Ombygningen eller forandringen må ikke medføre en væsentlig anvendelsesændring eller en udvidelse af etagearealet. En udvendig efterisolering på maksimalt 25 cm betragtes ikke som en udvidelse af etagearealet. Ændringer af lastvirkning på mindre end 5 pct. i forhold til eksisterende dokumentation og uændret statisk virkemåde af konstruktionen betragtes ikke som en ændring.   5) Udendørs svømmebassiner og havepejse i tilknytning til enfamiliehuse, tofamiliehuse, dobbelthuse og sommerhuse.
 
 6) Vedligeholdelsesbyggearbejder, ombygninger og andre forandringer i bestående bebyggelse, som har betydning for energiforbruget i bygningen, og som er omfattet af byggelovens § 2, stk. 1, litra e.
 
@@ -178,13 +162,9 @@ Følgende konstruktioner skal overholde bygningsreglementet, men kan opstilles u
 
 2) Konstruktioner i kapitel 15. Telte med et samlet areal på højst 50 m^2^ er dog ikke omfattet af reglerne i kapitel 15.
 
-*Stk. 3.* Konstruktionerne nævnt i stk. 1, nr. 2, er omfattet af følgende krav i det omfang, de er relevante:
+*Stk. 3.* Konstruktionerne nævnt i stk. 1, nr. 2, er omfattet af følgende krav i det omfang, de er relevante:   1) Brandforhold i kapitel 5.
 
-1) Brandforhold i kapitel 5.
-
-2) Indretning af byggepladser og udførelse af byggearbejder i kapitel 7.
-
-3) Energiforbrug i §§ 287-292.
+2) Indretning af byggepladser og udførelse af byggearbejder i kapitel 7. 3) Energiforbrug i §§ 287-292.
 
 4) Konstruktioner i kapitel 15. Telte med et samlet areal  på højst 50 m^2^ er dog ikke omfattet af reglerne i kapitel 15.
 
@@ -226,9 +206,7 @@ Følgende transportable konstruktioner skal overholde bygningsreglementet, men k
 
 8) Portaler, med og uden inddækning, der udføres, placeres eller anvendes på en sådan måde, at der ved et svigt kan være risiko for væsentlig personskade.
 
-9) Gangbroer, der er over 1,0 m i højden, med eller uden færdsel under gangbroen, uanset om gangbroen er med eller uden overdækning.
-
-10) Alle overdækninger over gangbroer.
+9) Gangbroer, der er over 1,0 m i højden, med eller uden færdsel under gangbroen, uanset om gangbroen er med eller uden overdækning.   10) Alle overdækninger over gangbroer.
 
 11) Tårne, storskærme, mobilantenner, højtalertårne, skillevægge og lignende selvstående konstruktioner, der udføres, placeres eller anvendes på en sådan måde, at der ved et svigt kan være risiko for væsentlig personskade.
 
@@ -236,11 +214,7 @@ Følgende transportable konstruktioner skal overholde bygningsreglementet, men k
 
 *Stk. 3.* De transportable konstruktioner nævnt i stk. 1 og stk. 2 er omfattet af følgende krav:
 
-1) Byggeret i kapitel 8. Bestemmelserne i kapitel 8 gælder kun for konstruktioner, der opstilles med en varighed på over 6 uger.
-
-2) Adgangsforhold ved bygningen i §§ 51-54.
-
-3) Værn i §§ 58-60.
+1) Byggeret i kapitel 8. Bestemmelserne i kapitel 8 gælder kun for konstruktioner, der opstilles med en varighed på over 6 uger.   2) Adgangsforhold ved bygningen i §§ 51-54.   3) Værn i §§ 58-60.
 
 4) Konstruktioner i kapitel 15. Telte med et samlet areal på højst 50 m^2^ er ikke omfattet af reglerne i kapitel 15.
 
@@ -632,11 +606,19 @@ Ved ansøgning om byggetilladelse til byggearbejde i brandklasse 2-4 skal følge
 
 ### § 24 {#paragraf-24}
 
-*(Ophævet)* § 25 *(Ophævet)*
+*(Ophævet)*
+
+### § 25 {#paragraf-25}
+
+*(Ophævet)*
 
 ### § 26 {#paragraf-26}
 
-*(Ophævet)* § 27 *(Ophævet)*
+*(Ophævet)*
+
+### § 27 {#paragraf-27}
+
+*(Ophævet)*
 
 ## § 28 - § 29 Lovliggørelse af bærende konstruktioner og brandforhold {#a29b13fd-f15d-41a0-a55d-6b9c98a3e5af}
 
@@ -730,7 +712,7 @@ Ved ansøgning om byggetilladelse for midlertidige transportable konstruktioner,
 
 2) Erklæring, hvori det angives
 
-a) at dokumentationen for bærende konstruktioner, er fremsendt,
+  a) at dokumentationen for bærende konstruktioner, er fremsendt,
 
 b) at der er valgt de korrekte konsekvensklasser, og at dokumentationen herfor er retvisende,
 
@@ -788,7 +770,15 @@ Ved ansøgning om byggetilladelse til transportable konstruktioner i brandklasse
 
 ### § 32 {#paragraf-32}
 
-(Ophævet) § 33 (Ophævet) § 34 (Ophævet)
+(Ophævet)
+
+### § 33 {#paragraf-33}
+
+(Ophævet)
+
+### § 34 {#paragraf-34}
+
+(Ophævet)
 
 ## § 35 - § 38 Byggetilladelse {#7d4ad1e5-ef49-4ac2-a41b-b956ef5d136f}
 
@@ -860,9 +850,7 @@ Byggearbejder, der kræver byggetilladelse, skal færdigmeldes til kommunalbesty
 
 3) Erklæring om, at der er fremsendt fyldestgørende dokumentation, der viser, at bygningsreglementets bestemmelser er opfyldt, samt at der er fremsendt drifts- og vedligeholdelsesmanual for bebyggelsens installationer, jf. §§ 80, 328, 392, 419 og 452.
 
-4) Dokumentation for overholdelse af bygningsreglementets bestemmelser i den færdige bygning. Dokumentationen skal bestå af al for byggearbejdet relevant materiale, herunder overordnede beskrivelser, forudsætninger, beregninger, tegningsmateriale, prøvninger, målinger mv. Det skal ved det fremsendte dokumenteres, hvordan specifikke niveauer er fastsat på baggrund af bygningsreglementets funktionskrav, og hvordan de specifikke niveauer eller detailkrav i bygningsreglementet opfyldes.
-
-5) Drift- og vedligeholdelsesmanual for bebyggelsens installationer, jf. §§ 80, 328, 392, 419 og 452.
+4) Dokumentation for overholdelse af bygningsreglementets bestemmelser i den færdige bygning. Dokumentationen skal bestå af al for byggearbejdet relevant materiale, herunder overordnede beskrivelser, forudsætninger, beregninger, tegningsmateriale, prøvninger, målinger mv. Det skal ved det fremsendte dokumenteres, hvordan specifikke niveauer er fastsat på baggrund af bygningsreglementets funktionskrav, og hvordan de specifikke niveauer eller detailkrav i bygningsreglementet opfyldes. 5) Drift- og vedligeholdelsesmanual for bebyggelsens installationer, jf. §§ 80, 328, 392, 419 og 452.
 
 *Stk. 3.* Bygningsejeren har pligt til at meddele forhold, som er af betydning for drift og ajourføring af BBR i overensstemmelse med bekendtgørelse om ajourføring af bygnings- og boligregistret.
 
@@ -900,9 +888,9 @@ Byggearbejder, der kræver byggetilladelse, må ikke tages i brug uden kommunalb
 
 Kommunalbestyrelsen kan give tilladelse til, at bebyggelse kan tages helt eller delvist i brug, selv om byggearbejdet endnu ikke er afsluttet. Kommunalbestyrelsen skal give en frist for byggeriets færdiggørelse og kan kræve sikkerhedsstillelse for færdiggørelsen. Såfremt fristen ikke overholdes, bortfalder tilladelsen til helt eller delvis brug af bebyggelsen, og byggeriet kan færdiggøres ved kommunalbestyrelsens foranstaltning for den stillede sikkerhed.
 
-*Stk. 2.* Kommunalbestyrelsen kan stille vilkår til ansøger i de tilfælde, hvor der gives tilladelse til, at bebyggelse kan tages helt eller delvist i brug, selv om byggearbejdet endnu ikke er afsluttet.
+*Stk. 2.* Kommunalbestyrelsen kan stille vilkår til ansøger i de tilfælde, hvor der gives tilladelse til, at bebyggelse kan tages helt eller delvist i brug, selv om byggearbejdet endnu ikke er afsluttet.
 
-*Stk. 3.* Stk. 1 finder også anvendelse på de byggesager, hvor der efter §§ 19 og 23 er fremsendt starterklæring.
+*Stk. 3.* Stk. 1 finder også anvendelse på de byggesager, hvor der efter §§ 19 og 23 er fremsendt starterklæring.
 
 ### § 45 {#paragraf-45}
 
