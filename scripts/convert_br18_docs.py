@@ -451,7 +451,7 @@ def normalize_markdown_linebreak_artifacts(markdown: str) -> str:
 
 def escape_unresolved_reference_labels(markdown: str) -> str:
     return re.sub(
-        r"(?<![!\\])\[([^\]\n]+)\](?![\[(])",
+        r"(?<![!\\])\[((?:[^\]\\\n]|\\.)+)\](?![\[(])",
         lambda match: rf"\[{match.group(1)}\]",
         markdown,
     )

@@ -181,6 +181,11 @@ class ConvertTest(unittest.TestCase):
         self.assertIn("[? Betragtes en altan som en enhed?](#aa480314-460a-49e3-a01d-ddd6aaa62881) Ja, der skal være", markdown)
         self.assertIn("### Handicaptoiletter {#334bd38a-2759-4aab-8d4a-a3689e0e2c2c}", markdown)
 
+    def test_footnote_reference_link_keeps_its_brackets(self) -> None:
+        markdown = self.convert('<p>som defineret i affaldsbekendtgørelsen<a href="#_ftn1">[1]</a> og [a] her.</p>')
+
+        self.assertIn("affaldsbekendtgørelsen[\\[1\\]](#_ftn1) og \\[a\\] her.", markdown)
+
     def test_empty_link_to_a_fragment_of_the_page_is_dropped(self) -> None:
         markdown = self.convert('<a href="#Indholdsoversigt" class="accordion__trigger"><svg></svg></a><p>Tekst</p>')
 
