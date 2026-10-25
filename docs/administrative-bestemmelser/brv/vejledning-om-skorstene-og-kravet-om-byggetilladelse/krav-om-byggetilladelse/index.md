@@ -24,7 +24,7 @@
 
 ### Skorstene og kravet om byggetilladelse
 
-### @@PROTECTED_17@@s anvendelsesområde
+### Byggelovens anvendelsesområde
 
 ### Krav om byggetilladelse
 

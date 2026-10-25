@@ -32,7 +32,7 @@
 
 [3.](./)
 
-### @@PROTECTED_20@@s regler for opkrævning af byggesagsgebyrer
+### Byggelovens regler for opkrævning af byggesagsgebyrer
 
 I dette afsnit gennemgås de regler i byggelovgivningen, der ligger til grund for gebyropkrævningen af byggesagsbehandlingen.     [Byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178)s^1^ [§ 28, stk. 1](/administrative-bestemmelser/krav/28_29/), bestemmer følgende:
 

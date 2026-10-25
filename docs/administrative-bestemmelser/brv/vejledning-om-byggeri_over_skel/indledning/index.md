@@ -34,4 +34,4 @@ Det er kommunalbestyrelsen, som er bygningsmyndighed, herefter omtalt som kommun
 
 ### Lovliggørelsessager
 
-### @@PROTECTED_19@@
+### Udstykningsloven {#f9b11c26-a215-48c6-ad79-4cc09287f3dc}

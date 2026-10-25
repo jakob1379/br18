@@ -30,13 +30,13 @@ Denne vejledning indeholder en beskrivelse af reglerne for, hvornår der er krav
 
 Reglerne for det lovpligtige skorstensfejerarbejde er fastsat i [skorstensfejerbekendtgørelsen](https://www.retsinformation.dk/Forms/R0710.aspx?id=191239), som er udstedt med hjemmel i [byggelovens § 15](https://www.retsinformation.dk/eli/lta/2016/1178).
 
-#### Se @@PROTECTED_20@@ her @@PROTECTED_21@@
+#### Se skorstensfejerbekendtgørelsen her [Se skorstensfejerbekendtgørelsen her](https://www.retsinformation.dk/Forms/R0710.aspx?id=191239){target="_blank"}
 
 Denne bekendtgørelse indeholder blandt andet regler om, at skorstene skal tilses og rengøres af en faglært person, der har bestået skorstensfejerfagets svendeprøve. **Det er en forudsætning for at kunne overholde kravene i [skorstensfejerbekendtgørelsen](https://www.retsinformation.dk/Forms/R0710.aspx?id=191239), at en skorsten anmeldes til Bygnings- og Boligregisteret (BBR).** Dette er bygningsejerens ansvar, idet det i henhold til [byggelovens § 17, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178), påhviler den til enhver tid værende ejer af en ejendom at sørge for, at ejendommen ikke er i strid med [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178) eller de i medfør af [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178) udstedte regler samt anden lovgivning
 
 I bygningsreglement 2018 benyttes terminologien aftrækssystemer for skorsten og røgrør med tilhørende samlinger og andre systemer af enhver art, der modtager forbrændingsprodukter fra et eller flere fyringsanlæg.
 
-### @@PROTECTED_26@@s anvendelsesområde
+### Byggelovens anvendelsesområde
 
 ### Krav om byggetilladelse
 
