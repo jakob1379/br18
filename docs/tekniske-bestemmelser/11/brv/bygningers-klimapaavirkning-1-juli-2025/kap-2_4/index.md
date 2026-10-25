@@ -376,7 +376,7 @@ Overordnet kan nævnes, at for de tekniske installationer medregnes tekniske anl
 
 Ud over ovenstående excel-baserede skema, er der som supplement udviklet et bygningssnit. Bygningssnittet har til formål at illustrere og uddybe de enkelte bygningsdeles placering i hovedgrupper og undergrupper. ([Bilag 2, tabel 6 -- Skitse til vejledning](../../../../../bilag/b2/bilag_2/tabel_6){rel="noopener noreferrer" target="_blank"})
 
-Bygningssnittet illustrer under hvilke hovedgrupper de enkelte konstruktioner skal placeres. Eksempelvis placeres murkronens overflader under hovedgruppen \"Ydervægge\" lige så vel som murkronens primærbygningsdel også placeres under hovedgruppen \"ydervægge\". Et andet eksempel er Etagedæk hvis primær bygningsdel placeres under hovedgruppen \"dæk\" og hvis gulvkonstruktion placeres under undergruppen \"gulve\".
+Bygningssnittet illustrer under hvilke hovedgrupper de enkelte konstruktioner skal placeres. Eksempelvis placeres murkronens overflader under hovedgruppen "Ydervægge" lige så vel som murkronens primærbygningsdel også placeres under hovedgruppen "ydervægge". Et andet eksempel er Etagedæk hvis primær bygningsdel placeres under hovedgruppen "dæk" og hvis gulvkonstruktion placeres under undergruppen "gulve".
 
 Her er det vigtigt at præcisere, at strukturering af mængder på LCA-beregningens input- side frit kan vælges af LCA-rådgiveren. For standardformatet er det alene afgørende, at der knyttes information om den rette hoved- og undergruppe på den enkelte konstruktion så dokumentationen til myndighederne efterfølgende kan ske i den korrekte struktur.
 
@@ -404,13 +404,13 @@ Excel-filen med mapping kan findes her: [Tabel 6 Mapping](../../../../../media/x
 
 #### **1.4.4    Frit valg af placering for enkelte konstruktioner**
 
-Enkelte konstruktioner kan placeres efter eget ønske. Det gælder \"kviste\" og \"glasvægssystemer\". Som vist og beskrevet på bygningssnittet kan \"kviste\" enten opgøres som et samlet element under \"tage\" eller fordelt på de respektive bygningsdele og overflader. Det skyldes, at metode for opgørelse af mængder i kviste både kan være som system-leverance med samlede mængder pr styk, eller opgjort for de enkelte bygningsdele og overflader f.eks. via opgørelser fra 2D eller 3D BIM-modeller.
+Enkelte konstruktioner kan placeres efter eget ønske. Det gælder "kviste" og "glasvægssystemer". Som vist og beskrevet på bygningssnittet kan "kviste" enten opgøres som et samlet element under "tage" eller fordelt på de respektive bygningsdele og overflader. Det skyldes, at metode for opgørelse af mængder i kviste både kan være som system-leverance med samlede mængder pr styk, eller opgjort for de enkelte bygningsdele og overflader f.eks. via opgørelser fra 2D eller 3D BIM-modeller.
 
-På samme måde kan glasvægssystemer være en samlet system-leverance, hvor det ikke er muligt at opgøre \"døre\" for sig. Her kan det samlede glasvægssystem placeres under \"indervægge\". Alternativt -- hvis mængderne i forvejen opgøres opdelt og opmåling derfor tilsvarende lettest også foretages særskilt, kan døre i glasvægssystemer opgøres som undergruppen \"døre\" og resterende dele af væggen som undergruppen \"indervægge\".
+På samme måde kan glasvægssystemer være en samlet system-leverance, hvor det ikke er muligt at opgøre "døre" for sig. Her kan det samlede glasvægssystem placeres under "indervægge". Alternativt -- hvis mængderne i forvejen opgøres opdelt og opmåling derfor tilsvarende lettest også foretages særskilt, kan døre i glasvægssystemer opgøres som undergruppen "døre" og resterende dele af væggen som undergruppen "indervægge".
 
 #### **1.4.5    Placering af elementer, der ikke indgår i tabel 6**
 
-Visse komponenter som badekabiner, skakt-moduler eller andre komponenter der leveres som systemleverance kan såfremt LCA-rådgiveren finder det nemmest opgøres f.eks. pr styk og placeres under bygningsdelshovedgruppen \"andet\". Derved undgås en opdeling af typiske producent / leverandørmængder i øvrige hoved- og undergrupper.
+Visse komponenter som badekabiner, skakt-moduler eller andre komponenter der leveres som systemleverance kan såfremt LCA-rådgiveren finder det nemmest opgøres f.eks. pr styk og placeres under bygningsdelshovedgruppen "andet". Derved undgås en opdeling af typiske producent / leverandørmængder i øvrige hoved- og undergrupper.
 
 #### **1.4.6    Øvrige principper for hvilke bygningsdele, der skal medtages**
 

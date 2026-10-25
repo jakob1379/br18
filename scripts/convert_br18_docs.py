@@ -690,7 +690,7 @@ def convert_file(path: Path, docs_root: Path, delete_html: bool) -> bool:
             "--from",
             "html",
             "--to",
-            "markdown-grid_tables-simple_tables-multiline_tables",
+            "markdown-smart-grid_tables-simple_tables-multiline_tables",
             "--wrap=none",
         ],
         input=cleaned,

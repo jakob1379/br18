@@ -60,7 +60,7 @@ Tilgængelighedskrav i BR18 -- holdt op mod DS/ISO 21542
 
 #### Beskrivelse
 
-Denne vejledning om tilgængelighed i bygninger er udarbejdet af Dansk Standard (DS) i samarbejde med Trafik-, Bygge- og Boligstyrelsen (TBST). Vejledningen fokuserer dels på sammenhængen mellem bygningsreglement 2018 (BR18) og DS/ISO 21542:2012, dels på, hvordan og i hvilket omfang DS/ISO 21542:2012 kan anvendes til at tage højde for BR18\'s krav om tilgængelighed i bygninger. DS/ISO 21542:2012 behandler et bredere spektrum af tilgængelighedsperspektiver end BR18.
+Denne vejledning om tilgængelighed i bygninger er udarbejdet af Dansk Standard (DS) i samarbejde med Trafik-, Bygge- og Boligstyrelsen (TBST). Vejledningen fokuserer dels på sammenhængen mellem bygningsreglement 2018 (BR18) og DS/ISO 21542:2012, dels på, hvordan og i hvilket omfang DS/ISO 21542:2012 kan anvendes til at tage højde for BR18's krav om tilgængelighed i bygninger. DS/ISO 21542:2012 behandler et bredere spektrum af tilgængelighedsperspektiver end BR18.
 
 #### @@PROTECTED_25@@
 

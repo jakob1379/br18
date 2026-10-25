@@ -48,7 +48,7 @@ For hotelbyggeri med gulv i øverste etage højst 22 m over terræn, hvor rednin
 
 ### Spørgsmål og svar om let tagkonstruktion (06-07-2022) {#71716646-28c1-4231-ac24-25fd9753bd1f}
 
-### Spørgsmål og svar om dokumentation af bygningsdele ved brug af "alment teknisk fælleseje\" (17-10-2023) {#47016155-51b4-45eb-9669-3ad825336d31}
+### Spørgsmål og svar om dokumentation af bygningsdele ved brug af "alment teknisk fælleseje" (17-10-2023) {#47016155-51b4-45eb-9669-3ad825336d31}
 
 ### Spørgsmål og svar om brug af certificeret rådgiver ved anvendelsesændring (30-09-2020) {#70137627-dba9-42fa-a40f-015559c387fe}
 

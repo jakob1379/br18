@@ -63,7 +63,7 @@ Ved en let tagkonstruktion forstås en isoleret eller uisoleret konstruktion opb
 
 At fladedensiteten (fladevægten) for en let tagkonstruktion højst må være 30 kg/m^2^ for at det kan betragtes som en præ-accepteret løsning, har givet anledning til tvivlsspørgsmål og en række udfordringer i forhold til at overholde kravet i praksis, som ikke har været hensigten, hvorfor kravet udgår.
 
-### Spørgsmål og svar om dokumentation af bygningsdele ved brug af "alment teknisk fælleseje\" (17-10-2023) {#47016155-51b4-45eb-9669-3ad825336d31}
+### Spørgsmål og svar om dokumentation af bygningsdele ved brug af "alment teknisk fælleseje" (17-10-2023) {#47016155-51b4-45eb-9669-3ad825336d31}
 
 ### Kan alment teknisk fælleseje benyttes ved dokumentation af brandsikringstiltag til en præ-accepteret løsning? Og hvad er en certificeret brandrådgivers virke ift. dokumentation ved anvendelse af alment teknisk fælleseje?
 

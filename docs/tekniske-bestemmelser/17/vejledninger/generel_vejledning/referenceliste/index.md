@@ -91,11 +91,11 @@ De følgende lydtekniske begreber og henvisninger til akustiske målestandarder 
 
 **Luftlydisolation**
 
-Bygningsdeles evne til at isolere mod luftlydtransmission i en bygning angivet som et enkelt tal i form af det vægtede reduktionstal, *R\'~w~*, med eller uden en spektral korrektion, *C~50-3150~*, udtrykt i decibel (dB).
+Bygningsdeles evne til at isolere mod luftlydtransmission i en bygning angivet som et enkelt tal i form af det vægtede reduktionstal, *R'~w~*, med eller uden en spektral korrektion, *C~50-3150~*, udtrykt i decibel (dB).
 
 Grænseværdier er relateret til feltmålinger i 1/3-oktavbånd udført i henhold til DS/EN ISO 16283-1 og vurderingsværdier i henhold til DS/EN ISO 717-1.
 
-Når den spektrale korrektion, *C~50-3150~*, anvendes, angives resultaterne som *R\'~w~* + *C~50-3150~* i henhold til DS/EN ISO 717-1.
+Når den spektrale korrektion, *C~50-3150~*, anvendes, angives resultaterne som *R'~w~* + *C~50-3150~* i henhold til DS/EN ISO 717-1.
 
 **Trinlydniveau**
 

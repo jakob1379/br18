@@ -383,7 +383,7 @@ Yderligere tilgængelig viden, som en bygherre kan trække på i en byggesag til
 
 **Klimaatlas**
 
-[Klimaatlas](https://www.dmi.dk/klimaatlas/){rel="noopener noreferrer" target="_blank"} leverer ét samlet datagrundlag for det fremtidige danske klima. Klimaatlas er udarbejdet på baggrund af DMI\'s egne data, internationale samarbejder og viden fra FN\'s klimapanels femte og sjette hovedrapporter.
+[Klimaatlas](https://www.dmi.dk/klimaatlas/){rel="noopener noreferrer" target="_blank"} leverer ét samlet datagrundlag for det fremtidige danske klima. Klimaatlas er udarbejdet på baggrund af DMI's egne data, internationale samarbejder og viden fra FN's klimapanels femte og sjette hovedrapporter.
 
 Kommunerne kan bruge det fælles datasæt til at planlægge deres klimatilpasning, så indsatserne hverken under- eller overdimensioneres. Klimaatlas indeholder data for temperatur, nedbør, vandstand og stormflod i det forventede fremtidige danske klima. Data omfatter bl.a. et kvalificeret bud på, hvor meget temperaturen og vandstanden vil stige, samt hvordan mængden af nedbør og størrelsen af stormfloder og skybrud ændres.
 
@@ -437,14 +437,14 @@ Risikostyringsplanerne for Vanddistrikt Sjælland omfatter følgende områder: K
 
 Se indrapporteringen af risikostyringsplanerne for Vanddistrikt Sjælland her: [https://oversvommelse.kyst.dk/media/327353/sammenfatning-af-risikostyringsplaner-for-oversvoemmelse-for-vanddistrikt-sjaelland\_\_web.pdf](https://oversvommelse.kyst.dk/media/s5yhznld/kdi-nst-2015-_risikostyringsplan-for-vanddistrikt-sjaelland.pdf){rel="noopener" target="_blank"}
 
-**IPCC\'s 6. hovedrapport\**
-FN\'s klimapanel udgiver rapporter, der samler og integrerer international viden om jordens tilstand og dets klima. Rapporterne forsyner verden med den mest omfattende vurdering af klimaforskningen, og viden om hvordan de modvirkes, og hvordan vi tilpasser os. Derudover udgør de det faktuelle grundlag for de internationale klimaforhandlinger.
+**IPCC's 6. hovedrapport\**
+FN's klimapanel udgiver rapporter, der samler og integrerer international viden om jordens tilstand og dets klima. Rapporterne forsyner verden med den mest omfattende vurdering af klimaforskningen, og viden om hvordan de modvirkes, og hvordan vi tilpasser os. Derudover udgør de det faktuelle grundlag for de internationale klimaforhandlinger.
 
 Under det seneste arbejdsprogram er der udgivet tre særrapporter, en metoderapport, samt tre arbejdsgrupperapporter, der udgør de største bidrag til panelets 6. hovedrapport. Hovedrapportens sidste del er en synteserapport, der giver en tværgående og integreret sammenstilling af de tre arbejdsgrupperapporter.
 
 Se FN's klimapanel, IPCC, klimastatus: 6. hovedrapport her: [https://www.ipcc.ch/assessment-report/ar6/](https://www.ipcc.ch/assessment-report/ar6/){rel="noopener noreferrer" target="_blank"}
 
-IPCC\'s 6. hovedrapports fire dele:
+IPCC's 6. hovedrapports fire dele:
 
 - Delrapport om den naturvidenskabelige baggrund for klimaforandringer (2021) (Hovedbudskaberne er samlet og oversat til dansk. Se det her: [https://www.dmi.dk/klima/temaforside-fns-klimapanel/sjette-hovedrapport-del1/](https://www.dmi.dk/klima/temaforside-fns-klimapanel/sjette-hovedrapport-del1/){rel="noopener noreferrer" target="_blank"})
 

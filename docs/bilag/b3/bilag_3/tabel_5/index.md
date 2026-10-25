@@ -40,7 +40,7 @@ Der skal foretages uafhængig kontrol af dokumentation vedrørende:
 
 For den øvrige del af dokumentationen for projektering af de bærende konstruktioner kan uafhængig kontrol af dokumentation udføres af personer, der ikke har medvirket ved udarbejdelsen af dokumentationen af det pågældende konstruktionsafsnit, men som har medvirket i projektering af byggeriet.
 
-Der skal foretages uafhængig kontrol af \"udførelsesgrundlaget for arbejdet\" af en person, der ikke medvirker ved udførelsen af de bærende konstruktioner. For den øvrige del af udførelsen kan den uafhængige kontrol udføres af personer, der ikke har medvirket ved udførelsen af det pågældende kontrolafsnit, jf. DS/EN 1990 Projekteringsgrundlag for bærende konstruktioner, med tilhørende DS/EN 1990 DK NA.
+Der skal foretages uafhængig kontrol af "udførelsesgrundlaget for arbejdet" af en person, der ikke medvirker ved udførelsen af de bærende konstruktioner. For den øvrige del af udførelsen kan den uafhængige kontrol udføres af personer, der ikke har medvirket ved udførelsen af det pågældende kontrolafsnit, jf. DS/EN 1990 Projekteringsgrundlag for bærende konstruktioner, med tilhørende DS/EN 1990 DK NA.
 
 Den uafhængige kontrol af udførelsen kan erstattes af en "uafhængig kontrol af dokumentation af egenkontrol af udførelsen", jf. DS 1140, Udførelse af bærende konstruktioner -- Almen kontrol for bærende konstruktioner, der indgår i følgende byggerier:
 

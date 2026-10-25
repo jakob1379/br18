@@ -43,7 +43,7 @@ Norm for vandinstallationer
 
 Denne norm gælder for vandinstallationer, der er tilsluttet almene vandforsyninger (offentlige eller private vandforsyningsanlæg) samt mindre ikke-almene vandforsyningsanlæg.
 
-Bygningsreglementets og normens overordnede, funktionelle krav gælder desuden for den del af regnvandsanlæg, der omfatter ledningssystemet, der forsyner wc\'er og vaskemaskiner med regnvand fra tank eller anden beholder. Regnvandsanlæg kan udføres som beskrevet i Rørcenter-anvisning 003 Brug af regnvand til wc-skyl og vaskemaskiner i boliger.
+Bygningsreglementets og normens overordnede, funktionelle krav gælder desuden for den del af regnvandsanlæg, der omfatter ledningssystemet, der forsyner wc'er og vaskemaskiner med regnvand fra tank eller anden beholder. Regnvandsanlæg kan udføres som beskrevet i Rørcenter-anvisning 003 Brug af regnvand til wc-skyl og vaskemaskiner i boliger.
 
 Normen gælder såvel for nye installationer som for ændringer og tilføjelser i eksisterende anlæg.
 

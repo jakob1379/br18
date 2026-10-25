@@ -242,7 +242,7 @@ Bygningsklasse 2020 er en samlet løsning. Derfor gælder de supplerende krav og
 
 **Svar:**
 
-Vejledningen til bygningsreglementets §473 definerer SEL som: \" Ved det specifikke elforbrug til lufttransport forstås her det samlede elforbrug pr. m3 flyttet luft, regnet fra og med luftindtag til og med luftafkast.\" Det vil også være tilfældet i langt de fleste tilfælde, i for eksempel kontorbygninger og lignende, hvis der benyttes recirkulation.
+Vejledningen til bygningsreglementets §473 definerer SEL som: " Ved det specifikke elforbrug til lufttransport forstås her det samlede elforbrug pr. m3 flyttet luft, regnet fra og med luftindtag til og med luftafkast." Det vil også være tilfældet i langt de fleste tilfælde, i for eksempel kontorbygninger og lignende, hvis der benyttes recirkulation.
 
 I rum med renlighedskrav, der overstiger de normale komfortanlæg, hvilket for eksempel er operationsstuer eller laboratorier, kan det accepteres at der benyttes recirkulation uden at blive straffet for det i forhold til Bygningsreglementets krav. I det tilfælde regnes SEL-værdien ud efter den samlede luftmængde. Det er udelukkende ved renlighedskrav, at denne metode kan vælges, ellers skal den normale metode i henhold til bygningsreglementet følges.
 
@@ -354,7 +354,7 @@ Forbindes enkeltstående bygninger med uopvarmede gange eller tunneler, betragte
 
 **Spørgsmål: **
 
-*Bygningsreglementets § 475, stk. 2: \"* For bygninger eller bygningsafsnit i bygningsklasse 2020 med behov, f.eks. et højt belysningsniveau, ekstra meget ventilation, et stort forbrug af varmt brugsvand, eller lang benyttelsestid eller bygninger med stor rumhøjde forhøjes energirammen med et tillæg, der modsvarer det beregnede energiforbrug hertil.*.\" Det fremgår dermed, at procesenergi ikke indgår.*
+*Bygningsreglementets § 475, stk. 2: "* For bygninger eller bygningsafsnit i bygningsklasse 2020 med behov, f.eks. et højt belysningsniveau, ekstra meget ventilation, et stort forbrug af varmt brugsvand, eller lang benyttelsestid eller bygninger med stor rumhøjde forhøjes energirammen med et tillæg, der modsvarer det beregnede energiforbrug hertil.*." Det fremgår dermed, at procesenergi ikke indgår.*
 
 *Fortolkningen af om man kan opnå forskellen mellem varmegenvindingens krav i bygningsreglementet og den aktuelle løsning, virker for simpel. Normalt vil man for bygninger, bygningsklasse 2020, have væsentlig højere krav til varmegenvinding end i bygningsreglementet. Kan der sammenlignes med de øvrige områder i samme bygning, der ikke har proceskrav?*
 

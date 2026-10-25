@@ -898,7 +898,7 @@ Hvis afprøvningen afviger fra det forventede i forhold til de indhentede oplysn
 
     *Dagslysstyring*
 
-Kontrol af dagslysstyringen foregår af flere omgange for at dække perioder med lavt og højt dagslysniveau. Afprøvning ved \'tusmørke\' kan eventuelt ske med helt lukket solafskærmning, gardiner trukket for eller lignende.
+Kontrol af dagslysstyringen foregår af flere omgange for at dække perioder med lavt og højt dagslysniveau. Afprøvning ved 'tusmørke' kan eventuelt ske med helt lukket solafskærmning, gardiner trukket for eller lignende.
 
 Kontrol af lysføler/sensor ved måling af belysningsstyrke, E, i de tilfælde hvor det er relevant:
 
