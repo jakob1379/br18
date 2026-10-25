@@ -752,7 +752,8 @@ def convert_file(path: Path, docs_root: Path, delete_html: bool) -> bool:
         check=True,
     )
 
-    markdown = re.sub(r"\[\]\{#[^}]+\}", "", proc.stdout)
+    # Python-Markdown cannot unescape `\<`, so the page would show the backslash.
+    markdown = re.sub(r"\[\]\{#[^}]+\}", "", proc.stdout.replace("\\<", "&lt;"))
     markdown = re.sub(r"(?m)^\[\]\([^\n]+\)\s*$", "", markdown)
     markdown = re.sub(
         r"\*\[\]\([^)]+(?:localLink:umb:|%7BlocalLink:umb:)[^)]+\)([^*]+)\*",

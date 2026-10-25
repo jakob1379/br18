@@ -79,6 +79,15 @@ class ConvertTest(unittest.TestCase):
         )
         self.assertIn("[Version 2](https://www.bygningsreglementet.dk/Historisk/BR18_Version2/)", markdown)
 
+    def test_less_than_is_an_entity_not_a_backslash_escape(self) -> None:
+        markdown = self.convert(
+            "<p>5 °C &lt; T &lt; 15 °C</p><table><tr><td>Temperatur</td><td>T &lt; 5 °C</td></tr></table>"
+        )
+
+        self.assertNotIn("\\<", markdown)
+        self.assertIn("5 °C &lt; T &lt; 15 °C", markdown)
+        self.assertIn("T &lt; 5 °C", markdown)
+
     def test_page_ends_with_a_single_newline(self) -> None:
         markdown = self.convert("<p>Tekst</p><p><a href='/x'></a></p>")
 
