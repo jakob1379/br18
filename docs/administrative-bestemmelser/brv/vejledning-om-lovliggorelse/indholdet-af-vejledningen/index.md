@@ -47,7 +47,7 @@
 
 ### Fysisk lovliggørelse
 
-### Vurderingen -- valget mellem retlig og fysisk lovliggørelse
+### Vurderingen – valget mellem retlig og fysisk lovliggørelse
 
 ### Byggeri opført uden tilladelse
 

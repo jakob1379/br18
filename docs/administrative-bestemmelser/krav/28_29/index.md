@@ -58,11 +58,11 @@ Bygningsreglementet gælder ikke for:
 
 Følgende typer af byggearbejder skal overholde bygningsreglementet, men kan udføres uden ansøgning om byggetilladelse:
 
-1) Opførelse af og tilbygninger til garager og carporte, der ikke er integrerede i den primære bebyggelse, samt udhuse, hønsehuse, drivhuse, overdækkede terrasser og lignende, når bygningerne tilsammen har et areal på højst 50 m², placeres på terræn og udføres i overensstemmelse med de præ-accepterede løsninger, som er beskrevet i Bygningsreglementets vejledning til kapitel 5 -- Brand.
+1) Opførelse af og tilbygninger til garager og carporte, der ikke er integrerede i den primære bebyggelse, samt udhuse, hønsehuse, drivhuse, overdækkede terrasser og lignende, når bygningerne tilsammen har et areal på højst 50 m², placeres på terræn og udføres i overensstemmelse med de præ-accepterede løsninger, som er beskrevet i Bygningsreglementets vejledning til kapitel 5 – Brand.
 
-2) Ombygninger af garager, carporte, udhuse, hønsehuse, drivhuse, overdækkede terrasser og lignende, når ombygningerne udføres i overensstemmelse med de præ-accepterede løsninger, som er beskrevet i Bygningsreglementets vejledning til kapitel 5 -- Brand.
+2) Ombygninger af garager, carporte, udhuse, hønsehuse, drivhuse, overdækkede terrasser og lignende, når ombygningerne udføres i overensstemmelse med de præ-accepterede løsninger, som er beskrevet i Bygningsreglementets vejledning til kapitel 5 – Brand.
 
-3) Ombygninger og andre forandringer af enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse. Ombygningen eller forandringen må ikke medføre en væsentlig anvendelsesændring eller en udvidelse af etagearealet og skal udføres i overensstemmelse med de præ-accepterede løsninger, som er beskrevet i Bygningsreglementets vejledning til kapitel 5 -- Brand. En udvendig efterisolering på maksimalt 25 cm betragtes ikke som en udvidelse af etagearealet.
+3) Ombygninger og andre forandringer af enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse. Ombygningen eller forandringen må ikke medføre en væsentlig anvendelsesændring eller en udvidelse af etagearealet og skal udføres i overensstemmelse med de præ-accepterede løsninger, som er beskrevet i Bygningsreglementets vejledning til kapitel 5 – Brand. En udvendig efterisolering på maksimalt 25 cm betragtes ikke som en udvidelse af etagearealet.
 
 4) Ombygninger og andre forandringer i eksisterende byggeri, som ikke er omfattet af nr. 2 og 3, og som ikke ændrer de bærende konstruktioners virkemåde eller forudsætningerne for de brandmæssige forhold. Ombygningen eller forandringen må ikke medføre en væsentlig anvendelsesændring eller en udvidelse af etagearealet. En udvendig efterisolering på maksimalt 25 cm betragtes ikke som en udvidelse af etagearealet. Ændringer af lastvirkning på mindre end 5 pct. i forhold til eksisterende dokumentation og uændret statisk virkemåde af konstruktionen betragtes ikke som en ændring.
 
@@ -80,7 +80,7 @@ Følgende typer af byggearbejder skal overholde bygningsreglementet, men kan udf
 
 11) Bærerør, befæstelser og antennesystemer, der anvendes til radiokommunikation i elektroniske kommunikationsnet, jf. § 2, nr. 4 og 5 i lov om elektroniske kommunikationsnet og tjenester, herunder radiofrekvens- eller kabelbaseret teleinfrastruktur.
 
-12) Master og antennesystemer omfattende antenner med tilhørende teknisk udstyr, herunder kabler, befæstelse, forstærkere, filtre, teknikhuse, -kabiner og --skabe, jording og microlinks til transmission, der anvendes til jernbanekommunikation.
+12) Master og antennesystemer omfattende antenner med tilhørende teknisk udstyr, herunder kabler, befæstelse, forstærkere, filtre, teknikhuse, -kabiner og –skabe, jording og microlinks til transmission, der anvendes til jernbanekommunikation.
 
 13) Konstruktioner og anlæg, som indeholder brugerbetjente funktioner, såsom IT-standere, betalings- og selvbetjeningsautomater og lignende publikumsrettede servicefunktioner.
 
@@ -90,7 +90,7 @@ Følgende typer af byggearbejder skal overholde bygningsreglementet, men kan udf
 
 16) Opførelse, til- og ombygning af én primitiv mindre bygning til lejlighedsvis overnatning pr. ejendom, f.eks. shelter og lignende, som opføres i tilknytning til fritliggende enfamilieshuse, tofamiliehuse med vandret lejlighedsskel, dobbelthuse med lodret lejlighedsskel, rækkehuse og sommerhuse. Bygningen skal opfylde følgende betingelser:
 
-a\) Bygningen skal udføres i overensstemmelse med de præ-accepterede løsninger for mindre bebyggelse i anvendelseskategori 1 og 4, som er beskrevet i Bygningsreglementets vejledning til kapitel 5 -- Brand.
+a\) Bygningen skal udføres i overensstemmelse med de præ-accepterede løsninger for mindre bebyggelse i anvendelseskategori 1 og 4, som er beskrevet i Bygningsreglementets vejledning til kapitel 5 – Brand.
 
 b) Bygningen er ikke opvarmet.
 
@@ -118,7 +118,7 @@ Følgende typer af bebyggelse er helt eller delvist undtaget fra overholdelse af
 
 a) Afløb i kapitel 4.
 
-b) Brandforhold i kapitel 5. Driftsbygninger samt væksthuse til produktionsformål er undtaget fra §§ 88 -- 90, §§ 99 -- 103 og §§ 121 -- 123.
+b) Brandforhold i kapitel 5. Driftsbygninger samt væksthuse til produktionsformål er undtaget fra §§ 88 – 90, §§ 99 – 103 og §§ 121 – 123.
 
 c) Indretning af byggepladser og udførelse af byggearbejder i kapitel 7.
 
@@ -134,7 +134,7 @@ h) Vand i kapitel 21.
 
 i) Indeklima i rum, hvor ansatte udfører kontorarbejde eller lignende. I disse rum skal kravene om forureninger i kapitel 13, om lydforhold i kapitel 17, om lys og udsyn i kapitel 18 samt de indeklimamæssige krav om termisk indeklima og installationer til varme- og køleanlæg i kapitel 19 og om ventilation i kapitel 22 overholdes.
 
-3) Master og antennesystemer omfattende antenner med tilhørende teknisk udstyr, herunder kabler, befæstelse, forstærkere, filtre, teknikhuse, -kabiner og --skabe, jording og microlinks til transmission, der anvendes til jernbanekommunikation, er undtaget fra bestemmelserne om bebyggelsesregulerende forhold i kapitel 8.
+3) Master og antennesystemer omfattende antenner med tilhørende teknisk udstyr, herunder kabler, befæstelse, forstærkere, filtre, teknikhuse, -kabiner og –skabe, jording og microlinks til transmission, der anvendes til jernbanekommunikation, er undtaget fra bestemmelserne om bebyggelsesregulerende forhold i kapitel 8.
 
 4) Bærerør, befæstelser og antennesystemer, der anvendes til radiokommunikation i elektroniske kommunikationsnet, jf. § 2, nr. 4 og 5 i lov om elektroniske kommunikationsnet og tjenester, herunder radiofrekvens- eller kabelbaseret teleinfrastruktur er undtaget fra bestemmelserne om bebyggelsesregulerende forhold i kapitel 8.
 
@@ -270,7 +270,7 @@ For transportable konstruktioner, der anvendes af flere end 150 personer, skal m
 
 Midlertidige udendørs campingområder til flere end 150 personer og midlertidige udendørs salgsområder og lignende til flere end 150 personer er i afsnit II alene omfattet af brandforhold i kapitel 5.
 
-*Stk. 2.* De i stk. 1 nævnte områder kræver ikke byggetilladelse, hvis det sker i overensstemmelse med de præ-accepterede løsninger for forsamlingstelte, midlertidige campingområder og midlertidige udendørs salgsområder i Bygningsreglementets vejledning til kapitel 5 -- Brand, og kommunalbestyrelsen modtager meddelelse om områderne, jf. stk. 3.
+*Stk. 2.* De i stk. 1 nævnte områder kræver ikke byggetilladelse, hvis det sker i overensstemmelse med de præ-accepterede løsninger for forsamlingstelte, midlertidige campingområder og midlertidige udendørs salgsområder i Bygningsreglementets vejledning til kapitel 5 – Brand, og kommunalbestyrelsen modtager meddelelse om områderne, jf. stk. 3.
 
 *Stk. 3.* Meddelelse med oplysning om områdets placering, indretning og brug, jf. kapitel 5, skal være modtaget af kommunalbestyrelsen senest 4 uger før, området tages i brug.
 
@@ -284,7 +284,7 @@ Midlertidig overnatning i byggeri eller bygningsafsnit, der ikke kan henføres t
 
 *Stk. 2.* Ved midlertidig overnatning skal kommunalbestyrelsen have modtaget meddelelse om den midlertidige overnatning senest 2 uger før første overnatningsdøgn. Omfatter overnatningen flere end 150 personer, skal kommunalbestyrelsen have modtaget meddelelse om overnatningen senest 4 uger før.
 
-*Stk. 3.* Den midlertidige overnatning skal ske i overensstemmelse med de præ-accepterede løsninger for midlertidige overnatninger, som beskrevet i Bygningsreglementets vejledning til kapitel 5 -- Brand.
+*Stk. 3.* Den midlertidige overnatning skal ske i overensstemmelse med de præ-accepterede løsninger for midlertidige overnatninger, som beskrevet i Bygningsreglementets vejledning til kapitel 5 – Brand.
 
 *Stk. 4.* Midlertidig overnatning, som ikke er omfattet af stk. 3, kan finde sted, når et af følgende punkter er opfyldt:
 
@@ -292,7 +292,7 @@ Midlertidig overnatning i byggeri eller bygningsafsnit, der ikke kan henføres t
 
 2) Der er givet byggetilladelse til den midlertidige overnatning. Dokumentation for, at den midlertidige overnatning sker i overensstemmelse med bestemmelserne i kapitel 5, skal være modtaget af kommunalbestyrelsen senest 4 uger før første overnatningsdøgn.
 
-*Stk. 5.* Overnatning i byggeri eller bygningsafsnit, der ikke kan henføres til anvendelseskategori 5, og som ikke opfylder stk. 1 -- 4, betragtes som en anvendelsesændring, hvortil der skal søges byggetilladelse, jf. § 10.
+*Stk. 5.* Overnatning i byggeri eller bygningsafsnit, der ikke kan henføres til anvendelseskategori 5, og som ikke opfylder stk. 1 – 4, betragtes som en anvendelsesændring, hvortil der skal søges byggetilladelse, jf. § 10.
 
 ## § 6h Planer m.v. vedrørende brandmæssige forhold {#25b1ab8d-4135-4aed-868e-8e9f9a526ddc}
 
@@ -650,7 +650,7 @@ Lovliggørelse af bærende konstruktioner indplaceret i konstruktionsklasse 2-4,
 
 *Stk. 4.* Byggeri eller bygningsafsnit, der er omfattet af lovliggørelsen, jf. stk. 3, indplaceres i brandklasser i medfør af kapitel 27.
 
-*Stk. 5.* Når der anvendes anden materiel regulering, end den, der gælder på lovliggørelsestidspunktet, anses de detailbaserede løsninger for brandsikring af byggeri, som opfyldte kravene til brandsikring i denne regulering, for præ-accepterede løsninger, jf. Bygningsreglementets vejledning til kapitel 5 -- Brand, ved indplacering i brandklasser.
+*Stk. 5.* Når der anvendes anden materiel regulering, end den, der gælder på lovliggørelsestidspunktet, anses de detailbaserede løsninger for brandsikring af byggeri, som opfyldte kravene til brandsikring i denne regulering, for præ-accepterede løsninger, jf. Bygningsreglementets vejledning til kapitel 5 – Brand, ved indplacering i brandklasser.
 
 *Stk. 6.* Hvis lovliggørelsen efter kommunalbestyrelsens vurdering består af en simpel fysisk udbedring, kan kommunalbestyrelsen beslutte, at stk. 1-5 ikke finder anvendelse, og selv foretage den byggetekniske sagsbehandling af lovliggørelsen.
 

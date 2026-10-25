@@ -201,9 +201,9 @@ Et tilknyttet funktionskrav er brandmodstand, sikring af en flugtvej, personsikk
 
 Vinduer, glasydervægge, ovenlysvinduer og glastage skal overholde følgende krav til energimæssig ydeevne:
 
-1\) For vinduer og glasydervægge må energibalancen for referencevinduet ikke være mindre end 0 kWh/m2 pr. år. Energibalancen beregnes som Eref = 196,4 x gw -- 90,36 x Uw.
+1\) For vinduer og glasydervægge må energibalancen for referencevinduet ikke være mindre end 0 kWh/m2 pr. år. Energibalancen beregnes som Eref = 196,4 x gw – 90,36 x Uw.
 
-2\) For ovenlysvinduer og glastage må energibalancen for referencevinduet ikke være mindre end 10 kWh/m² pr. år. Energibalancen beregnes som Eref = 345 x gw -- 90,36 x Uw.
+2\) For ovenlysvinduer og glastage må energibalancen for referencevinduet ikke være mindre end 10 kWh/m² pr. år. Energibalancen beregnes som Eref = 345 x gw – 90,36 x Uw.
 
 3\) Lydglas og andre funktionsglas kan anvendes, hvis referencevinduet opfylder kravet til energibalancen. Der kan dog vælges glas med en lavere solvarmetransmittans (g- værdi), hvis der kan påvises en energibesparelse ved det.
 
@@ -561,7 +561,7 @@ Pavilloner, der opstilles til midlertidig brug, skal opfylde krav til U-værdie
 
 |  |  |
 |:----------------------------------------------------------|:-----------|
-| **Bygningsdel**   | **U-værdi \[W/m²K\] ** |
+| **Bygningsdel**   | **U-værdi \[W/m²K\]**  |
 | Ydervægge  | 0,20 |
 | Etageadskillelser og skillevægge mod rum, hvor temperaturforskellen mellem rummene er 5 °C eller mere  | 0,40 |
 | Gulv og etageadskillelser over det fri eller ventileret kryberum  | 0,12 |
@@ -708,7 +708,7 @@ Ved opførelsen af bygninger og tilbygninger, skal der foretages en beregning af
 
 *Stk. 7.* Ved beregning af klimapåvirkning fra materialer (i modul A1-A3, modul C3-C4 og modul D) anvendes det generiske datagrundlag i [bilag 2, tabel 7](../../../bilag/b2/bilag_2/tabel_7 "Tabel_7"){rel="noopener" target="_blank"}. Ved beregning af klimapåvirkning fra de dele af byggeprocessen, som omhandler energiforbrug og transport (i modul A4 og A5), anvendes de principper og tabelværdier, som fremgår af [bilag 2, tabel 10](../../../bilag/b2/bilag_2 "Bilag_2"){rel="noopener" target="_blank"}. Ved beregning af klimapåvirkning fra behandling af byggeaffald fra byggeprocessen (i modul A5), bortset fra affaldets transport, anvendes det generiske datagrundlag i [bilag 2, tabel 11](../../../bilag/b2/bilag_2 "Bilag_2"){rel="noopener" target="_blank"}. Alternativt til tabel 7, 10 og 11 kan anvendes data fra miljøvaredeklarationer, jf. stk. 8.
 
-*Stk. 8.* Anvendte miljøvaredeklarationer skal være relevante og gyldige samt udført i henhold til DS/EN15804 Bæredygtighed inden for byggeri og anlæg - Miljøvaredeklarationer -- Grundlæggende regler for produktkategorien byggevarer. Miljøvaredeklarationer kan være projektspecifikke, produktspecifikke eller repræsentere et gennemsnit for en bestemt produkttype.
+*Stk. 8.* Anvendte miljøvaredeklarationer skal være relevante og gyldige samt udført i henhold til DS/EN15804 Bæredygtighed inden for byggeri og anlæg - Miljøvaredeklarationer – Grundlæggende regler for produktkategorien byggevarer. Miljøvaredeklarationer kan være projektspecifikke, produktspecifikke eller repræsentere et gennemsnit for en bestemt produkttype.
 
 *Stk. 9.* Klimapåvirkning fra byggeprocessen beregnes med følgende modifikationer:
 
@@ -721,7 +721,7 @@ Ved opførelsen af bygninger og tilbygninger, skal der foretages en beregning af
 7.  For behandling af affald indgår kun byggeaffald.
 8.  For transport af affald indgår kun byggeaffald og jord.
 
-*Stk. 10.* Ved beregning af klimapåvirkning fra materialer medregnes udskiftning af bygningsdele og byggematerialer (i modul B4) ifølge levetider og principper som fastlagt i BUILD RAPPORT 2021:32 -- BUILD levetidstabel -- Version 2021.
+*Stk. 10.* Ved beregning af klimapåvirkning fra materialer medregnes udskiftning af bygningsdele og byggematerialer (i modul B4) ifølge levetider og principper som fastlagt i BUILD RAPPORT 2021:32 – BUILD levetidstabel – Version 2021.
 
 *Stk. 11.* For byggeri omfattet af energirammen beregnes klimapåvirkningen fra driftsenergi (i modul B6) på baggrund af energibehovet som beskrevet i §§ 250-256, omregnet til klimapåvirkning. I omregningen anvendes de emissionsfaktorer, som fremgår af [bilag 2, tabel 8.1](../../../bilag/b2/bilag_2/tabel_8 "Tabel_8"){rel="noopener" target="_blank"}. Alternativt kan miljøvaredeklarationen for det konkrete fjernvarmeforsyningsanlæg anvendes. Miljøvaredeklarationen skal være gyldig og udført i henhold til ISO 14025. Der må kun medregnes anlæg, der er godkendt i henhold til Varmeforsyningsloven. Der medregnes alene det opvarmede etageareal som beskrevet i § 256, nr. 3.
 

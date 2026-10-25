@@ -112,7 +112,7 @@ Forhåndsdialogen kan bidrage til en hurtigere og mere smidig byggeproces, ved a
 
 [3.5.2.](../3_6_2_dokumentation-for-indplacering-i-brandklasse-2_4/)
 
-### Dokumentation for indplacering i brandklasse 2 -- 4
+### Dokumentation for indplacering i brandklasse 2 – 4
 
 [3.6.](../3_6_dispensation/)
 

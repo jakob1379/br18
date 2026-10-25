@@ -26,9 +26,9 @@
 
 Byggeri, der er ulovligt udført, skal lovliggøres. Der sondres i bygningsreglementet mellem materielle og formelle regler. De materielle regler angiver de bebyggelsesregulerende og tekniske krav, byggeriet skal overholde. De formelle regler beskriver det administrative system, hvorunder sagen behandles, herunder om forholdet kræver en tilladelse.
 
-*\*
 
-*Vejledningen er revideret af Trafik-, Bygge- og Boligstyrelsen den 31. januar 2019.\*
+
+*Vejledningen er revideret af Trafik-, Bygge- og Boligstyrelsen den 31. januar 2019.*
 
 ### Indholdet af vejledningen
 
@@ -154,7 +154,7 @@ Ud fra hensynet til proportionalitetsprincippet bør den retlige lovliggørelse 
 
 Ved fysisk lovliggørelse bringes den ulovlige tilstand derimod til ophør ved, at byggeriet rent fysisk bringes i overensstemmelse med lovgivningen. Dette kan ske enten ved ombygning eller nedrivning eller ved en kombination af disse.
 
-### Vurderingen -- valget mellem retlig og fysisk lovliggørelse
+### Vurderingen – valget mellem retlig og fysisk lovliggørelse
 
 Valget mellem retlig og fysisk lovliggørelse beror på afgørelsesmyndighedens konkrete, skønsmæssige afvejning af forskellige hensyn i hver enkelt sag. Denne vurdering er bundet af de forvaltningsretlige principper for skønsudøvelse.
 

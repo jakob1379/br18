@@ -45,7 +45,7 @@ For sommerhuse gælder alene, at de tekniske installationer skal udformes på en
 
 For andre bygninger end boliger skal det under hensyn til anvendelsen sikres, at de  personer, som opholder sig i bygningen, ikke generes af lyd fra tilgrænsende rum, fra bygningens installationer eller fra nærliggende veje og jernbaner.
 
-*Stk. 2.* For undervisnings- og daginstitutionsbyggeri er bestemmelsen opfyldt, når det kan dokumenteres, at grænseværdierne angivet i *Bygningsreglementets vejledning om lydforhold * er overholdt, eller når det på anden vis kan dokumenteres, at et tilsvarende niveau er opnået.
+*Stk. 2.* For undervisnings- og daginstitutionsbyggeri er bestemmelsen opfyldt, når det kan dokumenteres, at grænseværdierne angivet i *Bygningsreglementets vejledning om lydforhold*  er overholdt, eller når det på anden vis kan dokumenteres, at et tilsvarende niveau er opnået.
 
 ### § 375 {#paragraf-375}
 

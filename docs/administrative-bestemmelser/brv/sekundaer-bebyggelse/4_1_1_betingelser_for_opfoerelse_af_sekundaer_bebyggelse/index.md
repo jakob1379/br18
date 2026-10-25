@@ -56,11 +56,11 @@ Hvis sekundær bebyggelse opføres nærmere skel mod nabo og sti end 2,5 meter, 
 
 • Tagvand skal holdes på egen grund. Man skal altså sørge for, at tagvandet ikke løber ind på naboens grund.
 
-Hvis ovenstående betingelser overholdes, er det som udgangspunkt tilladt at bygge nærmere skel end 2,5 meter. Sommerhuse er selvstændigt reguleret -- se afsnit 4.1.3 nedenfor. Er der tvivl om, hvorvidt byggeriet kan opfylde alle betingelserne, kan man kontakte kommunen for vejledning.
+Hvis ovenstående betingelser overholdes, er det som udgangspunkt tilladt at bygge nærmere skel end 2,5 meter. Sommerhuse er selvstændigt reguleret – se afsnit 4.1.3 nedenfor. Er der tvivl om, hvorvidt byggeriet kan opfylde alle betingelserne, kan man kontakte kommunen for vejledning.
 
 **Eksempel 1:**
 
-*På en grund er der opført en garage 1,5 meter fra skel. Garagens længste side mod skel er 6 meter. Ejeren af ejendommen ønsker efterfølgende at opføre et udhus, der placeres 2 meter fra skel. Da den samlede længde af samtlige bygninger på grunden maksimalt må udgøre 12 meter i skel, må udhusets længste side mod skel maksimalt være 6 meter. Hvis den samlede længde af garagen og udhuset mod skel overstiger 12 meter, vil betingelserne ikke være opfyldt, og der vil derfor skulle ansøges om byggetilladelse, og det vil være op til kommunen, om der kan gives en byggetilladelse til opførelse af bebyggelse, der ikke overholder byggeretten. Alternativt kan udhuset placeres længere fra skel end 2,5 meter.\*
+*På en grund er der opført en garage 1,5 meter fra skel. Garagens længste side mod skel er 6 meter. Ejeren af ejendommen ønsker efterfølgende at opføre et udhus, der placeres 2 meter fra skel. Da den samlede længde af samtlige bygninger på grunden maksimalt må udgøre 12 meter i skel, må udhusets længste side mod skel maksimalt være 6 meter. Hvis den samlede længde af garagen og udhuset mod skel overstiger 12 meter, vil betingelserne ikke være opfyldt, og der vil derfor skulle ansøges om byggetilladelse, og det vil være op til kommunen, om der kan gives en byggetilladelse til opførelse af bebyggelse, der ikke overholder byggeretten. Alternativt kan udhuset placeres længere fra skel end 2,5 meter.*
 
 *Det er en forudsætning, at bygningsreglementet og anden lovgivning overholdes.*
 

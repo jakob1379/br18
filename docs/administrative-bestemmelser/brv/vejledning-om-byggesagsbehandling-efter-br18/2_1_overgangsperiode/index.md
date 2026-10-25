@@ -118,7 +118,7 @@ Fra den 1. januar 2020 til den 30. juni 2022 er der en overgangsperiode, hvor de
 
 [3.5.2.](../3_6_2_dokumentation-for-indplacering-i-brandklasse-2_4/)
 
-### Dokumentation for indplacering i brandklasse 2 -- 4
+### Dokumentation for indplacering i brandklasse 2 – 4
 
 [3.6.](../3_6_dispensation/)
 

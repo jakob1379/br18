@@ -28,7 +28,7 @@ Bekendtgørelse nr. 1693 af 12/12/2023 om certificeringsordning for dokumentatio
 
 #### [Gå til bekendtgørelsen](https://www.retsinformation.dk/eli/lta/2023/1693){target="_blank"}
 
-### Generelt for konstruktioner {#434fb0c7-f233-4f85-8fb3-2536def1d52a}
+### 1.0. Generelt for konstruktioner {#434fb0c7-f233-4f85-8fb3-2536def1d52a}
 
 Det fremgår af bygningsreglementet 2018, kap. 15, § 340, at projektering, udførelse, drift og vedligehold af konstruktioner og bygningsdele skal ske under hensyn til, at der:
 
@@ -49,7 +49,7 @@ Under opvarmede bygninger er frostfri dybde normalt 0,9 m under terræn. Under f
 
 I henhold til §343 skal tage og ovenlys udføres, så der er tilfredsstillende sikkerhed mod gennemtrædning. Baggrunden for denne bestemmelse er at sikre, at der er et acceptabelt sikkerhedsniveau for personer, som arbejder på taget. Sikkerhed mod gennemtrædning kan sikres i selve tagkonstruktionen eller ovenlyset eller ved at konstruktionen er opbygget på en sådan måde, at gennemtrædning ikke medfører personskade. Det sidste kan for eksempel ske ved at der under taget er en konstruktion, som sikre mod fald. Bestemmelsen omfatter også glastage, hvor der er behov for at færdes på taget i forbindelse med drift og vedligehold, med mindre det på anden vis sikres at der ikke er risiko for personskade. Glas i tage, tagvinduer og andre glaskonstruktioner er normalt ikke trædefaste.
 
-### Projektering og udførelse af konstruktioner {#95179d01-71d9-4c1e-b28e-10c919ec51a0}
+### 2.0. Projektering og udførelse af konstruktioner {#95179d01-71d9-4c1e-b28e-10c919ec51a0}
 
 Det fremgår af bygningsreglementet 2018, kap. 15, § 344, at konstruktioner skal projekteres og udføres, så de kan modstå de normalt forekommende statiske og dynamiske påvirkninger i forhold til konstruktionens placering og anvendelse.
 
@@ -73,7 +73,7 @@ Eurocodes: DS/EN 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1999
 
 ### De nationale annekser til eurocodes kan læses [her](../../../../../nationale-annekser/nationale-annekser/nationale-annekser "Nationale annekser"){rel="noopener" target="_blank"}.
 
-### Øvrige materialer og konstruktioner {#e21f4f0b-67d2-4c6e-9065-a8a93f4846eb}
+### 2.1. Øvrige materialer og konstruktioner {#e21f4f0b-67d2-4c6e-9065-a8a93f4846eb}
 
 Det fremgår af bygningsreglementet 2018, kap. 15, § 352, at det ved anvendelse af materialer og konstruktioner, der ikke er omfattet af bestemmelserne i §§ 345-351, på anden vis skal dokumenteres, at der opnås et sikkerhedsniveau, som beskrevet i § 344.
 
@@ -95,15 +95,15 @@ Godkendelsesordning for vindmøller
 
 #### [Gå til bekendtgørelsen](https://www.retsinformation.dk/eli/lta/2023/648){target="_blank"}
 
-### Telte, teleskopstande, demonterbare tilskuertribuner og lignende transportable konstruktioner {#7d5c293f-3d66-4b91-92f5-978be4d3498b}
+### 2.2. Telte, teleskopstande, demonterbare tilskuertribuner og lignende transportable konstruktioner {#7d5c293f-3d66-4b91-92f5-978be4d3498b}
 
-Det fremgår af bygningsreglementet 2018, kap. 15, § 353, at telte og lignende transportable konstruktioner skal dimensioneres i overensstemmelse med *DS/EN 13782, Midlertidige konstruktioner -- Telte -- Sikkerhed med DS/EN 13782 DK NA, *eller på en måde, som sikrer, at de relevante bestemmelser i §§ 344-351 er opfyldt. Endvidere fremgår det af bygningsreglementet, kap. 15, §355 at
+Det fremgår af bygningsreglementet 2018, kap. 15, § 353, at telte og lignende transportable konstruktioner skal dimensioneres i overensstemmelse med *DS/EN 13782, Midlertidige konstruktioner – Telte – Sikkerhed med DS/EN 13782 DK NA, *eller på en måde, som sikrer, at de relevante bestemmelser i §§ 344-351 er opfyldt. Endvidere fremgår det af bygningsreglementet, kap. 15, §355 at
 
 Teleskopstande og demonterbare tilskuertribuner skal dimensioneres i overensstemmelse med henholdsvis *DS/EN 13200-5* og *13200-6* med *DS/EN 13200-5 DK NA* og *DS/EN 13200-6 DK NA*, eller på en måde, som sikrer, at de relevante bestemmelser i §§ 344-351 er opfyldt.
 
 For hjælp til forståelsen af de særlige forhold, der ofte knytter sig til dimensioneringen af transportable konstruktioner generelt, henvises der til bygningsreglementets vejledning om konstruktionsforhold i transportable konstruktioner. Vejledningen redegør for projekteringsgrundlaget og lasterne på transportable konstruktioner, og sikrer at konstruktionen har en tilfredsstillende sikkerhed og funktion.
 
-### Undtagelser {#8e500211-751b-4b2c-90e8-b5ab758e8c0b}
+### 2.3. Undtagelser {#8e500211-751b-4b2c-90e8-b5ab758e8c0b}
 
 Det fremgår af bygningsreglementet 2018, kap. 15, § 356, at § 344, stk. 2, til § 351 samt §§ 353-355 kan fraviges, hvis det på anden vis sikres og dokumenteres, at en afvigelse er forsvarlig, og der opnås et sikkerhedsniveau, som beskrevet i § 344, stk. 2, nr. 1.
 
@@ -111,7 +111,7 @@ En afvigelse fra standarderne i de nævnte bestemmelser kræver som udgangspunkt
 
 For dokumentation af bærende konstruktioner henvises der til [*bygningsreglementet 2018, kap. 28.*](../../../../../ovrige-bestemmelser/28/krav/494_505#544423a7-9d06-46d8-8c72-2deae649bccc){rel="noopener" target="_blank"}
 
-### Drift, kontrol og vedligehold {#491e0154-3218-4bfb-bf8e-6f3326effa18}
+### 3.0. Drift, kontrol og vedligehold {#491e0154-3218-4bfb-bf8e-6f3326effa18}
 
 Det fremgår af bygningsreglementet 2018, kap. 15, § 357, at drift, kontrol og vedligehold af konstruktioner skal ske, så de til enhver tid overholder de relevante bestemmelser i §§ 344-354.
 
@@ -119,7 +119,7 @@ Det påhviler den til enhver tid værende ejer af en bygning at vedligeholde og 
 
 Trafik- Bygge- og Boligstyrelsen har udarbejdet en række vejledninger, der kan hjælpe bygningsejer i forbindelse med drift og vedligehold af forskellige typer konstruktioner. Vejledningerne fremgår i følgende afsnit.
 
-### Sne og vandophobning på tage {#16fbd0b9-923e-4649-b49f-3ce0e6da6060}
+### 3.1. Sne og vandophobning på tage {#16fbd0b9-923e-4649-b49f-3ce0e6da6060}
 
 Bygningsejer bør rydde eventuel sne fra sit tag og sikre at der ikke sker vandophobning, såfremt der er risiko for kollaps. Især ejere af haller og lignende bygninger med store spænd bør undersøge denne risiko og være opmærksomme på sne eller vandophobning på deres tage.
 
@@ -153,7 +153,7 @@ Vejledning: Forebyggelse af sne og ophobning af vand på haller og store tage
 
 #### Gå til vejledning [Haller Og Store Tage Forebyg Skader Fra Sne Og Vand (2021)](../../../../../media/al2dyyiy/haller-og-store-tage-forebyg-skader-fra-sne-og-vand-2021.pdf){target="_blank"}
 
-### Altaner {#90439abc-eeda-4aa5-90d4-20435c872cfa}
+### 3.2. Altaner {#90439abc-eeda-4aa5-90d4-20435c872cfa}
 
 Bygningsejere bør undersøge og vedligeholde altaner. Sammen med bl.a. den miljømæssige eksponering af altankonstruktionen og den kvalitet, som altanen oprindeligt er opført i, vil omfanget og kvaliteten af de vedligeholdelsesforanstaltninger, der løbende udføres på altanen, afgøre altanens levetid.
 
@@ -177,7 +177,7 @@ Vejledning: Eftersyn af ældre betonaltaner
 
 #### [Vejledning Om Eftersyn Af Ældre Betonaltaner](../../../../../media/sntagso1/vejledning-om-eftersyn-af-aeldre-betonaltaner.pdf){target="_blank"}
 
-### Spærkonstruktioner med store spændvidder {#94617fea-e986-4f00-b17c-b95e48c78310}
+### 3.3. Spærkonstruktioner med store spændvidder {#94617fea-e986-4f00-b17c-b95e48c78310}
 
 Bygningsejer bør undersøge behovet for et særskilt afstivningsprojekt ved større spærkonstruktioner idet det afstivende elements styrke og stivhed er særligt vigtigt for konstruktionens samlede stabilitet. Der er normalt behov for et særskilt projekt ved spærkonstruktioner med en spændvidde mere end 12-14 m. Det kan også være relevant at efterse eksisterende spærkonstruktioner nærmere i forhold til deres sikkerhed, som beskrevet i nedenstående vejledning.
 
@@ -201,10 +201,10 @@ Vejledning: Store stålspær - Behov for afstivning
 
 #### Gå til vejledning [Store Stålrammer Behov For Afstivning (1)](../../../../../media/j11pa3fg/store-staalrammer-behov-for-afstivning.pdf){target="_blank"}
 
-### Fugt i konstruktioner {#ffeed82a-4e0a-4406-b3a0-098d61a48f23}
+### 3.4. Fugt i konstruktioner {#ffeed82a-4e0a-4406-b3a0-098d61a48f23}
 
 Bygningsejer bør holde øje med fugt i konstruktionen. Fugt i bygninger kan føre til usundt indeklima og svækkede konstruktioner. Fugt i bygninger bør allerede undgås i selve byggeprocessen, men eventuelle fugtskader herefter kan forhindres ved vedligeholdelse og renovering. Ved renoveringsopgaver udføres undersøgelser af de eksisterende forhold, og membraner i bygningen kontrolleres, så eventuelle fugtskader registreres og afgrænses.
 
-### Tagbrønde og tagnedløb {#3d1c4a2b-7666-4e74-9158-8dfa5cc6f035}
+### 3.5. Tagbrønde og tagnedløb {#3d1c4a2b-7666-4e74-9158-8dfa5cc6f035}
 
 Bygningsejere bør vedligeholde tagbrøde og tagnedløb. Dette gælder specielt for ejere af bygninger med flade tage, hvor der er risiko for ophobning af vand. Mangel på vedligeholdelse kan medvirke til, at nedløb tilstopper og gør, at regnvand på taget ikke kan løbe tilstrækkeligt hurtigt væk. Denne ekstra last fra vandet kan overstige den last tagkonstruktionen er dimensioneret for. Der henvises til [BR18, kap. 4](../../../../04/krav "Krav"), om afløb for yderligere.

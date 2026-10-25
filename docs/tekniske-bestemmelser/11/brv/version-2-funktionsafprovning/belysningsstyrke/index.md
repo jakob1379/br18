@@ -14,57 +14,57 @@
 
 ## Vejledning om funktionsafprøvning
 
-### Indledning {#a260b097-6fce-4f6d-954c-82545bd008c9}
+### 1.0 Indledning {#a260b097-6fce-4f6d-954c-82545bd008c9}
 
-### Hvornår foretages funktionsafprøvning? {#9d20bce6-56bc-4e6e-b74a-1775f93d5542}
+### 1.1 Hvornår foretages funktionsafprøvning? {#9d20bce6-56bc-4e6e-b74a-1775f93d5542}
 
-### Store eller komplekse byggerier {#91af3d2a-a85a-4e27-a574-60ce8b2a8bf6}
+### 1.2 Store eller komplekse byggerier {#91af3d2a-a85a-4e27-a574-60ce8b2a8bf6}
 
-### Hvem kan udføre funktionsafprøvning {#27f53ecf-c2db-452d-a8ee-3e15b62fe1ee}
+### 1.3 Hvem kan udføre funktionsafprøvning {#27f53ecf-c2db-452d-a8ee-3e15b62fe1ee}
 
-### Brug af eksternt måleudstyr og målemetoder {#719cfa39-05f7-4a4d-9e09-f75db5621dcb}
+### 1.4 Brug af eksternt måleudstyr og målemetoder {#719cfa39-05f7-4a4d-9e09-f75db5621dcb}
 
-### Baggrund {#a4a31ba7-174f-41b7-966e-0e0b6fad97a1}
+### 1.5 Baggrund {#a4a31ba7-174f-41b7-966e-0e0b6fad97a1}
 
-### Ventilationssystemer {#2c036873-5116-4bcc-a05c-7253058c13b6}
+### 2.0 Ventilationssystemer {#2c036873-5116-4bcc-a05c-7253058c13b6}
 
-### Relevante standarder {#089edcda-2abb-44a6-8e78-47277dfe7e1f}
+### 2.1 Relevante standarder {#089edcda-2abb-44a6-8e78-47277dfe7e1f}
 
-### Luftmængder ved mekanisk ventilation (nominel luftstrøm) {#a2bf648a-92dc-4b37-85bc-71027f3ea936}
+### 2.2 Luftmængder ved mekanisk ventilation (nominel luftstrøm) {#a2bf648a-92dc-4b37-85bc-71027f3ea936}
 
-### Behovsstyring {#e90d964d-26af-4138-8e05-2e6243ca348b}
+### 2.3 Behovsstyring {#e90d964d-26af-4138-8e05-2e6243ca348b}
 
-### Specifikt elforbrug til lufttransport (SEL-Værdi) {#a7a2cd4e-2061-412c-9235-9fea0eb33ef3}
+### 2.4 Specifikt elforbrug til lufttransport (SEL-Værdi) {#a7a2cd4e-2061-412c-9235-9fea0eb33ef3}
 
-### Naturlig ventilation {#52ac264a-4f5b-465a-86e3-6b384927e68a}
+### 2.5 Naturlig ventilation {#52ac264a-4f5b-465a-86e3-6b384927e68a}
 
-### Hybrid ventilation {#45f49770-84c6-413f-9518-a15ade535e43}
+### 2.6 Hybrid ventilation {#45f49770-84c6-413f-9518-a15ade535e43}
 
-### Varme- og køleanlæg {#b1ce1e45-bf2a-4c28-b3aa-74d4b65280e1}
+### 3.0 Varme- og køleanlæg {#b1ce1e45-bf2a-4c28-b3aa-74d4b65280e1}
 
-### Relevante standarder {#3ab61ad4-40fa-4d23-98d0-1c9ec4fd7b38}
+### 3.1 Relevante standarder {#3ab61ad4-40fa-4d23-98d0-1c9ec4fd7b38}
 
-### Indregulering {#fbdcc4e6-eec8-4212-961a-14c37d3140d4}
+### 3.2 Indregulering {#fbdcc4e6-eec8-4212-961a-14c37d3140d4}
 
-### Styring {#51a55395-b546-4bb6-b610-49bd028f6740}
+### 3.3 Styring {#51a55395-b546-4bb6-b610-49bd028f6740}
 
-### Belysning {#e75f65d3-1a84-4b90-9bc2-5f5d5169b20a}
+### 4.0 Belysning {#e75f65d3-1a84-4b90-9bc2-5f5d5169b20a}
 
-### Relevante standarder og anvisninger {#d274e5f3-fbcb-4c85-94e1-cf1c98fc1db0}
+### 4.1 Relevante standarder og anvisninger {#d274e5f3-fbcb-4c85-94e1-cf1c98fc1db0}
 
-### Belysningsstyrke {#4b1b94a1-9f48-4391-9caf-22bf6724caab}
+### 4.2 Belysningsstyrke {#4b1b94a1-9f48-4391-9caf-22bf6724caab}
 
 *Formål med funktionsafprøvning af belysningsstyrke*
 
-Det skal eftervises, at det elektriske belysningsanlæg opfylder bygningsreglementets krav for belysningsstyrke, jf. DS/EN 1*2464-1, Lys og Belysning - Belysning ved arbejdspladser -- Del 1: Indendørs arbejdspladser.*
+Det skal eftervises, at det elektriske belysningsanlæg opfylder bygningsreglementets krav for belysningsstyrke, jf. DS/EN 1*2464-1, Lys og Belysning - Belysning ved arbejdspladser – Del 1: Indendørs arbejdspladser.*
 
-De tekniske krav til belysningen skal kunne opfyldes i hele anlæggets levetid. Belysningsanlæg bør altid udføres i henhold til informationer i en lysberegning.  Det overordnede formål med en funktionsafprøvning af belysningsanlæg er at eftervise, at anlægget leverer det, beregningen angiver. Den skal således eftervise, at det elektriske belysningsanlæg opfylder bygningsreglementets krav jf. DS/EN 12464-1, *Lys og Belysning - Belysning ved arbejdspladser -- Del 1: Indendørs arbejdspladser.* Disse krav omfatter: • den vedligeholdte belysningsstyrke Ē~m~ på alle relevante flader (arbejdsplan, lofter, vægge, cylindrisk belysningsstyrke)
+De tekniske krav til belysningen skal kunne opfyldes i hele anlæggets levetid. Belysningsanlæg bør altid udføres i henhold til informationer i en lysberegning.  Det overordnede formål med en funktionsafprøvning af belysningsanlæg er at eftervise, at anlægget leverer det, beregningen angiver. Den skal således eftervise, at det elektriske belysningsanlæg opfylder bygningsreglementets krav jf. DS/EN 12464-1, *Lys og Belysning - Belysning ved arbejdspladser – Del 1: Indendørs arbejdspladser.* Disse krav omfatter: • den vedligeholdte belysningsstyrke Ē~m~ på alle relevante flader (arbejdsplan, lofter, vægge, cylindrisk belysningsstyrke)
 
 • belysningens regelmæssighed U0 (E~min~/Ē~m~)
 
 • farvegengivelsesindeks R~a~.
 
-Det kontrolleres, at det oplyste blændingstal for enkelte rum (UGR tabelmetoden) overholder krav til R~UGL~ (grænseværdi for R~UG~ -- Unified Glare Rating)
+Det kontrolleres, at det oplyste blændingstal for enkelte rum (UGR tabelmetoden) overholder krav til R~UGL~ (grænseværdi for R~UG~ – Unified Glare Rating)
 
       Forudsætninger for udførelse af funktionsafprøvning
 
@@ -80,8 +80,9 @@ Det kontrolleres, at det oplyste blændingstal for enkelte rum (UGR tabelmetoden
 
 *Målepunkter*
 
-Som målepunkter udvælges et grid, der dækker mindst 25% repræsentative arbejdspladser (dog mindst svarende til en arbejdsplads) og enkelte typiske målesteder i områder med normal færdsel, fx gange og trapper. Antallet af målepunkter i et grid kan bestemmes ved brug af DS/EN 12464-1. Hvis afprøvningen påviser fejl, øges omfanget af repræsentative arbejdspladser. Hvis flere/adskillige målinger afviger fra det forventede i forhold til lysberegningen, foreslås det, at der tages kontakt til bygherre for at afklare det videre forløb. Udfør målinger på et tilstrækkeligt antal målepunkter i alle rum, små som store, til at fastslå, at Ē~min~, Ē~mid~ og Ē~max~ er som forventet i forhold til lysberegningen. Hvis arbejdspladserne endnu ikke er indrettet inden funktionsafprøvningen må der antages arbejdspladszoner mm. Antagelserne skal beskrives i dokumentationen for funktionsafprøvningen. Måling af belysningsstyrken kan for eksempel foretages med et kalibreret luxmeter og udføres, jf. DS/EN 12464-1.   *Anvendelse af Vedligeholdelsesfaktor\*
-Krav til belysningsstyrker i DS/EN 12464-1 angives som Ē~m~ -- vedligeholdte belysningsstyrker. Belysningsanlæg skal derfor kunne levere mere lys end de krav, der stilles i DS/EN 12464-1, når anlægget tages i brug. Det skyldes den såkaldte Vedligeholdelsesfaktor fm, jf. DS/EN 12464-1, kapitel 6.3. Hvis det målte kun netop opfylder gældende krav, kan dette skyldes at der er indreguleret, så anlægget er energioptimeret til ikke, at kunne levere mere lys end nødvendigt er på et hvilket som helst tidspunkt i anlæggets levetid. Er dette tilfældet, skal det kontrolleres, at anlægget kan levere lys der svarer til, at fm er sat = 1.
+Som målepunkter udvælges et grid, der dækker mindst 25% repræsentative arbejdspladser (dog mindst svarende til en arbejdsplads) og enkelte typiske målesteder i områder med normal færdsel, fx gange og trapper. Antallet af målepunkter i et grid kan bestemmes ved brug af DS/EN 12464-1. Hvis afprøvningen påviser fejl, øges omfanget af repræsentative arbejdspladser. Hvis flere/adskillige målinger afviger fra det forventede i forhold til lysberegningen, foreslås det, at der tages kontakt til bygherre for at afklare det videre forløb. Udfør målinger på et tilstrækkeligt antal målepunkter i alle rum, små som store, til at fastslå, at Ē~min~, Ē~mid~ og Ē~max~ er som forventet i forhold til lysberegningen. Hvis arbejdspladserne endnu ikke er indrettet inden funktionsafprøvningen må der antages arbejdspladszoner mm. Antagelserne skal beskrives i dokumentationen for funktionsafprøvningen. Måling af belysningsstyrken kan for eksempel foretages med et kalibreret luxmeter og udføres, jf. DS/EN 12464-1.   *Anvendelse af Vedligeholdelsesfaktor*
+
+Krav til belysningsstyrker i DS/EN 12464-1 angives som Ē~m~ – vedligeholdte belysningsstyrker. Belysningsanlæg skal derfor kunne levere mere lys end de krav, der stilles i DS/EN 12464-1, når anlægget tages i brug. Det skyldes den såkaldte Vedligeholdelsesfaktor fm, jf. DS/EN 12464-1, kapitel 6.3. Hvis det målte kun netop opfylder gældende krav, kan dette skyldes at der er indreguleret, så anlægget er energioptimeret til ikke, at kunne levere mere lys end nødvendigt er på et hvilket som helst tidspunkt i anlæggets levetid. Er dette tilfældet, skal det kontrolleres, at anlægget kan levere lys der svarer til, at fm er sat = 1.
 
 For rum uden automatisk dagslysstyring betyder det, at der skal måles en belysningsstyrke, der svarer til kravet plus det, som anlægget er beregnet til ved den for rummet anvendte vedligeholdsfaktor fm. Er denne fx 0,79 skal den målte belysningsstyrke være mindst 1,27 x kravet i DS/EN 12464-1.  For rum med automatisk dagslysstyring kontrolleres lysstyringens set-punkt og belysningsstyrken ved endt levetid beregnes ud fra denne. Kan der ikke indhentes oplysninger om dette set-punkt, justeres belysningsstyrken manuelt til det maksimale output, og målingen sammenholdes med den målte Ē for at afgøre, om vedligeholdelsesfaktoren er anvendt korrekt.  Hvis der ikke er møbleret, når der måles, så anbefales det at der fratrækkes 10% på de målte belysningsstyrker.
 
@@ -107,47 +108,47 @@ Der udarbejdes en funktionsafprøvningsrapport, der beskriver:
 
 >
 
-### Styring af elektriske belysningsanlæg {#113c2a69-425f-41bb-b41b-885ed5ddabc5}
+### 4.3 Styring af elektriske belysningsanlæg {#113c2a69-425f-41bb-b41b-885ed5ddabc5}
 
-### Elevatorer {#bd12bd3b-1396-4d7e-9bcf-84f50429cf95}
+### 5.0 Elevatorer {#bd12bd3b-1396-4d7e-9bcf-84f50429cf95}
 
-### Relevante standarder {#8463edf5-7cc3-48e4-b60c-93a88d1e9dc5}
+### 5.1 Relevante standarder {#8463edf5-7cc3-48e4-b60c-93a88d1e9dc5}
 
-### Formål med funktionsafprøvning af elevatorers energiforbrug {#3cce8589-abb3-4baa-8030-0ce2282bdd3a}
+### 5.2 Formål med funktionsafprøvning af elevatorers energiforbrug {#3cce8589-abb3-4baa-8030-0ce2282bdd3a}
 
-### Energiforsyningsanlæg {#a5b7b6af-4353-4e4d-bac5-f969f02c6e64}
+### 6.0 Energiforsyningsanlæg {#a5b7b6af-4353-4e4d-bac5-f969f02c6e64}
 
-### Energiforsyningsanlæg omfattet af Ecodesign {#b155f841-e7fb-4dce-b1a2-fa9303cf9938}
+### 6.1 Energiforsyningsanlæg omfattet af Ecodesign {#b155f841-e7fb-4dce-b1a2-fa9303cf9938}
 
-### Fjernvarmeanlæg {#d31d9cae-ecd1-4ae4-b4ad-3ec1ef2606bb}
+### 6.2 Fjernvarmeanlæg {#d31d9cae-ecd1-4ae4-b4ad-3ec1ef2606bb}
 
-### Kedelanlæg {#486c677e-0159-4d84-a4cb-5754a9540bdd}
+### 6.3 Kedelanlæg {#486c677e-0159-4d84-a4cb-5754a9540bdd}
 
-### Energiproduktionsanlæg baseret på vedvarende energikilder {#c684e668-3ad2-4952-8bbe-e2f92cf88953}
+### 7.0 Energiproduktionsanlæg baseret på vedvarende energikilder {#c684e668-3ad2-4952-8bbe-e2f92cf88953}
 
-### Solvarme {#e9a2c649-ce9d-4bde-b782-76d688aef4c8}
+### 7.1 Solvarme {#e9a2c649-ce9d-4bde-b782-76d688aef4c8}
 
-### Solceller {#8791bb93-4771-4a9e-b273-c7d274959318}
+### 7.2 Solceller {#8791bb93-4771-4a9e-b273-c7d274959318}
 
-### Vindmøller {#f2c5ed64-57d1-4b3b-967c-6528d01872f9}
+### 7.3 Vindmøller {#f2c5ed64-57d1-4b3b-967c-6528d01872f9}
 
-### Bygningsautomatik {#06191ae0-9c0f-47a4-a6e3-5a575d0eaf04}
+### 8.0 Bygningsautomatik {#06191ae0-9c0f-47a4-a6e3-5a575d0eaf04}
 
-### Definition {#2d39d392-81a1-497e-a0b4-2487d2ed9159}
+### 8.1 Definition {#2d39d392-81a1-497e-a0b4-2487d2ed9159}
 
-### Omfang af funktionsafprøvning {#2b3c0e91-cd6c-4d76-ae8c-067656e3bb47}
+### 8.2 Omfang af funktionsafprøvning {#2b3c0e91-cd6c-4d76-ae8c-067656e3bb47}
 
-### Forudsætninger for udførelse af funktionsafprøvning {#99a45e83-f692-437e-bc01-970a48d9ca8d}
+### 8.3 Forudsætninger for udførelse af funktionsafprøvning {#99a45e83-f692-437e-bc01-970a48d9ca8d}
 
-### Målepunkter {#552b8f12-921e-4209-9548-758617227e55}
+### 8.4 Målepunkter {#552b8f12-921e-4209-9548-758617227e55}
 
-### Opvarmning og køling {#950b31dd-b7ea-44c7-9e7c-a8a60fafb2ec}
+### 8.5 Opvarmning og køling {#950b31dd-b7ea-44c7-9e7c-a8a60fafb2ec}
 
-### Præsentation af loggede data {#2260c709-71a0-41a1-a230-8122fa47c976}
+### 8.6 Præsentation af loggede data {#2260c709-71a0-41a1-a230-8122fa47c976}
 
-### Alarmer {#7a619647-8298-48f9-b3ff-1c0bc4c2944e}
+### 8.7 Alarmer {#7a619647-8298-48f9-b3ff-1c0bc4c2944e}
 
-### Acceptkriterium {#8c276468-27da-40b5-9cd3-21d0faf66b5c}
+### 8.8 Acceptkriterium {#8c276468-27da-40b5-9cd3-21d0faf66b5c}
 
-### Dokumentation {#bfd6298a-b31e-4a25-99f5-295e4738889d}
+### 8.9 Dokumentation {#bfd6298a-b31e-4a25-99f5-295e4738889d}
 

@@ -11,10 +11,10 @@ hide:
 
 ## Se alle vejledninger om Dokumentation af brandforhold (§ 506 - § 522)
 
-- [Spørgsmål og svar](./#spoergsmaal-og-svar)
-- [Vejledning til kapitel 29 - Dokumentation af brandforhold](./#vejledning-til-kapitel-29-dokumentation-af-brandforhold)
-- [Eksempler på dokumentationsniveau ved ombygningssager](./#eksempler-paa-dokumentationsniveau-ved-ombygningssager)
-- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](./#temasiden-brandogkonstruktioner-dk-om-certificeringsordningen-for-brandforhold-og-baerende-konstruktioner)
+- [Spørgsmål og svar](spoersgmaal-og-svar/)
+- [Vejledning til kapitel 29 - Dokumentation af brandforhold](vejledning-til-kapitel-29-dokumentation-af-brandforhold/)
+- [Eksempler på dokumentationsniveau ved ombygningssager](eksempler-ombygning/)
+- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](temasiden-brandogkonstruktioner-dk/)
 
 ## Spørgsmål og svar {#spoergsmaal-og-svar}
 

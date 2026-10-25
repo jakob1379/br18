@@ -180,6 +180,50 @@ class AuditTest(unittest.TestCase):
 
         self.assertEqual(result.returncode, 0, self.report.read_text(encoding="utf-8"))
 
+    def guide_site(self, root_text: str) -> Origin:
+        guide = "/tekniske-bestemmelser/02/vejledninger/guide/"
+        sections = "<h3>1.0 Indledning</h3><p>Guiden indleder.</p><h3>2.0 Ramper</h3><p>Ramper skal være jævne.</p>"
+        links = f'<a href="{guide}">Guide</a><a href="{guide}ramper/">Ramper</a>'
+
+        def expand(page: str) -> str:
+            return f'<section class="accordion__actions"><a href="{page}?Layout=ShowAll" class="link--expand-all">Fold alle ud</a></section>'
+
+        self.corpus.add("", local_page("<p>Forside</p>"))
+        self.corpus.add("tekniske-bestemmelser/02/vejledninger/guide", local_page(root_text))
+        self.corpus.add(
+            "tekniske-bestemmelser/02/vejledninger/guide/ramper",
+            local_page("<h3>1.0 Indledning</h3><h3>2.0 Ramper</h3><p>Ramper skal være jævne.</p>"),
+        )
+        return self.serve(
+            {
+                "/": origin_page("<p>Forside</p>", links),
+                guide: origin_page(f"{expand(guide)}<h3>1.0 Indledning</h3><h3>2.0 Ramper</h3>", links),
+                f"{guide}?Layout=ShowAll": origin_page(sections),
+                f"{guide}ramper/": origin_page(f"{expand(guide + 'ramper/')}<h3>1.0 Indledning</h3><h3>2.0 Ramper</h3>", links),
+                f"{guide}ramper/?Layout=ShowAll": origin_page(sections),
+            }
+        )
+
+    def test_guide_subpage_is_an_alias_of_a_root_that_covers_the_guide(self) -> None:
+        origin = self.guide_site("<h3>1.0 Indledning</h3><p>Guiden indleder.</p><h3>2.0 Ramper</h3><p>Ramper skal være jævne.</p>")
+
+        result = self.audit(origin)
+
+        report = self.report.read_text(encoding="utf-8")
+        self.assertEqual(result.returncode, 0, report)
+        self.assertIn("Alias pages", report)
+        self.assertIn("https://www.bygningsreglementet.dk/tekniske-bestemmelser/02/vejledninger/guide/ramper/", report)
+
+    def test_guide_subpage_is_reported_when_the_root_lacks_guide_text(self) -> None:
+        origin = self.guide_site("<h3>1.0 Indledning</h3><h3>2.0 Ramper</h3><p>Ramper skal være jævne.</p>")
+
+        result = self.audit(origin)
+
+        report = self.report.read_text(encoding="utf-8")
+        self.assertEqual(result.returncode, 1, report)
+        self.assertIn("### https://www.bygningsreglementet.dk/tekniske-bestemmelser/02/vejledninger/guide/ramper/", report)
+        self.assertIn("missing_text: Guiden indleder.", report)
+
     def test_differently_spelled_links_to_one_page_are_fetched_once(self) -> None:
         origin = self.two_page_site()
         origin.pages["/"] = origin_page(

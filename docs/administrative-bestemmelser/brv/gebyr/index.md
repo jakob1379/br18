@@ -22,7 +22,7 @@
 
 ## Vejledning om gebyr for kommunernes sagsbehandling på byggeområdet
 
-### Indledning {#c29b7dd6-3256-4187-b181-dfcf6a1f572b}
+### 1. Indledning {#c29b7dd6-3256-4187-b181-dfcf6a1f572b}
 
 Vejledningen er opdateret af Trafik-, Bygge- og Boligstyrelsen i juli 2018
 
@@ -32,11 +32,11 @@ Loftet for det mindre, faste gebyr fremgår af [Bekendtgørelse om gebyrer på b
 
 Lovændringen og de tilhørende bestemmelser i bygningsreglementet trådte i kraft 1. juli 2016.
 
-### De forfatningsretlige regler for opkrævning af gebyrer {#8dd51c52-047a-472f-a141-644a9ef842ac}
+### 2. De forfatningsretlige regler for opkrævning af gebyrer {#8dd51c52-047a-472f-a141-644a9ef842ac}
 
 Opkrævning af skatter og opkrævning af gebyrer er juridisk set ikke det samme.    Grundlovens § 43 bestemmer, at der ikke må opkræves nogen form for skat, uden at det er bestemt ved lov. En skat er i denne forbindelse defineret som en ydelse til det offentlige, som ikke udgør betaling for en særlig modydelse.     Uden for begrebet skat falder betalinger, som skal dække omkostningerne ved en modtaget ydelse, hvilket fx drejer sig om offentlige ydelser, hvor man betaler et gebyr for en tilladelse. Her er det afgørende, at gebyrindtægterne ikke må overstige de samlede omkostninger, som kommunen har haft i forbindelse med at behandle tilladelsen.     Så snart gebyrindtægterne overstiger omkostningerne, vil der være tale om en skat, hvilket der ikke er hjemmel til at opkræve i henhold til byggelovgivningen.     Af hensyn til de ovenstående forfatningsretlige regler om skat, skal kommunen kunne dokumentere, at gebyrindtægterne ikke overstiger de samlede omkostninger, som kommunen har i forbindelse med varetagelsen af byggelovsområdet og de opgaver, som kommunen har i medfør af dens status som bygningsmyndighed. Det er derfor ikke tilstrækkeligt, at disse opgørelser alene foretages skønsmæssigt.     Ved beregningen af de samlede omkostninger kan kommunen indregne udgifter af både direkte og indirekte udgifter, jf. afsnit 15.
 
-### Byggelovens regler for opkrævning af byggesagsgebyrer {#568414fb-afec-4b2c-84c2-6ba8f7b41745}
+### 3. Byggelovens regler for opkrævning af byggesagsgebyrer {#568414fb-afec-4b2c-84c2-6ba8f7b41745}
 
 I dette afsnit gennemgås de regler i byggelovgivningen, der ligger til grund for gebyropkrævningen af byggesagsbehandlingen.     Byggelovens^1^ § 28, stk. 1, bestemmer følgende:
 
@@ -52,7 +52,7 @@ Der kan alene opkræves byggesagsgebyr i de sager, hvor der træffes en afgørel
 
 2. Bekendtgørelse nr. 1615 af 13. december 2017 om offentliggørelse af bygningsreglement 2018 (BR18) med senere ændringer.
 
-### Kommunalbestyrelsens byggesagsbehandling efter BR18 {#1a86b6e8-3240-4380-b7e6-eba436bf0ff6}
+### 4. Kommunalbestyrelsens byggesagsbehandling efter BR18 {#1a86b6e8-3240-4380-b7e6-eba436bf0ff6}
 
 Med bygningsreglement (BR18^1^) er den tekniske byggesagsbehandling afskaffet. I stedet er der indført en certificeringsordning^2^.
 
@@ -88,7 +88,7 @@ Der gøres opmærksom på overgangsordningen for teknisk byggesagsbehandling ved
 
 6. BR18 §§ 24-27.
 
-### Byggesagsgebyr efter tidsforbrug {#9783af26-d3da-41cf-ab4e-b69c8a67b4fc}
+### 5. Byggesagsgebyr efter tidsforbrug {#9783af26-d3da-41cf-ab4e-b69c8a67b4fc}
 
 Kommunalbestyrelsen kan beslutte, at der ikke skal opkræves gebyrer eller, at der kun skal opkræves gebyrer for visse sagstyper, jf. BR18, § 39, stk. 3.     Det er således op til den enkelte kommune at bestemme, om omkostningerne til byggesagsbehandlingen skal finansieres gennem opkrævningen af byggesagsgebyrer, eller om omkostningerne helt eller delvist skal dækkes via skatteindtægter.     Hvis kommunalbestyrelsen beslutter sig for at opkræve byggesagsgebyrer, skal dette dog enten ske efter tidsforbrug eller som et mindre, fast gebyr, hvilket fremgår af § 39, stk. 2.    Ved opkrævning af gebyr efter tidsforbrug, skal gebyret i hver byggesag opkræves i forhold til den tid, som kommunen har brugt på at behandle byggesagen, således at størrelsen på gebyret afspejler, hvor lang tid kommunen har brugt på at behandle ansøgernes byggesag. Det betyder, at gebyrets størrelse kan være højere for behandlingen af særligt komplekse sager, som er meget tidskrævende. Som eksempel kan nævnes byggesager, som giver anledning til modtagelse af mange høringssvar mv. Se i øvrigt mere herom i afsnit 8.       Hverken byggeloven eller bygningsreglementet stiller krav til, hvordan tidsregistreringen skal ske. Det er derfor op til den enkelte kommune at vælge, hvordan kommunen vil indrette tidsregistreringen samt fastlægge procedurer for, hvorledes tidsregistreringen bør ske.
 
@@ -100,7 +100,7 @@ I gebyropkrævningen skal kommunerne iagttage ligebehandlingsprincippet. Det bet
 
 Beslutter kommunalbestyrelsen, at der alene skal opkræves gebyrer for visse sagstyper, men ikke for andre, må kommunen alene dække udgifterne til behandling af de sager, der er gebyrpålagt. Udgifterne forbundet med de sagstyper, hvor kommunen har valgt, at der ikke skal opkræves byggesagsgebyrer, kan således ikke dækkes via gebyrindtægterne. Disse sager skal i stedet skattefinansieres. Som eksempel kan nævnes, at hvis kommunen kun opkræver gebyr for erhvervsbyggeri, må gebyrindtægterne kun dække udgifterne til behandling af erhvervsbyggeri og ikke udgifterne til parcelhuse, som så skal skattefinansieres.    Kommunalbestyrelsen fastsætter selv timeprisen. Der skal dog opkræves samme timepris i alle de sager, hvor kommunalbestyrelsen beslutter, at der skal opkræves byggesagsgebyr efter tidsforbrug. Se også afsnit 9.     Såfremt der opkræves gebyr efter tidsforbrug, kan der ikke samtidig opkræves et mindre, fast gebyr i de sager, hvor der opkræves gebyr efter tidsforbrug, jf. § 39, stk. 2.
 
-### Fastsættelse af gebyret i den enkelte sag {#b659b5e1-970c-412d-9df0-7b0710aace6b}
+### 6. Fastsættelse af gebyret i den enkelte sag {#b659b5e1-970c-412d-9df0-7b0710aace6b}
 
 Ved opkrævning af gebyr efter tidsforbrug, skal kommunen opkræve gebyret for hver byggesag i forhold til den tid, kommunen har brugt på at behandle byggesagen, således at størrelsen af gebyret afspejler, hvor lang tid kommunen har brugt på at behandle ansøgerens byggesag.   Ved opkrævning af byggesagsgebyret skal kommunalbestyrelsen udspecificere tidsforbruget i den enkelte byggesag, jf. § 39, stk. 7.    Hverken byggeloven eller bygningsreglementet indeholder nærmere krav til, hvordan timeforbruget skal udspecificeres, men det er et krav, at udspecificeringen skal oplyse ansøgeren om kommunens opgørelse af tidsforbruget i byggesagen.      Tidsforbruget omfatter perioden fra kommunen påbegynder selve byggesagsbehandlingen og indtil byggesagen endeligt afsluttes ved, at byggeriet endeligt kan tages lovligt i brug. Byggeriet kan tages lovligt i brug, når kommunalbestyrelsen har udstedt en endelig ibrugtagningstilladelse efter § 43.
 
@@ -116,7 +116,7 @@ I henhold til byggelovens § 24, stk. 1 kan der klages over kommunalbestyrelsens
 
 Når kommunalbestyrelsen har afsluttet en byggesag, er kommunens pligter og opgaver i forbindelse med den konkrete byggesag som udgangspunkt ophørt. Tidsregistreringen i den enkelte byggesag ophører dermed også på dette tidspunkt.
 
-### Opkrævning af et mindre, fast gebyr {#08c1b6a0-c551-428f-9c8e-9af6bf2affcd}
+### 7. Opkrævning af et mindre, fast gebyr {#08c1b6a0-c551-428f-9c8e-9af6bf2affcd}
 
 BR18, § 39, stk. 1, bestemmer, at kommunalbestyrelsen kan vælge at opkræve gebyr efter tidsforbrug eller som et mindre, fast gebyr. Bestemmelsen om det mindre, faste gebyr omfatter alle sagstyper.     Såfremt en kommune beslutter, at der skal opkræves et mindre, fast gebyr, skal kommunalbestyrelsen selv nærmere fastsætte, hvilke typer af byggesager omfattet af bygningsreglementets bestemmelser, der er omfattet af denne type af gebyropkrævning.
 
@@ -130,7 +130,7 @@ Der kan eksempelvis ikke opkræves et fast gebyr for sagsbehandlingen af garager
 
 Der er fastsat et loft for, hvor meget kommunerne må opkræve som det mindre, faste gebyr. Loftet gælder for alle de typer af byggesager, som kommunalbestyrelsen beslutter, at der skal opkræves et fast gebyr for. Opkræves gebyret som et fast gebyr, må gebyret ikke overstige det beløb, der er fastsat i bekendtgørelse om Trafik-, Bygge- og Boligstyrelsens gebyrer på byggeområdet.    Loftet for det fastsatte gebyr pristalsreguleres årligt den 1. januar efter Finansministeriets generelle indeks for løn- og prisstigninger. I 2024 udgør loftet for det mindre, faste gebyr 1.175 kr.
 
-### Hvilke poster kan indeholdes i gebyret? {#ca914ed6-250c-417c-a6d3-14938d30504a}
+### 8. Hvilke poster kan indeholdes i gebyret? {#ca914ed6-250c-417c-a6d3-14938d30504a}
 
 Hvis kommunen vælger, at der skal opkræves gebyr efter tidsforbrug for byggesagsbehandlingen, skal gebyret opkræves for perioden fra den egentlige byggesagsbehandlings påbegyndelse indtil sagens endelige afslutning hos kommunen.  Kommunens afslutning af byggesagen vil typisk være ved ibrugtagningstilladelse efter § 43, stk.1.
 
@@ -152,7 +152,7 @@ Se desuden afsnit 12.
 
 8. Garager og carporte, der ikke er integrerede i den primære bebyggelse samt udhuse, hønsehuse, drivhuse, overdækkede terrasser og lignende, er efter § 43, stk. 4, undtaget fra kravet om ibrugtagningstilladelse, og kan derfor tages i brug uden tilladelse. Det samme gælder for nedrivningsarbejder omfattet af § 47, som også er undtaget kravet om ibrugtagningstilladelse, jf. 43, stk. 5. Ved disse byggearbejder vil byggesagens afslutning således være ved lovlig færdigmelding efter § 40.
 
-### Generelle principper for fastsættelse af timeprisen {#e208113b-0e80-41c0-9164-bbb8891d786b}
+### 9. Generelle principper for fastsættelse af timeprisen {#e208113b-0e80-41c0-9164-bbb8891d786b}
 
 Såfremt en kommune vælger at opkræve byggesagsgebyr efter tidsforbrug, skal den enkelte kommune opkræve samme timepris i alle de byggesager, hvor der opkræves gebyr efter tidsforbrug.
 
@@ -162,17 +162,17 @@ Kommunens generelle udgifter i forbindelse med kommunens stikprøvekontrol efter
 
 9. BR18 § 39, stk. 1.
 
-### Byggesagsgebyr i sager, hvor der meddeles afslag {#e3f27deb-d2e1-4e29-a873-2e41abe22946}
+### 10. Byggesagsgebyr i sager, hvor der meddeles afslag {#e3f27deb-d2e1-4e29-a873-2e41abe22946}
 
 I BR18 § 39, stk. 1, fremgår det, at der kan opkræves gebyr, selvom der meddeles afslag på en ansøgning om byggetilladelse, midlertidig tilladelse eller dispensation efter reglementet. Det er dog frivilligt, hvorvidt kommunen vælger at opkræve gebyr for afslag, idet kommunen efter § 39, stk. 1, selv kan vælge om og i givet fald i hvilke sagstyper, der skal opkræves byggesagsgebyr. Se mere herom i afsnit 5.    Hvis kommunen vælger at opkræve gebyr i sager, hvor kommunens afgørelse har karakter af et afslag, er det vigtigt at skelne mellem afvisning og afslag, idet der alene er hjemmel til at opkræve gebyr for afslag.    Et afslag er den afgørelse, som kommunen når frem til, efter der er foretaget en egentlig byggesagsbehandling af sagen, men hvor der er forhold, der gør, at byggeriet ikke kan tillades.       En afvisning er den situation, hvor kommunen afviser at foretage en egentlig byggesagsbehandling, da der fra sagens start mangler væsentlige oplysninger i sagen, eller hvis det viser sig, at sagen ikke skal behandles efter byggelovgivningen. En afvisning dækker således over de situationer, hvor kommunen vurderer, at der foreligger formalitetsmæssige mangler i en ansøgning og således må afvise sagen uden at have prøvet eller behandlet sagens materielle indhold. En afvisning indebærer således, at kommunen ikke har vurderet og taget stilling til sagens konkrete indhold.
 
 De udgifter, som kommunen vil have i forbindelse med afvisning af en ansøgning, kan dækkes som en del af de samlede, indirekte udgifter, som kommunerne har i forbindelse med administrationen af byggesagsbehandlingen, jf. afsnit 15. Disse udgifter kan kommunen lade afspejle i den timepris, som kommunen selv fastsætter.
 
-### Byggesagsgebyr for deltilladelser {#a1800975-5ead-4bc6-8883-ef6e665b5688}
+### 11. Byggesagsgebyr for deltilladelser {#a1800975-5ead-4bc6-8883-ef6e665b5688}
 
 Kommunerne kan vælge at opkræve byggesagsgebyr efter tidsforbrug for deltilladelser.   Hvis kommunen vælger at opkræve byggesagsgebyr for en deltilladelse, skal kommunen blot være opmærksom på, at opkrævningen af byggesagsgebyr følger gebyrreglerne generelt.    Derudover skal kravet om udspecificering af tidsforbruget ved gebyropkrævning ved deltilladelser iagttages.
 
-### Byggesagsgebyrets forfaldstidspunkt {#70bed234-2cba-4a1f-bf1f-38ca072d4d97}
+### 12. Byggesagsgebyrets forfaldstidspunkt {#70bed234-2cba-4a1f-bf1f-38ca072d4d97}
 
 Det gælder i henhold til BR18 § 39, stk. 5, at gebyr fastsat efter tidsforbrug forfalder til betaling, når kommunalbestyrelsen meddeler tilladelse til at tage bygningen i brug.     Forfaldstidspunktet betyder det tidspunkt hvorfra kommunen kan opkræve betaling for byggesagsbehandlingen. Kommunen bestemmer selv selve handlingstidspunktet, det vil sige, hvornår bygherren fra forfaldstidspunktet senest skal erlægge betaling.     Det angivne forfaldstidspunkt i BR18, § 39, stk. 5, angiver således det tidligste tidspunkt, hvor kommunen kan opkræve betaling af gebyr for byggesagsbehandlingen. Der kan således ikke opkræves gebyr, der ikke er forfaldent.     Kommunen kan derfor efter det angivne forfaldstidspunkt selv fastsætte de nærmere betalingsbetingelser, herunder hvornår gebyret skal erlægges i den enkelte byggesag, hvis blot dette tidspunkt tidligst er, når bygningen endeligt kan tages lovligt i brug^10^.
 
@@ -188,7 +188,7 @@ I nogle sager forekommer der en længere forhåndsdialog mellem kommunen og bygh
 
 Anden rate forfalder som nævnt til betaling, når bygningen endeligt kan tages lovligt i brug svarende til det tidspunkt, hvor byggesagen endeligt kan afsluttes, jf. ovenstående.
 
-Opkræves gebyret som et mindre, fast gebyr, forfalder gebyret til betaling, når byggearbejdet lovligt kan påbegyndes -- det vil sige ved meddelelse om byggetilladelse. Opkræves gebyret som et mindre, fast gebyr, kan kommunalbestyrelsen tilbageholde tilladelsen eller dispensationen, indtil gebyret er indbetalt.
+Opkræves gebyret som et mindre, fast gebyr, forfalder gebyret til betaling, når byggearbejdet lovligt kan påbegyndes – det vil sige ved meddelelse om byggetilladelse. Opkræves gebyret som et mindre, fast gebyr, kan kommunalbestyrelsen tilbageholde tilladelsen eller dispensationen, indtil gebyret er indbetalt.
 
 I tilfælde, hvor en ansøger i løbet af processen trækker sin ansøgning tilbage, kan kommunen opkræve gebyr for den tid, kommunen har brugt på byggesagsbehandling i perioden fra byggesagsbehandlingens påbegyndelse og indtil ansøgningen trækkes tilbage. Opkrævning af gebyret foregår i sådant et tilfælde ved, at kommunen meddeler ansøgeren et afslag med gebyropkrævning efter § 39, stk. 1 efterfulgt af en udspecificering af gebyret, jf. § 39, stk. 7.
 
@@ -198,7 +198,7 @@ Ved lovliggørelsessager, kan der opkræves gebyr for perioden fra kommunen har 
 
 11. BR18 § 43.
 
-### Opkrævning af gebyr for kommunens stikprøvekontrol {#93b91313-05fa-4d04-ad5e-86c5954b720e}
+### 13. Opkrævning af gebyr for kommunens stikprøvekontrol {#93b91313-05fa-4d04-ad5e-86c5954b720e}
 
 Omkostningerne ved kommunens generelle stikprøvekontrol efter § 46, kan medregnes som en indirekte udgift ved gebyropkrævningen generelt. Se mere om de indirekte udgifter oven over i afsnit 9.
 
@@ -206,7 +206,7 @@ Kommunalbestyrelsen kan fastsætte sin timepris således, at de indirekte udgift
 
 Hvis resultatet af den generelle stikprøvekontrol udløser en konkret lovliggørelsessag, vil der herefter kunne opkræves et konkret gebyr for kommunalbestyrelsens behandling af den pågældende lovliggørelsessag udløst af stikprøvekontrollen. I den konkrete lovliggørelsessag vil der således kunne opkræves et byggesagsgebyr fra det tidspunkt sagsbehandlingen af den konkrete lovliggørelsessag er påbegyndt ved stikprøvekontrollen og frem til sagens afslutning ved lovlig ibrugtagning efter, at byggeriet er blevet lovliggjort.
 
-### Byggesagsgebyr, når kommunen påser anden lovgivning {#2a2de623-31df-4776-9c74-591bbf8cb902}
+### 14. Byggesagsgebyr, når kommunen påser anden lovgivning {#2a2de623-31df-4776-9c74-591bbf8cb902}
 
 Det fremgår af BR18 § 35, stk. 2, at kommunen skal undersøge, om anden lovgivning er overholdt. Hvor meget sagsbehandling i byggesagen efter anden lovgivning, der kan opkræves gebyr for, beror på en konkret vurdering af, om sagsbehandlingsskridtet indgår som en naturlig del af byggesagsbehandlingen.     Udgifter forbundet med kommunens vurdering af byggesagen efter anden lovgivning, fx planloven, som er nødvendig at påse med henblik på at kunne vurdere, om et byggeri kan tillades, vil således kunne medregnes i de samlede udgifter, der kan opkræves byggesagsgebyr for.
 
@@ -214,7 +214,7 @@ Såfremt der som led i denne undersøgelse af anden lovgivning opstår en situat
 
 Der kan alene opkræves byggesagsgebyr i de sager, hvor der træffes afgørelse med hjemmel i byggeloven. Tilladelser og dispensationer, der meddeles i henhold til anden lovgivning, kan der derfor ikke opkræves byggesagsgebyr for. Dette ændres ikke af, at kommunen som myndighed i henhold til anden lovgivning skal meddele tilladelse, der er en forudsætning for, at byggetilladelsen kan meddeles. Som eksempel kan nævnes den situation, hvor en landzonetilladelse er en forudsætning for, at der kan meddeles byggetilladelse. I disse tilfælde kan der ikke opkræves byggesagsgebyr for udstedelse af landzonetilladelsen, idet landzonetilladelser meddeles med hjemmel i planloven.
 
-### Intern instruks i kommunen {#6cf93438-46ec-4275-b0ff-1de96795200c}
+### 15. Intern instruks i kommunen {#6cf93438-46ec-4275-b0ff-1de96795200c}
 
 Administration af enhver gebyrordning forudsætter, at myndigheden har udarbejdet en intern instruks, som beskriver, hvordan gebyrordningen håndteres.
 

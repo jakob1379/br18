@@ -44,7 +44,7 @@
 
 ### Fysisk lovliggørelse
 
-### Vurderingen -- valget mellem retlig og fysisk lovliggørelse
+### Vurderingen – valget mellem retlig og fysisk lovliggørelse
 
 Valget mellem retlig og fysisk lovliggørelse beror på afgørelsesmyndighedens konkrete, skønsmæssige afvejning af forskellige hensyn i hver enkelt sag. Denne vurdering er bundet af de forvaltningsretlige principper for skønsudøvelse.
 

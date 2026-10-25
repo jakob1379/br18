@@ -123,15 +123,15 @@ A. Konstruktionsdokumentationen omfatter de for byggeriets relevante dele af fø
 
 2) B2. Statisk kontrolplan, der for alle dele af konstruktionen beskriver de krav, der er til kontrol af projektering og udførelse. For alle kontroller angives type, niveau, omfang og dokumentationskrav samt de organisationer og personer, der udfører kontrollen. B2. Statisk kontrolplan omfattende:
 
-a\) B2. 1. Statisk kontrolplan projektering, der indeholder de for byggeriets relevante dele, er følgende: Statisk kontrolplan projektering -- bygværk, Statisk kontrolplan projektering -- konstruktionsafsnit, Statisk kontrolplan projektering -- tredjepart.
+a\) B2. 1. Statisk kontrolplan projektering, der indeholder de for byggeriets relevante dele, er følgende: Statisk kontrolplan projektering – bygværk, Statisk kontrolplan projektering – konstruktionsafsnit, Statisk kontrolplan projektering – tredjepart.
 
-b) B2. 2. Statisk kontrolplan udførelse, der indeholder de for byggeriets relevante dele, er følgende: Statisk kontrolplan udførelse -- bygværk, Statisk kontrolplan udførelse -- arbejde -- særlig kontrol, Statisk kontrolplan udførelse -- arbejde -- almen kontrol, Statisk kontrolplan udførelse -- tredjepart.
+b) B2. 2. Statisk kontrolplan udførelse, der indeholder de for byggeriets relevante dele, er følgende: Statisk kontrolplan udførelse – bygværk, Statisk kontrolplan udførelse – arbejde – særlig kontrol, Statisk kontrolplan udførelse – arbejde – almen kontrol, Statisk kontrolplan udførelse – tredjepart.
 
 3\) B3. Statisk kontrolrapport omfattende:
 
-a\) B3. 1. Statisk kontrolrapport projektering, der indeholder dokumentation for den gennemførte kontrol af projekteringen, jf. nr. 2, litra a. Den omfatter Statisk kontrolrapport projektering -- bygværk, Statisk kontrolrapport projektering -- konstruktionsafsnit, Statisk kontrolrapport projektering -- tredjepart.
+a\) B3. 1. Statisk kontrolrapport projektering, der indeholder dokumentation for den gennemførte kontrol af projekteringen, jf. nr. 2, litra a. Den omfatter Statisk kontrolrapport projektering – bygværk, Statisk kontrolrapport projektering – konstruktionsafsnit, Statisk kontrolrapport projektering – tredjepart.
 
-b) B3. 2. Statisk kontrolrapport udførelse, der indeholder dokumentationen for den gennemførte kontrol af udførelse, jf. nr. 2, litra b. Den omfatter Statisk kontrolrapport udførelse -- bygværk, Statisk kontrolrapport udførelse - arbejde - særlig kontrol, Statisk kontrolrapport udførelse - arbejde - almen kontrol, Statisk kontrolrapport udførelse -- tredjepart.
+b) B3. 2. Statisk kontrolrapport udførelse, der indeholder dokumentationen for den gennemførte kontrol af udførelse, jf. nr. 2, litra b. Den omfatter Statisk kontrolrapport udførelse – bygværk, Statisk kontrolrapport udførelse - arbejde - særlig kontrol, Statisk kontrolrapport udførelse - arbejde - almen kontrol, Statisk kontrolrapport udførelse – tredjepart.
 
 c\) Kontrolregistreringsrapporter, der erklærer, at særlig kontrol i hhv. Statisk kontrolrapport udførelse - bygværk og Statisk kontrolrapport udførelse - tredjepart samt Statisk kontrolrapport udførelse - arbejde - særlig kontrol er udført i henhold til de tilhørende kontrolplaner, og de ved kontrollen fundne afvigelser er behandlet.
 
@@ -143,7 +143,7 @@ Dokumentation for indplacering i konstruktionsklasse 1 skal indeholde grundlaget
 
 *Stk. 3.* Dokumentationen for indplacering i konstruktionsklasse 2-4 skal omfatte de for byggearbejdet fornødne dele af følgende dele, der er nødvendige for at dokumentere byggearbejdets indplacering i konstruktionsklassen:
 
-1\) A2. 1. Statiske beregninger -- bygværk, jf. § 501, stk. 1, nr. 2, litra a.
+1\) A2. 1. Statiske beregninger – bygværk, jf. § 501, stk. 1, nr. 2, litra a.
 
 2) A3. Konstruktionstegninger og modeller, jf. § 501, stk. 1, nr. 3.
 

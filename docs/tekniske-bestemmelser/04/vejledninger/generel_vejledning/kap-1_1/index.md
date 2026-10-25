@@ -7,7 +7,7 @@
 
 ## Bygningsreglementets vejledning om afløb
 
-### Generelt for afløbsinstallationer {#bcc85448-5f8d-40e2-a9c2-ca1b8d3a8b25}
+### 1.1. Generelt for afløbsinstallationer {#bcc85448-5f8d-40e2-a9c2-ca1b8d3a8b25}
 
 Afløbsinstallationer skal dimensioneres i henhold til DS 432, Norm for afløbsinstallationer eller på en måde, så der opnås en tilfredsstillende bortledning. Hvis man vælger at følge afløbsnormen i dens fulde omfang kan man forvente, at bestemmelserne i kapitel 4 er opfyldt. Der kan dog være installationer, som falder uden for DS 432, som fx forsinkelsesbassiner, regnbede og faskiner, og disse skal dimensioneres og dokumenteres særskilt.
 
@@ -41,15 +41,15 @@ Normen gælder såvel for nye installationer som for ændringer og tilføjelser 
 
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/s%C3%B8gning/91-140-80-afl%C3%B8bsinstallationer/ds-4322009 "DS 432"){target="_blank"}
 
-### Spildevand {#8f004a60-85da-4303-83a5-e99e8d70b81f}
+### 1.2. Spildevand {#8f004a60-85da-4303-83a5-e99e8d70b81f}
 
-Der henvises til [rørcenter-anvisning 021 Kælderoversvømmelser -- Sikring mod opstigende kloakvand](https://www.teknologisk.dk/_/media/54202_R%F8rcenter-anvisning%20021.%20K%E6lderoversv%F8mmelser.%20Sikring%20mod%20opstigende%20kloakvand.pdf){target="_blank"}
+Der henvises til [rørcenter-anvisning 021 Kælderoversvømmelser – Sikring mod opstigende kloakvand](https://www.teknologisk.dk/_/media/54202_R%F8rcenter-anvisning%20021.%20K%E6lderoversv%F8mmelser.%20Sikring%20mod%20opstigende%20kloakvand.pdf){target="_blank"}
 
-### Regnvand {#376f2b0c-79a1-4f82-868a-5591341bd6e6}
+### 1.3. Regnvand {#376f2b0c-79a1-4f82-868a-5591341bd6e6}
 
 Regnvandsinstallationer skal dimensioneres ved den dimensionsgivende regnintensitet og med den overbelastningshyppighed, der fastsættes af kommunalbestyrelsen.
 
-### Drift og vedligehold af afløbsinstallationer {#d692ac46-2b6f-4b3b-a739-94e9584f65f5}
+### 1.4. Drift og vedligehold af afløbsinstallationer {#d692ac46-2b6f-4b3b-a739-94e9584f65f5}
 
 Hvis der i forbindelse med bygningens drift skal tilføres stoffer til afløbssystemet, der kan skade eller forringe funktionen af afløbssystemet, renseanlæg eller recipienter skal stofferne tilbageholdes i udskillere eller neutraliseres. Dette kan fx være olie-, benzin- eller fedtholdige væsker.
 

@@ -55,7 +55,7 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 </tr>
 <tr>
 <td><strong>Efterklangstid</strong>           <strong>[4]</strong></td>
-<td><strong>T ^1), 3), a)^</strong></td>
+<td><strong>T <sup>1), 3), a)</sup></strong></td>
 <td><strong>Frekvensområde</strong></td>
 </tr>
 <tr>
@@ -65,7 +65,7 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 </tr>
 <tr>
 <td><strong>Absorptionsareal     [4]</strong></td>
-<td><strong>A ^2), 3), a)^</strong></td>
+<td><strong>A <sup>2), 3), a)</sup></strong></td>
 <td></td>
 </tr>
 <tr>

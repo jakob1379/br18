@@ -36,7 +36,7 @@ d) bygningsafsnit i risikoklasse 1, der er henført til anvendelseskategori 2, 3
 
 2\) Brandklasse 2 (BK2), som omfatter byggeri i risikoklasse 1-3. De tekniske løsninger skal udføres i overensstemmelse med de præ-accepterede løsninger, som er beskrevet i Bygningsreglementets vejledning til kapitel 5 - Brand. Der kan fraviges fra de præ-accepterede løsninger som angivet i bilag 4.
 
-3\) Brandklasse 3 (BK3), som omfatter byggeri i risikoklasse 1-3. De tekniske løsninger skal dokumenteres i overensstemmelse med metoderne i Bygningsreglementets vejledning til kapitel 5 -- Brand, herunder en af følgende eller en kombination af disse:
+3\) Brandklasse 3 (BK3), som omfatter byggeri i risikoklasse 1-3. De tekniske løsninger skal dokumenteres i overensstemmelse med metoderne i Bygningsreglementets vejledning til kapitel 5 – Brand, herunder en af følgende eller en kombination af disse:
 
 a\) De præ-accepterede løsninger.
 

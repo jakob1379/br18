@@ -10,5 +10,5 @@ Bekendtgørelsen træder i kraft den 1. januar 2020.
 
 *Stk. 3.* Bekendtgørelsen finder anvendelse ved ansøgninger om byggetilladelse, som indsendes efter bekendtgørelsens ikrafttræden. Hvis byggearbejdet ikke kræver tilladelse, skal bekendtgørelsen overholdes ved byggearbejder, der påbegyndes efter bekendtgørelsens ikrafttræden.
 
-  * Stk. 4. [§§ 24-29](../../../../administrative-bestemmelser/krav/24_29) og [§ 489](../../../../ovrige-bestemmelser/26/krav/485_489), stk. 5, nr. 3, ophæves den 1. januar 2022.*
+   *Stk. 4. [§§ 24-29](../../../../administrative-bestemmelser/krav/24_29) og [§ 489](../../../../ovrige-bestemmelser/26/krav/485_489), stk. 5, nr. 3, ophæves den 1. januar 2022.*
 

@@ -60,7 +60,7 @@ Et byggeri er formelt ulovligt, hvis det er opført uden, at der på forhånd er
 
 ### Fysisk lovliggørelse
 
-### Vurderingen -- valget mellem retlig og fysisk lovliggørelse
+### Vurderingen – valget mellem retlig og fysisk lovliggørelse
 
 ### Byggeri opført uden tilladelse
 

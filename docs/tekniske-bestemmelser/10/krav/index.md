@@ -26,7 +26,7 @@ For boliger med flere internt forbundne etager skal elevatoren alene føres til 
 
 ### § 246 I {#paragraf-246i}
 
-nybyggeri, jf. § 244, hvor der installeres elevator, skal mindst én elevator designes og udføres som type 2 elevator i overensstemmelse med DS/EN 81-70: Sikkerhedsregler for konstruktion og installation af elevatorer -- Særlige anvendelser for passager- og godselevatorer -- Del 70: Tilgængelighed til elevatorer for personer, inklusive personer med handicap eller på tilsvarende vis, der sikrer tilgængelighed for personer med handicap.
+nybyggeri, jf. § 244, hvor der installeres elevator, skal mindst én elevator designes og udføres som type 2 elevator i overensstemmelse med DS/EN 81-70: Sikkerhedsregler for konstruktion og installation af elevatorer – Særlige anvendelser for passager- og godselevatorer – Del 70: Tilgængelighed til elevatorer for personer, inklusive personer med handicap eller på tilsvarende vis, der sikrer tilgængelighed for personer med handicap.
 
 ### § 247 {#paragraf-247}
 
@@ -34,7 +34,7 @@ Ombygninger og mindre tilbygninger til eksisterende boligbebyggelse er ikke omfa
 
 ### § 248 {#paragraf-248}
 
-Elevatorer i nybyggeri og installation af nye elevatorer i eksisterende bygninger skal leve op til energiklasse B i *DS/EN ISO 25745-2*. Hvis elevatoren ikke kan regnes ud fra *DS/EN ISO 25745-2*, skal elevatoren leve op til klasse B i *VDI 4707 Aufzüge Energieeffizienz, März 2009. *
+Elevatorer i nybyggeri og installation af nye elevatorer i eksisterende bygninger skal leve op til energiklasse B i *DS/EN ISO 25745-2*. Hvis elevatoren ikke kan regnes ud fra *DS/EN ISO 25745-2*, skal elevatoren leve op til klasse B i *VDI 4707 Aufzüge Energieeffizienz, März 2009.* 
 
 *Stk. 2.* Bestemmelsen gælder for elevatorer med mærkelast af elevatorstol på op til 2.000 kg. Elevatorens anvendelseskategori er grundlaget for fastlæggelse af energiklassifikationen.
 

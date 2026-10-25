@@ -22,7 +22,7 @@ Bestemmelserne om ventilation varetager alene de normale ventilationsbehov. I fx
 
 Det er ikke nødvendigt at ventilationen er fuldstændig konstant. I de fleste tilfælde vil det ikke gøre en forskel for indeklimaet om der ventileres med en konstant luftmængde eller om man over en lidt længere periode i gennemsnit har den krævede luftmængde. For de dimensionerende forhold bør den gennemsnitlige ventilation over en time for kontorer og en lektion for undervisningslokaler kunne overholde den krævede luftmængde. Bygningsreglementets øvrige krav til indeklima skal derudover overholdes. I alle tilfælde sikres det, at bygningen er ventileret i henhold til den brug, den har.
 
-Der henvises til DS/EN ISO 7730 Ergonomi inden for termisk miljø -- Analytisk bestemmelse og fortolkning af termisk komfort ved beregning af PMV- og PPD-indekser og lokale termiske komfortkriterier og At-vejledning A. 1.2 Indeklima. For ventilation af rum med ildsteder henvises til [§§301-303](/tekniske-bestemmelser/12/krav/301_303/) samt til Gassikkerhedsloven.
+Der henvises til DS/EN ISO 7730 Ergonomi inden for termisk miljø – Analytisk bestemmelse og fortolkning af termisk komfort ved beregning af PMV- og PPD-indekser og lokale termiske komfortkriterier og At-vejledning A. 1.2 Indeklima. For ventilation af rum med ildsteder henvises til [§§301-303](/tekniske-bestemmelser/12/krav/301_303/) samt til Gassikkerhedsloven.
 
 Rengøringsstandarden i et rum har stor betydning for luftkvaliteten. Der henvises til bekendtgørelse om faste arbejdssteders indretning.
 

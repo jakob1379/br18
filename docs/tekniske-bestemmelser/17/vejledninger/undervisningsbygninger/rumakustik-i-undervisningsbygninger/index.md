@@ -55,7 +55,7 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 </tr>
 <tr>
 <td><strong>Efterklangstid     [4]</strong></td>
-<td><strong>T ^1), 3), a)^</strong></td>
+<td><strong>T <sup>1), 3), a)</sup></strong></td>
 <td><strong>Frekvensområde</strong></td>
 </tr>
 <tr>
@@ -122,7 +122,7 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 </tr>
 <tr>
 <td><strong>Absorptionsareal     [4]</strong></td>
-<td><strong>A ^2), 3), a)^</strong></td>
+<td><strong>A <sup>2), 3), a)</sup></strong></td>
 <td><strong>Frekvensområde</strong></td>
 </tr>
 <tr>
@@ -144,7 +144,7 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 <p><em>c)   For åbne undervisningsområder gælder specielle forhold, se [4].</em></p></td>
 </tr>
 <tr>
-<td colspan="3"><p>**Noter**</p>
+<td colspan="3"><p><strong>Noter</strong></p>
 <p>1)   Maksimumsværdien for efterklangstiden gælder for hvert 1/1-oktavbånd i frekvensområdet. Ved 125 Hz kan den angivne maksimumsværdi dog tillægges 20 %.<br />
 <br />
 </p>

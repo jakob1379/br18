@@ -40,8 +40,8 @@ Der opereres i det følgende med tre forskellige typer af energibehov.
 2.  Tillægsberettiget energi
 3.  Energi udenfor energirammeberegningen
 
-**\**
-****Bygningsenergi**** er bygningens basisenergibehov til bygningsdrift, som bl.a. omfatter opvarmning, køling, ventilation, pumper, varmt brugsvand og belysning. **\**
+
+****Bygningsenergi**** er bygningens basisenergibehov til bygningsdrift, som bl.a. omfatter opvarmning, køling, ventilation, pumper, varmt brugsvand og belysning.
 
 **Tillægsberettiget energi** er energibehov, der er omfattet af tillæg som følge af driftsforhold, der afviger fra standard. Det kan for eksempel være som følge af højt belysningsniveau, ekstra meget ventilation, et stort forbrug af varmt brugsvand eller lang benyttelsestid. Det kan desuden være tillæg af hensyn til særlige, øgede krav til bygningen. Det kan for eksempel være øget ventilation i operationsstuer som følge af renhedskrav.
 
@@ -510,6 +510,6 @@ I nedenstående tabel er Trafik-, Bygge og Boligstyrelsens fortolkning af håndt
 
 (\*) betyder udenfor opvarmet etageareal.
 
-*Tabel opdateret den 1. juli 2023 *
+*Tabel opdateret den 1. juli 2023* 
 
 

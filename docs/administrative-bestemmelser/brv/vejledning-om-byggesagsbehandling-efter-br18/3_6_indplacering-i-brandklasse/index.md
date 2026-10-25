@@ -118,7 +118,7 @@ Kommunalbestyrelsen træffer afgørelse om indplacering i brandklasse på baggru
 
 Kommunalbestyrelsen kan anmode om supplerende dokumentation, hvis det vurderes, at den tilsendte dokumentation ikke er tilstrækkelig til at kunne vurdere om byggeriet er indplaceret i den rette brandklasse.
 
-For yderligere vejledning om indplacering i brandklasse henvises til [kapitel 1](/administrative-bestemmelser/) i [Bygningsreglementets vejledning til kapitel 5 -- brand.](../../../../tekniske-bestemmelser/05/vejledninger/generel_brand/){rel="noopener noreferrer" target="_blank"}
+For yderligere vejledning om indplacering i brandklasse henvises til [kapitel 1](/administrative-bestemmelser/) i [Bygningsreglementets vejledning til kapitel 5 – brand.](../../../../tekniske-bestemmelser/05/vejledninger/generel_brand/){rel="noopener noreferrer" target="_blank"}
 
 [3.5.1.](../3_6_1_dokumentation-for-indplacering-i-brandklasse-1/)
 
@@ -126,7 +126,7 @@ For yderligere vejledning om indplacering i brandklasse henvises til [kapitel 1]
 
 [3.5.2.](../3_6_2_dokumentation-for-indplacering-i-brandklasse-2_4/)
 
-### Dokumentation for indplacering i brandklasse 2 -- 4
+### Dokumentation for indplacering i brandklasse 2 – 4
 
 [3.6.](../3_6_dispensation/)
 

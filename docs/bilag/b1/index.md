@@ -45,7 +45,7 @@
 | 1-3 | X | X | X | X |  | 3 |
 | 1-4 | X | X | X | X | X | 4 |
 
-<p>a) Tekniske løsninger og eftervisning udført i overensstemmelse med Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) -- Brand. I brandklasse 4 kan brandsikkerheden tillige dokumenteres ved brug af andre metoder.</p>
+<p>a) Tekniske løsninger og eftervisning udført i overensstemmelse med Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) – Brand. I brandklasse 4 kan brandsikkerheden tillige dokumenteres ved brug af andre metoder.</p>
 
 <p>b) Omfatter følgende bygningsafsnit, hvor der alene anvendes simple brandtekniske installationer og håndslukningsudstyr:</p>
 <p>i) bygningsafsnit i risikoklasse 1, der er henført til anvendelseskategori 1, og har et samlet etageareal på højst 600 m²,<br>ii) bygningsafsnit i risikoklasse 1, der helt eller delvist er henført til anvendelseskategori 4, hvis bygningsafsnittet er brandmæssigt fritliggende eller brandmæssigt adskilt i forhold til skel, brandmæssigt fritliggende i forhold til øvrig bebyggelse på egen grund og har et samlet etageareal på højst 600 m²,<br>iii) tilbygninger til eksisterende byggeri med bygningsafsnit i risikoklasse 1, som helt eller delvist er henført til anvendelseskategori 4, uanset om bygningsafsnittet er brandmæssigt fritliggende, hvis tilbygningen er brandmæssigt fritliggende eller brandmæssigt adskilt i forhold til skel, brandmæssigt fritliggende i forhold til øvrig bebyggelse på egen grund og bygningsafsnittet efter tilbygning har et samlet etageareal på højst 600 m², og<br>iv) bygningsafsnit i risikoklasse 1, der er henført til anvendelseskategori 2, 3 og 5, hvis bygningsafsnittet er brandmæssigt fritliggende.</p>

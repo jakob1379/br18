@@ -6,12 +6,12 @@
 - [- Vejledning til boliger og andre bygninger til overnatning](../boliger)
 - [- Vejledning til undervisningsbygninger](../undervisningsbygninger)
 - [- Vejledning til daginstitutionsbygninger](../daginstitutionsbygninger)
-- [- Vejledning til kontorbyggeri](./)
+- [- Vejledning til kontorbyggeri](.)
 - [- Vejledning til hospitaler, lægehuse og klinikker](../hospitaler-laegehuse-og-klinikker)
 
 ## - Vejledning til kontorbyggeri
 
-### Kontorbyggeri {#c4285b66-cbe9-411e-8904-e76b5f1be9b5}
+### 5.0 Kontorbyggeri {#c4285b66-cbe9-411e-8904-e76b5f1be9b5}
 
 Tabellerne i dette afsnit beskriver forslag til projekteringsværdier for lydisolation, støj indendørs fra trafik, støj fra tekniske installationer samt efterklangstid og absorptionsareal i kontorbyggeri.
 
@@ -37,9 +37,9 @@ De angivne forslag til projekteringsværdier omfatter ikke alle rumtyper og anve
 
 projektering.
 
-- **Toiletfaciliteter** − ofte bestående af forrum og toiletrum**\**
+- **Toiletfaciliteter** − ofte bestående af forrum og toiletrum
 
-### Lydisolation for kontorbyggeri {#b3ba71ab-4b69-4413-8577-5d81c6a474b6}
+### 5.1 Lydisolation for kontorbyggeri {#b3ba71ab-4b69-4413-8577-5d81c6a474b6}
 
 Tabel 5.1 indeholder forslag projekteringsværdier for luftlydisolation og trinlydniveau i kontorbyggeri svarende til overholdelse af BR18's generelle bestemmelse i § 368, stk. 1 om at "*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen"*
 
@@ -149,7 +149,7 @@ Tabel 5.1 indeholder forslag projekteringsværdier for luftlydisolation og trinl
 </tbody>
 </table>
 
-### Støj indendørs fra trafik {#fd62d10c-8645-4fce-8301-f417fb7d86c9}
+### 5.2 Støj indendørs fra trafik {#fd62d10c-8645-4fce-8301-f417fb7d86c9}
 
 Tabel 5.2 indeholder forslag til projekteringsværdier for trafikstøj i kontorbyggeri svarende til overholdelse af BR18's generelle bestemmelse i § 368, stk. 1 om at "*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen",* samt supplerende vejledende grænseværdier for trafikstøj indendørs med åbne vinduer*.*
 
@@ -184,7 +184,7 @@ L</em><sub>den</sub> ≤ 38 dB</td>
 </tbody>
 </table>
 
-### Støj fra tekniske installationer {#5ffe9f4e-f2ad-4108-860f-19bb8d45b344}
+### 5.3 Støj fra tekniske installationer {#5ffe9f4e-f2ad-4108-860f-19bb8d45b344}
 
 Tabel 5.3 indeholder forslag til projekteringsværdier for støj fra tekniske installationer i kontorbyggeri svarende til overholdelse af BR18's generelle bestemmelse i § 368, stk. 1 om at "*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen",* samt supplerende vejledende grænseværdier for lavfrekvent støj og infralyd.
 
@@ -240,7 +240,7 @@ Tilsvarende grænseværdi for G-vægtet infralydniveau, L<sub>pG</sub> ≤ 85 dB
 </tbody>
 </table>
 
-### Rumakustik {#580fa499-be47-4546-83b8-d8ab6b3450ff}
+### 5.4 Rumakustik {#580fa499-be47-4546-83b8-d8ab6b3450ff}
 
 Tabel 5.4 indeholder forslag til projekteringsværdier for efterklangstid og absorptionsareal i kontorbyggeri svarende til overholdelse af BR18's generelle bestemmelse i § 368, stk. 1 om at "*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen".*
 
@@ -329,9 +329,7 @@ b) </em>Der kan ikke påregnes optimale lydforhold for alle sædvanlige kontorak
 <br />
 6) Kun gange uden opholds- og arbejdsområder. Hvor arealerne i nogen grad anvendes til opholds- eller arbejdsområder anvendes T ≤ 0,6 s.<br />
 <br />
-7) Det anbefales til almindelige cafeterier og kantiner at benytte begrebet “akustisk kapacitet” og specificere max efterklangstid som lydklasse C i henhold til [16].**<br />
-**</p></td>
+7) Det anbefales til almindelige cafeterier og kantiner at benytte begrebet “akustisk kapacitet” og specificere max efterklangstid som lydklasse C i henhold til [16].****</p></td>
 </tr>
 </tbody>
 </table>
-

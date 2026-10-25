@@ -282,7 +282,7 @@ Et tilknyttet funktionskrav er brandmodstand, sikring af en flugtvej, personsikk
 </tbody>
 </table>
 
-## Tabel 4 -- Mindstekrav til klimaskærm for sommerhuse, campinghytter og lignende ferieboliger
+## Tabel 4 – Mindstekrav til klimaskærm for sommerhuse, campinghytter og lignende ferieboliger
 
 <table style="width:99%;">
 <colgroup>
@@ -434,7 +434,8 @@ Bygningsdele, der indgår i den færdige bygning som tag, ydervægge, indervægg
 
 Bygningsdelene er grupperet i typer og kategorier. I kolonnen detaljeringsniveau fremgår eventuelle afgrænsninger af, hvad der skal medregnes af materialer for den pågældende bygningsdel.
 
-***Forenklinger\***
+***Forenklinger***
+
 Fastgørelsesmidler, fx søm, skruer, kiler, hulplader til søm eller skruer, murbindere eller lignende, medregnes ikke.
 
 Større samlinger af væsentlig betydning for det bærende system, fx boltesamlinger, medregnes. Dette kan være som et samlet skøn af materialemængder, sådan som materialet er opgjort i [bilag 2, tabel 7](../tabel_7 "Tabel_7").
@@ -483,19 +484,19 @@ Såfremt der sammen med genbrugte materialer også anvendes supplerende nye mate
 
 ## Tabel 8 - Emissionsfaktorer
 
-**Tabel 8.1 -- Emissionsfaktorer for el, fjernvarme og ledningsgas**
+**Tabel 8.1 – Emissionsfaktorer for el, fjernvarme og ledningsgas**
 
 Datasættet kan benyttes som emissionsfaktorer for energiforbrug. 
 
 [Download bilag 2, tabel 8.1 som excel-fil her.](../../../../media/xoontk4a/tabel-81.xlsx "Tabel 8.1")
 
-**Tabel 8.2 -- Emissionsfaktorer for brændstof**
+**Tabel 8.2 – Emissionsfaktorer for brændstof**
 
 Datasættet kan benyttes som emissionsfaktorer for brændstof til transport til, fra og på byggepladsen samt til forbrug fra maskiner.
 
 [Download bilag 2, tabel 8.2 som excel-fil her.](../../../../media/2bphcenr/tabel-82-september-2025.xlsx "Tabel 8.2 (September 2025)")
 
-## Tabel 9 -- Referenceværdier for beregning af klimapåvirkning, som ikke indgår i beregningen ifølge § 298, stk. 1.
+## Tabel 9 – Referenceværdier for beregning af klimapåvirkning, som ikke indgår i beregningen ifølge § 298, stk. 1.
 
 For at fastlægge størrelsen af den berettigede øgede klimapåvirkning, der som følge af § 298, stk. 8, ikke skal medregnes, foretages en isoleret beregning af klimapåvirkningen fra den del af bygningen, der er påvirket af det særlige forhold.
 
@@ -507,7 +508,7 @@ Der sondres i det følgende mellem konstruktioner, søjler/bjælker, fundamenter
 
 *** ***
 
-***Konstruktioner\***
+***Konstruktioner***
 
 For konstruktioner beregnes forskellen vha. referenceværdi jf. tabel 9 og formel 1 herunder
 
@@ -528,7 +529,8 @@ Tabel 9: Liste over referenceværdier, som anvendes til at beregne den berettige
 
 *** ***
 
-***Konstruktioner\***
+***Konstruktioner***
+
 For konstruktioner skal forskellen i klimapåvirkning i forhold til en almindelig referenceværdi beregnes som i formel 1 herunder.
 
 Formel 1:
@@ -547,7 +549,8 @@ a er arealet som opgjort ifølge § 297, stk. 5, (i m2).
 
  
 
-***Søjler/bjælker\***
+***Søjler/bjælker***
+
 For søjler og bjælker skal forskellen i klimapåvirkning i forhold til en almindelig referenceværdi beregnes som i formel 2 herunder.
 
 Formel 2:
@@ -564,7 +567,8 @@ a er arealet som opgjort ifølge § 297, stk. 5 (i m2).
 
  
 
-***Fundamenter\***
+***Fundamenter***
+
 For fundamenter skal forskellen i klimapåvirkning i forhold til en almindelig referenceværdi beregnes som i formel 3 herunder. Påvirkningen opgøres samlet for hele fundamentet, også i de tilfælde hvor kun dele af fundamentet har et øget materialeforbrug.
 
 Formel 3: 
@@ -601,7 +605,7 @@ a er arealet som opgjort ifølge § 297, stk. 5, (i m2).
 
  
 
-## Tabel 10 -- Beregning af klimapåvirkning fra energiforbrug i byggeprocessen (modul A4 og A5)
+## Tabel 10 – Beregning af klimapåvirkning fra energiforbrug i byggeprocessen (modul A4 og A5)
 
 *Generelle beregningsprincipper*
 
@@ -658,10 +662,12 @@ Hvis transporten beregnes ud fra ovenstående værdier pr. kg materiale, tilføj
 
 For installationer kan antal kg materiale opgøres på baggrund af standardværdierne for installationer i tabel 7 i stedet for faktiske mængder.
 
-*Særligt om terminalprocesser\*
+*Særligt om terminalprocesser*
+
 Alle terminalprocesser i forbindelse med transport (i modul A4) opgøres samlet set som 0,02 kg CO~2~-ækvivalenter pr. m^2^ byggeri pr. år
 
-*Særligt om transport af materiel samt transport af affald\*
+*Særligt om transport af materiel samt transport af affald*
+
 For følgende delprocesser kan transport - i stedet for beregning af forbruget ifølge principperne ovenfor - fastsættes til følgende værdier:
 
  
@@ -675,7 +681,7 @@ For følgende delprocesser kan transport - i stedet for beregning af forbruget i
 
 Når der i ovenstående refereres til et antal kvadratmeter byggeri, benyttes samme areal som ifølge § 297, stk. 5.
 
-## Tabel 11 -- Generiske data for behandling af byggeaffald
+## Tabel 11 – Generiske data for behandling af byggeaffald
 
 Tabellen indeholder generiske data for udledninger pr. kg byggeaffald fra byggeprocessen (i modul A5), herunder afskær og andre materialer som bliver til affald under byggeprocessen. Det mest repræsentative datasæt anvendes.  For affald som indsamles blandet anvendes den højeste værdi af de blandede typer. Hvis der benyttes en EPD i stedet for nedenstående værdier, jf. § 297, stk. 7, fastlægges klimapåvirkningen til den samlede værdi af modulerne A1-A3 og C3-C4 for produktet.
 

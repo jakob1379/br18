@@ -42,7 +42,7 @@ Det fremgår af byggelovens § 2, stk. 1, litra a, at loven finder anvendelse ve
 
 Det fremgår endvidere af byggelovens § 2, stk. 1, litra b, at byggeloven finder anvendelse ved ombygning af og andre forandringer i bebyggelse, som er væsentlige i forhold til bestemmelser i loven eller de i medfør af loven udfærdigede bestemmelser.
 
-Etablering af et aftrækssystem må betegnes som en tilbygning, såfremt dele af aftrækssystemet placeres således, at det bygges sammen med den eksisterende  bebyggelse,   dvs. placeres \"uden på\" bygningen. Såfremt aftrækssystemet placeres inde i bygningen, må byggearbejdet betegnes som en ombygning eller forandring i bebyggelsen.
+Etablering af et aftrækssystem må betegnes som en tilbygning, såfremt dele af aftrækssystemet placeres således, at det bygges sammen med den eksisterende  bebyggelse,   dvs. placeres "uden på" bygningen. Såfremt aftrækssystemet placeres inde i bygningen, må byggearbejdet betegnes som en ombygning eller forandring i bebyggelsen.
 
 ### Krav om byggetilladelse
 

@@ -37,7 +37,7 @@ De angivne forslag til projekteringsværdier omfatter ikke alle rumtyper og anve
 
 - **Kantiner** benyttes til servering af frokost og også ofte til møder, seminarer eller lignende. Kantiner kan have meget varierende størrelse og form og kræver særskilt akustisk projektering.
 
-- **Toiletfaciliteter** − ofte bestående af forrum og toiletrum**\**
+- **Toiletfaciliteter** − ofte bestående af forrum og toiletrum
 
 [5.1](../lydisolation-for-kontorbyggeri/)
 

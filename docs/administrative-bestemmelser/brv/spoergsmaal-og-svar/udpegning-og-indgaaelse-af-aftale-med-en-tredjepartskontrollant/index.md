@@ -72,7 +72,7 @@ Det væsentlige i denne sammenhæng er således, at tredjepartskontrollanten ikk
 
 Derfor vurderer Bolig- og planstyrelsen, at en ansøger af en byggetilladelse, hvor ansøger selv forestår projekteringen af de bærende konstruktioner eller brandforhold, kan udpege og indgå aftale med en tredjepartskontrollant og samtidig overholde bygningsreglementet [§ 526, stk. 1, nr. 3](/ovrige-bestemmelser/30/krav/523_528/).
 
-Hvis en totalentreprenør ikke er ansøgeren, så kan totalentreprenøren ikke udpege en tredjepartskontrollant -- det vil i dette tilfælde være ansøgeren (bygningsejer eller bygherren), der skal udpege en sådan.
+Hvis en totalentreprenør ikke er ansøgeren, så kan totalentreprenøren ikke udpege en tredjepartskontrollant – det vil i dette tilfælde være ansøgeren (bygningsejer eller bygherren), der skal udpege en sådan.
 
 Hvis totalentreprenøren er ansøgeren, så skal totalentreprenøren udpege tredjepartskontrollanten.
 

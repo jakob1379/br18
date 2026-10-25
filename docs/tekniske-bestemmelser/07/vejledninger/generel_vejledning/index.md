@@ -71,7 +71,7 @@ Bekendtgørelse nr. 844 af 23/06/2017 om miljøregulering af visse aktiviteter
 
 #### Gå til bekendtgørelsen [](https://www.retsinformation.dk/forms/R0710.aspx?id=192158){target="_blank"}
 
-### Generelt {#ae17a0d2-4078-40c7-9064-6ab09cfc67b2}
+### 1.0. Generelt {#ae17a0d2-4078-40c7-9064-6ab09cfc67b2}
 
 Det overordnede krav til byggepladser fremgår af bygningsreglementet 2018, kap. 7, § 161, hvoraf det fremgår at byggepladsen og byggearbejder skal planlægges og udføres, så der:
 
@@ -81,9 +81,9 @@ Det overordnede krav til byggepladser fremgår af bygningsreglementet 2018, kap.
 
 3)   tages højde for vejrforhold.
 
-I §§ 162 -- 165 uddybes kravene til byggepladsen og udførelse af byggearbejde.
+I §§ 162 – 165 uddybes kravene til byggepladsen og udførelse af byggearbejde.
 
-### Planlægning og udførelse af byggearbejder {#c9304f30-d3dc-4ef6-a2f4-96000abc0f1f}
+### 2.0. Planlægning og udførelse af byggearbejder {#c9304f30-d3dc-4ef6-a2f4-96000abc0f1f}
 
 Det fremgår af bygningsreglementet 2018, kap. 7, § 162, at ved planlægning og udførelse af byggearbejder skal det sikres, at:
 
@@ -108,7 +108,7 @@ Ved montage af isoleringsmateriale med en brandklassificeret lavere end klasse D
 
 For yderligere henvises der bl.a. til Arbejdstilsynets regler om bygge og anlægsarbejde.
 
-### Brandsikkerhed og brandværnsforanstaltninger {#f19b8b46-936a-435e-8d0d-2f002ee394ed}
+### 3.0. Brandsikkerhed og brandværnsforanstaltninger {#f19b8b46-936a-435e-8d0d-2f002ee394ed}
 
 Det fremgår af bygningsreglement 2018, kap. 7, § 163, at der under byggearbejdets udførelse skal gennemføres brandværnsforanstaltninger, som sikrer, at:
 
@@ -158,7 +158,7 @@ Cirkulære nr. 2 af 06/11/1994 om instruks for brandværnsforanstaltninger under
 
 #### Gå til cirkulæret [Gå til cirkulæret](https://www.retsinformation.dk/Forms/R0710.aspx?id=54920){target="_blank"}
 
-### Planlægning af brandsikkerhed på byggepladsen {#7d8caeda-edfb-4882-bcc3-21dde919b965}
+### 3.1. Planlægning af brandsikkerhed på byggepladsen {#7d8caeda-edfb-4882-bcc3-21dde919b965}
 
 For bedst muligt, at håndtere de brandmæssige risici under hele byggeperioden bør der udarbejdes en plan for brandsikkerheden for den specifikke byggeplads.
 
@@ -202,7 +202,7 @@ I forbindelse med en brandsikkerhedsplanlægning bør der afhængigt af byggearb
 
 Der skal udvises særlig opmærksomhed på at tilgodese brandsikkerheden i bygninger, hvor dele af bygningen er ibrugtaget og indebærer aktiviteter, som ikke er en del af det igangværende byggearbejde. Her tænkes på f.eks. byggearbejder i etageejendomme, hvor et antal lejligheder fortsat er beboet eller erhvervsejendomme, som fortsat er i brug i forbindelse med ombygningsaktiviteter. I disse tilfælde skal det sikres at sikkerheden i tilfælde af brand ikke bliver forringet for de personer, som bruger bygningen.
 
-### Byggepladsens indretning {#b9e4e9bf-4a1c-4eef-b67a-49e5e018abf4}
+### 3.2. Byggepladsens indretning {#b9e4e9bf-4a1c-4eef-b67a-49e5e018abf4}
 
 For minimering af de brandmæssige risici og for at sikre redningsberedskabets indsatsmuligheder bør der ved indretningen af en byggeplads tages hensyn til de brandmæssige forhold, som ofte omfatter følgende forhold:
 
@@ -316,7 +316,7 @@ Bekendtgørelse nr. 1839 af 14/12/2023 om arbejdets udførelse
 
 #### Gå til bekendtgørelsen [](https://www.retsinformation.dk/eli/lta/2023/1839){target="_blank"}
 
-### Midlertidige afdækning- og inddækning med presenninger og lignende {#f847e171-c5b1-487e-ada7-08ce27947d41}
+### 3.3. Midlertidige afdækning- og inddækning med presenninger og lignende {#f847e171-c5b1-487e-ada7-08ce27947d41}
 
 Presenninger eller lignende, der bruges til af- og/eller inddækning af bygninger eller mindre dele af bygninger kan medvirke til utilsigtet brand- og røgspredning og, bør derfor udføres af brandmæssigt egnede materialer, således disse ikke væsentligt bidrager til antændelse af brand eller brandspredning.
 
@@ -326,7 +326,7 @@ Ved anvendelse af afdækninger skal mulige antændelseskilder (varmeblæsere, ha
 
 Af- og inddækninger må ikke blokere for anvendelsen af eventuelle flugtveje og/eller redningsåbninger i et bygningsafsnit, som anvendes under byggeriet.
 
-### Passive brandsikringstiltag {#1d68dcfa-9a6d-4931-9c60-6749edfc4b8e}
+### 3.4 Passive brandsikringstiltag {#1d68dcfa-9a6d-4931-9c60-6749edfc4b8e}
 
 Den passive brandsikring i en bygning har til formål, at forhindre brand- og røgspredning fra det rum, hvor branden opstår til tilstødende områder.
 
@@ -334,7 +334,7 @@ Såfremt der udføres arbejder, som medfører en særlig risiko for brand, eller
 
 Gennembrydninger og -føringer, til kanaler, kabler o. lign. i bygningsdele, der indgår i bygningens brandmæssige opdeling, og hvor arbejde pågår, bør midlertidigt lukkes med egnet brandmodstandsdygtigt materiale.
 
-### Aktive brandsikringsanlæg {#7f1b9563-06aa-42bf-9921-27e748228552}
+### 3.5. Aktive brandsikringsanlæg {#7f1b9563-06aa-42bf-9921-27e748228552}
 
 Aktive brandsikringstiltag kan omfatte; automatisk sprinkleranlæg, automatisk brandalarmanlæg, brandventilation, varslingsanlæg, slangevindere, automatisk branddørslukning (ABDL) o. lign.
 
@@ -350,7 +350,7 @@ Eksisterende anlægs detektorer kan om nødvendigt afmonteres/udkobles i enkelte
 
 Skal brandtekniske installationer i eksisterende bygninger, som stadig er helt eller delvist i brug, udkobles under byggearbejdet, skal dette aftales med kommunalbestyrelsen.
 
-### Evakuering af medarbejdere på byggepladsen {#118a367a-d13b-4d4a-aacd-73955f5d53ea}
+### 3.6 Evakuering af medarbejdere på byggepladsen {#118a367a-d13b-4d4a-aacd-73955f5d53ea}
 
 I tilfælde af brand er det vigtigt, at alle medarbejdere på byggepladsen har mulighed for at komme hurtigt og sikkert væk fra området. De vigtigste forhold for at give medarbejderne sikre evakueringsmuligheder er, at byggeledelsen har forholdt sig følgende:
 
@@ -398,13 +398,13 @@ Bekendtgørelse nr. 1082 af 12/07/2016 om sikkerhed for udførelse og drift af e
 
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/Forms/R0710.aspx?id=183511){target="_blank"}
 
-### Varmt arbejde - herunder brug af åben ild {#a0dfe87a-0555-449a-92ce-500d0caaad68}
+### 3.7. Varmt arbejde - herunder brug af åben ild {#a0dfe87a-0555-449a-92ce-500d0caaad68}
 
 Varmt arbejde, det vil sige brug af åben ild, svejsning, anvendelse af vinkelsliber og varmluftpistol o. lign. samt bearbejdning af materialer, bør ikke finde sted i eller ved bygninger, hvis det er muligt at foretage arbejdet andet sted.
 
 Placeringen for udførelse af arbejde med åben ild, svejsning, varmluftpistol, vinkelsliber o. lign. bør være fastlagt på forhånd og indgå som en del af byggepladsindretningen.
 
-### Brandslukningsmateriel {#bdef7a92-de7c-4204-81fa-650d6e1d7971}
+### 3.8. Brandslukningsmateriel {#bdef7a92-de7c-4204-81fa-650d6e1d7971}
 
 I forbindelse med byggearbejder bør der forefindes det nødvendige brandslukningsmateriel til håndtering af brand i de materialer, som findes i det pågældende område. Såfremt medarbejderne foretager brandslukning med det tilgængelige brandslukningsmateriel må det kun ske i det omfang, hvor det er sikkert for den enkelte medarbejder.
 
@@ -467,10 +467,14 @@ Håndildslukkere skal være udført i overensstemmelse med gældende regler (DS/
 </tbody>
 </table>
 
-1.  *Afhænger af slukkerens godkendelse iht. DS/EN 3 typisk op til 1.000 V i 1,0 m afstand.\*
-2.  *Kun med specialpulver.\*
-3.  *Elektronik og IT-udstyr kan tage skade (risiko for korrosion/ vanskelig rengøring).\*
-4.  *Afhænger af slukkerens godkendelse iht. DS/EN 3 typisk op til 1.000 V i 1,0 m afstand.\*
+1.  *Afhænger af slukkerens godkendelse iht. DS/EN 3 typisk op til 1.000 V i 1,0 m afstand.*
+
+2.  *Kun med specialpulver.*
+
+3.  *Elektronik og IT-udstyr kan tage skade (risiko for korrosion/ vanskelig rengøring).*
+
+4.  *Afhænger af slukkerens godkendelse iht. DS/EN 3 typisk op til 1.000 V i 1,0 m afstand.*
+
 5.  *Hvis vand ikke er til stede.*
 
 [![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
@@ -487,7 +491,7 @@ DS/EN 3-7 + A1:2007 - Håndildslukkere - Del 7: Karakteristika, ydeevnekrav og p
 
 Brandtæpper anbringes på steder, hvor der er risiko for brand i personer/beklædning og hvor der ikke er vand tilgængeligt, samt hvor der risiko for mindre væskebrande.
 
-### Alarmering af redningsberedskabet {#b82ead8b-df5d-45b8-a2eb-669c13aa6c6e}
+### 3.9. Alarmering af redningsberedskabet {#b82ead8b-df5d-45b8-a2eb-669c13aa6c6e}
 
 For, at sikre hurtigst mulig alarmering af redningsberedskabet skal alle, der har en fast tilknytning til byggepladsen, instrueres i, hvorledes de skal forholde sig i tilfælde af brand, herunder:
 
@@ -501,7 +505,7 @@ For, at sikre hurtigst mulig alarmering af redningsberedskabet skal alle, der ha
 
 Ovennævnte oplysninger bør f.eks. fremgå af en ophængt alarmeringsinstruks.
 
-### Ordensforskrifter {#82057a92-80c0-43bc-9714-90983a48c02b}
+### 3.10. Ordensforskrifter {#82057a92-80c0-43bc-9714-90983a48c02b}
 
 Generelt forudsættes det, at de brandmæssige tiltag, som etableres for sikre byggearbejdet mod brand og brandspredning kontrolleres og vedligeholdes i hele den tid byggeriet pågår.
 
@@ -549,7 +553,7 @@ Påfyldning af brændstof til maskiner, generatorer, kompressorer, arbejdsredska
 
 ####
 
-Bekendtgørelse nr. 1639 af 06/12/2006 om Brandfarlige og brandbare væsker -- (inklusiv tekniske forskrifter)
+Bekendtgørelse nr. 1639 af 06/12/2006 om Brandfarlige og brandbare væsker – (inklusiv tekniske forskrifter)
 
 ####
 
@@ -603,7 +607,7 @@ Lovbekendtgørelse nr. 26 af 10/01/2019 (med senere ændringer) om sikkerhed ved
 
 Der bør for hvert enkelt byggeri oprettes checklister som indeholder relevante kontrolpunkter til gennemgang ved arbejdstids ophør evt. suppleret med en ugentlig rundering.
 
-### Gener på anden grund {#6a5d63ae-ad5a-44b3-96d3-3866091d96cc}
+### 4.0. Gener på anden grund {#6a5d63ae-ad5a-44b3-96d3-3866091d96cc}
 
 Det fremgår af bygningsreglementet 2018, kap. 7, § 164, at byggearbejder ikke må medføre uacceptable gener på anden grund. Det skal ved byggearbejde sikres, at:
 
@@ -612,11 +616,11 @@ Det fremgår af bygningsreglementet 2018, kap. 7, § 164, at byggearbejder ikke 
 3.  Affald håndteres på byggepladsen.
 4.  Vejoverkørsler holdes frie og rengjorte.
 
-### Afskærmning {#b0e041f1-9654-4fd3-a5fa-0ce63e446bf6}
+### 4.1. Afskærmning {#b0e041f1-9654-4fd3-a5fa-0ce63e446bf6}
 
 Afskærmning af en byggeplads skal sikre at byggepladsen er afgrænset på en iøjnefaldende og let genkendelig måde med skilte eller lign. rundt om og i den umiddelbare nærhed.
 
-### Støj- og vibrationsgener {#ac43d2a8-c25f-49e0-b2be-15f8e8b1479c}
+### 4.2. Støj- og vibrationsgener {#ac43d2a8-c25f-49e0-b2be-15f8e8b1479c}
 
 Hvis der er generende støj fra en byggeplads, har kommunen mulighed for at gribe ind over for det. Kommunen kan f.eks. give et påbud om, at de støjende arbejder kun må foregå inden for et specifikt tidsrum, eller påbud om specifikke støjgrænser for byggepladsen. Visse Kommuner har lavet en generel forskrift om støj fra byggeri.
 
@@ -626,7 +630,7 @@ Afskærmning af lyd kan ske ved at opsætte støjskærme mod naboerne. Afskærmn
 
 Udover de forskellige tiltag på byggepladsen, bør naboer informeres i god tid om aktiviteterne som foregår og vil foregå. Dette kan reducere generne, fordi naboerne kan tage forholdsregler, og fordi det er lettere at tolerere støjen, hvis man kender omfanget og ved, hvornår støjen hører op.
 
-### Støvgener {#5f205a24-003f-4cab-9c52-0bba8057743d}
+### 4.3. Støvgener {#5f205a24-003f-4cab-9c52-0bba8057743d}
 
 For at undgå / begrænse støvgener, kan valg af maskiner, arbejdsmetoder og indretning af arbejdspladser ske med hensyn til, at omgivelserne generes mindst muligt af støv.
 
@@ -634,7 +638,7 @@ Ved støvende aktiviteter bør der på byggepladsen ske regelmæssig vanding, v�
 
 Ved nedrivning, håndtering og læsning af affald, jord, grus m.v. kan det sikres, at dette sker på en miljømæssig forsvarlig måde, herunder særligt i forhold til materialets forureningsmæssige karakter. Her kan støvgener begrænses ved f.eks. afdækning og vanding.
 
-### Affaldshåndtering {#23f1195f-a206-4a2b-9450-8d7dd767f3b0}
+### 4.4 Affaldshåndtering {#23f1195f-a206-4a2b-9450-8d7dd767f3b0}
 
 Byggepladsens indretning bør også omfatte oplagspladser for affald og tom emballage, som f.eks. særligt indrettede pladser eller containere, der tømmes jævnligt. Oplagspladser bør placeres udenfor, og væk fra bygningen, men ikke placeres, så man ikke kan fjerne vand, sne og pløre.
 
@@ -674,11 +678,11 @@ Bekendtgørelse nr. 1672 af 15/12/2016 om anvendelse af restprodukter, jord og s
 
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/forms/r0710.aspx?id=184757){target="_blank"}
 
-### Vejoverkørsler {#2f03a7c3-82a4-4cb1-8ace-f925776838cb}
+### 4.5 Vejoverkørsler {#2f03a7c3-82a4-4cb1-8ace-f925776838cb}
 
 Vejoverkørsler fra byggepladsen skal holdes frie og rengjorte, så det ikke medfører gener for de, som anvender vejen.
 
-### Hensyn til klimatiske forhold {#21b7bb99-b8b3-43c2-87ca-4d251b1b1419}
+### 5.0 Hensyn til klimatiske forhold {#21b7bb99-b8b3-43c2-87ca-4d251b1b1419}
 
 Det fremgår af bygningsreglementet 2018, kap. 7, § 165, at ved udførelse af byggearbejder skal der træffes de foranstaltninger, som af hensyn til klimatiske forhold, såsom sne, regn og kulde, er nødvendige for at beskytte fugtfølsomme materialer, og så det sikres, at der ikke indbygges fugt i bygningen under opførelsen.
 

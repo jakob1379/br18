@@ -157,19 +157,19 @@ Såfremt der sammen med genbrugte materialer også anvendes supplerende nye mate
 
 ## Tabel 8 - Emissionsfaktorer
 
-### Tabel 8.1 -- Emissionsfaktorer for el, fjernvarme og ledningsgas
+### Tabel 8.1 – Emissionsfaktorer for el, fjernvarme og ledningsgas
 
 Datasættet kan benyttes som emissionsfaktorer for energiforbrug.
 
 [Download bilag 2, tabel 8.1 som excel-fil her.](../../media/xoontk4a/tabel-81.xlsx){rel="noopener" target="_blank"}
 
-### Tabel 8.2 -- Emissionsfaktorer for brændstof
+### Tabel 8.2 – Emissionsfaktorer for brændstof
 
 Datasættet kan benyttes som emissionsfaktorer for brændstof til transport til, fra og på byggepladsen samt til forbrug fra maskiner.
 
 [Download bilag 2, tabel 8.2 som excel-fil her.](../../media/2bphcenr/tabel-82-september-2025.xlsx){rel="noopener" target="_blank"}
 
-## Tabel 9 -- Referenceværdier for beregning af klimapåvirkning, som ikke indgår i beregningen ifølge § 298, stk. 1.
+## Tabel 9 – Referenceværdier for beregning af klimapåvirkning, som ikke indgår i beregningen ifølge § 298, stk. 1.
 
 For at fastlægge størrelsen af den berettigede øgede klimapåvirkning, der som følge af [§ 298, stk. 8](/tekniske-bestemmelser/11/krav/), ikke skal medregnes, foretages en isoleret beregning af klimapåvirkningen fra den del af bygningen, der er påvirket af det særlige forhold.
 
@@ -249,9 +249,9 @@ Hvor:
 - eopv er summen (i m²) af det samlede opvarmede etageareal (som opgjort ifølge [§ 256, stk. 3](/tekniske-bestemmelser/11/krav/)) plus det opvarmede kælderareal.
 - a er arealet som opgjort ifølge [§ 297, stk. 5](/tekniske-bestemmelser/11/krav/) (i m²).
 
-## Tabel 10 -- Beregning af klimapåvirkning fra energiforbrug i byggeprocessen (modul A4 og A5)
+## Tabel 10 – Beregning af klimapåvirkning fra energiforbrug i byggeprocessen (modul A4 og A5)
 
-## Tabel 11 -- Generiske data for behandling af byggeaffald
+## Tabel 11 – Generiske data for behandling af byggeaffald
 
 ## Tabel 12 - Standardværdier for energiforbrug i sommerhuse, campinghytter og lignende ferieboliger
 

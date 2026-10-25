@@ -18,9 +18,9 @@
 
 ### Luftindtag og -afkast
 
-Der er en række forhold, der skal tages i betragtning ved udformning af luftindtag og -- afkast til ventilation. Det bør eksempelvis tilstræbes, at minimere risikoen for uønsket forurening, luftgener eller væsentlig reduktion af ventilationssystemets effektivitet som følge af overførsel af luft fra afkast til indtag. Desuden er det vigtigt at udeluften er så ren, som det er muligt.
+Der er en række forhold, der skal tages i betragtning ved udformning af luftindtag og – afkast til ventilation. Det bør eksempelvis tilstræbes, at minimere risikoen for uønsket forurening, luftgener eller væsentlig reduktion af ventilationssystemets effektivitet som følge af overførsel af luft fra afkast til indtag. Desuden er det vigtigt at udeluften er så ren, som det er muligt.
 
-Herudover bør blandt andet følgende forhold tages i betragtning ved udformning af luftindtag og --afkast
+Herudover bør blandt andet følgende forhold tages i betragtning ved udformning af luftindtag og –afkast
 
 \- Bygningen og nabobygningernes indbyrdes placering og afstandsforhold
 
@@ -32,7 +32,7 @@ Herudover bør blandt andet følgende forhold tages i betragtning ved udformning
 
 \- Lokale temperaturforhold, for eksempel opvarmning af sorte tage på solskinsdage
 
-Der henvises til DS 447, der indeholder nærmere præcisering af placering af luftindtag og --afkast.
+Der henvises til DS 447, der indeholder nærmere præcisering af placering af luftindtag og –afkast.
 
 #### DS 447
 

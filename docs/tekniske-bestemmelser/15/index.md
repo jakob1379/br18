@@ -78,7 +78,7 @@ Projektering og udførelse af betonkonstruktioner skal, udover bestemmelserne i 
 2. DS/EN 1992-1-2+AC:2013 Betonkonstruktioner, Brandteknisk dimensionering med DS/EN 1992-1-2 DK NA.
 3. DS/EN 1992-3:2009, Betonkonstruktioner til opbevaring af væsker og pulvere med DS/EN 1992-3 DK NA.
 4. DS/EN 1992-4:2018, Betonkonstruktioner, Dimensionering af befæstelsesdele til anvendelse i beton med DS/EN 1992-4 DK NA.
-5. DS/EN 206 Beton, specifikation, egenskaber, produktion og overensstemmelse og DS 206, Beton -- Specifikation, egenskaber, produktion og overensstemmelse -- Regler for anvendelse af DS/EN 206 i Danmark.
+5. DS/EN 206 Beton, specifikation, egenskaber, produktion og overensstemmelse og DS 206, Beton – Specifikation, egenskaber, produktion og overensstemmelse – Regler for anvendelse af DS/EN 206 i Danmark.
 6. DS/EN 1520 Præfabrikerede armerede elementer af letbeton med lette tilslag og åben struktur med bærende eller ikke-bærende armering med DS/EN 1520 DK NA for konstruktioner i letbeton med lette tilslag.
 7. DS/EN 12602. Præfabrikerede armerede komponenter af autoklaveret porebeton med DS/EN 12602 DK NA for konstruktioner af autoklaveret porebeton.
 
@@ -170,7 +170,7 @@ Ved anvendelse af materialer og konstruktioner, der ikke er omfattet af bestemme
 
 ### § 353 {#p353 #paragraf-353}
 
-Telte og lignende transportable konstruktioner skal dimensioneres i overensstemmelse med DS/EN 13782, Midlertidige konstruktioner -- Telte -- Sikkerhed med DS/EN 13782 DK NA, eller på en måde, som sikrer, at de relevante bestemmelser i [§§ 344-351](/tekniske-bestemmelser/15/krav/344/) er opfyldt.
+Telte og lignende transportable konstruktioner skal dimensioneres i overensstemmelse med DS/EN 13782, Midlertidige konstruktioner – Telte – Sikkerhed med DS/EN 13782 DK NA, eller på en måde, som sikrer, at de relevante bestemmelser i [§§ 344-351](/tekniske-bestemmelser/15/krav/344/) er opfyldt.
 
 ## § 354 Stationære opbevaringssystemer {#s354}
 

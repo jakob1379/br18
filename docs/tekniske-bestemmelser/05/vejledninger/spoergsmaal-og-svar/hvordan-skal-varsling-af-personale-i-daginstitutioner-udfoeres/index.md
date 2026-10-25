@@ -13,7 +13,7 @@
   - [Bilag 5 - Præ-accepterede løsninger - Undervisningslokaler](../../generel_brand/undervisningslokaler)
   - [Bilag 6 - Præ-accepterede løsninger - Hoteller mv.](../../generel_brand/hoteller)
   - [Bilag 7 - Præ-accepterede løsninger - Bygningsafsnit, hvor personer ikke kan bringe sig i sikkerhed ved egen hjælp](../../generel_brand/bilag-7-bygningsafsnit-i-anv-6)
-  - [Bilag 8 -- Præ-accepterede løsninger - Jordbrugserhvervets avls- og driftsbygninger samt væksthuse til produktion](../../generel_brand/bilag-8-praeaccepterede-loesninger-jordbrugserhvervets-avls-og-driftsbygninger-mv)
+  - [Bilag 8 – Præ-accepterede løsninger - Jordbrugserhvervets avls- og driftsbygninger samt væksthuse til produktion](../../generel_brand/bilag-8-praeaccepterede-loesninger-jordbrugserhvervets-avls-og-driftsbygninger-mv)
   - [Bilag 9 - Præ-accepterede løsninger - Bygningsafsnit med garageanlæg](../../generel_brand/bilag-9-garageanlaeg)
   - [Bilag 10 - Præ-accepterede løsninger - Industri- og lagerbygninger](../../generel_brand/industri-og-lagerbygninger)
   - [Bilag 11 - Vejledning om udendørsarrangementer, salgsområder, midlertidige opstillinger, midlertidige overnatning og transportable konstruktioner](../../generel_brand/bilag-11-markeder-transportable-konstruktioner-mv)
@@ -21,7 +21,7 @@
   - [Bilag 13 - Udfærdigelse af planer i forhold til brand](../../generel_brand/bilag-13-udfaerdigelse-af-planer-i-forhold-til-brand)
   - [Bilag 15 - Præ-accepterede løsninger for sekundær bebyggelse i tilknytning til andet end enfamiliehuse](../../generel_brand/bilag-15-sekundaert-bebyggelse)
   - [Bilag 16 - Præ-accepterede løsninger for mindre bebyggelse i anvendelseskategori 1 og 4](../../generel_brand/bilag-16-praeaccepterede-loesninger-for-mindre-bebyggelse-i-anvendelseskategori-1-og-4)
-- [Oversigt over Bygningsreglementets vejledninger til kapitel 5 -- Brand, inkl. udgivelsesdatoer](../../oversigt-over-brs-vejledninger-til-kapitel-5-brand-inkl-udgivelsesdatoer-mv)
+- [Oversigt over Bygningsreglementets vejledninger til kapitel 5 – Brand, inkl. udgivelsesdatoer](../../oversigt-over-brs-vejledninger-til-kapitel-5-brand-inkl-udgivelsesdatoer-mv)
 - [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../../temasiden-brandogkonstruktioner-dk)
 
 ## Spørgsmål og svar
@@ -30,7 +30,7 @@
 
 ### Spørgsmål og svar om let tagkonstruktion (06-07-2022) {#71716646-28c1-4231-ac24-25fd9753bd1f}
 
-### Spørgsmål og svar om dokumentation af bygningsdele ved brug af "alment teknisk fælleseje\" (17-10-2023) {#47016155-51b4-45eb-9669-3ad825336d31}
+### Spørgsmål og svar om dokumentation af bygningsdele ved brug af "alment teknisk fælleseje" (17-10-2023) {#47016155-51b4-45eb-9669-3ad825336d31}
 
 ### Spørgsmål og svar om brug af certificeret rådgiver ved anvendelsesændring (30-09-2020) {#70137627-dba9-42fa-a40f-015559c387fe}
 
@@ -42,7 +42,7 @@
 
 ### Hvordan skal varsling af personale i daginstitutioner udføres? (26.04.2021) {#16d2c8e8-3b82-4821-9e7e-3a2e60455478}
 
-I bygningsreglementets vejledning til kapitel 5 -- Brand, bilag 12 - Præ-accepterede løsninger for brandtekniske installationer og håndslukningsudstyr, er der i afsnit 5.3.4.3 givet præ-accepteret løsninger på udførelsen af varsling til personalet i anvendelseskategori 6. Disse vil fra d.d. blive suppleret med følgende løsninger, som vil blive indarbejdet i bilag 12 ved en kommende opdatering.
+I bygningsreglementets vejledning til kapitel 5 – Brand, bilag 12 - Præ-accepterede løsninger for brandtekniske installationer og håndslukningsudstyr, er der i afsnit 5.3.4.3 givet præ-accepteret løsninger på udførelsen af varsling til personalet i anvendelseskategori 6. Disse vil fra d.d. blive suppleret med følgende løsninger, som vil blive indarbejdet i bilag 12 ved en kommende opdatering.
 
 • I vuggestuer og børnehaver kan varslingen udføres med tonevarsling, evt. integreret i ABA-anlæggets detektorer/sokler.
 

@@ -3,12 +3,21 @@
 from __future__ import annotations
 
 import argparse
+import re
 from pathlib import Path
 from urllib.parse import urlsplit
 from urllib.request import Request, urlopen
 
 
 SITE_ROOT = "https://www.bygningsreglementet.dk"
+EXPAND_ALL_RE = re.compile(rb'<a href="([^"]+\?Layout=ShowAll)" class="link--expand-all"')
+TRIGGER_RE = re.compile(rb'<a href="([^"#]*)#[0-9a-f-]{36}"[^>]*class="accordion__trigger')
+
+
+def is_section_page(html: bytes, url: str) -> bool:
+    """A guide subpage has an accordion trigger pointing at itself; the guide root's triggers point at its subpages."""
+    page = urlsplit(url)._replace(query="", fragment="").geturl().rstrip("/").lower()
+    return any(t.decode().rstrip("/").lower() == page for t in TRIGGER_RE.findall(html))
 
 
 def target_path_for_url(docs_root: Path, url: str) -> Path:
@@ -48,6 +57,10 @@ def main() -> int:
         url = raw if raw.startswith("http") else f"{SITE_ROOT.rstrip('/')}/{raw.lstrip('/')}"
         target = target_path_for_url(docs_root, url)
         fetch(url, target)
+        html = target.read_bytes()
+        expand_all = EXPAND_ALL_RE.search(html)
+        if expand_all and urlsplit(url).query != "Layout=ShowAll" and not is_section_page(html, url):
+            fetch(expand_all.group(1).decode(), target)
         print(target.relative_to(docs_root.parent))
     return 0
 

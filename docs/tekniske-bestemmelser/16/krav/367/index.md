@@ -46,7 +46,7 @@ Kunstige klatrevægge skal projekteres og udføres i overensstemmelse med:
 
 ### § 363 {#paragraf-363}
 
-Udendørs motionsredskaber skal projekteres og udføres i overensstemmelse med DS/EN 16630 Fastinstalleret udendørs fitnessudstyr -- Sikkerhedskrav og prøvningsmetoder.
+Udendørs motionsredskaber skal projekteres og udføres i overensstemmelse med DS/EN 16630 Fastinstalleret udendørs fitnessudstyr – Sikkerhedskrav og prøvningsmetoder.
 
 ### § 364 {#paragraf-364}
 
@@ -54,7 +54,7 @@ Motionsredskaber, der også anvendes som legepladsredskaber, skal projekteres, s
 
 ### § 365 {#paragraf-365}
 
-For legepladsredskaber og --underlag, multisportsudstyr, motionsredskaber i det fri, skateboardbaner og lignende, der ikke er omfattet af § 359 til § 363, skal det dokumenteres, at der opnås et sikkerhedsniveau, som beskrevet i § 358.
+For legepladsredskaber og –underlag, multisportsudstyr, motionsredskaber i det fri, skateboardbaner og lignende, der ikke er omfattet af § 359 til § 363, skal det dokumenteres, at der opnås et sikkerhedsniveau, som beskrevet i § 358.
 
 ## § 366 Undtagelser {#6541b307-0484-4112-8e6c-c6502c186513}
 

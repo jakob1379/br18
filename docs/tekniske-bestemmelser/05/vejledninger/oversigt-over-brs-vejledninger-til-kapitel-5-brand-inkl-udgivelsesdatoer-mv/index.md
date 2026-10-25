@@ -13,7 +13,7 @@
   - [Bilag 5 - Præ-accepterede løsninger - Undervisningslokaler](../generel_brand/undervisningslokaler/)
   - [Bilag 6 - Præ-accepterede løsninger - Hoteller mv.](../generel_brand/hoteller/)
   - [Bilag 7 - Præ-accepterede løsninger - Bygningsafsnit, hvor personer ikke kan bringe sig i sikkerhed ved egen hjælp](../generel_brand/bilag-7-bygningsafsnit-i-anv-6/)
-  - [Bilag 8 -- Præ-accepterede løsninger - Jordbrugserhvervets avls- og driftsbygninger samt væksthuse til produktion](../generel_brand/bilag-8-praeaccepterede-loesninger-jordbrugserhvervets-avls-og-driftsbygninger-mv/)
+  - [Bilag 8 – Præ-accepterede løsninger - Jordbrugserhvervets avls- og driftsbygninger samt væksthuse til produktion](../generel_brand/bilag-8-praeaccepterede-loesninger-jordbrugserhvervets-avls-og-driftsbygninger-mv/)
   - [Bilag 9 - Præ-accepterede løsninger - Bygningsafsnit med garageanlæg](../generel_brand/bilag-9-garageanlaeg/)
   - [Bilag 10 - Præ-accepterede løsninger - Industri- og lagerbygninger](../generel_brand/industri-og-lagerbygninger/)
   - [Bilag 11 - Vejledning om udendørsarrangementer, salgsområder, midlertidige opstillinger, midlertidige overnatning og transportable konstruktioner](../generel_brand/bilag-11-markeder-transportable-konstruktioner-mv/)
@@ -21,10 +21,10 @@
   - [Bilag 13 - Udfærdigelse af planer i forhold til brand](../generel_brand/bilag-13-udfaerdigelse-af-planer-i-forhold-til-brand/)
   - [Bilag 15 - Præ-accepterede løsninger for sekundær bebyggelse i tilknytning til andet end enfamiliehuse](../generel_brand/bilag-15-sekundaert-bebyggelse/)
   - [Bilag 16 - Præ-accepterede løsninger for mindre bebyggelse i anvendelseskategori 1 og 4](../generel_brand/bilag-16-praeaccepterede-loesninger-for-mindre-bebyggelse-i-anvendelseskategori-1-og-4/)
-- [Oversigt over Bygningsreglementets vejledninger til kapitel 5 -- Brand, inkl. udgivelsesdatoer](./)
-- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](https://brandogkonstruktioner.dk/)
+- [Oversigt over Bygningsreglementets vejledninger til kapitel 5 – Brand, inkl. udgivelsesdatoer](./)
+- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../temasiden-brandogkonstruktioner-dk/)
 
-## Oversigt over Bygningsreglementets vejledninger til kapitel 5 -- Brand, inkl. udgivelsesdatoer
+## Oversigt over Bygningsreglementets vejledninger til kapitel 5 – Brand, inkl. udgivelsesdatoer
 
 ### Oversigter over vejledninger til kapitel 5 - Brand
 
@@ -388,15 +388,15 @@
 </tbody>
 </table>
 
-### Ved uoverensstemmelser mellem hovedteksten i kapitlerne og teksten i bilag 1-10 i Bygningsreglementets vejledning til kapitel 5 -- Brand, hvilken vejledning er så gældende?
+### Ved uoverensstemmelser mellem hovedteksten i kapitlerne og teksten i bilag 1-10 i Bygningsreglementets vejledning til kapitel 5 – Brand, hvilken vejledning er så gældende?
 
 **Supplement til bilag 1-10**
 
-De præ-accepterede løsninger til Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) -- Brand, udgivet som bilag 1-10, er udarbejdet i 2018.
+De præ-accepterede løsninger til Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) – Brand, udgivet som bilag 1-10, er udarbejdet i 2018.
 
 Efterfølgende er der udgivet de øvrige kapitler og bilag til denne vejledning, hvor en del af de præaccepterede løsninger er opdateret med ny eller supplerende viden og erfaringer. Herved er der er opstået visse uoverensstemmelser mellem bilag 1-10 og disse øvrige kapitler/bilag.
 
-For følgende områder i bilag 1-10 skal de præ-accepterede løsninger følge beskrivelserne i de generelle kapitler/bilag til Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) -- Brand.
+For følgende områder i bilag 1-10 skal de præ-accepterede løsninger følge beskrivelserne i de generelle kapitler/bilag til Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) – Brand.
 
 **• Redningsberedskabets indsatsmuligheder:**
 

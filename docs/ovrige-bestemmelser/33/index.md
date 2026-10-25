@@ -24,7 +24,7 @@ Den certificerede statikers virke omfatter som minimum at:
 
 2) udfærdige dokumentation for konstruktionsklasser for konstruktionsafsnit og for det samlede byggeri, jf. [§ 503, stk. 2](/ovrige-bestemmelser/28/krav/494_505/) og 3,
 
-3) udfærdige Statisk kontrolplan projektering -- bygværk, Statisk kontrolplan udførelse - bygværk og Statisk kontrolplan udførelse -- arbejde - særlig kontrol, jf. [§ 502, stk. 1, nr. 2](/ovrige-bestemmelser/28/krav/494_505/) og sikre, at den samlede B2. statisk kontrolplan er i overensstemmelse med [kapitel 30](/ovrige-bestemmelser/30/),
+3) udfærdige Statisk kontrolplan projektering – bygværk, Statisk kontrolplan udførelse - bygværk og Statisk kontrolplan udførelse – arbejde - særlig kontrol, jf. [§ 502, stk. 1, nr. 2](/ovrige-bestemmelser/28/krav/494_505/) og sikre, at den samlede B2. statisk kontrolplan er i overensstemmelse med [kapitel 30](/ovrige-bestemmelser/30/),
 
 4) sikre, at de valgte løsninger for de bærende konstruktioner er i overensstemmelse med kravene i [kapitel 15](/tekniske-bestemmelser/15/),
 

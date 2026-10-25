@@ -17,7 +17,7 @@
 
 ### Hvad er baggrunden for, at man laver en certificeringsordning?
 
-Indførelse af en certificeringsordning i byggeriet er en del af afskaffelsen af den kommunale tekniske byggesagsbehandling. Forslaget blev vedtaget af Folketinget i 2016 og udspringer af S-R-regeringens byggepolitiske strategi fra november 2014 -- *Vejen til et styrket byggeri i Danmark. *   Baggrunden for afskaffelsen af den tekniske byggesagsbehandling i kommunerne var overordnet, at reglerne var meget komplekse og blev administreret meget forskelligt.    I praksis kunne det fx betyde, at en løsning, der blev godkendt i en kommune, blev afvist i en anden. Det gjorde det indimellem vanskeligt for virksomheder -- fx landsdækkende supermarkeder -- at udarbejde standardiserede og billigere løsninger. Samtidig kunne en bygherre opleve, at nye innovative løsninger og byggemetoder blev bremset, fordi der i en given kommune ikke var tilstrækkelige tekniske kompetencer.   Afskaffelse af den tekniske byggesagsbehandling i kommunen betyder, at fx et etagebyggeri, en produktionsfacilitet eller en sportshal kan opføres, uden at kommunen skal godkende den konkrete tekniske løsning.    Formålet med certificeringsordningen er i den sammenhæng at sikre, at der sker en ensartet efterlevelse af de tekniske bestemmelser for brand og konstruktioner på tværs af *alle* kommuner. Disse forhold har afgørende betydning for, om en bygning er sikker at opholde sig i.    I stedet for at få kommunens godkendelse skal en bygherre i henhold til de nye regler få de brand- og konstruktionstekniske forhold godkendt af en bygningsrådgiver, der er certificeret.    Kravet om certificering skal sikre, at sikkerhedsniveauet opretholdes. Certificeringsordningen tydeliggør, at bygherren og dennes rådgiver har ansvaret for, at et byggeri lever op til bygningsreglementets krav. [](../hvordan-fungerer-certificeringsordninger-for-dokumentation-af-tekniske-forhold-i-bygningsreglementet#eda275fc-fa74-4d3b-b823-a0c4c3d489cd)
+Indførelse af en certificeringsordning i byggeriet er en del af afskaffelsen af den kommunale tekniske byggesagsbehandling. Forslaget blev vedtaget af Folketinget i 2016 og udspringer af S-R-regeringens byggepolitiske strategi fra november 2014 – *Vejen til et styrket byggeri i Danmark.*    Baggrunden for afskaffelsen af den tekniske byggesagsbehandling i kommunerne var overordnet, at reglerne var meget komplekse og blev administreret meget forskelligt.    I praksis kunne det fx betyde, at en løsning, der blev godkendt i en kommune, blev afvist i en anden. Det gjorde det indimellem vanskeligt for virksomheder – fx landsdækkende supermarkeder – at udarbejde standardiserede og billigere løsninger. Samtidig kunne en bygherre opleve, at nye innovative løsninger og byggemetoder blev bremset, fordi der i en given kommune ikke var tilstrækkelige tekniske kompetencer.   Afskaffelse af den tekniske byggesagsbehandling i kommunen betyder, at fx et etagebyggeri, en produktionsfacilitet eller en sportshal kan opføres, uden at kommunen skal godkende den konkrete tekniske løsning.    Formålet med certificeringsordningen er i den sammenhæng at sikre, at der sker en ensartet efterlevelse af de tekniske bestemmelser for brand og konstruktioner på tværs af *alle* kommuner. Disse forhold har afgørende betydning for, om en bygning er sikker at opholde sig i.    I stedet for at få kommunens godkendelse skal en bygherre i henhold til de nye regler få de brand- og konstruktionstekniske forhold godkendt af en bygningsrådgiver, der er certificeret.    Kravet om certificering skal sikre, at sikkerhedsniveauet opretholdes. Certificeringsordningen tydeliggør, at bygherren og dennes rådgiver har ansvaret for, at et byggeri lever op til bygningsreglementets krav. [](../hvordan-fungerer-certificeringsordninger-for-dokumentation-af-tekniske-forhold-i-bygningsreglementet#eda275fc-fa74-4d3b-b823-a0c4c3d489cd)
 
 ### Hvordan fungerer certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet?
 
@@ -254,14 +254,14 @@ Bedømmelsen skal foretages af mindst to faglige bedømmere, jf. certificeringsb
 
 **Bedømmelsen omfatter som minimum:**
 
-1.  En kontrol af den certificeredes kvalifikationer og kompetencer svarende til en førstegangscertificering i den pågældende klasse for at sikre, at den certificerede stadig har de rette kvalifikationer og kompetencer og i den 5--årige periode har opretholdt og anvendt disse f.eks. som følger:
+1.  En kontrol af den certificeredes kvalifikationer og kompetencer svarende til en førstegangscertificering i den pågældende klasse for at sikre, at den certificerede stadig har de rette kvalifikationer og kompetencer og i den 5–årige periode har opretholdt og anvendt disse f.eks. som følger:
 
     •  Dokumentation for erfaring svarende til en førstegangscertificering.
 
     •  Projektgranskning af et projekt svarende til en førstegangscertificering.
 
     •  Dokumentation for kompetencer svarende til en førstegangscertificering.
-2.  En kontrol af at den certificerede i den 5--årige periode løbende har ajourført sine kvalifikationer og kompetencer for så vidt angår lovgivning med tilhørende vejledninger og standarder inden for det relevante fagområde f.eks. som følger:
+2.  En kontrol af at den certificerede i den 5–årige periode løbende har ajourført sine kvalifikationer og kompetencer for så vidt angår lovgivning med tilhørende vejledninger og standarder inden for det relevante fagområde f.eks. som følger:
 
     •  Dokumentation for efteruddannelse suppleret med den mundtlige præsentation.
 
@@ -284,7 +284,8 @@ Såfremt et certificeringsorgan fratager en certificeret statiker eller brandrå
 
 Hvorvidt en certificeret rådgiver er forpligtet til at orientere nuværende og tidligere kunder om en frataget certificering reguleres ikke i byggelovgivningen, men kan være en del af den privatretlige aftale, der er indgået med den certificerede rådgiver i forbindelse med konkrete byggeprojekter.
 
-**Byggesag med byggetilladelse\**
+**Byggesag med byggetilladelse**
+
 Såfremt en certificeret statiker eller brandrådgiver får frataget sin certificering, mens vedkommende virker som certificeret på en igangværende byggesag, hvortil der er givet byggetilladelse, skal bygningsejer udpege en ny certificeret statiker eller brandrådgiver, der er certificeret til at kunne virke i den klasse, som projektet er indplaceret i jf. byggetilladelsen.
 
 Bygningsejer skal iht. BR18, § 37 oplyse kommunalbestyrelsen om udpegning af ny certificeret statiker eller brandrådgiver samt indsende dokumentation herfor i form af kopi af den udpegende certificerede statiker eller brandrådgivers certifikat.
@@ -295,7 +296,8 @@ Projektet overdrages (jf. BR18, § 544, stk. 3 eller § 551, stk. 3) til den nye
 
 Dette betyder i praksis, at den nye certificerede statiker eller brandrådgiver, der overtager projektet skal foretage en maksimal (MAX) kontrol af den dokumentation, der overdrages, svarende til virket for certificeret statiker eller brandrådgiver som kontrollant, idet der ikke kan foreligge en gyldig overdragelseserklæring fra den overdragende certificerede statiker eller brandrådgiver (jf. BR18, § 544, stk. 1 eller § 551, stk. 1), da denne ikke længere er certificeret.
 
-**Byggesag med ibrugtagningstilladelse\**
+**Byggesag med ibrugtagningstilladelse**
+
 Såfremt en certificeret statiker eller brandrådgiver får frataget sin certificering, kan der være projekter, hvor vedkommende har virket som certificeret inden for det seneste år og som allerede har fået en ibrugtagningstilladelse.
 
 Kommunen vil tillige for sådanne projekter blive orienteret af certificeringsorganet, om at den certificerede statiker eller brandrådgiver, der har virket på disse projekter, har fået frataget sin certificering. Kommunen vil i sådanne tilfælde ikke få oplyst årsagen hertil.

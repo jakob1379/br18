@@ -18,7 +18,7 @@
 - [Vejledning om gebyr for kommunernes sagsbehandling på byggeområdet](../gebyr/)
 - [Vejledning om udnyttelige tagetager](../udnyttelige-tagetager/)
 - [Dokumentation af bygningsreglementets tekniske bestemmelser i forbindelse med færdigmelding af byggeriet](../dokumentationsvejledning/)
-- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](https://brandogkonstruktioner.dk/)
+- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../temasiden-brandogkonstruktioner-dk/)
 
 ## Vejledning i kommunernes stikprøvekontrol i tilgængelighed
 
@@ -175,7 +175,7 @@ Bygningsreglementet stiller i [kap. 2](/tekniske-bestemmelser/02/) krav om, at b
 
 Brugerne af en bygning, et opholdsareal eller et parkeringsareal kan være alle mennesker med ingen, mindre eller større funktionsnedsættelser^6^. Der kan derfor være tale om en mangfoldig brugergruppe.
 
-Ligeværdighed i adgangsforhold og indretning handler om at gøre det muligt for alle mennesker, uanset omfanget af en funktionsnedsættelse at deltage i såvel hverdagsaktiviteter som andre typer af aktiviteter -- uddanne sig, passe sit arbejde, handle dagligvarer, deltage i børnehavens årlige sommerfest, gå i teatret, være på en legeplads med sine børn eller børnebørn, dyrke sport i den lokale klub mv.
+Ligeværdighed i adgangsforhold og indretning handler om at gøre det muligt for alle mennesker, uanset omfanget af en funktionsnedsættelse at deltage i såvel hverdagsaktiviteter som andre typer af aktiviteter – uddanne sig, passe sit arbejde, handle dagligvarer, deltage i børnehavens årlige sommerfest, gå i teatret, være på en legeplads med sine børn eller børnebørn, dyrke sport i den lokale klub mv.
 
 For mere inspiration til fastlæggelse af brugergruppe henvises til 2.0 Uddybning angående brugerne samt *Vejledning til brugerbegreb*^7^ i bygningsreglementet.
 
@@ -185,7 +185,7 @@ For mere inspiration til fastlæggelse af brugergruppe henvises til 2.0 Uddybnin
 
 7\) Bygningsreglementet, [kap. 2](/tekniske-bestemmelser/02/), Vejledning til brugerbegreb 1.1
 
-### Stikprøvekontrol -- 1. fase: Tilstrækkelig dokumentation
+### Stikprøvekontrol – 1. fase: Tilstrækkelig dokumentation
 
 Vejledningen er for overskuelighedens og forståelsens skyld inddelt i faser.
 
@@ -205,7 +205,7 @@ Det er ansøgers opgave selv at vurdere, hvorledes byggeprojektet dokumenteres. 
 >
 > • Hvorledes bygningen understøtter bevægelse frem til, ind i og frem til bygningens funktioner
 >
-> • Funktionalitet og brugsværdi -- konkrete løsninger
+> • Funktionalitet og brugsværdi – konkrete løsninger
 
 Tabel 2. uddyber de enkelte temaer. En kombination af tekst, tegninger, diagrammer og oversigtsplaner anbefales til udarbejdelse af beskrivelserne, som tilsammen danner den samlede dokumentation.
 
@@ -281,25 +281,24 @@ Vurderingen af behovet og dermed hvad, der er et passende antal, bør dog altid 
 
 I denne 2. fase af stikprøvekontrollen er det kommunens opgave at vurdere, hvordan der i dokumentationen er gjort rede for antallet af f.eks. parkeringspladser til handicapegnede køretøjer i relation til typen af byggeprojekt i den pågældende byggesag.
 
-9\) Grangaard, S. & Pedersen, L.S. (2014) Tilgængelighed i forbindelse med ombygning -- et casestudie af Nordkraft. SBI 2014:16. Statens Byggeforskningsinstitut, Aalborg Universitet, København.
+9\) Grangaard, S. & Pedersen, L.S. (2014) Tilgængelighed i forbindelse med ombygning – et casestudie af Nordkraft. SBI 2014:16. Statens Byggeforskningsinstitut, Aalborg Universitet, København.
 
 1.3
 
-### Stikprøvekontrol -- 3. fase: Vurdering af mangel
+### Stikprøvekontrol – 3. fase: Vurdering af mangel
 
 I denne fase af stikprøvekontrollen skal kommunen vurdere betydningen af de ulovlige forhold (såvel materielle som formelle mangler). Hvis kommunen bliver opmærksom på et ulovligt forhold, er den forpligtet til at søge forholdet lovliggjort, medmindre det er af bagatelagtig karakter.
 
-**Grænsen for, hvad kommunen opfatter som bagatelagtigt, kan variere imellem de tekniske områder og dermed kapitler i bygningsreglementet. Når betydningen af et forhold skal vurderes, relaterer tilgængelighedsområdet sig i særdeleshed til brugergruppen og bestemmelsernes formål. Små afvigelser fra bestemmelserne kan have afgørende betydning for brugsværdien og dermed brugernes muligheder for at gøre brug af bygningernes funktioner, opholdsarealer og parkeringsarealer. Hensyn til brugerne skal derfor inddrages i vurderingen.*
+**Grænsen for, hvad kommunen opfatter som bagatelagtigt, kan variere imellem de tekniske områder og dermed kapitler i bygningsreglementet. Når betydningen af et forhold skal vurderes, relaterer tilgængelighedsområdet sig i særdeleshed til brugergruppen og bestemmelsernes formål. Små afvigelser fra bestemmelserne kan have afgørende betydning for brugsværdien og dermed brugernes muligheder for at gøre brug af bygningernes funktioner, opholdsarealer og parkeringsarealer. Hensyn til brugerne skal derfor inddrages i vurderingen.**
 
-\*
 
 I det følgende præsenteres eksempler på denne problemstilling, som kommunen bør være opmærksom på, når det vurderes, om en mangel er af bagatelagtig karakter. Det er hensigten, at disse eksempler kan bidrage til en forståelse af brugsværdien, brugernes situation og deres møde med det fysiske miljø.
 
-**Kunne komme hen til **
+**Kunne komme hen til** 
 
 Særligt for personer med synsnedsættelse, personer med gangbesvær, men også børn, er det afgørende for både brugskvalitet og sikkerhed, at gangareal frem til bebyggelse er anlagt med taktil adskillelse til andre trafikformer (cykel, bil).
 
-**Kunne komme ind  **
+**Kunne komme ind**  
 
 Et 9M murhul giver, afhængig af dørkarmens udformning, ikke nødvendigvis en fri passagebredde på 0,77 meter ved lyd- eller branddøre. En fri passage på 0,77 meter er nødvendig for, at en elektrisk kørestol kan passere.
 

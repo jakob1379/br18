@@ -40,21 +40,21 @@ Ved sekundær bebyggelse skelnes der mellem byggeri, der bygges sammen med den p
 
 Det kan på samme måde have betydning for brandsikringen, hvis man bygger tæt på skel. Konkret kan det eksempelvis have betydning for, hvilke materialer, som du skal bygge med, og om du skal lave en brandvæg mod skel for at forhindre brandspredning.
 
-Vi henviser i øvrigt til Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) -- Brand, [Bilag 1](/bilag/b1/bilag_1/) -- Præ-accepterede løsninger -- Enfamiliehuse, afsnit 4.6, der omhandler særlige forhold ved sekundær bebyggelse.
+Vi henviser i øvrigt til Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) – Brand, [Bilag 1](/bilag/b1/bilag_1/) – Præ-accepterede løsninger – Enfamiliehuse, afsnit 4.6, der omhandler særlige forhold ved sekundær bebyggelse.
 
 **Eksempel 1:**
 
-*På en grund med et dobbelthus placeres et udhus 3 m fra skel. Udhusets afstand fra skel er større end 2,5 m, og derfor skal der som udgangspunkt ikke tages hensyn til brandforholdene, herunder de bygningsdele, der vender mod skel.\*
+*På en grund med et dobbelthus placeres et udhus 3 m fra skel. Udhusets afstand fra skel er større end 2,5 m, og derfor skal der som udgangspunkt ikke tages hensyn til brandforholdene, herunder de bygningsdele, der vender mod skel.*
 
 *Det er en forudsætning, at bygningsreglementet, deklarationer og anden lovgivning overholdes.*
 
 **Eksempel 2:**
 
-*Ved et enfamiliehus placeres en sammenbygget garage i skel mod nabo.\*
+*Ved et enfamiliehus placeres en sammenbygget garage i skel mod nabo.*
 
-*Garagens afstand til skel på mindre end 2,5 m medfører, at man skal være opmærksom på brandforholdene for de bygningsdele, der vender mod skel eller enfamiliehuset. Garagen skal som minimum udføres med væg mod naboskel som bygningsdel EI60 \[BD-bygningsdel 60\].\*
+*Garagens afstand til skel på mindre end 2,5 m medfører, at man skal være opmærksom på brandforholdene for de bygningsdele, der vender mod skel eller enfamiliehuset. Garagen skal som minimum udføres med væg mod naboskel som bygningsdel EI60 \[BD-bygningsdel 60\].*
 
-*At bygningsdelen er EI60 betyder, at den kan holde varme og flammer ude i 60 minutter, og dermed er der større sandsynlighed for, at branden kan blive slukket inden den spreder sig. Sikringen kan også foretages i enfamiliehuset. Brandsikringen kan konkret bestå i, at der bygges med brandhæmmende materialer i de sider, der vender mod skel.\*
+*At bygningsdelen er EI60 betyder, at den kan holde varme og flammer ude i 60 minutter, og dermed er der større sandsynlighed for, at branden kan blive slukket inden den spreder sig. Sikringen kan også foretages i enfamiliehuset. Brandsikringen kan konkret bestå i, at der bygges med brandhæmmende materialer i de sider, der vender mod skel.*
 
 *Det er en forudsætning, at bygningsreglementet, deklarationer og anden lovgivning overholdes.*
 

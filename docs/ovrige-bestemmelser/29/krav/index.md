@@ -46,7 +46,7 @@ Dokumentation af brandforhold for byggeri i brandklasse 2-4 skal omfatte:
 
 4) Anden dokumentation til eftervisning af, at brandsikkerhedsniveauet for byggeri i brandklasse 4 overholdes.
 
-*Stk. 3.* Dokumentation, jf. stk. 1, nr. 1 og 2, skal udarbejdes efter principperne som beskrevet i Bygningsreglementets vejledning til kapitel 29, mens stk. 1, nr. 3-12, og stk. 2, skal udarbejdes efter principperne som beskrevet i Bygningsreglementets vejledning til kapitel 29 og 30. Dokumentation for eftervisning af brandsikkerhed, jf. stk. 2, nr. 2 og 3, skal tillige udarbejdes efter principperne i Bygningsreglementets vejledning til kapitel 5 -- Brand.
+*Stk. 3.* Dokumentation, jf. stk. 1, nr. 1 og 2, skal udarbejdes efter principperne som beskrevet i Bygningsreglementets vejledning til kapitel 29, mens stk. 1, nr. 3-12, og stk. 2, skal udarbejdes efter principperne som beskrevet i Bygningsreglementets vejledning til kapitel 29 og 30. Dokumentation for eftervisning af brandsikkerhed, jf. stk. 2, nr. 2 og 3, skal tillige udarbejdes efter principperne i Bygningsreglementets vejledning til kapitel 5 – Brand.
 
 *Stk. 4.* Dokumentation for projektering af brandsikringstiltag, jf. stk. 1, nr. 11 skal være i overensstemmelse med definerede krav i dokumentationen for design af brandforhold, jf. stk. 1, nr. 3-7 og 10 og stk. 2, nr. 1. Dokumentation for udførelse af brandsikringstiltag, jf. stk. 1, nr. 12 skal være i overensstemmelse med definerede krav i dokumentationen, jf. stk. 1, nr. 11.
 
@@ -108,7 +108,7 @@ særlig kontrol anførte kontroller er gennemført, og at de ved kontrollen fund
 
 ### § 510 {#paragraf-510}
 
-Ved oplysning om og dokumentation for, at byggeriet er indsatstaktisk traditionelt, skal det dokumenteres på brandplanerne, at byggeriet er udført i overensstemmelse med Bygningsreglementets vejledning til kapitel 5 -- Brand, vedrørende redningsberedskabets indsatsmuligheder.
+Ved oplysning om og dokumentation for, at byggeriet er indsatstaktisk traditionelt, skal det dokumenteres på brandplanerne, at byggeriet er udført i overensstemmelse med Bygningsreglementets vejledning til kapitel 5 – Brand, vedrørende redningsberedskabets indsatsmuligheder.
 
 *Stk. 2.* For byggeri, som ikke er indsatstaktisk traditionelt, skal det på anden vis dokumenteres, at bestemmelserne i bygningsreglementets kapitel 5 §§ 126-133 er opfyldt.
 

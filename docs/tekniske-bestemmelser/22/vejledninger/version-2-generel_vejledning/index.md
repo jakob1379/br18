@@ -14,7 +14,7 @@ Bygninger skal ventileres for at sikre, at beboere og brugere af bygninger har e
 
 Ventilationen kan udføres ved systemer for naturlig ventilation, mekanisk ventilation eller hybrid ventilation. "Ventilationssystemer" refererer både til naturlig ventilation, hybrid ventilation og mekanisk ventilation. "Ventilationsanlæg" refererer alene til mekanisk ventilation, herunder den mekaniske del af hybrid ventilation. Valg af ventilationstype, samt dimensionering af ventilation skal foretages ud fra bygningens udformning, herunder rumtyper og udformning af rum, bygningens brug og bygningens belastninger i forhold til forureninger, varmepåvirkning mv.
 
-### Generelt om bestemmelserne om ventilation {#670cd376-5a3b-4f8c-ae13-b55176029380}
+### 1.1. Generelt om bestemmelserne om ventilation {#670cd376-5a3b-4f8c-ae13-b55176029380}
 
 Ventilationssystemer skal planlægges, så der er fokus på bygbare løsninger og så føringsveje er gennemtænkt og muliggør inspektion, service og kanalrensning.
 
@@ -24,7 +24,7 @@ Bestemmelserne om ventilation varetager alene de normale ventilationsbehov. I fx
 
 Det er ikke nødvendigt at ventilationen er fuldstændig konstant. I de fleste tilfælde vil det ikke gøre en forskel for indeklimaet om der ventileres med en konstant luftmængde eller om man over en lidt længere periode i gennemsnit har den krævede luftmængde. For de dimensionerende forhold bør den gennemsnitlige ventilation over en time for kontorer og en lektion for undervisningslokaler kunne overholde den krævede luftmængde. Bygningsreglementets øvrige krav til indeklima skal derudover overholdes. I alle tilfælde sikres det, at bygningen er ventileret i henhold til den brug, den har.
 
-Der henvises til DS/EN ISO 7730 Ergonomi inden for termisk miljø -- Analytisk bestemmelse og fortolkning af termisk komfort ved beregning af PMV- og PPD-indekser og lokale termiske komfortkriterier og At-vejledning A. 1.2 Indeklima. For ventilation af rum med ildsteder henvises til §§301-303 samt til Gassikkerhedsloven.
+Der henvises til DS/EN ISO 7730 Ergonomi inden for termisk miljø – Analytisk bestemmelse og fortolkning af termisk komfort ved beregning af PMV- og PPD-indekser og lokale termiske komfortkriterier og At-vejledning A. 1.2 Indeklima. For ventilation af rum med ildsteder henvises til §§301-303 samt til Gassikkerhedsloven.
 
 Rengøringsstandarden i et rum har stor betydning for luftkvaliteten. Der henvises til bekendtgørelse om faste arbejdssteders indretning.
 
@@ -110,11 +110,11 @@ Bygningsreglementets bestemmelser om ventilation gælder ved nyinstallation i en
 
 Ved ombygning og renoveringsarbejder kan der ske lempelser af bestemmelserne i [§443, stk. 2](../../krav/443_446 "443_446"), når ombygningsarbejdet efter kommunalbestyrelsens skøn ikke kan udføres uden omfattende ændringer i bebyggelsen. En lempelse af [§443, stk. 2](../../krav/443_446 "443_446") kan eksempelvis være tilvejebringelse af basisluftskiftet ved udsugning i bad og køkken suppleret med tilførsel af udeluft gennem facade, vinduer eller lignende, hvor det af byggetekniske årsager eller pladshensyn kan være vanskeligt at etablere mekanisk indblæsning. Dette medfører ikke lempelser af kravet til grundluftskiftet.
 
-### Luftindtag og -afkast {#a4dae939-46b9-4e31-9e35-bcbf2321b11f}
+### 1.2. Luftindtag og -afkast {#a4dae939-46b9-4e31-9e35-bcbf2321b11f}
 
-Der er en række forhold, der skal tages i betragtning ved udformning af luftindtag og -- afkast til ventilation. Det bør eksempelvis tilstræbes, at minimere risikoen for uønsket forurening, luftgener eller væsentlig reduktion af ventilationssystemets effektivitet som følge af overførsel af luft fra afkast til indtag. Desuden er det vigtigt at udeluften er så ren, som det er muligt.
+Der er en række forhold, der skal tages i betragtning ved udformning af luftindtag og – afkast til ventilation. Det bør eksempelvis tilstræbes, at minimere risikoen for uønsket forurening, luftgener eller væsentlig reduktion af ventilationssystemets effektivitet som følge af overførsel af luft fra afkast til indtag. Desuden er det vigtigt at udeluften er så ren, som det er muligt.
 
-Herudover bør blandt andet følgende forhold tages i betragtning ved udformning af luftindtag og --afkast
+Herudover bør blandt andet følgende forhold tages i betragtning ved udformning af luftindtag og –afkast
 
 \- Bygningen og nabobygningernes indbyrdes placering og afstandsforhold
 
@@ -126,7 +126,7 @@ Herudover bør blandt andet følgende forhold tages i betragtning ved udformning
 
 \- Lokale temperaturforhold, for eksempel opvarmning af sorte tage på solskinsdage
 
-Der henvises til DS 447, der indeholder nærmere præcisering af placering af luftindtag og --afkast.
+Der henvises til DS 447, der indeholder nærmere præcisering af placering af luftindtag og –afkast.
 
 [![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
 
@@ -146,7 +146,7 @@ Ventilationsåbninger direkte til det fri bør udformes og fungere, så brugerne
 
 Der kan være krav om en vis lyddæmpning i ventilationsåbningen, se [§ 369](../../../17/krav/369_373 "369_373"). I de tilfælde, hvor udelufttilførslen skal ske gennem styrede vinduer, bør tyveriaspektet iagttages.
 
-### Træk {#626c6ed0-d8db-43db-88f0-3c9df15a14b2}
+### 1.3. Træk {#626c6ed0-d8db-43db-88f0-3c9df15a14b2}
 
 For at begrænse træk bør draught rate i opholdszonen i lokaler med stillesiddende aktivitet ikke overstige 20 pct. Draught rate defineres som i DS/EN ISO 7730 Ergonomi inden for termisk miljø - Analytisk bestemmelse og fortolkning af termisk komfort ved beregning af PMV- og PPD-indekser og lokale termiske komfortkriterier. Trækrisikoen afhænger af aktivitetsniveau, lufttemperatur og luftens turbulensintensitet. Opholdszonen er det område i et rum, hvor personer kan forventes at opholde sig i længere tid.
 
@@ -187,13 +187,13 @@ DS 447 - Ventilation i bygninger - Mekaniske, naturlige og hybride ventilationss
 
 #### Standarden findes på dansk i Dansk Standards [webshop.ds.dk](https://webshop.ds.dk/da-dk/s%C3%B8gning/91-140-30-ventilationssystemer-og-klimaanl%C3%A6g/ds-4472013){target="_blank"}
 
-### Overførsel af luft mellem rum {#9585ac1f-f041-4ab4-b904-ce4720f5f1d8}
+### 1.4. Overførsel af luft mellem rum {#9585ac1f-f041-4ab4-b904-ce4720f5f1d8}
 
 Det skal sikres, at ventilationsløsningen ikke nødvendiggør, at luften bevæger sig fra mere til mindre luftforurenede rum. I boliger vil de mere luftforurenede rum for eksempel være køkkener, baderum, wc-rum og bryggers, mens de mindre luftforurenede rum vil være stue, soverum mv.
 
 Overførsel af røg, madlugt etc. mellem enheder i fx etageejendomme skal undgås. Roterende varmevekslere og varmevekslere med en intern lækage kan fx overføre røgpartikler til indblæsningsluften til gene for brugerne.
 
-### Energikrav til ventilationssystemer {#26e28304-9f06-4175-baef-1bd6186d4204}
+### 1.5. Energikrav til ventilationssystemer {#26e28304-9f06-4175-baef-1bd6186d4204}
 
 *Varmegenvinding*
 
@@ -215,7 +215,7 @@ Grundluftskiftet for ventilationsanlæg til etageboliger vil normalt være luftm
 
 Ventilationsanlæg, der kun betjener en enkelt bolig, har et skærpet krav til specifikt elforbrug til lufttransport. Dette gælder også for anlæg der betjener en enkelt boligenhed i en etagebolig. Hvis decentrale ventilationsanlæg i etageboliger er koblet sammen, for eksempel gennem et fælles aftræk er det kravet til specifikt elforbrug til lufttransport for etageboliger, der skal overholdes.
 
-Det specifikke elforbrug til lufttransport opgøres som angivet i DS 447 Ventilation i bygninger -- Mekaniske, naturlige og hybride ventilationssystemer. Opmærksomheden henledes på, at tryktabet til brandtekniske komponenter som fx brandspjæld ligeledes medregnes ved beregning af elforbruget.
+Det specifikke elforbrug til lufttransport opgøres som angivet i DS 447 Ventilation i bygninger – Mekaniske, naturlige og hybride ventilationssystemer. Opmærksomheden henledes på, at tryktabet til brandtekniske komponenter som fx brandspjæld ligeledes medregnes ved beregning af elforbruget.
 
 For udsugningsanlæg uden mekanisk udelufttilførsel medregnes ligeledes tryktabet på tilluftsiden i anlæggets samlede tryktab (eksempelvis via udeluftsventiler og vinduer).
 
@@ -233,7 +233,7 @@ Denne standard specificerer krav til ventilation og ventilationssystemer i bygni
 
 Kravet om præcision af målere er opfyldt ved anvendelse af typegodkendte målere eller målere med en tilsvarende nøjagtighed.
 
-### Ventilation i beboelsesbygninger {#5e6d9918-0372-42b6-8af9-993eb2861b42}
+### 1.6. Ventilation i beboelsesbygninger {#5e6d9918-0372-42b6-8af9-993eb2861b42}
 
 *Luftskifte*
 
@@ -253,7 +253,8 @@ Såfremt der anvendes et andet ventilationssystem end et mekanisk ventilationsan
 
 Kravet til primærenergiforbrug for andre ventilationssystemer end mekaniske beregnes med udgangspunkt i energirammen. I renoveringssager, hvor der ikke benyttes en energiramme, kan primærenergiforbruget beregnes med primærenergifaktorerne beskrevet i [§ 252](../../../11/krav "§ 252"){rel="noopener" target="_blank"} ud fra minimumskravene for varmegenvinding, SEL-værdi og luftskifte. Der skal ved beregning anvendes de samme luftmængder til mekanisk, naturlig og hybrid ventilation. Kravet til primærenergiforbrug er opfyldt, hvis det på baggrund af beregningen kan dokumenteres, at det alternative ventilationssystem ikke har et højere primærenergiforbrug end det mekaniske ventilationsanlæg.
 
-*Kompenserende tiltag\*
+*Kompenserende tiltag*
+
 Såfremt der ikke anvendes en energiramme til at beregne primærenergibehov, kan der i beregning af ventilationens energiforbrug indgå kompenserende tiltag, så som vedvarende energianlæg og energibesparende tiltag ud over bygningsreglementets mindstekrav, eksempler herpå kan være, men er ikke begrænset til, solcelleanlæg eller isolering.
 
 *Emhætter*
@@ -411,11 +412,11 @@ For bygninger der skal anvendes til bolig med et behovsstyret ventilationssystem
 
 For etageboligbygninger, kollegier, hoteller og lign. kan der ikke anvendes reduceret ventilation i fælles rum, som fx trappe og gangarealer. Ligeledes kan der ikke indregnes reduceret ventilation i boliger hvor beboerne i vid udstrækning må forventes at være hjemme i udstrakt grad, eksempelvis plejehjem.
 
-### Ventilation af andre bygninger og rum {#9b9e4589-4565-4dee-b20d-553695f2cad6}
+### 1.7. Ventilation af andre bygninger og rum {#9b9e4589-4565-4dee-b20d-553695f2cad6}
 
 Ventilationens størrelse kan f.eks. fastlægges på grundlag af, kategori II i DS/EN 16798-1:2019 DK NA:2021 tabel NA.6 (personbidrag) og tabel NA.7 (bygningsbidrag), eller ved at sikre, at CO~2~-niveauet ved de dimensionerende forhold er under 1000 ppm, hvor personer er den væsentlige forureningskilde. Det skal altid sikres, at ventilationen er tilstrækkelig til at bortventilere øvrige forureninger.
 
-### Ventilation af daginstitutioner og undervisningsrum {#25f1bfe1-d835-42f9-b095-95af5ceda41b}
+### 1.8. Ventilation af daginstitutioner og undervisningsrum {#25f1bfe1-d835-42f9-b095-95af5ceda41b}
 
 For opholdsrum i daginstitutioner og undervisningsrum i skoler og lignende, hvor personer er den væsentligste forureningskilde stilles der krav til at CO~2~-indholdet i indeluften ikke overstiger 1000 ppm ved de dimensionerende forhold.
 
@@ -431,11 +432,11 @@ Manuel åbning af vinduer eller lignende kan ikke være en forudsætning for opf
 
 Kravet til primærenergiforbrug for andre ventilationssystemer end mekaniske beregnes med udgangspunkt i energirammen. I renoveringssager, hvor der ikke benyttes en energiramme, kan primærenergiforbruget beregnes med primærenergifaktorerne beskrevet i [§ 252](../../../11/krav "Krav") ud fra minimumskravene for varmegenvinding, SEL-værdi og luftskifte. Der skal ved beregning anvendes de samme luftmængder til mekanisk, naturlig og hybrid ventilation. Kravet til primærenergiforbrug er opfyldt, hvis det på baggrund af beregningen kan dokumenteres, at det alternative ventilationssystem ikke har et højere primærenergiforbrug end det mekaniske ventilationsanlæg.
 
-### Funktionsafprøvning {#ad1b9889-dbb6-4715-bb2e-463ac6068b46}
+### 1.9. Funktionsafprøvning {#ad1b9889-dbb6-4715-bb2e-463ac6068b46}
 
 Der henvises til [Bygningsreglementets vejledning om funktionsafprøvning](../../../11/brv/version-2-funktionsafprovning){rel="noopener noreferrer" target="_blank"}[.](../../../11/brv/version-2-funktionsafprovning){rel="noopener noreferrer" target="_blank"}
 
-### Drift og vedligehold {#6e48ddb0-faf3-4a33-90dd-8d2600796ee3}
+### 1.10. Drift og vedligehold {#6e48ddb0-faf3-4a33-90dd-8d2600796ee3}
 
 Ventilationsbestemmelserne skal overholdes i hele bygningens levetid. Det betyder, at ventilationen skal vedligeholdes, driftes og rengøres, så anlæggene til enhver tid overholder bygningsreglementets krav.
 

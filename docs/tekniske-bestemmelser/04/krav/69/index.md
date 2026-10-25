@@ -88,7 +88,7 @@ Vandinstallationer med aftapning samt tekniske installationer med f.eks. aftræk
 
 ### § 76 {#paragraf-76}
 
-Højvandslukke til sikring mod oversvømmelser, der installeres i eller uden for bygningen, skal udføres i overensstemmelse med tabel 13 til DS 432 Afløbsinstallationer.*\*
+Højvandslukke til sikring mod oversvømmelser, der installeres i eller uden for bygningen, skal udføres i overensstemmelse med tabel 13 til DS 432 Afløbsinstallationer.
 [![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
 
 ### DS 432

@@ -6,7 +6,7 @@
 
 ## Tabel 3 - Mindstekrav til klimaskærm ved ombygninger og andre forandringer i bygningen
 
-## Tabel 4 -- Mindstekrav til klimaskærm for sommerhuse, campinghytter og lignende ferieboliger
+## Tabel 4 – Mindstekrav til klimaskærm for sommerhuse, campinghytter og lignende ferieboliger
 
 ## Tabel 5 - Mindstekrav til klimaskærm for midlertidige, flytbare pavilloner
 
@@ -16,7 +16,7 @@
 
 ## Tabel 8 - Emissionsfaktorer
 
-## Tabel 9 -- Referenceværdier for beregning af klimapåvirkning, som ikke indgår i beregningen ifølge § 298, stk. 1.
+## Tabel 9 – Referenceværdier for beregning af klimapåvirkning, som ikke indgår i beregningen ifølge § 298, stk. 1.
 
 For at fastlægge størrelsen af den berettigede øgede klimapåvirkning, der som følge af § 298, stk. 8, ikke skal medregnes, foretages en isoleret beregning af klimapåvirkningen fra den del af bygningen, der er påvirket af det særlige forhold.
 
@@ -28,7 +28,7 @@ Der sondres i det følgende mellem konstruktioner, søjler/bjælker, fundamenter
 
 *** ***
 
-***Konstruktioner\***
+***Konstruktioner***
 
 For konstruktioner beregnes forskellen vha. referenceværdi jf. tabel 9 og formel 1 herunder
 
@@ -49,7 +49,8 @@ Tabel 9: Liste over referenceværdier, som anvendes til at beregne den berettige
 
 *** ***
 
-***Konstruktioner\***
+***Konstruktioner***
+
 For konstruktioner skal forskellen i klimapåvirkning i forhold til en almindelig referenceværdi beregnes som i formel 1 herunder.
 
 Formel 1:
@@ -68,7 +69,8 @@ a er arealet som opgjort ifølge § 297, stk. 5, (i m2).
 
  
 
-***Søjler/bjælker\***
+***Søjler/bjælker***
+
 For søjler og bjælker skal forskellen i klimapåvirkning i forhold til en almindelig referenceværdi beregnes som i formel 2 herunder.
 
 Formel 2:
@@ -85,7 +87,8 @@ a er arealet som opgjort ifølge § 297, stk. 5 (i m2).
 
  
 
-***Fundamenter\***
+***Fundamenter***
+
 For fundamenter skal forskellen i klimapåvirkning i forhold til en almindelig referenceværdi beregnes som i formel 3 herunder. Påvirkningen opgøres samlet for hele fundamentet, også i de tilfælde hvor kun dele af fundamentet har et øget materialeforbrug.
 
 Formel 3: 
@@ -122,9 +125,9 @@ a er arealet som opgjort ifølge § 297, stk. 5, (i m2).
 
  
 
-## Tabel 10 -- Beregning af klimapåvirkning fra energiforbrug i byggeprocessen (modul A4 og A5)
+## Tabel 10 – Beregning af klimapåvirkning fra energiforbrug i byggeprocessen (modul A4 og A5)
 
-## Tabel 11 -- Generiske data for behandling af byggeaffald
+## Tabel 11 – Generiske data for behandling af byggeaffald
 
 ## Tabel 12 - Standardværdier for energiforbrug i sommerhuse, campinghytter og lignende ferieboliger
 

@@ -53,7 +53,7 @@
 
 ### Drift, kontrol og vedligehold
 
-Det fremgår af bygningsreglementet 2018, [kap. 16](/tekniske-bestemmelser/16/), [§ 367](/tekniske-bestemmelser/16/krav/367/), at drift, kontrol og vedligehold af offentligt tilgængelige legepladsredskaber og --underlag, motionsredskaber i det fri, skateboardbaner og lignende skal ske, så de til enhver tid overholder de relevante bestemmelser i [§ 358](/tekniske-bestemmelser/16/krav/358/)-365.
+Det fremgår af bygningsreglementet 2018, [kap. 16](/tekniske-bestemmelser/16/), [§ 367](/tekniske-bestemmelser/16/krav/367/), at drift, kontrol og vedligehold af offentligt tilgængelige legepladsredskaber og –underlag, motionsredskaber i det fri, skateboardbaner og lignende skal ske, så de til enhver tid overholder de relevante bestemmelser i [§ 358](/tekniske-bestemmelser/16/krav/358/)-365.
 
 Det påhviler den til enhver tid værende ejer at vedligeholde og reparere sine legepladser mv., så de til en hver tid opfylder bygningsreglementets krav og, at der dermed er en tilfredsstillende sikkerhed mod personskader, jf. [byggeloven § 17](https://www.retsinformation.dk/eli/lta/2016/1178).
 

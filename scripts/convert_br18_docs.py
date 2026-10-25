@@ -90,6 +90,9 @@ FLATTEN_TAGS = {
     "span",
 }
 
+EMPHASIS_TAGS = {"b", "em", "i", "strong"}
+EMPHASIS_OPEN_RE = re.compile(r"^<(?:b|em|i|strong)\b[^>]*>$")
+
 BLOCK_FLATTEN_TAGS = {
     "aside",
     "div",
@@ -140,7 +143,7 @@ def rel_path_for_url(url: str, source_dir: Path, docs_root: Path) -> str | None:
     if parsed.netloc and parsed.netloc not in SITE_HOSTS:
         return None
 
-    path = canonicalize_asset_path(parsed.path or "", source_dir, docs_root)
+    path = canonicalize_asset_path(parsed.path or ("/" if parsed.netloc else ""), source_dir, docs_root)
     if not path and not parsed.fragment:
         return None
 
@@ -240,7 +243,7 @@ class Cleaner(HTMLParser):
             self.skip_depth += 1
             return
 
-        if tag in FLATTEN_TAGS:
+        if tag in FLATTEN_TAGS or (tag == "a" and "href" not in self._attrs(attrs)):
             self.stack.append("flatten")
             if tag in BLOCK_FLATTEN_TAGS:
                 self.parts.append("\n\n")
@@ -269,13 +272,27 @@ class Cleaner(HTMLParser):
             if tag in BLOCK_FLATTEN_TAGS:
                 self.parts.append("\n\n")
             return
+        moved: list[str] = []
+        if tag in EMPHASIS_TAGS:
+            while self.parts and (self.parts[-1] == "<br />" or not self.parts[-1].strip(" \t\n ")):
+                moved.insert(0, self.parts.pop())
+            if self.parts and not self.parts[-1].startswith("<"):
+                text = self.parts.pop()
+                kept = text.rstrip(" \t\n ")
+                self.parts.append(kept)
+                moved.insert(0, text[len(kept):])
         self.parts.append(f"</{tag}>")
+        self.parts.extend(moved)
 
     def handle_data(self, data: str) -> None:
         if (
             self.skip_depth == 0
             and data.strip() != "Swipe horisontalt for at se alle emner"
         ):
+            lead = data[: len(data) - len(data.lstrip(" \t\n "))]
+            if lead and self.parts and EMPHASIS_OPEN_RE.match(self.parts[-1]):
+                self.parts.insert(len(self.parts) - 1, lead)
+                data = data[len(lead):]
             self.parts.append(data)
 
     def handle_entityref(self, name: str) -> None:
@@ -389,8 +406,8 @@ def normalize_markdown_linebreak_artifacts(markdown: str) -> str:
     # Split numbered and lettered legal list items that were flattened into one
     # paragraph. Require whitespace before the marker to avoid touching words,
     # section references, or URLs.
-    text = re.sub(r"(?<!^)\s+(?=\d{1,2}\)\s*\S)", "\n\n", text)
-    text = re.sub(r"(?<!^)\s+(?=[a-zæøå]\)\s*\S)", "\n\n", text)
+    text = re.sub(r"(?<!^)(?<!\\)\s+(?=\d{1,2}\)\s*\S)", "\n\n", text)
+    text = re.sub(r"(?<!^)(?<!\\)\s+(?=[a-zæøå]\)\s*\S)", "\n\n", text)
 
     text = re.sub(r"\n{3,}", "\n\n", text)
     return text + ("\n" if markdown.endswith("\n") else "")
@@ -659,10 +676,12 @@ def attach_anchor_reference_ids(markdown: str) -> str:
                 continue
 
             heading_line = add_heading_id(lines[heading_index], anchor_id)
-            if label.startswith("§"):
+            if re.search(r"\w", label):
                 hm = HEADING_ATTR_RE.match(heading_line)
-                if hm and not hm.group("head").split(maxsplit=1)[1].startswith("§"):
-                    heading_line = f"{hm.group('head').split(maxsplit=1)[0]} {match.group('label').strip()} {hm.group('head').split(maxsplit=1)[1]}"
+                marks, _, title = hm.group("head").partition(" ") if hm else ("", "", "")
+                tag = match.group("label").strip()
+                if hm and not title.strip().startswith(tag) and not (label.startswith("§") and title.startswith("§")):
+                    heading_line = f"{marks} {tag} {title.strip()}".rstrip()
                     attrs = (hm.group("attrs") or "").strip()
                     if attrs:
                         heading_line = f"{heading_line} {{{attrs}}}"
@@ -688,7 +707,7 @@ def convert_file(path: Path, docs_root: Path, delete_html: bool) -> bool:
             "--from",
             "html",
             "--to",
-            "markdown-grid_tables-simple_tables-multiline_tables",
+            "markdown-smart-grid_tables-simple_tables-multiline_tables",
             "--wrap=none",
         ],
         input=cleaned,

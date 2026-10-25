@@ -10,7 +10,7 @@ from pathlib import Path
 from posixpath import splitext
 from urllib.parse import urlsplit
 
-from fetch_origin_pages import SITE_ROOT, fetch, target_path_for_url
+from fetch_origin_pages import SITE_ROOT, fetch, is_section_page, target_path_for_url
 from convert_br18_docs import promote_legal_paragraph_headings
 
 
@@ -95,6 +95,10 @@ def main() -> int:
             if not args.ignore_errors:
                 raise
             print(f"failed fetch: {url} ({exc})", file=sys.stderr)
+            continue
+        if is_section_page(target.read_bytes(), url):
+            print(f"skipped guide subpage (its content belongs to the guide root): {url}", file=sys.stderr)
+            target.unlink()
             continue
         rel_paths.append(str(target.relative_to(docs_root)))
         successful_urls.append(url)

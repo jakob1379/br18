@@ -5,7 +5,7 @@
 - [Spørgsmål og svar](../spoergsmaal-og-svar)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../spoergsmaal-og-svar-ve-anlaeg)
 - [Vejledning om byggesagsbehandling efter BR18](../vejledning-om-byggesagsbehandling-efter-br18)
-- [Vejledning om ombygninger og brug af certificerede rådgivere i relation til ændring af BR18 d. 10. marts 2020](./)
+- [Vejledning om ombygninger og brug af certificerede rådgivere i relation til ændring af BR18 d. 10. marts 2020](.)
 - [Eksempelsamling om ombygninger og andre forandringer - For etageboligbyggeri samt enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse](../eksempelsamling-om-ombygninger-og-andre-forandringer)
 - [Vejledning i kommunernes stikprøvekontrol i tilgængelighed](../stikprovekontrol-tilgaengelighed)
 - [Vejledning om brug af brand og konstruktionsklasser](../vejledning-om-brug-af-brand-og-konstruktionsklasser)
@@ -22,7 +22,7 @@
 
 ## Vejledning om ombygninger og brug af certificerede rådgivere i relation til ændring af BR18 d. 10. marts 2020
 
-### Generelt {#1b393d6d-0d5c-4e74-a86a-cfbbcc00dc82}
+### 1 Generelt {#1b393d6d-0d5c-4e74-a86a-cfbbcc00dc82}
 
 Udgangspunktet for byggeloven og bygningsreglementet er, at byggearbejder kræver ansøgning om byggetilladelse.
 
@@ -34,7 +34,7 @@ Bestemmelsen er ændret med virkning fra den 10. marts 2020. Bekendtgørelsen er
 
 Såfremt en kommune opkræver gebyr for behandling af byggesager, vil der kunne opkræves gebyr for den behandling, der er pågået, indtil sagen kan afsluttes grundet nærværende regelændring.
 
-### Ombygningssager undtaget fra kravet om byggetilladelse {#44ea9a4d-12a0-4d3f-8f0d-82285840a6c5}
+### 2 Ombygningssager undtaget fra kravet om byggetilladelse {#44ea9a4d-12a0-4d3f-8f0d-82285840a6c5}
 
 Bestemmelsen i *§ 5, stk. 1, nr. 4* omhandler ombygninger og andre forandringer i eksisterende byggeri, der ikke er omfattet af § 5, stk. 1, nr. 2 og 3, og som ikke ændrer de bærende konstruktioners virkemåde eller forudsætningerne for de brandmæssige forhold.
 
@@ -42,7 +42,7 @@ Ombygningen eller forandringen må heller ikke medføre en væsentlig anvendelse
 
 Der er ikke krav om, at byggearbejdet indplaceres i brand- eller konstruktionsklasse, og at der tilknyttes en certificeret brandrådgiver eller statiker for at vurdere om ombygninger og andre forandringer ikke ændrer de bærende konstruktioners virkemåde, forudsætningerne for de brandmæssige forhold eller medfører en væsentlig anvendelsesændring. Ved henvendelser til kommunalbestyrelsen om, hvorvidt et byggearbejde er omfattet af bestemmelsen skal kommunen derfor også lægge ansøgerens oplysninger til grund ved behandling af ansøgning om byggetilladelse, med mindre kommunalbestyrelsen mener, at der er en begrundet mistanke om manglende eller misvisende dokumentation.
 
-### Ændring af de bærende konstruktioners virkemåde {#91eb9188-c3a6-4d9c-ba03-505f00266496}
+### 2.1 Ændring af de bærende konstruktioners virkemåde {#91eb9188-c3a6-4d9c-ba03-505f00266496}
 
 Ombygninger og andre forandringer i eksisterende byggeri, der er omfattet af bestemmelsen, må ikke medføre ændringer af de bærende konstruktioners virkemåde eller indføre nye bærende konstruktioner.
 
@@ -58,7 +58,7 @@ Hvis ombygninger og andre forandringer medfører, at de eksisterende bærende ko
 
 Der kan findes yderligere vejledning i SBi-anvisning 271 *Dokumentation og kontrol af bærende konstruktioner*, afsnit 1.4.6 *Ombygning, renovering og ændret anvendelse*.
 
-### Ændring af forudsætningerne for de brandmæssige forhold {#3c3c9ab1-ae3a-487b-816b-e70a714cbdbb}
+### 2.2 Ændring af forudsætningerne for de brandmæssige forhold {#3c3c9ab1-ae3a-487b-816b-e70a714cbdbb}
 
 Ombygninger og forandringer i eksisterende byggeri, der er omfattet af bestemmelsen, må ikke medføre ændring af forudsætningerne for de brandmæssige forhold.
 
@@ -86,7 +86,7 @@ Ved forudsætningerne for de brandmæssige forhold, kan der tages udgangspunkt i
 
 En indgriben i en af disse aspekter under byggearbejdet, som retablerer tilsvarende eksisterende forhold, anses ikke som en ændring.
 
-### Ombygningssager, der kræver byggetilladelse {#f83292e3-3a7c-4b65-803f-6ce8f39f3a70}
+### 3 Ombygningssager, der kræver byggetilladelse {#f83292e3-3a7c-4b65-803f-6ce8f39f3a70}
 
 Hvis en ombygning ikke er omfattet af en af bygningsreglementets undtagelsesbestemmelser, er der krav om byggetilladelse.
 
@@ -104,9 +104,9 @@ Kommunalbestyrelsen kan i tvivlstilfælde forlange supplerende dokumentation til
 
 Det er ligeledes op til ansøgeren at orientere kommunalbestyrelsen, hvis der sker ændringer i byggearbejdet undervejs, der giver anledning til ændrede vilkår i byggetilladelsen, eller at der skal træffes en helt ny afgørelse i sagen.
 
-Kommunalbestyrelsen er bygningsmyndighed, og skal derfor -- inden der meddeles byggetilladelse -- vurdere om dokumentationen er i overensstemmelse med de af bygningsreglementets krav, der er relevante for byggesagen, jf. BR18 § 36.
+Kommunalbestyrelsen er bygningsmyndighed, og skal derfor – inden der meddeles byggetilladelse – vurdere om dokumentationen er i overensstemmelse med de af bygningsreglementets krav, der er relevante for byggesagen, jf. BR18 § 36.
 
-### Kommunalbestyrelsens ansvar ved indplacering i brand- og konstruktionsklasse {#2cd2304c-7bf1-426e-9271-aa9a1e85d323}
+### 4 Kommunalbestyrelsens ansvar ved indplacering i brand- og konstruktionsklasse {#2cd2304c-7bf1-426e-9271-aa9a1e85d323}
 
 I § 10, stk. 2, nr. 2-5, fremgår det, at der ved ansøgning om byggetilladelse skal indsendes oplysning om og dokumentation for, hvilken konstruktionsklasse eller brandklasse byggearbejdet er indplaceret i.
 
@@ -116,9 +116,9 @@ Hensigten med disse bestemmelser er, at kommunalbestyrelsen af den indsendte dok
 
 Når et byggeri indplaceres i konstruktionsklasse 1 (KK1) eller brandklasse 1 (BK1), er der ikke krav om, at der skal tilknyttes en certificeret brandrådgiver eller certificeret statiker, jf. § 10, stk. 6 og 7. Kommunen kan ikke stille krav om en certificeret brandrådgiver eller certificerede statiker for byggearbejder i konstruktions- og brandklasse 1 i forbindelse med indplacering i brand- og konstruktionsklasse.
 
-Læs mere indplacering i brand- og konstruktionsklasse i og i [Vejledning om indplacering i konstruktionsklasse](../../../ovrige-bestemmelser/26/brv/indplacering-i-konstruktionsklasser).
+Læs mere indplacering i brand- og konstruktionsklasse i [Bygningsreglementets vejledning til kapitel 5 – kapitel 1 – afsnit 1.6.0](../../../tekniske-bestemmelser/05/vejledninger/generel_brand/kapitel-1) og i [Vejledning om indplacering i konstruktionsklasse](../../../ovrige-bestemmelser/26/brv/indplacering-i-konstruktionsklasser).
 
-### Eksempler på, hvornår et byggearbejde normalt er undtaget for byggetilladelse, jf. § 5, stk. 1, nr. 4 {#c998d3d5-bc52-4076-9150-2fc6286e76ae}
+### 5 Eksempler på, hvornår et byggearbejde normalt er undtaget for byggetilladelse, jf. § 5, stk. 1, nr. 4 {#9a1bd2dd-0bce-42bd-a6a4-360f3ad8dc34}
 
 Eksempel 1
 
@@ -178,7 +178,7 @@ I et butikscenter indrettet til flere end 150 personer ændres der på en butiks
 
 Ændringen kan udføres uden byggetilladelse, men inventaropstillingsplan skal opdateres og udfærdiges af en certificeret brandrådgiver eller godkendes af kommunalbestyrelsen jf. BR18 § 6h, stk.1.
 
-### Eksempler på, hvornår et byggearbejde ikke er undtaget for byggetilladelse, jf. § 5, stk. 1, nr. 4, og hvor der enten skal tilknyttes en certificeret brandrådgiver og/eller statiker, jf. § 10, stk. 2, nr. 3 og 5 {#7b806321-6273-455b-a03f-ee7614102c95}
+### 6 Eksempler på, hvornår et byggearbejde ikke er undtaget for byggetilladelse, jf. § 5, stk. 1, nr. 4, og hvor der enten skal tilknyttes en certificeret brandrådgiver og/eller statiker, jf. § 10, stk. 2, nr. 3 og 5 {#7b806321-6273-455b-a03f-ee7614102c95}
 
 Eksempel 1
 

@@ -66,7 +66,7 @@ Det fremgår af parkeringsfondscirkulærets [§ 5, stk. 1](/administrative-beste
 
 ***Tilbagebetaling af parkeringsfondsbidrag
 
-\***
+
 
 Såfremt erstatningspladserne ikke er etableret inden for 5-års fristen, skal det indbetalte beløb i medfør af cirkulærets [§ 6](/administrative-bestemmelser/krav/4_6/), tilbagebetales.
 
@@ -74,12 +74,13 @@ Det indbetalte beløb skal tilbagebetales til den til enhver tid værende ejer p
 
 Begrundelsen for dette er, at det generelle udgangspunkt efter [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178) er, at byrder og rettigheder i henhold til loven påhviler den pågældende ejendom, uanset tidligere ejeres rettigheder eller pligter.
 
-**\**
+
 ***Flere fonde***
 
 [Byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178) og parkeringsfondscirkulæret er ikke til hinder for, at en kommune kan oprette flere parkeringsfonde. Det afgørende for kommunens administration af parkeringsfondsordningen er, at ordningen administreres i overensstemmelse med bestemmelserne i parkeringsfondscirkulæret.
 
-***Tilvækst i forbindelse med indbetaling til parkeringsfond\**
+***Tilvækst i forbindelse med indbetaling til parkeringsfond**
+
 \*
 
 Ved en dispensation fra parkeringskravet, hvor der sker indbetaling til en parkeringsfond, kan tilvækstkravet alene indfries ved, at der etableres helt nye parkeringspladser eller ved, at allerede eksisterende parkeringspladser ændres således, at arealet udnyttes på en måde, hvorved der etableres flere parkeringspladser. Tilvækstkravet kan ikke opfyldes ved, at kommunen opkøber allerede eksisterende parkeringspladser i området på offentlig vej eller parkeringspladser, der allerede opfylder et parkeringskrav i forbindelse med opførelse af et andet byggeri, såkaldte "byggelovspladser".

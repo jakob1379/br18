@@ -6,7 +6,7 @@
 
 ## Tabel 3 - Mindstekrav til klimaskærm ved ombygninger og andre forandringer i bygningen
 
-## Tabel 4 -- Mindstekrav til klimaskærm for sommerhuse, campinghytter og lignende ferieboliger
+## Tabel 4 – Mindstekrav til klimaskærm for sommerhuse, campinghytter og lignende ferieboliger
 
 ## Tabel 5 - Mindstekrav til klimaskærm for midlertidige, flytbare pavilloner
 
@@ -24,7 +24,8 @@ Bygningsdele, der indgår i den færdige bygning som tag, ydervægge, indervægg
 
 Bygningsdelene er grupperet i typer og kategorier. I kolonnen detaljeringsniveau fremgår eventuelle afgrænsninger af, hvad der skal medregnes af materialer for den pågældende bygningsdel.
 
-***Forenklinger\***
+***Forenklinger***
+
 Fastgørelsesmidler, fx søm, skruer, kiler, hulplader til søm eller skruer, murbindere eller lignende, medregnes ikke.
 
 Større samlinger af væsentlig betydning for det bærende system, fx boltesamlinger, medregnes. Dette kan være som et samlet skøn af materialemængder, sådan som materialet er opgjort i [bilag 2, tabel 7](../tabel_7 "Tabel_7").
@@ -51,11 +52,11 @@ Såfremt bygningen ved færdigmelding mangler dele, som fx gulv, vægmaling mm.,
 
 ## Tabel 8 - Emissionsfaktorer
 
-## Tabel 9 -- Referenceværdier for beregning af klimapåvirkning, som ikke indgår i beregningen ifølge § 298, stk. 1.
+## Tabel 9 – Referenceværdier for beregning af klimapåvirkning, som ikke indgår i beregningen ifølge § 298, stk. 1.
 
-## Tabel 10 -- Beregning af klimapåvirkning fra energiforbrug i byggeprocessen (modul A4 og A5)
+## Tabel 10 – Beregning af klimapåvirkning fra energiforbrug i byggeprocessen (modul A4 og A5)
 
-## Tabel 11 -- Generiske data for behandling af byggeaffald
+## Tabel 11 – Generiske data for behandling af byggeaffald
 
 ## Tabel 12 - Standardværdier for energiforbrug i sommerhuse, campinghytter og lignende ferieboliger
 

@@ -44,17 +44,17 @@ Foruden bygningsreglementets regler, kan der også være regler i anden lovgivni
 
 **Eksempel 1:**
 
-*På en grund er der opført en garage på 25 m^2^. Ejeren af ejendommen ønsker efterfølgende at opføre et udhus. Det samlede areal af sekundær bebyggelse på grunden må maksimalt være 50 m^2^. Ejeren af ejendommen kan derfor opføre et udhus på maksimalt 25 m^2^, uden at det kræver byggetilladelse fra kommunen.\*
+*På en grund er der opført en garage på 25 m^2^. Ejeren af ejendommen ønsker efterfølgende at opføre et udhus. Det samlede areal af sekundær bebyggelse på grunden må maksimalt være 50 m^2^. Ejeren af ejendommen kan derfor opføre et udhus på maksimalt 25 m^2^, uden at det kræver byggetilladelse fra kommunen.*
 
-*Ønsker ejeren af ejendommen at opføre et udhus på mere end 25 m^2^, vil bygningernes samlede areal overstige 50 m2, og der vil derfor være krav om byggetilladelse.\*
+*Ønsker ejeren af ejendommen at opføre et udhus på mere end 25 m^2^, vil bygningernes samlede areal overstige 50 m2, og der vil derfor være krav om byggetilladelse.*
 
 *Det er en forudsætning, at bygningsreglementet, deklarationer og anden lovgivning overholdes.*
 
 **Eksempel 2:**
 
-*På en grund med en garage på 30 m^2^, der er bygget sammen med en overdækning på 19 m^2^ vil ejeren gerne opføre et skur på 14 m^2^.\*
+*På en grund med en garage på 30 m^2^, der er bygget sammen med en overdækning på 19 m^2^ vil ejeren gerne opføre et skur på 14 m^2^.*
 
-*I eksemplet er det samlede areal af sekundær bebyggelse ved opførelse af skuret 63 m^2^, og overstiger dermed 50 m^2^. Der er derfor krav om byggetilladelse.\*
+*I eksemplet er det samlede areal af sekundær bebyggelse ved opførelse af skuret 63 m^2^, og overstiger dermed 50 m^2^. Der er derfor krav om byggetilladelse.*
 
 *Det er en forudsætning, at bygningsreglementet, deklarationer og anden lovgivning overholdes.*
 
