@@ -46,7 +46,7 @@
 
 ### Funktionsafprøvning
 
-Der henvises til [Bygningsreglementets vejledning om funktionsafprøvning](../../../../11/brv/){rel="noopener noreferrer" target="_blank"}
+Der henvises til [Bygningsreglementets vejledning om funktionsafprøvning](../../../../11/brv/version-2-funktionsafprovning){rel="noopener noreferrer" target="_blank"}[.](../../../../11/brv/version-2-funktionsafprovning){rel="noopener noreferrer" target="_blank"}
 
 [1.10.](../kap-1_10/)
 
