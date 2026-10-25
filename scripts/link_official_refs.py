@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import argparse
 import re
 from pathlib import Path
 
@@ -70,7 +71,7 @@ LINKED_RANGE_RE = re.compile(
     r"\[\[([^\]]+)\]\(([^)]+)\)\s*-\s*\[([^\]]+)\]\(([^)]+)\)\](\{[^}]*\})?"
 )
 PARTIAL_LINKED_RANGE_RE = re.compile(
-    r"\[(§§)\s*([0-9]+(?:\s*[A-Za-z])?)\]\(([^)]+)\)\s*(?:-|--|–|—)\s*§?\s*([0-9]+(?:\s*[A-Za-z])?)"
+    r"\[(§§)\s*([0-9]+(?:\s*[A-Za-z](?![A-Za-zæøåÆØÅ]))?)\]\(([^)]+)\)\s*(?:-|--|–|—)\s*§?\s*([0-9]+(?:\s*[A-Za-z](?![A-Za-zæøåÆØÅ]))?)"
 )
 BROKEN_OG_LINK_RE = re.compile(r"\[(§{1,2}\s*[^\]]*?)\s+o\]\(([^)]+)\)g\b")
 PARTIAL_ANNEX_NUMBER_RE = re.compile(
@@ -79,8 +80,8 @@ PARTIAL_ANNEX_NUMBER_RE = re.compile(
 
 SECTION_REF = (
     r"(?:"
-    r"§{1,2}\s*[\dA-Za-z]+(?:\s*[A-Za-z])?"
-    r"(?:\s*-\s*§?\s*[\dA-Za-z]+(?:\s*[A-Za-z])?)?"
+    r"§{1,2}\s*[\dA-Za-z]+(?:\s*[A-Za-z](?![A-Za-zæøåÆØÅ]))?"
+    r"(?:\s*-\s*§?\s*[\dA-Za-z]+(?:\s*[A-Za-z](?![A-Za-zæøåÆØÅ]))?)?"
     r"(?:,\s*stk\.\s*\d+)?"
     r"(?:,\s*nr\.\s*\d+)?"
     r"(?:,\s*litra\s*[A-Za-z])?"
@@ -89,18 +90,18 @@ SECTION_REF = (
     r")"
 )
 SECTION_SINGLE_RE = re.compile(
-    r"§{1,2}\s*([0-9]+(?:\s*[A-Za-z])?)(?:,\s*stk\.\s*\d+)?(?:,\s*nr\.\s*\d+)?(?:,\s*litra\s*[A-Za-z])?",
+    r"§{1,2}\s*([0-9]+(?:\s*[A-Za-z](?![A-Za-zæøåÆØÅ]))?)(?:,\s*stk\.\s*\d+)?(?:,\s*nr\.\s*\d+)?(?:,\s*litra\s*[A-Za-z])?",
     re.IGNORECASE,
 )
 SECTION_RANGE_RE = re.compile(
-    r"§§\s*([0-9]+(?:\s*[A-Za-z])?)\s*(?:-|--|–|—)\s*§?\s*([0-9]+(?:\s*[A-Za-z])?)",
+    r"§§\s*([0-9]+(?:\s*[A-Za-z](?![A-Za-zæøåÆØÅ]))?)\s*(?:-|--|–|—)\s*§?\s*([0-9]+(?:\s*[A-Za-z](?![A-Za-zæøåÆØÅ]))?)",
     re.IGNORECASE,
 )
 SECTION_LIST_RE = re.compile(
-    r"§§\s*([0-9]+(?:\s*[A-Za-z])?(?:\s*(?:,|og)\s*§?\s*[0-9]+(?:\s*[A-Za-z])?)+)",
+    r"§§\s*([0-9]+(?:\s*[A-Za-z](?![A-Za-zæøåÆØÅ]))?(?:\s*(?:,|og)\s*§?\s*[0-9]+(?:\s*[A-Za-z](?![A-Za-zæøåÆØÅ]))?)+)",
     re.IGNORECASE,
 )
-SECTION_AT_LINE_START_RE = re.compile(r"^\s*§\s*(\d+(?:\s*[A-Za-z])?)\b", re.IGNORECASE)
+SECTION_AT_LINE_START_RE = re.compile(r"^\s*§\s*(\d+(?:\s*[A-Za-z](?![A-Za-zæøåÆØÅ]))?)\b", re.IGNORECASE)
 CHAPTER_RE = re.compile(r"\b(kapitel|kap\.)\s+([0-9]{1,2})(?![0-9_])", re.IGNORECASE)
 CHAPTER_LIST_RE = re.compile(
     r"\b(kapitel|kap\.)\s+([0-9]{1,2}(?:\s*(?:,|og)\s*[0-9]{1,2})+)",
@@ -377,7 +378,7 @@ def link_sections(text: str) -> tuple[str, int]:
 
     def repl(match: re.Match[str]) -> str:
         nonlocal total
-        key_match = re.search(r"\d+(?:\s*[A-Za-z])?", match.group(0))
+        key_match = re.search(r"\d+(?:\s*[A-Za-z](?![A-Za-zæøåÆØÅ]))?", match.group(0))
         if not key_match:
             return match.group(0)
         key = normalize_ref_token(key_match.group(0))
@@ -392,7 +393,7 @@ def link_sections(text: str) -> tuple[str, int]:
 
 def link_section_lists(text: str) -> tuple[str, int]:
     total = 0
-    token_re = re.compile(r"\d+(?:\s*[A-Za-z])?", re.IGNORECASE)
+    token_re = re.compile(r"\d+(?:\s*[A-Za-z](?![A-Za-zæøåÆØÅ]))?", re.IGNORECASE)
 
     def repl(match: re.Match[str]) -> str:
         nonlocal total
@@ -528,6 +529,12 @@ def linkify(text: str) -> tuple[str, int]:
 
 
 def main() -> int:
+    global DOCS_ROOT, SECTION_TARGETS, RANGE_TARGETS, CHAPTER_TARGETS, ANNEX_TARGETS
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--docs-root", default=str(DOCS_ROOT))
+    DOCS_ROOT = Path(parser.parse_args().docs_root).resolve()
+    SECTION_TARGETS, RANGE_TARGETS, CHAPTER_TARGETS = build_section_targets()
+    ANNEX_TARGETS = build_annex_targets()
     changed_files = 0
     total_replacements = 0
 
@@ -539,7 +546,7 @@ def main() -> int:
         path.write_text(updated, encoding="utf-8")
         changed_files += 1
         total_replacements += replacements
-        print(f"{path.relative_to(ROOT)}: {replacements}")
+        print(f"{path.relative_to(DOCS_ROOT)}: {replacements}")
 
     print(f"changed_files={changed_files}")
     print(f"total_replacements={total_replacements}")
