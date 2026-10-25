@@ -94,7 +94,7 @@ hvor:
 
 O~2~             Iltprocenten \[%\]
 
-T~røg \  \  \  \  \  \  ~Røggastemperaturen \[°C\]
+T~røg~           Røggastemperaturen \[°C\]
 
 T~luft~           Frisklufttemperaturen \[°C\]
 
