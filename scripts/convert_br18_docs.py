@@ -795,7 +795,10 @@ def convert_file(path: Path, docs_root: Path, delete_html: bool) -> bool:
     markdown = TABLE_TOKEN_RE.sub(lambda m: tables[int(m.group(1))], markdown)
     markdown = markdown.replace(f' "{TRIGGER_TITLE}")', ")")
     # An empty link to a fragment of the page itself (the "Indholdsoversigt" toggle) shows and does nothing.
-    markdown = re.sub(r"\n{3,}", "\n\n", re.sub(r"\[\]\(#[^)\s]*\)", "", markdown))
+    markdown = re.sub(r"\[\]\(#[^)\s]*\)", "", markdown)
+    # The origin's `<h4><br></h4>` spacers make headings without text.
+    markdown = re.sub(r"(?m)^#{1,6}[ \t ]*$", "", markdown)
+    markdown = re.sub(r"\n{3,}", "\n\n", markdown)
     if output.parent == path:
         if not delete_html:
             raise RuntimeError(f"cannot keep extensionless route HTML while writing {output}")

@@ -240,6 +240,11 @@ class ConvertTest(unittest.TestCase):
 
         self.assertIn("*Stk. 2.* Det fulde brandforløb.\n\n### § 101 {#paragraf-101}\n\n§ 100 kan fraviges", markdown)
 
+    def test_empty_headings_are_dropped(self) -> None:
+        markdown = self.convert("<p>Standarder:</p><h4><br></h4><p>DS/CEN/TR 16879:2016</p><h4>&nbsp;</h4><h4>Køb standarden</h4>")
+
+        self.assertEqual(markdown, "Standarder:\n\nDS/CEN/TR 16879:2016\n\n#### Køb standarden\n")
+
     def test_page_ends_with_a_single_newline(self) -> None:
         markdown = self.convert("<p>Tekst</p><div><span>&nbsp;</span></div><div></div>")
 
