@@ -44,7 +44,7 @@ Vejledning om byggesagsbehandling efter BR18 dækker over vejledning om de beste
 
 [2.2.1.](../2_2_1_byggelovens-formaal/)
 
-### @@PROTECTED_22@@s formål og anvendelsesområde
+### Byggelovens formål og anvendelsesområde
 
 [2.2.2.](../2_2_2_bebyggelsesbegrebet/)
 
