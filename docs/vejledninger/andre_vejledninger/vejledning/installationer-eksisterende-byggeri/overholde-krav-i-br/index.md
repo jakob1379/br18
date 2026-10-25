@@ -15,7 +15,7 @@
 
 ## Vejledning om installationer i eksisterende bygninger
 
-### Indledning {#068270ca-fb35-4d17-a566-ef47c3d57a92}
+### 1. Indledning {#068270ca-fb35-4d17-a566-ef47c3d57a92}
 
 *Vejledningen om installationer i eksisterende bygninger er revideret af Trafik-, Bygge- og Boligstyrelsen i oktober 2018. *
 
@@ -27,7 +27,7 @@ Vejledningen giver desuden en række konkrete eksempler på, hvornår bygningsre
 
 Hvis en teknisk installation ikke er behandlet i vejledningen, er det ikke ensbetydende med, at den ikke kan være omfattet af krav i gældende bygningsreglement.
 
-### Anden lovgivning mht. installationsarbejde {#bf57ff9a-ec82-4beb-926a-891398b827ff}
+### 1.1. Anden lovgivning mht. installationsarbejde {#bf57ff9a-ec82-4beb-926a-891398b827ff}
 
 Det skal bemærkes, at der ud over kravene i det gældende bygningsreglement også stilles krav i anden lovgivning, der vedrører udførelsen, tekniske installationer, byggematerialer og komponenter. Den øvrige lovgivning er bl.a.:
 
@@ -51,7 +51,7 @@ Det skal bemærkes, at der ud over kravene i det gældende bygningsreglement ogs
 
 Det skal bemærkes at det altid er bygningsejerens ansvar, at der anvendes installationskomponenter, byggematerialer m.m., der opfylder kravene i byggevareforordningen. Derudover findes der anden europæisk lovgivning, fx direktiver, som på forskellig vis er implementeret i dansk ret. Dette omfat-ter blandt andet maskindirektivet, trykudstyrsdirektivet (PED) og lavspæn-dingsdirektivet.
 
-### Bygningsreglementet {#a234fffe-1bf3-41f0-ad6c-c3c01704d01b}
+### 2. Bygningsreglementet {#a234fffe-1bf3-41f0-ad6c-c3c01704d01b}
 
 I bygningsreglementet er det fastlagt, at projektering, udførelse, drift og vedligehold af installationer skal ske under hensyn til, at der ikke opstår risiko for:
 
@@ -65,7 +65,7 @@ I bygningsreglementet er det fastlagt, at projektering, udførelse, drift og ved
 
 Disse overordnede krav beskrives i resten af vejledningen som de 'gældende krav i bygningsreglementet'.
 
-### Hvornår skal man overholde krav i bygningsreglementet? {#d7d78f5d-86a5-44cb-97a7-467dfbfb417c}
+### 2.1. Hvornår skal man overholde krav i bygningsreglementet? {#d7d78f5d-86a5-44cb-97a7-467dfbfb417c}
 
 Generelt vil arbejde med tekniske installationer til varme, ventilation, brugsvand, spildevand, belysningsanlæg, brandtekniske installationer og elevatorer være omfattet af bygningsreglementet. Bygningsreglementet stiller ikke direkte krav til udførelsen af el-installationer, fordi disse regler er omfattet af Stærkstrømsbekendtgørelsen.
 
@@ -157,7 +157,7 @@ Det gældende bygningsreglement stiller krav om, at eksisterende installationer 
 
 For eksempel stilles der ikke nye krav ved udskiftning af: Ventiler, rørdele, pakninger, styring, følere, sensorer, spjæld, filtre m.m., idet dette betragtes som almindelig vedligeholdelse. Hvis de delkomponenter, der udskiftes, er omfattet af en harmoniseret standard, skal disse dog være CE-mærkede (se [byggevareinfo.dk](http://byggevareinfo.dk/){rel="noopener noreferrer" target="_blank"}) eller have anden national godkendelse.  ****
 
-### Eksempler på installationsarbejder - Balanceret mekanisk ventilationsanlæg {#7fde19f7-262d-4dba-9743-b5ee785c3f13}
+### 3. Eksempler på installationsarbejder - Balanceret mekanisk ventilationsanlæg {#7fde19f7-262d-4dba-9743-b5ee785c3f13}
 
 I det følgende gennemgås, hvornår bygningsreglementet stiller krav i forhold til bygninger med et balanceret, mekanisk ventilationsanlæg. Følgende situationer belyses i eksemplet:
 
@@ -287,7 +287,7 @@ Desuden stiller det gældende bygningsreglement krav om, at eksisterende install
 
 *\*
 
-### Eksempler på installationsarbejder - Centralvarmekedler {#dc1acdb0-fe10-452c-b0c1-935f9d7b366f}
+### 4. Eksempler på installationsarbejder - Centralvarmekedler {#dc1acdb0-fe10-452c-b0c1-935f9d7b366f}
 
 Kravene til varmeinstallationer er i det gældende bygningsreglement beskrevet i kapitel 19 *Termisk indeklima og installationer til varme- og køleanlæg* og kapitel 12 *-- Energiforsyningsanlæg i tilknytning til bygninger*.
 
@@ -386,7 +386,7 @@ For eksisterende bygninger, der ligger i et fjernvarme- eller naturgasområde, e
 
 Det er dog stadig muligt at installere en oliekedel uanset tidligere opvarmningsform, hvis den eksisterende bygning ligger i et område uden eksisterende eller planlagt kollektiv varmeforsyning.
 
-### Eksempler på installationsarbejder - Varmerør {#03bf3fc2-3dec-41d4-a103-1e124bb50fed}
+### 5. Eksempler på installationsarbejder - Varmerør {#03bf3fc2-3dec-41d4-a103-1e124bb50fed}
 
 I det følgende gennemgås en række eksempler i forbindelse med ombygningsarbejder, hvor en bygnings eksisterende varmerør ændres eller påvirkes.
 
@@ -438,7 +438,7 @@ Der stilles for eksempel krav i bygningsreglementet med hensyn til passende vand
 
 Ved mindre reparationer af varmerør svarende til udskiftning af enkelte rørfittings og komponenter, fx T-stykker, reduktioner eller ventiler, der er gennemtæret, stilles der ikke krav i bygningsreglementet. Hvis delkomponenten der udskiftes er omfattet af en harmoniseret standard, skal den dog være CE-mærket eller have anden national godkendelse.
 
-### Eksempler på installationsarbejder - Vådrum {#a758f331-d816-42e9-9c9c-e8d9540afb88}
+### 6. Eksempler på installationsarbejder - Vådrum {#a758f331-d816-42e9-9c9c-e8d9540afb88}
 
 ***Nyinstallation***
 

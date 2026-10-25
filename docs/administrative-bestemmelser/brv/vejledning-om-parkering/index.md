@@ -32,7 +32,7 @@ Vejledningen omhandler krav til parkering i forbindelse med byggeri, der er fast
 
 *Vejledningen er revideret af Trafik-, Bygge- og Boligstyrelsen i maj 2018.*
 
-### Hvor findes de relevante regler {#5742b6d9-ad2d-4fc1-b878-1788e0073f28}
+### 1. Hvor findes de relevante regler {#5742b6d9-ad2d-4fc1-b878-1788e0073f28}
 
 *****Byggeloven\*
 \****
@@ -80,7 +80,7 @@ Denne vejledning om tilgængelighed i bygninger er udarbejdet af Dansk Standard 
 
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/standard/ds-h%C3%A5ndbog-1862017 "DS-håndbog 186"){target="_blank"}
 
-### Generelt om kommunalbestyrelsens afgørelse om parkeringskrav {#78bc7bba-9f43-4276-b0de-533da73da62f}
+### 2. Generelt om kommunalbestyrelsens afgørelse om parkeringskrav {#78bc7bba-9f43-4276-b0de-533da73da62f}
 
 Det er kommunalbestyrelsen, der er bygningsmyndighed, og som træffer afgørelse i byggesager, herunder afgørelse om parkeringskrav i en konkret byggesag.
 
@@ -96,7 +96,7 @@ Parkeringsbelægningen angives i procent og viser, hvor meget eksisterende parke
 
 Et eksempel på et byggeri, der ikke nødvendigvis øger parkeringsbehovet, er opførelsen af en sportshal i forbindelse med en skole, der kun skal anvendes af skolens elever. Skolen får ved opførelse af en sportshal bedre faciliteter, men der ændres ikke ved antallet af elever eller ansatte tilknyttet skolen, og sportshallen øger derved ikke parkeringsbehovet.
 
-### Hvornår kan der stilles krav om parkeringsarealer {#2ec5ce08-4b61-48e3-81bf-1a2b7961b811}
+### 3. Hvornår kan der stilles krav om parkeringsarealer {#2ec5ce08-4b61-48e3-81bf-1a2b7961b811}
 
 ***Ny bebyggelse***
 
@@ -124,7 +124,7 @@ En ændret anvendelse kan endvidere betyde et mindre behov for parkeringsareal, 
 
 Der er ikke hjemmel i byggelovgivningen til at stille krav om, at de parkeringsarealer, der etableres i forbindelse med et byggeri, skal anvendes af den personkreds, der er tilknyttet det byggeri, der er årsag til kravet om parkeringsarealer. Denne personkreds sikres således ikke gennem byggelovgivningen eksklusiv råderet over pladserne. Samtidig må personkredsen ikke helt udelukkes fra at kunne anvende parkeringspladserne, såfremt der eksempelvis betales for brugen af pladserne på lige vilkår med andre.
 
-### Hvornår kan der dispenseres fra parkeringskravet {#16668d7b-119f-4e55-8338-c8dc88e31245}
+### 4. Hvornår kan der dispenseres fra parkeringskravet {#16668d7b-119f-4e55-8338-c8dc88e31245}
 
 Hvis kommunalbestyrelsen vurderer, at der skal etableres et antal parkeringspladser i forbindelse med, at der opføres et byggeri eller et eksisterende byggeri ombygges eller ændrer anvendelse, vil ansøgeren i forbindelse med ansøgningen om byggetilladelse kunne søge om en fravigelse fra dette parkeringskrav på egen grund.
 
@@ -178,7 +178,7 @@ Når der er dispenseret fra et parkeringskrav på et andet forpligtende grundlag
 
 Heller ikke ved etablering af parkeringspladser på en anden ejendom, er brugerkredsen fra den ejendom, hvor parkeringspladserne skulle have været etableret, sikret råderet over pladserne.
 
-### Hvornår kan der dispenseres fra parkeringsreglerne på betingelse af indbetaling til parkeringsfond {#56e04d3a-2c24-415d-8bb4-92a88961497b}
+### 5. Hvornår kan der dispenseres fra parkeringsreglerne på betingelse af indbetaling til parkeringsfond {#56e04d3a-2c24-415d-8bb4-92a88961497b}
 
 I medfør af byggeloven kan der fastsættes regler om, at dispensation fra bestemmelser om parkeringsarealer på egen grund kan ske på betingelse af, at der sker indbetaling til en parkeringsfond.
 

@@ -14,7 +14,7 @@
 
 ## Bygningsreglementets vejledning om bygningers klimapåvirkning
 
-### Forord {#c4e82f76-29dc-4348-b44f-61a9665f10a8}
+### 1.0. Forord {#c4e82f76-29dc-4348-b44f-61a9665f10a8}
 
 Kapitel 11 i bygningsreglementet indeholder krav om bygningers energiforbrug og klimapåvirkning.
 
@@ -34,7 +34,7 @@ Formålet med kravene til klimapåvirkning i kapitel 11, hhv. §§ 297 - 298, er
 
 For at have mulighed for at optimere en bygnings klimapåvirkning anbefales det at udarbejde livscyklusvurderingen allerede fra de tidlige designfaser. Livscyklusvurdering kan udføres gennem alle faser af byggeriet med henblik på at etablere beslutningsgrundlag for design- og materialevalg.
 
-### Generelt {#b54eb8a1-6702-4ead-8b0f-fe7e8e9e2793}
+### 1.1. Generelt {#b54eb8a1-6702-4ead-8b0f-fe7e8e9e2793}
 
 Formålet med bestemmelserne om bygningers klimapåvirkning i §§ 297 og 298 er at tilskynde til at projektere og udføre bygninger på en måde, så unødig klimapåvirkning så vidt muligt undgås, jf. dette formål som beskrevet i § 250.
 
@@ -86,7 +86,7 @@ For bygninger, som skal overholde grænseværdien i § 298, er det også muligt 
 
 [Gå til krav om bygningers klimapåvirkning § 297 - § 298 (nyt vindue)](../../../krav/297_298 "297_298"){rel="noopener" target="_blank"}
 
-### Livscyklus og betragtningsperiode {#e6bbf376-bc5d-42f7-aeed-492ba0a0a9b5}
+### 1.2. Livscyklus og betragtningsperiode {#e6bbf376-bc5d-42f7-aeed-492ba0a0a9b5}
 
 I en livscyklusvurdering (Life Cycle Assessment, LCA) af en bygning opgøres bygningens påvirkning af forskellige miljøindikatorer, som for eksempel forsuring, klimapåvirkninger mv., igennem hele livscyklussen. Kravet i bygningsreglementet vedrører udelukkende klimapåvirkningen, der opgøres i CO2-ækvivalenter, og således ikke andre miljøindikatorer. I det følgende uddybes de forudsætninger, der skal lægges til grund for livscyklusvurdering i henhold til kravet i bygningsreglementet.
 
@@ -231,7 +231,7 @@ Modul D kan opgøres på lignende vis:
 
 Hvor D*~mat~* angiver materialernes D-modul, og D*~drift~* angiver driftens D-modul.
 
-### Arealopgørelse {#94c6b7f1-87fc-4471-8202-edd44157722a}
+### 1.3. Arealopgørelse {#94c6b7f1-87fc-4471-8202-edd44157722a}
 
 Til brug for beregning af klimapåvirkningen fra materialerne og byggeprocessen skal der opgøres et areal som CO2e-udledningerne opgøres i forhold til. Arealet baseres på det faktuelle areal som opgjort, jf. § 455, og omtales i dette afsnit som referenceareal. Dog er det nødvendigt at tilpasse det faktuelle areal af bygningen, da visse arealer har et væsentligt mindre materialebehov end almindelige, lukkede arealer. Ved at foretage disse tilretninger af det faktuelle areal forudsættes en mere retvisende opgørelse af klimapåvirkning pr m2.
 
@@ -346,7 +346,7 @@ For §297, stk. 5 gælder den samme definition for hvornår en carport eller gar
 
 *"En integreret bygning kan eksempelvis være en garage, carport, udhus eller lignende, der ligger under samme tagkonstruktion som den primære bygning. En bygning kan også være integreret, hvis opførelse, ændring eller nedrivning af den integrerede bygning, kan påvirke den samlede bebyggelses konstruktive forhold."*
 
-### Bygningsdele {#9dc5204d-6894-4a4c-94d2-8d0e4984c95c}
+### 1.4. Bygningsdele {#9dc5204d-6894-4a4c-94d2-8d0e4984c95c}
 
 Til brug for beregning af klimapåvirkningen skal udledningerne fra de materialer, der indgår i de enkelte dele af bygningen, medregnes. Som udgangspunkt bør en bygnings livscyklusvurdering omfatte så mange bygningsdele som muligt, for at repræsentere bygningens klimapåvirkning så godt som muligt. Da en bygning består af mange bygningsdele, kan der opstå spørgsmål om, hvor grænsen skal trækkes, for at afspejle den rette balance mellem ressourceforbrug og præcision.
 
@@ -749,7 +749,7 @@ For fliser vælges for eksempel datasættet #G0340, Keramikfliser, u-glaseret. D
 
 Køkken og bad inventar medtages ikke, da det ikke skal opgøres, jf. BR18, bilag 2, tabel 6.
 
-### Datagrundlag {#2bea61d1-61aa-4d7b-a6e9-5411306c289d}
+### 1.5. Datagrundlag {#2bea61d1-61aa-4d7b-a6e9-5411306c289d}
 
 For at kunne opgøre en bygnings samlede klimapåvirkning skal der knyttes miljødata til de forskellige bygningsdele og materialer, der indgår i bygningen. Miljødata indeholder informationer om klimapåvirkningen pr. enhed produkt, og udgør derfor et vigtigt element i en livscyklusvurdering.
 
@@ -1028,7 +1028,7 @@ Resterende mørtel fjernes fra murstenene, denne forberedelse har jf. disse regl
 
 Murstenene samles med ny mørtel. Mørtelen er ikke sammenlignelig med reparation og vedligehold. For mørtel anvendes data som efter regler for nye materialer, det vil sige det generiske datasæt eller en EPD, jf. § 297 stk. 7 og 8.
 
-### Miljøvaredeklarationer {#345ca30a-1bea-4b76-8b01-d4b940cbb6b2}
+### 1.6. Miljøvaredeklarationer {#345ca30a-1bea-4b76-8b01-d4b940cbb6b2}
 
 Ved beregning af klimapåvirkningen skal der for hvert materiale eller produkt anvendes oplysninger om miljøpåvirkninger. For nogle materialer eller produkter findes mere specifikke miljødata, end det, der fremgår af det generiske datagrundlag, beskrevet i Vejledning: § 297, stk. 7. Specifikke miljødata, såkaldte produktspecifikke EPD'er (Environmental Product Declaration, EPD) er mere retvisende for de faktiske miljøpåvirkninger af det anvendte materiale eller produkt end generiske miljødata. Derfor kan EPD'er anvendes, hvis de er gyldige og relevante for de konkrete materialer eller produkter, der anvendes i bygningen. Gyldigheden fremgår af EPD'en. Det er ikke et krav, at EPD'en skal være dansk.
 
@@ -1100,7 +1100,7 @@ Hvis der mangler en værdi for D-modulet i EPD'en, anbefales det at sætte værd
 
 For biogene materialer, hvor der mangler modul C3 og/eller C4, kan der være en forskel i det CO2-optag, der ligger i modul A1-A3, som kan afvige fra det CO2-udslip, der ligger i det valgte C3 og C4-modul. Dette er en usikkerhed, som pt. ikke kan imødekommes fuldt korrekt.
 
-### Byggeproces {#a6f69c03-c971-480c-81ca-cefcaf7991d1}
+### 1.7. Byggeproces {#a6f69c03-c971-480c-81ca-cefcaf7991d1}
 
 Fra 1. juli 2025 skal byggeprocessens klimapåvirkning opgøres i forbindelse med beregningerne af bygningers klimapåvirkning, og byggeprocessen skal overholde en selvstændig grænseværdi.
 
@@ -1288,7 +1288,7 @@ Bortkørsel af jord skal kun regnes med, hvis jorden er affald. Derfor kan ovens
 
 [&#91;1&#93;](#_ftnref1){#_ftn1} https://www.retsinformation.dk/eli/lta/2024/1749
 
-### Levetider {#b7facc0b-7a44-4398-be71-c1fd8daa0640}
+### 1.8. Levetider {#b7facc0b-7a44-4398-be71-c1fd8daa0640}
 
 Afvigelse fra levetidstabellenSom nærmere uddybet i vejledning: § 297, stk. 4, udføres beregningen for bygningers klimapåvirkning over en betragtningsperiode på 50 år. Det 50-årige perspektiv medfører, at beregningen skal inkludere klimapåvirkninger fra udskiftning af bygningsdele og materialer i løbet af denne betragtningsperiode.
 
@@ -1343,7 +1343,7 @@ Samme princip gør sig gældende som beskrevet foroven. Der skal dog arbejdes me
 
 I forhold til princippet beskrevet i tidligere spørgsmål, at der kun skal regnes med en udskiftning af glasset undervejs i levetiden af vinduet også selv om den er håndteret af en branche-EPD så kan der tages branche EPD'en af vinduet, som regnes med 50 års levetid for vinduet, yderligere lægges en glasudskiftning ind efter 25 år.
 
-### Emissionsfaktorer {#f87ab10e-30e6-4998-9f70-3c43b33df6c2}
+### 1.9. Emissionsfaktorer {#f87ab10e-30e6-4998-9f70-3c43b33df6c2}
 
 I en livscyklusvurdering ses på bygningens klimapåvirkning igennem en 50 års betragtningsperiode. Derfor medtages også brugsfasen, herunder modul B6, som dokumenterer klimapåvirkningen fra bygningens energibehov til drift.
 
@@ -1389,7 +1389,7 @@ Hvis et fjernvarmeværk kan dokumentere en 2025-værdi for deres fjernvarmeområ
 
 Hvis en EPD indeholder en fremskrivning baseret på projektgodkendte anlæg i henhold til varmeforsyningsloven, kan fremskrivningerne ligeledes erstatte værdier i datasættet, hvis de specifikke værdier er lavere end de generiske værdier.
 
-### Lavemissionsklassen {#493fac9a-6198-41c1-a9ec-c88b8129d92d}
+### 1.10. Lavemissionsklassen {#493fac9a-6198-41c1-a9ec-c88b8129d92d}
 
 Aftalen om national strategi for bæredygtigt byggeri giver mulighed for at overholde en frivillig lavemissionsklasse. Grænseværdierne for lavemissionsklassen er tilsvarende grænseværdierne i § 298 stk. 1 og 5 differentieret på baggrund af bygningstype. Lavemissionsklassen skal fremme interessen for at begrænse klimapåvirkningen fra bygninger yderligere.
 
@@ -1397,13 +1397,13 @@ I forbindelse med indsendelse af dokumentation for nye bygningers klimapåvirkni
 
 I opgørelse af klimapåvirkningen for lavemissionsklassen skal de justeringer, der fremgår af § 298, stk. 2-8, anvendes. Det vil sige, at beregningen svarer til den, der laves iht. § 298.
 
-### Standardformat til LCA aflevering {#849da573-be32-4ba4-a8c3-7419bbbbb383}
+### 1.11. Standardformat til LCA aflevering {#849da573-be32-4ba4-a8c3-7419bbbbb383}
 
 I forbindelse med indsendelse af dokumentation for nye bygningers klimapåvirkning ved færdigmelding jf. § 40, er det muligt at benytte følgende frivillige standardformat: [Standardformat for LCA-dokumentation](../../../../../media/nlbi4r0x/standardformat-for-lca-dokumentation_2025.xlsx "Standardformat For Lca Dokumentation 2025"){rel="noopener" target="_blank"}
 
 For bygninger omfattet af § 297 skal der afleveres en dokumentation for klimapåvirkningen. Standardformatet skal være med til at gøre afleveringen af denne dokumentationen mere ensartet og struktureret, hvorved det kan understøtte indsamling af LCA-data for at give forskning og branchen bedre muligheder for læring.
 
-### Grænseværdi {#b522b6b0-154c-4c56-85b9-92cde139b124}
+### 1.12. Grænseværdi {#b522b6b0-154c-4c56-85b9-92cde139b124}
 
 Formålet med at fastsætte en grænseværdi er at begrænse klimapåvirkningen gennem bygningens livscyklus ved opførelsen af nye bygninger.
 
@@ -1441,13 +1441,13 @@ Dokumentationen skal følge kravene, jf. § 40. [Se Vejledning om dokumentatio
 
 Der kan med fordel udarbejdes beregninger for byggeriet fra de tidlige designfaser, så risikoen for overskridelse minimeres.
 
-### Modul D {#ef01f42f-058d-47f7-8294-c506727de71c}
+### 1.13. Modul D {#ef01f42f-058d-47f7-8294-c506727de71c}
 
 Grænseværdien, der fremgår af § 298, stk. 1, for bygningens klimapåvirkning skal overholdes ved den samlede opgørelse for modul A1-A3, B4, B6, C3 og C4. Da modul D dokumenterer potentiale for nyttiggørelse, som fx potentiel substitution af ressourcer efter bygningens livscyklus er ophørt, skal potentielle klimapåvirkninger fra dette modul ikke indgå i beregningen af overholdelse af grænseværdien.
 
 Potentielle klimabesparelser opgjort i kg CO~2~-ækvivalenter pr. m^2^ pr. år dokumenteres derfor separat i modul D, jf. § 297, stk. 4. Klimabesparelsen dokumenteret i modul D medregnes ikke ved dokumentation af, at grænseværdien er overholdt, jf. § 298.
 
-### Særlige forhold {#5b13625d-860e-4dd3-abef-ba4361094a44}
+### 2.4. Særlige forhold {#5b13625d-860e-4dd3-abef-ba4361094a44}
 
 Grænseværdierne, jf. § 298, stk. 1 og § 297, stk. 9, er hovedsageligt fastsat ud fra erfaringer om almindeligt dansk byggeri, dvs. bygninger, som ikke har særlige bygningsfunktioner, jf. rapporten *Klimapåvirkninger fra 60 bygninger* (BUILD Rapport 2021:13).
 
@@ -1553,7 +1553,7 @@ Bygninger med specielle sikringskrav som fx museer, militære installationer, ho
 
 Hvis en lokalplan stiller detaljerede krav til en bygnings udformning på bestemte steder, fx i forbindelse med krav om særlig byggestil i bevaringsværdigt bymiljø eller andre krav til bygningens fysiske fremtoning, kan dette krav resultere i en øget klimapåvirkning. Eftersom kravet som følge af plangrundlaget relaterer sig direkte til, hvor bygningen geografisk befinder sig, kan det ifølge § 298, stk. 4, anses for at være en følge af bygningens særlige placering. Der kan sondres mellem hensyn som følge af plankrav og bygningsejers egne valg af udformning. Førstenævnte kan henføres til en placering, sidstnævnte ikke. Ved behov kan der indledes en dialog med kommunen om byggeriet i forhold til lokalplanens krav.
 
-### Energitillæg {#982dcb96-508a-4510-988f-6075b56a2c68}
+### 1.14. Energitillæg {#982dcb96-508a-4510-988f-6075b56a2c68}
 
 Bygninger med behov for ekstra højt energiforbrug, som fx svømmehaller, hvor der er behov for høj rumtemperatur eller lignende, vil have højere CO2-udledning fra bygningsdriften. Der er derfor indført en bestemmelse for at sikre, at disse bygninger ikke har sværere ved at overholde grænseværdien end tilsvarende bygninger uden disse høje energiforbrug.
 
@@ -1571,7 +1571,7 @@ Eksempel på beregning af tillæg ved høj ventilationsmængde
 
 En undervisningsbygning har på grund af høj persontæthed brug for en høj ventilationsmængde af hensyn til indeluftens kvalitet. Det betyder, at bygningen indrettes efter en ventilationsmængde på 2,0 l/s pr. m². I energirammeberegningen kan der derfor opnås tillæg for ventilationsmængde over 1,2 l/s pr. m2. I eftervisning af overholdelse af grænseværdien, jf. § 298, benyttes derfor energibehovet fra den energirammeberegning, hvor luftmængden er fastlagt til 1,2 l/s pr. m2.
 
-### Særlige forhold {#5102cdfe-a67f-4fb8-94f1-756240473ea4}
+### 1.15. Særlige forhold {#5102cdfe-a67f-4fb8-94f1-756240473ea4}
 
 Grænseværdierne, jf. § 298, stk. 1 og § 297, stk. 13, er hovedsageligt fastsat ud fra erfaringer om almindeligt dansk byggeri, dvs. bygninger, som ikke har særlige bygningsfunktioner, jf. rapporten Klimapåvirkning fra nybyggeri (BUILD Rapport 2023:21).
 

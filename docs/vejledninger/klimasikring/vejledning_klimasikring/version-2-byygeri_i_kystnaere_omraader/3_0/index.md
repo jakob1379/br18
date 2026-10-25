@@ -41,7 +41,7 @@ Alle kommuner har udarbejdet en klimatilpasningsplan, der indeholder en kortlæg
 
 Vejledningen er suppleret med en tjekliste for gennemtænkning af særlige udfordringer ved byggeri i kystnære områder. [Find tjeklisten under Bilag 2](../../../../../historisk/br18_version3/vejledninger/klimasikring/vejledning_klimasikring/byygeri_i_kystnaere_omraader/bilag-2-saerlige-udfordringer-ved-byggeri-i-kystnaere-omraader#8d9a77d4-ea10-445b-acde-88452cedfd50?item=%7B59A9AB5C-B166-4E33-BAEE-E006195DB8F5%7D%40en){target="_self"}. Ekstreme regnskyl kan forekomme overalt i landet, men det er forventeligvis kun i lavtliggende og kystnære områder, at vandstanden omkring bygningen kan komme op over husets gulvniveau. I disse områder møder byggeriet en række særlige udfordringer, som bygherren selv har ansvar for, og som ikke altid er reguleret eller belyst gennem regler, vejledninger og anvisninger. Det kan for eksempel være i relation til lokale kloakforhold i det offentlige system (opstuvningskote), aktuelle lokale kystbeskyttelsestiltag (diger, beredskab, m.m.), offentlige interesser i et område på grund af infrastruktur, kulturarv, byggerier eller særegne værdier.
 
-### Byggetekniske regler og vejledninger {#2285a487-1d03-4122-90ef-239a56e9b213}
+### 1.0. Byggetekniske regler og vejledninger {#2285a487-1d03-4122-90ef-239a56e9b213}
 
 Byggelovgivningen, og især bygningsreglementet, stiller de overordnede minimumskrav til byggeri i Danmark og er på de fleste områder funktionsbaseret. Det betyder, at der er fokus på funktionen (ydeevnen) af byggeriet, f.eks. at fugtskader forårsaget af indtrængning af grundvand og overfladevand skal undgås, men det angives ikke på hvilken måde, kravet opfyldes. Der er således metodefrihed til at opfylde kravet.  
 
@@ -51,7 +51,7 @@ Klimatilpasning er ikke nævnt specifikt i bygningsreglementet, men en række fo
 
 Bilag 2 beskriver en metodisk tilgang til identifikation af særlige udfordringer ved byggeri i kystnære områder. Særlige udfordringer, som bygherre selv har ansvar for, kan således identificeres i tide og med en rimelig investering, imødegås inden for lovens rammer ud fra en vurdering af risici for skade forud for, at hændelsen indtræffer.
 
-### Bygningsreglementet {#4a6e7f16-fa9b-4c86-9cfe-d81c8d6034b3}
+### 1.1. Bygningsreglementet {#4a6e7f16-fa9b-4c86-9cfe-d81c8d6034b3}
 
 Bygningsreglementets bestemmelser til imødegåelse af vandskader findes primært i kapitlerne: 
 
@@ -119,7 +119,7 @@ Konstruktioner og bygningsdele skal blandt andet projekteres, udføres, driftes 
 
 Konstruktioner skal projekteres og udføres, så de kan modstå de normalt forekommende statiske og dynamiske påvirkninger i forhold til konstruktionens placering og anvendelse (BR18, kap. 15, § 344) og beregnes efter Eurocodes eller tilsvarende (BR18, kap. 15, §§ 345-352). For bygninger placeret i kystnære områder er det særligt vigtigt, at konstruktioner og bygningsdele projekteres, udføres, driftes og vedligeholdes, så de kan modstå påvirkninger fra stormflod og vandstigninger og følgevirkningerne af disse.
 
-### Vejledninger og anvisninger {#12553cac-2147-4990-8ea4-2eadac441f84}
+### 1.2. Vejledninger og anvisninger {#12553cac-2147-4990-8ea4-2eadac441f84}
 
 **Vejledninger fra ansvarlig styrelse**
 
@@ -181,7 +181,7 @@ Anvisningen beskriver afløbssystemer. Disse ledninger kan lægges med fald, så
 
  
 
-### Lovgivning om lokalplanlægning og oversvømmelsesrisiko i forbindelse med kystnært byggeri {#75f08ac2-bbe3-4444-b53b-625fdb733bc3}
+### 2.0. Lovgivning om lokalplanlægning og oversvømmelsesrisiko i forbindelse med kystnært byggeri {#75f08ac2-bbe3-4444-b53b-625fdb733bc3}
 
 Ud over bygningsreglementet og tilknyttet alment teknisk fælleseje omfatter lovgivningen, der er relevant for byggeri i kystnære områder, primært love og bekendtgørelser vedrørende:
 
@@ -193,7 +193,7 @@ Ud over bygningsreglementet og tilknyttet alment teknisk fælleseje omfatter lov
 
 Der er anden lovgivning, der på forskellig måde vedrører landets kyster, f.eks. om miljøbeskyttelse og miljømål, men der vil være mange konkrete tilfælde, hvor den pågældende lovgivning næppe er umiddelbart relevant for grund- og bygningsejere og bygherrer. Her gennemgås de tre nævnte lovgivningsområder med særlig vægt på at udpege relevante elementer i lovgivningen til imødegåelse af vandskader på bygninger.
 
-### Planloven {#b4c633af-9c67-4cd2-a9f6-447365980d67}
+### 2.1. Planloven {#b4c633af-9c67-4cd2-a9f6-447365980d67}
 
 Planlovens overordnede formål er at 'sikre en sammenhængende planlægning, der forener de samfundsmæssige interesser i arealanvendelsen og medvirker til at værne om landets natur og miljø' samt at 'skabe gode rammer for vækst og udvikling i hele landet' (Indenrigs- og Boligministeriet, 2020).
 
@@ -305,7 +305,7 @@ Klimalokalplaner er ikke en særlig form for lokalplaner, idet lokalplaner førs
 
  
 
-### Kystbeskyttelse og oversvømmelsesrisiko {#1397c86b-ab4d-4711-8fd4-e54285d743e5}
+### 2.2. Kystbeskyttelse og oversvømmelsesrisiko {#1397c86b-ab4d-4711-8fd4-e54285d743e5}
 
 Det forventes, at fremtiden vil byde på mere ekstreme vejrforhold. Som bygherre bør man derfor forholde sig til klimaændringerne. I Danmark forventer myndighederne en havspejlsstigning på 0,3-1,2 m frem mod år 2100 ([www.kyst.dk](http://www.kyst.dk/)). Der peges på, at et 'øget vindbidrag og en generel havspejlsstigning' især kan have betydning for områder ved hav og fjorde, og at havspejlsstigning desuden kan påvirke langtidsudviklingen i vandløb. Der kan for nedre vandløbsstrækninger være en kombineret effekt af oversvømmelse fra hav og vandløb under stormflod. Ved bebyggelse i kystnære områder anbefales det, at bygherre for at fastsætte sokkelkote og vurdere behovet for kystbeskyttelse anvender de højvandsstatistikker for ekstreme vandstande i de danske farvande, som Kystdirektoratet udarbejder ca. hvert femte år. Statistikkerne kan findes på Kystdirektoratets hjemmeside. Bygherre bør samtidig vurdere, om der er særlige forhold, der spiller ind. Det kunne f.eks, være bølger eller lokal stuvning af vandet.
 
@@ -313,7 +313,7 @@ Oversvømmelser ved stormfloder er ikke alene betinget af vandstanden i havene o
 
 Endelig er det væsentligt i forbindelse med byggeri i kystnære områder at tænke behovet for evt. kystbeskyttelse ind på et tidligt tidspunkt. Her kan det være relevant at drøfte mulighederne med den pågældende kommune eller Kystdirektoratet. Tilladelser til kystbeskyttelse gives i medfør af kystbeskyttelsesloven.
 
-### Oversvømmelsesloven {#8feb26cc-54d8-4989-9a64-c92bcc353472}
+### 2.3. Oversvømmelsesloven {#8feb26cc-54d8-4989-9a64-c92bcc353472}
 
 Lov om vurdering og styring af oversvømmelsesrisikoen fra vandløb og søer og bekendtgørelse om vurdering og risikostyring for oversvømmelser fra havet, fjorde eller andre dele af søterritoriet omhandler udpegning af områder, hvor der er en potentiel væsentlig oversvømmelsesrisiko, eller hvor en væsentlig oversvømmelse må anses som sandsynlig. Udpegningen foretages af staten og sker på baggrund af en vurdering af oversvømmelsesrisikoen. Der er udpeget i alt 14 afgrænsede risikoområder, hvoraf de ni ligger ved kysten, omfattende Aabenraa, Esbjerg, Fredericia, Vejle, Vordingborg, Juelsminde, Kolding, Nyborg, Randers Fjord, Odense Fjord, Nakskov, Korsør, Køge Bugt. Dertil er Holstebro udpeget på baggrund af Storåen.
 
@@ -341,7 +341,7 @@ Indsatsplaner for beskyttelse af grundvand, se Miljøstyrelsens ([www.mst.dk](ht
 
 [ ](https://www.klimatilpasning.dk/)
 
-### Naturbeskyttelsesloven {#f7b94d8e-c754-45c2-89e5-bc55042a29f9}
+### 2.4. Naturbeskyttelsesloven {#f7b94d8e-c754-45c2-89e5-bc55042a29f9}
 
 Naturbeskyttelseslovens formål er at medvirke til at værne om landets natur og miljø (Miljøministeriet, 2022). Det vil bl.a. sige:
 
@@ -365,7 +365,7 @@ Navnlig bestemmelsen i § 16 om sø- og åbeskyttelseslinjen kan være relevant 
 
 Et område, herunder et kystområde, kan være omfattet af fredning efter naturbeskyttelseslovens kapitel 6. Fredningsbestemmelserne for områder vil fremgå af den konkrete fredning, herunder om der kan opføres bebyggelse. Det er det lokale fredningsnævn, der kan kompensere fra en fredning, hvis det ikke strider mod fredningens formål.
 
-### Supplerende viden {#b42800a9-6d97-41c8-92a2-0acda3af3666}
+### 3.0. Supplerende viden {#b42800a9-6d97-41c8-92a2-0acda3af3666}
 
 Yderligere tilgængelig viden, som en bygherre kan trække på i en byggesag til vurdering af risiko for vandstigninger og stormflod samt i forbindelse med vurderingen af tiltag for at imødegå hændelser med vand er listet nedenfor.
 
@@ -448,7 +448,7 @@ IPCC\'s 6. hovedrapports fire dele:
 
  
 
-### Referencer {#8ad38069-4f20-4ca0-9df3-5c8e25b34d91}
+### 4.0. Referencer {#8ad38069-4f20-4ca0-9df3-5c8e25b34d91}
 
 Brandt, E. (2022a). Fugt i bygninger -- Teori, beregning og undersøgelse (1. udg.) (SBi-anvisning 277). København: BUILD, Aalborg Universitet.
 
@@ -590,7 +590,7 @@ Transport- og Bygningsministeriet. (2016). Bekendtgørelse af byggeloven. (LBK n
 
 Vand i byer. Innovationsnetværk for klimatilpasning. LAR i Danmark. Lokaliseret 06.06.2023, <http://www.laridanmark.dk/>, på engelsk, [http://wsud-denmark.com/](http://wsud-denmark.com/){rel="noopener noreferrer" target="_blank"}
 
-### Byg-Erfa blade {#1d061c1b-0176-4e5c-a489-5dfb9ecf5a11}
+### Bilag 1 Byg-Erfa blade {#1d061c1b-0176-4e5c-a489-5dfb9ecf5a11}
 
 BYG-ERFA blade indeholder indsamlet og bearbejdet byggeteknisk erfaring, herunder bygbare løsninger til nybyggeri og bygningsfornyelse. Erfaringsformidlingen er især rettet til professionelle i byggeriet, såsom projekterende, rådgivende og tilsynsførende arkitekter, ingeniører, konstruktører, håndværkere, entreprenører m.fl. Formidlingen sker primært gennem erfaringsblade forfattet af eksterne eksperter, som kvalitetssikres og valideres af BYG-ERFAs Teknikergruppe.
 
@@ -623,7 +623,7 @@ De senere års hyppige, kraftige regnbyger har i nogle områder medført oversv�
 *Erfaringsblad (99) 12 07 23: Udtørring efter vandskade\*
 Der skal hurtigt igangsættes udtørrende foranstaltninger, hvis en bygning eller bygningsdel har været udsat for vandskade. Dette er nødvendigt for at reducere direkte skader og følgeskader, f.eks. skimmelvækst, korrosion og angreb fra trænedbrydende svampe. I erfaringsbladet præsenteres fordele og ulemper ved forskellige udtørringsmetoder. Desuden omtales en række forholdsregler, der knytter sig til udtørringsprocessen og den efterfølgende udbedring efter vandskader.
 
-### Særlige udfordringer ved byggeri i kystnære områder {#1a73f940-a14f-47c3-84a1-3d1da9390066}
+### Bilag 2 Særlige udfordringer ved byggeri i kystnære områder {#1a73f940-a14f-47c3-84a1-3d1da9390066}
 
 I kystnære områder møder byggeriet en række særlige udfordringer, som bygherren selv har ansvar for at forholde sig til, og som ikke altid er belyst gennem vejledninger og anvisninger.
 

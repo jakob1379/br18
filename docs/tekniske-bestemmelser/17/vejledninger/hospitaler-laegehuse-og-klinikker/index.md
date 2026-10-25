@@ -11,7 +11,7 @@
 
 ## - Vejledning til hospitaler, lægehuse og klinikker
 
-### Hospitaler, lægehuse og klinikker {#5489c5c0-ab5f-41ad-80d7-9c09256175c9}
+### 6.0 Hospitaler, lægehuse og klinikker {#5489c5c0-ab5f-41ad-80d7-9c09256175c9}
 
 Tabellerne i dette afsnit beskriver forslag til projekteringsværdier for lydisolation, støj indendørs fra trafik, støj fra tekniske installationer samt efterklangstid og absorptions­areal i hospitaler og i andre bygninger med lignende anvendelse, fx lægehuse og klinikker.
 
@@ -51,7 +51,7 @@ For hospitaler har en række rum skærpede lydkrav i forhold til andre bygningsa
 
 - **Teknikrum\**
 
-### Lydisolation {#8bb1a8f1-5b7d-4bce-9ee0-6bb125388942}
+### 6.1 Lydisolation {#8bb1a8f1-5b7d-4bce-9ee0-6bb125388942}
 
 Tabel 6.1 indeholder forslag til projekteringsværdier for luftlydisolation og trinlydniveau i hospitaler svarende til overholdelse af BR18's generelle bestemmelse i § 368, stk. 1 om at "*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen".*
 
@@ -174,7 +174,7 @@ Mellem skyllerum og andre rum</td>
 </tbody>
 </table>
 
-### Støj indendørs fra trafik {#e4f257c7-aa92-45b0-bee8-6f1d15b43982}
+### 6.2 Støj indendørs fra trafik {#e4f257c7-aa92-45b0-bee8-6f1d15b43982}
 
 Tabel 6.2 indeholder forslag til projekteringsværdier for trafikstøj i hospitaler svarende til overholdelse af BR18's generelle bestemmelse i § 368, stk. 1 om at "*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen",* samt supplerende vejledende grænseværdier for trafikstøj indendørs med åbne vinduer*.*
 
@@ -233,7 +233,7 @@ med lukkede vinduer</td>
 </tbody>
 </table>
 
-### Støj fra tekniske installationer {#604f2261-6385-420f-95be-82ffe076bed8}
+### 6.3 Støj fra tekniske installationer {#604f2261-6385-420f-95be-82ffe076bed8}
 
 Tabel 6.3 indeholder forslag til projekteringsværdier for støj fra tekniske installationer i hospitaler svarende til overholdelse af BR18's generelle bestemmelse i § 368, stk. 1 om at "*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen",* samt supplerende vejledende grænseværdier for lavfrekvent støj og infralyd.
 
@@ -299,7 +299,7 @@ A-vægtet, ækvivalent lydtrykniveau i lavfrekvensområdet, L</em><sub>p<em>A,LF
 </tbody>
 </table>
 
-### Rumakustik {#e7acca73-f8e2-4a4f-b1ad-85505632d69a}
+### 6.4 Rumakustik {#e7acca73-f8e2-4a4f-b1ad-85505632d69a}
 
 Tabel 6.4 indeholder forslag til projekteringsværdier for efterklangstid og absorptionsareal i hospitaler svarende til overholdelse af BR18's generelle bestemmelse i § 368, stk. 1 om at "*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen".*
 

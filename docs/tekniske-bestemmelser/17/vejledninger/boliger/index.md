@@ -11,11 +11,11 @@
 
 ## - Vejledning til boliger og andre bygninger til overnatning
 
-### Boliger og andre bygninger til overnatning (§§ 369 - 373) {#590907f1-dc1f-4f86-a3b7-529da3246874}
+### 2.0 Boliger og andre bygninger til overnatning (§§ 369 - 373) {#590907f1-dc1f-4f86-a3b7-529da3246874}
 
 Tabellerne i dette afsnit beskriver lydbestemmelserne for lydisolation, støj indendørs fra trafik, støj fra tekniske installationer samt efterklangstid. Grænseværdierne er primært gengivet fra den danske standard om lydklassifikation af boliger og Miljøstyrelsens vejledninger om støj.
 
-### Definitioner af rumtyper for boliger {#a9156c46-aca7-4a44-ae12-d5c0444157ec}
+### 2.1 Definitioner af rumtyper for boliger {#a9156c46-aca7-4a44-ae12-d5c0444157ec}
 
 ### Definitioner af rumtyper for boliger
 
@@ -33,7 +33,7 @@ Tabellerne i dette afsnit beskriver lydbestemmelserne for lydisolation, støj in
 
 **Udendørs rekreative arealer** er primære udendørs opholdsarealer som altaner, terrasser, tagterrasser og siddepladser, men ikke gangarealer, trapper, bede, beplantninger mv.
 
-### Lydisolation for boliger {#f5c760f7-e452-453e-9383-0fc836479a59}
+### 2.2 Lydisolation for boliger {#f5c760f7-e452-453e-9383-0fc836479a59}
 
 Tabel 2.1 indeholder grænseværdier for luftlydisolation og trinlydniveau i boligbyggeri svarende til overholdelse af BR18's lydbestemmelser samt supplerende vejledende grænseværdier for lette konstruktioner i lejlighedsskel.
 
@@ -119,7 +119,7 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 </tbody>
 </table>
 
-### Støj indendørs fra trafik i boliger {#1dc563fc-338b-493f-a74a-f86f0a455bc4}
+### 2.3 Støj indendørs fra trafik i boliger {#1dc563fc-338b-493f-a74a-f86f0a455bc4}
 
 Det akustiske indeklima beskrives gennem en række lydtekniske begreber og tilhørende målestørrelser. Der henvises til [afsnit 1.3](../generel_vejledning/lydtekniske-begreber "Lydtekniske begreber") for definition af disse.
 
@@ -206,7 +206,7 @@ planlægges for boliger <sup>6)</sup></em></td>
 </tbody>
 </table>
 
-### Støj fra tekniske installationer i boliger {#f0f23bd2-598e-408d-b432-10015dc168fd}
+### 2.4 Støj fra tekniske installationer i boliger {#f0f23bd2-598e-408d-b432-10015dc168fd}
 
 Tabel 2.3 nedenfor indeholder grænseværdier for støj fra tekniske installationer i boliger svarende til overholdelse af BR18's lydbestemmelser samt supplerende vejledende grænseværdier for lavfrekvent støj og infralyd.
 
@@ -297,7 +297,7 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 </tbody>
 </table>
 
-### Rumakustik i boliger {#3e1aeb87-38eb-4d08-8d52-f6f416dc2e29}
+### 2.5 Rumakustik i boliger {#3e1aeb87-38eb-4d08-8d52-f6f416dc2e29}
 
 Tabel 2.4 nedenfor indeholder grænseværdier for efterklangstid i boligbyggeri svarende til overholdelse af BR18's lydbestemmelser.
 

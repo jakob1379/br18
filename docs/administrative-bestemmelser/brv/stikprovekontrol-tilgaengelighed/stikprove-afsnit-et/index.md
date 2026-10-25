@@ -22,7 +22,7 @@
 
 ## Vejledning i kommunernes stikprøvekontrol i tilgængelighed
 
-### Forord {#f8932be8-37e1-4b17-9fea-7297a38ad5de}
+### 0.0 Forord {#f8932be8-37e1-4b17-9fea-7297a38ad5de}
 
 Denne vejledning er rettet mod byggesagsbehandlerne i kommunerne i forbindelse med den kommunale stikprøvekontrol. Vejledningen fokuserer udelukkende på den del af stikprøvekontrollen, der vedrører tilgængelighed.
 
@@ -48,7 +48,7 @@ I stikprøvekontrollen skal kommunerne bl.a. vurdere, om de udtrukne byggesager 
 
 4\) Bygningsreglementet, kap. 2, Vejledning til brugerbegreb, 0.0.0.
 
-### Stikprøvekontrol - Afklaring af bestemmelser og brugergruppe {#42f88323-8b81-4649-868e-d2da47d6562e}
+### 1.0 Stikprøvekontrol - Afklaring af bestemmelser og brugergruppe {#42f88323-8b81-4649-868e-d2da47d6562e}
 
 Til den enkelte byggesag følger en erklæring fra ansøger i forbindelse med færdigmeldingen om, at det færdige byggeri er i overensstemmelse med byggetilladelsen og bygningsreglementet^5^.
 
@@ -257,7 +257,7 @@ I en eventuel forhåndsdialog mellem ansøger og kommune kan specifikationer omk
 
 8\) Bygningsreglementet, kap. 1, § 43, stk. 2
 
-### Stikprøvekontrol - 2. fase: Vurdering af løsninger {#a52159d7-fcd6-4eb7-8db2-ee8875f89564}
+### 1.2 Stikprøvekontrol - 2. fase: Vurdering af løsninger {#a52159d7-fcd6-4eb7-8db2-ee8875f89564}
 
 I denne fase af stikprøvekontrollen skal kommunen kontrollere, om dokumentationen er i overensstemmelse med byggetilladelsen, og de bestemmelser i bygningsreglementet, som ansøger tidligere har indsendt erklæring om, at byggesagen overholder.
 
@@ -315,11 +315,11 @@ Passende arealer til parkering af handicapegnede køretøjer (personbil, kassebi
 
 I forbindelse med et parkeringsareal og et antal parkeringspladser rettet mod handicapegnede køretøjer, har det afgørende betydning, at niveauspring mellem parkeringsareal og gangareal højst er 2,5 cm. Hvis niveauspringet er højere, kan personer i kørestol eller personer med gangbesvær være nødt til at bevæge sig ud på kørebanen for at finde et sted med et lavere niveauspring, de kan forcere for at komme til gangarealet.
 
-### Afslutning {#1496ab80-def3-4be1-a26a-4f0419931cfe}
+### 1.4 Afslutning {#1496ab80-def3-4be1-a26a-4f0419931cfe}
 
 Formålet med stikprøvekontrollen er også at identificere de områder, hvor der er udfordringer med efterlevelsen af tilgængelighedsbestemmelserne. Stikprøvekontrollens 2. fase er afgørende for denne identificering, for det er her, at eventuelle materielle mangler afdækkes. Dermed bliver det ekstra vigtigt, at stikprøvekontrollen af tilgængeligheden gennemføres ud fra retningslinjerne i indeværende vejledning for netop at sikre ensartethed. Kommunen bør tillige opbevare data fra alle stikprøvekontroller, så det er muligt efterfølgende at foretage en registrering og opsamling af resultaterne.
 
-### Uddybning angående brugerne {#04a33d68-8e1c-4f88-aa20-b52672b7e281}
+### 2.0 Uddybning angående brugerne {#04a33d68-8e1c-4f88-aa20-b52672b7e281}
 
 Bygningsreglementets bestemmelser gør brug af begrebet 'brugerne' som en samlet betegnelse for de brugere, der anvender bygninger, opholdsarealer og parkeringsarealer.
 
@@ -329,7 +329,7 @@ Generelt gælder det for brugerne, at der kan være tale om forskellige brugsmø
 
 10\) Bygningsreglementet, kap. 2, Vejledning til brugerbegreb, 3.0.0.
 
-### Uddybning af ligeværdighed i adgangsforhold og indretning {#82fa5c77-c3c6-4da8-9fe4-bb8a654e0335}
+### 3.0 Uddybning af ligeværdighed i adgangsforhold og indretning {#82fa5c77-c3c6-4da8-9fe4-bb8a654e0335}
 
 Bygningsreglementets formålsparagraf vedrørende adgangsforhold beskriver i § 48, at *"Bygninger, opholdsarealer og parkeringsarealer skal have adgangsforhold, der sikrer, at brugerne ved egen hjælp kan komme frem til dem, ind i dem samt frem til deres funktioner."*
 

@@ -659,10 +659,12 @@ def attach_anchor_reference_ids(markdown: str) -> str:
                 continue
 
             heading_line = add_heading_id(lines[heading_index], anchor_id)
-            if label.startswith("§"):
+            if re.search(r"\w", label):
                 hm = HEADING_ATTR_RE.match(heading_line)
-                if hm and not hm.group("head").split(maxsplit=1)[1].startswith("§"):
-                    heading_line = f"{hm.group('head').split(maxsplit=1)[0]} {match.group('label').strip()} {hm.group('head').split(maxsplit=1)[1]}"
+                marks, _, title = hm.group("head").partition(" ") if hm else ("", "", "")
+                tag = match.group("label").strip()
+                if hm and not title.strip().startswith(tag) and not (label.startswith("§") and title.startswith("§")):
+                    heading_line = f"{marks} {tag} {title.strip()}".rstrip()
                     attrs = (hm.group("attrs") or "").strip()
                     if attrs:
                         heading_line = f"{heading_line} {{{attrs}}}"

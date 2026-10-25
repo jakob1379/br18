@@ -15,7 +15,7 @@
 
 ## Vejledning om byggelovens § 6 D
 
-### § 6 D, stk. 1 {#fffefe41-689d-430d-b0b4-ac0f3d029282}
+### 0.0.0. § 6 D, stk. 1 {#fffefe41-689d-430d-b0b4-ac0f3d029282}
 
 Byggelovens § 6 D, stk. 1, giver kommunalbestyrelsen mulighed for at stille krav til en bebyggelses ydre udformning I forbindelse med byggesagsbehandling. § 6 D, stk. 1, kan bruges til at stille betingelser i forbindelse med udstedelse af en byggetilladelse, men også til at nægte en byggetilladelse.
 
@@ -37,15 +37,15 @@ Reglerne for kommunalbestyrelsens behandling af ansøgninger om byggetilladelse 
 
 Bygningsreglementet fastsætter de nærmere regler for kommunalbestyrelsens behandling af byggesager. Bygningsreglementet gælder i udgangspunktet for de sager, der er omfattet af byggelovens § 2, men indeholder dog en række undtagelser, der indskrænker anvendelsesområdet.
 
-### BR18 § 4 {#62a1f537-1cdc-4c03-994e-afda41cc7192}
+### 1.0.1 BR18 § 4 {#62a1f537-1cdc-4c03-994e-afda41cc7192}
 
 BR18 § 4 indskrænker anvendelsesområdet for byggelovens § 6 D, stk. 1, da bestemmelsen oplister en række byggearbejder, som bygningsreglementet ikke gælder for. Da de byggearbejder, der er omfattet af BR18 § 4, således ikke er omfattet af krav om ansøgning om byggetilladelse, betyder det, at byggelovens § 6 D, stk. 1, ikke kan anvendes i disse sager.
 
-### BR18 § 5 {#03eeb4d9-0e91-4234-8f1d-7a6745e33ebc}
+### 1.1.2 BR18 § 5 {#03eeb4d9-0e91-4234-8f1d-7a6745e33ebc}
 
 BR18 § 5 omfatter en række byggearbejder, der er omfattet af bygningsreglementet, men som kan udføres uden ansøgning om byggetilladelse. Da § 6 D, stk. 1, forudsætter, at der er søgt om tilladelse ved kommunalbestyrelsen, indskrænker BR18 § 5 bestemmelsens anvendelsesområde. Kommunalbestyrelsen har således ikke mulighed for at nægte et byggearbejde, der er omfattet af BR18 § 5, med hjemmel i byggelovens § 6 D, stk. 1.
 
-### § 6 D, stk. 2 {#ba99c2ff-c5d4-4893-82e5-5952e5ffb819}
+### 2.0.0 § 6 D, stk. 2 {#ba99c2ff-c5d4-4893-82e5-5952e5ffb819}
 
 Byggelovens § 6 D, stk. 2, giver kommunalbestyrelsen mulighed for at meddele påbud eller forbud, hvor skiltning, lysinstallationer og lignende er til ulempe eller virker skæmmende i forhold til omgivelserne. 
 

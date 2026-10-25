@@ -34,17 +34,17 @@
 
 Opdateret 1. januar 2021.
 
-### Forord {#31a16eb0-b75f-4b27-a43a-ca0bc0defabe}
+### 1. Forord {#31a16eb0-b75f-4b27-a43a-ca0bc0defabe}
 
 Vejledning om byggesagsbehandling efter BR18 dækker over vejledning om de bestemmelser i bygningsreglementet, som er relevante ved kommunalbestyrelsens behandling af en byggesag. Byggesagsbehandlingen er reguleret i bygningsreglementets første afsnit i §§ 1-47.
 
-### Introduktion til bygningsreglementet 2018 {#c7165940-a14a-4009-a514-12a9821e70cb}
+### 2. Introduktion til bygningsreglementet 2018 {#c7165940-a14a-4009-a514-12a9821e70cb}
 
 Bygningsreglementet er en bekendtgørelse, der er udstedt med hjemmel i byggeloven. Ud over de administrative bestemmelser, der gælder for et byggeri, regulerer bygningsreglementet 21 forskellige tekniske emner, der eksempelvis indeholder krav om adgangsforhold, brandforhold og ventilation. Derudover er der en række krav, som særligt knytter sig til den certificerede brandrådgivers eller statikers virke.
 
 [Du kan finde en indholdsfortegnelse for bygningsreglementet her.](http://bygningsreglementet.dk){rel="noopener noreferrer" target="_blank"}
 
-### Overgangsperiode {#63f94e0e-bbfc-460b-85e7-dbd00ada0fb7}
+### 2.1. Overgangsperiode {#63f94e0e-bbfc-460b-85e7-dbd00ada0fb7}
 
 Fra den 1. januar 2020 kan kommunalbestyrelsen ikke længere foretage den tekniske byggesagsbehandling af brand- og konstruktionsforhold. Det betyder, at der fra denne dato skal være tilknyttet en certificeret brandrådgiver eller statiker til byggesager, der er omfattet af brand- og konstruktionsklasse 2-4. Det gælder dog ikke markeder, byfester, festivaler og lignende midlertidige udendørsarrangementer, hvor det fortsat er muligt at vælge kommunal teknisk byggesagsbehandling.
 
@@ -56,9 +56,9 @@ Hvis byggeriet kan udføres uden ansøgning om byggetilladelse, er det de regler
 
 Fra den 1. januar 2020 til den 30. juni 2022 er der en overgangsperiode, hvor det fortsat er muligt at anvende en anerkendt statiker som alternativ til en certificeret statiker. Læs mere om overgangsperioden i afsnit 5.
 
-### Byggelovgivningens formål og anvendelsesområde {#f5b734b9-c0ba-46b1-a5fa-181b469584d6}
+### 2.2. Byggelovgivningens formål og anvendelsesområde {#f5b734b9-c0ba-46b1-a5fa-181b469584d6}
 
-### Byggelovens formål og anvendelsesområde {#9748a774-dba4-4812-b7e9-69357a571151}
+### 2.2.1. Byggelovens formål og anvendelsesområde {#9748a774-dba4-4812-b7e9-69357a571151}
 
 Byggelovens overordnede formål er at sikre hensynet til sikkerhed og sundhed i byggeriet, men derudover er hensynet også at sikre udbedring af byggeskader, at fremme handicaptilgængelig indretning af bebyggelse, at fremme arkitektonisk kvalitet i byggeriet, at øge byggeriets produktivitet samt at modvirke unødvendigt råstofforbrug.
 
@@ -78,7 +78,7 @@ Ved en væsentlig anvendelsesændring, skal der ses isoleret på, hvilke krav an
 
 Loven finder også anvendelse ved nedrivning af bebyggelse, der behandles nedenfor i afsnit 10.
 
-### Bebyggelsesbegrebet {#474459c0-19ed-4874-96f5-45b2f229b99d}
+### 2.2.2. Bebyggelsesbegrebet {#474459c0-19ed-4874-96f5-45b2f229b99d}
 
 Byggelovens § 2, stk. 2, indeholder en positiv afgrænsning af begrebet bebyggelse, og det fremgår heraf, at der ved bebyggelse forstås bygninger, mure og andre faste konstruktioner og anlæg, når
 
@@ -88,13 +88,13 @@ Bebyggelsesbegrebet omfatter, hvad der konventionelt betragtes som bygninger, me
 
 Af retspraksis fremgår det, at f.eks. lysmaster, lysreklamer, antenneanlæg, radiomaster, brændeskure, hegnsmure, pergolaer, tilbehør til bygninger mv. i konkrete sager er blevet betragtet som bebyggelse i byggelovens forstand. Små bygninger som shelters, bålhytter og lignende hører også under betegnelsen bebyggelse.
 
-### Bygningsreglementets anvendelsesområde {#50f2e510-ea96-4d4b-a0f9-3f6919bbaccb}
+### 2.2.3. Bygningsreglementets anvendelsesområde {#50f2e510-ea96-4d4b-a0f9-3f6919bbaccb}
 
 Det følger af bygningsreglementets § 1, at bygningsreglementet gælder for al bebyggelse, medmindre andet følger af §§ 4-6. Hovedanvendelsesområdet for bygningsreglementet er etageboligbyggeri og alle former for erhvervs- og institutionsbyggeri, fritliggende eller sammenbyggede enfamiliehuse, sommerhuse, kolonihavehuse, campinghytter, telte og andre transportable konstruktioner samt garager, carporte, udhuse og anden sekundær bebyggelse. De former for bebyggelse, der kan være omfattet af bygningsreglementet, er ikke udtømmende defineret. Det er kommunalbestyrelsen, der som bygningsmyndighed, træffer afgørelse om, hvorvidt et konkret byggeri er omfattet af bygningsreglementet.
 
 Bebyggelse, der er lovligt opført efter den på opførelsestidspunktet gældende lovgivning udgør bestående bebyggelse. Bestående bebyggelse kan ikke senere blive mødt med krav om at opfylde nye skærpede krav medmindre, at der er udtrykkelig hjemmel til det. Udtrykkelig hjemmel for krav til eksisterende bygninger findes i byggelovens §§ 6, stk. 3, 7, stk. 2, 12, 14, 18 og 18 A.
 
-### Begrænsninger i bygningsreglementets anvendelsesområde {#3d184825-a885-4886-af2c-980593e7655f}
+### 2.2.4. Begrænsninger i bygningsreglementets anvendelsesområde {#3d184825-a885-4886-af2c-980593e7655f}
 
 Der følger visse generelle undtagelser til bygningsreglementet efter §§ 4-6, som indebærer at visse typer af byggeri kan være helt eller delvist undtaget fra bygningsreglementet.
 
@@ -192,19 +192,19 @@ I § 5 er oplistet en række typer af byggeri, som kan udføres uden ansøgning 
 
 Undtagelse fra ansøgning om byggetilladelse efter bygningsreglementet, undtager ikke fra overholdelse af og ansøgning om tilladelse eller registrering efter anden lovgivning. Der kan eksempelvis være regler fastsat i medfør af planloven, der forhindrer opførelse af byggeri, der kan opføres efter § 5. Registrering i BBR (Bygnings- og Boligregisteret) skal ligeledes ske uanset undtagelse fra ansøgning om byggetilladelse.
 
-### Byggeri, der er undtaget helt eller delvist fra overholdelse af tekniske bestemmelser {#6c15a8fa-5033-49ca-80db-b170e7eb6537}
+### 2.2.5. Byggeri, der er undtaget helt eller delvist fra overholdelse af tekniske bestemmelser {#6c15a8fa-5033-49ca-80db-b170e7eb6537}
 
 I henhold til § 6, er der visse typer af bebyggelse, der er helt eller delvist undtaget fra overholdelse af de tekniske bestemmelser. Al bebyggelse, der er omfattet af bygningsreglementet, skal som udgangspunkt leve op til de tekniske bestemmelser i afsnit II. § 6 indebærer dog, at de typer af bebyggelse, der nævnes, kan opføres eller ændres, uden at skulle leve op til dele af de tekniske krav, og dermed også uden dokumentation for overholdelse af disse krav ved færdigmelding af byggeriet.
 
 Bestemmelsen betyder ikke, at de omfattede typer af bebyggelse er undtaget fra krav om ansøgning om byggetilladelse. Undtagelse fra krav om ansøgning om byggetilladelse følger af § 5.
 
-### Kommunalbestyrelsen som bygningsmyndighed {#acb65d6c-96d5-4a41-95d8-5a7b76276cdb}
+### 2.3. Kommunalbestyrelsen som bygningsmyndighed {#acb65d6c-96d5-4a41-95d8-5a7b76276cdb}
 
 Kommunalbestyrelsen er bygningsmyndighed og træffer afgørelse i sager omfattet af byggeloven og bygningsreglementet om f.eks. ansøgning om byggetilladelse og ansøgninger om dispensation fra byggeloven eller bygningsreglementet. Ved spørgsmål om fortolkning af bygningsreglementet, f.eks. om bygningsreglementets anvendelsesområde, indplacering af byggeri i konstruktions- og brandklasser eller ved tvivl om opfyldelse af et konkret krav, træffer kommunalbestyrelsen ligeledes afgørelse.
 
 Inden kommunalbestyrelsen kan meddele byggetilladelse, skal kommunen foretage en vurdering af, om den dokumentation, der er indsendt i henhold til §§ 10 og 11, er i overensstemmelse med de for byggesagen relevante krav i bygningsreglementet.
 
-### Ansøgning om byggetilladelse {#633ab8ec-57f6-4185-82f5-8bd2491b8149}
+### 3. Ansøgning om byggetilladelse {#633ab8ec-57f6-4185-82f5-8bd2491b8149}
 
 Byggeri må ikke påbegyndes uden byggetilladelse fra kommunalbestyrelsen, medmindre det er undtaget efter §§ 4 og 5.
 
@@ -216,13 +216,13 @@ Udgangspunktet er, at det er bygningsejeren, der indsender ansøgning om byggeti
 
 Kommunalbestyrelsen skal modtage og registrere den indsendte ansøgning samt dokumentation.
 
-### Forhåndsdialog {#d4717b93-f323-47d1-8802-e3b8bbf285ec}
+### 3.1. Forhåndsdialog {#d4717b93-f323-47d1-8802-e3b8bbf285ec}
 
 Inden der søges om byggetilladelse, er det en god idé at kontakte den lokale bygningsmyndighed for at afklare rammerne for byggeprojektet. Dette kaldes en forhåndsdialog. Forhåndsdialogen er frivillig, men kan være en god hjælp forud for mange byggesager, hvor der til at starte med kan være mange uafklarede spørgsmål. Det kan f.eks. være, hvilke krav i bygningsreglementet, der gælder for byggeriet, spørgsmål om, hvorvidt der skal tilknyttes en certificeret statiker eller brandrådgiver, om det er nødvendigt at søge om dispensation til at fravige bestemmelser i bygningsreglementet, krav til dokumentation eller om der er anden lovgivning, man skal være opmærksom på. Ved forhåndsdialogen kan kommunalbestyrelsen også invitere repræsentanter fra andre afdelinger i kommunen, hvis det er relevant for byggesagen.
 
 Forhåndsdialogen kan bidrage til en hurtigere og mere smidig byggeproces, ved at afklare væsentlige spørgsmål, inden de kommer til at udgøre hindringer for byggeriet eller forsinker processen.
 
-### Forhold til anden lovgivning {#ef6c9803-98af-442c-bf31-eb8d40b59f56}
+### 3.2. Forhold til anden lovgivning {#ef6c9803-98af-442c-bf31-eb8d40b59f56}
 
 Kommunalbestyrelsen må ikke meddele byggetilladelse til byggeri, der er i strid med anden lovgivning. Inden der kan meddeles byggetilladelse, skal kommunalbestyrelsen derfor undersøge, om byggeriet er omfattet af anden lovgivning, og om den anden lovgivning er en hindring for udførelsen af det ønskede byggeri.
 
@@ -256,7 +256,7 @@ Kommunalbestyrelsen kan bede om dokumentation for anden lovgivning, hvis ikke de
 
 Er kommunalbestyrelsen forpligtet til at føre kontrol med et forhold af teknisk karakter i henhold til anden lovgivning, som f.eks. miljølovgivningen, arbejdsmiljølovgivningen, planlovgivningen mv., skal kommunalbestyrelsen fortsat udøve denne kontrolfunktion.
 
-### Dokumentation ved ansøgning om byggetilladelse {#8a89a57d-d184-4236-a566-88e15cb0c074}
+### 3.3. Dokumentation ved ansøgning om byggetilladelse {#8a89a57d-d184-4236-a566-88e15cb0c074}
 
 Kommunalbestyrelsen skal foretage en vurdering af om den dokumentation, der indsendes ved ansøgning om byggetilladelse er i overensstemmelse med de for byggesagen relevante krav.
 
@@ -298,7 +298,7 @@ Hvis byggeriet er omfattet af krav om byggeskadeforsikring, skal der indsendes d
 
 Hvor et byggeri indplaceres i konstruktions- eller brandklasse 2-4 gælder der supplerende dokumentationskrav. Krav om certificeret statiker og certificeret brandrådgiver er to selvstændige krav. Et byggeri kan derfor være omfattet af krav om en certificeret brandrådgiver, men ikke af krav om certificeret statiker. Det kan f.eks. være et ombygningsarbejde i et etagebyggeri, som påvirker de bærende konstruktioner, og derfor bliver omfattet af krav om en certificeret statiker, hvorimod byggeriet ikke ændrer på forudsætningerne for brandstrategien.
 
-### Indplacering i konstruktionsklasse {#6631c19f-e602-4c65-b3ee-b4e57fa9305e}
+### 3.4. Indplacering i konstruktionsklasse {#6631c19f-e602-4c65-b3ee-b4e57fa9305e}
 
 Ved ansøgning om byggetilladelse, skal der  indsendes oplysning om og dokumentation for indplacering i konstruktionsklasse, såfremt det er relevant at indplacere byggeriet i en konstruktionsklasse. Dette er ofte relevant når der er konstruktionsmæssige forhold, der har betydning for sikkerheden i byggeriet. Det afhænger dog altid af en konkret vurdering fra sag til sag. Hvorvidt det er relevant at indplacere ombygninger og forandringer af eksisterende byggeri i en konstruktionsklasse, beror på om de bærende konstruktioners virkemåde ændres. [Dette er beskrevet nærmere i bygningsreglementets vejledning om ombygninger og brug af certificerede rådgivere i relation til ændring af BR18 d. 10. marts 2020.](../../vejledning-om-ombygning-og-brug-af-certificerede-raadgivere "Vejledning om ombygning og brug af certificerede raadgivere")
 
@@ -318,7 +318,7 @@ Kommunalbestyrelsen kan anmode om supplerende dokumentation, hvis det vurderes, 
 
 For yderligere vejledning om indplacering i konstruktionsklasser henvises til [Bygningsreglementets vejledning om indplacering i konstruktionsklasser](../../../../ovrige-bestemmelser/26/brv/indplacering-i-konstruktionsklasser){rel="noopener noreferrer" target="_blank"}.
 
-### Dokumentation for indplacering i konstruktionsklasse 1 {#6a4b5c52-9b10-4fac-abdc-fe0626d04b42}
+### 3.4.1. Dokumentation for indplacering i konstruktionsklasse 1 {#6a4b5c52-9b10-4fac-abdc-fe0626d04b42}
 
 Dokumentation for indplacering i konstruktionsklasse 1 skal følge § 503. Det følger heraf, at dokumentationen skal indeholde grundlaget for indplaceringen, men dokumentationens indhold er ikke nærmere udspecificeret. Grundlaget for indplacering i konstruktionsklasse betragtes som konstruktionens kompleksitet og konsekvensklasse (CC), samt erfaringen med konstruktionstypen.
 
@@ -326,7 +326,7 @@ Byggeri, der er indplaceret i konsekvensklasse 1 (CC1) skal ligeledes indplacere
 
 Du kan læse mere om den konstruktionsmæssige dokumentation i [SBi-anvisning 271 Dokumentation og kontrol af bærende konstruktioner](https://sbi.dk/anvisninger/Pages/271-Dokumentation-af-baerende-konstruktioner-3.aspx){rel="noopener noreferrer" target="_blank"}.
 
-### Dokumentation for indplacering i konstruktionsklasse 2-4 {#ae5651cf-cc7c-45e7-9303-35a9c13ff038}
+### 3.4.2. Dokumentation for indplacering i konstruktionsklasse 2-4 {#ae5651cf-cc7c-45e7-9303-35a9c13ff038}
 
 Dokumentation for indplacering i konstruktionsklasse 2-4 skal ligesom konstruktionsklasse 1 følge § 503, dvs., at dokumentationen skal indeholde grundlaget for indplaceringen. Grundlaget for indplacering i konstruktionsklasse betragtes som konstruktionens kompleksitet og konsekvensklasse (CC), samt erfaringen med konstruktionstypen.
 
@@ -350,7 +350,7 @@ Byggesager, hvor der sker teknisk byggesagsbehandling af konstruktionsforholdene
 
 Du kan læse mere om den konstruktionsmæssige dokumentation i [SBi-anvisning 271 Dokumentation og kontrol af bærende konstruktioner](https://sbi.dk/anvisninger/Pages/271-Dokumentation-af-baerende-konstruktioner-3.aspx){rel="noopener noreferrer" target="_blank"}.
 
-### Koordinering og samling af den statiske dokumentation {#674aaacf-2482-4985-abaf-2377aeae40c8}
+### 3.4.3. Koordinering og samling af den statiske dokumentation {#674aaacf-2482-4985-abaf-2377aeae40c8}
 
 For byggeri i konstruktionsklasse 1-4 skal ansøgeren sikre, at den statiske dokumentation er koordineret og samlet, så dokumentationen udgør et hele. Krav til udformningen af den statiske dokumentation fremgår af § 494 og en nærmere beskrivelse af de opgaver, der skal sikre dette, fremgår af vejledningen til kapitel 28. Opgaven med at sikre koordinering og samling af den statiske dokumentation er større jo flere organisationer, der medvirker til udarbejdelse og kontrol af den statiske dokumentation.
 
@@ -358,7 +358,7 @@ Ansøgeren kan sikre dette ved at udpege en organisation i form af en bygværksp
 
 Den certificerede statikers virke indeholder ikke disse opgaver, men den certificerede statiker kan godt være en del af organisationen, der varetager opgaverne og udføre dele af de opgaver, der er knyttet til koordinering og samling af den statiske dokumentation.
 
-### Indplacering i brandklasse {#4676bda5-565d-4f91-a5d0-049761954bf3}
+### 3.5. Indplacering i brandklasse {#4676bda5-565d-4f91-a5d0-049761954bf3}
 
 Ved ansøgning om byggetilladelse, indsendes oplysning om og dokumentation for indplacering i brandklasse, såfremt det er relevant at indplacere byggeriet i en brandklasse. Dette er ofte relevant, når der er brandmæssige forhold, der har betydning for sikkerheden i byggeriet. Det afhænger dog altid af en konkret vurdering fra sag til sag. Hvorvidt det er relevant at indplacere ombygninger og forandringer af eksisterende byggeri i en brandklasse, beror på om de forudsætningerne for de brandmæssige forhold ændres. Dette er beskrevet nærmere i [bygningsreglementets vejledning om ombygninger og brug af certificerede rådgivere i relation til ændring af BR18 d. 10. marts 2020.](../../vejledning-om-ombygning-og-brug-af-certificerede-raadgivere "Vejledning om ombygning og brug af certificerede raadgivere")
 
@@ -378,7 +378,7 @@ Kommunalbestyrelsen kan anmode om supplerende dokumentation, hvis det vurderes, 
 
 For yderligere vejledning om indplacering i brandklasse henvises til kapitel 1 i [Bygningsreglementets vejledning til kapitel 5 -- brand.](../../../../tekniske-bestemmelser/05/vejledninger/generel_brand){rel="noopener noreferrer" target="_blank"}
 
-### Dokumentation for indplacering i brandklasse 1 {#6a8a34ff-b88b-4312-95fe-04c1c6fd5bd9}
+### 3.5.1. Dokumentation for indplacering i brandklasse 1 {#6a8a34ff-b88b-4312-95fe-04c1c6fd5bd9}
 
 Dokumentation for indplacering i brandklasse 1 skal følge § 511. Det følger heraf, at dokumentationen skal indeholde en overordnet brandstrategi for byggeriet samt tegninger, der viser byggeriets udformning, og som underbygger, at den valgte brandstrategi kan indarbejdes i byggeriet.
 
@@ -398,7 +398,7 @@ Byggesager, hvor kommunalbestyrelsen foretager den tekniske byggesagsbehandling 
 
 Du kan læse mere om den brandtekniske dokumentation i [Bygningsreglementets vejledning til dokumentation af brandforhold.](../../../../ovrige-bestemmelser/29/brv/vejledning-til-kapitel-29-dokumentation-af-brandforhold "Vejledning til dokumentation af brandforhold")
 
-### Dispensation {#d14d5ac9-e2e4-4faa-bd1f-44169080f364}
+### 3.6. Dispensation {#d14d5ac9-e2e4-4faa-bd1f-44169080f364}
 
 Byggelovens § 22 giver kommunalbestyrelsen hjemmel til at dispensere fra byggelovgivningens bestemmelser, såfremt bygherren ansøger herom i forbindelse med ansøgning om byggetilladelse.
 
@@ -418,11 +418,11 @@ For bygningsfredede bygninger og bygninger, som er en del af et fredet fortidsmi
 
 Selvom kommunalbestyrelsen fra den 1. januar 2020 ikke længere kan foretage den tekniske byggesagsbehandling af brand- og konstruktionsforhold, er det fortsat kommunalbestyrelsen, der skal behandle dispensationsansøgninger, og dermed vurdere om bygningsreglementets krav kan fraviges i det enkelte tilfælde.
 
-### Anvendelse af certificeret statiker og brandrådgiver {#72f53a62-75c4-49b7-96b4-abdb063ce63a}
+### 4. Anvendelse af certificeret statiker og brandrådgiver {#72f53a62-75c4-49b7-96b4-abdb063ce63a}
 
 Ved ansøgning om byggetilladelse til byggeri i konstruktions- og brandklasse 2-4 skal der tilknyttes en certificeret statiker eller brandrådgiver til byggesagen.
 
-### Anvendelse af certificeret statiker i konstruktionsklasse 2-4 {#b829fe8d-7ea3-4dce-b030-b1aeee9ba555}
+### 4.1. Anvendelse af certificeret statiker i konstruktionsklasse 2-4 {#b829fe8d-7ea3-4dce-b030-b1aeee9ba555}
 
 Ved ansøgning om byggetilladelse til byggeri i konstruktionsklasse 2-4 er der krav om, at der skal være tilknyttet en certificeret statiker. Den certificerede statiker skal være certificeret i overensstemmelse med bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet §§ 12-14. Ved ansøgning om byggetilladelse til byggeri i konstruktionsklasse 2-4 skal oplysning til identifikation af den certificerede statiker, herunder dokumentation for gyldigt certifikat, fremgå af ansøgningen om byggetilladelse. Dette gælder ligeledes, hvis statikeren er certificeret til at udføre tredjepartskontrol.
 
@@ -440,7 +440,7 @@ Ved ansøgning om byggetilladelse til byggeri i konstruktionsklasse 2-4, skal de
 
 Certificeringsorganerne, der certificerer statikere i konstruktionsklasse 2-4, skal underrette kommunalbestyrelsen, hvis en statiker fratages sin certificering. Det er kun de kommuner, hvor den certificerede statiker har virket på et projekt, der orienteres. [Læs mere herom i Vejledning om certificering af statikere og brandrådgivere](../../../../vejledninger/andre_vejledninger/vejledning/certificering_statikere_brandradgivere){rel="noopener noreferrer" target="_blank"}.
 
-### Anvendelse af certificeret brandrådgiver i brandklasse 2-4 {#364baddb-019c-4742-ae84-32858cdbd02f}
+### 4.2. Anvendelse af certificeret brandrådgiver i brandklasse 2-4 {#364baddb-019c-4742-ae84-32858cdbd02f}
 
 Ved ansøgning om byggetilladelse til byggeri i brandklasse 2-4 er der krav om, at der skal være tilknyttet en certificeret brandrådgiver. Den certificerede brandrådgiver skal være certificeret i overensstemmelse med bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet §§ 19-21. Certificeringen skal følge den brandklasse, som byggeriet, der søges om byggetilladelse til, kan indplaceres i. Det betyder, at såfremt der søges om byggetilladelse til et byggeri, der kan indplaceres i brandklasse 3, skal den certificerede brandrådgiver ligeledes være certificeret til brandklasse 3, jf. bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet § 20. Ved ansøgning om byggetilladelse til byggeri i brandklasse 2-4 skal oplysning til identifikation af den certificerede brandrådgiver, herunder dokumentation for gyldigt certifikat, fremgå af ansøgningen om byggetilladelse. Dette gælder ligeledes, hvis brandrådgiveren er certificeret til at udføre tredjepartskontrol. Ved byggeri, der indplaceres i brandklasse 4, er der ligeledes krav om certificeret tredjepart, der er certificeret i overensstemmelse med bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet § 21.
 
@@ -450,7 +450,7 @@ Ved ansøgning om byggetilladelse til byggeri i brandklasse 2-4, skal der indsen
 
 Certificeringsorganerne, der certificerer brandrådgivere i brandklasse 2-4, skal underrette kommunalbestyrelsen, hvis en brandrådgiver fratages sin certificering. Det er kun de kommuner, hvor den certificerede brandrådgiver har virket på et projekt, der orienteres. [Læs mere i Vejledning om certificering af statikere og brandrådgivere](../../../../vejledninger/andre_vejledninger/vejledning/certificering_statikere_brandradgivere){rel="noopener noreferrer" target="_blank"}.
 
-### Database over certificerede statikere og brandrådgivere {#fcd7c4c2-24b2-41b3-b669-8705d5d22530}
+### 4.3. Database over certificerede statikere og brandrådgivere {#fcd7c4c2-24b2-41b3-b669-8705d5d22530}
 
 Trafik-, Bygge- og Boligstyrelsen har oprettet en database, hvortil certificeringsorganer skal indberette oplysninger om de certificerede rådgivere. Alle certificerede statikere og brandrådgivere skal fremgå af databasen.
 
@@ -478,7 +478,7 @@ Kommunalbestyrelsen kan anvende databasen til at undersøge gyldigheden af det c
 
 [Find databasen på www.tbst.certificering.dk.](http://certificering.tbst.dk/){rel="noopener noreferrer" target="_blank"}
 
-### Anvendelse af anerkendte statikere i konstruktionsklasse 2-4 indtil 1. januar 2022 {#e836c484-aa8a-4d55-884b-6af643804e2d}
+### 5. Anvendelse af anerkendte statikere i konstruktionsklasse 2-4 indtil 1. januar 2022 {#e836c484-aa8a-4d55-884b-6af643804e2d}
 
 For byggearbejder i konstruktionsklasse 2- 4 kan der benyttes en anerkendt statiker indtil den 1. januar 2022. Reglerne om anvendelse af anerkendte statikere findes i §§ 24-29, der er en fortsættelse af gældende regler om anvendelse af anerkendte statikere, dog med den ændring, at der ikke foretages en teknisk byggesagsbehandling. Ordningen er udvidet til også at dække byggerier i middel og høj konsekvensklasse (CC2, CC3 og CC4), dog kun byggerier, der henregnes til konstruktionsklasse 2-4. Dokumentationen skal udarbejdes og kontrolleres i overensstemmelse med SBi-anvisning 223.
 
@@ -536,7 +536,7 @@ Den bygværksprojekterende skal forestå:
 
 Yderligere oplysning om den bygværksprojekterende fremgår af SBi-anvisning 271 om dokumentation og kontrol af bærende konstruktioner
 
-### Byggetilladelse {#4880f9ca-def7-4e21-b3fb-1781a4ddcf95}
+### 6. Byggetilladelse {#4880f9ca-def7-4e21-b3fb-1781a4ddcf95}
 
 Kommunalbestyrelsens meddelelse om byggetilladelse skal ske skriftligt til ansøger. Meddelelsen sker igennem Byg & Miljø.
 
@@ -548,11 +548,11 @@ En byggetilladelse er bindende. Ansøger må ikke fravige fra det, der fremgår 
 
 Bliver ansøger opmærksom på undervejs i byggeriet, at det er nødvendigt at søge om dispensation, skal kommunalbestyrelsen behandle dette og vurdere, om det er muligt at give dispensation, inden arbejder vedrørende dette forhold kan fortsætte.
 
-### Afslutning af byggesag {#8a2911be-5e45-4657-9a60-835976917029}
+### 7. Afslutning af byggesag {#8a2911be-5e45-4657-9a60-835976917029}
 
 Ved afslutning af en byggesag, skal ansøger indsende dokumentation til kommunalbestyrelsen. Kommunalbestyrelsen kan på baggrund af denne dokumentation meddele ibrugtagningstilladelse.
 
-### Færdigmelding {#b2e6a7cc-1d7a-4297-bfc1-1b9e3ca2ee8d}
+### 7.1. Færdigmelding {#b2e6a7cc-1d7a-4297-bfc1-1b9e3ca2ee8d}
 
 Ved afslutning af et byggeri, hvortil der er meddelt byggetilladelse, skal der ske færdigmelding til kommunalbestyrelsen. Færdigmelding af byggeri sker gennem Byg & Miljø. Ved færdigmeldingen indsendes dokumentation for det færdige byggeri.
 
@@ -567,7 +567,7 @@ Ved færdigmelding skal der indsendes en erklæring om, at det færdige byggeri 
 - Ved ansøgning om ibrugtagning til byggeri omfattet § 24, stk. 1, skal der udover den statiske dokumentation også vedlægges en sluterklæring, der er udarbejdet af en anerkendt statiker. Sluterklæringen skal omfatte den statiske dokumentation som helhed. Det er et krav, at sluterklæringen udformes og underskrives personligt af den anerkendte statiker, jf. kapitel 35.
 - Ved ansøgning om ibrugtagning til byggeri omfattet af § 27, stk. 1, skal der foruden en sluterklæring fra en anerkendt statiker gennemføres en tredjepartskontrol af en anden anerkendt statiker, jf. § 27, stk. 1. Tredjepartskontrollanten udarbejder en sluterklæring, hvori det angives, at den anerkendte statikers angivelse i sluterklæringen, jf. § 28, er retvisende. Derudover skal tredjepartskontrollantens sluterklæring indeholde en redegørelse for tredjepartskontrollantens virke.
 
-### Ibrugtagningstilladelse {#132caf47-1154-44c3-b64c-46f20e7e705f}
+### 7.2. Ibrugtagningstilladelse {#132caf47-1154-44c3-b64c-46f20e7e705f}
 
 Ved ibrugtagningen skal kommunalbestyrelsen foretage en gennemgang af dokumentationen og konstatere, at der foreligger dokumentation for de tekniske bestemmelser, som byggeriet er omfattet af, inden der kan gives tilladelse til ibrugtagning. Kommunalbestyrelsen skal ikke efterprøve dokumentationen eller foretage en behandling af det, men derimod gennemgå dokumentationen med henblik på at konstatere, om ansøgeren har indsendt dokumentation for overholdelse af de tekniske krav i bygningsreglementet, som byggeriet er omfattet af.
 
@@ -584,7 +584,7 @@ Visse typer af byggeri er dog undtaget fra krav om ibrugtagningstilladelse, selv
 
   Kommunalbestyrelsen kan give en frist for færdiggørelse af byggeriet, hvor der gives tilladelse til at tage det i brug, før det er helt afsluttet. Kommunalbestyrelsen kan kræve sikkerhedsstillelse, når der gives en frist for færdiggørelsen, og hvis ikke byggeriet færdiggøres inden for denne frist, kan kommunalbestyrelsen færdiggøre byggeriet for den stillede sikkerhed.
 
-### Stikprøvekontrol {#1f5f1798-895c-4c23-9f06-cd39ffa25e72}
+### 8. Stikprøvekontrol {#1f5f1798-895c-4c23-9f06-cd39ffa25e72}
 
 Kommunalbestyrelsen skal foretages stikprøvekontrol i 10 pct. af alle byggesager, hvor kommunalbestyrelsen har meddelt ibrugtagningstilladelse efter BR18. Undtaget fra stikprøvekontrol er dog følgende:
 
@@ -612,7 +612,7 @@ Udtagelse af en byggesag til stikprøvekontrol er ikke en afgørelse, der kan p�
 
 Såfremt stikprøvekontrollen fører til en lovliggørelsessag, hvor kommunalbestyrelsen giver påbud om lovliggørelse, vil denne afgørelse kunne påklages. Læs mere i afsnit 11 om klage over kommunalbestyrelsens afgørelser.
 
-### Kontrol med dokumentationen ved stikprøvekontrol {#cdea2c89-1949-4aa2-bcb3-0b9cb691ed23}
+### 8.1. Kontrol med dokumentationen ved stikprøvekontrol {#cdea2c89-1949-4aa2-bcb3-0b9cb691ed23}
 
 Når en byggesag udtages til stikprøvekontrol er det den samlede tekniske dokumentation, der er indsendt ved færdigmelding, der skal kontrolleres.
 
@@ -825,11 +825,11 @@ Nedenstående liste angiver en række tekniske forhold, som afhængigt af bygger
 
   - Komplet drift- og vedligeholdelsesmanual
 
-### Gebyr for stikprøvekontrol {#7e133f7c-9a12-42a3-8ecf-aa1b87cbac1e}
+### 8.2. Gebyr for stikprøvekontrol {#7e133f7c-9a12-42a3-8ecf-aa1b87cbac1e}
 
 Kommunalbestyrelsen kan ikke opkræve gebyr for stikprøvekontrollen. Udgifterne hertil skal indregnes i overheadomkostningerne til byggesagsbehandlingen. [Åbn Vejledning om gebyr for kommunernes sagsbehandling på byggeområdet](../../gebyr){rel="noopener noreferrer" target="_blank"}.
 
-### Lovliggørelse på baggrund af stikprøvekontrol {#9ecafdd2-776b-4b72-9071-04c298fc02ed}
+### 8.3. Lovliggørelse på baggrund af stikprøvekontrol {#9ecafdd2-776b-4b72-9071-04c298fc02ed}
 
 Ved stikprøvekontrollen kan kommunalbestyrelsen blive opmærksom på ulovlige forhold i byggesagen, som fører til en lovliggørelsessag. Når kommunalbestyrelsen bliver opmærksom på et ulovligt forhold, der ikke er af ganske underordnet betydning, skal kommunalbestyrelsen søge forholdet lovliggjort. Det kan ske ved, at kommunalbestyrelsen retter et påbud mod bygningsejeren om at udbedre det ulovlige forhold.
 
@@ -839,11 +839,11 @@ Et ulovligt forhold kan både bestå i en materiel mangel, altså at byggeriet i
 
 Der kan opkræves gebyr for behandling af en lovliggørelsessag, som er opstået på baggrund af en stikprøvekontrol, jf. BR18 § 39, stk. 1. Læs mere om dette i [Åbn Vejledning om gebyr for kommunernes sagsbehandling på byggeområdet](../../gebyr){rel="noopener noreferrer" target="_blank"}.
 
-### Frist for igangsættelse af stikprøvekontrol {#10a06e25-13cc-42dc-b4ae-5ada2c1195c3}
+### 8.4. Frist for igangsættelse af stikprøvekontrol {#10a06e25-13cc-42dc-b4ae-5ada2c1195c3}
 
 I § 46, stk. 2 er der fastsat en frist for, hvornår kommunalbestyrelsen skal igangsætte stikprøvekontrollen. Bestemmelsen foreskriver, at kommunalbestyrelsen skal igangsætte stikprøvekontrollen indenfor en måned fra der er meddelt ibrugtagningstilladelse. Kommunalbestyrelsen skal meddele bygningsejeren, at byggesagen er udtaget til stikprøvekontrol. Bestemmelsen er indført under hensyn til bygningsejerens mulighed for at indhente eventuelt manglende dokumentation og at udbedre mangler i byggeriet hurtigst muligt.
 
-### Nedrivning af bebyggelse {#d820595c-4854-4375-bc4b-7b22cb55c65b}
+### 9. Nedrivning af bebyggelse {#d820595c-4854-4375-bc4b-7b22cb55c65b}
 
 Et byggeri, hvortil der kræves byggetilladelse, må som udgangspunkt ikke nedrives uden en tilladelse fra kommunalbestyrelsen, jf. BR18, § 47.
 
@@ -859,7 +859,7 @@ Såfremt byggeriet indplaceres i konstruktionsklasse 2-4 og/eller i brandklasse 
 
 Når bygningen er revet ned, skal nedrivningsbyggearbejdet færdigmeldes til kommunalbestyrelsen. Dette skal ske for, at kommunalbestyrelsen kan ajourføre Bygnings- og Boligregistret (BBR) og afslutte byggesagen.
 
-### Undtagelser til ansøgning om nedrivning {#b12e8ea4-038c-4cad-818d-9ff6d2acb9ea}
+### 9_1 Undtagelser til ansøgning om nedrivning {#b12e8ea4-038c-4cad-818d-9ff6d2acb9ea}
 
 Følgende typer af byggeri, er dog undtaget fra ansøgning om nedrivningstilladelse, når den enkelte bygning har et areal på højst 50 m^2^:
 
@@ -873,7 +873,7 @@ Byggeri, der har tilsvarende formål, som de oplistede ovenfor, f.eks. et brænd
 
 Ved nedrivning af byggeri uden ansøgning om tilladelse, har bygningsejer selv pligt til at undersøge, om nedrivningsarbejdet er i strid med anden lovgivning. Ved nedrivning af byggeri, der ikke kræver tilladelse, har ejer pligt til indberette oplysninger til Bygnings- og Boligregisteret (BBR).
 
-### Klage over kommunalbestyrelsens afgørelser {#6903fd22-d245-400b-afa2-68165f570d7d}
+### 10. Klage over kommunalbestyrelsens afgørelser {#6903fd22-d245-400b-afa2-68165f570d7d}
 
 Kommunalbestyrelsen afgørelser, der er truffet i henhold til byggeloven eller regler, der er fastsat i medfør af byggeloven, herunder bygningsreglementet, kan påklages til Nævnenes Hus, jf. byggelovens § 23, stk. 1. Det er alene retlige spørgsmål, der kan indbringes for Nævnenes Hus. Retlige spørgsmål kan være spørgsmål om, hvorvidt kommunalbestyrelsen har forstået byggeloven eller bygningsreglementet korrekt, eller om de almindelige forvaltningsretlige regler er overholdt, f.eks. partshøring, klagevejledningen mv. Nævnenes Hus kan ikke behandle klager over kommunalbestyrelsens skøn.
 

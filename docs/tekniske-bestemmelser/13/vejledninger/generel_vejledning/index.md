@@ -6,7 +6,7 @@
 
 Forureninger fra byggematerialer og fra undergrunden er blandt de vigtigste kilder til forureninger i indeklimaet. Det er derfor vigtigt at sikre bygningen mod disse forureninger.
 
-### Forureninger fra byggematerialer {#f99787a7-f2b0-450b-8067-74b4c69eb7a6}
+### 1.1. Forureninger fra byggematerialer {#f99787a7-f2b0-450b-8067-74b4c69eb7a6}
 
 Byggematerialer kan indeholde kemiske stoffer, som kan afgasse eller på anden vis influere indeklimaet. Byggematerialer kan også indeholde kemiske stoffer, der nedbrydes og dermed fører til afgivelse af forureninger til indeklimaet.
 
@@ -38,7 +38,7 @@ I [Strålebeskyttelsesdirektivet](http://eur-lex.europa.eu/legal-content/DA/TXT/
 
 Strålebeskyttelsesdirektivet angiver eksempler på byggematerialer, der er i risikogruppen for at indeholde radioaktive stoffer, der udsender gammastråling. Det er f.eks. flyveaske, visse former for slagge og fosfatgips. Anvendes disse materialer som byggematerialer i sin rene form f.eks. til underlag for byggeri henvises til vejledningsteksten til § 333.
 
-### Forureninger fra undergrunden {#26d2f27e-101a-4498-8777-71ffcacddfd1}
+### 1.2. Forureninger fra undergrunden {#26d2f27e-101a-4498-8777-71ffcacddfd1}
 
 Jordforureninger kan trænge op i bygninger ved konvektion og diffusion gennem fundamenter, terrændæk, gulve, kældergulve og kælderydervægge. Konvektionen forhindres ved at gøre konstruktionen lufttæt mod undergrunden, f.eks. ved at udføre konstruktionerne i beton med omhyggelighed, så der opnås en god, ensartet og revnefri konstruktion. Diffusionen reduceres ved at gøre konstruktionen diffusionstæt, f.eks. ved at udføre betonkvaliteten som moderat miljøklasse med indhold af højest 5 pct. porøse partikler. Der henvises til *DS/EN 1992-1-1 Eurocode 2: Betonkonstruktioner - del 1-1: Generelle regler samt regler for bygningskonstruktioner*.
 

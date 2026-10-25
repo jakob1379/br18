@@ -12,33 +12,33 @@
 
 ### Forord
 
-### Boligens beboere {#f036d581-3495-4f91-bd3a-93c1361c0e4d}
+### 1. Boligens beboere {#f036d581-3495-4f91-bd3a-93c1361c0e4d}
 
-### Bygning, bolig, hjem {#5f878365-aa02-4194-8447-7fcc6189ec0a}
+### 1.1. Bygning, bolig, hjem {#5f878365-aa02-4194-8447-7fcc6189ec0a}
 
-### Beboerne {#33549032-41a0-4646-be36-72772f125276}
+### 1.2. Beboerne {#33549032-41a0-4646-be36-72772f125276}
 
-### Fleksibilitet i boligen {#0fa8534b-a98a-4234-ad46-d742c17f3559}
+### 1.3. Fleksibilitet i boligen {#0fa8534b-a98a-4234-ad46-d742c17f3559}
 
-### Boligens overordnede planlægning {#12dadcbe-9992-4eef-b8a9-6906c7e57fe4}
+### 2. Boligens overordnede planlægning {#12dadcbe-9992-4eef-b8a9-6906c7e57fe4}
 
-### Boligens kontekst og bebyggelsens kompakthed {#a404c180-f32f-443d-8641-7373bfa4512d}
+### 2.1. Boligens kontekst og bebyggelsens kompakthed {#a404c180-f32f-443d-8641-7373bfa4512d}
 
-### Bebyggelsestype {#49d2454d-b336-4632-ac9b-5dc69da24e35}
+### 2.2. Bebyggelsestype {#49d2454d-b336-4632-ac9b-5dc69da24e35}
 
-### Fælles adgangsveje til boligen {#bdd680c0-6bb9-4838-b4d1-219dcf123a62}
+### 2.3. Fælles adgangsveje til boligen {#bdd680c0-6bb9-4838-b4d1-219dcf123a62}
 
-### Boligens størrelse {#5799d662-e35a-47a9-be19-daccfe701c15}
+### 2.4. Boligens størrelse {#5799d662-e35a-47a9-be19-daccfe701c15}
 
-### Boligens rumforløb og rummenes udformning {#bdf8d6bb-12e6-4fa0-b45c-915bcdc0c7b9}
+### 2.5. Boligens rumforløb og rummenes udformning {#bdf8d6bb-12e6-4fa0-b45c-915bcdc0c7b9}
 
-### Dagslysforhold {#d79cf6a3-805b-4e7d-a359-3b318e98482b}
+### 2.6. Dagslysforhold {#d79cf6a3-805b-4e7d-a359-3b318e98482b}
 
-### Lydforhold {#7f0c5c71-a8ea-42e4-94f8-0a5f927cf94b}
+### 2.7. Lydforhold {#7f0c5c71-a8ea-42e4-94f8-0a5f927cf94b}
 
-### Trapper {#f8d68305-3a9d-45d6-a18e-1f82ef752426}
+### 2.8. Trapper {#f8d68305-3a9d-45d6-a18e-1f82ef752426}
 
-### Opbevaring {#384b515f-6eb0-4cea-b038-30f5f2032df1}
+### 2.9. Opbevaring {#384b515f-6eb0-4cea-b038-30f5f2032df1}
 
 Til mange af boligens aktiviteter følger et behov for opbevaring. Det vil naturligvis variere fra aktivitet til aktivitet og fra beboer til beboer, men set i forhold til boligens funktionalitet bør det være en forudsætning, at muligheder for opbevaring er tænkt ind i planløsningen fra start.
 
@@ -48,25 +48,25 @@ Hvis beboeren tilføjer mere opbevaring, end rummene er planlagt til, vil rummen
 
 Hvis det er en større bolig, kan det være hensigtsmæssigt at indrette et bryggers, der kan aflaste entréen, køkkenet og badeværelset. Derfor er det hensigtsmæssigt at placere bryggerset tæt på disse rum og om muligt med udgang til det fri. Bryggerset kan planlægges, så der er plads til ekstra kolonialvarer, fryser, vaskemaskine, tørretumbler, sæsontøj, kosteskab, hobbyredskaber, værktøj, trappestige, strygebræt etc. Det er desuden praktisk med bordplads til fralægning af genstande, der hentes eller arbejdes med. I bryggerset kan der også afsættes plads til vvs-komponenter og opvarmningsanlæg, så de er let tilgængelige.
 
-### Tekniske installationer {#e013f663-8cb8-455d-b0bd-533fd112e89e}
+### 2.10. Tekniske installationer {#e013f663-8cb8-455d-b0bd-533fd112e89e}
 
-### Uderum {#069a16f1-9b52-4f41-8fc9-7e4609b24a3a}
+### 2.11. Uderum {#069a16f1-9b52-4f41-8fc9-7e4609b24a3a}
 
-### Boligens aktiviteter {#29b603f5-2588-4abb-a33b-7f51ad402e5d}
+### 3. Boligens aktiviteter {#29b603f5-2588-4abb-a33b-7f51ad402e5d}
 
-### At komme ind {#c74c1f75-2366-4a20-baae-6d8c92abaa73}
+### 3.1 At komme ind {#c74c1f75-2366-4a20-baae-6d8c92abaa73}
 
-### At lave mad {#e5951ab1-95e3-4dfb-9f63-a0e915cad343}
+### 3.2. At lave mad {#e5951ab1-95e3-4dfb-9f63-a0e915cad343}
 
-### At spise {#a87b524d-c50a-488d-a401-15eb0c43887a}
+### 3.3 At spise {#a87b524d-c50a-488d-a401-15eb0c43887a}
 
-### At være sammen {#6433174c-c36e-4a18-99c8-1b7cef14b315}
+### 3.4. At være sammen {#6433174c-c36e-4a18-99c8-1b7cef14b315}
 
-### At arbejde {#1b801ec0-afb5-42ea-b57d-a25f3b069b01}
+### 3.5. At arbejde {#1b801ec0-afb5-42ea-b57d-a25f3b069b01}
 
-### At sove {#4d77aa18-d434-46d5-83f1-65ed094fd1e7}
+### 3.6. At sove {#4d77aa18-d434-46d5-83f1-65ed094fd1e7}
 
-### At bade {#9d95ee42-38e2-41d4-ae53-1d23da54a544}
+### 3.7. At bade {#9d95ee42-38e2-41d4-ae53-1d23da54a544}
 
 ### Appendix: Litteratur
 

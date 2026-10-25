@@ -14,7 +14,7 @@
 
 ## Vejledning om funktionsafprøvning
 
-### Indledning {#a260b097-6fce-4f6d-954c-82545bd008c9}
+### 1.0 Indledning {#a260b097-6fce-4f6d-954c-82545bd008c9}
 
 D. 1. juli 2017 indførtes der krav i bygningsreglementet om, at der skal foretages funktionsafprøvning af en række bygningsinstallationer inden ibrugtagning af bygningen. Efterfølgende er der indført yderligere krav til flere bygningsinstallationer.
 
@@ -54,11 +54,11 @@ I de efterfølgende afsnit i denne vejledning står der således funktionsafprø
 
 Hvis funktionsafprøvningen påviser at projekteringsværdierne ikke overholdes, kan dette ikke nødvendigvis bruges til at påvise hvilke delopgaver i projekterings- eller byggeprocessen som har medført dette.
 
-### Hvornår foretages funktionsafprøvning? {#9d20bce6-56bc-4e6e-b74a-1775f93d5542}
+### 1.1 Hvornår foretages funktionsafprøvning? {#9d20bce6-56bc-4e6e-b74a-1775f93d5542}
 
 Funktionsafprøvning er ikke det samme som indregulering eller egenkontrol af udført arbejde. For at funktionsafprøvning skal give mening er det afgørende, at de udførende har gennemført alt arbejde, inklusiv montage, indregulering, eventuelle tæthedsprøver og udbedring af mangler. Det er således et fuldt færdigt anlæg der skal funktionsafprøves. Det ligger ikke i opgaven med få udført funktionsafprøvning at finde og udbedre mangler. Hvis der findes mangler i forbindelse med funktionsafprøvningen, bør funktionsafprøvningen afbrydes indtil manglerne er udbedret.
 
-### Store eller komplekse byggerier {#91af3d2a-a85a-4e27-a574-60ce8b2a8bf6}
+### 1.2 Store eller komplekse byggerier {#91af3d2a-a85a-4e27-a574-60ce8b2a8bf6}
 
 Hvis man følger Bygningsstyrelsens metode for performancetest, vil man også overholde bygningsreglementets krav til funktionsafprøvninger, og dokumentationen af overholdelsen af performancetestene kan benyttes som dokumentation for bygningsreglementets krav. Funktionsafprøvninger i bygningsreglementet og Bygningsstyrelsens performancetest er dog ikke det samme. Funktionsafprøvninger i henhold til bygningsreglementet er kun de tekniske afprøvninger af, om bygningsreglementets krav er overholdt. Bygningsstyrelsens metode for performancetest indeholder også afprøvninger af de tekniske anlæg, men er væsentligt mere end kun afprøvninger, idet metoden forholder sig til byggeprocessen. Bygningsstyrelsens metode for performancetest egner sig til større eller komplekse byggerier. Metoden er opdelt i trin som integreres i styringen af byggeprojekterne via 5 milepæle:
 
@@ -76,7 +76,7 @@ Bygningsstyrelsens metode for performancetest blev introduceret i 2013 og var in
 
 Bygningsstyrelsens metode for performancetest kan downloades fra: [link til metode for performancetest](https://bygst.dk/byggeri/kvalitetssikring/performancetest/)
 
-### Hvem kan udføre funktionsafprøvning {#27f53ecf-c2db-452d-a8ee-3e15b62fe1ee}
+### 1.3 Hvem kan udføre funktionsafprøvning {#27f53ecf-c2db-452d-a8ee-3e15b62fe1ee}
 
 Der stilles ikke krav til hvem, der udfører en funktionsafprøvning. Det anbefales dog, at der anvendes en uvildig tredjepart uden tilknytning til projekterende rådgivere eller udførende entreprenører, da der ellers kan komme interessekonflikter. Funktionsafprøvningen kan ligeledes udføres af de entreprenører, der har udført de tekniske installationer med overværelse en uvildig tredjepart eller bygningsejers repræsentant.
 
@@ -86,11 +86,11 @@ Noget arbejde kan være omfattet af krav om at arbejdet skal udføres af en auto
 
 Desuden skal bemærkes, at det altid er bygningsejerens ansvar, at bygningsreglementets krav er overholdt.
 
-### Brug af eksternt måleudstyr og målemetoder {#719cfa39-05f7-4a4d-9e09-f75db5621dcb}
+### 1.4 Brug af eksternt måleudstyr og målemetoder {#719cfa39-05f7-4a4d-9e09-f75db5621dcb}
 
 I tilfælde hvor der til funktionsafprøvninger anvendes eksternt måleudstyr, skal måleudstyret være retvisende og kalibreret i henhold til fabrikantens anvisninger. Målemetoder udføres efter gældende standarder, så vidt det er muligt.
 
-### Baggrund {#a4a31ba7-174f-41b7-966e-0e0b6fad97a1}
+### 1.5 Baggrund {#a4a31ba7-174f-41b7-966e-0e0b6fad97a1}
 
 Trafik-, Bygge- og Boligstyrelsen indførte pr. 1. juli 2017 krav i bygningsreglementet om funktionsafprøvning af installationer.
 
@@ -99,7 +99,7 @@ Baggrunden for kravet er, at nybyggerier og større renoveringer ofte bliver afl
 **Version\**
 Dette er version 4, dateret 1. juli 2023. Vejledningen er opdateret som følge en generel gennemgang af vejledningen i samarbejde med branchen.
 
-### Ventilationssystemer {#2c036873-5116-4bcc-a05c-7253058c13b6}
+### 2.0 Ventilationssystemer {#2c036873-5116-4bcc-a05c-7253058c13b6}
 
 Der skal gennemføres funktionsafprøvning af ventilationssystemer. Funktionsafprøvningen skal dokumentere, at ventilationssystemet overholder bygningsreglementets krav til:
 
@@ -113,7 +113,7 @@ Der skal gennemføres funktionsafprøvning af ventilationssystemer. Funktionsafp
 
 samt at eventuel behovsstyring fungerer efter hensigten.   For så vidt angår naturlige og hybride ventilationssystemer skal funktionsafprøvningen dokumentere at systemerne er udført og fungerer efter hensigten. Ifølge bygningsreglementet §421, skal ventilationssystemer projekteres og udføres som anvist i DS 447, Ventilation i bygninger -- Mekaniske, naturlige og hybride ventilationssystemer. Vejledning om funktionsafprøvning af ventilationssystemer er derfor baseret på kravene i såvel bygningsreglementet som i DS 447.
 
-### Relevante standarder {#089edcda-2abb-44a6-8e78-47277dfe7e1f}
+### 2.1 Relevante standarder {#089edcda-2abb-44a6-8e78-47277dfe7e1f}
 
 Relevante standarder i forbindelse med funktionsafprøvning af ventilationssystemer  omfatter:
 
@@ -185,7 +185,7 @@ Denne standard opstiller krav til varme- og køleanlæg. Kravene tilsigter, at d
 
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/s%c3%b8gning/91-140-10-centralvarmeanl%c3%a6g/ds-4692013 "DS 469"){target="_blank"}
 
-### Luftmængder ved mekanisk ventilation (nominel luftstrøm) {#a2bf648a-92dc-4b37-85bc-71027f3ea936}
+### 2.2 Luftmængder ved mekanisk ventilation (nominel luftstrøm) {#a2bf648a-92dc-4b37-85bc-71027f3ea936}
 
 Kravet til ventilation af bygninger til beboelse er beskrevet i bygningsreglementet, §§443-446. Her fremgår det at:
 
@@ -271,7 +271,7 @@ Der udarbejdes en funktionsafprøvningsrapport, der beskriver:
 >
 > • Oplysninger om hvem, der har udført funktionsafprøvning.
 
-### Behovsstyring {#e90d964d-26af-4138-8e05-2e6243ca348b}
+### 2.3 Behovsstyring {#e90d964d-26af-4138-8e05-2e6243ca348b}
 
 Behovsstyring af ventilationen kan medvirke til at reducere bygningens energiforbrug ved at undgå unødig ventilation. I boliger må udelufttilførelsen dog på intet tidspunkt være mindre end 0,3 l/s pr. m², når boligen er i brug eller lavere end 0,15 l/ pr. m² når boligen ikke er i brug.
 
@@ -365,7 +365,7 @@ Der udarbejdes en funktionsafprøvningsrapport, der beskriver:
 
 >
 
-### Specifikt elforbrug til lufttransport (SEL-Værdi) {#a7a2cd4e-2061-412c-9235-9fea0eb33ef3}
+### 2.4 Specifikt elforbrug til lufttransport (SEL-Værdi) {#a7a2cd4e-2061-412c-9235-9fea0eb33ef3}
 
 *Formål med funktionsafprøvning af SEL-værdi* Formålet med afprøvningen er at eftervise, at ventilationsanlæggets elforbrug, SEL-værdi, i praksis mindst svarer til den forudsætning, der anvendes i energibehovsberegningen, der dokumenterer, at bygningen overholder bygningsreglementets energikrav, jf. kapitel 11, Energiforbrug.
 
@@ -503,7 +503,7 @@ Der udarbejdes en funktionsafprøvningsrapport, der beskriver:
 >
 >
 
-### Naturlig ventilation {#52ac264a-4f5b-465a-86e3-6b384927e68a}
+### 2.5 Naturlig ventilation {#52ac264a-4f5b-465a-86e3-6b384927e68a}
 
 *Formål med funktionsafprøvning af naturlig ventilation*
 
@@ -551,11 +551,11 @@ Funktionsafprøvningen kan accepteres såfremt den naturlige ventilations styrin
 
 I enfamiliehuse med naturlig ventilation er kravet opfyldt, hvis åbningsarealer til udeluftventiler og aftrækskanaler stemmer overens med bygningsreglementets vejledning om ventilation, eller en til formålet foretaget beregning.
 
-### Hybrid ventilation {#45f49770-84c6-413f-9518-a15ade535e43}
+### 2.6 Hybrid ventilation {#45f49770-84c6-413f-9518-a15ade535e43}
 
 Funktionsafprøvning af hybrid ventilation omhandler samspil mellem den mekaniske og den naturlige ventilation. Funktionsafprøvning anses derfor som udført ved efterlevelse af kapitel 2.1 til og med 2.5. Der bør dog udvides særlig opmærksomhed på samspillet af mekanisk og naturlig ventilation for så vidt angår styring og regulering.
 
-### Varme- og køleanlæg {#b1ce1e45-bf2a-4c28-b3aa-74d4b65280e1}
+### 3.0 Varme- og køleanlæg {#b1ce1e45-bf2a-4c28-b3aa-74d4b65280e1}
 
 Der skal udføres en funktionsafprøvning af varme- og køleanlæg. Varme- og køleanlæg er som defineret i DS 469. Funktionsafprøvningen skal dokumentere, at varme- og køleanlæggene overholder bygningsreglementets krav til:
 
@@ -565,7 +565,7 @@ Der skal udføres en funktionsafprøvning af varme- og køleanlæg. Varme- og k�
 
 > • Styring
 
-### Relevante standarder {#3ab61ad4-40fa-4d23-98d0-1c9ec4fd7b38}
+### 3.1 Relevante standarder {#3ab61ad4-40fa-4d23-98d0-1c9ec4fd7b38}
 
 Relevante standarder i forbindelse med funktionsafprøvning af varme- og køleanlæg omfatter:
 
@@ -607,7 +607,7 @@ Standarden dækker ikke de brandtekniske krav til ventilationssystemer; der henv
 
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/s%c3%b8gning/91-140-30-ventilationssystemer-og-klimaanl%c3%a6g/ds-4472013 "DS 447"){target="_blank"}
 
-### Indregulering {#fbdcc4e6-eec8-4212-961a-14c37d3140d4}
+### 3.2 Indregulering {#fbdcc4e6-eec8-4212-961a-14c37d3140d4}
 
 Indregulering af varme- og køleanlæg omfatter vand- eller luftstrømme i anlægget og automatiske reguleringssystemer.
 
@@ -663,7 +663,7 @@ Der udarbejdes en funktionsafprøvningsrapport, der beskriver: • Hvilke foruds
 
 • Oplysninger om hvem der har udført funktionsafprøvning.
 
-### Styring {#51a55395-b546-4bb6-b610-49bd028f6740}
+### 3.3 Styring {#51a55395-b546-4bb6-b610-49bd028f6740}
 
 *Styring*
 
@@ -744,7 +744,7 @@ Der udarbejdes en funktionsafprøvningsrapport, der beskriver:
 
 • Oplysninger om hvem der har udført funktionsafprøvning.
 
-### Belysning {#e75f65d3-1a84-4b90-9bc2-5f5d5169b20a}
+### 4.0 Belysning {#e75f65d3-1a84-4b90-9bc2-5f5d5169b20a}
 
 Der skal gennemføres en funktionsafprøvning af belysningsanlæg før ibrugtagning. Funktionsafprøvningen skal påvise om belysningsanlægget overholder bygningsreglementets krav til:
 
@@ -752,7 +752,7 @@ Der skal gennemføres en funktionsafprøvning af belysningsanlæg før ibrugtagn
 
 Samt at dagslysstyring, bevægelsesmeldere og zoneopdeling fungerer efter hensigten, uafhængigt af tilført dagslys.
 
-### Relevante standarder og anvisninger {#d274e5f3-fbcb-4c85-94e1-cf1c98fc1db0}
+### 4.1 Relevante standarder og anvisninger {#d274e5f3-fbcb-4c85-94e1-cf1c98fc1db0}
 
 Relevante standarder og anvisninger i forbindelse med funktionsafprøvning af belysningsanlæg omfatter:
 
@@ -807,7 +807,7 @@ At-vejledningen beskriver Arbejdstilsynets krav til kunstig belysning på faste 
 
 #### [Find At-vejledningen her](https://at.dk/regler/at-vejledninger/kunstig-belysning-a-1-5/ "At-vejledning A.1.5-1"){target="_blank"}
 
-### Belysningsstyrke {#4b1b94a1-9f48-4391-9caf-22bf6724caab}
+### 4.2 Belysningsstyrke {#4b1b94a1-9f48-4391-9caf-22bf6724caab}
 
 *Formål med funktionsafprøvning af belysningsstyrke*
 
@@ -862,7 +862,7 @@ Der udarbejdes en funktionsafprøvningsrapport, der beskriver:
 
 >
 
-### Styring af elektriske belysningsanlæg {#113c2a69-425f-41bb-b41b-885ed5ddabc5}
+### 4.3 Styring af elektriske belysningsanlæg {#113c2a69-425f-41bb-b41b-885ed5ddabc5}
 
 Det er et krav i bygningsreglementet, at arbejdsrum m.v. og fælles adgangsveje skal forsynes med energieffektiv belysning, hvilket blandt andet opnås ved effektiv lysstyring. Hvis der er tilstrækkeligt dagslys skal arbejdsrum m.v. og fælles adgangsveje forsynes med automatisk dagslysstyring. Ligeledes er det et krav, at arbejdsrum og fælles adgangsveje, der kun benyttes lejlighedsvis skal forsynes med bevægelsesmeldere. Endeligt er der krav til, at arbejdsrum m.v. skal opdeles i zoner for at kunne reducere belysningen i zoner med højt dagslysniveau eller zoner, der ikke er i brug.
 
@@ -956,13 +956,13 @@ Der udarbejdes en funktionsafprøvningsrapport, der beskriver:
 
 >
 
-### Elevatorer {#bd12bd3b-1396-4d7e-9bcf-84f50429cf95}
+### 5.0 Elevatorer {#bd12bd3b-1396-4d7e-9bcf-84f50429cf95}
 
 Der skal gennemføres funktionsafprøvning af elevatorers energiforbrug før ibrugtagning. Kravet gælder for både elevatorer i nybyggeri og installation af nye elevatorer i eksisterende bygninger.
 
 Bestemmelsen gælder kun for elevatorer med en mærkelast af elevatorstolen på op til 2000 kg.
 
-### Relevante standarder {#8463edf5-7cc3-48e4-b60c-93a88d1e9dc5}
+### 5.1 Relevante standarder {#8463edf5-7cc3-48e4-b60c-93a88d1e9dc5}
 
 Relevante standarder i forbindelse med funktionsafprøvning af elevatorer omfatter:
 
@@ -991,7 +991,7 @@ Elevatorer, rulletrapper og rullefortoves energieffektivitet - Del 2: Beregning 
 
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/s%c3%b8gning/91-140-90-elevatorer-rullende-trapper/ds-en-iso-25745-22015 "DS/EN ISO 25745-2"){target="_blank"}
 
-### Formål med funktionsafprøvning af elevatorers energiforbrug {#3cce8589-abb3-4baa-8030-0ce2282bdd3a}
+### 5.2 Formål med funktionsafprøvning af elevatorers energiforbrug {#3cce8589-abb3-4baa-8030-0ce2282bdd3a}
 
 Afprøvningen skal eftervise, at elevatoren i praksis opfylder kravet til energiklasse B, jf. DS/EN ISO 25745-2, jf. I1.7. Hvis elevatorens energiklasse ikke kan bestemmes ud fra DS/EN ISO 25745-2, skal elevatoren leve op til energiklasse B i VDI 4707, *Aufzüge Energieffizienz*. Elevatorens energiklassifikation afhænger af elevatorens anvendelseskategori.   Hvis elevatoren ikke opfylder kravet til energiklasse B, og der i stedet er foretaget andre kompenserende energibesparende tiltag, jf. I1.8, så er det den aktuelle energiklasse, der skal eftervises ved funktionsafprøvningen.
 
@@ -1036,7 +1036,7 @@ Der udarbejdes en funktionsafprøvningsrapport, der beskriver:
 
 >
 
-### Energiforsyningsanlæg {#a5b7b6af-4353-4e4d-bac5-f969f02c6e64}
+### 6.0 Energiforsyningsanlæg {#a5b7b6af-4353-4e4d-bac5-f969f02c6e64}
 
 Der skal gennemføres en funktionsafprøvning af energiforsyningsanlæg før aflevering. Funktionsafprøvningen skal eftervise, at anlægget har den forudsatte energimæssige effektivitet.
 
@@ -1050,7 +1050,7 @@ Bygningsreglementets kravtekst mht. funktionsafprøvning af energiforsyningsanl�
 
 § 327 b. Der skal gennemføres en funktionsafprøvning af energiforsyningsanlæg i tilknytning til bygninger inden ibrugtagning. Funktionsafprøvningen skal påvise, at anlægget har den forudsatte energimæssige effektivitet.
 
-### Energiforsyningsanlæg omfattet af Ecodesign {#b155f841-e7fb-4dce-b1a2-fa9303cf9938}
+### 6.1 Energiforsyningsanlæg omfattet af Ecodesign {#b155f841-e7fb-4dce-b1a2-fa9303cf9938}
 
 Nogle typer af energiforsyningsanlæg leveres som færdige units og skal overholde EU-direktivet om Ecodesign, når de bringes i omsætning i EU. Produkter omfattet af Ecodesign, skal overholde mindstekrav til energieffektivitet, krav vedrørende andre væsentlige miljøforhold samt eventuelt krav til funktion og kvalitet. Energistyrelsen er myndighed for Ecodesign og har overdraget tilsynet til Sikkerhedsstyrelsen.
 
@@ -1146,7 +1146,7 @@ Der udarbejdes en funktionsafprøvningsrapport, der beskriver:
 
 • Oplysninger om hvem der har udført funktionsafprøvning.
 
-### Fjernvarmeanlæg {#d31d9cae-ecd1-4ae4-b4ad-3ec1ef2606bb}
+### 6.2 Fjernvarmeanlæg {#d31d9cae-ecd1-4ae4-b4ad-3ec1ef2606bb}
 
 Relevante standarder
 
@@ -1226,7 +1226,7 @@ Der udarbejdes en funktionsafprøvningsrapport, der beskriver:
 
 • Oplysninger om hvem der har udført funktionsafprøvning.
 
-### Kedelanlæg {#486c677e-0159-4d84-a4cb-5754a9540bdd}
+### 6.3 Kedelanlæg {#486c677e-0159-4d84-a4cb-5754a9540bdd}
 
 Der skal foretages funktionsafprøvning af olie- og gasfyrede centralvarmekedler med nominel ydelse på mere end 400 kW.
 
@@ -1292,13 +1292,13 @@ Der udarbejdes en funktionsafprøvningsrapport, der beskriver:
 
 • Oplysninger om hvem der har udført funktionsafprøvning.
 
-### Energiproduktionsanlæg baseret på vedvarende energikilder {#c684e668-3ad2-4952-8bbe-e2f92cf88953}
+### 7.0 Energiproduktionsanlæg baseret på vedvarende energikilder {#c684e668-3ad2-4952-8bbe-e2f92cf88953}
 
 Der skal gennemføres en funktionsafprøvning af energiproduktionsanlæg baseret på vedvarende energikilder før aflevering. Funktionsafprøvningen skal dokumentere, at anlægget er korrekt installeret og overholder bygningsreglementets krav og de forudsætninger, der benyttes i energibehovsberegningen.   Kravet gælder for alle anlæg på eller ved bygninger. I praksis vil disse anlæg typisk være solvarme- eller solcelleanlæg og vindmøller (hustandsvindmøller). Det er derfor disse tre anlægstyper, der er uddybet nedenfor.
 
 Bygningsreglementets kravtekst mht. funktionsafprøvning af energiproduktionsanlæg baseret på vedvarende energikilder er:   **§ 327 a.** Der skal gennemføres en funktionsafprøvning af energiforsyningsanlæg baseret på vedvarende energi i tilknytning til bygninger inden ibrugtagning. Funktionsafprøvningen skal påvise, at anlægget er korrekt installeret og har den forudsatte energimæssige effektivitet.
 
-### Solvarme {#e9a2c649-ce9d-4bde-b782-76d688aef4c8}
+### 7.1 Solvarme {#e9a2c649-ce9d-4bde-b782-76d688aef4c8}
 
 Der skal gennemføres en funktionsafprøvning af solvarmeanlægget før ibrugtagning af bygningen. Funktionsafprøvningen skal påvise, at solvarmeanlægget er funktionsdygtigt og kan bidrage energieffektivt til rumvarme- og varmtvandsproduktionen.
 
@@ -1373,7 +1373,7 @@ Der udarbejdes en funktionsafprøvningsrapport, der beskriver:
 
 • Oplysninger om hvem der har udført funktionsafprøvning.
 
-### Solceller {#8791bb93-4771-4a9e-b273-c7d274959318}
+### 7.2 Solceller {#8791bb93-4771-4a9e-b273-c7d274959318}
 
 Der skal gennemføres en funktionsafprøvning af solcelleanlægget før ibrugtagning af bygningen. Funktionsafprøvningen skal påvise, at solcelleanlægget er korrekt installeret og har den forudsatte energimæssige ydeevne.
 
@@ -1426,7 +1426,7 @@ Der udarbejdes en funktionsafprøvningsrapport, der beskriver:
 
 • Oplysninger om hvem der har udført funktionsafprøvning.
 
-### Vindmøller {#f2c5ed64-57d1-4b3b-967c-6528d01872f9}
+### 7.3 Vindmøller {#f2c5ed64-57d1-4b3b-967c-6528d01872f9}
 
 Der skal gennemføres en funktionsafprøvning af vindmøllen (eller vindmølleanlægget), der etableres til eftervisning af energirammen før ibrugtagning af bygningen. Funktionsafprøvningen skal påvise, at vindmøllen har den forudsatte energimæssige ydeevne.
 
@@ -1482,7 +1482,7 @@ Der udarbejdes en funktionsafprøvningsrapport, der beskriver:
 
 • Oplysninger om hvem der har udført funktionsafprøvning.
 
-### Bygningsautomatik {#06191ae0-9c0f-47a4-a6e3-5a575d0eaf04}
+### 8.0 Bygningsautomatik {#06191ae0-9c0f-47a4-a6e3-5a575d0eaf04}
 
 Funktionsafprøvningen skal dokumentere, at bygningsautomatikken er korrekt installeret og overholder bygningsreglementets krav og de forudsætninger, der benyttes i energibehovsberegningen.
 
@@ -1490,13 +1490,13 @@ Bygningsreglementets krav til funktionsafprøvning af hovedbygningsautomatik er 
 
 **§ 296 **Der skal gennemføres en funktionsafprøvning af bygningsautomatik inden ibrugtagning. Funktionsafprøvningen skal påvise, at bygningsautomatikken er korrekt installeret og reguleret, virker efter hensigten og giver bygningen den forudsatte energimæssige effektivitet.
 
-### Definition {#2d39d392-81a1-497e-a0b4-2487d2ed9159}
+### 8.1 Definition {#2d39d392-81a1-497e-a0b4-2487d2ed9159}
 
 Ved bygningsautomatik forstås de automatiksystemer, der styrer, regulerer og overvåger en bygnings tekniske installationer, ud fra målte ude- og indeklimaparametre, anlægsparametre, brugerbehov, mv. Bygningsautomatikken kan være opbygget med et eller flere systemer, som tilsammen styrer bygningens tekniske systemer, se også bygningsreglementets vejledning om energiforbrug, afsnit 9.6.
 
 Bygningens tekniske installationer kan typisk omfatte varme- og køleanlæg, ventilationssystemer, belysningsstyringer, solafskærmningsanlæg, vinduesåbningssystemer, indhentning af alarmer fra forskellige tekniske anlæg mv.
 
-### Omfang af funktionsafprøvning {#2b3c0e91-cd6c-4d76-ae8c-067656e3bb47}
+### 8.2 Omfang af funktionsafprøvning {#2b3c0e91-cd6c-4d76-ae8c-067656e3bb47}
 
 Der skal gennemføres en funktionsafprøvning af bygningsautomatik før ibrugtagning af bygningen.
 
@@ -1504,7 +1504,7 @@ Funktionsafprøvningen skal påvise, at bygningsautomatikkens sensorer og regula
 
 Funktionsafprøvningen af bygningsautomatik kan ikke ses alene, da bygningsautomatikken typisk styrer de tekniske anlæg i bygningen og der er en række krav til funktionsafprøvning af de tekniske anlæg, som overlapper med bygningsautomatikken. Det der bør være fokus på ved afprøvningen af bygningsautomatikken er grænsefladerne mellem de forskellige tekniske anlæg og samspillet mellem anlæggene. For eksempel at der ikke køles med ventilationsanlægget samtidig med at tilføres varme på radiator- eller gulvvarmekredse.
 
-### Forudsætninger for udførelse af funktionsafprøvning {#99a45e83-f692-437e-bc01-970a48d9ca8d}
+### 8.3 Forudsætninger for udførelse af funktionsafprøvning {#99a45e83-f692-437e-bc01-970a48d9ca8d}
 
 Inden funktionsafprøvning udføres skal følgende være opfyldt:
 
@@ -1514,7 +1514,7 @@ Inden funktionsafprøvning udføres skal følgende være opfyldt:
 
 • Under måleperioden holdes vinduer og døre lukkede for at opnå stabile måleforhold, såfremt vinduer og døre ikke er en del af bygningens indeklimastrategi.
 
-### Målepunkter {#552b8f12-921e-4209-9548-758617227e55}
+### 8.4 Målepunkter {#552b8f12-921e-4209-9548-758617227e55}
 
 *Sensorer *
 
@@ -1530,19 +1530,19 @@ Udelysmængden (Lux) måles ved brug af eksternt måleudstyr samme sted som anl�
 
 Såfremt anlægget anvender tidsstyring (tidsprogrammer) skal det eftervises ved registrering, at anlægget reagerer efter det programmerede tidsskema. Fx at rumtemperaturen eller luftskiftet reduceres uden for brugstiden.
 
-### Opvarmning og køling {#950b31dd-b7ea-44c7-9e7c-a8a60fafb2ec}
+### 8.5 Opvarmning og køling {#950b31dd-b7ea-44c7-9e7c-a8a60fafb2ec}
 
 Det er vigtigt at undgå energispild. Samtidig opvarmning og køling ses fx i ventilationsanlæg, hvor der varmegenvindes og køles på samme tid. Der udføres en afprøvning, der viser at zonen kan afkøles uden at aktivere varmegenvinding i ventilationsanlægget eller afgivelse af varme fra varmeanlægget, med mindre dette er nødvendigt for anlæggets drift. Efterprøvning kan fx foretages ved ændring af setpunkter i bygningsautomatikken.
 
-### Præsentation af loggede data {#2260c709-71a0-41a1-a230-8122fa47c976}
+### 8.6 Præsentation af loggede data {#2260c709-71a0-41a1-a230-8122fa47c976}
 
 Der skal foretages afprøvning af præsentation af loggede data.
 
-### Alarmer {#7a619647-8298-48f9-b3ff-1c0bc4c2944e}
+### 8.7 Alarmer {#7a619647-8298-48f9-b3ff-1c0bc4c2944e}
 
 Der skal foretages afprøvning af programmerede alarmer i overvågningssystemer for indeklima-, varme-, køle- og elforbrug i bygningsautomatikken. Der udføres afprøvninger, hvor målte parametre overskrider fastsatte grænseværdier, der udløser en alarm.
 
-### Acceptkriterium {#8c276468-27da-40b5-9cd3-21d0faf66b5c}
+### 8.8 Acceptkriterium {#8c276468-27da-40b5-9cd3-21d0faf66b5c}
 
 Funktionsafprøvningens resultat kan accepteres, hvis det konstateres at:
 
@@ -1560,7 +1560,7 @@ Temperatursensor \[ºC\]: +/-1 °C, CO2: \[ppm\] +/- 100 ppm, Relativ fugtigheds
 
 • Afprøvningen viser en overholdelse af forudsætninger i energibehovsberegningen.
 
-### Dokumentation {#bfd6298a-b31e-4a25-99f5-295e4738889d}
+### 8.9 Dokumentation {#bfd6298a-b31e-4a25-99f5-295e4738889d}
 
 Der udarbejdes en funktionsafprøvningsrapport, der beskriver:
 

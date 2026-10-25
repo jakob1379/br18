@@ -2,7 +2,7 @@
 
 ## Bygningsreglementets vejledning om elevatorer
 
-### Forord {#b3beaae0-996f-4dce-a6b9-367ae269b5f1}
+### 0.0. Forord {#b3beaae0-996f-4dce-a6b9-367ae269b5f1}
 
 Bygningsreglementet indeholder krav til elevatorer i forhold til tilgængelighed, sikkerhed og energiforbrug. Den overordnede, generelle tilgang er baseret på krav i *EU-direktiv 2014/33/EU (Elevatordirektivet),* der i Danmark er implementeret gennem *bekendtgørelse nr. 1540 af 10/12/2015 om indretning m.v. af elevatorer og sikkerhedskomponenter til elevatorer.*
 
@@ -19,7 +19,7 @@ Reglerne for løfteplatforme fremgår af *EF direktiv 2006/42/EF af 17. maj 2006
 
 Anvendelsen af løfteplatforme skal ses som et muligt alternativ når det ikke er muligt at installere en elevator, ved for eksempel ombygninger af eksisterende ejendomme. Løfteplatforme som alternativ til elevator skal ikke anvendes som løsning i nybyggeri.
 
-### Generelt {#115a76d8-c6e0-4817-aca8-800dde891de6}
+### 1.0. Generelt {#115a76d8-c6e0-4817-aca8-800dde891de6}
 
 Det primære formål med kravene i kapitel 10 - Elevatorer, er at sikrer, at brugerne ved egen hjælp har adgang til bygningens etager og derved kan komme til bygningens funktioner. Derudover er formålet også at opnå et forsvarligt sikkerhedsniveau og begrænse energiforbruget ved design, udførelse, drift og vedligehold af elevatorerne.
 
@@ -30,7 +30,7 @@ Bygningsreglementet behandler andetsteds andre krav til elevatorer såsom:
 - Brandmandselevatorer i henhold til DS/EN 81-72:2015
 - Tilgængelighed i henhold til DS/EN *81-70*+A1:2009
 
-### Anvendelsesområde {#c13e6c97-47e9-4150-90d5-c5034ad51fb8}
+### 1.1. Anvendelsesområde {#c13e6c97-47e9-4150-90d5-c5034ad51fb8}
 
 Nybyggeri
 
@@ -66,7 +66,7 @@ Figur 2: Eksempler på etager i bygninger (snit) - Eksemplerne er vejledende og 
 
 Figur 3: Eksempler på etager i bygninger (snit) - Eksemplerne er vejledende og ikke udtømmende
 
-### Tilgængelighed {#05a1649c-3682-4580-8da1-6eeeeb260593}
+### 2.0. Tilgængelighed {#05a1649c-3682-4580-8da1-6eeeeb260593}
 
 Ifølge bygningsreglementet 2018, § 249, skal der i nybyggeri, hvor der installeres elevator, være mindst én elevator designet og udført som type 2 elevator i overensstemmelse med *DS/EN 81-70+A1:2009: Sikkerhedsforskrifter for konstruktion og installation af elevatorer -- Særlig anvendelser for passager- og godselevatorer -- Del 70: Tilgængelighed til elevatorer for personer, inklusive personer med handicap.* Dette gælder for alle opgange. En type 2 elevator stiller bl.a. specifikke krav til elevatorens dimensioner (1,4 meter x 1,1 meter) og placering af betjeningsknapper.
 
@@ -74,7 +74,7 @@ Elevatorer skal altid tilpasses til anvendelsen og det kan således være nødve
 
 Ved især ombygninger kan det være svært at opfylde kravet om en type 2 elevator i forhold til elevatorernes dimensioner. Der kan som alternativ installeres en minielevator eller løfteplatform, der har mindre dimensioner. Det bemærkes dog, at det kræver, at kommunalbestyrelsen dispenserer fra bygningsreglementets krav om type 2 elevator.
 
-### Sikkerhed {#248e9b9f-04af-49ff-9027-ae22f804e2f0}
+### 3.0. Sikkerhed {#248e9b9f-04af-49ff-9027-ae22f804e2f0}
 
 Elevatorer i nybyggeri kan opføres efter *DS/EN 81-20:2014 Sikkerhedsregler for konstruktion og installation af elevatorer -- Elevatorer til transport af personer og gods -- Del 20: Personelevatorer og person-gods-elevatorer.* I forbindelse med installation af nye elevatorer i eksisterende byggeri kan det være nødvendigt at anvende DS*/EN 81-21+A1: 2012 Sikkerhedsforskrifter for konstruktion og installation af elevatorer -- Elevatorer til transport af personer og gods -- Del 21: Nye person- og godselevatorer i eksisterende bygninger*.
 
@@ -82,7 +82,7 @@ Løfteplatforme kan opføres efter DS/EN 81-41:2011 *vertikale løfteplatforme t
 
 Ved etablering af elevatorer skal der ligeledes tages højde for Arbejdstilsynets sikkerhedsregler.
 
-### Energiforbrug {#37830e77-2a7f-4014-92ff-035980cc2c07}
+### 4.0. Energiforbrug {#37830e77-2a7f-4014-92ff-035980cc2c07}
 
 Ifølge bygningsreglementet 2018, § 248 stk. 1 må elevatorer energiforbrug ikke overstige hvad der svarer til energiklasse B for enten *DS/EN ISO 25745-2* eller og den tyske standard *VDI 4707 Aufzüge Energieffizienz, März 2009.*
 
@@ -92,7 +92,7 @@ Ifølge bygningsreglementet 2018, § 248 stk. 3 kan et højere energiforbrug til
 
 Før ibrugtagningen af elevatorer skal der gennemføres en funktionsafprøvning af energiforbruget, som efterfølgende skal dokumenteres i en rapport. Måling af energiforbruget kan med fordel ske i forbindelse med slutinspektion iht. Arbejdstilsynets regler. Der henvises her til Trafik- Bygge- og Boligstyrelsens vejledning om funktionsafprøvning, jf. bygningsreglementet 2018, § 249.
 
-### Dispensationer {#b58ca414-4e85-411b-a507-cfd66969d40b}
+### 5.0. Dispensationer {#b58ca414-4e85-411b-a507-cfd66969d40b}
 
 Kommunalbestyrelsen kan efter en konkret vurdering vælge at dispensere for bestemmelserne i bygningsreglementet og f.eks. tillade en minielevator eller løfteplatform der ikke opfylder type 2 kravet. Dispensationen skal dog være foreneligt med de hensyn, der ligger bag den konkrete bestemmelse der dispenseres fra.
 

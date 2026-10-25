@@ -12,7 +12,7 @@ Etablering af affaldsskakte vil være blandt de løsninger til bortskaffelse. De
 
 Med indførelsen af et funktionskrav sikres balance mellem hensynet til, at alle borgere kan bortskaffe deres affald, samt fleksibiliteten for bygherrer til at vælge de løsninger, som bedst tilgodeser behovet i netop deres byggeri, herunder også hensynet til kommunernes krav til eksempelvis kildesortering.
 
-### Generelt {#949c3121-98e4-4f31-90b3-ddd183407389}
+### 1. Generelt {#949c3121-98e4-4f31-90b3-ddd183407389}
 
 Reglerne på affaldsforsyningsområdet findes i miljøbeskyttelsesloven, affaldsbekendtgørelsen og affaldsregisterbekendtgørelsen. Mange af bestemmelserne udspringer af EU-lovgivning.
 
@@ -40,7 +40,7 @@ Det betyder, at kravene til opsætning af brugerbetjente anlæg også omfatter i
 
 Bygherren skal efter de nye regler forsat tage hensyn til, at der ikke opstår sundhedsmæssig risiko eller unødige gener som følge af etablering af eksempelvis affaldsøer i det konkrete byggeri.
 
-### Eksempler på affaldssystemer {#5e2cd802-b148-4e93-9e35-f48184cffe30}
+### 2. Eksempler på affaldssystemer {#5e2cd802-b148-4e93-9e35-f48184cffe30}
 
 Mange kommuner har etableret ordninger for sortering af organisk affald, plast, papir, pap, metal, glas, restaffald, småt elektronik, farligt affald og storskrald m.v. Det er ikke er ualmindeligt, at der skal opstilles materiel til kildesortering af mellem 5 og 10 affaldsfraktioner.
 
@@ -88,7 +88,7 @@ Samtlige typer af affaldssystemer stiller visse krav til opbevaring på matrikle
 
 >
 
-### Pladskrav {#44b6a6f1-cdf5-4e26-9304-f03bf430c891}
+### 3. Pladskrav {#44b6a6f1-cdf5-4e26-9304-f03bf430c891}
 
 Der er varierende pladskrav forbundet med de enkelte indsamlingssystemer. De enkelte indsamlingssystemer og heraf kommuners krav til kildesortering af husholdningsaffaldet, er ligeledes varierende.
 
@@ -100,7 +100,7 @@ I fællesbebyggelser (etagebyggeri og tæt/-lav-bebyggelse), skal der afhængig 
 
 Ved byggeri i tætte byområder, er det almindeligt, at kommune og bygherre indgår aftale om, at indsamling og kildesortering af husholdningsaffald m.v. kan ske i over- eller underjordiske beholdere placeret på offentlig vej, placeret i umiddelbar nærhed af den bebyggelse, der genererer affaldet.
 
-### Brugerhensyn {#cf35d4fb-7f22-4403-9b39-372cc0b8025b}
+### 4. Brugerhensyn {#cf35d4fb-7f22-4403-9b39-372cc0b8025b}
 
 Bygningsreglementets bestemmelser om affaldssystemer indeholder foruden kravet om etablering af affaldssystemer også en række præciseringer, der skal sikre, at alle brugere kan betjene affaldssystemerne.
 
@@ -142,7 +142,7 @@ For nærmere information om brugergrupperne og de hensyn, der skal tages for de 
 
 Vejledning om BR18 tilgængeligheds krav. Dansk Standard håndbog 186.
 
-### Affaldsskakte i eksisterende byggeri {#9066c486-cccb-4977-a72e-b70d06564b36}
+### 5. Affaldsskakte i eksisterende byggeri {#9066c486-cccb-4977-a72e-b70d06564b36}
 
 Hvis bygherre ønsker at nedlægge affaldsskakte i eksisterende byggeri, skal det dokumenteres, at de hensyn, der fremgår af kapitel 3 i BR18 imødekommes.
 

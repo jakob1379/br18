@@ -11,11 +11,11 @@
 
 ## - Vejledning til undervisningsbygninger
 
-### Undervisningsbygninger {#7c517431-1a58-4d50-be9f-b09c567bd5ba}
+### 3.0 Undervisningsbygninger {#7c517431-1a58-4d50-be9f-b09c567bd5ba}
 
 Tabellerne i dette afsnit beskriver grænseværdierne for lydisolation, støj indendørs fra trafik, støj fra tekniske installationer samt efterklangstid og absorptionsareal. Grænseværdierne er primært gengivet fra SBi-anvisning 218 om lydforhold i undervisnings- og daginstitutionsbygninger.
 
-### Definitioner af rumtyper for undervisningsbygninger {#5036b98b-248e-48ea-8f22-d081436c63b7}
+### 3.1 Definitioner af rumtyper for undervisningsbygninger {#5036b98b-248e-48ea-8f22-d081436c63b7}
 
 **Undervisningsrum** er klasselokaler, faglokaler, auditorier, værksteder, grupperum, gymnastiksale mv. Store undervisningsrum kræver ofte særskilt akustisk projektering. Biblioteker, kontorer, forberedelsesrum, personalerum mv. kan med hensyn til lydbestemmelser behandles som undervisningsrum.
 
@@ -27,7 +27,7 @@ Bygningsreglementets krav om særskilte lydisolerende tiltag mellem undervisning
 
 ###
 
-### Lydisolation for undervisningsbygninger {#127bd002-d895-4fe3-b7c5-41d10afcf285}
+### 3.2 Lydisolation for undervisningsbygninger {#127bd002-d895-4fe3-b7c5-41d10afcf285}
 
 Tabel 3.1 indeholder grænseværdier for luftlydisolation og trinlydniveau i undervisningsbygninger svarende til overholdelse af BR18's lydbestemmelser.
 
@@ -126,7 +126,7 @@ Heldagsklasser, helhedsskoler og indskolingslokaler, der dækker over, at de sam
 </tbody>
 </table>
 
-### Støj indendørs fra trafik i undervisningsbygninger {#b08dc5bc-acf8-4756-80a5-0c3fa42b2575}
+### 3.3 Støj indendørs fra trafik i undervisningsbygninger {#b08dc5bc-acf8-4756-80a5-0c3fa42b2575}
 
 Tabel 3.2 indeholder grænseværdier for trafikstøj i undervisningsbygninger svarende til overholdelse af BR18's lydbestemmelser samt supplerende vejledende grænseværdier for trafikstøj indendørs med åbne vinduer.
 
@@ -229,7 +229,7 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 </tbody>
 </table>
 
-### Støj fra tekniske installationer i undervisningsbygninger {#2304ac12-0b4e-46e7-a2ff-fb4918293a99}
+### 3.4 Støj fra tekniske installationer i undervisningsbygninger {#2304ac12-0b4e-46e7-a2ff-fb4918293a99}
 
 Tabel 3.3 indeholder grænseværdier for støj fra tekniske installationer i undervisningsbygninger svarende til overholdelse af BR18's lydbestemmelser samt supplerende vejledende grænseværdier for lavfrekvent støj og infralyd.
 
@@ -278,7 +278,7 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde By
 </tbody>
 </table>
 
-### Rumakustik i undervisningsbygninger {#36e4855a-6bb4-4abf-9f19-e44479e8114f}
+### 3.5 Rumakustik i undervisningsbygninger {#36e4855a-6bb4-4abf-9f19-e44479e8114f}
 
 Tabel 3.4 indeholder grænseværdier for efterklangstid og absorptionsareal i undervisnings­bygninger svarende til overholdelse af BR18's lydbestemmelser.
 

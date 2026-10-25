@@ -8,13 +8,13 @@
 
 ## Vejledning til brugerbegreb
 
-### Baggrund og målgruppe {#a2be2082-f217-4af4-8c9a-f861e3339532}
+### 0.0.0. Baggrund og målgruppe {#a2be2082-f217-4af4-8c9a-f861e3339532}
 
-### Generelt {#b7acd9bc-0c04-4701-a590-2d069b53ed1a}
+### 1.0.0. Generelt {#b7acd9bc-0c04-4701-a590-2d069b53ed1a}
 
-### Brugerbegrebet set i forhold til BR18 og bygningens anvendelse {#09212d5e-6f56-476d-960a-4b12746ddff9}
+### 2.0.0. Brugerbegrebet set i forhold til BR18 og bygningens anvendelse {#09212d5e-6f56-476d-960a-4b12746ddff9}
 
-### Brugerbegreb {#fdfb9874-73ae-4e54-b615-4ae0460a88d7}
+### 3.0.0. Brugerbegreb {#fdfb9874-73ae-4e54-b615-4ae0460a88d7}
 
 Brugerne kan være alle mennesker, med ingen, mindre eller større funktionsnedsættelser. I begrebsafklaringen af universelt design under FN's Handicapkonventions artikel 2 forstås brugere som *alle*, herunder også personer med handicap. Brugerne i henhold til bygningsreglementet kan være alt fra kørestolsbrugere og gangbesværede, personer med ADHD, syns- eller hørehandicappede, psykisk udviklingshæmmede, børn og ældre, personer med midlertidige funktionsnedsættelser, eller små og meget store personer. Disse brugergrupper, der på ingen måde er udtømmende, kan ofte overlappe. Forskelle blandt mennesker kan påvirkes af alder, køn, størrelse, helbred, træning, kultur, opdragelse og erfaring.
 
@@ -24,10 +24,10 @@ Detailkravene i bygningsreglementets kapitler om indretning og adgangsforhold er
 
 Der kan også hentes mere viden om særlige udfordringer og behov for de enkelte brugergrupper i den internationale standard, DS/ISO 21542:2012, Bygningskonstruktion -- Tilgængelighed til og anvendelighed af det byggede miljø, og vejledningen om tilgængelighedskrav i BR18, når de er holdt op imod DS/ISO 21542, DS-håndbog 186:2018.
 
-### Eksempler på bygningsfunktioner set i forhold til brugere {#d58ca4b2-09f6-4426-8477-299df7f8ba33}
+### 4.0.0. Eksempler på bygningsfunktioner set i forhold til brugere {#d58ca4b2-09f6-4426-8477-299df7f8ba33}
 
-### Eksempel 1 {#f536a095-94b2-4822-b876-bb85061f738c}
+### 4.1.0. Eksempel 1 {#f536a095-94b2-4822-b876-bb85061f738c}
 
-### Eksempel 2 {#e0b35a3f-55fb-4c8f-a2a4-fa2357e42288}
+### 4.2.0. Eksempel 2 {#e0b35a3f-55fb-4c8f-a2a4-fa2357e42288}
 
-### Eksempel 3 {#b57985ce-284a-485b-88a8-77ca7118806a}
+### 4.3.0. Eksempel 3 {#b57985ce-284a-485b-88a8-77ca7118806a}
