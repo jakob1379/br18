@@ -42,7 +42,7 @@ Vejledning om byggesagsbehandling efter BR18 dækker over vejledning om de beste
 
 Bygningsreglementet er en bekendtgørelse, der er udstedt med hjemmel i byggeloven. Ud over de administrative bestemmelser, der gælder for et byggeri, regulerer bygningsreglementet 21 forskellige tekniske emner, der eksempelvis indeholder krav om adgangsforhold, brandforhold og ventilation. Derudover er der en række krav, som særligt knytter sig til den certificerede brandrådgivers eller statikers virke.
 
-[Du kan finde en indholdsfortegnelse for bygningsreglementet her.](http://bygningsreglementet.dk){rel="noopener noreferrer" target="_blank"}
+[Du kan finde en indholdsfortegnelse for bygningsreglementet her.](../../../../){rel="noopener noreferrer" target="_blank"}
 
 ### 2.1. Overgangsperiode {#63f94e0e-bbfc-460b-85e7-dbd00ada0fb7}
 

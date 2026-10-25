@@ -143,7 +143,7 @@ def rel_path_for_url(url: str, source_dir: Path, docs_root: Path) -> str | None:
     if parsed.netloc and parsed.netloc not in SITE_HOSTS:
         return None
 
-    path = canonicalize_asset_path(parsed.path or "", source_dir, docs_root)
+    path = canonicalize_asset_path(parsed.path or ("/" if parsed.netloc else ""), source_dir, docs_root)
     if not path and not parsed.fragment:
         return None
 
