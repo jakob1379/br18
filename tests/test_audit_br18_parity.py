@@ -34,14 +34,20 @@ def local_page(body: str) -> str:
 
 
 class Origin:
-    def __init__(self, pages: dict[str, str]) -> None:
+    def __init__(self, pages: dict[str, str], redirects: dict[str, str] | None = None) -> None:
         self.pages = pages
+        self.redirects = redirects or {}
         self.requests: list[str] = []
         origin = self
 
         class Handler(BaseHTTPRequestHandler):
             def do_GET(self) -> None:
                 origin.requests.append(self.path)
+                if self.path in origin.redirects:
+                    self.send_response(301)
+                    self.send_header("location", origin.redirects[self.path])
+                    self.end_headers()
+                    return
                 body = origin.pages.get(self.path)
                 self.send_response(200 if body is not None else 404)
                 self.send_header("content-type", "text/html; charset=utf-8")
@@ -87,8 +93,8 @@ class AuditTest(unittest.TestCase):
         self.allowlist.write_text("", encoding="utf-8")
         self.report = self.tmp / "report.md"
 
-    def serve(self, pages: dict[str, str]) -> Origin:
-        origin = Origin(pages)
+    def serve(self, pages: dict[str, str], redirects: dict[str, str] | None = None) -> Origin:
+        origin = Origin(pages, redirects)
         self.addCleanup(origin.close)
         return origin
 
@@ -350,6 +356,49 @@ reason = "Fixture: sentence intentionally dropped from the clone."
         self.assertEqual(result.returncode, 0, result.stderr + result.stdout)
         report = self.report.read_text(encoding="utf-8")
         self.assertNotIn("missing_text: Ramper", report)
+
+    def test_allowlist_entry_on_a_guide_root_covers_its_alias_pages(self) -> None:
+        origin = self.guide_site("<h3>1.0 Indledning</h3><h3>2.0 Ramper</h3><p>Ramper skal være jævne.</p>")
+        self.allowlist.write_text(
+            """
+[[exception]]
+page = "/tekniske-bestemmelser/02/vejledninger/guide/"
+kind = "missing_text"
+item = "Guiden indleder."
+reason = "Fixture: sentence intentionally dropped from the guide."
+""",
+            encoding="utf-8",
+        )
+
+        result = self.audit(origin)
+
+        report = self.report.read_text(encoding="utf-8")
+        self.assertEqual(result.returncode, 0, report)
+        self.assertNotIn("missing_text: Guiden indleder.", report)
+
+    def test_link_to_an_origin_redirect_matches_a_clone_link_to_its_target(self) -> None:
+        chapter = "/tekniske-bestemmelser/02/krav/"
+        nav = f'<a href="{chapter}">2</a>'
+        self.corpus.add("", local_page("<p>Forside</p>"))
+        self.corpus.add(
+            "tekniske-bestemmelser/02",
+            local_page('<p>Adgang</p><a href="/tekniske-bestemmelser/02/vejledninger/ny/">Vejledning</a>'),
+        )
+        self.corpus.add("tekniske-bestemmelser/02/vejledninger/ny", local_page("<p>Ny vejledning</p>"))
+        origin = self.serve(
+            {
+                "/": origin_page("<p>Forside</p>", nav),
+                chapter: origin_page('<p>Adgang</p><a href="/Tekniske-bestemmelser/02/Vejledninger/Gammel">Vejledning</a>', nav),
+                "/tekniske-bestemmelser/02/vejledninger/ny/": origin_page("<p>Ny vejledning</p>", nav),
+            },
+            redirects={"/tekniske-bestemmelser/02/vejledninger/gammel/": "/tekniske-bestemmelser/02/vejledninger/ny/"},
+        )
+
+        result = self.audit(origin)
+
+        report = self.report.read_text(encoding="utf-8")
+        self.assertEqual(result.returncode, 0, report)
+        self.assertNotIn("- missing_link:", report)
 
     def test_allowlist_entry_without_reason_is_rejected(self) -> None:
         origin = self.two_page_site()

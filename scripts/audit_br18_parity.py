@@ -324,13 +324,14 @@ def _show_all_html(fetcher: OriginFetcher, url: str, links: list[str]) -> str | 
 
 def crawl(
     fetcher: OriginFetcher, sections: set[str], max_pages: int
-) -> tuple[dict[str, str], dict[str, str], dict[str, str], dict[str, str]]:
-    """Returns (reference html, own html as served on the page's URL, fetch errors, origin 4xx) per page."""
+) -> tuple[dict[str, str], dict[str, str], dict[str, str], dict[str, str], dict[str, str]]:
+    """Returns (reference html, own html as served on the page's URL, redirect alias -> target page, fetch errors, origin 4xx)."""
     seed = SITE + "/"
     todo = deque([seed])
     seen: set[str] = set()
     pages: dict[str, str] = {}
     own: dict[str, str] = {}
+    redirects: dict[str, str] = {}
     errors: dict[str, str] = {}
     origin_broken: dict[str, str] = {}
     while todo and len(pages) < max_pages:
@@ -348,6 +349,8 @@ def crawl(
             continue
         final = canonical_page(normalize_url(rec["final"]) or url)
         page_url = final.split("?", 1)[0]
+        if page_url != url:
+            redirects[url] = page_url
         if page_url != url and page_url in pages:
             continue
         seen.update({final, page_url})
@@ -358,10 +361,10 @@ def crawl(
             pages[page_url] = (None if show_all else _show_all_html(fetcher, final, links)) or rec["html"]
             own[page_url] = rec["html"]
         todo.extend(canonical_page(u) for u in links if "?" not in u and not looks_asset(urlsplit(u).path))
-    return pages, own, errors, origin_broken
+    return pages, own, redirects, errors, origin_broken
 
 
-def _origin_refs(hrefs: list[str], base: str, docs_root: Path) -> tuple[set[str], set[str]]:
+def _origin_refs(hrefs: list[str], base: str, docs_root: Path, redirects: dict[str, str]) -> tuple[set[str], set[str]]:
     pages: set[str] = set()
     assets: set[str] = set()
     for href in hrefs:
@@ -374,6 +377,7 @@ def _origin_refs(hrefs: list[str], base: str, docs_root: Path) -> tuple[set[str]
         if looks_asset(path):
             assets.add(asset_to_doc(path, docs_root).relative_to(docs_root).as_posix())
         else:
+            path = urlsplit(redirects.get(canonical_page(url), url)).path
             pages.add(page_to_doc(path, docs_root).relative_to(docs_root).as_posix())
     return pages, assets
 
@@ -406,7 +410,8 @@ def _local_view(doc: Path, docs_root: Path, site_dir: Path) -> tuple[ContentPars
 
 
 def compare(
-    url: str, origin_html: str, docs_root: Path, site_dir: Path, root_url: str | None = None, own_html: str | None = None
+    url: str, origin_html: str, docs_root: Path, site_dir: Path, root_url: str | None = None, own_html: str | None = None,
+    redirects: dict[str, str] | None = None,
 ) -> list[tuple[str, str]]:
     """root_url: an alias's guide root; its built page supplies the text, links count from both pages.
     own_html: what the origin shows on the alias's own URL (its own section open); the subpage must keep that text."""
@@ -441,8 +446,8 @@ def compare(
         if own_html:
             shown = words(ESCAPED_BR.sub(" ", "".join(parse(own_html, "main", None, ORIGIN_SKIP_CLASSES).text)))
             missing_text += [f"(own page) {t}" for t in text_diff(shown, own_words)[0]]
-    origin_pages, origin_files = _origin_refs(origin.links, url, docs_root)
-    origin_images = _origin_refs(origin.images, url, docs_root)[1]
+    origin_pages, origin_files = _origin_refs(origin.links, url, docs_root, redirects or {})
+    origin_images = _origin_refs(origin.images, url, docs_root, redirects or {})[1]
     diffs = [("missing_text", t) for t in missing_text] + [("extra_text", t) for t in extra_text]
     diffs += [("missing_link", f"docs/{p}") for p in sorted(origin_pages - local_pages - excluded)]
     diffs += [("missing_image", f"docs/{p}") for p in sorted(origin_images - local_images)]
@@ -475,10 +480,17 @@ def load_allowlist(path: Path) -> list[dict]:
     return entries
 
 
-def apply_allowlist(url: str, diffs: list[tuple[str, str]], allowlist: list[dict]) -> tuple[list[tuple[str, str]], int]:
+def apply_allowlist(
+    url: str, diffs: list[tuple[str, str]], allowlist: list[dict], root_url: str | None = None
+) -> tuple[list[tuple[str, str]], int]:
+    """An alias's items other than its (own page) ones are its guide root's, so the root's entries cover them too."""
     path = urlsplit(url).path
-    rules = [(e["kind"], e.get("item")) for e in allowlist if e["page"] == path]
-    kept = [(k, i) for k, i in diffs if not any(k == rk and ri in (None, i) for rk, ri in rules)]
+    root = urlsplit(root_url).path if root_url else None
+    rules = [(e["kind"], e.get("item"), e["page"] == path) for e in allowlist if e["page"] in (path, root)]
+    kept = [
+        (k, i) for k, i in diffs
+        if not any(k == rk and ri in (None, i) and (own or not i.startswith("(own page) ")) for rk, ri, own in rules)
+    ]
     return kept, len(diffs) - len(kept)
 
 
@@ -556,7 +568,7 @@ def main() -> int:
         ap.error(str(exc))
     fetcher = OriginFetcher(args.origin, Path(args.cache_dir), args.delay)
     try:
-        pages, own, errors, origin_broken = crawl(fetcher, set(sections), args.max_pages)
+        pages, own, redirects, errors, origin_broken = crawl(fetcher, set(sections), args.max_pages)
     finally:
         fetcher.close()
     results: dict[str, list[tuple[str, str]]] = {}
@@ -566,8 +578,8 @@ def main() -> int:
         if _built_page(page_to_doc(urlsplit(r).path, docs_root), docs_root, site_dir).exists()
     }
     for url, html_text in pages.items():
-        diffs = compare(url, html_text, docs_root, site_dir, roots.get(url), own.get(url))
-        results[url], allowed[url] = apply_allowlist(url, diffs, allowlist)
+        diffs = compare(url, html_text, docs_root, site_dir, roots.get(url), own.get(url), redirects)
+        results[url], allowed[url] = apply_allowlist(url, diffs, allowlist, roots.get(url))
     out = Path(args.output)
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(render_report(results, allowed, errors, origin_broken, sections, roots), encoding="utf-8")
