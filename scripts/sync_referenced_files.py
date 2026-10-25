@@ -43,7 +43,7 @@ def resolve_local_target(source: Path, docs_root: Path, target: str) -> tuple[Pa
             return None
         origin_path = canonicalize_asset_path(parsed.path, docs_root)
     else:
-        target_path = target.split("#", 1)[0]
+        target_path = parsed.path
         if not target_path:
             return None
         if target_path.startswith("/"):
