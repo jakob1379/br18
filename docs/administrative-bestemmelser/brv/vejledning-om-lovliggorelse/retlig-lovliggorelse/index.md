@@ -32,7 +32,7 @@
 
 ### Særligt om stikprøvekontrol efter BR18
 
-### @@PROTECTED_17@@s bestemmelser
+### Byggelovens bestemmelser
 
 ### Kommunalbestyrelsen som bygningsmyndighed
 

@@ -52,7 +52,8 @@ I stikprøvekontrollen skal kommunerne bl.a. vurdere, om de udtrukne byggesager 
 
 ### Stikprøvekontrol - Afklaring af bestemmelser og brugergruppe
 
-Til den enkelte byggesag følger en erklæring fra ansøger i forbindelse med færdigmeldingen om, at det færdige byggeri er i overensstemmelse med byggetilladelsen og bygningsreglementet^5^.
+Til den enkelte byggesag følger en erklæring fra ansøger i forbindelse med færdigmeldingen om, at det færdige byggeri er i overensstemmelse med byggetilladelsen og bygningsreglementet^5^<br>
+.
 
 Det indledende skridt i kommunens kontrol er at afklare, hvilke bestemmelser i bygningsreglementet den pågældende byggesag er omfattet af, når det drejer sig om tilgængelighed, samt brugergruppens sammensætning. I forbindelse med afklaring af, hvilke bestemmelser byggesagen er omfattet af, anvendes oversigtsnøglen i tabel 1. Oversigtsnøglen oplister de bestemmelser, der er relevante i forhold til fire overordnede bygningstyper, henholdsvis boligbebyggelse/boliger, offentligt tilgængelig bygninger, bygninger med arbejdspladser samt hotel, kro og lignende. De relevante bestemmelser er oplistet tematisk ud fra formålet med bestemmelserne, f.eks. at 'kunne komme frem til en funktion i en bygning' eller at 'kunne komme på toilettet'.
 

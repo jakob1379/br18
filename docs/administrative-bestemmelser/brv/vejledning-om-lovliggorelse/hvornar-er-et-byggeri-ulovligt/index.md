@@ -48,7 +48,7 @@ Et byggeri er formelt ulovligt, hvis det er opført uden, at der på forhånd er
 
 ### Særligt om stikprøvekontrol efter BR18
 
-### @@PROTECTED_20@@s bestemmelser
+### Byggelovens bestemmelser
 
 ### Kommunalbestyrelsen som bygningsmyndighed
 

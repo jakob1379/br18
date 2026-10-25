@@ -54,7 +54,7 @@ Fra den 1. januar 2020 til den 30. juni 2022 er der en overgangsperiode, hvor de
 
 [2.2.1.](../2_2_1_byggelovens-formaal/)
 
-### @@PROTECTED_22@@s formål og anvendelsesområde
+### Byggelovens formål og anvendelsesområde
 
 [2.2.2.](../2_2_2_bebyggelsesbegrebet/)
 

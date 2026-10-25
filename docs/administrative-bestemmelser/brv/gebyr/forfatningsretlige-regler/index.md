@@ -32,7 +32,7 @@
 
 Opkrævning af skatter og opkrævning af gebyrer er juridisk set ikke det samme.    Grundlovens § 43 bestemmer, at der ikke må opkræves nogen form for skat, uden at det er bestemt ved lov. En skat er i denne forbindelse defineret som en ydelse til det offentlige, som ikke udgør betaling for en særlig modydelse.     Uden for begrebet skat falder betalinger, som skal dække omkostningerne ved en modtaget ydelse, hvilket fx drejer sig om offentlige ydelser, hvor man betaler et gebyr for en tilladelse. Her er det afgørende, at gebyrindtægterne ikke må overstige de samlede omkostninger, som kommunen har haft i forbindelse med at behandle tilladelsen.     Så snart gebyrindtægterne overstiger omkostningerne, vil der være tale om en skat, hvilket der ikke er hjemmel til at opkræve i henhold til byggelovgivningen.     Af hensyn til de ovenstående forfatningsretlige regler om skat, skal kommunen kunne dokumentere, at gebyrindtægterne ikke overstiger de samlede omkostninger, som kommunen har i forbindelse med varetagelsen af byggelovsområdet og de opgaver, som kommunen har i medfør af dens status som bygningsmyndighed. Det er derfor ikke tilstrækkeligt, at disse opgørelser alene foretages skønsmæssigt.     Ved beregningen af de samlede omkostninger kan kommunen indregne udgifter af både direkte og indirekte udgifter, jf. afsnit 15. [3.](../byggelovens-regler/)
 
-### @@PROTECTED_20@@s regler for opkrævning af byggesagsgebyrer
+### Byggelovens regler for opkrævning af byggesagsgebyrer
 
 [4.](../byggesagsbehandling/)
 

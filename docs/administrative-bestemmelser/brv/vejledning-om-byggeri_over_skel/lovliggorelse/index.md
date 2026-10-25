@@ -50,4 +50,4 @@ Hvis forholdet ikke kan lovliggøres retligt, må der meddeles påbud om fysisk 
 
 En eventuel tvist mellem de to ejere, eksempelvis om skellets placering, er privatretlig og skal i sidste ende afgøres af domstolene.
 
-### @@PROTECTED_23@@
+### Udstykningsloven {#f9b11c26-a215-48c6-ad79-4cc09287f3dc}

@@ -78,7 +78,7 @@ Ved tvivl kan det være en fordel som bygningsejer at involvere en håndværker 
 
 Ombygninger og andre forandringer omfattet af BR18, [§ 5, stk. 1](/administrative-bestemmelser/krav/4_6/) nr. 3 og 4, må ikke medføre en udvidelse af etagearealet. Etagearealet er her det samlede etageareal, der i denne forbindelse forstås som det areal, der opstår ved, at arealet af samtlige etager og al anden bebyggelse på grunden sammenlægges. Dette omfatter bl.a. arealet for kældre, åbne altaner, åbne tagterrasser mv. Det samlede etageareal er ikke nødvendigvis det samme som det etageareal, der indgår i beregningen af bebyggelsesprocenten, hvor der her er mulighed for en række fradrag, jf. BR18, [§ 455](/ovrige-bestemmelser/23/krav/). Hvordan det samlede etageareal beregnes, er nærmere beskrevet i bygningsreglementets *[vejledning til kapitel 8 - byggeret og helhedsvurdering, kapitel 20 – ubebyggede arealer ved bebyggelse og kapitel 23 – beregningsregler.](../../../../tekniske-bestemmelser/08/vejledninger/byggeret_helhedsvurdering_ubebyggede_beregningsregler/)*
 
-* *
+
 
 ### 1.1.4 Væsentlig anvendelsesændring
 

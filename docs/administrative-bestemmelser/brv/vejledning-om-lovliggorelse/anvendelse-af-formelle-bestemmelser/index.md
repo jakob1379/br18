@@ -36,7 +36,7 @@ Et byggeri kan være formelt ulovligt, hvis ikke der er søgt om byggetilladelse
 
 Det betyder, at såfremt det forhold, sagen angår, rent formelt ikke længere er ulovligt, skal der ikke i forbindelse med lovliggørelsen stilles krav om ansøgning om byggetilladelse eller om fuld teknisk byggesagsbehandling. Det kan være, fordi det ikke længere kræver en tilladelse eller en dispensation fra kommunalbestyrelsen at opføre byggeriet, eller fordi det forhold, sagen angår, ikke længere skal påses af kommunalbestyrelsen ved byggesagsbehandlingen.
 
-Ekse*mpel: Et enfamiliehus, der er opført uden byggetilladelse i 2006, skal lovliggøres i 2018. Før 2008 skulle der foretages en fuld teknisk byggesagsbehandling, men reglerne blev ændret, og man har siden 2008 ikke skullet foretage teknisk byggesagsbehandling af byggeri af begrænset kompleksitet, som f.eks. fritliggende enfamiliehuse. Når bygningsejeren skal have byggeriet lovliggjort, skal han i medfør af BR18, §§ 10 og 11 indsende samtlige oplysninger af relevans for hans byggesag, men kommunalbestyrelsen skal ifølge BR18 kun sagsbehandle de bebyggelsesregulerende forhold. Et almindeligt enfamiliehus vil typisk skulle indplaceres i brandklasse 1, forudsat, at byggeriet overholder de præaccepterede løsninger. Hvis der derimod er tale om et enfamiliehus over 2 etager afviger byggeriet fra de præaccepterede løsninger, og byggeriet skal efter en konkret vurdering indplaceres i brandklasse 2-4. *
+Ekse*mpel: Et enfamiliehus, der er opført uden byggetilladelse i 2006, skal lovliggøres i 2018. Før 2008 skulle der foretages en fuld teknisk byggesagsbehandling, men reglerne blev ændret, og man har siden 2008 ikke skullet foretage teknisk byggesagsbehandling af byggeri af begrænset kompleksitet, som f.eks. fritliggende enfamiliehuse. Når bygningsejeren skal have byggeriet lovliggjort, skal han i medfør af BR18, §§ 10 og 11 indsende samtlige oplysninger af relevans for hans byggesag, men kommunalbestyrelsen skal ifølge BR18 kun sagsbehandle de bebyggelsesregulerende forhold. Et almindeligt enfamiliehus vil typisk skulle indplaceres i brandklasse 1, forudsat, at byggeriet overholder de præaccepterede løsninger. Hvis der derimod er tale om et enfamiliehus over 2 etager afviger byggeriet fra de præaccepterede løsninger, og byggeriet skal efter en konkret vurdering indplaceres i brandklasse 2-4.*
 
 I en sag, hvor der er konstateret et ulovligt forhold, skal kommunalbestyrelsen altså tage udgangspunkt i de formelle bestemmelser, der er gældende på lovliggørelsestidspunktet, når det skal vurderes, i hvilket omfang det ulovlige forhold skal byggesagsbehandles.
 
@@ -56,7 +56,7 @@ Det er vigtigt at understrege, at byggearbejder, der nu kan behandles efter lemp
 
 ### Særligt om stikprøvekontrol efter BR18
 
-### @@PROTECTED_17@@s bestemmelser
+### Byggelovens bestemmelser
 
 ### Kommunalbestyrelsen som bygningsmyndighed
 

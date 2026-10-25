@@ -32,7 +32,7 @@
 
 [3.](../byggelovens-regler/)
 
-### @@PROTECTED_20@@s regler for opkrævning af byggesagsgebyrer
+### Byggelovens regler for opkrævning af byggesagsgebyrer
 
 [4.](./)
 

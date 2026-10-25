@@ -40,7 +40,7 @@ Også ulovligt byggeri, der er opført før BR18 kan udtages til stikprøvekontr
 
 I byggesager, hvor der ved stikprøvekontrollen er konstateret et ulovligt forhold, er kommunalbestyrelsen i medfør af BR18, § 46 forpligtet til at gennemgå den indsendte dokumentation og påse, at byggeriet overholder de for byggeriet relevante krav i bygningsreglementet. Det betyder, at kommunalbestyrelsen som bygningsmyndighed skal føre en egentlig kontrol med, at det ulovlige forhold er lovliggjort inden sagen kan afsluttes.
 
-### @@PROTECTED_17@@s bestemmelser
+### Byggelovens bestemmelser
 
 ### Kommunalbestyrelsen som bygningsmyndighed
 

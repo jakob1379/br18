@@ -24,7 +24,7 @@
 
 ### Skorstene og kravet om byggetilladelse
 
-### @@PROTECTED_17@@s anvendelsesområde
+### Byggelovens anvendelsesområde
 
 Det fremgår af [byggelovens § 2, stk. 1, litra a](https://www.retsinformation.dk/eli/lta/2016/1178), at loven finder anvendelse ved opførelse af ny bebyggelse og tilbygning til bebyggelse. Tilbygning omfatter ny bebyggelse, der sammenbygges med en eksisterende bygning samt etablering af nye bygningsdele. Som eksempel kan nævnes opførelse af f.eks. altaner, karnapper og skorstene.
 

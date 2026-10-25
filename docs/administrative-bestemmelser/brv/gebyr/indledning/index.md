@@ -40,7 +40,7 @@ Lovændringen og de tilhørende bestemmelser i bygningsreglementet trådte i kra
 
 [3.](../byggelovens-regler/)
 
-### @@PROTECTED_21@@s regler for opkrævning af byggesagsgebyrer
+### Byggelovens regler for opkrævning af byggesagsgebyrer
 
 [4.](../byggesagsbehandling/)
 

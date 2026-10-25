@@ -28,7 +28,7 @@
 
 ### Lovliggørelsessager
 
-### @@PROTECTED_17@@
+### Udstykningsloven {#f9b11c26-a215-48c6-ad79-4cc09287f3dc}
 
 Aftaler om opførelse af bebyggelse over skel kan være i strid med [udstykningsloven](https://www.retsinformation.dk/eli/lta/2024/53), som henhører under Geodatastyrelsen.
 
