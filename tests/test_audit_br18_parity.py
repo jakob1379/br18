@@ -244,6 +244,7 @@ class AuditTest(unittest.TestCase):
             local_page(
                 "<h1>Anvendelsesområde</h1><p>* *</p><p>Reglementet gælder for alt byggeri. **</p>"
                 '<ul><li><a href="/administrative-bestemmelser/brv/">Vejledning om anvendelse</a></li></ul>'
+                "<p>&lt;br/&gt;</p>"
             ),
         )
 
@@ -254,6 +255,25 @@ class AuditTest(unittest.TestCase):
         self.assertIn("### https://www.bygningsreglementet.dk/administrative-bestemmelser/krav/", report)
         self.assertIn("extra_text: * *", report)
         self.assertIn("extra_text: **", report)
+        self.assertIn("extra_text: <br/>", report)
+
+    def test_origin_escaped_line_break_matches_a_rendered_line_break(self) -> None:
+        origin = self.two_page_site()
+        guides = '<ul><li><a href="/administrative-bestemmelser/brv/">Vejledning om anvendelse</a></li></ul>'
+        origin.pages["/administrative-bestemmelser/krav/"] = origin_page(
+            "<h1>Anvendelsesområde</h1><p>Reglementet gælder&lt;br/&gt;for alt&lt;br&gt;byggeri. &lt;BR /&gt;Ingen undtagelser.</p>"
+            f'<nav class="accordion__nav">{guides}</nav>'
+        )
+        self.corpus.add(
+            "administrative-bestemmelser",
+            local_page(f"<h1>Anvendelsesområde</h1><p>Reglementet gælder<br/>for alt<br>byggeri. <br />Ingen undtagelser.</p>{guides}"),
+        )
+
+        result = self.audit(origin, "--section", "S1")
+
+        report = self.report.read_text(encoding="utf-8")
+        self.assertEqual(result.returncode, 0, report)
+        self.assertNotIn("<br", report.lower())
 
     def test_differently_spelled_links_to_one_page_are_fetched_once(self) -> None:
         origin = self.two_page_site()
