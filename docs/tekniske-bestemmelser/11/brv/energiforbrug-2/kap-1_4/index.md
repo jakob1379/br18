@@ -133,9 +133,9 @@ Når bygninger projekteres, skal der tages højde for en række forhold i forbin
 
 > d\) Hvis kuldebroer ikke kan undgås, skal kuldebroerne minimeres, så de ikke medfører problemer med fugt og kuldebroerne skal indregnes i energiberegningerne.
 
--{target="_blank"}
+-  [Gå til krav om begrænsning af varmetab (§ 255)](../../../krav/251_256#ac3ec9cc-582d-4399-b58f-a5a7253bfa32){target="_blank"}
 
-### Forudsætninger for beregning af bygningers varmetab {#ac3ec9cc-582d-4399-b58f-a5a7253bfa32}
+### 1.4. Forudsætninger for beregning af bygningers varmetab {#515f7ad5-a193-4cbe-9c8f-f21e6f8edac6}
 
 Når energiberegningerne i henhold til bygningsreglementets krav gennemføres er der en række forhold, der skal iagttages.
 
@@ -557,7 +557,7 @@ SBi-Anvisning 213 Bygningers energibehov
 
 Denne anvisning beskriver metoden til beregning af bygningers energibehov i henhold til bygningsreglementets energiramme.
 
-#### http://www.anvisninger.dk
+#### http://www.anvisninger.dk [](){target="_blank"}
 
 ### 4.0. Ombygninger og udskiftninger af bygningsdele {#667be8d0-d9db-472e-addd-bc927954fa7c}
 
@@ -707,7 +707,7 @@ Energiguide for fredede og bevaringsværdige huse, Bygningskultur Danmark 2019
 
 En energiguide, som i et let forståeligt sprog uden indforstået teknisk jargon klæder husejere på til at gøre deres huse mere energivenlige - uden at gå på kompromis med husets historiske og kulturelle kvaliteter.
 
-#### [Se energiguiden her](https://historiskehuse.dk/produkt/energiguide-for-fredede-og-bevaringsvaerdige-huse/){target="_blank"}
+#### Se energiguiden her [](https://historiskehuse.dk/produkt/energiguide-for-fredede-og-bevaringsvaerdige-huse/){target="_blank"}
 
 [![](../../../../../assets/img/linkbox/info_linkbox.svg)](# "#title")
 
@@ -996,4 +996,5 @@ Målerdataene sammenholdes med vejrdata for lufttemperatur og soltilskud fx med 
 *Funktionsafprøvning*
 
 Bygningsautomatikken skal funktionsafprøves ifølge bygningsreglementets §296. Funktionsafprøvningen skal gennemføres, så det sikres, at bygningsautomatikken er korrekt installeret og virker efter hensigten. Se mere om funktionsafprøvning i bygningsreglementets vejledning om funktionsafprøvning.
+
 

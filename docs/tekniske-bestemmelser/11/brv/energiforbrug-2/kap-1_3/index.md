@@ -113,7 +113,7 @@ Visse typer af rum og bygninger har specielle vilkår, der retfærdiggør, at de
 
 -  [Gå til krav om rum og bygninger med særlige bestemmelser (§ 254)](../../../krav/251_256#ac3ec9cc-582d-4399-b58f-a5a7253bfa32){target="_blank"}
 
-### Begrænsning af varmetab {#ac3ec9cc-582d-4399-b58f-a5a7253bfa32}
+### 1.3. Begrænsning af varmetab {#cf5860b6-bc99-4151-85ee-cb008ec772b3}
 
 Når bygninger projekteres, skal der tages højde for en række forhold i forbindelse med projektering og udførelse. Konstruktionerne skal beskyttes mod fugt, vind og kuldebroer, da det forøger varmetabet væsentligt.
 
@@ -996,4 +996,5 @@ Målerdataene sammenholdes med vejrdata for lufttemperatur og soltilskud fx med 
 *Funktionsafprøvning*
 
 Bygningsautomatikken skal funktionsafprøves ifølge bygningsreglementets §296. Funktionsafprøvningen skal gennemføres, så det sikres, at bygningsautomatikken er korrekt installeret og virker efter hensigten. Se mere om funktionsafprøvning i bygningsreglementets vejledning om funktionsafprøvning.
+
 
