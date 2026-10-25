@@ -112,7 +112,7 @@
 
 ## Dokumentation af bærende konstruktioner (§ 494 - § 505)
 
-[Vejledning til BR18 kapitel 28 - Dokumentation af bærende konstruktioner [§498](/ovrige-bestemmelser/28/krav/494_505/), §499 og [§503](/ovrige-bestemmelser/28/krav/)](../../../../ovrige-bestemmelser/28/brv/#vejledning-til-kapitel-28-dokumentation-af-baerende-konstruktioner){rel="noopener" target="_blank"}
+[Vejledning til BR18 kapitel 28 - Dokumentation af bærende konstruktioner [§498](/ovrige-bestemmelser/28/krav/494_505/), §499 og [§503](/ovrige-bestemmelser/28/krav/)](../../../../ovrige-bestemmelser/28/brv/vejledning-til-kapitel-28-dokumentation-af-baerende-konstruktioner/vejledning-til-kapitel-28-dokumentation-af-baerende-konstruktioner/#f902c8c2-1a23-444e-ab8e-222f3e05be2d){rel="noopener" target="_blank"}
 
 [SBi-anvisninger](../../../../ovrige-bestemmelser/28/brv/sbi_anvisning/){rel="noopener noreferrer" target="_blank"}
 
