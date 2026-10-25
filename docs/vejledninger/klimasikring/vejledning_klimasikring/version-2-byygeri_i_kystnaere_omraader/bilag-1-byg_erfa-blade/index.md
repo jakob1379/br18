@@ -2,14 +2,14 @@
 
 ## Se alle vejledninger om Vejledning om klimasikring
 
-- [](../../faq)
-- [Vejledning om byggeri i kystnære områder - til bygherrer vedrørende sikring mod stormflod og vandstigninger (opdateret den 1. juli 2023)](..)
+- [](../../faq/)
+- [Vejledning om byggeri i kystnære områder - til bygherrer vedrørende sikring mod stormflod og vandstigninger (opdateret den 1. juli 2023)](../)
 
 ## Vejledning om byggeri i kystnære områder - til bygherrer vedrørende sikring mod stormflod og vandstigninger (opdateret den 1. juli 2023)
 
-### Forord
+### Forord {#08c72ebd-01f7-4a4c-aa26-fb5f9a474a8d}
 
-### Indledning
+### Indledning {#2e7d5587-dd4b-4621-822f-3b7f9a639525}
 
 ### 1.0. Byggetekniske regler og vejledninger {#2285a487-1d03-4122-90ef-239a56e9b213}
 

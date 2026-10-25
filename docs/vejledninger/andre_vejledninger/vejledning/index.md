@@ -12,4 +12,3 @@
 - [Vejledning om Tiny Houses](vejledning-om-tiny-houses/)
 - [Vejledning om byggeskadeforsikring](byggeskadeforsikring/)
 - [Vejledning til bekendtgørelse om forberedelse til og etablering af ladestandere i forbindelse med bygninger (ladestanderbekendtgørelsen)](vejledning-om-laderstander/)
-

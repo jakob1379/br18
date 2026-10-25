@@ -1,14 +1,48 @@
 # Bilag 3: Tabeller til kapitel 30 Kontrol af dokumentation for og udførelse af bærende konstruktioner og brandforhold
 
-## Tabel 1 – Mindstekrav til typer af kontrol afhængig af brand- og konstruktionsklassen, jf. §§ 526 og 526 a
+## Tabel 1 – Mindstekrav til typer af kontrol afhængig af brand- og konstruktionsklassen, jf. §§ 526 og 526 a {#3498d4bb-6317-4085-8a97-18bc8fae2ab3}
 
-|  |  |  |  |
-|:-------------------------|:------------|:---------------|:----------------|
-| **Brand- eller konstruktionsklasse** | **Egenkontrol** | **Uafhængig kontrol** | **Tredjepartskontrol** |
-| 1 | X |  |  |
-| 2 | X | X ¹ ² |  |
-| 3 | X | X |  |
-| 4 | X | X | X³ |
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr>
+<td><strong>Brand- eller konstruktionsklasse</strong><br />
+</td>
+<td><strong>Egenkontrol</strong></td>
+<td><strong>Uafhængig kontrol</strong></td>
+<td><strong>Tredjepartskontrol</strong></td>
+</tr>
+<tr>
+<td>1</td>
+<td>X</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>X</td>
+<td>X ¹ ²</td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>X</td>
+<td>X</td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td>X</td>
+<td>X</td>
+<td>X³</td>
+</tr>
+</tbody>
+</table>
 
 1\) Uafhængig kontrol af brandtekniske dokumentation og udførelse af brandsikringstiltag i brandklasse 2
 
@@ -24,7 +58,7 @@ Der skal foretages uafhængig kontrol af dokumentationen vedrørende:
 
 For den øvrige del af dokumentationen kan uafhængig kontrol udføres af personer, der ikke har medvirket ved udarbejdelsen af den pågældende dokumentation.
 
-Den uafhængige kontrol af udførelsen kan erstattes af en "uafhængig kontrol af dokumentation af egenkontrol af udførelsen" for brandsikringstiltag, der udføres i et bygningsafsnit, henført til risikoklasse 1 og 2. Dette betyder, at egenkontrollen skal dokumenteres i en kontrolrapport, der efterfølgende skal kontrolleres af en person, der ikke har medvirket i udførelsen af det pågældende brandsikringstiltag.
+Den uafhængige kontrol af udførelsen kan erstattes af en ”uafhængig kontrol af dokumentation af egenkontrol af udførelsen” for brandsikringstiltag, der udføres i et bygningsafsnit, henført til risikoklasse 1 og 2. Dette betyder, at egenkontrollen skal dokumenteres i en kontrolrapport, der efterfølgende skal kontrolleres af en person, der ikke har medvirket i udførelsen af det pågældende brandsikringstiltag.
 
 Den uafhængige kontrol af dokumentation kan for projektering af brandsikringstiltag udføres af en person, der ikke har medvirket ved projekteringen af det pågældende brandsikringstiltag.
 
@@ -42,7 +76,7 @@ For den øvrige del af dokumentationen for projektering af de bærende konstrukt
 
 Der skal foretages uafhængig kontrol af "udførelsesgrundlaget for arbejdet" af en person, der ikke medvirker ved udførelsen af de bærende konstruktioner. For den øvrige del af udførelsen kan den uafhængige kontrol udføres af personer, der ikke har medvirket ved udførelsen af det pågældende kontrolafsnit, jf. DS/EN 1990 Projekteringsgrundlag for bærende konstruktioner, med tilhørende DS/EN 1990 DK NA.
 
-Den uafhængige kontrol af udførelsen kan erstattes af en "uafhængig kontrol af dokumentation af egenkontrol af udførelsen", jf. DS 1140, Udførelse af bærende konstruktioner – Almen kontrol for bærende konstruktioner, der indgår i følgende byggerier:
+Den uafhængige kontrol af udførelsen kan erstattes af en ”uafhængig kontrol af dokumentation af egenkontrol af udførelsen”, jf. DS 1140, Udførelse af bærende konstruktioner – Almen kontrol for bærende konstruktioner, der indgår i følgende byggerier:
 
 –med et areal på højst 300 m2, og
 
@@ -70,16 +104,14 @@ Tredjepartskontrol af projektering og udførelse af brandsikringstiltag omfatter
 
 –Dokumentkontrollen af projekteringen og udførelsen af brandsikringstiltag omfatter den øvrige kontroldokumentation for den uafhængige kontrol.
 
-  [](#156f5746-c9f7-4d30-b5cb-3c53516b2f75)
-
 ## Tabel 2a - Mindstekrav til niveau af uafhængig kontrol af dokumentation for de bærende konstruktioner i forhold til konstruktionsklassen (KK), jf. § 527 {#156f5746-c9f7-4d30-b5cb-3c53516b2f75}
 
-## Tabel 2b – Mindstekrav til niveau af uafhængig kontrol af bærende konstruktioner som udført i forhold til konstruktionsklassen (KK), jf. § 527
+## Tabel 2b – Mindstekrav til niveau af uafhængig kontrol af bærende konstruktioner som udført i forhold til konstruktionsklassen (KK), jf. § 527 {#503eb87f-83f9-4056-b018-2ae3e00ca944}
 
-## Tabel 3 - Mindstekrav til niveau af tredjepartskontrol af dokumentation for de bærende konstruktioner for konstruktionsklasse 4, jf. § 527
+## Tabel 3 - Mindstekrav til niveau af tredjepartskontrol af dokumentation for de bærende konstruktioner for konstruktionsklasse 4, jf. § 527 {#b2a94805-0a77-4a30-9e7c-9747e119a6c4}
 
-## Tabel 4a – Mindstekrav til niveau af uafhængig kontrol af den brandtekniske dokumentation i forhold til brandklassen (BK), jf. § 527
+## Tabel 4a – Mindstekrav til niveau af uafhængig kontrol af den brandtekniske dokumentation i forhold til brandklassen (BK), jf. § 527 {#70e9033b-e54d-4d70-a177-b79123afcc9a}
 
-## Tabel 4b – Mindstekrav til niveau af uafhængig kontrol af udførelsen af brandsikringstiltag i forhold til risikoklasse (RK) jf. § 527
+## Tabel 4b – Mindstekrav til niveau af uafhængig kontrol af udførelsen af brandsikringstiltag i forhold til risikoklasse (RK) jf. § 527 {#e3483ff7-5913-4734-9b94-a2e60160e9ad}
 
-## Tabel 5 – Mindstekrav til niveau af tredjepartskontrol af den brandtekniske dokumentation for brandklasse 4, jf. § 527
+## Tabel 5 – Mindstekrav til niveau af tredjepartskontrol af den brandtekniske dokumentation for brandklasse 4, jf. § 527 {#5c07e011-ff1c-4bed-a720-25d93fa60d9b}

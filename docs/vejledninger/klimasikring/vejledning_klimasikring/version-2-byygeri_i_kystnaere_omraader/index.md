@@ -2,12 +2,12 @@
 
 ## Se alle vejledninger om Vejledning om klimasikring
 
-- [](../faq)
-- [Vejledning om byggeri i kystnære områder - til bygherrer vedrørende sikring mod stormflod og vandstigninger (opdateret den 1. juli 2023)](.)
+- [](../faq/)
+- [Vejledning om byggeri i kystnære områder - til bygherrer vedrørende sikring mod stormflod og vandstigninger (opdateret den 1. juli 2023)](./)
 
 ## Vejledning om byggeri i kystnære områder - til bygherrer vedrørende sikring mod stormflod og vandstigninger (opdateret den 1. juli 2023)
 
-### Forord
+### Forord {#08c72ebd-01f7-4a4c-aa26-fb5f9a474a8d}
 
 Vejledningens formål er at identificere og beskrive fokus for den lovgivning, der har til formål at nedbringe risikoen for skader på bygninger i kystnære områder, primært relateret til stormflod og vandstigninger. Desuden præsenteres et udvalg af kendt og tilgængelig viden om de øvrige forhold i relation til stormflod og vandstigninger, som en bygherre i kystnære områder bør orientere sig indenfor.
 
@@ -25,13 +25,13 @@ Vejledningen er oprindeligt udarbejdet af Statens Byggeforskningsinstitut SBi so
 
  
 
-### Indledning
+### Indledning {#2e7d5587-dd4b-4621-822f-3b7f9a639525}
 
 Vejledningen retter sig mod bygherrer i forbindelse med nybyggeri, om- og tilbygninger i kystnære områder. Den behandler de forhold, der bør overvejes for at imødegå udfordringer i forbindelse med vandstigninger og stormflod. Konkrete klimatilpasningsløsninger, som fx kommuner og forsyninger sætter i værk for at mindske sandsynligheden for vand på terræn, kan fx ses under beskrivelser af lokal håndtering af regnvand på  [LAR i Danmark](http://www.laridanmark.dk/){rel="noopener noreferrer" target="_blank"}, herunder [WSUD-Danmark](http://www.wsud-denmark.com/){rel="noopener noreferrer" target="_blank"} og [Dimensionering af LAR anlæg](http://www.laridanmark.dk/dimensionering-af-lar-anlaeg/31582){rel="noopener noreferrer" target="_blank"}.
 
 Vejledningen vedrører alene bygninger omfattet af bygningsreglementet.
 
-Faren for vandstigninger og stormflod fremgår af oversvømmelseskort på hjemmesiderne [Klimatilpasning.dk](http://www.klimatilpasning.dk/){rel="noopener noreferrer" target="_blank"} og [Kyst.dk ](https://kyst.dk/)
+Faren for vandstigninger og stormflod fremgår af oversvømmelseskort på hjemmesiderne [Klimatilpasning.dk](http://www.klimatilpasning.dk/){rel="noopener noreferrer" target="_blank"} og [Kyst.dk](https://kyst.dk/) 
 
 Disse kort viser, hvor de kraftige vandstandsstigninger kan forekomme, under kraftige storme, som rammer landet med mellemrum. Ligeledes er statistikker for ekstreme højvandstande i de danske farvande udarbejdet af [Kystdirekoratet](http://kysterne.kyst.dk/hoejvandsstatistikker.html){rel="noopener noreferrer" target="_blank"}. En sådan viden er i høj grad knyttet til højdemodeller, som fx på værktøjet [Havvand på Land](https://kamp.klimatilpasning.dk/frahavet/havvandpaaland?value=havvandpaaland_0){rel="noopener" target="_blank"} på Klimatilpasning.dk.
 
@@ -39,15 +39,13 @@ Detaljerede modeller af oversvømmelse giver bedre forudsætninger for at kunne 
 
 Alle kommuner har udarbejdet en klimatilpasningsplan, der indeholder en kortlægning af risikoen for oversvømmelse. Kortlægningen omfatter oversvømmelse fra hav, nedbør, vandløb, grundvand og kloak, men udeblivelse af kortlægningen af enkelte kilder kan forekomme. I planerne er risikoen for oversvømmelse holdt op imod de værdier, der findes lokalt og i landskabet. Udover privat ejendom er hospitaler, kulturminder og sjælden natur eksempler på værdier, som der allerede kan være taget stilling til at beskytte. Planerne indeholder endvidere en prioritering af den kommunale indsats for klimatilpasning, som minimum er en prioritering af hvilke områder, der har den største risiko. Klimatilpasningsplanerne er indarbejdet i kommuneplanerne, og kan ses på [Plandata.dk](https://www.planinfo.dk/plandatadk){rel="noopener" target="_blank"} og kommunens hjemmeside.
 
-Vejledningen er suppleret med en tjekliste for gennemtænkning af særlige udfordringer ved byggeri i kystnære områder. [Find tjeklisten under Bilag 2](../../../../historisk/br18_version3/vejledninger/klimasikring/vejledning_klimasikring/byygeri_i_kystnaere_omraader/bilag-2-saerlige-udfordringer-ved-byggeri-i-kystnaere-omraader#8d9a77d4-ea10-445b-acde-88452cedfd50?item=%7B59A9AB5C-B166-4E33-BAEE-E006195DB8F5%7D%40en){target="_self"}. Ekstreme regnskyl kan forekomme overalt i landet, men det er forventeligvis kun i lavtliggende og kystnære områder, at vandstanden omkring bygningen kan komme op over husets gulvniveau. I disse områder møder byggeriet en række særlige udfordringer, som bygherren selv har ansvar for, og som ikke altid er reguleret eller belyst gennem regler, vejledninger og anvisninger. Det kan for eksempel være i relation til lokale kloakforhold i det offentlige system (opstuvningskote), aktuelle lokale kystbeskyttelsestiltag (diger, beredskab, m.m.), offentlige interesser i et område på grund af infrastruktur, kulturarv, byggerier eller særegne værdier.
+Vejledningen er suppleret med en tjekliste for gennemtænkning af særlige udfordringer ved byggeri i kystnære områder. [Find tjeklisten under Bilag 2](https://www.bygningsreglementet.dk/historisk/br18_version3/vejledninger/klimasikring/vejledning_klimasikring/byygeri_i_kystnaere_omraader/bilag-2-saerlige-udfordringer-ved-byggeri-i-kystnaere-omraader/#8d9a77d4-ea10-445b-acde-88452cedfd50?item=%7B59A9AB5C-B166-4E33-BAEE-E006195DB8F5%7D%40en){target="_self"}. Ekstreme regnskyl kan forekomme overalt i landet, men det er forventeligvis kun i lavtliggende og kystnære områder, at vandstanden omkring bygningen kan komme op over husets gulvniveau. I disse områder møder byggeriet en række særlige udfordringer, som bygherren selv har ansvar for, og som ikke altid er reguleret eller belyst gennem regler, vejledninger og anvisninger. Det kan for eksempel være i relation til lokale kloakforhold i det offentlige system (opstuvningskote), aktuelle lokale kystbeskyttelsestiltag (diger, beredskab, m.m.), offentlige interesser i et område på grund af infrastruktur, kulturarv, byggerier eller særegne værdier.
 
 ### 1.0. Byggetekniske regler og vejledninger {#2285a487-1d03-4122-90ef-239a56e9b213}
 
 Byggelovgivningen, og især bygningsreglementet, stiller de overordnede minimumskrav til byggeri i Danmark og er på de fleste områder funktionsbaseret. Det betyder, at der er fokus på funktionen (ydeevnen) af byggeriet, f.eks. at fugtskader forårsaget af indtrængning af grundvand og overfladevand skal undgås, men det angives ikke på hvilken måde, kravet opfyldes. Der er således metodefrihed til at opfylde kravet.  
 
-Bygningsreglementet (BR18) regulerer de fleste typer af byggeri undtagen broer, tunneler, veje, elforsyning (BR18, kap. 1, §
-
-4) og byggearbejder angivet i § 2 i Byggeloven m.m. Bygningsreglementet regulerer, ud over administrative forhold for bygninger, primært adgangsforhold, energiforbrug, sikkerhed og sundhed. Vejledningen omhandler regulering af sikkerhed og sundhed i forhold til almindeligt forekommende hændelser. Der kan således også forekomme hændelser, der ikke er reguleret, fordi de er stedspecifikke eller forekommer sjældent. Ligeledes kan en bygherre have andre hensyn at skulle varetage ud over dem, der er reguleret i bygningsreglementet, f.eks. værdisikring, kulturarv og sikkerhed for drift eller forsyning.
+Bygningsreglementet (BR18) regulerer de fleste typer af byggeri undtagen broer, tunneler, veje, elforsyning (BR18, kap. 1, § 4) og byggearbejder angivet i § 2 i Byggeloven m.m. Bygningsreglementet regulerer, ud over administrative forhold for bygninger, primært adgangsforhold, energiforbrug, sikkerhed og sundhed. Vejledningen omhandler regulering af sikkerhed og sundhed i forhold til almindeligt forekommende hændelser. Der kan således også forekomme hændelser, der ikke er reguleret, fordi de er stedspecifikke eller forekommer sjældent. Ligeledes kan en bygherre have andre hensyn at skulle varetage ud over dem, der er reguleret i bygningsreglementet, f.eks. værdisikring, kulturarv og sikkerhed for drift eller forsyning.
 
 Klimatilpasning er ikke nævnt specifikt i bygningsreglementet, men en række forskellige bestemmelser har betydning for, hvordan man som bygherre skal forholde sig ved planlægning, projektering og opførelse af byggeri i kystnære områder, hvor klimatilpasning er af særlig betydning, fx i forhold til stormflod og vandstandsstigninger. I tilknytning til bestemmelserne i bygningsreglementet er det også relevant at kende til det øvrige almene tekniske fælleseje på området, f.eks. DS 432 Norm for afløbsinstallationer (Dansk Standard, 2020), vejledninger fra Social- og Boligstyrelsen, SBi-anvisninger fra BUILD - Institut for Byggeri,
 
@@ -59,15 +57,15 @@ Bilag 2 beskriver en metodisk tilgang til identifikation af særlige udfordringe
 
 Bygningsreglementets bestemmelser til imødegåelse af vandskader findes primært i kapitlerne: 
 
-[Kapitel 2 - Adgangsforhold](../../../../tekniske-bestemmelser/02/krav){rel="noopener" target="_blank"}
+[Kapitel 2 - Adgangsforhold](../../../../tekniske-bestemmelser/02/krav/){rel="noopener" target="_blank"}
 
-[Kapitel 4 - Afløb](../../../../tekniske-bestemmelser/04/krav){rel="noopener" target="_blank"}
+[Kapitel 4 - Afløb](../../../../tekniske-bestemmelser/04/krav/){rel="noopener" target="_blank"}
 
-[Kapitel 8 - Byggeret og helhedsvurdering](../../../../tekniske-bestemmelser/08/krav){rel="noopener" target="_blank"}
+[Kapitel 8 - Byggeret og helhedsvurdering](../../../../tekniske-bestemmelser/08/krav/){rel="noopener" target="_blank"}
 
-[Kapitel 14 - Fugt og vådrum](../../../../tekniske-bestemmelser/14/krav){rel="noopener" target="_blank"}
+[Kapitel 14 - Fugt og vådrum](../../../../tekniske-bestemmelser/14/krav/){rel="noopener" target="_blank"}
 
-[Kapitel 15 - Konstruktioner](../../../../tekniske-bestemmelser/15/krav){rel="noopener" target="_blank"}
+[Kapitel 15 - Konstruktioner](../../../../tekniske-bestemmelser/15/krav/){rel="noopener" target="_blank"}
 
  
 
@@ -85,11 +83,7 @@ BR18 indeholder alene krav til byggeri i Danmark, mens vejledninger til hvordan 
 
 **Kapitel 2 - Adgangsforhold**
 
-I bygninger er der krav om niveaufri adgang til alle yderdøre og en dørtrinshøjde på højst 2,5 cm (BR18, kap. 2, § 51, stk. 2, nr. 1 og
-
-3). Fritliggende enfamiliehuse er undtaget fra kravet, men de skal forberedes til det ved mindst én yderdør (BR18 kap. 2, § 51, stk.
-
-3). BR18 indeholder ikke krav om en bestemt sokkelhøjde, men dette kan fastsættes i en lokalplan. Niveaufri adgang kan sikres ved eventuelt at hæve terræn lokalt ved yderdøre.
+I bygninger er der krav om niveaufri adgang til alle yderdøre og en dørtrinshøjde på højst 2,5 cm (BR18, kap. 2, § 51, stk. 2, nr. 1 og 3). Fritliggende enfamiliehuse er undtaget fra kravet, men de skal forberedes til det ved mindst én yderdør (BR18 kap. 2, § 51, stk. 3). BR18 indeholder ikke krav om en bestemt sokkelhøjde, men dette kan fastsættes i en lokalplan. Niveaufri adgang kan sikres ved eventuelt at hæve terræn lokalt ved yderdøre.
 
 Det er op til bygherre at vurdere, hvordan bygningen mest hensigtsmæssigt placeres, for at hindre vandindtrængning med risiko for fugtskader. For at minimere risikoen for oversvømmelser bør placeringen af en bygning på lavt terræn, som ligger i udsatte områder, undgås. Der kan eventuelt etableres lokal terrænregulering, med fald væk fra bygningen, for at løfte bygningen og derved minimere risikoen for oversvømmelser.
 
@@ -99,41 +93,19 @@ Det er op til bygherre at vurdere, hvordan bygningen mest hensigtsmæssigt place
 
 I BR18, kap. 4, § 69, stilles et helt overordnet krav om, at afløbsinstallationer skal projekteres, udføres, driftes og vedligeholdes, så der ikke opstår risiko for personers sundhed eller komfortmæssige gener, eller der sker skader på personer, installationer og bygningsdele. Dette kan for eksempel gøres ved at anvende DS 432, Norm for afløbsinstallationer (Dansk Standard, 2020), jf. BR18, kap. 4, § 70.
 
-Ifølge BR18 skal afløbsinstallationer generelt projekteres og udføres, så der ikke forekommer oversvømmelse (BR18, kap. 4, § 71, stk. 1, nr.
+Ifølge BR18 skal afløbsinstallationer generelt projekteres og udføres, så der ikke forekommer oversvømmelse (BR18, kap. 4, § 71, stk. 1, nr. 1). Specifikt nævnes det, at der skal sikres mod skadelig oversvømmelse i bygningen ved risiko for opstemning i hovedafløbssystemet (BR 18, kap. 4, § 71, stk. 1, nr. 6). Højvandslukke og by-pass anlæg er nævnt som mulige løsninger, udført i overensstemmelse med DS 432 (BR 18, kap. 4, § 76).
 
-1). Specifikt nævnes det, at der skal sikres mod skadelig oversvømmelse i bygningen ved risiko for opstemning i hovedafløbssystemet (BR 18, kap. 4, § 71, stk. 1, nr.
+Af andre krav til afløbsinstallationer kan blandt andet nævnes, at de skal udføres, så der ikke sker overstrømning til vandforsyningsanlæg og vandinstallationer eller til et andet afløbssystem eller en anden installationsgenstand (BR18, kap. 4, § 71, stk. 1, nr. 9). Desuden skal det sikres, at kloakdækslers materialeegenskaber, styrke og bæreevne kan modstå den belastning, som de udsættes for, så der ikke sker personskade eller skade på andre afløbsinstallationer (BR18, kap. 4, § 71, stk. 1, nr. 13).
 
-6). Højvandslukke og by-pass anlæg er nævnt som mulige løsninger, udført i overensstemmelse med DS 432 (BR 18, kap. 4, §
+Der skal foreligge en drifts- og vedligeholdelsesmanual ved ibrugtagning (BR18, kap. 4, § 80, stk. 2). Installationer til dræning af bygninger mv. skal udføres i overensstemmelse med DS 436, Norm for dræning af bygværker mv. (Dansk Standard, 1993) (BR18, kap. 4, § 78).
 
-76).
-
-Af andre krav til afløbsinstallationer kan blandt andet nævnes, at de skal udføres, så der ikke sker overstrømning til vandforsyningsanlæg og vandinstallationer eller til et andet afløbssystem eller en anden installationsgenstand (BR18, kap. 4, § 71, stk. 1, nr.
-
-9). Desuden skal det sikres, at kloakdækslers materialeegenskaber, styrke og bæreevne kan modstå den belastning, som de udsættes for, så der ikke sker personskade eller skade på andre afløbsinstallationer (BR18, kap. 4, § 71, stk. 1, nr.
-
-13).
-
-Der skal foreligge en drifts- og vedligeholdelsesmanual ved ibrugtagning (BR18, kap. 4, § 80, stk.
-
-2). Installationer til dræning af bygninger mv. skal udføres i overensstemmelse med DS 436, Norm for dræning af bygværker mv. (Dansk Standard, 1993) (BR18, kap. 4, §
-
-78).
-
-Ifølge BR18 skal der etableres tilstrækkeligt afløb for regnvand, så dette ikke medfører risiko for skader på bygningsdele eller andre ulemper (BR18, kap. 4, § 77, stk.
-
-1). Hvis regnvand på tagflader ikke ledes til et afløbssystem, skal dette nedsives på egen grund, så det ikke kommer naboer til gene (BR18, kap. 4, § 77, stk.
-
-2) Regnvandsinstallationer skal dimensioneres ved den dimensionsgivende regnintensitet og med den overbelastningshyppighed, der fastsættes af kommunalbestyrelsen. 
+Ifølge BR18 skal der etableres tilstrækkeligt afløb for regnvand, så dette ikke medfører risiko for skader på bygningsdele eller andre ulemper (BR18, kap. 4, § 77, stk. 1). Hvis regnvand på tagflader ikke ledes til et afløbssystem, skal dette nedsives på egen grund, så det ikke kommer naboer til gene (BR18, kap. 4, § 77, stk. 2) Regnvandsinstallationer skal dimensioneres ved den dimensionsgivende regnintensitet og med den overbelastningshyppighed, der fastsættes af kommunalbestyrelsen. 
 
  
 
 **Kapitel 8 - Byggeret og helhedsvurdering** 
 
-Lokalplaner regulerer en række forhold for byggeri. I det omfang en lokalplan ikke foreligger for et givet område, reguleres forholdene af bygningsreglementet, f.eks. den tilladte højde af et byggeri, og dermed i nogen grad sokkelhøjden (BR18, kap.
-
-8). Byggeri, der højst er 8,5 meter højt og er på højst to etager, vil, hvis det i øvrigt opfylder specifikke bestemmelser om bebyggelsesprocent, grundens størrelse samt afstandsforhold, kunne opnå byggetilladelse. Højder måles som angivet i bygningsreglementet (BR18, kap. 23, § 456, og kap.
-
-8).
+Lokalplaner regulerer en række forhold for byggeri. I det omfang en lokalplan ikke foreligger for et givet område, reguleres forholdene af bygningsreglementet, f.eks. den tilladte højde af et byggeri, og dermed i nogen grad sokkelhøjden (BR18, kap. 8). Byggeri, der højst er 8,5 meter højt og er på højst to etager, vil, hvis det i øvrigt opfylder specifikke bestemmelser om bebyggelsesprocent, grundens størrelse samt afstandsforhold, kunne opnå byggetilladelse. Højder måles som angivet i bygningsreglementet (BR18, kap. 23, § 456, og kap. 8).
 
  
 
@@ -155,7 +127,7 @@ Konstruktioner skal projekteres og udføres, så de kan modstå de normalt forek
 
 Bestemmelserne i bygningsreglementet (BR18) støttes af en række vejledninger fra Social- og Boligstyrelsen. Vejledningerne omfatter blandt andet fugthåndtering, som skal hjælpe bygherren til at vurdere, hvilke tiltag der er nødvendige for at undgå eller minimere skader som følge af uønsket fugt i bygningen.
 
-[Vejledninger til fugt og vådrum](../../../../historisk/br18_version3/tekniske-bestemmelser/14/vejledninger/fugt_og_vaadrum/forord){rel="noopener" target="_blank"}
+[Vejledninger til fugt og vådrum](https://www.bygningsreglementet.dk/historisk/br18_version3/tekniske-bestemmelser/14/vejledninger/fugt_og_vaadrum/forord/){rel="noopener" target="_blank"}
 
  
 
@@ -229,7 +201,7 @@ Der er anden lovgivning, der på forskellig måde vedrører landets kyster, f.ek
 
 ### 2.1. Planloven {#b4c633af-9c67-4cd2-a9f6-447365980d67}
 
-Planlovens overordnede formål er at 'sikre en sammenhængende planlægning, der forener de samfundsmæssige interesser i arealanvendelsen og medvirker til at værne om landets natur og miljø' samt at 'skabe gode rammer for vækst og udvikling i hele landet' (Indenrigs- og Boligministeriet, 2020).
+Planlovens overordnede formål er at ’sikre en sammenhængende planlægning, der forener de samfundsmæssige interesser i arealanvendelsen og medvirker til at værne om landets natur og miljø’ samt at ’skabe gode rammer for vækst og udvikling i hele landet’ (Indenrigs- og Boligministeriet, 2020).
 
 **Kystnærhedszone**
 
@@ -269,9 +241,7 @@ Reglerne for klitfrednings- og strandbeskyttelseslinjen gælder for alle, der ej
 
 **Kommuneplan**
 
-En kommuneplan gælder for 12 år og skal fastlægge en hovedstruktur, retningslinjer for arealanvendelsen og rammer for lokalplanlægningen (planlovens, §
-
-11). Kommuneplanen skal ledsages af en redegørelse for planens forudsætninger (planlovens § 11e). Der skal tages stilling hvert fjerde år til, om kommuneplanen behøver revision. En kommuneplan binder ikke borgere og virksomheder, men alene kommunalbestyrelsen. En kommuneplan må ikke stride imod blandt andet:
+En kommuneplan gælder for 12 år og skal fastlægge en hovedstruktur, retningslinjer for arealanvendelsen og rammer for lokalplanlægningen (planlovens, § 11). Kommuneplanen skal ledsages af en redegørelse for planens forudsætninger (planlovens § 11e). Der skal tages stilling hvert fjerde år til, om kommuneplanen behøver revision. En kommuneplan binder ikke borgere og virksomheder, men alene kommunalbestyrelsen. En kommuneplan må ikke stride imod blandt andet:
 
 - Landsplanmæssige interesser
 
@@ -281,25 +251,13 @@ En kommuneplan gælder for 12 år og skal fastlægge en hovedstruktur, retningsl
 
 - Kommunal risikostyringsplan, der følger af bekendtgørelse om vurdering og risikostyring for oversvømmelser fra havet, fjorde eller andre dele af søterritoriet og lov om vurdering og styring af oversvømmelsesrisikoen fra vandløb og søer (oversvømmelsesloven)
 
-Kommuneplanen skal indeholde retningslinjer for arealanvendelsen i kommunen (planlovens § 11a), herunder arealanvendelsen i kystnærhedszonen (planlovens § 11a, stk. 1, nr.
+Kommuneplanen skal indeholde retningslinjer for arealanvendelsen i kommunen (planlovens § 11a), herunder arealanvendelsen i kystnærhedszonen (planlovens § 11a, stk. 1, nr. 20). De konkrete forhold på en given lokalitet reguleres med en lokalplan, mens kommuneplanen fastlægger rammerne for indholdet af lokalplaner (planlovens § 11b), især med hensyn til funktion (f.eks. boliger, erhverv, detailhandel), institutioner, tekniske anlæg samt trafik m.m. Med hensyn til kystnærhed vedrører planlovens § 11b, stk. 1, nr. 5, byomdannelsesområder i havne m.m. og planlovens § 11b, stk. 1, nr. 13, anvendelsen af vandområder. Begge emner har relation til risiko for byggeri i kystnære områder som følge af hændelser relateret til stormflod, vandstigninger, opstuvning og stormskader.
 
-20). De konkrete forhold på en given lokalitet reguleres med en lokalplan, mens kommuneplanen fastlægger rammerne for indholdet af lokalplaner (planlovens § 11b), især med hensyn til funktion (f.eks. boliger, erhverv, detailhandel), institutioner, tekniske anlæg samt trafik m.m. Med hensyn til kystnærhed vedrører planlovens § 11b, stk. 1, nr. 5, byomdannelsesområder i havne m.m. og planlovens § 11b, stk. 1, nr. 13, anvendelsen af vandområder. Begge emner har relation til risiko for byggeri i kystnære områder som følge af hændelser relateret til stormflod, vandstigninger, opstuvning og stormskader.
+I kommuneplanens redegørelse for planens forudsætninger skal der blandt andet findes oplysninger om, i hvilken rækkefølge planen gennemføres (planlovens § 11e, stk. 1, nr. 1), hvilket kan have betydning ved byggeri i kystnære områder. Ligeledes skal der oplyses om sammenhængen mellem kommuneplan og risikostyringsplan vedrørende oversvømmelser fra havet m.m. (planlovens § 11e, stk. 1, nr. 9) og om den fremtidige udvikling specifikt i kystnærhedszonen og tilgrænsende vandområder (planlovens § 11e, stk. 1, nr. 11). Alle kommuner har udarbejdet en klimatilpasningsplan som indeholder kortlægning af områder, der kan blive udsat for oversvømmelse.
 
-I kommuneplanens redegørelse for planens forudsætninger skal der blandt andet findes oplysninger om, i hvilken rækkefølge planen gennemføres (planlovens § 11e, stk. 1, nr.
+Kommuneplanen skal indeholde retningslinjer for udpegning af områder, der kan blive udsat for oversvømmelse eller erosion, og for etablering af afværgeforanstaltninger til sikring mod oversvømmelse eller erosion ved planlægning af byudvikling, særlige tekniske anlæg, ændret arealanvendelse m.v. i de udpegede områder (planlovens § 11a, stk. 1, nr. 18).
 
-1), hvilket kan have betydning ved byggeri i kystnære områder. Ligeledes skal der oplyses om sammenhængen mellem kommuneplan og risikostyringsplan vedrørende oversvømmelser fra havet m.m. (planlovens § 11e, stk. 1, nr.
-
-9) og om den fremtidige udvikling specifikt i kystnærhedszonen og tilgrænsende vandområder (planlovens § 11e, stk. 1, nr.
-
-11). Alle kommuner har udarbejdet en klimatilpasningsplan som indeholder kortlægning af områder, der kan blive udsat for oversvømmelse.
-
-Kommuneplanen skal indeholde retningslinjer for udpegning af områder, der kan blive udsat for oversvømmelse eller erosion, og for etablering af afværgeforanstaltninger til sikring mod oversvømmelse eller erosion ved planlægning af byudvikling, særlige tekniske anlæg, ændret arealanvendelse m.v. i de udpegede områder (planlovens § 11a, stk. 1, nr.
-
-18).
-
-Derudover skal kommuneplanens rammer for indholdet af lokalplaner fastsættes med hensyn til afværgeforanstaltninger, og kommuneplanen skal ledsages af en redegørelse for planens forudsætninger, om grundlaget for udpegning af områder, etablering af afværgeforanstaltninger og kommuneplanens sammenhæng med kommuneplanlægningen i andre kommuner, for så vidt angår afværgeforanstaltninger (planlovens §§ 11b, stk. 1, nr. 14, samt § 11e, stk. 1, nr. 12, 13 og
-
-14).
+Derudover skal kommuneplanens rammer for indholdet af lokalplaner fastsættes med hensyn til afværgeforanstaltninger, og kommuneplanen skal ledsages af en redegørelse for planens forudsætninger, om grundlaget for udpegning af områder, etablering af afværgeforanstaltninger og kommuneplanens sammenhæng med kommuneplanlægningen i andre kommuner, for så vidt angår afværgeforanstaltninger (planlovens §§ 11b, stk. 1, nr. 14, samt § 11e, stk. 1, nr. 12, 13 og 14).
 
  
 
@@ -311,9 +269,7 @@ Mens kommuneplanen overordnet bestemmer arealanvendelsen i kommunen, dvs. hvilke
 
 Lokalplaners formål er således at regulere arten af anlæg, bebyggelse m.m. i en mindre del af et område omfattende en enkelt eller et antal grunde/ejendomme.
 
-Det nævnes eksplicit i planloven, at formålet med en lokalplan kan være varetagelse af klimatilpasning. I 'lokalplankataloget' (planlovens § 15, stk.
-
-2) findes en række konkrete bestemmelser, der sigter på at mindske risiko for skader på bygninger og anlæg som følge af højvande, stormflod m.m. Ved en klimalokalplan forstås almindeligvis en lokalplan der (også) indeholder bestemmelser vedrørende klimatilpasning.
+Det nævnes eksplicit i planloven, at formålet med en lokalplan kan være varetagelse af klimatilpasning. I ’lokalplankataloget’ (planlovens § 15, stk. 2) findes en række konkrete bestemmelser, der sigter på at mindske risiko for skader på bygninger og anlæg som følge af højvande, stormflod m.m. Ved en klimalokalplan forstås almindeligvis en lokalplan der (også) indeholder bestemmelser vedrørende klimatilpasning.
 
 Med hensyn til byggeri i kystnære områder er især følgende bestemmelser i lokalplankataloget relevante:
 
@@ -321,65 +277,35 @@ Med hensyn til byggeri i kystnære områder er især følgende bestemmelser i lo
 
 - I hvilken kote, der skal bygges, fx ved specifikation af sokkelhøjde (planlovens § 15, stk. 2, nr. 6 terrænhøjde, hvori en bebyggelse skal opføres)
 
-- Anvendelsen af de enkelte bygninger (planlovens § 15, stk. 2, nr.
+- Anvendelsen af de enkelte bygninger (planlovens § 15, stk. 2, nr. 8)
 
-8)
+- Udformning og anvendelse af ubebyggede arealer, herunder om terrænregulering (planlovens § 15, stk. 2, nr. 10)
 
-- Udformning og anvendelse af ubebyggede arealer, herunder om terrænregulering (planlovens § 15, stk. 2, nr.
+- Tilvejebringelse eller tilslutning til fællesanlæg (planlovens § 15, stk. 2, nr. 12)
 
-10)
+- Etablering af afværgeforanstaltninger til sikring mod oversvømmelse eller erosion i områder, der kan blive udsat for oversvømmelse eller erosion, som betingelse for ibrugtagning af det, som skal sikres mod oversvømmelse (planlovens § 15, stk. 2, nr. 19)
 
-- Tilvejebringelse eller tilslutning til fællesanlæg (planlovens § 15, stk. 2, nr.
+- Friholdelse af område for bebyggelse ved risiko for oversvømmelse m.m. (planlovens § 15, stk. 2, nr. 20)
 
-12)
+- Anvendelse af vandområder i et område (planlovens § 15, stk. 2, nr. 27)
 
-- Etablering af afværgeforanstaltninger til sikring mod oversvømmelse eller erosion i områder, der kan blive udsat for oversvømmelse eller erosion, som betingelse for ibrugtagning af det, som skal sikres mod oversvømmelse (planlovens § 15, stk. 2, nr.
+- Udformning af anlæg, herunder inddæmning m.m. (planlovens § 15, stk. 2, nr. 28)
 
-19)
-
-- Friholdelse af område for bebyggelse ved risiko for oversvømmelse m.m. (planlovens § 15, stk. 2, nr.
-
-20)
-
-- Anvendelse af vandområder i et område (planlovens § 15, stk. 2, nr.
-
-27)
-
-- Udformning af anlæg, herunder inddæmning m.m. (planlovens § 15, stk. 2, nr.
-
-28)
-
-- Installation af anlæg til opsamling af regnvand fra tage til brug for wc-skyl og tøjvask i maskine som forudsætning for ibrugtagning af ny bebyggelse (planlovens § 15, stk. 2, nr.
-
-29)
+- Installation af anlæg til opsamling af regnvand fra tage til brug for wc-skyl og tøjvask i maskine som forudsætning for ibrugtagning af ny bebyggelse (planlovens § 15, stk. 2, nr. 29)
 
 Konkret kan kommunen med en lokalplan således for eksempel reservere konkrete arealer til opmagasinering af vand, kræve større sokkelhøjder ved risiko for oversvømmelser, forbyde kældre ved risiko for oversvømmelser, udlægge arealer til diger, der kan beskytte mod stormflod m.m.
 
-Lokalplanlægning påvirker ikke eksisterende forhold. Der er derfor begrænsede muligheder for kommunen for at stille krav om klimatilpasning i eksisterende byområder – det kan i praksis ske, hvis der f.eks. benyttes ekspropriation (Flensborg, 2015). Det kan også ske i et af kommuneplanen udpeget område, som kan blive udsat for oversvømmelse eller erosion, og hvor der planlægges for byudvikling, særlige tekniske anlæg, ændret arealanvendelse m.v. (planlovens § 11a, stk. 1, nr.
-
-18). I disse områder skal der ved lokalplanlægning optages bestemmelser i lokalplanen om sikring af afværgeforanstaltninger. Der skal desuden optages bestemmelser i lokalplanen om, hvorvidt afværgeforanstaltninger skal etableres før ibrugtagning af det, som skal sikres mod oversvømmelse (planlovens § 15, stk.
-
-10).
+Lokalplanlægning påvirker ikke eksisterende forhold. Der er derfor begrænsede muligheder for kommunen for at stille krav om klimatilpasning i eksisterende byområder – det kan i praksis ske, hvis der f.eks. benyttes ekspropriation (Flensborg, 2015). Det kan også ske i et af kommuneplanen udpeget område, som kan blive udsat for oversvømmelse eller erosion, og hvor der planlægges for byudvikling, særlige tekniske anlæg, ændret arealanvendelse m.v. (planlovens § 11a, stk. 1, nr. 18). I disse områder skal der ved lokalplanlægning optages bestemmelser i lokalplanen om sikring af afværgeforanstaltninger. Der skal desuden optages bestemmelser i lokalplanen om, hvorvidt afværgeforanstaltninger skal etableres før ibrugtagning af det, som skal sikres mod oversvømmelse (planlovens § 15, stk. 10).
 
 Når der er sket udpegning af områder i en kommuneplan eller i et kommuneplantillæg, skal der i nye lokalplaner eller ved ændring af eksisterende lokalplan optages bestemmelser om sikring af afværgeforanstaltninger, såfremt der planlægges for byudvikling, særlige tekniske anlæg, ændret arealanvendelse m.v., i et udpeget område.
 
 Det er op til kommunen at vurdere, om der er behov for afværgeforanstaltninger, og i hvilket omfang.
 
-Kommunalbestyrelsen har pligt til at tilvejebringe en lokalplan før der gennemføres større udstykninger eller større bygge- eller anlægsarbejder, herunder nedrivninger af bebyggelse, og i øvrigt når det er nødvendigt for at sikre kommuneplanens virkeliggørelse (planlovens § 13, stk.
+Kommunalbestyrelsen har pligt til at tilvejebringe en lokalplan før der gennemføres større udstykninger eller større bygge- eller anlægsarbejder, herunder nedrivninger af bebyggelse, og i øvrigt når det er nødvendigt for at sikre kommuneplanens virkeliggørelse (planlovens § 13, stk. 2). Ved etablering af et kystbeskyttelsesprojekt eller projekt om ændring af et kystbeskyttelsesanlæg, gælder denne pligt dog ikke, hvis tilvejebringelsen af en lokalplan vil forsinke processen med etablering af kystbeskyttelsesanlægget væsentligt, og hvis der foreligger særlige omstændigheder, der gør, at forsinkelsen kan få en væsentlig negativ betydning (planlovens § 13, stk. 8).
 
-2). Ved etablering af et kystbeskyttelsesprojekt eller projekt om ændring af et kystbeskyttelsesanlæg, gælder denne pligt dog ikke, hvis tilvejebringelsen af en lokalplan vil forsinke processen med etablering af kystbeskyttelsesanlægget væsentligt, og hvis der foreligger særlige omstændigheder, der gør, at forsinkelsen kan få en væsentlig negativ betydning (planlovens § 13, stk.
+Hvis kommunalbestyrelsen beslutter ikke at tilvejebringe en lokalplan ved etablering af eller ændring af et kystbeskyttelsesanlæg, skal beslutningen offentliggøres (planlovens § 13, stk. 9).
 
-8).
-
-Hvis kommunalbestyrelsen beslutter ikke at tilvejebringe en lokalplan ved etablering af eller ændring af et kystbeskyttelsesanlæg, skal beslutningen offentliggøres (planlovens § 13, stk.
-
-9).
-
-Klimalokalplaner er ikke en særlig form for lokalplaner, idet lokalplaner først og fremmest vedrører arealmæssige dispositioner i et givent område. Men klimatilpasning kan supplere de traditionelle begrundelser for en lokalplan, og planen kan indeholde elementer vedrørende klimatilpasning, for så vidt som lokalplankataloget (planlovens, § 15, stk.
-
-2) åbner mulighed for det, jf. de førnævnte punkter (Flensborg, 2015). Lokalplanens redegørelsesdel (planlovens, §
-
-16) kan indeholde kommunens fortolkning af bestemmelserne med hensyn til klimatilpasning, idet den skal redegøre for lokalplanens forhold til kommuneplan (og risikostyringsplan) og øvrig planlægning for området. 
+Klimalokalplaner er ikke en særlig form for lokalplaner, idet lokalplaner først og fremmest vedrører arealmæssige dispositioner i et givent område. Men klimatilpasning kan supplere de traditionelle begrundelser for en lokalplan, og planen kan indeholde elementer vedrørende klimatilpasning, for så vidt som lokalplankataloget (planlovens, § 15, stk. 2) åbner mulighed for det, jf. de førnævnte punkter (Flensborg, 2015). Lokalplanens redegørelsesdel (planlovens, § 16) kan indeholde kommunens fortolkning af bestemmelserne med hensyn til klimatilpasning, idet den skal redegøre for lokalplanens forhold til kommuneplan (og risikostyringsplan) og øvrig planlægning for området. 
 
  
 
@@ -387,7 +313,7 @@ Klimalokalplaner er ikke en særlig form for lokalplaner, idet lokalplaner førs
 
 ### 2.2. Kystbeskyttelse og oversvømmelsesrisiko {#1397c86b-ab4d-4711-8fd4-e54285d743e5}
 
-Det forventes, at fremtiden vil byde på mere ekstreme vejrforhold. Som bygherre bør man derfor forholde sig til klimaændringerne. I Danmark forventer myndighederne en havspejlsstigning på 0,3-1,2 m frem mod år 2100 ([www.kyst.dk](http://www.kyst.dk/)). Der peges på, at et 'øget vindbidrag og en generel havspejlsstigning' især kan have betydning for områder ved hav og fjorde, og at havspejlsstigning desuden kan påvirke langtidsudviklingen i vandløb. Der kan for nedre vandløbsstrækninger være en kombineret effekt af oversvømmelse fra hav og vandløb under stormflod. Ved bebyggelse i kystnære områder anbefales det, at bygherre for at fastsætte sokkelkote og vurdere behovet for kystbeskyttelse anvender de højvandsstatistikker for ekstreme vandstande i de danske farvande, som Kystdirektoratet udarbejder ca. hvert femte år. Statistikkerne kan findes på Kystdirektoratets hjemmeside. Bygherre bør samtidig vurdere, om der er særlige forhold, der spiller ind. Det kunne f.eks, være bølger eller lokal stuvning af vandet.
+Det forventes, at fremtiden vil byde på mere ekstreme vejrforhold. Som bygherre bør man derfor forholde sig til klimaændringerne. I Danmark forventer myndighederne en havspejlsstigning på 0,3-1,2 m frem mod år 2100 ([www.kyst.dk](http://www.kyst.dk/)). Der peges på, at et ’øget vindbidrag og en generel havspejlsstigning’ især kan have betydning for områder ved hav og fjorde, og at havspejlsstigning desuden kan påvirke langtidsudviklingen i vandløb. Der kan for nedre vandløbsstrækninger være en kombineret effekt af oversvømmelse fra hav og vandløb under stormflod. Ved bebyggelse i kystnære områder anbefales det, at bygherre for at fastsætte sokkelkote og vurdere behovet for kystbeskyttelse anvender de højvandsstatistikker for ekstreme vandstande i de danske farvande, som Kystdirektoratet udarbejder ca. hvert femte år. Statistikkerne kan findes på Kystdirektoratets hjemmeside. Bygherre bør samtidig vurdere, om der er særlige forhold, der spiller ind. Det kunne f.eks, være bølger eller lokal stuvning af vandet.
 
 Oversvømmelser ved stormfloder er ikke alene betinget af vandstanden i havene omkring de danske kyster. Konsekvenserne kan også være afhængige af, hvordan landet hæver og sænker sig i det pågældende område. Det anbefales derfor, at man ved nybyggeri også forholder sig til landhævninger og lokale sætninger.
 
@@ -419,15 +345,13 @@ Disse omfatter:
 
 Indsatsplaner for beskyttelse af grundvand, se Miljøstyrelsens ([www.mst.dk](https://mst.dk/erhverv){rel="noopener" target="_blank"}) Information vedrørende lovgivning og planer, som er relevant for arbejdet med klimatilpasning, kan findes på [www.klimatilpasning.dk.](https://www.klimatilpasning.dk/)
 
-[ ](https://www.klimatilpasning.dk/)
+  [](https://www.klimatilpasning.dk/)
 
 ### 2.4. Naturbeskyttelsesloven {#f7b94d8e-c754-45c2-89e5-bc55042a29f9}
 
 Naturbeskyttelseslovens formål er at medvirke til at værne om landets natur og miljø (Miljøministeriet, 2022). Det vil bl.a. sige:
 
-'at beskytte naturen med dens bestand af vilde dyr og planter samt deres levesteder og de landskabelige, kulturhistoriske, naturvidenskabelige og undervisningsmæssige værdier' (§
-
-1). Formålet med klitfredning er tillige at mindske risikoen for sandflugt.
+’at beskytte naturen med dens bestand af vilde dyr og planter samt deres levesteder og de landskabelige, kulturhistoriske, naturvidenskabelige og undervisningsmæssige værdier’ (§ 1). Formålet med klitfredning er tillige at mindske risikoen for sandflugt.
 
 En række bestemmelser omhandler udtrykkeligt kystnære områder, herunder områder, der er omfattet af strandbeskyttelse og klitfredning.
 
@@ -480,6 +404,7 @@ I KAMP kan man direkte aflæse, hvor mange bygninger og hvor mange kilometer vej
 [SkadesØkonomi](https://klimatilpasning.dk/kommuner-og-forsyning/vaerktoejer/os2-skadesoekonomi){rel="noopener" target="_blank"} er en model som er udviklet som et plugin til QGIS. Den kan anvendes til beregning af omkostningerne ved oversvømmelser knyttet til nedbør, stormflod eller vandløb. Modellen er udviklet til støtte for kommunernes arbejde med DK2020 og klimatilpasning. Værktøjet vurder risiko med udgangspunkt i økonomiske tab i forbindelse med en given oversvømmelse for en given sektor.
 
 **Kystdirektoratet under Miljøministeriet**
+
 På hjemmesiden [Kyst.dk](https://kyst.dk/){rel="noopener noreferrer" target="_blank"} findes information om kysterne, hvor bl.a. oplysninger om kysternes dynamik og metoder til kystbeskyttelse er beskrevet. Ligeledes findes information om sagsbehandlingen af ansøgninger vedrørende byggeri inden for strandbeskyttelseslinjen, klitfredet areal samt anlæg på søterritorie. Desuden informerer hjemmesiden om planlægning af kystbeskyttelse i forhold til bl.a. klimaændringer, stormflod og erosion.
 
 **Kystplanlægger**
@@ -488,9 +413,7 @@ Kystdirektoratet har udarbejdet [Kystplanlægger.dk](https://xn--kystplanlgger-c
 
 **Risikostyringsplaner**
 
-Vejledningen om risikostyringsplaner redegør for planlægningen for ekstreme oversvømmelser, som kan medføre væsentlige negative følger for sundhed, miljø, kulturarv eller økonomi (EU's oversvømmelsesdirektiv, 2. plantrin ud af
-
-3) (Miljøministeriet, 2014). Dette fremgår af lov om vurdering og styring af oversvømmelsesrisikoen fra vandløb og søer (Miljø- og Fødevareministeriet, 2017b) samt bekendtgørelse om vurdering og risikostyring for oversvømmelser fra havet, fjorde eller andre dele af søterritoriet (Miljø- og Fødevareministeriet, 2016). I Danmark skal kommuner, hvor der er områder, der er udpeget efter denne lovgivning, udarbejde en risikostyringsplan. Risikostyringsplanerne skal udarbejdes på grundlag af kort og data, som staten stiller til rådighed.
+Vejledningen om risikostyringsplaner redegør for planlægningen for ekstreme oversvømmelser, som kan medføre væsentlige negative følger for sundhed, miljø, kulturarv eller økonomi (EU’s oversvømmelsesdirektiv, 2. plantrin ud af 3) (Miljøministeriet, 2014). Dette fremgår af lov om vurdering og styring af oversvømmelsesrisikoen fra vandløb og søer (Miljø- og Fødevareministeriet, 2017b) samt bekendtgørelse om vurdering og risikostyring for oversvømmelser fra havet, fjorde eller andre dele af søterritoriet (Miljø- og Fødevareministeriet, 2016). I Danmark skal kommuner, hvor der er områder, der er udpeget efter denne lovgivning, udarbejde en risikostyringsplan. Risikostyringsplanerne skal udarbejdes på grundlag af kort og data, som staten stiller til rådighed.
 
 Risikostyringsplanerne kan med fordel koordineres med den kortlægning og planlægning, som kommunerne har gennemført i forbindelse med udarbejdelse af klimatilpasningsplaner (aftale mellem Finansministeriet og KL om kommunernes økonomi for 2013). Desuden kan risikostyringsplanerne med fordel tage afsæt i de kommunale beredskabsplaner eller indsatsplaner for oversvømmelse.
 
@@ -518,7 +441,7 @@ FN's klimapanel udgiver rapporter, der samler og integrerer international viden 
 
 Under det seneste arbejdsprogram er der udgivet tre særrapporter, en metoderapport, samt tre arbejdsgrupperapporter, der udgør de største bidrag til panelets 6. hovedrapport. Hovedrapportens sidste del er en synteserapport, der giver en tværgående og integreret sammenstilling af de tre arbejdsgrupperapporter.
 
-Se FN's klimapanel, IPCC, klimastatus: 6. hovedrapport her: [https://www.ipcc.ch/assessment-report/ar6/](https://www.ipcc.ch/assessment-report/ar6/){rel="noopener noreferrer" target="_blank"}
+Se FN’s klimapanel, IPCC, klimastatus: 6. hovedrapport her: [https://www.ipcc.ch/assessment-report/ar6/](https://www.ipcc.ch/assessment-report/ar6/){rel="noopener noreferrer" target="_blank"}
 
 IPCC's 6. hovedrapports fire dele:
 
@@ -528,7 +451,7 @@ IPCC's 6. hovedrapports fire dele:
 
 - Delrapport om modvirkning af klimaforandringer (2022) (Hovedbudskaberne er samlet og oversat til dansk. Se det her: [https://www.dmi.dk/klima/temaforside-fns-klimapanel/sjette-hovedrapport-del-3/](https://www.dmi.dk/klima/temaforside-fns-klimapanel/sjette-hovedrapport-del-3/){rel="noopener noreferrer" target="_blank"})
 
-- Synteserapport om hovedbudskaberne fra IPCC's 6. hovedrapport (2023) (Hovedbudskaberne er samlet og oversat til dansk. Se det her: [https://www.dmi.dk/klima/temaforside-fns-klimapanel/sjette-hoved-rapports-syntese-rapport/](https://www.dmi.dk/nyheder/2023/fns-klimapanel-hellere-i-dag-end-i-morgen){rel="noopener" target="_blank"})
+- Synteserapport om hovedbudskaberne fra IPCC’s 6. hovedrapport (2023) (Hovedbudskaberne er samlet og oversat til dansk. Se det her: [https://www.dmi.dk/klima/temaforside-fns-klimapanel/sjette-hoved-rapports-syntese-rapport/](https://www.dmi.dk/nyheder/2023/fns-klimapanel-hellere-i-dag-end-i-morgen){rel="noopener" target="_blank"})
 
  
 
@@ -618,7 +541,7 @@ Miljø- og Fødevareministeriet. Højvandsstatistikker. Lokaliseret 06.06.2023. 
 
  
 
-Miljø- og Fødevareministeriet. (2018). Revurdering og ajourføring af risikoområder for oversvømmelse fra hav og vandløb. EU's oversvømmelsesdirektiv (2007/60/EF). Anden planperiode.
+Miljø- og Fødevareministeriet. (2018). Revurdering og ajourføring af risikoområder for oversvømmelse fra hav og vandløb. EU’s oversvømmelsesdirektiv (2007/60/EF). Anden planperiode.
 
  
 
@@ -626,7 +549,7 @@ Miljø- og Fødevareministeriet. (2020). Vejledning til udarbejdelse af risikost
 
  
 
-Miljøministeriet og Transportministeriet. (2011). Endelig udpegning af risikoområder for oversvømmelse fra vandløb, søer, havet og fjorde. EU's oversvømmelsesdirektiv (2007/60/EF). Første planperiode.
+Miljøministeriet og Transportministeriet. (2011). Endelig udpegning af risikoområder for oversvømmelse fra vandløb, søer, havet og fjorde. EU’s oversvømmelsesdirektiv (2007/60/EF). Første planperiode.
 
  
 
@@ -723,13 +646,14 @@ I kystnære områder møder byggeriet en række særlige udfordringer, som byghe
 I den forbindelse er det vigtigt at forstille sig de ekstreme hændelser i forbindelse med stormflod og vandstigninger, der i fremtiden kan forekomme, og at overveje om man i tide og med en rimelig investering kan gennemføre tiltag, som kan imødegå eller reducere risikoen for skader, når de ekstreme hændelser indtræffer.
 
 **Ved planlægning af en byggesag er det særlig vigtigt systematisk at gennemtænke blandt andet følgende forhold:**
-*- Kan stormflod eller overløb fra åer ramme byggegrunden*
+
+- *Kan stormflod eller overløb fra åer ramme byggegrunden*
 
 Hvis ja, hvilken kote vil den maksimale vandstand nå?
 
 Planlæg byggerier med udgangspunkt i en sådan belastning, og vær opmærksom på, at almindeligt anvendte standardløsninger ikke nødvendigvis opfylder de krav, der bør stille.
 
-*- Er der risiko for, at opstemning i afløbssystemet fører til oversvømmelse?*
+- *Er der risiko for, at opstemning i afløbssystemet fører til oversvømmelse?*
 
 Hvis ja, hvilket niveau af opstemning kan forekomme?
 
@@ -741,17 +665,18 @@ Planlæg byggeriet med udgangspunkt i de regler og anvisninger, der er peget på
 
 **Udfordringerne afhænger af, om der er tale om:**
 
-*- En nybygning*
+- *En nybygning*
+
 I forbindelse med en nybygning har man muligheden for økonomisk at vælge robuste løsninger, men en god sikkerhedsmargin ud fra en betragtning om, at det ofte er væsentlig billigere at indbygge øget sikkerhed fra start end senere at skulle indbygge samme sikkerhed
 
-*- En tilbygning*
+- *En tilbygning*
 
 I forbindelse med en tilbygning bør man i så vid udstrækning som muligt projektere som for nybyggeri, og det bør samtidig overvejes, om man med fordel kan opgradere sikkerheden for den eksisterende del af bygningen
 
-*- Renovering og ombygning*
+- *Renovering og ombygning*
 
 I forbindelse med renovering og ombygning bør senarier om stormflod og vandstigninger inddrages i planlægningen af byggesagen uanset årsagen til byggearbejdet
 
-*- Et almindeligt ønske om opgradering af sikkerheden*
+- *Et almindeligt ønske om opgradering af sikkerheden*
 
 I forbindelse med opgradering og sikkerhed bør det overvejes, om der kan fremstilles udstyr, som med timers varsel kan monteres og forhindre at vand trænger ind i bygningen. Sørg for, at brugere af bygningen er instrueret i, at det findes og kan drage omsorg for, at det bliver monteret korrekt og i tide.

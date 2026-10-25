@@ -2,16 +2,16 @@
 
 ## Se alle vejledninger om Andre vejledninger
 
-- [Vejledning om byggelovens § 6 D](../vejledning-om-byggelovens-6-d)
-- [Vejledning om administration af skorstensfejerordningen](../vejledning-om-skorstensfejerordningen)
-- [Spørgsmål og svar vedr. akkreditering og certificering ift. certificeringsordningen](../qa-vedr-akkreditering-og-certificering-ift-certificeringsordningen)
-- [Spørgsmål og svar om certificeringsordningen](../spoergsmaal-og-svar-om-certificeringsordningen)
-- [Oversigt over certificerede brandrådgivere og statikere samt anerkendte statikere](../oversigt-over-certificerede-brandraadgivere-og-statikere)
-- [Vejledning om certificering af statikere og brandrådgivere](../certificering_statikere_brandradgivere)
-- [Vejledning om installationer i eksisterende bygninger](../installationer-eksisterende-byggeri)
+- [Vejledning om byggelovens § 6 D](../vejledning-om-byggelovens-6-d/)
+- [Vejledning om administration af skorstensfejerordningen](../vejledning-om-skorstensfejerordningen/)
+- [Spørgsmål og svar vedr. akkreditering og certificering ift. certificeringsordningen](../qa-vedr-akkreditering-og-certificering-ift-certificeringsordningen/)
+- [Spørgsmål og svar om certificeringsordningen](../spoergsmaal-og-svar-om-certificeringsordningen/)
+- [Oversigt over certificerede brandrådgivere og statikere samt anerkendte statikere](../oversigt-over-certificerede-brandraadgivere-og-statikere/)
+- [Vejledning om certificering af statikere og brandrådgivere](../certificering_statikere_brandradgivere/)
+- [Vejledning om installationer i eksisterende bygninger](../installationer-eksisterende-byggeri/)
 - [Vejledning om Tiny Houses](./)
-- [Vejledning om byggeskadeforsikring](../byggeskadeforsikring)
-- [Vejledning til bekendtgørelse om forberedelse til og etablering af ladestandere i forbindelse med bygninger (ladestanderbekendtgørelsen)](../vejledning-om-laderstander)
+- [Vejledning om byggeskadeforsikring](../byggeskadeforsikring/)
+- [Vejledning til bekendtgørelse om forberedelse til og etablering af ladestandere i forbindelse med bygninger (ladestanderbekendtgørelsen)](../vejledning-om-laderstander/)
 
 ## Vejledning om Tiny Houses
 
@@ -98,9 +98,9 @@ Af hensyn til komforten bør varmeforsyningen placeres så varmen fordeles bedst
 
 Det kan være et problem for Tiny Houses at anvende en standard varmepumpeløsning, da varmebehovet er relativt lavt og der derfor er risiko for overdimensionering som medfører en ineffektiv drift med korte driftsperioder. For klynger af Tiny Houses kan det derfor være en fordel at anvende én fælles varmepumpe, hvorved problemet kan reduceres eller helt undgås.
 
-Placeringen af en brændeovn i et Tiny House bør nøje overvejes, da der vil være høj risiko for overtemperaturer og strålevarme i en stor andel af beboelsesarealet. For brændeovne stiller bygningsreglementet en række afstandskrav af hensyn til brandrisiko. Kravene er beskrevet i [Bilag 1a – Præ-accepterede løsninger – Fritliggende og sammenbyggede enfamiliehuse](../../../../tekniske-bestemmelser/05/vejledninger/generel_brand/enfamiliehuse/bilag-1a-prae-accepterede-loesninger-for-fritliggende-og-sammenbyggede-enfamiliehuse/). Bemærk desuden, at hvis der installeres en brugt brændeovn, skal der også forefindes en prøvningsattest på ovnen, der viser at den overholder gældende lovkrav. Prøvningsattesten skal dokumentere, at brændeovnen lever op til [Brændeovnsbekendtgørelsens](https://www.retsinformation.dk/eli/lta/2022/199) miljøkrav til bl.a. partikeludslip. Brændeovnsbekendtgørelsen stiller desuden en række krav til aftrækssystemet, som også skal efterleves.
+Placeringen af en brændeovn i et Tiny House bør nøje overvejes, da der vil være høj risiko for overtemperaturer og strålevarme i en stor andel af beboelsesarealet. For brændeovne stiller bygningsreglementet en række afstandskrav af hensyn til brandrisiko. Kravene er beskrevet i [Bilag 1a – Præ-accepterede løsninger – Fritliggende og sammenbyggede enfamiliehuse](../../../../tekniske-bestemmelser/05/vejledninger/generel_brand/enfamiliehuse/bilag-1a-prae-accepterede-loesninger-for-fritliggende-og-sammenbyggede-enfamiliehuse/). Bemærk desuden, at hvis der installeres en brugt brændeovn, skal der også forefindes en prøvningsattest på ovnen, der viser at den overholder gældende lovkrav. Prøvningsattesten skal dokumentere, at brændeovnen lever op til [Brændeovnsbekendtgørelsens](https://www.retsinformation.dk/eli/lta/2022/199) miljøkrav til bl.a. partikeludslip. Brændeovnsbekendtgørelsen stiller desuden en række krav til aftrækssystemet, som også skal efterleves.                   
 
-### Fugt og vådrum {#33520e5b-f689-418d-83b9-65d4593f8022}
+### 6. Fugt og vådrum {#61fba64c-061e-4da4-8bc6-0f675d354dea}
 
 Bygningsreglementet stiller krav om at vådrum, herunder baderum og WC-rum med gulvafløb, skal opfylde en række krav med hensyn til fugtsikring. Gulve og vægge skal udføres, så de kan modstå de fugtpåvirkninger og de mekaniske og kemiske påvirkninger, der normalt forekommer i vådrum. Gulve og gulvbelægninger, herunder samlinger, tilslutninger, rørgennemføringer og lignende, skal være vandtætte. I den vandbelastede del af vådrummet må der ikke udføres rørgennemføringer i gulvet. Vægge og vægbeklædninger, herunder samlinger, tilslutninger, rørgennemføringer og lignende, skal være vandtætte og vand på gulvet skal afledes til gulvafløb. Ved brug af skeletvægge samt gulv- og vægkonstruktioner, der indeholder træ eller andre organiske materialer, skal der anvendes et egnet vandtætningssystem.
 
@@ -176,6 +176,6 @@ I bade- og wc-rum i boliger skal der kunne udsuges mindst 15 l/s. I wc-rum uden 
 
 **Efterlevelse af krav**
 
-Et Tiny House vil opfylde ventilationskravet, hvis det opføres med mindst to udeluftventiler med et åbningsareal på mindst 60 cm² (Ø100) pr. stk. placeret i beboelsesrummenes ydervægge og mindst to afkastkanaler placeret i loftet med et åbningsareal på mindst 200 cm² (Ø160) pr. stk. fordelt med én i bade- og wc-rum og én placeret over kogepladerne. Alternativt kan afkastkanalerne forsynes med ventilatorer, der kan yde den krævede luftmængde. Bade og wc-rum samt køkken skal desuden have oplukkeligt vindue, lem eller yderdør, hvis det er placeret mod en ydervæg og have et åbningsareal mod adgangsrummet på mindst 100 cm². Se bygningsreglementets [vejledning](../../../../tekniske-bestemmelser/22/vejledninger/version-2-generel_vejledning/kap-1_6).
+Et Tiny House vil opfylde ventilationskravet, hvis det opføres med mindst to udeluftventiler med et åbningsareal på mindst 60 cm² (Ø100) pr. stk. placeret i beboelsesrummenes ydervægge og mindst to afkastkanaler placeret i loftet med et åbningsareal på mindst 200 cm² (Ø160) pr. stk. fordelt med én i bade- og wc-rum og én placeret over kogepladerne. Alternativt kan afkastkanalerne forsynes med ventilatorer, der kan yde den krævede luftmængde. Bade og wc-rum samt køkken skal desuden have oplukkeligt vindue, lem eller yderdør, hvis det er placeret mod en ydervæg og have et åbningsareal mod adgangsrummet på mindst 100 cm². Se bygningsreglementets [vejledning](../../../../tekniske-bestemmelser/22/vejledninger/version-2-generel_vejledning/kap-1_6/).
 
  Kravet om emhætte han opfyldes ved en ventilator, der kan yde en luftmængde på mindst 120 l/s og et skørt der sikrer god emfangsevne umiddelbart over kogepladerne.

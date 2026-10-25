@@ -1,90 +1,85 @@
 # Bilag 1: Tabeller til kapitel 5 - Brandforhold
 
-## Tabel 1 - Anvendelseskategorier
+## Tabel 1 - Anvendelseskategorier {#c25b067b-8b9d-411a-8332-be21031a8c82}
 
-<table style="width:99%;">
+<table>
 <colgroup>
-<col style="width: 8%" />
-<col style="width: 18%" />
-<col style="width: 21%" />
-<col style="width: 24%" />
-<col style="width: 26%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
 </colgroup>
 <tbody>
 <tr>
-<td style="text-align: left;"><strong>Anvendelseskategori</strong></td>
-<td style="text-align: left;"><strong>Bygningsafsnittet er indrettet med sovepladser</strong><br />
+<td><strong>Anvendelseskategori</strong></td>
+<td><strong>Bygningsafsnittet er indrettet med sovepladser</strong><br />
+ </td>
+<td><strong>Personer i bygningsafsnittet har kendskab til flugtveje</strong><br />
+ </td>
+<td> <strong>Personers mulighed for ved egen hjælp at bringe sig i sikkerhed</strong><br />
 </td>
-<td style="text-align: left;"><strong>Personer i bygningsafsnittet har kendskab til flugtveje</strong><br />
+<td><strong>Maksimalt antal personer, som den brandmæssige enhed er indrettet til</strong><br />
+ </td>
+</tr>
+<tr>
+<td> 1<br />
 </td>
-<td style="text-align: left;"> <strong>Personers mulighed for ved egen hjælp at bringe sig i sikkerhed</strong><br />
+<td>Nej </td>
+<td>Ja </td>
+<td>Ja </td>
+<td>Ingen begrænsning </td>
+</tr>
+<tr>
+<td> 2<br />
 </td>
-<td style="text-align: left;"><strong>Maksimalt antal personer, som den brandmæssige enhed er indrettet til</strong></td>
+<td>Nej </td>
+<td>Nej </td>
+<td>Ja </td>
+<td>Højst 50 </td>
 </tr>
 <tr>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"> </td>
-<td style="text-align: left;"> </td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"> </td>
+<td> 3</td>
+<td>Nej </td>
+<td>Nej </td>
+<td>Ja </td>
+<td>Ingen begrænsning </td>
 </tr>
 <tr>
-<td style="text-align: left;"> 1<br />
+<td> 4<sup>a)</sup></td>
+<td>Ja </td>
+<td>Ja </td>
+<td>Ja</td>
+<td>Ingen begrænsning </td>
+</tr>
+<tr>
+<td> 5</td>
+<td>Ja </td>
+<td>Nej</td>
+<td>Ja</td>
+<td>Ingen begrænsning </td>
+</tr>
+<tr>
+<td> 6</td>
+<td>Ja/Nej </td>
+<td>Nej </td>
+<td>Nej</td>
+<td>Ingen begrænsning<br />
 </td>
-<td style="text-align: left;">Nej </td>
-<td style="text-align: left;">Ja </td>
-<td style="text-align: left;">Ja </td>
-<td style="text-align: left;">Ingen begrænsning </td>
-</tr>
-<tr>
-<td style="text-align: left;"> 2<br />
-</td>
-<td style="text-align: left;">Nej </td>
-<td style="text-align: left;">Nej </td>
-<td style="text-align: left;">Ja </td>
-<td style="text-align: left;">Højst 50 </td>
-</tr>
-<tr>
-<td style="text-align: left;"> 3</td>
-<td style="text-align: left;">Nej </td>
-<td style="text-align: left;">Nej </td>
-<td style="text-align: left;">Ja </td>
-<td style="text-align: left;">Ingen begrænsning </td>
-</tr>
-<tr>
-<td style="text-align: left;"> 4<sup>a)</sup></td>
-<td style="text-align: left;">Ja </td>
-<td style="text-align: left;">Ja </td>
-<td style="text-align: left;">Ja</td>
-<td style="text-align: left;">Ingen begrænsning </td>
-</tr>
-<tr>
-<td style="text-align: left;"> 5</td>
-<td style="text-align: left;">Ja </td>
-<td style="text-align: left;">Nej</td>
-<td style="text-align: left;">Ja</td>
-<td style="text-align: left;">Ingen begrænsning </td>
-</tr>
-<tr>
-<td style="text-align: left;"> 6</td>
-<td style="text-align: left;">Ja/Nej </td>
-<td style="text-align: left;">Nej </td>
-<td style="text-align: left;">Nej</td>
-<td style="text-align: left;">Ingen begrænsning</td>
 </tr>
 </tbody>
 </table>
 
-a) Anvendelseskategori 4 omfatter ikke boliger, hvor der er flere samtidige, uafhængige udlejninger af dele af boligen med mindre boligen samtidigt bebos af lejer eller ejer af boligen.
+ a) Anvendelseskategori 4 omfatter ikke boliger, hvor der er flere samtidige, uafhængige udlejninger af dele af boligen med mindre boligen samtidigt bebos af lejer eller ejer af boligen.
 
 |                         |
-|:------------------------|
+|-------------------------|
 | **Anvendelseskategori** |
 
 |                         |
-|:------------------------|
+|-------------------------|
 | **Anvendelseskategori** |
 
-## Tabel 2 - Risikoklasser
+## Tabel 2 - Risikoklasser {#5c43982a-3b55-4852-a797-66a52342c7bf}
 
-## Tabel 3 - Indplacering i brandklasser
+## Tabel 3 - Indplacering i brandklasser {#c9f55109-3cbe-44c0-bf54-2f2527f9f738}

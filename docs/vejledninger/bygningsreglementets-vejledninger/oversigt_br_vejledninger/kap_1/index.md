@@ -1,171 +1,101 @@
 # Bygningsreglementets vejledninger
 
-[Kap. 1](./)
-
-## Administrative bestemmelser (§ 1 - § 47)
+## Kap. 1 Administrative bestemmelser (§ 1 - § 47) {#91a9c9a0-10b6-4976-8eb9-d4e7d54300ac}
 
 [Spørgsmål og svar](../../../../administrative-bestemmelser/brv/spoergsmaal-og-svar/){rel="noopener noreferrer" target="_blank"} 
 
-[Vejledning om byggesagsbehandling efter BR18 ](../../../../administrative-bestemmelser/brv/vejledning-om-byggesagsbehandling-efter-br18/){rel="noopener noreferrer" target="_blank"}
+[Vejledning om byggesagsbehandling efter BR18](../../../../administrative-bestemmelser/brv/vejledning-om-byggesagsbehandling-efter-br18/){rel="noopener noreferrer" target="_blank"} 
 
-[Vejledning i kommunernes stikprøvekontrol i tilgængelighed ](../../../../administrative-bestemmelser/brv/stikprovekontrol-tilgaengelighed/)
+[Vejledning i kommunernes stikprøvekontrol i tilgængelighed](../../../../administrative-bestemmelser/brv/stikprovekontrol-tilgaengelighed/) 
 
-[Vejledning om brug af brand og konstruktionsklasser ](../../../../administrative-bestemmelser/brv/vejledning-om-brug-af-brand-og-konstruktionsklasser/)
+[Vejledning om brug af brand og konstruktionsklasser](../../../../administrative-bestemmelser/brv/vejledning-om-brug-af-brand-og-konstruktionsklasser/) 
 
-[Vejledning om opførelse af sekundær bebyggelse med et samlet areal på højst 50 m^2^ ](../../../../administrative-bestemmelser/brv/sekundaer-bebyggelse/)
+[Vejledning om opførelse af sekundær bebyggelse med et samlet areal på højst 50 m^2^](../../../../administrative-bestemmelser/brv/sekundaer-bebyggelse/) 
 
-[Vejledning om byggelovens § 6 D](../../../../){rel="noopener" target="_blank"} 
+[Vejledning om byggelovens § 6 D](https://www.bygningsreglementet.dk/historisk/br18_version4/administrative-bestemmelser/brv/vejledning-om-byggelovens-6-d/indledning/#4206c4c8-7cd1-48de-aa73-6fa87a8d02e8){rel="noopener" target="_blank"} 
 
-[Vejledning til kommunerne om krav til parkering i forbindelse med byggeri ](../../../../administrative-bestemmelser/brv/vejledning-om-parkering/){rel="noopener noreferrer" target="_blank"}
+[Vejledning til kommunerne om krav til parkering i forbindelse med byggeri](../../../../administrative-bestemmelser/brv/vejledning-om-parkering/){rel="noopener noreferrer" target="_blank"} 
 
 [Vejledning om skorstene og kravet om byggetilladelse](../../../../administrative-bestemmelser/brv/vejledning-om-skorstene-og-kravet-om-byggetilladelse/) 
 
-[Vejledning om administration af skorstensfejerordningen ](../../../andre_vejledninger/vejledning/vejledning-om-skorstensfejerordningen/){rel="noopener" target="_blank"}
+[Vejledning om administration af skorstensfejerordningen](../../../andre_vejledninger/vejledning/vejledning-om-skorstensfejerordningen/){rel="noopener" target="_blank"} 
 
-[Vejledning om transportable telte og konstruktioner ](../../../../administrative-bestemmelser/brv/transportable-telte-og-konstruktioner/){rel="noopener noreferrer" target="_blank"}
+[Vejledning om transportable telte og konstruktioner](../../../../administrative-bestemmelser/brv/transportable-telte-og-konstruktioner/){rel="noopener noreferrer" target="_blank"} 
 
-[Vejledning om lovliggørelse af ulovligt byggeri ](../../../../administrative-bestemmelser/brv/vejledning-om-lovliggorelse/){rel="noopener noreferrer" target="_blank"}
+[Vejledning om lovliggørelse af ulovligt byggeri](../../../../administrative-bestemmelser/brv/vejledning-om-lovliggorelse/){rel="noopener noreferrer" target="_blank"} 
 
-[Vejledning om byggeri over skel ](../../../../administrative-bestemmelser/brv/vejledning-om-byggeri_over_skel/){rel="noopener noreferrer" target="_blank"}
+[Vejledning om byggeri over skel](../../../../administrative-bestemmelser/brv/vejledning-om-byggeri_over_skel/){rel="noopener noreferrer" target="_blank"} 
 
-[Vejledning om gebyr for kommunernes sagsbehandling på byggeområdet ](../../../../administrative-bestemmelser/brv/gebyr/){rel="noopener noreferrer" target="_blank"}
+[Vejledning om gebyr for kommunernes sagsbehandling på byggeområdet](../../../../administrative-bestemmelser/brv/gebyr/){rel="noopener noreferrer" target="_blank"} 
 
 [Vejledning om udnyttelige tagetager](../../../../administrative-bestemmelser/brv/udnyttelige-tagetager/){rel="noopener noreferrer" target="_blank"}
 
-[Pjecer om sekundær bebyggelse](../../../../){rel="noopener" target="_blank"}
+[Pjecer om sekundær bebyggelse](https://www.bygningsreglementet.dk/historisk/br18_version7/administrative-bestemmelser/brv/pjecer-om-sekundaer-bebyggelse/pjecer-om-sekundaer-bebyggelse/#5404179e-60a8-4ca0-804a-6b34a66d6630?item=%7B31F10391-036B-438E-98F3-BEBBD59A1BB1%7D%40en){rel="noopener" target="_blank"}
 
-[Kap. 2](../kap_2/)
+## Kap. 2 Adgangsforhold (§ 48 - § 62) {#f3c5a4e8-27eb-44c4-8358-6e65bff95b99}
 
-## Adgangsforhold (§ 48 - § 62)
+## Kap. 3 Affaldssystemer (§ 63 - § 68) {#1b5a9be7-3d4a-491e-a4c0-5e294e6f2c7e}
 
-[Kap. 3](../kap_3/)
+## Kap. 4 Afløb (§ 69 - § 81) {#befad56d-6bc0-4869-a682-5a0d9653aa76}
 
-## Affaldssystemer (§ 63 - § 68)
+## Kap. 5 Brand (§ 82 - § 158) {#45c63681-6f26-49b0-ac4b-524d8a3a5f32}
 
-[Kap. 4](../kap_4/)
+## Kap. 6 Brugerbetjente anlæg (§ 159- § 160) {#b3b6e8de-a974-4a6a-b316-814b9208ffe2}
 
-## Afløb (§ 69 - § 81)
+## Kap. 7 Byggepladsen og udførelsen af Byggearbejder (§ 161 - § 165) {#67c40e7b-2f01-44bc-96eb-b497533ed25d}
 
-[Kap. 5](../kap_5/)
+## Kap. 8 Byggeret og helhedsvurdering (§ 166 - § 195) {#386f9185-8def-4b4a-af30-243fadf29f5e}
 
-## Brand (§ 82 - § 158)
+## Kap. 9 Bygningens indretning (§ 196 - § 241) {#442713e8-0858-4f23-87cc-4c3b2f5bb051}
 
-[Kap. 6](../kap_6/)
+## Kap. 10 Elevatorer (§ 242 - § 249) {#5ec4d77e-3cd2-4d1d-ba64-ad4f9954f8bf}
 
-## Brugerbetjente anlæg (§ 159- § 160)
+## Kap. 11 Energiforbrug (§ 250 - § 298) {#f9fd0b02-272b-4227-9e89-86bb5dba60fb}
 
-[Kap. 7](../kap_7/)
+## Kap. 12 Energiforsyningsanlæg i tilknytning til bygninger (§ 299 - § 328) {#9f7bed7d-c0c0-4043-b957-a0017af52da9}
 
-## Byggepladsen og udførelsen af Byggearbejder (§ 161 - § 165)
+## Kap. 13 Forureninger (§ 329 - § 333) {#a7f320fa-6f2e-48c8-879f-fe8b2c922e76}
 
-[Kap. 8](../kap_8/)
+## Kap. 14 Fugt og vådrum (§ 334 - § 339) {#4c11b0ab-f471-47ec-b3a4-e58629b48465}
 
-## Byggeret og helhedsvurdering (§ 166 - § 195)
+## Kap. 15 Konstruktioner (§ 340 - § 357) {#4cb35d28-d446-42bd-a41d-18fa632cd21d}
 
-[Kap. 9](../kap_9/)
+## Kap. 16 Legepladser mv. (§ 358 - § 367) {#83d2a174-13e8-40da-aa6e-72980ebe21c9}
 
-## Bygningens indretning (§ 196 - § 241)
+## Kap. 17 Lydforhold (§ 368 - § 376) {#cb3506c7-de6c-4a55-a0d7-e3432c50eed5}
 
-[Kap. 10](../kap_10/)
+## Kap. 18 Lys og udsyn (§ 377 - § 384) {#07a3ec9f-f83d-4141-a7e5-3458817ed386}
 
-## Elevatorer (§ 242 - § 249)
+## Kap. 19 Termisk indeklima og installationer til varme- og køleanlæg (§ 385 - § 392) {#1b867f31-a587-4fe7-85e4-f564afd93e08}
 
-[Kap. 11](../kap_11/)
+## Kap. 20 Ubebyggede arealer ved bebyggelse (§ 393 - § 402) {#6e4cb21e-2572-4cc3-b3a3-bdb8d21d991d}
 
-## Energiforbrug (§ 250 - § 298)
+## Kap. 21 Vand (§ 403 - § 419) {#9fb8e93c-683d-4a4d-be50-ada6f6ae5c96}
 
-[Kap. 12](../kap_12/)
+## Kap. 22 Ventilation (§ 420 - § 452) {#cb4d9f74-5c60-480c-8489-349741e0ee7b}
 
-## Energiforsyningsanlæg i tilknytning til bygninger (§ 299 - § 328)
+## Kap. 23 Beregningsregler (§ 453 - § 458) {#70ff84fb-9c8c-4731-a549-e389cc55b563}
 
-[Kap. 13](../kap_13/)
+## Kap. 24 Beskrivelse af kontrolsystem for vand- og afløbsinstallationer (§ 459 - § 472) {#f715562a-893b-4f0a-819c-99c7f5cfb142}
 
-## Forureninger (§ 329 - § 333)
+## Kap. 25 Lavenergiklasse (§ 473 - § 484) {#6c9ca3b3-80d3-4e56-8e91-82ab01b0a6f8}
 
-[Kap. 14](../kap_14/)
+## Kap. 26 Konstruktionsklasser (§ 485 - § 489) {#7182dbed-a819-4cbc-bc74-cd80d3d447ab}
 
-## Fugt og vådrum (§ 334 - § 339)
+## Kap. 27 Brandklasser (§ 490 - § 493) {#46608419-5b43-46ad-90b4-acb7b0391f80}
 
-[Kap. 15](../kap_15/)
+## Kap. 28 Dokumentation af bærende konstruktioner (§ 494 - § 505) {#3beb73f9-1be5-4ce3-b211-38cb0540576a}
 
-## Konstruktioner (§ 340 - § 357)
+## Kap. 29 Dokumentation af brandforhold (§ 506 - § 522) {#5ab1f7ac-c4b7-44e6-9d99-397536af72ec}
 
-[Kap. 16](../kap_16/)
+## Kap. 30 Kontrol af dokumentation for bærende konstruktioner og brandforhold (§ 523 - § 528) {#7f63ebf7-abc7-471e-8d1a-a715151425c9}
 
-## Legepladser mv. (§ 358 - § 367)
+## Kap. 31 Bygværksprojekterende for de bærende konstruktioner (§ 529 - § 530) {#2242ec73-6f73-4391-9b3b-dfbbd29b4f1d}
 
-[Kap. 17](../kap_17/)
+## Kap. 32 Certificerede statikers og brandrådgivers virke (§ 531 - § 535) {#84965298-dea3-4aaf-bf92-8baf99b3b58b}
 
-## Lydforhold (§ 368 - § 376)
+## Kap. 33 Certificeret statikers virke (§ 536 - § 544) {#e8778136-8985-4776-a73a-435a88355db5}
 
-[Kap. 18](../kap_18/)
+## Kap. 34 Certificeret brandrådgivers virke (§ 545 - § 551) {#fec4683c-94e1-40fe-81c8-cfe1268f6dc3}
 
-## Lys og udsyn (§ 377 - § 384)
-
-[Kap. 19](../kap_19/)
-
-## Termisk indeklima og installationer til varme- og køleanlæg (§ 385 - § 392)
-
-[Kap. 20](../kap_20/)
-
-## Ubebyggede arealer ved bebyggelse (§ 393 - § 402)
-
-[Kap. 21](../kap_21/)
-
-## Vand (§ 403 - § 419)
-
-[Kap. 22](../kap_22/)
-
-## Ventilation (§ 420 - § 452)
-
-[Kap. 23](../kap_23/)
-
-## Beregningsregler (§ 453 - § 458)
-
-[Kap. 24](../kap_24/)
-
-## Beskrivelse af kontrolsystem for vand- og afløbsinstallationer (§ 459 - § 472)
-
-[Kap. 25](../kap_25/)
-
-## Lavenergiklasse (§ 473 - § 484)
-
-[Kap. 26](../kap_26/)
-
-## Konstruktionsklasser (§ 485 - § 489)
-
-[Kap. 27](../kap_27/)
-
-## Brandklasser (§ 490 - § 493)
-
-[Kap. 28](../kap_28/)
-
-## Dokumentation af bærende konstruktioner (§ 494 - § 505)
-
-[Kap. 29](../kap_29/)
-
-## Dokumentation af brandforhold (§ 506 - § 522)
-
-[Kap. 30](../kap_30/)
-
-## Kontrol af dokumentation for bærende konstruktioner og brandforhold (§ 523 - § 528)
-
-[Kap. 31](../kap_31/)
-
-## Bygværksprojekterende for de bærende konstruktioner (§ 529 - § 530)
-
-[Kap. 32](../kap_32/)
-
-## Certificerede statikers og brandrådgivers virke (§ 531 - § 535)
-
-[Kap. 33](../kap_33/)
-
-## Certificeret statikers virke (§ 536 - § 544)
-
-[Kap. 34](../kap_34/)
-
-## Certificeret brandrådgivers virke (§ 545 - § 551)
-
-[Kap. 35](../kap_35/)
-
-## Anerkendelse af statikere (§ 552 - § 563)
+## Kap. 35 Anerkendelse af statikere (§ 552 - § 563) {#b81b4ec6-dd24-412c-a863-94a1f07ebed5}
