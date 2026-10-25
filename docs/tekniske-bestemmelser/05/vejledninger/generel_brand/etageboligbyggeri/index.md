@@ -26,24 +26,24 @@
 
 ## Bilag 2 - Præ-accepterede løsninger - Etageboligbyggeri
 
-### Bilag 2 til Bygningsreglementets vejledning til kap. 5 – Brand
+### Bilag 2 til Bygningsreglementets vejledning til kap. 5 – Brand {#436f9ce8-1843-4d07-8aa5-707aa4ac22cc}
 
-[Åbn Bilag 2: Præ-accepterede løsninger for etageboligbyggeri version 1.4](../../../../../media/zj1pprxq/bilag-2-etagebyggeri-ver-14-20211029-a.pdf "Bilag 2 Etagebyggeri ver 14 20211029")
-
-Version 1.4 (29.10.2021)
-
-[Åbn Bilag 2: Præ-accepterede løsninger for etageboligbyggeri version 1.4 med ændringsmarkeringer](../../../../../media/1iyfy4h4/bilag-2-etagebyggeri-m-ndringsmarkeringer-ml-ver-13-og-14-a.pdf "Bilag 2 Etagebyggeri m ndringsmarkeringer ml ver 13 og 14")
+[Åbn Bilag 2: Præ-accepterede løsninger for etageboligbyggeri version 1.4](../../../../../media/zj1pprxq/bilag-2-etagebyggeri-ver-14-20211029-a.pdf "Bilag 2 Etagebyggeri ver 14 20211029"){rel="noopener" target="_blank"}
 
 Version 1.4 (29.10.2021)
 
-[Åbn Bilag 2: Præ-accepterede løsninger for etageboligbyggeri version 1.3](../../../../../media/g3sh5yk3/bilag-2-etageboligbyggeri-ver-13-20210617-a.pdf "Bilag 2 Etageboligbyggeri ver 13 20210617")
+[Åbn Bilag 2: Præ-accepterede løsninger for etageboligbyggeri version 1.4 med ændringsmarkeringer](../../../../../media/1iyfy4h4/bilag-2-etagebyggeri-m-ndringsmarkeringer-ml-ver-13-og-14-a.pdf "Bilag 2 Etagebyggeri m ndringsmarkeringer ml ver 13 og 14"){rel="noopener" target="_blank"}
+
+Version 1.4 (29.10.2021)
+
+[Åbn Bilag 2: Præ-accepterede løsninger for etageboligbyggeri version 1.3](../../../../../media/g3sh5yk3/bilag-2-etageboligbyggeri-ver-13-20210617-a.pdf "Bilag 2 Etageboligbyggeri ver 13 20210617"){rel="noopener" target="_blank"}
 
 Version 1.3 (17.06.2021)
 
-[Åbn Bilag 2: Præ-accepterede løsninger for etageboligbyggeri version 1.2 med ændringsvandmærke](../../../../../media/kkwfich2/bilag-2-etageboligbyggeri-ver-11-20200701-nu-med-ndringsvandmrke-a.pdf "Bilag 2 Etageboligbyggeri ver 11 20200701 nu med ndringsvandmrke")
+[Åbn Bilag 2: Præ-accepterede løsninger for etageboligbyggeri version 1.2 med ændringsvandmærke](../../../../../media/kkwfich2/bilag-2-etageboligbyggeri-ver-11-20200701-nu-med-ndringsvandmrke-a.pdf "Bilag 2 Etageboligbyggeri ver 11 20200701 nu med ndringsvandmrke"){rel="noopener" target="_blank"}
 
 Version 1.2 (03.07.2020)
 
-[Åbn Bilag 2: Præ-accepterede løsninger for etageboligbyggeri version 1.1](../../../../../media/zkuhr42h/bilag-2_praeaccepterede_loesninger_for_etageboligbyggeri_version-11_20122018.pdf "Bilag 2 Praeaccepterede Loesninger For Etageboligbyggeri Version 1.1 20122018")
+[Åbn Bilag 2: Præ-accepterede løsninger for etageboligbyggeri version 1.1](../../../../../media/zkuhr42h/bilag-2_praeaccepterede_loesninger_for_etageboligbyggeri_version-11_20122018.pdf "Bilag 2 Praeaccepterede Loesninger For Etageboligbyggeri Version 1.1 20122018"){rel="noopener" target="_blank"}
 
 Version 1.1 (20.12.2018)

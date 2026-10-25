@@ -43,7 +43,7 @@ Anvendelseskategorien skal bestemmes ud fra, om et bygningsafsnit er indrettet m
 *Tabel 1 - Anvendelseskategorier*
 
 |  |  |  |  |  |
-|:---|:---|:---|:---|:---|
+|----|----|----|----|----|
 | Anvendelseskategori | Bygningsafsnittet er indrettet med sovepladser | Personer i bygningsafsnittet har kendskab til flugtveje | Personers mulighed for ved egen hjælp at bringe sig i sikkerhed | Maksimalt antal personer, som den brandmæssige enhed er indrettet til |
 |  1 | Nej |  Ja | Ja  | Ingen begrænsning |
 |  2 | Nej | Nej | Ja | Højst 50 |
@@ -62,11 +62,11 @@ Fastlæggelse af risikoklassen for et bygningsafsnit skal ske i overensstemmelse
 
 *Tabel 2 - Risikoklasser*
 
-<table style="width:100%;">
+<table>
 <colgroup>
-<col style="width: 8%" />
-<col style="width: 13%" />
-<col style="width: 78%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
 </colgroup>
 <tbody>
 <tr>
@@ -107,7 +107,7 @@ eller<br />
 bygninger eller bygningsafsnit i bygninger med højst 1 etage over terræn og højst 1 etage under terræn, hvor gulv er højst 5,0 m under terræn, og hvor brandbelastningen i bygningsafsnittet kan være større end 1.600 MJ/m² gulvareal<br />
 eller<br />
 bygningsafsnit højst 1 etage under terræn, i bygninger, hvor ingen bygningsafsnit er indplaceret i risikoklasse 4, og hvor gulv er højst 5,0 m under terræn.<br />
-</td>
+ </td>
 </tr>
 <tr>
 <td>2</td>
@@ -117,9 +117,9 @@ bygningsafsnit placeret 1 etage under terræn, hvor gulv er højst 5,0 m under t
 </tr>
 <tr>
 <td>3</td>
-<td>Bygningsafsnit placeret i terrænniveau i højst 1 etage, i bygninger med gulv i øverste etage højst 45,0 m over terræn, hvor antallet af personer i bygningsafsnittet er højst 1.000<br />
+<td><p>Bygningsafsnit placeret i terrænniveau i højst 1 etage, i bygninger med gulv i øverste etage højst 45,0 m over terræn, hvor antallet af personer i bygningsafsnittet er højst 1.000<br />
 eller<br />
-bygningsafsnit højst 1 etage under terræn, i bygninger hvor ingen bygningsafsnit er indplaceret i risikoklasse 4, hvor gulv er højst 5,0 m under terræn, og hvor antallet af personer i bygningsafsnittet er højst 1.000.</td>
+bygningsafsnit højst 1 etage under terræn, i bygninger hvor ingen bygningsafsnit er indplaceret i risikoklasse 4, hvor gulv er højst 5,0 m under terræn, og hvor antallet af personer i bygningsafsnittet er højst 1.000.</p></td>
 </tr>
 <tr>
 <td>4</td>
@@ -163,9 +163,9 @@ bygningsafsnit højst 1 etage under terræn, i bygninger hvor ingen bygningsafsn
 </tr>
 <tr>
 <td>6</td>
-<td>Bygninger eller bygningsafsnit placeret i højst 2 etager over terræn, hvis gulv i bygningens øverste etage er højst 45,0 m over terræn<br />
+<td><p>Bygninger eller bygningsafsnit placeret i højst 2 etager over terræn, hvis gulv i bygningens øverste etage er højst 45,0 m over terræn<br />
 eller<br />
-bygningsafsnit højst 1 etage under terræn, i bygninger hvor ingen bygningsafsnit er indplaceret i risikoklasse 4, og hvor gulv er højst 5,0 m under terræn.</td>
+bygningsafsnit højst 1 etage under terræn, i bygninger hvor ingen bygningsafsnit er indplaceret i risikoklasse 4, og hvor gulv er højst 5,0 m under terræn.</p></td>
 </tr>
 <tr>
 <td>4</td>
@@ -348,7 +348,11 @@ I tilfælde af brand skal bygninger og bygningsdele have en tilstrækkelig brand
 
 Brandmodstandsevnen for bærende bygningsdele bestemmes enten ved standardbrandpåvirkning eller ved anvendelse af et naturligt brandforløb som beskrevet i DS/EN 1991-1-2 Eurocode 1: Last på bærende konstruktioner- Del 1-2: Generelle laster - Brandlast og DS/EN 1991-1-2 DK NA Nationalt Anneks til Eurocode 1: Last på bygværker - Del 1-2: Generelle laster - Brandlaster.
 
-*Stk. 2.* Anvendes et naturligt brandforløb i medfør af stk. 1, skal det dokumenteres, at konstruktionen kan modstå det fulde brandforløb. § 101 § 100 kan fraviges, hvis det på anden vis sikres og dokumenteres, at fravigelsen er forsvarlig, og der opnås et sikkerhedsniveau som beskrevet i § 82 og § 344, stk. 2, nr. 1.
+*Stk. 2.* Anvendes et naturligt brandforløb i medfør af stk. 1, skal det dokumenteres, at konstruktionen kan modstå det fulde brandforløb.
+
+### § 101 {#paragraf-101}
+
+§ 100 kan fraviges, hvis det på anden vis sikres og dokumenteres, at fravigelsen er forsvarlig, og der opnås et sikkerhedsniveau som beskrevet i § 82 og § 344, stk. 2, nr. 1.
 
 ### § 102 {#paragraf-102}
 
@@ -420,7 +424,11 @@ Byggeri kan opdeles i flere brandmæssige enheder. Opdelingen i brandmæssige en
 
 ### § 112 {#paragraf-112}
 
-Bygningsafsnit skal udgøre en eller flere selvstændige brandmæssige enheder. § 113 (Ophævet)
+Bygningsafsnit skal udgøre en eller flere selvstændige brandmæssige enheder.
+
+### § 113 {#paragraf-113}
+
+(Ophævet)
 
 ### § 114 {#paragraf-114}
 
@@ -484,7 +492,7 @@ Stk. 2. Telte er ikke omfattet af stk. 1.
 
 ### § 123 {#paragraf-123}
 
-Der skal installeres automatisk sprinkleranlæg i bygninger for at sikre mod brandspredning i følgende:
+ Der skal installeres automatisk sprinkleranlæg i bygninger for at sikre mod brandspredning i følgende:
 
 1) Bygningsafsnit i bygninger i 1 etage i anvendelseskategori 1, med et etageareal større end 2.000 m², med undtagelse af:
 
@@ -769,9 +777,7 @@ En drifts-, kontrol- og vedligeholdelsesplan for bygningsafsnit i § 153 skal ud
 
 ### § 156 {#paragraf-156}
 
-Drift, kontrol og vedligehold af følgende skal ske på en sådan måde, at §§ 137-142 og § 157 til en hver tid er overholdt:
-
-1) Transportable konstruktioner til flere end 150 personer.
+Drift, kontrol og vedligehold af følgende skal ske på en sådan måde, at §§ 137-142 og § 157 til en hver tid er overholdt:   1) Transportable konstruktioner til flere end 150 personer.
 
 2) Midlertidige camping- og salgsområder til flere end 150 personer.
 
@@ -779,11 +785,7 @@ Drift, kontrol og vedligehold af følgende skal ske på en sådan måde, at §§
 
 Der skal udarbejdes en drifts-, kontrol- og vedligeholdelsesplan for de transportable konstruktioner og områder nævnt i § 156, så følgende sikres:
 
-1) Der i forsamlingstelte som anvendes af flere end 150 personer udarbejdes en driftsjournal og en pladsfordelingsplan.
-
-2) Der udarbejdes en brand- og evakueringsinstruks.
-
-3) Der udarbejdes ordensregler om forebyggelse af brand.
+1) Der i forsamlingstelte som anvendes af flere end 150 personer udarbejdes en driftsjournal og en pladsfordelingsplan. 2) Der udarbejdes en brand- og evakueringsinstruks. 3) Der udarbejdes ordensregler om forebyggelse af brand.
 
 4) Personalet er instrueret i de udarbejdede ordensregler, brand- og evakueringsinstruks, placering og brug af håndslukningsudstyr og brandtekniske installationer.
 
