@@ -656,7 +656,7 @@ UUID = r"[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}"
 TRIGGER_TITLE = "br18-accordion-trigger"
 # Accordion triggers, marked by the Cleaner; other uuid links point at other pages' sections.
 UUID_ANCHOR_LINK_RE = re.compile(
-    rf"(?P<space>\s*)\[(?P<label>[^\]]+)\]\([^)\s]*#(?P<id>{UUID}) \"{TRIGGER_TITLE}\"\)"
+    rf"(?P<space>\s*)\[(?P<label>[^\]]*)\]\([^)\s]*#(?P<id>{UUID}) \"{TRIGGER_TITLE}\"\)"
 )
 HEADING_RE = re.compile(r"^(#{1,6}\s+.*?)(?:\s+\{[^}]*\})?\s*$")
 HEADING_ATTR_RE = re.compile(r"^(?P<head>#{1,6}\s+.*?)(?:\s+\{(?P<attrs>[^}]*)\})?\s*$")
@@ -757,7 +757,6 @@ def convert_file(path: Path, docs_root: Path, delete_html: bool) -> bool:
 
     # Python-Markdown cannot unescape `\<`, so the page would show the backslash.
     markdown = re.sub(r"\[\]\{#[^}]+\}", "", proc.stdout.replace("\\<", "&lt;"))
-    markdown = re.sub(r"(?m)^\[\]\([^\n]+\)\s*$", "", markdown)
     markdown = re.sub(
         r"\*\[\]\([^)]+(?:localLink:umb:|%7BlocalLink:umb:)[^)]+\)([^*]+)\*",
         r"*\1*",
@@ -787,6 +786,8 @@ def convert_file(path: Path, docs_root: Path, delete_html: bool) -> bool:
     markdown = escape_unresolved_reference_labels(markdown)
     markdown = TABLE_TOKEN_RE.sub(lambda m: tables[int(m.group(1))], markdown)
     markdown = markdown.replace(f' "{TRIGGER_TITLE}")', ")")
+    # An empty link to a fragment of the page itself (the "Indholdsoversigt" toggle) shows and does nothing.
+    markdown = re.sub(r"\n{3,}", "\n\n", re.sub(r"\[\]\(#[^)\s]*\)", "", markdown))
     if output.parent == path:
         if not delete_html:
             raise RuntimeError(f"cannot keep extensionless route HTML while writing {output}")

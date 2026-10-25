@@ -128,6 +128,11 @@ class ConvertTest(unittest.TestCase):
         self.assertIn('[](../media/x/en.pdf "DS EN 1991-1-1 English")-', markdown)
         self.assertIn("- [](faq/)", markdown)
 
+    def test_text_after_an_empty_link_is_kept(self) -> None:
+        markdown = self.convert('<p><a href="/media/x/b4.pdf" title="Bilag 4"></a>Version 1.0 (21.12.2018)</p>')
+
+        self.assertIn('[](../media/x/b4.pdf "Bilag 4")Version 1.0 (21.12.2018)', markdown)
+
     def test_links_to_the_origins_internal_cms_host_are_dropped(self) -> None:
         markdown = self.convert(
             '<p><a rel="noopener" href="https://tbstsc.dev.local/-/media/71F0.ashx" target="_blank">Åbn r</a>'
@@ -150,8 +155,22 @@ class ConvertTest(unittest.TestCase):
         self.assertIn("Dette fremgår af byggelovens § 16 C, stk. 1. Kommunalbestyrelsen påser også det.", markdown)
         self.assertIn("(kapitel 8) samt ubebyggede arealer (jf. § 256, stk. 3) plus det.", markdown)
 
+    def test_accordion_trigger_without_a_tag_still_gives_its_heading_the_id(self) -> None:
+        markdown = self.convert(
+            '<section><a href="/side/tabel_1/#3498d4bb-6317-4085-8a97-18bc8fae2ab3" class="accordion__trigger">'
+            '<h3 class="accordion__title">Tabel 1</h3></a><p>Tekst</p></section>'
+        )
+
+        self.assertIn("### Tabel 1 {#3498d4bb-6317-4085-8a97-18bc8fae2ab3}", markdown)
+        self.assertNotIn("[]", markdown)
+
+    def test_empty_link_to_a_fragment_of_the_page_is_dropped(self) -> None:
+        markdown = self.convert('<a href="#Indholdsoversigt" class="accordion__trigger"><svg></svg></a><p>Tekst</p>')
+
+        self.assertEqual(markdown, "Tekst\n")
+
     def test_page_ends_with_a_single_newline(self) -> None:
-        markdown = self.convert("<p>Tekst</p><p><a href='/x'></a></p>")
+        markdown = self.convert("<p>Tekst</p><div><span>&nbsp;</span></div><div></div>")
 
         self.assertTrue(markdown.endswith("Tekst\n"), repr(markdown[-20:]))
 
