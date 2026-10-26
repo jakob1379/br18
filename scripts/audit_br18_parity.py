@@ -168,7 +168,9 @@ def page_title(html_text: str) -> str:
     title = text(TITLE_RE.search(html_text)).removesuffix(TITLE_SUFFIX)
     if title and title != site_title:
         return title
-    return text(H1_RE.search(html_text, max(html_text.find("<main"), 0))) or site_title
+    start = max(html_text.find("<main"), 0)
+    end = html_text.find("</main>", start)
+    return text(H1_RE.search(html_text, start, end if end > 0 else len(html_text))) or site_title
 
 
 def text_diff(origin: list[str], local: list[str]) -> tuple[list[str], list[str]]:

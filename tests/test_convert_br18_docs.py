@@ -11,12 +11,12 @@ SCRIPT = Path(__file__).resolve().parent.parent / "scripts" / "convert_br18_docs
 
 
 class ConvertTest(unittest.TestCase):
-    def convert(self, body: str, title: str = "BR18") -> str:
+    def convert(self, body: str, title: str = "BR18", after_main: str = "") -> str:
         root = Path(tempfile.mkdtemp())
         self.addCleanup(shutil.rmtree, root)
         (root / "side").mkdir()
         (root / "side" / "index.html").write_text(
-            f"<html><head><title>{title}</title></head><body><main>{body}</main></body></html>", encoding="utf-8"
+            f"<html><head><title>{title}</title></head><body><main>{body}</main>{after_main}</body></html>", encoding="utf-8"
         )
         subprocess.run([sys.executable, str(SCRIPT), "--docs-root", str(root)], check=True, capture_output=True)
         return (root / "side" / "index.md").read_text(encoding="utf-8")
@@ -30,6 +30,11 @@ class ConvertTest(unittest.TestCase):
         markdown = self.convert("<h1>Adgangsforhold (§ 48 - § 62)</h1><p>Tekst.</p>")
 
         self.assertTrue(markdown.startswith('---\ntitle: "Adgangsforhold (§ 48 - § 62)"\n---\n\n'), markdown)
+
+    def test_blank_page_is_titled_by_the_site_not_by_a_heading_outside_its_content(self) -> None:
+        markdown = self.convert("", after_main='<div class="search-modal"><h1 class="visuallyhidden">Alle resultater</h1></div>')
+
+        self.assertTrue(markdown.startswith('---\ntitle: "BR18"\n---\n'), markdown)
 
     def test_origin_tab_bar_becomes_buttons_under_the_heading(self) -> None:
         markdown = self.convert(
