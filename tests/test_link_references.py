@@ -22,6 +22,10 @@ KRAV_1 = """# Administrative bestemmelser (§ 1 - § 47)
 
 ### § 6 {#paragraf-6}
 
+### § 6 f {#paragraf-6f}
+
+### § 6 i {#paragraf-6i}
+
 ### § 12 {#paragraf-12}
 
 ### § 13 {#paragraf-13}
@@ -231,6 +235,24 @@ class LinkReferencesTest(unittest.TestCase):
             'eller [§ 14](../../krav/#paragraf-14 "BR18 § 14"){ .br18-ref }.',
         )
 
+    def test_range_of_lettered_paragraphs_ends_at_the_letter(self) -> None:
+        self.assertEqual(
+            self.link("omfattet af §§ 6 f - 6 i skal"),
+            'omfattet af [§§ 6 f - 6 i](../../krav/#paragraf-6f "BR18 §§ 6f-6i"){ .br18-ref } skal',
+        )
+
+    def test_ordinary_words_after_a_reference_are_not_an_instrument(self) -> None:
+        linked = self.link("at § 39 og § 22 til en hver tid er overholdt, og § 4, i en afstand")
+        self.assertEqual(linked.count("{ .br18-ref }"), 3)
+
+    def test_double_sign_list_with_stk_lists_is_ambiguous(self) -> None:
+        text = "jf. byggelovens §§ 6, stk. 3, 7, stk. 2, 12, 14, 18 og 18 A."
+        self.assertEqual(self.link(text), text)
+        self.assertIn("ambiguous", self.unresolved())
+
+    def test_second_stk_joined_by_og_stays_in_the_link(self) -> None:
+        self.assertEqual(self.link("omfattet af § 5, stk. 1 og stk. 2."), 'omfattet af [§ 5, stk. 1 og stk. 2](../../krav/#paragraf-5 "BR18 § 5"){ .br18-ref }.')
+
     def test_number_that_is_not_a_br18_paragraph_is_unlinked_and_listed(self) -> None:
         self.assertEqual(self.link("jf. § 999."), "jf. § 999.")
         self.assertIn(f"{GUIDE}/index.md\t§ 999\t", self.unresolved())
@@ -265,6 +287,11 @@ class LinkReferencesTest(unittest.TestCase):
             f'jf. byggelovens [§ 25, stk. 1]({ELI}/2016/1178#P25 "Byggeloven § 25"){{ .br18-ref .br18-ref--ext }}.',
         )
 
+    def test_a_following_jf_citation_does_not_rescope_the_reference(self) -> None:
+        linked = self.link("i strid med byggelovens § 25, jf. byggelovens § 28.")
+        self.assertIn(f"({ELI}/2016/1178#P25 ", linked)
+        self.assertIn(f"({ELI}/2016/1178#P28 ", linked)
+
     def test_footnote_marker_between_law_name_and_paragraph(self) -> None:
         linked = self.link("Byggelovens^1^ § 28, stk. 1 gælder.")
         self.assertIn(f"({ELI}/2016/1178#P28 ", linked)
@@ -281,10 +308,11 @@ class LinkReferencesTest(unittest.TestCase):
             "museumslovens § 24",
             "lov om etablering og fælles udnyttelse af master til radiokommunikationsformål m.v. § 1, stk. 4, nr. 2",
             "beredskabslovens § 12, stk. 1",
+            "som defineret i affaldsbekendtgørelsen[\\[1\\]](#_ftn1){#_ftnref1} § 2.",
         ):
             with self.subTest(text=text):
                 self.assertEqual(self.link(text, page="administrative-bestemmelser/krav/sub"), text)
-        self.assertIn("museumslovens", self.unresolved())
+                self.assertIn("instrument not in xref-laws.toml", self.unresolved())
 
     def test_paragraph_missing_from_the_current_law_is_unlinked(self) -> None:
         self.assertEqual(self.link("jf. byggelovens § 99"), "jf. byggelovens § 99")
@@ -331,6 +359,36 @@ class LinkReferencesTest(unittest.TestCase):
     def test_chapter_in_a_guide_is_linked_only_when_br18_is_named(self) -> None:
         self.assertEqual(self.link("se kapitel 5"), "se kapitel 5")
         self.assertEqual(self.link("se BR18 kapitel 5"), 'se BR18 [kapitel 5](../../../tekniske-bestemmelser/05/krav/ "BR18 kapitel 5"){ .br18-ref }')
+
+    def test_chapter_in_a_guide_is_linked_when_the_text_names_its_title(self) -> None:
+        self.assertEqual(self.link("jf. kap. 5 om brand"), 'jf. [kap. 5](../../../tekniske-bestemmelser/05/krav/ "BR18 kapitel 5"){ .br18-ref } om brand')
+        self.assertEqual(self.link("Kapitel 5: Brand"), '[Kapitel 5](../../../tekniske-bestemmelser/05/krav/ "BR18 kapitel 5"){ .br18-ref }: Brand')
+        (self.data / "xref-unresolved.tsv").unlink()
+        self.assertEqual(self.link("kapitel 5 om kommuneplanlægning"), "kapitel 5 om kommuneplanlægning")
+
+    def test_chapter_list_gets_one_link_per_number(self) -> None:
+        self.assertEqual(
+            self.link("jf. kapitel 5 og 1.", page="ovrige-bestemmelser/30/krav"),
+            'jf. [kapitel 5](../../../tekniske-bestemmelser/05/krav/ "BR18 kapitel 5"){ .br18-ref } og '
+            '[1](../../../administrative-bestemmelser/krav/ "BR18 kapitel 1"){ .br18-ref }.',
+        )
+
+    def test_chapter_range_links_its_first_chapter_and_is_never_cut_short(self) -> None:
+        self.assertEqual(
+            self.link("jf. kapitel 1-5, og mere", page="ovrige-bestemmelser/30/krav"),
+            'jf. [kapitel 1-5](../../../administrative-bestemmelser/krav/ "BR18 kapitel 1-5"){ .br18-ref }, og mere',
+        )
+
+    def test_table_list_gets_one_link_per_table_and_unknown_items_leave_it_unlinked(self) -> None:
+        self.assertEqual(
+            self.link("jf. bilag 3, tabel 4b og 4b.", page="ovrige-bestemmelser/30/krav"),
+            'jf. [bilag 3, tabel 4b](../../../bilag/b3/bilag_3/#t4b "BR18 bilag 3, tabel 4b"){ .br18-ref } og '
+            '[4b](../../../bilag/b3/bilag_3/#t4b "BR18 bilag 3, tabel 4b"){ .br18-ref }.',
+        )
+        (self.data / "xref-unresolved.tsv").unlink()
+        for text in ("jf. kapitel 5 og 44", "jf. bilag 3, tabel 4b og 5.", "i bilag 1-10 til vejledningen"):
+            with self.subTest(text=text):
+                self.assertEqual(self.link(text, page="ovrige-bestemmelser/30/krav"), text)
 
     def test_annex_table_links_to_the_table_heading(self) -> None:
         self.assertEqual(

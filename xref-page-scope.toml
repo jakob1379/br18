@@ -1,0 +1,20 @@
+# Default law for `§ N` references that name no instrument, by docs path prefix (the longest prefix wins).
+# Regulation pages (chapter krav pages, chapter hubs, bilag/bN/bilag_N) are always BR18 and are not listed.
+# A guide page under no prefix gets no default: its implicit references stay unlinked (xref-unresolved.tsv).
+# Values: "br18" or a law key of xref-laws.toml.
+
+[scope]
+"administrative-bestemmelser/brv/" = "br18"
+"administrative-bestemmelser/brv/vejledning-om-byggeri_over_skel/udstykningsloven/" = "udstykningsloven"
+"tekniske-bestemmelser/" = "br18"
+"ovrige-bestemmelser/" = "br18"
+"straf-og-ikrafttraedelse/" = "br18"
+"bilag/" = "br18"
+"vejledninger/bygningsreglementets-vejledninger/" = "br18"
+"vejledninger/andre_vejledninger/vejledning/vejledning-om-laderstander/" = "ladestanderbekendtgoerelsen"
+"vejledninger/andre_vejledninger/vejledning/vejledning-om-byggelovens-6-d/" = "byggeloven"
+"vejledninger/andre_vejledninger/vejledning/spoergsmaal-og-svar-om-certificeringsordningen/" = "certificeringsbekendtgoerelsen"
+"vejledninger/andre_vejledninger/vejledning/qa-vedr-akkreditering-og-certificering-ift-certificeringsordningen/" = "certificeringsbekendtgoerelsen"
+"vejledninger/andre_vejledninger/vejledning/certificering_statikere_brandradgivere/" = "certificeringsbekendtgoerelsen"
+"vejledninger/andre_vejledninger/vejledning/vejledning-om-tiny-houses/" = "br18"
+"vejledninger/andre_vejledninger/vejledning/vejledning-om-skorstensfejerordningen/" = "skorstensfejerbekendtgoerelsen"
