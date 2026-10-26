@@ -8,6 +8,8 @@
 
 ## Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder
 
+<span id="forord"></span>
+
 ### Forord {#53aaae9d-a33f-44f1-868e-5c37b9a3decc}
 
 ### 1.0. Generelt {#ae17a0d2-4078-40c7-9064-6ab09cfc67b2}
@@ -60,6 +62,8 @@ Skiltning af risikoområder, flugtveje, brandslukningsmateriel, redningsmateriel
 
 Bekendtgørelse nr. 518 af 17/06/1994 (med senere ændringer) om sikkerhedsskiltning og anden form for signalgivning
 
+<span id="_1"></span><span id="_2"></span>
+
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/Forms/R0710.aspx?id=67376){target="_blank"}
 
 **Byggeaffald**
@@ -77,6 +81,8 @@ Påfyldning af brændstof til maskiner, generatorer, kompressorer, arbejdsredska
 [![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Bekendtgørelse nr. 1639 af 06/12/2006 om Brandfarlige og brandbare væsker – (inklusiv tekniske forskrifter)
+
+<span id="_3"></span><span id="_4"></span><span id="_5"></span><span id="_6"></span>
 
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/Forms/R0710.aspx?id=185816){target="_blank"}
 

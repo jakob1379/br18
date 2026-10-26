@@ -8,17 +8,31 @@
 
 ## Bygningsreglementets vejledning om ventilation
 
+<span id="forord"></span>
+
 ### Forord {#1e05e48e-6478-41b0-a8d2-c1bcb6c2e292}
+
+<span id="generelt-om-bestemmelserne-om-ventilation"></span>
 
 ### 1.1. Generelt om bestemmelserne om ventilation {#670cd376-5a3b-4f8c-ae13-b55176029380}
 
+<span id="luftindtag-og-afkast"></span>
+
 ### 1.2. Luftindtag og -afkast {#a4dae939-46b9-4e31-9e35-bcbf2321b11f}
+
+<span id="trk"></span>
 
 ### 1.3. Træk {#626c6ed0-d8db-43db-88f0-3c9df15a14b2}
 
+<span id="overfrsel-af-luft-mellem-rum"></span>
+
 ### 1.4. Overførsel af luft mellem rum {#9585ac1f-f041-4ab4-b904-ce4720f5f1d8}
 
+<span id="energikrav-til-ventilationssystemer"></span>
+
 ### 1.5. Energikrav til ventilationssystemer {#26e28304-9f06-4175-baef-1bd6186d4204}
+
+<span id="ventilation-i-beboelsesbygninger"></span>
 
 ### 1.6. Ventilation i beboelsesbygninger {#5e6d9918-0372-42b6-8af9-993eb2861b42}
 
@@ -141,6 +155,8 @@ Ventilation i bygninger - Ydeevneprøvning af komponenter/produkter til boligven
 
 This document specifies methods for measuring the main performance characteristics of range hoods for residential use. It applies to air extraction range hoods without fan.
 
+<span id="protected_13"></span><span id="protected_14"></span>
+
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/s%c3%b8gning/91-140-30-ventilationssystemer-og-klimaanl%c3%a6g/ds-en-13141-32017 "DS/EN 13141-3"){target="_blank"}
 
 [![](../../../../../assets/img/linkbox/ds_en_linkbox.svg)](#)
@@ -199,10 +215,18 @@ For bygninger der skal anvendes til bolig med et behovsstyret ventilationssystem
 
 For etageboligbygninger, kollegier, hoteller og lign. kan der ikke anvendes reduceret ventilation i fælles rum, som fx trappe og gangarealer. Ligeledes kan der ikke indregnes reduceret ventilation i boliger hvor beboerne i vid udstrækning må forventes at være hjemme i udstrakt grad, eksempelvis plejehjem.
 
+<span id="ventilation-af-andre-bygninger-og-rum"></span>
+
 ### 1.7. Ventilation af andre bygninger og rum {#9b9e4589-4565-4dee-b20d-553695f2cad6}
+
+<span id="ventilation-af-daginstitutioner-og-undervisningsrum"></span>
 
 ### 1.8. Ventilation af daginstitutioner og undervisningsrum {#25f1bfe1-d835-42f9-b095-95af5ceda41b}
 
+<span id="funktionsafprvning"></span>
+
 ### 1.9. Funktionsafprøvning {#ad1b9889-dbb6-4715-bb2e-463ac6068b46}
+
+<span id="drift-og-vedligehold"></span>
 
 ### 1.10. Drift og vedligehold {#6e48ddb0-faf3-4a33-90dd-8d2600796ee3}

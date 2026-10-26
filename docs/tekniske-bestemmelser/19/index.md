@@ -3,6 +3,8 @@
 [Krav](./){ .md-button .md-button--primary }
 [Vejledning](brv/){ .md-button }
 
+<span id="s385-386"></span><span id="paragraf-385"></span><span id="paragraf-386"></span><span id="s387-389"></span>
+
 ## § 385 Termisk indeklima og installationer til varme- og køleanlæg {#fa6efb08-f07e-4d12-b890-cca88e772787}
 
 Bygninger skal have et sundheds- og komfortmæssigt tilfredsstillende termisk indeklima i forhold til anvendelsen.
@@ -50,6 +52,8 @@ Varme- og køleinstallationer skal projekteres og udføres, så:
 9.  Der under hensyn til anvendelsen ikke forekommer overfladetemperaturer, der kan medføre skader på personer.
 10. De kan renses, betjenes og vedligeholdes i fornødent omfang. Komponenter, der kræver betjening, eftersyn eller vedligehold, skal være let tilgængelige, så dette kan ske på en hensigtsmæssig og forsvarlig måde.
 
+<span id="p390"></span>
+
 ## § 390 Energiforbrug {#808188ad-5315-463e-999c-86e8165b85f8}
 
 Installationer skal udføres, så unødvendigt energiforbrug undgås. Installationerne skal isoleres mod varmetab og kondens i overensstemmelse med DS 452 Termisk isolering af tekniske installationer.
@@ -58,9 +62,13 @@ Installationer skal udføres, så unødvendigt energiforbrug undgås. Installati
 
 *Stk. 3.* Målere, der anvendes til måling af elforbrug eller køling, jf. stk. 2, skal have en tilfredsstillende nøjagtighed.
 
+<span id="p391"></span>
+
 ## § 391 Kontrol {#4c7bbd31-b269-4ca3-875c-1904e102a154}
 
 Der skal gennemføres en funktionsafprøvning af varme- og køleanlæg før ibrugtagning. Funktionsafprøvningen skal dokumentere, at varme- og køleanlæggene overholder bygningsreglementets krav til indregulering og styring.
+
+<span id="p392"></span>
 
 ## § 392 Drift og vedligehold {#9e7aa923-4d4d-4faa-bc24-1cb36df4b85d}
 

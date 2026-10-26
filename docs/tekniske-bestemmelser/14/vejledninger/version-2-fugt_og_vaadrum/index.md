@@ -7,6 +7,8 @@
 
 ## Bygningsreglementets vejledning om fugt og vådrum
 
+<span id="_1"></span><span id="generelt-om-fugt-og-vadrum"></span>
+
 ### Generelt om fugt og vådrum {#cacc9ea9-63fb-42d2-b4e1-448c263cf36d}
 
 Kravene i kapitel 14 om fugt og vådrum er indført for at beskytte bygninger mod fugt og vand. Fugt og vand må ikke medføre risiko for personers sundhed eller give risiko for skader på bygninger. Fugtskader er et af de mest udbredte problemer i byggeriet. Typiske problemer i forhold til utilsigtet fugtpåvirkning i bygninger er skimmelsvampevækst, råd og svampevækst, der kan give helbredsproblemer.
@@ -22,6 +24,8 @@ Det er derfor vigtigt, at vælge robuste løsninger, dvs. enten løsninger der f
 Typer af fugtpåvirkninger
 
 - [Gå til krav om Fugt og vådrum](../../krav/334_338/#15eef60e-136b-4f8a-88ab-46705ab5ca21){target="_blank"}
+
+<span id="15eef60e-136b-4f8a-88ab-46705ab5ca21"></span>
 
 ### 1.0. Fugt {#518be76c-4c21-4760-9fae-5c60265b1fd6}
 
@@ -63,11 +67,15 @@ Af hensyn til grundvandsressourcerne og rensningsanlægs funktion kan overfladev
 
 [![](../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
+<span id="_2"></span><span id="_3"></span><span id="_4"></span><span id="miljministeriets-bekendtgrelse-om-spildevandstilladelser"></span>
+
 #### Miljøministeriets bekendtgørelse om
 
 Spildevandstilladelser
 
 #### Anvendelsesområde
+
+<span id="se-anvisningen-her-sbi-anvisning-252"></span>
 
 #### Se bekendtgørelsen her [Spildevandsbekendtgørelsen](https://www.retsinformation.dk/eli/lta/2024/532 "Miljøministeriets bekendtgørelse om "){target="_blank"}
 

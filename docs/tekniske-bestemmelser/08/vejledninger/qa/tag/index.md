@@ -7,6 +7,8 @@
 
 ## Spørgsmål og svar om måling af højden på en ydervæg
 
+<span id="hjden-pa-en-ydervg"></span>
+
 ### Højden på en ydervæg {#070f1528-568b-4ae3-a5be-535147deca2b}
 
 [? Hvordan måler man højden på en ydervæg?](#070f1528-568b-4ae3-a5be-535147deca2b) Det er styrelsen vurdering, at en ydervæg efter BR18 § 178, stk. 1, nr. 3 skal måles fra naturligt terræn til oversiden af tagfladen.

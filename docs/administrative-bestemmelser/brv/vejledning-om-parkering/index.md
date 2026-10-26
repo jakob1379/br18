@@ -1,5 +1,7 @@
 # Administrative bestemmelser (§ 1 - § 47)
 
+<span id="administrative-bestemmelser-1-"></span><span id="se-alle-vejledninger-om-administrative-bestemmelser-1-"></span>
+
 ## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../spoergsmaal-og-svar/)
@@ -21,6 +23,8 @@
 - [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../temasiden-brandogkonstruktioner-dk/)
 
 ## Vejledning til kommunerne om krav til parkering i forbindelse med byggeri
+
+<span id="indledning"></span>
 
 ### Indledning {#f9ceb636-87f6-4541-bb03-da4fb6904eea}
 

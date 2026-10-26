@@ -12,6 +12,8 @@ title: Byggeret og helhedsvurdering (§ 166 - § 195) – Vejledning
 - [Spørgsmål og svar om måling af højden på en ydervæg](../vejledninger/qa/)
 - [Vejledning om bygningsreglementets kapitel 8 - byggeret og helhedsvurdering, kapitel 20 - ubebyggede arealer ved bebyggelse og kapitel 23 - beregningsregler](../vejledninger/byggeret_helhedsvurdering_ubebyggede_beregningsregler/)
 
+<span id="vejledning-om-bygningsreglementets-kapitel-8---byggeret-og-helhedsvurdering-kapitel-20---ubebyggede-arealer-ved-bebyggelse-og-kapitel-23---beregningsregler"></span><span id="rettelsesblad-til-vejledning-om-bygningsreglementets-kapitel-8---byggeret-og-helhedsvurdering-kapitel-20---ubebyggede-arealer-ved-bebyggelse-og-kapitel-23---beregningsregler-01-01-2024"></span><span id="vejledning-om-bygningsreglementets-kapitel-8---byggeret-og-helhedsvurdering-kapitel-20---ubebyggede-arealer-ved-bebyggelse-og-kapitel-23---beregningsregler-1"></span><span id="spoergsmaal-og-svar-om-maaling-af-hoejden-paa-en-ydervaeg"></span><span id="hoejden-paa-en-ydervaeg"></span>
+
 ## Spørgsmål og svar om måling af højden på en ydervæg
 
 ### Højden på en ydervæg {#070f1528-568b-4ae3-a5be-535147deca2b}

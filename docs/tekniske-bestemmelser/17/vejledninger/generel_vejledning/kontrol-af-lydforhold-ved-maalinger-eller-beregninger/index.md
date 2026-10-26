@@ -11,6 +11,8 @@
 
 ## Bygningsreglementets vejledning om lydforhold
 
+<span id="forord"></span>
+
 ### Forord {#f8f28711-8be8-4539-ba26-9a8f0b1e4f41}
 
 ### 1.0 Generelt for bestemmelserne om lydforhold (§§ 368 - 376) {#0bbdae59-0484-4bd1-b5f8-4e14c23f4e45}
@@ -86,5 +88,7 @@ Det ækvivalente absorptionsareal eftervises ved beregning. Med undtagelse af st
 *Store, højloftede fælles- og opholdsrum:*
 
 Balkoner, hemse og lignende i dobbelthøje rum skal ikke umiddelbart medregnes i gulvarealet ved fastsættelse af grænseværdien for absorptionsarealet, men er det muligt, vil det dog forbedre lydforholdene. Er der tale om store rum med gennembrydninger mellem etagerne, kan grænseværdierne med fordel fastsættes for hver etage for sig.
+
+<span id="_1"></span>
 
 ### 1.5 Referenceliste {#9a559514-a587-4dd6-8fc9-adf1ba729a5a}

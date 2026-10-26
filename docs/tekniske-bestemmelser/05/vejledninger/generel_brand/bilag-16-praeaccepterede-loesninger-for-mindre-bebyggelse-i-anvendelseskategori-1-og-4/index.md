@@ -26,6 +26,8 @@
 
 ## Bilag 16 - Præ-accepterede løsninger for mindre bebyggelse i anvendelseskategori 1 og 4
 
+<span id="bilag-16-pr-accepterede-lsninger-for-mindre-bebyggelse-i-anvendelseskategori-1-og-4_1"></span>
+
 ### Bilag 16 - Præ-accepterede løsninger for mindre bebyggelse i anvendelseskategori 1 og 4 {#557347d4-44df-4b81-8b7c-17410144bb28}
 
 [Åbn Bilag 16: Præ-accepterede løsninger for mindre bebyggelse i anvendelseskategori 1 og 4](../../../../../media/ndadboft/20210421-bilag-16-praccepterede-lsninger-for-mindre-bebyggelse-i-anvkat1og-4ver10-a.pdf "20210421 Bilag 16 Praccepterede lsninger for mindre bebyggelse i anvkat1og 4ver10")

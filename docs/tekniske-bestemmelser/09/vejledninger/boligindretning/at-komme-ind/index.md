@@ -8,7 +8,11 @@
 
 ## Vejledning om boligindretning
 
+<span id="kolofon"></span>
+
 ### Kolofon {#818585de-abef-41f2-b417-27010078f7d0}
+
+<span id="forord"></span>
 
 ### Forord {#a65228a9-ae42-48b3-b79b-97cd2de40d36}
 
@@ -62,6 +66,8 @@ I boliger med flere planer kan trappen placeres i en del af ankomstområdet elle
 
 Illustration 11: Ved indgangen til boligen har man brug for at kunne hænge overtøj og stille sko. Det gælder også i det tilfælde, at man kommer direkte ind i et køkken eller opholdsrum. Derudover er det et område, der med fordel kan rumme mange funktioner som fx plads til opbevaring.
 
+<span id="_1"></span>
+
 ### 3.2. At lave mad {#e5951ab1-95e3-4dfb-9f63-a0e915cad343}
 
 ### 3.3 At spise {#a87b524d-c50a-488d-a401-15eb0c43887a}
@@ -73,5 +79,7 @@ Illustration 11: Ved indgangen til boligen har man brug for at kunne hænge over
 ### 3.6. At sove {#4d77aa18-d434-46d5-83f1-65ed094fd1e7}
 
 ### 3.7. At bade {#9d95ee42-38e2-41d4-ae53-1d23da54a544}
+
+<span id="appendix-litteratur"></span>
 
 ### Appendix: Litteratur {#dad94911-d8be-4830-9756-dcbefa202590}

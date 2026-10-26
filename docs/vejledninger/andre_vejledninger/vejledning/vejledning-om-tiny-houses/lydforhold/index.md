@@ -17,6 +17,8 @@
 
 ### 1. Baggrund {#1bec0835-0d71-4354-9b97-181e3c759fa0}
 
+<span id="vejledningens-formal"></span><span id="definition-af-tiny-houses"></span><span id="anden-lovgivning"></span>
+
 ### 2. Bygningsreglementets generelle krav {#1cb8a810-acd8-4433-8c46-623f6378dc11}
 
 ### 3. Bygningens adgangsforhold og indretning {#68bbcffc-f687-48b6-ba4b-044cd9a2f050}

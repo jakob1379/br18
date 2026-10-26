@@ -22,6 +22,8 @@
 
 ## Vejledning om udnyttelige tagetager
 
+<span id="udnyttelige-tagetager-og-bebyggelsesprocenten"></span>
+
 ### Udnyttelige tagetager og bebyggelsesprocenten {#559aa930-ec7b-49cc-9067-922e3ee62a92}
 
 *Vejledningen er udarbejdet af Trafik-, Bygge- og Boligstyrelsen i juli 2018.*
@@ -30,10 +32,18 @@ Siden 1. januar 1976 har udnyttelige tagetager skulle medregnes i bebyggelsespro
 
 Indtil 1. januar 1976 var det kun beboelsesrum og badeværelser samt adgangsvejen til disse rum i tagetagen, der skulle medregnes, mens bi- og udenoms rum i tagetagen ikke skulle medregnes.
 
+<span id="hvad-er-en-udnyttelig-tagetage"></span>
+
 ### Hvad er en udnyttelig tagetage? {#6e4031f5-0105-45dd-bca5-582519860f9b}
+
+<span id="hvilket-areal-medregnes-i-en-udnyttelig-tagetage"></span>
 
 ### Hvilket areal medregnes i en udnyttelig tagetage? {#4e165c97-1604-4e5f-af68-7bbf193df905}
 
+<span id="fra-udnyttelig-til-uudnyttelig-tagetage"></span>
+
 ### Fra udnyttelig til uudnyttelig tagetage {#cbecce15-92a8-4ddb-85fe-10a8e2716515}
+
+<span id="anvendelsen-af-den-udnyttelige-tagetage"></span>
 
 ### Anvendelsen af den udnyttelige tagetage {#f0f6fa96-3edd-40ac-9bc6-fd696eb072ab}

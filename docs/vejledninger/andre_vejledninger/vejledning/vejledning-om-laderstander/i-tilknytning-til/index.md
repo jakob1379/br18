@@ -15,11 +15,19 @@
 
 ## Vejledning til bekendtgørelse om forberedelse til og etablering af ladestandere i forbindelse med bygninger (ladestanderbekendtgørelsen)
 
+<span id="kolofon"></span>
+
 ### Kolofon {#9ac975e5-5f3e-43b6-bd4c-89cfbaea79f3}
+
+<span id="indledning"></span>
 
 ### Indledning {#0e441216-ad81-4a48-94fa-189b42d024a3}
 
+<span id="bygning"></span>
+
 ### Bygning {#e8be342f-8a7b-4a6f-9f8c-1058d9ead7ad}
+
+<span id="parkeringsplads"></span>
 
 ### Parkeringsplads {#d3c63fbc-1cb9-4643-8458-a46037d76a71}
 
@@ -31,24 +39,46 @@ Parkeringspladser hører til en bygning, når de er etableret i tilknytning til 
 
 En række bygningstyper har et stort antal parkeringspladser i nærheden, men hvor parkeringspladserne ikke nødvendigvis har en tilknytning til bygningen. Det kunne være en parkeringsplads ved f.eks. en tennisklub, fodboldbane eller indgangen til en skov, hvor parkeringsarealet primært er etableret for at betjene de pågældende udendørsarealer. Hvis bygningen i forbindelse med udendørsarealerne har en begrænset brug, vil der formodentlig ikke være krav i henhold til ladestanderbekendtgørelsen. Det er dog en konkret vurdering i den enkelte byggesag. Hvis bygningen har en karakter, hvor der er et behov for parkeringspladser til at understøtte aktiviteterne i bygningen, så finder ladestanderbekendtgørelsen anvendelse. Det kunne for eksempel være, hvis der er en restaurant eller et cafeteria i bygningen, som bliver benyttet af brugerne i bygningen og andre, eller hvis bygningen indeholder indendørs aktiviteter som idrætshaller eller ligeledes betjener idrætshaller.
 
+<span id="forberedelse-til-ladestander"></span>
+
 ### Forberedelse til ladestander {#b6d18231-77d1-4faf-9b4a-1bdf80eb8c76}
+
+<span id="krav"></span>
 
 ### Krav {#c89f5a70-621e-4817-8869-94e5eaae2fc2}
 
+<span id="undtagelse-for-sma-og-mellemstore-virksomheder"></span>
+
 ### Undtagelse for små og mellemstore virksomheder {#3ee64977-6320-4181-8f32-1039b68ed2ee}
+
+<span id="blandet-anvendelse"></span>
 
 ### Blandet anvendelse {#a2de0f8e-2bef-46ae-985d-8493bd604ced}
 
+<span id="strre-ombygninger"></span>
+
 ### Større ombygninger {#0e755a68-0068-40ae-b19e-219964441d25}
+
+<span id="ny-eller-bestaende-bygning"></span>
 
 ### Ny eller bestående bygning {#cdefac8f-54d1-49b6-b11f-085fe1ffc7f7}
 
+<span id="tekniske-krav-til-ladestandere-og-forberedelse-til-ladestandere"></span>
+
 ### Tekniske krav til ladestandere og forberedelse til ladestandere {#4e0e283e-f932-42e0-a36a-1e0a77a1dca9}
+
+<span id="byggetilladelse"></span>
 
 ### Byggetilladelse {#fe8a3900-abb9-4c01-a403-3b619fc32cd4}
 
+<span id="handhvelse"></span>
+
 ### Håndhævelse {#8537f7a4-1cfb-4c3a-9421-b30abdda3047}
 
+<span id="tilbygninger"></span>
+
 ### Tilbygninger {#28bce0c5-782a-44b6-aad9-947d5149d74a}
+
+<span id="diverse"></span>
 
 ### Diverse {#5f18d0d1-97aa-45d1-b246-fa4f1f1a366e}

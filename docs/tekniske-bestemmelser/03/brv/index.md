@@ -7,7 +7,11 @@ title: Affaldssystemer (§ 63 - § 68) – Vejledning
 [Krav](../){ .md-button }
 [Vejledning](./){ .md-button .md-button--primary }
 
+<span id="se-alle-vejledninger-om-affaldssystemer-63-68"></span>
+
 ## Bygningsreglementets vejledning om affaldssystemer
+
+<span id="forord"></span>
 
 ### Forord {#9ab0ac2f-29a3-4947-8417-f34d30606232}
 
@@ -18,6 +22,8 @@ For at opnå en større grad af fleksibilitet ved indretning af affaldssystemer 
 Etablering af affaldsskakte vil være blandt de løsninger til bortskaffelse. Dette sker ofte i forbindelse med restaffald. Denne løsning kan vælges i det enkelte etageboligbyggeri, hvis løsningen lever op til målsætningerne og hensynene i funktionskravet.
 
 Med indførelsen af et funktionskrav sikres balance mellem hensynet til, at alle borgere kan bortskaffe deres affald, samt fleksibiliteten for bygherrer til at vælge de løsninger, som bedst tilgodeser behovet i netop deres byggeri, herunder også hensynet til kommunernes krav til eksempelvis kildesortering.
+
+<span id="generelt"></span>
 
 ### 1. Generelt {#949c3121-98e4-4f31-90b3-ddd183407389}
 
@@ -46,6 +52,8 @@ Af § 65 fremgår det, at affaldssystemerne skal indrettes, så det er muligt fo
 Det betyder, at kravene til opsætning af brugerbetjente anlæg også omfatter indkast til affaldssystemer. Desuden er der indført et krav om, at der ved arealer til opbevaring af affald i tilknytning til boligerne skal være adgangsforhold, der sikrer, at brugerne ved egen hjælp kan komme ind i arealerne og anvende funktionerne.
 
 Bygherren skal efter de nye regler forsat tage hensyn til, at der ikke opstår sundhedsmæssig risiko eller unødige gener som følge af etablering af eksempelvis affaldsøer i det konkrete byggeri.
+
+<span id="eksempler-paa-affaldssystemer"></span>
 
 ### 2. Eksempler på affaldssystemer {#5e2cd802-b148-4e93-9e35-f48184cffe30}
 
@@ -95,6 +103,8 @@ Samtlige typer af affaldssystemer stiller visse krav til opbevaring på matrikle
 
 >
 
+<span id="pladskrav"></span>
+
 ### 3. Pladskrav {#44b6a6f1-cdf5-4e26-9304-f03bf430c891}
 
 Der er varierende pladskrav forbundet med de enkelte indsamlingssystemer. De enkelte indsamlingssystemer og heraf kommuners krav til kildesortering af husholdningsaffaldet, er ligeledes varierende.
@@ -104,6 +114,8 @@ Enfamiliehuse skal reservere et givent areal på matriklen, til placering af aff
 I fællesbebyggelser (etagebyggeri og tæt/-lav-bebyggelse), skal der afhængig af bebyggelsens omfang og antal boliger indrettes én eller flere - store eller små - affaldsgårde, hvor et antal (fra 5 til 10) affaldsfraktioner skal kunne indsamles. Hertil kommer, at de fleste fællesbebyggelser har behov for opsamling af storskrald, som til dels er ”stort brændbart”, men også f.eks. kan være rent træ til genanvendelse, tekstiler eller lign. Samtidig anbefaler man i reglen fra affaldsselskabets/kommunens side, at der opføres skure til opsamling af farligt affald samt stort elektronikaffald.
 
 Ved byggeri i tætte byområder, er det almindeligt, at kommune og bygherre indgår aftale om, at indsamling og kildesortering af husholdningsaffald m.v. kan ske i over- eller underjordiske beholdere placeret på offentlig vej, placeret i umiddelbar nærhed af den bebyggelse, der genererer affaldet.
+
+<span id="brugerhensyn"></span>
 
 ### 4. Brugerhensyn {#cf35d4fb-7f22-4403-9b39-372cc0b8025b}
 
@@ -146,6 +158,8 @@ For nærmere information om brugergrupperne og de hensyn, der skal tages for de 
 [Vejledning om brugerbegrebet TBST](../../02/vejledninger/vejledning-til-brugerbegreb/ "Vejledning til brugerbegreb")
 
 Vejledning om BR18 tilgængeligheds krav. Dansk Standard håndbog 186.
+
+<span id="affaldsskakte-i-eksisterende-byggeri"></span>
 
 ### 5. Affaldsskakte i eksisterende byggeri {#9066c486-cccb-4977-a72e-b70d06564b36}
 

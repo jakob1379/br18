@@ -22,6 +22,8 @@
 
 ## Vejledning om skorstene og kravet om byggetilladelse
 
+<span id="skorstensfejerbekendtgrelsen"></span><span id="skorstene-og-kravet-om-byggetilladelse"></span>
+
 ### Skorstene og kravet om byggetilladelse {#d4d1e57e-0114-4ce8-8001-40b2e5499f2b}
 
 Denne vejledning indeholder en beskrivelse af reglerne for, hvornår der er krav om, at ejeren af en ejendom skal søge om byggetilladelse hos kommunen ved opførelse af en skorsten. Vejledningen indeholder også en kort beskrivelse af reglerne for, hvordan kommunen skal søge en ulovlig skorsten lovliggjort. [![](../../../assets/img/linkbox/dk_linkbox.svg)](#)
@@ -36,6 +38,8 @@ Denne bekendtgørelse indeholder blandt andet regler om, at skorstene skal tilse
 
 I bygningsreglement 2018 benyttes terminologien aftrækssystemer for skorsten og røgrør med tilhørende samlinger og andre systemer af enhver art, der modtager forbrændingsprodukter fra et eller flere fyringsanlæg.
 
+<span id="byggelovens-anvendelsesomrade"></span>
+
 ### Byggelovens anvendelsesområde {#a78eeb5f-3ae6-425a-bd27-69be09299cde}
 
 Det fremgår af byggelovens § 2, stk. 1, litra a, at loven finder anvendelse ved opførelse af ny bebyggelse og tilbygning til bebyggelse. Tilbygning omfatter ny bebyggelse, der sammenbygges med en eksisterende bygning samt etablering af nye bygningsdele. Som eksempel kan nævnes opførelse af f.eks. altaner, karnapper og skorstene.
@@ -44,11 +48,15 @@ Det fremgår endvidere af byggelovens § 2, stk. 1, litra b, at byggeloven finde
 
 Etablering af et aftrækssystem må betegnes som en tilbygning, såfremt dele af aftrækssystemet placeres således, at det bygges sammen med den eksisterende  bebyggelse,   dvs. placeres "uden på" bygningen. Såfremt aftrækssystemet placeres inde i bygningen, må byggearbejdet betegnes som en ombygning eller forandring i bebyggelsen.
 
+<span id="krav-om-byggetilladelse"></span>
+
 ### Krav om byggetilladelse {#ff9c43e9-f405-430b-bdf5-c697a8cbcdb6}
 
 Det er udgangspunktet i byggeloven, at der er krav om byggetilladelse for de omfattede byggearbejder og dermed, at byggearbejder, hvor aftrækssystemet får karakter af en tilbygning, kræver byggetilladelse fra kommunen, jf. byggelovens § 16, stk. 1. Det følger ligeledes heraf, at i de tilfælde byggearbejdet er en ombygning eller forandring i bebyggelsen, skal der søges byggetilladelse fra kommunen, såfremt ombygningen/forandringen er væsentlig i forhold til bestemmelser i byggelovgivningen, herunder de konstruktive krav i BR18, kap. 15.
 
 Hvorvidt ombygningen eller forandringen er væsentlig, beror på kommunens konkrete vurdering.
+
+<span id="byggeri-uden-krav-om-byggetilladelse"></span>
 
 ### Byggeri uden krav om byggetilladelse {#a6015101-f038-433d-8466-5475f1b73028}
 
@@ -57,6 +65,8 @@ BR18 § 5 indeholder væsentlige undtagelser fra ovenstående, som medfører, at
 BR18, kap. 1, § 5, stk. 1, nr. 3, bestemmer, at ombygninger af enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse kan udføres uden ansøgning om byggetilladelse, dog under forudsætning af, at de relevante krav i bygningsreglementet overholdes. Ombygningen eller forandringen må ikke medføre en væsentlig anvendelsesændring eller en udvidelse af etagearealet.
 
 BR18, kap. 1, § 5, stk. 1, nr. 4, bestemmer endvidere, at ombygninger og andre forandringer i eksisterende byggeri, som ikke ændrer eller påvirker de bærende konstruktioner, forudsætningerne for bygningens brandstrategi samt bygningens fælles installationer, ligeledes kan udføres uden ansøgning om byggetilladelse. De relevante krav i bygningsreglementet skal dog overholdes.
+
+<span id="byggesagsbehandling"></span>
 
 ### Byggesagsbehandling {#11cb3b94-b100-4df1-80a3-6ede10bcbf0d}
 
@@ -72,6 +82,8 @@ Hvis der vælges teknisk byggesagsbehandling af konstruktions- og brandforhold, 
 
 Kommunalbestyrelsen foretager efter BR18 ikke teknisk byggesagsbehandling af anden teknisk dokumentation, herunder dokumentation for overholdelse af krav til skorstene, aftrækssystemer og fyringsanlæg.
 
+<span id="afslutning-af-en-byggesag"></span>
+
 ### Afslutning af en byggesag {#cc7ad409-372b-4131-b0cd-d6b976fe10e1}
 
 BR18, kap. 1, § 40, stk. 1, bestemmer, at byggearbejder, der kræver byggetilladelse, skal færdigmeldes til kommunalbestyrelsen.
@@ -80,11 +92,15 @@ Det fremgår af BR18, kap. 1, § 40, stk. 2, hvad der skal fremsendes til kommun
 
 Det følger endvidere af BR18, kap. 1, § 43, stk. 1, at byggearbejder, der kræver byggetilladelse, ikke må tages i brug, inden kommunalbestyrelsen har udstedt en ibrugtagningstilladelse.
 
+<span id="genibrugtagning"></span>
+
 ### Genibrugtagning {#de4044c9-ed65-4b28-a2cf-d6c7278fc52a}
 
 Ved aftrækssystemer, der er nedlagt, men som ønskes taget i brug igen, vil der som udgangspunkt foreligge en anvendelsesændring af aftrækssystemet. Denne anvendelsesændring må karakteriseres som væsentlig, idet ændringen medfører, at krav om brandforhold og installationer i bygningsreglementets kap. 5 og 12 vil have indflydelse på, om det er sikkerhedsmæssigt forsvarligt at tage aftrækssystemet i brug igen.
 
 Da ændringen kan karakteriseres som væsentlig, vil det kræve en byggetilladelse og en ibrugtagningstilladelse, inden aftrækssystemet på ny kan tages i brug. Ejeren skal således ansøge kommunen herom.
+
+<span id="kommunen-som-patalepligtig"></span>
 
 ### Kommunen som påtalepligtig {#8f18789b-ddd0-403a-bf98-aaff57ec8781}
 

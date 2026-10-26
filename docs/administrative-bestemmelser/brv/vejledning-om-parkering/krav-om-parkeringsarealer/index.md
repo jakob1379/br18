@@ -22,11 +22,19 @@
 
 ## Vejledning til kommunerne om krav til parkering i forbindelse med byggeri
 
+<span id="indledning"></span>
+
 ### Indledning {#f9ceb636-87f6-4541-bb03-da4fb6904eea}
+
+<span id="hvor-findes-de-relevante-regler"></span>
 
 ### 1. Hvor findes de relevante regler {#5742b6d9-ad2d-4fc1-b878-1788e0073f28}
 
+<span id="generelt-om-kommunalbestyrelsens-afgrelse-om-parkeringskrav"></span>
+
 ### 2. Generelt om kommunalbestyrelsens afgørelse om parkeringskrav {#78bc7bba-9f43-4276-b0de-533da73da62f}
+
+<span id="hvornar-kan-der-stilles-krav-om-parkeringsarealer"></span>
 
 ### 3. Hvornår kan der stilles krav om parkeringsarealer {#2ec5ce08-4b61-48e3-81bf-1a2b7961b811}
 
@@ -50,6 +58,10 @@ En ændret anvendelse kan endvidere betyde et mindre behov for parkeringsareal, 
 
 Der er ikke hjemmel i byggelovgivningen til at stille krav om, at de parkeringsarealer, der etableres i forbindelse med et byggeri, skal anvendes af den personkreds, der er tilknyttet det byggeri, der er årsag til kravet om parkeringsarealer. Denne personkreds sikres således ikke gennem byggelovgivningen eksklusiv råderet over pladserne. Samtidig må personkredsen ikke helt udelukkes fra at kunne anvende parkeringspladserne, såfremt der eksempelvis betales for brugen af pladserne på lige vilkår med andre.
 
+<span id="hvornar-kan-der-dispenseres-fra-parkeringskravet"></span>
+
 ### 4. Hvornår kan der dispenseres fra parkeringskravet {#16668d7b-119f-4e55-8338-c8dc88e31245}
+
+<span id="hvornar-kan-der-dispenseres-fra-parkeringsreglerne-pa-betingelse-af-indbetaling-til-parkeringsfond"></span>
 
 ### 5. Hvornår kan der dispenseres fra parkeringsreglerne på betingelse af indbetaling til parkeringsfond {#56e04d3a-2c24-415d-8bb4-92a88961497b}

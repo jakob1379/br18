@@ -8,6 +8,8 @@
 
 ## Spørgsmål og svar
 
+<span id="hvilke-energimssige-bestemmelser-i-bygningsreglementets-ventilationskapitlet-er-relevante-for-en-boligventilationsvarmepumpe-som-udnytter-varmen-i-udsugningsluften-til-at-forvarme-indblsningsluften-gennem-et-vskebaret-varmesystem-samt-evt-til-varmt-brugsvand-samt-rumopvarmning"></span>
+
 ### Hvilke energimæssige bestemmelser i bygningsreglementets ventilationskapitlet er relevante for en boligventilationsvarmepumpe som udnytter varmen i udsugningsluften til at forvarme indblæsningsluften gennem et væskebåret varmesystem samt evt. til varmt brugsvand samt rumopvarmning? {#4266d67d-49cb-415b-b3b4-47b18326efdc}
 
 ### Skal ventilationssystemer i mindre boligenheder under 50 m2 dimensioneres til at kunne udsuge fra såvel emhætte i forceret drift og bad samtidig? {#45fa488f-fcf4-475d-96ca-3b489de20819}

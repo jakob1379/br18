@@ -2,6 +2,8 @@
 
 ## Bygningsreglementets vejledning om forureninger
 
+<span id="forord"></span>
+
 ### Forord {#eec95c80-5133-4555-93bc-de82458e71df}
 
 ### 1.1. Forureninger fra byggematerialer {#f99787a7-f2b0-450b-8067-74b4c69eb7a6}
@@ -37,3 +39,5 @@ I [Strålebeskyttelsesdirektivet](http://eur-lex.europa.eu/legal-content/DA/TXT/
 Strålebeskyttelsesdirektivet angiver eksempler på byggematerialer, der er i risikogruppen for at indeholde radioaktive stoffer, der udsender gammastråling. Det er f.eks. flyveaske, visse former for slagge og fosfatgips. Anvendes disse materialer som byggematerialer i sin rene form f.eks. til underlag for byggeri henvises til vejledningsteksten til § 333.
 
 ### 1.2. Forureninger fra undergrunden {#26d2f27e-101a-4498-8777-71ffcacddfd1}
+
+<span id="dsen-1992-1-1"></span><span id="_1"></span><span id="standarden-findes-i-dansk-standards-webshopdsdk-her"></span><span id="sbi-anvisning-233"></span><span id="beskrivelse"></span><span id="find-anvisningen-her"></span><span id="sbi-anvisning-270"></span><span id="beskrivelse_1"></span><span id="find-anvisningen-her_1"></span><span id="sbi-anvisning-247"></span><span id="beskrivelse_2"></span><span id="find-anvisningen-her_2"></span>

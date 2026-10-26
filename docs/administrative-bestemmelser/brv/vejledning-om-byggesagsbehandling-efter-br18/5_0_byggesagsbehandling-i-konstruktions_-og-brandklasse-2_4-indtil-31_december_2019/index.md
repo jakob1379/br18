@@ -22,7 +22,11 @@
 
 ## Vejledning om byggesagsbehandling efter BR18
 
+<span id="rettelsesblad-til-vejledning-om-byggesagsbehandling-efter-br18-01012024"></span>
+
 ### Rettelsesblad til vejledning om byggesagsbehandling efter BR18 (01.01.2024) {#09b1cdef-c839-4a82-b153-bed20af41bb3}
+
+<span id="kolofon"></span>
 
 ### Kolofon {#b9eb674c-ff6e-42df-8a19-d644bb822492}
 
@@ -35,6 +39,8 @@
 ### 2.2. Byggelovgivningens formål og anvendelsesområde {#f5b734b9-c0ba-46b1-a5fa-181b469584d6}
 
 ### 2.2.1. Byggelovens formål og anvendelsesområde {#9748a774-dba4-4812-b7e9-69357a571151}
+
+<span id="paragraf-16b"></span>
 
 ### 2.2.2. Bebyggelsesbegrebet {#474459c0-19ed-4874-96f5-45b2f229b99d}
 
@@ -141,6 +147,8 @@ Yderligere oplysning om den bygværksprojekterende fremgår af SBi-anvisning 271
 ### 7. Afslutning af byggesag {#8a2911be-5e45-4657-9a60-835976917029}
 
 ### 7.1. Færdigmelding {#b2e6a7cc-1d7a-4297-bfc1-1b9e3ca2ee8d}
+
+<span id="paragraf-25c"></span><span id="paragraf-25"></span>
 
 ### 7.2. Ibrugtagningstilladelse {#132caf47-1154-44c3-b64c-46f20e7e705f}
 

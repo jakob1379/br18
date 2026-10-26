@@ -1,5 +1,7 @@
 # Bilag 1: Tabeller til kapitel 5 - Brandforhold
 
+<span id="tabel-1-anvendelseskategorier"></span>
+
 ## Tabel 1 - Anvendelseskategorier {#c25b067b-8b9d-411a-8332-be21031a8c82}
 
 <table>
@@ -79,6 +81,8 @@
 |                         |
 |-------------------------|
 | **Anvendelseskategori** |
+
+<span id="tabel-2-risikoklasser"></span>
 
 ## Tabel 2 - Risikoklasser {#5c43982a-3b55-4852-a797-66a52342c7bf}
 
@@ -195,6 +199,8 @@ bygningsafsnit højst 1 etage under terræn, i bygninger hvor ingen bygningsafsn
 </tr>
 </tbody>
 </table>
+
+<span id="tabel-3-indplacering-i-brandklasser"></span>
 
 ## Tabel 3 - Indplacering i brandklasser {#c9f55109-3cbe-44c0-bf54-2f2527f9f738}
 

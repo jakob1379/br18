@@ -2,6 +2,8 @@
 
 ## Bygningsreglementets vejledning om energiforsyningsanlæg i tilknytning til bygninger
 
+<span id="forord"></span>
+
 ### Forord {#104a2024-d6c9-4187-988d-fa4014e5e7e3}
 
 Installationer er omfattet af bygningsreglementet og byggeloven i det omfang, at de kan betegnes som faste installationer. Faste installationer er typisk installationer, som er fastgjort til bygningen, indbygget i bygningen eller tilsluttet et rørsystem i bygningen. Eksempler på faste installationer er kedler, brændeovne, aftræk, solceller og varmepumper. Eksempler på installationer, som ikke er faste installationer er olieradiatorer, elektriske varmeblæsere, petroleumskaminer og biopejse dvs. typisk installationer, som tilsluttes strømforsyningen gennem en stikkontakt eller ved manuel tilførsel af en mindre mængde brændstof og som er uden aftræk til det fri.

@@ -22,14 +22,24 @@
 
 ## Vejledning om udnyttelige tagetager
 
+<span id="udnyttelige-tagetager-og-bebyggelsesprocenten"></span>
+
 ### Udnyttelige tagetager og bebyggelsesprocenten {#559aa930-ec7b-49cc-9067-922e3ee62a92}
+
+<span id="hvad-er-en-udnyttelig-tagetage"></span>
 
 ### Hvad er en udnyttelig tagetage? {#6e4031f5-0105-45dd-bca5-582519860f9b}
 
 En udnyttelig tagetage er en tagetage, hvor der er et areal, der kan anvendes uden væsentlige indgreb i de bærende konstruktioner. Et væsentligt indgreb i de bærende konstruktioner er eksempelvis, når gitterspærfag erstattes med hanebåndsspær.
 
+<span id="hvilket-areal-medregnes-i-en-udnyttelig-tagetage"></span>
+
 ### Hvilket areal medregnes i en udnyttelig tagetage? {#4e165c97-1604-4e5f-af68-7bbf193df905}
 
+<span id="fra-udnyttelig-til-uudnyttelig-tagetage"></span>
+
 ### Fra udnyttelig til uudnyttelig tagetage {#cbecce15-92a8-4ddb-85fe-10a8e2716515}
+
+<span id="anvendelsen-af-den-udnyttelige-tagetage"></span>
 
 ### Anvendelsen af den udnyttelige tagetage {#f0f6fa96-3edd-40ac-9bc6-fd696eb072ab}

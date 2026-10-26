@@ -13,6 +13,8 @@
 
 ### 3.0 Undervisningsbygninger {#7c517431-1a58-4d50-be9f-b09c567bd5ba}
 
+<span id="definitioner-af-rumtyper-for-undervisningsbygninger"></span>
+
 ### 3.1 Definitioner af rumtyper for undervisningsbygninger {#5036b98b-248e-48ea-8f22-d081436c63b7}
 
 **Undervisningsrum** er klasselokaler, faglokaler, auditorier, værksteder, grupperum, gymnastiksale mv. Store undervisningsrum kræver ofte særskilt akustisk projektering. Biblioteker, kontorer, forberedelsesrum, personalerum mv. kan med hensyn til lydbestemmelser behandles som undervisningsrum.
@@ -23,10 +25,18 @@ Bygningsreglementets krav om særskilte lydisolerende tiltag mellem undervisning
 
 **Åbne undervisningsområder** er arealer, hvori der undervises flere individuelle klasser eller grupper, der ikke er fysisk adskilt i lukkede rum. Disse arealer kræver særskilt akustisk projektering.
 
+<span id="_1"></span><span id="undervisningsbygninger"></span><span id="lydisolation-for-undervisningsbygninger"></span>
+
 ### 3.2 Lydisolation for undervisningsbygninger {#127bd002-d895-4fe3-b7c5-41d10afcf285}
+
+<span id="stj-indendrs-fra-trafik-i-undervisningsbygninger"></span>
 
 ### 3.3 Støj indendørs fra trafik i undervisningsbygninger {#b08dc5bc-acf8-4756-80a5-0c3fa42b2575}
 
+<span id="stj-fra-tekniske-installationer-i-undervisningsbygninger"></span>
+
 ### 3.4 Støj fra tekniske installationer i undervisningsbygninger {#2304ac12-0b4e-46e7-a2ff-fb4918293a99}
+
+<span id="rumakustik-i-undervisningsbygninger"></span>
 
 ### 3.5 Rumakustik i undervisningsbygninger {#36e4855a-6bb4-4abf-9f19-e44479e8114f}

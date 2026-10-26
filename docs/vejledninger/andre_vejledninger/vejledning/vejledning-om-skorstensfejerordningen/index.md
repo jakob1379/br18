@@ -15,6 +15,8 @@
 
 ## Vejledning om administration af skorstensfejerordningen
 
+<span id="skorstensfejerbekendtgrelsen"></span>
+
 ### Skorstensfejerbekendtgørelsen {#20f76333-1e9a-4dfe-91f1-4cea79e7425c}
 
 Skorstensfejerordningen er reguleret i skorstensfejerbekendtgørelsen, (bekendtgørelse nr. 541 af 22/05/2017 og ændringsbekendtgørelse nr. 1245 af 17. oktober 2023 om brandværnsforanstaltninger for aftrækssystemer og fyringsanlæg). Skorstensfejerbekendtgørelsen er udstedt med hjemmel i byggelovens § 15.
@@ -22,6 +24,8 @@ Skorstensfejerordningen er reguleret i skorstensfejerbekendtgørelsen, (bekendtg
 De faglige krav, som stilles til skorstensfejere, fremgår tillige af bekendtgørelsen, men behandles ikke i denne vejledning.
 
 Vejledningen om administration af skorstensfejerordningen er senest revideret januar 2024.
+
+<span id="kommunalbestyrelsens-pligt-til-at-srge-for-at-skorstensfejerarbejde-tilbydes-i-kommunen"></span>
 
 ### Kommunalbestyrelsens pligt til at sørge for, at skorstensfejerarbejde tilbydes i kommunen {#ac8e2f6a-3b70-433c-ba48-e332f1bed9ea}
 
@@ -31,19 +35,27 @@ Kommunen kan for eksempel på sin hjemmeside angive kontaktoplysninger på en el
 
  
 
+<span id="frit-valg-af-skorstensfejer"></span>
+
 ### Frit valg af skorstensfejer {#c1aaaaba-9fde-414a-9ce0-b8e1f6369704}
 
 Borgerne har frit valg i forhold til, hvilken skorstensfejer, de vil benytte. Der er ikke efter bekendtgørelsen krav om, at kommunens borgere skal anvende den skorstensfejer, som kommunen har sørget for, eller at skorstensfejeren skal have et samarbejde med kommunen for at udføre lovpligtig skorstensfejning i den pågældende kommune.
 
+<span id="kommunalbestyrelsen-som-bygningsmyndighed"></span>
+
 ### Kommunalbestyrelsen som bygningsmyndighed {#a4b47f10-2b35-48d0-8f54-636480515c99}
 
 Kommunalbestyrelsen er bygningsmyndighed i medfør af byggelovens § 16 C . Kommunalbestyrelsen har pligt til at søge et ulovligt forhold lovliggjort, når kommunalbestyrelsen bliver opmærksom på forholdet, og forholdet ikke er af ganske underordnet betydning.
+
+<span id="ansvaret-for-at-ejendommen-er-lovlig"></span>
 
 ### Ansvaret for at ejendommen er lovlig {#25139759-29d9-40f3-8428-77d3f89c63d1}
 
 Det fremgår af byggelovens § 17, stk. 1, at det er bygningsejeren, der er ansvarlig for, at dennes bygning er i lovlig stand. Eksisterer der et ulovligt forhold, påhviler det således bygningsejeren at berigtige det ulovlige forhold.
 
 Det er således bygningsejerens ansvar, at reglerne i skorstensfejerbekendtgørelsen, herunder bestemmelserne om fejningsterminer, overholdes, uanset om bygningsejeren benytter en skorstensfejer, som kommunen har sørget for, eller om bygningsejeren vælger at indgå aftale med en anden skorstensfejer..
+
+<span id="gebyr"></span>
 
 ### Gebyr {#9a6ee187-4d2e-43a5-9b72-a88ffec62bae}
 

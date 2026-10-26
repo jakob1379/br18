@@ -2,6 +2,8 @@
 
 ## Bygningsreglementets vejledning om affaldssystemer
 
+<span id="forord"></span>
+
 ### Forord {#9ab0ac2f-29a3-4947-8417-f34d30606232}
 
 For at opnå en større grad af fleksibilitet ved indretning af affaldssystemer og mulighed for eksempelvis at indrette systemer, der passer til det konkrete byggeri i nybyggeri, blev de tidligere detailkrav om etablering af affaldsskakte i boligbyggerier på mere end tre etager ændret. Dette skete med virkning fra den 1. juli 2017, hvor de hidtidige krav blev erstattet af funktionskrav om etablering af affaldssystemer.

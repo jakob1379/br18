@@ -14,6 +14,8 @@
 
 ## Vejledning om håndtering af forskelligt energibehov i energirammen
 
+<span id="indledning"></span>
+
 ### Indledning {#7313ec1a-1349-4fe0-b2fd-aa7db0838455}
 
 Dette dokument indeholder vejledende fortolkninger af hvordan forskelligt energibehov håndteres i energirammeberegningerne i Be18.
@@ -29,6 +31,8 @@ Denne udgave af vejledningen er version 2, dateret 6. december. Eneste ændringe
 Vejledningen anvender bevidst ikke ordet procesenergi, da SKAT har en definitionsliste af hvad der er procesenergi. For ikke at forvirre begreberne er der i denne vejledning derfor ikke benyttet begrebet procesenergi. Der opereres dog i vejledningen her med begrebet ”af procesmæssige hensyn”, som henviser til hvis der etableres anlæg eller lignende, der giver øget energibehov af hensyn til en proces eller produktion i en bygning. Dette er for eksempel, hvis der af renlighedskrav i en operationsstue etableres yderligere ventilation end hvad der er behov for af komforthensyn.
 
 - ^1^ Præcisering af adskillelse mellem proces- og bygningsenergi i energirammeberegningen, juli 2016
+
+<span id="handtering-af-forskelligt-energibehov"></span>
 
 ### Håndtering af forskelligt energibehov {#961b16dc-5178-4e65-884b-f46deff9be59}
 

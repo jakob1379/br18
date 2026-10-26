@@ -9,6 +9,8 @@ title: Energiforsyningsanlæg i tilknytning til bygninger (§ 299 - § 328) – 
 
 ## Bygningsreglementets vejledning om energiforsyningsanlæg i tilknytning til bygninger
 
+<span id="se-alle-vejledninger-om-energiforsyningsanlg-i-tilknytning-til-bygninger-299-328"></span><span id="forord"></span>
+
 ### Forord {#104a2024-d6c9-4187-988d-fa4014e5e7e3}
 
 Installationer er omfattet af bygningsreglementet og byggeloven i det omfang, at de kan betegnes som faste installationer. Faste installationer er typisk installationer, som er fastgjort til bygningen, indbygget i bygningen eller tilsluttet et rørsystem i bygningen. Eksempler på faste installationer er kedler, brændeovne, aftræk, solceller og varmepumper. Eksempler på installationer, som ikke er faste installationer er olieradiatorer, elektriske varmeblæsere, petroleumskaminer og biopejse dvs. typisk installationer, som tilsluttes strømforsyningen gennem en stikkontakt eller ved manuel tilførsel af en mindre mængde brændstof og som er uden aftræk til det fri.
@@ -43,6 +45,8 @@ Reglerne beskrevet ovenfor er fastlagt i arbejdsmiljøloven, yderligere og opdat
 
 *Opdateret 1. juli 2023*
 
+<span id="kap-1_1"></span>
+
 ### 1.1. Energiforsyningsanlæg i tilknytning til bygninger {#4b9d2495-a250-4ad6-b96a-a4833bd96098}
 
 Aftrækssystemer, der er beregnet til negativt tryk, bør have en tæthed mindst som tæthedsklasse N1. Skorstensforinger, der er beregnet til negativt tryk, bør have en tæthed mindst som tæthedsklasse N2. Aftrækssystemer, der er beregnet til positivt tryk, bør have en tæthed mindst som tæthedsklasse P1.
@@ -53,6 +57,8 @@ Mulighed for rensning af røgrør kan f.eks. ske ved montering af renselem på r
 
 Der henvises til [vejledning om installationer i eksisterende bygninger](../../../vejledninger/andre_vejledninger/vejledning/installationer-eksisterende-byggeri/ "Installationer eksisterende byggeri")
 
+<span id="kap-1_2"></span>
+
 ### 1.2. Generelt for fyringsanlæg {#f36ecccb-c33c-4576-a204-120ef4dc9403}
 
 Der henvises til www.brændefyringsportalen.dk
@@ -61,11 +67,15 @@ Ved overtryksfyring bør der benyttes dobbeltvæggede aftrækssystemer.
 
 Ved installation bør det sikres, at skorstenstrækket svarer til mindstekravet angivet i kedlens installationsvejledning. Er dette ikke tilfældet, bør aftrækket forbedres eller forsynes med røgsuger.
 
+<span id="kap-1_3"></span>
+
 ### 1.3. Brændeovne, masseovne og åbne fyringsanlæg {#68ebc771-c526-48d7-a207-dbe4e5dda719}
 
 Ved lukkede centralvarmeanlæg forstås anlæg med sikkerhedsventiler og tilsluttet trykekspansionsbeholder.
 
 Mht. sikkerhedsventil på kedler henvises til At-vejledning B. 4.8 Indretning og anvendelse af fyrede varmtvandsanlæg.
+
+<span id="kap-1_4"></span>
 
 ### 1.4. Centralvarmekedler, oliebrændere mv. {#3d6c8b14-1cea-4746-bd8f-ef1f31ce537b}
 
@@ -85,6 +95,8 @@ Returtemperatur ved – 12 °C ude:
 
 Ved særlige biobrændselsfyrede anlæg forstås eksempelvis tørringsanlæg for korn, frø og grøntafgrøder, røgeanlæg og varmolieanlæg.
 
+<span id="kap-1_5"></span>
+
 ### 1.5. Tilslutning til aftrækssystem {#d14b15a2-2041-4af6-b6de-9c1140fdd0fd}
 
 Den indfyrede effekt vil for de fleste fyringsanlæg kunne oplyses af fabrikanten.
@@ -98,6 +110,8 @@ Gasreglementet stiller visse betingelser for tilslutning af gasfyrede fyringsanl
 For gasfyrede pejse henvises til gasreglementet.
 
 Kraftvarmeapparater er kraftvarmeenheder med en maksimal kapacitet på 50 kWe, og en maksimal indfyret effekt på 70 kW.
+
+<span id="kap-1_6"></span>
 
 ### 1.6. Aftrækssystemer til fyringsanlæg {#4de4b21b-d4ba-4568-bba5-1b2bfaecfcd1}
 
@@ -124,6 +138,8 @@ For CE-mærkede røgrør af stål, der forbinder fyringsanlæg med en skorsten, 
 For øvrige aftrækningssystemer, der er omfattet og CE-mærket i henhold til en harmoniseret produktstandard, kan kravet om modstandsdygtighed mod korrosion anses for opfyldt, hvis disse mindst har en bestandighed mod korrosion efter relevant korrosionsklasse i EN 1443.
 
 Skorstene skal, uanset om de er fritstående eller integrerede, overholde bygningsreglementets krav til højde- og afstandsforhold, herunder afstand til skel på mindst 2,5 m, og det skrå højdegrænseplan, såfremt skorstenspiben er af sædvanligt omfang, medregnes denne ikke ved beregning af bygningens højde. Se også §§ 177-178.
+
+<span id="kap-1_7"></span>
 
 ### 1.7. Øvrige energiforsyningsanlæg: Solvarme, solcelle-, køleanlæg og varmepumper {#132de16a-1c14-4ca9-8276-7e0c09cdacec}
 

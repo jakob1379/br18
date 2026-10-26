@@ -22,6 +22,8 @@
 
 ## Vejledning om skorstene og kravet om byggetilladelse
 
+<span id="skorstensfejerbekendtgrelsen"></span><span id="se-protected_20-her-protected_21"></span><span id="protected_26s-anvendelsesomrade"></span><span id="skorstene-og-kravet-om-byggetilladelse"></span>
+
 ### Skorstene og kravet om byggetilladelse {#d4d1e57e-0114-4ce8-8001-40b2e5499f2b}
 
 Denne vejledning indeholder en beskrivelse af reglerne for, hvornår der er krav om, at ejeren af en ejendom skal søge om byggetilladelse hos kommunen ved opførelse af en skorsten. Vejledningen indeholder også en kort beskrivelse af reglerne for, hvordan kommunen skal søge en ulovlig skorsten lovliggjort. [![](../../../../assets/img/linkbox/dk_linkbox.svg)](#)
@@ -36,16 +38,30 @@ Denne bekendtgørelse indeholder blandt andet regler om, at skorstene skal tilse
 
 I bygningsreglement 2018 benyttes terminologien aftrækssystemer for skorsten og røgrør med tilhørende samlinger og andre systemer af enhver art, der modtager forbrændingsprodukter fra et eller flere fyringsanlæg.
 
+<span id="byggelovens-anvendelsesomrade"></span>
+
 ### Byggelovens anvendelsesområde {#a78eeb5f-3ae6-425a-bd27-69be09299cde}
+
+<span id="krav-om-byggetilladelse"></span>
 
 ### Krav om byggetilladelse {#ff9c43e9-f405-430b-bdf5-c697a8cbcdb6}
 
+<span id="byggeri-uden-krav-om-byggetilladelse"></span>
+
 ### Byggeri uden krav om byggetilladelse {#a6015101-f038-433d-8466-5475f1b73028}
+
+<span id="byggesagsbehandling"></span>
 
 ### Byggesagsbehandling {#11cb3b94-b100-4df1-80a3-6ede10bcbf0d}
 
+<span id="afslutning-af-en-byggesag"></span>
+
 ### Afslutning af en byggesag {#cc7ad409-372b-4131-b0cd-d6b976fe10e1}
 
+<span id="genibrugtagning"></span>
+
 ### Genibrugtagning {#de4044c9-ed65-4b28-a2cf-d6c7278fc52a}
+
+<span id="kommunen-som-patalepligtig"></span>
 
 ### Kommunen som påtalepligtig {#8f18789b-ddd0-403a-bf98-aaff57ec8781}

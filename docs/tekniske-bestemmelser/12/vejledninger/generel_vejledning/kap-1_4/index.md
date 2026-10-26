@@ -2,6 +2,8 @@
 
 ## Bygningsreglementets vejledning om energiforsyningsanlæg i tilknytning til bygninger
 
+<span id="forord"></span>
+
 ### Forord {#104a2024-d6c9-4187-988d-fa4014e5e7e3}
 
 ### 1.1. Energiforsyningsanlæg i tilknytning til bygninger {#4b9d2495-a250-4ad6-b96a-a4833bd96098}

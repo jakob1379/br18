@@ -8,6 +8,8 @@
 
 ## Vejledning om indplacering i konstruktionsklasser
 
+<span id="forord"></span>
+
 ### Forord {#35e70e33-75c9-456f-aa85-162fac4257b3}
 
 ### 1.0.0. Generelt {#9dba3612-6875-42ed-8bd8-0962a7e85a86}

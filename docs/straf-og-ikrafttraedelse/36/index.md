@@ -3,6 +3,8 @@
 [Krav](./){ .md-button .md-button--primary }
 [Vejledning](brv/){ .md-button }
 
+<span id="straf"></span>
+
 ## § 564 Straf {#096874d8-8195-4b9a-a923-a67e0d5ed2bf}
 
 Den, der overtræder bestemmelser som fastsat i bygningsreglementet, straffes med bøde. Bestemmelsen gælder også for byggearbejder, som kan udføres uden ansøgning om byggetilladelse.

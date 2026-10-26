@@ -7,7 +7,11 @@ title: Elevatorer (§ 242 - § 249) – Vejledning
 [Krav](../){ .md-button }
 [Vejledning](./){ .md-button .md-button--primary }
 
+<span id="se-alle-vejledninger-om-elevatorer-242-249"></span><span id="nybyggeri"></span><span id="tilbygning-og-ombygning"></span>
+
 ## Bygningsreglementets vejledning om elevatorer
+
+<span id="forord"></span>
 
 ### 0.0. Forord {#b3beaae0-996f-4dce-a6b9-367ae269b5f1}
 
@@ -26,6 +30,8 @@ Reglerne for løfteplatforme fremgår af *EF direktiv 2006/42/EF af 17. maj 2006
 
 Anvendelsen af løfteplatforme skal ses som et muligt alternativ når det ikke er muligt at installere en elevator, ved for eksempel ombygninger af eksisterende ejendomme. Løfteplatforme som alternativ til elevator skal ikke anvendes som løsning i nybyggeri.
 
+<span id="generelt"></span>
+
 ### 1.0. Generelt {#115a76d8-c6e0-4817-aca8-800dde891de6}
 
 Det primære formål med kravene i kapitel 10 - Elevatorer, er at sikrer, at brugerne ved egen hjælp har adgang til bygningens etager og derved kan komme til bygningens funktioner. Derudover er formålet også at opnå et forsvarligt sikkerhedsniveau og begrænse energiforbruget ved design, udførelse, drift og vedligehold af elevatorerne.
@@ -36,6 +42,8 @@ Bygningsreglementet behandler andetsteds andre krav til elevatorer såsom:
 
 - Brandmandselevatorer i henhold til DS/EN 81-72:2015
 - Tilgængelighed i henhold til DS/EN *81-70*+A1:2009
+
+<span id="anvendelsesomraade"></span>
 
 ### 1.1. Anvendelsesområde {#c13e6c97-47e9-4150-90d5-c5034ad51fb8}
 
@@ -67,6 +75,8 @@ Figur 2: Eksempler på etager i bygninger (snit) - Eksemplerne er vejledende og 
 
 Figur 3: Eksempler på etager i bygninger (snit) - Eksemplerne er vejledende og ikke udtømmende
 
+<span id="tilgaengelighed"></span>
+
 ### 2.0. Tilgængelighed {#05a1649c-3682-4580-8da1-6eeeeb260593}
 
 Ifølge bygningsreglementet 2018, § 249, skal der i nybyggeri, hvor der installeres elevator, være mindst én elevator designet og udført som type 2 elevator i overensstemmelse med *DS/EN 81-70+A1:2009: Sikkerhedsforskrifter for konstruktion og installation af elevatorer – Særlig anvendelser for passager- og godselevatorer – Del 70: Tilgængelighed til elevatorer for personer, inklusive personer med handicap.* Dette gælder for alle opgange. En type 2 elevator stiller bl.a. specifikke krav til elevatorens dimensioner (1,4 meter x 1,1 meter) og placering af betjeningsknapper.
@@ -75,6 +85,8 @@ Elevatorer skal altid tilpasses til anvendelsen og det kan således være nødve
 
 Ved især ombygninger kan det være svært at opfylde kravet om en type 2 elevator i forhold til elevatorernes dimensioner. Der kan som alternativ installeres en minielevator eller løfteplatform, der har mindre dimensioner. Det bemærkes dog, at det kræver, at kommunalbestyrelsen dispenserer fra bygningsreglementets krav om type 2 elevator.
 
+<span id="sikkerhed"></span>
+
 ### 3.0. Sikkerhed {#248e9b9f-04af-49ff-9027-ae22f804e2f0}
 
 Elevatorer i nybyggeri kan opføres efter *DS/EN 81-20:2014 Sikkerhedsregler for konstruktion og installation af elevatorer – Elevatorer til transport af personer og gods – Del 20: Personelevatorer og person-gods-elevatorer.* I forbindelse med installation af nye elevatorer i eksisterende byggeri kan det være nødvendigt at anvende DS*/EN 81-21+A1: 2012 Sikkerhedsforskrifter for konstruktion og installation af elevatorer – Elevatorer til transport af personer og gods – Del 21: Nye person- og godselevatorer i eksisterende bygninger*.
@@ -82,6 +94,8 @@ Elevatorer i nybyggeri kan opføres efter *DS/EN 81-20:2014 Sikkerhedsregler for
 Løfteplatforme kan opføres efter DS/EN 81-41:2011 *vertikale løfteplatforme til personer med hæmmede bevægelsesmuligheder.* Løfteplatforme forstås ikke som elevatorer, idet de normalt ikke opfylder de samme krav til personsikkerhed i *Bekendtgørelse nr. 1540 af 10/12/2015.* Grundet dette er det som udgangspunkt kun muligt at anvende løfteplatforme, hvis det sker for at udligne niveauforskelle inden for én enhed, og ikke som niveaufri afgang i fælles adgangsveje. Såfremt løfteplatforme ønskes anvendt til netop niveaufri adgang i fælles adgangsveje, skal de ligeledes udføres med lukket stol og efterleve sikkerhedsniveauet i *DS/EN 81-70*.
 
 Ved etablering af elevatorer skal der ligeledes tages højde for Arbejdstilsynets sikkerhedsregler.
+
+<span id="energiforbrug"></span>
 
 ### 4.0. Energiforbrug {#37830e77-2a7f-4014-92ff-035980cc2c07}
 
@@ -92,6 +106,8 @@ Ifølge bygningsreglementet 2018, § 248 stk. 1 må elevatorer energiforbrug ikk
 Ifølge bygningsreglementet 2018, § 248 stk. 3 kan et højere energiforbrug til elevatordrift end energiklasse B accepteres, hvis der gennemføres tilsvarende kompenserende energibesparelser. Dette kunne for eksempel være merisolering i bygningen eller installation af solvarmeanlæg, varmepumpeanlæg eller solceller. Person- og godselevatorer med en mærkelast over 2.000 kg er undtaget fra energikravet, jf. bygningsreglementet 2018, § 248 stk. 2.
 
 Før ibrugtagningen af elevatorer skal der gennemføres en funktionsafprøvning af energiforbruget, som efterfølgende skal dokumenteres i en rapport. Måling af energiforbruget kan med fordel ske i forbindelse med slutinspektion iht. Arbejdstilsynets regler. Der henvises her til Trafik- Bygge- og Boligstyrelsens vejledning om funktionsafprøvning, jf. bygningsreglementet 2018, § 249.
+
+<span id="dispensationer"></span>
 
 ### 5.0. Dispensationer {#b58ca414-4e85-411b-a507-cfd66969d40b}
 

@@ -1,5 +1,7 @@
 # Bilag 2: Tabeller til kapitel 11 - Energiforbrug
 
+<span id="tabel-1-generelle-mindstekrav-til-klimaskrm"></span>
+
 ## Tabel 1 - Generelle mindstekrav til klimaskærm {#8c7a4049-9845-48f2-b57d-66de013e9e2c}
 
 <table data-border="0">
@@ -96,6 +98,8 @@ Et tilknyttet funktionskrav er brandmodstand, sikring af en flugtvej, personsikk
 | Samling mellem tagkonstruktion og ovenlysvinduer eller ovenlyskupler | 0,20 |
 
  
+
+<span id="tabel-2-mindstekrav-til-klimaskrm-ved-ndret-anvendelse-og-tilbygninger"></span>
 
 ## Tabel 2 - Mindstekrav til klimaskærm ved ændret anvendelse og tilbygninger {#9d6731f4-f830-4a97-a611-dbf5ee0aeda5}
 
@@ -204,6 +208,8 @@ Et tilknyttet funktionskrav er brandmodstand, sikring af en flugtvej, personsikk
 </tbody>
 </table>
 
+<span id="tabel-3-mindstekrav-til-klimaskrm-ved-ombygninger-og-andre-forandringer-i-bygningen"></span>
+
 ## Tabel 3 - Mindstekrav til klimaskærm ved ombygninger og andre forandringer i bygningen {#e06f95d1-339e-4630-aa2b-82b530f53122}
 
 <table>
@@ -298,6 +304,8 @@ Et tilknyttet funktionskrav er brandmodstand, sikring af en flugtvej, personsikk
 </tbody>
 </table>
 
+<span id="tabel-4-mindstekrav-til-klimaskrm-for-sommerhuse-campinghytter-og-lignende-ferieboliger"></span>
+
 ## Tabel 4 – Mindstekrav til klimaskærm for sommerhuse, campinghytter og lignende ferieboliger {#1ae7e53e-b571-49b5-9a97-1a3a15b24f83}
 
 <table>
@@ -368,6 +376,8 @@ Et tilknyttet funktionskrav er brandmodstand, sikring af en flugtvej, personsikk
 </tr>
 </tbody>
 </table>
+
+<span id="tabel-5-mindstekrav-til-klimaskrm-for-midlertidige-flytbare-pavilloner"></span>
 
 ## Tabel 5 - Mindstekrav til klimaskærm for midlertidige, flytbare pavilloner {#ba452c7f-8a37-401d-9775-1ec65b49bbfd}
 
@@ -446,6 +456,8 @@ Et tilknyttet funktionskrav er brandmodstand, sikring af en flugtvej, personsikk
 </tbody>
 </table>
 
+<span id="tabel-6-bygningsdele-til-beregning-af-klimapavirkning"></span>
+
 ## Tabel 6 - Bygningsdele til beregning af klimapåvirkning {#d48904a5-9473-4525-a12f-3ae09559ec90}
 
 Dette bilag beskriver, hvilke bygningsdele der skal indgå i beregningen af bygningers klimapåvirkning.
@@ -484,6 +496,8 @@ Såfremt bygningen ved færdigmelding mangler dele, som fx gulv, vægmaling mm.,
 
 [Download bilag 2, tabel 6 som excel-fil her.](../../../media/4rqdskud/tabel-6-2025.xlsx "Tabel 6 (2025)"){rel="noopener" target="_blank"}
 
+<span id="tabel-7-generisk-datagrundlag"></span>
+
 ## Tabel 7 - Generisk datagrundlag {#4f10dbac-ba91-4bad-9f1e-2b7054ec8547}
 
 Dette dokument indeholder det generiske datagrundlag for modulerne A1-A3, C3-C4 og D, jf. § 297, stk. 7.
@@ -508,6 +522,8 @@ Genbrug forstås som defineret i affaldsbekendtgørelsen, dog uden hensyntagen t
 
 Såfremt der sammen med genbrugte materialer også anvendes supplerende nye materialer, anvendes datasættet som normalt for de nye materialer, i det omfang, de indgår i beregningen jf. tabel 6. Nødvendig overfladebehandling eller lignende af det genbrugte produkt, sammenligneligt med vedligehold eller reparation, indgår ikke.
 
+<span id="tabel-8-emissionsfaktorer"></span>
+
 ## Tabel 8 - Emissionsfaktorer {#c93d7bfe-6c32-4182-b858-cf113ba2a371}
 
 **Tabel 8.1 – Emissionsfaktorer for el, fjernvarme og ledningsgas**
@@ -521,6 +537,8 @@ Datasættet kan benyttes som emissionsfaktorer for energiforbrug. 
 Datasættet kan benyttes som emissionsfaktorer for brændstof til transport til, fra og på byggepladsen samt til forbrug fra maskiner.
 
 [Download bilag 2, tabel 8.2 som excel-fil her.](../../../media/2bphcenr/tabel-82-september-2025.xlsx "Tabel 8.2 (September 2025)")
+
+<span id="tabel-9-referencevrdier-for-beregning-af-klimapavirkning-som-ikke-indgar-i-beregningen-iflge-298-stk-1"></span>
 
 ## Tabel 9 – Referenceværdier for beregning af klimapåvirkning, som ikke indgår i beregningen ifølge § 298, stk. 1. {#514f3033-fd6d-4ff2-89eb-53a7752b8945}
 
@@ -631,6 +649,8 @@ a er arealet som opgjort ifølge § 297, stk. 5, (i m2).
 
  
 
+<span id="tabel-10-beregning-af-klimapavirkning-fra-energiforbrug-i-byggeprocessen-modul-a4-og-a5"></span>
+
 ## Tabel 10 – Beregning af klimapåvirkning fra energiforbrug i byggeprocessen (modul A4 og A5) {#7d0b6765-e45f-4668-89f4-1767a1ceb514}
 
 *Generelle beregningsprincipper*
@@ -707,6 +727,8 @@ For følgende delprocesser kan transport - i stedet for beregning af forbruget i
 
 Når der i ovenstående refereres til et antal kvadratmeter byggeri, benyttes samme areal som ifølge § 297, stk. 5.
 
+<span id="tabel-11-generiske-data-for-behandling-af-byggeaffald"></span>
+
 ## Tabel 11 – Generiske data for behandling af byggeaffald {#47248ad7-9a19-4e67-8e77-920129ab270f}
 
 Tabellen indeholder generiske data for udledninger pr. kg byggeaffald fra byggeprocessen (i modul A5), herunder afskær og andre materialer som bliver til affald under byggeprocessen. Det mest repræsentative datasæt anvendes.  For affald som indsamles blandet anvendes den højeste værdi af de blandede typer. Hvis der benyttes en EPD i stedet for nedenstående værdier, jf. § 297, stk. 7, fastlægges klimapåvirkningen til den samlede værdi af modulerne A1-A3 og C3-C4 for produktet.
@@ -730,6 +752,8 @@ Tabellen indeholder generiske data for udledninger pr. kg byggeaffald fra byggep
 | Emballagepap                      | 0,44                  |
 | Sanitet, fliser og glaserede tegl | 0,36                  |
 
+<span id="tabel-12-standardvrdier-for-energiforbrug-i-sommerhuse-campinghytter-og-lignende-ferieboliger"></span>
+
 ## Tabel 12 - Standardværdier for energiforbrug i sommerhuse, campinghytter og lignende ferieboliger {#0b368295-634e-4fd8-8a8a-712c5cc8e89b}
 
 Klimapåvirkningen fra driftsenergi (i modul B6) beregnes på baggrund af energibehovet fra nedenstående standardværdier pr. m2 opvarmet etageareal, med udgangspunkt i bygningens forsyningskilde. Hvis bygningen har flere forsyningskilder, foretages et arealvægtet gennemsnit.
@@ -743,6 +767,8 @@ Energibehovet omregnes til klimapåvirkning ifølge de emissionsfaktorer, som fr
 | **Energiforbrug  \[kWh/m^2^\]** |   |   |
 | **Varmebehov ved elvarme, fjernvarme eller anden opvarmning** | **Varmepumpe luft/luft - elbehov** | **Varmepumpe luft/vand - elbehov** |
 | 33,2 | 21,2 | 10,1 |
+
+<span id="tabel-13-standardvrdier-for-energiforbrug-i-tilbygninger"></span>
 
 ## Tabel 13 - Standardværdier for energiforbrug i tilbygninger. {#3c35694e-402d-4ad3-b32f-335dff58ceb4}
 

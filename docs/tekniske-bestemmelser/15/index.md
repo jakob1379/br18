@@ -3,6 +3,8 @@
 [Krav](./){ .md-button .md-button--primary }
 [Vejledning](brv/){ .md-button }
 
+<span id="se-alle-bestemmelser-om-konstruktioner-340-357"></span><span id="s340-343"></span>
+
 ## § 340 - § 343 Konstruktioner {#48178ff7-f7ec-4166-a610-43884dc43a60}
 
 ### § 340 {#paragraf-340}
@@ -25,6 +27,8 @@ Fundering skal ske til frostsikker dybde og bæredygtig bund eller på anden må
 ### § 343 {#paragraf-343}
 
 Tage og ovenlys i tage skal udføres, så der er tilfredsstillende sikkerhed mod gennemtrædning.
+
+<span id="s344"></span>
 
 ## § 344 Projektering og udførelse {#36d0985e-3901-487e-be97-f9dd06219c9f}
 
@@ -56,6 +60,8 @@ Konstruktioner skal projekteres og udføres, så de kan modstå de normalt forek
 
 *Stk. 4.* For opvarmede væksthuse ved gartnerier samt teltoverdækning af beholdere for opbevaring af flydende husdyrgødning gælder, at kravene til snelast kan reduceres med 65 pct.
 
+<span id="s345"></span>
+
 ## § 345 Særligt for betonkonstruktioner {#e0b723b3-0665-4234-8b27-16287355bc07}
 
 ### § 345 {#paragraf-345}
@@ -77,6 +83,8 @@ Projektering og udførelse af betonkonstruktioner skal, udover bestemmelserne i 
 7) DS/EN 12602. Præfabrikerede armerede komponenter af autoklaveret porebeton med DS/EN 12602 DK NA for konstruktioner af autoklaveret porebeton.
 
 *Stk. 2.* Referencer er inklusiv tilhørende rettelsesblade og tillæg.
+
+<span id="s346"></span>
 
 ## § 346 Særligt for stålkonstruktioner {#ea965ff6-cbb4-4d30-af0d-ed2d36866d00}
 
@@ -106,6 +114,8 @@ Projektering og udførelse af stålkonstruktioner skal, udover bestemmelserne i 
 
 *Stk. 2.* Referencer er inklusiv tilhørende rettelsesblade og tillæg.
 
+<span id="s347"></span>
+
 ## § 347 Særligt for kompositkonstruktioner {#fc73efd0-1e13-43cb-affc-b2a20a26e1d9}
 
 ### § 347 {#paragraf-347}
@@ -118,6 +128,8 @@ Projektering og udførelse af kompositkonstruktioner skal, udover bestemmelserne
 
 *Stk. 2.* Referencer er inklusiv tilhørende rettelsesblade og tillæg.
 
+<span id="s348"></span>
+
 ## § 348 Særligt for trækonstruktioner {#3267f6f7-7aca-4c67-bcb7-760c4f99b524}
 
 ### § 348 {#paragraf-348}
@@ -129,6 +141,8 @@ Projektering og udførelse af trækonstruktioner skal, udover bestemmelserne i �
 2) DS/EN 1995-1-2+AC:2007 Trækonstruktioner, Brandteknisk dimensionering med DS/EN 1995-1-2 DK NA.
 
 *Stk. 2.* Referencer er inklusiv tilhørende rettelsesblade og tillæg.
+
+<span id="s349"></span>
 
 ## § 349 Særligt for murværkskonstruktioner {#645ad9c2-6530-4e54-b2b8-cd025f764a04}
 
@@ -144,6 +158,8 @@ Projektering og udførelse af murværkskonstruktioner skal, udover bestemmelsern
 
 *Stk. 2.* Reference er inklusiv tilhørende rettelsesblade og tillæg.
 
+<span id="s350"></span>
+
 ## § 350 Særligt for geotekniske konstruktioner {#866bc4d4-a648-4845-9c8f-406e374f263b}
 
 ### § 350 {#paragraf-350}
@@ -155,6 +171,8 @@ Projektering og udførelse af geotekniske konstruktioner skal, udover bestemmels
 2) DS/EN 1997- 2+AC:2011 Geoteknik, Jordbundsundersøgelse og -prøvning med DS/EN 1997-2 DK NA.
 
 *Stk. 2.* Reference er inklusiv tilhørende rettelsesblade og tillæg.
+
+<span id="s351"></span>
 
 ## § 351 Særligt for aluminiumkonstruktioner {#a0225a8a-dff1-4bd6-a33c-6f87e59b6909}
 
@@ -170,11 +188,15 @@ Projektering og udførelse af aluminiumkonstruktioner skal, udover bestemmelsern
 
 *Stk. 2.* Reference er inklusiv tilhørende rettelsesblade og tillæg.
 
+<span id="s352"></span>
+
 ## § 352 Øvrige materialer og konstruktioner {#b234c847-c8ff-45dd-a769-127d02e52f50}
 
 ### § 352 {#paragraf-352}
 
 Ved anvendelse af materialer og konstruktioner, der ikke er omfattet af bestemmelserne i §§ 345-351, skal det dokumenteres, at der opnås et sikkerhedsniveau, som beskrevet i § 344.
+
+<span id="s353"></span>
 
 ## § 353 Telte og lignende transportable konstruktioner {#ee027ca6-2466-421b-a24a-b19803a0c70f}
 
@@ -182,11 +204,15 @@ Ved anvendelse af materialer og konstruktioner, der ikke er omfattet af bestemme
 
 Telte og lignende transportable konstruktioner skal dimensioneres i overensstemmelse med DS/EN 13782, Midlertidige konstruktioner – Telte – Sikkerhed med DS/EN 13782 DK NA*,* eller på en måde, som sikrer, at de relevante bestemmelser i §§ 344-351 er opfyldt.
 
+<span id="s354"></span>
+
 ## § 354 Stationære opbevaringssystemer {#81d27313-444e-4561-a3f6-2b38d5ef025d}
 
 ### § 354 {#paragraf-354}
 
 Stationære opbevaringssystemer skal dimensioneres i overensstemmelse med DS/EN 15512 Stationære opbevaringssystemer af stål - Justerbare pallereolsystemer - Principper for dimensionering med DS/EN 15512 DK NA*,* eller på en måde, som sikrer, at de relevante bestemmelser i §§ 344-351 er opfyldt*.*
+
+<span id="s355"></span>
 
 ## § 355 Tilskuertribuner {#00c7218c-4fa7-449b-a700-c0dbbb215a2c}
 
@@ -194,11 +220,15 @@ Stationære opbevaringssystemer skal dimensioneres i overensstemmelse med DS/EN 
 
 Teleskopstande og demonterbare tilskuertribuner skal dimensioneres i overensstemmelse med henholdsvis DS/EN 13200- 5 og 13200-6 med DS/EN 13200-5 DK NA og DS/EN 13200-6 DK NA*,* eller på en måde, som sikrer, at de relevante bestemmelser i §§ 344-351 er opfyldt.
 
+<span id="s356"></span>
+
 ## § 356 Undtagelser {#2f6fb7da-16dd-49c7-b4e8-af9e3a8226a0}
 
 ### § 356 {#paragraf-356}
 
 § 344, stk. 2, til § 351 samt §§ 353-355 kan fraviges, hvis det på anden vis sikres og dokumenteres, at en afvigelse er forsvarlig, og der opnås et sikkerhedsniveau, som beskrevet i § 344, stk. 2, nr. 1.
+
+<span id="s357"></span>
 
 ## § 357 Drift, kontrol og vedligehold {#e71d7b9a-203d-487d-9e0a-c420022631ca}
 

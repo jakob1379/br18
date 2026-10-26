@@ -8,6 +8,8 @@
 
 ## Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder
 
+<span id="forord"></span>
+
 ### Forord {#53aaae9d-a33f-44f1-868e-5c37b9a3decc}
 
 ### 1.0. Generelt {#ae17a0d2-4078-40c7-9064-6ab09cfc67b2}
@@ -58,17 +60,23 @@ Bemærk, at der er særlige regler og foranstaltninger i forbindelse med håndte
 
 Lov nr. 1093 af 11/10/2024 (med senere ændringer) om miljøbeskyttelse
 
+<span id="lov-nr-1093-af-11102024-med-senere-ndringer-om-miljbeskyttelse"></span>
+
 #### Gå til loven [](https://www.retsinformation.dk/eli/lta/2024/1093#id05d9b2d6-1e7a-4c81-b987-ed9b40e76af4){target="_blank"}
 
 [![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Bekendtgørelse nr. 1749 af 13/12/2024 (med senere ændringer) om affald
 
+<span id="bekendtgrelse-nr-1749-af-13122024-med-senere-ndringer-om-affald"></span>
+
 #### Gå til bekendtgørelsen [](https://www.retsinformation.dk/eli/lta/2024/1749){target="_blank"}
 
 [![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Bekendtgørelse nr. 1672 af 15/12/2016 om anvendelse af restprodukter, jord og sorteret bygge- og anlægsaffald
+
+<span id="bekendtgrelse-nr-1672-af-15122016-om-anvendelse-af-restprodukter-jord-og-sorteret-bygge-og-anlgsaffald"></span><span id="ga-til-bekendtgrelsen_1"></span>
 
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/forms/r0710.aspx?id=184757){target="_blank"}
 

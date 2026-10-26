@@ -2,6 +2,8 @@
 
 [Krav](./){ .md-button .md-button--primary }
 
+<span id="s552-563"></span>
+
 ## § 552 - § 563 Anerkendelse af statikere {#619f6ef8-c16c-42d5-9963-28d360580898}
 
 ### § 552 {#paragraf-552}
@@ -105,6 +107,8 @@ Anerkendelsesorganet kan fratage en person betegnelsen ”Anerkendt statiker”
 Beslutning om afslag på fornyelse, jf. § 559, eller fratagelse af en anerkendelse kan af den berørte indankes skriftligt for anerkendelsesorganet, og vedkommende er berettiget til personligt at forelægge sin sag for anerkendelsesorganet.
 
 Anerkendelsesorganet fastlægger anerkendelsesordningens økonomi, herunder betalinger i forbindelse med anerkendelsesordningens drift, således at ordningen økonomisk hviler i sig selv set over tid.
+
+<span id="paragraf-562"></span>
 
 ### § 563 {#paragraf-563}
 

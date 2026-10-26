@@ -3,6 +3,8 @@
 [Krav](./){ .md-button .md-button--primary }
 [Vejledning](brv/){ .md-button }
 
+<span id="s485-489"></span>
+
 ## § 485 - § 489 Konstruktionsklasser {#a483f263-578d-4eed-87a0-c3a8efa4942a}
 
 ### § 485 {#paragraf-485}

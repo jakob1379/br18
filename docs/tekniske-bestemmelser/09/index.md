@@ -3,6 +3,8 @@
 [Krav](./){ .md-button .md-button--primary }
 [Vejledning](brv/){ .md-button }
 
+<span id="s196-198"></span>
+
 ## § 196 - § 198 Bygningers indretning {#946955dc-6787-41e2-98ff-d953f7c90ec4}
 
 ### § 196 {#paragraf-196}
@@ -16,6 +18,8 @@ Ved ombygning kan kommunalbestyrelsen på bygningsejerens foranledning skønne, 
 ### § 198 {#paragraf-198}
 
 Sommerhuse er ikke omfattet af bestemmelserne i kapitel 9.
+
+<span id="s199-213"></span>
 
 ## § 199 - § 213 Indretning af boliger {#c2db10fd-13da-422d-a0a2-49fc374abf04}
 
@@ -83,6 +87,8 @@ I tilknytning til etageboliger og sammenbyggede enfamiliehuse skal der etableres
 
 I eller i tilknytning til etageboliger og sammenbyggede enfamiliehuse skal der under hensyn til indeklimaet etableres faciliteter til vask og tørring af tøj.
 
+<span id="s214-220"></span>
+
 ## § 214 - § 220 Indretning af offentligt tilgængelige bygninger {#84901071-fc14-413b-ac2c-6858d0222469}
 
 ### § 214 {#paragraf-214}
@@ -132,6 +138,8 @@ Almindelige undervisningslokaler i folkeskoler og mødelokaler i kontorbyggeri e
 ### § 220 {#paragraf-220}
 
 I offentligt tilgængelige lokaler og anlæg med fastmonterede publikumspladser skal der afsættes pladser, der sikrer adgang for personer med særlige pladsbehov, eksempelvis kørestolsbrugere.
+
+<span id="s221-227"></span>
 
 ## § 221 - § 227 Indretning af bygninger med arbejdspladser {#78e0d380-331c-4767-a150-4cd522ecce82}
 
@@ -191,6 +199,8 @@ Hvor der i forbindelse med arbejdsrum skal etableres baderum, skal antallet af b
 
 Ved snavset og sundhedsfarligt arbejde i en erhvervsvirksomhed skal der etableres et passende antal frit tilgængelige håndvaske.
 
+<span id="s228-231"></span>
+
 ## § 228 - § 231 Indretning af normalklasserum {#06d3926e-e58a-4e9f-9e6f-c2becad54d67}
 
 ### § 228 {#paragraf-228}
@@ -212,6 +222,8 @@ Ved beregning af rumindholdet medregnes kun de dele af rummet, hvor det under he
 ### § 231 {#paragraf-231}
 
 Gulvet i opholdsrum i dag- og døgninstitutioner og i normalklasserum i skoler og lignende må ikke være placeret lavere end terræn. Ved særlige terrænforhold kan der ses bort fra dette krav, hvis gulvet er placeret over terræn langs med mindst én vinduesvæg.
+
+<span id="s232-237"></span>
 
 ## § 232 - § 237 Indretning af hoteller {#77c82b25-b3de-4434-bfca-a50187d649d5}
 
@@ -254,6 +266,8 @@ Uanset det samlede antal af sengepladser i bygningen, er § 232 altid opfyldt, n
 ### § 237 {#paragraf-237}
 
 Altaner i forbindelse med værelser omfattet af § 232 skal udføres, så brugerne ved egen hjælp kan benytte dem.
+
+<span id="s238-241"></span>
 
 ## § 238 - § 241 Glaspartier, glasflader, og værn af glas i bygninger {#098ed0b6-7eb7-4c64-ae1b-529b392d3d3c}
 

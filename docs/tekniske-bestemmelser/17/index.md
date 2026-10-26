@@ -3,6 +3,8 @@
 [Krav](./){ .md-button .md-button--primary }
 [Vejledning](brv/){ .md-button }
 
+<span id="s368-376"></span><span id="paragraf-368"></span>
+
 ## § 368 Lydforhold {#d020db69-f4ce-4cb5-84ee-a507a2630908}
 
 Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold i forhold til anvendelsen.
@@ -15,6 +17,8 @@ Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold i 
 4.  Efterklangstid.
 
 *Stk. 3.* Dokumentation af lydforhold kan ske ved beregning eller måling i den færdige bygning.
+
+<span id="s369-373"></span>
 
 ## § 369 - § 373 Boliger og andre bygninger til overnatning {#f0f5a834-93ed-4c39-b0aa-ed0bb7e8fab7}
 
@@ -41,6 +45,8 @@ Rums efterklangstid skal være reguleret i overensstemmelse med deres anvendelse
 ### § 373 {#paragraf-373}
 
 For sommerhuse gælder alene, at de tekniske installationer skal udformes på en sådan måde, at de personer, der opholder sig i bygningerne, ikke generes af lyd fra disse.
+
+<span id="s374-376"></span>
 
 ## § 374 - § 376 Andre bygninger end boliger {#e5d29634-6eb5-4fa9-a15a-3c39a4be26d2}
 

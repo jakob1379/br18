@@ -34,6 +34,8 @@
 
 ### 4 Kommunalbestyrelsens ansvar ved indplacering i brand- og konstruktionsklasse {#2cd2304c-7bf1-426e-9271-aa9a1e85d323}
 
+<span id="c998d3d5-bc52-4076-9150-2fc6286e76ae"></span>
+
 ### 5 Eksempler på, hvornår et byggearbejde normalt er undtaget for byggetilladelse, jf. § 5, stk. 1, nr. 4 {#9a1bd2dd-0bce-42bd-a6a4-360f3ad8dc34}
 
 Eksempel 1

@@ -8,6 +8,8 @@
 
 ## Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder
 
+<span id="forord"></span>
+
 ### Forord {#53aaae9d-a33f-44f1-868e-5c37b9a3decc}
 
 ### 1.0. Generelt {#ae17a0d2-4078-40c7-9064-6ab09cfc67b2}
@@ -57,6 +59,8 @@ Der henvises tillige til cirkulære om instruks for brandværnsforanstaltninger 
 [![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Cirkulære nr. 2 af 06/11/1994 om instruks for brandværnsforanstaltninger under byggearbejder på fredede bygninger
+
+<span id="_1"></span><span id="_2"></span>
 
 #### Gå til cirkulæret [Gå til cirkulæret](https://www.retsinformation.dk/Forms/R0710.aspx?id=54920){target="_blank"}
 

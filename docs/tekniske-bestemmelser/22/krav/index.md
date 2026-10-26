@@ -183,6 +183,8 @@ This European Standard specifies the terms and definitions for the rating and pe
 
 Airconditionanlæg, væskekølere og varmepumper med eldrevne kompressorer til rumopvarmning og rumkøling - Del 2: Prøvningsbetingelser
 
+<span id="_1"></span>
+
 ### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/standard/M348421/ds-en-14511-2-2022 "DS/EN 14511-2"){target="_blank"}
 
 [![](../../../assets/img/linkbox/ds_en_linkbox.svg)](#)
@@ -190,6 +192,8 @@ Airconditionanlæg, væskekølere og varmepumper med eldrevne kompressorer til r
 ### DS/EN 14511-3
 
 Airconditionanlæg, væskekølere og varmepumper med eldrevne kompressorer til rumopvarmning og rumkøling - Del 3: Prøvningsmetoder
+
+<span id="_2"></span>
 
 ### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/standard/M348431/ds-en-14511-3-2022 "DS/EN 14511-3"){target="_blank"}
 

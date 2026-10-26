@@ -9,6 +9,8 @@
 
 ## Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner
 
+<span id="klik-her-for-link-til-temasiden-brandogkonstruktionerdk"></span>
+
 ### Klik her for link til temasiden Brandogkonstruktioner.dk {#dae4904e-7b6d-47af-8ce5-378176be8052}
 
 [Gå til temasiden Brandogkonstruktioner.dk og få overblik over brugen af certificerede statikere og brandrådgivere (nyt vindue)](https://brandogkonstruktioner.dk/){rel="noopener noreferrer" target="_blank"}

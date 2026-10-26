@@ -2,6 +2,8 @@
 
 ## BR-Vejledning til kapitel 25 - Lavenergiklasse
 
+<span id="_1"></span><span id="lavenergiklasse"></span>
+
 ### Lavenergiklasse {#62d70e7a-9cc8-4a65-9129-65b13e3285a4}
 
 Lavenergiklassen i BR18 er en justering af bygningsklasse 2020, der samtidig er omdøbt, fordi det ikke længere er forventet at klassen skal træde i kraft som minimumskrav i 2020. Lavenergiklassen forbliver frivillig også efter 2020.

@@ -210,6 +210,8 @@ Bebyggelsens afstand til skel mod nabo, vej eller sti skal fastlægges efter de 
 
 Ved fastlæggelse af afstande skal det sikres, at vinduer, altaner og lignende ikke giver væsentlige indbliksgener i forhold til anden bebyggelse på samme grund og på nabogrunde.
 
+<span id="paragraf-193i"></span>
+
 ### § 193 {#paragraf-193}
 
 I områder med overvejende sluttet randbebyggelse kan kommunalbestyrelsen beslutte, at ny bebyggelse skal opføres i vej- eller byggelinjen og føres ud i skel mod nabogrundene.

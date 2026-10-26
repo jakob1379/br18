@@ -26,6 +26,8 @@
 
 ## Bilag 6 - Præ-accepterede løsninger - Hoteller mv.
 
+<span id="bilag-6-til-bygningsreglementets-vejledning-til-kap-5-brand"></span>
+
 ### Bilag 6 til Bygningsreglementets vejledning til kap. 5 – Brand {#9637e2de-d704-4077-81e5-c0979681e0d9}
 
 [Åbn Bilag 6: Præ-accepterede løsninger for hoteller mv.](../../../../../media/ylopiebc/bilag-6-hoteller-mv-ver-11-20220111-a.pdf "Bilag 6  Hoteller mv ver 11 20220111")

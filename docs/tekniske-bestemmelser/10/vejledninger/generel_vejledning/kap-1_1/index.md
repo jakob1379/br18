@@ -36,6 +36,8 @@ Figur 2: Eksempler på etager i bygninger (snit) - Eksemplerne er vejledende og 
 
 Figur 3: Eksempler på etager i bygninger (snit) - Eksemplerne er vejledende og ikke udtømmende
 
+<span id="_1"></span><span id="_2"></span><span id="_3"></span>
+
 ### 2.0. Tilgængelighed {#05a1649c-3682-4580-8da1-6eeeeb260593}
 
 ### 3.0. Sikkerhed {#248e9b9f-04af-49ff-9027-ae22f804e2f0}

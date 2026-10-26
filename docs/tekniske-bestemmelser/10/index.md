@@ -3,6 +3,8 @@
 [Krav](./){ .md-button .md-button--primary }
 [Vejledning](brv/){ .md-button }
 
+<span id="s242-249"></span>
+
 ## § 242 - § 249 Elevatorer {#5cad5067-d59b-4c59-bb03-bb2e115a57eb}
 
 ### § 242 {#paragraf-242}

@@ -3,6 +3,8 @@
 [Krav](./){ .md-button .md-button--primary }
 [Vejledning](brv/){ .md-button }
 
+<span id="s545-551"></span>
+
 ## § 545 - § 551 Certificeret brandrådgivers virke {#9b0b3347-fdeb-4712-b69c-2b986e3251f9}
 
 ### § 545 {#paragraf-545}

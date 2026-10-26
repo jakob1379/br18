@@ -26,6 +26,8 @@
 
 ## Bilag 10 - Præ-accepterede løsninger - Industri- og lagerbygninger
 
+<span id="bilag-10-til-bygningsreglementets-vejledning-til-kap-5-brand"></span>
+
 ### Bilag 10 til Bygningsreglementets vejledning til kap. 5 – Brand {#e284e540-16f0-409a-a2f8-73322435cb9d}
 
 [Åbn Bilag 10: Præ-accepterede løsninger for brandsikring af industri- og lagerbygninger i én etage](../../../../../../media/vqph5tx0/bilag-10-praeaccepterede-loesninger-industri-og-lagerbygninger-31012019-a.pdf)

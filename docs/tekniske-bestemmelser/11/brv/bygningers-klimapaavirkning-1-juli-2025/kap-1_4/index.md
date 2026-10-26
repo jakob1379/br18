@@ -18,9 +18,15 @@
 
 ### 1.1. Generelt {#b54eb8a1-6702-4ead-8b0f-fe7e8e9e2793}
 
+<span id="111-tilbygninger"></span><span id="112-bygningstyper-der-ikke-er-omfattet-af-krav-om-beregning-af-bygningers-klimapavirkning"></span><span id="113-beregning-af-klimapavirkningen"></span><span id="114-sammenlgning-af-beregningen-for-flere-bygninger"></span>
+
 ### 1.2. Livscyklus og betragtningsperiode {#e6bbf376-bc5d-42f7-aeed-492ba0a0a9b5}
 
+<span id="121-beregningsprincipper-for-beregning-af-klimapavirkningen"></span><span id="122-livscyklusfaser-og-moduler"></span><span id="123-betragtningsperioden"></span><span id="124-beregningsenhed"></span>
+
 ### 1.3. Arealopgørelse {#94c6b7f1-87fc-4471-8202-edd44157722a}
+
+<span id="e53ebfa8-1dea-4737-aa53-69c8a848b30c"></span><span id="trapper-og-altaner"></span><span id="integreret-og-fritstaende-carport"></span><span id="walk-on-ceiling"></span><span id="132-definition-af-integrerede-carporte-eller-garager"></span>
 
 ### 1.4. Bygningsdele {#9dc5204d-6894-4a4c-94d2-8d0e4984c95c}
 
@@ -29,6 +35,8 @@ Til brug for beregning af klimapåvirkningen skal udledningerne fra de materiale
 For at sikre ensartede livscyklusvurderinger med samme afgrænsning for alle bygninger er der udarbejdet en oversigt over de dele af en bygning, der som minimum skal indgå i livscyklusvurderingen (markeret med ja), herunder også præcisering af det detaljeringsniveau, der skal ligge til grund for opgørelsen. Oversigten fremgår af [BR18, bilag 2, tabel 6](../../../../../bilag/b2/bilag_2/tabel_6/){rel="noopener noreferrer" target="_blank"} (nyt vindue). Der skelnes generelt mellem bygningsdele og så de materialer, der indgår i hver bygningsdel.
 
 I det følgende uddybes, hvordan BR18, bilag 2, tabel 6 skal anvendes i forbindelse med beregningen. Det uddybes også, hvordan man kan opgøre klimapåvirkningerne for visse dele af bygningen, hvor det ikke er muligt at opgøre de enkelte materialer grundet manglende data, jf. [BR18, bilag 2, tabel 7](../../../../../bilag/b2/bilag_2/tabel_7/){rel="noopener noreferrer" target="_blank"} (nyt vindue).
+
+<span id="787e83a6-b7d9-4a83-a4be-37574156daef"></span>
 
 #### **1.4.1 Tabellens opbygning og anvendelse**
 
@@ -53,6 +61,8 @@ Ud over ovenstående excel-baserede skema, er der som supplement udviklet et byg
 Bygningssnittet illustrer under hvilke hovedgrupper de enkelte konstruktioner skal placeres. Eksempelvis placeres murkronens overflader under hovedgruppen "Ydervægge" lige så vel som murkronens primærbygningsdel også placeres under hovedgruppen "ydervægge". Et andet eksempel er Etagedæk hvis primær bygningsdel placeres under hovedgruppen "dæk" og hvis gulvkonstruktion placeres under undergruppen "gulve".
 
 Her er det vigtigt at præcisere, at strukturering af mængder på LCA-beregningens input- side frit kan vælges af LCA-rådgiveren. For standardformatet er det alene afgørende, at der knyttes information om den rette hoved- og undergruppe på den enkelte konstruktion så dokumentationen til myndighederne efterfølgende kan ske i den korrekte struktur.
+
+<span id="_2"></span>
 
 #### ![](../../../../../media/dbllr2wk/billede-1.png){width="774" height="398"}
 
@@ -164,6 +174,8 @@ Hvis en bygning ikke afleveres i en sådan stand, at den er klar til ibrugtagnin
 Materialernes klimapåvirkning regnes kun med til den andel af solceller, hvis ydelse kan indregnes i energiberegningen. Dette er en afgrænsning, jf. BR18, bilag 2, tabel 6, under ”Solcelleanlæg”. Det vil sige, at kun materialernes klimapåvirkning fra de solceller, som er medregnet i bygningens driftsforbrug eller indgår som en del af tagbeklædningen, medtages i modulerne A1-5, B4, C3-4 og D. Se nærmere herom under vejledning til stk. 11 emissionsfaktorer.
 
 Hvis der for en bygning opføres solceller, som ikke placeres på bygningen, men et andet sted, skal disse stadigvæk medtages i beregningen af bygningers klimapåvirkning, såfremt disse medtages i energirammen, jf. § 259 og § 260.
+
+<span id="eksempler"></span>
 
 #### **1.4.12   Eksempler**
 
@@ -343,6 +355,8 @@ Følgende miljødata fra BR18, bilag 2, tabel 7, vælges:
 |  **Materiale** | **ID**  |  **A1-3** |  **C3** |  **C4** |  **D** |  **Funktionel enhed** |
 |  Stål, varmvalset plade, 2-20 mm |  #G0767  |  2,78247 |   |   | -1,50772 |  1 kg  |
 
+<span id="_3"></span>
+
 #### **1.4.13    Eksempel for anvendelse af standardværdier for installatione**r
 
 Bygherren skal lave en beregning om bygningens klimapåvirkning for sit enfamiliehus. Grundet arbejdsomfanget vurderes det mest optimalt at bruge standardværdier for installation for dokumentationen om bygningens klimapåvirkning, da der spares tid på den måde. Følgende værdier fra BR18, bilag 2, tabel 7, er relevante for enfamiliehuset; #S0001, #S0002, #S0003.
@@ -415,13 +429,23 @@ Køkken og bad inventar medtages ikke, da det ikke skal opgøres, jf. BR18, bila
 
 ### 1.5. Datagrundlag {#2bea61d1-61aa-4d7b-a6e9-5411306c289d}
 
+<span id="151-tabellens-opbygning-og-anvendelse"></span><span id="valg-af-datast-for-et-konkret-materiale"></span><span id="152-omregning-af-data-ved-ndring-af-enhed"></span><span id="153-eksempel-pa-omregning-af-enhed-ved-anden-deklareret-faktor-end-kg"></span><span id="154-metode-for-opgrelse-af-klimapavirkning-ved-en-mngde-ramateriale"></span><span id="155-materialesammenstning"></span><span id="156-datagrundlaget-for-materialerne-omregnet-til-den-samme-funktionelle-enhed-pa-1-kg"></span><span id="157-beregning"></span><span id="158-datagrundlag"></span><span id="159-beregning"></span><span id="1510-genbrugte-materialer"></span><span id="1511-definition"></span><span id="1512-miljdata-af-genbrugte-byggematerialer"></span><span id="1513-tilfrsel-af-nye-materialer"></span><span id="1514-eksempler"></span><span id="eksempel-faststtelse-af-miljdata-for-genbrugte-gulvbrdder"></span><span id="eksempel-beregning-af-mrtel-til-genbrugte-mursten"></span>
+
 ### 1.6. Miljøvaredeklarationer {#345ca30a-1bea-4b76-8b01-d4b940cbb6b2}
+
+<span id="161-gyldighed-af-epder"></span><span id="162-relevans-af-epder"></span><span id="163-anvendelse-af-data-fra-epder"></span><span id="164-handtering-af-modul-c3c4"></span><span id="165-manglende-c3-modul"></span><span id="166-forskellige-scenarier-for-affaldshandtering-c3c4"></span><span id="167-manglende-scenarie-for-affaldshandtering"></span>
 
 ### 1.7. Byggeproces {#a6f69c03-c971-480c-81ca-cefcaf7991d1}
 
+<span id="171-transport-a4"></span><span id="172-byggeproces-a5"></span><span id="173-affaldshandtering-a5"></span><span id="_ftnref1"></span><span id="_ftn1"></span>
+
 ### 1.8. Levetider {#b7facc0b-7a44-4398-be71-c1fd8daa0640}
 
+<span id="opgrelse-af-energiforbrug"></span><span id="forskel-mellem-udskiftninger-og-vedligehold"></span><span id="afvigelse-fra-levetidstabellen"></span><span id="sammensatte-bygningsdele"></span>
+
 ### 1.9. Emissionsfaktorer {#f87ab10e-30e6-4998-9f70-3c43b33df6c2}
+
+<span id="opgrelse-af-energiforbrug_1"></span><span id="beregning-af-energiforbrugets-klimapavirkning-i-modul-b6"></span><span id="indregning-af-el-produktion-fra-solceller-og-vindmller"></span><span id="brug-af-epder-for-fjernvarmevrker"></span>
 
 ### 1.10. Lavemissionsklassen {#493fac9a-6198-41c1-a9ec-c88b8129d92d}
 
@@ -433,6 +457,12 @@ Køkken og bad inventar medtages ikke, da det ikke skal opgøres, jf. BR18, bila
 
 ### 2.4. Særlige forhold {#5b13625d-860e-4dd3-abef-ba4361094a44}
 
+<span id="beregning-af-det-tillgsgivende-forhold"></span><span id="eksempel"></span><span id="eksempel-pa-beregning-af-tillg-ved-hj-last"></span><span id="uddybende-om-eksemplerne-pa-srlige-forhold"></span><span id="anvendelse-af-hospitals-og-laboratorieudstyr"></span><span id="hj-last-pa-dk-og-andre-pavirkede-konstruktionsdele"></span><span id="bygninger-indplaceret-i-konsekvensklasse-cc3"></span><span id="jordbundsforhold"></span><span id="bygninger-med-hje-renhedskrav"></span><span id="bygninger-med-sikringskrav"></span><span id="krav-som-flge-af-gldende-plangrundlag"></span>
+
 ### 1.14. Energitillæg {#982dcb96-508a-4510-988f-6075b56a2c68}
 
+<span id="1141-eksempler"></span>
+
 ### 1.15. Særlige forhold {#5102cdfe-a67f-4fb8-94f1-756240473ea4}
+
+<span id="1151-eksempel"></span><span id="1152-uddybende-om-eksemplerne-pa-srlige-forhold"></span>

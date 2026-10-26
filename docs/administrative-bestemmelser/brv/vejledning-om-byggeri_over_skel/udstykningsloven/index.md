@@ -22,9 +22,15 @@
 
 ## Vejledning om byggeri over skel
 
+<span id="protected_17"></span><span id="indledning"></span>
+
 ### Indledning {#88b6eabb-b153-4564-841f-230828aee26b}
 
+<span id="i-hvilke-situationer-der-kan-forekomme-byggeri-over-skel"></span>
+
 ### I hvilke situationer der kan forekomme byggeri over skel? {#fc1555fa-b16d-46e7-b9a8-8692cc54b8ba}
+
+<span id="lovliggrelsessager"></span>
 
 ### Lovliggørelsessager {#25665434-23fc-4004-be61-dfde86ccc3de}
 

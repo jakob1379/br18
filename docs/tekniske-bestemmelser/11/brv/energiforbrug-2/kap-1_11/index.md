@@ -14,6 +14,8 @@
 
 ## Bygningsreglementets vejledning om energiforbrug
 
+<span id="forord"></span>
+
 ### Forord {#e4a4aefb-350b-4266-827e-1508450a3f72}
 
 ### 1.0. Generelt {#5d0fd3cc-01f4-4dbe-bf46-d43a912b077e}
@@ -50,9 +52,13 @@ Etageantallet beregnes som forholdet mellem etagearealet og det bebyggede areal.
 
 Dansk standard: DS 418 – Beregning af bygningers varmetab
 
+<span id="dansk-standard-ds-418-beregning-af-bygningers-varmetab"></span>
+
 #### Anvendelsesområde
 
 Standarden indeholder beregningsregler for beregning af bygningers varmetab.
+
+<span id="standarden-findes-i-dansk-standards-webshopdsdk-her"></span>
 
 #### Standarden findes i Dansk Standards Webshop.ds.dk her [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/){target="_blank"}
 

@@ -26,6 +26,8 @@
 
 ## Bilag 1b - Præ-accepterede løsninger - Sekundær bebyggelse i tilknytning til enfamiliehuse
 
+<span id="bilag-1b-til-bygningsreglementets-vejledning-til-kap-5-brand"></span>
+
 ### Bilag 1b til Bygningsreglementets vejledning til kap. 5 – Brand {#92eacede-d9d3-4cce-a63f-7c7b736a2d67}
 
 [Åbn Bilag 1b: Præ-accepterede løsninger for sekundær bebyggelse i tilknytning til enfamiliehuse](../../../../../../media/jtrbbzrv/bilag-1b-ver-2020220218-a.pdf "Bilag 1b ver 2020220218") (nyt vindue)

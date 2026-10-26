@@ -13,7 +13,11 @@ title: Adgangsforhold (§ 48 - § 62) – Vejledning
 - [Vejledning til brugerbegreb](../vejledninger/vejledning-til-brugerbegreb/)
 - [Vejledning om tilgængelighed til transportable konstruktioner](../vejledninger/vejledning-om-tilgaengelighed-til-transportable-konstruktioner/)
 
+<span id="vejledning-til-brugerbegreb"></span><span id="baggrund-og-maalgruppe"></span><span id="generelt"></span><span id="brugerbegrebet-set-i-forhold-til-br18-og-bygningens-anvendelse"></span><span id="brugerbegreb"></span><span id="eksempler-paa-bygningsfunktioner-set-i-forhold-til-brugere"></span><span id="eksempel-1"></span><span id="eksempel-2"></span><span id="eksempel-3"></span><span id="vejledning-om-tilgaengelighed-til-transportable-konstruktioner"></span><span id="vejledning-om-tilgaengelighed-til-transportable-konstruktioner-1"></span><span id="spoergsmaal-og-svar-om-adgangsforhold"></span>
+
 ## Spørgsmål og svar om adgangsforhold
+
+<span id="spoergsmaal-og-svar-61"></span>
 
 ### Spørgsmål og svar § 61 {#d99d64f1-b9b8-4891-b13e-f521731aab02}
 

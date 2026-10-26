@@ -22,6 +22,8 @@
 
 ## Spørgsmål og svar
 
+<span id="sprgsmal-og-svar-om-fejl-og-ansvar-02-10-2020"></span>
+
 ### Spørgsmål og svar om fejl og ansvar (02-10-2020) {#42bdc012-7c2e-4ac9-92d2-ce5fad882dc6}
 
 **Hvilket ansvar har den certificerede brandrådgiver eller statiker i tilfælde af, at dokumentationen ikke overholder relevante krav for enten brand eller konstruktionsforhold i bygningsreglementet? Og påvirker certificeringsordningen, hvem der har ansvaret for, at en bygning overholder det relevante bygningsreglement? (02-10-2020)**
@@ -29,6 +31,8 @@
 Hvis dokumentation for brand- eller konstruktionsforhold til et byggeri ikke overholder relevante krav i bygningsreglementet, kan det for den tilknyttede certificerede brandrådgiver eller statiker i værste fald betyde, at den certificerede kan blive frataget sin certificering. Det er certificeringsorganet, der vurderer, om en fejl har en sådan karakter, at betingelserne for certificeringen ikke længere er til stede.
 
 Det er Trafik-, Bygge- og Boligstyrelsens vurdering, at den certificeredes ansvar i varetagelsen af opgaven som certificeret rådgiver er et almindeligt professionsansvar på samme vis, som det vil være tilfældet for en projekterende rådgiver. Ansvaret for en bygnings lovlighed er fortsat bygningsejerens, og dette berøres ikke af certificeringsordningen.
+
+<span id="sprgsmal-og-svar-om-altaner-og-certificerede-radgivere-11-12-2020"></span>
 
 ### Spørgsmål og svar om altaner og certificerede rådgivere (11-12-2020) {#4d82c1df-ca5c-4814-bccc-0ca21aa321b7}
 
@@ -74,9 +78,13 @@ For bygninger med gulv i øverste etage mellem 22 m og 45 m over terræn er det 
 
 Selv om der ikke skal tilknyttes en certificeret brandrådgiver, skal bygningsreglementet fortsat overholdes. Der er dog ikke krav om, at dette skal dokumenteres af en certificeret brandrådgiver i forbindelse med ansøgning og byggetilladelse. Det er bygningsejer, der har ansvaret for, at altanen overholder bygningsreglementet. Ved tvivl om, hvordan dette kan ske, anbefales det, at man kontakter en rådgiver (der dog ikke nødvendigvis skal være certificeret).
 
+<span id="sprgsmal-og-svar-om-lovliggrelse-og-certificerede-radgivere-30-09-2020"></span>
+
 ### Spørgsmål og svar om lovliggørelse og certificerede rådgivere (30-09-2020) {#f7eaf828-0851-48c5-a84f-024102e4d980}
 
 *Midlertidigt fjernet.*
+
+<span id="sprgsmal-og-svar-om-ansttelse-og-certificeret-radgiver-30-09-2020"></span>
 
 ### Spørgsmål og svar om ansættelse og certificeret rådgiver (30-09-2020) {#cfd0a653-262e-46af-a232-b818d0cf1293}
 
@@ -85,6 +93,8 @@ Selv om der ikke skal tilknyttes en certificeret brandrådgiver, skal bygningsre
 Der er ikke krav om, at man som rådgivningsvirksomheder skal have en certificeret statiker eller brandrådgiver ansat. Hvis man ikke har en certificeret statiker eller brandrådgiver ansat, kan man derfor vælge at indgå en aftale med en certificeret statiker eller brandrådgiver fra en anden virksomhed om at varetage den certificeredes virke enten som udførende eller kontrollerede på et projekt.
 
 Man kan finde en oversigt over alle certificerede brandrådgivere og statikere i databasen ”Find certificerede statikere og brandrådgivere”, via [www.certificering.sbst.dk](https://certificering.sbst.dk/ "Certificering"){rel="noopener" target="_blank"} eller ved en søgning på internettet.
+
+<span id="sprgsmal-og-svar-om-ndring-af-forudstninger-for-byggetilladelse-17-06-2021"></span>
 
 ### Spørgsmål og svar om ændring af forudsætninger for byggetilladelse (17-06-2021) {#fea0ff48-260d-4e55-9a50-4325bd6a0bf6}
 
@@ -102,11 +112,15 @@ Selvom kommunen vurderer, at det ikke er nødvendigt at ansøge om byggetilladel
 
 Den certificerede skal sikre, at forudsætningerne i byggetilladelsen for indplacering i konstruktionsklasser fortsat er til stede i forbindelse med færdigmelding.
 
+<span id="sprgsmal-og-svar-vedrrende-anvendelse-af-overgangsordning-for-anerkendte-statikere-30-09-2020"></span>
+
 ### Spørgsmål og svar vedrørende anvendelse af overgangsordning for anerkendte statikere (30-09-2020) {#4eb32e97-a2bc-4adc-bf5e-7d8ce14ae997}
 
 **Hvordan håndteres projekter, hvor der er tilknyttet en anerkendt statiker, og hvor byggeriet ikke færdiggøres, inden overgangsperiodens udløb? (30-09-2020)**
 
 Det er det bygningsreglement, der er gældende på ansøgningstidspunktet for byggetilladelsen, der er gældende, indtil byggesagen afsluttes. Det betyder, at de projekter, hvor der er givet byggetilladelse med tilknytning af en anerkendt statiker, kan afsluttes med tilknytning af en anerkendt statiker, uanset at overgangsperioden udløber.
+
+<span id="sprgsmal-og-svar-om-kontrol-af-dokumentation-til-starterklring-30-09-2020"></span>
 
 ### Spørgsmål og svar om kontrol af dokumentation til starterklæring (30-09-2020) {#ac2083a4-6276-48a6-b4c6-699524bb5a50}
 
@@ -127,6 +141,8 @@ Supplerende for brandforhold omfatter kommunens sagsbehandling ligeledes en vurd
 - Om dokumentationen omfatter, hvorledes byggeriet opfylder redningsberedskabets indsatsforhold, herunder hvorvidt byggeriet er indsatstaktisk traditionelt.
 
 Kommunen foretager derfor ingen yderligere kontrol af den dokumentation, som de har modtaget sammen med starterklæringen, men såfremt kommunen bliver opmærksom på et ulovligt forhold, er kommunen forpligtet til at søge forholdet lovliggjort.
+
+<span id="sprgsmal-og-svar-om-pavilloner-30-09-2020"></span>
 
 ### Spørgsmål og svar om pavilloner (30-09-2020) {#aeee6c6d-2dab-4ac0-a159-bad2a9dcfbba}
 
@@ -242,6 +258,8 @@ For pavilloner, der ikke er certificeret som transportable konstruktioner, skal 
 
 Kontrolplaner og kontrolrapporter kan standardiseres, så den samme skabelon kan benyttes hver gang til de pavilloner, der udføres på samme måde.
 
+<span id="sprgsmal-og-svar-om-udpegning-og-indgaelse-af-aftale-med-en-tredjepartskontrollant-fx-for-totalentrepriser-05-03-2021"></span>
+
 ### Spørgsmål og svar om udpegning og indgåelse af aftale med en tredjepartskontrollant fx for totalentrepriser (05-03-2021) {#222254d7-f17e-4cab-9185-a65811fe219e}
 
 **Hvilken part kan udpege og indgå aftale med en uafhængig tredjepartskontrollant, hvis ansøgeren selv står for projekteringen af de bærende konstruktioner eller brandforhold fx ved totalentreprise?**
@@ -262,6 +280,8 @@ Hvis en totalentreprenør ikke er ansøgeren, så kan totalentreprenøren ikke u
 
 Hvis totalentreprenøren er ansøgeren, så skal totalentreprenøren udpege tredjepartskontrollanten.
 
+<span id="sprgsmal-og-svar-om-at-tage-en-bygning-helt-eller-delvist-i-brug-13-12-2023"></span>
+
 ### Spørgsmål og svar om at tage en bygning helt eller delvist i brug (13-12-2023) {#b0a34821-eabf-4a65-97d1-60f25e0fff75}
 
 *Regler om at tage en bygning helt eller delvist i brug*
@@ -277,6 +297,8 @@ Det er præciseret i bygningsreglementets § 44, stk. 3, at bestemmelsen også f
 Den certificerede rådgiver, der er tilknyttet sagen, kan dog udarbejde en sådan erklæring, men dette vil i så fald ikke være en del af den certificeredes virke.
 
 Det skal pointeres, at det er bygningsejer, der er ansvarlig for, at byggeriet er lovligt og kan tages i brug. Det er derfor også bygningsejer, der skal dokumentere, at vilkår, jf. § 44, stk. 2, er opfyldt og dokumentation herfor er fremsendt til kommunens sagsbehandling. Såfremt denne dokumentation ikke opfylder de stillede vilkår, er det en sag mellem bygningsejer og kommunen.
+
+<span id="sprgsmal-og-svar-om-primitive-bygninger-09-01-2024"></span>
 
 ### Spørgsmål og svar om primitive bygninger (09-01-2024) {#39fe6d0e-f128-4c3a-b757-0bfc93c34b6b}
 

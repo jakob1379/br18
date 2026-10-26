@@ -3,6 +3,8 @@
 [Krav](./){ .md-button .md-button--primary }
 [Vejledning](brv/){ .md-button }
 
+<span id="se-alle-krav-om-administrative-bestemmelser-1-47"></span>
+
 ## § 1 - § 3 Anvendelsesområde {#63d0eb43-08aa-4f77-8f77-c42dec6d6f22}
 
 ### § 1 {#paragraf-1}

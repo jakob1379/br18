@@ -22,6 +22,8 @@ Bygninger skal projekteres, udføres, ombygges og vedligeholdes, så energibeho
 
 SBi-Anvisning 213 - Bygningers energibehov
 
+<span id="_1"></span>
+
 ### BEREGNINGSVEJLEDNING
 
 ​Anvisningen beskriver, hvordan man bruger beregningsprogrammet Be15 til beregning af bygningers energibehov. Programmet skal bruges, når man skal eftervise, at en bygning opfylder energibestemmelserne i bygningsreglementet. Anvisning og beregningsprogram henvender sig til rådgivende ingeniører, arkitekter, entreprenører, andre projekterende og udførende inden for byggeri samt til offentlige myndigheder.
@@ -89,6 +91,8 @@ For energiberegninger gælder følgende beregningsforudsætninger:
 [![](../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 DS 418:2011 - Beregning af bygningers varmetab
+
+<span id="_2"></span>
 
 ### Beskrivelse
 
@@ -511,6 +515,8 @@ U-værdier og linjetab i § 283 gælder under betingelse af, at det samlede are
 ### § 285 {#paragraf-285}
 
 Ved ombygning, andre forandringer og udskiftning gælder de i § 283 angivne krav under forudsætning af, at kravene er rentable. Rentabiliteten vurderes som i § 275. Ved vurdering af rentabiliteten betragtes ferieboligen som værende i brug som bolig også i vinterhalvåret.
+
+<span id="paragraf-286i"></span>
 
 ### § 286 {#paragraf-286}
 

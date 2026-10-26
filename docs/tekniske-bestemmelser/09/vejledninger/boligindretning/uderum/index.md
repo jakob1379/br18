@@ -8,7 +8,11 @@
 
 ## Vejledning om boligindretning
 
+<span id="kolofon"></span>
+
 ### Kolofon {#818585de-abef-41f2-b417-27010078f7d0}
+
+<span id="forord"></span>
 
 ### Forord {#a65228a9-ae42-48b3-b79b-97cd2de40d36}
 
@@ -62,6 +66,8 @@ En tagterrasse kan være et fælles eller et privat uderum, som er integreret i 
 
 Illustration 10: Altaner. Alt efter om altanen er udeliggende (a), delvist indeliggende (b) eller indeliggende (c), skygger den mere eller mindre for rum under altanen. Diagrammet er en forenklet illustration af, hvordan en altan kan skabe skygge i rummene under sig og dermed påvirke rummets lysniveau. Diagrammet illustrerer situationen for en bolig, hvor der også er en genbobygning, der skygger (se kap. 2.6 Dagslysforhold, ill. 09). Samspillet mellem dagslyset, vinduet og skyggende elementer er komplekst og har indflydelse på lysniveauet i rummet og bør tilrettelægges med omhu.
 
+<span id="_1"></span>
+
 ### 3. Boligens aktiviteter {#29b603f5-2588-4abb-a33b-7f51ad402e5d}
 
 ### 3.1 At komme ind {#c74c1f75-2366-4a20-baae-6d8c92abaa73}
@@ -77,5 +83,7 @@ Illustration 10: Altaner. Alt efter om altanen er udeliggende (a), delvist indel
 ### 3.6. At sove {#4d77aa18-d434-46d5-83f1-65ed094fd1e7}
 
 ### 3.7. At bade {#9d95ee42-38e2-41d4-ae53-1d23da54a544}
+
+<span id="appendix-litteratur"></span>
 
 ### Appendix: Litteratur {#dad94911-d8be-4830-9756-dcbefa202590}

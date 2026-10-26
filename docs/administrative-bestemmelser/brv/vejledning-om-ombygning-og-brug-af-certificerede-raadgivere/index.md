@@ -118,6 +118,8 @@ Når et byggeri indplaceres i konstruktionsklasse 1 (KK1) eller brandklasse 1 (B
 
 Læs mere indplacering i brand- og konstruktionsklasse i [Bygningsreglementets vejledning til kapitel 5 – kapitel 1 – afsnit 1.6.0](../../../tekniske-bestemmelser/05/vejledninger/generel_brand/kapitel-1/) og i [Vejledning om indplacering i konstruktionsklasse](../../../ovrige-bestemmelser/26/brv/indplacering-i-konstruktionsklasser/).
 
+<span id="c998d3d5-bc52-4076-9150-2fc6286e76ae"></span>
+
 ### 5 Eksempler på, hvornår et byggearbejde normalt er undtaget for byggetilladelse, jf. § 5, stk. 1, nr. 4 {#9a1bd2dd-0bce-42bd-a6a4-360f3ad8dc34}
 
 Eksempel 1

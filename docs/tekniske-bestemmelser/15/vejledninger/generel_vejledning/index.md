@@ -8,9 +8,13 @@
 
 ## Bygningsreglementets vejledning om konstruktioner
 
+<span id="_1"></span><span id="_2"></span><span id="rettelsesblad-til-bygningsreglementets-vejledning-om-konstruktioner-omhandlende-breevnevurdering-af-eksisterende-konstruktioner-24012024"></span>
+
 ### Rettelsesblad til Bygningsreglementets vejledning om konstruktioner omhandlende bæreevnevurdering af eksisterende konstruktioner (24.01.2024) {#52b227a0-0df0-40e5-a513-f81044d11fa8}
 
 [Åbn rettelsesblad til Bygningsreglementets vejledning om konstruktioner omhandlende bæreevnevurdering af eksisterende konstruktioner (Nyt vindue).](../../../../media/ydigl5f3/rettelsesblad-til-vejledning-om-konstruktioner-2024-01-23.pdf "Rettelsesblad Til Vejledning Om Konstruktioner 2024 01 23"){rel="noopener" target="_blank"}
+
+<span id="forord"></span>
 
 ### Forord {#c0231c7f-f782-4a3f-b4d6-1063816ca640}
 
@@ -61,6 +65,8 @@ Udover Eurocode 0, er der også en række materialespecifikke eurocodes med dert
 
 Eurocodes: DS/EN 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1999
 
+<span id="_3"></span><span id="_4"></span>
+
 #### Eurocodes og forkortede udgaver af Eurocodes på Dansk Standards hjemmeside [Gå til link (nyt vindue)](http://www.eurocodes.dk/da/hvad-er-eurocodes/oversigt-over-eurocodes){target="_blank"}
 
 ### De nationale annekser til eurocodes kan læses [her](../../../../nationale-annekser/nationale-annekser/nationale-annekser/ "Nationale annekser"){rel="noopener" target="_blank"}.
@@ -80,6 +86,8 @@ For vindmøller kan kravene til konstruktioner anses for opfyldt, når vindmøll
 Bekendtgørelse nr. 648 af 31/05/2023 (med senere ændringer) om teknisk certificering og servicering af vindmøller m.v.
 
 Godkendelsesordning for vindmøller
+
+<span id="_5"></span><span id="_6"></span>
 
 #### Gå til bekendtgørelsen [](https://www.retsinformation.dk/eli/lta/2023/648){target="_blank"}
 
@@ -115,17 +123,23 @@ Bygningsejer bør rydde eventuel sne fra sit tag og sikre at der ikke sker vando
 
 Vejledning: Er din bygning snesikker?
 
+<span id="_7"></span><span id="_8"></span>
+
 #### Gå til vejledning [Er Din Bygning Snesikker (2010)](../../../../media/jdtix31f/er-din-bygning-snesikker-2010.pdf){target="_blank"}
 
 [![](../../../../assets/img/linkbox/br_v_linkbox.svg)](#)
 
 Vejledning: Hvordan rydder jeg mit tag for sne?
 
+<span id="_9"></span><span id="_10"></span>
+
 #### Gå til vejledning [Hvordan Rydder Jeg Mit Tag For Sne (2010)](../../../../media/nt4nqw1a/hvordan-rydder-jeg-mit-tag-for-sne-2010.pdf){target="_blank"}
 
 [![](../../../../assets/img/linkbox/br_v_linkbox.svg)](#)
 
 Vejledning: Forebyggelse af sne og ophobning af vand på haller og store tage
+
+<span id="_11"></span><span id="_12"></span>
 
 #### Gå til vejledning [Haller Og Store Tage Forebyg Skader Fra Sne Og Vand (2021)](../../../../media/al2dyyiy/haller-og-store-tage-forebyg-skader-fra-sne-og-vand-2021.pdf){target="_blank"}
 
@@ -137,11 +151,15 @@ Bygningsejere bør undersøge og vedligeholde altaner. Sammen med bl.a. den milj
 
 Vejledning: Vejledning om altaner med udliggerjern
 
+<span id="_13"></span><span id="_14"></span>
+
 #### Gå til vejledning [Vejledning Om Altaner Med Udliggerjern](../../../../media/g3efcyll/vejledning-om-altaner-med-udliggerjern.pdf){target="_blank"}
 
 [![](../../../../assets/img/linkbox/br_v_linkbox.svg)](#)
 
 Vejledning: Eftersyn af ældre betonaltaner
+
+<span id="_15"></span><span id="_16"></span>
 
 #### [Vejledning Om Eftersyn Af Ældre Betonaltaner](../../../../media/sntagso1/vejledning-om-eftersyn-af-aeldre-betonaltaner.pdf){target="_blank"}
 
@@ -153,11 +171,15 @@ Bygningsejer bør undersøge behovet for et særskilt afstivningsprojekt ved st�
 
 Vejledning: Store træspær - Behov for afstivning
 
+<span id="_17"></span><span id="_18"></span>
+
 #### Gå til vejledning [Store træspor - behov for afstivning](../../../../media/i4ff0la2/2019-01-22_store_spaer_-_behov_for_afstivning.pdf){target="_blank"}
 
 [![](../../../../assets/img/linkbox/br_v_linkbox.svg)](#)
 
 Vejledning: Store stålspær - Behov for afstivning
+
+<span id="_19"></span><span id="_20"></span>
 
 #### Gå til vejledning [Store Stålrammer Behov For Afstivning (1)](../../../../media/j11pa3fg/store-staalrammer-behov-for-afstivning.pdf){target="_blank"}
 

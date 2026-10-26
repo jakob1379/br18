@@ -20,6 +20,8 @@ Kravet om dagslys skal ses i sammenhæng med almene sundhedsmæssige aspekter af
 
 ### 1.2 Dagslys (§ 379-381) {#b6a377e1-f916-47ca-bab9-672a5eaae34b}
 
+<span id="glasareal-og-relevant-gulvareal"></span><span id="forudstninger-vedr-beregning-af-belysningsstyrker"></span><span id="overfladereflektanser"></span>
+
 ### 1.3 Elektrisk belysning (§ 382-383) {#441019b0-05db-477e-8da9-2383c2179a5f}
 
 ### 1.4 Funktionsafprøvning (§ 384) {#e214b888-0da2-49b2-a52f-06b4caea8021}

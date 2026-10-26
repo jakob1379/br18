@@ -14,6 +14,8 @@
 
 ## Vejledning om energiberegning af hospitaler
 
+<span id="forord"></span>
+
 ### Forord {#80d5f054-da59-48e1-910e-41db725c67e3}
 
 Formålet med denne vejledning er at sikre, at nye hospitaler opført i Bygningsklasse 2020 bliver myndighedsbehandlet ens og retfærdigt. Vejledningen er en opfølgning på og sammenfatning af de fortolkninger der er lavet på to workshops, der er afholdt af Energistyrelsen i november 2012 og august 2013 i samarbejde med SUM og Regionerne samt SBi. I forbindelse med de afholdte workshops om de store hospitalsbyggerier, blev det aftalt, at der skal laves en vejledning til de projekterende og til kommunerne omkring, hvordan byggerierne håndteres i Be10.
@@ -36,6 +38,8 @@ Dette er version 3, dateret 01.01.2018. Den erstatter den tidligere udgivne vejl
 
 De primære ændringer er en opdatering af henvisninger og ændring af titel.
 
+<span id="indledning"></span>
+
 ### Indledning {#4314dcfa-a2b6-4297-a57e-4461bcc18251}
 
 Hospitalsbyggerier er karakteriseret ved en stor kompleksitet både under projektering, opførelse og drift. I alle faser skal der være fokus på det lave energiforbrug og det gode indeklima for at kunne nå i mål med bygningsklasse 2020.
@@ -47,6 +51,8 @@ Hospitalerne adskiller sig fra det meste almindelige bolig-, kontor- og institut
 Vejledningen er opbygget som svar på en række centrale fortolkningsspørgsmål, der er blevet stillet på to workshops til håndtering af hospitaler i forhold til Bygningsreglementets bestemmelser og energiberegningen i henhold til SBi-anvisning 213.
 
 Vejledningen tager netop udgangspunkt i Bygningsreglementet og SBi-anvisning 213: Bygningers Energibehov. Den er således at opfatte som en fortolkning heraf i relation til særlige forhold på hospitaler og eventuelt tilsvarende byggeri, der indeholder tilsvarende problemstillinger. I tvivlstilfælde vil det altid være de grundlæggende regler i Bygningsreglementet og SBi-anvisning 213, der gælder som de primære regler.
+
+<span id="indeklima"></span>
 
 ### Indeklima {#6ce7bd90-66ea-4fee-99d9-6158dfd6918a}
 
@@ -81,6 +87,8 @@ Det specifikke ventilationskrav til bygningsklasse 2020 er fjernet fra BR18. Det
 **Svar:**
 
 Med BR18 er det specifikke dagslyskrav til bygningsklasse 2020 fjernet fra bygningsreglementet. I stedet er der lavet justeringer af de normale minimumskrav til alle bygninger. Dette krav skal i stedet overholdes.
+
+<span id="tillg-til-energirammen"></span>
 
 ### Tillæg til energirammen {#4d745970-fa8a-41df-92f8-e7fcd06344df}
 
@@ -120,6 +128,8 @@ For de belysningszoner, hvor belysningsniveauet overstiger 300 lux reduceres bel
 
 Hvis der for eksempel er 1 W/m² i standby forbrug og et belysningsniveau på 500 lux med et effektforbrug på 15 W/m² (uden standby forbrug), så vil der skulle indregnes (300 lux / 500 lux) \* 15 W/m² = 9 W/m² (plus standby forbrug).
 
+<span id="tilbygninger"></span>
+
 ### Tilbygninger {#b6f4ed0f-cca4-47d9-9ad6-f20e4af5e607}
 
 **Spørgsmål:**
@@ -135,6 +145,8 @@ Energirammen kan også gælde for mindre tilbygninger. Det er ejeren, der frit v
 Selve energirammen for tilbygningen beregnes efter BR18’s almindelige regler på basis af det samlede etageareal af hele bygningen, så arealtillægget ikke udløser en høj energiramme.
 
 Da energirammen for bygningsklasse 2020 ikke afhænger af bygningens størrelse, er energirammen her 25 kWh/m² med eventuelt tillæg for lang benyttelsestid, ekstra ventilation, belysning og varmt vand mm.
+
+<span id="tthed"></span>
 
 ### Tæthed {#fc885732-052b-4055-96e2-c19d538db7bd}
 
@@ -154,6 +166,8 @@ Tæthedskravet i store bygninger fordrer, at de valgte løsninger er bygbare (r�
 
 I forbindelse med bygningsreglementet er der en eksempelsamling, der bl.a. indeholder et tema om tæthed, se [Tema om tæthed - Eksempelsamling](https://eksempelsamling.bygningsreglementet.dk/fokus_taethed/0/52)
 
+<span id="rumopvarmning"></span>
+
 ### Rumopvarmning {#fa3aaa50-556d-4d47-a3ca-fb72ea35f96f}
 
 **Spørgsmål:**
@@ -163,6 +177,8 @@ I forbindelse med bygningsreglementet er der en eksempelsamling, der bl.a. indeh
 **Svar:**
 
 Bemærk at teknologiudviklingen af apparater vil måske efter kort tid medføre behov for opvarmning, så det vil ofte være relevant enten at have en varmekilde eller have forberedt for en varmekilde i rummet, men det er ikke et krav i bygningsklasse 2020.
+
+<span id="ventilation"></span>
 
 ### Ventilation {#e3a5e724-40f2-4fb3-bcf2-f697bcc23ff4}
 
@@ -201,6 +217,8 @@ Statistisk og i praksis vil der altid være en samtidighedsfaktor, der for store
 **Svar:**
 
 Der skal normalt medregnes en ventilationsmængde på 1,2 l/s pr. m² i referenceberegningen uden tillæg. De 1,2 l/s pr. m² udgør en minimumsluftmængde, der normalt vil være nødvendig for at sikre frisklufttilførslen i rummene. SEL-værdi og varmegenvinding skal være baseret på beregning for den gennemsnitlige luftmængde, inklusive procesventilation.
+
+<span id="elforbrug-til-ventilation"></span>
 
 ### Elforbrug til ventilation {#38e8d818-8a36-406e-8bb2-7019e1598beb}
 
@@ -252,6 +270,8 @@ I rum med renlighedskrav, der overstiger de normale komfortanlæg, hvilket for e
 
 Kravene til det specifikke elforbrug til lufttransport i ventilationsanlæg kan opfyldes med flere forskellige løsninger. Vandrette føringer af kanaler kan være så pladskrævende, at det nødvendiggør en højere etagehøjde. Løsninger med vandret føring af kanaler i et teknikrum eller kælder og flere skakte vil kunne reducere størrelsen af de kanaler, der skal føres vandret i de enkelte etager. Herudover kan elforbruget begrænses ved bedre ventilationsaggregater og benyttelse af bedre reguleringsspjæld med lavt tryktab.
 
+<span id="varmegenvinding"></span>
+
 ### Varmegenvinding {#a15211c9-810a-44c5-94fd-1c86c694c369}
 
 **Spørgsmål:**
@@ -275,6 +295,8 @@ Roterende vekslere kan således anvendes, når særlig installation og driftsikk
 **Svar:**
 
 Ja. Det er Trafik-, Bygge- og Boligstyrelsens opfattelse, at et sådant merforbrug som følge af forskellen på den ”procesbestemte” teknologi og så bygningsreglementets generelle krav til varmegenvinding indebærer en mulighed for tillæg til energirammen for forskellen på kravet i bygningsreglementet og så den aktuelle løsning.
+
+<span id="ve-anlg"></span>
 
 ### VE-anlæg {#24ba9ab7-aac0-48a0-b31a-356523e3eb70}
 
@@ -302,6 +324,8 @@ I bygningsklasse 2020 er der taget højde for at en stigende del af elproduktion
 
 En region har mulighed for efter reglerne om myndighedsfuldmagt at etablere VE-anlæg til at forsyne sig selv med energi/elektricitet til eget brug. Anlægget skal derfor dimensioneres til den regionale bygnings eget forbrug. Der knytter sig særlige vilkår for salg overkapacitet af energi/elektricitet for de konkrete anlæg.
 
+<span id="byggesagsbehandling"></span>
+
 ### Byggesagsbehandling {#9bf8838f-884b-4e75-857e-651abd614786}
 
 **Spørgsmål:**
@@ -327,6 +351,8 @@ Eftervisning af overholdelse af energirammen sker med Be18.
 Det termiske indeklima dokumenteres overholdt ved beregning med et simuleringsprogram, som fx BSim fra SBi, der regner på timebasis.
 
 Forudsætningerne for eftervisning af overholdelse af energirammen fremgår af BR18 og SBi anvisning 213.
+
+<span id="andet"></span>
 
 ### Andet {#8bedbd8b-bcc6-48ef-bcd2-fc5f667bab77}
 

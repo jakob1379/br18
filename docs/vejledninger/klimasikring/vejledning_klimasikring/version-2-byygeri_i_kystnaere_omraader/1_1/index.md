@@ -7,7 +7,11 @@
 
 ## Vejledning om byggeri i kystnære områder - til bygherrer vedrørende sikring mod stormflod og vandstigninger (opdateret den 1. juli 2023)
 
+<span id="forord"></span>
+
 ### Forord {#08c72ebd-01f7-4a4c-aa26-fb5f9a474a8d}
+
+<span id="indledning"></span>
 
 ### Indledning {#2e7d5587-dd4b-4621-822f-3b7f9a639525}
 
@@ -82,6 +86,8 @@ Konstruktioner og bygningsdele skal blandt andet projekteres, udføres, driftes 
 Konstruktioner skal projekteres og udføres, så de kan modstå de normalt forekommende statiske og dynamiske påvirkninger i forhold til konstruktionens placering og anvendelse (BR18, kap. 15, § 344) og beregnes efter Eurocodes eller tilsvarende (BR18, kap. 15, §§ 345-352). For bygninger placeret i kystnære områder er det særligt vigtigt, at konstruktioner og bygningsdele projekteres, udføres, driftes og vedligeholdes, så de kan modstå påvirkninger fra stormflod og vandstigninger og følgevirkningerne af disse.
 
 ### 1.2. Vejledninger og anvisninger {#12553cac-2147-4990-8ea4-2eadac441f84}
+
+<span id="_1"></span>
 
 ### 2.0. Lovgivning om lokalplanlægning og oversvømmelsesrisiko i forbindelse med kystnært byggeri {#75f08ac2-bbe3-4444-b53b-625fdb733bc3}
 

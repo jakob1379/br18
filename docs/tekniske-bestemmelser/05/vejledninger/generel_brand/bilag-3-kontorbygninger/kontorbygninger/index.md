@@ -26,6 +26,8 @@
 
 ## Bilag 3 - Præ-accepterede løsninger - Kontorbygninger
 
+<span id="bilag-3-til-bygningsreglementets-vejledning-til-kap-5-brand"></span>
+
 ### Bilag 3 til Bygningsreglementets vejledning til kap. 5 – Brand {#8c72f0a2-e10b-4291-9792-51480e5421fe}
 
 [Åbn Bilag 3: Præ-accepterede løsninger for kontorer mv. version 1.2](../../../../../../media/4yjfz4xv/bilag-3-kontorbygninger-ver-12-20211029-a.pdf "Bilag 3  Kontorbygninger ver 12 20211029")

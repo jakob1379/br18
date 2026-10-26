@@ -2,15 +2,27 @@
 
 ## Bygningsreglementets vejledning om affaldssystemer
 
+<span id="forord"></span>
+
 ### Forord {#9ab0ac2f-29a3-4947-8417-f34d30606232}
+
+<span id="generelt"></span>
 
 ### 1. Generelt {#949c3121-98e4-4f31-90b3-ddd183407389}
 
+<span id="eksempler-pa-affaldssystemer"></span>
+
 ### 2. Eksempler på affaldssystemer {#5e2cd802-b148-4e93-9e35-f48184cffe30}
+
+<span id="pladskrav"></span>
 
 ### 3. Pladskrav {#44b6a6f1-cdf5-4e26-9304-f03bf430c891}
 
+<span id="brugerhensyn"></span>
+
 ### 4. Brugerhensyn {#cf35d4fb-7f22-4403-9b39-372cc0b8025b}
+
+<span id="affaldsskakte-i-eksisterende-byggeri"></span>
 
 ### 5. Affaldsskakte i eksisterende byggeri {#9066c486-cccb-4977-a72e-b70d06564b36}
 

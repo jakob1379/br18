@@ -1,7 +1,11 @@
+<span id="paragraf-62"></span>
+
 # Adgangsforhold (§ 48 - § 62)
 
 [Krav](./){ .md-button .md-button--primary }
 [Vejledning](brv/){ .md-button }
+
+<span id="paragraf-48"></span><span id="s48"></span>
 
 ## § 48 Adgangsforhold {#c6942220-e3f7-4553-a064-c1749f215574}
 
@@ -10,6 +14,8 @@ Bygninger, opholdsarealer og parkeringsarealer skal have adgangsforhold, der sik
 *Stk. 2.* Sommerhuse er ikke omfattet af bestemmelserne i kapitel 2 om adgangsforhold.
 
 *Stk. 3.* Fritliggende enfamiliehuse, der udelukkende anvendes til boligformål, er ikke omfattet af bestemmelserne i kapitel 2 om adgangsforhold, jf. dog § 51, stk. 3, og § 52.
+
+<span id="s49-50"></span>
 
 ## § 49 - § 50 Adgangsforhold frem til bygningen {#744b4ef9-b031-4220-a9dc-276bde7d39c9}
 
@@ -36,6 +42,8 @@ Brugerne skal ved egen hjælp kunne komme fra vej frem til alle adgange til bygn
 ### § 50 {#paragraf-50}
 
 Porte eller passager i adgangs- og tilkørselsarealer, skal udformes, så der er let adgang for redningskøretøjer.
+
+<span id="s51-54"></span>
 
 ## § 51 - § 54 Adgangsforhold ved bygningen {#69404060-a93e-4343-b3d9-a427d81a861e}
 
@@ -75,6 +83,8 @@ Yderdøre skal have en fri passagebredde på mindst 0,77 m.
 
 Ved opholdsarealer, parkeringsarealer samt eventuelle arealer til opbevaring af affald i tilknytning til bygningen skal der være adgangsforhold, der sikrer, at brugerne ved egen hjælp kan komme ind til arealerne og anvende deres funktioner.
 
+<span id="s55-56"></span>
+
 ## § 55 - § 56 Fælles adgangsveje i bygningen {#81657c7c-1abe-4756-9073-cdbffe04afbe}
 
 ### § 55 {#paragraf-55}
@@ -101,6 +111,8 @@ m) eller mindre kan håndlister udelades.
 
 6) Dørtrin må maksimalt være 2,50 cm i højden.
 
+<span id="paragraf-57"></span><span id="s57"></span>
+
 ## § 57 Trapper {#e71ec445-7474-4b34-adaa-cd9f4a3daf6d}
 
 Trapper i fælles adgangsveje skal udformes med tilstrækkelig bredde og fri loftshøjde i forhold til den tilsigtede brug samt have en hældning, der gør dem lette og sikre at gå på. Bestemmelsen anses som opfyldt når:
@@ -112,6 +124,8 @@ Trapper i fælles adgangsveje skal udformes med tilstrækkelig bredde og fri lof
 3) Grunden (trinnets vandrette dybde) på ligeløbs-, kvart- og halvsvingstrapper ikke er mindre end 0,28 m. I beboelsesbygninger dog mindst 0,25 m.
 
 4) På spindel- og vindeltrapper må grunden ikke være mindre end 0,20 m.
+
+<span id="s58-60"></span>
 
 ## § 58 - § 60 Værn {#fac89204-dad3-447b-be3b-10dd023469f6}
 
@@ -137,11 +151,15 @@ Værn skal udføres, så den indbyrdes afstand mellem alle typer balustre, både
 
 Værn udført af glas skal udføres i overensstemmelse med §§ 238-241.
 
+<span id="paragraf-61"></span><span id="s61"></span>
+
 ## § 61 Håndlister {#3be63de8-43d2-4577-8860-d6ebe210ed67}
 
 Gange, trapper og ramper i fælles adgangsveje, hvor der ikke er opsat værn, skal forsynes med håndlister i begge sider under hensyn til bygningens udformning og anvendelse. Håndlisterne skal være nemme at gribe om og holde fast i. Håndlister skal føres ubrudt forbi repos og afsluttes vandret.
 
 *Stk. 2.* Håndlister skal opsættes i en højde på ca. 0,80 m.
+
+<span id="s62"></span>
 
 ## § 62 Information {#ce59f572-756e-4351-9503-2e85fde787ca}
 

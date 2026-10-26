@@ -1,5 +1,7 @@
 # Bilag 5: Lovliggørelse af byggeri i konstruktionsklasse 2-4
 
+<span id="lovliggrelse-af-byggeri-i-konstruktionsklasse-2-4"></span>
+
 ## Lovliggørelse af byggeri i konstruktionsklasse 2-4 {#f77f23fc-92ae-47f3-9ffb-673bb28da5d3}
 
 ## Afsnit 1: Lovliggørelse af byggeri i konstruktionsklasse 2-4, ved anvendelse af anden materiel regulering end den, der gælder på lovliggørelsestidspunktet

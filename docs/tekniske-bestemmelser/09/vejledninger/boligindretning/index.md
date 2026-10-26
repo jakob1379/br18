@@ -8,11 +8,15 @@
 
 ## Vejledning om boligindretning
 
+<span id="kolofon"></span>
+
 ### Kolofon {#818585de-abef-41f2-b417-27010078f7d0}
 
 **Bygningsreglementets vejledning om boligindretning**
 
 2. udgave, September 2022
+
+<span id="forord"></span>
 
 ### Forord {#a65228a9-ae42-48b3-b79b-97cd2de40d36}
 
@@ -100,6 +104,8 @@ Den elastiske bolig: Her kan boligen ændre størrelse efter behov. Det kan ske 
 
 Illustration 01 BR vejledning om boligindretning
 
+<span id="_1"></span>
+
 ### 2. Boligens overordnede planlægning {#12dadcbe-9992-4eef-b8a9-6906c7e57fe4}
 
 ### 2.1. Boligens kontekst og bebyggelsens kompakthed {#a404c180-f32f-443d-8641-7373bfa4512d}
@@ -113,6 +119,8 @@ Men den kompakte bebyggelse kan udfordre mulighederne for at placere boligen att
 ![](../../../../media/lmnbw1to/01_indretning.png)
 
 Illustration 02: Boligens kontekst og bebyggelsens kompakthed. Afstanden mellem bygningerne og højden på genbobygningerne har især indflydelse på boligens dagslysforhold, evt. indbliksgener og anvendeligheden af uderummet mellem bygningerne.
+
+<span id="_2"></span>
 
 ### 2.2. Bebyggelsestype {#49d2454d-b336-4632-ac9b-5dc69da24e35}
 
@@ -146,6 +154,8 @@ b) længe/rækkehusbebyggelsen og
 
 c) punkthusbebyggelsen.
 
+<span id="_3"></span>
+
 ### 2.3. Fælles adgangsveje til boligen {#bdd680c0-6bb9-4838-b4d1-219dcf123a62}
 
 Adgangsvejen til boligen er overgangen mellem det offentlige rum og den private bolig. I etageboligen kan trappeopgangen, vindfanget, forrummet, gangarealerne, altangangen, svalegangen, pladsen foran elevatorerne, ramperne og reposerne tilsammen betragtes som en overgangszone. Ved en rækkehusbebyggelse kan det være uderummet mellem boligerne, forhaven eller gårdrummet op mod boligen. Overgangszonens arkitektoniske udformning kan være med til at nuancere, hvor grænsen for privatlivet går, og hvor det offentlige liv starter. Dermed viser udformningen, hvor det er naturligt at sidde og spise, hvor det opleves som sikkert at sætte en barnevogn med et sovende barn, og hvor man uden at føle, at man trænger sig på, kan tale med sine naboer.
@@ -157,6 +167,8 @@ Se SBi-anvisning 272, Anvisning om Bygningsreglementet 2018 – 2. Adgangsforhol
 ![](../../../../media/p0rlsaxg/illustration-04-br-vejledning-om-boligindretning.png)
 
 Illustration 04: Boligens adgangsveje kan alt efter deres karakter bruges til rekreative områder og give beboerne mulighed for at skabe uformelle mødesteder. Udformningen af overgangszonen med niveauer af privathed fra det offentlige rum til den private bolig eller zonen tæt på boligen kan sikre, at det føles naturligt at trække uden for sin bolig, uden at føle sig eksponeret.
+
+<span id="_4"></span>
 
 ### 2.4. Boligens størrelse {#5799d662-e35a-47a9-be19-daccfe701c15}
 
@@ -171,6 +183,8 @@ En bebyggelse, der indeholder flere forskellige boligstørrelser og boligplaner,
 ![](../../../../media/ldkfwoyn/illustration-05-br-vejledning-om-boligindretning.png)
 
 Illustration 05: For at en bolig fungerer optimalt, bør man være opmærksom på dens ganglinjer. Det er de usynlige områder, der er omkring en møblering, eller forbindelsen imellem tilstødende rum og adgang til terrassedøren og hovedindgangen
+
+<span id="_5"></span>
 
 ### 2.5. Boligens rumforløb og rummenes udformning {#bdf8d6bb-12e6-4fa0-b45c-915bcdc0c7b9}
 
@@ -198,6 +212,8 @@ Illustration 06: Boligens dybde. Plantegninger med samme areal, men med tre fors
 
 Illustration 07: Boligens runforløb og sammenhæng på tværs af etager. Trappeløb, niveauforskelle og åben forbindelse mellem flere etager og på tværs af boligen kan give spændende rumforløb og oplevelsen af tættere forbindelse mellem forskellige rumligheder og funktioner. (Diagrammer frit efter: Vandkunsten, arkitekt Mogens Lassen og arkitekt Arne Jacobsen)
 
+<span id="_6"></span><span id="_7"></span>
+
 ### 2.6. Dagslysforhold {#d79cf6a3-805b-4e7d-a359-3b318e98482b}
 
 Lys har afgørende betydning for menneskers trivsel. Dagslys er derfor et vigtigt element i planlægningen af boligen og har afgørende indflydelse på anvendeligheden og kvaliteten af boligens rum. En velbelyst bolig med et godt visuelt indeklima, der understøtter aktiviteterne i rummene, opleves behagelig og komfortabel.
@@ -223,6 +239,8 @@ Illustration 08: Alt afhængig af boligens orientering vil dagslyset præge den 
 ![](../../../../media/l0ld2lpm/illustration-09-br-vejledning-om-boligindretning.png)
 
 Illustration 09: Himmelgrænseplan. Himmelgrænseplanet indikerer, hvilket område i rummet der modtager dagslys direkte fra himlen, og hvilket der kun modtager reflekslys. Himmelgrænseplanet findes ved at tegne en linje fra overkanten af genbobygningen igennem overkanten af vindueshullet og forlænge linjen ind i rummet. Lyset under linjen kommer direkte fra himlen og har størst intensitet. Lyset over linjen er reflekslys og har mindre intensitet.
+
+<span id="_8"></span><span id="_9"></span>
 
 ### 2.7. Lydforhold {#7f0c5c71-a8ea-42e4-94f8-0a5f927cf94b}
 
@@ -288,6 +306,8 @@ En tagterrasse kan være et fælles eller et privat uderum, som er integreret i 
 
 Illustration 10: Altaner. Alt efter om altanen er udeliggende (a), delvist indeliggende (b) eller indeliggende (c), skygger den mere eller mindre for rum under altanen. Diagrammet er en forenklet illustration af, hvordan en altan kan skabe skygge i rummene under sig og dermed påvirke rummets lysniveau. Diagrammet illustrerer situationen for en bolig, hvor der også er en genbobygning, der skygger (se kap. 2.6 Dagslysforhold, ill. 09). Samspillet mellem dagslyset, vinduet og skyggende elementer er komplekst og har indflydelse på lysniveauet i rummet og bør tilrettelægges med omhu.
 
+<span id="_10"></span>
+
 ### 3. Boligens aktiviteter {#29b603f5-2588-4abb-a33b-7f51ad402e5d}
 
 ### 3.1 At komme ind {#c74c1f75-2366-4a20-baae-6d8c92abaa73}
@@ -306,6 +326,8 @@ I boliger med flere planer kan trappen placeres i en del af ankomstområdet elle
 
 Illustration 11: Ved indgangen til boligen har man brug for at kunne hænge overtøj og stille sko. Det gælder også i det tilfælde, at man kommer direkte ind i et køkken eller opholdsrum. Derudover er det et område, der med fordel kan rumme mange funktioner som fx plads til opbevaring.
 
+<span id="_11"></span>
+
 ### 3.2. At lave mad {#e5951ab1-95e3-4dfb-9f63-a0e915cad343}
 
 Køkkenet er et centralt sted i boligen og ofte et af de mest anvendte fællesarealer i boligen. Køkkenet er et arbejdssted, hvor man enten alene eller i fællesskab med familie eller venner samles om aktiviteten ‘at lave mad’. På den måde fungerer køkkenet både som socialt samlingssted og som arbejdssted, hvor mange specifikke funktioner i forbindelse med madlavningen skal fungere bedst muligt.
@@ -323,6 +345,8 @@ For forhold vedrørende tilgængelighed i køkkener, se SBi-anvisning 249, Tilg�
 ![](../../../../media/ssslpyvv/illustration-12-br-vejledning-om-boligindretning.png)
 
 Illustration 12: Køkkenets indretning kan understøtte en hensigtsmæssig arbejdsgang. Den rumlige organisering af køkkenet påvirker arbejdsgangene. Det langstrakte køkken og kogeøen kan give god plads til, at flere personer deltager i madlavningen. Det mere kompakt organiserede køkken optimerer arbejdsgangen for færre personer.
+
+<span id="_12"></span>
 
 ### 3.3 At spise {#a87b524d-c50a-488d-a401-15eb0c43887a}
 
@@ -349,6 +373,8 @@ Hjemmearbejdspladsen kan være en funktion, som flere af boligens beboere benytt
 ![](../../../../media/qwkl3eh3/illustration-13-br-vejledning-om-boligindretning.png)
 
 Illustration 13: Hjemmearbejdspladsen kan prioriteres forskelligt. Den kan enten være en funktion, der tages frem efter behov (a), integreres i et af boligens andre rum (b) eller indrettes i et selvstændigt rum udelukkende til dette specifikke formål (c).
+
+<span id="_13"></span>
 
 ### 3.6. At sove {#4d77aa18-d434-46d5-83f1-65ed094fd1e7}
 

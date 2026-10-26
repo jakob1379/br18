@@ -14,6 +14,8 @@
 
 ## Bygningsreglementets vejledning om energiforbrug
 
+<span id="forord"></span>
+
 ### Forord {#e4a4aefb-350b-4266-827e-1508450a3f72}
 
 ### 1.0. Generelt {#5d0fd3cc-01f4-4dbe-bf46-d43a912b077e}
@@ -100,6 +102,8 @@ Ved beregning af U-værdi benyttes DS/EN 12631 Termisk ydeevne for curtainwallin
 
 [![](../../../../../assets/img/linkbox/ds_en_linkbox.svg)](#)
 
+<span id="_1"></span>
+
 #### DS/EN 14351-1 + A1:2010
 
 Vinduer og døre - Produktstandard, ydeevneegenskaber - Del 1: Vinduer og yderdøre uden brandmodstandsevne og/eller røgtæthedsegenskaber
@@ -121,6 +125,8 @@ Bemærk, engelske udgaver af europæiske standarder kan købes hos [alle europ�
 [![](../../../../../assets/img/linkbox/ds_en_iso_linkbox.svg)](#)
 
 DS/EN ISO 12631:2017 - Termisk ydeevne for curtainwalling – Beregning af varmetransmissionskoefficient
+
+<span id="dsen-iso-126312017-termisk-ydeevne-for-curtainwalling-beregning-af-varmetransmissionskoefficient"></span><span id="dsen-138302003-curtain-walling-produktstandard"></span>
 
 #### Beskrivelse
 

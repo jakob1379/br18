@@ -8,7 +8,11 @@
 
 ## Vejledning om boligindretning
 
+<span id="kolofon"></span>
+
 ### Kolofon {#818585de-abef-41f2-b417-27010078f7d0}
+
+<span id="forord"></span>
 
 ### Forord {#a65228a9-ae42-48b3-b79b-97cd2de40d36}
 
@@ -56,6 +60,8 @@ Illustration 06: Boligens dybde. Plantegninger med samme areal, men med tre fors
 
 Illustration 07: Boligens runforløb og sammenhæng på tværs af etager. Trappeløb, niveauforskelle og åben forbindelse mellem flere etager og på tværs af boligen kan give spændende rumforløb og oplevelsen af tættere forbindelse mellem forskellige rumligheder og funktioner. (Diagrammer frit efter: Vandkunsten, arkitekt Mogens Lassen og arkitekt Arne Jacobsen)
 
+<span id="_1"></span><span id="_2"></span>
+
 ### 2.6. Dagslysforhold {#d79cf6a3-805b-4e7d-a359-3b318e98482b}
 
 ### 2.7. Lydforhold {#7f0c5c71-a8ea-42e4-94f8-0a5f927cf94b}
@@ -83,5 +89,7 @@ Illustration 07: Boligens runforløb og sammenhæng på tværs af etager. Trappe
 ### 3.6. At sove {#4d77aa18-d434-46d5-83f1-65ed094fd1e7}
 
 ### 3.7. At bade {#9d95ee42-38e2-41d4-ae53-1d23da54a544}
+
+<span id="appendix-litteratur"></span>
 
 ### Appendix: Litteratur {#dad94911-d8be-4830-9756-dcbefa202590}

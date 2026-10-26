@@ -7,7 +7,11 @@
 
 ## Vejledning om byggeri i kystnære områder - til bygherrer vedrørende sikring mod stormflod og vandstigninger (opdateret den 1. juli 2023)
 
+<span id="forord"></span>
+
 ### Forord {#08c72ebd-01f7-4a4c-aa26-fb5f9a474a8d}
+
+<span id="indledning"></span>
 
 ### Indledning {#2e7d5587-dd4b-4621-822f-3b7f9a639525}
 
@@ -78,6 +82,8 @@ Anvisningen beskriver afløbssystemer. Disse ledninger kan lægges med fald, så
  
 
  
+
+<span id="_1"></span>
 
 ### 2.0. Lovgivning om lokalplanlægning og oversvømmelsesrisiko i forbindelse med kystnært byggeri {#75f08ac2-bbe3-4444-b53b-625fdb733bc3}
 

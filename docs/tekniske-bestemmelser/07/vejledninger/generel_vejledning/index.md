@@ -8,6 +8,8 @@
 
 ## Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder
 
+<span id="_1"></span><span id="_2"></span><span id="forord"></span>
+
 ### Forord {#53aaae9d-a33f-44f1-868e-5c37b9a3decc}
 
 Denne vejledning behandler de forhold der bør overvejes i forbindelse med byggepladsen og udførelse af byggearbejde. Derudover giver vejledningen anbefalinger til planlægning og udførelse af byggearbejder, herunder brandværnsforanstaltninger på byggepladsen, og tiltag til at undgå uacceptable gener på anden grund, og sørge for at fugtfølsomt materiale beskyttes under byggeprocessen.
@@ -32,11 +34,15 @@ Bekendtgørelse nr. 2107 af 24/11/2021 om bygge- og anlægsarbejder
 
 Bekendtgørelse nr. 117 af 05/02/2013 om bygherrens pligter
 
+<span id="_3"></span><span id="_4"></span><span id="_33"></span><span id="_34"></span>
+
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/Forms/R0710.aspx?id=145005){target="_blank"}
 
 [![](../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Bekendtgørelse nr. 110 af 05/02/2013 om projekterendes og rådgiveres pligter m.v. efter lov om arbejdsmiljø
+
+<span id="_5"></span><span id="_6"></span><span id="_7"></span><span id="_8"></span><span id="_9"></span><span id="_10"></span><span id="_15"></span><span id="_16"></span><span id="_17"></span><span id="_18"></span><span id="_25"></span><span id="_26"></span><span id="_27"></span><span id="_28"></span>
 
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/Forms/R0710.aspx?id=145007){target="_blank"}
 
@@ -132,6 +138,8 @@ Der henvises tillige til cirkulære om instruks for brandværnsforanstaltninger 
 [![](../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Cirkulære nr. 2 af 06/11/1994 om instruks for brandværnsforanstaltninger under byggearbejder på fredede bygninger
+
+<span id="_11"></span><span id="_12"></span>
 
 #### Gå til cirkulæret [Gå til cirkulæret](https://www.retsinformation.dk/Forms/R0710.aspx?id=54920){target="_blank"}
 
@@ -236,6 +244,8 @@ Oplag af brændbart affald kan udgøre en uhensigtsmæssig stor brandbelastning,
 [![](../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Bekendtgørelse nr. 1639 af 06/12/2016 om brandfarlige og brandbare væsker (inklusiv tekniske forskrifter)
+
+<span id="_13"></span><span id="_14"></span>
 
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/Forms/R0710.aspx?id=185816){target="_blank"}
 
@@ -357,6 +367,8 @@ Sikkerhedsbelysning bør udføres i overensstemmelse med stærkstrømsbekendtgø
 
 Bekendtgørelse nr. 1082 af 12/07/2016 om sikkerhed for udførelse og drift af elektriske installationer (tidl. stærkstrømsbekendtgørelsen)
 
+<span id="_19"></span><span id="_20"></span>
+
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/Forms/R0710.aspx?id=183511){target="_blank"}
 
 ### 3.7. Varmt arbejde - herunder brug af åben ild {#a0dfe87a-0555-449a-92ce-500d0caaad68}
@@ -443,6 +455,8 @@ Håndildslukkere skal være udført i overensstemmelse med gældende regler (DS/
 
 DS/EN 3-7 + A1:2007 - Håndildslukkere - Del 7: Karakteristika, ydeevnekrav og prøvningsmetoder
 
+<span id="_21"></span><span id="_22"></span>
+
 #### Standarden findes på dansk i Dansk Standards webshop [Standarden findes på dansk i Dansk Standards webshop](https://webshop.ds.dk/da-dk/s%c3%b8gning/13-220-10-brandslukning/ds-en-3-7-a12007){target="_blank"}
 
 **Brandtæpper**
@@ -488,6 +502,8 @@ Skiltning af risikoområder, flugtveje, brandslukningsmateriel, redningsmateriel
 [![](../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Bekendtgørelse nr. 518 af 17/06/1994 (med senere ændringer) om sikkerhedsskiltning og anden form for signalgivning
+
+<span id="_23"></span><span id="_24"></span>
 
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/Forms/R0710.aspx?id=67376){target="_blank"}
 
@@ -598,11 +614,15 @@ Bemærk, at der er særlige regler og foranstaltninger i forbindelse med håndte
 
 Lov nr. 1093 af 11/10/2024 (med senere ændringer) om miljøbeskyttelse
 
+<span id="_29"></span><span id="_30"></span>
+
 #### Gå til loven [](https://www.retsinformation.dk/eli/lta/2024/1093#id05d9b2d6-1e7a-4c81-b987-ed9b40e76af4){target="_blank"}
 
 [![](../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Bekendtgørelse nr. 1749 af 13/12/2024 (med senere ændringer) om affald
+
+<span id="_31"></span><span id="_32"></span>
 
 #### Gå til bekendtgørelsen [](https://www.retsinformation.dk/eli/lta/2024/1749){target="_blank"}
 
@@ -635,5 +655,7 @@ Kravet kan f.eks. opfyldes ved:
 [![](../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Bekendtgørelse nr. 477 af 18/05/2011 om bygge og anlægsarbejder i perioden 1. november til 31. marts (vinterbekendtgørelsen)
+
+<span id="_35"></span><span id="_36"></span>
 
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/Forms/r0710.aspx?id=137101){target="_blank"}

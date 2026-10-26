@@ -11,9 +11,15 @@
 
 ## - Vejledning til kontorbyggeri
 
+<span id="kontorbyggeri"></span>
+
 ### 5.0 Kontorbyggeri {#c4285b66-cbe9-411e-8904-e76b5f1be9b5}
 
+<span id="lydisolation-for-kontorbyggeri"></span>
+
 ### 5.1 Lydisolation for kontorbyggeri {#b3ba71ab-4b69-4413-8577-5d81c6a474b6}
+
+<span id="stj-indendrs-fra-trafik"></span>
 
 ### 5.2 Støj indendørs fra trafik {#fd62d10c-8645-4fce-8301-f417fb7d86c9}
 
@@ -50,6 +56,10 @@ Kantiner, receptioner, atrier</p></td>
 </tbody>
 </table>
 
+<span id="stj-fra-tekniske-installationer"></span>
+
 ### 5.3 Støj fra tekniske installationer {#5ffe9f4e-f2ad-4108-860f-19bb8d45b344}
+
+<span id="rumakustik"></span>
 
 ### 5.4 Rumakustik {#580fa499-be47-4546-83b8-d8ab6b3450ff}

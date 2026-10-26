@@ -13,7 +13,11 @@ title: Lys og udsyn (§ 377 - § 384) – Vejledning
 - [Bygningsreglementets vejledning om lys og udsyn](../vejledninger/generel_vejledning/)
 - [Bygningsreglementets vejledning om korrektioner til 10 procent reglen for dagslys](../vejledninger/10-procent-vejledning/)
 
+<span id="bygningsreglementets-vejledning-om-lys-og-udsyn"></span><span id="forord"></span><span id="udsyn-378"></span><span id="dagslys-379-381"></span><span id="glasareal-og-relevant-gulvareal"></span><span id="forudsaetninger-vedr-beregning-af-belysningsstyrker"></span><span id="overfladereflektanser"></span><span id="elektrisk-belysning-382-383"></span><span id="funktionsafproevning-384"></span><span id="bygningsreglementets-vejledning-om-korrektioner-til-10-procent-reglen-for-dagslys"></span><span id="spoergsmaal-og-svar-om-lys-og-udsyn"></span>
+
 ## Spørgsmål og svar om lys og udsyn
+
+<span id="spoergsmaal-og-svar-om-automatisk-dagslysstyring"></span>
 
 ### Spørgsmål og svar om automatisk dagslysstyring {#b2accc9c-0d9a-4ca4-a969-b3d8119fe49b}
 
@@ -21,9 +25,13 @@ title: Lys og udsyn (§ 377 - § 384) – Vejledning
 
 Dansk Center for Lys har en nærmere beskrivelse af hvordan man kan løse dagslysstyringen i en trappeopgang: https://centerforlys.dk/viden-om-lys/medlemsraadgivning/.
 
+<span id="spoergsmaal-og-svar-vedroerende-krav-om-dagslys-i-moederum"></span>
+
 ### Spørgsmål og svar vedrørende krav om dagslys i møderum {#789b5288-7323-47c9-8d92-f8aae4ec9efe}
 
 [? Er møderum omfattet af bygningsreglementets krav om dagslys?](#789b5288-7323-47c9-8d92-f8aae4ec9efe) I møderum der planlægges anvendt til almindelig mødebrug, dvs. skiftende møder med skiftende brugere, vil der normalt kunne accepteres lavere dagslysniveauer. Indretning af et lokale med begrænset dagslysadgang kan dog være begrænsende for den fremtidige anvendelse af rummet, da rummet dermed ikke er muligt at anvende som fast arbejdsplads.
+
+<span id="spoergsmaal-og-svar-vedroerende-udskiftning-af-belysningsarmatur"></span>
 
 ### Spørgsmål og svar vedrørende udskiftning af belysningsarmatur {#74d057c7-9a7d-4375-b105-ec164347bafd}
 

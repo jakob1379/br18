@@ -3,6 +3,8 @@
 [Krav](./){ .md-button .md-button--primary }
 [Vejledning](brv/){ .md-button }
 
+<span id="s393-394"></span>
+
 ## § 393- § 394 Ubebyggede arealer ved bebyggelse {#584d5900-519b-4943-86e2-091c00e2a80a}
 
 ### § 393 {#paragraf-393}
@@ -16,6 +18,8 @@ Bestemmelserne i kapitel 20 gælder ikke, hvis en lokalplan, en byplanvedtægt e
 *Stk. 2.* De ubebyggede arealer kan være fælles for flere ejendomme. Disponering, anlæg og anvendelse af sådanne fælles friarealer skal sikres ved tinglysning på de pågældende ejendomme.
 
 *Stk. 3.* Ubebyggede arealer må ikke benyttes i strid med det formål, hvortil de er udlagt.
+
+<span id="s395-398"></span>
 
 ## § 395 - § 398 Opholdsarealer {#32f340de-879f-41b8-8a3a-5012be7a88aa}
 
@@ -36,6 +40,8 @@ Ved arealer til opbevaring af affald i tilknytning til bygningen skal der være 
 ### § 398 {#paragraf-398}
 
 For etageboliger og tæt/lav boligbebyggelse, herunder rækkehuse og kædehuse mv. skal en passende del af opholdsarealet anlægges som legeområde. Legearealets andel af grundens areal skal fastsættes af kommunalbestyrelsen og fremgå af byggetilladelsen.
+
+<span id="s399-402"></span>
 
 ## § 399 - § 402 Parkeringsarealer {#a0ebdcef-79b7-48c5-8637-38df7e622cac}
 

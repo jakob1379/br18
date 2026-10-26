@@ -26,6 +26,8 @@
 
 ## Bilag 2 - Præ-accepterede løsninger - Etageboligbyggeri
 
+<span id="bilag-2-til-bygningsreglementets-vejledning-til-kap-5-brand"></span>
+
 ### Bilag 2 til Bygningsreglementets vejledning til kap. 5 – Brand {#436f9ce8-1843-4d07-8aa5-707aa4ac22cc}
 
 [Åbn Bilag 2: Præ-accepterede løsninger for etageboligbyggeri version 1.4](../../../../../../media/zj1pprxq/bilag-2-etagebyggeri-ver-14-20211029-a.pdf "Bilag 2 Etagebyggeri ver 14 20211029"){rel="noopener" target="_blank"}

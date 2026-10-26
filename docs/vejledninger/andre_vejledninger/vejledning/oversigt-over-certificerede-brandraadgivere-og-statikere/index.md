@@ -15,6 +15,8 @@
 
 ## Oversigt over certificerede brandrådgivere og statikere samt anerkendte statikere
 
+<span id="oversigt-over-certificerede-brandradgivere-og-statikere-samt-anerkendte-statikere_1"></span>
+
 ### Oversigt over certificerede brandrådgivere og statikere samt anerkendte statikere {#4265beb0-6845-4550-a5bf-091b68008356}
 
 [Oversigt over certificerede brandrådgivere og statikere (nyt vindue).](https://certificering.sbst.dk/){rel="noopener" target="_blank"}

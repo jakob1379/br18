@@ -10,6 +10,8 @@
 
 ## Bygningsreglementets vejledning om vand
 
+<span id="forord"></span>
+
 ### Forord {#f0296195-5815-485c-ae68-9a65ed2f06cd}
 
 Formålet med bestemmelserne i bygningsreglementet er at sikre, at bygninger får ført vand ind i og rundt i bygningen svarende til det behov, som bygningen, de enkelte rum og deres installationer har i forhold til anvendelsen.
@@ -46,7 +48,11 @@ Vandinstallationer omfatter installationer i bygninger og i jord inden for grund
 
 Rørcenteranvisning 027
 
+<span id="_1"></span><span id="_2"></span>
+
 #### [027](https://www.teknologisk.dk/ydelser/roercenter-anvisninger-og-rapporter-fra-roercentret/486){target="_blank"}
+
+<span id="_3"></span><span id="_4"></span><span id="generelt-for-vandinstallationer"></span>
 
 ### Generelt for vandinstallationer {#c9970c87-937b-4273-9fdd-f17612464f4e}
 
@@ -55,6 +61,8 @@ Ved projektering af vandinstallationer, skal der vælges en metode for sikring m
 Ved vurdering af varmtvandstemperaturen i installationerne og ventetiden på, at det varme vand når ud i den enkelte installation, skal risikoen for Legionella indgå.
 
 Det har desuden vist sig, at anvendelsen af nogle materialer som eksempelvis naturgummi og visse former for syntestisk gummi kan bidrage til bakterievækst, herunder Legionellavækst.
+
+<span id="ledninger-i-jord-og-indfrelse-i-bygninger"></span>
 
 ### Ledninger i jord og indførelse i bygninger {#44752e2c-2ae4-49c9-93fa-7338b2fd3bc9}
 
@@ -77,6 +85,8 @@ Kravet vedrørende ledningers indføring i bygning kan opfyldes som vist på ned
 Fastgørelsen af vandinstallationer til bygningsdele må ikke medføre skade på hverken installation eller bygningsdel.
 
 Ledninger må kun fastspændes til bygningsdele, såfremt disse kan optage fastspændingskræfterne.
+
+<span id="frost"></span>
 
 ### Frost {#ea459f4d-60ae-48b3-b730-83874c45aedf}
 
@@ -102,6 +112,8 @@ Risiko for frostskader vil normalt kunne undgås, når følgende vejledning iagt
 
 Såfremt der ikke er sikkerhed for at en bygning holdes frostfri, og såfremt installationerne i bygningen kun periodevis er benyttet, bør disse indrettes, således at de kan tømmes.
 
+<span id="trykstd"></span>
+
 ### Trykstød {#0538689f-1abe-4b24-8317-22b8ef62abb8}
 
 Vandinstallationer projekteres og udføres på en sådan måde, at trykstød ikke kan forekomme, og således at pludselige og unødvendige variationer i tryk og flow undgås.
@@ -113,6 +125,8 @@ Trykstød kan opstå i forbindelse med følgende ventiler og komponenter, hvorfo
 > • trykforøgeranlæg
 
 Trykforøgeranlæg projekteres, udføres og styres, så der ikke opstår generende trykstød ved start og stop.
+
+<span id="materialer"></span>
 
 ### Materialer {#68ff1047-5d25-4b33-8565-382602f49c97}
 
@@ -134,6 +148,8 @@ Anvisningen afløser SBI-anvisning 129, Korrosionsforebyggelse i vvs-installatio
 
 #### [Find anvisningen her](https://sbi.dk/anvisninger/Pages/227-Korrosion-i-vvs-installationer-1.aspx "SBi-anvisning 227"){target="_blank"}
 
+<span id="udskiftelighed"></span>
+
 ### Udskiftelighed {#b73a2c7a-eaa2-4ebf-9ba9-26b12bd4d41c}
 
 Som udgangspunkt skal installationen planlægges og udføres udskiftelig med hensyn til vedligeholdelse, reparation og ændring i anvendelsen af bygningen. De dele af installationen, som ikke anbringes udskiftelig, skal udføres i en kvalitet, der gør, at de har en levetid, der er tilsvarende eller større end den bygningsdel, i hvilken de er anbragt.
@@ -143,6 +159,8 @@ Installationer i den enkelte bolig udføres således, at de kan afspærres.
 Udskiftelige ledninger er ledninger, som i jord kan tilgås ved opgravning, og i bygninger er det ledninger, der alene er skjult af f.eks. dækplader, der i hovedsagen har til formål at skjule installationen.
 
 Ikke udskiftelige ledninger er ledninger som er vanskeligt tilgængelige f.eks. under konstruktioner i jord, og i bygninger indbyggede og skjulte installationer, som er vanskeligt tilgængelige.
+
+<span id="henstand"></span>
 
 ### Henstand {#dfcb2f69-3a23-4500-99fe-152b12085995}
 
@@ -154,11 +172,15 @@ Dele af en vandinstallation, der ikke længere benyttes, skal afmonteres den del
 
 Såfremt en del af en vandinstallation i mere end et år kan forventes at være ubenyttet bør den kunne afspærres fra den øvrige installation og tømmes, undtaget herfra er dog brandslukningsinstallationer.
 
+<span id="uttheder"></span>
+
 ### Utætheder {#edc45fd5-d304-450a-b4b2-51954269441c}
 
 Bestemmelsen indebærer f.eks., at et brusearmatur beregnet til indbygning kan indmures i en betonvæg, når der samtidig indbygges et tomrør, som sikrer, at udstrømmende vand fra en utæthed kan udledes uden at skade bygningen, og så utætheden kan konstateres, inden der sker skade på bygningen.
 
 I rum, hvor der opstilles apparater med automatisk vandpåfyldning, dvs. apparater som tilsluttes vandforsyningen som fx vaskemaskiner, opvaskemaskiner, nogle former for kaffemaskiner og vandkølere, kan der opnås sikkerhed mod udsivning og udstrømning af vand ved etablering af et gulvafløb eller ved at apparatet eller hele installationen, som apparatet er tilsluttet, udføres med mekanisk eller automatisk vandstop eller tilsvarende foranstaltning.
+
+<span id="sikring-af-vandkvalitet"></span>
 
 ### Sikring af vandkvalitet {#359cd526-a71f-4f0e-babe-9acba54390ba}
 
@@ -192,6 +214,8 @@ Sikring mod forurening af drikkevand i vandinstallationer samt generelle krav ti
 
 Rørcenter-anvisning 015
 
+<span id="_5"></span>
+
 #### [Anvisning 015](https://www.teknologisk.dk/ydelser/roercenter-anvisninger-og-rapporter-fra-roercentret/486 "015"){target="_blank"}
 
 [![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](#)
@@ -206,6 +230,8 @@ Specifikationer for drikkevandsinstallationer i bygninger - Del 5: Drift og vedl
 
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/s%C3%B8gning/91-140-60-vandinstallationer/ds-en-806-52013 "806-5"){target="_blank"}
 
+<span id="koldt-vand"></span>
+
 ### Koldt vand {#3053d0e3-4f82-465d-a2b4-e95fd956d9c2}
 
 Vandinstallationer udføres således, at en passende koldtvandstemperatur er til stede uden besværende ventetid.
@@ -213,6 +239,8 @@ Vandinstallationer udføres således, at en passende koldtvandstemperatur er til
 Vandinstallationer udføres således, at generende overstrømning fra varmtvands- til koldtvandsinstallationen ikke kan forekomme.
 
 Utilsigtet opvarmning af koldt vand skal i videst muligt omfang undgås.
+
+<span id="varmt-vand"></span>
 
 ### Varmt vand {#c7fa623d-06f9-4af1-8661-5e77e5fa3b95}
 
@@ -222,9 +250,13 @@ Behovet for varmt vand ved alle tapsteder bør overvejes. For tapsteder med et l
 
 Visse steder, som f.eks. brusepladser i børnehaver samt nogle plejeafdelinger bør det sikres ved blanding på tapstedet, at vandtemperaturen ikke kan overstige 38 °C. Blandekredse med lav temperatur bør undgås.
 
+<span id="energi-og-vandforbrug"></span>
+
 ### Energi- og vandforbrug {#b6531f69-abc5-4a19-b4b5-b0c38d5018b3}
 
 Kravet om tilfredsstillende nøjagtighed af målere er opfyldt ved anvendelse af typegodkendte målere eller målere med en tilsvarende nøjagtighed.
+
+<span id="drift-og-vedligehold"></span>
 
 ### Drift og vedligehold {#725c7f2b-1bbb-4616-98aa-961af7f359c9}
 

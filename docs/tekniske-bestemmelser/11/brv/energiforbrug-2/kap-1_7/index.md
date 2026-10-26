@@ -14,6 +14,8 @@
 
 ## Bygningsreglementets vejledning om energiforbrug
 
+<span id="forord"></span>
+
 ### Forord {#e4a4aefb-350b-4266-827e-1508450a3f72}
 
 ### 1.0. Generelt {#5d0fd3cc-01f4-4dbe-bf46-d43a912b077e}
@@ -47,6 +49,8 @@ SBi-anvisning 213 skal benyttes til beregning af bygningers energibehov og til e
 [![](../../../../../assets/img/linkbox/sbi_anv_linkbox.svg)](#)
 
 SBi-Anvisning 213 Bygningers energibehov
+
+<span id="sbi-anvisning-213-bygningers-energibehov"></span>
 
 #### BEREGNINGSVEJLEDNING
 

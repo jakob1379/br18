@@ -9,9 +9,13 @@
 
 ## Spørgsmål og svar
 
+<span id="sprgsmal-og-svar-om-dokumentation-af-bygningsdele-ved-brug-af-alment-teknisk-flleseje-17-10-2023"></span>
+
 ### Spørgsmål og svar om dokumentation af bygningsdele ved brug af ”alment teknisk fælleseje" (17-10-2023) {#907f45a6-9391-4205-b848-8f9d57e85e91}
 
 ### Kan alment teknisk fælleseje benyttes ved dokumentation af brandsikringstiltag til en præ-accepteret løsning? Og hvad er en certificeret brandrådgivers virke ift. dokumentation ved anvendelse af alment teknisk fælleseje?
+
+<span id="_1"></span>
 
 #### Præ-accepteret løsning
 

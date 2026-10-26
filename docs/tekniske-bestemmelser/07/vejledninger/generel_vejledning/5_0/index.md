@@ -8,6 +8,8 @@
 
 ## Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder
 
+<span id="forord"></span>
+
 ### Forord {#53aaae9d-a33f-44f1-868e-5c37b9a3decc}
 
 ### 1.0. Generelt {#ae17a0d2-4078-40c7-9064-6ab09cfc67b2}
@@ -67,5 +69,7 @@ Kravet kan f.eks. opfyldes ved:
 [![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Bekendtgørelse nr. 477 af 18/05/2011 om bygge og anlægsarbejder i perioden 1. november til 31. marts (vinterbekendtgørelsen)
+
+<span id="_1"></span><span id="_2"></span>
 
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/Forms/r0710.aspx?id=137101){target="_blank"}

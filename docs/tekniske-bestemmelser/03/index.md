@@ -5,9 +5,13 @@
 
 ## § 63 - § 68 Affaldssystemer {#7438aeeb-906d-4669-9cbe-4aa126ccc04d}
 
+<span id="p63"></span>
+
 ### § 63 {#paragraf-63}
 
 Bygninger og bygningers udenomsarealer skal indrettes på en sådan måde, at det er muligt for brugerne at bortskaffe husholdningsaffald fra de enkelte enheder i bygningen eller på terræn i umiddelbar nærhed af bygningens hovedindgange.
+
+<span id="p64"></span>
 
 ### § 64 {#paragraf-64}
 
@@ -23,13 +27,19 @@ Husholdningsaffald skal kunne opbevares sundhedsmæssigt forsvarligt i bygningen
 
 4) Der ikke sker unødigt forbrug af energi.
 
+<span id="p65"></span>
+
 ### § 65 {#paragraf-65}
 
 Affaldssystemerne skal indrettes, så det er muligt for [brugerne](../02/vejledninger/vejledning-til-brugerbegreb/ "Vejledning til brugerbegreb") at benytte dem ved egen hjælp.
 
+<span id="p66"></span>
+
 ### § 66 {#paragraf-66}
 
 Affaldsbeholdere, bokse mv. skal være placeret i samme niveau som tilkørsel for renovationsafhentningen, eller så affaldet kan afhentes ved hjælp af teknisk egnet hjælpemiddel.
+
+<span id="p67"></span>
 
 ### § 67 {#paragraf-67}
 
@@ -38,6 +48,8 @@ Affaldsrum skal designes og udføres, så de er tilstrækkelig ventileret. Krave
 1) Der er tilførsel af ude luft enten via rist eller anden åbning til det fri ved gulv. Åbningsarealet skal kunne tilføre en volumenstrøm svarende til den udsugede volumenstrøm. Ved benyttelse af indblæsningsanlæg skal den indblæste volumenstrøm svare til den udsugede volumenstrøm.
 
 2) Udsugningen har en volumenstrøm på i alt 1 l/s pr. affaldsbeholder, dog mindst 15 l/s.
+
+<span id="p68"></span>
 
 ### § 68 {#paragraf-68}
 

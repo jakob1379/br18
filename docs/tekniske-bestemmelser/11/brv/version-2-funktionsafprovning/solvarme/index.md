@@ -88,6 +88,8 @@ Varme- og køleanlæg i bygninger
 
 #### Beskrivelse
 
+<span id="standarden-findes-pa-dansk-i-dansk-standards-webshopdsdk_1"></span>
+
 #### Standarden findes på dansk i Dansk Standards [webshop.ds.dk](https://webshop.ds.dk/standard/M253996/ds-469-2013 "DS 469"){target="_blank"}
 
 [![](../../../../../assets/img/linkbox/ds_linkbox.svg)](#)

@@ -8,6 +8,8 @@
 
 ## Bygningsreglementets vejledning om ventilation
 
+<span id="forord"></span>
+
 ### Forord {#1e05e48e-6478-41b0-a8d2-c1bcb6c2e292}
 
 Bygninger skal ventileres for at sikre, at beboere og brugere af bygninger har et acceptabelt indeklima. Ventilationen skal sikre, at der er frisk luft til brugerne, samt at fugt og andre forureninger ikke optræder i koncentrationer, der kan give sundhedsproblemer, gener for brugerne eller skader på bygningerne.
@@ -38,6 +40,8 @@ Reglerne beskrevet ovenfor er fastlagt i arbejdsmiljøloven. Yderligere og opdat
 
 DS/EN ISO 7730 - Ergonomi inden for termisk miljø - Analytisk bestemmelse og fortolkning af termisk komfort ved beregning af PMV- og PPD-indekser og lokale termiske komfortkriterier
 
+<span id="_1"></span><span id="_2"></span>
+
 #### Standarden findes på dansk i Dansk Standards webshop [webshop.ds.dk](https://webshop.ds.dk/da-dk/standard/ds-en-iso-77302006){target="_blank"}
 
 [![](../../../../assets/img/linkbox/at_vejl_linkbox.svg)](#)
@@ -45,6 +49,8 @@ DS/EN ISO 7730 - Ergonomi inden for termisk miljø - Analytisk bestemmelse og fo
 #### At-vejledning A.1.2-1
 
 Indeklima
+
+<span id="_3"></span>
 
 #### [Find At-vejledningen her](https://at.dk/regler/at-vejledninger/indeklima-a-1-2/ "At-vejledning A.1.2-1"){target="_blank"}
 
@@ -54,17 +60,23 @@ De tre nævnte standarder nedenfor skal overholdes, når ventilationen projekter
 
 DS 428 - Norm for brandtekniske foranstaltninger ved ventilationsanlæg
 
+<span id="_4"></span><span id="_5"></span>
+
 #### Standarden findes på dansk i Dansk Standards [](https://webshop.ds.dk/da-dk/s%C3%B8gning/13-220-20-brandbeskyttelse/ds-4282011){target="_blank"}
 
 [![](../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 DS 447 - Ventilation i bygninger - Mekaniske, naturlige og hybride ventilationssystemer
 
+<span id="_6"></span><span id="_7"></span>
+
 #### Standarden findes på dansk i Dansk Standards [webshop.ds.dk](https://webshop.ds.dk/da-dk/s%C3%B8gning/91-140-30-ventilationssystemer-og-klimaanl%C3%A6g/ds-4472013){target="_blank"}
 
 [![](../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 DS 452 - Termisk isolering
+
+<span id="_8"></span><span id="_9"></span>
 
 #### Standarden findes på dansk i Dansk Standards [webshop.ds.dk](https://webshop.ds.dk/da-dk/s%C3%B8gning/27-220-varmegenvinding--varmeisolering/ds-4522013){target="_blank"}
 
@@ -127,6 +139,8 @@ Luftindtag og afkast kan også være ventilationsåbninger direkte til det fri f
 Ventilationsåbninger direkte til det fri bør udformes og fungere, så brugerne tilskyndes til at anvende åbningerne efter hensigten og derved korrekt udnytte mulighederne for at regulere både mængden og fordelingen af den tilførte udeluft. En ventilationsåbning direkte til det fri bør derfor være regulerbar, let at indstille, og kunne betjenes fra gulv. Endelig skal der tages højde for at ventilationsåbninger ikke giver anledning til træk.
 
 Der kan være krav om en vis lyddæmpning i ventilationsåbningen, se [§ 369](../../../17/krav/369_373/ "369_373"). I de tilfælde, hvor udelufttilførslen skal ske gennem styrede vinduer, bør tyveriaspektet iagttages.
+
+<span id="_10"></span><span id="_11"></span>
 
 ### 1.3. Træk {#626c6ed0-d8db-43db-88f0-3c9df15a14b2}
 
@@ -423,5 +437,7 @@ DS 447 indeholder yderligere krav omkring drift og vedligeholdelse af ventilatio
 [![](../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 DS 447 - Ventilation i bygninger - Mekaniske, naturlige og hybride ventilationssystemer
+
+<span id="_12"></span><span id="_13"></span>
 
 #### Standarden findes på dansk i Dansk Standards [webshop.ds.dk](https://webshop.ds.dk/da-dk/s%C3%B8gning/91-140-30-ventilationssystemer-og-klimaanl%C3%A6g/ds-4472013){target="_blank"}

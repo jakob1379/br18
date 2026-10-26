@@ -22,7 +22,11 @@
 
 ## Vejledning til kommunerne om krav til parkering i forbindelse med byggeri
 
+<span id="indledning"></span>
+
 ### Indledning {#f9ceb636-87f6-4541-bb03-da4fb6904eea}
+
+<span id="hvor-findes-de-relevante-regler"></span>
 
 ### 1. Hvor findes de relevante regler {#5742b6d9-ad2d-4fc1-b878-1788e0073f28}
 
@@ -62,12 +66,22 @@ Tilgængelighedskrav i BR18 – holdt op mod DS/ISO 21542
 
 Denne vejledning om tilgængelighed i bygninger er udarbejdet af Dansk Standard (DS) i samarbejde med Trafik-, Bygge- og Boligstyrelsen (TBST). Vejledningen fokuserer dels på sammenhængen mellem bygningsreglement 2018 (BR18) og DS/ISO 21542:2012, dels på, hvordan og i hvilket omfang DS/ISO 21542:2012 kan anvendes til at tage højde for BR18's krav om tilgængelighed i bygninger. DS/ISO 21542:2012 behandler et bredere spektrum af tilgængelighedsperspektiver end BR18.
 
+<span id="protected_25"></span>
+
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/standard/ds-h%C3%A5ndbog-1862017 "DS-håndbog 186"){target="_blank"}
+
+<span id="generelt-om-kommunalbestyrelsens-afgrelse-om-parkeringskrav"></span>
 
 ### 2. Generelt om kommunalbestyrelsens afgørelse om parkeringskrav {#78bc7bba-9f43-4276-b0de-533da73da62f}
 
+<span id="hvornar-kan-der-stilles-krav-om-parkeringsarealer"></span>
+
 ### 3. Hvornår kan der stilles krav om parkeringsarealer {#2ec5ce08-4b61-48e3-81bf-1a2b7961b811}
 
+<span id="hvornar-kan-der-dispenseres-fra-parkeringskravet"></span>
+
 ### 4. Hvornår kan der dispenseres fra parkeringskravet {#16668d7b-119f-4e55-8338-c8dc88e31245}
+
+<span id="hvornar-kan-der-dispenseres-fra-parkeringsreglerne-pa-betingelse-af-indbetaling-til-parkeringsfond"></span>
 
 ### 5. Hvornår kan der dispenseres fra parkeringsreglerne på betingelse af indbetaling til parkeringsfond {#56e04d3a-2c24-415d-8bb4-92a88961497b}

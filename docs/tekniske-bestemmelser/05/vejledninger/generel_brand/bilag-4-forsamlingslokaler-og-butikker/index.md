@@ -26,6 +26,8 @@
 
 ## Bilag 4 - Præ-accepterede løsninger - Forsamlingslokaler, butikker mv.
 
+<span id="bilag-4-til-bygningsreglementets-vejledning-til-kap-5-brand"></span>
+
 ### Bilag 4 til Bygningsreglementets vejledning til kap. 5 – Brand {#269c5527-bc0e-46cd-a2fd-f33ef82ecd49}
 
 [Åbn Bilag 4: Præ-accepterede løsninger for forsamlingslokaler, butikker mv. version 1.2](../../../../../media/4kwdmmqe/bilag-4-forsamlingslokaler-butik-mv-ver-12-20211029-a.pdf "Bilag 4  Forsamlingslokaler butik mv ver 12 20211029")

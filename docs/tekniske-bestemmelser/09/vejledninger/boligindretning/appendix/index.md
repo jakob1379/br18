@@ -8,7 +8,11 @@
 
 ## Vejledning om boligindretning
 
+<span id="kolofon"></span>
+
 ### Kolofon {#818585de-abef-41f2-b417-27010078f7d0}
+
+<span id="forord"></span>
 
 ### Forord {#a65228a9-ae42-48b3-b79b-97cd2de40d36}
 

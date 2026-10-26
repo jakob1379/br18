@@ -14,6 +14,8 @@
 
 ## Bygningsreglementets vejledning om energiforbrug
 
+<span id="forord"></span>
+
 ### Forord {#e4a4aefb-350b-4266-827e-1508450a3f72}
 
 ### 1.0. Generelt {#5d0fd3cc-01f4-4dbe-bf46-d43a912b077e}
@@ -152,6 +154,8 @@ Levetider der kan anvendes ved beregning af rentabiliteten
 - [Gå til energikrav ved ombygninger og udskiftning af bygningsdele (§ 274 - § 279)](../../../krav/274_279/#afb229c4-65a2-4b7d-8613-8fe584c21e25){target="_blank"}
 
 Kravet til U-værdi for lystunneler eller lignende gælder for gennembrydningen af den isolerede flade, som lystunnelen er indsat i. Det kunne for eksempel være lysfordeleren i et isoleret loft. U-værdien skal dokumenteres i henhold til DS/EN 10077-1.
+
+<span id="_1"></span><span id="_2"></span><span id="_3"></span><span id="_4"></span>
 
 ### 4.1. Fredede og bevaringsværdige bygninger {#3aac1332-4e3e-4198-8dcc-953807b0cf0b}
 

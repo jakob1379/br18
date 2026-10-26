@@ -1,6 +1,10 @@
+<span id="p160"></span>
+
 # Brugerbetjente anlæg (§ 159- § 160)
 
 [Krav](./){ .md-button .md-button--primary }
+
+<span id="p159"></span><span id="s159"></span>
 
 ## § 159 Selvbetjenings- og brugerbetjente anlæg {#1cb18e5f-4a27-44cd-9cf4-f946d4ae9f92}
 
@@ -9,6 +13,8 @@ Brugerbetjente anlæg, herunder indkast til affaldssystemer, IT-standere, betali
 1\) Adgangsarealet frem til anlægget er mindst 1,30 m bredt og niveauforskelle i dette areal er udlignet.
 
 2\) Anlægget er placeret i en højde, så det kan benyttes af brugerne ved egen hjælp eller ved, at det kan hæves og sænkes.
+
+<span id="s160"></span>
 
 ## § 160 Porttelefoner og tilkaldeanlæg {#7dec764f-2773-44e4-90d5-eefd7b687b59}
 

@@ -15,9 +15,15 @@
 
 ## Spørgsmål og svar om certificeringsordningen
 
+<span id="hvad-er-baggrunden-for-at-man-laver-en-certificeringsordning"></span>
+
 ### Hvad er baggrunden for, at man laver en certificeringsordning? {#ad4de61f-3cf8-4edc-b651-84dc72a9baf7}
 
+<span id="hvordan-fungerer-certificeringsordninger-for-dokumentation-af-tekniske-forhold-i-bygningsreglementet"></span>
+
 ### Hvordan fungerer certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet? {#eda275fc-fa74-4d3b-b823-a0c4c3d489cd}
+
+<span id="hvordan-hnger-certificeringsordningen-sammen-med-den-vrige-afskaffelse-af-den-kommunale-tekniske-byggesagsbehandling"></span>
 
 ### Hvordan hænger certificeringsordningen sammen med den øvrige afskaffelse af den kommunale tekniske byggesagsbehandling? {#989cf28d-6d07-430f-9cd9-af3e859240e3}
 
@@ -27,18 +33,34 @@ Styrelsen har sammen med branchen vurderet, at der er behov for en overgangsperi
 
 Overgangsperioden vil minimere risikoen for ”flaskehals” i byggesagerne som følge af mangel på certificerede statiker samtidig med, at sikkerhedsniveauet fastholdes.
 
+<span id="kan-man-fa-teknisk-byggesagsbehandling-pa-brand-og-konstruktionsomradet-fra-den-1-januar-2020"></span>
+
 ### Kan man få teknisk byggesagsbehandling på brand- og konstruktionsområdet fra den 1. januar 2020? {#05cf223a-727d-4231-900f-99464b57dc56}
+
+<span id="skal-der-tilknyttes-en-certificeret-brandradgiver-eller-statiker-til-alle-byggeprojekter-fra-den-1-januar-2020"></span>
 
 ### Skal der tilknyttes en certificeret brandrådgiver eller statiker til alle byggeprojekter fra den 1. januar 2020? {#c0e7ac1e-22cd-4b5a-950c-3fe5b2a26337}
 
+<span id="er-der-tilstrkkeligt-med-certificerede-radgivere-den-1-januar-2020"></span>
+
 ### Er der tilstrækkeligt med certificerede rådgivere den 1. januar 2020? {#2c09dbb8-a8de-4fef-af1a-7dde6895ff41}
+
+<span id="hvor-mange-certificeringsorganer-er-der"></span>
 
 ### Hvor mange certificeringsorganer er der? {#8343bc1d-b6b8-4fcd-8365-3c980e988322}
 
+<span id="hvor-kan-jeg-finde-vejledninger-der-er-relevante-for-certificeringsordninger-for-dokumentation-af-tekniske-forhold-i-bygningsreglementet"></span>
+
 ### Hvor kan jeg finde vejledninger, der er relevante for certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet? {#0ad18cdd-ccaa-4e59-92cc-b4c993983651}
+
+<span id="hvordan-foretages-den-arlige-kontrol-af-den-certificeredes-virke-05072021"></span>
 
 ### Hvordan foretages den årlige kontrol af den certificeredes virke? (05.07.2021) {#10750e8f-a882-46dd-8d2e-fe291b3a02e0}
 
+<span id="hvordan-foretages-recertificering"></span>
+
 ### Hvordan foretages recertificering? {#4320ecc6-7cae-4ec6-b92f-b01d43ff4a38}
+
+<span id="hvad-er-proceduren-for-en-byggesag-hvor-der-er-tilknyttet-en-certificeret-statiker-eller-brandradgiver-der-far-frataget-sin-certificering-20052021"></span>
 
 ### Hvad er proceduren for en byggesag, hvor der er tilknyttet en certificeret statiker eller brandrådgiver, der får frataget sin certificering? (20.05.2021) {#c18b6504-0206-4e99-bb9c-a874ae7da7ff}

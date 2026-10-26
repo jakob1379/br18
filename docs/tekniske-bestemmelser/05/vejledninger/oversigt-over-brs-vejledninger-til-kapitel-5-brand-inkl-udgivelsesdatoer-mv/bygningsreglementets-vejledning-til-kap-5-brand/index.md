@@ -26,6 +26,8 @@
 
 ## Oversigt over Bygningsreglementets vejledninger til kapitel 5 – Brand, inkl. udgivelsesdatoer
 
+<span id="oversigter-over-vejledninger-til-kapitel-5-brand"></span>
+
 ### Oversigter over vejledninger til kapitel 5 - Brand {#3d8a5874-dc7d-43c9-b79b-593c5d575fc5}
 
 <table style="width:100%;">
@@ -387,5 +389,7 @@
 </tr>
 </tbody>
 </table>
+
+<span id="ved-uoverensstemmelser-mellem-hovedteksten-i-kapitlerne-og-teksten-i-bilag-1-10-i-bygningsreglementets-vejledning-til-kapitel-5-brand-hvilken-vejledning-er-sa-gldende"></span>
 
 ### Ved uoverensstemmelser mellem hovedteksten i kapitlerne og teksten i bilag 1-10 i Bygningsreglementets vejledning til kapitel 5 – Brand, hvilken vejledning er så gældende? {#06898bc3-4e96-4da4-af04-224e097ced61}

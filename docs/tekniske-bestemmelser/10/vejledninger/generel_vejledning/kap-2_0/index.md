@@ -8,6 +8,8 @@
 
 ### 1.1. Anvendelsesområde {#c13e6c97-47e9-4150-90d5-c5034ad51fb8}
 
+<span id="_1"></span><span id="_2"></span><span id="_3"></span>
+
 ### 2.0. Tilgængelighed {#05a1649c-3682-4580-8da1-6eeeeb260593}
 
 Ifølge bygningsreglementet 2018, § 249, skal der i nybyggeri, hvor der installeres elevator, være mindst én elevator designet og udført som type 2 elevator i overensstemmelse med *DS/EN 81-70+A1:2009: Sikkerhedsforskrifter for konstruktion og installation af elevatorer – Særlig anvendelser for passager- og godselevatorer – Del 70: Tilgængelighed til elevatorer for personer, inklusive personer med handicap.* Dette gælder for alle opgange. En type 2 elevator stiller bl.a. specifikke krav til elevatorens dimensioner (1,4 meter x 1,1 meter) og placering af betjeningsknapper.

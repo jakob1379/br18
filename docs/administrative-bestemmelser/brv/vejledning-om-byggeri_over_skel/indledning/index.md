@@ -22,6 +22,8 @@
 
 ## Vejledning om byggeri over skel
 
+<span id="protected_19"></span><span id="indledning"></span>
+
 ### Indledning {#88b6eabb-b153-4564-841f-230828aee26b}
 
 *Vejledningen om byggeri over skel er revideret af Trafik-, Bygge- og Boligstyrelsen i juli 2018.*
@@ -30,7 +32,11 @@ Byggeloven indeholder ikke forbud mod, at der opføres byggeri, som overskrider 
 
 Det er kommunalbestyrelsen, som er bygningsmyndighed, herefter omtalt som kommunen.
 
+<span id="i-hvilke-situationer-der-kan-forekomme-byggeri-over-skel"></span>
+
 ### I hvilke situationer der kan forekomme byggeri over skel? {#fc1555fa-b16d-46e7-b9a8-8692cc54b8ba}
+
+<span id="lovliggrelsessager"></span>
 
 ### Lovliggørelsessager {#25665434-23fc-4004-be61-dfde86ccc3de}
 

@@ -17,6 +17,8 @@
 
 ### 1. Baggrund {#1bec0835-0d71-4354-9b97-181e3c759fa0}
 
+<span id="vejledningens-formal"></span><span id="definition-af-tiny-houses"></span><span id="anden-lovgivning"></span>
+
 ### 2. Bygningsreglementets generelle krav {#1cb8a810-acd8-4433-8c46-623f6378dc11}
 
 ### 3. Bygningens adgangsforhold og indretning {#68bbcffc-f687-48b6-ba4b-044cd9a2f050}
@@ -24,6 +26,8 @@
 ### 4. Energiforbrug og klimapåvirkning {#1d19ac66-0648-4771-b140-822fb7f10d2c}
 
 ### 5. Energiforsyningsanlæg {#a44f034c-fa78-416b-bff6-d4bfdcd8cf0b}
+
+<span id="33520e5b-f689-418d-83b9-65d4593f8022"></span>
 
 ### 6. Fugt og vådrum {#61fba64c-061e-4da4-8bc6-0f675d354dea}
 

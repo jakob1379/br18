@@ -94,6 +94,8 @@ Varmevekslere. Vand til vand varmevekslere til fjernvarme. Prøvningsprocedurer 
 
 #### Beskrivelse
 
+<span id="standarden-findes-pa-dansk-i-dansk-standards-webshopdsdk_1"></span>
+
 #### Standarden findes på dansk i Dansk Standards [webshop.ds.dk](https://webshop.ds.dk/standard/26993/ds-en-1148-1998 "DS/EN 1148"){target="_blank"}
 
 *Formål med funktionsafprøvning af fjernvarmeanlæg*

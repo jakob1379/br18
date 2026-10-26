@@ -9,6 +9,8 @@
 
 ## Vejledning om indplacering i brandklasser
 
+<span id="link-til-vejledning"></span>
+
 ### Link til vejledning {#22bd9963-5156-478b-a8db-07e53fedafba}
 
 Vejledning om indplacering i brandklasser indgår i kapitel 1: Generelt om sikkerhed ved brand i Bygningsreglementets vejledning til kapitel 5 - Brand.

@@ -7,6 +7,8 @@
 
 ## Bygningsreglementets vejledning om legepladser mv.
 
+<span id="rettelsesblad-til-vejledning-om-legepladser-1-januar-2025"></span>
+
 ### Rettelsesblad til vejledning om legepladser (1. januar 2025) {#4d2c1417-498a-4d15-aa8a-9bf90427efa7}
 
 Der er udgivet et rettelsesblad den 1. januar 2025.
@@ -183,6 +185,8 @@ DS/CEN/TR 16879:2016 - Placering af legeplads- og andre fritidsfaciliteter – R
 
 Denne tekniske rapport giver råd om placering og mulige metoder til adskillelse mellem rekreative faciliteter, der benyttes af forskellige aldersgrupper og har forskellige risikoniveauer.
 
+<span id="_1"></span><span id="_2"></span>
+
 #### Køb standarden her [](https://webshop.ds.dk/da-dk/standard/ds-cen-tr-168792016){target="_blank"}
 
 [![](../../../../assets/img/linkbox/ds_en_tr_linkbox.svg)](#)
@@ -191,6 +195,8 @@ DS/CEN/TR 16467:2013 - Legepladsudstyr tilgængeligt for alle børn
 
 Denne tekniske rapport indeholder guidelines til at udforme legeområder der giver børn med forskellige niveauer af funktionsnedsættelse mulighed for at lege selvstændigt og med passende niveauer af udfordringer og risici
 
+<span id="_3"></span><span id="_4"></span><span id="kb-standarden-her_1"></span>
+
 #### Køb standarden her: [Køb standarden her:](https://webshop.ds.dk/da-dk/standard/ds-cen-tr-164672013){target="_blank"}
 
 [![](../../../../assets/img/linkbox/ds_en_tr_linkbox.svg)](#)
@@ -198,6 +204,8 @@ Denne tekniske rapport indeholder guidelines til at udforme legeområder der giv
 DS/CEN/TR 16598:2023 - Samling af rationaler for EN 1176 – Krav
 
 Denne tekniske rapport indeholder rationaler bag EN 1176 serien, der har til formål, at undgå situationer, hvor et barn på grund af sin alder, evne eller udviklingsstadium ikke er i stand til at forstå en risiko på legepladser mv.
+
+<span id="_5"></span><span id="_6"></span><span id="_7"></span><span id="_8"></span><span id="_9"></span><span id="_10"></span><span id="kb-standarden-her_2"></span><span id="kb-standarden-her_3"></span>
 
 #### Køb standarden her [Køb standarden her](https://webshop.ds.dk/standard/M365218/ds-cen-tr-16598-2023%20){target="_blank"}
 
@@ -214,6 +222,8 @@ Denne tekniske rapport indeholder svar på anmodninger om fortolkninger vedrøre
 DS-håndbog 105:2012 - Udearealer for alle - sådan planlægges et tilgængeligt udemiljø
 
 Denne håndbog indeholder bl.a. information og eksempler på adgangsforhold til legepladser.
+
+<span id="kb-handbogen-her"></span>
 
 #### Køb håndbogen her [Køb håndbogen her](https://webshop.ds.dk/Default.aspx?ID=120&GroupID=11.180.01&ProductID=M266059){target="_blank"}
 

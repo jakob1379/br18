@@ -14,7 +14,11 @@
 
 ## Spørgsmål og svar om bygningers klimapåvirkning
 
+<span id="hvordan-handterer-jeg-levetiden-og-dermed-forbundne-udskiftninger-af-et-vindue-som-sammensat-bygningskomponent-i-beregning-om-bygningens-klimapavirkning-iht-297-stk-7"></span>
+
 ### Hvordan håndterer jeg levetiden og dermed forbundne udskiftninger af et vindue, som sammensat bygningskomponent, i beregning om bygningens klimapåvirkning iht. § 297, stk. 7? {#af2925ed-c151-45aa-8eea-9663860d2798}
+
+<span id="hvordan-handterer-jeg-den-beskrevne-proces-foroven-nar-jeg-anvender-branche-epder-hvor-klimapavirkningen-kun-angives-samlet-for-hele-vinduet-men-jeg-faktisk-har-et-vindue-hvor-kun-ruden-skal-udskiftes-efter-25-ar"></span>
 
 ### Hvordan håndterer jeg den beskrevne proces foroven, når jeg anvender branche EPD’er, hvor klimapåvirkningen kun angives samlet for hele vinduet, men jeg faktisk har et vindue, hvor kun ruden skal udskiftes efter 25 år? {#cf96d325-3cd3-4460-962e-a2971f782a0f}
 

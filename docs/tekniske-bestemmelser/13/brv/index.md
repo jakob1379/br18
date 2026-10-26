@@ -7,11 +7,17 @@ title: Forureninger (§ 329 - § 333) – Vejledning
 [Krav](../){ .md-button }
 [Vejledning](./){ .md-button .md-button--primary }
 
+<span id="se-alle-vejledninger-om-forureninger-329-333"></span>
+
 ## Bygningsreglementets vejledning om forureninger
+
+<span id="forord"></span>
 
 ### Forord {#eec95c80-5133-4555-93bc-de82458e71df}
 
 Forureninger fra byggematerialer og fra undergrunden er blandt de vigtigste kilder til forureninger i indeklimaet. Det er derfor vigtigt at sikre bygningen mod disse forureninger.
+
+<span id="forureninger-fra-byggematerialer"></span>
 
 ### 1.1. Forureninger fra byggematerialer {#f99787a7-f2b0-450b-8067-74b4c69eb7a6}
 
@@ -44,6 +50,8 @@ Visse byggematerialer kan indeholde radioaktive stoffer, som udsender gammastrå
 I [Strålebeskyttelsesdirektivet](http://eur-lex.europa.eu/legal-content/DA/TXT/PDF/?uri=CELEX:32013L0059&from=DA){rel="noopener" target="_blank"} angives et referenceniveau for gammastråling fra byggematerialer på 1 mSv pr. år. Et referenceniveau er den dosis over hvilken udsættelse for gammastråling fra byggematerialer anses for uhensigtsmæssig, og hvor gennemførelse af rimelige tiltag anbefales.
 
 Strålebeskyttelsesdirektivet angiver eksempler på byggematerialer, der er i risikogruppen for at indeholde radioaktive stoffer, der udsender gammastråling. Det er f.eks. flyveaske, visse former for slagge og fosfatgips. Anvendes disse materialer som byggematerialer i sin rene form f.eks. til underlag for byggeri henvises til vejledningsteksten til § 333.
+
+<span id="forureninger-fra-undergrunden"></span>
 
 ### 1.2. Forureninger fra undergrunden {#26d2f27e-101a-4498-8777-71ffcacddfd1}
 

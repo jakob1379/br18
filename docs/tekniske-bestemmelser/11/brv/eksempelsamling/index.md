@@ -14,6 +14,8 @@
 
 ## Eksempelsamling for energi
 
+<span id="indledning"></span>
+
 ### Indledning {#6c905fc4-e9ee-495c-908b-8491901908d8}
 
 Eksempelsamlingen for energi er under revision, så den er opdateret med de rigtige henvisninger til BR18. De grundlæggende principper er dog ikke ændret.

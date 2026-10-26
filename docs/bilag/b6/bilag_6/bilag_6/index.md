@@ -1,5 +1,7 @@
 # Bilag 6: Lovliggørelse af byggeri i brandklasse 2-4
 
+<span id="lovliggrelse-af-byggeri-i-brandklasse-2-4"></span>
+
 ## Lovliggørelse af byggeri i brandklasse 2-4 {#3ad5bb90-1c4a-45b6-a0a8-eaa9a6f8feb3}
 
 ## Afsnit 1: Lovliggørelse af byggeri i brandklasse 2-4, ved anvendelse af anden materiel regulering, end den, der er gældende på tidspunktet for lovliggørelsen

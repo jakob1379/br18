@@ -22,6 +22,8 @@
 
 ## Vejledning om byggeri over skel
 
+<span id="indledning"></span>
+
 ### Indledning {#88b6eabb-b153-4564-841f-230828aee26b}
 
 *Vejledningen om byggeri over skel er revideret af Trafik-, Bygge- og Boligstyrelsen i juli 2018.*
@@ -29,6 +31,8 @@
 Byggeloven indeholder ikke forbud mod, at der opføres byggeri, som overskrider skel. Det forudsættes dog, at de ejendomsretlige forhold er afklaret, at byggeriet er i overensstemmelse med bygningsreglementet, samt at byggeriet ikke er i strid med anden lovgivning, herunder navnlig udstykningsloven, jf. nedenfor.
 
 Det er kommunalbestyrelsen, som er bygningsmyndighed, herefter omtalt som kommunen.
+
+<span id="i-hvilke-situationer-der-kan-forekomme-byggeri-over-skel"></span>
 
 ### I hvilke situationer der kan forekomme byggeri over skel? {#fc1555fa-b16d-46e7-b9a8-8692cc54b8ba}
 
@@ -43,6 +47,8 @@ Er de ejendomsretlige forhold således afklaret, og er opførelsen af bebyggelse
 *Byggeri over skel beliggende på terræn og under terræn*
 
 Det følger af de almindelige principper om råden over fast ejendom, at nabogrundejeren som udgangspunkt hverken kan råde helt eller delvist over nabogrunden uden samtykke fra ejeren af nabogrunden, når der bygges over skel enten på terræn eller under terræn, jf. ovenstående. Hvor der foreligger et samtykke, skal bebyggelse i øvrigt være i overensstemmelse med byggeloven, herunder bygningsreglementet samt anden lovgivning.
+
+<span id="lovliggrelsessager"></span>
 
 ### Lovliggørelsessager {#25665434-23fc-4004-be61-dfde86ccc3de}
 

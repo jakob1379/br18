@@ -30,6 +30,8 @@
 
 ### 2.1 Relevante standarder {#089edcda-2abb-44a6-8e78-47277dfe7e1f}
 
+<span id="ds-447"></span><span id="beskrivelse"></span><span id="standarden-findes-i-dansk-standards-webshopdsdk-her"></span><span id="dsen-12599"></span><span id="beskrivelse_1"></span><span id="standarden-findes-i-dansk-standards-webshopdsdk-her_1"></span><span id="dsen-14134"></span><span id="beskrivelse_2"></span><span id="standarden-findes-i-dansk-standards-webshopdsdk-her_2"></span><span id="ds-469"></span><span id="beskrivelse_3"></span><span id="standarden-findes-i-dansk-standards-webshopdsdk-her_3"></span>
+
 ### 2.2 Luftmængder ved mekanisk ventilation (nominel luftstrøm) {#a2bf648a-92dc-4b37-85bc-71027f3ea936}
 
 ### 2.3 Behovsstyring {#e90d964d-26af-4138-8e05-2e6243ca348b}
@@ -44,6 +46,8 @@
 
 ### 3.1 Relevante standarder {#3ab61ad4-40fa-4d23-98d0-1c9ec4fd7b38}
 
+<span id="ds-469_1"></span><span id="beskrivelse_4"></span><span id="standarden-findes-i-dansk-standards-webshopdsdk-her_4"></span><span id="ds-447_1"></span><span id="beskrivelse_5"></span><span id="standarden-findes-i-dansk-standards-webshopdsdk-her_5"></span>
+
 ### 3.2 Indregulering {#fbdcc4e6-eec8-4212-961a-14c37d3140d4}
 
 ### 3.3 Styring {#51a55395-b546-4bb6-b610-49bd028f6740}
@@ -51,6 +55,8 @@
 ### 4.0 Belysning {#e75f65d3-1a84-4b90-9bc2-5f5d5169b20a}
 
 ### 4.1 Relevante standarder og anvisninger {#d274e5f3-fbcb-4c85-94e1-cf1c98fc1db0}
+
+<span id="dsen-12464-1"></span><span id="beskrivelse_6"></span><span id="standarden-findes-i-dansk-standards-webshopdsdk-her_6"></span><span id="dsen-12665"></span><span id="beskrivelse_7"></span><span id="standarden-findes-i-dansk-standards-webshopdsdk-her_7"></span><span id="sbi-anvisning-220"></span><span id="beskrivelse_8"></span><span id="find-anvisningen-her"></span><span id="at-vejledning-a15-1"></span><span id="beskrivelse_9"></span><span id="find-at-vejledningen-her"></span>
 
 ### 4.2 Belysningsstyrke {#4b1b94a1-9f48-4391-9caf-22bf6724caab}
 
@@ -60,6 +66,8 @@
 
 ### 5.1 Relevante standarder {#8463edf5-7cc3-48e4-b60c-93a88d1e9dc5}
 
+<span id="dsen-iso-25745-1"></span><span id="_1"></span><span id="standarden-findes-i-dansk-standards-webshopdsdk-her_8"></span><span id="dsen-iso-25745-2"></span><span id="_2"></span><span id="standarden-findes-i-dansk-standards-webshopdsdk-her_9"></span>
+
 ### 5.2 Formål med funktionsafprøvning af elevatorers energiforbrug {#3cce8589-abb3-4baa-8030-0ce2282bdd3a}
 
 ### 6.0 Energiforsyningsanlæg {#a5b7b6af-4353-4e4d-bac5-f969f02c6e64}
@@ -68,15 +76,23 @@
 
 ### 6.2 Fjernvarmeanlæg {#d31d9cae-ecd1-4ae4-b4ad-3ec1ef2606bb}
 
+<span id="ds-469_2"></span><span id="beskrivelse_10"></span><span id="standarden-findes-pa-dansk-i-dansk-standards"></span><span id="dsen-1148"></span><span id="beskrivelse_11"></span><span id="standarden-findes-pa-dansk-i-dansk-standards-webshopdsdk"></span>
+
 ### 6.3 Kedelanlæg {#486c677e-0159-4d84-a4cb-5754a9540bdd}
 
 ### 7.0 Energiproduktionsanlæg baseret på vedvarende energikilder {#c684e668-3ad2-4952-8bbe-e2f92cf88953}
 
 ### 7.1 Solvarme {#e9a2c649-ce9d-4bde-b782-76d688aef4c8}
 
+<span id="ds-469_3"></span><span id="beskrivelse_12"></span><span id="standarden-findes-pa-dansk-i-dansk-standards-webshopdsdk_1"></span><span id="ds-452"></span><span id="anvendelsesomrade"></span><span id="standarden-findes-pa-dansk-i-dansk-standards_1"></span>
+
 ### 7.2 Solceller {#8791bb93-4771-4a9e-b273-c7d274959318}
 
+<span id="dsiec-ts-61724-3"></span><span id="beskrivelse_13"></span><span id="standarden-findes-pa-dansk-i-dansk-standards-webshopdsdk_2"></span>
+
 ### 7.3 Vindmøller {#f2c5ed64-57d1-4b3b-967c-6528d01872f9}
+
+<span id="dsen-61400-12-1"></span><span id="beskrivelse_14"></span><span id="standarden-findes-pa-dansk-i-dansk-standards_2"></span>
 
 ### 8.0 Bygningsautomatik {#06191ae0-9c0f-47a4-a6e3-5a575d0eaf04}
 

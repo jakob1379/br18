@@ -8,6 +8,8 @@
 
 ## Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder
 
+<span id="forord"></span>
+
 ### Forord {#53aaae9d-a33f-44f1-868e-5c37b9a3decc}
 
 ### 1.0. Generelt {#ae17a0d2-4078-40c7-9064-6ab09cfc67b2}
@@ -67,6 +69,8 @@ Sikkerhedsbelysning bør udføres i overensstemmelse med stærkstrømsbekendtgø
 [![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Bekendtgørelse nr. 1082 af 12/07/2016 om sikkerhed for udførelse og drift af elektriske installationer (tidl. stærkstrømsbekendtgørelsen)
+
+<span id="_1"></span><span id="_2"></span>
 
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/Forms/R0710.aspx?id=183511){target="_blank"}
 

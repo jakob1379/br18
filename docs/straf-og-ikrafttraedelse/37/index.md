@@ -2,6 +2,8 @@
 
 [Krav](./){ .md-button .md-button--primary }
 
+<span id="ikrafttrdelse"></span>
+
 ## § 565 Ikrafttrædelse {#6e168559-5c3b-47fb-ad8c-9d5cb13e397e}
 
 >

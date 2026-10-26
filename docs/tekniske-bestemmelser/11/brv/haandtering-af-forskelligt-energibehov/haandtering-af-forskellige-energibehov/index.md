@@ -14,7 +14,11 @@
 
 ## Vejledning om håndtering af forskelligt energibehov i energirammen
 
+<span id="indledning"></span>
+
 ### Indledning {#7313ec1a-1349-4fe0-b2fd-aa7db0838455}
+
+<span id="handtering-af-forskelligt-energibehov"></span>
 
 ### Håndtering af forskelligt energibehov {#961b16dc-5178-4e65-884b-f46deff9be59}
 

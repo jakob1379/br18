@@ -7,7 +7,11 @@
 
 ## Bygningsreglementets vejledning om fugt og vådrum
 
+<span id="generelt-om-fugt-og-vadrum"></span><span id="vadrum"></span>
+
 ### Generelt om fugt og vådrum {#cacc9ea9-63fb-42d2-b4e1-448c263cf36d}
+
+<span id="fugt"></span>
 
 ### 1.0. Fugt {#518be76c-4c21-4760-9fae-5c60265b1fd6}
 
@@ -46,6 +50,8 @@ Vådrum
 SBi-anvisning 252 giver vejledning i planlægning, projektering og korrekt udførelse af gulve, vægge og installationer i vådrum i overensstemmelse med kravene i Bygningsreglement 2010.
 
 Vådrum hører til de mest kritiske rum i en bygning, både på grund af den direkte vandpåvirkning og den høje relative luftfugtighed, der ofte forekommer i længere perioder. Anvisningen beskriver, hvordan gulve, vægge og installationer kan udføres, så bygningsreglementets krav er overholdt, og så der opnås størst mulig sikkerhed mod skader fra vand og fugt.
+
+<span id="se-anvisningen-her-sbi-anvisning-252"></span>
 
 #### Se anvisningen her [](https://sbi.dk/anvisninger/Pages/252-Vaadrum-1.aspx "SBi Anvisning 252"){target="_blank"}
 

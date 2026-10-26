@@ -11,6 +11,8 @@
 
 ## Bygningsreglementets vejledning om lydforhold
 
+<span id="forord"></span>
+
 ### Forord {#f8f28711-8be8-4539-ba26-9a8f0b1e4f41}
 
 ### 1.0 Generelt for bestemmelserne om lydforhold (§§ 368 - 376) {#0bbdae59-0484-4bd1-b5f8-4e14c23f4e45}
@@ -76,5 +78,7 @@ Støjbelastning fra trafikangives som et vægtet, ækvivalent lydtrykniveau, år
 Støj fra installationer angives som et vægtet, ækvivalent lydtrykniveau *L~Aeq~* evt. suppleret med maksimalværdien *L~pAmax~*, begge i dB. Grænseværdier kan være fastsat for møblerede eller umøblerede rum. For lavfrekvent støj benyttes yderligere målestørrelsen *L~pA,LF~* og for infralyd *L~pG~*, begge i dB.
 
 ### 1.4 Kontrol af lydforhold ved målinger eller beregninger {#d750339f-fef1-48b9-a6e4-447d929d3e25}
+
+<span id="_1"></span>
 
 ### 1.5 Referenceliste {#9a559514-a587-4dd6-8fc9-adf1ba729a5a}

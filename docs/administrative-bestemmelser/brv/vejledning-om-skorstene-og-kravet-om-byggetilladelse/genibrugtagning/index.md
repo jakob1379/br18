@@ -22,22 +22,38 @@
 
 ## Vejledning om skorstene og kravet om byggetilladelse
 
+<span id="skorstensfejerbekendtgrelsen"></span><span id="se-skorstensfejerbekendtgrelsen-her-se-skorstensfejerbekendtgrelsen-her"></span><span id="skorstene-og-kravet-om-byggetilladelse"></span>
+
 ### Skorstene og kravet om byggetilladelse {#d4d1e57e-0114-4ce8-8001-40b2e5499f2b}
+
+<span id="byggelovens-anvendelsesomrade"></span>
 
 ### Byggelovens anvendelsesområde {#a78eeb5f-3ae6-425a-bd27-69be09299cde}
 
+<span id="krav-om-byggetilladelse"></span>
+
 ### Krav om byggetilladelse {#ff9c43e9-f405-430b-bdf5-c697a8cbcdb6}
+
+<span id="byggeri-uden-krav-om-byggetilladelse"></span>
 
 ### Byggeri uden krav om byggetilladelse {#a6015101-f038-433d-8466-5475f1b73028}
 
+<span id="byggesagsbehandling"></span>
+
 ### Byggesagsbehandling {#11cb3b94-b100-4df1-80a3-6ede10bcbf0d}
 
+<span id="afslutning-af-en-byggesag"></span>
+
 ### Afslutning af en byggesag {#cc7ad409-372b-4131-b0cd-d6b976fe10e1}
+
+<span id="genibrugtagning"></span>
 
 ### Genibrugtagning {#de4044c9-ed65-4b28-a2cf-d6c7278fc52a}
 
 Ved aftrækssystemer, der er nedlagt, men som ønskes taget i brug igen, vil der som udgangspunkt foreligge en anvendelsesændring af aftrækssystemet. Denne anvendelsesændring må karakteriseres som væsentlig, idet ændringen medfører, at krav om brandforhold og installationer i bygningsreglementets kap. 5 og 12 vil have indflydelse på, om det er sikkerhedsmæssigt forsvarligt at tage aftrækssystemet i brug igen.
 
 Da ændringen kan karakteriseres som væsentlig, vil det kræve en byggetilladelse og en ibrugtagningstilladelse, inden aftrækssystemet på ny kan tages i brug. Ejeren skal således ansøge kommunen herom.
+
+<span id="kommunen-som-patalepligtig"></span>
 
 ### Kommunen som påtalepligtig {#8f18789b-ddd0-403a-bf98-aaff57ec8781}

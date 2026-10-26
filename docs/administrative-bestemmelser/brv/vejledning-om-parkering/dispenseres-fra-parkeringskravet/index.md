@@ -1,5 +1,7 @@
 # Administrative bestemmelser (§ 1 - § 47)
 
+<span id="administrative-bestemmelser-1-"></span><span id="se-alle-vejledninger-om-administrative-bestemmelser-1-"></span>
+
 ## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
@@ -22,9 +24,13 @@
 
 ## Vejledning til kommunerne om krav til parkering i forbindelse med byggeri
 
+<span id="indledning"></span>
+
 ### Indledning {#f9ceb636-87f6-4541-bb03-da4fb6904eea}
 
 ### 1. Hvor findes de relevante regler {#5742b6d9-ad2d-4fc1-b878-1788e0073f28}
+
+<span id="ds-handbog-186"></span><span id="beskrivelse"></span><span id="standarden-findes-i-dansk-standards-webshopdsdk-her"></span>
 
 ### 2. Generelt om kommunalbestyrelsens afgørelse om parkeringskrav {#78bc7bba-9f43-4276-b0de-533da73da62f}
 

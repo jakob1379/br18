@@ -26,6 +26,8 @@
 
 ## Bilag 13 - Udfærdigelse af planer i forhold til brand
 
+<span id="bilag-13-til-bygningsreglementets-vejledning-til-kap-5-brand"></span>
+
 ### Bilag 13 til Bygningsreglementets vejledning til kap. 5 – Brand {#33d55b66-82e6-41ed-a763-03d9faec01af}
 
 [Åbn Bilag 13: Udfærdigelse af planer i forhold til brand](../../../../../media/rbfo0dyz/bilag-13-udfrdigelse-af-planer-i-forhold-til-brand-ver-11-a.pdf "Bilag 13 Udfrdigelse af planer i forhold til brand ver 11")

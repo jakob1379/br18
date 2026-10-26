@@ -26,6 +26,8 @@
 
 ## Bilag 8 – Præ-accepterede løsninger - Jordbrugserhvervets avls- og driftsbygninger samt væksthuse til produktion
 
+<span id="bilag-8-til-bygningsreglementets-vejledning-til-kap-5-brand"></span>
+
 ### Bilag 8 til Bygningsreglementets vejledning til kap. 5 – Brand {#233d0d33-704a-40cd-9217-7a13ff12e9eb}
 
 [Åbn Bilag 8 - Præ-accepterede løsninger for brandsikring af jordbrugserhvervets avls- og driftsbygninger samt væksthuse til produktion version 1.2](../../../../../media/ebuhoo1b/20210421-bilag-8-jordbrugserhvervets-avls-og-driftsbygninger-samt-vksthuse-til-produktionver12-a.pdf "20210421 Bilag 8  Jordbrugserhvervets avls og driftsbygninger samt vksthuse til produktionver12")

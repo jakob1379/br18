@@ -32,6 +32,8 @@
 
 ### Spørgsmål og svar om dokumentation af bygningsdele ved brug af ”alment teknisk fælleseje" (17-10-2023) {#47016155-51b4-45eb-9669-3ad825336d31}
 
+<span id="kan-alment-teknisk-flleseje-benyttes-ved-dokumentation-af-brandsikringstiltag-til-en-pr-accepteret-lsning-og-hvad-er-en-certificeret-brandradgivers-virke-ift-dokumentation-ved-anvendelse-af-alment-teknisk-flleseje"></span><span id="_1"></span><span id="pr-accepteret-lsning"></span><span id="dokumentation-af-bygningsdeles-brandmssige-egenskaber"></span><span id="dokumentation-ved-brug-af-alment-teknisk-flleseje"></span><span id="den-certificerede-brandradgivers-virke-ift-dokumentation-ved-atf"></span>
+
 ### Spørgsmål og svar om brug af certificeret rådgiver ved anvendelsesændring (30-09-2020) {#70137627-dba9-42fa-a40f-015559c387fe}
 
 **Et mindre kontor med lager beliggende i stuetagen i en etageejendom ønskes ændret til butik. Skal der søges byggetilladelse, og skal der i givet fald benyttes en certificeret rådgiver? (30-09-2020)**

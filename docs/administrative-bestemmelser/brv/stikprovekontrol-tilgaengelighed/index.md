@@ -22,6 +22,8 @@
 
 ## Vejledning i kommunernes stikprøvekontrol i tilgængelighed
 
+<span id="forord"></span>
+
 ### 0.0 Forord {#f8932be8-37e1-4b17-9fea-7297a38ad5de}
 
 Denne vejledning er rettet mod byggesagsbehandlerne i kommunerne i forbindelse med den kommunale stikprøvekontrol. Vejledningen fokuserer udelukkende på den del af stikprøvekontrollen, der vedrører tilgængelighed.
@@ -47,6 +49,8 @@ I stikprøvekontrollen skal kommunerne bl.a. vurdere, om de udtrukne byggesager 
 3\) Tiltagspakke til fremme af tilgængelighed 2018, Trafik-, Bygge- og Boligstyrelsen, 23. januar 2018
 
 4\) Bygningsreglementet, kap. 2, Vejledning til brugerbegreb, 0.0.0.
+
+<span id="stikprvekontrol-afklaring-af-bestemmelser-og-brugergruppe"></span>
 
 ### 1.0 Stikprøvekontrol - Afklaring af bestemmelser og brugergruppe {#42f88323-8b81-4649-868e-d2da47d6562e}
 
@@ -191,6 +195,8 @@ For mere inspiration til fastlæggelse af brugergruppe henvises til 2.0 Uddybnin
 
 7\) Bygningsreglementet, kap. 2, Vejledning til brugerbegreb
 
+<span id="stikprvekontrol-1-fase-tilstrkkelig-dokumentation"></span>
+
 ### 1.1 Stikprøvekontrol – 1. fase: Tilstrækkelig dokumentation {#c4f664b3-d02a-4df2-9442-57335692301c}
 
 Vejledningen er for overskuelighedens og forståelsens skyld inddelt i faser.
@@ -265,6 +271,8 @@ I en eventuel forhåndsdialog mellem ansøger og kommune kan specifikationer omk
 
 8\) Bygningsreglementet, kap. 1, § 43, stk. 2
 
+<span id="stikprvekontrol-2-fase-vurdering-af-lsninger"></span>
+
 ### 1.2 Stikprøvekontrol - 2. fase: Vurdering af løsninger {#a52159d7-fcd6-4eb7-8db2-ee8875f89564}
 
 I denne fase af stikprøvekontrollen skal kommunen kontrollere, om dokumentationen er i overensstemmelse med byggetilladelsen, og de bestemmelser i bygningsreglementet, som ansøger tidligere har indsendt erklæring om, at byggesagen overholder.
@@ -286,6 +294,8 @@ Vurderingen af behovet og dermed hvad, der er et passende antal, bør dog altid 
 I denne 2. fase af stikprøvekontrollen er det kommunens opgave at vurdere, hvordan der i dokumentationen er gjort rede for antallet af f.eks. parkeringspladser til handicapegnede køretøjer i relation til typen af byggeprojekt i den pågældende byggesag.
 
 9\) Grangaard, S. & Pedersen, L.S. (2014) Tilgængelighed i forbindelse med ombygning – et casestudie af Nordkraft. SBI 2014:16. Statens Byggeforskningsinstitut, Aalborg Universitet, København.
+
+<span id="stikprvekontrol-3-fase-vurdering-af-mangel"></span>
 
 ### 1.3 Stikprøvekontrol – 3. fase: Vurdering af mangel {#0121521b-e5e3-4323-a262-01113b1e9dae}
 
@@ -321,9 +331,13 @@ Passende arealer til parkering af handicapegnede køretøjer (personbil, kassebi
 
 I forbindelse med et parkeringsareal og et antal parkeringspladser rettet mod handicapegnede køretøjer, har det afgørende betydning, at niveauspring mellem parkeringsareal og gangareal højst er 2,5 cm. Hvis niveauspringet er højere, kan personer i kørestol eller personer med gangbesvær være nødt til at bevæge sig ud på kørebanen for at finde et sted med et lavere niveauspring, de kan forcere for at komme til gangarealet.
 
+<span id="afslutning"></span>
+
 ### 1.4 Afslutning {#1496ab80-def3-4be1-a26a-4f0419931cfe}
 
 Formålet med stikprøvekontrollen er også at identificere de områder, hvor der er udfordringer med efterlevelsen af tilgængelighedsbestemmelserne. Stikprøvekontrollens 2. fase er afgørende for denne identificering, for det er her, at eventuelle materielle mangler afdækkes. Dermed bliver det ekstra vigtigt, at stikprøvekontrollen af tilgængeligheden gennemføres ud fra retningslinjerne i indeværende vejledning for netop at sikre ensartethed. Kommunen bør tillige opbevare data fra alle stikprøvekontroller, så det er muligt efterfølgende at foretage en registrering og opsamling af resultaterne.
+
+<span id="uddybning-angaende-brugerne"></span>
 
 ### 2.0 Uddybning angående brugerne {#04a33d68-8e1c-4f88-aa20-b52672b7e281}
 
@@ -334,6 +348,8 @@ Når en brugergruppe skal karakteriseres, er det relevant at overveje en række 
 Generelt gælder det for brugerne, at der kan være tale om forskellige brugsmønstre i forhold til hyppighed og varighed. Nogle er daglige brugere, mens andre måske kun opholder sig i en bygning én gang, men over længere tid. Inden for hver kategori af funktionsnedsættelse vil der være individuelle forskelle blandt brugerne i forhold til funktionstab og funktionsevne. Når en brugergruppe vurderes, gælder det om at fange denne mangfoldighed og ikke lade forståelsen af brugerne være fastlåst. Nogle personer med en funktionsnedsættelse har en funktionsevne og et helbred, der gør dem i stand til at kunne varetage et arbejde, mens andre ikke er i stand til dette. Forskelle kan ligeledes påvirkes af alder, køn, kultur, opdragelse og erfaring^10^. Der kan også være forskel på, hvor aktive brugerne er i forhold til f.eks. familieliv, venner, fritidsinteresser, foreningsliv, naturoplevelser og kulturelle tilbud. Muligheden for at være aktiv og deltage er til stede, hvis de fysiske rammer er lagt tilrette for deltagelsen.
 
 10\) Bygningsreglementet, kap. 2, Vejledning til brugerbegreb, 3.0.0.
+
+<span id="uddybning-af-ligevrdighed-i-adgangsforhold-og-indretning"></span>
 
 ### 3.0 Uddybning af ligeværdighed i adgangsforhold og indretning {#82fa5c77-c3c6-4da8-9fe4-bb8a654e0335}
 

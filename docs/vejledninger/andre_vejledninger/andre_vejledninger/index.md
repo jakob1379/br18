@@ -1,5 +1,7 @@
 # Andre vejledninger
 
+<span id="certificeringsordningen-brandradgivere-og-statikere"></span>
+
 ## Certificeringsordningen - brandrådgivere og statikere {#36d558c8-033a-4e58-a997-7b0aaf51db0d}
 
 [Temaside om brugen af certificerede statikere og brandrådgivere](../../../media/zl4jkn1r/vejledning-om-certificering-af-statikere-og-brandraadgivere-22-01-2024-a.pdf){rel="noopener" target="_blank"}
@@ -16,6 +18,8 @@
 
 [Rettelsesblad til Vejledning om certificering af statikere og brandrådgivere (11. april 2024)](../../../media/g4rpappd/rettelsesblad-til-vejledning-om-certificering-af-statikere-og-brandraadgivere-a.pdf "Rettelsesblad til Vejledning om certificering af statikere og brandrådgivere")
 
+<span id="vejledning-om-installationer-i-eksisterende-bygninger"></span>
+
 ## Vejledning om installationer i eksisterende bygninger {#cef43ef1-0489-4d2e-85f7-02b74adddd4f}
 
 [Vejledning om installationer i eksisterende bygninger](../vejledning/installationer-eksisterende-byggeri/){rel="noopener noreferrer" target="_blank"}
@@ -27,6 +31,8 @@
 ## Vejledning om klimasikring {#24fd3fe7-882e-4fd7-84b2-991595f991e2}
 
 [Vejledning om byggeri i kystnære områder - til bygherrer vedrørende sikring mod stormflod og vandstigninger](https://www.bygningsreglementet.dk/Historisk/BR18_Version3/Vejledninger/Klimasikring/Vejledning_Klimasikring/Byygeri_i_kystnaere_omraader/2_2){rel="noopener" target="_blank"}
+
+<span id="vejledning-til-bekendtgrelse-om-forberedelse-til-og-etablering-af-ladestandere-i-forbindelse-med-bygninger-ladestanderbekendtgrelsen"></span>
 
 ## Vejledning til bekendtgørelse om forberedelse til og etablering af ladestandere i forbindelse med bygninger (ladestanderbekendtgørelsen) {#a802e89f-4360-4c1b-a2df-1d9a3f8b9b97}
 

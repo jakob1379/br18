@@ -14,6 +14,8 @@
 
 ## Spørgsmål og svar om energiforbrug
 
+<span id="store-terrndk"></span>
+
 ### Store terrændæk {#49ecad1d-f466-44d3-bc77-4d23f8e13f42}
 
 [? Hvordan beregner man U-værdien af et stort terrændæk?](#49ecad1d-f466-44d3-bc77-4d23f8e13f42) Store terrændæk, typisk terrændæk hvor mindste side i terrændækket er mindst 40 meter, har specielle forhold og temperaturen under dækket vil have stor indflydelse på varmetabet.
@@ -31,6 +33,8 @@ Der er dermed tre forskellige måder at overholde kravet i bygningsreglementet p
 3. Beregning af det resulterende varmetab efter DS/EN ISO 13370. Her skal det resulterende varmetab være mindre end hvis dækket havde været isoleret i henhold til DS 418. Det betyder, at der skal foretages to beregninger med samme beregningsmetodik; en med den normale fordeling af isolering i henhold til DS 418 og en beregning med den alternative isolering.
 
 Det er en forudsætning for brugen af alle tre løsninger, at bygningsreglementets krav til linjetab ved fundamentet er overholdt. Det er ligeledes en forudsætning, at kravene i bygningsreglementet er overholdt fra bygningen tages i brug, herunder, at de tekniske anlæg er dimensioneret og udført således, at de kan betjene bygningen, i de år der går, mens temperaturen under dækket stabiliseres.
+
+<span id="industriporte"></span>
 
 ### Industriporte {#238115c7-1f29-4374-b9e8-3d6da6a0c23d}
 

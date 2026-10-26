@@ -8,7 +8,11 @@
 
 ## Vejledning om boligindretning
 
+<span id="kolofon"></span>
+
 ### Kolofon {#818585de-abef-41f2-b417-27010078f7d0}
+
+<span id="forord"></span>
 
 ### Forord {#a65228a9-ae42-48b3-b79b-97cd2de40d36}
 
@@ -67,5 +71,7 @@ venner eller til at finde ro. I den sammenbragte familie kan det være vigtigt, 
 Når der ikke er tale om helt små boliger, bør mindst ét rum have plads til en dobbeltseng, hvor man kan komme til sengen fra de to langsider. Personligt tøj opbevares mest praktisk i nærheden af sovepladserne. Det kan være i samme rum, i en skabsgang eller et garderoberum. Indbyggede skabe kan give ekstra plads i rummet og skabe ro i rummets indretning. En skabsgang eller et garderoberum giver mulighed for større frihed i indretningen af rummet. Ud over seng og garderobe har man ofte behov for at opbevare mange andre ting i det personlige soverum, fx kan børn have behov for plads til legetøj.
 
 ### 3.7. At bade {#9d95ee42-38e2-41d4-ae53-1d23da54a544}
+
+<span id="appendix-litteratur"></span>
 
 ### Appendix: Litteratur {#dad94911-d8be-4830-9756-dcbefa202590}

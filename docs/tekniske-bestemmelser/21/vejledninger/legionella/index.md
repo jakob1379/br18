@@ -10,6 +10,8 @@
 
 ## Vejledning om legionella
 
+<span id="link-til-vejledning-om-legionella"></span>
+
 ### Link til vejledning om legionella {#4eca335e-b4a8-45ed-9164-a9a25b54eadd}
 
 [Åbn vejledningen: Legionella](https://www.teknologisk.dk/_/media/74890_R%F8rcenter-anvisning%20017.%20Legionella.pdf){rel="noopener noreferrer" target="_blank"}

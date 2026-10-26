@@ -22,33 +22,63 @@
 
 ## Vejledning om gebyr for kommunernes sagsbehandling på byggeområdet
 
+<span id="protected_20s-regler-for-opkrvning-af-byggesagsgebyrer"></span><span id="indledning"></span>
+
 ### 1. Indledning {#c29b7dd6-3256-4187-b181-dfcf6a1f572b}
+
+<span id="de-forfatningsretlige-regler-for-opkrvning-af-gebyrer"></span>
 
 ### 2. De forfatningsretlige regler for opkrævning af gebyrer {#8dd51c52-047a-472f-a141-644a9ef842ac}
 
+<span id="byggelovens-regler-for-opkrvning-af-byggesagsgebyrer"></span>
+
 ### 3. Byggelovens regler for opkrævning af byggesagsgebyrer {#568414fb-afec-4b2c-84c2-6ba8f7b41745}
+
+<span id="kommunalbestyrelsens-byggesagsbehandling-efter-br18"></span>
 
 ### 4. Kommunalbestyrelsens byggesagsbehandling efter BR18 {#1a86b6e8-3240-4380-b7e6-eba436bf0ff6}
 
+<span id="byggesagsgebyr-efter-tidsforbrug"></span>
+
 ### 5. Byggesagsgebyr efter tidsforbrug {#9783af26-d3da-41cf-ab4e-b69c8a67b4fc}
+
+<span id="faststtelse-af-gebyret-i-den-enkelte-sag"></span>
 
 ### 6. Fastsættelse af gebyret i den enkelte sag {#b659b5e1-970c-412d-9df0-7b0710aace6b}
 
+<span id="opkrvning-af-et-mindre-fast-gebyr"></span>
+
 ### 7. Opkrævning af et mindre, fast gebyr {#08c1b6a0-c551-428f-9c8e-9af6bf2affcd}
+
+<span id="hvilke-poster-kan-indeholdes-i-gebyret"></span>
 
 ### 8. Hvilke poster kan indeholdes i gebyret? {#ca914ed6-250c-417c-a6d3-14938d30504a}
 
+<span id="generelle-principper-for-faststtelse-af-timeprisen"></span>
+
 ### 9. Generelle principper for fastsættelse af timeprisen {#e208113b-0e80-41c0-9164-bbb8891d786b}
+
+<span id="byggesagsgebyr-i-sager-hvor-der-meddeles-afslag"></span>
 
 ### 10. Byggesagsgebyr i sager, hvor der meddeles afslag {#e3f27deb-d2e1-4e29-a873-2e41abe22946}
 
+<span id="byggesagsgebyr-for-deltilladelser"></span>
+
 ### 11. Byggesagsgebyr for deltilladelser {#a1800975-5ead-4bc6-8883-ef6e665b5688}
+
+<span id="byggesagsgebyrets-forfaldstidspunkt"></span>
 
 ### 12. Byggesagsgebyrets forfaldstidspunkt {#70bed234-2cba-4a1f-bf1f-38ca072d4d97}
 
+<span id="opkrvning-af-gebyr-for-kommunens-stikprvekontrol"></span>
+
 ### 13. Opkrævning af gebyr for kommunens stikprøvekontrol {#93b91313-05fa-4d04-ad5e-86c5954b720e}
 
+<span id="byggesagsgebyr-nar-kommunen-paser-anden-lovgivning"></span>
+
 ### 14. Byggesagsgebyr, når kommunen påser anden lovgivning {#2a2de623-31df-4776-9c74-591bbf8cb902}
+
+<span id="intern-instruks-i-kommunen"></span>
 
 ### 15. Intern instruks i kommunen {#6cf93438-46ec-4275-b0ff-1de96795200c}
 

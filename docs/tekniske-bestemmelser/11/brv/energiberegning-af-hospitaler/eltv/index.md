@@ -14,21 +14,39 @@
 
 ## Vejledning om energiberegning af hospitaler
 
+<span id="forord"></span>
+
 ### Forord {#80d5f054-da59-48e1-910e-41db725c67e3}
+
+<span id="indledning"></span>
 
 ### Indledning {#4314dcfa-a2b6-4297-a57e-4461bcc18251}
 
+<span id="indeklima"></span>
+
 ### Indeklima {#6ce7bd90-66ea-4fee-99d9-6158dfd6918a}
+
+<span id="tillg-til-energirammen"></span>
 
 ### Tillæg til energirammen {#4d745970-fa8a-41df-92f8-e7fcd06344df}
 
+<span id="tilbygninger"></span>
+
 ### Tilbygninger {#b6f4ed0f-cca4-47d9-9ad6-f20e4af5e607}
+
+<span id="tthed"></span>
 
 ### Tæthed {#fc885732-052b-4055-96e2-c19d538db7bd}
 
+<span id="rumopvarmning"></span>
+
 ### Rumopvarmning {#fa3aaa50-556d-4d47-a3ca-fb72ea35f96f}
 
+<span id="ventilation"></span>
+
 ### Ventilation {#e3a5e724-40f2-4fb3-bcf2-f697bcc23ff4}
+
+<span id="elforbrug-til-ventilation"></span>
 
 ### Elforbrug til ventilation {#38e8d818-8a36-406e-8bb2-7019e1598beb}
 
@@ -80,10 +98,18 @@ I rum med renlighedskrav, der overstiger de normale komfortanlæg, hvilket for e
 
 Kravene til det specifikke elforbrug til lufttransport i ventilationsanlæg kan opfyldes med flere forskellige løsninger. Vandrette føringer af kanaler kan være så pladskrævende, at det nødvendiggør en højere etagehøjde. Løsninger med vandret føring af kanaler i et teknikrum eller kælder og flere skakte vil kunne reducere størrelsen af de kanaler, der skal føres vandret i de enkelte etager. Herudover kan elforbruget begrænses ved bedre ventilationsaggregater og benyttelse af bedre reguleringsspjæld med lavt tryktab.
 
+<span id="varmegenvinding"></span>
+
 ### Varmegenvinding {#a15211c9-810a-44c5-94fd-1c86c694c369}
+
+<span id="ve-anlg"></span>
 
 ### VE-anlæg {#24ba9ab7-aac0-48a0-b31a-356523e3eb70}
 
+<span id="byggesagsbehandling"></span>
+
 ### Byggesagsbehandling {#9bf8838f-884b-4e75-857e-651abd614786}
+
+<span id="andet"></span>
 
 ### Andet {#8bedbd8b-bcc6-48ef-bcd2-fc5f667bab77}

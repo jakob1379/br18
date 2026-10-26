@@ -14,3 +14,5 @@ title: Kontrol af dokumentation for og udførelse af bærende konstruktioner og 
 - [Vejledning til kapitel 30 - Kontrol af dokumentation af brandforhold](../vejledninger/vejledning-til-kap-30-brand/)
 - [SBi-anvisninger](../vejledninger/sbi_anvisning/)
 - [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../vejledninger/temasiden-brandogkonstruktioner-dk/)
+
+<span id="vejledning-til-kapitel-30-kontrol-af-dokumentation-for-og-udfoerelse-af-baerende-konstruktioner"></span><span id="vejledning-til-kapitel-30-kontrol-af-dokumentation-for-og-udfoerelse-af-baerende-konstruktioner-klik-her-for-at-abne-bygningsreglementets-vejledning-til-kapitel-30-kontrol-af-dokumentation-for-og-udfoerelse-af-baerende-konstruktioner"></span><span id="vejledning-til-kapitel-30-kontrol-af-dokumentation-af-brandforhold"></span><span id="vejledning-til-kapitel-30-kontrol-af-dokumentation-af-brandforhold-klik-her-for-at-abne-bygningsreglementets-vejledning-til-kapitel-30-kontrol-af-dokumentation-af-brandforhold"></span>

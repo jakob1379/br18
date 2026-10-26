@@ -3,6 +3,8 @@
 [Krav](./){ .md-button .md-button--primary }
 [Vejledning](brv/){ .md-button }
 
+<span id="se-alle-krav-om-ventilation-420-452"></span><span id="ventilation"></span>
+
 ## § 420 Ventilation {#b4d1d808-575d-4376-a874-7d638c1f9234}
 
 ### § 420 {#paragraf-420}
@@ -15,6 +17,8 @@ Bygninger skal ventileres, så der sikres tilfredsstillende luftkvalitet og fugt
 2.  Der ikke sker skader på personer, installationer og bygningsdele.
 3.  Der ikke opstår risiko for personers sundhed eller komfortmæssige gener.
 4.  Der ikke sker unødigt forbrug af energi.
+
+<span id="s421-422"></span><span id="s423-429"></span><span id="s430-442"></span><span id="generelt-for-ventilationssystemer"></span>
 
 ## § 421 - § 429 Generelt for ventilationssystemer {#78c2af6e-fe56-4728-8249-a612cc4289d3}
 
@@ -100,11 +104,15 @@ Normen gælder for mekaniske og hybride ventilationsanlæg, der monteres fast i 
 
 Termisk isolering af tekniske installationer
 
+<span id="s443-446"></span><span id="s447-449"></span><span id="paragraf-450"></span><span id="s451-452"></span>
+
 ### Beskrivelse
 
 Standarden gælder for termisk isolering af bygningsinstallationer, som fx varme-, ventilati-ons-, køle-, solvarme- og brugsvandsanlæg, samt for termisk isolering af industrianlæg her-under proces- og forsyningsanlæg. Standarden gælder også for installationer i det fri.
 
 ### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/standard/M345889/ds-452-2013-ret-1-till-1-2020 "DS 452"){target="_blank"}
+
+<span id="energikrav-til-ventilationssystemer"></span>
 
 ## § 430 - § 442 Energikrav til ventilationssystemer {#b0d0cc6e-8358-4aad-8635-7e2ede2d1bb5}
 
@@ -196,6 +204,8 @@ Airconditionanlæg, væskekølere og varmepumper med eldrevne kompressorer til r
 
 ### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/standard/M348431/ds-en-14511-3-2022 "DS/EN 14511-3"){target="_blank"}
 
+<span id="ventilation-i-beboelsesbygninger"></span>
+
 ## § 443 - § 446 Ventilation i beboelsesbygninger {#7e3ed2f3-9f5b-47e8-b41c-723a75ec3009}
 
 ### § 443 {#paragraf-443}
@@ -222,6 +232,8 @@ I beboelsesrum såvel som i boligen totalt skal der være en udelufttilførsel p
 
 Enfamiliehuse kan ventileres ved naturlig ventilation eller en kombination af naturlig- og mekanisk ventilation. For enfamiliehuse med naturlig ventilation gælder § 443, stk. 1, 3 og 4.
 
+<span id="ventilation-af-daginstitutioner-og-undervisningsrum"></span>
+
 ## § 447 Ventilation af daginstitutioner og undervisningsrum {#dcb71b0d-4d4f-404f-aa62-26950e0c0685}
 
 Opholdsrum i daginstitutioner, undervisningsrum i skoler og lignende skal ventileres med et ventilationssystem. Hvis ventilationen foretages med et mekanisk ventilationsanlæg, skal dette omfatte både indblæsning og udsugning samt varmegenvinding, der forvarmer indblæsningsluften. Såfremt et andet ventilationssystem anvendes, skal dette på en tilsvarende måde kunne opfylde bygningsreglementets krav, og tillige skal det sikres, at primærenergibehovet ikke forøges.
@@ -229,6 +241,8 @@ Opholdsrum i daginstitutioner, undervisningsrum i skoler og lignende skal ventil
 *Stk. 2.* I opholdsrum i daginstitutioner og undervisningsrum i skoler og lignende, hvor personer er den væsentligste forureningskilde, skal det sikres, at CO2-indholdet i indeluften ikke overstiger 1.000 ppm for de dimensionerende forhold.
 
 *Stk. 3.*  Hvis der benyttes ventilationssystem med behovsstyret ventilation, kan der afviges fra de angivne luftmængder, når der er et reduceret behov. Ventilationen i brugstiden må ikke være mindre end 0,35 l/s pr. m² etageareal.
+
+<span id="ventilation-af-andre-bygninger-og-rum"></span>
 
 ## § 448 - § 449 Ventilation af andre bygninger og rum {#5dbf3f2f-9c2c-4858-9628-ef196627dfae}
 
@@ -239,6 +253,8 @@ Garageanlæg med etageareal større end 150 m² skal udføres med fornøden selv
 ### § 449 {#paragraf-449}
 
 For andre rum end de i [§§ 443-447](krav/443_446/ "443_446") nævnte skal ventilationens dimensionering ske under hensyn til rummets størrelse og anvendelse.
+
+<span id="kontrol"></span>
 
 ## § 450 Kontrol {#3b755ac8-536c-40f6-a829-6fe70d6357ad}
 

@@ -3,6 +3,8 @@
 [Krav](./){ .md-button .md-button--primary }
 [Vejledning](brv/){ .md-button }
 
+<span id="s490-493"></span>
+
 ## § 490 - § 493 Brandklasser {#59d49931-3210-43aa-ad9b-8ef9ebf6d693}
 
 ### § 490 {#paragraf-490}

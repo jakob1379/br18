@@ -26,6 +26,8 @@ I bygninger med 3 etager og derover skal der installeres mindst én elevator, de
 
 For boliger med flere internt forbundne etager skal elevatoren alene føres til boligens adgangsetage.
 
+<span id="paragraf-246i"></span>
+
 ### § 246 {#paragraf-246}
 
 I nybyggeri, jf. § 244, hvor der installeres elevator, skal mindst én elevator designes og udføres som type 2 elevator i overensstemmelse med DS/EN 81-70: Sikkerhedsregler for konstruktion og installation af elevatorer – Særlige anvendelser for passager- og godselevatorer – Del 70: Tilgængelighed til elevatorer for personer, inklusive personer med handicap eller på tilsvarende vis, der sikrer tilgængelighed for personer med handicap.

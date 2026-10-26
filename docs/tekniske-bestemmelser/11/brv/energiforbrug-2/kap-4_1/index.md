@@ -14,6 +14,8 @@
 
 ## Bygningsreglementets vejledning om energiforbrug
 
+<span id="forord"></span>
+
 ### Forord {#e4a4aefb-350b-4266-827e-1508450a3f72}
 
 ### 1.0. Generelt {#5d0fd3cc-01f4-4dbe-bf46-d43a912b077e}
@@ -72,6 +74,8 @@ I forbindelse med større renoveringsarbejder på bevaringsværdige bygninger b�
 
 Byggeloven
 
+<span id="byggeloven"></span>
+
 #### Anvendelsesområde
 
 Byggeloven
@@ -82,6 +86,8 @@ Byggeloven
 
 Energiguide for fredede og bevaringsværdige huse, Bygningskultur Danmark 2019
 
+<span id="energiguide-for-fredede-og-bevaringsvrdige-huse-bygningskultur-danmark-2019"></span>
+
 #### Anvendelsesområde
 
 En energiguide, som i et let forståeligt sprog uden indforstået teknisk jargon klæder husejere på til at gøre deres huse mere energivenlige - uden at gå på kompromis med husets historiske og kulturelle kvaliteter.
@@ -91,6 +97,8 @@ En energiguide, som i et let forståeligt sprog uden indforstået teknisk jargon
 [![](../../../../../assets/img/linkbox/info_linkbox.svg)](#)
 
 E-SAVE-vejledning til kommunal sagsbehandling af byggesager med energitiltag i bevaringsværdige bygninger
+
+<span id="e-save-vejledning-til-kommunal-sagsbehandling-af-byggesager-med-energitiltag-i-bevaringsvrdige-bygninger"></span>
 
 #### Anvendelsesområde
 

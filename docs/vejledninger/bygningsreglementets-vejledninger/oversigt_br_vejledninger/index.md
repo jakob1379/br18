@@ -154,6 +154,8 @@
 
 [Bygningsreglementets vejledning om fugt og vådrum](https://www.bygningsreglementet.dk/historisk/br18_version3/tekniske-bestemmelser/14/vejledninger/fugt_og_vaadrum/forord/#16a2984d-4e55-4ce3-9809-eeccb2488bb7){rel="noopener" target="_blank"}
 
+<span id="16a2984d-4e55-4ce3-9809-eeccb2488bb7"></span>
+
 ## Kap. 15 Konstruktioner (§ 340 - § 357) {#4cb35d28-d446-42bd-a41d-18fa632cd21d}
 
 [Bygningsreglementets vejledning om konstruktioner](../../../tekniske-bestemmelser/15/vejledninger/generel_vejledning/){rel="noopener noreferrer" target="_blank"}
@@ -185,6 +187,8 @@
 ## Kap. 19 Termisk indeklima og installationer til varme- og køleanlæg (§ 385 - § 392) {#1b867f31-a587-4fe7-85e4-f564afd93e08}
 
 [Bygningsreglementets vejledning om termisk indeklima og installationer til varme- og køleanlæg](https://www.bygningsreglementet.dk/historisk/br18_version2/tekniske-bestemmelser/19/vejledninger/termisk-indeklima/forord/#f193f964-b6ef-4f0f-81c8-405fec9e7c5c){rel="noopener" target="_blank"} [](https://tbst.prod.cm.ffw.build/EditorPage.aspx?da=core&id=%7BB318B5BE-3C48-4FFB-BB8C-58B66EE21149%7D&ed=FIELD722284870&vs&la=da&fld=%7B8E44BAFD-71A1-44E6-99D9-D64DEC3AB596%7D&so=%2Fsitecore%2Fsystem%2FSettings%2FHtml%20Editor%20Profiles%2FRich%20Text%20DISPLAY&di=0&hdl=H722284881&mo&pe=0&fbd=1### "Hjælp")
+
+<span id="f193f964-b6ef-4f0f-81c8-405fec9e7c5c"></span>
 
 ## Kap. 20 Ubebyggede arealer ved bebyggelse (§ 393 - § 402) {#6e4cb21e-2572-4cc3-b3a3-bdb8d21d991d}
 

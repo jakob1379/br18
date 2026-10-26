@@ -3,6 +3,8 @@
 [Krav](./){ .md-button .md-button--primary }
 [Vejledning](brv/){ .md-button }
 
+<span id="sikkerhed-ved-brand"></span>
+
 ## § 82 - § 83 Sikkerhed ved brand {#50124df8-7578-4933-a275-9b4c0208aea8}
 
 ### § 82 {#paragraf-82}
@@ -28,6 +30,8 @@ Byggeri skal have en tilfredsstillende sikkerhed for personer i tilfælde af bra
 ### § 83 {#paragraf-83}
 
 Dokumentation for, at byggeri opfylder kravene i kapitel 5, skal ske i henhold til Bygningsreglementets vejledning til kapitel 5 - Brand eller på en anden måde, som på tilsvarende vis dokumenterer, at kravene er opfyldt.
+
+<span id="anvendelseskategori-og-risikoklasse"></span>
 
 ## § 84 - § 86 Anvendelseskategori og risikoklasse {#43ac8e80-b4c3-4850-b2b9-d48d5ff9a799}
 
@@ -181,9 +185,13 @@ bygningsafsnit højst 1 etage under terræn, i bygninger hvor ingen bygningsafsn
 </tbody>
 </table>
 
+<span id="paragraf-87"></span><span id="materialer-konstruktioner-og-bygningsdele"></span>
+
 ## § 87 Materialer, konstruktioner og bygningsdele {#57a664be-4a3b-4f93-9f35-b46a6a3fe8f9}
 
 Materialer, konstruktioner og bygningsdele, der skal bidrage til brandsikkerheden, skal anvendes og udføres under hensyn til deres brandmæssige egenskaber som varmeudvikling, flammespredning, røgproduktion, produktion af brændende dråber og partikler, nedfald af dele samt brandmodstandsevne og bæreevne.
+
+<span id="brandtekniske-installationer-og-handslukningsudstyr"></span>
 
 ## § 88 - § 90 Brandtekniske installationer og håndslukningsudstyr {#59f1dfe2-777d-4b8a-bc5b-f0a5a1dc9d1a}
 
@@ -222,6 +230,8 @@ Bygningers brandtekniske installationer og håndslukningsudstyr skal projekteres
 *Stk. 3.* Hvis der i bygningen er installeret et varslingsanlæg, og der er installeret et automatisk brandalarmanlæg eller et automatisk sprinkleranlæg, skal varslingsanlægget aktiveres heraf.
 
 *Stk. 4.* Brandslukningsmateriel skal være tydeligt markeret.
+
+<span id="evakuering-og-redning-af-personer"></span>
 
 ## § 91 - § 98 Evakuering og redning af personer {#c3d2a748-5ede-47ca-8ba0-39991136d982}
 
@@ -331,6 +341,8 @@ Design, projektering og udførelse af redningsåbninger skal ske under hensyn ti
 
 4) At redningsåbninger i brandmæssige enheder kan åbnes uden brug af nøgle eller særligt udstyr, når der opholder sig personer som har lovlig adgang, i de pågældende brandmæssige enheder.
 
+<span id="brende-konstruktioners-brandmodstandsevne"></span>
+
 ## § 99 - 103 Bærende konstruktioners brandmodstandsevne {#916e0fd2-a694-4fcc-a9e7-ba687c40c206}
 
 ### § 99 {#paragraf-99}
@@ -365,6 +377,8 @@ Bæreevnen under brand skal bestemmes som beskrevet i kapitel 15.
 
 Bygningsdele skal sammenbygges, så den samlede bygningskonstruktion i brandmæssig henseende ikke har en ringere bæreevne i tilfælde af brand, end de enkelte bygningsdele i konstruktionen har. Dette gælder både bærende og brandadskillende bygningsdele.
 
+<span id="antndelse-og-brand-og-rgspredning"></span>
+
 ## § 104 Antændelse og brand- og røgspredning {#b88ddaf7-e973-4acf-99be-772d65d9eaa5}
 
 Byggeri skal projekteres og udføres, så det sikres, at der i tilfælde af brand ikke sker væsentlig brand- og røgspredning. Dette skal ske under hensyn til, at:
@@ -378,6 +392,8 @@ Byggeri skal projekteres og udføres, så det sikres, at der i tilfælde af bran
 4) Brandspredning til andre bygninger på samme grund begrænses.
 
 5) Der ikke sker brandspredning til bygninger på anden grund.
+
+<span id="risiko-for-antndelse"></span>
 
 ## § 105 - § 107 Risiko for antændelse {#42fc6c1b-6139-49c9-a3fe-e5304751d67c}
 
@@ -394,6 +410,8 @@ Det skal sikres, at rørgennemføringer, kanaler og lignende foranstaltninger ti
 ### § 107 {#paragraf-107}
 
 Større fyringsanlæg skal placeres i selvstændige brandmæssige enheder med adgang direkte til det fri for at mindske risikoen for brandspredning.
+
+<span id="brand-og-rgspredning-i-det-rum-hvor-branden-opstar"></span>
 
 ## § 108 - § 109 Brand- og røgspredning i det rum, hvor branden opstår {#0328028f-ca49-4659-8558-9c773df9cc4d}
 
@@ -414,6 +432,8 @@ Indvendige overflader skal designes og udføres, så de ikke bidrager væsentli
 > 4\) Produktion af brændende dråber og partikler.
 
 >
+
+<span id="brand-og-rgspredning-i-den-bygning-hvor-branden-opstar-eller-til-bygninger-pa-samme-grund"></span>
 
 ## § 110 - § 119 Brand- og røgspredning i den bygning, hvor branden opstår, eller til bygninger på samme grund {#074d98e8-7689-4e13-a92f-039f58fb2fda}
 
@@ -464,6 +484,8 @@ Bygninger på samme grund skal placeres i en sådan afstand til hinanden eller 
 ### § 119 {#paragraf-119}
 
 Midlertidige camping- og salgsområder skal placeres, indrettes og bruges på en sådan måde, at en brand kan begrænses til det område, hvor branden er opstået. Brandspredning til andre områder skal forhindres i den tid, som er nødvendig for evakuering og redningsberedskabets indsats.
+
+<span id="brandtekniske-installationer-til-begrnsning-af-brand-og-rgspredning"></span>
 
 ## § 120 - § 124 Brandtekniske installationer til begrænsning af brand- og røgspredning {#511f9aa7-c87c-4831-b1a7-9c57f5846709}
 
@@ -543,9 +565,13 @@ Der skal i industri- og lagerbygninger samt for visse avlsbygninger i anvendelse
 >
 > 2\) Bygningsafsnittet har et etageareal, der er større end 5.000 m², og en stablingshøjde på mere end 10 m.
 
+<span id="paragraf-125"></span><span id="brandspredning-til-bygninger-pa-anden-grund"></span>
+
 ## § 125 Brandspredning til bygninger på anden grund {#a5c4bc03-3ba9-4b09-8f10-3c246d4b17bc}
 
 Byggeri skal placeres i en sådan afstand til skel mod nabo, vej- og stimidte, eller udføres på en sådan måde, at det sikres, at der ikke er risiko for brandspredning til anden grund.
+
+<span id="redningsberedskabets-indsatsmuligheder"></span>
 
 ## § 126 - § 133 Redningsberedskabets indsatsmuligheder {#0875873c-27b3-435c-b6aa-6d7bb2a978d7}
 
@@ -589,6 +615,8 @@ I bygningsafsnit med gulv i øverste etage mere end 22 m over terræn, skal der 
 
 *Stk. 2.* I bygningsafsnit i anvendelseskategori 6, indrettet til sengeliggende eller personer med nedsat mobilitet, f.eks. plejeboliger eller hospitaler, skal der i tilstrækkeligt omfang installeres brandmandselevatorer, som har en sådan størrelse, at de kan anvendes til transport af sygesenge.
 
+<span id="funktionsafprvning-kontrol-og-systemintegrationstest-inden-ibrugtagning"></span>
+
 ## § 134 - § 136 Funktionsafprøvning, kontrol og systemintegrationstest inden ibrugtagning {#e5e5ddee-94f7-4085-8f8b-8526ff18f328}
 
 ### § 134 {#paragraf-134}
@@ -620,6 +648,8 @@ For bygningsafsnit i risikoklasse 2-4 skal funktionsafprøvning og kontrol for f
 Hvor flere brandtekniske installationer skal virke sammen, skal der før ibrugtagning foretages systemintegrationstest, der viser, at det sammenhængende system af installationer har den ønskede funktion.
 
 *Stk. 2.* Systemintegrationstest udføres efter Bygningsreglementets vejledning til kapitel 5 – Brand eller på anden måde, som på tilsvarende vis dokumenterer, at de brandtekniske installationer fungerer efter hensigten. For bygningsafsnit i risikoklasse 2-4 skal systemintegrationstest foretages af et akkrediteret inspektionsorgan, der er akkrediteret i henhold til DS/EN/ ISO/IEC 17020 – Overensstemmelsesvurdering – Krav til forskellige typer af inspektionsorganer.
+
+<span id="drift-kontrol-og-vedligehold-af-brandforhold-i-og-ved-bygninger"></span>
 
 ## § 137 - § 146 Drift, kontrol og vedligehold af brandforhold i og ved bygninger {#485950eb-76a7-424f-a7a9-fa0c55df7ae3}
 
@@ -697,6 +727,8 @@ En drifts-, kontrol- og vedligeholdelsesplan skal udformes, så det sikres, at 
 
 En drifts-, kontrol- og vedligeholdelsesplan, som er udarbejdet i henhold til *Bygningsreglementets vejledning til kapitel 5 - Brand*, anses for at opfylde bestemmelserne i dette afsnit.
 
+<span id="drift-kontrol-og-vedligehold-af-hoteller-mv-plejeinstitutioner-forsamlingslokaler-daginstitutioner-og-lignende-hvor-brugen-af-bygningen-ndvendiggr-srlige-driftsmssige-tiltag-for-at-opretholde-brandsikkerheden-i-bygningen"></span>
+
 ## § 147 - § 150 Drift, kontrol og vedligehold af hoteller mv., plejeinstitutioner, forsamlingslokaler, daginstitutioner og lignende, hvor brugen af bygningen nødvendiggør særlige driftsmæssige tiltag, for at opretholde brandsikkerheden i bygningen {#bb2db309-6347-484f-810d-0f08e44defbd}
 
 ### § 147 {#paragraf-147}
@@ -735,6 +767,8 @@ For bygninger omfattet af § 147, anses en drifts-, kontrol- og vedligeholdelse
 
 For eksisterende bygninger, omfattet af § 147, hvor der ikke inden ibrugtagningstilladelsen er udarbejdet en drifts-, kontrol- og vedligeholdelsesplan, eller hvor den udarbejdede drifts-, kontrol- og vedligeholdelsesplan ikke sikrer opfyldelse af §§ 137-142 og § 148, skal drift, kontrol og vedligehold ske i henhold til Bygningsreglementets vejledning til kapitel 5 - Brand.
 
+<span id="eksisterende-feriehuse-med-flere-end-10-sovepladser-der-anvendes-til-udlejning-samt-eksisterende-kirker"></span>
+
 ## § 151 - § 152 a Eksisterende feriehuse med flere end 10 sovepladser, der anvendes til udlejning, samt eksisterende kirker {#a3ea78d8-d52d-4d35-8388-68ef770d9ccc}
 
 ### § 151 {#paragraf-151}
@@ -750,6 +784,8 @@ I eksisterende kirkerum, som anvendes til kirkelige handlinger, koncerter samt 
 ### § 152 a {#paragraf-152a}
 
 *(Ophævet)*
+
+<span id="industri-og-lagerbygninger-hvor-brugen-af-bygningen-ndvendiggr-srlige-yderligere-driftsmssige-tiltag-for-at-opretholde-brandsikkerheden-i-bygningen"></span>
 
 ## § 153 - § 155 Industri- og lagerbygninger, hvor brugen af bygningen nødvendiggør særlige yderligere driftsmæssige tiltag, for at opretholde brandsikkerheden i bygningen {#44d5ee50-fe38-4fda-8057-ddf9c3560f6e}
 
@@ -775,6 +811,8 @@ En drifts-, kontrol- og vedligeholdelsesplan for bygningsafsnit i § 153 skal ud
 ### § 155 {#paragraf-155}
 
 §§ 153 og 154 anses for opfyldt, hvis drifts-, kontrol- og vedligeholdelsesplanen er udført efter Bygningsreglementets vejledning til kapitel 5 - Brand.
+
+<span id="transportable-konstruktioner-herunder-forsamlingstelte-samt-midlertidige-salgs-og-campingomrader-hvor-brugen-ndvendiggr-yderligere-driftsmssige-tiltag-for-at-opretholde-brandsikkerheden"></span>
 
 ## § 156 - § 158 Transportable konstruktioner, herunder forsamlingstelte, samt midlertidige salgs- og campingområder, hvor brugen nødvendiggør yderligere driftsmæssige tiltag for at opretholde brandsikkerheden. {#d17ae5ea-78fb-40b0-99ab-8cec2d6b41fc}
 

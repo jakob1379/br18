@@ -8,6 +8,8 @@
 
 ## Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder
 
+<span id="_1"></span><span id="_2"></span><span id="forord"></span>
+
 ### Forord {#53aaae9d-a33f-44f1-868e-5c37b9a3decc}
 
 Denne vejledning behandler de forhold der bør overvejes i forbindelse med byggepladsen og udførelse af byggearbejde. Derudover giver vejledningen anbefalinger til planlægning og udførelse af byggearbejder, herunder brandværnsforanstaltninger på byggepladsen, og tiltag til at undgå uacceptable gener på anden grund, og sørge for at fugtfølsomt materiale beskyttes under byggeprocessen.
@@ -26,17 +28,23 @@ Opmærksomheden henledes endvidere på miljølovgivningen, herunder bl.a. bekend
 
 Bekendtgørelse nr. 2107 af 24/11/2021 om bygge- og anlægsarbejder
 
+<span id="ga-til-bekendtgrelsen_2"></span><span id="ga-til-bekendtgrelsen_3"></span>
+
 #### Gå til bekendtgørelsen [](https://www.retsinformation.dk/eli/lta/2021/2107){target="_blank"}
 
 [![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Bekendtgørelse nr. 117 af 05/02/2013 om bygherrens pligter
 
+<span id="_3"></span><span id="_4"></span><span id="ga-til-bekendtgrelsen-ga-til-bekendtgrelsen_3"></span><span id="ga-til-bekendtgrelsen-ga-til-bekendtgrelsen_4"></span><span id="ga-til-bekendtgrelsen-ga-til-bekendtgrelsen_5"></span><span id="ga-til-bekendtgrelsen-ga-til-bekendtgrelsen_6"></span><span id="ga-til-bekendtgrelsen-ga-til-bekendtgrelsen_7"></span><span id="ga-til-bekendtgrelsen-ga-til-bekendtgrelsen_8"></span><span id="ga-til-bekendtgrelsen-ga-til-bekendtgrelsen_9"></span>
+
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/Forms/R0710.aspx?id=145005){target="_blank"}
 
 [![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Bekendtgørelse nr. 110 af 05/02/2013 om projekterendes og rådgiveres pligter m.v. efter lov om arbejdsmiljø
+
+<span id="_5"></span><span id="_6"></span><span id="_7"></span><span id="_8"></span><span id="_9"></span><span id="_10"></span>
 
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/Forms/R0710.aspx?id=145007){target="_blank"}
 
@@ -58,9 +66,13 @@ Bekendtgørelse nr. 844 af 23/06/2017 om miljøregulering af visse aktiviteter
 
 ### 3.0. Brandsikkerhed og brandværnsforanstaltninger {#f19b8b46-936a-435e-8d0d-2f002ee394ed}
 
+<span id="_11"></span><span id="_12"></span><span id="ga-til-cirkulret-ga-til-cirkulret"></span>
+
 ### 3.1. Planlægning af brandsikkerhed på byggepladsen {#7d8caeda-edfb-4882-bcc3-21dde919b965}
 
 ### 3.2. Byggepladsens indretning {#b9e4e9bf-4a1c-4eef-b67a-49e5e018abf4}
+
+<span id="_13"></span><span id="_14"></span><span id="_15"></span><span id="_16"></span><span id="_17"></span><span id="_18"></span>
 
 ### 3.3. Midlertidige afdækning- og inddækning med presenninger og lignende {#f847e171-c5b1-487e-ada7-08ce27947d41}
 
@@ -70,13 +82,19 @@ Bekendtgørelse nr. 844 af 23/06/2017 om miljøregulering af visse aktiviteter
 
 ### 3.6 Evakuering af medarbejdere på byggepladsen {#118a367a-d13b-4d4a-aacd-73955f5d53ea}
 
+<span id="_19"></span><span id="_20"></span>
+
 ### 3.7. Varmt arbejde - herunder brug af åben ild {#a0dfe87a-0555-449a-92ce-500d0caaad68}
 
 ### 3.8. Brandslukningsmateriel {#bdef7a92-de7c-4204-81fa-650d6e1d7971}
 
+<span id="_21"></span><span id="_22"></span><span id="standarden-findes-pa-dansk-i-dansk-standards-webshop-standarden-findes-pa-dansk-i-dansk-standards-webshop"></span>
+
 ### 3.9. Alarmering af redningsberedskabet {#b82ead8b-df5d-45b8-a2eb-669c13aa6c6e}
 
 ### 3.10. Ordensforskrifter {#82057a92-80c0-43bc-9714-90983a48c02b}
+
+<span id="_23"></span><span id="_24"></span><span id="_25"></span><span id="_26"></span><span id="_27"></span><span id="_28"></span><span id="ga-til-bekendtgrelsen-lovbekendtgrelse"></span>
 
 ### 4.0. Gener på anden grund {#6a5d63ae-ad5a-44b3-96d3-3866091d96cc}
 
@@ -88,6 +106,10 @@ Bekendtgørelse nr. 844 af 23/06/2017 om miljøregulering af visse aktiviteter
 
 ### 4.4 Affaldshåndtering {#23f1195f-a206-4a2b-9450-8d7dd767f3b0}
 
+<span id="_29"></span><span id="_30"></span><span id="ga-til-loven"></span><span id="_31"></span><span id="_32"></span><span id="_33"></span><span id="_34"></span>
+
 ### 4.5 Vejoverkørsler {#2f03a7c3-82a4-4cb1-8ace-f925776838cb}
 
 ### 5.0 Hensyn til klimatiske forhold {#21b7bb99-b8b3-43c2-87ca-4d251b1b1419}
+
+<span id="_35"></span><span id="_36"></span>

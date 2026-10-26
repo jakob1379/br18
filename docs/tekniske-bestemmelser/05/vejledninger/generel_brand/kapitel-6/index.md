@@ -26,17 +26,31 @@
 
 ## Bygningsreglementets vejledning til kapitel 5 - Brand
 
+<span id="introduktion"></span>
+
 ### Introduktion {#126605c4-50bc-4134-ab20-7a085edd9883}
+
+<span id="kapitel-1-generelt-om-sikkerhed-ved-brand"></span>
 
 ### Kapitel 1: Generelt om sikkerhed ved brand {#e15e0596-ccfe-4473-8a90-991b537f2b4e}
 
+<span id="kapitel-2-evakuering-og-redning-af-personer"></span>
+
 ### Kapitel 2: Evakuering og redning af personer {#1699eda7-5ffd-4785-b898-be7a314adbfd}
+
+<span id="kapitel-3-brende-konstruktioner"></span>
 
 ### Kapitel 3: Bærende konstruktioner {#21a8a6d0-85bf-4fc2-832f-1f2f95f0eccc}
 
+<span id="kapitel-4-antndelse-brand-og-rgspredning"></span>
+
 ### Kapitel 4: Antændelse, brand- og røgspredning {#86752e2e-2bbf-4b2b-93c2-d90b8f8fd878}
 
+<span id="kapitel-5-redningsberedskabets-indsatsmuligheder"></span>
+
 ### Kapitel 5: Redningsberedskabets indsatsmuligheder {#6e6f9d3e-9da2-4c68-be4a-5b27091e8b77}
+
+<span id="kapitel-6-funktionsafprvning-og-systemintegrationstest"></span>
 
 ### Kapitel 6: Funktionsafprøvning og systemintegrationstest {#c4374610-11aa-4872-8abc-661558122281}
 
@@ -48,6 +62,10 @@ Version 2.1 (04.03.2021)
 
 Version 2.1 (04.03.2021)
 
+<span id="kapitel-7-drift-kontrol-og-vedligehold-af-brandforhold-i-og-ved-bygninger"></span>
+
 ### Kapitel 7: Drift-, kontrol- og vedligehold af brandforhold i og ved bygninger {#4010c176-e2e1-4112-9807-0e9763d39bdf}
+
+<span id="kapitel-8-eftervisning"></span>
 
 ### Kapitel 8: Eftervisning {#dd0fc5e9-9321-4b28-8614-fefb258d8cc6}

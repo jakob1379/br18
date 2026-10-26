@@ -3,6 +3,8 @@
 [Krav](./){ .md-button .md-button--primary }
 [Vejledning](brv/){ .md-button }
 
+<span id="s531-535"></span>
+
 ## § 531 - § 535 Certificerede statikers og brandrådgivers virke {#423a7c0b-72a6-4031-a07e-588d9f623919}
 
 ### § 531 {#paragraf-531}

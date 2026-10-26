@@ -3,6 +3,8 @@
 [Krav](./){ .md-button .md-button--primary }
 [Vejledning](brv/){ .md-button }
 
+<span id="se-alle-krav-om-energiforsyningsanlg-i-tilknytning-til-bygninger-299-328"></span><span id="s299-300"></span>
+
 ## § 299 - § 300 Energiforsyningsanlæg i tilknytning til bygninger {#9586a8eb-8fcd-41e2-ba09-62ad4c2a47c0}
 
 ### § 299 {#paragraf-299}
@@ -35,6 +37,8 @@ Installationer skal projekteres, udføres og installeres:
 
 8\) Så de kan renses, betjenes og vedligeholdes i fornødent omfang. Renseadgange og komponenter, der kræver betjening, eftersyn eller vedligehold, skal være let tilgængelige, så dette kan ske på en hensigtsmæssig og forsvarlig måde.
 
+<span id="generelt-for-fyringsanlg"></span><span id="s301-303"></span>
+
 ## § 301 - § 303 Generelt for fyringsanlæg {#00f4ca18-25bd-4901-ad68-37bd6f0fdd59}
 
 ### § 301 {#paragraf-301}
@@ -53,6 +57,8 @@ Fyringsanlægs forbrændingsrum samt aftrækssystem skal indrettes, så der unde
 
 *Stk. 2.* Kravet kan fraviges for særligt tætte kedler, der er indrettet til overtryksforbrænding og forsynet med tæt aftræk eller er opstillet adskilt fra beboelses- og arbejdsrum i særligt rum med uafspærrelige ventilationsåbninger til det fri.
 
+<span id="brndeovne-masseovne-og-abne-fyringsanlg"></span><span id="brndeovne-masseovne-og-abne-fyringsanlg_1"></span><span id="s304-305"></span>
+
 ## § 304 - § 305 Brændeovne, masseovne og åbne fyringsanlæg {#c70fd37b-2c2a-4b74-9bd5-32b0c6129ba6}
 
 ### § 304 {#paragraf-304}
@@ -62,6 +68,8 @@ Brændeovne, masseovne, åbne fyringsanlæg og lignende, der forsynes med håndb
 ### § 305 {#paragraf-305}
 
 Vandbeholdere i åbne fyringsanlæg og brændeovne skal sikres mod periodevis overophedning og fare for eksplosion i anlægget, og fyringsanlæg, der ikke er automatisk styrede må ikke sluttes til lukkede centralvarmeanlæg. Dette gælder dog ikke, hvis hver kedel (varmeafgivende enhed) forsynes med sikkerhedsventil.
+
+<span id="centralvarmekedler-oliebrndere-mv"></span><span id="centralvarmekedler-oliebrndere-mv_1"></span><span id="centralvarmekedler-oliebrndere-mv_2"></span><span id="s306-313"></span>
 
 ## § 306 - § 313 Centralvarmekedler, oliebrændere mv. {#30d1a09b-64a4-485c-9a10-9dd3fd63d554}
 
@@ -101,6 +109,8 @@ Centralvarmekedler med en nominel ydelse på mere end 120 kW skal forsynes med m
 
 Kommunalbestyrelsen kan stille særlige krav til fyringsanlæg m.m., der benyttes erhvervsmæssigt, samt til halmfyringsanlæg og særlige biobrændselsfyrede centralvarmekedler, hvis disse ikke er omfattet af krav i EU-forordning 2016/426 om apparater, der forbrænder gasformigt brændstof.
 
+<span id="tilslutning-til-aftrkssystem"></span><span id="tilslutning-til-aftrkssystem_1"></span><span id="tilslutning-til-aftrkssystem_2"></span><span id="tilslutning-til-aftrkssystem_3"></span><span id="s314-315"></span>
+
 ## § 314 - § 315 Tilslutning til aftrækssystem {#24d73872-31bf-498e-8840-989899ed386e}
 
 ### § 314 {#paragraf-314}
@@ -122,6 +132,8 @@ Følgende fyringsanlæg skal tilsluttes et selvstændigt aftrækssystem, der ikk
 4\) Fyringsanlæg til erhvervsmæssigt brug samt særlige biobrændselsfyrede anlæg som f.eks. tørringsanlæg for korn, frø og grøntafgrøder, røgeanlæg og varmolieanlæg.
 
 *Stk. 2.* Brændeovne må ikke tilsluttes aftræk fra gasfyrede anlæg og aftræk fra oliefyrede anlæg samt aftrækssystemer, hvortil der er tilsluttet kedler, der er indrettet til overtryksforbrænding.
+
+<span id="aftrkssystemer-til-fyringsanlg"></span><span id="aftrkssystemer-til-fyringsanlg_1"></span><span id="aftrkssystemer-til-fyringsanlg_2"></span><span id="aftrkssystemer-til-fyringsanlg_3"></span><span id="aftrkssystemer-til-fyringsanlg_4"></span><span id="s316-323"></span>
 
 ## § 316 - § 323 Aftrækssystemer til fyringsanlæg {#a094e817-23c7-4d09-a08c-8e484d2f38c2}
 
@@ -171,11 +183,15 @@ Aftrækssystemets overfladetemperatur må under normal drift ikke overstige den 
 
 *Stk. 3.* Stk. 1 gælder ikke den del af aftrækssystemet, der er i rummet, hvor fyringsanlægget er opstillet.
 
+<span id="aftrkssystemer-ved-tagdkning-med-utilstrkkelig-brandmodstandsevne"></span><span id="aftrkssystemer-ved-tagdkning-med-utilstrkkelig-brandmodstandsevne_1"></span><span id="aftrkssystemer-ved-tagdkning-med-utilstrkkelig-brandmodstandsevne_2"></span><span id="aftrkssystemer-ved-tagdkning-med-utilstrkkelig-brandmodstandsevne_3"></span><span id="aftrkssystemer-ved-tagdkning-med-utilstrkkelig-brandmodstandsevne_4"></span><span id="aftrkssystemer-ved-tagdkning-med-utilstrkkelig-brandmodstandsevne_5"></span><span id="s324"></span>
+
 ## § 324 Aftrækssystemer ved tagdækning med utilstrækkelig brandmodstandsevne {#2e3ca9ec-8a9e-480f-8185-4059edaea87e}
 
 ### § 324 {#paragraf-324}
 
 I forbindelse med tagdækninger, som ikke kan klassificeres som tagdækning klasse BROOF(t2) \[klasse T tagdækning\], skal aftrækssystemer udføres og opsættes på en sådan måde, at der opnås tilstrækkelig sikkerhed mod brand.
+
+<span id="vrige-energiforsyningsanlg-solvarme-solcelle-kleanlg-og-varmepumper"></span><span id="vrige-energiforsyningsanlg-solvarme-solcelle-kleanlg-og-varmepumper_1"></span><span id="vrige-energiforsyningsanlg-solvarme-solcelle-kleanlg-og-varmepumper_2"></span><span id="vrige-energiforsyningsanlg-solvarme-solcelle-kleanlg-og-varmepumper_3"></span><span id="vrige-energiforsyningsanlg-solvarme-solcelle-kleanlg-og-varmepumper_4"></span><span id="vrige-energiforsyningsanlg-solvarme-solcelle-kleanlg-og-varmepumper_5"></span><span id="vrige-energiforsyningsanlg-solvarme-solcelle-kleanlg-og-varmepumper_6"></span><span id="s325-327"></span>
 
 ## § 325 - § 327 Øvrige energiforsyningsanlæg: Solvarme-, solcelle-, køleanlæg og varmepumper {#6b327c64-6cfe-4c65-8869-e367726d3b88}
 
@@ -195,6 +211,8 @@ Elforbruget i varmepumper og køleanlæg, der har et årligt elforbrug på mere 
 
 *Stk. 3.* Stk. 1 gælder ikke ved udvidelse af et eksisterende anlæg til f.eks. en tilbygning.
 
+<span id="kontrol"></span><span id="kontrol_1"></span><span id="kontrol_2"></span><span id="kontrol_3"></span><span id="kontrol_4"></span><span id="kontrol_5"></span><span id="kontrol_6"></span><span id="kontrol_7"></span><span id="s327a-327b"></span>
+
 ## § 327a - § 327b Kontrol {#e59a4e92-8d24-4dee-a52a-ec5b2d5b1989}
 
 ### § 327a {#paragraf-327a}
@@ -204,6 +222,8 @@ Der skal gennemføres en funktionsafprøvning af energiforsyningsanlæg baseret 
 ### § 327b {#paragraf-327b}
 
 Der skal gennemføres en funktionsafprøvning af energiforsyningsanlæg i tilknytning til bygninger inden ibrugtagning. Funktionsafprøvningen skal påvise, at anlægget har den forudsatte energimæssige effektivitet.
+
+<span id="drift-og-vedligehold"></span><span id="drift-og-vedligehold_1"></span><span id="drift-og-vedligehold_2"></span><span id="drift-og-vedligehold_3"></span><span id="drift-og-vedligehold_4"></span><span id="drift-og-vedligehold_5"></span><span id="drift-og-vedligehold_6"></span><span id="drift-og-vedligehold_7"></span><span id="drift-og-vedligehold_8"></span><span id="s328"></span>
 
 ## § 328 Drift og vedligehold {#1e157db3-6e1b-47be-bf09-692018d4a6b7}
 

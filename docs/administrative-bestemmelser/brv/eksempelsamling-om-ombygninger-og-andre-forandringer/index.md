@@ -22,6 +22,8 @@
 
 ## Eksempelsamling om ombygninger og andre forandringer - For etageboligbyggeri samt enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse
 
+<span id="kolofon"></span>
+
 ### Kolofon {#f68306c1-c41e-401a-aab2-adb31d6bb0e3}
 
 **Eksempelsamling om ombygninger og andre forandringer - For etageboligbyggeri samt enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse.**   Opdateret januar 2021.

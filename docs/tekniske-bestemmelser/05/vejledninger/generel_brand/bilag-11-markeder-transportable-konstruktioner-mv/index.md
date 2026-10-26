@@ -26,6 +26,8 @@
 
 ## Bilag 11 - Vejledning om udendørsarrangementer, salgsområder, midlertidige opstillinger, midlertidige overnatning og transportable konstruktioner
 
+<span id="bilag-11-til-bygningsreglementets-vejledning-til-kap-5-brand"></span>
+
 ### Bilag 11 til Bygningsreglementets vejledning til kap. 5 – Brand {#14b80f97-df17-4499-b44c-efa225908473}
 
 ## Bilag 11

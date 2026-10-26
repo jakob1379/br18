@@ -1,5 +1,7 @@
 # Bilag 4: Fravigelser af de præ-accepterede løsninger i brandklasse 2, jf. § 493, stk. 1, nr. 2
 
+<span id="fravigelser-af-de-pr-accepterede-lsninger-i-brandklasse-2-jf-493-stk-1-nr-2"></span>
+
 ## Fravigelser af de præ-accepterede løsninger i brandklasse 2, jf. § 493, stk. 1, nr. 2 {#8162df77-d3e8-4fc8-8965-1de8841df7f4}
 
 For byggeri indplaceret i brandklasse 2 kan de præ-accepterede løsninger fraviges som angivet i dette bilag.
@@ -43,6 +45,8 @@ iv\) De bærende konstruktioners brandmodstandsevne og materialeegenskaber.
 v\) Brandtekniske installationer.
 
 Redegørelse for fravigelser udføres som angivet i Bygningsreglementets vejledning til kapitel 5 - Brand, Kapitel 1: Generelt om sikkerhed ved brand.
+
+<span id="_1"></span>
 
 ### Afsnit 2:
 

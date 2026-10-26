@@ -7,7 +7,11 @@
 
 ## Bygningsreglementets vejledning om fugt og vådrum
 
+<span id="_1"></span><span id="_2"></span><span id="_3"></span><span id="miljministeriets-bekendtgrelse-om-spildevandstilladelser"></span><span id="generelt-om-fugt-og-vadrum"></span>
+
 ### Generelt om fugt og vådrum {#cacc9ea9-63fb-42d2-b4e1-448c263cf36d}
+
+<span id="fugt"></span>
 
 ### 1.0. Fugt {#518be76c-4c21-4760-9fae-5c60265b1fd6}
 
@@ -58,5 +62,7 @@ Spildevandstilladelser
 #### Se bekendtgørelsen her [Spildevandsbekendtgørelsen](https://www.retsinformation.dk/eli/lta/2024/532 "Miljøministeriets bekendtgørelse om "){target="_blank"}
 
 - [Gå til krav om Fugt](../../../krav/334_338/#15eef60e-136b-4f8a-88ab-46705ab5ca21){target="_blank"}
+
+<span id="vadrum"></span>
 
 ### 2.0. Vådrum {#19b28c28-7ff7-45b4-aff0-7ca71f849b31}

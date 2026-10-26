@@ -244,6 +244,8 @@ Referencearealet tager udgangspunkt i beregningen til etagearealet, som skal opg
 
 Det fremhæves, at det for de beskrevne områder kun er arealet, der reduceres, og ikke mængderne af materialer. Materialernes mængder indgår stadig med 100 *pct.*, jf. [BR18, bilag 2, tabel 6](../../../../bilag/b2/bilag_2/tabel_6/){rel="noopener noreferrer" target="_blank"}.
 
+<span id="e53ebfa8-1dea-4737-aa53-69c8a848b30c"></span>
+
 #### **1.3.1 Eksempler**
 
 I det følgende er det skitseret, hvordan arealer opgøres i konkrete situationer.
@@ -348,6 +350,8 @@ For at sikre ensartede livscyklusvurderinger med samme afgrænsning for alle byg
 
 I det følgende uddybes, hvordan BR18, bilag 2, tabel 6 skal anvendes i forbindelse med beregningen. Det uddybes også, hvordan man kan opgøre klimapåvirkningerne for visse dele af bygningen, hvor det ikke er muligt at opgøre de enkelte materialer grundet manglende data, jf. [BR18, bilag 2, tabel 7](../../../../bilag/b2/bilag_2/tabel_7/){rel="noopener noreferrer" target="_blank"} (nyt vindue).
 
+<span id="787e83a6-b7d9-4a83-a4be-37574156daef"></span>
+
 #### **1.4.1 Tabellens opbygning og anvendelse**
 
 BR18, bilag 2, tabel 6 er opbygget sådan, at der først er delt op i overordnede bygningskategorier. Hver kategori indeholder en opdeling i typer, og for hver type fremgår de enkelte bygningsdele. Hver bygningsdel har en hovedgruppe og en undergruppe, disse to grupperinger er med som vejledning og er derfor frivillige at benytte. Se et uddrag af tabellen nedenfor.
@@ -371,6 +375,8 @@ Ud over ovenstående excel-baserede skema, er der som supplement udviklet et byg
 Bygningssnittet illustrer under hvilke hovedgrupper de enkelte konstruktioner skal placeres. Eksempelvis placeres murkronens overflader under hovedgruppen "Ydervægge" lige så vel som murkronens primærbygningsdel også placeres under hovedgruppen "ydervægge". Et andet eksempel er Etagedæk hvis primær bygningsdel placeres under hovedgruppen "dæk" og hvis gulvkonstruktion placeres under undergruppen "gulve".
 
 Her er det vigtigt at præcisere, at strukturering af mængder på LCA-beregningens input- side frit kan vælges af LCA-rådgiveren. For standardformatet er det alene afgørende, at der knyttes information om den rette hoved- og undergruppe på den enkelte konstruktion så dokumentationen til myndighederne efterfølgende kan ske i den korrekte struktur.
+
+<span id="_2"></span>
 
 #### ![](../../../../media/dbllr2wk/billede-1.png){width="774" height="398"}
 
@@ -660,6 +666,8 @@ Følgende miljødata fra BR18, bilag 2, tabel 7, vælges:
 |----|----|----|----|----|----|----|
 |  **Materiale** | **ID**  |  **A1-3** |  **C3** |  **C4** |  **D** |  **Funktionel enhed** |
 |  Stål, varmvalset plade, 2-20 mm |  #G0767  |  2,78247 |   |   | -1,50772 |  1 kg  |
+
+<span id="_3"></span>
 
 #### **1.4.13    Eksempel for anvendelse af standardværdier for installatione**r
 

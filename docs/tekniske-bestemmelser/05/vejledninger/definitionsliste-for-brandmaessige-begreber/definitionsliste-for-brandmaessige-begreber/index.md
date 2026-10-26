@@ -26,6 +26,8 @@
 
 ## Definitionsliste for brandmæssige begreber
 
+<span id="klik-her-for-at-abne-definitionsliste-for-brandmssige-begreber"></span>
+
 ### Klik her for at åbne definitionsliste for brandmæssige begreber {#dcd61ab6-4325-454d-96cf-6b9154e30238}
 
 [Åbn definitionsliste for brandmæssige begreber](../../../../../media/nkeltkmk/definitionsliste-for-brandmssige-begreberver-1020240101-a.pdf "Definitionsliste for brandmssige begreberver 1020240101")

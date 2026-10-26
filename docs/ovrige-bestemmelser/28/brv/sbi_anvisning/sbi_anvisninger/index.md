@@ -8,6 +8,8 @@
 
 ## SBi-anvisninger
 
+<span id="sbi-anvisninger_1"></span>
+
 ### SBi-anvisninger {#406d5cc3-991a-40b2-8fa3-5bb67be98cb8}
 
 [![](../../../../../assets/img/linkbox/sbi_anv_linkbox.svg)](#)
@@ -19,6 +21,8 @@ Dokumentation af bærende konstruktioner
 #### Beskrivelse
 
 Denne anvisning beskriver udarbejdelse og kontrol af den dokumentation, der knytter sig til et bygværks bærende konstruktioner i henhold til Bygningsreglement 2015. Anvisningen er rettet mod byggeriets projekterende og udførende parter samt bygherrer og myndigheder. Anvisningen kan også anvendes som lærebog ved ingeniøruddannelser.
+
+<span id="ga-til-anvisningen-se-anvisningen-her_1"></span>
 
 #### Gå til anvisningen [Se anvisningen her](https://sbi.dk/anvisninger/Pages/223-Dokumentation-af-baerende-konstruktioner-2.aspx "SBi-anvisning 223"){target="_blank"}
 

@@ -9,6 +9,8 @@
 
 ## Eksempler på dokumentationsniveau ved ombygningssager
 
+<span id="eksempler-pa-dokumentationsniveau-ved-ombygningssager_1"></span>
+
 ### Eksempler på dokumentationsniveau ved ombygningssager {#a54016f6-df7e-4212-b124-846b6f84e099}
 
 Find eksempler på dokumentationsniveau ved ombygningssager her:  [](../../../../../media/vbelrzbe/2020-10-09-kap-29-eksempler-paa-dokumentationsniveau-ved-ombygningssager-a.pdf "2020-10-09 Kap 29 Eksempler på dokumentationsniveau ved ombygningssager")

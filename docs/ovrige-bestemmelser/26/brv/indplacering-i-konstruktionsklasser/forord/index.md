@@ -8,6 +8,8 @@
 
 ## Vejledning om indplacering i konstruktionsklasser
 
+<span id="forord"></span>
+
 ### Forord {#35e70e33-75c9-456f-aa85-162fac4257b3}
 
 Ved ansøgning om byggetilladelse, skal der, som det nævnes i Bygningsreglementet 2018 (BR18), kapitel 1, § 10 indsendes oplysning om og dokumentation for indplacering i konstruktionsklasse, såfremt det er relevant at indplacere byggeriet i en konstruktionsklasse. Dette er relevant når der er konstruktionsmæssige forhold, der har betydning for sikkerheden i byggeriet. Det afhænger dog altid af en konkret vurdering fra sag til sag. Denne vejledning beskriver, hvorledes bærende konstruktioner og konstruktionsafsnit indplaceres i konstruktionsklasser.

@@ -22,9 +22,15 @@
 
 ## Vejledning til kommunerne om krav til parkering i forbindelse med byggeri
 
+<span id="indledning"></span>
+
 ### Indledning {#f9ceb636-87f6-4541-bb03-da4fb6904eea}
 
+<span id="hvor-findes-de-relevante-regler"></span>
+
 ### 1. Hvor findes de relevante regler {#5742b6d9-ad2d-4fc1-b878-1788e0073f28}
+
+<span id="generelt-om-kommunalbestyrelsens-afgrelse-om-parkeringskrav"></span>
 
 ### 2. Generelt om kommunalbestyrelsens afgørelse om parkeringskrav {#78bc7bba-9f43-4276-b0de-533da73da62f}
 
@@ -42,8 +48,14 @@ Parkeringsbelægningen angives i procent og viser, hvor meget eksisterende parke
 
 Et eksempel på et byggeri, der ikke nødvendigvis øger parkeringsbehovet, er opførelsen af en sportshal i forbindelse med en skole, der kun skal anvendes af skolens elever. Skolen får ved opførelse af en sportshal bedre faciliteter, men der ændres ikke ved antallet af elever eller ansatte tilknyttet skolen, og sportshallen øger derved ikke parkeringsbehovet.
 
+<span id="hvornar-kan-der-stilles-krav-om-parkeringsarealer"></span>
+
 ### 3. Hvornår kan der stilles krav om parkeringsarealer {#2ec5ce08-4b61-48e3-81bf-1a2b7961b811}
 
+<span id="hvornar-kan-der-dispenseres-fra-parkeringskravet"></span>
+
 ### 4. Hvornår kan der dispenseres fra parkeringskravet {#16668d7b-119f-4e55-8338-c8dc88e31245}
+
+<span id="hvornar-kan-der-dispenseres-fra-parkeringsreglerne-pa-betingelse-af-indbetaling-til-parkeringsfond"></span>
 
 ### 5. Hvornår kan der dispenseres fra parkeringsreglerne på betingelse af indbetaling til parkeringsfond {#56e04d3a-2c24-415d-8bb4-92a88961497b}

@@ -7,6 +7,8 @@
 
 ## Vejledning om byggeri i kystnære områder - til bygherrer vedrørende sikring mod stormflod og vandstigninger (opdateret den 1. juli 2023)
 
+<span id="forord"></span>
+
 ### Forord {#08c72ebd-01f7-4a4c-aa26-fb5f9a474a8d}
 
 Vejledningens formål er at identificere og beskrive fokus for den lovgivning, der har til formål at nedbringe risikoen for skader på bygninger i kystnære områder, primært relateret til stormflod og vandstigninger. Desuden præsenteres et udvalg af kendt og tilgængelig viden om de øvrige forhold i relation til stormflod og vandstigninger, som en bygherre i kystnære områder bør orientere sig indenfor.
@@ -25,6 +27,8 @@ Vejledningen er oprindeligt udarbejdet af Statens Byggeforskningsinstitut SBi so
 
  
 
+<span id="indledning"></span>
+
 ### Indledning {#2e7d5587-dd4b-4621-822f-3b7f9a639525}
 
 ### 1.0. Byggetekniske regler og vejledninger {#2285a487-1d03-4122-90ef-239a56e9b213}
@@ -32,6 +36,8 @@ Vejledningen er oprindeligt udarbejdet af Statens Byggeforskningsinstitut SBi so
 ### 1.1. Bygningsreglementet {#4a6e7f16-fa9b-4c86-9cfe-d81c8d6034b3}
 
 ### 1.2. Vejledninger og anvisninger {#12553cac-2147-4990-8ea4-2eadac441f84}
+
+<span id="_1"></span>
 
 ### 2.0. Lovgivning om lokalplanlægning og oversvømmelsesrisiko i forbindelse med kystnært byggeri {#75f08ac2-bbe3-4444-b53b-625fdb733bc3}
 

@@ -8,7 +8,11 @@
 
 ## Vejledning om boligindretning
 
+<span id="kolofon"></span>
+
 ### Kolofon {#818585de-abef-41f2-b417-27010078f7d0}
+
+<span id="forord"></span>
 
 ### Forord {#a65228a9-ae42-48b3-b79b-97cd2de40d36}
 
@@ -42,6 +46,8 @@ En bebyggelse, der indeholder flere forskellige boligstørrelser og boligplaner,
 
 Illustration 05: For at en bolig fungerer optimalt, bør man være opmærksom på dens ganglinjer. Det er de usynlige områder, der er omkring en møblering, eller forbindelsen imellem tilstødende rum og adgang til terrassedøren og hovedindgangen
 
+<span id="_1"></span>
+
 ### 2.5. Boligens rumforløb og rummenes udformning {#bdf8d6bb-12e6-4fa0-b45c-915bcdc0c7b9}
 
 ### 2.6. Dagslysforhold {#d79cf6a3-805b-4e7d-a359-3b318e98482b}
@@ -71,5 +77,7 @@ Illustration 05: For at en bolig fungerer optimalt, bør man være opmærksom p�
 ### 3.6. At sove {#4d77aa18-d434-46d5-83f1-65ed094fd1e7}
 
 ### 3.7. At bade {#9d95ee42-38e2-41d4-ae53-1d23da54a544}
+
+<span id="appendix-litteratur"></span>
 
 ### Appendix: Litteratur {#dad94911-d8be-4830-9756-dcbefa202590}

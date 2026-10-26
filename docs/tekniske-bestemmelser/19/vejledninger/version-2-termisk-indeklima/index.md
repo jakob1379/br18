@@ -7,6 +7,8 @@
 
 ## Bygningsreglementets vejledning om termisk indeklima og installationer til varme- og køleanlæg
 
+<span id="forord"></span>
+
 ### Forord {#e918372c-926c-45f4-a87b-48d3ce39434e}
 
 Bygninger skal planlægges og udføres, så der sikres et tilfredsstillende termisk indeklima i forhold til anvendelsen. Det medfører, at installationer til ventilation og varme- og køleanlæg skal udføres, så de har tilstrækkelig kapacitet til at sikre disse temperaturforhold året rundt.

@@ -40,6 +40,8 @@ I køkkener skal der være plads til, at køkkenarbejde kan foregå på en hensi
 
 For boliger på under 50 m² kan køkken indrettes som kogeniche.
 
+<span id="paragraf-204i"></span>
+
 ### § 204 {#paragraf-204}
 
 I fritliggende enfamiliehuse, etageboliger, boliger i rækkehuse og dobbelthuse mv. skal der indrettes mindst et wc-rum i adgangsetagen, der har en hensigtsmæssig størrelse og indretning, således at der sikres tilstrækkelig fri afstand foran håndvask og wc. Wc-rum skal have håndvask.
@@ -111,6 +113,8 @@ Mindst ét wc-rum, der er indrettet i henhold til § 214, stk. 2, skal placere
 Wc-rum omfattet af § 214 stk. 2, skal ved ombygning indrettes, så det kan benyttes af alle brugere af bygningen. Mindst et wc-rum, der er indrettet efter § 214, skal indrettes i stueetagen eller andre etager med adgang via elevator, lift eller lignende.
 
 *Stk. 2.* Bestemmelsen i § 214, stk. 2, gælder kun ved ombygninger, når der ved ombygningen etableres offentlige tilgængelige wc-rum i stueetagen eller på andre etager med adgang via elevator, lift eller lignende.
+
+<span id="paragraf-217i"></span>
 
 ### § 217 {#paragraf-217}
 

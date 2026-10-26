@@ -22,7 +22,11 @@
 
 ## Vejledning om byggeri over skel
 
+<span id="protected_18"></span><span id="indledning"></span>
+
 ### Indledning {#88b6eabb-b153-4564-841f-230828aee26b}
+
+<span id="i-hvilke-situationer-der-kan-forekomme-byggeri-over-skel"></span>
 
 ### I hvilke situationer der kan forekomme byggeri over skel? {#fc1555fa-b16d-46e7-b9a8-8692cc54b8ba}
 
@@ -37,6 +41,8 @@ Er de ejendomsretlige forhold således afklaret, og er opførelsen af bebyggelse
 *Byggeri over skel beliggende på terræn og under terræn*
 
 Det følger af de almindelige principper om råden over fast ejendom, at nabogrundejeren som udgangspunkt hverken kan råde helt eller delvist over nabogrunden uden samtykke fra ejeren af nabogrunden, når der bygges over skel enten på terræn eller under terræn, jf. ovenstående. Hvor der foreligger et samtykke, skal bebyggelse i øvrigt være i overensstemmelse med byggeloven, herunder bygningsreglementet samt anden lovgivning.
+
+<span id="lovliggrelsessager"></span>
 
 ### Lovliggørelsessager {#25665434-23fc-4004-be61-dfde86ccc3de}
 

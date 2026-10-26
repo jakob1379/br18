@@ -22,11 +22,15 @@
 
 ## Vejledning om transportable telte og konstruktioner
 
+<span id="kolofon"></span>
+
 ### Kolofon {#d647a15c-d038-4740-bcc2-db3eb0333377}
 
 Vejledningen er opdateret januar 2021
 
 Vejledningen er opdateret i overensstemmelse med de ændringer af bygningsreglementet, der trådte i kraft 1. januar 2021 og vedrører bestemmelserne BR18 § 6 b og 6 d.
+
+<span id="bygningsreglementets-vejledning-om-opstilling-af-transportable-konstruktioner-herunder-telte-tribuner-scener-messestande-portaler-tarne-mm"></span>
 
 ### Bygningsreglementets vejledning om opstilling af transportable konstruktioner, herunder telte, tribuner, scener, messestande, portaler, tårne mm. {#a6bb9b39-3f1f-4683-90cf-db38fe480268}
 

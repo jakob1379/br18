@@ -12,7 +12,11 @@ title: Afløb (§ 69 - § 81) – Vejledning
 - [Spørgsmål og svar om afløb](../vejledninger/qa/)
 - [Bygningsreglementets vejledning om afløb](../vejledninger/generel_vejledning/)
 
+<span id="spoergsmaal-og-svar-om-afloeb"></span>
+
 ## Spørgsmål og svar om afløb
+
+<span id="bygningsreglementets-vejledning-om-afloeb"></span><span id="generelt-for-afloebsinstallationer"></span><span id="ds-432"></span><span id="spildevand"></span><span id="regnvand"></span><span id="drift-og-vedligehold-af-afloebsinstallationer"></span>
 
 ### Spørgsmål og svar om afløb {#c09152d4-53de-4dec-aa37-da4b31b27084}
 

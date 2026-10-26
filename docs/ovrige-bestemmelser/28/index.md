@@ -1,3 +1,5 @@
+<span id="s494-505"></span>
+
 # Dokumentation af bærende konstruktioner (§ 494 - § 505)
 
 [Krav](./){ .md-button .md-button--primary }

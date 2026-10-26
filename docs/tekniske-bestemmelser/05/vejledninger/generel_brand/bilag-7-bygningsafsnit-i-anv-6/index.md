@@ -26,6 +26,8 @@
 
 ## Bilag 7 - Præ-accepterede løsninger - Bygningsafsnit, hvor personer ikke kan bringe sig i sikkerhed ved egen hjælp
 
+<span id="bilag-7-til-bygningsreglementets-vejledning-til-kap-5-brand"></span>
+
 ### Bilag 7 til Bygningsreglementets vejledning til kap. 5 – Brand {#30e2f508-2158-4438-ab7e-c7601db028a6}
 
 [Åbn Bilag 7: Præ-accepterede løsninger for bygningsafsnit, hvor personer ikke kan bringe sig i sikkerhed ved egen hjælp](../../../../../media/xk2io24g/bilag-7-anvendelseskategori-6-ver-11-20220111-a.pdf "Bilag 7  Anvendelseskategori 6 ver 11 20220111")

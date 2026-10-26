@@ -15,6 +15,8 @@
 
 ## Vejledning om certificering af statikere og brandrådgivere
 
+<span id="vejledning-om-certificering-af-statikere-og-brandradgivere_1"></span>
+
 ### Vejledning om certificering af statikere og brandrådgivere {#e754c4f4-0a57-49cc-94b8-217ba9a6c927}
 
 [Vejledning om certificering af statikere og brandrådgivere](../../../../../media/zl4jkn1r/vejledning-om-certificering-af-statikere-og-brandraadgivere-22-01-2024-a.pdf "Vejledning om certificering af statikere og brandrådgivere 22-01-2024") (nyt vindue)

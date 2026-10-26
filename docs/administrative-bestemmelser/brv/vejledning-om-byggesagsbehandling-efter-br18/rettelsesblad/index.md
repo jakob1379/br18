@@ -22,11 +22,15 @@
 
 ## Vejledning om byggesagsbehandling efter BR18
 
+<span id="rettelsesblad-til-vejledning-om-byggesagsbehandling-efter-br18-01012024"></span>
+
 ### Rettelsesblad til vejledning om byggesagsbehandling efter BR18 (01.01.2024) {#09b1cdef-c839-4a82-b153-bed20af41bb3}
 
 [Åbn rettelsesblad til vejledning om byggesagsbehandling efter BR18](../../../../media/d3ta5nzm/rettelsesblad-til-vejledning-om-byggesagsbehandling-efter-br18-a.pdf "Rettelsesblad til vejledning om byggesagsbehandling efter BR18")
 
 (01.01.2024)
+
+<span id="kolofon"></span>
 
 ### Kolofon {#b9eb674c-ff6e-42df-8a19-d644bb822492}
 

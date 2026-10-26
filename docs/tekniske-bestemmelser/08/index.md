@@ -3,6 +3,8 @@
 [Krav](./){ .md-button .md-button--primary }
 [Vejledning](brv/){ .md-button }
 
+<span id="s166-167"></span>
+
 ## § 166 - § 167 Byggeret og helhedsvurdering {#9cd4019e-59b9-4c01-9fcc-cb03114a375c}
 
 ### § 166 {#paragraf-166}
@@ -12,6 +14,8 @@ Bestemmelserne i kapitel 8 gælder ikke, hvis en lokalplan, en byplanvedtægt el
 ### § 167 {#paragraf-167}
 
 Beregningsreglerne for de bebyggelsesregulerende forhold fremgår af kapitel 23. Beregningsreglerne i kapitel 23 er selvstændigt gældende og kan ikke ændres ved lokalplan, byplanvedtægt eller reguleringsplan.
+
+<span id="s168-186"></span>
 
 ## § 168 - § 186 Byggeret {#cc9d906d-349e-4970-84c2-8aa8fff56fc9}
 
@@ -174,6 +178,8 @@ For fritliggende færdigproducerede sanitetsbygninger omfattet af § 5, stk. 1, 
 1) den maksimale højde på sanitetsbygningen målt fra terræn ikke overstiger 4,00 m, og
 
 2) mindsteafstand til skel mod nabo og sti ved sommerhuse er 5,00 m og ved øvrigt byggeri 2,50 m.
+
+<span id="s187-195"></span>
 
 ## § 187 - § 195 Helhedsvurdering {#8d7ffa5e-ed08-4539-bd6b-133d50938a9a}
 

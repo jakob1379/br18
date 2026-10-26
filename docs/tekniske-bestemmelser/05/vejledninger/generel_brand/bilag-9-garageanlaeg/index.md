@@ -26,6 +26,8 @@
 
 ## Bilag 9 - Præ-accepterede løsninger - Bygningsafsnit med garageanlæg
 
+<span id="bilag-9-til-bygningsreglementets-vejledning-til-kap-5-brand"></span>
+
 ### Bilag 9 til Bygningsreglementets vejledning til kap. 5 – Brand {#041521fb-63af-403d-b449-b33b67ef56f4}
 
 [Åbn Bilag 9: Præ-accepterede løsninger for brandsikring af bygningsafsnit med garageanlæg](../../../../../media/na5iaxaq/bilag-9-praeaccepterede-loesninger-bygningsafsnit-med-garageanlaeg-01022019-a.pdf)

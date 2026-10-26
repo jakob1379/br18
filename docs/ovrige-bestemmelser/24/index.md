@@ -2,6 +2,8 @@
 
 [Krav](./){ .md-button .md-button--primary }
 
+<span id="s459-460"></span><span id="paragraf-459"></span>
+
 ## § 459 Beskrivelse af kontrolsystem for vand- og afløbsinstallationer {#2d7cbb75-3e38-4b71-a1fc-f738fc4bcfdf}
 
 For fabriksfremstillede produkter, som indgår i vand- og afløbsinstallationer, og som endnu ikke er blevet omfattet af en harmoniseret standard under byggevareforordningen eller en europæisk teknisk vurdering, kræves i forhold til de mekaniske/fysiske egenskaber følgende:
@@ -18,6 +20,8 @@ Fabrikanten skal have sin egen produktionskontrolordning. En produktionskontrolo
    *Stk.* *2.* Fabrikkens produktionskontrol kombinerer produktionsteknik med de midler, som er nødvendige for at vedligeholde og kontrollere produktets overensstemmelse med de relevante tekniske specifikationer.
 
 *Stk. 3.* Produktionskontrollen omfatter både kontrol og test af måleudstyr, råmaterialer, indgående bestanddele, processer, maskiner og produktionsudstyr samt de færdige produkter, herunder deres materialeegenskaber. Endelig omfatter kontrollen anvendelsen af de opnåede resultater.
+
+<span id="s461-463"></span>
 
 ## § 461 - § 463 Krav til produktionskontrollen {#520f0ac9-8f6a-483a-ae73-0e86a86cce2f}
 
@@ -50,6 +54,8 @@ Kontrolforanstaltningerne omfatter et eller flere af følgende tiltag:
 
 *Stk. 2.* Hvis de færdige produkter ikke kontrolleres på markedet, skal fabrikanten sikre, at emballering, håndtering og transport tilrettelægges på en sådan måde, at produktet ikke beskadiges.
 
+<span id="paragraf-464"></span><span id="s464"></span>
+
 ## § 464 Verifikation {#80903883-9fbc-4b3d-8899-91bc323112d0}
 
 Fabrikanten skal enten selv have måleudstyr og personale eller have adgang til det for at udføre de nødvendige verifikationer og prøvninger.
@@ -57,6 +63,8 @@ Fabrikanten skal enten selv have måleudstyr og personale eller have adgang til
 *Stk. 2.* Fabrikanten har ansvaret for, at der gennemføres de nødvendige kalibreringer på måle- og prøvningsudstyret.
 
 *Stk. 3.* Fabrikanten skal kalibrere eller verificere og vedligeholde kontrol-, måle- og prøvningsudstyret i god, brugbar stand for at kunne eftervise produktets overensstemmelse med den fastlagte kvalitet.
+
+<span id="s465-466"></span>
 
 ## § 465 - § 466 Prøvning {#882e9727-6277-4e6d-874e-6d821221c469}
 
@@ -67,6 +75,8 @@ Prøvning skal finde sted efter en fastlagt plan og gennemføres i overensstemme
 ### § 466 {#paragraf-466}
 
 Fabrikanten skal oprette og vedligeholde registreringer, der viser, at prøvning af produktet har fundet sted. Disse registreringer skal vise, at produktet har opfyldt de fastlagte acceptkriterier.
+
+<span id="s467-469"></span>
 
 ## § 467 - § 469 Sikring af overensstemmelse {#7bc06271-3e9f-4084-ab99-8c91b06db5e5}
 
@@ -82,11 +92,15 @@ Produkter og serier af produkter, som ikke er i overensstemmelse med den fastlag
 
 Hvis produktet er leveret, før resultaterne kendes, skal fabrikanten have tilrettelagt en procedure, der sikrer, at kunderne bliver underrettet på en sådan måde, at de nødvendige konsekvenser kan tages.
 
+<span id="paragraf-470"></span><span id="s470"></span>
+
 ## § 470 Fabrikantens register {#e5a3351e-7a8e-4ecd-8898-935981a7e137}
 
 Fabrikkens egen produktionskontrol skal være veldokumenteret hos fabrikanten. Beskrivelse af produktet, dato for fabrikationen, anvendt prøvningsmetode, prøvningsresultater og acceptkriterier skal være registreret med en påtegning af den person, der som kontrolansvarlig har forestået verifikationen.
 
 *Stk. 2.* Fabrikanten skal registrere de korrektioner, der er foretaget for at bringe produktet i overensstemmelse med de fastlagte krav.
+
+<span id="s471-472"></span>
 
 ## § 471 - § 472 Sporbarhed {#64055e4b-c385-49ff-afe9-46d468ccf90c}
 

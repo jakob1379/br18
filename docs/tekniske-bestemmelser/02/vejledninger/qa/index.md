@@ -8,6 +8,8 @@
 
 ## Spørgsmål og svar om adgangsforhold
 
+<span id="sprgsmal-og-svar-61"></span>
+
 ### Spørgsmål og svar § 61 {#d99d64f1-b9b8-4891-b13e-f521731aab02}
 
 [? Er der altid krav om at der i gange, trapper og ramper i fælles adgangsveje skal opsættes håndlister i begge sider?](#d99d64f1-b9b8-4891-b13e-f521731aab02) Det fremgår af bestemmelsen, at der skal opsættes håndlister i begge sider, hvor der evt. ikke er værn. Det fremgår af § 58, at værn skal forsynes med håndlister. Det fremgår desuden af bestemmelsen, at dette skal ske under hensyn til bygningens udformning og anvendelse.

@@ -26,6 +26,8 @@
 
 ## Bilag 12 - Præ-accepterede løsninger - Brandtekniske installationer
 
+<span id="bilag-12-til-bygningsreglementets-vejledning-til-kap-5-brand"></span>
+
 ### Bilag 12 til Bygningsreglementets vejledning til kap. 5 – Brand {#ec9a2e7a-f533-4a64-899e-51613803c8a4}
 
 [Åbn Bilag 12: Præ-accepterede løsninger for brandtekniske installationer og håndslukningsudstyr](../../../../../media/uxep2y1h/bilag-12-ver-11-20210308-a.pdf "Bilag 12 Ver 11 20210308")

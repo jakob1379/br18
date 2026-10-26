@@ -3,6 +3,8 @@
 [Krav](./){ .md-button .md-button--primary }
 [Vejledning](brv/){ .md-button }
 
+<span id="kontrol-af-dokumentation-for-brende-konstruktioner-og-brandforhold"></span>
+
 ## § 523 - § 528 Kontrol af dokumentation for bærende konstruktioner og brandforhold {#8bb1a238-4e6b-465e-acf5-1a471c5d612d}
 
 ### § 523 {#paragraf-523}

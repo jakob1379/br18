@@ -568,6 +568,8 @@ I bygninger med redningsåbninger til brug for redningsberedskabets personrednin
 
 (Ophævet)
 
+<span id="paragraf-130i"></span>
+
 ### § 130 {#paragraf-130}
 
 I bygninger, hvor redningsberedskabets brandslanger ikke kan føres frem af de primære indtrængningsveje som trapper mv., skal der installeres stigrør.

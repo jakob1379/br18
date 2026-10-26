@@ -3,6 +3,8 @@
 [Krav](./){ .md-button .md-button--primary }
 [Vejledning](brv/){ .md-button }
 
+<span id="377-378"></span><span id="paragraf-377"></span>
+
 ## § 377 Lys og udsyn {#eeceaff9-45f0-4acd-957f-60d6f5e556e4}
 
 I bygninger skal der være lysforhold, der sikrer, at der ikke opstår risiko for personers sikkerhed og sundhed, eller komfortmæssige gener. Det skal sikres, at der er tilstrækkeligt dagslys og udsyn samt tilstrækkelig elektrisk belysning i forhold til anvendelsen.
@@ -21,6 +23,8 @@ I bygninger skal der være lysforhold, der sikrer, at der ikke opstår risiko fo
 
 Arbejdsrum, opholdsrum, undervisningslokaler og beboelsesrum mv. skal forsynes med vinduer, der er anbragt, så personer i rummene kan se ud på omgivelserne. Vinduer og solafskærmning skal projekteres og udføres, så det sikres, at der kan opretholdes udsyn til omgivelserne i en tilfredsstillende del af brugstiden.
 
+<span id="379-381"></span>
+
 ## § 379-381 Dagslys {#857b2ac9-edf9-41f4-8b14-c56afb0b5f69}
 
 ### § 379 {#paragraf-379}
@@ -36,6 +40,8 @@ Kravet om tilgang af dagslys kan fraviges, når opfyldelsen vil betyde en afgør
 ### § 381 {#paragraf-381}
 
 Vinduer skal udføres, placeres og eventuelt afskærmes, så solindfald gennem dem ikke medfører overophedning i rummene, og så gener ved direkte solstråling kan undgås.
+
+<span id="382-384"></span>
 
 ## § 382 - § 384 Elektrisk belysning {#b8c72b63-e263-403b-b1f9-67b39fc5b0b7}
 

@@ -22,11 +22,19 @@
 
 ## Vejledning om skorstene og kravet om byggetilladelse
 
+<span id="protected_17s-anvendelsesomrade"></span><span id="skorstene-og-kravet-om-byggetilladelse"></span>
+
 ### Skorstene og kravet om byggetilladelse {#d4d1e57e-0114-4ce8-8001-40b2e5499f2b}
+
+<span id="byggelovens-anvendelsesomrade"></span>
 
 ### Byggelovens anvendelsesområde {#a78eeb5f-3ae6-425a-bd27-69be09299cde}
 
+<span id="krav-om-byggetilladelse"></span>
+
 ### Krav om byggetilladelse {#ff9c43e9-f405-430b-bdf5-c697a8cbcdb6}
+
+<span id="byggeri-uden-krav-om-byggetilladelse"></span>
 
 ### Byggeri uden krav om byggetilladelse {#a6015101-f038-433d-8466-5475f1b73028}
 
@@ -36,10 +44,18 @@ BR18, kap. 1, § 5, stk. 1, nr. 3, bestemmer, at ombygninger af enfamiliehuse, d
 
 BR18, kap. 1, § 5, stk. 1, nr. 4, bestemmer endvidere, at ombygninger og andre forandringer i eksisterende byggeri, som ikke ændrer eller påvirker de bærende konstruktioner, forudsætningerne for bygningens brandstrategi samt bygningens fælles installationer, ligeledes kan udføres uden ansøgning om byggetilladelse. De relevante krav i bygningsreglementet skal dog overholdes.
 
+<span id="byggesagsbehandling"></span>
+
 ### Byggesagsbehandling {#11cb3b94-b100-4df1-80a3-6ede10bcbf0d}
+
+<span id="afslutning-af-en-byggesag"></span>
 
 ### Afslutning af en byggesag {#cc7ad409-372b-4131-b0cd-d6b976fe10e1}
 
+<span id="genibrugtagning"></span>
+
 ### Genibrugtagning {#de4044c9-ed65-4b28-a2cf-d6c7278fc52a}
+
+<span id="kommunen-som-patalepligtig"></span>
 
 ### Kommunen som påtalepligtig {#8f18789b-ddd0-403a-bf98-aaff57ec8781}

@@ -7,6 +7,8 @@
 
 ## Vejledning om udnyttelige tagetager
 
+<span id="vejledning-om-udnyttelige-tagetager_1"></span>
+
 ### Vejledning om udnyttelige tagetager {#0d54c9d2-2465-4f15-80a9-fe026c9f1443}
 
 Vejledning om udnyttelige tagetager

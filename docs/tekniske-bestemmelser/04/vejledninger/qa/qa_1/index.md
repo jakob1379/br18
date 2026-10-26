@@ -7,6 +7,8 @@
 
 ## Spørgsmål og svar om afløb
 
+<span id="hvilke-specifikke-krav-stiller-bygningsreglementet-til-rottesprrer"></span><span id="betyder-formuleringen-tagvand-skal-holdes-pa-egen-grund-at-tagvandet-ikke-ma-fres-til-et-aflbssystem"></span><span id="der-er-kommet-en-nyere-udgave-af-ds-436-end-den-bygningsreglementet-peger-pa-skal-man-stadig-flge-den-gamle"></span><span id="sprgsmal-og-svar-om-aflb_1"></span>
+
 ### Spørgsmål og svar om afløb {#c09152d4-53de-4dec-aa37-da4b31b27084}
 
 [? Hvilke specifikke krav stiller bygningsreglementet til rottespærrer?](#c09152d4-53de-4dec-aa37-da4b31b27084) Bygningsreglementet kræver at rotter hindres i at trænge ud af installationerne og ind i eller under bygningerne. Herudover skal ubenyttede dele af en afløbsinstallation sikres mod indtrængen af rotter ved afpropning. Afpropning skal ske så tæt som muligt ved tilslutningen til den benyttede del af afløbssystemet. Da forholdene for rotter kan variere fra byggesag til byggesag, stiller bygningsreglementet ikke specifikke krav til f.eks. materialevalg i afløbssystemet eller type af evt. rottespærrer. Forhold angående rotter bør koordineres med den lokale kommune, der som myndighed kan rådgive om såvel byggesagen specifikt som rotter generelt. [? Betyder formuleringen ”Tagvand skal holdes på egen grund”, at tagvandet ikke må føres til et afløbssystem?](#c09152d4-53de-4dec-aa37-da4b31b27084)

@@ -7,6 +7,8 @@
 
 ## Bygningsreglementets vejledning om termisk indeklima og installationer til varme- og køleanlæg
 
+<span id="forord"></span>
+
 ### Forord {#e918372c-926c-45f4-a87b-48d3ce39434e}
 
 ### 1.0. Generelt for termisk indeklima {#4c7f27cd-1445-45c9-a65c-2c64a5a14b85}

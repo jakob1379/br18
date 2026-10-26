@@ -978,6 +978,8 @@ Relevante standarder i forbindelse med funktionsafprøvning af elevatorer omfatt
 
 Energieffektivitet for elevatorer, rulletrapper og rullefortov - Del 1: Energimåling og verifikation
 
+<span id="_1"></span>
+
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/s%c3%b8gning/91-140-90-elevatorer-rullende-trapper/ds-en-iso-25745-12012 "DS/EN ISO 25745-1"){target="_blank"}
 
 [![](../../../../assets/img/linkbox/ds_en_iso_linkbox.svg)](#)
@@ -985,6 +987,8 @@ Energieffektivitet for elevatorer, rulletrapper og rullefortov - Del 1: Energim�
 #### DS/EN ISO 25745-2
 
 Elevatorer, rulletrapper og rullefortoves energieffektivitet - Del 2: Beregning af energi for og klassifikation af elevatorer
+
+<span id="_2"></span>
 
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/s%c3%b8gning/91-140-90-elevatorer-rullende-trapper/ds-en-iso-25745-22015 "DS/EN ISO 25745-2"){target="_blank"}
 

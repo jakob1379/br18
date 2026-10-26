@@ -26,6 +26,8 @@
 
 ## Bilag 5 - Præ-accepterede løsninger - Undervisningslokaler
 
+<span id="bilag-5-til-bygningsreglementets-vejledning-til-kap-5-brand"></span>
+
 ### Bilag 5 til Bygningsreglementets vejledning til kap. 5 – Brand {#1de30ae6-34ef-48a0-a1cc-f29e61ca70d2}
 
 [Åbn Bilag 5: Præ-accepterede løsninger for undervisningslokaler mv.](../../../../../../media/cq2biybf/bilag-5-undervisningslokaler-mv-ver-11-20220111-a.pdf "Bilag 5  Undervisningslokaler mv ver 11 20220111")

@@ -14,6 +14,8 @@
 
 ## Bygningsreglementets vejledning om efterisolering
 
+<span id="indledning"></span>
+
 ### Indledning {#60d896ab-1d9b-4893-9fac-631b7b7f4134}
 
 Bygningsreglementets vejledning om efterisolering eksisterer kun som pdf - [Bygningsreglementets vejledning om efterisolering](../../../../media/dccb5w5s/vejledning-om-rentabel-efterisolering-a.pdf "Vejledning om rentabel efterisolering")

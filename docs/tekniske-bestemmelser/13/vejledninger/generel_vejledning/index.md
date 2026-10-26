@@ -2,6 +2,8 @@
 
 ## Bygningsreglementets vejledning om forureninger
 
+<span id="forord"></span>
+
 ### Forord {#eec95c80-5133-4555-93bc-de82458e71df}
 
 Forureninger fra byggematerialer og fra undergrunden er blandt de vigtigste kilder til forureninger i indeklimaet. Det er derfor vigtigt at sikre bygningen mod disse forureninger.
@@ -67,6 +69,8 @@ Der henvises desuden til [jordforureningsloven](https://www.retsinformation.dk/f
 #### DS/EN 1992-1-1
 
 Betonkonstruktioner
+
+<span id="_1"></span>
 
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/Default.aspx?ID=120&q=1992-1-1&status=4&harmonized=BrInstruction "DS/EN 1992-1-1"){target="_blank"}
 

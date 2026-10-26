@@ -3,6 +3,8 @@
 [Krav](./){ .md-button .md-button--primary }
 [Vejledning](brv/){ .md-button }
 
+<span id="s69"></span>
+
 ## § 69 Afløb {#4dcab947-3dab-4037-9777-d974ca3e856f}
 
 Bygninger og udenomsarealer skal have afløb for spildevand, regnvand og vand fra tekniske installationer. Projektering, udførelse, drift og vedligehold af afløbsinstallationer skal ske under hensyn til, at:
@@ -16,6 +18,8 @@ Bygninger og udenomsarealer skal have afløb for spildevand, regnvand og vand fr
 4) Der ikke sker forurening af jord, grundvand, af andre ledningsanlæg eller anden uhensigtsmæssig vandudsivning.
 
 5) Der ikke sker unødigt energiforbrug.
+
+<span id="s70-74"></span>
 
 ## § 70 - § 74 Generelt for afløbsinstallationer {#a87a562c-7839-4266-a536-705be4e65588}
 
@@ -83,6 +87,8 @@ Normen gælder såvel for nye installationer som for ændringer og tilføjelser 
 
 ### [](https://webshop.ds.dk/standard/M336306/ds-432-2020%20 "DS 432"){target="_blank"}
 
+<span id="s75-76"></span>
+
 ## § 75 - § 76 Spildevand {#77a969d9-2418-4885-b8cf-c208d627dfd1}
 
 ### § 75 {#paragraf-75}
@@ -94,6 +100,8 @@ Vandinstallationer med aftapning samt tekniske installationer med f.eks. aftræk
 Højvandslukke til sikring mod oversvømmelser, der installeres i eller uden for bygningen, skal udføres i overensstemmelse med tabel 13 til DS 432 Afløbsinstallationer.
 
 [![](../../assets/img/linkbox/ds_linkbox.svg)](#)
+
+<span id="paragraf-77"></span><span id="paragraf-78"></span><span id="paragraf-79"></span>
 
 ### DS 432
 
@@ -109,11 +117,15 @@ Normen gælder såvel for nye installationer som for ændringer og tilføjelser 
 
 ### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/standard/M336306/ds-432-2020%20 "DS 432"){target="_blank"}
 
+<span id="s77"></span>
+
 ## § 77 Regnvand {#95915809-8c31-4044-b6fc-563f3c8392a5}
 
 Afløb for regnvand skal udføres, så bortledning, nedsivning eller vandansamling ikke medfører risiko for skader på bygninger eller bygningsdele eller andre ulemper, f.eks. gener for trafik.
 
 *Stk. 2.* Tagvand skal holdes på egen grund.
+
+<span id="s78"></span>
 
 ## § 78 Drænvand {#61509430-c2ad-45a3-a482-391e7c60763e}
 
@@ -129,6 +141,8 @@ Nedsættelse af grundvandtryk på bygninger. Beskriver alle parametre for dræni
 
 ### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/standard/16705/ds-436-1993 "DS 436"){target="_blank"}
 
+<span id="s79"></span>
+
 ## § 79 Byggematerialer og produkter {#7f9122ab-0404-449b-b8d7-f5f49ac4cdd2}
 
 Fabriksfremstillede produkter, der indgår i eller tilsluttes afløbsinstallationer, skal for så vidt angår de mekaniske/fysiske karakteristika:
@@ -136,6 +150,8 @@ Fabriksfremstillede produkter, der indgår i eller tilsluttes afløbsinstallatio
 1) være forsynet med CE-mærke, der viser, at produkterne stemmer overens med en harmoniseret standard eller er omfattet af en europæisk teknisk godkendelse med de deklarerede egenskaber, der er relevante for Danmark, eller
 
 2) have gennemgået en afprøvning for de egenskaber, der er relevante for Danmark, og være underlagt en produktionskontrol hos fabrikanten, der sikrer, at den deklarerede ydeevne opretholdes, som beskrevet i [kapitel](../../ovrige-bestemmelser/24/krav/){rel="noopener noreferrer" target="_blank"} [24](../../ovrige-bestemmelser/24/krav/){rel="noopener noreferrer" target="_blank"}[.](../../ovrige-bestemmelser/24/krav/){rel="noopener noreferrer" target="_blank"}
+
+<span id="s80-81"></span>
 
 ## § 80 - § 81 Drift og vedligehold af afløbsinstallationer {#41511b7a-2fe6-4ac5-8825-0d0921a7f31e}
 

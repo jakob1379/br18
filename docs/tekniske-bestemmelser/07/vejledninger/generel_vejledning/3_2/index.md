@@ -8,6 +8,8 @@
 
 ## Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder
 
+<span id="forord"></span>
+
 ### Forord {#53aaae9d-a33f-44f1-868e-5c37b9a3decc}
 
 ### 1.0. Generelt {#ae17a0d2-4078-40c7-9064-6ab09cfc67b2}
@@ -76,11 +78,15 @@ Oplag af brændbart affald kan udgøre en uhensigtsmæssig stor brandbelastning,
 
 Bekendtgørelse nr. 1639 af 06/12/2016 om brandfarlige og brandbare væsker (inklusiv tekniske forskrifter)
 
+<span id="_1"></span><span id="_2"></span>
+
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/Forms/R0710.aspx?id=185816){target="_blank"}
 
 [![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Bekendtgørelse nr. 1444 af 15/12/2010 (med senere ændringer) om tekniske forskrifter for gasser
+
+<span id="_3"></span><span id="_4"></span><span id="_5"></span><span id="_6"></span>
 
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/forms/R0710.aspx?id=134984){target="_blank"}
 

@@ -3,6 +3,8 @@
 [Krav](./){ .md-button .md-button--primary }
 [Vejledning](brv/){ .md-button }
 
+<span id="s334-338"></span>
+
 ## § 334 - § 338 Fugt {#15eef60e-136b-4f8a-88ab-46705ab5ca21}
 
 ### § 334 {#paragraf-334}
@@ -26,6 +28,8 @@ Bygninger skal sikres mod indtrængning af vand fra grundvand og overfladevand. 
 Klimaskærmen skal projekteres, udføres og vedligeholdes, så der er tæthed mod indtrængen af regn og smeltevand, og så det på en forsvarlig måde kan løbe af. Tagvand skal via tagrender og/eller tagnedløb afledes til afløb.
 
 - Gå til BR-vejledning om Fugt og vådrum
+
+<span id="s339"></span>
 
 ## § 339 Vådrum {#eb0ba6a3-9056-4315-aba8-417e17607290}
 

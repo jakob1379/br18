@@ -1,11 +1,17 @@
+<span id="paragraf-367"></span>
+
 # Legepladser mv. (§ 358 - § 367)
 
 [Krav](./){ .md-button .md-button--primary }
 [Vejledning](brv/){ .md-button }
 
+<span id="paragraf-358"></span><span id="paragraf-359"></span><span id="s358"></span>
+
 ## § 358 Legepladser mv. {#e5b70fb8-9e01-4761-a722-71dc702c5f5b}
 
 Projektering, udførelse, drift og vedligehold af legepladsredskaber og -underlag, multisportsudstyr, motionsredskaber i det fri, skateboardbaner og lignende, der er offentligt tilgængelige, skal ske, så der opnås tilfredsstillende sikkerhed mod personskader.
+
+<span id="s359"></span>
 
 ## § 359 Legepladsredskaber- og underlag {#e46aa162-8b77-41eb-a53b-d7eccd0145d8}
 
@@ -20,6 +26,8 @@ Legepladsredskaber skal projekteres i overensstemmelse med:
 7.  DS/EN 1176-10 Legepladsredskaber og -underlag - Del 10: Fuldstændigt lukkede legeredskaber - Supplerende specifikke sikkerhedskrav og prøvningsmetoder.
 8.  DS/EN 1176-11 Legepladsredskaber og -underlag - Del 11: Tredimensionelle klatrenet - Supplerende specifikke sikkerhedskrav og prøvningsmetoder.
 9.  DS/EN 1177 Stødabsorberende legepladsunderlag - Bestemmelse af den kritiske faldhøjde.
+
+<span id="s360-365"></span>
 
 ## § 360 - § 365 Skateboardbaner, parkourredskaber, oppustelige legeredskaber og kunstige klatrevægge og motionsredskaber i det fri {#6da6fa7f-4f46-44a4-8d77-100ec06e97d6}
 
@@ -59,9 +67,13 @@ Motionsredskaber, der også anvendes som legepladsredskaber, skal projekteres, s
 
 For legepladsredskaber og –underlag, multisportsudstyr, motionsredskaber i det fri, skateboardbaner og lignende, der ikke er omfattet af § 359 til § 363, skal det dokumenteres, at der opnås et sikkerhedsniveau, som beskrevet i § 358.
 
+<span id="paragraf-366"></span><span id="s366"></span>
+
 ## § 366 Undtagelser {#6541b307-0484-4112-8e6c-c6502c186513}
 
 § 359 til § 364 kan fraviges, hvis det på anden vis sikres og dokumenteres, at der er tilstrækkelig sikkerhed mod personskader som beskrevet i § 358.
+
+<span id="s367"></span>
 
 ## § 367 Drift, kontrol og vedligehold {#fb1966b1-3276-406c-b5cd-e7ee67bf06df}
 

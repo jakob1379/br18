@@ -3,6 +3,8 @@
 [Krav](./){ .md-button .md-button--primary }
 [Vejledning](brv/){ .md-button }
 
+<span id="s250-298"></span>
+
 ## § 250 Energiforbrug og klimapåvirkning {#a29146ec-a629-4312-83ad-71ef4f1216ed}
 
 ### § 250 {#paragraf-250}

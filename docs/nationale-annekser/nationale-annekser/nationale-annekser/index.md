@@ -1,12 +1,18 @@
 # Nationale annekser til Eurocodes
 
+<span id="de-eurocodes-og-nedenstaende-nationale-annekser-der-skal-anvendes-til-byggeri-fremgar-af-kapitel-15-344-351-det-er-alle-frste-generation-af-eurocodes-anden-generation-af-eurocodes-kan-ikke-anvendes-fr-disse-er-angivet-i-bygningsreglementet-eurocodes-dele-med-udgaver-fra-2022-og-fremefter"></span>
+
 ## De eurocodes og nedenstående nationale annekser, der skal anvendes til byggeri, fremgår af kapitel 15 §§ 344-351. Det er alle første generation af eurocodes. Anden generation af eurocodes kan ikke anvendes, før disse er angivet i bygningsreglementet (eurocodes dele med udgaver fra 2022 og fremefter). {#d7d151f6-c906-4ac5-838a-a695a3df1174}
+
+<span id="eurocode-0-konstruktioners-sikkerhed-en-1990"></span>
 
 ## Eurocode 0 - Konstruktioners sikkerhed (EN 1990) {#8a3801e9-bc48-46ba-bd1d-0df4b3ac99a4}
 
 [DS/EN 1990:2007 DK NA:2024 - Projekteringsgrundlag for bærende konstruktioner](../../../media/c15hi1i4/ds-en-1990-dk-na-2024-rev-2023-12-19-final-version-a.pdf "ds-en-1990-dk-na-2024-rev-2023-12-19-final-version"){rel="noopener" target="_blank"} (nyt vindue)
 
 *English version:* -
+
+<span id="eurocode-1-laster-pa-konstruktioner-en-1991"></span>
 
 ## Eurocode 1 - Laster på konstruktioner (EN 1991) {#1ff7077f-3397-4119-b063-6143697d41c7}
 
@@ -38,6 +44,8 @@
 
 *English version:* [](../../../media/w31j34nz/ds-en-199117-dk-na-2024-rev-20231219-final-version20240701-a.pdf "DS EN 199117 DK NA 2024 rev 20231219 final version20240701")-
 
+<span id="eurocode-2-betonkonstruktioner-en-1992"></span>
+
 ## Eurocode 2 - Betonkonstruktioner (EN 1992) {#250a988d-9412-4690-b9c7-e4b102e1db13}
 
 [DS/EN 1992-1-1+AC:2008 DK NA:2024 - Del 1-1: Generelle regler samt regler for bygningskonstruktioner](../../../media/rtdfjh4m/ds-en-1992-1-1-dk-na-2024_2024-07-01-a.pdf "DS EN 1992-1-1 DK NA 2024_2024-07-01"){rel="noopener" target="_blank"} (nyt vindue)
@@ -53,6 +61,8 @@
 *English version:* [DS/EN 1992-3 DK NA:2010 - Eurocode 2: Design of concrete structures – Part 3: Liquid retaining and containment structures](../../../media/gadmkvlm/ds-en-1992-3-dk-na-2010-english_2024-07-01-a.pdf "DS EN 1992-3 DK NA 2010 English_2024-07-01"){rel="noopener" target="_blank"} (nyt vindue)
 
 [DS/EN 1992-4:2018 DK NA: 2024 - Del 4: Dimensionering af befæstelsesdele til anvendelse i beton](../../../media/ssqfdij2/dsen-1992-4-eurocode-2-betonkonstruktioner-del-4-dimensionering-af-befaestelsesdele-til-anvendelse-i-beton.pdf "DS/EN 1992-4 DK NA: 2024 - Del 4: Dimensionering af befæstelsesdele til anvendelse i beton"){rel="noopener" target="_blank"}
+
+<span id="eurocode-3-stalkonstruktioner-en-1993"></span>
 
 ## Eurocode 3 - Stålkonstruktioner (EN 1993) {#8f022fd7-ad38-4cf1-8ec4-a107d366fdff}
 
@@ -104,6 +114,8 @@ English version: [DS/EN 1993-1-10 DK NA:2019 - Eurocode 3: Design of steel str
 
 *English version:* -
 
+<span id="eurocode-4-kompositkonstruktioner-en-1994"></span>
+
 ## Eurocode 4 - Kompositkonstruktioner (EN 1994) {#00994328-6aef-4b35-8fd8-4a340032c0e9}
 
 [DS/EN 1994-1-1:2007 DK NA:2019 - Del 1-1: Generelle regler og regler for bygningskonstruktioner](../../../media/uxvhyzsx/ds-en-1994-1-1-dk-na-2019_2024-07-01-a.pdf "DS EN 1994-1-1 DK NA 2019_2024-07-01"){rel="noopener" target="_blank"} (nyt vindue)
@@ -114,6 +126,8 @@ English version: [DS/EN 1994-1-1 DK NA:2019 - Part 1-1: General rules and rule
 
 English version: [DS/EN 1994-1-2 DK NA:2011 - Part 1-2: Structural fire design](../../../media/jjxdz3ls/ds-en-1994-1-2-dk-na-2011-english_2024-07-01-a.pdf "DS EN 1994-1-2 DK NA 2011 English_2024-07-01"){rel="noopener" target="_blank"} (nyt vindue)
 
+<span id="eurocode-5-trkonstruktioner-en-1995"></span>
+
 ## Eurocode 5 - Trækonstruktioner (EN 1995) {#9c940521-8d40-4a2e-9d5d-197197e23170}
 
 [DS/EN 1995-1-1+AC:2007 DK NA:2024 - Del 1-1: Generelt - Almindelige regler samt regler for bygningskonstruktioner](../../../media/bntpjiqk/ds-en-1995-1-1-dk-na-2024_01-07-2024-a.pdf "DS EN 1995-1-1 DK NA 2024_01-07-2024"){rel="noopener" target="_blank"} (nyt vindue)
@@ -123,6 +137,8 @@ English version: [](../../../media/yvjl2ejo/ds-en-1995-1-1-dk-na-2019-english_2
 [EN 1995-1-2+AC:2007 DK NA: 2026 - Del 1-2: Generelt - Brandteknisk dimensionering](../../../media/iuyp3kud/ds_en-1995-1-2-dk-na_2026.pdf "DS EN 1995 1 2 DK NA 2026"){rel="noopener" target="_blank"} (nyt vindue)
 
 English version: [](../../../media/kvwh4z5k/ds-en-1995-1-2-dk-na-2007-english_2024-07-01-a.pdf "DS EN 1995-1-2 DK NA 2007 English_2024-07-01")-
+
+<span id="eurocode-6-murvrkskonstruktioner-en-1996"></span>
 
 ## Eurocode 6 - Murværkskonstruktioner (EN 1996) {#22f494ab-d6c1-48f4-b768-4be82f86600c}
 
@@ -138,6 +154,8 @@ English version: [](../../../media/kvwh4z5k/ds-en-1995-1-2-dk-na-2007-english_2
 
 *English version*: [EN 1996-2 DK NA:2021 - Part 2: Design considerations, selection of materials and execution of masonry](../../../media/kabphyui/ds-en-1996-2-dk-na-2021-english_2024-07-01-a.pdf "DS EN 1996-2 DK NA 2021 English_2024-07-01"){rel="noopener" target="_blank"} (nyt vindue)
 
+<span id="eurocode-7-geoteknik-en-1997"></span>
+
 ## Eurocode 7 - Geoteknik (EN 1997) {#f067c8fc-fd92-4ef9-9cbd-ad578aa0fecf}
 
 [DS/EN 1997-1:2007 DK NA:2021 Geoteknik – Del 1: Generelle regler](../../../media/clddubwv/ds-en-1997-1-dk-na-2021_2024-07-01-a.pdf "DS EN 1997-1 DK NA 2021_2024-07-01"){rel="noopener" target="_blank"} (nyt vindue)
@@ -148,11 +166,15 @@ English version: [](../../../media/kvwh4z5k/ds-en-1995-1-2-dk-na-2007-english_2
 
 *English version*: [DS/EN 1997-2 DK NA:2013 - Eurocode 7: Geotechnical design – Part 2: Ground investigation and testing](../../../media/cnnnfvds/ds-en-1997-2-dk-na-2013-english_2027-07-01-a.pdf "DS EN 1997-2 DK NA 2013 English_2027-07-01"){rel="noopener" target="_blank"} (nyt vindue)
 
+<span id="eurocode-8-seismik-en-1998"></span>
+
 ## Eurocode 8 - Seismik (EN 1998) {#cc7caab2-a05f-4039-a4a5-bb1a4fb6be6c}
 
 [DS/EN 1998-1:2005 DK NA:2020 - Del 1: Generelle regler, seismiske påvirkninger og regler for bygninger](../../../media/o0pjpeen/ds-en-1998-1-dk-na-2020_2024-07-01-a.pdf "DS EN 1998-1 DK NA 2020_2024-07-01"){rel="noopener" target="_blank"} (nyt vindue)
 
 *English version*: [DS/EN 1998-1 DK NA:2020 - Part 1: General rules, seismic actions and rules for buildings](../../../media/ng4jlzld/ds-en-1998-1-dk-na-english-2020_2024-07-01-a.pdf "DS EN 1998-1 DK NA English 2020_2024-07-01"){rel="noopener" target="_blank"} (nyt vindue)
+
+<span id="eurocode-9-aluminiumkonstruktioner-en-1999"></span>
 
 ## Eurocode 9 - Aluminiumkonstruktioner (EN 1999) {#a099d62f-37a4-44ed-8fcf-b65ed67d139e}
 
@@ -168,6 +190,8 @@ English version: [](../../../media/kvwh4z5k/ds-en-1995-1-2-dk-na-2007-english_2
 
 *English version*: [DS/EN 1999-1-3 DK NA:2011 - Part 1-3: Structures susceptible to fatigue](../../../media/fisfiris/ds-en-1999-1-3-dk-na-2011-english_2024-07-01-a.pdf "DS EN 1999-1-3 DK NA 2011 English_2024-07-01"){rel="noopener" target="_blank"} (nyt vindue)
 
+<span id="letbeton"></span>
+
 ## Letbeton {#3aa082b8-33ac-4588-aa99-a8ddf3e7fa7a}
 
 [DS/EN 1520 DK NA:2013 Præfabrikerede armerede elementer af letbeton med lette tilslag og åben struktur med bærende eller ikke bærende armering](../../../media/3n1cqje4/ds-en-1520-dk-na-2013_2024-07-01-a.pdf "DS EN 1520 DK NA 2013_2024-07-01"){rel="noopener" target="_blank"} (nyt vindue)
@@ -177,6 +201,8 @@ English version: [](../../../media/kvwh4z5k/ds-en-1995-1-2-dk-na-2007-english_2
 [DS/EN 12602 DK NA:2013](../../../media/51pn4gja/ds-en-12602-dk-na-2013_2024-07-01-a.pdf "DS EN 12602 DK NA 2013_2024-07-01"){rel="noopener" target="_blank"} (nyt vindue)
 
 *English version*: -
+
+<span id="vrige"></span>
 
 ## Øvrige {#7e06e281-ff48-42b8-b59c-58ac01f89289}
 
@@ -199,6 +225,8 @@ DS/EN 13200-6 DK NA: 2014 Tilskuertribuner - Del 6: Demonterbare (midlertidige) 
 [DS/EN 13782 DK NA: 2014 Midlertidige konstruktioner - Telte - Sikkerhed](../../../media/jzepegcf/ds-en-13782-dk-na-2014_2024-07-01-a.pdf "DS EN 13782 DK NA 2014_2024-07-01"){rel="noopener" target="_blank"} (nyt vindue)
 
 English version: [DS/EN 13782 DK NA:2014 - Temporary structures – Tents - Safety](../../../media/s1xnuhsb/ds-en-13782-dk-na-2014-english_2024-07-01-a.pdf "DS EN 13782 DK NA 2014 English_2024-07-01"){rel="noopener" target="_blank"} (nyt vindue)
+
+<span id="gldende-danske-nationale-annekser-til-eurocodes-for-vej-og-banekonstruktioner"></span>
 
 ## Gældende danske nationale annekser til eurocodes for vej- og banekonstruktioner {#0be6f003-c1e2-4035-bbde-5827dfa89787}
 

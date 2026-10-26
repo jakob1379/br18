@@ -15,6 +15,8 @@
 
 ## Vejledning om byggeskadeforsikring
 
+<span id="vejledning-om-byggeskadeforsikring_1"></span>
+
 ### Vejledning om byggeskadeforsikring {#99a14cf9-882d-4fb4-8d5f-ecfa13be5a7d}
 
 [Åbn Vejledning om byggeskadeforsikring](../../../../media/0emf4voh/060824-vejledning-om-byggeskadeforsikring-revideret-juli-2019-rettet-m-lovhenvisning-2024-a.pdf "060824 Vejledning om byggeskadeforsikring  revideret juli 2019  RETTET M LOVHENVISNING 2024")

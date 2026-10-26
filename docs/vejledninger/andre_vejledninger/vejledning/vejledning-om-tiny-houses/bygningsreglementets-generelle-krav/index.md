@@ -17,6 +17,8 @@
 
 ### 1. Baggrund {#1bec0835-0d71-4354-9b97-181e3c759fa0}
 
+<span id="vejledningens-formal"></span><span id="definition-af-tiny-houses"></span><span id="anden-lovgivning"></span>
+
 ### 2. Bygningsreglementets generelle krav {#1cb8a810-acd8-4433-8c46-623f6378dc11}
 
 Kravene i bygningsreglementet skal blandt andet sikre, at et byggeri udføres og indrettes, så det er tilfredsstillende i **brand-, sikkerheds- og sundhedsmæssig** henseende. Disse grundlæggende krav skal et Tiny House som udgangspunkt derfor også altid opfylde.

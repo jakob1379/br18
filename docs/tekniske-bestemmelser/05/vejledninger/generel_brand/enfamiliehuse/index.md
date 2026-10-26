@@ -26,6 +26,8 @@
 
 ## Bilag 1a - Præ-accepterede løsninger - Fritliggende og sammenbyggede enfamiliehuse
 
+<span id="bilag-1a-til-bygningsreglementets-vejledning-til-kap-5-brand"></span>
+
 ### Bilag 1a til Bygningsreglementets vejledning til kap. 5 – Brand {#e0390a7a-f20e-4d44-8760-99aefd1c255b}
 
 [Åbn Bilag 1a: Præ-accepterede løsninger for fritliggende og sammenbyggede enfamiliehuse](../../../../../media/ipzbg42h/bilag-1a-fritliggende-og-sammenbyggede-enfamiliehuse-ver-20-20220103-a.pdf "Bilag 1a  Fritliggende og sammenbyggede enfamiliehuse ver 20 20220103")
