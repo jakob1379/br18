@@ -411,6 +411,24 @@ def _local_view(doc: Path, docs_root: Path, site_dir: Path) -> tuple[ContentPars
     return local, "http://local/" + (doc.relative_to(docs_root).parent.as_posix().strip(".") + "/").lstrip("/")
 
 
+def _view_refs(view: ContentParser, base: str, redirects: dict[str, str]) -> tuple[set[str], set[str], set[str]]:
+    pages, files = _local_refs(view.links, base)
+    return {redirects.get(p, p) for p in pages}, files, _local_refs(view.images, base)[1]
+
+
+def _missing_refs(
+    origin: ContentParser, url: str, docs_root: Path, redirects: dict[str, str], local: tuple[set[str], set[str], set[str]],
+    excluded: set[str], prefix: str = "",
+) -> list[tuple[str, str]]:
+    origin_pages, origin_files = _origin_refs(origin.links, url, docs_root, redirects)
+    origin_images = _origin_refs(origin.images, url, docs_root, redirects)[1]
+    local_pages, local_files, local_images = local
+    diffs = [("missing_link", f"{prefix}docs/{p}") for p in sorted(origin_pages - local_pages - excluded)]
+    diffs += [("missing_image", f"{prefix}docs/{p}") for p in sorted(origin_images - local_images)]
+    diffs += [("missing_file", f"{prefix}docs/{p}") for p in sorted(origin_files - local_files)]
+    return diffs
+
+
 def compare(
     url: str, origin_html: str, docs_root: Path, site_dir: Path, root_url: str | None = None, own_html: str | None = None,
     redirects: dict[str, str] | None = None,
@@ -419,42 +437,33 @@ def compare(
     doc = page_to_doc(urlsplit(url).path, docs_root)
     doc_rel = doc.relative_to(docs_root).as_posix()
     built = _built_page(doc, docs_root, site_dir)
-    if not root_url and not doc.exists():
+    if not doc.exists():
         return [("missing_page", f"docs/{doc_rel}")]
-    if not root_url and not built.exists():
+    if not built.exists():
         return [("missing_page", f"{built.name} not built for docs/{doc_rel}")]
     origin = parse(origin_html, "main", None, ORIGIN_SKIP_CLASSES)
-    views = [_local_view(doc, docs_root, site_dir)] if built.exists() else []
+    views = [_local_view(doc, docs_root, site_dir)]
     excluded = {doc_rel}
     if root_url:
         root_doc = page_to_doc(urlsplit(root_url).path, docs_root)
         views.insert(0, _local_view(root_doc, docs_root, site_dir))
         excluded.add(root_doc.relative_to(docs_root).as_posix())
-    local_pages: set[str] = set()
-    local_files: set[str] = set()
-    local_images: set[str] = set()
-    for view, base in views:
-        pages_, files_ = _local_refs(view.links, base)
-        pages_ = {redirects.get(p, p) for p in pages_}
-        local_pages |= pages_
-        local_files |= files_
-        local_images |= _local_refs(view.images, base)[1]
+    refs = [_view_refs(view, base, redirects) for view, base in views]
+    union = tuple(set().union(*kind) for kind in zip(*refs))
     origin_words = words(ESCAPED_BR.sub(" ", "".join(origin.text)))
     missing_text, extra_text = text_diff(origin_words, words("".join(views[0][0].text)))
-    if root_url and built.exists():
+    own_refs: list[tuple[str, str]] = []
+    if root_url:
         own_words = words("".join(views[-1][0].text))
-        shown = words(ESCAPED_BR.sub(" ", "".join(parse(own_html, "main", None, ORIGIN_SKIP_CLASSES).text))) if own_html else []
+        own_origin = parse(own_html, "main", None, ORIGIN_SKIP_CLASSES) if own_html else None
+        shown = words(ESCAPED_BR.sub(" ", "".join(own_origin.text))) if own_origin else []
         shown_text = f" {' '.join(shown)} "
         extra_text += [f"(own page) {t}" for t in text_diff(origin_words, own_words)[1] if f" {t} " not in shown_text]
-        if own_html:
+        if own_origin:
             missing_text += [f"(own page) {t}" for t in text_diff(shown, own_words)[0]]
-    origin_pages, origin_files = _origin_refs(origin.links, url, docs_root, redirects)
-    origin_images = _origin_refs(origin.images, url, docs_root, redirects)[1]
+            own_refs = _missing_refs(own_origin, url, docs_root, redirects, refs[-1], excluded, "(own page) ")
     diffs = [("missing_text", t) for t in missing_text] + [("extra_text", t) for t in extra_text]
-    diffs += [("missing_link", f"docs/{p}") for p in sorted(origin_pages - local_pages - excluded)]
-    diffs += [("missing_image", f"docs/{p}") for p in sorted(origin_images - local_images)]
-    diffs += [("missing_file", f"docs/{p}") for p in sorted(origin_files - local_files)]
-    return diffs
+    return diffs + _missing_refs(origin, url, docs_root, redirects, union, excluded) + own_refs
 
 
 def alias_roots(pages: dict[str, str]) -> dict[str, str]:

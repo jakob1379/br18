@@ -186,9 +186,11 @@ class AuditTest(unittest.TestCase):
 
         self.assertEqual(result.returncode, 0, self.report.read_text(encoding="utf-8"))
 
-    def guide_site(self, root_text: str, subpage_text: str = "<h3>1.0 Indledning</h3><h3>2.0 Ramper</h3><p>Ramper skal være jævne.</p>") -> Origin:
+    def guide_site(
+        self, root_text: str, subpage_text: str = "<h3>1.0 Indledning</h3><h3>2.0 Ramper</h3><p>Ramper skal være jævne.</p>", ramper: str = ""
+    ) -> Origin:
         guide = "/tekniske-bestemmelser/02/vejledninger/guide/"
-        sections = "<h3>1.0 Indledning</h3><p>Guiden indleder.</p><h3>2.0 Ramper</h3><p>Ramper skal være jævne.</p>"
+        sections = f"<h3>1.0 Indledning</h3><p>Guiden indleder.</p><h3>2.0 Ramper</h3><p>Ramper skal være jævne.{ramper}</p>"
         links = f'<a href="{guide}">Guide</a><a href="{guide}ramper/">Ramper</a>'
 
         def expand(page: str) -> str:
@@ -206,7 +208,7 @@ class AuditTest(unittest.TestCase):
                 guide: origin_page(f"{expand(guide)}<h3>1.0 Indledning</h3><h3>2.0 Ramper</h3>", links),
                 f"{guide}?Layout=ShowAll": origin_page(sections),
                 f"{guide}ramper/": origin_page(
-                    f"{expand(guide + 'ramper/')}<h3>1.0 Indledning</h3><h3>2.0 Ramper</h3><p>Ramper skal være jævne.</p>", links
+                    f"{expand(guide + 'ramper/')}<h3>1.0 Indledning</h3><h3>2.0 Ramper</h3><p>Ramper skal være jævne.{ramper}</p>", links
                 ),
                 f"{guide}ramper/?Layout=ShowAll": origin_page(sections),
             }
@@ -258,6 +260,34 @@ class AuditTest(unittest.TestCase):
         self.assertIn("### https://www.bygningsreglementet.dk/tekniske-bestemmelser/02/vejledninger/guide/ramper/", report)
         self.assertIn("missing_text: (own page) Ramper skal være jævne.", report)
         self.assertNotIn("Guiden indleder", report)
+
+    def test_guide_subpage_without_a_built_page_is_a_missing_page(self) -> None:
+        origin = self.guide_site("<h3>1.0 Indledning</h3><p>Guiden indleder.</p><h3>2.0 Ramper</h3><p>Ramper skal være jævne.</p>")
+        subpage = "tekniske-bestemmelser/02/vejledninger/guide/ramper"
+        (self.corpus.docs / subpage / "index.md").unlink()
+        (self.corpus.site / subpage / "index.html").unlink()
+
+        result = self.audit(origin)
+
+        report = self.report.read_text(encoding="utf-8")
+        self.assertEqual(result.returncode, 1, report)
+        self.assertIn(f"- missing_page: docs/{subpage}/index.md", report)
+
+    def test_guide_subpage_lacking_its_own_download_is_reported(self) -> None:
+        download = ' <a href="/media/ramper.pdf">Hent skema</a>'
+        origin = self.guide_site(
+            f"<h3>1.0 Indledning</h3><p>Guiden indleder.</p><h3>2.0 Ramper</h3><p>Ramper skal være jævne.{download}</p>",
+            "<h3>1.0 Indledning</h3><h3>2.0 Ramper</h3><p>Ramper skal være jævne. Hent skema</p>",
+            ramper=download,
+        )
+
+        result = self.audit(origin)
+
+        report = self.report.read_text(encoding="utf-8")
+        self.assertEqual(result.returncode, 1, report)
+        self.assertIn("### https://www.bygningsreglementet.dk/tekniske-bestemmelser/02/vejledninger/guide/ramper/", report)
+        self.assertIn("- missing_file: (own page) docs/media/ramper.pdf", report)
+        self.assertNotIn("### https://www.bygningsreglementet.dk/tekniske-bestemmelser/02/vejledninger/guide/\n", report)
 
     def test_section_only_subpage_matching_its_own_origin_page_is_clean(self) -> None:
         guide = "/tekniske-bestemmelser/21/vejledninger/guide/"
