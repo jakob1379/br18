@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import argparse
 import hashlib
+import html
 import json
 import os
 import re
@@ -68,6 +69,9 @@ TYPOGRAPHY = str.maketrans({"\u201c": '"', "\u201d": '"', "\u201e": '"', "\u00ab
 LIST_MARKER = re.compile(r"^\(?(\d{1,3}|[a-zæøå]|[ivxl]{1,5})[.)]$", re.IGNORECASE)
 SIGNIFICANT = re.compile(r"[\w*_`\\#@\[\]{}<>|~^]")
 ESCAPED_BR = re.compile(r"<br\s*/?>", re.IGNORECASE)
+TITLE_RE = re.compile(r"<title>(.*?)</title>", re.IGNORECASE | re.DOTALL)
+H1_RE = re.compile(r"<h1\b[^>]*>(.*?)</h1>", re.IGNORECASE | re.DOTALL)
+TITLE_SUFFIX = " | BR18"
 
 
 class ContentParser(HTMLParser):
@@ -144,6 +148,14 @@ def parse(html_text: str, root_tag: str, root_class: str | None, skip_classes: s
 def words(text: str) -> list[str]:
     text = unicodedata.normalize("NFKC", text).translate(TYPOGRAPHY)
     return [w for w in text.split() if not LIST_MARKER.match(w)]
+
+
+def page_title(html_text: str) -> str:
+    def text(m: re.Match[str] | None) -> str:
+        return " ".join(html.unescape(re.sub(r"<[^>]*>|¶", "", m.group(1))).split()) if m else ""
+
+    title = text(TITLE_RE.search(html_text)).removesuffix(TITLE_SUFFIX)
+    return text(H1_RE.search(html_text)) if title in ("", TITLE_SUFFIX.strip(" |")) else title
 
 
 def text_diff(origin: list[str], local: list[str]) -> tuple[list[str], list[str]]:
@@ -463,6 +475,9 @@ def compare(
             missing_text += [f"(own page) {t}" for t in text_diff(shown, own_words)[0]]
             own_refs = _missing_refs(own_origin, url, docs_root, redirects, refs[-1], excluded, "(own page) ")
     diffs = [("missing_text", t) for t in missing_text] + [("extra_text", t) for t in extra_text]
+    origin_title, local_title = page_title(own_html or origin_html), page_title(built.read_text(encoding="utf-8", errors="replace"))
+    if len({unicodedata.normalize("NFKC", t).translate(TYPOGRAPHY) for t in (origin_title, local_title)}) > 1:
+        diffs.insert(0, ("wrong_title", f"{local_title} (origin: {origin_title})"))
     return diffs + _missing_refs(origin, url, docs_root, redirects, union, excluded) + own_refs
 
 
@@ -477,7 +492,7 @@ def alias_roots(pages: dict[str, str]) -> dict[str, str]:
     return roots
 
 
-KINDS = ("missing_page", "missing_text", "extra_text", "missing_link", "missing_image", "missing_file")
+KINDS = ("missing_page", "wrong_title", "missing_text", "extra_text", "missing_link", "missing_image", "missing_file")
 
 
 def load_allowlist(path: Path) -> list[dict]:

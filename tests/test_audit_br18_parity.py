@@ -11,8 +11,8 @@ from pathlib import Path
 SCRIPT = Path(__file__).resolve().parent.parent / "scripts" / "audit_br18_parity.py"
 
 
-def origin_page(body: str, links: str = "") -> str:
-    return f"""<!doctype html><html><head><title>t</title></head><body>
+def origin_page(body: str, links: str = "", title: str = "BR18") -> str:
+    return f"""<!doctype html><html><head><title>{title}</title></head><body>
 <div class="cookie-button">Vi bruger cookies</div>
 <header><a href="/">Forside</a>{links}</header>
 <main>
@@ -23,8 +23,8 @@ def origin_page(body: str, links: str = "") -> str:
 </body></html>"""
 
 
-def local_page(body: str) -> str:
-    return f"""<!doctype html><html><body>
+def local_page(body: str, title: str = "") -> str:
+    return f"""<!doctype html><html><head><title>{title}</title></head><body>
 <nav class="md-nav">Navigation</nav>
 <article class="md-content__inner md-typeset">
 {body}
@@ -407,6 +407,31 @@ class AuditTest(unittest.TestCase):
         self.assertIn("- missing_page: docs/tekniske-bestemmelser/16/vejledninger/index.md", report)
         self.assertNotIn("/tekniske-bestemmelser/16/: HTTP", report)
         self.assertNotIn("/tekniske-bestemmelser/: HTTP", report)
+
+    def test_page_title_differing_from_the_origin_title_is_reported(self) -> None:
+        origin = self.two_page_site()
+        chapter = "/tekniske-bestemmelser/02/krav/"
+        body = "<h1>Adgangsforhold</h1><p>Bygninger skal have adgangsforhold.</p>"
+        origin.pages[chapter] = origin_page(body, title="Adgangsforhold (§ 48 - § 62) | BR18")
+        self.corpus.add("tekniske-bestemmelser/02", local_page(body, "2 Adgangsforhold (§ 48 - § 62) | BR18"))
+
+        result = self.audit(origin)
+
+        report = self.report.read_text(encoding="utf-8")
+        self.assertEqual(result.returncode, 1, report)
+        self.assertIn("- wrong_title: 2 Adgangsforhold (§ 48 - § 62) (origin: Adgangsforhold (§ 48 - § 62))", report)
+
+    def test_page_without_its_own_origin_title_is_titled_by_its_heading(self) -> None:
+        origin = self.two_page_site()
+        chapter = "/tekniske-bestemmelser/02/krav/"
+        body = "<h1>Adgangsforhold</h1><p>Bygninger skal have adgangsforhold.</p>"
+        origin.pages[chapter] = origin_page(body, title="BR18")
+        self.corpus.add("tekniske-bestemmelser/02", local_page('<h1>Adgangsforhold<a class="headerlink" href="#a">¶</a></h1><p>Bygninger skal have adgangsforhold.</p>', "Adgangsforhold | BR18"))
+
+        result = self.audit(origin)
+
+        report = self.report.read_text(encoding="utf-8")
+        self.assertEqual(result.returncode, 0, report)
 
     def test_section_scope_reports_only_that_section(self) -> None:
         origin = self.two_page_site()
