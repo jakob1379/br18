@@ -132,6 +132,23 @@ class BuildCheckTest(unittest.TestCase):
         self.assertNotEqual(result.returncode, 0)
         self.assertIn("case-insensitive path collisions", result.stderr)
 
+    def test_non_ascii_case_collision_fails(self) -> None:
+        result = self.build("# Forside\n", files={"Ølejr/index.md": "# Ø\n", "ølejr/index.md": "# ø\n"})
+
+        self.assertNotEqual(result.returncode, 0)
+        self.assertIn("case-insensitive path collisions", result.stderr)
+
+    def test_composed_and_decomposed_spelling_of_one_name_collide(self) -> None:
+        result = self.build("# Forside\n", files={"bl\u00e5/index.md": "# NFC\n", "bla\u030a/index.md": "# NFD\n"})
+
+        self.assertNotEqual(result.returncode, 0)
+        self.assertIn("case-insensitive path collisions", result.stderr)
+
+    def test_distinct_non_ascii_names_pass(self) -> None:
+        result = self.build("# Forside\n", files={"ølejr/index.md": "# ø\n", "olejr/index.md": "# o\n", "straße/index.md": "# ß\n"})
+
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+
     def test_query_string_filename_fails(self) -> None:
         result = self.build("# Forside\n", files={"media/logo.png?v=2": "png"})
 

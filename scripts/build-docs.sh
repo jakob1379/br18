@@ -6,7 +6,13 @@ site_dir="${SITE_DIR:-site}"
 
 cd "$repo_root"
 
-collisions="$(find docs | LC_ALL=C sort -f | LC_ALL=C uniq -Di)"
+collisions="$(find docs | uv run python -c '
+import collections, sys, unicodedata
+names = collections.defaultdict(list)
+for path in sys.stdin.read().splitlines():
+    names[unicodedata.normalize("NFC", unicodedata.normalize("NFD", path).casefold())].append(path)
+print("\n".join(path for paths in names.values() if len(paths) > 1 for path in sorted(paths)))
+')"
 if [[ -n "$collisions" ]]; then
   echo "case-insensitive path collisions in docs/:" >&2
   echo "$collisions" >&2
