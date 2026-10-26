@@ -1,5 +1,5 @@
 ---
-title: Lydforhold (§ 368 - § 376) – Vejledning
+title: "Lydforhold (§ 368 - § 376)"
 ---
 
 # Lydforhold (§ 368 - § 376)

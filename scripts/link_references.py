@@ -1,22 +1,4 @@
 #!/usr/bin/env python3
-"""Link each cross-reference in the corpus to its true target, or leave it unlinked and list it.
-
-A deterministic regeneration step (same corpus + data files -> same bytes; a second run is a no-op).
-References: `§ N` (with stk./nr./litra/pkt., ranges and lists), `kapitel N`, `bilag N[, tabel M]`.
-
-Which law a § reference means, first match wins: the instrument named next to it (BR18 before it, a law
-name or genitive before it, `i <law>` after the whole list; conflicting signals leave it unlinked); for a
-reference that names none, a reviewed override (xref-overrides.toml), else the page's default (regulation
-pages are BR18, guides per xref-page-scope.toml, unlisted guides: none), where an uppercase letter suffix
-is never BR18.
-BR18 targets are the chapter's krav page headings (the same page when it has the heading); other laws
-link their current version on retsinformation.dk (xref-laws.toml) at a fragment id cached there.
-Headings, existing links, code, HTML tags and attribute lists are never touched; in raw HTML blocks the
-link is an `<a class="br18-ref">`, elsewhere `[..](..){ .br18-ref }`.
-
-Uncertain references are written to xref-unresolved.tsv; the run fails if that list would grow
-(delete the file to accept a new baseline) or if an override no longer matches its page.
-"""
 
 from __future__ import annotations
 
@@ -30,16 +12,16 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
 BR18 = "br18"
-OTHER = "other"
-S = r"[ \t ]"
-L = "a-zæøåA-ZÆØÅ"
+OTHER_INSTRUMENT = "other"
+INLINE_SPACE = r"[ \t ]"
+LETTER_CHARS = "a-zæøåA-ZÆØÅ"
 
 REGULATION_PAGE_RE = re.compile(
     r"^(?:(?:administrative-bestemmelser|(?:tekniske-bestemmelser|ovrige-bestemmelser|straf-og-ikrafttraedelse)/\d\d)/(?:index\.md|krav/.*)|bilag/b\d/bilag_\d/.*)$"
 )
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.*?)\s*(?:\{#([^}\s]+)[^}]*\})?\s*$")
-SECTION_HEADING_RE = re.compile(rf"^§{S}*(\d+){S}?([a-zæøå])?(?![{L}\d])(?:{S}*[-–]{S}*§{S}*(\d+){S}?([a-zæøå])?(?![{L}\d]))?")
-CHAPTER_RANGE_RE = re.compile(rf"\(§{S}*(\d+){S}?([a-z])?{S}*[-–]{S}*§{S}*(\d+){S}?([a-z])?\)\s*$")
+SECTION_HEADING_RE = re.compile(rf"^§{INLINE_SPACE}*(\d+){INLINE_SPACE}?([a-zæøå])?(?![{LETTER_CHARS}\d])(?:{INLINE_SPACE}*[-–]{INLINE_SPACE}*§{INLINE_SPACE}*(\d+){INLINE_SPACE}?([a-zæøå])?(?![{LETTER_CHARS}\d]))?")
+CHAPTER_RANGE_RE = re.compile(rf"\(§{INLINE_SPACE}*(\d+){INLINE_SPACE}?([a-z])?{INLINE_SPACE}*[-–]{INLINE_SPACE}*§{INLINE_SPACE}*(\d+){INLINE_SPACE}?([a-z])?\)\s*$")
 TABLE_HEADING_RE = re.compile(r"^[Tt]abel\s+(\d+[a-z]?)(?![\w.])")
 BLOCK_TAG_RE = re.compile(r"^\s{0,3}<(table|div|p|ul|ol|li|dl|tr|td|th|thead|tbody|blockquote|section|details|figure|center)\b", re.I)
 PROTECTED_RE = re.compile(
@@ -55,28 +37,28 @@ FENCE_RE = re.compile(r"^\s*(```|~~~)")
 SKIP_LINE_RE = re.compile(r"^\s{0,3}(?:#{1,6}\s|\*\[|[=-]{3,}\s*$|\|?\s*:?-{3,})")
 
 SECTION_SIGN_RE = re.compile(r"§§?")
-NUMBER_RE = re.compile(rf"{S}*(\d+)(?![\d])(?![.,]\d)")
-LETTER_RE = re.compile(rf"({S}?)([{L}])(?![{L}\d])")
-RANGE_SEP_RE = re.compile(rf"{S}*(?:-|–|—|{S}til{S}){S}*(§{S}*)?")
-NUMBERS = rf"\d+(?![\d]|\.{S}*pkt)(?:{S}*(?:-|–|,{S}*(?:og|eller)?|og|eller){S}*\d+(?![\d]|\.{S}*pkt))*"
+NUMBER_RE = re.compile(rf"{INLINE_SPACE}*(\d+)(?![\d])(?![.,]\d)")
+LETTER_RE = re.compile(rf"({INLINE_SPACE}?)([{LETTER_CHARS}])(?![{LETTER_CHARS}\d])")
+RANGE_SEP_RE = re.compile(rf"{INLINE_SPACE}*(?:-|–|—|{INLINE_SPACE}til{INLINE_SPACE}){INLINE_SPACE}*(§{INLINE_SPACE}*)?")
+NUMBERS = rf"\d+(?![\d]|\.{INLINE_SPACE}*pkt)(?:{INLINE_SPACE}*(?:-|–|,{INLINE_SPACE}*(?:og|eller)?|og|eller){INLINE_SPACE}*\d+(?![\d]|\.{INLINE_SPACE}*pkt))*"
 TAIL_RE = re.compile(
-    rf",?{S}*(?:(?:(?:og|eller){S}+)?stk\.{S}*{NUMBERS}|(?:(?:og|eller){S}+)?nr\.{S}*{NUMBERS}|litra{S}+[a-zæø](?![\wæøå])(?:{S}*(?:,|og|eller|-){S}*[a-zæø](?![\wæøå]))*|\d+\.{S}*(?:pkt|punktum)\.?)"
+    rf",?{INLINE_SPACE}*(?:(?:(?:og|eller){INLINE_SPACE}+)?stk\.{INLINE_SPACE}*{NUMBERS}|(?:(?:og|eller){INLINE_SPACE}+)?nr\.{INLINE_SPACE}*{NUMBERS}|litra{INLINE_SPACE}+[a-zæø](?![\wæøå])(?:{INLINE_SPACE}*(?:,|og|eller|-){INLINE_SPACE}*[a-zæø](?![\wæøå]))*|\d+\.{INLINE_SPACE}*(?:pkt|punktum)\.?)"
 )
-STK_LIST_RE = re.compile(rf"(?:stk|nr)\.{S}*\d+{S}*(?:,|og|eller){S}*\d")
-LIST_SEP_RE = re.compile(rf"{S}*,{S}*(?:(?:og|eller|samt){S}+)?|{S}+(?:og|eller|samt){S}+")
-BARE_END_RE = re.compile(rf"{S}*(?:[,.;:)\]]|$|,?{S}*stk\.)")
-CHAPTER_RE = re.compile(rf"\b([Kk]apitel|[Kk]ap\.){S}*(\d{{1,2}})(?![\d]|[.,]\d)")
-ANNEX_RE = re.compile(rf"\b[Bb]ilag{S}+(\d{{1,2}})(?![\d]|[.,]\d)(?:{S}*,?{S}*[Tt]abel{S}+(\d+[a-z]?)(?![\w]|\.\d))?")
-CHAPTER_TOPIC_RE = re.compile(rf"{S}*(?:om{S}+|[–:-]{S}*|vedr\.{S}+|vedrørende{S}+|\({S}*)?[\"”“]?([{L}]+)")
-MORE_RE = re.compile(rf"(?:{S}*,{S}*(?:(?:og|eller){S}+)?|{S}+(?:og|eller){S}+)(\d{{1,2}}[a-z]?)(?![\w]|[.,]\d|\.{S}*pkt)")
-RANGE_TAIL_RE = re.compile(rf"{S}*[-–]{S}*(\d{{1,2}})(?![\d]|[.,]\d)")
+STK_LIST_RE = re.compile(rf"(?:stk|nr)\.{INLINE_SPACE}*\d+{INLINE_SPACE}*(?:,|og|eller){INLINE_SPACE}*\d")
+LIST_SEP_RE = re.compile(rf"{INLINE_SPACE}*,{INLINE_SPACE}*(?:(?:og|eller|samt){INLINE_SPACE}+)?|{INLINE_SPACE}+(?:og|eller|samt){INLINE_SPACE}+")
+BARE_END_RE = re.compile(rf"{INLINE_SPACE}*(?:[,.;:)\]]|$|,?{INLINE_SPACE}*stk\.)")
+CHAPTER_RE = re.compile(rf"\b([Kk]apitel|[Kk]ap\.){INLINE_SPACE}*(\d{{1,2}})(?![\d]|[.,]\d)")
+ANNEX_RE = re.compile(rf"\b[Bb]ilag{INLINE_SPACE}+(\d{{1,2}})(?![\d]|[.,]\d)(?:{INLINE_SPACE}*,?{INLINE_SPACE}*[Tt]abel{INLINE_SPACE}+(\d+[a-z]?)(?![\w]|\.\d))?")
+CHAPTER_TOPIC_RE = re.compile(rf"{INLINE_SPACE}*(?:om{INLINE_SPACE}+|[–:-]{INLINE_SPACE}*|vedr\.{INLINE_SPACE}+|vedrørende{INLINE_SPACE}+|\({INLINE_SPACE}*)?[\"”“]?([{LETTER_CHARS}]+)")
+MORE_RE = re.compile(rf"(?:{INLINE_SPACE}*,{INLINE_SPACE}*(?:(?:og|eller){INLINE_SPACE}+)?|{INLINE_SPACE}+(?:og|eller){INLINE_SPACE}+)(\d{{1,2}}[a-z]?)(?![\w]|[.,]\d|\.{INLINE_SPACE}*pkt)")
+RANGE_TAIL_RE = re.compile(rf"{INLINE_SPACE}*[-–]{INLINE_SPACE}*(\d{{1,2}})(?![\d]|[.,]\d)")
 
 BR18_BEFORE_RE = re.compile(
-    rf"(?:\bBR{S}?18s?|\bbygningsreglement(?:et|ets){S}*(?:2018)?|\breglementets){S}*(?:\(BR{S}?18\))?{S}*,?{S}*(?:(?:kap\.|kapitel){S}*\d+{S}*,?{S}*)?$",
+    rf"(?:\bBR{INLINE_SPACE}?18s?|\bbygningsreglement(?:et|ets){INLINE_SPACE}*(?:2018)?|\breglementets){INLINE_SPACE}*(?:\(BR{INLINE_SPACE}?18\))?{INLINE_SPACE}*,?{INLINE_SPACE}*(?:(?:kap\.|kapitel){INLINE_SPACE}*\d+{INLINE_SPACE}*,?{INLINE_SPACE}*)?$",
     re.I,
 )
-BR18_AFTER_RE = re.compile(rf"^{S}*,?{S}*(?:i|efter){S}+(?:dette{S}+)?(?:bygningsreglement(?:et)?\b|BR{S}?18\b)", re.I)
-GENITIVE_RE = re.compile(rf"([{L}][{L}\-]{{2,}}s){S}*,?{S}*$")
+BR18_AFTER_RE = re.compile(rf"^{INLINE_SPACE}*,?{INLINE_SPACE}*(?:i|efter){INLINE_SPACE}+(?:dette{INLINE_SPACE}+)?(?:bygningsreglement(?:et)?\b|BR{INLINE_SPACE}?18\b)", re.I)
+GENITIVE_RE = re.compile(rf"([{LETTER_CHARS}][{LETTER_CHARS}\-]{{2,}}s){INLINE_SPACE}*,?{INLINE_SPACE}*$")
 NOT_GENITIVE = {
     "hvis", "mens", "henholdsvis", "dels", "tværs", "indtil", "ifølge", "bortses", "anvendes", "angives",
     "nævnes", "fastsættes", "opfyldes", "henvises", "kræves", "følges", "gælds", "ses", "findes", "skønnes",
@@ -84,16 +66,16 @@ NOT_GENITIVE = {
     "reglementets", "br18s", "kapitels", "stks",
 }
 INSTRUMENT_BEFORE_RE = re.compile(
-    rf"(?:loven|lov|lovs|bekendtgørelsen|bekendtgørelse|cirkulæret|cirkulære|forordningen|forordning|direktivet|direktiv|reglementet|vedtægten|regulativet|m\.v\.|mv\.|\b(?:19|20)\d\d){S}*,?{S}*$",
+    rf"(?:loven|lov|lovs|bekendtgørelsen|bekendtgørelse|cirkulæret|cirkulære|forordningen|forordning|direktivet|direktiv|reglementet|vedtægten|regulativet|m\.v\.|mv\.|\b(?:19|20)\d\d){INLINE_SPACE}*,?{INLINE_SPACE}*$",
     re.I,
 )
 INSTRUMENT_AFTER_RE = re.compile(
-    rf"^{S}*,?{S}*(?:i|efter|til){S}+(?:den{S}+|denne{S}+|dette{S}+|nævnte{S}+|samme{S}+|gældende{S}+)*"
-    rf"(?:[\w\-]*lov(?:en|ens|s)?\b|lov{S}+(?:om|nr)|[\w\-]*bekendtgørelse|[\w\-]*cirkulære|forordning|direktiv|(?-i:DS|EN|ISO|SBi)\b|[\w\-]*vejledning|rapport|regulativ|standard|anvisning|(?-i:[A-ZÆØÅ][\w\-]*s)\b)",
+    rf"^{INLINE_SPACE}*,?{INLINE_SPACE}*(?:i|efter|til){INLINE_SPACE}+(?:den{INLINE_SPACE}+|denne{INLINE_SPACE}+|dette{INLINE_SPACE}+|nævnte{INLINE_SPACE}+|samme{INLINE_SPACE}+|gældende{INLINE_SPACE}+)*"
+    rf"(?:[\w\-]*lov(?:en|ens|s)?\b|lov{INLINE_SPACE}+(?:om|nr)|[\w\-]*bekendtgørelse|[\w\-]*cirkulære|forordning|direktiv|(?-i:DS|EN|ISO|SBi)\b|[\w\-]*vejledning|rapport|regulativ|standard|anvisning|(?-i:[A-ZÆØÅ][\w\-]*s)\b)",
     re.I,
 )
-GUIDE_TITLE_BEFORE_RE = re.compile(rf"vejledning(?:en)?{S}+(?:om|til){S}+(?:BR{S}?18{S}*,?{S}*|bygningsreglementets{S}+|bygningsreglementet{S}*,?{S}*)?$", re.I)
-OTHER_DOC_AFTER_RE = re.compile(rf"^{S}*,?{S}*(?:i|til|efter){S}+(?!bygningsreglement|BR{S}?18)\S", re.I)
+GUIDE_TITLE_BEFORE_RE = re.compile(rf"vejledning(?:en)?{INLINE_SPACE}+(?:om|til){INLINE_SPACE}+(?:BR{INLINE_SPACE}?18{INLINE_SPACE}*,?{INLINE_SPACE}*|bygningsreglementets{INLINE_SPACE}+|bygningsreglementet{INLINE_SPACE}*,?{INLINE_SPACE}*)?$", re.I)
+OTHER_DOC_AFTER_RE = re.compile(rf"^{INLINE_SPACE}*,?{INLINE_SPACE}*(?:i|til|efter){INLINE_SPACE}+(?!bygningsreglement|BR{INLINE_SPACE}?18)\S", re.I)
 CLEAN_RE = re.compile(r"\[\\?\[\d+\\?\]\]\([^)]*\)(?:\{[^}]*\})?|\]\([^)]*\)(?:\{[^}]*\})?|<[^>]+>|\^[^^\s]{1,4}\^|\[\^?\d+\]|[\[\]*_\\]")
 
 
@@ -194,17 +176,17 @@ class Laws:
         low = prefix.lower().rstrip(" \t ,")
         for name, law in self.names:
             for form in (name, name + "s"):
-                if low.endswith(form) and not re.match(rf"[{L}]", low[-len(form) - 1 : -len(form)] or " "):
+                if low.endswith(form) and not re.match(rf"[{LETTER_CHARS}]", low[-len(form) - 1 : -len(form)] or " "):
                     return law
         return None
 
     def after(self, postfix: str) -> str | None:
-        m = re.match(rf"^{S}*,?{S}*(?:i|efter){S}+(?:den{S}+|gældende{S}+)*", postfix, re.I)
+        m = re.match(rf"^{INLINE_SPACE}*,?{INLINE_SPACE}*(?:i|efter){INLINE_SPACE}+(?:den{INLINE_SPACE}+|gældende{INLINE_SPACE}+)*", postfix, re.I)
         if not m:
             return None
         low = postfix[m.end() :].lower()
         for name, law in self.names:
-            if low.startswith(name) and not re.match(rf"[{L}]", low[len(name) : len(name) + 1] or " "):
+            if low.startswith(name) and not re.match(rf"[{LETTER_CHARS}]", low[len(name) : len(name) + 1] or " "):
                 return law
         return None
 
@@ -218,7 +200,6 @@ def clean(text: str) -> str:
 
 
 class Context:
-    """The cleaned text around a reference, for the unresolved report."""
 
     def __init__(self, line: str) -> None:
         self.line = line
@@ -228,7 +209,6 @@ class Context:
 
 
 def protected_mask(line: str, in_anchor: bool) -> tuple[str, bool]:
-    """The line with protected spans blanked to NUL (same offsets), and whether an <a> stays open."""
     chars = list(line)
     pos = 0
     if in_anchor:
@@ -255,7 +235,7 @@ def parse_item(text: str, pos: int, item_start: int, letter_expected: bool = Fal
     letter = LETTER_RE.match(text, number_end)
     if letter:
         after = text[letter.end() :]
-        spaced_word = not letter_expected and letter.group(1) and letter.group(2) == "i" and not re.match(rf"{S}*(?:[,.;:)\]]|$)", after)
+        spaced_word = not letter_expected and letter.group(1) and letter.group(2) == "i" and not re.match(rf"{INLINE_SPACE}*(?:[,.;:)\]]|$)", after)
         if not spaced_word:
             item.key = (item.key[0], letter.group(2))
             item.letter_end = letter.end()
@@ -275,7 +255,6 @@ def parse_item(text: str, pos: int, item_start: int, letter_expected: bool = Fal
 
 
 def followers(text: str, pos: int) -> list[re.Match[str]]:
-    """Further numbers of a list after a chapter or table number: `og 34`, `, 12 og 15`."""
     found = []
     while m := MORE_RE.match(text, pos):
         found.append(m)
@@ -393,18 +372,18 @@ class Linker:
         else:
             g = GENITIVE_RE.search(prefix)
             if (g and g.group(1).lower() not in NOT_GENITIVE) or INSTRUMENT_BEFORE_RE.search(prefix):
-                signals.add(OTHER)
+                signals.add(OTHER_INSTRUMENT)
         if law := self.laws.after(postfix):
             signals.add(law)
         elif BR18_AFTER_RE.match(postfix):
             signals.add(BR18)
         elif INSTRUMENT_AFTER_RE.match(postfix):
-            signals.add(OTHER)
+            signals.add(OTHER_INSTRUMENT)
         if len(signals) > 1:
             return None, "conflicting instruments named"
         if signals:
             law = signals.pop()
-            return (None, "instrument not in xref-laws.toml") if law == OTHER else (law, "named")
+            return (None, "instrument not in xref-laws.toml") if law == OTHER_INSTRUMENT else (law, "named")
         forced = self.override(rel, text)
         if forced:
             return forced, "override"
@@ -457,23 +436,22 @@ class Linker:
         return line
 
     def scoped_doc(self, line: str, m: re.Match[str]) -> str | None:
-        """BR18 / OTHER / None (not named) for a chapter or annex reference."""
         prefix, postfix = clean(line[: m.start()]), clean(line[m.end() :])
         if GUIDE_TITLE_BEFORE_RE.search(prefix):
-            return OTHER
+            return OTHER_INSTRUMENT
         if BR18_BEFORE_RE.search(prefix) or BR18_AFTER_RE.match(postfix):
             return BR18
         g = GENITIVE_RE.search(prefix)
         if (g and g.group(1).lower() not in NOT_GENITIVE) or self.laws.before(prefix) or INSTRUMENT_BEFORE_RE.search(prefix):
-            return OTHER
+            return OTHER_INSTRUMENT
         if OTHER_DOC_AFTER_RE.match(postfix) or INSTRUMENT_AFTER_RE.match(postfix):
-            return OTHER
+            return OTHER_INSTRUMENT
         return None
 
     def chapter(self, rel, line, masked, m, edits, own_ids, regulation, context) -> None:
         scope = self.scoped_doc(line, m)
         number = int(m.group(2))
-        if scope == OTHER or number not in self.corpus.chapters:
+        if scope == OTHER_INSTRUMENT or number not in self.corpus.chapters:
             return
         rng = RANGE_TAIL_RE.match(masked, m.end())
         if rng:
@@ -498,9 +476,9 @@ class Linker:
     def annex(self, rel, line, masked, m, edits, own_ids, regulation, context) -> None:
         number, table = int(m.group(1)), (m.group(2) or "")
         scope = self.scoped_doc(line, m)
-        if scope == OTHER or (number, "") not in self.corpus.tables:
+        if scope == OTHER_INSTRUMENT or (number, "") not in self.corpus.tables:
             return
-        if RANGE_TAIL_RE.match(masked, m.end()) or re.match(rf"{S}*[-–]{S}*\d", masked[m.end() :]):
+        if RANGE_TAIL_RE.match(masked, m.end()) or re.match(rf"{INLINE_SPACE}*[-–]{INLINE_SPACE}*\d", masked[m.end() :]):
             self.note(rel, m.group(0), "annex or table range", context(m.start(), m.end()))
             return
         more = followers(masked, m.end())
@@ -553,7 +531,6 @@ class Linker:
         return "\n".join(lines)
 
     def mark_applied(self, rel: str, markdown: str) -> None:
-        """Overrides whose reference an earlier run already linked are not stale."""
         for i, entry in enumerate(self.overrides):
             text = re.escape(entry["text"])
             if entry["page"] == rel and re.search(rf'\[{text}\]\([^)]*\)\{{ \.br18-ref|class="br18-ref[^"]*"[^>]*>{text}</a>', markdown):
@@ -571,7 +548,7 @@ def report_rows(unresolved: dict[tuple[str, str, str], list[str]]) -> list[str]:
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    parser = argparse.ArgumentParser()
     parser.add_argument("--docs-root", type=Path, default=REPO / "docs")
     parser.add_argument("--data-dir", type=Path, default=REPO, help="directory with the xref-*.toml files and xref-unresolved.tsv")
     args = parser.parse_args()

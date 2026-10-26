@@ -1,5 +1,5 @@
 ---
-title: Bygningens indretning (§ 196 - § 241) – Vejledning
+title: "Bygningens indretning (§ 196 - § 241)"
 ---
 
 # Bygningens indretning (§ 196 - § 241)

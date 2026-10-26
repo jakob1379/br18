@@ -1,5 +1,5 @@
 ---
-title: Kontrol af dokumentation for og udførelse af bærende konstruktioner og brandforhold (§ 523 - § 528) – Vejledning
+title: "Kontrol af dokumentation for og udførelse af bærende konstruktioner og brandforhold (§ 523 - § 528)"
 ---
 
 # Kontrol af dokumentation for og udførelse af bærende konstruktioner og brandforhold (§ 523 - § 528)

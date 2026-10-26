@@ -1,4 +1,10 @@
+---
+title: "Bygningsreglementets vejledninger"
+---
+
 # Bygningsreglementets vejledninger
+
+[Samlet oversigt](./){ .md-button .md-button--primary }
 
 ## Kap. 1 Administrative bestemmelser (§ 1 - § 47) {#91a9c9a0-10b6-4976-8eb9-d4e7d54300ac}
 

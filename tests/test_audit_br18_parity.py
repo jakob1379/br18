@@ -11,8 +11,8 @@ from pathlib import Path
 SCRIPT = Path(__file__).resolve().parent.parent / "scripts" / "audit_br18_parity.py"
 
 
-def origin_page(body: str, links: str = "") -> str:
-    return f"""<!doctype html><html><head><title>t</title></head><body>
+def origin_page(body: str, links: str = "", title: str = "BR18") -> str:
+    return f"""<!doctype html><html><head><title>{title}</title></head><body>
 <div class="cookie-button">Vi bruger cookies</div>
 <header><a href="/">Forside</a>{links}</header>
 <main>
@@ -23,9 +23,9 @@ def origin_page(body: str, links: str = "") -> str:
 </body></html>"""
 
 
-def local_page(body: str) -> str:
-    return f"""<!doctype html><html><body>
-<nav class="md-nav">Navigation</nav>
+def local_page(body: str, title: str = "", nav: str = '<a href="/tekniske-bestemmelser/02/">2 Adgangsforhold</a>') -> str:
+    return f"""<!doctype html><html><head><title>{title}</title></head><body>
+<nav class="md-nav">{nav}</nav>
 <article class="md-content__inner md-typeset">
 {body}
 </article>
@@ -186,9 +186,11 @@ class AuditTest(unittest.TestCase):
 
         self.assertEqual(result.returncode, 0, self.report.read_text(encoding="utf-8"))
 
-    def guide_site(self, root_text: str, subpage_text: str = "<h3>1.0 Indledning</h3><h3>2.0 Ramper</h3><p>Ramper skal være jævne.</p>") -> Origin:
+    def guide_site(
+        self, root_text: str, subpage_text: str = "<h3>1.0 Indledning</h3><h3>2.0 Ramper</h3><p>Ramper skal være jævne.</p>", ramper: str = ""
+    ) -> Origin:
         guide = "/tekniske-bestemmelser/02/vejledninger/guide/"
-        sections = "<h3>1.0 Indledning</h3><p>Guiden indleder.</p><h3>2.0 Ramper</h3><p>Ramper skal være jævne.</p>"
+        sections = f"<h3>1.0 Indledning</h3><p>Guiden indleder.</p><h3>2.0 Ramper</h3><p>Ramper skal være jævne.{ramper}</p>"
         links = f'<a href="{guide}">Guide</a><a href="{guide}ramper/">Ramper</a>'
 
         def expand(page: str) -> str:
@@ -206,7 +208,7 @@ class AuditTest(unittest.TestCase):
                 guide: origin_page(f"{expand(guide)}<h3>1.0 Indledning</h3><h3>2.0 Ramper</h3>", links),
                 f"{guide}?Layout=ShowAll": origin_page(sections),
                 f"{guide}ramper/": origin_page(
-                    f"{expand(guide + 'ramper/')}<h3>1.0 Indledning</h3><h3>2.0 Ramper</h3><p>Ramper skal være jævne.</p>", links
+                    f"{expand(guide + 'ramper/')}<h3>1.0 Indledning</h3><h3>2.0 Ramper</h3><p>Ramper skal være jævne.{ramper}</p>", links
                 ),
                 f"{guide}ramper/?Layout=ShowAll": origin_page(sections),
             }
@@ -258,6 +260,34 @@ class AuditTest(unittest.TestCase):
         self.assertIn("### https://www.bygningsreglementet.dk/tekniske-bestemmelser/02/vejledninger/guide/ramper/", report)
         self.assertIn("missing_text: (own page) Ramper skal være jævne.", report)
         self.assertNotIn("Guiden indleder", report)
+
+    def test_guide_subpage_without_a_built_page_is_a_missing_page(self) -> None:
+        origin = self.guide_site("<h3>1.0 Indledning</h3><p>Guiden indleder.</p><h3>2.0 Ramper</h3><p>Ramper skal være jævne.</p>")
+        subpage = "tekniske-bestemmelser/02/vejledninger/guide/ramper"
+        (self.corpus.docs / subpage / "index.md").unlink()
+        (self.corpus.site / subpage / "index.html").unlink()
+
+        result = self.audit(origin)
+
+        report = self.report.read_text(encoding="utf-8")
+        self.assertEqual(result.returncode, 1, report)
+        self.assertIn(f"- missing_page: docs/{subpage}/index.md", report)
+
+    def test_guide_subpage_lacking_its_own_download_is_reported(self) -> None:
+        download = ' <a href="/media/ramper.pdf">Hent skema</a>'
+        origin = self.guide_site(
+            f"<h3>1.0 Indledning</h3><p>Guiden indleder.</p><h3>2.0 Ramper</h3><p>Ramper skal være jævne.{download}</p>",
+            "<h3>1.0 Indledning</h3><h3>2.0 Ramper</h3><p>Ramper skal være jævne. Hent skema</p>",
+            ramper=download,
+        )
+
+        result = self.audit(origin)
+
+        report = self.report.read_text(encoding="utf-8")
+        self.assertEqual(result.returncode, 1, report)
+        self.assertIn("### https://www.bygningsreglementet.dk/tekniske-bestemmelser/02/vejledninger/guide/ramper/", report)
+        self.assertIn("- missing_file: (own page) docs/media/ramper.pdf", report)
+        self.assertNotIn("### https://www.bygningsreglementet.dk/tekniske-bestemmelser/02/vejledninger/guide/\n", report)
 
     def test_section_only_subpage_matching_its_own_origin_page_is_clean(self) -> None:
         guide = "/tekniske-bestemmelser/21/vejledninger/guide/"
@@ -349,6 +379,84 @@ class AuditTest(unittest.TestCase):
         self.audit(origin)
 
         self.assertIn(page, origin.page_requests())
+
+    def test_page_linked_only_from_the_origin_navigation_is_audited(self) -> None:
+        origin = self.two_page_site()
+        origin.pages["/"] = origin_page("<h1>Forside</h1><p>Velkommen til reglementet.</p>").replace(
+            "<header>", '<header><nav class="sitenav__nav"><a href="/bilag/b1/bilag_1/">Bilag 1</a></nav>'
+        )
+        origin.pages["/bilag/b1/bilag_1/"] = origin_page("<h1>Bilag 1</h1><p>Tabeller.</p>")
+
+        self.audit(origin)
+
+        self.assertIn("- missing_page: docs/bilag/b1/bilag_1/index.md", self.report.read_text(encoding="utf-8"))
+
+    def test_unlinked_parent_page_of_a_crawled_page_is_audited(self) -> None:
+        origin = self.two_page_site()
+        guides = "/tekniske-bestemmelser/16/vejledninger/"
+        origin.pages["/"] = origin_page(
+            "<h1>Forside</h1><p>Velkommen til reglementet.</p>", f'<a href="{guides}qa/">Vejledning</a>'
+        )
+        origin.pages[guides + "qa/"] = origin_page("<h1>Spørgsmål og svar</h1>")
+        origin.pages[guides] = origin_page("<h1>Legepladser</h1><p>Se alle vejledninger om legepladser.</p>")
+        self.corpus.add("tekniske-bestemmelser/16/vejledninger/qa", local_page("<h1>Spørgsmål og svar</h1>"))
+
+        self.audit(origin)
+
+        report = self.report.read_text(encoding="utf-8")
+        self.assertIn("- missing_page: docs/tekniske-bestemmelser/16/vejledninger/index.md", report)
+        self.assertNotIn("/tekniske-bestemmelser/16/: HTTP", report)
+        self.assertNotIn("/tekniske-bestemmelser/: HTTP", report)
+
+    def test_page_title_differing_from_the_origin_title_is_reported(self) -> None:
+        origin = self.two_page_site()
+        chapter = "/tekniske-bestemmelser/02/krav/"
+        body = "<h1>Adgangsforhold</h1><p>Bygninger skal have adgangsforhold.</p>"
+        origin.pages[chapter] = origin_page(body, title="Adgangsforhold (§ 48 - § 62) | BR18")
+        self.corpus.add("tekniske-bestemmelser/02", local_page(body, "2 Adgangsforhold (§ 48 - § 62) | BR18"))
+
+        result = self.audit(origin)
+
+        report = self.report.read_text(encoding="utf-8")
+        self.assertEqual(result.returncode, 1, report)
+        self.assertIn("- wrong_title: 2 Adgangsforhold (§ 48 - § 62) (origin: Adgangsforhold (§ 48 - § 62))", report)
+
+    def test_page_without_its_own_origin_title_is_titled_by_its_heading(self) -> None:
+        origin = self.two_page_site()
+        chapter = "/tekniske-bestemmelser/02/krav/"
+        body = "<h1>Adgangsforhold</h1><p>Bygninger skal have adgangsforhold.</p>"
+        origin.pages[chapter] = origin_page(body, title="BR18")
+        self.corpus.add("tekniske-bestemmelser/02", local_page('<h1>Adgangsforhold<a class="headerlink" href="#a">¶</a></h1><p>Bygninger skal have adgangsforhold.</p>', "Adgangsforhold | BR18"))
+
+        result = self.audit(origin)
+
+        report = self.report.read_text(encoding="utf-8")
+        self.assertEqual(result.returncode, 0, report)
+
+    def test_page_the_origin_navigation_reaches_but_the_clone_navigation_does_not_is_reported(self) -> None:
+        origin = self.two_page_site()
+        body = "<h1>Adgangsforhold</h1><p>Bygninger skal have adgangsforhold.</p><p>Ramper må højst have en hældning på 1:20.</p>"
+        for rel in ("", "administrative-bestemmelser"):
+            self.corpus.add(rel, local_page("<h1>Forside</h1><p>Velkommen til reglementet.</p>" if not rel else "", nav=""))
+        self.corpus.add("tekniske-bestemmelser/02", local_page(body, nav=""))
+
+        self.audit(origin)
+
+        report = self.report.read_text(encoding="utf-8")
+        self.assertIn("### https://www.bygningsreglementet.dk/tekniske-bestemmelser/02/krav/", report)
+        self.assertIn("- missing_nav: docs/tekniske-bestemmelser/02/index.md", report)
+
+    def test_page_reached_through_a_tab_button_of_a_page_in_the_clone_navigation_is_clean(self) -> None:
+        origin = self.two_page_site()
+        body = "<h1>Adgangsforhold</h1><p>Bygninger skal have adgangsforhold.</p><p>Ramper må højst have en hældning på 1:20.</p>"
+        hub = '<a class="md-button" href="/tekniske-bestemmelser/02/">Krav</a>'
+        self.corpus.add("", local_page("<h1>Forside</h1><p>Velkommen til reglementet.</p>", nav='<a href="/oversigt/">Oversigt</a>'))
+        self.corpus.add("oversigt", local_page(f"<p>{hub}</p>", nav=""))
+        self.corpus.add("tekniske-bestemmelser/02", local_page(body, nav=""))
+
+        result = self.audit(origin)
+
+        self.assertEqual(result.returncode, 0, self.report.read_text(encoding="utf-8"))
 
     def test_section_scope_reports_only_that_section(self) -> None:
         origin = self.two_page_site()

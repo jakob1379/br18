@@ -1,4 +1,11 @@
+---
+title: "Ventilation (§ 420 - § 452)"
+---
+
 # Ventilation (§ 420 - § 452)
+
+[Krav](../../krav/){ .md-button }
+[Vejledning](./){ .md-button .md-button--primary }
 
 ## Se alle vejledninger om Ventilation (§ 420 - § 452)
 

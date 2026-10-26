@@ -1,4 +1,11 @@
+---
+title: "Bygningsreglementets vejledning om korrektioner til 10 procent reglen for dagslys"
+---
+
 # Lys og udsyn (§ 377 - § 384)
+
+[Krav](../../krav/){ .md-button }
+[Vejledning](./){ .md-button .md-button--primary }
 
 ## Se alle vejledninger om Lys og udsyn (§ 377 - § 384)
 

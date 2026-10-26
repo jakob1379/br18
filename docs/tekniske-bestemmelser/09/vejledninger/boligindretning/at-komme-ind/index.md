@@ -1,4 +1,11 @@
+---
+title: "Bygningens indretning (§ 196 - § 241)"
+---
+
 # Bygningens indretning (§ 196 - § 241)
+
+[Krav](../../../krav/){ .md-button }
+[Vejledning](./){ .md-button .md-button--primary }
 
 ## Se alle vejledninger om Bygningens indretning (§ 196 - § 241)
 

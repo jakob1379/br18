@@ -1,4 +1,11 @@
+---
+title: "Certificeret statikers virke (§ 536 - § 544)"
+---
+
 # Certificeret statikers virke (§ 536 - § 544)
+
+[Krav](./){ .md-button .md-button--primary }
+[Vejledning](../../vejledninger/){ .md-button }
 
 ## § 536 - § 544 Certificeret statikers virke {#f2c79db0-f0e0-468c-b974-447f006998cf}
 

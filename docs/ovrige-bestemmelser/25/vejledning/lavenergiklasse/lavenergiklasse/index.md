@@ -1,4 +1,11 @@
+---
+title: "Lavenergiklasse (§ 473 - § 484)"
+---
+
 # Lavenergiklasse (§ 473 - § 484)
+
+[Krav](../../../krav/){ .md-button }
+[Vejledning](./){ .md-button .md-button--primary }
 
 ## BR-Vejledning til kapitel 25 - Lavenergiklasse
 

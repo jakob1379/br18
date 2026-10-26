@@ -171,7 +171,6 @@ class LinkReferencesTest(unittest.TestCase):
     def unresolved(self) -> str:
         return (self.data / "xref-unresolved.tsv").read_text(encoding="utf-8")
 
-    # BR18 paragraphs
 
     def test_paragraph_in_regulation_text_links_to_its_heading_on_the_same_page(self) -> None:
         self.doc("administrative-bestemmelser/krav", KRAV_1 + "Se § 39.\n")
@@ -260,7 +259,6 @@ class LinkReferencesTest(unittest.TestCase):
     def test_decimal_section_number_is_not_a_paragraph(self) -> None:
         self.assertEqual(self.link("se § 5.3 i vejledningen"), "se § 5.3 i vejledningen")
 
-    # Scope: which law
 
     def test_explicit_br18_overrides_the_page_default_across_a_list(self) -> None:
         self.assertEqual(
@@ -338,7 +336,6 @@ class LinkReferencesTest(unittest.TestCase):
     def test_conflicting_scope_signals_leave_the_reference_unlinked(self) -> None:
         self.assertEqual(self.link("BR18, § 5 i byggeloven"), "BR18, § 5 i byggeloven")
 
-    # Chapters and annexes
 
     def test_chapter_in_regulation_text_links_to_the_chapter_page(self) -> None:
         self.assertEqual(
@@ -400,7 +397,6 @@ class LinkReferencesTest(unittest.TestCase):
         text = "jf. bilag 1 til bekendtgørelse om kommunernes budget"
         self.assertEqual(self.link(text, page="ovrige-bestemmelser/30/krav"), text)
 
-    # Markdown safety
 
     def test_headings_existing_links_and_code_are_never_touched(self) -> None:
         text = "### § 39 {#paragraf-39}\n\nSe [§ 39](../x/) og `§ 39` og <a href=\"y\">§ 39</a>.\n\n## § 1 - § 3 Titel"
@@ -418,7 +414,6 @@ class LinkReferencesTest(unittest.TestCase):
         self.assertEqual(self.read(GUIDE), before)
         self.assertEqual(self.unresolved(), report)
 
-    # Overrides and the unresolved report
 
     def test_override_decides_an_ambiguous_reference(self) -> None:
         (self.data / "xref-overrides.toml").write_text(

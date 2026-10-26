@@ -1,3 +1,7 @@
+---
+title: "Administrative bestemmelser (§ 1 - § 47)"
+---
+
 # Administrative bestemmelser (§ 1 - § 47)
 
 [Krav](./){ .md-button .md-button--primary }

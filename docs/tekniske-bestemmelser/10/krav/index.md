@@ -1,4 +1,11 @@
+---
+title: "Elevatorer (§ 242 - § 249)"
+---
+
 # Elevatorer (§ 242 - § 249)
+
+[Krav](./){ .md-button .md-button--primary }
+[Vejledning](../vejledninger/generel_vejledning/){ .md-button }
 
 ## § 242 - § 249 Elevatorer {#5cad5067-d59b-4c59-bb03-bb2e115a57eb}
 

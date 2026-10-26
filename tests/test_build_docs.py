@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import os
+import re
 import shutil
 import subprocess
 import tempfile
@@ -11,20 +12,25 @@ REPO = Path(__file__).resolve().parent.parent
 
 
 class BuildCheckTest(unittest.TestCase):
-    def build(self, page: str, required_anchors: str = "") -> subprocess.CompletedProcess[str]:
+    def build(self, page: str, required_anchors: str = "", files: dict[str, str] | None = None) -> subprocess.CompletedProcess[str]:
         root = Path(tempfile.mkdtemp())
         self.addCleanup(shutil.rmtree, root)
         (root / "scripts").mkdir()
         shutil.copy(REPO / "scripts" / "build-docs.sh", root / "scripts")
         shutil.copy(REPO / "scripts" / "keep_anchors.py", root / "scripts")
         shutil.copy(REPO / "scripts" / "check_references.py", root / "scripts")
+        shutil.copy(REPO / "scripts" / "link_references.py", root / "scripts")
         shutil.copy(REPO / "xref-laws.toml", root)
+        shutil.copytree(REPO / "overrides", root / "overrides")
         (root / "required-anchors.tsv").write_text(required_anchors, encoding="utf-8")
         config = (REPO / "zensical.toml").read_text(encoding="utf-8")
-        markdown = config[config.index("[project.markdown_extensions") :]
-        (root / "zensical.toml").write_text(f'[project]\nsite_name = "t"\n{markdown}', encoding="utf-8")
-        (root / "docs").mkdir()
+        (root / "zensical.toml").write_text(re.sub(r"(?ms)^nav = \[$.*?^\]$\n", "", config), encoding="utf-8")
+        for theme_dir in ("assets", "stylesheets"):
+            shutil.copytree(REPO / "docs" / theme_dir, root / "docs" / theme_dir)
         (root / "docs" / "index.md").write_text(page, encoding="utf-8")
+        for rel, text in (files or {}).items():
+            (root / "docs" / rel).parent.mkdir(parents=True, exist_ok=True)
+            (root / "docs" / rel).write_text(text, encoding="utf-8")
         return subprocess.run(
             ["bash", str(root / "scripts" / "build-docs.sh")],
             capture_output=True,
@@ -87,6 +93,67 @@ class BuildCheckTest(unittest.TestCase):
 
         self.assertNotEqual(result.returncode, 0)
         self.assertIn("markup residue", result.stderr)
+
+    def test_broken_local_link_fails(self) -> None:
+        result = self.build("# Forside\n\nSe [kapitel 2](tekniske-bestemmelser/02/).\n")
+
+        self.assertNotEqual(result.returncode, 0)
+        self.assertIn("tekniske-bestemmelser/02", result.stdout + result.stderr)
+
+    def test_broken_anchor_fails(self) -> None:
+        result = self.build("# Forside\n\nSe [§ 9](side/#paragraf-9).\n", files={"side/index.md": "# Side\n\n### § 8 {#paragraf-8}\n"})
+
+        self.assertNotEqual(result.returncode, 0)
+        self.assertIn("paragraf-9", result.stdout + result.stderr)
+
+    def test_broken_image_fails(self) -> None:
+        result = self.build("# Forside\n\n![Figur 1](media/figur-1.png)\n")
+
+        self.assertNotEqual(result.returncode, 0)
+        self.assertIn("figur-1.png", result.stdout + result.stderr)
+
+    def test_broken_download_fails(self) -> None:
+        result = self.build("# Forside\n\nHent [vejledningen](media/vejledning.pdf).\n")
+
+        self.assertNotEqual(result.returncode, 0)
+        self.assertIn("vejledning.pdf", result.stdout + result.stderr)
+
+    def test_existing_link_image_and_download_pass(self) -> None:
+        result = self.build(
+            "# Forside\n\nSe [§ 8](side/#paragraf-8), ![Figur 1](media/figur-1.png) og [vejledningen](media/vejledning.pdf).\n",
+            files={"side/index.md": "# Side\n\n### § 8 {#paragraf-8}\n", "media/figur-1.png": "png", "media/vejledning.pdf": "pdf"},
+        )
+
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+
+    def test_case_insensitive_path_collision_fails(self) -> None:
+        result = self.build("# Forside\n", files={"Administrative-bestemmelser/index.md": "# A\n", "administrative-bestemmelser/index.md": "# a\n"})
+
+        self.assertNotEqual(result.returncode, 0)
+        self.assertIn("case-insensitive path collisions", result.stderr)
+
+    def test_non_ascii_case_collision_fails(self) -> None:
+        result = self.build("# Forside\n", files={"Ølejr/index.md": "# Ø\n", "ølejr/index.md": "# ø\n"})
+
+        self.assertNotEqual(result.returncode, 0)
+        self.assertIn("case-insensitive path collisions", result.stderr)
+
+    def test_composed_and_decomposed_spelling_of_one_name_collide(self) -> None:
+        result = self.build("# Forside\n", files={"bl\u00e5/index.md": "# NFC\n", "bla\u030a/index.md": "# NFD\n"})
+
+        self.assertNotEqual(result.returncode, 0)
+        self.assertIn("case-insensitive path collisions", result.stderr)
+
+    def test_distinct_non_ascii_names_pass(self) -> None:
+        result = self.build("# Forside\n", files={"ølejr/index.md": "# ø\n", "olejr/index.md": "# o\n", "straße/index.md": "# ß\n"})
+
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+
+    def test_query_string_filename_fails(self) -> None:
+        result = self.build("# Forside\n", files={"media/logo.png?v=2": "png"})
+
+        self.assertNotEqual(result.returncode, 0)
+        self.assertIn("URL query strings", result.stderr)
 
 
 if __name__ == "__main__":

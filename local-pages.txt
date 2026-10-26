@@ -1,0 +1,10 @@
+# Pages the clone has that the origin does not serve; scripts/regenerate_docs.sh keeps them.
+# Chapter hubs (<chapter>/index.md, <chapter>/brv/index.md) are not listed: build_chapter_hubs.py rebuilds them.
+bilag/b1/index.md
+bilag/b2/index.md
+bilag/b3/index.md
+bilag/b4/index.md
+bilag/b5/index.md
+bilag/b6/index.md
+ovrige-bestemmelser/index.md
+tekniske-bestemmelser/index.md

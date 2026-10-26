@@ -1,4 +1,10 @@
+---
+title: "Ikrafttrædelse (§ 565)"
+---
+
 # Ikrafttrædelse (§ 565)
+
+[Bestemmelser](./){ .md-button .md-button--primary }
 
 ## § 565 Ikrafttrædelse {#6e168559-5c3b-47fb-ad8c-9d5cb13e397e}
 

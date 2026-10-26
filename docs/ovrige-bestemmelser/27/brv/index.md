@@ -1,5 +1,5 @@
 ---
-title: Brandklasser (§ 490 - § 493) – Vejledning
+title: "Brandklasser (§ 490 - § 493)"
 ---
 
 # Brandklasser (§ 490 - § 493)

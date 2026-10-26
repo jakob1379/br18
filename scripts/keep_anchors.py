@@ -1,11 +1,4 @@
 #!/usr/bin/env python3
-"""Keep every anchor the clone has published (deep links into it must keep working).
-
-The baseline (required-anchors.tsv) lists 'page<TAB>id<TAB>old heading text' in the old pages' order. With
---check, report anchors a built page lacks and exit 1. Otherwise add an empty `<span id>` to the page's markdown
-for each missing anchor: before the heading that now carries the old heading's text (a renamed heading), else
-at the end of the section of the nearest earlier anchor the page still has, else after the page's H1.
-"""
 
 from __future__ import annotations
 
@@ -31,7 +24,6 @@ def heading_words(line: str) -> list[str]:
 
 
 def built_ids(page: Path) -> dict[str, str]:
-    """Ids in the page's article content, each with its heading text (empty for other elements)."""
     text = page.read_text(encoding="utf-8", errors="replace")
     start = text.find('class="md-content__inner')
     body = text[start : text.find("</article>", start)] if start >= 0 else ""
@@ -55,12 +47,10 @@ def load_baseline(path: Path) -> dict[str, list[tuple[str, str]]]:
 
 
 def section_end(lines: list[str], index: int) -> int:
-    """Index of the first heading after line `index` (where that line's section ends)."""
     return next((i for i in range(index + 1, len(lines)) if HEADING_RE.match(lines[i])), len(lines))
 
 
 def locate(lines: list[str], ident: str, heading: str) -> int | None:
-    """Markdown line that produces the element with this id on the built page."""
     explicit = re.compile(rf"\{{[^}}]*#{re.escape(ident)}(?=[\s}}])|\bid=\"{re.escape(ident)}\"")
     for i, line in enumerate(lines):
         if explicit.search(line):
@@ -106,7 +96,7 @@ def fix_page(markdown: str, required: list[tuple[str, str]], built: dict[str, st
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description=__doc__)
+    parser = argparse.ArgumentParser()
     parser.add_argument("--docs-root", default="docs")
     parser.add_argument("--site-dir", default="site")
     parser.add_argument("--baseline", default="required-anchors.tsv")

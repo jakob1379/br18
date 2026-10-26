@@ -1,5 +1,5 @@
 # Reviewed exceptions for scripts/audit_br18_parity.py. Every entry needs a reason.
-# page: origin path; kind: missing_page | missing_text | extra_text | missing_link | missing_image | missing_file
+# page: origin path; kind: missing_page | wrong_title | missing_nav | missing_text | extra_text | missing_link | missing_image | missing_file
 # item: exact item text from the report (omit to cover every item of that kind on the page)
 #
 # [[exception]]
@@ -7,30 +7,6 @@
 # kind = "extra_text"
 # item = "§ 48"
 # reason = "Why this difference is intentional."
-
-[[exception]]
-page = "/tekniske-bestemmelser/05/vejledninger/spoergsmaal-og-svar/aba-anlaeg-alarmtransmission/"
-kind = "extra_text"
-item = "Index"
-reason = "Origin defect: the origin page is blank (empty <main>, title 'BR18'; re-checked live 2026-10-25) although other pages link to it. The clone's page is empty too; 'Index' is only the theme's fallback H1 for a page without a title."
-
-[[exception]]
-page = "/tekniske-bestemmelser/05/vejledninger/spoergsmaal-og-svar/spoergsmaal-og-svar-om-lagerhoteller/"
-kind = "extra_text"
-item = "Index"
-reason = "Origin defect: the origin page is blank (empty <main>, title 'BR18'; re-checked live 2026-10-25) although other pages link to it. The clone's page is empty too; 'Index' is only the theme's fallback H1 for a page without a title."
-
-[[exception]]
-page = "/tekniske-bestemmelser/11/brv/bygningers-klimapaavirkning-1-juli-2025/kap-1_14/"
-kind = "extra_text"
-item = "Index"
-reason = "Origin defect: the origin page is blank (empty <main>, title 'BR18'; re-checked live 2026-10-25) although other pages link to it. The clone's page is empty too; 'Index' is only the theme's fallback H1 for a page without a title."
-
-[[exception]]
-page = "/tekniske-bestemmelser/11/brv/bygningers-klimapaavirkning-1-juli-2025/kap-1_15/"
-kind = "extra_text"
-item = "Index"
-reason = "Origin defect: the origin page is blank (empty <main>, title 'BR18'; re-checked live 2026-10-25) although other pages link to it. The clone's page is empty too; 'Index' is only the theme's fallback H1 for a page without a title."
 
 [[exception]]
 page = "/straf-og-ikrafttraedelse/36/brv/bygningers-klimapaavirkning/"
@@ -51,30 +27,6 @@ item = "BR18 1 Administrative"
 reason = "Pairs with the '1Administrative' entry: the origin's page H1 'BR18' is visually hidden (<h1 class=\"visuallyhidden\">BR18</h1>, skipped by the audit), the clone shows it as the page H1 (without an H1 the theme falls back to the nav title 'Hjem'). The rest of the run is the '1 Administrative' tile label."
 
 [[exception]]
-page = "/bilag/b2/bilag_2/tabel_10/"
-kind = "extra_text"
-item = "Index"
-reason = "Origin defect: the origin page is blank (empty <main>, title 'BR18'; re-checked live 2026-10-25) although other pages link to it. The clone's page is empty too; 'Index' is only the theme's fallback H1 for a page without a title."
-
-[[exception]]
-page = "/bilag/b2/bilag_2/tabel_11/"
-kind = "extra_text"
-item = "Index"
-reason = "Origin defect: the origin page is blank (empty <main>, title 'BR18'; re-checked live 2026-10-25) although other pages link to it. The clone's page is empty too; 'Index' is only the theme's fallback H1 for a page without a title."
-
-[[exception]]
-page = "/bilag/b2/bilag_2/tabel_12/"
-kind = "extra_text"
-item = "Index"
-reason = "Origin defect: the origin page is blank (empty <main>, title 'BR18'; re-checked live 2026-10-25) although other pages link to it. The clone's page is empty too; 'Index' is only the theme's fallback H1 for a page without a title."
-
-[[exception]]
-page = "/bilag/b2/bilag_2/tabel_13/"
-kind = "extra_text"
-item = "Index"
-reason = "Origin defect: the origin page is blank (empty <main>, title 'BR18'; re-checked live 2026-10-25) although other pages link to it. The clone's page is empty too; 'Index' is only the theme's fallback H1 for a page without a title."
-
-[[exception]]
 page = "/vejledninger/bygningsreglementets-vejledninger/oversigt_br_vejledninger/"
 kind = "missing_link"
 item = "docs/tekniske-bestemmelser/02/vejledninger/parkering/index.md"
@@ -85,3 +37,21 @@ page = "/vejledninger/andre_vejledninger/vejledning/vejledning-om-tiny-houses/"
 kind = "missing_link"
 item = "docs/tekniske-bestemmelser/05/vejledninger/generel_brand/enfamiliehuse/bilag-1a---præ-accepterede-løsninger-for-fritliggende-og-sammenbyggede-enfamiliehuse/index.md"
 reason = "Origin defect: 'Bilag 1a – Præ-accepterede løsninger – Fritliggende og sammenbyggede enfamiliehuse' links .../enfamiliehuse/Bilag-1a---Præ-accepterede-løsninger-for-fritliggende-og-sammenbyggede-enfamiliehuse, which the origin answers with 404 (cached). The clone links the existing page .../enfamiliehuse/bilag-1a-prae-accepterede-loesninger-for-fritliggende-og-sammenbyggede-enfamiliehuse/ with the same link text. Covers the 11 alias subpages."
+
+[[exception]]
+page = "/straf-og-ikrafttraedelse/36/brv/bygningers-klimapaavirkning/vejledning/"
+kind = "missing_link"
+item = "(own page) docs/administrative-bestemmelser/brv/vejledning-om-lovliggorelse/bygningers-klimapåvirkning/index.md"
+reason = "Origin defect: the subpage's own 'Se om klimakravet her' link has the å spelling, which the origin answers with 404 (cached). The clone's subpage links the existing page .../bygningers-klimapaavirkning/ with the same link text; same defect as the guide root's entry."
+
+[[exception]]
+page = "/vejledninger/andre_vejledninger/vejledning/vejledning-om-tiny-houses/energiforsyningsanlaeg/"
+kind = "missing_link"
+item = "(own page) docs/tekniske-bestemmelser/05/vejledninger/generel_brand/enfamiliehuse/bilag-1a---præ-accepterede-løsninger-for-fritliggende-og-sammenbyggede-enfamiliehuse/index.md"
+reason = "Origin defect: the subpage's own link to bilag 1a uses the æ/ø spelling with triple hyphens, which the origin answers with 404 (cached). The clone's subpage links the existing .../enfamiliehuse/bilag-1a-prae-accepterede-loesninger/; same defect as the guide root's entry."
+
+[[exception]]
+page = "/vejledninger/bygningsreglementets-vejledninger/oversigt_br_vejledninger/kap_2/"
+kind = "missing_link"
+item = "(own page) docs/tekniske-bestemmelser/02/vejledninger/parkering/index.md"
+reason = "Origin defect: the subpage's own parking guide link points at /tekniske-bestemmelser/02/vejledninger/parkering/, which the origin answers with 404 (cached). The clone links the guide at tekniske-bestemmelser/20/vejledninger/parkering/ (origin-dead-links.toml); same defect as the guide root's entry."

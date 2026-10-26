@@ -1,4 +1,10 @@
+---
+title: "Bilag 1: Tabeller til kapitel 5 - Brandforhold"
+---
+
 # Bilag 1: Tabeller til kapitel 5 - Brandforhold
+
+[Krav](./){ .md-button .md-button--primary }
 
 <span id="tabel-1-anvendelseskategorier"></span>
 

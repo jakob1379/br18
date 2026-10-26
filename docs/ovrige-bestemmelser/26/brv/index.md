@@ -1,5 +1,5 @@
 ---
-title: Konstruktionsklasser (§ 485 - § 489) – Vejledning
+title: "Konstruktionsklasser (§ 485 - § 489)"
 ---
 
 # Konstruktionsklasser (§ 485 - § 489)

@@ -1,5 +1,5 @@
 ---
-title: Dokumentation af brandforhold (§ 506 - § 522) – Vejledning
+title: "Dokumentation af brandforhold (§ 506 - § 522)"
 ---
 
 # Dokumentation af brandforhold (§ 506 - § 522)

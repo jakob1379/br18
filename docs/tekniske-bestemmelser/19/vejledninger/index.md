@@ -1,4 +1,11 @@
+---
+title: "Termisk indeklima og installationer til varme- og køleanlæg (§ 385 - § 392)"
+---
+
 # Termisk indeklima og installationer til varme- og køleanlæg (§ 385 - § 392)
+
+[Krav](../krav/){ .md-button }
+[Vejledning](./){ .md-button .md-button--primary }
 
 ## Se alle vejledninger om Termisk indeklima og installationer til varme- og køleanlæg (§ 385 - § 392)
 

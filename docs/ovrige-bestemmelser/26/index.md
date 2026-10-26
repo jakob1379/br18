@@ -1,3 +1,7 @@
+---
+title: "Konstruktionsklasser (§ 485 - § 489)"
+---
+
 # Konstruktionsklasser (§ 485 - § 489)
 
 [Krav](./){ .md-button .md-button--primary }

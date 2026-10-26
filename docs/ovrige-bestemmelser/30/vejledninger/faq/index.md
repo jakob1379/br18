@@ -1,4 +1,11 @@
+---
+title: "Kontrol af dokumentation for og udførelse af bærende konstruktioner og brandforhold (§ 523 - § 528)"
+---
+
 # Kontrol af dokumentation for og udførelse af bærende konstruktioner og brandforhold (§ 523 - § 528)
+
+[Krav](../../krav/){ .md-button }
+[Vejledning](./){ .md-button .md-button--primary }
 
 ## Se alle vejledninger om Kontrol af dokumentation for og udførelse af bærende konstruktioner og brandforhold (§ 523 - § 528)
 

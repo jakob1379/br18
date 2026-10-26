@@ -1,4 +1,11 @@
+---
+title: "Konstruktioner (§ 340 - § 357)"
+---
+
 # Konstruktioner (§ 340 - § 357)
+
+[Krav](../krav/){ .md-button }
+[Vejledning](./){ .md-button .md-button--primary }
 
 ## Se alle vejledninger om Konstruktioner (§ 340 - § 357)
 

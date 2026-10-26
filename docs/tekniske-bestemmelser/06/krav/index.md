@@ -1,4 +1,10 @@
+---
+title: "Brugerbetjente anlæg (§ 159- § 160)"
+---
+
 # Brugerbetjente anlæg (§ 159- § 160)
+
+[Krav](./){ .md-button .md-button--primary }
 
 ## § 159 Selvbetjenings- og brugerbetjente anlæg {#1cb18e5f-4a27-44cd-9cf4-f946d4ae9f92}
 

@@ -1,4 +1,11 @@
+---
+title: "Straf (§ 564)"
+---
+
 # Straf (§ 564)
+
+[Krav](./){ .md-button .md-button--primary }
+[](../brv/bygningers-klimapaavirkning/){ .md-button }
 
 ## § 564 Straf {#096874d8-8195-4b9a-a923-a67e0d5ed2bf}
 

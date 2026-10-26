@@ -1,3 +1,7 @@
+---
+title: "Straf (§ 564)"
+---
+
 # Straf (§ 564)
 
 [Krav](../){ .md-button }
@@ -5,10 +9,6 @@
 
 ## Se alle vejledninger om Straf (§ 564)
 
-- [Vejledning om lovliggørelse i forbindelse med bygningers klimapåvirkning](./#vejledning-om-lovliggørelse-i-forbindelse-med-bygningers-klimapåvirkning)
+- [Vejledning om lovliggørelse i forbindelse med bygningers klimapåvirkning](bygningers-klimapaavirkning/)
 
-## Vejledning om lovliggørelse i forbindelse med bygningers klimapåvirkning {#vejledning-om-lovliggørelse-i-forbindelse-med-bygningers-klimapåvirkning}
-
-### Vejledning om lovliggørelse i forbindelse med bygningers klimapåvirkning
-
-[Se om klimakravet her](/administrative-bestemmelser/brv/vejledning-om-lovliggorelse/bygningers-klimapaavirkning/){rel="noopener noreferrer" target="_blank"} (nyt vindue)
+<span id="vejledning-om-lovliggørelse-i-forbindelse-med-bygningers-klimapåvirkning"></span><span id="vejledning-om-lovliggrelse-i-forbindelse-med-bygningers-klimapavirkning"></span>

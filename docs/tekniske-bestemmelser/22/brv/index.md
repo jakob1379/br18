@@ -1,5 +1,5 @@
 ---
-title: Ventilation (§ 420 - § 452) – Vejledning
+title: "Ventilation (§ 420 - § 452)"
 ---
 
 # Ventilation (§ 420 - § 452)

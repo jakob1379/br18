@@ -1,5 +1,5 @@
 ---
-title: Brand (§ 82 - § 158) – Vejledning
+title: "Brand (§ 82 - § 158)"
 ---
 
 # Brand (§ 82 - § 158)

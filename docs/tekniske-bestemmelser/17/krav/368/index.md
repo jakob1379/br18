@@ -1,4 +1,11 @@
+---
+title: "Lydforhold (§ 368 - § 376)"
+---
+
 # Lydforhold (§ 368 - § 376)
+
+[Krav](./){ .md-button .md-button--primary }
+[Vejledning](../../vejledninger/){ .md-button }
 
 ## § 368 Lydforhold {#d020db69-f4ce-4cb5-84ee-a507a2630908}
 

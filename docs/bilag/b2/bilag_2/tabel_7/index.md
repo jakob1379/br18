@@ -1,4 +1,10 @@
+---
+title: "Bilag 2: Tabeller til kapitel 11 - Energiforbrug"
+---
+
 # Bilag 2: Tabeller til kapitel 11 - Energiforbrug
+
+[Bilag 2](./){ .md-button .md-button--primary }
 
 <span id="tabel-1-generelle-mindstekrav-til-klimaskrm"></span>
 

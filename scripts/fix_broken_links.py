@@ -6,11 +6,13 @@ import argparse
 import os
 import re
 import sys
+import tomllib
 from collections import defaultdict
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 
-from fetch_origin_pages import cached
+from audit_br18_parity import SITE, OriginFetcher
+from fetch_origin_pages import download
 
 MARKDOWN_LINK_RE = re.compile(r"(\]\()([^)\s]+)")
 HTML_ATTR_RE = re.compile(r"""((?:href|src)\s*=\s*["'])([^"']+)""")
@@ -18,23 +20,19 @@ ID_RE = re.compile(r"""\s(?:id|name)\s*=\s*["']([^"']+)["']""")
 HEADING_ID_RE = re.compile(r"^(#{1,6} .*?) \{#([^}\s]+)\}\s*$", re.MULTILINE)
 SKIP_PREFIXES = ("mailto:", "tel:", "javascript:", "data:", "/")
 MAX_UPS = 8
-SITE_URL = "https://www.bygningsreglementet.dk/"
-# Links the origin itself gets wrong (404 there), mapped to the page the sweeps chose; see parity-allowlist.toml.
-ORIGIN_DEAD_LINKS = {
-    "tekniske-bestemmelser/02/vejledninger/parkering": "tekniske-bestemmelser/20/vejledninger/parkering",
-}
+REPO = Path(__file__).resolve().parent.parent
 
 
 def fold(name: str) -> str:
-    """Origin URLs and corpus paths spell one page differently: case, æøå transliterated, repeated hyphens."""
     name = name.casefold().replace("å", "aa").replace("æ", "ae").replace("ø", "oe")
     return re.sub(r"-{2,}", "-", name)
 
 
 class Site:
-    def __init__(self, site_root: Path, cache_dir: Path | None = None) -> None:
+    def __init__(self, site_root: Path, cache_dir: Path | None = None, dead_links: dict[str, str] | None = None) -> None:
         self.root = site_root.resolve()
-        self.cache_dir = cache_dir
+        self.snapshot = OriginFetcher(None, cache_dir, 0) if cache_dir else None
+        self.dead_links = dead_links or {}
         self.ids: dict[Path, set[str]] = {}
         self.pages_by_id: dict[str, list[Path]] = defaultdict(list)
         for html in self.root.rglob("*.html"):
@@ -64,14 +62,13 @@ class Site:
         return None
 
     def redirect_target(self, path: Path) -> Path | None:
-        """A link to an origin redirect alias, or to a page the origin itself links wrongly."""
         rel = path.relative_to(self.root).as_posix()
-        if rel in ORIGIN_DEAD_LINKS:
-            return self.resolve_casefold(self.root / ORIGIN_DEAD_LINKS[rel])
-        if not self.cache_dir:
+        if rel in self.dead_links:
+            return self.resolve_casefold(self.root / self.dead_links[rel])
+        if not self.snapshot:
             return None
         try:
-            _, final = cached(self.cache_dir, SITE_URL + rel + "/")
+            _, final = download(f"{SITE}/{rel}/", self.snapshot)
         except OSError:
             return None
         return self.resolve_casefold(self.root / urlsplit(final).path.strip("/"))
@@ -137,7 +134,6 @@ def fix_target(
         else:
             hosts = {page for f in fragments for page in site.pages_by_id.get(f, [])}
             if len(hosts) != 1:
-                # The origin links a fragment the target lacks and no single other page has; the page is still the target.
                 fragments = []
             else:
                 host = hosts.pop()
@@ -218,10 +214,11 @@ def main() -> int:
     parser.add_argument("--docs-root", default="docs")
     parser.add_argument("--site-root", default="site")
     parser.add_argument("--cache-dir", type=Path, help="parity audit origin snapshot, to resolve links to origin redirects")
+    parser.add_argument("--dead-links", type=Path, default=REPO / "origin-dead-links.toml")
     args = parser.parse_args()
 
     docs_root = Path(args.docs_root).resolve()
-    site = Site(Path(args.site_root), args.cache_dir)
+    site = Site(Path(args.site_root), args.cache_dir, tomllib.loads(args.dead_links.read_text(encoding="utf-8"))["dead_links"])
     unresolved: list[str] = []
     missing: set[tuple[Path, str]] = set()
     total = sum(

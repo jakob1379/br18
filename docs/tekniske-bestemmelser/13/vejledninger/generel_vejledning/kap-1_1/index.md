@@ -1,4 +1,11 @@
+---
+title: "Forureninger (§ 329 - § 333)"
+---
+
 # Forureninger (§ 329 - § 333)
+
+[Krav](../../../krav/){ .md-button }
+[Vejledning](./){ .md-button .md-button--primary }
 
 ## Bygningsreglementets vejledning om forureninger
 

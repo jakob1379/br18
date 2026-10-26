@@ -1,3 +1,7 @@
+---
+title: "Bygningens indretning (§ 196 - § 241)"
+---
+
 # Bygningens indretning (§ 196 - § 241)
 
 [Krav](./){ .md-button .md-button--primary }

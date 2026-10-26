@@ -1,3 +1,7 @@
+---
+title: "Lys og udsyn (§ 377 - § 384)"
+---
+
 # Lys og udsyn (§ 377 - § 384)
 
 [Krav](./){ .md-button .md-button--primary }

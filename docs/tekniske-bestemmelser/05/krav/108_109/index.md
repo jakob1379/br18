@@ -1,4 +1,11 @@
+---
+title: "Brand (§ 82 - § 158)"
+---
+
 # Brand (§ 82 - § 158)
+
+[Krav](./){ .md-button .md-button--primary }
+[Vejledning](../../vejledninger/){ .md-button }
 
 ## § 82 - § 83 Sikkerhed ved brand {#50124df8-7578-4933-a275-9b4c0208aea8}
 

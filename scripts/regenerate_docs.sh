@@ -1,12 +1,15 @@
 #!/usr/bin/env bash
-# Regenerate corpus pages from the origin, or from a parity audit snapshot with --cache-dir:
-# fetch -> convert -> rebuild chapter hubs -> link cross-references -> build -> keep published anchors -> build -> repair links
-# -> fetch missing referenced files.
-#
-# usage: scripts/regenerate_docs.sh [--cache-dir DIR] [--project DIR] DOCS_SUBDIR...
-#   DOCS_SUBDIR  docs-relative directories whose pages to regenerate, e.g. tekniske-bestemmelser/15
-#   --project    directory holding docs/ and zensical.toml (default: the repository)
 set -euo pipefail
+
+usage() {
+  cat >&2 <<'EOF'
+usage: scripts/regenerate_docs.sh [--cache-dir DIR] [--project DIR] DOCS_SUBDIR...
+  DOCS_SUBDIR  docs-relative directories whose pages to regenerate, e.g. tekniske-bestemmelser/15
+  --cache-dir  read origin pages from a parity audit snapshot instead of crawling the origin (throttled)
+  --project    directory holding docs/, zensical.toml and the corpus data files (default: the repository)
+EOF
+  exit 2
+}
 
 repo="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 project="$repo"
@@ -18,22 +21,33 @@ while [[ $# -gt 0 ]]; do
     *) break ;;
   esac
 done
-[[ $# -gt 0 ]] || { sed -n '6,8p' "$0" >&2; exit 2; }
+[[ $# -gt 0 ]] || usage
 
 docs="$project/docs"
 py=(uv run --project "$repo" python)
 stage="$(mktemp -d)"
-trap 'rm -rf "$stage"' EXIT
+work="$(mktemp -d)"
+trap 'rm -rf "$stage" "$work"' EXIT
 
-mapfile -t urls < <(cd "$docs" && find "$@" -name index.md -printf 'https://www.bygningsreglementet.dk/%h/\n' | sort)
-# Local-only pages (chapter hubs, landing pages) are not on the origin; fetch reports and skips them.
-"${py[@]}" "$repo/scripts/fetch_origin_pages.py" --docs-root "$stage" "${cache[@]}" "${urls[@]}" >/dev/null || true
+if [[ ${#cache[@]} -eq 0 ]]; then
+  cache=(--cache-dir "$work/origin")
+  "${py[@]}" "$repo/scripts/audit_br18_parity.py" "${cache[@]}" --list-pages "$@" >"$work/urls"
+else
+  "${py[@]}" "$repo/scripts/audit_br18_parity.py" --offline "${cache[@]}" --list-pages "$@" >"$work/urls"
+fi
+mapfile -t urls <"$work/urls"
+"${py[@]}" "$repo/scripts/fetch_origin_pages.py" --docs-root "$stage" "${cache[@]}" "${urls[@]}" >/dev/null
 "${py[@]}" "$repo/scripts/convert_br18_docs.py" --docs-root "$stage"
+
+(cd "$stage" && find . -name index.md | sed 's|^\./||'; grep -v '^#' "$project/local-pages.txt") | sort -u >"$work/keep"
+(cd "$docs" && find "$@" -name index.md 2>/dev/null | sort || true) | comm -23 - "$work/keep" >"$work/gone"
+while read -r page; do rm "$docs/$page"; done <"$work/gone"
+
 cp -r "$stage/." "$docs/"
-"${py[@]}" "$repo/scripts/build_chapter_hubs.py" --docs-root "$docs" "${cache[@]}"
-"${py[@]}" "$repo/scripts/link_references.py" --docs-root "$docs" --data-dir "$repo"
+"${py[@]}" "$repo/scripts/build_chapter_hubs.py" --docs-root "$docs" "${cache[@]}" "$@"
+"${py[@]}" "$repo/scripts/link_references.py" --docs-root "$docs" --data-dir "$project"
 uv run --project "$repo" --directory "$project" zensical build --strict
-"${py[@]}" "$repo/scripts/keep_anchors.py" --docs-root "$docs" --site-dir "$project/site" --baseline "$repo/required-anchors.tsv"
+"${py[@]}" "$repo/scripts/keep_anchors.py" --docs-root "$docs" --site-dir "$project/site" --baseline "$project/required-anchors.tsv"
 uv run --project "$repo" --directory "$project" zensical build --strict
-"${py[@]}" "$repo/scripts/fix_broken_links.py" --docs-root "$docs" --site-root "$project/site" "${cache[@]}"
+"${py[@]}" "$repo/scripts/fix_broken_links.py" --docs-root "$docs" --site-root "$project/site" --dead-links "$project/origin-dead-links.toml" "${cache[@]}"
 "${py[@]}" "$repo/scripts/sync_referenced_files.py" --docs-root "$docs"

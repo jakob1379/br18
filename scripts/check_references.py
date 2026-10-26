@@ -1,14 +1,4 @@
 #!/usr/bin/env python3
-"""Verify the clone's cross-reference links (the `a.br18-ref` links link_references.py writes).
-
-Offline (build check): every a.br18-ref on the built site lands on a target that covers what its title says it
-references: the heading `§ N` or a group `§ A - § B` containing N (a range: its first paragraph), a chapter's page,
-an annex table heading; a retsinformation link uses a law of xref-laws.toml and one of its cached fragment ids.
-The link text must name the number, and no reference markup may show as text.
-
---laws-online (scheduled): ask retsinformation.dk for each law of xref-laws.toml and fail if it is marked
-historical or lost a cached fragment id; with --update, rewrite the cached id lists instead.
-"""
 
 from __future__ import annotations
 
@@ -26,21 +16,15 @@ from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import urlsplit
 
+from link_references import CHAPTER_RANGE_RE, SECTION_HEADING_RE, key_of
+
 REPO = Path(__file__).resolve().parent.parent
 API = "https://www.retsinformation.dk/api/document"
-TITLE_RE = re.compile(r"^(?P<law>.+?) (?:(?P<sign>§§?) (?P<lo>\d+[a-zA-Z]?)(?:-(?P<hi>\d+[a-zA-Z]?))?|kapitel (?P<chapter>\d+)(?:-\d+)?|bilag (?P<annex>\d+)(?:, tabel (?P<table>\w+))?)$")
-HEADING_RE = re.compile(r"^§\s*(\d+)\s?([a-zæøå])?(?![a-zæøå\d])(?:\s*[-–]\s*§\s*(\d+)\s?([a-zæøå])?)?")
-CHAPTER_RANGE_RE = re.compile(r"\(§\s*(\d+)\s?([a-z])?\s*[-–]\s*§\s*(\d+)\s?([a-z])?\)")
+TITLE_RE = re.compile(r"^(?P<law>.+?) (?:(?P<sign>§§?) (?P<lo>(?P<lo_n>\d+)(?P<lo_l>[a-zA-Z]?))(?:-(?P<hi>(?P<hi_n>\d+)(?P<hi_l>[a-zA-Z]?)))?|kapitel (?P<chapter>\d+)(?:-\d+)?|bilag (?P<annex>\d+)(?:, tabel (?P<table>\w+))?)$")
 ID_RE = re.compile(r'\b(?i:id)="(P\d+[A-Za-z]*,?)"')
 
 
-def key(text: str) -> tuple[int, str]:
-    m = re.match(r"(\d+)\s?([a-zA-Z]?)", text)
-    return int(m.group(1)), m.group(2).lower()
-
-
 class Page(HTMLParser):
-    """Ids (with heading text), h1 text and br18-ref links in the article of a built page."""
 
     def __init__(self) -> None:
         super().__init__(convert_charrefs=True)
@@ -126,12 +110,12 @@ class Site:
 
 
 def covers(heading: str, lo: tuple[int, str], hi: tuple[int, str] | None) -> bool:
-    m = HEADING_RE.match(heading)
+    m = SECTION_HEADING_RE.match(heading)
     if not m:
         return False
-    start = (int(m.group(1)), m.group(2) or "")
+    start = key_of(m.group(1), m.group(2))
     if m.group(3):
-        return start <= lo <= (int(m.group(3)), m.group(4) or "")
+        return start <= lo <= key_of(m.group(3), m.group(4))
     return start == lo
 
 
@@ -159,11 +143,11 @@ def check_local(site: Site, page_rel: str, ref: dict, m: re.Match[str]) -> str |
         if table and not re.match(rf"[Tt]abel {re.escape(table)}(?![\w.])", target.ids.get(fragment, "")):
             return f"#{fragment} is not tabel {table}: {target.ids.get(fragment)!r}"
         return None if table or not fragment else f"bilag link with fragment #{fragment}"
-    lo = key(m.group("lo"))
-    hi = key(m.group("hi")) if m.group("hi") else None
+    lo = key_of(m.group("lo_n"), m.group("lo_l").lower())
+    hi = key_of(m.group("hi_n"), m.group("hi_l").lower()) if m.group("hi") else None
     if not fragment:
         r = CHAPTER_RANGE_RE.search(target.h1)
-        whole = r and (int(r.group(1)), r.group(2) or "") <= lo and (hi or lo) <= (int(r.group(3)), r.group(4) or "")
+        whole = r and key_of(r.group(1), r.group(2)) <= lo and (hi or lo) <= key_of(r.group(3), r.group(4))
         return None if whole else f"{target_rel}/ ({target.h1!r}) does not cover {ref['title']}"
     heading = target.ids[fragment]
     return None if covers(heading, lo, hi) else f"#{fragment} ({heading!r}) does not cover {ref['title']}"
@@ -261,7 +245,7 @@ def check_laws_online(path: Path, api: str, delay: float, update: bool) -> int:
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    parser = argparse.ArgumentParser()
     parser.add_argument("--site-dir", type=Path, default=REPO / "site")
     parser.add_argument("--laws", type=Path, default=REPO / "xref-laws.toml")
     parser.add_argument("--laws-online", action="store_true", help="check the laws' status on retsinformation.dk (network)")

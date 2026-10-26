@@ -1,6 +1,5 @@
 from __future__ import annotations
 
-import hashlib
 import json
 import shutil
 import subprocess
@@ -8,6 +7,9 @@ import sys
 import tempfile
 import unittest
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "scripts"))
+from audit_br18_parity import cache_file
 
 SCRIPT = Path(__file__).resolve().parent.parent / "scripts" / "fix_broken_links.py"
 
@@ -58,7 +60,7 @@ class FixBrokenLinksTest(unittest.TestCase):
         cache.mkdir()
         url = "https://www.bygningsreglementet.dk/34/vejledninger/vejledning-til-kap34/"
         record = {"url": url, "final": "https://www.bygningsreglementet.dk/34/vejledninger/vejledning-til-kapitel-34/", "status": 200, "html": ""}
-        (cache / f"{hashlib.sha256(url.encode()).hexdigest()[:32]}.json").write_text(json.dumps(record), encoding="utf-8")
+        cache_file(cache, url).write_text(json.dumps(record), encoding="utf-8")
 
         self.assertEqual(self.fix("--cache-dir", str(cache)), "Se [kapitel 34](../34/vejledninger/vejledning-til-kapitel-34/).\n")
 

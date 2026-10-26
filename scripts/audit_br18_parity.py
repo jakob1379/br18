@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import argparse
 import hashlib
+import html
 import json
 import os
 import re
@@ -11,13 +12,16 @@ import time
 import tomllib
 import unicodedata
 from collections import deque
+from collections.abc import Callable
 from difflib import SequenceMatcher
 from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import quote, unquote, urldefrag, urljoin, urlsplit, urlunsplit
 
 SITE = "https://www.bygningsreglementet.dk"
-HOSTS = {"www.bygningsreglementet.dk", "bygningsreglementet.dk"}
+DEFAULT_DELAY = 2.0
+HOST = urlsplit(SITE).netloc
+HOSTS = {HOST, HOST.removeprefix("www.")}
 ASSET_EXTS = {".pdf", ".doc", ".docx", ".xls", ".xlsx", ".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg"}
 SKIP_PREFIXES = ("/historisk/",)
 SKIP_HOSTS = {"historisk.bygningsreglementet.dk"}
@@ -36,7 +40,6 @@ ORIGIN_SKIP_CLASSES = {
     "visible--xs",
     "visuallyhidden",
 }
-# md-button links emulate the origin's Krav/Vejledning tab bar, which is chrome on the origin.
 LOCAL_SKIP_CLASSES = {"headerlink", "md-button", "md-content__button", "md-source-file"}
 LINK_SKIP_CLASSES = {"accordion__trigger"}
 VOID_TAGS = {"area", "base", "br", "col", "embed", "hr", "img", "input", "link", "meta", "param", "source", "track", "wbr"}
@@ -66,10 +69,11 @@ CHAPTER_SECTIONS = {
 }
 TYPOGRAPHY = str.maketrans({"\u201c": '"', "\u201d": '"', "\u201e": '"', "\u00ab": '"', "\u00bb": '"', "\u2018": "'", "\u2019": "'", "\u2013": "-", "\u2014": "-", "\u00ad": None, "\u200b": None})
 LIST_MARKER = re.compile(r"^\(?(\d{1,3}|[a-zæøå]|[ivxl]{1,5})[.)]$", re.IGNORECASE)
-# Differing runs without a word still matter when they carry markdown/markup characters (`* *`, `**`, `\*`).
 SIGNIFICANT = re.compile(r"[\w*_`\\#@\[\]{}<>|~^]")
-# The origin CMS escapes some line breaks, so they show as literal `<br/>` text where the clone breaks the line.
 ESCAPED_BR = re.compile(r"<br\s*/?>", re.IGNORECASE)
+TITLE_RE = re.compile(r"<title>(.*?)</title>", re.IGNORECASE | re.DOTALL)
+H1_RE = re.compile(r"<h1\b[^>]*>(.*?)</h1>", re.IGNORECASE | re.DOTALL)
+TITLE_SUFFIX = " | BR18"
 
 
 class ContentParser(HTMLParser):
@@ -79,6 +83,8 @@ class ContentParser(HTMLParser):
         self.root_class = root_class
         self.skip_classes = skip_classes
         self.all_links: list[str] = []
+        self.nav_links: list[str] = []
+        self._navs: list[bool] = []
         self.links: list[str] = []
         self.images: list[str] = []
         self.text: list[str] = []
@@ -88,8 +94,12 @@ class ContentParser(HTMLParser):
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
         attrs_d = {k: v or "" for k, v in attrs}
         classes = set(attrs_d.get("class", "").split())
+        if tag == "nav":
+            self._navs.append("accordion__nav" not in classes)
         if tag == "a" and attrs_d.get("href"):
             self.all_links.append(attrs_d["href"])
+            if any(self._navs) or "md-button" in classes:
+                self.nav_links.append(attrs_d["href"])
         if self._skip:
             if tag == self._skip[0]:
                 self._skip[1] += 1
@@ -115,6 +125,8 @@ class ContentParser(HTMLParser):
             self.links.append(attrs_d["href"])
 
     def handle_endtag(self, tag: str) -> None:
+        if tag == "nav" and self._navs:
+            self._navs.pop()
         if tag in VOID_TAGS:
             return
         if self._skip:
@@ -148,6 +160,19 @@ def words(text: str) -> list[str]:
     return [w for w in text.split() if not LIST_MARKER.match(w)]
 
 
+def page_title(html_text: str) -> str:
+    def text(m: re.Match[str] | None) -> str:
+        return " ".join(html.unescape(re.sub(r"<[^>]*>", "", m.group(1))).replace("¶", "").split()) if m else ""
+
+    site_title = TITLE_SUFFIX.strip(" |")
+    title = text(TITLE_RE.search(html_text)).removesuffix(TITLE_SUFFIX)
+    if title and title != site_title:
+        return title
+    start = max(html_text.find("<main"), 0)
+    end = html_text.find("</main>", start)
+    return text(H1_RE.search(html_text, start, end if end > 0 else len(html_text))) or site_title
+
+
 def text_diff(origin: list[str], local: list[str]) -> tuple[list[str], list[str]]:
     missing: list[str] = []
     extra: list[str] = []
@@ -173,7 +198,7 @@ def normalize_url(url: str) -> str | None:
     if any(path.lower().startswith(prefix) for prefix in SKIP_PREFIXES):
         return None
     query = "Layout=ShowAll" if p.query == "Layout=ShowAll" else ""
-    return urlunsplit(("https", "www.bygningsreglementet.dk", path, query, ""))
+    return urlunsplit(("https", HOST, path, query, ""))
 
 
 def _case_insensitive_child(parent: Path, name: str) -> Path:
@@ -239,23 +264,22 @@ def section_of(url: str) -> str:
 
 
 class OriginFetcher:
-    def __init__(self, origin: str, cache_dir: Path, delay: float) -> None:
-        self.origin = origin.rstrip("/")
+    def __init__(self, origin: str | None, cache_dir: Path, delay: float) -> None:
+        self.origin = origin.rstrip("/") if origin else None
         self.cache_dir = cache_dir
         self.delay = delay
         self._pw = None
         self._page = None
 
-    def _cache_file(self, url: str) -> Path:
-        return self.cache_dir / f"{hashlib.sha256(url.encode()).hexdigest()[:32]}.json"
-
     def cached(self, url: str) -> bool:
-        return self._cache_file(url).exists()
+        return cache_file(self.cache_dir, url).exists()
 
     def get(self, url: str) -> dict:
-        target = self._cache_file(url)
+        target = cache_file(self.cache_dir, url)
         if target.exists():
             return json.loads(target.read_text(encoding="utf-8"))
+        if self.origin is None:
+            return {"url": url, "final": url, "status": None, "error": "not in the snapshot", "html": ""}
         rec = self._render(url)
         if rec["status"] is not None and rec["status"] < 500:
             target.parent.mkdir(parents=True, exist_ok=True)
@@ -303,7 +327,6 @@ class OriginFetcher:
 
 
 def canonical_page(url: str) -> str:
-    """The origin serves page paths case-insensitively, with or without a trailing slash."""
     p = urlsplit(url)
     path = quote(unquote(p.path).lower(), safe="/")
     if not path.endswith("/") and not Path(path).suffix:
@@ -311,8 +334,13 @@ def canonical_page(url: str) -> str:
     return urlunsplit((p.scheme, p.netloc, path, p.query, ""))
 
 
+def cache_file(cache_dir: Path, url: str) -> Path:
+    p = urlsplit(url)
+    key = canonical_page(urlunsplit(("https", HOST, p.path, p.query, "")))
+    return cache_dir / f"{hashlib.sha256(key.encode()).hexdigest()[:32]}.json"
+
+
 def _show_all_html(fetcher: OriginFetcher, url: str, links: list[str]) -> str | None:
-    """Accordion pages load collapsed sections on click; their ShowAll view holds the full content."""
     path = urlsplit(url).path
     for link in sorted({canonical_page(u) for u in links}):
         p = urlsplit(link)
@@ -323,27 +351,28 @@ def _show_all_html(fetcher: OriginFetcher, url: str, links: list[str]) -> str | 
 
 
 def crawl(
-    fetcher: OriginFetcher, sections: set[str], max_pages: int
-) -> tuple[dict[str, str], dict[str, str], dict[str, str], dict[str, str], dict[str, str]]:
-    """Returns (reference html, own html as served on the page's URL, redirect alias -> target page, fetch errors, origin 4xx)."""
+    fetcher: OriginFetcher, in_scope: Callable[[str], bool], max_pages: int
+) -> tuple[dict[str, str], dict[str, str], dict[str, str], dict[str, str], dict[str, str], set[str]]:
     seed = SITE + "/"
     todo = deque([seed])
     seen: set[str] = set()
+    linked = {seed}
     pages: dict[str, str] = {}
     own: dict[str, str] = {}
     redirects: dict[str, str] = {}
     errors: dict[str, str] = {}
     origin_broken: dict[str, str] = {}
+    nav_targets: set[str] = set()
     while todo and len(pages) < max_pages:
         url = todo.popleft()
         if url in seen:
             continue
         seen.add(url)
-        if section_of(url) not in sections and url != seed and not fetcher.cached(url):
+        if not in_scope(url) and url != seed and not fetcher.cached(url):
             continue
         rec = fetcher.get(url)
         if rec["status"] != 200:
-            if section_of(url) in sections:
+            if in_scope(url):
                 target = errors if rec["status"] is None or rec["status"] >= 500 else origin_broken
                 target[url] = rec.get("error") or f"HTTP {rec['status']}"
             continue
@@ -354,14 +383,32 @@ def crawl(
         if page_url != url and page_url in pages:
             continue
         seen.update({final, page_url})
-        hrefs = parse(rec["html"], "main", None, ORIGIN_SKIP_CLASSES).all_links
-        links = [u for u in (normalize_url(urljoin(final, href)) for href in hrefs) if u]
-        if section_of(final) in sections:
+        parsed = parse(rec["html"], "main", None, ORIGIN_SKIP_CLASSES)
+        links = [u for u in (normalize_url(urljoin(final, href)) for href in parsed.all_links) if u]
+        nav_targets.update(canonical_page(u) for u in (normalize_url(urljoin(final, h)) for h in parsed.nav_links) if u and "?" not in u)
+        if in_scope(final):
             show_all = urlsplit(final).query == "Layout=ShowAll"
             pages[page_url] = (None if show_all else _show_all_html(fetcher, final, links)) or rec["html"]
             own[page_url] = rec["html"]
-        todo.extend(canonical_page(u) for u in links if "?" not in u and not looks_asset(urlsplit(u).path))
-    return pages, own, redirects, errors, origin_broken
+        targets = [canonical_page(u) for u in links if "?" not in u and not looks_asset(urlsplit(u).path)]
+        linked.update(targets)
+        todo.extend(targets)
+        todo.extend(canonical_page(urljoin(page_url, "../" * n)) for n in range(1, urlsplit(page_url).path.count("/") - 1))
+    return pages, own, redirects, errors, {u: e for u, e in origin_broken.items() if u in linked}, nav_targets
+
+
+def clone_nav_reach(site_dir: Path) -> set[str]:
+    todo = deque(["index.md"])
+    reached: set[str] = set()
+    while todo:
+        doc = todo.popleft()
+        built = site_dir / doc.removesuffix("index.md") / "index.html"
+        if doc in reached or not built.is_file():
+            continue
+        reached.add(doc)
+        links = parse(built.read_text(encoding="utf-8", errors="replace"), "html", None, set()).nav_links
+        todo.extend(_local_refs(links, "http://local/" + doc.removesuffix("index.md"))[0])
+    return reached
 
 
 def _origin_refs(hrefs: list[str], base: str, docs_root: Path, redirects: dict[str, str]) -> tuple[set[str], set[str]]:
@@ -409,59 +456,65 @@ def _local_view(doc: Path, docs_root: Path, site_dir: Path) -> tuple[ContentPars
     return local, "http://local/" + (doc.relative_to(docs_root).parent.as_posix().strip(".") + "/").lstrip("/")
 
 
+def _view_refs(view: ContentParser, base: str, redirects: dict[str, str]) -> tuple[set[str], set[str], set[str]]:
+    pages, files = _local_refs(view.links, base)
+    return {redirects.get(p, p) for p in pages}, files, _local_refs(view.images, base)[1]
+
+
+def _missing_refs(
+    origin: ContentParser, url: str, docs_root: Path, redirects: dict[str, str], local: tuple[set[str], set[str], set[str]],
+    excluded: set[str], prefix: str = "",
+) -> list[tuple[str, str]]:
+    origin_pages, origin_files = _origin_refs(origin.links, url, docs_root, redirects)
+    origin_images = _origin_refs(origin.images, url, docs_root, redirects)[1]
+    local_pages, local_files, local_images = local
+    diffs = [("missing_link", f"{prefix}docs/{p}") for p in sorted(origin_pages - local_pages - excluded)]
+    diffs += [("missing_image", f"{prefix}docs/{p}") for p in sorted(origin_images - local_images)]
+    diffs += [("missing_file", f"{prefix}docs/{p}") for p in sorted(origin_files - local_files)]
+    return diffs
+
+
 def compare(
     url: str, origin_html: str, docs_root: Path, site_dir: Path, root_url: str | None = None, own_html: str | None = None,
     redirects: dict[str, str] | None = None,
 ) -> list[tuple[str, str]]:
-    """root_url: an alias's guide root; its built page supplies the text, links count from both pages.
-    own_html: what the origin shows on the alias's own URL (its own section open); the subpage must keep that text.
-    redirects: doc of an origin redirect alias -> doc of its target; links on both sides count as the target."""
     redirects = redirects or {}
     doc = page_to_doc(urlsplit(url).path, docs_root)
     doc_rel = doc.relative_to(docs_root).as_posix()
     built = _built_page(doc, docs_root, site_dir)
-    if not root_url and not doc.exists():
+    if not doc.exists():
         return [("missing_page", f"docs/{doc_rel}")]
-    if not root_url and not built.exists():
+    if not built.exists():
         return [("missing_page", f"{built.name} not built for docs/{doc_rel}")]
     origin = parse(origin_html, "main", None, ORIGIN_SKIP_CLASSES)
-    views = [_local_view(doc, docs_root, site_dir)] if built.exists() else []
+    views = [_local_view(doc, docs_root, site_dir)]
     excluded = {doc_rel}
     if root_url:
         root_doc = page_to_doc(urlsplit(root_url).path, docs_root)
         views.insert(0, _local_view(root_doc, docs_root, site_dir))
         excluded.add(root_doc.relative_to(docs_root).as_posix())
-    local_pages: set[str] = set()
-    local_files: set[str] = set()
-    local_images: set[str] = set()
-    for view, base in views:
-        pages_, files_ = _local_refs(view.links, base)
-        pages_ = {redirects.get(p, p) for p in pages_}
-        local_pages |= pages_
-        local_files |= files_
-        local_images |= _local_refs(view.images, base)[1]
+    refs = [_view_refs(view, base, redirects) for view, base in views]
+    union = tuple(set().union(*kind) for kind in zip(*refs))
     origin_words = words(ESCAPED_BR.sub(" ", "".join(origin.text)))
     missing_text, extra_text = text_diff(origin_words, words("".join(views[0][0].text)))
-    if root_url and built.exists():
-        # A subpage keeps only its own section of the guide, so only its text that the reference lacks counts.
+    own_refs: list[tuple[str, str]] = []
+    if root_url:
         own_words = words("".join(views[-1][0].text))
-        shown = words(ESCAPED_BR.sub(" ", "".join(parse(own_html, "main", None, ORIGIN_SKIP_CLASSES).text))) if own_html else []
-        # The word diff against the long reference can misalign a section-only page; text its own origin page shows is not extra.
+        own_origin = parse(own_html, "main", None, ORIGIN_SKIP_CLASSES) if own_html else None
+        shown = words(ESCAPED_BR.sub(" ", "".join(own_origin.text))) if own_origin else []
         shown_text = f" {' '.join(shown)} "
         extra_text += [f"(own page) {t}" for t in text_diff(origin_words, own_words)[1] if f" {t} " not in shown_text]
-        if own_html:
+        if own_origin:
             missing_text += [f"(own page) {t}" for t in text_diff(shown, own_words)[0]]
-    origin_pages, origin_files = _origin_refs(origin.links, url, docs_root, redirects)
-    origin_images = _origin_refs(origin.images, url, docs_root, redirects)[1]
+            own_refs = _missing_refs(own_origin, url, docs_root, redirects, refs[-1], excluded, "(own page) ")
     diffs = [("missing_text", t) for t in missing_text] + [("extra_text", t) for t in extra_text]
-    diffs += [("missing_link", f"docs/{p}") for p in sorted(origin_pages - local_pages - excluded)]
-    diffs += [("missing_image", f"docs/{p}") for p in sorted(origin_images - local_images)]
-    diffs += [("missing_file", f"docs/{p}") for p in sorted(origin_files - local_files)]
-    return diffs
+    origin_title, local_title = page_title(own_html or origin_html), page_title(built.read_text(encoding="utf-8", errors="replace"))
+    if len({unicodedata.normalize("NFKC", t).translate(TYPOGRAPHY) for t in (origin_title, local_title)}) > 1:
+        diffs.insert(0, ("wrong_title", f"{local_title} (origin: {origin_title})"))
+    return diffs + _missing_refs(origin, url, docs_root, redirects, union, excluded) + own_refs
 
 
 def alias_roots(pages: dict[str, str]) -> dict[str, str]:
-    """Guide subpages render the whole guide: a page whose reference text equals an ancestor page's is that guide root's alias."""
     texts = {u: words("".join(parse(h, "main", None, ORIGIN_SKIP_CLASSES).text)) for u, h in pages.items()}
     roots: dict[str, str] = {}
     for url in pages:
@@ -472,7 +525,7 @@ def alias_roots(pages: dict[str, str]) -> dict[str, str]:
     return roots
 
 
-KINDS = ("missing_page", "missing_text", "extra_text", "missing_link", "missing_image", "missing_file")
+KINDS = ("missing_page", "wrong_title", "missing_nav", "missing_text", "extra_text", "missing_link", "missing_image", "missing_file")
 
 
 def load_allowlist(path: Path) -> list[dict]:
@@ -488,7 +541,6 @@ def load_allowlist(path: Path) -> list[dict]:
 def apply_allowlist(
     url: str, diffs: list[tuple[str, str]], allowlist: list[dict], root_url: str | None = None
 ) -> tuple[list[tuple[str, str]], int]:
-    """An alias's items other than its (own page) ones are its guide root's, so the root's entries cover them too."""
     path = urlsplit(url).path
     root = urlsplit(root_url).path if root_url else None
     rules = [(e["kind"], e.get("item"), e["page"] == path) for e in allowlist if e["page"] in (path, root)]
@@ -560,9 +612,11 @@ def main() -> int:
     ap.add_argument("--origin", default=SITE)
     ap.add_argument("--cache-dir", default=".cache/parity-origin")
     ap.add_argument("--allowlist", default="parity-allowlist.toml")
-    ap.add_argument("--delay", type=float, default=2.0)
+    ap.add_argument("--delay", type=float, default=DEFAULT_DELAY)
     ap.add_argument("--max-pages", type=int, default=2000)
     ap.add_argument("--output", default="state/br18-parity-audit.md")
+    ap.add_argument("--offline", action="store_true", help="read the snapshot in --cache-dir only, never the origin")
+    ap.add_argument("--list-pages", nargs="*", metavar="DOCS_SUBDIR", help="print the origin pages under these docs dirs (default: all) and exit")
     args = ap.parse_args()
     docs_root = Path(args.docs_root).resolve()
     site_dir = Path(args.site_dir).resolve()
@@ -571,9 +625,19 @@ def main() -> int:
         allowlist = load_allowlist(Path(args.allowlist))
     except (ValueError, tomllib.TOMLDecodeError) as exc:
         ap.error(str(exc))
-    fetcher = OriginFetcher(args.origin, Path(args.cache_dir), args.delay)
+    fetcher = OriginFetcher(None if args.offline else args.origin, Path(args.cache_dir), args.delay)
+    if args.list_pages is not None:
+        prefixes = [f"/{d.strip('/').lower()}/" for d in args.list_pages if d.strip("/")]
+        try:
+            pages, _, _, errors, _, _ = crawl(fetcher, lambda u: not prefixes or urlsplit(u).path.startswith(tuple(prefixes)), args.max_pages)
+        finally:
+            fetcher.close()
+        print("\n".join(sorted(pages)))
+        for url, err in sorted(errors.items()):
+            print(f"not fetched: {url} ({err})", file=sys.stderr)
+        return 1 if errors else 0
     try:
-        pages, own, redirects, errors, origin_broken = crawl(fetcher, set(sections), args.max_pages)
+        pages, own, redirects, errors, origin_broken, nav_targets = crawl(fetcher, lambda u: section_of(u) in sections, args.max_pages)
     finally:
         fetcher.close()
     results: dict[str, list[tuple[str, str]]] = {}
@@ -586,8 +650,12 @@ def main() -> int:
         return page_to_doc(urlsplit(u).path, docs_root).relative_to(docs_root).as_posix()
 
     doc_redirects = {doc_of(a): doc_of(t) for a, t in redirects.items()}
+    reached = {doc_redirects.get(d, d) for d in clone_nav_reach(site_dir)}
+    unreached = {u for u in (redirects.get(t, t) for t in nav_targets) if u in pages and doc_of(u) not in reached}
     for url, html_text in pages.items():
         diffs = compare(url, html_text, docs_root, site_dir, roots.get(url), own.get(url), doc_redirects)
+        if url in unreached:
+            diffs.append(("missing_nav", f"docs/{doc_of(url)}"))
         results[url], allowed[url] = apply_allowlist(url, diffs, allowlist, roots.get(url))
     out = Path(args.output)
     out.parent.mkdir(parents=True, exist_ok=True)

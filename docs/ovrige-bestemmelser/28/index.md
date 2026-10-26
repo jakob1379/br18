@@ -1,3 +1,7 @@
+---
+title: "Dokumentation af bærende konstruktioner (§ 494 - § 505)"
+---
+
 <span id="s494-505"></span>
 
 # Dokumentation af bærende konstruktioner (§ 494 - § 505)

@@ -1,4 +1,11 @@
+---
+title: "Ubebyggede arealer ved bebyggelse (§ 393 - § 402)"
+---
+
 # Ubebyggede arealer ved bebyggelse (§ 393 - § 402)
+
+[Krav](./){ .md-button .md-button--primary }
+[Vejledning](../../vejledninger/){ .md-button }
 
 ## § 393- § 394 Ubebyggede arealer ved bebyggelse {#584d5900-519b-4943-86e2-091c00e2a80a}
 

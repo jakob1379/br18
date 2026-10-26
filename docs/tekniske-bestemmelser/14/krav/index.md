@@ -1,4 +1,11 @@
+---
+title: "Fugt og vådrum (§ 334 - § 339)"
+---
+
 # Fugt og vådrum (§ 334 - § 339)
+
+[Krav](./){ .md-button .md-button--primary }
+[Vejledning](../vejledninger/qa/){ .md-button }
 
 ## § 334 - § 338 Fugt {#15eef60e-136b-4f8a-88ab-46705ab5ca21}
 

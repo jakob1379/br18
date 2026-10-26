@@ -1,4 +1,11 @@
+---
+title: "Afløb (§ 69 - § 81)"
+---
+
 # Afløb (§ 69 - § 81)
+
+[Krav](./){ .md-button .md-button--primary }
+[Vejledning](../vejledninger/qa/){ .md-button }
 
 ## § 69 Afløb {#4dcab947-3dab-4037-9777-d974ca3e856f}
 

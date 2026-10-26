@@ -1,4 +1,11 @@
+---
+title: "Andre vejledninger"
+---
+
 # Andre vejledninger
+
+[Samlet oversigt](./){ .md-button .md-button--primary }
+[Vejledninger](../../vejledning/){ .md-button }
 
 <span id="vejledning-til-protected_0-protected_1"></span><span id="certificeringsordningen-brandradgivere-og-statikere"></span>
 

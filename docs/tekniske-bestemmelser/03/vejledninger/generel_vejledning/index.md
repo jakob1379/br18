@@ -1,4 +1,11 @@
+---
+title: "Affaldssystemer (§ 63 - § 68)"
+---
+
 # Affaldssystemer (§ 63 - § 68)
+
+[Krav](../../krav/){ .md-button }
+[Vejledning](./){ .md-button .md-button--primary }
 
 ## Bygningsreglementets vejledning om affaldssystemer
 

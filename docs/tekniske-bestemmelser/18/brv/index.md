@@ -1,5 +1,5 @@
 ---
-title: Lys og udsyn (§ 377 - § 384) – Vejledning
+title: "Lys og udsyn (§ 377 - § 384)"
 ---
 
 # Lys og udsyn (§ 377 - § 384)
