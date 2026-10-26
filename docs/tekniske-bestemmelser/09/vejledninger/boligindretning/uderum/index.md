@@ -2,15 +2,19 @@
 
 ## Se alle vejledninger om Bygningens indretning (§ 196 - § 241)
 
-- [Spørgsmål og svar om bygningens indretning](../../qa)
-- [Vejledning om boligindretning](./)
-- [Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger](../../bygningsglas)
+- [Spørgsmål og svar om bygningens indretning](../../qa/)
+- [Vejledning om boligindretning](../)
+- [Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger](../../bygningsglas/)
 
 ## Vejledning om boligindretning
 
-### Kolofon
+<span id="kolofon"></span>
 
-### Forord
+### Kolofon {#818585de-abef-41f2-b417-27010078f7d0}
+
+<span id="forord"></span>
+
+### Forord {#a65228a9-ae42-48b3-b79b-97cd2de40d36}
 
 ### 1. Boligens beboere {#f036d581-3495-4f91-bd3a-93c1361c0e4d}
 
@@ -58,11 +62,11 @@ Altanen kan have mange udformninger, og samspillet mellem dagslyset, vinduesåbn
 
 En tagterrasse kan være et fælles eller et privat uderum, som er integreret i eller på bebyggelsens tag. Tagterrassen kan placeres, så flere boliger, fx fra en hel opgang, har adgang til den. Den kan derved have samme sociale funktion, som uderum og haverum mellem husene har. Tagterrassen kan tilbyde udsigt over området og, alt efter orienteringen, et solfyldt sted, der også får sollys, når den lave sol ikke har mulighed for at komme ned mellem husene og på den måde bidrage positivt til bebyggelsens kvaliteter.
 
-###
-
 ![](../../../../../media/tg1gb1cr/illustration-10-br-vejledning-om-boligindretning.png)
 
 Illustration 10: Altaner. Alt efter om altanen er udeliggende (a), delvist indeliggende (b) eller indeliggende (c), skygger den mere eller mindre for rum under altanen. Diagrammet er en forenklet illustration af, hvordan en altan kan skabe skygge i rummene under sig og dermed påvirke rummets lysniveau. Diagrammet illustrerer situationen for en bolig, hvor der også er en genbobygning, der skygger (se kap. 2.6 Dagslysforhold, ill. 09). Samspillet mellem dagslyset, vinduet og skyggende elementer er komplekst og har indflydelse på lysniveauet i rummet og bør tilrettelægges med omhu.
+
+<span id="_1"></span>
 
 ### 3. Boligens aktiviteter {#29b603f5-2588-4abb-a33b-7f51ad402e5d}
 
@@ -80,4 +84,6 @@ Illustration 10: Altaner. Alt efter om altanen er udeliggende (a), delvist indel
 
 ### 3.7. At bade {#9d95ee42-38e2-41d4-ae53-1d23da54a544}
 
-### Appendix: Litteratur
+<span id="appendix-litteratur"></span>
+
+### Appendix: Litteratur {#dad94911-d8be-4830-9756-dcbefa202590}

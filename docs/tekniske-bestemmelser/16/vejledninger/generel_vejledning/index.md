@@ -2,12 +2,14 @@
 
 ## Se alle vejledninger om Legepladser mv. (§ 358 - § 367)
 
-- [](../qa)
+- [](../qa/)
 - [Bygningsreglementets vejledning om legepladser mv.](./)
 
 ## Bygningsreglementets vejledning om legepladser mv.
 
-### Rettelsesblad til vejledning om legepladser (1. januar 2025)
+<span id="rettelsesblad-til-vejledning-om-legepladser-1-januar-2025"></span>
+
+### Rettelsesblad til vejledning om legepladser (1. januar 2025) {#4d2c1417-498a-4d15-aa8a-9bf90427efa7}
 
 Der er udgivet et rettelsesblad den 1. januar 2025.
 
@@ -87,7 +89,7 @@ Såfremt der sker genanvendelse af tidligere benyttede redskaber, skal disse (s�
 
 Ansøgning om byggetilladelse til legepladser mv. skal byggesagsbehandles ud fra de samme principper som andre konstruktioner. Ved ansøgning om byggetilladelse skal ansøgningen indeholde de oplysninger, der er nævnt i BR18, § 10, stk. 1, hvor det er relevant. Dette kan f.eks. være oplysninger om forhold vedrørende kapitel 8 om byggeret og helhedsvurdering og kapitel 20 om ubebyggede arealer ved bebyggelse.
 
-For yderligere omkring ansøgning om byggetilladelse samt byggesagsbehandling af legepladser mv. henvises der til *[bygningsreglementets vejledning om byggesagsbehandling efter BR18](../../../../administrative-bestemmelser/brv/vejledning-om-byggesagsbehandling-efter-br18 "Vejledning om byggesagsbehandling efter BR18").*
+For yderligere omkring ansøgning om byggetilladelse samt byggesagsbehandling af legepladser mv. henvises der til *[bygningsreglementets vejledning om byggesagsbehandling efter BR18](../../../../administrative-bestemmelser/brv/vejledning-om-byggesagsbehandling-efter-br18/ "Vejledning om byggesagsbehandling efter BR18").*
 
 ### 3.1. Indplacering i konstruktionsklasse {#bdf21a94-3d46-4fd2-83f6-c7c2939c8a7f}
 
@@ -105,7 +107,7 @@ Hvis legepladser mv. bliver indplaceret i en konstruktionsklasse, eller vurderes
 
 Såfremt legepladser mv. indplaceres i konstruktionsklasse 2-4 skal der tilknyttes en certificeret statiker, jf. BR18 § 16.
 
-For yderligere henvises der til [bygningsreglementets vejledning om indplacering i konstruktionsklasser](../../../../ovrige-bestemmelser/26/brv/indplacering-i-konstruktionsklasser "Indplacering i konstruktionsklasser").
+For yderligere henvises der til [bygningsreglementets vejledning om indplacering i konstruktionsklasser](../../../../ovrige-bestemmelser/26/brv/indplacering-i-konstruktionsklasser/ "Indplacering i konstruktionsklasser").
 
 ### 3.1.1. Legepladser mv., der er undtaget for indplacering i konstruktionsklasse {#1a25dde1-3c1c-4c03-a76a-068cf6b15e8d}
 
@@ -143,7 +145,7 @@ Hvis legepladser mv. bliver indplaceret i en brandklasse, eller vurderes efter �
 
 Såfremt legepladser mv. indplaceres i brandklasse 2-4 skal der tilknyttes en certificeret brandrådgiver, jf. BR18, § 20.
 
-For yderligere henvises der til [bygningsreglementets vejledning til indplacering i brandklasse.](../../../../ovrige-bestemmelser/27/brv/indplacering-i-brandklasser "Indplacering i brandklasser")
+For yderligere henvises der til [bygningsreglementets vejledning til indplacering i brandklasse.](../../../../ovrige-bestemmelser/27/brv/indplacering-i-brandklasser/ "Indplacering i brandklasser")
 
 ### 3.2.1. Legepladser mv., der er undtaget for indplacering i brandklasse {#edfcf8a6-5d39-485e-b349-eb8b38f1fc4a}
 
@@ -177,63 +179,51 @@ Den Europæiske Standardiseringsorganisation (CEN) har desuden udarbejdet en ræ
 
 Derudover indeholder DS-håndbog 105:2012 en række retningslinjer for planlægning af et tilgængeligt udemiljø, herunder adgangsforhold til legepladser.
 
-[![](../../../../assets/img/linkbox/ds_en_tr_linkbox.svg)](# "#title")
-
-####
+[![](../../../../assets/img/linkbox/ds_en_tr_linkbox.svg)](#)
 
 DS/CEN/TR 16879:2016 - Placering af legeplads- og andre fritidsfaciliteter – Rådgivning om metoder til placering og adskillelse
 
-####
-
 Denne tekniske rapport giver råd om placering og mulige metoder til adskillelse mellem rekreative faciliteter, der benyttes af forskellige aldersgrupper og har forskellige risikoniveauer.
+
+<span id="_1"></span><span id="_2"></span>
 
 #### Køb standarden her [](https://webshop.ds.dk/da-dk/standard/ds-cen-tr-168792016){target="_blank"}
 
-[![](../../../../assets/img/linkbox/ds_en_tr_linkbox.svg)](# "#title")
-
-####
+[![](../../../../assets/img/linkbox/ds_en_tr_linkbox.svg)](#)
 
 DS/CEN/TR 16467:2013 - Legepladsudstyr tilgængeligt for alle børn
 
-####
-
 Denne tekniske rapport indeholder guidelines til at udforme legeområder der giver børn med forskellige niveauer af funktionsnedsættelse mulighed for at lege selvstændigt og med passende niveauer af udfordringer og risici
+
+<span id="_3"></span><span id="_4"></span><span id="kb-standarden-her_1"></span>
 
 #### Køb standarden her: [Køb standarden her:](https://webshop.ds.dk/da-dk/standard/ds-cen-tr-164672013){target="_blank"}
 
-[![](../../../../assets/img/linkbox/ds_en_tr_linkbox.svg)](# "#title")
-
-####
+[![](../../../../assets/img/linkbox/ds_en_tr_linkbox.svg)](#)
 
 DS/CEN/TR 16598:2023 - Samling af rationaler for EN 1176 – Krav
 
-####
-
 Denne tekniske rapport indeholder rationaler bag EN 1176 serien, der har til formål, at undgå situationer, hvor et barn på grund af sin alder, evne eller udviklingsstadium ikke er i stand til at forstå en risiko på legepladser mv.
+
+<span id="_5"></span><span id="_6"></span><span id="_7"></span><span id="_8"></span><span id="_9"></span><span id="_10"></span><span id="kb-standarden-her_2"></span><span id="kb-standarden-her_3"></span>
 
 #### Køb standarden her [Køb standarden her](https://webshop.ds.dk/standard/M365218/ds-cen-tr-16598-2023%20){target="_blank"}
 
-[![](../../../../assets/img/linkbox/ds_en_tr_linkbox.svg)](# "#title")
-
-####
+[![](../../../../assets/img/linkbox/ds_en_tr_linkbox.svg)](#)
 
 DS/CEN/TR 16396:2020 - Legepladsredskaber til børn – Svar på forespørgsler om fortolkning af EN 1176-serien.
-
-####
 
 Denne tekniske rapport indeholder svar på anmodninger om fortolkninger vedrørende forståelsen af EN 1176 serien.
 
 #### Køb standarden her [Køb standarden her](https://webshop.ds.dk/standard/M335885/ds-cen-tr-16396-2020){target="_blank"}
 
-[![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
-
-####
+[![](../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 DS-håndbog 105:2012 - Udearealer for alle - sådan planlægges et tilgængeligt udemiljø
 
-####
-
 Denne håndbog indeholder bl.a. information og eksempler på adgangsforhold til legepladser.
+
+<span id="kb-handbogen-her"></span>
 
 #### Køb håndbogen her [Køb håndbogen her](https://webshop.ds.dk/Default.aspx?ID=120&GroupID=11.180.01&ProductID=M266059){target="_blank"}
 
@@ -246,4 +236,3 @@ Det påhviler den til enhver tid værende ejer at vedligeholde og reparere sine 
 Ejeren bør foranledige, at der bliver udført en rutinemæssig visuel inspektion på dagligt eller ugentligt basis eller efter behov, samt en driftinspektion med et mellemrum på 1-3 måneder. Ejeren bør dernæst foranledige, at der bliver udført årlig hovedinspektion af en certificeret legepladsinspektør eller anden kompetent person. Der bør blandt andet testes for halsklem- hovedklem- og snorefælder i forbindelse med årlig hovedinspektion. Endelig bør stabilitet og underlag kontrolleres i forbindelse med både drifts og årlig hovedinspektion.
 
 I forbindelse med vedligehold bør mekaniske dele som for eksempel bolte, beslag og skruer undersøges og efterspændes, dernæst bør beskadiget dele repareres eller udskiftes og bevægelige dele smøres efter behov. Opmærksomheden bør i øvrigt henledes på producentens anvisninger vedrørende drift, inspektion og vedligehold.
-

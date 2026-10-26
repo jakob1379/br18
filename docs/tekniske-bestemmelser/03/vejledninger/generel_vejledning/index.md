@@ -2,7 +2,9 @@
 
 ## Bygningsreglementets vejledning om affaldssystemer
 
-### Forord
+<span id="forord"></span>
+
+### Forord {#9ab0ac2f-29a3-4947-8417-f34d30606232}
 
 For at opnå en større grad af fleksibilitet ved indretning af affaldssystemer og mulighed for eksempelvis at indrette systemer, der passer til det konkrete byggeri i nybyggeri, blev de tidligere detailkrav om etablering af affaldsskakte i boligbyggerier på mere end tre etager ændret. Dette skete med virkning fra den 1. juli 2017, hvor de hidtidige krav blev erstattet af funktionskrav om etablering af affaldssystemer.
 
@@ -94,9 +96,7 @@ Der er varierende pladskrav forbundet med de enkelte indsamlingssystemer. De enk
 
 Enfamiliehuse skal reservere et givent areal på matriklen, til placering af affaldsbeholdere.  Da tømningen skal ske fra offentlig vej, er det blevet et almindeligt krav i kommunerne, at disse beholdere skal stå i forhaven med en maksimumafstand til kantsten.
 
-I fællesbebyggelser (etagebyggeri og tæt/-lav-bebyggelse), skal der afhængig af bebyggelsens omfang og antal boliger indrettes én eller flere - store eller små - affaldsgårde, hvor et antal (fra 5 til
-
-10) affaldsfraktioner skal kunne indsamles. Hertil kommer, at de fleste fællesbebyggelser har behov for opsamling af storskrald, som til dels er "stort brændbart", men også f.eks. kan være rent træ til genanvendelse, tekstiler eller lign. Samtidig anbefaler man i reglen fra affaldsselskabets/kommunens side, at der opføres skure til opsamling af farligt affald samt stort elektronikaffald.
+I fællesbebyggelser (etagebyggeri og tæt/-lav-bebyggelse), skal der afhængig af bebyggelsens omfang og antal boliger indrettes én eller flere - store eller små - affaldsgårde, hvor et antal (fra 5 til 10) affaldsfraktioner skal kunne indsamles. Hertil kommer, at de fleste fællesbebyggelser har behov for opsamling af storskrald, som til dels er ”stort brændbart”, men også f.eks. kan være rent træ til genanvendelse, tekstiler eller lign. Samtidig anbefaler man i reglen fra affaldsselskabets/kommunens side, at der opføres skure til opsamling af farligt affald samt stort elektronikaffald.
 
 Ved byggeri i tætte byområder, er det almindeligt, at kommune og bygherre indgår aftale om, at indsamling og kildesortering af husholdningsaffald m.v. kan ske i over- eller underjordiske beholdere placeret på offentlig vej, placeret i umiddelbar nærhed af den bebyggelse, der genererer affaldet.
 
@@ -138,7 +138,7 @@ Afmærkning og skiltning i forbindelse med affaldssystemer kan med fordel ske s�
 
 For nærmere information om brugergrupperne og de hensyn, der skal tages for de enkelte grupper henvises til:
 
-[Vejledning om brugerbegrebet TBST ](../../../02/vejledninger/vejledning-til-brugerbegreb "Vejledning til brugerbegreb")
+[Vejledning om brugerbegrebet TBST](../../../02/vejledninger/vejledning-til-brugerbegreb/ "Vejledning til brugerbegreb")
 
 Vejledning om BR18 tilgængeligheds krav. Dansk Standard håndbog 186.
 

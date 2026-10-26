@@ -22,9 +22,13 @@
 
 ## Vejledning om transportable telte og konstruktioner
 
-### Kolofon
+<span id="kolofon"></span>
 
-### Bygningsreglementets vejledning om opstilling af transportable konstruktioner, herunder telte, tribuner, scener, messestande, portaler, tårne mm.
+### Kolofon {#d647a15c-d038-4740-bcc2-db3eb0333377}
+
+<span id="bygningsreglementets-vejledning-om-opstilling-af-transportable-konstruktioner-herunder-telte-tribuner-scener-messestande-portaler-tarne-mm"></span>
+
+### Bygningsreglementets vejledning om opstilling af transportable konstruktioner, herunder telte, tribuner, scener, messestande, portaler, tårne mm. {#a6bb9b39-3f1f-4683-90cf-db38fe480268}
 
 Find Bygningsreglementets vejledning om opstilling af transportable konstruktioner, herunder telte, tribuner, scener, messestande, portaler, tårne mm. her:
 

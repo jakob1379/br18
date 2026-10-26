@@ -1,10 +1,8 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
+<span id="administrative-bestemmelser-1-"></span><span id="se-alle-vejledninger-om-administrative-bestemmelser-1-"></span>
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
-
-47)
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
 - [Spørgsmål og svar](../../spoergsmaal-og-svar/)
 - [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../../spoergsmaal-og-svar-ve-anlaeg/)
@@ -26,51 +24,48 @@
 
 ## Eksempelsamling om ombygninger og andre forandringer - For etageboligbyggeri samt enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse
 
-### Kolofon
+<span id="kolofon"></span>
 
-[0](../forord/)
+### Kolofon {#f68306c1-c41e-401a-aab2-adb31d6bb0e3}
 
-### Forord
+<span id="forord"></span>
 
-[1](./)
+### 0 Forord {#df80a889-6625-457d-b3fe-e1687b7b29fb}
 
-### Generelt
+<span id="generelt"></span>
+
+### 1 Generelt {#21495b6f-78b7-4e10-9743-4c47b41ae9d4}
 
 En ombygning indebærer som udgangspunkt, at der sker ændringer inden for de eksisterende rammer for byggeriet som f.eks. udnyttelse af eksisterende loft, ændring af anvendelsen af de enkelte rum (f.eks. fra opholdsrum til køkken), sammenlægning af boligenheder og rum samt etablering af rum mv. Som udgangspunkt øger ombygninger ikke det samlede etageareal. Denne vejledning omfatter dog også andre forandringer end ombygninger, der som udgangspunkt godt kan udvide byggeriets etageareal, højde og volumen.
 
-[1.1](../bygningsreglementets-ombygningsbestemmelser/)
+<span id="bygningsreglementets-ombygningsbestemmelser"></span>
 
-### Bygningsreglementets ombygningsbestemmelser
+### 1.1 Bygningsreglementets ombygningsbestemmelser {#298c7843-a0dd-4973-be74-472322ebef49}
 
-[1.2](../krav-til-konstruktions-og-brandforhold/)
+<span id="krav-til-konstruktions-og-brandforhold"></span>
 
-### Krav til konstruktions- og brandforhold
+### 1.2 Krav til konstruktions- og brandforhold {#c67e186d-c5c0-429e-820b-7176d3a9d547}
 
-[1.3](../dokumentation-herunder-indplacering-i-konstruktions-og-brandklasser/)
+<span id="dokumentation-herunder-indplacering-i-konstruktions-og-brandklasse"></span>
 
-### Dokumentation, herunder indplacering i konstruktions- og brandklasse
+### 1.3 Dokumentation, herunder indplacering i konstruktions- og brandklasse {#c14359ca-3376-40c9-ac8d-e91e38a456d5}
 
-[2](../eksempler-etageboligbyggeri/)
+<span id="etageboligbyggeri-eksempler-pa-ombygninger-og-andre-forandringer"></span>
 
-### Etageboligbyggeri - Eksempler på ombygninger og andre forandringer
+### 2 Etageboligbyggeri - Eksempler på ombygninger og andre forandringer {#3bffc19b-782d-4144-8df2-a2f65378e944}
 
-[2.1](../ombygninger-der-kraever-byggetilladelse/)
+<span id="ombygninger-og-andre-forandringer-der-krver-byggetilladelse"></span><span id="ombygninger-og-andre-forandringer-der-krver-byggetilladelse_1"></span>
 
-### Ombygninger og andre forandringer der kræver byggetilladelse
+### 2.1 Ombygninger og andre forandringer der kræver byggetilladelse {#a2f39fe8-9ddb-4b6e-94e7-969bfbdce576}
 
-[2.2](../ombygninger-der-kan-opfoeres-uden-byggetilladelse/)
+<span id="ombygninger-og-andre-forandringer-der-kan-udfres-uden-ansgning-om-byggetilladelse"></span><span id="ombygninger-og-andre-forandringer-der-kan-udfres-uden-ansgning-om-byggetilladelse_1"></span>
 
-### Ombygninger og andre forandringer der kan udføres uden ansøgning om byggetilladelse
+### 2.2 Ombygninger og andre forandringer der kan udføres uden ansøgning om byggetilladelse {#9561ac47-4b09-4b1c-87ed-1332e9e5dd07}
 
-[3](../eksempler-enfamiliehuse/)
+<span id="enfamiliehuse-dobbelthuse-rkkehuse-og-sommerhuse-eksempler-pa-ombygninger-og-andre-forandringer"></span>
 
-### Enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse - Eksempler på ombygninger og andre forandringer
+### 3 Enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse - Eksempler på ombygninger og andre forandringer {#0c0b0cd0-4953-4816-91f1-d2a02999a2a8}
 
-[3.1](../ombygninger-der-kraever-byggetilladelse_/)
+### 3.1 Ombygninger og andre forandringer der kræver byggetilladelse {#76275838-91af-4905-8352-8d2aef45e85b}
 
-### Ombygninger og andre forandringer der kræver byggetilladelse
-
-[3.2](../ombygninger-der-kan-opfoeres-uden-byggetilladelse_/)
-
-### Ombygninger og andre forandringer der kan udføres uden ansøgning om byggetilladelse
-
+### 3.2 Ombygninger og andre forandringer der kan udføres uden ansøgning om byggetilladelse {#9adc1b1f-315c-4069-97b9-35c305f352ac}

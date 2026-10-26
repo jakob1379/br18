@@ -8,68 +8,70 @@
 
 ## Bygningsreglementets vejledning om konstruktioner
 
-### Rettelsesblad til Bygningsreglementets vejledning om konstruktioner omhandlende bæreevnevurdering af eksisterende konstruktioner (24.01.2024)
+<span id="_1"></span><span id="_2"></span><span id="rettelsesblad-til-bygningsreglementets-vejledning-om-konstruktioner-omhandlende-breevnevurdering-af-eksisterende-konstruktioner-24012024"></span>
 
-### Forord
+### Rettelsesblad til Bygningsreglementets vejledning om konstruktioner omhandlende bæreevnevurdering af eksisterende konstruktioner (24.01.2024) {#52b227a0-0df0-40e5-a513-f81044d11fa8}
 
-[1.0.](../kap-1_0/)
+<span id="forord"></span>
 
-### Generelt for konstruktioner
+### Forord {#c0231c7f-f782-4a3f-b4d6-1063816ca640}
 
-[2.0.](../kap-2_0/)
+<span id="generelt-for-konstruktioner"></span>
 
-### Projektering og udførelse af konstruktioner
+### 1.0. Generelt for konstruktioner {#434fb0c7-f233-4f85-8fb3-2536def1d52a}
 
-[2.1.](../kap-2_1/)
+<span id="projektering-og-udfrelse-af-konstruktioner"></span>
 
-### Øvrige materialer og konstruktioner
+### 2.0. Projektering og udførelse af konstruktioner {#95179d01-71d9-4c1e-b28e-10c919ec51a0}
 
-[2.2.](../kap-2_2/)
+<span id="vrige-materialer-og-konstruktioner"></span>
 
-### Telte, teleskopstande, demonterbare tilskuertribuner og lignende transportable konstruktioner
+### 2.1. Øvrige materialer og konstruktioner {#e21f4f0b-67d2-4c6e-9065-a8a93f4846eb}
 
-[2.3.](../kap-2_3/)
+<span id="telte-teleskopstande-demonterbare-tilskuertribuner-og-lignende-transportable-konstruktioner"></span>
 
-### Undtagelser
+### 2.2. Telte, teleskopstande, demonterbare tilskuertribuner og lignende transportable konstruktioner {#7d5c293f-3d66-4b91-92f5-978be4d3498b}
 
-[3.0.](../kap-3_0/)
+<span id="undtagelser"></span>
 
-### Drift, kontrol og vedligehold
+### 2.3. Undtagelser {#8e500211-751b-4b2c-90e8-b5ab758e8c0b}
 
-[3.1.](../kap-3_1/)
+<span id="drift-kontrol-og-vedligehold"></span>
 
-### Sne og vandophobning på tage
+### 3.0. Drift, kontrol og vedligehold {#491e0154-3218-4bfb-bf8e-6f3326effa18}
 
-[3.2.](../kap-3_2/)
+<span id="sne-og-vandophobning-pa-tage"></span>
 
-### Altaner
+### 3.1. Sne og vandophobning på tage {#16fbd0b9-923e-4649-b49f-3ce0e6da6060}
 
-[3.3.](./)
+<span id="altaner"></span>
 
-### Spærkonstruktioner med store spændvidder
+### 3.2. Altaner {#90439abc-eeda-4aa5-90d4-20435c872cfa}
+
+<span id="sprkonstruktioner-med-store-spndvidder"></span>
+
+### 3.3. Spærkonstruktioner med store spændvidder {#94617fea-e986-4f00-b17c-b95e48c78310}
 
 Bygningsejer bør undersøge behovet for et særskilt afstivningsprojekt ved større spærkonstruktioner idet det afstivende elements styrke og stivhed er særligt vigtigt for konstruktionens samlede stabilitet. Der er normalt behov for et særskilt projekt ved spærkonstruktioner med en spændvidde mere end 12-14 m. Det kan også være relevant at efterse eksisterende spærkonstruktioner nærmere i forhold til deres sikkerhed, som beskrevet i nedenstående vejledning.
 
-####
+[![](../../../../../assets/img/linkbox/br_v_linkbox.svg)](#)
 
 Vejledning: Store træspær - Behov for afstivning
 
-####
-
 #### Gå til vejledning [Store træspor - behov for afstivning](../../../../../media/i4ff0la2/2019-01-22_store_spaer_-_behov_for_afstivning.pdf){target="_blank"}
 
-####
+[![](../../../../../assets/img/linkbox/br_v_linkbox.svg)](#)
 
 Vejledning: Store stålspær - Behov for afstivning
 
-####
+<span id="_3"></span><span id="_4"></span>
 
 #### Gå til vejledning [Store Stålrammer Behov For Afstivning (1)](../../../../../media/j11pa3fg/store-staalrammer-behov-for-afstivning.pdf){target="_blank"}
 
-[3.4.](../kap-3_4/)
+<span id="fugt-i-konstruktioner"></span>
 
-### Fugt i konstruktioner
+### 3.4. Fugt i konstruktioner {#ffeed82a-4e0a-4406-b3a0-098d61a48f23}
 
-[3.5.](../kap-3_5/)
+<span id="tagbrnde-og-tagnedlb"></span>
 
-### Tagbrønde og tagnedløb
+### 3.5. Tagbrønde og tagnedløb {#3d1c4a2b-7666-4e74-9158-8dfa5cc6f035}

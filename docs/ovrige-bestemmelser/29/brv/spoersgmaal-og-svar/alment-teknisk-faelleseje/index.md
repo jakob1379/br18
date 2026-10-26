@@ -2,18 +2,18 @@
 
 ## Se alle vejledninger om Dokumentation af brandforhold (§ 506 - § 522)
 
-- [Spørgsmål og svar](..)
-- [Vejledning til kapitel 29 - Dokumentation af brandforhold](../../vejledning-til-kapitel-29-dokumentation-af-brandforhold)
-- [Eksempler på dokumentationsniveau ved ombygningssager](../../eksempler-ombygning)
-- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../../temasiden-brandogkonstruktioner-dk)
+- [Spørgsmål og svar](../)
+- [Vejledning til kapitel 29 - Dokumentation af brandforhold](../../vejledning-til-kapitel-29-dokumentation-af-brandforhold/)
+- [Eksempler på dokumentationsniveau ved ombygningssager](../../eksempler-ombygning/)
+- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../../temasiden-brandogkonstruktioner-dk/)
 
 ## Spørgsmål og svar
 
-### Spørgsmål og svar om dokumentation af bygningsdele ved brug af "alment teknisk fælleseje" (17-10-2023) {#907f45a6-9391-4205-b848-8f9d57e85e91}
+### Spørgsmål og svar om dokumentation af bygningsdele ved brug af ”alment teknisk fælleseje" (17-10-2023) {#907f45a6-9391-4205-b848-8f9d57e85e91}
 
 ### Kan alment teknisk fælleseje benyttes ved dokumentation af brandsikringstiltag til en præ-accepteret løsning? Og hvad er en certificeret brandrådgivers virke ift. dokumentation ved anvendelse af alment teknisk fælleseje?
 
-####
+<span id="_1"></span>
 
 #### Præ-accepteret løsning
 
@@ -54,7 +54,7 @@ I Bygningsreglementets Vejledning til kapitel 29: Dokumentation af brandforhold,
 
 *Alment teknisk fælleseje er blandt andet gældende europæiske standarder udarbejdet af CEN, ISO-standarder og danske standarder, SBi-anvisninger, BYG-ERFA-blade samt erfaringsformidling fra byggeskadefondene.*
 
-*Alment teknisk fælleseje kan anvendes som dokumentation for en løsning af et brandteknisk tiltag, og der kan ofte i en vis udstrækning findes beskrivelser for løsningens udformning, ydeevne og udførelse, som kan lægges til grund som dokumentation af løsningen.*
+ *Alment teknisk fælleseje kan anvendes som dokumentation for en løsning af et brandteknisk tiltag, og der kan ofte i en vis udstrækning findes beskrivelser for løsningens udformning, ydeevne og udførelse, som kan lægges til grund som dokumentation af løsningen.*
 
 *Ofte vil et dokument i det alment tekniske fælleseje ikke fuldt ud beskrive den konkrete løsning eller dokumentere ydeevnen, hvorfor dokumentation for brandtekniske tiltag i disse tilfælde må sammensættes fra flere kilder og suppleres med en beskrivelse af, hvordan det specifikke forhold baseres på principper og eksempler i de refererede dokumenter i det alment tekniske fælleseje.*
 
@@ -75,4 +75,3 @@ I Bygningsreglementets vejledning til kapitel 34 – Certificerede brandrådgive
 *For kontrolrapporter for projektering og udførelse kan den certificerede brandrådgiver sikre dette ved en supplerende kontrol svarende til mindst en minimumskontrol af en kontrolregistreringsrapport for de enkelte brandsikringstiltag/kontrolgenstande (se vejledning til BR18, kapitel 32, afsnit 2.3.3). Kontrolregistreringsrapporten udarbejdes af en kompetent aktør f.eks. den udførende for kontrolrapport for udførelse eller den projekterende for kontrolrapport for projektering.*
 
 Den certificerede brandrådgivers virke omfatter således ikke udarbejdelse af dokumentationen for, hvordan ydeevnekriterier for et specifikt brandsikringstiltag er dokumenteret opfyldt, eller kontrol heraf.
-

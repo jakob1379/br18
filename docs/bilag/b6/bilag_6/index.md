@@ -1,6 +1,8 @@
 # Bilag 6: Lovliggørelse af byggeri i brandklasse 2-4
 
-## Lovliggørelse af byggeri i brandklasse 2-4
+<span id="lovliggrelse-af-byggeri-i-brandklasse-2-4"></span>
+
+## Lovliggørelse af byggeri i brandklasse 2-4 {#3ad5bb90-1c4a-45b6-a0a8-eaa9a6f8feb3}
 
 ## Afsnit 1: Lovliggørelse af byggeri i brandklasse 2-4, ved anvendelse af anden materiel regulering, end den, der er gældende på tidspunktet for lovliggørelsen
 
@@ -149,4 +151,3 @@ Kontrol af dokumentation for brandforhold og udførelse af brandsikringstiltag s
 Certificerede brandrådgiveres virke skal ske i henhold til kapitel 32 og 34 med følgende tilføjelse:
 
 Den certificerede brandrådgivers minimumsvirke ved lovliggørelsessager omfatter tillige udfærdigelse af redegørelsen, jf. § 29, stk. 5 samt kontrolplan for denne og kontrolplan for kontrol af eksisterende brandsikringstiltag, jf. afsnit 2.2, punkt 2.
-

@@ -2,13 +2,15 @@
 
 ## Se alle vejledninger om Konstruktionsklasser (§ 485 - § 489)
 
-- [Spørgsmål og svar](../../spoergsmaal-og-svar)
-- [Vejledning om indplacering i konstruktionsklasser](..)
-- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../../temasiden-brandogkonstruktioner-dk)
+- [Spørgsmål og svar](../../spoergsmaal-og-svar/)
+- [Vejledning om indplacering i konstruktionsklasser](../)
+- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../../temasiden-brandogkonstruktioner-dk/)
 
 ## Vejledning om indplacering i konstruktionsklasser
 
-### Forord
+<span id="forord"></span>
+
+### Forord {#35e70e33-75c9-456f-aa85-162fac4257b3}
 
 ### 1.0.0. Generelt {#9dba3612-6875-42ed-8bd8-0962a7e85a86}
 
@@ -21,9 +23,9 @@ Ifølge BR18, § 485, stk. 1, skal en bærende konstruktion i et byggeri indplac
 
 Konstruktionsklassen kan betragtes som et udtryk for konsekvenser ved et eventuelt svigt i konstruktionen.
 
-Oplysning om og dokumentation for indplacering i konstruktionsklasse skal fremgå ved ansøgning om byggetilladelse, hvis det er relevant for byggearbejdet, jf. BR18, § 10, stk. 1, nr. 5. For mere om ansøgning om byggetilladelse henvises der til [bygningsreglementets vejledning om byggesagsbehandling efter BR18.](../../../../../administrative-bestemmelser/brv/vejledning-om-byggesagsbehandling-efter-br18/4_0_anvendelse-af-certificeret-statiker-og-brandraadgiver "4_0_Anvendelse af certificeret statiker og brandraadgiver")
+Oplysning om og dokumentation for indplacering i konstruktionsklasse skal fremgå ved ansøgning om byggetilladelse, hvis det er relevant for byggearbejdet, jf. BR18, § 10, stk. 1, nr. 5. For mere om ansøgning om byggetilladelse henvises der til [bygningsreglementets vejledning om byggesagsbehandling efter BR18.](../../../../../administrative-bestemmelser/brv/vejledning-om-byggesagsbehandling-efter-br18/4_0_anvendelse-af-certificeret-statiker-og-brandraadgiver/ "4_0_Anvendelse af certificeret statiker og brandraadgiver")
 
-Kommunalbestyrelsen træffer afgørelse om indplacering i konstruktionsklasse på baggrund af den fremsendte dokumentation. Dokumentationen for indplacering i konstruktionsklasse skal følge BR18, §§ 503 – 504. De relevante dele, der skal fremsendes sammen med ansøgningen om byggetilladelse beskrives yderligere i *[Vejledningen til BR18 kapitel 28 – Dokumentation af bærende konstruktioner §494, §498, §499 og §503,](../../../../../ovrige-bestemmelser/28/brv/vejledning-til-kapitel-28-dokumentation-af-baerende-konstruktioner)* [ ](../../../../../ovrige-bestemmelser/28/brv/vejledning-til-kapitel-28-dokumentation-af-baerende-konstruktioner)samt i [*SBi-anvisning 271 Dokumentation og kontrol af bærende konstruktioner*.](../../../../../historisk/br18_version4/ovrige-bestemmelser/28/brv/sbi_anvisning/sbi_anvisninger#a0cc8c0d-39f3-4fbb-b0e6-2a53c9fa80b4 "SBI-anvisning 271 - Dokumentation og kontrol af bærende konstruktione"){rel="noopener" target="_blank"}
+Kommunalbestyrelsen træffer afgørelse om indplacering i konstruktionsklasse på baggrund af den fremsendte dokumentation. Dokumentationen for indplacering i konstruktionsklasse skal følge BR18, §§ 503 – 504. De relevante dele, der skal fremsendes sammen med ansøgningen om byggetilladelse beskrives yderligere i *[Vejledningen til BR18 kapitel 28 – Dokumentation af bærende konstruktioner §494, §498, §499 og §503,](../../../../28/brv/vejledning-til-kapitel-28-dokumentation-af-baerende-konstruktioner/)*  [](../../../../28/brv/vejledning-til-kapitel-28-dokumentation-af-baerende-konstruktioner/)samt i [*SBi-anvisning 271 Dokumentation og kontrol af bærende konstruktioner*.](https://www.bygningsreglementet.dk/historisk/br18_version4/ovrige-bestemmelser/28/brv/sbi_anvisning/sbi_anvisninger/#a0cc8c0d-39f3-4fbb-b0e6-2a53c9fa80b4 "SBI-anvisning 271 - Dokumentation og kontrol af bærende konstruktione"){rel="noopener" target="_blank"}
 
 ### 1.0.1. Konstruktionsafsnit {#6abd7fb9-7a6b-4f94-a203-d5dc0e566a25}
 

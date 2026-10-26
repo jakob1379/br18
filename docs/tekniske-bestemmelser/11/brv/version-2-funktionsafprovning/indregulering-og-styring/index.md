@@ -2,15 +2,15 @@
 
 ## Se alle vejledninger om Energiforbrug og klimapåvirkning (§ 250 - § 298)
 
-- [Spørgsmål og svar om energiforbrug](../../qa)
-- [Spørgsmål og svar om bygningers klimapåvirkning](../../spoergsmaal-og-svar-om-bygningers-klimapaavirkning)
-- [Bygningsreglementets vejledning om energiforbrug](../../energiforbrug-2)
-- [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner)
-- [Vejledning om funktionsafprøvning](./)
-- [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov)
-- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../../bygningers-klimapaavirkning-1-juli-2025)
-- [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler)
-- [Eksempelsamling for energi](../../eksempelsamling)
+- [Spørgsmål og svar om energiforbrug](../../qa/)
+- [Spørgsmål og svar om bygningers klimapåvirkning](../../spoergsmaal-og-svar-om-bygningers-klimapaavirkning/)
+- [Bygningsreglementets vejledning om energiforbrug](../../energiforbrug-2/)
+- [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner/)
+- [Vejledning om funktionsafprøvning](../)
+- [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov/)
+- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../../bygningers-klimapaavirkning-1-juli-2025/)
+- [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler/)
+- [Eksempelsamling for energi](../../eksempelsamling/)
 
 ## Vejledning om funktionsafprøvning
 
@@ -52,7 +52,7 @@ For køleanlæg omfatter det ligeledes en køleteknisk indregulering.
 
 *Definition af varme- og køleanlæggets indregulering*
 
-Ved 'indregulering' forstås, at vand- eller luftstrømme fordeles, så de enkelte forbrugssteder tilføres de beregnede og projekterede mængder og tilsvarende beregnede temperatursæt.
+Ved ’indregulering’ forstås, at vand- eller luftstrømme fordeles, så de enkelte forbrugssteder tilføres de beregnede og projekterede mængder og tilsvarende beregnede temperatursæt.
 
 *Formål med funktionsafprøvning af indregulering*   Afprøvningen skal eftervise, at anlægget i praksis mindst yder svarende til de forudsætninger, der dokumenterer bygningens overholdelse af bygningsreglementets krav til energiforbrug og termisk indeklima, jf. kapitel 11 og 19, Energiforbrug samt Termisk indeklima og installationer til varme- og køleanlæg. Det skal derfor eftervises, at anlægget er indreguleret efter forudsætningerne. I mindre og simple anlæg kan eftervisningen foretages i forbindelse med indreguleringen.
 
@@ -70,7 +70,7 @@ For at kunne udføre funktionsafprøvning af indregulering af varme- og køleanl
 
   *Målepunkter*
 
-Hvis fremløbstemperaturstyringen sker ved vejrkompensering, måles udetemperaturen ved brug af eksternt måleudstyr samme sted som anlæggets udetemperaturføler er placeret. Samtidigt kontrolleres det, om målepunktet er egnet til måling af udetemperatur. Det vil sige uden påvirkning af direkte solindfald.  
+Hvis fremløbstemperaturstyringen sker ved vejrkompensering, måles udetemperaturen ved brug af eksternt måleudstyr samme sted som anlæggets udetemperaturføler er placeret. Samtidigt kontrolleres det, om målepunktet er egnet til måling af udetemperatur. Det vil sige uden påvirkning af direkte solindfald.
 
 *Zoner med radiatorer*
 
@@ -153,4 +153,3 @@ Der udarbejdes en funktionsafprøvningsrapport, der beskriver: • Hvilke foruds
 ### 8.8 Acceptkriterium {#8c276468-27da-40b5-9cd3-21d0faf66b5c}
 
 ### 8.9 Dokumentation {#bfd6298a-b31e-4a25-99f5-295e4738889d}
-

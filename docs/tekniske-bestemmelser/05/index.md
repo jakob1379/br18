@@ -1,13 +1,11 @@
----
-title: Brand (§ 82 - § 158)
----
-
 # Brand (§ 82 - § 158)
 
 [Krav](./){ .md-button .md-button--primary }
 [Vejledning](brv/){ .md-button }
 
-## Sikkerhed ved brand
+<span id="sikkerhed-ved-brand"></span>
+
+## § 82 - § 83 Sikkerhed ved brand {#50124df8-7578-4933-a275-9b4c0208aea8}
 
 ### § 82 {#paragraf-82}
 
@@ -31,26 +29,28 @@ Byggeri skal have en tilfredsstillende sikkerhed for personer i tilfælde af bra
 
 ### § 83 {#paragraf-83}
 
-Dokumentation for, at byggeri opfylder kravene i [kapitel 5](/tekniske-bestemmelser/05/), skal ske i henhold til Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) - Brand eller på en anden måde, som på tilsvarende vis dokumenterer, at kravene er opfyldt. [§ 84 - § 86](./)
+Dokumentation for, at byggeri opfylder kravene i kapitel 5, skal ske i henhold til Bygningsreglementets vejledning til kapitel 5 - Brand eller på en anden måde, som på tilsvarende vis dokumenterer, at kravene er opfyldt.
 
-## Anvendelseskategori og risikoklasse
+<span id="anvendelseskategori-og-risikoklasse"></span>
+
+## § 84 - § 86 Anvendelseskategori og risikoklasse {#43ac8e80-b4c3-4850-b2b9-d48d5ff9a799}
 
 ### § 84 {#paragraf-84}
 
-Ved fastlæggelse af, hvilken brandsikring der er nødvendig for at opfylde kravene i [kapitel 5](/tekniske-bestemmelser/05/), skal byggeri opdeles i ét eller flere bygningsafsnit med en sammenlignelig brandmæssig risiko.
+Ved fastlæggelse af, hvilken brandsikring der er nødvendig for at opfylde kravene i kapitel 5, skal byggeri opdeles i ét eller flere bygningsafsnit med en sammenlignelig brandmæssig risiko.
 
-*Stk. 2.* Ethvert bygningsafsnit skal henføres til mindst en anvendelseskategori, jf. [bilag 1, tabel 1](/bilag/b1/bilag_1/), og en risikoklasse, jf. [bilag 1, tabel 2](/bilag/b1/bilag_1/).
+*Stk. 2.* Ethvert bygningsafsnit skal henføres til mindst en anvendelseskategori, jf. bilag 1, tabel 1, og en risikoklasse, jf. bilag 1, tabel 2.
 
 ### § 85 {#paragraf-85}
 
-Anvendelseskategorien skal bestemmes ud fra, om et bygningsafsnit er indrettet med sovepladser, om personer i bygningsafsnittet har kendskab til flugtveje, personers mulighed for selv at bringe sig i sikkerhed samt ud fra det maksimale antal personer, som den enkelte brandmæssige enhed er indrettet til. Fastlæggelse af anvendelseskategorier for et bygningsafsnit skal ske i overensstemmelse med [bilag 1, tabel 1](/bilag/b1/bilag_1/).
+Anvendelseskategorien skal bestemmes ud fra, om et bygningsafsnit er indrettet med sovepladser, om personer i bygningsafsnittet har kendskab til flugtveje, personers mulighed for selv at bringe sig i sikkerhed samt ud fra det maksimale antal personer, som den enkelte brandmæssige enhed er indrettet til. Fastlæggelse af anvendelseskategorier for et bygningsafsnit skal ske i overensstemmelse med bilag 1, tabel 1.
 
 *Stk. 2.* I et bygningsafsnit, der indeholder flere anvendelseskategorier, skal brandsikringen i hele bygningsafsnittet opfylde de krav, der gælder for den anvendelseskategori i afsnittet, der har det største sikringsbehov.
 
 *Tabel 1 - Anvendelseskategorier*
 
 |  |  |  |  |  |
-|:---|:---|:---|:---|:---|
+|----|----|----|----|----|
 | Anvendelseskategori | Bygningsafsnittet er indrettet med sovepladser | Personer i bygningsafsnittet har kendskab til flugtveje | Personers mulighed for ved egen hjælp at bringe sig i sikkerhed | Maksimalt antal personer, som den brandmæssige enhed er indrettet til |
 |  1 | Nej |  Ja | Ja  | Ingen begrænsning |
 |  2 | Nej | Nej | Ja | Højst 50 |
@@ -61,7 +61,7 @@ Anvendelseskategorien skal bestemmes ud fra, om et bygningsafsnit er indrettet m
 
 ### § 86 {#paragraf-86}
 
-Fastlæggelse af risikoklassen for et bygningsafsnit skal ske i overensstemmelse med [bilag 1, tabel 2](/bilag/b1/bilag_1/).
+Fastlæggelse af risikoklassen for et bygningsafsnit skal ske i overensstemmelse med bilag 1, tabel 2.
 
 *Stk. 2.* Hvor et byggeri er indrettet i flere bygningsafsnit med fælles flugtveje, skal personantallet ved fastlæggelse af risikoklassen bestemmes som det samlede antal personer i de bygningsafsnit, som har fælles flugtveje.
 
@@ -69,11 +69,11 @@ Fastlæggelse af risikoklassen for et bygningsafsnit skal ske i overensstemmelse
 
 *Tabel 2 - Risikoklasser*
 
-<table style="width:100%;">
+<table>
 <colgroup>
-<col style="width: 8%" />
-<col style="width: 13%" />
-<col style="width: 78%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
 </colgroup>
 <tbody>
 <tr>
@@ -114,7 +114,7 @@ eller<br />
 bygninger eller bygningsafsnit i bygninger med højst 1 etage over terræn og højst 1 etage under terræn, hvor gulv er højst 5,0 m under terræn, og hvor brandbelastningen i bygningsafsnittet kan være større end 1.600 MJ/m² gulvareal<br />
 eller<br />
 bygningsafsnit højst 1 etage under terræn, i bygninger, hvor ingen bygningsafsnit er indplaceret i risikoklasse 4, og hvor gulv er højst 5,0 m under terræn.<br />
-</td>
+ </td>
 </tr>
 <tr>
 <td>2</td>
@@ -124,9 +124,9 @@ bygningsafsnit placeret 1 etage under terræn, hvor gulv er højst 5,0 m under t
 </tr>
 <tr>
 <td>3</td>
-<td>Bygningsafsnit placeret i terrænniveau i højst 1 etage, i bygninger med gulv i øverste etage højst 45,0 m over terræn, hvor antallet af personer i bygningsafsnittet er højst 1.000<br />
+<td><p>Bygningsafsnit placeret i terrænniveau i højst 1 etage, i bygninger med gulv i øverste etage højst 45,0 m over terræn, hvor antallet af personer i bygningsafsnittet er højst 1.000<br />
 eller<br />
-bygningsafsnit højst 1 etage under terræn, i bygninger hvor ingen bygningsafsnit er indplaceret i risikoklasse 4, hvor gulv er højst 5,0 m under terræn, og hvor antallet af personer i bygningsafsnittet er højst 1.000.</td>
+bygningsafsnit højst 1 etage under terræn, i bygninger hvor ingen bygningsafsnit er indplaceret i risikoklasse 4, hvor gulv er højst 5,0 m under terræn, og hvor antallet af personer i bygningsafsnittet er højst 1.000.</p></td>
 </tr>
 <tr>
 <td>4</td>
@@ -170,9 +170,9 @@ bygningsafsnit højst 1 etage under terræn, i bygninger hvor ingen bygningsafsn
 </tr>
 <tr>
 <td>6</td>
-<td>Bygninger eller bygningsafsnit placeret i højst 2 etager over terræn, hvis gulv i bygningens øverste etage er højst 45,0 m over terræn<br />
+<td><p>Bygninger eller bygningsafsnit placeret i højst 2 etager over terræn, hvis gulv i bygningens øverste etage er højst 45,0 m over terræn<br />
 eller<br />
-bygningsafsnit højst 1 etage under terræn, i bygninger hvor ingen bygningsafsnit er indplaceret i risikoklasse 4, og hvor gulv er højst 5,0 m under terræn.</td>
+bygningsafsnit højst 1 etage under terræn, i bygninger hvor ingen bygningsafsnit er indplaceret i risikoklasse 4, og hvor gulv er højst 5,0 m under terræn.</p></td>
 </tr>
 <tr>
 <td>4</td>
@@ -185,13 +185,15 @@ bygningsafsnit højst 1 etage under terræn, i bygninger hvor ingen bygningsafsn
 </tbody>
 </table>
 
-### § 87 {#paragraf-87}
+<span id="paragraf-87"></span><span id="materialer-konstruktioner-og-bygningsdele"></span>
 
-## Materialer, konstruktioner og bygningsdele
+## § 87 Materialer, konstruktioner og bygningsdele {#57a664be-4a3b-4f93-9f35-b46a6a3fe8f9}
 
-Materialer, konstruktioner og bygningsdele, der skal bidrage til brandsikkerheden, skal anvendes og udføres under hensyn til deres brandmæssige egenskaber som varmeudvikling, flammespredning, røgproduktion, produktion af brændende dråber og partikler, nedfald af dele samt brandmodstandsevne og bæreevne. [§ 88 - § 90](./)
+Materialer, konstruktioner og bygningsdele, der skal bidrage til brandsikkerheden, skal anvendes og udføres under hensyn til deres brandmæssige egenskaber som varmeudvikling, flammespredning, røgproduktion, produktion af brændende dråber og partikler, nedfald af dele samt brandmodstandsevne og bæreevne.
 
-## Brandtekniske installationer og håndslukningsudstyr
+<span id="brandtekniske-installationer-og-handslukningsudstyr"></span>
+
+## § 88 - § 90 Brandtekniske installationer og håndslukningsudstyr {#59f1dfe2-777d-4b8a-bc5b-f0a5a1dc9d1a}
 
 ### § 88 {#paragraf-88}
 
@@ -217,19 +219,21 @@ Brandtekniske installationer og håndslukningsudstyr, installeret i og ved bygni
 
 ### § 89 {#paragraf-89}
 
-[§§ 90-133](/tekniske-bestemmelser/05/krav/126_133/), der vedrører brandtekniske installationer, kan fraviges, hvis sikkerhedsniveauet, som fremgår af [§ 82](/tekniske-bestemmelser/05/krav/), er overholdt, og dette dokumenteres.
+§§ 90-133, der vedrører brandtekniske installationer, kan fraviges, hvis sikkerhedsniveauet, som fremgår af § 82, er overholdt, og dette dokumenteres.
 
 ### § 90 {#paragraf-90}
 
-Bygningers brandtekniske installationer og håndslukningsudstyr skal projekteres og installeres efter Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) - Brand eller på anden måde, som på tilsvarende vis dokumenterer, at de brandtekniske installationer fungerer efter hensigten.
+Bygningers brandtekniske installationer og håndslukningsudstyr skal projekteres og installeres efter Bygningsreglementets vejledning til kapitel 5 - Brand eller på anden måde, som på tilsvarende vis dokumenterer, at de brandtekniske installationer fungerer efter hensigten.
 
 *Stk. 2.* Automatiske brandalarmanlæg og automatiske sprinkleranlæg skal udføres med automatisk alarmoverførelse til redningsberedskabet.
 
 *Stk. 3.* Hvis der i bygningen er installeret et varslingsanlæg, og der er installeret et automatisk brandalarmanlæg eller et automatisk sprinkleranlæg, skal varslingsanlægget aktiveres heraf.
 
-*Stk. 4.* Brandslukningsmateriel skal være tydeligt markeret. [§ 91 - § 98](./)
+*Stk. 4.* Brandslukningsmateriel skal være tydeligt markeret.
 
-## Evakuering og redning af personer
+<span id="evakuering-og-redning-af-personer"></span>
+
+## § 91 - § 98 Evakuering og redning af personer {#c3d2a748-5ede-47ca-8ba0-39991136d982}
 
 ### § 91 {#paragraf-91}
 
@@ -337,7 +341,9 @@ Design, projektering og udførelse af redningsåbninger skal ske under hensyn ti
 
 4) At redningsåbninger i brandmæssige enheder kan åbnes uden brug af nøgle eller særligt udstyr, når der opholder sig personer som har lovlig adgang, i de pågældende brandmæssige enheder.
 
-## Bærende konstruktioners brandmodstandsevne
+<span id="brende-konstruktioners-brandmodstandsevne"></span>
+
+## § 99 - 103 Bærende konstruktioners brandmodstandsevne {#916e0fd2-a694-4fcc-a9e7-ba687c40c206}
 
 ### § 99 {#paragraf-99}
 
@@ -361,17 +367,19 @@ Brandmodstandsevnen for bærende bygningsdele bestemmes enten ved standardbrandp
 
 ### § 101 {#paragraf-101}
 
-§ 100 kan fraviges, hvis det på anden vis sikres og dokumenteres, at fravigelsen er forsvarlig, og der opnås et sikkerhedsniveau som beskrevet i § 82 og [§ 344, stk. 2, nr. 1](/tekniske-bestemmelser/15/krav/344/).
+§ 100 kan fraviges, hvis det på anden vis sikres og dokumenteres, at fravigelsen er forsvarlig, og der opnås et sikkerhedsniveau som beskrevet i § 82 og § 344, stk. 2, nr. 1.
 
 ### § 102 {#paragraf-102}
 
-Bæreevnen under brand skal bestemmes som beskrevet i [kapitel 15](/tekniske-bestemmelser/15/).
+Bæreevnen under brand skal bestemmes som beskrevet i kapitel 15.
 
 ### § 103 {#paragraf-103}
 
-Bygningsdele skal sammenbygges, så den samlede bygningskonstruktion i brandmæssig henseende ikke har en ringere bæreevne i tilfælde af brand, end de enkelte bygningsdele i konstruktionen har. Dette gælder både bærende og brandadskillende bygningsdele. [§ 104](./)
+Bygningsdele skal sammenbygges, så den samlede bygningskonstruktion i brandmæssig henseende ikke har en ringere bæreevne i tilfælde af brand, end de enkelte bygningsdele i konstruktionen har. Dette gælder både bærende og brandadskillende bygningsdele.
 
-## Antændelse og brand- og røgspredning
+<span id="antndelse-og-brand-og-rgspredning"></span>
+
+## § 104 Antændelse og brand- og røgspredning {#b88ddaf7-e973-4acf-99be-772d65d9eaa5}
 
 Byggeri skal projekteres og udføres, så det sikres, at der i tilfælde af brand ikke sker væsentlig brand- og røgspredning. Dette skal ske under hensyn til, at:
 
@@ -383,9 +391,11 @@ Byggeri skal projekteres og udføres, så det sikres, at der i tilfælde af bran
 
 4) Brandspredning til andre bygninger på samme grund begrænses.
 
-5) Der ikke sker brandspredning til bygninger på anden grund. [§ 105 - § 107](./)
+5) Der ikke sker brandspredning til bygninger på anden grund.
 
-## Risiko for antændelse
+<span id="risiko-for-antndelse"></span>
+
+## § 105 - § 107 Risiko for antændelse {#42fc6c1b-6139-49c9-a3fe-e5304751d67c}
 
 ### § 105 {#paragraf-105}
 
@@ -399,9 +409,11 @@ Det skal sikres, at rørgennemføringer, kanaler og lignende foranstaltninger ti
 
 ### § 107 {#paragraf-107}
 
-Større fyringsanlæg skal placeres i selvstændige brandmæssige enheder med adgang direkte til det fri for at mindske risikoen for brandspredning. [§ 108 - § 109](./)
+Større fyringsanlæg skal placeres i selvstændige brandmæssige enheder med adgang direkte til det fri for at mindske risikoen for brandspredning.
 
-## Brand- og røgspredning i det rum, hvor branden opstår
+<span id="brand-og-rgspredning-i-det-rum-hvor-branden-opstar"></span>
+
+## § 108 - § 109 Brand- og røgspredning i det rum, hvor branden opstår {#0328028f-ca49-4659-8558-9c773df9cc4d}
 
 ### § 108 {#paragraf-108}
 
@@ -421,7 +433,9 @@ Indvendige overflader skal designes og udføres, så de ikke bidrager væsentli
 
 >
 
-## Brand- og røgspredning i den bygning, hvor branden opstår, eller til bygninger på samme grund
+<span id="brand-og-rgspredning-i-den-bygning-hvor-branden-opstar-eller-til-bygninger-pa-samme-grund"></span>
+
+## § 110 - § 119 Brand- og røgspredning i den bygning, hvor branden opstår, eller til bygninger på samme grund {#074d98e8-7689-4e13-a92f-039f58fb2fda}
 
 ### § 110 {#paragraf-110}
 
@@ -469,9 +483,11 @@ Bygninger på samme grund skal placeres i en sådan afstand til hinanden eller 
 
 ### § 119 {#paragraf-119}
 
-Midlertidige camping- og salgsområder skal placeres, indrettes og bruges på en sådan måde, at en brand kan begrænses til det område, hvor branden er opstået. Brandspredning til andre områder skal forhindres i den tid, som er nødvendig for evakuering og redningsberedskabets indsats. [§ 120 - § 124](./)
+Midlertidige camping- og salgsområder skal placeres, indrettes og bruges på en sådan måde, at en brand kan begrænses til det område, hvor branden er opstået. Brandspredning til andre områder skal forhindres i den tid, som er nødvendig for evakuering og redningsberedskabets indsats.
 
-## Brandtekniske installationer til begrænsning af brand- og røgspredning
+<span id="brandtekniske-installationer-til-begrnsning-af-brand-og-rgspredning"></span>
+
+## § 120 - § 124 Brandtekniske installationer til begrænsning af brand- og røgspredning {#511f9aa7-c87c-4831-b1a7-9c57f5846709}
 
 ### § 120 {#paragraf-120}
 
@@ -501,7 +517,7 @@ Stk. 2. Telte er ikke omfattet af stk. 1.
 
 ### § 123 {#paragraf-123}
 
-Der skal installeres automatisk sprinkleranlæg i bygninger for at sikre mod brandspredning i følgende:
+ Der skal installeres automatisk sprinkleranlæg i bygninger for at sikre mod brandspredning i følgende:
 
 1) Bygningsafsnit i bygninger i 1 etage i anvendelseskategori 1, med et etageareal større end 2.000 m², med undtagelse af:
 
@@ -537,8 +553,6 @@ c) større end 600 m2 og har mere end 1 etage under terræn.
 
 10) Bygningsafsnit i garageanlæg med frie åbne ramper mellem bygningsafsnittene, når det samlede etageareal af bygningsafsnittene er større end 10.000 m².
 
-
-
 *Stk. 2.* Telte med en brandbelastning på højst 800 MJ/m2 er ikke omfattet af stk. 1.
 
 >
@@ -551,13 +565,15 @@ Der skal i industri- og lagerbygninger samt for visse avlsbygninger i anvendelse
 >
 > 2\) Bygningsafsnittet har et etageareal, der er større end 5.000 m², og en stablingshøjde på mere end 10 m.
 
-### § 125 {#paragraf-125}
+<span id="paragraf-125"></span><span id="brandspredning-til-bygninger-pa-anden-grund"></span>
 
-## Brandspredning til bygninger på anden grund
+## § 125 Brandspredning til bygninger på anden grund {#a5c4bc03-3ba9-4b09-8f10-3c246d4b17bc}
 
 Byggeri skal placeres i en sådan afstand til skel mod nabo, vej- og stimidte, eller udføres på en sådan måde, at det sikres, at der ikke er risiko for brandspredning til anden grund.
 
-## Redningsberedskabets indsatsmuligheder
+<span id="redningsberedskabets-indsatsmuligheder"></span>
+
+## § 126 - § 133 Redningsberedskabets indsatsmuligheder {#0875873c-27b3-435c-b6aa-6d7bb2a978d7}
 
 ### § 126 {#paragraf-126}
 
@@ -599,13 +615,15 @@ I bygningsafsnit med gulv i øverste etage mere end 22 m over terræn, skal der 
 
 *Stk. 2.* I bygningsafsnit i anvendelseskategori 6, indrettet til sengeliggende eller personer med nedsat mobilitet, f.eks. plejeboliger eller hospitaler, skal der i tilstrækkeligt omfang installeres brandmandselevatorer, som har en sådan størrelse, at de kan anvendes til transport af sygesenge.
 
-## Funktionsafprøvning, kontrol og systemintegrationstest inden ibrugtagning
+<span id="funktionsafprvning-kontrol-og-systemintegrationstest-inden-ibrugtagning"></span>
+
+## § 134 - § 136 Funktionsafprøvning, kontrol og systemintegrationstest inden ibrugtagning {#e5e5ddee-94f7-4085-8f8b-8526ff18f328}
 
 ### § 134 {#paragraf-134}
 
 Før ibrugtagning af et byggeri skal der gennemføres en funktionsafprøvning og kontrol af de brandtekniske installationer og brandslukningsmateriel i byggeriet, der viser, at den enkelte brandtekniske installation og det enkelte brandslukningsmateriel fungerer efter hensigten.
 
-*Stk. 2.* Funktionsafprøvning og kontrol udføres efter Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) - Brand eller på anden måde, som på tilsvarende vis dokumenterer, at de brandtekniske installationer fungerer efter hensigten.
+*Stk. 2.* Funktionsafprøvning og kontrol udføres efter Bygningsreglementets vejledning til kapitel 5 - Brand eller på anden måde, som på tilsvarende vis dokumenterer, at de brandtekniske installationer fungerer efter hensigten.
 
 ### § 135 {#paragraf-135}
 
@@ -623,19 +641,21 @@ For bygningsafsnit i risikoklasse 2-4 skal funktionsafprøvning og kontrol for f
 
 6) Varslingsanlæg.
 
-*Stk. 2.* Mindre ændringer i eksisterende brandtekniske installationer er undtaget fra stk. 1, såfremt der foreligger dokumentation for ændringen og en installatørerklæring om, at den brandtekniske installation efter ændringen er i overensstemmelse med retningslinjerne i projekteringsstandarden for den givne installation og fungerer efter hensigten. Akkrediteret kontrol af ændringen skal ske i forbindelse med installationens førstkommende løbende funktionsafprøvning, jf. [§ 141, stk. 3](/tekniske-bestemmelser/05/krav/).
+*Stk. 2.* Mindre ændringer i eksisterende brandtekniske installationer er undtaget fra stk. 1, såfremt der foreligger dokumentation for ændringen og en installatørerklæring om, at den brandtekniske installation efter ændringen er i overensstemmelse med retningslinjerne i projekteringsstandarden for den givne installation og fungerer efter hensigten. Akkrediteret kontrol af ændringen skal ske i forbindelse med installationens førstkommende løbende funktionsafprøvning, jf. § 141, stk. 3.
 
 ### § 136 {#paragraf-136}
 
 Hvor flere brandtekniske installationer skal virke sammen, skal der før ibrugtagning foretages systemintegrationstest, der viser, at det sammenhængende system af installationer har den ønskede funktion.
 
-*Stk. 2.* Systemintegrationstest udføres efter Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) – Brand eller på anden måde, som på tilsvarende vis dokumenterer, at de brandtekniske installationer fungerer efter hensigten. For bygningsafsnit i risikoklasse 2-4 skal systemintegrationstest foretages af et akkrediteret inspektionsorgan, der er akkrediteret i henhold til DS/EN/ ISO/IEC 17020 – Overensstemmelsesvurdering – Krav til forskellige typer af inspektionsorganer.
+*Stk. 2.* Systemintegrationstest udføres efter Bygningsreglementets vejledning til kapitel 5 – Brand eller på anden måde, som på tilsvarende vis dokumenterer, at de brandtekniske installationer fungerer efter hensigten. For bygningsafsnit i risikoklasse 2-4 skal systemintegrationstest foretages af et akkrediteret inspektionsorgan, der er akkrediteret i henhold til DS/EN/ ISO/IEC 17020 – Overensstemmelsesvurdering – Krav til forskellige typer af inspektionsorganer.
 
-## Drift, kontrol og vedligehold af brandforhold i og ved bygninger
+<span id="drift-kontrol-og-vedligehold-af-brandforhold-i-og-ved-bygninger"></span>
+
+## § 137 - § 146 Drift, kontrol og vedligehold af brandforhold i og ved bygninger {#485950eb-76a7-424f-a7a9-fa0c55df7ae3}
 
 ### § 137 {#paragraf-137}
 
-Drift, kontrol og vedligehold af brandsikkerheden i og ved bygninger skal ske, så det sikres, at sikkerheden i tilfælde af brand er opretholdt i hele bygningens levetid, jf. [§ 82](/tekniske-bestemmelser/05/krav/).
+Drift, kontrol og vedligehold af brandsikkerheden i og ved bygninger skal ske, så det sikres, at sikkerheden i tilfælde af brand er opretholdt i hele bygningens levetid, jf. § 82.
 
 ### § 138 {#paragraf-138}
 
@@ -643,17 +663,17 @@ Brugen af en bygning skal ske, så det sikres, at sikkerheden i tilfælde af bra
 
 ### § 139 {#paragraf-139}
 
-Det er ejeren eller en heraf udpeget driftsansvarlig person, som skal sikre, at [§ 137](/tekniske-bestemmelser/05/krav/), 138 og §§ 140-158 overholdes.
+Det er ejeren eller en heraf udpeget driftsansvarlig person, som skal sikre, at §§ 137, 138 og §§ 140-158 overholdes.
 
 ### § 140 {#paragraf-140}
 
-En bygnings brandsikringstiltag, herunder relevante dele af materialer, konstruktioner, bygningsdele og brandtekniske installationer, skal kontrolleres og vedligeholdes, så de i hele bygningens levetid bidrager til brandsikkerheden, jf. [§ 82](/tekniske-bestemmelser/05/krav/).
+En bygnings brandsikringstiltag, herunder relevante dele af materialer, konstruktioner, bygningsdele og brandtekniske installationer, skal kontrolleres og vedligeholdes, så de i hele bygningens levetid bidrager til brandsikkerheden, jf. § 82.
 
 ### § 141 {#paragraf-141}
 
 Brandtekniske installationer, håndslukningsudstyr samt brandsikring af ventilationsanlæg i og ved bygninger og bygningsafsnit skal løbende funktionsafprøves og kontrolleres.
 
-*Stk. 2.* Kravet om løbende funktionsafprøvning og kontrol anses som opfyldt, hvis afprøvning og kontrol sker med de intervaller, som er beskrevet i Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) - Brand.
+*Stk. 2.* Kravet om løbende funktionsafprøvning og kontrol anses som opfyldt, hvis afprøvning og kontrol sker med de intervaller, som er beskrevet i Bygningsreglementets vejledning til kapitel 5 - Brand.
 
 Stk. 3. For bygningsafsnit i risikoklasse 2-4 skal den løbende funktionsafprøvning og kontrol af følgende brandtekniske installationer foretages af et akkrediteret inspektionsorgan, der er akkrediteret i henhold til DS/EN/ ISO/IEC 17020 - Overensstemmelsesvurdering – Krav til forskellige typer inspektionsorganer:
 
@@ -671,7 +691,7 @@ Stk. 3. For bygningsafsnit i risikoklasse 2-4 skal den løbende funktionsafprøv
 
 *Stk. 4.* Stk. 3 omfatter alene byggeri, hvortil der er meddelt ibrugtagningstilladelse i medfør af bekendtgørelser udstedt vedrørende bygningsreglement 2018 samt byggeri opført efter tidligere lovgivning, hvor funktionsafprøvning eller kontrol ved et akkrediteret inspektionsorgan er et krav i byggetilladelsen eller en forudsætning i den brandtekniske dokumentation for det pågældende byggeri
 
-*Stk. 5.* Brandtekniske installationer ved transportable konstruktioner, som opstilles midlertidigt, jf. [§ 6 b, stk. 2](/administrative-bestemmelser/krav/6b-6e/), er ikke omfattet af stk. 3.
+*Stk. 5.* Brandtekniske installationer ved transportable konstruktioner, som opstilles midlertidigt, jf. § 6 b, stk. 2, er ikke omfattet af stk. 3.
 
 *Stk. 6.* Bliver det akkrediterede inspektionsorgan ved en funktionsafprøvning opmærksom på, at anlæg er behæftet med fejl, der kan medføre risiko for konkret personskade i tilfælde af brand, skal der ske meddelelse herom til kommunalbestyrelsen.
 
@@ -679,11 +699,9 @@ Stk. 3. For bygningsafsnit i risikoklasse 2-4 skal den løbende funktionsafprøv
 
 Hvor flere brandtekniske installationer skal virke sammen, skal der foretages løbende systemintegrationstest, der viser, at det sammenhængende system af installationer har den ønskede funktion.
 
+*Stk. 2.* Kravet om løbende systemintegrationstest i stk. 1 anses som opfyldt, hvis systemintegrationstesten sker med de intervaller, som er beskrevet i Bygningsreglementets vejledning til kapitel 5 – Brand.
 
-
-*Stk. 2.* Kravet om løbende systemintegrationstest i stk. 1 anses som opfyldt, hvis systemintegrationstesten sker med de intervaller, som er beskrevet i Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) – Brand.
-
-*Stk. 3.* Den løbende systemintegrationstest udføres efter Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) – Brand eller på anden måde, som på tilsvarende vis dokumenterer, at de brandtekniske installationer fungerer efter hensigten. For bygningsafsnit i risikoklasse 2-4 skal systemintegrationstest foretages af et akkrediteret inspektionsorgan, der er akkrediteret i henhold til DS/EN ISO/IEC 17020 – Overensstemmelsesvurdering – Krav til forskellige typer inspektionsorganer.
+*Stk. 3.* Den løbende systemintegrationstest udføres efter Bygningsreglementets vejledning til kapitel 5 – Brand eller på anden måde, som på tilsvarende vis dokumenterer, at de brandtekniske installationer fungerer efter hensigten. For bygningsafsnit i risikoklasse 2-4 skal systemintegrationstest foretages af et akkrediteret inspektionsorgan, der er akkrediteret i henhold til DS/EN ISO/IEC 17020 – Overensstemmelsesvurdering – Krav til forskellige typer inspektionsorganer.
 
 *Stk. 4.* Stk. 3 omfatter alene byggeri, hvortil der er meddelt ibrugtagningstilladelse i medfør af bekendtgørelser udstedt vedrørende bygningsreglement 2018 samt byggeri opført efter tidligere lovgivning, hvor systemintegrationstest ved et akkrediteret inspektionsorgan er et krav i byggetilladelsen eller en forudsætning i den brandtekniske dokumentation for det pågældende byggeri.
 
@@ -699,21 +717,23 @@ Før ibrugtagning skal der udarbejdes en drifts-, kontrol- og vedligeholdelsespl
 
 ### § 144 {#paragraf-144}
 
-For eksisterende bygninger, hvor der ikke foreligger en godkendt drifts-, kontrol- og vedligeholdelsesplan, skal drift, kontrol og vedligehold ske i henhold til Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) - Brand.
+For eksisterende bygninger, hvor der ikke foreligger en godkendt drifts-, kontrol- og vedligeholdelsesplan, skal drift, kontrol og vedligehold ske i henhold til Bygningsreglementets vejledning til kapitel 5 - Brand.
 
 ### § 145 {#paragraf-145}
 
-En drifts-, kontrol- og vedligeholdelsesplan skal udformes, så det sikres, at [§§ 137-142 e](/tekniske-bestemmelser/05/krav/)r opfyldt.
+En drifts-, kontrol- og vedligeholdelsesplan skal udformes, så det sikres, at §§ 137-142 er opfyldt.
 
 ### § 146 {#paragraf-146}
 
-En drifts-, kontrol- og vedligeholdelsesplan, som er udarbejdet i henhold til *Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) - Brand*, anses for at opfylde bestemmelserne i dette afsnit. [§ 147 - § 150](./)
+En drifts-, kontrol- og vedligeholdelsesplan, som er udarbejdet i henhold til *Bygningsreglementets vejledning til kapitel 5 - Brand*, anses for at opfylde bestemmelserne i dette afsnit.
 
-## Drift, kontrol og vedligehold af hoteller mv., plejeinstitutioner, forsamlingslokaler, daginstitutioner og lignende, hvor brugen af bygningen nødvendiggør særlige driftsmæssige tiltag, for at opretholde brandsikkerheden i bygningen
+<span id="drift-kontrol-og-vedligehold-af-hoteller-mv-plejeinstitutioner-forsamlingslokaler-daginstitutioner-og-lignende-hvor-brugen-af-bygningen-ndvendiggr-srlige-driftsmssige-tiltag-for-at-opretholde-brandsikkerheden-i-bygningen"></span>
+
+## § 147 - § 150 Drift, kontrol og vedligehold af hoteller mv., plejeinstitutioner, forsamlingslokaler, daginstitutioner og lignende, hvor brugen af bygningen nødvendiggør særlige driftsmæssige tiltag, for at opretholde brandsikkerheden i bygningen {#bb2db309-6347-484f-810d-0f08e44defbd}
 
 ### § 147 {#paragraf-147}
 
-For nedenstående bygningsafsnit gælder tillige driftsmæssige krav som angivet i [§ 148](/tekniske-bestemmelser/05/krav/):
+For nedenstående bygningsafsnit gælder tillige driftsmæssige krav som angivet i § 148:
 
 1.  Bygningsafsnit i anvendelseskategori 2 med undervisningsafsnit til flere end 150 personer.
 2.  Bygningsafsnit i anvendelseskategori 3 til flere end 150 personer.
@@ -731,23 +751,25 @@ En drifts-, kontrol- og vedligeholdelsesplan for bygningsafsnit i § 147 skal ud
 2.  Der er udarbejdet ordensregler om forebyggelse af brand.
 3.  Der er udarbejdet en brand- og evakueringsinstruks.
 4.  Personalet er instrueret i både de udarbejdede ordensregler, brand- og evakueringsinstruks samt, at personalet i relevant omfang er instrueret i placering og brug af håndslukningsudstyr og brandtekniske installationer.
-5.  Der er udarbejdet og ophængt en pladsfordelingsplan i lokaler, som er omfattet af [§ 147, stk. 1, nr. 2](/tekniske-bestemmelser/05/krav/).
-6.  Der er udarbejdet en driftsjournal for lokaler, som er omfattet af [§ 147, stk. 1, nr. 2](/tekniske-bestemmelser/05/krav/).
+5.  Der er udarbejdet og ophængt en pladsfordelingsplan i lokaler, som er omfattet af § 147, stk. 1, nr. 2.
+6.  Der er udarbejdet en driftsjournal for lokaler, som er omfattet af § 147, stk. 1, nr. 2.
 7.  Det dokumenteres, at kontroller som er foreskrevet i driftsjournalen er gennemført, og nødvendige udbedringer er foretaget. Dokumentationen skal opbevares på stedet.
-8.  Der i soverumsafsnit, som er omfattet af[§ 147, stk. 1, nr. 3](/tekniske-bestemmelser/05/krav/), er udarbejdet og ophængt opslag til brugerne om alarmering og evakuering. Opslagene skal placeres synligt på alle værelser og i fællesarealer.
+8.  Der i soverumsafsnit, som er omfattet af§ 147, stk. 1, nr. 3, er udarbejdet og ophængt opslag til brugerne om alarmering og evakuering. Opslagene skal placeres synligt på alle værelser og i fællesarealer.
 9.  Der i eksisterende soverumsafsnit i plejeinstitutioner, hvor der ikke er installeret automatisk brandalarmanlæg, er en fast vågen vagt pr. 50 meter ganglængde på hver etage.
 10. Det sikres, at der i tilstrækkeligt omfang er opstillet håndslukningsudstyr.
 11. Der udarbejdes beskrivelser af omfang og frekvens af eventuelle brand- og evakueringsøvelser.
 
 ### § 149 {#paragraf-149}
 
-For bygninger omfattet af [§ 147](/tekniske-bestemmelser/05/krav/), anses en drifts-, kontrol- og vedligeholdelsesplan, som er udarbejdet i henhold til *Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) - Brand*, for at opfylde [§ 148](/tekniske-bestemmelser/05/krav/).
+For bygninger omfattet af § 147, anses en drifts-, kontrol- og vedligeholdelsesplan, som er udarbejdet i henhold til *Bygningsreglementets vejledning til kapitel 5 - Brand*, for at opfylde § 148.
 
 ### § 150 {#paragraf-150}
 
-For eksisterende bygninger, omfattet af [§ 147](/tekniske-bestemmelser/05/krav/), hvor der ikke inden ibrugtagningstilladelsen er udarbejdet en drifts-, kontrol- og vedligeholdelsesplan, eller hvor den udarbejdede drifts-, kontrol- og vedligeholdelsesplan ikke sikrer opfyldelse af [§§ 137-142](/tekniske-bestemmelser/05/krav/) og [§ 148](/tekniske-bestemmelser/05/krav/), skal drift, kontrol og vedligehold ske i henhold til Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) - Brand.
+For eksisterende bygninger, omfattet af § 147, hvor der ikke inden ibrugtagningstilladelsen er udarbejdet en drifts-, kontrol- og vedligeholdelsesplan, eller hvor den udarbejdede drifts-, kontrol- og vedligeholdelsesplan ikke sikrer opfyldelse af §§ 137-142 og § 148, skal drift, kontrol og vedligehold ske i henhold til Bygningsreglementets vejledning til kapitel 5 - Brand.
 
-## Eksisterende feriehuse med flere end 10 sovepladser, der anvendes til udlejning, samt eksisterende kirker
+<span id="eksisterende-feriehuse-med-flere-end-10-sovepladser-der-anvendes-til-udlejning-samt-eksisterende-kirker"></span>
+
+## § 151 - § 152 a Eksisterende feriehuse med flere end 10 sovepladser, der anvendes til udlejning, samt eksisterende kirker {#a3ea78d8-d52d-4d35-8388-68ef770d9ccc}
 
 ### § 151 {#paragraf-151}
 
@@ -755,19 +777,21 @@ I feriehuse med flere end 10 sovepladser, der anvendes til udlejning, skal der 
 
 ### § 152 {#paragraf-152}
 
-I eksisterende kirkerum, som anvendes til kirkelige handlinger, koncerter samt arrangementer af lignende karakter, som ikke medfører forøget brandrisiko, kan forhold, som ellers er gældende for forsamlingslokaler, jf. [§ 148](/tekniske-bestemmelser/05/krav/), undlades.
+I eksisterende kirkerum, som anvendes til kirkelige handlinger, koncerter samt arrangementer af lignende karakter, som ikke medfører forøget brandrisiko, kan forhold, som ellers er gældende for forsamlingslokaler, jf. § 148, undlades.
 
-*Stk. 2.* Kirkerum, hvor drift, kontrol og vedligehold udføres efter *Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) - Brand,* anses for at opfylde [§§ 137-142](/tekniske-bestemmelser/05/krav/).
+*Stk. 2.* Kirkerum, hvor drift, kontrol og vedligehold udføres efter *Bygningsreglementets vejledning til kapitel 5 - Brand,* anses for at opfylde §§ 137-142.
 
 ### § 152 a {#paragraf-152a}
 
 *(Ophævet)*
 
-## Industri- og lagerbygninger, hvor brugen af bygningen nødvendiggør særlige yderligere driftsmæssige tiltag, for at opretholde brandsikkerheden i bygningen
+<span id="industri-og-lagerbygninger-hvor-brugen-af-bygningen-ndvendiggr-srlige-yderligere-driftsmssige-tiltag-for-at-opretholde-brandsikkerheden-i-bygningen"></span>
+
+## § 153 - § 155 Industri- og lagerbygninger, hvor brugen af bygningen nødvendiggør særlige yderligere driftsmæssige tiltag, for at opretholde brandsikkerheden i bygningen {#44d5ee50-fe38-4fda-8057-ddf9c3560f6e}
 
 ### § 153 {#paragraf-153}
 
-Drift, kontrol og vedligehold skal for følgende bygningsafsnit i lagerbygninger ske, så [§§ 137-142](/tekniske-bestemmelser/05/krav/) og § 154 er opfyldt:
+Drift, kontrol og vedligehold skal for følgende bygningsafsnit i lagerbygninger ske, så §§ 137-142 og § 154 er opfyldt:
 
 1.  Bygningsafsnit i risikoklasse 2 med et etageareal større end 2.000 m².
 2.  Bygningsafsnit i risikoklasse 2 med en stablingshøjde, der er større end 8 m og med etageareal større end 600 m².
@@ -786,30 +810,26 @@ En drifts-, kontrol- og vedligeholdelsesplan for bygningsafsnit i § 153 skal ud
 
 ### § 155 {#paragraf-155}
 
-§§ 153 og 154 anses for opfyldt, hvis drifts-, kontrol- og vedligeholdelsesplanen er udført efter Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) - Brand. [§ 156 - § 158](./)
+§§ 153 og 154 anses for opfyldt, hvis drifts-, kontrol- og vedligeholdelsesplanen er udført efter Bygningsreglementets vejledning til kapitel 5 - Brand.
 
-## Transportable konstruktioner, herunder forsamlingstelte, samt midlertidige salgs- og campingområder, hvor brugen nødvendiggør yderligere driftsmæssige tiltag for at opretholde brandsikkerheden.
+<span id="transportable-konstruktioner-herunder-forsamlingstelte-samt-midlertidige-salgs-og-campingomrader-hvor-brugen-ndvendiggr-yderligere-driftsmssige-tiltag-for-at-opretholde-brandsikkerheden"></span>
+
+## § 156 - § 158 Transportable konstruktioner, herunder forsamlingstelte, samt midlertidige salgs- og campingområder, hvor brugen nødvendiggør yderligere driftsmæssige tiltag for at opretholde brandsikkerheden. {#d17ae5ea-78fb-40b0-99ab-8cec2d6b41fc}
 
 ### § 156 {#paragraf-156}
 
-Drift, kontrol og vedligehold af følgende skal ske på en sådan måde, at [§§ 137-142](/tekniske-bestemmelser/05/krav/) og § 157 til en hver tid er overholdt:
-
-1) Transportable konstruktioner til flere end 150 personer.
+Drift, kontrol og vedligehold af følgende skal ske på en sådan måde, at §§ 137-142 og § 157 til en hver tid er overholdt:   1) Transportable konstruktioner til flere end 150 personer.
 
 2) Midlertidige camping- og salgsområder til flere end 150 personer.
 
 ### § 157 {#paragraf-157}
 
-Der skal udarbejdes en drifts-, kontrol- og vedligeholdelsesplan for de transportable konstruktioner og områder nævnt i [§ 156](/tekniske-bestemmelser/05/krav/), så følgende sikres:
+Der skal udarbejdes en drifts-, kontrol- og vedligeholdelsesplan for de transportable konstruktioner og områder nævnt i § 156, så følgende sikres:
 
-1) Der i forsamlingstelte som anvendes af flere end 150 personer udarbejdes en driftsjournal og en pladsfordelingsplan.
-
-2) Der udarbejdes en brand- og evakueringsinstruks.
-
-3) Der udarbejdes ordensregler om forebyggelse af brand.
+1) Der i forsamlingstelte som anvendes af flere end 150 personer udarbejdes en driftsjournal og en pladsfordelingsplan. 2) Der udarbejdes en brand- og evakueringsinstruks. 3) Der udarbejdes ordensregler om forebyggelse af brand.
 
 4) Personalet er instrueret i de udarbejdede ordensregler, brand- og evakueringsinstruks, placering og brug af håndslukningsudstyr og brandtekniske installationer.
 
 ### § 158 {#paragraf-158}
 
-§§ 156 og 157 anses for opfyldt, såfremt drifts-, kontrol- og vedligeholdelsesplanen er udført i henhold til *Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) - Brand.*
+§§ 156 og 157 anses for opfyldt, såfremt drifts-, kontrol- og vedligeholdelsesplanen er udført i henhold til *Bygningsreglementets vejledning til kapitel 5 - Brand.*

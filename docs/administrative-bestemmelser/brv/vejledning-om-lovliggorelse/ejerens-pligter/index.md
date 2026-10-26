@@ -22,46 +22,80 @@
 
 ## Vejledning om lovliggørelse af ulovligt byggeri
 
-### Lovliggørelse af ulovligt byggeri
+<span id="protected_17s-bestemmelser"></span><span id="lovliggrelse-af-ulovligt-byggeri"></span>
 
-### Indholdet af vejledningen
+### Lovliggørelse af ulovligt byggeri {#5d450e8c-fb49-433f-8690-d8d28eb1788e}
 
-### Hvornår er et byggeri ulovligt
+<span id="indholdet-af-vejledningen"></span>
 
-### Anvendelse af formelle bestemmelser i forbindelse med lovliggørelse af byggeri
+### Indholdet af vejledningen {#dc3a6d01-9b5c-496c-90c9-6220ba5a4d23}
 
-### Særligt om stikprøvekontrol efter BR18
+<span id="hvornar-er-et-byggeri-ulovligt"></span>
 
-### Byggelovens bestemmelser
+### Hvornår er et byggeri ulovligt {#374e4894-de9d-4c01-ae8f-cf400192e823}
 
-### Kommunalbestyrelsen som bygningsmyndighed
+<span id="anvendelse-af-formelle-bestemmelser-i-forbindelse-med-lovliggrelse-af-byggeri"></span>
 
-### Ejerens pligter
+### Anvendelse af formelle bestemmelser i forbindelse med lovliggørelse af byggeri {#d0450863-d860-4671-a144-4f6fff33c44e}
 
-Pligten til at lovliggøre et ulovligt forhold påhviler den til enhver tid værende ejer af en fast ejendom, jf. [byggelovens § 17, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178), 1. pkt.  Pligten til at lovliggøre et ulovligt forhold er dermed knyttet objektivt til ejendommen.
+<span id="srligt-om-stikprvekontrol-efter-br18"></span>
+
+### Særligt om stikprøvekontrol efter BR18 {#433a388b-4ef7-4ba1-9dcb-0612c7d0975b}
+
+<span id="byggelovens-bestemmelser"></span>
+
+### Byggelovens bestemmelser {#efade8f2-aeee-4316-9b12-1269bf63b28a}
+
+<span id="kommunalbestyrelsen-som-bygningsmyndighed"></span>
+
+### Kommunalbestyrelsen som bygningsmyndighed {#0bac2d7b-6f83-4a5e-bb70-bc10fada3df7}
+
+<span id="ejerens-pligter"></span>
+
+### Ejerens pligter {#0bbb3b63-3292-413b-b1fa-6b12e2b2b7b2}
+
+Pligten til at lovliggøre et ulovligt forhold påhviler den til enhver tid værende ejer af en fast ejendom, jf. byggelovens § 17, stk. 1, 1. pkt.  Pligten til at lovliggøre et ulovligt forhold er dermed knyttet objektivt til ejendommen.
 
 Pligten er dog personlig i den forstand, at et påbud om lovliggørelse skalrettes til den konkrete ejer. Skifter ejendommen ejer, skal påbuddet derfor gentages over for den nye ejer.
 
-[Byggelovens § 17](https://www.retsinformation.dk/eli/lta/2016/1178) indeholder således [byggelovens](https://www.retsinformation.dk/eli/lta/2016/1178) ansvarsbestemmelse, der som udgangspunkt pålægger ejeren at berigtige ulovlige forhold, uanset hvem der er skyld i det ulovlige forhold.
+Byggelovens § 17 indeholder således byggelovens ansvarsbestemmelse, der som udgangspunkt pålægger ejeren at berigtige ulovlige forhold, uanset hvem der er skyld i det ulovlige forhold.
 
-Hvis det ulovlige forhold består i ulovlig brug af ejendommen, påhviler pligten til at berigtige det ulovlige forhold tillige brugeren. Dette fremgår af [byggelovens § 17, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178), 2. pkt.
+Hvis det ulovlige forhold består i ulovlig brug af ejendommen, påhviler pligten til at berigtige det ulovlige forhold tillige brugeren. Dette fremgår af byggelovens § 17, stk. 1, 2. pkt.
 
 Bestemmelsen om, at pligten til at berigtige ulovlige forhold også kan påhvile brugeren, medfører ikke, at ejeren af ejendommen i disse situationer ikke også vil have pligt til at berigtige forholdet.
 
-### Lovliggørelsens art
+<span id="lovliggrelsens-art"></span>
 
-### Retlig lovliggørelse
+### Lovliggørelsens art {#77cb79a5-feaf-4e5a-bd75-e7dbc10f4302}
 
-### Fysisk lovliggørelse
+<span id="retlig-lovliggrelse"></span>
 
-### Vurderingen – valget mellem retlig og fysisk lovliggørelse
+### Retlig lovliggørelse {#0a9d07d9-0e51-498e-9f86-9f4a5ab5be5f}
 
-### Byggeri opført uden tilladelse
+<span id="fysisk-lovliggrelse"></span>
 
-### Byggeri der afviger fra det byggeri, der er givet tilladelse til
+### Fysisk lovliggørelse {#89ada0c8-3144-4e2d-95c9-e36564461d52}
 
-### Hensyn og overvejelser
+<span id="vurderingen-valget-mellem-retlig-og-fysisk-lovliggrelse"></span>
 
-### Forholdet til anden lovgivning
+### Vurderingen – valget mellem retlig og fysisk lovliggørelse {#a7370d8b-3549-4a24-90f2-571fea0345cf}
 
-### Særligt om lovliggørelse i forbindelse med bygningers klimapåvirkning
+<span id="byggeri-opfrt-uden-tilladelse"></span>
+
+### Byggeri opført uden tilladelse {#bfb1838a-8a77-4560-a35f-75f3fd3290f4}
+
+<span id="byggeri-der-afviger-fra-det-byggeri-der-er-givet-tilladelse-til"></span>
+
+### Byggeri der afviger fra det byggeri, der er givet tilladelse til {#6abc4d89-97e1-4f26-97e5-6fde590579e4}
+
+<span id="hensyn-og-overvejelser"></span>
+
+### Hensyn og overvejelser {#322fb2e3-9fe0-4a40-885e-7ceae6722b25}
+
+<span id="forholdet-til-anden-lovgivning"></span>
+
+### Forholdet til anden lovgivning {#d5fd9fdf-ce91-4988-a5bb-058378339b40}
+
+<span id="srligt-om-lovliggrelse-i-forbindelse-med-bygningers-klimapavirkning"></span>
+
+### Særligt om lovliggørelse i forbindelse med bygningers klimapåvirkning {#8e481eaa-32b8-45b7-97d5-47a22df171c8}

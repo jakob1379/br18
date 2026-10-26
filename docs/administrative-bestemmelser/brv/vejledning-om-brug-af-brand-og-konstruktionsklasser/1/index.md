@@ -22,8 +22,12 @@
 
 ## Vejledning om brug af brand og konstruktionsklasser
 
-### Bygningsreglementets vejledning om indplacering i konstruktionsklasser
+<span id="protected_17"></span><span id="bygningsreglementets-vejledning-om-indplacering-i-konstruktionsklasser"></span>
 
-### [Se vejledning her](../../../../historisk/version-13/ovrige-bestemmelser/26/brv/indplacering-i-konstruktionsklasser){rel="noopener" target="_blank"}
+### Bygningsreglementets vejledning om indplacering i konstruktionsklasser {#08b2b4da-55ad-4bf7-8929-fab1c6fcd118}
 
-### Bygningsreglementets vejledning om indplacering i brandklasser
+### [Se vejledning her](https://www.bygningsreglementet.dk/Historisk/Version-13/Ovrige-bestemmelser/26/BRV/Indplacering-i-konstruktionsklasser){rel="noopener" target="_blank"}
+
+<span id="bygningsreglementets-vejledning-om-indplacering-i-brandklasser"></span>
+
+### Bygningsreglementets vejledning om indplacering i brandklasser {#ba912478-525d-457a-bf68-a3da256061d8}

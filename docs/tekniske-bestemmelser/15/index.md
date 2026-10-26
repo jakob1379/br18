@@ -1,197 +1,237 @@
----
-title: Konstruktioner (§ 340 - § 357)
----
-
 # Konstruktioner (§ 340 - § 357)
 
 [Krav](./){ .md-button .md-button--primary }
 [Vejledning](brv/){ .md-button }
 
-## Se alle bestemmelser om Konstruktioner (§ 340 - § 357)
+<span id="se-alle-bestemmelser-om-konstruktioner-340-357"></span><span id="s340-343"></span>
 
-- [§ 340 - § 343 Konstruktioner](./#s340-343)
-- [§ 344 Projektering og udførelse](./#s344)
-- [§ 345 Særligt for betonkonstruktioner](./#s345)
-- [§ 346 Særligt for stålkonstruktioner](./#s346)
-- [§ 347 Særligt for kompositkonstruktioner](./#s347)
-- [§ 348 Særligt for trækonstruktioner](./#s348)
-- [§ 349 Særligt for murværkskonstruktioner](./#s349)
-- [§ 350 Særligt for geotekniske konstruktioner](./#s350)
-- [§ 351 Særligt for aluminiumkonstruktioner](./#s351)
-- [§ 352 Øvrige materialer og konstruktioner](./#s352)
-- [§ 353 Telte og lignende transportable konstruktioner](./#s353)
-- [§ 354 Stationære opbevaringssystemer](./#s354)
-- [§ 355 Tilskuertribuner](./#s355)
-- [§ 356 Undtagelser](./#s356)
-- [§ 357 Drift, kontrol og vedligehold](./#s357)
+## § 340 - § 343 Konstruktioner {#48178ff7-f7ec-4166-a610-43884dc43a60}
 
-## § 340 - § 343 Konstruktioner {#s340-343}
-
-### § 340 {#p340 #paragraf-340}
+### § 340 {#paragraf-340}
 
 Projektering, udførelse, drift og vedligehold af konstruktioner og bygningsdele skal ske under hensyn til, at der:
 
-1. Ikke sker skade på personer og bygninger på egen grund eller på nabogrunde.
-2. Ikke opstår risiko for personers sundhed på grund af svigt i konstruktionerne.
-3. Skal opnås tilfredsstillende forhold i funktions- og holdbarhedsmæssig henseende.
-4. Ikke opstår risiko for personers sundhed på grund af indtrængen af skadedyr.
+1.  Ikke sker skade på personer og bygninger på egen grund eller på nabogrunde.
+2.  Ikke opstår risiko for personers sundhed på grund af svigt i konstruktionerne.
+3.  Skal opnås tilfredsstillende forhold i funktions- og holdbarhedsmæssig henseende.
+4.  Ikke opstår risiko for personers sundhed på grund af indtrængen af skadedyr.
 
-### § 341 {#p341 #paragraf-341}
+### § 341 {#paragraf-341}
 
 I byggeri skal der anvendes materialer, som er egnede til det konkrete formål.
 
-### § 342 {#p342 #paragraf-342}
+### § 342 {#paragraf-342}
 
 Fundering skal ske til frostsikker dybde og bæredygtig bund eller på anden måde, så der ikke opstår skader som følge af bevægelser i jordbunden. Ved udvendig frostsikring af fundamenter skal der tages særlig hensyn til løsningernes robusthed og pålidelighed, så frostsikringen bevares i hele bygningens levetid.
 
-### § 343 {#p343 #paragraf-343}
+### § 343 {#paragraf-343}
 
 Tage og ovenlys i tage skal udføres, så der er tilfredsstillende sikkerhed mod gennemtrædning.
 
-## § 344 Projektering og udførelse {#s344}
+<span id="s344"></span>
 
-### § 344 {#p344 #paragraf-344}
+## § 344 Projektering og udførelse {#36d0985e-3901-487e-be97-f9dd06219c9f}
+
+### § 344 {#paragraf-344}
 
 Konstruktioner skal projekteres og udføres, så de kan modstå de normalt forekommende statiske og dynamiske påvirkninger i forhold til konstruktionens placering og anvendelse.
 
-1. Projektering og udførelse af konstruktioner skal ske i overensstemmelse med:
-   1. DS/EN 1990:2007 Projekteringsgrundlag for bærende konstruktioner med DS/EN 1990 DK NA.
-   2. DS/EN 1991-1-1:2007 Densiteter, egenlast og nyttelast for bygninger med DS/EN 1991-1-1 DK NA.
-   3. DS/EN 1991-1-2:2007 Brandlast med DS/EN 1991-1-2 DK NA.
-   4. DS/EN 1991-1-3:2007 Snelast med DS/EN 1991-1-3 DK NA.
-   5. DS/EN 1991-1-4:2007 Vindlast med DS/EN 1991-1-4 DK NA.
-   6. DS/EN 1991-1-5:2007 Termiske laster med DS/EN 1991-1-5 DK NA.
-   7. DS/EN 1991-1-6:2007 Last på konstruktioner under udførelse med DS/EN 1991-1-6 DK NA.
-   8. DS/EN 1991-1-7:2007 Ulykkeslast med DS/EN 1991-1-7 DK NA.
-   9. DS/EN 1998-1:2005 Konstruktioner i seismiske områder - Del 1: Generelle regler, seismiske påvirkninger og regler for bygninger med DS/EN 1998-1 DK NA.
+*Stk. 2.* Projektering og udførelse af konstruktioner skal ske i overensstemmelse med:
 
-2. Referencer er inklusiv tilhørende rettelsesblade og tillæg.
-3. For opvarmede væksthuse ved gartnerier samt teltoverdækning af beholdere for opbevaring af flydende husdyrgødning kan kravene til snelast reduceres med 65 pct.
+1\) DS/EN 1990:2007 Projekteringsgrundlag for bærende konstruktioner med DS/EN 1990 DK NA.
 
-## § 345 Særligt for betonkonstruktioner {#s345}
+2) DS/EN 1991-1-1:2007 Densiteter, egenlast og nyttelast for bygninger med DS/EN 1991-1-1 DK NA.
 
-### § 345 {#p345 #paragraf-345}
+3) DS/EN 1991-1-2:2007 Brandlast med DS/EN 1991-1-2 DK NA.
 
-Projektering og udførelse af betonkonstruktioner skal, udover bestemmelserne i [§ 344](/tekniske-bestemmelser/15/krav/344/), ske i overensstemmelse med:
+4) DS/EN 1991-1-3:2007 Snelast med DS/EN 1991-1-3 DK NA.
 
-1. DS/EN 1992-1-1+AC:2008: Betonkonstruktioner, Generelle regler samt regler for bygningskonstruktioner med DS/EN 1992-1-1 DK NA.
-2. DS/EN 1992-1-2+AC:2013 Betonkonstruktioner, Brandteknisk dimensionering med DS/EN 1992-1-2 DK NA.
-3. DS/EN 1992-3:2009, Betonkonstruktioner til opbevaring af væsker og pulvere med DS/EN 1992-3 DK NA.
-4. DS/EN 1992-4:2018, Betonkonstruktioner, Dimensionering af befæstelsesdele til anvendelse i beton med DS/EN 1992-4 DK NA.
-5. DS/EN 206 Beton, specifikation, egenskaber, produktion og overensstemmelse og DS 206, Beton – Specifikation, egenskaber, produktion og overensstemmelse – Regler for anvendelse af DS/EN 206 i Danmark.
-6. DS/EN 1520 Præfabrikerede armerede elementer af letbeton med lette tilslag og åben struktur med bærende eller ikke-bærende armering med DS/EN 1520 DK NA for konstruktioner i letbeton med lette tilslag.
-7. DS/EN 12602. Præfabrikerede armerede komponenter af autoklaveret porebeton med DS/EN 12602 DK NA for konstruktioner af autoklaveret porebeton.
+5) DS/EN 1991-1-4:2007 Vindlast med DS/EN 1991-1-4 DK NA.
 
-Referencer er inklusiv tilhørende rettelsesblade og tillæg.
+6) DS/EN 1991-1-5:2007 Termiske laster med DS/EN 1991-1-5 DK NA.
 
-## § 346 Særligt for stålkonstruktioner {#s346}
+7) DS/EN 1991-1-6:2007 Last på konstruktioner under udførelse med DS/EN 1991-1-6 DK NA.
 
-### § 346 {#p346 #paragraf-346}
+8) DS/EN 1991-1-7:2007 Ulykkeslast med DS/EN 1991-1-7 DK NA.
 
-Projektering og udførelse af stålkonstruktioner skal, udover bestemmelserne i [§ 344](/tekniske-bestemmelser/15/krav/344/), ske i overensstemmelse med:
+9) DS/EN 1998-1:2005 Konstruktioner i seismiske områder - Del 1: Generelle regler, seismiske påvirkninger og regler for bygninger med DS/EN 1998-1 DK NA.
 
-1. DS/EN 1993-1-1+AC:2007 Stålkonstruktioner, Generelle regler samt regler for bygningskonstruktioner med DS/EN 1993-1-1 DK NA.
-2. DS/EN 1993-1-2+AC:2007 Stålkonstruktioner, Brandteknisk dimensionering med DS/EN 1993-1-2 DK NA.
-3. DS/EN 1993-1-3:2007 Stålkonstruktioner, Supplerende regler for koldformede elementer og beklædning af tyndplader med DS/EN 1993-1-3 DK NA.
-4. DS/EN 1993-1-4:2007 Stålkonstruktioner, Supplerende regler for rustfrit stål med DS/EN 1993-1-4 DK NA.
-5. DS/EN 1993-1-5:2007 Stålkonstruktioner, Pladekonstruktioner med DS/EN 1993-1-5 DK NA.
-6. DS/EN 1993-1-6+AC:2012 Stålkonstruktioner, Styrke og stabilitet af skalkonstruktioner med DS/EN 1993-1-6 DK NA.
-7. DS/EN 1993-1-7+AC:2011 Stålkonstruktioner, Styrke og stabilitet af pladekonstruktioner med tværbelastning med DS/EN 1993-1-7 DK NA.
-8. DS/EN 1993-1-8+AC:2007 Stålkonstruktioner, Samlinger med DS/EN 1993-1-8 DK NA.
-9. DS/EN 1993-1-9+AC:2007 Stålkonstruktioner, Udmattelse med DS/EN 1993-1-9 DK NA.
-10. DS/EN 1993-1-10+AC:2007 Stålkonstruktioner, Materialesejhed og egenskaber i tykkelsesretningen med DS/EN 1993-1-10 DK NA.
+*Stk. 3.* Referencer er inklusiv tilhørende rettelsesblade og tillæg.
 
-Referencer er inklusiv tilhørende rettelsesblade og tillæg.
+*Stk. 4.* For opvarmede væksthuse ved gartnerier samt teltoverdækning af beholdere for opbevaring af flydende husdyrgødning gælder, at kravene til snelast kan reduceres med 65 pct.
 
-## § 347 Særligt for kompositkonstruktioner {#s347}
+<span id="s345"></span>
 
-### § 347 {#p347 #paragraf-347}
+## § 345 Særligt for betonkonstruktioner {#e0b723b3-0665-4234-8b27-16287355bc07}
 
-Projektering og udførelse af kompositkonstruktioner skal, udover bestemmelserne i [§ 344](/tekniske-bestemmelser/15/krav/344/), ske i overensstemmelse med:
+### § 345 {#paragraf-345}
 
-1. DS/EN 1994-1-1:2007 Kompositkonstruktioner, Generelle regler samt regler for bygningskonstruktioner med DS/EN 1994-1-1 DK NA.
-2. DS/EN 1994-1-2:2007 Kompositkonstruktioner, Brandteknisk dimensionering med DS/EN 1994-1-2 DK NA.
+Projektering og udførelse af betonkonstruktioner skal, udover bestemmelserne i § 344, ske i overensstemmelse med:
 
-Referencer er inklusiv tilhørende rettelsesblade og tillæg.
+1\) DS/EN 1992-1-1+AC:2008: Betonkonstruktioner, Generelle regler samt regler for bygningskonstruktioner med DS/EN 1992-1-1 DK NA.
 
-## § 348 Særligt for trækonstruktioner {#s348}
+2) DS/EN 1992-1-2+AC:2013 Betonkonstruktioner, Brandteknisk dimensionering med DS/EN 1992-1-2 DK NA.
 
-### § 348 {#p348 #paragraf-348}
+3) DS/EN 1992-3:2009, Betonkonstruktioner til opbevaring af væsker og pulvere med DS/EN 1992-3 DK NA.
 
-Projektering og udførelse af trækonstruktioner skal, udover bestemmelserne i [§ 344](/tekniske-bestemmelser/15/krav/344/), ske i overensstemmelse med:
+4\) DS/EN 1992-4:2018, Betonkonstruktioner, Dimensionering af befæstelsesdele til anvendelse i beton med DS/EN 1992-4 DK NA.
 
-1. DS/EN 1995-1-1+AC:2007 Trækonstruktioner, Almindelige regler samt regler for bygningskonstruktioner med DS/EN 1995-1-1 DK NA.
-2. DS/EN 1995-1-2+AC:2007 Trækonstruktioner, Brandteknisk dimensionering med DS/EN 1995-1-2 DK NA.
+5\) DS/EN 206 Beton, specifikation, egenskaber, produktion og overensstemmelse og DS 206, Beton – Specifikation, egenskaber, produktion og overensstemmelse – Regler for anvendelse af DS/EN 206 i Danmark.
 
-Referencer er inklusiv tilhørende rettelsesblade og tillæg.
+6) DS/EN 1520 Præfabrikerede armerede elementer af letbeton med lette tilslag og åben struktur med bærende eller ikke- bærende armering med DS/EN 1520 DK NA for konstruktioner i letbeton med lette tilslag.
 
-## § 349 Særligt for murværkskonstruktioner {#s349}
+7) DS/EN 12602. Præfabrikerede armerede komponenter af autoklaveret porebeton med DS/EN 12602 DK NA for konstruktioner af autoklaveret porebeton.
 
-### § 349 {#p349 #paragraf-349}
+*Stk. 2.* Referencer er inklusiv tilhørende rettelsesblade og tillæg.
 
-Projektering og udførelse af murværkskonstruktioner skal, udover bestemmelserne i [§ 344](/tekniske-bestemmelser/15/krav/344/), ske i overensstemmelse med:
+<span id="s346"></span>
 
-1. DS/EN 1996-1-1+A1:2013 Murværkskonstruktioner, Generelle regler for armeret og uarmeret murværk med DS/EN 1996-1-1 DK NA.
-2. DS/EN 1996-1-2:2007 Murværkskonstruktioner, Brandteknisk dimensionering med DS/EN 1996-1-2 DK NA.
-3. DS/EN 1996-2:2007 Murværkskonstruktioner, Designbetragtninger, valg af materialer og udførelse af murværk med DS/EN 1996-2 DK NA.
+## § 346 Særligt for stålkonstruktioner {#ea965ff6-cbb4-4d30-af0d-ed2d36866d00}
 
-Reference er inklusiv tilhørende rettelsesblade og tillæg.
+### § 346 {#paragraf-346}
 
-## § 350 Særligt for geotekniske konstruktioner {#s350}
+Projektering og udførelse af stålkonstruktioner skal, udover bestemmelserne i § 344, ske i overensstemmelse med:
 
-### § 350 {#p350 #paragraf-350}
+1\) DS/EN 1993-1-1+AC:2007 Stålkonstruktioner, Generelle regler samt regler for bygningskonstruktioner med DS/EN 1993-1-1 DK NA.
 
-Projektering og udførelse af geotekniske konstruktioner skal, udover bestemmelserne i [§ 344](/tekniske-bestemmelser/15/krav/344/), ske i overensstemmelse med:
+2) DS/EN 1993-1-2+AC:2007 Stålkonstruktioner, Brandteknisk dimensionering med DS/EN 1993-1-2 DK NA.
 
-1. DS/EN 1997-1:2007 Geoteknik, Generelle regler med DS/EN 1997-1 DK NA.
-2. DS/EN 1997-2+AC:2011 Geoteknik, Jordbundsundersøgelse og -prøvning med DS/EN 1997-2 DK NA.
+3) DS/EN 1993-1-3:2007 Stålkonstruktioner, Supplerende regler for koldformede elementer og beklædning af tyndplader med DS/EN 1993-1-3 DK NA.
 
-Referencer er inklusiv tilhørende rettelsesblade og tillæg.
+4) DS/EN 1993-1-4:2007 Stålkonstruktioner, Supplerende regler for Rustfrit stål med DS/EN 1993-1-4 DK NA.
 
-## § 351 Særligt for aluminiumkonstruktioner {#s351}
+5) DS/EN 1993-1-5:2007 Stålkonstruktioner, Pladekonstruktioner med DS/EN 1993-1-5 DK NA.
 
-### § 351 {#p351 #paragraf-351}
+6) DS/EN 1993-1-6+AC:2012 Stålkonstruktioner, Styrke og stabilitet af skalkonstruktioner med DS/EN 1993-1-6 DK NA.
 
-Projektering og udførelse af aluminiumkonstruktioner skal, udover bestemmelserne i [§ 344](/tekniske-bestemmelser/15/krav/344/), ske i overensstemmelse med:
+7) DS/EN 1993-1-7+AC:2011 Stålkonstruktioner, Styrke og stabilitet af pladekonstruktioner med tværbelastning med DS/EN 1993- 1-7 DK NA.
 
-1. DS/EN 1999-1-1:2008 Aluminiumkonstruktioner, Generelle regler med DS/EN 1999-1-1 DK NA.
-2. DS/EN 1999-1-2:2008 Aluminiumkonstruktioner, Brandteknisk dimensionering med DS/EN 1999-1-2 DK NA.
-3. DS/EN 1999-1-3:2007 Aluminiumkonstruktioner, Udmattelse med DS/EN 1999-1-3 DK NA.
+8) DS/EN 1993-1-8+AC:2007 Stålkonstruktioner, Samlinger med DS/EN 1993-1-8 DK NA.
 
-Referencer er inklusiv tilhørende rettelsesblade og tillæg.
+9) DS/EN 1993-1-9+AC:2007 Stålkonstruktioner, Udmattelse med DS/EN 1993-1-9 DK NA. 10.
 
-## § 352 Øvrige materialer og konstruktioner {#s352}
+10) DS/EN 1993-1-10+AC:2007 Stålkonstruktioner, Materialesejhed og egenskaber i tykkelsesretningen med DS/EN 1993-1-10 DK NA.
 
-### § 352 {#p352 #paragraf-352}
+*Stk. 2.* Referencer er inklusiv tilhørende rettelsesblade og tillæg.
 
-Ved anvendelse af materialer og konstruktioner, der ikke er omfattet af bestemmelserne i [§ 345](/tekniske-bestemmelser/15/krav/345/)-351, skal det dokumenteres, at der opnås et sikkerhedsniveau, som beskrevet i [§ 344](/tekniske-bestemmelser/15/krav/344/).
+<span id="s347"></span>
 
-## § 353 Telte og lignende transportable konstruktioner {#s353}
+## § 347 Særligt for kompositkonstruktioner {#fc73efd0-1e13-43cb-affc-b2a20a26e1d9}
 
-### § 353 {#p353 #paragraf-353}
+### § 347 {#paragraf-347}
 
-Telte og lignende transportable konstruktioner skal dimensioneres i overensstemmelse med DS/EN 13782, Midlertidige konstruktioner – Telte – Sikkerhed med DS/EN 13782 DK NA, eller på en måde, som sikrer, at de relevante bestemmelser i [§§ 344-351](/tekniske-bestemmelser/15/krav/344/) er opfyldt.
+Projektering og udførelse af kompositkonstruktioner skal, udover bestemmelserne i § 344, ske i overensstemmelse med:
 
-## § 354 Stationære opbevaringssystemer {#s354}
+1\) DS/EN 1994-1-1:2007 Kompositkonstruktioner, Generelle regler samt regler for bygningskonstruktioner med DS/EN 1994-1- 1 DK NA.
 
-### § 354 {#p354 #paragraf-354}
+2) DS/EN 1994-1-2:2007 Kompositkonstruktioner, Brandteknisk dimensionering med DS/EN 1994-1-2 DK NA.
 
-Stationære opbevaringssystemer skal dimensioneres i overensstemmelse med DS/EN 15512 Stationære opbevaringssystemer af stål - Justerbare pallereolsystemer - Principper for dimensionering med DS/EN 15512 DK NA, eller på en måde, som sikrer, at de relevante bestemmelser i [§§ 344-351](/tekniske-bestemmelser/15/krav/344/) er opfyldt.
+*Stk. 2.* Referencer er inklusiv tilhørende rettelsesblade og tillæg.
 
-## § 355 Tilskuertribuner {#s355}
+<span id="s348"></span>
 
-### § 355 {#p355 #paragraf-355}
+## § 348 Særligt for trækonstruktioner {#3267f6f7-7aca-4c67-bcb7-760c4f99b524}
 
-Teleskopstande og demonterbare tilskuertribuner skal dimensioneres i overensstemmelse med henholdsvis DS/EN 13200-5 og DS/EN 13200-6 med DS/EN 13200-5 DK NA og DS/EN 13200-6 DK NA, eller på en måde, som sikrer, at de relevante bestemmelser i [§§ 344-351](/tekniske-bestemmelser/15/krav/344/) er opfyldt.
+### § 348 {#paragraf-348}
 
-## § 356 Undtagelser {#s356}
+Projektering og udførelse af trækonstruktioner skal, udover bestemmelserne i § 344, ske i overensstemmelse med:
 
-### § 356 {#p356 #paragraf-356}
+1\) DS/EN 1995-1-1+AC:2007 Trækonstruktioner, Almindelige regler samt regler for bygningskonstruktioner med DS/EN 1995-1-1 DK NA.
 
-[§ 344, stk. 2](/tekniske-bestemmelser/15/krav/344/), til § 351 samt [§§ 353-355](/tekniske-bestemmelser/15/krav/353/) kan fraviges, hvis det på anden vis sikres og dokumenteres, at en afvigelse er forsvarlig, og der opnås et sikkerhedsniveau, som beskrevet i [§ 344, stk. 2, nr. 1](/tekniske-bestemmelser/15/krav/344/).
+2) DS/EN 1995-1-2+AC:2007 Trækonstruktioner, Brandteknisk dimensionering med DS/EN 1995-1-2 DK NA.
 
-## § 357 Drift, kontrol og vedligehold {#s357}
+*Stk. 2.* Referencer er inklusiv tilhørende rettelsesblade og tillæg.
 
-### § 357 {#p357 #paragraf-357}
+<span id="s349"></span>
 
-Drift, kontrol og vedligehold af konstruktioner skal ske, så de til enhver tid overholder de relevante bestemmelser i [§ 344](/tekniske-bestemmelser/15/krav/344/)-356.
+## § 349 Særligt for murværkskonstruktioner {#645ad9c2-6530-4e54-b2b8-cd025f764a04}
+
+### § 349 {#paragraf-349}
+
+Projektering og udførelse af murværkskonstruktioner skal, udover bestemmelserne i § 344, ske i overensstemmelse med:
+
+1\) DS/EN 1996-1-1+A1:2013 Murværkskonstruktioner, Generelle regler for armeret og uarmeret murværk med DS/EN 1996-1-1 DK NA.
+
+2) DS/EN 1996-1-2:2007 Murværkskonstruktioner, Brandteknisk dimensionering med DS/EN 1996-1-2 DK NA.
+
+3) DS/EN 1996-2:2007 Murværkskonstruktioner, Designbetragtninger, valg af materialer og udførelse af murværk med DS/EN 1996-2 DK NA.
+
+*Stk. 2.* Reference er inklusiv tilhørende rettelsesblade og tillæg.
+
+<span id="s350"></span>
+
+## § 350 Særligt for geotekniske konstruktioner {#866bc4d4-a648-4845-9c8f-406e374f263b}
+
+### § 350 {#paragraf-350}
+
+Projektering og udførelse af geotekniske konstruktioner skal, udover bestemmelserne i § 344, ske i overensstemmelse med:
+
+1\) DS/EN 1997- 1:2007 Geoteknik, Generelle regler med DS/EN 1997-1 DK NA.
+
+2) DS/EN 1997- 2+AC:2011 Geoteknik, Jordbundsundersøgelse og -prøvning med DS/EN 1997-2 DK NA.
+
+*Stk. 2.* Reference er inklusiv tilhørende rettelsesblade og tillæg.
+
+<span id="s351"></span>
+
+## § 351 Særligt for aluminiumkonstruktioner {#a0225a8a-dff1-4bd6-a33c-6f87e59b6909}
+
+### § 351 {#paragraf-351}
+
+Projektering og udførelse af aluminiumkonstruktioner skal, udover bestemmelserne i § 344, ske i overensstemmelse med:
+
+1\) DS/EN 1999-1-1:2008 Aluminiumkonstruktioner, Generelle regler med DS/EN 1999-1-1 DK NA.
+
+2) DS/EN 1999-1-2:2008 Aluminiumkonstruktioner, Brandteknisk dimensionering med DS/EN 1999-1-2 DK NA.
+
+3) DS/EN 1999-1-3:2007 Aluminiumkonstruktioner, Udmattelse med DS/EN 1999-1-3 DK NA.
+
+*Stk. 2.* Reference er inklusiv tilhørende rettelsesblade og tillæg.
+
+<span id="s352"></span>
+
+## § 352 Øvrige materialer og konstruktioner {#b234c847-c8ff-45dd-a769-127d02e52f50}
+
+### § 352 {#paragraf-352}
+
+Ved anvendelse af materialer og konstruktioner, der ikke er omfattet af bestemmelserne i §§ 345-351, skal det dokumenteres, at der opnås et sikkerhedsniveau, som beskrevet i § 344.
+
+<span id="s353"></span>
+
+## § 353 Telte og lignende transportable konstruktioner {#ee027ca6-2466-421b-a24a-b19803a0c70f}
+
+### § 353 {#paragraf-353}
+
+Telte og lignende transportable konstruktioner skal dimensioneres i overensstemmelse med DS/EN 13782, Midlertidige konstruktioner – Telte – Sikkerhed med DS/EN 13782 DK NA*,* eller på en måde, som sikrer, at de relevante bestemmelser i §§ 344-351 er opfyldt.
+
+<span id="s354"></span>
+
+## § 354 Stationære opbevaringssystemer {#81d27313-444e-4561-a3f6-2b38d5ef025d}
+
+### § 354 {#paragraf-354}
+
+Stationære opbevaringssystemer skal dimensioneres i overensstemmelse med DS/EN 15512 Stationære opbevaringssystemer af stål - Justerbare pallereolsystemer - Principper for dimensionering med DS/EN 15512 DK NA*,* eller på en måde, som sikrer, at de relevante bestemmelser i §§ 344-351 er opfyldt*.*
+
+<span id="s355"></span>
+
+## § 355 Tilskuertribuner {#00c7218c-4fa7-449b-a700-c0dbbb215a2c}
+
+### § 355 {#paragraf-355}
+
+Teleskopstande og demonterbare tilskuertribuner skal dimensioneres i overensstemmelse med henholdsvis DS/EN 13200- 5 og 13200-6 med DS/EN 13200-5 DK NA og DS/EN 13200-6 DK NA*,* eller på en måde, som sikrer, at de relevante bestemmelser i §§ 344-351 er opfyldt.
+
+<span id="s356"></span>
+
+## § 356 Undtagelser {#2f6fb7da-16dd-49c7-b4e8-af9e3a8226a0}
+
+### § 356 {#paragraf-356}
+
+§ 344, stk. 2, til § 351 samt §§ 353-355 kan fraviges, hvis det på anden vis sikres og dokumenteres, at en afvigelse er forsvarlig, og der opnås et sikkerhedsniveau, som beskrevet i § 344, stk. 2, nr. 1.
+
+<span id="s357"></span>
+
+## § 357 Drift, kontrol og vedligehold {#e71d7b9a-203d-487d-9e0a-c420022631ca}
+
+### § 357 {#paragraf-357}
+
+Drift, kontrol og vedligehold af konstruktioner skal ske, så de til enhver tid overholder de relevante bestemmelser i §§ 344- 356.

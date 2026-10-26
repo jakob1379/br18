@@ -2,12 +2,12 @@
 
 ## Se alle vejledninger om Lydforhold (§ 368 - § 376)
 
-- [Bygningsreglementets vejledning om lydforhold](../generel_vejledning)
+- [Bygningsreglementets vejledning om lydforhold](../generel_vejledning/)
 - [- Vejledning til boliger og andre bygninger til overnatning](./)
-- [- Vejledning til undervisningsbygninger](../undervisningsbygninger)
-- [- Vejledning til daginstitutionsbygninger](../daginstitutionsbygninger)
-- [- Vejledning til kontorbyggeri](../kontorbygninger)
-- [- Vejledning til hospitaler, lægehuse og klinikker](../hospitaler-laegehuse-og-klinikker)
+- [- Vejledning til undervisningsbygninger](../undervisningsbygninger/)
+- [- Vejledning til daginstitutionsbygninger](../daginstitutionsbygninger/)
+- [- Vejledning til kontorbyggeri](../kontorbygninger/)
+- [- Vejledning til hospitaler, lægehuse og klinikker](../hospitaler-laegehuse-og-klinikker/)
 
 ## - Vejledning til boliger og andre bygninger til overnatning
 
@@ -35,7 +35,7 @@ Tabellerne i dette afsnit beskriver lydbestemmelserne for lydisolation, støj in
 
 Tabel 2.1 indeholder grænseværdier for luftlydisolation og trinlydniveau i boligbyggeri svarende til overholdelse af BR18’s lydbestemmelser samt supplerende vejledende grænseværdier for lette konstruktioner i lejlighedsskel.
 
-Lydbestemmelserne er gengivet fra DS 490 og den supplerende vejledning fra SBi-anvisning 272. Referenceliste findes i [afsnit 1.5](../generel_vejledning/referenceliste "Referenceliste").
+Lydbestemmelserne er gengivet fra DS 490 og den supplerende vejledning fra SBi-anvisning 272. Referenceliste findes i [afsnit 1.5](../generel_vejledning/referenceliste/ "Referenceliste").
 
 Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfylde Bygningsreglementets funktionskrav, er anført separat i tabellerne (i kursiv).
 
@@ -66,12 +66,12 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 <td>≥ 55 dB </td>
 </tr>
 <tr>
-<td>Mellem fælles opholdsrum indbyrdes<sup> 5)</sup> </td>
+<td>Mellem fælles opholdsrum indbyrdes <sup>5)</sup> </td>
 <td>≥ 55 dB </td>
 </tr>
 <tr>
-<td><p>Dør<sup> 2)</sup> mellem bolig og fællesrum</p>
-<p>Dør<sup> 2)</sup> mellem fælles opholdsrum og gange/trapperum</p></td>
+<td><p>Dør <sup>2)</sup> mellem bolig og fællesrum</p>
+<p>Dør <sup>2)</sup> mellem fælles opholdsrum og gange/trapperum</p></td>
 <td> ≥ 32 dB<br />
 </td>
 </tr>
@@ -119,13 +119,13 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 
 ### 2.3 Støj indendørs fra trafik i boliger {#1dc563fc-338b-493f-a74a-f86f0a455bc4}
 
-Det akustiske indeklima beskrives gennem en række lydtekniske begreber og tilhørende målestørrelser. Der henvises til [afsnit 1.3](../generel_vejledning/lydtekniske-begreber "Lydtekniske begreber") for definition af disse.
+Det akustiske indeklima beskrives gennem en række lydtekniske begreber og tilhørende målestørrelser. Der henvises til [afsnit 1.3](../generel_vejledning/lydtekniske-begreber/ "Lydtekniske begreber") for definition af disse.
 
 Tabel 2.2 nedenfor indeholder grænseværdier for trafikstøj i boliger svarende til overholdelse af BR18’s lydbestemmelser samt supplerende vejledende grænseværdier for trafikstøj indendørs med åbne vinduer.
 
 Lydbestemmelserne er gengivet fra DS 490 og den supplerende vejledning fra Miljøstyrelsens vejledning 4/2007 og 1/1997.
 
-Referencer findes i [afsnit 1.5](../generel_vejledning/referenceliste "Referenceliste").
+Referencer findes i [afsnit 1.5](../generel_vejledning/referenceliste/ "Referenceliste").
 
 Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfylde Bygningsreglementets funktionskrav, er anført separat i tabellerne (i kursiv).
 
@@ -150,7 +150,7 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 <p><strong>Veje: 58 dB &lt; <em>L<sub>den</sub></em></strong> <strong>≤ 68 dB</strong></p>
 <p><strong>Jernbaner:</strong> <strong><em>L<sub>den</sub></em> &gt;</strong> <strong>64dB</strong></p></td>
 <td><p><strong>Støjbelastning ude</strong></p>
-<p><strong>Veje: <em>L</em><sub><em>den</em> </sub>&gt;</strong> <strong>68</strong> <strong>dB</strong></p></td>
+<p><strong>Veje: <em>L</em><sub><em>den</em></sub> &gt;</strong> <strong>68</strong> <strong>dB</strong></p></td>
 </tr>
 <tr>
 <td>BR18 <sup>1), 4)</sup>             <strong>[1], [2]</strong><br />
@@ -165,18 +165,18 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 <tr>
 <td><p><strong><em>Supplerende vejledning</em></strong></p>
 <p><em>Planlovgivning</em></p>
-<p> <em>- Veje <sup> 5)</sup></em>                        <strong>[7]</strong> </p></td>
+<p> <em>- Veje  <sup>5)</sup></em>                        <strong>[7]</strong> </p></td>
 <td> <em>Ingen krav</em></td>
 <td><p><em>Byfornyelse mv. <sup>2)</sup></em></p>
-<p><em>Veje: L<sub>den</sub></em> <em>≤ 46 dB <br />
-med åbne vinduer</em> <em><sup>3)</sup></em> </p></td>
-<td><em>Der bør ikke <br />
-planlægges for boliger <sup>6)</sup></em> </td>
+<p><em>Veje: L<sub>den</sub></em> <em>≤ 46 dB</em> <br />
+<em>med åbne vinduer</em> <em><sup>3)</sup></em> </p></td>
+<td><em>Der bør ikke</em> <br />
+<em>planlægges for boliger <sup>6)</sup></em> </td>
 </tr>
 <tr>
 <td><p><strong><em>Supplerende vejledning</em></strong></p>
 <p><em>Planlovgivning</em></p>
-<p> <em>-</em> <em>Jernbaner</em> <em><sup> 5)</sup></em>               <strong>[8]</strong> </p></td>
+<p> <em>-</em> <em>Jernbaner</em>  <em><sup>5)</sup></em>               <strong>[8]</strong> </p></td>
 <td><em>Ingen krav</em></td>
 <td><p><em>Byfornyelse mv. <sup>2)</sup></em></p>
 <p><em>Jernbaner:</em> <em>L<sub>den</sub></em> <em>≤ 52 dB med åbne vinduer</em> <em><sup>3)</sup></em> </p></td>
@@ -208,7 +208,7 @@ planlægges for boliger <sup>6)</sup></em> </td>
 
 Tabel 2.3 nedenfor indeholder grænseværdier for støj fra tekniske installationer i boliger svarende til overholdelse af BR18’s lydbestemmelser samt supplerende vejledende grænseværdier for lavfrekvent støj og infralyd.
 
-Lydbestemmelserne er gengivet fra DS 490 og fra Miljøstyrelsens vejledning 5/1984 og den supplerende vejledning fra SBi-anvisning 272 og Miljøstyrelsens orientering 9/1997. Referencer findes i [afsnit 1.5](../generel_vejledning/referenceliste "Referenceliste").
+Lydbestemmelserne er gengivet fra DS 490 og fra Miljøstyrelsens vejledning 5/1984 og den supplerende vejledning fra SBi-anvisning 272 og Miljøstyrelsens orientering 9/1997. Referencer findes i [afsnit 1.5](../generel_vejledning/referenceliste/ "Referenceliste").
 
 Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfylde Bygningsreglementets funktionskrav, er anført separat i tabellerne (i kursiv).
 
@@ -301,7 +301,7 @@ Tabel 2.4 nedenfor indeholder grænseværdier for efterklangstid i boligbyggeri 
 
 Lydbestemmelserne er gengivet fra DS 490 og den supplerende vejledning fra SBi-anvisning 272.
 
-Referencer findes i [afsnit 1.5](../generel_vejledning/referenceliste "Referenceliste").
+Referencer findes i [afsnit 1.5](../generel_vejledning/referenceliste/ "Referenceliste").
 
 Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfylde Bygningsreglementets funktionskrav, er anført separat i tabellerne (i kursiv).
 
@@ -332,7 +332,7 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 <td>500-2000 Hz </td>
 </tr>
 <tr>
-<td>Fælles opholdsrum<sup> 2)</sup> </td>
+<td>Fælles opholdsrum <sup>2)</sup> </td>
 <td><p>≤ 0,9 s</p>
 <p>≤ 0,6 s</p></td>
 <td>125 Hz   250-4000 Hz</td>
@@ -350,4 +350,3 @@ Supplerende vejledning, der ikke nødvendigvis er krævet overholdt for at opfyl
 </tr>
 </tbody>
 </table>
-

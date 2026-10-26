@@ -8,56 +8,60 @@
 
 ## Bygningsreglementets vejledning om konstruktioner
 
-### Rettelsesblad til Bygningsreglementets vejledning om konstruktioner omhandlende bæreevnevurdering af eksisterende konstruktioner (24.01.2024)
+<span id="rettelsesblad-til-bygningsreglementets-vejledning-om-konstruktioner-omhandlende-breevnevurdering-af-eksisterende-konstruktioner-24012024"></span>
 
-### Forord
+### Rettelsesblad til Bygningsreglementets vejledning om konstruktioner omhandlende bæreevnevurdering af eksisterende konstruktioner (24.01.2024) {#52b227a0-0df0-40e5-a513-f81044d11fa8}
 
-[1.0.](../kap-1_0/)
+<span id="forord"></span>
 
-### Generelt for konstruktioner
+### Forord {#c0231c7f-f782-4a3f-b4d6-1063816ca640}
 
-[2.0.](../kap-2_0/)
+<span id="generelt-for-konstruktioner"></span>
 
-### Projektering og udførelse af konstruktioner
+### 1.0. Generelt for konstruktioner {#434fb0c7-f233-4f85-8fb3-2536def1d52a}
 
-[2.1.](../kap-2_1/)
+<span id="projektering-og-udfrelse-af-konstruktioner"></span>
 
-### Øvrige materialer og konstruktioner
+### 2.0. Projektering og udførelse af konstruktioner {#95179d01-71d9-4c1e-b28e-10c919ec51a0}
 
-[2.2.](../kap-2_2/)
+<span id="vrige-materialer-og-konstruktioner"></span>
 
-### Telte, teleskopstande, demonterbare tilskuertribuner og lignende transportable konstruktioner
+### 2.1. Øvrige materialer og konstruktioner {#e21f4f0b-67d2-4c6e-9065-a8a93f4846eb}
 
-[2.3.](./)
+<span id="telte-teleskopstande-demonterbare-tilskuertribuner-og-lignende-transportable-konstruktioner"></span>
 
-### Undtagelser
+### 2.2. Telte, teleskopstande, demonterbare tilskuertribuner og lignende transportable konstruktioner {#7d5c293f-3d66-4b91-92f5-978be4d3498b}
 
-Det fremgår af bygningsreglementet 2018, [kap. 15](/tekniske-bestemmelser/15/), [§ 356](/tekniske-bestemmelser/15/krav/356/), at [§ 344, stk. 2](/tekniske-bestemmelser/15/krav/344/), til § 351 samt [§§ 353-355](/tekniske-bestemmelser/15/krav/353/) kan fraviges, hvis det på anden vis sikres og dokumenteres, at en afvigelse er forsvarlig, og der opnås et sikkerhedsniveau, som beskrevet i [§ 344, stk. 2, nr. 1](/tekniske-bestemmelser/15/krav/344/).
+<span id="undtagelser"></span>
+
+### 2.3. Undtagelser {#8e500211-751b-4b2c-90e8-b5ab758e8c0b}
+
+Det fremgår af bygningsreglementet 2018, kap. 15, § 356, at § 344, stk. 2, til § 351 samt §§ 353-355 kan fraviges, hvis det på anden vis sikres og dokumenteres, at en afvigelse er forsvarlig, og der opnås et sikkerhedsniveau, som beskrevet i § 344, stk. 2, nr. 1.
 
 En afvigelse fra standarderne i de nævnte bestemmelser kræver som udgangspunkt at materialestyrke, brudmekaniske modeller og materialeparametre dokumenteres for afvigelsen. Modeller og beregningsregler kan fraviges såfremt en tilsvarende eller højere sikkerhed kan dokumenteres. Materialeparametre kan fraviges såfremt de faktiske materialeparametre kan dokumenteres og har er tilsvarende eller højere sikkerhedsniveau end den standard der fraviges.
 
-For dokumentation af bærende konstruktioner henvises der til [*bygningsreglementet 2018, kap. 28.*](../../../../../ovrige-bestemmelser/28/krav/494_505/){rel="noopener" target="_blank"}
+For dokumentation af bærende konstruktioner henvises der til [*bygningsreglementet 2018, kap. 28.*](../../../../../ovrige-bestemmelser/28/krav/494_505/#544423a7-9d06-46d8-8c72-2deae649bccc){rel="noopener" target="_blank"}
 
-[3.0.](../kap-3_0/)
+<span id="drift-kontrol-og-vedligehold"></span>
 
-### Drift, kontrol og vedligehold
+### 3.0. Drift, kontrol og vedligehold {#491e0154-3218-4bfb-bf8e-6f3326effa18}
 
-[3.1.](../kap-3_1/)
+<span id="sne-og-vandophobning-pa-tage"></span>
 
-### Sne og vandophobning på tage
+### 3.1. Sne og vandophobning på tage {#16fbd0b9-923e-4649-b49f-3ce0e6da6060}
 
-[3.2.](../kap-3_2/)
+<span id="altaner"></span>
 
-### Altaner
+### 3.2. Altaner {#90439abc-eeda-4aa5-90d4-20435c872cfa}
 
-[3.3.](../kap-3_3/)
+<span id="sprkonstruktioner-med-store-spndvidder"></span>
 
-### Spærkonstruktioner med store spændvidder
+### 3.3. Spærkonstruktioner med store spændvidder {#94617fea-e986-4f00-b17c-b95e48c78310}
 
-[3.4.](../kap-3_4/)
+<span id="fugt-i-konstruktioner"></span>
 
-### Fugt i konstruktioner
+### 3.4. Fugt i konstruktioner {#ffeed82a-4e0a-4406-b3a0-098d61a48f23}
 
-[3.5.](../kap-3_5/)
+<span id="tagbrnde-og-tagnedlb"></span>
 
-### Tagbrønde og tagnedløb
+### 3.5. Tagbrønde og tagnedløb {#3d1c4a2b-7666-4e74-9158-8dfa5cc6f035}

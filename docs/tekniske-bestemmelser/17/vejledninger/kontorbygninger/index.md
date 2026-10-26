@@ -2,12 +2,12 @@
 
 ## Se alle vejledninger om Lydforhold (§ 368 - § 376)
 
-- [Bygningsreglementets vejledning om lydforhold](../generel_vejledning)
-- [- Vejledning til boliger og andre bygninger til overnatning](../boliger)
-- [- Vejledning til undervisningsbygninger](../undervisningsbygninger)
-- [- Vejledning til daginstitutionsbygninger](../daginstitutionsbygninger)
+- [Bygningsreglementets vejledning om lydforhold](../generel_vejledning/)
+- [- Vejledning til boliger og andre bygninger til overnatning](../boliger/)
+- [- Vejledning til undervisningsbygninger](../undervisningsbygninger/)
+- [- Vejledning til daginstitutionsbygninger](../daginstitutionsbygninger/)
 - [- Vejledning til kontorbyggeri](./)
-- [- Vejledning til hospitaler, lægehuse og klinikker](../hospitaler-laegehuse-og-klinikker)
+- [- Vejledning til hospitaler, lægehuse og klinikker](../hospitaler-laegehuse-og-klinikker/)
 
 ## - Vejledning til kontorbyggeri
 
@@ -53,7 +53,7 @@ Tabel 5.1 indeholder forslag projekteringsværdier for luftlydisolation og trinl
 <td colspan="2"><strong>Kontorbyggeri – Tabel 5.1 Lydisolation – Forslag til projekteringsværdier</strong></td>
 </tr>
 <tr>
-<td><strong>Luftlydisolation</strong> <sup></sup> <sup>1)</sup> <strong>- Vandret</strong> </td>
+<td><strong>Luftlydisolation</strong> <sup>1)</sup> <strong>- Vandret</strong> </td>
 <td><strong><em>R’</em><sub>w</sub></strong> </td>
 </tr>
 <tr>
@@ -92,7 +92,7 @@ Mellem toiletfaciliteter og omliggende rum med dørforbindelse </td>
 </tr>
 <tr>
 <td>Auditorier og større møde- og videokonferencerum </td>
-<td>Projektkrav <sup></sup> <sup>2)</sup> </td>
+<td>Projektkrav <sup>2)</sup> </td>
 </tr>
 <tr>
 <td>Teknikrum </td>
@@ -100,15 +100,15 @@ Mellem toiletfaciliteter og omliggende rum med dørforbindelse </td>
 </tr>
 <tr>
 <td>Mellem kontorer og møderum mod tilgrænsende rum i andre erhvervsenheder eller rum med støjende aktiviteter i samme virksomhed </td>
-<td>≥ 55 dB <sup></sup> <sup>3)</sup> </td>
+<td>≥ 55 dB <sup>3)</sup> </td>
 </tr>
 <tr>
-<td><strong>Luftlydisolation</strong> <sup></sup> <sup>1)</sup> <strong>- Lodret</strong> </td>
+<td><strong>Luftlydisolation</strong> <sup>1)</sup> <strong>- Lodret</strong> </td>
 <td><strong><em>R’</em><sub>w</sub></strong> </td>
 </tr>
 <tr>
 <td>Mellem kontorer og møderum mod tilgrænsende rum i andre erhvervsenheder eller rum med støjende aktiviteter i samme virksomhed </td>
-<td>≥ 55 dB <sup></sup> <sup>3)</sup> </td>
+<td>≥ 55 dB <sup>3)</sup> </td>
 </tr>
 <tr>
 <td>Etagedæk mellem andre rum end nævnt ovenfor </td>
@@ -129,11 +129,11 @@ Mellem toiletfaciliteter og omliggende rum med dørforbindelse </td>
 <tr>
 <td>Auditorier og større møde- og videokonferencerum </td>
 <td><p>≤ 58 dB eller</p>
-Projektkrav <sup></sup> <sup>2)</sup> </td>
+Projektkrav <sup>2)</sup> </td>
 </tr>
 <tr>
 <td>I kontorer og møderum fra tilgrænsende rum i andre erhvervsenheder </td>
-<td>≤ 58 dB <sup></sup> <sup>3)</sup> </td>
+<td>≤ 58 dB <sup>3)</sup> </td>
 </tr>
 <tr>
 <td><p><strong>Noter</strong> </p>
@@ -165,7 +165,7 @@ Tabel 5.2 indeholder forslag til projekteringsværdier for trafikstøj i kontorb
 </tr>
 <tr>
 <td><strong>Lovgivning og rumtyper</strong> </td>
-<td><p><strong>Støjbelastning indendørs <sup></sup></strong> <sup>1)</sup></p>
+<td><p><strong>Støjbelastning indendørs</strong> <sup>1)</sup></p>
 <strong>fra veje og jernbaner</strong> </td>
 </tr>
 <tr>
@@ -219,11 +219,11 @@ Tabel 5.3 indeholder forslag til projekteringsværdier for støj fra tekniske in
 </tr>
 <tr>
 <td>Kantine </td>
-<td>Projektkrav <sup></sup> <sup>3),4)</sup> </td>
+<td>Projektkrav <sup>3),4)</sup> </td>
 </tr>
 <tr>
-<td>Øvrige rum <sup></sup> <sup>3)</sup> </td>
-<td>Projektkrav <sup></sup> <sup>3)</sup> </td>
+<td>Øvrige rum <sup>3)</sup> </td>
+<td>Projektkrav <sup>3)</sup> </td>
 </tr>
 <tr>
 <td colspan="3"><p><strong><em>Supplerende vejledning</em></strong>     <strong>[3], [9]</strong></p>
@@ -313,8 +313,8 @@ Tabel 5.4 indeholder forslag til projekteringsværdier for efterklangstid og abs
 </tr>
 <tr>
 <td colspan="3"><p><strong><em>Supplerende vejledning</em></strong></p>
-<p>a) <em>For åbne kontorområder gælder specielle forhold fx omkring lydudbredelse og taleforståelighed,<br />
-se [3] og [12].</em><br />
+<p>a) <em>For åbne kontorområder gælder specielle forhold fx omkring lydudbredelse og taleforståelighed,</em><br />
+<em>se [3] og [12].</em><br />
 <br />
 b) <em>Der kan ikke påregnes optimale lydforhold for alle sædvanlige kontoraktiviteter, uanset omhyggelig projektering. For at opnå gode lydforhold i storrumskontorer, er det vigtigt, at der ud over at overholde de angivne vejledende krav, udarbejdes interne regler for støjmæssig adfærd i storrumskontorer. Det er også vigtigt, at placeringen af forskellige grupper inddrages i projekteringen.</em></p></td>
 </tr>
@@ -338,4 +338,3 @@ b) <em>Der kan ikke påregnes optimale lydforhold for alle sædvanlige kontorakt
 </tr>
 </tbody>
 </table>
-

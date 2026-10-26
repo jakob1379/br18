@@ -2,7 +2,9 @@
 
 ## Bygningsreglementets vejledning om affaldssystemer
 
-### Forord
+<span id="forord"></span>
+
+### Forord {#9ab0ac2f-29a3-4947-8417-f34d30606232}
 
 ### 1. Generelt {#949c3121-98e4-4f31-90b3-ddd183407389}
 

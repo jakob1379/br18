@@ -2,15 +2,19 @@
 
 ## Se alle vejledninger om Bygningens indretning (§ 196 - § 241)
 
-- [Spørgsmål og svar om bygningens indretning](../../qa)
-- [Vejledning om boligindretning](./)
-- [Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger](../../bygningsglas)
+- [Spørgsmål og svar om bygningens indretning](../../qa/)
+- [Vejledning om boligindretning](../)
+- [Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger](../../bygningsglas/)
 
 ## Vejledning om boligindretning
 
-### Kolofon
+<span id="kolofon"></span>
 
-### Forord
+### Kolofon {#818585de-abef-41f2-b417-27010078f7d0}
+
+<span id="forord"></span>
+
+### Forord {#a65228a9-ae42-48b3-b79b-97cd2de40d36}
 
 ### 1. Boligens beboere {#f036d581-3495-4f91-bd3a-93c1361c0e4d}
 
@@ -64,6 +68,8 @@ Badeværelset er boligens mest private rum, der danner ramme om den daglige ruti
 
 Indrettes der et stort badeværelse, vil det samtidig give større anvendelighed for fx børnefamilier samt personer med behov for hjælpemidler. Se SBi-anvisning 249, Tilgængelige boliger – Indretning, 2.6 Bade- og wc-rum (Sigbrand, 2015).
 
-I en større bolig, og i en husstand med mere end fire beboere, kan det være praktisk med mere end ét wc-rum. I boliger i to planer bør der være et wc-rum på hver etage og badeværelse med wc på samme etage som soverummene. I boliger uden bryggers eller vaskerum bør der beregnes plads til vaskemaskine og tørretumbler i badeværelset. [](../appendix#dad94911-d8be-4830-9756-dcbefa202590)
+I en større bolig, og i en husstand med mere end fire beboere, kan det være praktisk med mere end ét wc-rum. I boliger i to planer bør der være et wc-rum på hver etage og badeværelse med wc på samme etage som soverummene. I boliger uden bryggers eller vaskerum bør der beregnes plads til vaskemaskine og tørretumbler i badeværelset.
 
-### Appendix: Litteratur
+<span id="appendix-litteratur"></span>
+
+### Appendix: Litteratur {#dad94911-d8be-4830-9756-dcbefa202590}

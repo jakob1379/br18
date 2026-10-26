@@ -23,7 +23,7 @@ Anvendelsen af løfteplatforme skal ses som et muligt alternativ når det ikke e
 
 Det primære formål med kravene i kapitel 10 - Elevatorer, er at sikrer, at brugerne ved egen hjælp har adgang til bygningens etager og derved kan komme til bygningens funktioner. Derudover er formålet også at opnå et forsvarligt sikkerhedsniveau og begrænse energiforbruget ved design, udførelse, drift og vedligehold af elevatorerne.
 
-Der henvises til [vejledning om installationer i eksisterende bygninger](../../../../vejledninger/andre_vejledninger/vejledning/installationer-eksisterende-byggeri "Installationer eksisterende byggeri")
+Der henvises til [vejledning om installationer i eksisterende bygninger](../../../../vejledninger/andre_vejledninger/vejledning/installationer-eksisterende-byggeri/ "Installationer eksisterende byggeri")
 
 Bygningsreglementet behandler andetsteds andre krav til elevatorer såsom:
 
@@ -48,23 +48,19 @@ Mindre tilbygninger omfatter for eksempel etablering af tårne til bade- og wc-r
 
 Der henvises til *Bekendtgørelse nr. 1250 af 13/12/2004 om tilgængelighedsforanstaltninger i forbindelse med ombygninger i eksisterende byggeri*, der omhandler tilgængelighedskrav i offentlig tilgængelige bygninger og erhvervsbyggeri ved ombygning.
 
-###
-
 ![](../../../../media/a5tdjw5m/elavatorer_tegning_1.svg)
 
 Figur 1: Eksempler på etager i bygninger (snit) - Eksemplerne er vejledende og ikke udtømmende
-
-###
 
 ![](../../../../media/ivffycsi/elavatorer_tegning_2.svg)
 
 Figur 2: Eksempler på etager i bygninger (snit) - Eksemplerne er vejledende og ikke udtømmende
 
-###
-
 ![](../../../../media/psce1f0r/elavatorer_tegning_3.svg)
 
 Figur 3: Eksempler på etager i bygninger (snit) - Eksemplerne er vejledende og ikke udtømmende
+
+<span id="_1"></span><span id="_2"></span><span id="_3"></span>
 
 ### 2.0. Tilgængelighed {#05a1649c-3682-4580-8da1-6eeeeb260593}
 
@@ -95,4 +91,3 @@ Før ibrugtagningen af elevatorer skal der gennemføres en funktionsafprøvning 
 ### 5.0. Dispensationer {#b58ca414-4e85-411b-a507-cfd66969d40b}
 
 Kommunalbestyrelsen kan efter en konkret vurdering vælge at dispensere for bestemmelserne i bygningsreglementet og f.eks. tillade en minielevator eller løfteplatform der ikke opfylder type 2 kravet. Dispensationen skal dog være foreneligt med de hensyn, der ligger bag den konkrete bestemmelse der dispenseres fra.
-

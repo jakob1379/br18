@@ -8,70 +8,72 @@
 
 ## Bygningsreglementets vejledning om konstruktioner
 
-### Rettelsesblad til Bygningsreglementets vejledning om konstruktioner omhandlende bæreevnevurdering af eksisterende konstruktioner (24.01.2024)
+<span id="_1"></span><span id="_2"></span><span id="rettelsesblad-til-bygningsreglementets-vejledning-om-konstruktioner-omhandlende-breevnevurdering-af-eksisterende-konstruktioner-24012024"></span>
 
-### Forord
+### Rettelsesblad til Bygningsreglementets vejledning om konstruktioner omhandlende bæreevnevurdering af eksisterende konstruktioner (24.01.2024) {#52b227a0-0df0-40e5-a513-f81044d11fa8}
 
-[1.0.](../kap-1_0/)
+<span id="forord"></span>
 
-### Generelt for konstruktioner
+### Forord {#c0231c7f-f782-4a3f-b4d6-1063816ca640}
 
-[2.0.](./)
+<span id="generelt-for-konstruktioner"></span>
 
-### Projektering og udførelse af konstruktioner
+### 1.0. Generelt for konstruktioner {#434fb0c7-f233-4f85-8fb3-2536def1d52a}
 
-Det fremgår af bygningsreglementet 2018, [kap. 15](/tekniske-bestemmelser/15/), [§ 344](/tekniske-bestemmelser/15/krav/344/), at konstruktioner skal projekteres og udføres, så de kan modstå de normalt forekommende statiske og dynamiske påvirkninger i forhold til konstruktionens placering og anvendelse.
+<span id="projektering-og-udfrelse-af-konstruktioner"></span>
+
+### 2.0. Projektering og udførelse af konstruktioner {#95179d01-71d9-4c1e-b28e-10c919ec51a0}
+
+Det fremgår af bygningsreglementet 2018, kap. 15, § 344, at konstruktioner skal projekteres og udføres, så de kan modstå de normalt forekommende statiske og dynamiske påvirkninger i forhold til konstruktionens placering og anvendelse.
 
 Udover dimensionering overfor de forekommende påvirkninger, herunder også opfyldelse af brandkrav, kan krav til f.eks. lydisolering og komfort være betydende for konstruktioners udformning. Projektering og udførelse af konstruktioner skal ske i overensstemmelse med *Eurocode 0 - DS/EN 1990 Projekteringsgrundlag for bærende konstruktioner* med nationalt anneks *DS/EN 1990 DK NA*. Denne Eurocode er ikke materialespecifik og skal sammen med det nationale anneks således benyttes ved projektering og udførelse af alle typer bærende konstruktioner.
 
-I forhold til laster, gælder det dog særligt for opvarmede væksthuse ved gartnerier samt teltoverdækning af beholdere for opbevaring af flydende husdyrgødning, at kravene til snelast kan reduceres med 65 pct, jf. bygningsreglementet 2018, [kap. 15](/tekniske-bestemmelser/15/), [§ 344, stk. 3](/tekniske-bestemmelser/15/krav/344/), da det forventes at der ikke sker en ophobning af sne, på grund af den manglende isolering af konstruktioner mod det fri.
+I forhold til laster, gælder det dog særligt for opvarmede væksthuse ved gartnerier samt teltoverdækning af beholdere for opbevaring af flydende husdyrgødning, at kravene til snelast kan reduceres med 65 pct, jf. bygningsreglementet 2018, kap. 15, § 344, stk. 3, da det forventes at der ikke sker en ophobning af sne, på grund af den manglende isolering af konstruktioner mod det fri.
 
-I forhold til ovenstående, kan et væksthus regnes som opvarmet såfremt det er udført med opvarmning med automatisk back-up eller nødstrømforsyning, der kan smelte eventuel sne på taget. Såfremt opvarmningen ikke er tilstrækkelig og ikke kan smelte sne på taget, kan [§ 344, stk. 3](/tekniske-bestemmelser/15/krav/344/) ikke benyttes.
+I forhold til ovenstående, kan et væksthus regnes som opvarmet såfremt det er udført med opvarmning med automatisk back-up eller nødstrømforsyning, der kan smelte eventuel sne på taget. Såfremt opvarmningen ikke er tilstrækkelig og ikke kan smelte sne på taget, kan § 344, stk. 3 ikke benyttes.
 
-Udover Eurocode 0, er der også en række materialespecifikke eurocodes med dertil hørende nationale annekser, som de bærende konstruktioner skal projekteres og udføres efter, jf. bygningsreglementet 2018, [kap. 15](/tekniske-bestemmelser/15/), [§ 345](/tekniske-bestemmelser/15/krav/345/)-351. Dette omfatter beton-, stål-, komposit-, træ-, murværk og aluminiumkonstruktioner samt fundamenter.
+Udover Eurocode 0, er der også en række materialespecifikke eurocodes med dertil hørende nationale annekser, som de bærende konstruktioner skal projekteres og udføres efter, jf. bygningsreglementet 2018, kap. 15, §§ 345-351. Dette omfatter beton-, stål-, komposit-, træ-, murværk og aluminiumkonstruktioner samt fundamenter.
 
-####
+[![](../../../../../assets/img/linkbox/ds_en_iso_linkbox.svg)](#)
 
 Eurocodes: DS/EN 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1999
 
-####
-
 #### Eurocodes og forkortede udgaver af Eurocodes på Dansk Standards hjemmeside [Gå til link (nyt vindue)](http://www.eurocodes.dk/da/hvad-er-eurocodes/oversigt-over-eurocodes){target="_blank"}
 
-### De nationale annekser til eurocodes kan læses [her](../../../../../nationale-annekser/nationale-annekser/nationale-annekser "Nationale annekser"){rel="noopener" target="_blank"}.
+### De nationale annekser til eurocodes kan læses [her](../../../../../nationale-annekser/nationale-annekser/nationale-annekser/ "Nationale annekser"){rel="noopener" target="_blank"}.
 
-[2.1.](../kap-2_1/)
+<span id="vrige-materialer-og-konstruktioner"></span>
 
-### Øvrige materialer og konstruktioner
+### 2.1. Øvrige materialer og konstruktioner {#e21f4f0b-67d2-4c6e-9065-a8a93f4846eb}
 
-[2.2.](../kap-2_2/)
+<span id="telte-teleskopstande-demonterbare-tilskuertribuner-og-lignende-transportable-konstruktioner"></span>
 
-### Telte, teleskopstande, demonterbare tilskuertribuner og lignende transportable konstruktioner
+### 2.2. Telte, teleskopstande, demonterbare tilskuertribuner og lignende transportable konstruktioner {#7d5c293f-3d66-4b91-92f5-978be4d3498b}
 
-[2.3.](../kap-2_3/)
+<span id="undtagelser"></span>
 
-### Undtagelser
+### 2.3. Undtagelser {#8e500211-751b-4b2c-90e8-b5ab758e8c0b}
 
-[3.0.](../kap-3_0/)
+<span id="drift-kontrol-og-vedligehold"></span>
 
-### Drift, kontrol og vedligehold
+### 3.0. Drift, kontrol og vedligehold {#491e0154-3218-4bfb-bf8e-6f3326effa18}
 
-[3.1.](../kap-3_1/)
+<span id="sne-og-vandophobning-pa-tage"></span>
 
-### Sne og vandophobning på tage
+### 3.1. Sne og vandophobning på tage {#16fbd0b9-923e-4649-b49f-3ce0e6da6060}
 
-[3.2.](../kap-3_2/)
+<span id="altaner"></span>
 
-### Altaner
+### 3.2. Altaner {#90439abc-eeda-4aa5-90d4-20435c872cfa}
 
-[3.3.](../kap-3_3/)
+<span id="sprkonstruktioner-med-store-spndvidder"></span>
 
-### Spærkonstruktioner med store spændvidder
+### 3.3. Spærkonstruktioner med store spændvidder {#94617fea-e986-4f00-b17c-b95e48c78310}
 
-[3.4.](../kap-3_4/)
+<span id="fugt-i-konstruktioner"></span>
 
-### Fugt i konstruktioner
+### 3.4. Fugt i konstruktioner {#ffeed82a-4e0a-4406-b3a0-098d61a48f23}
 
-[3.5.](../kap-3_5/)
+<span id="tagbrnde-og-tagnedlb"></span>
 
-### Tagbrønde og tagnedløb
+### 3.5. Tagbrønde og tagnedløb {#3d1c4a2b-7666-4e74-9158-8dfa5cc6f035}

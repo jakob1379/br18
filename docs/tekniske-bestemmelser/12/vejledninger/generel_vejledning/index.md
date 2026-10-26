@@ -2,11 +2,13 @@
 
 ## Bygningsreglementets vejledning om energiforsyningsanlæg i tilknytning til bygninger
 
-### Forord
+<span id="forord"></span>
+
+### Forord {#104a2024-d6c9-4187-988d-fa4014e5e7e3}
 
 Installationer er omfattet af bygningsreglementet og byggeloven i det omfang, at de kan betegnes som faste installationer. Faste installationer er typisk installationer, som er fastgjort til bygningen, indbygget i bygningen eller tilsluttet et rørsystem i bygningen. Eksempler på faste installationer er kedler, brændeovne, aftræk, solceller og varmepumper. Eksempler på installationer, som ikke er faste installationer er olieradiatorer, elektriske varmeblæsere, petroleumskaminer og biopejse dvs. typisk installationer, som tilsluttes strømforsyningen gennem en stikkontakt eller ved manuel tilførsel af en mindre mængde brændstof og som er uden aftræk til det fri.
 
-Betegnelsen "fast installation" benyttes også i forbindelse med energikravene i bygningsreglementet. Her er der dog tale om faste *varme*installationer, og betegnelsen går på om den konkrete varmeinstallationen udløser energikrav til bygningen, og ikke om den konkrete installation skal overholde bygningsreglementet.
+Betegnelsen ”fast installation” benyttes også i forbindelse med energikravene i bygningsreglementet. Her er der dog tale om faste *varme*installationer, og betegnelsen går på om den konkrete varmeinstallationen udløser energikrav til bygningen, og ikke om den konkrete installation skal overholde bygningsreglementet.
 
 Kravene i bygningsreglementet består dels af krav til produktet og dels af krav til installationen. Krav til produktet stilles kun i det tilfælde, at det ikke allerede er reguleret i anden dansk eller international lovgivning. Om kravet er til produktet, fx krav om virkningsgrad eller til selve installationen, fx krav om ventilation, så gælder det for kravene i bygningsreglementet, at de gælder på installationstidspunktet i bygningen for den enkelte installation og således ikke alene på fx prøvningstidspunktet. Det gælder også, at kravene skal opfyldes for den samlede installation. Det betyder fx, at hvis en kedel udskiftes til en anden kedel, så skal aftrækket tilpasses den nye kedel. Det er eksempelvis ikke tilladt at afmontere kedlens retardere, så der opnås en højere røggastemperatur og dermed et bedre træk i skorstenen. I sådan et tilfælde skal aftrækket tilpasses kedlen og eventuelt udskiftes.
 
@@ -44,7 +46,7 @@ Aftrækssystemer til ildsteder, der fyres med olie eller fast brændsel skal ren
 
 Mulighed for rensning af røgrør kan f.eks. ske ved montering af renselem på røret.
 
-Der henvises til [vejledning om installationer i eksisterende bygninger](../../../../vejledninger/andre_vejledninger/vejledning/installationer-eksisterende-byggeri "Installationer eksisterende byggeri")
+Der henvises til [vejledning om installationer i eksisterende bygninger](../../../../vejledninger/andre_vejledninger/vejledning/installationer-eksisterende-byggeri/ "Installationer eksisterende byggeri")
 
 ### 1.2. Generelt for fyringsanlæg {#f36ecccb-c33c-4576-a204-120ef4dc9403}
 
@@ -141,4 +143,3 @@ Der henvises til
 \- DS/EN 378 - Kølesystemer og varmepumper – Sikkerheds- og miljøkrav - Del 1, 2, 3 og 4
 
 Kravet om tilfredsstillende nøjagtighed af målere er opfyldt ved anvendelse af typegodkendte målere eller målere med en tilsvarende nøjagtighed.
-

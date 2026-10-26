@@ -22,17 +22,17 @@
 
 ## Spørgsmål og svar
 
-[?](../fejl-og-ansvar/)
+<span id="sprgsmal-og-svar-om-fejl-og-ansvar-02-10-2020"></span>
 
-### Spørgsmål og svar om fejl og ansvar (02-10-2020)
+### Spørgsmål og svar om fejl og ansvar (02-10-2020) {#42bdc012-7c2e-4ac9-92d2-ce5fad882dc6}
 
-[?](./)
+<span id="sprgsmal-og-svar-om-altaner-og-certificerede-radgivere-11-12-2020"></span>
 
-### Spørgsmål og svar om altaner og certificerede rådgivere (11-12-2020)
+### Spørgsmål og svar om altaner og certificerede rådgivere (11-12-2020) {#4d82c1df-ca5c-4814-bccc-0ca21aa321b7}
 
 **Udvider nye åbne altaner etagearealet? (11-12-2020)**
 
-Åbne altaner udvider det samlede etageareal, der i denne forbindelse er arealet af samtlige etager og al anden bebyggelse på grunden. Det vil sige, at etagearealet bl.a. omfatter arealet af kældre, åbne altaner, åbne tagterrasser mv. Det samlede etageareal er ikke nødvendigvis det samme som det etageareal, der indgår i beregningen af bebyggelsesprocenten i beregningsreglerne, hvor der her er mulighed for en række fradrag, jf. BR18, [§ 455](/ovrige-bestemmelser/23/krav/).
+Åbne altaner udvider det samlede etageareal, der i denne forbindelse er arealet af samtlige etager og al anden bebyggelse på grunden. Det vil sige, at etagearealet bl.a. omfatter arealet af kældre, åbne altaner, åbne tagterrasser mv. Det samlede etageareal er ikke nødvendigvis det samme som det etageareal, der indgår i beregningen af bebyggelsesprocenten i beregningsreglerne, hvor der her er mulighed for en række fradrag, jf. BR18, § 455.
 
 Da nyetablerede åbne altaner udvider det samlede etageareal, skal der ansøges om byggetilladelse.
 
@@ -62,7 +62,7 @@ Eksempler på nye altaner, der ændrer de brandmæssige forudsætninger, kan f.e
 
 Vær opmærksom på at der for eksisterende byggeri på opførelsestidspunktet, kan have været krav om redningsåbninger i alle opholdsrum og køkkener. Sløjfes eller ændres sådan en redningsåbning, kan det betyde at redningsberedskabets indsatsmuligheder påvirkes.
 
-I forbindelse med byggeansøgning kan der derfor, samtidig ansøges om at boligens redningsmuligheder udføres i overensstemmelse med beskrivelserne i Bygningsreglementets [kapitel 5](/tekniske-bestemmelser/05/) – Brand, [bilag 2](/bilag/b2/bilag_2/). Dette medfører bl.a., at der skal installeres røgalarmanlæg i boligen, og der skal mindst være en redningsåbning fra boligen som helhed. Denne kan så være en eksisterende redningsåbning, der ikke berøres af altanmontagen. For denne redningsåbning ændres der ikke på de brandmæssige forudsætninger, og eksisterende brandredningsarealer kan fortsat benyttes.
+I forbindelse med byggeansøgning kan der derfor, samtidig ansøges om at boligens redningsmuligheder udføres i overensstemmelse med beskrivelserne i Bygningsreglementets kapitel 5 – Brand, bilag 2. Dette medfører bl.a., at der skal installeres røgalarmanlæg i boligen, og der skal mindst være en redningsåbning fra boligen som helhed. Denne kan så være en eksisterende redningsåbning, der ikke berøres af altanmontagen. For denne redningsåbning ændres der ikke på de brandmæssige forudsætninger, og eksisterende brandredningsarealer kan fortsat benyttes.
 
 Ved etablering af en ny åben altan, evt. fransk altan, vil der ofte blive etableret en ny dør i bygningens ydervæg. I bygninger med gulv i øverste etage højst 22 m over terræn vil etablering af en dør i ydervæggen som udgangspunkt ikke ændre de brandmæssige forudsætninger for bygningen, da der i de præ-accepterede løsninger for etagebyggeri ikke er krav til sikring mod brandspredning vertikalt mellem eksempelvis vindues- og døråbninger. En etablering af en ny dør og en altan i bygninger med gulv i øverste etage højst 22 m over terræn vil derfor normalt ikke medføre, at der ændres i de brandmæssige forudsætninger.
 
@@ -72,38 +72,38 @@ For bygninger med gulv i øverste etage mellem 22 m og 45 m over terræn er det 
 
 Selv om der ikke skal tilknyttes en certificeret brandrådgiver, skal bygningsreglementet fortsat overholdes. Der er dog ikke krav om, at dette skal dokumenteres af en certificeret brandrådgiver i forbindelse med ansøgning og byggetilladelse. Det er bygningsejer, der har ansvaret for, at altanen overholder bygningsreglementet. Ved tvivl om, hvordan dette kan ske, anbefales det, at man kontakter en rådgiver (der dog ikke nødvendigvis skal være certificeret).
 
-[?](../lovliggoerelse/)
+<span id="sprgsmal-og-svar-om-lovliggrelse-og-certificerede-radgivere-30-09-2020"></span>
 
-### Spørgsmål og svar om lovliggørelse og certificerede rådgivere (30-09-2020)
+### Spørgsmål og svar om lovliggørelse og certificerede rådgivere (30-09-2020) {#f7eaf828-0851-48c5-a84f-024102e4d980}
 
-[?](../ansaettelse/)
+<span id="sprgsmal-og-svar-om-ansttelse-og-certificeret-radgiver-30-09-2020"></span>
 
-### Spørgsmål og svar om ansættelse og certificeret rådgiver (30-09-2020)
+### Spørgsmål og svar om ansættelse og certificeret rådgiver (30-09-2020) {#cfd0a653-262e-46af-a232-b818d0cf1293}
 
-[?](../aendring-af-forudsaetninger/)
+<span id="sprgsmal-og-svar-om-ndring-af-forudstninger-for-byggetilladelse-17-06-2021"></span>
 
-### Spørgsmål og svar om ændring af forudsætninger for byggetilladelse (17-06-2021)
+### Spørgsmål og svar om ændring af forudsætninger for byggetilladelse (17-06-2021) {#fea0ff48-260d-4e55-9a50-4325bd6a0bf6}
 
-[?](../overgangsperiode/)
+<span id="sprgsmal-og-svar-vedrrende-anvendelse-af-overgangsordning-for-anerkendte-statikere-30-09-2020"></span>
 
-### Spørgsmål og svar vedrørende anvendelse af overgangsordning for anerkendte statikere (30-09-2020)
+### Spørgsmål og svar vedrørende anvendelse af overgangsordning for anerkendte statikere (30-09-2020) {#4eb32e97-a2bc-4adc-bf5e-7d8ce14ae997}
 
-[?](../materiale-til-starterklaering/)
+<span id="sprgsmal-og-svar-om-kontrol-af-dokumentation-til-starterklring-30-09-2020"></span>
 
-### Spørgsmål og svar om kontrol af dokumentation til starterklæring (30-09-2020)
+### Spørgsmål og svar om kontrol af dokumentation til starterklæring (30-09-2020) {#ac2083a4-6276-48a6-b4c6-699524bb5a50}
 
-[?](../pavilloner/)
+<span id="sprgsmal-og-svar-om-pavilloner-30-09-2020"></span>
 
-### Spørgsmål og svar om pavilloner (30-09-2020)
+### Spørgsmål og svar om pavilloner (30-09-2020) {#aeee6c6d-2dab-4ac0-a159-bad2a9dcfbba}
 
-[?](../udpegning-og-indgaaelse-af-aftale-med-en-tredjepartskontrollant/)
+<span id="sprgsmal-og-svar-om-udpegning-og-indgaelse-af-aftale-med-en-tredjepartskontrollant-fx-for-totalentrepriser-05-03-2021"></span>
 
-### Spørgsmål og svar om udpegning og indgåelse af aftale med en tredjepartskontrollant fx for totalentrepriser (05-03-2021)
+### Spørgsmål og svar om udpegning og indgåelse af aftale med en tredjepartskontrollant fx for totalentrepriser (05-03-2021) {#222254d7-f17e-4cab-9185-a65811fe219e}
 
-[?](../regler-om-ibrugtagelse/)
+<span id="sprgsmal-og-svar-om-at-tage-en-bygning-helt-eller-delvist-i-brug-13-12-2023"></span>
 
-### Spørgsmål og svar om at tage en bygning helt eller delvist i brug (13-12-2023)
+### Spørgsmål og svar om at tage en bygning helt eller delvist i brug (13-12-2023) {#b0a34821-eabf-4a65-97d1-60f25e0fff75}
 
-[?](../primitive-bygninger/)
+<span id="sprgsmal-og-svar-om-primitive-bygninger-09-01-2024"></span>
 
-### Spørgsmål og svar om primitive bygninger (09-01-2024)
+### Spørgsmål og svar om primitive bygninger (09-01-2024) {#39fe6d0e-f128-4c3a-b757-0bfc93c34b6b}

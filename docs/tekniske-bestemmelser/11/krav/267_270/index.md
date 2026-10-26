@@ -12,17 +12,17 @@ Bygninger skal projekteres, udføres, ombygges og vedligeholdes, så unødvendi
 
 Bygninger skal projekteres, udføres, ombygges og vedligeholdes, så energibehovet ved beregning ikke overstiger energirammen, der omfatter bygningens samlede behov for tilført energi til opvarmning, ventilation, køling, varmt brugsvand og belysning. Tilført energi fra forskellige energiforsyningsformer sammenvejes ved brug af energifaktorerne i §§ 252 og 253. Eftervisning skal ske på grundlag af *SBi-anvisning 213 Bygningers energibehov.*
 
-*Stk. 2.* For tilbygninger, ændret anvendelse, ombygninger, midlertidige flytbare pavilloner og sommerhuse kan bestemmelserne i [§§ 267-292](../../../../historisk/br18_version7/tekniske-bestemmelser/11/krav/267_270#450bc115-44f1-4176-b9a3-26de2fcae207) anvendes som alternativ til energirammen.
+*Stk. 2.* For tilbygninger, ændret anvendelse, ombygninger, midlertidige flytbare pavilloner og sommerhuse kan bestemmelserne i [§§ 267-292](https://www.bygningsreglementet.dk/historisk/br18_version7/tekniske-bestemmelser/11/krav/267_270/#450bc115-44f1-4176-b9a3-26de2fcae207) anvendes som alternativ til energirammen.
 
 *Stk. 3.* Et bygningsrelateret produkt, som er omfattet af en EU-forordning under Ecodesign-direktivet, skal overholde kravene i den relevante, gældende forordning på det tidspunkt, hvor produktet installeres i bygningen.
 
--  [Gå til BR-vejledning om energifaktorer](../../../../historisk/br18_version7/tekniske-bestemmelser/11/brv/energiforbrug/kap-1_1#b2455561-9e76-4c32-8105-ce637acf7ee4){target="_blank"}
+- [Gå til BR-vejledning om energifaktorer](https://www.bygningsreglementet.dk/historisk/br18_version7/tekniske-bestemmelser/11/brv/energiforbrug/kap-1_1/#b2455561-9e76-4c32-8105-ce637acf7ee4){target="_blank"}
 
-[![](../../../../assets/img/linkbox/sbi_anv_linkbox.svg)](# "#title")
-
-###
+[![](../../../../assets/img/linkbox/sbi_anv_linkbox.svg)](#)
 
 SBi-Anvisning 213 - Bygningers energibehov
+
+<span id="_1"></span>
 
 ### BEREGNINGSVEJLEDNING
 
@@ -46,7 +46,7 @@ I bygninger skal der ved beregning af det samlede tilførte energibehov ske en 
 
 Ved tilslutning af en ny bygning til en eksisterende kedel, som også forsyner eksisterende bygninger, anvendes en faktor på 1,0. For udnyttelse af spildvarme fra produktionsanlæg eller lignende benyttes fjernvarmefaktoren.
 
--  [Gå til BR-vejledning om energifaktorer](../../../../historisk/br18_version7/tekniske-bestemmelser/11/brv/energiforbrug/kap-1_1#b2455561-9e76-4c32-8105-ce637acf7ee4){target="_blank"}
+- [Gå til BR-vejledning om energifaktorer](https://www.bygningsreglementet.dk/historisk/br18_version7/tekniske-bestemmelser/11/brv/energiforbrug/kap-1_1/#b2455561-9e76-4c32-8105-ce637acf7ee4){target="_blank"}
 
 ### § 254 {#paragraf-254}
 
@@ -58,7 +58,7 @@ For følgende rum eller bygninger gælder:
 
 3\) Uopvarmede bygninger eller bygninger opvarmet til under 5 °C skal ikke overholde krav til varmeisolering eller energirammen.
 
--  [Gå til BR-vejledning om rum og bygninger med særlige vilkår](../../../../historisk/br18_version7/tekniske-bestemmelser/11/brv/energiforbrug/kap-1_2#77e01b6a-bed1-4749-8d68-654b0d0b410b){target="_blank"}
+- [Gå til BR-vejledning om rum og bygninger med særlige vilkår](https://www.bygningsreglementet.dk/historisk/br18_version7/tekniske-bestemmelser/11/brv/energiforbrug/kap-1_2/#77e01b6a-bed1-4749-8d68-654b0d0b410b){target="_blank"}
 
 ### § 255 {#paragraf-255}
 
@@ -72,7 +72,7 @@ Bygninger og bygningsdele, herunder vinduer og døre, skal projekteres og udfør
 
 4\) Kuldebroer.
 
--  [Gå til BR-vejledning om begrænsning af varmetab](../../../../historisk/br18_version7/tekniske-bestemmelser/11/brv/energiforbrug/kap-1_3#93947290-c3ff-43db-82f6-f06a94f1ad08){target="_blank"}
+- [Gå til BR-vejledning om begrænsning af varmetab](https://www.bygningsreglementet.dk/historisk/br18_version7/tekniske-bestemmelser/11/brv/energiforbrug/kap-1_3/#93947290-c3ff-43db-82f6-f06a94f1ad08){target="_blank"}
 
 ### § 256 {#paragraf-256}
 
@@ -86,13 +86,13 @@ For energiberegninger gælder følgende beregningsforudsætninger:
 
 4\) Procesenergi indgår ikke i beregningen af bygningers energibehov.
 
--  [Gå til BR-vejledning om forudsætninger for beregning af bygningers varmetab](../../../../historisk/br18_version7/tekniske-bestemmelser/11/brv/energiforbrug/kap-1_4#238f6537-85af-448c-892d-d4fe0c4bb8c1){target="_blank"}
+- [Gå til BR-vejledning om forudsætninger for beregning af bygningers varmetab](https://www.bygningsreglementet.dk/historisk/br18_version7/tekniske-bestemmelser/11/brv/energiforbrug/kap-1_4/#238f6537-85af-448c-892d-d4fe0c4bb8c1){target="_blank"}
 
-[![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
-
-###
+[![](../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 DS 418:2011 - Beregning af bygningers varmetab
+
+<span id="_2"></span>
 
 ### Beskrivelse
 
@@ -106,18 +106,18 @@ Standarden er betalingsbelagt.
 
 De enkelte bygningsdele skal isoleres, så varmetabskoefficienterne ikke overstiger værdierne i bilag 2, tabel 1. I visse tilfælde, f.eks. ved høje bygninger eller vanskelige jordforhold, kan kravene til linjetab ved fundament ikke overholdes. I disse tilfælde kan der accepteres en tilsvarende højere linjetabskoefficient, såfremt der ikke opstår problemer med fugt og kondens.
 
-*Stk. 2.* Stk. 1 finder ikke anvendelse for [§§ 267-270](../267_270#9a9a97b3-01e2-4af4-af72-faf0fdbd74ce) og §§ [274-282](../274_279#afb229c4-65a2-4b7d-8613-8fe584c21e25), dog med undtagelse af yderdøre, isolerede partier i glasydervægge og konstruktioner mod køle- og fryserum.
+*Stk. 2.* Stk. 1 finder ikke anvendelse for [§§ 267-270](./#9a9a97b3-01e2-4af4-af72-faf0fdbd74ce) og §§ [274-282](../274_279/#afb229c4-65a2-4b7d-8613-8fe584c21e25), dog med undtagelse af yderdøre, isolerede partier i glasydervægge og konstruktioner mod køle- og fryserum.
 
 *Tabel 1 - Generelle mindstekrav til klimaskærm*
 
-<table>
+<table data-border="0">
 <colgroup>
-<col style="width: 89%" />
-<col style="width: 10%" />
+<col style="width: 50%" />
+<col style="width: 50%" />
 </colgroup>
 <tbody>
 <tr>
-<td><strong>Bygningsdel</strong></td>
+<td><strong>Bygningsdel</strong>  </td>
 <td><strong>U-værdi [W/m²K]</strong></td>
 </tr>
 <tr>
@@ -143,7 +143,7 @@ De enkelte bygningsdele skal isoleres, så varmetabskoefficienterne ikke oversti
 <tr>
 <td><p>Yderdøre</p>
 <p>Yderdøre med funktionskrav</p>
-<p>  Referencestørrelse er 1,23 m x 2,18 m   Et tilknyttet funktionskrav er brandmodstand, sikring af en flugtvej, personsikkerhed (hvor underkanten af glasfeltet er placeret lavere end 800 mm fra gulv), indbrudshæmning større end modstandsklasse EN 1627/RC3 eller en øget lydreduktion større end 35 dB</p></td>
+  Referencestørrelse er 1,23 m x 2,18 m   Et tilknyttet funktionskrav er brandmodstand, sikring af en flugtvej, personsikkerhed (hvor underkanten af glasfeltet er placeret lavere end 800 mm fra gulv), indbrudshæmning større end modstandsklasse EN 1627/RC3 eller en øget lydreduktion større end 35 dB</td>
 <td><p>1,0</p>
 <p>1,4</p></td>
 </tr>
@@ -177,9 +177,13 @@ Automatiske skyde- og foldedøre eller skyde- og foldedøre med funktionskrav.<b
 <br />
 Et tilknyttet funktionskrav er brandmodstand, sikring af en flugtvej, personsikkerhed (hvor underkanten af glasfeltet er placeret lavere end 800 mm fra gulv), indbrudshæmning større end modstandsklasse EN 1627/RC3 eller en øget lydreduktion større end 35 dB</td>
 <td><p>1,0</p>
+<p> </p>
+<p> </p>
 <p><br />
 <br />
-1,4</p></td>
+1,4</p>
+<p> </p>
+<p> </p></td>
 </tr>
 <tr>
 <td>Lystunneler eller lignende</td>
@@ -188,14 +192,34 @@ Et tilknyttet funktionskrav er brandmodstand, sikring af en flugtvej, personsikk
 </tbody>
 </table>
 
-|  |  |
-|:---------------------------------------------|:-----------------------|
-| Bygningsdel | Linjetab \[W/mK\] |
-| Fundamenter omkring rum, der opvarmes til mindst 5 °C | 0,40 |
-| Samling mellem ydervæg og vinduer eller yderdøre, porte og lemme | 0,06 |
-| Samling mellem tagkonstruktion og ovenlysvinduer eller ovenlyskupler | 0,20 |
+<table data-border="0">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td>Bygningsdel</td>
+<td>Linjetab [W/mK]</td>
+</tr>
+<tr>
+<td>Fundamenter omkring rum, der opvarmes til mindst 5 °C</td>
+<td>0,40</td>
+</tr>
+<tr>
+<td>Samling mellem ydervæg og vinduer eller yderdøre, porte og lemme</td>
+<td>0,06</td>
+</tr>
+<tr>
+<td>Samling mellem tagkonstruktion og ovenlysvinduer eller ovenlyskupler</td>
+<td>0,20<br />
+<br />
+</td>
+</tr>
+</tbody>
+</table>
 
--  [Gå til BR-vejledning om mindste varmeisolering](../../../../historisk/br18_version2/tekniske-bestemmelser/11/brv/energiforbrug/kap-1_5#1dbbc072-1033-4fd0-9f62-4511ace98872){target="_blank"}
+- [Gå til BR-vejledning om mindste varmeisolering](https://www.bygningsreglementet.dk/historisk/br18_version2/tekniske-bestemmelser/11/brv/energiforbrug/kap-1_5/#1dbbc072-1033-4fd0-9f62-4511ace98872){target="_blank"}
 
 ## § 258 Generelle mindstekrav til vinduer, glasydervægge, ovenlysvinduer og glastage {#fd620db7-f2ed-41e9-8e42-3f4b75f234be}
 
@@ -209,13 +233,13 @@ Vinduer, glasydervægge, ovenlysvinduer og glastage skal overholde følgende kra
 
 *Stk. 2.* Referencestørrelsen for vinduer, glasydervægge, ovenlysvinduer og glastage er 1,23 m x 1,48 m. For glasydervægge og glastage beregnes energibalancen fra profilsystemets centerlinjer.
 
--  [Gå til BR-vejledning om energikrav til vinduer, glasydervægge, ovenlysvinduer og glastage](../../../../historisk/br18_version2/tekniske-bestemmelser/11/brv/energiforbrug/kap-1_6#338fd476-4263-475f-985c-fad0744c9ddc){target="_blank"}
+- [Gå til BR-vejledning om energikrav til vinduer, glasydervægge, ovenlysvinduer og glastage](https://www.bygningsreglementet.dk/historisk/br18_version2/tekniske-bestemmelser/11/brv/energiforbrug/kap-1_6/#338fd476-4263-475f-985c-fad0744c9ddc){target="_blank"}
 
 ## § 259 Energirammer for boliger, kollegier, hoteller og lignende {#f803fa8e-fd9d-42a3-b49c-ec1fbb3cb655}
 
 For boliger, kollegier, hoteller og lignende bygninger må bygningens samlede behov for tilført energi til opvarmning, ventilation, køling og varmt brugsvand pr. m² opvarmet etageareal højst være 30,0 kWh/m² pr. år tillagt 1.000 kWh pr. år divideret med det opvarmede etageareal.
 
--  [Gå til BR-vejledning om energirammen](../../../../historisk/br18_version2/tekniske-bestemmelser/11/brv/energiforbrug/kap-1_7#b4fe692e-615e-4bc1-870b-62d4a0b9d883){target="_blank"}
+- [Gå til BR-vejledning om energirammen](https://www.bygningsreglementet.dk/historisk/br18_version2/tekniske-bestemmelser/11/brv/energiforbrug/kap-1_7/#b4fe692e-615e-4bc1-870b-62d4a0b9d883){target="_blank"}
 
 ## § 260 Energirammer for andre bygninger end boliger {#2ec6323f-f853-4f09-9134-38834617a035}
 
@@ -225,19 +249,21 @@ For andre bygninger end boliger, der ikke er omfattet af § 259, må bygningens 
 
 *Stk. 3.* For andre bygninger end boliger, der ikke er omfattet af § 259, eller bygningsafsnit heri med behov for et højt belysningsniveau, ekstra ventilation, et stort forbrug af varmt brugsvand eller lang benyttelsestid eller bygninger med stor rumhøjde, forhøjes energirammen med et tillæg, der modsvarer det beregnede energiforbrug hertil. Tillægget skal beregnes i henhold til SBi-anvisning 213 Bygningers energibehov*.*
 
--  [Gå til BR-vejledning om energirammen](../../../../historisk/br18_version2/tekniske-bestemmelser/11/brv/energiforbrug/kap-1_7#b4fe692e-615e-4bc1-870b-62d4a0b9d883){target="_blank"}
+- [Gå til BR-vejledning om energirammen](https://www.bygningsreglementet.dk/historisk/br18_version2/tekniske-bestemmelser/11/brv/energiforbrug/kap-1_7/#b4fe692e-615e-4bc1-870b-62d4a0b9d883){target="_blank"}
 
 ## § 261 - § 266 Krav ved brug af energiramme {#3a8ca349-26eb-45ea-919c-350ef44b666a}
 
-§ 261 I bygninger med blandet anvendelse, der kan henføres til forskellige energirammer, opdeles bygningens samlede opvarmede etageareal i bygningsafsnit med samme anvendelse. Ved fastlæggelse af energirammen for hele bygningen anvendes denne opdeling.
+### § 261 {#paragraf-261}
 
--  [Gå til BR-vejledning om energiforbrug - bygninger med blandet anvendelse](../../../../historisk/br18_version2/tekniske-bestemmelser/11/brv/energiforbrug/kap-1_9#19ba1a9f-d43d-4005-8d0c-cd4bf92e07c2){target="_blank"}
+I bygninger med blandet anvendelse, der kan henføres til forskellige energirammer, opdeles bygningens samlede opvarmede etageareal i bygningsafsnit med samme anvendelse. Ved fastlæggelse af energirammen for hele bygningen anvendes denne opdeling.
+
+- [Gå til BR-vejledning om energiforbrug - bygninger med blandet anvendelse](https://www.bygningsreglementet.dk/historisk/br18_version2/tekniske-bestemmelser/11/brv/energiforbrug/kap-1_9/#19ba1a9f-d43d-4005-8d0c-cd4bf92e07c2){target="_blank"}
 
 ### § 262 {#paragraf-262}
 
 For bygninger med blandet anvendelse, hvor hovedanvendelsen udgør mindst 80 pct. af det samlede etageareal, regnes anvendelsen helt som hovedanvendelsen.
 
--  [Gå til BR-vejledning om energirammen](../../../../historisk/br18_version2/tekniske-bestemmelser/11/brv/energiforbrug/kap-1_7#b4fe692e-615e-4bc1-870b-62d4a0b9d883){target="_blank"}
+- [Gå til BR-vejledning om energirammen](https://www.bygningsreglementet.dk/historisk/br18_version2/tekniske-bestemmelser/11/brv/energiforbrug/kap-1_7/#b4fe692e-615e-4bc1-870b-62d4a0b9d883){target="_blank"}
 
 ### § 263 {#paragraf-263}
 
@@ -251,13 +277,13 @@ Volumenstrømmen gennem utætheder i klimaskærmen i nye bygninger opvarmet til 
 
 *Stk. 5.* Trykprøvning af volumenstrømmen gennem utætheder i klimaskærmen skal ske på grundlag af Metode 3 i DS/EN ISO 9972 Bygningers termiske ydeevne - Bestemmelse af luftgennemtrængelighed i bygninger - Prøvningsmetode med overtryk skabt af ventilator*.* Håndtering af åbninger i klimaskærmen ved trykprøvning fremgår af Bygningsreglementets vejledning om energiforbrug. Resultatet af trykprøvningen udtrykkes ved gennemsnittet af måling ved over- og undertryk. Resultatet af trykprøvning afrundes til én decimal inden evaluering af, om kravet er overholdt.
 
--  [Gå til BR-vejledning om tæthed og trykprøvning af bygninger](../../../../historisk/br18_version2/tekniske-bestemmelser/11/brv/energiforbrug/kap-1_7#b4fe692e-615e-4bc1-870b-62d4a0b9d883){target="_blank"}
+- [Gå til BR-vejledning om tæthed og trykprøvning af bygninger](https://www.bygningsreglementet.dk/historisk/br18_version2/tekniske-bestemmelser/11/brv/energiforbrug/kap-1_7/#b4fe692e-615e-4bc1-870b-62d4a0b9d883){target="_blank"}
 
 ### § 264 {#paragraf-264}
 
 Nybyggeri, der er omfattet af bestemmelserne i §§ 259 og 260, skal udføres, så det dimensionerende transmissionstab pr. m² etageareal ikke overstiger 12,0+6,0/E+300/A, hvor E er antallet af etager, og A er det opvarmede etageareal. Antal etager er et decimaltal, som udregnes som opvarmet etageareal divideret med bebygget areal. Bygninger med gennemsnitlig rumhøjde over 4,0 meter får et tillæg på 1,0 W/m² pr. meter gennemsnitlig rumhøjde over 4,0 meter. Opvarmet kælder, der ikke indgår i etagearealet, medregnes med 40 pct. i antal etager og det opvarmede etageareal.
 
--  [Gå til BR-vejledning om bestemmelse af det dimensionerede transmissionstab](../../../../historisk/br18_version2/tekniske-bestemmelser/11/brv/energiforbrug/kap-1_11#17aaccda-7e59-4236-a8dc-50745fb7182b){target="_blank"}
+- [Gå til BR-vejledning om bestemmelse af det dimensionerede transmissionstab](https://www.bygningsreglementet.dk/historisk/br18_version2/tekniske-bestemmelser/11/brv/energiforbrug/kap-1_11/#17aaccda-7e59-4236-a8dc-50745fb7182b){target="_blank"}
 
 ### § 265 {#paragraf-265}
 
@@ -265,7 +291,7 @@ Anlæg til vedvarende energi (VE) på bygninger eller i forbindelse med bygninge
 
 *Stk. 2.* For alle bygninger kan der højst medregnes elproduktion fra vedvarende energianlæg som solceller og vindmøller svarende til en reduktion af behovet for tilført energi på 25 kWh/m² pr år i energirammen.
 
--  [Gå til BR-vejledning om vedvarende energi](../../../../historisk/br18_version2/tekniske-bestemmelser/11/brv/energiforbrug/kap-1_12#6d1f4b88-c875-42c5-ba3a-2abc67a5fac1){target="_blank"}
+- [Gå til BR-vejledning om vedvarende energi](https://www.bygningsreglementet.dk/historisk/br18_version2/tekniske-bestemmelser/11/brv/energiforbrug/kap-1_12/#6d1f4b88-c875-42c5-ba3a-2abc67a5fac1){target="_blank"}
 
 ### § 266 {#paragraf-266}
 
@@ -275,7 +301,7 @@ For opvarmede eller delvist opvarmede kældre, der ikke indgår i etagearealet,
 
 ### § 267 {#paragraf-267}
 
-Ved ændret anvendelse af en bygning eller dele af en bygning, der indebærer et væsentligt større energiforbrug, kan energikravene overholdes ved at benytte renoveringsklasse 2 i [§§ 280-282](../280_282 "280_282")[](../259 "259") eller ved at følge kravene til U-værdi i § 268.
+Ved ændret anvendelse af en bygning eller dele af en bygning, der indebærer et væsentligt større energiforbrug, kan energikravene overholdes ved at benytte renoveringsklasse 2 i [§§ 280-282](../280_282/ "280_282")[](../259/ "259") eller ved at følge kravene til U-værdi i § 268.
 
 ### § 267a {#paragraf-267a}
 
@@ -287,7 +313,7 @@ Kirker og bygninger, som er en del af et fredet fortidsminde, er undtaget fra be
 
 ### § 268 {#paragraf-268}
 
-Bygningsdele omkring rum, der opvarmes til over 15 °C, skal overholde U-værdierne i bilag 2, tabel 3. Bygningsdele omkring rum, der opvarmes til mellem 5 og 15 °C skal overholde U-værdierne i bilag 2, tabel 2 for disse temperaturer. Vinduer, glasydervægge, døre, glastage og ovenlysvinduer skal leve op til kravene i [§§ 257 og 258](../257 "257").
+Bygningsdele omkring rum, der opvarmes til over 15 °C, skal overholde U-værdierne i bilag 2, tabel 3. Bygningsdele omkring rum, der opvarmes til mellem 5 og 15 °C skal overholde U-værdierne i bilag 2, tabel 2 for disse temperaturer. Vinduer, glasydervægge, døre, glastage og ovenlysvinduer skal leve op til kravene i [§§ 257 og 258](../257/ "257").
 
 *Tabel 2 - Mindstekrav til klimaskærm ved ændret anvendelse og tilbygninger*
 
@@ -340,18 +366,18 @@ Ved ændret anvendelse af en bygning eller dele af en bygning kan byggetekniske 
 
 Bygningsmæssige ændringer skal overholde kravene i § 268. Ændringer, der indebærer et forøget energiforbrug, kan gennemføres, hvis der udføres tilsvarende kompenserende energibesparelser.
 
--  [Gå til BR-vejledning om energikrav ved ændret anvendelse](../../../../historisk/br18_version2/tekniske-bestemmelser/11/brv/energiforbrug/kap-2_0#850cf1b2-9d7b-425d-89ff-e40714a82e0a){target="_blank"}
--  [Gå til BR-vejledning om bygningsmæssige ændringer](../../brv/energiforbrug-2/kap-2_1#689f7df4-be19-40a4-bde0-8fccec531084){target="_blank"}
+- [Gå til BR-vejledning om energikrav ved ændret anvendelse](https://www.bygningsreglementet.dk/historisk/br18_version2/tekniske-bestemmelser/11/brv/energiforbrug/kap-2_0/#850cf1b2-9d7b-425d-89ff-e40714a82e0a){target="_blank"}
+- [Gå til BR-vejledning om bygningsmæssige ændringer](../../brv/energiforbrug-2/kap-2_1/#689f7df4-be19-40a4-bde0-8fccec531084){target="_blank"}
 
 ## § 271 - § 273 Energikrav ved tilbygninger {#660bcd55-d949-4c59-8e07-94cad1f2116a}
 
 ### § 271 {#paragraf-271}
 
-Tilbygninger skal projekteres og udføres, så energibehovet ved beregning ikke overstiger energirammen. Benyttes energirammen for tilbygninger, gælder energirammen kun for tilbygningen. Størrelsen af energirammen for tilbygningen beregnes på grundlag af arealet af den samlede bygning. Alternativt kan kravene overholdes ved at overholde U-værdierne i [bilag 2, tabel 2](../../../../bilag/b2/bilag_2/tabel_2 "Tabel_2") eller varmetabsrammen i [§ 272](# "272"). Det er en betingelse for anvendelse af U-værdierne i [bilag 2, tabel 2](../../../../bilag/b2/bilag_2/tabel_2 "Tabel_2"), at det samlede areal af yderdøre og vinduer, herunder ovenlysvinduer, ovenlyskupler, glasydervægge og glastage ikke overstiger 22 pct. af det opvarmede etageareal.
+Tilbygninger skal projekteres og udføres, så energibehovet ved beregning ikke overstiger energirammen. Benyttes energirammen for tilbygninger, gælder energirammen kun for tilbygningen. Størrelsen af energirammen for tilbygningen beregnes på grundlag af arealet af den samlede bygning. Alternativt kan kravene overholdes ved at overholde U-værdierne i [bilag 2, tabel 2](../../../../bilag/b2/bilag_2/tabel_2/ "Tabel_2") eller varmetabsrammen i [§ 272](# "272"). Det er en betingelse for anvendelse af U-værdierne i [bilag 2, tabel 2](../../../../bilag/b2/bilag_2/tabel_2/ "Tabel_2"), at det samlede areal af yderdøre og vinduer, herunder ovenlysvinduer, ovenlyskupler, glasydervægge og glastage ikke overstiger 22 pct. af det opvarmede etageareal.
 
 ### § 272 {#paragraf-272}
 
-Tilbygninger må benytte varmetabsrammen, hvis tilbygningens varmetab ikke derved bliver større, end hvis U- værdikravene i [bilag 2, tabel 2](../../../../bilag/b2/bilag_2/tabel_2 "Tabel_2") var opfyldt.
+Tilbygninger må benytte varmetabsrammen, hvis tilbygningens varmetab ikke derved bliver større, end hvis U- værdikravene i [bilag 2, tabel 2](../../../../bilag/b2/bilag_2/tabel_2/ "Tabel_2") var opfyldt.
 
 *Stk. 2.* Varmetabsrammen omfatter i denne sammenhæng kun tilbygningen. Dog kan 50 pct. af det tidligere varmetab gennem den del af facaden på den eksisterende bygning, der bliver dækket af tilbygningen, medregnes i varmetabsrammen.
 
@@ -359,14 +385,14 @@ Tilbygninger må benytte varmetabsrammen, hvis tilbygningens varmetab ikke derve
 
 Vinduer i tilbygningen kan i varmetabsrammen indregnes som de reelle vinduer eller vinduer med U-værdi på 1,2 W/m²K. De reelle vinduer skal benyttes i beregningen af de reelle forhold.
 
--  [Gå til BR-vejledning om energikrav ved tilbygninger](../../../../historisk/br18_version2/tekniske-bestemmelser/11/brv/energiforbrug/kap-3_0#2afb033b-d60f-42f2-bfe2-a5cf8e8173e3){target="_blank"}
--  [Gå til BR-vejledning om varmetabsrammen](../../../../historisk/br18_version2/tekniske-bestemmelser/11/brv/energiforbrug/kap-3_1#50de3461-7c7d-4f90-ba63-c198a6c28aa3){target="_blank"}
+- [Gå til BR-vejledning om energikrav ved tilbygninger](https://www.bygningsreglementet.dk/historisk/br18_version2/tekniske-bestemmelser/11/brv/energiforbrug/kap-3_0/#2afb033b-d60f-42f2-bfe2-a5cf8e8173e3){target="_blank"}
+- [Gå til BR-vejledning om varmetabsrammen](https://www.bygningsreglementet.dk/historisk/br18_version2/tekniske-bestemmelser/11/brv/energiforbrug/kap-3_1/#50de3461-7c7d-4f90-ba63-c198a6c28aa3){target="_blank"}
 
 ## § 274 - § 279 Energikrav ved ombygninger og udskiftning af bygningsdele {#afb229c4-65a2-4b7d-8613-8fe584c21e25}
 
 ### § 274 {#paragraf-274}
 
-Ved ombygninger skal energibesparelser gennemføres i det omfang, de er rentable, og ikke medfører risiko for fugtskader. Energikravene ved ombygning kan enten overholdes ved at overholde kravene til alle berørte bygningsdele i § 279 eller ved at følge renoveringsklasserne for eksisterende bygninger i [§§ 280-282](../280_282 "280_282"). Renoveringsklasserne er en energiramme for eksisterende bygninger.
+Ved ombygninger skal energibesparelser gennemføres i det omfang, de er rentable, og ikke medfører risiko for fugtskader. Energikravene ved ombygning kan enten overholdes ved at overholde kravene til alle berørte bygningsdele i § 279 eller ved at følge renoveringsklasserne for eksisterende bygninger i [§§ 280-282](../280_282/ "280_282"). Renoveringsklasserne er en energiramme for eksisterende bygninger.
 
 ### § 275 {#paragraf-275}
 
@@ -390,7 +416,7 @@ Kirker og bygninger, som er en del af et fredet fortidsminde, er undtaget fra be
 
 *Stk. 3.* Bevaringsværdige bygninger, der er omfattet af en bevarende byplanvedtægt, bevarende lokalplan, tinglyst bevaringsdeklaration eller bygninger udpeget i kommuneplanen som bevaringsværdige, og bygninger, der af kulturministeren er besluttet udpeget som bevaringsværdige i henhold til bygningsfredningslovens § 19, stk. 1, er ligeledes undtaget fra bestemmelserne i §§ 274-282, hvis det vil være i strid med den pågældende planlægning eller udpegning at efterleve kravene.
 
--  [Gå til BR-vejledning om energikrav til fredede bygninger](../../../../historisk/br18_version2/tekniske-bestemmelser/11/brv/energiforbrug/kap-4_1#8ee4ed58-d397-4358-9a4b-2aaf8c0eb34b){target="_blank"}
+- [Gå til BR-vejledning om energikrav til fredede bygninger](https://www.bygningsreglementet.dk/historisk/br18_version2/tekniske-bestemmelser/11/brv/energiforbrug/kap-4_1/#8ee4ed58-d397-4358-9a4b-2aaf8c0eb34b){target="_blank"}
 
 ### § 279 {#paragraf-279}
 
@@ -399,26 +425,26 @@ Ombygning og andre forandringer i bygningen skal opfylde kravene til U-værdier
 *Tabel 3 - Mindstekrav til klimaskærm ved ombygninger og andre forandringer i bygningen*
 
 |  |  |
-|:---|:---|
-| **Bygningsdel**   | **U-værdi \[W/m²K\]** |
-| Ydervægge og kældervægge mod jord  | 0,18 |
-| Etageadskillelser og skillevægge mod rum, hvor temperaturforskellen mellem rummene er 5 °C eller mere  | 0,40 |
-| Terrændæk, kældergulve mod jord og etageadskillelser over det fri eller ventileret kryberum  | 0,10 |
-| Loft- og tagkonstruktioner, herunder skunkvægge, flade tage og skråvægge direkte mod tag  | 0,12 |
-| Porte  | 1,80 |
-| Lemme, nye forsatsvinduer og ovenlyskupler  | 1,40 |
-| Renoverede forsatsvinduer  | 1,65 |
-| Lystunneler eller lignende  | 2,0 |
+|----|----|
+| **Bygningsdel**   | **U-værdi \[W/m²K\]**  |
+| Ydervægge og kældervægge mod jord  | 0,18  |
+| Etageadskillelser og skillevægge mod rum, hvor temperaturforskellen mellem rummene er 5 °C eller mere  | 0,40  |
+| Terrændæk, kældergulve mod jord og etageadskillelser over det fri eller ventileret kryberum  | 0,10  |
+| Loft- og tagkonstruktioner, herunder skunkvægge, flade tage og skråvægge direkte mod tag  | 0,12  |
+| Porte  | 1,80  |
+| Lemme, nye forsatsvinduer og ovenlyskupler  | 1,40  |
+| Renoverede forsatsvinduer  | 1,65  |
+| Lystunneler eller lignende  | 2,0  |
 
 |  |  |
-|:---|:---|
-| **Bygningsdel**  | **Linjetab \[W/mK\]** |
-| Fundamenter  | 0,12 |
-| Samling mellem ydervæg, vinduer eller yderdøre, porte og lemme  | 0,03 |
-| Samling mellem tagkonstruktion og ovenlysvinduer eller ovenlyskupler  | 0,10 |
+|----|----|
+| **Bygningsdel**  | **Linjetab \[W/mK\]**   |
+| Fundamenter  | 0,12  |
+| Samling mellem ydervæg, vinduer eller yderdøre, porte og lemme  | 0,03  |
+| Samling mellem tagkonstruktion og ovenlysvinduer eller ovenlyskupler  | 0,10  |
 
--  [Gå til Bilag 2: Tabeller til kapitel 11 - Energiforbrug (Tabel 1 - 5)](../../../../historisk/br18_version2/bilag/b2/bilag_2/tabel_1#4bdb0dc8-ed98-45e5-b1fd-4b90048e86fa){target="_blank"}
--  [Gå til BR-vejledning om energikrav ved ombygninger og udskiftninger af bygningsdele](../../../../historisk/br18_version7/tekniske-bestemmelser/11/brv/energiforbrug/kap-4_0#3a520add-ecb5-493c-acdb-5b8b4ade195c){target="_blank"}
+- [Gå til Bilag 2: Tabeller til kapitel 11 - Energiforbrug (Tabel 1 - 5)](https://www.bygningsreglementet.dk/historisk/br18_version2/bilag/b2/bilag_2/tabel_1/#4bdb0dc8-ed98-45e5-b1fd-4b90048e86fa){target="_blank"}
+- [Gå til BR-vejledning om energikrav ved ombygninger og udskiftninger af bygningsdele](https://www.bygningsreglementet.dk/historisk/br18_version7/tekniske-bestemmelser/11/brv/energiforbrug/kap-4_0/#3a520add-ecb5-493c-acdb-5b8b4ade195c){target="_blank"}
 
 ## § 280 - § 282 Renoveringsklasser for eksisterende bygninger {#794cbbfb-74ff-4078-933c-43679ab3e5ca}
 
@@ -452,7 +478,7 @@ Kontorer, skoler, institutioner og andre bygninger, der ikke er omfattet af § 2
 
 *Stk. 2.* For bygninger eller bygningsafsnit med behov for et højt belysningsniveau, ekstra meget ventilation, et stort forbrug af varmt brugsvand eller lang benyttelsestid eller bygninger med stor rumhøjde forhøjes energirammen med et tillæg, der modsvarer det beregnede energiforbrug hertil. SBi-anvisning 213 Bygningers energibehov fastlægger forudsætningerne for tillæg.
 
--  [Gå til BR-vejledning om renoveringsklasser for eksisterende bygninger](../../brv/energiforbrug-2/kap-5_0){target="_blank"}
+- [Gå til BR-vejledning om renoveringsklasser for eksisterende bygninger](../../brv/energiforbrug-2/kap-5_0/){target="_blank"}
 
 ## § 283 - § 286 Sommerhuse, campinghytter og lignende ferieboliger {#81b0a907-cbd5-4c5a-89fa-aacae6e0b169}
 
@@ -465,20 +491,20 @@ Sommerhuse, campinghytter og lignende ferieboliger, samt tilbygninger hertil ska
 *Tabel 4 - Mindstekrav til klimaskærm for sommerhuse, campinghytter og lignende ferieboliger*
 
 |  |  |
-|:---|:---|
+|----|----|
 | **Bygningsdel**   | **U-værdi \[W/m²K\]** |
-| Ydervægge og kældervægge mod jord  | 0,25 |
-| Skillevægge og etageadskillelser mod rum, der er uopvarmede  | 0,40 |
-| Terrændæk, kældergulve mod jord og etageadskillelser over det fri eller ventileret kryberum  | 0,15 |
-| Loft- og tagkonstruktion, herunder skunkvægge samt flade tage  | 0,15 |
-| Vinduer, yderdøre, ovenlysvinduer, glasydervægge, glastage og ovenlyskupler mod det fri eller mod rum, der er uopvarmede | 1,80 |
+| Ydervægge og kældervægge mod jord  | 0,25  |
+| Skillevægge og etageadskillelser mod rum, der er uopvarmede  | 0,40  |
+| Terrændæk, kældergulve mod jord og etageadskillelser over det fri eller ventileret kryberum  | 0,15  |
+| Loft- og tagkonstruktion, herunder skunkvægge samt flade tage  | 0,15  |
+| Vinduer, yderdøre, ovenlysvinduer, glasydervægge, glastage og ovenlyskupler mod det fri eller mod rum, der er uopvarmede | 1,80  |
 
 |  |  |
-|:---|:---|
-| **Bygningsdel**  | **Linjetab \[W/mK\]** |
-| Fundamenter  | 0,15 |
-| Samling mellem ydervæg og vinduer eller yderdøre, porte og lemme  | 0,03 |
-| Samling mellem tagkonstruktion og ovenlysvinduer eller ovenlyskupler  | 0,10 |
+|----|----|
+| **Bygningsdel**  | **Linjetab \[W/mK\]**  |
+| Fundamenter  | 0,15  |
+| Samling mellem ydervæg og vinduer eller yderdøre, porte og lemme  | 0,03  |
+| Samling mellem tagkonstruktion og ovenlysvinduer eller ovenlyskupler  | 0,10  |
 
 ### § 284 {#paragraf-284}
 
@@ -490,11 +516,13 @@ U-værdier og linjetab i § 283 gælder under betingelse af, at det samlede are
 
 Ved ombygning, andre forandringer og udskiftning gælder de i § 283 angivne krav under forudsætning af, at kravene er rentable. Rentabiliteten vurderes som i § 275. Ved vurdering af rentabiliteten betragtes ferieboligen som værende i brug som bolig også i vinterhalvåret.
 
-### § 286 I {#paragraf-286i}
+<span id="paragraf-286i"></span>
 
-sommerhuse kan massive ydervægge af f.eks. træ, letbeton eller teglblokke med U-værdi lavere end 0,50 W/m²K anvendes under forudsætning af, at det samlede varmetab ved transmission ikke bliver større, end hvis U-værdierne i § 283 benyttes.
+### § 286 {#paragraf-286}
 
--  [Gå til BR-vejledning om energikrav til sommerhuse, campinghytter og lignende ferieboliger](../280_282#794cbbfb-74ff-4078-933c-43679ab3e5ca){target="_blank"}
+I sommerhuse kan massive ydervægge af f.eks. træ, letbeton eller teglblokke med U-værdi lavere end 0,50 W/m²K anvendes under forudsætning af, at det samlede varmetab ved transmission ikke bliver større, end hvis U-værdierne i § 283 benyttes.
+
+- [Gå til BR-vejledning om energikrav til sommerhuse, campinghytter og lignende ferieboliger](../280_282/#794cbbfb-74ff-4078-933c-43679ab3e5ca){target="_blank"}
 
 ## § 287 - § 292 Midlertidige, flytbare pavilloner {#f83468ad-c2a0-4b59-840a-7f0e0afc27f9}
 
@@ -514,23 +542,54 @@ Pavilloner, der opstilles til midlertidig brug, skal opfylde krav til U-værdie
 
 *Tabel 5 - Mindstekrav til klimaskærm for midlertidige, flytbare pavilloner*
 
-|  |  |
-|:----------------------------------------------------------|:-----------|
-| **Bygningsdel**   | **U-værdi \[W/m²K\]**  |
-| Ydervægge  | 0,20 |
-| Etageadskillelser og skillevægge mod rum, hvor temperaturforskellen mellem rummene er 5 °C eller mere  | 0,40 |
-| Gulv og etageadskillelser over det fri eller ventileret kryberum  | 0,12 |
-| Loft- og tagkonstruktioner, herunder skunkvægge, flade tage og skråvægge direkte mod tag  | 0,15 |
-| For porte og lemme mod det fri eller mod rum, der er uopvarmede, samt glasvægge og vinduer mod rum opvarmet til en temperatur, hvor temperaturforskellen mellem rummene er 5 °C eller mere  | 1,80 |
-| Ovenlyskupler  | 1,80 |
-| Lystunneler eller lignende  | 2,0 |
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td><strong>Bygningsdel</strong>  </td>
+<td><strong>U-værdi [W/m²K]</strong> </td>
+</tr>
+<tr>
+<td>Ydervægge </td>
+<td>0,20 </td>
+</tr>
+<tr>
+<td>Etageadskillelser og skillevægge mod rum, hvor temperaturforskellen mellem rummene er 5 °C eller mere </td>
+<td>0,40 </td>
+</tr>
+<tr>
+<td>Gulv og etageadskillelser over det fri eller ventileret kryberum </td>
+<td>0,12 </td>
+</tr>
+<tr>
+<td>Loft- og tagkonstruktioner, herunder skunkvægge, flade tage og skråvægge direkte mod tag </td>
+<td>0,15 </td>
+</tr>
+<tr>
+<td>For porte og lemme mod det fri eller mod rum, der er uopvarmede, samt glasvægge og vinduer mod rum opvarmet til en temperatur, hvor temperaturforskellen mellem rummene er 5 °C eller mere </td>
+<td>1,80 </td>
+</tr>
+<tr>
+<td>Ovenlyskupler </td>
+<td>1,80<br />
+</td>
+</tr>
+<tr>
+<td>Lystunneler eller lignende </td>
+<td>2,0 </td>
+</tr>
+</tbody>
+</table>
 
 |  |  |
-|:---|:---|
+|----|----|
 | **Linjetab**  | **Linjetab \[W/mK\]** |
-| Fundamenter  | 0,20 |
-| Samling mellem ydervæg, vinduer eller yderdøre, porte og lemme  | 0,03 |
-| Samling mellem tagkonstruktion og ovenlysvinduer eller ovenlyskupler  | 0,10 |
+| Fundamenter  | 0,20  |
+| Samling mellem ydervæg, vinduer eller yderdøre, porte og lemme  | 0,03  |
+| Samling mellem tagkonstruktion og ovenlysvinduer eller ovenlyskupler  | 0,10  |
 
 ### § 289 {#paragraf-289}
 
@@ -548,7 +607,7 @@ Nybyggede pavillonmoduler skal være forberedt for anden varme end direkte elva
 
 Ved ombygning af pavilloner skal kravene i § 288 overholdes i det omfang, det er rentabelt i henhold til § 275.
 
--  [Gå til BR-vejledning om energikrav midlertidige, flytbare pavilloner](../287_292#f83468ad-c2a0-4b59-840a-7f0e0afc27f9){target="_blank"}
+- [Gå til BR-vejledning om energikrav midlertidige, flytbare pavilloner](../287_292/#f83468ad-c2a0-4b59-840a-7f0e0afc27f9){target="_blank"}
 
 ## § 293 - § 294 Bygningsopvarmning {#86d6f121-955d-4989-a889-75c55e0d7634}
 
@@ -560,9 +619,9 @@ Bygningsopvarmning skal baseres på vedvarende energi.
 
 *Stk. 3.* I bygninger beliggende i områder, hvor der er etableret naturgasnet, eller hvor der foreligger en projektgodkendelse udarbejdet inden 1. januar 2013 om individuel naturgasforsyning af området i henhold til varmeforsyningsloven, kan bygningsopvarmningen baseres på naturgas uanset stk. 1.
 
-*Stk. 4.* Eksisterende bygninger beliggende i områder, hvor tilslutning til fjernvarmenet ikke er mulig, eller hvor der ikke er etableret naturgasnet eller truffet beslutning herom i henhold til varmeforsyningsloven inden 1. januar 2013, jf. stk. 3, er ikke omfattet af stk. 1.
+*Stk. 4.* Eksisterende bygninger beliggende i områder, hvor tilslutning til fjernvarmenet ikke er mulig, eller hvor der ikke er etableret naturgasnet eller truffet beslutning herom i henhold til varmeforsyningsloven inden 1. januar 2013, jf. stk. 3, er ikke omfattet af stk. 1.
 
-*Stk. 5.* Der kan kun meddeles dispensation fra stk. 1, hvis der efter en konkret vurdering er forhold ved bebyggelsen eller ejendommen, der gør bygningsopvarmning baseret på vedvarende energi uegnet. Ved dispensation kan kommunalbestyrelsen eksempelvis lægge vægt på, at en eller flere af følgende faktorer gør installationen af vedvarende energi ved det konkrete byggeri uegnet:
+*Stk. 5.* Der kan kun meddeles dispensation fra stk. 1, hvis der efter en konkret vurdering er forhold ved bebyggelsen eller ejendommen, der gør bygningsopvarmning baseret på vedvarende energi uegnet. Ved dispensation kan kommunalbestyrelsen eksempelvis lægge vægt på, at en eller flere af følgende faktorer gør installationen af vedvarende energi ved det konkrete byggeri uegnet:
 
 1) Grundstørrelse.
 
@@ -574,26 +633,28 @@ Bygningsopvarmning skal baseres på vedvarende energi.
 
 5) Bygningens påtænkte anvendelse.
 
-  § 294 I nybyggeri og i eksisterende bygninger, hvor bygningsopvarmningen ikke er baseret på vedvarende energi i overensstemmelse med § 293, og hvor der foretages ombygninger eller forandringer, der er væsentlige, skal der være en andel af vedvarende energi i den samlede energiforsyning til bygningen, hvis dette er teknisk muligt og økonomisk rentabelt. Rentabilitet vurderes efter § 275. Bestemmelsen gælder ikke renoveringer af kirker samt fredede og bevaringsværdige bygninger, jf. § 278.
+### § 294 {#paragraf-294}
 
--  [Gå til BR-vejledning om fjernvarme og vedvarende energi](../../../../historisk/br18_version7/tekniske-bestemmelser/11/brv/energiforbrug/kap-8_1#1be380e9-1d45-4195-979d-6b85c4ffbfe0){target="_blank"}
+I nybyggeri og i eksisterende bygninger, hvor bygningsopvarmningen ikke er baseret på vedvarende energi i overensstemmelse med § 293, og hvor der foretages ombygninger eller forandringer, der er væsentlige, skal der være en andel af vedvarende energi i den samlede energiforsyning til bygningen, hvis dette er teknisk muligt og økonomisk rentabelt. Rentabilitet vurderes efter § 275. Bestemmelsen gælder ikke renoveringer af kirker samt fredede og bevaringsværdige bygninger, jf. § 278.
 
-<!-- -->
-
--  [Gå til BR-vejledning om individuel naturgasforsyning og vedvarende energi](../../../../historisk/br18_version7/tekniske-bestemmelser/11/brv/energiforbrug/kap-8_2#410bc93b-a4ca-46b5-9b39-e131bad49768){target="_blank"}
+- [Gå til BR-vejledning om fjernvarme og vedvarende energi](https://www.bygningsreglementet.dk/historisk/br18_version7/tekniske-bestemmelser/11/brv/energiforbrug/kap-8_1/#1be380e9-1d45-4195-979d-6b85c4ffbfe0){target="_blank"}
 
 <!-- -->
 
--  [Gå til BR-vejledning om områder uden adgang til fjernvarme eller naturgas](../../../../historisk/br18_version7/tekniske-bestemmelser/11/brv/energiforbrug/kap-8_3#15ae0cf9-fdad-4a3d-a2b4-9b2a8d4faa4b){target="_blank"}
+- [Gå til BR-vejledning om individuel naturgasforsyning og vedvarende energi](https://www.bygningsreglementet.dk/historisk/br18_version7/tekniske-bestemmelser/11/brv/energiforbrug/kap-8_2/#410bc93b-a4ca-46b5-9b39-e131bad49768){target="_blank"}
 
 <!-- -->
 
--  [Gå til BR-vejledning om dispensation ift. bygningsopvarmning](../../brv/energiforbrug-2/kap-8_4#acc806ef-5e18-47b7-ac9e-f43662db0fa0){target="_blank"}
+- [Gå til BR-vejledning om områder uden adgang til fjernvarme eller naturgas](https://www.bygningsreglementet.dk/historisk/br18_version7/tekniske-bestemmelser/11/brv/energiforbrug/kap-8_3/#15ae0cf9-fdad-4a3d-a2b4-9b2a8d4faa4b){target="_blank"}
 
 <!-- -->
 
--  [Gå til BR-vejledning om bygningsopvarmning](../../../../historisk/br18_version7/tekniske-bestemmelser/11/brv/energiforbrug/kap-8_0#fd566546-b8cd-43c9-b844-f1f6780c8e3e){target="_blank"}
--  [Gå til BR-vejledning vedr. bygningsopvarmning ved væsentlige ombygninger og forandringer](../../../../historisk/br18_version7/tekniske-bestemmelser/11/brv/energiforbrug/kap-8_0#fd566546-b8cd-43c9-b844-f1f6780c8e3e){target="_blank"}
+- [Gå til BR-vejledning om dispensation ift. bygningsopvarmning](../../brv/energiforbrug-2/kap-8_4/#acc806ef-5e18-47b7-ac9e-f43662db0fa0){target="_blank"}
+
+<!-- -->
+
+- [Gå til BR-vejledning om bygningsopvarmning](https://www.bygningsreglementet.dk/historisk/br18_version7/tekniske-bestemmelser/11/brv/energiforbrug/kap-8_0/#fd566546-b8cd-43c9-b844-f1f6780c8e3e){target="_blank"}
+- [Gå til BR-vejledning vedr. bygningsopvarmning ved væsentlige ombygninger og forandringer](https://www.bygningsreglementet.dk/historisk/br18_version7/tekniske-bestemmelser/11/brv/energiforbrug/kap-8_0/#fd566546-b8cd-43c9-b844-f1f6780c8e3e){target="_blank"}
 
 ## § 295 - § 296 Bygningsautomatik {#0fa99ed3-1c44-426c-a3b3-6de893c65b2b}
 
@@ -636,7 +697,7 @@ Ved opførelsen af bygninger og tilbygninger, skal der foretages en beregning af
 3.  Række-, kæde- og dobbelthuse.
 4.  Sommerhuse, campinghytter og lignende ferieboliger.
 
-*Stk. 4.* Klimapåvirkningen skal opgøres i kg CO~2~-ækvivalenter pr. m^2^ pr. år* *beregnet i henhold til DS/EN15978:2012 Bæredygtighed inden for byggeri og anlæg - Vurdering af bygningers miljømæssige kvalitet - Beregningsmetode. Klimapåvirkningen opgøres for en betragtningsperiode på 50 år fra byggeriets færdigmelding. I beregningen indgår modulerne:
+*Stk. 4.* Klimapåvirkningen skal opgøres i kg CO~2~-ækvivalenter pr. m^2^ pr. år beregnet i henhold til DS/EN15978:2012 Bæredygtighed inden for byggeri og anlæg - Vurdering af bygningers miljømæssige kvalitet - Beregningsmetode. Klimapåvirkningen opgøres for en betragtningsperiode på 50 år fra byggeriets færdigmelding. I beregningen indgår modulerne:
 
 1.  A1: Råmaterialer.
 2.  A2: Transport.
@@ -659,9 +720,9 @@ Ved opførelsen af bygninger og tilbygninger, skal der foretages en beregning af
 6.  Walk-on-ceilings og lignende medregnes alene med 25 pct.
 7.  Overdækkede, ikke-integrerede terrasser, samt udnyttede tagflader og lignende, medtages ikke.
 
-*Stk. 6.* I beregningen af klimapåvirkningen fra materialer indgår de dele af bygningen, som nærmere afgrænset i oversigten over bygningsdele i [bilag 2, tabel 6](../../../../bilag/b2/bilag_2/tabel_6 "Tabel_6"){rel="noopener" target="_blank"}.
+*Stk. 6.* I beregningen af klimapåvirkningen fra materialer indgår de dele af bygningen, som nærmere afgrænset i oversigten over bygningsdele i [bilag 2, tabel 6](../../../../bilag/b2/bilag_2/tabel_6/ "Tabel_6"){rel="noopener" target="_blank"}.
 
-*Stk. 7.* Ved beregning af klimapåvirkning fra materialer (i modul A1-A3, modul C3-C4 og modul D) anvendes det generiske datagrundlag i [bilag 2, tabel 7](../../../../bilag/b2/bilag_2/tabel_7 "Tabel_7"){rel="noopener" target="_blank"}. Ved beregning af klimapåvirkning fra de dele af byggeprocessen, som omhandler energiforbrug og transport (i modul A4 og A5), anvendes de principper og tabelværdier, som fremgår af [bilag 2, tabel 10](../../../../bilag/b2/bilag_2 "Bilag_2"){rel="noopener" target="_blank"}. Ved beregning af klimapåvirkning fra behandling af byggeaffald fra byggeprocessen (i modul A5), bortset fra affaldets transport, anvendes det generiske datagrundlag i [bilag 2, tabel 11](../../../../bilag/b2/bilag_2 "Bilag_2"){rel="noopener" target="_blank"}. Alternativt til tabel 7, 10 og 11 kan anvendes data fra miljøvaredeklarationer, jf. stk. 8.
+*Stk. 7.* Ved beregning af klimapåvirkning fra materialer (i modul A1-A3, modul C3-C4 og modul D) anvendes det generiske datagrundlag i [bilag 2, tabel 7](../../../../bilag/b2/bilag_2/tabel_7/ "Tabel_7"){rel="noopener" target="_blank"}. Ved beregning af klimapåvirkning fra de dele af byggeprocessen, som omhandler energiforbrug og transport (i modul A4 og A5), anvendes de principper og tabelværdier, som fremgår af [bilag 2, tabel 10](../../../../bilag/b2/bilag_2/ "Bilag_2"){rel="noopener" target="_blank"}. Ved beregning af klimapåvirkning fra behandling af byggeaffald fra byggeprocessen (i modul A5), bortset fra affaldets transport, anvendes det generiske datagrundlag i [bilag 2, tabel 11](../../../../bilag/b2/bilag_2/ "Bilag_2"){rel="noopener" target="_blank"}. Alternativt til tabel 7, 10 og 11 kan anvendes data fra miljøvaredeklarationer, jf. stk. 8.
 
 *Stk. 8.* Anvendte miljøvaredeklarationer skal være relevante og gyldige samt udført i henhold til DS/EN15804 Bæredygtighed inden for byggeri og anlæg - Miljøvaredeklarationer – Grundlæggende regler for produktkategorien byggevarer. Miljøvaredeklarationer kan være projektspecifikke, produktspecifikke eller repræsentere et gennemsnit for en bestemt produkttype.
 
@@ -678,12 +739,12 @@ Ved opførelsen af bygninger og tilbygninger, skal der foretages en beregning af
 
 *Stk. 10.* Ved beregning af klimapåvirkning fra materialer medregnes udskiftning af bygningsdele og byggematerialer (i modul B4) ifølge levetider og principper som fastlagt i BUILD RAPPORT 2021:32 – BUILD levetidstabel – Version 2021.
 
-*Stk. 11.* For byggeri omfattet af energirammen beregnes klimapåvirkningen fra driftsenergi (i modul B6) på baggrund af energibehovet som beskrevet i §§ 250-256, omregnet til klimapåvirkning. I omregningen anvendes de emissionsfaktorer, som fremgår af [bilag 2, tabel 8.1](../../../../bilag/b2/bilag_2/tabel_8 "Tabel_8"){rel="noopener" target="_blank"}. Alternativt kan miljøvaredeklarationen for det konkrete fjernvarmeforsyningsanlæg anvendes. Miljøvaredeklarationen skal være gyldig og udført i henhold til ISO 14025. Der må kun medregnes anlæg, der er godkendt i henhold til Varmeforsyningsloven. Der medregnes alene det opvarmede etageareal som beskrevet i § 256, nr. 3.
+*Stk. 11.* For byggeri omfattet af energirammen beregnes klimapåvirkningen fra driftsenergi (i modul B6) på baggrund af energibehovet som beskrevet i §§ 250-256, omregnet til klimapåvirkning. I omregningen anvendes de emissionsfaktorer, som fremgår af [bilag 2, tabel 8.1](../../../../bilag/b2/bilag_2/tabel_8/ "Tabel_8"){rel="noopener" target="_blank"}. Alternativt kan miljøvaredeklarationen for det konkrete fjernvarmeforsyningsanlæg anvendes. Miljøvaredeklarationen skal være gyldig og udført i henhold til ISO 14025. Der må kun medregnes anlæg, der er godkendt i henhold til Varmeforsyningsloven. Der medregnes alene det opvarmede etageareal som beskrevet i § 256, nr. 3.
 
-*Stk. 12.* For byggeri, som ikke er omfattet af energirammen, beregnes påvirkning fra driftsenergi på samme måde som byggeri omfattet af energirammen, jf. stk. 11, med nedenstående undtagelser:
+*Stk. 12.* For byggeri, som ikke er omfattet af energirammen, beregnes påvirkning fra driftsenergi på samme måde som byggeri omfattet af energirammen, jf. stk. 11, med nedenstående undtagelser:
 
-1.  For sommerhuse, campinghytter og lignende ferieboliger kan påvirkning fra driftsenergi beregnes ud fra standardværdierne i [bilag 2, tabel 12](../../../../bilag/b2/bilag_2 "Bilag_2"){rel="noopener" target="_blank"}.
-2.  For tilbygninger kan påvirkning fra driftsenergi beregnes ud fra standardværdierne i [bilag 2, tabel 13](../../../../bilag/b2/bilag_2 "Bilag_2"){rel="noopener" target="_blank"}.
+1.  For sommerhuse, campinghytter og lignende ferieboliger kan påvirkning fra driftsenergi beregnes ud fra standardværdierne i [bilag 2, tabel 12](../../../../bilag/b2/bilag_2/ "Bilag_2"){rel="noopener" target="_blank"}.
+2.  For tilbygninger kan påvirkning fra driftsenergi beregnes ud fra standardværdierne i [bilag 2, tabel 13](../../../../bilag/b2/bilag_2/ "Bilag_2"){rel="noopener" target="_blank"}.
 3.  For tilbygninger kan resultaterne fra varmetabsrammen benyttes til at beregne varmebehovet.
 4.  For uopvarmet byggeri kan klimapåvirkningen for driftsenergi sættes til 0.
 
@@ -721,7 +782,7 @@ For byggeri, som er omfattet af § 297 må klimapåvirkningen fra modulerne A1-A
 
 *Stk. 7.* Hvis bygningen har en energiramme med tillæg, jf. § 260, stk. 3, indgår den del af energibehovet, som medfører tillæg, ikke i beregningen ifølge stk. 1-4.
 
-*Stk. 8.* Hvis særlige forhold ved bygningen, som følge af dens placering, funktion, eller tilsvarende forhold, nødvendiggør et materialeforbrug, som medfører en øget klimapåvirkning, indgår den øgede klimapåvirkning ikke i beregningen ifølge stk. 1-4. Forskellen beregnes som anvist i [bilag 2, tabel 9](../../../../bilag/b2/bilag_2/tabel_9 "Tabel_9"){rel="noopener" target="_blank"}.
+*Stk. 8.* Hvis særlige forhold ved bygningen, som følge af dens placering, funktion, eller tilsvarende forhold, nødvendiggør et materialeforbrug, som medfører en øget klimapåvirkning, indgår den øgede klimapåvirkning ikke i beregningen ifølge stk. 1-4. Forskellen beregnes som anvist i [bilag 2, tabel 9](../../../../bilag/b2/bilag_2/tabel_9/ "Tabel_9"){rel="noopener" target="_blank"}.
 
 *Stk. 9.* Byggerier med følgende BBR-koder, jf. bekendtgørelse om ajourføring af Bygnings- og Boligregisteret (BBR) er undtaget § 298:
 

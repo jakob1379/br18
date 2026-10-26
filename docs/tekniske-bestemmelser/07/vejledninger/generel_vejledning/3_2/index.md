@@ -2,13 +2,15 @@
 
 ## Se alle vejledninger om Byggepladsen og udførelsen af Byggearbejder (§ 161 - § 165)
 
-- [Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder](./)
-- [Vejledning om brandværnsforanstaltninger for skurbyer og lignende på byggepladser](../../brandvarnforanstaltninger)
-- [Bygningsreglementets vejledning om brandsikkerhed under byggearbejder i særligt vigtige historiske bygninger](../../vejledning-om-brandsikkerhed-under-byggearbejder-i-saerligt-vigtige-historiske-bygninger)
+- [Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder](../)
+- [Vejledning om brandværnsforanstaltninger for skurbyer og lignende på byggepladser](../../brandvarnforanstaltninger/)
+- [Bygningsreglementets vejledning om brandsikkerhed under byggearbejder i særligt vigtige historiske bygninger](../../vejledning-om-brandsikkerhed-under-byggearbejder-i-saerligt-vigtige-historiske-bygninger/)
 
 ## Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder
 
-### Forord
+<span id="forord"></span>
+
+### Forord {#53aaae9d-a33f-44f1-868e-5c37b9a3decc}
 
 ### 1.0. Generelt {#ae17a0d2-4078-40c7-9064-6ab09cfc67b2}
 
@@ -56,7 +58,7 @@ For at hindre brandspredning fra brændbare byggematerialer bør brændbare mate
 
 Gasser under tryk og brandfarlige væsker skal opbevares forsvarligt. Placeringen af gasser under tryk og brandfarlige væsker bør være fastlagt på forhånd og indgå som en del af byggepladsens indretning.  Som udgangspunkt skal gasser under tryk og brandfarlige væsker opbevares således, at uvedkommende ikke har uhindret adgang til disse (aflåst). Oplag af brandfarlige væsker og oplag af gasser under tryk i både beholdere og tanke skal endvidere ske i henhold til beredskabsstyrelsens Tekniske forskrifter.
 
-Ved brandfarlige og brændbare oplag skal der skiltes med "brug af åben ild og rygning forbudt".
+Ved brandfarlige og brændbare oplag skal der skiltes med ”brug af åben ild og rygning forbudt”.
 
 Oplag af brændbart affald kan udgøre en uhensigtsmæssig stor brandbelastning, og medføre forøget risiko for antændelse og spredning af brand. Følgende forhold bør derfor efterleves for, at minimere risikoen for brande i affaldsoplag:
 
@@ -72,23 +74,19 @@ Oplag af brændbart affald kan udgøre en uhensigtsmæssig stor brandbelastning,
 
 \- Beholdere til gasser under tryk, som har været anvendt, skal opbevares i overensstemmelse med Beredskabsstyrelsens tekniske forskrifter for gasser.
 
-[![](../../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
-
-####
+[![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Bekendtgørelse nr. 1639 af 06/12/2016 om brandfarlige og brandbare væsker (inklusiv tekniske forskrifter)
 
-####
+<span id="_1"></span><span id="_2"></span>
 
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/Forms/R0710.aspx?id=185816){target="_blank"}
 
-[![](../../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
-
-####
+[![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Bekendtgørelse nr. 1444 af 15/12/2010 (med senere ændringer) om tekniske forskrifter for gasser
 
-####
+<span id="_3"></span><span id="_4"></span><span id="_5"></span><span id="_6"></span>
 
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/forms/R0710.aspx?id=134984){target="_blank"}
 
@@ -122,13 +120,9 @@ Der bør foretages en vurdering, som kan sikre, at der kan foretages en forsvarl
 
 Der henvises også her til bekendtgørelse nr. 559 af 17. juni 2004 (med senere ændringer) om arbejdets udførelse.
 
-[![](../../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
-
-####
+[![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Bekendtgørelse nr. 1839 af 14/12/2023 om arbejdets udførelse
-
-####
 
 #### Gå til bekendtgørelsen [](https://www.retsinformation.dk/eli/lta/2023/1839){target="_blank"}
 
@@ -161,4 +155,3 @@ Bekendtgørelse nr. 1839 af 14/12/2023 om arbejdets udførelse
 ### 4.5 Vejoverkørsler {#2f03a7c3-82a4-4cb1-8ace-f925776838cb}
 
 ### 5.0 Hensyn til klimatiske forhold {#21b7bb99-b8b3-43c2-87ca-4d251b1b1419}
-

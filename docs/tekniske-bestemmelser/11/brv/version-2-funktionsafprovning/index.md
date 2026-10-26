@@ -2,15 +2,15 @@
 
 ## Se alle vejledninger om Energiforbrug og klimapåvirkning (§ 250 - § 298)
 
-- [Spørgsmål og svar om energiforbrug](../qa)
-- [Spørgsmål og svar om bygningers klimapåvirkning](../spoergsmaal-og-svar-om-bygningers-klimapaavirkning)
-- [Bygningsreglementets vejledning om energiforbrug](../energiforbrug-2)
-- [Bygningsreglementets vejledning om efterisolering](../ofte-rentable-konstruktioner)
+- [Spørgsmål og svar om energiforbrug](../qa/)
+- [Spørgsmål og svar om bygningers klimapåvirkning](../spoergsmaal-og-svar-om-bygningers-klimapaavirkning/)
+- [Bygningsreglementets vejledning om energiforbrug](../energiforbrug-2/)
+- [Bygningsreglementets vejledning om efterisolering](../ofte-rentable-konstruktioner/)
 - [Vejledning om funktionsafprøvning](./)
-- [Vejledning om håndtering af forskelligt energibehov i energirammen](../haandtering-af-forskelligt-energibehov)
-- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../bygningers-klimapaavirkning-1-juli-2025)
-- [Vejledning om energiberegning af hospitaler](../energiberegning-af-hospitaler)
-- [Eksempelsamling for energi](../eksempelsamling)
+- [Vejledning om håndtering af forskelligt energibehov i energirammen](../haandtering-af-forskelligt-energibehov/)
+- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../bygningers-klimapaavirkning-1-juli-2025/)
+- [Vejledning om energiberegning af hospitaler](../energiberegning-af-hospitaler/)
+- [Eksempelsamling for energi](../eksempelsamling/)
 
 ## Vejledning om funktionsafprøvning
 
@@ -132,7 +132,7 @@ Relevante standarder i forbindelse med funktionsafprøvning af ventilationssyste
 
 > • DS 469, *Varme- og køleanlæg i bygninger*
 
-[![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 #### DS 447
 
@@ -150,7 +150,7 @@ Standarden dækker ikke de brandtekniske krav til ventilationssystemer; der henv
 
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/standard/ds-4472013 "DS 447"){target="_blank"}
 
-[![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](#)
 
 #### DS/EN 12599
 
@@ -162,7 +162,7 @@ Denne europæiske standard angiver check, prøvningsmetoder og måleinstrumenter
 
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/s%c3%b8gning/91-140-30-ventilationssystemer-og-klimaanl%c3%a6g/ds-en-125992013 "DS/EN 12599"){target="_blank"}
 
-[![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](#)
 
 #### DS/EN 14134
 
@@ -174,7 +174,7 @@ Denne europæiske standard specificerer kontrol og prøvningsmetoder til eftervi
 
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/standard/M315407/ds-en-14134-2019 "DS/EN 14134"){target="_blank"}
 
-[![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 #### DS 469
 
@@ -248,10 +248,18 @@ Der måles for de evt. forskellige referencetilstande og på relevante steder i 
 
 Tabel 1. Normalt tilladelig måleusikkerhed i forbindelse med måling af de luftstrømme der skal leveres af ventilationsanlægget jf. DS 447 stk. 9.3.
 
-|                             |                                 |
-|-----------------------------|---------------------------------|
-| Samlet luftstrøm til rummet | Hovedluftstrøm fra/til aggregat |
-|  ± 10 %                     |  ± 10%                          |
+<table>
+<tbody>
+<tr>
+<td colspan="2">Samlet luftstrøm til rummet</td>
+<td>Hovedluftstrøm fra/til aggregat </td>
+</tr>
+<tr>
+<td colspan="2"> ± 10 %</td>
+<td><p> ± 10%</p></td>
+</tr>
+</tbody>
+</table>
 
 Emhætte efterprøves i boliger ved at måle, at der er en luftstrøm svarende til kravet. Der kan normalt accepteres en måleusikkerhed på op til 15 %. Målingen udføres med lukkede vinduer og døre.
 
@@ -329,10 +337,7 @@ Ved afprøvning af behovsstyringer, der styres efter CO2- og fugtniveau, er det 
 
 Kontrol af at styringsautomatik og følere til åbning og lukning af ventilationsåbninger fungerer efter hensigten og som projekteret.
 
-
-
 *Acceptkriterium*
-
 
 Testens resultat accepteres, hvis det konstateres, at:
 
@@ -345,7 +350,6 @@ Testens resultat accepteres, hvis det konstateres, at:
 >
 
 *Dokumentation*
-
 
 Der udarbejdes en funktionsafprøvningsrapport, der beskriver:
 
@@ -411,17 +415,17 @@ Følgende målepunkter kan indgå ved eftervisning af et ventilationsanlægs SEL
 
 *Tabel 2. Luftskifteniveau (volumenstrøm) og krav ved måling af et ventilationsanlægs SEL-værdi.*
 
-<table style="width:98%;">
+<table>
 <colgroup>
-<col style="width: 40%" />
-<col style="width: 22%" />
-<col style="width: 17%" />
-<col style="width: 17%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="2"></td>
-<td rowspan="2">Målingen foretages ved</td>
+<td rowspan="2"> </td>
+<td rowspan="2">Målingen foretages ved </td>
 <td colspan="2"> Krav til<br />
 SEL-værdi [J/m<sup>3</sup>]</td>
 </tr>
@@ -572,7 +576,7 @@ Relevante standarder i forbindelse med funktionsafprøvning af varme- og kølean
 
 >
 
-[![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 #### DS 469
 
@@ -584,7 +588,7 @@ Denne standard opstiller krav til varme- og køleanlæg. Kravene tilsigter, at d
 
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/s%c3%b8gning/91-140-10-centralvarmeanl%c3%a6g/ds-4692013 "DS 469"){target="_blank"}
 
-[![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 #### DS 447
 
@@ -610,7 +614,7 @@ For køleanlæg omfatter det ligeledes en køleteknisk indregulering.
 
 *Definition af varme- og køleanlæggets indregulering*
 
-Ved 'indregulering' forstås, at vand- eller luftstrømme fordeles, så de enkelte forbrugssteder tilføres de beregnede og projekterede mængder og tilsvarende beregnede temperatursæt.
+Ved ’indregulering’ forstås, at vand- eller luftstrømme fordeles, så de enkelte forbrugssteder tilføres de beregnede og projekterede mængder og tilsvarende beregnede temperatursæt.
 
 *Formål med funktionsafprøvning af indregulering*   Afprøvningen skal eftervise, at anlægget i praksis mindst yder svarende til de forudsætninger, der dokumenterer bygningens overholdelse af bygningsreglementets krav til energiforbrug og termisk indeklima, jf. kapitel 11 og 19, Energiforbrug samt Termisk indeklima og installationer til varme- og køleanlæg. Det skal derfor eftervises, at anlægget er indreguleret efter forudsætningerne. I mindre og simple anlæg kan eftervisningen foretages i forbindelse med indreguleringen.
 
@@ -628,7 +632,7 @@ For at kunne udføre funktionsafprøvning af indregulering af varme- og køleanl
 
   *Målepunkter*
 
-Hvis fremløbstemperaturstyringen sker ved vejrkompensering, måles udetemperaturen ved brug af eksternt måleudstyr samme sted som anlæggets udetemperaturføler er placeret. Samtidigt kontrolleres det, om målepunktet er egnet til måling af udetemperatur. Det vil sige uden påvirkning af direkte solindfald.  
+Hvis fremløbstemperaturstyringen sker ved vejrkompensering, måles udetemperaturen ved brug af eksternt måleudstyr samme sted som anlæggets udetemperaturføler er placeret. Samtidigt kontrolleres det, om målepunktet er egnet til måling af udetemperatur. Det vil sige uden påvirkning af direkte solindfald.
 
 *Zoner med radiatorer*
 
@@ -668,7 +672,7 @@ Styring af varme- og køleanlæg omfatter tidsstyring, temperaturstyring og lign
 
 *Definition af varme- og køleanlæggets styring*
 
-Ved 'styring' af anlægget forstås en behovsstyring, der kan tilpasse ydelsen i én eller flere zoner efter det aktuelle behov.
+Ved ’styring’ af anlægget forstås en behovsstyring, der kan tilpasse ydelsen i én eller flere zoner efter det aktuelle behov.
 
 *Formål med funktionsafprøvning af styring*
 
@@ -755,10 +759,10 @@ Samt at dagslysstyring, bevægelsesmeldere og zoneopdeling fungerer efter hensig
 Relevante standarder og anvisninger i forbindelse med funktionsafprøvning af belysningsanlæg omfatter:
 
 > • DS/EN 12464-1, *Lys og belysning* - *Belysning ved arbejdspladser – Del 1: Indendørs arbejdspladser* • DS/EN 12665, *Lys og belysning – Grundlæggende begreber og kriterier til beskrivelse af krav til belysning*
->
-> • SBi-anvisning 220, *Lysstyring* • At-vejledning A.1.5-1, *Vejledning om kunstig belysning på faste arbejdssteder)* 
 
-[![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
+> • SBi-anvisning 220, *Lysstyring* • At-vejledning A.1.5-1, *Vejledning om kunstig belysning på faste arbejdssteder)*
+
+[![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](#)
 
 #### DS/EN 12464-1
 
@@ -770,7 +774,7 @@ Denne europæiske standard specificerer krav til belysning for mennesker ved ind
 
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/standard/ds-en-12464-12011 "DS/EN 12464-1"){target="_blank"}
 
-[![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](#)
 
 #### DS/EN 12665
 
@@ -782,7 +786,7 @@ Denne standard definerer de grundlæggende betegnelser og definitioner til brug 
 
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/s%c3%b8gning/01-040-91-byggematerialer-og-byggeri-ordliste/ds-en-126652011 "DS/EN 12665"){target="_blank"}
 
-[![](../../../../assets/img/linkbox/sbi_anv_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/sbi_anv_linkbox.svg)](#)
 
 #### SBi-anvisning 220
 
@@ -794,7 +798,7 @@ Denne anvisning vejleder i valg af systemløsninger til automatisk lysstyring i 
 
 #### [Find anvisningen her](https://sbi.dk/anvisninger/Pages/220-Lysstyring-1_1.aspx "SBi-anvisning 220"){target="_blank"}
 
-[![](../../../../assets/img/linkbox/at_vejl_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/at_vejl_linkbox.svg)](#)
 
 #### At-vejledning A.1.5-1
 
@@ -932,7 +936,6 @@ Der udføres en manuel afprøvning af om zoneopdelingen for belysningsanlægget 
 >
 > • Ved maksimal dæmpning opfyldes kravene til belysningsstyrke
 
-
 *Acceptkriterium*
 
 Funktionsafprøvningens resultat for lysstyringen kan accepteres, hvis det konstateres, at den anvendte lysstyring reagerer i fuld overensstemmelse med dokumentationen anvendt til byggeandragende. Afvigelser i forhold til byggeandragende, som ikke medfører et øget elforbrug til belysningsanlægget, kan dog accepteres så længe minimumsværdier ifølge EN12464 er overholdt.   *Dokumentation*
@@ -964,26 +967,28 @@ Bestemmelsen gælder kun for elevatorer med en mærkelast af elevatorstolen på 
 Relevante standarder i forbindelse med funktionsafprøvning af elevatorer omfatter:
 
 > • DS/EN ISO 25745-1, *Energieffektivitet for elevatorer, rulletrapper og rullefor-tov – Del 1: Energimåling og verifikation.*
+
 >
+
 > • DS/EN ISO 25745-2, *Elevatorer, rulletrapper og rullefortoves energieffektivitet - Del 2: Beregning af energi for og klassifikation af elevatorer*
 
-[![](../../../../assets/img/linkbox/ds_en_iso_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/ds_en_iso_linkbox.svg)](#)
 
 #### DS/EN ISO 25745-1
 
 Energieffektivitet for elevatorer, rulletrapper og rullefortov - Del 1: Energimåling og verifikation
 
-####
+<span id="_1"></span>
 
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/s%c3%b8gning/91-140-90-elevatorer-rullende-trapper/ds-en-iso-25745-12012 "DS/EN ISO 25745-1"){target="_blank"}
 
-[![](../../../../assets/img/linkbox/ds_en_iso_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/ds_en_iso_linkbox.svg)](#)
 
 #### DS/EN ISO 25745-2
 
 Elevatorer, rulletrapper og rullefortoves energieffektivitet - Del 2: Beregning af energi for og klassifikation af elevatorer
 
-####
+<span id="_2"></span>
 
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/s%c3%b8gning/91-140-90-elevatorer-rullende-trapper/ds-en-iso-25745-22015 "DS/EN ISO 25745-2"){target="_blank"}
 
@@ -1014,6 +1019,7 @@ Elevatoren skal være fuldt færdiginstalleret og opfylde alle sikkerhedsmæssig
 El-effekt til elevatoren, fx målt via en el-bimåler.   *Acceptkriterium*
 
 Det målte energiforbrug for referencekørslen skal være mindre end grænseværdien for energiklasse B eller alternativt den energiklasse, der er antaget ved brug af kompenserende energibesparende tiltag. Grænseværdien for elevatorers energiklasser udregnes efter DS/EN ISO 25745-2.
+
 *Dokumentation*
 
 Der udarbejdes en funktionsafprøvningsrapport, der beskriver:
@@ -1036,7 +1042,7 @@ Der udarbejdes en funktionsafprøvningsrapport, der beskriver:
 
 Der skal gennemføres en funktionsafprøvning af energiforsyningsanlæg før aflevering. Funktionsafprøvningen skal eftervise, at anlægget har den forudsatte energimæssige effektivitet.
 
-Ved 'forudsat energimæssig effektivitet' forstås, at energiforsyningsanlægget mindst har den energimæssige effektivitet, som er blevet forudsat ved de beregnede og projekterede mængder og tilsvarende beregnede temperatursæt i driftssituationen. Ved udskiftning af eksisterende energiforsyningsanlæg anvendes forudsætninger og data for den eksisterende bygning.
+Ved ’forudsat energimæssig effektivitet’ forstås, at energiforsyningsanlægget mindst har den energimæssige effektivitet, som er blevet forudsat ved de beregnede og projekterede mængder og tilsvarende beregnede temperatursæt i driftssituationen. Ved udskiftning af eksisterende energiforsyningsanlæg anvendes forudsætninger og data for den eksisterende bygning.
 
 Kravet gælder for alle energiforsyningsanlæg i tilknytning til bygninger. Energiforsyningsanlæg skal i denne sammenhæng forstås som den eller de enheder der genererer opvarmning eller køling i bygningen, men ikke selve fordelingssystemet som leverer varme eller køl til de enkelte steder med behov. Energiforsyningsanlæg koblet sammen med fordelingssystemer kaldes varme- og køleanlæg. Funktionsafprøvning af indregulering og styring i dette samlede system omtales nærmere i afsnittet om varme- og køleanlæg.
 
@@ -1086,7 +1092,7 @@ Energiforsyningsanlæg der leveres som færdige units og skal overholde Ecodesig
 
 Der foretages dog en vurdering af om energiforsyningsanlæggets energimæssige effektivitet er tilstrækkelig, ved at der foretages kontrol af det varme- eller kølefordelingssystem som er tilsluttet til energiforsyningsanlægget, hvis dette er aktuelt. Dette er med til at verificere, at energiforsyningsanlægget fungerer korrekt i det samlede varme- og køleanlæg, inkl. dets komponenter, herunder styring- og reguleringskomponenter.
 
-*Forudsætninger for udførelse af funktionsafprøvning* 
+*Forudsætninger for udførelse af funktionsafprøvning*
 
 For at kunne foretage en vurdering af om energiforsyningsanlægget har den forudsatte energimæssige effektivitet, skal følgende normalt være opfyldt:
 
@@ -1127,7 +1133,8 @@ For køleanlæg kontrolleres det at nedenstående punkter er opfyldt:
 • cirkulationspumper og pumpestyringer (kølevandskredsen) er udført som foreskrevet. Der bør være foreskrevet tidsstyring og omdrejningstalsregulerbare cirkulationspumper.
 
 *Acceptkriterium*
-Afprøvningens resultat med hensyn til den energimæssige effektivitet kan accepteres, hvis energiforsyningsanlægget overholder Ecodesignkravene og punkterne under afsnittet 'Kontrolpunkter' er overholdt.
+
+Afprøvningens resultat med hensyn til den energimæssige effektivitet kan accepteres, hvis energiforsyningsanlægget overholder Ecodesignkravene og punkterne under afsnittet ’Kontrolpunkter’ er overholdt.
 
 *Dokumentation*
 
@@ -1153,7 +1160,7 @@ Relevante standarder i forbindelse med funktionsafprøvning af fjernvarmeveksler
 
 • DS/EN 1148, Varmevekslere. Vand til vand varmevekslere til fjernvarme. Prøvningsprocedurer til fastsættelse af ydeevnedata
 
-  [![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+  [![](../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 #### DS 469
 
@@ -1163,7 +1170,7 @@ DS 469, Varme- og køleanlæg i bygninger
 
 #### Standarden findes på dansk i Dansk Standards [](https://webshop.ds.dk/standard/M253996/ds-469-2013 "DS 469"){target="_blank"}
 
-[![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](#)
 
 #### DS/EN 1148
 
@@ -1243,15 +1250,13 @@ For olie- og gasfyrede centralvarmekedler med nominel ydelse på mere end 400 kW
 
 Røggastabet beregnes som:
 
-Røggastab = (66/(21-O~2~) +
-
-1) · (T~røg~ – T~friskluft~)
+Røggastab = (66/(21-O~2~) + 1) · (T~røg~ – T~friskluft~)
 
 hvor:
 
 O~2~             Iltprocenten \[%\]
 
-T~røg~           Røggastemperaturen \[°C\]
+T~røg~             Røggastemperaturen \[°C\]
 
 T~luft~           Frisklufttemperaturen \[°C\]
 
@@ -1307,7 +1312,7 @@ Der skal gennemføres en funktionsafprøvning af solvarmeanlægget før ibrugtag
 
 Relevante standarder og anvisninger i forbindelse med funktionsafprøvning af solvarmeanlæg er:
 
-  [![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+  [![](../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 #### DS 469
 
@@ -1317,7 +1322,7 @@ Varme- og køleanlæg i bygninger
 
 #### Standarden findes på dansk i Dansk Standards [webshop.ds.dk](https://webshop.ds.dk/standard/M253996/ds-469-2013 "DS 469"){target="_blank"}
 
-[![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 #### DS 452
 
@@ -1383,7 +1388,7 @@ Der skal gennemføres en funktionsafprøvning af solcelleanlægget før ibrugtag
 
 Relevante standarder og anvisninger i forbindelse med funktionsafprøvning af solcelleanlæg er:
 
-[![](../../../../assets/img/linkbox/ds_en_tr_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/ds_en_tr_linkbox.svg)](#)
 
 #### DS/IEC TS 61724-3
 
@@ -1435,7 +1440,7 @@ Der skal gennemføres en funktionsafprøvning af vindmøllen (eller vindmøllean
 
 *Relevante standarder og anvisninger:*
 
-  [![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
+  [![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](#)
 
 #### DS/EN 61400-12-1
 
@@ -1491,7 +1496,7 @@ Funktionsafprøvningen skal dokumentere, at bygningsautomatikken er korrekt inst
 
 Bygningsreglementets krav til funktionsafprøvning af hovedbygningsautomatik er gengivet her:
 
-**§ 296 **Der skal gennemføres en funktionsafprøvning af bygningsautomatik inden ibrugtagning. Funktionsafprøvningen skal påvise, at bygningsautomatikken er korrekt installeret og reguleret, virker efter hensigten og giver bygningen den forudsatte energimæssige effektivitet.
+**§ 296** Der skal gennemføres en funktionsafprøvning af bygningsautomatik inden ibrugtagning. Funktionsafprøvningen skal påvise, at bygningsautomatikken er korrekt installeret og reguleret, virker efter hensigten og giver bygningen den forudsatte energimæssige effektivitet.
 
 ### 8.1 Definition {#2d39d392-81a1-497e-a0b4-2487d2ed9159}
 
@@ -1519,7 +1524,7 @@ Inden funktionsafprøvning udføres skal følgende være opfyldt:
 
 ### 8.4 Målepunkter {#552b8f12-921e-4209-9548-758617227e55}
 
-*Sensorer* 
+*Sensorer*
 
 Med kalibreret eksternt måleudstyr skal anlæggets sensorer (fx temperatur-, CO2, fugt, kanaltryk, lys) afprøves om de måler korrekt. Anlæg der anvender bevægelsessensorer (PIR) skal ligeledes afprøves med hensyn til at reagere som forudsat inden for de zoner de betjener.
 

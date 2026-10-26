@@ -2,13 +2,15 @@
 
 ## Se alle vejledninger om Byggepladsen og udførelsen af Byggearbejder (§ 161 - § 165)
 
-- [Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder](./)
-- [Vejledning om brandværnsforanstaltninger for skurbyer og lignende på byggepladser](../../brandvarnforanstaltninger)
-- [Bygningsreglementets vejledning om brandsikkerhed under byggearbejder i særligt vigtige historiske bygninger](../../vejledning-om-brandsikkerhed-under-byggearbejder-i-saerligt-vigtige-historiske-bygninger)
+- [Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder](../)
+- [Vejledning om brandværnsforanstaltninger for skurbyer og lignende på byggepladser](../../brandvarnforanstaltninger/)
+- [Bygningsreglementets vejledning om brandsikkerhed under byggearbejder i særligt vigtige historiske bygninger](../../vejledning-om-brandsikkerhed-under-byggearbejder-i-saerligt-vigtige-historiske-bygninger/)
 
 ## Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder
 
-### Forord
+<span id="forord"></span>
+
+### Forord {#53aaae9d-a33f-44f1-868e-5c37b9a3decc}
 
 ### 1.0. Generelt {#ae17a0d2-4078-40c7-9064-6ab09cfc67b2}
 
@@ -54,21 +56,27 @@ Det er miljøbeskyttelsesloven, affaldsbekendtgørelsen og restproduktbekendtgø
 
 Bemærk, at der er særlige regler og foranstaltninger i forbindelse med håndtering af farligt byggeaffald, som f.eks. asbest, epoxy, isocyanatprodukter samt PCB.
 
-[![](../../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
-#### Lov nr. 1093 af 11/10/2024 (med senere ændringer) om miljøbeskyttelse
+Lov nr. 1093 af 11/10/2024 (med senere ændringer) om miljøbeskyttelse
 
-#### [Gå til loven](https://www.retsinformation.dk/eli/lta/2024/1093#id05d9b2d6-1e7a-4c81-b987-ed9b40e76af4){target="_blank"}
+<span id="lov-nr-1093-af-11102024-med-senere-ndringer-om-miljbeskyttelse"></span>
 
-[![](../../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
+#### Gå til loven [](https://www.retsinformation.dk/eli/lta/2024/1093#id05d9b2d6-1e7a-4c81-b987-ed9b40e76af4){target="_blank"}
 
-#### Bekendtgørelse nr. 1749 af 13/12/2024 (med senere ændringer) om affald
+[![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
-#### [Gå til bekendtgørelsen](https://www.retsinformation.dk/eli/lta/2024/1749){target="_blank"}
+Bekendtgørelse nr. 1749 af 13/12/2024 (med senere ændringer) om affald
 
-[![](../../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
+<span id="bekendtgrelse-nr-1749-af-13122024-med-senere-ndringer-om-affald"></span>
 
-#### Bekendtgørelse nr. 1672 af 15/12/2016 om anvendelse af restprodukter, jord og sorteret bygge- og anlægsaffald
+#### Gå til bekendtgørelsen [](https://www.retsinformation.dk/eli/lta/2024/1749){target="_blank"}
+
+[![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
+
+Bekendtgørelse nr. 1672 af 15/12/2016 om anvendelse af restprodukter, jord og sorteret bygge- og anlægsaffald
+
+<span id="bekendtgrelse-nr-1672-af-15122016-om-anvendelse-af-restprodukter-jord-og-sorteret-bygge-og-anlgsaffald"></span><span id="ga-til-bekendtgrelsen_1"></span>
 
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/forms/r0710.aspx?id=184757){target="_blank"}
 

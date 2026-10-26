@@ -2,8 +2,8 @@
 
 ## Se alle vejledninger om Afløb (§ 69 - § 81)
 
-- [Spørgsmål og svar om afløb](../../qa)
-- [Bygningsreglementets vejledning om afløb](..)
+- [Spørgsmål og svar om afløb](../../qa/)
+- [Bygningsreglementets vejledning om afløb](../)
 
 ## Bygningsreglementets vejledning om afløb
 
@@ -21,11 +21,11 @@ Dæksler og riste skal vælges ud fra de belastninger de påføres, og det skal 
 
 Der henvises i øvrigt til arbejdstilsynets regler for dæksler.
 
-Der henvises til [vejledning om installationer i eksisterende bygninger](../../../../../vejledninger/andre_vejledninger/vejledning/installationer-eksisterende-byggeri "Installationer eksisterende byggeri")
+Der henvises til [vejledning om installationer i eksisterende bygninger](../../../../../vejledninger/andre_vejledninger/vejledning/installationer-eksisterende-byggeri/ "Installationer eksisterende byggeri")
 
 Der henvises til [rørcenteranvisning 011 Vacuumsystemer i bygninger](https://www.teknologisk.dk/_/media/53552_R%F8rcenter-anvisning%20011.%20Vacuumsystemer%20i%20bygninger..pdf){target="_blank"}.
 
-[![](../../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 #### DS 432
 
@@ -43,14 +43,6 @@ Normen gælder såvel for nye installationer som for ændringer og tilføjelser 
 
 ### 1.2. Spildevand {#8f004a60-85da-4303-83a5-e99e8d70b81f}
 
-Der henvises til [rørcenter-anvisning 021 Kælderoversvømmelser – Sikring mod opstigende kloakvand](https://www.teknologisk.dk/_/media/54202_R%F8rcenter-anvisning%20021.%20K%E6lderoversv%F8mmelser.%20Sikring%20mod%20opstigende%20kloakvand.pdf){target="_blank"}
-
 ### 1.3. Regnvand {#376f2b0c-79a1-4f82-868a-5591341bd6e6}
 
-Regnvandsinstallationer skal dimensioneres ved den dimensionsgivende regnintensitet og med den overbelastningshyppighed, der fastsættes af kommunalbestyrelsen.
-
 ### 1.4. Drift og vedligehold af afløbsinstallationer {#d692ac46-2b6f-4b3b-a739-94e9584f65f5}
-
-Hvis der i forbindelse med bygningens drift skal tilføres stoffer til afløbssystemet, der kan skade eller forringe funktionen af afløbssystemet, renseanlæg eller recipienter skal stofferne tilbageholdes i udskillere eller neutraliseres. Dette kan fx være olie-, benzin- eller fedtholdige væsker.
-
-Ved benyttelsesændringer af eksisterende bygninger skal der rettes særlig opmærksomhed på etablering af de nødvendige udskillere, fx ved anvendelsesændring fra butik til restaurant.

@@ -64,4 +64,3 @@ Der skal gennemføres en funktionsafprøvning af varme- og køleanlæg før ibru
 Drift og vedligehold af installationer til varme- og køleanlæg skal ske, så de til enhver tid overholder bestemmelserne i §§ 385- 390.
 
 *Stk. 2.* Der skal foreligge en drifts- og vedligeholdelsesmanual inden ibrugtagning. Manualen skal indeholde tegninger med oplysning om placering af installationer, der skal vedligeholdes, samt hvordan og hvor ofte vedligeholdelsen skal ske.
-

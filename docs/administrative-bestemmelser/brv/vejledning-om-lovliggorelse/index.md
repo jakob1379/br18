@@ -2,35 +2,37 @@
 
 ## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
-- [Spørgsmål og svar](../spoergsmaal-og-svar)
-- [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../spoergsmaal-og-svar-ve-anlaeg)
-- [Vejledning om byggesagsbehandling efter BR18](../vejledning-om-byggesagsbehandling-efter-br18)
-- [Vejledning om ombygninger og brug af certificerede rådgivere i relation til ændring af BR18 d. 10. marts 2020](../vejledning-om-ombygning-og-brug-af-certificerede-raadgivere)
-- [Eksempelsamling om ombygninger og andre forandringer - For etageboligbyggeri samt enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse](../eksempelsamling-om-ombygninger-og-andre-forandringer)
-- [Vejledning i kommunernes stikprøvekontrol i tilgængelighed](../stikprovekontrol-tilgaengelighed)
-- [Vejledning om brug af brand og konstruktionsklasser](../vejledning-om-brug-af-brand-og-konstruktionsklasser)
-- [Vejledning om opførelse af sekundær bebyggelse med et samlet areal på højst 50 m2](../sekundaer-bebyggelse)
-- [Vejledning til kommunerne om krav til parkering i forbindelse med byggeri](../vejledning-om-parkering)
-- [Vejledning om skorstene og kravet om byggetilladelse](../vejledning-om-skorstene-og-kravet-om-byggetilladelse)
-- [Vejledning om transportable telte og konstruktioner](../transportable-telte-og-konstruktioner)
+- [Spørgsmål og svar](../spoergsmaal-og-svar/)
+- [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../spoergsmaal-og-svar-ve-anlaeg/)
+- [Vejledning om byggesagsbehandling efter BR18](../vejledning-om-byggesagsbehandling-efter-br18/)
+- [Vejledning om ombygninger og brug af certificerede rådgivere i relation til ændring af BR18 d. 10. marts 2020](../vejledning-om-ombygning-og-brug-af-certificerede-raadgivere/)
+- [Eksempelsamling om ombygninger og andre forandringer - For etageboligbyggeri samt enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse](../eksempelsamling-om-ombygninger-og-andre-forandringer/)
+- [Vejledning i kommunernes stikprøvekontrol i tilgængelighed](../stikprovekontrol-tilgaengelighed/)
+- [Vejledning om brug af brand og konstruktionsklasser](../vejledning-om-brug-af-brand-og-konstruktionsklasser/)
+- [Vejledning om opførelse af sekundær bebyggelse med et samlet areal på højst 50 m2](../sekundaer-bebyggelse/)
+- [Vejledning til kommunerne om krav til parkering i forbindelse med byggeri](../vejledning-om-parkering/)
+- [Vejledning om skorstene og kravet om byggetilladelse](../vejledning-om-skorstene-og-kravet-om-byggetilladelse/)
+- [Vejledning om transportable telte og konstruktioner](../transportable-telte-og-konstruktioner/)
 - [Vejledning om lovliggørelse af ulovligt byggeri](./)
-- [Vejledning om byggeri over skel](../vejledning-om-byggeri_over_skel)
-- [Vejledning om gebyr for kommunernes sagsbehandling på byggeområdet](../gebyr)
-- [Vejledning om udnyttelige tagetager](../udnyttelige-tagetager)
-- [Dokumentation af bygningsreglementets tekniske bestemmelser i forbindelse med færdigmelding af byggeriet](../dokumentationsvejledning)
-- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../temasiden-brandogkonstruktioner-dk)
+- [Vejledning om byggeri over skel](../vejledning-om-byggeri_over_skel/)
+- [Vejledning om gebyr for kommunernes sagsbehandling på byggeområdet](../gebyr/)
+- [Vejledning om udnyttelige tagetager](../udnyttelige-tagetager/)
+- [Dokumentation af bygningsreglementets tekniske bestemmelser i forbindelse med færdigmelding af byggeriet](../dokumentationsvejledning/)
+- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../temasiden-brandogkonstruktioner-dk/)
 
 ## Vejledning om lovliggørelse af ulovligt byggeri
 
-### Lovliggørelse af ulovligt byggeri
+<span id="lovliggrelse-af-ulovligt-byggeri"></span>
+
+### Lovliggørelse af ulovligt byggeri {#5d450e8c-fb49-433f-8690-d8d28eb1788e}
 
 Byggeri, der er ulovligt udført, skal lovliggøres. Der sondres i bygningsreglementet mellem materielle og formelle regler. De materielle regler angiver de bebyggelsesregulerende og tekniske krav, byggeriet skal overholde. De formelle regler beskriver det administrative system, hvorunder sagen behandles, herunder om forholdet kræver en tilladelse.
 
-
-
 *Vejledningen er revideret af Trafik-, Bygge- og Boligstyrelsen den 31. januar 2019.*
 
-### Indholdet af vejledningen
+<span id="indholdet-af-vejledningen"></span>
+
+### Indholdet af vejledningen {#dc3a6d01-9b5c-496c-90c9-6220ba5a4d23}
 
 >
 
@@ -40,7 +42,9 @@ Byggeri, der er ulovligt udført, skal lovliggøres. Der sondres i bygningsregle
 
 • Hvilke regler, der er relevante, i forbindelse med kommunalbestyrelsens vurdering af, hvordan der skal ske lovliggørelse.
 
-### Hvornår er et byggeri ulovligt
+<span id="hvornar-er-et-byggeri-ulovligt"></span>
+
+### Hvornår er et byggeri ulovligt {#374e4894-de9d-4c01-ae8f-cf400192e823}
 
 Et byggeri kan efter byggeloven være ulovligt ved:
 
@@ -58,7 +62,9 @@ Et byggeri er formelt ulovligt, hvis det er opført uden, at der på forhånd er
 
 1\) Se afsnit om retlig og fysisk lovliggørelse efter de regler, der var gældende på henholdsvis opførelsestidspunktet og lovliggørelsestidspunktet senere i vejledningen.
 
-### Anvendelse af formelle bestemmelser i forbindelse med lovliggørelse af byggeri
+<span id="anvendelse-af-formelle-bestemmelser-i-forbindelse-med-lovliggrelse-af-byggeri"></span>
+
+### Anvendelse af formelle bestemmelser i forbindelse med lovliggørelse af byggeri {#d0450863-d860-4671-a144-4f6fff33c44e}
 
 De formelle bestemmelser i bygningsreglementet følger af kapitel 1 og beskriver det administrative system, hvorunder en byggesag behandles. Det følger heraf, om der er krav om byggetilladelse og evt. dispensation inden opførelse af et byggeri eller om det kan opføres uden byggetilladelse.
 
@@ -84,7 +90,9 @@ I de tilfælde, hvor forholdet ikke længere kræver en tilladelse, men kan udf�
 
 Det er vigtigt at understrege, at byggearbejder, der nu kan behandles efter lempede formelle bestemmelser, eller som er undtaget fra krav om byggesagsbehandling, ikke er undtaget fra overholdelse af de materielle krav.
 
-### Særligt om stikprøvekontrol efter BR18
+<span id="srligt-om-stikprvekontrol-efter-br18"></span>
+
+### Særligt om stikprøvekontrol efter BR18 {#433a388b-4ef7-4ba1-9dcb-0612c7d0975b}
 
 Hvis det ved stikprøvekontrollen efter BR18, § 46 konstateres, at der ikke er indsendt tilstrækkelig dokumentation for overholdelse af tekniske bestemmelser, vil ansøgeren efterfølgende skulle fremsende den manglende dokumentation.
 
@@ -94,7 +102,9 @@ Også ulovligt byggeri, der er opført før BR18 kan udtages til stikprøvekontr
 
 I byggesager, hvor der ved stikprøvekontrollen er konstateret et ulovligt forhold, er kommunalbestyrelsen i medfør af BR18, § 46 forpligtet til at gennemgå den indsendte dokumentation og påse, at byggeriet overholder de for byggeriet relevante krav i bygningsreglementet. Det betyder, at kommunalbestyrelsen som bygningsmyndighed skal føre en egentlig kontrol med, at det ulovlige forhold er lovliggjort inden sagen kan afsluttes.
 
-### Byggelovens bestemmelser
+<span id="byggelovens-bestemmelser"></span>
+
+### Byggelovens bestemmelser {#efade8f2-aeee-4316-9b12-1269bf63b28a}
 
 Byggelovens § 16, stk. 1, 1. pkt., bestemmer, at byggearbejder, der er omfattet af byggelovens § 2, ikke må påbegyndes uden byggetilladelse. Det betyder, at opførelsen af et byggeri, der kræver tilladelse, er ulovligt, såfremt der ikke er indhentet tilladelse inden, selve opførelsen finder sted.
 
@@ -106,7 +116,9 @@ Det er således på baggrund af de regler, der var gældende, da en bebyggelse b
 
 Alene i de tilfælde, hvor der efterfølgende er indført regler, der finder anvendelse på allerede bestående bebyggelse, vil det være relevant at inddrage nyere regler ved fastlæggelsen af, om der består et ulovligt forhold.
 
-### Kommunalbestyrelsen som bygningsmyndighed
+<span id="kommunalbestyrelsen-som-bygningsmyndighed"></span>
+
+### Kommunalbestyrelsen som bygningsmyndighed {#0bac2d7b-6f83-4a5e-bb70-bc10fada3df7}
 
 Kommunalbestyrelsen er bygningsmyndighed og påser i denne forbindelse, at byggeloven og de regler, der er udstedt i medfør heraf, overholdes. Dette fremgår af byggelovens § 16 C, stk. 1. Kommunalbestyrelsen påser også, at påbud efter byggeloven og regler fastsat i medfør heraf efterkommes, og at vilkår fastsat i tilladelser eller dispensationer, som er meddelt af kommunalbestyrelsen, overholdes. Dette fremgår af byggelovens § 16 C, stk. 2.
 
@@ -116,7 +128,9 @@ Hvornår et forhold er af ganske underordnet betydning beror på en konkret vurd
 
 Hvordan, kommunen indretter og varetager administrationen af byggelovgivningen og sine pligter som bygningsmyndighed, er ikke nærmere reguleret i byggelovgivningen. Det er derfor i vid udstrækning op til den enkelte kommune selv at beslutte, hvordan den inden for de almindelige forvaltningsretlige grænser vil varetage sin rolle som bygningsmyndighed.
 
-### Ejerens pligter
+<span id="ejerens-pligter"></span>
+
+### Ejerens pligter {#0bbb3b63-3292-413b-b1fa-6b12e2b2b7b2}
 
 Pligten til at lovliggøre et ulovligt forhold påhviler den til enhver tid værende ejer af en fast ejendom, jf. byggelovens § 17, stk. 1, 1. pkt.  Pligten til at lovliggøre et ulovligt forhold er dermed knyttet objektivt til ejendommen.
 
@@ -128,7 +142,9 @@ Hvis det ulovlige forhold består i ulovlig brug af ejendommen, påhviler pligte
 
 Bestemmelsen om, at pligten til at berigtige ulovlige forhold også kan påhvile brugeren, medfører ikke, at ejeren af ejendommen i disse situationer ikke også vil have pligt til at berigtige forholdet.
 
-### Lovliggørelsens art
+<span id="lovliggrelsens-art"></span>
+
+### Lovliggørelsens art {#77cb79a5-feaf-4e5a-bd75-e7dbc10f4302}
 
 Lovliggørelse af byggeri kan ske på følgende 3 måder:
 
@@ -140,7 +156,9 @@ Lovliggørelse af byggeri kan ske på følgende 3 måder:
 >
 > • eller ved en kombination af både retlig og fysisk lovliggørelse.
 
-### Retlig lovliggørelse
+<span id="retlig-lovliggrelse"></span>
+
+### Retlig lovliggørelse {#0a9d07d9-0e51-498e-9f86-9f4a5ab5be5f}
 
 Retlig lovliggørelse betyder, at det ulovlige forhold gøres lovligt gennem efterfølgende tilladelse eller dispensation til opretholdelse af tilstanden. Herefter vil tilstanden ikke længere være ulovlig.
 
@@ -148,31 +166,35 @@ Retlig lovliggørelse medfører således, at et byggeri lovliggøres rent formel
 
 Retlig lovliggørelse kan som udgangspunkt alene ske i de tilfælde, hvor det ulovlige forhold ville have været lovligt på opførelsestidspunktet, hvis der forud for opførelsen var ansøgt om tilladelse eller dispensation.
 
-Ud fra hensynet til proportionalitetsprincippet bør den retlige lovliggørelse af en bebyggelse altid vælges frem for den fysiske lovliggørelse, hvis dette er muligt. [](#89ada0c8-3144-4e2d-95c9-e36564461d52)
+Ud fra hensynet til proportionalitetsprincippet bør den retlige lovliggørelse af en bebyggelse altid vælges frem for den fysiske lovliggørelse, hvis dette er muligt.
 
 ### Fysisk lovliggørelse {#89ada0c8-3144-4e2d-95c9-e36564461d52}
 
 Ved fysisk lovliggørelse bringes den ulovlige tilstand derimod til ophør ved, at byggeriet rent fysisk bringes i overensstemmelse med lovgivningen. Dette kan ske enten ved ombygning eller nedrivning eller ved en kombination af disse.
 
-### Vurderingen – valget mellem retlig og fysisk lovliggørelse
+<span id="vurderingen-valget-mellem-retlig-og-fysisk-lovliggrelse"></span>
+
+### Vurderingen – valget mellem retlig og fysisk lovliggørelse {#a7370d8b-3549-4a24-90f2-571fea0345cf}
 
 Valget mellem retlig og fysisk lovliggørelse beror på afgørelsesmyndighedens konkrete, skønsmæssige afvejning af forskellige hensyn i hver enkelt sag. Denne vurdering er bundet af de forvaltningsretlige principper for skønsudøvelse.
 
 Ved vurderingen af, om der skal ske retlig eller fysisk lovliggørelse, skal kommunalbestyrelsen først og fremmest se på, om der ville være blevet meddelt byggetilladelse, hvis der på korrekt vis var ansøgt om byggetilladelse inden byggearbejdet blev udført.
 
-Hvis vurderingen er, at der ville være blevet meddelt byggetilladelse, skal der ske retlig lovliggørelse. Det betyder, at kommunalbestyrelsen efterfølgende meddeler tilladelse og/eller dispensation til bibeholdelse af forholdet. [](#bfb1838a-8a77-4560-a35f-75f3fd3290f4)
+Hvis vurderingen er, at der ville være blevet meddelt byggetilladelse, skal der ske retlig lovliggørelse. Det betyder, at kommunalbestyrelsen efterfølgende meddeler tilladelse og/eller dispensation til bibeholdelse af forholdet.
 
 ### Byggeri opført uden tilladelse {#bfb1838a-8a77-4560-a35f-75f3fd3290f4}
 
 Hvis en forudgående ansøgning om tilladelse eller dispensation efter reglerne på opførelsestidspunktet ikke ville være blevet imødekommet, er det udgangspunktet, at der skal ske fysisk lovliggørelse efter de regler, der er gældende på lovliggørelsestidspunktet.
 
-Forinden der træffes afgørelse om fysisk lovliggørelse, skal kommunalbestyrelsen foretage en vurdering af, om der kan meddeles dispensation til forholdet efter de regler, der er gældende på lovliggørelsestidspunktet. Det kan indgå i kommunalbestyrelsens vurdering, om der ville være meddelt tilladelse efter en dispensationspraksis, der var gældende på opførelsestidspunktet. [](#6abc4d89-97e1-4f26-97e5-6fde590579e4)
+Forinden der træffes afgørelse om fysisk lovliggørelse, skal kommunalbestyrelsen foretage en vurdering af, om der kan meddeles dispensation til forholdet efter de regler, der er gældende på lovliggørelsestidspunktet. Det kan indgå i kommunalbestyrelsens vurdering, om der ville være meddelt tilladelse efter en dispensationspraksis, der var gældende på opførelsestidspunktet.
 
 ### Byggeri der afviger fra det byggeri, der er givet tilladelse til {#6abc4d89-97e1-4f26-97e5-6fde590579e4}
 
 I den situation, hvor der er givet en byggetilladelse, men hvor der opføres byggeri, der afviger fra det byggeri, der er givet tilladelse til, og der ikke kan ske retlig lovliggørelse, skal fysisk lovliggørelse som udgangspunkt ske efter reglerne på opførelsestidspunktet. Såfremt dette ikke er muligt skal byggeriet fysisk bringes i overensstemmelse med de regler, der er gældende på lovliggørelsestidspunktet.
 
-### Hensyn og overvejelser
+<span id="hensyn-og-overvejelser"></span>
+
+### Hensyn og overvejelser {#322fb2e3-9fe0-4a40-885e-7ceae6722b25}
 
 Ved vurderingen af, om der kan ske retlig lovliggørelse, skal en række hensyn konkret vurderes og tages i betragtning i det omfang, de bliver påberåbt af ejendommens ejer eller i øvrigt er relevante for vurderingen af den konkrete sag. Hensynene indgår med forskellig vægt afhængig af den konkrete situation, og de vil ofte have en indbyrdes påvirkning:
 
@@ -204,11 +226,13 @@ Ved vurderingen af, om der kan ske retlig lovliggørelse, skal en række hensyn 
 
 Hvis der er flere mulige måder at lovliggøre på, er det normalt den, der har pligt til at foretage lovliggørelsen (ejeren af ejendommen), det tilkommer at vælge mellem disse måder.
 
-### Forholdet til anden lovgivning
+<span id="forholdet-til-anden-lovgivning"></span>
+
+### Forholdet til anden lovgivning {#d5fd9fdf-ce91-4988-a5bb-058378339b40}
 
 Det fremgår af BR18 § 35, stk. 2, at der ikke kan meddeles byggetilladelse, uden kommunen først har undersøgt, om byggeriet er i strid med anden lovgivning.
 
-Kommunen må være berettiget til at meddele afslag på retligt lovliggørende byggetilladelse alene med henvisning til, at der ikke er opnået tilladelse eller dispensation efter denne anden lovgivning. Hvis afslag på retlig lovliggørelse gives med denne begrundelse, kan kommunen være forpligtet til at udsætte sagen på behandling af spørgsmålet om retlig lovliggørelse efter denne anden lovgivning. [](#8e481eaa-32b8-45b7-97d5-47a22df171c8)
+Kommunen må være berettiget til at meddele afslag på retligt lovliggørende byggetilladelse alene med henvisning til, at der ikke er opnået tilladelse eller dispensation efter denne anden lovgivning. Hvis afslag på retlig lovliggørelse gives med denne begrundelse, kan kommunen være forpligtet til at udsætte sagen på behandling af spørgsmålet om retlig lovliggørelse efter denne anden lovgivning.
 
 ### Særligt om lovliggørelse i forbindelse med bygningers klimapåvirkning {#8e481eaa-32b8-45b7-97d5-47a22df171c8}
 
@@ -240,4 +264,6 @@ Eventuelle tiltag til lovliggørelse, herunder retlig lovliggørelse i form af e
 
 Kun politiet kan give bøde for overtrædelse.
 
-§ 564 anvendes for den skete overtrædelse, i modsætning til eksempelvis byggelovens § 30, litra c), som kan anvendes ved manglende efterlevelse af et påbud.
+§ 564 anvendes for den skete overtrædelse, i modsætning til eksempelvis byggelovens § 30, litra
+
+c), som kan anvendes ved manglende efterlevelse af et påbud.

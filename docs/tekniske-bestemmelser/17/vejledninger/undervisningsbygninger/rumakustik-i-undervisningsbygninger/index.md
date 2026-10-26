@@ -11,31 +11,31 @@
 
 ## - Vejledning til undervisningsbygninger
 
-[3.0](../undervisningsbygninger/)
+<span id="undervisningsbygninger"></span>
 
-### Undervisningsbygninger
+### 3.0 Undervisningsbygninger {#7c517431-1a58-4d50-be9f-b09c567bd5ba}
 
-[3.1](../definitioner-af-rumtyper-for-undervisningsbygninger/)
+<span id="definitioner-af-rumtyper-for-undervisningsbygninger"></span>
 
-### Definitioner af rumtyper for undervisningsbygninger
+### 3.1 Definitioner af rumtyper for undervisningsbygninger {#5036b98b-248e-48ea-8f22-d081436c63b7}
 
-[3.2](../lydisolation-for-undervisningsbygninger/)
+<span id="lydisolation-for-undervisningsbygninger"></span>
 
-### Lydisolation for undervisningsbygninger
+### 3.2 Lydisolation for undervisningsbygninger {#127bd002-d895-4fe3-b7c5-41d10afcf285}
 
-[3.3](../stoej-indendoers-fra-trafik-i-undervisningsbygninger/)
+<span id="stj-indendrs-fra-trafik-i-undervisningsbygninger"></span>
 
-### Støj indendørs fra trafik i undervisningsbygninger
+### 3.3 Støj indendørs fra trafik i undervisningsbygninger {#b08dc5bc-acf8-4756-80a5-0c3fa42b2575}
 
-[3.4](../stoej-fra-tekniske-installationer-i-undervisningsbygninger/)
+<span id="stj-fra-tekniske-installationer-i-undervisningsbygninger"></span>
 
-### Støj fra tekniske installationer i undervisningsbygninger
+### 3.4 Støj fra tekniske installationer i undervisningsbygninger {#2304ac12-0b4e-46e7-a2ff-fb4918293a99}
 
-[3.5](./)
+<span id="rumakustik-i-undervisningsbygninger"></span>
 
-### Rumakustik i undervisningsbygninger
+### 3.5 Rumakustik i undervisningsbygninger {#36e4855a-6bb4-4abf-9f19-e44479e8114f}
 
-Tabel 3.4 indeholder grænseværdier for efterklangstid og absorptionsareal i undervisnings­bygninger svarende til overholdelse af BR18's lydbestemmelser.
+Tabel 3.4 indeholder grænseværdier for efterklangstid og absorptionsareal i undervisnings­bygninger svarende til overholdelse af BR18’s lydbestemmelser.
 
 Lydbestemmelserne er gengivet fra SBi-anvisning 218 og den supplerende vejledning fra SBi-anvisning 218.
 
@@ -43,108 +43,109 @@ Referencer findes i [afsnit 1.5](../../generel_vejledning/referenceliste/ "Refe
 
 Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde bygningsreglementets funktionskrav, er anført separat i tabellerne (i kursiv).
 
-<table style="width:100%;">
+<table>
 <colgroup>
-<col style="width: 39%" />
-<col style="width: 30%" />
-<col style="width: 30%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
 </colgroup>
 <tbody>
 <tr>
 <td colspan="3"><strong>Undervisningsbygninger – Tabel 3.4 Rumakustik</strong></td>
 </tr>
 <tr>
-<td><strong>Efterklangstid     [4]</strong></td>
+<td><strong>Efterklangstid</strong>     <strong>[4]</strong> </td>
 <td><strong>T <sup>1), 3), a)</sup></strong></td>
-<td><strong>Frekvensområde</strong></td>
+<td><strong>Frekvensområde</strong> </td>
 </tr>
 <tr>
-<td>Klasserum <sup>b)</sup></td>
-<td>T ≤ 0,6 s</td>
-<td>125-4000Hz</td>
+<td>Klasserum <sup>b)</sup> </td>
+<td>T ≤ 0,6 s </td>
+<td>125-4000Hz </td>
 </tr>
 <tr>
-<td>Undervisningsrum til sløjd</td>
-<td>T ≤ 0,6 s</td>
+<td>Undervisningsrum til sløjd </td>
+<td>T ≤ 0,6 s </td>
 <td>125-4000Hz<br />
 </td>
 </tr>
 <tr>
-<td>Undervisningsrum til sang og musik mindre end 250 m<sup>3 </sup>(korsang og akustisk musik) <sup>4)</sup></td>
-<td>0,8 ≤ T ≤ 1,1 s</td>
+<td><p>Undervisningsrum til sang og musik mindre end 250 m<sup>3</sup> (korsang og akustisk musik) <sup>4)</sup></p></td>
+<td>0,8 ≤ T ≤ 1,1 s </td>
 <td>125-4000Hz<br />
 </td>
 </tr>
 <tr>
-<td>Undervisningsrum til sang og musik mindre end 250 m<sup>3 </sup>(elektrisk forstærket) <sup>4)</sup></td>
+<td><p>Undervisningsrum til sang og musik mindre end 250 m<sup>3</sup> (elektrisk forstærket) <sup>4)</sup></p></td>
 <td>T ≤ 0,6 s<br />
 </td>
 <td>125-4000Hz<br />
 </td>
 </tr>
 <tr>
-<td>Gymnastiksale mindre end 3500 m<sup>3</sup></td>
-<td>T ≤ 1,6 s</td>
+<td>Gymnastiksale mindre end 3500 m<sup>3</sup> </td>
+<td>T ≤ 1,6 s </td>
 <td>125-4000Hz<br />
 </td>
 </tr>
 <tr>
-<td>Gymnastiksale større end 3500 m<sup>3</sup></td>
-<td>T ≤ 1,8 s</td>
+<td>Gymnastiksale større end 3500 m<sup>3</sup> </td>
+<td>T ≤ 1,8 s </td>
 <td>125-4000Hz<br />
 </td>
 </tr>
 <tr>
-<td>Svømmehaller mindre end 1500 m<sup>3</sup></td>
-<td>T ≤ 2,0 s</td>
-<td>125-4000Hz</td>
+<td>Svømmehaller mindre end 1500 m<sup>3</sup> </td>
+<td>T ≤ 2,0 s </td>
+<td>125-4000Hz </td>
 </tr>
 <tr>
-<td>Svømmehaller større end 1500 m<sup>3</sup></td>
-<td>T ≤ 2,3 s</td>
-<td>125-4000Hz</td>
+<td>Svømmehaller større end 1500 m<sup>3</sup> </td>
+<td>T ≤ 2,3 s </td>
+<td>125-4000Hz </td>
 </tr>
 <tr>
-<td>Fællesrum samt fællesgange, der benyttes til gruppearbejde og lignende</td>
-<td>T ≤ 0,4 s</td>
-<td>125-4000Hz</td>
+<td>Fællesrum samt fællesgange, der benyttes til gruppearbejde og lignende </td>
+<td>T ≤ 0,4 s </td>
+<td>125-4000Hz </td>
 </tr>
 <tr>
-<td>Fællesgange, der ikke benyttes til gruppearbejde og lignende</td>
-<td>T ≤ 0,9 s</td>
-<td>500-2000 Hz</td>
+<td>Fællesgange, der ikke benyttes til gruppearbejde og lignende </td>
+<td>T ≤ 0,9 s </td>
+<td>500-2000 Hz </td>
 </tr>
 <tr>
-<td>Trapperum</td>
-<td>T ≤ 1,3 s</td>
+<td>Trapperum </td>
+<td>T ≤ 1,3 s </td>
 <td>500-2000 Hz<br />
 </td>
 </tr>
 <tr>
-<td><strong>Absorptionsareal     [4]</strong></td>
-<td><strong>A <sup>2), 3), a)</sup></strong></td>
-<td><strong>Frekvensområde</strong></td>
+<td><strong>Absorptionsareal</strong>     <strong>[4]</strong> </td>
+<td><strong>A <sup>2), 3), a)</sup></strong> </td>
+<td><strong>Frekvensområde</strong> </td>
 </tr>
 <tr>
-<td>Åbne undervisningsområder <sup>c)</sup></td>
-<td>A ≥ 1,3 × gulvareal</td>
+<td>Åbne undervisningsområder <sup>c)</sup> </td>
+<td>A ≥ 1,3 × gulvareal </td>
 <td> 125-4000Hz<br />
 </td>
 </tr>
 <tr>
-<td>Fællesrum med loftshøjde større end 4 m og rumvolumen større end 300 m<sup>3</sup></td>
-<td>A ≥ 1,2 × gulvareal</td>
+<td><p>Fællesrum med loftshøjde større end 4 m og rumvolumen større end 300 m<sup>3</sup></p></td>
+<td>A ≥ 1,2 × gulvareal </td>
 <td> 125-4000Hz<br />
 </td>
 </tr>
 <tr>
-<td colspan="3"><p><strong><em>Supplerende vejledning</em></strong><em>     </em><strong>[4]</strong></p>
-<p><em>a)   Fordeling af lydabsorbenter i rummet har betydning, se [4].</em></p>
-<p><em>b)   For små undervisningsrum for mindre grupper dog T ≤ 0,4-0,5 s</em></p>
-<p><em>c)   For åbne undervisningsområder gælder specielle forhold, se [4].</em></p></td>
+<td colspan="3"><p><strong><em>Supplerende vejledning</em></strong>     <strong>[4]</strong></p>
+<p><em>a)</em>   <em>Fordeling af lydabsorbenter i rummet har betydning, se [4].<del></del></em></p>
+<p><em>b)</em>   <em>For små undervisningsrum for mindre grupper dog T ≤ 0,4-0,5 s</em></p>
+<p><em>c)</em>   <em>For åbne undervisningsområder gælder specielle forhold, se [4].</em> </p></td>
 </tr>
 <tr>
-<td colspan="3"><p><strong>Noter</strong></p>
+<td colspan="3"><p><strong>Noter</strong><br />
+</p>
 <p>1)   Maksimumsværdien for efterklangstiden gælder for hvert 1/1-oktavbånd i frekvensområdet. Ved 125 Hz kan den angivne maksimumsværdi dog tillægges 20 %.<br />
 <br />
 </p>

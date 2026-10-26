@@ -22,46 +22,48 @@
 
 ## Eksempelsamling om ombygninger og andre forandringer - For etageboligbyggeri samt enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse
 
-### Kolofon
+<span id="kolofon"></span>
 
-[0](../forord/)
+### Kolofon {#f68306c1-c41e-401a-aab2-adb31d6bb0e3}
 
-### Forord
+<span id="forord"></span>
 
-[1](../generelt/)
+### 0 Forord {#df80a889-6625-457d-b3fe-e1687b7b29fb}
 
-### Generelt
+<span id="generelt"></span>
 
-[1.1](../bygningsreglementets-ombygningsbestemmelser/)
+### 1 Generelt {#21495b6f-78b7-4e10-9743-4c47b41ae9d4}
 
-### Bygningsreglementets ombygningsbestemmelser
+<span id="bygningsreglementets-ombygningsbestemmelser"></span>
 
-[1.2](../krav-til-konstruktions-og-brandforhold/)
+### 1.1 Bygningsreglementets ombygningsbestemmelser {#298c7843-a0dd-4973-be74-472322ebef49}
 
-### Krav til konstruktions- og brandforhold
+<span id="krav-til-konstruktions-og-brandforhold"></span>
 
-[1.3](../dokumentation-herunder-indplacering-i-konstruktions-og-brandklasser/)
+### 1.2 Krav til konstruktions- og brandforhold {#c67e186d-c5c0-429e-820b-7176d3a9d547}
 
-### Dokumentation, herunder indplacering i konstruktions- og brandklasse
+<span id="dokumentation-herunder-indplacering-i-konstruktions-og-brandklasse"></span>
 
-[2](../eksempler-etageboligbyggeri/)
+### 1.3 Dokumentation, herunder indplacering i konstruktions- og brandklasse {#c14359ca-3376-40c9-ac8d-e91e38a456d5}
 
-### Etageboligbyggeri - Eksempler på ombygninger og andre forandringer
+<span id="etageboligbyggeri-eksempler-pa-ombygninger-og-andre-forandringer"></span>
 
-[2.1](./)
+### 2 Etageboligbyggeri - Eksempler på ombygninger og andre forandringer {#3bffc19b-782d-4144-8df2-a2f65378e944}
 
-### Ombygninger og andre forandringer der kræver byggetilladelse
+<span id="ombygninger-og-andre-forandringer-der-krver-byggetilladelse"></span><span id="ombygninger-og-andre-forandringer-der-krver-byggetilladelse_1"></span>
+
+### 2.1 Ombygninger og andre forandringer der kræver byggetilladelse {#a2f39fe8-9ddb-4b6e-94e7-969bfbdce576}
 
 Ved nogle af nedenstående eksempler er der tilknyttet specifikke forudsætninger for konstruktions- og/eller brandforhold, som skal være opfyldt for at eksemplerne kan benyttes.
 
 Udover de specifikke forudsætninger, forudsættes det generelt for de eksempler, der ikke skal indplaceres i en konstruktionsklasse og/eller brandklasse, at byggearbejdet ikke ændrer de bærende konstruktioners virkemåde og/eller forudsætningerne for de brandmæssige forhold på anden vis.
 
-<table style="width:100%;">
+<table>
 <colgroup>
-<col style="width: 24%" />
-<col style="width: 19%" />
-<col style="width: 18%" />
-<col style="width: 36%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
 </colgroup>
 <tbody>
 <tr>
@@ -69,14 +71,14 @@ Udover de specifikke forudsætninger, forudsættes det generelt for de eksempler
 </tr>
 <tr>
 <td><strong>Byggearbejde</strong></td>
-<td><strong>Skal indplaceres i konstruktions-klasse 2-4, og en certificeret statiker skal tilknyttes</strong></td>
-<td><strong>Skal indplaceres i brandklasse 2-4, og en certificeret brandrådgiver skal tilknyttes</strong></td>
+<td><strong>Skal indplaceres i konstruktions-klasse 2-4, og en certificeret statiker skal tilknyttes</strong> </td>
+<td><p><strong>Skal indplaceres i brandklasse</strong> <strong>2-4, og en certificeret brandrådgiver skal tilknyttes</strong></p></td>
 <td><strong>Specifikke forudsætninger</strong></td>
 </tr>
 <tr>
 <td>Nyt dørhul/vindueshul i intern bærende væg.</td>
 <td>Ja</td>
-<td>Nej</td>
+<td>Nej </td>
 <td>Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold.</td>
 </tr>
 <tr>
@@ -118,41 +120,41 @@ Udover de specifikke forudsætninger, forudsættes det generelt for de eksempler
 <td>Udveksling i spær for en tagaltan.</td>
 <td>Ja</td>
 <td>Nej</td>
-<td>Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold.</td>
+<td>Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold. </td>
 </tr>
 <tr>
-<td>Udveksling i bærende bjælkelag for at etablere en intern trappe.</td>
+<td><p>Udveksling i bærende bjælkelag for at etablere en intern trappe.</p></td>
 <td>Ja</td>
 <td>Nej</td>
-<td>Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold.</td>
+<td>Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold. </td>
 </tr>
 <tr>
-<td>Udvidelse af vindueshul til dørhul med større bredde i bærende væg, hvor der f.eks. etableres en fransk altan.</td>
+<td><p>Udvidelse af vindueshul til dørhul med større bredde i bærende væg, hvor der f.eks. etableres en fransk altan.</p></td>
 <td>Ja</td>
 <td>Nej</td>
-<td>Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold.</td>
+<td>Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold. </td>
 </tr>
 <tr>
-<td>Nedlæggelse af lyskasser, hvor lyskassen er påkrævet af brandmæssige årsager.</td>
+<td><p>Nedlæggelse af lyskasser, hvor lyskassen er påkrævet af brandmæssige årsager.</p></td>
 <td>Nej</td>
 <td>Ja</td>
-<td></td>
+<td> </td>
 </tr>
 <tr>
-<td>Blænding af alle døre til sekundært trapperum, der er påkrævet af brandmæssige årsager (også ved sammenlægninger).</td>
-<td>Nej</td>
+<td><p>Blænding af alle døre til sekundært trapperum, der er påkrævet af brandmæssige årsager (også ved sammenlægninger).</p></td>
+<td>Nej </td>
 <td>Ja</td>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>Nedlæggelse af sekundært trapperum til beboelse, hvor der udføres nyt etagedæk i det gamle trapperum.</td>
 <td>Ja</td>
 <td>Ja</td>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>Udvendig efterisolering, hvor der sker indgreb i den bærende del af væggen.</td>
-<td>Ja</td>
+<td>Ja </td>
 <td>Nej</td>
 <td><p>Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold.</p>
 <p>Forudsætter bl.a., at afstanden fra den udvendige efterisolering til skel og bygninger på samme grund ikke kræver yderligere tiltag i forhold til ydervæggens brandmostandsevne.</p>
@@ -164,36 +166,32 @@ Udover de specifikke forudsætninger, forudsættes det generelt for de eksempler
 <td>Ja</td>
 <td>Nej</td>
 <td><p>Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold.</p>
-<p>Forudsætter bl.a., at beredskabets indsatsmuligheder ikke påvirkes negativt.</p>
+<p>Forudsætter bl.a., at beredskabets indsatsmuligheder ikke påvirkes negativt. </p>
 <p>Se også bygningsreglementets <a href="../../spoergsmaal-og-svar/">spørgsmål og svar om altaner og certificerede rådgivere</a>.</p></td>
 </tr>
 <tr>
 <td>Udnyttelse af uudnyttet tagetage til beboelse.</td>
 <td>Ja</td>
 <td>Ja</td>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>Udnyttelse af pulterrum i udnyttelig tagetage til beboelse.</td>
 <td>Ja</td>
 <td>Ja</td>
-<td></td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
-[2.2](../ombygninger-der-kan-opfoeres-uden-byggetilladelse/)
+<span id="ombygninger-og-andre-forandringer-der-kan-udfres-uden-ansgning-om-byggetilladelse"></span><span id="ombygninger-og-andre-forandringer-der-kan-udfres-uden-ansgning-om-byggetilladelse_1"></span>
 
-### Ombygninger og andre forandringer der kan udføres uden ansøgning om byggetilladelse
+### 2.2 Ombygninger og andre forandringer der kan udføres uden ansøgning om byggetilladelse {#9561ac47-4b09-4b1c-87ed-1332e9e5dd07}
 
-[3](../eksempler-enfamiliehuse/)
+<span id="enfamiliehuse-dobbelthuse-rkkehuse-og-sommerhuse-eksempler-pa-ombygninger-og-andre-forandringer"></span>
 
-### Enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse - Eksempler på ombygninger og andre forandringer
+### 3 Enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse - Eksempler på ombygninger og andre forandringer {#0c0b0cd0-4953-4816-91f1-d2a02999a2a8}
 
-[3.1](../ombygninger-der-kraever-byggetilladelse_/)
+### 3.1 Ombygninger og andre forandringer der kræver byggetilladelse {#76275838-91af-4905-8352-8d2aef45e85b}
 
-### Ombygninger og andre forandringer der kræver byggetilladelse
-
-[3.2](../ombygninger-der-kan-opfoeres-uden-byggetilladelse_/)
-
-### Ombygninger og andre forandringer der kan udføres uden ansøgning om byggetilladelse
+### 3.2 Ombygninger og andre forandringer der kan udføres uden ansøgning om byggetilladelse {#9adc1b1f-315c-4069-97b9-35c305f352ac}

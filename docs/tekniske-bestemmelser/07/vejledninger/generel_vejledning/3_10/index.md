@@ -2,13 +2,15 @@
 
 ## Se alle vejledninger om Byggepladsen og udførelsen af Byggearbejder (§ 161 - § 165)
 
-- [Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder](./)
-- [Vejledning om brandværnsforanstaltninger for skurbyer og lignende på byggepladser](../../brandvarnforanstaltninger)
-- [Bygningsreglementets vejledning om brandsikkerhed under byggearbejder i særligt vigtige historiske bygninger](../../vejledning-om-brandsikkerhed-under-byggearbejder-i-saerligt-vigtige-historiske-bygninger)
+- [Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder](../)
+- [Vejledning om brandværnsforanstaltninger for skurbyer og lignende på byggepladser](../../brandvarnforanstaltninger/)
+- [Bygningsreglementets vejledning om brandsikkerhed under byggearbejder i særligt vigtige historiske bygninger](../../vejledning-om-brandsikkerhed-under-byggearbejder-i-saerligt-vigtige-historiske-bygninger/)
 
 ## Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder
 
-### Forord
+<span id="forord"></span>
+
+### Forord {#53aaae9d-a33f-44f1-868e-5c37b9a3decc}
 
 ### 1.0. Generelt {#ae17a0d2-4078-40c7-9064-6ab09cfc67b2}
 
@@ -56,13 +58,11 @@ Sikkerhedsbelysning skal være synlig og funktionsdygtig.
 
 Skiltning af risikoområder, flugtveje, brandslukningsmateriel, redningsmateriel o. lign. skal ske i overensstemmelse med Arbejdstilsynet bestemmelser. Byggepladsen bør i hele byggeperioden gennemgås jævnligt med henblik på skiltning af disse områder, samt udskiftning af defekte skilte.
 
-[![](../../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
-
-####
+[![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Bekendtgørelse nr. 518 af 17/06/1994 (med senere ændringer) om sikkerhedsskiltning og anden form for signalgivning
 
-####
+<span id="_1"></span><span id="_2"></span>
 
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/Forms/R0710.aspx?id=67376){target="_blank"}
 
@@ -78,13 +78,11 @@ Det er ikke tilladt at bortskaffe affald ved afbrænding.
 
 Påfyldning af brændstof til maskiner, generatorer, kompressorer, arbejdsredskaber o.lign. skal foretages når maskiners/redskabers motorer er slukket og på dertil indrettede pladser. Brændstof skal opbevares i godkendte og egnede beholdere eller tanke til oplag over terræn. Oplag og forbrugstankanlæg for brændstof kan være omfattet af Beredskabsstyrelsens Tekniske forskrifter for brandfarlige væsker og skal i givet fald opføres og anvendes i overensstemmelse med denne forskrift. Oplag af brandfarlige væsker skal skiltes i overensstemmelse med Arbejdstilsynets bestemmelser.
 
-[![](../../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
-
-####
+[![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Bekendtgørelse nr. 1639 af 06/12/2006 om Brandfarlige og brandbare væsker – (inklusiv tekniske forskrifter)
 
-####
+<span id="_3"></span><span id="_4"></span><span id="_5"></span><span id="_6"></span>
 
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/Forms/R0710.aspx?id=185816){target="_blank"}
 
@@ -122,13 +120,9 @@ Hvis muligt bør hovedstrøm afbrydes ved arbejdstidsophør, det omfatter dog ik
 
 Bekendtgørelser iht elsikkerhedsloven bestemmelser skal overholdes.
 
-[![](../../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
-
-####
+[![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Lovbekendtgørelse nr. 26 af 10/01/2019 (med senere ændringer) om sikkerhed ved elektriske anlæg, elektriske installationer og elektriske materiel (elsikkerhedsloven)
-
-####
 
 #### Gå til bekendtgørelsen [Lovbekendtgørelse](https://www.retsinformation.dk/eli/lta/2019/26){target="_blank"}
 
@@ -149,4 +143,3 @@ Der bør for hvert enkelt byggeri oprettes checklister som indeholder relevante 
 ### 4.5 Vejoverkørsler {#2f03a7c3-82a4-4cb1-8ace-f925776838cb}
 
 ### 5.0 Hensyn til klimatiske forhold {#21b7bb99-b8b3-43c2-87ca-4d251b1b1419}
-

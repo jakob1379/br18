@@ -4,4 +4,3 @@
 
 - [Vejledning til kapitel 32 - Certificerede statiker og brandrådgivers virke](vejledning/)
 - [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](temasiden-brandogkonstruktioner-dk/)
-

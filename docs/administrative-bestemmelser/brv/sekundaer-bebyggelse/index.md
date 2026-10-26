@@ -2,23 +2,23 @@
 
 ## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
-- [Spørgsmål og svar](../spoergsmaal-og-svar)
-- [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../spoergsmaal-og-svar-ve-anlaeg)
-- [Vejledning om byggesagsbehandling efter BR18](../vejledning-om-byggesagsbehandling-efter-br18)
-- [Vejledning om ombygninger og brug af certificerede rådgivere i relation til ændring af BR18 d. 10. marts 2020](../vejledning-om-ombygning-og-brug-af-certificerede-raadgivere)
-- [Eksempelsamling om ombygninger og andre forandringer - For etageboligbyggeri samt enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse](../eksempelsamling-om-ombygninger-og-andre-forandringer)
-- [Vejledning i kommunernes stikprøvekontrol i tilgængelighed](../stikprovekontrol-tilgaengelighed)
-- [Vejledning om brug af brand og konstruktionsklasser](../vejledning-om-brug-af-brand-og-konstruktionsklasser)
-- [Vejledning om opførelse af sekundær bebyggelse med et samlet areal på højst 50 m2](.)
-- [Vejledning til kommunerne om krav til parkering i forbindelse med byggeri](../vejledning-om-parkering)
-- [Vejledning om skorstene og kravet om byggetilladelse](../vejledning-om-skorstene-og-kravet-om-byggetilladelse)
-- [Vejledning om transportable telte og konstruktioner](../transportable-telte-og-konstruktioner)
-- [Vejledning om lovliggørelse af ulovligt byggeri](../vejledning-om-lovliggorelse)
-- [Vejledning om byggeri over skel](../vejledning-om-byggeri_over_skel)
-- [Vejledning om gebyr for kommunernes sagsbehandling på byggeområdet](../gebyr)
-- [Vejledning om udnyttelige tagetager](../udnyttelige-tagetager)
-- [Dokumentation af bygningsreglementets tekniske bestemmelser i forbindelse med færdigmelding af byggeriet](../dokumentationsvejledning)
-- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../temasiden-brandogkonstruktioner-dk)
+- [Spørgsmål og svar](../spoergsmaal-og-svar/)
+- [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../spoergsmaal-og-svar-ve-anlaeg/)
+- [Vejledning om byggesagsbehandling efter BR18](../vejledning-om-byggesagsbehandling-efter-br18/)
+- [Vejledning om ombygninger og brug af certificerede rådgivere i relation til ændring af BR18 d. 10. marts 2020](../vejledning-om-ombygning-og-brug-af-certificerede-raadgivere/)
+- [Eksempelsamling om ombygninger og andre forandringer - For etageboligbyggeri samt enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse](../eksempelsamling-om-ombygninger-og-andre-forandringer/)
+- [Vejledning i kommunernes stikprøvekontrol i tilgængelighed](../stikprovekontrol-tilgaengelighed/)
+- [Vejledning om brug af brand og konstruktionsklasser](../vejledning-om-brug-af-brand-og-konstruktionsklasser/)
+- [Vejledning om opførelse af sekundær bebyggelse med et samlet areal på højst 50 m2](./)
+- [Vejledning til kommunerne om krav til parkering i forbindelse med byggeri](../vejledning-om-parkering/)
+- [Vejledning om skorstene og kravet om byggetilladelse](../vejledning-om-skorstene-og-kravet-om-byggetilladelse/)
+- [Vejledning om transportable telte og konstruktioner](../transportable-telte-og-konstruktioner/)
+- [Vejledning om lovliggørelse af ulovligt byggeri](../vejledning-om-lovliggorelse/)
+- [Vejledning om byggeri over skel](../vejledning-om-byggeri_over_skel/)
+- [Vejledning om gebyr for kommunernes sagsbehandling på byggeområdet](../gebyr/)
+- [Vejledning om udnyttelige tagetager](../udnyttelige-tagetager/)
+- [Dokumentation af bygningsreglementets tekniske bestemmelser i forbindelse med færdigmelding af byggeriet](../dokumentationsvejledning/)
+- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../temasiden-brandogkonstruktioner-dk/)
 
 ## Vejledning om opførelse af sekundær bebyggelse med et samlet areal på højst 50 m2
 
@@ -122,11 +122,11 @@ Kan den sekundære bebyggelse ikke opføres inden for rammerne af byggeretten vi
 
 **Eksempel 1:**
 
-*På en grund er der opført en garage på 25m^2^. Ejeren af ejendommen ønsker efterfølgende at opføre et udhus. Det samlede areal af sekundær bebyggelse på* *grunden må maksimalt være 50 m^2^. Ejeren af ejendommen kan derfor indenfor byggeretten opføre et udhus, der ligger i en afstand fra skel på 2,5 m. og overholder det skrå højdegrænseplan. Hvis udhuset placeres nærmere skel end 2,5 m. kan det opføres hvis det ikke er højere end 2,5 m, uden vinduer mod nabo og sti. *Der er desuden krav om, *at den sekundære bebyggelse i denne afstand ikke overstiger en samlet længde på 12 m.*
+*På en grund er der opført en garage på 25m^2^. Ejeren af ejendommen ønsker efterfølgende at opføre et udhus. Det samlede areal af sekundær bebyggelse på* *grunden må maksimalt være 50 m^2^. Ejeren af ejendommen kan derfor indenfor byggeretten opføre et udhus, der ligger i en afstand fra skel på 2,5 m. og overholder det skrå højdegrænseplan. Hvis udhuset placeres nærmere skel end 2,5 m. kan det opføres hvis det ikke er højere end 2,5 m, uden vinduer mod nabo og sti. Der er desuden krav om, at den sekundære bebyggelse i denne afstand ikke overstiger en samlet længde på 12 m.*
 
 **Eksempel 2:**
 
-*På en grund er der opført en garage på 25m^2^. Hvis ejeren af ejendommen efterfølgende ønsker at opføre et udhus på 15 m2, der ligger i en afstand fra skel på 1,5 m. og er højere end 2,5 m. (højde for byggeri i skelbremmen), skal kommunen fortage en helhedsvurdering. Det skal den selvom, der er "plads" indenfor bebyggelsesprocenten, fordi byggeretten ikke er overholdt.*
+*På en grund er der opført en garage på 25m^2^. Hvis ejeren af ejendommen efterfølgende ønsker at opføre et udhus på 15 m2, der ligger i en afstand fra skel på 1,5 m. og er højere end 2,5 m. (højde for byggeri i skelbremmen), skal kommunen fortage en helhedsvurdering. Det skal den selvom, der er ”plads” indenfor bebyggelsesprocenten, fordi byggeretten ikke er overholdt.*
 
 ### 4.1. Bebyggelse i skelbræmmen {#5f2f5eb0-99ff-4bed-9784-46c8080b9ca8}
 
@@ -140,7 +140,9 @@ Hvis sekundær bebyggelse opføres nærmere skel mod nabo og sti end 2,5 meter, 
 
 • Der må ikke udføres vinduer, døre eller andre åbninger i den side, der vender mod skel mod nabo og sti.
 
-• Tagvand skal holdes på egen grund. Man skal altså sørge for, at tagvandet ikke løber ind på naboens grund.
+• Tagvand skal holdes på egen grund. Man skal altså sørge for, at tagvandet ikke
+
+løber ind på naboens grund.
 
 Hvis ovenstående betingelser overholdes, er det som udgangspunkt tilladt at bygge nærmere skel end 2,5 meter. Sommerhuse er selvstændigt reguleret – se afsnit 4.1.3 nedenfor. Er der tvivl om, hvorvidt byggeriet kan opfylde alle betingelserne, kan man kontakte kommunen for vejledning.
 
@@ -188,7 +190,7 @@ For fritliggende enfamiliehuse, dobbelthuse med lodret lejlighedsskel og sommerh
 
 For etageboliger, rækkehuse, kædehuse, gruppehuse eller lignende former for helt eller delvist sammenbyggede enfamiliehuse, er det 20 m^2^ pr. bolig.
 
-Dette betegnes ofte "fradragsreglen".
+Dette betegnes ofte ”fradragsreglen”.
 
 Fradragsreglen er blevet ændret med bygningsreglementet 2018 (BR18), og grænsen for, hvad man kan fradrage i forhold til fritliggende enfamiliehuse, dobbelthuse med lodret lejlighedsskel og sommerhuse er blevet forhøjet i forhold til tidligere gældende bygningsreglementer.^3^ Ved tvivl om beregning af bebyggelsesprocenten eller mulighed for fradrag kan kommunalbestyrelsen kontaktes.
 
@@ -212,11 +214,11 @@ Der skelnes mellem integrerede og sammenbyggede bygninger.
 
 ### 6.1. Integrerede bygninger {#19135047-7563-4564-8248-6236e1217a23}
 
-En integreret bygning kan eksempelvis være en garage, carport, udhus eller lignende, der ligger under samme tagkonstruktion som den primære bygning. En bygning kan også være integreret, hvis opførelse, ændring eller nedrivning af den integrerede bygning, kan påvirke den samlede bebyggelses konstruktive forhold.   Integrerede bygninger betragtes ikke, i relation til de administrative bestemmelser, som sekundær bebyggelse, der kan opføres uden byggetilladelse.   Idet integrerede bygninger ikke betragtes som sekundær bebyggelse, der kan opføres uden byggetilladelse, skal de heller ikke tælles med i det samlede areal på højst 50,0 m^2^, der kan opføres uden byggetilladelse, hvis bygningsreglementet, deklarationer og anden lovgivning er overholdt.   Det er dog væsentligt at bemærke, at integrerede bygninger fortsat bliver betragtet som sekundær bebyggelse, der kan fradrages i relation til beregningsreglerne. Derfor finder fradragsreglen fortsat anvendelse på integreret sekundær bebyggelse.   Opførelse af en integreret bygning vil derfor kræve byggetilladelse, og er omfattet fradragsreglen.   **Eksempel 1:**   *På en grund med et enfamiliehus med integreret garage på 40 m^2^ vil man gerne opføre et drivhus på 12 m^2^. Integrerede garager er ikke omfattet af reglerne, der gør det muligt at opføre sekundær bebyggelse uden byggetilladelse, og de skal derfor ikke medregnes i de 50,0 m^2^, der i henhold til de administrative bestemmelser kan opføres uden byggetilladelse. Da den integrerede garage ikke skal medregnes i de 50,0 m^2^, kan drivhuset på 12 m^2^ opføres uden ansøgning om byggetilladelse.*  *Det er en forudsætning, at bygningsreglementet, deklarationer og anden lovgivning overholdes.*
+En integreret bygning kan eksempelvis være en garage, carport, udhus eller lignende, der ligger under samme tagkonstruktion som den primære bygning. En bygning kan også være integreret, hvis opførelse, ændring eller nedrivning af den integrerede bygning, kan påvirke den samlede bebyggelses konstruktive forhold.   Integrerede bygninger betragtes ikke, i relation til de administrative bestemmelser, som sekundær bebyggelse, der kan opføres uden byggetilladelse.   Idet integrerede bygninger ikke betragtes som sekundær bebyggelse, der kan opføres uden byggetilladelse, skal de heller ikke tælles med i det samlede areal på højst 50,0 m^2^, der kan opføres uden byggetilladelse, hvis bygningsreglementet, deklarationer og anden lovgivning er overholdt.   Det er dog væsentligt at bemærke, at integrerede bygninger fortsat bliver betragtet som sekundær bebyggelse, der kan fradrages i relation til beregningsreglerne. Derfor finder fradragsreglen fortsat anvendelse på integreret sekundær bebyggelse.   Opførelse af en integreret bygning vil derfor kræve byggetilladelse, og er omfattet fradragsreglen.   **Eksempel 1:**   *På en grund med et enfamiliehus med integreret garage på 40 m^2^ vil man gerne opføre et drivhus på 12 m^2^. Integrerede garager er ikke omfattet af reglerne, der gør det muligt at opføre sekundær bebyggelse uden byggetilladelse, og de skal derfor ikke medregnes i de 50,0 m^2^, der i henhold til de administrative bestemmelser kan opføres uden byggetilladelse. Da den integrerede garage ikke skal medregnes i de 50,0 m^2^, kan drivhuset på 12 m^2^ opføres uden ansøgning om byggetilladelse.*  *Det er en forudsætning, at bygningsreglementet, deklarationer og anden lovgivning overholdes.*
 
 ### 6.2. Sammenbyggede bygninger {#7ca29333-9a2b-49fc-a789-19d32f852f16}
 
-Sammenbyggede bygninger er placeret op ad et fritliggende enfamiliehus, dobbelthus eller et rækkehus, men er ikke nødvendigvis konstruktivt en del af dette. Der kan eksempelvis være tale om en carport placeret på søjler direkte mod primærbygningens facade uden sammenhængende tagkonstruktioner.    Sammenbyggede bygninger skal indregnes i det samlede areal for sekundær bebyggelse med et samlet areal på højst 50,0 m2, der kan opføres uden byggetilladelse.   Hvis der er adgang via dør eller der er et vindue mellem huset og carporten kan der være brandkrav til døren og vinduet.   **Eksempel 1:**   *På en grund med et enfamiliehus vil ejeren gerne opføre en sammenbygget garage på 40 m^2^. Da den sammenbyggede garage ikke konstruktivt er en del af enfamiliehuset, kan garagen opføres uden ansøgning om byggetilladelse.*  *Det er en forudsætning, at bygningsreglementet, deklarationer og anden lovgivning overholdes.*  *Havde der været eksisterende sekundær bebyggelse på grunden, således at det samlede areal ville overstige 50,0 m^2^, ville det kræve byggetilladelse at opføre den sammenbyggede garage på 40 m^2^.*
+Sammenbyggede bygninger er placeret op ad et fritliggende enfamiliehus, dobbelthus eller et rækkehus, men er ikke nødvendigvis konstruktivt en del af dette. Der kan eksempelvis være tale om en carport placeret på søjler direkte mod primærbygningens facade uden sammenhængende tagkonstruktioner.    Sammenbyggede bygninger skal indregnes i det samlede areal for sekundær bebyggelse med et samlet areal på højst 50,0 m2, der kan opføres uden byggetilladelse.   Hvis der er adgang via dør eller der er et vindue mellem huset og carporten kan der være brandkrav til døren og vinduet.   **Eksempel 1:**   *På en grund med et enfamiliehus vil ejeren gerne opføre en sammenbygget garage på 40 m^2^. Da den sammenbyggede garage ikke konstruktivt er en del af enfamiliehuset, kan garagen opføres uden ansøgning om byggetilladelse.*  *Det er en forudsætning, at bygningsreglementet, deklarationer og anden lovgivning overholdes.*  *Havde der været eksisterende sekundær bebyggelse på grunden, således at det samlede areal ville overstige 50,0 m^2^, ville det kræve byggetilladelse at opføre den sammenbyggede garage på 40 m^2^.*
 
 ### 7.0. Nedrivning {#5bad03fc-cc9d-4b2d-9977-b9576eb55efb}
 
@@ -258,8 +260,8 @@ Ved tvivl om, hvorvidt der er vedtaget lokalplan(er) i et område, kan man konta
 
 Der kan ligeledes være fastsat begrænsninger i form af deklarationer og servitutter på ejendommen. Deklarationer og servitutter kan være forskellige begrænsende rettigheder på en ejendom. Deklarationer og servitutter kan både være offentligretlige, hvor det er en myndighed, der har fået tinglyst en ret over en ejendom, og de kan være privatretlige, hvis servitutten eller deklarationen er tinglyst af en privatperson.
 
-Kommunalbestyrelsen kan med hjemmel i planloven håndhæve privatretlige deklarationer og servitutter med fx bebyggelsesregulerende bestemmelser. [Du kan læse mere om servitutter på www.tinglysning.dk](https://www.tinglysning.dk/tinglysning/landingpage/landingpage.xhtml){rel="noopener noreferrer" target="_blank"}[ ](https://www.tinglysning.dk/tinglysning/landingpage/landingpage.xhtml){rel="noopener noreferrer" target="_blank"}
+Kommunalbestyrelsen kan med hjemmel i planloven håndhæve privatretlige deklarationer og servitutter med fx bebyggelsesregulerende bestemmelser. [Du kan læse mere om servitutter på www.tinglysning.dk](https://www.tinglysning.dk/tinglysning/landingpage/landingpage.xhtml){rel="noopener noreferrer" target="_blank"} [](https://www.tinglysning.dk/tinglysning/landingpage/landingpage.xhtml){rel="noopener noreferrer" target="_blank"}
 
 ### 9.0. Hvad skal man huske? {#cbaf7f4f-594c-41d5-bc32-c40d16d9674e}
 
-Foruden ovenstående, er der også andre forhold, som man skal være opmærksom på, før man påbegynder et byggeri. Sekundær bebyggelse må ikke anvendes til beboelse.    En ændring i anvendelse, fx fra udhus til bolig eller terrasseoverdækning til udestue, kræver byggetilladelse.   Når man har opført sekundær bebyggelse, der ikke kræver byggetilladelse, skal man også huske at meddele oplysninger om byggeriet til Bygnings- og Boligregistret (BBR). Det er kommunalbestyrelsen, der opdaterer oplysninger i BBR, men det er boligejerens ansvar, at oplysningerne er korrekte. Alle bygninger på grunden skal som udgangspunkt være registreret i BBR.   Hvis man er i tvivl om, hvorvidt der må bygges uden tilladelse, er det altid en god idé at kontakte kommunen, inden byggeriet påbegyndes, da man kan risikere at skulle rive en ulovligt opført bygning ned.   [Læs mere i Vejledning om lovliggørelse af ulovligt byggeri](../vejledning-om-lovliggorelse).
+Foruden ovenstående, er der også andre forhold, som man skal være opmærksom på, før man påbegynder et byggeri. Sekundær bebyggelse må ikke anvendes til beboelse.    En ændring i anvendelse, fx fra udhus til bolig eller terrasseoverdækning til udestue, kræver byggetilladelse.   Når man har opført sekundær bebyggelse, der ikke kræver byggetilladelse, skal man også huske at meddele oplysninger om byggeriet til Bygnings- og Boligregistret (BBR). Det er kommunalbestyrelsen, der opdaterer oplysninger i BBR, men det er boligejerens ansvar, at oplysningerne er korrekte. Alle bygninger på grunden skal som udgangspunkt være registreret i BBR.   Hvis man er i tvivl om, hvorvidt der må bygges uden tilladelse, er det altid en god idé at kontakte kommunen, inden byggeriet påbegyndes, da man kan risikere at skulle rive en ulovligt opført bygning ned.   [Læs mere i Vejledning om lovliggørelse af ulovligt byggeri](../vejledning-om-lovliggorelse/).

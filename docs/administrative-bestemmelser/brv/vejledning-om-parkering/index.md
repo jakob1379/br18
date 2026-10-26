@@ -1,32 +1,32 @@
-# Administrative bestemmelser (§ 1 - §
+# Administrative bestemmelser (§ 1 - § 47)
 
-47)
+<span id="administrative-bestemmelser-1-"></span><span id="se-alle-vejledninger-om-administrative-bestemmelser-1-"></span>
 
-## Se alle vejledninger om Administrative bestemmelser (§ 1 - §
+## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
-47)
-
-- [Spørgsmål og svar](../spoergsmaal-og-svar)
-- [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../spoergsmaal-og-svar-ve-anlaeg)
-- [Vejledning om byggesagsbehandling efter BR18](../vejledning-om-byggesagsbehandling-efter-br18)
-- [Vejledning om ombygninger og brug af certificerede rådgivere i relation til ændring af BR18 d. 10. marts 2020](../vejledning-om-ombygning-og-brug-af-certificerede-raadgivere)
-- [Eksempelsamling om ombygninger og andre forandringer - For etageboligbyggeri samt enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse](../eksempelsamling-om-ombygninger-og-andre-forandringer)
-- [Vejledning i kommunernes stikprøvekontrol i tilgængelighed](../stikprovekontrol-tilgaengelighed)
-- [Vejledning om brug af brand og konstruktionsklasser](../vejledning-om-brug-af-brand-og-konstruktionsklasser)
-- [Vejledning om opførelse af sekundær bebyggelse med et samlet areal på højst 50 m2](../sekundaer-bebyggelse)
+- [Spørgsmål og svar](../spoergsmaal-og-svar/)
+- [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../spoergsmaal-og-svar-ve-anlaeg/)
+- [Vejledning om byggesagsbehandling efter BR18](../vejledning-om-byggesagsbehandling-efter-br18/)
+- [Vejledning om ombygninger og brug af certificerede rådgivere i relation til ændring af BR18 d. 10. marts 2020](../vejledning-om-ombygning-og-brug-af-certificerede-raadgivere/)
+- [Eksempelsamling om ombygninger og andre forandringer - For etageboligbyggeri samt enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse](../eksempelsamling-om-ombygninger-og-andre-forandringer/)
+- [Vejledning i kommunernes stikprøvekontrol i tilgængelighed](../stikprovekontrol-tilgaengelighed/)
+- [Vejledning om brug af brand og konstruktionsklasser](../vejledning-om-brug-af-brand-og-konstruktionsklasser/)
+- [Vejledning om opførelse af sekundær bebyggelse med et samlet areal på højst 50 m2](../sekundaer-bebyggelse/)
 - [Vejledning til kommunerne om krav til parkering i forbindelse med byggeri](./)
-- [Vejledning om skorstene og kravet om byggetilladelse](../vejledning-om-skorstene-og-kravet-om-byggetilladelse)
-- [Vejledning om transportable telte og konstruktioner](../transportable-telte-og-konstruktioner)
-- [Vejledning om lovliggørelse af ulovligt byggeri](../vejledning-om-lovliggorelse)
-- [Vejledning om byggeri over skel](../vejledning-om-byggeri_over_skel)
-- [Vejledning om gebyr for kommunernes sagsbehandling på byggeområdet](../gebyr)
-- [Vejledning om udnyttelige tagetager](../udnyttelige-tagetager)
-- [Dokumentation af bygningsreglementets tekniske bestemmelser i forbindelse med færdigmelding af byggeriet](../dokumentationsvejledning)
-- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../temasiden-brandogkonstruktioner-dk)
+- [Vejledning om skorstene og kravet om byggetilladelse](../vejledning-om-skorstene-og-kravet-om-byggetilladelse/)
+- [Vejledning om transportable telte og konstruktioner](../transportable-telte-og-konstruktioner/)
+- [Vejledning om lovliggørelse af ulovligt byggeri](../vejledning-om-lovliggorelse/)
+- [Vejledning om byggeri over skel](../vejledning-om-byggeri_over_skel/)
+- [Vejledning om gebyr for kommunernes sagsbehandling på byggeområdet](../gebyr/)
+- [Vejledning om udnyttelige tagetager](../udnyttelige-tagetager/)
+- [Dokumentation af bygningsreglementets tekniske bestemmelser i forbindelse med færdigmelding af byggeriet](../dokumentationsvejledning/)
+- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../temasiden-brandogkonstruktioner-dk/)
 
 ## Vejledning til kommunerne om krav til parkering i forbindelse med byggeri
 
-### Indledning
+<span id="indledning"></span>
+
+### Indledning {#f9ceb636-87f6-4541-bb03-da4fb6904eea}
 
 Vejledningen omhandler krav til parkering i forbindelse med byggeri, der er fastsat i byggeloven, bygningsreglementet, bekendtgørelsen om andet forpligtende aftalegrundlag og parkeringsfondscirkulæret.
 
@@ -60,7 +60,7 @@ De konkrete regler om kommunale parkeringsfonde er fastsat i cirkulære nr. 10 a
 
 Byggeloven og bygningsreglementets bestemmelser i kap. 20 om parkering gælder ikke, når der i en lokalplan eller byplanvedtægt er fastsat bestemmelser om parkering for det område, hvor byggeriet foregår. Det kan eksempelvis være angivet i en lokalplan, at der ved opførelse af et nybyggeri i et bestemt område inden for lokalplanens område, skal etableres 1 parkeringsplads pr. 100 m² etageareal. Når der opføres 1500 m² nybyggeri i det pågældende område, vil det med hjemmel i lokalplanen udløse krav om etablering af 15 parkeringspladser.
 
-[![](../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+[![](../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 #### DS-håndbog 186
 
@@ -162,7 +162,7 @@ I medfør af byggeloven kan der fastsættes regler om, at dispensation fra beste
 
 Reglerne om kommunale parkeringsfonde er fastsat i cirkulære nr. 10 af 17. januar 1994, der er udstedt med hjemmel i byggelovens § 22, stk. 6.
 
-Begrebet "parkeringsfond", som det anvendes i parkeringsfondscirkulæret, er alene navnet på den ordning, hvorefter kommunalbestyrelsen kan meddele dispensation fra kravene om tilvejebringelse af parkeringsarealer på egen grund ved opførelse af bebyggelse. En "parkeringsfond" skal derfor forstås som en ordning, hvorefter kommunen modtager indbetalinger fra borgerne, som kommunen skal anvende til anlæg af parkeringspladser.
+Begrebet ”parkeringsfond”, som det anvendes i parkeringsfondscirkulæret, er alene navnet på den ordning, hvorefter kommunalbestyrelsen kan meddele dispensation fra kravene om tilvejebringelse af parkeringsarealer på egen grund ved opførelse af bebyggelse. En ”parkeringsfond” skal derfor forstås som en ordning, hvorefter kommunen modtager indbetalinger fra borgerne, som kommunen skal anvende til anlæg af parkeringspladser.
 
 Kommunerne skal dog ved deres myndighedsudøvelse holde sig inden for byggelovens og forvaltningsrettens rammer.
 
@@ -192,9 +192,8 @@ Byggeloven og parkeringsfondscirkulæret er ikke til hinder for, at en kommune k
 
 ***Tilvækst i forbindelse med indbetaling til parkeringsfond***
 
-Ved en dispensation fra parkeringskravet, hvor der sker indbetaling til en parkeringsfond, kan tilvækstkravet alene indfries ved, at der etableres helt nye parkeringspladser eller ved, at allerede eksisterende parkeringspladser ændres således, at arealet udnyttes på en måde, hvorved der etableres flere parkeringspladser. Tilvækstkravet kan ikke opfyldes ved, at kommunen opkøber allerede eksisterende parkeringspladser i området på offentlig vej eller parkeringspladser, der allerede opfylder et parkeringskrav i forbindelse med opførelse af et andet byggeri, såkaldte "byggelovspladser".
+Ved en dispensation fra parkeringskravet, hvor der sker indbetaling til en parkeringsfond, kan tilvækstkravet alene indfries ved, at der etableres helt nye parkeringspladser eller ved, at allerede eksisterende parkeringspladser ændres således, at arealet udnyttes på en måde, hvorved der etableres flere parkeringspladser. Tilvækstkravet kan ikke opfyldes ved, at kommunen opkøber allerede eksisterende parkeringspladser i området på offentlig vej eller parkeringspladser, der allerede opfylder et parkeringskrav i forbindelse med opførelse af et andet byggeri, såkaldte ”byggelovspladser”.
 
 ***Hensigtsmæssig placering i forbindelse med indbetaling til parkeringsfond***
 
 Parkeringsfondspladserne skal i medfør af cirkulæret kunne anlægges med en hensigtsmæssig placering i forhold til den bidragsydende ejendom. Der er ikke fastsat en bestemt afstand for, hvor tæt på den bidragsydende ejendom, parkeringspladserne skal anlægges. Det bør dog indgå i kommunalbestyrelsens vurdering af placeringen af parkeringsfondspladserne, om der kan etableres areal i det pågældende område til anlæg af parkeringspladserne. Det bør ligeledes indgå i kommunalbestyrelsens vurdering af placeringen, at parkeringsfondspladserne anlægges så tæt på den bidragsydende ejendom, som det efter det pågældende områdes karakter, er muligt.
-

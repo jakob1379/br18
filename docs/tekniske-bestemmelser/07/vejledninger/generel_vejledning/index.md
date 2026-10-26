@@ -3,12 +3,14 @@
 ## Se alle vejledninger om Byggepladsen og udførelsen af Byggearbejder (§ 161 - § 165)
 
 - [Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder](./)
-- [Vejledning om brandværnsforanstaltninger for skurbyer og lignende på byggepladser](../brandvarnforanstaltninger)
-- [Bygningsreglementets vejledning om brandsikkerhed under byggearbejder i særligt vigtige historiske bygninger](../vejledning-om-brandsikkerhed-under-byggearbejder-i-saerligt-vigtige-historiske-bygninger)
+- [Vejledning om brandværnsforanstaltninger for skurbyer og lignende på byggepladser](../brandvarnforanstaltninger/)
+- [Bygningsreglementets vejledning om brandsikkerhed under byggearbejder i særligt vigtige historiske bygninger](../vejledning-om-brandsikkerhed-under-byggearbejder-i-saerligt-vigtige-historiske-bygninger/)
 
 ## Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder
 
-### Forord
+<span id="_1"></span><span id="_2"></span><span id="forord"></span>
+
+### Forord {#53aaae9d-a33f-44f1-868e-5c37b9a3decc}
 
 Denne vejledning behandler de forhold der bør overvejes i forbindelse med byggepladsen og udførelse af byggearbejde. Derudover giver vejledningen anbefalinger til planlægning og udførelse af byggearbejder, herunder brandværnsforanstaltninger på byggepladsen, og tiltag til at undgå uacceptable gener på anden grund, og sørge for at fugtfølsomt materiale beskyttes under byggeprocessen.
 
@@ -22,53 +24,37 @@ Ydermere henvises der til Trafik-, bygge- og boligstyrelsens bekendtgørelse nr.
 
 Opmærksomheden henledes endvidere på miljølovgivningen, herunder bl.a. bekendtgørelse nr. 844 af 23. juni 2017 om miljøregulering af visse aktiviteter.
 
-[![](../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
-
-####
+[![](../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Bekendtgørelse nr. 2107 af 24/11/2021 om bygge- og anlægsarbejder
 
-####
-
 #### Gå til bekendtgørelsen [](https://www.retsinformation.dk/eli/lta/2021/2107){target="_blank"}
 
-[![](../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
-
-####
+[![](../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Bekendtgørelse nr. 117 af 05/02/2013 om bygherrens pligter
 
-####
+<span id="_3"></span><span id="_4"></span><span id="_33"></span><span id="_34"></span>
 
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/Forms/R0710.aspx?id=145005){target="_blank"}
 
-[![](../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
-
-####
+[![](../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Bekendtgørelse nr. 110 af 05/02/2013 om projekterendes og rådgiveres pligter m.v. efter lov om arbejdsmiljø
 
-####
+<span id="_5"></span><span id="_6"></span><span id="_7"></span><span id="_8"></span><span id="_9"></span><span id="_10"></span><span id="_15"></span><span id="_16"></span><span id="_17"></span><span id="_18"></span><span id="_25"></span><span id="_26"></span><span id="_27"></span><span id="_28"></span>
 
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/Forms/R0710.aspx?id=145007){target="_blank"}
 
-[![](../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
-
-####
+[![](../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Bekendtgørelse nr. 477 af 18/05/2011 om Bygge og anlægsarbejder i perioden 1. november til 31. marts (vinterbekendtgørelsen)
 
-####
-
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/Forms/r0710.aspx?id=137101){target="_blank"}
 
-[![](../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
-
-####
+[![](../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Bekendtgørelse nr. 844 af 23/06/2017 om miljøregulering af visse aktiviteter
-
-####
 
 #### Gå til bekendtgørelsen [](https://www.retsinformation.dk/forms/R0710.aspx?id=192158){target="_blank"}
 
@@ -149,13 +135,11 @@ Byggearbejder, der medfører en forbedring af byggeriets brandsikringsniveau, b�
 
 Der henvises tillige til cirkulære om instruks for brandværnsforanstaltninger under byggearbejder på fredede bygninger.
 
-[![](../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
-
-####
+[![](../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Cirkulære nr. 2 af 06/11/1994 om instruks for brandværnsforanstaltninger under byggearbejder på fredede bygninger
 
-####
+<span id="_11"></span><span id="_12"></span>
 
 #### Gå til cirkulæret [Gå til cirkulæret](https://www.retsinformation.dk/Forms/R0710.aspx?id=54920){target="_blank"}
 
@@ -241,7 +225,7 @@ For at hindre brandspredning fra brændbare byggematerialer bør brændbare mate
 
 Gasser under tryk og brandfarlige væsker skal opbevares forsvarligt. Placeringen af gasser under tryk og brandfarlige væsker bør være fastlagt på forhånd og indgå som en del af byggepladsens indretning.  Som udgangspunkt skal gasser under tryk og brandfarlige væsker opbevares således, at uvedkommende ikke har uhindret adgang til disse (aflåst). Oplag af brandfarlige væsker og oplag af gasser under tryk i både beholdere og tanke skal endvidere ske i henhold til beredskabsstyrelsens Tekniske forskrifter.
 
-Ved brandfarlige og brændbare oplag skal der skiltes med "brug af åben ild og rygning forbudt".
+Ved brandfarlige og brændbare oplag skal der skiltes med ”brug af åben ild og rygning forbudt”.
 
 Oplag af brændbart affald kan udgøre en uhensigtsmæssig stor brandbelastning, og medføre forøget risiko for antændelse og spredning af brand. Følgende forhold bør derfor efterleves for, at minimere risikoen for brande i affaldsoplag:
 
@@ -257,23 +241,17 @@ Oplag af brændbart affald kan udgøre en uhensigtsmæssig stor brandbelastning,
 
 \- Beholdere til gasser under tryk, som har været anvendt, skal opbevares i overensstemmelse med Beredskabsstyrelsens tekniske forskrifter for gasser.
 
-[![](../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
-
-####
+[![](../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Bekendtgørelse nr. 1639 af 06/12/2016 om brandfarlige og brandbare væsker (inklusiv tekniske forskrifter)
 
-####
+<span id="_13"></span><span id="_14"></span>
 
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/Forms/R0710.aspx?id=185816){target="_blank"}
 
-[![](../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
-
-####
+[![](../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Bekendtgørelse nr. 1444 af 15/12/2010 (med senere ændringer) om tekniske forskrifter for gasser
-
-####
 
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/forms/R0710.aspx?id=134984){target="_blank"}
 
@@ -307,13 +285,9 @@ Der bør foretages en vurdering, som kan sikre, at der kan foretages en forsvarl
 
 Der henvises også her til bekendtgørelse nr. 559 af 17. juni 2004 (med senere ændringer) om arbejdets udførelse.
 
-[![](../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
-
-####
+[![](../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Bekendtgørelse nr. 1839 af 14/12/2023 om arbejdets udførelse
-
-####
 
 #### Gå til bekendtgørelsen [](https://www.retsinformation.dk/eli/lta/2023/1839){target="_blank"}
 
@@ -389,13 +363,11 @@ En hurtig og sikker evakuering er afhængig af, at flugtveje er overskuelige og 
 
 Sikkerhedsbelysning bør udføres i overensstemmelse med stærkstrømsbekendtgørelsen, og *bygningsreglementets vejledning om brandtekniske installationer*
 
-[![](../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
-
-####
+[![](../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Bekendtgørelse nr. 1082 af 12/07/2016 om sikkerhed for udførelse og drift af elektriske installationer (tidl. stærkstrømsbekendtgørelsen)
 
-####
+<span id="_19"></span><span id="_20"></span>
 
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/Forms/R0710.aspx?id=183511){target="_blank"}
 
@@ -419,17 +391,17 @@ Håndildslukkere skal være udført i overensstemmelse med gældende regler (DS/
 
 *Tabel 1 - klassificering af slukkere*
 
-<table style="width:99%;">
+<table>
 <colgroup>
-<col style="width: 17%" />
-<col style="width: 10%" />
-<col style="width: 43%" />
-<col style="width: 27%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
 </colgroup>
 <tbody>
 <tr>
 <td><strong>Type</strong></td>
-<td><strong>Klasse</strong></td>
+<td><strong>Klasse</strong> </td>
 <td> <strong>Anvendelse ved</strong></td>
 <td><strong>Anvendes <em>ikke</em> ved</strong></td>
 </tr>
@@ -441,29 +413,30 @@ Håndildslukkere skal være udført i overensstemmelse med gældende regler (DS/
 <td>Væskebrande, el-brande, metalbrande, brande i vegetabilsk olie</td>
 </tr>
 <tr>
-<td><strong>Pulverslukker</strong></td>
-<td>A, B, C, D<sup>2</sup>, E<sup>2</sup></td>
-<td>Faste stoffer - træ, tekstil, papir mv., væskebrande, gasser, metalbrande, el-brande (max 1.000 V)</td>
+<td><strong>Pulverslukker</strong> </td>
+<td>A, B, C, D<sup>2</sup>, E<sup>2</sup>  </td>
+<td>Faste stoffer - træ, tekstil, papir mv., væskebrande, gasser, metalbrande, el-brande (max 1.000 V) </td>
 <td> Brande i vegetabilsk olie<br />
 </td>
 </tr>
 <tr>
 <td><strong>Kulsyresneslukker (CO<sub>2</sub> - slukker)</strong></td>
 <td>A, C, E</td>
-<td>Væskebrande, gasser, el-brande</td>
+<td><p>Væskebrande, gasser, el-brande</p></td>
 <td> Metalbrande, brande i vegetabilsk olie</td>
 </tr>
 <tr>
-<td><strong>Skumslukker </strong></td>
+<td><strong>Skumslukker</strong> </td>
 <td>A, B, E<sup>4</sup></td>
-<td>Faste stoffer, væskebrande, el-brande (max. 1.000 V)</td>
-<td>Metalbrande, el-brande, brande i vegetabilsk olie</td>
+<td><p>Faste stoffer, væskebrande, el-brande (max. 1.000 V)</p></td>
+<td> 
+<p>Metalbrande, el-brande, brande i vegetabilsk olie</p></td>
 </tr>
 <tr>
-<td><strong>Brandtæppe</strong></td>
+<td><strong>Brandtæppe</strong> </td>
 <td>-</td>
 <td>Brand i personer/beklædning<sup>5</sup>, Mindre væskebrande</td>
-<td>Brand i faste stoffer, metalbrande, el-brande</td>
+<td><p>Brand i faste stoffer, metalbrande, el-brande</p></td>
 </tr>
 </tbody>
 </table>
@@ -478,13 +451,11 @@ Håndildslukkere skal være udført i overensstemmelse med gældende regler (DS/
 
 5.  *Hvis vand ikke er til stede.*
 
-[![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
-
-####
+[![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](#)
 
 DS/EN 3-7 + A1:2007 - Håndildslukkere - Del 7: Karakteristika, ydeevnekrav og prøvningsmetoder
 
-####
+<span id="_21"></span><span id="_22"></span>
 
 #### Standarden findes på dansk i Dansk Standards webshop [Standarden findes på dansk i Dansk Standards webshop](https://webshop.ds.dk/da-dk/s%c3%b8gning/13-220-10-brandslukning/ds-en-3-7-a12007){target="_blank"}
 
@@ -528,13 +499,11 @@ Sikkerhedsbelysning skal være synlig og funktionsdygtig.
 
 Skiltning af risikoområder, flugtveje, brandslukningsmateriel, redningsmateriel o. lign. skal ske i overensstemmelse med Arbejdstilsynet bestemmelser. Byggepladsen bør i hele byggeperioden gennemgås jævnligt med henblik på skiltning af disse områder, samt udskiftning af defekte skilte.
 
-[![](../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
-
-####
+[![](../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Bekendtgørelse nr. 518 af 17/06/1994 (med senere ændringer) om sikkerhedsskiltning og anden form for signalgivning
 
-####
+<span id="_23"></span><span id="_24"></span>
 
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/Forms/R0710.aspx?id=67376){target="_blank"}
 
@@ -550,13 +519,9 @@ Det er ikke tilladt at bortskaffe affald ved afbrænding.
 
 Påfyldning af brændstof til maskiner, generatorer, kompressorer, arbejdsredskaber o.lign. skal foretages når maskiners/redskabers motorer er slukket og på dertil indrettede pladser. Brændstof skal opbevares i godkendte og egnede beholdere eller tanke til oplag over terræn. Oplag og forbrugstankanlæg for brændstof kan være omfattet af Beredskabsstyrelsens Tekniske forskrifter for brandfarlige væsker og skal i givet fald opføres og anvendes i overensstemmelse med denne forskrift. Oplag af brandfarlige væsker skal skiltes i overensstemmelse med Arbejdstilsynets bestemmelser.
 
-[![](../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
-
-####
+[![](../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Bekendtgørelse nr. 1639 af 06/12/2006 om Brandfarlige og brandbare væsker – (inklusiv tekniske forskrifter)
-
-####
 
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/Forms/R0710.aspx?id=185816){target="_blank"}
 
@@ -594,13 +559,9 @@ Hvis muligt bør hovedstrøm afbrydes ved arbejdstidsophør, det omfatter dog ik
 
 Bekendtgørelser iht elsikkerhedsloven bestemmelser skal overholdes.
 
-[![](../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
-
-####
+[![](../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Lovbekendtgørelse nr. 26 af 10/01/2019 (med senere ændringer) om sikkerhed ved elektriske anlæg, elektriske installationer og elektriske materiel (elsikkerhedsloven)
-
-####
 
 #### Gå til bekendtgørelsen [Lovbekendtgørelse](https://www.retsinformation.dk/eli/lta/2019/26){target="_blank"}
 
@@ -649,33 +610,25 @@ Det er miljøbeskyttelsesloven, affaldsbekendtgørelsen og restproduktbekendtgø
 
 Bemærk, at der er særlige regler og foranstaltninger i forbindelse med håndtering af farligt byggeaffald, som f.eks. asbest, epoxy, isocyanatprodukter samt PCB.
 
-[![](../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
-
-####
+[![](../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Lov nr. 1093 af 11/10/2024 (med senere ændringer) om miljøbeskyttelse
 
-####
+<span id="_29"></span><span id="_30"></span>
 
 #### Gå til loven [](https://www.retsinformation.dk/eli/lta/2024/1093#id05d9b2d6-1e7a-4c81-b987-ed9b40e76af4){target="_blank"}
 
-[![](../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
-
-####
+[![](../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Bekendtgørelse nr. 1749 af 13/12/2024 (med senere ændringer) om affald
 
-####
+<span id="_31"></span><span id="_32"></span>
 
 #### Gå til bekendtgørelsen [](https://www.retsinformation.dk/eli/lta/2024/1749){target="_blank"}
 
-[![](../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
-
-####
+[![](../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Bekendtgørelse nr. 1672 af 15/12/2016 om anvendelse af restprodukter, jord og sorteret bygge- og anlægsaffald
-
-####
 
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/forms/r0710.aspx?id=184757){target="_blank"}
 
@@ -699,12 +652,10 @@ Kravet kan f.eks. opfyldes ved:
 
 \- At bygherren ved udbud i fagentrepriser for- anstalter fælles faciliteter til opbevaring af fugtfølsomme materialer.
 
-[![](../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
-
-####
+[![](../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Bekendtgørelse nr. 477 af 18/05/2011 om bygge og anlægsarbejder i perioden 1. november til 31. marts (vinterbekendtgørelsen)
 
-####
+<span id="_35"></span><span id="_36"></span>
 
 #### Gå til bekendtgørelsen [Gå til bekendtgørelsen](https://www.retsinformation.dk/Forms/r0710.aspx?id=137101){target="_blank"}

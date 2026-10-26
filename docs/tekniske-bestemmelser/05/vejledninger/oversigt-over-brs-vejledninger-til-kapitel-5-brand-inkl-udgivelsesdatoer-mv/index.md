@@ -26,16 +26,18 @@
 
 ## Oversigt over Bygningsreglementets vejledninger til kapitel 5 – Brand, inkl. udgivelsesdatoer
 
-### Oversigter over vejledninger til kapitel 5 - Brand
+<span id="oversigter-over-vejledninger-til-kapitel-5-brand"></span>
 
-<table style="width:97%;">
+### Oversigter over vejledninger til kapitel 5 - Brand {#3d8a5874-dc7d-43c9-b79b-593c5d575fc5}
+
+<table style="width:100%;">
 <colgroup>
-<col style="width: 9%" />
-<col style="width: 41%" />
-<col style="width: 13%" />
-<col style="width: 10%" />
-<col style="width: 8%" />
-<col style="width: 13%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
 </colgroup>
 <tbody>
 <tr>
@@ -48,26 +50,26 @@
 </td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 <td> Definitionsliste for brandmæssige begreb</td>
 <td> 01.01.2024</td>
-<td></td>
+<td> </td>
 <td> 28</td>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td> Intro</td>
 <td>Introduktion</td>
-<td>11.12.2018</td>
+<td>11.12.2018 </td>
 <td>03.02.2021</td>
 <td>5</td>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>1</td>
 <td>Generelt om sikkerhed ved brand<br />
 </td>
-<td>11.12.2018</td>
+<td>11.12.2018    </td>
 <td><p>29.01.2019</p>
 <p>07.07.2020</p>
 <p>04.03.2021</p>
@@ -140,14 +142,14 @@
 </tbody>
 </table>
 
-<table style="width:99%;">
+<table style="width:100%;">
 <colgroup>
-<col style="width: 3%" />
-<col style="width: 34%" />
-<col style="width: 5%" />
-<col style="width: 4%" />
-<col style="width: 3%" />
-<col style="width: 48%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
 </colgroup>
 <tbody>
 <tr>
@@ -170,16 +172,16 @@
 </td>
 </tr>
 <tr>
-<td>1a</td>
-<td>Bilag 1a – præ-accepterede løsninger for fritliggende og sammenbyggede enfamiliehuse</td>
-<td>02.07.2020</td>
+<td>1a </td>
+<td>Bilag 1a – præ-accepterede løsninger for fritliggende og sammenbyggede enfamiliehuse </td>
+<td>02.07.2020 </td>
 <td> 03.01.2022</td>
-<td>43</td>
+<td>43 </td>
 <td></td>
 </tr>
 <tr>
-<td>1b</td>
-<td>Præ-accepterede løsninger for sekundær bebyggelse i tilknytning til enfamiliehuse</td>
+<td>1b </td>
+<td>Præ-accepterede løsninger for sekundær bebyggelse i tilknytning til enfamiliehuse </td>
 <td>August 2020</td>
 <td> 18.02.2022</td>
 <td>30</td>
@@ -272,7 +274,7 @@
 </td>
 <td>01.02.2019<br />
 </td>
-<td></td>
+<td> </td>
 <td>34</td>
 <td>-<br />
 </td>
@@ -283,7 +285,7 @@
 </td>
 <td>31.01.2019<br />
 </td>
-<td></td>
+<td> </td>
 <td>68</td>
 <td>-<br />
 </td>
@@ -291,7 +293,7 @@
 <tr>
 <td>11</td>
 <td>Præ-accepterede løsninger - Transportable konstruktioner, telte, festivaler, campingområder</td>
-<td>03.07.2020</td>
+<td><p>03.07.2020</p></td>
 <td><p> 23.04.2021</p>
 <p>16.06.2023</p></td>
 <td>29</td>
@@ -303,7 +305,7 @@
 </td>
 <td>20.12.2019<br />
 </td>
-<td>03.07.2020</td>
+<td>03.07.2020 </td>
 <td>5</td>
 <td>-</td>
 </tr>
@@ -319,12 +321,12 @@
 </td>
 </tr>
 <tr>
-<td>11c</td>
+<td>11c </td>
 <td>Vejledning om pladsfordelingsplaner ved midlertidige midlertidige opstillinger<br />
 </td>
 <td>20.12.2019<br />
 </td>
-<td>03.07.2020</td>
+<td>03.07.2020 </td>
 <td>8</td>
 <td>-</td>
 </tr>
@@ -334,7 +336,7 @@
 </td>
 <td>20.12.2019<br />
 </td>
-<td>03.07.2020</td>
+<td>03.07.2020 </td>
 <td>3</td>
 <td>Ophævet</td>
 </tr>
@@ -373,45 +375,47 @@
 <td>15</td>
 <td>Præ-accepterede løsninger for sekundær bebyggelse i tilknytning til andet end enfamiliehuse</td>
 <td>11.03.2021</td>
-<td></td>
+<td> </td>
 <td>6</td>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td> 16</td>
 <td>Præ-accepterede løsninger for mindre bebyggelse i anvendelseskategori 1 og 4</td>
-<td>22.04.2021</td>
-<td></td>
-<td>6</td>
-<td></td>
+<td>22.04.2021 </td>
+<td> </td>
+<td>6 </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
 
-### Ved uoverensstemmelser mellem hovedteksten i kapitlerne og teksten i bilag 1-10 i Bygningsreglementets vejledning til kapitel 5 – Brand, hvilken vejledning er så gældende?
+<span id="ved-uoverensstemmelser-mellem-hovedteksten-i-kapitlerne-og-teksten-i-bilag-1-10-i-bygningsreglementets-vejledning-til-kapitel-5-brand-hvilken-vejledning-er-sa-gldende"></span>
+
+### Ved uoverensstemmelser mellem hovedteksten i kapitlerne og teksten i bilag 1-10 i Bygningsreglementets vejledning til kapitel 5 – Brand, hvilken vejledning er så gældende? {#06898bc3-4e96-4da4-af04-224e097ced61}
 
 **Supplement til bilag 1-10**
 
-De præ-accepterede løsninger til Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) – Brand, udgivet som bilag 1-10, er udarbejdet i 2018.
+De præ-accepterede løsninger til Bygningsreglementets vejledning til kapitel 5 – Brand, udgivet som bilag 1-10, er udarbejdet i 2018.
 
 Efterfølgende er der udgivet de øvrige kapitler og bilag til denne vejledning, hvor en del af de præaccepterede løsninger er opdateret med ny eller supplerende viden og erfaringer. Herved er der er opstået visse uoverensstemmelser mellem bilag 1-10 og disse øvrige kapitler/bilag.
 
-For følgende områder i bilag 1-10 skal de præ-accepterede løsninger følge beskrivelserne i de generelle kapitler/bilag til Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) – Brand.
+For følgende områder i bilag 1-10 skal de præ-accepterede løsninger følge beskrivelserne i de generelle kapitler/bilag til Bygningsreglementets vejledning til kapitel 5 – Brand.
 
 **• Redningsberedskabets indsatsmuligheder:**
 
-Her skal benyttes beskrivelserne i [kapitel 5](/tekniske-bestemmelser/05/): Redningsberedskabets indsatsmuligheder
+Her skal benyttes beskrivelserne i kapitel 5: Redningsberedskabets indsatsmuligheder
 
 **• Drift, kontrol og vedligehold af brandforhold i og ved bygninger:**
 
-Her skal benyttes beskrivelserne i [kapitel 7](/tekniske-bestemmelser/07/): Drift-, kontrol- og vedligehold af brandforhold i og ved bygninger.
+Her skal benyttes beskrivelserne i kapitel 7: Drift-, kontrol- og vedligehold af brandforhold i og ved bygninger.
 
 **• Udførelsen af brandtekniske installationer og håndslukningsudstyr:**
 
-Her skal benyttes beskrivelserne i [bilag 12: Præ-accepterede løsninger for brandtekniske installationer og håndslukningsudstyr](../generel_brand/brandtekniske-installationer/). Dog undtaget konkrete specialtilfælde i [bilag 8: Præ-accepterede løsninger for brandsikring af landbrugserhvervets avls- og driftsbygninger](../generel_brand/bilag-8-praeaccepterede-loesninger-jordbrugserhvervets-avls-og-driftsbygninger-mv/).
+Her skal benyttes beskrivelserne i bilag 12: Præ-accepterede løsninger for brandtekniske installationer og håndslukningsudstyr. Dog undtaget konkrete specialtilfælde i bilag 8: Præ-accepterede løsninger for brandsikring af landbrugserhvervets avls- og driftsbygninger.
 
-**• [Kapitel 6](/tekniske-bestemmelser/06/): Funktionsafprøvning og systemintegration:**
+**• Kapitel 6: Funktionsafprøvning og systemintegration:**
 
-Her skal benyttes beskrivelserne i [kapitel 6](/tekniske-bestemmelser/06/): Funktionsafprøvning og systemintegration.
+Her skal benyttes beskrivelserne i kapitel 6: Funktionsafprøvning og systemintegration.
 
 Ved kommende opdateringer af bilag 1-10 vil disse henvisninger blive indarbejdet i bilagene, alternativet vil de relevante beskrivelser blive indarbejdet i det aktuelle bilag.

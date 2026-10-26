@@ -2,13 +2,15 @@
 
 ## Se alle vejledninger om Byggepladsen og udførelsen af Byggearbejder (§ 161 - § 165)
 
-- [Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder](./)
-- [Vejledning om brandværnsforanstaltninger for skurbyer og lignende på byggepladser](../../brandvarnforanstaltninger)
-- [Bygningsreglementets vejledning om brandsikkerhed under byggearbejder i særligt vigtige historiske bygninger](../../vejledning-om-brandsikkerhed-under-byggearbejder-i-saerligt-vigtige-historiske-bygninger)
+- [Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder](../)
+- [Vejledning om brandværnsforanstaltninger for skurbyer og lignende på byggepladser](../../brandvarnforanstaltninger/)
+- [Bygningsreglementets vejledning om brandsikkerhed under byggearbejder i særligt vigtige historiske bygninger](../../vejledning-om-brandsikkerhed-under-byggearbejder-i-saerligt-vigtige-historiske-bygninger/)
 
 ## Bygningsreglementets vejledning om byggepladsen og udførelsen af byggearbejder
 
-### Forord
+<span id="forord"></span>
+
+### Forord {#53aaae9d-a33f-44f1-868e-5c37b9a3decc}
 
 ### 1.0. Generelt {#ae17a0d2-4078-40c7-9064-6ab09cfc67b2}
 
@@ -54,13 +56,11 @@ Byggearbejder, der medfører en forbedring af byggeriets brandsikringsniveau, b�
 
 Der henvises tillige til cirkulære om instruks for brandværnsforanstaltninger under byggearbejder på fredede bygninger.
 
-[![](../../../../../assets/img/linkbox/dk_linkbox.svg)](# "#title")
-
-####
+[![](../../../../../assets/img/linkbox/dk_linkbox.svg)](#)
 
 Cirkulære nr. 2 af 06/11/1994 om instruks for brandværnsforanstaltninger under byggearbejder på fredede bygninger
 
-####
+<span id="_1"></span><span id="_2"></span>
 
 #### Gå til cirkulæret [Gå til cirkulæret](https://www.retsinformation.dk/Forms/R0710.aspx?id=54920){target="_blank"}
 
@@ -97,4 +97,3 @@ Cirkulære nr. 2 af 06/11/1994 om instruks for brandværnsforanstaltninger under
 ### 4.5 Vejoverkørsler {#2f03a7c3-82a4-4cb1-8ace-f925776838cb}
 
 ### 5.0 Hensyn til klimatiske forhold {#21b7bb99-b8b3-43c2-87ca-4d251b1b1419}
-

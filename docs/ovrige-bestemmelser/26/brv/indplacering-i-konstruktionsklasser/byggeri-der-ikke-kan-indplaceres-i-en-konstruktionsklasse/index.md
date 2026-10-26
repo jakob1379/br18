@@ -2,13 +2,15 @@
 
 ## Se alle vejledninger om Konstruktionsklasser (§ 485 - § 489)
 
-- [Spørgsmål og svar](../../spoergsmaal-og-svar)
-- [Vejledning om indplacering i konstruktionsklasser](./)
-- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../../temasiden-brandogkonstruktioner-dk)
+- [Spørgsmål og svar](../../spoergsmaal-og-svar/)
+- [Vejledning om indplacering i konstruktionsklasser](../)
+- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../../temasiden-brandogkonstruktioner-dk/)
 
 ## Vejledning om indplacering i konstruktionsklasser
 
-### Forord
+<span id="forord"></span>
+
+### Forord {#35e70e33-75c9-456f-aa85-162fac4257b3}
 
 ### 1.0.0. Generelt {#9dba3612-6875-42ed-8bd8-0962a7e85a86}
 
@@ -37,4 +39,3 @@ Ifølge BR18, §489, stk. 5. skal konstruktioner eller konstruktionsafsnit, som
 - En anerkendt statiker skal inddrages
 
 Hvorvidt en konstruktion eller et konstruktionsafsnit er omfattet af § 489, stk. 5, beror på om udformningen eller anvendelsen gør, at konstruktionen eller konstruktionsafsnittet ikke kan vurderes ud fra grundlaget for indplacering i konstruktionsklassen, dvs. ud fra indplaceringen i konsekvensklasse (afsnit 1.0.2), konstruktionens kompleksitet (afsnit 1.0.3) eller erfaring med konstruktionen (afsnit 1.0.4).
-

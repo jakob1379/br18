@@ -11,23 +11,23 @@
 
 ## - Vejledning til daginstitutionsbygninger
 
-[4.0](../daginstitutionsbygninger/)
+<span id="daginstitutionsbygninger"></span>
 
-### Daginstitutionsbygninger
+### 4.0 Daginstitutionsbygninger {#094ec304-9893-4358-a568-bdddbcf3061e}
 
-[4.1](../definitioner-af-rumtyper-for-daginstitutionsbygninger/)
+<span id="definitioner-af-rumtyper-for-daginstitutionsbygninger"></span>
 
-### Definitioner af rumtyper for daginstitutionsbygninger
+### 4.1 Definitioner af rumtyper for daginstitutionsbygninger {#164545a8-0817-4f4b-b148-f12863ce4727}
 
-[4.2](./)
+<span id="lydisolation-for-daginstitutionsbygninger"></span>
 
-### Lydisolation for daginstitutionsbygninger
+### 4.2 Lydisolation for daginstitutionsbygninger {#4744db10-a45b-4319-a98c-d015d8b65921}
 
 Tabellerne i dette afsnit beskriver grænseværdierne for lydisolation, støj indendørs fra trafik, støj fra tekniske installationer samt efterklangstid og absorptionsareal. Grænseværdierne er primært gengivet fra SBi-anvisning 218 om lydforhold i undervisnings- og daginstitutionsbygninger.
 
 Daginstitutionsbygninger omfatter børneinstitutioner, skolefritidsordninger m.v.
 
-Tabel 4.1 indeholder grænseværdier for luftlydisolation og trinlydniveau i daginstitutionsbygninger svarende til overholdelse af BR18's lydbestemmelser.
+Tabel 4.1 indeholder grænseværdier for luftlydisolation og trinlydniveau i daginstitutionsbygninger svarende til overholdelse af BR18’s lydbestemmelser.
 
 Lydbestemmelserne er gengivet fra SBi-anvisning 218.
 
@@ -37,69 +37,68 @@ Supplerende vejledning, der ikke nødvendigvis skal overholdes for at opfylde by
 
 <table>
 <colgroup>
-<col style="width: 78%" />
-<col style="width: 21%" />
+<col style="width: 50%" />
+<col style="width: 50%" />
 </colgroup>
 <tbody>
 <tr>
-<td colspan="2"><strong>Daginstitutionsbygninger – Tabel 4.1 Lydisolation</strong></td>
+<td colspan="2"><strong>Daginstitutionsbygninger – Tabel 4.1 Lydisolation</strong> </td>
 </tr>
 <tr>
-<td><strong>Luftlydisolation </strong>     <strong>[4]</strong></td>
+<td><strong>Luftlydisolation</strong>      <strong>[4]</strong> </td>
 <td><strong><em>R’</em><sub>w</sub></strong><br />
 </td>
 </tr>
 <tr>
-<td>Mellem opholdsrum for stille og/eller støjende aktiviteter samt mellem disse rum og øvrige rum</td>
+<td><p>Mellem opholdsrum for stille og/eller støjende aktiviteter samt mellem disse rum og øvrige rum</p></td>
 <td>≥ 48 dB<br />
 </td>
 </tr>
 <tr>
-<td>Mellem opholdsrum for stille og/eller støjende aktiviteter og øvrige rum med dørforbindelse (samlet lydisolation for væg med dør mv.)</td>
+<td>Mellem opholdsrum for stille og/eller støjende aktiviteter og øvrige rum med dørforbindelse (samlet lydisolation for væg med dør mv.) </td>
 <td>≥ 40 dB<br />
 </td>
 </tr>
 <tr>
-<td>Mellem opholdsrum samt mellem opholdsrum og øvrige rum</td>
-<td>≥ 40 dB</td>
+<td>Mellem opholdsrum samt mellem opholdsrum og øvrige rum </td>
+<td>≥ 40 dB </td>
 </tr>
 <tr>
-<td>Mellem opholdsrum med dørforbindelse samt mellem opholdsrum og øvrige rum med dørforbindelse (samlet lydisolation for væg med dør mv.)</td>
-<td>≥ 30 dB</td>
+<td>Mellem opholdsrum med dørforbindelse samt mellem opholdsrum og øvrige rum med dørforbindelse (samlet lydisolation for væg med dør mv.) </td>
+<td>≥ 30 dB </td>
 </tr>
 <tr>
-<td>Mellem opholdsrum og tilgrænsende rum i erhvervsenheder eller i andre undervisnings- eller daginstitutioner</td>
-<td>≥ 60 dB</td>
+<td>Mellem opholdsrum og tilgrænsende rum i erhvervsenheder eller i andre undervisnings- eller daginstitutioner </td>
+<td>≥ 60 dB </td>
 </tr>
 <tr>
-<td><strong>Trinlydniveau </strong>     <strong>[4]</strong></td>
-<td><strong><em>L</em></strong>’<strong><em><sub>n,w</sub></em></strong></td>
+<td><strong>Trinlydniveau</strong>      <strong>[4]</strong> </td>
+<td><strong><em>L’<sub>n,w</sub></em></strong></td>
 </tr>
 <tr>
-<td>I opholdsrum (fra gulve i overliggende rum) og i opholdsrum for stille aktiviteter (fra alle gulve)</td>
-<td>≤ 58 dB</td>
+<td><p>I opholdsrum (fra gulve i overliggende rum) og i opholdsrum for stille aktiviteter (fra alle gulve)</p></td>
+<td>≤ 58 dB </td>
 </tr>
 <tr>
-<td>I opholdsrum (fra gulve i rum på samme etage)</td>
-<td>≤ 63 dB</td>
+<td>I opholdsrum (fra gulve i rum på samme etage) </td>
+<td>≤ 63 dB </td>
 </tr>
 <tr>
-<td>I opholdsrum fra gulve og dæk i tilgrænsende rum i erhvervsenheder eller i andre undervisnings- eller daginstitutioner</td>
+<td>I opholdsrum fra gulve og dæk i tilgrænsende rum i erhvervsenheder eller i andre undervisnings- eller daginstitutioner </td>
 <td>≤ 48 dB<br />
 </td>
 </tr>
 </tbody>
 </table>
 
-[4.3](../stoej-indendoers-fra-trafik-i-daginstitutionsbygninger/)
+<span id="stj-indendrs-fra-trafik-i-daginstitutionsbygninger"></span>
 
-### Støj indendørs fra trafik i daginstitutionsbygninger
+### 4.3 Støj indendørs fra trafik i daginstitutionsbygninger {#260ed0d3-ae7e-4319-9b3f-245014fb85e4}
 
-[4.4](../stoej-fra-tekniske-installationer-i-daginstitutionsbygninger/)
+<span id="stj-fra-tekniske-installationer-i-daginstitutionsbygninger"></span>
 
-### Støj fra tekniske installationer i daginstitutionsbygninger
+### 4.4 Støj fra tekniske installationer i daginstitutionsbygninger {#76725ae1-5721-442b-8968-6204a1cd5e7b}
 
-[4.5](../rumakustik-i-daginstitutionsbygninger/)
+<span id="rumakustik-i-daginstitutionsbygninger"></span>
 
-### Rumakustik i daginstitutionsbygninger
-
+### 4.5 Rumakustik i daginstitutionsbygninger {#dd0f6c4b-6b64-4dcc-95d6-f3bac962e516}

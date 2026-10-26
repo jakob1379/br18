@@ -9,4 +9,3 @@ Ophævet
 ### § 530 {#paragraf-530}
 
 Ophævet
-

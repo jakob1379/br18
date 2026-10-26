@@ -2,19 +2,21 @@
 
 ## Se alle vejledninger om Energiforbrug og klimapåvirkning (§ 250 - § 298)
 
-- [Spørgsmål og svar om energiforbrug](../../qa)
-- [Spørgsmål og svar om bygningers klimapåvirkning](../../spoergsmaal-og-svar-om-bygningers-klimapaavirkning)
-- [Bygningsreglementets vejledning om energiforbrug](./)
-- [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner)
-- [Vejledning om funktionsafprøvning](../../version-2-funktionsafprovning)
-- [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov)
-- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../../bygningers-klimapaavirkning-1-juli-2025)
-- [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler)
-- [Eksempelsamling for energi](../../eksempelsamling)
+- [Spørgsmål og svar om energiforbrug](../../qa/)
+- [Spørgsmål og svar om bygningers klimapåvirkning](../../spoergsmaal-og-svar-om-bygningers-klimapaavirkning/)
+- [Bygningsreglementets vejledning om energiforbrug](../)
+- [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner/)
+- [Vejledning om funktionsafprøvning](../../version-2-funktionsafprovning/)
+- [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov/)
+- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../../bygningers-klimapaavirkning-1-juli-2025/)
+- [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler/)
+- [Eksempelsamling for energi](../../eksempelsamling/)
 
 ## Bygningsreglementets vejledning om energiforbrug
 
-### Forord
+<span id="forord"></span>
+
+### Forord {#e4a4aefb-350b-4266-827e-1508450a3f72}
 
 ### 1.0. Generelt {#5d0fd3cc-01f4-4dbe-bf46-d43a912b077e}
 
@@ -62,8 +64,6 @@ I bygningsreglementets krav til bygningsdelene skelnes der mellem følgende situ
 
 Reparationer dækker over mindre ændringer, der ikke udløser krav om gennemførelse af rentable energibesparelser. Det er typisk mindre arbejder, som for eksempel pudsreparation af en facade, udskiftning af enkelte brædder på en facade eller malerbehandling. Ved skader efter f.eks. en storm, et rørbrud eller en mindre rådskade, hvor størstedelen af bygningsdelen ikke er omfattet, vil der i de fleste tilfælde være tale om mindre reparationer.
 
-###
-
 ![](../../../../../media/uuqlpcxb/kap11_brv_4_00_energikrav_ved_ombygning.svg)
 
 Energikrav ved ombygning
@@ -78,8 +78,6 @@ Eksempler på arbejder, hvor der skal foretages rentabel isolering, er:
 >
 > •  Lægning af ny tagpapdækning i form af ny tagdug eller overpap på eksisterende tag.
 
-###
-
 ![](../../../../../media/ytvnf1kw/kap11_brv_4_00_eksempler_paa_arbejder_hvor_der_skal_foretages_rentabel_isolering.svg)
 
 Eksempler på arbejder hvor der skal foretages rentabel isolering
@@ -90,75 +88,74 @@ I beregningen af rentabiliteten indgår kun materialer og arbejdsløn ved det en
 
 Ved evaluering af rentabilitet i eksisterende bygningskonstruktioner med hulrum, for eksempel tage, hvor der er plads til yderligere isolering uden ændringer af konstruktioner skal det først evalueres om opfyldning af hulrum er rentabelt. Det vil det ofte være og tiltaget skal derfor gennemføres, hvis det fugtteknisk kan lade sig gøre. Dernæst skal det evalueres om ændring af konstruktionen, for eksempel forhøjelse af taget, er rentabel. Her tages der udgangspunkt i en konstruktion, hvor merisoleringen i hulrummet allerede er foretaget. Det kan f.eks. være tilfældet på en skråvæg, hvor spæret skal forhøjes for, at der kan blive plads til den isolering, som bygningsreglementet stiller krav om. Her skal det først vurderes om der kan monteres mere isolering i skråvæggen uden forhøjelse af spæret og dernæst skal forhøjelse af spæret evalueres. Hvert trin evalueres hver for sig. De rentable dele af tiltaget skal gennemføres.
 
-###
-
 ![](../../../../../media/wj3dgcqy/kap11_brv_4_00_energikrav_ved_udskriftning_af_bygningsdele.svg)
 
-Udskiftning er, hvis hele bygningsdelen udskiftes. Det kan for eksempel være en hel tagkonstruktion, inklusiv tagdækning, spær, isolering og loft, eller det kan være komponenter, der udskiftes, som for eksempel vinduer eller en kedel. Ved udskiftning skal konstruktionen eller komponenten leve op til kravene i [§279](../../../krav/274_279 "274_279") og installationsemnerne. Der kan dog være forhold, der gør at udskiftningen ikke kan gennemføres uden uforholdsmæssige meromkostninger på de omkringliggende konstruktioner. I disse tilfælde er der ikke krav om fuld isolering, men hvis der kan isoleres til et lavere niveau skal dette gennemføres. Dette vil for eksempel være tilfældet, hvis der skal understøbes fundamenter for at gulvkonstruktionen kan isoleres svarende til kravet. I dette tilfælde skal der i stedet isoleres svarende til det niveau, der kan opnås uden understøbning. Tilsvarende skal kravet til linjetab omkring vinduer ikke overholdes ved udskiftning af vinduer uden samtidig renovering af ydervæg. Kravet gælder alene vinduet.
+Udskiftning er, hvis hele bygningsdelen udskiftes. Det kan for eksempel være en hel tagkonstruktion, inklusiv tagdækning, spær, isolering og loft, eller det kan være komponenter, der udskiftes, som for eksempel vinduer eller en kedel. Ved udskiftning skal konstruktionen eller komponenten leve op til kravene i [§279](../../../krav/274_279/ "274_279") og installationsemnerne. Der kan dog være forhold, der gør at udskiftningen ikke kan gennemføres uden uforholdsmæssige meromkostninger på de omkringliggende konstruktioner. I disse tilfælde er der ikke krav om fuld isolering, men hvis der kan isoleres til et lavere niveau skal dette gennemføres. Dette vil for eksempel være tilfældet, hvis der skal understøbes fundamenter for at gulvkonstruktionen kan isoleres svarende til kravet. I dette tilfælde skal der i stedet isoleres svarende til det niveau, der kan opnås uden understøbning. Tilsvarende skal kravet til linjetab omkring vinduer ikke overholdes ved udskiftning af vinduer uden samtidig renovering af ydervæg. Kravet gælder alene vinduet.
 
 Der henvises til Bygningsreglementets vejledning om efterisolering, der indeholder yderligere uddybninger af ombygningskravene og indeholder en række eksempelkonstruktioner, der er regnet igennem generisk. Disse beregninger kan benyttes som rettesnor. Hvis beregningen i vejledningen om efterisolering viser at en efterisolering ikke er rentabel, så behøver man ikke at lave en beregning på det konkrete byggeri, men kan bruge eksemplet i vejledningen som dokumentation.
 
  Levetider der normalt kan anvendes ved beregning af rentabiliteten:
 
-<table style="width:99%;">
+<table>
 <colgroup>
-<col style="width: 72%" />
-<col style="width: 26%" />
+<col style="width: 50%" />
+<col style="width: 50%" />
 </colgroup>
 <tbody>
 <tr>
-<td style="text-align: left;">Energibesparende tiltag </td>
-<td style="text-align: left;">Levetid [år]</td>
+<td>Energibesparende tiltag </td>
+<td>Levetid [år] </td>
 </tr>
 <tr>
-<td style="text-align: left;">Efterisolering af bygningsdele<br />
+<td>Efterisolering af bygningsdele<br />
 </td>
-<td style="text-align: left;">40</td>
+<td>40<br />
+</td>
 </tr>
 <tr>
-<td style="text-align: left;">Vinduer samt forsatsrammer og koblede rammer<br />
+<td>Vinduer samt forsatsrammer og koblede rammer<br />
 </td>
-<td style="text-align: left;">30</td>
+<td>30</td>
 </tr>
 <tr>
-<td style="text-align: left;">Varmeanlæg, radiatorer og gulvvarme samt ventilationskanaler og armaturer inklusive isolering<br />
+<td>Varmeanlæg, radiatorer og gulvvarme samt ventilationskanaler og armaturer inklusive isolering<br />
 </td>
-<td style="text-align: left;">30</td>
+<td>30</td>
 </tr>
 <tr>
-<td style="text-align: left;">Varmeproducerende anlæg mv., f.eks. kedler, varmepumper, solvarmeanlæg, ventilationsaggregater<br />
+<td>Varmeproducerende anlæg mv., f.eks. kedler, varmepumper, solvarmeanlæg, ventilationsaggregater<br />
 </td>
-<td style="text-align: left;">20</td>
+<td>20</td>
 </tr>
 <tr>
-<td style="text-align: left;">Belysningsarmaturer<br />
+<td>Belysningsarmaturer<br />
 </td>
-<td style="text-align: left;">15</td>
+<td>15</td>
 </tr>
 <tr>
-<td style="text-align: left;">Automatik til varme og klimaanlæg<br />
+<td>Automatik til varme og klimaanlæg<br />
 </td>
-<td style="text-align: left;">15</td>
+<td>15</td>
 </tr>
 <tr>
-<td style="text-align: left;">Fugetætningsarbejder<br />
+<td>Fugetætningsarbejder<br />
 </td>
-<td style="text-align: left;">10</td>
+<td>10</td>
 </tr>
 </tbody>
 </table>
 
 Der kan gennemføres bygningsmæssige ændringer, der medfører et forøget energiforbrug, hvis der gennemføres tilsvarende kompenserende energibesparelser. Denne bestemmelse finder f.eks. anvendelse, hvis der ønskes etableret nye vinduespartier i facaden eller i taget. Den manglende energimæssige ydeevne dækkes f.eks. ved merisolering, solvarmeanlæg, varmepumpeanlæg eller solceller.
 
-###
-
 ![](../../../../../media/bn4p4ej5/kap11_brv_4_00_levetider_rentabilitet.svg)
 
 Levetider der kan anvendes ved beregning af rentabiliteten
 
--  [Gå til energikrav ved ombygninger og udskiftning af bygningsdele (§ 274 - § 279)](../../../krav/274_279#afb229c4-65a2-4b7d-8613-8fe584c21e25){target="_blank"}
+- [Gå til energikrav ved ombygninger og udskiftning af bygningsdele (§ 274 - § 279)](../../../krav/274_279/#afb229c4-65a2-4b7d-8613-8fe584c21e25){target="_blank"}
 
 Kravet til U-værdi for lystunneler eller lignende gælder for gennembrydningen af den isolerede flade, som lystunnelen er indsat i. Det kunne for eksempel være lysfordeleren i et isoleret loft. U-værdien skal dokumenteres i henhold til DS/EN 10077-1.
+
+<span id="_1"></span><span id="_2"></span><span id="_3"></span><span id="_4"></span>
 
 ### 4.1. Fredede og bevaringsværdige bygninger {#3aac1332-4e3e-4198-8dcc-953807b0cf0b}
 
@@ -195,4 +192,3 @@ Kravet til U-værdi for lystunneler eller lignende gælder for gennembrydningen 
 ### 9.5. Eksempler på energibehov {#3058d94d-a8e8-4740-8b79-8e25740686c7}
 
 ### 9.6. Krav til bygningsautomatikken {#3a095cce-b7d0-4e11-837e-7194d984e382}
-

@@ -2,16 +2,18 @@
 
 ## Se alle vejledninger om Lydforhold (§ 368 - § 376)
 
-- [Bygningsreglementets vejledning om lydforhold](..)
-- [- Vejledning til boliger og andre bygninger til overnatning](../../boliger)
-- [- Vejledning til undervisningsbygninger](../../undervisningsbygninger)
-- [- Vejledning til daginstitutionsbygninger](../../daginstitutionsbygninger)
-- [- Vejledning til kontorbyggeri](../../kontorbygninger)
-- [- Vejledning til hospitaler, lægehuse og klinikker](../../hospitaler-laegehuse-og-klinikker)
+- [Bygningsreglementets vejledning om lydforhold](../)
+- [- Vejledning til boliger og andre bygninger til overnatning](../../boliger/)
+- [- Vejledning til undervisningsbygninger](../../undervisningsbygninger/)
+- [- Vejledning til daginstitutionsbygninger](../../daginstitutionsbygninger/)
+- [- Vejledning til kontorbyggeri](../../kontorbygninger/)
+- [- Vejledning til hospitaler, lægehuse og klinikker](../../hospitaler-laegehuse-og-klinikker/)
 
 ## Bygningsreglementets vejledning om lydforhold
 
-### Forord
+<span id="forord"></span>
+
+### Forord {#f8f28711-8be8-4539-ba26-9a8f0b1e4f41}
 
 ### 1.0 Generelt for bestemmelserne om lydforhold (§§ 368 - 376) {#0bbdae59-0484-4bd1-b5f8-4e14c23f4e45}
 
@@ -23,18 +25,21 @@
 
 ### 1.4 Kontrol af lydforhold ved målinger eller beregninger {#d750339f-fef1-48b9-a6e4-447d929d3e25}
 
+<span id="_1"></span>
+
 ### 1.5 Referenceliste {#9a559514-a587-4dd6-8fc9-adf1ba729a5a}
 
 I de følgende publikationer er det muligt at finde yderligere information om lydbestem­melser i og omkring bygninger til boliger, undervisnings- og daginstitutioner og andre formål.
 
-**Referencer til de publikationer, der henvises til i denne vejledning og i Bygnings-<br />
-reglementets afsnit om akustisk indeklima, er gengivet her:**
+**Referencer til de publikationer, der henvises til i denne vejledning og i Bygnings-**
+
+**reglementets afsnit om akustisk indeklima, er gengivet her:**
 
 \[1\]      Bygningsreglement 2018. BR2018.
 
 \[2\]      DS 490:2018: *Lydklassifikation af boliger*.
 
-\[3\]      SBi-anvisning 272 (2020): *Anvisning om Bygningsreglement 2018 *(2. udg.).
+\[3\]      SBi-anvisning 272 (2020): *Anvisning om Bygningsreglement 2018* (2. udg.).
 
 \[4\]      SBi-anvisning 218 (2008): *Lydforhold i undervisnings- og daginstitutionsbygninger - Lydbestemmelser og anbefalinger*.
 
@@ -62,7 +67,9 @@ reglementets afsnit om akustisk indeklima, er gengivet her:**
 
 \[15\]    SBi-anvisning 244 (2014): *Lydisolering af klimaskærmen*.
 
-Inspiration til fastlæggelse af projekteringsværdier i kontorbyggeri, hospitaler mv. kan fx findes i:
+Inspiration til fastlæggelse af projekteringsværdier i kontorbyggeri, hospitaler mv. kan fx
+
+findes i:
 
 \[16\]    NS 8175:2019: *Lydforhold i bygninger, Lydklassifisering for ulike bygningstyper*, Norge.
 
@@ -84,10 +91,10 @@ DS/EN ISO 10052:2021: *Akustik - Måling af luftlyd- og trinlydisolation samt st
 
 DS/EN ISO 12354-1:2017: *Bygningsakustik. Beregning af bygningers akustiske egenskaber ud fra bygningselementers egenskaber. Del 1: Luftlydisolation mellem rum*.
 
-DS/EN ISO 12354-2:2017: *Bygningsakustik. Beregning af bygningers akustiske egenskaber ud fra *bygningselementers* egenskaber. Del 2: Trinlydisolation mellem rum*.
+DS/EN ISO 12354-2:2017: *Bygningsakustik. Beregning af bygningers akustiske egenskaber ud fra* bygningselementers *egenskaber. Del 2: Trinlydisolation mellem rum*.
 
-DS/EN ISO 12354-3:2017: *Bygningsakustik. Beregning af bygningers akustiske egenskaber ud fra *bygningselementers* egenskaber. Del 3: Luftlydisolation mod udefra kommende støj*.
+DS/EN ISO 12354-3:2017: *Bygningsakustik. Beregning af bygningers akustiske egenskaber ud fra* bygningselementers *egenskaber. Del 3: Luftlydisolation mod udefra kommende støj*.
 
-DS/EN 12354-6:2004: *Bygningsakustik - Beregning af bygningers akustiske egenskaber ud fra *bygningselementernes* egenskaber - Del 6: Lydabsorption i lukkede rum*
+DS/EN 12354-6:2004: *Bygningsakustik - Beregning af bygningers akustiske egenskaber ud fra* bygningselementernes *egenskaber - Del 6: Lydabsorption i lukkede rum*
 
 DS/EN ISO 3382-2:2008: *Akustik - Måling af rumakustiske parametre - Del 2: Efterklangstid i almindelige rum*. Amendment DS/EN ISO 3382-2/AC:2009

@@ -1,20 +1,24 @@
 # Bilag 1: Tabeller til kapitel 5 - Brandforhold
 
-## Tabel 1 - Anvendelseskategorier
+<span id="tabel-1-anvendelseskategorier"></span>
 
-## Tabel 2 - Risikoklasser
+## Tabel 1 - Anvendelseskategorier {#c25b067b-8b9d-411a-8332-be21031a8c82}
 
-<table style="width:100%;">
+<span id="tabel-2-risikoklasser"></span>
+
+## Tabel 2 - Risikoklasser {#5c43982a-3b55-4852-a797-66a52342c7bf}
+
+<table>
 <colgroup>
-<col style="width: 8%" />
-<col style="width: 13%" />
-<col style="width: 78%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
 </colgroup>
 <tbody>
 <tr>
 <td> Risikoklasse<br />
 </td>
-<td>Bygningsafsnit i anvendelses-kategori</td>
+<td>Bygningsafsnit i anvendelses-kategori </td>
 <td>Bygningens udformning, bygningsafsnits placering over terræn, samlet antal personer i bygningsafsnit med fælles flugtveje og brandbelastning<br />
 </td>
 </tr>
@@ -49,7 +53,7 @@ eller<br />
 bygninger eller bygningsafsnit i bygninger med højst 1 etage over terræn og højst 1 etage under terræn, hvor gulv er højst 5,0 m under terræn, og hvor brandbelastningen i bygningsafsnittet kan være større end 1.600 MJ/m² gulvareal<br />
 eller<br />
 bygningsafsnit højst 1 etage under terræn, i bygninger, hvor ingen bygningsafsnit er indplaceret i risikoklasse 4, og hvor gulv er højst 5,0 m under terræn.<br />
-</td>
+ </td>
 </tr>
 <tr>
 <td> 2</td>
@@ -59,9 +63,9 @@ bygningsafsnit placeret 1 etage under terræn, hvor gulv er højst 5,0 m under t
 </tr>
 <tr>
 <td> 3</td>
-<td>Bygningsafsnit placeret i terrænniveau i højst 1 etage, i bygninger med gulv i øverste etage højst 45,0 m over terræn, hvor antallet af personer i bygningsafsnittet er højst 1.000<br />
+<td><p>Bygningsafsnit placeret i terrænniveau i højst 1 etage, i bygninger med gulv i øverste etage højst 45,0 m over terræn, hvor antallet af personer i bygningsafsnittet er højst 1.000<br />
 eller<br />
-bygningsafsnit højst 1 etage under terræn, i bygninger hvor ingen bygningsafsnit er indplaceret i risikoklasse 4, hvor gulv er højst 5,0 m under terræn, og hvor antallet af personer i bygningsafsnittet er højst 1.000.</td>
+bygningsafsnit højst 1 etage under terræn, i bygninger hvor ingen bygningsafsnit er indplaceret i risikoklasse 4, hvor gulv er højst 5,0 m under terræn, og hvor antallet af personer i bygningsafsnittet er højst 1.000.</p></td>
 </tr>
 <tr>
 <td> 4</td>
@@ -105,9 +109,9 @@ bygningsafsnit højst 1 etage under terræn, i bygninger hvor ingen bygningsafsn
 </tr>
 <tr>
 <td> 6</td>
-<td>Bygninger eller bygningsafsnit placeret i højst 2 etager over terræn, hvis gulv i bygningens øverste etage er højst 45,0 m over terræn<br />
+<td><p>Bygninger eller bygningsafsnit placeret i højst 2 etager over terræn, hvis gulv i bygningens øverste etage er højst 45,0 m over terræn<br />
 eller<br />
-bygningsafsnit højst 1 etage under terræn, i bygninger hvor ingen bygningsafsnit er indplaceret i risikoklasse 4, og hvor gulv er højst 5,0 m under terræn.</td>
+bygningsafsnit højst 1 etage under terræn, i bygninger hvor ingen bygningsafsnit er indplaceret i risikoklasse 4, og hvor gulv er højst 5,0 m under terræn.</p></td>
 </tr>
 <tr>
 <td> 4</td>
@@ -118,4 +122,6 @@ bygningsafsnit højst 1 etage under terræn, i bygninger hvor ingen bygningsafsn
 </tbody>
 </table>
 
-## Tabel 3 - Indplacering i brandklasser
+<span id="tabel-3-indplacering-i-brandklasser"></span>
+
+## Tabel 3 - Indplacering i brandklasser {#c9f55109-3cbe-44c0-bf54-2f2527f9f738}

@@ -14,9 +14,7 @@ Boliger, kollegier, hoteller og lignende kan klassificeres som lavenergiklasse, 
 
 Andre bygninger end boliger, der ikke er omfattet af § 474, kan klassificeres som lavenergiklasse, når det samlede behov for tilført energi til opvarmning, ventilation, køling, varmt brugsvand og belysning pr. m² opvarmet etageareal ikke overstiger 33,0 kWh/m^2^ pr. år.
 
-*Stk. 2.* For bygninger eller bygningsafsnit i lavenergiklasse med behov for f.eks. et højt belysningsniveau, ekstra meget ventilation, et stort forbrug af varmt brugsvand, eller lang benyttelsestid eller bygninger med stor rumhøjde forhøjes energirammen med et tillæg, der modsvarer det beregnede energiforbrug hertil. Tillægget skal beregnes i henhold til SBi 213 Bygningers energibehov.
-
-[![](../../../../assets/img/linkbox/sbi_anv_linkbox.svg)](# "#title")
+*Stk. 2.* For bygninger eller bygningsafsnit i lavenergiklasse med behov for f.eks. et højt belysningsniveau, ekstra meget ventilation, et stort forbrug af varmt brugsvand, eller lang benyttelsestid eller bygninger med stor rumhøjde forhøjes energirammen med et tillæg, der modsvarer det beregnede energiforbrug hertil. Tillægget skal beregnes i henhold til SBi 213 Bygningers energibehov. [![](../../../../assets/img/linkbox/sbi_anv_linkbox.svg)](#)
 
 ### SBi-Anvisning 213
 
@@ -26,7 +24,7 @@ Bygningers energibehov
 
 ​Anvisningen beskriver, hvordan man bruger beregningsprogrammet Be15 til beregning af bygningers energibehov. Programmet skal bruges, når man skal eftervise, at en bygning opfylder energibestemmelserne i bygningsreglementet. Anvisning og beregningsprogram henvender sig til rådgivende ingeniører, arkitekter, entreprenører, andre projekterende og udførende inden for byggeri samt til offentlige myndigheder.
 
-### [Find SBi-Anvisning 213 på Statens Byggeforskningsinstituts (SBi) hjemmeside her](https://sbi.dk/anvisninger/Pages/213-Bygningers-energibehov-4.aspx "SBi-Anvisning 213"){target="_blank"}
+### Find SBi-Anvisning 213 på Statens Byggeforskningsinstituts (SBi) hjemmeside her [](https://sbi.dk/anvisninger/Pages/213-Bygningers-energibehov-4.aspx "SBi-Anvisning 213"){target="_blank"}
 
 Anvisning og beregningsprogram er betalingsbelagt.
 

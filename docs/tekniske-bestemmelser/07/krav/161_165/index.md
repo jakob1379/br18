@@ -55,4 +55,3 @@ Byggearbejder må ikke medføre uacceptable gener på anden grund. Det skal ved 
 ### § 165 {#paragraf-165}
 
 Ved udførelse af byggearbejder skal der træffes de foranstaltninger, som af hensyn til klimatiske forhold, såsom sne, regn og kulde, er nødvendige for at beskytte fugtfølsomme materialer, og så det sikres, at der ikke indbygges fugt i bygningen under opførelsen.
-

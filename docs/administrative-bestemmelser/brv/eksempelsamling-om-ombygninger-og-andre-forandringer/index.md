@@ -2,27 +2,29 @@
 
 ## Se alle vejledninger om Administrative bestemmelser (§ 1 - § 47)
 
-- [Spørgsmål og svar](../spoergsmaal-og-svar)
-- [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../spoergsmaal-og-svar-ve-anlaeg)
-- [Vejledning om byggesagsbehandling efter BR18](../vejledning-om-byggesagsbehandling-efter-br18)
-- [Vejledning om ombygninger og brug af certificerede rådgivere i relation til ændring af BR18 d. 10. marts 2020](../vejledning-om-ombygning-og-brug-af-certificerede-raadgivere)
+- [Spørgsmål og svar](../spoergsmaal-og-svar/)
+- [Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)](../spoergsmaal-og-svar-ve-anlaeg/)
+- [Vejledning om byggesagsbehandling efter BR18](../vejledning-om-byggesagsbehandling-efter-br18/)
+- [Vejledning om ombygninger og brug af certificerede rådgivere i relation til ændring af BR18 d. 10. marts 2020](../vejledning-om-ombygning-og-brug-af-certificerede-raadgivere/)
 - [Eksempelsamling om ombygninger og andre forandringer - For etageboligbyggeri samt enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse](./)
-- [Vejledning i kommunernes stikprøvekontrol i tilgængelighed](../stikprovekontrol-tilgaengelighed)
-- [Vejledning om brug af brand og konstruktionsklasser](../vejledning-om-brug-af-brand-og-konstruktionsklasser)
-- [Vejledning om opførelse af sekundær bebyggelse med et samlet areal på højst 50 m2](../sekundaer-bebyggelse)
-- [Vejledning til kommunerne om krav til parkering i forbindelse med byggeri](../vejledning-om-parkering)
-- [Vejledning om skorstene og kravet om byggetilladelse](../vejledning-om-skorstene-og-kravet-om-byggetilladelse)
-- [Vejledning om transportable telte og konstruktioner](../transportable-telte-og-konstruktioner)
-- [Vejledning om lovliggørelse af ulovligt byggeri](../vejledning-om-lovliggorelse)
-- [Vejledning om byggeri over skel](../vejledning-om-byggeri_over_skel)
-- [Vejledning om gebyr for kommunernes sagsbehandling på byggeområdet](../gebyr)
-- [Vejledning om udnyttelige tagetager](../udnyttelige-tagetager)
-- [Dokumentation af bygningsreglementets tekniske bestemmelser i forbindelse med færdigmelding af byggeriet](../dokumentationsvejledning)
-- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../temasiden-brandogkonstruktioner-dk)
+- [Vejledning i kommunernes stikprøvekontrol i tilgængelighed](../stikprovekontrol-tilgaengelighed/)
+- [Vejledning om brug af brand og konstruktionsklasser](../vejledning-om-brug-af-brand-og-konstruktionsklasser/)
+- [Vejledning om opførelse af sekundær bebyggelse med et samlet areal på højst 50 m2](../sekundaer-bebyggelse/)
+- [Vejledning til kommunerne om krav til parkering i forbindelse med byggeri](../vejledning-om-parkering/)
+- [Vejledning om skorstene og kravet om byggetilladelse](../vejledning-om-skorstene-og-kravet-om-byggetilladelse/)
+- [Vejledning om transportable telte og konstruktioner](../transportable-telte-og-konstruktioner/)
+- [Vejledning om lovliggørelse af ulovligt byggeri](../vejledning-om-lovliggorelse/)
+- [Vejledning om byggeri over skel](../vejledning-om-byggeri_over_skel/)
+- [Vejledning om gebyr for kommunernes sagsbehandling på byggeområdet](../gebyr/)
+- [Vejledning om udnyttelige tagetager](../udnyttelige-tagetager/)
+- [Dokumentation af bygningsreglementets tekniske bestemmelser i forbindelse med færdigmelding af byggeriet](../dokumentationsvejledning/)
+- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../temasiden-brandogkonstruktioner-dk/)
 
 ## Eksempelsamling om ombygninger og andre forandringer - For etageboligbyggeri samt enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse
 
-### Kolofon
+<span id="kolofon"></span>
+
+### Kolofon {#f68306c1-c41e-401a-aab2-adb31d6bb0e3}
 
 **Eksempelsamling om ombygninger og andre forandringer - For etageboligbyggeri samt enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse.**   Opdateret januar 2021.
 
@@ -32,7 +34,7 @@ Denne vejledning indeholder eksempler på ombygninger og andre forandringer i et
 
 For de ombygninger og forandringer, der kræver byggetilladelse, angives det også, om det er relevant at indplacere byggearbejdet i en konstruktionsklasse og/eller brandklasse, og hvorvidt det er nødvendigt at tilknytte certificerede rådgivere, herunder en certificeret statiker og/eller brandrådgiver.
 
-For mere generel vejledning om ombygninger og andre forandringer henvises der til *[vejledning om ombygning og brug af certificerede rådgivere i relation til ændring af BR18 d. 10. marts 2020.](../vejledning-om-ombygning-og-brug-af-certificerede-raadgivere)*
+For mere generel vejledning om ombygninger og andre forandringer henvises der til *[vejledning om ombygning og brug af certificerede rådgivere i relation til ændring af BR18 d. 10. marts 2020.](../vejledning-om-ombygning-og-brug-af-certificerede-raadgivere/)*
 
 ### 1 Generelt {#21495b6f-78b7-4e10-9743-4c47b41ae9d4}
 
@@ -66,7 +68,7 @@ I nedenstående afsnit er de forskellige elementer i bygningsreglementets ombygn
 
 ### 1.1.1 Ændring af de bærende konstruktioners virkemåde
 
-Ombygninger og andre forandringer omfattet af BR18, § 5, stk. 1 nr. 4, må ikke medføre ændringer af de bærende konstruktioners virkemåde eller indføre nye bærende konstruktioner. Hvordan dette vurderes er nærmere beskrevet i bygningsreglementets *[vejledning om ombygninger og brug af certificerede rådgivere.](../vejledning-om-ombygning-og-brug-af-certificerede-raadgivere)*
+Ombygninger og andre forandringer omfattet af BR18, § 5, stk. 1 nr. 4, må ikke medføre ændringer af de bærende konstruktioners virkemåde eller indføre nye bærende konstruktioner. Hvordan dette vurderes er nærmere beskrevet i bygningsreglementets *[vejledning om ombygninger og brug af certificerede rådgivere.](../vejledning-om-ombygning-og-brug-af-certificerede-raadgivere/)*
 
 Vær opmærksom på, at nyt etagebyggeri kan være mere kompliceret end ældre etagebyggeri i forhold til at vurdere, hvorvidt de bærende konstruktioners virkemåde ændres.
 
@@ -74,27 +76,25 @@ Ved tvivl kan det være en fordel som bygningsejer at involvere en håndværker 
 
 ### 1.1.2 Ændring af forudsætningerne for de brandmæssige forhold
 
-Ombygninger og andre forandringer omfattet af BR18, § 5, stk. 1 nr. 4, må ikke medføre ændring af forudsætningerne for de brandmæssige forhold. Hvordan dette vurderes er nærmere beskrevet i bygningsreglementets *[vejledning om ombygninger og brug af certificerede rådgivere.](../vejledning-om-ombygning-og-brug-af-certificerede-raadgivere)*
+Ombygninger og andre forandringer omfattet af BR18, § 5, stk. 1 nr. 4, må ikke medføre ændring af forudsætningerne for de brandmæssige forhold. Hvordan dette vurderes er nærmere beskrevet i bygningsreglementets *[vejledning om ombygninger og brug af certificerede rådgivere.](../vejledning-om-ombygning-og-brug-af-certificerede-raadgivere/)*
 
 Ved tvivl kan det være en fordel som bygningsejer at involvere en håndværker eller anden rådgiver, der kan vurdere forudsætningerne for de brandmæssige forhold.
 
 ### 1.1.3 Udvidelse af etagearealet
 
-Ombygninger og andre forandringer omfattet af BR18, § 5, stk. 1 nr. 3 og 4, må ikke medføre en udvidelse af etagearealet. Etagearealet er her det samlede etageareal, der i denne forbindelse forstås som det areal, der opstår ved, at arealet af samtlige etager og al anden bebyggelse på grunden sammenlægges. Dette omfatter bl.a. arealet for kældre, åbne altaner, åbne tagterrasser mv. Det samlede etageareal er ikke nødvendigvis det samme som det etageareal, der indgår i beregningen af bebyggelsesprocenten, hvor der her er mulighed for en række fradrag, jf. BR18, § 455. Hvordan det samlede etageareal beregnes, er nærmere beskrevet i bygningsreglementets *[vejledning til kapitel 8 - byggeret og helhedsvurdering, kapitel 20 – ubebyggede arealer ved bebyggelse og kapitel 23 – beregningsregler.](../../../tekniske-bestemmelser/08/vejledninger/byggeret_helhedsvurdering_ubebyggede_beregningsregler)*
-
-
+Ombygninger og andre forandringer omfattet af BR18, § 5, stk. 1 nr. 3 og 4, må ikke medføre en udvidelse af etagearealet. Etagearealet er her det samlede etageareal, der i denne forbindelse forstås som det areal, der opstår ved, at arealet af samtlige etager og al anden bebyggelse på grunden sammenlægges. Dette omfatter bl.a. arealet for kældre, åbne altaner, åbne tagterrasser mv. Det samlede etageareal er ikke nødvendigvis det samme som det etageareal, der indgår i beregningen af bebyggelsesprocenten, hvor der her er mulighed for en række fradrag, jf. BR18, § 455. Hvordan det samlede etageareal beregnes, er nærmere beskrevet i bygningsreglementets *[vejledning til kapitel 8 - byggeret og helhedsvurdering, kapitel 20 – ubebyggede arealer ved bebyggelse og kapitel 23 – beregningsregler.](../../../tekniske-bestemmelser/08/vejledninger/byggeret_helhedsvurdering_ubebyggede_beregningsregler/)*
 
 ### 1.1.4 Væsentlig anvendelsesændring
 
-Ombygninger og andre forandringer omfattet af BR18, § 5, stk. 1 nr. 3 og 4, må ikke medføre en væsentlig anvendelsesændring. En væsentlig anvendelsesændring er f.eks. en ændring i anvendelsen fra bolig til erhverv. Væsentlige anvendelsesændringer er nærmere beskrevet i bygningsreglementets *[vejledning om byggesagsbehandling efter BR18](../vejledning-om-byggesagsbehandling-efter-br18)*.
+Ombygninger og andre forandringer omfattet af BR18, § 5, stk. 1 nr. 3 og 4, må ikke medføre en væsentlig anvendelsesændring. En væsentlig anvendelsesændring er f.eks. en ændring i anvendelsen fra bolig til erhverv. Væsentlige anvendelsesændringer er nærmere beskrevet i bygningsreglementets *[vejledning om byggesagsbehandling efter BR18](../vejledning-om-byggesagsbehandling-efter-br18/)*.
 
 ### 1.2 Krav til konstruktions- og brandforhold {#c67e186d-c5c0-429e-820b-7176d3a9d547}
 
 Ombygninger og andre forandringer, der er omfattet af BR18, er ligeledes omfattet af en række tekniske krav til bl.a. brand- og konstruktionsforhold for selve byggearbejdet og det der påvirkes heraf. Dette gør sig gældende både for ombygninger og forandringer, der kræver byggetilladelse, og dem der kan udføres uden ansøgning om byggetilladelse.
 
-I forhold til konstruktionsforhold, er det ved ombygninger og andre forandringer kun de konstruktioner, der berøres af byggearbejdet, der skal følge bestemmelserne i det nugældende bygningsreglement. Øvrige eksisterende konstruktioner, der ikke berøres, kan fortsat benyttes uændret i overensstemmelse med reglerne på ansøgningstidspunktet for byggetilladelse eller senere relevante byggetilladelser. Dette er nærmere beskrevet i bygningsreglementets *[vejledning til kapitel 15 – konstruktioner](../../../tekniske-bestemmelser/15/vejledninger/generel_vejledning)*.
+I forhold til konstruktionsforhold, er det ved ombygninger og andre forandringer kun de konstruktioner, der berøres af byggearbejdet, der skal følge bestemmelserne i det nugældende bygningsreglement. Øvrige eksisterende konstruktioner, der ikke berøres, kan fortsat benyttes uændret i overensstemmelse med reglerne på ansøgningstidspunktet for byggetilladelse eller senere relevante byggetilladelser. Dette er nærmere beskrevet i bygningsreglementets *[vejledning til kapitel 15 – konstruktioner](../../../tekniske-bestemmelser/15/vejledninger/generel_vejledning/)*.
 
-I forhold til brandforhold, er det ved ombygninger og andre forandringer kun byggearbejdet i den pågældende brandmæssige enhed samt flugtveje derfra, der skal følge bestemmelserne i det nugældende bygningsreglement og beskrivelserne i hertil hørende vejledninger. Ved ombygninger kan eksisterende brandmæssige forhold, der ikke direkte influeres, fortsat benyttes uændret i overensstemmelse med reglerne på opførelsestidspunktet eller senere relevante byggetilladelser. Dette er nærmere beskrevet i bygningsreglements *[vejledning til kapitel 5 – brand, kapitel 1.](../../../tekniske-bestemmelser/05/vejledninger/generel_brand)*
+I forhold til brandforhold, er det ved ombygninger og andre forandringer kun byggearbejdet i den pågældende brandmæssige enhed samt flugtveje derfra, der skal følge bestemmelserne i det nugældende bygningsreglement og beskrivelserne i hertil hørende vejledninger. Ved ombygninger kan eksisterende brandmæssige forhold, der ikke direkte influeres, fortsat benyttes uændret i overensstemmelse med reglerne på opførelsestidspunktet eller senere relevante byggetilladelser. Dette er nærmere beskrevet i bygningsreglements *[vejledning til kapitel 5 – brand, kapitel 1.](../../../tekniske-bestemmelser/05/vejledninger/generel_brand/)*
 
 ### 1.3 Dokumentation, herunder indplacering i konstruktions- og brandklasse {#c14359ca-3376-40c9-ac8d-e91e38a456d5}
 
@@ -108,7 +108,7 @@ Det er relevant at indplacere en ombygning eller forandring i en brandklasse, hv
 
 Såfremt det er relevant at indplacere en ombygning eller anden forandring i et etageboligbyggeri, skal den altid indplaceres i konstruktionsklasse 2-4 og/eller brandklasse 2-4, fordi det pågældende konstruktionsafsnit eller bygningsafsnit i forvejen kan indplaceres i disse klasser. Dette betyder, at der altid skal tilknyttes en certificeret statiker og/eller brandrådgiver, såfremt det er relevant at indplacere en ombygning eller anden forandring i en konstruktionsklasse og/eller brandklasse.
 
-Såfremt det er relevant at indplacere en ombygning eller anden forandring i et enfamiliehus, dobbelthus, rækkehus og sommerhus, skal den oftest indplaceres i konstruktionsklasse 1 og/eller brandklasse 1. Dette kræver dog, at det pågældende konstruktionsafsnit og/eller bygningsafsnit kan indplaceres i konstruktionsklasse 1 og/eller brandklasse 1. Konstruktionsklasser og brandklasser er nærmere beskrevet i bygningsreglementets *[vejledning om brug af brand og konstruktionsklasser](../vejledning-om-brug-af-brand-og-konstruktionsklasser)*.
+Såfremt det er relevant at indplacere en ombygning eller anden forandring i et enfamiliehus, dobbelthus, rækkehus og sommerhus, skal den oftest indplaceres i konstruktionsklasse 1 og/eller brandklasse 1. Dette kræver dog, at det pågældende konstruktionsafsnit og/eller bygningsafsnit kan indplaceres i konstruktionsklasse 1 og/eller brandklasse 1. Konstruktionsklasser og brandklasser er nærmere beskrevet i bygningsreglementets *[vejledning om brug af brand og konstruktionsklasser](../vejledning-om-brug-af-brand-og-konstruktionsklasser/)*.
 
 For ombygninger og forandringer, hvor der kræves anvendt certificeret statiker, men ikke kræves anvendt certificeret brandrådgiver, fastligger certificeret statiker selv funktionskravet/bæreevnekravet til bærende bygningsdele iht. bestemmelserne på opførselstidspunktet.
 
@@ -128,12 +128,12 @@ Ved nogle af nedenstående eksempler er der tilknyttet specifikke forudsætninge
 
 Udover de specifikke forudsætninger, forudsættes det generelt for de eksempler, der ikke skal indplaceres i en konstruktionsklasse og/eller brandklasse, at byggearbejdet ikke ændrer de bærende konstruktioners virkemåde og/eller forudsætningerne for de brandmæssige forhold på anden vis.
 
-<table style="width:100%;">
+<table>
 <colgroup>
-<col style="width: 24%" />
-<col style="width: 19%" />
-<col style="width: 18%" />
-<col style="width: 36%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
 </colgroup>
 <tbody>
 <tr>
@@ -141,14 +141,14 @@ Udover de specifikke forudsætninger, forudsættes det generelt for de eksempler
 </tr>
 <tr>
 <td><strong>Byggearbejde</strong></td>
-<td><strong>Skal indplaceres i konstruktions-klasse 2-4, og en certificeret statiker skal tilknyttes</strong></td>
-<td><strong>Skal indplaceres i brandklasse 2-4, og en certificeret brandrådgiver skal tilknyttes</strong></td>
+<td><strong>Skal indplaceres i konstruktions-klasse 2-4, og en certificeret statiker skal tilknyttes</strong> </td>
+<td><p><strong>Skal indplaceres i brandklasse</strong> <strong>2-4, og en certificeret brandrådgiver skal tilknyttes</strong></p></td>
 <td><strong>Specifikke forudsætninger</strong></td>
 </tr>
 <tr>
 <td>Nyt dørhul/vindueshul i intern bærende væg.</td>
 <td>Ja</td>
-<td>Nej</td>
+<td>Nej </td>
 <td>Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold.</td>
 </tr>
 <tr>
@@ -190,41 +190,41 @@ Udover de specifikke forudsætninger, forudsættes det generelt for de eksempler
 <td>Udveksling i spær for en tagaltan.</td>
 <td>Ja</td>
 <td>Nej</td>
-<td>Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold.</td>
+<td>Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold. </td>
 </tr>
 <tr>
-<td>Udveksling i bærende bjælkelag for at etablere en intern trappe.</td>
+<td><p>Udveksling i bærende bjælkelag for at etablere en intern trappe.</p></td>
 <td>Ja</td>
 <td>Nej</td>
-<td>Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold.</td>
+<td>Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold. </td>
 </tr>
 <tr>
-<td>Udvidelse af vindueshul til dørhul med større bredde i bærende væg, hvor der f.eks. etableres en fransk altan.</td>
+<td><p>Udvidelse af vindueshul til dørhul med større bredde i bærende væg, hvor der f.eks. etableres en fransk altan.</p></td>
 <td>Ja</td>
 <td>Nej</td>
-<td>Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold.</td>
+<td>Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold. </td>
 </tr>
 <tr>
-<td>Nedlæggelse af lyskasser, hvor lyskassen er påkrævet af brandmæssige årsager.</td>
+<td><p>Nedlæggelse af lyskasser, hvor lyskassen er påkrævet af brandmæssige årsager.</p></td>
 <td>Nej</td>
 <td>Ja</td>
-<td></td>
+<td> </td>
 </tr>
 <tr>
-<td>Blænding af alle døre til sekundært trapperum, der er påkrævet af brandmæssige årsager (også ved sammenlægninger).</td>
-<td>Nej</td>
+<td><p>Blænding af alle døre til sekundært trapperum, der er påkrævet af brandmæssige årsager (også ved sammenlægninger).</p></td>
+<td>Nej </td>
 <td>Ja</td>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>Nedlæggelse af sekundært trapperum til beboelse, hvor der udføres nyt etagedæk i det gamle trapperum.</td>
 <td>Ja</td>
 <td>Ja</td>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>Udvendig efterisolering, hvor der sker indgreb i den bærende del af væggen.</td>
-<td>Ja</td>
+<td>Ja </td>
 <td>Nej</td>
 <td><p>Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold.</p>
 <p>Forudsætter bl.a., at afstanden fra den udvendige efterisolering til skel og bygninger på samme grund ikke kræver yderligere tiltag i forhold til ydervæggens brandmostandsevne.</p>
@@ -236,20 +236,20 @@ Udover de specifikke forudsætninger, forudsættes det generelt for de eksempler
 <td>Ja</td>
 <td>Nej</td>
 <td><p>Forudsætter bl.a., at de brandmæssige krav til konstruktionen er tilsvarende de eksisterende forhold.</p>
-<p>Forudsætter bl.a., at beredskabets indsatsmuligheder ikke påvirkes negativt.</p>
-<p>Se også bygningsreglementets <a href="../spoergsmaal-og-svar">spørgsmål og svar om altaner og certificerede rådgivere</a>.</p></td>
+<p>Forudsætter bl.a., at beredskabets indsatsmuligheder ikke påvirkes negativt. </p>
+<p>Se også bygningsreglementets <a href="../spoergsmaal-og-svar/">spørgsmål og svar om altaner og certificerede rådgivere</a>.</p></td>
 </tr>
 <tr>
 <td>Udnyttelse af uudnyttet tagetage til beboelse.</td>
 <td>Ja</td>
 <td>Ja</td>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>Udnyttelse af pulterrum i udnyttelig tagetage til beboelse.</td>
 <td>Ja</td>
 <td>Ja</td>
-<td></td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -262,8 +262,8 @@ Udover de specifikke forudsætninger, forudsættes det generelt for alle eksempl
 
 <table>
 <colgroup>
-<col style="width: 44%" />
-<col style="width: 55%" />
+<col style="width: 50%" />
+<col style="width: 50%" />
 </colgroup>
 <tbody>
 <tr>
@@ -274,48 +274,48 @@ Udover de specifikke forudsætninger, forudsættes det generelt for alle eksempl
 <td><strong>Specifikke forudsætninger</strong></td>
 </tr>
 <tr>
-<td>Udvidelse af wc-rum med bad, hvor der sker ny rørgennemføring gennem etageadskillelse.</td>
+<td><p>Udvidelse af wc-rum med bad, hvor der sker ny rørgennemføring gennem etageadskillelse.</p></td>
 <td><p>Forudsætter bl.a., at gennemføringen udføres med brandtætninger, der har samme brandmodstandsevne som den pågældende bygningsdel.</p>
 <p>Forudsætter bl.a., at evt. ændring i etagedæk retableres på tilsvarende måde som eksisterende etagedæk.</p></td>
 </tr>
 <tr>
-<td>Nyt badeværelse eller wc-rum i andet rum, hvor der sker ny rørgennemføring gennem etageadskillelse.</td>
+<td>Nyt badeværelse eller wc-rum i andet rum, hvor der sker ny rørgennemføring gennem etageadskillelse. </td>
 <td><p>Forudsætter bl.a., at gennemføringen udføres med brandtætning, der har samme brandmodstandsevne som den pågældende bygningsdel.</p>
 <p>Forudsætter bl.a., at evt. ændring i etagedæk retableres på tilsvarende måde som eksisterende etagedæk.</p></td>
 </tr>
 <tr>
-<td>Flytning af køkken til andet rum.</td>
-<td></td>
+<td><p>Flytning af køkken til andet rum.</p></td>
+<td> </td>
 </tr>
 <tr>
-<td>Nedrivning af ikke-bærende vægge (gælder også vægge mellem boliger ved sammenlægning af lejligheder).</td>
-<td></td>
+<td><p>Nedrivning af ikke-bærende vægge (gælder også vægge mellem boliger ved sammenlægning af lejligheder).</p></td>
+<td> </td>
 </tr>
 <tr>
 <td>Opdeling af rum med skillevæg.</td>
-<td>Forudsætter bl.a., at adgang til redningsåbninger og flugtveje via trapperne ikke forringes i forhold til kravene i BR18.</td>
+<td><p>Forudsætter bl.a., at adgang til redningsåbninger og flugtveje via trapperne ikke forringes i forhold til kravene i BR18.</p></td>
 </tr>
 <tr>
-<td>Blænding af internt dørhul.</td>
-<td>Forudsætter bl.a., at adgang til redningsåbninger og flugtveje ikke forringes i forhold til kravene i BR18.</td>
+<td>Blænding af internt dørhul. </td>
+<td><p>Forudsætter bl.a., at adgang til redningsåbninger og flugtveje ikke forringes i forhold til kravene i BR18.</p></td>
 </tr>
 <tr>
-<td>Udvidelse af vindueshul til dørhul med samme bredde i bærende væg samt etablering af fransk altan.</td>
+<td><p>Udvidelse af vindueshul til dørhul med samme bredde i bærende væg samt etablering af fransk altan.</p></td>
 <td><p>Forudsætter bl.a., at dørhullet har højst samme bredde som det eksisterende hul til vinduet.</p>
 <p>Forudsætter bl.a., at vinduets/dørens eventuelle funktion som redningsåbning bibeholdes.</p>
 <p>Forudsætter at vægges eventuelle afstivende funktion bibeholdes.</p></td>
 </tr>
 <tr>
-<td>Blænding af én dør til primært trapperum ved sammenlægning af lejligheder på samme etage.</td>
-<td>Forudsætter bl.a., at der fortsat er adgang til mindst én dør til primært trapperum.</td>
+<td>Blænding af én dør til primært trapperum ved sammenlægning af lejligheder på samme etage. </td>
+<td><p>Forudsætter bl.a., at der fortsat er adgang til mindst én dør til primært trapperum.</p></td>
 </tr>
 <tr>
-<td>Blænding af dør til sekundært trapperum ved sammenlægning af lejligheder på samme etage.</td>
+<td>Blænding af dør til sekundært trapperum ved sammenlægning af lejligheder på samme etage. </td>
 <td>Forudsætter bl.a., at der fortsat er adgang til mindst én dør til sekundært trapperum.</td>
 </tr>
 <tr>
-<td>Nedlæggelse af lyskasser.</td>
-<td>Forudsætter bl.a., at lyskasserne ikke er påkrævet af brandmæssige årsager, f.eks. røgudluftning.</td>
+<td>Nedlæggelse af lyskasser. </td>
+<td><p>Forudsætter bl.a., at lyskasserne ikke er påkrævet af brandmæssige årsager, f.eks. røgudluftning.</p></td>
 </tr>
 </tbody>
 </table>
@@ -334,13 +334,13 @@ Det forudsættes generelt for alle nedenstående eksempler, der ikke skal indpla
 
 Det forudsættes ydermere for de eksempler, der skal indplaceres i en konstruktionsklasse og brandklasse, at det pågældende konstruktionsafsnit og bygningsafsnit kan indplaceres i konstruktionsklasse 1 og brandklasse 1, således, at der ikke skal tilknyttes en certificeret statiker og brandrådgiver som angivet.
 
-<table style="width:99%;">
+<table>
 <colgroup>
-<col style="width: 35%" />
-<col style="width: 16%" />
-<col style="width: 13%" />
-<col style="width: 16%" />
-<col style="width: 17%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
 </colgroup>
 <tbody>
 <tr>
@@ -354,39 +354,41 @@ Det forudsættes ydermere for de eksempler, der skal indplaceres i en konstrukti
 <td><strong>Certificeret brandrådgiver skal tilknyttes</strong></td>
 </tr>
 <tr>
-<td>Etablering af kvist, der udvider etagearealet.</td>
+<td><p>Etablering af kvist, der udvider etagearealet.</p></td>
 <td>Nej</td>
 <td>Nej</td>
 <td>Nej</td>
 <td>Nej</td>
 </tr>
 <tr>
-<td>Udvendig efterisolering på mere end 25 cm, der udvider etagearealet.</td>
+<td><p>Udvendig efterisolering på mere end 25 cm, der udvider etagearealet.</p></td>
 <td>Nej</td>
 <td>Nej</td>
 <td>Nej</td>
 <td>Nej</td>
 </tr>
 <tr>
-<td>Indretning af liberalt erhverv, der er en ændring af en hel beboelse til erhvervsformål.</td>
+<td><p>Indretning af liberalt erhverv, der er en ændring af en hel beboelse til erhvervsformål.</p></td>
 <td>Nej</td>
 <td>Nej</td>
 <td>Nej</td>
 <td>Nej</td>
 </tr>
 <tr>
-<td>Udnyttelse af uudnyttet tagetage til beboelse, der udvider etagearealet.</td>
+<td><p>Udnyttelse af uudnyttet tagetage til beboelse, der udvider etagearealet.</p></td>
 <td>Ja</td>
 <td>Ja</td>
 <td>Nej</td>
 <td>Nej</td>
 </tr>
 <tr>
-<td>Udnyttelse af pulterrum i udnyttelig tagetage til beboelse, der ændrer anvendelsen væsentligt.</td>
+<td><p>Udnyttelse af pulterrum i udnyttelig tagetage til beboelse, der ændrer anvendelsen væsentligt.</p></td>
 <td>Ja</td>
 <td>Ja</td>
 <td>Nej</td>
-<td>Nej</td>
+<td>Nej<br />
+<br />
+</td>
 </tr>
 </tbody>
 </table>
@@ -395,26 +397,74 @@ Det forudsættes ydermere for de eksempler, der skal indplaceres i en konstrukti
 
 Det forudsættes generelt for alle nedenstående eksempler, at byggearbejdet ikke udvider etagearealet, ændrer anvendelsen væsentligt, eller omfatter andre forhold der medfører, at der skal ansøges om byggetilladelse.
 
-|  |
-|------------------------------------------------------------------------|
-| **Tabel 4: Eksempler på ombygninger og andre forandringer i enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse, der kan udføres uden ansøgning om byggetilladelse** |
-| **Byggearbejde** |
-| Etablering af større vinduespartier og døre i facaden. |
-| Udskiftning af vinduer. (Såfremt der er installeret røgalarmanlæg i huset udført i henhold til beskrivelserne i *Bygningsreglementets vejledning til kapitel 5 – Brand*, bilag 12, afsnit 5.4, behøves nye vinduer ikke at have funktion som redningsåbninger for personredning.) |
-| Etablering af ovenlys. |
-| Sammenlægning af rum for at få opholdsplads i forbindelse med køkken. |
-| Sammenlægning af badeværelse og gæstetoilet. |
-| Sammenlægning af opholdsrum. |
-| Opdeling af rum. |
-| Nedlæggelse af gang og entré, der inddrages til f.eks. opholdsrum. |
-| Nedlæggelse af bryggers, der inddrages til f.eks. badeværelse. |
-| Åbning af brandmæssig adskillelse til kælderetage. (Dette kan dog kun udføres såfremt der ikke er tekniske installationer med stor risiko for antændelse eller stor brandbelastning. Eksempler herpå er oliefyr, pillefyr, koksfyr mv. inklusiv deres oplag. Disse skal placeres i selvstændig brandcelle. Tillige er det under forudsætning af, at der er installeret røgalarmanlæg i huset udført i henhold til beskrivelserne i *Bygningsreglementets vejledning til kapitel 5 – Brand*, bilag 12, afsnit 5.4.) |
-| Udskiftning af tagkonstruktionen. |
-| Åbning af brandmæssig adskillelse internt i enfamilieshuse, dog ikke til garager eller teknikrum. (For enfamilieshuse i 3 etager, dog for en  boligenhed med et samlet etageareal på højst 150 m^2^. Dette er under forudsætning af, at der er installeret røgalarmanlæg i huset udført i henhold til beskrivelserne i *Bygningsreglementets vejledning til kapitel 5 – Brand*, bilag 12, afsnit 5.4.) |
-| Nyt dørhul/vindueshul i bærende væg. |
-| Fuld eller delvis nedrivning af bærende væg. |
-| Udveksling i en bærende bjælke for at etablere en intern trappe. |
-| Udvendig efterisolering i væg og tagflade på højst 25 cm. |
-| Udvendig efterisolering eller fugtisolering af kælderydervægge. |
-| Etablering af hems med areal på højst 4,5 m². |
-| Indretning af liberalt erhverv, der ikke er en ændring af en hel beboelse til erhvervsformål. |
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td><strong>Tabel 4: Eksempler på ombygninger og andre forandringer i enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse, der kan udføres uden ansøgning om byggetilladelse</strong></td>
+</tr>
+<tr>
+<td><strong>Byggearbejde</strong></td>
+</tr>
+<tr>
+<td><p>Etablering af større vinduespartier og døre i facaden.</p></td>
+</tr>
+<tr>
+<td><p>Udskiftning af vinduer. (Såfremt der er installeret røgalarmanlæg i huset udført i henhold til beskrivelserne i <em>Bygningsreglementets vejledning til kapitel 5 – Brand</em>, bilag 12, afsnit 5.4, behøves nye vinduer ikke at have funktion som redningsåbninger for personredning.)</p></td>
+</tr>
+<tr>
+<td><p>Etablering af ovenlys.</p></td>
+</tr>
+<tr>
+<td><p>Sammenlægning af rum for at få opholdsplads i forbindelse med køkken.</p></td>
+</tr>
+<tr>
+<td><p>Sammenlægning af badeværelse og gæstetoilet.</p></td>
+</tr>
+<tr>
+<td>Sammenlægning af opholdsrum.</td>
+</tr>
+<tr>
+<td><p>Opdeling af rum.</p></td>
+</tr>
+<tr>
+<td>Nedlæggelse af gang og entré, der inddrages til f.eks. opholdsrum.</td>
+</tr>
+<tr>
+<td>Nedlæggelse af bryggers, der inddrages til f.eks. badeværelse.</td>
+</tr>
+<tr>
+<td><p>Åbning af brandmæssig adskillelse til kælderetage. (Dette kan dog kun udføres såfremt der ikke er tekniske installationer med stor risiko for antændelse eller stor brandbelastning. Eksempler herpå er oliefyr, pillefyr, koksfyr mv. inklusiv deres oplag. Disse skal placeres i selvstændig brandcelle. Tillige er det under forudsætning af, at der er installeret røgalarmanlæg i huset udført i henhold til beskrivelserne i <em>Bygningsreglementets vejledning til kapitel 5 – Brand</em>, bilag 12, afsnit 5.4.)</p></td>
+</tr>
+<tr>
+<td>Udskiftning af tagkonstruktionen.</td>
+</tr>
+<tr>
+<td><p>Åbning af brandmæssig adskillelse internt i enfamilieshuse, dog ikke til garager eller teknikrum. (For enfamilieshuse i 3 etager, dog for en  boligenhed med et samlet etageareal på højst 150 m<sup>2</sup>. Dette er under forudsætning af, at der er installeret røgalarmanlæg i huset udført i henhold til beskrivelserne i <em>Bygningsreglementets vejledning til kapitel 5 – Brand</em>, bilag 12, afsnit 5.4.)</p></td>
+</tr>
+<tr>
+<td><p>Nyt dørhul/vindueshul i bærende væg.</p></td>
+</tr>
+<tr>
+<td><p>Fuld eller delvis nedrivning af bærende væg.</p></td>
+</tr>
+<tr>
+<td><p>Udveksling i en bærende bjælke for at etablere en intern trappe.</p></td>
+</tr>
+<tr>
+<td>Udvendig efterisolering i væg og tagflade på højst 25 cm.</td>
+</tr>
+<tr>
+<td>Udvendig efterisolering eller fugtisolering af kælderydervægge.</td>
+</tr>
+<tr>
+<td><p>Etablering af hems med areal på højst 4,5 m².</p></td>
+</tr>
+<tr>
+<td><p>Indretning af liberalt erhverv, der ikke er en ændring af en hel beboelse til erhvervsformål.</p>
+ </td>
+</tr>
+</tbody>
+</table>

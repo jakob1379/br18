@@ -2,15 +2,19 @@
 
 ## Se alle vejledninger om Bygningens indretning (§ 196 - § 241)
 
-- [Spørgsmål og svar om bygningens indretning](../../qa)
-- [Vejledning om boligindretning](./)
-- [Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger](../../bygningsglas)
+- [Spørgsmål og svar om bygningens indretning](../../qa/)
+- [Vejledning om boligindretning](../)
+- [Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger](../../bygningsglas/)
 
 ## Vejledning om boligindretning
 
-### Kolofon
+<span id="kolofon"></span>
 
-### Forord
+### Kolofon {#818585de-abef-41f2-b417-27010078f7d0}
+
+<span id="forord"></span>
+
+### Forord {#a65228a9-ae42-48b3-b79b-97cd2de40d36}
 
 ### 1. Boligens beboere {#f036d581-3495-4f91-bd3a-93c1361c0e4d}
 
@@ -48,17 +52,15 @@ Et trappeløb kan skabe sammenhæng mellem flere etager, et ensidigt hældende t
 
 Rige rumoplevelser tilfører kvalitet til boligen. Arkitektoniske elementer, som fx nicher eller karnapper, kan bidrage til at øge kvaliteten, samtidig med at de kan lægge op til en opdeling af rummet i mindre områder. Det betyder, at der – ud over de funktionelle krav til rummenes anvendelighed, placering og størrelse – også kan lægges et arkitektonisk blik på rummets udformning og rumforløbets kvalitet.
 
-###
-
 ![](../../../../../media/qe1exvvi/illustration-06-br-vejledning-om-boligindretning.png)
 
 Illustration 06: Boligens dybde. Plantegninger med samme areal, men med tre forskellige husdybder og samme størrelser, form og placering af vinduer. Den dybe bolig har, på trods af vinduer i facaderne i et varieret antal, et mørkt område midt i boligen, der typisk ikke opleves nær så attraktivt som rummene, der ligger ud til facaden.
 
-###
-
 ![](../../../../../media/okwji2tj/illustration-07-br-vejledning-om-boligindretning.png)
 
 Illustration 07: Boligens runforløb og sammenhæng på tværs af etager. Trappeløb, niveauforskelle og åben forbindelse mellem flere etager og på tværs af boligen kan give spændende rumforløb og oplevelsen af tættere forbindelse mellem forskellige rumligheder og funktioner. (Diagrammer frit efter: Vandkunsten, arkitekt Mogens Lassen og arkitekt Arne Jacobsen)
+
+<span id="_1"></span><span id="_2"></span>
 
 ### 2.6. Dagslysforhold {#d79cf6a3-805b-4e7d-a359-3b318e98482b}
 
@@ -88,5 +90,6 @@ Illustration 07: Boligens runforløb og sammenhæng på tværs af etager. Trappe
 
 ### 3.7. At bade {#9d95ee42-38e2-41d4-ae53-1d23da54a544}
 
-### Appendix: Litteratur
+<span id="appendix-litteratur"></span>
 
+### Appendix: Litteratur {#dad94911-d8be-4830-9756-dcbefa202590}

@@ -21,4 +21,3 @@ Ved etablering af elevatorer skal der ligeledes tages højde for Arbejdstilsynet
 ### 4.0. Energiforbrug {#37830e77-2a7f-4014-92ff-035980cc2c07}
 
 ### 5.0. Dispensationer {#b58ca414-4e85-411b-a507-cfd66969d40b}
-

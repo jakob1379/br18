@@ -2,15 +2,17 @@
 
 ## Se alle vejledninger om Vand (§ 403 - § 419)
 
-- [Vejledning om brug af regnvand](../brug-af-regnvand)
-- [Vejledning om legionella](../legionella)
-- [Vejledning om tilbagestrømningssikring af vandforsyningssystemer](../tilbagestroemningssikring-af-vandforsyningssystemer)
-- [Bygningsreglementets vejledning om vand](.)
-- [Spørgsmål og svar](../sporgsmaal_svaar)
+- [Vejledning om brug af regnvand](../brug-af-regnvand/)
+- [Vejledning om legionella](../legionella/)
+- [Vejledning om tilbagestrømningssikring af vandforsyningssystemer](../tilbagestroemningssikring-af-vandforsyningssystemer/)
+- [Bygningsreglementets vejledning om vand](./)
+- [Spørgsmål og svar](../sporgsmaal_svaar/)
 
 ## Bygningsreglementets vejledning om vand
 
-### Forord
+<span id="forord"></span>
+
+### Forord {#f0296195-5815-485c-ae68-9a65ed2f06cd}
 
 Formålet med bestemmelserne i bygningsreglementet er at sikre, at bygninger får ført vand ind i og rundt i bygningen svarende til det behov, som bygningen, de enkelte rum og deres installationer har i forhold til anvendelsen.
 
@@ -22,7 +24,7 @@ Generelt gælder det for vandinstallationer i eksisterende bygninger, at reparat
 
 Rørcenteranvisning 027 går i dybden med flere områder inden for bygningsreglementets kapitel om vand. Såfremt Rørcenteranvisningen følges, opnås en god sikkerhed for at overholde bygningsreglementets krav inden for disse områder.
 
-[![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 #### DS 439
 
@@ -42,17 +44,17 @@ Vandinstallationer omfatter installationer i bygninger og i jord inden for grund
 
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/standard/ds-4392009 "DS 439"){target="_blank"}
 
-[![](../../../../assets/img/linkbox/roer_anv_linkbox.svg)](# "#title")
-
-####
+[![](../../../../assets/img/linkbox/roer_anv_linkbox.svg)](#)
 
 Rørcenteranvisning 027
 
-####
+<span id="_1"></span><span id="_2"></span>
 
 #### [027](https://www.teknologisk.dk/ydelser/roercenter-anvisninger-og-rapporter-fra-roercentret/486){target="_blank"}
 
-### Generelt for vandinstallationer
+<span id="_3"></span><span id="_4"></span><span id="generelt-for-vandinstallationer"></span>
+
+### Generelt for vandinstallationer {#c9970c87-937b-4273-9fdd-f17612464f4e}
 
 Ved projektering af vandinstallationer, skal der vælges en metode for sikring mod bakterier, herunder Legionella i vandinstallationen. Metoden kan være en kombination af korrekt projektering og udførelse af anlæg samt krav til vedligeholdelse og drift. I vurderingen af metodevalg skal anvendelsen og brugergruppen af den konkrete bygning indgå.
 
@@ -60,7 +62,9 @@ Ved vurdering af varmtvandstemperaturen i installationerne og ventetiden på, at
 
 Det har desuden vist sig, at anvendelsen af nogle materialer som eksempelvis naturgummi og visse former for syntestisk gummi kan bidrage til bakterievækst, herunder Legionellavækst.
 
-### Ledninger i jord og indførelse i bygninger
+<span id="ledninger-i-jord-og-indfrelse-i-bygninger"></span>
+
+### Ledninger i jord og indførelse i bygninger {#44752e2c-2ae4-49c9-93fa-7338b2fd3bc9}
 
 Vandledninger i jord udføres således, at der ved udgravning i forbindelse med udførelse, eventuel senere reparation eller i den permanente tilstand, ikke kan opstå skader på ejendommens fundering. Vandinstallationer skal placeres således i forhold til ejendommens fundering, at der ved udgravning for ledningerne på langs af ejendommen eller ved krydsning af denne ikke sker en forringelse af fundamenternes bæreevne eller opstår skader som følge af sætninger.
 
@@ -74,8 +78,6 @@ Overgangen fra ledninger i jord til ledninger i bygning er kritiske punkter i va
 
 Kravet vedrørende ledningers indføring i bygning kan opfyldes som vist på nedenstående figur
 
-###
-
 ![](../../../../media/1fpiospx/ledning.png)
 
 *Indføring af ledning i bygning gennem et foringsrør der sikrer, at der ikke sker skader på fundament og bygningsdele*.
@@ -84,7 +86,9 @@ Fastgørelsen af vandinstallationer til bygningsdele må ikke medføre skade på
 
 Ledninger må kun fastspændes til bygningsdele, såfremt disse kan optage fastspændingskræfterne.
 
-### Frost
+<span id="frost"></span>
+
+### Frost {#ea459f4d-60ae-48b3-b730-83874c45aedf}
 
 Vandinstallationer planlægges, udføres og driftes således, at der ikke opstår frostskader, hvilket normalt sker ved at anbringe installationen, så den ikke bliver udsat for frost. Selv i opvarmede bygninger er der områder, hvor der kan forekomme frost, fx i forbindelse med lukkede skabe op mod ydervæg.
 
@@ -102,15 +106,15 @@ Risiko for frostskader vil normalt kunne undgås, når følgende vejledning iagt
 
 > • I rum, hvor der periodevis er risiko for mild frost, skal vandledninger lægges på en sådan måde, at de kan udnytte opvarmede bygningsdele i tilstrækkelig grad til at forhindre frysning.
 
-###
-
 ![](../../../../media/wjddqsjl/frost.png)
 
 *Rørinstallation der er korrekt anbragt på den varme side af isoleringen i et skunkrum*
 
 Såfremt der ikke er sikkerhed for at en bygning holdes frostfri, og såfremt installationerne i bygningen kun periodevis er benyttet, bør disse indrettes, således at de kan tømmes.
 
-### Trykstød
+<span id="trykstd"></span>
+
+### Trykstød {#0538689f-1abe-4b24-8317-22b8ef62abb8}
 
 Vandinstallationer projekteres og udføres på en sådan måde, at trykstød ikke kan forekomme, og således at pludselige og unødvendige variationer i tryk og flow undgås.
 
@@ -122,13 +126,15 @@ Trykstød kan opstå i forbindelse med følgende ventiler og komponenter, hvorfo
 
 Trykforøgeranlæg projekteres, udføres og styres, så der ikke opstår generende trykstød ved start og stop.
 
-### Materialer
+<span id="materialer"></span>
+
+### Materialer {#68ff1047-5d25-4b33-8565-382602f49c97}
 
 Vandinstallationen må ikke skades af påvirkning fra omgivelserne. Dette betyder, at denne, under hensyntagen til den aktuelle vandkvalitet, skal udføres af tilstrækkeligt korrosionsbestandige materialer. Samlinger skal ligesom materialer vælges med tanke på den aktuelle vandkvalitet og indbygningsmåde.
 
 Der henvises til SBi-anvisning 227 Korrosion i VVS-installationer.
 
-[![](../../../../assets/img/linkbox/sbi_anv_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/sbi_anv_linkbox.svg)](#)
 
 #### SBi-anvisning 227
 
@@ -142,7 +148,9 @@ Anvisningen afløser SBI-anvisning 129, Korrosionsforebyggelse i vvs-installatio
 
 #### [Find anvisningen her](https://sbi.dk/anvisninger/Pages/227-Korrosion-i-vvs-installationer-1.aspx "SBi-anvisning 227"){target="_blank"}
 
-### Udskiftelighed
+<span id="udskiftelighed"></span>
+
+### Udskiftelighed {#b73a2c7a-eaa2-4ebf-9ba9-26b12bd4d41c}
 
 Som udgangspunkt skal installationen planlægges og udføres udskiftelig med hensyn til vedligeholdelse, reparation og ændring i anvendelsen af bygningen. De dele af installationen, som ikke anbringes udskiftelig, skal udføres i en kvalitet, der gør, at de har en levetid, der er tilsvarende eller større end den bygningsdel, i hvilken de er anbragt.
 
@@ -152,7 +160,9 @@ Udskiftelige ledninger er ledninger, som i jord kan tilgås ved opgravning, og i
 
 Ikke udskiftelige ledninger er ledninger som er vanskeligt tilgængelige f.eks. under konstruktioner i jord, og i bygninger indbyggede og skjulte installationer, som er vanskeligt tilgængelige.
 
-### Henstand
+<span id="henstand"></span>
+
+### Henstand {#dfcb2f69-3a23-4500-99fe-152b12085995}
 
 Ved henstand vil vand over tiden ændre kvalitet. Dette kan have flere årsager som f.eks. bakterievækst, migration af installationer eller misfarvning.
 
@@ -162,13 +172,17 @@ Dele af en vandinstallation, der ikke længere benyttes, skal afmonteres den del
 
 Såfremt en del af en vandinstallation i mere end et år kan forventes at være ubenyttet bør den kunne afspærres fra den øvrige installation og tømmes, undtaget herfra er dog brandslukningsinstallationer.
 
-### Utætheder
+<span id="uttheder"></span>
+
+### Utætheder {#edc45fd5-d304-450a-b4b2-51954269441c}
 
 Bestemmelsen indebærer f.eks., at et brusearmatur beregnet til indbygning kan indmures i en betonvæg, når der samtidig indbygges et tomrør, som sikrer, at udstrømmende vand fra en utæthed kan udledes uden at skade bygningen, og så utætheden kan konstateres, inden der sker skade på bygningen.
 
 I rum, hvor der opstilles apparater med automatisk vandpåfyldning, dvs. apparater som tilsluttes vandforsyningen som fx vaskemaskiner, opvaskemaskiner, nogle former for kaffemaskiner og vandkølere, kan der opnås sikkerhed mod udsivning og udstrømning af vand ved etablering af et gulvafløb eller ved at apparatet eller hele installationen, som apparatet er tilsluttet, udføres med mekanisk eller automatisk vandstop eller tilsvarende foranstaltning.
 
-### Sikring af vandkvalitet
+<span id="sikring-af-vandkvalitet"></span>
+
+### Sikring af vandkvalitet {#359cd526-a71f-4f0e-babe-9acba54390ba}
 
 Hvor installationer for drikkevand kan komme i berøring med sundhedsskadelige stoffer, udføres installationerne på en sådan måde, at der ikke kan opstå sundhedsfare.
 
@@ -182,7 +196,7 @@ DS/EN 1717 giver eksempler på, hvordan bestemmelsen omkring tilbagestrømningss
 
 DS/EN 806-5 giver eksempler på drift og vedligehold af tilbagestrømningssikringer.
 
-[![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](#)
 
 #### 1717
 
@@ -194,17 +208,17 @@ Sikring mod forurening af drikkevand i vandinstallationer samt generelle krav ti
 
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/standard/ds-en-17172002 "1717"){target="_blank"}
 
-[![](../../../../assets/img/linkbox/roer_anv_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/roer_anv_linkbox.svg)](#)
 
 #### 015
 
 Rørcenter-anvisning 015
 
-####
+<span id="_5"></span>
 
 #### [Anvisning 015](https://www.teknologisk.dk/ydelser/roercenter-anvisninger-og-rapporter-fra-roercentret/486 "015"){target="_blank"}
 
-[![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](#)
 
 #### 806-5
 
@@ -216,7 +230,9 @@ Specifikationer for drikkevandsinstallationer i bygninger - Del 5: Drift og vedl
 
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/s%C3%B8gning/91-140-60-vandinstallationer/ds-en-806-52013 "806-5"){target="_blank"}
 
-### Koldt vand
+<span id="koldt-vand"></span>
+
+### Koldt vand {#3053d0e3-4f82-465d-a2b4-e95fd956d9c2}
 
 Vandinstallationer udføres således, at en passende koldtvandstemperatur er til stede uden besværende ventetid.
 
@@ -224,7 +240,9 @@ Vandinstallationer udføres således, at generende overstrømning fra varmtvands
 
 Utilsigtet opvarmning af koldt vand skal i videst muligt omfang undgås.
 
-### Varmt vand
+<span id="varmt-vand"></span>
+
+### Varmt vand {#c7fa623d-06f9-4af1-8661-5e77e5fa3b95}
 
 Temperaturen på det varme vand skal ved normal drift overalt i installationen være minimum 50 °C. Det varme vand skal uden besværende ventetid være til stede ved tapstedet, alt efter den projekterede anvendelse af tapstedet. Centralt placerede fordelingsrør med koblingsledninger i handelsdimension ø15 på under 15 m anses normalt for ikke at medføre en besværende ventetid. Vandbesparende taparmaturer vil medføre længere ventetid. For andre typer af tapninger vil det være nødvendigt at foretage en vurdering af den enkelte installation.
 
@@ -232,11 +250,15 @@ Behovet for varmt vand ved alle tapsteder bør overvejes. For tapsteder med et l
 
 Visse steder, som f.eks. brusepladser i børnehaver samt nogle plejeafdelinger bør det sikres ved blanding på tapstedet, at vandtemperaturen ikke kan overstige 38 °C. Blandekredse med lav temperatur bør undgås.
 
-### Energi- og vandforbrug
+<span id="energi-og-vandforbrug"></span>
+
+### Energi- og vandforbrug {#b6531f69-abc5-4a19-b4b5-b0c38d5018b3}
 
 Kravet om tilfredsstillende nøjagtighed af målere er opfyldt ved anvendelse af typegodkendte målere eller målere med en tilsvarende nøjagtighed.
 
-### Drift og vedligehold
+<span id="drift-og-vedligehold"></span>
+
+### Drift og vedligehold {#725c7f2b-1bbb-4616-98aa-961af7f359c9}
 
 Som udgangspunkt skal installationen planlægges og udføres udskiftelig med hensyn til vedligeholdelse, reparation og ændring i anvendelse af bygningen. De dele af installationen, som ikke anbringes udskiftelig, skal udføres i en kvalitet, der gør, at de har en holdbarhed, der er tilsvarende eller større end den bygningsdel, i hvilken de er anbragt.
 
@@ -245,4 +267,3 @@ Under hensyntagen til, at eventuelle arbejder skal kunne foretages på en sikker
 Betjeningsmåde og begrænsninger i anvendelse for installationsdele skal fremgå af forståelig afmærkning.
 
 Der skal udarbejdes en drifts- og vedligeholdelsesvejledning, som skal foreligge ved ibrugtagning. Vejledningen skal bl.a. indeholde et sæt hovedtegninger med kontrol og målepunkter anført.
-

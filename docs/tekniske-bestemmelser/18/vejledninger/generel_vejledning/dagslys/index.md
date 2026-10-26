@@ -2,9 +2,9 @@
 
 ## Se alle vejledninger om Lys og udsyn (§ 377 - § 384)
 
-- [Spørgsmål og svar om lys og udsyn](../../qa)
-- [Bygningsreglementets vejledning om lys og udsyn](..)
-- [Bygningsreglementets vejledning om korrektioner til 10 procent reglen for dagslys](../../10-procent-vejledning)
+- [Spørgsmål og svar om lys og udsyn](../../qa/)
+- [Bygningsreglementets vejledning om lys og udsyn](../)
+- [Bygningsreglementets vejledning om korrektioner til 10 procent reglen for dagslys](../../10-procent-vejledning/)
 
 ## Bygningsreglementets vejledning om lys og udsyn
 
@@ -20,13 +20,13 @@ Dagslysforholdene hænger nøje sammen med valget af glasarealet, valget af glas
 
 I bygningsreglementet er der angivet to løsninger til dokumentation af at funktionskravet om at opholds- og arbejdsrum skal være tilstrækkeligt belyste med dagslys er overholdt, ligesom der er mulighed for at opfylde kravet ved brug af andre beregningsmetoder. De to nævnte dokumentationsmuligheder giver nogenlunde samme dagslysniveau ved samme vinduesudformning. Hvis kravet dokumenteres overholdt ved brug af andre beregningsmetoder skal et tilsvarende dagslysniveau påvises.
 
-For relativt simple bygninger, vil det ofte være tilstrækkeligt at undersøge få udvalgte rum, hvor der kan være tvivl om dagslysadgangen, hvis der er sikkerhed for at resten af rummene overholder kravene. Her vil det som regel være enklest at benytte 10 pct. reglen. For de udvalgte rum defineres rummets afgrænsning, og gulvareal samt glasarealet for vinduerne i rummet beregnes. Det faktiske glasareal for hvert vindue skal korrigeres for forhold, som begrænser dagslysadgangen til vinduet, som beskrevet i [*Bygningsreglementets vejledning om korrektioner til 10 pct.-reglen for dagslys*.](../../10-procent-vejledning/bygningsreglementets-vejledning-om-korrektioner-til-10-procent-reglen-for-dagslys#48d171fe-61e0-4304-84cd-15a6e59d910c){rel="noopener" target="_blank"}
+For relativt simple bygninger, vil det ofte være tilstrækkeligt at undersøge få udvalgte rum, hvor der kan være tvivl om dagslysadgangen, hvis der er sikkerhed for at resten af rummene overholder kravene. Her vil det som regel være enklest at benytte 10 pct. reglen. For de udvalgte rum defineres rummets afgrænsning, og gulvareal samt glasarealet for vinduerne i rummet beregnes. Det faktiske glasareal for hvert vindue skal korrigeres for forhold, som begrænser dagslysadgangen til vinduet, som beskrevet i [*Bygningsreglementets vejledning om korrektioner til 10 pct.-reglen for dagslys*.](../../10-procent-vejledning/bygningsreglementets-vejledning-om-korrektioner-til-10-procent-reglen-for-dagslys/#48d171fe-61e0-4304-84cd-15a6e59d910c){rel="noopener" target="_blank"}
 
 I boliger er der varierende dagslysbehov. Der kan derfor normalt accepteres et lidt lavere dagslysniveau i børneværelser og soveværelser, hvis glasarealet uden korrektion for skyggende forhold for de specifikke rum svarer til mindst 10 pct. af det relevante gulvareal, samtidig med at dagslysniveauet er overholdt for beboelsesrummene som helhed. Dvs. summen af glasarealet med korrektioner for alle beboelsesrum udgør mindst 10 % af det samlede gulvareal for disse rum. Alternativt kan tilstrækkeligt dagslys dokumenteres ved at eftervise, at den indvendige belysningsstyrke fra dagslys er 300 lux eller mere ved mindst halvdelen af det relevante gulvareal i mindst halvdelen af dagslystimerne i boligen som helhed.
 
 ### Glasareal og relevant gulvareal
 
-Glasarealet i et rum beregnes som summen af glasarealer i alle rummets vinduer. Glasarealet for hvert vindue beregnes som det frie åbningsareal, dvs. hele vinduets areal minus ramme-, karm- og sprossearealer. Det faktiske glasareal for hvert vindue skal korrigeres for forhold, som begrænser dagslysadgangen til vinduet, samt for lystransmittansen af den valgte rudetype, som beskrevet i Trafik-, Bygge- og Boligstyrelsens *Vejledning om lys og udsyn*. Da ovenlys modtager væsentligt mere dagslys end lodrette vinduer, kan glasarealet for ovenlys indregnes som beskrevet i *Forudsætninger vedr. beregning af belysningsstyrker*
+Glasarealet i et rum beregnes som summen af glasarealer i alle rummets vinduer. Glasarealet for hvert vindue beregnes som det frie åbningsareal, dvs. hele vinduets areal minus ramme-, karm- og sprossearealer. Det faktiske glasareal for hvert vindue skal korrigeres for forhold, som begrænser dagslysadgangen til vinduet, samt for lystransmittansen af den valgte rudetype, som beskrevet i Trafik-, Bygge- og Boligstyrelsens *Vejledning om lys og udsyn*. Da ovenlys modtager væsentligt mere dagslys end lodrette vinduer, kan glasarealet for ovenlys indregnes som beskrevet i *Forudsætninger vedr. beregning af belysningsstyrker*
 
 For beboelsesrum og køkkener beregnes det relevante gulvareal i almindelighed som arealet af den gulvflade, der omsluttes af rummets vægge.
 
@@ -57,26 +57,26 @@ Ved beregning af belysningsstyrker i beregningsnettets knudepunkter kan der norm
 Tabel 1. Standardværdier for overfladereflektanser ved beregning af belysningsstyrker.
 
 |                                                 |                   |
-|:------------------------------------------------|:------------------|
+|-------------------------------------------------|-------------------|
 | **Overflade**                                   | **Lysreflektans** |
-| Lofter                                          | 0,70              |
-| Indvendige vægflader                            | 0,50              |
-| Gulvflader                                      | 0,20              |
-| Glasflader                                      | 0,15              |
+| Lofter                                          | 0,70              |
+| Indvendige vægflader                            | 0,50              |
+| Gulvflader                                      | 0,20              |
+| Glasflader                                      | 0,15              |
 | Vinduesramme/-karm                              | 0,70              |
-| Udvendige naturomgivelser, terræn, træer, m.v.  | 0,10              |
-| Omkringliggende bygninger                       | 0,20              |
+| Udvendige naturomgivelser, terræn, træer, m.v.  | 0,10              |
+| Omkringliggende bygninger                       | 0,20              |
 
 **Forhold til lokalplaner**
 
 *I specielle tilfælde kan det være svært at overholde dagslyskravet i alle rum, for eksempel som følge af lokalplaner der pålægger en bestemt bebyggelsesgrad eller bygningsgeometri. I sådanne tilfælde må der indledes en dialog med den lokale bygningsmyndighed om en evt. dispensation for disse rum. Selvom der gives dispensation skal dagslysforholdene altid optimeres således, at dagslyset udnyttes bedst muligt i det enkelte rum. I disse tilfælde hvor enkelte rum har mindre dagslys end de niveauer som bygningsreglementet foreskriver, bør det tilstræbes, at de angivne niveauer i stedet er overholdt for bolig- eller erhvervsenheden som helhed. Det henstilles i øvrigt til, at der ved planlægning af byggeri og fastlæggelse af lokalplaner tages hensyn til, at bygningsreglementets krav til dagslysforhold i bygningerne kan overholdes.*
 
 |                   |
-|:------------------|
+|-------------------|
 | **Lysreflektans** |
 
 |                   |
-|:------------------|
+|-------------------|
 | **Lysreflektans** |
 
 ### 1.3 Elektrisk belysning (§ 382-383) {#441019b0-05db-477e-8da9-2383c2179a5f}

@@ -3,9 +3,12 @@
 from __future__ import annotations
 
 import argparse
+import hashlib
+import json
 import re
+import sys
 from pathlib import Path
-from urllib.parse import urlsplit
+from urllib.parse import quote, unquote, urlsplit, urlunsplit
 from urllib.request import Request, urlopen
 
 
@@ -25,7 +28,7 @@ def target_path_for_url(docs_root: Path, url: str) -> Path:
     if parsed.netloc not in {"www.bygningsreglementet.dk", "bygningsreglementet.dk"}:
         raise SystemExit(f"unsupported host: {url}")
 
-    path = parsed.path.strip("/")
+    path = unquote(parsed.path).strip("/").lower()
     base = docs_root / path if path else docs_root
 
     if parsed.query == "Layout=ShowAll":
@@ -33,36 +36,66 @@ def target_path_for_url(docs_root: Path, url: str) -> Path:
     return base / "index.html"
 
 
-def fetch(url: str, target: Path) -> None:
-    req = Request(
-        url,
-        headers={
-            "User-Agent": "Mozilla/5.0 (compatible; br18-parity-fetcher/1.0)",
-        },
-    )
+def cached(cache_dir: Path, url: str) -> tuple[bytes, str]:
+    """The parity audit's origin snapshot: one JSON per page, keyed by the page's canonical URL."""
+    parsed = urlsplit(url)
+    path = quote(unquote(parsed.path).lower(), safe="/")
+    if not path.endswith("/") and not Path(path).suffix:
+        path += "/"
+    key = urlunsplit(("https", "www.bygningsreglementet.dk", path, parsed.query, ""))
+    record = json.loads((cache_dir / f"{hashlib.sha256(key.encode()).hexdigest()[:32]}.json").read_text(encoding="utf-8"))
+    if record["status"] != 200:
+        raise OSError(f"HTTP {record['status']} in snapshot: {url}")
+    return record["html"].encode(), record["final"]
+
+
+def download(url: str, cache_dir: Path | None = None) -> tuple[bytes, str]:
+    """Content and final (post-redirect) URL."""
+    if cache_dir:
+        return cached(cache_dir, url)
+    req = Request(url, headers={"User-Agent": "Mozilla/5.0 (compatible; br18-parity-fetcher/1.0)"})
     with urlopen(req, timeout=30) as resp:
-        content = resp.read()
+        return resp.read(), resp.geturl()
+
+
+def fetch(url: str, target: Path, cache_dir: Path | None = None) -> None:
+    content, _ = download(url, cache_dir)
     target.parent.mkdir(parents=True, exist_ok=True)
     target.write_bytes(content)
+
+
+def is_krav_subpage(url: str) -> bool:
+    """A krav subpage shows one paragraph of its chapter; the clone keeps the whole chapter there, as the root has it."""
+    parts = urlsplit(url).path.lower().strip("/").split("/")
+    return len(parts) > 1 and parts[-2] == "krav"
 
 
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--docs-root", default="docs")
+    parser.add_argument("--cache-dir", type=Path, help="read pages from a parity audit origin snapshot instead of the network")
     parser.add_argument("urls", nargs="+")
     args = parser.parse_args()
 
     docs_root = Path(args.docs_root).resolve()
+    failed = 0
     for raw in args.urls:
         url = raw if raw.startswith("http") else f"{SITE_ROOT.rstrip('/')}/{raw.lstrip('/')}"
-        target = target_path_for_url(docs_root, url)
-        fetch(url, target)
-        html = target.read_bytes()
-        expand_all = EXPAND_ALL_RE.search(html)
-        if expand_all and urlsplit(url).query != "Layout=ShowAll" and not is_section_page(html, url):
-            fetch(expand_all.group(1).decode(), target)
+        try:
+            html, final = download(url, args.cache_dir)
+            page = urlsplit(final)._replace(query="", fragment="").geturl()
+            expand_all = EXPAND_ALL_RE.search(html)
+            if expand_all and urlsplit(final).query != "Layout=ShowAll" and (not is_section_page(html, page) or is_krav_subpage(page)):
+                html, _ = download(expand_all.group(1).decode(), args.cache_dir)
+        except OSError as exc:
+            failed += 1
+            print(f"not fetched: {url} ({exc})", file=sys.stderr)
+            continue
+        target = target_path_for_url(docs_root, page)
+        target.parent.mkdir(parents=True, exist_ok=True)
+        target.write_bytes(html)
         print(target.relative_to(docs_root.parent))
-    return 0
+    return 1 if failed else 0
 
 
 if __name__ == "__main__":

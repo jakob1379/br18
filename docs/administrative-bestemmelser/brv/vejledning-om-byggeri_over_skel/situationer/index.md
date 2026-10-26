@@ -22,22 +22,28 @@
 
 ## Vejledning om byggeri over skel
 
-### Indledning
+<span id="protected_18"></span><span id="indledning"></span>
 
-### I hvilke situationer der kan forekomme byggeri over skel?
+### Indledning {#88b6eabb-b153-4564-841f-230828aee26b}
+
+<span id="i-hvilke-situationer-der-kan-forekomme-byggeri-over-skel"></span>
+
+### I hvilke situationer der kan forekomme byggeri over skel? {#fc1555fa-b16d-46e7-b9a8-8692cc54b8ba}
 
 Bebyggelse, der overskrider skel, kan forekomme på flere forskellige måder. For det første ved at der opføres byggeri over skel beliggende over terræn, eksempelvis ved at der etableres altaner i gavl beliggende over nabogrundens skel. For det andet ved, at der opføres byggeri på terræn og endelig ved, at der opføres byggeri over skel under terræn, eksempelvis ved at der etableres en parkeringskælder, der overskrider skellet til nabogrunden under terræn.
 
 *Byggeri over skel beliggende over terræn*
 
-Når der etableres bebyggelse over skel, som er beliggende over terræn, er det under forudsætning af, at de ejendomsretlige hensyn er afklaret ved indhentelse af samtykke fra nabogrundejer, og at bebyggelsen  lovligt vil kunne etableres i henhold til bygningsreglementets bestemmelser, samt at bebyggelsen i øvrigt ikke er i strid med anden lovgivning, jf. BR18, [kap. 1](/administrative-bestemmelser/), [§ 35, stk. 2](/administrative-bestemmelser/krav/35_38/).
+Når der etableres bebyggelse over skel, som er beliggende over terræn, er det under forudsætning af, at de ejendomsretlige hensyn er afklaret ved indhentelse af samtykke fra nabogrundejer, og at bebyggelsen  lovligt vil kunne etableres i henhold til bygningsreglementets bestemmelser, samt at bebyggelsen i øvrigt ikke er i strid med anden lovgivning, jf. BR18, kap. 1, § 35, stk. 2.
 
-Er de ejendomsretlige forhold således afklaret, og er opførelsen af bebyggelsen ikke i strid med anden lovgivning, vil kommunen efter en helhedsvurdering i henhold til BR18, [kap. 8](/tekniske-bestemmelser/08/), [§§ 187-195](/tekniske-bestemmelser/08/krav/), kunne give tilladelse til opførelse af f.eks. altaner i gavl beliggende over nabogrunden.
+Er de ejendomsretlige forhold således afklaret, og er opførelsen af bebyggelsen ikke i strid med anden lovgivning, vil kommunen efter en helhedsvurdering i henhold til BR18, kap. 8, §§ 187-195, kunne give tilladelse til opførelse af f.eks. altaner i gavl beliggende over nabogrunden.
 
 *Byggeri over skel beliggende på terræn og under terræn*
 
-Det følger af de almindelige principper om råden over fast ejendom, at nabogrundejeren som udgangspunkt hverken kan råde helt eller delvist over nabogrunden uden samtykke fra ejeren af nabogrunden, når der bygges over skel enten på terræn eller under terræn, jf. ovenstående. Hvor der foreligger et samtykke, skal bebyggelse i øvrigt være i overensstemmelse med [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178), herunder bygningsreglementet samt anden lovgivning.
+Det følger af de almindelige principper om råden over fast ejendom, at nabogrundejeren som udgangspunkt hverken kan råde helt eller delvist over nabogrunden uden samtykke fra ejeren af nabogrunden, når der bygges over skel enten på terræn eller under terræn, jf. ovenstående. Hvor der foreligger et samtykke, skal bebyggelse i øvrigt være i overensstemmelse med byggeloven, herunder bygningsreglementet samt anden lovgivning.
 
-### Lovliggørelsessager
+<span id="lovliggrelsessager"></span>
+
+### Lovliggørelsessager {#25665434-23fc-4004-be61-dfde86ccc3de}
 
 ### Udstykningsloven {#f9b11c26-a215-48c6-ad79-4cc09287f3dc}

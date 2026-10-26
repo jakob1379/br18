@@ -2,9 +2,9 @@
 
 ## Se alle vejledninger om Lys og udsyn (§ 377 - § 384)
 
-- [Spørgsmål og svar om lys og udsyn](../../qa)
-- [Bygningsreglementets vejledning om lys og udsyn](..)
-- [Bygningsreglementets vejledning om korrektioner til 10 procent reglen for dagslys](../../10-procent-vejledning)
+- [Spørgsmål og svar om lys og udsyn](../../qa/)
+- [Bygningsreglementets vejledning om lys og udsyn](../)
+- [Bygningsreglementets vejledning om korrektioner til 10 procent reglen for dagslys](../../10-procent-vejledning/)
 
 ## Bygningsreglementets vejledning om lys og udsyn
 
@@ -14,8 +14,10 @@
 
 ### 1.2 Dagslys (§ 379-381) {#b6a377e1-f916-47ca-bab9-672a5eaae34b}
 
+<span id="glasareal-og-relevant-gulvareal"></span><span id="forudstninger-vedr-beregning-af-belysningsstyrker"></span><span id="overfladereflektanser"></span>
+
 ### 1.3 Elektrisk belysning (§ 382-383) {#441019b0-05db-477e-8da9-2383c2179a5f}
 
 ### 1.4 Funktionsafprøvning (§ 384) {#e214b888-0da2-49b2-a52f-06b4caea8021}
 
-Der henvises til [Trafik-, Bygge- og Boligstyrelsens vejledning om funktionsafprøvning.](../../../../11/brv/version-2-funktionsafprovning "Version 2 Funktionsafprovning"){rel="noopener" target="_blank"}
+Der henvises til [Trafik-, Bygge- og Boligstyrelsens vejledning om funktionsafprøvning.](../../../../11/brv/version-2-funktionsafprovning/ "Version 2 Funktionsafprovning"){rel="noopener" target="_blank"}

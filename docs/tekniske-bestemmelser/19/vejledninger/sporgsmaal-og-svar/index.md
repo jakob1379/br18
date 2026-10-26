@@ -3,7 +3,7 @@
 ## Se alle vejledninger om Termisk indeklima og installationer til varme- og køleanlæg (§ 385 - § 392)
 
 - [Spørgsmål og svar](./)
-- [Bygningsreglementets vejledning om termisk indeklima og installationer til varme- og køleanlæg](../version-2-termisk-indeklima)
+- [Bygningsreglementets vejledning om termisk indeklima og installationer til varme- og køleanlæg](../version-2-termisk-indeklima/)
 
 ## Spørgsmål og svar
 
@@ -18,4 +18,3 @@ De hensyn, der ligger til grund for indførelsen af kravet, er dels at sænke va
 Når et fjernvarmeværk foretager fremløbstemperaturregulering, tages der kun delvis højde for det ene af de to hensyn, der ligger til grund for bestemmelsen. Fremløbstemperaturregulering fra fjernvarmeværket, som også skal sikre tilstrækkelig høj temperatur til produktion af varmt brugsvand vil i nogen udstrækning sænke varmetabet fra rør og lignende, men det er ikke muligt for fjernvarmeværkerne at sikre, at varmegiverne begrænser effekten af varmeafgivelse ved mindre behov og ikke afgiver varme, når der ikke er behov. Rentabilitetsbetragtninger er ikke relevante for nybyggeri eller udskiftning af installationer.
 
 I forbindelse med behandling af en ansøgning om dispensation fra kravet om vejrkompensering er det nødvendigt konkret at vurdere, hvorvidt der i den enkelte bygning er foretaget tiltag, der kan opfylde de hensyn, som ikke opfyldes med fjernvarmeværkernes fremløbstemperaturregulering.
-

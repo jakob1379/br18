@@ -11,29 +11,28 @@
 
 ## - Vejledning til undervisningsbygninger
 
-[3.0](./)
+<span id="undervisningsbygninger"></span>
 
-### Undervisningsbygninger
+### 3.0 Undervisningsbygninger {#7c517431-1a58-4d50-be9f-b09c567bd5ba}
 
 Tabellerne i dette afsnit beskriver grænseværdierne for lydisolation, støj indendørs fra trafik, støj fra tekniske installationer samt efterklangstid og absorptionsareal. Grænseværdierne er primært gengivet fra SBi-anvisning 218 om lydforhold i undervisnings- og daginstitutionsbygninger.
 
-[3.1](../definitioner-af-rumtyper-for-undervisningsbygninger/)
+<span id="definitioner-af-rumtyper-for-undervisningsbygninger"></span>
 
-### Definitioner af rumtyper for undervisningsbygninger
+### 3.1 Definitioner af rumtyper for undervisningsbygninger {#5036b98b-248e-48ea-8f22-d081436c63b7}
 
-[3.2](../lydisolation-for-undervisningsbygninger/)
+<span id="lydisolation-for-undervisningsbygninger"></span>
 
-### Lydisolation for undervisningsbygninger
+### 3.2 Lydisolation for undervisningsbygninger {#127bd002-d895-4fe3-b7c5-41d10afcf285}
 
-[3.3](../stoej-indendoers-fra-trafik-i-undervisningsbygninger/)
+<span id="stj-indendrs-fra-trafik-i-undervisningsbygninger"></span>
 
-### Støj indendørs fra trafik i undervisningsbygninger
+### 3.3 Støj indendørs fra trafik i undervisningsbygninger {#b08dc5bc-acf8-4756-80a5-0c3fa42b2575}
 
-[3.4](../stoej-fra-tekniske-installationer-i-undervisningsbygninger/)
+<span id="stj-fra-tekniske-installationer-i-undervisningsbygninger"></span>
 
-### Støj fra tekniske installationer i undervisningsbygninger
+### 3.4 Støj fra tekniske installationer i undervisningsbygninger {#2304ac12-0b4e-46e7-a2ff-fb4918293a99}
 
-[3.5](../rumakustik-i-undervisningsbygninger/)
+<span id="rumakustik-i-undervisningsbygninger"></span>
 
-### Rumakustik i undervisningsbygninger
-
+### 3.5 Rumakustik i undervisningsbygninger {#36e4855a-6bb4-4abf-9f19-e44479e8114f}

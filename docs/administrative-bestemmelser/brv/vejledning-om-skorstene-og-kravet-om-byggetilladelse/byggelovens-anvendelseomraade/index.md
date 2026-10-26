@@ -22,24 +22,40 @@
 
 ## Vejledning om skorstene og kravet om byggetilladelse
 
-### Skorstene og kravet om byggetilladelse
+<span id="protected_17s-anvendelsesomrade"></span><span id="skorstene-og-kravet-om-byggetilladelse"></span>
 
-### Byggelovens anvendelsesområde
+### Skorstene og kravet om byggetilladelse {#d4d1e57e-0114-4ce8-8001-40b2e5499f2b}
 
-Det fremgår af [byggelovens § 2, stk. 1, litra a](https://www.retsinformation.dk/eli/lta/2016/1178), at loven finder anvendelse ved opførelse af ny bebyggelse og tilbygning til bebyggelse. Tilbygning omfatter ny bebyggelse, der sammenbygges med en eksisterende bygning samt etablering af nye bygningsdele. Som eksempel kan nævnes opførelse af f.eks. altaner, karnapper og skorstene.
+<span id="byggelovens-anvendelsesomrade"></span>
 
-Det fremgår endvidere af [byggelovens § 2, stk. 1, litra b](https://www.retsinformation.dk/eli/lta/2016/1178), at [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178) finder anvendelse ved ombygning af og andre forandringer i bebyggelse, som er væsentlige i forhold til bestemmelser i loven eller de i medfør af loven udfærdigede bestemmelser.
+### Byggelovens anvendelsesområde {#a78eeb5f-3ae6-425a-bd27-69be09299cde}
+
+Det fremgår af byggelovens § 2, stk. 1, litra a, at loven finder anvendelse ved opførelse af ny bebyggelse og tilbygning til bebyggelse. Tilbygning omfatter ny bebyggelse, der sammenbygges med en eksisterende bygning samt etablering af nye bygningsdele. Som eksempel kan nævnes opførelse af f.eks. altaner, karnapper og skorstene.
+
+Det fremgår endvidere af byggelovens § 2, stk. 1, litra b, at byggeloven finder anvendelse ved ombygning af og andre forandringer i bebyggelse, som er væsentlige i forhold til bestemmelser i loven eller de i medfør af loven udfærdigede bestemmelser.
 
 Etablering af et aftrækssystem må betegnes som en tilbygning, såfremt dele af aftrækssystemet placeres således, at det bygges sammen med den eksisterende  bebyggelse,   dvs. placeres "uden på" bygningen. Såfremt aftrækssystemet placeres inde i bygningen, må byggearbejdet betegnes som en ombygning eller forandring i bebyggelsen.
 
-### Krav om byggetilladelse
+<span id="krav-om-byggetilladelse"></span>
 
-### Byggeri uden krav om byggetilladelse
+### Krav om byggetilladelse {#ff9c43e9-f405-430b-bdf5-c697a8cbcdb6}
 
-### Byggesagsbehandling
+<span id="byggeri-uden-krav-om-byggetilladelse"></span>
 
-### Afslutning af en byggesag
+### Byggeri uden krav om byggetilladelse {#a6015101-f038-433d-8466-5475f1b73028}
 
-### Genibrugtagning
+<span id="byggesagsbehandling"></span>
 
-### Kommunen som påtalepligtig
+### Byggesagsbehandling {#11cb3b94-b100-4df1-80a3-6ede10bcbf0d}
+
+<span id="afslutning-af-en-byggesag"></span>
+
+### Afslutning af en byggesag {#cc7ad409-372b-4131-b0cd-d6b976fe10e1}
+
+<span id="genibrugtagning"></span>
+
+### Genibrugtagning {#de4044c9-ed65-4b28-a2cf-d6c7278fc52a}
+
+<span id="kommunen-som-patalepligtig"></span>
+
+### Kommunen som påtalepligtig {#8f18789b-ddd0-403a-bf98-aaff57ec8781}

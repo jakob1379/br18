@@ -22,28 +22,30 @@
 
 ## Vejledning til kommunerne om krav til parkering i forbindelse med byggeri
 
-### Indledning
+<span id="indledning"></span>
 
-Vejledningen omhandler krav til parkering i forbindelse med byggeri, der er fastsat i [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178), bygningsreglementet, bekendtgørelsen om andet forpligtende aftalegrundlag og parkeringsfondscirkulæret.
+### Indledning {#f9ceb636-87f6-4541-bb03-da4fb6904eea}
+
+Vejledningen omhandler krav til parkering i forbindelse med byggeri, der er fastsat i byggeloven, bygningsreglementet, bekendtgørelsen om andet forpligtende aftalegrundlag og parkeringsfondscirkulæret.
 
 *Vejledningen er revideret af Trafik-, Bygge- og Boligstyrelsen i maj 2018.*
 
-[1.](../hvor-findes-de-relevante-regler/)
+<span id="hvor-findes-de-relevante-regler"></span>
 
-### Hvor findes de relevante regler
+### 1. Hvor findes de relevante regler {#5742b6d9-ad2d-4fc1-b878-1788e0073f28}
 
-[2.](../kommunalbestyrelsens-afgorelse/)
+<span id="generelt-om-kommunalbestyrelsens-afgrelse-om-parkeringskrav"></span>
 
-### Generelt om kommunalbestyrelsens afgørelse om parkeringskrav
+### 2. Generelt om kommunalbestyrelsens afgørelse om parkeringskrav {#78bc7bba-9f43-4276-b0de-533da73da62f}
 
-[3.](../krav-om-parkeringsarealer/)
+<span id="hvornar-kan-der-stilles-krav-om-parkeringsarealer"></span>
 
-### Hvornår kan der stilles krav om parkeringsarealer
+### 3. Hvornår kan der stilles krav om parkeringsarealer {#2ec5ce08-4b61-48e3-81bf-1a2b7961b811}
 
-[4.](../dispenseres-fra-parkeringskravet/)
+<span id="hvornar-kan-der-dispenseres-fra-parkeringskravet"></span>
 
-### Hvornår kan der dispenseres fra parkeringskravet
+### 4. Hvornår kan der dispenseres fra parkeringskravet {#16668d7b-119f-4e55-8338-c8dc88e31245}
 
-[5.](../indbetaling-til-parkeringsfond/)
+<span id="hvornar-kan-der-dispenseres-fra-parkeringsreglerne-pa-betingelse-af-indbetaling-til-parkeringsfond"></span>
 
-### Hvornår kan der dispenseres fra parkeringsreglerne på betingelse af indbetaling til parkeringsfond
+### 5. Hvornår kan der dispenseres fra parkeringsreglerne på betingelse af indbetaling til parkeringsfond {#56e04d3a-2c24-415d-8bb4-92a88961497b}

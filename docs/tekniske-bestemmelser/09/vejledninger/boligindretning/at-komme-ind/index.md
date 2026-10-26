@@ -2,15 +2,19 @@
 
 ## Se alle vejledninger om Bygningens indretning (§ 196 - § 241)
 
-- [Spørgsmål og svar om bygningens indretning](../../qa)
-- [Vejledning om boligindretning](./)
-- [Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger](../../bygningsglas)
+- [Spørgsmål og svar om bygningens indretning](../../qa/)
+- [Vejledning om boligindretning](../)
+- [Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger](../../bygningsglas/)
 
 ## Vejledning om boligindretning
 
-### Kolofon
+<span id="kolofon"></span>
 
-### Forord
+### Kolofon {#818585de-abef-41f2-b417-27010078f7d0}
+
+<span id="forord"></span>
+
+### Forord {#a65228a9-ae42-48b3-b79b-97cd2de40d36}
 
 ### 1. Boligens beboere {#f036d581-3495-4f91-bd3a-93c1361c0e4d}
 
@@ -58,11 +62,11 @@ Det kan være praktisk, at ankomstområdet i boligen også fungerer som fordelin
 
 I boliger med flere planer kan trappen placeres i en del af ankomstområdet eller i umiddelbar nærhed. Det giver ugeneret adgang til begge etager og mulighed for opdeling af boligen i to adskilte dele. Det øger boligens fleksibilitet over tid.
 
-###
-
 ![](../../../../../media/3ckl1xjy/illustration-11-br-vejledning-om-boligindretning.png)
 
 Illustration 11: Ved indgangen til boligen har man brug for at kunne hænge overtøj og stille sko. Det gælder også i det tilfælde, at man kommer direkte ind i et køkken eller opholdsrum. Derudover er det et område, der med fordel kan rumme mange funktioner som fx plads til opbevaring.
+
+<span id="_1"></span>
 
 ### 3.2. At lave mad {#e5951ab1-95e3-4dfb-9f63-a0e915cad343}
 
@@ -76,5 +80,6 @@ Illustration 11: Ved indgangen til boligen har man brug for at kunne hænge over
 
 ### 3.7. At bade {#9d95ee42-38e2-41d4-ae53-1d23da54a544}
 
-### Appendix: Litteratur
+<span id="appendix-litteratur"></span>
 
+### Appendix: Litteratur {#dad94911-d8be-4830-9756-dcbefa202590}

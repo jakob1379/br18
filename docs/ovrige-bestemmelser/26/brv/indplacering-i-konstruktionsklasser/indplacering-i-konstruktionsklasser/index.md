@@ -2,13 +2,15 @@
 
 ## Se alle vejledninger om Konstruktionsklasser (§ 485 - § 489)
 
-- [Spørgsmål og svar](../../spoergsmaal-og-svar)
-- [Vejledning om indplacering i konstruktionsklasser](./)
-- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../../temasiden-brandogkonstruktioner-dk)
+- [Spørgsmål og svar](../../spoergsmaal-og-svar/)
+- [Vejledning om indplacering i konstruktionsklasser](../)
+- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../../temasiden-brandogkonstruktioner-dk/)
 
 ## Vejledning om indplacering i konstruktionsklasser
 
-### Forord
+<span id="forord"></span>
+
+### Forord {#35e70e33-75c9-456f-aa85-162fac4257b3}
 
 ### 1.0.0. Generelt {#9dba3612-6875-42ed-8bd8-0962a7e85a86}
 
@@ -28,19 +30,20 @@
 
 Overordnet kan inddelingen i konstruktionsklasse 1-4 (KK14) ifølge BR18, § 489 ske som angivet i nedenstående tabel 1.
 
-<table style="width:98%;">
+<table>
 <colgroup>
-<col style="width: 39%" />
-<col style="width: 14%" />
-<col style="width: 14%" />
-<col style="width: 14%" />
-<col style="width: 14%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="2"><p></p>
-<p><strong> </strong></p></td>
-<td colspan="4"><strong> Konsekvensklasse (CC)</strong></td>
+<td rowspan="2"> 
+<br />
+&#10;<p> </p></td>
+<td colspan="4"> <strong>Konsekvensklasse (CC)</strong></td>
 </tr>
 <tr>
 <td><p><strong>Lav</strong></p>
@@ -53,17 +56,17 @@ Overordnet kan inddelingen i konstruktionsklasse 1-4 (KK14) ifølge BR18, § 489
 <p><strong>(CC3+)</strong></p></td>
 </tr>
 <tr>
-<td><strong>Simpel <em>og</em> traditionel konstruktion</strong></td>
-<td>KK1</td>
-<td>KK2*</td>
-<td>KK3</td>
-<td>KK4</td>
+<td><p><strong>Simpel <em>og</em> traditionel konstruktion</strong></p></td>
+<td><p>KK1</p></td>
+<td><p>KK2*</p></td>
+<td><p>KK3</p></td>
+<td><p>KK4</p></td>
 </tr>
 <tr>
 <td><strong>Kompleks <em>eller</em> utraditionel konstruktion</strong></td>
-<td>KK1</td>
+<td>KK1 </td>
 <td>KK3*</td>
-<td>KK3</td>
+<td>KK3 </td>
 <td>KK4</td>
 </tr>
 </tbody>
@@ -79,19 +82,20 @@ Note \*: *Dog KK1 for:*
 
 Eksemplerne i Tabel 2 nedenfor gælder for konstruktioner i middel konsekvensklasse, CC2, jf. Eurocode 0 (Dansk Standard 2007a) og DS/INF 1990 (Dansk Standard 2018a).
 
-<table style="width:98%;">
+<table style="width:100%;">
 <colgroup>
-<col style="width: 5%" />
-<col style="width: 10%" />
-<col style="width: 34%" />
-<col style="width: 17%" />
 <col style="width: 16%" />
-<col style="width: 12%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
 </colgroup>
 <tbody>
 <tr>
 <td><strong>ID</strong></td>
-<td><strong>Betegnelse</strong></td>
+<td><strong>Betegnelse</strong><br />
+</td>
 <td><strong>Beskrivelse</strong></td>
 <td><strong>Erfaring med konstruktionstype</strong></td>
 <td><strong>Konstruktionens kompleksitet</strong></td>
@@ -113,7 +117,7 @@ Eksemplerne i Tabel 2 nedenfor gælder for konstruktioner i middel konsekvenskla
 <p>Højde 10 m</p></td>
 <td>Traditionel</td>
 <td>Simpel</td>
-<td>KK1</td>
+<td><p>KK1</p></td>
 </tr>
 <tr>
 <td>3<br />
@@ -154,21 +158,21 @@ Eksemplerne i Tabel 2 nedenfor gælder for konstruktioner i middel konsekvenskla
 <td>7</td>
 <td>Skole med idrætshal</td>
 <td><p>Undervisningsbygning i 1 etage, &gt; 150 elever, små spændvidder/højder</p>
-<p>Idrætshal for maks 149 personer, 10 m høj</p></td>
+Idrætshal for maks 149 personer, 10 m høj</td>
 <td><p>Traditionel</p>
 <p>Traditionel</p></td>
 <td><p>Simpel</p>
 <p>Kompleks</p></td>
-<td>KK2<br />
+<td><p>KK2<br />
 <br />
-KK3</td>
+KK3</p></td>
 </tr>
 <tr>
 <td>8</td>
 <td>Industribygning</td>
-<td><p>Vareproduktion,</p>
+<td>Vareproduktion,
 <p>Spændvidde 30 m</p>
-<p>Højde 10m</p></td>
+Højde 10m</td>
 <td>Traditionel</td>
 <td>Simpel</td>
 <td>KK1</td>
@@ -197,4 +201,3 @@ KK3</td>
 ### 3.0.1. Byggeri der ikke skal indplaceres i en konstruktionsklasse {#dae86834-bcdb-4729-a3b8-97d5bbc295e7}
 
 ### 3.0.2 Byggeri der ikke kan indplaceres i en konstruktionsklasse {#b4456f94-63d8-405d-8ae5-af6199b1f280}
-

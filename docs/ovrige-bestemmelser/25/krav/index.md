@@ -14,9 +14,7 @@ Boliger, kollegier, hoteller og lignende kan klassificeres som lavenergiklasse, 
 
 Andre bygninger end boliger, der ikke er omfattet af § 474, kan klassificeres som lavenergiklasse, når det samlede behov for tilført energi til opvarmning, ventilation, køling, varmt brugsvand og belysning pr. m² opvarmet etageareal ikke overstiger 33,0 kWh/m^2^ pr. år.
 
-*Stk. 2.* For bygninger eller bygningsafsnit i lavenergiklasse med behov for f.eks. et højt belysningsniveau, ekstra meget ventilation, et stort forbrug af varmt brugsvand, eller lang benyttelsestid eller bygninger med stor rumhøjde forhøjes energirammen med et tillæg, der modsvarer det beregnede energiforbrug hertil. Tillægget skal beregnes i henhold til SBi 213 Bygningers energibehov.
-
-[![](../../../assets/img/linkbox/sbi_anv_linkbox.svg)](# "#title")
+*Stk. 2.* For bygninger eller bygningsafsnit i lavenergiklasse med behov for f.eks. et højt belysningsniveau, ekstra meget ventilation, et stort forbrug af varmt brugsvand, eller lang benyttelsestid eller bygninger med stor rumhøjde forhøjes energirammen med et tillæg, der modsvarer det beregnede energiforbrug hertil. Tillægget skal beregnes i henhold til SBi 213 Bygningers energibehov. [![](../../../assets/img/linkbox/sbi_anv_linkbox.svg)](#)
 
 ### SBi-Anvisning 213
 
@@ -32,7 +30,9 @@ Anvisning og beregningsprogram er betalingsbelagt.
 
 ### § 476 {#paragraf-476}
 
-Bygninger, der er omfattet af §§ 474 eller 475, skal udføres, så det dimensionerende transmissionstab pr. m² etageareal ikke overstiger 11,0+6,0/E+300/A, hvor E er antallet af etager, og A er det opvarmede etageareal. Antal etager er et decimaltal, som udregnes som opvarmet etageareal divideret med bebygget areal. Bygninger med gennemsnitlig rumhøjde over 4,0 meter får et tillæg på 1,0 W/m² pr. meter gennemsnitlig rumhøjde over 4,0 meter. Opvarmet kælder, der ikke indgår i etagearealet, medregnes med 40 pct. i antal etager og det opvarmede etageareal. § 477
+Bygninger, der er omfattet af §§ 474 eller 475, skal udføres, så det dimensionerende transmissionstab pr. m² etageareal ikke overstiger 11,0+6,0/E+300/A, hvor E er antallet af etager, og A er det opvarmede etageareal. Antal etager er et decimaltal, som udregnes som opvarmet etageareal divideret med bebygget areal. Bygninger med gennemsnitlig rumhøjde over 4,0 meter får et tillæg på 1,0 W/m² pr. meter gennemsnitlig rumhøjde over 4,0 meter. Opvarmet kælder, der ikke indgår i etagearealet, medregnes med 40 pct. i antal etager og det opvarmede etageareal.
+
+### § 477 {#paragraf-477}
 
 (Ophævet).
 
@@ -48,7 +48,9 @@ Energibalancen (Eref) gennem vinduer og glasydervægge i opvarmningssæsonen m�
 
 ### § 479 {#paragraf-479}
 
-(Ophævet) § 480
+(Ophævet)
+
+### § 480 {#paragraf-480}
 
 (Ophævet).
 
@@ -77,4 +79,3 @@ For ventilationsanlæg med konstant luftydelse må det specifikke elforbrug til 
 *Stk. 2.* For anlæg med variabel luftydelse må det specifikke elforbrug til lufttransport ikke overstige 1.800 J/m³ udeluft ved maksimalt tryktab.
 
 *Stk. 3.* For ventilationsanlæg til etageboliger må det specifikke elforbrug til lufttransport ikke overstige 1.200 J/m³ udeluft ved grundluftsskiftet.
-

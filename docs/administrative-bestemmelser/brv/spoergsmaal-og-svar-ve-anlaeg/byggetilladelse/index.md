@@ -22,16 +22,24 @@
 
 ## Spørgsmål og svar om om elproducerende vedvarende energianlæg (VE-anlæg)
 
-### Hvad forestås ved elproducerende VE-anlæg?
+<span id="hvad-forestas-ved-elproducerende-ve-anlg"></span>
 
-### Hvilke regler gælder for tilladelsesprocessen for elproducerende VE-anlæg?
+### Hvad forestås ved elproducerende VE-anlæg? {#c5b22905-afc5-426e-82c9-a68d4e97c5af}
 
-### I hvilke tilfælde skal der søges om byggetilladelse ved etablering af elproducerende VE-anlæg?
+<span id="hvilke-regler-glder-for-tilladelsesprocessen-for-elproducerende-ve-anlg"></span>
 
-For at afklare, om der skal søges om byggetilladelse til et elproducerende VE-anlæg, skal det først og fremmest afklares, om anlægget er omfattet af [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178)s anvendelsesområde. Det afgørende for, om anlægget er omfattet af [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178)s anvendelsesområde, er, om konstruktionen er væsentlig under hensyn til omgivelserne i forhold til omfang, højde og afstand, samt under hensyn til, at der opnås tilfredsstillende sikkerhedsmæssige forhold.
+### Hvilke regler gælder for tilladelsesprocessen for elproducerende VE-anlæg? {#5b44982e-eef9-4959-975f-ac716b5f2987}
 
-Det er kommunen som bygningsmyndighed, der i den konkrete sag vurderer, om det elproducerende VE-anlæg er omfattet af [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178). Hvis kommunen vurderer, at VE-anlægget er omfattet af [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178), vil etableringen af anlægget skulle leve op til relevante krav i bygningsreglementet og følge den generelle byggesagsbehandling. Det betyder bl.a., at der er krav om byggetilladelse til at påbegynde byggearbejdet og ibrugtagningstilladelse til at tage det færdige byggeri i brug. Ibrugtagningstilladelsen gives af kommunen i forbindelse med færdigmelding af byggeriet. For nærmere herom kan henvises til [Vejledning om byggesagsbehandling efter BR18](../../vejledning-om-byggesagsbehandling-efter-br18/ "Vejledning om byggesagsbehandling efter BR18").
+<span id="i-hvilke-tilflde-skal-der-sges-om-byggetilladelse-ved-etablering-af-elproducerende-ve-anlg"></span>
+
+### I hvilke tilfælde skal der søges om byggetilladelse ved etablering af elproducerende VE-anlæg? {#e421f431-bdb3-4f57-b4a4-89f8b2d852e5}
+
+For at afklare, om der skal søges om byggetilladelse til et elproducerende VE-anlæg, skal det først og fremmest afklares, om anlægget er omfattet af byggelovens anvendelsesområde. Det afgørende for, om anlægget er omfattet af byggelovens anvendelsesområde, er, om konstruktionen er væsentlig under hensyn til omgivelserne i forhold til omfang, højde og afstand, samt under hensyn til, at der opnås tilfredsstillende sikkerhedsmæssige forhold.
+
+Det er kommunen som bygningsmyndighed, der i den konkrete sag vurderer, om det elproducerende VE-anlæg er omfattet af byggeloven. Hvis kommunen vurderer, at VE-anlægget er omfattet af byggeloven, vil etableringen af anlægget skulle leve op til relevante krav i bygningsreglementet og følge den generelle byggesagsbehandling. Det betyder bl.a., at der er krav om byggetilladelse til at påbegynde byggearbejdet og ibrugtagningstilladelse til at tage det færdige byggeri i brug. Ibrugtagningstilladelsen gives af kommunen i forbindelse med færdigmelding af byggeriet. For nærmere herom kan henvises til [Vejledning om byggesagsbehandling efter BR18](../../vejledning-om-byggesagsbehandling-efter-br18/ "Vejledning om byggesagsbehandling efter BR18").
 
 I de tilfælde der er krav om byggetilladelse til et elproducerende VE-anlæg, skal kommunen i henhold til tidsfristerne for tilladelsesprocessen for VE-anlæg behandle ansøgningen om byggetilladelse til anlægget inden for to år. Tidsfristen på to år begynder at løbe, når alle relevante ansøgninger er indleveret til de relevante myndigheder i fyldestgørende stand.
 
-### Hvad er reglerne for brand- og konstruktionsforhold ved etablering af elproducerende VE-anlæg, og skal der tilknyttes en certificerede rådgivere?
+<span id="hvad-er-reglerne-for-brand-og-konstruktionsforhold-ved-etablering-af-elproducerende-ve-anlg-og-skal-der-tilknyttes-en-certificerede-radgivere"></span>
+
+### Hvad er reglerne for brand- og konstruktionsforhold ved etablering af elproducerende VE-anlæg, og skal der tilknyttes en certificerede rådgivere? {#6948a654-4eb8-45a4-a03b-9ebe7eedaa58}

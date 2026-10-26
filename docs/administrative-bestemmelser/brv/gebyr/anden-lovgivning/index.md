@@ -22,68 +22,68 @@
 
 ## Vejledning om gebyr for kommunernes sagsbehandling på byggeområdet
 
-[1.](../indledning/)
+<span id="protected_20s-regler-for-opkrvning-af-byggesagsgebyrer"></span><span id="indledning"></span>
 
-### Indledning
+### 1. Indledning {#c29b7dd6-3256-4187-b181-dfcf6a1f572b}
 
-[2.](../forfatningsretlige-regler/)
+<span id="de-forfatningsretlige-regler-for-opkrvning-af-gebyrer"></span>
 
-### De forfatningsretlige regler for opkrævning af gebyrer
+### 2. De forfatningsretlige regler for opkrævning af gebyrer {#8dd51c52-047a-472f-a141-644a9ef842ac}
 
-[3.](../byggelovens-regler/)
+<span id="byggelovens-regler-for-opkrvning-af-byggesagsgebyrer"></span>
 
-### Byggelovens regler for opkrævning af byggesagsgebyrer
+### 3. Byggelovens regler for opkrævning af byggesagsgebyrer {#568414fb-afec-4b2c-84c2-6ba8f7b41745}
 
-[4.](../byggesagsbehandling/)
+<span id="kommunalbestyrelsens-byggesagsbehandling-efter-br18"></span>
 
-### Kommunalbestyrelsens byggesagsbehandling efter BR18
+### 4. Kommunalbestyrelsens byggesagsbehandling efter BR18 {#1a86b6e8-3240-4380-b7e6-eba436bf0ff6}
 
-[5.](../tidsforbrug/)
+<span id="byggesagsgebyr-efter-tidsforbrug"></span>
 
-### Byggesagsgebyr efter tidsforbrug
+### 5. Byggesagsgebyr efter tidsforbrug {#9783af26-d3da-41cf-ab4e-b69c8a67b4fc}
 
-[6.](../gebyr-enkelt-sag/)
+<span id="faststtelse-af-gebyret-i-den-enkelte-sag"></span>
 
-### Fastsættelse af gebyret i den enkelte sag
+### 6. Fastsættelse af gebyret i den enkelte sag {#b659b5e1-970c-412d-9df0-7b0710aace6b}
 
-[7.](../fast-gebyr/)
+<span id="opkrvning-af-et-mindre-fast-gebyr"></span>
 
-### Opkrævning af et mindre, fast gebyr
+### 7. Opkrævning af et mindre, fast gebyr {#08c1b6a0-c551-428f-9c8e-9af6bf2affcd}
 
-[8.](../poster/)
+<span id="hvilke-poster-kan-indeholdes-i-gebyret"></span>
 
-### Hvilke poster kan indeholdes i gebyret?
+### 8. Hvilke poster kan indeholdes i gebyret? {#ca914ed6-250c-417c-a6d3-14938d30504a}
 
-[9.](../principper-timerpris/)
+<span id="generelle-principper-for-faststtelse-af-timeprisen"></span>
 
-### Generelle principper for fastsættelse af timeprisen
+### 9. Generelle principper for fastsættelse af timeprisen {#e208113b-0e80-41c0-9164-bbb8891d786b}
 
-[10.](../afslag/)
+<span id="byggesagsgebyr-i-sager-hvor-der-meddeles-afslag"></span>
 
-### Byggesagsgebyr i sager, hvor der meddeles afslag
+### 10. Byggesagsgebyr i sager, hvor der meddeles afslag {#e3f27deb-d2e1-4e29-a873-2e41abe22946}
 
-[11.](../deltilladelser/)
+<span id="byggesagsgebyr-for-deltilladelser"></span>
 
-### Byggesagsgebyr for deltilladelser
+### 11. Byggesagsgebyr for deltilladelser {#a1800975-5ead-4bc6-8883-ef6e665b5688}
 
-[12.](../forfaldstidspunkt/)
+<span id="byggesagsgebyrets-forfaldstidspunkt"></span>
 
-### Byggesagsgebyrets forfaldstidspunkt
+### 12. Byggesagsgebyrets forfaldstidspunkt {#70bed234-2cba-4a1f-bf1f-38ca072d4d97}
 
-[13.](../stikprove/)
+<span id="opkrvning-af-gebyr-for-kommunens-stikprvekontrol"></span>
 
-### Opkrævning af gebyr for kommunens stikprøvekontrol
+### 13. Opkrævning af gebyr for kommunens stikprøvekontrol {#93b91313-05fa-4d04-ad5e-86c5954b720e}
 
-[14.](./)
+<span id="byggesagsgebyr-nar-kommunen-paser-anden-lovgivning"></span>
 
-### Byggesagsgebyr, når kommunen påser anden lovgivning
+### 14. Byggesagsgebyr, når kommunen påser anden lovgivning {#2a2de623-31df-4776-9c74-591bbf8cb902}
 
-Det fremgår af BR18 [§ 35, stk. 2](/administrative-bestemmelser/krav/35_38/), at kommunen skal undersøge, om anden lovgivning er overholdt. Hvor meget sagsbehandling i byggesagen efter anden lovgivning, der kan opkræves gebyr for, beror på en konkret vurdering af, om sagsbehandlingsskridtet indgår som en naturlig del af byggesagsbehandlingen.     Udgifter forbundet med kommunens vurdering af byggesagen efter anden lovgivning, fx [planloven](https://www.retsinformation.dk/eli/lta/2024/572), som er nødvendig at påse med henblik på at kunne vurdere, om et byggeri kan tillades, vil således kunne medregnes i de samlede udgifter, der kan opkræves byggesagsgebyr for.
+Det fremgår af BR18 § 35, stk. 2, at kommunen skal undersøge, om anden lovgivning er overholdt. Hvor meget sagsbehandling i byggesagen efter anden lovgivning, der kan opkræves gebyr for, beror på en konkret vurdering af, om sagsbehandlingsskridtet indgår som en naturlig del af byggesagsbehandlingen.     Udgifter forbundet med kommunens vurdering af byggesagen efter anden lovgivning, fx planloven, som er nødvendig at påse med henblik på at kunne vurdere, om et byggeri kan tillades, vil således kunne medregnes i de samlede udgifter, der kan opkræves byggesagsgebyr for.
 
 Såfremt der som led i denne undersøgelse af anden lovgivning opstår en situation, hvor kommunen er nødsaget til at undersøge visse forhold under den anden lovgivning nærmere, herunder eksempelvis afklaring af en lovs anvendelsesområde, fortolkning af et regelsæt osv., vil der opstå en situation, hvor kommunen ikke blot nøjes med at vurdere byggeansøgningen efter anden lovgivning, og som derfor ikke naturligt indgår som en del af byggesagsbehandlingen. Det arbejde, der ligger i at få disse uklarheder vedrørende anden lovgivning afklaret, vil typisk falde uden for selve vurderingen af byggesagen, hvorfor tiden hertil ikke kan medregnes i opgørelsen af byggesagsgebyret.
 
-Der kan alene opkræves byggesagsgebyr i de sager, hvor der træffes afgørelse med hjemmel i [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178). Tilladelser og dispensationer, der meddeles i henhold til anden lovgivning, kan der derfor ikke opkræves byggesagsgebyr for. Dette ændres ikke af, at kommunen som myndighed i henhold til anden lovgivning skal meddele tilladelse, der er en forudsætning for, at byggetilladelsen kan meddeles. Som eksempel kan nævnes den situation, hvor en landzonetilladelse er en forudsætning for, at der kan meddeles byggetilladelse. I disse tilfælde kan der ikke opkræves byggesagsgebyr for udstedelse af landzonetilladelsen, idet landzonetilladelser meddeles med hjemmel i [planloven](https://www.retsinformation.dk/eli/lta/2024/572).
+Der kan alene opkræves byggesagsgebyr i de sager, hvor der træffes afgørelse med hjemmel i byggeloven. Tilladelser og dispensationer, der meddeles i henhold til anden lovgivning, kan der derfor ikke opkræves byggesagsgebyr for. Dette ændres ikke af, at kommunen som myndighed i henhold til anden lovgivning skal meddele tilladelse, der er en forudsætning for, at byggetilladelsen kan meddeles. Som eksempel kan nævnes den situation, hvor en landzonetilladelse er en forudsætning for, at der kan meddeles byggetilladelse. I disse tilfælde kan der ikke opkræves byggesagsgebyr for udstedelse af landzonetilladelsen, idet landzonetilladelser meddeles med hjemmel i planloven.
 
-[15.](../intern-instruks/)
+<span id="intern-instruks-i-kommunen"></span>
 
-### Intern instruks i kommunen
+### 15. Intern instruks i kommunen {#6cf93438-46ec-4275-b0ff-1de96795200c}

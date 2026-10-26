@@ -2,14 +2,15 @@
 
 ## Se alle vejledninger om Brandklasser (§ 490 - § 493)
 
-- [](../../faq)
-- [Spørgsmål og svar](../../spoergsmaal-og-svar)
-- [Vejledning om indplacering i brandklasser](../../indplacering-i-brandklasser)
-- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](..)
+- [](../../faq/)
+- [Spørgsmål og svar](../../spoergsmaal-og-svar/)
+- [Vejledning om indplacering i brandklasser](../../indplacering-i-brandklasser/)
+- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../)
 
 ## Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner
 
-### Klik her for link til temasiden Brandogkonstruktioner.dk
+<span id="klik-her-for-link-til-temasiden-brandogkonstruktionerdk"></span>
+
+### Klik her for link til temasiden Brandogkonstruktioner.dk {#b6829508-6d82-4320-9588-7a1ec14f9a8b}
 
 [Gå til temasiden Brandogkonstruktioner.dk og få overblik over brugen af certificerede statikere og brandrådgivere (nyt vindue)](https://brandogkonstruktioner.dk/){rel="noopener noreferrer" target="_blank"}
-

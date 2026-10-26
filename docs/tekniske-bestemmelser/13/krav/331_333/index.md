@@ -31,4 +31,3 @@ Indstrømning af radon til indeklimaet skal begrænses ved at gøre bygningskons
 Bygninger, som opføres på grunde med forurening fra eksempelvis tidligere lossepladser, gasværker eller forurenede industrigrunde, skal udføres, så forureningen ikke giver anledning til sundheds- eller sikkerhedsmæssigt utilfredsstillende indeklima.
 
 *Stk. 2.* Såfremt grunden bebygges, uden at forureningen i jorden er fuldstændig oprenset, skal indstrømning af jordforurening til indeklimaet begrænses ved at gøre bygningskonstruktionen mod undergrunden tilstrækkeligt luft- og diffusionstæt eller ved at benytte andre tilsvarende effektive foranstaltninger.
-

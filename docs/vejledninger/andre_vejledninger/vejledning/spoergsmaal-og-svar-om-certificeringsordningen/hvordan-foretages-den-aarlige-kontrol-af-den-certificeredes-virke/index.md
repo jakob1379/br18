@@ -2,38 +2,58 @@
 
 ## Se alle vejledninger om Andre vejledninger
 
-- [Vejledning om byggelovens § 6 D](../../vejledning-om-byggelovens-6-d)
-- [Vejledning om administration af skorstensfejerordningen](../../vejledning-om-skorstensfejerordningen)
-- [Spørgsmål og svar vedr. akkreditering og certificering ift. certificeringsordningen](../../qa-vedr-akkreditering-og-certificering-ift-certificeringsordningen)
-- [Spørgsmål og svar om certificeringsordningen](..)
-- [Oversigt over certificerede brandrådgivere og statikere samt anerkendte statikere](../../oversigt-over-certificerede-brandraadgivere-og-statikere)
-- [Vejledning om certificering af statikere og brandrådgivere](../../certificering_statikere_brandradgivere)
-- [Vejledning om installationer i eksisterende bygninger](../../installationer-eksisterende-byggeri)
-- [Vejledning om Tiny Houses](../../vejledning-om-tiny-houses)
-- [Vejledning om byggeskadeforsikring](../../byggeskadeforsikring)
-- [Vejledning til bekendtgørelse om forberedelse til og etablering af ladestandere i forbindelse med bygninger (ladestanderbekendtgørelsen)](../../vejledning-om-laderstander)
+- [Vejledning om byggelovens § 6 D](../../vejledning-om-byggelovens-6-d/)
+- [Vejledning om administration af skorstensfejerordningen](../../vejledning-om-skorstensfejerordningen/)
+- [Spørgsmål og svar vedr. akkreditering og certificering ift. certificeringsordningen](../../qa-vedr-akkreditering-og-certificering-ift-certificeringsordningen/)
+- [Spørgsmål og svar om certificeringsordningen](../)
+- [Oversigt over certificerede brandrådgivere og statikere samt anerkendte statikere](../../oversigt-over-certificerede-brandraadgivere-og-statikere/)
+- [Vejledning om certificering af statikere og brandrådgivere](../../certificering_statikere_brandradgivere/)
+- [Vejledning om installationer i eksisterende bygninger](../../installationer-eksisterende-byggeri/)
+- [Vejledning om Tiny Houses](../../vejledning-om-tiny-houses/)
+- [Vejledning om byggeskadeforsikring](../../byggeskadeforsikring/)
+- [Vejledning til bekendtgørelse om forberedelse til og etablering af ladestandere i forbindelse med bygninger (ladestanderbekendtgørelsen)](../../vejledning-om-laderstander/)
 
 ## Spørgsmål og svar om certificeringsordningen
 
-### Hvad er baggrunden for, at man laver en certificeringsordning?
+<span id="hvad-er-baggrunden-for-at-man-laver-en-certificeringsordning"></span>
 
-### Hvordan fungerer certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet?
+### Hvad er baggrunden for, at man laver en certificeringsordning? {#ad4de61f-3cf8-4edc-b651-84dc72a9baf7}
 
-### Hvordan hænger certificeringsordningen sammen med den øvrige afskaffelse af den kommunale tekniske byggesagsbehandling?
+<span id="hvordan-fungerer-certificeringsordninger-for-dokumentation-af-tekniske-forhold-i-bygningsreglementet"></span>
 
-### Hvad er årsagen til, at der indføres en overgangsperiode for brug af anerkendte statikere indtil 1. juli 2020?
+### Hvordan fungerer certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet? {#eda275fc-fa74-4d3b-b823-a0c4c3d489cd}
 
-### Kan man få teknisk byggesagsbehandling på brand- og konstruktionsområdet fra den 1. januar 2020?
+<span id="hvordan-hnger-certificeringsordningen-sammen-med-den-vrige-afskaffelse-af-den-kommunale-tekniske-byggesagsbehandling"></span>
 
-### Skal der tilknyttes en certificeret brandrådgiver eller statiker til alle byggeprojekter fra den 1. januar 2020?
+### Hvordan hænger certificeringsordningen sammen med den øvrige afskaffelse af den kommunale tekniske byggesagsbehandling? {#989cf28d-6d07-430f-9cd9-af3e859240e3}
 
-### Er der tilstrækkeligt med certificerede rådgivere den 1. januar 2020?
+<span id="hvad-er-arsagen-til-at-der-indfres-en-overgangsperiode-for-brug-af-anerkendte-statikere-indtil-1-juli-2020"></span>
 
-### Hvor mange certificeringsorganer er der?
+### Hvad er årsagen til, at der indføres en overgangsperiode for brug af anerkendte statikere indtil 1. juli 2020? {#e6a626de-ea49-4f61-a553-93da0962ffc0}
 
-### Hvor kan jeg finde vejledninger, der er relevante for certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet?
+<span id="kan-man-fa-teknisk-byggesagsbehandling-pa-brand-og-konstruktionsomradet-fra-den-1-januar-2020"></span>
 
-### Hvordan foretages den årlige kontrol af den certificeredes virke? (05.07.2021)
+### Kan man få teknisk byggesagsbehandling på brand- og konstruktionsområdet fra den 1. januar 2020? {#05cf223a-727d-4231-900f-99464b57dc56}
+
+<span id="skal-der-tilknyttes-en-certificeret-brandradgiver-eller-statiker-til-alle-byggeprojekter-fra-den-1-januar-2020"></span>
+
+### Skal der tilknyttes en certificeret brandrådgiver eller statiker til alle byggeprojekter fra den 1. januar 2020? {#c0e7ac1e-22cd-4b5a-950c-3fe5b2a26337}
+
+<span id="er-der-tilstrkkeligt-med-certificerede-radgivere-den-1-januar-2020"></span>
+
+### Er der tilstrækkeligt med certificerede rådgivere den 1. januar 2020? {#2c09dbb8-a8de-4fef-af1a-7dde6895ff41}
+
+<span id="hvor-mange-certificeringsorganer-er-der"></span>
+
+### Hvor mange certificeringsorganer er der? {#8343bc1d-b6b8-4fcd-8365-3c980e988322}
+
+<span id="hvor-kan-jeg-finde-vejledninger-der-er-relevante-for-certificeringsordninger-for-dokumentation-af-tekniske-forhold-i-bygningsreglementet"></span>
+
+### Hvor kan jeg finde vejledninger, der er relevante for certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet? {#0ad18cdd-ccaa-4e59-92cc-b4c993983651}
+
+<span id="hvordan-foretages-den-arlige-kontrol-af-den-certificeredes-virke-05072021"></span>
+
+### Hvordan foretages den årlige kontrol af den certificeredes virke? (05.07.2021) {#10750e8f-a882-46dd-8d2e-fe291b3a02e0}
 
 Formålet med den årlige kontrol er, at certificeringsorganet vurderer, om den certificerede har virket tilfredsstillende, jf. BR18, kapitel 32-34 med tilhørende bilag og vejledninger, på det konkrete projekt. Ved certificeringsorganets bedømmelse er det den certificeredes virke, og ikke projektet, der bedømmes.
 
@@ -43,8 +63,8 @@ Som følge heraf skal den certificerede hver 12. måned indsende en oversigt til
 
 <table>
 <colgroup>
-<col style="width: 26%" />
-<col style="width: 73%" />
+<col style="width: 50%" />
+<col style="width: 50%" />
 </colgroup>
 <tbody>
 <tr>
@@ -52,14 +72,15 @@ Som følge heraf skal den certificerede hver 12. måned indsende en oversigt til
 <td><strong>Vejledning til krav</strong></td>
 </tr>
 <tr>
-<td>1) Hvilket virke, den certificerede statiker eller brandrådgiver har haft.</td>
-<td><p>Den certificerede kan varetage sit virke i en af følgende funktioner:</p>
+<td><p>1) Hvilket virke, den certificerede statiker eller brandrådgiver har haft.</p>
+<p> </p></td>
+<td><p>Den certificerede kan varetage sit virke i en af følgende funktioner: </p>
 <ul>
 <li>Udarbejdende</li>
 <li>Kontrollerende</li>
 <li>Tredjepartskontrollant</li>
 </ul>
-<p>Den certificerede kan redegøre for sit virke ved beskrivelse af:</p>
+<p>Den certificerede kan redegøre for sit virke ved beskrivelse af: </p>
 <ul>
 <li>Hvilke dele, den certificerede selv har udarbejdet eller kontrolleret</li>
 <li>Hvilke dele, den certificerede har fået assistance til eller har uddelegeret til andre udarbejdende eller kontrollerende, og herunder hvilket niveau af kontrol, den certificerede har udført i den forbindelse.</li>
@@ -76,13 +97,13 @@ Som følge heraf skal den certificerede hver 12. måned indsende en oversigt til
 </tr>
 <tr>
 <td>3) Hvilken kommune, der har udstedt byggetilladelse til projektet.</td>
-<td><p>Det angives hvilken kommune, der har udstedt byggetilladelse til projekterne.</p>
-<p>Igangværende projekter, der endnu ikke har fået udstedt en byggetilladelse, bør ikke angives.</p></td>
+<td><p>Det angives hvilken kommune, der har udstedt byggetilladelse til projekterne. </p>
+<p>Igangværende projekter, der endnu ikke har fået udstedt en byggetilladelse, bør ikke angives. </p></td>
 </tr>
 <tr>
 <td>4) Byggesagen, som gør, at denne kan identificeres entydigt.</td>
 <td><p>Der skal angives en entydig identifikation af byggesagen.</p>
-<p>Dette kan være i form af en:</p>
+<p>Dette kan være i form af en: </p>
 <ul>
 <li>Matrikelbetegnelse</li>
 <li>Adgangsadresse</li>
@@ -96,7 +117,7 @@ Som følge heraf skal den certificerede hver 12. måned indsende en oversigt til
 </tr>
 <tr>
 <td>6) Dato for sluterklæringer, såfremt en sådan er indsendt til kommunen.</td>
-<td><p>For hvert projekt, hvor der er indsendt en sluterklæring, angives underskriftsdatoen for sluterklæringen.</p>
+<td><p>For hvert projekt, hvor der er indsendt en sluterklæring, angives underskriftsdatoen for sluterklæringen. </p>
 <p>Såfremt den certificerede i løbet af projektet er udskiftet, fremsendes tillige oplysninger om overdragelsesdato.</p></td>
 </tr>
 </tbody>
@@ -112,12 +133,7 @@ Bedømmelsen skal foretages af mindst én faglig bedømmer, jf. certificeringsbe
 
 Bedømmelsen omfatter som minimum:
 
-<table style="width:100%;">
-<colgroup>
-<col style="width: 48%" />
-<col style="width: 45%" />
-<col style="width: 5%" />
-</colgroup>
+<table>
 <tbody>
 <tr>
 <td><strong>Emne</strong></td>
@@ -127,11 +143,11 @@ Bedømmelsen omfatter som minimum:
 <tr>
 <td rowspan="3">En kontrol af start- og sluterklæringen for at bedømme, om start- og sluterklæringen opfylder sit formål</td>
 <td>a. Redegørelse for den certificeredes virke med henblik på at bedømme om vedkommende har virket som anført i beskrivelsen af virket.</td>
-<td>Stort</td>
+<td>Stort </td>
 </tr>
 <tr>
 <td>b. Overensstemmelse mellem start- og sluterklæring for så vidt angår indplacering i konstruktionsklasse(r)/brandklase(r).</td>
-<td>Stort</td>
+<td>Stort </td>
 </tr>
 <tr>
 <td>c. Om de valgte konstruktionsklasser/brandklasser er korrekte, og at dokumentation herfor er retvisende.</td>
@@ -139,16 +155,16 @@ Bedømmelsen omfatter som minimum:
 </tr>
 <tr>
 <td rowspan="2">En kontrol af, om dokumentation for de statiske forhold/brandforhold udgør et samlet hele og kan anvendes til at godtgøre, at bygningsreglementets krav til bærende konstruktioner/brandforhold er overholdt.</td>
-<td>a. Om projektet er dokumenteret i sin helhed, jf. BR18, kapitel 28 og 29.</td>
+<td>a. Om projektet er dokumenteret i sin helhed, jf. BR18, kapitel 28 og 29. </td>
 <td> Stort</td>
 </tr>
 <tr>
-<td>b. Om der er sammenhæng i dokumentationen for så vidt angår grænseflader for konstruktionsafsnit for de statiske forhold og strategidesign og driftsanvisninger for de brandtekniske forhold.</td>
+<td>b. Om der er sammenhæng i dokumentationen for så vidt angår grænseflader for konstruktionsafsnit for de statiske forhold og strategidesign og driftsanvisninger for de brandtekniske forhold. </td>
 <td>Stort</td>
 </tr>
 <tr>
-<td rowspan="3">En kontrol af, om den certificerede har opfyldt minimumskravet til virket.</td>
-<td>a. Omfang af de ydelser, som den certificerede selv har udarbejdet eller kontrolleret og om minimumskravet til virket er opfyldt.</td>
+<td rowspan="3">En kontrol af, om den certificerede har opfyldt minimumskravet til virket. </td>
+<td>a. Omfang af de ydelser, som den certificerede selv har udarbejdet eller kontrolleret og om minimumskravet til virket er opfyldt. </td>
 <td>Stort</td>
 </tr>
 <tr>
@@ -156,20 +172,20 @@ Bedømmelsen omfatter som minimum:
 <td>Stort</td>
 </tr>
 <tr>
-<td>c. Vurdering af de kompetencer for de personer, der udarbejder eller kontrollerer dokumentation i assistance eller uddelegering.</td>
+<td>c. Vurdering af de kompetencer for de personer, der udarbejder eller kontrollerer dokumentation i assistance eller uddelegering.  </td>
 <td>Tilfredsstillende</td>
 </tr>
 <tr>
 <td rowspan="3">En kontrol af, om kontrolplanen er fyldestgørende.</td>
 <td>a. Udpegning af kritiske fokuspunkter, som er væsentlige for byggeriets sikkerhed.</td>
-<td>Meget stort</td>
+<td>Meget stort </td>
 </tr>
 <tr>
 <td>b. Valg af kontroltyper og kontrolniveau, og at de er gennemført som planlagt.</td>
-<td>Stort</td>
+<td>Stort </td>
 </tr>
 <tr>
-<td>c. Håndtering af eventuelle afvigelser og ændringer i projektet.</td>
+<td>c. Håndtering af eventuelle afvigelser og ændringer i projektet. </td>
 <td>Stort</td>
 </tr>
 </tbody>
@@ -180,7 +196,7 @@ Eventuelle fejl og mangler i dokumenterne, som er ansøgerens virke uvedkommende
 Beskrivelse af niveau for den certificeredes virke fremgår af tabellen nedenfor. 
 
 |  |  |
-|:---|:---|
+|----|----|
 | **Niveau for virke** | **Beskrivelse** |
 | Meget stort | Granskningen viser, at den certificerede med stor sikkerhed virker som certificeret, herunder kan udarbejde eller kontrollere dokumentationen, og at der kun er få fejl eller mangler i både virke og dokumentationen, hvor ingen er væsentlige for byggeriets sikkerhed.  |
 | Stort | Granskningen viser, at den certificerede med stor sikkerhed virker som certificeret, herunder kan udarbejde eller kontrollere dokumentationen, og at der kun er nogle fejl eller mangler i både virke og dokumentationen, hvor ingen er væsentlige for byggeriets sikkerhed. |
@@ -198,6 +214,10 @@ Såfremt certificeringsorganet på baggrund af den årlige kontrol vurderer, at 
 
 Såfremt certificeringsorganet bliver opmærksom på fejl eller mangler i et projekt, der påvirker personsikkerheden negativt, skal certificeringsorganet uden ugrundet ophold orientere kommunalbestyrelsen i den stedlige kommune herom.
 
-### Hvordan foretages recertificering?
+<span id="hvordan-foretages-recertificering"></span>
 
-### Hvad er proceduren for en byggesag, hvor der er tilknyttet en certificeret statiker eller brandrådgiver, der får frataget sin certificering? (20.05.2021)
+### Hvordan foretages recertificering? {#4320ecc6-7cae-4ec6-b92f-b01d43ff4a38}
+
+<span id="hvad-er-proceduren-for-en-byggesag-hvor-der-er-tilknyttet-en-certificeret-statiker-eller-brandradgiver-der-far-frataget-sin-certificering-20052021"></span>
+
+### Hvad er proceduren for en byggesag, hvor der er tilknyttet en certificeret statiker eller brandrådgiver, der får frataget sin certificering? (20.05.2021) {#c18b6504-0206-4e99-bb9c-a874ae7da7ff}

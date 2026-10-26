@@ -3,26 +3,26 @@
 ## Se alle vejledninger om Brand (§ 82 - § 158)
 
 - [Spørgsmål og svar](./)
-- [Definitionsliste for brandmæssige begreber](../definitionsliste-for-brandmaessige-begreber)
-- [Bygningsreglementets vejledning til kapitel 5 - Brand](../generel_brand)
-  - [Bilag 1a - Præ-accepterede løsninger - Fritliggende og sammenbyggede enfamiliehuse](../generel_brand/enfamiliehuse)
-  - [Bilag 1b - Præ-accepterede løsninger - Sekundær bebyggelse i tilknytning til enfamiliehuse](../generel_brand/sekundear-bebyggelse)
-  - [Bilag 2 - Præ-accepterede løsninger - Etageboligbyggeri](../generel_brand/etageboligbyggeri)
-  - [Bilag 3 - Præ-accepterede løsninger - Kontorbygninger](../generel_brand/bilag-3-kontorbygninger)
-  - [Bilag 4 - Præ-accepterede løsninger - Forsamlingslokaler, butikker mv.](../generel_brand/bilag-4-forsamlingslokaler-og-butikker)
-  - [Bilag 5 - Præ-accepterede løsninger - Undervisningslokaler](../generel_brand/undervisningslokaler)
-  - [Bilag 6 - Præ-accepterede løsninger - Hoteller mv.](../generel_brand/hoteller)
-  - [Bilag 7 - Præ-accepterede løsninger - Bygningsafsnit, hvor personer ikke kan bringe sig i sikkerhed ved egen hjælp](../generel_brand/bilag-7-bygningsafsnit-i-anv-6)
-  - [Bilag 8 – Præ-accepterede løsninger - Jordbrugserhvervets avls- og driftsbygninger samt væksthuse til produktion](../generel_brand/bilag-8-praeaccepterede-loesninger-jordbrugserhvervets-avls-og-driftsbygninger-mv)
-  - [Bilag 9 - Præ-accepterede løsninger - Bygningsafsnit med garageanlæg](../generel_brand/bilag-9-garageanlaeg)
-  - [Bilag 10 - Præ-accepterede løsninger - Industri- og lagerbygninger](../generel_brand/industri-og-lagerbygninger)
-  - [Bilag 11 - Vejledning om udendørsarrangementer, salgsområder, midlertidige opstillinger, midlertidige overnatning og transportable konstruktioner](../generel_brand/bilag-11-markeder-transportable-konstruktioner-mv)
-  - [Bilag 12 - Præ-accepterede løsninger - Brandtekniske installationer](../generel_brand/brandtekniske-installationer)
-  - [Bilag 13 - Udfærdigelse af planer i forhold til brand](../generel_brand/bilag-13-udfaerdigelse-af-planer-i-forhold-til-brand)
-  - [Bilag 15 - Præ-accepterede løsninger for sekundær bebyggelse i tilknytning til andet end enfamiliehuse](../generel_brand/bilag-15-sekundaert-bebyggelse)
-  - [Bilag 16 - Præ-accepterede løsninger for mindre bebyggelse i anvendelseskategori 1 og 4](../generel_brand/bilag-16-praeaccepterede-loesninger-for-mindre-bebyggelse-i-anvendelseskategori-1-og-4)
-- [Oversigt over Bygningsreglementets vejledninger til kapitel 5 – Brand, inkl. udgivelsesdatoer](../oversigt-over-brs-vejledninger-til-kapitel-5-brand-inkl-udgivelsesdatoer-mv)
-- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../temasiden-brandogkonstruktioner-dk)
+- [Definitionsliste for brandmæssige begreber](../definitionsliste-for-brandmaessige-begreber/)
+- [Bygningsreglementets vejledning til kapitel 5 - Brand](../generel_brand/)
+  - [Bilag 1a - Præ-accepterede løsninger - Fritliggende og sammenbyggede enfamiliehuse](../generel_brand/enfamiliehuse/)
+  - [Bilag 1b - Præ-accepterede løsninger - Sekundær bebyggelse i tilknytning til enfamiliehuse](../generel_brand/sekundear-bebyggelse/)
+  - [Bilag 2 - Præ-accepterede løsninger - Etageboligbyggeri](../generel_brand/etageboligbyggeri/)
+  - [Bilag 3 - Præ-accepterede løsninger - Kontorbygninger](../generel_brand/bilag-3-kontorbygninger/)
+  - [Bilag 4 - Præ-accepterede løsninger - Forsamlingslokaler, butikker mv.](../generel_brand/bilag-4-forsamlingslokaler-og-butikker/)
+  - [Bilag 5 - Præ-accepterede løsninger - Undervisningslokaler](../generel_brand/undervisningslokaler/)
+  - [Bilag 6 - Præ-accepterede løsninger - Hoteller mv.](../generel_brand/hoteller/)
+  - [Bilag 7 - Præ-accepterede løsninger - Bygningsafsnit, hvor personer ikke kan bringe sig i sikkerhed ved egen hjælp](../generel_brand/bilag-7-bygningsafsnit-i-anv-6/)
+  - [Bilag 8 – Præ-accepterede løsninger - Jordbrugserhvervets avls- og driftsbygninger samt væksthuse til produktion](../generel_brand/bilag-8-praeaccepterede-loesninger-jordbrugserhvervets-avls-og-driftsbygninger-mv/)
+  - [Bilag 9 - Præ-accepterede løsninger - Bygningsafsnit med garageanlæg](../generel_brand/bilag-9-garageanlaeg/)
+  - [Bilag 10 - Præ-accepterede løsninger - Industri- og lagerbygninger](../generel_brand/industri-og-lagerbygninger/)
+  - [Bilag 11 - Vejledning om udendørsarrangementer, salgsområder, midlertidige opstillinger, midlertidige overnatning og transportable konstruktioner](../generel_brand/bilag-11-markeder-transportable-konstruktioner-mv/)
+  - [Bilag 12 - Præ-accepterede løsninger - Brandtekniske installationer](../generel_brand/brandtekniske-installationer/)
+  - [Bilag 13 - Udfærdigelse af planer i forhold til brand](../generel_brand/bilag-13-udfaerdigelse-af-planer-i-forhold-til-brand/)
+  - [Bilag 15 - Præ-accepterede løsninger for sekundær bebyggelse i tilknytning til andet end enfamiliehuse](../generel_brand/bilag-15-sekundaert-bebyggelse/)
+  - [Bilag 16 - Præ-accepterede løsninger for mindre bebyggelse i anvendelseskategori 1 og 4](../generel_brand/bilag-16-praeaccepterede-loesninger-for-mindre-bebyggelse-i-anvendelseskategori-1-og-4/)
+- [Oversigt over Bygningsreglementets vejledninger til kapitel 5 – Brand, inkl. udgivelsesdatoer](../oversigt-over-brs-vejledninger-til-kapitel-5-brand-inkl-udgivelsesdatoer-mv/)
+- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../temasiden-brandogkonstruktioner-dk/)
 
 ## Spørgsmål og svar
 
@@ -32,7 +32,7 @@
 
 Flere af de præ-accepterede vejledninger i bilag 1-10 til *Bygningsreglementets vejledning til kapitel 5 – Brand* angiver, at:
 
-*"Redningsberedskabets kørbare stiger skal kunne anvendes, når underkant af redningsåbninger er mere end 10,8 m over terræn, og der ikke er sikkerhedstrapper i bygningen."*
+*”Redningsberedskabets kørbare stiger skal kunne anvendes, når underkant af redningsåbninger er mere end 10,8 m over terræn, og der ikke er sikkerhedstrapper i bygningen.”*
 
 Brug af sikkerhedstrapper som flugtvej ved udeladelse af redningsåbninger er kun relevant, hvis der fra de enkelte brandmæssige enheder er direkte adgang til sikkerhedstrappen, evt. via et forrum uden brandbelastning, med begrænset størrelse og højst 6 m til luftsluse eller tryksat sikkerhedstrappe. Dette er normalt den løsning, der benyttes i etageboligbyggeri, hvor begrundelsen for, at trappen som flugtvejstrappe skal være en sikkerhedstrappe er, at den ikke må blive røgfyldt og dermed spærre flugtvejen fra samtlige etager.
 
@@ -48,7 +48,7 @@ For hotelbyggeri med gulv i øverste etage højst 22 m over terræn, hvor rednin
 
 ### Spørgsmål og svar om let tagkonstruktion (06-07-2022) {#71716646-28c1-4231-ac24-25fd9753bd1f}
 
-**Hvad forstås ved en 'let tagkonstruktion'?**  *I Bygningsreglementets vejledning til kapitel 5 – brand, Kapitel 3: Bærende konstruktioner*, er angivet følgende for bygninger i én etage i anvendelseskategori 1-5:
+**Hvad forstås ved en ’let tagkonstruktion’?**   *I Bygningsreglementets vejledning til kapitel 5 – brand, Kapitel 3: Bærende konstruktioner*, er angivet følgende for bygninger i én etage i anvendelseskategori 1-5:
 
 *I en bygning med let tagkonstruktion og med automatisk brandventilation, kan de bærende bygningsdele i bygningen udføres uden brandmodstandsevne, hvis brandsektionen er højst 1.000 m^2^, og i brandsektioner, der er større end 1.000 m^2^ kan de bærende konstruktioner, der bærer mindre end 200 m^2^ tag udføres uden krav til brandmodstandsevne.*
 
@@ -62,11 +62,11 @@ Følgende præciseres ved en kommende opdatering af Bygningsreglementets *vejled
 
 At fladedensiteten (fladevægten) for en let tagkonstruktion højst må være 30 kg/m^2^ for at det kan betragtes som en præ-accepteret løsning, har givet anledning til tvivlsspørgsmål og en række udfordringer i forhold til at overholde kravet i praksis, som ikke har været hensigten, hvorfor kravet udgår.
 
-### Spørgsmål og svar om dokumentation af bygningsdele ved brug af "alment teknisk fælleseje" (17-10-2023) {#47016155-51b4-45eb-9669-3ad825336d31}
+### Spørgsmål og svar om dokumentation af bygningsdele ved brug af ”alment teknisk fælleseje" (17-10-2023) {#47016155-51b4-45eb-9669-3ad825336d31}
 
 ### Kan alment teknisk fælleseje benyttes ved dokumentation af brandsikringstiltag til en præ-accepteret løsning? Og hvad er en certificeret brandrådgivers virke ift. dokumentation ved anvendelse af alment teknisk fælleseje?
 
-####
+<span id="_1"></span>
 
 #### Præ-accepteret løsning
 
@@ -107,7 +107,7 @@ I Bygningsreglementets Vejledning til kapitel 29: Dokumentation af brandforhold,
 
 *Alment teknisk fælleseje er blandt andet gældende europæiske standarder udarbejdet af CEN, ISO-standarder og danske standarder, SBi-anvisninger, BYG-ERFA-blade samt erfaringsformidling fra byggeskadefondene.*
 
-*Alment teknisk fælleseje kan anvendes som dokumentation for en løsning af et brandteknisk tiltag, og der kan ofte i en vis udstrækning findes beskrivelser for løsningens udformning, ydeevne og udførelse, som kan lægges til grund som dokumentation af løsningen.*
+ *Alment teknisk fælleseje kan anvendes som dokumentation for en løsning af et brandteknisk tiltag, og der kan ofte i en vis udstrækning findes beskrivelser for løsningens udformning, ydeevne og udførelse, som kan lægges til grund som dokumentation af løsningen.*
 
 *Ofte vil et dokument i det alment tekniske fælleseje ikke fuldt ud beskrive den konkrete løsning eller dokumentere ydeevnen, hvorfor dokumentation for brandtekniske tiltag i disse tilfælde må sammensættes fra flere kilder og suppleres med en beskrivelse af, hvordan det specifikke forhold baseres på principper og eksempler i de refererede dokumenter i det alment tekniske fælleseje.*
 
@@ -135,7 +135,7 @@ Den certificerede brandrådgivers virke omfatter således ikke udarbejdelse af d
 
 Der skal i dette tilfælde søges byggetilladelse, da det anses for en væsentlig anvendelsesændring, og der skal benyttes en certificeret rådgiver, idet byggeriet ikke kan indplaceres i brandklasse 1.
 
-I forbindelse med en ombygningssag kan man tage udgangspunkt i kapitel 1: Generelt om sikkerhed ved brand, afsnit 1.6.9, der er en del af *[Bygningsreglementets vejledning til kapitel 5 – Brand](../generel_brand)*. Her er der angivet retningslinjer og eksempler på afgrænsninger ved ombygninger, tilbygninger og anvendelsesændringer. Disse retningslinjer er gældende både for byggeri, hvor der skal søges om byggetilladelse, og byggeri, hvor der ikke skal om søges byggetilladelse.
+I forbindelse med en ombygningssag kan man tage udgangspunkt i kapitel 1: Generelt om sikkerhed ved brand, afsnit 1.6.9, der er en del af *[Bygningsreglementets vejledning til kapitel 5 – Brand](../generel_brand/)*. Her er der angivet retningslinjer og eksempler på afgrænsninger ved ombygninger, tilbygninger og anvendelsesændringer. Disse retningslinjer er gældende både for byggeri, hvor der skal søges om byggetilladelse, og byggeri, hvor der ikke skal om søges byggetilladelse.
 
 Retningslinjerne i afsnit 1.6.9 angiver, at eksisterende brandmæssige forhold, der ikke direkte influeres ved byggearbejdet, fortsat kan benyttes uændret i overensstemmelse med reglerne på opførelsestidspunktet eller senere relevante byggetilladelser. Dette medfører også, at dokumentationen, der skal indsendes i forbindelse med byggesagen, kun skal omhandle de forhold, der berøres ved byggearbejdet.
 
@@ -195,7 +195,7 @@ Den maksimale personbelastning skal fastsættes af den certificerede rådgiver. 
 
 • For rum der benyttes til flere end 150 personer skal der udarbejdes en pladsfordelingsplan.
 
-• For rum indrette til højst 150 personer bør retningslinjerne i bygningsreglementets vejledning til kapitel 5 – Brand, kapitel 7 vedrørende drift, kontrol og vedligehold, afsnit 7.3.7 følges, hvor det angives: *For forsamlingslokaler og butikker og lignende indrettet til højst 150 personer, kan der i lokalerne opsættes tydelig skiltning med den tilladte personbelastning. For eksempel "I dette lokale højst 150 personer".*
+• For rum indrette til højst 150 personer bør retningslinjerne i bygningsreglementets vejledning til kapitel 5 – Brand, kapitel 7 vedrørende drift, kontrol og vedligehold, afsnit 7.3.7 følges, hvor det angives: *For forsamlingslokaler og butikker og lignende indrettet til højst 150 personer, kan der i lokalerne opsættes tydelig skiltning med den tilladte personbelastning. For eksempel ”I dette lokale højst 150 personer”.*
 
 ### Hvordan skal varsling af personale i daginstitutioner udføres? (26.04.2021) {#16d2c8e8-3b82-4821-9e7e-3a2e60455478}
 
@@ -215,7 +215,7 @@ Som alternativ til gulvbelægning klasse D~fl~-s1 \[klasse G gulvbelægning\] ka
 
 ### Kan alarmtransmission til automatisk alarmering af redningsberedskabet bestå af to trådløse/luftbårne forbindelser? (04-03-2025) {#55332de0-f382-4b84-9a7e-4f0c9c7dad04}
 
-Af [*Bygningsreglementets vejledning til kapitel 5 – Brand, Bilag 12: Præ-accepterede løsninger for brandtekniske installationer og håndslukningsudstyr, afsnit 5.1.4.4*](../generel_brand/brandtekniske-installationer/brandtekniske-installationer#ec9a2e7a-f533-4a64-899e-51613803c8a4){rel="noopener" target="_blank"}, fremgår, at alarmtransmissionen skal udføres, så der altid kan ske alarmering af redningsberedskabet via en sikker og fastfortrådet prioriteret transmissionsforbindelse eller redundante typer forbindelser, hvoraf trådløs forbindelse kun må udgøre én af forbindelserne.
+Af [*Bygningsreglementets vejledning til kapitel 5 – Brand, Bilag 12: Præ-accepterede løsninger for brandtekniske installationer og håndslukningsudstyr, afsnit 5.1.4.4*](../generel_brand/brandtekniske-installationer/brandtekniske-installationer/#ec9a2e7a-f533-4a64-899e-51613803c8a4){rel="noopener" target="_blank"}, fremgår, at alarmtransmissionen skal udføres, så der altid kan ske alarmering af redningsberedskabet via en sikker og fastfortrådet prioriteret transmissionsforbindelse eller redundante typer forbindelser, hvoraf trådløs forbindelse kun må udgøre én af forbindelserne.
 
 Det er styrelsens vurdering, at der med mindst én sikker og kablet transmissionsforbindelse til alarmering af beredskabet opnås et forsvarligt sikkerhedsniveau. Det er dermed også styrelsens vurdering, at der med to trådløse/luftbårne forbindelser ikke kan opnås samme sikkerhedsniveau.
 
@@ -229,7 +229,7 @@ Ethvert bygningsafsnit skal henføres til mindst en anvendelseskategori, jf. BR1
 
 Hvis et bygningsafsnit indeholder flere anvendelseskategorier, skal brandsikringen i hele bygningsafsnittet opfylde de krav, der gælder for den anvendelseskategori i afsnittet, der har det største sikringsbehov, jf. BR18 § 85, stk. 2.
 
-I [*Bygningsreglementets vejledning til kapitel 5 – Brand, Kapitel 1: Generelt om sikkerhed ved brand, afsnit 1.4.3*](../generel_brand/kapitel-1){rel="noopener" target="_blank"}, er der givet eksempler på, hvilke bygningsafsnit, der typisk kan henføres til de forskellige anvendelseskategorier. Det er den faktiske anvendelse, der er bestemmende for, hvilke(n) anvendelseskategori(er) et bygningsafsnit skal henføres til, og ikke bygningsafsnittets betegnelse.
+I [*Bygningsreglementets vejledning til kapitel 5 – Brand, Kapitel 1: Generelt om sikkerhed ved brand, afsnit 1.4.3*](../generel_brand/kapitel-1/){rel="noopener" target="_blank"}, er der givet eksempler på, hvilke bygningsafsnit, der typisk kan henføres til de forskellige anvendelseskategorier. Det er den faktiske anvendelse, der er bestemmende for, hvilke(n) anvendelseskategori(er) et bygningsafsnit skal henføres til, og ikke bygningsafsnittets betegnelse.
 
 Det er styrelsens vurdering, at et lagerhotel med simple flugtveje til personophold for højst 50 personer, hvor der fra alle lagerrum er direkte udgang til terræn i det fri, vil kunne henføres til anvendelseskategori 1.
 
@@ -238,4 +238,3 @@ Der vil omvendt også være lagerhoteller, der ikke kan henføres til anvendelse
 Det er i forbindelse med ansøgningen om byggetilladelse ansøger (ofte en certificeret brandrådgiver), der skal fremsende dokumentation for indplacering i brandklasse. Dette sker på baggrund af anvendelseskategori, risikoklasse og dokumentationsmetode for brandsikkerheden.
 
 Det vil altid være en konkret vurdering i den aktuelle sag, til hvilken anvendelseskategori et lagerhotel skal henføres, baseret på de aktuelle forhold.
-

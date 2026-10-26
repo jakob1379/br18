@@ -22,66 +22,66 @@
 
 ## Vejledning om gebyr for kommunernes sagsbehandling på byggeområdet
 
-[1.](../indledning/)
+<span id="protected_20s-regler-for-opkrvning-af-byggesagsgebyrer"></span><span id="indledning"></span>
 
-### Indledning
+### 1. Indledning {#c29b7dd6-3256-4187-b181-dfcf6a1f572b}
 
-[2.](../forfatningsretlige-regler/)
+<span id="de-forfatningsretlige-regler-for-opkrvning-af-gebyrer"></span>
 
-### De forfatningsretlige regler for opkrævning af gebyrer
+### 2. De forfatningsretlige regler for opkrævning af gebyrer {#8dd51c52-047a-472f-a141-644a9ef842ac}
 
-[3.](../byggelovens-regler/)
+<span id="byggelovens-regler-for-opkrvning-af-byggesagsgebyrer"></span>
 
-### Byggelovens regler for opkrævning af byggesagsgebyrer
+### 3. Byggelovens regler for opkrævning af byggesagsgebyrer {#568414fb-afec-4b2c-84c2-6ba8f7b41745}
 
-[4.](../byggesagsbehandling/)
+<span id="kommunalbestyrelsens-byggesagsbehandling-efter-br18"></span>
 
-### Kommunalbestyrelsens byggesagsbehandling efter BR18
+### 4. Kommunalbestyrelsens byggesagsbehandling efter BR18 {#1a86b6e8-3240-4380-b7e6-eba436bf0ff6}
 
-[5.](../tidsforbrug/)
+<span id="byggesagsgebyr-efter-tidsforbrug"></span>
 
-### Byggesagsgebyr efter tidsforbrug
+### 5. Byggesagsgebyr efter tidsforbrug {#9783af26-d3da-41cf-ab4e-b69c8a67b4fc}
 
-[6.](../gebyr-enkelt-sag/)
+<span id="faststtelse-af-gebyret-i-den-enkelte-sag"></span>
 
-### Fastsættelse af gebyret i den enkelte sag
+### 6. Fastsættelse af gebyret i den enkelte sag {#b659b5e1-970c-412d-9df0-7b0710aace6b}
 
-[7.](../fast-gebyr/)
+<span id="opkrvning-af-et-mindre-fast-gebyr"></span>
 
-### Opkrævning af et mindre, fast gebyr
+### 7. Opkrævning af et mindre, fast gebyr {#08c1b6a0-c551-428f-9c8e-9af6bf2affcd}
 
-[8.](../poster/)
+<span id="hvilke-poster-kan-indeholdes-i-gebyret"></span>
 
-### Hvilke poster kan indeholdes i gebyret?
+### 8. Hvilke poster kan indeholdes i gebyret? {#ca914ed6-250c-417c-a6d3-14938d30504a}
 
-[9.](../principper-timerpris/)
+<span id="generelle-principper-for-faststtelse-af-timeprisen"></span>
 
-### Generelle principper for fastsættelse af timeprisen
+### 9. Generelle principper for fastsættelse af timeprisen {#e208113b-0e80-41c0-9164-bbb8891d786b}
 
-[10.](./)
+<span id="byggesagsgebyr-i-sager-hvor-der-meddeles-afslag"></span>
 
-### Byggesagsgebyr i sager, hvor der meddeles afslag
+### 10. Byggesagsgebyr i sager, hvor der meddeles afslag {#e3f27deb-d2e1-4e29-a873-2e41abe22946}
 
-I BR18 [§ 39, stk. 1](/administrative-bestemmelser/krav/39/), fremgår det, at der kan opkræves gebyr, selvom der meddeles afslag på en ansøgning om byggetilladelse, midlertidig tilladelse eller dispensation efter reglementet. Det er dog frivilligt, hvorvidt kommunen vælger at opkræve gebyr for afslag, idet kommunen efter [§ 39, stk. 1](/administrative-bestemmelser/krav/39/), selv kan vælge om og i givet fald i hvilke sagstyper, der skal opkræves byggesagsgebyr. Se mere herom i afsnit 5.    Hvis kommunen vælger at opkræve gebyr i sager, hvor kommunens afgørelse har karakter af et afslag, er det vigtigt at skelne mellem afvisning og afslag, idet der alene er hjemmel til at opkræve gebyr for afslag.    Et afslag er den afgørelse, som kommunen når frem til, efter der er foretaget en egentlig byggesagsbehandling af sagen, men hvor der er forhold, der gør, at byggeriet ikke kan tillades.       En afvisning er den situation, hvor kommunen afviser at foretage en egentlig byggesagsbehandling, da der fra sagens start mangler væsentlige oplysninger i sagen, eller hvis det viser sig, at sagen ikke skal behandles efter byggelovgivningen. En afvisning dækker således over de situationer, hvor kommunen vurderer, at der foreligger formalitetsmæssige mangler i en ansøgning og således må afvise sagen uden at have prøvet eller behandlet sagens materielle indhold. En afvisning indebærer således, at kommunen ikke har vurderet og taget stilling til sagens konkrete indhold.
+I BR18 § 39, stk. 1, fremgår det, at der kan opkræves gebyr, selvom der meddeles afslag på en ansøgning om byggetilladelse, midlertidig tilladelse eller dispensation efter reglementet. Det er dog frivilligt, hvorvidt kommunen vælger at opkræve gebyr for afslag, idet kommunen efter § 39, stk. 1, selv kan vælge om og i givet fald i hvilke sagstyper, der skal opkræves byggesagsgebyr. Se mere herom i afsnit 5.    Hvis kommunen vælger at opkræve gebyr i sager, hvor kommunens afgørelse har karakter af et afslag, er det vigtigt at skelne mellem afvisning og afslag, idet der alene er hjemmel til at opkræve gebyr for afslag.    Et afslag er den afgørelse, som kommunen når frem til, efter der er foretaget en egentlig byggesagsbehandling af sagen, men hvor der er forhold, der gør, at byggeriet ikke kan tillades.       En afvisning er den situation, hvor kommunen afviser at foretage en egentlig byggesagsbehandling, da der fra sagens start mangler væsentlige oplysninger i sagen, eller hvis det viser sig, at sagen ikke skal behandles efter byggelovgivningen. En afvisning dækker således over de situationer, hvor kommunen vurderer, at der foreligger formalitetsmæssige mangler i en ansøgning og således må afvise sagen uden at have prøvet eller behandlet sagens materielle indhold. En afvisning indebærer således, at kommunen ikke har vurderet og taget stilling til sagens konkrete indhold.
 
 De udgifter, som kommunen vil have i forbindelse med afvisning af en ansøgning, kan dækkes som en del af de samlede, indirekte udgifter, som kommunerne har i forbindelse med administrationen af byggesagsbehandlingen, jf. afsnit 15. Disse udgifter kan kommunen lade afspejle i den timepris, som kommunen selv fastsætter.
 
-[11.](../deltilladelser/)
+<span id="byggesagsgebyr-for-deltilladelser"></span>
 
-### Byggesagsgebyr for deltilladelser
+### 11. Byggesagsgebyr for deltilladelser {#a1800975-5ead-4bc6-8883-ef6e665b5688}
 
-[12.](../forfaldstidspunkt/)
+<span id="byggesagsgebyrets-forfaldstidspunkt"></span>
 
-### Byggesagsgebyrets forfaldstidspunkt
+### 12. Byggesagsgebyrets forfaldstidspunkt {#70bed234-2cba-4a1f-bf1f-38ca072d4d97}
 
-[13.](../stikprove/)
+<span id="opkrvning-af-gebyr-for-kommunens-stikprvekontrol"></span>
 
-### Opkrævning af gebyr for kommunens stikprøvekontrol
+### 13. Opkrævning af gebyr for kommunens stikprøvekontrol {#93b91313-05fa-4d04-ad5e-86c5954b720e}
 
-[14.](../anden-lovgivning/)
+<span id="byggesagsgebyr-nar-kommunen-paser-anden-lovgivning"></span>
 
-### Byggesagsgebyr, når kommunen påser anden lovgivning
+### 14. Byggesagsgebyr, når kommunen påser anden lovgivning {#2a2de623-31df-4776-9c74-591bbf8cb902}
 
-[15.](../intern-instruks/)
+<span id="intern-instruks-i-kommunen"></span>
 
-### Intern instruks i kommunen
+### 15. Intern instruks i kommunen {#6cf93438-46ec-4275-b0ff-1de96795200c}

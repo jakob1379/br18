@@ -2,15 +2,19 @@
 
 ## Se alle vejledninger om Bygningens indretning (§ 196 - § 241)
 
-- [Spørgsmål og svar om bygningens indretning](../../qa)
-- [Vejledning om boligindretning](./)
-- [Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger](../../bygningsglas)
+- [Spørgsmål og svar om bygningens indretning](../../qa/)
+- [Vejledning om boligindretning](../)
+- [Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger](../../bygningsglas/)
 
 ## Vejledning om boligindretning
 
-### Kolofon
+<span id="kolofon"></span>
 
-### Forord
+### Kolofon {#818585de-abef-41f2-b417-27010078f7d0}
+
+<span id="forord"></span>
+
+### Forord {#a65228a9-ae42-48b3-b79b-97cd2de40d36}
 
 ### 1. Boligens beboere {#f036d581-3495-4f91-bd3a-93c1361c0e4d}
 
@@ -34,11 +38,11 @@ Overgangszonen kan desuden tænkes som et fællesområde, der kan udformes, så 
 
 Se SBi-anvisning 272, Anvisning om Bygningsreglementet 2018 – 2. Adgangsforhold, Fælles adgangsveje i bygningen (de Place Hansen, 2018).
 
-###
-
 ![](../../../../../media/p0rlsaxg/illustration-04-br-vejledning-om-boligindretning.png)
 
 Illustration 04: Boligens adgangsveje kan alt efter deres karakter bruges til rekreative områder og give beboerne mulighed for at skabe uformelle mødesteder. Udformningen af overgangszonen med niveauer af privathed fra det offentlige rum til den private bolig eller zonen tæt på boligen kan sikre, at det føles naturligt at trække uden for sin bolig, uden at føle sig eksponeret.
+
+<span id="_1"></span>
 
 ### 2.4. Boligens størrelse {#5799d662-e35a-47a9-be19-daccfe701c15}
 
@@ -72,5 +76,6 @@ Illustration 04: Boligens adgangsveje kan alt efter deres karakter bruges til re
 
 ### 3.7. At bade {#9d95ee42-38e2-41d4-ae53-1d23da54a544}
 
-### Appendix: Litteratur
+<span id="appendix-litteratur"></span>
 
+### Appendix: Litteratur {#dad94911-d8be-4830-9756-dcbefa202590}

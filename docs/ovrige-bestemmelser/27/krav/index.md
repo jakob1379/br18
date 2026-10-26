@@ -18,7 +18,9 @@ Risikoklassen skal fastlægges i henhold til kapitel 5 og er baseret på byggeri
 
 ### § 492 {#paragraf-492}
 
-(Ophævet) § 492 er ophævet.
+(Ophævet)
+
+§ 492 er ophævet.
 
 ### § 493 {#paragraf-493}
 
@@ -62,7 +64,6 @@ d) Brandteknisk dimensionering.
 
 1) En certificeret brandrådgiver skal inddrages.
 
-2\) Dokumentationen skal udfærdiges efter principperne i kapitel 29 og 30. 
+2\) Dokumentationen skal udfærdiges efter principperne i kapitel 29 og 30.
 
 *Stk. 6.* Dokumentationen for overholdelse af stk. 3 og stk. 5 skal indsendes i forbindelse med ansøgning om byggetilladelse.
-

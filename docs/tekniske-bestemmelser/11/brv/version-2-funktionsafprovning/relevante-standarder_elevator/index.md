@@ -2,15 +2,15 @@
 
 ## Se alle vejledninger om Energiforbrug og klimapåvirkning (§ 250 - § 298)
 
-- [Spørgsmål og svar om energiforbrug](../../qa)
-- [Spørgsmål og svar om bygningers klimapåvirkning](../../spoergsmaal-og-svar-om-bygningers-klimapaavirkning)
-- [Bygningsreglementets vejledning om energiforbrug](../../energiforbrug-2)
-- [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner)
-- [Vejledning om funktionsafprøvning](./)
-- [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov)
-- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../../bygningers-klimapaavirkning-1-juli-2025)
-- [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler)
-- [Eksempelsamling for energi](../../eksempelsamling)
+- [Spørgsmål og svar om energiforbrug](../../qa/)
+- [Spørgsmål og svar om bygningers klimapåvirkning](../../spoergsmaal-og-svar-om-bygningers-klimapaavirkning/)
+- [Bygningsreglementets vejledning om energiforbrug](../../energiforbrug-2/)
+- [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner/)
+- [Vejledning om funktionsafprøvning](../)
+- [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov/)
+- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../../bygningers-klimapaavirkning-1-juli-2025/)
+- [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler/)
+- [Eksempelsamling for energi](../../eksempelsamling/)
 
 ## Vejledning om funktionsafprøvning
 
@@ -63,26 +63,28 @@
 Relevante standarder i forbindelse med funktionsafprøvning af elevatorer omfatter:
 
 > • DS/EN ISO 25745-1, *Energieffektivitet for elevatorer, rulletrapper og rullefor-tov – Del 1: Energimåling og verifikation.*
+
 >
+
 > • DS/EN ISO 25745-2, *Elevatorer, rulletrapper og rullefortoves energieffektivitet - Del 2: Beregning af energi for og klassifikation af elevatorer*
 
-[![](../../../../../assets/img/linkbox/ds_en_iso_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/ds_en_iso_linkbox.svg)](#)
 
 #### DS/EN ISO 25745-1
 
 Energieffektivitet for elevatorer, rulletrapper og rullefortov - Del 1: Energimåling og verifikation
 
-####
+<span id="_1"></span>
 
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/s%c3%b8gning/91-140-90-elevatorer-rullende-trapper/ds-en-iso-25745-12012 "DS/EN ISO 25745-1"){target="_blank"}
 
-[![](../../../../../assets/img/linkbox/ds_en_iso_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/ds_en_iso_linkbox.svg)](#)
 
 #### DS/EN ISO 25745-2
 
 Elevatorer, rulletrapper og rullefortoves energieffektivitet - Del 2: Beregning af energi for og klassifikation af elevatorer
 
-####
+<span id="_2"></span>
 
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/s%c3%b8gning/91-140-90-elevatorer-rullende-trapper/ds-en-iso-25745-22015 "DS/EN ISO 25745-2"){target="_blank"}
 

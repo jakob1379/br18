@@ -2,15 +2,19 @@
 
 ## Se alle vejledninger om Bygningens indretning (§ 196 - § 241)
 
-- [Spørgsmål og svar om bygningens indretning](../../qa)
-- [Vejledning om boligindretning](./)
-- [Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger](../../bygningsglas)
+- [Spørgsmål og svar om bygningens indretning](../../qa/)
+- [Vejledning om boligindretning](../)
+- [Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger](../../bygningsglas/)
 
 ## Vejledning om boligindretning
 
-### Kolofon
+<span id="kolofon"></span>
 
-### Forord
+### Kolofon {#818585de-abef-41f2-b417-27010078f7d0}
+
+<span id="forord"></span>
+
+### Forord {#a65228a9-ae42-48b3-b79b-97cd2de40d36}
 
 ### 1. Boligens beboere {#f036d581-3495-4f91-bd3a-93c1361c0e4d}
 
@@ -38,11 +42,11 @@ En lille bolig, der er udfordret på sit areal, vil typisk have behov for, at no
 
 En bebyggelse, der indeholder flere forskellige boligstørrelser og boligplaner, kan give mulighed for en differentieret beboersammensætning. Det vil kunne give stedets beboere mulighed for, at finde en anden og mere passende bolig, uden at skulle flytte fra området, hvis eller når deres boligbehov ændrer sig.
 
-###
-
 ![](../../../../../media/ldkfwoyn/illustration-05-br-vejledning-om-boligindretning.png)
 
 Illustration 05: For at en bolig fungerer optimalt, bør man være opmærksom på dens ganglinjer. Det er de usynlige områder, der er omkring en møblering, eller forbindelsen imellem tilstødende rum og adgang til terrassedøren og hovedindgangen
+
+<span id="_1"></span>
 
 ### 2.5. Boligens rumforløb og rummenes udformning {#bdf8d6bb-12e6-4fa0-b45c-915bcdc0c7b9}
 
@@ -74,5 +78,6 @@ Illustration 05: For at en bolig fungerer optimalt, bør man være opmærksom p�
 
 ### 3.7. At bade {#9d95ee42-38e2-41d4-ae53-1d23da54a544}
 
-### Appendix: Litteratur
+<span id="appendix-litteratur"></span>
 
+### Appendix: Litteratur {#dad94911-d8be-4830-9756-dcbefa202590}

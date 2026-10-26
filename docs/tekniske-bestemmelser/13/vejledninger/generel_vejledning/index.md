@@ -2,7 +2,9 @@
 
 ## Bygningsreglementets vejledning om forureninger
 
-### Forord
+<span id="forord"></span>
+
+### Forord {#eec95c80-5133-4555-93bc-de82458e71df}
 
 Forureninger fra byggematerialer og fra undergrunden er blandt de vigtigste kilder til forureninger i indeklimaet. Det er derfor vigtigt at sikre bygningen mod disse forureninger.
 
@@ -18,7 +20,7 @@ Der skal tages højde for, at der er tilstrækkelig tilførsel af udeluft af byg
 
 Koncentrationen af forurening fra byggematerialerne i indeluften bør primært sænkes ved at mindske kildestyrken og alternativt ved at øge fortyndingen med tilført udeluft.
 
-Byggevarer, der skal anvendes til varig indbygning i et byggeri reguleres i henhold til [byggevareforordningen](http://eur-lex.europa.eu/legal-content/DA/TXT/PDF/?uri=CELEX:02011R0305-20140616&from=DA){rel="noopener" target="_blank"}, der sammen med [REACH](https://eur-lex.europa.eu/legal-content/da/TXT/PDF/?uri=CELEX:02006R1907-20180301&from=EN){rel="noopener" target="_blank"} (EU's forordning vedrørende registrering, vurdering, godkendelse og begrænsning af kemikalier i EU) sikrer, at oplysninger f.eks. i form af et sikkerhedsdatablad om byggevarens indhold af farlige stoffer følger byggevaren. På baggrund af disse oplysninger kan indholdet af farlige stoffer i en byggevare vurderes.
+Byggevarer, der skal anvendes til varig indbygning i et byggeri reguleres i henhold til [byggevareforordningen](http://eur-lex.europa.eu/legal-content/DA/TXT/PDF/?uri=CELEX:02011R0305-20140616&from=DA){rel="noopener" target="_blank"}, der sammen med [REACH](https://eur-lex.europa.eu/legal-content/da/TXT/PDF/?uri=CELEX:02006R1907-20180301&from=EN){rel="noopener" target="_blank"} (EU’s forordning vedrørende registrering, vurdering, godkendelse og begrænsning af kemikalier i EU) sikrer, at oplysninger f.eks. i form af et sikkerhedsdatablad om byggevarens indhold af farlige stoffer følger byggevaren. På baggrund af disse oplysninger kan indholdet af farlige stoffer i en byggevare vurderes.
 
 Afgasning af forureninger fra byggematerialer til indeklimaet er blandt andet flygtige organiske stoffer (VOC), der kan være carcinogene, mutagene og reproduktionsskadelige stoffer (CMR). Det harmoniserede EU-LCI koncept kan anvendes til en sundhedsmæssig risikobaseret vurdering af byggevarers afgasning af visse stoffer.
 
@@ -62,17 +64,17 @@ Affaldet fra kulfyring i form af slagger, f.eks. fra kraftværker, kan indeholde
 
 Der henvises desuden til [jordforureningsloven](https://www.retsinformation.dk/forms/r0710.aspx?id=188394){rel="noopener" target="_blank"} og dennes krav til udearealer.
 
-[![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](#)
 
 #### DS/EN 1992-1-1
 
 Betonkonstruktioner
 
-####
+<span id="_1"></span>
 
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/Default.aspx?ID=120&q=1992-1-1&status=4&harmonized=BrInstruction "DS/EN 1992-1-1"){target="_blank"}
 
-[![](../../../../assets/img/linkbox/sbi_anv_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/sbi_anv_linkbox.svg)](#)
 
 #### SBi-anvisning 233
 
@@ -88,7 +90,7 @@ Anvisningen henvender sig til både bygherrer, projekterende og udførende
 
 #### [Find anvisningen her](https://sbi.dk/anvisninger/Pages/233-Radonsikring-af-nye-bygninger-2.aspx "SBi-anvisning 233"){target="_blank"}
 
-[![](../../../../assets/img/linkbox/sbi_anv_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/sbi_anv_linkbox.svg)](#)
 
 #### SBi-anvisning 270
 
@@ -104,7 +106,7 @@ Anvisningen knytter sig til SBi-anvisning 233, Radonsikring af nye bygninger og 
 
 #### [Find anvisningen her](https://sbi.dk/anvisninger/Pages/270-SBi-Anvisning-1.aspx "SBi-anvisning 270"){target="_blank"}
 
-[![](../../../../assets/img/linkbox/sbi_anv_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/sbi_anv_linkbox.svg)](#)
 
 #### SBi-anvisning 247
 
@@ -119,4 +121,3 @@ Anvisningen knytter sig til SBi-anvisning 232, Radon – kilder og måling, der 
 SBi-anvisning 247 henvender sig til både bygherrer, projekterende og udførende, der ønsker at radonsikre eksisterende bygninger.
 
 #### [Find anvisningen her](https://sbi.dk/anvisninger/Pages/247-Radonsikring-af-eksisterende-bygninger-2.aspx "SBi-anvisning 247"){target="_blank"}
-

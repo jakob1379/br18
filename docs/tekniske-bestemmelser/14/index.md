@@ -1,52 +1,52 @@
----
-title: Fugt og vådrum (§ 334 - § 339)
----
-
 # Fugt og vådrum (§ 334 - § 339)
 
 [Krav](./){ .md-button .md-button--primary }
 [Vejledning](brv/){ .md-button }
 
-## § 334 - § 338 Fugt {#s334-338}
+<span id="s334-338"></span>
 
-### § 334 {#p334 #paragraf-334}
+## § 334 - § 338 Fugt {#15eef60e-136b-4f8a-88ab-46705ab5ca21}
+
+### § 334 {#paragraf-334}
 
 Bygninger skal projekteres, udføres og vedligeholdes, så vand og fugt ikke medfører risiko for personers sundhed eller skader på bygningen.
 
-### § 335 {#p335 #paragraf-335}
+### § 335 {#paragraf-335}
 
 Bygninger skal sikres mod skadelig akkumulering af fugt som følge af fugttransport fra indeluften. Kuldebroer i klimaskærmen må ikke medføre problemer med f.eks. kondensdannelse og skimmelvækst.
 
-### § 336 {#p336 #paragraf-336}
+### § 336 {#paragraf-336}
 
-Bygningskonstruktioner og -materialer må ikke have et fugtindhold, der ved indflytning medfører risiko for vækst af skimmelsvamp.
+Bygningskonstruktioner og –materialer må ikke have et fugtindhold, der ved indflytning medfører risiko for vækst af skimmelsvamp.
 
-### § 337 {#p337 #paragraf-337}
+### § 337 {#paragraf-337}
 
 Bygninger skal sikres mod indtrængning af vand fra grundvand og overfladevand. Bygninger skal desuden sikres mod opsugning af fugt fra undergrunden.
 
-### § 338 {#p338 #paragraf-338}
+### § 338 {#paragraf-338}
 
 Klimaskærmen skal projekteres, udføres og vedligeholdes, så der er tæthed mod indtrængen af regn og smeltevand, og så det på en forsvarlig måde kan løbe af. Tagvand skal via tagrender og/eller tagnedløb afledes til afløb.
 
-[Gå til BR-vejledning om Fugt og vådrum](brv/){ .md-button }
+- Gå til BR-vejledning om Fugt og vådrum
 
-## § 339 Vådrum {#s339}
+<span id="s339"></span>
 
-### § 339 {#p339 #paragraf-339}
+## § 339 Vådrum {#eb0ba6a3-9056-4315-aba8-417e17607290}
+
+### § 339 {#paragraf-339}
 
 Vådrum, herunder baderum samt bryggers og WC-rum med gulvafløb, skal opfylde følgende krav:
 
-1. Gulve og vægge skal udføres, så de kan modstå de fugtpåvirkninger og de mekaniske og kemiske påvirkninger, der normalt forekommer i vådrum.
+1\) Gulve og vægge skal udføres, så de kan modstå de fugtpåvirkninger og de mekaniske og kemiske påvirkninger, der normalt forekommer i vådrum.
 
-2. Gulve og gulvbelægninger, herunder samlinger, tilslutninger, rørgennemføringer og lignende, skal være vandtætte.
+2\) Gulve og gulvbelægninger, herunder samlinger, tilslutninger, rørgennemføringer og lignende, skal være vandtætte.
 
-3. I den vandbelastede del af vådrummet må der ikke udføres rørgennemføringer i gulvet.
+3\) I den vandbelastede del af vådrummet må der ikke udføres rørgennemføringer i gulvet.
 
-4. I den vandbelastede del af rummet skal vægge og vægbeklædninger, herunder samlinger, tilslutninger, rørgennemføringer og lignende, være vandtætte.
+4\) I den vandbelastede del af rummet skal vægge og vægbeklædninger, herunder samlinger, tilslutninger, rørgennemføringer og lignende, være vandtætte.
 
-5. Vand på gulvet skal afledes til gulvafløb.
+5\) Vand på gulvet skal afledes til gulvafløb.
 
-6. Ved brug af skeletvægge samt gulv- og vægkonstruktioner, der indeholder træ eller andre organiske materialer, skal der anvendes et egnet vandtætningssystem.
+6\) Ved brug af skeletvægge samt gulv- og vægkonstruktioner, der indeholder træ eller andre organiske materialer, skal der anvendes et egnet vandtætningssystem.
 
-[Gå til BR-vejledning om vådrum](brv/#bygningsreglementets-vejledning-om-fugt-og-vaadrum){ .md-button }
+- Gå til BR-vejledning om vådrum

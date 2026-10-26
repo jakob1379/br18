@@ -22,7 +22,7 @@ Husholdningsaffald skal kunne opbevares sundhedsmæssigt forsvarligt i bygningen
 
 ### § 65 {#paragraf-65}
 
-Affaldssystemerne skal indrettes, så det er muligt for [brugerne](../../../02/vejledninger/vejledning-til-brugerbegreb "Vejledning til brugerbegreb") at benytte dem ved egen hjælp.
+Affaldssystemerne skal indrettes, så det er muligt for [brugerne](../../../02/vejledninger/vejledning-til-brugerbegreb/ "Vejledning til brugerbegreb") at benytte dem ved egen hjælp.
 
 ### § 66 {#paragraf-66}
 

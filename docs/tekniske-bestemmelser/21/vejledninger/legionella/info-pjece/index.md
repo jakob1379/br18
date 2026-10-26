@@ -10,9 +10,12 @@
 
 ## Vejledning om legionella
 
-### Link til vejledning om legionella
+<span id="link-til-vejledning-om-legionella"></span>
 
-### Infopjece om legionella
+### Link til vejledning om legionella {#4eca335e-b4a8-45ed-9164-a9a25b54eadd}
+
+<span id="infopjece-om-legionella"></span>
+
+### Infopjece om legionella {#04bdf50d-bb91-40c0-bc77-9993c2132b7b}
 
 [Åbn Infopjece om legionella](../../../../../media/wuac5lhm/2018_12_03_legionella_pjece-a.pdf)
-

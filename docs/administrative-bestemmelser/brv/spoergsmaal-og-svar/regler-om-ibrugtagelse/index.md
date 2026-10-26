@@ -22,60 +22,60 @@
 
 ## Spørgsmål og svar
 
-[?](../fejl-og-ansvar/)
+<span id="sprgsmal-og-svar-om-fejl-og-ansvar-02-10-2020"></span>
 
-### Spørgsmål og svar om fejl og ansvar (02-10-2020)
+### Spørgsmål og svar om fejl og ansvar (02-10-2020) {#42bdc012-7c2e-4ac9-92d2-ce5fad882dc6}
 
-[?](../altaner/)
+<span id="sprgsmal-og-svar-om-altaner-og-certificerede-radgivere-11-12-2020"></span>
 
-### Spørgsmål og svar om altaner og certificerede rådgivere (11-12-2020)
+### Spørgsmål og svar om altaner og certificerede rådgivere (11-12-2020) {#4d82c1df-ca5c-4814-bccc-0ca21aa321b7}
 
-[?](../lovliggoerelse/)
+<span id="sprgsmal-og-svar-om-lovliggrelse-og-certificerede-radgivere-30-09-2020"></span>
 
-### Spørgsmål og svar om lovliggørelse og certificerede rådgivere (30-09-2020)
+### Spørgsmål og svar om lovliggørelse og certificerede rådgivere (30-09-2020) {#f7eaf828-0851-48c5-a84f-024102e4d980}
 
-[?](../ansaettelse/)
+<span id="sprgsmal-og-svar-om-ansttelse-og-certificeret-radgiver-30-09-2020"></span>
 
-### Spørgsmål og svar om ansættelse og certificeret rådgiver (30-09-2020)
+### Spørgsmål og svar om ansættelse og certificeret rådgiver (30-09-2020) {#cfd0a653-262e-46af-a232-b818d0cf1293}
 
-[?](../aendring-af-forudsaetninger/)
+<span id="sprgsmal-og-svar-om-ndring-af-forudstninger-for-byggetilladelse-17-06-2021"></span>
 
-### Spørgsmål og svar om ændring af forudsætninger for byggetilladelse (17-06-2021)
+### Spørgsmål og svar om ændring af forudsætninger for byggetilladelse (17-06-2021) {#fea0ff48-260d-4e55-9a50-4325bd6a0bf6}
 
-[?](../overgangsperiode/)
+<span id="sprgsmal-og-svar-vedrrende-anvendelse-af-overgangsordning-for-anerkendte-statikere-30-09-2020"></span>
 
-### Spørgsmål og svar vedrørende anvendelse af overgangsordning for anerkendte statikere (30-09-2020)
+### Spørgsmål og svar vedrørende anvendelse af overgangsordning for anerkendte statikere (30-09-2020) {#4eb32e97-a2bc-4adc-bf5e-7d8ce14ae997}
 
-[?](../materiale-til-starterklaering/)
+<span id="sprgsmal-og-svar-om-kontrol-af-dokumentation-til-starterklring-30-09-2020"></span>
 
-### Spørgsmål og svar om kontrol af dokumentation til starterklæring (30-09-2020)
+### Spørgsmål og svar om kontrol af dokumentation til starterklæring (30-09-2020) {#ac2083a4-6276-48a6-b4c6-699524bb5a50}
 
-[?](../pavilloner/)
+<span id="sprgsmal-og-svar-om-pavilloner-30-09-2020"></span>
 
-### Spørgsmål og svar om pavilloner (30-09-2020)
+### Spørgsmål og svar om pavilloner (30-09-2020) {#aeee6c6d-2dab-4ac0-a159-bad2a9dcfbba}
 
-[?](../udpegning-og-indgaaelse-af-aftale-med-en-tredjepartskontrollant/)
+<span id="sprgsmal-og-svar-om-udpegning-og-indgaelse-af-aftale-med-en-tredjepartskontrollant-fx-for-totalentrepriser-05-03-2021"></span>
 
-### Spørgsmål og svar om udpegning og indgåelse af aftale med en tredjepartskontrollant fx for totalentrepriser (05-03-2021)
+### Spørgsmål og svar om udpegning og indgåelse af aftale med en tredjepartskontrollant fx for totalentrepriser (05-03-2021) {#222254d7-f17e-4cab-9185-a65811fe219e}
 
-[?](./)
+<span id="sprgsmal-og-svar-om-at-tage-en-bygning-helt-eller-delvist-i-brug-13-12-2023"></span>
 
-### Spørgsmål og svar om at tage en bygning helt eller delvist i brug (13-12-2023)
+### Spørgsmål og svar om at tage en bygning helt eller delvist i brug (13-12-2023) {#b0a34821-eabf-4a65-97d1-60f25e0fff75}
 
-*Regler om at tage en bygning helt eller delvist i brug* 
+*Regler om at tage en bygning helt eller delvist i brug*
 
 Bygningsreglementet stiller krav om ibrugtagningstilladelse for byggearbejder, som kræver byggetilladelse. Disse byggearbejder må ikke tages i brug, før der er givet tilladelse hertil fra kommunen.
 
-Kommunen kan dog give tilladelse, jf. [§ 44](/administrative-bestemmelser/krav/40_46/), til, at byggeri kan tages helt eller delvist i brug, selvom byggearbejdet endnu ikke er afsluttet. Det kan f.eks. være, hvor der er tale om et større byggeri, hvor dele står færdigt og kan tages i brug, eller hvor byggeriet skal tages i brug til enkeltstående formål.
+Kommunen kan dog give tilladelse, jf. § 44, til, at byggeri kan tages helt eller delvist i brug, selvom byggearbejdet endnu ikke er afsluttet. Det kan f.eks. være, hvor der er tale om et større byggeri, hvor dele står færdigt og kan tages i brug, eller hvor byggeriet skal tages i brug til enkeltstående formål.
 
-Kommunen kan, jf. [§ 44, stk. 2](/administrative-bestemmelser/krav/40_46/), stille vilkår til ansøger i de tilfælde, hvor kommunen vurderer, at der skal tages visse forholdsregler, før byggeriet tages i brug. Det kan være en erklæring vedrørende sikkerheden, eller dokumentation for at tilgængelighedskravene er opfyldt og lignende.
+Kommunen kan, jf. § 44, stk. 2, stille vilkår til ansøger i de tilfælde, hvor kommunen vurderer, at der skal tages visse forholdsregler, før byggeriet tages i brug. Det kan være en erklæring vedrørende sikkerheden, eller dokumentation for at tilgængelighedskravene er opfyldt og lignende.
 
-Det er præciseret i bygningsreglementets [§ 44, stk. 3](/administrative-bestemmelser/krav/40_46/), at bestemmelsen også finder anvendelse i byggesager, hvor der er tilknyttet en certificeret rådgiver. Det skal bemærkes, at en evt. erklæring om konstruktions- og brandtekniske forhold kan udarbejdes af en kompetent rådgiver, som ikke behøver at være den certificerede rådgiver, hvis en sådan er tilknyttet projektet.
+Det er præciseret i bygningsreglementets § 44, stk. 3, at bestemmelsen også finder anvendelse i byggesager, hvor der er tilknyttet en certificeret rådgiver. Det skal bemærkes, at en evt. erklæring om konstruktions- og brandtekniske forhold kan udarbejdes af en kompetent rådgiver, som ikke behøver at være den certificerede rådgiver, hvis en sådan er tilknyttet projektet.
 
 Den certificerede rådgiver, der er tilknyttet sagen, kan dog udarbejde en sådan erklæring, men dette vil i så fald ikke være en del af den certificeredes virke.
 
-Det skal pointeres, at det er bygningsejer, der er ansvarlig for, at byggeriet er lovligt og kan tages i brug. Det er derfor også bygningsejer, der skal dokumentere, at vilkår, jf. [§ 44, stk. 2](/administrative-bestemmelser/krav/40_46/), er opfyldt og dokumentation herfor er fremsendt til kommunens sagsbehandling. Såfremt denne dokumentation ikke opfylder de stillede vilkår, er det en sag mellem bygningsejer og kommunen.
+Det skal pointeres, at det er bygningsejer, der er ansvarlig for, at byggeriet er lovligt og kan tages i brug. Det er derfor også bygningsejer, der skal dokumentere, at vilkår, jf. § 44, stk. 2, er opfyldt og dokumentation herfor er fremsendt til kommunens sagsbehandling. Såfremt denne dokumentation ikke opfylder de stillede vilkår, er det en sag mellem bygningsejer og kommunen.
 
-  [?](../primitive-bygninger/)
+<span id="sprgsmal-og-svar-om-primitive-bygninger-09-01-2024"></span>
 
-### Spørgsmål og svar om primitive bygninger (09-01-2024)
+### Spørgsmål og svar om primitive bygninger (09-01-2024) {#39fe6d0e-f128-4c3a-b757-0bfc93c34b6b}

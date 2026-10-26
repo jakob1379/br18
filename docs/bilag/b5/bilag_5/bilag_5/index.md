@@ -1,6 +1,8 @@
 # Bilag 5: Lovliggørelse af byggeri i konstruktionsklasse 2-4
 
-## Lovliggørelse af byggeri i konstruktionsklasse 2-4
+<span id="lovliggrelse-af-byggeri-i-konstruktionsklasse-2-4"></span>
+
+## Lovliggørelse af byggeri i konstruktionsklasse 2-4 {#f77f23fc-92ae-47f3-9ffb-673bb28da5d3}
 
 ## Afsnit 1: Lovliggørelse af byggeri i konstruktionsklasse 2-4, ved anvendelse af anden materiel regulering end den, der gælder på lovliggørelsestidspunktet
 
@@ -126,7 +128,7 @@ Den certificerede statikers virke, ved lovliggørelse af byggeri, omfatter som m
 
 8) Udarbejde en redegørelse for sit virke.
 
-I § 544 stk. 1, nr. 4, erstattes "B2. Statisk Kontrolplan" med "Statisk kontrolplan, jf. afsnit 1.1", og i stk. 2, erstattes "B1. Statisk Projektredegørelse" med "Projektredegørelse, jf. afsnit 1.1".
+I § 544 stk. 1, nr. 4, erstattes ”B2. Statisk Kontrolplan” med ”Statisk kontrolplan, jf. afsnit 1.1”, og i stk. 2, erstattes ”B1. Statisk Projektredegørelse” med ”Projektredegørelse, jf. afsnit 1.1”.
 
 ## Afsnit 2: Lovliggørelse af byggeri i konstruktionsklasse 2-4, ved anvendelse af lovgivningen på lovliggørelsestidspunktet
 
@@ -157,4 +159,3 @@ Kontrol af dokumentation for og udførelse af bærende konstruktioner skal ske e
 Certificerede statikeres virke skal ske i henhold til kapitel 32 og 33 med følgende tilføjelse:
 
 Den certificerede statikers minimumsvirke ved lovliggørelsessager omfatter tillige udfærdigelse af redegørelsen, jf. § 29, stk. 5, samt kontrolplan for denne og kontrolplan for kontrol af den eksisterende konstruktion, jf. afsnit 2.2, punkt 4.
-

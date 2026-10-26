@@ -80,11 +80,11 @@ Olie- og gasfyrede centralvarmekedler med en nominel ydelse på mere end 400 kW
 
 ### § 309 {#paragraf-309}
 
-Løst udskiftelige pillebrændere med en indfyret effekt på højst 70 kW, der installeres på en eksisterende kedel, skal opfylde *DS/EN 15270 Pillebrændere til små varmekedler - Definitioner, krav, prøvning, mærkning.*
+Løst udskiftelige pillebrændere med en indfyret effekt på højst 70 kW, der installeres på en eksisterende kedel, skal opfylde *DS/EN 15270 Pillebrændere til små varmekedler* *- Definitioner, krav, prøvning, mærkning.*
 
 ### § 310 {#paragraf-310}
 
-Oliefyrede varmluftsaggregater til bygningsopvarmning skal opfylde kravene til luftvarmere i *DS/EN 13842 Oliefyrede konvektionsluftvarmere – stationære eller transportable til rumopvarmning*
+Oliefyrede varmluftsaggregater til bygningsopvarmning skal opfylde kravene til luftvarmere i *DS/EN* *13842 Oliefyrede konvektionsluftvarmere – stationære eller transportable til rumopvarmning*
 
 ### § 311 {#paragraf-311}
 
@@ -144,7 +144,7 @@ Aftrækssystemer skal udføres og installeres, så de er sikret mod tilstopning,
 
 Aftrækssystemer skal projekteres, udføres og installeres, så de kan modstå fyringsanlæggets røggastemperatur. Der henvises til bestemmelserne i §§ 105-107 i forhold til risikoen for en brands opståen og spredning og § 323 i forhold til aftrækssystemets overfladetemperatur.
 
-*Stk. 2.* Manuelt fyrede fastbrændselsanlæg samt pejse og brændeovne må ikke tilsluttes aftræk med lavere temperaturklasse, jf. *DS/EN 1443 Skorstene – Generelle krav end T400.* 
+*Stk. 2.* Manuelt fyrede fastbrændselsanlæg samt pejse og brændeovne må ikke tilsluttes aftræk med lavere temperaturklasse, jf. *DS/EN 1443 Skorstene – Generelle krav end* *T400.*
 
 *Stk. 3.* Automatisk fyrede fastbrændselsanlæg og pilleovne må ikke tilsluttes aftræk med lavere temperaturklasse, jf.*DS/EN 1443 Skorstene – Generelle krav end T250.*
 
@@ -170,7 +170,9 @@ Aftrækssystemets overfladetemperatur må under normal drift ikke overstige den 
 
 ## § 324 Aftrækssystemer ved tagdækning med utilstrækkelig brandmodstandsevne {#2e3ca9ec-8a9e-480f-8185-4059edaea87e}
 
-§ 324 I forbindelse med tagdækninger, som ikke kan klassificeres som tagdækning klasse BROOF(t2) \[klasse T tagdækning\], skal aftrækssystemer udføres og opsættes på en sådan måde, at der opnås tilstrækkelig sikkerhed mod brand.
+### § 324 {#paragraf-324}
+
+I forbindelse med tagdækninger, som ikke kan klassificeres som tagdækning klasse BROOF(t2) \[klasse T tagdækning\], skal aftrækssystemer udføres og opsættes på en sådan måde, at der opnås tilstrækkelig sikkerhed mod brand.
 
 ## § 325 - § 327 Øvrige energiforsyningsanlæg: Solvarme-, solcelle-, køleanlæg og varmepumper {#6b327c64-6cfe-4c65-8869-e367726d3b88}
 
@@ -209,4 +211,3 @@ Drift og vedligehold af installationer til energiforsyning skal ske, så de til 
 *Stk. 2.* Der skal foreligge en drifts- og vedligeholdelsesmanual inden ibrugtagning. Manualen skal indeholde tegninger med oplysning om placering af installationer, der skal vedligeholdes, samt hvordan og hvor ofte vedligeholdelsen skal ske.
 
 *Stk. 3.* Ved installation af centralvarmekedler med oliebrænder skal brænderen indreguleres.
-

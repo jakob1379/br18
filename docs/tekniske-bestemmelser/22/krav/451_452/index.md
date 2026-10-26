@@ -33,9 +33,9 @@ Ventilationssystemer skal projekteres og udføres i overensstemmelse med:
 
 Ventilationssystemer skal placeres, så drift og vedligeholdelse kan ske på en hensigtsmæssig og forsvarlig måde.
 
-*Stk. 2.* Alle komponenter, der kræver tilsyn og vedligeholdelse, skal være let tilgængelige og skal projekteres og monteres sådan, at arbejdet kan foretages på en hensigtsmæssig og sikkerhedsmæssig forsvarlig måde.
+*Stk. 2.* Alle komponenter, der kræver tilsyn og vedligeholdelse, skal være let tilgængelige og skal projekteres og monteres sådan, at arbejdet kan foretages på en hensigtsmæssig og sikkerhedsmæssig forsvarlig måde.
 
-*Stk. 3.* Følere skal besidde fornøden præcision, og stabilitet og placeres, så de måler den ønskede parameter og beskyttes mod uvedkommende påvirkninger.
+*Stk. 3.* Følere skal besidde fornøden præcision, og stabilitet og placeres, så de måler den ønskede parameter og beskyttes mod uvedkommende påvirkninger.
 
 ### § 423 {#paragraf-423}
 
@@ -65,7 +65,7 @@ Ventilationssystemer skal være udformet og installeret, så de ikke tilfører d
 
 Ved installation af et befugtningsanlæg i indblæsningsluften, skal det i driftssituationen sikres, at dette ikke giver risiko for personers sundhed eller komfort.
 
-[![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 ### DS 447
 
@@ -77,7 +77,7 @@ Denne standard specificerer krav til ventilation og ventilationssystemer i bygni
 
 ### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/standard/M337327/ds-447-2021 "DS 447"){target="_blank"}
 
-[![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 ### DS 428
 
@@ -91,7 +91,7 @@ Normen gælder for mekaniske og hybride ventilationsanlæg, der monteres fast i 
 
 ### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/standard/M352080/ds-428-2019-till-1-till-2-2021-ret-1-2021 "DS 428"){target="_blank"}
 
-[![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 ### DS 452
 
@@ -141,7 +141,11 @@ Det specifikke elforbrug til lufttransport må ikke overstige:
 
 3) 1.200 J/m³ udeluft ved grundluftsskiftet for ventilationsanlæg til etageboliger.
 
-4) 600 J/m³ ved maksimalt tryktab for udsugningsanlæg uden mekanisk udelufttilførsel. § 437 § 436 gælder ikke for anlæg knyttet til industrielle processer.
+4) 600 J/m³ ved maksimalt tryktab for udsugningsanlæg uden mekanisk udelufttilførsel.
+
+### § 437 {#paragraf-437}
+
+§ 436 gælder ikke for anlæg knyttet til industrielle processer.
 
 ### § 438 {#paragraf-438}
 
@@ -149,13 +153,19 @@ For ventilationsanlæg med varmegenvinding, hvor aggregat og kanalsystem kun bet
 
 ### § 439 {#paragraf-439}
 
-Ventilationsanlæg, hvor elforbruget til ventilatorer overstiger 3.000 kWh pr. år, skal forsynes med målere til måling af elforbruget. Bestemmelsen gælder ved nybyggeri og ved nyinstallation i eksisterende byggeri. § 440
+Ventilationsanlæg, hvor elforbruget til ventilatorer overstiger 3.000 kWh pr. år, skal forsynes med målere til måling af elforbruget. Bestemmelsen gælder ved nybyggeri og ved nyinstallation i eksisterende byggeri.
+
+### § 440 {#paragraf-440}
 
 § 439 gælder ikke, hvis et eksisterende ventilationsanlæg udvides til at dække andre lokaler i bygningen.
 
-§ 441 I ventilationsanlæg, hvor varmeforbruget til varmeflader overstiger 10.000 kWh pr. år, skal varmeforbruget måles. Elforbruget i elvarmeflader, hvor det samlede forbrug overstiger 3.000 kWh pr. år, skal måles. Bestemmelserne gælder ved nybyggeri og ved nyinstallation i eksisterende byggeri. § 442 Målere, der anvendes til måling af elforbrug eller varme i henhold til §§ 438, 439 og 441, skal have en tilfredsstillende nøjagtighed.
+### § 441 {#paragraf-441}
 
-[![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
+I ventilationsanlæg, hvor varmeforbruget til varmeflader overstiger 10.000 kWh pr. år, skal varmeforbruget måles. Elforbruget i elvarmeflader, hvor det samlede forbrug overstiger 3.000 kWh pr. år, skal måles. Bestemmelserne gælder ved nybyggeri og ved nyinstallation i eksisterende byggeri.
+
+### § 442 {#paragraf-442}
+
+Målere, der anvendes til måling af elforbrug eller varme i henhold til §§ 438, 439 og 441, skal have en tilfredsstillende nøjagtighed. [![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](#)
 
 ### DS/EN 14511-1
 
@@ -167,23 +177,23 @@ This European Standard specifies the terms and definitions for the rating and pe
 
 ### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/standard/M348419/ds-en-14511-1-2022 "DS/EN 14511-1"){target="_blank"}
 
-[![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](#)
 
 ### DS/EN 14511-2
 
 Airconditionanlæg, væskekølere og varmepumper med eldrevne kompressorer til rumopvarmning og rumkøling - Del 2: Prøvningsbetingelser
 
-###
+<span id="_1"></span>
 
 ### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/standard/M348421/ds-en-14511-2-2022 "DS/EN 14511-2"){target="_blank"}
 
-[![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/ds_en_linkbox.svg)](#)
 
 ### DS/EN 14511-3
 
 Airconditionanlæg, væskekølere og varmepumper med eldrevne kompressorer til rumopvarmning og rumkøling - Del 3: Prøvningsmetoder
 
-###
+<span id="_2"></span>
 
 ### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/standard/M348431/ds-en-14511-3-2022 "DS/EN 14511-3"){target="_blank"}
 
@@ -203,7 +213,11 @@ I beboelsesrum såvel som i boligen totalt skal der være en udelufttilførsel p
 
 ### § 444 {#paragraf-444}
 
-(Ophævet) § 445 (Ophævet)
+(Ophævet)
+
+### § 445 {#paragraf-445}
+
+(Ophævet)
 
 ### § 446 {#paragraf-446}
 
@@ -215,7 +229,7 @@ Opholdsrum i daginstitutioner, undervisningsrum i skoler og lignende skal ventil
 
 *Stk. 2.* I opholdsrum i daginstitutioner og undervisningsrum i skoler og lignende, hvor personer er den væsentligste forureningskilde, skal det sikres, at CO2-indholdet i indeluften ikke overstiger 1.000 ppm for de dimensionerende forhold.
 
-*Stk. 3.* Hvis der benyttes ventilationssystem med behovsstyret ventilation, kan der afviges fra de angivne luftmængder, når der er et reduceret behov. Ventilationen i brugstiden må ikke være mindre end 0,35 l/s pr. m² etageareal.
+*Stk. 3.*  Hvis der benyttes ventilationssystem med behovsstyret ventilation, kan der afviges fra de angivne luftmængder, når der er et reduceret behov. Ventilationen i brugstiden må ikke være mindre end 0,35 l/s pr. m² etageareal.
 
 ## § 448 - § 449 Ventilation af andre bygninger og rum {#5dbf3f2f-9c2c-4858-9628-ef196627dfae}
 
@@ -225,7 +239,7 @@ Garageanlæg med etageareal større end 150 m² skal udføres med fornøden selv
 
 ### § 449 {#paragraf-449}
 
-For andre rum end de i [§§ 443-447](../443_446 "443_446") nævnte skal ventilationens dimensionering ske under hensyn til rummets størrelse og anvendelse.
+For andre rum end de i [§§ 443-447](../443_446/ "443_446") nævnte skal ventilationens dimensionering ske under hensyn til rummets størrelse og anvendelse.
 
 ## § 450 Kontrol {#3b755ac8-536c-40f6-a829-6fe70d6357ad}
 
@@ -241,7 +255,7 @@ Rensning, drift, service og vedligehold af ventilationssystemer skal ske, så de
 
 Der skal foreligge en drifts- og vedligeholdelsesmanual for ventilationssystemer ved ibrugtagning. Manualen skal indeholde tegninger med oplysning om placering af installationer, der skal vedligeholdes, samt hvordan og hvor ofte vedligeholdelsen skal ske. Drift- og vedligeholdelsesmanualen skal udarbejdes som anvist i henhold til DS 447, Ventilation i bygninger – Mekaniske, naturlige og hybride ventilationssystemer.
 
-[![](../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+[![](../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 ### DS 447
 

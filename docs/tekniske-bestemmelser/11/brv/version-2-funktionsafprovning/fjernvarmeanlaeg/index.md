@@ -2,15 +2,15 @@
 
 ## Se alle vejledninger om Energiforbrug og klimapåvirkning (§ 250 - § 298)
 
-- [Spørgsmål og svar om energiforbrug](../../qa)
-- [Spørgsmål og svar om bygningers klimapåvirkning](../../spoergsmaal-og-svar-om-bygningers-klimapaavirkning)
-- [Bygningsreglementets vejledning om energiforbrug](../../energiforbrug-2)
-- [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner)
-- [Vejledning om funktionsafprøvning](./)
-- [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov)
-- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../../bygningers-klimapaavirkning-1-juli-2025)
-- [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler)
-- [Eksempelsamling for energi](../../eksempelsamling)
+- [Spørgsmål og svar om energiforbrug](../../qa/)
+- [Spørgsmål og svar om bygningers klimapåvirkning](../../spoergsmaal-og-svar-om-bygningers-klimapaavirkning/)
+- [Bygningsreglementets vejledning om energiforbrug](../../energiforbrug-2/)
+- [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner/)
+- [Vejledning om funktionsafprøvning](../)
+- [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov/)
+- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../../bygningers-klimapaavirkning-1-juli-2025/)
+- [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler/)
+- [Eksempelsamling for energi](../../eksempelsamling/)
 
 ## Vejledning om funktionsafprøvning
 
@@ -76,7 +76,7 @@ Relevante standarder i forbindelse med funktionsafprøvning af fjernvarmeveksler
 
 • DS/EN 1148, Varmevekslere. Vand til vand varmevekslere til fjernvarme. Prøvningsprocedurer til fastsættelse af ydeevnedata
 
-  [![](../../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+  [![](../../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 #### DS 469
 
@@ -86,13 +86,15 @@ DS 469, Varme- og køleanlæg i bygninger
 
 #### Standarden findes på dansk i Dansk Standards [](https://webshop.ds.dk/standard/M253996/ds-469-2013 "DS 469"){target="_blank"}
 
-[![](../../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/ds_en_linkbox.svg)](#)
 
 #### DS/EN 1148
 
 Varmevekslere. Vand til vand varmevekslere til fjernvarme. Prøvningsprocedurer til fastsættelse af ydeevnedata
 
 #### Beskrivelse
+
+<span id="standarden-findes-pa-dansk-i-dansk-standards-webshopdsdk_1"></span>
 
 #### Standarden findes på dansk i Dansk Standards [webshop.ds.dk](https://webshop.ds.dk/standard/26993/ds-en-1148-1998 "DS/EN 1148"){target="_blank"}
 

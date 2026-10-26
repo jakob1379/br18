@@ -2,19 +2,21 @@
 
 ## Se alle vejledninger om Energiforbrug og klimapåvirkning (§ 250 - § 298)
 
-- [Spørgsmål og svar om energiforbrug](../../qa)
-- [Spørgsmål og svar om bygningers klimapåvirkning](../../spoergsmaal-og-svar-om-bygningers-klimapaavirkning)
-- [Bygningsreglementets vejledning om energiforbrug](./)
-- [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner)
-- [Vejledning om funktionsafprøvning](../../version-2-funktionsafprovning)
-- [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov)
-- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../../bygningers-klimapaavirkning-1-juli-2025)
-- [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler)
-- [Eksempelsamling for energi](../../eksempelsamling)
+- [Spørgsmål og svar om energiforbrug](../../qa/)
+- [Spørgsmål og svar om bygningers klimapåvirkning](../../spoergsmaal-og-svar-om-bygningers-klimapaavirkning/)
+- [Bygningsreglementets vejledning om energiforbrug](../)
+- [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner/)
+- [Vejledning om funktionsafprøvning](../../version-2-funktionsafprovning/)
+- [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov/)
+- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../../bygningers-klimapaavirkning-1-juli-2025/)
+- [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler/)
+- [Eksempelsamling for energi](../../eksempelsamling/)
 
 ## Bygningsreglementets vejledning om energiforbrug
 
-### Forord
+<span id="forord"></span>
+
+### Forord {#e4a4aefb-350b-4266-827e-1508450a3f72}
 
 ### 1.0. Generelt {#5d0fd3cc-01f4-4dbe-bf46-d43a912b077e}
 
@@ -29,8 +31,6 @@
 ### 1.5. Mindste varmeisolering {#d809d0e5-9f02-47f6-96a0-afc042a05321}
 
 ### 1.6. Energikrav til vinduer, glasydervægge, ovenlysvinduer og glastage {#74b8dcb5-1d2c-4d26-a488-19aef6197097}
-
-###
 
 ![](../../../../../media/x5ldgnq4/kap11_brv_1_6_beregning_af_energitilskud_for_vinduer.svg)
 
@@ -98,9 +98,11 @@ For glastage beregner producenten energitilskuddet som for ovenlysvinduer. Dog b
 
 Ved beregning af U-værdi benyttes DS/EN 12631 Termisk ydeevne for curtainwalling – Beregning af varmetransmissionskoefficient.
 
--  [Gå til generelle mindstekrav til vinduer, glasydervægge, ovenlysvinduer og glastage (§ 258)](../../../krav/258#fd620db7-f2ed-41e9-8e42-3f4b75f234be){target="_blank"}
+- [Gå til generelle mindstekrav til vinduer, glasydervægge, ovenlysvinduer og glastage (§ 258)](../../../krav/258/#fd620db7-f2ed-41e9-8e42-3f4b75f234be){target="_blank"}
 
-[![](../../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/ds_en_linkbox.svg)](#)
+
+<span id="_1"></span>
 
 #### DS/EN 14351-1 + A1:2010
 
@@ -120,9 +122,11 @@ Denne europæiske standard gælder for:
 
 Bemærk, engelske udgaver af europæiske standarder kan købes hos [alle europæiske standardiseringsorganisationer](https://standards.cen.eu/dyn/www/f?p=CENWEB:5){target="_blank"}.
 
-[![](../../../../../assets/img/linkbox/ds_en_iso_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/ds_en_iso_linkbox.svg)](#)
 
-#### DS/EN ISO 12631:2017 - Termisk ydeevne for curtainwalling – Beregning af varmetransmissionskoefficient
+DS/EN ISO 12631:2017 - Termisk ydeevne for curtainwalling – Beregning af varmetransmissionskoefficient
+
+<span id="dsen-iso-126312017-termisk-ydeevne-for-curtainwalling-beregning-af-varmetransmissionskoefficient"></span><span id="dsen-138302003-curtain-walling-produktstandard"></span>
 
 #### Beskrivelse
 
@@ -132,9 +136,9 @@ Denne standard specificerer en procedure til beregning af den termiske transmiss
 
 Bemærk, engelske udgaver af europæiske standarder kan købes hos [alle europæiske standardiseringsorganisationer](https://standards.cen.eu/dyn/www/f?p=CENWEB:5){target="_blank"}.
 
-[![](../../../../../assets/img/linkbox/ds_en_linkbox.svg)](# "#title")
+[![](../../../../../assets/img/linkbox/ds_en_linkbox.svg)](#)
 
-#### DS/EN 13830:2003 - Curtain walling - Produktstandard
+DS/EN 13830:2003 - Curtain walling - Produktstandard
 
 #### Beskrivelse
 
@@ -142,7 +146,7 @@ Denne standard specificerer karakteristika for curtain walling og giver teknisk 
 
 #### [Standarden findes i Dansk Standards Webshop.ds.dk her](https://webshop.ds.dk/da-dk/standard/ds-en-138302003){target="_blank"}
 
-Bemærk, engelske udgaver af europæiske standarder kan købes hos [alle europæiske standardiseringsorganisationer](https://standards.cen.eu/dyn/www/f?p=CENWEB:5){target="_blank"}. [![](../../../../../assets/img/linkbox/ds_linkbox.svg)](# "#title")
+Bemærk, engelske udgaver af europæiske standarder kan købes hos [alle europæiske standardiseringsorganisationer](https://standards.cen.eu/dyn/www/f?p=CENWEB:5){target="_blank"}. [![](../../../../../assets/img/linkbox/ds_linkbox.svg)](#)
 
 #### DS/INF 60:1990
 

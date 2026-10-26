@@ -1,19 +1,15 @@
----
-hide:
-  - navigation
----
-
 # Dokumentation af brandforhold (§ 506 - § 522)
 
 [Krav](./){ .md-button .md-button--primary }
 [Vejledning](brv/){ .md-button }
-[PDF](/media/zk0hexdv/krav.pdf){ .md-button }
 
-## Dokumentation af brandforhold
+<span id="dokumentation-af-brandforhold"></span>
+
+## § 506 - § 522 Dokumentation af brandforhold {#3abf1f6a-4338-4de8-ba56-6f62554edced}
 
 ### § 506 {#paragraf-506}
 
-Dokumentationen af et byggeris brandsikkerhed skal påvise, at brandforholdene er i overensstemmelse med definerede krav til sikkerhed og anvendelighed, jf. [kapitel 5](../28/#s494-505), samt at design, projektering og udførelse er fyldestgørende og i overensstemmelse med definerede krav.
+Dokumentationen af et byggeris brandsikkerhed skal påvise, at brandforholdene er i overensstemmelse med definerede krav til sikkerhed og anvendelighed, jf. [kapitel 5](../28/krav/494_505/), samt at design, projektering og udførelse er fyldestgørende og i overensstemmelse med definerede krav.
 
 *Stk. 2.* For byggeri, som er indplaceret i brandklasse 2-4, skal ansøgeren sikre, at dokumentation af brandforhold er samlet og koordineret, så dokumentationen udgør et hele.
 
@@ -21,25 +17,25 @@ Dokumentationen af et byggeris brandsikkerhed skal påvise, at brandforholdene e
 
 Dokumentation af brandforhold for byggeri i brandklasse 2-4 skal omfatte:
 
-1) Starterklæring, jf. [§ 508](/ovrige-bestemmelser/29/krav/506_522/).
+1) Starterklæring, jf. § 508.
 
-2) Sluterklæring, jf. [§ 509](/ovrige-bestemmelser/29/krav/506_522/).
+2) Sluterklæring, jf. § 509.
 
-3) Oplysninger om og dokumentation for, hvorledes byggeriet opfylder [§§ 126-133](/tekniske-bestemmelser/05/krav/126_133/) vedrørende redningsberedskabets indsatsforhold, herunder hvorvidt byggeriet er indsatstaktisk traditionelt, jf. [§ 510](/ovrige-bestemmelser/29/krav/506_522/).
+3) Oplysninger om og dokumentation for, hvorledes byggeriet opfylder §§ 126-133 vedrørende redningsberedskabets indsatsforhold, herunder hvorvidt byggeriet er indsatstaktisk traditionelt, jf. § 510.
 
-4) Oplysning om og dokumentation for indplacering i brandklasser, jf. [§ 511](/ovrige-bestemmelser/29/krav/506_522/).
+4) Oplysning om og dokumentation for indplacering i brandklasser, jf. § 511.
 
-5) Brandstrategirapport, jf. [§ 512](/ovrige-bestemmelser/29/krav/506_522/).
+5) Brandstrategirapport, jf. § 512.
 
-6) Brandplaner, jf. [§ 513](/ovrige-bestemmelser/29/krav/506_522/).
+6) Brandplaner, jf. § 513.
 
-7) Funktionsbeskrivelse, jf. [§ 517](/ovrige-bestemmelser/29/krav/506_522/).
+7) Funktionsbeskrivelse, jf. § 517.
 
-8) Kontrolplan, jf. [§ 518](/ovrige-bestemmelser/29/krav/506_522/).
+8) Kontrolplan, jf. § 518.
 
-9) Kontrolrapport, herunder kontrolregistreringsrapport, jf. [§ 519](/ovrige-bestemmelser/29/krav/506_522/).
+9) Kontrolrapport, herunder kontrolregistreringsrapport, jf. § 519.
 
-10) Drift-, kontrol- og vedligeholdelsesplan, jf. [§ 520](/ovrige-bestemmelser/29/krav/506_522/).
+10) Drift-, kontrol- og vedligeholdelsesplan, jf. § 520.
 
 11) Dokumentation for projektering af brandsikringstiltag.
 
@@ -47,15 +43,15 @@ Dokumentation af brandforhold for byggeri i brandklasse 2-4 skal omfatte:
 
 *Stk. 2.* Dokumentation af brandforhold for byggeri i brandklasse 2-4 skal, hvis det er relevant for byggeriet, omfatte:
 
-1) Pladsfordelingsplaner, belægningsplaner mv., jf. [§§ 514-515](/ovrige-bestemmelser/29/krav/506_522/).
+1) Pladsfordelingsplaner, belægningsplaner mv., jf. §§ 514-515.
 
 2) Eftervisning af brandsikkerhedsniveauet ved brandteknisk begrundet vurdering og komparativ analyse.
 
-3) Rapport om brandteknisk dimensionering, jf. [§ 516](/ovrige-bestemmelser/29/krav/506_522/).
+3) Rapport om brandteknisk dimensionering, jf. § 516.
 
 4) Anden dokumentation til eftervisning af, at brandsikkerhedsniveauet for byggeri i brandklasse 4 overholdes.
 
-*Stk. 3.* Dokumentation, jf. stk. 1, nr. 1 og 2, skal udarbejdes efter principperne som beskrevet i Bygningsreglementets vejledning til [kapitel 29](/ovrige-bestemmelser/29/), mens stk. 1, nr. 3-12, og stk. 2, skal udarbejdes efter principperne som beskrevet i Bygningsreglementets vejledning til [kapitel 29](/ovrige-bestemmelser/29/) og 30. Dokumentation for eftervisning af brandsikkerhed, jf. stk. 2, nr. 2 og 3, skal tillige udarbejdes efter principperne i Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) – Brand.
+*Stk. 3.* Dokumentation, jf. stk. 1, nr. 1 og 2, skal udarbejdes efter principperne som beskrevet i Bygningsreglementets vejledning til kapitel 29, mens stk. 1, nr. 3-12, og stk. 2, skal udarbejdes efter principperne som beskrevet i Bygningsreglementets vejledning til kapitel 29 og 30. Dokumentation for eftervisning af brandsikkerhed, jf. stk. 2, nr. 2 og 3, skal tillige udarbejdes efter principperne i Bygningsreglementets vejledning til kapitel 5 – Brand.
 
 *Stk. 4.* Dokumentation for projektering af brandsikringstiltag, jf. stk. 1, nr. 11 skal være i overensstemmelse med definerede krav i dokumentationen for design af brandforhold, jf. stk. 1, nr. 3-7 og 10 og stk. 2, nr. 1. Dokumentation for udførelse af brandsikringstiltag, jf. stk. 1, nr. 12 skal være i overensstemmelse med definerede krav i dokumentationen, jf. stk. 1, nr. 11.
 
@@ -65,72 +61,72 @@ Dokumentation af brandforhold for byggeri i brandklasse 2-4 skal omfatte:
 
 1) At oplysninger om og dokumentation for følgende er fremsendt:
 
-a\) Indplacering i brandklasser, jf. [§ 511](/ovrige-bestemmelser/29/krav/506_522/).
+a\) Indplacering i brandklasser, jf. § 511.
 
-b) Hvorledes byggeriet opfylder [§§ 126-133](/tekniske-bestemmelser/05/krav/126_133/) vedrørende redningsberedskabets indsatsforhold, herunder hvorvidt byggeriet er indsatstaktisk traditionelt, jf. [§ 510](/ovrige-bestemmelser/29/krav/506_522/).
+b) Hvorledes byggeriet opfylder §§ 126-133 vedrørende redningsberedskabets indsatsforhold, herunder hvorvidt byggeriet er indsatstaktisk traditionelt, jf. § 510.
 
-2\) At der er valgt de korrekte brandklasser, og at dokumentationen herfor er retvisende, jf. [§ 511](/ovrige-bestemmelser/29/krav/506_522/).
+2\) At der er valgt de korrekte brandklasser, og at dokumentationen herfor er retvisende, jf. § 511.
 
-3\) Hvorvidt byggeriet er indsatstaktisk traditionelt, jf. [§ 510](/ovrige-bestemmelser/29/krav/506_522/).
+3\) Hvorvidt byggeriet er indsatstaktisk traditionelt, jf. § 510.
 
-4) At den foreliggende brandtekniske dokumentation, jf. [§ 511](/ovrige-bestemmelser/29/krav/506_522/), godtgør, at byggeriet svarende til det foreliggende detaljeringsniveau vil overholde bygningsreglementets brandkrav, jf. [kapitel 5](/tekniske-bestemmelser/05/).
+4) At den foreliggende brandtekniske dokumentation, jf. § 511, godtgør, at byggeriet svarende til det foreliggende detaljeringsniveau vil overholde bygningsreglementets brandkrav, jf. kapitel 5.
 
-5) At der for dokumentationen, jf. 510 og [§ 511](/ovrige-bestemmelser/29/krav/), foreligger kontrolplan og kontrolrapport svarende til byggeriets stadie, jf. [kapitel 30](/ovrige-bestemmelser/30/).
+5) At der for dokumentationen, jf. §§ 510 og 511, foreligger kontrolplan og kontrolrapport svarende til byggeriets stadie, jf. kapitel 30.
 
-6) En redegørelse for den certificerede brandrådgivers virke, herunder en redegørelse for den certificerede brandrådgivers supplerende kontrol, jf. [§ 549](/ovrige-bestemmelser/34/krav/545_551/).
+6) En redegørelse for den certificerede brandrådgivers virke, herunder en redegørelse for den certificerede brandrådgivers supplerende kontrol, jf. § 549.
 
 *Stk. 2.* For brandklasse 4, hvor der er krav om tredjepartskontrol udført af en certificeret brandrådgiver, skal tredjepartskontrollanten tillige udarbejde en starterklæring, der skal angive:
 
-1) At der er valgt de korrekte brandklasser, og at dokumentationen herfor er retvisende, jf. [§ 511](/ovrige-bestemmelser/29/krav/506_522/).
+1) At der er valgt de korrekte brandklasser, og at dokumentationen herfor er retvisende, jf. § 511.
 
-2) At den foreliggende brandtekniske dokumentation, jf. [§ 511](/ovrige-bestemmelser/29/krav/506_522/), godtgør, at byggeriet svarende til det foreliggende detaljeringsniveau vil overholde bygningsreglementets brandkrav, jf. [kapitel 5](/tekniske-bestemmelser/05/).
+2) At den foreliggende brandtekniske dokumentation, jf. § 511, godtgør, at byggeriet svarende til det foreliggende detaljeringsniveau vil overholde bygningsreglementets brandkrav, jf. kapitel 5.
 
-3) At der for dokumentationen, jf. 510 og [§ 511](/ovrige-bestemmelser/29/krav/), foreligger kontrolplan og kontrolrapport svarende til byggeriets stadie, jf. [kapitel 30](/ovrige-bestemmelser/30/).
+3) At der for dokumentationen, jf. §§ 510 og 511, foreligger kontrolplan og kontrolrapport svarende til byggeriets stadie, jf. kapitel 30.
 
-4) En redegørelse for den certificerede brandrådgivers virke som tredjepartskontrollant, herunder for sin uafhængighed i henhold til [§ 526, stk. 1, nr. 3](/ovrige-bestemmelser/30/krav/523_528/) samt en redegørelse for den certificerede tredjepartskontrollants supplerende kontrol, jf. [§ 550, stk. 3](/ovrige-bestemmelser/34/krav/545_551/).
+4) En redegørelse for den certificerede brandrådgivers virke som tredjepartskontrollant, herunder for sin uafhængighed i henhold til § 526, stk. 1, nr. 3 samt en redegørelse for den certificerede tredjepartskontrollants supplerende kontrol, jf. § 550, stk. 3.
 
 ### § 509 {#paragraf-509}
 
 Sluterklæring skal udarbejdes af den certificerede brandrådgiver og skal angive:
 
-1) At relevant dokumentationen for brandforhold, jf. [kapitel 29](/ovrige-bestemmelser/29/), er fremsendt.
+1) At relevant dokumentationen for brandforhold, jf. kapitel 29, er fremsendt.
 
 2) At dokumentationen viser, at anvendte brandklasser er i overensstemmelse med byggetilladelsen.
 
-3) At dokumentationen er fyldestgørende og viser, at bygningsreglementets brandkrav, jf. [kapitel 5](/tekniske-bestemmelser/05/), er opfyldt, og at drifts-, kontrol- og vedligeholdelsesplan anviser den drift, kontrol og vedligeholdelse af bygningen, der er nødvendig for at sikre, at byggeriets brandsikring opretholdes i bygningens levetid.
+3) At dokumentationen er fyldestgørende og viser, at bygningsreglementets brandkrav, jf. kapitel 5, er opfyldt, og at drifts-, kontrol- og vedligeholdelsesplan anviser den drift, kontrol og vedligeholdelse af bygningen, der er nødvendig for at sikre, at byggeriets brandsikring opretholdes i bygningens levetid.
 
 4) At de i den endelige kontrolplan for design af brandforhold samt for projektering og udførelse af
 
 særlig kontrol anførte kontroller er gennemført, og at de ved kontrollen fundne afvigelser er behandlet.
 
-5) Redegørelse for den certificerede brandrådgivers virke, herunder en redegørelse for den certificerede brandrådgivers supplerende kontrol, jf. [§ 549](/ovrige-bestemmelser/34/krav/545_551/).
+5) Redegørelse for den certificerede brandrådgivers virke, herunder en redegørelse for den certificerede brandrådgivers supplerende kontrol, jf. § 549.
 
 *Stk. 2.* For brandklasse 4, hvor der er krav om tredjepartskontrol udført ved certificeret brandrådgiver, skal tredjepartskontrollanten tillige udarbejde en sluterklæring, der angiver:
 
 1) At dokumentationen viser, at anvendte brandklasser er i overensstemmelse med byggetilladelsen.
 
-2) At dokumentationen er fyldestgørende og viser, at bygningsreglementets brandkrav, jf. [kapitel 5](/tekniske-bestemmelser/05/), er opfyldt, og at drifts-, kontrol - og vedligeholdelsesplan anviser den drift, kontrol og vedligeholdelse af byggeriet, der er nødvendig for at sikre, at byggeriets brandsikring opretholdes i bygningens levetid.
+2) At dokumentationen er fyldestgørende og viser, at bygningsreglementets brandkrav, jf. kapitel 5, er opfyldt, og at drifts-, kontrol - og vedligeholdelsesplan anviser den drift, kontrol og vedligeholdelse af byggeriet, der er nødvendig for at sikre, at byggeriets brandsikring opretholdes i bygningens levetid.
 
 3) At de i den endelige kontrolplan for tredjepartskontrol af design af brandforhold anførte kontroller er gennemført, og at de ved kontrollen fundne afvigelser er behandlet.
 
-4) Redegørelse for den certificerede brandrådgivers virke som tredjepartskontrollant, herunder for sin uafhængighed i henhold til [§ 526, stk. 1, nr. 3](/ovrige-bestemmelser/30/krav/523_528/) samt en redegørelse for den certificerede tredjepartskontrollants supplerende kontrol, jf. [§ 550, stk. 3](/ovrige-bestemmelser/34/krav/545_551/)
+4) Redegørelse for den certificerede brandrådgivers virke som tredjepartskontrollant, herunder for sin uafhængighed i henhold til § 526, stk. 1, nr. 3 samt en redegørelse for den certificerede tredjepartskontrollants supplerende kontrol, jf. § 550, stk. 3
 
 ### § 510 {#paragraf-510}
 
-Ved oplysning om og dokumentation for, at byggeriet er indsatstaktisk traditionelt, skal det dokumenteres på brandplanerne, at byggeriet er udført i overensstemmelse med Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) – Brand, vedrørende redningsberedskabets indsatsmuligheder.
+Ved oplysning om og dokumentation for, at byggeriet er indsatstaktisk traditionelt, skal det dokumenteres på brandplanerne, at byggeriet er udført i overensstemmelse med Bygningsreglementets vejledning til kapitel 5 – Brand, vedrørende redningsberedskabets indsatsmuligheder.
 
-*Stk. 2.* For byggeri, som ikke er indsatstaktisk traditionelt, skal det på anden vis dokumenteres, at bestemmelserne i bygningsreglementets [kapitel 5](/tekniske-bestemmelser/05/) [§§ 126-133](/tekniske-bestemmelser/05/krav/126_133/) er opfyldt.
+*Stk. 2.* For byggeri, som ikke er indsatstaktisk traditionelt, skal det på anden vis dokumenteres, at bestemmelserne i bygningsreglementets kapitel 5 §§ 126-133 er opfyldt.
 
 ### § 511 {#paragraf-511}
 
-Dokumentation for indplacering i brandklasser i [kapitel 27](/ovrige-bestemmelser/27/) skal indeholde en overordnet brandstrategi samt overordnede brandplaner for byggeriet.
+Dokumentation for indplacering i brandklasser i kapitel 27 skal indeholde en overordnet brandstrategi samt overordnede brandplaner for byggeriet.
 
 *Stk. 2.* Den overordnede brandstrategi skal indeholde:
 
 1.  Beskrivelse af byggeriets udformning, herunder anvendelsen af byggeriet og overordnet beskrivelse af personerne, der anvender byggeriet.
-2.  Beskrivelse af bygningsafsnit der skal henføres til anvendelseskategorier, jf. § 85 og risikoklasser, jf. [§ 86](/tekniske-bestemmelser/05/krav/), samt indplaceres i brandklasser, jf. § 493.
+2.  Beskrivelse af bygningsafsnit der skal henføres til anvendelseskategorier, jf. § 85 og risikoklasser, jf. § 86, samt indplaceres i brandklasser, jf. § 493.
 3.  Beskrivelse af de valgte metoder og kombinationen af metoder for dokumentation af brandsikkerheden som grundlag for valg af brandklasser, jf. § 493.
-4.  Redegørelse for eventuelle fravigelser jf. § 493, stk. 1, nr. 2 og [bilag 4](/bilag/b4/bilag_4/).
+4.  Redegørelse for eventuelle fravigelser jf. § 493, stk. 1, nr. 2 og bilag 4.
 
 *Stk. 3.* De overordnede brandplaner skal indeholde:
 
@@ -144,7 +140,7 @@ Dokumentation for indplacering i brandklasser i [kapitel 27](/ovrige-bestemmelse
 
 Brandstrategirapporten skal indeholde en beskrivelse af, hvorledes brandkravene tilgodeses for det opførte byggeri under hensyntagen til byggeriets anvendelseskategori og risikoklasse. Brandstrategirapporten skal som minimum indeholde:
 
-1.  Den overordnede brandstrategi som angivet i [§ 511, stk. 2](/ovrige-bestemmelser/29/krav/506_522/).
+1.  Den overordnede brandstrategi som angivet i § 511, stk. 2.
 2.  Rammer for placering af byggeriet på grunden, afstand til andre bygninger og afstand til skel.
 3.  Hovedprincipper for evakuering af personer, herunder udformning af flugtveje, brug af redningsåbninger og valg af brandtekniske installationer, der understøtter evakuering.
 4.  Koncept for brandsikring af bærende konstruktioner, herunder nødvendig brandmodstandsevne og valg af brandtekniske installationer, der understøtter sikringen af de bærende konstruktioner.
@@ -201,31 +197,31 @@ Funktionsbeskrivelsen skal beskrive, hvilke brandsikringstiltag, der er nødvend
 
 ### § 518 {#paragraf-518}
 
-Den brandtekniske kontrolplan for design af brandforhold skal beskrive de krav, der er til kontrol, jf. [kapitel 30](/ovrige-bestemmelser/30/). I kontrolplanen skal niveauet for kontrol af dokumentation for design af brandforhold svare til den brandklasse, som byggearbejdet er indplaceret i.
+Den brandtekniske kontrolplan for design af brandforhold skal beskrive de krav, der er til kontrol, jf.
 
-*Stk. 2.* Den brandtekniske kontrolplan for projektering og udførelse af brandsikringstiltag skal beskrive de krav, der er til særlig kontrol og almen kontrol, jf. [kapitel 30](/ovrige-bestemmelser/30/). I kontrolplanen skal niveauet for særlig kontrol og almen kontrol af projektering og udførelse af brandsikringstiltag svare til henholdsvis den brandklasse og risikoklasse, som det enkelte bygningsafsnit er indplaceret i.
+kapitel 30. I kontrolplanen skal niveauet for kontrol af dokumentation for design af brandforhold svare til den brandklasse, som byggearbejdet er indplaceret i.
+
+*Stk. 2.* Den brandtekniske kontrolplan for projektering og udførelse af brandsikringstiltag skal beskrive de krav, der er til særlig kontrol og almen kontrol, jf. kapitel 30. I kontrolplanen skal niveauet for særlig kontrol og almen kontrol af projektering og udførelse af brandsikringstiltag svare til henholdsvis den brandklasse og risikoklasse, som det enkelte bygningsafsnit er indplaceret i.
 
 ### § 519 {#paragraf-519}
 
-De brandtekniske kontrolrapporter omfatter dokumentation for de gennemførte kontroller i henhold til de tilhørende brandtekniske kontrolplaner, jf. [§ 518](/ovrige-bestemmelser/29/krav/506_522/). Der skal udarbejdes kontrolrapporter som dokumentation for kontrol af:
+De brandtekniske kontrolrapporter omfatter dokumentation for de gennemførte kontroller i henhold til de tilhørende brandtekniske kontrolplaner, jf. § 518. Der skal udarbejdes kontrolrapporter som dokumentation for kontrol af:
 
-1\) Dokumentation for design af brandforhold, jf. [§ 507, stk. 1, nr. 3](/ovrige-bestemmelser/29/krav/506_522/)-8 og 10 samt stk. 2
+1\) Dokumentation for design af brandforhold, jf. § 507, stk. 1, nr. 3-8 og 10 samt stk. 2
 
-2) Dokumentation for projektering af brandsikringstiltag, jf. [§ 507, stk. 1, nr. 11](/ovrige-bestemmelser/29/krav/506_522/).
+2) Dokumentation for projektering af brandsikringstiltag, jf. § 507, stk. 1, nr. 11.
 
-3) Dokumentation for udførelse af brandsikringstiltag, jf. [§ 507, stk. 1, nr. 12](/ovrige-bestemmelser/29/krav/506_522/), samt de udførte brandsikringstiltag.
+3) Dokumentation for udførelse af brandsikringstiltag, jf. § 507, stk. 1, nr. 12, samt de udførte brandsikringstiltag.
 
 *Stk. 2.* Der skal udarbejdes kontrolregistreringsrapporter, der erklærer, at kontrolrapporter for særlig kontrol for henholdsvis projektering og udførelse af brandsikringstiltag er udført i henhold til de tilhørende kontrolplaner, og de ved kontrollen fundne afvigelser er behandlet.
 
 ### § 520 {#paragraf-520}
 
-Der skal udarbejdes en drifts-, kontrol- og vedligeholdelsesplan, jf. § 143, i overensstemmelse med [§ 145](/tekniske-bestemmelser/05/krav/), samt 148 og [§ 154](/tekniske-bestemmelser/05/krav/), hvor relevant.
+Der skal udarbejdes en drifts-, kontrol- og vedligeholdelsesplan, jf. § 143, i overensstemmelse med § 145, samt §§ 148 og 154, hvor relevant.
 
 ### § 521 {#paragraf-521}
 
-Dokumentation for brandforhold for byggeri, som er indplaceret i brandklasse 1, skal udføres efter principperne, som er beskrevet i Bygningsreglementets vejledning til [kapitel 29](/ovrige-bestemmelser/29/) og 30.
-
-
+Dokumentation for brandforhold for byggeri, som er indplaceret i brandklasse 1, skal udføres efter principperne, som er beskrevet i Bygningsreglementets vejledning til kapitel 29 og 30.
 
 *Stk. 2.* Den fremsendte dokumentation skal dokumentere valg af brandklasse, og at byggeriets brandsikkerhed er i overensstemmelse med definerede krav til sikkerhed og anvendelighed.
 

@@ -8,7 +8,8 @@
 
 ## Vejledning om konstruktionsforhold for transportable konstruktioner
 
-### Vejledning om transportable konstruktioner
+<span id="vejledning-om-transportable-konstruktioner"></span>
+
+### Vejledning om transportable konstruktioner {#63736e81-0ec8-4d2b-a118-b40ddd6a85d8}
 
 [Åbn vejledning om konstruktionsforhold for transportable konstruktioner](../../../../../media/my5o4i4q/vejledning-om-konstruktionsforhold-for-transportable-konstruktioner-a.pdf "Vejledning om konstruktionsforhold for transportable konstruktioner") (nyt vindue)
-

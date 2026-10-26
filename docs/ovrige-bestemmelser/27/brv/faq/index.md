@@ -7,5 +7,4 @@
 - [Vejledning om indplacering i brandklasser](../indplacering-i-brandklasser/)
 - [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](../temasiden-brandogkonstruktioner-dk/)
 
-##
-
+<span id="_1"></span>

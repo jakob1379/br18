@@ -2,15 +2,19 @@
 
 ## Se alle vejledninger om Bygningens indretning (§ 196 - § 241)
 
-- [Spørgsmål og svar om bygningens indretning](../../qa)
-- [Vejledning om boligindretning](./)
-- [Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger](../../bygningsglas)
+- [Spørgsmål og svar om bygningens indretning](../../qa/)
+- [Vejledning om boligindretning](../)
+- [Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger](../../bygningsglas/)
 
 ## Vejledning om boligindretning
 
-### Kolofon
+<span id="kolofon"></span>
 
-### Forord
+### Kolofon {#818585de-abef-41f2-b417-27010078f7d0}
+
+<span id="forord"></span>
+
+### Forord {#a65228a9-ae42-48b3-b79b-97cd2de40d36}
 
 ### 1. Boligens beboere {#f036d581-3495-4f91-bd3a-93c1361c0e4d}
 
@@ -50,17 +54,15 @@ En markant reduktion af dagslysniveauet i et rum kan forekomme, hvis der er skyg
 
 Himmelgrænseplanet definerer grænsefladen mellem det område i rummet, som modtager dagslys direkte fra himlen, og det område, der kun modtager reflekslys. På den måde illustrerer himmelgrænseplanet, hvor henholdsvis den største og mindste lysintensitet er i rummet. Himmelgrænseplanet findes ved at tegne en linje fra overkanten af genbobygningen igennem overkanten af vindueshullet og forlænge linjen ind i rummet. Lyset under linjen kommer direkte fra himlen og har størst intensitet. Lyset over linjen er reflekslys og har mindre intensitet. Se SBi-anvisning 219, Dagslys i rum og bygninger, 4 Dagslyset på facaden (Johnsen & Christoffersen, 2008).
 
-###
-
 ![](../../../../../media/kgebkoyn/illustration-08-br-vejledning-om-boligindretning.png)
 
 Illustration 08: Alt afhængig af boligens orientering vil dagslyset præge den forskelligt. Er boligen orienteret mod nord/syd, er det kun sydsiden, der har mulighed for, at sollyset kan påvirke rummet. Øst/vest-orientering tillader begge sider at få sollys, og derved fremstår rummene med variationer i lyset.
 
-###
-
 ![](../../../../../media/l0ld2lpm/illustration-09-br-vejledning-om-boligindretning.png)
 
 Illustration 09: Himmelgrænseplan. Himmelgrænseplanet indikerer, hvilket område i rummet der modtager dagslys direkte fra himlen, og hvilket der kun modtager reflekslys. Himmelgrænseplanet findes ved at tegne en linje fra overkanten af genbobygningen igennem overkanten af vindueshullet og forlænge linjen ind i rummet. Lyset under linjen kommer direkte fra himlen og har størst intensitet. Lyset over linjen er reflekslys og har mindre intensitet.
+
+<span id="_1"></span><span id="_2"></span>
 
 ### 2.7. Lydforhold {#7f0c5c71-a8ea-42e4-94f8-0a5f927cf94b}
 
@@ -88,5 +90,6 @@ Illustration 09: Himmelgrænseplan. Himmelgrænseplanet indikerer, hvilket områ
 
 ### 3.7. At bade {#9d95ee42-38e2-41d4-ae53-1d23da54a544}
 
-### Appendix: Litteratur
+<span id="appendix-litteratur"></span>
 
+### Appendix: Litteratur {#dad94911-d8be-4830-9756-dcbefa202590}

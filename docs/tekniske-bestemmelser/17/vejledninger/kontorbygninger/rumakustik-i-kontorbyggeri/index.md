@@ -9,27 +9,27 @@
 - [- Vejledning til kontorbyggeri](../)
 - [- Vejledning til hospitaler, lægehuse og klinikker](../../hospitaler-laegehuse-og-klinikker/)
 
+<span id="kontorbyggeri"></span>
+
 ## - Vejledning til kontorbyggeri
 
-[5.0](../kontorbyggeri/)
+### 5.0 Kontorbyggeri {#c4285b66-cbe9-411e-8904-e76b5f1be9b5}
 
-### Kontorbyggeri
+<span id="lydisolation-for-kontorbyggeri"></span>
 
-[5.1](../lydisolation-for-kontorbyggeri/)
+### 5.1 Lydisolation for kontorbyggeri {#b3ba71ab-4b69-4413-8577-5d81c6a474b6}
 
-### Lydisolation for kontorbyggeri
+<span id="stj-indendrs-fra-trafik"></span>
 
-[5.2](../stoej-indendoers-fra-trafik-i-kontorbyggeri/)
+### 5.2 Støj indendørs fra trafik {#fd62d10c-8645-4fce-8301-f417fb7d86c9}
 
-### Støj indendørs fra trafik
+<span id="stj-fra-tekniske-installationer"></span>
 
-[5.3](../stoej-fra-tekniske-installationer-i-kontorbyggeri/)
+### 5.3 Støj fra tekniske installationer {#5ffe9f4e-f2ad-4108-860f-19bb8d45b344}
 
-### Støj fra tekniske installationer
+<span id="rumakustik"></span>
 
-[5.4](./)
-
-### Rumakustik
+### 5.4 Rumakustik {#580fa499-be47-4546-83b8-d8ab6b3450ff}
 
 Tabel 5.4 indeholder forslag til projekteringsværdier for efterklangstid og absorptionsareal i kontorbyggeri svarende til overholdelse af BR18’s generelle bestemmelse i § 368, stk. 1 om at ”*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen”.*
 
@@ -100,8 +100,8 @@ Tabel 5.4 indeholder forslag til projekteringsværdier for efterklangstid og abs
 </tr>
 <tr>
 <td colspan="3"><p><strong><em>Supplerende vejledning</em></strong></p>
-<p>a) <em>For åbne kontorområder gælder specielle forhold fx omkring lydudbredelse og taleforståelighed,<br />
-se [3] og [12].</em><br />
+<p>a) <em>For åbne kontorområder gælder specielle forhold fx omkring lydudbredelse og taleforståelighed,</em><br />
+<em>se [3] og [12].</em><br />
 <br />
 b) <em>Der kan ikke påregnes optimale lydforhold for alle sædvanlige kontoraktiviteter, uanset omhyggelig projektering. For at opnå gode lydforhold i storrumskontorer, er det vigtigt, at der ud over at overholde de angivne vejledende krav, udarbejdes interne regler for støjmæssig adfærd i storrumskontorer. Det er også vigtigt, at placeringen af forskellige grupper inddrages i projekteringen.</em></p></td>
 </tr>

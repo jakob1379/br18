@@ -2,19 +2,21 @@
 
 ## Se alle vejledninger om Energiforbrug og klimapåvirkning (§ 250 - § 298)
 
-- [Spørgsmål og svar om energiforbrug](../../qa)
-- [Spørgsmål og svar om bygningers klimapåvirkning](../../spoergsmaal-og-svar-om-bygningers-klimapaavirkning)
-- [Bygningsreglementets vejledning om energiforbrug](./)
-- [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner)
-- [Vejledning om funktionsafprøvning](../../version-2-funktionsafprovning)
-- [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov)
-- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../../bygningers-klimapaavirkning-1-juli-2025)
-- [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler)
-- [Eksempelsamling for energi](../../eksempelsamling)
+- [Spørgsmål og svar om energiforbrug](../../qa/)
+- [Spørgsmål og svar om bygningers klimapåvirkning](../../spoergsmaal-og-svar-om-bygningers-klimapaavirkning/)
+- [Bygningsreglementets vejledning om energiforbrug](../)
+- [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner/)
+- [Vejledning om funktionsafprøvning](../../version-2-funktionsafprovning/)
+- [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov/)
+- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../../bygningers-klimapaavirkning-1-juli-2025/)
+- [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler/)
+- [Eksempelsamling for energi](../../eksempelsamling/)
 
 ## Bygningsreglementets vejledning om energiforbrug
 
-### Forord
+<span id="forord"></span>
+
+### Forord {#e4a4aefb-350b-4266-827e-1508450a3f72}
 
 ### 1.0. Generelt {#5d0fd3cc-01f4-4dbe-bf46-d43a912b077e}
 
@@ -48,7 +50,7 @@ Bestemmelsen om vedvarende energi medfører at vedvarende energianlæg kan indre
 
 Bygningsreglementet indeholder ikke krav til hvordan det vedvarende anlæg er tilkoblet i bygningen og hvordan afregningen af den producerede energi foretages. Det vigtige er i denne sammenhæng om det vedvarende energianlæg er etableret til energiforsyning af den konkrete bygning. Det betyder fx at man ikke kan indregne vedvarende energianlæg, der allerede er etableret af andre grunde end energiforsyning af den konkrete bygning.
 
--  [Gå til krav om vedvarende energi (§ 265)](../../../krav/261_266#3a8ca349-26eb-45ea-919c-350ef44b666a){target="_blank"}
+- [Gå til krav om vedvarende energi (§ 265)](../../../krav/261_266/#3a8ca349-26eb-45ea-919c-350ef44b666a){target="_blank"}
 
 ### 2.0. Ændret anvendelse {#1768cdff-bc36-4979-b144-536aa44263bc}
 
@@ -95,4 +97,3 @@ Bygningsreglementet indeholder ikke krav til hvordan det vedvarende anlæg er ti
 ### 9.5. Eksempler på energibehov {#3058d94d-a8e8-4740-8b79-8e25740686c7}
 
 ### 9.6. Krav til bygningsautomatikken {#3a095cce-b7d0-4e11-837e-7194d984e382}
-

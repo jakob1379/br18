@@ -9,35 +9,35 @@ title: Bygningens indretning (§ 196 - § 241) – Vejledning
 
 ## Se alle vejledninger om Bygningens indretning (§ 196 - § 241)
 
-- [Spørgsmål og svar om bygningens indretning](./#spoergsmaal-og-svar-om-bygningens-indretning)
-- [Vejledning om boligindretning](./#vejledning-om-boligindretning)
-- [Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger](./#bygningsreglementets-vejledning-om-glaspartier-glasflader-og-vaern-af-glas-i-bygninger)
+- [Spørgsmål og svar om bygningens indretning](../vejledninger/qa/)
+- [Vejledning om boligindretning](../vejledninger/boligindretning/)
+- [Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger](../vejledninger/bygningsglas/)
 
-## Spørgsmål og svar om bygningens indretning {#spoergsmaal-og-svar-om-bygningens-indretning}
+<span id="vejledning-om-boligindretning"></span><span id="vejledning-om-boligindretning-kolofon"></span><span id="vejledning-om-boligindretning-forord"></span><span id="vejledning-om-boligindretning-1"></span><span id="vejledning-om-boligindretning-boligens-beboere"></span><span id="vejledning-om-boligindretning-bygning-bolig-hjem"></span><span id="vejledning-om-boligindretning-beboerne"></span><span id="vejledning-om-boligindretning-fleksibilitet-i-boligen"></span><span id="vejledning-om-boligindretning-boligens-overordnede-planlaegning"></span><span id="vejledning-om-boligindretning-boligens-kontekst-og-bebyggelsens-kompakthed"></span><span id="vejledning-om-boligindretning-bebyggelsestype"></span><span id="vejledning-om-boligindretning-faelles-adgangsveje-til-boligen"></span><span id="vejledning-om-boligindretning-boligens-storrelse"></span><span id="vejledning-om-boligindretning-boligens-rumforlob-og-rummenes-udformning"></span><span id="vejledning-om-boligindretning-dagslysforhold"></span><span id="vejledning-om-boligindretning-lydforhold"></span><span id="vejledning-om-boligindretning-trapper"></span><span id="vejledning-om-boligindretning-opbevaring"></span><span id="vejledning-om-boligindretning-tekniske-installationer"></span><span id="vejledning-om-boligindretning-uderum"></span><span id="vejledning-om-boligindretning-boligens-aktiviteter"></span><span id="vejledning-om-boligindretning-at-komme-ind"></span><span id="vejledning-om-boligindretning-at-lave-mad"></span><span id="vejledning-om-boligindretning-at-spise"></span><span id="vejledning-om-boligindretning-at-vaere-sammen"></span><span id="vejledning-om-boligindretning-at-arbejde"></span><span id="vejledning-om-boligindretning-at-sove"></span><span id="vejledning-om-boligindretning-at-bade"></span><span id="vejledning-om-boligindretning-appendix-litteratur"></span><span id="bygningsreglementets-vejledning-om-glaspartier-glasflader-og-vaern-af-glas-i-bygninger"></span><span id="bygningsreglementets-vejledning-om-glaspartier-glasflader-og-vaern-af-glas-i-bygninger-klik-her"></span><span id="spoergsmaal-og-svar-om-bygningens-indretning"></span>
 
-### WC-rum {#wc-rum}
+## Spørgsmål og svar om bygningens indretning
 
-**Må der være direkte forbindelse eller adgang til beboelses- og opholdsrum fra wc-rum, og hvad gælder i den forbindelse for wc-rum i forbindelse med arbejdspladser?**
+<span id="wc-rum"></span>
 
-Der er ikke nogen bestemmelser i bygningsreglementet, der forbyder direkte adgang mellem et wc-rum og beboelses eller opholdsrum. Boligen skal dog indrettes hensigtsmæssigt i forhold til det den er beregnet til.
+### WC-rum {#80914f62-e814-4430-9121-73627a8254c7}
 
-I forbindelse med arbejdspladser i andre bygninger end beboelsesbygninger må spiserum dog ikke placeres direkte op ad wc-rum eller forrum til wc-rum. Det betyder, at der populært sagt skal være tre døre mellem et spiserum og wc-rum.
+[? Må der være direkte forbindelse eller adgang til beboelses- og opholdsrum fra wc-rum, og hvad gælder i den forbindelse for wc-rum i forbindelse med arbejdspladser?](#80914f62-e814-4430-9121-73627a8254c7) Der er ikke nogen bestemmelser i bygningsreglementet, der forbyder direkte adgang mellem et wc-rum og beboelses eller opholdsrum. Boligen skal dog indrettes hensigtsmæssigt i forhold til det den er beregnet til.
 
-**Er det tilstrækkeligt, at der i adgangsetagen i en bygning indrettes et wc-rum, der kan benyttes af mennesker med handicap, også selvom der i øvrigt indrettes wc-rum i de øvrige etager?**
+I forbindelse med arbejdspladser i andre bygninger end beboelsesbygninger må spiserum dog ikke placeres direkte op ad wc-rum eller forrum til wc-rum. Det betyder, at der populært sagt skal være tre døre mellem et spiserum og wc-rum. [? Er det tilstrækkeligt, at der i adgangsetagen i en bygning indrettes et wc-rum, der kan benyttes af mennesker med handicap, også selvom der i øvrigt indrettes wc-rum i de øvrige etager?](#80914f62-e814-4430-9121-73627a8254c7) På de etager, hvor der indrettes wc-rum skal der altid indrettes mindst et handicapegnet wc-rum. I den samlede bygning skal der altid være mindst et handicapegnet toilet, der er placeret i enten stueetagen eller andre etager med adgang via elevator.
 
-På de etager, hvor der indrettes wc-rum, skal der altid indrettes mindst et handicapegnet wc-rum. I den samlede bygning skal der altid være mindst et handicapegnet toilet, der er placeret i enten stueetagen eller andre etager med adgang via elevator.
+Kravet er gældende for alle etager, hvor der indrettes wc-rum, men dog således, at der altid skal være mindst et handicapegnet toilet i bygningen, der har direkte adgang for kørestolsbrugere, enten i stueetagen eller ved elevator i andre etager.
 
-### Altaner {#altaner}
+<span id="altaner"></span>
 
-**Betragtes en altan som en enhed, der skal være niveaufri adgang til?**
+### Altaner {#aa480314-460a-49e3-a01d-ddd6aaa62881}
 
-Ja, der skal være niveaufri adgang fra boligen og ud på altanen.
+[? Betragtes en altan som en enhed, der skal være niveaufri adgang til?](#aa480314-460a-49e3-a01d-ddd6aaa62881) Ja der skal være niveaufri adgang fra boligen og ud på altanen.
 
-### Handicaptoiletter {#handicaptoiletter}
+<span id="handicaptoiletter"></span>
 
-**Hvilke krav er der til indretningen af handicaptoiletter, og skal der være handicaptoiletter på alle etager i alle bygninger?**
+### Handicaptoiletter {#334bd38a-2759-4aab-8d4a-a3689e0e2c2c}
 
-For boliger skal der i boligens adgangsetage indrettes mindst et wc-rum med niveaufri adgang og med en hensigtsmæssig indretning og størrelse.
+[? Hvilke krav er der til indretningen af handicaptoiletter, og skal der være handicaptoiletter på alle etager i alle bygninger?](#334bd38a-2759-4aab-8d4a-a3689e0e2c2c) For boliger skal der i boligens adgangsetage indrettes mindst et wc-rum med niveaufri adgang og med en hensigtsmæssig indretning og størrelse.
 
 For andre bygninger end beboelsesbygninger stilles der en række konkrete og detaljerede krav til indretningen af egentlige handicaptoiletter, der skal kunne benyttes af kørestolsbrugere.
 
@@ -45,140 +45,26 @@ Der skal være handicaptoiletter i kontor- og administrationsbygninger og andre 
 
 Der skal altid indrettes minimum et handicaptoilet, når der indrettes toiletter, der er offentligt tilgængelige.
 
-### Niveaufri adgang indenfor en enhed {#niveaufri-adgang-indenfor-en-enhed}
+<span id="niveaufri-adgang-indenfor-en-enhed"></span>
 
-**Er der krav om, at der skal være niveaufri adgang inde i en enhed, for eksempel en bolig?**
+### Niveaufri adgang indenfor en enhed. {#c11e82e7-ac1b-46e6-b8d8-8bba49b4c0ac}
 
-Nej; kravet er udformet sådan, at der skal være niveaufri adgang til alle enheder, men ikke inde i en enhed som for eksempel en bolig.
+[? Er der krav om, at der skal være niveaufri adgang inde i en enhed, for eksempel en bolig?](#c11e82e7-ac1b-46e6-b8d8-8bba49b4c0ac) Nej; kravet er udformet sådan, at der skal være niveaufri adgang til alle enheder, men ikke inde i en enhed som for eksempel en bolig.
 
-### Beboelsesrum, grunde med skrånende terræn {#beboelsesrum-grunde-med-skraanende-terraen}
+<span id="beboelsesrum-grunde-med-skraanende-terraen"></span>
 
-**Hvordan fastsættes en grunds terræn i forbindelse med indretning af beboelsesrum i kælderen?**
+### Beboelsesrum, grunde med skrånende terræn {#f0b4428f-1af4-4d7e-a9f5-ce5a783f4c4c}
 
-Gulvet i beboelsesrum og køkken må ikke ligge lavere end terrænet udenfor bygningen. Man kan dog ved særlige terrænforhold se bort fra det, hvis gulvet langs mindst en vinduesvæg ligger over terrænet.
+[? Hvordan fastsættes en grunds terræn i forbindelse med indretning af beboelsesrum i kælderen?](#f0b4428f-1af4-4d7e-a9f5-ce5a783f4c4c) Gulvet i beboelsesrum og køkken må ikke ligge lavere end terrænet udenfor bygningen. Man kan dog ved særlige terrænforhold se bort fra det, hvis gulvet langs mindst en vinduesvæg ligger over terrænet.
 
 I den forbindelse skal terrænet forstås som det terræn, der er fastsat eller forudsat af kommunen på det tidspunkt, hvor den oprindelige byggetilladelse blev givet. Man kan således ikke efterfølgende lave ændringer i terrænforholdene for at sikre, at kravet er opfyldt.
 
-### Hemse {#hemse}
+<span id="hemse"></span>
 
-**Hvad er en hems?**
+### Hemse {#2ede9e34-1c26-4498-8cab-a6d4fe818c25}
 
-En hems kan beskrives som et indskudt etageplan med et gulvareal på højest 4,5 m², der står i åben forbindelse med det rum den er indbygget i, med egen separat adgangsvej.
+[? Hvad er en hems?](#2ede9e34-1c26-4498-8cab-a6d4fe818c25) En hems kan beskrives som et indskudt etageplan med et gulvareal på højest 4.5 m2, der står i åben forbindelse med det rum den er indbygget i, med egen separat adgangsvej.
 
 Etableres der flere hemse er det en betingelse, at de ikke er internt forbundne.
 
 Hemse medregnes ikke til etagearealet eller til etageantallet.
-
-## Vejledning om boligindretning {#vejledning-om-boligindretning}
-
-### Kolofon {#vejledning-om-boligindretning-kolofon}
-
-**Bygningsreglementets vejledning om boligindretning**
-
-### Forord {#vejledning-om-boligindretning-forord}
-
-### 1. {#vejledning-om-boligindretning-1}
-
-1.
-
-### Boligens beboere {#vejledning-om-boligindretning-boligens-beboere}
-
-1.1.
-
-### Bygning, bolig, hjem {#vejledning-om-boligindretning-bygning-bolig-hjem}
-
-1.2.
-
-### Beboerne {#vejledning-om-boligindretning-beboerne}
-
-1.3.
-
-### Fleksibilitet i boligen {#vejledning-om-boligindretning-fleksibilitet-i-boligen}
-
-2.
-
-### Boligens overordnede planlægning {#vejledning-om-boligindretning-boligens-overordnede-planlaegning}
-
-2.1.
-
-### Boligens kontekst og bebyggelsens kompakthed {#vejledning-om-boligindretning-boligens-kontekst-og-bebyggelsens-kompakthed}
-
-2.2.
-
-### Bebyggelsestype {#vejledning-om-boligindretning-bebyggelsestype}
-
-2.3.
-
-### Fælles adgangsveje til boligen {#vejledning-om-boligindretning-faelles-adgangsveje-til-boligen}
-
-2.4.
-
-### Boligens størrelse {#vejledning-om-boligindretning-boligens-storrelse}
-
-2.5.
-
-### Boligens rumforløb og rummenes udformning {#vejledning-om-boligindretning-boligens-rumforlob-og-rummenes-udformning}
-
-2.6.
-
-### Dagslysforhold {#vejledning-om-boligindretning-dagslysforhold}
-
-2.7.
-
-### Lydforhold {#vejledning-om-boligindretning-lydforhold}
-
-2.8.
-
-### Trapper {#vejledning-om-boligindretning-trapper}
-
-2.9.
-
-### Opbevaring {#vejledning-om-boligindretning-opbevaring}
-
-2.10.
-
-### Tekniske installationer {#vejledning-om-boligindretning-tekniske-installationer}
-
-2.11.
-
-### Uderum {#vejledning-om-boligindretning-uderum}
-
-3.
-
-### Boligens aktiviteter {#vejledning-om-boligindretning-boligens-aktiviteter}
-
-3.1
-
-### At komme ind {#vejledning-om-boligindretning-at-komme-ind}
-
-3.2.
-
-### At lave mad {#vejledning-om-boligindretning-at-lave-mad}
-
-3.3
-
-### At spise {#vejledning-om-boligindretning-at-spise}
-
-3.4.
-
-### At være sammen {#vejledning-om-boligindretning-at-vaere-sammen}
-
-3.5.
-
-### At arbejde {#vejledning-om-boligindretning-at-arbejde}
-
-3.6.
-
-### At sove {#vejledning-om-boligindretning-at-sove}
-
-3.7.
-
-### At bade {#vejledning-om-boligindretning-at-bade}
-
-### Appendix: Litteratur {#vejledning-om-boligindretning-appendix-litteratur}
-
-## Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger {#bygningsreglementets-vejledning-om-glaspartier-glasflader-og-vaern-af-glas-i-bygninger}
-
-### Klik her for at åbne bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger {#bygningsreglementets-vejledning-om-glaspartier-glasflader-og-vaern-af-glas-i-bygninger-klik-her}
-
-[Åbn Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger](../../../media/k0jeh5oc/bygningsreglementets-vejledning-om-glaspartier-glasflader-og-vrn-af-glas-i-bygninger.pdf "Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger")

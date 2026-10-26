@@ -14,11 +14,11 @@
 
 ## Spørgsmål og svar om energiforbrug
 
-[?](./)
+<span id="store-terrndk"></span>
 
-### Store terrændæk
+### Store terrændæk {#49ecad1d-f466-44d3-bc77-4d23f8e13f42}
 
-[? Hvordan beregner man U-værdien af et stort terrændæk?](./) Store terrændæk, typisk terrændæk hvor mindste side i terrændækket er mindst 40 meter, har specielle forhold og temperaturen under dækket vil have stor indflydelse på varmetabet.
+[? Hvordan beregner man U-værdien af et stort terrændæk?](#49ecad1d-f466-44d3-bc77-4d23f8e13f42) Store terrændæk, typisk terrændæk hvor mindste side i terrændækket er mindst 40 meter, har specielle forhold og temperaturen under dækket vil have stor indflydelse på varmetabet.
 
 Normalt skal man benytte DS 418 til at dokumentere U-værdierne, med mindre at man kan begrunde afvigelse som værende forsvarlig.
 
@@ -32,11 +32,12 @@ Der er dermed tre forskellige måder at overholde kravet i bygningsreglementet p
 
 3. Beregning af det resulterende varmetab efter DS/EN ISO 13370. Her skal det resulterende varmetab være mindre end hvis dækket havde været isoleret i henhold til DS 418. Det betyder, at der skal foretages to beregninger med samme beregningsmetodik; en med den normale fordeling af isolering i henhold til DS 418 og en beregning med den alternative isolering.
 
-Det er en forudsætning for brugen af alle tre løsninger, at bygningsreglementets krav til linjetab ved fundamentet er overholdt. Det er ligeledes en forudsætning, at kravene i bygningsreglementet er overholdt fra bygningen tages i brug, herunder, at de tekniske anlæg er dimensioneret og udført således, at de kan betjene bygningen, i de år der går, mens temperaturen under dækket stabiliseres. [?](./)
+Det er en forudsætning for brugen af alle tre løsninger, at bygningsreglementets krav til linjetab ved fundamentet er overholdt. Det er ligeledes en forudsætning, at kravene i bygningsreglementet er overholdt fra bygningen tages i brug, herunder, at de tekniske anlæg er dimensioneret og udført således, at de kan betjene bygningen, i de år der går, mens temperaturen under dækket stabiliseres.
 
-### Industriporte
+<span id="industriporte"></span>
 
-[? Ved industriporte kan det være svært at overholde kravet til linjetab i §257, bl.a. på grund af den vægt der skal transporteres igennem porten. Hvordan skal det håndteres?](./) Efter styrelsens vurdering er porte, gennem hvilke der skal køre tunge køretøjer, netop et eksempel på løsninger, hvor linjetabene ikke kan overholdes uden at gå på kompromis med funktionen af bygningen. I teksten i §257 står der bl.a. "I visse tilfælde, f.eks. ved høje bygninger eller vanskelige jordforhold, kan kravene til linjetab ved fundament ikke overholdes. I disse tilfælde kan der accepteres en tilsvarende højere linjetabskoefficient, såfremt der ikke opstår problemer med fugt og kondens."
+### Industriporte {#238115c7-1f29-4374-b9e8-3d6da6a0c23d}
+
+[? Ved industriporte kan det være svært at overholde kravet til linjetab i §257, bl.a. på grund af den vægt der skal transporteres igennem porten. Hvordan skal det håndteres?](#238115c7-1f29-4374-b9e8-3d6da6a0c23d) Efter styrelsens vurdering er porte, gennem hvilke der skal køre tunge køretøjer, netop et eksempel på løsninger, hvor linjetabene ikke kan overholdes uden at gå på kompromis med funktionen af bygningen. I teksten i §257 står der bl.a. ”I visse tilfælde, f.eks. ved høje bygninger eller vanskelige jordforhold, kan kravene til linjetab ved fundament ikke overholdes. I disse tilfælde kan der accepteres en tilsvarende højere linjetabskoefficient, såfremt der ikke opstår problemer med fugt og kondens."
 
 Derfor er et det styrelsens opfattelse, at man godt kan overskride linjetabene ved industriporte, så længe det ikke medfører problemer med fugt og kondens og så længe energirammen ikke overskrides.
-

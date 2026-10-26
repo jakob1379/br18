@@ -22,11 +22,17 @@
 
 ## Vejledning om udnyttelige tagetager
 
-### Udnyttelige tagetager og bebyggelsesprocenten
+<span id="udnyttelige-tagetager-og-bebyggelsesprocenten"></span>
 
-### Hvad er en udnyttelig tagetage?
+### Udnyttelige tagetager og bebyggelsesprocenten {#559aa930-ec7b-49cc-9067-922e3ee62a92}
 
-### Hvilket areal medregnes i en udnyttelig tagetage?
+<span id="hvad-er-en-udnyttelig-tagetage"></span>
+
+### Hvad er en udnyttelig tagetage? {#6e4031f5-0105-45dd-bca5-582519860f9b}
+
+<span id="hvilket-areal-medregnes-i-en-udnyttelig-tagetage"></span>
+
+### Hvilket areal medregnes i en udnyttelig tagetage? {#4e165c97-1604-4e5f-af68-7bbf193df905}
 
 I en udnyttelig tagetage medregnes det areal, der i et vandret plan 1.5 m over færdigt gulv ligger inden for planets skæring med tagbeklædningens udvendige side.
 
@@ -34,6 +40,10 @@ I 1976 blev det areal i tagetagen medregnet, som i et vandret plan 1,0 m over f�
 
 Når det område ejendommen med tagetagen er beliggende i er omfattet af en lokalplan eller en byplanvedtægt er det de beregningsregler, der var gældende da plangrundlaget blev vedtaget, som skal anvendes ved beregning af etagearealet.
 
-### Fra udnyttelig til uudnyttelig tagetage
+<span id="fra-udnyttelig-til-uudnyttelig-tagetage"></span>
 
-### Anvendelsen af den udnyttelige tagetage
+### Fra udnyttelig til uudnyttelig tagetage {#cbecce15-92a8-4ddb-85fe-10a8e2716515}
+
+<span id="anvendelsen-af-den-udnyttelige-tagetage"></span>
+
+### Anvendelsen af den udnyttelige tagetage {#f0f6fa96-3edd-40ac-9bc6-fd696eb072ab}

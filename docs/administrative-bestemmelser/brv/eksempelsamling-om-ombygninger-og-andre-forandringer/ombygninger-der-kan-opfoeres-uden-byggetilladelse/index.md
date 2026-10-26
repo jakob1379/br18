@@ -22,39 +22,41 @@
 
 ## Eksempelsamling om ombygninger og andre forandringer - For etageboligbyggeri samt enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse
 
-### Kolofon
+<span id="kolofon"></span>
 
-[0](../forord/)
+### Kolofon {#f68306c1-c41e-401a-aab2-adb31d6bb0e3}
 
-### Forord
+<span id="forord"></span>
 
-[1](../generelt/)
+### 0 Forord {#df80a889-6625-457d-b3fe-e1687b7b29fb}
 
-### Generelt
+<span id="generelt"></span>
 
-[1.1](../bygningsreglementets-ombygningsbestemmelser/)
+### 1 Generelt {#21495b6f-78b7-4e10-9743-4c47b41ae9d4}
 
-### Bygningsreglementets ombygningsbestemmelser
+<span id="bygningsreglementets-ombygningsbestemmelser"></span>
 
-[1.2](../krav-til-konstruktions-og-brandforhold/)
+### 1.1 Bygningsreglementets ombygningsbestemmelser {#298c7843-a0dd-4973-be74-472322ebef49}
 
-### Krav til konstruktions- og brandforhold
+<span id="krav-til-konstruktions-og-brandforhold"></span>
 
-[1.3](../dokumentation-herunder-indplacering-i-konstruktions-og-brandklasser/)
+### 1.2 Krav til konstruktions- og brandforhold {#c67e186d-c5c0-429e-820b-7176d3a9d547}
 
-### Dokumentation, herunder indplacering i konstruktions- og brandklasse
+<span id="dokumentation-herunder-indplacering-i-konstruktions-og-brandklasse"></span>
 
-[2](../eksempler-etageboligbyggeri/)
+### 1.3 Dokumentation, herunder indplacering i konstruktions- og brandklasse {#c14359ca-3376-40c9-ac8d-e91e38a456d5}
 
-### Etageboligbyggeri - Eksempler på ombygninger og andre forandringer
+<span id="etageboligbyggeri-eksempler-pa-ombygninger-og-andre-forandringer"></span>
 
-[2.1](../ombygninger-der-kraever-byggetilladelse/)
+### 2 Etageboligbyggeri - Eksempler på ombygninger og andre forandringer {#3bffc19b-782d-4144-8df2-a2f65378e944}
 
-### Ombygninger og andre forandringer der kræver byggetilladelse
+<span id="ombygninger-og-andre-forandringer-der-krver-byggetilladelse"></span><span id="ombygninger-og-andre-forandringer-der-krver-byggetilladelse_1"></span>
 
-[2.2](./)
+### 2.1 Ombygninger og andre forandringer der kræver byggetilladelse {#a2f39fe8-9ddb-4b6e-94e7-969bfbdce576}
 
-### Ombygninger og andre forandringer der kan udføres uden ansøgning om byggetilladelse
+<span id="ombygninger-og-andre-forandringer-der-kan-udfres-uden-ansgning-om-byggetilladelse"></span><span id="ombygninger-og-andre-forandringer-der-kan-udfres-uden-ansgning-om-byggetilladelse_1"></span>
+
+### 2.2 Ombygninger og andre forandringer der kan udføres uden ansøgning om byggetilladelse {#9561ac47-4b09-4b1c-87ed-1332e9e5dd07}
 
 Ved nogle af de nedenstående eksempler er der tilknyttet specifikke forudsætninger for konstruktions- og/eller brandforhold, som skal være opfyldt for at eksemplerne kan benyttes.
 
@@ -62,8 +64,8 @@ Udover de specifikke forudsætninger, forudsættes det generelt for alle eksempl
 
 <table>
 <colgroup>
-<col style="width: 44%" />
-<col style="width: 55%" />
+<col style="width: 50%" />
+<col style="width: 50%" />
 </colgroup>
 <tbody>
 <tr>
@@ -74,60 +76,56 @@ Udover de specifikke forudsætninger, forudsættes det generelt for alle eksempl
 <td><strong>Specifikke forudsætninger</strong></td>
 </tr>
 <tr>
-<td>Udvidelse af wc-rum med bad, hvor der sker ny rørgennemføring gennem etageadskillelse.</td>
+<td><p>Udvidelse af wc-rum med bad, hvor der sker ny rørgennemføring gennem etageadskillelse.</p></td>
 <td><p>Forudsætter bl.a., at gennemføringen udføres med brandtætninger, der har samme brandmodstandsevne som den pågældende bygningsdel.</p>
 <p>Forudsætter bl.a., at evt. ændring i etagedæk retableres på tilsvarende måde som eksisterende etagedæk.</p></td>
 </tr>
 <tr>
-<td>Nyt badeværelse eller wc-rum i andet rum, hvor der sker ny rørgennemføring gennem etageadskillelse.</td>
+<td>Nyt badeværelse eller wc-rum i andet rum, hvor der sker ny rørgennemføring gennem etageadskillelse. </td>
 <td><p>Forudsætter bl.a., at gennemføringen udføres med brandtætning, der har samme brandmodstandsevne som den pågældende bygningsdel.</p>
 <p>Forudsætter bl.a., at evt. ændring i etagedæk retableres på tilsvarende måde som eksisterende etagedæk.</p></td>
 </tr>
 <tr>
-<td>Flytning af køkken til andet rum.</td>
-<td></td>
+<td><p>Flytning af køkken til andet rum.</p></td>
+<td> </td>
 </tr>
 <tr>
-<td>Nedrivning af ikke-bærende vægge (gælder også vægge mellem boliger ved sammenlægning af lejligheder).</td>
-<td></td>
+<td><p>Nedrivning af ikke-bærende vægge (gælder også vægge mellem boliger ved sammenlægning af lejligheder).</p></td>
+<td> </td>
 </tr>
 <tr>
 <td>Opdeling af rum med skillevæg.</td>
-<td>Forudsætter bl.a., at adgang til redningsåbninger og flugtveje via trapperne ikke forringes i forhold til kravene i BR18.</td>
+<td><p>Forudsætter bl.a., at adgang til redningsåbninger og flugtveje via trapperne ikke forringes i forhold til kravene i BR18.</p></td>
 </tr>
 <tr>
-<td>Blænding af internt dørhul.</td>
-<td>Forudsætter bl.a., at adgang til redningsåbninger og flugtveje ikke forringes i forhold til kravene i BR18.</td>
+<td>Blænding af internt dørhul. </td>
+<td><p>Forudsætter bl.a., at adgang til redningsåbninger og flugtveje ikke forringes i forhold til kravene i BR18.</p></td>
 </tr>
 <tr>
-<td>Udvidelse af vindueshul til dørhul med samme bredde i bærende væg samt etablering af fransk altan.</td>
+<td><p>Udvidelse af vindueshul til dørhul med samme bredde i bærende væg samt etablering af fransk altan.</p></td>
 <td><p>Forudsætter bl.a., at dørhullet har højst samme bredde som det eksisterende hul til vinduet.</p>
 <p>Forudsætter bl.a., at vinduets/dørens eventuelle funktion som redningsåbning bibeholdes.</p>
 <p>Forudsætter at vægges eventuelle afstivende funktion bibeholdes.</p></td>
 </tr>
 <tr>
-<td>Blænding af én dør til primært trapperum ved sammenlægning af lejligheder på samme etage.</td>
-<td>Forudsætter bl.a., at der fortsat er adgang til mindst én dør til primært trapperum.</td>
+<td>Blænding af én dør til primært trapperum ved sammenlægning af lejligheder på samme etage. </td>
+<td><p>Forudsætter bl.a., at der fortsat er adgang til mindst én dør til primært trapperum.</p></td>
 </tr>
 <tr>
-<td>Blænding af dør til sekundært trapperum ved sammenlægning af lejligheder på samme etage.</td>
+<td>Blænding af dør til sekundært trapperum ved sammenlægning af lejligheder på samme etage. </td>
 <td>Forudsætter bl.a., at der fortsat er adgang til mindst én dør til sekundært trapperum.</td>
 </tr>
 <tr>
-<td>Nedlæggelse af lyskasser.</td>
-<td>Forudsætter bl.a., at lyskasserne ikke er påkrævet af brandmæssige årsager, f.eks. røgudluftning.</td>
+<td>Nedlæggelse af lyskasser. </td>
+<td><p>Forudsætter bl.a., at lyskasserne ikke er påkrævet af brandmæssige årsager, f.eks. røgudluftning.</p></td>
 </tr>
 </tbody>
 </table>
 
-[3](../eksempler-enfamiliehuse/)
+<span id="enfamiliehuse-dobbelthuse-rkkehuse-og-sommerhuse-eksempler-pa-ombygninger-og-andre-forandringer"></span>
 
-### Enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse - Eksempler på ombygninger og andre forandringer
+### 3 Enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse - Eksempler på ombygninger og andre forandringer {#0c0b0cd0-4953-4816-91f1-d2a02999a2a8}
 
-[3.1](../ombygninger-der-kraever-byggetilladelse_/)
+### 3.1 Ombygninger og andre forandringer der kræver byggetilladelse {#76275838-91af-4905-8352-8d2aef45e85b}
 
-### Ombygninger og andre forandringer der kræver byggetilladelse
-
-[3.2](../ombygninger-der-kan-opfoeres-uden-byggetilladelse_/)
-
-### Ombygninger og andre forandringer der kan udføres uden ansøgning om byggetilladelse
+### 3.2 Ombygninger og andre forandringer der kan udføres uden ansøgning om byggetilladelse {#9adc1b1f-315c-4069-97b9-35c305f352ac}

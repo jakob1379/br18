@@ -2,16 +2,18 @@
 
 ## Se alle vejledninger om Lydforhold (§ 368 - § 376)
 
-- [Bygningsreglementets vejledning om lydforhold](..)
-- [- Vejledning til boliger og andre bygninger til overnatning](../../boliger)
-- [- Vejledning til undervisningsbygninger](../../undervisningsbygninger)
-- [- Vejledning til daginstitutionsbygninger](../../daginstitutionsbygninger)
-- [- Vejledning til kontorbyggeri](../../kontorbygninger)
-- [- Vejledning til hospitaler, lægehuse og klinikker](../../hospitaler-laegehuse-og-klinikker)
+- [Bygningsreglementets vejledning om lydforhold](../)
+- [- Vejledning til boliger og andre bygninger til overnatning](../../boliger/)
+- [- Vejledning til undervisningsbygninger](../../undervisningsbygninger/)
+- [- Vejledning til daginstitutionsbygninger](../../daginstitutionsbygninger/)
+- [- Vejledning til kontorbyggeri](../../kontorbygninger/)
+- [- Vejledning til hospitaler, lægehuse og klinikker](../../hospitaler-laegehuse-og-klinikker/)
 
 ## Bygningsreglementets vejledning om lydforhold
 
-### Forord
+<span id="forord"></span>
+
+### Forord {#f8f28711-8be8-4539-ba26-9a8f0b1e4f41}
 
 ### 1.0 Generelt for bestemmelserne om lydforhold (§§ 368 - 376) {#0bbdae59-0484-4bd1-b5f8-4e14c23f4e45}
 
@@ -23,13 +25,11 @@
 
 ### 1.4 Kontrol af lydforhold ved målinger eller beregninger {#d750339f-fef1-48b9-a6e4-447d929d3e25}
 
-Kontrolmålinger kan tjene til dokumentation af, om kravene til det akustiske indeklima er opfyldt. Beregninger kan - for absorptionsareal og trafikstøj - indgå i kontrol af lydforhold. Referencer til måle- og beregningsstandarder findes i [afsnit 1.5](../referenceliste "Referenceliste").
+Kontrolmålinger kan tjene til dokumentation af, om kravene til det akustiske indeklima er opfyldt. Beregninger kan - for absorptionsareal og trafikstøj - indgå i kontrol af lydforhold. Referencer til måle- og beregningsstandarder findes i [afsnit 1.5](../referenceliste/ "Referenceliste").
 
 Hvordan og efter hvilke målestandarder kontrolmålinger bør udføres samt specifik vejledning om forhold, der ikke er fastlagt i målestandarderne, er beskrevet i SBi-anvisning 217 om udførelse af bygningsakustiske målinger.
 
 **Accept af afvigelser fra grænseværdien ved kontrolmålinger**
-
-#####
 
 **Luftlydisolations- og trinlydmålinger**
 
@@ -88,5 +88,7 @@ Det ækvivalente absorptionsareal eftervises ved beregning. Med undtagelse af st
 *Store, højloftede fælles- og opholdsrum:*
 
 Balkoner, hemse og lignende i dobbelthøje rum skal ikke umiddelbart medregnes i gulvarealet ved fastsættelse af grænseværdien for absorptionsarealet, men er det muligt, vil det dog forbedre lydforholdene. Er der tale om store rum med gennembrydninger mellem etagerne, kan grænseværdierne med fordel fastsættes for hver etage for sig.
+
+<span id="_1"></span>
 
 ### 1.5 Referenceliste {#9a559514-a587-4dd6-8fc9-adf1ba729a5a}

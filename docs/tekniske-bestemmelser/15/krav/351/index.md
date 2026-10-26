@@ -11,7 +11,17 @@ Projektering, udførelse, drift og vedligehold af konstruktioner og bygningsdele
 3.  Skal opnås tilfredsstillende forhold i funktions- og holdbarhedsmæssig henseende.
 4.  Ikke opstår risiko for personers sundhed på grund af indtrængen af skadedyr.
 
-§ 341 I byggeri skal der anvendes materialer, som er egnede til det konkrete formål. § 342 Fundering skal ske til frostsikker dybde og bæredygtig bund eller på anden måde, så der ikke opstår skader som følge af bevægelser i jordbunden. Ved udvendig frostsikring af fundamenter skal der tages særlig hensyn til løsningernes robusthed og pålidelighed, så frostsikringen bevares i hele bygningens levetid. § 343 Tage og ovenlys i tage skal udføres, så der er tilfredsstillende sikkerhed mod gennemtrædning.
+### § 341 {#paragraf-341}
+
+I byggeri skal der anvendes materialer, som er egnede til det konkrete formål.
+
+### § 342 {#paragraf-342}
+
+Fundering skal ske til frostsikker dybde og bæredygtig bund eller på anden måde, så der ikke opstår skader som følge af bevægelser i jordbunden. Ved udvendig frostsikring af fundamenter skal der tages særlig hensyn til løsningernes robusthed og pålidelighed, så frostsikringen bevares i hele bygningens levetid.
+
+### § 343 {#paragraf-343}
+
+Tage og ovenlys i tage skal udføres, så der er tilfredsstillende sikkerhed mod gennemtrædning.
 
 ## § 344 Projektering og udførelse {#36d0985e-3901-487e-be97-f9dd06219c9f}
 
@@ -192,4 +202,3 @@ Teleskopstande og demonterbare tilskuertribuner skal dimensioneres i overensstem
 ### § 357 {#paragraf-357}
 
 Drift, kontrol og vedligehold af konstruktioner skal ske, så de til enhver tid overholder de relevante bestemmelser i §§ 344- 356.
-

@@ -22,14 +22,24 @@
 
 ## Vejledning om udnyttelige tagetager
 
-### Udnyttelige tagetager og bebyggelsesprocenten
+<span id="udnyttelige-tagetager-og-bebyggelsesprocenten"></span>
 
-### Hvad er en udnyttelig tagetage?
+### Udnyttelige tagetager og bebyggelsesprocenten {#559aa930-ec7b-49cc-9067-922e3ee62a92}
 
-### Hvilket areal medregnes i en udnyttelig tagetage?
+<span id="hvad-er-en-udnyttelig-tagetage"></span>
 
-### Fra udnyttelig til uudnyttelig tagetage
+### Hvad er en udnyttelig tagetage? {#6e4031f5-0105-45dd-bca5-582519860f9b}
 
-### Anvendelsen af den udnyttelige tagetage
+<span id="hvilket-areal-medregnes-i-en-udnyttelig-tagetage"></span>
 
-Når det er konstateret, at tagetagen er udnyttelig, og det areal, der skal medregnes til bebyggelsesprocenten er fastsat, skal der herefter selvstændigt tages stilling, om den ansøgte anvendelse betyder, at der er krav om byggetilladelse, og hvilke krav den ansøgte anvendelse i øvrigt skal overholde. Eksempelvis vil der ved en ændret anvendelse fra pulterrum i en udnyttelig tagetage til beboelse være tale om en væsentlig anvendelsesændring i henhold til [byggelovens § 2, stk.2, litra c](https://www.retsinformation.dk/eli/lta/2016/1178), og der vil dermed være krav om byggetilladelse. Hvilke krav der i øvrigt skal stilles, afhænger at den konkrete sag.
+### Hvilket areal medregnes i en udnyttelig tagetage? {#4e165c97-1604-4e5f-af68-7bbf193df905}
+
+<span id="fra-udnyttelig-til-uudnyttelig-tagetage"></span>
+
+### Fra udnyttelig til uudnyttelig tagetage {#cbecce15-92a8-4ddb-85fe-10a8e2716515}
+
+<span id="anvendelsen-af-den-udnyttelige-tagetage"></span>
+
+### Anvendelsen af den udnyttelige tagetage {#f0f6fa96-3edd-40ac-9bc6-fd696eb072ab}
+
+Når det er konstateret, at tagetagen er udnyttelig, og det areal, der skal medregnes til bebyggelsesprocenten er fastsat, skal der herefter selvstændigt tages stilling, om den ansøgte anvendelse betyder, at der er krav om byggetilladelse, og hvilke krav den ansøgte anvendelse i øvrigt skal overholde. Eksempelvis vil der ved en ændret anvendelse fra pulterrum i en udnyttelig tagetage til beboelse være tale om en væsentlig anvendelsesændring i henhold til byggelovens § 2, stk.2, litra c, og der vil dermed være krav om byggetilladelse. Hvilke krav der i øvrigt skal stilles, afhænger at den konkrete sag.

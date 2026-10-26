@@ -26,6 +26,7 @@ if [[ -n "$pandoc_tables" ]]; then
 fi
 
 uv run zensical build --strict
+uv run python scripts/keep_anchors.py --check --site-dir "$site_dir"
 
 root_dir="$(cd "$site_dir" && pwd)"
 
@@ -36,8 +37,8 @@ if [[ -n "$table_text" ]]; then
 fi
 
 space='(?:\s|&nbsp;|&#160;|\x{a0})'
-residue="$(rg -n -o -P --glob '*.html' --glob '!historisk/**' \
-  -e '@@PROTECTED_' \
+residue="$(rg -n -o -P --glob '*.html' \
+  -e '>[^<]*@@PROTECTED_' \
   -e '>[^<]*\*\*' \
   -e "(?:^|[\\s>])\\*{1,3}${space}+\\*{1,3}(?=[\\s<]|$)" \
   -e "<(?:p|li|h[1-6])\\b[^>]*>${space}*\\*+${space}*(?:</|<a class=\"headerlink\")" \
@@ -60,8 +61,6 @@ lychee \
   --index-files index.html \
   --fallback-extensions html \
   --exclude '^file://.*/site/404\.html#__skip$' \
-  --exclude '^file://.*/site/external/' \
-  --exclude '^file://.*/site/historisk/' \
   --exclude '^https://brandogkonstruktioner\.dk/' \
   --exclude '^https://www\.brandogkonstruktioner\.dk/' \
   --exclude '^https?://historisk\.bygningsreglementet\.dk/' \

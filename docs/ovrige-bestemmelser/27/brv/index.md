@@ -1,7 +1,5 @@
 ---
 title: Brandklasser (§ 490 - § 493) – Vejledning
-hide:
-  - navigation
 ---
 
 # Brandklasser (§ 490 - § 493)
@@ -11,24 +9,9 @@ hide:
 
 ## Se alle vejledninger om Brandklasser (§ 490 - § 493)
 
-- [Spørgsmål og svar](./#spoergsmaal-og-svar)
-- [Vejledning om indplacering i brandklasser](./#vejledning-om-indplacering-i-brandklasser)
-- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](./#temasiden-brandogkonstruktioner-dk-om-certificeringsordningen-for-brandforhold-og-baerende-konstruktioner)
+- [](faq/)
+- [Spørgsmål og svar](spoergsmaal-og-svar/)
+- [Vejledning om indplacering i brandklasser](indplacering-i-brandklasser/)
+- [Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner](temasiden-brandogkonstruktioner-dk/)
 
-## Spørgsmål og svar {#spoergsmaal-og-svar}
-
-### Spørgsmål og svar om brandklasser (30-09-2020)
-
-[Link til vejledning](spoergsmaal-og-svar/)
-
-## Vejledning om indplacering i brandklasser {#vejledning-om-indplacering-i-brandklasser}
-
-### Vejledning om indplacering i brandklasser
-
-[Link til vejledning](spoergsmaal-og-svar/)
-
-## Temasiden Brandogkonstruktioner.dk om certificeringsordningen for brandforhold og bærende konstruktioner {#temasiden-brandogkonstruktioner-dk-om-certificeringsordningen-for-brandforhold-og-baerende-konstruktioner}
-
-### Klik her for link til temasiden Brandogkonstruktioner.dk
-
-[Brandogkonstruktioner.dk](https://www.brandogkonstruktioner.dk/)
+<span id="spoergsmaal-og-svar"></span><span id="sprgsmal-og-svar-om-brandklasser-30-09-2020"></span><span id="vejledning-om-indplacering-i-brandklasser"></span><span id="vejledning-om-indplacering-i-brandklasser_1"></span><span id="temasiden-brandogkonstruktioner-dk-om-certificeringsordningen-for-brandforhold-og-baerende-konstruktioner"></span><span id="klik-her-for-link-til-temasiden-brandogkonstruktionerdk"></span>

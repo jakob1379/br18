@@ -7,17 +7,17 @@
 
 ## Bygningsreglementets vejledning om fugt og vådrum
 
-### Generelt om fugt og vådrum
+<span id="generelt-om-fugt-og-vadrum"></span><span id="vadrum"></span>
 
-[1.0.](../kap-1_0/)
+### Generelt om fugt og vådrum {#cacc9ea9-63fb-42d2-b4e1-448c263cf36d}
 
-### Fugt
+<span id="fugt"></span>
 
-[2.0.](./)
+### 1.0. Fugt {#518be76c-4c21-4760-9fae-5c60265b1fd6}
 
-### Vådrum
+### 2.0. Vådrum {#19b28c28-7ff7-45b4-aff0-7ca71f849b31}
 
-Vådrum er et af de mest fugtbelastede rum, og derfor skal vådrum udføres med fokus på beskyttelse mod vand- og fugtbelastninger, ligesom der er specifikke krav til ventilation i vådrum i boliger i [kapitel 22](/tekniske-bestemmelser/22/). Vådrum skal udføres, så der er sikkerhed mod skader fra vand og fugt, og de skader, som vand og fugt kan medføre. De typiske problemer med vandskader i vådrum stammer fra utætheder i rørsamlinger eller omkring installationsgennembrydninger, utilstrækkelige vådrumsmembraner og manglende fald på gulvet mod gulvafløb i de vandbelastede områder af vådrummet.
+Vådrum er et af de mest fugtbelastede rum, og derfor skal vådrum udføres med fokus på beskyttelse mod vand- og fugtbelastninger, ligesom der er specifikke krav til ventilation i vådrum i boliger i kapitel 22. Vådrum skal udføres, så der er sikkerhed mod skader fra vand og fugt, og de skader, som vand og fugt kan medføre. De typiske problemer med vandskader i vådrum stammer fra utætheder i rørsamlinger eller omkring installationsgennembrydninger, utilstrækkelige vådrumsmembraner og manglende fald på gulvet mod gulvafløb i de vandbelastede områder af vådrummet.
 
 Vådrum er hele det rum, hvor der er vandpåvirkning. Det er for eksempel badeværelser, bryggers med gulvafløb og WC-rum med gulvafløb. Alle rum med gulvafløb er som udgangspunkt vådrum og skal derfor beskyttes mod de forventede fugtpåvirkninger i vådrum. Bryggers eller WC-rum uden gulvafløb betragtes ikke som vådrum.
 
@@ -39,6 +39,8 @@ I SBi Anvisning 252 beskrives, hvorledes gulve og vægge i vådrum kan udføres.
 
 Hvis SBi-anvisning 252 følges, opnås en god sikkerhed for at overholde bygningsreglementets krav til vådrum.
 
+[![](../../../../../assets/img/linkbox/sbi_anv_linkbox.svg)](#)
+
 #### SBi Anvisning 252
 
 Vådrum
@@ -49,6 +51,8 @@ SBi-anvisning 252 giver vejledning i planlægning, projektering og korrekt udfø
 
 Vådrum hører til de mest kritiske rum i en bygning, både på grund af den direkte vandpåvirkning og den høje relative luftfugtighed, der ofte forekommer i længere perioder. Anvisningen beskriver, hvordan gulve, vægge og installationer kan udføres, så bygningsreglementets krav er overholdt, og så der opnås størst mulig sikkerhed mod skader fra vand og fugt.
 
+<span id="se-anvisningen-her-sbi-anvisning-252"></span>
+
 #### Se anvisningen her [](https://sbi.dk/anvisninger/Pages/252-Vaadrum-1.aspx "SBi Anvisning 252"){target="_blank"}
 
--  [Gå til krav om Vådrum](../../../krav/339/){target="_blank"}
+- [Gå til krav om Vådrum](../../../krav/339/#eb0ba6a3-9056-4315-aba8-417e17607290){target="_blank"}

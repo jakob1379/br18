@@ -2,15 +2,15 @@
 
 ## Se alle vejledninger om Energiforbrug og klimapåvirkning (§ 250 - § 298)
 
-- [Spørgsmål og svar om energiforbrug](../qa)
-- [Spørgsmål og svar om bygningers klimapåvirkning](../spoergsmaal-og-svar-om-bygningers-klimapaavirkning)
-- [Bygningsreglementets vejledning om energiforbrug](../energiforbrug-2)
-- [Bygningsreglementets vejledning om efterisolering](../ofte-rentable-konstruktioner)
-- [Vejledning om funktionsafprøvning](../version-2-funktionsafprovning)
-- [Vejledning om håndtering af forskelligt energibehov i energirammen](../haandtering-af-forskelligt-energibehov)
+- [Spørgsmål og svar om energiforbrug](../qa/)
+- [Spørgsmål og svar om bygningers klimapåvirkning](../spoergsmaal-og-svar-om-bygningers-klimapaavirkning/)
+- [Bygningsreglementets vejledning om energiforbrug](../energiforbrug-2/)
+- [Bygningsreglementets vejledning om efterisolering](../ofte-rentable-konstruktioner/)
+- [Vejledning om funktionsafprøvning](../version-2-funktionsafprovning/)
+- [Vejledning om håndtering af forskelligt energibehov i energirammen](../haandtering-af-forskelligt-energibehov/)
 - [Bygningsreglementets vejledning om bygningers klimapåvirkning](./)
-- [Vejledning om energiberegning af hospitaler](../energiberegning-af-hospitaler)
-- [Eksempelsamling for energi](../eksempelsamling)
+- [Vejledning om energiberegning af hospitaler](../energiberegning-af-hospitaler/)
+- [Eksempelsamling for energi](../eksempelsamling/)
 
 ## Bygningsreglementets vejledning om bygningers klimapåvirkning
 
@@ -18,7 +18,7 @@
 
 Kapitel 11 i bygningsreglementet indeholder krav om bygningers energiforbrug og klimapåvirkning.
 
-Den overordnede metode til beregningen af bygningers klimapåvirkning er baseret på EN 15978:2012 "Bæredygtighed inden for byggeri og anlæg – Vurdering af bygningers miljømæssige kvalitet – Beregningsmetode".
+Den overordnede metode til beregningen af bygningers klimapåvirkning er baseret på EN 15978:2012 ”Bæredygtighed inden for byggeri og anlæg – Vurdering af bygningers miljømæssige kvalitet – Beregningsmetode”.
 
 Kravet, som fremgår af henholdsvis §§ 297 og 298, indeholder to elementer:
 
@@ -84,7 +84,7 @@ Bygningsejer kan vælge at foretage beregningen for flere bygninger sammenlagt. 
 
 For bygninger, som skal overholde grænseværdien i § 298, er det også muligt at foretage beregningen samlet, men her er det et krav, at bygningerne er så ens, at det ikke skaber tvivl om, at bygningerne hver især – hvis de blev beregnet hver for sig – ville kunne overholde grænseværdien. Der henvises til de nærmere forudsætninger for at beregne bygningerne samlet i § 298, stk. 6.
 
-[Gå til krav om bygningers klimapåvirkning § 297 - § 298 (nyt vindue)](../../krav/297_298 "297_298"){rel="noopener" target="_blank"}
+[Gå til krav om bygningers klimapåvirkning § 297 - § 298 (nyt vindue)](../../krav/297_298/ "297_298"){rel="noopener" target="_blank"}
 
 ### 1.2. Livscyklus og betragtningsperiode {#e6bbf376-bc5d-42f7-aeed-492ba0a0a9b5}
 
@@ -92,7 +92,7 @@ I en livscyklusvurdering (Life Cycle Assessment, LCA) af en bygning opgøres byg
 
 #### **1.2.1   Beregningsprincipper for beregning af klimapåvirkningen**
 
-Til beregning af klimapåvirkningen skal der tages udgangspunkt i de beregningsprincipper, som fremgår af standarden DS/EN15978:2012 "Bæredygtighed inden for byggeri og anlæg - Vurdering af bygningers miljømæssige kvalitet – Beregningsmetode".
+Til beregning af klimapåvirkningen skal der tages udgangspunkt i de beregningsprincipper, som fremgår af standarden DS/EN15978:2012 ”Bæredygtighed inden for byggeri og anlæg - Vurdering af bygningers miljømæssige kvalitet – Beregningsmetode”.
 
 Standarden DS/EN15978:2012 skal følges med de præciseringer, der fremgår af § 297. Det vil sige, at:
 
@@ -118,81 +118,75 @@ De moduler, som skal medregnes og dokumenteres, jf. kravet i bygningsreglementet
 
 ***Figur 2.1:** Grafisk illustration af bygningens livscyklus iht. EN15978. De moduler og faser, der indgår i beregningen, jf. § 297, er fremhævet med grøn skrift. Moduler, der ikke indgår, er markeret med grå skrift og parentes.*
 
-Figur 2.2 understøtter figur 2.1 på en alternativ grafisk måde. Det, der fremgår som "uden for projektet"/"udenfor systemgrænsen", angiver de potentielle klimamæssige gevinster (modul D), som for eksempel kan forekomme efter bygningens levetid.
+Figur 2.2 understøtter figur 2.1 på en alternativ grafisk måde. Det, der fremgår som ”uden for projektet”/”udenfor systemgrænsen”, angiver de potentielle klimamæssige gevinster (modul D), som for eksempel kan forekomme efter bygningens levetid.
 
-*![](../../../../media/dqbbvkj4/figur-22-opdatering-2025.png){width="617" height="384"}*
+![](../../../../media/dqbbvkj4/figur-22-opdatering-2025.png){width="617" height="384"}
 
-***Figur 2.2:** Oversigt over moduler og faser i en bygnings LCA, jf. EN15978. Modulerne A1-A3, A4-A5, B4, B6, C3-C4 og D skal dokumenteres, jf. [§ 297 (nyt vindue)](../../krav/297_298 "297_298"){rel="noopener" target="_blank"}.*
+***Figur 2.2:** Oversigt over moduler og faser i en bygnings LCA, jf. EN15978. Modulerne A1-A3, A4-A5, B4, B6, C3-C4 og D skal dokumenteres, jf. [§ 297 (nyt vindue)](../../krav/297_298/ "297_298"){rel="noopener" target="_blank"}.*
 
 I tabel 2.1 fremgår de moduler, der indgår i beregningen med en forklaring på, hvad de enkelte moduler indeholder. Det datagrundlag, der skal anvendes til beregning af klimapåvirkningen, er allerede opdelt på de moduler, der fremgår af tabellen. I forhold til dokumentation af overholdelse af grænseværdien er det derfor ikke nødvendigt at forholde sig konkret til de enkelte moduler i forbindelse med beregningen, dog med undtagelse af modul A4-A5, som har en selvstændig grænseværdi jf. § 298, stk. 5 (se i øvrigt nærmere i vejledning: § 297, stk. 7-8, Datagrundlag)
 
-<table style="width:99%;">
-<colgroup>
-<col style="width: 6%" />
-<col style="width: 2%" />
-<col style="width: 24%" />
-<col style="width: 65%" />
-</colgroup>
+<table data-border="1" data-cellspacing="0" data-cellpadding="0">
 <tbody>
 <tr>
-<td>Faser</td>
-<td colspan="2">Moduler</td>
-<td>Uddybning af modulers processer</td>
+<td width="50" data-valign="top"><p>Faser</p></td>
+<td colspan="2" width="129" data-valign="top"><p>Moduler</p></td>
+<td width="248" data-valign="top"><p>Uddybning af modulers processer</p></td>
 </tr>
 <tr>
-<td rowspan="3">Produkt</td>
-<td>A1</td>
-<td>Råmaterialer</td>
-<td>Klimamæssige konsekvenser som følge af processer for udvinding af råstoffer og brug af sekundære materialer.</td>
+<td rowspan="3" width="50" data-valign="top"><p>Produkt</p></td>
+<td width="34" data-valign="top"><p>A1</p></td>
+<td width="94" data-valign="top"><p>Råmaterialer</p></td>
+<td width="248" data-valign="top"><p>Klimamæssige konsekvenser som følge af processer for udvinding af råstoffer og brug af sekundære materialer.</p></td>
 </tr>
 <tr>
-<td>A2</td>
-<td>Transport til fremstilling</td>
-<td>Klimamæssige konsekvenser som følge af transport til fabrikken til fremstilling af den færdige byggevare eller det præfabrikerede system.</td>
+<td width="34" data-valign="top"><p>A2</p></td>
+<td width="94" data-valign="top"><p>Transport til fremstilling</p></td>
+<td width="248" data-valign="top"><p>Klimamæssige konsekvenser som følge af transport til fabrikken til fremstilling af den færdige byggevare eller det præfabrikerede system.</p></td>
 </tr>
 <tr>
-<td>A3</td>
-<td>Fremstilling</td>
-<td>Klimamæssige konsekvenser som følge af processer til fremstilling af den færdige byggevare eller det præfabrikerede system.</td>
+<td width="34" data-valign="top"><p>A3</p></td>
+<td width="94" data-valign="top"><p>Fremstilling</p></td>
+<td width="248" data-valign="top"><p>Klimamæssige konsekvenser som følge af processer til fremstilling af den færdige byggevare eller det præfabrikerede system.</p></td>
 </tr>
 <tr>
-<td rowspan="2">Byggeproces</td>
-<td>A4</td>
-<td> Transport</td>
-<td>Klimamæssige konsekvenser som følge af transport til og fra byggepladsen.</td>
+<td rowspan="2" width="50" data-valign="top"><p>Byggeproces</p></td>
+<td width="34" data-valign="top"><p>A4</p></td>
+<td width="94" data-valign="top"><p> Transport</p></td>
+<td width="248" data-valign="top"><p>Klimamæssige konsekvenser som følge af transport til og fra byggepladsen.</p></td>
 </tr>
 <tr>
-<td>A5</td>
-<td>  Opførelse</td>
-<td>Klimamæssige konsekvenser som følge af påvirkninger relateret til opførelse af bygningen.</td>
+<td width="34" data-valign="top"><p>A5</p></td>
+<td width="94" data-valign="top"><p>  Opførelse</p></td>
+<td width="248" data-valign="top">Klimamæssige konsekvenser som følge af påvirkninger relateret til opførelse af bygningen.</td>
 </tr>
 <tr>
-<td rowspan="2">Brug</td>
-<td>B4</td>
-<td>Udskiftning</td>
-<td>Klimamæssige konsekvenser som følge af påvirkninger relateret til udskiftninger af bygningsdele.</td>
+<td rowspan="2" width="50" data-valign="top"><p>Brug</p></td>
+<td width="34" data-valign="top"><p>B4</p></td>
+<td width="94" data-valign="top"><p>Udskiftning</p></td>
+<td width="248" data-valign="top">Klimamæssige konsekvenser som følge af påvirkninger relateret til udskiftninger af bygningsdele.</td>
 </tr>
 <tr>
-<td>B6</td>
-<td>Energiforbrug til drift</td>
-<td>Klimamæssige konsekvenser som følge af produktion af energi til bygningsdrift.</td>
+<td width="34" data-valign="top"><p>B6</p></td>
+<td width="94" data-valign="top">Energiforbrug til drift</td>
+<td width="248" data-valign="top"><p>Klimamæssige konsekvenser som følge af produktion af energi til bygningsdrift.</p></td>
 </tr>
 <tr>
-<td rowspan="2">Endt levetid</td>
-<td>C3</td>
-<td>Forbehandling af affald</td>
-<td>Klimamæssige konsekvenser som følge af affaldsbehandling forud for nyttiggørelse.</td>
+<td rowspan="2" width="50" data-valign="top"><p>Endt levetid</p></td>
+<td width="34" data-valign="top"><p>C3</p></td>
+<td width="94" data-valign="top"><p>Forbehandling af affald</p></td>
+<td width="248" data-valign="top"><p>Klimamæssige konsekvenser som følge af affaldsbehandling forud for nyttiggørelse.</p></td>
 </tr>
 <tr>
-<td>C4</td>
-<td>Bortskaffelse</td>
-<td>Klimamæssige konsekvenser som følge af bortskaffelse af affald, inklusive forbehandling forud for bortskaffelse.</td>
+<td width="34" data-valign="top"><p>C4</p></td>
+<td width="94" data-valign="top"><p>Bortskaffelse</p></td>
+<td width="248" data-valign="top">Klimamæssige konsekvenser som følge af bortskaffelse af affald, inklusive forbehandling forud for bortskaffelse.</td>
 </tr>
 <tr>
-<td>Udenfor projekt</td>
-<td>D</td>
-<td>Potentiale for genbrug, genanvendelse og anden nyttiggørelse</td>
-<td>Potentielle miljømæssige gevinster eller belastninger fra genbrug og genanvendelse af byggevarer og anden nyttiggørelse som for eksempel energiindvinding fra afbrænding.</td>
+<td width="50" data-valign="top"><p>Udenfor projekt</p></td>
+<td width="34" data-valign="top"><p>D</p></td>
+<td width="94" data-valign="top"><p>Potentiale for genbrug, genanvendelse og anden nyttiggørelse</p></td>
+<td width="248" data-valign="top">Potentielle miljømæssige gevinster eller belastninger fra genbrug og genanvendelse af byggevarer og anden nyttiggørelse som for eksempel energiindvinding fra afbrænding.</td>
 </tr>
 </tbody>
 </table>
@@ -213,11 +207,11 @@ Alle moduler i tabel 2.1 skal medtages i beregningen, også selvom bygningen ell
 
 Klimapåvirkninger opgøres i enheden kg CO~2~-ækvivalenter pr. m^2^ pr. år.
 
-CO~2~-ækvivalenter er en samlet betegnelse for effekten af alle drivhusgasarter omregnet til en fælles enhed. De data, der skal anvendes i beregningen af klimapåvirkning, fremgår af [BR18, bilag 2 (nyt vindue)](../../../../bilag/b2/bilag_2 "Bilag_2"){rel="noopener" target="_blank"}. Data er opgjort samlet i Global Warming Potential (GWP) i enheden CO2-ækvivalenter. Den samlede klimapåvirkning skal i beregningen sættes i forhold til den konkrete bygnings referenceareal og opvarmede etageareal, som beregnes iht. § 297 stk. 5 og § 256, nr. 3 og betragtningsperioden på 50 år.
+CO~2~-ækvivalenter er en samlet betegnelse for effekten af alle drivhusgasarter omregnet til en fælles enhed. De data, der skal anvendes i beregningen af klimapåvirkning, fremgår af [BR18, bilag 2 (nyt vindue)](../../../../bilag/b2/bilag_2/ "Bilag_2"){rel="noopener" target="_blank"}. Data er opgjort samlet i Global Warming Potential (GWP) i enheden CO2-ækvivalenter. Den samlede klimapåvirkning skal i beregningen sættes i forhold til den konkrete bygnings referenceareal og opvarmede etageareal, som beregnes iht. § 297 stk. 5 og § 256, nr. 3 og betragtningsperioden på 50 år.
 
 Den beregnede klimapåvirkning for materialeforbrug og driftsenergi kan fordeles ud på hhv. referenceareal og opvarmet etageareal, jf. følgende formel:
 
-((A1 + A2 + A3 + B4 + C3 + C4) / (A~*ref*~ \* 50 år)) + (B6 / (A~*opv *~*\* *50 år))
+((A1 + A2 + A3 + B4 + C3 + C4) / (A~*ref*~ \* 50 år)) + (B6 / (A~*opv*~ \* 50 år))
 
 Hvor A1 angiver modul A1, A2 angiver modul A2 osv., A*~ref~* angiver referencearealet beregnet iht. § 297, stk. 5 (se vejledningen til dette stk.), og A*~opv~* angiver det opvarmede etageareal beregnet iht. § 256, nr. 3.
 
@@ -248,9 +242,11 @@ Referencearealet tager udgangspunkt i beregningen til etagearealet, som skal opg
 - *Overdækkede, ikke-integrerede terrasser samt udnyttede tagflader og lignende medtages ikke,* hverken hvad angår materialer anvendt til opførelsen eller arealet af disse områder. Overdækkede terrasser kan f.eks. være en  tagkonstruktionen med det formål, at have mulighed for ophold herunder.
 - Almindelige tagudhæng vil ikke udløse et referenceareal, men materialerne skal medregnes.
 
-Det fremhæves, at det for de beskrevne områder kun er arealet, der reduceres, og ikke mængderne af materialer. Materialernes mængder indgår stadig med 100 *pct.*, jf. [BR18, bilag 2, tabel 6](../../../../bilag/b2/bilag_2/tabel_6){rel="noopener noreferrer" target="_blank"}.
+Det fremhæves, at det for de beskrevne områder kun er arealet, der reduceres, og ikke mængderne af materialer. Materialernes mængder indgår stadig med 100 *pct.*, jf. [BR18, bilag 2, tabel 6](../../../../bilag/b2/bilag_2/tabel_6/){rel="noopener noreferrer" target="_blank"}.
 
-#### **1.3.1 Eksempler** {#e53ebfa8-1dea-4737-aa53-69c8a848b30c}
+<span id="e53ebfa8-1dea-4737-aa53-69c8a848b30c"></span>
+
+#### **1.3.1 Eksempler**
 
 I det følgende er det skitseret, hvordan arealer opgøres i konkrete situationer.
 
@@ -258,7 +254,7 @@ Hvert eksempel indeholder en illustration for at tydeliggøre hvilke arealer, de
 
 Til beregning af referencearealet er følgende formel anvendt:
 
-A~reference~ = 100 pct*.* ∙ A~1~ + 25 pct.* \* *A~2~
+A~reference~ = 100 pct*.* ∙ A~1~ + 25 pct. \* A~2~
 
 #### Trapper og altaner
 
@@ -280,7 +276,7 @@ Sum =  213,75 m^2^ \* n antal etager
 
 *Udvendige ramper, trapper, brandtrapper, altangange og lignende medregnes alene med 25 pct.*
 
-*Indvendige trapper indgår fuldt i etagearealet, jf. § 455. *Trappen er her inden for klimaskærmen, og tæller derfor fuldt ud (100 pct.).
+*Indvendige trapper indgår fuldt i etagearealet, jf. § 455.* Trappen er her inden for klimaskærmen, og tæller derfor fuldt ud (100 pct.).
 
 Etageareal: 13 m \* 16 m = 208 m^2^
 
@@ -338,47 +334,49 @@ Sum = 484,25 m^2^
 
 Udnyttede tagflader
 
-Der etableres en tagterrasse på bygningens tagopbygning. Hverken arealet herfra medtages, og hellere ikke materialerne, der er nødvendige for tagterrassen, afgrænsningen ift. materialerne fremgår fra [BR18, bilag 2, tabel 6.](../../../../bilag/b2/bilag_2/tabel_6 "Tabel_6")
+Der etableres en tagterrasse på bygningens tagopbygning. Hverken arealet herfra medtages, og hellere ikke materialerne, der er nødvendige for tagterrassen, afgrænsningen ift. materialerne fremgår fra [BR18, bilag 2, tabel 6.](../../../../bilag/b2/bilag_2/tabel_6/ "Tabel_6")
 
 #### **1.3.2 Definition af integrerede carporte eller garager**
 
 For §297, stk. 5 gælder den samme definition for hvornår en carport eller garage anses for værende integreret som beskrevet under bygningsreglementets administrative bestemmelser, vejledning pkt. 6.1 integrerede bygninger. Definitionen lyder som følge:
 
-*"En integreret bygning kan eksempelvis være en garage, carport, udhus eller lignende, der ligger under samme tagkonstruktion som den primære bygning. En bygning kan også være integreret, hvis opførelse, ændring eller nedrivning af den integrerede bygning, kan påvirke den samlede bebyggelses konstruktive forhold."*
+*”En integreret bygning kan eksempelvis være en garage, carport, udhus eller lignende, der ligger under samme tagkonstruktion som den primære bygning. En bygning kan også være integreret, hvis opførelse, ændring eller nedrivning af den integrerede bygning, kan påvirke den samlede bebyggelses konstruktive forhold.”*
 
 ### 1.4. Bygningsdele {#9dc5204d-6894-4a4c-94d2-8d0e4984c95c}
 
 Til brug for beregning af klimapåvirkningen skal udledningerne fra de materialer, der indgår i de enkelte dele af bygningen, medregnes. Som udgangspunkt bør en bygnings livscyklusvurdering omfatte så mange bygningsdele som muligt, for at repræsentere bygningens klimapåvirkning så godt som muligt. Da en bygning består af mange bygningsdele, kan der opstå spørgsmål om, hvor grænsen skal trækkes, for at afspejle den rette balance mellem ressourceforbrug og præcision.
 
-For at sikre ensartede livscyklusvurderinger med samme afgrænsning for alle bygninger er der udarbejdet en oversigt over de dele af en bygning, der som minimum skal indgå i livscyklusvurderingen (markeret med ja), herunder også præcisering af det detaljeringsniveau, der skal ligge til grund for opgørelsen. Oversigten fremgår af [BR18, bilag 2, tabel 6](../../../../bilag/b2/bilag_2/tabel_6){rel="noopener noreferrer" target="_blank"} (nyt vindue). Der skelnes generelt mellem bygningsdele og så de materialer, der indgår i hver bygningsdel.
+For at sikre ensartede livscyklusvurderinger med samme afgrænsning for alle bygninger er der udarbejdet en oversigt over de dele af en bygning, der som minimum skal indgå i livscyklusvurderingen (markeret med ja), herunder også præcisering af det detaljeringsniveau, der skal ligge til grund for opgørelsen. Oversigten fremgår af [BR18, bilag 2, tabel 6](../../../../bilag/b2/bilag_2/tabel_6/){rel="noopener noreferrer" target="_blank"} (nyt vindue). Der skelnes generelt mellem bygningsdele og så de materialer, der indgår i hver bygningsdel.
 
-I det følgende uddybes, hvordan BR18, bilag 2, tabel 6 skal anvendes i forbindelse med beregningen. Det uddybes også, hvordan man kan opgøre klimapåvirkningerne for visse dele af bygningen, hvor det ikke er muligt at opgøre de enkelte materialer grundet manglende data, jf. [BR18, bilag 2, tabel 7](../../../../bilag/b2/bilag_2/tabel_7){rel="noopener noreferrer" target="_blank"} (nyt vindue).
+I det følgende uddybes, hvordan BR18, bilag 2, tabel 6 skal anvendes i forbindelse med beregningen. Det uddybes også, hvordan man kan opgøre klimapåvirkningerne for visse dele af bygningen, hvor det ikke er muligt at opgøre de enkelte materialer grundet manglende data, jf. [BR18, bilag 2, tabel 7](../../../../bilag/b2/bilag_2/tabel_7/){rel="noopener noreferrer" target="_blank"} (nyt vindue).
+
+<span id="787e83a6-b7d9-4a83-a4be-37574156daef"></span>
 
 #### **1.4.1 Tabellens opbygning og anvendelse**
 
 BR18, bilag 2, tabel 6 er opbygget sådan, at der først er delt op i overordnede bygningskategorier. Hver kategori indeholder en opdeling i typer, og for hver type fremgår de enkelte bygningsdele. Hver bygningsdel har en hovedgruppe og en undergruppe, disse to grupperinger er med som vejledning og er derfor frivillige at benytte. Se et uddrag af tabellen nedenfor.
 
-###
-
 ![](../../../../media/barepaqs/vejledning_figur-41-opdatering-2025.png)
 
 Figur 4.1: Eksempel fra BR18, bilag 2, tabel 6, for hvilke bygningsdele, der skal medtages for bygningsdele i terræn.
 
-I figur 4.1 ses en særlig vejledende udgave af tabellen, hvor der ud over de bygningsdele, der indgår i tabellen, er tilføjet flere rækker som eksempler på dele af byggeriet, der ikke skal medtages. Hvorvidt en bygningsdel skal medtages i beregningen, fremgår af kolonnen 'Med', i den vejledende udgave af tabellen. Hvis der for den konkrete bygningsdel står "Ja", så skal bygningsdelen og tilhørende materialer medregnes. For at undgå mulige tvivlstilfælde er der også en række bygningsdele med i tabellen, som ikke skal indgå i beregningen. Disse er angivet ved et "Nej".
+I figur 4.1 ses en særlig vejledende udgave af tabellen, hvor der ud over de bygningsdele, der indgår i tabellen, er tilføjet flere rækker som eksempler på dele af byggeriet, der ikke skal medtages. Hvorvidt en bygningsdel skal medtages i beregningen, fremgår af kolonnen ’Med’, i den vejledende udgave af tabellen. Hvis der for den konkrete bygningsdel står ”Ja”, så skal bygningsdelen og tilhørende materialer medregnes. For at undgå mulige tvivlstilfælde er der også en række bygningsdele med i tabellen, som ikke skal indgå i beregningen. Disse er angivet ved et ”Nej”.
 
 Af tabellen fremgår endvidere informationer om Detaljeringsniveauet, som kan afgrænse yderligere hvilke delkomponenter og materialer, der skal medregnes for den pågældende bygningsdel. I de tilfælde, hvor der ikke er nærmere beskrivelse af detaljeringsniveauet, betyder det, at alle materialer i bygningsdelen som udgangspunkt medregnes. Der kan være visse undtagelser fra denne regel, som er nærmere uddybet senere i denne vejledning.
 
-Endvidere fremgår det for nogle bygningsdele; "Evt. som mængde råmateriale". For disse bygningsdele er det muligt at opgøre påvirkningen ved at opgøre mængden af råmateriale, frem for at opgøre påvirkningen fra det specifikke produkt. Dette gælder særligt for tekniske installationer, hvor opgørelse af klimapåvirkninger kan være vanskelig at foretage. Se nærmere herom under "Vejledningen til datagrundlaget afsnit 1.5; Mængde råmateriale".
+Endvidere fremgår det for nogle bygningsdele; ”Evt. som mængde råmateriale”. For disse bygningsdele er det muligt at opgøre påvirkningen ved at opgøre mængden af råmateriale, frem for at opgøre påvirkningen fra det specifikke produkt. Dette gælder særligt for tekniske installationer, hvor opgørelse af klimapåvirkninger kan være vanskelig at foretage. Se nærmere herom under ”Vejledningen til datagrundlaget afsnit 1.5; Mængde råmateriale”.
 
 Overordnet kan nævnes, at for de tekniske installationer medregnes tekniske anlæg og hovedføringsveje, dog kun de lige kanaler og rør, samt ventilationsaggregat, inklusiv varme- og køleflader samt kanalsystemet til ventilation. Indblæsningsarmaturer, spjæld eller lignende medregnes ikke. Nærmere afgrænsninger fremgår ligesom for de øvrige bygningsdele af BR18, bilag 2, tabel 6.
 
 #### **1.4.2 Hoved- og undergruppe**
 
-Ud over ovenstående excel-baserede skema, er der som supplement udviklet et bygningssnit. Bygningssnittet har til formål at illustrere og uddybe de enkelte bygningsdeles placering i hovedgrupper og undergrupper. ([Bilag 2, tabel 6 – Skitse til vejledning](../../../../bilag/b2/bilag_2/tabel_6){rel="noopener noreferrer" target="_blank"})
+Ud over ovenstående excel-baserede skema, er der som supplement udviklet et bygningssnit. Bygningssnittet har til formål at illustrere og uddybe de enkelte bygningsdeles placering i hovedgrupper og undergrupper. ([Bilag 2, tabel 6 – Skitse til vejledning](../../../../bilag/b2/bilag_2/tabel_6/){rel="noopener noreferrer" target="_blank"})
 
 Bygningssnittet illustrer under hvilke hovedgrupper de enkelte konstruktioner skal placeres. Eksempelvis placeres murkronens overflader under hovedgruppen "Ydervægge" lige så vel som murkronens primærbygningsdel også placeres under hovedgruppen "ydervægge". Et andet eksempel er Etagedæk hvis primær bygningsdel placeres under hovedgruppen "dæk" og hvis gulvkonstruktion placeres under undergruppen "gulve".
 
 Her er det vigtigt at præcisere, at strukturering af mængder på LCA-beregningens input- side frit kan vælges af LCA-rådgiveren. For standardformatet er det alene afgørende, at der knyttes information om den rette hoved- og undergruppe på den enkelte konstruktion så dokumentationen til myndighederne efterfølgende kan ske i den korrekte struktur.
+
+<span id="_2"></span>
 
 #### ![](../../../../media/dbllr2wk/billede-1.png){width="774" height="398"}
 
@@ -394,7 +392,7 @@ Valg af hoved- og undergrupper og sammenhæng med input-mængder i tabel 6 er fo
 
 •    Detaljeringsniveau der ikke fordrer større detaljering end i mest anvendte klassifikationssystemer
 
-#### **1.4.3    Mapping af tabel 6 mod forskellige klassifikationssystemer** 
+#### **1.4.3    Mapping af tabel 6 mod forskellige klassifikationssystemer**
 
 Ved brug af klassifikationssystemer til projektering og udførsel af byggeri er der udviklet en mapping, der giver mulighed for at se, hvordan bygningsdele i et byggeri relaterer sig til bygningsdele i tabel 6. Mappingen er lavet ud fra fem forskellige klassifikationssystemer: BIM7AA, BIMTypeCode, Cuneco Classification System (CCS), Construction Classification International (CCI) og Industry Foundation Classes (IFC).
 
@@ -479,7 +477,7 @@ Værdierne er fastsat på baggrund af rapporter om udvikling af standardværdier
 
 Der er altid mulighed for at opgøre installationer på den samme måde som de resterende bygningsdele, dvs. at der ikke behøves anvendt standardværdierne, disse er udelukkende et tilbud for en nemmere opgørelse.
 
-Se "Eksempel for anvendelse af standardværdier for installationer" for uddybning om brug af standardværdier for installationer.
+Se ”Eksempel for anvendelse af standardværdier for installationer” for uddybning om brug af standardværdier for installationer.
 
 #### **1.4.10    Råhuse**
 
@@ -487,7 +485,7 @@ Hvis en bygning ikke afleveres i en sådan stand, at den er klar til ibrugtagnin
 
 #### **1.4.11    Solceller**
 
-Materialernes klimapåvirkning regnes kun med til den andel af solceller, hvis ydelse kan indregnes i energiberegningen. Dette er en afgrænsning, jf. BR18, bilag 2, tabel 6, under "Solcelleanlæg". Det vil sige, at kun materialernes klimapåvirkning fra de solceller, som er medregnet i bygningens driftsforbrug eller indgår som en del af tagbeklædningen, medtages i modulerne A1-5, B4, C3-4 og D. Se nærmere herom under vejledning til stk. 11 emissionsfaktorer.
+Materialernes klimapåvirkning regnes kun med til den andel af solceller, hvis ydelse kan indregnes i energiberegningen. Dette er en afgrænsning, jf. BR18, bilag 2, tabel 6, under ”Solcelleanlæg”. Det vil sige, at kun materialernes klimapåvirkning fra de solceller, som er medregnet i bygningens driftsforbrug eller indgår som en del af tagbeklædningen, medtages i modulerne A1-5, B4, C3-4 og D. Se nærmere herom under vejledning til stk. 11 emissionsfaktorer.
 
 Hvis der for en bygning opføres solceller, som ikke placeres på bygningen, men et andet sted, skal disse stadigvæk medtages i beregningen af bygningers klimapåvirkning, såfremt disse medtages i energirammen, jf. § 259 og § 260.
 
@@ -499,152 +497,152 @@ En større fleretagers kontorbygning projekteres som søjle-bjælkekonstruktion 
 
 Herunder vises, hvordan der findes mængden på samlinger og hvilket data, der vælges ift. BR18, bilag 2, tabel 7. Selvom bygningens samlede klimapåvirkning kun skal angives med et decimal, kan det for mere nøjagtige beregninger anbefales at være mere præcis i mellemregningerne.
 
-<table style="width:98%;">
+<table style="width:100%;" data-border="0">
 <colgroup>
-<col style="width: 18%" />
-<col style="width: 24%" />
-<col style="width: 14%" />
-<col style="width: 14%" />
-<col style="width: 14%" />
-<col style="width: 11%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
 </colgroup>
 <tbody>
 <tr>
-<td></td>
+<td> </td>
 <td> <strong>Formel</strong></td>
 <td> <strong>Areal</strong> [mm<sup>2</sup>]</td>
 <td> <strong>Tykkelse</strong> [mm]</td>
-<td><strong>Volumen </strong>[m<sup>3</sup>]</td>
-<td><strong>Vægt </strong>[kg]</td>
+<td><strong>Volumen</strong> [m<sup>3</sup>] </td>
+<td><strong>Vægt</strong> [kg] </td>
 </tr>
 <tr>
 <td colspan="6"> <strong>Fodbeslag</strong></td>
 </tr>
 <tr>
 <td> Dorn plade</td>
-<td></td>
+<td> </td>
 <td> 98.850</td>
-<td> 15</td>
-<td> 0,00135</td>
-<td></td>
+<td> 15 </td>
+<td> 0,00135 </td>
+<td> </td>
 </tr>
 <tr>
 <td> Ankerplade</td>
-<td></td>
+<td> </td>
 <td> 442.500</td>
 <td> 15</td>
 <td> 0,00634</td>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td> Forskydningsknast</td>
-<td></td>
+<td> </td>
 <td> 50.400</td>
 <td> 6</td>
 <td> 0,00030</td>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td> Dorne</td>
-<td></td>
+<td> </td>
 <td> 4 x 200</td>
 <td> 24</td>
 <td> 0,00036</td>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td> Samlet volumen</td>
-<td></td>
-<td></td>
-<td></td>
+<td> </td>
+<td> </td>
+<td> </td>
 <td> 0,00835</td>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td> Samlet vægt for samling</td>
-<td><p>Volumen x densitet af stål</p>
+<td>Volumen x densitet af stål
 <p>0,00835 m<sup>3</sup> x 7.850 kg/m<sup>3</sup></p></td>
-<td></td>
-<td></td>
-<td></td>
+<td> </td>
+<td> </td>
+<td> </td>
 <td> 65,548</td>
 </tr>
 <tr>
 <td> Samlet vægt i projektet</td>
-<td><p>Vægt for samling x antal i projektet</p>
+<td>Vægt for samling x antal i projektet
 <p>65,548 kg x 32</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td> </td>
+<td> </td>
+<td> </td>
 <td>2.097,52</td>
 </tr>
 <tr>
-<td colspan="6"><strong> Etagekryds</strong></td>
+<td colspan="6"> <strong>Etagekryds</strong></td>
 </tr>
 <tr>
 <td>Dorn plader</td>
-<td></td>
+<td> </td>
 <td> 760.000</td>
-<td> 760.000</td>
+<td> 760.000 </td>
 <td> 0,01140</td>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td> Ankerplader</td>
-<td></td>
+<td> </td>
 <td> 360.400</td>
 <td> 360.400</td>
 <td> 0,00721</td>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td> Bundplader</td>
-<td></td>
+<td> </td>
 <td> 193.800</td>
 <td> 193.800</td>
 <td> 0,00388</td>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td> Dorne</td>
-<td></td>
+<td> </td>
 <td> 40 x 200</td>
 <td> 40 x 200</td>
 <td> 0,00251</td>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td> Bolte</td>
-<td></td>
+<td> </td>
 <td> 20 x 460</td>
 <td> 20 x 460</td>
 <td> 0,00289</td>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td> Samlet volumen</td>
-<td></td>
-<td></td>
-<td></td>
+<td> </td>
+<td> </td>
+<td> </td>
 <td> 0,02789</td>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td> Samlet vægt for samling</td>
 <td><p>volumen * densitet af stål</p>
 <p>0,02789 m3 * 7880 kg/m3</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td> </td>
+<td> </td>
+<td> </td>
 <td>218,937</td>
 </tr>
 <tr>
 <td> Samlet vægt i projektet</td>
 <td><p>Vægt for samling x antal i projektet</p>
 <p>218,937 x 105</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td> </td>
+<td> </td>
+<td> </td>
 <td> 22.988,33</td>
 </tr>
 <tr>
@@ -652,9 +650,9 @@ Herunder vises, hvordan der findes mængden på samlinger og hvilket data, der v
 </tr>
 <tr>
 <td colspan="2"> <em>Samlet vægt af fodbeslag og etagekryds i projektet</em></td>
-<td></td>
-<td></td>
-<td></td>
+<td> </td>
+<td> </td>
+<td> </td>
 <td> <em>22.085,85</em></td>
 </tr>
 </tbody>
@@ -665,25 +663,17 @@ Følgende miljødata fra BR18, bilag 2, tabel 7, vælges:
 #### **Datagrundlaget for materialerne**
 
 |  |  |  |  |  |  |  |
-|:---|:---|:---|:---|:---|:---|:---|
+|----|----|----|----|----|----|----|
 |  **Materiale** | **ID**  |  **A1-3** |  **C3** |  **C4** |  **D** |  **Funktionel enhed** |
-|  Stål, varmvalset plade, 2-20 mm |  #G0767  |  2,78247 |   |   | -1,50772 |  1 kg |
+|  Stål, varmvalset plade, 2-20 mm |  #G0767  |  2,78247 |   |   | -1,50772 |  1 kg  |
 
-#### 
+<span id="_3"></span>
 
 #### **1.4.13    Eksempel for anvendelse af standardværdier for installatione**r
 
 Bygherren skal lave en beregning om bygningens klimapåvirkning for sit enfamiliehus. Grundet arbejdsomfanget vurderes det mest optimalt at bruge standardværdier for installation for dokumentationen om bygningens klimapåvirkning, da der spares tid på den måde. Følgende værdier fra BR18, bilag 2, tabel 7, er relevante for enfamiliehuset; #S0001, #S0002, #S0003.
 
-<table style="width:98%;">
-<colgroup>
-<col style="width: 9%" />
-<col style="width: 22%" />
-<col style="width: 17%" />
-<col style="width: 16%" />
-<col style="width: 16%" />
-<col style="width: 15%" />
-</colgroup>
+<table data-border="0">
 <tbody>
 <tr>
 <td colspan="6"> <strong>Standardværdier for installationer</strong> [i kg CO<sub>2</sub>-ækv. pr. m<sup>2</sup> pr. år]</td>
@@ -709,7 +699,7 @@ Bygherren skal lave en beregning om bygningens klimapåvirkning for sit enfamili
 <td> Enfamiliehuse, vand</td>
 <td> 0,048</td>
 <td> 0,012</td>
-<td> -</td>
+<td> - </td>
 <td> -0,025</td>
 </tr>
 <tr>
@@ -717,7 +707,7 @@ Bygherren skal lave en beregning om bygningens klimapåvirkning for sit enfamili
 <td> Enfamiliehuse, varme, ventilation og køl</td>
 <td> 0,475</td>
 <td> 0,105</td>
-<td> -</td>
+<td> - </td>
 <td> -0,274</td>
 </tr>
 </tbody>
@@ -753,9 +743,9 @@ Køkken og bad inventar medtages ikke, da det ikke skal opgøres, jf. BR18, bila
 
 For at kunne opgøre en bygnings samlede klimapåvirkning skal der knyttes miljødata til de forskellige bygningsdele og materialer, der indgår i bygningen. Miljødata indeholder informationer om klimapåvirkningen pr. enhed produkt, og udgør derfor et vigtigt element i en livscyklusvurdering.
 
-Ved beregning af klimapåvirkningen skal der for hvert materiale, som indgår i bygningen, anvendes et datasæt fra BR18, bilag 2, tabel 7, eller data fra miljøvaredeklarationer (EPD'er). Hvis der anvendes EPD'er skal reglerne jf. § 297, stk. 8 følges.
+Ved beregning af klimapåvirkningen skal der for hvert materiale, som indgår i bygningen, anvendes et datasæt fra BR18, bilag 2, tabel 7, eller data fra miljøvaredeklarationer (EPD’er). Hvis der anvendes EPD’er skal reglerne jf. § 297, stk. 8 følges.
 
-Datagrundlaget, som fremgår af BR18, bilag 2, tabel 7, er generiske miljødata, baseret på gennemsnitsværdier for materialer, der anvendes i byggeri. Datasættet kan tilgås direkte på bygningsreglementets hjemmeside eller via dette [link](../../../../bilag/b2/bilag_2/tabel_7){rel="noopener noreferrer" target="_blank"} (nyt vindue). I datasættet kan der også ses links til den datakilde, der har dannet grundlag for fastsættelsen af data om den pågældende type materiale. Fra linket fremgår der typisk en udløbsdato for datasættet. Datakilden og udløbsdatoen er ikke relevante for kravet.
+Datagrundlaget, som fremgår af BR18, bilag 2, tabel 7, er generiske miljødata, baseret på gennemsnitsværdier for materialer, der anvendes i byggeri. Datasættet kan tilgås direkte på bygningsreglementets hjemmeside eller via dette [link](../../../../bilag/b2/bilag_2/tabel_7/){rel="noopener noreferrer" target="_blank"} (nyt vindue). I datasættet kan der også ses links til den datakilde, der har dannet grundlag for fastsættelsen af data om den pågældende type materiale. Fra linket fremgår der typisk en udløbsdato for datasættet. Datakilden og udløbsdatoen er ikke relevante for kravet.
 
 Det er ikke muligt at anvende andet generisk data end det, der fremgår af BR18, bilag 2, tabel 7. Andet miljødata kan udelukkende komme fra miljøvaredeklarationer, jf. § 297, stk. 8 I det følgende beskrives det, hvordan BR18, bilag 2, tabel 7, anvendes. Derudover gives der konkrete eksempler på, hvilket data og hvordan beregningen foretages, hvis ikke der findes et datasæt, der stemmer overens med det materiale, der anvendes i bygningen.
 
@@ -763,7 +753,7 @@ Det er ikke muligt at anvende andet generisk data end det, der fremgår af BR18,
 
 BR18, bilag 2, tabel 7, er opdelt i følgende kolonner:
 
-**ID** angiver et identifikationsnummer. Hver datalinje har et specifikt nummer, som der kan refereres til for nemmere kommunikation og orientering om datasæt. I identifikationsnummeret er et bogstav som angiver hvor data stammer fra. G angiver generisk data fra Ökobaudat, B angiver at data stammer fra branche EPD'er, D angiver at data stammer fra EPD'er på typisk anvendte danske produkter og S angiver standardværdier for installationer.
+**ID** angiver et identifikationsnummer. Hver datalinje har et specifikt nummer, som der kan refereres til for nemmere kommunikation og orientering om datasæt. I identifikationsnummeret er et bogstav som angiver hvor data stammer fra. G angiver generisk data fra Ökobaudat, B angiver at data stammer fra branche EPD’er, D angiver at data stammer fra EPD’er på typisk anvendte danske produkter og S angiver standardværdier for installationer.
 
 **Navn** beskriver produktet/materialets navngivning;
 
@@ -818,11 +808,11 @@ BR18, bilag 2, tabel 7, er opdelt i følgende kolonner:
 
 **Tabel 5.1** Oversigt over opbygningen af BR18, bilag 2, tabel 7, med et eksempel for byggematerialet 4 mm glas.
 
-I tabellen på bygningsreglementets hjemmeside indgår der for hvert produkt/materiale et link, hvor det er muligt at læse mere om datakilden. Tabellen kan også tilgås [her](../../../../bilag/b2/bilag_2/tabel_7){rel="noopener noreferrer" target="_blank"} (nyt vindue).
+I tabellen på bygningsreglementets hjemmeside indgår der for hvert produkt/materiale et link, hvor det er muligt at læse mere om datakilden. Tabellen kan også tilgås [her](../../../../bilag/b2/bilag_2/tabel_7/){rel="noopener noreferrer" target="_blank"} (nyt vindue).
 
 #### **Valg af datasæt for et konkret materiale**
 
-Som beskrevet, skal der for hvert materiale, som indgår i bygningen, anvendes et datasæt fra BR18, bilag 2, tabel 7, eller miljøvaredeklarationer, jf. § 297, stk. 8. Hvis der for et konkret materiale ikke findes et generisk datasæt i tabellen eller en miljøvaredeklaration, skal der anvendes det generiske datasæt fra BR18, bilag 2, tabel 7, hvor materialesammensætning svarer bedst muligt til det pågældende materiale. Med materialesammensætning forstås de materialetyper og repræsentative mængder, der fremgår af tabellen for det konkrete materiale. På nuværende tidspunkt er der fx ikke datagrundlag for at invertere til solcelleanlæg eller lignende. Derfor bliver man nødt til at angive et materiale, der så godt som muligt svarer til en inverter. Det kunne fx være "aluminiumsplade" eller "fjernvarmeanlæg".
+Som beskrevet, skal der for hvert materiale, som indgår i bygningen, anvendes et datasæt fra BR18, bilag 2, tabel 7, eller miljøvaredeklarationer, jf. § 297, stk. 8. Hvis der for et konkret materiale ikke findes et generisk datasæt i tabellen eller en miljøvaredeklaration, skal der anvendes det generiske datasæt fra BR18, bilag 2, tabel 7, hvor materialesammensætning svarer bedst muligt til det pågældende materiale. Med materialesammensætning forstås de materialetyper og repræsentative mængder, der fremgår af tabellen for det konkrete materiale. På nuværende tidspunkt er der fx ikke datagrundlag for at invertere til solcelleanlæg eller lignende. Derfor bliver man nødt til at angive et materiale, der så godt som muligt svarer til en inverter. Det kunne fx være ”aluminiumsplade” eller ”fjernvarmeanlæg”.
 
 Hvis data for eksempel er angivet for en bygningsdel, sammensat af flere materialer, hvor sammensætningen af data afviger iht. den anvendte bygningsdel, kan det vurderes, om data vil være mere retvisende ved at sammensætte det af enkelte datasæt.
 
@@ -842,14 +832,52 @@ Datasættet #G0768 Stål, Varmgalvaniseret stålplade har en deklareret faktor p
 
 16,789 kg CO~2~-ækv./ 1 m^2^ / 5,72 kg/m^2^ = 2,935 kg CO~2~-ækv./kg
 
-|  |  |  |  |  |  |  |  |  |  |
-|----|-----------|---------|---------|---------|--------|--------|-------|-----|-----|
-| ID | Navn | Global opvarmning, fase A1-A3 | Global opvarmning, fase C3 | Global opvarmning, fase C4 | Global opvarmning, fase D | Deklareret factor (FU) | Deklareret enhed (FU) | Masse factor | Masse enhed |
-| #G0768 | Stål, Varmgalvaniseret stålplade | 16,789 | 0 | 0 | -7,8865 | 1 | m^2^ | 5,72 | kg/m^2^ |
+<table data-border="1" data-cellspacing="0" data-cellpadding="0" width="632">
+<colgroup>
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+</colgroup>
+<tbody>
+<tr>
+<td width="51" data-valign="top"><p>ID</p></td>
+<td colspan="2" width="86" data-valign="top"><p>Navn</p></td>
+<td width="58" data-valign="top"><p>Global opvarmning, fase A1-A3</p></td>
+<td width="58" data-valign="top"><p>Global opvarmning, fase C3</p></td>
+<td width="64" data-valign="top"><p>Global opvarmning, fase C4</p></td>
+<td width="65" data-valign="top"><p>Global opvarmning, fase D</p></td>
+<td width="62" data-valign="top"><p>Deklareret factor (FU)</p></td>
+<td width="65" data-valign="top"><p>Deklareret enhed (FU)</p></td>
+<td width="62" data-valign="top"><p>Masse factor</p></td>
+<td width="62" data-valign="top"><p>Masse enhed</p></td>
+</tr>
+<tr>
+<td width="51" data-valign="top"><p>#G0768</p></td>
+<td colspan="2" width="86" data-valign="top"><p>Stål, Varmgalvaniseret stålplade</p></td>
+<td width="58" data-valign="top"><p>16,789</p></td>
+<td width="58" data-valign="top"><p> </p>
+<p>0</p></td>
+<td width="64" data-valign="top"><p>0</p></td>
+<td width="65" data-valign="top"><p>-7,8865</p></td>
+<td width="62" data-valign="top"><p>1</p></td>
+<td width="65" data-valign="top"><p>m<sup>2</sup></p></td>
+<td width="62" data-valign="top"><p>5,72</p></td>
+<td width="62" data-valign="top"><p>kg/m<sup>2</sup></p></td>
+</tr>
+</tbody>
+</table>
 
 *Eksempel på anvendelse af standardværdier for tekniske installationer*
 
-Se et eksempel i vejledningen til [bygningsdele afsnit 1.4](kap-1_4 "Kap 1_4"){rel="noopener" target="_blank"} (nyt vindue).
+Se et eksempel i vejledningen til [bygningsdele afsnit 1.4](kap-1_4/ "Kap 1_4"){rel="noopener" target="_blank"} (nyt vindue).
 
 #### **1.5.4      Metode for opgørelse af klimapåvirkning ved en mængde råmateriale**
 
@@ -887,7 +915,7 @@ I databladet for det konkrete produkt er materialesammensætning oplyst med en s
 #### **1.5.5 Materialesammensætning**
 
 |                   |            |
-|:------------------|:-----------|
+|-------------------|------------|
 | **Materiale**     | **Mængde** |
 | Galvaniseret stål |  18,2 kg   |
 |  Aluminium        |  2,5 kg    |
@@ -897,12 +925,12 @@ I databladet for det konkrete produkt er materialesammensætning oplyst med en s
 
 Af BR18, bilag 2, tabel 7, fremgår det, at datasættet for modul A1-3 for galvaniseret stål er opgjort i kvadratmeter og derfor er det først omregnet til kilogram efter ovenstående vejledning:
 
-*Eksempel på omregning af data ved ændring af enhed.*
+ *Eksempel på omregning af data ved ændring af enhed.*
 
 #### **1.5.6 Datagrundlaget for materialerne omregnet til den samme funktionelle enhed på 1 kg**
 
 |                   |        |        |        |          |        |                  |
-|:------------------|:-------|:-------|:-------|:---------|:-------|:-----------------|
+|-------------------|--------|--------|--------|----------|--------|------------------|
 | **Materiale**     | ID     | A1-3   | C3     | C4       | D      | Funktionel enhed |
 | Galvaniseret stål | #G0768 | 2,935  | 0      | 0        | -1,379 | 1 kg             |
 | Aluminium         | #G0333 | 10,698 | 0      | 0        | -7,277 | 1 kg             |
@@ -915,7 +943,7 @@ Det vil sige, at GWP for komfortmodulet, beregnet ud fra princippet om mængde r
 #### **1.5.7 Beregning**
 
 |  |  |  |
-|:---|:---|:---|
+|----|----|----|
 | **Modul** | **Formel** | **Sum** **-** **kg** **CO2-ækv.** |
 | A1-3 | 2,935 x 18,2 kg + 10,698 x 2,5 kg + 2,935 x 1,6 kg + 2,467 x 0,2 kg + 3,222 x 0,1 kg | 85,683 |
 | C3 | 3,22 x 0,2 + 0,00573 x 0,1 | 0,650 |
@@ -931,14 +959,14 @@ BR18, bilag 2, tabel 6, oplyser, at der kan anvendes miljødata til råmateriale
 #### **1.5.8 Datagrundlag**
 
 |  |  |  |  |  |  |  |
-|:---|:---|:---|:---|:---|:---|:---|
+|----|----|----|----|----|----|----|
 | **Materiale** | **ID** | **A1-3** | **C3** | **C4** | **D** | **Funktionel** **enhed** |
 | Galvaniseret stål | #G0768 | 2,935 | 0 | 0 | -1,379 | 1 kg |
 
 ####  **1.5.9 Beregning**
 
 |           |                |                   |
-|:----------|:---------------|:------------------|
+|-----------|----------------|-------------------|
 | **Modul** | **Formel**     | Sum - Kg CO2-ækv. |
 | A1-3      | 2,935 x 24 kg  | 70,445            |
 | C3        | 0              | 0                 |
@@ -953,7 +981,7 @@ Genbrugte byggematerialer skal forstås som materialer, der har været brugt fø
 
 Ved definitionen af genbrugte byggematerialer er der taget udgangspunkt
 
-i affaldsbekendtgørelsen, dog uden at formålet skal være det samme, således: "Enhver operation, hvor produkter eller komponenter, der ikke er affald, bruges igen".
+i affaldsbekendtgørelsen, dog uden at formålet skal være det samme, således: ”Enhver operation, hvor produkter eller komponenter, der ikke er affald, bruges igen”.
 
 Affaldsbekendtgørelsen sondrer mellem genbrug og genanvendelse. Genanvendelse falder ikke under genbrug.
 
@@ -1015,7 +1043,7 @@ Da levetider ikke skal opgøres for genbrugte materialer, ses der bort fra dem. 
 
 For at skabe en fyldestgørende dokumentation, jf. § 40, dokumenteres mængderne af de brugte gulvbrædder i dokumentationen, som indsendes i forbindelse med færdigmelding af bygningen:
 
-*"53 m^2^, 30 mm tyk – genbrugte gulvbrædder i stueetagen, undtagen bad – sat til 0 kg CO^2^-ækvivalenter. i hele bygningens livscyklus."*
+*”53 m^2^, 30 mm tyk – genbrugte gulvbrædder i stueetagen, undtagen bad – sat til 0 kg CO^2^-ækvivalenter. i hele bygningens livscyklus.”*
 
 #### Eksempel - beregning af mørtel til genbrugte mursten
 
@@ -1031,39 +1059,39 @@ Murstenene samles med ny mørtel. Mørtelen er ikke sammenlignelig med reparatio
 
 ### 1.6. Miljøvaredeklarationer {#345ca30a-1bea-4b76-8b01-d4b940cbb6b2}
 
-Ved beregning af klimapåvirkningen skal der for hvert materiale eller produkt anvendes oplysninger om miljøpåvirkninger. For nogle materialer eller produkter findes mere specifikke miljødata, end det, der fremgår af det generiske datagrundlag, beskrevet i Vejledning: § 297, stk. 7. Specifikke miljødata, såkaldte produktspecifikke EPD'er (Environmental Product Declaration, EPD) er mere retvisende for de faktiske miljøpåvirkninger af det anvendte materiale eller produkt end generiske miljødata. Derfor kan EPD'er anvendes, hvis de er gyldige og relevante for de konkrete materialer eller produkter, der anvendes i bygningen. Gyldigheden fremgår af EPD'en. Det er ikke et krav, at EPD'en skal være dansk.
+Ved beregning af klimapåvirkningen skal der for hvert materiale eller produkt anvendes oplysninger om miljøpåvirkninger. For nogle materialer eller produkter findes mere specifikke miljødata, end det, der fremgår af det generiske datagrundlag, beskrevet i Vejledning: § 297, stk. 7. Specifikke miljødata, såkaldte produktspecifikke EPD’er (Environmental Product Declaration, EPD) er mere retvisende for de faktiske miljøpåvirkninger af det anvendte materiale eller produkt end generiske miljødata. Derfor kan EPD’er anvendes, hvis de er gyldige og relevante for de konkrete materialer eller produkter, der anvendes i bygningen. Gyldigheden fremgår af EPD’en. Det er ikke et krav, at EPD’en skal være dansk.
 
-EPD'er kan også være projektspecifikke, dvs. udarbejdet for et specifikt materiale eller produkt, der anvendes i det specifikke projekt. Udover det, findes der branche EPD'er, som repræsenterer et gennemsnit for en bestemt produkttype. Et eksempel på en EPD, der repræsenterer et gennemsnit for en bestemt produkttype, er en branche-EPD, hvor et repræsentativt antal producenter og leverandører er gået sammen om at udregne en produkttypes gennemsnitlige miljøbelastning.
+EPD’er kan også være projektspecifikke, dvs. udarbejdet for et specifikt materiale eller produkt, der anvendes i det specifikke projekt. Udover det, findes der branche EPD’er, som repræsenterer et gennemsnit for en bestemt produkttype. Et eksempel på en EPD, der repræsenterer et gennemsnit for en bestemt produkttype, er en branche-EPD, hvor et repræsentativt antal producenter og leverandører er gået sammen om at udregne en produkttypes gennemsnitlige miljøbelastning.
 
-I det følgende uddybes reglerne for, hvornår EPD'er kan anvendes. Endvidere beskrives specifikke eksempler på, hvilke data fra en EPD, man skal anvende i beregningen af bygningers klimapåvirkning.
+I det følgende uddybes reglerne for, hvornår EPD’er kan anvendes. Endvidere beskrives specifikke eksempler på, hvilke data fra en EPD, man skal anvende i beregningen af bygningers klimapåvirkning.
 
-#### **1.6.1 Gyldighed af EPD'er**
+#### **1.6.1 Gyldighed af EPD’er**
 
-EPD'er kan være projektspecifikke, produktspecifikke eller repræsentere et gennemsnit for en bestemt produkttype. Fælles for dem er, at de skal være udført i henhold til EN15804, være verificeret af en 3. part og godkendt af en EPD programoperatør, før de betragtes som gyldige og kan anvendes i beregning af bygningens klimapåvirkning i henhold til § 297. EPD'er er gyldige i op til 5 år fra udstedelse, og gyldighedsperioden fremgår fra EPD'en.
+EPD’er kan være projektspecifikke, produktspecifikke eller repræsentere et gennemsnit for en bestemt produkttype. Fælles for dem er, at de skal være udført i henhold til EN15804, være verificeret af en 3. part og godkendt af en EPD programoperatør, før de betragtes som gyldige og kan anvendes i beregning af bygningens klimapåvirkning i henhold til § 297. EPD’er er gyldige i op til 5 år fra udstedelse, og gyldighedsperioden fremgår fra EPD’en.
 
 Grundlæggende gælder, at den anvendte EPD skal repræsentere det anvendte produkt og produktets produktion.
 
-EPD'er er udført iht. standarden EN15804. Standarden EN15804 (+A1) blev revideret i 2019 til en ny version (+A2), og i en overgangsperiode (fra slut 2019 frem til 1. oktober 2022) kunne der udføres miljøvaredeklarationer efter begge standarder. Det medfører, at der i den periode blev udarbejdet miljøvaredeklarationer efter både +A1 og +A2, som er gyldig til op til 5 år efter udstedelse.
+EPD’er er udført iht. standarden EN15804. Standarden EN15804 (+A1) blev revideret i 2019 til en ny version (+A2), og i en overgangsperiode (fra slut 2019 frem til 1. oktober 2022) kunne der udføres miljøvaredeklarationer efter begge standarder. Det medfører, at der i den periode blev udarbejdet miljøvaredeklarationer efter både +A1 og +A2, som er gyldig til op til 5 år efter udstedelse.
 
 Alle gyldige miljøvaredeklarationer, uanset hvilken version de er udført efter, kan anvendes. Selvom der er forskel på, hvordan klimapåvirkningen opgøres i henholdsvis +A1 og +A2 standarden, kan begge versioner anvendes.
 
-For at kunne bruge en EPD iht. § 297, stk. 8, skal den være gyldig, hvilket i denne sammenhæng betyder, at EPD'en har været gyldig på det tidspunkt, hvor materialet eller produktet blev anvendt i byggeriet. Det vil sige, at en EPD kan være gyldig, selvom selve EPD'en evt. er udløbet, inden bygningen er færdigmeldt.
+For at kunne bruge en EPD iht. § 297, stk. 8, skal den være gyldig, hvilket i denne sammenhæng betyder, at EPD’en har været gyldig på det tidspunkt, hvor materialet eller produktet blev anvendt i byggeriet. Det vil sige, at en EPD kan være gyldig, selvom selve EPD’en evt. er udløbet, inden bygningen er færdigmeldt.
 
-Man kan også forestille sig tilfælde, hvor der er anvendt et materiale eller produkt, som der senere udarbejdes en EPD for. Det vil det også være inden for rammerne af kravet om gyldighed at anvende denne EPD, så længe EPD'en er gyldig og repræsenterer det konkret anvendte materiale eller produkt ved anvendelse i byggeriet.
+Man kan også forestille sig tilfælde, hvor der er anvendt et materiale eller produkt, som der senere udarbejdes en EPD for. Det vil det også være inden for rammerne af kravet om gyldighed at anvende denne EPD, så længe EPD’en er gyldig og repræsenterer det konkret anvendte materiale eller produkt ved anvendelse i byggeriet.
 
-#### **1.6.2 Relevans af EPD'er**
+#### **1.6.2 Relevans af EPD’er**
 
-Projekt- og produktspecifikke EPD'er er relevante, hvis det "deklarerede produkt", som fremgår af EPD'en repræsenterer det konkrete produkt, der anvendes i bygningen. Endvidere findes EPD'er, der repræsenterer et gennemsnit af produkter i en branche, og dermed gælder for en type produkter. Disse EPD'er anses for at være relevante, hvis det anvendte produkt i bygningen stemmer overens med det deklarerede produkt henholdsvis den angivne produktbeskrivelse, jf. EPD'en.
+Projekt- og produktspecifikke EPD’er er relevante, hvis det ”deklarerede produkt”, som fremgår af EPD’en repræsenterer det konkrete produkt, der anvendes i bygningen. Endvidere findes EPD’er, der repræsenterer et gennemsnit af produkter i en branche, og dermed gælder for en type produkter. Disse EPD’er anses for at være relevante, hvis det anvendte produkt i bygningen stemmer overens med det deklarerede produkt henholdsvis den angivne produktbeskrivelse, jf. EPD’en.
 
-Visse EPD'er indeholder mulighed for at man kan bruge dem til flere forskellige produkter. Disse EPD'er er derfor normalt angivet med skaleringsfaktorer, så værdierne kan tilpasses det konkrete produkt. Hvis skaleringsfaktorerne i EPD'erne anvendes som tiltænkt, vil EPD'en fortsat være relevant for produktet.
+Visse EPD’er indeholder mulighed for at man kan bruge dem til flere forskellige produkter. Disse EPD’er er derfor normalt angivet med skaleringsfaktorer, så værdierne kan tilpasses det konkrete produkt. Hvis skaleringsfaktorerne i EPD’erne anvendes som tiltænkt, vil EPD’en fortsat være relevant for produktet.
 
-#### **1.6.3 Anvendelse af data fra EPD'er**
+#### **1.6.3 Anvendelse af data fra EPD’er**
 
 En EPD dokumenterer produkters miljøpåvirkning inden for flere miljøpåvirkningskategorier. For at opgøre bygningers klimapåvirkninger, er det udelukkende miljøindikatoren global opvarmning (Global warming potential, GWP), som skal anvendes, da kun bygningens klimapåvirkning skal opgøres, jf. § 297, stk. 4. GWP opgøres i enheden kg CO2-ækvivalenter (kg CO2-ækv.).
 
 I en EPD er GWP angivet for de deklarerede livscyklusmoduler for et produkt. For at opgøre og dokumentere klimapåvirkningen for produktet, skal data fra modul A1-A3, A4, C3, C4 og D anvendes, jf. § 297, stk. 4.
 
-Klimapåvirkningen aflæses under enten GWP eller GWP-total, afhængigt af om miljøvaredeklarationen er udført efter standarden 15804+A1 eller +A2. Se figur 6.1 og 6.3. Vær opmærksom på, hvilken enhed (deklareret enhed) GWP er opgjort i, da der er forskellige enheder i forskellige EPD'er, se figur 6.2.
+Klimapåvirkningen aflæses under enten GWP eller GWP-total, afhængigt af om miljøvaredeklarationen er udført efter standarden 15804+A1 eller +A2. Se figur 6.1 og 6.3. Vær opmærksom på, hvilken enhed (deklareret enhed) GWP er opgjort i, da der er forskellige enheder i forskellige EPD’er, se figur 6.2.
 
 ![](../../../../media/tkyi0qly/figur-61_opdatering-2025.png){width="500" height="130"}
 
@@ -1071,15 +1099,17 @@ Klimapåvirkningen aflæses under enten GWP eller GWP-total, afhængigt af om mi
 
 ![](../../../../media/xhlpt2tr/figur-62.png){width="314" height="261"}
 
-**Figur 6.2:** Eksempel på hvad der er relevant at forholde sig til i en EPD, som eksempel at kende til den deklarerede enhed, som oplyses i starten af EPD'en, for at vide hvad miljøpåvirkningen forholder sig til.
+**Figur 6.2:** Eksempel på hvad der er relevant at forholde sig til i en EPD, som eksempel at kende til den deklarerede enhed, som oplyses i starten af EPD’en, for at vide hvad miljøpåvirkningen forholder sig til.
 
 ![](../../../../media/bhneefz0/figur-63.png){width="670" height="154"}
 
-**Figur 6.3:** Eksempel på hvilket data fra miljøpåvirkningen, der typisk anvendes for en EPD iht. +A2. Når der anvendes EPD'er til opgørelse af klimapåvirkningen fra produkter, skal de moduler, der medregnes, stamme fra den samme EPD.
+**Figur 6.3:** Eksempel på hvilket data fra miljøpåvirkningen, der typisk anvendes for en EPD iht. +A2. Når der anvendes EPD’er til opgørelse af klimapåvirkningen fra produkter, skal de moduler, der medregnes, stamme fra den samme EPD.
 
 #### **1.6.4 Håndtering af modul C3/C4**
 
-Ved anvendelse af EPD'er skal affaldsscenarierne (modul C3/C4), som de fremgår af EPD'en, anvendes i beregningen.
+Ved anvendelse af EPD’er skal affaldsscenarierne (modul C3/C4), som de fremgår af
+
+EPD’en, anvendes i beregningen.
 
 #### **1.6.5  Manglende C3 modul**
 
@@ -1091,11 +1121,11 @@ Hvis en EPD i modul C3/C4 indeholder flere forskellige scenarier for affaldshån
 
 #### **1.6.7 Manglende scenarie for affaldshåndtering**
 
-Hvis EPD'er hverken indeholder et C3- eller C4-modul, kan der anvendes et passende modul fra det generiske datagrundlag (BR18, bilag 2, tabel 7).
+Hvis EPD’er hverken indeholder et C3- eller C4-modul, kan der anvendes et passende modul fra det generiske datagrundlag (BR18, bilag 2, tabel 7).
 
 Der gøres opmærksom på, at sammensat data kun skal benyttes, hvis der ikke findes den nødvendige data indenfor samme datasæt af et materiale.
 
-Hvis der mangler en værdi for D-modulet i EPD'en, anbefales det at sætte værdien til 0, da dette vil være på den mest konservative side.
+Hvis der mangler en værdi for D-modulet i EPD’en, anbefales det at sætte værdien til 0, da dette vil være på den mest konservative side.
 
 For biogene materialer, hvor der mangler modul C3 og/eller C4, kan der være en forskel i det CO2-optag, der ligger i modul A1-A3, som kan afvige fra det CO2-udslip, der ligger i det valgte C3 og C4-modul. Dette er en usikkerhed, som pt. ikke kan imødekommes fuldt korrekt.
 
@@ -1111,7 +1141,7 @@ Grænseværdierne for modulerne A4-A5 (byggeprocessen), jf. § 298, stk. 5 og §
 
 Opgørelsen af klimapåvirkning fra byggeprocessen følger standard DS/EN 15978:2012, dog med nogle modifikationer.
 
-I det følgende gennemgås modulerne A4 og A5 samt de respektive modifikationer til standarden. Ved nogle af modifikationerne benyttes udtrykket "kan udelades". At der står "kan" understreger, at grænseværdien kun skal overholdes under iagttagelse af de data, der skal medregnes. Det vil dog omvendt ikke skulle anses for at være en fejl i beregningen, hvis de nævnte data alligevel er medtaget. Der er ikke pligt til at undtage dem.
+I det følgende gennemgås modulerne A4 og A5 samt de respektive modifikationer til standarden. Ved nogle af modifikationerne benyttes udtrykket ”kan udelades”. At der står ”kan” understreger, at grænseværdien kun skal overholdes under iagttagelse af de data, der skal medregnes. Det vil dog omvendt ikke skulle anses for at være en fejl i beregningen, hvis de nævnte data alligevel er medtaget. Der er ikke pligt til at undtage dem.
 
 Det skyldes, at de dele af beregningen udgør så relativt lille en del af det samlede resultat, at det ikke vil være meningsforstyrrende at have dem med i beregningen, og det kan være en praktisk fordel på byggepladsen, hvis der ikke skal bruges kræfter på at undtage dem.
 
@@ -1126,7 +1156,7 @@ For transport til og fra byggepladsen skal følgende opgøres som følge af stan
 
 Transport af personer til og fra byggepladsen skal ikke inkluderes ifølge standarden.
 
-*Hvordan afviger kravet i bygningsreglementet fra standarden?* 
+*Hvordan afviger kravet i bygningsreglementet fra standarden?*
 
 Der er flere af de ovenstående processer, der er modificeret i bygningsreglementet, jf. § 297, stk. 9. Modifikationerne fremgår herunder:
 
@@ -1141,11 +1171,11 @@ Der er tre metoder til dokumentation af materialers transport fra fabrik til byg
 
 1)    Opgørelse med brændstof- og elforbrug. Det kan opgøres ved måling eller som beregnet ud fra antal kørte kilometer.
 
-2)    Opgørelse baseret på data i EPD'er, jf. § 297, stk. 7.
+2)    Opgørelse baseret på data i EPD’er, jf. § 297, stk. 7.
 
 3)    Opgørelse med standardværdierne i bilag 2, tabel 10
 
-Hvis man bruger opgørelse baseret på data i EPD'er skal man være opmærksom på at de fleste EPD'er er baseret på en standardafstand og man skal derfor (ifølge afsnit 10.2.3 i EN15978) skalere resultatet i EPD'en hvis transportafstanden adskiller sig fra standardafstanden.
+Hvis man bruger opgørelse baseret på data i EPD’er skal man være opmærksom på at de fleste EPD’er er baseret på en standardafstand og man skal derfor (ifølge afsnit 10.2.3 i EN15978) skalere resultatet i EPD’en hvis transportafstanden adskiller sig fra standardafstanden.
 
 Der skal desuden indregnes en standardværdi for terminalprocesser på 0,02 kg CO~2~e/m²/år uanset hvilken af de tre metoder, der vælges. Terminalprocesser er bl.a. omlastning, ompakning og lignende.
 
@@ -1221,7 +1251,7 @@ Det vil sige, at klimapåvirkningen fra følgende processer skal opgøres ifølg
 
 -       Energiforbrug på byggepladsen
 
--       Montage af materialerne i bygningen, inklusiv brug af hjælpe-/interimsmaterialer ("ancillary materials")
+-       Montage af materialerne i bygningen, inklusiv brug af hjælpe-/interimsmaterialer (”ancillary materials”)
 
 -       Vandforbrug
 
@@ -1237,7 +1267,7 @@ Der er flere af de ovenstående processer, der er modificeret i bygningsreglemen
 
 Byggeprocessens klimapåvirkning skal herefter beregnes ved at opgøre brændsels-, el- og fjernvarmeforbrug på byggepladsen og omdanne dette forbrug til emissioner ved brug af bilag 2, tabel 8.1 og 8.2.
 
-"Brug af hjælpe-/interimsmaterialer" er forbrug forbundet med at benytte materialerne, fx ophejsning af stillads. Produktion af interimsmaterialerne selv (stilladser, støbeforme) tæller ikke med.).
+”Brug af hjælpe-/interimsmaterialer” er forbrug forbundet med at benytte materialerne, fx ophejsning af stillads. Produktion af interimsmaterialerne selv (stilladser, støbeforme) tæller ikke med.).
 
 Produktion af materialer på pladsen, fx sammenstøbningsbeton indgår ikke i A5. Sådanne indgår i stedet i A1-A3, hvis de er med i bygningsmodellen (bilag 2, tabel 6). Fx er udfyldning mellem elementer (sammenstøbningsbeton) udtrykkeligt undtaget fra beregningen (se teksten til bilag 2, tabel 6) og derfor skal det hverken opgøres i A1-A3 eller A5.
 
@@ -1261,7 +1291,7 @@ I bygningsreglementet er dette afgrænset til kun at være affaldshåndtering af
 
 -    *For behandling af affald indgår kun byggeaffald.* Når behandlingen af affald skal opgøres, skal man kun medregne byggeaffald jf. tabel 11. Man skal derfor ikke opgøre behandling af bortkørt jord og det almindelige husholdningsaffald eller lignende fra skurbyen.
 
--    *For transport af affald indgår kun byggeaffald og jord.* Transport af jordaffald indgår, men transport af jord, der ikke er affald, indgår ikke. Når transporten af affald skal opgøres, så skal man kun opgøre byggeaffald og bortkørt jord, hvis jorden er affald. Man skal derfor ikke opgøre transport af det almindelige husholdningsaffald eller lignende fra skurbyen. Affald forstås som defineret i affaldsbekendtgørelsen[&#91;1&#93;](#_ftn1){#_ftnref1} § 2. Miljøstyrelsen træffer afgørelse, om et stof eller en genstand er affald, jf. affaldsbekendtgørelsen § 4.
+-    *For transport af affald indgår kun byggeaffald og jord.* Transport af jordaffald indgår, men transport af jord, der ikke er affald, indgår ikke. Når transporten af affald skal opgøres, så skal man kun opgøre byggeaffald og bortkørt jord, hvis jorden er affald. Man skal derfor ikke opgøre transport af det almindelige husholdningsaffald eller lignende fra skurbyen. Affald forstås som defineret i affaldsbekendtgørelsen[\[1\]](#_ftn1){#_ftnref1} § 2. Miljøstyrelsen træffer afgørelse, om et stof eller en genstand er affald, jf. affaldsbekendtgørelsen § 4.
 
 For bygninger med affaldsjord fra både opførelsen af en bygning og terrænarbejde skal man derfor fordele klimapåvirkningen mellem bygning og terrænarbejde.
 
@@ -1279,7 +1309,7 @@ Bortkørsel af jord skal kun regnes med, hvis jorden er affald. Derfor kan ovens
 
 ------------------------------------------------------------------------
 
-[&#91;1&#93;](#_ftnref1){#_ftn1} https://www.retsinformation.dk/eli/lta/2024/1749
+[\[1\]](#_ftnref1){#_ftn1} https://www.retsinformation.dk/eli/lta/2024/1749
 
 ### 1.8. Levetider {#b7facc0b-7a44-4398-be71-c1fd8daa0640}
 
@@ -1293,7 +1323,7 @@ Hvis levetiden af en konkret bygningsdel eller materiale er kortere end betragtn
 
 #### *Opgørelse af energiforbrug*
 
-Klimapåvirkningerne fra udskiftninger opgøres samlet under modul B4: "Udskiftninger" for den pågældende bygningsdel eller materiale. Modul B4 kommer kun i spil, når bygningsdelen eller materialets levetid er under 50 år. Udskiftningen svarer til summen af udskiftninger, det vil sige modulerne A1-3 og C3-4 for den pågældende bygningsdel eller materiale. Dermed skal A4-A5 ikke medregnes ved udskiftninger. Dette er illustreret i figur 7.1.
+Klimapåvirkningerne fra udskiftninger opgøres samlet under modul B4: ”Udskiftninger” for den pågældende bygningsdel eller materiale. Modul B4 kommer kun i spil, når bygningsdelen eller materialets levetid er under 50 år. Udskiftningen svarer til summen af udskiftninger, det vil sige modulerne A1-3 og C3-4 for den pågældende bygningsdel eller materiale. Dermed skal A4-A5 ikke medregnes ved udskiftninger. Dette er illustreret i figur 7.1.
 
 Modul C3-C4 i endt-levetid regnes med, da det antages, at levetiden ophører ved slutningen af betragtningsperioden på 50 år, selv om den reelle levetid kan være længere.
 
@@ -1305,7 +1335,7 @@ Modul C3-C4 i endt-levetid regnes med, da det antages, at levetiden ophører ved
 
 Vedligehold af en bygning (modul B2) medregnes ikke i beregningen af bygningens klimapåvirkning, jf. § 297. Der fremgår derfor ikke levetider for maling, da fornyelse af maling er påvirkninger, der er del af modul B2 (vedligehold), men ikke del af udskiftninger (modul B4). Andet arbejde, som hører under vedligehold, som fx slibning af gulve, oliebehandling af træ mm. indgår heller ikke i beregningen.
 
-Det er yderligere vigtig at fremhæve, at slutbehandlingen ved opførelsen af bygningen stadig medtages, jf. BR18, bilag 2, tabel 6. Her fremgår, at "Bygningsdele, der indgår i den færdige bygning som tag, ydervægge, indervægge, dæk og lignende, medregnes fra den indvendige overflade til den udvendige overflade". Hvis overflader udskiftes, medtages disse fortsat under modul B4.
+Det er yderligere vigtig at fremhæve, at slutbehandlingen ved opførelsen af bygningen stadig medtages, jf. BR18, bilag 2, tabel 6. Her fremgår, at ”Bygningsdele, der indgår i den færdige bygning som tag, ydervægge, indervægge, dæk og lignende, medregnes fra den indvendige overflade til den udvendige overflade”. Hvis overflader udskiftes, medtages disse fortsat under modul B4.
 
 #### *Afvigelse fra levetidstabellen*
 
@@ -1327,15 +1357,15 @@ Ved opførelsen af bygningen vælges en løsning, som medfører, at byggemateria
 
 *Eksempel på håndtering af levetiden af et vindue som sammensat bygningskomponent*
 
-Der henvises til levetidsrapporten fra BUILD "Levetidstabel BUILD 2021:32, Version 2021", som beskriver, at der kan antages forskellige udskiftningstidspunkter for komponenter i sammensatte bygningsdele, så længe udskiftningen ikke medfører at andre bygningsdele skal udskiftes i samme omgang.
+Der henvises til levetidsrapporten fra BUILD ”Levetidstabel BUILD 2021:32, Version 2021”, som beskriver, at der kan antages forskellige udskiftningstidspunkter for komponenter i sammensatte bygningsdele, så længe udskiftningen ikke medfører at andre bygningsdele skal udskiftes i samme omgang.
 
 Af levetidstabellen fremgår det, at vinduer har en levetid på 50 år eller 60 år, hvorimod termoruder har en levetid på 25 år. Hvis der anvendes et vindue, hvor ruden kan udskiftes uden destruktiv nedtagning af rammen/karmen, så kan ruden og ramme/karm have forskellige levetider. Hvis der derimod er tale om et vindue, hvor konstruktionsløsningen ikke muliggør en særskilt udskiftning af ruden, skal levetiden for hele vinduet sættes til 25 år.
 
-*Eksempel: hvordan foretages beregningen i den ovenstående situation, hvis man vil anvende branche-EPD'er, hvor klimapåvirkningen kun angives samlet for hele vinduet?*
+*Eksempel: hvordan foretages beregningen i den ovenstående situation, hvis man vil anvende branche-EPD’er, hvor klimapåvirkningen kun angives samlet for hele vinduet?*
 
-Samme princip gør sig gældende som beskrevet foroven. Der skal dog arbejdes med en mindre tilpasning i beregningen. De nuværende branche EPD'er angiver påvirkningen (deklarerede enhed) per m2 vindue, bestående af ramme/karm og rude samlet.
+Samme princip gør sig gældende som beskrevet foroven. Der skal dog arbejdes med en mindre tilpasning i beregningen. De nuværende branche EPD’er angiver påvirkningen (deklarerede enhed) per m2 vindue, bestående af ramme/karm og rude samlet.
 
-I forhold til princippet beskrevet i tidligere spørgsmål, at der kun skal regnes med en udskiftning af glasset undervejs i levetiden af vinduet også selv om den er håndteret af en branche-EPD så kan der tages branche EPD'en af vinduet, som regnes med 50 års levetid for vinduet, yderligere lægges en glasudskiftning ind efter 25 år.
+I forhold til princippet beskrevet i tidligere spørgsmål, at der kun skal regnes med en udskiftning af glasset undervejs i levetiden af vinduet også selv om den er håndteret af en branche-EPD så kan der tages branche EPD’en af vinduet, som regnes med 50 års levetid for vinduet, yderligere lægges en glasudskiftning ind efter 25 år.
 
 ### 1.9. Emissionsfaktorer {#f87ab10e-30e6-4998-9f70-3c43b33df6c2}
 
@@ -1345,7 +1375,7 @@ I det følgende uddybes det, hvordan energiforbruget opgøres, og hvordan klimap
 
 Emissionsfaktorer er miljøpåvirkning for energiforsyninger opgjort pr. kWh.
 
-Faktorer for el, fjernvarme og ledningsgas er baseret på 1 kWh og er fremskrevet i henhold til den forventede energiforsyning, jf. rapporten "Emissionsfaktorer El, fjernvarme og ledningsgas 2025-2075" (Artelia, 2023).
+Faktorer for el, fjernvarme og ledningsgas er baseret på 1 kWh og er fremskrevet i henhold til den forventede energiforsyning, jf. rapporten ”Emissionsfaktorer El, fjernvarme og ledningsgas 2025-2075” (Artelia, 2023).
 
 #### *Opgørelse af energiforbrug*
 
@@ -1369,15 +1399,15 @@ Det er bygningens samlede energibehov, der skal medregnes i modul B6, det vil si
 
 Der kan indregnes bygningsintegreret el-produktion fra fx solceller eller vindmøller svarende til højst 25 kWh/m² pr. år opgjort i primærenergi. Det svarer således til en produktion på 13,2 kWh/m² pr. år. En bygning på 1.000 m² kan således højst indregne el-produktion svarende til 13.200 kWh pr. år i modul B6 i beregningen. Energibehovet til el kan derfor godt blive mindre end 0 kWh/m² pr. år, hvis el-behovet i bygningen er under 13,2 kWh/m² pr. år. Hvis man producerer mere elektricitet end 13,2 kWh/m² pr. år, så kan den resterende el-produktion godskrives i modul D med samme emissionsfaktorer, som den øvrige del af el-produktionen. Se nærmere vejledning: § 297, stk. 4, Livscyklus og betragtningsperiode.
 
-Materialernes klimapåvirkning regnes kun med til den andel af solceller, hvis ydelse kan indregnes i energiberegningen. Dette er en afgrænsning, jf. BR18, bilag 2, tabel 6, under "Solcelleanlæg". Det vil sige, at kun materialernes klimapåvirkning fra de solceller, som er medregnet i bygningens driftsforbrug eller indgår som en del af tagbeklædningen, medtages i modulerne A1-5, B4, C3-4 og D.
+Materialernes klimapåvirkning regnes kun med til den andel af solceller, hvis ydelse kan indregnes i energiberegningen. Dette er en afgrænsning, jf. BR18, bilag 2, tabel 6, under ”Solcelleanlæg”. Det vil sige, at kun materialernes klimapåvirkning fra de solceller, som er medregnet i bygningens driftsforbrug eller indgår som en del af tagbeklædningen, medtages i modulerne A1-5, B4, C3-4 og D.
 
-#### *Brug af EPD'er for fjernvarmeværker*
+#### *Brug af EPD’er for fjernvarmeværker*
 
 Dette afsnit er relevant, hvis det fjernvarmeværk, som leverer varme til bygningen, som livscyklusvurderingen gennemføres for, har udarbejdet en specifik EPD for emissionsfaktorerne, og dermed ikke benytter emissionsfaktorerne for fjernvarme fra BR18, bilag 2, tabel 8.1.
 
 Det er vigtigt at fremhæve, at en miljødeklaration, som fjernvarmeværker kan have liggende, som ikke er udført i henhold til ISO 14025, ikke er betragtet som gyldig i forhold til beregning af bygningers klimapåvirkning. Forskellen ligger bl.a. i, at miljødeklarationen ikke ser på hele livscyklussen, dvs. for eksempel ikke tager produktionen af energianlæggene med. En miljødeklaration vil derfor typisk have en lavere klimapåvirkning end en EPD, jf. ISO 14025.
 
-Et lokalt fjernvarmeværk kan udarbejde en EPD for sin konkrete varmeforsyning, som kan benyttes til beregning af bygningers klimapåvirkning, i stedet for de generiske emissionsfaktorer opgjort i BR18, bilag 2, tabel 8.1. EPD'en skal være udført iht. ISO 14025. Lokale emissionsfaktorer kan erstatte hele eller dele af de generiske emissionsfaktorer, afhængigt af, hvordan de lokale emissionsfaktorer er udarbejdet.
+Et lokalt fjernvarmeværk kan udarbejde en EPD for sin konkrete varmeforsyning, som kan benyttes til beregning af bygningers klimapåvirkning, i stedet for de generiske emissionsfaktorer opgjort i BR18, bilag 2, tabel 8.1. EPD’en skal være udført iht. ISO 14025. Lokale emissionsfaktorer kan erstatte hele eller dele af de generiske emissionsfaktorer, afhængigt af, hvordan de lokale emissionsfaktorer er udarbejdet.
 
 Hvis et fjernvarmeværk kan dokumentere en 2025-værdi for deres fjernvarmeområde, der er lavere end de generiske værdier i BR18, bilag 2, tabel 8.1, kan bygningsejer benytte den specifikke værdi for 2025 frem til den ikke længere er lavere end de generiske værdier. Herefter skal de generiske værdier benyttes.
 
@@ -1431,7 +1461,7 @@ For bygninger der har særlige forhold eller tillæg til energirammen, medfører
 
 Grænseværdien er angivet med én decimal i bestemmelsen. Det betyder, at fx et resultat på 6,73 for et rækkehus vil holde sig inden for grænseværdien, da der afrundes til 6,7.
 
-Dokumentationen skal følge kravene, jf. § 40. [Se Vejledning om dokumentation af bygningsreglementets tekniske bestemmelser i forbindelse med færdigmelding af byggeriet (nyt vindue).](../../../../administrative-bestemmelser/brv/dokumentationsvejledning/dokumentationsvejledning){rel="noopener" target="_blank"}
+Dokumentationen skal følge kravene, jf. § 40. [Se Vejledning om dokumentation af bygningsreglementets tekniske bestemmelser i forbindelse med færdigmelding af byggeriet (nyt vindue).](../../../../administrative-bestemmelser/brv/dokumentationsvejledning/dokumentationsvejledning/){rel="noopener" target="_blank"}
 
 Der kan med fordel udarbejdes beregninger for byggeriet fra de tidlige designfaser, så risikoen for overskridelse minimeres.
 
@@ -1453,19 +1483,41 @@ Kun den del af klimapåvirkningen, som er en følge af det særlige forhold, er 
 
 Følgende eksempler er udelukkende af vejledende karakter, og det skal altid vurderes i den konkrete byggesag, om der er tale om særlige forhold eller ej.
 
-|  |
-|:---------------------------------------------------------------------|
-|  **Eksempler på bygningers funktion og placering, der kan medføre en nødvendig øget klimapåvirkning (listen er ikke udtømmende)** |
-|  Anvendelse af hospitals- og laboratorieudstyr (bygningens funktion) |
-|  Høj last på dæk og andre påvirkede konstruktionsdele (bygningens anvendelse |
-|  Ekstra højt sikkerhedsniveau (konsekvensklasse CC3+) (bygningens funktion) |
-|  Særlige jordbundsforhold, herunder vandtryk (bygningens placering) |
-|  Høje renhedskrav (bygningens funktion) |
-|  Sikringskrav (bygningens funktion) |
-|  Krav om særlig udformning som følge af planlovgivningen (bygningens placering) |
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td> <strong>Eksempler på bygningers funktion og placering, der kan medføre en nødvendig øget klimapåvirkning (listen er ikke udtømmende)</strong></td>
+</tr>
+<tr>
+<td> Anvendelse af hospitals- og laboratorieudstyr (bygningens funktion)</td>
+</tr>
+<tr>
+<td> Høj last på dæk og andre påvirkede konstruktionsdele (bygningens anvendelse</td>
+</tr>
+<tr>
+<td> Ekstra højt sikkerhedsniveau (konsekvensklasse CC3+) (bygningens funktion)<br />
+ </td>
+</tr>
+<tr>
+<td> Særlige jordbundsforhold, herunder vandtryk (bygningens placering)</td>
+</tr>
+<tr>
+<td> Høje renhedskrav (bygningens funktion)</td>
+</tr>
+<tr>
+<td> Sikringskrav (bygningens funktion)</td>
+</tr>
+<tr>
+<td> Krav om særlig udformning som følge af planlovgivningen (bygningens placering)</td>
+</tr>
+</tbody>
+</table>
 
 |  |
-|:---|
+|----|
 |  **Eksempler på forhold der ikke tænkes omfattet af undtagelsen (listen er ikke udtømmende)** |
 |  Æstetiske hensyn (bygningsejerens valg af udformning) |
 |  Store rumvolumener |
@@ -1476,9 +1528,7 @@ Følgende eksempler er udelukkende af vejledende karakter, og det skal altid vur
 
 Det er op til bygningsejer at redegøre for, at der er tale om et særligt forhold. Dette skal fremgå af dokumentationen, jf. §40. Beregningen af, hvor stor en del af bygningens klimapåvirkning, som ikke skal medregnes, foretages efter anvisningerne i BR18, bilag 2, tabel 9. Tabellen indeholder referenceværdier for konstruktioner uden særlige forhold.
 
-Af BR18, bilag 2, tabel 9, fremgår også fire formler (Formel 1, 2, 3 og
-
-4), der skal anvendes til beregning af forskellen.
+Af BR18, bilag 2, tabel 9, fremgår også fire formler (Formel 1, 2, 3 og 4), der skal anvendes til beregning af forskellen.
 
 - Formel 1 anvendes, hvis konstruktioner som etage- og kælderdæk, gulv, loft, vægge, tage, terrændæk og pladefundamenter er påvirket af et særlige forhold.
 - Formel 2 anvendes, hvis søjler eller bjælker er påvirket af et særlige forhold.
@@ -1495,9 +1545,7 @@ Såfremt resultatet af Formel 1, 3 eller 4 er mindre end 0, udgør det særlige 
 
 En produktionsbygning har behov for særlig høj last på en del af etagedækket grundet tungt procesudstyr. Den høje last vurderes for værende et særligt forhold. Formel 1 anvendes for at beregne forskellen og dermed den øgede klimapåvirkning, som ikke skal indgå i grænseværdien, jf. § 298, stk. 1.
 
-Formel 1: ((x / 50 år) – (r
-
-m)) / a
+Formel 1: ((x / 50 år) – (r  m)) / a
 
 hvor
 
@@ -1578,7 +1626,7 @@ Kun den del af klimapåvirkningen, som er en følge af det særlige forhold, er 
 Følgende eksempler er udelukkende af vejledende karakter, og det skal altid vurderes i den konkrete byggesag, om der er tale om særlige forhold eller ej.
 
 |  |
-|:---|
+|----|
 | **Eksempler på bygningers funktion og placering, der kan medføre en nødvendig øget klimapåvirkning (listen er ikke udtømmende)** |
 | Anvendelse af laboratorieudstyr (bygningens funktion) |
 | Høj last på dæk og andre påvirkede konstruktionsdele (bygningens anvendelse) |
@@ -1589,20 +1637,18 @@ Følgende eksempler er udelukkende af vejledende karakter, og det skal altid vur
 | Krav om særlig udformning som følge af planlovgivningen (bygningens placering) |
 
 |  |
-|:---|
+|----|
 | **Eksempler på forhold der ikke tænkes omfattet af undtagelsen (listen er ikke udtømmende)** |
-| Æstetiske hensyn (bygningsejerens valg af udformning) |
+| Æstetiske hensyn (bygningsejerens valg af udformning)  |
 | Store rumvolumener |
 | Parkeringskældre |
-| Mange rum- og brandadskillelser |
+| Mange rum- og brandadskillelser  |
 
 *Beregning af det tillægsgivende forhold*
 
 Det er op til bygningsejer at redegøre for, at der er tale om et særligt forhold. Dette skal fremgå af dokumentationen, jf. §40. Beregningen af, hvor stor en del af bygningens klimapåvirkning, som ikke skal medregnes, foretages efter anvisningerne i BR18, bilag 2, tabel 9. Tabellen indeholder referenceværdier for konstruktioner uden særlige forhold.
 
-Af BR18, bilag 2, tabel 9, fremgår også fire formler (Formel 1, 2, 3 og
-
-4), der skal anvendes til beregning af forskellen.
+Af BR18, bilag 2, tabel 9, fremgår også fire formler (Formel 1, 2, 3 og 4), der skal anvendes til beregning af forskellen.
 
 ·         Formel 1 anvendes, hvis konstruktioner som etage- og kælderdæk, gulv, loft, vægge, tage, terrændæk og pladefundamenter er påvirket af et særligt forhold.
 
@@ -1616,15 +1662,13 @@ Forskellen mellem påvirkningen af den faktiske bygningsdel og bygningsdelen, so
 
 Såfremt resultatet af Formel 1, 3 eller 4 er mindre end 0, udgør det særlige forhold under alle omstændigheder ikke et problem, da klimapåvirkningen fra bygningsdelen holder sig under referenceværdien for en almindelig bygning.
 
-#### **1.15.1 Eksempel** 
+#### **1.15.1 Eksempel**
 
 *Eksempel på beregning af tillæg ved høj last*
 
 En produktionsbygning har behov for særlig høj last på en del af etagedækket grundet tungt procesudstyr. Den høje last vurderes for værende et særligt forhold. Formel 1 anvendes for at beregne forskellen og dermed den øgede klimapåvirkning, som ikke skal indgå i grænseværdien, jf. § 298, stk. 1.
 
-Formel 1: ((x / 50 år) – (r ×
-
-m)) / a
+Formel 1: ((x / 50 år) – (r × m)) / a
 
 Hvor
 

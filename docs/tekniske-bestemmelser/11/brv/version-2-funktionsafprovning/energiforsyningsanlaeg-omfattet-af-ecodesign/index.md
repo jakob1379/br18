@@ -2,15 +2,15 @@
 
 ## Se alle vejledninger om Energiforbrug og klimapåvirkning (§ 250 - § 298)
 
-- [Spørgsmål og svar om energiforbrug](../../qa)
-- [Spørgsmål og svar om bygningers klimapåvirkning](../../spoergsmaal-og-svar-om-bygningers-klimapaavirkning)
-- [Bygningsreglementets vejledning om energiforbrug](../../energiforbrug-2)
-- [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner)
-- [Vejledning om funktionsafprøvning](./)
-- [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov)
-- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../../bygningers-klimapaavirkning-1-juli-2025)
-- [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler)
-- [Eksempelsamling for energi](../../eksempelsamling)
+- [Spørgsmål og svar om energiforbrug](../../qa/)
+- [Spørgsmål og svar om bygningers klimapåvirkning](../../spoergsmaal-og-svar-om-bygningers-klimapaavirkning/)
+- [Bygningsreglementets vejledning om energiforbrug](../../energiforbrug-2/)
+- [Bygningsreglementets vejledning om efterisolering](../../ofte-rentable-konstruktioner/)
+- [Vejledning om funktionsafprøvning](../)
+- [Vejledning om håndtering af forskelligt energibehov i energirammen](../../haandtering-af-forskelligt-energibehov/)
+- [Bygningsreglementets vejledning om bygningers klimapåvirkning](../../bygningers-klimapaavirkning-1-juli-2025/)
+- [Vejledning om energiberegning af hospitaler](../../energiberegning-af-hospitaler/)
+- [Eksempelsamling for energi](../../eksempelsamling/)
 
 ## Vejledning om funktionsafprøvning
 
@@ -90,7 +90,7 @@ Følgende typer af energiforsyningsanlæg i relation til bygninger vil typisk v�
 
 • Kondenseringsenheder til køleanlæg
 
-Hvilke energiforsyningsanlæg der er omfattet af Ecodesign i hver af de ovennævnte produktkategorier afhænger blandt andet af anlæggets størrelse og den anvendte energikilde. For nærmere information herom henvises der til Energistyrelsens oversigt over produkter omfattet af Ecodesign, som kan findes her: [Energistyrelsens oversigt](https://ens.dk/ansvarsomraader/energikrav-til-produkter/produkter-med-energikrav){target="_blank"}
+Hvilke energiforsyningsanlæg der er omfattet af Ecodesign i hver af de ovennævnte produktkategorier afhænger blandt andet af anlæggets størrelse og den anvendte energikilde. For nærmere information herom henvises der til Energistyrelsens oversigt over produkter omfattet af Ecodesign, som kan findes her: [Energistyrelsens oversigt](https://ens.dk/ansvarsomraader/energikrav-til-produkter/produkter-med-energikrav){target="_blank"}
 
 *Relevante standarder*
 
@@ -104,7 +104,7 @@ Energiforsyningsanlæg der leveres som færdige units og skal overholde Ecodesig
 
 Der foretages dog en vurdering af om energiforsyningsanlæggets energimæssige effektivitet er tilstrækkelig, ved at der foretages kontrol af det varme- eller kølefordelingssystem som er tilsluttet til energiforsyningsanlægget, hvis dette er aktuelt. Dette er med til at verificere, at energiforsyningsanlægget fungerer korrekt i det samlede varme- og køleanlæg, inkl. dets komponenter, herunder styring- og reguleringskomponenter.
 
-*Forudsætninger for udførelse af funktionsafprøvning* 
+*Forudsætninger for udførelse af funktionsafprøvning*
 
 For at kunne foretage en vurdering af om energiforsyningsanlægget har den forudsatte energimæssige effektivitet, skal følgende normalt være opfyldt:
 
@@ -145,7 +145,8 @@ For køleanlæg kontrolleres det at nedenstående punkter er opfyldt:
 • cirkulationspumper og pumpestyringer (kølevandskredsen) er udført som foreskrevet. Der bør være foreskrevet tidsstyring og omdrejningstalsregulerbare cirkulationspumper.
 
 *Acceptkriterium*
-Afprøvningens resultat med hensyn til den energimæssige effektivitet kan accepteres, hvis energiforsyningsanlægget overholder Ecodesignkravene og punkterne under afsnittet 'Kontrolpunkter' er overholdt.
+
+Afprøvningens resultat med hensyn til den energimæssige effektivitet kan accepteres, hvis energiforsyningsanlægget overholder Ecodesignkravene og punkterne under afsnittet ’Kontrolpunkter’ er overholdt.
 
 *Dokumentation*
 

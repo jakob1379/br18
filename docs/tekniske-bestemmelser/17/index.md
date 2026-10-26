@@ -1,70 +1,69 @@
----
-title: Lydforhold (§ 368 - § 376)
----
-
 # Lydforhold (§ 368 - § 376)
 
 [Krav](./){ .md-button .md-button--primary }
 [Vejledning](brv/){ .md-button }
-[PDF](./){ .md-button }
 
-## § 368 - § 376 Lydforhold {#s368-376}
+<span id="s368-376"></span><span id="paragraf-368"></span>
 
-### § 368 {#p368 #paragraf-368}
+## § 368 Lydforhold {#d020db69-f4ce-4cb5-84ee-a507a2630908}
 
 Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold i forhold til anvendelsen.
 
 *Stk. 2.* Ved projektering og udførelse skal der tages hensyn til:
 
-1. Lydtransmission mellem rum, boliger eller erhvervsenheder inden for bebyggelsen.
-2. Støj fra bygningens tekniske installationer.
-3. Støj fra veje og jernbaner.
-4. Efterklangstid.
+1.  Lydtransmission mellem rum, boliger eller erhvervsenheder inden for bebyggelsen.
+2.  Støj fra bygningens tekniske installationer.
+3.  Støj fra veje og jernbaner.
+4.  Efterklangstid.
 
 *Stk. 3.* Dokumentation af lydforhold kan ske ved beregning eller måling i den færdige bygning.
 
-### § 369 - § 373 Boliger og andre bygninger til overnatning {#s369-373}
+<span id="s369-373"></span>
 
-#### § 369 {#p369 #paragraf-369}
+## § 369 - § 373 Boliger og andre bygninger til overnatning {#f0f5a834-93ed-4c39-b0aa-ed0bb7e8fab7}
+
+### § 369 {#paragraf-369}
 
 For boliger og andre bygninger benyttet til overnatning skal det sikres, at de personer, som opholder sig i bygningerne, ikke generes af lyd fra andre rum i bebyggelsens øvrige bolig- og erhvervsenheder, fra bygningens installationer eller fra veje og jernbaner.
 
 *Stk. 2.* For boliger skal lydforholdene overholde klasse C i DS 490 Lydklassifikation af boliger og niveauerne angivet i Bygningsreglementets vejledning om lydforhold.
 
-#### § 370 {#p370 #paragraf-370}
+### § 370 {#paragraf-370}
 
 Hvis rum med støjende aktiviteter grænser op til boliger og fælles opholdsrum, skal særskilte lydisolerende tiltag iværksættes. Bestemmelsen er opfyldt, når det kan dokumenteres, at rum med støjende aktiviteter er udført i henhold til klasse C i DS 490 Lydklassifikation af boliger.
 
-#### § 371 {#p371 #paragraf-371}
+### § 371 {#paragraf-371}
 
 Tekniske installationer må ikke medføre et generende støjniveau umiddelbart uden for bebyggelsens vinduer til beboelsesrum, køkken eller på bebyggelsens rekreative arealer, herunder altaner, tagterrasser, uderum og lignende. Bestemmelsen anses for opfyldt, når det kan dokumenteres, at grænseværdierne angivet i Bygningsreglementets vejledning om lydforhold er overholdt.
 
-#### § 372 {#p372 #paragraf-372}
+### § 372 {#paragraf-372}
 
 Rums efterklangstid skal være reguleret i overensstemmelse med deres anvendelse.
 
 *Stk. 2.* For fællesrum er bestemmelsen opfyldt, når det kan dokumenteres, at klasse C i DS 490 Lydklassifikation af boliger er overholdt.
 
-#### § 373 {#p373 #paragraf-373}
+### § 373 {#paragraf-373}
 
 For sommerhuse gælder alene, at de tekniske installationer skal udformes på en sådan måde, at de personer, der opholder sig i bygningerne, ikke generes af lyd fra disse.
 
-### § 374 - § 376 Andre bygninger end boliger {#s374-376}
+<span id="s374-376"></span>
 
-#### § 374 {#p374 #paragraf-374}
+## § 374 - § 376 Andre bygninger end boliger {#e5d29634-6eb5-4fa9-a15a-3c39a4be26d2}
 
-For andre bygninger end boliger skal det under hensyn til anvendelsen sikres, at de personer, som opholder sig i bygningen, ikke generes af lyd fra tilgrænsende rum, fra bygningens installationer eller fra nærliggende veje og jernbaner.
+### § 374 {#paragraf-374}
 
-*Stk. 2.* For undervisnings- og daginstitutionsbyggeri er bestemmelsen opfyldt, når det kan dokumenteres, at grænseværdierne angivet i Bygningsreglementets vejledning om lydforhold er overholdt, eller når det på anden vis kan dokumenteres, at et tilsvarende niveau er opnået.
+For andre bygninger end boliger skal det under hensyn til anvendelsen sikres, at de  personer, som opholder sig i bygningen, ikke generes af lyd fra tilgrænsende rum, fra bygningens installationer eller fra nærliggende veje og jernbaner.
 
-#### § 375 {#p375 #paragraf-375}
+*Stk. 2.* For undervisnings- og daginstitutionsbyggeri er bestemmelsen opfyldt, når det kan dokumenteres, at grænseværdierne angivet i *Bygningsreglementets vejledning om lydforhold*  er overholdt, eller når det på anden vis kan dokumenteres, at et tilsvarende niveau er opnået.
+
+### § 375 {#paragraf-375}
 
 Hvis rum med støjende aktiviteter i samme eller tilgrænsende bygninger grænser op til undervisningsrum eller opholdsrum, skal særskilte lydisolerende tiltag iværksættes.
 
-*Stk. 2.* For undervisnings- og daginstitutionsbygninger er bestemmelsen opfyldt, når det kan dokumenteres, at grænseværdierne angivet i Bygningsreglementets vejledning om lydforhold er overholdt, eller når det på anden vis kan dokumenteres, at et tilsvarende niveau er opnået.
+*Stk. 2.* For undervisnings- og daginstitutionsbygninger er bestemmelsen opfyldt, når det kan dokumenteres, at grænseværdierne angivet i *Bygningsreglementets vejledning om lydforhold* er overholdt, eller når det på anden vis kan dokumenteres, at et tilsvarende niveau er opnået.
 
-#### § 376 {#p376 #paragraf-376}
+### § 376 {#paragraf-376}
 
 Rums efterklangstid skal være reguleret i overensstemmelse med rummenes anvendelse.
 
-*Stk. 2.* For undervisnings- og daginstitutionsbygninger er bestemmelsen opfyldt, når det kan dokumenteres, at grænseværdierne angivet i Bygningsreglementets vejledning om lydforhold er overholdt, eller når det på anden vis kan dokumenteres, at et tilsvarende niveau er opnået.
+Stk. 2. For undervisnings- og daginstitutionsbygninger er bestemmelsen opfyldt, når det kan dokumenteres, at grænseværdierne angivet i Bygningsreglementets vejledning om lydforhold er overholdt, eller når det på anden vis kan dokumenteres, at et tilsvarende niveau er opnået.

@@ -2,9 +2,9 @@
 
 ## Se alle vejledninger om Adgangsforhold (§ 48 - § 62)
 
-- [Spørgsmål og svar om adgangsforhold](../../qa)
-- [Vejledning til brugerbegreb](./)
-- [Vejledning om tilgængelighed til transportable konstruktioner](../../vejledning-om-tilgaengelighed-til-transportable-konstruktioner)
+- [Spørgsmål og svar om adgangsforhold](../../qa/)
+- [Vejledning til brugerbegreb](../)
+- [Vejledning om tilgængelighed til transportable konstruktioner](../../vejledning-om-tilgaengelighed-til-transportable-konstruktioner/)
 
 ## Vejledning til brugerbegreb
 
@@ -16,7 +16,7 @@
 
 ### 3.0.0. Brugerbegreb {#fdfb9874-73ae-4e54-b615-4ae0460a88d7}
 
-Brugerne kan være alle mennesker, med ingen, mindre eller større funktionsnedsættelser. I begrebsafklaringen af universelt design under FN's Handicapkonventions artikel 2 forstås brugere som *alle*, herunder også personer med handicap. Brugerne i henhold til bygningsreglementet kan være alt fra kørestolsbrugere og gangbesværede, personer med ADHD, syns- eller hørehandicappede, psykisk udviklingshæmmede, børn og ældre, personer med midlertidige funktionsnedsættelser, eller små og meget store personer. Disse brugergrupper, der på ingen måde er udtømmende, kan ofte overlappe. Forskelle blandt mennesker kan påvirkes af alder, køn, størrelse, helbred, træning, kultur, opdragelse og erfaring.
+Brugerne kan være alle mennesker, med ingen, mindre eller større funktionsnedsættelser. I begrebsafklaringen af universelt design under FN’s Handicapkonventions artikel 2 forstås brugere som *alle*, herunder også personer med handicap. Brugerne i henhold til bygningsreglementet kan være alt fra kørestolsbrugere og gangbesværede, personer med ADHD, syns- eller hørehandicappede, psykisk udviklingshæmmede, børn og ældre, personer med midlertidige funktionsnedsættelser, eller små og meget store personer. Disse brugergrupper, der på ingen måde er udtømmende, kan ofte overlappe. Forskelle blandt mennesker kan påvirkes af alder, køn, størrelse, helbred, træning, kultur, opdragelse og erfaring.
 
 En bygning kan med fordel designes, så der sikres mulighed for anvendelse på tværs af brugergrupperne. En bygnings tilsigtede funktion kan medføre, at kun visse brugergrupper, eller kombinationer heraf, vil have et ønske om og mulighed for anvendelse af bygningen eller dele af dens funktioner. Det kan fx være tilfældet ved visse industri- og produktionsbygninger. Bygningens funktioner og forholdet til brugerbegrebet skal vurderes i den konkrete sag.
 

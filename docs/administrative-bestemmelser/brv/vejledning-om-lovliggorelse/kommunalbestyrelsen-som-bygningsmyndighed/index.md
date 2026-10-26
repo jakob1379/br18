@@ -22,44 +22,78 @@
 
 ## Vejledning om lovliggørelse af ulovligt byggeri
 
-### Lovliggørelse af ulovligt byggeri
+<span id="protected_17s-bestemmelser"></span><span id="lovliggrelse-af-ulovligt-byggeri"></span>
 
-### Indholdet af vejledningen
+### Lovliggørelse af ulovligt byggeri {#5d450e8c-fb49-433f-8690-d8d28eb1788e}
 
-### Hvornår er et byggeri ulovligt
+<span id="indholdet-af-vejledningen"></span>
 
-### Anvendelse af formelle bestemmelser i forbindelse med lovliggørelse af byggeri
+### Indholdet af vejledningen {#dc3a6d01-9b5c-496c-90c9-6220ba5a4d23}
 
-### Særligt om stikprøvekontrol efter BR18
+<span id="hvornar-er-et-byggeri-ulovligt"></span>
 
-### Byggelovens bestemmelser
+### Hvornår er et byggeri ulovligt {#374e4894-de9d-4c01-ae8f-cf400192e823}
 
-### Kommunalbestyrelsen som bygningsmyndighed
+<span id="anvendelse-af-formelle-bestemmelser-i-forbindelse-med-lovliggrelse-af-byggeri"></span>
 
-Kommunalbestyrelsen er bygningsmyndighed og påser i denne forbindelse, at [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178) og de regler, der er udstedt i medfør heraf, overholdes. Dette fremgår af [byggelovens § 16 C, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178). Kommunalbestyrelsen påser også, at påbud efter [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178) og regler fastsat i medfør heraf efterkommes, og at vilkår fastsat i tilladelser eller dispensationer, som er meddelt af kommunalbestyrelsen, overholdes. Dette fremgår af [byggelovens § 16 C, stk. 2](https://www.retsinformation.dk/eli/lta/2016/1178).
+### Anvendelse af formelle bestemmelser i forbindelse med lovliggørelse af byggeri {#d0450863-d860-4671-a144-4f6fff33c44e}
 
-Bliver kommunalbestyrelsen opmærksom på et ulovligt forhold, har den pligt til at søge forholdet lovliggjort, medmindre dette er af ganske underordnet betydning. Dette fremgår af [byggelovens § 16 C, stk. 3](https://www.retsinformation.dk/eli/lta/2016/1178).
+<span id="srligt-om-stikprvekontrol-efter-br18"></span>
 
-Hvornår et forhold er af ganske underordnet betydning beror på en konkret vurdering, men som tommelfingerregel, skal der være tale om ret bagatelagtige forhold for, at et forhold ikke skal lovliggøres. Som eksempel kan det nævnes, at hvis det forhold, der er tilsidesat, ikke påvirker formålet i [byggeloven](https://www.retsinformation.dk/eli/lta/2016/1178), omgivelserne eller andre interesser, så er forholdet af ganske underordnet betydning.
+### Særligt om stikprøvekontrol efter BR18 {#433a388b-4ef7-4ba1-9dcb-0612c7d0975b}
+
+<span id="byggelovens-bestemmelser"></span>
+
+### Byggelovens bestemmelser {#efade8f2-aeee-4316-9b12-1269bf63b28a}
+
+<span id="kommunalbestyrelsen-som-bygningsmyndighed"></span>
+
+### Kommunalbestyrelsen som bygningsmyndighed {#0bac2d7b-6f83-4a5e-bb70-bc10fada3df7}
+
+Kommunalbestyrelsen er bygningsmyndighed og påser i denne forbindelse, at byggeloven og de regler, der er udstedt i medfør heraf, overholdes. Dette fremgår af byggelovens § 16 C, stk. 1. Kommunalbestyrelsen påser også, at påbud efter byggeloven og regler fastsat i medfør heraf efterkommes, og at vilkår fastsat i tilladelser eller dispensationer, som er meddelt af kommunalbestyrelsen, overholdes. Dette fremgår af byggelovens § 16 C, stk. 2.
+
+Bliver kommunalbestyrelsen opmærksom på et ulovligt forhold, har den pligt til at søge forholdet lovliggjort, medmindre dette er af ganske underordnet betydning. Dette fremgår af byggelovens § 16 C, stk. 3.
+
+Hvornår et forhold er af ganske underordnet betydning beror på en konkret vurdering, men som tommelfingerregel, skal der være tale om ret bagatelagtige forhold for, at et forhold ikke skal lovliggøres. Som eksempel kan det nævnes, at hvis det forhold, der er tilsidesat, ikke påvirker formålet i byggeloven, omgivelserne eller andre interesser, så er forholdet af ganske underordnet betydning.
 
 Hvordan, kommunen indretter og varetager administrationen af byggelovgivningen og sine pligter som bygningsmyndighed, er ikke nærmere reguleret i byggelovgivningen. Det er derfor i vid udstrækning op til den enkelte kommune selv at beslutte, hvordan den inden for de almindelige forvaltningsretlige grænser vil varetage sin rolle som bygningsmyndighed.
 
-### Ejerens pligter
+<span id="ejerens-pligter"></span>
 
-### Lovliggørelsens art
+### Ejerens pligter {#0bbb3b63-3292-413b-b1fa-6b12e2b2b7b2}
 
-### Retlig lovliggørelse
+<span id="lovliggrelsens-art"></span>
 
-### Fysisk lovliggørelse
+### Lovliggørelsens art {#77cb79a5-feaf-4e5a-bd75-e7dbc10f4302}
 
-### Vurderingen – valget mellem retlig og fysisk lovliggørelse
+<span id="retlig-lovliggrelse"></span>
 
-### Byggeri opført uden tilladelse
+### Retlig lovliggørelse {#0a9d07d9-0e51-498e-9f86-9f4a5ab5be5f}
 
-### Byggeri der afviger fra det byggeri, der er givet tilladelse til
+<span id="fysisk-lovliggrelse"></span>
 
-### Hensyn og overvejelser
+### Fysisk lovliggørelse {#89ada0c8-3144-4e2d-95c9-e36564461d52}
 
-### Forholdet til anden lovgivning
+<span id="vurderingen-valget-mellem-retlig-og-fysisk-lovliggrelse"></span>
 
-### Særligt om lovliggørelse i forbindelse med bygningers klimapåvirkning
+### Vurderingen – valget mellem retlig og fysisk lovliggørelse {#a7370d8b-3549-4a24-90f2-571fea0345cf}
+
+<span id="byggeri-opfrt-uden-tilladelse"></span>
+
+### Byggeri opført uden tilladelse {#bfb1838a-8a77-4560-a35f-75f3fd3290f4}
+
+<span id="byggeri-der-afviger-fra-det-byggeri-der-er-givet-tilladelse-til"></span>
+
+### Byggeri der afviger fra det byggeri, der er givet tilladelse til {#6abc4d89-97e1-4f26-97e5-6fde590579e4}
+
+<span id="hensyn-og-overvejelser"></span>
+
+### Hensyn og overvejelser {#322fb2e3-9fe0-4a40-885e-7ceae6722b25}
+
+<span id="forholdet-til-anden-lovgivning"></span>
+
+### Forholdet til anden lovgivning {#d5fd9fdf-ce91-4988-a5bb-058378339b40}
+
+<span id="srligt-om-lovliggrelse-i-forbindelse-med-bygningers-klimapavirkning"></span>
+
+### Særligt om lovliggørelse i forbindelse med bygningers klimapåvirkning {#8e481eaa-32b8-45b7-97d5-47a22df171c8}
