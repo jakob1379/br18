@@ -99,6 +99,11 @@ class CheckReferencesTest(unittest.TestCase):
     def test_annex_table_link_must_land_on_that_table(self) -> None:
         self.assert_ok(ref("../../../bilag/b3/bilag_3/#t4b", "BR18 bilag 3, tabel 4b", "bilag 3, tabel 4b"))
         self.assert_flagged(ref("../../../bilag/b3/bilag_3/#t4a", "BR18 bilag 3, tabel 4b", "bilag 3, tabel 4b"))
+        self.assert_ok(ref("../../../bilag/b3/bilag_3/#t4a", "BR18 bilag 3, tabel 4a", "4a"))
+
+    def test_annex_table_copy_on_a_table_subpage_counts_as_the_table(self) -> None:
+        self.html("bilag/b3/bilag_3/tabel_4a", BILAG_3)
+        self.assert_ok(ref("../../../bilag/b3/bilag_3/tabel_4a/#t4b", "BR18 bilag 3, tabel 4b", "bilag 3, tabel 4b"))
 
     def test_missing_page_or_anchor_is_flagged(self) -> None:
         self.assert_flagged(ref("../krav/#paragraf-999", "BR18 § 999", "§ 999"))

@@ -153,7 +153,7 @@ def check_local(site: Site, page_rel: str, ref: dict, m: re.Match[str]) -> str |
         return None if ok and not fragment and CHAPTER_RANGE_RE.search(target.h1) else f"{target_rel}/ is not chapter {n}"
     if m.group("annex"):
         n = m.group("annex")
-        if target_rel != f"bilag/b{n}/bilag_{n}":
+        if not (target_rel == f"bilag/b{n}/bilag_{n}" or (fragment and target_rel.startswith(f"bilag/b{n}/bilag_{n}/"))):
             return f"{target_rel}/ is not bilag {n}"
         table = m.group("table")
         if table and not re.match(rf"[Tt]abel {re.escape(table)}(?![\w.])", target.ids.get(fragment, "")):
@@ -201,7 +201,7 @@ def check_site(site_dir: Path, laws: dict) -> int:
             if not m:
                 problems.append(f"{rel}/: {ref['href']}: unparsable title {ref['title']!r}")
                 continue
-            number = m.group("lo") or m.group("chapter") or m.group("annex")
+            number = m.group("lo") or m.group("chapter") or m.group("table") or m.group("annex")
             digits = re.match(r"\d+", number).group()
             error = None if re.search(rf"(?<!\d){digits}(?!\d)", ref["text"]) else f"link text {ref['text']!r} does not name {number}"
             if not ref["ext"] and m.group("law") != "BR18":
