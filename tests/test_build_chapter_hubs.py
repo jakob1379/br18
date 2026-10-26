@@ -44,10 +44,10 @@ class ChapterHubsTest(unittest.TestCase):
         self.doc(f"{chapter}/brv", "# Gammel kopi\n\nForældet vejledning.\n")
         self.doc(
             f"{chapter}/krav",
-            "# Byggepladsen (§ 161 - § 165)\n\n### § 161 {#paragraf-161}\n\n<span id=\"p161\"></span>\n\n"
+            '---\ntitle: "Byggepladsen (§ 161 - § 165)"\n---\n\n# Byggepladsen (§ 161 - § 165)\n\n### § 161 {#paragraf-161}\n\n<span id="p161"></span>\n\n'
             "Se [§ 162](162/#x) og [bilag](../../../bilag/b1/).\n",
         )
-        self.doc(f"{chapter}/vejledninger", "# Byggepladsen (§ 161 - § 165)\n\n- [Generel vejledning](generel_vejledning/)\n")
+        self.doc(f"{chapter}/vejledninger", '---\ntitle: "Vejledninger om byggepladsen"\n---\n\n# Byggepladsen (§ 161 - § 165)\n\n- [Generel vejledning](generel_vejledning/)\n')
         tab = f'<a href="{SITE}/{chapter}/vejledninger/" class="nav-tab__link">Vejledning</a>'
         self.origin(f"/{chapter}/krav/", tab)
 
@@ -56,13 +56,13 @@ class ChapterHubsTest(unittest.TestCase):
 
         self.assertEqual(
             self.read(chapter),
-            "# Byggepladsen (§ 161 - § 165)\n\n"
+            '---\ntitle: "Byggepladsen (§ 161 - § 165)"\n---\n\n# Byggepladsen (§ 161 - § 165)\n\n'
             "[Krav](./){ .md-button .md-button--primary }\n[Vejledning](brv/){ .md-button }\n\n"
             "### § 161 {#paragraf-161}\n\nSe [§ 162](krav/162/#x) og [bilag](../../bilag/b1/).\n",
         )
         self.assertEqual(
             self.read(f"{chapter}/brv"),
-            "---\ntitle: Byggepladsen (§ 161 - § 165) – Vejledning\n---\n\n# Byggepladsen (§ 161 - § 165)\n\n"
+            '---\ntitle: "Vejledninger om byggepladsen"\n---\n\n# Byggepladsen (§ 161 - § 165)\n\n'
             "[Krav](../){ .md-button }\n[Vejledning](./){ .md-button .md-button--primary }\n\n"
             "- [Generel vejledning](../vejledninger/generel_vejledning/)\n",
         )
@@ -70,7 +70,7 @@ class ChapterHubsTest(unittest.TestCase):
     def test_guide_page_the_origin_serves_keeps_its_own_content(self) -> None:
         chapter = "ovrige-bestemmelser/23"
         self.doc(f"{chapter}/krav", "# Beregningsregler (§ 453 - § 458)\n\nKrav.\n")
-        self.doc(f"{chapter}/brv", "# Beregningsregler (§ 453 - § 458)\n\n- [Udnyttelige tagetager](udnyttelige-tagetager/)\n")
+        self.doc(f"{chapter}/brv", '---\ntitle: "Beregningsregler (§ 453 - § 458)"\n---\n\n# Beregningsregler (§ 453 - § 458)\n\n- [Udnyttelige tagetager](udnyttelige-tagetager/)\n')
         self.origin(f"/{chapter}/krav/", f'<a href="{SITE}/{chapter}/brv/" class="nav-tab__link">Vejledning</a>')
         self.origin(f"/{chapter}/brv/", "Se alle vejledninger")
 
@@ -79,7 +79,7 @@ class ChapterHubsTest(unittest.TestCase):
 
         self.assertEqual(
             self.read(f"{chapter}/brv"),
-            "---\ntitle: Beregningsregler (§ 453 - § 458) – Vejledning\n---\n\n# Beregningsregler (§ 453 - § 458)\n\n"
+            '---\ntitle: "Beregningsregler (§ 453 - § 458)"\n---\n\n# Beregningsregler (§ 453 - § 458)\n\n'
             "[Krav](../){ .md-button }\n[Vejledning](./){ .md-button .md-button--primary }\n\n"
             "- [Udnyttelige tagetager](udnyttelige-tagetager/)\n",
         )
@@ -91,7 +91,11 @@ class ChapterHubsTest(unittest.TestCase):
 
         self.build()
 
-        self.assertEqual(self.read(chapter), "# Brugerbetjente anlæg (§ 159 - § 160)\n\n[Krav](./){ .md-button .md-button--primary }\n\nKrav.\n")
+        self.assertEqual(
+            self.read(chapter),
+            '---\ntitle: "Brugerbetjente anlæg (§ 159 - § 160)"\n---\n\n# Brugerbetjente anlæg (§ 159 - § 160)\n\n'
+            "[Krav](./){ .md-button .md-button--primary }\n\nKrav.\n",
+        )
         self.assertFalse((self.docs / chapter / "brv").exists())
 
 

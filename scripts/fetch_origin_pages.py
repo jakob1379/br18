@@ -12,6 +12,7 @@ from urllib.parse import unquote, urlsplit
 from audit_br18_parity import DEFAULT_DELAY, HOSTS, SITE, OriginFetcher
 
 EXPAND_ALL_RE = re.compile(rb'<a href="([^"]+\?Layout=ShowAll)" class="link--expand-all"')
+TITLE_TAG_RE = re.compile(rb"<title>.*?</title>", re.IGNORECASE | re.DOTALL)
 TRIGGER_RE = re.compile(rb'<a href="([^"#]*)#[0-9a-f-]{36}"[^>]*class="accordion__trigger')
 
 
@@ -70,7 +71,10 @@ def main() -> int:
                     page = urlsplit(final)._replace(query="", fragment="").geturl()
                     expand_all = EXPAND_ALL_RE.search(html)
                     if expand_all and urlsplit(final).query != "Layout=ShowAll" and (not is_section_page(html, page) or is_krav_subpage(page)):
+                        own_title = TITLE_TAG_RE.search(html)
                         html, _ = download(expand_all.group(1).decode(), pages)
+                        if own_title:
+                            html = TITLE_TAG_RE.sub(lambda _: own_title.group(0), html, count=1)
                 except OSError as exc:
                     failed += 1
                     print(f"not fetched: {url} ({exc})", file=sys.stderr)

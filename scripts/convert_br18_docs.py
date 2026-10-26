@@ -5,6 +5,7 @@ from __future__ import annotations
 import argparse
 import concurrent.futures as futures
 import html
+import json
 import os
 import posixpath
 import subprocess
@@ -14,7 +15,7 @@ from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import unquote, urlsplit, urlunsplit
 
-from audit_br18_parity import HOST, HOSTS
+from audit_br18_parity import HOST, HOSTS, page_title
 
 
 QUERY_ALIAS_RE = re.compile(r"__q_[0-9a-f]+(?=\.[^.]+$)")
@@ -782,7 +783,8 @@ def convert_file(path: Path, docs_root: Path, delete_html: bool) -> bool:
             raise RuntimeError(f"cannot keep extensionless route HTML while writing {output}")
         path.unlink()
     output.parent.mkdir(parents=True, exist_ok=True)
-    output.write_text(markdown.strip() + "\n", encoding="utf-8")
+    front = f"---\ntitle: {json.dumps(page_title(html_text), ensure_ascii=False)}\n---\n\n"
+    output.write_text(front + markdown.strip() + "\n", encoding="utf-8")
     if delete_html and path.exists() and path.is_file():
         path.unlink()
     return True

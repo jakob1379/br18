@@ -11,13 +11,25 @@ SCRIPT = Path(__file__).resolve().parent.parent / "scripts" / "convert_br18_docs
 
 
 class ConvertTest(unittest.TestCase):
-    def convert(self, body: str) -> str:
+    def convert(self, body: str, title: str = "BR18") -> str:
         root = Path(tempfile.mkdtemp())
         self.addCleanup(shutil.rmtree, root)
         (root / "side").mkdir()
-        (root / "side" / "index.html").write_text(f"<html><body><main>{body}</main></body></html>", encoding="utf-8")
+        (root / "side" / "index.html").write_text(
+            f"<html><head><title>{title}</title></head><body><main>{body}</main></body></html>", encoding="utf-8"
+        )
         subprocess.run([sys.executable, str(SCRIPT), "--docs-root", str(root)], check=True, capture_output=True)
         return (root / "side" / "index.md").read_text(encoding="utf-8")
+
+    def test_page_title_is_the_origin_page_title(self) -> None:
+        markdown = self.convert("<h1>Andre vejledninger</h1><p>Tekst.</p>", "Spørgsmål og svar: certificering | BR18")
+
+        self.assertTrue(markdown.startswith('---\ntitle: "Spørgsmål og svar: certificering"\n---\n\n# Andre vejledninger\n'), markdown)
+
+    def test_page_without_its_own_origin_title_is_titled_by_its_heading(self) -> None:
+        markdown = self.convert("<h1>Adgangsforhold (§ 48 - § 62)</h1><p>Tekst.</p>")
+
+        self.assertTrue(markdown.startswith('---\ntitle: "Adgangsforhold (§ 48 - § 62)"\n---\n\n'), markdown)
 
     def test_whitespace_only_emphasis_is_dropped(self) -> None:
         markdown = self.convert(
@@ -227,7 +239,7 @@ class ConvertTest(unittest.TestCase):
     def test_empty_link_to_a_fragment_of_the_page_is_dropped(self) -> None:
         markdown = self.convert('<a href="#Indholdsoversigt" class="accordion__trigger"><svg></svg></a><p>Tekst</p>')
 
-        self.assertEqual(markdown, "Tekst\n")
+        self.assertEqual(markdown, '---\ntitle: "BR18"\n---\n\nTekst\n')
 
     def test_paragraph_tag_of_an_accordion_row_becomes_its_heading(self) -> None:
         markdown = self.convert(
@@ -243,7 +255,7 @@ class ConvertTest(unittest.TestCase):
     def test_empty_headings_are_dropped(self) -> None:
         markdown = self.convert("<p>Standarder:</p><h4><br></h4><p>DS/CEN/TR 16879:2016</p><h4>&nbsp;</h4><h4>Køb standarden</h4>")
 
-        self.assertEqual(markdown, "Standarder:\n\nDS/CEN/TR 16879:2016\n\n#### Køb standarden\n")
+        self.assertEqual(markdown, '---\ntitle: "BR18"\n---\n\nStandarder:\n\nDS/CEN/TR 16879:2016\n\n#### Køb standarden\n')
 
     def test_page_ends_with_a_single_newline(self) -> None:
         markdown = self.convert("<p>Tekst</p><div><span>&nbsp;</span></div><div></div>")

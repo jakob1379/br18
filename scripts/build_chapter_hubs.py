@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import argparse
+import json
 import posixpath
 import re
 import tempfile
@@ -44,8 +45,16 @@ def title_and_body(markdown: str) -> tuple[str, str]:
     return title, re.sub(r"\n{3,}", "\n\n", kept).strip()
 
 
-def page(title: str, buttons: list[str], body: str, frontmatter_title: str | None = None) -> str:
-    front = f"---\ntitle: {frontmatter_title}\n---\n\n" if frontmatter_title else ""
+def page_title(markdown: str) -> str:
+    front = re.match(r"---\n(?:.*\n)*?title: (.*)\n(?:.*\n)*?---\n", markdown)
+    if not front:
+        return title_and_body(markdown)[0]
+    value = front.group(1).strip()
+    return json.loads(value) if value.startswith('"') else value
+
+
+def page(title: str, buttons: list[str], body: str, page_title: str) -> str:
+    front = f"---\ntitle: {json.dumps(page_title, ensure_ascii=False)}\n---\n\n"
     return f"{front}# {title}\n\n" + "\n".join(buttons) + f"\n\n{body}\n"
 
 
@@ -60,24 +69,27 @@ def build(docs: Path, chapter: str, pages: OriginFetcher) -> None:
     krav = docs / chapter / "krav" / "index.md"
     if not krav.exists():
         return
-    title, krav_body = title_and_body(krav.read_text(encoding="utf-8"))
+    krav_md = krav.read_text(encoding="utf-8")
+    title, krav_body = title_and_body(krav_md)
     own = served(f"{SITE}/{chapter}/krav/", pages)
     tab = VEJLEDNING_TAB_RE.search(own[0]) if own else None
     guide = unquote(urlsplit(tab.group(1).decode()).path).strip("/").lower() if tab else None
     brv = docs / chapter / "brv" / "index.md"
     origin_brv = served(f"{SITE}/{chapter}/brv/", pages)
     if origin_brv and urlsplit(origin_brv[1]).path.strip("/").lower() == f"{chapter}/brv" and brv.exists():
-        brv_body = title_and_body(brv.read_text(encoding="utf-8"))[1]
+        brv_md = brv.read_text(encoding="utf-8")
+        brv_body = title_and_body(brv_md)[1]
     elif guide and (docs / guide / "index.md").exists() and guide != f"{chapter}/brv":
-        brv_body = rebase(title_and_body((docs / guide / "index.md").read_text(encoding="utf-8"))[1], guide, f"{chapter}/brv")
+        brv_md = (docs / guide / "index.md").read_text(encoding="utf-8")
+        brv_body = rebase(title_and_body(brv_md)[1], guide, f"{chapter}/brv")
     else:
         brv_body = None
     buttons = ["[Krav](./){ .md-button .md-button--primary }"] + (["[Vejledning](brv/){ .md-button }"] if brv_body is not None or brv.exists() else [])
-    (docs / chapter / "index.md").write_text(page(title, buttons, rebase(krav_body, f"{chapter}/krav", chapter)), encoding="utf-8")
+    (docs / chapter / "index.md").write_text(page(title, buttons, rebase(krav_body, f"{chapter}/krav", chapter), page_title(krav_md)), encoding="utf-8")
     if brv_body is not None:
         brv_buttons = ["[Krav](../){ .md-button }", "[Vejledning](./){ .md-button .md-button--primary }"]
         brv.parent.mkdir(parents=True, exist_ok=True)
-        brv.write_text(page(title, brv_buttons, brv_body, f"{title} – Vejledning"), encoding="utf-8")
+        brv.write_text(page(title, brv_buttons, brv_body, page_title(brv_md)), encoding="utf-8")
 
 
 def main() -> int:

@@ -69,6 +69,19 @@ class FetchFromSnapshotTest(unittest.TestCase):
 
         self.assertIn("hele kapitlet", (docs / krav.strip("/") / "358" / "index.html").read_text())
 
+    def test_page_given_its_chapters_show_all_view_keeps_its_own_title(self) -> None:
+        krav = "/administrative-bestemmelser/krav/"
+        own = page(krav + "4_6/", "kun § 4", expand_all=krav, trigger=krav + "4_6/")
+        own["html"] = own["html"].replace("<html>", "<html><head><title>Begrænsninger | Administrative bestemmelser | BR18</title></head>")
+        chapter = page(krav + "?Layout=ShowAll", "hele kapitlet")
+        chapter["html"] = chapter["html"].replace("<html>", "<html><head><title>Administrative bestemmelser | BR18</title></head>")
+        docs = self.fetch([own, chapter], krav + "4_6/")
+
+        html = (docs / krav.strip("/") / "4_6" / "index.html").read_text()
+        self.assertIn("hele kapitlet", html)
+        self.assertIn("<title>Begrænsninger | Administrative bestemmelser | BR18</title>", html)
+        self.assertNotIn("<title>Administrative bestemmelser | BR18</title>", html)
+
     def test_redirected_page_is_written_at_its_target_path(self) -> None:
         alias = "/ovrige-bestemmelser/29/brv/gammel-vejledning/"
         target = "/ovrige-bestemmelser/29/brv/ny-vejledning/"
