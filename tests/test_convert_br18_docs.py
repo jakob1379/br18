@@ -31,6 +31,15 @@ class ConvertTest(unittest.TestCase):
 
         self.assertTrue(markdown.startswith('---\ntitle: "Adgangsforhold (§ 48 - § 62)"\n---\n\n'), markdown)
 
+    def test_origin_tab_bar_becomes_buttons_under_the_heading(self) -> None:
+        markdown = self.convert(
+            '<h1>Legepladser mv.</h1><nav class="nav-tab"><ul><li class="nav-tab__active"><span class="nav-tab__link ">Krav</span></li>'
+            '<li><a href="https://www.bygningsreglementet.dk/side/vejledninger/qa/" title="#Vejledning" class="nav-tab__link">Vejledning</a></li></ul></nav>'
+            "<p>Tekst.</p>"
+        )
+
+        self.assertIn("# Legepladser mv.\n\n[Krav](./){ .md-button .md-button--primary }\n[Vejledning](vejledninger/qa/){ .md-button }\n\nTekst.\n", markdown)
+
     def test_whitespace_only_emphasis_is_dropped(self) -> None:
         markdown = self.convert(
             "<p>Tekst<strong><em>&nbsp;</em></strong>slut</p>"

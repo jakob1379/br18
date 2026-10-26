@@ -22,6 +22,8 @@ QUERY_ALIAS_RE = re.compile(r"__q_[0-9a-f]+(?=\.[^.]+$)")
 TABLE_BLOCK_RE = re.compile(r"^<table\b[^>]*>$.*?^</table>$|^\|[^\n]*(?:\n\|[^\n]*)*", re.MULTILINE | re.DOTALL)
 TABLE_TOKEN_RE = re.compile(r"BR18TABLE(\d+)")
 DEV_LINK = r"https?://[^)\s]*\.dev\.local\b[^)\s]*"
+NAV_TAB_RE = re.compile(r'<nav class="nav-tab">(.*?)</nav>', re.DOTALL)
+TAB_RE = re.compile(r'<li( class="nav-tab__active")?>\s*(?:<a href="([^"]*)"[^>]*>|<span[^>]*>)(.*?)</(?:a|span)>', re.DOTALL)
 
 DROP_TAGS = {
     "footer",
@@ -730,6 +732,25 @@ def attach_anchor_reference_ids(markdown: str) -> str:
     return "\n".join(lines) + ("\n" if markdown.endswith("\n") else "")
 
 
+def tab_buttons(html_text: str, source_dir: Path, docs_root: Path) -> list[str]:
+    bar = NAV_TAB_RE.search(html_text)
+    buttons = []
+    for active, href, label in TAB_RE.findall(bar.group(1)) if bar else []:
+        target = "./" if active else rel_path_for_url(html.unescape(href), source_dir, docs_root)
+        if target is not None:
+            kind = " .md-button--primary" if active else ""
+            buttons.append(f"[{html.unescape(re.sub(r'<[^>]*>', '', label)).strip()}]({target}){{ .md-button{kind} }}")
+    return buttons
+
+
+def with_buttons(markdown: str, buttons: list[str]) -> str:
+    if not buttons:
+        return markdown
+    lines = markdown.split("\n")
+    at = next((i + 1 for i, line in enumerate(lines) if line.startswith("# ")), 0)
+    return "\n".join([*lines[:at], "", *buttons, "", *lines[at:]])
+
+
 def convert_file(path: Path, docs_root: Path, delete_html: bool) -> bool:
     output = output_path_for_html(path)
     if output is None:
@@ -777,7 +798,7 @@ def convert_file(path: Path, docs_root: Path, delete_html: bool) -> bool:
     markdown = markdown.replace(f' "{TRIGGER_TITLE}")', ")")
     markdown = re.sub(r"\[\]\(#[^)\s]*\)", "", markdown)
     markdown = re.sub(r"(?m)^#{1,6}[ \t ]*$", "", markdown)
-    markdown = re.sub(r"\n{3,}", "\n\n", markdown)
+    markdown = re.sub(r"\n{3,}", "\n\n", with_buttons(markdown, tab_buttons(html_text, path.parent, docs_root)).strip("\n"))
     if output.parent == path:
         if not delete_html:
             raise RuntimeError(f"cannot keep extensionless route HTML while writing {output}")
