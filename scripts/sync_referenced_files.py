@@ -64,7 +64,7 @@ def resolve_local_target(source: Path, docs_root: Path, target: str) -> tuple[Pa
             local_path = (source.parent / target_path).resolve()
         if not local_path.is_relative_to(docs_root):
             return None
-        origin_path = "/" + local_path.relative_to(docs_root).as_posix()
+        origin_path = "/" + QUERY_ALIAS_RE.sub("", local_path.relative_to(docs_root).as_posix())
         return local_path, urljoin(SITE, quote(origin_path, safe="/"))
 
     local_path = (docs_root / origin_path.lstrip("/")).resolve()

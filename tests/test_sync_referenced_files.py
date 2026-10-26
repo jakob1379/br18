@@ -97,6 +97,15 @@ class FileVersionsTest(unittest.TestCase):
         self.assertNotIn(("GET", "/media/a/skema.pdf"), origin.requests)
         self.assertIn("media/b/vejledning.pdf", result.stdout)
 
+    def test_file_saved_under_a_query_string_alias_is_checked_against_the_origin_file(self) -> None:
+        (self.docs / "side" / "index.md").write_text("# Side\n\n[Tabel](../media/c/tabel__q_01687ceb886b.xlsx)\n", encoding="utf-8")
+        self.local("media/c/tabel__q_01687ceb886b.xlsx", b"tabel")
+
+        result = self.check(FileOrigin({"/media/c/tabel.xlsx": (b"tabel", '"1"')}))
+
+        self.assertEqual(result.returncode, 0, result.stderr)
+        self.assertIn("media/c/tabel__q_01687ceb886b.xlsx", self.manifest.read_text(encoding="utf-8"))
+
     def test_file_the_origin_no_longer_serves_fails_the_check(self) -> None:
         result = self.check(FileOrigin({"/media/b/vejledning.pdf": (b"vejledning v1", '"1"')}))
 
