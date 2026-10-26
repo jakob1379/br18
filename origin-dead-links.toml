@@ -1,0 +1,5 @@
+# Links the origin itself gets wrong (404 there), mapped to the page the clone links instead (scripts/fix_broken_links.py).
+# Keys and values are docs-relative page directories.
+
+[dead_links]
+"tekniske-bestemmelser/02/vejledninger/parkering" = "tekniske-bestemmelser/20/vejledninger/parkering"
