@@ -44,17 +44,17 @@ Byggelovens overordnede formål er at sikre hensynet til sikkerhed og sundhed i 
 
 Byggeloven gælder ved opførelse og ved tilbygning til bebyggelse.
 
-Derudover følger det af § 2, stk. 1, at byggeloven finder anvendelse ved:
+Derudover følger det af [§ 2, stk. 1](../../../krav/#paragraf-2 "BR18 § 2"){ .br18-ref }, at byggeloven finder anvendelse ved:
 
 • Ombygning af og andre forandringer i bebyggelse, som er væsentlige i forhold til bestemmelser i loven eller de i medfør af loven udfærdigede bestemmelser.
 
 • Ændringer i benyttelse af bebyggelse, som er væsentlige i forhold til bestemmelser i loven eller de medfør af loven udfærdigede bestemmelser.
 
-Udgangspunktet i byggeloven er derfor, at både ombygningsarbejder og anvendelsesændringer kræver ansøgning om byggetilladelse, jf. byggelovens § 16, stk. 1. Der kan dog fastsættes regler om indskrænkning i kravene om tilladelser i bygningsreglementet, jf. byggelovens § 16 B, stk. 1. Denne hjemmel er blandt andet udnyttet i BR18 § 5, stk. 1, nr. 2-4, hvoraf det følger, at en række ombygningsarbejder kan foretages uden ansøgning om byggetilladelse.
+Udgangspunktet i byggeloven er derfor, at både ombygningsarbejder og anvendelsesændringer kræver ansøgning om byggetilladelse, jf. byggelovens [§ 16, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178#P16 "Byggeloven § 16"){ .br18-ref .br18-ref--ext }. Der kan dog fastsættes regler om indskrænkning i kravene om tilladelser i bygningsreglementet, jf. byggelovens [§ 16 B, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178#P16B "Byggeloven § 16B"){ .br18-ref .br18-ref--ext }. Denne hjemmel er blandt andet udnyttet i BR18 [§ 5, stk. 1, nr. 2-4](../../../krav/#paragraf-5 "BR18 § 5"){ .br18-ref }, hvoraf det følger, at en række ombygningsarbejder kan foretages uden ansøgning om byggetilladelse.
 
 Læs mere om dette nedenfor i afsnit 2.2.4 eller i [Vejledning om ombygninger](../../vejledning-om-ombygning-og-brug-af-certificerede-raadgivere/ "Vejledning om ombygning og brug af certificerede raadgivere")
 
-Ved en væsentlig anvendelsesændring, skal der ses isoleret på, hvilke krav anvendelsesændringen udløser. Det kan f.eks. være en ændring fra bolig til daginstitution, der bl.a. medfører skærpede krav til indeklima og brand. Ombygningsarbejder, der gennemføres udover dette, kan fortsat være undtaget fra byggesagsbehandlingen i medfør af BR18 § 5, ligesom der kan være ombygningsarbejder, der falder helt uden for byggelovens anvendelsesområde, fordi de ikke er væsentlige i forhold til bestemmelser i loven eller de i medfør af loven udfærdigede bestemmelser. Foretages der f.eks. ændringer i konstruktionen uden, at dette er et krav, der udløses af anvendelsesændringen, vil dette kunne være undtaget fra byggesagsbehandlingen.
+Ved en væsentlig anvendelsesændring, skal der ses isoleret på, hvilke krav anvendelsesændringen udløser. Det kan f.eks. være en ændring fra bolig til daginstitution, der bl.a. medfører skærpede krav til indeklima og brand. Ombygningsarbejder, der gennemføres udover dette, kan fortsat være undtaget fra byggesagsbehandlingen i medfør af BR18 [§ 5](../../../krav/#paragraf-5 "BR18 § 5"){ .br18-ref }, ligesom der kan være ombygningsarbejder, der falder helt uden for byggelovens anvendelsesområde, fordi de ikke er væsentlige i forhold til bestemmelser i loven eller de i medfør af loven udfærdigede bestemmelser. Foretages der f.eks. ændringer i konstruktionen uden, at dette er et krav, der udløses af anvendelsesændringen, vil dette kunne være undtaget fra byggesagsbehandlingen.
 
 Loven finder også anvendelse ved nedrivning af bebyggelse, der behandles nedenfor i afsnit 10.
 

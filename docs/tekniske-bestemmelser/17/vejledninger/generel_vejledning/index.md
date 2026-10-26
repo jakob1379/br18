@@ -15,7 +15,7 @@
 
 ### Forord {#f8f28711-8be8-4539-ba26-9a8f0b1e4f41}
 
-Bygningsreglement 2018 indeholder bestemmelser vedrørende bygningers lydforhold. Disse bestemmelser findes i §§ 368 - §376 og har til formål at sikre, at bygninger har sundheds- og komfortmæssigt tilfredsstillende lydforhold set i forhold til bygningens eller rummenes anvendelse. Der findes derfor forskellige krav og vejledende værdier for forskellige bygnings- og rumtyper.
+Bygningsreglement 2018 indeholder bestemmelser vedrørende bygningers lydforhold. Disse bestemmelser findes i [§§ 368 - §376](../../krav/ "BR18 §§ 368-376"){ .br18-ref } og har til formål at sikre, at bygninger har sundheds- og komfortmæssigt tilfredsstillende lydforhold set i forhold til bygningens eller rummenes anvendelse. Der findes derfor forskellige krav og vejledende værdier for forskellige bygnings- og rumtyper.
 
 Bestemmelserne om lydforhold er udformet som funktionskrav, hvor kravene beskriver, hvilke funktioner og hensyn der skal være opfyldt, og der er angivet en række grænseværdier for boliger, undervisningsbygninger og daginstitutions­bygninger. Disse grænseværdier kan betragtes som en nedre grænse for nye bygningers akustiske kvalitet. Andre værdier end de anførte grænseværdier kan også benyttes, såfremt det kan eftervises, at der opnås et tilsvarende eller et bedre kvalitetsniveau for det akustiske indeklima.
 
@@ -67,7 +67,7 @@ DS 490 Lydklassifikation af boliger indeholder også grænseværdier for boliger
 
 Funktionskravet for boliger for støj indendørs i beboelsesrum fra tekniske installationer i erhvervsenheder i samme bygning anses for opfyldt, når støjniveauet ikke overstiger værdier svarende til de vejledende grænseværdier i [tabel 2.3](../boliger/stoej-fra-tekniske-installationer-i-boliger/ "Stoej fra tekniske installationer i boliger") nedenfor.
 
-Funktionskravet for støj udendørs fra tekniske installationer (§ 371) anses for opfyldt, når støjniveauet ikke overstiger værdier svarende til de vejledende grænseværdier i [tabel 2.3](../boliger/stoej-fra-tekniske-installationer-i-boliger/ "Stoej fra tekniske installationer i boliger") nedenfor. Grænseværdierne gælder på egen grund samt for naboejendomme. Bestemmelsen gælder også ved sammenbyggede enfamiliehuse og etageboligbebyggelser, hvor den ikke kun gælder ved den til installationen tilknyttede bolig, men også ved naboboliger.
+Funktionskravet for støj udendørs fra tekniske installationer ([§ 371](../../krav/#paragraf-371 "BR18 § 371"){ .br18-ref }) anses for opfyldt, når støjniveauet ikke overstiger værdier svarende til de vejledende grænseværdier i [tabel 2.3](../boliger/stoej-fra-tekniske-installationer-i-boliger/ "Stoej fra tekniske installationer i boliger") nedenfor. Grænseværdierne gælder på egen grund samt for naboejendomme. Bestemmelsen gælder også ved sammenbyggede enfamiliehuse og etageboligbebyggelser, hvor den ikke kun gælder ved den til installationen tilknyttede bolig, men også ved naboboliger.
 
 I forbindelse med støj fra tekniske installationer refereres der i bygningsreglementet til rekreative arealer. Ved rekreative arealer forstås i denne sammenhæng primært udendørs opholdsarealer som altaner, terrasser, tagterrasser og siddepladser, men ikke gangarealer, trapper, bede og beplantninger mv.
 

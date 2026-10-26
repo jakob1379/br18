@@ -86,15 +86,15 @@
 
 ### 5. Anvendelse af anerkendte statikere i konstruktionsklasse 2-4 indtil 1. januar 2022 {#e836c484-aa8a-4d55-884b-6af643804e2d}
 
-For byggearbejder i konstruktionsklasse 2- 4 kan der benyttes en anerkendt statiker indtil den 1. januar 2022. Reglerne om anvendelse af anerkendte statikere findes i §§ 24-29, der er en fortsættelse af gældende regler om anvendelse af anerkendte statikere, dog med den ændring, at der ikke foretages en teknisk byggesagsbehandling. Ordningen er udvidet til også at dække byggerier i middel og høj konsekvensklasse (CC2, CC3 og CC4), dog kun byggerier, der henregnes til konstruktionsklasse 2-4. Dokumentationen skal udarbejdes og kontrolleres i overensstemmelse med SBi-anvisning 223.
+For byggearbejder i konstruktionsklasse 2- 4 kan der benyttes en anerkendt statiker indtil den 1. januar 2022. Reglerne om anvendelse af anerkendte statikere findes i [§§ 24-29](../../../krav/#paragraf-24 "BR18 §§ 24-29"){ .br18-ref }, der er en fortsættelse af gældende regler om anvendelse af anerkendte statikere, dog med den ændring, at der ikke foretages en teknisk byggesagsbehandling. Ordningen er udvidet til også at dække byggerier i middel og høj konsekvensklasse (CC2, CC3 og CC4), dog kun byggerier, der henregnes til konstruktionsklasse 2-4. Dokumentationen skal udarbejdes og kontrolleres i overensstemmelse med SBi-anvisning 223.
 
-Det følger bl.a. af § 25, stk. 1, hvilken dokumentation, der skal indsendes ved ansøgning om byggetilladelse, når der benyttes en anerkendt statiker.
+Det følger bl.a. af [§ 25, stk. 1](../../../krav/#paragraf-25 "BR18 § 25"){ .br18-ref }, hvilken dokumentation, der skal indsendes ved ansøgning om byggetilladelse, når der benyttes en anerkendt statiker.
 
 Kommunalbestyrelsens opgave i forhold til de anerkendte statikere i overgangsperioden, er det samme som kommunalbestyrelsens opgave i forhold til de certificerede statikere.
 
-Ansøgeren skal udpege en bygværksprojekterende, jf. § 24, stk. 2. Den bygværksprojekterende skal samle og koordinere den statiske dokumentation ved at udføre nedenstående opgaver. Der er i § 24 stk. 2, henvist til kapitel 31 for en præcisering af, hvorledes den bygværksprojekterende skal samle og koordinere den statiske dokumentation. Kapitel 31 er ophævet pr. 1. januar 2021 og i stedet kan nedenstående anvendes.
+Ansøgeren skal udpege en bygværksprojekterende, jf. [§ 24, stk. 2](../../../krav/#paragraf-24 "BR18 § 24"){ .br18-ref }. Den bygværksprojekterende skal samle og koordinere den statiske dokumentation ved at udføre nedenstående opgaver. Der er i [§ 24 stk. 2](../../../krav/#paragraf-24 "BR18 § 24"){ .br18-ref }, henvist til kapitel 31 for en præcisering af, hvorledes den bygværksprojekterende skal samle og koordinere den statiske dokumentation. Kapitel 31 er ophævet pr. 1. januar 2021 og i stedet kan nedenstående anvendes.
 
-Nedenfor præciseres den bygværksprojekterendes rolle i henhold til § 24, stk. 2.
+Nedenfor præciseres den bygværksprojekterendes rolle i henhold til [§ 24, stk. 2](../../../krav/#paragraf-24 "BR18 § 24"){ .br18-ref }.
 
 Der kan kun være én bygværksprojekterende tilknyttet en byggesag.
 

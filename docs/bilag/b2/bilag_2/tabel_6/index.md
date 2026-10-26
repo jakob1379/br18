@@ -26,7 +26,7 @@
 
 Dette bilag beskriver, hvilke bygningsdele der skal indgå i beregningen af bygningers klimapåvirkning.
 
-Værdierne i tabel 6 afgrænser hvilke dele af byggeriet, der indgår i beregningen, jf. § 297, stk. 6. Bygningsdele, der ikke er nævnt, indgår ikke.
+Værdierne i tabel 6 afgrænser hvilke dele af byggeriet, der indgår i beregningen, jf. [§ 297, stk. 6](../../../../tekniske-bestemmelser/11/krav/#paragraf-297 "BR18 § 297"){ .br18-ref }. Bygningsdele, der ikke er nævnt, indgår ikke.
 
 Tabellen indeholder desuden detaljerede linjer for forskellige typer af konstruktioner eller installationer.
 
@@ -52,7 +52,7 @@ Brandlukninger, recesser, rørgennemføringer og andre former for lukninger af u
 
 Ved rør eller ledninger til de tekniske installationer medregnes kun de lige strækninger og ikke bøjninger.
 
-Hvor det af tabel 6 fremgår ”eventuelt som mængde råmateriale” i kolonnen for Detaljeringsniveau, kan bygningsdelen opgøres ved at antage, at hele bygningsdelen består af det materiale, som er tilstede i størst omfang i bygningsdelen, og beskrives ved den klimapåvirkning for materialet, som fremgår af bilag 2, tabel 7.
+Hvor det af tabel 6 fremgår ”eventuelt som mængde råmateriale” i kolonnen for Detaljeringsniveau, kan bygningsdelen opgøres ved at antage, at hele bygningsdelen består af det materiale, som er tilstede i størst omfang i bygningsdelen, og beskrives ved den klimapåvirkning for materialet, som fremgår af [bilag 2, tabel 7](#4f10dbac-ba91-4bad-9f1e-2b7054ec8547 "BR18 bilag 2, tabel 7"){ .br18-ref }.
 
 ***Råhuse***
 

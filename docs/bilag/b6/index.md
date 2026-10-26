@@ -82,9 +82,9 @@ Den brandtekniske dokumentation skal omfatte den dokumentation, der var krav om 
 
 7) Redegørelse for drift, kontrol og vedligehold til sikring af, at brandsikkerheden opretholdes i bygningsafsnit omfattet af lovliggørelsen. Herunder også pladsfordelingsplaner, belægningsplaner, Ordensregler, Brand- og evakueringsinstruks, Driftsjournal, Opslag mv., hvor brugen af bygningsafsnit eller lokaler, omfattet af lovliggørelsen, medfører krav herom. Hvor der er krav om Drifts-, kontrol- og vedligeholdelsesplan skal denne udarbejdes med samme indhold som i [kapitel 7](/tekniske-bestemmelser/07/): Drift-, kontrol- og vedligehold af brandforhold i og ved bygninger i Bygningsreglementets vejledning til [kapitel 5](/tekniske-bestemmelser/05/) - Brand.
 
-8) Brandteknisk kontrolplan for lovliggørelsen, med det indhold, der fremgår af § 518 og afsnit 1.2.
+8) Brandteknisk kontrolplan for lovliggørelsen, med det indhold, der fremgår af [§ 518](../../ovrige-bestemmelser/29/krav/#paragraf-518 "BR18 § 518"){ .br18-ref } og afsnit 1.2.
 
-9) Brandteknisk kontrolrapport for lovliggørelsen, med det indhold, der fremgår af § 519 og afsnit 1.2.
+9) Brandteknisk kontrolrapport for lovliggørelsen, med det indhold, der fremgår af [§ 519](../../ovrige-bestemmelser/29/krav/#paragraf-519 "BR18 § 519"){ .br18-ref } og afsnit 1.2.
 
 ### Afsnit 1.2. : Kontrol af dokumentation for og udførelse af brandforhold
 
@@ -100,9 +100,9 @@ Kontrol af dokumentation for brandforhold og udførelse af brandsikringstiltag s
 
 Den certificerede brandrådgivers virke skal ske, jf. [kapitel 32](/ovrige-bestemmelser/32/) og 34, med følgende ændringer:
 
-Henvisningen til [kapitel 28](/ovrige-bestemmelser/28/)-30 i § 534 erstattes af henvisning til afsnit 1.1 og 1.2.  
-§ 531 finder ikke anvendelse, i stedet gælder: For lovliggørelsessager for byggeri i brandklasse 2-4 skal den certificerede brandrådgiver gennem sit virke, jf. [kapitel 32](/ovrige-bestemmelser/32/) og 34, sikre, at byggeriet er i overensstemmelse med den regulering for brandforhold, der anvendes for lovliggørelsen samt sikre, at dokumentation herfor er fyldestgørende, opfylder sit formål og er kontrolleret, jf. [kapitel 30](/ovrige-bestemmelser/30/), med ændringer, jf. afsnit 1.2.  
-§ 548 finder ikke anvendelse, i stedet gælder:
+Henvisningen til [kapitel 28](/ovrige-bestemmelser/28/)-30 i [§ 534](../../ovrige-bestemmelser/32/krav/#paragraf-534 "BR18 § 534"){ .br18-ref } erstattes af henvisning til afsnit 1.1 og 1.2.  
+[§ 531](../../ovrige-bestemmelser/32/krav/#paragraf-531 "BR18 § 531"){ .br18-ref } finder ikke anvendelse, i stedet gælder: For lovliggørelsessager for byggeri i brandklasse 2-4 skal den certificerede brandrådgiver gennem sit virke, jf. [kapitel 32](/ovrige-bestemmelser/32/) og 34, sikre, at byggeriet er i overensstemmelse med den regulering for brandforhold, der anvendes for lovliggørelsen samt sikre, at dokumentation herfor er fyldestgørende, opfylder sit formål og er kontrolleret, jf. [kapitel 30](/ovrige-bestemmelser/30/), med ændringer, jf. afsnit 1.2.  
+[§ 548](../../ovrige-bestemmelser/34/krav/#paragraf-548 "BR18 § 548"){ .br18-ref } finder ikke anvendelse, i stedet gælder:
 
 Den certificerede brandrådgivers virke ved lovliggørelse af byggeri omfatter som minimum, at:
 

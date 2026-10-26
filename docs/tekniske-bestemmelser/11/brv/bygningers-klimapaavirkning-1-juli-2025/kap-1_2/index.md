@@ -28,7 +28,7 @@ I en livscyklusvurdering (Life Cycle Assessment, LCA) af en bygning opgøres byg
 
 Til beregning af klimapåvirkningen skal der tages udgangspunkt i de beregningsprincipper, som fremgår af standarden DS/EN15978:2012 ”Bæredygtighed inden for byggeri og anlæg - Vurdering af bygningers miljømæssige kvalitet – Beregningsmetode”.
 
-Standarden DS/EN15978:2012 skal følges med de præciseringer, der fremgår af § 297. Det vil sige, at:
+Standarden DS/EN15978:2012 skal følges med de præciseringer, der fremgår af [§ 297](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref }. Det vil sige, at:
 
 ·         modulerne og betragtningsperioden som defineret i stk. 4
 
@@ -44,13 +44,13 @@ Standarden DS/EN15978:2012 skal følges med de præciseringer, der fremgår af �
 
 Ifølge standarden er bygningers livscyklus opdelt i forskellige faser, som igen er opdelt i moduler.
 
-Figur 2.1 og figur 2.2 viser samtlige livscyklusfaser og -moduler, der indgår i en LCA-beregning ifølge standarden EN15978. Ikke alle moduler i en LCA-beregning skal opgøres og dokumenteres ved overholdelse af kravet i bygningsreglementet § 297.
+Figur 2.1 og figur 2.2 viser samtlige livscyklusfaser og -moduler, der indgår i en LCA-beregning ifølge standarden EN15978. Ikke alle moduler i en LCA-beregning skal opgøres og dokumenteres ved overholdelse af kravet i bygningsreglementet [§ 297](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref }.
 
-De moduler, som skal medregnes og dokumenteres, jf. kravet i bygningsreglementet, omfatter A1-A5, B4, B6, C3-C4 og D. De moduler, der skal medregnes, er markeret med grøn tekst i figur 2.1. De moduler, der ikke skal medtages, er markeret med gråt og parentes. Modul D angiver de potentielle klimamæssige gevinster eller belastninger, som kan forekomme. Klimapåvirkningerne fra modul D skal medtages i beregningen, jf. § 297, men skal ikke indgå i overholdelse af grænseværdien jf. § 298.
+De moduler, som skal medregnes og dokumenteres, jf. kravet i bygningsreglementet, omfatter A1-A5, B4, B6, C3-C4 og D. De moduler, der skal medregnes, er markeret med grøn tekst i figur 2.1. De moduler, der ikke skal medtages, er markeret med gråt og parentes. Modul D angiver de potentielle klimamæssige gevinster eller belastninger, som kan forekomme. Klimapåvirkningerne fra modul D skal medtages i beregningen, jf. [§ 297](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref }, men skal ikke indgå i overholdelse af grænseværdien jf. [§ 298](../../../krav/#paragraf-298 "BR18 § 298"){ .br18-ref }.
 
 ![](../../../../../media/bjcpn0rk/vejledning_figur-21-opdatering-2025.png){width="500" height="452"}
 
-***Figur 2.1:** Grafisk illustration af bygningens livscyklus iht. EN15978. De moduler og faser, der indgår i beregningen, jf. § 297, er fremhævet med grøn skrift. Moduler, der ikke indgår, er markeret med grå skrift og parentes.*
+***Figur 2.1:** Grafisk illustration af bygningens livscyklus iht. EN15978. De moduler og faser, der indgår i beregningen, jf. [§ 297](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref }, er fremhævet med grøn skrift. Moduler, der ikke indgår, er markeret med grå skrift og parentes.*
 
 Figur 2.2 understøtter figur 2.1 på en alternativ grafisk måde. Det, der fremgår som ”uden for projektet”/”udenfor systemgrænsen”, angiver de potentielle klimamæssige gevinster (modul D), som for eksempel kan forekomme efter bygningens levetid.
 
@@ -58,7 +58,7 @@ Figur 2.2 understøtter figur 2.1 på en alternativ grafisk måde. Det, der frem
 
 ***Figur 2.2:** Oversigt over moduler og faser i en bygnings LCA, jf. EN15978. Modulerne A1-A3, A4-A5, B4, B6, C3-C4 og D skal dokumenteres, jf. [§ 297 (nyt vindue)](../../../krav/297_298/ "297_298"){rel="noopener" target="_blank"}.*
 
-I tabel 2.1 fremgår de moduler, der indgår i beregningen med en forklaring på, hvad de enkelte moduler indeholder. Det datagrundlag, der skal anvendes til beregning af klimapåvirkningen, er allerede opdelt på de moduler, der fremgår af tabellen. I forhold til dokumentation af overholdelse af grænseværdien er det derfor ikke nødvendigt at forholde sig konkret til de enkelte moduler i forbindelse med beregningen, dog med undtagelse af modul A4-A5, som har en selvstændig grænseværdi jf. § 298, stk. 5 (se i øvrigt nærmere i vejledning: § 297, stk. 7-8, Datagrundlag)
+I tabel 2.1 fremgår de moduler, der indgår i beregningen med en forklaring på, hvad de enkelte moduler indeholder. Det datagrundlag, der skal anvendes til beregning af klimapåvirkningen, er allerede opdelt på de moduler, der fremgår af tabellen. I forhold til dokumentation af overholdelse af grænseværdien er det derfor ikke nødvendigt at forholde sig konkret til de enkelte moduler i forbindelse med beregningen, dog med undtagelse af modul A4-A5, som har en selvstændig grænseværdi jf. [§ 298, stk. 5](../../../krav/#paragraf-298 "BR18 § 298"){ .br18-ref } (se i øvrigt nærmere i vejledning: [§ 297, stk. 7-8](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref }, Datagrundlag)
 
 <table data-border="1" data-cellspacing="0" data-cellpadding="0">
 <tbody>
@@ -125,9 +125,9 @@ I tabel 2.1 fremgår de moduler, der indgår i beregningen med en forklaring på
 </tbody>
 </table>
 
-***Tabel 2.1:** Oversigt og beskrivelse af de moduler, der skal indgå i beregning af klimapåvirkningen jf. § 297*
+***Tabel 2.1:** Oversigt og beskrivelse af de moduler, der skal indgå i beregning af klimapåvirkningen jf. [§ 297](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref }*
 
-Da modul D ifølge standard EN15978 er udenfor projektet, opgøres modul D separat fra den øvrige opgørelse, jf. § 297. I forbindelse med overholdelse af grænseværdien, jf. § 298, medregnes modul D ikke. Se yderligere vejledning til § 298, stk. 1.
+Da modul D ifølge standard EN15978 er udenfor projektet, opgøres modul D separat fra den øvrige opgørelse, jf. [§ 297](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref }. I forbindelse med overholdelse af grænseværdien, jf. [§ 298](../../../krav/#paragraf-298 "BR18 § 298"){ .br18-ref }, medregnes modul D ikke. Se yderligere vejledning til [§ 298, stk. 1](../../../krav/#paragraf-298 "BR18 § 298"){ .br18-ref }.
 
 #### **1.2.3    Betragtningsperioden**
 
@@ -141,13 +141,13 @@ Alle moduler i tabel 2.1 skal medtages i beregningen, også selvom bygningen ell
 
 Klimapåvirkninger opgøres i enheden kg CO~2~-ækvivalenter pr. m^2^ pr. år.
 
-CO~2~-ækvivalenter er en samlet betegnelse for effekten af alle drivhusgasarter omregnet til en fælles enhed. De data, der skal anvendes i beregningen af klimapåvirkning, fremgår af [BR18, bilag 2 (nyt vindue)](../../../../../bilag/b2/bilag_2/ "Bilag_2"){rel="noopener" target="_blank"}. Data er opgjort samlet i Global Warming Potential (GWP) i enheden CO2-ækvivalenter. Den samlede klimapåvirkning skal i beregningen sættes i forhold til den konkrete bygnings referenceareal og opvarmede etageareal, som beregnes iht. § 297 stk. 5 og § 256, nr. 3 og betragtningsperioden på 50 år.
+CO~2~-ækvivalenter er en samlet betegnelse for effekten af alle drivhusgasarter omregnet til en fælles enhed. De data, der skal anvendes i beregningen af klimapåvirkning, fremgår af [BR18, bilag 2 (nyt vindue)](../../../../../bilag/b2/bilag_2/ "Bilag_2"){rel="noopener" target="_blank"}. Data er opgjort samlet i Global Warming Potential (GWP) i enheden CO2-ækvivalenter. Den samlede klimapåvirkning skal i beregningen sættes i forhold til den konkrete bygnings referenceareal og opvarmede etageareal, som beregnes iht. [§ 297 stk. 5](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref } og [§ 256, nr. 3](../../../krav/#paragraf-256 "BR18 § 256"){ .br18-ref } og betragtningsperioden på 50 år.
 
 Den beregnede klimapåvirkning for materialeforbrug og driftsenergi kan fordeles ud på hhv. referenceareal og opvarmet etageareal, jf. følgende formel:
 
 ((A1 + A2 + A3 + B4 + C3 + C4) / (A~*ref*~ \* 50 år)) + (B6 / (A~*opv*~ \* 50 år))
 
-Hvor A1 angiver modul A1, A2 angiver modul A2 osv., A*~ref~* angiver referencearealet beregnet iht. § 297, stk. 5 (se vejledningen til dette stk.), og A*~opv~* angiver det opvarmede etageareal beregnet iht. § 256, nr. 3.
+Hvor A1 angiver modul A1, A2 angiver modul A2 osv., A*~ref~* angiver referencearealet beregnet iht. [§ 297, stk. 5](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref } (se vejledningen til dette stk.), og A*~opv~* angiver det opvarmede etageareal beregnet iht. [§ 256, nr. 3](../../../krav/#paragraf-256 "BR18 § 256"){ .br18-ref }.
 
 Den beregnede klimapåvirkning for byggeprocessen kan fordeles ud på referenceareal jf. følgende formel:
 

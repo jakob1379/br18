@@ -38,7 +38,7 @@ Der skal gennemføres funktionsafprøvning af ventilationssystemer. Funktionsafp
 
 >
 
-samt at eventuel behovsstyring fungerer efter hensigten.   For så vidt angår naturlige og hybride ventilationssystemer skal funktionsafprøvningen dokumentere at systemerne er udført og fungerer efter hensigten. Ifølge bygningsreglementet §421, skal ventilationssystemer projekteres og udføres som anvist i DS 447, Ventilation i bygninger – Mekaniske, naturlige og hybride ventilationssystemer. Vejledning om funktionsafprøvning af ventilationssystemer er derfor baseret på kravene i såvel bygningsreglementet som i DS 447.
+samt at eventuel behovsstyring fungerer efter hensigten.   For så vidt angår naturlige og hybride ventilationssystemer skal funktionsafprøvningen dokumentere at systemerne er udført og fungerer efter hensigten. Ifølge bygningsreglementet [§421](../../../../22/krav/#paragraf-421 "BR18 § 421"){ .br18-ref }, skal ventilationssystemer projekteres og udføres som anvist i DS 447, Ventilation i bygninger – Mekaniske, naturlige og hybride ventilationssystemer. Vejledning om funktionsafprøvning af ventilationssystemer er derfor baseret på kravene i såvel bygningsreglementet som i DS 447.
 
 ### 2.1 Relevante standarder {#089edcda-2abb-44a6-8e78-47277dfe7e1f}
 

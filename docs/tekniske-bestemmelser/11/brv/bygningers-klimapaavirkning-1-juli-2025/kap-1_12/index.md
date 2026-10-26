@@ -60,11 +60,11 @@
 
 Formålet med at fastsætte en grænseværdi er at begrænse klimapåvirkningen gennem bygningens livscyklus ved opførelsen af nye bygninger.
 
-Det er kun bygninger, der er omfattet af § 297, som skal overholde en grænseværdi. Beregningen foretages på baggrund af § 297, med de justeringer, der fremgår af § 298, stk. 7-8.
+Det er kun bygninger, der er omfattet af [§ 297](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref }, som skal overholde en grænseværdi. Beregningen foretages på baggrund af [§ 297](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref }, med de justeringer, der fremgår af [§ 298, stk. 7-8](../../../krav/#paragraf-298 "BR18 § 298"){ .br18-ref }.
 
-Grænseværdierne er differentierede på baggrund af bygningstyper, jf. § 298 stk. 1.
+Grænseværdierne er differentierede på baggrund af bygningstyper, jf. [§ 298 stk. 1](../../../krav/#paragraf-298 "BR18 § 298"){ .br18-ref }.
 
-Der er to grænseværdier, man skal forholde sig til. Den ene grænseværdi (for bygninger) er differentieret på baggrund af bygningstype, jf. § 298, stk. 1, og omfatter modulerne A1-A3, B4, B6 og C3-C4 samlet set. Den anden grænseværdi (for byggeprocessen) er fastsat til 1,5 kg CO2-ækvivalenter pr. m2 pr. år for alle bygningstyper og omfatter modulerne A4-A5 jf. § 298 stk. 5.
+Der er to grænseværdier, man skal forholde sig til. Den ene grænseværdi (for bygninger) er differentieret på baggrund af bygningstype, jf. [§ 298, stk. 1](../../../krav/#paragraf-298 "BR18 § 298"){ .br18-ref }, og omfatter modulerne A1-A3, B4, B6 og C3-C4 samlet set. Den anden grænseværdi (for byggeprocessen) er fastsat til 1,5 kg CO2-ækvivalenter pr. m2 pr. år for alle bygningstyper og omfatter modulerne A4-A5 jf. [§ 298 stk. 5](../../../krav/#paragraf-298 "BR18 § 298"){ .br18-ref }.
 
 For den differentierede grænseværdi, skal den konkrete bygning overholde den grænseværdi der gælder for den bygningstype, der opføres.
 
@@ -84,13 +84,13 @@ Som udgangspunkt vil fællesarealer i tilknytning til beboelse være at anse for
 
 Derimod kan (særskilte) administrative bygninger, fx plejepersonales kontorer og pauselokaler, ofte ikke anses for beboelse men må kategoriseres som øvrigt.
 
-Derimellem kan opstå en række situationer, hvor det kan være op til en konkret vurdering at tage stilling til, om en kantine udgør en del af beboelsen eller er et selvstændigt areal som må kategoriseres som andet. Såfremt det er tilfældet, og fx kantineområdet kategoriseres som andet men samtidig er del af den samme fysiske bygning som beboelsesområdet, må der foretages en arealvægtet beregning for at finde bygningens grænseværdi, jf. § 298 stk. 4.
+Derimellem kan opstå en række situationer, hvor det kan være op til en konkret vurdering at tage stilling til, om en kantine udgør en del af beboelsen eller er et selvstændigt areal som må kategoriseres som andet. Såfremt det er tilfældet, og fx kantineområdet kategoriseres som andet men samtidig er del af den samme fysiske bygning som beboelsesområdet, må der foretages en arealvægtet beregning for at finde bygningens grænseværdi, jf. [§ 298 stk. 4](../../../krav/#paragraf-298 "BR18 § 298"){ .br18-ref }.
 
-For bygninger der har særlige forhold eller tillæg til energirammen, medfører det, at der skal dokumenteres to beregninger af bygningens klimapåvirkning – en samlet beregning, jf. § 297, og en samlet beregning, jf. § 298.
+For bygninger der har særlige forhold eller tillæg til energirammen, medfører det, at der skal dokumenteres to beregninger af bygningens klimapåvirkning – en samlet beregning, jf. [§ 297](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref }, og en samlet beregning, jf. [§ 298](../../../krav/#paragraf-298 "BR18 § 298"){ .br18-ref }.
 
 Grænseværdien er angivet med én decimal i bestemmelsen. Det betyder, at fx et resultat på 6,73 for et rækkehus vil holde sig inden for grænseværdien, da der afrundes til 6,7.
 
-Dokumentationen skal følge kravene, jf. § 40. [Se Vejledning om dokumentation af bygningsreglementets tekniske bestemmelser i forbindelse med færdigmelding af byggeriet (nyt vindue).](../../../../../administrative-bestemmelser/brv/dokumentationsvejledning/dokumentationsvejledning/){rel="noopener" target="_blank"}
+Dokumentationen skal følge kravene, jf. [§ 40](../../../../../administrative-bestemmelser/krav/#paragraf-40 "BR18 § 40"){ .br18-ref }. [Se Vejledning om dokumentation af bygningsreglementets tekniske bestemmelser i forbindelse med færdigmelding af byggeriet (nyt vindue).](../../../../../administrative-bestemmelser/brv/dokumentationsvejledning/dokumentationsvejledning/){rel="noopener" target="_blank"}
 
 Der kan med fordel udarbejdes beregninger for byggeriet fra de tidlige designfaser, så risikoen for overskridelse minimeres.
 

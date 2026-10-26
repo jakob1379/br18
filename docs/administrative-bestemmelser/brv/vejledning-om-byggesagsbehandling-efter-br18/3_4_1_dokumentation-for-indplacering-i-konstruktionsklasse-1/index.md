@@ -64,7 +64,7 @@
 
 ### 3.4.1. Dokumentation for indplacering i konstruktionsklasse 1 {#6a4b5c52-9b10-4fac-abdc-fe0626d04b42}
 
-Dokumentation for indplacering i konstruktionsklasse 1 skal følge § 503. Det følger heraf, at dokumentationen skal indeholde grundlaget for indplaceringen, men dokumentationens indhold er ikke nærmere udspecificeret. Grundlaget for indplacering i konstruktionsklasse betragtes som konstruktionens kompleksitet og konsekvensklasse (CC), samt erfaringen med konstruktionstypen.
+Dokumentation for indplacering i konstruktionsklasse 1 skal følge [§ 503](../../../../ovrige-bestemmelser/28/krav/#paragraf-503 "BR18 § 503"){ .br18-ref }. Det følger heraf, at dokumentationen skal indeholde grundlaget for indplaceringen, men dokumentationens indhold er ikke nærmere udspecificeret. Grundlaget for indplacering i konstruktionsklasse betragtes som konstruktionens kompleksitet og konsekvensklasse (CC), samt erfaringen med konstruktionstypen.
 
 Byggeri, der er indplaceret i konsekvensklasse 1 (CC1) skal ligeledes indplaceres i konstruktionsklasse 1. Derudover er der en række simple og traditionelle konstruktioner i konsekvensklasse 2 (CC2), der også betragtes som konstruktionsklasse 1, herunder bl.a. enfamiliehuse.
 

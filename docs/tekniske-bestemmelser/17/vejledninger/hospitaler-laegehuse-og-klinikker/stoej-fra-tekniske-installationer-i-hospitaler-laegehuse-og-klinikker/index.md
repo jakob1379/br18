@@ -27,7 +27,7 @@
 
 ### 6.3 Støj fra tekniske installationer {#604f2261-6385-420f-95be-82ffe076bed8}
 
-Tabel 6.3 indeholder forslag til projekteringsværdier for støj fra tekniske installationer i hospitaler svarende til overholdelse af BR18’s generelle bestemmelse i § 368, stk. 1 om at ”*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen”,* samt supplerende vejledende grænseværdier for lavfrekvent støj og infralyd.
+Tabel 6.3 indeholder forslag til projekteringsværdier for støj fra tekniske installationer i hospitaler svarende til overholdelse af BR18’s generelle bestemmelse i [§ 368, stk. 1](../../../krav/#d020db69-f4ce-4cb5-84ee-a507a2630908 "BR18 § 368"){ .br18-ref } om at ”*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen”,* samt supplerende vejledende grænseværdier for lavfrekvent støj og infralyd.
 
 <table>
 <colgroup>

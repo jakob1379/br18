@@ -44,13 +44,13 @@ En ombygning indebærer som udgangspunkt, at der sker ændringer inden for de ek
 
 Ombygninger og andre forandringer kræver som udgangspunkt byggetilladelse fra kommunen, hvis de er omfattet af bygningsreglementet (BR18). BR18 indeholder dog en række administrative bestemmelser for ombygninger og andre forandringer, der, hvis overholdt, gør, at de kan udføres uden byggetilladelse.
 
-Det fremgår f.eks. af BR18, § 5, stk. 1, nr. 3, at ombygninger og andre forandringer af enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse kan opføres uden ansøgning om byggetilladelse såfremt de:
+Det fremgår f.eks. af BR18, [§ 5, stk. 1, nr. 3](../../krav/#paragraf-5 "BR18 § 5"){ .br18-ref }, at ombygninger og andre forandringer af enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse kan opføres uden ansøgning om byggetilladelse såfremt de:
 
 \- ikke medfører en udvidelse af etagearealet eller
 
 \- ikke medfører en væsentlig anvendelsesændring.
 
-Derudover fremgår det af BR18, § 5, stk. 1, nr. 4, at ombygninger og andre forandringer af bl.a. etageboligbyggeri kan opføres uden ansøgning om byggetilladelse såfremt de:
+Derudover fremgår det af BR18, [§ 5, stk. 1, nr. 4](../../krav/#paragraf-5 "BR18 § 5"){ .br18-ref }, at ombygninger og andre forandringer af bl.a. etageboligbyggeri kan opføres uden ansøgning om byggetilladelse såfremt de:
 
 \- ikke ændrer i de bærende konstruktioners virkemåde,
 
@@ -60,7 +60,7 @@ Derudover fremgår det af BR18, § 5, stk. 1, nr. 4, at ombygninger og andre for
 
 \- ikke medfører en væsentlig anvendelsesændring.
 
-Ved ombygninger og andre forandringer, der gør, at byggeriet ikke overholder byggeretten i BR18, kapitel 8, skal kommunen foretage en helhedsvurdering af byggeriet. I så fald kræver ombygningen eller forandringen under alle omstændigheder byggetilladelse. Byggeretten er nærmere beskrevet i [*Vejledning om bygningsreglementets kapitel 8 - byggeret og helhedsvurdering, kapitel 20 - ubebyggede arealer ved bebyggelse og kapitel 23 - beregningsregler.*](../../../media/5z1m5wzd/vejledning-om-br18-kap-8-byggeret-og-helhedsvurdering-beregningsreglerne-kap-23-1720.pdf)
+Ved ombygninger og andre forandringer, der gør, at byggeriet ikke overholder byggeretten i BR18, [kapitel 8](../../../tekniske-bestemmelser/08/krav/ "BR18 kapitel 8"){ .br18-ref }, skal kommunen foretage en helhedsvurdering af byggeriet. I så fald kræver ombygningen eller forandringen under alle omstændigheder byggetilladelse. Byggeretten er nærmere beskrevet i [*Vejledning om bygningsreglementets kapitel 8 - byggeret og helhedsvurdering, kapitel 20 - ubebyggede arealer ved bebyggelse og kapitel 23 - beregningsregler.*](../../../media/5z1m5wzd/vejledning-om-br18-kap-8-byggeret-og-helhedsvurdering-beregningsreglerne-kap-23-1720.pdf)
 
 Ombygninger og andre forandringer kan også ændre i forhold, der er reguleret af en lokalplan eller lignende som kommunen først skal godkende.
 
@@ -68,7 +68,7 @@ I nedenstående afsnit er de forskellige elementer i bygningsreglementets ombygn
 
 ### 1.1.1 Ændring af de bærende konstruktioners virkemåde
 
-Ombygninger og andre forandringer omfattet af BR18, § 5, stk. 1 nr. 4, må ikke medføre ændringer af de bærende konstruktioners virkemåde eller indføre nye bærende konstruktioner. Hvordan dette vurderes er nærmere beskrevet i bygningsreglementets *[vejledning om ombygninger og brug af certificerede rådgivere.](../vejledning-om-ombygning-og-brug-af-certificerede-raadgivere/)*
+Ombygninger og andre forandringer omfattet af BR18, [§ 5, stk. 1 nr. 4](../../krav/#paragraf-5 "BR18 § 5"){ .br18-ref }, må ikke medføre ændringer af de bærende konstruktioners virkemåde eller indføre nye bærende konstruktioner. Hvordan dette vurderes er nærmere beskrevet i bygningsreglementets *[vejledning om ombygninger og brug af certificerede rådgivere.](../vejledning-om-ombygning-og-brug-af-certificerede-raadgivere/)*
 
 Vær opmærksom på, at nyt etagebyggeri kan være mere kompliceret end ældre etagebyggeri i forhold til at vurdere, hvorvidt de bærende konstruktioners virkemåde ændres.
 
@@ -76,17 +76,17 @@ Ved tvivl kan det være en fordel som bygningsejer at involvere en håndværker 
 
 ### 1.1.2 Ændring af forudsætningerne for de brandmæssige forhold
 
-Ombygninger og andre forandringer omfattet af BR18, § 5, stk. 1 nr. 4, må ikke medføre ændring af forudsætningerne for de brandmæssige forhold. Hvordan dette vurderes er nærmere beskrevet i bygningsreglementets *[vejledning om ombygninger og brug af certificerede rådgivere.](../vejledning-om-ombygning-og-brug-af-certificerede-raadgivere/)*
+Ombygninger og andre forandringer omfattet af BR18, [§ 5, stk. 1 nr. 4](../../krav/#paragraf-5 "BR18 § 5"){ .br18-ref }, må ikke medføre ændring af forudsætningerne for de brandmæssige forhold. Hvordan dette vurderes er nærmere beskrevet i bygningsreglementets *[vejledning om ombygninger og brug af certificerede rådgivere.](../vejledning-om-ombygning-og-brug-af-certificerede-raadgivere/)*
 
 Ved tvivl kan det være en fordel som bygningsejer at involvere en håndværker eller anden rådgiver, der kan vurdere forudsætningerne for de brandmæssige forhold.
 
 ### 1.1.3 Udvidelse af etagearealet
 
-Ombygninger og andre forandringer omfattet af BR18, § 5, stk. 1 nr. 3 og 4, må ikke medføre en udvidelse af etagearealet. Etagearealet er her det samlede etageareal, der i denne forbindelse forstås som det areal, der opstår ved, at arealet af samtlige etager og al anden bebyggelse på grunden sammenlægges. Dette omfatter bl.a. arealet for kældre, åbne altaner, åbne tagterrasser mv. Det samlede etageareal er ikke nødvendigvis det samme som det etageareal, der indgår i beregningen af bebyggelsesprocenten, hvor der her er mulighed for en række fradrag, jf. BR18, § 455. Hvordan det samlede etageareal beregnes, er nærmere beskrevet i bygningsreglementets *[vejledning til kapitel 8 - byggeret og helhedsvurdering, kapitel 20 – ubebyggede arealer ved bebyggelse og kapitel 23 – beregningsregler.](../../../tekniske-bestemmelser/08/vejledninger/byggeret_helhedsvurdering_ubebyggede_beregningsregler/)*
+Ombygninger og andre forandringer omfattet af BR18, [§ 5, stk. 1 nr. 3 og 4](../../krav/#paragraf-5 "BR18 § 5"){ .br18-ref }, må ikke medføre en udvidelse af etagearealet. Etagearealet er her det samlede etageareal, der i denne forbindelse forstås som det areal, der opstår ved, at arealet af samtlige etager og al anden bebyggelse på grunden sammenlægges. Dette omfatter bl.a. arealet for kældre, åbne altaner, åbne tagterrasser mv. Det samlede etageareal er ikke nødvendigvis det samme som det etageareal, der indgår i beregningen af bebyggelsesprocenten, hvor der her er mulighed for en række fradrag, jf. BR18, [§ 455](../../../ovrige-bestemmelser/23/krav/#paragraf-455 "BR18 § 455"){ .br18-ref }. Hvordan det samlede etageareal beregnes, er nærmere beskrevet i bygningsreglementets *[vejledning til kapitel 8 - byggeret og helhedsvurdering, kapitel 20 – ubebyggede arealer ved bebyggelse og kapitel 23 – beregningsregler.](../../../tekniske-bestemmelser/08/vejledninger/byggeret_helhedsvurdering_ubebyggede_beregningsregler/)*
 
 ### 1.1.4 Væsentlig anvendelsesændring
 
-Ombygninger og andre forandringer omfattet af BR18, § 5, stk. 1 nr. 3 og 4, må ikke medføre en væsentlig anvendelsesændring. En væsentlig anvendelsesændring er f.eks. en ændring i anvendelsen fra bolig til erhverv. Væsentlige anvendelsesændringer er nærmere beskrevet i bygningsreglementets *[vejledning om byggesagsbehandling efter BR18](../vejledning-om-byggesagsbehandling-efter-br18/)*.
+Ombygninger og andre forandringer omfattet af BR18, [§ 5, stk. 1 nr. 3 og 4](../../krav/#paragraf-5 "BR18 § 5"){ .br18-ref }, må ikke medføre en væsentlig anvendelsesændring. En væsentlig anvendelsesændring er f.eks. en ændring i anvendelsen fra bolig til erhverv. Væsentlige anvendelsesændringer er nærmere beskrevet i bygningsreglementets *[vejledning om byggesagsbehandling efter BR18](../vejledning-om-byggesagsbehandling-efter-br18/)*.
 
 ### 1.2 Krav til konstruktions- og brandforhold {#c67e186d-c5c0-429e-820b-7176d3a9d547}
 
@@ -98,9 +98,9 @@ I forhold til brandforhold, er det ved ombygninger og andre forandringer kun byg
 
 ### 1.3 Dokumentation, herunder indplacering i konstruktions- og brandklasse {#c14359ca-3376-40c9-ac8d-e91e38a456d5}
 
-Ved ombygninger og andre forandringer der kræver byggetilladelse, skal der i forbindelse med ansøgningen indsendes den dokumentation der fremgår af BR18, § 10, stk. 1-7. Denne dokumentation kan bl.a. bestå i at oplyse og dokumentere, hvilken konstruktionsklasse og brandklasse byggearbejdet kan indplaceres i. Konstruktions- og brandklassen har betydning for, hvordan sikkerheden i byggeriet skal dokumenteres, herunder, hvorvidt der skal tilknyttes certificerede rådgivere. Der er ikke krav om at tilknytte certificerede statikere eller brandrådgivere, hvis byggearbejdet kan indplaceres i konstruktionsklasse 1 og brandklasse 1. Dette er dog et krav i henholdsvis konstruktionsklasse 2-4 og brandklasse 2-4.
+Ved ombygninger og andre forandringer der kræver byggetilladelse, skal der i forbindelse med ansøgningen indsendes den dokumentation der fremgår af BR18, [§ 10, stk. 1-7](../../krav/#paragraf-10 "BR18 § 10"){ .br18-ref }. Denne dokumentation kan bl.a. bestå i at oplyse og dokumentere, hvilken konstruktionsklasse og brandklasse byggearbejdet kan indplaceres i. Konstruktions- og brandklassen har betydning for, hvordan sikkerheden i byggeriet skal dokumenteres, herunder, hvorvidt der skal tilknyttes certificerede rådgivere. Der er ikke krav om at tilknytte certificerede statikere eller brandrådgivere, hvis byggearbejdet kan indplaceres i konstruktionsklasse 1 og brandklasse 1. Dette er dog et krav i henholdsvis konstruktionsklasse 2-4 og brandklasse 2-4.
 
-Det fremgår af BR18, § 10, stk. 2, nr. 3 og 5, at såfremt det er relevant, skal det i forbindelse med ansøgning om byggetilladelse, oplyses og dokumenteres, hvilken konstruktionsklasse og brandklasse byggearbejdet kan indplaceres i.
+Det fremgår af BR18, [§ 10, stk. 2, nr. 3 og 5](../../krav/#paragraf-10 "BR18 § 10"){ .br18-ref }, at såfremt det er relevant, skal det i forbindelse med ansøgning om byggetilladelse, oplyses og dokumenteres, hvilken konstruktionsklasse og brandklasse byggearbejdet kan indplaceres i.
 
 Det er relevant at indplacere en ombygning eller forandring i en konstruktionsklasse, hvis det medfører, at de bærende konstruktioners virkemåde i byggeriet ændres, eller hvis der indføres nye bærende konstruktioner. Bærende konstruktioners virkemåde er også beskrevet i afsnit 1.1.1.
 

@@ -32,10 +32,10 @@
 
 ### 3.0.2 Byggeri der ikke kan indplaceres i en konstruktionsklasse {#b4456f94-63d8-405d-8ae5-af6199b1f280}
 
-Ifølge BR18, §489, stk. 5. skal konstruktioner eller konstruktionsafsnit, som på grund af deres udformning eller anvendelse, ikke kan indplaceres i en konstruktionsklasse, på baggrund af risikoen for svigt og konsekvensen vurderes, om og i hvilket omfang:
+Ifølge BR18, [§489, stk. 5](../../../krav/#paragraf-489 "BR18 § 489"){ .br18-ref }. skal konstruktioner eller konstruktionsafsnit, som på grund af deres udformning eller anvendelse, ikke kan indplaceres i en konstruktionsklasse, på baggrund af risikoen for svigt og konsekvensen vurderes, om og i hvilket omfang:
 
 - En certificeret statiker skal inddrages.
 - Dokumentationen skal udfærdiges efter principperne i kapitel 28 og 30.
 - En anerkendt statiker skal inddrages
 
-Hvorvidt en konstruktion eller et konstruktionsafsnit er omfattet af § 489, stk. 5, beror på om udformningen eller anvendelsen gør, at konstruktionen eller konstruktionsafsnittet ikke kan vurderes ud fra grundlaget for indplacering i konstruktionsklassen, dvs. ud fra indplaceringen i konsekvensklasse (afsnit 1.0.2), konstruktionens kompleksitet (afsnit 1.0.3) eller erfaring med konstruktionen (afsnit 1.0.4).
+Hvorvidt en konstruktion eller et konstruktionsafsnit er omfattet af [§ 489, stk. 5](../../../krav/#paragraf-489 "BR18 § 489"){ .br18-ref }, beror på om udformningen eller anvendelsen gør, at konstruktionen eller konstruktionsafsnittet ikke kan vurderes ud fra grundlaget for indplacering i konstruktionsklassen, dvs. ud fra indplaceringen i konsekvensklasse (afsnit 1.0.2), konstruktionens kompleksitet (afsnit 1.0.3) eller erfaring med konstruktionen (afsnit 1.0.4).

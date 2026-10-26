@@ -28,7 +28,7 @@
 
 ## Tabel 5 – Mindstekrav til niveau af tredjepartskontrol af den brandtekniske dokumentation for brandklasse 4, jf. § 527 {#5c07e011-ff1c-4bed-a720-25d93fa60d9b}
 
-*Tabel 5 – Mindstekrav til niveau af tredjepartskontrol af den brandtekniske dokumentation for brandklasse 4, jf. § 527*
+*Tabel 5 – Mindstekrav til niveau af tredjepartskontrol af den brandtekniske dokumentation for brandklasse 4, jf. [§ 527](../../../../ovrige-bestemmelser/30/krav/#paragraf-527 "BR18 § 527"){ .br18-ref }*
 
 <table>
 <colgroup>
@@ -48,7 +48,7 @@
 </td>
 </tr>
 <tr>
-<td>Dokumentation for, hvorledes byggeriet opfylder§§ 126-133 vedrørende redningsberedskabets indsatsforhold</td>
+<td>Dokumentation for, hvorledes byggeriet opfylder<a class="br18-ref" href="../../../../tekniske-bestemmelser/05/krav/#0875873c-27b3-435c-b6aa-6d7bb2a978d7" title="BR18 §§ 126-133">§§ 126-133</a> vedrørende redningsberedskabets indsatsforhold</td>
 <td>Max.<br />
 </td>
 </tr>

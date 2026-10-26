@@ -49,7 +49,7 @@ Visse byggematerialer kan indeholde radioaktive stoffer, som udsender gammastrå
 
 I [Strålebeskyttelsesdirektivet](http://eur-lex.europa.eu/legal-content/DA/TXT/PDF/?uri=CELEX:32013L0059&from=DA){rel="noopener" target="_blank"} angives et referenceniveau for gammastråling fra byggematerialer på 1 mSv pr. år. Et referenceniveau er den dosis over hvilken udsættelse for gammastråling fra byggematerialer anses for uhensigtsmæssig, og hvor gennemførelse af rimelige tiltag anbefales.
 
-Strålebeskyttelsesdirektivet angiver eksempler på byggematerialer, der er i risikogruppen for at indeholde radioaktive stoffer, der udsender gammastråling. Det er f.eks. flyveaske, visse former for slagge og fosfatgips. Anvendes disse materialer som byggematerialer i sin rene form f.eks. til underlag for byggeri henvises til vejledningsteksten til § 333.
+Strålebeskyttelsesdirektivet angiver eksempler på byggematerialer, der er i risikogruppen for at indeholde radioaktive stoffer, der udsender gammastråling. Det er f.eks. flyveaske, visse former for slagge og fosfatgips. Anvendes disse materialer som byggematerialer i sin rene form f.eks. til underlag for byggeri henvises til vejledningsteksten til [§ 333](../krav/#paragraf-333 "BR18 § 333"){ .br18-ref }.
 
 <span id="forureninger-fra-undergrunden"></span>
 
@@ -61,7 +61,7 @@ Radon er en radioaktiv luftart, som findes i jorden. Radon forhindres i at træn
 
 Bygningsreglementet angiver krav til et maksimalt radonindhold i indeluften på 100 Bq/m^3^ for nybyggeri, hvor personer opholder sig. Dette krav, som har været gældende siden 2010, skal være opretholdt i hele bygningens levetid.
 
-Kravet til radonindholdet i indeluften for bygninger omfattet af BR18, kapitel 9 eftervises ved målinger foretaget i de primære beboelses- og opholdsrum. I disse rum opholder man sig typisk flere timer dagligt. De primære beboelses- og opholdsrum kunne for eksempel være følgende: • Soverum • Stue • Spiserum • Kontor- og arbejdsrum herunder mødelokaler • Fælles- og alrum • Undervisningslokaler • Kælderrum som ifølge BBR er godkendt til beboelse eller arbejdsrum Små, afgrænsede rum såsom entre, forstue, omklædningsrum, WC- og baderum osv. anses ikke for at være primære beboelses- eller opholdsrum.
+Kravet til radonindholdet i indeluften for bygninger omfattet af BR18, [kapitel 9](../../09/krav/ "BR18 kapitel 9"){ .br18-ref } eftervises ved målinger foretaget i de primære beboelses- og opholdsrum. I disse rum opholder man sig typisk flere timer dagligt. De primære beboelses- og opholdsrum kunne for eksempel være følgende: • Soverum • Stue • Spiserum • Kontor- og arbejdsrum herunder mødelokaler • Fælles- og alrum • Undervisningslokaler • Kælderrum som ifølge BBR er godkendt til beboelse eller arbejdsrum Små, afgrænsede rum såsom entre, forstue, omklædningsrum, WC- og baderum osv. anses ikke for at være primære beboelses- eller opholdsrum.
 
 Forslag til radonsikring af nye bygninger kan findes i *SBi-anvisning 233 Radonsikring af nye bygninger (2015), Byggeteknisk Erfaringsformidling, [BYG-ERFA blad SfB (99) 15 01 02](https://byg-erfa.dk/radonsikring-nye-bygninger-2udg){rel="noopener" target="_blank"}* *Radonsikring nye bygninger* og [Radonguiden](https://www.radonguiden.dk/){rel="noopener" target="_blank"}.
 

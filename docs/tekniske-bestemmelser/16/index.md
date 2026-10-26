@@ -65,18 +65,18 @@ Motionsredskaber, der også anvendes som legepladsredskaber, skal projekteres, s
 
 ### § 365 {#paragraf-365}
 
-For legepladsredskaber og –underlag, multisportsudstyr, motionsredskaber i det fri, skateboardbaner og lignende, der ikke er omfattet af § 359 til § 363, skal det dokumenteres, at der opnås et sikkerhedsniveau, som beskrevet i § 358.
+For legepladsredskaber og –underlag, multisportsudstyr, motionsredskaber i det fri, skateboardbaner og lignende, der ikke er omfattet af [§ 359 til § 363](#e46aa162-8b77-41eb-a53b-d7eccd0145d8 "BR18 §§ 359-363"){ .br18-ref }, skal det dokumenteres, at der opnås et sikkerhedsniveau, som beskrevet i [§ 358](#e5b70fb8-9e01-4761-a722-71dc702c5f5b "BR18 § 358"){ .br18-ref }.
 
 <span id="paragraf-366"></span><span id="s366"></span>
 
 ## § 366 Undtagelser {#6541b307-0484-4112-8e6c-c6502c186513}
 
-§ 359 til § 364 kan fraviges, hvis det på anden vis sikres og dokumenteres, at der er tilstrækkelig sikkerhed mod personskader som beskrevet i § 358.
+[§ 359 til § 364](#e46aa162-8b77-41eb-a53b-d7eccd0145d8 "BR18 §§ 359-364"){ .br18-ref } kan fraviges, hvis det på anden vis sikres og dokumenteres, at der er tilstrækkelig sikkerhed mod personskader som beskrevet i [§ 358](#e5b70fb8-9e01-4761-a722-71dc702c5f5b "BR18 § 358"){ .br18-ref }.
 
 <span id="s367"></span>
 
 ## § 367 Drift, kontrol og vedligehold {#fb1966b1-3276-406c-b5cd-e7ee67bf06df}
 
-Drift, kontrol og vedligehold af offentligt tilgængelige legepladsredskaber og -underlag, motionsredskaber i det fri, skateboardbaner og lignende, skal ske, så de til enhver tid overholder de relevante bestemmelser i §§ 358-365.
+Drift, kontrol og vedligehold af offentligt tilgængelige legepladsredskaber og -underlag, motionsredskaber i det fri, skateboardbaner og lignende, skal ske, så de til enhver tid overholder de relevante bestemmelser i [§§ 358-365](#e5b70fb8-9e01-4761-a722-71dc702c5f5b "BR18 §§ 358-365"){ .br18-ref }.
 
 *Stk. 2.* Planlægning og udførsel af drift, kontrol og vedligehold, jf. stk. 1, kan ske efter principperne i DS/EN 1176-7 Legepladsredskaber og -underlag - Del 7: Vejledning til brug ved installation, inspektion, vedligeholdelse og drift, eller på anden vis, som sikrer overholdelse af stk. 1.

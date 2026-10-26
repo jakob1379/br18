@@ -55,7 +55,7 @@
 
 ### Større ombygninger {#0e755a68-0068-40ae-b19e-219964441d25}
 
-Hvis bygninger bliver ombygget, kan bygningen blive omfattet af ladestanderbekendtgørelsen. Det kræver dog, at ombygningen opfylder en række forudsætninger, der fremgår af ladestanderbekendtgørelsens § 2, nr. 4. For at ombygningen defineres som en større ombygning i ladestanderbekendtgørelsen, skal følgende være opfyldt:
+Hvis bygninger bliver ombygget, kan bygningen blive omfattet af ladestanderbekendtgørelsen. Det kræver dog, at ombygningen opfylder en række forudsætninger, der fremgår af ladestanderbekendtgørelsens [§ 2, nr. 4](https://www.retsinformation.dk/eli/lta/2020/181#P2 "Ladestanderbekendtgørelsen § 2"){ .br18-ref .br18-ref--ext }. For at ombygningen defineres som en større ombygning i ladestanderbekendtgørelsen, skal følgende være opfyldt:
 
 1. Der skal pågå et byggearbejde på bygningen, 
 

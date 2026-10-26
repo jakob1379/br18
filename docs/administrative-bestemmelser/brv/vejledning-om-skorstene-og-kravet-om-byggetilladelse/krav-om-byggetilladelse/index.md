@@ -34,7 +34,7 @@
 
 ### Krav om byggetilladelse {#ff9c43e9-f405-430b-bdf5-c697a8cbcdb6}
 
-Det er udgangspunktet i byggeloven, at der er krav om byggetilladelse for de omfattede byggearbejder og dermed, at byggearbejder, hvor aftrækssystemet får karakter af en tilbygning, kræver byggetilladelse fra kommunen, jf. byggelovens § 16, stk. 1. Det følger ligeledes heraf, at i de tilfælde byggearbejdet er en ombygning eller forandring i bebyggelsen, skal der søges byggetilladelse fra kommunen, såfremt ombygningen/forandringen er væsentlig i forhold til bestemmelser i byggelovgivningen, herunder de konstruktive krav i BR18, kap. 15.
+Det er udgangspunktet i byggeloven, at der er krav om byggetilladelse for de omfattede byggearbejder og dermed, at byggearbejder, hvor aftrækssystemet får karakter af en tilbygning, kræver byggetilladelse fra kommunen, jf. byggelovens [§ 16, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178#P16 "Byggeloven § 16"){ .br18-ref .br18-ref--ext }. Det følger ligeledes heraf, at i de tilfælde byggearbejdet er en ombygning eller forandring i bebyggelsen, skal der søges byggetilladelse fra kommunen, såfremt ombygningen/forandringen er væsentlig i forhold til bestemmelser i byggelovgivningen, herunder de konstruktive krav i BR18, [kap. 15](../../../../tekniske-bestemmelser/15/krav/ "BR18 kapitel 15"){ .br18-ref }.
 
 Hvorvidt ombygningen eller forandringen er væsentlig, beror på kommunens konkrete vurdering.
 

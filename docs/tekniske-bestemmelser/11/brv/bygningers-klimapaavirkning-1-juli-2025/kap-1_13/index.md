@@ -60,9 +60,9 @@
 
 ### 1.13. Modul D {#ef01f42f-058d-47f7-8294-c506727de71c}
 
-Grænseværdien, der fremgår af § 298, stk. 1, for bygningens klimapåvirkning skal overholdes ved den samlede opgørelse for modul A1-A3, B4, B6, C3 og C4. Da modul D dokumenterer potentiale for nyttiggørelse, som fx potentiel substitution af ressourcer efter bygningens livscyklus er ophørt, skal potentielle klimapåvirkninger fra dette modul ikke indgå i beregningen af overholdelse af grænseværdien.
+Grænseværdien, der fremgår af [§ 298, stk. 1](../../../krav/#paragraf-298 "BR18 § 298"){ .br18-ref }, for bygningens klimapåvirkning skal overholdes ved den samlede opgørelse for modul A1-A3, B4, B6, C3 og C4. Da modul D dokumenterer potentiale for nyttiggørelse, som fx potentiel substitution af ressourcer efter bygningens livscyklus er ophørt, skal potentielle klimapåvirkninger fra dette modul ikke indgå i beregningen af overholdelse af grænseværdien.
 
-Potentielle klimabesparelser opgjort i kg CO~2~-ækvivalenter pr. m^2^ pr. år dokumenteres derfor separat i modul D, jf. § 297, stk. 4. Klimabesparelsen dokumenteret i modul D medregnes ikke ved dokumentation af, at grænseværdien er overholdt, jf. § 298.
+Potentielle klimabesparelser opgjort i kg CO~2~-ækvivalenter pr. m^2^ pr. år dokumenteres derfor separat i modul D, jf. [§ 297, stk. 4](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref }. Klimabesparelsen dokumenteret i modul D medregnes ikke ved dokumentation af, at grænseværdien er overholdt, jf. [§ 298](../../../krav/#paragraf-298 "BR18 § 298"){ .br18-ref }.
 
 ### 2.4. Særlige forhold {#5b13625d-860e-4dd3-abef-ba4361094a44}
 

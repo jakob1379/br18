@@ -21,7 +21,7 @@
 
 ### 1.0.1 BR18 § 4 {#62a1f537-1cdc-4c03-994e-afda41cc7192}
 
-BR18 § 4 indskrænker anvendelsesområdet for byggelovens § 6 D, stk. 1, da bestemmelsen oplister en række byggearbejder, som bygningsreglementet ikke gælder for. Da de byggearbejder, der er omfattet af BR18 § 4, således ikke er omfattet af krav om ansøgning om byggetilladelse, betyder det, at byggelovens § 6 D, stk. 1, ikke kan anvendes i disse sager.
+BR18 [§ 4](../../../../../administrative-bestemmelser/krav/#paragraf-4 "BR18 § 4"){ .br18-ref } indskrænker anvendelsesområdet for byggelovens [§ 6 D, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178#P6D "Byggeloven § 6D"){ .br18-ref .br18-ref--ext }, da bestemmelsen oplister en række byggearbejder, som bygningsreglementet ikke gælder for. Da de byggearbejder, der er omfattet af BR18 [§ 4](../../../../../administrative-bestemmelser/krav/#paragraf-4 "BR18 § 4"){ .br18-ref }, således ikke er omfattet af krav om ansøgning om byggetilladelse, betyder det, at byggelovens [§ 6 D, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178#P6D "Byggeloven § 6D"){ .br18-ref .br18-ref--ext }, ikke kan anvendes i disse sager.
 
 ### 1.1.2 BR18 § 5 {#03eeb4d9-0e91-4234-8f1d-7a6745e33ebc}
 

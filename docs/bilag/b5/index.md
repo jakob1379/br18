@@ -73,11 +73,11 @@ Kontrol af dokumentation for og udførelse af bærende konstruktioner omfattet a
 
 Den certificerede statikers virke skal ske, jf. [kapitel 32](/ovrige-bestemmelser/32/) og 33, med følgende ændringer:
 
-Henvisningen til [kapitel 28](/ovrige-bestemmelser/28/)-30 i § 534 erstattes af henvisning til afsnit 1.1 og 1.2.
+Henvisningen til [kapitel 28](/ovrige-bestemmelser/28/)-30 i [§ 534](../../ovrige-bestemmelser/32/krav/#paragraf-534 "BR18 § 534"){ .br18-ref } erstattes af henvisning til afsnit 1.1 og 1.2.
 
-§ 531 finder ikke anvendelse, i stedet gælder: For lovliggørelsessager for byggeri i konstruktionsklasse 2-4, skal den certificerede statiker gennem sit virke, jf. [kapitel 32](/ovrige-bestemmelser/32/) og 33 sikre, at byggeriet er i overensstemmelse med den regulering for bærende konstruktioner, der anvendes for lovliggørelsen samt sikre, at dokumentation herfor er fyldestgørende, opfylder sit formål og er kontrolleret, jf. [kapitel 30](/ovrige-bestemmelser/30/), med ændringer, jf. afsnit 1.2.
+[§ 531](../../ovrige-bestemmelser/32/krav/#paragraf-531 "BR18 § 531"){ .br18-ref } finder ikke anvendelse, i stedet gælder: For lovliggørelsessager for byggeri i konstruktionsklasse 2-4, skal den certificerede statiker gennem sit virke, jf. [kapitel 32](/ovrige-bestemmelser/32/) og 33 sikre, at byggeriet er i overensstemmelse med den regulering for bærende konstruktioner, der anvendes for lovliggørelsen samt sikre, at dokumentation herfor er fyldestgørende, opfylder sit formål og er kontrolleret, jf. [kapitel 30](/ovrige-bestemmelser/30/), med ændringer, jf. afsnit 1.2.
 
-§ 540 finder ikke anvendelse, i stedet gælder:
+[§ 540](../../ovrige-bestemmelser/33/krav/#paragraf-540 "BR18 § 540"){ .br18-ref } finder ikke anvendelse, i stedet gælder:
 
 Den certificerede statikers virke, ved lovliggørelse af byggeri, omfatter som minimum at:
 
@@ -90,7 +90,7 @@ Den certificerede statikers virke, ved lovliggørelse af byggeri, omfatter som m
 7. Sikre, at dokumentationen for de bærende konstruktioner som lovliggørelsen omfatter, er udarbejdet og samlet i overensstemmelse med de materielle krav, jf. afsnit 1.1 og den regulering, som anvendes ved lovliggørelsen, kontrolleret i overensstemmelse med kontrolplanen og kan anvendes, som den foreligger, er fyldestgørende og udgør et hele.
 8. Udarbejde en redegørelse for sit virke.
 
-I § 544 stk. 1, nr. 4, erstattes "B2. Statisk Kontrolplan" med "Statisk kontrolplan, jf. afsnit 1.1", og i stk. 2, erstattes "B1. Statisk Projektredegørelse" med "Projektredegørelse, jf. afsnit 1.1".
+I [§ 544 stk. 1, nr. 4](../../ovrige-bestemmelser/33/krav/#paragraf-544 "BR18 § 544"){ .br18-ref }, erstattes "B2. Statisk Kontrolplan" med "Statisk kontrolplan, jf. afsnit 1.1", og i stk. 2, erstattes "B1. Statisk Projektredegørelse" med "Projektredegørelse, jf. afsnit 1.1".
 
 ## Afsnit 2: Lovliggørelse af byggeri i konstruktionsklasse 2-4, ved anvendelse af lovgivningen på lovliggørelsestidspunktet
 

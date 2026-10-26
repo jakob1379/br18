@@ -36,7 +36,7 @@
 
 Kravet om mindste varmeisolering er ikke kun begrundet i hensynet om energibesparelse, men også til hensyn om komfort og risiko for fugtproblemer. Det angivne maksimale varmetab gælder for hele bygningsdelen, inklusiv kuldebroer. DS 418 Beregning af bygninger varmetab indeholder beskrivelse af typiske kuldebroer og deres betydning for varmetabet.
 
-Høje bygninger eller bygninger med vanskelige jordbundsforhold har særlige udfordringer i forhold til linjetabet ved fundament. I disse særlige tilfælde kan der afviges fra linjetabskravene i §257 under forudsætning af at der fortsat sikres mod fugt, samt at kuldebroen ved fundament indregnes i energirammeberegningen.
+Høje bygninger eller bygninger med vanskelige jordbundsforhold har særlige udfordringer i forhold til linjetabet ved fundament. I disse særlige tilfælde kan der afviges fra linjetabskravene i [§257](../../../krav/#2e287fd3-1b3e-438a-9600-d843248b8d99 "BR18 § 257"){ .br18-ref } under forudsætning af at der fortsat sikres mod fugt, samt at kuldebroen ved fundament indregnes i energirammeberegningen.
 
 Kravet til U-værdi for lystunneler eller lignende gælder for gennembrydningen af den isolerede flade, som lystunnelen er indsat i. Det kunne for eksempel være lysfordeleren i et isoleret loft. U-værdien skal dokumenteres i henhold til DS/EN 10077-1.
 

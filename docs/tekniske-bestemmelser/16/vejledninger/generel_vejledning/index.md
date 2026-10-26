@@ -17,11 +17,11 @@ Der er udgivet et rettelsesblad den 1. januar 2025.
 
 ### 1. Forord {#65b73685-d9f4-4e3b-8a90-9bcec6a68773}
 
-Denne vejledning omfatter offentligt tilgængelige legepladser mv. og redegøre for, hvordan de kan overholde bygningsreglementet 2018 (BR18), kapitel 16 om legepladser mv. Derudover redegøre vejledningen for hvornår legepladser og legepladsredskaber kan betragtes som offentligt tilgængelige og hvordan de skal indplaceres i brand- og konstruktionsklasser.
+Denne vejledning omfatter offentligt tilgængelige legepladser mv. og redegøre for, hvordan de kan overholde bygningsreglementet 2018 (BR18), [kapitel 16](../../krav/ "BR18 kapitel 16"){ .br18-ref } om legepladser mv. Derudover redegøre vejledningen for hvornår legepladser og legepladsredskaber kan betragtes som offentligt tilgængelige og hvordan de skal indplaceres i brand- og konstruktionsklasser.
 
 ### 2. Generelt {#311d3af7-7ff8-409f-b0ec-f4794334b40d}
 
-Projektering, udførelse, drift og vedligeholdelse af offentligt tilgængelige legepladser mv., skal overholde bestemmelserne i bygningsreglementet 2018, kapitel 16 om legepladser m.v.
+Projektering, udførelse, drift og vedligeholdelse af offentligt tilgængelige legepladser mv., skal overholde bestemmelserne i bygningsreglementet 2018, [kapitel 16](../../krav/ "BR18 kapitel 16"){ .br18-ref } om legepladser m.v.
 
 Legepladser m.v. som beskrevet i kapitel 16 omfatter legepladsredskaber og -underlag, multisportsudstyr, motionsredskaber i det fri, skateboardbaner, parkourredskaber og lignende, der er offentligt tilgængelige.
 
@@ -29,9 +29,9 @@ Hvorvidt legepladser og legepladsredskaber er omfattet af kapitel 16, beror på 
 
 ### 2.1. Hvornår er legepladser og legepladsredskaber bebyggelse? {#a8f02ff9-7ec7-4fce-aac9-9551989fb835}
 
-Byggelovens § 2, stk. 2, fastslår, at loven finder anvendelse på bygninger, mure og andre faste konstruktioner og anlæg, når anvendelsen af byggeloven er begrundet med sikkerheds- og sundhedsmæssige hensyn, som er de overordnede formål med byggeloven.
+Byggelovens [§ 2, stk. 2](https://www.retsinformation.dk/eli/lta/2016/1178#P2 "Byggeloven § 2"){ .br18-ref .br18-ref--ext }, fastslår, at loven finder anvendelse på bygninger, mure og andre faste konstruktioner og anlæg, når anvendelsen af byggeloven er begrundet med sikkerheds- og sundhedsmæssige hensyn, som er de overordnede formål med byggeloven.
 
-Permanente konstruktioner på legepladser, der kan sidestilles med en bygningsmæssig bebyggelse i henhold til byggelovens § 2, stk. 2, er således også omfattet af bebyggelsesbegrebet.
+Permanente konstruktioner på legepladser, der kan sidestilles med en bygningsmæssig bebyggelse i henhold til byggelovens [§ 2, stk. 2](https://www.retsinformation.dk/eli/lta/2016/1178#P2 "Byggeloven § 2"){ .br18-ref .br18-ref--ext }, er således også omfattet af bebyggelsesbegrebet.
 
 De kriterier, der kan lægges vægt på, når det skal vurderes om legepladser mv. er omfattet af byggeloven, er således, om de har karakter af faste konstruktioner, er af en vis størrelse og om de skal fastgøres eller nedgraves i jorden.
 
@@ -75,7 +75,7 @@ Legepladser og legepladsredskaber beliggende på fællesarealer i forbindelse me
 
 Legepladser og Legepladsredskaber, der ikke betragtes som offentligt tilgængelige, bør være afgrænset så det tydeligt kan ses at de ikke er offentligt tilgængelige.
 
-Om en bestemt legeplads eller legepladsredskab er offentligt tilgængelige eller ej, afgøres af kommunen efter en konkret vurdering. Hvis legepladsen mv. ikke er offentligt tilgængelig, er den ikke omfattet af kapitel 16 i bygningsreglementet. Bygningsejer kan i disse tilfælde selv vælge om legepladsen og redskaberne alligevel skal følge bygningsreglementets regler, selvom det ikke er et krav.
+Om en bestemt legeplads eller legepladsredskab er offentligt tilgængelige eller ej, afgøres af kommunen efter en konkret vurdering. Hvis legepladsen mv. ikke er offentligt tilgængelig, er den ikke omfattet af [kapitel 16](../../krav/ "BR18 kapitel 16"){ .br18-ref } i bygningsreglementet. Bygningsejer kan i disse tilfælde selv vælge om legepladsen og redskaberne alligevel skal følge bygningsreglementets regler, selvom det ikke er et krav.
 
 Der kan i øvrigt gælde andre regler for legepladsredskaber m.v., der ikke er offentligt tilgængelige. Disse regler kan f.eks. være direktiv 2009/48/EF om sikkerhedskrav til legetøj samt BEK 309 om Sikkerhedskrav til legetøjsprodukter.
 
@@ -83,11 +83,11 @@ Bygningsreglementet skelner ikke mellem forskellige ejerforhold, og der skelnes 
 
 ### 3. Byggesagsbehandling af legepladser mv. {#3d15f438-c9f9-4289-bc25-073498fdfaf1}
 
-Legepladser mv. omfattet af BR18, kapitel 16, er også omfattet af kravet om byggetilladelse og færdigmelding.
+Legepladser mv. omfattet af BR18, [kapitel 16](../../krav/ "BR18 kapitel 16"){ .br18-ref }, er også omfattet af kravet om byggetilladelse og færdigmelding.
 
 Såfremt der sker genanvendelse af tidligere benyttede redskaber, skal disse (såfremt de flyttes) opfylde de samme krav som nye legeredskaber, idet der tale om en nyopførsel.
 
-Ansøgning om byggetilladelse til legepladser mv. skal byggesagsbehandles ud fra de samme principper som andre konstruktioner. Ved ansøgning om byggetilladelse skal ansøgningen indeholde de oplysninger, der er nævnt i BR18, § 10, stk. 1, hvor det er relevant. Dette kan f.eks. være oplysninger om forhold vedrørende kapitel 8 om byggeret og helhedsvurdering og kapitel 20 om ubebyggede arealer ved bebyggelse.
+Ansøgning om byggetilladelse til legepladser mv. skal byggesagsbehandles ud fra de samme principper som andre konstruktioner. Ved ansøgning om byggetilladelse skal ansøgningen indeholde de oplysninger, der er nævnt i BR18, [§ 10, stk. 1](../../../../administrative-bestemmelser/krav/#paragraf-10 "BR18 § 10"){ .br18-ref }, hvor det er relevant. Dette kan f.eks. være oplysninger om forhold vedrørende [kapitel 8](../../../08/krav/ "BR18 kapitel 8"){ .br18-ref } om byggeret og helhedsvurdering og [kapitel 20](../../../20/krav/ "BR18 kapitel 20"){ .br18-ref } om ubebyggede arealer ved bebyggelse.
 
 For yderligere omkring ansøgning om byggetilladelse samt byggesagsbehandling af legepladser mv. henvises der til *[bygningsreglementets vejledning om byggesagsbehandling efter BR18](../../../../administrative-bestemmelser/brv/vejledning-om-byggesagsbehandling-efter-br18/ "Vejledning om byggesagsbehandling efter BR18").*
 
@@ -95,23 +95,23 @@ For yderligere omkring ansøgning om byggetilladelse samt byggesagsbehandling af
 
 Ved ansøgning om byggetilladelse, skal der indsendes oplysning om og dokumentation for indplacering i konstruktionsklasse, såfremt det er relevant at indplacere legepladsen mv. i en konstruktionsklasse. Dette er ofte relevant, når der er konstruktionsmæssige forhold at tage stilling til i forhold til sikkerhed. Det afhænger dog altid af en konkret vurdering fra sag til sag.
 
-Det fremgår også af BR18, § 489, stk. 4, at visse legepladsredskaber er undtaget for indplacering i konstruktionsklasse. For yderligere henvises der til afsnit 3.1.1.
+Det fremgår også af BR18, [§ 489, stk. 4](../../../../ovrige-bestemmelser/26/krav/#paragraf-489 "BR18 § 489"){ .br18-ref }, at visse legepladsredskaber er undtaget for indplacering i konstruktionsklasse. For yderligere henvises der til afsnit 3.1.1.
 
 Det kan være nødvendigt at vurdere de enkelte legepladsredskaber på legepladsen hver for sig, i forhold til indplaceringen. Såfremt ansøger ikke vurderer, at det er relevant at indplacere hele eller dele af legepladsen mv. i en konstruktionsklasse, skal dette oplyses og begrundes i ansøgningen om byggetilladelsen.
 
-Hvis det er relevant at indplacere legepladsen mv. i en konstruktionsklasse, skal indplaceringen følge § BR18, kapitel 26 om konstruktionsklasser. Indplacering i en konstruktionsklasse afhænger af konstruktionens kompleksitet og konsekvensklasse (CC), samt erfaringen med konstruktionstypen.
+Hvis det er relevant at indplacere legepladsen mv. i en konstruktionsklasse, skal indplaceringen følge § BR18, [kapitel 26](../../../../ovrige-bestemmelser/26/krav/ "BR18 kapitel 26"){ .br18-ref } om konstruktionsklasser. Indplacering i en konstruktionsklasse afhænger af konstruktionens kompleksitet og konsekvensklasse (CC), samt erfaringen med konstruktionstypen.
 
-I visse tilfælde kan der være legepladser mv., som på grund af deres udformning eller anvendelse ikke kan indplaceres i en konstruktionsklasse selvom legepladsen mv. i sin helhed skal indplaceres. I disse tilfælde skal legepladsen mv. i stedet vurderes ud fra § 489, stk. 5.
+I visse tilfælde kan der være legepladser mv., som på grund af deres udformning eller anvendelse ikke kan indplaceres i en konstruktionsklasse selvom legepladsen mv. i sin helhed skal indplaceres. I disse tilfælde skal legepladsen mv. i stedet vurderes ud fra [§ 489, stk. 5](../../../../ovrige-bestemmelser/26/krav/#paragraf-489 "BR18 § 489"){ .br18-ref }.
 
-Hvis legepladser mv. bliver indplaceret i en konstruktionsklasse, eller vurderes efter § 489, stk. 5, vil dette medføre krav til statisk dokumentation.
+Hvis legepladser mv. bliver indplaceret i en konstruktionsklasse, eller vurderes efter [§ 489, stk. 5](../../../../ovrige-bestemmelser/26/krav/#paragraf-489 "BR18 § 489"){ .br18-ref }, vil dette medføre krav til statisk dokumentation.
 
-Såfremt legepladser mv. indplaceres i konstruktionsklasse 2-4 skal der tilknyttes en certificeret statiker, jf. BR18 § 16.
+Såfremt legepladser mv. indplaceres i konstruktionsklasse 2-4 skal der tilknyttes en certificeret statiker, jf. BR18 [§ 16](../../../../administrative-bestemmelser/krav/#paragraf-16 "BR18 § 16"){ .br18-ref }.
 
 For yderligere henvises der til [bygningsreglementets vejledning om indplacering i konstruktionsklasser](../../../../ovrige-bestemmelser/26/brv/indplacering-i-konstruktionsklasser/ "Indplacering i konstruktionsklasser").
 
 ### 3.1.1. Legepladser mv., der er undtaget for indplacering i konstruktionsklasse {#1a25dde1-3c1c-4c03-a76a-068cf6b15e8d}
 
-Legepladser mv. kan være undtaget fra indplacering i konstruktionsklasse efter § 489, stk. 1, hvilket fremgår af § 489, stk. 4. Her fremgår det, at mindre legepladsredskaber og -underlag, multisportsudstyr, motionsredskaber i det fri, skateboardbaner og lignede er undtaget fra indplacering i en konstruktionsklasse, hvis udformningen udføres i henhold til §§ 359-363, og når udformningen eller anvendelsen ikke medfører en risiko for personskade ved et svigt. Andre mindre legepladsredskaber er tillige undtaget fra indplacering i konstruktionsklasse, hvis udformningen eller anvendelsen ikke medfører en risiko for personskade ved et svigt.
+Legepladser mv. kan være undtaget fra indplacering i konstruktionsklasse efter [§ 489, stk. 1](../../../../ovrige-bestemmelser/26/krav/#paragraf-489 "BR18 § 489"){ .br18-ref }, hvilket fremgår af [§ 489, stk. 4](../../../../ovrige-bestemmelser/26/krav/#paragraf-489 "BR18 § 489"){ .br18-ref }. Her fremgår det, at mindre legepladsredskaber og -underlag, multisportsudstyr, motionsredskaber i det fri, skateboardbaner og lignede er undtaget fra indplacering i en konstruktionsklasse, hvis udformningen udføres i henhold til [§§ 359-363](../../krav/#e46aa162-8b77-41eb-a53b-d7eccd0145d8 "BR18 §§ 359-363"){ .br18-ref }, og når udformningen eller anvendelsen ikke medfører en risiko for personskade ved et svigt. Andre mindre legepladsredskaber er tillige undtaget fra indplacering i konstruktionsklasse, hvis udformningen eller anvendelsen ikke medfører en risiko for personskade ved et svigt.
 
 Hvorvidt der *ikke* medføres en risiko for personskade ved svigt, kan bl.a. afhænge af følgende faktorer:
 
@@ -125,31 +125,31 @@ Hvorvidt der *ikke* medføres en risiko for personskade ved svigt, kan bl.a. afh
 
 Ovenstående liste er eksempler og er ikke udtømmende.
 
-I forhold til fri faldhøjde, betragtes et legepladsredskab med en fri faldhøjde på højst 1,0 meter ikke som en risiko for personskade. Ved ”mindre legepladsredskaber” nævnt i § 489, stk. 4, forstås ligeledes legepladsredskaber med en fri faldhøjde på højst 1 meter. Den fri faldhøjde er den største lodrette afstand til stødområdet nedenunder fra de flader hvortil der opmuntres adgang.
+I forhold til fri faldhøjde, betragtes et legepladsredskab med en fri faldhøjde på højst 1,0 meter ikke som en risiko for personskade. Ved ”mindre legepladsredskaber” nævnt i [§ 489, stk. 4](../../../../ovrige-bestemmelser/26/krav/#paragraf-489 "BR18 § 489"){ .br18-ref }, forstås ligeledes legepladsredskaber med en fri faldhøjde på højst 1 meter. Den fri faldhøjde er den største lodrette afstand til stødområdet nedenunder fra de flader hvortil der opmuntres adgang.
 
 ### 3.2. Indplacering i brandklasse {#ec67cfb6-3db0-4f76-bce2-7a6f917204b0}
 
 Ved ansøgning om byggetilladelse, skal der indsendes oplysning om og dokumentation for indplacering i brandklasse, såfremt det er relevant at indplacere legepladsen mv. i en brandklasse. Dette er ofte relevant, når der er brandmæssige forhold at tage stilling til i forhold til sikkerhed. Det afhænger dog altid af en konkret vurdering fra sag til sag.
 
-Det fremgår også af BR18, § 493, stk. 3, at visse legepladsredskaber er undtaget for indplacering i brandklasse. For yderligere henvises der til afsnit 3.2.1.
+Det fremgår også af BR18, [§ 493, stk. 3](../../../../ovrige-bestemmelser/27/krav/#paragraf-493 "BR18 § 493"){ .br18-ref }, at visse legepladsredskaber er undtaget for indplacering i brandklasse. For yderligere henvises der til afsnit 3.2.1.
 
 Det kan være nødvendigt at vurdere de enkelte legepladsredskaber på legepladsen hver for sig, i forhold til indplaceringen. Såfremt ansøger ikke vurderer, at det er relevant at indplacere legepladsen mv. i en brandklasse, skal dette oplyses og begrundes i ansøgningen om byggetilladelsen.
 
-Hvis det er relevant at indplacere legepladsen mv. i en brandklasse, skal indplaceringen følge § BR18, kapitel 27 om brandklasser. Indplacering i brandklasse afhænger af byggeriets risikoklasse og den valgte metode for dokumentation af brandsikkerheden.
+Hvis det er relevant at indplacere legepladsen mv. i en brandklasse, skal indplaceringen følge § BR18, [kapitel 27](../../../../ovrige-bestemmelser/27/krav/ "BR18 kapitel 27"){ .br18-ref } om brandklasser. Indplacering i brandklasse afhænger af byggeriets risikoklasse og den valgte metode for dokumentation af brandsikkerheden.
 
-I visse tilfælde kan der være legepladser mv., som på grund af deres udformning eller anvendelse ikke kan indplaceres i en brandklasse selvom legepladsen mv. i sin helhed skal indplaceres i en brandklasse. I disse tilfælde skal legepladsen mv. i stedet vurderes ud fra § 493, stk. 4.
+I visse tilfælde kan der være legepladser mv., som på grund af deres udformning eller anvendelse ikke kan indplaceres i en brandklasse selvom legepladsen mv. i sin helhed skal indplaceres i en brandklasse. I disse tilfælde skal legepladsen mv. i stedet vurderes ud fra [§ 493, stk. 4](../../../../ovrige-bestemmelser/27/krav/#paragraf-493 "BR18 § 493"){ .br18-ref }.
 
-For legepladser mv. foreligger der ikke præ-accepterede løsninger som metode for dokumentation af brandsikkerheden, og derfor kan legepladser ikke indplaceres i brandklasse 1 og 2. Legepladsudstyr kan således indplaceres i brandklasse 3 eller 4, eller blive vurderet ud fra § 493, stk. 4 i stedet for.
+For legepladser mv. foreligger der ikke præ-accepterede løsninger som metode for dokumentation af brandsikkerheden, og derfor kan legepladser ikke indplaceres i brandklasse 1 og 2. Legepladsudstyr kan således indplaceres i brandklasse 3 eller 4, eller blive vurderet ud fra [§ 493, stk. 4](../../../../ovrige-bestemmelser/27/krav/#paragraf-493 "BR18 § 493"){ .br18-ref } i stedet for.
 
-Hvis legepladser mv. bliver indplaceret i en brandklasse, eller vurderes efter § 493, stk. 4, vil dette medføre krav til brandteknisk dokumentation.
+Hvis legepladser mv. bliver indplaceret i en brandklasse, eller vurderes efter [§ 493, stk. 4](../../../../ovrige-bestemmelser/27/krav/#paragraf-493 "BR18 § 493"){ .br18-ref }, vil dette medføre krav til brandteknisk dokumentation.
 
-Såfremt legepladser mv. indplaceres i brandklasse 2-4 skal der tilknyttes en certificeret brandrådgiver, jf. BR18, § 20.
+Såfremt legepladser mv. indplaceres i brandklasse 2-4 skal der tilknyttes en certificeret brandrådgiver, jf. BR18, [§ 20](../../../../administrative-bestemmelser/krav/#paragraf-20 "BR18 § 20"){ .br18-ref }.
 
 For yderligere henvises der til [bygningsreglementets vejledning til indplacering i brandklasse.](../../../../ovrige-bestemmelser/27/brv/indplacering-i-brandklasser/ "Indplacering i brandklasser")
 
 ### 3.2.1. Legepladser mv., der er undtaget for indplacering i brandklasse {#edfcf8a6-5d39-485e-b349-eb8b38f1fc4a}
 
-Legepladser mv. kan være undtaget fra indplacering i brandklasse efter § 493, stk. 1, hvilket fremgår af § 493, stk. 3. Her fremgår det, at legepladsredskaber og -underlag, multisportsudstyr, motionsredskaber i det fri, skateboardbaner og lignede er undtaget fra indplacering i en brandklasse, hvis udformningen eller anvendelsen ikke medfører en uacceptabel risiko for personskade i tilfælde af brand.
+Legepladser mv. kan være undtaget fra indplacering i brandklasse efter [§ 493, stk. 1](../../../../ovrige-bestemmelser/27/krav/#paragraf-493 "BR18 § 493"){ .br18-ref }, hvilket fremgår af [§ 493, stk. 3](../../../../ovrige-bestemmelser/27/krav/#paragraf-493 "BR18 § 493"){ .br18-ref }. Her fremgår det, at legepladsredskaber og -underlag, multisportsudstyr, motionsredskaber i det fri, skateboardbaner og lignede er undtaget fra indplacering i en brandklasse, hvis udformningen eller anvendelsen ikke medfører en uacceptabel risiko for personskade i tilfælde af brand.
 
 Hvorvidt der *ikke* medføres en uacceptabel risiko for personskade, kan bl.a. afhænge af følgende faktorer:
 
@@ -167,11 +167,11 @@ Såfremt legepladsredskabet f.eks. placeres indendørs, kan dette medføre en ua
 
 ### 4. Sikkerhedskrav og adgangsforhold for legepladser mv. {#52895043-7fae-4429-ac60-b0909eb1bbab}
 
-Det fremgår af bygningsreglementet 2018, kap. 16, §358, at projektering, udførelse, drift og vedligehold af legepladsredskaber og -underlag, multisportudstyr, motionsredskaber i det fri, skateboardbaner og lignende, der er offentligt tilgængelige, skal ske, så der opnås tilfredsstillende sikkerhed  mod personskade.
+Det fremgår af bygningsreglementet 2018, [kap. 16](../../krav/ "BR18 kapitel 16"){ .br18-ref }, [§358](../../krav/#e5b70fb8-9e01-4761-a722-71dc702c5f5b "BR18 § 358"){ .br18-ref }, at projektering, udførelse, drift og vedligehold af legepladsredskaber og -underlag, multisportudstyr, motionsredskaber i det fri, skateboardbaner og lignende, der er offentligt tilgængelige, skal ske, så der opnås tilfredsstillende sikkerhed  mod personskade.
 
-Standarderne der henvises til i bygningsreglementet 2018, kap. 16 om legepladser mv. angiver de specifikationer, som skal opfyldes, for i videst muligt omfang at beskytte mod den risiko, der kan være forbundet med, at personer benytter forskellige typer af legepladser mv. Forskellige former for risici kan i f.eks. være snorefælder, hovedklemsfælder, huller samt manglende stabilitet og faldunderlag.
+Standarderne der henvises til i bygningsreglementet 2018, [kap. 16](../../krav/ "BR18 kapitel 16"){ .br18-ref } om legepladser mv. angiver de specifikationer, som skal opfyldes, for i videst muligt omfang at beskytte mod den risiko, der kan være forbundet med, at personer benytter forskellige typer af legepladser mv. Forskellige former for risici kan i f.eks. være snorefælder, hovedklemsfælder, huller samt manglende stabilitet og faldunderlag.
 
-Bygningsreglementet 2018, kap. 16, § 358, beskriver det overordnede sikkerhedsniveau, mens §§ 359 - 363 henviser til standarder med generelle og specifikke sikkerhedskrav for forskellige typer af legepladser mv.
+Bygningsreglementet 2018, [kap. 16](../../krav/ "BR18 kapitel 16"){ .br18-ref }, [§ 358](../../krav/#e5b70fb8-9e01-4761-a722-71dc702c5f5b "BR18 § 358"){ .br18-ref }, beskriver det overordnede sikkerhedsniveau, mens [§§ 359 - 363](../../krav/#e46aa162-8b77-41eb-a53b-d7eccd0145d8 "BR18 §§ 359-363"){ .br18-ref } henviser til standarder med generelle og specifikke sikkerhedskrav for forskellige typer af legepladser mv.
 
 Hvis der i et område opstilles flere typer legepladsredskaber m.v. vil de skrappeste krav være gældende.
 
@@ -229,9 +229,9 @@ Denne håndbog indeholder bl.a. information og eksempler på adgangsforhold til 
 
 ### 5. Drift, kontrol og vedligehold {#9010be35-e1df-4a55-919d-9ce0c4978514}
 
-Det fremgår af bygningsreglementet 2018, kap. 16, § 367, at drift, kontrol og vedligehold af offentligt tilgængelige legepladsredskaber og –underlag, motionsredskaber i det fri, skateboardbaner og lignende skal ske, så de til enhver tid overholder de relevante bestemmelser i §§ 358-365.
+Det fremgår af bygningsreglementet 2018, [kap. 16](../../krav/ "BR18 kapitel 16"){ .br18-ref }, [§ 367](../../krav/#fb1966b1-3276-406c-b5cd-e7ee67bf06df "BR18 § 367"){ .br18-ref }, at drift, kontrol og vedligehold af offentligt tilgængelige legepladsredskaber og –underlag, motionsredskaber i det fri, skateboardbaner og lignende skal ske, så de til enhver tid overholder de relevante bestemmelser i [§§ 358-365](../../krav/#e5b70fb8-9e01-4761-a722-71dc702c5f5b "BR18 §§ 358-365"){ .br18-ref }.
 
-Det påhviler den til enhver tid værende ejer at vedligeholde og reparere sine legepladser mv., så de til en hver tid opfylder bygningsreglementets krav og, at der dermed er en tilfredsstillende sikkerhed mod personskader, jf. byggeloven § 17.
+Det påhviler den til enhver tid værende ejer at vedligeholde og reparere sine legepladser mv., så de til en hver tid opfylder bygningsreglementets krav og, at der dermed er en tilfredsstillende sikkerhed mod personskader, jf. byggeloven [§ 17](https://www.retsinformation.dk/eli/lta/2016/1178#P17 "Byggeloven § 17"){ .br18-ref .br18-ref--ext }.
 
 Ejeren bør foranledige, at der bliver udført en rutinemæssig visuel inspektion på dagligt eller ugentligt basis eller efter behov, samt en driftinspektion med et mellemrum på 1-3 måneder. Ejeren bør dernæst foranledige, at der bliver udført årlig hovedinspektion af en certificeret legepladsinspektør eller anden kompetent person. Der bør blandt andet testes for halsklem- hovedklem- og snorefælder i forbindelse med årlig hovedinspektion. Endelig bør stabilitet og underlag kontrolleres i forbindelse med både drifts og årlig hovedinspektion.
 

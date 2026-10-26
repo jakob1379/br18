@@ -90,11 +90,11 @@
 
 ***Lovliggørelse når kravet om beregning er overtrådt***
 
-Hvis der ikke foreligger en beregning af bygningens klimapåvirkning, jf. § 297, kan spørgsmålet behandles på linje med andre tilfælde af dokumentations-mangler. Lovliggørelse af dokumentationsmanglen kan ske ved at indsende dokumentation for beregningen efterfølgende.
+Hvis der ikke foreligger en beregning af bygningens klimapåvirkning, jf. [§ 297](../../../../tekniske-bestemmelser/11/krav/#paragraf-297 "BR18 § 297"){ .br18-ref }, kan spørgsmålet behandles på linje med andre tilfælde af dokumentations-mangler. Lovliggørelse af dokumentationsmanglen kan ske ved at indsende dokumentation for beregningen efterfølgende.
 
 ***Lovliggørelse når kravet om grænseværdi er overtrådt***
 
-Hvis grænseværdien, jf. § 298, er overskredet, skal kommunalbestyrelsen som bygningsmyndighed søge forholdet lovliggjort.
+Hvis grænseværdien, jf. [§ 298](../../../../tekniske-bestemmelser/11/krav/#paragraf-298 "BR18 § 298"){ .br18-ref }, er overskredet, skal kommunalbestyrelsen som bygningsmyndighed søge forholdet lovliggjort.
 
 Hvordan bygningen kan lovliggøres, herunder om der kan ske retlig lovliggørelse eller fysisk lovliggørelse, er en konkret vurdering, se nærmere i den generelle vejledning om lovliggørelse [her](../ "Vejledning om lovliggorelse"){target="_blank"} (nyt vindue). De almindelige forvaltningsretlige kriterier indgår i vurderingen, herunder bl.a. proportionalitetsprincippet.
 
@@ -102,20 +102,20 @@ Det følger af proportionalitetsprincippet, at der ikke må anvendes mere indgri
 
 Hvis bygningen overstiger kravene i bygningsreglementet og skal lovliggøres, er det relevant at være opmærksom på, at klimapåvirkningen for driftsenergien og anvendelsen af materialer opgøres samlet. Som led i en lovliggørelse vil det være relevant at vurdere, om forskellige typer af tiltag samlet set kan bringe byggeriet under grænseværdien. Hvis den del af klimapåvirkningen, der stammer fra driftsenergien, kan ændres sådan, at den bringer det samlede resultat over den 50-årige periode ned, kan det eksempelvis danne grundlag for påbud om fysisk lovliggørelse.
 
-Kommunen kan under hensyn til proportionalitetsprincippet overveje, om dispensationsmuligheden i byggelovens § 22 bør anvendes ved en retlig lovliggørelse. Det er ikke udelukket, at der på den baggrund dispenseres, selv om kommunen ikke ville have dispenseret, hvis kommunen var blevet spurgt ved byggeansøgningen.
+Kommunen kan under hensyn til proportionalitetsprincippet overveje, om dispensationsmuligheden i byggelovens [§ 22](https://www.retsinformation.dk/eli/lta/2016/1178#P22 "Byggeloven § 22"){ .br18-ref .br18-ref--ext } bør anvendes ved en retlig lovliggørelse. Det er ikke udelukket, at der på den baggrund dispenseres, selv om kommunen ikke ville have dispenseret, hvis kommunen var blevet spurgt ved byggeansøgningen.
 
 Ved proportionalitetsvurderingen kan blandt andet indgå, at formålet med bestemmelserne om grænseværdi er at undgå unødvendig klimapåvirkning fra bygninger.
 
-I den forbindelse er det også væsentligt at være opmærksom på, om der er andre forhold ved bygningen, der skal lovliggøres, end overskridelsen af fastsatte grænseværdier, samt på § 13, stk. 2, der fastslår, at der ikke kan dispenseres fra funktionskrav, hvor hensynet bag er brand- eller sikkerhedshensyn.
+I den forbindelse er det også væsentligt at være opmærksom på, om der er andre forhold ved bygningen, der skal lovliggøres, end overskridelsen af fastsatte grænseværdier, samt på [§ 13, stk. 2](../../../krav/#paragraf-13 "BR18 § 13"){ .br18-ref }, der fastslår, at der ikke kan dispenseres fra funktionskrav, hvor hensynet bag er brand- eller sikkerhedshensyn.
 
 Det er en konkret vurdering, hvordan der bedst sker lovliggørelse i den konkrete byggesag, herunder i overensstemmelse med proportionalitetsprincippet.
 
 ***Straf***
 
-Eventuelle tiltag til lovliggørelse, herunder retlig lovliggørelse i form af efterfølgende dispensation, er uden betydning for, om forholdet kan straffes efter § 564. Kommunalbestyrelsen kan derfor overveje politianmeldelse, uanset om der måtte være iværksat eller gennemført tiltag til lovliggørelse af forholdet, herunder retlig lovliggørelse. Man kan overveje det særlige i situationen, hvis grænseværdien er overskredet.
+Eventuelle tiltag til lovliggørelse, herunder retlig lovliggørelse i form af efterfølgende dispensation, er uden betydning for, om forholdet kan straffes efter [§ 564](../../../../straf-og-ikrafttraedelse/36/krav/#096874d8-8195-4b9a-a923-a67e0d5ed2bf "BR18 § 564"){ .br18-ref }. Kommunalbestyrelsen kan derfor overveje politianmeldelse, uanset om der måtte være iværksat eller gennemført tiltag til lovliggørelse af forholdet, herunder retlig lovliggørelse. Man kan overveje det særlige i situationen, hvis grænseværdien er overskredet.
 
 Kun politiet kan give bøde for overtrædelse.
 
-§ 564 anvendes for den skete overtrædelse, i modsætning til eksempelvis byggelovens § 30, litra
+[§ 564](../../../../straf-og-ikrafttraedelse/36/krav/#096874d8-8195-4b9a-a923-a67e0d5ed2bf "BR18 § 564"){ .br18-ref } anvendes for den skete overtrædelse, i modsætning til eksempelvis byggelovens [§ 30](https://www.retsinformation.dk/eli/lta/2016/1178#P30 "Byggeloven § 30"){ .br18-ref .br18-ref--ext }, litra
 
 c), som kan anvendes ved manglende efterlevelse af et påbud.

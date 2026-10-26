@@ -74,7 +74,7 @@
 
 Energikrav ved tilbygninger
 
-Som alternativ til energirammen kan varmetabsrammen benyttes for mindre tilbygninger. Varmetabsrammen er en beregning af hvor meget energi, en tilbygning ville have behov for, hvis den var opført så den netop opfyldte kravene i §268. Varmetabsrammen etableres ved at benytte U-værdierne og linjetabene i §268, ligesom vinduesarealet tilpasses så det svarer til 22 pct. af det opvarmede etageareal. Beregningen af varmetabet fra den reelle tilbygning skal være mindre end varmetabsrammen. Der er et eksempel på en beregning af varmetabsrammen i SBi-anvisning 213 Bygningers energibehov.
+Som alternativ til energirammen kan varmetabsrammen benyttes for mindre tilbygninger. Varmetabsrammen er en beregning af hvor meget energi, en tilbygning ville have behov for, hvis den var opført så den netop opfyldte kravene i [§268](../../../krav/#paragraf-268 "BR18 § 268"){ .br18-ref }. Varmetabsrammen etableres ved at benytte U-værdierne og linjetabene i [§268](../../../krav/#paragraf-268 "BR18 § 268"){ .br18-ref }, ligesom vinduesarealet tilpasses så det svarer til 22 pct. af det opvarmede etageareal. Beregningen af varmetabet fra den reelle tilbygning skal være mindre end varmetabsrammen. Der er et eksempel på en beregning af varmetabsrammen i SBi-anvisning 213 Bygningers energibehov.
 
 Når der gennemføres beregninger af varmetabsrammen kan vinduerne indregnes som de reelle vinduer eller som vinduer med U-værdi på 1,2 W/m²K. I beregningen af de reelle forhold i bygningen skal der benyttes de reelle vinduer.
 

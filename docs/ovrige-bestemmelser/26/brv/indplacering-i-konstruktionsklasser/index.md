@@ -12,28 +12,28 @@
 
 ### Forord {#35e70e33-75c9-456f-aa85-162fac4257b3}
 
-Ved ansøgning om byggetilladelse, skal der, som det nævnes i Bygningsreglementet 2018 (BR18), kapitel 1, § 10 indsendes oplysning om og dokumentation for indplacering i konstruktionsklasse, såfremt det er relevant at indplacere byggeriet i en konstruktionsklasse. Dette er relevant når der er konstruktionsmæssige forhold, der har betydning for sikkerheden i byggeriet. Det afhænger dog altid af en konkret vurdering fra sag til sag. Denne vejledning beskriver, hvorledes bærende konstruktioner og konstruktionsafsnit indplaceres i konstruktionsklasser.
+Ved ansøgning om byggetilladelse, skal der, som det nævnes i Bygningsreglementet 2018 (BR18), [kapitel 1](../../../../administrative-bestemmelser/krav/ "BR18 kapitel 1"){ .br18-ref }, [§ 10](../../../../administrative-bestemmelser/krav/#paragraf-10 "BR18 § 10"){ .br18-ref } indsendes oplysning om og dokumentation for indplacering i konstruktionsklasse, såfremt det er relevant at indplacere byggeriet i en konstruktionsklasse. Dette er relevant når der er konstruktionsmæssige forhold, der har betydning for sikkerheden i byggeriet. Det afhænger dog altid af en konkret vurdering fra sag til sag. Denne vejledning beskriver, hvorledes bærende konstruktioner og konstruktionsafsnit indplaceres i konstruktionsklasser.
 
 ### 1.0.0. Generelt {#9dba3612-6875-42ed-8bd8-0962a7e85a86}
 
-Ifølge BR18, § 485, stk. 1, skal en bærende konstruktion i et byggeri indplaceres i en konstruktionsklasse. Den fastlagte konstruktionsklasse ligger til grund for bestemmelse af krav til:
+Ifølge BR18, [§ 485, stk. 1](../../krav/#paragraf-485 "BR18 § 485"){ .br18-ref }, skal en bærende konstruktion i et byggeri indplaceres i en konstruktionsklasse. Den fastlagte konstruktionsklasse ligger til grund for bestemmelse af krav til:
 
 - Brug af certificeret statiker, herunder den klasse som statikeren skal være certificeret til.
-- Dokumentation af bærende konstruktioners sikkerhed, jf. BR18, kapitel 28.
-- Kontrol af dokumentation og udførelse af bærende konstruktioner, jf. BR18 kapitel 30.
-- Certificerede statikeres virke, jf. BR18, kapitel 32 og 33.
+- Dokumentation af bærende konstruktioners sikkerhed, jf. BR18, [kapitel 28](../../../28/krav/ "BR18 kapitel 28"){ .br18-ref }.
+- Kontrol af dokumentation og udførelse af bærende konstruktioner, jf. BR18 [kapitel 30](../../../30/krav/ "BR18 kapitel 30"){ .br18-ref }.
+- Certificerede statikeres virke, jf. BR18, [kapitel 32](../../../32/krav/ "BR18 kapitel 32"){ .br18-ref } og [33](../../../33/krav/ "BR18 kapitel 33"){ .br18-ref }.
 
 Konstruktionsklassen kan betragtes som et udtryk for konsekvenser ved et eventuelt svigt i konstruktionen.
 
-Oplysning om og dokumentation for indplacering i konstruktionsklasse skal fremgå ved ansøgning om byggetilladelse, hvis det er relevant for byggearbejdet, jf. BR18, § 10, stk. 1, nr. 5. For mere om ansøgning om byggetilladelse henvises der til [bygningsreglementets vejledning om byggesagsbehandling efter BR18.](../../../../administrative-bestemmelser/brv/vejledning-om-byggesagsbehandling-efter-br18/4_0_anvendelse-af-certificeret-statiker-og-brandraadgiver/ "4_0_Anvendelse af certificeret statiker og brandraadgiver")
+Oplysning om og dokumentation for indplacering i konstruktionsklasse skal fremgå ved ansøgning om byggetilladelse, hvis det er relevant for byggearbejdet, jf. BR18, [§ 10, stk. 1, nr. 5](../../../../administrative-bestemmelser/krav/#paragraf-10 "BR18 § 10"){ .br18-ref }. For mere om ansøgning om byggetilladelse henvises der til [bygningsreglementets vejledning om byggesagsbehandling efter BR18.](../../../../administrative-bestemmelser/brv/vejledning-om-byggesagsbehandling-efter-br18/4_0_anvendelse-af-certificeret-statiker-og-brandraadgiver/ "4_0_Anvendelse af certificeret statiker og brandraadgiver")
 
-Kommunalbestyrelsen træffer afgørelse om indplacering i konstruktionsklasse på baggrund af den fremsendte dokumentation. Dokumentationen for indplacering i konstruktionsklasse skal følge BR18, §§ 503 – 504. De relevante dele, der skal fremsendes sammen med ansøgningen om byggetilladelse beskrives yderligere i *[Vejledningen til BR18 kapitel 28 – Dokumentation af bærende konstruktioner §494, §498, §499 og §503,](../../../28/brv/vejledning-til-kapitel-28-dokumentation-af-baerende-konstruktioner/)*  [](../../../28/brv/vejledning-til-kapitel-28-dokumentation-af-baerende-konstruktioner/)samt i [*SBi-anvisning 271 Dokumentation og kontrol af bærende konstruktioner*.](https://www.bygningsreglementet.dk/historisk/br18_version4/ovrige-bestemmelser/28/brv/sbi_anvisning/sbi_anvisninger/#a0cc8c0d-39f3-4fbb-b0e6-2a53c9fa80b4 "SBI-anvisning 271 - Dokumentation og kontrol af bærende konstruktione"){rel="noopener" target="_blank"}
+Kommunalbestyrelsen træffer afgørelse om indplacering i konstruktionsklasse på baggrund af den fremsendte dokumentation. Dokumentationen for indplacering i konstruktionsklasse skal følge BR18, [§§ 503 – 504](../../../28/krav/#paragraf-503 "BR18 §§ 503-504"){ .br18-ref }. De relevante dele, der skal fremsendes sammen med ansøgningen om byggetilladelse beskrives yderligere i *[Vejledningen til BR18 kapitel 28 – Dokumentation af bærende konstruktioner §494, §498, §499 og §503,](../../../28/brv/vejledning-til-kapitel-28-dokumentation-af-baerende-konstruktioner/)*  [](../../../28/brv/vejledning-til-kapitel-28-dokumentation-af-baerende-konstruktioner/)samt i [*SBi-anvisning 271 Dokumentation og kontrol af bærende konstruktioner*.](https://www.bygningsreglementet.dk/historisk/br18_version4/ovrige-bestemmelser/28/brv/sbi_anvisning/sbi_anvisninger/#a0cc8c0d-39f3-4fbb-b0e6-2a53c9fa80b4 "SBI-anvisning 271 - Dokumentation og kontrol af bærende konstruktione"){rel="noopener" target="_blank"}
 
 ### 1.0.1. Konstruktionsafsnit {#6abd7fb9-7a6b-4f94-a203-d5dc0e566a25}
 
-Ifølge BR18, § 486, stk. 1, kan et byggeri opdeles i et eller flere konstruktionsafsnit. Et konstruktionsafsnit kan være en hvilken som helst veldefineret afgrænset del af byggeriet, f.eks. en hel bygning, et etagedæk, en specifik bjælke eller i yderste tilfælde et specifikt fastgørelsesmiddel.
+Ifølge BR18, [§ 486, stk. 1](../../krav/#paragraf-486 "BR18 § 486"){ .br18-ref }, kan et byggeri opdeles i et eller flere konstruktionsafsnit. Et konstruktionsafsnit kan være en hvilken som helst veldefineret afgrænset del af byggeriet, f.eks. en hel bygning, et etagedæk, en specifik bjælke eller i yderste tilfælde et specifikt fastgørelsesmiddel.
 
-Et konstruktionsafsnit kan kun have én konsekvensklasse og én konstruktionsklasse, jf. BR18, § 486, stk. 1.
+Et konstruktionsafsnit kan kun have én konsekvensklasse og én konstruktionsklasse, jf. BR18, [§ 486, stk. 1](../../krav/#paragraf-486 "BR18 § 486"){ .br18-ref }.
 
 Grundlag for konstruktionsafsnit og inddelingen af byggeriet i konstruktionsafsnit, herunder hvilke konstruktionsklasser de enkelte konstruktionsafsnit indplaceres i, skal fremgå af konstruktionsgrundlaget.
 
@@ -47,9 +47,9 @@ Nærmere beskrivelse af indplacering af byggeri, konstruktioner og konstruktions
 
 ### 1.0.2. Byggeri med flere konstruktionsafsnit i forskellige konstruktionsklasser {#f36fe5ab-d092-4603-a060-4edff614fd72}
 
-Hvor et byggeri kan opdeles i forskellige konstruktioner/konstruktionsafsnit, der kan indplaceres i forskellige konstruktionsklasser, bestemmes krav til certificeret statiker som udgangspunkt som den højeste konstruktionsklasse, som de enkelte konstruktioner/konstruktionsafsnit kan indplaceres i. Hvor det kan dokumenteres sikkerhedsmæssigt forsvarligt, kan et byggeri i følge BR18, § 485, stk. 2, opdeles i flere konstruktionsafsnit med forskellige konstruktionsklasse.
+Hvor et byggeri kan opdeles i forskellige konstruktioner/konstruktionsafsnit, der kan indplaceres i forskellige konstruktionsklasser, bestemmes krav til certificeret statiker som udgangspunkt som den højeste konstruktionsklasse, som de enkelte konstruktioner/konstruktionsafsnit kan indplaceres i. Hvor det kan dokumenteres sikkerhedsmæssigt forsvarligt, kan et byggeri i følge BR18, [§ 485, stk. 2](../../krav/#paragraf-485 "BR18 § 485"){ .br18-ref }, opdeles i flere konstruktionsafsnit med forskellige konstruktionsklasse.
 
-Ifølge BR18, § 533 kan der kun være én certificeret statiker tilknyttet byggesagen med undtagelse af byggeri i konstruktionsklasse 4, hvor der er krav om tredjepartskontrol af en certificeret statiker.
+Ifølge BR18, [§ 533](../../../32/krav/#paragraf-533 "BR18 § 533"){ .br18-ref } kan der kun være én certificeret statiker tilknyttet byggesagen med undtagelse af byggeri i konstruktionsklasse 4, hvor der er krav om tredjepartskontrol af en certificeret statiker.
 
 Den certificerede statiker skal være certificeret til at virke i den højeste konstruktionsklasse som en konstruktion/konstruktionsafsnit i byggeriet indplaceres i.
 
@@ -63,11 +63,11 @@ En nærmere beskrivelse med eksempler på byggeri med konstruktioner og konstruk
 
 ### 2.0.0 Grundlag for indplacering i konstruktionsklasser {#cb2bafac-f8f2-4eb5-bc77-14261d746b7d}
 
-De bærende konstruktioner i et byggeri skal ifølge BR18, § 489 indplaceres i konstruktionsklasse 1-4. Konstruktionsklassen fastlægges ifølge BR18, § 485, stk. 1, på grundlag af:
+De bærende konstruktioner i et byggeri skal ifølge BR18, [§ 489](../../krav/#paragraf-489 "BR18 § 489"){ .br18-ref } indplaceres i konstruktionsklasse 1-4. Konstruktionsklassen fastlægges ifølge BR18, [§ 485, stk. 1](../../krav/#paragraf-485 "BR18 § 485"){ .br18-ref }, på grundlag af:
 
 - Den konsekvensklasse konstruktionen indplaceres i
-- Den kompleksitet byggeriets konstruktioner har, jf. BR18, § 487.
-- De erfaringer, branchen har med konstruktionstypen, jf. BR18, § 488.
+- Den kompleksitet byggeriets konstruktioner har, jf. BR18, [§ 487](../../krav/#paragraf-487 "BR18 § 487"){ .br18-ref }.
+- De erfaringer, branchen har med konstruktionstypen, jf. BR18, [§ 488](../../krav/#paragraf-488 "BR18 § 488"){ .br18-ref }.
 
 Konsekvensklasse, kompleksitet og erfaring beskrives nedenfor.
 
@@ -86,7 +86,7 @@ Dette grundlag adskiller sig fra byggeloven, idet byggeloven fx ikke eksplicit s
 
 ### 2.0.2. Konstruktionens kompleksitet {#91d32d98-0d1d-48ce-a0df-84f6114d0810}
 
-En konstruktion betegnes ifølge BR18, § 487 som simpel eller kompleks alt efter, hvordan de påvirkninger, der virker på konstruktionen, føres til fundament. Jo svære det er at overskue fordelingen af påvirkningerne og lastvirkningerne – jo mere kompleks betegnes konstruktionen.
+En konstruktion betegnes ifølge BR18, [§ 487](../../krav/#paragraf-487 "BR18 § 487"){ .br18-ref } som simpel eller kompleks alt efter, hvordan de påvirkninger, der virker på konstruktionen, føres til fundament. Jo svære det er at overskue fordelingen af påvirkningerne og lastvirkningerne – jo mere kompleks betegnes konstruktionen.
 
 En nærmere beskrivelse af konstruktioners kompleksitet fremgår af *SBi-anvisning 271 Dokumentation og kontrol af bærende konstruktioner*.
 
@@ -94,17 +94,17 @@ Hvis der er tvivl om en konstruktion er simpel eller kompleks, anses denne for k
 
 ### 2.0.3. Erfaring med konstruktionstypen {#7dd1ead4-4d1a-4625-9bf5-c6b2d6932d3a}
 
-En konstruktion betegnes ifølge BR18, § 488 som traditionel eller utraditionel alt efter, hvor stor erfaring der er med konstruktionen i byggebranchen. Ved traditionelle konstruktioner forstås således konstruktionstyper, som der generelt er stor erfaring med i byggebranchen, og som er baseret på kendte materialer, teknologier og udførelsesmetoder; altså at konstruktionstypen i almindelighed er kendt, fx vægkonstruktioner af murværk, væg- og dækkonstruktioner af betonelementer og gitterspær af træ.
+En konstruktion betegnes ifølge BR18, [§ 488](../../krav/#paragraf-488 "BR18 § 488"){ .br18-ref } som traditionel eller utraditionel alt efter, hvor stor erfaring der er med konstruktionen i byggebranchen. Ved traditionelle konstruktioner forstås således konstruktionstyper, som der generelt er stor erfaring med i byggebranchen, og som er baseret på kendte materialer, teknologier og udførelsesmetoder; altså at konstruktionstypen i almindelighed er kendt, fx vægkonstruktioner af murværk, væg- og dækkonstruktioner af betonelementer og gitterspær af træ.
 
-Ved utraditionelle konstruktioner forstås konstruktionstyper, som der ikke er stor erfaring med i den danske byggebranche, eller som er baseret på nye materialer, teknologier og udførelsesmetoder, jf. BR18, § 488.
+Ved utraditionelle konstruktioner forstås konstruktionstyper, som der ikke er stor erfaring med i den danske byggebranche, eller som er baseret på nye materialer, teknologier og udførelsesmetoder, jf. BR18, [§ 488](../../krav/#paragraf-488 "BR18 § 488"){ .br18-ref }.
 
 En nærmere beskrivelse af erfaring med konstruktionstypen, herunder eksempler på utraditionelle konstruktioner fremgår af *SBi-anvisning 271 Dokumentation og kontrol af bærende konstruktioner*.
 
-Hvor der er tvivl om erfaringer med konstruktionstypen i en eller flere af byggeriets processer, anses denne for utraditionel jf. BR18, § 488 stk. 3. En statiker, der er certificeret til at virke i den højeste konstruktionsklasse, som byggeriet kan indplaceres i, kan også vurdere erfaringen med konstruktionen. Hvis der f.eks. er tvivl om en konstruktion i konsekvensklasse 2 er traditionel eller utraditionel, foretages vurderingen af en statiker, der er certificeret til at virke i konstruktionsklasse 3 og 4. Denne vurdering skal indgå som dokumentation i myndighedsbehandlingen i forbindelse med ansøgning om byggetilladelse.
+Hvor der er tvivl om erfaringer med konstruktionstypen i en eller flere af byggeriets processer, anses denne for utraditionel jf. BR18, [§ 488 stk. 3](../../krav/#paragraf-488 "BR18 § 488"){ .br18-ref }. En statiker, der er certificeret til at virke i den højeste konstruktionsklasse, som byggeriet kan indplaceres i, kan også vurdere erfaringen med konstruktionen. Hvis der f.eks. er tvivl om en konstruktion i konsekvensklasse 2 er traditionel eller utraditionel, foretages vurderingen af en statiker, der er certificeret til at virke i konstruktionsklasse 3 og 4. Denne vurdering skal indgå som dokumentation i myndighedsbehandlingen i forbindelse med ansøgning om byggetilladelse.
 
 ### 3.0.0. Indplacering i konstruktionsklasser {#addb1574-b0fc-47b2-b290-2f691d23b3c2}
 
-Overordnet kan inddelingen i konstruktionsklasse 1-4 (KK14) ifølge BR18, § 489 ske som angivet i nedenstående tabel 1.
+Overordnet kan inddelingen i konstruktionsklasse 1-4 (KK14) ifølge BR18, [§ 489](../../krav/#paragraf-489 "BR18 § 489"){ .br18-ref } ske som angivet i nedenstående tabel 1.
 
 <table>
 <colgroup>
@@ -276,7 +276,7 @@ Højde 10m</td>
 
 ### 3.0.1. Byggeri der ikke skal indplaceres i en konstruktionsklasse {#dae86834-bcdb-4729-a3b8-97d5bbc295e7}
 
-Ifølge BR18, § 489, stk. 2, er følgende byggeri med et areal på højst 50 m² undtaget for indplacering i konstruktionsklasser:
+Ifølge BR18, [§ 489, stk. 2](../../krav/#paragraf-489 "BR18 § 489"){ .br18-ref }, er følgende byggeri med et areal på højst 50 m² undtaget for indplacering i konstruktionsklasser:
 
 > •  Garager
 >
@@ -294,14 +294,14 @@ Ifølge BR18, § 489, stk. 2, er følgende byggeri med et areal på højst 50 m
 
 Der henvises til *[Vejledning om opførelse af sekundær bebyggelse med et samlet areal på højst 50 m².](../../../../administrative-bestemmelser/brv/sekundaer-bebyggelse/ "Sekundaer bebyggelse")*
 
-Ifølge BR18, § 489, stk. 3, er festival-, salgs- og campingområder undtaget fra indplacering. Derudover er mindre legepladsredskaber og -underlag, multisportsudstyr, motionsredskaber i det fri, skateboardbaner og lignede undtaget fra indplacering i en konstruktionsklasse, hvis udformningen udføres i henhold til §§ 359-363, og når udformningen eller anvendelsen ikke medfører en risiko for personskade ved et svigt. Andre mindre legepladsredskaber er tillige undtaget fra indplacering i konstruktionsklasse, hvis udformningen eller anvendelsen ikke medfører en risiko for personskade ved et svigt.
+Ifølge BR18, [§ 489, stk. 3](../../krav/#paragraf-489 "BR18 § 489"){ .br18-ref }, er festival-, salgs- og campingområder undtaget fra indplacering. Derudover er mindre legepladsredskaber og -underlag, multisportsudstyr, motionsredskaber i det fri, skateboardbaner og lignede undtaget fra indplacering i en konstruktionsklasse, hvis udformningen udføres i henhold til [§§ 359-363](../../../../tekniske-bestemmelser/16/krav/#e46aa162-8b77-41eb-a53b-d7eccd0145d8 "BR18 §§ 359-363"){ .br18-ref }, og når udformningen eller anvendelsen ikke medfører en risiko for personskade ved et svigt. Andre mindre legepladsredskaber er tillige undtaget fra indplacering i konstruktionsklasse, hvis udformningen eller anvendelsen ikke medfører en risiko for personskade ved et svigt.
 
 ### 3.0.2 Byggeri der ikke kan indplaceres i en konstruktionsklasse {#b4456f94-63d8-405d-8ae5-af6199b1f280}
 
-Ifølge BR18, §489, stk. 5. skal konstruktioner eller konstruktionsafsnit, som på grund af deres udformning eller anvendelse, ikke kan indplaceres i en konstruktionsklasse, på baggrund af risikoen for svigt og konsekvensen vurderes, om og i hvilket omfang:
+Ifølge BR18, [§489, stk. 5](../../krav/#paragraf-489 "BR18 § 489"){ .br18-ref }. skal konstruktioner eller konstruktionsafsnit, som på grund af deres udformning eller anvendelse, ikke kan indplaceres i en konstruktionsklasse, på baggrund af risikoen for svigt og konsekvensen vurderes, om og i hvilket omfang:
 
 - En certificeret statiker skal inddrages.
 - Dokumentationen skal udfærdiges efter principperne i kapitel 28 og 30.
 - En anerkendt statiker skal inddrages
 
-Hvorvidt en konstruktion eller et konstruktionsafsnit er omfattet af § 489, stk. 5, beror på om udformningen eller anvendelsen gør, at konstruktionen eller konstruktionsafsnittet ikke kan vurderes ud fra grundlaget for indplacering i konstruktionsklassen, dvs. ud fra indplaceringen i konsekvensklasse (afsnit 1.0.2), konstruktionens kompleksitet (afsnit 1.0.3) eller erfaring med konstruktionen (afsnit 1.0.4).
+Hvorvidt en konstruktion eller et konstruktionsafsnit er omfattet af [§ 489, stk. 5](../../krav/#paragraf-489 "BR18 § 489"){ .br18-ref }, beror på om udformningen eller anvendelsen gør, at konstruktionen eller konstruktionsafsnittet ikke kan vurderes ud fra grundlaget for indplacering i konstruktionsklassen, dvs. ud fra indplaceringen i konsekvensklasse (afsnit 1.0.2), konstruktionens kompleksitet (afsnit 1.0.3) eller erfaring med konstruktionen (afsnit 1.0.4).

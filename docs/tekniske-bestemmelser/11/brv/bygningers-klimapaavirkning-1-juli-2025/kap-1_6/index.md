@@ -38,7 +38,7 @@
 
 ### 1.6. Miljøvaredeklarationer {#345ca30a-1bea-4b76-8b01-d4b940cbb6b2}
 
-Ved beregning af klimapåvirkningen skal der for hvert materiale eller produkt anvendes oplysninger om miljøpåvirkninger. For nogle materialer eller produkter findes mere specifikke miljødata, end det, der fremgår af det generiske datagrundlag, beskrevet i Vejledning: § 297, stk. 7. Specifikke miljødata, såkaldte produktspecifikke EPD’er (Environmental Product Declaration, EPD) er mere retvisende for de faktiske miljøpåvirkninger af det anvendte materiale eller produkt end generiske miljødata. Derfor kan EPD’er anvendes, hvis de er gyldige og relevante for de konkrete materialer eller produkter, der anvendes i bygningen. Gyldigheden fremgår af EPD’en. Det er ikke et krav, at EPD’en skal være dansk.
+Ved beregning af klimapåvirkningen skal der for hvert materiale eller produkt anvendes oplysninger om miljøpåvirkninger. For nogle materialer eller produkter findes mere specifikke miljødata, end det, der fremgår af det generiske datagrundlag, beskrevet i Vejledning: [§ 297, stk. 7](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref }. Specifikke miljødata, såkaldte produktspecifikke EPD’er (Environmental Product Declaration, EPD) er mere retvisende for de faktiske miljøpåvirkninger af det anvendte materiale eller produkt end generiske miljødata. Derfor kan EPD’er anvendes, hvis de er gyldige og relevante for de konkrete materialer eller produkter, der anvendes i bygningen. Gyldigheden fremgår af EPD’en. Det er ikke et krav, at EPD’en skal være dansk.
 
 EPD’er kan også være projektspecifikke, dvs. udarbejdet for et specifikt materiale eller produkt, der anvendes i det specifikke projekt. Udover det, findes der branche EPD’er, som repræsenterer et gennemsnit for en bestemt produkttype. Et eksempel på en EPD, der repræsenterer et gennemsnit for en bestemt produkttype, er en branche-EPD, hvor et repræsentativt antal producenter og leverandører er gået sammen om at udregne en produkttypes gennemsnitlige miljøbelastning.
 
@@ -46,7 +46,7 @@ I det følgende uddybes reglerne for, hvornår EPD’er kan anvendes. Endvidere 
 
 #### **1.6.1 Gyldighed af EPD’er**
 
-EPD’er kan være projektspecifikke, produktspecifikke eller repræsentere et gennemsnit for en bestemt produkttype. Fælles for dem er, at de skal være udført i henhold til EN15804, være verificeret af en 3. part og godkendt af en EPD programoperatør, før de betragtes som gyldige og kan anvendes i beregning af bygningens klimapåvirkning i henhold til § 297. EPD’er er gyldige i op til 5 år fra udstedelse, og gyldighedsperioden fremgår fra EPD’en.
+EPD’er kan være projektspecifikke, produktspecifikke eller repræsentere et gennemsnit for en bestemt produkttype. Fælles for dem er, at de skal være udført i henhold til EN15804, være verificeret af en 3. part og godkendt af en EPD programoperatør, før de betragtes som gyldige og kan anvendes i beregning af bygningens klimapåvirkning i henhold til [§ 297](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref }. EPD’er er gyldige i op til 5 år fra udstedelse, og gyldighedsperioden fremgår fra EPD’en.
 
 Grundlæggende gælder, at den anvendte EPD skal repræsentere det anvendte produkt og produktets produktion.
 
@@ -54,7 +54,7 @@ EPD’er er udført iht. standarden EN15804. Standarden EN15804 (+A1) blev revid
 
 Alle gyldige miljøvaredeklarationer, uanset hvilken version de er udført efter, kan anvendes. Selvom der er forskel på, hvordan klimapåvirkningen opgøres i henholdsvis +A1 og +A2 standarden, kan begge versioner anvendes.
 
-For at kunne bruge en EPD iht. § 297, stk. 8, skal den være gyldig, hvilket i denne sammenhæng betyder, at EPD’en har været gyldig på det tidspunkt, hvor materialet eller produktet blev anvendt i byggeriet. Det vil sige, at en EPD kan være gyldig, selvom selve EPD’en evt. er udløbet, inden bygningen er færdigmeldt.
+For at kunne bruge en EPD iht. [§ 297, stk. 8](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref }, skal den være gyldig, hvilket i denne sammenhæng betyder, at EPD’en har været gyldig på det tidspunkt, hvor materialet eller produktet blev anvendt i byggeriet. Det vil sige, at en EPD kan være gyldig, selvom selve EPD’en evt. er udløbet, inden bygningen er færdigmeldt.
 
 Man kan også forestille sig tilfælde, hvor der er anvendt et materiale eller produkt, som der senere udarbejdes en EPD for. Det vil det også være inden for rammerne af kravet om gyldighed at anvende denne EPD, så længe EPD’en er gyldig og repræsenterer det konkret anvendte materiale eller produkt ved anvendelse i byggeriet.
 
@@ -66,9 +66,9 @@ Visse EPD’er indeholder mulighed for at man kan bruge dem til flere forskellig
 
 #### **1.6.3 Anvendelse af data fra EPD’er**
 
-En EPD dokumenterer produkters miljøpåvirkning inden for flere miljøpåvirkningskategorier. For at opgøre bygningers klimapåvirkninger, er det udelukkende miljøindikatoren global opvarmning (Global warming potential, GWP), som skal anvendes, da kun bygningens klimapåvirkning skal opgøres, jf. § 297, stk. 4. GWP opgøres i enheden kg CO2-ækvivalenter (kg CO2-ækv.).
+En EPD dokumenterer produkters miljøpåvirkning inden for flere miljøpåvirkningskategorier. For at opgøre bygningers klimapåvirkninger, er det udelukkende miljøindikatoren global opvarmning (Global warming potential, GWP), som skal anvendes, da kun bygningens klimapåvirkning skal opgøres, jf. [§ 297, stk. 4](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref }. GWP opgøres i enheden kg CO2-ækvivalenter (kg CO2-ækv.).
 
-I en EPD er GWP angivet for de deklarerede livscyklusmoduler for et produkt. For at opgøre og dokumentere klimapåvirkningen for produktet, skal data fra modul A1-A3, A4, C3, C4 og D anvendes, jf. § 297, stk. 4.
+I en EPD er GWP angivet for de deklarerede livscyklusmoduler for et produkt. For at opgøre og dokumentere klimapåvirkningen for produktet, skal data fra modul A1-A3, A4, C3, C4 og D anvendes, jf. [§ 297, stk. 4](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref }.
 
 Klimapåvirkningen aflæses under enten GWP eller GWP-total, afhængigt af om miljøvaredeklarationen er udført efter standarden 15804+A1 eller +A2. Se figur 6.1 og 6.3. Vær opmærksom på, hvilken enhed (deklareret enhed) GWP er opgjort i, da der er forskellige enheder i forskellige EPD’er, se figur 6.2.
 
@@ -100,7 +100,7 @@ Hvis en EPD i modul C3/C4 indeholder flere forskellige scenarier for affaldshån
 
 #### **1.6.7 Manglende scenarie for affaldshåndtering**
 
-Hvis EPD’er hverken indeholder et C3- eller C4-modul, kan der anvendes et passende modul fra det generiske datagrundlag (BR18, bilag 2, tabel 7).
+Hvis EPD’er hverken indeholder et C3- eller C4-modul, kan der anvendes et passende modul fra det generiske datagrundlag (BR18, [bilag 2, tabel 7](../../../../../bilag/b2/bilag_2/#4f10dbac-ba91-4bad-9f1e-2b7054ec8547 "BR18 bilag 2, tabel 7"){ .br18-ref }).
 
 Der gøres opmærksom på, at sammensat data kun skal benyttes, hvis der ikke findes den nødvendige data indenfor samme datasæt af et materiale.
 

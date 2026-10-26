@@ -72,11 +72,11 @@
 
 ### 3.5.2. Dokumentation for indplacering i brandklasse 2 – 4 {#a0662794-783a-4fcf-8263-5af61fc5d19e}
 
-Dokumentation for indplacering i brandklasse 2-4 skal ligesom brandklasse 1 følge §511, dvs., at dokumentationen skal indeholde en overordnet brandstrategi for byggeriet samt tegninger, der viser byggeriets udformning, og som underbygger, at den valgte brandstrategi kan indarbejdes i byggeriet.
+Dokumentation for indplacering i brandklasse 2-4 skal ligesom brandklasse 1 følge [§511](../../../../ovrige-bestemmelser/29/krav/#paragraf-511 "BR18 § 511"){ .br18-ref }, dvs., at dokumentationen skal indeholde en overordnet brandstrategi for byggeriet samt tegninger, der viser byggeriets udformning, og som underbygger, at den valgte brandstrategi kan indarbejdes i byggeriet.
 
-Derudover er der også supplerende dokumentationskrav for brandklasse 2-4, som yderligere skal følge §§ 20-23. Disse bestemmelser omhandler anvendelsen af certificeret brandrådgiver. Se afsnit 4.2 for yderligere vejledning.
+Derudover er der også supplerende dokumentationskrav for brandklasse 2-4, som yderligere skal følge [§§ 20-23](../../../krav/#37c5bccc-b9dc-4a8b-be10-df237a0d565c "BR18 §§ 20-23"){ .br18-ref }. Disse bestemmelser omhandler anvendelsen af certificeret brandrådgiver. Se afsnit 4.2 for yderligere vejledning.
 
-Byggesager, hvor kommunalbestyrelsen foretager den tekniske byggesagsbehandling af brandforholdene, er undtaget for dokumentation af indplacering i brandklasse efter § 511.
+Byggesager, hvor kommunalbestyrelsen foretager den tekniske byggesagsbehandling af brandforholdene, er undtaget for dokumentation af indplacering i brandklasse efter [§ 511](../../../../ovrige-bestemmelser/29/krav/#paragraf-511 "BR18 § 511"){ .br18-ref }.
 
 Du kan læse mere om den brandtekniske dokumentation i [Bygningsreglementets vejledning til dokumentation af brandforhold.](../../../../ovrige-bestemmelser/29/brv/vejledning-til-kapitel-29-dokumentation-af-brandforhold/ "Vejledning til dokumentation af brandforhold")
 

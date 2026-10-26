@@ -4,7 +4,7 @@
 
 ### § 552 {#paragraf-552}
 
-Anerkendelse som anerkendt statiker sker til personer, der udøver erhverv i Danmark, og som opfylder de i § 557 anførte krav.
+Anerkendelse som anerkendt statiker sker til personer, der udøver erhverv i Danmark, og som opfylder de i [§ 557](#paragraf-557 "BR18 § 557"){ .br18-ref } anførte krav.
 
 *Stk. 2.* Der anvendes følgende betegnelser:
 
@@ -22,15 +22,15 @@ Formålet med anerkendelse af statikere er at:
 
 ### § 554 {#paragraf-554}
 
-Personer kan tildeles titlen ”Anerkendt statiker” for en afgrænset gyldighedsperiode ved beslutning af det i § 556, stk. 1, nævnte anerkendelsesorgan.
+Personer kan tildeles titlen ”Anerkendt statiker” for en afgrænset gyldighedsperiode ved beslutning af det i [§ 556, stk. 1](#paragraf-556 "BR18 § 556"){ .br18-ref }, nævnte anerkendelsesorgan.
 
    *Stk.* *2.* Anerkendelsen er personlig og følger den anerkendte statiker, uanset ansættelsesforhold.
 
-   *Stk.* *3.* Fra 1. januar 2020 er det ikke længere muligt at opnå anerkendelse som anerkendt statiker. Personer, der har opnået anerkendelse som anerkendt statiker før denne dato, kan søge om fornyelse af anerkendelse, jf. § 559.
+   *Stk.* *3.* Fra 1. januar 2020 er det ikke længere muligt at opnå anerkendelse som anerkendt statiker. Personer, der har opnået anerkendelse som anerkendt statiker før denne dato, kan søge om fornyelse af anerkendelse, jf. [§ 559](#paragraf-559 "BR18 § 559"){ .br18-ref }.
 
 ### § 555 {#paragraf-555}
 
-Det påhviler den anerkendte statiker alene at virke inden for de af anerkendelsesorganet fastsatte rammer, jf. § 556, stk. 5, og ikke at anvende anerkendelsen uden for disse rammer.
+Det påhviler den anerkendte statiker alene at virke inden for de af anerkendelsesorganet fastsatte rammer, jf. [§ 556, stk. 5](#paragraf-556 "BR18 § 556"){ .br18-ref }, og ikke at anvende anerkendelsen uden for disse rammer.
 
 ### § 556 {#paragraf-556}
 
@@ -70,9 +70,9 @@ Tildeling af anerkendelse skal være sket på basis af ansøgning og efter beslu
 
 ### § 558 {#paragraf-558}
 
-Personer, som er i besiddelse af et kursusbevis, uddannelsesbevis eller certifikat, som i et andet land, jf. § 552, stk. 2, giver adgang til dér at udøve erhvervet som anerkendt statiker, kan virke som anerkendt statiker i Danmark, hvis kursus-, uddannelsesbeviset eller certifikatet er udstedt af en kompetent myndighed i det andet land. En anerkendt statiker fra et andet land skal virke inden for anerkendelsesorganets rammer for anerkendte statikere i Danmark.
+Personer, som er i besiddelse af et kursusbevis, uddannelsesbevis eller certifikat, som i et andet land, jf. [§ 552, stk. 2](#paragraf-552 "BR18 § 552"){ .br18-ref }, giver adgang til dér at udøve erhvervet som anerkendt statiker, kan virke som anerkendt statiker i Danmark, hvis kursus-, uddannelsesbeviset eller certifikatet er udstedt af en kompetent myndighed i det andet land. En anerkendt statiker fra et andet land skal virke inden for anerkendelsesorganets rammer for anerkendte statikere i Danmark.
 
-*Stk. 2.* En anerkendt statiker fra et andet land, jf. § 552, stk. 2, har ret til midlertidigt og lejlighedsvist at virke som anerkendt statiker i Danmark efter anerkendelsesorganets accept, jf. Europa- Parlamentets og Rådets direktiv 2005/36/EF, som senest ændret ved Europa-Parlamentets og Rådets direktiv 2013/55/EU om anerkendelse af erhvervsmæssige kvalifikationer i EU, art. 7, stk. 1, 2, 2a og 4. Meddelelse fra den anerkendte statiker om midlertidigt og lejlighedsvist virke gives til anerkendelsesorganet. Anerkendelsesorganet kan, inden den anerkendte statiker første gang virker som sådan i Danmark, kontrollere den anerkendte statikers erhvervsmæssige kvalifikationer i henhold til direktivets art. 7, stk. 4. Meddelelsen skal fornyes en gang om året.
+*Stk. 2.* En anerkendt statiker fra et andet land, jf. [§ 552, stk. 2](#paragraf-552 "BR18 § 552"){ .br18-ref }, har ret til midlertidigt og lejlighedsvist at virke som anerkendt statiker i Danmark efter anerkendelsesorganets accept, jf. Europa- Parlamentets og Rådets direktiv 2005/36/EF, som senest ændret ved Europa-Parlamentets og Rådets direktiv 2013/55/EU om anerkendelse af erhvervsmæssige kvalifikationer i EU, art. 7, stk. 1, 2, 2a og 4. Meddelelse fra den anerkendte statiker om midlertidigt og lejlighedsvist virke gives til anerkendelsesorganet. Anerkendelsesorganet kan, inden den anerkendte statiker første gang virker som sådan i Danmark, kontrollere den anerkendte statikers erhvervsmæssige kvalifikationer i henhold til direktivets art. 7, stk. 4. Meddelelsen skal fornyes en gang om året.
 
 *Stk. 3.* Personer omfattet af stk. 2, og som udøver erhvervet som anerkendt statiker i Danmark, skal være i besiddelse af
 
@@ -81,11 +81,11 @@ Personer, som er i besiddelse af et kursusbevis, uddannelsesbevis eller certifik
 
 *Stk. 4.* Anerkendelsesorganet kan kontrollere ansøgerens kvalifikationer. Anerkendelsesorganet kan endvidere kontrollere ansøgerens sprogkundskaber, hvor der er alvorlig og konkret tvivl om tilstrækkeligheden af erhvervsudøverens sprogkundskaber.
 
-   *Stk.* *5.* Anerkendelsesorganet kan i overensstemmelse med Europa- Parlamentets og Rådets direktiv 2005/36/EF, som senest ændret ved Europa-Parlamentets og Rådets direktiv 2013/55/EU om anerkendelse af erhvervsmæssige kvalifikationer i EU, art. 14, stk. 1, 2, 4 og 5, selvom ansøger opfylder betingelserne i § 558, stk. 1, kræve, at ansøgeren gennemgår en prøvetid, der ikke må overstige tre år, eller går op til en egnethedsprøve. Hvis anerkendelsesorganet gør brug af adgangen til at kræve prøvetid eller egnethedsprøve, skal anerkendelsesorganets beslutning være behørigt begrundet. Ved vurderingen af, om en ansøger skal gennemgå prøvetid eller egnethedsprøve, skal det indgå, hvorvidt de kundskaber, som ansøgeren har erhvervet i løbet af sin erhvervserfaring eller gennem livslang læring i et andet land, helt eller delvist opfylder kravet om fornødne kvalifikationer. Ansøgeren skal have mulighed for at tage egnethedsprøven senest 6 måneder efter den oprindelige beslutning om at underlægge ansøgeren en egnethedsprøve i overensstemmelse med Europa-Parlamentets og Rådets direktiv 2005/36/EF, som senest ændret ved Europa-Parlamentets og Rådets direktiv 2013/55/EU om anerkendelse af erhvervsmæssige kvalifikationer i EU, art. 14, stk. 6 og 7.
+   *Stk.* *5.* Anerkendelsesorganet kan i overensstemmelse med Europa- Parlamentets og Rådets direktiv 2005/36/EF, som senest ændret ved Europa-Parlamentets og Rådets direktiv 2013/55/EU om anerkendelse af erhvervsmæssige kvalifikationer i EU, art. 14, stk. 1, 2, 4 og 5, selvom ansøger opfylder betingelserne i [§ 558, stk. 1](#paragraf-558 "BR18 § 558"){ .br18-ref }, kræve, at ansøgeren gennemgår en prøvetid, der ikke må overstige tre år, eller går op til en egnethedsprøve. Hvis anerkendelsesorganet gør brug af adgangen til at kræve prøvetid eller egnethedsprøve, skal anerkendelsesorganets beslutning være behørigt begrundet. Ved vurderingen af, om en ansøger skal gennemgå prøvetid eller egnethedsprøve, skal det indgå, hvorvidt de kundskaber, som ansøgeren har erhvervet i løbet af sin erhvervserfaring eller gennem livslang læring i et andet land, helt eller delvist opfylder kravet om fornødne kvalifikationer. Ansøgeren skal have mulighed for at tage egnethedsprøven senest 6 måneder efter den oprindelige beslutning om at underlægge ansøgeren en egnethedsprøve i overensstemmelse med Europa-Parlamentets og Rådets direktiv 2005/36/EF, som senest ændret ved Europa-Parlamentets og Rådets direktiv 2013/55/EU om anerkendelse af erhvervsmæssige kvalifikationer i EU, art. 14, stk. 6 og 7.
 
 *Stk. 6.* Anerkendelsesorganet kan udveksle oplysninger med kompetente myndigheder i andre lande om:
 
-1.  Personer fra andre lande, jf. § 552, stk. 2, der ønsker at virke midlertidigt eller lejlighedsvist som anerkendt statiker i Danmark, jf. stk. 2 og 3.
+1.  Personer fra andre lande, jf. [§ 552, stk. 2](#paragraf-552 "BR18 § 552"){ .br18-ref }, der ønsker at virke midlertidigt eller lejlighedsvist som anerkendt statiker i Danmark, jf. stk. 2 og 3.
 2.  Anerkendte statikere i Danmark, som ønsker midlertidigt eller lejlighedsvist at virke i et andet land som anerkendt statiker.
 
 ### § 559 {#paragraf-559}
@@ -96,11 +96,11 @@ En anerkendelse kan fornys ved udløbet af gyldighedsperioden efter ansøgning f
 
 ### § 560 {#paragraf-560}
 
-Anerkendelsesorganet kan fratage en person betegnelsen ”Anerkendt statiker” i henhold til § 555, efter nærmere fastsatte kriterier.
+Anerkendelsesorganet kan fratage en person betegnelsen ”Anerkendt statiker” i henhold til [§ 555](#paragraf-555 "BR18 § 555"){ .br18-ref }, efter nærmere fastsatte kriterier.
 
 ### § 561 {#paragraf-561}
 
-Beslutning om afslag på fornyelse, jf. § 559, eller fratagelse af en anerkendelse kan af den berørte indankes skriftligt for anerkendelsesorganet, og vedkommende er berettiget til personligt at forelægge sin sag for anerkendelsesorganet.
+Beslutning om afslag på fornyelse, jf. [§ 559](#paragraf-559 "BR18 § 559"){ .br18-ref }, eller fratagelse af en anerkendelse kan af den berørte indankes skriftligt for anerkendelsesorganet, og vedkommende er berettiget til personligt at forelægge sin sag for anerkendelsesorganet.
 
 Anerkendelsesorganet fastlægger anerkendelsesordningens økonomi, herunder betalinger i forbindelse med anerkendelsesordningens drift, således at ordningen økonomisk hviler i sig selv set over tid.
 
@@ -108,4 +108,4 @@ Anerkendelsesorganet fastlægger anerkendelsesordningens økonomi, herunder bet
 
 Den anerkendte statiker skal virke i overensstemmelse med bestemmelserne angivet af anerkendelsesordningen under Ingeniørforeningen i Danmark (IDA).
 
-*Stk. 2.* Ved ansøgning om byggetilladelse og ibrugtagningstilladelse, hvor der er tilknyttet en anerkendt statiker, udformer og underskriver den anerkendte statiker personligt en starterklæring henholdsvis sluterklæring, jf. §§ 24-29, i overensstemmelse med bestemmelser angivet af anerkendelsesordningen under Ingeniørforeningen i Danmark (IDA).
+*Stk. 2.* Ved ansøgning om byggetilladelse og ibrugtagningstilladelse, hvor der er tilknyttet en anerkendt statiker, udformer og underskriver den anerkendte statiker personligt en starterklæring henholdsvis sluterklæring, jf. [§§ 24-29](../../../administrative-bestemmelser/krav/#paragraf-24 "BR18 §§ 24-29"){ .br18-ref }, i overensstemmelse med bestemmelser angivet af anerkendelsesordningen under Ingeniørforeningen i Danmark (IDA).

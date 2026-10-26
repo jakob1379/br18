@@ -21,7 +21,7 @@ Anvendelsen af løfteplatforme skal ses som et muligt alternativ når det ikke e
 
 ### 1.0. Generelt {#115a76d8-c6e0-4817-aca8-800dde891de6}
 
-Det primære formål med kravene i kapitel 10 - Elevatorer, er at sikrer, at brugerne ved egen hjælp har adgang til bygningens etager og derved kan komme til bygningens funktioner. Derudover er formålet også at opnå et forsvarligt sikkerhedsniveau og begrænse energiforbruget ved design, udførelse, drift og vedligehold af elevatorerne.
+Det primære formål med kravene i [kapitel 10](../../krav/ "BR18 kapitel 10"){ .br18-ref } - Elevatorer, er at sikrer, at brugerne ved egen hjælp har adgang til bygningens etager og derved kan komme til bygningens funktioner. Derudover er formålet også at opnå et forsvarligt sikkerhedsniveau og begrænse energiforbruget ved design, udførelse, drift og vedligehold af elevatorerne.
 
 Der henvises til [vejledning om installationer i eksisterende bygninger](../../../../vejledninger/andre_vejledninger/vejledning/installationer-eksisterende-byggeri/ "Installationer eksisterende byggeri")
 
@@ -34,13 +34,13 @@ Bygningsreglementet behandler andetsteds andre krav til elevatorer såsom:
 
 Nybyggeri
 
-Ifølge bygningsreglementet 2018, § 244 skal der i nybyggeri med 3 etager og derover installeres mindst én elevator, der kan betjene hver etage, herunder udnyttet tagetage og kælder. I bygninger med flere opgange gælder kravet for hver opgang. En bygning med stueplan, 1. sal og 2. sal, regnes for en bygning med 3 etager. Kælder medregnes i denne sammenhæng ikke ved opgørelse af etageantallet. For boliger med flere internt forbundne etager, skal elevatoren alene føres til boligens adgangsetage*,* jf. bygningsreglementet 2018, § 245. Bygningen kan således have 3 etager og derover, men ikke nødvendigvis adgang på alle etager, hvilket alligevel kan udløse et elevatorkrav. I figur 1, 2 og 3 beskrives en række eksempler på dette (eksemplerne er vejledende og ikke udtømmende).
+Ifølge bygningsreglementet 2018, [§ 244](../../krav/#paragraf-244 "BR18 § 244"){ .br18-ref } skal der i nybyggeri med 3 etager og derover installeres mindst én elevator, der kan betjene hver etage, herunder udnyttet tagetage og kælder. I bygninger med flere opgange gælder kravet for hver opgang. En bygning med stueplan, 1. sal og 2. sal, regnes for en bygning med 3 etager. Kælder medregnes i denne sammenhæng ikke ved opgørelse af etageantallet. For boliger med flere internt forbundne etager, skal elevatoren alene føres til boligens adgangsetage*,* jf. bygningsreglementet 2018, [§ 245](../../krav/#paragraf-245 "BR18 § 245"){ .br18-ref }. Bygningen kan således have 3 etager og derover, men ikke nødvendigvis adgang på alle etager, hvilket alligevel kan udløse et elevatorkrav. I figur 1, 2 og 3 beskrives en række eksempler på dette (eksemplerne er vejledende og ikke udtømmende).
 
-Kravet om elevatorer gælder ikke for fritliggende enfamiliehuse, rækkehuse og dobbelthuse og lignende, der alene anvendes til boligformål, samt sommerhuse i sommerhusområder, jf. bygningsreglementet 2018, § 243.
+Kravet om elevatorer gælder ikke for fritliggende enfamiliehuse, rækkehuse og dobbelthuse og lignende, der alene anvendes til boligformål, samt sommerhuse i sommerhusområder, jf. bygningsreglementet 2018, [§ 243](../../krav/#paragraf-243 "BR18 § 243"){ .br18-ref }.
 
 Tilbygning og ombygning
 
-Ifølge bygningsreglementet 2018, § 247, er ombygninger og mindre tilbygninger til eksisterende boligbebyggelse ikke omfattet af krav om etablering af elevator.
+Ifølge bygningsreglementet 2018, [§ 247](../../krav/#paragraf-247 "BR18 § 247"){ .br18-ref }, er ombygninger og mindre tilbygninger til eksisterende boligbebyggelse ikke omfattet af krav om etablering af elevator.
 
 Ombygninger i eksisterende boligbyggeri omfatter for eksempel inddragelse af en eksisterende tagetage til bolig.
 
@@ -64,7 +64,7 @@ Figur 3: Eksempler på etager i bygninger (snit) - Eksemplerne er vejledende og 
 
 ### 2.0. Tilgængelighed {#05a1649c-3682-4580-8da1-6eeeeb260593}
 
-Ifølge bygningsreglementet 2018, § 249, skal der i nybyggeri, hvor der installeres elevator, være mindst én elevator designet og udført som type 2 elevator i overensstemmelse med *DS/EN 81-70+A1:2009: Sikkerhedsforskrifter for konstruktion og installation af elevatorer – Særlig anvendelser for passager- og godselevatorer – Del 70: Tilgængelighed til elevatorer for personer, inklusive personer med handicap.* Dette gælder for alle opgange. En type 2 elevator stiller bl.a. specifikke krav til elevatorens dimensioner (1,4 meter x 1,1 meter) og placering af betjeningsknapper.
+Ifølge bygningsreglementet 2018, [§ 249](../../krav/#paragraf-249 "BR18 § 249"){ .br18-ref }, skal der i nybyggeri, hvor der installeres elevator, være mindst én elevator designet og udført som type 2 elevator i overensstemmelse med *DS/EN 81-70+A1:2009: Sikkerhedsforskrifter for konstruktion og installation af elevatorer – Særlig anvendelser for passager- og godselevatorer – Del 70: Tilgængelighed til elevatorer for personer, inklusive personer med handicap.* Dette gælder for alle opgange. En type 2 elevator stiller bl.a. specifikke krav til elevatorens dimensioner (1,4 meter x 1,1 meter) og placering af betjeningsknapper.
 
 Elevatorer skal altid tilpasses til anvendelsen og det kan således være nødvendigt med en elevator der er større end minimumskravet, for eksempel såfremt den skal kunne medbringe større kørestole eller ambulancebårer, eller såfremt den etableres i et byggeri med mange brugere.
 
@@ -80,13 +80,13 @@ Ved etablering af elevatorer skal der ligeledes tages højde for Arbejdstilsynet
 
 ### 4.0. Energiforbrug {#37830e77-2a7f-4014-92ff-035980cc2c07}
 
-Ifølge bygningsreglementet 2018, § 248 stk. 1 må elevatorer energiforbrug ikke overstige hvad der svarer til energiklasse B for enten *DS/EN ISO 25745-2* eller og den tyske standard *VDI 4707 Aufzüge Energieffizienz, März 2009.*
+Ifølge bygningsreglementet 2018, [§ 248 stk. 1](../../krav/#paragraf-248 "BR18 § 248"){ .br18-ref } må elevatorer energiforbrug ikke overstige hvad der svarer til energiklasse B for enten *DS/EN ISO 25745-2* eller og den tyske standard *VDI 4707 Aufzüge Energieffizienz, März 2009.*
 
 *DS/EN ISO 25745-2:* *Elevatorer, rulletrapper og rullefortoves energieffektivitet - Del 2: Beregning af energi for og klassifikation af elevatorer* indeholder bl.a. en metode til at estimere energiforbruget ud fra målte værdier, beregninger og simulationer. Den tyske standard *VDI 4707 Aufzüge Energieffizienz, März 2009*, indeholder en anden metode til at beregne elevatorers energiforbrug der skal benyttes såfremt forbruget ikke kan regnes ud fra DS/EN ISO 25745-2.
 
-Ifølge bygningsreglementet 2018, § 248 stk. 3 kan et højere energiforbrug til elevatordrift end energiklasse B accepteres, hvis der gennemføres tilsvarende kompenserende energibesparelser. Dette kunne for eksempel være merisolering i bygningen eller installation af solvarmeanlæg, varmepumpeanlæg eller solceller. Person- og godselevatorer med en mærkelast over 2.000 kg er undtaget fra energikravet, jf. bygningsreglementet 2018, § 248 stk. 2.
+Ifølge bygningsreglementet 2018, [§ 248 stk. 3](../../krav/#paragraf-248 "BR18 § 248"){ .br18-ref } kan et højere energiforbrug til elevatordrift end energiklasse B accepteres, hvis der gennemføres tilsvarende kompenserende energibesparelser. Dette kunne for eksempel være merisolering i bygningen eller installation af solvarmeanlæg, varmepumpeanlæg eller solceller. Person- og godselevatorer med en mærkelast over 2.000 kg er undtaget fra energikravet, jf. bygningsreglementet 2018, [§ 248 stk. 2](../../krav/#paragraf-248 "BR18 § 248"){ .br18-ref }.
 
-Før ibrugtagningen af elevatorer skal der gennemføres en funktionsafprøvning af energiforbruget, som efterfølgende skal dokumenteres i en rapport. Måling af energiforbruget kan med fordel ske i forbindelse med slutinspektion iht. Arbejdstilsynets regler. Der henvises her til Trafik- Bygge- og Boligstyrelsens vejledning om funktionsafprøvning, jf. bygningsreglementet 2018, § 249.
+Før ibrugtagningen af elevatorer skal der gennemføres en funktionsafprøvning af energiforbruget, som efterfølgende skal dokumenteres i en rapport. Måling af energiforbruget kan med fordel ske i forbindelse med slutinspektion iht. Arbejdstilsynets regler. Der henvises her til Trafik- Bygge- og Boligstyrelsens vejledning om funktionsafprøvning, jf. bygningsreglementet 2018, [§ 249](../../krav/#paragraf-249 "BR18 § 249"){ .br18-ref }.
 
 ### 5.0. Dispensationer {#b58ca414-4e85-411b-a507-cfd66969d40b}
 

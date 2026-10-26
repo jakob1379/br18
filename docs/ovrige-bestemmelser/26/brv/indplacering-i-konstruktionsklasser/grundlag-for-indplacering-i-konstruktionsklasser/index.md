@@ -20,11 +20,11 @@
 
 ### 2.0.0 Grundlag for indplacering i konstruktionsklasser {#cb2bafac-f8f2-4eb5-bc77-14261d746b7d}
 
-De bærende konstruktioner i et byggeri skal ifølge BR18, § 489 indplaceres i konstruktionsklasse 1-4. Konstruktionsklassen fastlægges ifølge BR18, § 485, stk. 1, på grundlag af:
+De bærende konstruktioner i et byggeri skal ifølge BR18, [§ 489](../../../krav/#paragraf-489 "BR18 § 489"){ .br18-ref } indplaceres i konstruktionsklasse 1-4. Konstruktionsklassen fastlægges ifølge BR18, [§ 485, stk. 1](../../../krav/#paragraf-485 "BR18 § 485"){ .br18-ref }, på grundlag af:
 
 - Den konsekvensklasse konstruktionen indplaceres i
-- Den kompleksitet byggeriets konstruktioner har, jf. BR18, § 487.
-- De erfaringer, branchen har med konstruktionstypen, jf. BR18, § 488.
+- Den kompleksitet byggeriets konstruktioner har, jf. BR18, [§ 487](../../../krav/#paragraf-487 "BR18 § 487"){ .br18-ref }.
+- De erfaringer, branchen har med konstruktionstypen, jf. BR18, [§ 488](../../../krav/#paragraf-488 "BR18 § 488"){ .br18-ref }.
 
 Konsekvensklasse, kompleksitet og erfaring beskrives nedenfor.
 

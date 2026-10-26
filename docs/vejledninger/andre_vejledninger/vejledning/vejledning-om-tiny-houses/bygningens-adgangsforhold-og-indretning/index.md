@@ -35,7 +35,7 @@ Den niveaufri adgang skal etableres til mindst én yderdør. Ligesom for alminde
 
 Kravet om etablering af køkken i boliger på under 50 m^2^ kan opfyldes ved, at der etableres en kogeniche, hvor der ikke stilles afstandskrav med hensyn til arbejds- og opbevaringspladser.
 
-Tiny Houses kan udføres i klynger, som fx er fælles om køkken-, bade- og wc-faciliteter og dermed opfyldes hensigten med funktionskravene på anden vis end normalt. I disse tilfælde er det den kommunale byggesagsbehandling, der kan tage stilling til, om der i den konkrete byggesag ikke skal stilles krav om individuelle køkken, bade- og wc-rum jf. § 200 og i stedet anvende § 201. Indretningen af de fælles faciliteter skal ske under hensyn til antallet af beboere i klyngen.
+Tiny Houses kan udføres i klynger, som fx er fælles om køkken-, bade- og wc-faciliteter og dermed opfyldes hensigten med funktionskravene på anden vis end normalt. I disse tilfælde er det den kommunale byggesagsbehandling, der kan tage stilling til, om der i den konkrete byggesag ikke skal stilles krav om individuelle køkken, bade- og wc-rum jf. [§ 200](../../../../../tekniske-bestemmelser/09/krav/#paragraf-200 "BR18 § 200"){ .br18-ref } og i stedet anvende [§ 201](../../../../../tekniske-bestemmelser/09/krav/#paragraf-201 "BR18 § 201"){ .br18-ref }. Indretningen af de fælles faciliteter skal ske under hensyn til antallet af beboere i klyngen.
 
 ### 4. Energiforbrug og klimapåvirkning {#1d19ac66-0648-4771-b140-822fb7f10d2c}
 

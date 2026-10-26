@@ -16,7 +16,7 @@
 
 ### Forord {#c0231c7f-f782-4a3f-b4d6-1063816ca640}
 
-Projektering, udførelse, drift og vedligehold af konstruktioner og bygningsdele skal ske efter bestemmelser i bygningsreglementet 2018 (BR18), kapitel 15 om konstruktioner. Følges denne vejledning, sikres det, at konstruktioner og bygningsdele overholder disse bestemmelser.
+Projektering, udførelse, drift og vedligehold af konstruktioner og bygningsdele skal ske efter bestemmelser i bygningsreglementet 2018 (BR18), [kapitel 15](../../../krav/ "BR18 kapitel 15"){ .br18-ref } om konstruktioner. Følges denne vejledning, sikres det, at konstruktioner og bygningsdele overholder disse bestemmelser.
 
 Denne vejledning omfatter kun kapitel 15, og omhandler således ikke yderligere vejledning om f.eks. indplacering i konstruktionsklasser ([BR18, kapitel 26](../../../../../ovrige-bestemmelser/26/krav/ "Krav")), dokumentation og kontrol af bærende konstruktioner ([BR18, kapitel 28](../../../../../ovrige-bestemmelser/28/krav/ "Krav") og [30](../../../../../ovrige-bestemmelser/30/krav/ "Krav")) samt certificeringsordningen for dokumentation af tekniske forhold i bygningsreglementet, herunder certificeret statikers virke [(kapitel 32](../../../../../ovrige-bestemmelser/32/krav/ "Krav") og [33](../../../../../ovrige-bestemmelser/33/krav/ "Krav")).
 

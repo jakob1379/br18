@@ -157,7 +157,7 @@ Aftrækssystemer skal udføres og installeres, så de er sikret mod tilstopning,
 
 ### § 320 {#paragraf-320}
 
-Aftrækssystemer skal projekteres, udføres og installeres, så de kan modstå fyringsanlæggets røggastemperatur. Der henvises til bestemmelserne i §§ 105-107 i forhold til risikoen for en brands opståen og spredning og § 323 i forhold til aftrækssystemets overfladetemperatur.
+Aftrækssystemer skal projekteres, udføres og installeres, så de kan modstå fyringsanlæggets røggastemperatur. Der henvises til bestemmelserne i [§§ 105-107](../05/krav/#42fc6c1b-6139-49c9-a3fe-e5304751d67c "BR18 §§ 105-107"){ .br18-ref } i forhold til risikoen for en brands opståen og spredning og [§ 323](#paragraf-323 "BR18 § 323"){ .br18-ref } i forhold til aftrækssystemets overfladetemperatur.
 
 *Stk. 2.* Manuelt fyrede fastbrændselsanlæg samt pejse og brændeovne må ikke tilsluttes aftræk med lavere temperaturklasse, jf. *DS/EN 1443 Skorstene – Generelle krav end* *T400.*
 
@@ -229,7 +229,7 @@ Der skal gennemføres en funktionsafprøvning af energiforsyningsanlæg i tilkny
 
 ### § 328 {#paragraf-328}
 
-Drift og vedligehold af installationer til energiforsyning skal ske, så de til enhver tid overholder de for anlægget relevante bestemmelser i §§ 299-327.
+Drift og vedligehold af installationer til energiforsyning skal ske, så de til enhver tid overholder de for anlægget relevante bestemmelser i [§§ 299-327](#paragraf-299 "BR18 §§ 299-327"){ .br18-ref }.
 
 *Stk. 2.* Der skal foreligge en drifts- og vedligeholdelsesmanual inden ibrugtagning. Manualen skal indeholde tegninger med oplysning om placering af installationer, der skal vedligeholdes, samt hvordan og hvor ofte vedligeholdelsen skal ske.
 

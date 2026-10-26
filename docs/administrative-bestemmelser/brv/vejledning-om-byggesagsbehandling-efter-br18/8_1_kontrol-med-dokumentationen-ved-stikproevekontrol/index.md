@@ -100,7 +100,7 @@ Når en byggesag udtages til stikprøvekontrol er det den samlede tekniske dokum
 
 Kommunalbestyrelsen tilrettelægger selv i hvert enkelt tilfælde af stikprøvekontrol, hvilke forhold det i lyset af det konkrete byggeris nærmere karakter er relevant at påse.
 
-Stikprøvekontrollen skal sikre, at bygningers tekniske forhold er tilstrækkeligt dokumenteret, og at bygninger er opført i overensstemmelse med gældende bygningsreglement, jf. § 40, stk. 2, nr. 3.
+Stikprøvekontrollen skal sikre, at bygningers tekniske forhold er tilstrækkeligt dokumenteret, og at bygninger er opført i overensstemmelse med gældende bygningsreglement, jf. [§ 40, stk. 2, nr. 3](../../../krav/#paragraf-40 "BR18 § 40"){ .br18-ref }.
 
 Under stikprøvekontrollen skal kommunalbestyrelsen kontrollere overensstemmelsen med bygningsreglementet i forhold til de specifikke niveauer, som er fastsat på baggrund af bygningsreglementets funktionskrav, og i forhold til beskrivelser, forudsætninger, tegningsmateriale, prøvninger samt drift og vedligeholdelsesmanualer, i det omfang de er relevante for de enkelte bestemmelser.
 
@@ -108,11 +108,11 @@ Stikprøvekontrollen omfatter kun kontrol af beregninger, i det omfang, at der e
 
 Hvor der i dokumentationen for det konkrete byggeri er henvist til, at kravene eftervises ved brug af en af vejledningerne til BR18, kan disse vejledninger tillige lægges til grund for de niveauer, der eftervises.
 
-Ved stikprøvekontrollen skal dokumentationen sammenholdes på tværs af fagområderne i bygningsreglementets kapitel 2-22, så det sikres, at der er overensstemmelse mellem dokumentationen og beregningsforudsætningerne for det færdige byggeri. Det kan f.eks. være kontrol af, at de værdier som indgår i energiberegningen er de samme, som benyttes i indeklimaberegningen.
+Ved stikprøvekontrollen skal dokumentationen sammenholdes på tværs af fagområderne i bygningsreglementets [kapitel 2-22](../../../../tekniske-bestemmelser/02/krav/ "BR18 kapitel 2-22"){ .br18-ref }, så det sikres, at der er overensstemmelse mellem dokumentationen og beregningsforudsætningerne for det færdige byggeri. Det kan f.eks. være kontrol af, at de værdier som indgår i energiberegningen er de samme, som benyttes i indeklimaberegningen.
 
 Nedenstående liste angiver en række tekniske forhold, som afhængigt af byggeriets karakter kan indgå i stikprøvekontrollen. Listen er vejledende og ikke udtømmende.
 
-**Kapitel 2: Adgangsforhold**
+**[Kapitel 2](../../../../tekniske-bestemmelser/02/krav/ "BR18 kapitel 2"){ .br18-ref }: Adgangsforhold**
 
 - Adgangsforhold frem til bygningen
   - Bredder
@@ -138,7 +138,7 @@ Nedenstående liste angiver en række tekniske forhold, som afhængigt af bygger
   - Højder
   - Information: læselighed og forståelighed
 
-**Kapitel 3: Affaldssystemer**
+**[Kapitel 3](../../../../tekniske-bestemmelser/03/krav/ "BR18 kapitel 3"){ .br18-ref }: Affaldssystemer**
 
 - Den valgte løsning for affaldshåndtering
 
@@ -148,7 +148,7 @@ Nedenstående liste angiver en række tekniske forhold, som afhængigt af bygger
   - Energiforbrug
   - Brugervenlighed
 
-**Kapitel 4: Afløb**
+**[Kapitel 4](../../../../tekniske-bestemmelser/04/krav/ "BR18 kapitel 4"){ .br18-ref }: Afløb**
 
 - Valg af afløbsløsning også i relation til anden lovgivning
 - DS 432
@@ -157,18 +157,18 @@ Nedenstående liste angiver en række tekniske forhold, som afhængigt af bygger
 - Udluftning
 - Komplet drift- og vedligeholdelsesmanual
 
-**Kapitel 5: Brand for byggeri i brandklasse 1**
+**[Kapitel 5](../../../../tekniske-bestemmelser/05/krav/ "BR18 kapitel 5"){ .br18-ref }: Brand for byggeri i brandklasse 1**
 
 - Bygningens størrelse i relation til brandklassen
 - Afstandsforhold til andre bygninger, skel, vej
 - Brandmæssigt egnede materialer, konstruktioner og bygningsdele
 - Indsatstaktisk traditionel
 
-**Kapitel 6: Brugerbetjente anlæg**
+**[Kapitel 6](../../../../tekniske-bestemmelser/06/krav/ "BR18 kapitel 6"){ .br18-ref }: Brugerbetjente anlæg**
 
 - Adgangsareal og højde
 
-**Kapitel 7: Byggepladsen og udførelse af byggearbejder**
+**[Kapitel 7](../../../../tekniske-bestemmelser/07/krav/ "BR18 kapitel 7"){ .br18-ref }: Byggepladsen og udførelse af byggearbejder**
 
 - Byggepladsens indretning
 - Byggepladsen i forhold til naboer
@@ -203,13 +203,13 @@ Nedenstående liste angiver en række tekniske forhold, som afhængigt af bygger
 
   - Risikovurdering
 
-**Kapitel 10: Elevatorer**
+**[Kapitel 10](../../../../tekniske-bestemmelser/10/krav/ "BR18 kapitel 10"){ .br18-ref }: Elevatorer**
 
 - Elevatorkrav påkrævet ved 3 etager eller derover
 - Elevatorstols dimensioner
 - Funktionsafprøvning
 
-**Kapitel 11: Energiforbrug**
+**[Kapitel 11](../../../../tekniske-bestemmelser/11/krav/ "BR18 kapitel 11"){ .br18-ref }: Energiforbrug**
 
 - Valg af dokumentationsmetode
 - Energiberegning
@@ -220,32 +220,32 @@ Nedenstående liste angiver en række tekniske forhold, som afhængigt af bygger
 - Indregning af tæthed for det trykprøvede areal
 - Bygningsopvarmning
 
-**Kapitel 12: Energiforsyningsanlæg**
+**[Kapitel 12](../../../../tekniske-bestemmelser/12/krav/ "BR18 kapitel 12"){ .br18-ref }: Energiforsyningsanlæg**
 
 - Aftrækssystemer
 
   - Komplet drift- og vedligeholdelsesmanual
 
-**Kapitel 13: Forureninger**
+**[Kapitel 13](../../../../tekniske-bestemmelser/13/krav/ "BR18 kapitel 13"){ .br18-ref }: Forureninger**
 
 - Radonsikring
 - Dokumentation for at formaldehydafgivende materialer, der er omfattet af DS/EN 13986, opfylder klasse E1
 
-**Kapitel 14: Fugt**
+**[Kapitel 14](../../../../tekniske-bestemmelser/14/krav/ "BR18 kapitel 14"){ .br18-ref }: Fugt**
 
 - Beskrivelse af fugtsikring, herunder beskrivelse af sikring mod fugt fra indeklima, jord, grundvand, overfladevand og fugtskader fra byggefasen
 - Vådrumssikring
 
-**Kapitel 15: Konstruktioner for byggeri i konstruktionsklasse 1**
+**[Kapitel 15](../../../../tekniske-bestemmelser/15/krav/ "BR18 kapitel 15"){ .br18-ref }: Konstruktioner for byggeri i konstruktionsklasse 1**
 
 - Dokumentation af bærende konstruktioner
 
-**Kapitel 16: Legepladser mv.**
+**[Kapitel 16](../../../../tekniske-bestemmelser/16/krav/ "BR18 kapitel 16"){ .br18-ref }: Legepladser mv.**
 
 - DS/EN 1176 – serien
 - Motionsredskaber og andre legeredskaber mv. iht. relevante standarder
 
-**Kapitel 17: Lydforhold**
+**[Kapitel 17](../../../../tekniske-bestemmelser/17/krav/ "BR18 kapitel 17"){ .br18-ref }: Lydforhold**
 
 - Overholdelse af DS490 for boliger.
 - Fastlagte projekteringsværdier for andre bygninger end boliger
@@ -255,7 +255,7 @@ Nedenstående liste angiver en række tekniske forhold, som afhængigt af bygger
 - Støj fra tekniske installationer
 - Rumakustik
 
-**Kapitel 18: Lys og udsyn**
+**[Kapitel 18](../../../../tekniske-bestemmelser/18/krav/ "BR18 kapitel 18"){ .br18-ref }: Lys og udsyn**
 
 - Dagslys
 
@@ -270,7 +270,7 @@ Nedenstående liste angiver en række tekniske forhold, som afhængigt af bygger
   - Bevægelsesmeldere og zoneopdeling
   - Funktionsafprøvning
 
-**Kapitel 19: Termisk indeklima og installationer til varme- og køleanlæg**
+**[Kapitel 19](../../../../tekniske-bestemmelser/19/krav/ "BR18 kapitel 19"){ .br18-ref }: Termisk indeklima og installationer til varme- og køleanlæg**
 
 - Dokumentation for bygningens termiske indeklima
 - Isolering af installationer i henhold til DS 452
@@ -281,7 +281,7 @@ Nedenstående liste angiver en række tekniske forhold, som afhængigt af bygger
 
   - Komplet drift- og vedligeholdelsesmanual
 
-**Kapitel 21: Vand**
+**[Kapitel 21](../../../../tekniske-bestemmelser/21/krav/ "BR18 kapitel 21"){ .br18-ref }: Vand**
 
 - (DS 439)
 - Vandmængde/vandstrøm
@@ -292,7 +292,7 @@ Nedenstående liste angiver en række tekniske forhold, som afhængigt af bygger
 
   - Komplet drift- og vedligeholdelsesmanual
 
-**Kapitel 22: Ventilation**
+**[Kapitel 22](../../../../tekniske-bestemmelser/22/krav/ "BR18 kapitel 22"){ .br18-ref }: Ventilation**
 
 - Ventilationskoncept
 - Overensstemmelse med DS 447, DS 428 og DS 452

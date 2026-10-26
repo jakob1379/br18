@@ -122,11 +122,11 @@
 
 ### 9.6. Krav til bygningsautomatikken {#3a095cce-b7d0-4e11-837e-7194d984e382}
 
-For at bygningsautomatikken opfylder kravene i § 295 stk. 3 skal den overholde følgende krav:
+For at bygningsautomatikken opfylder kravene i [§ 295 stk. 3](../../../krav/#paragraf-295 "BR18 § 295"){ .br18-ref } skal den overholde følgende krav:
 
 *Et fælles eller flere separate systemer for bygningsautomatik:*
 
-Kravene til bygningsautomatikken kan opfyldes med et eller flere it-baserede systemer, som tilsammen dækker funktionerne angivet i § 295 stk. 3. Hvis der er flere systemer, skal der være automatisk dataudveksling mellem systemerne og alle bygningsautomatikkens funktioner, indstillinger og indreguleringer skal kunne betjenes fra den samme enhed fx en pc. Desuden skal driftspersonalet underrettes om væsentlige fejlmeddelelser og alarmer, fx på mobiltelefon (smartphone).
+Kravene til bygningsautomatikken kan opfyldes med et eller flere it-baserede systemer, som tilsammen dækker funktionerne angivet i [§ 295 stk. 3](../../../krav/#paragraf-295 "BR18 § 295"){ .br18-ref }. Hvis der er flere systemer, skal der være automatisk dataudveksling mellem systemerne og alle bygningsautomatikkens funktioner, indstillinger og indreguleringer skal kunne betjenes fra den samme enhed fx en pc. Desuden skal driftspersonalet underrettes om væsentlige fejlmeddelelser og alarmer, fx på mobiltelefon (smartphone).
 
 Der er således frihed til at opbygge bygningsautomatikken, som det er mest hensigtsmæssigt i den aktuelle bygning. Det kan så være alt fra et CTS-anlæg med alle funktionerne inkluderet til en konstellation af fx individuelle automatik på de enkelte anlæg med fuld datadeling, vejrdata fra fx DMI, internet opkobling af målerne og software til energianalyse. Det afgørende er, at alt kan betjenes fra samme enhed med datadeling af de afgørende data mellem systemerne, og at driftspersonalet får de angivne fejlmeddelelser og alarmer på mobiltelefonen, så der bliver samme funktionalitet af bygningsautomatikken med de forskellige løsninger.
 
@@ -166,4 +166,4 @@ Målerdataene sammenholdes med vejrdata for lufttemperatur og soltilskud fx med 
 
 *Funktionsafprøvning*
 
-Bygningsautomatikken skal funktionsafprøves ifølge bygningsreglementets §296. Funktionsafprøvningen skal gennemføres, så det sikres, at bygningsautomatikken er korrekt installeret og virker efter hensigten. Se mere om funktionsafprøvning i bygningsreglementets vejledning om funktionsafprøvning.
+Bygningsautomatikken skal funktionsafprøves ifølge bygningsreglementets [§296](../../../krav/#paragraf-296 "BR18 § 296"){ .br18-ref }. Funktionsafprøvningen skal gennemføres, så det sikres, at bygningsautomatikken er korrekt installeret og virker efter hensigten. Se mere om funktionsafprøvning i bygningsreglementets vejledning om funktionsafprøvning.

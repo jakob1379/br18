@@ -94,6 +94,6 @@ Eksempel 6
 
 I et butikscenter indrettet til flere end 150 personer ændres der på en butiksindretning inkl. udgangsdørene fra butikken til de udlagte flugtveje. Ombygningen følger retningslinjerne i butikscentrets brandstrategi, og der ændres ikke på bærende konstruktioner, personbelastning eller antal og bredde af udgange til flugtveje.
 
-Ændringen kan udføres uden byggetilladelse, men inventaropstillingsplan skal opdateres og udfærdiges af en certificeret brandrådgiver eller godkendes af kommunalbestyrelsen jf. BR18 § 6h, stk.1.
+Ændringen kan udføres uden byggetilladelse, men inventaropstillingsplan skal opdateres og udfærdiges af en certificeret brandrådgiver eller godkendes af kommunalbestyrelsen jf. BR18 [§ 6h, stk.1](../../../krav/#paragraf-6h "BR18 § 6h"){ .br18-ref }.
 
 ### 6 Eksempler på, hvornår et byggearbejde ikke er undtaget for byggetilladelse, jf. § 5, stk. 1, nr. 4, og hvor der enten skal tilknyttes en certificeret brandrådgiver og/eller statiker, jf. § 10, stk. 2, nr. 3 og 5 {#7b806321-6273-455b-a03f-ee7614102c95}

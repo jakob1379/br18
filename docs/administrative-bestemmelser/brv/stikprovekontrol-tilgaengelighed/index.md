@@ -42,13 +42,13 @@ Denne vejledning skal understøtte kommunernes indsats i forbindelse med den del
 
 I stikprøvekontrollen skal kommunerne bl.a. vurdere, om de udtrukne byggesager tilbyder ligeværdighed i adgangsforhold og indretning^4^. Et ensartet kontrolniveau vil understøtte en identificering af, hvor udfordringerne befinder sig. Derfor er det vigtigt, at stikprøvekontrollen omfatter alle relevante bestemmelser i bygningsreglementet.
 
-1\) Bygningsreglementet, kap. 1, § 46.
+1\) Bygningsreglementet, [kap. 1](../../krav/ "BR18 kapitel 1"){ .br18-ref }, [§ 46](../../krav/#paragraf-46 "BR18 § 46"){ .br18-ref }.
 
-2\) Bygningsreglementet, kap. 1, Vejledning om byggesagsbehandling efter BR18.
+2\) Bygningsreglementet, [kap. 1](../../krav/ "BR18 kapitel 1"){ .br18-ref }, Vejledning om byggesagsbehandling efter BR18.
 
 3\) Tiltagspakke til fremme af tilgængelighed 2018, Trafik-, Bygge- og Boligstyrelsen, 23. januar 2018
 
-4\) Bygningsreglementet, kap. 2, Vejledning til brugerbegreb, 0.0.0.
+4\) Bygningsreglementet, [kap. 2](../../../tekniske-bestemmelser/02/krav/ "BR18 kapitel 2"){ .br18-ref }, Vejledning til brugerbegreb, 0.0.0.
 
 <span id="stikprvekontrol-afklaring-af-bestemmelser-og-brugergruppe"></span>
 
@@ -79,75 +79,75 @@ Det indledende skridt i kommunens kontrol er at afklare, hvilke bestemmelser i b
 </tr>
 <tr>
 <td> Kunne komme frem til bygning/ opholdsareal/ parkeringsareal</td>
-<td> § 48, § 49</td>
-<td> § 48, § 49</td>
-<td> § 48, § 49</td>
-<td> § 48, § 49</td>
+<td> <a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#c6942220-e3f7-4553-a064-c1749f215574" title="BR18 § 48">§ 48</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-49" title="BR18 § 49">§ 49</a></td>
+<td> <a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#c6942220-e3f7-4553-a064-c1749f215574" title="BR18 § 48">§ 48</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-49" title="BR18 § 49">§ 49</a></td>
+<td> <a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#c6942220-e3f7-4553-a064-c1749f215574" title="BR18 § 48">§ 48</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-49" title="BR18 § 49">§ 49</a></td>
+<td> <a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#c6942220-e3f7-4553-a064-c1749f215574" title="BR18 § 48">§ 48</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-49" title="BR18 § 49">§ 49</a></td>
 </tr>
 <tr>
 <td> 
 <p>Ind i bygning</p></td>
-<td><p>§ 51,</p>
-§ 52, § 53, § 54</td>
-<td> § 51, § 52, § 53, § 54</td>
-<td><p>§ 51,</p>
-§ 52, § 53, § 54</td>
-<td><p>§ 51,</p>
-§ 52, § 53, § 54</td>
+<td><p><a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-51" title="BR18 § 51">§ 51</a>,</p>
+<a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-52" title="BR18 § 52">§ 52</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-53" title="BR18 § 53">§ 53</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-54" title="BR18 § 54">§ 54</a></td>
+<td> <a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-51" title="BR18 § 51">§ 51</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-52" title="BR18 § 52">§ 52</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-53" title="BR18 § 53">§ 53</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-54" title="BR18 § 54">§ 54</a></td>
+<td><p><a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-51" title="BR18 § 51">§ 51</a>,</p>
+<a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-52" title="BR18 § 52">§ 52</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-53" title="BR18 § 53">§ 53</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-54" title="BR18 § 54">§ 54</a></td>
+<td><p><a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-51" title="BR18 § 51">§ 51</a>,</p>
+<a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-52" title="BR18 § 52">§ 52</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-53" title="BR18 § 53">§ 53</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-54" title="BR18 § 54">§ 54</a></td>
 </tr>
 <tr>
 <td> 
 <p>Kunne komme frem til funktion</p></td>
 <td><p>(frem til bolig),</p>
-<p>§ 55,</p>
-<p>§ 56, § 57, § 58,</p>
-§ 59, § 60, § 61</td>
-<td><p>§ 55,</p>
-<p>§ 56, § 57, § 58,</p>
-<p>§ 59, § 60,</p>
-§ 61, § 62</td>
-<td><p>§ 55, § 56, § 57,</p>
-<p>§ 58, § 59, § 60,</p>
-§ 61</td>
-<td><p>§ 55, § 56, § 57,</p>
-<p>§ 58, § 59,</p>
-<p>§ 60,</p>
-<p>§ 61</p>
-§ 232</td>
+<p><a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-55" title="BR18 § 55">§ 55</a>,</p>
+<p><a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-56" title="BR18 § 56">§ 56</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#e71ec445-7474-4b34-adaa-cd9f4a3daf6d" title="BR18 § 57">§ 57</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-58" title="BR18 § 58">§ 58</a>,</p>
+<a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-59" title="BR18 § 59">§ 59</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-60" title="BR18 § 60">§ 60</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#3be63de8-43d2-4577-8860-d6ebe210ed67" title="BR18 § 61">§ 61</a></td>
+<td><p><a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-55" title="BR18 § 55">§ 55</a>,</p>
+<p><a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-56" title="BR18 § 56">§ 56</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#e71ec445-7474-4b34-adaa-cd9f4a3daf6d" title="BR18 § 57">§ 57</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-58" title="BR18 § 58">§ 58</a>,</p>
+<p><a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-59" title="BR18 § 59">§ 59</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-60" title="BR18 § 60">§ 60</a>,</p>
+<a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#3be63de8-43d2-4577-8860-d6ebe210ed67" title="BR18 § 61">§ 61</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#ce59f572-756e-4351-9503-2e85fde787ca" title="BR18 § 62">§ 62</a></td>
+<td><p><a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-55" title="BR18 § 55">§ 55</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-56" title="BR18 § 56">§ 56</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#e71ec445-7474-4b34-adaa-cd9f4a3daf6d" title="BR18 § 57">§ 57</a>,</p>
+<p><a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-58" title="BR18 § 58">§ 58</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-59" title="BR18 § 59">§ 59</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-60" title="BR18 § 60">§ 60</a>,</p>
+<a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#3be63de8-43d2-4577-8860-d6ebe210ed67" title="BR18 § 61">§ 61</a></td>
+<td><p><a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-55" title="BR18 § 55">§ 55</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-56" title="BR18 § 56">§ 56</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#e71ec445-7474-4b34-adaa-cd9f4a3daf6d" title="BR18 § 57">§ 57</a>,</p>
+<p><a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-58" title="BR18 § 58">§ 58</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-59" title="BR18 § 59">§ 59</a>,</p>
+<p><a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#paragraf-60" title="BR18 § 60">§ 60</a>,</p>
+<p><a class="br18-ref" href="../../../tekniske-bestemmelser/02/krav/#3be63de8-43d2-4577-8860-d6ebe210ed67" title="BR18 § 61">§ 61</a></p>
+<a class="br18-ref" href="../../../tekniske-bestemmelser/09/krav/#paragraf-232" title="BR18 § 232">§ 232</a></td>
 </tr>
 <tr>
 <td> 
 <p>Kunne tage elevator</p></td>
-<td><p>§ 242, § 244, § 245, § 246</p>
-Ombygning/ tilbygning: § 247</td>
+<td><p><a class="br18-ref" href="../../../tekniske-bestemmelser/10/krav/#paragraf-242" title="BR18 § 242">§ 242</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/10/krav/#paragraf-244" title="BR18 § 244">§ 244</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/10/krav/#paragraf-245" title="BR18 § 245">§ 245</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/10/krav/#paragraf-246" title="BR18 § 246">§ 246</a></p>
+Ombygning/ tilbygning: <a class="br18-ref" href="../../../tekniske-bestemmelser/10/krav/#paragraf-247" title="BR18 § 247">§ 247</a></td>
 <td> 
-<p>§ 242, § 244, § 246</p></td>
+<p><a class="br18-ref" href="../../../tekniske-bestemmelser/10/krav/#paragraf-242" title="BR18 § 242">§ 242</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/10/krav/#paragraf-244" title="BR18 § 244">§ 244</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/10/krav/#paragraf-246" title="BR18 § 246">§ 246</a></p></td>
 <td> 
-<p>§ 242, § 244, § 246</p></td>
-<td> § 242, § 244, § 246</td>
+<p><a class="br18-ref" href="../../../tekniske-bestemmelser/10/krav/#paragraf-242" title="BR18 § 242">§ 242</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/10/krav/#paragraf-244" title="BR18 § 244">§ 244</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/10/krav/#paragraf-246" title="BR18 § 246">§ 246</a></p></td>
+<td> <a class="br18-ref" href="../../../tekniske-bestemmelser/10/krav/#paragraf-242" title="BR18 § 242">§ 242</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/10/krav/#paragraf-244" title="BR18 § 244">§ 244</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/10/krav/#paragraf-246" title="BR18 § 246">§ 246</a></td>
 </tr>
 <tr>
 <td> Kunne benytte brugerbetjente anlæg</td>
-<td> § 159, § 160</td>
-<td> § 159, § 160</td>
-<td> § 159, § 160</td>
-<td> § 159, § 160</td>
+<td> <a class="br18-ref" href="../../../tekniske-bestemmelser/06/krav/#1cb18e5f-4a27-44cd-9cf4-f946d4ae9f92" title="BR18 § 159">§ 159</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/06/krav/#7dec764f-2773-44e4-90d5-eefd7b687b59" title="BR18 § 160">§ 160</a></td>
+<td> <a class="br18-ref" href="../../../tekniske-bestemmelser/06/krav/#1cb18e5f-4a27-44cd-9cf4-f946d4ae9f92" title="BR18 § 159">§ 159</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/06/krav/#7dec764f-2773-44e4-90d5-eefd7b687b59" title="BR18 § 160">§ 160</a></td>
+<td> <a class="br18-ref" href="../../../tekniske-bestemmelser/06/krav/#1cb18e5f-4a27-44cd-9cf4-f946d4ae9f92" title="BR18 § 159">§ 159</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/06/krav/#7dec764f-2773-44e4-90d5-eefd7b687b59" title="BR18 § 160">§ 160</a></td>
+<td> <a class="br18-ref" href="../../../tekniske-bestemmelser/06/krav/#1cb18e5f-4a27-44cd-9cf4-f946d4ae9f92" title="BR18 § 159">§ 159</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/06/krav/#7dec764f-2773-44e4-90d5-eefd7b687b59" title="BR18 § 160">§ 160</a></td>
 </tr>
 <tr>
 <td> Kunne komme på toilettet</td>
-<td> § 204</td>
-<td> § 214, § 215, § 216</td>
-<td><p>§ 223</p>
-§ 224</td>
-<td><p>§ 233</p>
-<p>§ 234, § 235,</p>
-§ 236</td>
+<td> <a class="br18-ref" href="../../../tekniske-bestemmelser/09/krav/#paragraf-204" title="BR18 § 204">§ 204</a></td>
+<td> <a class="br18-ref" href="../../../tekniske-bestemmelser/09/krav/#paragraf-214" title="BR18 § 214">§ 214</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/09/krav/#paragraf-215" title="BR18 § 215">§ 215</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/09/krav/#paragraf-216" title="BR18 § 216">§ 216</a></td>
+<td><p><a class="br18-ref" href="../../../tekniske-bestemmelser/09/krav/#paragraf-223" title="BR18 § 223">§ 223</a></p>
+<a class="br18-ref" href="../../../tekniske-bestemmelser/09/krav/#paragraf-224" title="BR18 § 224">§ 224</a></td>
+<td><p><a class="br18-ref" href="../../../tekniske-bestemmelser/09/krav/#paragraf-233" title="BR18 § 233">§ 233</a></p>
+<p><a class="br18-ref" href="../../../tekniske-bestemmelser/09/krav/#paragraf-234" title="BR18 § 234">§ 234</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/09/krav/#paragraf-235" title="BR18 § 235">§ 235</a>,</p>
+<a class="br18-ref" href="../../../tekniske-bestemmelser/09/krav/#paragraf-236" title="BR18 § 236">§ 236</a></td>
 </tr>
 <tr>
 <td> Kunne forsamles</td>
 <td> </td>
-<td><p>§ 217, § 218</p>
-§ 220</td>
+<td><p><a class="br18-ref" href="../../../tekniske-bestemmelser/09/krav/#paragraf-217" title="BR18 § 217">§ 217</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/09/krav/#paragraf-218" title="BR18 § 218">§ 218</a></p>
+<a class="br18-ref" href="../../../tekniske-bestemmelser/09/krav/#paragraf-220" title="BR18 § 220">§ 220</a></td>
 <td> </td>
 <td> </td>
 </tr>
@@ -156,21 +156,21 @@ Ombygning/ tilbygning: § 247</td>
 <td> </td>
 <td> </td>
 <td> </td>
-<td> § 237</td>
+<td> <a class="br18-ref" href="../../../tekniske-bestemmelser/09/krav/#paragraf-237" title="BR18 § 237">§ 237</a></td>
 </tr>
 <tr>
 <td> Kunne parkere</td>
-<td> § 399, § 401</td>
-<td> § 399, § 401</td>
-<td> § 399, § 401</td>
-<td> § 399, § 401</td>
+<td> <a class="br18-ref" href="../../../tekniske-bestemmelser/20/krav/#paragraf-399" title="BR18 § 399">§ 399</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/20/krav/#paragraf-401" title="BR18 § 401">§ 401</a></td>
+<td> <a class="br18-ref" href="../../../tekniske-bestemmelser/20/krav/#paragraf-399" title="BR18 § 399">§ 399</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/20/krav/#paragraf-401" title="BR18 § 401">§ 401</a></td>
+<td> <a class="br18-ref" href="../../../tekniske-bestemmelser/20/krav/#paragraf-399" title="BR18 § 399">§ 399</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/20/krav/#paragraf-401" title="BR18 § 401">§ 401</a></td>
+<td> <a class="br18-ref" href="../../../tekniske-bestemmelser/20/krav/#paragraf-399" title="BR18 § 399">§ 399</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/20/krav/#paragraf-401" title="BR18 § 401">§ 401</a></td>
 </tr>
 <tr>
 <td> Kunne aflevere affald</td>
-<td> § 65, § 397</td>
-<td> § 65, § 397</td>
-<td> § 65, § 397</td>
-<td> § 65, § 397</td>
+<td> <a class="br18-ref" href="../../../tekniske-bestemmelser/03/krav/#paragraf-65" title="BR18 § 65">§ 65</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/20/krav/#paragraf-397" title="BR18 § 397">§ 397</a></td>
+<td> <a class="br18-ref" href="../../../tekniske-bestemmelser/03/krav/#paragraf-65" title="BR18 § 65">§ 65</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/20/krav/#paragraf-397" title="BR18 § 397">§ 397</a></td>
+<td> <a class="br18-ref" href="../../../tekniske-bestemmelser/03/krav/#paragraf-65" title="BR18 § 65">§ 65</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/20/krav/#paragraf-397" title="BR18 § 397">§ 397</a></td>
+<td> <a class="br18-ref" href="../../../tekniske-bestemmelser/03/krav/#paragraf-65" title="BR18 § 65">§ 65</a>, <a class="br18-ref" href="../../../tekniske-bestemmelser/20/krav/#paragraf-397" title="BR18 § 397">§ 397</a></td>
 </tr>
 </tbody>
 </table>
@@ -189,11 +189,11 @@ Ligeværdighed i adgangsforhold og indretning handler om at gøre det muligt for
 
 For mere inspiration til fastlæggelse af brugergruppe henvises til 2.0 Uddybning angående brugerne samt *Vejledning til brugerbegreb*^7^ i bygningsreglementet.
 
-5\) Bygningsreglementet, kap. 1, § 40, stk. 2.
+5\) Bygningsreglementet, [kap. 1](../../krav/ "BR18 kapitel 1"){ .br18-ref }, [§ 40, stk. 2](../../krav/#paragraf-40 "BR18 § 40"){ .br18-ref }.
 
-6\) Bygningsreglementet, kap. 2, Vejledning til brugerbegreb, 3.0.0.
+6\) Bygningsreglementet, [kap. 2](../../../tekniske-bestemmelser/02/krav/ "BR18 kapitel 2"){ .br18-ref }, Vejledning til brugerbegreb, 3.0.0.
 
-7\) Bygningsreglementet, kap. 2, Vejledning til brugerbegreb
+7\) Bygningsreglementet, [kap. 2](../../../tekniske-bestemmelser/02/krav/ "BR18 kapitel 2"){ .br18-ref }, Vejledning til brugerbegreb
 
 <span id="stikprvekontrol-1-fase-tilstrkkelig-dokumentation"></span>
 
@@ -269,7 +269,7 @@ Tabel 2.: Anbefaling om dokumentation og dens indhold.
 
 I en eventuel forhåndsdialog mellem ansøger og kommune kan specifikationer omkring dokumentationen, og i hvilket format den skal afleveres, drøftes og aftales.
 
-8\) Bygningsreglementet, kap. 1, § 43, stk. 2
+8\) Bygningsreglementet, [kap. 1](../../krav/ "BR18 kapitel 1"){ .br18-ref }, [§ 43, stk. 2](../../krav/#paragraf-43 "BR18 § 43"){ .br18-ref }
 
 <span id="stikprvekontrol-2-fase-vurdering-af-lsninger"></span>
 
@@ -347,13 +347,13 @@ Når en brugergruppe skal karakteriseres, er det relevant at overveje en række 
 
 Generelt gælder det for brugerne, at der kan være tale om forskellige brugsmønstre i forhold til hyppighed og varighed. Nogle er daglige brugere, mens andre måske kun opholder sig i en bygning én gang, men over længere tid. Inden for hver kategori af funktionsnedsættelse vil der være individuelle forskelle blandt brugerne i forhold til funktionstab og funktionsevne. Når en brugergruppe vurderes, gælder det om at fange denne mangfoldighed og ikke lade forståelsen af brugerne være fastlåst. Nogle personer med en funktionsnedsættelse har en funktionsevne og et helbred, der gør dem i stand til at kunne varetage et arbejde, mens andre ikke er i stand til dette. Forskelle kan ligeledes påvirkes af alder, køn, kultur, opdragelse og erfaring^10^. Der kan også være forskel på, hvor aktive brugerne er i forhold til f.eks. familieliv, venner, fritidsinteresser, foreningsliv, naturoplevelser og kulturelle tilbud. Muligheden for at være aktiv og deltage er til stede, hvis de fysiske rammer er lagt tilrette for deltagelsen.
 
-10\) Bygningsreglementet, kap. 2, Vejledning til brugerbegreb, 3.0.0.
+10\) Bygningsreglementet, [kap. 2](../../../tekniske-bestemmelser/02/krav/ "BR18 kapitel 2"){ .br18-ref }, Vejledning til brugerbegreb, 3.0.0.
 
 <span id="uddybning-af-ligevrdighed-i-adgangsforhold-og-indretning"></span>
 
 ### 3.0 Uddybning af ligeværdighed i adgangsforhold og indretning {#82fa5c77-c3c6-4da8-9fe4-bb8a654e0335}
 
-Bygningsreglementets formålsparagraf vedrørende adgangsforhold beskriver i § 48, at *”Bygninger, opholdsarealer og parkeringsarealer skal have adgangsforhold, der sikrer, at brugerne ved egen hjælp kan komme frem til dem, ind i dem samt frem til deres funktioner.”*
+Bygningsreglementets formålsparagraf vedrørende adgangsforhold beskriver i [§ 48](../../../tekniske-bestemmelser/02/krav/#c6942220-e3f7-4553-a064-c1749f215574 "BR18 § 48"){ .br18-ref }, at *”Bygninger, opholdsarealer og parkeringsarealer skal have adgangsforhold, der sikrer, at brugerne ved egen hjælp kan komme frem til dem, ind i dem samt frem til deres funktioner.”*
 
 ’Ved egen hjælp’ betyder, at brugerne selv eller ved hjælp af et hjælpemiddel kan komme frem til, ind i og frem til funktionerne i en bygning, et opholdsareal eller et parkeringsareal. Et hjælpemiddel kan f.eks. være en mobilitystok eller en kørestol. Der kan være tale om et samspil mellem hjælpemiddel og personlig hjælp i nogle situationer.
 
@@ -373,10 +373,10 @@ Udformningen af bygninger og arealer er bestemmende for, i hvor høj grad bruger
 
 Ligeværdige muligheder handler grundlæggende om, at alle brugere får adgang til de samme bygninger, parkeringsarealer og opholdsarealer samt mulighed for at anvende deres funktioner. Ligeværdighed handler også om måden, hvorpå det kan lade sig gøre at ankomme til en bygning eller et sted i en bygning, og om måden, hvorpå anvendelsen af funktionen finder sted. For selvom en funktion er mulig at anvende, bidrager den ikke nødvendigvis til ligeværdighed. Nogle løsninger kan virke stigmatiserende, f.eks. ved at en bruger føler sig udstillet. Det kan være i biografen, hvor en kørestolsbruger ikke selv kan vælge en plads, og derfor må sidde alene foran forreste række eller i et andet område af rummet frem for at sidde sammen med andre, f.eks. sine venner. Det kan være ved en indgang til en bygning, hvor en lift f.eks. bevæger sig op langs et vindue ved en restaurant, så alle gæsterne i restauranten kan følge kørestolsbrugerens vej frem til indgangen. Ligeværdighed handler derfor også om at undgå stigmatisering af mennesker.
 
-11\) Bygningsreglementet, kap. 2, Vejledning til brugerbegreb, 0.0.0.
+11\) Bygningsreglementet, [kap. 2](../../../tekniske-bestemmelser/02/krav/ "BR18 kapitel 2"){ .br18-ref }, Vejledning til brugerbegreb, 0.0.0.
 
 12\) [https://ordnet.dk/ddo/ordbog?query=ligev%C3%A6rdighed](https://ordnet.dk/ddo/ordbog?query=ligev%C3%A6rdighed){target="_blank"} besøgt 28.11.2018.
 
 13\) [https://ordnet.dk/ddo/ordbog?query=ligev%C3%A6rdig](https://ordnet.dk/ddo/ordbog?query=ligev%C3%A6rdig){target="_blank"} besøgt 28.11.2018.
 
-14\) Bygningsreglementet, kap. 2, Vejledning til brugerbegreb, 2.0.0.
+14\) Bygningsreglementet, [kap. 2](../../../tekniske-bestemmelser/02/krav/ "BR18 kapitel 2"){ .br18-ref }, Vejledning til brugerbegreb, 2.0.0.

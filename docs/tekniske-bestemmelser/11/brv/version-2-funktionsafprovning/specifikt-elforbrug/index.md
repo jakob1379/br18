@@ -38,7 +38,7 @@
 
 *Formål med funktionsafprøvning af SEL-værdi* Formålet med afprøvningen er at eftervise, at ventilationsanlæggets elforbrug, SEL-værdi, i praksis mindst svarer til den forudsætning, der anvendes i energibehovsberegningen, der dokumenterer, at bygningen overholder bygningsreglementets energikrav, jf. kapitel 11, Energiforbrug.
 
-Det skal desuden eftervises, at ventilationsanlæggets SEL-værdi opfylder bygningsreglementets energikrav til ventilationsanlæg, jf. §§ 436-438. Kravet til SEL-værdien fremgår af tabel 2.
+Det skal desuden eftervises, at ventilationsanlæggets SEL-værdi opfylder bygningsreglementets energikrav til ventilationsanlæg, jf. [§§ 436-438](../../../../22/krav/#paragraf-436 "BR18 §§ 436-438"){ .br18-ref }. Kravet til SEL-værdien fremgår af tabel 2.
 
     *Definition af SEL-værdien*
 

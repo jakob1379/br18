@@ -24,7 +24,7 @@
 
 ### 2.0.2. Konstruktionens kompleksitet {#91d32d98-0d1d-48ce-a0df-84f6114d0810}
 
-En konstruktion betegnes ifølge BR18, § 487 som simpel eller kompleks alt efter, hvordan de påvirkninger, der virker på konstruktionen, føres til fundament. Jo svære det er at overskue fordelingen af påvirkningerne og lastvirkningerne – jo mere kompleks betegnes konstruktionen.
+En konstruktion betegnes ifølge BR18, [§ 487](../../../krav/#paragraf-487 "BR18 § 487"){ .br18-ref } som simpel eller kompleks alt efter, hvordan de påvirkninger, der virker på konstruktionen, føres til fundament. Jo svære det er at overskue fordelingen af påvirkningerne og lastvirkningerne – jo mere kompleks betegnes konstruktionen.
 
 En nærmere beskrivelse af konstruktioners kompleksitet fremgår af *SBi-anvisning 271 Dokumentation og kontrol af bærende konstruktioner*.
 

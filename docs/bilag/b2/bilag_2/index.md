@@ -65,7 +65,7 @@
 </tr>
 <tr>
 <td>Skyde- og foldedøre.<br />
-Alternativt en energibalance på mindst 0 kWh/m² pr. år. Beregningsmetode for energibalance skal følge § 258, stk. 1. Der kan anvendes funktionsglas, svarende til § 258, stk. 1, nr. 3<br />
+Alternativt en energibalance på mindst 0 kWh/m² pr. år. Beregningsmetode for energibalance skal følge <a class="br18-ref" href="../../../tekniske-bestemmelser/11/krav/#fd620db7-f2ed-41e9-8e42-3f4b75f234be" title="BR18 § 258">§ 258, stk. 1</a>. Der kan anvendes funktionsglas, svarende til <a class="br18-ref" href="../../../tekniske-bestemmelser/11/krav/#fd620db7-f2ed-41e9-8e42-3f4b75f234be" title="BR18 § 258">§ 258, stk. 1, nr. 3</a><br />
 <br />
 Referencestørrelse er 2,50 m x 2,18 m i henholdsvis 2 og 3 fag<br />
 <br />
@@ -462,7 +462,7 @@ Et tilknyttet funktionskrav er brandmodstand, sikring af en flugtvej, personsikk
 
 Dette bilag beskriver, hvilke bygningsdele der skal indgå i beregningen af bygningers klimapåvirkning.
 
-Værdierne i tabel 6 afgrænser hvilke dele af byggeriet, der indgår i beregningen, jf. § 297, stk. 6. Bygningsdele, der ikke er nævnt, indgår ikke.
+Værdierne i tabel 6 afgrænser hvilke dele af byggeriet, der indgår i beregningen, jf. [§ 297, stk. 6](../../../tekniske-bestemmelser/11/krav/#paragraf-297 "BR18 § 297"){ .br18-ref }. Bygningsdele, der ikke er nævnt, indgår ikke.
 
 Tabellen indeholder desuden detaljerede linjer for forskellige typer af konstruktioner eller installationer.
 
@@ -488,7 +488,7 @@ Brandlukninger, recesser, rørgennemføringer og andre former for lukninger af u
 
 Ved rør eller ledninger til de tekniske installationer medregnes kun de lige strækninger og ikke bøjninger.
 
-Hvor det af tabel 6 fremgår ”eventuelt som mængde råmateriale” i kolonnen for Detaljeringsniveau, kan bygningsdelen opgøres ved at antage, at hele bygningsdelen består af det materiale, som er tilstede i størst omfang i bygningsdelen, og beskrives ved den klimapåvirkning for materialet, som fremgår af bilag 2, tabel 7.
+Hvor det af tabel 6 fremgår ”eventuelt som mængde råmateriale” i kolonnen for Detaljeringsniveau, kan bygningsdelen opgøres ved at antage, at hele bygningsdelen består af det materiale, som er tilstede i størst omfang i bygningsdelen, og beskrives ved den klimapåvirkning for materialet, som fremgår af [bilag 2, tabel 7](#4f10dbac-ba91-4bad-9f1e-2b7054ec8547 "BR18 bilag 2, tabel 7"){ .br18-ref }.
 
 ***Råhuse***
 
@@ -500,7 +500,7 @@ Såfremt bygningen ved færdigmelding mangler dele, som fx gulv, vægmaling mm.,
 
 ## Tabel 7 - Generisk datagrundlag {#4f10dbac-ba91-4bad-9f1e-2b7054ec8547}
 
-Dette dokument indeholder det generiske datagrundlag for modulerne A1-A3, C3-C4 og D, jf. § 297, stk. 7.
+Dette dokument indeholder det generiske datagrundlag for modulerne A1-A3, C3-C4 og D, jf. [§ 297, stk. 7](../../../tekniske-bestemmelser/11/krav/#paragraf-297 "BR18 § 297"){ .br18-ref }.
 
 Ved anvendelsen af datagrundlaget anvendes det mest repræsentative datasæt for materialet. Såfremt der ikke findes et repræsentativt datasæt, anvendes data for de forskellige delkomponenter. Dog kan der altid anvendes en opgørelse af mængde råmateriale hvor dette fremgår af kolonnen Detaljeringsniveau i [bilag 2, tabel 6](../../../media/4rqdskud/tabel-6-2025.xlsx "Tabel 6 (2025)"){rel="noopener" target="_blank"}.
 
@@ -512,7 +512,7 @@ For genbrug anvendes de undtagelser, som fremgår nederst.
 
 *Standardværdier for installationer*
 
-Standardværdierne herunder kan anvendes af bygningsejer som alternativ til faktiske mængder ved at opgøre installationernes klimapåvirkning alene på baggrund af areal. Det anvendte areal i m2 er det samlede opvarmede etageareal (jf. § 256, stk. 3) plus det opvarmede kælderareal. Det således fremkomne areal ganges med standardværdien. Den således fremkomne værdi benyttes i stedet for en opgørelse af installationernes faktiske klimapåvirkning.
+Standardværdierne herunder kan anvendes af bygningsejer som alternativ til faktiske mængder ved at opgøre installationernes klimapåvirkning alene på baggrund af areal. Det anvendte areal i m2 er det samlede opvarmede etageareal (jf. [§ 256, stk. 3](../../../tekniske-bestemmelser/11/krav/#paragraf-256 "BR18 § 256"){ .br18-ref }) plus det opvarmede kælderareal. Det således fremkomne areal ganges med standardværdien. Den således fremkomne værdi benyttes i stedet for en opgørelse af installationernes faktiske klimapåvirkning.
 
 *Genbrug*
 
@@ -542,11 +542,11 @@ Datasættet kan benyttes som emissionsfaktorer for brændstof til transport til,
 
 ## Tabel 9 – Referenceværdier for beregning af klimapåvirkning, som ikke indgår i beregningen ifølge § 298, stk. 1. {#514f3033-fd6d-4ff2-89eb-53a7752b8945}
 
-For at fastlægge størrelsen af den berettigede øgede klimapåvirkning, der som følge af § 298, stk. 8, ikke skal medregnes, foretages en isoleret beregning af klimapåvirkningen fra den del af bygningen, der er påvirket af det særlige forhold.
+For at fastlægge størrelsen af den berettigede øgede klimapåvirkning, der som følge af [§ 298, stk. 8](../../../tekniske-bestemmelser/11/krav/#paragraf-298 "BR18 § 298"){ .br18-ref }, ikke skal medregnes, foretages en isoleret beregning af klimapåvirkningen fra den del af bygningen, der er påvirket af det særlige forhold.
 
 Det fastlægges hvad forskellen i klimapåvirkning er mellem den faktiske del af bygningen og en beregnet reference, som udtryk for den forventede klimapåvirkning hvis ikke det særlige forhold havde nødvendiggjort andre valg i byggeriet.
 
-Forskellen imellem den faktiske beregnede klimapåvirkning og referenceværdien medregnes ikke, når man vurderer byggeriet mod grænseværdien i § 298, stk. 1-4.
+Forskellen imellem den faktiske beregnede klimapåvirkning og referenceværdien medregnes ikke, når man vurderer byggeriet mod grænseværdien i [§ 298, stk. 1-4](../../../tekniske-bestemmelser/11/krav/#paragraf-298 "BR18 § 298"){ .br18-ref }.
 
 Der sondres i det følgende mellem konstruktioner, søjler/bjælker, fundamenter, og installationer.
 
@@ -589,7 +589,7 @@ r er referenceværdien for den givne konstruktion (i kg CO2-ækv. /m2 /år),
 
 m er arealet af den konstruktion, som berøres af det særlige forhold (i m2), og
 
-a er arealet som opgjort ifølge § 297, stk. 5, (i m2).
+a er arealet som opgjort ifølge [§ 297, stk. 5](../../../tekniske-bestemmelser/11/krav/#paragraf-297 "BR18 § 297"){ .br18-ref }, (i m2).
 
  
 
@@ -607,7 +607,7 @@ r er en referenceværdi på 0,36 kg CO2-ækv. /m2/år,
 
 m er længden af søjlen/bjælken (i m2), og
 
-a er arealet som opgjort ifølge § 297, stk. 5 (i m2).
+a er arealet som opgjort ifølge [§ 297, stk. 5](../../../tekniske-bestemmelser/11/krav/#paragraf-297 "BR18 § 297"){ .br18-ref } (i m2).
 
  
 
@@ -625,11 +625,11 @@ x er klimapåvirkningen fra materialerne i fundamentet (i kg CO2-ækv.) opgjort 
 
 r er en referenceværdi på 0,33 kg CO2-ækv. /m2 /år,
 
-a er arealet som opgjort ifølge § 297, stk. 5 (i m2).
+a er arealet som opgjort ifølge [§ 297, stk. 5](../../../tekniske-bestemmelser/11/krav/#paragraf-297 "BR18 § 297"){ .br18-ref } (i m2).
 
 ***Installationer***
 
-For installationer beregnes forskellen mellem den faktiske klimapåvirkning af installationerne og standardværdierne i BR18 bilag 2, tabel 7, øvrige bygningstyper, som i formel 4 herunder.
+For installationer beregnes forskellen mellem den faktiske klimapåvirkning af installationerne og standardværdierne i BR18 [bilag 2, tabel 7](#4f10dbac-ba91-4bad-9f1e-2b7054ec8547 "BR18 bilag 2, tabel 7"){ .br18-ref }, øvrige bygningstyper, som i formel 4 herunder.
 
 Formel 4:
 
@@ -639,11 +639,11 @@ hvor
 
 i er klimapåvirkningen fra materialerne i de faktiske installationer (i kg CO2-ækv.) opgjort over den 50-årige betragtningsperiode,
 
-s er standardværdi for installationer, øvrige bygningstyper (i kg CO2-ækv. / m2/ år), jf. BR18 bilag 2, tabel 7, standardværdier,
+s er standardværdi for installationer, øvrige bygningstyper (i kg CO2-ækv. / m2/ år), jf. BR18 [bilag 2, tabel 7](#4f10dbac-ba91-4bad-9f1e-2b7054ec8547 "BR18 bilag 2, tabel 7"){ .br18-ref }, standardværdier,
 
-eopv er summen (i m2) af det samlede opvarmede etageareal (som opgjort ifølge § 256, stk. 3) plus det opvarmede kælderareal, og
+eopv er summen (i m2) af det samlede opvarmede etageareal (som opgjort ifølge [§ 256, stk. 3](../../../tekniske-bestemmelser/11/krav/#paragraf-256 "BR18 § 256"){ .br18-ref }) plus det opvarmede kælderareal, og
 
-a er arealet som opgjort ifølge § 297, stk. 5, (i m2).
+a er arealet som opgjort ifølge [§ 297, stk. 5](../../../tekniske-bestemmelser/11/krav/#paragraf-297 "BR18 § 297"){ .br18-ref }, (i m2).
 
  
 
@@ -655,9 +655,9 @@ a er arealet som opgjort ifølge § 297, stk. 5, (i m2).
 
 *Generelle beregningsprincipper*
 
-Klimapåvirkning fra energiforbrug relateret til transport (i modul A4 og A5) og til energiforbruget på pladsen (i modul A5) beregnes ved måling af forbruget, herunder af brændstof, el og/eller fjernvarme. Forbruget opgøres ved måling, og hvis nødvendigt ved en forholdsmæssig fordeling af et forbrug, såfremt forbruget ikke kun vedrører det pågældende byggeri. For transport kan et forbrug beregnes ud fra antal kørte kilometer sammenholdt med forbrug per kilometer. Det opgjorte forbrug sammenholdes med de emissionsfaktorer som fremgår af tabel [8.1](tabel_8/ "Tabel_8"){rel="noopener" target="_blank"} og [8.2](tabel_8/ "Tabel_8"){rel="noopener" target="_blank"}, alternativt kan en miljøvaredeklaration for et fjernvarmeforsyningsanlæg anvendes på samme vis som beskrevet i § 297, stk. 11.
+Klimapåvirkning fra energiforbrug relateret til transport (i modul A4 og A5) og til energiforbruget på pladsen (i modul A5) beregnes ved måling af forbruget, herunder af brændstof, el og/eller fjernvarme. Forbruget opgøres ved måling, og hvis nødvendigt ved en forholdsmæssig fordeling af et forbrug, såfremt forbruget ikke kun vedrører det pågældende byggeri. For transport kan et forbrug beregnes ud fra antal kørte kilometer sammenholdt med forbrug per kilometer. Det opgjorte forbrug sammenholdes med de emissionsfaktorer som fremgår af tabel [8.1](tabel_8/ "Tabel_8"){rel="noopener" target="_blank"} og [8.2](tabel_8/ "Tabel_8"){rel="noopener" target="_blank"}, alternativt kan en miljøvaredeklaration for et fjernvarmeforsyningsanlæg anvendes på samme vis som beskrevet i [§ 297, stk. 11](../../../tekniske-bestemmelser/11/krav/#paragraf-297 "BR18 § 297"){ .br18-ref }.
 
-Ved eldrevet transport udenfor Danmark kan klimapåvirkningen fra produktionen af el i stedet beregnes ved anvendelse af en miljøvaredeklaration ifølge tilsvarende principper som i § 297, stk. 11.
+Ved eldrevet transport udenfor Danmark kan klimapåvirkningen fra produktionen af el i stedet beregnes ved anvendelse af en miljøvaredeklaration ifølge tilsvarende principper som i [§ 297, stk. 11](../../../tekniske-bestemmelser/11/krav/#paragraf-297 "BR18 § 297"){ .br18-ref }.
 
 *Særligt om transport af materialer til byggepladsen*
 
@@ -725,13 +725,13 @@ For følgende delprocesser kan transport - i stedet for beregning af forbruget i
 | A5 | Bortkørsel af jord, som er affald | 0,06 |
 | A5 | Bortkørsel af byggeaffald, herunder afskær og andre materialer som bliver til affald under byggeprocessen | 0,06 |
 
-Når der i ovenstående refereres til et antal kvadratmeter byggeri, benyttes samme areal som ifølge § 297, stk. 5.
+Når der i ovenstående refereres til et antal kvadratmeter byggeri, benyttes samme areal som ifølge [§ 297, stk. 5](../../../tekniske-bestemmelser/11/krav/#paragraf-297 "BR18 § 297"){ .br18-ref }.
 
 <span id="tabel-11-generiske-data-for-behandling-af-byggeaffald"></span>
 
 ## Tabel 11 – Generiske data for behandling af byggeaffald {#47248ad7-9a19-4e67-8e77-920129ab270f}
 
-Tabellen indeholder generiske data for udledninger pr. kg byggeaffald fra byggeprocessen (i modul A5), herunder afskær og andre materialer som bliver til affald under byggeprocessen. Det mest repræsentative datasæt anvendes.  For affald som indsamles blandet anvendes den højeste værdi af de blandede typer. Hvis der benyttes en EPD i stedet for nedenstående værdier, jf. § 297, stk. 7, fastlægges klimapåvirkningen til den samlede værdi af modulerne A1-A3 og C3-C4 for produktet.
+Tabellen indeholder generiske data for udledninger pr. kg byggeaffald fra byggeprocessen (i modul A5), herunder afskær og andre materialer som bliver til affald under byggeprocessen. Det mest repræsentative datasæt anvendes.  For affald som indsamles blandet anvendes den højeste værdi af de blandede typer. Hvis der benyttes en EPD i stedet for nedenstående værdier, jf. [§ 297, stk. 7](../../../tekniske-bestemmelser/11/krav/#paragraf-297 "BR18 § 297"){ .br18-ref }, fastlægges klimapåvirkningen til den samlede værdi af modulerne A1-A3 og C3-C4 for produktet.
 
 |                                   |                       |
 |-----------------------------------|-----------------------|

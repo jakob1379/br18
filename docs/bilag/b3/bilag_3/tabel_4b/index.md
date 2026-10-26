@@ -24,7 +24,7 @@
 
 ## Tabel 4b – Mindstekrav til niveau af uafhængig kontrol af udførelsen af brandsikringstiltag i forhold til risikoklasse (RK) jf. § 527 {#e3483ff7-5913-4734-9b94-a2e60160e9ad}
 
-*Tabel 4b – Mindstekrav til niveau af uafhængig kontrol af udførelsen af brandsikringstiltag i forhold til risikoklasse (RK) jf. § 527*
+*Tabel 4b – Mindstekrav til niveau af uafhængig kontrol af udførelsen af brandsikringstiltag i forhold til risikoklasse (RK) jf. [§ 527](../../../../ovrige-bestemmelser/30/krav/#paragraf-527 "BR18 § 527"){ .br18-ref }*
 
 <table>
 <colgroup>

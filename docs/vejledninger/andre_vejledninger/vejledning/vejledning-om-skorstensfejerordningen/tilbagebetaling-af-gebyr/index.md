@@ -41,6 +41,6 @@
 
 Kommunen kan vælge at betale skorstensfejeren for udført arbejde og kan i den forbindelse også opkræve et gebyr for fejning, sådan at kommunen betaler skorstensfejeren på vegne af de bygningsejere, som benytter den pågældende skorstensfejer og får udgiften dækket ind via gebyret. Hvis kommunen vælger denne fremgangsmåde, bør kommunen orientere herom på sin hjemmeside.
 
-Kommunalbestyrelsen fastsætter beregningsmåden for gebyrerne, gebyrstørrelsen og forfaldstid.  Kommunalbestyrelsen kan beslutte, at gebyret opkræves sammen med ejendomsbidraget, jf. § 23, stk. 1.
+Kommunalbestyrelsen fastsætter beregningsmåden for gebyrerne, gebyrstørrelsen og forfaldstid.  Kommunalbestyrelsen kan beslutte, at gebyret opkræves sammen med ejendomsbidraget, jf. [§ 23, stk. 1](https://www.retsinformation.dk/eli/lta/2017/541#P23 "Skorstensfejerbekendtgørelsen § 23"){ .br18-ref .br18-ref--ext }.
 
 Såfremt der er betalt for skorstensfejerarbejde, som ikke udføres som aftalt, og der i den forbindelse opstår krav på tilbagebetaling, kan bygningsejer rette kravet mod den, der er betalt til. Det kan være kommunalbestyrelsen, hvis der er opkrævet gebyr, og skorstensfejeren, hvis der er betalt direkte til skorstensfejeren.

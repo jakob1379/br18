@@ -35,7 +35,7 @@
 
 Bygningsreglementet kræver, at beboelsesrum og køkken skal have en sådan tilgang af dagslys, at rummene er tilstrækkeligt belyste. Projektering og udførelse skal ske under hensyn til, at dagslyset udnyttes bedst muligt som lyskilde, unødigt energiforbrug undgås, unødig varmetilførsel til rummene undgås, gener ved direkte solstråling undgås og at gener ved blænding minimeres.
 
-Kravet kan eftervises ved en dagslysberegning eller ved brug af 10%-reglen, der siger at glasarealet (uden poster og sprosser) skal være mindst 10 pct. af det indvendige gulvareal (jf. § 379 stk. 2). Glasarealet skal dog evt. korrigeres for en række skyggende forhold, der reducerer dagslystilgangen.
+Kravet kan eftervises ved en dagslysberegning eller ved brug af 10%-reglen, der siger at glasarealet (uden poster og sprosser) skal være mindst 10 pct. af det indvendige gulvareal (jf. [§ 379 stk. 2](../../../../../tekniske-bestemmelser/18/krav/#paragraf-379 "BR18 § 379"){ .br18-ref }). Glasarealet skal dog evt. korrigeres for en række skyggende forhold, der reducerer dagslystilgangen.
 
 **Efterlevelse af krav**
 

@@ -19,7 +19,7 @@
 
 ### 6.1 Lydisolation {#8bb1a8f1-5b7d-4bce-9ee0-6bb125388942}
 
-Tabel 6.1 indeholder forslag til projekteringsværdier for luftlydisolation og trinlydniveau i hospitaler svarende til overholdelse af BR18’s generelle bestemmelse i § 368, stk. 1 om at ”*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen”.*
+Tabel 6.1 indeholder forslag til projekteringsværdier for luftlydisolation og trinlydniveau i hospitaler svarende til overholdelse af BR18’s generelle bestemmelse i [§ 368, stk. 1](../../../krav/#d020db69-f4ce-4cb5-84ee-a507a2630908 "BR18 § 368"){ .br18-ref } om at ”*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen”.*
 
 <table>
 <colgroup>

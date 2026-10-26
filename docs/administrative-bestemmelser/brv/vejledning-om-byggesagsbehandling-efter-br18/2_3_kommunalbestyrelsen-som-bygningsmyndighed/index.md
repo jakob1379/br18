@@ -72,7 +72,7 @@
 
 Kommunalbestyrelsen er bygningsmyndighed og træffer afgørelse i sager omfattet af byggeloven og bygningsreglementet om f.eks. ansøgning om byggetilladelse og ansøgninger om dispensation fra byggeloven eller bygningsreglementet. Ved spørgsmål om fortolkning af bygningsreglementet, f.eks. om bygningsreglementets anvendelsesområde, indplacering af byggeri i konstruktions- og brandklasser eller ved tvivl om opfyldelse af et konkret krav, træffer kommunalbestyrelsen ligeledes afgørelse.
 
-Inden kommunalbestyrelsen kan meddele byggetilladelse, skal kommunen foretage en vurdering af, om den dokumentation, der er indsendt i henhold til §§ 10 og 11, er i overensstemmelse med de for byggesagen relevante krav i bygningsreglementet.
+Inden kommunalbestyrelsen kan meddele byggetilladelse, skal kommunen foretage en vurdering af, om den dokumentation, der er indsendt i henhold til [§§ 10](../../../krav/#paragraf-10 "BR18 § 10"){ .br18-ref } og [11](../../../krav/#paragraf-11 "BR18 § 11"){ .br18-ref }, er i overensstemmelse med de for byggesagen relevante krav i bygningsreglementet.
 
 <span id="ansgning-om-byggetilladelse"></span><span id="byggetilladelse"></span>
 

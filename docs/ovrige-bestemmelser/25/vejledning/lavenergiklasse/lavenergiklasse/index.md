@@ -14,7 +14,7 @@ For at bygningen kan blive klassificeret som lavenergiklasse, skal alle kravene 
 
 Energiberegningen af bygningers overholdelse af lavenergiklassen skal foretages i overensstemmelse med SBi-anvisning 213 Bygningers energibehov.
 
-Der er strammere krav til en række forskellige bygningsdele og komponenter i lavenergiklassen. Kravene fremgår af bestemmelserne, mens vejledningen til forståelse af kravene fremgår af de forskellige emner, primært kapitel 11 Energiforbrug og kapitel 22 Ventilation.
+Der er strammere krav til en række forskellige bygningsdele og komponenter i lavenergiklassen. Kravene fremgår af bestemmelserne, mens vejledningen til forståelse af kravene fremgår af de forskellige emner, primært [kapitel 11](../../../../../tekniske-bestemmelser/11/krav/ "BR18 kapitel 11"){ .br18-ref } Energiforbrug og [kapitel 22](../../../../../tekniske-bestemmelser/22/krav/ "BR18 kapitel 22"){ .br18-ref } Ventilation.
 
 [![](../../../../../assets/img/linkbox/sbi_anv_linkbox.svg)](#)
 

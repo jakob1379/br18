@@ -50,7 +50,7 @@ Kravene til funktionsafprøvning i bygningsreglementet og i denne vejledning, er
 
 Der kan være meget forskellige styring og automatik i en bygning. Hvis der er central styring af de tekniske systemer gennem et CTS-anlæg eller lignende, så skal dette afprøves samlet set gennem automatik-afsnittet i vejledningen. Hvis bygningens centrale system til styring er verificeret ved brug af eksternt kalibrerede instrumenter, kan målinger herfra anvendes i forbindelse funktionsafprøvningerne. Hvis det i stedet er decentrale styringer, så skal de afprøves gennem de enkelte tekniske anlæg.
 
-I de efterfølgende afsnit i denne vejledning står der således funktionsafprøvningskrav til de tekniske anlæg både i de enkelte afsnit om de tekniske anlæg og i det samlende afsnit om bygningsautomatik. Det er dog kun nødvendigt at afprøve automatikken én gang, så hvis man foretager en funktionsafprøvningen af et CTS-anlæg i henhold til afsnit 8 af denne vejledning, så vil dette være tilstrækkelig afprøvning af den samlede automatik for de anlæg, der er omfattet af CTS-anlægget. Værdierne, der påvises i forbindelse med en funktionsafprøvning, skal mindst være i overensstemmelse med den endelige energibehovsberegning, jf. §251, samt øvrige krav i bygningsreglementet. Det betyder, at hvis funktionsafprøvningen påviser, at projekteringsværdierne i Be18 ikke kan overholdes, skal energibehovsberegningen opdateres med de værdier, der er målt i funktionsafprøvningen.
+I de efterfølgende afsnit i denne vejledning står der således funktionsafprøvningskrav til de tekniske anlæg både i de enkelte afsnit om de tekniske anlæg og i det samlende afsnit om bygningsautomatik. Det er dog kun nødvendigt at afprøve automatikken én gang, så hvis man foretager en funktionsafprøvningen af et CTS-anlæg i henhold til afsnit 8 af denne vejledning, så vil dette være tilstrækkelig afprøvning af den samlede automatik for de anlæg, der er omfattet af CTS-anlægget. Værdierne, der påvises i forbindelse med en funktionsafprøvning, skal mindst være i overensstemmelse med den endelige energibehovsberegning, jf. [§251](../../krav/#paragraf-251 "BR18 § 251"){ .br18-ref }, samt øvrige krav i bygningsreglementet. Det betyder, at hvis funktionsafprøvningen påviser, at projekteringsværdierne i Be18 ikke kan overholdes, skal energibehovsberegningen opdateres med de værdier, der er målt i funktionsafprøvningen.
 
 Hvis funktionsafprøvningen påviser at projekteringsværdierne ikke overholdes, kan dette ikke nødvendigvis bruges til at påvise hvilke delopgaver i projekterings- eller byggeprocessen som har medført dette.
 
@@ -112,7 +112,7 @@ Der skal gennemføres funktionsafprøvning af ventilationssystemer. Funktionsafp
 
 >
 
-samt at eventuel behovsstyring fungerer efter hensigten.   For så vidt angår naturlige og hybride ventilationssystemer skal funktionsafprøvningen dokumentere at systemerne er udført og fungerer efter hensigten. Ifølge bygningsreglementet §421, skal ventilationssystemer projekteres og udføres som anvist i DS 447, Ventilation i bygninger – Mekaniske, naturlige og hybride ventilationssystemer. Vejledning om funktionsafprøvning af ventilationssystemer er derfor baseret på kravene i såvel bygningsreglementet som i DS 447.
+samt at eventuel behovsstyring fungerer efter hensigten.   For så vidt angår naturlige og hybride ventilationssystemer skal funktionsafprøvningen dokumentere at systemerne er udført og fungerer efter hensigten. Ifølge bygningsreglementet [§421](../../../22/krav/#paragraf-421 "BR18 § 421"){ .br18-ref }, skal ventilationssystemer projekteres og udføres som anvist i DS 447, Ventilation i bygninger – Mekaniske, naturlige og hybride ventilationssystemer. Vejledning om funktionsafprøvning af ventilationssystemer er derfor baseret på kravene i såvel bygningsreglementet som i DS 447.
 
 ### 2.1 Relevante standarder {#089edcda-2abb-44a6-8e78-47277dfe7e1f}
 
@@ -188,7 +188,7 @@ Denne standard opstiller krav til varme- og køleanlæg. Kravene tilsigter, at d
 
 ### 2.2 Luftmængder ved mekanisk ventilation (nominel luftstrøm) {#a2bf648a-92dc-4b37-85bc-71027f3ea936}
 
-Kravet til ventilation af bygninger til beboelse er beskrevet i bygningsreglementet, §§443-446. Her fremgår det at:
+Kravet til ventilation af bygninger til beboelse er beskrevet i bygningsreglementet, [§§443-446](../../../22/krav/#7e3ed2f3-9f5b-47e8-b41c-723a75ec3009 "BR18 §§ 443-446"){ .br18-ref }. Her fremgår det at:
 
 > • I beboelsesrum såvel som i boligen totalt skal der være en udelufttilførsel på mindst 0,3 l/s pr. m² opvarmet etageareal, når boligen er i anvendelse.
 >
@@ -208,7 +208,7 @@ Kravet til ventilation af bygninger til beboelse er beskrevet i bygningsreglemen
 >
 > • I enfamiliehuse kan der anvendes naturlig ventilation, der henvises i dette tilfælde til kapitel 2.5 Naturlig og hybrid ventilation.
 
-  For andre bygninger end boliger stiller bygningsreglementet følgende krav til luftstrøm, jf. §§447-449.
+  For andre bygninger end boliger stiller bygningsreglementet følgende krav til luftstrøm, jf. [§§447-449](../../../22/krav/#dcb71b0d-4d4f-404f-aa62-26950e0c0685 "BR18 §§ 447-449"){ .br18-ref }.
 
 > • I daginstitutioner skal ventilationsanlægget yde mindst 3 l/s pr. barn og mindst 5 l/s pr. voksen samt 0,35 l/s pr. m² etageareal. Hvis der benyttes ventilationsanlæg med behovstyret ventilation, kan der afviges fra de angivne luftmængder, når der er reduceret behov. Dog må ventilationen i brugstiden ikke være mindre end 0,35 l/s pr. m² etageareal, og CO2-koncentrationen må ikke overstige 1000 ppm ved de dimensionerende forhold.   • I undervisningsrum i skoler og lignende skal ventilationsanlægget i normalklasserum yde mindst 5 l/s pr. person samt 0,35 l/s pr. m² etageareal. Hvis der benyttes ventilationsanlæg med behovstyret ventilation, kan der afviges fra de angivne luftmængder, når der er reduceret behov. Dog må ventilationen i brugstiden ikke være mindre end 0,35 l/s pr. m² etageareal og CO2-koncentrationen må ikke overstige 1000 ppm ved de dimensionerende forhold.   • Ved benyttelse af særlige byggetekniske tiltag, som for eksempel større rumvoluminer pr. person, brug af flere udluftningsmuligheder, herunder muligheder for tværventilation, kan kravet om mekanisk ventilation fraviges under forudsætning af, at der kan opretholdes et sundhedsmæssigt tilfredsstillende indeklima.
 >
@@ -371,7 +371,7 @@ Der udarbejdes en funktionsafprøvningsrapport, der beskriver:
 
 *Formål med funktionsafprøvning af SEL-værdi* Formålet med afprøvningen er at eftervise, at ventilationsanlæggets elforbrug, SEL-værdi, i praksis mindst svarer til den forudsætning, der anvendes i energibehovsberegningen, der dokumenterer, at bygningen overholder bygningsreglementets energikrav, jf. kapitel 11, Energiforbrug.
 
-Det skal desuden eftervises, at ventilationsanlæggets SEL-værdi opfylder bygningsreglementets energikrav til ventilationsanlæg, jf. §§ 436-438. Kravet til SEL-værdien fremgår af tabel 2.
+Det skal desuden eftervises, at ventilationsanlæggets SEL-værdi opfylder bygningsreglementets energikrav til ventilationsanlæg, jf. [§§ 436-438](../../../22/krav/#paragraf-436 "BR18 §§ 436-438"){ .br18-ref }. Kravet til SEL-værdien fremgår af tabel 2.
 
     *Definition af SEL-værdien*
 
@@ -872,7 +872,7 @@ Det er et krav i bygningsreglementet, at arbejdsrum m.v. og fælles adgangsveje 
 
 *Formål med funktionsafprøvning af lysstyring*
 
-Formålet med afprøvningen er at eftervise, at lysstyringen i praksis mindst svarer til den forudsætning, der blev anvendt i energibehovsberegningen, der dokumenterer bygningens overholdelse af bygningsreglementets energikrav, jf. kap. 11 om energiforbrug.
+Formålet med afprøvningen er at eftervise, at lysstyringen i praksis mindst svarer til den forudsætning, der blev anvendt i energibehovsberegningen, der dokumenterer bygningens overholdelse af bygningsreglementets energikrav, jf. [kap. 11](../../krav/ "BR18 kapitel 11"){ .br18-ref } om energiforbrug.
 
 *Definition af lysstyring*
 
@@ -1050,7 +1050,7 @@ Der findes energiforsyningsanlæg omfattet af Ecodesign, samt øvrige anlæg, hv
 
 Bygningsreglementets kravtekst mht. funktionsafprøvning af energiforsyningsanlæg er:
 
-§ 327 b. Der skal gennemføres en funktionsafprøvning af energiforsyningsanlæg i tilknytning til bygninger inden ibrugtagning. Funktionsafprøvningen skal påvise, at anlægget har den forudsatte energimæssige effektivitet.
+[§ 327 b](../../../12/krav/#paragraf-327b "BR18 § 327b"){ .br18-ref }. Der skal gennemføres en funktionsafprøvning af energiforsyningsanlæg i tilknytning til bygninger inden ibrugtagning. Funktionsafprøvningen skal påvise, at anlægget har den forudsatte energimæssige effektivitet.
 
 ### 6.1 Energiforsyningsanlæg omfattet af Ecodesign {#b155f841-e7fb-4dce-b1a2-fa9303cf9938}
 
@@ -1246,7 +1246,7 @@ Relevante standarder i forbindelse med funktionsafprøvning af kedelanlæg omfat
 
 *Formål med funktionsafprøvning af kedelanlæg*
 
-For olie- og gasfyrede centralvarmekedler med nominel ydelse på mere end 400 kW, skal der foretages en vurdering af kedlens energimæssige effektivitet ved beregning af røggastabet ud fra målinger, jf. §308.
+For olie- og gasfyrede centralvarmekedler med nominel ydelse på mere end 400 kW, skal der foretages en vurdering af kedlens energimæssige effektivitet ved beregning af røggastabet ud fra målinger, jf. [§308](../../../12/krav/#paragraf-308 "BR18 § 308"){ .br18-ref }.
 
 Røggastabet beregnes som:
 
@@ -1302,7 +1302,7 @@ Der udarbejdes en funktionsafprøvningsrapport, der beskriver:
 
 Der skal gennemføres en funktionsafprøvning af energiproduktionsanlæg baseret på vedvarende energikilder før aflevering. Funktionsafprøvningen skal dokumentere, at anlægget er korrekt installeret og overholder bygningsreglementets krav og de forudsætninger, der benyttes i energibehovsberegningen.   Kravet gælder for alle anlæg på eller ved bygninger. I praksis vil disse anlæg typisk være solvarme- eller solcelleanlæg og vindmøller (hustandsvindmøller). Det er derfor disse tre anlægstyper, der er uddybet nedenfor.
 
-Bygningsreglementets kravtekst mht. funktionsafprøvning af energiproduktionsanlæg baseret på vedvarende energikilder er:   **§ 327 a.** Der skal gennemføres en funktionsafprøvning af energiforsyningsanlæg baseret på vedvarende energi i tilknytning til bygninger inden ibrugtagning. Funktionsafprøvningen skal påvise, at anlægget er korrekt installeret og har den forudsatte energimæssige effektivitet.
+Bygningsreglementets kravtekst mht. funktionsafprøvning af energiproduktionsanlæg baseret på vedvarende energikilder er:   **[§ 327 a](../../../12/krav/#paragraf-327a "BR18 § 327a"){ .br18-ref }.** Der skal gennemføres en funktionsafprøvning af energiforsyningsanlæg baseret på vedvarende energi i tilknytning til bygninger inden ibrugtagning. Funktionsafprøvningen skal påvise, at anlægget er korrekt installeret og har den forudsatte energimæssige effektivitet.
 
 ### 7.1 Solvarme {#e9a2c649-ce9d-4bde-b782-76d688aef4c8}
 
@@ -1496,7 +1496,7 @@ Funktionsafprøvningen skal dokumentere, at bygningsautomatikken er korrekt inst
 
 Bygningsreglementets krav til funktionsafprøvning af hovedbygningsautomatik er gengivet her:
 
-**§ 296** Der skal gennemføres en funktionsafprøvning af bygningsautomatik inden ibrugtagning. Funktionsafprøvningen skal påvise, at bygningsautomatikken er korrekt installeret og reguleret, virker efter hensigten og giver bygningen den forudsatte energimæssige effektivitet.
+**[§ 296](../../krav/#paragraf-296 "BR18 § 296"){ .br18-ref }** Der skal gennemføres en funktionsafprøvning af bygningsautomatik inden ibrugtagning. Funktionsafprøvningen skal påvise, at bygningsautomatikken er korrekt installeret og reguleret, virker efter hensigten og giver bygningen den forudsatte energimæssige effektivitet.
 
 ### 8.1 Definition {#2d39d392-81a1-497e-a0b4-2487d2ed9159}
 
@@ -1530,7 +1530,7 @@ Med kalibreret eksternt måleudstyr skal anlæggets sensorer (fx temperatur-, CO
 
 Omfanget af funktionsafprøvningen er minimum 25 % af hver type sensor (f.eks. temperatur-, CO2, fugt, kanaltryk, lys). Der bør vælges afprøvning forskellige steder i bygningen og udvælges ud fra om sensorers vigtighed for systemets funktion. Hvis der konstateres en eller flere mangler, udbedres manglerne og omfanget af denne type øges til 50 %.
 
-Udetemperaturen måles ved brug af eksternt måleudstyr samme sted som anlæggets udetemperaturføler er placeret. Samtidigt kontrolleres det, om målepunktet er egnet til måling af udetemperatur. Det vil sige uden mulighed for påvirkning af direkte solindfald. Måleren kan være den samme måler, som benyttes som en del af funktionsafprøvning af varmeanlæg efter § 391.
+Udetemperaturen måles ved brug af eksternt måleudstyr samme sted som anlæggets udetemperaturføler er placeret. Samtidigt kontrolleres det, om målepunktet er egnet til måling af udetemperatur. Det vil sige uden mulighed for påvirkning af direkte solindfald. Måleren kan være den samme måler, som benyttes som en del af funktionsafprøvning af varmeanlæg efter [§ 391](../../../19/krav/#4c7bbd31-b269-4ca3-875c-1904e102a154 "BR18 § 391"){ .br18-ref }.
 
 Udelysmængden (Lux) måles ved brug af eksternt måleudstyr samme sted som anlæggets udelysmængdefølere er placerede. Samtidigt kontrolleres det, om målepunkterne er egnet til måling af direkte solindfald.
 

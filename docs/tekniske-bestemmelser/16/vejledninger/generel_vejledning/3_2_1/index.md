@@ -47,7 +47,7 @@
 
 ### 3.2.1. Legepladser mv., der er undtaget for indplacering i brandklasse {#edfcf8a6-5d39-485e-b349-eb8b38f1fc4a}
 
-Legepladser mv. kan være undtaget fra indplacering i brandklasse efter § 493, stk. 1, hvilket fremgår af § 493, stk. 3. Her fremgår det, at legepladsredskaber og -underlag, multisportsudstyr, motionsredskaber i det fri, skateboardbaner og lignede er undtaget fra indplacering i en brandklasse, hvis udformningen eller anvendelsen ikke medfører en uacceptabel risiko for personskade i tilfælde af brand.
+Legepladser mv. kan være undtaget fra indplacering i brandklasse efter [§ 493, stk. 1](../../../../../ovrige-bestemmelser/27/krav/#paragraf-493 "BR18 § 493"){ .br18-ref }, hvilket fremgår af [§ 493, stk. 3](../../../../../ovrige-bestemmelser/27/krav/#paragraf-493 "BR18 § 493"){ .br18-ref }. Her fremgår det, at legepladsredskaber og -underlag, multisportsudstyr, motionsredskaber i det fri, skateboardbaner og lignede er undtaget fra indplacering i en brandklasse, hvis udformningen eller anvendelsen ikke medfører en uacceptabel risiko for personskade i tilfælde af brand.
 
 Hvorvidt der *ikke* medføres en uacceptabel risiko for personskade, kan bl.a. afhænge af følgende faktorer:
 

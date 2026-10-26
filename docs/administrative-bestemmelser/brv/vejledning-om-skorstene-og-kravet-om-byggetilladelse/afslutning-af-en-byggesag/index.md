@@ -46,11 +46,11 @@
 
 ### Afslutning af en byggesag {#cc7ad409-372b-4131-b0cd-d6b976fe10e1}
 
-BR18, kap. 1, § 40, stk. 1, bestemmer, at byggearbejder, der kræver byggetilladelse, skal færdigmeldes til kommunalbestyrelsen.
+BR18, [kap. 1](../../../krav/ "BR18 kapitel 1"){ .br18-ref }, [§ 40, stk. 1](../../../krav/#paragraf-40 "BR18 § 40"){ .br18-ref }, bestemmer, at byggearbejder, der kræver byggetilladelse, skal færdigmeldes til kommunalbestyrelsen.
 
-Det fremgår af BR18, kap. 1, § 40, stk. 2, hvad der skal fremsendes til kommunalbestyrelsen i forbindelse med færdigmeldingen, herunder dokumentation og erklæring om, at det færdige byggeri er i overensstemmelse med byggetilladelsen og bygningsreglementet.
+Det fremgår af BR18, [kap. 1](../../../krav/ "BR18 kapitel 1"){ .br18-ref }, [§ 40, stk. 2](../../../krav/#paragraf-40 "BR18 § 40"){ .br18-ref }, hvad der skal fremsendes til kommunalbestyrelsen i forbindelse med færdigmeldingen, herunder dokumentation og erklæring om, at det færdige byggeri er i overensstemmelse med byggetilladelsen og bygningsreglementet.
 
-Det følger endvidere af BR18, kap. 1, § 43, stk. 1, at byggearbejder, der kræver byggetilladelse, ikke må tages i brug, inden kommunalbestyrelsen har udstedt en ibrugtagningstilladelse.
+Det følger endvidere af BR18, [kap. 1](../../../krav/ "BR18 kapitel 1"){ .br18-ref }, [§ 43, stk. 1](../../../krav/#paragraf-43 "BR18 § 43"){ .br18-ref }, at byggearbejder, der kræver byggetilladelse, ikke må tages i brug, inden kommunalbestyrelsen har udstedt en ibrugtagningstilladelse.
 
 <span id="genibrugtagning"></span>
 

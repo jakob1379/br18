@@ -11,7 +11,7 @@
 
 **Kan der dispenseres for vejrkompensering i bygninger, enten såfremt de er forsynet fra fjernvarmeanlæg med vejrkompenseret fremløbstemperatur eller ud fra rentabilitetsbetragtninger?**
 
-Det er ikke lovligt at give en generel dispensation fra bygningsreglementet. I medfør af byggelovens § 22, stk. 1, kan der meddeles dispensation fra bygningsreglementets krav om overholdelse af DS469, såfremt dette skønnes foreneligt med de hensyn der ligger til grund for den pågældende bestemmelse, samt at der er foretaget en konkret behandling af sagen.
+Det er ikke lovligt at give en generel dispensation fra bygningsreglementet. I medfør af byggelovens [§ 22, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178#P22 "Byggeloven § 22"){ .br18-ref .br18-ref--ext }, kan der meddeles dispensation fra bygningsreglementets krav om overholdelse af DS469, såfremt dette skønnes foreneligt med de hensyn der ligger til grund for den pågældende bestemmelse, samt at der er foretaget en konkret behandling af sagen.
 
 De hensyn, der ligger til grund for indførelsen af kravet, er dels at sænke varmetab fra rør og lignende, samt dels at sikre at varmeafgivelse fra varmegiverne begrænses, når varmebehovet er begrænset, ligesom varmegiverne ikke skal afgive varme i perioder, hvor der ikke er behov.
 

@@ -46,11 +46,11 @@
 
 ### 2.2.4. Begrænsninger i bygningsreglementets anvendelsesområde {#3d184825-a885-4886-af2c-980593e7655f}
 
-Der følger visse generelle undtagelser til bygningsreglementet efter §§ 4-6, som indebærer at visse typer af byggeri kan være helt eller delvist undtaget fra bygningsreglementet.
+Der følger visse generelle undtagelser til bygningsreglementet efter [§§ 4-6](../../../krav/#0fc4e856-6ef9-41e5-bb5d-fa869f900ffd "BR18 §§ 4-6"){ .br18-ref }, som indebærer at visse typer af byggeri kan være helt eller delvist undtaget fra bygningsreglementet.
 
-*§ 4: Byggeri, der er undtaget fra bygningsreglementets anvendelsesområde*
+*[§ 4](../../../krav/#paragraf-4 "BR18 § 4"){ .br18-ref }: Byggeri, der er undtaget fra bygningsreglementets anvendelsesområde*
 
-Bygningsreglementet gælder ikke for de typer af byggeri, der er nævnt i § 4. Det betyder, at de nævnte typer af byggeri kan opføres og nedrives uden tilladelse, og at der ikke er fastsat særlige krav i bygningsreglementet til disse typer af byggeri.
+Bygningsreglementet gælder ikke for de typer af byggeri, der er nævnt i [§ 4](../../../krav/#paragraf-4 "BR18 § 4"){ .br18-ref }. Det betyder, at de nævnte typer af byggeri kan opføres og nedrives uden tilladelse, og at der ikke er fastsat særlige krav i bygningsreglementet til disse typer af byggeri.
 
 De pågældende typer af byggeri er undtaget fra bygningsreglementets anvendelsesområde, fordi de er omfattet af anden lovgivning. Der kan dog være fastsat regler i anden lovgivning om, at dele af bygningsreglementet finder anvendelse for det pågældende byggeri.
 
@@ -58,9 +58,9 @@ Bygningsreglementet gælder ikke for broer, tunneler og andre anlæg til trafika
 
 Bestemmelsen undtager således de nævnte typer af byggearbejder fra bygningsreglementets krav, når myndigheder eller selskaber ved lov er ansvarlige for byggearbejdet. ”Ved lov” fortolkes således, at der skal være vedtaget en anlægslov for det pågældende arbejde.
 
-*§ 5: Byggeri, der er undtaget fra krav om byggetilladelse*
+*[§ 5](../../../krav/#paragraf-5 "BR18 § 5"){ .br18-ref }: Byggeri, der er undtaget fra krav om byggetilladelse*
 
-I § 5 er oplistet en række typer af byggeri, som kan udføres uden ansøgning om byggetilladelse, men som fortsat er omfattet er bygningsreglementets tekniske bestemmelser. Det betyder, at byggeri, der er omfattet af § 5, i udgangspunktet skal overholde regler om byggeret og samtlige tekniske bestemmelser i bygningsreglementet, der er relevante for det pågældende byggeri, medmindre andet følger af § 6. Bestemmelsen omfatter både nyopførelse af visse bygningstyper og ombygningsarbejder i eksisterende byggeri.
+I [§ 5](../../../krav/#paragraf-5 "BR18 § 5"){ .br18-ref } er oplistet en række typer af byggeri, som kan udføres uden ansøgning om byggetilladelse, men som fortsat er omfattet er bygningsreglementets tekniske bestemmelser. Det betyder, at byggeri, der er omfattet af [§ 5](../../../krav/#paragraf-5 "BR18 § 5"){ .br18-ref }, i udgangspunktet skal overholde regler om byggeret og samtlige tekniske bestemmelser i bygningsreglementet, der er relevante for det pågældende byggeri, medmindre andet følger af [§ 6](../../../krav/#paragraf-6 "BR18 § 6"){ .br18-ref }. Bestemmelsen omfatter både nyopførelse af visse bygningstyper og ombygningsarbejder i eksisterende byggeri.
 
 <table>
 <colgroup>
@@ -81,7 +81,7 @@ I § 5 er oplistet en række typer af byggeri, som kan udføres uden ansøgning 
 </tr>
 <tr>
 <td>Ombygninger og forandringer i enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse. Ombygningen eller forandringen må ikke medføre en væsentlig anvendelsesændring eller en udvidelse af etagearealet. En udvendig efterisolering på maksimalt 25 cm betragtes ikke som en udvidelse af etagearealet.</td>
-<td><p>Der kan foretages ombygninger og andre forandringer i enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse, så længe der ikke sker en væsentlig anvendelsesændring eller en udvidelse af etagearealet. Bestemmelsen omfatter vedligeholdelsesbyggearbejder, der er af betydning for energiforbruget i bygningen, f.eks. udskiftning af et vindue eller en installation, der er af betydning for energiforbruget, jf. byggelovens § 2, stk. 1, litra e. Bestemmelsen indebærer, at vedligeholdelsesbyggearbejder, der er af betydning for energiforbruget, skal leve op til relevante bestemmelser i bygningsreglementet, der er gældende på tidspunktet for byggeriet.</p>
+<td><p>Der kan foretages ombygninger og andre forandringer i enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse, så længe der ikke sker en væsentlig anvendelsesændring eller en udvidelse af etagearealet. Bestemmelsen omfatter vedligeholdelsesbyggearbejder, der er af betydning for energiforbruget i bygningen, f.eks. udskiftning af et vindue eller en installation, der er af betydning for energiforbruget, jf. byggelovens <a class="br18-ref br18-ref--ext" href="https://www.retsinformation.dk/eli/lta/2016/1178#P2" title="Byggeloven § 2">§ 2, stk. 1, litra e</a>. Bestemmelsen indebærer, at vedligeholdelsesbyggearbejder, der er af betydning for energiforbruget, skal leve op til relevante bestemmelser i bygningsreglementet, der er gældende på tidspunktet for byggeriet.</p>
 <p>Etablering af kælder anses for at være nybyggeri eller tilbygning og er ikke omfattet af ombygningsbestemmelsen.</p></td>
 </tr>
 <tr>
@@ -95,26 +95,26 @@ I § 5 er oplistet en række typer af byggeri, som kan udføres uden ansøgning 
 <td>Bygningsejeren er selv ansvarlig for, at det pågældende byggeri ikke udgør en fare, f.eks. i form af indhegning af et svømmebassin, der hindrer, at forbipasserende falder i.</td>
 </tr>
 <tr>
-<td>Vedligeholdelsesbyggearbejder, ombygninger og andre forandringer i bestående bebyggelse, som har betydning for energiforbruget i bygningen, og som er omfattet af byggelovens § 2, stk. 1, litra e.</td>
+<td>Vedligeholdelsesbyggearbejder, ombygninger og andre forandringer i bestående bebyggelse, som har betydning for energiforbruget i bygningen, og som er omfattet af byggelovens <a class="br18-ref br18-ref--ext" href="https://www.retsinformation.dk/eli/lta/2016/1178#P2" title="Byggeloven § 2">§ 2, stk. 1, litra e</a>.</td>
 <td>Med bestemmelsen undtages vedligeholdelsesarbejder, ombygning og andre forandringer i bestående bebyggelse, der har betydning for energiforbruget i bygningen, for kravet om byggetilladelse. Bestemmelsen gør det f.eks. muligt at foretage udskiftning af vinduer i en hel facade, der dækker flere enheder uden ansøgning om byggetilladelse.</td>
 </tr>
 <tr>
 <td>Opførelse af og om- og tilbygninger til campinghytter, mobilehomes og lignende, der er omfattet af campingreglementet.</td>
-<td><p>Det er alene campinghytter, mobilehomes og lignende ferieboligformer som f.eks. trætophytter, der er omfattet af campingreglementet, der er undtaget fra byggesagsbehandling. Campinghytter, mobilehomes og lignende, der opstilles uden hjemmel i campingreglementet, må ikke opstilles uden ansøgning om byggetilladelse, jf. § 7.</p>
+<td><p>Det er alene campinghytter, mobilehomes og lignende ferieboligformer som f.eks. trætophytter, der er omfattet af campingreglementet, der er undtaget fra byggesagsbehandling. Campinghytter, mobilehomes og lignende, der opstilles uden hjemmel i campingreglementet, må ikke opstilles uden ansøgning om byggetilladelse, jf. <a class="br18-ref" href="../../../krav/#paragraf-7" title="BR18 § 7">§ 7</a>.</p>
 <p>Campinghytter, mobilehomes og lignende sidestilles med sommerhuse i forhold til krav til energiforbrug, jf. kap. 11.</p></td>
 </tr>
 <tr>
 <td>Opførelse af og om- og tilbygninger til kolonihavehuse, der er tilladt, og hvis størrelse og placering er fastlagt i en lokalplan, byplanvedtægt eller tinglyst deklaration godkendt af en offentlig myndighed.</td>
 <td><p>Bestemmelsen betyder, at hvis et kolonihavehus er tilladt i en lokalplan, byplanvedtægt eller tinglyst deklaration, der er godkendt af en offentlig myndighed, kan det opføres uden ansøgning om byggetilladelse. Det er dog en betingelse, at kolonihavehusets størrelse og placering er fastlagt.</p>
-<p>Hvis ikke størrelse og placering følger af lokalplan, byplanvedtægt eller tinglyst deklaration, der er godkendt af en offentlig myndighed, skal der søges om byggetilladelse, inden der må ske opførelse af, om- eller tilbygning. Der vil dog kunne foretages ombygninger i kolonihavehuset uden byggetilladelse inden for rammerne af § 5, stk. 1, nr. 4.</p>
-<p>Kolonihavehuse er ligeledes undtaget fra en række tekniske bestemmelser efter § 6, stk. 1, nr. 4. Det betyder, at kolonihavehuse, der kan opstilles uden byggetilladelse efter § 5, stk. 1, nr. 10, alene skal leve op til krav om afløbsinstallationer i kapitel 4, krav om røgalarmanlæg eller røgalarm i § 93, stk. 1, nr. 7, krav om energiforsyningsanlæg i kapitel 12 og krav til vandinstallationer i kapitel 21. Der stilles ikke andre krav til kolonihavehuse i bygningsreglementet. </p></td>
+<p>Hvis ikke størrelse og placering følger af lokalplan, byplanvedtægt eller tinglyst deklaration, der er godkendt af en offentlig myndighed, skal der søges om byggetilladelse, inden der må ske opførelse af, om- eller tilbygning. Der vil dog kunne foretages ombygninger i kolonihavehuset uden byggetilladelse inden for rammerne af <a class="br18-ref" href="../../../krav/#paragraf-5" title="BR18 § 5">§ 5, stk. 1, nr. 4</a>.</p>
+<p>Kolonihavehuse er ligeledes undtaget fra en række tekniske bestemmelser efter <a class="br18-ref" href="../../../krav/#paragraf-6" title="BR18 § 6">§ 6, stk. 1, nr. 4</a>. Det betyder, at kolonihavehuse, der kan opstilles uden byggetilladelse efter <a class="br18-ref" href="../../../krav/#paragraf-5" title="BR18 § 5">§ 5, stk. 1, nr. 10</a>, alene skal leve op til krav om afløbsinstallationer i kapitel 4, krav om røgalarmanlæg eller røgalarm i <a class="br18-ref" href="../../../../tekniske-bestemmelser/05/krav/#paragraf-93" title="BR18 § 93">§ 93, stk. 1, nr. 7</a>, krav om energiforsyningsanlæg i kapitel 12 og krav til vandinstallationer i kapitel 21. Der stilles ikke andre krav til kolonihavehuse i bygningsreglementet. </p></td>
 </tr>
 <tr>
 <td>Udendørs anlæg til opbevaring af husdyrgødning, korn og foder samt tørringsanlæg for korn, frø og andre afgrøder.</td>
 <td>Bestemmelsen omfatter gylletanke, gyllelaguner, møddingspladser, ensilagepladser, foderpladser, vaskepladser, siloer til korn- og foder- opbevaring og lign.   Bestemmelsen omfatter både udendørsanlægget til husdyrgødning samt eventuel overdækning. Der er dermed ikke krav om byggetilladelse for udendørsanlæg til opbevaring af husdyrgødning uanset om der måtte være fast eller tæt overdækning.   De omfattede konstruktioner skal leve op til bygningsreglementets tekniske bestemmelser, ligesom der kan være anden lovgivning, der skal iagttages ved opførelsen. Det bemærkes, at det som hovedregel er et lovkrav i medfør af husdyrgødningsbekendtgørelsens § 22, at udendørs anlæg til opbevaring af husdyrgødning skal forsynes med fast eller tæt overdækning.</td>
 </tr>
 <tr>
-<td>Antennesystemer, der anvendes til radiokommunikation i elektroniske kommunikationsnet, jf. lov om elektroniske kommunikationsnet og tjenester, § 2, nr. 4 og 5, herunder radiofrekvens- eller kabelbaseret teleinfrastruktur.</td>
+<td>Antennesystemer, der anvendes til radiokommunikation i elektroniske kommunikationsnet, jf. lov om elektroniske kommunikationsnet og tjenester, <a class="br18-ref br18-ref--ext" href="https://www.retsinformation.dk/eli/lta/2025/681#P2" title="Teleloven § 2">§ 2, nr. 4 og 5</a>, herunder radiofrekvens- eller kabelbaseret teleinfrastruktur.</td>
 <td><p>Bestemmelsen omhandler alene antenner, der anvendes til radiokommunikation. Lov om elektroniske kommunikationsnet og tjenester definerer elektroniske kommunikationsnet som enhver form for radiofrekvens- eller kabelbaseret teleinfrastruktur, der anvendes til formidling af elektroniske kommunikationstjenester. Derudover er offentlige elektroniske kommunikationsnet defineret som elektroniske kommunikationsnet, der stilles til rådighed for en ikke på forhånd afgrænset kreds af slutbrugere eller udbydere af elektroniske kommunikationsnet eller – tjenester. Som eksempler på antennesystemer i elektroniske kommunikationsnet kan nævnes offentlige mobilnet, SINE-nettet og til- hørende radiokæder.</p>
 <p>Bestemmelsen undtager ikke antenneejeren fra at indhente tilladelser, der er påkrævet i henhold til anden lovgivning, eksempelvis landzonetilladelse i henhold til planloven.</p></td>
 </tr>
@@ -140,7 +140,7 @@ I § 5 er oplistet en række typer af byggeri, som kan udføres uden ansøgning 
 </tbody>
 </table>
 
-Undtagelse fra ansøgning om byggetilladelse efter bygningsreglementet, undtager ikke fra overholdelse af og ansøgning om tilladelse eller registrering efter anden lovgivning. Der kan eksempelvis være regler fastsat i medfør af planloven, der forhindrer opførelse af byggeri, der kan opføres efter § 5. Registrering i BBR (Bygnings- og Boligregisteret) skal ligeledes ske uanset undtagelse fra ansøgning om byggetilladelse.
+Undtagelse fra ansøgning om byggetilladelse efter bygningsreglementet, undtager ikke fra overholdelse af og ansøgning om tilladelse eller registrering efter anden lovgivning. Der kan eksempelvis være regler fastsat i medfør af planloven, der forhindrer opførelse af byggeri, der kan opføres efter [§ 5](../../../krav/#paragraf-5 "BR18 § 5"){ .br18-ref }. Registrering i BBR (Bygnings- og Boligregisteret) skal ligeledes ske uanset undtagelse fra ansøgning om byggetilladelse.
 
 ### 2.2.5. Byggeri, der er undtaget helt eller delvist fra overholdelse af tekniske bestemmelser {#6c15a8fa-5033-49ca-80db-b170e7eb6537}
 

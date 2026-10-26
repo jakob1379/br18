@@ -40,9 +40,9 @@
 
 ### 3.0. Drift, kontrol og vedligehold {#491e0154-3218-4bfb-bf8e-6f3326effa18}
 
-Det fremgår af bygningsreglementet 2018, kap. 15, § 357, at drift, kontrol og vedligehold af konstruktioner skal ske, så de til enhver tid overholder de relevante bestemmelser i §§ 344-354.
+Det fremgår af bygningsreglementet 2018, [kap. 15](../../../krav/ "BR18 kapitel 15"){ .br18-ref }, [§ 357](../../../krav/#paragraf-357 "BR18 § 357"){ .br18-ref }, at drift, kontrol og vedligehold af konstruktioner skal ske, så de til enhver tid overholder de relevante bestemmelser i [§§ 344-354](../../../krav/#paragraf-344 "BR18 §§ 344-354"){ .br18-ref }.
 
-Det påhviler den til enhver tid værende ejer af en bygning at vedligeholde og reparere sine bygninger, så bygningsreglementet fortsat overholdes og risikoen for skader på personer mindskes, jf. byggeloven § 17. Drift, kontrol og vedligehold af konstruktioner skal sikre, at de i hele konstruktionens eller bygningens levetiden er sikre at benytte.
+Det påhviler den til enhver tid værende ejer af en bygning at vedligeholde og reparere sine bygninger, så bygningsreglementet fortsat overholdes og risikoen for skader på personer mindskes, jf. byggeloven [§ 17](https://www.retsinformation.dk/eli/lta/2016/1178#P17 "Byggeloven § 17"){ .br18-ref .br18-ref--ext }. Drift, kontrol og vedligehold af konstruktioner skal sikre, at de i hele konstruktionens eller bygningens levetiden er sikre at benytte.
 
 Trafik- Bygge- og Boligstyrelsen har udarbejdet en række vejledninger, der kan hjælpe bygningsejer i forbindelse med drift og vedligehold af forskellige typer konstruktioner. Vejledningerne fremgår i følgende afsnit.
 

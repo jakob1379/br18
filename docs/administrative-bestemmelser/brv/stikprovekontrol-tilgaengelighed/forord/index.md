@@ -42,13 +42,13 @@ Denne vejledning skal understøtte kommunernes indsats i forbindelse med den del
 
 I stikprøvekontrollen skal kommunerne bl.a. vurdere, om de udtrukne byggesager tilbyder ligeværdighed i adgangsforhold og indretning^4^. Et ensartet kontrolniveau vil understøtte en identificering af, hvor udfordringerne befinder sig. Derfor er det vigtigt, at stikprøvekontrollen omfatter alle relevante bestemmelser i bygningsreglementet.
 
-1\) Bygningsreglementet, kap. 1, § 46.
+1\) Bygningsreglementet, [kap. 1](../../../krav/ "BR18 kapitel 1"){ .br18-ref }, [§ 46](../../../krav/#paragraf-46 "BR18 § 46"){ .br18-ref }.
 
-2\) Bygningsreglementet, kap. 1, Vejledning om byggesagsbehandling efter BR18.
+2\) Bygningsreglementet, [kap. 1](../../../krav/ "BR18 kapitel 1"){ .br18-ref }, Vejledning om byggesagsbehandling efter BR18.
 
 3\) Tiltagspakke til fremme af tilgængelighed 2018, Trafik-, Bygge- og Boligstyrelsen, 23. januar 2018
 
-4\) Bygningsreglementet, kap. 2, Vejledning til brugerbegreb, 0.0.0.
+4\) Bygningsreglementet, [kap. 2](../../../../tekniske-bestemmelser/02/krav/ "BR18 kapitel 2"){ .br18-ref }, Vejledning til brugerbegreb, 0.0.0.
 
 <span id="stikprvekontrol-afklaring-af-bestemmelser-og-brugergruppe"></span>
 

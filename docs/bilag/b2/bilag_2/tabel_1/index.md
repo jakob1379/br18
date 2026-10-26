@@ -65,7 +65,7 @@
 </tr>
 <tr>
 <td>Skyde- og foldedøre.<br />
-Alternativt en energibalance på mindst 0 kWh/m² pr. år. Beregningsmetode for energibalance skal følge § 258, stk. 1. Der kan anvendes funktionsglas, svarende til § 258, stk. 1, nr. 3<br />
+Alternativt en energibalance på mindst 0 kWh/m² pr. år. Beregningsmetode for energibalance skal følge <a class="br18-ref" href="../../../../tekniske-bestemmelser/11/krav/#fd620db7-f2ed-41e9-8e42-3f4b75f234be" title="BR18 § 258">§ 258, stk. 1</a>. Der kan anvendes funktionsglas, svarende til <a class="br18-ref" href="../../../../tekniske-bestemmelser/11/krav/#fd620db7-f2ed-41e9-8e42-3f4b75f234be" title="BR18 § 258">§ 258, stk. 1, nr. 3</a><br />
 <br />
 Referencestørrelse er 2,50 m x 2,18 m i henholdsvis 2 og 3 fag<br />
 <br />

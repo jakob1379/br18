@@ -34,7 +34,7 @@
 
 ### 1. Forord {#31a16eb0-b75f-4b27-a43a-ca0bc0defabe}
 
-Vejledning om byggesagsbehandling efter BR18 dækker over vejledning om de bestemmelser i bygningsreglementet, som er relevante ved kommunalbestyrelsens behandling af en byggesag. Byggesagsbehandlingen er reguleret i bygningsreglementets første afsnit i §§ 1-47.
+Vejledning om byggesagsbehandling efter BR18 dækker over vejledning om de bestemmelser i bygningsreglementet, som er relevante ved kommunalbestyrelsens behandling af en byggesag. Byggesagsbehandlingen er reguleret i bygningsreglementets første afsnit i [§§ 1-47](../../../krav/ "BR18 §§ 1-47"){ .br18-ref }.
 
 <span id="introduktion-til-bygningsreglementet-2018"></span>
 

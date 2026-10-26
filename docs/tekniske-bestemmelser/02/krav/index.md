@@ -4,9 +4,9 @@
 
 Bygninger, opholdsarealer og parkeringsarealer skal have adgangsforhold, der sikrer, at brugerne ved egen hjælp kan komme frem til dem, ind i dem samt frem til deres funktioner.
 
-*Stk. 2.* Sommerhuse er ikke omfattet af bestemmelserne i kapitel 2 om adgangsforhold.
+*Stk. 2.* Sommerhuse er ikke omfattet af bestemmelserne i [kapitel 2](./ "BR18 kapitel 2"){ .br18-ref } om adgangsforhold.
 
-*Stk. 3.* Fritliggende enfamiliehuse, der udelukkende anvendes til boligformål, er ikke omfattet af bestemmelserne i kapitel 2 om adgangsforhold, jf. dog § 51, stk. 3, og § 52.
+*Stk. 3.* Fritliggende enfamiliehuse, der udelukkende anvendes til boligformål, er ikke omfattet af bestemmelserne i [kapitel 2](./ "BR18 kapitel 2"){ .br18-ref } om adgangsforhold, jf. dog [§ 51, stk. 3](#paragraf-51 "BR18 § 51"){ .br18-ref }, og [§ 52](#paragraf-52 "BR18 § 52"){ .br18-ref }.
 
 ## § 49 - § 50 Adgangsforhold frem til bygningen {#744b4ef9-b031-4220-a9dc-276bde7d39c9}
 
@@ -66,7 +66,7 @@ Yderdøre skal have en fri passagebredde på mindst 0,77 m.
 
 ### § 53 {#paragraf-53}
 
-§§ 51 og 52 gælder også for døre ved flugtveje i stueetagen, have-, altan- og terrassedøre samt døre til fælles tagterrasser, hvortil der er adgang fra elevator eller lignende.
+[§§ 51](#paragraf-51 "BR18 § 51"){ .br18-ref } og [52](#paragraf-52 "BR18 § 52"){ .br18-ref } gælder også for døre ved flugtveje i stueetagen, have-, altan- og terrassedøre samt døre til fælles tagterrasser, hvortil der er adgang fra elevator eller lignende.
 
 ### § 54 {#paragraf-54}
 
@@ -132,7 +132,7 @@ Værn skal udføres, så den indbyrdes afstand mellem alle typer balustre, både
 
 ### § 60 {#paragraf-60}
 
-Værn udført af glas skal udføres i overensstemmelse med §§ 238-241.
+Værn udført af glas skal udføres i overensstemmelse med [§§ 238-241](../../09/krav/#098ed0b6-7eb7-4c64-ae1b-529b392d3d3c "BR18 §§ 238-241"){ .br18-ref }.
 
 ## § 61 Håndlister {#3be63de8-43d2-4577-8860-d6ebe210ed67}
 

@@ -16,7 +16,7 @@
 
 ## Tabel 3 - Mindstekrav til niveau af tredjepartskontrol af dokumentation for de bærende konstruktioner for konstruktionsklasse 4, jf. § 527 {#b2a94805-0a77-4a30-9e7c-9747e119a6c4}
 
-*Tabel 3. Mindstekrav til niveau af tredjepartskontrol af dokumentation for de bærende konstruktioner for konstruktionsklasse 4, jf. § 527*
+*Tabel 3. Mindstekrav til niveau af tredjepartskontrol af dokumentation for de bærende konstruktioner for konstruktionsklasse 4, jf. [§ 527](../../../../ovrige-bestemmelser/30/krav/#paragraf-527 "BR18 § 527"){ .br18-ref }*
 
 <table>
 <colgroup>

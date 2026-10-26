@@ -30,9 +30,9 @@
 
 ### Byggelovens anvendelsesområde {#a78eeb5f-3ae6-425a-bd27-69be09299cde}
 
-Det fremgår af byggelovens § 2, stk. 1, litra a, at loven finder anvendelse ved opførelse af ny bebyggelse og tilbygning til bebyggelse. Tilbygning omfatter ny bebyggelse, der sammenbygges med en eksisterende bygning samt etablering af nye bygningsdele. Som eksempel kan nævnes opførelse af f.eks. altaner, karnapper og skorstene.
+Det fremgår af byggelovens [§ 2, stk. 1, litra a](https://www.retsinformation.dk/eli/lta/2016/1178#P2 "Byggeloven § 2"){ .br18-ref .br18-ref--ext }, at loven finder anvendelse ved opførelse af ny bebyggelse og tilbygning til bebyggelse. Tilbygning omfatter ny bebyggelse, der sammenbygges med en eksisterende bygning samt etablering af nye bygningsdele. Som eksempel kan nævnes opførelse af f.eks. altaner, karnapper og skorstene.
 
-Det fremgår endvidere af byggelovens § 2, stk. 1, litra b, at byggeloven finder anvendelse ved ombygning af og andre forandringer i bebyggelse, som er væsentlige i forhold til bestemmelser i loven eller de i medfør af loven udfærdigede bestemmelser.
+Det fremgår endvidere af byggelovens [§ 2, stk. 1, litra b](https://www.retsinformation.dk/eli/lta/2016/1178#P2 "Byggeloven § 2"){ .br18-ref .br18-ref--ext }, at byggeloven finder anvendelse ved ombygning af og andre forandringer i bebyggelse, som er væsentlige i forhold til bestemmelser i loven eller de i medfør af loven udfærdigede bestemmelser.
 
 Etablering af et aftrækssystem må betegnes som en tilbygning, såfremt dele af aftrækssystemet placeres således, at det bygges sammen med den eksisterende  bebyggelse,   dvs. placeres "uden på" bygningen. Såfremt aftrækssystemet placeres inde i bygningen, må byggearbejdet betegnes som en ombygning eller forandring i bebyggelsen.
 

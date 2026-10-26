@@ -20,24 +20,24 @@
 
 ### 1.0. Generelt for konstruktioner {#434fb0c7-f233-4f85-8fb3-2536def1d52a}
 
-Det fremgår af bygningsreglementet 2018, kap. 15, § 340, at projektering, udførelse, drift og vedligehold af konstruktioner og bygningsdele skal ske under hensyn til, at der:
+Det fremgår af bygningsreglementet 2018, [kap. 15](../../../krav/ "BR18 kapitel 15"){ .br18-ref }, [§ 340](../../../krav/#paragraf-340 "BR18 § 340"){ .br18-ref }, at projektering, udførelse, drift og vedligehold af konstruktioner og bygningsdele skal ske under hensyn til, at der:
 
 1.  Ikke sker skade på personer og bygninger på egen grund eller på nabogrunde.
 2.  Ikke opstår risiko for personers sundhed på grund af svigt i konstruktionerne.
 3.  Skal opnås tilfredsstillende forhold i funktions- og holdbarhedsmæssig henseende.
 4.  Ikke opstår risiko for personers sundhed på grund af indtrængen af skadedyr.
 
-§ 340 definerer det overordnede personsikkerhedsniveau, som skal opnås i byggeri i konstruktionsmæssig henseende, og angiver således de overordnede rammer for, hvad en bygnings konstruktioner skal leve op til. § 340 består af en række specifikke elementer, der alle kan have indflydelse på konstruktionen. Der skal derfor tages hensyn til disse elementer, ved konstruktionens projektering, udførelse, drift og vedligeholdelse.
+[§ 340](../../../krav/#paragraf-340 "BR18 § 340"){ .br18-ref } definerer det overordnede personsikkerhedsniveau, som skal opnås i byggeri i konstruktionsmæssig henseende, og angiver således de overordnede rammer for, hvad en bygnings konstruktioner skal leve op til. [§ 340](../../../krav/#paragraf-340 "BR18 § 340"){ .br18-ref } består af en række specifikke elementer, der alle kan have indflydelse på konstruktionen. Der skal derfor tages hensyn til disse elementer, ved konstruktionens projektering, udførelse, drift og vedligeholdelse.
 
 Bestemmelsen omfatter også udførelsesfasen for så vidt angår dimensionering af konstruktioner så opførelsen af en bygning kan ske uden risiko for personer på grund af kollaps mv under udførelsesfasen.
 
-I byggeri skal der iht. §341 anvendes materialer, som er egnede til det konkrete formål. Byggematerialers egenskaber skal derfor være dokumenterede og det skal vurderes om det valgte byggemateriale er anvendeligt til den konkrete anvendelse i byggeriet. Dette gælder både i forhold til det enkelte materiale, men også i forhold til hvordan forskellige materialer fungerer bygningsfysisk og kemisk sammen.
+I byggeri skal der iht. [§341](../../../krav/#paragraf-341 "BR18 § 341"){ .br18-ref } anvendes materialer, som er egnede til det konkrete formål. Byggematerialers egenskaber skal derfor være dokumenterede og det skal vurderes om det valgte byggemateriale er anvendeligt til den konkrete anvendelse i byggeriet. Dette gælder både i forhold til det enkelte materiale, men også i forhold til hvordan forskellige materialer fungerer bygningsfysisk og kemisk sammen.
 
-Fundering skal ifølge §342 ske til frostsikker dybde og bæredygtig bund eller på anden måde, så der ikke opstår skader som følge af bevægelser i jordbunden. Ved udvendig frostsikring af fundamenter skal der tages særlig hensyn til løsningernes robusthed og pålidelighed, så frostsikringen bevares i hele bygningens levetid.
+Fundering skal ifølge [§342](../../../krav/#paragraf-342 "BR18 § 342"){ .br18-ref } ske til frostsikker dybde og bæredygtig bund eller på anden måde, så der ikke opstår skader som følge af bevægelser i jordbunden. Ved udvendig frostsikring af fundamenter skal der tages særlig hensyn til løsningernes robusthed og pålidelighed, så frostsikringen bevares i hele bygningens levetid.
 
 Under opvarmede bygninger er frostfri dybde normalt 0,9 m under terræn. Under fritstående fundamenter er frostfri dybde normalt 1,2 m under terræn. Frostfri dybde kan dog afhænge af jordtypen. Føres fundamentet ikke til frostfri dybde skal det på anden vis dokumenteres, at der ikke sker skader på bygningen pga. af bevægelser i jordbunden. Normalt vil det være tilstrækkeligt at sikre, at temperaturen under jordlaget ikke bliver lavere end 0 °C.
 
-I henhold til §343 skal tage og ovenlys udføres, så der er tilfredsstillende sikkerhed mod gennemtrædning. Baggrunden for denne bestemmelse er at sikre, at der er et acceptabelt sikkerhedsniveau for personer, som arbejder på taget. Sikkerhed mod gennemtrædning kan sikres i selve tagkonstruktionen eller ovenlyset eller ved at konstruktionen er opbygget på en sådan måde, at gennemtrædning ikke medfører personskade. Det sidste kan for eksempel ske ved at der under taget er en konstruktion, som sikre mod fald. Bestemmelsen omfatter også glastage, hvor der er behov for at færdes på taget i forbindelse med drift og vedligehold, med mindre det på anden vis sikres at der ikke er risiko for personskade. Glas i tage, tagvinduer og andre glaskonstruktioner er normalt ikke trædefaste.
+I henhold til [§343](../../../krav/#paragraf-343 "BR18 § 343"){ .br18-ref } skal tage og ovenlys udføres, så der er tilfredsstillende sikkerhed mod gennemtrædning. Baggrunden for denne bestemmelse er at sikre, at der er et acceptabelt sikkerhedsniveau for personer, som arbejder på taget. Sikkerhed mod gennemtrædning kan sikres i selve tagkonstruktionen eller ovenlyset eller ved at konstruktionen er opbygget på en sådan måde, at gennemtrædning ikke medfører personskade. Det sidste kan for eksempel ske ved at der under taget er en konstruktion, som sikre mod fald. Bestemmelsen omfatter også glastage, hvor der er behov for at færdes på taget i forbindelse med drift og vedligehold, med mindre det på anden vis sikres at der ikke er risiko for personskade. Glas i tage, tagvinduer og andre glaskonstruktioner er normalt ikke trædefaste.
 
 <span id="projektering-og-udfrelse-af-konstruktioner"></span>
 

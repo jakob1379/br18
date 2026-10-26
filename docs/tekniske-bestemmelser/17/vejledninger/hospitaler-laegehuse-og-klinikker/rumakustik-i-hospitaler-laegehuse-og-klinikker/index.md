@@ -31,7 +31,7 @@
 
 ### 6.4 Rumakustik {#e7acca73-f8e2-4a4f-b1ad-85505632d69a}
 
-Tabel 6.4 indeholder forslag til projekteringsværdier for efterklangstid og absorptionsareal i hospitaler svarende til overholdelse af BR18’s generelle bestemmelse i § 368, stk. 1 om at ”*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen”.*
+Tabel 6.4 indeholder forslag til projekteringsværdier for efterklangstid og absorptionsareal i hospitaler svarende til overholdelse af BR18’s generelle bestemmelse i [§ 368, stk. 1](../../../krav/#d020db69-f4ce-4cb5-84ee-a507a2630908 "BR18 § 368"){ .br18-ref } om at ”*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen”.*
 
 <table>
 <colgroup>

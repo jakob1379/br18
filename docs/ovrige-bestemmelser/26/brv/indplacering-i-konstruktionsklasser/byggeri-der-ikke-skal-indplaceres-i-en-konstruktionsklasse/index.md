@@ -30,7 +30,7 @@
 
 ### 3.0.1. Byggeri der ikke skal indplaceres i en konstruktionsklasse {#dae86834-bcdb-4729-a3b8-97d5bbc295e7}
 
-Ifølge BR18, § 489, stk. 2, er følgende byggeri med et areal på højst 50 m² undtaget for indplacering i konstruktionsklasser:
+Ifølge BR18, [§ 489, stk. 2](../../../krav/#paragraf-489 "BR18 § 489"){ .br18-ref }, er følgende byggeri med et areal på højst 50 m² undtaget for indplacering i konstruktionsklasser:
 
 > •  Garager
 >
@@ -48,6 +48,6 @@ Ifølge BR18, § 489, stk. 2, er følgende byggeri med et areal på højst 50 m
 
 Der henvises til *[Vejledning om opførelse af sekundær bebyggelse med et samlet areal på højst 50 m².](../../../../../administrative-bestemmelser/brv/sekundaer-bebyggelse/ "Sekundaer bebyggelse")*
 
-Ifølge BR18, § 489, stk. 3, er festival-, salgs- og campingområder undtaget fra indplacering. Derudover er mindre legepladsredskaber og -underlag, multisportsudstyr, motionsredskaber i det fri, skateboardbaner og lignede undtaget fra indplacering i en konstruktionsklasse, hvis udformningen udføres i henhold til §§ 359-363, og når udformningen eller anvendelsen ikke medfører en risiko for personskade ved et svigt. Andre mindre legepladsredskaber er tillige undtaget fra indplacering i konstruktionsklasse, hvis udformningen eller anvendelsen ikke medfører en risiko for personskade ved et svigt.
+Ifølge BR18, [§ 489, stk. 3](../../../krav/#paragraf-489 "BR18 § 489"){ .br18-ref }, er festival-, salgs- og campingområder undtaget fra indplacering. Derudover er mindre legepladsredskaber og -underlag, multisportsudstyr, motionsredskaber i det fri, skateboardbaner og lignede undtaget fra indplacering i en konstruktionsklasse, hvis udformningen udføres i henhold til [§§ 359-363](../../../../../tekniske-bestemmelser/16/krav/#e46aa162-8b77-41eb-a53b-d7eccd0145d8 "BR18 §§ 359-363"){ .br18-ref }, og når udformningen eller anvendelsen ikke medfører en risiko for personskade ved et svigt. Andre mindre legepladsredskaber er tillige undtaget fra indplacering i konstruktionsklasse, hvis udformningen eller anvendelsen ikke medfører en risiko for personskade ved et svigt.
 
 ### 3.0.2 Byggeri der ikke kan indplaceres i en konstruktionsklasse {#b4456f94-63d8-405d-8ae5-af6199b1f280}

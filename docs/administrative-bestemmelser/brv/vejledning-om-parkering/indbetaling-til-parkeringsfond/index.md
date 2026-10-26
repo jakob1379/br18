@@ -48,7 +48,7 @@
 
 I medfør af byggeloven kan der fastsættes regler om, at dispensation fra bestemmelser om parkeringsarealer på egen grund kan ske på betingelse af, at der sker indbetaling til en parkeringsfond.
 
-Reglerne om kommunale parkeringsfonde er fastsat i cirkulære nr. 10 af 17. januar 1994, der er udstedt med hjemmel i byggelovens § 22, stk. 6.
+Reglerne om kommunale parkeringsfonde er fastsat i cirkulære nr. 10 af 17. januar 1994, der er udstedt med hjemmel i byggelovens [§ 22, stk. 6](https://www.retsinformation.dk/eli/lta/2016/1178#P22 "Byggeloven § 22"){ .br18-ref .br18-ref--ext }.
 
 Begrebet ”parkeringsfond”, som det anvendes i parkeringsfondscirkulæret, er alene navnet på den ordning, hvorefter kommunalbestyrelsen kan meddele dispensation fra kravene om tilvejebringelse af parkeringsarealer på egen grund ved opførelse af bebyggelse. En ”parkeringsfond” skal derfor forstås som en ordning, hvorefter kommunen modtager indbetalinger fra borgerne, som kommunen skal anvende til anlæg af parkeringspladser.
 

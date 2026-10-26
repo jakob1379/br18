@@ -17,9 +17,9 @@
 
 ### 0.0.0. § 6 D, stk. 1 {#fffefe41-689d-430d-b0b4-ac0f3d029282}
 
-Byggelovens § 6 D, stk. 1, giver kommunalbestyrelsen mulighed for at stille krav til en bebyggelses ydre udformning I forbindelse med byggesagsbehandling. § 6 D, stk. 1, kan bruges til at stille betingelser i forbindelse med udstedelse af en byggetilladelse, men også til at nægte en byggetilladelse.
+Byggelovens [§ 6 D, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178#P6D "Byggeloven § 6D"){ .br18-ref .br18-ref--ext }, giver kommunalbestyrelsen mulighed for at stille krav til en bebyggelses ydre udformning I forbindelse med byggesagsbehandling. [§ 6 D, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178#P6D "Byggeloven § 6D"){ .br18-ref .br18-ref--ext }, kan bruges til at stille betingelser i forbindelse med udstedelse af en byggetilladelse, men også til at nægte en byggetilladelse.
 
-Det er alene i forbindelse med byggearbejder, der kræver tilladelse efter byggeloven, at kommunalbestyrelsen kan stille krav til bebyggelsens ydre udformning efter § 6 D, stk. 1, eller helt afslå at give tilladelse, jf. formuleringen ”Kommunalbestyrelsen kan gøre en tilladelse efter byggeloven (…)”. Det betyder, at det i udgangspunktet er byggearbejder, der er omfattet af byggeloven, jf. byggelovens § 2, bestemmelsen kan finde anvendelse på, og dermed ikke for reparationsarbejder eller for den rene bygningsvedligehold i form af f.eks. maling af en facade, selvom der sker en ændring i bebyggelsens ydre udformning. 
+Det er alene i forbindelse med byggearbejder, der kræver tilladelse efter byggeloven, at kommunalbestyrelsen kan stille krav til bebyggelsens ydre udformning efter [§ 6 D, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178#P6D "Byggeloven § 6D"){ .br18-ref .br18-ref--ext }, eller helt afslå at give tilladelse, jf. formuleringen ”Kommunalbestyrelsen kan gøre en tilladelse efter byggeloven (…)”. Det betyder, at det i udgangspunktet er byggearbejder, der er omfattet af byggeloven, jf. byggelovens [§ 2](https://www.retsinformation.dk/eli/lta/2016/1178#P2 "Byggeloven § 2"){ .br18-ref .br18-ref--ext }, bestemmelsen kan finde anvendelse på, og dermed ikke for reparationsarbejder eller for den rene bygningsvedligehold i form af f.eks. maling af en facade, selvom der sker en ændring i bebyggelsens ydre udformning. 
 
 Byggelovens bebyggelsesbegreb omfatter ikke alene traditionelle bygninger, men også andre faste konstruktioner og anlæg i det omfang, de er omfattet af de hensyn, som byggeloven tilsigter at varetage. Det kan f.eks. være en hegnsmur, pergola, terrasse, flagstang eller antenne. 
 
@@ -29,9 +29,9 @@ Bygningens ydre udformning skal vurderes på baggrund af det område, hvor bygge
 
 Bestemmelsen er primært tiltænkt at skulle anvendes ved byggearbejder i områder, der er karakteriseret ved en særlig arkitektonisk, landskabsmæssig eller æstetisk helhedsvirkning, og navnlig hvor der er tale om bevaringsværdige ældre bymiljøer. Bestemmelsen har således ikke til hensigt at fremkalde en utilsigtet ensartethed. 
 
-Byggelovens § 6 D, stk. 1, kan ikke bringes i anvendelse, hvis en byplanvedtægt eller lokalplan indeholder detaljerede bestemmelser om bebyggelsens ydre udformning. 
+Byggelovens [§ 6 D, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178#P6D "Byggeloven § 6D"){ .br18-ref .br18-ref--ext }, kan ikke bringes i anvendelse, hvis en byplanvedtægt eller lokalplan indeholder detaljerede bestemmelser om bebyggelsens ydre udformning. 
 
-Reglerne for kommunalbestyrelsens behandling af ansøgninger om byggetilladelse følger af bygningsreglementets kapitel 1.
+Reglerne for kommunalbestyrelsens behandling af ansøgninger om byggetilladelse følger af bygningsreglementets [kapitel 1](../../../../../administrative-bestemmelser/krav/ "BR18 kapitel 1"){ .br18-ref }.
 
 ### 1.0.0. Undtagelser i bygningsreglementet, der indskrænker § 6 D, stk. 1’s, anvendelsesområde {#571ad59c-7ee9-4566-bd27-c57c7c794aca}
 

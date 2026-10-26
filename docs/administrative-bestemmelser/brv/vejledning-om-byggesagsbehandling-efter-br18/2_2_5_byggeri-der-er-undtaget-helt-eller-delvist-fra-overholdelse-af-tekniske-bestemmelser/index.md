@@ -50,9 +50,9 @@
 
 ### 2.2.5. Byggeri, der er undtaget helt eller delvist fra overholdelse af tekniske bestemmelser {#6c15a8fa-5033-49ca-80db-b170e7eb6537}
 
-I henhold til § 6, er der visse typer af bebyggelse, der er helt eller delvist undtaget fra overholdelse af de tekniske bestemmelser. Al bebyggelse, der er omfattet af bygningsreglementet, skal som udgangspunkt leve op til de tekniske bestemmelser i afsnit II. § 6 indebærer dog, at de typer af bebyggelse, der nævnes, kan opføres eller ændres, uden at skulle leve op til dele af de tekniske krav, og dermed også uden dokumentation for overholdelse af disse krav ved færdigmelding af byggeriet.
+I henhold til [§ 6](../../../krav/#paragraf-6 "BR18 § 6"){ .br18-ref }, er der visse typer af bebyggelse, der er helt eller delvist undtaget fra overholdelse af de tekniske bestemmelser. Al bebyggelse, der er omfattet af bygningsreglementet, skal som udgangspunkt leve op til de tekniske bestemmelser i afsnit II. [§ 6](../../../krav/#paragraf-6 "BR18 § 6"){ .br18-ref } indebærer dog, at de typer af bebyggelse, der nævnes, kan opføres eller ændres, uden at skulle leve op til dele af de tekniske krav, og dermed også uden dokumentation for overholdelse af disse krav ved færdigmelding af byggeriet.
 
-Bestemmelsen betyder ikke, at de omfattede typer af bebyggelse er undtaget fra krav om ansøgning om byggetilladelse. Undtagelse fra krav om ansøgning om byggetilladelse følger af § 5.
+Bestemmelsen betyder ikke, at de omfattede typer af bebyggelse er undtaget fra krav om ansøgning om byggetilladelse. Undtagelse fra krav om ansøgning om byggetilladelse følger af [§ 5](../../../krav/#paragraf-5 "BR18 § 5"){ .br18-ref }.
 
 ### 2.3. Kommunalbestyrelsen som bygningsmyndighed {#acb65d6c-96d5-4a41-95d8-5a7b76276cdb}
 

@@ -30,7 +30,7 @@
 
 ### 2 Ombygningssager undtaget fra kravet om byggetilladelse {#44ea9a4d-12a0-4d3f-8f0d-82285840a6c5}
 
-Bestemmelsen i *§ 5, stk. 1, nr. 4* omhandler ombygninger og andre forandringer i eksisterende byggeri, der ikke er omfattet af § 5, stk. 1, nr. 2 og 3, og som ikke ændrer de bærende konstruktioners virkemåde eller forudsætningerne for de brandmæssige forhold.
+Bestemmelsen i *[§ 5, stk. 1, nr. 4](../../../krav/#paragraf-5 "BR18 § 5"){ .br18-ref }* omhandler ombygninger og andre forandringer i eksisterende byggeri, der ikke er omfattet af [§ 5, stk. 1, nr. 2 og 3](../../../krav/#paragraf-5 "BR18 § 5"){ .br18-ref }, og som ikke ændrer de bærende konstruktioners virkemåde eller forudsætningerne for de brandmæssige forhold.
 
 Ombygningen eller forandringen må heller ikke medføre en væsentlig anvendelsesændring eller en udvidelse af etagearealet. En væsentlig anvendelsesændring er f.eks. en ændring i anvendelsen fra bolig til erhverv.
 

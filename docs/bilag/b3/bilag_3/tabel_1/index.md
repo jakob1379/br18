@@ -52,11 +52,11 @@ Der skal foretages uafhængig kontrol af dokumentationen vedrørende:
 
 –indplacering i brandklasse,
 
-–dokumentation for, hvorledes byggeriet opfylder §§ 126-133 vedrørende redningsberedskabets indsatsforhold,
+–dokumentation for, hvorledes byggeriet opfylder [§§ 126-133](../../../../tekniske-bestemmelser/05/krav/#0875873c-27b3-435c-b6aa-6d7bb2a978d7 "BR18 §§ 126-133"){ .br18-ref } vedrørende redningsberedskabets indsatsforhold,
 
 –brandstrategirapporten og
 
-–kontrolplanen, jf. §§ 510-512 og § 518.
+–kontrolplanen, jf. [§§ 510-512](../../../../ovrige-bestemmelser/29/krav/#paragraf-510 "BR18 §§ 510-512"){ .br18-ref } og [§ 518](../../../../ovrige-bestemmelser/29/krav/#paragraf-518 "BR18 § 518"){ .br18-ref }.
 
 For den øvrige del af dokumentationen kan uafhængig kontrol udføres af personer, der ikke har medvirket ved udarbejdelsen af den pågældende dokumentation.
 
@@ -72,7 +72,7 @@ Der skal foretages uafhængig kontrol af dokumentation vedrørende:
 
 –A1. Konstruktionsgrundlag og
 
-–B2. Statisk kontrolplan, jf. § 501, nr. 1, og § 502, stk. 1, nr. 2.
+–B2. Statisk kontrolplan, jf. [§ 501, nr. 1](../../../../ovrige-bestemmelser/28/krav/#paragraf-501 "BR18 § 501"){ .br18-ref }, og [§ 502, stk. 1, nr. 2](../../../../ovrige-bestemmelser/28/krav/#paragraf-502 "BR18 § 502"){ .br18-ref }.
 
 For den øvrige del af dokumentationen for projektering af de bærende konstruktioner kan uafhængig kontrol af dokumentation udføres af personer, der ikke har medvirket ved udarbejdelsen af dokumentationen af det pågældende konstruktionsafsnit, men som har medvirket i projektering af byggeriet.
 

@@ -56,9 +56,9 @@
 
 ### 1.11. Standardformat til LCA aflevering {#849da573-be32-4ba4-a8c3-7419bbbbb383}
 
-I forbindelse med indsendelse af dokumentation for nye bygningers klimapåvirkning ved færdigmelding jf. § 40, er det muligt at benytte følgende frivillige standardformat: [Standardformat for LCA-dokumentation](../../../../../media/nlbi4r0x/standardformat-for-lca-dokumentation_2025.xlsx "Standardformat For Lca Dokumentation 2025"){rel="noopener" target="_blank"}
+I forbindelse med indsendelse af dokumentation for nye bygningers klimapåvirkning ved færdigmelding jf. [§ 40](../../../../../administrative-bestemmelser/krav/#paragraf-40 "BR18 § 40"){ .br18-ref }, er det muligt at benytte følgende frivillige standardformat: [Standardformat for LCA-dokumentation](../../../../../media/nlbi4r0x/standardformat-for-lca-dokumentation_2025.xlsx "Standardformat For Lca Dokumentation 2025"){rel="noopener" target="_blank"}
 
-For bygninger omfattet af § 297 skal der afleveres en dokumentation for klimapåvirkningen. Standardformatet skal være med til at gøre afleveringen af denne dokumentationen mere ensartet og struktureret, hvorved det kan understøtte indsamling af LCA-data for at give forskning og branchen bedre muligheder for læring.
+For bygninger omfattet af [§ 297](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref } skal der afleveres en dokumentation for klimapåvirkningen. Standardformatet skal være med til at gøre afleveringen af denne dokumentationen mere ensartet og struktureret, hvorved det kan understøtte indsamling af LCA-data for at give forskning og branchen bedre muligheder for læring.
 
 ### 1.12. Grænseværdi {#b522b6b0-154c-4c56-85b9-92cde139b124}
 

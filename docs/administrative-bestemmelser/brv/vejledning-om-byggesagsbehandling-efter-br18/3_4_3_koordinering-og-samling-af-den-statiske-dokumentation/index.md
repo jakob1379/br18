@@ -66,7 +66,7 @@
 
 ### 3.4.3. Koordinering og samling af den statiske dokumentation {#674aaacf-2482-4985-abaf-2377aeae40c8}
 
-For byggeri i konstruktionsklasse 1-4 skal ansøgeren sikre, at den statiske dokumentation er koordineret og samlet, så dokumentationen udgør et hele. Krav til udformningen af den statiske dokumentation fremgår af § 494 og en nærmere beskrivelse af de opgaver, der skal sikre dette, fremgår af vejledningen til kapitel 28. Opgaven med at sikre koordinering og samling af den statiske dokumentation er større jo flere organisationer, der medvirker til udarbejdelse og kontrol af den statiske dokumentation.
+For byggeri i konstruktionsklasse 1-4 skal ansøgeren sikre, at den statiske dokumentation er koordineret og samlet, så dokumentationen udgør et hele. Krav til udformningen af den statiske dokumentation fremgår af [§ 494](../../../../ovrige-bestemmelser/28/krav/#paragraf-494 "BR18 § 494"){ .br18-ref } og en nærmere beskrivelse af de opgaver, der skal sikre dette, fremgår af vejledningen til kapitel 28. Opgaven med at sikre koordinering og samling af den statiske dokumentation er større jo flere organisationer, der medvirker til udarbejdelse og kontrol af den statiske dokumentation.
 
 Ansøgeren kan sikre dette ved at udpege en organisation i form af en bygværksprojekterende til at definere, koordinere og samle den statiske dokumentation, således at dokumentationen udgør et hele. Yderligere oplysning om den bygværksprojekterende og de tilknyttede opgaver fremgår af vejledningen til kapitel 28 samt af SBi-anvisning 271 om dokumentation og kontrol af bærende konstruktioner.
 

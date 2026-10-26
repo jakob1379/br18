@@ -106,7 +106,7 @@
 
 ### 8.4. Frist for igangsættelse af stikprøvekontrol {#10a06e25-13cc-42dc-b4ae-5ada2c1195c3}
 
-I § 46, stk. 2 er der fastsat en frist for, hvornår kommunalbestyrelsen skal igangsætte stikprøvekontrollen. Bestemmelsen foreskriver, at kommunalbestyrelsen skal igangsætte stikprøvekontrollen indenfor en måned fra der er meddelt ibrugtagningstilladelse. Kommunalbestyrelsen skal meddele bygningsejeren, at byggesagen er udtaget til stikprøvekontrol. Bestemmelsen er indført under hensyn til bygningsejerens mulighed for at indhente eventuelt manglende dokumentation og at udbedre mangler i byggeriet hurtigst muligt.
+I [§ 46, stk. 2](../../../krav/#paragraf-46 "BR18 § 46"){ .br18-ref } er der fastsat en frist for, hvornår kommunalbestyrelsen skal igangsætte stikprøvekontrollen. Bestemmelsen foreskriver, at kommunalbestyrelsen skal igangsætte stikprøvekontrollen indenfor en måned fra der er meddelt ibrugtagningstilladelse. Kommunalbestyrelsen skal meddele bygningsejeren, at byggesagen er udtaget til stikprøvekontrol. Bestemmelsen er indført under hensyn til bygningsejerens mulighed for at indhente eventuelt manglende dokumentation og at udbedre mangler i byggeriet hurtigst muligt.
 
 ### 9. Nedrivning af bebyggelse {#d820595c-4854-4375-bc4b-7b22cb55c65b}
 

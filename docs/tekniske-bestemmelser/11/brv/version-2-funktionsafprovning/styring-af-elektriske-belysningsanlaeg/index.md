@@ -60,7 +60,7 @@ Det er et krav i bygningsreglementet, at arbejdsrum m.v. og fælles adgangsveje 
 
 *Formål med funktionsafprøvning af lysstyring*
 
-Formålet med afprøvningen er at eftervise, at lysstyringen i praksis mindst svarer til den forudsætning, der blev anvendt i energibehovsberegningen, der dokumenterer bygningens overholdelse af bygningsreglementets energikrav, jf. kap. 11 om energiforbrug.
+Formålet med afprøvningen er at eftervise, at lysstyringen i praksis mindst svarer til den forudsætning, der blev anvendt i energibehovsberegningen, der dokumenterer bygningens overholdelse af bygningsreglementets energikrav, jf. [kap. 11](../../../krav/ "BR18 kapitel 11"){ .br18-ref } om energiforbrug.
 
 *Definition af lysstyring*
 

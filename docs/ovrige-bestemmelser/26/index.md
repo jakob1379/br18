@@ -45,7 +45,7 @@ Erfaringer med konstruktionstypen skal fastlægges som en af følgende:
 1.  Traditionel konstruktion: En konstruktion, som der i byggebranchen er stor og lang erfaring med, og som er baseret på kendte teknologier og udførelsesmetoder.
 2.  Utraditionel konstruktion: En konstruktion, som der i byggebranchen ikke er stor og lang erfaring med, eller som er baseret på nye teknologier og udførelsesmetoder.
 
-*Stk. 2.* Bærende konstruktioner omfattet af §§ 352 og 356 betragtes som utraditionelle.
+*Stk. 2.* Bærende konstruktioner omfattet af [§§ 352](../../tekniske-bestemmelser/15/krav/#paragraf-352 "BR18 § 352"){ .br18-ref } og [356](../../tekniske-bestemmelser/15/krav/#paragraf-356 "BR18 § 356"){ .br18-ref } betragtes som utraditionelle.
 
 *Stk. 3.* Hvor der er tvivl om erfaringer med konstruktionstypen, anses denne for utraditionel.
 
@@ -79,7 +79,7 @@ Konstruktioner eller konstruktionsafsnit skal indplaceres i en af følgende kons
 
    *Stk.* *2.* Byggearbejder, der ændrer virkemåde i en eksisterende konstruktion eller konstruktionsafsnit, skal indplaceres i samme konstruktionsklasse, som konstruktionen eller konstruktionsafsnittet er indplaceret i, dog med følgende undtagelser:
 
-  1. Simple og traditionelle ombygninger og forandringer i eksisterende simple og traditionelle konstruktioner eller konstruktionsafsnit, der henregnes til middel konsekvensklasse (CC2) kan indplaceres i konstruktionsklasse 1 (KK1), såfremt der udføres kontrol af dokumentation i henhold til kapitel 30 svarende til konstruktionsklasse 2 (KK2).
+  1. Simple og traditionelle ombygninger og forandringer i eksisterende simple og traditionelle konstruktioner eller konstruktionsafsnit, der henregnes til middel konsekvensklasse (CC2) kan indplaceres i konstruktionsklasse 1 (KK1), såfremt der udføres kontrol af dokumentation i henhold til [kapitel 30](../30/krav/ "BR18 kapitel 30"){ .br18-ref } svarende til konstruktionsklasse 2 (KK2).
 
   2. Simple og traditionelle ombygninger og forandringer i eksisterende simple og traditionelle konstruktioner eller konstruktionsafsnit, der henregnes til høj konsekvensklasse (CC3) og indgår i etagebyggeri, som anvendes til længere ophold, f.eks. beboelse, kontor, hotel, dag-/døgninstitution i højst 6 etager over terræn med en spændvidde på højst 8 m, kan indplaceres i konstruktionsklasse 2 (KK2).
 
@@ -87,7 +87,7 @@ Konstruktioner eller konstruktionsafsnit skal indplaceres i en af følgende kons
 
 *Stk. 3.* Følgende byggearbejder er undtaget fra indplacering i konstruktionsklasse efter stk. 1 og 2:
 
-1) Byggearbejder, der er undtaget for byggetilladelse, jf. § 5, stk. 1.
+1) Byggearbejder, der er undtaget for byggetilladelse, jf. [§ 5, stk. 1](../../administrative-bestemmelser/krav/#paragraf-5 "BR18 § 5"){ .br18-ref }.
 
 2) Garager, carporte, udhuse, hønsehuse, drivhuse, overdækkede terrasser og lignende bygninger med et areal på højst 50 m² samt ombygninger og andre forandringer af disse.
 
@@ -95,11 +95,11 @@ Konstruktioner eller konstruktionsafsnit skal indplaceres i en af følgende kons
 
 *Stk. 4.* Midlertidige udendørs camping- og salgsområder er undtaget fra indplacering i konstruktionsklasser efter stk. l.
 
-*Stk. 5.* Mindre legepladsredskaber og -underlag, multisportsudstyr, motionsredskaber i det fri, skateboardbaner og lignede er undtaget fra indplacering i en konstruktionsklasse, hvis udformningen udføres i henhold til §§ 359-363, og når udformningen eller anvendelsen ikke medfører en risiko for personskade ved et svigt. Andre mindre legepladsredskaber er tillige undtaget fra indplacering i konstruktionsklasse, hvis udformningen eller anvendelsen ikke medfører en risiko for personskade ved et svigt.
+*Stk. 5.* Mindre legepladsredskaber og -underlag, multisportsudstyr, motionsredskaber i det fri, skateboardbaner og lignede er undtaget fra indplacering i en konstruktionsklasse, hvis udformningen udføres i henhold til [§§ 359-363](../../tekniske-bestemmelser/16/krav/#e46aa162-8b77-41eb-a53b-d7eccd0145d8 "BR18 §§ 359-363"){ .br18-ref }, og når udformningen eller anvendelsen ikke medfører en risiko for personskade ved et svigt. Andre mindre legepladsredskaber er tillige undtaget fra indplacering i konstruktionsklasse, hvis udformningen eller anvendelsen ikke medfører en risiko for personskade ved et svigt.
 
 *Stk. 6.* For konstruktioner eller konstruktionsafsnit, som på grund af deres udformning eller anvendelse ikke kan indplaceres i en konstruktionsklasse, skal det på baggrund af risikoen for svigt og konsekvensen af kommunalbestyrelsen vurderes, om og i hvilket omfang:
 
 1.  En certificeret statiker skal inddrages.
-2.  Dokumentationen skal udfærdiges efter principperne i kapitel 28 og 30.
+2.  Dokumentationen skal udfærdiges efter principperne i [kapitel 28](../28/krav/ "BR18 kapitel 28"){ .br18-ref } og [30](../30/krav/ "BR18 kapitel 30"){ .br18-ref }.
 
 *Stk. 7.* Dokumentationen for overholdelse af stk. 6 skal indsendes i forbindelse med ansøgning om byggetilladelse.

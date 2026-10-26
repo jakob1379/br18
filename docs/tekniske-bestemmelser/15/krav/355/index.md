@@ -57,7 +57,7 @@ Konstruktioner skal projekteres og udføres, så de kan modstå de normalt forek
 
 ### § 345 {#paragraf-345}
 
-Projektering og udførelse af betonkonstruktioner skal, udover bestemmelserne i § 344, ske i overensstemmelse med:
+Projektering og udførelse af betonkonstruktioner skal, udover bestemmelserne i [§ 344](#paragraf-344 "BR18 § 344"){ .br18-ref }, ske i overensstemmelse med:
 
 1\) DS/EN 1992-1-1+AC:2008: Betonkonstruktioner, Generelle regler samt regler for bygningskonstruktioner med DS/EN 1992-1-1 DK NA.
 
@@ -79,7 +79,7 @@ Projektering og udførelse af betonkonstruktioner skal, udover bestemmelserne i 
 
 ### § 346 {#paragraf-346}
 
-Projektering og udførelse af stålkonstruktioner skal, udover bestemmelserne i § 344, ske i overensstemmelse med:
+Projektering og udførelse af stålkonstruktioner skal, udover bestemmelserne i [§ 344](#paragraf-344 "BR18 § 344"){ .br18-ref }, ske i overensstemmelse med:
 
 1\) DS/EN 1993-1-1+AC:2007 Stålkonstruktioner, Generelle regler samt regler for bygningskonstruktioner med DS/EN 1993-1-1 DK NA.
 
@@ -107,7 +107,7 @@ Projektering og udførelse af stålkonstruktioner skal, udover bestemmelserne i 
 
 ### § 347 {#paragraf-347}
 
-Projektering og udførelse af kompositkonstruktioner skal, udover bestemmelserne i § 344, ske i overensstemmelse med:
+Projektering og udførelse af kompositkonstruktioner skal, udover bestemmelserne i [§ 344](#paragraf-344 "BR18 § 344"){ .br18-ref }, ske i overensstemmelse med:
 
 1\) DS/EN 1994-1-1:2007 Kompositkonstruktioner, Generelle regler samt regler for bygningskonstruktioner med DS/EN 1994-1- 1 DK NA.
 
@@ -119,7 +119,7 @@ Projektering og udførelse af kompositkonstruktioner skal, udover bestemmelserne
 
 ### § 348 {#paragraf-348}
 
-Projektering og udførelse af trækonstruktioner skal, udover bestemmelserne i § 344, ske i overensstemmelse med:
+Projektering og udførelse af trækonstruktioner skal, udover bestemmelserne i [§ 344](#paragraf-344 "BR18 § 344"){ .br18-ref }, ske i overensstemmelse med:
 
 1\) DS/EN 1995-1-1+AC:2007 Trækonstruktioner, Almindelige regler samt regler for bygningskonstruktioner med DS/EN 1995-1-1 DK NA.
 
@@ -131,7 +131,7 @@ Projektering og udførelse af trækonstruktioner skal, udover bestemmelserne i �
 
 ### § 349 {#paragraf-349}
 
-Projektering og udførelse af murværkskonstruktioner skal, udover bestemmelserne i § 344, ske i overensstemmelse med:
+Projektering og udførelse af murværkskonstruktioner skal, udover bestemmelserne i [§ 344](#paragraf-344 "BR18 § 344"){ .br18-ref }, ske i overensstemmelse med:
 
 1\) DS/EN 1996-1-1+A1:2013 Murværkskonstruktioner, Generelle regler for armeret og uarmeret murværk med DS/EN 1996-1-1 DK NA.
 
@@ -145,7 +145,7 @@ Projektering og udførelse af murværkskonstruktioner skal, udover bestemmelsern
 
 ### § 350 {#paragraf-350}
 
-Projektering og udførelse af geotekniske konstruktioner skal, udover bestemmelserne i § 344, ske i overensstemmelse med:
+Projektering og udførelse af geotekniske konstruktioner skal, udover bestemmelserne i [§ 344](#paragraf-344 "BR18 § 344"){ .br18-ref }, ske i overensstemmelse med:
 
 1\) DS/EN 1997- 1:2007 Geoteknik, Generelle regler med DS/EN 1997-1 DK NA.
 
@@ -157,7 +157,7 @@ Projektering og udførelse af geotekniske konstruktioner skal, udover bestemmels
 
 ### § 351 {#paragraf-351}
 
-Projektering og udførelse af aluminiumkonstruktioner skal, udover bestemmelserne i § 344, ske i overensstemmelse med:
+Projektering og udførelse af aluminiumkonstruktioner skal, udover bestemmelserne i [§ 344](#paragraf-344 "BR18 § 344"){ .br18-ref }, ske i overensstemmelse med:
 
 1\) DS/EN 1999-1-1:2008 Aluminiumkonstruktioner, Generelle regler med DS/EN 1999-1-1 DK NA.
 
@@ -171,34 +171,34 @@ Projektering og udførelse af aluminiumkonstruktioner skal, udover bestemmelsern
 
 ### § 352 {#paragraf-352}
 
-Ved anvendelse af materialer og konstruktioner, der ikke er omfattet af bestemmelserne i §§ 345-351, skal det dokumenteres, at der opnås et sikkerhedsniveau, som beskrevet i § 344.
+Ved anvendelse af materialer og konstruktioner, der ikke er omfattet af bestemmelserne i [§§ 345-351](#paragraf-345 "BR18 §§ 345-351"){ .br18-ref }, skal det dokumenteres, at der opnås et sikkerhedsniveau, som beskrevet i [§ 344](#paragraf-344 "BR18 § 344"){ .br18-ref }.
 
 ## § 353 Telte og lignende transportable konstruktioner {#ee027ca6-2466-421b-a24a-b19803a0c70f}
 
 ### § 353 {#paragraf-353}
 
-Telte og lignende transportable konstruktioner skal dimensioneres i overensstemmelse med DS/EN 13782, Midlertidige konstruktioner – Telte – Sikkerhed med DS/EN 13782 DK NA*,* eller på en måde, som sikrer, at de relevante bestemmelser i §§ 344-351 er opfyldt.
+Telte og lignende transportable konstruktioner skal dimensioneres i overensstemmelse med DS/EN 13782, Midlertidige konstruktioner – Telte – Sikkerhed med DS/EN 13782 DK NA*,* eller på en måde, som sikrer, at de relevante bestemmelser i [§§ 344-351](#paragraf-344 "BR18 §§ 344-351"){ .br18-ref } er opfyldt.
 
 ## § 354 Stationære opbevaringssystemer {#81d27313-444e-4561-a3f6-2b38d5ef025d}
 
 ### § 354 {#paragraf-354}
 
-Stationære opbevaringssystemer skal dimensioneres i overensstemmelse med DS/EN 15512 Stationære opbevaringssystemer af stål - Justerbare pallereolsystemer - Principper for dimensionering med DS/EN 15512 DK NA*,* eller på en måde, som sikrer, at de relevante bestemmelser i §§ 344-351 er opfyldt*.*
+Stationære opbevaringssystemer skal dimensioneres i overensstemmelse med DS/EN 15512 Stationære opbevaringssystemer af stål - Justerbare pallereolsystemer - Principper for dimensionering med DS/EN 15512 DK NA*,* eller på en måde, som sikrer, at de relevante bestemmelser i [§§ 344-351](#paragraf-344 "BR18 §§ 344-351"){ .br18-ref } er opfyldt*.*
 
 ## § 355 Tilskuertribuner {#00c7218c-4fa7-449b-a700-c0dbbb215a2c}
 
 ### § 355 {#paragraf-355}
 
-Teleskopstande og demonterbare tilskuertribuner skal dimensioneres i overensstemmelse med henholdsvis DS/EN 13200- 5 og 13200-6 med DS/EN 13200-5 DK NA og DS/EN 13200-6 DK NA*,* eller på en måde, som sikrer, at de relevante bestemmelser i §§ 344-351 er opfyldt.
+Teleskopstande og demonterbare tilskuertribuner skal dimensioneres i overensstemmelse med henholdsvis DS/EN 13200- 5 og 13200-6 med DS/EN 13200-5 DK NA og DS/EN 13200-6 DK NA*,* eller på en måde, som sikrer, at de relevante bestemmelser i [§§ 344-351](#paragraf-344 "BR18 §§ 344-351"){ .br18-ref } er opfyldt.
 
 ## § 356 Undtagelser {#2f6fb7da-16dd-49c7-b4e8-af9e3a8226a0}
 
 ### § 356 {#paragraf-356}
 
-§ 344, stk. 2, til § 351 samt §§ 353-355 kan fraviges, hvis det på anden vis sikres og dokumenteres, at en afvigelse er forsvarlig, og der opnås et sikkerhedsniveau, som beskrevet i § 344, stk. 2, nr. 1.
+[§ 344, stk. 2](#paragraf-344 "BR18 § 344"){ .br18-ref }, til [§ 351](#paragraf-351 "BR18 § 351"){ .br18-ref } samt [§§ 353-355](#paragraf-353 "BR18 §§ 353-355"){ .br18-ref } kan fraviges, hvis det på anden vis sikres og dokumenteres, at en afvigelse er forsvarlig, og der opnås et sikkerhedsniveau, som beskrevet i [§ 344, stk. 2, nr. 1](#paragraf-344 "BR18 § 344"){ .br18-ref }.
 
 ## § 357 Drift, kontrol og vedligehold {#e71d7b9a-203d-487d-9e0a-c420022631ca}
 
 ### § 357 {#paragraf-357}
 
-Drift, kontrol og vedligehold af konstruktioner skal ske, så de til enhver tid overholder de relevante bestemmelser i §§ 344- 356.
+Drift, kontrol og vedligehold af konstruktioner skal ske, så de til enhver tid overholder de relevante bestemmelser i [§§ 344- 356](#paragraf-344 "BR18 §§ 344-356"){ .br18-ref }.

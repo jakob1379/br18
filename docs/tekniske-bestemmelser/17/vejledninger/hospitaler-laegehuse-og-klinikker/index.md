@@ -19,7 +19,7 @@ Forslagene til projekteringsværdier er baseret på SBi-anvisning 272 \[3\] samt
 
 Referencer findes i afsnit 1.5.
 
-De angivne forslag til projekteringsværdier omfatter ikke alle rumtyper og anvendelser. Ved projektering bør der derfor for alle byggeriets rum opstilles projektrelevante lydkrav for at sikre tilfredsstillende lydforhold for rummenes brugere, jf. BR18, § 368, stk. 1. Det er specielt vigtigt at være opmærksom på lydisolerende tiltag mod rum med støjende aktiviteter i egen bygning eller i andre erhvervsenheder.
+De angivne forslag til projekteringsværdier omfatter ikke alle rumtyper og anvendelser. Ved projektering bør der derfor for alle byggeriets rum opstilles projektrelevante lydkrav for at sikre tilfredsstillende lydforhold for rummenes brugere, jf. BR18, [§ 368, stk. 1](../../krav/#d020db69-f4ce-4cb5-84ee-a507a2630908 "BR18 § 368"){ .br18-ref }. Det er specielt vigtigt at være opmærksom på lydisolerende tiltag mod rum med støjende aktiviteter i egen bygning eller i andre erhvervsenheder.
 
 For visse rumtyper, fx almindelige kontorer, henvises også til afsnit 5 om kontorbyggeri.
 
@@ -53,7 +53,7 @@ For hospitaler har en række rum skærpede lydkrav i forhold til andre bygningsa
 
 ### 6.1 Lydisolation {#8bb1a8f1-5b7d-4bce-9ee0-6bb125388942}
 
-Tabel 6.1 indeholder forslag til projekteringsværdier for luftlydisolation og trinlydniveau i hospitaler svarende til overholdelse af BR18’s generelle bestemmelse i § 368, stk. 1 om at ”*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen”.*
+Tabel 6.1 indeholder forslag til projekteringsværdier for luftlydisolation og trinlydniveau i hospitaler svarende til overholdelse af BR18’s generelle bestemmelse i [§ 368, stk. 1](../../krav/#d020db69-f4ce-4cb5-84ee-a507a2630908 "BR18 § 368"){ .br18-ref } om at ”*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen”.*
 
 <table>
 <colgroup>
@@ -176,7 +176,7 @@ Mellem skyllerum og andre rum</p></td>
 
 ### 6.2 Støj indendørs fra trafik {#e4f257c7-aa92-45b0-bee8-6f1d15b43982}
 
-Tabel 6.2 indeholder forslag til projekteringsværdier for trafikstøj i hospitaler svarende til overholdelse af BR18’s generelle bestemmelse i § 368, stk. 1 om at ”*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen”,* samt supplerende vejledende grænseværdier for trafikstøj indendørs med åbne vinduer*.*
+Tabel 6.2 indeholder forslag til projekteringsværdier for trafikstøj i hospitaler svarende til overholdelse af BR18’s generelle bestemmelse i [§ 368, stk. 1](../../krav/#d020db69-f4ce-4cb5-84ee-a507a2630908 "BR18 § 368"){ .br18-ref } om at ”*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen”,* samt supplerende vejledende grænseværdier for trafikstøj indendørs med åbne vinduer*.*
 
 <table>
 <colgroup>
@@ -238,7 +238,7 @@ med lukkede vinduer </td>
 
 ### 6.3 Støj fra tekniske installationer {#604f2261-6385-420f-95be-82ffe076bed8}
 
-Tabel 6.3 indeholder forslag til projekteringsværdier for støj fra tekniske installationer i hospitaler svarende til overholdelse af BR18’s generelle bestemmelse i § 368, stk. 1 om at ”*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen”,* samt supplerende vejledende grænseværdier for lavfrekvent støj og infralyd.
+Tabel 6.3 indeholder forslag til projekteringsværdier for støj fra tekniske installationer i hospitaler svarende til overholdelse af BR18’s generelle bestemmelse i [§ 368, stk. 1](../../krav/#d020db69-f4ce-4cb5-84ee-a507a2630908 "BR18 § 368"){ .br18-ref } om at ”*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen”,* samt supplerende vejledende grænseværdier for lavfrekvent støj og infralyd.
 
 <table>
 <colgroup>
@@ -305,7 +305,7 @@ konsultationsrum </td>
 
 ### 6.4 Rumakustik {#e7acca73-f8e2-4a4f-b1ad-85505632d69a}
 
-Tabel 6.4 indeholder forslag til projekteringsværdier for efterklangstid og absorptionsareal i hospitaler svarende til overholdelse af BR18’s generelle bestemmelse i § 368, stk. 1 om at ”*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen”.*
+Tabel 6.4 indeholder forslag til projekteringsværdier for efterklangstid og absorptionsareal i hospitaler svarende til overholdelse af BR18’s generelle bestemmelse i [§ 368, stk. 1](../../krav/#d020db69-f4ce-4cb5-84ee-a507a2630908 "BR18 § 368"){ .br18-ref } om at ”*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen”.*
 
 <table>
 <colgroup>

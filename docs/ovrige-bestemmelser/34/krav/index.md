@@ -22,53 +22,53 @@ Den certificerede brandrådgivers virke omfatter som minimum at
 
 1.  udarbejde start- og sluterklæring,
 2.  udfærdige dokumentation for brandklasser for bygningsafsnit og for brandklassen for det samlede byggeri, samt dokumentation for, at byggeriet opfylder [§§ 126-133](../../../tekniske-bestemmelser/05/krav/126_133/) vedrørende redningsberedskabets indsatsforhold,
-3.  udfærdige kontrolplan for den brandtekniske dokumentation for design af brandforhold og sikre, at denne, samt kontrolplan for projektering og udførelse af brandsikringstiltag, er i overensstemmelse med kapitel 30,
+3.  udfærdige kontrolplan for den brandtekniske dokumentation for design af brandforhold og sikre, at denne, samt kontrolplan for projektering og udførelse af brandsikringstiltag, er i overensstemmelse med [kapitel 30](../../30/krav/ "BR18 kapitel 30"){ .br18-ref },
 4.  sikre, at de valgte løsninger for brandforholdene er i overensstemmelse med kravene i [kapitel 5](../../../tekniske-bestemmelser/05/krav/),
 5.  sikre, at dokumentationen for brandforholdene opfylder sit formål, jf. [kapitel 29](../../29/krav/),
-6.  sikre, at dokumentationen er udarbejdet og samlet i overensstemmelse med kapitel 29, kontrolleret i overensstemmelse med kapitel 30 og kan anvendes, som den foreligger, er fyldestgørende og udgør et hele, og
-7.  udarbejde en redegørelse for sit virke herunder en redegørelse af den certificerede brandrådgivers supplerende kontrol, jf. § 549.
+6.  sikre, at dokumentationen er udarbejdet og samlet i overensstemmelse med [kapitel 29](../../29/krav/ "BR18 kapitel 29"){ .br18-ref }, kontrolleret i overensstemmelse med [kapitel 30](../../30/krav/ "BR18 kapitel 30"){ .br18-ref } og kan anvendes, som den foreligger, er fyldestgørende og udgør et hele, og
+7.  udarbejde en redegørelse for sit virke herunder en redegørelse af den certificerede brandrådgivers supplerende kontrol, jf. [§ 549](#paragraf-549 "BR18 § 549"){ .br18-ref }.
 
-*Stk. 2.* For dokumentation, jf. stk. 1, nr. 6, er kontrolrapport for almen kontrol, jf. § 519, stk. 1, nr. 2 og 3,
+*Stk. 2.* For dokumentation, jf. stk. 1, nr. 6, er kontrolrapport for almen kontrol, jf. [§ 519, stk. 1, nr. 2 og 3](../../29/krav/#paragraf-519 "BR18 § 519"){ .br18-ref },
 
 undtaget.
 
 ### § 549 {#paragraf-549}
 
-Den certificerede brandrådgivers virke, jf. § 548, kan ikke uddelegeres.
+Den certificerede brandrådgivers virke, jf. [§ 548](#paragraf-548 "BR18 § 548"){ .br18-ref }, kan ikke uddelegeres.
 
-*Stk. 2.* Den certificerede brandrådgiver kan få assistance til at udfærdige dokumenterne i § 548, men vil stadig virke som den udfærdigende. Den certificerede brandrådgiver skal sikre, at udfærdigelsen mindst svarer til den certificeredes minimumsvirke, således at § 548 er opfyldt.
+*Stk. 2.* Den certificerede brandrådgiver kan få assistance til at udfærdige dokumenterne i [§ 548](#paragraf-548 "BR18 § 548"){ .br18-ref }, men vil stadig virke som den udfærdigende. Den certificerede brandrådgiver skal sikre, at udfærdigelsen mindst svarer til den certificeredes minimumsvirke, således at [§ 548](#paragraf-548 "BR18 § 548"){ .br18-ref } er opfyldt.
 
-*Stk. 3.* Den certificerede brandrådgiver kan uddelegere dokumentation for design af brandforhold, jf. § 507, stk.1, nr. 5-8 og 10, § 507, stk. 2 samt § 519, stk. 1, nr. 1, som den certificerede brandrådgiver ikke selv skal udfærdige. Den certificerede brandrådgiver skal gennemføre en tilstrækkelig supplerende kontrol mindst svarende til en minimumskontrol (MIN), jf. § 527 af den del af den brandtekniske dokumentation, som den certificerede har uddelegeret, således at § 548 er opfyldt.
+*Stk. 3.* Den certificerede brandrådgiver kan uddelegere dokumentation for design af brandforhold, jf. [§ 507, stk.1, nr. 5-8 og 10](../../29/krav/#paragraf-507 "BR18 § 507"){ .br18-ref }, [§ 507, stk. 2](../../29/krav/#paragraf-507 "BR18 § 507"){ .br18-ref } samt [§ 519, stk. 1, nr. 1](../../29/krav/#paragraf-519 "BR18 § 519"){ .br18-ref }, som den certificerede brandrådgiver ikke selv skal udfærdige. Den certificerede brandrådgiver skal gennemføre en tilstrækkelig supplerende kontrol mindst svarende til en minimumskontrol (MIN), jf. [§ 527](../../30/krav/#paragraf-527 "BR18 § 527"){ .br18-ref } af den del af den brandtekniske dokumentation, som den certificerede har uddelegeret, således at [§ 548](#paragraf-548 "BR18 § 548"){ .br18-ref } er opfyldt.
 
-*Stk. 4.* Den certificerede brandrådgiver skal gennemføre en tilstrækkelig supplerende kontrol af projektering og udførelse af brandsikringstiltag, således at § 548, stk. 1, nr. 6, er opfyldt. Den supplerende kontrol skal mindst omfatte kontrol af kontrolregistreringsrapporter, der viser, at kontrolrapporter for særlig kontrol af projektering og udførelse af brandsikringstiltag samt dokumentation omfattet af §§ 135-136 er udført i henhold til kontrolplanen og de ved kontrollen fundne afvigelser er behandlet.
+*Stk. 4.* Den certificerede brandrådgiver skal gennemføre en tilstrækkelig supplerende kontrol af projektering og udførelse af brandsikringstiltag, således at [§ 548, stk. 1, nr. 6](#paragraf-548 "BR18 § 548"){ .br18-ref }, er opfyldt. Den supplerende kontrol skal mindst omfatte kontrol af kontrolregistreringsrapporter, der viser, at kontrolrapporter for særlig kontrol af projektering og udførelse af brandsikringstiltag samt dokumentation omfattet af [§§ 135-136](../../../tekniske-bestemmelser/05/krav/#paragraf-135 "BR18 §§ 135-136"){ .br18-ref } er udført i henhold til kontrolplanen og de ved kontrollen fundne afvigelser er behandlet.
 
 ### § 550 {#paragraf-550}
 
 Den certificerede brandrådgivers virke som tredjepartskontrollant skal som minimum omfatte at
 
 1.  udarbejde start- og sluterklæring,
-2.  foretage tredjepartskontrol af dokumentation for design af brandforhold, der følger af § 548, og
+2.  foretage tredjepartskontrol af dokumentation for design af brandforhold, der følger af [§ 548](#paragraf-548 "BR18 § 548"){ .br18-ref }, og
 3.  udarbejde en redegørelse for sit virke som tredjepartskontrollant, herunder for sin uafhængighed i henhold til [§ 526](../../30/krav/523_528/), stk. 1, nr. 3 samt en redegørelse af den certificerede tredjepartskontrollants supplerende kontrol, jf. stk. 3.
 
 *Stk. 2.* Tredjepartskontrollen omfatter de dele af et byggeri, der er omfattet af brandklasse 4. Andre dele af byggeriet skal i det omfang, de brandtekniske forhold og dokumentation har betydning for den del af byggeriet, der er i brandklasse 4, også kontrolleres af den certificerede tredjepartskontrollant.
 
-*Stk. 3.* Tredjepartskontrollanten kan få assistance til at foretage tredjepartskontrollen, men vil stadig virke som tredjepartskontrollant. Den certificerede tredjepartskontrollant skal sikre, at kontrollen mindst svarer til tredjepartskontrollens minimumsvirke, således at stk. 1, nr. 2, er opfyldt. Herudover skal tredjepartskontrollanten gennemføre en tilstrækkelig supplerende kontrol mindst svarende til en minimumskontrol (MIN), jf. § 527, af den del af den brandtekniske dokumentation, hvortil den certificerede har indhentet assistance.
+*Stk. 3.* Tredjepartskontrollanten kan få assistance til at foretage tredjepartskontrollen, men vil stadig virke som tredjepartskontrollant. Den certificerede tredjepartskontrollant skal sikre, at kontrollen mindst svarer til tredjepartskontrollens minimumsvirke, således at stk. 1, nr. 2, er opfyldt. Herudover skal tredjepartskontrollanten gennemføre en tilstrækkelig supplerende kontrol mindst svarende til en minimumskontrol (MIN), jf. [§ 527](../../30/krav/#paragraf-527 "BR18 § 527"){ .br18-ref }, af den del af den brandtekniske dokumentation, hvortil den certificerede har indhentet assistance.
 
 ### § 550a {#paragraf-550a}
 
-For fravigelser jf. § 493, stk. 1, nr. 2 og bilag 4, afsnit 2, skal virket for den certificerede brandrådgiver jf. § 21, stk. 1, nr. 3 som minimum omfatte alle fravigelser samt de dele af byggeriet, der er påvirket heraf samt sikre, at:
+For fravigelser jf. [§ 493, stk. 1, nr. 2](../../27/krav/#paragraf-493 "BR18 § 493"){ .br18-ref } og [bilag 4](../../../bilag/b4/bilag_4/ "BR18 bilag 4"){ .br18-ref }, afsnit 2, skal virket for den certificerede brandrådgiver jf. [§ 21, stk. 1, nr. 3](../../../administrative-bestemmelser/krav/#paragraf-21 "BR18 § 21"){ .br18-ref } som minimum omfatte alle fravigelser samt de dele af byggeriet, der er påvirket heraf samt sikre, at:
 
-1) de valgte løsninger for hver enkel fravigelse, samt de samlede fravigelser i kombination er i overensstemmelse med kravene i kapitel 5, og
+1) de valgte løsninger for hver enkel fravigelse, samt de samlede fravigelser i kombination er i overensstemmelse med kravene i [kapitel 5](../../../tekniske-bestemmelser/05/krav/ "BR18 kapitel 5"){ .br18-ref }, og
 
-2) dokumentationen for hver enkel fravigelse, samt de samlede fravigelser i kombination opfylder sit formål, jf. § 511.
+2) dokumentationen for hver enkel fravigelse, samt de samlede fravigelser i kombination opfylder sit formål, jf. [§ 511](../../29/krav/#paragraf-511 "BR18 § 511"){ .br18-ref }.
 
 ### § 550b {#paragraf-550b}
 
-Ved brug af en certificeret brandrådgiver, jf. § 6 h, stk. 1, nr. 2, omfatter den certificerede brandrådgivers virke som minimum udfærdigelse af dokumentation, jf. § 6 h, stk. 1 og 2, udfærdigelse af dokumentation for indplacering af byggeriet eller bygningsafsnittet i brandklasse og kontrolplan med det indhold der fremgår af kap. 29 og 30, samt hvis relevant at udfærdige dokumentation, der sikrer, at de valgte løsninger er i overensstemmelse med kravene i kapitel 5.
+Ved brug af en certificeret brandrådgiver, jf. [§ 6 h, stk. 1, nr. 2](../../../administrative-bestemmelser/krav/#paragraf-6h "BR18 § 6h"){ .br18-ref }, omfatter den certificerede brandrådgivers virke som minimum udfærdigelse af dokumentation, jf. [§ 6 h, stk. 1 og 2](../../../administrative-bestemmelser/krav/#paragraf-6h "BR18 § 6h"){ .br18-ref }, udfærdigelse af dokumentation for indplacering af byggeriet eller bygningsafsnittet i brandklasse og kontrolplan med det indhold der fremgår af [kap. 29](../../29/krav/ "BR18 kapitel 29"){ .br18-ref } og [30](../../30/krav/ "BR18 kapitel 30"){ .br18-ref }, samt hvis relevant at udfærdige dokumentation, der sikrer, at de valgte løsninger er i overensstemmelse med kravene i [kapitel 5](../../../tekniske-bestemmelser/05/krav/ "BR18 kapitel 5"){ .br18-ref }.
 
-*Stk. 2.* Uafhængig kontrol, jf. § 526, stk. 1, nr. 2 af dokumentationen, jf. stk. 1, skal ske på et kontrolniveau svarende til en maksimumkontrol, jf. § 527, stk. 2, nr. 3.
+*Stk. 2.* Uafhængig kontrol, jf. [§ 526, stk. 1, nr. 2](../../30/krav/#paragraf-526 "BR18 § 526"){ .br18-ref } af dokumentationen, jf. stk. 1, skal ske på et kontrolniveau svarende til en maksimumkontrol, jf. [§ 527, stk. 2, nr. 3](../../30/krav/#paragraf-527 "BR18 § 527"){ .br18-ref }.
 
-*Stk. 3.* Tredjepartskontrol, jf. § 526, stk. 1, nr. 3 af dokumentationen, jf. stk. 1, skal ske på et kontrolniveau svarende til en maksimumkontrol, jf. § 527, stk. 2, nr. 3.
+*Stk. 3.* Tredjepartskontrol, jf. [§ 526, stk. 1, nr. 3](../../30/krav/#paragraf-526 "BR18 § 526"){ .br18-ref } af dokumentationen, jf. stk. 1, skal ske på et kontrolniveau svarende til en maksimumkontrol, jf. [§ 527, stk. 2, nr. 3](../../30/krav/#paragraf-527 "BR18 § 527"){ .br18-ref }.
 
 *Stk. 4.* Den certificeredes brandrådgivers virke efter stk. 1 kan ikke uddelegeres.
 

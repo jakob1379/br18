@@ -10,13 +10,13 @@
 
 Nybyggeri
 
-Ifølge bygningsreglementet 2018, § 244 skal der i nybyggeri med 3 etager og derover installeres mindst én elevator, der kan betjene hver etage, herunder udnyttet tagetage og kælder. I bygninger med flere opgange gælder kravet for hver opgang. En bygning med stueplan, 1. sal og 2. sal, regnes for en bygning med 3 etager. Kælder medregnes i denne sammenhæng ikke ved opgørelse af etageantallet. For boliger med flere internt forbundne etager, skal elevatoren alene føres til boligens adgangsetage*,* jf. bygningsreglementet 2018, § 245. Bygningen kan således have 3 etager og derover, men ikke nødvendigvis adgang på alle etager, hvilket alligevel kan udløse et elevatorkrav. I figur 1, 2 og 3 beskrives en række eksempler på dette (eksemplerne er vejledende og ikke udtømmende).
+Ifølge bygningsreglementet 2018, [§ 244](../../../krav/#paragraf-244 "BR18 § 244"){ .br18-ref } skal der i nybyggeri med 3 etager og derover installeres mindst én elevator, der kan betjene hver etage, herunder udnyttet tagetage og kælder. I bygninger med flere opgange gælder kravet for hver opgang. En bygning med stueplan, 1. sal og 2. sal, regnes for en bygning med 3 etager. Kælder medregnes i denne sammenhæng ikke ved opgørelse af etageantallet. For boliger med flere internt forbundne etager, skal elevatoren alene føres til boligens adgangsetage*,* jf. bygningsreglementet 2018, [§ 245](../../../krav/#paragraf-245 "BR18 § 245"){ .br18-ref }. Bygningen kan således have 3 etager og derover, men ikke nødvendigvis adgang på alle etager, hvilket alligevel kan udløse et elevatorkrav. I figur 1, 2 og 3 beskrives en række eksempler på dette (eksemplerne er vejledende og ikke udtømmende).
 
-Kravet om elevatorer gælder ikke for fritliggende enfamiliehuse, rækkehuse og dobbelthuse og lignende, der alene anvendes til boligformål, samt sommerhuse i sommerhusområder, jf. bygningsreglementet 2018, § 243.
+Kravet om elevatorer gælder ikke for fritliggende enfamiliehuse, rækkehuse og dobbelthuse og lignende, der alene anvendes til boligformål, samt sommerhuse i sommerhusområder, jf. bygningsreglementet 2018, [§ 243](../../../krav/#paragraf-243 "BR18 § 243"){ .br18-ref }.
 
 Tilbygning og ombygning
 
-Ifølge bygningsreglementet 2018, § 247, er ombygninger og mindre tilbygninger til eksisterende boligbebyggelse ikke omfattet af krav om etablering af elevator.
+Ifølge bygningsreglementet 2018, [§ 247](../../../krav/#paragraf-247 "BR18 § 247"){ .br18-ref }, er ombygninger og mindre tilbygninger til eksisterende boligbebyggelse ikke omfattet af krav om etablering af elevator.
 
 Ombygninger i eksisterende boligbyggeri omfatter for eksempel inddragelse af en eksisterende tagetage til bolig.
 

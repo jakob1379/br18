@@ -61,7 +61,7 @@ Legepladser og legepladsredskaber beliggende på fællesarealer i forbindelse me
 
 Legepladser og Legepladsredskaber, der ikke betragtes som offentligt tilgængelige, bør være afgrænset så det tydeligt kan ses at de ikke er offentligt tilgængelige.
 
-Om en bestemt legeplads eller legepladsredskab er offentligt tilgængelige eller ej, afgøres af kommunen efter en konkret vurdering. Hvis legepladsen mv. ikke er offentligt tilgængelig, er den ikke omfattet af kapitel 16 i bygningsreglementet. Bygningsejer kan i disse tilfælde selv vælge om legepladsen og redskaberne alligevel skal følge bygningsreglementets regler, selvom det ikke er et krav.
+Om en bestemt legeplads eller legepladsredskab er offentligt tilgængelige eller ej, afgøres af kommunen efter en konkret vurdering. Hvis legepladsen mv. ikke er offentligt tilgængelig, er den ikke omfattet af [kapitel 16](../../../krav/ "BR18 kapitel 16"){ .br18-ref } i bygningsreglementet. Bygningsejer kan i disse tilfælde selv vælge om legepladsen og redskaberne alligevel skal følge bygningsreglementets regler, selvom det ikke er et krav.
 
 Der kan i øvrigt gælde andre regler for legepladsredskaber m.v., der ikke er offentligt tilgængelige. Disse regler kan f.eks. være direktiv 2009/48/EF om sikkerhedskrav til legetøj samt BEK 309 om Sikkerhedskrav til legetøjsprodukter.
 

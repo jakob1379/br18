@@ -86,13 +86,13 @@
 
 Renoveringsklasserne er energirammer for eksisterende bygninger. Renoveringsklasserne kan benyttes som alternativ til de almindelige ombygningskrav. Renoveringsklasserne er primært tiltænkt som en frivillig mulighed for de bygherrer, der laver gennemgribende energirenoveringer og som samtidig har et ønske om et mere helhedsorienteret tilgang til energirenovering. Samtidig er det en implementering af bygningsdirektivet.
 
-Kravene til udskiftninger af bygningsdele eller installationer i §277, skal stadig overholdes.
+Kravene til udskiftninger af bygningsdele eller installationer i [§277](../../../krav/#paragraf-277 "BR18 § 277"){ .br18-ref }, skal stadig overholdes.
 
-For at benytte renoveringsklasserne skal kravene i §280 overholdes ligesom bygningen skal overholde energirammen i §281 eller §282.
+For at benytte renoveringsklasserne skal kravene i [§280](../../../krav/#paragraf-280 "BR18 § 280"){ .br18-ref } overholdes ligesom bygningen skal overholde energirammen i [§281](../../../krav/#paragraf-281 "BR18 § 281"){ .br18-ref } eller [§282](../../../krav/#paragraf-282 "BR18 § 282"){ .br18-ref }.
 
 Det er et krav, at energibehovet reduceres. Det er fordi renoveringsklasserne er en klasse, der kan benyttes når bygninger bliver energirenoveret. Hvis energibehovet ikke sænkes kan der ikke opnås en renoveringsklasse, men energimærket kan i stedet benyttes til at få et indtryk af bygningens energimæssige ydeevne.
 
-Samtidig skal der være en andel af vedvarende energi i den samlede energiforsyning til bygningen, jf. §298.
+Samtidig skal der være en andel af vedvarende energi i den samlede energiforsyning til bygningen, jf. [§298](../../../krav/#paragraf-298 "BR18 § 298"){ .br18-ref }.
 
 Benyttes Renoveringsklasse 1 er der desuden en række indeklimakrav, der skal overholdes.
 

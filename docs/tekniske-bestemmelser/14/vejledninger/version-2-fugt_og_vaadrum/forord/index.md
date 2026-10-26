@@ -11,7 +11,7 @@
 
 ### Generelt om fugt og vådrum {#cacc9ea9-63fb-42d2-b4e1-448c263cf36d}
 
-Kravene i kapitel 14 om fugt og vådrum er indført for at beskytte bygninger mod fugt og vand. Fugt og vand må ikke medføre risiko for personers sundhed eller give risiko for skader på bygninger. Fugtskader er et af de mest udbredte problemer i byggeriet. Typiske problemer i forhold til utilsigtet fugtpåvirkning i bygninger er skimmelsvampevækst, råd og svampevækst, der kan give helbredsproblemer.
+Kravene i [kapitel 14](../../../krav/ "BR18 kapitel 14"){ .br18-ref } om fugt og vådrum er indført for at beskytte bygninger mod fugt og vand. Fugt og vand må ikke medføre risiko for personers sundhed eller give risiko for skader på bygninger. Fugtskader er et af de mest udbredte problemer i byggeriet. Typiske problemer i forhold til utilsigtet fugtpåvirkning i bygninger er skimmelsvampevækst, råd og svampevækst, der kan give helbredsproblemer.
 
 Fugtpåvirkninger kan stamme fra regn, sne, overfladevand, grundvand, vandstandsstigninger, jordfugt, byggefugt, påvirkninger fra brugsvand samt luftfugtighed, herunder kondensfugt.
 

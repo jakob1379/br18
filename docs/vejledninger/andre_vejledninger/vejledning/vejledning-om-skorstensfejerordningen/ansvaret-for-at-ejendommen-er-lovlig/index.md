@@ -35,7 +35,7 @@
 
 ### Ansvaret for at ejendommen er lovlig {#25139759-29d9-40f3-8428-77d3f89c63d1}
 
-Det fremgår af byggelovens § 17, stk. 1, at det er bygningsejeren, der er ansvarlig for, at dennes bygning er i lovlig stand. Eksisterer der et ulovligt forhold, påhviler det således bygningsejeren at berigtige det ulovlige forhold.
+Det fremgår af byggelovens [§ 17, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178#P17 "Byggeloven § 17"){ .br18-ref .br18-ref--ext }, at det er bygningsejeren, der er ansvarlig for, at dennes bygning er i lovlig stand. Eksisterer der et ulovligt forhold, påhviler det således bygningsejeren at berigtige det ulovlige forhold.
 
 Det er således bygningsejerens ansvar, at reglerne i skorstensfejerbekendtgørelsen, herunder bestemmelserne om fejningsterminer, overholdes, uanset om bygningsejeren benytter en skorstensfejer, som kommunen har sørget for, eller om bygningsejeren vælger at indgå aftale med en anden skorstensfejer..
 

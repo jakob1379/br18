@@ -118,9 +118,9 @@
 
 For de fleste eksisterende større bygninger vil det kunne betale sig at etablere den krævede bygningsautomatik, specielt hvis det sker, når automatikken alligevel skal skiftes eller opgraderes. Der kan dog være nogle bygninger, der har forholdsvis ny automatik, som det ikke kan betale sig at udskifte inden 2025, eller hvor der ikke kan ske en opgradering.
 
-§ 295 stk. 2 anvender på baggrund af EPBD-teksten begreberne ”teknisk gennemførligt” og ”rentabelt”. I virkeligheden er der nok sjældent noget, som ikke er teknisk gennemførligt. Det er normalt alene et spørgsmål om, hvor dyrt det er. Så rentabiliteten af udskiftningen eller opgraderingen er egentlig det centrale spørgsmål i eksisterende bygninger.
+[§ 295 stk. 2](../../../krav/#paragraf-295 "BR18 § 295"){ .br18-ref } anvender på baggrund af EPBD-teksten begreberne ”teknisk gennemførligt” og ”rentabelt”. I virkeligheden er der nok sjældent noget, som ikke er teknisk gennemførligt. Det er normalt alene et spørgsmål om, hvor dyrt det er. Så rentabiliteten af udskiftningen eller opgraderingen er egentlig det centrale spørgsmål i eksisterende bygninger.
 
-Rentabilitet opgøres som for andre tiltag i eksisterende bygninger i henhold til § 275.
+Rentabilitet opgøres som for andre tiltag i eksisterende bygninger i henhold til [§ 275](../../../krav/#paragraf-275 "BR18 § 275"){ .br18-ref }.
 
 Ved opgørelse af udgifterne til den nye bygningsautomatik medtages alene merudgifterne til at etablere den nye mere avancerede automatik i forhold til en mere simpel og billigere automatik løsning. Alternativt, hvis det er muligt og mere rentabelt, merudgifterne til at etablere en opgradering af den eksisterende automatik med de nødvendige nye funktioner. Eventuelle ekstra årlige driftsudgifter eller -besparelser modregnes henholdsvis lægges til værdien af de årlige energibesparelser. Hvis bygningsautomatikken kan betjene flere bygninger, fordeles fællesomkostningerne på bygningerne efter deres areal.
 
@@ -128,9 +128,9 @@ Værdien af de årlige energibesparelser ved etablering af den nye bygningsautom
 
 Ved beregning af rentabiliteten anvendes en levetid for automatikken på 15 år
 
-Hvis ikke det er rentabelt at etablere den fulde automatikløsning, som er nødvendig for at opfylde kravene i § 295 stk. 3, undersøges det, om der er en mindre omfattende automatikløsning, som kun omfatter nogle af kravene, der er rentabel. Hvis det er tilfældet, skal den så etableres. Hvis der er flere rentable automatikløsninger, etableres den, som giver den største energibesparelse.
+Hvis ikke det er rentabelt at etablere den fulde automatikløsning, som er nødvendig for at opfylde kravene i [§ 295 stk. 3](../../../krav/#paragraf-295 "BR18 § 295"){ .br18-ref }, undersøges det, om der er en mindre omfattende automatikløsning, som kun omfatter nogle af kravene, der er rentabel. Hvis det er tilfældet, skal den så etableres. Hvis der er flere rentable automatikløsninger, etableres den, som giver den største energibesparelse.
 
-Det er bygningsejerens ansvar at kravene i §§295-296 er overholdt. I forbindelse med fx salg af en ejendom, vil der kunne stilles krav om at bygningsejer fremlægger dokumentation for hvorfor der i bygningen ikke er krav om etablering af bygningsautomatik. Det kunne fx være i form af en rentabilitetsberegning.
+Det er bygningsejerens ansvar at kravene i [§§295-296](../../../krav/#0fa99ed3-1c44-426c-a3b3-6de893c65b2b "BR18 §§ 295-296"){ .br18-ref } er overholdt. I forbindelse med fx salg af en ejendom, vil der kunne stilles krav om at bygningsejer fremlægger dokumentation for hvorfor der i bygningen ikke er krav om etablering af bygningsautomatik. Det kunne fx være i form af en rentabilitetsberegning.
 
 ### 9.4. Omfang, undtagelse: {#e90369ce-b58e-4244-aa9f-6e41302e49e4}
 

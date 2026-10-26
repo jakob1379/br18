@@ -55,9 +55,9 @@
 
 ### 5. Drift, kontrol og vedligehold {#9010be35-e1df-4a55-919d-9ce0c4978514}
 
-Det fremgår af bygningsreglementet 2018, kap. 16, § 367, at drift, kontrol og vedligehold af offentligt tilgængelige legepladsredskaber og –underlag, motionsredskaber i det fri, skateboardbaner og lignende skal ske, så de til enhver tid overholder de relevante bestemmelser i §§ 358-365.
+Det fremgår af bygningsreglementet 2018, [kap. 16](../../../krav/ "BR18 kapitel 16"){ .br18-ref }, [§ 367](../../../krav/#fb1966b1-3276-406c-b5cd-e7ee67bf06df "BR18 § 367"){ .br18-ref }, at drift, kontrol og vedligehold af offentligt tilgængelige legepladsredskaber og –underlag, motionsredskaber i det fri, skateboardbaner og lignende skal ske, så de til enhver tid overholder de relevante bestemmelser i [§§ 358-365](../../../krav/#e5b70fb8-9e01-4761-a722-71dc702c5f5b "BR18 §§ 358-365"){ .br18-ref }.
 
-Det påhviler den til enhver tid værende ejer at vedligeholde og reparere sine legepladser mv., så de til en hver tid opfylder bygningsreglementets krav og, at der dermed er en tilfredsstillende sikkerhed mod personskader, jf. byggeloven § 17.
+Det påhviler den til enhver tid værende ejer at vedligeholde og reparere sine legepladser mv., så de til en hver tid opfylder bygningsreglementets krav og, at der dermed er en tilfredsstillende sikkerhed mod personskader, jf. byggeloven [§ 17](https://www.retsinformation.dk/eli/lta/2016/1178#P17 "Byggeloven § 17"){ .br18-ref .br18-ref--ext }.
 
 Ejeren bør foranledige, at der bliver udført en rutinemæssig visuel inspektion på dagligt eller ugentligt basis eller efter behov, samt en driftinspektion med et mellemrum på 1-3 måneder. Ejeren bør dernæst foranledige, at der bliver udført årlig hovedinspektion af en certificeret legepladsinspektør eller anden kompetent person. Der bør blandt andet testes for halsklem- hovedklem- og snorefælder i forbindelse med årlig hovedinspektion. Endelig bør stabilitet og underlag kontrolleres i forbindelse med både drifts og årlig hovedinspektion.
 

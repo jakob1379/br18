@@ -46,11 +46,11 @@
 
 ### Byggelovens bestemmelser {#efade8f2-aeee-4316-9b12-1269bf63b28a}
 
-Byggelovens § 16, stk. 1, 1. pkt., bestemmer, at byggearbejder, der er omfattet af byggelovens § 2, ikke må påbegyndes uden byggetilladelse. Det betyder, at opførelsen af et byggeri, der kræver tilladelse, er ulovligt, såfremt der ikke er indhentet tilladelse inden, selve opførelsen finder sted.
+Byggelovens [§ 16, stk. 1, 1. pkt.](https://www.retsinformation.dk/eli/lta/2016/1178#P16 "Byggeloven § 16"){ .br18-ref .br18-ref--ext }, bestemmer, at byggearbejder, der er omfattet af byggelovens [§ 2](https://www.retsinformation.dk/eli/lta/2016/1178#P2 "Byggeloven § 2"){ .br18-ref .br18-ref--ext }, ikke må påbegyndes uden byggetilladelse. Det betyder, at opførelsen af et byggeri, der kræver tilladelse, er ulovligt, såfremt der ikke er indhentet tilladelse inden, selve opførelsen finder sted.
 
-Byggelovens § 2, stk. 5, bestemmer, at loven finder anvendelse på bestående bebyggelse, uanset tidspunktet for bebyggelsens opførelse, når de enkelte bestemmelser indeholder udtrykkelig hjemmel herfor.
+Byggelovens [§ 2, stk. 5](https://www.retsinformation.dk/eli/lta/2016/1178#P2 "Byggeloven § 2"){ .br18-ref .br18-ref--ext }, bestemmer, at loven finder anvendelse på bestående bebyggelse, uanset tidspunktet for bebyggelsens opførelse, når de enkelte bestemmelser indeholder udtrykkelig hjemmel herfor.
 
-Byggelovens § 2, stk. 5, angiver således, at det er hovedreglen, at en bygning, der er lovligt opført efter de regler, der var gældende på opførelsestidspunktet, ikke senere kan blive mødt med krav om at opfylde nye skærpede regler, medmindre der er udtrykkelig hjemmel til dette. Byggelovens § 2, stk. 5, beskytter imidlertid ikke ulovligt opført byggeri.
+Byggelovens [§ 2, stk. 5](https://www.retsinformation.dk/eli/lta/2016/1178#P2 "Byggeloven § 2"){ .br18-ref .br18-ref--ext }, angiver således, at det er hovedreglen, at en bygning, der er lovligt opført efter de regler, der var gældende på opførelsestidspunktet, ikke senere kan blive mødt med krav om at opfylde nye skærpede regler, medmindre der er udtrykkelig hjemmel til dette. Byggelovens [§ 2, stk. 5](https://www.retsinformation.dk/eli/lta/2016/1178#P2 "Byggeloven § 2"){ .br18-ref .br18-ref--ext }, beskytter imidlertid ikke ulovligt opført byggeri.
 
 Det er således på baggrund af de regler, der var gældende, da en bebyggelse blev opført, at kommunalbestyrelsen skal vurdere, om der foreligger et ulovligt forhold.
 

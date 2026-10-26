@@ -18,7 +18,7 @@
 
 ### 3.0. Brandsikkerhed og brandværnsforanstaltninger {#f19b8b46-936a-435e-8d0d-2f002ee394ed}
 
-Det fremgår af bygningsreglement 2018, kap. 7, § 163, at der under byggearbejdets udførelse skal gennemføres brandværnsforanstaltninger, som sikrer, at:
+Det fremgår af bygningsreglement 2018, kap. 7, [§ 163](../../../krav/#paragraf-163 "BR18 § 163"){ .br18-ref }, at der under byggearbejdets udførelse skal gennemføres brandværnsforanstaltninger, som sikrer, at:
 
 1.  Brandsikkerheden i eksisterende bygninger, som stadig er i brug, ikke forringes.
 

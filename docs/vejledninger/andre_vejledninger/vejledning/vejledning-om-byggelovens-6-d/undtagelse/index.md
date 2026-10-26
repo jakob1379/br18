@@ -19,7 +19,7 @@
 
 ### 1.0.0. Undtagelser i bygningsreglementet, der indskrænker § 6 D, stk. 1’s, anvendelsesområde {#571ad59c-7ee9-4566-bd27-c57c7c794aca}
 
-Bygningsreglementet fastsætter de nærmere regler for kommunalbestyrelsens behandling af byggesager. Bygningsreglementet gælder i udgangspunktet for de sager, der er omfattet af byggelovens § 2, men indeholder dog en række undtagelser, der indskrænker anvendelsesområdet.
+Bygningsreglementet fastsætter de nærmere regler for kommunalbestyrelsens behandling af byggesager. Bygningsreglementet gælder i udgangspunktet for de sager, der er omfattet af byggelovens [§ 2](https://www.retsinformation.dk/eli/lta/2016/1178#P2 "Byggeloven § 2"){ .br18-ref .br18-ref--ext }, men indeholder dog en række undtagelser, der indskrænker anvendelsesområdet.
 
 ### 1.0.1 BR18 § 4 {#62a1f537-1cdc-4c03-994e-afda41cc7192}
 

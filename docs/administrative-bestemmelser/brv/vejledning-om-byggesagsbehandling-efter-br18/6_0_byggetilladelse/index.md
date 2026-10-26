@@ -90,7 +90,7 @@ Kommunalbestyrelsens meddelelse om byggetilladelse skal ske skriftligt til ansø
 
 Inden kommunalbestyrelsen kan meddele byggetilladelse, skal kommunalbestyrelsen foretage en vurdering af, om den dokumentation, der er indsendt ved ansøgning om byggetilladelse, er i overensstemmelse med bygningsreglementet.
 
-Kommunalbestyrelsen skal i forbindelse med meddelelse om byggetilladelse være opmærksom på en eventuel underretningsforpligtelse efter anden lovgivning, f.eks. museumslovens § 24.
+Kommunalbestyrelsen skal i forbindelse med meddelelse om byggetilladelse være opmærksom på en eventuel underretningsforpligtelse efter anden lovgivning, f.eks. museumslovens [§ 24](https://www.retsinformation.dk/eli/lta/2025/1017#P24 "Museumsloven § 24"){ .br18-ref .br18-ref--ext }.
 
 En byggetilladelse er bindende. Ansøger må ikke fravige fra det, der fremgår af byggetilladelsen. Hvis vilkårene i byggetilladelsen ikke kan overholdes, skal ansøger rette henvendelse til kommunalbestyrelsen, så denne får lejlighed til at vurdere ansøgningen på ny. Det er alene forhold vedrørende den dokumentation, der er indsendt ved ansøgning om byggetilladelse, der er bindende for ansøger, herunder også ansøgninger om dispensation. Ansøger har derfor mulighed for at vælge forskellige metoder til opfyldelse af de enkelte tekniske bestemmelser uden, at kommunalbestyrelsen skal vurdere disse forhold. En byggetilladelse bortfalder, hvis det arbejde, som tilladelsen omfatter, ikke er påbegyndt inden 1 år fra den dato tilladelsen er meddelt.
 

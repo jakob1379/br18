@@ -37,17 +37,17 @@
 
 Ved ansøgning om byggetilladelse, skal der indsendes oplysning om og dokumentation for indplacering i konstruktionsklasse, såfremt det er relevant at indplacere legepladsen mv. i en konstruktionsklasse. Dette er ofte relevant, når der er konstruktionsmæssige forhold at tage stilling til i forhold til sikkerhed. Det afhænger dog altid af en konkret vurdering fra sag til sag.
 
-Det fremgår også af BR18, § 489, stk. 4, at visse legepladsredskaber er undtaget for indplacering i konstruktionsklasse. For yderligere henvises der til afsnit 3.1.1.
+Det fremgår også af BR18, [§ 489, stk. 4](../../../../../ovrige-bestemmelser/26/krav/#paragraf-489 "BR18 § 489"){ .br18-ref }, at visse legepladsredskaber er undtaget for indplacering i konstruktionsklasse. For yderligere henvises der til afsnit 3.1.1.
 
 Det kan være nødvendigt at vurdere de enkelte legepladsredskaber på legepladsen hver for sig, i forhold til indplaceringen. Såfremt ansøger ikke vurderer, at det er relevant at indplacere hele eller dele af legepladsen mv. i en konstruktionsklasse, skal dette oplyses og begrundes i ansøgningen om byggetilladelsen.
 
-Hvis det er relevant at indplacere legepladsen mv. i en konstruktionsklasse, skal indplaceringen følge § BR18, kapitel 26 om konstruktionsklasser. Indplacering i en konstruktionsklasse afhænger af konstruktionens kompleksitet og konsekvensklasse (CC), samt erfaringen med konstruktionstypen.
+Hvis det er relevant at indplacere legepladsen mv. i en konstruktionsklasse, skal indplaceringen følge § BR18, [kapitel 26](../../../../../ovrige-bestemmelser/26/krav/ "BR18 kapitel 26"){ .br18-ref } om konstruktionsklasser. Indplacering i en konstruktionsklasse afhænger af konstruktionens kompleksitet og konsekvensklasse (CC), samt erfaringen med konstruktionstypen.
 
-I visse tilfælde kan der være legepladser mv., som på grund af deres udformning eller anvendelse ikke kan indplaceres i en konstruktionsklasse selvom legepladsen mv. i sin helhed skal indplaceres. I disse tilfælde skal legepladsen mv. i stedet vurderes ud fra § 489, stk. 5.
+I visse tilfælde kan der være legepladser mv., som på grund af deres udformning eller anvendelse ikke kan indplaceres i en konstruktionsklasse selvom legepladsen mv. i sin helhed skal indplaceres. I disse tilfælde skal legepladsen mv. i stedet vurderes ud fra [§ 489, stk. 5](../../../../../ovrige-bestemmelser/26/krav/#paragraf-489 "BR18 § 489"){ .br18-ref }.
 
-Hvis legepladser mv. bliver indplaceret i en konstruktionsklasse, eller vurderes efter § 489, stk. 5, vil dette medføre krav til statisk dokumentation.
+Hvis legepladser mv. bliver indplaceret i en konstruktionsklasse, eller vurderes efter [§ 489, stk. 5](../../../../../ovrige-bestemmelser/26/krav/#paragraf-489 "BR18 § 489"){ .br18-ref }, vil dette medføre krav til statisk dokumentation.
 
-Såfremt legepladser mv. indplaceres i konstruktionsklasse 2-4 skal der tilknyttes en certificeret statiker, jf. BR18 § 16.
+Såfremt legepladser mv. indplaceres i konstruktionsklasse 2-4 skal der tilknyttes en certificeret statiker, jf. BR18 [§ 16](../../../../../administrative-bestemmelser/krav/#paragraf-16 "BR18 § 16"){ .br18-ref }.
 
 For yderligere henvises der til [bygningsreglementets vejledning om indplacering i konstruktionsklasser](../../../../../ovrige-bestemmelser/26/brv/indplacering-i-konstruktionsklasser/ "Indplacering i konstruktionsklasser").
 

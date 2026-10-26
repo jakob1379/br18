@@ -56,4 +56,4 @@
 
 Uanset om et byggearbejde kræver byggetilladelse eller ej, skal byggearbejdet opfylde de til enhver tid gældende regler i byggelovgivningen, herunder reglerne i bygningsreglementet. Dette betyder, at opførelsen af et aftrækssystem altid skal leve op til de krav, der findes i BR18, herunder kapitel 5, 12 og 15.
 
-Byggelovens § 16C, stk. 3, bestemmer, at kommunalbestyrelsen, såfremt den bliver opmærksom på et ulovligt forhold, skal søge forholdet lovliggjort. Såfremt kommunen bliver opmærksom på, at et aftrækssystem ikke lever op til kravene herfor, kan kommunalbestyrelsen således kræve, at ejeren lovliggør aftrækssystemet.
+Byggelovens [§ 16C, stk. 3](https://www.retsinformation.dk/eli/lta/2016/1178#P16C "Byggeloven § 16C"){ .br18-ref .br18-ref--ext }, bestemmer, at kommunalbestyrelsen, såfremt den bliver opmærksom på et ulovligt forhold, skal søge forholdet lovliggjort. Såfremt kommunen bliver opmærksom på, at et aftrækssystem ikke lever op til kravene herfor, kan kommunalbestyrelsen således kræve, at ejeren lovliggør aftrækssystemet.

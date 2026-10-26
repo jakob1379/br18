@@ -32,7 +32,7 @@
 
 ### 2.2 Luftmængder ved mekanisk ventilation (nominel luftstrøm) {#a2bf648a-92dc-4b37-85bc-71027f3ea936}
 
-Kravet til ventilation af bygninger til beboelse er beskrevet i bygningsreglementet, §§443-446. Her fremgår det at:
+Kravet til ventilation af bygninger til beboelse er beskrevet i bygningsreglementet, [§§443-446](../../../../22/krav/#7e3ed2f3-9f5b-47e8-b41c-723a75ec3009 "BR18 §§ 443-446"){ .br18-ref }. Her fremgår det at:
 
 > • I beboelsesrum såvel som i boligen totalt skal der være en udelufttilførsel på mindst 0,3 l/s pr. m² opvarmet etageareal, når boligen er i anvendelse.
 >
@@ -52,7 +52,7 @@ Kravet til ventilation af bygninger til beboelse er beskrevet i bygningsreglemen
 >
 > • I enfamiliehuse kan der anvendes naturlig ventilation, der henvises i dette tilfælde til kapitel 2.5 Naturlig og hybrid ventilation.
 
-  For andre bygninger end boliger stiller bygningsreglementet følgende krav til luftstrøm, jf. §§447-449.
+  For andre bygninger end boliger stiller bygningsreglementet følgende krav til luftstrøm, jf. [§§447-449](../../../../22/krav/#dcb71b0d-4d4f-404f-aa62-26950e0c0685 "BR18 §§ 447-449"){ .br18-ref }.
 
 > • I daginstitutioner skal ventilationsanlægget yde mindst 3 l/s pr. barn og mindst 5 l/s pr. voksen samt 0,35 l/s pr. m² etageareal. Hvis der benyttes ventilationsanlæg med behovstyret ventilation, kan der afviges fra de angivne luftmængder, når der er reduceret behov. Dog må ventilationen i brugstiden ikke være mindre end 0,35 l/s pr. m² etageareal, og CO2-koncentrationen må ikke overstige 1000 ppm ved de dimensionerende forhold.   • I undervisningsrum i skoler og lignende skal ventilationsanlægget i normalklasserum yde mindst 5 l/s pr. person samt 0,35 l/s pr. m² etageareal. Hvis der benyttes ventilationsanlæg med behovstyret ventilation, kan der afviges fra de angivne luftmængder, når der er reduceret behov. Dog må ventilationen i brugstiden ikke være mindre end 0,35 l/s pr. m² etageareal og CO2-koncentrationen må ikke overstige 1000 ppm ved de dimensionerende forhold.   • Ved benyttelse af særlige byggetekniske tiltag, som for eksempel større rumvoluminer pr. person, brug af flere udluftningsmuligheder, herunder muligheder for tværventilation, kan kravet om mekanisk ventilation fraviges under forudsætning af, at der kan opretholdes et sundhedsmæssigt tilfredsstillende indeklima.
 >

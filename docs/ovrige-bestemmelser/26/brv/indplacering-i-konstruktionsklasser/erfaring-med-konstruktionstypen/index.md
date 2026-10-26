@@ -26,13 +26,13 @@
 
 ### 2.0.3. Erfaring med konstruktionstypen {#7dd1ead4-4d1a-4625-9bf5-c6b2d6932d3a}
 
-En konstruktion betegnes ifølge BR18, § 488 som traditionel eller utraditionel alt efter, hvor stor erfaring der er med konstruktionen i byggebranchen. Ved traditionelle konstruktioner forstås således konstruktionstyper, som der generelt er stor erfaring med i byggebranchen, og som er baseret på kendte materialer, teknologier og udførelsesmetoder; altså at konstruktionstypen i almindelighed er kendt, fx vægkonstruktioner af murværk, væg- og dækkonstruktioner af betonelementer og gitterspær af træ.
+En konstruktion betegnes ifølge BR18, [§ 488](../../../krav/#paragraf-488 "BR18 § 488"){ .br18-ref } som traditionel eller utraditionel alt efter, hvor stor erfaring der er med konstruktionen i byggebranchen. Ved traditionelle konstruktioner forstås således konstruktionstyper, som der generelt er stor erfaring med i byggebranchen, og som er baseret på kendte materialer, teknologier og udførelsesmetoder; altså at konstruktionstypen i almindelighed er kendt, fx vægkonstruktioner af murværk, væg- og dækkonstruktioner af betonelementer og gitterspær af træ.
 
-Ved utraditionelle konstruktioner forstås konstruktionstyper, som der ikke er stor erfaring med i den danske byggebranche, eller som er baseret på nye materialer, teknologier og udførelsesmetoder, jf. BR18, § 488.
+Ved utraditionelle konstruktioner forstås konstruktionstyper, som der ikke er stor erfaring med i den danske byggebranche, eller som er baseret på nye materialer, teknologier og udførelsesmetoder, jf. BR18, [§ 488](../../../krav/#paragraf-488 "BR18 § 488"){ .br18-ref }.
 
 En nærmere beskrivelse af erfaring med konstruktionstypen, herunder eksempler på utraditionelle konstruktioner fremgår af *SBi-anvisning 271 Dokumentation og kontrol af bærende konstruktioner*.
 
-Hvor der er tvivl om erfaringer med konstruktionstypen i en eller flere af byggeriets processer, anses denne for utraditionel jf. BR18, § 488 stk. 3. En statiker, der er certificeret til at virke i den højeste konstruktionsklasse, som byggeriet kan indplaceres i, kan også vurdere erfaringen med konstruktionen. Hvis der f.eks. er tvivl om en konstruktion i konsekvensklasse 2 er traditionel eller utraditionel, foretages vurderingen af en statiker, der er certificeret til at virke i konstruktionsklasse 3 og 4. Denne vurdering skal indgå som dokumentation i myndighedsbehandlingen i forbindelse med ansøgning om byggetilladelse.
+Hvor der er tvivl om erfaringer med konstruktionstypen i en eller flere af byggeriets processer, anses denne for utraditionel jf. BR18, [§ 488 stk. 3](../../../krav/#paragraf-488 "BR18 § 488"){ .br18-ref }. En statiker, der er certificeret til at virke i den højeste konstruktionsklasse, som byggeriet kan indplaceres i, kan også vurdere erfaringen med konstruktionen. Hvis der f.eks. er tvivl om en konstruktion i konsekvensklasse 2 er traditionel eller utraditionel, foretages vurderingen af en statiker, der er certificeret til at virke i konstruktionsklasse 3 og 4. Denne vurdering skal indgå som dokumentation i myndighedsbehandlingen i forbindelse med ansøgning om byggetilladelse.
 
 ### 3.0.0. Indplacering i konstruktionsklasser {#addb1574-b0fc-47b2-b290-2f691d23b3c2}
 

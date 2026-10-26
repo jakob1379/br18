@@ -13,7 +13,7 @@ Til en bebyggelse skal der udlægges arealer af en passende størrelse i forhold
 
 ### § 394 {#paragraf-394}
 
-Bestemmelserne i kapitel 20 gælder ikke, hvis en lokalplan, en byplanvedtægt eller en reguleringsplan fastsætter andre bestemmelser om de pågældende forhold.
+Bestemmelserne i [kapitel 20](krav/ "BR18 kapitel 20"){ .br18-ref } gælder ikke, hvis en lokalplan, en byplanvedtægt eller en reguleringsplan fastsætter andre bestemmelser om de pågældende forhold.
 
 *Stk. 2.* De ubebyggede arealer kan være fælles for flere ejendomme. Disponering, anlæg og anvendelse af sådanne fælles friarealer skal sikres ved tinglysning på de pågældende ejendomme.
 
@@ -69,4 +69,4 @@ Ved udformningen af parkeringspladser skal et passende antal parkeringspladser u
 
 ### § 402 {#paragraf-402}
 
-Fritliggende enfamiliehuse og sommerhuse er ikke omfattet af § 401.
+Fritliggende enfamiliehuse og sommerhuse er ikke omfattet af [§ 401](#paragraf-401 "BR18 § 401"){ .br18-ref }.

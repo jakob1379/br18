@@ -51,11 +51,11 @@
 
 ### 4. Sikkerhedskrav og adgangsforhold for legepladser mv. {#52895043-7fae-4429-ac60-b0909eb1bbab}
 
-Det fremgår af bygningsreglementet 2018, kap. 16, §358, at projektering, udførelse, drift og vedligehold af legepladsredskaber og -underlag, multisportudstyr, motionsredskaber i det fri, skateboardbaner og lignende, der er offentligt tilgængelige, skal ske, så der opnås tilfredsstillende sikkerhed  mod personskade.
+Det fremgår af bygningsreglementet 2018, [kap. 16](../../../krav/ "BR18 kapitel 16"){ .br18-ref }, [§358](../../../krav/#e5b70fb8-9e01-4761-a722-71dc702c5f5b "BR18 § 358"){ .br18-ref }, at projektering, udførelse, drift og vedligehold af legepladsredskaber og -underlag, multisportudstyr, motionsredskaber i det fri, skateboardbaner og lignende, der er offentligt tilgængelige, skal ske, så der opnås tilfredsstillende sikkerhed  mod personskade.
 
-Standarderne der henvises til i bygningsreglementet 2018, kap. 16 om legepladser mv. angiver de specifikationer, som skal opfyldes, for i videst muligt omfang at beskytte mod den risiko, der kan være forbundet med, at personer benytter forskellige typer af legepladser mv. Forskellige former for risici kan i f.eks. være snorefælder, hovedklemsfælder, huller samt manglende stabilitet og faldunderlag.
+Standarderne der henvises til i bygningsreglementet 2018, [kap. 16](../../../krav/ "BR18 kapitel 16"){ .br18-ref } om legepladser mv. angiver de specifikationer, som skal opfyldes, for i videst muligt omfang at beskytte mod den risiko, der kan være forbundet med, at personer benytter forskellige typer af legepladser mv. Forskellige former for risici kan i f.eks. være snorefælder, hovedklemsfælder, huller samt manglende stabilitet og faldunderlag.
 
-Bygningsreglementet 2018, kap. 16, § 358, beskriver det overordnede sikkerhedsniveau, mens §§ 359 - 363 henviser til standarder med generelle og specifikke sikkerhedskrav for forskellige typer af legepladser mv.
+Bygningsreglementet 2018, [kap. 16](../../../krav/ "BR18 kapitel 16"){ .br18-ref }, [§ 358](../../../krav/#e5b70fb8-9e01-4761-a722-71dc702c5f5b "BR18 § 358"){ .br18-ref }, beskriver det overordnede sikkerhedsniveau, mens [§§ 359 - 363](../../../krav/#e46aa162-8b77-41eb-a53b-d7eccd0145d8 "BR18 §§ 359-363"){ .br18-ref } henviser til standarder med generelle og specifikke sikkerhedskrav for forskellige typer af legepladser mv.
 
 Hvis der i et område opstilles flere typer legepladsredskaber m.v. vil de skrappeste krav være gældende.
 

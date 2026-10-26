@@ -52,11 +52,11 @@ Der skal foretages uafhængig kontrol af dokumentationen vedrørende:
 
 –indplacering i brandklasse,
 
-–dokumentation for, hvorledes byggeriet opfylder §§ 126-133 vedrørende redningsberedskabets indsatsforhold,
+–dokumentation for, hvorledes byggeriet opfylder [§§ 126-133](../../../tekniske-bestemmelser/05/krav/#0875873c-27b3-435c-b6aa-6d7bb2a978d7 "BR18 §§ 126-133"){ .br18-ref } vedrørende redningsberedskabets indsatsforhold,
 
 –brandstrategirapporten og
 
-–kontrolplanen, jf. §§ 510-512 og § 518.
+–kontrolplanen, jf. [§§ 510-512](../../../ovrige-bestemmelser/29/krav/#paragraf-510 "BR18 §§ 510-512"){ .br18-ref } og [§ 518](../../../ovrige-bestemmelser/29/krav/#paragraf-518 "BR18 § 518"){ .br18-ref }.
 
 For den øvrige del af dokumentationen kan uafhængig kontrol udføres af personer, der ikke har medvirket ved udarbejdelsen af den pågældende dokumentation.
 
@@ -72,7 +72,7 @@ Der skal foretages uafhængig kontrol af dokumentation vedrørende:
 
 –A1. Konstruktionsgrundlag og
 
-–B2. Statisk kontrolplan, jf. § 501, nr. 1, og § 502, stk. 1, nr. 2.
+–B2. Statisk kontrolplan, jf. [§ 501, nr. 1](../../../ovrige-bestemmelser/28/krav/#paragraf-501 "BR18 § 501"){ .br18-ref }, og [§ 502, stk. 1, nr. 2](../../../ovrige-bestemmelser/28/krav/#paragraf-502 "BR18 § 502"){ .br18-ref }.
 
 For den øvrige del af dokumentationen for projektering af de bærende konstruktioner kan uafhængig kontrol af dokumentation udføres af personer, der ikke har medvirket ved udarbejdelsen af dokumentationen af det pågældende konstruktionsafsnit, men som har medvirket i projektering af byggeriet.
 
@@ -108,7 +108,7 @@ Tredjepartskontrol af projektering og udførelse af brandsikringstiltag omfatter
 
 ## Tabel 2a - Mindstekrav til niveau af uafhængig kontrol af dokumentation for de bærende konstruktioner i forhold til konstruktionsklassen (KK), jf. § 527 {#156f5746-c9f7-4d30-b5cb-3c53516b2f75}
 
-*Tabel 2a. Mindstekrav til niveau af uafhængig kontrol af dokumentation for de bærende konstruktioner afhængig af konstruktionsklassen, jf. § 527*
+*Tabel 2a. Mindstekrav til niveau af uafhængig kontrol af dokumentation for de bærende konstruktioner afhængig af konstruktionsklassen, jf. [§ 527](../../../ovrige-bestemmelser/30/krav/#paragraf-527 "BR18 § 527"){ .br18-ref }*
 
 <table>
 <colgroup>
@@ -272,7 +272,7 @@ Min. : Minimumskontrol, Udv. : Udvidet kontrol, Max. : Maksimumskontrol.
 
 ## Tabel 2b – Mindstekrav til niveau af uafhængig kontrol af bærende konstruktioner som udført i forhold til konstruktionsklassen (KK), jf. § 527 {#503eb87f-83f9-4056-b018-2ae3e00ca944}
 
-*Tabel 2b – Mindstekrav til niveau af uafhængig kontrol af bærende konstruktioner som udført i forhold til konstruktionsklassen (KK), jf. § 527*
+*Tabel 2b – Mindstekrav til niveau af uafhængig kontrol af bærende konstruktioner som udført i forhold til konstruktionsklassen (KK), jf. [§ 527](../../../ovrige-bestemmelser/30/krav/#paragraf-527 "BR18 § 527"){ .br18-ref }*
 
 <table>
 <tbody>
@@ -304,7 +304,7 @@ Min. : Minimumskontrol, Udv. : Udvidet kontrol, Max. : Maksimumskontrol.
 
 ## Tabel 3 - Mindstekrav til niveau af tredjepartskontrol af dokumentation for de bærende konstruktioner for konstruktionsklasse 4, jf. § 527 {#b2a94805-0a77-4a30-9e7c-9747e119a6c4}
 
-*Tabel 3. Mindstekrav til niveau af tredjepartskontrol af dokumentation for de bærende konstruktioner for konstruktionsklasse 4, jf. § 527*
+*Tabel 3. Mindstekrav til niveau af tredjepartskontrol af dokumentation for de bærende konstruktioner for konstruktionsklasse 4, jf. [§ 527](../../../ovrige-bestemmelser/30/krav/#paragraf-527 "BR18 § 527"){ .br18-ref }*
 
 <table>
 <colgroup>
@@ -434,7 +434,7 @@ Udv. : Udvidet kontrol, Max. : Maksimumskontrol.
 
 ## Tabel 4a – Mindstekrav til niveau af uafhængig kontrol af den brandtekniske dokumentation i forhold til brandklassen (BK), jf. § 527 {#70e9033b-e54d-4d70-a177-b79123afcc9a}
 
-*Tabel 4a – Mindstekrav til niveau af uafhængig kontrol af den brandtekniske dokumentation i forhold til brandklassen (BK), jf. § 527*
+*Tabel 4a – Mindstekrav til niveau af uafhængig kontrol af den brandtekniske dokumentation i forhold til brandklassen (BK), jf. [§ 527](../../../ovrige-bestemmelser/30/krav/#paragraf-527 "BR18 § 527"){ .br18-ref }*
 
 <table>
 <colgroup>
@@ -460,7 +460,7 @@ Udv. : Udvidet kontrol, Max. : Maksimumskontrol.
 </td>
 </tr>
 <tr>
-<td>Dokumentation for, hvorledes byggeriet opfylder §§ 126-133 vedrørende redningsberedskabets indsatsforhold</td>
+<td>Dokumentation for, hvorledes byggeriet opfylder <a class="br18-ref" href="../../../tekniske-bestemmelser/05/krav/#0875873c-27b3-435c-b6aa-6d7bb2a978d7" title="BR18 §§ 126-133">§§ 126-133</a> vedrørende redningsberedskabets indsatsforhold</td>
 <td>Max.<br />
 </td>
 <td>Max.<br />
@@ -567,8 +567,8 @@ Udv. : Udvidet kontrol, Max. : Maksimumskontrol.
 <td>Udv.<sup>3)</sup></td>
 </tr>
 <tr>
-<td colspan="4"><p>1) Ved fravigelser af de præ-accepterede løsninger i brandklasse 2, jf. bilag 4.</p>
-<p>2) I medfør af Bygningsreglementets vejledning til kapitel 5 – Brand, kapitel 8: Eftervisning.</p>
+<td colspan="4"><p>1) Ved fravigelser af de præ-accepterede løsninger i brandklasse 2, jf. <a class="br18-ref" href="../../b4/bilag_4/" title="BR18 bilag 4">bilag 4</a>.</p>
+<p>2) I medfør af Bygningsreglementets vejledning til kapitel 5 – Brand, <a class="br18-ref" href="../../../tekniske-bestemmelser/08/krav/" title="BR18 kapitel 8">kapitel 8</a>: Eftervisning.</p>
 <p>3) BK er den højeste brandklasse, som er gældende for det eller de bygningsafsnit, hvor i det enkelte brandsikringstiltag er placeret.</p></td>
 </tr>
 </tbody>
@@ -582,7 +582,7 @@ Udv. : Udvidet kontrol, Max. : Maksimumskontrol.
 
 ## Tabel 4b – Mindstekrav til niveau af uafhængig kontrol af udførelsen af brandsikringstiltag i forhold til risikoklasse (RK) jf. § 527 {#e3483ff7-5913-4734-9b94-a2e60160e9ad}
 
-*Tabel 4b – Mindstekrav til niveau af uafhængig kontrol af udførelsen af brandsikringstiltag i forhold til risikoklasse (RK) jf. § 527*
+*Tabel 4b – Mindstekrav til niveau af uafhængig kontrol af udførelsen af brandsikringstiltag i forhold til risikoklasse (RK) jf. [§ 527](../../../ovrige-bestemmelser/30/krav/#paragraf-527 "BR18 § 527"){ .br18-ref }*
 
 <table>
 <colgroup>
@@ -618,7 +618,7 @@ Udv. : Udvidet kontrol, Max. : Maksimumskontrol.
 
 ## Tabel 5 – Mindstekrav til niveau af tredjepartskontrol af den brandtekniske dokumentation for brandklasse 4, jf. § 527 {#5c07e011-ff1c-4bed-a720-25d93fa60d9b}
 
-*Tabel 5 – Mindstekrav til niveau af tredjepartskontrol af den brandtekniske dokumentation for brandklasse 4, jf. § 527*
+*Tabel 5 – Mindstekrav til niveau af tredjepartskontrol af den brandtekniske dokumentation for brandklasse 4, jf. [§ 527](../../../ovrige-bestemmelser/30/krav/#paragraf-527 "BR18 § 527"){ .br18-ref }*
 
 <table>
 <colgroup>
@@ -638,7 +638,7 @@ Udv. : Udvidet kontrol, Max. : Maksimumskontrol.
 </td>
 </tr>
 <tr>
-<td>Dokumentation for, hvorledes byggeriet opfylder§§ 126-133 vedrørende redningsberedskabets indsatsforhold</td>
+<td>Dokumentation for, hvorledes byggeriet opfylder<a class="br18-ref" href="../../../tekniske-bestemmelser/05/krav/#0875873c-27b3-435c-b6aa-6d7bb2a978d7" title="BR18 §§ 126-133">§§ 126-133</a> vedrørende redningsberedskabets indsatsforhold</td>
 <td>Max.<br />
 </td>
 </tr>

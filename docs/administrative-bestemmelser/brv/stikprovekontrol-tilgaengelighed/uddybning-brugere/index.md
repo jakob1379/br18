@@ -56,7 +56,7 @@ Når en brugergruppe skal karakteriseres, er det relevant at overveje en række 
 
 Generelt gælder det for brugerne, at der kan være tale om forskellige brugsmønstre i forhold til hyppighed og varighed. Nogle er daglige brugere, mens andre måske kun opholder sig i en bygning én gang, men over længere tid. Inden for hver kategori af funktionsnedsættelse vil der være individuelle forskelle blandt brugerne i forhold til funktionstab og funktionsevne. Når en brugergruppe vurderes, gælder det om at fange denne mangfoldighed og ikke lade forståelsen af brugerne være fastlåst. Nogle personer med en funktionsnedsættelse har en funktionsevne og et helbred, der gør dem i stand til at kunne varetage et arbejde, mens andre ikke er i stand til dette. Forskelle kan ligeledes påvirkes af alder, køn, kultur, opdragelse og erfaring^10^. Der kan også være forskel på, hvor aktive brugerne er i forhold til f.eks. familieliv, venner, fritidsinteresser, foreningsliv, naturoplevelser og kulturelle tilbud. Muligheden for at være aktiv og deltage er til stede, hvis de fysiske rammer er lagt tilrette for deltagelsen.
 
-10\) Bygningsreglementet, kap. 2, Vejledning til brugerbegreb, 3.0.0.
+10\) Bygningsreglementet, [kap. 2](../../../../tekniske-bestemmelser/02/krav/ "BR18 kapitel 2"){ .br18-ref }, Vejledning til brugerbegreb, 3.0.0.
 
 <span id="uddybning-af-ligevrdighed-i-adgangsforhold-og-indretning"></span>
 

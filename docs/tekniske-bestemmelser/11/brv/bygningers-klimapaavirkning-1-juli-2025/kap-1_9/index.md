@@ -62,9 +62,9 @@ Faktorer for el, fjernvarme og ledningsgas er baseret på 1 kWh og er fremskreve
 
 Bygningens energibehov kendes fra energirammeberegningen i bygningsreglementets
 
-§§ 250 – 256 eller fra standardværdier i bilag 2, tabel 12 og 13.
+[§§ 250 – 256](../../../krav/#paragraf-250 "BR18 §§ 250-256"){ .br18-ref } eller fra standardværdier i bilag 2, tabel 12 og 13.
 
-For alle bygninger skal energibehov til drift beregnes ud fra § 297, stk. 11 og 12, inkl. eventuelle tillæg hertil, jf. § 260, stk. 3. Det vil sige at bygninger der er underlagt energirammeberegningen i §§250-256 skal benytte denne som energibehov, mens andre opvarmede bygninger som tilbygninger eller sommerhuse kan vælge enten at beregne energibehovet ud fra tilsvarende energirammeberegning i §§250-256 eller benytte standardværdierne i bilag 2, tabel 12 og 13.
+For alle bygninger skal energibehov til drift beregnes ud fra [§ 297, stk. 11 og 12](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref }, inkl. eventuelle tillæg hertil, jf. [§ 260, stk. 3](../../../krav/#2ec6323f-f853-4f09-9134-38834617a035 "BR18 § 260"){ .br18-ref }. Det vil sige at bygninger der er underlagt energirammeberegningen i [§§250-256](../../../krav/#paragraf-250 "BR18 §§ 250-256"){ .br18-ref } skal benytte denne som energibehov, mens andre opvarmede bygninger som tilbygninger eller sommerhuse kan vælge enten at beregne energibehovet ud fra tilsvarende energirammeberegning i [§§250-256](../../../krav/#paragraf-250 "BR18 §§ 250-256"){ .br18-ref } eller benytte standardværdierne i bilag 2, tabel 12 og 13.
 
 Det er energibehovet uden anvendelse af primærenergifaktorer, det vil sige fra den aktuelle energirammeberegning eller tabelværdi, der skal anvendes.
 
@@ -72,27 +72,27 @@ Det er energibehovet uden anvendelse af primærenergifaktorer, det vil sige fra 
 
 #### *Beregning af energiforbrugets klimapåvirkning i modul B6*
 
-For at beregne klimapåvirkningen fra bygningens energiforbrug, anvendes emissionsfaktorerne, som er fastsat i BR18, bilag 2, tabel 8.1. På baggrund af det opgjorte energibehov, beregnes emissionerne for modul B6 ved at gange emissionsfaktorerne på det opgjorte energibehov (kWh/år). Modul B6 opgøres fra det år, hvor bygningen tages i brug, og med betragtningsperioden på 50 år.
+For at beregne klimapåvirkningen fra bygningens energiforbrug, anvendes emissionsfaktorerne, som er fastsat i BR18, [bilag 2](../../../../../bilag/b2/bilag_2/ "BR18 bilag 2"){ .br18-ref }, tabel 8.1. På baggrund af det opgjorte energibehov, beregnes emissionerne for modul B6 ved at gange emissionsfaktorerne på det opgjorte energibehov (kWh/år). Modul B6 opgøres fra det år, hvor bygningen tages i brug, og med betragtningsperioden på 50 år.
 
-Emissionsfaktorerne fremgår af BR18, bilag 2, tabel 8. Værdier efter 2050 fortsætter konstant.
+Emissionsfaktorerne fremgår af BR18, [bilag 2, tabel 8](../../../../../bilag/b2/bilag_2/#c93d7bfe-6c32-4182-b858-cf113ba2a371 "BR18 bilag 2, tabel 8"){ .br18-ref }. Værdier efter 2050 fortsætter konstant.
 
 Det er bygningens samlede energibehov, der skal medregnes i modul B6, det vil sige både el og varme. For eksempel gælder for en bygning, der er opvarmet med fjernvarme, at både el-behovet og fjernvarmebehovet opgøres. Derfor vil den samlede klimapåvirkning fra energiforbruget i bygningen opgøres ved, at man ganger det opgjorte el-behov med emissionsfaktoren for el og fjernvarmebehovet med emissionsfaktoren for fjernvarme.
 
 #### *Indregning af el-produktion fra solceller og vindmøller*
 
-Der kan indregnes bygningsintegreret el-produktion fra fx solceller eller vindmøller svarende til højst 25 kWh/m² pr. år opgjort i primærenergi. Det svarer således til en produktion på 13,2 kWh/m² pr. år. En bygning på 1.000 m² kan således højst indregne el-produktion svarende til 13.200 kWh pr. år i modul B6 i beregningen. Energibehovet til el kan derfor godt blive mindre end 0 kWh/m² pr. år, hvis el-behovet i bygningen er under 13,2 kWh/m² pr. år. Hvis man producerer mere elektricitet end 13,2 kWh/m² pr. år, så kan den resterende el-produktion godskrives i modul D med samme emissionsfaktorer, som den øvrige del af el-produktionen. Se nærmere vejledning: § 297, stk. 4, Livscyklus og betragtningsperiode.
+Der kan indregnes bygningsintegreret el-produktion fra fx solceller eller vindmøller svarende til højst 25 kWh/m² pr. år opgjort i primærenergi. Det svarer således til en produktion på 13,2 kWh/m² pr. år. En bygning på 1.000 m² kan således højst indregne el-produktion svarende til 13.200 kWh pr. år i modul B6 i beregningen. Energibehovet til el kan derfor godt blive mindre end 0 kWh/m² pr. år, hvis el-behovet i bygningen er under 13,2 kWh/m² pr. år. Hvis man producerer mere elektricitet end 13,2 kWh/m² pr. år, så kan den resterende el-produktion godskrives i modul D med samme emissionsfaktorer, som den øvrige del af el-produktionen. Se nærmere vejledning: [§ 297, stk. 4](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref }, Livscyklus og betragtningsperiode.
 
-Materialernes klimapåvirkning regnes kun med til den andel af solceller, hvis ydelse kan indregnes i energiberegningen. Dette er en afgrænsning, jf. BR18, bilag 2, tabel 6, under ”Solcelleanlæg”. Det vil sige, at kun materialernes klimapåvirkning fra de solceller, som er medregnet i bygningens driftsforbrug eller indgår som en del af tagbeklædningen, medtages i modulerne A1-5, B4, C3-4 og D.
+Materialernes klimapåvirkning regnes kun med til den andel af solceller, hvis ydelse kan indregnes i energiberegningen. Dette er en afgrænsning, jf. BR18, [bilag 2, tabel 6](../../../../../bilag/b2/bilag_2/#d48904a5-9473-4525-a12f-3ae09559ec90 "BR18 bilag 2, tabel 6"){ .br18-ref }, under ”Solcelleanlæg”. Det vil sige, at kun materialernes klimapåvirkning fra de solceller, som er medregnet i bygningens driftsforbrug eller indgår som en del af tagbeklædningen, medtages i modulerne A1-5, B4, C3-4 og D.
 
 #### *Brug af EPD’er for fjernvarmeværker*
 
-Dette afsnit er relevant, hvis det fjernvarmeværk, som leverer varme til bygningen, som livscyklusvurderingen gennemføres for, har udarbejdet en specifik EPD for emissionsfaktorerne, og dermed ikke benytter emissionsfaktorerne for fjernvarme fra BR18, bilag 2, tabel 8.1.
+Dette afsnit er relevant, hvis det fjernvarmeværk, som leverer varme til bygningen, som livscyklusvurderingen gennemføres for, har udarbejdet en specifik EPD for emissionsfaktorerne, og dermed ikke benytter emissionsfaktorerne for fjernvarme fra BR18, [bilag 2](../../../../../bilag/b2/bilag_2/ "BR18 bilag 2"){ .br18-ref }, tabel 8.1.
 
 Det er vigtigt at fremhæve, at en miljødeklaration, som fjernvarmeværker kan have liggende, som ikke er udført i henhold til ISO 14025, ikke er betragtet som gyldig i forhold til beregning af bygningers klimapåvirkning. Forskellen ligger bl.a. i, at miljødeklarationen ikke ser på hele livscyklussen, dvs. for eksempel ikke tager produktionen af energianlæggene med. En miljødeklaration vil derfor typisk have en lavere klimapåvirkning end en EPD, jf. ISO 14025.
 
-Et lokalt fjernvarmeværk kan udarbejde en EPD for sin konkrete varmeforsyning, som kan benyttes til beregning af bygningers klimapåvirkning, i stedet for de generiske emissionsfaktorer opgjort i BR18, bilag 2, tabel 8.1. EPD’en skal være udført iht. ISO 14025. Lokale emissionsfaktorer kan erstatte hele eller dele af de generiske emissionsfaktorer, afhængigt af, hvordan de lokale emissionsfaktorer er udarbejdet.
+Et lokalt fjernvarmeværk kan udarbejde en EPD for sin konkrete varmeforsyning, som kan benyttes til beregning af bygningers klimapåvirkning, i stedet for de generiske emissionsfaktorer opgjort i BR18, [bilag 2](../../../../../bilag/b2/bilag_2/ "BR18 bilag 2"){ .br18-ref }, tabel 8.1. EPD’en skal være udført iht. ISO 14025. Lokale emissionsfaktorer kan erstatte hele eller dele af de generiske emissionsfaktorer, afhængigt af, hvordan de lokale emissionsfaktorer er udarbejdet.
 
-Hvis et fjernvarmeværk kan dokumentere en 2025-værdi for deres fjernvarmeområde, der er lavere end de generiske værdier i BR18, bilag 2, tabel 8.1, kan bygningsejer benytte den specifikke værdi for 2025 frem til den ikke længere er lavere end de generiske værdier. Herefter skal de generiske værdier benyttes.
+Hvis et fjernvarmeværk kan dokumentere en 2025-værdi for deres fjernvarmeområde, der er lavere end de generiske værdier i BR18, [bilag 2](../../../../../bilag/b2/bilag_2/ "BR18 bilag 2"){ .br18-ref }, tabel 8.1, kan bygningsejer benytte den specifikke værdi for 2025 frem til den ikke længere er lavere end de generiske værdier. Herefter skal de generiske værdier benyttes.
 
 Hvis en EPD indeholder en fremskrivning baseret på projektgodkendte anlæg i henhold til varmeforsyningsloven, kan fremskrivningerne ligeledes erstatte værdier i datasættet, hvis de specifikke værdier er lavere end de generiske værdier.
 

@@ -75,7 +75,7 @@
 
 ### Tilbygninger {#28bce0c5-782a-44b6-aad9-947d5149d74a}
 
-Såfremt en tilbygning enten i sig selv eller kombineret med de eksisterende parkeringspladser medfører, at antallet af parkeringspladser til bygningen overstiger 10, falder den ind under kravene til nybyggeri i § 5. Det vil være de tilføjede parkeringspladser, der skal forberedes på og evt. også etableres en ladestander. Hvis der allerede er etableret en ladestander til den eksisterende bygning, vil der ikke være krav om etablering af yderligere ladestandere.
+Såfremt en tilbygning enten i sig selv eller kombineret med de eksisterende parkeringspladser medfører, at antallet af parkeringspladser til bygningen overstiger 10, falder den ind under kravene til nybyggeri i [§ 5](https://www.retsinformation.dk/eli/lta/2020/181#P5 "Ladestanderbekendtgørelsen § 5"){ .br18-ref .br18-ref--ext }. Det vil være de tilføjede parkeringspladser, der skal forberedes på og evt. også etableres en ladestander. Hvis der allerede er etableret en ladestander til den eksisterende bygning, vil der ikke være krav om etablering af yderligere ladestandere.
 
 Eksempel 1: Der opføres en tilbygning til en eksisterende boligbygning. Tilbygningen udløser 8 nye p-pladser der skal etableres. Den samlede p-plads for ejendommen er efter tilbygning på 20 p-pladser. De nuværende parkeringspladser gøres der ikke noget ved. I dette eksempel skal der forberedes til ladestandere på de 8 nye pladser.
 

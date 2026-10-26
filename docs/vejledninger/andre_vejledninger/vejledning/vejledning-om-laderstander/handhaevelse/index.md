@@ -71,7 +71,7 @@
 
 ### Håndhævelse {#8537f7a4-1cfb-4c3a-9421-b30abdda3047}
 
-Kommunalbestyrelsen er bygningsmyndighed i henhold til byggelovens § 16 C. Håndhævelsen følger den øvrige byggelovgivning. I henhold til byggelovens § 16 C, stk. 3, skal kommunalbestyrelsen, såfremt den bliver opmærksom på et ulovligt forhold, søge forholdet lovliggjort, medmindre det er af ganske underordnet betydning.
+Kommunalbestyrelsen er bygningsmyndighed i henhold til byggelovens [§ 16 C](https://www.retsinformation.dk/eli/lta/2016/1178#P16C "Byggeloven § 16C"){ .br18-ref .br18-ref--ext }. Håndhævelsen følger den øvrige byggelovgivning. I henhold til byggelovens [§ 16 C, stk. 3](https://www.retsinformation.dk/eli/lta/2016/1178#P16C "Byggeloven § 16C"){ .br18-ref .br18-ref--ext }, skal kommunalbestyrelsen, såfremt den bliver opmærksom på et ulovligt forhold, søge forholdet lovliggjort, medmindre det er af ganske underordnet betydning.
 
 <span id="tilbygninger"></span>
 

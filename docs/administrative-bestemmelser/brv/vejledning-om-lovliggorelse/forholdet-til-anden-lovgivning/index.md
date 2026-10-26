@@ -86,7 +86,7 @@
 
 ### Forholdet til anden lovgivning {#d5fd9fdf-ce91-4988-a5bb-058378339b40}
 
-Det fremgår af BR18 § 35, stk. 2, at der ikke kan meddeles byggetilladelse, uden kommunen først har undersøgt, om byggeriet er i strid med anden lovgivning.
+Det fremgår af BR18 [§ 35, stk. 2](../../../krav/#paragraf-35 "BR18 § 35"){ .br18-ref }, at der ikke kan meddeles byggetilladelse, uden kommunen først har undersøgt, om byggeriet er i strid med anden lovgivning.
 
 Kommunen må være berettiget til at meddele afslag på retligt lovliggørende byggetilladelse alene med henvisning til, at der ikke er opnået tilladelse eller dispensation efter denne anden lovgivning. Hvis afslag på retlig lovliggørelse gives med denne begrundelse, kan kommunen være forpligtet til at udsætte sagen på behandling af spørgsmålet om retlig lovliggørelse efter denne anden lovgivning.
 

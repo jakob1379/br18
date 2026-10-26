@@ -33,7 +33,7 @@ Bygningsreglementet har desuden siden 1/1-2023 stillet krav om at alt nybyggeri 
 
 **Efterlevelse af krav**
 
-Normalt vil man kunne opfylde energirammekravet og kravet til det dimensionerende transmissionstab, hvis et Tiny House opføres med varmepumpe og en klimaskærm der lever op til U-værdi-kravene for *ombygninger* jf. § 279 samt vinduer, glasvægge, døre, glastage og ovenlysvinduer der overholder kravene i §§ 257 og 258. Dette skal eftervises ved en energibehovsberegning fx med Be18. En evt. manko, fx i forbindelse med brug af andre energiforsyningsformer, kan kompenseres med VE-anlæg.
+Normalt vil man kunne opfylde energirammekravet og kravet til det dimensionerende transmissionstab, hvis et Tiny House opføres med varmepumpe og en klimaskærm der lever op til U-værdi-kravene for *ombygninger* jf. [§ 279](../../../../../tekniske-bestemmelser/11/krav/#paragraf-279 "BR18 § 279"){ .br18-ref } samt vinduer, glasvægge, døre, glastage og ovenlysvinduer der overholder kravene i [§§ 257](../../../../../tekniske-bestemmelser/11/krav/#2e287fd3-1b3e-438a-9600-d843248b8d99 "BR18 § 257"){ .br18-ref } og [258](../../../../../tekniske-bestemmelser/11/krav/#fd620db7-f2ed-41e9-8e42-3f4b75f234be "BR18 § 258"){ .br18-ref }. Dette skal eftervises ved en energibehovsberegning fx med Be18. En evt. manko, fx i forbindelse med brug af andre energiforsyningsformer, kan kompenseres med VE-anlæg.
 
 Kravet til tæthed vil normalt kunne opfyldes, hvis der projekteres et hensigtsmæssigt tæthedsplan, fx ved en sammenhængende dampspærreløsning i og mellem bygningsdelene.
 

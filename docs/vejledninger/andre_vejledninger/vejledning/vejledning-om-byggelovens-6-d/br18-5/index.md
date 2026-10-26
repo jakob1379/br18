@@ -23,6 +23,6 @@
 
 ### 1.1.2 BR18 § 5 {#03eeb4d9-0e91-4234-8f1d-7a6745e33ebc}
 
-BR18 § 5 omfatter en række byggearbejder, der er omfattet af bygningsreglementet, men som kan udføres uden ansøgning om byggetilladelse. Da § 6 D, stk. 1, forudsætter, at der er søgt om tilladelse ved kommunalbestyrelsen, indskrænker BR18 § 5 bestemmelsens anvendelsesområde. Kommunalbestyrelsen har således ikke mulighed for at nægte et byggearbejde, der er omfattet af BR18 § 5, med hjemmel i byggelovens § 6 D, stk. 1.
+BR18 [§ 5](../../../../../administrative-bestemmelser/krav/#paragraf-5 "BR18 § 5"){ .br18-ref } omfatter en række byggearbejder, der er omfattet af bygningsreglementet, men som kan udføres uden ansøgning om byggetilladelse. Da [§ 6 D, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178#P6D "Byggeloven § 6D"){ .br18-ref .br18-ref--ext }, forudsætter, at der er søgt om tilladelse ved kommunalbestyrelsen, indskrænker BR18 [§ 5](../../../../../administrative-bestemmelser/krav/#paragraf-5 "BR18 § 5"){ .br18-ref } bestemmelsens anvendelsesområde. Kommunalbestyrelsen har således ikke mulighed for at nægte et byggearbejde, der er omfattet af BR18 [§ 5](../../../../../administrative-bestemmelser/krav/#paragraf-5 "BR18 § 5"){ .br18-ref }, med hjemmel i byggelovens [§ 6 D, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178#P6D "Byggeloven § 6D"){ .br18-ref .br18-ref--ext }.
 
 ### 2.0.0 § 6 D, stk. 2 {#ba99c2ff-c5d4-4893-82e5-5952e5ffb819}

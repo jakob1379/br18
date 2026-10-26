@@ -28,7 +28,7 @@
 
 ### 3.0.0. Indplacering i konstruktionsklasser {#addb1574-b0fc-47b2-b290-2f691d23b3c2}
 
-Overordnet kan inddelingen i konstruktionsklasse 1-4 (KK14) ifølge BR18, § 489 ske som angivet i nedenstående tabel 1.
+Overordnet kan inddelingen i konstruktionsklasse 1-4 (KK14) ifølge BR18, [§ 489](../../../krav/#paragraf-489 "BR18 § 489"){ .br18-ref } ske som angivet i nedenstående tabel 1.
 
 <table>
 <colgroup>

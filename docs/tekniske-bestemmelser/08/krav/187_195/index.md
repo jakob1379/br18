@@ -4,21 +4,21 @@
 
 ### § 166 {#paragraf-166}
 
-Bestemmelserne i kapitel 8 gælder ikke, hvis en lokalplan, en byplanvedtægt eller en reguleringsplan fastsætter andre bestemmelser om de pågældende forhold.
+Bestemmelserne i [kapitel 8](../ "BR18 kapitel 8"){ .br18-ref } gælder ikke, hvis en lokalplan, en byplanvedtægt eller en reguleringsplan fastsætter andre bestemmelser om de pågældende forhold.
 
 ### § 167 {#paragraf-167}
 
-Beregningsreglerne for de bebyggelsesregulerende forhold fremgår af kapitel 23. Beregningsreglerne i kapitel 23 er selvstændigt gældende og kan ikke ændres ved lokalplan, byplanvedtægt eller reguleringsplan.
+Beregningsreglerne for de bebyggelsesregulerende forhold fremgår af [kapitel 23](../../../../ovrige-bestemmelser/23/krav/ "BR18 kapitel 23"){ .br18-ref }. Beregningsreglerne i [kapitel 23](../../../../ovrige-bestemmelser/23/krav/ "BR18 kapitel 23"){ .br18-ref } er selvstændigt gældende og kan ikke ændres ved lokalplan, byplanvedtægt eller reguleringsplan.
 
 ## § 168 - § 186 Byggeret {#cc9d906d-349e-4970-84c2-8aa8fff56fc9}
 
 ### § 168 {#paragraf-168}
 
-Byggeretten er retten til at opføre bygninger på en grund, såfremt bestemmelserne i §§ 170-186 om bebyggelsesprocent, grundens størrelse, etageantal, højde- og afstandsforhold overholdes. Byggeretten indebærer, at kommunalbestyrelsen ikke kan nægte at godkende bygninger, der overholder bestemmelserne om byggeretten.
+Byggeretten er retten til at opføre bygninger på en grund, såfremt bestemmelserne i [§§ 170-186](#paragraf-170 "BR18 §§ 170-186"){ .br18-ref } om bebyggelsesprocent, grundens størrelse, etageantal, højde- og afstandsforhold overholdes. Byggeretten indebærer, at kommunalbestyrelsen ikke kan nægte at godkende bygninger, der overholder bestemmelserne om byggeretten.
 
 ### § 169 {#paragraf-169}
 
-Hvis en bygning ikke kan opføres i overensstemmelse med byggeretten, skal bygningernes samlede omfang og indvirkning på omgivelserne fastlægges ved en helhedsvurdering efter bestemmelserne i § 187.
+Hvis en bygning ikke kan opføres i overensstemmelse med byggeretten, skal bygningernes samlede omfang og indvirkning på omgivelserne fastlægges ved en helhedsvurdering efter bestemmelserne i [§ 187](#paragraf-187 "BR18 § 187"){ .br18-ref }.
 
 ### § 170 {#paragraf-170}
 
@@ -60,11 +60,11 @@ Ved udstykning, matrikulering eller arealoverførsel i forbindelse med grunde ti
 
 ### § 174 {#paragraf-174}
 
-Ved fastsættelse af grundens størrelse i § 173, fratrækkes det vejareal eller areal, der skal holdes ubebygget som følge af hjørneafskæring eller byggelinjepålæg til sikring af vejanlæg.
+Ved fastsættelse af grundens størrelse i [§ 173](#paragraf-173 "BR18 § 173"){ .br18-ref }, fratrækkes det vejareal eller areal, der skal holdes ubebygget som følge af hjørneafskæring eller byggelinjepålæg til sikring af vejanlæg.
 
 ### § 175 {#paragraf-175}
 
-Udstykning, matrikulering eller arealoverførsel i forbindelse med grunde til andet byggeri end fritliggende enfamiliehuse og sommerhuse skal ske efter en helhedsvurdering, jf. § 187.
+Udstykning, matrikulering eller arealoverførsel i forbindelse med grunde til andet byggeri end fritliggende enfamiliehuse og sommerhuse skal ske efter en helhedsvurdering, jf. [§ 187](#paragraf-187 "BR18 § 187"){ .br18-ref }.
 
 ### § 176 {#paragraf-176}
 
@@ -106,7 +106,7 @@ Opholdsarealer i det fri, der er hævet mere end 0,3 m fra terræn, udestuer, pr
 
 ### § 180 {#paragraf-180}
 
-Følgende bygninger skal overholde §§ 176 og 177:
+Følgende bygninger skal overholde [§§ 176](#paragraf-176 "BR18 § 176"){ .br18-ref } og [177](#paragraf-177 "BR18 § 177"){ .br18-ref }:
 
 1\) Garager og carporte.
 
@@ -118,11 +118,11 @@ Følgende bygninger skal overholde §§ 176 og 177:
 
 5) Teknikhuse til elektroniske kommunikationsnet og tjenester.
 
-*Stk. 2.* Bygninger, som er omfattet af stk. 1, kan opføres nærmere vej og skel mod nabo og sti end 2,5 m, hvis § 181 overholdes, dog ikke hvis bygningen er integreret i den primære bebyggelse.
+*Stk. 2.* Bygninger, som er omfattet af stk. 1, kan opføres nærmere vej og skel mod nabo og sti end 2,5 m, hvis [§ 181](#paragraf-181 "BR18 § 181"){ .br18-ref } overholdes, dog ikke hvis bygningen er integreret i den primære bebyggelse.
 
 ### § 181 {#paragraf-181}
 
-Opføres en bygning, der er omfattet af § 180, nærmere skel end 2,5 m, skal følgende betingelser være opfyldt:
+Opføres en bygning, der er omfattet af [§ 180](#paragraf-180 "BR18 § 180"){ .br18-ref }, nærmere skel end 2,5 m, skal følgende betingelser være opfyldt:
 
 1\) Ingen del af bygningens ydervægge eller tag, inklusiv eventuel brandkam, må inden for en afstand af 2,5 m fra vej og fra skel mod nabo og sti være højere end 2,5 m.
 
@@ -132,7 +132,7 @@ Opføres en bygning, der er omfattet af § 180, nærmere skel end 2,5 m, skal f�
 
 ### § 182 {#paragraf-182}
 
-Følgende bygninger i tilknytning til sommerhuse skal overholde § 178:
+Følgende bygninger i tilknytning til sommerhuse skal overholde [§ 178](#paragraf-178 "BR18 § 178"){ .br18-ref }:
 
 1\) Garager og carporte.
 
@@ -142,11 +142,11 @@ Følgende bygninger i tilknytning til sommerhuse skal overholde § 178:
 
 4\) Lagertanke for fyringsolie og lignende installationer, som er nødvendige til bygningens drift.
 
-*Stk. 2.* Bygninger, som er omfattet af stk. 1, kan opføres i en afstand fra skel mod nabo og sti fra 2,5 m til 5,0 m, hvis § 183 overholdes, dog ikke hvis bygningen er integreret i den primære bebyggelse.
+*Stk. 2.* Bygninger, som er omfattet af stk. 1, kan opføres i en afstand fra skel mod nabo og sti fra 2,5 m til 5,0 m, hvis [§ 183](#paragraf-183 "BR18 § 183"){ .br18-ref } overholdes, dog ikke hvis bygningen er integreret i den primære bebyggelse.
 
 ### § 183 {#paragraf-183}
 
-Opføres en bygning, der er omfattet af § 182, i en afstand af 2,5 m til 5,0 m fra skel, skal følgende betingelser være opfyldt:
+Opføres en bygning, der er omfattet af [§ 182](#paragraf-182 "BR18 § 182"){ .br18-ref }, i en afstand af 2,5 m til 5,0 m fra skel, skal følgende betingelser være opfyldt:
 
 1\) Ingen del af bygningens ydervægge eller tag, inklusiv eventuel brandkam, må være højere end 2,5 m mod skel mod nabo og sti.
 
@@ -162,11 +162,11 @@ Stk. 2. Gartnerier er omfattet af reglerne i stk. 1, uanset at der ikke er noter
 
 ### § 185 {#paragraf-185}
 
-Fritstående siloer, der opføres som en del af et fodersystem, der er forbundet med driftsbygninger via et transportsystem og siloer, der opføres som en del af en større bygning, som er omfattet af § 184, og som har et tværsnit på højst 80 m², må opføres i en højde af indtil 20,0 m.
+Fritstående siloer, der opføres som en del af et fodersystem, der er forbundet med driftsbygninger via et transportsystem og siloer, der opføres som en del af en større bygning, som er omfattet af [§ 184](#paragraf-184 "BR18 § 184"){ .br18-ref }, og som har et tværsnit på højst 80 m², må opføres i en højde af indtil 20,0 m.
 
 ### § 186 {#paragraf-186}
 
-For fritliggende færdigproducerede sanitetsbygninger omfattet af § 5, stk. 1, nr. 15, kan kommunalbestyrelsen ikke nægte at godkende højde- og afstandsforhold når:
+For fritliggende færdigproducerede sanitetsbygninger omfattet af [§ 5, stk. 1, nr. 15](../../../../administrative-bestemmelser/krav/#paragraf-5 "BR18 § 5"){ .br18-ref }, kan kommunalbestyrelsen ikke nægte at godkende højde- og afstandsforhold når:
 
 1) den maksimale højde på sanitetsbygningen målt fra terræn ikke overstiger 4,00 m, og
 
@@ -176,7 +176,7 @@ For fritliggende færdigproducerede sanitetsbygninger omfattet af § 5, stk. 1, 
 
 ### § 187 {#paragraf-187}
 
-Kommunalbestyrelsen skal foretage en helhedsvurdering, såfremt der er forhold ved et byggeri, der hverken helt eller delvist er reguleret af eller opfylder bestemmelserne om byggeretten i §§ 168-186. Kommunalbestyrelsens helhedsvurdering skal foretages under hensyn til de generelle kriterier i § 188 samt de bebyggelsesregulerende forhold med hensyn til grundens størrelse, afstandsforhold, etageantal, højdeforhold, bebyggelsesprocent og de ubebyggede arealers indretning, jf. kapitel 20.
+Kommunalbestyrelsen skal foretage en helhedsvurdering, såfremt der er forhold ved et byggeri, der hverken helt eller delvist er reguleret af eller opfylder bestemmelserne om byggeretten i [§§ 168-186](#cc9d906d-349e-4970-84c2-8aa8fff56fc9 "BR18 §§ 168-186"){ .br18-ref }. Kommunalbestyrelsens helhedsvurdering skal foretages under hensyn til de generelle kriterier i [§ 188](#paragraf-188 "BR18 § 188"){ .br18-ref } samt de bebyggelsesregulerende forhold med hensyn til grundens størrelse, afstandsforhold, etageantal, højdeforhold, bebyggelsesprocent og de ubebyggede arealers indretning, jf. [kapitel 20](../../../20/krav/ "BR18 kapitel 20"){ .br18-ref }.
 
 ### § 188 {#paragraf-188}
 
@@ -186,25 +186,25 @@ De generelle kriterier, som skal indgå i kommunalbestyrelsens helhedsvurdering,
 
 2\) Der skal under hensyn til bebyggelsens anvendelse sikres tilfredsstillende lysforhold for bebyggelsen og nabobebyggelse samt sikres mod væsentlige indbliksgener i forhold til anden bebyggelse på samme grund og på nabogrunde.
 
-3\) Der skal være tilfredsstillende friarealer i forhold til bebyggelsens anvendelse, herunder opholdsarealer for beboere, brugere og beskæftigede, jf. § 393.
+3\) Der skal være tilfredsstillende friarealer i forhold til bebyggelsens anvendelse, herunder opholdsarealer for beboere, brugere og beskæftigede, jf. [§ 393](../../../20/krav/#paragraf-393 "BR18 § 393"){ .br18-ref }.
 
-4\) Der skal under hensyn til bebyggelsens anvendelse være tilfredsstillende adgangs- og tilkørselsforhold for bebyggelsens brugere, herunder redningsberedskabet, jf. § 393.
+4\) Der skal under hensyn til bebyggelsens anvendelse være tilfredsstillende adgangs- og tilkørselsforhold for bebyggelsens brugere, herunder redningsberedskabet, jf. [§ 393](../../../20/krav/#paragraf-393 "BR18 § 393"){ .br18-ref }.
 
-5\) Der skal være tilstrækkelige parkeringsarealer, jf. §§ 399- 402.
+5\) Der skal være tilstrækkelige parkeringsarealer, jf. [§§ 399- 402](../../../20/krav/#a0ebdcef-79b7-48c5-8637-38df7e622cac "BR18 §§ 399-402"){ .br18-ref }.
 
 6\) Ved bebyggelse i randen af tæt bebyggede byområder, der støder op til et ikke lokalbelagt areal, til et parcel-, sommerhus- eller kolonihaveområde, eller et område med tæt/lav bebyggelse, skal bebyggelsens samlede omfang fastlægges under hensyn til karakteren af de tilstødende arealer og omfanget af eventuel bebyggelse.
 
 ### § 189 {#paragraf-189}
 
-Ved matrikulære ændringer fastlægges grundens størrelse efter de generelle kriterier i § 188.
+Ved matrikulære ændringer fastlægges grundens størrelse efter de generelle kriterier i [§ 188](#paragraf-188 "BR18 § 188"){ .br18-ref }.
 
 ### § 190 {#paragraf-190}
 
-Grundstørrelsen kan kun godkendes, hvis det ud fra en samlet vurdering af forholdet mellem eventuel eksisterende bebyggelse og grundstørrelsen er muligt at bebygge og udnytte ejendommen i overensstemmelse med helhedsvurderingen i § 187 og kravene til ubebyggede arealer i kapitel 20. For at grundstørrelsen kan godkendes, skal der endvidere være mulighed for vejadgang i overensstemmelse med vejlovgivningen.
+Grundstørrelsen kan kun godkendes, hvis det ud fra en samlet vurdering af forholdet mellem eventuel eksisterende bebyggelse og grundstørrelsen er muligt at bebygge og udnytte ejendommen i overensstemmelse med helhedsvurderingen i [§ 187](#paragraf-187 "BR18 § 187"){ .br18-ref } og kravene til ubebyggede arealer i [kapitel 20](../../../20/krav/ "BR18 kapitel 20"){ .br18-ref }. For at grundstørrelsen kan godkendes, skal der endvidere være mulighed for vejadgang i overensstemmelse med vejlovgivningen.
 
 ### § 191 {#paragraf-191}
 
-Bebyggelsens afstand til skel mod nabo, vej eller sti skal fastlægges efter de generelle kriterier i §§ 188 og 192.
+Bebyggelsens afstand til skel mod nabo, vej eller sti skal fastlægges efter de generelle kriterier i [§§ 188](#paragraf-188 "BR18 § 188"){ .br18-ref } og [192](#paragraf-192 "BR18 § 192"){ .br18-ref }.
 
 ### § 192 {#paragraf-192}
 
@@ -218,7 +218,7 @@ I områder med overvejende sluttet randbebyggelse kan kommunalbestyrelsen beslut
 
 ### § 194 {#paragraf-194}
 
-Bebyggelsens højde og etageantal fastlægges efter de generelle kriterier i § 188 med de udvidelser og begrænsninger, der følger af § 195.
+Bebyggelsens højde og etageantal fastlægges efter de generelle kriterier i [§ 188](#paragraf-188 "BR18 § 188"){ .br18-ref } med de udvidelser og begrænsninger, der følger af [§ 195](#paragraf-195 "BR18 § 195"){ .br18-ref }.
 
 ### § 195 {#paragraf-195}
 

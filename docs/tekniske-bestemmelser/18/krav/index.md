@@ -50,7 +50,7 @@ Arbejdsrum mv. og fælles adgangsveje skal:
 
 ### § 383 {#paragraf-383}
 
- § 382 gælder også ved udskiftning af armaturer. Ved udskiftning af armaturer er § 382, stk. 1, nr. 3-5, dog kun gældende, hvor foranstaltningerne samlet set har den fornødne rentabilitet, jf.§ 275.
+ [§ 382](#paragraf-382 "BR18 § 382"){ .br18-ref } gælder også ved udskiftning af armaturer. Ved udskiftning af armaturer er [§ 382, stk. 1, nr. 3-5](#paragraf-382 "BR18 § 382"){ .br18-ref }, dog kun gældende, hvor foranstaltningerne samlet set har den fornødne rentabilitet, jf.[§ 275](../../11/krav/#paragraf-275 "BR18 § 275"){ .br18-ref }.
 
 ### § 384 {#paragraf-384}
 

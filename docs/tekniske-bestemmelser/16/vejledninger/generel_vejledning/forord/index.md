@@ -15,7 +15,7 @@
 
 ### 1. Forord {#65b73685-d9f4-4e3b-8a90-9bcec6a68773}
 
-Denne vejledning omfatter offentligt tilgængelige legepladser mv. og redegøre for, hvordan de kan overholde bygningsreglementet 2018 (BR18), kapitel 16 om legepladser mv. Derudover redegøre vejledningen for hvornår legepladser og legepladsredskaber kan betragtes som offentligt tilgængelige og hvordan de skal indplaceres i brand- og konstruktionsklasser.
+Denne vejledning omfatter offentligt tilgængelige legepladser mv. og redegøre for, hvordan de kan overholde bygningsreglementet 2018 (BR18), [kapitel 16](../../../krav/ "BR18 kapitel 16"){ .br18-ref } om legepladser mv. Derudover redegøre vejledningen for hvornår legepladser og legepladsredskaber kan betragtes som offentligt tilgængelige og hvordan de skal indplaceres i brand- og konstruktionsklasser.
 
 <span id="generelt"></span>
 

@@ -114,7 +114,7 @@ Forsyning med fjernvarme opfylder denne bestemmelse.
 
 Vedvarende energi kan f.eks, være vindkraft, solenergi eller geotermisk energi, ligesom varmepumper opfylder kravet. Den vedvarende energiandel i elforsyningen kan ikke medregnes.
 
-Bestemmelsen gælder ikke renoveringer af kirker, fredede og bevaringsværdige bygninger §278.
+Bestemmelsen gælder ikke renoveringer af kirker, fredede og bevaringsværdige bygninger [§278](../../../krav/#paragraf-278 "BR18 § 278"){ .br18-ref }.
 
 Der kan være lokalplaner, byplanvedtægter eller lignende, som forhindrer installationen af visse typer vedvarende energisystemer. I sådanne tilfælde er installationen af disse vedvarende energisystemer ikke omfattet af kravet.
 
