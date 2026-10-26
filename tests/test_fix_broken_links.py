@@ -37,6 +37,14 @@ class FixBrokenLinksTest(unittest.TestCase):
 
         self.assertEqual(self.fix(), "Se [§§ 126-133](../maal/).\n")
 
+    def test_fragment_several_other_pages_have_is_dropped(self) -> None:
+        self.page("kilde", "Se [Bilag 1a](../bilag---1a/#33520e5b).\n")
+        self.page("bilag-1a")
+        self.page("andet", ids=' id="33520e5b"')
+        self.page("tredje", ids=' id="33520e5b"')
+
+        self.assertEqual(self.fix(), "Se [Bilag 1a](../bilag-1a/).\n")
+
     def test_path_that_differs_in_danish_letters_and_hyphen_runs_resolves(self) -> None:
         self.page("kilde", "Se [Bilag 1a](../enfamiliehuse/bilag-1a---præ-accepterede-løsninger/).\n")
         self.page("enfamiliehuse/bilag-1a-prae-accepterede-loesninger")

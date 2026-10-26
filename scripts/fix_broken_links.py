@@ -136,10 +136,10 @@ def fix_target(
             fragments = present[-1:]
         else:
             hosts = {page for f in fragments for page in site.pages_by_id.get(f, [])}
-            if not hosts:
-                # The origin links a fragment no page has; the page itself is still the target.
+            if len(hosts) != 1:
+                # The origin links a fragment the target lacks and no single other page has; the page is still the target.
                 fragments = []
-            elif len(hosts) == 1:
+            else:
                 host = hosts.pop()
                 fragments = [
                     f for f in fragments if host in site.pages_by_id.get(f, [])
@@ -149,9 +149,6 @@ def fix_target(
                     if host.parent == base
                     else os.path.relpath(host.parent, base) + "/"
                 )
-            else:
-                resolved = False
-                missing.update((current, f) for f in fragments)
     fixed = new_path + "".join(f"#{f}" for f in fragments)
     if new_path == raw_path and fragments == [f for f in fragment_part.split("#") if f]:
         return target, resolved
