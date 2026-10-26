@@ -38,7 +38,7 @@ fi
 
 space='(?:\s|&nbsp;|&#160;|\x{a0})'
 residue="$(rg -n -o -P --glob '*.html' \
-  -e '@@PROTECTED_' \
+  -e '>[^<]*@@PROTECTED_' \
   -e '>[^<]*\*\*' \
   -e "(?:^|[\\s>])\\*{1,3}${space}+\\*{1,3}(?=[\\s<]|$)" \
   -e "<(?:p|li|h[1-6])\\b[^>]*>${space}*\\*+${space}*(?:</|<a class=\"headerlink\")" \

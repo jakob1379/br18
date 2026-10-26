@@ -48,6 +48,14 @@ class BuildCheckTest(unittest.TestCase):
         self.assertIn("missing required anchors", result.stderr)
         self.assertIn("#paragraf-9", result.stderr)
 
+    def test_placeholder_in_a_kept_old_anchor_id_passes(self) -> None:
+        result = self.build(
+            '# Forside\n\n<span id="lovens-@@PROTECTED_32@@s-formaal"></span>\n\nTekst.\n',
+            "\tlovens-@@PROTECTED_32@@s-formaal\t\n",
+        )
+
+        self.assertEqual(result.returncode, 0, result.stderr)
+
     def test_leaked_placeholder_fails(self) -> None:
         result = self.build("# Forside\n\n### @@PROTECTED_17@@s bestemmelser\n\nTekst.\n")
 
