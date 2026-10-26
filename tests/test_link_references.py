@@ -413,9 +413,10 @@ class LinkReferencesTest(unittest.TestCase):
 
     def test_second_run_is_a_no_op(self) -> None:
         self.link("jf. § 39, byggelovens § 25 og kapitel 5.")
-        before = self.read(GUIDE)
+        before, report = self.read(GUIDE), self.unresolved()
         self.assertEqual(self.run_script().returncode, 0)
         self.assertEqual(self.read(GUIDE), before)
+        self.assertEqual(self.unresolved(), report)
 
     # Overrides and the unresolved report
 
@@ -424,6 +425,8 @@ class LinkReferencesTest(unittest.TestCase):
             '[[override]]\npage = "vejledninger/ukendt/index.md"\ntext = "§ 5"\nlaw = "br18"\nreason = "Guide om BR18."\n', encoding="utf-8"
         )
         self.assertEqual(self.link("jf. § 5", page="vejledninger/ukendt"), 'jf. [§ 5](../../administrative-bestemmelser/krav/#paragraf-5 "BR18 § 5"){ .br18-ref }')
+        rerun = self.run_script()
+        self.assertEqual(rerun.returncode, 0, rerun.stderr)
 
     def test_stale_override_fails_the_run(self) -> None:
         (self.data / "xref-overrides.toml").write_text(

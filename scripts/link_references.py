@@ -224,7 +224,7 @@ class Context:
         self.line = line
 
     def __call__(self, start: int, end: int) -> str:
-        return clean(self.line[max(0, start - 60) : end + 30]).strip()
+        return (clean(self.line[:start])[-60:] + clean(self.line[start:end]) + clean(self.line[end:])[:30]).strip()
 
 
 def protected_mask(line: str, in_anchor: bool) -> tuple[str, bool]:
@@ -552,6 +552,13 @@ class Linker:
                 lines[i] = self.link_line(rel, line, masked, html_tag is not None, own_ids, regulation)
         return "\n".join(lines)
 
+    def mark_applied(self, rel: str, markdown: str) -> None:
+        """Overrides whose reference an earlier run already linked are not stale."""
+        for i, entry in enumerate(self.overrides):
+            text = re.escape(entry["text"])
+            if entry["page"] == rel and re.search(rf'\[{text}\]\([^)]*\)\{{ \.br18-ref|class="br18-ref[^"]*"[^>]*>{text}</a>', markdown):
+                self.used_overrides.add(i)
+
     def stale_overrides(self) -> list[dict]:
         return [o for i, o in enumerate(self.overrides) if i not in self.used_overrides]
 
@@ -577,6 +584,7 @@ def main() -> int:
             continue
         markdown = path.read_text(encoding="utf-8")
         new = linker.link_page(rel, markdown)
+        linker.mark_applied(rel, new)
         if new != markdown:
             changed[path] = new
     stale = linker.stale_overrides()
