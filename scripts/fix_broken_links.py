@@ -19,14 +19,12 @@ HEADING_ID_RE = re.compile(r"^(#{1,6} .*?) \{#([^}\s]+)\}\s*$", re.MULTILINE)
 SKIP_PREFIXES = ("mailto:", "tel:", "javascript:", "data:", "/")
 MAX_UPS = 8
 SITE_URL = "https://www.bygningsreglementet.dk/"
-# Links the origin itself gets wrong (404 there), mapped to the page the sweeps chose; see parity-allowlist.toml.
 ORIGIN_DEAD_LINKS = {
     "tekniske-bestemmelser/02/vejledninger/parkering": "tekniske-bestemmelser/20/vejledninger/parkering",
 }
 
 
 def fold(name: str) -> str:
-    """Origin URLs and corpus paths spell one page differently: case, æøå transliterated, repeated hyphens."""
     name = name.casefold().replace("å", "aa").replace("æ", "ae").replace("ø", "oe")
     return re.sub(r"-{2,}", "-", name)
 
@@ -64,7 +62,6 @@ class Site:
         return None
 
     def redirect_target(self, path: Path) -> Path | None:
-        """A link to an origin redirect alias, or to a page the origin itself links wrongly."""
         rel = path.relative_to(self.root).as_posix()
         if rel in ORIGIN_DEAD_LINKS:
             return self.resolve_casefold(self.root / ORIGIN_DEAD_LINKS[rel])
@@ -137,7 +134,6 @@ def fix_target(
         else:
             hosts = {page for f in fragments for page in site.pages_by_id.get(f, [])}
             if len(hosts) != 1:
-                # The origin links a fragment the target lacks and no single other page has; the page is still the target.
                 fragments = []
             else:
                 host = hosts.pop()

@@ -1,14 +1,4 @@
 #!/usr/bin/env python3
-"""Verify the clone's cross-reference links (the `a.br18-ref` links link_references.py writes).
-
-Offline (build check): every a.br18-ref on the built site lands on a target that covers what its title says it
-references: the heading `§ N` or a group `§ A - § B` containing N (a range: its first paragraph), a chapter's page,
-an annex table heading; a retsinformation link uses a law of xref-laws.toml and one of its cached fragment ids.
-The link text must name the number, and no reference markup may show as text.
-
---laws-online (scheduled): ask retsinformation.dk for each law of xref-laws.toml and fail if it is marked
-historical or lost a cached fragment id; with --update, rewrite the cached id lists instead.
-"""
 
 from __future__ import annotations
 
@@ -40,7 +30,6 @@ def key(text: str) -> tuple[int, str]:
 
 
 class Page(HTMLParser):
-    """Ids (with heading text), h1 text and br18-ref links in the article of a built page."""
 
     def __init__(self) -> None:
         super().__init__(convert_charrefs=True)
@@ -261,7 +250,7 @@ def check_laws_online(path: Path, api: str, delay: float, update: bool) -> int:
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    parser = argparse.ArgumentParser()
     parser.add_argument("--site-dir", type=Path, default=REPO / "site")
     parser.add_argument("--laws", type=Path, default=REPO / "xref-laws.toml")
     parser.add_argument("--laws-online", action="store_true", help="check the laws' status on retsinformation.dk (network)")

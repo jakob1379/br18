@@ -36,7 +36,6 @@ ORIGIN_SKIP_CLASSES = {
     "visible--xs",
     "visuallyhidden",
 }
-# md-button links emulate the origin's Krav/Vejledning tab bar, which is chrome on the origin.
 LOCAL_SKIP_CLASSES = {"headerlink", "md-button", "md-content__button", "md-source-file"}
 LINK_SKIP_CLASSES = {"accordion__trigger"}
 VOID_TAGS = {"area", "base", "br", "col", "embed", "hr", "img", "input", "link", "meta", "param", "source", "track", "wbr"}
@@ -66,9 +65,7 @@ CHAPTER_SECTIONS = {
 }
 TYPOGRAPHY = str.maketrans({"\u201c": '"', "\u201d": '"', "\u201e": '"', "\u00ab": '"', "\u00bb": '"', "\u2018": "'", "\u2019": "'", "\u2013": "-", "\u2014": "-", "\u00ad": None, "\u200b": None})
 LIST_MARKER = re.compile(r"^\(?(\d{1,3}|[a-zæøå]|[ivxl]{1,5})[.)]$", re.IGNORECASE)
-# Differing runs without a word still matter when they carry markdown/markup characters (`* *`, `**`, `\*`).
 SIGNIFICANT = re.compile(r"[\w*_`\\#@\[\]{}<>|~^]")
-# The origin CMS escapes some line breaks, so they show as literal `<br/>` text where the clone breaks the line.
 ESCAPED_BR = re.compile(r"<br\s*/?>", re.IGNORECASE)
 
 
@@ -303,7 +300,6 @@ class OriginFetcher:
 
 
 def canonical_page(url: str) -> str:
-    """The origin serves page paths case-insensitively, with or without a trailing slash."""
     p = urlsplit(url)
     path = quote(unquote(p.path).lower(), safe="/")
     if not path.endswith("/") and not Path(path).suffix:
@@ -312,7 +308,6 @@ def canonical_page(url: str) -> str:
 
 
 def _show_all_html(fetcher: OriginFetcher, url: str, links: list[str]) -> str | None:
-    """Accordion pages load collapsed sections on click; their ShowAll view holds the full content."""
     path = urlsplit(url).path
     for link in sorted({canonical_page(u) for u in links}):
         p = urlsplit(link)
@@ -325,7 +320,6 @@ def _show_all_html(fetcher: OriginFetcher, url: str, links: list[str]) -> str | 
 def crawl(
     fetcher: OriginFetcher, sections: set[str], max_pages: int
 ) -> tuple[dict[str, str], dict[str, str], dict[str, str], dict[str, str], dict[str, str]]:
-    """Returns (reference html, own html as served on the page's URL, redirect alias -> target page, fetch errors, origin 4xx)."""
     seed = SITE + "/"
     todo = deque([seed])
     seen: set[str] = set()
@@ -413,9 +407,6 @@ def compare(
     url: str, origin_html: str, docs_root: Path, site_dir: Path, root_url: str | None = None, own_html: str | None = None,
     redirects: dict[str, str] | None = None,
 ) -> list[tuple[str, str]]:
-    """root_url: an alias's guide root; its built page supplies the text, links count from both pages.
-    own_html: what the origin shows on the alias's own URL (its own section open); the subpage must keep that text.
-    redirects: doc of an origin redirect alias -> doc of its target; links on both sides count as the target."""
     redirects = redirects or {}
     doc = page_to_doc(urlsplit(url).path, docs_root)
     doc_rel = doc.relative_to(docs_root).as_posix()
@@ -443,10 +434,8 @@ def compare(
     origin_words = words(ESCAPED_BR.sub(" ", "".join(origin.text)))
     missing_text, extra_text = text_diff(origin_words, words("".join(views[0][0].text)))
     if root_url and built.exists():
-        # A subpage keeps only its own section of the guide, so only its text that the reference lacks counts.
         own_words = words("".join(views[-1][0].text))
         shown = words(ESCAPED_BR.sub(" ", "".join(parse(own_html, "main", None, ORIGIN_SKIP_CLASSES).text))) if own_html else []
-        # The word diff against the long reference can misalign a section-only page; text its own origin page shows is not extra.
         shown_text = f" {' '.join(shown)} "
         extra_text += [f"(own page) {t}" for t in text_diff(origin_words, own_words)[1] if f" {t} " not in shown_text]
         if own_html:
@@ -461,7 +450,6 @@ def compare(
 
 
 def alias_roots(pages: dict[str, str]) -> dict[str, str]:
-    """Guide subpages render the whole guide: a page whose reference text equals an ancestor page's is that guide root's alias."""
     texts = {u: words("".join(parse(h, "main", None, ORIGIN_SKIP_CLASSES).text)) for u, h in pages.items()}
     roots: dict[str, str] = {}
     for url in pages:
@@ -488,7 +476,6 @@ def load_allowlist(path: Path) -> list[dict]:
 def apply_allowlist(
     url: str, diffs: list[tuple[str, str]], allowlist: list[dict], root_url: str | None = None
 ) -> tuple[list[tuple[str, str]], int]:
-    """An alias's items other than its (own page) ones are its guide root's, so the root's entries cover them too."""
     path = urlsplit(url).path
     root = urlsplit(root_url).path if root_url else None
     rules = [(e["kind"], e.get("item"), e["page"] == path) for e in allowlist if e["page"] in (path, root)]

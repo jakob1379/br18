@@ -1,11 +1,4 @@
 #!/usr/bin/env python3
-"""Rebuild the clone's chapter hubs from the pages they stand for, so they cannot go stale.
-
-A chapter hub (docs/<part>/<NN>/index.md, docs/administrative-bestemmelser/index.md) is the chapter's
-krav page with a Krav/Vejledning tab bar, which the origin shows on its krav pages. Its guide page
-(<chapter>/brv/index.md) is the page the origin's "Vejledning" tab opens, with the same tab bar; a brv page
-the origin serves itself keeps its own content.
-"""
 
 from __future__ import annotations
 
@@ -21,12 +14,10 @@ CHAPTERS = ("tekniske-bestemmelser/[0-9][0-9]", "ovrige-bestemmelser/[0-9][0-9]"
 VEJLEDNING_TAB_RE = re.compile(rb'<a href="([^"]+)"[^>]*class="nav-tab__link[^"]*"[^>]*>\s*Vejledning')
 LINK_RE = re.compile(r'(\]\(|\b(?:href|src)=")([^)"\s]+)')
 BUTTON_RE = re.compile(r"^\[[^\]]*\]\([^)]*\)\{ \.md-button[^}]*\}$")
-# keep_anchors.py's compatibility anchors belong to the page they were published on, not to its copies.
 COMPAT_ANCHORS_RE = re.compile(r'^(?:<span id="[^"]+"></span>)+$')
 
 
 def rebase(markdown: str, src: str, dst: str) -> str:
-    """Relative link targets of a page in docs dir `src`, rewritten for the same text in `dst`."""
 
     def repl(match: re.Match[str]) -> str:
         target = match.group(2)
@@ -42,7 +33,6 @@ def rebase(markdown: str, src: str, dst: str) -> str:
 
 
 def title_and_body(markdown: str) -> tuple[str, str]:
-    """The page's H1 and what follows it, without frontmatter or a tab bar from an earlier run."""
     if markdown.startswith("---\n"):
         markdown = markdown[markdown.index("\n---\n", 4) + 5 :]
     lines = markdown.strip().splitlines()
@@ -89,7 +79,7 @@ def build(docs: Path, chapter: str, cache_dir: Path | None) -> None:
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description=__doc__)
+    parser = argparse.ArgumentParser()
     parser.add_argument("--docs-root", default="docs")
     parser.add_argument("--cache-dir", type=Path, help="read origin pages from a parity audit snapshot instead of the network")
     args = parser.parse_args()

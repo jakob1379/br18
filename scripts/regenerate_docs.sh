@@ -1,12 +1,15 @@
 #!/usr/bin/env bash
-# Regenerate corpus pages from the origin, or from a parity audit snapshot with --cache-dir:
-# fetch -> convert -> rebuild chapter hubs -> link cross-references -> build -> keep published anchors -> build -> repair links
-# -> fetch missing referenced files.
-#
-# usage: scripts/regenerate_docs.sh [--cache-dir DIR] [--project DIR] DOCS_SUBDIR...
-#   DOCS_SUBDIR  docs-relative directories whose pages to regenerate, e.g. tekniske-bestemmelser/15
-#   --project    directory holding docs/ and zensical.toml (default: the repository)
 set -euo pipefail
+
+usage() {
+  cat >&2 <<'EOF'
+usage: scripts/regenerate_docs.sh [--cache-dir DIR] [--project DIR] DOCS_SUBDIR...
+  DOCS_SUBDIR  docs-relative directories whose pages to regenerate, e.g. tekniske-bestemmelser/15
+  --cache-dir  read origin pages from a parity audit snapshot instead of the network
+  --project    directory holding docs/ and zensical.toml (default: the repository)
+EOF
+  exit 2
+}
 
 repo="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 project="$repo"
@@ -18,7 +21,7 @@ while [[ $# -gt 0 ]]; do
     *) break ;;
   esac
 done
-[[ $# -gt 0 ]] || { sed -n '6,8p' "$0" >&2; exit 2; }
+[[ $# -gt 0 ]] || usage
 
 docs="$project/docs"
 py=(uv run --project "$repo" python)
@@ -26,7 +29,6 @@ stage="$(mktemp -d)"
 trap 'rm -rf "$stage"' EXIT
 
 mapfile -t urls < <(cd "$docs" && find "$@" -name index.md -printf 'https://www.bygningsreglementet.dk/%h/\n' | sort)
-# Local-only pages (chapter hubs, landing pages) are not on the origin; fetch reports and skips them.
 "${py[@]}" "$repo/scripts/fetch_origin_pages.py" --docs-root "$stage" "${cache[@]}" "${urls[@]}" >/dev/null || true
 "${py[@]}" "$repo/scripts/convert_br18_docs.py" --docs-root "$stage"
 cp -r "$stage/." "$docs/"

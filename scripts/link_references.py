@@ -1,22 +1,4 @@
 #!/usr/bin/env python3
-"""Link each cross-reference in the corpus to its true target, or leave it unlinked and list it.
-
-A deterministic regeneration step (same corpus + data files -> same bytes; a second run is a no-op).
-References: `§ N` (with stk./nr./litra/pkt., ranges and lists), `kapitel N`, `bilag N[, tabel M]`.
-
-Which law a § reference means, first match wins: the instrument named next to it (BR18 before it, a law
-name or genitive before it, `i <law>` after the whole list; conflicting signals leave it unlinked); for a
-reference that names none, a reviewed override (xref-overrides.toml), else the page's default (regulation
-pages are BR18, guides per xref-page-scope.toml, unlisted guides: none), where an uppercase letter suffix
-is never BR18.
-BR18 targets are the chapter's krav page headings (the same page when it has the heading); other laws
-link their current version on retsinformation.dk (xref-laws.toml) at a fragment id cached there.
-Headings, existing links, code, HTML tags and attribute lists are never touched; in raw HTML blocks the
-link is an `<a class="br18-ref">`, elsewhere `[..](..){ .br18-ref }`.
-
-Uncertain references are written to xref-unresolved.tsv; the run fails if that list would grow
-(delete the file to accept a new baseline) or if an override no longer matches its page.
-"""
 
 from __future__ import annotations
 
@@ -218,7 +200,6 @@ def clean(text: str) -> str:
 
 
 class Context:
-    """The cleaned text around a reference, for the unresolved report."""
 
     def __init__(self, line: str) -> None:
         self.line = line
@@ -228,7 +209,6 @@ class Context:
 
 
 def protected_mask(line: str, in_anchor: bool) -> tuple[str, bool]:
-    """The line with protected spans blanked to NUL (same offsets), and whether an <a> stays open."""
     chars = list(line)
     pos = 0
     if in_anchor:
@@ -275,7 +255,6 @@ def parse_item(text: str, pos: int, item_start: int, letter_expected: bool = Fal
 
 
 def followers(text: str, pos: int) -> list[re.Match[str]]:
-    """Further numbers of a list after a chapter or table number: `og 34`, `, 12 og 15`."""
     found = []
     while m := MORE_RE.match(text, pos):
         found.append(m)
@@ -457,7 +436,6 @@ class Linker:
         return line
 
     def scoped_doc(self, line: str, m: re.Match[str]) -> str | None:
-        """BR18 / OTHER / None (not named) for a chapter or annex reference."""
         prefix, postfix = clean(line[: m.start()]), clean(line[m.end() :])
         if GUIDE_TITLE_BEFORE_RE.search(prefix):
             return OTHER
@@ -553,7 +531,6 @@ class Linker:
         return "\n".join(lines)
 
     def mark_applied(self, rel: str, markdown: str) -> None:
-        """Overrides whose reference an earlier run already linked are not stale."""
         for i, entry in enumerate(self.overrides):
             text = re.escape(entry["text"])
             if entry["page"] == rel and re.search(rf'\[{text}\]\([^)]*\)\{{ \.br18-ref|class="br18-ref[^"]*"[^>]*>{text}</a>', markdown):
@@ -571,7 +548,7 @@ def report_rows(unresolved: dict[tuple[str, str, str], list[str]]) -> list[str]:
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    parser = argparse.ArgumentParser()
     parser.add_argument("--docs-root", type=Path, default=REPO / "docs")
     parser.add_argument("--data-dir", type=Path, default=REPO, help="directory with the xref-*.toml files and xref-unresolved.tsv")
     args = parser.parse_args()

@@ -91,10 +91,8 @@ FLATTEN_TAGS = {
     "span",
 }
 
-# Inline markup that markdown writes with delimiters, which cannot open or close next to whitespace.
 EMPHASIS_TAGS = {"b", "em", "i", "strong", "sub", "sup"}
 EMPHASIS_KIND = {"b": "strong", "strong": "strong", "em": "em", "i": "em", "sub": "sub", "sup": "sup"}
-# Opening tags whose leading whitespace and line breaks belong before them.
 EMPHASIS_OPEN_RE = re.compile(r"^<(?:a|b|em|i|strong|sub|sup)\b[^>]*>$")
 
 BLOCK_FLATTEN_TAGS = {
@@ -148,7 +146,6 @@ def rel_path_for_url(url: str, source_dir: Path, docs_root: Path) -> str | None:
         return None
 
     if parsed.path.lower().startswith("/historisk/"):
-        # Historisk content is out of scope, so it stays on the origin.
         return urlunsplit(("https", "www.bygningsreglementet.dk", parsed.path, parsed.query, ""))
 
     path = canonicalize_asset_path(parsed.path or ("/" if parsed.netloc else ""), source_dir, docs_root)
@@ -162,10 +159,7 @@ def rel_path_for_url(url: str, source_dir: Path, docs_root: Path) -> str | None:
         if not local_target.is_relative_to(docs_root):
             return None
 
-    # Origin pages are directories (`/x/vejledning` serves `/x/vejledning/`); only files have a suffix.
-    # A page holds its own ShowAll view, so `?Layout=ShowAll` links point at the page.
     if path.endswith("/") or not local_target.suffix:
-        # The origin serves pages case-insensitively; the corpus keeps them at lowercase paths.
         local_target = docs_root / unquote(local_target.relative_to(docs_root).as_posix()).lower()
         rel = os.path.relpath(local_target, source_dir)
         return "./" if rel == "." else f"{rel}/"
@@ -188,11 +182,10 @@ class Cleaner(HTMLParser):
         self.parts: list[str] = []
         self.skip_depth = 0
         self.stack: list[str] = []
-        self.emphasis: list[str] = []  # open emitted emphasis tags
-        self.links = 0  # open emitted links
+        self.emphasis: list[str] = []
+        self.links = 0
 
     def _before_emphasis_opens(self) -> int:
-        """Index before the emphasis tags just opened, where leading whitespace and breaks belong."""
         index = len(self.parts)
         while index and (EMPHASIS_OPEN_RE.match(self.parts[index - 1]) or not self.parts[index - 1].strip(" \t\n\u00a0")):
             index -= 1
@@ -250,7 +243,6 @@ class Cleaner(HTMLParser):
                 self.parts.insert(before, "<br />")
                 return
             if tag == "br" and self.emphasis:
-                # The converter turns line breaks into paragraph breaks, which emphasis cannot span.
                 for open_tag in reversed(self.emphasis):
                     self._close(open_tag)
                 self.parts.append("<br />")
@@ -264,12 +256,9 @@ class Cleaner(HTMLParser):
             self.skip_depth += 1
             return
 
-        # Markdown cannot nest emphasis of one kind (`**a **b****`), and the inner one adds nothing visible.
         nested = tag in EMPHASIS_TAGS and EMPHASIS_KIND[tag] in {EMPHASIS_KIND[t] for t in self.emphasis}
-        # An unresolved CMS link ("{localLink:umb:...}") leads nowhere; its text stays.
         unlinked = tag == "a" and ("href" not in self._attrs(attrs) or "locallink:" in unquote(self._attrs(attrs)["href"]).lower())
         if tag == "div" and "accordion__tag" in self._attrs(attrs).get("class", "") and not self.links:
-            # A row's tag ("§ 101") is its own paragraph; flattened, it ran into the previous row's text.
             self.stack.append("paragraph")
             self.parts.append("<p>")
             return
@@ -327,7 +316,6 @@ class Cleaner(HTMLParser):
                 self.parts.append(kept)
                 moved.insert(0, text[len(kept):])
             opened = next((i for i in range(len(self.parts) - 1, -1, -1) if re.match(rf"<{tag}\b", self.parts[i])), None)
-            # Emphasis around nothing visible renders as literal `* *`; an emphasised `*` (a multiplication sign) as `*\**`.
             blank = " \t\n\u00a0" + ("*" if tag in {"b", "em", "i", "strong"} else "")
             if tag != "a" and opened is not None and not re.sub(r"<[^>]*>", "", "".join(self.parts[opened + 1 :])).strip(blank):
                 del self.parts[opened]
@@ -446,7 +434,6 @@ def normalize_markdown_linebreak_artifacts(markdown: str) -> str:
     # section references, or URLs.
     def split_item(match: re.Match[str]) -> str:
         line = text[text.rfind("\n", 0, match.start()) + 1 : match.start()]
-        # "(kapitel 8) samt", "(§ 1 - § 47)" and headings are not lists.
         if line.lstrip().startswith("#") or line.count("(") > line.count(")"):
             return match.group(0)
         return "\n\n"
@@ -454,7 +441,6 @@ def normalize_markdown_linebreak_artifacts(markdown: str) -> str:
     for marker in (r"\d{1,2}\)", r"[a-zæøå]\)"):
         text = re.sub(rf"(?<!^)(?<!\\)\s+(?={marker}[ \t]*\S)", split_item, text)
 
-    # An emphasised "- item" line (the origin's typed dash list) becomes a list item like the unemphasised ones.
     text = re.sub(r"(?m)^(\*{1,3})- (?=\S)", r"- \1", text)
 
     text = re.sub(r"\n{3,}", "\n\n", text)
@@ -476,7 +462,6 @@ LINKED_LEGAL_PARAGRAPH_RE = re.compile(
 )
 LEGAL_SECTION_LINK_RE = re.compile(r"^\[(?P<label>§[^\]]+)\]\([^)]*\)\s*$")
 HEADING_LINE_RE = re.compile(r"^(?P<marks>#{1,6})\s+(?P<title>.*?)(?:\s+\{(?P<attrs>[^}]*)\})?\s*$")
-# A capital that starts a word, not a paragraph letter ("§ 16 C, stk. 1").
 INLINE_LEGAL_SPLIT_RE = re.compile(rf"(?<![§\w/])(?={LEGAL_PARAGRAPH}\s+[A-ZÆØÅ][a-zæøå])")
 TRAILING_LEGAL_MARKER_RE = re.compile(rf"^(?P<prefix>.+?)(?P<label>{LEGAL_PARAGRAPH})\s*$", re.IGNORECASE)
 
@@ -666,7 +651,6 @@ def promote_legal_paragraph_headings(markdown: str) -> str:
 UUID = r"[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}"
 
 TRIGGER_TITLE = "br18-accordion-trigger"
-# Accordion triggers, marked by the Cleaner; other uuid links point at other pages' sections.
 UUID_ANCHOR_LINK_RE = re.compile(
     rf"(?P<space>\s*)\[(?P<label>[^\]]*)\]\([^)\s]*#(?P<id>{UUID}) \"{TRIGGER_TITLE}\"\)"
 )
@@ -712,7 +696,6 @@ def attach_anchor_reference_ids(markdown: str) -> str:
         for match in reversed(list(UUID_ANCHOR_LINK_RE.finditer(line))):
             anchor_id = match.group("id")
             label = match.group("label").strip().lower()
-            # A section trigger ends its line; a FAQ question trigger is followed by its answer.
             if label.startswith("gå til") or len(label) > 80 or line[match.end() :].strip():
                 continue
 
@@ -768,15 +751,11 @@ def convert_file(path: Path, docs_root: Path, delete_html: bool) -> bool:
         check=True,
     )
 
-    # Python-Markdown cannot unescape `\<`, so the page would show the backslash.
     markdown = re.sub(r"\[\]\{#[^}]+\}", "", proc.stdout.replace("\\<", "&lt;"))
-    # Links to the origin CMS's internal host (tbstsc.dev.local) are editing leftovers; one often holds
-    # the first letters of the real link that follows ("[Åbn r](dev)[ettelsesblad](pdf)").
     markdown = re.sub(rf"\[([^\]]*)\]\({DEV_LINK}\)(?:\{{[^}}]*\}})?\[", r"[\1", markdown)
     markdown = re.sub(rf"\[([^\]]*)\]\({DEV_LINK}\)(?:\{{[^}}]*\}})?", r"\1", markdown)
     markdown = normalize_media_alias_links(markdown)
     markdown = normalize_duplicate_uuid_fragments(markdown)
-    # The prose passes below split "1)" items and rewrite lines, which breaks table rows.
     tables: list[str] = []
 
     def stash_table(match: re.Match[str]) -> str:
@@ -794,9 +773,7 @@ def convert_file(path: Path, docs_root: Path, delete_html: bool) -> bool:
     markdown = escape_unresolved_reference_labels(markdown)
     markdown = TABLE_TOKEN_RE.sub(lambda m: tables[int(m.group(1))], markdown)
     markdown = markdown.replace(f' "{TRIGGER_TITLE}")', ")")
-    # An empty link to a fragment of the page itself (the "Indholdsoversigt" toggle) shows and does nothing.
     markdown = re.sub(r"\[\]\(#[^)\s]*\)", "", markdown)
-    # The origin's `<h4><br></h4>` spacers make headings without text.
     markdown = re.sub(r"(?m)^#{1,6}[ \t ]*$", "", markdown)
     markdown = re.sub(r"\n{3,}", "\n\n", markdown)
     if output.parent == path:

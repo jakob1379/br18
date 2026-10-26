@@ -18,7 +18,6 @@ TRIGGER_RE = re.compile(rb'<a href="([^"#]*)#[0-9a-f-]{36}"[^>]*class="accordion
 
 
 def is_section_page(html: bytes, url: str) -> bool:
-    """A guide subpage has an accordion trigger pointing at itself; the guide root's triggers point at its subpages."""
     page = urlsplit(url)._replace(query="", fragment="").geturl().rstrip("/").lower()
     return any(t.decode().rstrip("/").lower() == page for t in TRIGGER_RE.findall(html))
 
@@ -37,7 +36,6 @@ def target_path_for_url(docs_root: Path, url: str) -> Path:
 
 
 def cached(cache_dir: Path, url: str) -> tuple[bytes, str]:
-    """The parity audit's origin snapshot: one JSON per page, keyed by the page's canonical URL."""
     parsed = urlsplit(url)
     path = quote(unquote(parsed.path).lower(), safe="/")
     if not path.endswith("/") and not Path(path).suffix:
@@ -50,7 +48,6 @@ def cached(cache_dir: Path, url: str) -> tuple[bytes, str]:
 
 
 def download(url: str, cache_dir: Path | None = None) -> tuple[bytes, str]:
-    """Content and final (post-redirect) URL."""
     if cache_dir:
         return cached(cache_dir, url)
     req = Request(url, headers={"User-Agent": "Mozilla/5.0 (compatible; br18-parity-fetcher/1.0)"})
@@ -65,7 +62,6 @@ def fetch(url: str, target: Path, cache_dir: Path | None = None) -> None:
 
 
 def is_krav_subpage(url: str) -> bool:
-    """A krav subpage shows one paragraph of its chapter; the clone keeps the whole chapter there, as the root has it."""
     parts = urlsplit(url).path.lower().strip("/").split("/")
     return len(parts) > 1 and parts[-2] == "krav"
 

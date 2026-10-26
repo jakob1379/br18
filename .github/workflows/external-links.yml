@@ -22,7 +22,6 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
 
   law-versions:
-    # Scheduled only, gates nothing: fails when retsinformation.dk marks a law of xref-laws.toml historical.
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
