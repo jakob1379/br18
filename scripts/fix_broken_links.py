@@ -11,8 +11,8 @@ from collections import defaultdict
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 
-from audit_br18_parity import SITE
-from fetch_origin_pages import cached
+from audit_br18_parity import SITE, OriginFetcher
+from fetch_origin_pages import download
 
 MARKDOWN_LINK_RE = re.compile(r"(\]\()([^)\s]+)")
 HTML_ATTR_RE = re.compile(r"""((?:href|src)\s*=\s*["'])([^"']+)""")
@@ -31,7 +31,7 @@ def fold(name: str) -> str:
 class Site:
     def __init__(self, site_root: Path, cache_dir: Path | None = None, dead_links: dict[str, str] | None = None) -> None:
         self.root = site_root.resolve()
-        self.cache_dir = cache_dir
+        self.snapshot = OriginFetcher(None, cache_dir, 0) if cache_dir else None
         self.dead_links = dead_links or {}
         self.ids: dict[Path, set[str]] = {}
         self.pages_by_id: dict[str, list[Path]] = defaultdict(list)
@@ -65,10 +65,10 @@ class Site:
         rel = path.relative_to(self.root).as_posix()
         if rel in self.dead_links:
             return self.resolve_casefold(self.root / self.dead_links[rel])
-        if not self.cache_dir:
+        if not self.snapshot:
             return None
         try:
-            _, final = cached(self.cache_dir, f"{SITE}/{rel}/")
+            _, final = download(f"{SITE}/{rel}/", self.snapshot)
         except OSError:
             return None
         return self.resolve_casefold(self.root / urlsplit(final).path.strip("/"))

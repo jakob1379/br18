@@ -18,6 +18,7 @@ from pathlib import Path
 from urllib.parse import quote, unquote, urldefrag, urljoin, urlsplit, urlunsplit
 
 SITE = "https://www.bygningsreglementet.dk"
+DEFAULT_DELAY = 2.0
 HOST = urlsplit(SITE).netloc
 HOSTS = {HOST, HOST.removeprefix("www.")}
 ASSET_EXTS = {".pdf", ".doc", ".docx", ".xls", ".xlsx", ".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg"}
@@ -249,8 +250,8 @@ def section_of(url: str) -> str:
 
 
 class OriginFetcher:
-    def __init__(self, origin: str, cache_dir: Path, delay: float) -> None:
-        self.origin = origin.rstrip("/")
+    def __init__(self, origin: str | None, cache_dir: Path, delay: float) -> None:
+        self.origin = origin.rstrip("/") if origin else None
         self.cache_dir = cache_dir
         self.delay = delay
         self._pw = None
@@ -263,6 +264,8 @@ class OriginFetcher:
         target = cache_file(self.cache_dir, url)
         if target.exists():
             return json.loads(target.read_text(encoding="utf-8"))
+        if self.origin is None:
+            return {"url": url, "final": url, "status": None, "error": "not in the snapshot", "html": ""}
         rec = self._render(url)
         if rec["status"] is not None and rec["status"] < 500:
             target.parent.mkdir(parents=True, exist_ok=True)
@@ -579,7 +582,7 @@ def main() -> int:
     ap.add_argument("--origin", default=SITE)
     ap.add_argument("--cache-dir", default=".cache/parity-origin")
     ap.add_argument("--allowlist", default="parity-allowlist.toml")
-    ap.add_argument("--delay", type=float, default=2.0)
+    ap.add_argument("--delay", type=float, default=DEFAULT_DELAY)
     ap.add_argument("--max-pages", type=int, default=2000)
     ap.add_argument("--output", default="state/br18-parity-audit.md")
     args = ap.parse_args()

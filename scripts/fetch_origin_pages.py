@@ -3,14 +3,13 @@
 from __future__ import annotations
 
 import argparse
-import json
 import re
 import sys
+import tempfile
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
-from urllib.request import Request, urlopen
 
-from audit_br18_parity import HOSTS, SITE, cache_file
+from audit_br18_parity import DEFAULT_DELAY, HOSTS, SITE, OriginFetcher
 
 EXPAND_ALL_RE = re.compile(rb'<a href="([^"]+\?Layout=ShowAll)" class="link--expand-all"')
 TRIGGER_RE = re.compile(rb'<a href="([^"#]*)#[0-9a-f-]{36}"[^>]*class="accordion__trigger')
@@ -34,25 +33,15 @@ def target_path_for_url(docs_root: Path, url: str) -> Path:
     return base / "index.html"
 
 
-def cached(cache_dir: Path, url: str) -> tuple[bytes, str]:
-    record = json.loads(cache_file(cache_dir, url).read_text(encoding="utf-8"))
+def page_source(cache_dir: Path | None, scratch: Path, origin: str = SITE, delay: float = DEFAULT_DELAY) -> OriginFetcher:
+    return OriginFetcher(None, cache_dir, 0) if cache_dir else OriginFetcher(origin, scratch, delay)
+
+
+def download(url: str, pages: OriginFetcher) -> tuple[bytes, str]:
+    record = pages.get(url)
     if record["status"] != 200:
-        raise OSError(f"HTTP {record['status']} in snapshot: {url}")
+        raise OSError(record.get("error") or f"HTTP {record['status']}")
     return record["html"].encode(), record["final"]
-
-
-def download(url: str, cache_dir: Path | None = None) -> tuple[bytes, str]:
-    if cache_dir:
-        return cached(cache_dir, url)
-    req = Request(url, headers={"User-Agent": "Mozilla/5.0 (compatible; br18-parity-fetcher/1.0)"})
-    with urlopen(req, timeout=30) as resp:
-        return resp.read(), resp.geturl()
-
-
-def fetch(url: str, target: Path, cache_dir: Path | None = None) -> None:
-    content, _ = download(url, cache_dir)
-    target.parent.mkdir(parents=True, exist_ok=True)
-    target.write_bytes(content)
 
 
 def is_krav_subpage(url: str) -> bool:
@@ -64,27 +53,34 @@ def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--docs-root", default="docs")
     parser.add_argument("--cache-dir", type=Path, help="read pages from a parity audit origin snapshot instead of the network")
+    parser.add_argument("--origin", default=SITE)
+    parser.add_argument("--delay", type=float, default=DEFAULT_DELAY)
     parser.add_argument("urls", nargs="+")
     args = parser.parse_args()
 
     docs_root = Path(args.docs_root).resolve()
     failed = 0
-    for raw in args.urls:
-        url = raw if raw.startswith("http") else f"{SITE}/{raw.lstrip('/')}"
+    with tempfile.TemporaryDirectory() as scratch:
+        pages = page_source(args.cache_dir, Path(scratch), args.origin, args.delay)
         try:
-            html, final = download(url, args.cache_dir)
-            page = urlsplit(final)._replace(query="", fragment="").geturl()
-            expand_all = EXPAND_ALL_RE.search(html)
-            if expand_all and urlsplit(final).query != "Layout=ShowAll" and (not is_section_page(html, page) or is_krav_subpage(page)):
-                html, _ = download(expand_all.group(1).decode(), args.cache_dir)
-        except OSError as exc:
-            failed += 1
-            print(f"not fetched: {url} ({exc})", file=sys.stderr)
-            continue
-        target = target_path_for_url(docs_root, page)
-        target.parent.mkdir(parents=True, exist_ok=True)
-        target.write_bytes(html)
-        print(target.relative_to(docs_root.parent))
+            for raw in args.urls:
+                url = raw if raw.startswith("http") else f"{SITE}/{raw.lstrip('/')}"
+                try:
+                    html, final = download(url, pages)
+                    page = urlsplit(final)._replace(query="", fragment="").geturl()
+                    expand_all = EXPAND_ALL_RE.search(html)
+                    if expand_all and urlsplit(final).query != "Layout=ShowAll" and (not is_section_page(html, page) or is_krav_subpage(page)):
+                        html, _ = download(expand_all.group(1).decode(), pages)
+                except OSError as exc:
+                    failed += 1
+                    print(f"not fetched: {url} ({exc})", file=sys.stderr)
+                    continue
+                target = target_path_for_url(docs_root, page)
+                target.parent.mkdir(parents=True, exist_ok=True)
+                target.write_bytes(html)
+                print(target.relative_to(docs_root.parent))
+        finally:
+            pages.close()
     return 1 if failed else 0
 
 

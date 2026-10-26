@@ -5,11 +5,12 @@ from __future__ import annotations
 import argparse
 import posixpath
 import re
+import tempfile
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 
-from audit_br18_parity import SITE
-from fetch_origin_pages import download
+from audit_br18_parity import SITE, OriginFetcher
+from fetch_origin_pages import download, page_source
 
 CHAPTERS = ("tekniske-bestemmelser/[0-9][0-9]", "ovrige-bestemmelser/[0-9][0-9]", "straf-og-ikrafttraedelse/[0-9][0-9]")
 VEJLEDNING_TAB_RE = re.compile(rb'<a href="([^"]+)"[^>]*class="nav-tab__link[^"]*"[^>]*>\s*Vejledning')
@@ -48,23 +49,23 @@ def page(title: str, buttons: list[str], body: str, frontmatter_title: str | Non
     return f"{front}# {title}\n\n" + "\n".join(buttons) + f"\n\n{body}\n"
 
 
-def served(url: str, cache_dir: Path | None) -> tuple[bytes, str] | None:
+def served(url: str, pages: OriginFetcher) -> tuple[bytes, str] | None:
     try:
-        return download(url, cache_dir)
+        return download(url, pages)
     except OSError:
         return None
 
 
-def build(docs: Path, chapter: str, cache_dir: Path | None) -> None:
+def build(docs: Path, chapter: str, pages: OriginFetcher) -> None:
     krav = docs / chapter / "krav" / "index.md"
     if not krav.exists():
         return
     title, krav_body = title_and_body(krav.read_text(encoding="utf-8"))
-    own = served(f"{SITE}/{chapter}/krav/", cache_dir)
+    own = served(f"{SITE}/{chapter}/krav/", pages)
     tab = VEJLEDNING_TAB_RE.search(own[0]) if own else None
     guide = unquote(urlsplit(tab.group(1).decode()).path).strip("/").lower() if tab else None
     brv = docs / chapter / "brv" / "index.md"
-    origin_brv = served(f"{SITE}/{chapter}/brv/", cache_dir)
+    origin_brv = served(f"{SITE}/{chapter}/brv/", pages)
     if origin_brv and urlsplit(origin_brv[1]).path.strip("/").lower() == f"{chapter}/brv" and brv.exists():
         brv_body = title_and_body(brv.read_text(encoding="utf-8"))[1]
     elif guide and (docs / guide / "index.md").exists() and guide != f"{chapter}/brv":
@@ -86,8 +87,13 @@ def main() -> int:
     args = parser.parse_args()
     docs = Path(args.docs_root).resolve()
     chapters = sorted(p.relative_to(docs).as_posix() for pattern in CHAPTERS for p in docs.glob(pattern))
-    for chapter in ["administrative-bestemmelser", *chapters]:
-        build(docs, chapter, args.cache_dir)
+    with tempfile.TemporaryDirectory() as scratch:
+        pages = page_source(args.cache_dir, Path(scratch))
+        try:
+            for chapter in ["administrative-bestemmelser", *chapters]:
+                build(docs, chapter, pages)
+        finally:
+            pages.close()
     return 0
 
 

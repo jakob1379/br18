@@ -9,14 +9,21 @@ from html import unescape
 from pathlib import Path
 from urllib.error import HTTPError, URLError
 from urllib.parse import quote, urljoin, urlsplit
+from urllib.request import Request, urlopen
 
 from audit_br18_parity import HOSTS, SITE
-from fetch_origin_pages import fetch
 
 
 MARKDOWN_LINK_RE = re.compile(r"\]\(([^)\s]+)")
 HTML_ATTR_RE = re.compile(r"""(?:href|src|poster)\s*=\s*["']([^"']+)["']""")
 QUERY_ALIAS_RE = re.compile(r"__q_[0-9a-f]+(?=\.[^.]+$)")
+
+
+def fetch(url: str, target: Path) -> None:
+    with urlopen(Request(url, headers={"User-Agent": "Mozilla/5.0 (compatible; br18-parity-fetcher/1.0)"}), timeout=30) as resp:
+        content = resp.read()
+    target.parent.mkdir(parents=True, exist_ok=True)
+    target.write_bytes(content)
 
 
 def iter_targets(markdown: str) -> list[str]:
