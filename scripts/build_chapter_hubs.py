@@ -21,6 +21,8 @@ CHAPTERS = ("tekniske-bestemmelser/[0-9][0-9]", "ovrige-bestemmelser/[0-9][0-9]"
 VEJLEDNING_TAB_RE = re.compile(rb'<a href="([^"]+)"[^>]*class="nav-tab__link[^"]*"[^>]*>\s*Vejledning')
 LINK_RE = re.compile(r'(\]\(|\b(?:href|src)=")([^)"\s]+)')
 BUTTON_RE = re.compile(r"^\[[^\]]*\]\([^)]*\)\{ \.md-button[^}]*\}$")
+# keep_anchors.py's compatibility anchors belong to the page they were published on, not to its copies.
+COMPAT_ANCHORS_RE = re.compile(r'^(?:<span id="[^"]+"></span>)+$')
 
 
 def rebase(markdown: str, src: str, dst: str) -> str:
@@ -46,7 +48,8 @@ def title_and_body(markdown: str) -> tuple[str, str]:
     lines = markdown.strip().splitlines()
     title = next((line[2:].strip() for line in lines if line.startswith("# ")), "")
     body = lines[next((i + 1 for i, line in enumerate(lines) if line.startswith("# ")), 0) :]
-    return title, "\n".join(line for line in body if not BUTTON_RE.match(line)).strip()
+    kept = "\n".join(line for line in body if not BUTTON_RE.match(line) and not COMPAT_ANCHORS_RE.match(line))
+    return title, re.sub(r"\n{3,}", "\n\n", kept).strip()
 
 
 def page(title: str, buttons: list[str], body: str, frontmatter_title: str | None = None) -> str:

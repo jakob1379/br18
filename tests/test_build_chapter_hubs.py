@@ -40,7 +40,11 @@ class ChapterHubsTest(unittest.TestCase):
         chapter = "tekniske-bestemmelser/07"
         self.doc(chapter, "# Gammel kopi\n\nForældet tekst.\n")
         self.doc(f"{chapter}/brv", "# Gammel kopi\n\nForældet vejledning.\n")
-        self.doc(f"{chapter}/krav", "# Byggepladsen (§ 161 - § 165)\n\n### § 161 {#paragraf-161}\n\nSe [§ 162](162/#x) og [bilag](../../../bilag/b1/).\n")
+        self.doc(
+            f"{chapter}/krav",
+            "# Byggepladsen (§ 161 - § 165)\n\n### § 161 {#paragraf-161}\n\n<span id=\"p161\"></span>\n\n"
+            "Se [§ 162](162/#x) og [bilag](../../../bilag/b1/).\n",
+        )
         self.doc(f"{chapter}/vejledninger", "# Byggepladsen (§ 161 - § 165)\n\n- [Generel vejledning](generel_vejledning/)\n")
         tab = f'<a href="{SITE}/{chapter}/vejledninger/" class="nav-tab__link">Vejledning</a>'
         self.origin(f"/{chapter}/krav/", tab)

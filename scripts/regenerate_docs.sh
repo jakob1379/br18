@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # Regenerate corpus pages from the origin, or from a parity audit snapshot with --cache-dir:
-# fetch -> convert -> rebuild chapter hubs -> build -> repair links -> fetch missing referenced files.
+# fetch -> convert -> rebuild chapter hubs -> build -> keep published anchors -> build -> repair links
+# -> fetch missing referenced files.
 #
 # usage: scripts/regenerate_docs.sh [--cache-dir DIR] [--project DIR] DOCS_SUBDIR...
 #   DOCS_SUBDIR  docs-relative directories whose pages to regenerate, e.g. tekniske-bestemmelser/15
@@ -17,7 +18,7 @@ while [[ $# -gt 0 ]]; do
     *) break ;;
   esac
 done
-[[ $# -gt 0 ]] || { sed -n '5,7p' "$0" >&2; exit 2; }
+[[ $# -gt 0 ]] || { sed -n '6,8p' "$0" >&2; exit 2; }
 
 docs="$project/docs"
 py=(uv run --project "$repo" python)
@@ -30,6 +31,8 @@ mapfile -t urls < <(cd "$docs" && find "$@" -name index.md -printf 'https://www.
 "${py[@]}" "$repo/scripts/convert_br18_docs.py" --docs-root "$stage"
 cp -r "$stage/." "$docs/"
 "${py[@]}" "$repo/scripts/build_chapter_hubs.py" --docs-root "$docs" "${cache[@]}"
+uv run --project "$repo" --directory "$project" zensical build --strict
+"${py[@]}" "$repo/scripts/keep_anchors.py" --docs-root "$docs" --site-dir "$project/site" --baseline "$repo/required-anchors.tsv"
 uv run --project "$repo" --directory "$project" zensical build --strict
 "${py[@]}" "$repo/scripts/fix_broken_links.py" --docs-root "$docs" --site-root "$project/site" "${cache[@]}"
 "${py[@]}" "$repo/scripts/sync_referenced_files.py" --docs-root "$docs"
