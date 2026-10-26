@@ -19,7 +19,7 @@ Forslagene til projekteringsværdier er baseret på SBi-anvisning 272 \[3\] samt
 
 Referencer findes i afsnit 1.5.
 
-De angivne forslag til projekteringsværdier omfatter ikke alle rumtyper og anvendelser. Ved projektering bør der derfor for alle byggeriets rum opstilles projektrelevante lydkrav for at sikre tilfredsstillende lydforhold for rummenes brugere, jf. BR18, § 368, stk. 1. Det er specielt vigtigt at være opmærksom på lydisolerende tiltag mod rum med støjende aktiviteter i egen bygning eller i andre erhvervsenheder.
+De angivne forslag til projekteringsværdier omfatter ikke alle rumtyper og anvendelser. Ved projektering bør der derfor for alle byggeriets rum opstilles projektrelevante lydkrav for at sikre tilfredsstillende lydforhold for rummenes brugere, jf. BR18, [§ 368, stk. 1](../../krav/#d020db69-f4ce-4cb5-84ee-a507a2630908 "BR18 § 368"){ .br18-ref }. Det er specielt vigtigt at være opmærksom på lydisolerende tiltag mod rum med støjende aktiviteter i egen bygning eller i andre erhvervsenheder.
 
 **Definitioner af rumtyper for kontorbyggeri**
 
@@ -41,7 +41,7 @@ projektering.
 
 ### 5.1 Lydisolation for kontorbyggeri {#b3ba71ab-4b69-4413-8577-5d81c6a474b6}
 
-Tabel 5.1 indeholder forslag projekteringsværdier for luftlydisolation og trinlydniveau i kontorbyggeri svarende til overholdelse af BR18’s generelle bestemmelse i § 368, stk. 1 om at ”*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen”*
+Tabel 5.1 indeholder forslag projekteringsværdier for luftlydisolation og trinlydniveau i kontorbyggeri svarende til overholdelse af BR18’s generelle bestemmelse i [§ 368, stk. 1](../../krav/#d020db69-f4ce-4cb5-84ee-a507a2630908 "BR18 § 368"){ .br18-ref } om at ”*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen”*
 
 <table>
 <colgroup>
@@ -152,7 +152,7 @@ Projektkrav <sup>2)</sup> </td>
 
 ### 5.2 Støj indendørs fra trafik {#fd62d10c-8645-4fce-8301-f417fb7d86c9}
 
-Tabel 5.2 indeholder forslag til projekteringsværdier for trafikstøj i kontorbyggeri svarende til overholdelse af BR18’s generelle bestemmelse i § 368, stk. 1 om at ”*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen”,* samt supplerende vejledende grænseværdier for trafikstøj indendørs med åbne vinduer*.*
+Tabel 5.2 indeholder forslag til projekteringsværdier for trafikstøj i kontorbyggeri svarende til overholdelse af BR18’s generelle bestemmelse i [§ 368, stk. 1](../../krav/#d020db69-f4ce-4cb5-84ee-a507a2630908 "BR18 § 368"){ .br18-ref } om at ”*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen”,* samt supplerende vejledende grænseværdier for trafikstøj indendørs med åbne vinduer*.*
 
 <table>
 <colgroup>
@@ -187,7 +187,7 @@ Kantiner, receptioner, atrier</p></td>
 
 ### 5.3 Støj fra tekniske installationer {#5ffe9f4e-f2ad-4108-860f-19bb8d45b344}
 
-Tabel 5.3 indeholder forslag til projekteringsværdier for støj fra tekniske installationer i kontorbyggeri svarende til overholdelse af BR18’s generelle bestemmelse i § 368, stk. 1 om at ”*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen”,* samt supplerende vejledende grænseværdier for lavfrekvent støj og infralyd.
+Tabel 5.3 indeholder forslag til projekteringsværdier for støj fra tekniske installationer i kontorbyggeri svarende til overholdelse af BR18’s generelle bestemmelse i [§ 368, stk. 1](../../krav/#d020db69-f4ce-4cb5-84ee-a507a2630908 "BR18 § 368"){ .br18-ref } om at ”*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen”,* samt supplerende vejledende grænseværdier for lavfrekvent støj og infralyd.
 
 <table>
 <colgroup>
@@ -244,7 +244,7 @@ Tabel 5.3 indeholder forslag til projekteringsværdier for støj fra tekniske in
 
 ### 5.4 Rumakustik {#580fa499-be47-4546-83b8-d8ab6b3450ff}
 
-Tabel 5.4 indeholder forslag til projekteringsværdier for efterklangstid og absorptionsareal i kontorbyggeri svarende til overholdelse af BR18’s generelle bestemmelse i § 368, stk. 1 om at ”*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen”.*
+Tabel 5.4 indeholder forslag til projekteringsværdier for efterklangstid og absorptionsareal i kontorbyggeri svarende til overholdelse af BR18’s generelle bestemmelse i [§ 368, stk. 1](../../krav/#d020db69-f4ce-4cb5-84ee-a507a2630908 "BR18 § 368"){ .br18-ref } om at ”*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen”.*
 
 <table>
 <colgroup>

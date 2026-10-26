@@ -26,7 +26,7 @@
 
 ### 5. Affaldsskakte i eksisterende byggeri {#9066c486-cccb-4977-a72e-b70d06564b36}
 
-Hvis bygherre ønsker at nedlægge affaldsskakte i eksisterende byggeri, skal det dokumenteres, at de hensyn, der fremgår af kapitel 3 i BR18 imødekommes.
+Hvis bygherre ønsker at nedlægge affaldsskakte i eksisterende byggeri, skal det dokumenteres, at de hensyn, der fremgår af [kapitel 3](../../../krav/ "BR18 kapitel 3"){ .br18-ref } i BR18 imødekommes.
 
 Det er kommunalbestyrelsen, der er bygningsmyndighed, og derfor træffer afgørelse i sager omfattet af byggeloven, herunder ved spørgsmål om udførelse af affaldssystemer i etagebyggeri.
 

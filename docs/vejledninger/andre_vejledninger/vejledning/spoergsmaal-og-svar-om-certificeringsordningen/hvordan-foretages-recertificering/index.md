@@ -59,7 +59,7 @@
 
 ### Hvordan foretages recertificering? {#4320ecc6-7cae-4ec6-b92f-b01d43ff4a38}
 
-Formål med recertificeringen er, at certificeringsorganet kontroller, at den certificerede fortsat opfylder kravene til kvalifikationer og kompetencer svarende til førstegangscertificeringen samt løbende har ajourført sine kvalifikationer og kompetencer jf. certificeringsbekendtgørelsen §§ 17 og 24.
+Formål med recertificeringen er, at certificeringsorganet kontroller, at den certificerede fortsat opfylder kravene til kvalifikationer og kompetencer svarende til førstegangscertificeringen samt løbende har ajourført sine kvalifikationer og kompetencer jf. certificeringsbekendtgørelsen [§§ 17](https://www.retsinformation.dk/eli/lta/2023/1693#P17 "Certificeringsbekendtgørelsen § 17"){ .br18-ref .br18-ref--ext } og [24](https://www.retsinformation.dk/eli/lta/2023/1693#P24 "Certificeringsbekendtgørelsen § 24"){ .br18-ref .br18-ref--ext }.
 
 Ved certificeringsorganets bedømmelse er det den certificeredes kvalifikationer og kompetencer, der bedømmes. Intentionen er at konstaterer, at den certificeredes kvalifikationer og kompetencer er tilfredsstillende, så at det sandsynliggør, at den certificerede virke sikrer, at bygningsreglementets sikkerhedskrav til bærende konstruktioner eller brandforhold overholdes.
 
@@ -67,13 +67,13 @@ Certificerede rådgivere, der er certificeret til klasse 2-4 samt tredjepartskon
 
 Recertificeringen foretages på baggrund af et  projekt udtaget af certificeringsorganet, og bedømmelsen foretages af den del af projektets dokumentation, som den certificerede har udfærdiget. Det er en betingelse, at den certificeredes kvalifikationer og kompetencer kontrolleres ved et projekt, hvor den certificerede har virket i den højeste klasse, som denne er certificeret til.  
 
-Certificeringsorganet udtager et projekt, som certificeringsorganet har fundet egnet til bedømmelse og hvortil, der er meddelt ibrugtagningstilladelse, på baggrund af de oversigter over projekter, som den certificerede årligt har sendt til certificeringsorganet gennem de forudgående 5 år, jf. certificeringsbekendtgørelsen § 29, stk. 1. 
+Certificeringsorganet udtager et projekt, som certificeringsorganet har fundet egnet til bedømmelse og hvortil, der er meddelt ibrugtagningstilladelse, på baggrund af de oversigter over projekter, som den certificerede årligt har sendt til certificeringsorganet gennem de forudgående 5 år, jf. certificeringsbekendtgørelsen [§ 29, stk. 1](https://www.retsinformation.dk/eli/lta/2023/1693#P29 "Certificeringsbekendtgørelsen § 29"){ .br18-ref .br18-ref--ext }. 
 
-Når certificeringsorganet har udvalgt et projekt, skal dette meddeles skriftligt til den certificerede, jf. certificeringsbekendtgørelsen § 9. Den certificerede skal herefter inden for en frist på fire uger fremsende den ønskede dokumentation. Såfremt den certificerede ikke umiddelbart har adgang til det udvalgte projekts dokumentation, kan den certificerede evt. via bygningsmyndigheden fremskaffe den ønskede dokumentation.
+Når certificeringsorganet har udvalgt et projekt, skal dette meddeles skriftligt til den certificerede, jf. certificeringsbekendtgørelsen [§ 9](https://www.retsinformation.dk/eli/lta/2023/1693#P9 "Certificeringsbekendtgørelsen § 9"){ .br18-ref .br18-ref--ext }. Den certificerede skal herefter inden for en frist på fire uger fremsende den ønskede dokumentation. Såfremt den certificerede ikke umiddelbart har adgang til det udvalgte projekts dokumentation, kan den certificerede evt. via bygningsmyndigheden fremskaffe den ønskede dokumentation.
 
 Certificeringsorganet skal indkalde den certificerede til en mundtlig præsentation, hvor den certificerede kan redegøre for, at der er opnået forståelse for projektets væsentlige forhold, og at den certificerede løbende har ajourført sine kvalifikationer og opretholdt sine kompetencer.
 
-Bedømmelsen skal foretages af mindst to faglige bedømmere, jf. certificeringsbekendtgørelsen § 7, stk. 1. Ved bedømmelse af certificerede, der virker i klasse 2, kan bedømmelsen dog foretages af én faglig bedømmer, jf. certificeringsbekendtgørelsen § 7, stk. 5.
+Bedømmelsen skal foretages af mindst to faglige bedømmere, jf. certificeringsbekendtgørelsen [§ 7, stk. 1](https://www.retsinformation.dk/eli/lta/2023/1693#P7 "Certificeringsbekendtgørelsen § 7"){ .br18-ref .br18-ref--ext }. Ved bedømmelse af certificerede, der virker i klasse 2, kan bedømmelsen dog foretages af én faglig bedømmer, jf. certificeringsbekendtgørelsen [§ 7, stk. 5](https://www.retsinformation.dk/eli/lta/2023/1693#P7 "Certificeringsbekendtgørelsen § 7"){ .br18-ref .br18-ref--ext }.
 
 **Bedømmelsen omfatter som minimum:**
 
@@ -90,7 +90,7 @@ Bedømmelsen skal foretages af mindst to faglige bedømmere, jf. certificeringsb
 
 Bedømmelsen skal dokumenteres skriftligt i en bedømmelsesrapport.
 
-Såfremt certificeringsorganet på baggrund af recertificering vurderer, at den certificerede ikke opfylder kravene til kvalifikationer og kompetencer, kan certificeringsorganet påse, om betingelserne for opretholdelse af certificering er til stede, jf. § 30.
+Såfremt certificeringsorganet på baggrund af recertificering vurderer, at den certificerede ikke opfylder kravene til kvalifikationer og kompetencer, kan certificeringsorganet påse, om betingelserne for opretholdelse af certificering er til stede, jf. [§ 30](https://www.retsinformation.dk/eli/lta/2023/1693#P30 "Certificeringsbekendtgørelsen § 30"){ .br18-ref .br18-ref--ext }.
 
 <span id="hvad-er-proceduren-for-en-byggesag-hvor-der-er-tilknyttet-en-certificeret-statiker-eller-brandradgiver-der-far-frataget-sin-certificering-20052021"></span>
 

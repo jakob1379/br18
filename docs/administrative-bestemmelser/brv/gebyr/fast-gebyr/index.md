@@ -50,7 +50,7 @@
 
 ### 7. Opkrævning af et mindre, fast gebyr {#08c1b6a0-c551-428f-9c8e-9af6bf2affcd}
 
-BR18, § 39, stk. 1, bestemmer, at kommunalbestyrelsen kan vælge at opkræve gebyr efter tidsforbrug eller som et mindre, fast gebyr. Bestemmelsen om det mindre, faste gebyr omfatter alle sagstyper.     Såfremt en kommune beslutter, at der skal opkræves et mindre, fast gebyr, skal kommunalbestyrelsen selv nærmere fastsætte, hvilke typer af byggesager omfattet af bygningsreglementets bestemmelser, der er omfattet af denne type af gebyropkrævning.
+BR18, [§ 39, stk. 1](../../../krav/#paragraf-39 "BR18 § 39"){ .br18-ref }, bestemmer, at kommunalbestyrelsen kan vælge at opkræve gebyr efter tidsforbrug eller som et mindre, fast gebyr. Bestemmelsen om det mindre, faste gebyr omfatter alle sagstyper.     Såfremt en kommune beslutter, at der skal opkræves et mindre, fast gebyr, skal kommunalbestyrelsen selv nærmere fastsætte, hvilke typer af byggesager omfattet af bygningsreglementets bestemmelser, der er omfattet af denne type af gebyropkrævning.
 
 Hvis kommunen vælger at opkræve et mindre, fast gebyr, må indtægterne fra de faste gebyrer samlet set ikke overstige de omkostninger, som kommunen har i forbindelse med byggesagsbehandlingen af de byggesager, som der opkræves et fast gebyr for.  Det betyder, at hvis kommunalbestyrelsen vælger, at der skal opkræves et fast gebyr for opførelsen af sekundære bygninger, herunder f.eks. udhuse og drivhuse på højst 50 m2, må indtægterne fra de faste gebyrer for disse to sagstyper ikke overstige kommunens samlede udgifter til byggesagsbehandlingen af sekundære bygninger på højst 50 m2.
 

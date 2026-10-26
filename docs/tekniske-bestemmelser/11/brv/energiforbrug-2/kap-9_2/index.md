@@ -114,7 +114,7 @@
 
 ### 9.2. Omfang, nye bygninger: {#01860e96-c4ee-4106-9dbc-1a6b67870c70}
 
-Hvis det dimensionerende varmebehov er større end 290 kW skal kravene i § 295 stk. 3. Det samme gælder for det dimensionerende kølebehov, hvis der er mekanisk køling i bygningen. Det dimensionerende varmebehov og det dimensionerende kølebehov opgøres hver for sig. Det er i den sammenhæng uden betydning, hvad summen af dem er.
+Hvis det dimensionerende varmebehov er større end 290 kW skal kravene i [§ 295 stk. 3](../../../krav/#paragraf-295 "BR18 § 295"){ .br18-ref }. Det samme gælder for det dimensionerende kølebehov, hvis der er mekanisk køling i bygningen. Det dimensionerende varmebehov og det dimensionerende kølebehov opgøres hver for sig. Det er i den sammenhæng uden betydning, hvad summen af dem er.
 
 Det dimensionerende varmebehov og det dimensionerende kølebehov bestemmes som beskrevet i DS 418 *Beregning af bygningers varmetab* og DS 469 *Varme og køleanlæg i bygninger*.
 

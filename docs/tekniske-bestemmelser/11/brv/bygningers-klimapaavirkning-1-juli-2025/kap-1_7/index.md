@@ -46,9 +46,9 @@ Fra 1. juli 2025 skal byggeprocessens klimapåvirkning opgøres i forbindelse me
 
 Byggeprocessens klimapåvirkning kommer primært fra transport af materialer og materiel til byggepladsen, energiforbrug på byggepladsen samt affaldshåndtering af byggeaffald og bortkørsel af byggeaffald og affaldsjord.
 
-Man har flere forskellige muligheder for at dokumentere byggeprocessens klimapåvirkning. Dokumentationen kan basere sig på specifikke oplysninger fra byggeprocessen eller man kan benytte de standardværdier, der er indført i bygningsreglementets bilag 2. Denne tilgang sikrer, at man har forskellige måder at dokumentere på afhængigt af ens ønsker i den konkrete byggesag.
+Man har flere forskellige muligheder for at dokumentere byggeprocessens klimapåvirkning. Dokumentationen kan basere sig på specifikke oplysninger fra byggeprocessen eller man kan benytte de standardværdier, der er indført i bygningsreglementets [bilag 2](../../../../../bilag/b2/bilag_2/ "BR18 bilag 2"){ .br18-ref }. Denne tilgang sikrer, at man har forskellige måder at dokumentere på afhængigt af ens ønsker i den konkrete byggesag.
 
-Grænseværdierne for modulerne A4-A5 (byggeprocessen), jf. § 298, stk. 5 og § 297, stk. 15, er hovedsageligt fastsat ud fra rapporten Ressourceforbrug på byggepladsen (BUILD Rapport 2023:14).
+Grænseværdierne for modulerne A4-A5 (byggeprocessen), jf. [§ 298, stk. 5](../../../krav/#paragraf-298 "BR18 § 298"){ .br18-ref } og [§ 297, stk. 15](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref }, er hovedsageligt fastsat ud fra rapporten Ressourceforbrug på byggepladsen (BUILD Rapport 2023:14).
 
 Opgørelsen af klimapåvirkning fra byggeprocessen følger standard DS/EN 15978:2012, dog med nogle modifikationer.
 
@@ -69,7 +69,7 @@ Transport af personer til og fra byggepladsen skal ikke inkluderes ifølge stand
 
 *Hvordan afviger kravet i bygningsreglementet fra standarden?*
 
-Der er flere af de ovenstående processer, der er modificeret i bygningsreglementet, jf. § 297, stk. 9. Modifikationerne fremgår herunder:
+Der er flere af de ovenstående processer, der er modificeret i bygningsreglementet, jf. [§ 297, stk. 9](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref }. Modifikationerne fremgår herunder:
 
 -      Tab og beskadigelse af materialer under transport (i modul A4) kan udelades. Hvis man følger standarden, så skal tab og beskadigelse af materialer under transport medregnes. Derfor vil det belaste bygningens klimapåvirkning, hvis lastbilen på vej til byggepladsen er ude for en ulykke, der medfører beskadigelse af byggematerialerne. Dette behøver man dog ikke at indregne ifølge kravet, da det kunne påvirke resultatet på en måde som indretningen af byggepladsen ikke kan forhindre. Dette gælder ligeledes, hvis man ved levering af materialer kan konstatere, at der er beskadigelser eller defekte materialer, uden der er sket en ulykke. Hvis materialer imidlertid beskadiges på byggepladsen, så vil det dog indgå i byggeprocessens klimapåvirkning.
 - Transport af materiel (i modul A4) der vejer under 1 ton kan udelades. Når man transporterer materiel (fx kraner og stilladser) til og fra byggepladsen, så behøver man ikke opgøre transporten for mindre materiel. Det er materiellets størrelse, og ikke transportens, som afgør om bagatelgrænsen anvendes. Et stillads skal opgøres som et stillads, også hvis stilladset er fordelt på flere sendinger.
@@ -82,7 +82,7 @@ Der er tre metoder til dokumentation af materialers transport fra fabrik til byg
 
 1)    Opgørelse med brændstof- og elforbrug. Det kan opgøres ved måling eller som beregnet ud fra antal kørte kilometer.
 
-2)    Opgørelse baseret på data i EPD’er, jf. § 297, stk. 7.
+2)    Opgørelse baseret på data i EPD’er, jf. [§ 297, stk. 7](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref }.
 
 3)    Opgørelse med standardværdierne i bilag 2, tabel 10
 
@@ -168,7 +168,7 @@ Det vil sige, at klimapåvirkningen fra følgende processer skal opgøres ifølg
 
 *Hvordan afviger kravet i bygningsreglementet fra standarden?*
 
-Der er flere af de ovenstående processer, der er modificeret i bygningsreglementet, jf. § 297, stk. 9. Modifikationerne fremgår herunder:
+Der er flere af de ovenstående processer, der er modificeret i bygningsreglementet, jf. [§ 297, stk. 9](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref }. Modifikationerne fremgår herunder:
 
 -    *Kun byggeproces (i modul A4 og A5) relateret til bygningens bebyggede areal, jf. BBR-bekendtgørelsen, er omfattet.* Der kan foregå andet arbejde på matriklen i forbindelse med en byggesag. Der skal dog kun medregnes den del af byggeprocessen, der henhører til det bebyggede areal, herunder eksempelvis byggemodning og terrænregulering. Derfor vil fx byggematerialer til støttemure i terræn og dieselforbrug til maskiner, der laver terrænregulering uden om bygningens areal, ikke indgå i opgørelsen af bygningens klimapåvirkning.
 

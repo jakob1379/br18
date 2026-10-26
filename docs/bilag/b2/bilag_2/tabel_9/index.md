@@ -36,11 +36,11 @@
 
 ## Tabel 9 – Referenceværdier for beregning af klimapåvirkning, som ikke indgår i beregningen ifølge § 298, stk. 1. {#514f3033-fd6d-4ff2-89eb-53a7752b8945}
 
-For at fastlægge størrelsen af den berettigede øgede klimapåvirkning, der som følge af § 298, stk. 8, ikke skal medregnes, foretages en isoleret beregning af klimapåvirkningen fra den del af bygningen, der er påvirket af det særlige forhold.
+For at fastlægge størrelsen af den berettigede øgede klimapåvirkning, der som følge af [§ 298, stk. 8](../../../../tekniske-bestemmelser/11/krav/#paragraf-298 "BR18 § 298"){ .br18-ref }, ikke skal medregnes, foretages en isoleret beregning af klimapåvirkningen fra den del af bygningen, der er påvirket af det særlige forhold.
 
 Det fastlægges hvad forskellen i klimapåvirkning er mellem den faktiske del af bygningen og en beregnet reference, som udtryk for den forventede klimapåvirkning hvis ikke det særlige forhold havde nødvendiggjort andre valg i byggeriet.
 
-Forskellen imellem den faktiske beregnede klimapåvirkning og referenceværdien medregnes ikke, når man vurderer byggeriet mod grænseværdien i § 298, stk. 1-4.
+Forskellen imellem den faktiske beregnede klimapåvirkning og referenceværdien medregnes ikke, når man vurderer byggeriet mod grænseværdien i [§ 298, stk. 1-4](../../../../tekniske-bestemmelser/11/krav/#paragraf-298 "BR18 § 298"){ .br18-ref }.
 
 Der sondres i det følgende mellem konstruktioner, søjler/bjælker, fundamenter, og installationer.
 
@@ -83,7 +83,7 @@ r er referenceværdien for den givne konstruktion (i kg CO2-ækv. /m2 /år),
 
 m er arealet af den konstruktion, som berøres af det særlige forhold (i m2), og
 
-a er arealet som opgjort ifølge § 297, stk. 5, (i m2).
+a er arealet som opgjort ifølge [§ 297, stk. 5](../../../../tekniske-bestemmelser/11/krav/#paragraf-297 "BR18 § 297"){ .br18-ref }, (i m2).
 
  
 
@@ -101,7 +101,7 @@ r er en referenceværdi på 0,36 kg CO2-ækv. /m2/år,
 
 m er længden af søjlen/bjælken (i m2), og
 
-a er arealet som opgjort ifølge § 297, stk. 5 (i m2).
+a er arealet som opgjort ifølge [§ 297, stk. 5](../../../../tekniske-bestemmelser/11/krav/#paragraf-297 "BR18 § 297"){ .br18-ref } (i m2).
 
  
 
@@ -119,11 +119,11 @@ x er klimapåvirkningen fra materialerne i fundamentet (i kg CO2-ækv.) opgjort 
 
 r er en referenceværdi på 0,33 kg CO2-ækv. /m2 /år,
 
-a er arealet som opgjort ifølge § 297, stk. 5 (i m2).
+a er arealet som opgjort ifølge [§ 297, stk. 5](../../../../tekniske-bestemmelser/11/krav/#paragraf-297 "BR18 § 297"){ .br18-ref } (i m2).
 
 ***Installationer***
 
-For installationer beregnes forskellen mellem den faktiske klimapåvirkning af installationerne og standardværdierne i BR18 bilag 2, tabel 7, øvrige bygningstyper, som i formel 4 herunder.
+For installationer beregnes forskellen mellem den faktiske klimapåvirkning af installationerne og standardværdierne i BR18 [bilag 2, tabel 7](#4f10dbac-ba91-4bad-9f1e-2b7054ec8547 "BR18 bilag 2, tabel 7"){ .br18-ref }, øvrige bygningstyper, som i formel 4 herunder.
 
 Formel 4:
 
@@ -133,11 +133,11 @@ hvor
 
 i er klimapåvirkningen fra materialerne i de faktiske installationer (i kg CO2-ækv.) opgjort over den 50-årige betragtningsperiode,
 
-s er standardværdi for installationer, øvrige bygningstyper (i kg CO2-ækv. / m2/ år), jf. BR18 bilag 2, tabel 7, standardværdier,
+s er standardværdi for installationer, øvrige bygningstyper (i kg CO2-ækv. / m2/ år), jf. BR18 [bilag 2, tabel 7](#4f10dbac-ba91-4bad-9f1e-2b7054ec8547 "BR18 bilag 2, tabel 7"){ .br18-ref }, standardværdier,
 
-eopv er summen (i m2) af det samlede opvarmede etageareal (som opgjort ifølge § 256, stk. 3) plus det opvarmede kælderareal, og
+eopv er summen (i m2) af det samlede opvarmede etageareal (som opgjort ifølge [§ 256, stk. 3](../../../../tekniske-bestemmelser/11/krav/#paragraf-256 "BR18 § 256"){ .br18-ref }) plus det opvarmede kælderareal, og
 
-a er arealet som opgjort ifølge § 297, stk. 5, (i m2).
+a er arealet som opgjort ifølge [§ 297, stk. 5](../../../../tekniske-bestemmelser/11/krav/#paragraf-297 "BR18 § 297"){ .br18-ref }, (i m2).
 
  
 

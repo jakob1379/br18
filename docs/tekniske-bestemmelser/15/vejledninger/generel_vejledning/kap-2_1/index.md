@@ -24,11 +24,11 @@
 
 ### 2.1. Øvrige materialer og konstruktioner {#e21f4f0b-67d2-4c6e-9065-a8a93f4846eb}
 
-Det fremgår af bygningsreglementet 2018, kap. 15, § 352, at det ved anvendelse af materialer og konstruktioner, der ikke er omfattet af bestemmelserne i §§ 345-351, på anden vis skal dokumenteres, at der opnås et sikkerhedsniveau, som beskrevet i § 344.
+Det fremgår af bygningsreglementet 2018, [kap. 15](../../../krav/ "BR18 kapitel 15"){ .br18-ref }, [§ 352](../../../krav/#paragraf-352 "BR18 § 352"){ .br18-ref }, at det ved anvendelse af materialer og konstruktioner, der ikke er omfattet af bestemmelserne i [§§ 345-351](../../../krav/#paragraf-345 "BR18 §§ 345-351"){ .br18-ref }, på anden vis skal dokumenteres, at der opnås et sikkerhedsniveau, som beskrevet i [§ 344](../../../krav/#paragraf-344 "BR18 § 344"){ .br18-ref }.
 
-Glaskonstruktioner er f.eks. ikke omfattet af bestemmelserne i §§ 345-351, og skal dermed dokumenteres på anden vis. I denne sammenhæng omfatter glaskonstruktioner glas som en del af den bærende konstruktion.
+Glaskonstruktioner er f.eks. ikke omfattet af bestemmelserne i [§§ 345-351](../../../krav/#paragraf-345 "BR18 §§ 345-351"){ .br18-ref }, og skal dermed dokumenteres på anden vis. I denne sammenhæng omfatter glaskonstruktioner glas som en del af den bærende konstruktion.
 
-Glas som placeres så der er risiko for at personer kollidere med det er tillige omfattet af bygningsreglementet 2018, kap. 9 og behandles yderligere i *Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger*.
+Glas som placeres så der er risiko for at personer kollidere med det er tillige omfattet af bygningsreglementet 2018, [kap. 9](../../../../09/krav/ "BR18 kapitel 9"){ .br18-ref } og behandles yderligere i *Bygningsreglementets vejledning om glaspartier, glasflader og værn af glas i bygninger*.
 
 For vindmøller kan kravene til konstruktioner anses for opfyldt, når vindmøllen opføres i overensstemmelse med den godkendelse, der er meddelt i henhold til *bekendtgørelse nr. 651 af 26/06/2008 med senere ændringer om teknisk godkendelsesordning for konstruktion, fremstilling og opstilling af vindmøller.*
 

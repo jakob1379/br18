@@ -93,7 +93,7 @@ iii) tilbygninger til eksisterende byggeri med bygningsafsnit i risikoklasse 1,
 iv) bygningsafsnit i risikoklasse 1, der er henført til anvendelseskategori 2, 3 og 5, hvis bygningsafsnittet er brandmæssigt fritliggende.</p></td>
 </tr>
 <tr>
-<td colspan="7">c) De præ-accepterede løsninger kan fraviges som angivet i bilag 4.</td>
+<td colspan="7">c) De præ-accepterede løsninger kan fraviges som angivet i <a class="br18-ref" href="../../../b4/bilag_4/" title="BR18 bilag 4">bilag 4</a>.</td>
 </tr>
 <tr>
 <td colspan="7">d) Herunder orienterende brandprøvning, der ikke vedrører brandteknisk klassifikation af byggevarer eller bygningsdele.</td>

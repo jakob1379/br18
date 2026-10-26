@@ -13,9 +13,9 @@
 
 **Hvilke typer byggeri eller konstruktioner kan undlades at blive indplaceret i en brandklasse? (30-09-2020)**
 
-Byggeri kan, jf. BR18, § 493, stk. 5, undlades at blive indplaceret i en brandklasse, hvis byggeriets udformning eller anvendelse ikke gør det muligt. Dette vil generelt gælde byggerier eller konstruktioner, hvor udformningen eller anvendelsen efter kommunalbestyrelsens vurdering ikke medfører en uacceptabel risiko for personskade i tilfælde af brand.
+Byggeri kan, jf. BR18, [§ 493, stk. 5](../../../krav/#paragraf-493 "BR18 § 493"){ .br18-ref }, undlades at blive indplaceret i en brandklasse, hvis byggeriets udformning eller anvendelse ikke gør det muligt. Dette vil generelt gælde byggerier eller konstruktioner, hvor udformningen eller anvendelsen efter kommunalbestyrelsens vurdering ikke medfører en uacceptabel risiko for personskade i tilfælde af brand.
 
-Følgende er eksempler på byggerier og konstruktioner, der kan undtages for indplacering i en brandklasse, jf. BR18, § 493, stk. 5. Det skal dog bemærkes, at listen ikke er udtømmende, og at bygningen/konstruktionen skal vurderes i den konkrete sag:
+Følgende er eksempler på byggerier og konstruktioner, der kan undtages for indplacering i en brandklasse, jf. BR18, [§ 493, stk. 5](../../../krav/#paragraf-493 "BR18 § 493"){ .br18-ref }. Det skal dog bemærkes, at listen ikke er udtømmende, og at bygningen/konstruktionen skal vurderes i den konkrete sag:
 
 - Fritstående gastanke (uanset indhold)
 - Fritstående tanke til væsker (uanset indhold)

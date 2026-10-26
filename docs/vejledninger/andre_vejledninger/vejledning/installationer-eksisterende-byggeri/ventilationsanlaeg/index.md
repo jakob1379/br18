@@ -43,7 +43,7 @@ I det følgende gennemgås, hvornår bygningsreglementet stiller krav i forhold 
 
 > –    Reparation og vedligeholdelses af varmegenvindingsaggregat (unit).
 
-Kravene til ventilationssystemer er fastsat i bygningsreglementets kapitel 22 *– Ventilation.* Heri henvises til følgende standarder:
+Kravene til ventilationssystemer er fastsat i bygningsreglementets [kapitel 22](../../../../../tekniske-bestemmelser/22/krav/ "BR18 kapitel 22"){ .br18-ref } *– Ventilation.* Heri henvises til følgende standarder:
 
 > –    DS 447, *Ventilation i bygninger – Mekaniske, naturlige og hybride ventilationssystemer*.
 >

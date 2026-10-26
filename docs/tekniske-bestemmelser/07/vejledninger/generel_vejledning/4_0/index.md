@@ -40,7 +40,7 @@
 
 ### 4.0. Gener på anden grund {#6a5d63ae-ad5a-44b3-96d3-3866091d96cc}
 
-Det fremgår af bygningsreglementet 2018, kap. 7, § 164, at byggearbejder ikke må medføre uacceptable gener på anden grund. Det skal ved byggearbejde sikres, at:
+Det fremgår af bygningsreglementet 2018, [kap. 7](../../../krav/ "BR18 kapitel 7"){ .br18-ref }, [§ 164](../../../krav/#paragraf-164 "BR18 § 164"){ .br18-ref }, at byggearbejder ikke må medføre uacceptable gener på anden grund. Det skal ved byggearbejde sikres, at:
 
 1.  Der er udført en tilstrækkelig afskærmning.
 2.  Der ikke er uacceptable støjgener.

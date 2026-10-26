@@ -84,7 +84,7 @@ Funktionsafprøvningen skal dokumentere, at bygningsautomatikken er korrekt inst
 
 Bygningsreglementets krav til funktionsafprøvning af hovedbygningsautomatik er gengivet her:
 
-**§ 296** Der skal gennemføres en funktionsafprøvning af bygningsautomatik inden ibrugtagning. Funktionsafprøvningen skal påvise, at bygningsautomatikken er korrekt installeret og reguleret, virker efter hensigten og giver bygningen den forudsatte energimæssige effektivitet.
+**[§ 296](../../../krav/#paragraf-296 "BR18 § 296"){ .br18-ref }** Der skal gennemføres en funktionsafprøvning af bygningsautomatik inden ibrugtagning. Funktionsafprøvningen skal påvise, at bygningsautomatikken er korrekt installeret og reguleret, virker efter hensigten og giver bygningen den forudsatte energimæssige effektivitet.
 
 ### 8.1 Definition {#2d39d392-81a1-497e-a0b4-2487d2ed9159}
 

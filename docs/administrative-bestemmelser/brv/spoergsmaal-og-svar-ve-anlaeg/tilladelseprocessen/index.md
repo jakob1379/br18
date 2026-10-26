@@ -34,7 +34,7 @@ Som følge af implementeringen af artikel 16 i VEII-direktivet i dansk ret er re
 
 Artikel 16 har til formål at lette den administrative proces for etablering af VE-anlæg for at fremme anvendelse af vedvarende energikilder. Artikel 16 stiller krav om en samlet tidsfrist for tilladelsesprocessen for elproducerende VE-anlæg. Det indebærer, at tilladelsesprocessen for alle relevante tilladelser ikke må overstige to år. For mere om den administrative proces for etablering af VE-anlæg kan henvises til Energistyrelsens hjemmeside: [www.VEprojekter.dk](http://www.VEprojekter.dk)
 
-Da byggetilladelsen er en af flere tilladelser, der kan være relevant ved etablering af elproducerende VE-anlæg, kan behandling af ansøgning om byggetilladelse i forbindelse med disse anlæg blive underlagt tidsfristerne i art. 16. Tidsfristens påbegyndelse, længde m.v. fremgår af kapitel 3 i Energistyrelsens bekendtgørelse om kontaktpunkt og tidsfrist for VE-tilladelser. Det fremgår af BR18 § 11 a, at ansøgning om byggetilladelse til elproducerende VE-anlæg er omfattet af dette kapitel.
+Da byggetilladelsen er en af flere tilladelser, der kan være relevant ved etablering af elproducerende VE-anlæg, kan behandling af ansøgning om byggetilladelse i forbindelse med disse anlæg blive underlagt tidsfristerne i art. 16. Tidsfristens påbegyndelse, længde m.v. fremgår af kapitel 3 i Energistyrelsens bekendtgørelse om kontaktpunkt og tidsfrist for VE-tilladelser. Det fremgår af BR18 [§ 11 a](../../../krav/#paragraf-11a "BR18 § 11a"){ .br18-ref }, at ansøgning om byggetilladelse til elproducerende VE-anlæg er omfattet af dette kapitel.
 
 <span id="i-hvilke-tilflde-skal-der-sges-om-byggetilladelse-ved-etablering-af-elproducerende-ve-anlg"></span>
 

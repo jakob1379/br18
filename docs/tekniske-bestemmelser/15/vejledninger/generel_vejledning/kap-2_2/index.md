@@ -32,9 +32,9 @@
 
 ### 2.2. Telte, teleskopstande, demonterbare tilskuertribuner og lignende transportable konstruktioner {#7d5c293f-3d66-4b91-92f5-978be4d3498b}
 
-Det fremgår af bygningsreglementet 2018, kap. 15, § 353, at telte og lignende transportable konstruktioner skal dimensioneres i overensstemmelse med *DS/EN 13782, Midlertidige konstruktioner – Telte – Sikkerhed med DS/EN 13782 DK NA,* eller på en måde, som sikrer, at de relevante bestemmelser i §§ 344-351 er opfyldt. Endvidere fremgår det af bygningsreglementet, kap. 15, §355 at
+Det fremgår af bygningsreglementet 2018, [kap. 15](../../../krav/ "BR18 kapitel 15"){ .br18-ref }, [§ 353](../../../krav/#paragraf-353 "BR18 § 353"){ .br18-ref }, at telte og lignende transportable konstruktioner skal dimensioneres i overensstemmelse med *DS/EN 13782, Midlertidige konstruktioner – Telte – Sikkerhed med DS/EN 13782 DK NA,* eller på en måde, som sikrer, at de relevante bestemmelser i [§§ 344-351](../../../krav/#paragraf-344 "BR18 §§ 344-351"){ .br18-ref } er opfyldt. Endvidere fremgår det af bygningsreglementet, [kap. 15](../../../krav/ "BR18 kapitel 15"){ .br18-ref }, [§355](../../../krav/#paragraf-355 "BR18 § 355"){ .br18-ref } at
 
-Teleskopstande og demonterbare tilskuertribuner skal dimensioneres i overensstemmelse med henholdsvis *DS/EN 13200-5* og *13200-6* med *DS/EN 13200-5 DK NA* og *DS/EN 13200-6 DK NA*, eller på en måde, som sikrer, at de relevante bestemmelser i §§ 344-351 er opfyldt.
+Teleskopstande og demonterbare tilskuertribuner skal dimensioneres i overensstemmelse med henholdsvis *DS/EN 13200-5* og *13200-6* med *DS/EN 13200-5 DK NA* og *DS/EN 13200-6 DK NA*, eller på en måde, som sikrer, at de relevante bestemmelser i [§§ 344-351](../../../krav/#paragraf-344 "BR18 §§ 344-351"){ .br18-ref } er opfyldt.
 
 For hjælp til forståelsen af de særlige forhold, der ofte knytter sig til dimensioneringen af transportable konstruktioner generelt, henvises der til bygningsreglementets vejledning om konstruktionsforhold i transportable konstruktioner. Vejledningen redegør for projekteringsgrundlaget og lasterne på transportable konstruktioner, og sikrer at konstruktionen har en tilfredsstillende sikkerhed og funktion.
 

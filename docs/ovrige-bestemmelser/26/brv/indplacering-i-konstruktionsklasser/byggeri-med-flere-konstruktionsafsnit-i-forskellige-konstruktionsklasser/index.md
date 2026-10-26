@@ -18,9 +18,9 @@
 
 ### 1.0.2. Byggeri med flere konstruktionsafsnit i forskellige konstruktionsklasser {#f36fe5ab-d092-4603-a060-4edff614fd72}
 
-Hvor et byggeri kan opdeles i forskellige konstruktioner/konstruktionsafsnit, der kan indplaceres i forskellige konstruktionsklasser, bestemmes krav til certificeret statiker som udgangspunkt som den højeste konstruktionsklasse, som de enkelte konstruktioner/konstruktionsafsnit kan indplaceres i. Hvor det kan dokumenteres sikkerhedsmæssigt forsvarligt, kan et byggeri i følge BR18, § 485, stk. 2, opdeles i flere konstruktionsafsnit med forskellige konstruktionsklasse.
+Hvor et byggeri kan opdeles i forskellige konstruktioner/konstruktionsafsnit, der kan indplaceres i forskellige konstruktionsklasser, bestemmes krav til certificeret statiker som udgangspunkt som den højeste konstruktionsklasse, som de enkelte konstruktioner/konstruktionsafsnit kan indplaceres i. Hvor det kan dokumenteres sikkerhedsmæssigt forsvarligt, kan et byggeri i følge BR18, [§ 485, stk. 2](../../../krav/#paragraf-485 "BR18 § 485"){ .br18-ref }, opdeles i flere konstruktionsafsnit med forskellige konstruktionsklasse.
 
-Ifølge BR18, § 533 kan der kun være én certificeret statiker tilknyttet byggesagen med undtagelse af byggeri i konstruktionsklasse 4, hvor der er krav om tredjepartskontrol af en certificeret statiker.
+Ifølge BR18, [§ 533](../../../../32/krav/#paragraf-533 "BR18 § 533"){ .br18-ref } kan der kun være én certificeret statiker tilknyttet byggesagen med undtagelse af byggeri i konstruktionsklasse 4, hvor der er krav om tredjepartskontrol af en certificeret statiker.
 
 Den certificerede statiker skal være certificeret til at virke i den højeste konstruktionsklasse som en konstruktion/konstruktionsafsnit i byggeriet indplaceres i.
 

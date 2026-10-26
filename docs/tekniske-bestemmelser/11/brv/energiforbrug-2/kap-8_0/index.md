@@ -94,7 +94,7 @@
 
 ### 8.0. Bygningsopvarmning {#6375337f-e65d-434b-85f9-1c57c716a8f0}
 
-Bestemmelserne om bygningsopvarmning finder anvendelse på ny bebyggelse, der opføres efter bestemmelsens ikrafttræden og ved udskiftning af opvarmningssystemet i eksisterende bygninger. Hvorvidt omfanget af et ombygningsarbejde må sidestilles med et nybyggeri, beror på en konkret vurdering efter byggelovens § 2, stk. 1, litra b. Bestemmelsen finder tillige anvendelse på eksisterende bebyggelse, hvor der foretages en ombygning eller forandring, der er omfattet af byggelovens § 2, stk. 1, litra e, og som har betydning for opvarmningsformen i bygningen. Dette kan eksempelvis være i de tilfælde, hvor et oliefyr eller en kedel udskiftes.
+Bestemmelserne om bygningsopvarmning finder anvendelse på ny bebyggelse, der opføres efter bestemmelsens ikrafttræden og ved udskiftning af opvarmningssystemet i eksisterende bygninger. Hvorvidt omfanget af et ombygningsarbejde må sidestilles med et nybyggeri, beror på en konkret vurdering efter byggelovens [§ 2, stk. 1, litra b](https://www.retsinformation.dk/eli/lta/2016/1178#P2 "Byggeloven § 2"){ .br18-ref .br18-ref--ext }. Bestemmelsen finder tillige anvendelse på eksisterende bebyggelse, hvor der foretages en ombygning eller forandring, der er omfattet af byggelovens [§ 2, stk. 1, litra e](https://www.retsinformation.dk/eli/lta/2016/1178#P2 "Byggeloven § 2"){ .br18-ref .br18-ref--ext }, og som har betydning for opvarmningsformen i bygningen. Dette kan eksempelvis være i de tilfælde, hvor et oliefyr eller en kedel udskiftes.
 
 Med vedvarende energi forstås energi fra vedvarende ikke-fossile kilder i form af bl.a. vindkraft, solenergi, varmepumper, vandkraft, biomasse, lossepladsgas, gas fra spildevandsanlæg biogas og bioolie.
 

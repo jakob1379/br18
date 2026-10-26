@@ -16,21 +16,21 @@
 
 ### 1.0. Forord {#c4e82f76-29dc-4348-b44f-61a9665f10a8}
 
-Kapitel 11 i bygningsreglementet indeholder krav om bygningers energiforbrug og klimapåvirkning.
+[Kapitel 11](../../../krav/ "BR18 kapitel 11"){ .br18-ref } i bygningsreglementet indeholder krav om bygningers energiforbrug og klimapåvirkning.
 
 Den overordnede metode til beregningen af bygningers klimapåvirkning er baseret på EN 15978:2012 ”Bæredygtighed inden for byggeri og anlæg – Vurdering af bygningers miljømæssige kvalitet – Beregningsmetode”.
 
-Kravet, som fremgår af henholdsvis §§ 297 og 298, indeholder to elementer:
+Kravet, som fremgår af henholdsvis [§§ 297](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref } og [298](../../../krav/#paragraf-298 "BR18 § 298"){ .br18-ref }, indeholder to elementer:
 
-•    Beregning af klimapåvirkning for nybyggeri (§ 297)
+•    Beregning af klimapåvirkning for nybyggeri ([§ 297](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref })
 
-•    Grænseværdier for klimapåvirkning af nybyggeri, som er differentieret på baggrund af bygningstyper (§ 298)
+•    Grænseværdier for klimapåvirkning af nybyggeri, som er differentieret på baggrund af bygningstyper ([§ 298](../../../krav/#paragraf-298 "BR18 § 298"){ .br18-ref })
 
-Ved opførelse af bygninger og tilbygninger skal klimapåvirkningen dokumenteres iht. § 297. Grænseværdierne, der fremgår af § 298 skal overholdes.
+Ved opførelse af bygninger og tilbygninger skal klimapåvirkningen dokumenteres iht. [§ 297](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref }. Grænseværdierne, der fremgår af [§ 298](../../../krav/#paragraf-298 "BR18 § 298"){ .br18-ref } skal overholdes.
 
 Indførelse af krav om dokumentation af bygningers klimapåvirkning samt differentierede grænseværdier er indført på baggrund af National strategi for bæredygtigt byggeri, 2021 [se nærmere her](https://www.sbst.dk/Media/638696001442099861/National-strategi-for-b%C3%A6redygtigt-byggeri-a.pdf){rel="noopener" target="_blank"} (nyt vindue) samt tillægsaftale af 30. maj 2024 til strategi for bæredygtigt byggeri \[se nærmere her: [Tillægsaftale](https://www.sm.dk/Media/638560336830794358/Till%c3%a6gsaftale_om_stramning_af_CO2e-krav_til_bygninger_UA.pdf){rel="noopener" target="_blank"}\].
 
-Formålet med kravene til klimapåvirkning i kapitel 11, hhv. §§ 297 - 298, er at synliggøre og begrænse bygningers klimapåvirkning. Mere specifikt er formålet med § 297 at få dokumenteret bygningers og tilbygningers klimapåvirkning igennem hele livscyklussen, og formålet med § 298 er, at begrænse klimapåvirkningen fra bygninger og tilbygninger.
+Formålet med kravene til klimapåvirkning i kapitel 11, hhv. [§§ 297 - 298](../../../krav/#c64981c6-c158-4e7f-a6e4-11aa7c248abf "BR18 §§ 297-298"){ .br18-ref }, er at synliggøre og begrænse bygningers klimapåvirkning. Mere specifikt er formålet med [§ 297](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref } at få dokumenteret bygningers og tilbygningers klimapåvirkning igennem hele livscyklussen, og formålet med [§ 298](../../../krav/#paragraf-298 "BR18 § 298"){ .br18-ref } er, at begrænse klimapåvirkningen fra bygninger og tilbygninger.
 
 For at have mulighed for at optimere en bygnings klimapåvirkning anbefales det at udarbejde livscyklusvurderingen allerede fra de tidlige designfaser. Livscyklusvurdering kan udføres gennem alle faser af byggeriet med henblik på at etablere beslutningsgrundlag for design- og materialevalg.
 

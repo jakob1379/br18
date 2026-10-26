@@ -52,7 +52,7 @@
 
 **Skal den dokumentation, der indsendes til kommunen sammen med starterklæringen i forbindelse med ansøgning om byggetilladelse, kontrolleres? (30-09-2020)**
 
-Den dokumentation, der indsendes til kommunen sammen med starterklæringen i forbindelse med ansøgning om byggetilladelse, skal være kontrolleret, jf. BR18, bilag 3. Ligeledes skal der foreligge en kontrolplan, der svarer til projektets stade. Eventuelle fejl i dokumentationen bør derfor allerede være håndteret, når dokumentationen er fremsendt til kommunen.
+Den dokumentation, der indsendes til kommunen sammen med starterklæringen i forbindelse med ansøgning om byggetilladelse, skal være kontrolleret, jf. BR18, [bilag 3](../../../../bilag/b3/bilag_3/ "BR18 bilag 3"){ .br18-ref }. Ligeledes skal der foreligge en kontrolplan, der svarer til projektets stade. Eventuelle fejl i dokumentationen bør derfor allerede være håndteret, når dokumentationen er fremsendt til kommunen.
 
 I starterklæringen har den certificerede rådgiver skrevet under på, at den fremsendte dokumentation er kontrolleret og fundet retvisende. Den certificerede rådgiver skal godtgøre, at byggearbejdet vil overholde bygningsreglementets krav for den del, som den certificerede har virket indenfor.
 

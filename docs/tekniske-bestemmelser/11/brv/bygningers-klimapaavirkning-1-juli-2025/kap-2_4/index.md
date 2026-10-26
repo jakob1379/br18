@@ -62,7 +62,7 @@
 
 ### 2.4. Særlige forhold {#5b13625d-860e-4dd3-abef-ba4361094a44}
 
-Grænseværdierne, jf. § 298, stk. 1 og § 297, stk. 9, er hovedsageligt fastsat ud fra erfaringer om almindeligt dansk byggeri, dvs. bygninger, som ikke har særlige bygningsfunktioner, jf. rapporten *Klimapåvirkninger fra 60 bygninger* (BUILD Rapport 2021:13).
+Grænseværdierne, jf. [§ 298, stk. 1](../../../krav/#paragraf-298 "BR18 § 298"){ .br18-ref } og [§ 297, stk. 9](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref }, er hovedsageligt fastsat ud fra erfaringer om almindeligt dansk byggeri, dvs. bygninger, som ikke har særlige bygningsfunktioner, jf. rapporten *Klimapåvirkninger fra 60 bygninger* (BUILD Rapport 2021:13).
 
 Visse bygninger med særlige forhold kan have et berettiget behov for at anvende bestemte materialer eller mængder af materialer, der kan påvirke muligheden for at overholde grænseværdien for klimapåvirkning, som fx sygehuse. Det nødvendige materialeforbrug kan være specielle materialer eller ekstra materialemængder.
 
@@ -115,16 +115,16 @@ Følgende eksempler er udelukkende af vejledende karakter, og det skal altid vur
 
 ### *Beregning af det tillægsgivende forhold*
 
-Det er op til bygningsejer at redegøre for, at der er tale om et særligt forhold. Dette skal fremgå af dokumentationen, jf. §40. Beregningen af, hvor stor en del af bygningens klimapåvirkning, som ikke skal medregnes, foretages efter anvisningerne i BR18, bilag 2, tabel 9. Tabellen indeholder referenceværdier for konstruktioner uden særlige forhold.
+Det er op til bygningsejer at redegøre for, at der er tale om et særligt forhold. Dette skal fremgå af dokumentationen, jf. [§40](../../../../../administrative-bestemmelser/krav/#paragraf-40 "BR18 § 40"){ .br18-ref }. Beregningen af, hvor stor en del af bygningens klimapåvirkning, som ikke skal medregnes, foretages efter anvisningerne i BR18, [bilag 2, tabel 9](../../../../../bilag/b2/bilag_2/#514f3033-fd6d-4ff2-89eb-53a7752b8945 "BR18 bilag 2, tabel 9"){ .br18-ref }. Tabellen indeholder referenceværdier for konstruktioner uden særlige forhold.
 
-Af BR18, bilag 2, tabel 9, fremgår også fire formler (Formel 1, 2, 3 og 4), der skal anvendes til beregning af forskellen.
+Af BR18, [bilag 2, tabel 9](../../../../../bilag/b2/bilag_2/#514f3033-fd6d-4ff2-89eb-53a7752b8945 "BR18 bilag 2, tabel 9"){ .br18-ref }, fremgår også fire formler (Formel 1, 2, 3 og 4), der skal anvendes til beregning af forskellen.
 
 - Formel 1 anvendes, hvis konstruktioner som etage- og kælderdæk, gulv, loft, vægge, tage, terrændæk og pladefundamenter er påvirket af et særlige forhold.
 - Formel 2 anvendes, hvis søjler eller bjælker er påvirket af et særlige forhold.
 - Formel 3 anvendes, hvis fundamenter, som ikke er pladefundamenter, er påvirket af et særlige forhold.
 - Formel 4 anvendes, hvis installationer er påvirket af et særlige forhold.
 
-Forskellen mellem påvirkningen af den faktiske bygningsdel og bygningsdelen, som den beregnes ifølge BR18, bilag 2, tabel 9, medtages ikke i det samlede resultat, jf. § 298.
+Forskellen mellem påvirkningen af den faktiske bygningsdel og bygningsdelen, som den beregnes ifølge BR18, [bilag 2, tabel 9](../../../../../bilag/b2/bilag_2/#514f3033-fd6d-4ff2-89eb-53a7752b8945 "BR18 bilag 2, tabel 9"){ .br18-ref }, medtages ikke i det samlede resultat, jf. [§ 298](../../../krav/#paragraf-298 "BR18 § 298"){ .br18-ref }.
 
 Såfremt resultatet af Formel 1, 3 eller 4 er mindre end 0, udgør det særlige forhold under alle omstændigheder ikke et problem, da klimapåvirkningen fra bygningsdelen holder sig under referenceværdien for en almindelig bygning.
 
@@ -132,15 +132,15 @@ Såfremt resultatet af Formel 1, 3 eller 4 er mindre end 0, udgør det særlige 
 
 ### *Eksempel på beregning af tillæg ved høj last*
 
-En produktionsbygning har behov for særlig høj last på en del af etagedækket grundet tungt procesudstyr. Den høje last vurderes for værende et særligt forhold. Formel 1 anvendes for at beregne forskellen og dermed den øgede klimapåvirkning, som ikke skal indgå i grænseværdien, jf. § 298, stk. 1.
+En produktionsbygning har behov for særlig høj last på en del af etagedækket grundet tungt procesudstyr. Den høje last vurderes for værende et særligt forhold. Formel 1 anvendes for at beregne forskellen og dermed den øgede klimapåvirkning, som ikke skal indgå i grænseværdien, jf. [§ 298, stk. 1](../../../krav/#paragraf-298 "BR18 § 298"){ .br18-ref }.
 
 Formel 1: ((x / 50 år) – (r  m)) / a
 
 hvor
 
-x er klimapåvirkningen fra materialerne i den pågældende bygningskonstruktion (i kg CO~2~-ækv.) opgjort over den 50-årige betragtningsperiode, r er referenceværdien for den givne konstruktion (i kg CO~2~-ækv. /m^2^ /år), m er arealet af den konstruktion, som berøres af det særlige forhold (i m^2^), o a er arealet som opgjort ifølge § 297, stk. 3, (i m^2^).
+x er klimapåvirkningen fra materialerne i den pågældende bygningskonstruktion (i kg CO~2~-ækv.) opgjort over den 50-årige betragtningsperiode, r er referenceværdien for den givne konstruktion (i kg CO~2~-ækv. /m^2^ /år), m er arealet af den konstruktion, som berøres af det særlige forhold (i m^2^), o a er arealet som opgjort ifølge [§ 297, stk. 3](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref }, (i m^2^).
 
-Bygningen er på 2.000 m^2^ referenceareal (referenceareal beregnes, jf. § 297, stk. 3), og den særligt høje last forekommer på et areal på 500 m^2^ af etagedækket. Etagedækket designes i det område både tykkere og med kraftigere armering, hvilket medfører, at konstruktionen i det område har en CO~2~ udledning på 50.000 kg CO~2~-ækvivalenter. Bygningsejer beregner vha. referenceværdierne i BR18, bilag 2, tabel 9, og Formel 1, hvor stor en ekstra klimapåvirkning, som etagedækket har i forhold til en almindelig referencebygning. Arealet, jf. § 297, stk. 3, er på 2.000 m2.
+Bygningen er på 2.000 m^2^ referenceareal (referenceareal beregnes, jf. [§ 297, stk. 3](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref }), og den særligt høje last forekommer på et areal på 500 m^2^ af etagedækket. Etagedækket designes i det område både tykkere og med kraftigere armering, hvilket medfører, at konstruktionen i det område har en CO~2~ udledning på 50.000 kg CO~2~-ækvivalenter. Bygningsejer beregner vha. referenceværdierne i BR18, [bilag 2, tabel 9](../../../../../bilag/b2/bilag_2/#514f3033-fd6d-4ff2-89eb-53a7752b8945 "BR18 bilag 2, tabel 9"){ .br18-ref }, og Formel 1, hvor stor en ekstra klimapåvirkning, som etagedækket har i forhold til en almindelig referencebygning. Arealet, jf. [§ 297, stk. 3](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref }, er på 2.000 m2.
 
 ((50.000 kg CO2-ækv. / 50 år) – (1,30 kg CO2-ækv. /m2 /år 500 m2)) / 2000 m2 = 0,175 kg CO2-ækv./m2/år
 
@@ -182,7 +182,7 @@ Bygninger med specielle sikringskrav som fx museer, militære installationer, ho
 
 ### *Krav som følge af gældende plangrundlag*
 
-Hvis en lokalplan stiller detaljerede krav til en bygnings udformning på bestemte steder, fx i forbindelse med krav om særlig byggestil i bevaringsværdigt bymiljø eller andre krav til bygningens fysiske fremtoning, kan dette krav resultere i en øget klimapåvirkning. Eftersom kravet som følge af plangrundlaget relaterer sig direkte til, hvor bygningen geografisk befinder sig, kan det ifølge § 298, stk. 4, anses for at være en følge af bygningens særlige placering. Der kan sondres mellem hensyn som følge af plankrav og bygningsejers egne valg af udformning. Førstenævnte kan henføres til en placering, sidstnævnte ikke. Ved behov kan der indledes en dialog med kommunen om byggeriet i forhold til lokalplanens krav.
+Hvis en lokalplan stiller detaljerede krav til en bygnings udformning på bestemte steder, fx i forbindelse med krav om særlig byggestil i bevaringsværdigt bymiljø eller andre krav til bygningens fysiske fremtoning, kan dette krav resultere i en øget klimapåvirkning. Eftersom kravet som følge af plangrundlaget relaterer sig direkte til, hvor bygningen geografisk befinder sig, kan det ifølge [§ 298, stk. 4](../../../krav/#paragraf-298 "BR18 § 298"){ .br18-ref }, anses for at være en følge af bygningens særlige placering. Der kan sondres mellem hensyn som følge af plankrav og bygningsejers egne valg af udformning. Førstenævnte kan henføres til en placering, sidstnævnte ikke. Ved behov kan der indledes en dialog med kommunen om byggeriet i forhold til lokalplanens krav.
 
 ### 1.14. Energitillæg {#982dcb96-508a-4510-988f-6075b56a2c68}
 

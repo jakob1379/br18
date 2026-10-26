@@ -31,11 +31,11 @@
 
 ### 3. Byggesagsbehandling af legepladser mv. {#3d15f438-c9f9-4289-bc25-073498fdfaf1}
 
-Legepladser mv. omfattet af BR18, kapitel 16, er også omfattet af kravet om byggetilladelse og færdigmelding.
+Legepladser mv. omfattet af BR18, [kapitel 16](../../../krav/ "BR18 kapitel 16"){ .br18-ref }, er også omfattet af kravet om byggetilladelse og færdigmelding.
 
 Såfremt der sker genanvendelse af tidligere benyttede redskaber, skal disse (såfremt de flyttes) opfylde de samme krav som nye legeredskaber, idet der tale om en nyopførsel.
 
-Ansøgning om byggetilladelse til legepladser mv. skal byggesagsbehandles ud fra de samme principper som andre konstruktioner. Ved ansøgning om byggetilladelse skal ansøgningen indeholde de oplysninger, der er nævnt i BR18, § 10, stk. 1, hvor det er relevant. Dette kan f.eks. være oplysninger om forhold vedrørende kapitel 8 om byggeret og helhedsvurdering og kapitel 20 om ubebyggede arealer ved bebyggelse.
+Ansøgning om byggetilladelse til legepladser mv. skal byggesagsbehandles ud fra de samme principper som andre konstruktioner. Ved ansøgning om byggetilladelse skal ansøgningen indeholde de oplysninger, der er nævnt i BR18, [§ 10, stk. 1](../../../../../administrative-bestemmelser/krav/#paragraf-10 "BR18 § 10"){ .br18-ref }, hvor det er relevant. Dette kan f.eks. være oplysninger om forhold vedrørende [kapitel 8](../../../../08/krav/ "BR18 kapitel 8"){ .br18-ref } om byggeret og helhedsvurdering og [kapitel 20](../../../../20/krav/ "BR18 kapitel 20"){ .br18-ref } om ubebyggede arealer ved bebyggelse.
 
 For yderligere omkring ansøgning om byggetilladelse samt byggesagsbehandling af legepladser mv. henvises der til *[bygningsreglementets vejledning om byggesagsbehandling efter BR18](../../../../../administrative-bestemmelser/brv/vejledning-om-byggesagsbehandling-efter-br18/ "Vejledning om byggesagsbehandling efter BR18").*
 

@@ -32,7 +32,7 @@ Miljøstyrelsen regulerer fyringsanlæg i forhold til luftforurening i brændeov
 
 **Regler i arbejdsmiljølovgivningen af særlig relevans i forbindelse med projektering**
 
-Efter arbejdsmiljølovens § 33 gælder det, at den der rådgiver om eller levere et projekt til et bygge- og anlægsarbejde, i projektet skal tage hensyn til sikkerhed og sundhed ved arbejdets udførelse og driften af det færdige byggeri. Det skal være muligt, at udfører arbejdet med at rense, betjene og vedligeholde mv. energiforsyningsanlæg sikkerheds- og sundhedsmæssigt fuldt forsvarligt. Der skal herunder være sådan tilgang til anlæggene, at arbejdet kan udføres med forsvarlige arbejdsstillinger og -bevægelser, og der skal være sikret mod nedstyrtning i forbindelse med arbejdet.
+Efter arbejdsmiljølovens [§ 33](https://www.retsinformation.dk/eli/lta/2026/442#P33 "Arbejdsmiljøloven § 33"){ .br18-ref .br18-ref--ext } gælder det, at den der rådgiver om eller levere et projekt til et bygge- og anlægsarbejde, i projektet skal tage hensyn til sikkerhed og sundhed ved arbejdets udførelse og driften af det færdige byggeri. Det skal være muligt, at udfører arbejdet med at rense, betjene og vedligeholde mv. energiforsyningsanlæg sikkerheds- og sundhedsmæssigt fuldt forsvarligt. Der skal herunder være sådan tilgang til anlæggene, at arbejdet kan udføres med forsvarlige arbejdsstillinger og -bevægelser, og der skal være sikret mod nedstyrtning i forbindelse med arbejdet.
 
 Reglerne beskrevet ovenfor er fastlagt i arbejdsmiljøloven, yderligere og opdateret information kan findes på Arbejdstilsynets hjemmeside.
 

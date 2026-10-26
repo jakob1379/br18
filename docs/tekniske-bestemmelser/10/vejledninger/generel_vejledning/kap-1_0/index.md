@@ -10,7 +10,7 @@
 
 ### 1.0. Generelt {#115a76d8-c6e0-4817-aca8-800dde891de6}
 
-Det primære formål med kravene i kapitel 10 - Elevatorer, er at sikrer, at brugerne ved egen hjælp har adgang til bygningens etager og derved kan komme til bygningens funktioner. Derudover er formålet også at opnå et forsvarligt sikkerhedsniveau og begrænse energiforbruget ved design, udførelse, drift og vedligehold af elevatorerne.
+Det primære formål med kravene i [kapitel 10](../../../krav/ "BR18 kapitel 10"){ .br18-ref } - Elevatorer, er at sikrer, at brugerne ved egen hjælp har adgang til bygningens etager og derved kan komme til bygningens funktioner. Derudover er formålet også at opnå et forsvarligt sikkerhedsniveau og begrænse energiforbruget ved design, udførelse, drift og vedligehold af elevatorerne.
 
 Der henvises til [vejledning om installationer i eksisterende bygninger](../../../../../vejledninger/andre_vejledninger/vejledning/installationer-eksisterende-byggeri/ "Installationer eksisterende byggeri")
 

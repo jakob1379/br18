@@ -20,7 +20,7 @@
 
 ## Tabel 4a – Mindstekrav til niveau af uafhængig kontrol af den brandtekniske dokumentation i forhold til brandklassen (BK), jf. § 527 {#70e9033b-e54d-4d70-a177-b79123afcc9a}
 
-*Tabel 4a – Mindstekrav til niveau af uafhængig kontrol af den brandtekniske dokumentation i forhold til brandklassen (BK), jf. § 527*
+*Tabel 4a – Mindstekrav til niveau af uafhængig kontrol af den brandtekniske dokumentation i forhold til brandklassen (BK), jf. [§ 527](../../../../ovrige-bestemmelser/30/krav/#paragraf-527 "BR18 § 527"){ .br18-ref }*
 
 <table>
 <colgroup>
@@ -46,7 +46,7 @@
 </td>
 </tr>
 <tr>
-<td>Dokumentation for, hvorledes byggeriet opfylder §§ 126-133 vedrørende redningsberedskabets indsatsforhold</td>
+<td>Dokumentation for, hvorledes byggeriet opfylder <a class="br18-ref" href="../../../../tekniske-bestemmelser/05/krav/#0875873c-27b3-435c-b6aa-6d7bb2a978d7" title="BR18 §§ 126-133">§§ 126-133</a> vedrørende redningsberedskabets indsatsforhold</td>
 <td>Max.<br />
 </td>
 <td>Max.<br />
@@ -153,8 +153,8 @@
 <td>Udv.<sup>3)</sup></td>
 </tr>
 <tr>
-<td colspan="4"><p>1) Ved fravigelser af de præ-accepterede løsninger i brandklasse 2, jf. bilag 4.</p>
-<p>2) I medfør af Bygningsreglementets vejledning til kapitel 5 – Brand, kapitel 8: Eftervisning.</p>
+<td colspan="4"><p>1) Ved fravigelser af de præ-accepterede løsninger i brandklasse 2, jf. <a class="br18-ref" href="../../../b4/bilag_4/" title="BR18 bilag 4">bilag 4</a>.</p>
+<p>2) I medfør af Bygningsreglementets vejledning til kapitel 5 – Brand, <a class="br18-ref" href="../../../../tekniske-bestemmelser/08/krav/" title="BR18 kapitel 8">kapitel 8</a>: Eftervisning.</p>
 <p>3) BK er den højeste brandklasse, som er gældende for det eller de bygningsafsnit, hvor i det enkelte brandsikringstiltag er placeret.</p></td>
 </tr>
 </tbody>

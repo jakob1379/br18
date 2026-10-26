@@ -40,7 +40,7 @@
 
 Hvis kommunalbestyrelsen vurderer, at der skal etableres et antal parkeringspladser i forbindelse med, at der opføres et byggeri eller et eksisterende byggeri ombygges eller ændrer anvendelse, vil ansøgeren i forbindelse med ansøgningen om byggetilladelse kunne søge om en fravigelse fra dette parkeringskrav på egen grund.
 
-Hjemlen til at fravige et af kommunen fastsat parkeringskrav på egen grund følger af byggelovens § 22, stk. 6. Bestemmelsen fastsætter kommunalbestyrelsens mulighed for at fravige kravet om etablering af parkeringsarealer på egen grund.  Parkeringskravet kan dog kun fraviges ved, at der enten sker indbetaling til en parkeringsfond, eller, at der foreligger et andet forpligtende grundlag om, at parkeringsarealerne etableres på en anden ejendom end den ejendom, hvorpå byggeriet opføres.
+Hjemlen til at fravige et af kommunen fastsat parkeringskrav på egen grund følger af byggelovens [§ 22, stk. 6](https://www.retsinformation.dk/eli/lta/2016/1178#P22 "Byggeloven § 22"){ .br18-ref .br18-ref--ext }. Bestemmelsen fastsætter kommunalbestyrelsens mulighed for at fravige kravet om etablering af parkeringsarealer på egen grund.  Parkeringskravet kan dog kun fraviges ved, at der enten sker indbetaling til en parkeringsfond, eller, at der foreligger et andet forpligtende grundlag om, at parkeringsarealerne etableres på en anden ejendom end den ejendom, hvorpå byggeriet opføres.
 
 Der er i bekendtgørelse nr. 146 af 12. februar 2015 om dispensation fra parkeringskrav, når der foreligger et forpligtende aftalegrundlag, fastsat bestemmelser for kommunalbestyrelsens mulighed for at fravige kravet om etablering af parkeringsarealer på egen grund.
 
@@ -68,7 +68,7 @@ Tilladelser og dispensationer, der meddeles i henhold til byggeloven, er som udg
 
 Da forpligtelsen følger ejendommen, er det, i tilfælde af, at de involverede ejendomme sælges, nødvendigt at tinglyse det andet forpligtende grundlag både på den ejendom, hvor parkeringskravet fraviges og på den ejendom, hvor parkeringspladserne i stedet etableres.
 
-Tinglysningen af aftalen om det andet forpligtende grundlag på den ejendom, hvor parkeringskravet fraviges, kan med hjemmel i byggelovens § 27 tinglyses som en meddelelse. Tinglysningen af aftalen om det andet forpligtende grundlag på den ejendom, hvor parkeringspladserne etableres, skal tinglyses som en deklaration, idet byggelovens § 27 om tinglysning af meddelelser ikke kan anvendes, hvis vilkåret for en dispensation vedrører en anden ejendom end den, der har modtaget dispensationen.
+Tinglysningen af aftalen om det andet forpligtende grundlag på den ejendom, hvor parkeringskravet fraviges, kan med hjemmel i byggelovens [§ 27](https://www.retsinformation.dk/eli/lta/2016/1178#P27 "Byggeloven § 27"){ .br18-ref .br18-ref--ext } tinglyses som en meddelelse. Tinglysningen af aftalen om det andet forpligtende grundlag på den ejendom, hvor parkeringspladserne etableres, skal tinglyses som en deklaration, idet byggelovens [§ 27](https://www.retsinformation.dk/eli/lta/2016/1178#P27 "Byggeloven § 27"){ .br18-ref .br18-ref--ext } om tinglysning af meddelelser ikke kan anvendes, hvis vilkåret for en dispensation vedrører en anden ejendom end den, der har modtaget dispensationen.
 
 ***Nye parkeringspladser - tilvækstkravet***
 

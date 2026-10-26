@@ -156,7 +156,7 @@ Det specifikke elforbrug til lufttransport må ikke overstige:
 
 ### § 437 {#paragraf-437}
 
-§ 436 gælder ikke for anlæg knyttet til industrielle processer.
+[§ 436](#paragraf-436 "BR18 § 436"){ .br18-ref } gælder ikke for anlæg knyttet til industrielle processer.
 
 ### § 438 {#paragraf-438}
 
@@ -168,7 +168,7 @@ Ventilationsanlæg, hvor elforbruget til ventilatorer overstiger 3.000 kWh pr. �
 
 ### § 440 {#paragraf-440}
 
-§ 439 gælder ikke, hvis et eksisterende ventilationsanlæg udvides til at dække andre lokaler i bygningen.
+[§ 439](#paragraf-439 "BR18 § 439"){ .br18-ref } gælder ikke, hvis et eksisterende ventilationsanlæg udvides til at dække andre lokaler i bygningen.
 
 ### § 441 {#paragraf-441}
 
@@ -176,7 +176,7 @@ I ventilationsanlæg, hvor varmeforbruget til varmeflader overstiger 10.000 kWh 
 
 ### § 442 {#paragraf-442}
 
-Målere, der anvendes til måling af elforbrug eller varme i henhold til §§ 438, 439 og 441, skal have en tilfredsstillende nøjagtighed. [![](../../assets/img/linkbox/ds_en_linkbox.svg)](#)
+Målere, der anvendes til måling af elforbrug eller varme i henhold til [§§ 438](#paragraf-438 "BR18 § 438"){ .br18-ref }, [439](#paragraf-439 "BR18 § 439"){ .br18-ref } og [441](#paragraf-441 "BR18 § 441"){ .br18-ref }, skal have en tilfredsstillende nøjagtighed. [![](../../assets/img/linkbox/ds_en_linkbox.svg)](#)
 
 ### DS/EN 14511-1
 
@@ -230,7 +230,7 @@ I beboelsesrum såvel som i boligen totalt skal der være en udelufttilførsel p
 
 ### § 446 {#paragraf-446}
 
-Enfamiliehuse kan ventileres ved naturlig ventilation eller en kombination af naturlig- og mekanisk ventilation. For enfamiliehuse med naturlig ventilation gælder § 443, stk. 1, 3 og 4.
+Enfamiliehuse kan ventileres ved naturlig ventilation eller en kombination af naturlig- og mekanisk ventilation. For enfamiliehuse med naturlig ventilation gælder [§ 443, stk. 1, 3 og 4](#paragraf-443 "BR18 § 443"){ .br18-ref }.
 
 <span id="ventilation-af-daginstitutioner-og-undervisningsrum"></span>
 
@@ -264,7 +264,7 @@ Der skal gennemføres en funktionsafprøvning af ventilationssystemet før ibrug
 
 ### § 451 {#paragraf-451}
 
-Rensning, drift, service og vedligehold af ventilationssystemer skal ske, så de holdes i en teknisk og hygiejnisk forsvarlig stand, og så de til enhver tid overholder bestemmelserne i §§ 421-449. Rensning, drift, service og vedligehold af ventilationssystemer skal ske som anvist i DS 447 Ventilation i bygninger – Mekaniske, naturlige og hybride ventilationssystemer.
+Rensning, drift, service og vedligehold af ventilationssystemer skal ske, så de holdes i en teknisk og hygiejnisk forsvarlig stand, og så de til enhver tid overholder bestemmelserne i [§§ 421-449](#paragraf-421 "BR18 §§ 421-449"){ .br18-ref }. Rensning, drift, service og vedligehold af ventilationssystemer skal ske som anvist i DS 447 Ventilation i bygninger – Mekaniske, naturlige og hybride ventilationssystemer.
 
 ### § 452 {#paragraf-452}
 

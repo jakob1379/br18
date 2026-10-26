@@ -110,7 +110,7 @@
 
 ### 3.5.1. Dokumentation for indplacering i brandklasse 1 {#6a8a34ff-b88b-4312-95fe-04c1c6fd5bd9}
 
-Dokumentation for indplacering i brandklasse 1 skal følge § 511. Det følger heraf, at dokumentationen skal indeholde en overordnet brandstrategi for byggeriet samt tegninger, der viser byggeriets udformning, og som underbygger, at den valgte brandstrategi kan indarbejdes i byggeriet.
+Dokumentation for indplacering i brandklasse 1 skal følge [§ 511](../../../../ovrige-bestemmelser/29/krav/#paragraf-511 "BR18 § 511"){ .br18-ref }. Det følger heraf, at dokumentationen skal indeholde en overordnet brandstrategi for byggeriet samt tegninger, der viser byggeriets udformning, og som underbygger, at den valgte brandstrategi kan indarbejdes i byggeriet.
 
 Brandklasse 1 (BK1), som omfatter byggeri i risikoklasse 1, hvor hvert bygningsafsnit har et samlet etageareal, der er mindre end 600 m2. De tekniske løsninger skal udføres i overensstemmelse med de præ-accepterede løsninger, som er beskrevet i Bygningsreglementets vejledning til kapitel 5 - Brand. Til overholdelse af krav til byggeri i brandklasse 1 må der alene anvendes simple brandtekniske installationer, og håndslukningsudstyr.
 

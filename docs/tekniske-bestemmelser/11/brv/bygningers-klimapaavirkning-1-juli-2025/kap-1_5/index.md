@@ -36,15 +36,15 @@
 
 For at kunne opgøre en bygnings samlede klimapåvirkning skal der knyttes miljødata til de forskellige bygningsdele og materialer, der indgår i bygningen. Miljødata indeholder informationer om klimapåvirkningen pr. enhed produkt, og udgør derfor et vigtigt element i en livscyklusvurdering.
 
-Ved beregning af klimapåvirkningen skal der for hvert materiale, som indgår i bygningen, anvendes et datasæt fra BR18, bilag 2, tabel 7, eller data fra miljøvaredeklarationer (EPD’er). Hvis der anvendes EPD’er skal reglerne jf. § 297, stk. 8 følges.
+Ved beregning af klimapåvirkningen skal der for hvert materiale, som indgår i bygningen, anvendes et datasæt fra BR18, [bilag 2, tabel 7](../../../../../bilag/b2/bilag_2/#4f10dbac-ba91-4bad-9f1e-2b7054ec8547 "BR18 bilag 2, tabel 7"){ .br18-ref }, eller data fra miljøvaredeklarationer (EPD’er). Hvis der anvendes EPD’er skal reglerne jf. [§ 297, stk. 8](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref } følges.
 
-Datagrundlaget, som fremgår af BR18, bilag 2, tabel 7, er generiske miljødata, baseret på gennemsnitsværdier for materialer, der anvendes i byggeri. Datasættet kan tilgås direkte på bygningsreglementets hjemmeside eller via dette [link](../../../../../bilag/b2/bilag_2/tabel_7/){rel="noopener noreferrer" target="_blank"} (nyt vindue). I datasættet kan der også ses links til den datakilde, der har dannet grundlag for fastsættelsen af data om den pågældende type materiale. Fra linket fremgår der typisk en udløbsdato for datasættet. Datakilden og udløbsdatoen er ikke relevante for kravet.
+Datagrundlaget, som fremgår af BR18, [bilag 2, tabel 7](../../../../../bilag/b2/bilag_2/#4f10dbac-ba91-4bad-9f1e-2b7054ec8547 "BR18 bilag 2, tabel 7"){ .br18-ref }, er generiske miljødata, baseret på gennemsnitsværdier for materialer, der anvendes i byggeri. Datasættet kan tilgås direkte på bygningsreglementets hjemmeside eller via dette [link](../../../../../bilag/b2/bilag_2/tabel_7/){rel="noopener noreferrer" target="_blank"} (nyt vindue). I datasættet kan der også ses links til den datakilde, der har dannet grundlag for fastsættelsen af data om den pågældende type materiale. Fra linket fremgår der typisk en udløbsdato for datasættet. Datakilden og udløbsdatoen er ikke relevante for kravet.
 
-Det er ikke muligt at anvende andet generisk data end det, der fremgår af BR18, bilag 2, tabel 7. Andet miljødata kan udelukkende komme fra miljøvaredeklarationer, jf. § 297, stk. 8 I det følgende beskrives det, hvordan BR18, bilag 2, tabel 7, anvendes. Derudover gives der konkrete eksempler på, hvilket data og hvordan beregningen foretages, hvis ikke der findes et datasæt, der stemmer overens med det materiale, der anvendes i bygningen.
+Det er ikke muligt at anvende andet generisk data end det, der fremgår af BR18, [bilag 2, tabel 7](../../../../../bilag/b2/bilag_2/#4f10dbac-ba91-4bad-9f1e-2b7054ec8547 "BR18 bilag 2, tabel 7"){ .br18-ref }. Andet miljødata kan udelukkende komme fra miljøvaredeklarationer, jf. [§ 297, stk. 8](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref } I det følgende beskrives det, hvordan BR18, [bilag 2, tabel 7](../../../../../bilag/b2/bilag_2/#4f10dbac-ba91-4bad-9f1e-2b7054ec8547 "BR18 bilag 2, tabel 7"){ .br18-ref }, anvendes. Derudover gives der konkrete eksempler på, hvilket data og hvordan beregningen foretages, hvis ikke der findes et datasæt, der stemmer overens med det materiale, der anvendes i bygningen.
 
 #### **1.5.1    Tabellens opbygning og anvendelse**
 
-BR18, bilag 2, tabel 7, er opdelt i følgende kolonner:
+BR18, [bilag 2, tabel 7](../../../../../bilag/b2/bilag_2/#4f10dbac-ba91-4bad-9f1e-2b7054ec8547 "BR18 bilag 2, tabel 7"){ .br18-ref }, er opdelt i følgende kolonner:
 
 **ID** angiver et identifikationsnummer. Hver datalinje har et specifikt nummer, som der kan refereres til for nemmere kommunikation og orientering om datasæt. I identifikationsnummeret er et bogstav som angiver hvor data stammer fra. G angiver generisk data fra Ökobaudat, B angiver at data stammer fra branche EPD’er, D angiver at data stammer fra EPD’er på typisk anvendte danske produkter og S angiver standardværdier for installationer.
 
@@ -99,23 +99,23 @@ BR18, bilag 2, tabel 7, er opdelt i følgende kolonner:
 </tbody>
 </table>
 
-**Tabel 5.1** Oversigt over opbygningen af BR18, bilag 2, tabel 7, med et eksempel for byggematerialet 4 mm glas.
+**Tabel 5.1** Oversigt over opbygningen af BR18, [bilag 2, tabel 7](../../../../../bilag/b2/bilag_2/#4f10dbac-ba91-4bad-9f1e-2b7054ec8547 "BR18 bilag 2, tabel 7"){ .br18-ref }, med et eksempel for byggematerialet 4 mm glas.
 
 I tabellen på bygningsreglementets hjemmeside indgår der for hvert produkt/materiale et link, hvor det er muligt at læse mere om datakilden. Tabellen kan også tilgås [her](../../../../../bilag/b2/bilag_2/tabel_7/){rel="noopener noreferrer" target="_blank"} (nyt vindue).
 
 #### **Valg af datasæt for et konkret materiale**
 
-Som beskrevet, skal der for hvert materiale, som indgår i bygningen, anvendes et datasæt fra BR18, bilag 2, tabel 7, eller miljøvaredeklarationer, jf. § 297, stk. 8. Hvis der for et konkret materiale ikke findes et generisk datasæt i tabellen eller en miljøvaredeklaration, skal der anvendes det generiske datasæt fra BR18, bilag 2, tabel 7, hvor materialesammensætning svarer bedst muligt til det pågældende materiale. Med materialesammensætning forstås de materialetyper og repræsentative mængder, der fremgår af tabellen for det konkrete materiale. På nuværende tidspunkt er der fx ikke datagrundlag for at invertere til solcelleanlæg eller lignende. Derfor bliver man nødt til at angive et materiale, der så godt som muligt svarer til en inverter. Det kunne fx være ”aluminiumsplade” eller ”fjernvarmeanlæg”.
+Som beskrevet, skal der for hvert materiale, som indgår i bygningen, anvendes et datasæt fra BR18, [bilag 2, tabel 7](../../../../../bilag/b2/bilag_2/#4f10dbac-ba91-4bad-9f1e-2b7054ec8547 "BR18 bilag 2, tabel 7"){ .br18-ref }, eller miljøvaredeklarationer, jf. [§ 297, stk. 8](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref }. Hvis der for et konkret materiale ikke findes et generisk datasæt i tabellen eller en miljøvaredeklaration, skal der anvendes det generiske datasæt fra BR18, [bilag 2, tabel 7](../../../../../bilag/b2/bilag_2/#4f10dbac-ba91-4bad-9f1e-2b7054ec8547 "BR18 bilag 2, tabel 7"){ .br18-ref }, hvor materialesammensætning svarer bedst muligt til det pågældende materiale. Med materialesammensætning forstås de materialetyper og repræsentative mængder, der fremgår af tabellen for det konkrete materiale. På nuværende tidspunkt er der fx ikke datagrundlag for at invertere til solcelleanlæg eller lignende. Derfor bliver man nødt til at angive et materiale, der så godt som muligt svarer til en inverter. Det kunne fx være ”aluminiumsplade” eller ”fjernvarmeanlæg”.
 
 Hvis data for eksempel er angivet for en bygningsdel, sammensat af flere materialer, hvor sammensætningen af data afviger iht. den anvendte bygningsdel, kan det vurderes, om data vil være mere retvisende ved at sammensætte det af enkelte datasæt.
 
-Der kan kun afviges fra datagrundlaget i BR18, bilag 2, tabel 7 i de tilfælde, hvor der anvendes miljøvaredeklarationer iht. EN15804 for specifikke produkter, jf. § 297, stk. 8
+Der kan kun afviges fra datagrundlaget i BR18, [bilag 2, tabel 7](../../../../../bilag/b2/bilag_2/#4f10dbac-ba91-4bad-9f1e-2b7054ec8547 "BR18 bilag 2, tabel 7"){ .br18-ref } i de tilfælde, hvor der anvendes miljøvaredeklarationer iht. EN15804 for specifikke produkter, jf. [§ 297, stk. 8](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref }
 
-For tekniske installationer kan opgørelsen af klimapåvirkning enten opgøres specifikt for de materialer og produkter, der anvendes, eller alternativt ved at anvende standardværdier for installationer, som vil gøre dokumentationen nemmere. Der er udviklet værdier for henholdsvis afløb, vand, samt varme, ventilation og køl. Disse værdier fremgår ligeledes af BR18, bilag 2, tabel 7.
+For tekniske installationer kan opgørelsen af klimapåvirkning enten opgøres specifikt for de materialer og produkter, der anvendes, eller alternativt ved at anvende standardværdier for installationer, som vil gøre dokumentationen nemmere. Der er udviklet værdier for henholdsvis afløb, vand, samt varme, ventilation og køl. Disse værdier fremgår ligeledes af BR18, [bilag 2, tabel 7](../../../../../bilag/b2/bilag_2/#4f10dbac-ba91-4bad-9f1e-2b7054ec8547 "BR18 bilag 2, tabel 7"){ .br18-ref }.
 
 #### **1.5.2    Omregning af data ved ændring af enhed**
 
-Som det kan ses i BR18, bilag 2, tabel 7, er klimapåvirkningen angivet for produktet i en bestemt deklareret enhed.
+Som det kan ses i BR18, [bilag 2, tabel 7](../../../../../bilag/b2/bilag_2/#4f10dbac-ba91-4bad-9f1e-2b7054ec8547 "BR18 bilag 2, tabel 7"){ .br18-ref }, er klimapåvirkningen angivet for produktet i en bestemt deklareret enhed.
 
 Der er behov for at ændre enhed, hvis de oplysninger, man har om et materiale, er opgivet i andre enheder, end det der fremgår af datasættet. Hvis der bruges et beregningsværktøj til dokumentation om bygningens klimapåvirkning, kan det godt være, at værktøj har integreret omregningen af enhed.
 
@@ -174,7 +174,7 @@ Se et eksempel i vejledningen til [bygningsdele afsnit 1.4](../kap-1_4/ "Kap 1_4
 
 #### **1.5.4      Metode for opgørelse af klimapåvirkning ved en mængde råmateriale**
 
-Hvor det af BR18, bilag 2, tabel 6, fremgår, at bygningsdelene kan opgøres eventuelt som mængde råmateriale, kan miljødata findes ved at foretage en samlet opgørelse af det materiale, som indgår i bygningsdelene. Denne undtagelse er der behov for, da der på nuværende tidspunkt ikke findes generiske miljødata for alle produkter, som indgår i et byggeri.
+Hvor det af BR18, [bilag 2, tabel 6](../../../../../bilag/b2/bilag_2/#d48904a5-9473-4525-a12f-3ae09559ec90 "BR18 bilag 2, tabel 6"){ .br18-ref }, fremgår, at bygningsdelene kan opgøres eventuelt som mængde råmateriale, kan miljødata findes ved at foretage en samlet opgørelse af det materiale, som indgår i bygningsdelene. Denne undtagelse er der behov for, da der på nuværende tidspunkt ikke findes generiske miljødata for alle produkter, som indgår i et byggeri.
 
 Når et datagrundlag skal findes vha. mængde råmateriale, kan overordnet to scenarier og metoder være relevante:
 
@@ -182,24 +182,24 @@ Når et datagrundlag skal findes vha. mængde råmateriale, kan overordnet to sc
 
 2.     Materialesammensætningen er ikke tilgængelig: her vælges det primære materiale med den antagelsesvis største vægtandel i produktet.
 
-Begge metoder medfører en række usikkerheder og vil undervurdere påvirkningen af produktet, hvorfor denne metode kun bør anvendes, hvis intet andet datasæt, jf. BR18, bilag 2, tabel 7, vurderes værende repræsentativ, og hvis der gives mulighed herfor, jf. BR18, bilag 2, tabel 6.
+Begge metoder medfører en række usikkerheder og vil undervurdere påvirkningen af produktet, hvorfor denne metode kun bør anvendes, hvis intet andet datasæt, jf. BR18, [bilag 2, tabel 7](../../../../../bilag/b2/bilag_2/#4f10dbac-ba91-4bad-9f1e-2b7054ec8547 "BR18 bilag 2, tabel 7"){ .br18-ref }, vurderes værende repræsentativ, og hvis der gives mulighed herfor, jf. BR18, [bilag 2, tabel 6](../../../../../bilag/b2/bilag_2/#d48904a5-9473-4525-a12f-3ae09559ec90 "BR18 bilag 2, tabel 6"){ .br18-ref }.
 
 ***Metode for opgørelse af klimapåvirkning ved en mængde råmateriale***
 
-Hvor det af BR18, bilag 2, tabel 6, fremgår, at bygningsdelene kan opgøres *eventuelt som mængde råmateriale*, kan miljødata findes ved at foretage en *samlet opgørelse* af det materiale, som indgår i bygningsdelene. Denne undtagelse er der behov for, da der på nuværende tidspunkt ikke findes generiske miljødata for alle produkter, som indgår i et byggeri.
+Hvor det af BR18, [bilag 2, tabel 6](../../../../../bilag/b2/bilag_2/#d48904a5-9473-4525-a12f-3ae09559ec90 "BR18 bilag 2, tabel 6"){ .br18-ref }, fremgår, at bygningsdelene kan opgøres *eventuelt som mængde råmateriale*, kan miljødata findes ved at foretage en *samlet opgørelse* af det materiale, som indgår i bygningsdelene. Denne undtagelse er der behov for, da der på nuværende tidspunkt ikke findes generiske miljødata for alle produkter, som indgår i et byggeri.
 
 Når et datagrundlag skal findes vha. mængde råmateriale, kan overordnet to scenarier og metoder være relevante:
 
 1.  Materialesammensætningen kendes: her indhentes data om materialemængden og eventuelt indeholdte væsker og luftarter indhentes for det specifikke produkt.
 2.  Materialesammensætningen er ikke tilgængelig: her vælges det primære materiale med den antagelsesvis største vægtandel i produktet.
 
-Begge metoder medfører en række usikkerheder og vil undervurdere påvirkningen af produktet, hvorfor denne metode kun bør anvendes, hvis intet andet datasæt, jf. BR18, bilag 2, tabel 7, vurderes værende repræsentativ, og hvis der gives mulighed herfor, jf. BR18, bilag 2, tabel 6.
+Begge metoder medfører en række usikkerheder og vil undervurdere påvirkningen af produktet, hvorfor denne metode kun bør anvendes, hvis intet andet datasæt, jf. BR18, [bilag 2, tabel 7](../../../../../bilag/b2/bilag_2/#4f10dbac-ba91-4bad-9f1e-2b7054ec8547 "BR18 bilag 2, tabel 7"){ .br18-ref }, vurderes værende repræsentativ, og hvis der gives mulighed herfor, jf. BR18, [bilag 2, tabel 6](../../../../../bilag/b2/bilag_2/#d48904a5-9473-4525-a12f-3ae09559ec90 "BR18 bilag 2, tabel 6"){ .br18-ref }.
 
 ### **Eksempler**
 
 ***Eksempel på beregning af klimapåvirkning efter metoden for mængde råmateriale med kendt materialesammensætning***
 
-I en bygning anvendes et integreret komfortmodul til opvarmning, køling og ventilation i bygningen. Der findes ikke et datasæt i BR18, bilag 2, tabel 7, som syntes at repræsentere det anvendte produkt. Til gengæld fremgår det af BR18, bilag 2, tabel 6, at bygningsdelen kan opgøres efter metoden for mængde råmateriale. Derfor findes data ved at opgøre produktet vha. mængde råmateriale.
+I en bygning anvendes et integreret komfortmodul til opvarmning, køling og ventilation i bygningen. Der findes ikke et datasæt i BR18, [bilag 2, tabel 7](../../../../../bilag/b2/bilag_2/#4f10dbac-ba91-4bad-9f1e-2b7054ec8547 "BR18 bilag 2, tabel 7"){ .br18-ref }, som syntes at repræsentere det anvendte produkt. Til gengæld fremgår det af BR18, [bilag 2, tabel 6](../../../../../bilag/b2/bilag_2/#d48904a5-9473-4525-a12f-3ae09559ec90 "BR18 bilag 2, tabel 6"){ .br18-ref }, at bygningsdelen kan opgøres efter metoden for mængde råmateriale. Derfor findes data ved at opgøre produktet vha. mængde råmateriale.
 
 Beregning af klimapåvirkning af 1 stk. integreret komfortmodul til opvarmning, køling og ventilation starter med at finde databladet til produktet.
 
@@ -216,7 +216,7 @@ I databladet for det konkrete produkt er materialesammensætning oplyst med en s
 |  Plast            |  0,2 kg    |
 |  Zink             |  0,1 kg    |
 
-Af BR18, bilag 2, tabel 7, fremgår det, at datasættet for modul A1-3 for galvaniseret stål er opgjort i kvadratmeter og derfor er det først omregnet til kilogram efter ovenstående vejledning:
+Af BR18, [bilag 2, tabel 7](../../../../../bilag/b2/bilag_2/#4f10dbac-ba91-4bad-9f1e-2b7054ec8547 "BR18 bilag 2, tabel 7"){ .br18-ref }, fremgår det, at datasættet for modul A1-3 for galvaniseret stål er opgjort i kvadratmeter og derfor er det først omregnet til kilogram efter ovenstående vejledning:
 
  *Eksempel på omregning af data ved ændring af enhed.*
 
@@ -245,9 +245,9 @@ Det vil sige, at GWP for komfortmodulet, beregnet ud fra princippet om mængde r
 
 *Eksempel på beregning af klimapåvirkning efter metoden for mængde råmateriale uden kendt materialesammensætning*
 
-I en bygning installeres en kølebaffel. Der findes ikke et datasæt i BR18, bilag 2, tabel 7, som syntes at repræsentere det anvendte produkt, og produktets materialeopbygning og sammensætning kendes heller ikke. Derfor findes klimapåvirkningen vha. mængde råmateriale.
+I en bygning installeres en kølebaffel. Der findes ikke et datasæt i BR18, [bilag 2, tabel 7](../../../../../bilag/b2/bilag_2/#4f10dbac-ba91-4bad-9f1e-2b7054ec8547 "BR18 bilag 2, tabel 7"){ .br18-ref }, som syntes at repræsentere det anvendte produkt, og produktets materialeopbygning og sammensætning kendes heller ikke. Derfor findes klimapåvirkningen vha. mængde råmateriale.
 
-BR18, bilag 2, tabel 6, oplyser, at der kan anvendes miljødata til råmaterialerne. Databladet oplyser en samlet vægt på 24 kg uden vand, og at produktet består af en galvaniseret stålramme, aluminiumslameller og kobberrør. Materialernes vægtandele kendes ikke. Der findes dog oplysninger om vægtandele for et lignende produkt hos en anden producent, hvor galvaniseret stål har den største vægtandel. Det antages derfor, at galvaniseret stål er det primære materiale i nærværende produkt. Datasættet for galvaniseret stål er opgjort i kvadratmeter og omregnes derfor først til kilogram efter ovenstående vejledning.
+BR18, [bilag 2, tabel 6](../../../../../bilag/b2/bilag_2/#d48904a5-9473-4525-a12f-3ae09559ec90 "BR18 bilag 2, tabel 6"){ .br18-ref }, oplyser, at der kan anvendes miljødata til råmaterialerne. Databladet oplyser en samlet vægt på 24 kg uden vand, og at produktet består af en galvaniseret stålramme, aluminiumslameller og kobberrør. Materialernes vægtandele kendes ikke. Der findes dog oplysninger om vægtandele for et lignende produkt hos en anden producent, hvor galvaniseret stål har den største vægtandel. Det antages derfor, at galvaniseret stål er det primære materiale i nærværende produkt. Datasættet for galvaniseret stål er opgjort i kvadratmeter og omregnes derfor først til kilogram efter ovenstående vejledning.
 
 #### **1.5.8 Datagrundlag**
 
@@ -290,17 +290,17 @@ Det er ikke hensigten at ændre reglerne om byggeri i øvrigt. Byggeri opført m
 
 #### **1.5.12 Miljødata af genbrugte byggematerialer**
 
-Klimapåvirkningen af genbrugte byggematerialer er 0 for A1-A3, B4, C3-C4 og D. En eventuel forbehandling og/eller affaldsbehandling af materialet opgøres således heller ikke. Derved fraviges også de almindelige regler om udskiftning i modul B4 ved at beregningen foretages, som om der ingen udskiftning sker, ligesom levetidsprincipperne i § 297, stk. 10, ligeledes fraviges ved ikke at beregne levetiden.
+Klimapåvirkningen af genbrugte byggematerialer er 0 for A1-A3, B4, C3-C4 og D. En eventuel forbehandling og/eller affaldsbehandling af materialet opgøres således heller ikke. Derved fraviges også de almindelige regler om udskiftning i modul B4 ved at beregningen foretages, som om der ingen udskiftning sker, ligesom levetidsprincipperne i [§ 297, stk. 10](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref }, ligeledes fraviges ved ikke at beregne levetiden.
 
 Det vil sige, at der regnes med 0 kg CO~2~-ækvivalenter pr. m^2^ pr. år i hele betragtningsperioden.
 
 Beregningsmæssigt betyder det, at miljødata af genbrugte byggematerialer indgår i beregningen – sådan at det er synligt at materialerne er brugt – men sættes til 0 kg CO~2~-ækvivalenter.
 
-Bemærk, at for genbrugte byggematerialer medregnes udledning fra modulerne A4-A5 i beregningen i §297 og i grænseværdien i §298.
+Bemærk, at for genbrugte byggematerialer medregnes udledning fra modulerne A4-A5 i beregningen i [§297](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref } og i grænseværdien i [§298](../../../krav/#paragraf-298 "BR18 § 298"){ .br18-ref }.
 
 #### **1.5.13 Tilførsel af nye materialer**
 
-Hvis der sammen med det genbrugte materiale også anvendes nye materialer, tæller de nye materialer med på samme måde som andre nye materialer, jf. § 297.
+Hvis der sammen med det genbrugte materiale også anvendes nye materialer, tæller de nye materialer med på samme måde som andre nye materialer, jf. [§ 297](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref }.
 
 Som undtagelse til ovenstående så indgår behandling af det genbrugte materiale i form af maling, lak mm., som er sammenligneligt med reparation og vedligehold, ikke i beregningen. Det gælder også, selv om behandlingen har været nødvendig for at forberede materialet til et nyt formål. Dette gælder, så længe behandlingen er sammenlignelig med reparation og vedligehold af materialet, som det indgår i sin nye funktion.
 
@@ -334,7 +334,7 @@ Oliebehandlingen er en forarbejdning af det genbrugte byggeprodukt for at kunne 
 
 Da levetider ikke skal opgøres for genbrugte materialer, ses der bort fra dem. Det angives i LCA-beregningen, at der ingen udskiftning sker af de brugte gulvbrædder.
 
-For at skabe en fyldestgørende dokumentation, jf. § 40, dokumenteres mængderne af de brugte gulvbrædder i dokumentationen, som indsendes i forbindelse med færdigmelding af bygningen:
+For at skabe en fyldestgørende dokumentation, jf. [§ 40](../../../../../administrative-bestemmelser/krav/#paragraf-40 "BR18 § 40"){ .br18-ref }, dokumenteres mængderne af de brugte gulvbrædder i dokumentationen, som indsendes i forbindelse med færdigmelding af bygningen:
 
 *”53 m^2^, 30 mm tyk – genbrugte gulvbrædder i stueetagen, undtagen bad – sat til 0 kg CO^2^-ækvivalenter. i hele bygningens livscyklus.”*
 
@@ -348,7 +348,7 @@ Mursten, som stammer fra en bygning, der rives ned, ønskes anvendt i forbindels
 
 Resterende mørtel fjernes fra murstenene, denne forberedelse har jf. disse regler ingen påvirkning. Murstenene sættes til 0.
 
-Murstenene samles med ny mørtel. Mørtelen er ikke sammenlignelig med reparation og vedligehold. For mørtel anvendes data som efter regler for nye materialer, det vil sige det generiske datasæt eller en EPD, jf. § 297 stk. 7 og 8.
+Murstenene samles med ny mørtel. Mørtelen er ikke sammenlignelig med reparation og vedligehold. For mørtel anvendes data som efter regler for nye materialer, det vil sige det generiske datasæt eller en EPD, jf. [§ 297 stk. 7 og 8](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref }.
 
 ### 1.6. Miljøvaredeklarationer {#345ca30a-1bea-4b76-8b01-d4b940cbb6b2}
 

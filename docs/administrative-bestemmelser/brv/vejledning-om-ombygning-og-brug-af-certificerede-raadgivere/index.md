@@ -28,7 +28,7 @@ Udgangspunktet for byggeloven og bygningsreglementet er, at byggearbejder kræve
 
 En række byggearbejder kræver dog ikke byggetilladelse. Disse byggearbejder skal fortsat overholde reglerne i bygningsreglementet, herunder f.eks. reglerne om brand og konstruktioner.
 
-Denne vejledning omhandler ombygninger og andre forandringer i eksisterende byggeri, der er omfattet af bygningsreglementets § 5, stk. 1, nr. 4, og dermed kan påbegyndes og udføres uden ansøgning om byggetilladelse, ombygninger der kræver byggetilladelse samt kommunalbestyrelsens ansvar ved indplacering i brand- og konstruktionsklasse.
+Denne vejledning omhandler ombygninger og andre forandringer i eksisterende byggeri, der er omfattet af bygningsreglementets [§ 5, stk. 1, nr. 4](../../krav/#paragraf-5 "BR18 § 5"){ .br18-ref }, og dermed kan påbegyndes og udføres uden ansøgning om byggetilladelse, ombygninger der kræver byggetilladelse samt kommunalbestyrelsens ansvar ved indplacering i brand- og konstruktionsklasse.
 
 Bestemmelsen er ændret med virkning fra den 10. marts 2020. Bekendtgørelsen er dog ligeledes gældende for ansøgninger om byggetilladelse vedrørende ombygninger, der er indsendt før den 10. marts, men fortsat er under behandling. Da bekendtgørelsen udvider feltet for ombygningssager, der kan foretages uden ansøgning om byggetilladelse, betyder det i praksis, at en række sager vil kunne afsluttes og henvises til udførelse uden behandling. Disse sager skal dog, jf. også ovenfor, fortsat leve op til relevante krav i bygningsreglementet.
 
@@ -36,7 +36,7 @@ Såfremt en kommune opkræver gebyr for behandling af byggesager, vil der kunne 
 
 ### 2 Ombygningssager undtaget fra kravet om byggetilladelse {#44ea9a4d-12a0-4d3f-8f0d-82285840a6c5}
 
-Bestemmelsen i *§ 5, stk. 1, nr. 4* omhandler ombygninger og andre forandringer i eksisterende byggeri, der ikke er omfattet af § 5, stk. 1, nr. 2 og 3, og som ikke ændrer de bærende konstruktioners virkemåde eller forudsætningerne for de brandmæssige forhold.
+Bestemmelsen i *[§ 5, stk. 1, nr. 4](../../krav/#paragraf-5 "BR18 § 5"){ .br18-ref }* omhandler ombygninger og andre forandringer i eksisterende byggeri, der ikke er omfattet af [§ 5, stk. 1, nr. 2 og 3](../../krav/#paragraf-5 "BR18 § 5"){ .br18-ref }, og som ikke ændrer de bærende konstruktioners virkemåde eller forudsætningerne for de brandmæssige forhold.
 
 Ombygningen eller forandringen må heller ikke medføre en væsentlig anvendelsesændring eller en udvidelse af etagearealet. En væsentlig anvendelsesændring er f.eks. en ændring i anvendelsen fra bolig til erhverv.
 
@@ -90,31 +90,31 @@ En indgriben i en af disse aspekter under byggearbejdet, som retablerer tilsvare
 
 Hvis en ombygning ikke er omfattet af en af bygningsreglementets undtagelsesbestemmelser, er der krav om byggetilladelse.
 
-En ansøgning om byggetilladelse skal indeholde en række oplysninger, som kommunalbestyrelsen skal bruge for at kunne behandle ansøgningen. Kravene til, hvad en ansøgning om byggetilladelse skal indeholde, fremgår af bygningsreglementets § 10.
+En ansøgning om byggetilladelse skal indeholde en række oplysninger, som kommunalbestyrelsen skal bruge for at kunne behandle ansøgningen. Kravene til, hvad en ansøgning om byggetilladelse skal indeholde, fremgår af bygningsreglementets [§ 10](../../krav/#paragraf-10 "BR18 § 10"){ .br18-ref }.
 
-Bygningsreglementets § 10, stk. 1, omhandler en række oplysninger, der skal indeholdes i en ansøgning om byggetilladelse. Formålet med disse oplysninger er primært at identificere, hvor byggearbejdet udføres, hvilket byggearbejde der udføres, og hvad det skal anvendes til.
+Bygningsreglementets [§ 10, stk. 1](../../krav/#paragraf-10 "BR18 § 10"){ .br18-ref }, omhandler en række oplysninger, der skal indeholdes i en ansøgning om byggetilladelse. Formålet med disse oplysninger er primært at identificere, hvor byggearbejdet udføres, hvilket byggearbejde der udføres, og hvad det skal anvendes til.
 
-Bygningsreglementets § 10, stk. 2, omhandler de oplysninger og den information, der skal indsendes ved ansøgning om byggetilladelse, når det er relevant. Det betyder, at de oplysninger og den dokumentation, der omtales i § 10, stk. 2, ikke i alle tilfælde vil skulle indsendes ved ansøgning om byggetilladelse.
+Bygningsreglementets [§ 10, stk. 2](../../krav/#paragraf-10 "BR18 § 10"){ .br18-ref }, omhandler de oplysninger og den information, der skal indsendes ved ansøgning om byggetilladelse, når det er relevant. Det betyder, at de oplysninger og den dokumentation, der omtales i [§ 10, stk. 2](../../krav/#paragraf-10 "BR18 § 10"){ .br18-ref }, ikke i alle tilfælde vil skulle indsendes ved ansøgning om byggetilladelse.
 
-Med *relevant for byggearbejdet* menes dermed de oplysninger og den dokumentation, der er af betydning for det pågældende byggearbejde. Eksempelvis står der i § 10, stk. 2, nr. 1, at en ansøgning om byggetilladelse skal indeholde oplysninger vedrørende byggeret og helhedsvurdering (kapitel 8) samt ubebyggede arealer ved bebyggelse (kapitel 20). Hvis man er i gang med en ombygning af et badeværelse, vil oplysninger om de ubebyggede arealer ved bebyggelsen være sagen uvedkommende, og derfor ikke relevante for ansøgningen om byggetilladelse.
+Med *relevant for byggearbejdet* menes dermed de oplysninger og den dokumentation, der er af betydning for det pågældende byggearbejde. Eksempelvis står der i [§ 10, stk. 2, nr. 1](../../krav/#paragraf-10 "BR18 § 10"){ .br18-ref }, at en ansøgning om byggetilladelse skal indeholde oplysninger vedrørende byggeret og helhedsvurdering (kapitel 8) samt ubebyggede arealer ved bebyggelse (kapitel 20). Hvis man er i gang med en ombygning af et badeværelse, vil oplysninger om de ubebyggede arealer ved bebyggelsen være sagen uvedkommende, og derfor ikke relevante for ansøgningen om byggetilladelse.
 
-For § 10, stk. 2, nr. 6, vedrørende dokumentation for, hvorledes byggeriet opfylder §§ 126-133, skal der kun fremsendes dokumentation for dette, såfremt ombygningen påvirker redningsberedskabets indsatsforhold. Eksisterende lovlige forhold svarende til bestemmelserne på opførselstidspunktet kan bibeholdes, forudsat at der ikke ændres på disse ved ombygningen.
+For [§ 10, stk. 2, nr. 6](../../krav/#paragraf-10 "BR18 § 10"){ .br18-ref }, vedrørende dokumentation for, hvorledes byggeriet opfylder [§§ 126-133](../../../tekniske-bestemmelser/05/krav/#0875873c-27b3-435c-b6aa-6d7bb2a978d7 "BR18 §§ 126-133"){ .br18-ref }, skal der kun fremsendes dokumentation for dette, såfremt ombygningen påvirker redningsberedskabets indsatsforhold. Eksisterende lovlige forhold svarende til bestemmelserne på opførselstidspunktet kan bibeholdes, forudsat at der ikke ændres på disse ved ombygningen.
 
-Kommunalbestyrelsen kan i tvivlstilfælde forlange supplerende dokumentation til belysning af byggearbejdets karakter og omfang, jf. bygningsreglementet § 10, stk. 3. Det er dog i udgangspunktet op til ansøgeren via ansøgningsmaterialet at belyse sagen i sådan grad, at kommunalbestyrelsen kan træffe afgørelse i sagen. Kommunalbestyrelsen skal derfor også lægge ansøgerens oplysninger til grund ved behandling af ansøgning om byggetilladelse, med mindre kommunalbestyrelsen mener, at der er en begrundet mistanke om manglende eller misvisende dokumentation.
+Kommunalbestyrelsen kan i tvivlstilfælde forlange supplerende dokumentation til belysning af byggearbejdets karakter og omfang, jf. bygningsreglementet [§ 10, stk. 3](../../krav/#paragraf-10 "BR18 § 10"){ .br18-ref }. Det er dog i udgangspunktet op til ansøgeren via ansøgningsmaterialet at belyse sagen i sådan grad, at kommunalbestyrelsen kan træffe afgørelse i sagen. Kommunalbestyrelsen skal derfor også lægge ansøgerens oplysninger til grund ved behandling af ansøgning om byggetilladelse, med mindre kommunalbestyrelsen mener, at der er en begrundet mistanke om manglende eller misvisende dokumentation.
 
 Det er ligeledes op til ansøgeren at orientere kommunalbestyrelsen, hvis der sker ændringer i byggearbejdet undervejs, der giver anledning til ændrede vilkår i byggetilladelsen, eller at der skal træffes en helt ny afgørelse i sagen.
 
-Kommunalbestyrelsen er bygningsmyndighed, og skal derfor – inden der meddeles byggetilladelse – vurdere om dokumentationen er i overensstemmelse med de af bygningsreglementets krav, der er relevante for byggesagen, jf. BR18 § 36.
+Kommunalbestyrelsen er bygningsmyndighed, og skal derfor – inden der meddeles byggetilladelse – vurdere om dokumentationen er i overensstemmelse med de af bygningsreglementets krav, der er relevante for byggesagen, jf. BR18 [§ 36](../../krav/#paragraf-36 "BR18 § 36"){ .br18-ref }.
 
 ### 4 Kommunalbestyrelsens ansvar ved indplacering i brand- og konstruktionsklasse {#2cd2304c-7bf1-426e-9271-aa9a1e85d323}
 
-I § 10, stk. 2, nr. 2-5, fremgår det, at der ved ansøgning om byggetilladelse skal indsendes oplysning om og dokumentation for, hvilken konstruktionsklasse eller brandklasse byggearbejdet er indplaceret i.
+I [§ 10, stk. 2, nr. 2-5](../../krav/#paragraf-10 "BR18 § 10"){ .br18-ref }, fremgår det, at der ved ansøgning om byggetilladelse skal indsendes oplysning om og dokumentation for, hvilken konstruktionsklasse eller brandklasse byggearbejdet er indplaceret i.
 
 Disse bestemmelser er kun relevante såfremt, der ændres ved de brandmæssige forhold og/eller ved konstruktionernes virkemåde.
 
 Hensigten med disse bestemmelser er, at kommunalbestyrelsen af den indsendte dokumentation skal kunne vurdere, om der skal tilknyttes en certificeret brandrådgiver eller en certificeret statiker, og om der er overensstemmelse mellem niveauet, som den certificerede brandrådgiver eller certificerede statiker er certificeret til, og brand- eller konstruktionsklassen for det pågældende byggearbejde. Indsendes der dokumentation for, at et byggeri f.eks. er i brandklasse 3, skal der også være dokumentation for, at der er tilknyttet en brandrådgiver certificeret til brandklasse 3 og denne skal udarbejde en starterklæring, som vedlægges ansøgningen sammen med den øvrige dokumentation.
 
-Når et byggeri indplaceres i konstruktionsklasse 1 (KK1) eller brandklasse 1 (BK1), er der ikke krav om, at der skal tilknyttes en certificeret brandrådgiver eller certificeret statiker, jf. § 10, stk. 6 og 7. Kommunen kan ikke stille krav om en certificeret brandrådgiver eller certificerede statiker for byggearbejder i konstruktions- og brandklasse 1 i forbindelse med indplacering i brand- og konstruktionsklasse.
+Når et byggeri indplaceres i konstruktionsklasse 1 (KK1) eller brandklasse 1 (BK1), er der ikke krav om, at der skal tilknyttes en certificeret brandrådgiver eller certificeret statiker, jf. [§ 10, stk. 6 og 7](../../krav/#paragraf-10 "BR18 § 10"){ .br18-ref }. Kommunen kan ikke stille krav om en certificeret brandrådgiver eller certificerede statiker for byggearbejder i konstruktions- og brandklasse 1 i forbindelse med indplacering i brand- og konstruktionsklasse.
 
 Læs mere indplacering i brand- og konstruktionsklasse i [Bygningsreglementets vejledning til kapitel 5 – kapitel 1 – afsnit 1.6.0](../../../tekniske-bestemmelser/05/vejledninger/generel_brand/kapitel-1/) og i [Vejledning om indplacering i konstruktionsklasse](../../../ovrige-bestemmelser/26/brv/indplacering-i-konstruktionsklasser/).
 
@@ -178,7 +178,7 @@ Eksempel 6
 
 I et butikscenter indrettet til flere end 150 personer ændres der på en butiksindretning inkl. udgangsdørene fra butikken til de udlagte flugtveje. Ombygningen følger retningslinjerne i butikscentrets brandstrategi, og der ændres ikke på bærende konstruktioner, personbelastning eller antal og bredde af udgange til flugtveje.
 
-Ændringen kan udføres uden byggetilladelse, men inventaropstillingsplan skal opdateres og udfærdiges af en certificeret brandrådgiver eller godkendes af kommunalbestyrelsen jf. BR18 § 6h, stk.1.
+Ændringen kan udføres uden byggetilladelse, men inventaropstillingsplan skal opdateres og udfærdiges af en certificeret brandrådgiver eller godkendes af kommunalbestyrelsen jf. BR18 [§ 6h, stk.1](../../krav/#paragraf-6h "BR18 § 6h"){ .br18-ref }.
 
 ### 6 Eksempler på, hvornår et byggearbejde ikke er undtaget for byggetilladelse, jf. § 5, stk. 1, nr. 4, og hvor der enten skal tilknyttes en certificeret brandrådgiver og/eller statiker, jf. § 10, stk. 2, nr. 3 og 5 {#7b806321-6273-455b-a03f-ee7614102c95}
 

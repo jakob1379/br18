@@ -67,9 +67,9 @@
 
 ### Byggetilladelse {#fe8a3900-abb9-4c01-a403-3b619fc32cd4}
 
-Ansøgning om byggetilladelse sker i henhold til bygningsreglementet. Som udgangspunkt vurderer styrelsen, at ladestandere vil være omfattet af bygningsreglementets § 5, stk. 1, nr. 13, vedrørende brugerbetjente anlæg. Disse skal overholde bygningsreglementet, men kan udføres uden ansøgning om byggetilladelse.
+Ansøgning om byggetilladelse sker i henhold til bygningsreglementet. Som udgangspunkt vurderer styrelsen, at ladestandere vil være omfattet af bygningsreglementets [§ 5, stk. 1, nr. 13](../../../../../administrative-bestemmelser/krav/#paragraf-5 "BR18 § 5"){ .br18-ref }, vedrørende brugerbetjente anlæg. Disse skal overholde bygningsreglementet, men kan udføres uden ansøgning om byggetilladelse.
 
-Såfremt kommunalbestyrelsen modtager en ansøgning om byggetilladelse til et byggearbejde, der er omfattet af krav om etablering og/eller forberedelse til ladestandere, skal kommunalbestyrelsen stille krav herom, jf. BR18 § 400, stk. 2. Kommunalbestyrelsen skal ikke foretage teknisk byggesagsbehandling, men alene kontrollere, om byggearbejdet er omfattet.
+Såfremt kommunalbestyrelsen modtager en ansøgning om byggetilladelse til et byggearbejde, der er omfattet af krav om etablering og/eller forberedelse til ladestandere, skal kommunalbestyrelsen stille krav herom, jf. BR18 [§ 400, stk. 2](../../../../../tekniske-bestemmelser/20/krav/#paragraf-400 "BR18 § 400"){ .br18-ref }. Kommunalbestyrelsen skal ikke foretage teknisk byggesagsbehandling, men alene kontrollere, om byggearbejdet er omfattet.
 
 <span id="handhvelse"></span>
 

@@ -50,7 +50,7 @@
 
 ### Genibrugtagning {#de4044c9-ed65-4b28-a2cf-d6c7278fc52a}
 
-Ved aftrækssystemer, der er nedlagt, men som ønskes taget i brug igen, vil der som udgangspunkt foreligge en anvendelsesændring af aftrækssystemet. Denne anvendelsesændring må karakteriseres som væsentlig, idet ændringen medfører, at krav om brandforhold og installationer i bygningsreglementets kap. 5 og 12 vil have indflydelse på, om det er sikkerhedsmæssigt forsvarligt at tage aftrækssystemet i brug igen.
+Ved aftrækssystemer, der er nedlagt, men som ønskes taget i brug igen, vil der som udgangspunkt foreligge en anvendelsesændring af aftrækssystemet. Denne anvendelsesændring må karakteriseres som væsentlig, idet ændringen medfører, at krav om brandforhold og installationer i bygningsreglementets [kap. 5](../../../../tekniske-bestemmelser/05/krav/ "BR18 kapitel 5"){ .br18-ref } og [12](../../../../tekniske-bestemmelser/12/krav/ "BR18 kapitel 12"){ .br18-ref } vil have indflydelse på, om det er sikkerhedsmæssigt forsvarligt at tage aftrækssystemet i brug igen.
 
 Da ændringen kan karakteriseres som væsentlig, vil det kræve en byggetilladelse og en ibrugtagningstilladelse, inden aftrækssystemet på ny kan tages i brug. Ejeren skal således ansøge kommunen herom.
 

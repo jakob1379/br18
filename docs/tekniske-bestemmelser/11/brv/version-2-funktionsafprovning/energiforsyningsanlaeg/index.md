@@ -74,7 +74,7 @@ Der findes energiforsyningsanlæg omfattet af Ecodesign, samt øvrige anlæg, hv
 
 Bygningsreglementets kravtekst mht. funktionsafprøvning af energiforsyningsanlæg er:
 
-§ 327 b. Der skal gennemføres en funktionsafprøvning af energiforsyningsanlæg i tilknytning til bygninger inden ibrugtagning. Funktionsafprøvningen skal påvise, at anlægget har den forudsatte energimæssige effektivitet.
+[§ 327 b](../../../../12/krav/#paragraf-327b "BR18 § 327b"){ .br18-ref }. Der skal gennemføres en funktionsafprøvning af energiforsyningsanlæg i tilknytning til bygninger inden ibrugtagning. Funktionsafprøvningen skal påvise, at anlægget har den forudsatte energimæssige effektivitet.
 
 ### 6.1 Energiforsyningsanlæg omfattet af Ecodesign {#b155f841-e7fb-4dce-b1a2-fa9303cf9938}
 

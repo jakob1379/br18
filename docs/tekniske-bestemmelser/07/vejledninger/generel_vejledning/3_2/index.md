@@ -46,7 +46,7 @@ Brandbelastningen på byggepladsen bør under hele arbejdet holdes så lav som m
 
 Midlertidige konstruktioner omfatter f.eks. skurvogne, oplagscontainere, omklædning, o.lign.
 
-Afstandsforhold til skel og anden bebyggelse for midlertidige bebyggelser / konstruktioner kan f.eks. fastlægges ud fra bygningsreglementets vejledninger til kapitel 5 om brand.
+Afstandsforhold til skel og anden bebyggelse for midlertidige bebyggelser / konstruktioner kan f.eks. fastlægges ud fra bygningsreglementets vejledninger til [kapitel 5](../../../../05/krav/ "BR18 kapitel 5"){ .br18-ref } om brand.
 
 Sikringen mod brandspredning kan ske ved at placere konstruktionerne i forsvarlig afstand fra skel / andre bygninger eller ved på anden måde at sikre mod brandspredning (flammeskærm eller brandmæssig adskillelse).
 

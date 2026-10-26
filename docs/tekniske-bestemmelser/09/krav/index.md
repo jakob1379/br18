@@ -8,11 +8,11 @@ Bygninger skal projekteres og udføres, så der under hensyn til deres anvendels
 
 ### § 197 {#paragraf-197}
 
-Ved ombygning kan kommunalbestyrelsen på bygningsejerens foranledning skønne, at der kan ske lempelser til bestemmelserne i kapitel 9, såfremt ombygningsarbejdet ikke kan udføres uden indgribende ændringer i bebyggelsen.
+Ved ombygning kan kommunalbestyrelsen på bygningsejerens foranledning skønne, at der kan ske lempelser til bestemmelserne i [kapitel 9](./ "BR18 kapitel 9"){ .br18-ref }, såfremt ombygningsarbejdet ikke kan udføres uden indgribende ændringer i bebyggelsen.
 
 ### § 198 {#paragraf-198}
 
-Sommerhuse er ikke omfattet af bestemmelserne i kapitel 9.
+Sommerhuse er ikke omfattet af bestemmelserne i [kapitel 9](./ "BR18 kapitel 9"){ .br18-ref }.
 
 ## § 199 - § 213 Indretning af boliger {#c2db10fd-13da-422d-a0a2-49fc374abf04}
 
@@ -104,13 +104,13 @@ Offentligt tilgængelige bygninger skal indrettes, så de enkelte rum har en st�
 
 ### § 215 {#paragraf-215}
 
-Mindst ét wc-rum, der er indrettet i henhold til § 214, stk. 2, skal placeres i stueetagen eller andre etager med adgang via elevator, lift eller lignende.
+Mindst ét wc-rum, der er indrettet i henhold til [§ 214, stk. 2](#paragraf-214 "BR18 § 214"){ .br18-ref }, skal placeres i stueetagen eller andre etager med adgang via elevator, lift eller lignende.
 
 ### § 216 {#paragraf-216}
 
-Wc-rum omfattet af § 214 stk. 2, skal ved ombygning indrettes, så det kan benyttes af alle brugere af bygningen. Mindst et wc-rum, der er indrettet efter § 214, skal indrettes i stueetagen eller andre etager med adgang via elevator, lift eller lignende.
+Wc-rum omfattet af [§ 214 stk. 2](#paragraf-214 "BR18 § 214"){ .br18-ref }, skal ved ombygning indrettes, så det kan benyttes af alle brugere af bygningen. Mindst et wc-rum, der er indrettet efter [§ 214](#paragraf-214 "BR18 § 214"){ .br18-ref }, skal indrettes i stueetagen eller andre etager med adgang via elevator, lift eller lignende.
 
-*Stk. 2.* Bestemmelsen i § 214, stk. 2, gælder kun ved ombygninger, når der ved ombygningen etableres offentlige tilgængelige wc-rum i stueetagen eller på andre etager med adgang via elevator, lift eller lignende.
+*Stk. 2.* Bestemmelsen i [§ 214, stk. 2](#paragraf-214 "BR18 § 214"){ .br18-ref }, gælder kun ved ombygninger, når der ved ombygningen etableres offentlige tilgængelige wc-rum i stueetagen eller på andre etager med adgang via elevator, lift eller lignende.
 
 ### § 217 {#paragraf-217}
 
@@ -124,7 +124,7 @@ I forsamlingslokaler, herunder rum, der er indrettet til fællesaktiviteter sås
 
 ### § 219 {#paragraf-219}
 
-Almindelige undervisningslokaler i folkeskoler og mødelokaler i kontorbyggeri er ikke omfattet af § 218.
+Almindelige undervisningslokaler i folkeskoler og mødelokaler i kontorbyggeri er ikke omfattet af [§ 218](#paragraf-218 "BR18 § 218"){ .br18-ref }.
 
 ### § 220 {#paragraf-220}
 
@@ -168,9 +168,9 @@ Såfremt der indrettes offentligt tilgængelige wcrum til brug for andre end de 
 
 ### § 224 {#paragraf-224}
 
-Ved ombygning skal wc-rum omfattet af § 223 indrettes, så det kan benyttes af brugerne af bygningen. Mindst ét wc-rum, der er omfattet af § 223, skal indrettes i stueetagen eller andre etager med adgang via elevator, lift eller lignende.
+Ved ombygning skal wc-rum omfattet af [§ 223](#paragraf-223 "BR18 § 223"){ .br18-ref } indrettes, så det kan benyttes af brugerne af bygningen. Mindst ét wc-rum, der er omfattet af [§ 223](#paragraf-223 "BR18 § 223"){ .br18-ref }, skal indrettes i stueetagen eller andre etager med adgang via elevator, lift eller lignende.
 
-*Stk. 2.* § 223 gælder kun ved ombygninger, når der ved ombygningen etableres offentlige tilgængelige wc-rum i stueetagen eller på andre etager med adgang via elevator, lift eller lignende.
+*Stk. 2.* [§ 223](#paragraf-223 "BR18 § 223"){ .br18-ref } gælder kun ved ombygninger, når der ved ombygningen etableres offentlige tilgængelige wc-rum i stueetagen eller på andre etager med adgang via elevator, lift eller lignende.
 
 ### § 225 {#paragraf-225}
 
@@ -238,19 +238,19 @@ I hoteller, kroer og lignende med 10-20 sengepladser skal der indrettes minimum 
 
 ### § 234 {#paragraf-234}
 
-I hoteller, kroer og lignende med 21-40 sengepladser skal der indrettes minimum 4 sengepladser med egne bade- og wc- faciliteter, som opfylder § 233.
+I hoteller, kroer og lignende med 21-40 sengepladser skal der indrettes minimum 4 sengepladser med egne bade- og wc- faciliteter, som opfylder [§ 233](#paragraf-233 "BR18 § 233"){ .br18-ref }.
 
 ### § 235 {#paragraf-235}
 
-I hoteller, kroer og lignende med mere end 40 sengepladser skal der for hver yderligere 20. sengeplads indrettes mindst 1 sengeplads med egne bade- og wc-faciliteter, som opfylder § 233.
+I hoteller, kroer og lignende med mere end 40 sengepladser skal der for hver yderligere 20. sengeplads indrettes mindst 1 sengeplads med egne bade- og wc-faciliteter, som opfylder [§ 233](#paragraf-233 "BR18 § 233"){ .br18-ref }.
 
 ### § 236 {#paragraf-236}
 
-Uanset det samlede antal af sengepladser i bygningen, er § 232 altid opfyldt, når mindst 10 sengepladser er indrettet med egne bade- og wc-faciliteter i henhold til § 233.
+Uanset det samlede antal af sengepladser i bygningen, er [§ 232](#paragraf-232 "BR18 § 232"){ .br18-ref } altid opfyldt, når mindst 10 sengepladser er indrettet med egne bade- og wc-faciliteter i henhold til [§ 233](#paragraf-233 "BR18 § 233"){ .br18-ref }.
 
 ### § 237 {#paragraf-237}
 
-Altaner i forbindelse med værelser omfattet af § 232 skal udføres, så brugerne ved egen hjælp kan benytte dem.
+Altaner i forbindelse med værelser omfattet af [§ 232](#paragraf-232 "BR18 § 232"){ .br18-ref } skal udføres, så brugerne ved egen hjælp kan benytte dem.
 
 ## § 238 - § 241 Glaspartier, glasflader, og værn af glas i bygninger {#098ed0b6-7eb7-4c64-ae1b-529b392d3d3c}
 
@@ -268,12 +268,12 @@ I bygninger, hvor der er risiko for, at personer kan kollidere med større glasp
 
 ### § 239 {#paragraf-239}
 
-Hvis der efter sikring mod personskade i medfør af § 238 fortsat er risiko for kollision og gennembrydning af glaspartiet, skal glasset udføres, så risikoen for skæreskader begrænses.
+Hvis der efter sikring mod personskade i medfør af [§ 238](#paragraf-238 "BR18 § 238"){ .br18-ref } fortsat er risiko for kollision og gennembrydning af glaspartiet, skal glasset udføres, så risikoen for skæreskader begrænses.
 
 ### § 240 {#paragraf-240}
 
-Såfremt der i værn ved niveauspring i eller uden for bygningen benyttes glas, skal bestemmelserne i §§ 58 og 59 om værn ligeledes opfyldes.
+Såfremt der i værn ved niveauspring i eller uden for bygningen benyttes glas, skal bestemmelserne i [§§ 58](../../02/krav/#paragraf-58 "BR18 § 58"){ .br18-ref } og [59](../../02/krav/#paragraf-59 "BR18 § 59"){ .br18-ref } om værn ligeledes opfyldes.
 
 ### § 241 {#paragraf-241}
 
-Glas benyttet i vinduer og døre i boliger er ikke omfattet af §§ 238 og 239, med mindre der foreligger særlige forhold, hvor vinduet eller døren er placeret således, eller bygningen benyttes på en sådan måde, at der kan opstå risiko for personskader ved kollision med glasset.
+Glas benyttet i vinduer og døre i boliger er ikke omfattet af [§§ 238](#paragraf-238 "BR18 § 238"){ .br18-ref } og [239](#paragraf-239 "BR18 § 239"){ .br18-ref }, med mindre der foreligger særlige forhold, hvor vinduet eller døren er placeret således, eller bygningen benyttes på en sådan måde, at der kan opstå risiko for personskader ved kollision med glasset.

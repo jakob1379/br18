@@ -16,7 +16,7 @@
 
 Formålet med bestemmelserne i bygningsreglementet er at sikre, at bygninger får ført vand ind i og rundt i bygningen svarende til det behov, som bygningen, de enkelte rum og deres installationer har i forhold til anvendelsen.
 
-Fælles for vand- og afløbsinstallationer er, at der er mange produkter, som ikke er omfattet af en harmoniseret standard. Bygningsreglementet indeholder derfor et kapitel som beskriver et kontrolsystem for vand- og afløbsinstallationer, som skal følges, hvis produkter ikke er omfattet af en harmoniseret standard jf. BR18, § 418.
+Fælles for vand- og afløbsinstallationer er, at der er mange produkter, som ikke er omfattet af en harmoniseret standard. Bygningsreglementet indeholder derfor et kapitel som beskriver et kontrolsystem for vand- og afløbsinstallationer, som skal følges, hvis produkter ikke er omfattet af en harmoniseret standard jf. BR18, [§ 418](../../krav/#paragraf-418 "BR18 § 418"){ .br18-ref }.
 
 Kravene til vandinstallationer i bygningsreglementet har flere snitflader til drikkevandsbekendtgørelsen, som ligger under Miljøstyrelsens ressort, herunder reglerne for genanvendelse af regnvand og kravene til vandkvalitet.
 

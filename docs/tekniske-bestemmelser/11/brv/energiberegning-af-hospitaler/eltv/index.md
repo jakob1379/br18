@@ -86,7 +86,7 @@ Bygningsklasse 2020 er en samlet løsning. Derfor gælder de supplerende krav og
 
 **Svar:**
 
-Vejledningen til bygningsreglementets §473 definerer SEL som: " Ved det specifikke elforbrug til lufttransport forstås her det samlede elforbrug pr. m3 flyttet luft, regnet fra og med luftindtag til og med luftafkast." Det vil også være tilfældet i langt de fleste tilfælde, i for eksempel kontorbygninger og lignende, hvis der benyttes recirkulation.
+Vejledningen til bygningsreglementets [§473](../../../../../ovrige-bestemmelser/25/krav/#paragraf-473 "BR18 § 473"){ .br18-ref } definerer SEL som: " Ved det specifikke elforbrug til lufttransport forstås her det samlede elforbrug pr. m3 flyttet luft, regnet fra og med luftindtag til og med luftafkast." Det vil også være tilfældet i langt de fleste tilfælde, i for eksempel kontorbygninger og lignende, hvis der benyttes recirkulation.
 
 I rum med renlighedskrav, der overstiger de normale komfortanlæg, hvilket for eksempel er operationsstuer eller laboratorier, kan det accepteres at der benyttes recirkulation uden at blive straffet for det i forhold til Bygningsreglementets krav. I det tilfælde regnes SEL-værdien ud efter den samlede luftmængde. Det er udelukkende ved renlighedskrav, at denne metode kan vælges, ellers skal den normale metode i henhold til bygningsreglementet følges.
 

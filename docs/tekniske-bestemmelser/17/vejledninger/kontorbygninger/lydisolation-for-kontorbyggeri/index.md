@@ -19,7 +19,7 @@
 
 ### 5.1 Lydisolation for kontorbyggeri {#b3ba71ab-4b69-4413-8577-5d81c6a474b6}
 
-Tabel 5.1 indeholder forslag projekteringsværdier for luftlydisolation og trinlydniveau i kontorbyggeri svarende til overholdelse af BR18’s generelle bestemmelse i § 368, stk. 1 om at ”*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen”*
+Tabel 5.1 indeholder forslag projekteringsværdier for luftlydisolation og trinlydniveau i kontorbyggeri svarende til overholdelse af BR18’s generelle bestemmelse i [§ 368, stk. 1](../../../krav/#d020db69-f4ce-4cb5-84ee-a507a2630908 "BR18 § 368"){ .br18-ref } om at ”*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen”*
 
 <table>
 <colgroup>

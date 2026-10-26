@@ -46,13 +46,13 @@ Med BR18 er kommunens opgave med at foretage teknisk byggesagsbehandling ændret
 
 For de øvrige tekniske emner i bygningsreglementet, skal kommunalbestyrelsen ikke foretage teknisk byggesagsbehandling pr. 1. januar 2018^3^. Bygningsreglementets administrative bestemmelser er ændret på denne baggrund.
 
-Kommunalbestyrelsens rolle ved ansøgning om byggetilladelse, fremgår af § 36. Her fremgår det, at kommunalbestyrelsen skal foretage en vurdering af, om den dokumentation, der er indsendt efter §§ 10 og 11, er i overensstemmelse med de for byggesagen relevante krav.
+Kommunalbestyrelsens rolle ved ansøgning om byggetilladelse, fremgår af [§ 36](../../../krav/#paragraf-36 "BR18 § 36"){ .br18-ref }. Her fremgår det, at kommunalbestyrelsen skal foretage en vurdering af, om den dokumentation, der er indsendt efter [§§ 10](../../../krav/#paragraf-10 "BR18 § 10"){ .br18-ref } og [11](../../../krav/#paragraf-11 "BR18 § 11"){ .br18-ref }, er i overensstemmelse med de for byggesagen relevante krav.
 
 Når kommunalbestyrelsen som bygningsmyndighed modtager en ansøgning om byggetilladelse, skal kommunalbestyrelsen bl.a. foretage en vurdering af, om byggeriet er indplaceret i den korrekte brand- og konstruktionsklasse. Denne del er således en del af kommunens byggesagsbehandling, som der kan opkræves gebyr for.
 
 Byggearbejder, der kræver byggetilladelse, skal færdigmeldes til kommunalbestyrelsen^4^ ligesom at byggearbejder, der kræver byggetilladelse, ikke må tages i brug uden kommunalbestyrelsens ibrugtagningstilladelse^5^. Inden kommunalbestyrelsen kan give tilladelse til at tage byggeriet i brug, skal den kontrollere, at ansøger har indsendt den dokumentation for overholdelse af de krav i bygningsreglementet, som byggearbejdet er omfattet af samt krav til dokumentation stillet ved byggetilladelsen.
 
-Det betyder, at den tid kommunalbestyrelsen bruger på afslutningen af en byggesag efter § 43, som nævnt oven over, kan der også opkræves byggesagsgebyr for.
+Det betyder, at den tid kommunalbestyrelsen bruger på afslutningen af en byggesag efter [§ 43](../../../krav/#paragraf-43 "BR18 § 43"){ .br18-ref }, som nævnt oven over, kan der også opkræves byggesagsgebyr for.
 
 Kommunalbestyrelsen kan fortsat opkræve byggesagsgebyr, hvor en ansøgning om byggetilladelse trækkes tilbage, hvor der meddeles afslag på ansøgningen samt ved kommunalbestyrelsens behandling af lovliggørelsessager og dispensationsansøgninger ligesom, at der kan opkræves gebyr for kommunens byggesagsbehandling efter kap. 8 og kap. 20.
 
@@ -64,13 +64,13 @@ Der gøres opmærksom på overgangsordningen for teknisk byggesagsbehandling ved
 
 2. Bek nr. 1616 af den 13. december 2017
 
-3. Der er med BR18 §§ 24-29 indført en overgangsperiode indtil 31. december 2019 for byggesagsbehandling af brand- og konstruktionsklasse 2-4.
+3. Der er med BR18 [§§ 24-29](../../../krav/#paragraf-24 "BR18 §§ 24-29"){ .br18-ref } indført en overgangsperiode indtil 31. december 2019 for byggesagsbehandling af brand- og konstruktionsklasse 2-4.
 
-4. BR18 § 40, stk. 1.
+4. BR18 [§ 40, stk. 1](../../../krav/#paragraf-40 "BR18 § 40"){ .br18-ref }.
 
-5. BR18 § 43, stk. 1.
+5. BR18 [§ 43, stk. 1](../../../krav/#paragraf-43 "BR18 § 43"){ .br18-ref }.
 
-6. BR18 §§ 24-27.
+6. BR18 [§§ 24-27](../../../krav/#10c6ae7a-70d6-4b50-84b8-b4666b56c78a "BR18 §§ 24-27"){ .br18-ref }.
 
 <span id="byggesagsgebyr-efter-tidsforbrug"></span>
 

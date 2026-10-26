@@ -36,7 +36,7 @@
 
 ### 2.3. Undtagelser {#8e500211-751b-4b2c-90e8-b5ab758e8c0b}
 
-Det fremgår af bygningsreglementet 2018, kap. 15, § 356, at § 344, stk. 2, til § 351 samt §§ 353-355 kan fraviges, hvis det på anden vis sikres og dokumenteres, at en afvigelse er forsvarlig, og der opnås et sikkerhedsniveau, som beskrevet i § 344, stk. 2, nr. 1.
+Det fremgår af bygningsreglementet 2018, [kap. 15](../../../krav/ "BR18 kapitel 15"){ .br18-ref }, [§ 356](../../../krav/#paragraf-356 "BR18 § 356"){ .br18-ref }, at [§ 344, stk. 2](../../../krav/#paragraf-344 "BR18 § 344"){ .br18-ref }, til [§ 351](../../../krav/#paragraf-351 "BR18 § 351"){ .br18-ref } samt [§§ 353-355](../../../krav/#paragraf-353 "BR18 §§ 353-355"){ .br18-ref } kan fraviges, hvis det på anden vis sikres og dokumenteres, at en afvigelse er forsvarlig, og der opnås et sikkerhedsniveau, som beskrevet i [§ 344, stk. 2, nr. 1](../../../krav/#paragraf-344 "BR18 § 344"){ .br18-ref }.
 
 En afvigelse fra standarderne i de nævnte bestemmelser kræver som udgangspunkt at materialestyrke, brudmekaniske modeller og materialeparametre dokumenteres for afvigelsen. Modeller og beregningsregler kan fraviges såfremt en tilsvarende eller højere sikkerhed kan dokumenteres. Materialeparametre kan fraviges såfremt de faktiske materialeparametre kan dokumenteres og har er tilsvarende eller højere sikkerhedsniveau end den standard der fraviges.
 

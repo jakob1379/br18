@@ -52,7 +52,7 @@
 
 ### 5.0 Hensyn til klimatiske forhold {#21b7bb99-b8b3-43c2-87ca-4d251b1b1419}
 
-Det fremgår af bygningsreglementet 2018, kap. 7, § 165, at ved udførelse af byggearbejder skal der træffes de foranstaltninger, som af hensyn til klimatiske forhold, såsom sne, regn og kulde, er nødvendige for at beskytte fugtfølsomme materialer, og så det sikres, at der ikke indbygges fugt i bygningen under opførelsen.
+Det fremgår af bygningsreglementet 2018, [kap. 7](../../../krav/ "BR18 kapitel 7"){ .br18-ref }, [§ 165](../../../krav/#paragraf-165 "BR18 § 165"){ .br18-ref }, at ved udførelse af byggearbejder skal der træffes de foranstaltninger, som af hensyn til klimatiske forhold, såsom sne, regn og kulde, er nødvendige for at beskytte fugtfølsomme materialer, og så det sikres, at der ikke indbygges fugt i bygningen under opførelsen.
 
 I forhold til at sikre, at våde fugtfølsomme materialer samt materialer og bygningsdele med skimmelsvamp ikke indbygges i opførelsesperioden, kan dette for eksempel ske ved opførelse under total inddækning og hensigtsmæssig opbevaring af byggematerialer. En hensigtsmæssig kvalitetssikringsprocedure er også af stor betydning i denne sammenhæng. Der henvises til bekendtgørelse om bygge- og anlægsarbejder i perioden 1. november til 31. marts (vinterbekendtgørelsen).
 

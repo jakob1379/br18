@@ -26,16 +26,16 @@
 
 ### 1.3. Arealopgørelse {#94c6b7f1-87fc-4471-8202-edd44157722a}
 
-Til brug for beregning af klimapåvirkningen fra materialerne og byggeprocessen skal der opgøres et areal som CO2e-udledningerne opgøres i forhold til. Arealet baseres på det faktuelle areal som opgjort, jf. § 455, og omtales i dette afsnit som referenceareal. Dog er det nødvendigt at tilpasse det faktuelle areal af bygningen, da visse arealer har et væsentligt mindre materialebehov end almindelige, lukkede arealer. Ved at foretage disse tilretninger af det faktuelle areal forudsættes en mere retvisende opgørelse af klimapåvirkning pr m2.
+Til brug for beregning af klimapåvirkningen fra materialerne og byggeprocessen skal der opgøres et areal som CO2e-udledningerne opgøres i forhold til. Arealet baseres på det faktuelle areal som opgjort, jf. [§ 455](../../../../../ovrige-bestemmelser/23/krav/#paragraf-455 "BR18 § 455"){ .br18-ref }, og omtales i dette afsnit som referenceareal. Dog er det nødvendigt at tilpasse det faktuelle areal af bygningen, da visse arealer har et væsentligt mindre materialebehov end almindelige, lukkede arealer. Ved at foretage disse tilretninger af det faktuelle areal forudsættes en mere retvisende opgørelse af klimapåvirkning pr m2.
 
 I det følgende uddybes principperne for at opgøre referencearealet i forbindelse med beregningen af bygningers klimapåvirkning. Endvidere gives eksempler på, hvordan arealet konkret beregnes i forskellige scenarier.
 
-Referencearealet tager udgangspunkt i beregningen til etagearealet, som skal opgøres ifølge § 455. Her medtages alle etagearealer, herunder alle opvarmede etagearealer. Dog skal følgende modifikationer foretages til det opgjorte etageareal;
+Referencearealet tager udgangspunkt i beregningen til etagearealet, som skal opgøres ifølge [§ 455](../../../../../ovrige-bestemmelser/23/krav/#paragraf-455 "BR18 § 455"){ .br18-ref }. Her medtages alle etagearealer, herunder alle opvarmede etagearealer. Dog skal følgende modifikationer foretages til det opgjorte etageareal;
 
 - Alle kælderarealer, affaldsrum i terrænniveau og sikringsrum medregnes. Det vil sige, at disse arealer regnes fuldt med (100 pct.). Det er dog kun rum, som er integreret i bygningen. Fritstående sikringsrum og affaldsrum medregnes hverken i forhold til materialer eller arealer. Kælder regnes med, uanset om den er opvarmet eller uopvarmet.
 - *Udestuer, altanlukninger og lignende medregnes alene med 50 pct*. Er der f.eks.  lukkede altaner, skal arealet for disse kun medregnes med 50 pct. i opgørelsen af klimapåvirkning.
 - *Integrerede garager til enfamiliehuse, rækkehuse og lignende medregnes alene med 50 pct.* Integrerede garager betyder, at garagen er en del af og opført sammen med bygningen, dvs. deler ydervæg, tag mm.
-- *Udvendige ramper, trapper, brandtrapper, altaner, altangange og lignende, medregnes med 25 pct.* Det vil sige, at hvor disse arealer ikke indgår i arealopgørelsen ifølge § 455, skal de medregnes med 25 pct. af arealet i opgørelsen af klimapåvirkning. Andre eksempler på arealer, der kan være omfattet af 25 pct., kan for eksempel være Stack-parking områder, som muliggør parkering i flere niveauer inden for en etage.
+- *Udvendige ramper, trapper, brandtrapper, altaner, altangange og lignende, medregnes med 25 pct.* Det vil sige, at hvor disse arealer ikke indgår i arealopgørelsen ifølge [§ 455](../../../../../ovrige-bestemmelser/23/krav/#paragraf-455 "BR18 § 455"){ .br18-ref }, skal de medregnes med 25 pct. af arealet i opgørelsen af klimapåvirkning. Andre eksempler på arealer, der kan være omfattet af 25 pct., kan for eksempel være Stack-parking områder, som muliggør parkering i flere niveauer inden for en etage.
 - *Integrerede carporte, udhuse, overdækninger, skure og lignende medregnes alene med 25 pct.* Dette dækker konstruktioner, der er opført som integreret del af bygningen, som for eksempel integrerede overdækkede legeområder. Det betyder fx, at der for en bygning opført på søjler, hvor arealet under dækket, som søjlerne bærer, anvendes til parkeringspladser, skal medregne 25 pct. af arealet under søjlerne i referencearealet. Et andet eksempel er teknikhuse på tage, som også skal medregnes med 25 pct. af arealet.
 - *Walk-on-ceilings og lignende medregnes alene med 25 pct.* Walk-on-ceilings er for eksempel installationslofter, hvis højde svarer til rumhøjde, og som kan bære personlaster.
 - *Overdækkede, ikke-integrerede terrasser samt udnyttede tagflader og lignende medtages ikke,* hverken hvad angår materialer anvendt til opførelsen eller arealet af disse områder. Overdækkede terrasser kan f.eks. være en  tagkonstruktionen med det formål, at have mulighed for ophold herunder.
@@ -75,7 +75,7 @@ Sum =  213,75 m^2^ \* n antal etager
 
 *Udvendige ramper, trapper, brandtrapper, altangange og lignende medregnes alene med 25 pct.*
 
-*Indvendige trapper indgår fuldt i etagearealet, jf. § 455.* Trappen er her inden for klimaskærmen, og tæller derfor fuldt ud (100 pct.).
+*Indvendige trapper indgår fuldt i etagearealet, jf. [§ 455](../../../../../ovrige-bestemmelser/23/krav/#paragraf-455 "BR18 § 455"){ .br18-ref }.* Trappen er her inden for klimaskærmen, og tæller derfor fuldt ud (100 pct.).
 
 Etageareal: 13 m \* 16 m = 208 m^2^
 
@@ -137,7 +137,7 @@ Der etableres en tagterrasse på bygningens tagopbygning. Hverken arealet herfra
 
 #### **1.3.2 Definition af integrerede carporte eller garager**
 
-For §297, stk. 5 gælder den samme definition for hvornår en carport eller garage anses for værende integreret som beskrevet under bygningsreglementets administrative bestemmelser, vejledning pkt. 6.1 integrerede bygninger. Definitionen lyder som følge:
+For [§297, stk. 5](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref } gælder den samme definition for hvornår en carport eller garage anses for værende integreret som beskrevet under bygningsreglementets administrative bestemmelser, vejledning pkt. 6.1 integrerede bygninger. Definitionen lyder som følge:
 
 *”En integreret bygning kan eksempelvis være en garage, carport, udhus eller lignende, der ligger under samme tagkonstruktion som den primære bygning. En bygning kan også være integreret, hvis opførelse, ændring eller nedrivning af den integrerede bygning, kan påvirke den samlede bebyggelses konstruktive forhold.”*
 

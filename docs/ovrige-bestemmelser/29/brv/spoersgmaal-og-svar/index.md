@@ -23,7 +23,7 @@ Præ-accepterede løsninger omfatter alene de brandsikringsløsninger, der fremg
 
 De præ-accepterede løsninger er materialeneutrale og angiver ikke anvisninger til udformning af byggevarer og bygningsdele, som udgør brandsikringstiltag. I kapitel 1 i Bygningsreglementets vejledning til kapitel 5 – Brand, angives retningslinjer for dokumentation af de brandmæssige egenskaber af byggevarer og bygningsdele.
 
-Ved fravigelse af præ-accepterede løsninger, f.eks. ved udeladelse af et brandsikringstiltag eller ved anvendelse af andre funktionskrav eller ydeevnekriterier for et brandsikringstiltag, end forudsat i den præ-accepterede løsning, skal det eftervises, at sikkerhedsniveauet i BR18, kapitel 5 er opfyldt. Fravigelse af præ-accepterede løsninger og metode for eftervisning af sikkerhedsniveauet ved fravigelsen, kan influere på byggeriets indplacering i brandklasse.
+Ved fravigelse af præ-accepterede løsninger, f.eks. ved udeladelse af et brandsikringstiltag eller ved anvendelse af andre funktionskrav eller ydeevnekriterier for et brandsikringstiltag, end forudsat i den præ-accepterede løsning, skal det eftervises, at sikkerhedsniveauet i BR18, [kapitel 5](../../../../tekniske-bestemmelser/05/krav/ "BR18 kapitel 5"){ .br18-ref } er opfyldt. Fravigelse af præ-accepterede løsninger og metode for eftervisning af sikkerhedsniveauet ved fravigelsen, kan influere på byggeriets indplacering i brandklasse.
 
 #### Dokumentation af bygningsdeles brandmæssige egenskaber
 
@@ -62,7 +62,7 @@ I Bygningsreglementets Vejledning til kapitel 29: Dokumentation af brandforhold,
 
 *Når et brandteknisk tiltag søges dokumenteret i det alment tekniske fælleseje, vil det fortsat være nødvendigt i projektets brandtekniske dokumentation at dokumentere, at løsningens forudsætninger er opfyldt, at løsningen opfylder alle relevante krav i det aktuelle projekt, herunder gældende standarder, samt at det udførte i alle henseender svarer til det, som er beskrevet i det alment tekniske fælleseje. Hvis det projekterede eller udførte brandtekniske tiltag afviger fra det alment tekniske fælleseje, skal det dokumenteres, at afvigelserne ikke afstedkommer afvigelser fra kravene.*
 
-Dokumentation for projektering og udførelse af brandsikringstiltag, herunder dokumentation for en byggevares eller bygningsdels brandmæssige egenskaber, skal udføres af aktører i projekterings- og udførelsesprocessen. Dokumentationen er omfattet af krav til kontrol i overensstemmelse med BR18, Kapitel 30.
+Dokumentation for projektering og udførelse af brandsikringstiltag, herunder dokumentation for en byggevares eller bygningsdels brandmæssige egenskaber, skal udføres af aktører i projekterings- og udførelsesprocessen. Dokumentationen er omfattet af krav til kontrol i overensstemmelse med BR18, [Kapitel 30](../../../30/krav/ "BR18 kapitel 30"){ .br18-ref }.
 
 Det er bygningsejer, der har ansvaret for, at brandsikringstiltagene i det konkrete byggeri opfylder de forudsatte krav i bygge- og ibrugtagningstilladelser, herunder forudsætninger i brandstrategirapport og funktionsbeskrivelser mv., som ligger til grund herfor.
 
@@ -72,7 +72,7 @@ Bygningsejer, eller dennes fagansvarlige rådgiver, har således ansvaret for, a
 
 I Bygningsreglementets vejledning til kapitel 34 – Certificerede brandrådgivers virke, afsnit 1.1 angives følgende:
 
-*BR18 stiller krav til, at den certificerede brandrådgiver udarbejder eller kontrollerer den del af dokumentationen, der vedrører designprocessen (udfærdigelse af den brandtekniske dokumentation herunder kontrolplaner), jf. BR18, § 548. For den del af dokumentationen, som vedrører dokumentation for projektering og udførelse af brandsikringstiltag, skal den certificerede brandrådgiver som minimum udfærdige kontrolplaner og sikre, at kontrolrapporter er udarbejdet og afvigelser behandlet.*
+*BR18 stiller krav til, at den certificerede brandrådgiver udarbejder eller kontrollerer den del af dokumentationen, der vedrører designprocessen (udfærdigelse af den brandtekniske dokumentation herunder kontrolplaner), jf. BR18, [§ 548](../../../34/krav/#paragraf-548 "BR18 § 548"){ .br18-ref }. For den del af dokumentationen, som vedrører dokumentation for projektering og udførelse af brandsikringstiltag, skal den certificerede brandrådgiver som minimum udfærdige kontrolplaner og sikre, at kontrolrapporter er udarbejdet og afvigelser behandlet.*
 
 *For kontrolrapporter for projektering og udførelse kan den certificerede brandrådgiver sikre dette ved en supplerende kontrol svarende til mindst en minimumskontrol af en kontrolregistreringsrapport for de enkelte brandsikringstiltag/kontrolgenstande (se vejledning til BR18, kapitel 32, afsnit 2.3.3). Kontrolregistreringsrapporten udarbejdes af en kompetent aktør f.eks. den udførende for kontrolrapport for udførelse eller den projekterende for kontrolrapport for projektering.*
 

@@ -74,13 +74,13 @@
 
 ### 3.6. Dispensation {#d14d5ac9-e2e4-4faa-bd1f-44169080f364}
 
-Byggelovens § 22 giver kommunalbestyrelsen hjemmel til at dispensere fra byggelovgivningens bestemmelser, såfremt bygherren ansøger herom i forbindelse med ansøgning om byggetilladelse.
+Byggelovens [§ 22](https://www.retsinformation.dk/eli/lta/2016/1178#P22 "Byggeloven § 22"){ .br18-ref .br18-ref--ext } giver kommunalbestyrelsen hjemmel til at dispensere fra byggelovgivningens bestemmelser, såfremt bygherren ansøger herom i forbindelse med ansøgning om byggetilladelse.
 
-I medfør af BR18 § 13 skal ansøgning om dispensation fra bestemmelser i bygningsreglementet indgives til kommunalbestyrelsen ved anvendelse af Byg & Miljø. Ansøgningen skal signeres digitalt af ejeren eller en fuldmægtig for denne, men kommunalbestyrelsen kan stille krav om, at ansøgningen underskrives af ejeren personligt.
+I medfør af BR18 [§ 13](../../../krav/#paragraf-13 "BR18 § 13"){ .br18-ref } skal ansøgning om dispensation fra bestemmelser i bygningsreglementet indgives til kommunalbestyrelsen ved anvendelse af Byg & Miljø. Ansøgningen skal signeres digitalt af ejeren eller en fuldmægtig for denne, men kommunalbestyrelsen kan stille krav om, at ansøgningen underskrives af ejeren personligt.
 
 Der kan alene gives dispensation, hvis dispensationen ikke tilsidesætter de hensyn, som den pågældende bestemmelse skal varetage. Kommunalbestyrelsen skal derfor i den enkelte byggesag foretage en konkret vurdering af, om der i forbindelse med byggesagen kan dispenseres fra bygningsreglementets bestemmelser, og om der eventuelt i forbindelse med dispensationen skal knyttes særlige vilkår til byggetilladelsen.
 
-Med ændringen af BR18 den 1. januar 2020, er det i overensstemmelse med byggelovens § 22 præciseret, at dispensationsadgangen ikke omfatter funktionskrav, hvor hensynet bag bestemmelsen er brand- eller sikkerhedshensyn. Præciseringen ændrer ikke i den hidtidige adgang til at dispensere, men er taget med for at skabe klarhed om dispensationsadgangen.
+Med ændringen af BR18 den 1. januar 2020, er det i overensstemmelse med byggelovens [§ 22](https://www.retsinformation.dk/eli/lta/2016/1178#P22 "Byggeloven § 22"){ .br18-ref .br18-ref--ext } præciseret, at dispensationsadgangen ikke omfatter funktionskrav, hvor hensynet bag bestemmelsen er brand- eller sikkerhedshensyn. Præciseringen ændrer ikke i den hidtidige adgang til at dispensere, men er taget med for at skabe klarhed om dispensationsadgangen.
 
 Der kan ikke dispenseres fra formelle krav, det vil sige krav om ansøgning om byggetilladelse, gebyr mv.
 

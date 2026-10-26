@@ -74,7 +74,7 @@
 
 ### 3. Ansøgning om byggetilladelse {#633ab8ec-57f6-4185-82f5-8bd2491b8149}
 
-Byggeri må ikke påbegyndes uden byggetilladelse fra kommunalbestyrelsen, medmindre det er undtaget efter §§ 4 og 5.
+Byggeri må ikke påbegyndes uden byggetilladelse fra kommunalbestyrelsen, medmindre det er undtaget efter [§§ 4](../../../krav/#paragraf-4 "BR18 § 4"){ .br18-ref } og [5](../../../krav/#paragraf-5 "BR18 § 5"){ .br18-ref }.
 
 Kommunalbestyrelsen kan beslutte at opkræve gebyr for behandling af en ansøgning. [Læs mere om opkrævning af gebyr her](https://historisk.bygningsreglementet.dk/file/627481/gebyr.pdf){rel="noopener noreferrer" target="_blank"}. For kommunalbestyrelsens behandlingstid gælder aftale om servicemål.
 

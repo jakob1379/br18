@@ -34,9 +34,9 @@ Bebyggelse, der overskrider skel, kan forekomme på flere forskellige måder. Fo
 
 *Byggeri over skel beliggende over terræn*
 
-Når der etableres bebyggelse over skel, som er beliggende over terræn, er det under forudsætning af, at de ejendomsretlige hensyn er afklaret ved indhentelse af samtykke fra nabogrundejer, og at bebyggelsen  lovligt vil kunne etableres i henhold til bygningsreglementets bestemmelser, samt at bebyggelsen i øvrigt ikke er i strid med anden lovgivning, jf. BR18, kap. 1, § 35, stk. 2.
+Når der etableres bebyggelse over skel, som er beliggende over terræn, er det under forudsætning af, at de ejendomsretlige hensyn er afklaret ved indhentelse af samtykke fra nabogrundejer, og at bebyggelsen  lovligt vil kunne etableres i henhold til bygningsreglementets bestemmelser, samt at bebyggelsen i øvrigt ikke er i strid med anden lovgivning, jf. BR18, [kap. 1](../../../krav/ "BR18 kapitel 1"){ .br18-ref }, [§ 35, stk. 2](../../../krav/#paragraf-35 "BR18 § 35"){ .br18-ref }.
 
-Er de ejendomsretlige forhold således afklaret, og er opførelsen af bebyggelsen ikke i strid med anden lovgivning, vil kommunen efter en helhedsvurdering i henhold til BR18, kap. 8, §§ 187-195, kunne give tilladelse til opførelse af f.eks. altaner i gavl beliggende over nabogrunden.
+Er de ejendomsretlige forhold således afklaret, og er opførelsen af bebyggelsen ikke i strid med anden lovgivning, vil kommunen efter en helhedsvurdering i henhold til BR18, [kap. 8](../../../../tekniske-bestemmelser/08/krav/ "BR18 kapitel 8"){ .br18-ref }, [§§ 187-195](../../../../tekniske-bestemmelser/08/krav/#8d7ffa5e-ed08-4539-bd6b-133d50938a9a "BR18 §§ 187-195"){ .br18-ref }, kunne give tilladelse til opførelse af f.eks. altaner i gavl beliggende over nabogrunden.
 
 *Byggeri over skel beliggende på terræn og under terræn*
 

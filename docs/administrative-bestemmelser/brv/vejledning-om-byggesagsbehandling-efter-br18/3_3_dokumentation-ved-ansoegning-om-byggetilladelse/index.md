@@ -88,7 +88,7 @@
 
 Kommunalbestyrelsen skal foretage en vurdering af om den dokumentation, der indsendes ved ansøgning om byggetilladelse er i overensstemmelse med de for byggesagen relevante krav.
 
-Kravene til dokumentation ved ansøgning om byggetilladelse følger af BR18 § 10, og det er den dokumentation, der skal indsendes for, at kommunalbestyrelsen kan behandle en ansøgning.
+Kravene til dokumentation ved ansøgning om byggetilladelse følger af BR18 [§ 10](../../../krav/#paragraf-10 "BR18 § 10"){ .br18-ref }, og det er den dokumentation, der skal indsendes for, at kommunalbestyrelsen kan behandle en ansøgning.
 
 En ansøgning om byggetilladelse skal indeholde:
 
@@ -110,17 +110,17 @@ En ansøgning om byggetilladelse skal, hvis det er relevant for byggearbejdet in
 
   kommunalbestyrelsen, ligesom det i mange tilfælde vil være nødvendigt at foretage partshøring af naboer eller andre relevante parter i forbindelse med behandlingen af denne dokumentation.
 
-- Oplysning om og dokumentation for, hvilken konstruktionsklasse byggeriet kan henføres til, jf. kap. 26 om konstruktionsklasser og kap. 28 om dokumentation af bærende konstruktioner. Læs mere om dette nedenfor.
+- Oplysning om og dokumentation for, hvilken konstruktionsklasse byggeriet kan henføres til, jf. [kap. 26](../../../../ovrige-bestemmelser/26/krav/ "BR18 kapitel 26"){ .br18-ref } om konstruktionsklasser og [kap. 28](../../../../ovrige-bestemmelser/28/krav/ "BR18 kapitel 28"){ .br18-ref } om dokumentation af bærende konstruktioner. Læs mere om dette nedenfor.
 
-- For ombygninger og forandringer af eksisterende byggeri, hvor de bærende konstruktioners virkemåde ændres, skal der indsendes oplysning om og dokumentation for, hvilken konstruktionsklasse det berørte konstruktionsafsnit kan henføres til, jf. kapitel 26 om konstruktionsklasser og kapitel 28 om dokumentation af bærende konstruktioner.
+- For ombygninger og forandringer af eksisterende byggeri, hvor de bærende konstruktioners virkemåde ændres, skal der indsendes oplysning om og dokumentation for, hvilken konstruktionsklasse det berørte konstruktionsafsnit kan henføres til, jf. [kapitel 26](../../../../ovrige-bestemmelser/26/krav/ "BR18 kapitel 26"){ .br18-ref } om konstruktionsklasser og [kapitel 28](../../../../ovrige-bestemmelser/28/krav/ "BR18 kapitel 28"){ .br18-ref } om dokumentation af bærende konstruktioner.
 
-- Oplysning om og dokumentation for, hvilken brandklasse byggeriet kan henføres til, jf. kap. 27 om brandklasser og kap. 29 om dokumentation af brandforhold. Læs mere om dette nedenfor.
+- Oplysning om og dokumentation for, hvilken brandklasse byggeriet kan henføres til, jf. [kap. 27](../../../../ovrige-bestemmelser/27/krav/ "BR18 kapitel 27"){ .br18-ref } om brandklasser og [kap. 29](../../../../ovrige-bestemmelser/29/krav/ "BR18 kapitel 29"){ .br18-ref } om dokumentation af brandforhold. Læs mere om dette nedenfor.
 
-- For ombygninger og forandringer af eksisterende byggeri, hvor forudsætningerne for de brandmæssige forhold ændres, skal der indsendes oplysning om og dokumentation for, hvilken brandklasse det pågældende bygningsafsnit kan henføres til, jf. kapitel 27 om brandklasser og kapitel 29 om dokumentation af brandforhold. Det skal tages højde for, om ændringen påvirker andre dele af bygningens brandforhold.
+- For ombygninger og forandringer af eksisterende byggeri, hvor forudsætningerne for de brandmæssige forhold ændres, skal der indsendes oplysning om og dokumentation for, hvilken brandklasse det pågældende bygningsafsnit kan henføres til, jf. [kapitel 27](../../../../ovrige-bestemmelser/27/krav/ "BR18 kapitel 27"){ .br18-ref } om brandklasser og [kapitel 29](../../../../ovrige-bestemmelser/29/krav/ "BR18 kapitel 29"){ .br18-ref } om dokumentation af brandforhold. Det skal tages højde for, om ændringen påvirker andre dele af bygningens brandforhold.
 
-- Oplysninger om og dokumentation for, hvorledes byggeriet opfylder §§ 126-133 vedrørende redningsberedskabets indsatsforhold, herunder hvorvidt byggeriet er indsatstaktisk traditionelt, jf. § 510.
+- Oplysninger om og dokumentation for, hvorledes byggeriet opfylder [§§ 126-133](../../../../tekniske-bestemmelser/05/krav/#0875873c-27b3-435c-b6aa-6d7bb2a978d7 "BR18 §§ 126-133"){ .br18-ref } vedrørende redningsberedskabets indsatsforhold, herunder hvorvidt byggeriet er indsatstaktisk traditionelt, jf. [§ 510](../../../../ovrige-bestemmelser/29/krav/#paragraf-510 "BR18 § 510"){ .br18-ref }.
 
-Det tidligere krav om tæthedsprøvning fremgår ikke længere af kapitel 1 i BR18. I stedet fremgår det af BR18 § 263, stk. 3, at kravet kan dokumenteres ved at der foretages en trykprøvning.
+Det tidligere krav om tæthedsprøvning fremgår ikke længere af [kapitel 1](../../../krav/ "BR18 kapitel 1"){ .br18-ref } i BR18. I stedet fremgår det af BR18 [§ 263, stk. 3](../../../../tekniske-bestemmelser/11/krav/#paragraf-263 "BR18 § 263"){ .br18-ref }, at kravet kan dokumenteres ved at der foretages en trykprøvning.
 
 Hvis byggeriet er omfattet af krav om byggeskadeforsikring, skal der indsendes dokumentation for, at et forsikringsselskab har afgivet tilbud på byggeskadeforsikring. [Læs mere om byggeskadeforsikring her](../../../../vejledninger/andre_vejledninger/vejledning/byggeskadeforsikring/ "Byggeskadeforsikring").
 

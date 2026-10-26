@@ -94,7 +94,7 @@ Med kalibreret eksternt måleudstyr skal anlæggets sensorer (fx temperatur-, CO
 
 Omfanget af funktionsafprøvningen er minimum 25 % af hver type sensor (f.eks. temperatur-, CO2, fugt, kanaltryk, lys). Der bør vælges afprøvning forskellige steder i bygningen og udvælges ud fra om sensorers vigtighed for systemets funktion. Hvis der konstateres en eller flere mangler, udbedres manglerne og omfanget af denne type øges til 50 %.
 
-Udetemperaturen måles ved brug af eksternt måleudstyr samme sted som anlæggets udetemperaturføler er placeret. Samtidigt kontrolleres det, om målepunktet er egnet til måling af udetemperatur. Det vil sige uden mulighed for påvirkning af direkte solindfald. Måleren kan være den samme måler, som benyttes som en del af funktionsafprøvning af varmeanlæg efter § 391.
+Udetemperaturen måles ved brug af eksternt måleudstyr samme sted som anlæggets udetemperaturføler er placeret. Samtidigt kontrolleres det, om målepunktet er egnet til måling af udetemperatur. Det vil sige uden mulighed for påvirkning af direkte solindfald. Måleren kan være den samme måler, som benyttes som en del af funktionsafprøvning af varmeanlæg efter [§ 391](../../../../19/krav/#4c7bbd31-b269-4ca3-875c-1904e102a154 "BR18 § 391"){ .br18-ref }.
 
 Udelysmængden (Lux) måles ved brug af eksternt måleudstyr samme sted som anlæggets udelysmængdefølere er placerede. Samtidigt kontrolleres det, om målepunkterne er egnet til måling af direkte solindfald.
 

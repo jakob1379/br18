@@ -38,7 +38,7 @@ Vejledningen tager udgangspunkt i Tiny Houses, der opfylder følgende krav:
 - Bygning der anvendes til helårsbeboelse (opvarmet)
 - Blivende bygning (dvs. ikke midlertidig)
 
-Vejledningen omhandler dermed ikke etageboligbyggeri, containerbyggeri, midlertidige, flytbare pavilloner (jf. §§287-292) eller husbåde.
+Vejledningen omhandler dermed ikke etageboligbyggeri, containerbyggeri, midlertidige, flytbare pavilloner (jf. [§§287-292](../../../../tekniske-bestemmelser/11/krav/#f83468ad-c2a0-4b59-840a-7f0e0afc27f9 "BR18 §§ 287-292"){ .br18-ref }) eller husbåde.
 
 Dobbelthuse eller andre former for sammenbyggede boliger er ikke Tiny Houses i denne sammenhæng.
 
@@ -66,7 +66,7 @@ Den niveaufri adgang skal etableres til mindst én yderdør. Ligesom for alminde
 
 Kravet om etablering af køkken i boliger på under 50 m^2^ kan opfyldes ved, at der etableres en kogeniche, hvor der ikke stilles afstandskrav med hensyn til arbejds- og opbevaringspladser.
 
-Tiny Houses kan udføres i klynger, som fx er fælles om køkken-, bade- og wc-faciliteter og dermed opfyldes hensigten med funktionskravene på anden vis end normalt. I disse tilfælde er det den kommunale byggesagsbehandling, der kan tage stilling til, om der i den konkrete byggesag ikke skal stilles krav om individuelle køkken, bade- og wc-rum jf. § 200 og i stedet anvende § 201. Indretningen af de fælles faciliteter skal ske under hensyn til antallet af beboere i klyngen.
+Tiny Houses kan udføres i klynger, som fx er fælles om køkken-, bade- og wc-faciliteter og dermed opfyldes hensigten med funktionskravene på anden vis end normalt. I disse tilfælde er det den kommunale byggesagsbehandling, der kan tage stilling til, om der i den konkrete byggesag ikke skal stilles krav om individuelle køkken, bade- og wc-rum jf. [§ 200](../../../../tekniske-bestemmelser/09/krav/#paragraf-200 "BR18 § 200"){ .br18-ref } og i stedet anvende [§ 201](../../../../tekniske-bestemmelser/09/krav/#paragraf-201 "BR18 § 201"){ .br18-ref }. Indretningen af de fælles faciliteter skal ske under hensyn til antallet af beboere i klyngen.
 
 ### 4. Energiforbrug og klimapåvirkning {#1d19ac66-0648-4771-b140-822fb7f10d2c}
 
@@ -78,7 +78,7 @@ Bygningsreglementet har desuden siden 1/1-2023 stillet krav om at alt nybyggeri 
 
 **Efterlevelse af krav**
 
-Normalt vil man kunne opfylde energirammekravet og kravet til det dimensionerende transmissionstab, hvis et Tiny House opføres med varmepumpe og en klimaskærm der lever op til U-værdi-kravene for *ombygninger* jf. § 279 samt vinduer, glasvægge, døre, glastage og ovenlysvinduer der overholder kravene i §§ 257 og 258. Dette skal eftervises ved en energibehovsberegning fx med Be18. En evt. manko, fx i forbindelse med brug af andre energiforsyningsformer, kan kompenseres med VE-anlæg.
+Normalt vil man kunne opfylde energirammekravet og kravet til det dimensionerende transmissionstab, hvis et Tiny House opføres med varmepumpe og en klimaskærm der lever op til U-værdi-kravene for *ombygninger* jf. [§ 279](../../../../tekniske-bestemmelser/11/krav/#paragraf-279 "BR18 § 279"){ .br18-ref } samt vinduer, glasvægge, døre, glastage og ovenlysvinduer der overholder kravene i [§§ 257](../../../../tekniske-bestemmelser/11/krav/#2e287fd3-1b3e-438a-9600-d843248b8d99 "BR18 § 257"){ .br18-ref } og [258](../../../../tekniske-bestemmelser/11/krav/#fd620db7-f2ed-41e9-8e42-3f4b75f234be "BR18 § 258"){ .br18-ref }. Dette skal eftervises ved en energibehovsberegning fx med Be18. En evt. manko, fx i forbindelse med brug af andre energiforsyningsformer, kan kompenseres med VE-anlæg.
 
 Kravet til tæthed vil normalt kunne opfyldes, hvis der projekteres et hensigtsmæssigt tæthedsplan, fx ved en sammenhængende dampspærreløsning i og mellem bygningsdelene.
 
@@ -126,7 +126,7 @@ Krav om evt. lydisolering mod trafikstøj vil normalt kunne afklares ved at opsl
 
 Bygningsreglementet kræver, at beboelsesrum og køkken skal have en sådan tilgang af dagslys, at rummene er tilstrækkeligt belyste. Projektering og udførelse skal ske under hensyn til, at dagslyset udnyttes bedst muligt som lyskilde, unødigt energiforbrug undgås, unødig varmetilførsel til rummene undgås, gener ved direkte solstråling undgås og at gener ved blænding minimeres.
 
-Kravet kan eftervises ved en dagslysberegning eller ved brug af 10%-reglen, der siger at glasarealet (uden poster og sprosser) skal være mindst 10 pct. af det indvendige gulvareal (jf. § 379 stk. 2). Glasarealet skal dog evt. korrigeres for en række skyggende forhold, der reducerer dagslystilgangen.
+Kravet kan eftervises ved en dagslysberegning eller ved brug af 10%-reglen, der siger at glasarealet (uden poster og sprosser) skal være mindst 10 pct. af det indvendige gulvareal (jf. [§ 379 stk. 2](../../../../tekniske-bestemmelser/18/krav/#paragraf-379 "BR18 § 379"){ .br18-ref }). Glasarealet skal dog evt. korrigeres for en række skyggende forhold, der reducerer dagslystilgangen.
 
 **Efterlevelse af krav**
 

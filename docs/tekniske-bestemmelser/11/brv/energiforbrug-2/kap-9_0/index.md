@@ -110,7 +110,7 @@
 
 ### 9.0. Bygningsautomatik i større bygninger {#7e795995-247b-49e7-94d4-018b4d783347}
 
- Kravet til bygningsautomatik i større bygninger i § 295 er en direkte følge af det tilsvarende krav i EU-direktiv 2010/31/EU om bygningers energimæssige ydeevne (EPBD).
+ Kravet til bygningsautomatik i større bygninger i [§ 295](../../../krav/#paragraf-295 "BR18 § 295"){ .br18-ref } er en direkte følge af det tilsvarende krav i EU-direktiv 2010/31/EU om bygningers energimæssige ydeevne (EPBD).
 
 ### 9.1. Formål {#4e9a8e45-ebd4-4d41-8104-46462f8364d3}
 

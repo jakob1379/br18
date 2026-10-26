@@ -102,7 +102,7 @@
 
 ### 8.3. Områder uden adgang til fjernvarme eller naturgas {#1a5f696b-8140-48d6-bc8b-0207d6ef699d}
 
-Eksisterende bygninger beliggende i områder uden adgang til fjernvarme eller naturgas er ikke omfattet af kravet om, at bygningsopvarmning skal baseres på vedvarende energi. Dette gælder ved såvel udskiftning af varmesystemet som ved mindre ombygninger. Hvorvidt omfanget af et ombygningsarbejde kan sidestilles med et nybyggeri, og derfor vil være omfattet af kravet i §293, beror på en konkret vurdering efter byggelovens § 2, stk. 1, litra b.
+Eksisterende bygninger beliggende i områder uden adgang til fjernvarme eller naturgas er ikke omfattet af kravet om, at bygningsopvarmning skal baseres på vedvarende energi. Dette gælder ved såvel udskiftning af varmesystemet som ved mindre ombygninger. Hvorvidt omfanget af et ombygningsarbejde kan sidestilles med et nybyggeri, og derfor vil være omfattet af kravet i [§293](../../../krav/#paragraf-293 "BR18 § 293"){ .br18-ref }, beror på en konkret vurdering efter byggelovens [§ 2, stk. 1, litra b](https://www.retsinformation.dk/eli/lta/2016/1178#P2 "Byggeloven § 2"){ .br18-ref .br18-ref--ext }.
 
 - [Gå til energikrav for bygningsopvarmning - Områder uden adgang til fjernvarme eller naturgas (§ 296)](../../../krav/295_296/#0fa99ed3-1c44-426c-a3b3-6de893c65b2b){target="_blank"}
 

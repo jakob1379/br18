@@ -114,7 +114,7 @@
 
 Den krævede bygningsautomatik skal sikre, at der opnås god styring, regulering, drift og overvågning af installationerne i bygningen. Kravene svarer til hvad der allerede i dag installeres i de fleste lidt større bygninger samt på ejendomme eller til bygningsejere med flere bygninger.
 
-Såfremt denne vejledning bliver fulgt, anses kravene i BR18, §295 for opfyldt.
+Såfremt denne vejledning bliver fulgt, anses kravene i BR18, [§295](../../../krav/#paragraf-295 "BR18 § 295"){ .br18-ref } for opfyldt.
 
 ### 9.2. Omfang, nye bygninger: {#01860e96-c4ee-4106-9dbc-1a6b67870c70}
 

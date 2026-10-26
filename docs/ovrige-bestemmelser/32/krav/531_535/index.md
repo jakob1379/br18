@@ -10,9 +10,9 @@ Formålet med den certificerede statikers og brandrådgivers virke er at sikre, 
 
 2\) de bærende konstruktioner og brandforhold er i overensstemmelse med definerede krav til sikkerhed og anvendelighed, samt egnede til formålet, og
 
-3\) dokumentation for byggeriet, herunder udførelse af byggeriet, opfylder sit formål, jf. kapitel 28 og 29, og
+3\) dokumentation for byggeriet, herunder udførelse af byggeriet, opfylder sit formål, jf. [kapitel 28](../../../28/krav/ "BR18 kapitel 28"){ .br18-ref } og [29](../../../29/krav/ "BR18 kapitel 29"){ .br18-ref }, og
 
-4\) dokumentation for og udførelse af byggeriet kontrolleres i henhold til kapitel 30.
+4\) dokumentation for og udførelse af byggeriet kontrolleres i henhold til [kapitel 30](../../../30/krav/ "BR18 kapitel 30"){ .br18-ref }.
 
 *Stk. 2.* For dokumentation, jf. stk. 1, nr. 4, er kontroldokumentationen af almen kontrol undtaget fra den certificerede statikers og brandrådgivers virke.
 
@@ -32,11 +32,11 @@ Den certificerede statiker eller brandrådgiver er tilknyttet byggesagen og bygg
 
 *Stk. 2.* For de dele af et byggeri, der er i konstruktionsklasse 4 og brandklasse 4, skal der være tilknyttet en certificeret statiker og brandrådgiver som tredjepartskontrollant.
 
-   *Stk.* *3.* Den certificerede brandrådgiver, der medvirker på byggearbejder i medfør af § 21, stk. 1, nr. 3, er dog ikke tilknyttet byggesagen i sin helhed, men kun til at eftervise, at brandsikkerhedsniveauet overholdes ved fravigelser fra de præ-accepterede løsninger.
+   *Stk.* *3.* Den certificerede brandrådgiver, der medvirker på byggearbejder i medfør af [§ 21, stk. 1, nr. 3](../../../../administrative-bestemmelser/krav/#paragraf-21 "BR18 § 21"){ .br18-ref }, er dog ikke tilknyttet byggesagen i sin helhed, men kun til at eftervise, at brandsikkerhedsniveauet overholdes ved fravigelser fra de præ-accepterede løsninger.
 
 ### § 534 {#paragraf-534}
 
-Ved udfærdigelse af dokumentation for bærende konstruktioner og brandforhold, jf. kapitel 28-30, skal den certificerede statiker eller brandrådgiver afhængigt af sit virke, jf. [§§ 536](../../../33/krav/536_544/) og [545](../../../34/krav/545_551/), foretage en af følgende handlinger:
+Ved udfærdigelse af dokumentation for bærende konstruktioner og brandforhold, jf. [kapitel 28-30](../../../28/krav/ "BR18 kapitel 28-30"){ .br18-ref }, skal den certificerede statiker eller brandrådgiver afhængigt af sit virke, jf. [§§ 536](../../../33/krav/536_544/) og [545](../../../34/krav/545_551/), foretage en af følgende handlinger:
 
 1) Ved virke som udarbejdende: Tilrettelægge og udforme dokumentationen.
 

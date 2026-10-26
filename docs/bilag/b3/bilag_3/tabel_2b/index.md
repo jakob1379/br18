@@ -12,7 +12,7 @@
 
 ## Tabel 2b – Mindstekrav til niveau af uafhængig kontrol af bærende konstruktioner som udført i forhold til konstruktionsklassen (KK), jf. § 527 {#503eb87f-83f9-4056-b018-2ae3e00ca944}
 
-*Tabel 2b – Mindstekrav til niveau af uafhængig kontrol af bærende konstruktioner som udført i forhold til konstruktionsklassen (KK), jf. § 527*
+*Tabel 2b – Mindstekrav til niveau af uafhængig kontrol af bærende konstruktioner som udført i forhold til konstruktionsklassen (KK), jf. [§ 527](../../../../ovrige-bestemmelser/30/krav/#paragraf-527 "BR18 § 527"){ .br18-ref }*
 
 <table>
 <tbody>

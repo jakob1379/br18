@@ -104,7 +104,7 @@ Tabel 2.: Anbefaling om dokumentation og dens indhold.
 
 I en eventuel forhåndsdialog mellem ansøger og kommune kan specifikationer omkring dokumentationen, og i hvilket format den skal afleveres, drøftes og aftales.
 
-8\) Bygningsreglementet, kap. 1, § 43, stk. 2
+8\) Bygningsreglementet, [kap. 1](../../../krav/ "BR18 kapitel 1"){ .br18-ref }, [§ 43, stk. 2](../../../krav/#paragraf-43 "BR18 § 43"){ .br18-ref }
 
 <span id="stikprvekontrol-2-fase-vurdering-af-lsninger"></span>
 

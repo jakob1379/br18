@@ -16,7 +16,7 @@ Der skal foretages uafhængig kontrol af dokumentationen vedrørende:
 - indplacering i brandklasse
 - dokumentation for, hvorledes byggeriet opfylder [§§ 126-133](/tekniske-bestemmelser/05/krav/126_133/) vedrørende redningsberedskabets indsatsforhold
 - brandstrategirapporten
-- kontrolplanen, jf. [§§ 510-512](/ovrige-bestemmelser/29/krav/506_522/) og § 518
+- kontrolplanen, jf. [§§ 510-512](/ovrige-bestemmelser/29/krav/506_522/) og [§ 518](../../ovrige-bestemmelser/29/krav/#paragraf-518 "BR18 § 518"){ .br18-ref }
 
 For den øvrige del af dokumentationen kan uafhængig kontrol udføres af personer, der ikke har medvirket ved udarbejdelsen af den pågældende dokumentation.
 

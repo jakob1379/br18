@@ -42,7 +42,7 @@
 
 ### 2.2.2. Bebyggelsesbegrebet {#474459c0-19ed-4874-96f5-45b2f229b99d}
 
-Byggelovens § 2, stk. 2, indeholder en positiv afgrænsning af begrebet bebyggelse, og det fremgår heraf, at der ved bebyggelse forstås bygninger, mure og andre faste konstruktioner og anlæg, når
+Byggelovens [§ 2, stk. 2](https://www.retsinformation.dk/eli/lta/2016/1178#P2 "Byggeloven § 2"){ .br18-ref .br18-ref--ext }, indeholder en positiv afgrænsning af begrebet bebyggelse, og det fremgår heraf, at der ved bebyggelse forstås bygninger, mure og andre faste konstruktioner og anlæg, når
 
 lovens anvendelse for de pågældende konstruktioner mv. er begrundet i de hensyn som byggeloven varetager.
 

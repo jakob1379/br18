@@ -38,15 +38,15 @@
 
 Aftaler om opførelse af bebyggelse over skel kan være i strid med udstykningsloven, som henhører under Geodatastyrelsen.
 
-Efter ordlyden af udstykningslovens § 16 er det alene muligt at indgå aftale om brugsret for en del af en fast samlet ejendom for et tidsrum op til 30 år.
+Efter ordlyden af udstykningslovens [§ 16](https://www.retsinformation.dk/eli/lta/2024/53#P16 "Udstykningsloven § 16"){ .br18-ref .br18-ref--ext } er det alene muligt at indgå aftale om brugsret for en del af en fast samlet ejendom for et tidsrum op til 30 år.
 
-Udstykningslovens § 16 fortolkes dog således, at aftalen blot skal indeholde mulighed for opsigelse, så ingen af aftalens parter på noget tidspunkt er bundet af aftalen for mere end 30 år.
+Udstykningslovens [§ 16](https://www.retsinformation.dk/eli/lta/2024/53#P16 "Udstykningsloven § 16"){ .br18-ref .br18-ref--ext } fortolkes dog således, at aftalen blot skal indeholde mulighed for opsigelse, så ingen af aftalens parter på noget tidspunkt er bundet af aftalen for mere end 30 år.
 
 Hvis brugsretten overskrider åremålsgrænsen, kan brugsretsaftalen kun lovlig indgås, hvis aftalen angår en helt samlet fast ejendom.
 
-Geodatastyrelsen kan påbyde matrikulær registrering af forhold i strid med udstykningslovens § 16, jf. udstykningslovens § 21, stk. 1, eller påbyde parterne at ophæve aftalen, såfremt den nødvendige matrikulære forandring ikke finder sted, jf. udstykningslovens § 22. De relevante matrikulære ændringer vil være udstykning af en ny samlet fast ejendom eller arealoverførsel til en anden samlet fast ejendom, der ejes af den, der udøver brugsretten.
+Geodatastyrelsen kan påbyde matrikulær registrering af forhold i strid med udstykningslovens [§ 16](https://www.retsinformation.dk/eli/lta/2024/53#P16 "Udstykningsloven § 16"){ .br18-ref .br18-ref--ext }, jf. udstykningslovens [§ 21, stk. 1](https://www.retsinformation.dk/eli/lta/2024/53#P21 "Udstykningsloven § 21"){ .br18-ref .br18-ref--ext }, eller påbyde parterne at ophæve aftalen, såfremt den nødvendige matrikulære forandring ikke finder sted, jf. udstykningslovens [§ 22](https://www.retsinformation.dk/eli/lta/2024/53#P22 "Udstykningsloven § 22"){ .br18-ref .br18-ref--ext }. De relevante matrikulære ændringer vil være udstykning af en ny samlet fast ejendom eller arealoverførsel til en anden samlet fast ejendom, der ejes af den, der udøver brugsretten.
 
-Undladelse af at gennemføre den nødvendige matrikulære ændring, jf. udstykningslovens § 21, stk. 1, eller undladelse af at efterkomme påbud, jf. udstykningslovens § 22, kan straffes med bøde efter udstykningslovens § 48.
+Undladelse af at gennemføre den nødvendige matrikulære ændring, jf. udstykningslovens [§ 21, stk. 1](https://www.retsinformation.dk/eli/lta/2024/53#P21 "Udstykningsloven § 21"){ .br18-ref .br18-ref--ext }, eller undladelse af at efterkomme påbud, jf. udstykningslovens [§ 22](https://www.retsinformation.dk/eli/lta/2024/53#P22 "Udstykningsloven § 22"){ .br18-ref .br18-ref--ext }, kan straffes med bøde efter udstykningslovens [§ 48](https://www.retsinformation.dk/eli/lta/2024/53#P48 "Udstykningsloven § 48"){ .br18-ref .br18-ref--ext }.
 
 Det bemærkes, at Geodatastyrelsens beføjelser efter udstykningsloven ikke har til formål og er ikke egnede til, at løse almindelige naboretlige konflikter om overskridelse af skel. En tvist om byggeri på naboejendom må efter omstændighederne i sidste ende afgøres privatretligt ved domstolene.
 

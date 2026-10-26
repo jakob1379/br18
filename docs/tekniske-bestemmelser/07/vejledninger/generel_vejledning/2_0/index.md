@@ -16,7 +16,7 @@
 
 ### 2.0. Planlægning og udførelse af byggearbejder {#c9304f30-d3dc-4ef6-a2f4-96000abc0f1f}
 
-Det fremgår af bygningsreglementet 2018, kap. 7, § 162, at ved planlægning og udførelse af byggearbejder skal det sikres, at:
+Det fremgår af bygningsreglementet 2018, [kap. 7](../../../krav/ "BR18 kapitel 7"){ .br18-ref }, [§ 162](../../../krav/#paragraf-162 "BR18 § 162"){ .br18-ref }, at ved planlægning og udførelse af byggearbejder skal det sikres, at:
 
 1.  Der ikke sker svigt af nye eller eksisterende konstruktioner på egen grund eller på nabogrunde under udgravninger, opførelse og ombygning.
 2.  Montage af bygningsdele udføres, så der ikke er risiko for personer på egen grund eller på nabogrunde.

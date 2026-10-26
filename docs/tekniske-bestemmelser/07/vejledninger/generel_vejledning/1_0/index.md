@@ -14,7 +14,7 @@
 
 ### 1.0. Generelt {#ae17a0d2-4078-40c7-9064-6ab09cfc67b2}
 
-Det overordnede krav til byggepladser fremgår af bygningsreglementet 2018, kap. 7, § 161, hvoraf det fremgår at byggepladsen og byggearbejder skal planlægges og udføres, så der:
+Det overordnede krav til byggepladser fremgår af bygningsreglementet 2018, [kap. 7](../../../krav/ "BR18 kapitel 7"){ .br18-ref }, [§ 161](../../../krav/#paragraf-161 "BR18 § 161"){ .br18-ref }, hvoraf det fremgår at byggepladsen og byggearbejder skal planlægges og udføres, så der:
 
 1)   ikke sker skade på personer eller bygninger på og omkring byggepladsen.
 
@@ -22,7 +22,7 @@ Det overordnede krav til byggepladser fremgår af bygningsreglementet 2018, kap.
 
 3)   tages højde for vejrforhold.
 
-I §§ 162 – 165 uddybes kravene til byggepladsen og udførelse af byggearbejde.
+I [§§ 162 – 165](../../../krav/#paragraf-162 "BR18 §§ 162-165"){ .br18-ref } uddybes kravene til byggepladsen og udførelse af byggearbejde.
 
 ### 2.0. Planlægning og udførelse af byggearbejder {#c9304f30-d3dc-4ef6-a2f4-96000abc0f1f}
 

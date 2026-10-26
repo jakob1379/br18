@@ -9,7 +9,7 @@
 
 ### § 1 {#paragraf-1}
 
-Bygningsreglementet gælder for al bebyggelse, medmindre andet følger af §§ 4-6.
+Bygningsreglementet gælder for al bebyggelse, medmindre andet følger af [§§ 4-6](#0fc4e856-6ef9-41e5-bb5d-fa869f900ffd "BR18 §§ 4-6"){ .br18-ref }.
 
 ### § 2 {#paragraf-2}
 
@@ -37,9 +37,9 @@ Bygningsreglementet gælder ikke for:
 
 7\) Midlertidige udendørs camping- og salgsområder og lignende til højst 150 personer.
 
-8\) Trådløse adgangspunkter med lille rækkevidde som er omfattet af lov om etablering og fælles udnyttelse af master til radiokommunikationsformål m.v. § 1, stk. 4, nr. 2.
+8\) Trådløse adgangspunkter med lille rækkevidde som er omfattet af lov om etablering og fælles udnyttelse af master til radiokommunikationsformål m.v. [§ 1, stk. 4, nr. 2](https://www.retsinformation.dk/eli/lta/2021/420#P1 "Masteloven § 1"){ .br18-ref .br18-ref--ext }.
 
-9) Indkvartering i medfør af beredskabslovens § 12, stk. 1, 2. pkt.
+9) Indkvartering i medfør af beredskabslovens [§ 12, stk. 1, 2. pkt.](https://www.retsinformation.dk/eli/lta/2025/1741#P12 "Beredskabsloven § 12"){ .br18-ref .br18-ref--ext }
 
 10) Midlertidig overnatning i hele eller dele af egen bolig.
 
@@ -57,7 +57,7 @@ Følgende typer af byggearbejder skal overholde bygningsreglementet, men kan udf
 
 4) Ombygninger og andre forandringer i eksisterende byggeri, som ikke er omfattet af nr. 2 og 3, og som ikke ændrer de bærende konstruktioners virkemåde eller forudsætningerne for de brandmæssige forhold. Ombygningen eller forandringen må ikke medføre en væsentlig anvendelsesændring eller en udvidelse af etagearealet. En udvendig efterisolering på maksimalt 25 cm betragtes ikke som en udvidelse af etagearealet. Ændringer af lastvirkning på mindre end 5 pct. i forhold til eksisterende dokumentation og uændret statisk virkemåde af konstruktionen betragtes ikke som en ændring.   5) Udendørs svømmebassiner og havepejse i tilknytning til enfamiliehuse, tofamiliehuse, dobbelthuse og sommerhuse.
 
-6) Vedligeholdelsesbyggearbejder, ombygninger og andre forandringer i bestående bebyggelse, som har betydning for energiforbruget i bygningen, og som er omfattet af byggelovens § 2, stk. 1, litra e.
+6) Vedligeholdelsesbyggearbejder, ombygninger og andre forandringer i bestående bebyggelse, som har betydning for energiforbruget i bygningen, og som er omfattet af byggelovens [§ 2, stk. 1, litra e](https://www.retsinformation.dk/eli/lta/2016/1178#P2 "Byggeloven § 2"){ .br18-ref .br18-ref--ext }.
 
 7) Opførelse af og om- og tilbygninger til campinghytter, mobilehomes og lignende, der er omfattet af campingreglementet.
 
@@ -67,7 +67,7 @@ Følgende typer af byggearbejder skal overholde bygningsreglementet, men kan udf
 
 10) Udendørs anlæg til opbevaring af husdyrgødning, korn og foder samt tørringsanlæg for korn, frø og andre afgrøder.
 
-11) Bærerør, befæstelser og antennesystemer, der anvendes til radiokommunikation i elektroniske kommunikationsnet, jf. § 2, nr. 4 og 5 i lov om elektroniske kommunikationsnet og tjenester, herunder radiofrekvens- eller kabelbaseret teleinfrastruktur.
+11) Bærerør, befæstelser og antennesystemer, der anvendes til radiokommunikation i elektroniske kommunikationsnet, jf. [§ 2, nr. 4 og 5](https://www.retsinformation.dk/eli/lta/2025/681#P2 "Teleloven § 2"){ .br18-ref .br18-ref--ext } i lov om elektroniske kommunikationsnet og tjenester, herunder radiofrekvens- eller kabelbaseret teleinfrastruktur.
 
 12) Master og antennesystemer omfattende antenner med tilhørende teknisk udstyr, herunder kabler, befæstelse, forstærkere, filtre, teknikhuse, -kabiner og –skabe, jording og microlinks til transmission, der anvendes til jernbanekommunikation.
 
@@ -93,7 +93,7 @@ f) Bygningen er højst i 1 etage og ikke hævet mere end 0,3 m over terræn.
 
 g) Bygningen er højst 20 m2.
 
-*Stk. 2.* Såfremt der skal foretages en helhedsvurdering efter kapitel 8 for byggearbejder omfattet af stk. 1, skal der søges om byggetilladelse efter § 10.
+*Stk. 2.* Såfremt der skal foretages en helhedsvurdering efter [kapitel 8](../tekniske-bestemmelser/08/krav/ "BR18 kapitel 8"){ .br18-ref } for byggearbejder omfattet af stk. 1, skal der søges om byggetilladelse efter [§ 10](#paragraf-10 "BR18 § 10"){ .br18-ref }.
 
 *Stk. 3.* Undtagelse fra ansøgning om byggetilladelse efter bygningsreglementet undtager ikke fra overholdelse af og ansøgning om tilladelse eller registrering efter anden lovgivning.
 
@@ -105,51 +105,51 @@ Følgende typer af bebyggelse er helt eller delvist undtaget fra overholdelse af
 
 2) Jordbrugserhvervets avls- og driftsbygninger samt væksthuse er omfattet af følgende krav i afsnit II:
 
-a) Afløb i kapitel 4.
+a) Afløb i [kapitel 4](../tekniske-bestemmelser/04/krav/ "BR18 kapitel 4"){ .br18-ref }.
 
-b) Brandforhold i kapitel 5. Driftsbygninger samt væksthuse til produktionsformål er undtaget fra §§ 88 – 90, §§ 99 – 103 og §§ 121 – 123.
+b) Brandforhold i [kapitel 5](../tekniske-bestemmelser/05/krav/ "BR18 kapitel 5"){ .br18-ref }. Driftsbygninger samt væksthuse til produktionsformål er undtaget fra [§§ 88 – 90](../tekniske-bestemmelser/05/krav/#59f1dfe2-777d-4b8a-bc5b-f0a5a1dc9d1a "BR18 §§ 88-90"){ .br18-ref }, [§§ 99 – 103](../tekniske-bestemmelser/05/krav/#paragraf-99 "BR18 §§ 99-103"){ .br18-ref } og [§§ 121 – 123](../tekniske-bestemmelser/05/krav/#paragraf-121 "BR18 §§ 121-123"){ .br18-ref }.
 
-c) Indretning af byggepladser og udførelse af byggearbejder i kapitel 7.
+c) Indretning af byggepladser og udførelse af byggearbejder i [kapitel 7](../tekniske-bestemmelser/07/krav/ "BR18 kapitel 7"){ .br18-ref }.
 
-d) Byggeret i §§ 184-186 og højde- og afstandskrav i §§ 191 og 194.
+d) Byggeret i [§§ 184-186](../tekniske-bestemmelser/08/krav/#paragraf-184 "BR18 §§ 184-186"){ .br18-ref } og højde- og afstandskrav i [§§ 191](../tekniske-bestemmelser/08/krav/#paragraf-191 "BR18 § 191"){ .br18-ref } og [194](../tekniske-bestemmelser/08/krav/#paragraf-194 "BR18 § 194"){ .br18-ref }.
 
-e) Arbejdssteders indretning i §§ 221-227.
+e) Arbejdssteders indretning i [§§ 221-227](../tekniske-bestemmelser/09/krav/#78e0d380-331c-4767-a150-4cd522ecce82 "BR18 §§ 221-227"){ .br18-ref }.
 
-f) Energiforsyningsanlæg i tilknytning til bygninger i kapitel 12.
+f) Energiforsyningsanlæg i tilknytning til bygninger i [kapitel 12](../tekniske-bestemmelser/12/krav/ "BR18 kapitel 12"){ .br18-ref }.
 
-g) Konstruktioner i kapitel 15.
+g) Konstruktioner i [kapitel 15](../tekniske-bestemmelser/15/krav/ "BR18 kapitel 15"){ .br18-ref }.
 
-h) Vand i kapitel 21.
+h) Vand i [kapitel 21](../tekniske-bestemmelser/21/krav/ "BR18 kapitel 21"){ .br18-ref }.
 
-i) Indeklima i rum, hvor ansatte udfører kontorarbejde eller lignende. I disse rum skal kravene om forureninger i kapitel 13, om lydforhold i kapitel 17, om lys og udsyn i kapitel 18 samt de indeklimamæssige krav om termisk indeklima og installationer til varme- og køleanlæg i kapitel 19 og om ventilation i kapitel 22 overholdes.
+i) Indeklima i rum, hvor ansatte udfører kontorarbejde eller lignende. I disse rum skal kravene om forureninger i [kapitel 13](../tekniske-bestemmelser/13/krav/ "BR18 kapitel 13"){ .br18-ref }, om lydforhold i [kapitel 17](../tekniske-bestemmelser/17/krav/ "BR18 kapitel 17"){ .br18-ref }, om lys og udsyn i [kapitel 18](../tekniske-bestemmelser/18/krav/ "BR18 kapitel 18"){ .br18-ref } samt de indeklimamæssige krav om termisk indeklima og installationer til varme- og køleanlæg i [kapitel 19](../tekniske-bestemmelser/19/krav/ "BR18 kapitel 19"){ .br18-ref } og om ventilation i [kapitel 22](../tekniske-bestemmelser/22/krav/ "BR18 kapitel 22"){ .br18-ref } overholdes.
 
-3) Master og antennesystemer omfattende antenner med tilhørende teknisk udstyr, herunder kabler, befæstelse, forstærkere, filtre, teknikhuse, -kabiner og –skabe, jording og microlinks til transmission, der anvendes til jernbanekommunikation, er undtaget fra bestemmelserne om bebyggelsesregulerende forhold i kapitel 8.
+3) Master og antennesystemer omfattende antenner med tilhørende teknisk udstyr, herunder kabler, befæstelse, forstærkere, filtre, teknikhuse, -kabiner og –skabe, jording og microlinks til transmission, der anvendes til jernbanekommunikation, er undtaget fra bestemmelserne om bebyggelsesregulerende forhold i [kapitel 8](../tekniske-bestemmelser/08/krav/ "BR18 kapitel 8"){ .br18-ref }.
 
-4) Bærerør, befæstelser og antennesystemer, der anvendes til radiokommunikation i elektroniske kommunikationsnet, jf. § 2, nr. 4 og 5 i lov om elektroniske kommunikationsnet og tjenester, herunder radiofrekvens- eller kabelbaseret teleinfrastruktur er undtaget fra bestemmelserne om bebyggelsesregulerende forhold i kapitel 8.
+4) Bærerør, befæstelser og antennesystemer, der anvendes til radiokommunikation i elektroniske kommunikationsnet, jf. [§ 2, nr. 4 og 5](https://www.retsinformation.dk/eli/lta/2025/681#P2 "Teleloven § 2"){ .br18-ref .br18-ref--ext } i lov om elektroniske kommunikationsnet og tjenester, herunder radiofrekvens- eller kabelbaseret teleinfrastruktur er undtaget fra bestemmelserne om bebyggelsesregulerende forhold i [kapitel 8](../tekniske-bestemmelser/08/krav/ "BR18 kapitel 8"){ .br18-ref }.
 
 5) Kolonihavehuse, hvis størrelse og placering er fastlagt i en lokalplan, byplanvedtægt eller tinglyst deklaration godkendt af en offentlig myndighed, er omfattet af følgende krav i denne bekendtgørelse:
 
-a) Afløb i kapitel 4.
+a) Afløb i [kapitel 4](../tekniske-bestemmelser/04/krav/ "BR18 kapitel 4"){ .br18-ref }.
 
-b) Røgalarmanlæg eller røgalarm, jf. § 93, stk. 1, nr. 7.
+b) Røgalarmanlæg eller røgalarm, jf. [§ 93, stk. 1, nr. 7](../tekniske-bestemmelser/05/krav/#paragraf-93 "BR18 § 93"){ .br18-ref }.
 
-c) Energiforsyningsanlæg i tilknytning til bygninger i kapitel 12.
+c) Energiforsyningsanlæg i tilknytning til bygninger i [kapitel 12](../tekniske-bestemmelser/12/krav/ "BR18 kapitel 12"){ .br18-ref }.
 
-d) Vand i kapitel 21.
+d) Vand i [kapitel 21](../tekniske-bestemmelser/21/krav/ "BR18 kapitel 21"){ .br18-ref }.
 
-6)  Bygningsafsnit, der ikke er indrettet som bygningsafsnit i anvendelseskategori 5, kan anvendes til midlertidig overnatning, når anvendelsen sker i henhold til § 6 g.
+6)  Bygningsafsnit, der ikke er indrettet som bygningsafsnit i anvendelseskategori 5, kan anvendes til midlertidig overnatning, når anvendelsen sker i henhold til [§ 6 g](#paragraf-6g "BR18 § 6g"){ .br18-ref }.
 
-7\) Primitiv mindre bygning til lejlighedsvis overnatning opført efter § 5, stk. 1, nr. 16, er omfattet af følgende krav i afsnit II i det omfang det er relevant for byggeriet:
+7\) Primitiv mindre bygning til lejlighedsvis overnatning opført efter [§ 5, stk. 1, nr. 16](#paragraf-5 "BR18 § 5"){ .br18-ref }, er omfattet af følgende krav i afsnit II i det omfang det er relevant for byggeriet:
 
-a\) Afløb i kapitel 4.
+a\) Afløb i [kapitel 4](../tekniske-bestemmelser/04/krav/ "BR18 kapitel 4"){ .br18-ref }.
 
-b) Brandforhold i kapitel 5.
+b) Brandforhold i [kapitel 5](../tekniske-bestemmelser/05/krav/ "BR18 kapitel 5"){ .br18-ref }.
 
-c) Byggeplads i kapitel 7.
+c) Byggeplads i [kapitel 7](../tekniske-bestemmelser/07/krav/ "BR18 kapitel 7"){ .br18-ref }.
 
-d) Byggeret og helhedsvurdering i kapitel 8.
+d) Byggeret og helhedsvurdering i [kapitel 8](../tekniske-bestemmelser/08/krav/ "BR18 kapitel 8"){ .br18-ref }.
 
-e) Konstruktionsforhold i kapitel 15, men kan udføres uden at styrke og stabilitetsforhold eftervises ved beregning.
+e) Konstruktionsforhold i [kapitel 15](../tekniske-bestemmelser/15/krav/ "BR18 kapitel 15"){ .br18-ref }, men kan udføres uden at styrke og stabilitetsforhold eftervises ved beregning.
 
 ## § 6a Transportable konstruktioner på byggepladser {#73f40fd5-1ee9-49a5-8591-2d0a4a1f4fd6}
 
@@ -163,15 +163,15 @@ Følgende konstruktioner skal overholde bygningsreglementet, men kan opstilles u
 
 *Stk. 2.* Konstruktionerne nævnt i stk. 1, nr. 1, er omfattet af følgende krav i det omfang, de er relevante:
 
-1) Indretning af byggepladser og udførelse af byggearbejder i kapitel 7.
+1) Indretning af byggepladser og udførelse af byggearbejder i [kapitel 7](../tekniske-bestemmelser/07/krav/ "BR18 kapitel 7"){ .br18-ref }.
 
-2) Konstruktioner i kapitel 15. Telte med et samlet areal på højst 50 m^2^ er dog ikke omfattet af reglerne i kapitel 15.
+2) Konstruktioner i [kapitel 15](../tekniske-bestemmelser/15/krav/ "BR18 kapitel 15"){ .br18-ref }. Telte med et samlet areal på højst 50 m^2^ er dog ikke omfattet af reglerne i [kapitel 15](../tekniske-bestemmelser/15/krav/ "BR18 kapitel 15"){ .br18-ref }.
 
-*Stk. 3.* Konstruktionerne nævnt i stk. 1, nr. 2, er omfattet af følgende krav i det omfang, de er relevante:   1) Brandforhold i kapitel 5.
+*Stk. 3.* Konstruktionerne nævnt i stk. 1, nr. 2, er omfattet af følgende krav i det omfang, de er relevante:   1) Brandforhold i [kapitel 5](../tekniske-bestemmelser/05/krav/ "BR18 kapitel 5"){ .br18-ref }.
 
-2) Indretning af byggepladser og udførelse af byggearbejder i kapitel 7. 3) Energiforbrug i §§ 287-292.
+2) Indretning af byggepladser og udførelse af byggearbejder i [kapitel 7](../tekniske-bestemmelser/07/krav/ "BR18 kapitel 7"){ .br18-ref }. 3) Energiforbrug i [§§ 287-292](../tekniske-bestemmelser/11/krav/#f83468ad-c2a0-4b59-840a-7f0e0afc27f9 "BR18 §§ 287-292"){ .br18-ref }.
 
-4) Konstruktioner i kapitel 15. Telte med et samlet areal  på højst 50 m^2^ er dog ikke omfattet af reglerne i kapitel 15.
+4) Konstruktioner i [kapitel 15](../tekniske-bestemmelser/15/krav/ "BR18 kapitel 15"){ .br18-ref }. Telte med et samlet areal  på højst 50 m^2^ er dog ikke omfattet af reglerne i [kapitel 15](../tekniske-bestemmelser/15/krav/ "BR18 kapitel 15"){ .br18-ref }.
 
 ## § 6b - § 6e Øvrige transportable konstruktioner {#ee9ed172-b31b-4f5e-bf9a-b1e571f1388d}
 
@@ -219,47 +219,47 @@ Følgende transportable konstruktioner skal overholde bygningsreglementet, men k
 
 *Stk. 3.* De transportable konstruktioner nævnt i stk. 1 og stk. 2 er omfattet af følgende krav:
 
-1) Byggeret i kapitel 8. Bestemmelserne i kapitel 8 gælder kun for konstruktioner, der opstilles med en varighed på over 6 uger.   2) Adgangsforhold ved bygningen i §§ 51-54.   3) Værn i §§ 58-60.
+1) Byggeret i [kapitel 8](../tekniske-bestemmelser/08/krav/ "BR18 kapitel 8"){ .br18-ref }. Bestemmelserne i [kapitel 8](../tekniske-bestemmelser/08/krav/ "BR18 kapitel 8"){ .br18-ref } gælder kun for konstruktioner, der opstilles med en varighed på over 6 uger.   2) Adgangsforhold ved bygningen i [§§ 51-54](../tekniske-bestemmelser/02/krav/#69404060-a93e-4343-b3d9-a427d81a861e "BR18 §§ 51-54"){ .br18-ref }.   3) Værn i [§§ 58-60](../tekniske-bestemmelser/02/krav/#fac89204-dad3-447b-be3b-10dd023469f6 "BR18 §§ 58-60"){ .br18-ref }.
 
-4) Konstruktioner i kapitel 15. Telte med et samlet areal på højst 50 m^2^ er ikke omfattet af reglerne i kapitel 15.
+4) Konstruktioner i [kapitel 15](../tekniske-bestemmelser/15/krav/ "BR18 kapitel 15"){ .br18-ref }. Telte med et samlet areal på højst 50 m^2^ er ikke omfattet af reglerne i [kapitel 15](../tekniske-bestemmelser/15/krav/ "BR18 kapitel 15"){ .br18-ref }.
 
-5) Brandforhold i kapitel 5.
+5) Brandforhold i [kapitel 5](../tekniske-bestemmelser/05/krav/ "BR18 kapitel 5"){ .br18-ref }.
 
 *Stk. 4.* Stk. 2 omfatter også modulopbyggede konstruktioner, hvis udformning og størrelse medfører, at konstruktionen overstiger de i stk. 2 anførte grænser.
 
-*Stk. 5.* Konstruktioner, der opstilles midlertidigt i op til 6 uger, er ikke omfattet af §§ 40, 43 og 46.
+*Stk. 5.* Konstruktioner, der opstilles midlertidigt i op til 6 uger, er ikke omfattet af [§§ 40](#paragraf-40 "BR18 § 40"){ .br18-ref }, [43](#paragraf-43 "BR18 § 43"){ .br18-ref } og [46](#paragraf-46 "BR18 § 46"){ .br18-ref }.
 
-*Stk. 6.* Transportable konstruktioner, der ikke er omfattet af § 6 b, stk. 1, skal have byggetilladelse eller inspektionscertifikat, jf. bekendtgørelse om certificeringsordning for transportable konstruktioner anbragt et synligt sted på den transportable konstruktion. Hvor der er krav om en pladsfordelingsplan, skal denne anbringes på et tydeligt, let læseligt sted ved alle primære indgange.
+*Stk. 6.* Transportable konstruktioner, der ikke er omfattet af [§ 6 b, stk. 1](#paragraf-6b "BR18 § 6b"){ .br18-ref }, skal have byggetilladelse eller inspektionscertifikat, jf. bekendtgørelse om certificeringsordning for transportable konstruktioner anbragt et synligt sted på den transportable konstruktion. Hvor der er krav om en pladsfordelingsplan, skal denne anbringes på et tydeligt, let læseligt sted ved alle primære indgange.
 
 ### § 6c {#paragraf-6c}
 
-Raftekonstruktioner, der opstilles midlertidigt, er alene omfattet af byggeloven efter kommunalbestyrelsens konkrete vurdering, jf. byggelovens § 2, stk. 3. Raftekonstruktioner, der opstilles midlertidigt, er derfor ikke omfattet af § 6 b, stk. 1, eller § 6 b, stk. 3.
+Raftekonstruktioner, der opstilles midlertidigt, er alene omfattet af byggeloven efter kommunalbestyrelsens konkrete vurdering, jf. byggelovens [§ 2, stk. 3](https://www.retsinformation.dk/eli/lta/2016/1178#P2 "Byggeloven § 2"){ .br18-ref .br18-ref--ext }. Raftekonstruktioner, der opstilles midlertidigt, er derfor ikke omfattet af [§ 6 b, stk. 1](#paragraf-6b "BR18 § 6b"){ .br18-ref }, eller [§ 6 b, stk. 3](#paragraf-6b "BR18 § 6b"){ .br18-ref }.
 
 ### § 6d {#paragraf-6d}
 
-Transportable konstruktioner, der opstilles med en varighed på mere end 6 uger på den samme placering, må ikke opstilles uden byggetilladelse fra kommunalbestyrelsen, jf. § 7. Ved byggesagsbehandling af en certificeret konstruktion omfattet af § 6 b, stk. 2, der ønskes opstillet i mere end 6 uger, kan certifikatet lægges til grund for opfyldelse af de tekniske krav, og det er alene de bebyggelsesregulerende forhold, der skal byggesagsbehandles. Bestemmelsen omfatter ikke transportable konstruktioner, som er omfattet af § 6 a, stk. 1, nr. 1 og 2.
+Transportable konstruktioner, der opstilles med en varighed på mere end 6 uger på den samme placering, må ikke opstilles uden byggetilladelse fra kommunalbestyrelsen, jf. [§ 7](#paragraf-7 "BR18 § 7"){ .br18-ref }. Ved byggesagsbehandling af en certificeret konstruktion omfattet af [§ 6 b, stk. 2](#paragraf-6b "BR18 § 6b"){ .br18-ref }, der ønskes opstillet i mere end 6 uger, kan certifikatet lægges til grund for opfyldelse af de tekniske krav, og det er alene de bebyggelsesregulerende forhold, der skal byggesagsbehandles. Bestemmelsen omfatter ikke transportable konstruktioner, som er omfattet af [§ 6 a, stk. 1, nr. 1 og 2](#paragraf-6a "BR18 § 6a"){ .br18-ref }.
 
 ### § 6e {#paragraf-6e}
 
-For transportable konstruktioner, der anvendes af flere end 150 personer, skal meddelelse med oplysning om den transportable konstruktions indretning og brug, jf. §§ 156-158, sendes til kommunalbestyrelsen senest 4 uger før, konstruktionen tages i brug.
+For transportable konstruktioner, der anvendes af flere end 150 personer, skal meddelelse med oplysning om den transportable konstruktions indretning og brug, jf. [§§ 156-158](../tekniske-bestemmelser/05/krav/#d17ae5ea-78fb-40b0-99ab-8cec2d6b41fc "BR18 §§ 156-158"){ .br18-ref }, sendes til kommunalbestyrelsen senest 4 uger før, konstruktionen tages i brug.
 
 ## § 6f Midlertidige udendørs camping- og salgsområder og lignende. {#93d1bf19-b980-45c7-b451-5a2d170840c6}
 
 ### § 6f {#paragraf-6f}
 
-Midlertidige udendørs campingområder til flere end 150 personer og midlertidige udendørs salgsområder og lignende til flere end 150 personer er i afsnit II alene omfattet af brandforhold i kapitel 5.
+Midlertidige udendørs campingområder til flere end 150 personer og midlertidige udendørs salgsområder og lignende til flere end 150 personer er i afsnit II alene omfattet af brandforhold i [kapitel 5](../tekniske-bestemmelser/05/krav/ "BR18 kapitel 5"){ .br18-ref }.
 
 *Stk. 2.* De i stk. 1 nævnte områder kræver ikke byggetilladelse, hvis det sker i overensstemmelse med de præ-accepterede løsninger for forsamlingstelte, midlertidige campingområder og midlertidige udendørs salgsområder i Bygningsreglementets vejledning til kapitel 5 – Brand, og kommunalbestyrelsen modtager meddelelse om områderne, jf. stk. 3.
 
-*Stk. 3.* Meddelelse med oplysning om områdets placering, indretning og brug, jf. kapitel 5, skal være modtaget af kommunalbestyrelsen senest 4 uger før, området tages i brug.
+*Stk. 3.* Meddelelse med oplysning om områdets placering, indretning og brug, jf. [kapitel 5](../tekniske-bestemmelser/05/krav/ "BR18 kapitel 5"){ .br18-ref }, skal være modtaget af kommunalbestyrelsen senest 4 uger før, området tages i brug.
 
-*Stk. 4.* Hvis det i forbindelse med ansøgning om byggetilladelse vurderes, at der skal inddrages en certificeret brandrådgiver jf. § 493, stk. 3, nr. 1, kan ansøger vælge, at kommunalbestyrelsen skal foretage den tekniske byggesagsbehandling af brandforhold, jf. kapitel 5 i stedet for en certificeret rådgiver. Dokumentation for overholdelse af kapitel 5 skal være modtaget af kommunalbestyrelsen senest 4 uger før, at området tages i brug.
+*Stk. 4.* Hvis det i forbindelse med ansøgning om byggetilladelse vurderes, at der skal inddrages en certificeret brandrådgiver jf. [§ 493, stk. 3, nr. 1](../ovrige-bestemmelser/27/krav/#paragraf-493 "BR18 § 493"){ .br18-ref }, kan ansøger vælge, at kommunalbestyrelsen skal foretage den tekniske byggesagsbehandling af brandforhold, jf. kapitel 5 i stedet for en certificeret rådgiver. Dokumentation for overholdelse af [kapitel 5](../tekniske-bestemmelser/05/krav/ "BR18 kapitel 5"){ .br18-ref } skal være modtaget af kommunalbestyrelsen senest 4 uger før, at området tages i brug.
 
 ## § 6g Midlertidig overnatning {#666dc7ae-a989-42ea-ad07-16414aab6104}
 
 ### § 6g {#paragraf-6g}
 
-Midlertidig overnatning i byggeri eller bygningsafsnit, der ikke kan henføres til anvendelseskategori 5, kan ske i sammenlagt højst 70 døgn inden for samme kalenderår. Overnatningen skal foregå i overensstemmelse med bestemmelserne i kapitel 5.
+Midlertidig overnatning i byggeri eller bygningsafsnit, der ikke kan henføres til anvendelseskategori 5, kan ske i sammenlagt højst 70 døgn inden for samme kalenderår. Overnatningen skal foregå i overensstemmelse med bestemmelserne i [kapitel 5](../tekniske-bestemmelser/05/krav/ "BR18 kapitel 5"){ .br18-ref }.
 
 *Stk. 2.* Ved midlertidig overnatning skal kommunalbestyrelsen have modtaget meddelelse om den midlertidige overnatning senest 2 uger før første overnatningsdøgn. Omfatter overnatningen flere end 150 personer, skal kommunalbestyrelsen have modtaget meddelelse om overnatningen senest 4 uger før.
 
@@ -267,11 +267,11 @@ Midlertidig overnatning i byggeri eller bygningsafsnit, der ikke kan henføres t
 
 *Stk. 4.* Midlertidig overnatning, som ikke er omfattet af stk. 3, kan finde sted, når et af følgende punkter er opfyldt:
 
-1\) Betingelserne for midlertidig overnatning er indarbejdet i byggeriets drifts-, kontrol- og vedligeholdelsesplan, jf. §§ 143-146, og der er foretaget meddelelse i overensstemmelse med stk. 2.
+1\) Betingelserne for midlertidig overnatning er indarbejdet i byggeriets drifts-, kontrol- og vedligeholdelsesplan, jf. [§§ 143-146](../tekniske-bestemmelser/05/krav/#paragraf-143 "BR18 §§ 143-146"){ .br18-ref }, og der er foretaget meddelelse i overensstemmelse med stk. 2.
 
-2) Der er givet byggetilladelse til den midlertidige overnatning. Dokumentation for, at den midlertidige overnatning sker i overensstemmelse med bestemmelserne i kapitel 5, skal være modtaget af kommunalbestyrelsen senest 4 uger før første overnatningsdøgn.
+2) Der er givet byggetilladelse til den midlertidige overnatning. Dokumentation for, at den midlertidige overnatning sker i overensstemmelse med bestemmelserne i [kapitel 5](../tekniske-bestemmelser/05/krav/ "BR18 kapitel 5"){ .br18-ref }, skal være modtaget af kommunalbestyrelsen senest 4 uger før første overnatningsdøgn.
 
-*Stk. 5.* Overnatning i byggeri eller bygningsafsnit, der ikke kan henføres til anvendelseskategori 5, og som ikke opfylder stk. 1 – 4, betragtes som en anvendelsesændring, hvortil der skal søges byggetilladelse, jf. § 10.
+*Stk. 5.* Overnatning i byggeri eller bygningsafsnit, der ikke kan henføres til anvendelseskategori 5, og som ikke opfylder stk. 1 – 4, betragtes som en anvendelsesændring, hvortil der skal søges byggetilladelse, jf. [§ 10](#paragraf-10 "BR18 § 10"){ .br18-ref }.
 
 ## § 6h Planer m.v. vedrørende brandmæssige forhold {#25b1ab8d-4135-4aed-868e-8e9f9a526ddc}
 
@@ -307,9 +307,9 @@ Ved udarbejdelse eller ændring af pladsfordelingsplaner, indretningsplaner for 
 
 *Stk. 3.* Hvis der ikke sker ændringer af forudsætningerne for de brandmæssige forhold, kan dokumentation, jf. stk. 2, udarbejdes og ændres uden brug af certificeret brandrådgiver eller ansøgning om byggetilladelse.
 
-*Stk. 4.* Ved indarbejdelse af betingelser for midlertidig overnatning i et byggeris drifts-, kontrol- og vedligeholdelsesplan, jf. § 6 g, stk. 4, nr. 1, skal denne udfærdiges af en certificeret brandrådgiver, der er certificeret til at virke i den brandklasse, som byggeriet eller bygningsafsnittet indplaceres i.
+*Stk. 4.* Ved indarbejdelse af betingelser for midlertidig overnatning i et byggeris drifts-, kontrol- og vedligeholdelsesplan, jf. [§ 6 g, stk. 4, nr. 1](#paragraf-6g "BR18 § 6g"){ .br18-ref }, skal denne udfærdiges af en certificeret brandrådgiver, der er certificeret til at virke i den brandklasse, som byggeriet eller bygningsafsnittet indplaceres i.
 
-*Stk. 5.* For byggeri eller bygningsafsnit, der er omfattet af §§ 147 og 153, skal dokumentationen, jf. stk. 1 og 2, indsendes til kommunalbestyrelsen.
+*Stk. 5.* For byggeri eller bygningsafsnit, der er omfattet af [§§ 147](../tekniske-bestemmelser/05/krav/#paragraf-147 "BR18 § 147"){ .br18-ref } og [153](../tekniske-bestemmelser/05/krav/#paragraf-153 "BR18 § 153"){ .br18-ref }, skal dokumentationen, jf. stk. 1 og 2, indsendes til kommunalbestyrelsen.
 
 ## § 6i Midlertidige indendørsarrangementer {#c1b051a0-041c-4ee3-a28b-3ef5be606ae0}
 
@@ -319,15 +319,15 @@ Kommunalbestyrelsen kan meddele byggetilladelse til afholdelse af midlertidige i
 
 *Stk. 2.* Afholdelse af midlertidige indendørsarrangementer i byggeri eller bygningsafsnit, jf. stk. 1, er alene omfattet af følgende krav i afsnit II:
 
-1\) Brandforhold i kapitel 5.
+1\) Brandforhold i [kapitel 5](../tekniske-bestemmelser/05/krav/ "BR18 kapitel 5"){ .br18-ref }.
 
-2) Konstruktive forhold i kapitel 15, hvis anvendelsen af bygningen ændrer ved de bærende konstruktioners virkemåde. Ændringer af lastvirkning på mindre end 5 pct. i forhold til eksisterende dokumentation og uændret statisk virkemåde af konstruktionen betragtes ikke som en ændring.
+2) Konstruktive forhold i [kapitel 15](../tekniske-bestemmelser/15/krav/ "BR18 kapitel 15"){ .br18-ref }, hvis anvendelsen af bygningen ændrer ved de bærende konstruktioners virkemåde. Ændringer af lastvirkning på mindre end 5 pct. i forhold til eksisterende dokumentation og uændret statisk virkemåde af konstruktionen betragtes ikke som en ændring.
 
 ## § 6j - § 6l Midlertidige udendørsarrangementer til højst 500 personer {#b61372e4-cd69-4acc-affb-7dc5ffd80768}
 
 ### § 6j {#paragraf-6j}
 
-For udendørs salgsområder og lignende samt transportable konstruktioner, jf. stk. 3, der ved midlertidige udendørsarrangementer til højst 500 personer, gælder bestemmelserne i §§ 6 k-6 l.
+For udendørs salgsområder og lignende samt transportable konstruktioner, jf. stk. 3, der ved midlertidige udendørsarrangementer til højst 500 personer, gælder bestemmelserne i [§§ 6 k-6 l](#paragraf-6k "BR18 §§ 6k-6l"){ .br18-ref }.
 
 *Stk. 2.* Ved midlertidige udendørsarrangementer til højst 500 personer, forstås det største antal personer, der vil være til stede ved arrangementet samtidigt. I beregningen af personantallet indgår det samlede antal personer, der er tilknyttet arrangementet, herunder personale, stadeholdere, frivillige og gæster.
 
@@ -351,7 +351,7 @@ Kommunalbestyrelsen skal have modtaget meddelelse om det midlertidige udendørsa
 
 1\) Oplysning til identifikation af det midlertidige udendørsarrangements placering, herunder eksempelvis matrikelbetegnelse og adgangsadresse.
 
-2\) Personantallet for det samlede midlertidige udendørsarrangement, jf. § 6 j, stk. 2.
+2\) Personantallet for det samlede midlertidige udendørsarrangement, jf. [§ 6 j, stk. 2](#paragraf-6j "BR18 § 6j"){ .br18-ref }.
 
 3\) Oplysning om, hvornår det midlertidige udendørsarrangement afholdes.
 
@@ -361,7 +361,7 @@ Kommunalbestyrelsen skal have modtaget meddelelse om det midlertidige udendørsa
 
 ### § 6l {#paragraf-6l}
 
-Følgende transportable konstruktioner, som opstilles i forbindelse med midlertidige udendørsarrangementer til højst 500 personer, jf. § 6 j, stk. 2, og som ikke anvendes til overnatning, skal overholde bygningsreglementet, men kan opføres uden ansøgning om byggetilladelse:
+Følgende transportable konstruktioner, som opstilles i forbindelse med midlertidige udendørsarrangementer til højst 500 personer, jf. [§ 6 j, stk. 2](#paragraf-6j "BR18 § 6j"){ .br18-ref }, og som ikke anvendes til overnatning, skal overholde bygningsreglementet, men kan opføres uden ansøgning om byggetilladelse:
 
 1\) Mastesejl, parasoller og telte i én etage placeret i terræn under 100 m².
 
@@ -369,7 +369,7 @@ Følgende transportable konstruktioner, som opstilles i forbindelse med midlerti
 
 3\) Åbne tribuner, herunder automobiltribuner, der er højst 1,0 m i højden, målt fra terræn til gulvhøjde og uden overdækning.
 
-*Stk. 2.* Følgende transportable konstruktioner, som opstilles i forbindelse med midlertidige udendørsarrangementer til højst 500 personer, jf. § 6 j, stk. 2 skal overholde bygningsreglementet og må alene opstilles uden forudgående byggetilladelse, hvis de er certificeret i henhold til bekendtgørelse om certificeringsordning for transportable konstruktioner og ikke anvendes til overnatning:
+*Stk. 2.* Følgende transportable konstruktioner, som opstilles i forbindelse med midlertidige udendørsarrangementer til højst 500 personer, jf. [§ 6 j, stk. 2](#paragraf-6j "BR18 § 6j"){ .br18-ref } skal overholde bygningsreglementet og må alene opstilles uden forudgående byggetilladelse, hvis de er certificeret i henhold til bekendtgørelse om certificeringsordning for transportable konstruktioner og ikke anvendes til overnatning:
 
 1\) Mastesejl, parasoller og telte i én etage placeret i terræn over 100 m².
 
@@ -385,13 +385,13 @@ Følgende transportable konstruktioner, som opstilles i forbindelse med midlerti
 
 7\) Truss-systemer, der udføres, placeres eller anvendes på en sådan måde, at der ved svigt kan være risiko for væsentlig personskade.
 
-*Stk. 3.* Transportable konstruktioner, jf. § 6 j, stk. 3, som opstilles i forbindelse med midlertidige udendørsarrangementer til højst 500 personer, jf. § 6 j, stk. 2, er omfattet af følgende krav:
+*Stk. 3.* Transportable konstruktioner, jf. [§ 6 j, stk. 3](#paragraf-6j "BR18 § 6j"){ .br18-ref }, som opstilles i forbindelse med midlertidige udendørsarrangementer til højst 500 personer, jf. [§ 6 j, stk. 2](#paragraf-6j "BR18 § 6j"){ .br18-ref }, er omfattet af følgende krav:
 
-1\) adgangsforhold i §§ 51-54,
+1\) adgangsforhold i [§§ 51-54](../tekniske-bestemmelser/02/krav/#69404060-a93e-4343-b3d9-a427d81a861e "BR18 §§ 51-54"){ .br18-ref },
 
-2\) værn i §§ 58-60,
+2\) værn i [§§ 58-60](../tekniske-bestemmelser/02/krav/#fac89204-dad3-447b-be3b-10dd023469f6 "BR18 §§ 58-60"){ .br18-ref },
 
-3\) konstruktioner i kapitel 15. Telte med et samlet areal på højst 50 m2 er ikke omfattet af reglerne i kapitel 15,
+3\) konstruktioner i [kapitel 15](../tekniske-bestemmelser/15/krav/ "BR18 kapitel 15"){ .br18-ref }. Telte med et samlet areal på højst 50 m2 er ikke omfattet af reglerne i [kapitel 15](../tekniske-bestemmelser/15/krav/ "BR18 kapitel 15"){ .br18-ref },
 
 4\) telte skal udføres med en teltdug af et brandmæssigt egnet materiale, som ikke bidrager væsentligt til brand og røgspredning, men som sikrer, at røg til enhver tid ventileres ud,
 
@@ -405,9 +405,9 @@ Følgende transportable konstruktioner, som opstilles i forbindelse med midlerti
 
 ### § 7 {#paragraf-7}
 
-Et byggearbejde må ikke påbegyndes uden byggetilladelse fra kommunalbestyrelsen, medmindre andet er bestemt i §§ 4 og 5.
+Et byggearbejde må ikke påbegyndes uden byggetilladelse fra kommunalbestyrelsen, medmindre andet er bestemt i [§§ 4](#paragraf-4 "BR18 § 4"){ .br18-ref } og [5](#paragraf-5 "BR18 § 5"){ .br18-ref }.
 
-*Stk. 2.* Kommunalbestyrelsen kan beslutte, at der skal opkræves gebyr for behandling af ansøgninger om byggetilladelse, jf. § 39.
+*Stk. 2.* Kommunalbestyrelsen kan beslutte, at der skal opkræves gebyr for behandling af ansøgninger om byggetilladelse, jf. [§ 39](#paragraf-39 "BR18 § 39"){ .br18-ref }.
 
 ### § 8 {#paragraf-8}
 
@@ -439,23 +439,23 @@ En ansøgning om byggetilladelse skal indeholde:
 
 *Stk. 2.* En ansøgning om byggetilladelse skal, hvis det er relevant for byggearbejdet, indeholde:
 
-1\) Oplysning om forhold vedrørende kapitel 8 og kapitel 20.
+1\) Oplysning om forhold vedrørende [kapitel 8](../tekniske-bestemmelser/08/krav/ "BR18 kapitel 8"){ .br18-ref } og [kapitel 20](../tekniske-bestemmelser/20/krav/ "BR18 kapitel 20"){ .br18-ref }.
 
-2\) Oplysning om og dokumentation for, hvilken konstruktionsklasse byggeriet kan henføres til, jf. kapitel 26 om konstruktionsklasser og kapitel 28 om dokumentation af bærende konstruktioner.
+2\) Oplysning om og dokumentation for, hvilken konstruktionsklasse byggeriet kan henføres til, jf. [kapitel 26](../ovrige-bestemmelser/26/krav/ "BR18 kapitel 26"){ .br18-ref } om konstruktionsklasser og [kapitel 28](../ovrige-bestemmelser/28/krav/ "BR18 kapitel 28"){ .br18-ref } om dokumentation af bærende konstruktioner.
 
-3\) For ombygninger og forandringer af eksisterende byggeri, hvor de bærende konstruktioners virkemåde ændres, skal der indsendes oplysning om og dokumentation for, hvilken konstruktionsklasse det berørte konstruktionsafsnit kan henføres til, jf. kapitel 26 om konstruktionsklasser og kapitel 28 om dokumentation af bærende konstruktioner.
+3\) For ombygninger og forandringer af eksisterende byggeri, hvor de bærende konstruktioners virkemåde ændres, skal der indsendes oplysning om og dokumentation for, hvilken konstruktionsklasse det berørte konstruktionsafsnit kan henføres til, jf. [kapitel 26](../ovrige-bestemmelser/26/krav/ "BR18 kapitel 26"){ .br18-ref } om konstruktionsklasser og [kapitel 28](../ovrige-bestemmelser/28/krav/ "BR18 kapitel 28"){ .br18-ref } om dokumentation af bærende konstruktioner.
 
-4\) Oplysning om og dokumentation for, hvilken brandklasse byggeriet kan henføres til, jf. kapitel 27 om brandklasser og kapitel 29 om dokumentation af brandforhold.
+4\) Oplysning om og dokumentation for, hvilken brandklasse byggeriet kan henføres til, jf. [kapitel 27](../ovrige-bestemmelser/27/krav/ "BR18 kapitel 27"){ .br18-ref } om brandklasser og [kapitel 29](../ovrige-bestemmelser/29/krav/ "BR18 kapitel 29"){ .br18-ref } om dokumentation af brandforhold.
 
-5\) For ombygninger og forandringer af eksisterende byggeri, hvor forudsætningerne for de brandmæssige forhold ændres, skal der indsendes oplysning om og dokumentation for, hvilken brandklasse det pågældende bygningsafsnit kan henføres til, jf. kapitel 27 om brandklasser og kapitel 29 om dokumentation af brandforhold. Det skal tages højde for, om ændringen påvirker andre dele af bygningens brandforhold.
+5\) For ombygninger og forandringer af eksisterende byggeri, hvor forudsætningerne for de brandmæssige forhold ændres, skal der indsendes oplysning om og dokumentation for, hvilken brandklasse det pågældende bygningsafsnit kan henføres til, jf. [kapitel 27](../ovrige-bestemmelser/27/krav/ "BR18 kapitel 27"){ .br18-ref } om brandklasser og [kapitel 29](../ovrige-bestemmelser/29/krav/ "BR18 kapitel 29"){ .br18-ref } om dokumentation af brandforhold. Det skal tages højde for, om ændringen påvirker andre dele af bygningens brandforhold.
 
-6\) Oplysninger om og dokumentation for, hvorledes byggeriet opfylder §§ 126-133 vedrørende redningsberedskabets indsatsforhold, herunder hvorvidt byggeriet er indsatstaktisk traditionelt, jf. § 510.
+6\) Oplysninger om og dokumentation for, hvorledes byggeriet opfylder [§§ 126-133](../tekniske-bestemmelser/05/krav/#0875873c-27b3-435c-b6aa-6d7bb2a978d7 "BR18 §§ 126-133"){ .br18-ref } vedrørende redningsberedskabets indsatsforhold, herunder hvorvidt byggeriet er indsatstaktisk traditionelt, jf. [§ 510](../ovrige-bestemmelser/29/krav/#paragraf-510 "BR18 § 510"){ .br18-ref }.
 
 *Stk. 3.* Hvis det skønnes nødvendigt, kan kommunalbestyrelsen forlange supplerende dokumentation til belysning af byggearbejdets karakter og omfang, jf. stk. 1 og 2.
 
-*Stk. 4.* For et byggearbejde i konstruktionsklasse 2-4 skal der indsendes supplerende oplysninger og dokumentation, jf. §§ 18 og 19.
+*Stk. 4.* For et byggearbejde i konstruktionsklasse 2-4 skal der indsendes supplerende oplysninger og dokumentation, jf. [§§ 18](#paragraf-18 "BR18 § 18"){ .br18-ref } og [19](#paragraf-19 "BR18 § 19"){ .br18-ref }.
 
-*Stk. 5.* For et byggearbejde i brandklasse 2-4 skal der indsendes supplerende oplysninger og dokumentation, jf. § 22 og 23.
+*Stk. 5.* For et byggearbejde i brandklasse 2-4 skal der indsendes supplerende oplysninger og dokumentation, jf. [§ 22](#paragraf-22 "BR18 § 22"){ .br18-ref } og [23](#paragraf-23 "BR18 § 23"){ .br18-ref }.
 
 *Stk. 6.* For byggearbejder, der henføres til konstruktionsklasse 1, jf. stk. 2, nr. 2 og 3, er der ikke krav om, at dokumentationen udfærdiges af en certificeret statiker.
 
@@ -481,7 +481,7 @@ Ansøgning om byggetilladelse for anlæg med henblik på produktion af vedvarend
 
 ### § 11 b {#paragraf-11b}
 
-Ansøgning om byggetilladelse til byggearbejder omfattet af §§ 6 f - 6 i skal, hvis det er relevant for byggearbejdet indeholde:
+Ansøgning om byggetilladelse til byggearbejder omfattet af [§§ 6 f - 6 i](#paragraf-6f "BR18 §§ 6f-6i"){ .br18-ref } skal, hvis det er relevant for byggearbejdet indeholde:
 
 1\) Oplysninger til identifikation af ejendommen, bygningen eller enheden, herunder eksempelvis matrikelbetegnelse, adgangsadresse, ejendomsnummer og etageangivelse.
 
@@ -489,13 +489,13 @@ Ansøgning om byggetilladelse til byggearbejder omfattet af §§ 6 f - 6 i skal,
 
 3) Oplysning om den planlagte benyttelse af bebyggelsen. Ved ombygning og ændret benyttelse af bebyggelsen skal den ligeledes indeholde oplysninger om den hidtidige benyttelse.
 
-4) Dokumentation for overholdelse af kap. 5 og 15.
+4) Dokumentation for overholdelse af [kap. 5](../tekniske-bestemmelser/05/krav/ "BR18 kapitel 5"){ .br18-ref } og [15](../tekniske-bestemmelser/15/krav/ "BR18 kapitel 15"){ .br18-ref }.
 
-*Stk. 2.* Ved ansøgning om byggetilladelse til byggearbejder efter stk. 1, kan ansøger vælge, at kommunalbestyrelsen skal foretage den tekniske byggesagsbehandling af de brand- og konstruktionsmæssige forhold, jf. kapitel 5 og 15.
+*Stk. 2.* Ved ansøgning om byggetilladelse til byggearbejder efter stk. 1, kan ansøger vælge, at kommunalbestyrelsen skal foretage den tekniske byggesagsbehandling af de brand- og konstruktionsmæssige forhold, jf. [kapitel 5](../tekniske-bestemmelser/05/krav/ "BR18 kapitel 5"){ .br18-ref } og [15](../tekniske-bestemmelser/15/krav/ "BR18 kapitel 15"){ .br18-ref }.
 
 *Stk. 3.* Foretager kommunalbestyrelsen den tekniske byggesagsbehandling af de brand- og konstruktionsmæssige forhold, vurderer kommunalbestyrelsen i hvilket omfang, der skal foreligge dokumentation. Kommunalbestyrelsen kan indhente sagkyndig bistand vedrørende dokumentation af de brand- og konstruktionsmæssige forhold. Udgifterne hertil afholdes af ansøger.
 
-*Stk. 4.* Byggearbejder omfattet af §§ 6 f - 6 i er ikke omfattet af §§ 40, 43 og 46.
+*Stk. 4.* Byggearbejder omfattet af [§§ 6 f - 6 i](#paragraf-6f "BR18 §§ 6f-6i"){ .br18-ref } er ikke omfattet af [§§ 40](#paragraf-40 "BR18 § 40"){ .br18-ref }, [43](#paragraf-43 "BR18 § 43"){ .br18-ref } og [46](#paragraf-46 "BR18 § 46"){ .br18-ref }.
 
 ### § 12 {#paragraf-12}
 
@@ -505,7 +505,7 @@ Ved ansøgning om byggetilladelse til at give offentligheden adgang til en mine 
 
 Ansøgning om dispensation fra bestemmelser i bygningsreglementet skal indgives til kommunalbestyrelsen ved anvendelse af den digitale løsning, som kommunalbestyrelsen stiller til rådighed, og skal signeres digitalt af ejeren. Kommunalbestyrelsen kan stille krav om, at ansøgning om dispensation eller om tilladelse til at bevare et ulovligt forhold signeres af ejeren personligt.
 
-*Stk. 2.* Kommunalbestyrelsen kan meddele en ansøger dispensation til at fravige bestemmelser, som er fastsat i bygningsreglementet, når det skønnes foreneligt med de hensyn, der ligger bag bestemmelsen, der søges dispensation fra, jf. byggelovens § 22. Dispensationsadgangen omfatter ikke funktionskrav, hvor hensynet bag er brand- eller sikkerhedshensyn.
+*Stk. 2.* Kommunalbestyrelsen kan meddele en ansøger dispensation til at fravige bestemmelser, som er fastsat i bygningsreglementet, når det skønnes foreneligt med de hensyn, der ligger bag bestemmelsen, der søges dispensation fra, jf. byggelovens [§ 22](https://www.retsinformation.dk/eli/lta/2016/1178#P22 "Byggeloven § 22"){ .br18-ref .br18-ref--ext }. Dispensationsadgangen omfatter ikke funktionskrav, hvor hensynet bag er brand- eller sikkerhedshensyn.
 
 *Stk. 3.* Kommunalbestyrelsen kan forlange enhver oplysning, som er nødvendig for at kunne meddele dispensation.
 
@@ -535,19 +535,19 @@ Inden et byggearbejde, hvortil der er meddelt byggetilladelse, påbegyndes, skal
 
 ### § 16 {#paragraf-16}
 
-Ved ansøgning om byggetilladelse til byggearbejder i konstruktionsklasse 2-4 skal der tilknyttes en certificeret statiker, der gennem sit virke, jf. kapitel 32 og 33, sikrer, at byggearbejdet er i overensstemmelse med kapitel 15 samt sikrer, at dokumentation herfor, jf. kapitel 28, er fyldestgørende, opfylder sit formål og er kontrolleret, jf. kapitel 30.
+Ved ansøgning om byggetilladelse til byggearbejder i konstruktionsklasse 2-4 skal der tilknyttes en certificeret statiker, der gennem sit virke, jf. [kapitel 32](../ovrige-bestemmelser/32/krav/ "BR18 kapitel 32"){ .br18-ref } og [33](../ovrige-bestemmelser/33/krav/ "BR18 kapitel 33"){ .br18-ref }, sikrer, at byggearbejdet er i overensstemmelse med [kapitel 15](../tekniske-bestemmelser/15/krav/ "BR18 kapitel 15"){ .br18-ref } samt sikrer, at dokumentation herfor, jf. [kapitel 28](../ovrige-bestemmelser/28/krav/ "BR18 kapitel 28"){ .br18-ref }, er fyldestgørende, opfylder sit formål og er kontrolleret, jf. [kapitel 30](../ovrige-bestemmelser/30/krav/ "BR18 kapitel 30"){ .br18-ref }.
 
-*Stk. 2.* Ansøgeren skal for de bærende konstruktioner sikre, at den statiske dokumentation er samlet og koordineret, så dokumentationen udgør et hele, jf. § 494, stk. 3.
+*Stk. 2.* Ansøgeren skal for de bærende konstruktioner sikre, at den statiske dokumentation er samlet og koordineret, så dokumentationen udgør et hele, jf. [§ 494, stk. 3](../ovrige-bestemmelser/28/krav/#paragraf-494 "BR18 § 494"){ .br18-ref }.
 
 ### § 17 {#paragraf-17}
 
 For byggearbejder i de enkelte konstruktionsklasser gælder følgende:
 
-1)  For byggearbejder i konstruktionsklasse 2 skal der tilknyttes én statiker, der er certificeret til konstruktionsklasse 2, konstruktionsklasse 3 og 4 eller til at udføre tredjepartskontrol i overensstemmelse med § 12, § 13 eller § 14 i bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet.
+1)  For byggearbejder i konstruktionsklasse 2 skal der tilknyttes én statiker, der er certificeret til konstruktionsklasse 2, konstruktionsklasse 3 og 4 eller til at udføre tredjepartskontrol i overensstemmelse med [§ 12](https://www.retsinformation.dk/eli/lta/2023/1693#P12 "Certificeringsbekendtgørelsen § 12"){ .br18-ref .br18-ref--ext }, [§ 13](https://www.retsinformation.dk/eli/lta/2023/1693#P13 "Certificeringsbekendtgørelsen § 13"){ .br18-ref .br18-ref--ext } eller [§ 14](https://www.retsinformation.dk/eli/lta/2023/1693#P14 "Certificeringsbekendtgørelsen § 14"){ .br18-ref .br18-ref--ext } i bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet.
 
-2)  For byggearbejder i konstruktionsklasse 3 og 4 skal der tilknyttes én statiker, der er certificeret til konstruktionsklasse 3 og 4 eller til at udføre tredjepartskontrol i overensstemmelse med § 13 eller § 14 i bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet.
+2)  For byggearbejder i konstruktionsklasse 3 og 4 skal der tilknyttes én statiker, der er certificeret til konstruktionsklasse 3 og 4 eller til at udføre tredjepartskontrol i overensstemmelse med [§ 13](https://www.retsinformation.dk/eli/lta/2023/1693#P13 "Certificeringsbekendtgørelsen § 13"){ .br18-ref .br18-ref--ext } eller [§ 14](https://www.retsinformation.dk/eli/lta/2023/1693#P14 "Certificeringsbekendtgørelsen § 14"){ .br18-ref .br18-ref--ext } i bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet.
 
-*Stk. 2.* For byggearbejder i konstruktionsklasse 4 skal der tilknyttes én statiker, der er certificeret til at udføre tredjepartskontrol, jf. § 14 i bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet.
+*Stk. 2.* For byggearbejder i konstruktionsklasse 4 skal der tilknyttes én statiker, der er certificeret til at udføre tredjepartskontrol, jf. [§ 14](https://www.retsinformation.dk/eli/lta/2023/1693#P14 "Certificeringsbekendtgørelsen § 14"){ .br18-ref .br18-ref--ext } i bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet.
 
 *Stk. 3.* Når der tilknyttes en certificeret statiker med et certifikat med begrænset gyldighedsområde, skal byggearbejdet i sin helhed være omfattet af certifikatets gyldighedsområde.
 
@@ -561,31 +561,31 @@ Ansøgeren udpeger den certificerede statiker. Oplysning til identifikation af d
 
 Ved ansøgning om byggetilladelse til byggearbejder i konstruktionsklasse 2-4 skal følgende dokumentation indsendes sammen med ansøgningen om byggetilladelse:
 
-1\) Oplysning om og dokumentation for indplacering i konstruktionsklasse, jf. § 503, stk. 1.
+1\) Oplysning om og dokumentation for indplacering i konstruktionsklasse, jf. [§ 503, stk. 1](../ovrige-bestemmelser/28/krav/#paragraf-503 "BR18 § 503"){ .br18-ref }.
 
-2) Starterklæring, jf. § 498, stk. 1.
+2) Starterklæring, jf. [§ 498, stk. 1](../ovrige-bestemmelser/28/krav/#paragraf-498 "BR18 § 498"){ .br18-ref }.
 
-*Stk. 2.* For byggearbejde i konstruktionsklasse 4 skal der ligeledes indsendes starterklæring fra en statiker, der er certificeret til at udføre tredjepartskontrol, jf. § 498, stk. 2.
+*Stk. 2.* For byggearbejde i konstruktionsklasse 4 skal der ligeledes indsendes starterklæring fra en statiker, der er certificeret til at udføre tredjepartskontrol, jf. [§ 498, stk. 2](../ovrige-bestemmelser/28/krav/#paragraf-498 "BR18 § 498"){ .br18-ref }.
 
 ## § 20 - § 23 Anvendelse af certificeret brandrådgiver i brandklasse 2-4 {#37c5bccc-b9dc-4a8b-be10-df237a0d565c}
 
 ### § 20 {#paragraf-20}
 
-Ved ansøgning om byggetilladelse til byggearbejder i brandklasse 2-4 skal der tilknyttes en certificeret brandrådgiver, der gennem sit virke, jf. kapitel 32 og 34, sikrer, at byggearbejdet er i overensstemmelse med kapitel 5 samt sikrer, at dokumentation herfor, jf. kapitel 29, er fyldestgørende, opfylder sit formål og er kontrolleret, jf. kapitel 30.
+Ved ansøgning om byggetilladelse til byggearbejder i brandklasse 2-4 skal der tilknyttes en certificeret brandrådgiver, der gennem sit virke, jf. [kapitel 32](../ovrige-bestemmelser/32/krav/ "BR18 kapitel 32"){ .br18-ref } og [34](../ovrige-bestemmelser/34/krav/ "BR18 kapitel 34"){ .br18-ref }, sikrer, at byggearbejdet er i overensstemmelse med [kapitel 5](../tekniske-bestemmelser/05/krav/ "BR18 kapitel 5"){ .br18-ref } samt sikrer, at dokumentation herfor, jf. [kapitel 29](../ovrige-bestemmelser/29/krav/ "BR18 kapitel 29"){ .br18-ref }, er fyldestgørende, opfylder sit formål og er kontrolleret, jf. [kapitel 30](../ovrige-bestemmelser/30/krav/ "BR18 kapitel 30"){ .br18-ref }.
 
-*Stk. 2.* Ved udarbejdelse eller ændring af planer mv., jf. § 6 h, stk. 1, nr. 2, skal den tilknyttede certificerede brandrådgiver, gennem sit virke, jf. kapitel 32 og 34, sikre, at byggearbejdet er i overensstemmelse med kapitel 5 samt sikre, at dokumentation herfor, jf. kapitel 29, er fyldestgørende, opfylder sit formål og er kontrolleret, jf. kapitel 30.
+*Stk. 2.* Ved udarbejdelse eller ændring af planer mv., jf. [§ 6 h, stk. 1, nr. 2](#paragraf-6h "BR18 § 6h"){ .br18-ref }, skal den tilknyttede certificerede brandrådgiver, gennem sit virke, jf. [kapitel 32](../ovrige-bestemmelser/32/krav/ "BR18 kapitel 32"){ .br18-ref } og [34](../ovrige-bestemmelser/34/krav/ "BR18 kapitel 34"){ .br18-ref }, sikre, at byggearbejdet er i overensstemmelse med [kapitel 5](../tekniske-bestemmelser/05/krav/ "BR18 kapitel 5"){ .br18-ref } samt sikre, at dokumentation herfor, jf. [kapitel 29](../ovrige-bestemmelser/29/krav/ "BR18 kapitel 29"){ .br18-ref }, er fyldestgørende, opfylder sit formål og er kontrolleret, jf. [kapitel 30](../ovrige-bestemmelser/30/krav/ "BR18 kapitel 30"){ .br18-ref }.
 
 ### § 21 {#paragraf-21}
 
 For byggearbejder i de enkelte brandklasser gælder følgende:
 
-1) For byggearbejder i brandklasse 2 skal der tilknyttes én brandrådgiver, der er certificeret til brandklasse 2, brandklasse 3 og 4 eller til at udføre tredjepartskontrol i overensstemmelse med § 19, § 20 eller § 21 i bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet.
+1) For byggearbejder i brandklasse 2 skal der tilknyttes én brandrådgiver, der er certificeret til brandklasse 2, brandklasse 3 og 4 eller til at udføre tredjepartskontrol i overensstemmelse med [§ 19](https://www.retsinformation.dk/eli/lta/2023/1693#P19 "Certificeringsbekendtgørelsen § 19"){ .br18-ref .br18-ref--ext }, [§ 20](https://www.retsinformation.dk/eli/lta/2023/1693#P20 "Certificeringsbekendtgørelsen § 20"){ .br18-ref .br18-ref--ext } eller [§ 21](https://www.retsinformation.dk/eli/lta/2023/1693#P21 "Certificeringsbekendtgørelsen § 21"){ .br18-ref .br18-ref--ext } i bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet.
 
-2) For byggearbejder i brandklasse 3 og 4 skal der tilknyttes én brandrådgiver, der er certificeret til brandklasse 3 og 4 eller til at udføre tredjepartskontrol i overensstemmelse med § 20 eller § 21 i bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet.
+2) For byggearbejder i brandklasse 3 og 4 skal der tilknyttes én brandrådgiver, der er certificeret til brandklasse 3 og 4 eller til at udføre tredjepartskontrol i overensstemmelse med [§ 20](https://www.retsinformation.dk/eli/lta/2023/1693#P20 "Certificeringsbekendtgørelsen § 20"){ .br18-ref .br18-ref--ext } eller [§ 21](https://www.retsinformation.dk/eli/lta/2023/1693#P21 "Certificeringsbekendtgørelsen § 21"){ .br18-ref .br18-ref--ext } i bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet.
 
-3) For byggearbejder i brandklasse 2 med fravigelser af de præ-accepterede løsninger jf. § 493, stk. 1, nr. 2 og bilag 4, afsnit 2 skal der tillige medvirke en brandrådgiver, der er certificeret til brandklasse 3 og 4 eller til at udføre tredjepartskontrol i overensstemmelse med § 20 eller § 21 i bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet.
+3) For byggearbejder i brandklasse 2 med fravigelser af de præ-accepterede løsninger jf. [§ 493, stk. 1, nr. 2](../ovrige-bestemmelser/27/krav/#paragraf-493 "BR18 § 493"){ .br18-ref } og [bilag 4](../bilag/b4/bilag_4/ "BR18 bilag 4"){ .br18-ref }, afsnit 2 skal der tillige medvirke en brandrådgiver, der er certificeret til brandklasse 3 og 4 eller til at udføre tredjepartskontrol i overensstemmelse med [§ 20](https://www.retsinformation.dk/eli/lta/2023/1693#P20 "Certificeringsbekendtgørelsen § 20"){ .br18-ref .br18-ref--ext } eller [§ 21](https://www.retsinformation.dk/eli/lta/2023/1693#P21 "Certificeringsbekendtgørelsen § 21"){ .br18-ref .br18-ref--ext } i bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet.
 
-*Stk. 2.* For byggearbejder i brandklasse 4 skal der tillige tilknyttes én brandrådgiver, der er certificeret til at udføre tredjepartskontrol, jf. § 21 i bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet. Udarbejdelse eller ændring af planer, jf. § 6 h, stk. 1, nr. 2, for byggeri i brandklasse 4 er undtaget herfor, såfremt der ikke ændres på forudsætningerne for de brandmæssige forhold.
+*Stk. 2.* For byggearbejder i brandklasse 4 skal der tillige tilknyttes én brandrådgiver, der er certificeret til at udføre tredjepartskontrol, jf. [§ 21](https://www.retsinformation.dk/eli/lta/2023/1693#P21 "Certificeringsbekendtgørelsen § 21"){ .br18-ref .br18-ref--ext } i bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet. Udarbejdelse eller ændring af planer, jf. [§ 6 h, stk. 1, nr. 2](#paragraf-6h "BR18 § 6h"){ .br18-ref }, for byggeri i brandklasse 4 er undtaget herfor, såfremt der ikke ændres på forudsætningerne for de brandmæssige forhold.
 
 *Stk. 3.* Når der tilknyttes en certificeret brandrådgiver med et certifikat med begrænset gyldighedsområde, skal byggearbejdet i sin helhed være omfattet af certifikatets gyldighedsområde.
 
@@ -599,13 +599,13 @@ Ansøgeren udpeger den eller de certificerede brandrådgivere. Oplysning til ide
 
 Ved ansøgning om byggetilladelse til byggearbejde i brandklasse 2-4 skal følgende dokumentation udfærdiges af den certificerede brandrådgiver og indsendes sammen med ansøgningen om byggetilladelse:
 
-1) Oplysning om og dokumentation for indplacering i brandklasser, jf. § 511.
+1) Oplysning om og dokumentation for indplacering i brandklasser, jf. [§ 511](../ovrige-bestemmelser/29/krav/#paragraf-511 "BR18 § 511"){ .br18-ref }.
 
-2) Oplysning om og dokumentation for, hvorledes byggeriet opfylder §§ 126-133 vedrørende redningsberedskabets indsatsforhold, herunder hvorvidt byggeriet er indsatstaktisk traditionelt, jf. § 510.
+2) Oplysning om og dokumentation for, hvorledes byggeriet opfylder [§§ 126-133](../tekniske-bestemmelser/05/krav/#0875873c-27b3-435c-b6aa-6d7bb2a978d7 "BR18 §§ 126-133"){ .br18-ref } vedrørende redningsberedskabets indsatsforhold, herunder hvorvidt byggeriet er indsatstaktisk traditionelt, jf. [§ 510](../ovrige-bestemmelser/29/krav/#paragraf-510 "BR18 § 510"){ .br18-ref }.
 
-3) Starterklæring, jf. § 508, stk. 1.
+3) Starterklæring, jf. [§ 508, stk. 1](../ovrige-bestemmelser/29/krav/#paragraf-508 "BR18 § 508"){ .br18-ref }.
 
-*Stk. 2.* For byggearbejde i brandklasse 4 skal der ligeledes indsendes starterklæring fra en brandrådgiver, der er certificeret til at udføre tredjepartskontrol, jf. § 508, stk. 2.
+*Stk. 2.* For byggearbejde i brandklasse 4 skal der ligeledes indsendes starterklæring fra en brandrådgiver, der er certificeret til at udføre tredjepartskontrol, jf. [§ 508, stk. 2](../ovrige-bestemmelser/29/krav/#paragraf-508 "BR18 § 508"){ .br18-ref }.
 
 ## § 24 - § 27 (Ophævet) {#10c6ae7a-70d6-4b50-84b8-b4666b56c78a}
 
@@ -629,13 +629,13 @@ Ved ansøgning om byggetilladelse til byggearbejde i brandklasse 2-4 skal følge
 
 ### § 28 {#paragraf-28}
 
-Lovliggørelse af bærende konstruktioner indplaceret i konstruktionsklasse 2-4, skal tilknyttes certificeret statiker, jf. §§ 16-19 og ske i overensstemmelse med bilag 5. Lovliggørelse af bærende konstruktioner omfatter alene de bærende konstruktioner eller konstruktionsafsnit, der er ulovlige, samt andre dele af byggeriet, såfremt disses virkemåde og dokumentation påvirkes heraf.
+Lovliggørelse af bærende konstruktioner indplaceret i konstruktionsklasse 2-4, skal tilknyttes certificeret statiker, jf. [§§ 16-19](#eb908069-264e-49db-9f18-388ff20ee1a2 "BR18 §§ 16-19"){ .br18-ref } og ske i overensstemmelse med [bilag 5](../bilag/b5/bilag_5/ "BR18 bilag 5"){ .br18-ref }. Lovliggørelse af bærende konstruktioner omfatter alene de bærende konstruktioner eller konstruktionsafsnit, der er ulovlige, samt andre dele af byggeriet, såfremt disses virkemåde og dokumentation påvirkes heraf.
 
-*Stk. 2.* Bærende konstruktioner eller konstruktionsafsnit, der er omfattet af lovliggørelsen, jf. stk. 1, indplaceres i konstruktionsklasser i medfør af kapitel 26.
+*Stk. 2.* Bærende konstruktioner eller konstruktionsafsnit, der er omfattet af lovliggørelsen, jf. stk. 1, indplaceres i konstruktionsklasser i medfør af [kapitel 26](../ovrige-bestemmelser/26/krav/ "BR18 kapitel 26"){ .br18-ref }.
 
-*Stk. 3.* Lovliggørelse af brandforhold indplaceret i brandklasse 2-4, skal tilknyttes certificeret brandrådgiver, jf. §§ 20-23 og ske i overensstemmelse med bilag 6. Lovliggørelse af brandforhold omfatter alene de brandforhold eller bygningsafsnit, der er ulovlige, samt andre dele af byggeriet, såfremt forudsætningerne for de brandmæssige forhold og dokumentation påvirkes heraf.
+*Stk. 3.* Lovliggørelse af brandforhold indplaceret i brandklasse 2-4, skal tilknyttes certificeret brandrådgiver, jf. [§§ 20-23](#37c5bccc-b9dc-4a8b-be10-df237a0d565c "BR18 §§ 20-23"){ .br18-ref } og ske i overensstemmelse med [bilag 6](../bilag/b6/bilag_6/ "BR18 bilag 6"){ .br18-ref }. Lovliggørelse af brandforhold omfatter alene de brandforhold eller bygningsafsnit, der er ulovlige, samt andre dele af byggeriet, såfremt forudsætningerne for de brandmæssige forhold og dokumentation påvirkes heraf.
 
-*Stk. 4.* Byggeri eller bygningsafsnit, der er omfattet af lovliggørelsen, jf. stk. 3, indplaceres i brandklasser i medfør af kapitel 27.
+*Stk. 4.* Byggeri eller bygningsafsnit, der er omfattet af lovliggørelsen, jf. stk. 3, indplaceres i brandklasser i medfør af [kapitel 27](../ovrige-bestemmelser/27/krav/ "BR18 kapitel 27"){ .br18-ref }.
 
 *Stk. 5.* Når der anvendes anden materiel regulering, end den, der gælder på lovliggørelsestidspunktet, anses de detailbaserede løsninger for brandsikring af byggeri, som opfyldte kravene til brandsikring i denne regulering, for præ-accepterede løsninger, jf. Bygningsreglementets vejledning til kapitel 5 – Brand, ved indplacering i brandklasser.
 
@@ -643,13 +643,13 @@ Lovliggørelse af bærende konstruktioner indplaceret i konstruktionsklasse 2-4,
 
 ### § 29 {#paragraf-29}
 
-Inden lovliggørelse af byggeri i konstruktionsklasse 2-4 og brandklasse 2-4, jf. § 28, stk. 1 og 3, påbegyndes, skal ejeren indsende dokumentation i henhold til § 10 til kommunalbestyrelsen.
+Inden lovliggørelse af byggeri i konstruktionsklasse 2-4 og brandklasse 2-4, jf. [§ 28, stk. 1 og 3](#paragraf-28 "BR18 § 28"){ .br18-ref }, påbegyndes, skal ejeren indsende dokumentation i henhold til [§ 10](#paragraf-10 "BR18 § 10"){ .br18-ref } til kommunalbestyrelsen.
 
-*Stk. 2.* Når lovliggørelsen foretages på baggrund af anden materiel regulering, end den gældende på lovliggørelsestidspunktet, skal der ikke indsendes dokumentation i henhold til § 10, stk. 2, nr. 6. I stedet skal der indsendes dokumentation for redningsberedskabets indsatsforhold, jf. den materielle regulering, som lovliggørelsen foretages efter, i det omfang det er relevant for lovliggørelsen.
+*Stk. 2.* Når lovliggørelsen foretages på baggrund af anden materiel regulering, end den gældende på lovliggørelsestidspunktet, skal der ikke indsendes dokumentation i henhold til [§ 10, stk. 2, nr. 6](#paragraf-10 "BR18 § 10"){ .br18-ref }. I stedet skal der indsendes dokumentation for redningsberedskabets indsatsforhold, jf. den materielle regulering, som lovliggørelsen foretages efter, i det omfang det er relevant for lovliggørelsen.
 
-*Stk. 3.* Dokumentationen for indplacering i konstruktionsklasser, jf. § 28, stk. 2, skal ske i henhold til § 503. Når lovliggørelsen baseres på anden materiel regulering end den, der gælder på lovliggørelsestidspunktet, skal dokumentationen omfatte de dele af konstruktionsgrundlag, statiske beregninger, konstruktionstegninger og modeller, der er nødvendige for at dokumentere indplaceringen i konstruktionsklasser. Dokumentation for indplacering i konstruktionsklasser skal tillige omfatte en redegørelse for lovliggørelsen, jf. stk. 5.
+*Stk. 3.* Dokumentationen for indplacering i konstruktionsklasser, jf. [§ 28, stk. 2](#paragraf-28 "BR18 § 28"){ .br18-ref }, skal ske i henhold til [§ 503](../ovrige-bestemmelser/28/krav/#paragraf-503 "BR18 § 503"){ .br18-ref }. Når lovliggørelsen baseres på anden materiel regulering end den, der gælder på lovliggørelsestidspunktet, skal dokumentationen omfatte de dele af konstruktionsgrundlag, statiske beregninger, konstruktionstegninger og modeller, der er nødvendige for at dokumentere indplaceringen i konstruktionsklasser. Dokumentation for indplacering i konstruktionsklasser skal tillige omfatte en redegørelse for lovliggørelsen, jf. stk. 5.
 
-*Stk. 4.* Dokumentation for indplacering i brandklasse, jf. § 28, stk. 4, skal ske i henhold til § 511. Dokumentation for indplacering i brandklasser skal tillige omfatte en redegørelse for lovliggørelsen, jf. stk. 5.
+*Stk. 4.* Dokumentation for indplacering i brandklasse, jf. [§ 28, stk. 4](#paragraf-28 "BR18 § 28"){ .br18-ref }, skal ske i henhold til [§ 511](../ovrige-bestemmelser/29/krav/#paragraf-511 "BR18 § 511"){ .br18-ref }. Dokumentation for indplacering i brandklasser skal tillige omfatte en redegørelse for lovliggørelsen, jf. stk. 5.
 
 *Stk. 5.* Redegørelsen, jf. stk. 3 og 4, skal indeholde:
 
@@ -665,11 +665,11 @@ Inden lovliggørelse af byggeri i konstruktionsklasse 2-4 og brandklasse 2-4, jf
 
 *Stk. 7.* Sker der ændringer undervejs i lovliggørelsen, som ikke er i overensstemmelse med den indsendte dokumentation, jf. stk. 1-5, har ejeren pligt til at oplyse kommunalbestyrelsen herom.
 
-*Stk. 8.* Afslutning af lovliggørelsen sker i henhold til §§ 40-46 med følgende ændringer:
+*Stk. 8.* Afslutning af lovliggørelsen sker i henhold til [§§ 40-46](#32798ba8-5569-4276-98f6-5dc6503156df "BR18 §§ 40-46"){ .br18-ref } med følgende ændringer:
 
-1\) Dokumentation og erklæringer jf. § 40, stk. 2, skal baseres på den lovgivning, der ligger til grund for lovliggørelsen.
+1\) Dokumentation og erklæringer jf. [§ 40, stk. 2](#paragraf-40 "BR18 § 40"){ .br18-ref }, skal baseres på den lovgivning, der ligger til grund for lovliggørelsen.
 
-2) Dokumentation for bærende konstruktioner og dokumentation af brandforhold skal være i overensstemmelse med bilag 5 henholdsvis bilag 6.
+2) Dokumentation for bærende konstruktioner og dokumentation af brandforhold skal være i overensstemmelse med [bilag 5](../bilag/b5/bilag_5/ "BR18 bilag 5"){ .br18-ref } henholdsvis [bilag 6](../bilag/b6/bilag_6/ "BR18 bilag 6"){ .br18-ref }.
 
 *Stk. 9.* Hvis lovliggørelsen efter kommunalbestyrelsens vurdering består af en simpel fysisk udbedring, kan kommunalbestyrelsen beslutte, at stk. 1-8 ikke finder anvendelse, og selv foretage den byggetekniske sagsbehandling af lovliggørelsen.
 
@@ -681,9 +681,9 @@ Inden lovliggørelse af byggeri i konstruktionsklasse 2-4 og brandklasse 2-4, jf
 
 ### § 30 a {#paragraf-30a}
 
-Hvis der ikke er tilknyttet en certificeret statiker for transportable konstruktioner i konstruktionsklasse 2-4, og de transportable konstruktioner opstilles midlertidigt på camping-, og salgsområder samt i forsamlingslokaler, idrætshaller og lignende, og konstruktionen ikke er certificeret, skal kommunalbestyrelsen foretage byggesagsbehandling af dokumentation af bærende konstruktioner, jf. kapitel 15.
+Hvis der ikke er tilknyttet en certificeret statiker for transportable konstruktioner i konstruktionsklasse 2-4, og de transportable konstruktioner opstilles midlertidigt på camping-, og salgsområder samt i forsamlingslokaler, idrætshaller og lignende, og konstruktionen ikke er certificeret, skal kommunalbestyrelsen foretage byggesagsbehandling af dokumentation af bærende konstruktioner, jf. [kapitel 15](../tekniske-bestemmelser/15/krav/ "BR18 kapitel 15"){ .br18-ref }.
 
-*Stk. 2.* Dokumentationen for, at de bærende konstruktioner overholder bestemmelserne i kapitel 15, skal udarbejdes og kontrolleres i overensstemmelse med principperne i SBi-anvisning 223, Dokumentation af bærende konstruktioner. Afhængigt af den transportable konstruktion skal den statiske dokumentation indeholde følgende:
+*Stk. 2.* Dokumentationen for, at de bærende konstruktioner overholder bestemmelserne i [kapitel 15](../tekniske-bestemmelser/15/krav/ "BR18 kapitel 15"){ .br18-ref }, skal udarbejdes og kontrolleres i overensstemmelse med principperne i SBi-anvisning 223, Dokumentation af bærende konstruktioner. Afhængigt af den transportable konstruktion skal den statiske dokumentation indeholde følgende:
 
 1) Konstruktionsdokumentation:
 
@@ -703,13 +703,13 @@ b) B2. Statisk kontrolrapport.
 
 c) B3. Statisk tilsynsrapport.
 
-*Stk. 3.* For midlertidige transportable konstruktioner, som er omfattet af § 30 a, stk. 1, og som er i høj konsekvensklasse (CC3), jf. DS/EN 1990 Projekteringsgrundlag for bærende konstruktioner med DS/EN 1990 DK NA:2019, skal der tilknyttes en anerkendt statiker, der har anerkendelse efter reglerne i kapitel 35, og som skal sikre overholdelse af kapitel 15.
+*Stk. 3.* For midlertidige transportable konstruktioner, som er omfattet af [§ 30 a, stk. 1](#paragraf-30a "BR18 § 30a"){ .br18-ref }, og som er i høj konsekvensklasse (CC3), jf. DS/EN 1990 Projekteringsgrundlag for bærende konstruktioner med DS/EN 1990 DK NA:2019, skal der tilknyttes en anerkendt statiker, der har anerkendelse efter reglerne i [kapitel 35](../ovrige-bestemmelser/35/krav/ "BR18 kapitel 35"){ .br18-ref }, og som skal sikre overholdelse af [kapitel 15](../tekniske-bestemmelser/15/krav/ "BR18 kapitel 15"){ .br18-ref }.
 
 *Stk. 4.* Ansøger udpeger den anerkendte statiker. Oplysning herom skal fremgå af ansøgningen om byggetilladelse.
 
 ### § 30 b {#paragraf-30b}
 
-Ved ansøgning om byggetilladelse for midlertidige transportable konstruktioner, som er omfattet af § 30 a, stk. 3, skal der indsendes dokumentation for, at bestemmelserne i kapitel 15 overholdes.
+Ved ansøgning om byggetilladelse for midlertidige transportable konstruktioner, som er omfattet af [§ 30 a, stk. 3](#paragraf-30a "BR18 § 30a"){ .br18-ref }, skal der indsendes dokumentation for, at bestemmelserne i [kapitel 15](../tekniske-bestemmelser/15/krav/ "BR18 kapitel 15"){ .br18-ref } overholdes.
 
 *Stk. 2.* Den statiske dokumentation skal bilægges følgende dokumentation udfærdiget af en anerkendte statiker:
 
@@ -721,25 +721,25 @@ Ved ansøgning om byggetilladelse for midlertidige transportable konstruktioner,
 
 b) at der er valgt de korrekte konsekvensklasser, og at dokumentationen herfor er retvisende,
 
-c) at dokumentationen godtgør, at byggeriet overholder bygningsreglementets krav til bærende konstruktioner, jf. kapitel 15 og
+c) at dokumentationen godtgør, at byggeriet overholder bygningsreglementets krav til bærende konstruktioner, jf. [kapitel 15](../tekniske-bestemmelser/15/krav/ "BR18 kapitel 15"){ .br18-ref } og
 
 d) redegørelse for den anerkendte statikers virke.
 
-*Stk. 3.* Erklæringen udarbejdes og underskrives personligt af den anerkendte statiker, jf. kapitel 35.
+*Stk. 3.* Erklæringen udarbejdes og underskrives personligt af den anerkendte statiker, jf. [kapitel 35](../ovrige-bestemmelser/35/krav/ "BR18 kapitel 35"){ .br18-ref }.
 
 ### § 30 c {#paragraf-30c}
 
-For konstruktioner omfattet af § 30 a, stk. 1, og som henregnes til høj konsekvensklasse, hvor konsekvenserne af et svigt er særligt alvorlige (CC3+), jf. DS/EN 1990 Projekteringsgrundlag for bærende konstruktioner med DS/EN 1990 DK NA:2013, skal der ved ansøgning til byggetilladelse endvidere indsendes en erklæring fra en tredjepartskontrollant, der har anerkendelse efter reglerne i kapitel 35, og som hverken direkte eller indirekte må være økonomisk forbunden med den eller de organisationer, som har medvirket ved projekteringen af bygningen.
+For konstruktioner omfattet af [§ 30 a, stk. 1](#paragraf-30a "BR18 § 30a"){ .br18-ref }, og som henregnes til høj konsekvensklasse, hvor konsekvenserne af et svigt er særligt alvorlige (CC3+), jf. DS/EN 1990 Projekteringsgrundlag for bærende konstruktioner med DS/EN 1990 DK NA:2013, skal der ved ansøgning til byggetilladelse endvidere indsendes en erklæring fra en tredjepartskontrollant, der har anerkendelse efter reglerne i [kapitel 35](../ovrige-bestemmelser/35/krav/ "BR18 kapitel 35"){ .br18-ref }, og som hverken direkte eller indirekte må være økonomisk forbunden med den eller de organisationer, som har medvirket ved projekteringen af bygningen.
 
 *Stk. 2.* Ansøger udpeger tredjepartskontrollanten. Oplysning herom skal fremgå af ansøgningen om byggetilladelse.
 
 *Stk. 3.* I erklæringen angives
 
-1) at den anerkendte statikers angivelse i erklæringen, jf. § 30 b, stk. 2, nr.2, litra b-d, er retvisende og
+1) at den anerkendte statikers angivelse i erklæringen, jf. [§ 30 b, stk. 2, nr.2, litra b-d](#paragraf-30b "BR18 § 30b"){ .br18-ref }, er retvisende og
 
 2) redegørelse for den i stk. 1 anførte anerkendte statikers virke som tredjepartskontrollant.
 
-*Stk. 4.* Erklæringen udformes og underskrives personligt af tredjepartskontrollanten, jf. kapitel 35.
+*Stk. 4.* Erklæringen udformes og underskrives personligt af tredjepartskontrollanten, jf. [kapitel 35](../ovrige-bestemmelser/35/krav/ "BR18 kapitel 35"){ .br18-ref }.
 
 ## § 31 - § 34 Byggesagsbehandling af transportable konstruktioner i brandklasse 2-4, som ikke er certificeret og opstilles midlertidigt på camping- og salgsområder samt i forsamlingslokaler, idrætshaller o. lign. {#85bbd58f-840e-4759-8d77-19860278b508}
 
@@ -749,11 +749,11 @@ For konstruktioner omfattet af § 30 a, stk. 1, og som henregnes til høj konsek
 
 ### § 31 a {#paragraf-31a}
 
-Hvis der ikke er tilknyttet en certificeret rådgiver for transportable konstruktioner i brandklasse 2-4, som opstilles midlertidigt på camping-, og salgsområder samt i forsamlingslokaler, idrætshaller og lignende, skal kommunalbestyrelsen foretage byggesagsbehandling af brandforhold, jf. kapitel 5.
+Hvis der ikke er tilknyttet en certificeret rådgiver for transportable konstruktioner i brandklasse 2-4, som opstilles midlertidigt på camping-, og salgsområder samt i forsamlingslokaler, idrætshaller og lignende, skal kommunalbestyrelsen foretage byggesagsbehandling af brandforhold, jf. [kapitel 5](../tekniske-bestemmelser/05/krav/ "BR18 kapitel 5"){ .br18-ref }.
 
 ### § 31 b {#paragraf-31b}
 
-Ved ansøgning om byggetilladelse til transportable konstruktioner i brandklasse 2-4, som opstilles midlertidigt på camping-, og salgsområder samt forsamlingslokaler, idrætshaller o.lign., hvor der ikke er tilknyttet en certificeret brandrådgiver, skal der indsendes dokumentation for, at bestemmelserne i kapitel 5 overholdes. Afhængigt af den transportable konstruktion skal dokumentationen indeholde følgende:
+Ved ansøgning om byggetilladelse til transportable konstruktioner i brandklasse 2-4, som opstilles midlertidigt på camping-, og salgsområder samt forsamlingslokaler, idrætshaller o.lign., hvor der ikke er tilknyttet en certificeret brandrådgiver, skal der indsendes dokumentation for, at bestemmelserne i [kapitel 5](../tekniske-bestemmelser/05/krav/ "BR18 kapitel 5"){ .br18-ref } overholdes. Afhængigt af den transportable konstruktion skal dokumentationen indeholde følgende:
 
 1) Brandstrategirapport.
 
@@ -797,13 +797,13 @@ Meddelelse om byggetilladelse skal ske skriftligt til ansøger.
 
 ### § 36 {#paragraf-36}
 
-Inden kommunalbestyrelsen kan meddele byggetilladelse, skal kommunalbestyrelsen foretage en vurdering af, om den dokumentation, der indsendes efter § 10, stk. 1, § 10, stk. 2, nr. 1, § 11, § 11 b, § 18 og § 22, er i overensstemmelse med de for byggesagen relevante krav i bygningsreglementet.
+Inden kommunalbestyrelsen kan meddele byggetilladelse, skal kommunalbestyrelsen foretage en vurdering af, om den dokumentation, der indsendes efter [§ 10, stk. 1](#paragraf-10 "BR18 § 10"){ .br18-ref }, [§ 10, stk. 2, nr. 1](#paragraf-10 "BR18 § 10"){ .br18-ref }, [§ 11](#paragraf-11 "BR18 § 11"){ .br18-ref }, [§ 11 b](#paragraf-11b "BR18 § 11b"){ .br18-ref }, [§ 18](#paragraf-18 "BR18 § 18"){ .br18-ref } og [§ 22](#paragraf-22 "BR18 § 22"){ .br18-ref }, er i overensstemmelse med de for byggesagen relevante krav i bygningsreglementet.
 
-*Stk. 2.* Hvis det ansøgte byggeri er indplaceret i konstruktionsklasse 1 skal kommunalbestyrelsen foretage en vurdering af, om den dokumentation, der indsendes efter § 10, stk. 2, nr. 2 og 3 er i overensstemmelse med de for byggesagen relevante krav i bygningsreglementet.
+*Stk. 2.* Hvis det ansøgte byggeri er indplaceret i konstruktionsklasse 1 skal kommunalbestyrelsen foretage en vurdering af, om den dokumentation, der indsendes efter [§ 10, stk. 2, nr. 2 og 3](#paragraf-10 "BR18 § 10"){ .br18-ref } er i overensstemmelse med de for byggesagen relevante krav i bygningsreglementet.
 
-*Stk. 3.* Hvis det ansøgte byggeri er indplaceret i brandklasse 1, skal kommunalbestyrelsen foretage en vurdering af, om den dokumentation, der indsendes efter § 10, stk. 2, nr. 4-6 er i overensstemmelse med de for byggesagen relevante krav i bygningsreglementet.
+*Stk. 3.* Hvis det ansøgte byggeri er indplaceret i brandklasse 1, skal kommunalbestyrelsen foretage en vurdering af, om den dokumentation, der indsendes efter [§ 10, stk. 2, nr. 4-6](#paragraf-10 "BR18 § 10"){ .br18-ref } er i overensstemmelse med de for byggesagen relevante krav i bygningsreglementet.
 
-*Stk. 4.* Hvis det ansøgte byggeri er indplaceret i brandklasse 2-4 og byggeriet ikke er indsatstaktisk traditionelt, skal kommunalbestyrelsen fortage en vurdering af, om den dokumentation, der indsendes efter § 10, stk. 2, nr. 6 er i overensstemmelse med de for byggesagen relevante krav i bygningsreglementet.
+*Stk. 4.* Hvis det ansøgte byggeri er indplaceret i brandklasse 2-4 og byggeriet ikke er indsatstaktisk traditionelt, skal kommunalbestyrelsen fortage en vurdering af, om den dokumentation, der indsendes efter [§ 10, stk. 2, nr. 6](#paragraf-10 "BR18 § 10"){ .br18-ref } er i overensstemmelse med de for byggesagen relevante krav i bygningsreglementet.
 
 ### § 37 {#paragraf-37}
 
@@ -849,13 +849,13 @@ Byggearbejder, der kræver byggetilladelse, skal færdigmeldes til kommunalbesty
 
 *Stk. 2.* Ved færdigmelding skal følgende fremsendes:
 
-1) Dokumentation for, at der er tegnet byggeskadeforsikring, og at præmien er betalt, jf. byggelovens § 25 C, stk. 2, for byggeri omfattet af byggelovens § 25 A.
+1) Dokumentation for, at der er tegnet byggeskadeforsikring, og at præmien er betalt, jf. byggelovens [§ 25 C, stk. 2](https://www.retsinformation.dk/eli/lta/2016/1178#P25C "Byggeloven § 25C"){ .br18-ref .br18-ref--ext }, for byggeri omfattet af byggelovens [§ 25 A](https://www.retsinformation.dk/eli/lta/2016/1178#P25A "Byggeloven § 25A"){ .br18-ref .br18-ref--ext }.
 
 2) Erklæring om, at det færdige byggeri er i overensstemmelse med byggetilladelsen og bygningsreglementet.
 
-3) Erklæring om, at der er fremsendt fyldestgørende dokumentation, der viser, at bygningsreglementets bestemmelser er opfyldt, samt at der er fremsendt drifts- og vedligeholdelsesmanual for bebyggelsens installationer, jf. §§ 80, 328, 392, 419 og 452.
+3) Erklæring om, at der er fremsendt fyldestgørende dokumentation, der viser, at bygningsreglementets bestemmelser er opfyldt, samt at der er fremsendt drifts- og vedligeholdelsesmanual for bebyggelsens installationer, jf. [§§ 80](../tekniske-bestemmelser/04/krav/#paragraf-80 "BR18 § 80"){ .br18-ref }, [328](../tekniske-bestemmelser/12/krav/#paragraf-328 "BR18 § 328"){ .br18-ref }, [392](../tekniske-bestemmelser/19/krav/#9e7aa923-4d4d-4faa-bc24-1cb36df4b85d "BR18 § 392"){ .br18-ref }, [419](../tekniske-bestemmelser/21/krav/#paragraf-419 "BR18 § 419"){ .br18-ref } og [452](../tekniske-bestemmelser/22/krav/#paragraf-452 "BR18 § 452"){ .br18-ref }.
 
-4) Dokumentation for overholdelse af bygningsreglementets bestemmelser i den færdige bygning. Dokumentationen skal bestå af al for byggearbejdet relevant materiale, herunder overordnede beskrivelser, forudsætninger, beregninger, tegningsmateriale, prøvninger, målinger mv. Det skal ved det fremsendte dokumenteres, hvordan specifikke niveauer er fastsat på baggrund af bygningsreglementets funktionskrav, og hvordan de specifikke niveauer eller detailkrav i bygningsreglementet opfyldes. 5) Drift- og vedligeholdelsesmanual for bebyggelsens installationer, jf. §§ 80, 328, 392, 419 og 452.
+4) Dokumentation for overholdelse af bygningsreglementets bestemmelser i den færdige bygning. Dokumentationen skal bestå af al for byggearbejdet relevant materiale, herunder overordnede beskrivelser, forudsætninger, beregninger, tegningsmateriale, prøvninger, målinger mv. Det skal ved det fremsendte dokumenteres, hvordan specifikke niveauer er fastsat på baggrund af bygningsreglementets funktionskrav, og hvordan de specifikke niveauer eller detailkrav i bygningsreglementet opfyldes. 5) Drift- og vedligeholdelsesmanual for bebyggelsens installationer, jf. [§§ 80](../tekniske-bestemmelser/04/krav/#paragraf-80 "BR18 § 80"){ .br18-ref }, [328](../tekniske-bestemmelser/12/krav/#paragraf-328 "BR18 § 328"){ .br18-ref }, [392](../tekniske-bestemmelser/19/krav/#9e7aa923-4d4d-4faa-bc24-1cb36df4b85d "BR18 § 392"){ .br18-ref }, [419](../tekniske-bestemmelser/21/krav/#paragraf-419 "BR18 § 419"){ .br18-ref } og [452](../tekniske-bestemmelser/22/krav/#paragraf-452 "BR18 § 452"){ .br18-ref }.
 
 *Stk. 3.* Bygningsejeren har pligt til at meddele forhold, som er af betydning for drift og ajourføring af BBR i overensstemmelse med bekendtgørelse om ajourføring af bygnings- og boligregistret.
 
@@ -863,31 +863,31 @@ Byggearbejder, der kræver byggetilladelse, skal færdigmeldes til kommunalbesty
 
 ### § 41 {#paragraf-41}
 
-For byggearbejde omfattet af konstruktionsklasse 2-4, jf. kapitel 26, skal der med færdigmeldingen ligeledes indsendes en sluterklæring, jf.§ 499, stk. 1, der er udarbejdet af den certificerede statiker.
+For byggearbejde omfattet af konstruktionsklasse 2-4, jf. [kapitel 26](../ovrige-bestemmelser/26/krav/ "BR18 kapitel 26"){ .br18-ref }, skal der med færdigmeldingen ligeledes indsendes en sluterklæring, jf.[§ 499, stk. 1](../ovrige-bestemmelser/28/krav/#paragraf-499 "BR18 § 499"){ .br18-ref }, der er udarbejdet af den certificerede statiker.
 
-*Stk. 2.* For byggearbejde i konstruktionsklasse 4 skal der ligeledes indsendes en sluterklæring, jf. § 499, stk. 2, der er udarbejdet af den statiker, der er certificeret til at udføre tredjepartskontrol.
+*Stk. 2.* For byggearbejde i konstruktionsklasse 4 skal der ligeledes indsendes en sluterklæring, jf. [§ 499, stk. 2](../ovrige-bestemmelser/28/krav/#paragraf-499 "BR18 § 499"){ .br18-ref }, der er udarbejdet af den statiker, der er certificeret til at udføre tredjepartskontrol.
 
-*Stk. 3.* For byggearbejde omfattet af konstruktionsklasse 2-4, jf. kapitel 26, skal der med færdigmeldingen ligeledes indsendes en erklæring, om at der er gennemført kontrol og udarbejdet Statisk kontrolrapport udførelse - arbejde - almen kontrol, jf. § 502, stk. 1, nr. 3, litra b, og de ved kontrollen fundne afvigelser er behandlet.
+*Stk. 3.* For byggearbejde omfattet af konstruktionsklasse 2-4, jf. [kapitel 26](../ovrige-bestemmelser/26/krav/ "BR18 kapitel 26"){ .br18-ref }, skal der med færdigmeldingen ligeledes indsendes en erklæring, om at der er gennemført kontrol og udarbejdet Statisk kontrolrapport udførelse - arbejde - almen kontrol, jf. [§ 502, stk. 1, nr. 3, litra b](../ovrige-bestemmelser/28/krav/#paragraf-502 "BR18 § 502"){ .br18-ref }, og de ved kontrollen fundne afvigelser er behandlet.
 
 ### § 42 {#paragraf-42}
 
-For byggearbejde omfattet af brandklasse 2-4, jf. kapitel 27, skal der med færdigmeldingen ligeledes indsendes en sluterklæring, jf. § 509, stk. 1, der er udarbejdet af den certificerede brandrådgiver.
+For byggearbejde omfattet af brandklasse 2-4, jf. [kapitel 27](../ovrige-bestemmelser/27/krav/ "BR18 kapitel 27"){ .br18-ref }, skal der med færdigmeldingen ligeledes indsendes en sluterklæring, jf. [§ 509, stk. 1](../ovrige-bestemmelser/29/krav/#paragraf-509 "BR18 § 509"){ .br18-ref }, der er udarbejdet af den certificerede brandrådgiver.
 
-*Stk. 2.* For byggearbejde i brandklasse 4 skal der ligeledes indsendes en sluterklæring, jf. § 509, stk. 2, der er udarbejdet af den brandrådgiver, der er certificeret til at udføre tredjepartskontrol.
+*Stk. 2.* For byggearbejde i brandklasse 4 skal der ligeledes indsendes en sluterklæring, jf. [§ 509, stk. 2](../ovrige-bestemmelser/29/krav/#paragraf-509 "BR18 § 509"){ .br18-ref }, der er udarbejdet af den brandrådgiver, der er certificeret til at udføre tredjepartskontrol.
 
-*Stk. 3.* For byggearbejde omfattet af brandklasse 2-4, jf. kapitel 27, skal der med færdigmeldingen ligeledes indsendes en erklæring, om at der er gennemført kontrol og udarbejdet kontrolrapporter for almen kontrol af projektering og udførelse af brandsikringstiltag, jf. § 519, stk. 1, nr. 2 og 3, og de ved kontrollen fundne afvigelser er behandlet.
+*Stk. 3.* For byggearbejde omfattet af brandklasse 2-4, jf. [kapitel 27](../ovrige-bestemmelser/27/krav/ "BR18 kapitel 27"){ .br18-ref }, skal der med færdigmeldingen ligeledes indsendes en erklæring, om at der er gennemført kontrol og udarbejdet kontrolrapporter for almen kontrol af projektering og udførelse af brandsikringstiltag, jf. [§ 519, stk. 1, nr. 2 og 3](../ovrige-bestemmelser/29/krav/#paragraf-519 "BR18 § 519"){ .br18-ref }, og de ved kontrollen fundne afvigelser er behandlet.
 
 ### § 43 {#paragraf-43}
 
 Byggearbejder, der kræver byggetilladelse, må ikke tages i brug uden kommunalbestyrelsens ibrugtagningstilladelse.
 
-*Stk. 2.* Inden kommunalbestyrelsen kan meddele tilladelse til ibrugtagning af byggeriet, skal kommunalbestyrelsen kontrollere, at ansøgeren har indsendt dokumentation jf. § 40, stk. 2, nr. 1 og erklæringer jf. § 40, stk. 2, nr. 2 og 3 og hvis relevant erklæringer, jf. §§ 41 og 42.
+*Stk. 2.* Inden kommunalbestyrelsen kan meddele tilladelse til ibrugtagning af byggeriet, skal kommunalbestyrelsen kontrollere, at ansøgeren har indsendt dokumentation jf. [§ 40, stk. 2, nr. 1](#paragraf-40 "BR18 § 40"){ .br18-ref } og erklæringer jf. [§ 40, stk. 2, nr. 2 og 3](#paragraf-40 "BR18 § 40"){ .br18-ref } og hvis relevant erklæringer, jf. [§§ 41](#paragraf-41 "BR18 § 41"){ .br18-ref } og [42](#paragraf-42 "BR18 § 42"){ .br18-ref }.
 
 *Stk. 3.* Kommunalbestyrelsen kan på ansøgers anmodning udpege en særlig sagkyndig vedrørende den tekniske dokumentation, såfremt dette er nødvendigt for kommunalbestyrelsens afgørelse om ibrugtagningstilladelse. Udgifterne hertil afholdes af ansøgeren.
 
 *Stk. 4.* Garager og carporte, der ikke er integrerede i den primære bebyggelse, samt udhuse, hønsehuse, drivhuse, overdækkede terrasser og lignende, er ikke omfattet af stk. 1 og kan derfor tages i brug uden tilladelse.
 
-*Stk. 5.* Nedrivningsarbejder, der kræver kommunalbestyrelsens tilladelse, jf. § 47, er ikke omfattet af stk. 1.
+*Stk. 5.* Nedrivningsarbejder, der kræver kommunalbestyrelsens tilladelse, jf. [§ 47](#paragraf-47 "BR18 § 47"){ .br18-ref }, er ikke omfattet af stk. 1.
 
 ### § 44 {#paragraf-44}
 
@@ -895,7 +895,7 @@ Kommunalbestyrelsen kan give tilladelse til, at bebyggelse kan tages helt eller 
 
 *Stk. 2.* Kommunalbestyrelsen kan stille vilkår til ansøger i de tilfælde, hvor der gives tilladelse til, at bebyggelse kan tages helt eller delvist i brug, selv om byggearbejdet endnu ikke er afsluttet.
 
-*Stk. 3.* Stk. 1 finder også anvendelse på de byggesager, hvor der efter §§ 19 og 23 er fremsendt starterklæring.
+*Stk. 3.* Stk. 1 finder også anvendelse på de byggesager, hvor der efter [§§ 19](#paragraf-19 "BR18 § 19"){ .br18-ref } og [23](#paragraf-23 "BR18 § 23"){ .br18-ref } er fremsendt starterklæring.
 
 ### § 45 {#paragraf-45}
 
@@ -907,9 +907,9 @@ Kommunalbestyrelsen skal i 10 pct. af de byggesager, hvortil der er meddelt ibru
 
 *Stk. 2.* Kommunalbestyrelsen skal igangsætte stikprøvekontrollen indenfor en måned efter, der er meddelt ibrugtagningstilladelse og meddele bygningsejeren, at byggesagen er udtaget til stikprøvekontrol.
 
-*Stk. 3.* Ved byggearbejder i konstruktionsklasse 2-4 skal kommunalbestyrelsen ikke påse byggeriets overensstemmelse med kapitel 15.
+*Stk. 3.* Ved byggearbejder i konstruktionsklasse 2-4 skal kommunalbestyrelsen ikke påse byggeriets overensstemmelse med [kapitel 15](../tekniske-bestemmelser/15/krav/ "BR18 kapitel 15"){ .br18-ref }.
 
-*Stk. 4.* Ved byggearbejder i brandklasse 2-4 skal kommunalbestyrelsen ikke påse byggeriets overensstemmelse med kapitel 5.
+*Stk. 4.* Ved byggearbejder i brandklasse 2-4 skal kommunalbestyrelsen ikke påse byggeriets overensstemmelse med [kapitel 5](../tekniske-bestemmelser/05/krav/ "BR18 kapitel 5"){ .br18-ref }.
 
 *Stk. 5.* Byggesager vedrørende enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse samt byggesager vedrørende garager og carporte, udhuse, hønsehuse, drivhuse, overdækkede terrasser og lignende, er ikke omfattet af krav om stikprøvekontrol, jf. stk. 1.
 

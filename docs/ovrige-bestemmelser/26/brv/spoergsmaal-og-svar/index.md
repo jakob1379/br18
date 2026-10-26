@@ -14,7 +14,7 @@
 
 Nej, en ombygning kan godt indplaceres i en lavere konstruktionsklasse end bygningens/konstruktionens konstruktionsklasse, det afhænger dog af nedenfor nævnte forhold.
 
-En bygning eller konstruktion, som skal ombygges, skal som udgangspunkt opdeles i konstruktionsafsnit, som alle indplaceres i konstruktionsklasser. Inddelingen af bygningen/konstruktionen i konstruktionsafsnit sker efter samme principper som for nybyggeri. Der kan findes mere information i kapitel 1 i *[Vejledningen om indplacering i konstruktionsklasser](../indplacering-i-konstruktionsklasser/){rel="noopener noreferrer" target="_blank"},* knyttet til kapitel 26 i BR18.
+En bygning eller konstruktion, som skal ombygges, skal som udgangspunkt opdeles i konstruktionsafsnit, som alle indplaceres i konstruktionsklasser. Inddelingen af bygningen/konstruktionen i konstruktionsafsnit sker efter samme principper som for nybyggeri. Der kan findes mere information i kapitel 1 i *[Vejledningen om indplacering i konstruktionsklasser](../indplacering-i-konstruktionsklasser/){rel="noopener noreferrer" target="_blank"},* knyttet til [kapitel 26](../../krav/ "BR18 kapitel 26"){ .br18-ref } i BR18.
 
 Byggearbejdet, der er omfattet af ombygningen, kan påvirke eller ændre en række konstruktionsdele, der kan ligge i en eller flere konstruktionsafsnit. Byggearbejdet skal derfor indplaceres i den konstruktionsklasse, hvori det konstruktionsafsnit med den højeste klasse, som byggearbejdet enten direkte eller indirekte påvirker, er indplaceret i.
 

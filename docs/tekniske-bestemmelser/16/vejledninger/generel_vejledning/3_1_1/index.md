@@ -39,7 +39,7 @@
 
 ### 3.1.1. Legepladser mv., der er undtaget for indplacering i konstruktionsklasse {#1a25dde1-3c1c-4c03-a76a-068cf6b15e8d}
 
-Legepladser mv. kan være undtaget fra indplacering i konstruktionsklasse efter § 489, stk. 1, hvilket fremgår af § 489, stk. 4. Her fremgår det, at mindre legepladsredskaber og -underlag, multisportsudstyr, motionsredskaber i det fri, skateboardbaner og lignede er undtaget fra indplacering i en konstruktionsklasse, hvis udformningen udføres i henhold til §§ 359-363, og når udformningen eller anvendelsen ikke medfører en risiko for personskade ved et svigt. Andre mindre legepladsredskaber er tillige undtaget fra indplacering i konstruktionsklasse, hvis udformningen eller anvendelsen ikke medfører en risiko for personskade ved et svigt.
+Legepladser mv. kan være undtaget fra indplacering i konstruktionsklasse efter [§ 489, stk. 1](../../../../../ovrige-bestemmelser/26/krav/#paragraf-489 "BR18 § 489"){ .br18-ref }, hvilket fremgår af [§ 489, stk. 4](../../../../../ovrige-bestemmelser/26/krav/#paragraf-489 "BR18 § 489"){ .br18-ref }. Her fremgår det, at mindre legepladsredskaber og -underlag, multisportsudstyr, motionsredskaber i det fri, skateboardbaner og lignede er undtaget fra indplacering i en konstruktionsklasse, hvis udformningen udføres i henhold til [§§ 359-363](../../../krav/#e46aa162-8b77-41eb-a53b-d7eccd0145d8 "BR18 §§ 359-363"){ .br18-ref }, og når udformningen eller anvendelsen ikke medfører en risiko for personskade ved et svigt. Andre mindre legepladsredskaber er tillige undtaget fra indplacering i konstruktionsklasse, hvis udformningen eller anvendelsen ikke medfører en risiko for personskade ved et svigt.
 
 Hvorvidt der *ikke* medføres en risiko for personskade ved svigt, kan bl.a. afhænge af følgende faktorer:
 
@@ -53,7 +53,7 @@ Hvorvidt der *ikke* medføres en risiko for personskade ved svigt, kan bl.a. afh
 
 Ovenstående liste er eksempler og er ikke udtømmende.
 
-I forhold til fri faldhøjde, betragtes et legepladsredskab med en fri faldhøjde på højst 1,0 meter ikke som en risiko for personskade. Ved ”mindre legepladsredskaber” nævnt i § 489, stk. 4, forstås ligeledes legepladsredskaber med en fri faldhøjde på højst 1 meter. Den fri faldhøjde er den største lodrette afstand til stødområdet nedenunder fra de flader hvortil der opmuntres adgang.
+I forhold til fri faldhøjde, betragtes et legepladsredskab med en fri faldhøjde på højst 1,0 meter ikke som en risiko for personskade. Ved ”mindre legepladsredskaber” nævnt i [§ 489, stk. 4](../../../../../ovrige-bestemmelser/26/krav/#paragraf-489 "BR18 § 489"){ .br18-ref }, forstås ligeledes legepladsredskaber med en fri faldhøjde på højst 1 meter. Den fri faldhøjde er den største lodrette afstand til stødområdet nedenunder fra de flader hvortil der opmuntres adgang.
 
 <span id="indplacering-i-brandklasse"></span>
 

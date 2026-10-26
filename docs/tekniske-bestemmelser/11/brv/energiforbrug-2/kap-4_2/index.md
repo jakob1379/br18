@@ -58,9 +58,9 @@
 
 ### 4.2. Forsatsvinduer, porte, lemme og ovenlyskupler {#0953d039-72d1-4db2-abb2-e88d6a7c7981}
 
-Kravene i §279 gælder for de faktiske størrelser af porte, lemme, forsatsvinduer og ovenlyskupler.
+Kravene i [§279](../../../krav/#paragraf-279 "BR18 § 279"){ .br18-ref } gælder for de faktiske størrelser af porte, lemme, forsatsvinduer og ovenlyskupler.
 
-For forsatsvinduer kan kravene i §279 eller de generelle regler for vinduer i §258 anvendes.
+For forsatsvinduer kan kravene i [§279](../../../krav/#paragraf-279 "BR18 § 279"){ .br18-ref } eller de generelle regler for vinduer i [§258](../../../krav/#fd620db7-f2ed-41e9-8e42-3f4b75f234be "BR18 § 258"){ .br18-ref } anvendes.
 
 Nye forsatsvinduer (1+2) dækker den samlede løsning for nye vinduer kombineret med en ny ekstra, selvstændig ramme/karm.
 
@@ -70,7 +70,7 @@ Der er ikke krav til den energimæssige ydeevne af forsatsrammer, der monteres p
 
 Linjetab har væsentlig betydning for energiøkonomi og minimering af indeklimagener. Bestemmelserne om linjetab ved udskiftning af vinduer, forbedring af ydervægge eller gulvkonstruktioner finder imidlertid kun anvendelse, hvis der gennemføres samtidige forbedringer af de elementer, der er årsag til linjetabet.
 
-Byggetekniske forhold kan betyde, at kravene i §279 ikke kan opfyldes, jf. §274.
+Byggetekniske forhold kan betyde, at kravene i [§279](../../../krav/#paragraf-279 "BR18 § 279"){ .br18-ref } ikke kan opfyldes, jf. [§274](../../../krav/#paragraf-274 "BR18 § 274"){ .br18-ref }.
 
 - [Gå til energikrav ved ombygninger og udskiftning af bygningsdele - fredede bygninger (§ 278)](../../../krav/274_279/#afb229c4-65a2-4b7d-8613-8fe584c21e25){target="_blank"}
 

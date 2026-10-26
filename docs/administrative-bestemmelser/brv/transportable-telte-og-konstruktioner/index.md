@@ -28,7 +28,7 @@
 
 Vejledningen er opdateret januar 2021
 
-Vejledningen er opdateret i overensstemmelse med de ændringer af bygningsreglementet, der trådte i kraft 1. januar 2021 og vedrører bestemmelserne BR18 § 6 b og 6 d.
+Vejledningen er opdateret i overensstemmelse med de ændringer af bygningsreglementet, der trådte i kraft 1. januar 2021 og vedrører bestemmelserne BR18 [§ 6 b](../../krav/#paragraf-6b "BR18 § 6b"){ .br18-ref } og [6 d](../../krav/#paragraf-6d "BR18 § 6d"){ .br18-ref }.
 
 <span id="bygningsreglementets-vejledning-om-opstilling-af-transportable-konstruktioner-herunder-telte-tribuner-scener-messestande-portaler-tarne-mm"></span>
 

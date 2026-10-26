@@ -88,7 +88,7 @@ Forbindes enkeltstående bygninger med uopvarmede gange eller tunneler, betragte
 
 **Spørgsmål:**
 
-*Bygningsreglementets § 475, stk. 2: "* For bygninger eller bygningsafsnit i bygningsklasse 2020 med behov, f.eks. et højt belysningsniveau, ekstra meget ventilation, et stort forbrug af varmt brugsvand, eller lang benyttelsestid eller bygninger med stor rumhøjde forhøjes energirammen med et tillæg, der modsvarer det beregnede energiforbrug hertil.*." Det fremgår dermed, at procesenergi ikke indgår.*
+*Bygningsreglementets [§ 475, stk. 2](../../../../../ovrige-bestemmelser/25/krav/#paragraf-475 "BR18 § 475"){ .br18-ref }: "* For bygninger eller bygningsafsnit i bygningsklasse 2020 med behov, f.eks. et højt belysningsniveau, ekstra meget ventilation, et stort forbrug af varmt brugsvand, eller lang benyttelsestid eller bygninger med stor rumhøjde forhøjes energirammen med et tillæg, der modsvarer det beregnede energiforbrug hertil.*." Det fremgår dermed, at procesenergi ikke indgår.*
 
 *Fortolkningen af om man kan opnå forskellen mellem varmegenvindingens krav i bygningsreglementet og den aktuelle løsning, virker for simpel. Normalt vil man for bygninger, bygningsklasse 2020, have væsentlig højere krav til varmegenvinding end i bygningsreglementet. Kan der sammenlignes med de øvrige områder i samme bygning, der ikke har proceskrav?*
 

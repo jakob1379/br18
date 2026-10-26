@@ -42,15 +42,15 @@
 
 ### Byggesagsbehandling {#11cb3b94-b100-4df1-80a3-6ede10bcbf0d}
 
-Ansøgning om byggetilladelse skal ske efter BR18 § 10. Det følger heraf, hvilken dokumentation der skal indsendes ved ansøgning om byggetilladelse. Der skal bl.a. indsendes oplysninger til identifikation af det arbejde, der udføres, erklæring om, hvilke tekniske forhold i bygningsreglementet byggearbejdet er omfattet af, og oplysning om og dokumentation for indplacering i konstruktions- og brandklasser.
+Ansøgning om byggetilladelse skal ske efter BR18 [§ 10](../../../krav/#paragraf-10 "BR18 § 10"){ .br18-ref }. Det følger heraf, hvilken dokumentation der skal indsendes ved ansøgning om byggetilladelse. Der skal bl.a. indsendes oplysninger til identifikation af det arbejde, der udføres, erklæring om, hvilke tekniske forhold i bygningsreglementet byggearbejdet er omfattet af, og oplysning om og dokumentation for indplacering i konstruktions- og brandklasser.
 
-Indplacering i brand- og konstruktionsklasser skal ske efter henholdsvis §§ 485-489 for konstruktionsklasser og §§ 490-493 for brandklasser.
+Indplacering i brand- og konstruktionsklasser skal ske efter henholdsvis [§§ 485-489](../../../../ovrige-bestemmelser/26/krav/#a483f263-578d-4eed-87a0-c3a8efa4942a "BR18 §§ 485-489"){ .br18-ref } for konstruktionsklasser og [§§ 490-493](../../../../ovrige-bestemmelser/27/krav/#59d49931-3210-43aa-ad9b-8ef9ebf6d693 "BR18 §§ 490-493"){ .br18-ref } for brandklasser.
 
-Kommunalbestyrelsen er bygningsmyndighed og behandler den dokumentation, der indsendes efter § 10. Derudover kan ansøger indtil 31. december 2019 vælge, om der tilknyttes en certificeret statiker og brandrådgiver til at udarbejde dokumentation for henholdsvis konstruktions- og brandforhold, eller om der ønskes teknisk byggesagsbehandling af konstruktions- og brandforhold af kommunalbestyrelsen.
+Kommunalbestyrelsen er bygningsmyndighed og behandler den dokumentation, der indsendes efter [§ 10](../../../krav/#paragraf-10 "BR18 § 10"){ .br18-ref }. Derudover kan ansøger indtil 31. december 2019 vælge, om der tilknyttes en certificeret statiker og brandrådgiver til at udarbejde dokumentation for henholdsvis konstruktions- og brandforhold, eller om der ønskes teknisk byggesagsbehandling af konstruktions- og brandforhold af kommunalbestyrelsen.
 
-Hvis der vælges en certificeret statiker og brandrådgiver, skal der indsendes dokumentation til kommunalbestyrelsen i overensstemmelse med henholdsvis §§ 16-19 og §§ 20-23.
+Hvis der vælges en certificeret statiker og brandrådgiver, skal der indsendes dokumentation til kommunalbestyrelsen i overensstemmelse med henholdsvis [§§ 16-19](../../../krav/#eb908069-264e-49db-9f18-388ff20ee1a2 "BR18 §§ 16-19"){ .br18-ref } og [§§ 20-23](../../../krav/#37c5bccc-b9dc-4a8b-be10-df237a0d565c "BR18 §§ 20-23"){ .br18-ref }.
 
-Hvis der vælges teknisk byggesagsbehandling af konstruktions- og brandforhold, skal der indsendes dokumentation til kommunalbestyrelsen i overensstemmelse med henholdsvis §§ 24-27 og §§ 28 og 29.
+Hvis der vælges teknisk byggesagsbehandling af konstruktions- og brandforhold, skal der indsendes dokumentation til kommunalbestyrelsen i overensstemmelse med henholdsvis [§§ 24-27](../../../krav/#10c6ae7a-70d6-4b50-84b8-b4666b56c78a "BR18 §§ 24-27"){ .br18-ref } og [§§ 28](../../../krav/#paragraf-28 "BR18 § 28"){ .br18-ref } og [29](../../../krav/#paragraf-29 "BR18 § 29"){ .br18-ref }.
 
 Kommunalbestyrelsen foretager efter BR18 ikke teknisk byggesagsbehandling af anden teknisk dokumentation, herunder dokumentation for overholdelse af krav til skorstene, aftrækssystemer og fyringsanlæg.
 

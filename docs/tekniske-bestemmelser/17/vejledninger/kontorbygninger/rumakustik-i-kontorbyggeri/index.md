@@ -31,7 +31,7 @@
 
 ### 5.4 Rumakustik {#580fa499-be47-4546-83b8-d8ab6b3450ff}
 
-Tabel 5.4 indeholder forslag til projekteringsværdier for efterklangstid og absorptionsareal i kontorbyggeri svarende til overholdelse af BR18’s generelle bestemmelse i § 368, stk. 1 om at ”*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen”.*
+Tabel 5.4 indeholder forslag til projekteringsværdier for efterklangstid og absorptionsareal i kontorbyggeri svarende til overholdelse af BR18’s generelle bestemmelse i [§ 368, stk. 1](../../../krav/#d020db69-f4ce-4cb5-84ee-a507a2630908 "BR18 § 368"){ .br18-ref } om at ”*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen”.*
 
 <table>
 <colgroup>

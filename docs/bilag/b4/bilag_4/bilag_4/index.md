@@ -30,7 +30,7 @@ e. Størrelse af brandceller.
 
 – Følgende må ikke fraviges:
 
-1. Præskriptive bestemmelser som givet i BR18, kapitel 5 – Brand
+1. Præskriptive bestemmelser som givet i BR18, [kapitel 5](../../../../tekniske-bestemmelser/05/krav/ "BR18 kapitel 5"){ .br18-ref } – Brand
 
 2. De præ-accepterede løsninger i Bygningsreglementets vejledning til kapitel 5 - Brand for så vidt angår:
 
@@ -44,7 +44,7 @@ iv\) De bærende konstruktioners brandmodstandsevne og materialeegenskaber.
 
 v\) Brandtekniske installationer.
 
-Redegørelse for fravigelser udføres som angivet i Bygningsreglementets vejledning til kapitel 5 - Brand, Kapitel 1: Generelt om sikkerhed ved brand.
+Redegørelse for fravigelser udføres som angivet i Bygningsreglementets vejledning til kapitel 5 - Brand, [Kapitel 1](../../../../administrative-bestemmelser/krav/ "BR18 kapitel 1"){ .br18-ref }: Generelt om sikkerhed ved brand.
 
 <span id="_1"></span>
 
@@ -58,6 +58,6 @@ Til fravigelser i byggeri i brandklasse 2 af de præ-accepterede løsninger, som
 
 – Der må samlet højst være fem fravigelser i hvert bygningsafsnit inkl. eventuelle fravigelser jf. afsnit 1. Repeterende ensartede fravigelser betragtes dog som én samlet fravigelse.
 
-– Dokumentationen udføres ved udarbejdelse af en brandteknisk begrundet vurdering eller en komparativ analyse som angivet i Bygningsreglementets vejledning til kapitel 5 - Brand, Kapitel 8: Eftervisning.
+– Dokumentationen udføres ved udarbejdelse af en brandteknisk begrundet vurdering eller en komparativ analyse som angivet i Bygningsreglementets vejledning til kapitel 5 - Brand, [Kapitel 8](../../../../tekniske-bestemmelser/08/krav/ "BR18 kapitel 8"){ .br18-ref }: Eftervisning.
 
 – Brandrådgiveren skal underskrive dokumentationen for fravigelserne, og den skal indgå i den samlede dokumentation for byggeriet sammen med en kopi af brandrådgiverens certifikat.

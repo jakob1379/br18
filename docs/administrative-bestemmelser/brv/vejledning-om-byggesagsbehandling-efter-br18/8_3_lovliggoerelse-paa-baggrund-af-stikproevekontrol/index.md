@@ -106,7 +106,7 @@ Et ulovligt forhold kan både bestå i en materiel mangel, altså at byggeriet i
 
 [Læs mere om lovliggørelse af ulovligt byggeri her](../../vejledning-om-lovliggorelse/){rel="noopener noreferrer" target="_blank"}.
 
-Der kan opkræves gebyr for behandling af en lovliggørelsessag, som er opstået på baggrund af en stikprøvekontrol, jf. BR18 § 39, stk. 1. Læs mere om dette i [Åbn Vejledning om gebyr for kommunernes sagsbehandling på byggeområdet](../../gebyr/){rel="noopener noreferrer" target="_blank"}.
+Der kan opkræves gebyr for behandling af en lovliggørelsessag, som er opstået på baggrund af en stikprøvekontrol, jf. BR18 [§ 39, stk. 1](../../../krav/#paragraf-39 "BR18 § 39"){ .br18-ref }. Læs mere om dette i [Åbn Vejledning om gebyr for kommunernes sagsbehandling på byggeområdet](../../gebyr/){rel="noopener noreferrer" target="_blank"}.
 
 ### 8.4. Frist for igangsættelse af stikprøvekontrol {#10a06e25-13cc-42dc-b4ae-5ada2c1195c3}
 

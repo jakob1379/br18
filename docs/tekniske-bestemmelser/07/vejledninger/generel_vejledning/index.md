@@ -60,7 +60,7 @@ Bekendtgørelse nr. 844 af 23/06/2017 om miljøregulering af visse aktiviteter
 
 ### 1.0. Generelt {#ae17a0d2-4078-40c7-9064-6ab09cfc67b2}
 
-Det overordnede krav til byggepladser fremgår af bygningsreglementet 2018, kap. 7, § 161, hvoraf det fremgår at byggepladsen og byggearbejder skal planlægges og udføres, så der:
+Det overordnede krav til byggepladser fremgår af bygningsreglementet 2018, [kap. 7](../../krav/ "BR18 kapitel 7"){ .br18-ref }, [§ 161](../../krav/#paragraf-161 "BR18 § 161"){ .br18-ref }, hvoraf det fremgår at byggepladsen og byggearbejder skal planlægges og udføres, så der:
 
 1)   ikke sker skade på personer eller bygninger på og omkring byggepladsen.
 
@@ -68,11 +68,11 @@ Det overordnede krav til byggepladser fremgår af bygningsreglementet 2018, kap.
 
 3)   tages højde for vejrforhold.
 
-I §§ 162 – 165 uddybes kravene til byggepladsen og udførelse af byggearbejde.
+I [§§ 162 – 165](../../krav/#paragraf-162 "BR18 §§ 162-165"){ .br18-ref } uddybes kravene til byggepladsen og udførelse af byggearbejde.
 
 ### 2.0. Planlægning og udførelse af byggearbejder {#c9304f30-d3dc-4ef6-a2f4-96000abc0f1f}
 
-Det fremgår af bygningsreglementet 2018, kap. 7, § 162, at ved planlægning og udførelse af byggearbejder skal det sikres, at:
+Det fremgår af bygningsreglementet 2018, [kap. 7](../../krav/ "BR18 kapitel 7"){ .br18-ref }, [§ 162](../../krav/#paragraf-162 "BR18 § 162"){ .br18-ref }, at ved planlægning og udførelse af byggearbejder skal det sikres, at:
 
 1.  Der ikke sker svigt af nye eller eksisterende konstruktioner på egen grund eller på nabogrunde under udgravninger, opførelse og ombygning.
 2.  Montage af bygningsdele udføres, så der ikke er risiko for personer på egen grund eller på nabogrunde.
@@ -97,7 +97,7 @@ For yderligere henvises der bl.a. til Arbejdstilsynets regler om bygge og anlæg
 
 ### 3.0. Brandsikkerhed og brandværnsforanstaltninger {#f19b8b46-936a-435e-8d0d-2f002ee394ed}
 
-Det fremgår af bygningsreglement 2018, kap. 7, § 163, at der under byggearbejdets udførelse skal gennemføres brandværnsforanstaltninger, som sikrer, at:
+Det fremgår af bygningsreglement 2018, kap. 7, [§ 163](../../krav/#paragraf-163 "BR18 § 163"){ .br18-ref }, at der under byggearbejdets udførelse skal gennemføres brandværnsforanstaltninger, som sikrer, at:
 
 1.  Brandsikkerheden i eksisterende bygninger, som stadig er i brug, ikke forringes.
 
@@ -213,7 +213,7 @@ Brandbelastningen på byggepladsen bør under hele arbejdet holdes så lav som m
 
 Midlertidige konstruktioner omfatter f.eks. skurvogne, oplagscontainere, omklædning, o.lign.
 
-Afstandsforhold til skel og anden bebyggelse for midlertidige bebyggelser / konstruktioner kan f.eks. fastlægges ud fra bygningsreglementets vejledninger til kapitel 5 om brand.
+Afstandsforhold til skel og anden bebyggelse for midlertidige bebyggelser / konstruktioner kan f.eks. fastlægges ud fra bygningsreglementets vejledninger til [kapitel 5](../../../05/krav/ "BR18 kapitel 5"){ .br18-ref } om brand.
 
 Sikringen mod brandspredning kan ske ved at placere konstruktionerne i forsvarlig afstand fra skel / andre bygninger eller ved på anden måde at sikre mod brandspredning (flammeskærm eller brandmæssig adskillelse).
 
@@ -571,7 +571,7 @@ Der bør for hvert enkelt byggeri oprettes checklister som indeholder relevante 
 
 ### 4.0. Gener på anden grund {#6a5d63ae-ad5a-44b3-96d3-3866091d96cc}
 
-Det fremgår af bygningsreglementet 2018, kap. 7, § 164, at byggearbejder ikke må medføre uacceptable gener på anden grund. Det skal ved byggearbejde sikres, at:
+Det fremgår af bygningsreglementet 2018, [kap. 7](../../krav/ "BR18 kapitel 7"){ .br18-ref }, [§ 164](../../krav/#paragraf-164 "BR18 § 164"){ .br18-ref }, at byggearbejder ikke må medføre uacceptable gener på anden grund. Det skal ved byggearbejde sikres, at:
 
 1.  Der er udført en tilstrækkelig afskærmning.
 2.  Der ikke er uacceptable støjgener.
@@ -638,7 +638,7 @@ Vejoverkørsler fra byggepladsen skal holdes frie og rengjorte, så det ikke med
 
 ### 5.0 Hensyn til klimatiske forhold {#21b7bb99-b8b3-43c2-87ca-4d251b1b1419}
 
-Det fremgår af bygningsreglementet 2018, kap. 7, § 165, at ved udførelse af byggearbejder skal der træffes de foranstaltninger, som af hensyn til klimatiske forhold, såsom sne, regn og kulde, er nødvendige for at beskytte fugtfølsomme materialer, og så det sikres, at der ikke indbygges fugt i bygningen under opførelsen.
+Det fremgår af bygningsreglementet 2018, [kap. 7](../../krav/ "BR18 kapitel 7"){ .br18-ref }, [§ 165](../../krav/#paragraf-165 "BR18 § 165"){ .br18-ref }, at ved udførelse af byggearbejder skal der træffes de foranstaltninger, som af hensyn til klimatiske forhold, såsom sne, regn og kulde, er nødvendige for at beskytte fugtfølsomme materialer, og så det sikres, at der ikke indbygges fugt i bygningen under opførelsen.
 
 I forhold til at sikre, at våde fugtfølsomme materialer samt materialer og bygningsdele med skimmelsvamp ikke indbygges i opførelsesperioden, kan dette for eksempel ske ved opførelse under total inddækning og hensigtsmæssig opbevaring af byggematerialer. En hensigtsmæssig kvalitetssikringsprocedure er også af stor betydning i denne sammenhæng. Der henvises til bekendtgørelse om bygge- og anlægsarbejder i perioden 1. november til 31. marts (vinterbekendtgørelsen).
 

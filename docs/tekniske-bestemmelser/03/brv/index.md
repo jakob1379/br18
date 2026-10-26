@@ -35,7 +35,7 @@ Yderligere information om affaldshåndtering kan findes på følgende link:
 
 Bygningsreglementets krav (BR18) til etablering af affaldssystemer fremgår af Kapitel 3, Affaldssystemer.
 
-Bestemmelserne findes nærmere bestemt i §63 til §68.
+Bestemmelserne findes nærmere bestemt i [§63 til §68](../krav/#7438aeeb-906d-4669-9cbe-4aa126ccc04d "BR18 §§ 63-68"){ .br18-ref }.
 
 Det betyder, at design, udførelse, drift og vedligehold af affaldssystemer skal ske under hensyn til:
 
@@ -47,7 +47,7 @@ Det betyder, at design, udførelse, drift og vedligehold af affaldssystemer skal
 >
 > •  at der ikke sker unødigt forbrug af energi.
 
-Af § 65 fremgår det, at affaldssystemerne skal indrettes, så det er muligt for brugerne at benytte dem ved egen hjælp. Her henvises i den forbindelse til kapitel 6 og kapitel 20 om indretning og etablering af henholdsvis brugerbetjente anlæg samt om ubebyggede arealer ved bebyggelse.
+Af [§ 65](../krav/#paragraf-65 "BR18 § 65"){ .br18-ref } fremgår det, at affaldssystemerne skal indrettes, så det er muligt for brugerne at benytte dem ved egen hjælp. Her henvises i den forbindelse til kapitel 6 og kapitel 20 om indretning og etablering af henholdsvis brugerbetjente anlæg samt om ubebyggede arealer ved bebyggelse.
 
 Det betyder, at kravene til opsætning af brugerbetjente anlæg også omfatter indkast til affaldssystemer. Desuden er der indført et krav om, at der ved arealer til opbevaring af affald i tilknytning til boligerne skal være adgangsforhold, der sikrer, at brugerne ved egen hjælp kan komme ind i arealerne og anvende funktionerne.
 
@@ -163,7 +163,7 @@ Vejledning om BR18 tilgængeligheds krav. Dansk Standard håndbog 186.
 
 ### 5. Affaldsskakte i eksisterende byggeri {#9066c486-cccb-4977-a72e-b70d06564b36}
 
-Hvis bygherre ønsker at nedlægge affaldsskakte i eksisterende byggeri, skal det dokumenteres, at de hensyn, der fremgår af kapitel 3 i BR18 imødekommes.
+Hvis bygherre ønsker at nedlægge affaldsskakte i eksisterende byggeri, skal det dokumenteres, at de hensyn, der fremgår af [kapitel 3](../krav/ "BR18 kapitel 3"){ .br18-ref } i BR18 imødekommes.
 
 Det er kommunalbestyrelsen, der er bygningsmyndighed, og derfor træffer afgørelse i sager omfattet af byggeloven, herunder ved spørgsmål om udførelse af affaldssystemer i etagebyggeri.
 

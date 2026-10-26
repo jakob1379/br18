@@ -31,7 +31,7 @@
 
 ### Kommunalbestyrelsen som bygningsmyndighed {#a4b47f10-2b35-48d0-8f54-636480515c99}
 
-Kommunalbestyrelsen er bygningsmyndighed i medfør af byggelovens § 16 C . Kommunalbestyrelsen har pligt til at søge et ulovligt forhold lovliggjort, når kommunalbestyrelsen bliver opmærksom på forholdet, og forholdet ikke er af ganske underordnet betydning.
+Kommunalbestyrelsen er bygningsmyndighed i medfør af byggelovens [§ 16 C](https://www.retsinformation.dk/eli/lta/2016/1178#P16C "Byggeloven § 16C"){ .br18-ref .br18-ref--ext } . Kommunalbestyrelsen har pligt til at søge et ulovligt forhold lovliggjort, når kommunalbestyrelsen bliver opmærksom på forholdet, og forholdet ikke er af ganske underordnet betydning.
 
 <span id="ansvaret-for-at-ejendommen-er-lovlig"></span>
 

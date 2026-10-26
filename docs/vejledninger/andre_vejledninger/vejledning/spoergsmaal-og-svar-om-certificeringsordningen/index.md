@@ -91,7 +91,7 @@ Vejledningerne uddyber kravene til, hvad der anses som nødvendigt for, at et pr
 
 ### Hvordan foretages den årlige kontrol af den certificeredes virke? (05.07.2021) {#10750e8f-a882-46dd-8d2e-fe291b3a02e0}
 
-Formålet med den årlige kontrol er, at certificeringsorganet vurderer, om den certificerede har virket tilfredsstillende, jf. BR18, kapitel 32-34 med tilhørende bilag og vejledninger, på det konkrete projekt. Ved certificeringsorganets bedømmelse er det den certificeredes virke, og ikke projektet, der bedømmes.
+Formålet med den årlige kontrol er, at certificeringsorganet vurderer, om den certificerede har virket tilfredsstillende, jf. BR18, [kapitel 32-34](../../../../ovrige-bestemmelser/32/krav/ "BR18 kapitel 32-34"){ .br18-ref } med tilhørende bilag og vejledninger, på det konkrete projekt. Ved certificeringsorganets bedømmelse er det den certificeredes virke, og ikke projektet, der bedømmes.
 
 Certificerede rådgivere, der er certificeret til klasse 2-4 samt tredjepartskontrol, skal have deres virke kontrolleret hvert år. Intervallet for den årlige kontrol regnes fra datoen for den seneste påbegyndte kontrol.
 
@@ -104,7 +104,7 @@ Som følge heraf skal den certificerede hver 12. måned indsende en oversigt til
 </colgroup>
 <tbody>
 <tr>
-<td><strong>Krav, jf. certificeringsbekendtgørelsen § 29, stk. 1, nr. 1-6</strong></td>
+<td><strong>Krav, jf. certificeringsbekendtgørelsen <a class="br18-ref br18-ref--ext" href="https://www.retsinformation.dk/eli/lta/2023/1693#P29" title="Certificeringsbekendtgørelsen § 29">§ 29, stk. 1, nr. 1-6</a></strong></td>
 <td><strong>Vejledning til krav</strong></td>
 </tr>
 <tr>
@@ -127,9 +127,9 @@ Som følge heraf skal den certificerede hver 12. måned indsende en oversigt til
 </tr>
 <tr>
 <td>2) I hvilken klasse projektet er indplaceret.</td>
-<td><p>Det angives i hvilken klasse byggeprojektet er indplaceret, jf. BR18, kapitel 26 og 27.</p>
-<p>Bygningsejer kan vælge en højere klasse end projektet er indplaceret i, jf. BR18, kapitel 26 og 27. Dette kan f.eks. skyldes et ønske om øget fleksibilitet i projektet.</p>
-<p>Såfremt der ikke er overensstemmelse mellem den klasse projektet er indplaceret i, jf. BR18, kapitel 26 og 27, og den valgte klasse for projektet, bør dette angives som årsagen hertil.</p></td>
+<td><p>Det angives i hvilken klasse byggeprojektet er indplaceret, jf. BR18, <a class="br18-ref" href="../../../../ovrige-bestemmelser/26/krav/" title="BR18 kapitel 26">kapitel 26</a> og <a class="br18-ref" href="../../../../ovrige-bestemmelser/27/krav/" title="BR18 kapitel 27">27</a>.</p>
+<p>Bygningsejer kan vælge en højere klasse end projektet er indplaceret i, jf. BR18, <a class="br18-ref" href="../../../../ovrige-bestemmelser/26/krav/" title="BR18 kapitel 26">kapitel 26</a> og <a class="br18-ref" href="../../../../ovrige-bestemmelser/27/krav/" title="BR18 kapitel 27">27</a>. Dette kan f.eks. skyldes et ønske om øget fleksibilitet i projektet.</p>
+<p>Såfremt der ikke er overensstemmelse mellem den klasse projektet er indplaceret i, jf. BR18, <a class="br18-ref" href="../../../../ovrige-bestemmelser/26/krav/" title="BR18 kapitel 26">kapitel 26</a> og <a class="br18-ref" href="../../../../ovrige-bestemmelser/27/krav/" title="BR18 kapitel 27">27</a>, og den valgte klasse for projektet, bør dette angives som årsagen hertil.</p></td>
 </tr>
 <tr>
 <td>3) Hvilken kommune, der har udstedt byggetilladelse til projektet.</td>
@@ -161,11 +161,11 @@ Som følge heraf skal den certificerede hver 12. måned indsende en oversigt til
 
 Kontrollen foretages på baggrund af minimum ét af certificeringsorganet udvalgt projekt, som den certificerede har virket på, uafhængigt af hvilken klasse projektet er indplaceret i.
 
-Certificeringsorganet udtager projekter, hvor der foreligger en underskrevet sluterklæring, på baggrund af den oversigt over projekter, som den certificerede har sendt til certificeringsorganet det seneste år, jf. certificeringsbekendtgørelsen § 29, stk. 1.  Såfremt den certificerede ikke har indsendt oversigten over projekter til certificeringsorganet, kan certificeringsorganet, jf. certificeringsbekendtgørelsen § 30, stk. 1 påse, at betingelserne for certificeringen fortsat er til stede. Hvis den certificerede det pågældende år ikke har virket på nogen projekter som certificeret, kan certificeringsorganet undlade at udføre kontrol af den certificeredes virke det pågældende år.
+Certificeringsorganet udtager projekter, hvor der foreligger en underskrevet sluterklæring, på baggrund af den oversigt over projekter, som den certificerede har sendt til certificeringsorganet det seneste år, jf. certificeringsbekendtgørelsen [§ 29, stk. 1](https://www.retsinformation.dk/eli/lta/2023/1693#P29 "Certificeringsbekendtgørelsen § 29"){ .br18-ref .br18-ref--ext }.  Såfremt den certificerede ikke har indsendt oversigten over projekter til certificeringsorganet, kan certificeringsorganet, jf. certificeringsbekendtgørelsen [§ 30, stk. 1](https://www.retsinformation.dk/eli/lta/2023/1693#P30 "Certificeringsbekendtgørelsen § 30"){ .br18-ref .br18-ref--ext } påse, at betingelserne for certificeringen fortsat er til stede. Hvis den certificerede det pågældende år ikke har virket på nogen projekter som certificeret, kan certificeringsorganet undlade at udføre kontrol af den certificeredes virke det pågældende år.
 
-Når certificeringsorganet har udvalgt et eller flere projekter, skal dette meddeles skriftligt til den certificerede, jf. certificeringsbekendtgørelsen § 30, stk. 2. Den certificerede skal herefter inden for en frist på fire uger fremsende den ønskede dokumentation. Såfremt den certificerede ikke umiddelbart har adgang til det udvalgte projekts dokumentation, kan den certificerede evt. via bygningsmyndigheden fremskaffe den ønskede dokumentation.
+Når certificeringsorganet har udvalgt et eller flere projekter, skal dette meddeles skriftligt til den certificerede, jf. certificeringsbekendtgørelsen [§ 30, stk. 2](https://www.retsinformation.dk/eli/lta/2023/1693#P30 "Certificeringsbekendtgørelsen § 30"){ .br18-ref .br18-ref--ext }. Den certificerede skal herefter inden for en frist på fire uger fremsende den ønskede dokumentation. Såfremt den certificerede ikke umiddelbart har adgang til det udvalgte projekts dokumentation, kan den certificerede evt. via bygningsmyndigheden fremskaffe den ønskede dokumentation.
 
-Bedømmelsen skal foretages af mindst én faglig bedømmer, jf. certificeringsbekendtgørelsen § 8, stk. 3.
+Bedømmelsen skal foretages af mindst én faglig bedømmer, jf. certificeringsbekendtgørelsen [§ 8, stk. 3](https://www.retsinformation.dk/eli/lta/2023/1693#P8 "Certificeringsbekendtgørelsen § 8"){ .br18-ref .br18-ref--ext }.
 
 Bedømmelsen omfatter som minimum:
 
@@ -191,7 +191,7 @@ Bedømmelsen omfatter som minimum:
 </tr>
 <tr>
 <td rowspan="2">En kontrol af, om dokumentation for de statiske forhold/brandforhold udgør et samlet hele og kan anvendes til at godtgøre, at bygningsreglementets krav til bærende konstruktioner/brandforhold er overholdt.</td>
-<td>a. Om projektet er dokumenteret i sin helhed, jf. BR18, kapitel 28 og 29. </td>
+<td>a. Om projektet er dokumenteret i sin helhed, jf. BR18, <a class="br18-ref" href="../../../../ovrige-bestemmelser/28/krav/" title="BR18 kapitel 28">kapitel 28</a> og <a class="br18-ref" href="../../../../ovrige-bestemmelser/29/krav/" title="BR18 kapitel 29">29</a>. </td>
 <td> Stort</td>
 </tr>
 <tr>
@@ -242,11 +242,11 @@ Certificeringsorganet skal på baggrund af bedømmelsen udarbejde en bedømmelse
 
 Formålet med udpegning af indsatsområder på det konkrete projekt bidrager til at synliggøre for den certificerede, hvilke områder der kan forbedres, så det sikres, at den certificerede gennem en læringsproces ikke gentager de samme fejl eller mangler på efterfølgende projekter.
 
-Såfremt bedømmelsen påviser væsentlig uoverensstemmelse mellem den certificeredes virke og BR18, kapitel 32-34, at dokumentationen for de statiske og/eller brandtekniske forhold er mangelfuld, eller at niveauet for virket, jf. tabellen ovenfor, ikke er opfyldt, vurderes det, at den certificeredes virke ikke er tilfredsstillende på det pågældende projekt. I sådanne tilfælde kan der foretages en udvidet kontrol. Karakter og omfang af en udvidet kontrol vil variere i hvert enkelt tilfælde alt efter, hvordan certificeringsorganet vurderer, at den kan tilrettelægges. Det vil således afhænge af hvilke uoverensstemmelser, der er tale om, og hvad det kræver at bedømme disse.
+Såfremt bedømmelsen påviser væsentlig uoverensstemmelse mellem den certificeredes virke og BR18, [kapitel 32-34](../../../../ovrige-bestemmelser/32/krav/ "BR18 kapitel 32-34"){ .br18-ref }, at dokumentationen for de statiske og/eller brandtekniske forhold er mangelfuld, eller at niveauet for virket, jf. tabellen ovenfor, ikke er opfyldt, vurderes det, at den certificeredes virke ikke er tilfredsstillende på det pågældende projekt. I sådanne tilfælde kan der foretages en udvidet kontrol. Karakter og omfang af en udvidet kontrol vil variere i hvert enkelt tilfælde alt efter, hvordan certificeringsorganet vurderer, at den kan tilrettelægges. Det vil således afhænge af hvilke uoverensstemmelser, der er tale om, og hvad det kræver at bedømme disse.
 
 Formålet med en udvidet kontrol er at fastlægge omfanget og graden af de uoverensstemmelser, der vil ligge til grund for bedømmelsen, således at bedømmelsens resultat er sket på et tilstrækkeligt oplyst grundlag.
 
-Såfremt certificeringsorganet på baggrund af den årlige kontrol vurderer, at den certificerede statiker eller brandrådgiver ikke har virket i overensstemmelse med kravene til den certificeredes virke, jf. BR18, kapitel 32-34, kan certificeringsorganet fratage vedkommendes certificering, jf. certificeringsbekendtgørelsen § 38, stk. 2.
+Såfremt certificeringsorganet på baggrund af den årlige kontrol vurderer, at den certificerede statiker eller brandrådgiver ikke har virket i overensstemmelse med kravene til den certificeredes virke, jf. BR18, [kapitel 32-34](../../../../ovrige-bestemmelser/32/krav/ "BR18 kapitel 32-34"){ .br18-ref }, kan certificeringsorganet fratage vedkommendes certificering, jf. certificeringsbekendtgørelsen [§ 38, stk. 2](https://www.retsinformation.dk/eli/lta/2023/1693#P38 "Certificeringsbekendtgørelsen § 38"){ .br18-ref .br18-ref--ext }.
 
 Såfremt certificeringsorganet bliver opmærksom på fejl eller mangler i et projekt, der påvirker personsikkerheden negativt, skal certificeringsorganet uden ugrundet ophold orientere kommunalbestyrelsen i den stedlige kommune herom.
 
@@ -254,7 +254,7 @@ Såfremt certificeringsorganet bliver opmærksom på fejl eller mangler i et pro
 
 ### Hvordan foretages recertificering? {#4320ecc6-7cae-4ec6-b92f-b01d43ff4a38}
 
-Formål med recertificeringen er, at certificeringsorganet kontroller, at den certificerede fortsat opfylder kravene til kvalifikationer og kompetencer svarende til førstegangscertificeringen samt løbende har ajourført sine kvalifikationer og kompetencer jf. certificeringsbekendtgørelsen §§ 17 og 24.
+Formål med recertificeringen er, at certificeringsorganet kontroller, at den certificerede fortsat opfylder kravene til kvalifikationer og kompetencer svarende til førstegangscertificeringen samt løbende har ajourført sine kvalifikationer og kompetencer jf. certificeringsbekendtgørelsen [§§ 17](https://www.retsinformation.dk/eli/lta/2023/1693#P17 "Certificeringsbekendtgørelsen § 17"){ .br18-ref .br18-ref--ext } og [24](https://www.retsinformation.dk/eli/lta/2023/1693#P24 "Certificeringsbekendtgørelsen § 24"){ .br18-ref .br18-ref--ext }.
 
 Ved certificeringsorganets bedømmelse er det den certificeredes kvalifikationer og kompetencer, der bedømmes. Intentionen er at konstaterer, at den certificeredes kvalifikationer og kompetencer er tilfredsstillende, så at det sandsynliggør, at den certificerede virke sikrer, at bygningsreglementets sikkerhedskrav til bærende konstruktioner eller brandforhold overholdes.
 
@@ -262,13 +262,13 @@ Certificerede rådgivere, der er certificeret til klasse 2-4 samt tredjepartskon
 
 Recertificeringen foretages på baggrund af et  projekt udtaget af certificeringsorganet, og bedømmelsen foretages af den del af projektets dokumentation, som den certificerede har udfærdiget. Det er en betingelse, at den certificeredes kvalifikationer og kompetencer kontrolleres ved et projekt, hvor den certificerede har virket i den højeste klasse, som denne er certificeret til.  
 
-Certificeringsorganet udtager et projekt, som certificeringsorganet har fundet egnet til bedømmelse og hvortil, der er meddelt ibrugtagningstilladelse, på baggrund af de oversigter over projekter, som den certificerede årligt har sendt til certificeringsorganet gennem de forudgående 5 år, jf. certificeringsbekendtgørelsen § 29, stk. 1. 
+Certificeringsorganet udtager et projekt, som certificeringsorganet har fundet egnet til bedømmelse og hvortil, der er meddelt ibrugtagningstilladelse, på baggrund af de oversigter over projekter, som den certificerede årligt har sendt til certificeringsorganet gennem de forudgående 5 år, jf. certificeringsbekendtgørelsen [§ 29, stk. 1](https://www.retsinformation.dk/eli/lta/2023/1693#P29 "Certificeringsbekendtgørelsen § 29"){ .br18-ref .br18-ref--ext }. 
 
-Når certificeringsorganet har udvalgt et projekt, skal dette meddeles skriftligt til den certificerede, jf. certificeringsbekendtgørelsen § 9. Den certificerede skal herefter inden for en frist på fire uger fremsende den ønskede dokumentation. Såfremt den certificerede ikke umiddelbart har adgang til det udvalgte projekts dokumentation, kan den certificerede evt. via bygningsmyndigheden fremskaffe den ønskede dokumentation.
+Når certificeringsorganet har udvalgt et projekt, skal dette meddeles skriftligt til den certificerede, jf. certificeringsbekendtgørelsen [§ 9](https://www.retsinformation.dk/eli/lta/2023/1693#P9 "Certificeringsbekendtgørelsen § 9"){ .br18-ref .br18-ref--ext }. Den certificerede skal herefter inden for en frist på fire uger fremsende den ønskede dokumentation. Såfremt den certificerede ikke umiddelbart har adgang til det udvalgte projekts dokumentation, kan den certificerede evt. via bygningsmyndigheden fremskaffe den ønskede dokumentation.
 
 Certificeringsorganet skal indkalde den certificerede til en mundtlig præsentation, hvor den certificerede kan redegøre for, at der er opnået forståelse for projektets væsentlige forhold, og at den certificerede løbende har ajourført sine kvalifikationer og opretholdt sine kompetencer.
 
-Bedømmelsen skal foretages af mindst to faglige bedømmere, jf. certificeringsbekendtgørelsen § 7, stk. 1. Ved bedømmelse af certificerede, der virker i klasse 2, kan bedømmelsen dog foretages af én faglig bedømmer, jf. certificeringsbekendtgørelsen § 7, stk. 5.
+Bedømmelsen skal foretages af mindst to faglige bedømmere, jf. certificeringsbekendtgørelsen [§ 7, stk. 1](https://www.retsinformation.dk/eli/lta/2023/1693#P7 "Certificeringsbekendtgørelsen § 7"){ .br18-ref .br18-ref--ext }. Ved bedømmelse af certificerede, der virker i klasse 2, kan bedømmelsen dog foretages af én faglig bedømmer, jf. certificeringsbekendtgørelsen [§ 7, stk. 5](https://www.retsinformation.dk/eli/lta/2023/1693#P7 "Certificeringsbekendtgørelsen § 7"){ .br18-ref .br18-ref--ext }.
 
 **Bedømmelsen omfatter som minimum:**
 
@@ -285,7 +285,7 @@ Bedømmelsen skal foretages af mindst to faglige bedømmere, jf. certificeringsb
 
 Bedømmelsen skal dokumenteres skriftligt i en bedømmelsesrapport.
 
-Såfremt certificeringsorganet på baggrund af recertificering vurderer, at den certificerede ikke opfylder kravene til kvalifikationer og kompetencer, kan certificeringsorganet påse, om betingelserne for opretholdelse af certificering er til stede, jf. § 30.
+Såfremt certificeringsorganet på baggrund af recertificering vurderer, at den certificerede ikke opfylder kravene til kvalifikationer og kompetencer, kan certificeringsorganet påse, om betingelserne for opretholdelse af certificering er til stede, jf. [§ 30](https://www.retsinformation.dk/eli/lta/2023/1693#P30 "Certificeringsbekendtgørelsen § 30"){ .br18-ref .br18-ref--ext }.
 
 <span id="hvad-er-proceduren-for-en-byggesag-hvor-der-er-tilknyttet-en-certificeret-statiker-eller-brandradgiver-der-far-frataget-sin-certificering-20052021"></span>
 
@@ -293,11 +293,11 @@ Såfremt certificeringsorganet på baggrund af recertificering vurderer, at den 
 
 En statiker og brandrådgiver, der er certificeret jf. bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet (certificeringsbekendtgørelsen) bliver løbende kontrolleret af det certificeringsorgan, som har certificeret vedkommende.
 
-Certificeringsorganet kan fratage en certificeret statiker eller brandrådgiver deres certificering (jf. certificeringsbekendtgørelsen § 38), såfremt certificeringsorganet fx i forbindelse med den årlige kontrol af den certificeredes virke eller ved en konkret anmeldelse af den certificerede finder, at 
+Certificeringsorganet kan fratage en certificeret statiker eller brandrådgiver deres certificering (jf. certificeringsbekendtgørelsen [§ 38](https://www.retsinformation.dk/eli/lta/2023/1693#P38 "Certificeringsbekendtgørelsen § 38"){ .br18-ref .br18-ref--ext }), såfremt certificeringsorganet fx i forbindelse med den årlige kontrol af den certificeredes virke eller ved en konkret anmeldelse af den certificerede finder, at 
 
 1.  Den certificerede statiker eller brandrådgiver ikke inden for en af certificeringsorganet fastsat frist kan dokumentere, at betingelserne for certificering er opfyldt.
 2.  Certificeringsorganet på baggrund af den udførte kontrol ikke finder, at den certificerede statiker eller brandrådgiver lever op til betingelserne for certificering.
-3.  Certificeringsorganet finder, at den certificerede statiker eller brandrådgiver ikke virker i overensstemmelse med krav til certificeret statiker og brandrådgivers virke, jf. BR18, kapitel 32-34.
+3.  Certificeringsorganet finder, at den certificerede statiker eller brandrådgiver ikke virker i overensstemmelse med krav til certificeret statiker og brandrådgivers virke, jf. BR18, [kapitel 32-34](../../../../ovrige-bestemmelser/32/krav/ "BR18 kapitel 32-34"){ .br18-ref }.
 4.  Certificeringsorganet finder, at den certificerede statiker eller brandrådgiver på anden vis ikke opfylder betingelserne i denne bekendtgørelse.
 
 Såfremt et certificeringsorgan fratager en certificeret statiker eller brandrådgiver dennes certificering, orienterer certificeringsorganet kommunalbestyrelsen i de kommuner, hvor den certificerede har virket som certificeret statiker eller brandrådgiver. Orienteringen sker på baggrund af den liste vedkommende årligt indsender til certificeringsorganet over projekter, hvorpå vedkommende arbejder eller har arbejdet som certificeret det seneste år.
@@ -308,13 +308,13 @@ Hvorvidt en certificeret rådgiver er forpligtet til at orientere nuværende og 
 
 Såfremt en certificeret statiker eller brandrådgiver får frataget sin certificering, mens vedkommende virker som certificeret på en igangværende byggesag, hvortil der er givet byggetilladelse, skal bygningsejer udpege en ny certificeret statiker eller brandrådgiver, der er certificeret til at kunne virke i den klasse, som projektet er indplaceret i jf. byggetilladelsen.
 
-Bygningsejer skal iht. BR18, § 37 oplyse kommunalbestyrelsen om udpegning af ny certificeret statiker eller brandrådgiver samt indsende dokumentation herfor i form af kopi af den udpegende certificerede statiker eller brandrådgivers certifikat.
+Bygningsejer skal iht. BR18, [§ 37](../../../../administrative-bestemmelser/krav/#paragraf-37 "BR18 § 37"){ .br18-ref } oplyse kommunalbestyrelsen om udpegning af ny certificeret statiker eller brandrådgiver samt indsende dokumentation herfor i form af kopi af den udpegende certificerede statiker eller brandrådgivers certifikat.
 
-Såfremt forudsætningerne for byggetilladelsen ikke længere er tilstede, skal bygningsejer iht. BR18, § 37, stk. 2, oplyse kommunalbestyrelsen herom.
+Såfremt forudsætningerne for byggetilladelsen ikke længere er tilstede, skal bygningsejer iht. BR18, [§ 37, stk. 2](../../../../administrative-bestemmelser/krav/#paragraf-37 "BR18 § 37"){ .br18-ref }, oplyse kommunalbestyrelsen herom.
 
-Projektet overdrages (jf. BR18, § 544, stk. 3 eller § 551, stk. 3) til den nye udpegede certificeret statiker eller brandrådgiver.
+Projektet overdrages (jf. BR18, [§ 544, stk. 3](../../../../ovrige-bestemmelser/33/krav/#paragraf-544 "BR18 § 544"){ .br18-ref } eller [§ 551, stk. 3](../../../../ovrige-bestemmelser/34/krav/#paragraf-551 "BR18 § 551"){ .br18-ref }) til den nye udpegede certificeret statiker eller brandrådgiver.
 
-Dette betyder i praksis, at den nye certificerede statiker eller brandrådgiver, der overtager projektet skal foretage en maksimal (MAX) kontrol af den dokumentation, der overdrages, svarende til virket for certificeret statiker eller brandrådgiver som kontrollant, idet der ikke kan foreligge en gyldig overdragelseserklæring fra den overdragende certificerede statiker eller brandrådgiver (jf. BR18, § 544, stk. 1 eller § 551 stk. 1), da denne ikke længere er certificeret.
+Dette betyder i praksis, at den nye certificerede statiker eller brandrådgiver, der overtager projektet skal foretage en maksimal (MAX) kontrol af den dokumentation, der overdrages, svarende til virket for certificeret statiker eller brandrådgiver som kontrollant, idet der ikke kan foreligge en gyldig overdragelseserklæring fra den overdragende certificerede statiker eller brandrådgiver (jf. BR18, [§ 544, stk. 1](../../../../ovrige-bestemmelser/33/krav/#paragraf-544 "BR18 § 544"){ .br18-ref } eller [§ 551 stk. 1](../../../../ovrige-bestemmelser/34/krav/#paragraf-551 "BR18 § 551"){ .br18-ref }), da denne ikke længere er certificeret.
 
 **Byggesag med ibrugtagningstilladelse**
 

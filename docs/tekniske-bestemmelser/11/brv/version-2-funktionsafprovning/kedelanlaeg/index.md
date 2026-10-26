@@ -82,7 +82,7 @@ Relevante standarder i forbindelse med funktionsafprøvning af kedelanlæg omfat
 
 *Formål med funktionsafprøvning af kedelanlæg*
 
-For olie- og gasfyrede centralvarmekedler med nominel ydelse på mere end 400 kW, skal der foretages en vurdering af kedlens energimæssige effektivitet ved beregning af røggastabet ud fra målinger, jf. §308.
+For olie- og gasfyrede centralvarmekedler med nominel ydelse på mere end 400 kW, skal der foretages en vurdering af kedlens energimæssige effektivitet ved beregning af røggastabet ud fra målinger, jf. [§308](../../../../12/krav/#paragraf-308 "BR18 § 308"){ .br18-ref }.
 
 Røggastabet beregnes som:
 

@@ -54,13 +54,13 @@
 
 ### Ejerens pligter {#0bbb3b63-3292-413b-b1fa-6b12e2b2b7b2}
 
-Pligten til at lovliggøre et ulovligt forhold påhviler den til enhver tid værende ejer af en fast ejendom, jf. byggelovens § 17, stk. 1, 1. pkt.  Pligten til at lovliggøre et ulovligt forhold er dermed knyttet objektivt til ejendommen.
+Pligten til at lovliggøre et ulovligt forhold påhviler den til enhver tid værende ejer af en fast ejendom, jf. byggelovens [§ 17, stk. 1, 1. pkt.](https://www.retsinformation.dk/eli/lta/2016/1178#P17 "Byggeloven § 17"){ .br18-ref .br18-ref--ext }  Pligten til at lovliggøre et ulovligt forhold er dermed knyttet objektivt til ejendommen.
 
 Pligten er dog personlig i den forstand, at et påbud om lovliggørelse skalrettes til den konkrete ejer. Skifter ejendommen ejer, skal påbuddet derfor gentages over for den nye ejer.
 
-Byggelovens § 17 indeholder således byggelovens ansvarsbestemmelse, der som udgangspunkt pålægger ejeren at berigtige ulovlige forhold, uanset hvem der er skyld i det ulovlige forhold.
+Byggelovens [§ 17](https://www.retsinformation.dk/eli/lta/2016/1178#P17 "Byggeloven § 17"){ .br18-ref .br18-ref--ext } indeholder således byggelovens ansvarsbestemmelse, der som udgangspunkt pålægger ejeren at berigtige ulovlige forhold, uanset hvem der er skyld i det ulovlige forhold.
 
-Hvis det ulovlige forhold består i ulovlig brug af ejendommen, påhviler pligten til at berigtige det ulovlige forhold tillige brugeren. Dette fremgår af byggelovens § 17, stk. 1, 2. pkt.
+Hvis det ulovlige forhold består i ulovlig brug af ejendommen, påhviler pligten til at berigtige det ulovlige forhold tillige brugeren. Dette fremgår af byggelovens [§ 17, stk. 1, 2. pkt.](https://www.retsinformation.dk/eli/lta/2016/1178#P17 "Byggeloven § 17"){ .br18-ref .br18-ref--ext }
 
 Bestemmelsen om, at pligten til at berigtige ulovlige forhold også kan påhvile brugeren, medfører ikke, at ejeren af ejendommen i disse situationer ikke også vil have pligt til at berigtige forholdet.
 

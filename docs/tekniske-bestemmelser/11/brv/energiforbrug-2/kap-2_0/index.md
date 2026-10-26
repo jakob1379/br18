@@ -50,7 +50,7 @@ Når bygninger ændrer anvendelse, der indebærer et væsentligt større energif
 
 Der er indført en undtagelse for bl.a. fredede og bevaringsværdige bygninger, hvor man bliver undtaget for energikravene ved ændret anvendelse, hvis det er i strid med den pågældende planlægning at efterleve kravene. Ved ændret anvendelse af fredede og bevaringsværdige bygninger skal der foretages en vurdering af de byggetekniske forhold når der skal udføres energibesparende tiltag. Det overordnede hensyn bag energikravene i bygningsreglementet er at begrænse primærenergiforbruget til bygningsdrift under hensyntagen til at minimere risikoen for kondensproblemer og uden at medføre store, urentable investeringer. Formålet er at lave flest mulige energibesparende tiltag under hensyntagen til ønsket om at værne og bevare den byggede kulturarv, herunder undgå risiko for bygge- og fugttekniske problemer. Det er særligt vigtigt ved indvendig isolering af ydervægge og isolering af terrændæk. Hvis en bevaringsværdig bygning derfor ændrer anvendelse, der medfører et højere primærenergiforbrug, så skal de rentable energibesparelser, der ikke går ud over bevaringsværdierne gennemføres.
 
-Eksempler på bygninger, der er omfattet af krav til ændret anvendelse i §267-270:
+Eksempler på bygninger, der er omfattet af krav til ændret anvendelse i [§267-270](../../../krav/#9a9a97b3-01e2-4af4-af72-faf0fdbd74ce "BR18 §§ 267-270"){ .br18-ref }:
 
 > • Inddragelse af et udhus til beboelse.
 >
@@ -62,7 +62,7 @@ Eksempler på bygninger, der er omfattet af krav til ændret anvendelse i §267-
 
 En ny tagetage eller nye boliger på flade tage er tilbygninger.
 
-Konstruktionerne omkring bygninger, der ændrer anvendelse skal isoleres svarende til kravene i §268. Der kan dog være byggetekniske forhold, der gør at overholdelsen af kravene ikke kan lade sig gøre. Der kan derfor i stedet kompenseres for den manglende energimæssige ydeevne ved brug af andre energimæssige løsninger. Det kan f. eks. være vanskeligt at opfylde kravene til linjetab for eksisterende vinduer og fundamenter. Der kan derfor i stedet spares en tilsvarende energimængde for eksempel gennem yderligere isolering, installation af vedvarende energianlæg eller forbedret energiforsyning. Til sammenligning af forskellige energiforsyninger benyttes energifaktorerne i §252-253.
+Konstruktionerne omkring bygninger, der ændrer anvendelse skal isoleres svarende til kravene i [§268](../../../krav/#paragraf-268 "BR18 § 268"){ .br18-ref }. Der kan dog være byggetekniske forhold, der gør at overholdelsen af kravene ikke kan lade sig gøre. Der kan derfor i stedet kompenseres for den manglende energimæssige ydeevne ved brug af andre energimæssige løsninger. Det kan f. eks. være vanskeligt at opfylde kravene til linjetab for eksisterende vinduer og fundamenter. Der kan derfor i stedet spares en tilsvarende energimængde for eksempel gennem yderligere isolering, installation af vedvarende energianlæg eller forbedret energiforsyning. Til sammenligning af forskellige energiforsyninger benyttes energifaktorerne i [§252-253](../../../krav/#paragraf-252 "BR18 §§ 252-253"){ .br18-ref }.
 
 Kravet til U-værdi for lystunneler eller lignende gælder for gennembrydningen af den isolerede flade, som lystunnelen er indsat i. Det kunne for eksempel være lysfordeleren i et isoleret loft. U-værdien skal dokumenteres i henhold til DS/EN 10077-1.
 

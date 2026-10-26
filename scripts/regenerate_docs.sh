@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Regenerate corpus pages from the origin, or from a parity audit snapshot with --cache-dir:
-# fetch -> convert -> rebuild chapter hubs -> build -> keep published anchors -> build -> repair links
+# fetch -> convert -> rebuild chapter hubs -> link cross-references -> build -> keep published anchors -> build -> repair links
 # -> fetch missing referenced files.
 #
 # usage: scripts/regenerate_docs.sh [--cache-dir DIR] [--project DIR] DOCS_SUBDIR...
@@ -31,6 +31,7 @@ mapfile -t urls < <(cd "$docs" && find "$@" -name index.md -printf 'https://www.
 "${py[@]}" "$repo/scripts/convert_br18_docs.py" --docs-root "$stage"
 cp -r "$stage/." "$docs/"
 "${py[@]}" "$repo/scripts/build_chapter_hubs.py" --docs-root "$docs" "${cache[@]}"
+"${py[@]}" "$repo/scripts/link_references.py" --docs-root "$docs" --data-dir "$repo"
 uv run --project "$repo" --directory "$project" zensical build --strict
 "${py[@]}" "$repo/scripts/keep_anchors.py" --docs-root "$docs" --site-dir "$project/site" --baseline "$repo/required-anchors.tsv"
 uv run --project "$repo" --directory "$project" zensical build --strict

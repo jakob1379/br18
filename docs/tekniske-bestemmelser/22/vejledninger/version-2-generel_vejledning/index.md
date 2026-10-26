@@ -26,13 +26,13 @@ Bestemmelserne om ventilation varetager alene de normale ventilationsbehov. I fx
 
 Det er ikke nødvendigt at ventilationen er fuldstændig konstant. I de fleste tilfælde vil det ikke gøre en forskel for indeklimaet om der ventileres med en konstant luftmængde eller om man over en lidt længere periode i gennemsnit har den krævede luftmængde. For de dimensionerende forhold bør den gennemsnitlige ventilation over en time for kontorer og en lektion for undervisningslokaler kunne overholde den krævede luftmængde. Bygningsreglementets øvrige krav til indeklima skal derudover overholdes. I alle tilfælde sikres det, at bygningen er ventileret i henhold til den brug, den har.
 
-Der henvises til DS/EN ISO 7730 Ergonomi inden for termisk miljø – Analytisk bestemmelse og fortolkning af termisk komfort ved beregning af PMV- og PPD-indekser og lokale termiske komfortkriterier og At-vejledning A. 1.2 Indeklima. For ventilation af rum med ildsteder henvises til §§301-303 samt til Gassikkerhedsloven.
+Der henvises til DS/EN ISO 7730 Ergonomi inden for termisk miljø – Analytisk bestemmelse og fortolkning af termisk komfort ved beregning af PMV- og PPD-indekser og lokale termiske komfortkriterier og At-vejledning A. 1.2 Indeklima. For ventilation af rum med ildsteder henvises til [§§301-303](../../../12/krav/#00f4ca18-25bd-4901-ad68-37bd6f0fdd59 "BR18 §§ 301-303"){ .br18-ref } samt til Gassikkerhedsloven.
 
 Rengøringsstandarden i et rum har stor betydning for luftkvaliteten. Der henvises til bekendtgørelse om faste arbejdssteders indretning.
 
 *Regler i arbejdsmiljølovgivningen af særlig relevans i forbindelse med projektering.*
 
-Efter arbejdsmiljølovens § 33 gælder det, at den der rådgiver om eller leverer et projekt til et bygge- og anlægsarbejde, i projektet skal tage hensyn til sikkerhed og sundhed ved arbejdets udførelse og driften af det færdige byggeri. Det skal være muligt, at udfører arbejdet med at betjene og vedligeholde mv. ventilationsanlæg sikkerheds- og sundhedsmæssigt fuldt forsvarligt. Der skal herunder være sådan tilgang til anlæggene, at arbejdet kan udføres med forsvarlige arbejdsstillinger og -bevægelser, og der skal være sikret mod nedstyrtning i forbindelse med arbejdet.
+Efter arbejdsmiljølovens [§ 33](https://www.retsinformation.dk/eli/lta/2026/442#P33 "Arbejdsmiljøloven § 33"){ .br18-ref .br18-ref--ext } gælder det, at den der rådgiver om eller leverer et projekt til et bygge- og anlægsarbejde, i projektet skal tage hensyn til sikkerhed og sundhed ved arbejdets udførelse og driften af det færdige byggeri. Det skal være muligt, at udfører arbejdet med at betjene og vedligeholde mv. ventilationsanlæg sikkerheds- og sundhedsmæssigt fuldt forsvarligt. Der skal herunder være sådan tilgang til anlæggene, at arbejdet kan udføres med forsvarlige arbejdsstillinger og -bevægelser, og der skal være sikret mod nedstyrtning i forbindelse med arbejdet.
 
 Reglerne beskrevet ovenfor er fastlagt i arbejdsmiljøloven. Yderligere og opdateret information kan findes på Arbejdstilsynets hjemmeside. Desuden opstiller DS 447 pkt. 6.6 krav til tilgængelighed og pladskrav.
 
@@ -96,7 +96,7 @@ Befugtningsinstallationer sikres generelt mod overbefugtning. Installeres befugt
 
 Ved kanalindbygning af be- og affugterkammeret bør der tages hensyn til uhindret luftbevægelse for opnåelse af korrekt luftopblanding.
 
-Som ekstra sikkerhed ved installation af befugtere i kanal bør kondensafløb føres til vandlås og sikres i overensstemmelse med DS 432 Afløbsinstallationer. Vandtilslutning skal sikres mod tilbagestrømning i henhold til kapitel 21 Vand.
+Som ekstra sikkerhed ved installation af befugtere i kanal bør kondensafløb føres til vandlås og sikres i overensstemmelse med DS 432 Afløbsinstallationer. Vandtilslutning skal sikres mod tilbagestrømning i henhold til [kapitel 21](../../../21/krav/ "BR18 kapitel 21"){ .br18-ref } Vand.
 
 *Nyinstallation og renovering.*
 
@@ -229,7 +229,7 @@ Kravet om præcision af målere er opfyldt ved anvendelse af typegodkendte måle
 
 *Luftskifte*
 
-I beboelsesbygninger er der et generelt krav om et grundluftskifte på 0,30 l/s pr. m² opvarmet etageareal når boligen er i anvendelse, hvor det opvarmede etageareal beregnes som beskrevet i [kapitel 23](../../../../ovrige-bestemmelser/23/krav/ "kapitel 23"){rel="noopener" target="_blank"} i bygningsreglementet. De 0,30 l/s pr. m² svarer ved normal rumhøjde omtrentligt til et luftskifte på 0,5 /h. Hvis boligen ikke er i anvendelse i en periode og har et behovsstyret ventilationssystem, kan grundluftskiftet reduceres til 0,15 l/s pr. m^2^, så længe luftkvalitet og fugtforhold er tilfredsstillende. Derudover er der krav om, at luftmængderne kan forøges til specifikke niveauer i køkken, bad, wc-rum og bryggers. Begge krav er mindstekrav, der begge skal være opfyldt. I visse tilfælde kan det dog være nødvendigt at forøge luftmængderne for at overholde det grundlæggende funktionskrav i §420. Det kan for eksempel være i rum der benyttes som soveværelse eller børneværelse.
+I beboelsesbygninger er der et generelt krav om et grundluftskifte på 0,30 l/s pr. m² opvarmet etageareal når boligen er i anvendelse, hvor det opvarmede etageareal beregnes som beskrevet i [kapitel 23](../../../../ovrige-bestemmelser/23/krav/ "kapitel 23"){rel="noopener" target="_blank"} i bygningsreglementet. De 0,30 l/s pr. m² svarer ved normal rumhøjde omtrentligt til et luftskifte på 0,5 /h. Hvis boligen ikke er i anvendelse i en periode og har et behovsstyret ventilationssystem, kan grundluftskiftet reduceres til 0,15 l/s pr. m^2^, så længe luftkvalitet og fugtforhold er tilfredsstillende. Derudover er der krav om, at luftmængderne kan forøges til specifikke niveauer i køkken, bad, wc-rum og bryggers. Begge krav er mindstekrav, der begge skal være opfyldt. I visse tilfælde kan det dog være nødvendigt at forøge luftmængderne for at overholde det grundlæggende funktionskrav i [§420](../../krav/#paragraf-420 "BR18 § 420"){ .br18-ref }. Det kan for eksempel være i rum der benyttes som soveværelse eller børneværelse.
 
 Naturlig og mekanisk ventilation kan kombineres, forudsat at dette tilsammen opfylder det generelle krav om grundluftskifte. Tilvejebringelse af grundluftskiftet kan ikke være afhængig af fx manuel opluk af vinduer, da dette er udluftning og ikke ventilation. Infiltration gennem klimaskærmen er heller ikke naturlig ventilation, men et utilsigtet luftskifte.
 

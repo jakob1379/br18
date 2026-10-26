@@ -38,11 +38,11 @@
 
 ### Byggeri uden krav om byggetilladelse {#a6015101-f038-433d-8466-5475f1b73028}
 
-BR18 § 5 indeholder væsentlige undtagelser fra ovenstående, som medfører, at aftrækssystemer i mange tilfælde ikke kræver byggetilladelse. Det er dog en forudsætning, at de relevante krav i bygningsreglementet overholdes.
+BR18 [§ 5](../../../krav/#paragraf-5 "BR18 § 5"){ .br18-ref } indeholder væsentlige undtagelser fra ovenstående, som medfører, at aftrækssystemer i mange tilfælde ikke kræver byggetilladelse. Det er dog en forudsætning, at de relevante krav i bygningsreglementet overholdes.
 
-BR18, kap. 1, § 5, stk. 1, nr. 3, bestemmer, at ombygninger af enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse kan udføres uden ansøgning om byggetilladelse, dog under forudsætning af, at de relevante krav i bygningsreglementet overholdes. Ombygningen eller forandringen må ikke medføre en væsentlig anvendelsesændring eller en udvidelse af etagearealet.
+BR18, [kap. 1](../../../krav/ "BR18 kapitel 1"){ .br18-ref }, [§ 5, stk. 1, nr. 3](../../../krav/#paragraf-5 "BR18 § 5"){ .br18-ref }, bestemmer, at ombygninger af enfamiliehuse, dobbelthuse, rækkehuse og sommerhuse kan udføres uden ansøgning om byggetilladelse, dog under forudsætning af, at de relevante krav i bygningsreglementet overholdes. Ombygningen eller forandringen må ikke medføre en væsentlig anvendelsesændring eller en udvidelse af etagearealet.
 
-BR18, kap. 1, § 5, stk. 1, nr. 4, bestemmer endvidere, at ombygninger og andre forandringer i eksisterende byggeri, som ikke ændrer eller påvirker de bærende konstruktioner, forudsætningerne for bygningens brandstrategi samt bygningens fælles installationer, ligeledes kan udføres uden ansøgning om byggetilladelse. De relevante krav i bygningsreglementet skal dog overholdes.
+BR18, [kap. 1](../../../krav/ "BR18 kapitel 1"){ .br18-ref }, [§ 5, stk. 1, nr. 4](../../../krav/#paragraf-5 "BR18 § 5"){ .br18-ref }, bestemmer endvidere, at ombygninger og andre forandringer i eksisterende byggeri, som ikke ændrer eller påvirker de bærende konstruktioner, forudsætningerne for bygningens brandstrategi samt bygningens fælles installationer, ligeledes kan udføres uden ansøgning om byggetilladelse. De relevante krav i bygningsreglementet skal dog overholdes.
 
 <span id="byggesagsbehandling"></span>
 

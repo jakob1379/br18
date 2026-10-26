@@ -36,11 +36,11 @@
 
 ### 1.10. Lavemissionsklassen {#493fac9a-6198-41c1-a9ec-c88b8129d92d}
 
-Aftalen om national strategi for bæredygtigt byggeri giver mulighed for at overholde en frivillig lavemissionsklasse. Grænseværdierne for lavemissionsklassen er tilsvarende grænseværdierne i § 298 stk. 1 og 5 differentieret på baggrund af bygningstype. Lavemissionsklassen skal fremme interessen for at begrænse klimapåvirkningen fra bygninger yderligere.
+Aftalen om national strategi for bæredygtigt byggeri giver mulighed for at overholde en frivillig lavemissionsklasse. Grænseværdierne for lavemissionsklassen er tilsvarende grænseværdierne i [§ 298 stk. 1 og 5](../../../krav/#paragraf-298 "BR18 § 298"){ .br18-ref } differentieret på baggrund af bygningstype. Lavemissionsklassen skal fremme interessen for at begrænse klimapåvirkningen fra bygninger yderligere.
 
-I forbindelse med indsendelse af dokumentation for nye bygningers klimapåvirkning, er det muligt at fremhæve, at påvirkningen opfylder lavemissionsklassen, såfremt beregningen for den pågældende bygning er inden for de i § 297 stk. 13 og 15 angivne værdier.
+I forbindelse med indsendelse af dokumentation for nye bygningers klimapåvirkning, er det muligt at fremhæve, at påvirkningen opfylder lavemissionsklassen, såfremt beregningen for den pågældende bygning er inden for de i [§ 297 stk. 13 og 15](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref } angivne værdier.
 
-I opgørelse af klimapåvirkningen for lavemissionsklassen skal de justeringer, der fremgår af § 298, stk. 2-8, anvendes. Det vil sige, at beregningen svarer til den, der laves iht. § 298.
+I opgørelse af klimapåvirkningen for lavemissionsklassen skal de justeringer, der fremgår af [§ 298, stk. 2-8](../../../krav/#paragraf-298 "BR18 § 298"){ .br18-ref }, anvendes. Det vil sige, at beregningen svarer til den, der laves iht. [§ 298](../../../krav/#paragraf-298 "BR18 § 298"){ .br18-ref }.
 
 ### 1.11. Standardformat til LCA aflevering {#849da573-be32-4ba4-a8c3-7419bbbbb383}
 

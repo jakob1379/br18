@@ -23,9 +23,9 @@
 
 ### 2.1. Hvornår er legepladser og legepladsredskaber bebyggelse? {#a8f02ff9-7ec7-4fce-aac9-9551989fb835}
 
-Byggelovens § 2, stk. 2, fastslår, at loven finder anvendelse på bygninger, mure og andre faste konstruktioner og anlæg, når anvendelsen af byggeloven er begrundet med sikkerheds- og sundhedsmæssige hensyn, som er de overordnede formål med byggeloven.
+Byggelovens [§ 2, stk. 2](https://www.retsinformation.dk/eli/lta/2016/1178#P2 "Byggeloven § 2"){ .br18-ref .br18-ref--ext }, fastslår, at loven finder anvendelse på bygninger, mure og andre faste konstruktioner og anlæg, når anvendelsen af byggeloven er begrundet med sikkerheds- og sundhedsmæssige hensyn, som er de overordnede formål med byggeloven.
 
-Permanente konstruktioner på legepladser, der kan sidestilles med en bygningsmæssig bebyggelse i henhold til byggelovens § 2, stk. 2, er således også omfattet af bebyggelsesbegrebet.
+Permanente konstruktioner på legepladser, der kan sidestilles med en bygningsmæssig bebyggelse i henhold til byggelovens [§ 2, stk. 2](https://www.retsinformation.dk/eli/lta/2016/1178#P2 "Byggeloven § 2"){ .br18-ref .br18-ref--ext }, er således også omfattet af bebyggelsesbegrebet.
 
 De kriterier, der kan lægges vægt på, når det skal vurderes om legepladser mv. er omfattet af byggeloven, er således, om de har karakter af faste konstruktioner, er af en vis størrelse og om de skal fastgøres eller nedgraves i jorden.
 

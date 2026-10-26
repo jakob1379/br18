@@ -152,13 +152,13 @@ Fabriksfremstillede produkter, der indgår i eller tilsluttes de faste drikkevan
 Fabriksfremstillede produkter, der indgår i eller tilsluttes vandinstallationer, skal for så vidt angår de mekaniske/fysiske karakteristika:
 
 1.  være forsynet med CE-mærke, der viser, at produkterne stemmer overens med en harmoniseret standard eller er omfattet af en europæisk teknisk vurdering med de deklarerede egenskaber, der er relevante for Danmark, eller
-2.  have gennemgået en afprøvning for de egenskaber, der er relevante for Danmark, og være underlagt en produktionskontrol hos fabrikanten, der sikrer, at den deklarerede ydeevne opretholdes, som beskrevet i kapitel 24.
+2.  have gennemgået en afprøvning for de egenskaber, der er relevante for Danmark, og være underlagt en produktionskontrol hos fabrikanten, der sikrer, at den deklarerede ydeevne opretholdes, som beskrevet i [kapitel 24](../../../../ovrige-bestemmelser/24/krav/ "BR18 kapitel 24"){ .br18-ref }.
 
 ## § 419 Drift og vedligehold {#058731cb-d86d-4a89-898b-f92be245c6e5}
 
 ### § 419 {#paragraf-419}
 
-Drift og vedligehold af vandinstallationer skal ske, så de til enhver tid overholder bestemmelserne i §§ 404-418.
+Drift og vedligehold af vandinstallationer skal ske, så de til enhver tid overholder bestemmelserne i [§§ 404-418](#paragraf-404 "BR18 §§ 404-418"){ .br18-ref }.
 
 *Stk. 2.* Vedligehold af tilbagestrømningssikringer skal ske i overensstemmelse med DS/EN 806-5 Specifikationer for drikkevandsinstallationer i bygninger – Del 5: Drift og vedligehold eller på en anden måde, som på tilsvarende vis sikrer, at funktionen af tilbagestrømningssikringerne er opretholdt.
 

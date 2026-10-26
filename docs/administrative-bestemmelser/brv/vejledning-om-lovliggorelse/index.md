@@ -72,21 +72,21 @@ Et byggeri kan være formelt ulovligt, hvis ikke der er søgt om byggetilladelse
 
 Det betyder, at såfremt det forhold, sagen angår, rent formelt ikke længere er ulovligt, skal der ikke i forbindelse med lovliggørelsen stilles krav om ansøgning om byggetilladelse eller om fuld teknisk byggesagsbehandling. Det kan være, fordi det ikke længere kræver en tilladelse eller en dispensation fra kommunalbestyrelsen at opføre byggeriet, eller fordi det forhold, sagen angår, ikke længere skal påses af kommunalbestyrelsen ved byggesagsbehandlingen.
 
-Ekse*mpel: Et enfamiliehus, der er opført uden byggetilladelse i 2006, skal lovliggøres i 2018. Før 2008 skulle der foretages en fuld teknisk byggesagsbehandling, men reglerne blev ændret, og man har siden 2008 ikke skullet foretage teknisk byggesagsbehandling af byggeri af begrænset kompleksitet, som f.eks. fritliggende enfamiliehuse. Når bygningsejeren skal have byggeriet lovliggjort, skal han i medfør af BR18, §§ 10 og 11 indsende samtlige oplysninger af relevans for hans byggesag, men kommunalbestyrelsen skal ifølge BR18 kun sagsbehandle de bebyggelsesregulerende forhold. Et almindeligt enfamiliehus vil typisk skulle indplaceres i brandklasse 1, forudsat, at byggeriet overholder de præaccepterede løsninger. Hvis der derimod er tale om et enfamiliehus over 2 etager afviger byggeriet fra de præaccepterede løsninger, og byggeriet skal efter en konkret vurdering indplaceres i brandklasse 2-4.*
+Ekse*mpel: Et enfamiliehus, der er opført uden byggetilladelse i 2006, skal lovliggøres i 2018. Før 2008 skulle der foretages en fuld teknisk byggesagsbehandling, men reglerne blev ændret, og man har siden 2008 ikke skullet foretage teknisk byggesagsbehandling af byggeri af begrænset kompleksitet, som f.eks. fritliggende enfamiliehuse. Når bygningsejeren skal have byggeriet lovliggjort, skal han i medfør af BR18, [§§ 10](../../krav/#paragraf-10 "BR18 § 10"){ .br18-ref } og [11](../../krav/#paragraf-11 "BR18 § 11"){ .br18-ref } indsende samtlige oplysninger af relevans for hans byggesag, men kommunalbestyrelsen skal ifølge BR18 kun sagsbehandle de bebyggelsesregulerende forhold. Et almindeligt enfamiliehus vil typisk skulle indplaceres i brandklasse 1, forudsat, at byggeriet overholder de præaccepterede løsninger. Hvis der derimod er tale om et enfamiliehus over 2 etager afviger byggeriet fra de præaccepterede løsninger, og byggeriet skal efter en konkret vurdering indplaceres i brandklasse 2-4.*
 
 I en sag, hvor der er konstateret et ulovligt forhold, skal kommunalbestyrelsen altså tage udgangspunkt i de formelle bestemmelser, der er gældende på lovliggørelsestidspunktet, når det skal vurderes, i hvilket omfang det ulovlige forhold skal byggesagsbehandles.
 
-Når der er tale om et byggeri, der er opført efter, at BR18 er trådt i kraft, men uden at der er søgt om tilladelse, skal ansøgningen om bibeholdelse indeholde de oplysninger, som fremgår af BR18, §§ 10 og 11 i det omfang de er relevante for lovliggørelsessagen.
+Når der er tale om et byggeri, der er opført efter, at BR18 er trådt i kraft, men uden at der er søgt om tilladelse, skal ansøgningen om bibeholdelse indeholde de oplysninger, som fremgår af BR18, [§§ 10](../../krav/#paragraf-10 "BR18 § 10"){ .br18-ref } og [11](../../krav/#paragraf-11 "BR18 § 11"){ .br18-ref } i det omfang de er relevante for lovliggørelsessagen.
 
-Kommunalbestyrelsens behandling af byggesagen følger af BR18 § 36, og vil derfor alene omfatte en behandling af de oplysninger, der indsendes efter §§ 10 eller 11.
+Kommunalbestyrelsens behandling af byggesagen følger af BR18 [§ 36](../../krav/#paragraf-36 "BR18 § 36"){ .br18-ref }, og vil derfor alene omfatte en behandling af de oplysninger, der indsendes efter [§§ 10](../../krav/#paragraf-10 "BR18 § 10"){ .br18-ref } eller [11](../../krav/#paragraf-11 "BR18 § 11"){ .br18-ref }.
 
-Når lovliggørelsessagen afsluttes, skal den øvrige dokumentation for, at byggeriet er udført i overensstemmelse med bygningsreglementet indsendes, jf. BR18 § 40. Kommunalbestyrelsen skal meddele tilladelse til ibrugtagning, inden byggeriet lovligt kan tages i brug. Jf. BR18 § 43.
+Når lovliggørelsessagen afsluttes, skal den øvrige dokumentation for, at byggeriet er udført i overensstemmelse med bygningsreglementet indsendes, jf. BR18 [§ 40](../../krav/#paragraf-40 "BR18 § 40"){ .br18-ref }. Kommunalbestyrelsen skal meddele tilladelse til ibrugtagning, inden byggeriet lovligt kan tages i brug. Jf. BR18 [§ 43](../../krav/#paragraf-43 "BR18 § 43"){ .br18-ref }.
 
-I den situation, hvor en ansøger mener at overholde de materielle krav på opførelsestidspunktet, er udgangspunktet, at der skal indsendes oplysninger herom i overensstemmelse med BR18, §§ 10-11 og dokumentation i overensstemmelse med BR18 § 40 for, at byggeriet overholder dagældende reglement.
+I den situation, hvor en ansøger mener at overholde de materielle krav på opførelsestidspunktet, er udgangspunktet, at der skal indsendes oplysninger herom i overensstemmelse med BR18, [§§ 10-11](../../krav/#paragraf-10 "BR18 §§ 10-11"){ .br18-ref } og dokumentation i overensstemmelse med BR18 [§ 40](../../krav/#paragraf-40 "BR18 § 40"){ .br18-ref } for, at byggeriet overholder dagældende reglement.
 
 Kommunens kontrol af de tekniske forhold begrænser sig i denne situation til at konstatere, at dokumentationen er fyldestgørende.
 
-I de tilfælde, hvor forholdet ikke længere kræver en tilladelse, men kan udføres uden byggetilladelse, som f.eks. ombygningssager m.m. omfattet af BR18, § 5, skal forholdet ikke sagsbehandles, og der er dermed ikke længere tale om en lovliggørelsessag i forhold til de formelle krav.
+I de tilfælde, hvor forholdet ikke længere kræver en tilladelse, men kan udføres uden byggetilladelse, som f.eks. ombygningssager m.m. omfattet af BR18, [§ 5](../../krav/#paragraf-5 "BR18 § 5"){ .br18-ref }, skal forholdet ikke sagsbehandles, og der er dermed ikke længere tale om en lovliggørelsessag i forhold til de formelle krav.
 
 Det er vigtigt at understrege, at byggearbejder, der nu kan behandles efter lempede formelle bestemmelser, eller som er undtaget fra krav om byggesagsbehandling, ikke er undtaget fra overholdelse af de materielle krav.
 
@@ -94,23 +94,23 @@ Det er vigtigt at understrege, at byggearbejder, der nu kan behandles efter lemp
 
 ### Særligt om stikprøvekontrol efter BR18 {#433a388b-4ef7-4ba1-9dcb-0612c7d0975b}
 
-Hvis det ved stikprøvekontrollen efter BR18, § 46 konstateres, at der ikke er indsendt tilstrækkelig dokumentation for overholdelse af tekniske bestemmelser, vil ansøgeren efterfølgende skulle fremsende den manglende dokumentation.
+Hvis det ved stikprøvekontrollen efter BR18, [§ 46](../../krav/#paragraf-46 "BR18 § 46"){ .br18-ref } konstateres, at der ikke er indsendt tilstrækkelig dokumentation for overholdelse af tekniske bestemmelser, vil ansøgeren efterfølgende skulle fremsende den manglende dokumentation.
 
 Hvis det derimod ved stikprøvekontrollen konstateres, at et byggeri er opført anderledes end tilladt, eller at der er forhold, der kræver dispensation fra en materiel bestemmelse, skal ansøger enten søge og opnå dispensation eller dokumentere, at byggeriet er bragt i overensstemmelse med det tilladte eller den materielle bestemmelse.
 
 Også ulovligt byggeri, der er opført før BR18 kan udtages til stikprøvekontrol.
 
-I byggesager, hvor der ved stikprøvekontrollen er konstateret et ulovligt forhold, er kommunalbestyrelsen i medfør af BR18, § 46 forpligtet til at gennemgå den indsendte dokumentation og påse, at byggeriet overholder de for byggeriet relevante krav i bygningsreglementet. Det betyder, at kommunalbestyrelsen som bygningsmyndighed skal føre en egentlig kontrol med, at det ulovlige forhold er lovliggjort inden sagen kan afsluttes.
+I byggesager, hvor der ved stikprøvekontrollen er konstateret et ulovligt forhold, er kommunalbestyrelsen i medfør af BR18, [§ 46](../../krav/#paragraf-46 "BR18 § 46"){ .br18-ref } forpligtet til at gennemgå den indsendte dokumentation og påse, at byggeriet overholder de for byggeriet relevante krav i bygningsreglementet. Det betyder, at kommunalbestyrelsen som bygningsmyndighed skal føre en egentlig kontrol med, at det ulovlige forhold er lovliggjort inden sagen kan afsluttes.
 
 <span id="byggelovens-bestemmelser"></span>
 
 ### Byggelovens bestemmelser {#efade8f2-aeee-4316-9b12-1269bf63b28a}
 
-Byggelovens § 16, stk. 1, 1. pkt., bestemmer, at byggearbejder, der er omfattet af byggelovens § 2, ikke må påbegyndes uden byggetilladelse. Det betyder, at opførelsen af et byggeri, der kræver tilladelse, er ulovligt, såfremt der ikke er indhentet tilladelse inden, selve opførelsen finder sted.
+Byggelovens [§ 16, stk. 1, 1. pkt.](https://www.retsinformation.dk/eli/lta/2016/1178#P16 "Byggeloven § 16"){ .br18-ref .br18-ref--ext }, bestemmer, at byggearbejder, der er omfattet af byggelovens [§ 2](https://www.retsinformation.dk/eli/lta/2016/1178#P2 "Byggeloven § 2"){ .br18-ref .br18-ref--ext }, ikke må påbegyndes uden byggetilladelse. Det betyder, at opførelsen af et byggeri, der kræver tilladelse, er ulovligt, såfremt der ikke er indhentet tilladelse inden, selve opførelsen finder sted.
 
-Byggelovens § 2, stk. 5, bestemmer, at loven finder anvendelse på bestående bebyggelse, uanset tidspunktet for bebyggelsens opførelse, når de enkelte bestemmelser indeholder udtrykkelig hjemmel herfor.
+Byggelovens [§ 2, stk. 5](https://www.retsinformation.dk/eli/lta/2016/1178#P2 "Byggeloven § 2"){ .br18-ref .br18-ref--ext }, bestemmer, at loven finder anvendelse på bestående bebyggelse, uanset tidspunktet for bebyggelsens opførelse, når de enkelte bestemmelser indeholder udtrykkelig hjemmel herfor.
 
-Byggelovens § 2, stk. 5, angiver således, at det er hovedreglen, at en bygning, der er lovligt opført efter de regler, der var gældende på opførelsestidspunktet, ikke senere kan blive mødt med krav om at opfylde nye skærpede regler, medmindre der er udtrykkelig hjemmel til dette. Byggelovens § 2, stk. 5, beskytter imidlertid ikke ulovligt opført byggeri.
+Byggelovens [§ 2, stk. 5](https://www.retsinformation.dk/eli/lta/2016/1178#P2 "Byggeloven § 2"){ .br18-ref .br18-ref--ext }, angiver således, at det er hovedreglen, at en bygning, der er lovligt opført efter de regler, der var gældende på opførelsestidspunktet, ikke senere kan blive mødt med krav om at opfylde nye skærpede regler, medmindre der er udtrykkelig hjemmel til dette. Byggelovens [§ 2, stk. 5](https://www.retsinformation.dk/eli/lta/2016/1178#P2 "Byggeloven § 2"){ .br18-ref .br18-ref--ext }, beskytter imidlertid ikke ulovligt opført byggeri.
 
 Det er således på baggrund af de regler, der var gældende, da en bebyggelse blev opført, at kommunalbestyrelsen skal vurdere, om der foreligger et ulovligt forhold.
 
@@ -120,9 +120,9 @@ Alene i de tilfælde, hvor der efterfølgende er indført regler, der finder anv
 
 ### Kommunalbestyrelsen som bygningsmyndighed {#0bac2d7b-6f83-4a5e-bb70-bc10fada3df7}
 
-Kommunalbestyrelsen er bygningsmyndighed og påser i denne forbindelse, at byggeloven og de regler, der er udstedt i medfør heraf, overholdes. Dette fremgår af byggelovens § 16 C, stk. 1. Kommunalbestyrelsen påser også, at påbud efter byggeloven og regler fastsat i medfør heraf efterkommes, og at vilkår fastsat i tilladelser eller dispensationer, som er meddelt af kommunalbestyrelsen, overholdes. Dette fremgår af byggelovens § 16 C, stk. 2.
+Kommunalbestyrelsen er bygningsmyndighed og påser i denne forbindelse, at byggeloven og de regler, der er udstedt i medfør heraf, overholdes. Dette fremgår af byggelovens [§ 16 C, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178#P16C "Byggeloven § 16C"){ .br18-ref .br18-ref--ext }. Kommunalbestyrelsen påser også, at påbud efter byggeloven og regler fastsat i medfør heraf efterkommes, og at vilkår fastsat i tilladelser eller dispensationer, som er meddelt af kommunalbestyrelsen, overholdes. Dette fremgår af byggelovens [§ 16 C, stk. 2](https://www.retsinformation.dk/eli/lta/2016/1178#P16C "Byggeloven § 16C"){ .br18-ref .br18-ref--ext }.
 
-Bliver kommunalbestyrelsen opmærksom på et ulovligt forhold, har den pligt til at søge forholdet lovliggjort, medmindre dette er af ganske underordnet betydning. Dette fremgår af byggelovens § 16 C, stk. 3.
+Bliver kommunalbestyrelsen opmærksom på et ulovligt forhold, har den pligt til at søge forholdet lovliggjort, medmindre dette er af ganske underordnet betydning. Dette fremgår af byggelovens [§ 16 C, stk. 3](https://www.retsinformation.dk/eli/lta/2016/1178#P16C "Byggeloven § 16C"){ .br18-ref .br18-ref--ext }.
 
 Hvornår et forhold er af ganske underordnet betydning beror på en konkret vurdering, men som tommelfingerregel, skal der være tale om ret bagatelagtige forhold for, at et forhold ikke skal lovliggøres. Som eksempel kan det nævnes, at hvis det forhold, der er tilsidesat, ikke påvirker formålet i byggeloven, omgivelserne eller andre interesser, så er forholdet af ganske underordnet betydning.
 
@@ -132,13 +132,13 @@ Hvordan, kommunen indretter og varetager administrationen af byggelovgivningen o
 
 ### Ejerens pligter {#0bbb3b63-3292-413b-b1fa-6b12e2b2b7b2}
 
-Pligten til at lovliggøre et ulovligt forhold påhviler den til enhver tid værende ejer af en fast ejendom, jf. byggelovens § 17, stk. 1, 1. pkt.  Pligten til at lovliggøre et ulovligt forhold er dermed knyttet objektivt til ejendommen.
+Pligten til at lovliggøre et ulovligt forhold påhviler den til enhver tid værende ejer af en fast ejendom, jf. byggelovens [§ 17, stk. 1, 1. pkt.](https://www.retsinformation.dk/eli/lta/2016/1178#P17 "Byggeloven § 17"){ .br18-ref .br18-ref--ext }  Pligten til at lovliggøre et ulovligt forhold er dermed knyttet objektivt til ejendommen.
 
 Pligten er dog personlig i den forstand, at et påbud om lovliggørelse skalrettes til den konkrete ejer. Skifter ejendommen ejer, skal påbuddet derfor gentages over for den nye ejer.
 
-Byggelovens § 17 indeholder således byggelovens ansvarsbestemmelse, der som udgangspunkt pålægger ejeren at berigtige ulovlige forhold, uanset hvem der er skyld i det ulovlige forhold.
+Byggelovens [§ 17](https://www.retsinformation.dk/eli/lta/2016/1178#P17 "Byggeloven § 17"){ .br18-ref .br18-ref--ext } indeholder således byggelovens ansvarsbestemmelse, der som udgangspunkt pålægger ejeren at berigtige ulovlige forhold, uanset hvem der er skyld i det ulovlige forhold.
 
-Hvis det ulovlige forhold består i ulovlig brug af ejendommen, påhviler pligten til at berigtige det ulovlige forhold tillige brugeren. Dette fremgår af byggelovens § 17, stk. 1, 2. pkt.
+Hvis det ulovlige forhold består i ulovlig brug af ejendommen, påhviler pligten til at berigtige det ulovlige forhold tillige brugeren. Dette fremgår af byggelovens [§ 17, stk. 1, 2. pkt.](https://www.retsinformation.dk/eli/lta/2016/1178#P17 "Byggeloven § 17"){ .br18-ref .br18-ref--ext }
 
 Bestemmelsen om, at pligten til at berigtige ulovlige forhold også kan påhvile brugeren, medfører ikke, at ejeren af ejendommen i disse situationer ikke også vil have pligt til at berigtige forholdet.
 
@@ -230,7 +230,7 @@ Hvis der er flere mulige måder at lovliggøre på, er det normalt den, der har 
 
 ### Forholdet til anden lovgivning {#d5fd9fdf-ce91-4988-a5bb-058378339b40}
 
-Det fremgår af BR18 § 35, stk. 2, at der ikke kan meddeles byggetilladelse, uden kommunen først har undersøgt, om byggeriet er i strid med anden lovgivning.
+Det fremgår af BR18 [§ 35, stk. 2](../../krav/#paragraf-35 "BR18 § 35"){ .br18-ref }, at der ikke kan meddeles byggetilladelse, uden kommunen først har undersøgt, om byggeriet er i strid med anden lovgivning.
 
 Kommunen må være berettiget til at meddele afslag på retligt lovliggørende byggetilladelse alene med henvisning til, at der ikke er opnået tilladelse eller dispensation efter denne anden lovgivning. Hvis afslag på retlig lovliggørelse gives med denne begrundelse, kan kommunen være forpligtet til at udsætte sagen på behandling af spørgsmålet om retlig lovliggørelse efter denne anden lovgivning.
 
@@ -238,11 +238,11 @@ Kommunen må være berettiget til at meddele afslag på retligt lovliggørende b
 
 ***Lovliggørelse når kravet om beregning er overtrådt***
 
-Hvis der ikke foreligger en beregning af bygningens klimapåvirkning, jf. § 297, kan spørgsmålet behandles på linje med andre tilfælde af dokumentations-mangler. Lovliggørelse af dokumentationsmanglen kan ske ved at indsende dokumentation for beregningen efterfølgende.
+Hvis der ikke foreligger en beregning af bygningens klimapåvirkning, jf. [§ 297](../../../tekniske-bestemmelser/11/krav/#paragraf-297 "BR18 § 297"){ .br18-ref }, kan spørgsmålet behandles på linje med andre tilfælde af dokumentations-mangler. Lovliggørelse af dokumentationsmanglen kan ske ved at indsende dokumentation for beregningen efterfølgende.
 
 ***Lovliggørelse når kravet om grænseværdi er overtrådt***
 
-Hvis grænseværdien, jf. § 298, er overskredet, skal kommunalbestyrelsen som bygningsmyndighed søge forholdet lovliggjort.
+Hvis grænseværdien, jf. [§ 298](../../../tekniske-bestemmelser/11/krav/#paragraf-298 "BR18 § 298"){ .br18-ref }, er overskredet, skal kommunalbestyrelsen som bygningsmyndighed søge forholdet lovliggjort.
 
 Hvordan bygningen kan lovliggøres, herunder om der kan ske retlig lovliggørelse eller fysisk lovliggørelse, er en konkret vurdering, se nærmere i den generelle vejledning om lovliggørelse [her](./ "Vejledning om lovliggorelse"){target="_blank"} (nyt vindue). De almindelige forvaltningsretlige kriterier indgår i vurderingen, herunder bl.a. proportionalitetsprincippet.
 
@@ -250,20 +250,20 @@ Det følger af proportionalitetsprincippet, at der ikke må anvendes mere indgri
 
 Hvis bygningen overstiger kravene i bygningsreglementet og skal lovliggøres, er det relevant at være opmærksom på, at klimapåvirkningen for driftsenergien og anvendelsen af materialer opgøres samlet. Som led i en lovliggørelse vil det være relevant at vurdere, om forskellige typer af tiltag samlet set kan bringe byggeriet under grænseværdien. Hvis den del af klimapåvirkningen, der stammer fra driftsenergien, kan ændres sådan, at den bringer det samlede resultat over den 50-årige periode ned, kan det eksempelvis danne grundlag for påbud om fysisk lovliggørelse.
 
-Kommunen kan under hensyn til proportionalitetsprincippet overveje, om dispensationsmuligheden i byggelovens § 22 bør anvendes ved en retlig lovliggørelse. Det er ikke udelukket, at der på den baggrund dispenseres, selv om kommunen ikke ville have dispenseret, hvis kommunen var blevet spurgt ved byggeansøgningen.
+Kommunen kan under hensyn til proportionalitetsprincippet overveje, om dispensationsmuligheden i byggelovens [§ 22](https://www.retsinformation.dk/eli/lta/2016/1178#P22 "Byggeloven § 22"){ .br18-ref .br18-ref--ext } bør anvendes ved en retlig lovliggørelse. Det er ikke udelukket, at der på den baggrund dispenseres, selv om kommunen ikke ville have dispenseret, hvis kommunen var blevet spurgt ved byggeansøgningen.
 
 Ved proportionalitetsvurderingen kan blandt andet indgå, at formålet med bestemmelserne om grænseværdi er at undgå unødvendig klimapåvirkning fra bygninger.
 
-I den forbindelse er det også væsentligt at være opmærksom på, om der er andre forhold ved bygningen, der skal lovliggøres, end overskridelsen af fastsatte grænseværdier, samt på § 13, stk. 2, der fastslår, at der ikke kan dispenseres fra funktionskrav, hvor hensynet bag er brand- eller sikkerhedshensyn.
+I den forbindelse er det også væsentligt at være opmærksom på, om der er andre forhold ved bygningen, der skal lovliggøres, end overskridelsen af fastsatte grænseværdier, samt på [§ 13, stk. 2](../../krav/#paragraf-13 "BR18 § 13"){ .br18-ref }, der fastslår, at der ikke kan dispenseres fra funktionskrav, hvor hensynet bag er brand- eller sikkerhedshensyn.
 
 Det er en konkret vurdering, hvordan der bedst sker lovliggørelse i den konkrete byggesag, herunder i overensstemmelse med proportionalitetsprincippet.
 
 ***Straf***
 
-Eventuelle tiltag til lovliggørelse, herunder retlig lovliggørelse i form af efterfølgende dispensation, er uden betydning for, om forholdet kan straffes efter § 564. Kommunalbestyrelsen kan derfor overveje politianmeldelse, uanset om der måtte være iværksat eller gennemført tiltag til lovliggørelse af forholdet, herunder retlig lovliggørelse. Man kan overveje det særlige i situationen, hvis grænseværdien er overskredet.
+Eventuelle tiltag til lovliggørelse, herunder retlig lovliggørelse i form af efterfølgende dispensation, er uden betydning for, om forholdet kan straffes efter [§ 564](../../../straf-og-ikrafttraedelse/36/krav/#096874d8-8195-4b9a-a923-a67e0d5ed2bf "BR18 § 564"){ .br18-ref }. Kommunalbestyrelsen kan derfor overveje politianmeldelse, uanset om der måtte være iværksat eller gennemført tiltag til lovliggørelse af forholdet, herunder retlig lovliggørelse. Man kan overveje det særlige i situationen, hvis grænseværdien er overskredet.
 
 Kun politiet kan give bøde for overtrædelse.
 
-§ 564 anvendes for den skete overtrædelse, i modsætning til eksempelvis byggelovens § 30, litra
+[§ 564](../../../straf-og-ikrafttraedelse/36/krav/#096874d8-8195-4b9a-a923-a67e0d5ed2bf "BR18 § 564"){ .br18-ref } anvendes for den skete overtrædelse, i modsætning til eksempelvis byggelovens [§ 30](https://www.retsinformation.dk/eli/lta/2016/1178#P30 "Byggeloven § 30"){ .br18-ref .br18-ref--ext }, litra
 
 c), som kan anvendes ved manglende efterlevelse af et påbud.

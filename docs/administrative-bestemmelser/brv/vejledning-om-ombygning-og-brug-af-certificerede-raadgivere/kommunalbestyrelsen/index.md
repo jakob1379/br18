@@ -46,13 +46,13 @@
 
 ### 4 Kommunalbestyrelsens ansvar ved indplacering i brand- og konstruktionsklasse {#2cd2304c-7bf1-426e-9271-aa9a1e85d323}
 
-I § 10, stk. 2, nr. 2-5, fremgår det, at der ved ansøgning om byggetilladelse skal indsendes oplysning om og dokumentation for, hvilken konstruktionsklasse eller brandklasse byggearbejdet er indplaceret i.
+I [§ 10, stk. 2, nr. 2-5](../../../krav/#paragraf-10 "BR18 § 10"){ .br18-ref }, fremgår det, at der ved ansøgning om byggetilladelse skal indsendes oplysning om og dokumentation for, hvilken konstruktionsklasse eller brandklasse byggearbejdet er indplaceret i.
 
 Disse bestemmelser er kun relevante såfremt, der ændres ved de brandmæssige forhold og/eller ved konstruktionernes virkemåde.
 
 Hensigten med disse bestemmelser er, at kommunalbestyrelsen af den indsendte dokumentation skal kunne vurdere, om der skal tilknyttes en certificeret brandrådgiver eller en certificeret statiker, og om der er overensstemmelse mellem niveauet, som den certificerede brandrådgiver eller certificerede statiker er certificeret til, og brand- eller konstruktionsklassen for det pågældende byggearbejde. Indsendes der dokumentation for, at et byggeri f.eks. er i brandklasse 3, skal der også være dokumentation for, at der er tilknyttet en brandrådgiver certificeret til brandklasse 3 og denne skal udarbejde en starterklæring, som vedlægges ansøgningen sammen med den øvrige dokumentation.
 
-Når et byggeri indplaceres i konstruktionsklasse 1 (KK1) eller brandklasse 1 (BK1), er der ikke krav om, at der skal tilknyttes en certificeret brandrådgiver eller certificeret statiker, jf. § 10, stk. 6 og 7. Kommunen kan ikke stille krav om en certificeret brandrådgiver eller certificerede statiker for byggearbejder i konstruktions- og brandklasse 1 i forbindelse med indplacering i brand- og konstruktionsklasse.
+Når et byggeri indplaceres i konstruktionsklasse 1 (KK1) eller brandklasse 1 (BK1), er der ikke krav om, at der skal tilknyttes en certificeret brandrådgiver eller certificeret statiker, jf. [§ 10, stk. 6 og 7](../../../krav/#paragraf-10 "BR18 § 10"){ .br18-ref }. Kommunen kan ikke stille krav om en certificeret brandrådgiver eller certificerede statiker for byggearbejder i konstruktions- og brandklasse 1 i forbindelse med indplacering i brand- og konstruktionsklasse.
 
 Læs mere indplacering i brand- og konstruktionsklasse i [Bygningsreglementets vejledning til kapitel 5 – kapitel 1 – afsnit 1.6.0](../../../../tekniske-bestemmelser/05/vejledninger/generel_brand/kapitel-1/) og i [Vejledning om indplacering i konstruktionsklasse](../../../../ovrige-bestemmelser/26/brv/indplacering-i-konstruktionsklasser/).
 

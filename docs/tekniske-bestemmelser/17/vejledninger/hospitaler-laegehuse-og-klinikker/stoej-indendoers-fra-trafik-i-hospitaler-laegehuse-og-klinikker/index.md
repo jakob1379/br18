@@ -23,7 +23,7 @@
 
 ### 6.2 Støj indendørs fra trafik {#e4f257c7-aa92-45b0-bee8-6f1d15b43982}
 
-Tabel 6.2 indeholder forslag til projekteringsværdier for trafikstøj i hospitaler svarende til overholdelse af BR18’s generelle bestemmelse i § 368, stk. 1 om at ”*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen”,* samt supplerende vejledende grænseværdier for trafikstøj indendørs med åbne vinduer*.*
+Tabel 6.2 indeholder forslag til projekteringsværdier for trafikstøj i hospitaler svarende til overholdelse af BR18’s generelle bestemmelse i [§ 368, stk. 1](../../../krav/#d020db69-f4ce-4cb5-84ee-a507a2630908 "BR18 § 368"){ .br18-ref } om at ”*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen”,* samt supplerende vejledende grænseværdier for trafikstøj indendørs med åbne vinduer*.*
 
 <table>
 <colgroup>

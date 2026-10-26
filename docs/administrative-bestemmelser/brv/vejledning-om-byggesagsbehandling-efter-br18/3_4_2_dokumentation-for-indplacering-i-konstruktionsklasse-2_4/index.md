@@ -64,25 +64,25 @@
 
 ### 3.4.2. Dokumentation for indplacering i konstruktionsklasse 2-4 {#ae5651cf-cc7c-45e7-9303-35a9c13ff038}
 
-Dokumentation for indplacering i konstruktionsklasse 2-4 skal ligesom konstruktionsklasse 1 følge § 503, dvs., at dokumentationen skal indeholde grundlaget for indplaceringen. Grundlaget for indplacering i konstruktionsklasse betragtes som konstruktionens kompleksitet og konsekvensklasse (CC), samt erfaringen med konstruktionstypen.
+Dokumentation for indplacering i konstruktionsklasse 2-4 skal ligesom konstruktionsklasse 1 følge [§ 503](../../../../ovrige-bestemmelser/28/krav/#paragraf-503 "BR18 § 503"){ .br18-ref }, dvs., at dokumentationen skal indeholde grundlaget for indplaceringen. Grundlaget for indplacering i konstruktionsklasse betragtes som konstruktionens kompleksitet og konsekvensklasse (CC), samt erfaringen med konstruktionstypen.
 
 Udover grundlaget for indplaceringen skal dokumentationen også som minimum indeholde de for byggeriet relevante dele af:
 
-•   A1. Konstruktionsgrundlag, jf. § 501, stk. 1, nr. 1,
+•   A1. Konstruktionsgrundlag, jf. [§ 501, stk. 1, nr. 1](../../../../ovrige-bestemmelser/28/krav/#paragraf-501 "BR18 § 501"){ .br18-ref },
 
-•   A2. Statiske beregninger – bygværk, jf.§ 501, stk. 1, nr. 2, litra a,
+•   A2. Statiske beregninger – bygværk, jf.[§ 501, stk. 1, nr. 2, litra a](../../../../ovrige-bestemmelser/28/krav/#paragraf-501 "BR18 § 501"){ .br18-ref },
 
-•   A3. Konstruktionstegninger og modeller, jf. § 501, stk. 1, nr. 3,
+•   A3. Konstruktionstegninger og modeller, jf. [§ 501, stk. 1, nr. 3](../../../../ovrige-bestemmelser/28/krav/#paragraf-501 "BR18 § 501"){ .br18-ref },
 
-•   B1. Statisk projektredegørelse, jf. § 502, stk. 1, nr. 1,
+•   B1. Statisk projektredegørelse, jf. [§ 502, stk. 1, nr. 1](../../../../ovrige-bestemmelser/28/krav/#paragraf-502 "BR18 § 502"){ .br18-ref },
 
-•   B2. Statisk kontrolplan, jf. § 502, stk. 1, nr. 2.
+•   B2. Statisk kontrolplan, jf. [§ 502, stk. 1, nr. 2](../../../../ovrige-bestemmelser/28/krav/#paragraf-502 "BR18 § 502"){ .br18-ref }.
 
 Dokumentationen vil variere i indhold og omfang alt efter typen af byggeri.
 
-Derudover er der også supplerende dokumentationskrav for konstruktionsklasse 2-4, som yderligere skal følge §§ 16-19. Disse bestemmelser omhandler anvendelsen af certificeret statiker. Se afsnit 4.1 for yderligere vejledning.
+Derudover er der også supplerende dokumentationskrav for konstruktionsklasse 2-4, som yderligere skal følge [§§ 16-19](../../../krav/#eb908069-264e-49db-9f18-388ff20ee1a2 "BR18 §§ 16-19"){ .br18-ref }. Disse bestemmelser omhandler anvendelsen af certificeret statiker. Se afsnit 4.1 for yderligere vejledning.
 
-Byggesager, hvor der sker teknisk byggesagsbehandling af konstruktionsforholdene, er undtaget for dokumentation af indplacering i konstruktionsklasse efter § 503.
+Byggesager, hvor der sker teknisk byggesagsbehandling af konstruktionsforholdene, er undtaget for dokumentation af indplacering i konstruktionsklasse efter [§ 503](../../../../ovrige-bestemmelser/28/krav/#paragraf-503 "BR18 § 503"){ .br18-ref }.
 
 Du kan læse mere om den konstruktionsmæssige dokumentation i [SBi-anvisning 271 Dokumentation og kontrol af bærende konstruktioner](https://sbi.dk/anvisninger/Pages/271-Dokumentation-af-baerende-konstruktioner-3.aspx){rel="noopener noreferrer" target="_blank"}.
 

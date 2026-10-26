@@ -38,7 +38,7 @@ Vejledningen tager udgangspunkt i Tiny Houses, der opfylder følgende krav:
 - Bygning der anvendes til helårsbeboelse (opvarmet)
 - Blivende bygning (dvs. ikke midlertidig)
 
-Vejledningen omhandler dermed ikke etageboligbyggeri, containerbyggeri, midlertidige, flytbare pavilloner (jf. §§287-292) eller husbåde.
+Vejledningen omhandler dermed ikke etageboligbyggeri, containerbyggeri, midlertidige, flytbare pavilloner (jf. [§§287-292](../../../../../tekniske-bestemmelser/11/krav/#f83468ad-c2a0-4b59-840a-7f0e0afc27f9 "BR18 §§ 287-292"){ .br18-ref }) eller husbåde.
 
 Dobbelthuse eller andre former for sammenbyggede boliger er ikke Tiny Houses i denne sammenhæng.
 

@@ -42,13 +42,13 @@
 
 ### Særligt om stikprøvekontrol efter BR18 {#433a388b-4ef7-4ba1-9dcb-0612c7d0975b}
 
-Hvis det ved stikprøvekontrollen efter BR18, § 46 konstateres, at der ikke er indsendt tilstrækkelig dokumentation for overholdelse af tekniske bestemmelser, vil ansøgeren efterfølgende skulle fremsende den manglende dokumentation.
+Hvis det ved stikprøvekontrollen efter BR18, [§ 46](../../../krav/#paragraf-46 "BR18 § 46"){ .br18-ref } konstateres, at der ikke er indsendt tilstrækkelig dokumentation for overholdelse af tekniske bestemmelser, vil ansøgeren efterfølgende skulle fremsende den manglende dokumentation.
 
 Hvis det derimod ved stikprøvekontrollen konstateres, at et byggeri er opført anderledes end tilladt, eller at der er forhold, der kræver dispensation fra en materiel bestemmelse, skal ansøger enten søge og opnå dispensation eller dokumentere, at byggeriet er bragt i overensstemmelse med det tilladte eller den materielle bestemmelse.
 
 Også ulovligt byggeri, der er opført før BR18 kan udtages til stikprøvekontrol.
 
-I byggesager, hvor der ved stikprøvekontrollen er konstateret et ulovligt forhold, er kommunalbestyrelsen i medfør af BR18, § 46 forpligtet til at gennemgå den indsendte dokumentation og påse, at byggeriet overholder de for byggeriet relevante krav i bygningsreglementet. Det betyder, at kommunalbestyrelsen som bygningsmyndighed skal føre en egentlig kontrol med, at det ulovlige forhold er lovliggjort inden sagen kan afsluttes.
+I byggesager, hvor der ved stikprøvekontrollen er konstateret et ulovligt forhold, er kommunalbestyrelsen i medfør af BR18, [§ 46](../../../krav/#paragraf-46 "BR18 § 46"){ .br18-ref } forpligtet til at gennemgå den indsendte dokumentation og påse, at byggeriet overholder de for byggeriet relevante krav i bygningsreglementet. Det betyder, at kommunalbestyrelsen som bygningsmyndighed skal føre en egentlig kontrol med, at det ulovlige forhold er lovliggjort inden sagen kan afsluttes.
 
 <span id="byggelovens-bestemmelser"></span>
 

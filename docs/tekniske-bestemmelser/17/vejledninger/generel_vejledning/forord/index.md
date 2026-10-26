@@ -15,7 +15,7 @@
 
 ### Forord {#f8f28711-8be8-4539-ba26-9a8f0b1e4f41}
 
-Bygningsreglement 2018 indeholder bestemmelser vedrørende bygningers lydforhold. Disse bestemmelser findes i §§ 368 - §376 og har til formål at sikre, at bygninger har sundheds- og komfortmæssigt tilfredsstillende lydforhold set i forhold til bygningens eller rummenes anvendelse. Der findes derfor forskellige krav og vejledende værdier for forskellige bygnings- og rumtyper.
+Bygningsreglement 2018 indeholder bestemmelser vedrørende bygningers lydforhold. Disse bestemmelser findes i [§§ 368 - §376](../../../krav/ "BR18 §§ 368-376"){ .br18-ref } og har til formål at sikre, at bygninger har sundheds- og komfortmæssigt tilfredsstillende lydforhold set i forhold til bygningens eller rummenes anvendelse. Der findes derfor forskellige krav og vejledende værdier for forskellige bygnings- og rumtyper.
 
 Bestemmelserne om lydforhold er udformet som funktionskrav, hvor kravene beskriver, hvilke funktioner og hensyn der skal være opfyldt, og der er angivet en række grænseværdier for boliger, undervisningsbygninger og daginstitutions­bygninger. Disse grænseværdier kan betragtes som en nedre grænse for nye bygningers akustiske kvalitet. Andre værdier end de anførte grænseværdier kan også benyttes, såfremt det kan eftervises, at der opnås et tilsvarende eller et bedre kvalitetsniveau for det akustiske indeklima.
 

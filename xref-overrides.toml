@@ -1,0 +1,41 @@
+# Reviewed decisions for references whose law the rules get wrong or cannot decide (scripts/link_references.py).
+# Each entry applies to every reference with exactly this text on this page (docs-relative path) that names no
+# instrument itself (a named law always wins).
+# law: "br18", "skip" (leave unlinked, not listed) or a law key of xref-laws.toml. reason is required.
+# An entry that no longer matches a reference on its page fails the run (the text changed: review it again).
+
+[[override]]
+page = "administrative-bestemmelser/brv/vejledning-om-byggesagsbehandling-efter-br18/index.md"
+text = "§ 23, stk. 3, 2. pkt."
+law = "byggeloven"
+reason = "Continues 'byggelovens § 23, stk. 3' earlier in the paragraph: handicap organisations' right of appeal is byggeloven § 23, stk. 3, 2. pkt.; BR18 § 23 is fire documentation."
+
+[[override]]
+page = "administrative-bestemmelser/brv/vejledning-om-byggesagsbehandling-efter-br18/10_0_klage-over-kommunalbestyrelsens-afgoerelser/index.md"
+text = "§ 23, stk. 3, 2. pkt."
+law = "byggeloven"
+reason = "Same paragraph as the guide root: byggeloven § 23, stk. 3, 2. pkt."
+
+[[override]]
+page = "vejledninger/klimasikring/vejledning_klimasikring/version-2-byygeri_i_kystnaere_omraader/index.md"
+text = "§ 1"
+law = "naturbeskyttelsesloven"
+reason = "Section 2.4 Naturbeskyttelsesloven quotes the law's purpose clause, naturbeskyttelsesloven § 1."
+
+[[override]]
+page = "vejledninger/klimasikring/vejledning_klimasikring/version-2-byygeri_i_kystnaere_omraader/index.md"
+text = "§ 16"
+law = "naturbeskyttelsesloven"
+reason = "Section 2.4 Naturbeskyttelsesloven: the lake and stream protection line (sø- og åbeskyttelseslinjen) is naturbeskyttelsesloven § 16."
+
+[[override]]
+page = "vejledninger/klimasikring/vejledning_klimasikring/version-2-byygeri_i_kystnaere_omraader/2_4/index.md"
+text = "§ 1"
+law = "naturbeskyttelsesloven"
+reason = "Section 2.4 Naturbeskyttelsesloven quotes the law's purpose clause, naturbeskyttelsesloven § 1."
+
+[[override]]
+page = "vejledninger/klimasikring/vejledning_klimasikring/version-2-byygeri_i_kystnaere_omraader/2_4/index.md"
+text = "§ 16"
+law = "naturbeskyttelsesloven"
+reason = "Section 2.4 Naturbeskyttelsesloven: the lake and stream protection line (sø- og åbeskyttelseslinjen) is naturbeskyttelsesloven § 16."

@@ -40,9 +40,9 @@ Bebyggelse, der overskrider skel, kan forekomme på flere forskellige måder. Fo
 
 *Byggeri over skel beliggende over terræn*
 
-Når der etableres bebyggelse over skel, som er beliggende over terræn, er det under forudsætning af, at de ejendomsretlige hensyn er afklaret ved indhentelse af samtykke fra nabogrundejer, og at bebyggelsen  lovligt vil kunne etableres i henhold til bygningsreglementets bestemmelser, samt at bebyggelsen i øvrigt ikke er i strid med anden lovgivning, jf. BR18, kap. 1, § 35, stk. 2.
+Når der etableres bebyggelse over skel, som er beliggende over terræn, er det under forudsætning af, at de ejendomsretlige hensyn er afklaret ved indhentelse af samtykke fra nabogrundejer, og at bebyggelsen  lovligt vil kunne etableres i henhold til bygningsreglementets bestemmelser, samt at bebyggelsen i øvrigt ikke er i strid med anden lovgivning, jf. BR18, [kap. 1](../../krav/ "BR18 kapitel 1"){ .br18-ref }, [§ 35, stk. 2](../../krav/#paragraf-35 "BR18 § 35"){ .br18-ref }.
 
-Er de ejendomsretlige forhold således afklaret, og er opførelsen af bebyggelsen ikke i strid med anden lovgivning, vil kommunen efter en helhedsvurdering i henhold til BR18, kap. 8, §§ 187-195, kunne give tilladelse til opførelse af f.eks. altaner i gavl beliggende over nabogrunden.
+Er de ejendomsretlige forhold således afklaret, og er opførelsen af bebyggelsen ikke i strid med anden lovgivning, vil kommunen efter en helhedsvurdering i henhold til BR18, [kap. 8](../../../tekniske-bestemmelser/08/krav/ "BR18 kapitel 8"){ .br18-ref }, [§§ 187-195](../../../tekniske-bestemmelser/08/krav/#8d7ffa5e-ed08-4539-bd6b-133d50938a9a "BR18 §§ 187-195"){ .br18-ref }, kunne give tilladelse til opførelse af f.eks. altaner i gavl beliggende over nabogrunden.
 
 *Byggeri over skel beliggende på terræn og under terræn*
 
@@ -58,9 +58,9 @@ Byggelovgivningens bestemmelser om afstand til skel og fravigelser herfra foruds
 
 Lovliggørelsessager, i forhold til byggeri, der er opført over skel på anden mands grund, kan opstå enten ved, at der ikke er indhentet forudgående byggetilladelse, eller ved at byggeriet er opført i strid med byggeloven og bygningsreglementet, eksempelvis fordi der er tvivl om skellets placering.
 
-Det fremgår af byggelovens § 16C, at kommunen er forpligtet til at søge et ulovligt forhold lovliggjort, når kommunen bliver opmærksom på et ulovligt forhold, medmindre det er af ganske underordnet betydning
+Det fremgår af byggelovens [§ 16C](https://www.retsinformation.dk/eli/lta/2016/1178#P16C "Byggeloven § 16C"){ .br18-ref .br18-ref--ext }, at kommunen er forpligtet til at søge et ulovligt forhold lovliggjort, når kommunen bliver opmærksom på et ulovligt forhold, medmindre det er af ganske underordnet betydning
 
-I medfør af byggelovens § 17 er det den til enhver tid værende ejer af en ejendom, der er ansvarlig for, at ejendommen er lovlig.
+I medfør af byggelovens [§ 17](https://www.retsinformation.dk/eli/lta/2016/1178#P17 "Byggeloven § 17"){ .br18-ref .br18-ref--ext } er det den til enhver tid værende ejer af en ejendom, der er ansvarlig for, at ejendommen er lovlig.
 
 Såfremt der er tale om en ulovlig brug af ejendommen, kan et påbud om lovliggørelse ligeledes rettes mod brugeren af ejendommen.
 
@@ -78,15 +78,15 @@ En eventuel tvist mellem de to ejere, eksempelvis om skellets placering, er priv
 
 Aftaler om opførelse af bebyggelse over skel kan være i strid med udstykningsloven, som henhører under Geodatastyrelsen.
 
-Efter ordlyden af udstykningslovens § 16 er det alene muligt at indgå aftale om brugsret for en del af en fast samlet ejendom for et tidsrum op til 30 år.
+Efter ordlyden af udstykningslovens [§ 16](https://www.retsinformation.dk/eli/lta/2024/53#P16 "Udstykningsloven § 16"){ .br18-ref .br18-ref--ext } er det alene muligt at indgå aftale om brugsret for en del af en fast samlet ejendom for et tidsrum op til 30 år.
 
-Udstykningslovens § 16 fortolkes dog således, at aftalen blot skal indeholde mulighed for opsigelse, så ingen af aftalens parter på noget tidspunkt er bundet af aftalen for mere end 30 år.
+Udstykningslovens [§ 16](https://www.retsinformation.dk/eli/lta/2024/53#P16 "Udstykningsloven § 16"){ .br18-ref .br18-ref--ext } fortolkes dog således, at aftalen blot skal indeholde mulighed for opsigelse, så ingen af aftalens parter på noget tidspunkt er bundet af aftalen for mere end 30 år.
 
 Hvis brugsretten overskrider åremålsgrænsen, kan brugsretsaftalen kun lovlig indgås, hvis aftalen angår en helt samlet fast ejendom.
 
-Geodatastyrelsen kan påbyde matrikulær registrering af forhold i strid med udstykningslovens § 16, jf. udstykningslovens § 21, stk. 1, eller påbyde parterne at ophæve aftalen, såfremt den nødvendige matrikulære forandring ikke finder sted, jf. udstykningslovens § 22. De relevante matrikulære ændringer vil være udstykning af en ny samlet fast ejendom eller arealoverførsel til en anden samlet fast ejendom, der ejes af den, der udøver brugsretten.
+Geodatastyrelsen kan påbyde matrikulær registrering af forhold i strid med udstykningslovens [§ 16](https://www.retsinformation.dk/eli/lta/2024/53#P16 "Udstykningsloven § 16"){ .br18-ref .br18-ref--ext }, jf. udstykningslovens [§ 21, stk. 1](https://www.retsinformation.dk/eli/lta/2024/53#P21 "Udstykningsloven § 21"){ .br18-ref .br18-ref--ext }, eller påbyde parterne at ophæve aftalen, såfremt den nødvendige matrikulære forandring ikke finder sted, jf. udstykningslovens [§ 22](https://www.retsinformation.dk/eli/lta/2024/53#P22 "Udstykningsloven § 22"){ .br18-ref .br18-ref--ext }. De relevante matrikulære ændringer vil være udstykning af en ny samlet fast ejendom eller arealoverførsel til en anden samlet fast ejendom, der ejes af den, der udøver brugsretten.
 
-Undladelse af at gennemføre den nødvendige matrikulære ændring, jf. udstykningslovens § 21, stk. 1, eller undladelse af at efterkomme påbud, jf. udstykningslovens § 22, kan straffes med bøde efter udstykningslovens § 48.
+Undladelse af at gennemføre den nødvendige matrikulære ændring, jf. udstykningslovens [§ 21, stk. 1](https://www.retsinformation.dk/eli/lta/2024/53#P21 "Udstykningsloven § 21"){ .br18-ref .br18-ref--ext }, eller undladelse af at efterkomme påbud, jf. udstykningslovens [§ 22](https://www.retsinformation.dk/eli/lta/2024/53#P22 "Udstykningsloven § 22"){ .br18-ref .br18-ref--ext }, kan straffes med bøde efter udstykningslovens [§ 48](https://www.retsinformation.dk/eli/lta/2024/53#P48 "Udstykningsloven § 48"){ .br18-ref .br18-ref--ext }.
 
 Det bemærkes, at Geodatastyrelsens beføjelser efter udstykningsloven ikke har til formål og er ikke egnede til, at løse almindelige naboretlige konflikter om overskridelse af skel. En tvist om byggeri på naboejendom må efter omstændighederne i sidste ende afgøres privatretligt ved domstolene.
 

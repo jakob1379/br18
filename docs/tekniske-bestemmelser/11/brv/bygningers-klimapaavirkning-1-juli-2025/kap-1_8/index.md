@@ -46,7 +46,7 @@
 
 ### 1.8. Levetider {#b7facc0b-7a44-4398-be71-c1fd8daa0640}
 
-Afvigelse fra levetidstabellenSom nærmere uddybet i vejledning: § 297, stk. 4, udføres beregningen for bygningers klimapåvirkning over en betragtningsperiode på 50 år. Det 50-årige perspektiv medfører, at beregningen skal inkludere klimapåvirkninger fra udskiftning af bygningsdele og materialer i løbet af denne betragtningsperiode.
+Afvigelse fra levetidstabellenSom nærmere uddybet i vejledning: [§ 297, stk. 4](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref }, udføres beregningen for bygningers klimapåvirkning over en betragtningsperiode på 50 år. Det 50-årige perspektiv medfører, at beregningen skal inkludere klimapåvirkninger fra udskiftning af bygningsdele og materialer i løbet af denne betragtningsperiode.
 
 For at vide hvornår udskiftningerne sker, skal der knyttes forventede levetider til bygningsdele og -materialer.
 
@@ -68,9 +68,9 @@ Modul C3-C4 i endt-levetid regnes med, da det antages, at levetiden ophører ved
 
 #### *Forskel mellem udskiftninger og vedligehold*
 
-Vedligehold af en bygning (modul B2) medregnes ikke i beregningen af bygningens klimapåvirkning, jf. § 297. Der fremgår derfor ikke levetider for maling, da fornyelse af maling er påvirkninger, der er del af modul B2 (vedligehold), men ikke del af udskiftninger (modul B4). Andet arbejde, som hører under vedligehold, som fx slibning af gulve, oliebehandling af træ mm. indgår heller ikke i beregningen.
+Vedligehold af en bygning (modul B2) medregnes ikke i beregningen af bygningens klimapåvirkning, jf. [§ 297](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref }. Der fremgår derfor ikke levetider for maling, da fornyelse af maling er påvirkninger, der er del af modul B2 (vedligehold), men ikke del af udskiftninger (modul B4). Andet arbejde, som hører under vedligehold, som fx slibning af gulve, oliebehandling af træ mm. indgår heller ikke i beregningen.
 
-Det er yderligere vigtig at fremhæve, at slutbehandlingen ved opførelsen af bygningen stadig medtages, jf. BR18, bilag 2, tabel 6. Her fremgår, at ”Bygningsdele, der indgår i den færdige bygning som tag, ydervægge, indervægge, dæk og lignende, medregnes fra den indvendige overflade til den udvendige overflade”. Hvis overflader udskiftes, medtages disse fortsat under modul B4.
+Det er yderligere vigtig at fremhæve, at slutbehandlingen ved opførelsen af bygningen stadig medtages, jf. BR18, [bilag 2, tabel 6](../../../../../bilag/b2/bilag_2/#d48904a5-9473-4525-a12f-3ae09559ec90 "BR18 bilag 2, tabel 6"){ .br18-ref }. Her fremgår, at ”Bygningsdele, der indgår i den færdige bygning som tag, ydervægge, indervægge, dæk og lignende, medregnes fra den indvendige overflade til den udvendige overflade”. Hvis overflader udskiftes, medtages disse fortsat under modul B4.
 
 #### *Afvigelse fra levetidstabellen*
 

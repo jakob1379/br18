@@ -40,9 +40,9 @@ Byggelovgivningens bestemmelser om afstand til skel og fravigelser herfra foruds
 
 Lovliggørelsessager, i forhold til byggeri, der er opført over skel på anden mands grund, kan opstå enten ved, at der ikke er indhentet forudgående byggetilladelse, eller ved at byggeriet er opført i strid med byggeloven og bygningsreglementet, eksempelvis fordi der er tvivl om skellets placering.
 
-Det fremgår af byggelovens § 16C, at kommunen er forpligtet til at søge et ulovligt forhold lovliggjort, når kommunen bliver opmærksom på et ulovligt forhold, medmindre det er af ganske underordnet betydning
+Det fremgår af byggelovens [§ 16C](https://www.retsinformation.dk/eli/lta/2016/1178#P16C "Byggeloven § 16C"){ .br18-ref .br18-ref--ext }, at kommunen er forpligtet til at søge et ulovligt forhold lovliggjort, når kommunen bliver opmærksom på et ulovligt forhold, medmindre det er af ganske underordnet betydning
 
-I medfør af byggelovens § 17 er det den til enhver tid værende ejer af en ejendom, der er ansvarlig for, at ejendommen er lovlig.
+I medfør af byggelovens [§ 17](https://www.retsinformation.dk/eli/lta/2016/1178#P17 "Byggeloven § 17"){ .br18-ref .br18-ref--ext } er det den til enhver tid værende ejer af en ejendom, der er ansvarlig for, at ejendommen er lovlig.
 
 Såfremt der er tale om en ulovlig brug af ejendommen, kan et påbud om lovliggørelse ligeledes rettes mod brugeren af ejendommen.
 

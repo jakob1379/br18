@@ -65,11 +65,11 @@
 
 En statiker og brandrådgiver, der er certificeret jf. bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet (certificeringsbekendtgørelsen) bliver løbende kontrolleret af det certificeringsorgan, som har certificeret vedkommende.
 
-Certificeringsorganet kan fratage en certificeret statiker eller brandrådgiver deres certificering (jf. certificeringsbekendtgørelsen § 38), såfremt certificeringsorganet fx i forbindelse med den årlige kontrol af den certificeredes virke eller ved en konkret anmeldelse af den certificerede finder, at 
+Certificeringsorganet kan fratage en certificeret statiker eller brandrådgiver deres certificering (jf. certificeringsbekendtgørelsen [§ 38](https://www.retsinformation.dk/eli/lta/2023/1693#P38 "Certificeringsbekendtgørelsen § 38"){ .br18-ref .br18-ref--ext }), såfremt certificeringsorganet fx i forbindelse med den årlige kontrol af den certificeredes virke eller ved en konkret anmeldelse af den certificerede finder, at 
 
 1.  Den certificerede statiker eller brandrådgiver ikke inden for en af certificeringsorganet fastsat frist kan dokumentere, at betingelserne for certificering er opfyldt.
 2.  Certificeringsorganet på baggrund af den udførte kontrol ikke finder, at den certificerede statiker eller brandrådgiver lever op til betingelserne for certificering.
-3.  Certificeringsorganet finder, at den certificerede statiker eller brandrådgiver ikke virker i overensstemmelse med krav til certificeret statiker og brandrådgivers virke, jf. BR18, kapitel 32-34.
+3.  Certificeringsorganet finder, at den certificerede statiker eller brandrådgiver ikke virker i overensstemmelse med krav til certificeret statiker og brandrådgivers virke, jf. BR18, [kapitel 32-34](../../../../../ovrige-bestemmelser/32/krav/ "BR18 kapitel 32-34"){ .br18-ref }.
 4.  Certificeringsorganet finder, at den certificerede statiker eller brandrådgiver på anden vis ikke opfylder betingelserne i denne bekendtgørelse.
 
 Såfremt et certificeringsorgan fratager en certificeret statiker eller brandrådgiver dennes certificering, orienterer certificeringsorganet kommunalbestyrelsen i de kommuner, hvor den certificerede har virket som certificeret statiker eller brandrådgiver. Orienteringen sker på baggrund af den liste vedkommende årligt indsender til certificeringsorganet over projekter, hvorpå vedkommende arbejder eller har arbejdet som certificeret det seneste år.
@@ -80,13 +80,13 @@ Hvorvidt en certificeret rådgiver er forpligtet til at orientere nuværende og 
 
 Såfremt en certificeret statiker eller brandrådgiver får frataget sin certificering, mens vedkommende virker som certificeret på en igangværende byggesag, hvortil der er givet byggetilladelse, skal bygningsejer udpege en ny certificeret statiker eller brandrådgiver, der er certificeret til at kunne virke i den klasse, som projektet er indplaceret i jf. byggetilladelsen.
 
-Bygningsejer skal iht. BR18, § 37 oplyse kommunalbestyrelsen om udpegning af ny certificeret statiker eller brandrådgiver samt indsende dokumentation herfor i form af kopi af den udpegende certificerede statiker eller brandrådgivers certifikat.
+Bygningsejer skal iht. BR18, [§ 37](../../../../../administrative-bestemmelser/krav/#paragraf-37 "BR18 § 37"){ .br18-ref } oplyse kommunalbestyrelsen om udpegning af ny certificeret statiker eller brandrådgiver samt indsende dokumentation herfor i form af kopi af den udpegende certificerede statiker eller brandrådgivers certifikat.
 
-Såfremt forudsætningerne for byggetilladelsen ikke længere er tilstede, skal bygningsejer iht. BR18, § 37, stk. 2, oplyse kommunalbestyrelsen herom.
+Såfremt forudsætningerne for byggetilladelsen ikke længere er tilstede, skal bygningsejer iht. BR18, [§ 37, stk. 2](../../../../../administrative-bestemmelser/krav/#paragraf-37 "BR18 § 37"){ .br18-ref }, oplyse kommunalbestyrelsen herom.
 
-Projektet overdrages (jf. BR18, § 544, stk. 3 eller § 551, stk. 3) til den nye udpegede certificeret statiker eller brandrådgiver.
+Projektet overdrages (jf. BR18, [§ 544, stk. 3](../../../../../ovrige-bestemmelser/33/krav/#paragraf-544 "BR18 § 544"){ .br18-ref } eller [§ 551, stk. 3](../../../../../ovrige-bestemmelser/34/krav/#paragraf-551 "BR18 § 551"){ .br18-ref }) til den nye udpegede certificeret statiker eller brandrådgiver.
 
-Dette betyder i praksis, at den nye certificerede statiker eller brandrådgiver, der overtager projektet skal foretage en maksimal (MAX) kontrol af den dokumentation, der overdrages, svarende til virket for certificeret statiker eller brandrådgiver som kontrollant, idet der ikke kan foreligge en gyldig overdragelseserklæring fra den overdragende certificerede statiker eller brandrådgiver (jf. BR18, § 544, stk. 1 eller § 551 stk. 1), da denne ikke længere er certificeret.
+Dette betyder i praksis, at den nye certificerede statiker eller brandrådgiver, der overtager projektet skal foretage en maksimal (MAX) kontrol af den dokumentation, der overdrages, svarende til virket for certificeret statiker eller brandrådgiver som kontrollant, idet der ikke kan foreligge en gyldig overdragelseserklæring fra den overdragende certificerede statiker eller brandrådgiver (jf. BR18, [§ 544, stk. 1](../../../../../ovrige-bestemmelser/33/krav/#paragraf-544 "BR18 § 544"){ .br18-ref } eller [§ 551 stk. 1](../../../../../ovrige-bestemmelser/34/krav/#paragraf-551 "BR18 § 551"){ .br18-ref }), da denne ikke længere er certificeret.
 
 **Byggesag med ibrugtagningstilladelse**
 

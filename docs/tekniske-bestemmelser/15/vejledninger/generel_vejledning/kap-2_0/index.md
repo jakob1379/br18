@@ -24,15 +24,15 @@
 
 ### 2.0. Projektering og udførelse af konstruktioner {#95179d01-71d9-4c1e-b28e-10c919ec51a0}
 
-Det fremgår af bygningsreglementet 2018, kap. 15, § 344, at konstruktioner skal projekteres og udføres, så de kan modstå de normalt forekommende statiske og dynamiske påvirkninger i forhold til konstruktionens placering og anvendelse.
+Det fremgår af bygningsreglementet 2018, [kap. 15](../../../krav/ "BR18 kapitel 15"){ .br18-ref }, [§ 344](../../../krav/#paragraf-344 "BR18 § 344"){ .br18-ref }, at konstruktioner skal projekteres og udføres, så de kan modstå de normalt forekommende statiske og dynamiske påvirkninger i forhold til konstruktionens placering og anvendelse.
 
 Udover dimensionering overfor de forekommende påvirkninger, herunder også opfyldelse af brandkrav, kan krav til f.eks. lydisolering og komfort være betydende for konstruktioners udformning. Projektering og udførelse af konstruktioner skal ske i overensstemmelse med *Eurocode 0 - DS/EN 1990 Projekteringsgrundlag for bærende konstruktioner* med nationalt anneks *DS/EN 1990 DK NA*. Denne Eurocode er ikke materialespecifik og skal sammen med det nationale anneks således benyttes ved projektering og udførelse af alle typer bærende konstruktioner.
 
-I forhold til laster, gælder det dog særligt for opvarmede væksthuse ved gartnerier samt teltoverdækning af beholdere for opbevaring af flydende husdyrgødning, at kravene til snelast kan reduceres med 65 pct, jf. bygningsreglementet 2018, kap. 15, § 344, stk. 3, da det forventes at der ikke sker en ophobning af sne, på grund af den manglende isolering af konstruktioner mod det fri.
+I forhold til laster, gælder det dog særligt for opvarmede væksthuse ved gartnerier samt teltoverdækning af beholdere for opbevaring af flydende husdyrgødning, at kravene til snelast kan reduceres med 65 pct, jf. bygningsreglementet 2018, [kap. 15](../../../krav/ "BR18 kapitel 15"){ .br18-ref }, [§ 344, stk. 3](../../../krav/#paragraf-344 "BR18 § 344"){ .br18-ref }, da det forventes at der ikke sker en ophobning af sne, på grund af den manglende isolering af konstruktioner mod det fri.
 
-I forhold til ovenstående, kan et væksthus regnes som opvarmet såfremt det er udført med opvarmning med automatisk back-up eller nødstrømforsyning, der kan smelte eventuel sne på taget. Såfremt opvarmningen ikke er tilstrækkelig og ikke kan smelte sne på taget, kan § 344, stk. 3 ikke benyttes.
+I forhold til ovenstående, kan et væksthus regnes som opvarmet såfremt det er udført med opvarmning med automatisk back-up eller nødstrømforsyning, der kan smelte eventuel sne på taget. Såfremt opvarmningen ikke er tilstrækkelig og ikke kan smelte sne på taget, kan [§ 344, stk. 3](../../../krav/#paragraf-344 "BR18 § 344"){ .br18-ref } ikke benyttes.
 
-Udover Eurocode 0, er der også en række materialespecifikke eurocodes med dertil hørende nationale annekser, som de bærende konstruktioner skal projekteres og udføres efter, jf. bygningsreglementet 2018, kap. 15, §§ 345-351. Dette omfatter beton-, stål-, komposit-, træ-, murværk og aluminiumkonstruktioner samt fundamenter.
+Udover Eurocode 0, er der også en række materialespecifikke eurocodes med dertil hørende nationale annekser, som de bærende konstruktioner skal projekteres og udføres efter, jf. bygningsreglementet 2018, [kap. 15](../../../krav/ "BR18 kapitel 15"){ .br18-ref }, [§§ 345-351](../../../krav/#paragraf-345 "BR18 §§ 345-351"){ .br18-ref }. Dette omfatter beton-, stål-, komposit-, træ-, murværk og aluminiumkonstruktioner samt fundamenter.
 
 [![](../../../../../assets/img/linkbox/ds_en_iso_linkbox.svg)](#)
 

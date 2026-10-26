@@ -34,17 +34,17 @@ Til brug for beregning af klimapåvirkningen skal udledningerne fra de materiale
 
 For at sikre ensartede livscyklusvurderinger med samme afgrænsning for alle bygninger er der udarbejdet en oversigt over de dele af en bygning, der som minimum skal indgå i livscyklusvurderingen (markeret med ja), herunder også præcisering af det detaljeringsniveau, der skal ligge til grund for opgørelsen. Oversigten fremgår af [BR18, bilag 2, tabel 6](../../../../../bilag/b2/bilag_2/tabel_6/){rel="noopener noreferrer" target="_blank"} (nyt vindue). Der skelnes generelt mellem bygningsdele og så de materialer, der indgår i hver bygningsdel.
 
-I det følgende uddybes, hvordan BR18, bilag 2, tabel 6 skal anvendes i forbindelse med beregningen. Det uddybes også, hvordan man kan opgøre klimapåvirkningerne for visse dele af bygningen, hvor det ikke er muligt at opgøre de enkelte materialer grundet manglende data, jf. [BR18, bilag 2, tabel 7](../../../../../bilag/b2/bilag_2/tabel_7/){rel="noopener noreferrer" target="_blank"} (nyt vindue).
+I det følgende uddybes, hvordan BR18, [bilag 2, tabel 6](../../../../../bilag/b2/bilag_2/#d48904a5-9473-4525-a12f-3ae09559ec90 "BR18 bilag 2, tabel 6"){ .br18-ref } skal anvendes i forbindelse med beregningen. Det uddybes også, hvordan man kan opgøre klimapåvirkningerne for visse dele af bygningen, hvor det ikke er muligt at opgøre de enkelte materialer grundet manglende data, jf. [BR18, bilag 2, tabel 7](../../../../../bilag/b2/bilag_2/tabel_7/){rel="noopener noreferrer" target="_blank"} (nyt vindue).
 
 <span id="787e83a6-b7d9-4a83-a4be-37574156daef"></span>
 
 #### **1.4.1 Tabellens opbygning og anvendelse**
 
-BR18, bilag 2, tabel 6 er opbygget sådan, at der først er delt op i overordnede bygningskategorier. Hver kategori indeholder en opdeling i typer, og for hver type fremgår de enkelte bygningsdele. Hver bygningsdel har en hovedgruppe og en undergruppe, disse to grupperinger er med som vejledning og er derfor frivillige at benytte. Se et uddrag af tabellen nedenfor.
+BR18, [bilag 2, tabel 6](../../../../../bilag/b2/bilag_2/#d48904a5-9473-4525-a12f-3ae09559ec90 "BR18 bilag 2, tabel 6"){ .br18-ref } er opbygget sådan, at der først er delt op i overordnede bygningskategorier. Hver kategori indeholder en opdeling i typer, og for hver type fremgår de enkelte bygningsdele. Hver bygningsdel har en hovedgruppe og en undergruppe, disse to grupperinger er med som vejledning og er derfor frivillige at benytte. Se et uddrag af tabellen nedenfor.
 
 ![](../../../../../media/barepaqs/vejledning_figur-41-opdatering-2025.png)
 
-Figur 4.1: Eksempel fra BR18, bilag 2, tabel 6, for hvilke bygningsdele, der skal medtages for bygningsdele i terræn.
+Figur 4.1: Eksempel fra BR18, [bilag 2, tabel 6](../../../../../bilag/b2/bilag_2/#d48904a5-9473-4525-a12f-3ae09559ec90 "BR18 bilag 2, tabel 6"){ .br18-ref }, for hvilke bygningsdele, der skal medtages for bygningsdele i terræn.
 
 I figur 4.1 ses en særlig vejledende udgave af tabellen, hvor der ud over de bygningsdele, der indgår i tabellen, er tilføjet flere rækker som eksempler på dele af byggeriet, der ikke skal medtages. Hvorvidt en bygningsdel skal medtages i beregningen, fremgår af kolonnen ’Med’, i den vejledende udgave af tabellen. Hvis der for den konkrete bygningsdel står ”Ja”, så skal bygningsdelen og tilhørende materialer medregnes. For at undgå mulige tvivlstilfælde er der også en række bygningsdele med i tabellen, som ikke skal indgå i beregningen. Disse er angivet ved et ”Nej”.
 
@@ -52,7 +52,7 @@ Af tabellen fremgår endvidere informationer om Detaljeringsniveauet, som kan af
 
 Endvidere fremgår det for nogle bygningsdele; ”Evt. som mængde råmateriale”. For disse bygningsdele er det muligt at opgøre påvirkningen ved at opgøre mængden af råmateriale, frem for at opgøre påvirkningen fra det specifikke produkt. Dette gælder særligt for tekniske installationer, hvor opgørelse af klimapåvirkninger kan være vanskelig at foretage. Se nærmere herom under ”Vejledningen til datagrundlaget afsnit 1.5; Mængde råmateriale”.
 
-Overordnet kan nævnes, at for de tekniske installationer medregnes tekniske anlæg og hovedføringsveje, dog kun de lige kanaler og rør, samt ventilationsaggregat, inklusiv varme- og køleflader samt kanalsystemet til ventilation. Indblæsningsarmaturer, spjæld eller lignende medregnes ikke. Nærmere afgrænsninger fremgår ligesom for de øvrige bygningsdele af BR18, bilag 2, tabel 6.
+Overordnet kan nævnes, at for de tekniske installationer medregnes tekniske anlæg og hovedføringsveje, dog kun de lige kanaler og rør, samt ventilationsaggregat, inklusiv varme- og køleflader samt kanalsystemet til ventilation. Indblæsningsarmaturer, spjæld eller lignende medregnes ikke. Nærmere afgrænsninger fremgår ligesom for de øvrige bygningsdele af BR18, [bilag 2, tabel 6](../../../../../bilag/b2/bilag_2/#d48904a5-9473-4525-a12f-3ae09559ec90 "BR18 bilag 2, tabel 6"){ .br18-ref }.
 
 #### **1.4.2 Hoved- og undergruppe**
 
@@ -98,7 +98,7 @@ Visse komponenter som badekabiner, skakt-moduler eller andre komponenter der lev
 
 #### **1.4.6    Øvrige principper for hvilke bygningsdele, der skal medtages**
 
-Udover selve tabellen indeholder BR18, bilag 2, tabel 6, et indledende afsnit, som beskriver overordnede principper for, hvad der skal medtages, og hvilke forenklinger, der kan foretages i beregning for bygningers klimapåvirkning.
+Udover selve tabellen indeholder BR18, [bilag 2, tabel 6](../../../../../bilag/b2/bilag_2/#d48904a5-9473-4525-a12f-3ae09559ec90 "BR18 bilag 2, tabel 6"){ .br18-ref }, et indledende afsnit, som beskriver overordnede principper for, hvad der skal medtages, og hvilke forenklinger, der kan foretages i beregning for bygningers klimapåvirkning.
 
 #### **1.4.7    Accepterede udeladelser**
 
@@ -145,11 +145,11 @@ Bygningstypologier, som ikke er dækket af ovenstående, kan anvende standardvæ
 
 1.  Øvrigt byggeri
 
-Disse værdier fremgår af BR18, bilag 2, tabel 7.
+Disse værdier fremgår af BR18, [bilag 2, tabel 7](../../../../../bilag/b2/bilag_2/#4f10dbac-ba91-4bad-9f1e-2b7054ec8547 "BR18 bilag 2, tabel 7"){ .br18-ref }.
 
-Standard installationsværdierne er angivet i enheden kg CO2-ækvivalenter pr. m2 opvarmet areal pr. år. Værdierne skaleres altså med arealet, som svarer til det samlede opvarmet etageareal, jf. § 256 stk. 3, plus arealet for opvarmet kælder. Hvis der er forskellige anvendelser af en bygning, kan man arealvægte standardværdierne.
+Standard installationsværdierne er angivet i enheden kg CO2-ækvivalenter pr. m2 opvarmet areal pr. år. Værdierne skaleres altså med arealet, som svarer til det samlede opvarmet etageareal, jf. [§ 256 stk. 3](../../../krav/#paragraf-256 "BR18 § 256"){ .br18-ref }, plus arealet for opvarmet kælder. Hvis der er forskellige anvendelser af en bygning, kan man arealvægte standardværdierne.
 
-Værdierne er fastsat ud fra en betragtningsperiode på 50 år. Det betyder, at der ikke skal knyttes levetider til værdierne (læs mere om levetider i vejledningen om § 297, stk. 10). Udskiftninger undervejs i betragtningsperioden er indregnet i henholdsvis modulerne A1-A3 og C3/C4. Klimapåvirkningerne fra installationer ved anvendelse af standard installationsværdier fremgår derfor kun for modulerne A1-A3 og C3 og C4, og modul D.
+Værdierne er fastsat ud fra en betragtningsperiode på 50 år. Det betyder, at der ikke skal knyttes levetider til værdierne (læs mere om levetider i vejledningen om [§ 297, stk. 10](../../../krav/#paragraf-297 "BR18 § 297"){ .br18-ref }). Udskiftninger undervejs i betragtningsperioden er indregnet i henholdsvis modulerne A1-A3 og C3/C4. Klimapåvirkningerne fra installationer ved anvendelse af standard installationsværdier fremgår derfor kun for modulerne A1-A3 og C3 og C4, og modul D.
 
 Da værdierne er opdelt i tre kategorier
 
@@ -171,9 +171,9 @@ Hvis en bygning ikke afleveres i en sådan stand, at den er klar til ibrugtagnin
 
 #### **1.4.11    Solceller**
 
-Materialernes klimapåvirkning regnes kun med til den andel af solceller, hvis ydelse kan indregnes i energiberegningen. Dette er en afgrænsning, jf. BR18, bilag 2, tabel 6, under ”Solcelleanlæg”. Det vil sige, at kun materialernes klimapåvirkning fra de solceller, som er medregnet i bygningens driftsforbrug eller indgår som en del af tagbeklædningen, medtages i modulerne A1-5, B4, C3-4 og D. Se nærmere herom under vejledning til stk. 11 emissionsfaktorer.
+Materialernes klimapåvirkning regnes kun med til den andel af solceller, hvis ydelse kan indregnes i energiberegningen. Dette er en afgrænsning, jf. BR18, [bilag 2, tabel 6](../../../../../bilag/b2/bilag_2/#d48904a5-9473-4525-a12f-3ae09559ec90 "BR18 bilag 2, tabel 6"){ .br18-ref }, under ”Solcelleanlæg”. Det vil sige, at kun materialernes klimapåvirkning fra de solceller, som er medregnet i bygningens driftsforbrug eller indgår som en del af tagbeklædningen, medtages i modulerne A1-5, B4, C3-4 og D. Se nærmere herom under vejledning til stk. 11 emissionsfaktorer.
 
-Hvis der for en bygning opføres solceller, som ikke placeres på bygningen, men et andet sted, skal disse stadigvæk medtages i beregningen af bygningers klimapåvirkning, såfremt disse medtages i energirammen, jf. § 259 og § 260.
+Hvis der for en bygning opføres solceller, som ikke placeres på bygningen, men et andet sted, skal disse stadigvæk medtages i beregningen af bygningers klimapåvirkning, såfremt disse medtages i energirammen, jf. [§ 259](../../../krav/#f803fa8e-fd9d-42a3-b49c-ec1fbb3cb655 "BR18 § 259"){ .br18-ref } og [§ 260](../../../krav/#2ec6323f-f853-4f09-9134-38834617a035 "BR18 § 260"){ .br18-ref }.
 
 <span id="eksempler"></span>
 
@@ -181,9 +181,9 @@ Hvis der for en bygning opføres solceller, som ikke placeres på bygningen, men
 
 #### **1.4.13   Eksempel på en mængdeberegning for samlinger**
 
-En større fleretagers kontorbygning projekteres som søjle-bjælkekonstruktion i CLT-træ. Søjlerne er forankret i fundamentet ved hjælp af fodbeslag, mens søjler og bjælker samles i etagekryds. Begge samlinger udføres i metal. Samlingerne er kraftige og går udover mindre samlinger med sømplader i materialemængde. Det betyder, at disse samlinger skal opgørelse i beregningen om bygningers klimapåvirkning. Det kan være svært at finde mængder på samlinger og det rette data, jf. BR18, bilag 2, tabel 7.
+En større fleretagers kontorbygning projekteres som søjle-bjælkekonstruktion i CLT-træ. Søjlerne er forankret i fundamentet ved hjælp af fodbeslag, mens søjler og bjælker samles i etagekryds. Begge samlinger udføres i metal. Samlingerne er kraftige og går udover mindre samlinger med sømplader i materialemængde. Det betyder, at disse samlinger skal opgørelse i beregningen om bygningers klimapåvirkning. Det kan være svært at finde mængder på samlinger og det rette data, jf. BR18, [bilag 2, tabel 7](../../../../../bilag/b2/bilag_2/#4f10dbac-ba91-4bad-9f1e-2b7054ec8547 "BR18 bilag 2, tabel 7"){ .br18-ref }.
 
-Herunder vises, hvordan der findes mængden på samlinger og hvilket data, der vælges ift. BR18, bilag 2, tabel 7. Selvom bygningens samlede klimapåvirkning kun skal angives med et decimal, kan det for mere nøjagtige beregninger anbefales at være mere præcis i mellemregningerne.
+Herunder vises, hvordan der findes mængden på samlinger og hvilket data, der vælges ift. BR18, [bilag 2, tabel 7](../../../../../bilag/b2/bilag_2/#4f10dbac-ba91-4bad-9f1e-2b7054ec8547 "BR18 bilag 2, tabel 7"){ .br18-ref }. Selvom bygningens samlede klimapåvirkning kun skal angives med et decimal, kan det for mere nøjagtige beregninger anbefales at være mere præcis i mellemregningerne.
 
 <table style="width:100%;" data-border="0">
 <colgroup>
@@ -346,7 +346,7 @@ Herunder vises, hvordan der findes mængden på samlinger og hvilket data, der v
 </tbody>
 </table>
 
-Følgende miljødata fra BR18, bilag 2, tabel 7, vælges:
+Følgende miljødata fra BR18, [bilag 2, tabel 7](../../../../../bilag/b2/bilag_2/#4f10dbac-ba91-4bad-9f1e-2b7054ec8547 "BR18 bilag 2, tabel 7"){ .br18-ref }, vælges:
 
 #### **Datagrundlaget for materialerne**
 
@@ -359,7 +359,7 @@ Følgende miljødata fra BR18, bilag 2, tabel 7, vælges:
 
 #### **1.4.13    Eksempel for anvendelse af standardværdier for installatione**r
 
-Bygherren skal lave en beregning om bygningens klimapåvirkning for sit enfamiliehus. Grundet arbejdsomfanget vurderes det mest optimalt at bruge standardværdier for installation for dokumentationen om bygningens klimapåvirkning, da der spares tid på den måde. Følgende værdier fra BR18, bilag 2, tabel 7, er relevante for enfamiliehuset; #S0001, #S0002, #S0003.
+Bygherren skal lave en beregning om bygningens klimapåvirkning for sit enfamiliehus. Grundet arbejdsomfanget vurderes det mest optimalt at bruge standardværdier for installation for dokumentationen om bygningens klimapåvirkning, da der spares tid på den måde. Følgende værdier fra BR18, [bilag 2, tabel 7](../../../../../bilag/b2/bilag_2/#4f10dbac-ba91-4bad-9f1e-2b7054ec8547 "BR18 bilag 2, tabel 7"){ .br18-ref }, er relevante for enfamiliehuset; #S0001, #S0002, #S0003.
 
 <table data-border="0">
 <tbody>
@@ -401,7 +401,7 @@ Bygherren skal lave en beregning om bygningens klimapåvirkning for sit enfamili
 </tbody>
 </table>
 
-Bygherren kender det samlede opvarmede etageareal, jf. § 256 stk. 3, som i dette eksempel svarer til 110 m2.
+Bygherren kender det samlede opvarmede etageareal, jf. [§ 256 stk. 3](../../../krav/#paragraf-256 "BR18 § 256"){ .br18-ref }, som i dette eksempel svarer til 110 m2.
 
 Klimapåvirkningen for afløb for enfamiliehus for bygningens livscyklus beregnes vha.:
 
@@ -419,13 +419,13 @@ Samme beregning foretages også for vand samt varme, ventilation og køl.
 
 Et etageboligbyggeri færdigmeldes uden køkken og bad og overfladebehandlinger i disse rum, da det er op til fremtidige købere at indrette dette personligt.
 
-Gulve og vægmaling samt fliser er nødvendige for at sikre funktionaliteten og skal ifølge BR18, bilag 2, tabel 6, medregnes. Beregningen af bygningers klimapåvirkning skal afspejle de mængder og materialer, der anvendes i bygningen, når den står færdig og kan tages i brug. Da de sidste dele til endelig ibrugtagning ikke kendes, skal disse opgøres ud fra bedste vurdering. Det vil sige, at påvirkninger medtages, selvom den faktiske overfladebehandling ikke kendes.
+Gulve og vægmaling samt fliser er nødvendige for at sikre funktionaliteten og skal ifølge BR18, [bilag 2, tabel 6](../../../../../bilag/b2/bilag_2/#d48904a5-9473-4525-a12f-3ae09559ec90 "BR18 bilag 2, tabel 6"){ .br18-ref }, medregnes. Beregningen af bygningers klimapåvirkning skal afspejle de mængder og materialer, der anvendes i bygningen, når den står færdig og kan tages i brug. Da de sidste dele til endelig ibrugtagning ikke kendes, skal disse opgøres ud fra bedste vurdering. Det vil sige, at påvirkninger medtages, selvom den faktiske overfladebehandling ikke kendes.
 
-Der medtages standard fliser, vægbehandling og en typisk gulvbelægning i køkken og bad, samt den nødvendige gulvopbygning hertil. Værdier hertil findes i BR18, bilag 2, tabel 7.
+Der medtages standard fliser, vægbehandling og en typisk gulvbelægning i køkken og bad, samt den nødvendige gulvopbygning hertil. Værdier hertil findes i BR18, [bilag 2, tabel 7](../../../../../bilag/b2/bilag_2/#4f10dbac-ba91-4bad-9f1e-2b7054ec8547 "BR18 bilag 2, tabel 7"){ .br18-ref }.
 
 For fliser vælges for eksempel datasættet #G0340, Keramikfliser, u-glaseret. Det betyder ikke, at den fremtidig ejer af bygningen skal anvende disse typer af fliser.
 
-Køkken og bad inventar medtages ikke, da det ikke skal opgøres, jf. BR18, bilag 2, tabel 6.
+Køkken og bad inventar medtages ikke, da det ikke skal opgøres, jf. BR18, [bilag 2, tabel 6](../../../../../bilag/b2/bilag_2/#d48904a5-9473-4525-a12f-3ae09559ec90 "BR18 bilag 2, tabel 6"){ .br18-ref }.
 
 ### 1.5. Datagrundlag {#2bea61d1-61aa-4d7b-a6e9-5411306c289d}
 

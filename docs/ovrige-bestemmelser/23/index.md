@@ -65,7 +65,7 @@ Højder måles lodret fra naturligt terræn. For bebyggelser på skrånende terr
 1.  Terrænforholdene på de tilstødende grunde og karakteren af den omliggende bebyggelse.
 2.  At der skal skabes rimelige bebyggelsesmuligheder og adgangsforhold for den pågældende grund.
 
-   *Stk.* *3.* Bebyggelse i skrånende terræn kan opføres uden fastsættelse af niveauplaner, såfremt højden målt lodret fra terræn ikke overstiger de i §§ 176-186 fastsatte grænser for bebyggelsens højde samt den angivne afstand til skel.
+   *Stk.* *3.* Bebyggelse i skrånende terræn kan opføres uden fastsættelse af niveauplaner, såfremt højden målt lodret fra terræn ikke overstiger de i [§§ 176-186](../../tekniske-bestemmelser/08/krav/#paragraf-176 "BR18 §§ 176-186"){ .br18-ref } fastsatte grænser for bebyggelsens højde samt den angivne afstand til skel.
 
 *Stk. 4.* Antenner, hvis øverste punkt ikke er mere end 5,50 m over tagfladen, tagkviste, skorstenspiber, ventilationshætter, gavltrekanter og tagudhæng, medregnes ikke ved beregningen af en bygningshøjde, såfremt de er af sædvanligt omfang. Ved fastlæggelse af bebyggelsens højde kan kommunalbestyrelsen endvidere beslutte at se bort fra trappehuse, elevatorskakter, ventilationsanlæg, varmepumper, solcelleanlæg, solfangere, skilte og lysreklamer.
 

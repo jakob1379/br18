@@ -28,7 +28,7 @@
 
 ## Tabel 7 - Generisk datagrundlag {#4f10dbac-ba91-4bad-9f1e-2b7054ec8547}
 
-Dette dokument indeholder det generiske datagrundlag for modulerne A1-A3, C3-C4 og D, jf. § 297, stk. 7.
+Dette dokument indeholder det generiske datagrundlag for modulerne A1-A3, C3-C4 og D, jf. [§ 297, stk. 7](../../../../tekniske-bestemmelser/11/krav/#paragraf-297 "BR18 § 297"){ .br18-ref }.
 
 Ved anvendelsen af datagrundlaget anvendes det mest repræsentative datasæt for materialet. Såfremt der ikke findes et repræsentativt datasæt, anvendes data for de forskellige delkomponenter. Dog kan der altid anvendes en opgørelse af mængde råmateriale hvor dette fremgår af kolonnen Detaljeringsniveau i [bilag 2, tabel 6](../../../../media/4rqdskud/tabel-6-2025.xlsx "Tabel 6 (2025)"){rel="noopener" target="_blank"}.
 
@@ -40,7 +40,7 @@ For genbrug anvendes de undtagelser, som fremgår nederst.
 
 *Standardværdier for installationer*
 
-Standardværdierne herunder kan anvendes af bygningsejer som alternativ til faktiske mængder ved at opgøre installationernes klimapåvirkning alene på baggrund af areal. Det anvendte areal i m2 er det samlede opvarmede etageareal (jf. § 256, stk. 3) plus det opvarmede kælderareal. Det således fremkomne areal ganges med standardværdien. Den således fremkomne værdi benyttes i stedet for en opgørelse af installationernes faktiske klimapåvirkning.
+Standardværdierne herunder kan anvendes af bygningsejer som alternativ til faktiske mængder ved at opgøre installationernes klimapåvirkning alene på baggrund af areal. Det anvendte areal i m2 er det samlede opvarmede etageareal (jf. [§ 256, stk. 3](../../../../tekniske-bestemmelser/11/krav/#paragraf-256 "BR18 § 256"){ .br18-ref }) plus det opvarmede kælderareal. Det således fremkomne areal ganges med standardværdien. Den således fremkomne værdi benyttes i stedet for en opgørelse af installationernes faktiske klimapåvirkning.
 
 *Genbrug*
 

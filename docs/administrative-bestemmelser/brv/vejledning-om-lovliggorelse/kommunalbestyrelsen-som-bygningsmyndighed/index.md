@@ -50,9 +50,9 @@
 
 ### Kommunalbestyrelsen som bygningsmyndighed {#0bac2d7b-6f83-4a5e-bb70-bc10fada3df7}
 
-Kommunalbestyrelsen er bygningsmyndighed og påser i denne forbindelse, at byggeloven og de regler, der er udstedt i medfør heraf, overholdes. Dette fremgår af byggelovens § 16 C, stk. 1. Kommunalbestyrelsen påser også, at påbud efter byggeloven og regler fastsat i medfør heraf efterkommes, og at vilkår fastsat i tilladelser eller dispensationer, som er meddelt af kommunalbestyrelsen, overholdes. Dette fremgår af byggelovens § 16 C, stk. 2.
+Kommunalbestyrelsen er bygningsmyndighed og påser i denne forbindelse, at byggeloven og de regler, der er udstedt i medfør heraf, overholdes. Dette fremgår af byggelovens [§ 16 C, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178#P16C "Byggeloven § 16C"){ .br18-ref .br18-ref--ext }. Kommunalbestyrelsen påser også, at påbud efter byggeloven og regler fastsat i medfør heraf efterkommes, og at vilkår fastsat i tilladelser eller dispensationer, som er meddelt af kommunalbestyrelsen, overholdes. Dette fremgår af byggelovens [§ 16 C, stk. 2](https://www.retsinformation.dk/eli/lta/2016/1178#P16C "Byggeloven § 16C"){ .br18-ref .br18-ref--ext }.
 
-Bliver kommunalbestyrelsen opmærksom på et ulovligt forhold, har den pligt til at søge forholdet lovliggjort, medmindre dette er af ganske underordnet betydning. Dette fremgår af byggelovens § 16 C, stk. 3.
+Bliver kommunalbestyrelsen opmærksom på et ulovligt forhold, har den pligt til at søge forholdet lovliggjort, medmindre dette er af ganske underordnet betydning. Dette fremgår af byggelovens [§ 16 C, stk. 3](https://www.retsinformation.dk/eli/lta/2016/1178#P16C "Byggeloven § 16C"){ .br18-ref .br18-ref--ext }.
 
 Hvornår et forhold er af ganske underordnet betydning beror på en konkret vurdering, men som tommelfingerregel, skal der være tale om ret bagatelagtige forhold for, at et forhold ikke skal lovliggøres. Som eksempel kan det nævnes, at hvis det forhold, der er tilsidesat, ikke påvirker formålet i byggeloven, omgivelserne eller andre interesser, så er forholdet af ganske underordnet betydning.
 

@@ -32,7 +32,7 @@
 
 **Udvider nye åbne altaner etagearealet? (11-12-2020)**
 
-Åbne altaner udvider det samlede etageareal, der i denne forbindelse er arealet af samtlige etager og al anden bebyggelse på grunden. Det vil sige, at etagearealet bl.a. omfatter arealet af kældre, åbne altaner, åbne tagterrasser mv. Det samlede etageareal er ikke nødvendigvis det samme som det etageareal, der indgår i beregningen af bebyggelsesprocenten i beregningsreglerne, hvor der her er mulighed for en række fradrag, jf. BR18, § 455.
+Åbne altaner udvider det samlede etageareal, der i denne forbindelse er arealet af samtlige etager og al anden bebyggelse på grunden. Det vil sige, at etagearealet bl.a. omfatter arealet af kældre, åbne altaner, åbne tagterrasser mv. Det samlede etageareal er ikke nødvendigvis det samme som det etageareal, der indgår i beregningen af bebyggelsesprocenten i beregningsreglerne, hvor der her er mulighed for en række fradrag, jf. BR18, [§ 455](../../../../ovrige-bestemmelser/23/krav/#paragraf-455 "BR18 § 455"){ .br18-ref }.
 
 Da nyetablerede åbne altaner udvider det samlede etageareal, skal der ansøges om byggetilladelse.
 
@@ -62,7 +62,7 @@ Eksempler på nye altaner, der ændrer de brandmæssige forudsætninger, kan f.e
 
 Vær opmærksom på at der for eksisterende byggeri på opførelsestidspunktet, kan have været krav om redningsåbninger i alle opholdsrum og køkkener. Sløjfes eller ændres sådan en redningsåbning, kan det betyde at redningsberedskabets indsatsmuligheder påvirkes.
 
-I forbindelse med byggeansøgning kan der derfor, samtidig ansøges om at boligens redningsmuligheder udføres i overensstemmelse med beskrivelserne i Bygningsreglementets kapitel 5 – Brand, bilag 2. Dette medfører bl.a., at der skal installeres røgalarmanlæg i boligen, og der skal mindst være en redningsåbning fra boligen som helhed. Denne kan så være en eksisterende redningsåbning, der ikke berøres af altanmontagen. For denne redningsåbning ændres der ikke på de brandmæssige forudsætninger, og eksisterende brandredningsarealer kan fortsat benyttes.
+I forbindelse med byggeansøgning kan der derfor, samtidig ansøges om at boligens redningsmuligheder udføres i overensstemmelse med beskrivelserne i Bygningsreglementets [kapitel 5](../../../../tekniske-bestemmelser/05/krav/ "BR18 kapitel 5"){ .br18-ref } – Brand, bilag 2. Dette medfører bl.a., at der skal installeres røgalarmanlæg i boligen, og der skal mindst være en redningsåbning fra boligen som helhed. Denne kan så være en eksisterende redningsåbning, der ikke berøres af altanmontagen. For denne redningsåbning ændres der ikke på de brandmæssige forudsætninger, og eksisterende brandredningsarealer kan fortsat benyttes.
 
 Ved etablering af en ny åben altan, evt. fransk altan, vil der ofte blive etableret en ny dør i bygningens ydervæg. I bygninger med gulv i øverste etage højst 22 m over terræn vil etablering af en dør i ydervæggen som udgangspunkt ikke ændre de brandmæssige forudsætninger for bygningen, da der i de præ-accepterede løsninger for etagebyggeri ikke er krav til sikring mod brandspredning vertikalt mellem eksempelvis vindues- og døråbninger. En etablering af en ny dør og en altan i bygninger med gulv i øverste etage højst 22 m over terræn vil derfor normalt ikke medføre, at der ændres i de brandmæssige forudsætninger.
 

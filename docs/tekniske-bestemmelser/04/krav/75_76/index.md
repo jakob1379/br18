@@ -22,7 +22,7 @@ Afløbsinstallationer skal projekteres og udføres, så det tilførte afløbsvan
 
 Stk. 2. Afløbsinstallationer skal dimensioneres som anvist i DS 432 Afløbsinstallationer, afsnit 6 eller på en måde, som på tilsvarende vis sikrer en tilfredsstillende bortledning, jf. stk.1.
 
-Stk. 3. §§ 69-81 kan opfyldes ved at følge DS 432 Afløbsinstallationer.
+Stk. 3. [§§ 69-81](../ "BR18 §§ 69-81"){ .br18-ref } kan opfyldes ved at følge DS 432 Afløbsinstallationer.
 
 ### § 71 {#paragraf-71}
 
@@ -138,7 +138,7 @@ Fabriksfremstillede produkter, der indgår i eller tilsluttes afløbsinstallatio
 
 ### § 80 {#paragraf-80}
 
-Drift og vedligehold af afløbsinstallationer skal ske, så de til enhver tid overholder bestemmelserne i §§ 70-78.
+Drift og vedligehold af afløbsinstallationer skal ske, så de til enhver tid overholder bestemmelserne i [§§ 70-78](#paragraf-70 "BR18 §§ 70-78"){ .br18-ref }.
 
 *Stk. 2.* Der skal foreligge en drifts- og vedligeholdelsesmanual inden ibrugtagning af bygningen. Manualen skal indeholde tegninger med oplysning om placering af installationer, der skal vedligeholdes, samt hvordan og hvor ofte vedligeholdelsen skal ske.
 

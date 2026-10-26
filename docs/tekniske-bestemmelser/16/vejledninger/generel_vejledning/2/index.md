@@ -19,7 +19,7 @@
 
 ### 2. Generelt {#311d3af7-7ff8-409f-b0ec-f4794334b40d}
 
-Projektering, udførelse, drift og vedligeholdelse af offentligt tilgængelige legepladser mv., skal overholde bestemmelserne i bygningsreglementet 2018, kapitel 16 om legepladser m.v.
+Projektering, udførelse, drift og vedligeholdelse af offentligt tilgængelige legepladser mv., skal overholde bestemmelserne i bygningsreglementet 2018, [kapitel 16](../../../krav/ "BR18 kapitel 16"){ .br18-ref } om legepladser m.v.
 
 Legepladser m.v. som beskrevet i kapitel 16 omfatter legepladsredskaber og -underlag, multisportsudstyr, motionsredskaber i det fri, skateboardbaner, parkourredskaber og lignende, der er offentligt tilgængelige.
 

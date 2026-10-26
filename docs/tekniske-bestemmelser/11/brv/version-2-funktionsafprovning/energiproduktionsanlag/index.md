@@ -74,7 +74,7 @@
 
 Der skal gennemføres en funktionsafprøvning af energiproduktionsanlæg baseret på vedvarende energikilder før aflevering. Funktionsafprøvningen skal dokumentere, at anlægget er korrekt installeret og overholder bygningsreglementets krav og de forudsætninger, der benyttes i energibehovsberegningen.   Kravet gælder for alle anlæg på eller ved bygninger. I praksis vil disse anlæg typisk være solvarme- eller solcelleanlæg og vindmøller (hustandsvindmøller). Det er derfor disse tre anlægstyper, der er uddybet nedenfor.
 
-Bygningsreglementets kravtekst mht. funktionsafprøvning af energiproduktionsanlæg baseret på vedvarende energikilder er:   **§ 327 a.** Der skal gennemføres en funktionsafprøvning af energiforsyningsanlæg baseret på vedvarende energi i tilknytning til bygninger inden ibrugtagning. Funktionsafprøvningen skal påvise, at anlægget er korrekt installeret og har den forudsatte energimæssige effektivitet.
+Bygningsreglementets kravtekst mht. funktionsafprøvning af energiproduktionsanlæg baseret på vedvarende energikilder er:   **[§ 327 a](../../../../12/krav/#paragraf-327a "BR18 § 327a"){ .br18-ref }.** Der skal gennemføres en funktionsafprøvning af energiforsyningsanlæg baseret på vedvarende energi i tilknytning til bygninger inden ibrugtagning. Funktionsafprøvningen skal påvise, at anlægget er korrekt installeret og har den forudsatte energimæssige effektivitet.
 
 ### 7.1 Solvarme {#e9a2c649-ce9d-4bde-b782-76d688aef4c8}
 

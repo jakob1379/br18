@@ -30,7 +30,7 @@ Udgangspunktet for byggeloven og bygningsreglementet er, at byggearbejder kræve
 
 En række byggearbejder kræver dog ikke byggetilladelse. Disse byggearbejder skal fortsat overholde reglerne i bygningsreglementet, herunder f.eks. reglerne om brand og konstruktioner.
 
-Denne vejledning omhandler ombygninger og andre forandringer i eksisterende byggeri, der er omfattet af bygningsreglementets § 5, stk. 1, nr. 4, og dermed kan påbegyndes og udføres uden ansøgning om byggetilladelse, ombygninger der kræver byggetilladelse samt kommunalbestyrelsens ansvar ved indplacering i brand- og konstruktionsklasse.
+Denne vejledning omhandler ombygninger og andre forandringer i eksisterende byggeri, der er omfattet af bygningsreglementets [§ 5, stk. 1, nr. 4](../../../krav/#paragraf-5 "BR18 § 5"){ .br18-ref }, og dermed kan påbegyndes og udføres uden ansøgning om byggetilladelse, ombygninger der kræver byggetilladelse samt kommunalbestyrelsens ansvar ved indplacering i brand- og konstruktionsklasse.
 
 Bestemmelsen er ændret med virkning fra den 10. marts 2020. Bekendtgørelsen er dog ligeledes gældende for ansøgninger om byggetilladelse vedrørende ombygninger, der er indsendt før den 10. marts, men fortsat er under behandling. Da bekendtgørelsen udvider feltet for ombygningssager, der kan foretages uden ansøgning om byggetilladelse, betyder det i praksis, at en række sager vil kunne afsluttes og henvises til udførelse uden behandling. Disse sager skal dog, jf. også ovenfor, fortsat leve op til relevante krav i bygningsreglementet.
 

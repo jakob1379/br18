@@ -108,7 +108,7 @@
 
 ### 9. Nedrivning af bebyggelse {#d820595c-4854-4375-bc4b-7b22cb55c65b}
 
-Et byggeri, hvortil der kræves byggetilladelse, må som udgangspunkt ikke nedrives uden en tilladelse fra kommunalbestyrelsen, jf. BR18, § 47.
+Et byggeri, hvortil der kræves byggetilladelse, må som udgangspunkt ikke nedrives uden en tilladelse fra kommunalbestyrelsen, jf. BR18, [§ 47](../../../krav/#paragraf-47 "BR18 § 47"){ .br18-ref }.
 
 Ved ansøgning om nedrivning af bebyggelse skal ansøger indsende oplysninger til identifikation af bygningen, herunder ejendommens adresse og matrikelbetegnelse, og oplysning om bygningens omtrentlige højde og grundflade. Kommunalbestyrelsen skal bruge disse oplysninger til at vurdere, om der skal fastsættes retningslinjer for nedrivning af den pågældende bebyggelse. Det kan f.eks. være nødvendigt at tage særlige forholdsregler, f.eks. i forhold til bygningens vandinstallationer eller fordi bygningen er placeret tæt på anden bebyggelse, ligesom der kan være anden lovgivning, der skal påses, inden der kan gives tilladelse, herunder regler om håndtering af byggeaffald eller regler for nedrivning af fredede eller bevaringsværdige bygninger.
 

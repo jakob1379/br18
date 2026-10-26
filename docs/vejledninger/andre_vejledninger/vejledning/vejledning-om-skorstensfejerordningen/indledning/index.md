@@ -19,7 +19,7 @@
 
 ### Skorstensfejerbekendtgørelsen {#20f76333-1e9a-4dfe-91f1-4cea79e7425c}
 
-Skorstensfejerordningen er reguleret i skorstensfejerbekendtgørelsen, (bekendtgørelse nr. 541 af 22/05/2017 og ændringsbekendtgørelse nr. 1245 af 17. oktober 2023 om brandværnsforanstaltninger for aftrækssystemer og fyringsanlæg). Skorstensfejerbekendtgørelsen er udstedt med hjemmel i byggelovens § 15.
+Skorstensfejerordningen er reguleret i skorstensfejerbekendtgørelsen, (bekendtgørelse nr. 541 af 22/05/2017 og ændringsbekendtgørelse nr. 1245 af 17. oktober 2023 om brandværnsforanstaltninger for aftrækssystemer og fyringsanlæg). Skorstensfejerbekendtgørelsen er udstedt med hjemmel i byggelovens [§ 15](https://www.retsinformation.dk/eli/lta/2016/1178#P15 "Byggeloven § 15"){ .br18-ref .br18-ref--ext }.
 
 De faglige krav, som stilles til skorstensfejere, fremgår tillige af bekendtgørelsen, men behandles ikke i denne vejledning.
 

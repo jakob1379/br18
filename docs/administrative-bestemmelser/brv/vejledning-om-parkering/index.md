@@ -36,17 +36,17 @@ Vejledningen omhandler krav til parkering i forbindelse med byggeri, der er fast
 
 ***Byggeloven***
 
-I byggelovens § 7, stk. 1, er der hjemmel til, at der i bygningsreglementet kan fastsættes regler om indretning af ejendommes ubebyggede arealer for bl.a. at sikre tilfredsstillende opholdsarealer og parkeringsarealer.
+I byggelovens [§ 7, stk. 1](https://www.retsinformation.dk/eli/lta/2016/1178#P7 "Byggeloven § 7"){ .br18-ref .br18-ref--ext }, er der hjemmel til, at der i bygningsreglementet kan fastsættes regler om indretning af ejendommes ubebyggede arealer for bl.a. at sikre tilfredsstillende opholdsarealer og parkeringsarealer.
 
-I medfør af byggeloven § 7, stk. 2, må et ubebygget areal, der er udlagt og godkendt til parkering ikke benyttes til andet end parkering. For frie arealer i forbindelse med byggeri, der er opført før byggeloven trådte i kraft, gælder at kommunalbestyrelsen som bygningsmyndighed kan modsætte sig, at arealet bebygges eller benyttes på en måde, der forhindrer, at det blandt andet kan anvendes som parkeringsareal.
+I medfør af byggeloven [§ 7, stk. 2](https://www.retsinformation.dk/eli/lta/2016/1178#P7 "Byggeloven § 7"){ .br18-ref .br18-ref--ext }, må et ubebygget areal, der er udlagt og godkendt til parkering ikke benyttes til andet end parkering. For frie arealer i forbindelse med byggeri, der er opført før byggeloven trådte i kraft, gælder at kommunalbestyrelsen som bygningsmyndighed kan modsætte sig, at arealet bebygges eller benyttes på en måde, der forhindrer, at det blandt andet kan anvendes som parkeringsareal.
 
 ***Bygningsreglementet***
 
-Med hjemmel i byggeloven er der i BR18, kap. 20, § 393 og §§ 399-402 fastsat regler for parkering i forbindelse med byggeri.
+Med hjemmel i byggeloven er der i BR18, [kap. 20](../../../tekniske-bestemmelser/20/krav/ "BR18 kapitel 20"){ .br18-ref }, [§ 393](../../../tekniske-bestemmelser/20/krav/#paragraf-393 "BR18 § 393"){ .br18-ref } og [§§ 399-402](../../../tekniske-bestemmelser/20/krav/#a0ebdcef-79b7-48c5-8637-38df7e622cac "BR18 §§ 399-402"){ .br18-ref } fastsat regler for parkering i forbindelse med byggeri.
 
-I medfør af BR18, kap. 20, § 399, stk. 1, skal der på ejendommens område udlægges tilstrækkeligt areal til parkering af biler, motorcykler, knallerter og cykler mv. i forhold til anvendelsen af bygningen. Det fremgår endvidere af kap. 20, § 399, stk. 2, at parkeringsarealerne skal kunne benyttes af bebyggelsens beboere, de beskæftigede i bebyggelsen, besøgende, kunder og leverandører mv.
+I medfør af BR18, [kap. 20](../../../tekniske-bestemmelser/20/krav/ "BR18 kapitel 20"){ .br18-ref }, [§ 399, stk. 1](../../../tekniske-bestemmelser/20/krav/#paragraf-399 "BR18 § 399"){ .br18-ref }, skal der på ejendommens område udlægges tilstrækkeligt areal til parkering af biler, motorcykler, knallerter og cykler mv. i forhold til anvendelsen af bygningen. Det fremgår endvidere af kap. 20, [§ 399, stk. 2](../../../tekniske-bestemmelser/20/krav/#paragraf-399 "BR18 § 399"){ .br18-ref }, at parkeringsarealerne skal kunne benyttes af bebyggelsens beboere, de beskæftigede i bebyggelsen, besøgende, kunder og leverandører mv.
 
-I forhold til handicapvenlige parkeringspladser er der med BR 18, § 401, stk. 1 krav om, at der ved udformningen af parkeringspladser skal etableres et passende antal, der kan anvendes af handicapegnede køretøjer. Kravet til handicapegnede parkeringspladser anses som opfyldt, når kravene i BR18, § 401, stk. 2 om, at brugsarealet skal være 3,5 m x 5.0 m, og placeret så nær indgangen som muligt, at belægningen skal være fast og jævn, samt at niveauspring i adgangsarealet fra parkeringsarealet til andet areal højst er 2,5 cm.
+I forhold til handicapvenlige parkeringspladser er der med BR 18, [§ 401, stk. 1](../../../tekniske-bestemmelser/20/krav/#paragraf-401 "BR18 § 401"){ .br18-ref } krav om, at der ved udformningen af parkeringspladser skal etableres et passende antal, der kan anvendes af handicapegnede køretøjer. Kravet til handicapegnede parkeringspladser anses som opfyldt, når kravene i BR18, [§ 401, stk. 2](../../../tekniske-bestemmelser/20/krav/#paragraf-401 "BR18 § 401"){ .br18-ref } om, at brugsarealet skal være 3,5 m x 5.0 m, og placeret så nær indgangen som muligt, at belægningen skal være fast og jævn, samt at niveauspring i adgangsarealet fra parkeringsarealet til andet areal højst er 2,5 cm.
 
 Når der indrettes handicapvenlige parkeringspladser bør mindst én parkeringsplads have et brugsareal på 4,5 m x 8,0 m for at imødekomme behovet for parkering af minibusser med lift bag på.
 
@@ -54,7 +54,7 @@ For yderligere vejledning kan i øvrigt henvises til DS-Håndbog 186.
 
 ***Parkeringscirkulæret***
 
-De konkrete regler om kommunale parkeringsfonde er fastsat i cirkulære nr. 10 af 17. januar 1994, der er udstedt med hjemmel i byggelovens § 22, stk. 6.
+De konkrete regler om kommunale parkeringsfonde er fastsat i cirkulære nr. 10 af 17. januar 1994, der er udstedt med hjemmel i byggelovens [§ 22, stk. 6](https://www.retsinformation.dk/eli/lta/2016/1178#P22 "Byggeloven § 22"){ .br18-ref .br18-ref--ext }.
 
 ***Bestemmelser i lokalplan eller byplanvedtægt***
 
@@ -114,7 +114,7 @@ Der er ikke hjemmel i byggelovgivningen til at stille krav om, at de parkeringsa
 
 Hvis kommunalbestyrelsen vurderer, at der skal etableres et antal parkeringspladser i forbindelse med, at der opføres et byggeri eller et eksisterende byggeri ombygges eller ændrer anvendelse, vil ansøgeren i forbindelse med ansøgningen om byggetilladelse kunne søge om en fravigelse fra dette parkeringskrav på egen grund.
 
-Hjemlen til at fravige et af kommunen fastsat parkeringskrav på egen grund følger af byggelovens § 22, stk. 6. Bestemmelsen fastsætter kommunalbestyrelsens mulighed for at fravige kravet om etablering af parkeringsarealer på egen grund.  Parkeringskravet kan dog kun fraviges ved, at der enten sker indbetaling til en parkeringsfond, eller, at der foreligger et andet forpligtende grundlag om, at parkeringsarealerne etableres på en anden ejendom end den ejendom, hvorpå byggeriet opføres.
+Hjemlen til at fravige et af kommunen fastsat parkeringskrav på egen grund følger af byggelovens [§ 22, stk. 6](https://www.retsinformation.dk/eli/lta/2016/1178#P22 "Byggeloven § 22"){ .br18-ref .br18-ref--ext }. Bestemmelsen fastsætter kommunalbestyrelsens mulighed for at fravige kravet om etablering af parkeringsarealer på egen grund.  Parkeringskravet kan dog kun fraviges ved, at der enten sker indbetaling til en parkeringsfond, eller, at der foreligger et andet forpligtende grundlag om, at parkeringsarealerne etableres på en anden ejendom end den ejendom, hvorpå byggeriet opføres.
 
 Der er i bekendtgørelse nr. 146 af 12. februar 2015 om dispensation fra parkeringskrav, når der foreligger et forpligtende aftalegrundlag, fastsat bestemmelser for kommunalbestyrelsens mulighed for at fravige kravet om etablering af parkeringsarealer på egen grund.
 
@@ -142,7 +142,7 @@ Tilladelser og dispensationer, der meddeles i henhold til byggeloven, er som udg
 
 Da forpligtelsen følger ejendommen, er det, i tilfælde af, at de involverede ejendomme sælges, nødvendigt at tinglyse det andet forpligtende grundlag både på den ejendom, hvor parkeringskravet fraviges og på den ejendom, hvor parkeringspladserne i stedet etableres.
 
-Tinglysningen af aftalen om det andet forpligtende grundlag på den ejendom, hvor parkeringskravet fraviges, kan med hjemmel i byggelovens § 27 tinglyses som en meddelelse. Tinglysningen af aftalen om det andet forpligtende grundlag på den ejendom, hvor parkeringspladserne etableres, skal tinglyses som en deklaration, idet byggelovens § 27 om tinglysning af meddelelser ikke kan anvendes, hvis vilkåret for en dispensation vedrører en anden ejendom end den, der har modtaget dispensationen.
+Tinglysningen af aftalen om det andet forpligtende grundlag på den ejendom, hvor parkeringskravet fraviges, kan med hjemmel i byggelovens [§ 27](https://www.retsinformation.dk/eli/lta/2016/1178#P27 "Byggeloven § 27"){ .br18-ref .br18-ref--ext } tinglyses som en meddelelse. Tinglysningen af aftalen om det andet forpligtende grundlag på den ejendom, hvor parkeringspladserne etableres, skal tinglyses som en deklaration, idet byggelovens [§ 27](https://www.retsinformation.dk/eli/lta/2016/1178#P27 "Byggeloven § 27"){ .br18-ref .br18-ref--ext } om tinglysning af meddelelser ikke kan anvendes, hvis vilkåret for en dispensation vedrører en anden ejendom end den, der har modtaget dispensationen.
 
 ***Nye parkeringspladser - tilvækstkravet***
 
@@ -160,7 +160,7 @@ Heller ikke ved etablering af parkeringspladser på en anden ejendom, er brugerk
 
 I medfør af byggeloven kan der fastsættes regler om, at dispensation fra bestemmelser om parkeringsarealer på egen grund kan ske på betingelse af, at der sker indbetaling til en parkeringsfond.
 
-Reglerne om kommunale parkeringsfonde er fastsat i cirkulære nr. 10 af 17. januar 1994, der er udstedt med hjemmel i byggelovens § 22, stk. 6.
+Reglerne om kommunale parkeringsfonde er fastsat i cirkulære nr. 10 af 17. januar 1994, der er udstedt med hjemmel i byggelovens [§ 22, stk. 6](https://www.retsinformation.dk/eli/lta/2016/1178#P22 "Byggeloven § 22"){ .br18-ref .br18-ref--ext }.
 
 Begrebet ”parkeringsfond”, som det anvendes i parkeringsfondscirkulæret, er alene navnet på den ordning, hvorefter kommunalbestyrelsen kan meddele dispensation fra kravene om tilvejebringelse af parkeringsarealer på egen grund ved opførelse af bebyggelse. En ”parkeringsfond” skal derfor forstås som en ordning, hvorefter kommunen modtager indbetalinger fra borgerne, som kommunen skal anvende til anlæg af parkeringspladser.
 

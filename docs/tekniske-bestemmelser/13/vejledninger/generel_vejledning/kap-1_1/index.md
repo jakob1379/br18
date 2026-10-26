@@ -36,7 +36,7 @@ Visse byggematerialer kan indeholde radioaktive stoffer, som udsender gammastrå
 
 I [Strålebeskyttelsesdirektivet](http://eur-lex.europa.eu/legal-content/DA/TXT/PDF/?uri=CELEX:32013L0059&from=DA){rel="noopener" target="_blank"} angives et referenceniveau for gammastråling fra byggematerialer på 1 mSv pr. år. Et referenceniveau er den dosis over hvilken udsættelse for gammastråling fra byggematerialer anses for uhensigtsmæssig, og hvor gennemførelse af rimelige tiltag anbefales.
 
-Strålebeskyttelsesdirektivet angiver eksempler på byggematerialer, der er i risikogruppen for at indeholde radioaktive stoffer, der udsender gammastråling. Det er f.eks. flyveaske, visse former for slagge og fosfatgips. Anvendes disse materialer som byggematerialer i sin rene form f.eks. til underlag for byggeri henvises til vejledningsteksten til § 333.
+Strålebeskyttelsesdirektivet angiver eksempler på byggematerialer, der er i risikogruppen for at indeholde radioaktive stoffer, der udsender gammastråling. Det er f.eks. flyveaske, visse former for slagge og fosfatgips. Anvendes disse materialer som byggematerialer i sin rene form f.eks. til underlag for byggeri henvises til vejledningsteksten til [§ 333](../../../krav/#paragraf-333 "BR18 § 333"){ .br18-ref }.
 
 ### 1.2. Forureninger fra undergrunden {#26d2f27e-101a-4498-8777-71ffcacddfd1}
 

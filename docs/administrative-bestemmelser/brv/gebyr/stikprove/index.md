@@ -74,7 +74,7 @@
 
 ### 13. Opkrævning af gebyr for kommunens stikprøvekontrol {#93b91313-05fa-4d04-ad5e-86c5954b720e}
 
-Omkostningerne ved kommunens generelle stikprøvekontrol efter § 46, kan medregnes som en indirekte udgift ved gebyropkrævningen generelt. Se mere om de indirekte udgifter oven over i afsnit 9.
+Omkostningerne ved kommunens generelle stikprøvekontrol efter [§ 46](../../../krav/#paragraf-46 "BR18 § 46"){ .br18-ref }, kan medregnes som en indirekte udgift ved gebyropkrævningen generelt. Se mere om de indirekte udgifter oven over i afsnit 9.
 
 Kommunalbestyrelsen kan fastsætte sin timepris således, at de indirekte udgifter (overhead), som en kommune har ved sin byggesagsbehandling, herunder udgifter i forbindelse med den generelle stikprøvekontrol, kan medtages som en del af timeprisen.
 

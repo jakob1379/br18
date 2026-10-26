@@ -16,9 +16,9 @@
 
 ### 1.0.1. Konstruktionsafsnit {#6abd7fb9-7a6b-4f94-a203-d5dc0e566a25}
 
-Ifølge BR18, § 486, stk. 1, kan et byggeri opdeles i et eller flere konstruktionsafsnit. Et konstruktionsafsnit kan være en hvilken som helst veldefineret afgrænset del af byggeriet, f.eks. en hel bygning, et etagedæk, en specifik bjælke eller i yderste tilfælde et specifikt fastgørelsesmiddel.
+Ifølge BR18, [§ 486, stk. 1](../../../krav/#paragraf-486 "BR18 § 486"){ .br18-ref }, kan et byggeri opdeles i et eller flere konstruktionsafsnit. Et konstruktionsafsnit kan være en hvilken som helst veldefineret afgrænset del af byggeriet, f.eks. en hel bygning, et etagedæk, en specifik bjælke eller i yderste tilfælde et specifikt fastgørelsesmiddel.
 
-Et konstruktionsafsnit kan kun have én konsekvensklasse og én konstruktionsklasse, jf. BR18, § 486, stk. 1.
+Et konstruktionsafsnit kan kun have én konsekvensklasse og én konstruktionsklasse, jf. BR18, [§ 486, stk. 1](../../../krav/#paragraf-486 "BR18 § 486"){ .br18-ref }.
 
 Grundlag for konstruktionsafsnit og inddelingen af byggeriet i konstruktionsafsnit, herunder hvilke konstruktionsklasser de enkelte konstruktionsafsnit indplaceres i, skal fremgå af konstruktionsgrundlaget.
 

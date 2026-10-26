@@ -27,7 +27,7 @@
 
 ### 5.3 Støj fra tekniske installationer {#5ffe9f4e-f2ad-4108-860f-19bb8d45b344}
 
-Tabel 5.3 indeholder forslag til projekteringsværdier for støj fra tekniske installationer i kontorbyggeri svarende til overholdelse af BR18’s generelle bestemmelse i § 368, stk. 1 om at ”*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen”,* samt supplerende vejledende grænseværdier for lavfrekvent støj og infralyd.
+Tabel 5.3 indeholder forslag til projekteringsværdier for støj fra tekniske installationer i kontorbyggeri svarende til overholdelse af BR18’s generelle bestemmelse i [§ 368, stk. 1](../../../krav/#d020db69-f4ce-4cb5-84ee-a507a2630908 "BR18 § 368"){ .br18-ref } om at ”*Bygninger skal have sundheds- og komfortmæssigt tilfredsstillende lydforhold* *i forhold til anvendelsen”,* samt supplerende vejledende grænseværdier for lavfrekvent støj og infralyd.
 
 <table>
 <colgroup>
