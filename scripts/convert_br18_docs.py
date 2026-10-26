@@ -14,8 +14,9 @@ from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import unquote, urlsplit, urlunsplit
 
+from audit_br18_parity import HOST, HOSTS
 
-SITE_HOSTS = {"www.bygningsreglementet.dk", "bygningsreglementet.dk"}
+
 QUERY_ALIAS_RE = re.compile(r"__q_[0-9a-f]+(?=\.[^.]+$)")
 TABLE_BLOCK_RE = re.compile(r"^<table\b[^>]*>$.*?^</table>$|^\|[^\n]*(?:\n\|[^\n]*)*", re.MULTILINE | re.DOTALL)
 TABLE_TOKEN_RE = re.compile(r"BR18TABLE(\d+)")
@@ -120,7 +121,7 @@ def should_drop(tag: str, attrs: dict[str, str]) -> bool:
 
 def is_same_site_url(url: str) -> bool:
     parsed = urlsplit(url)
-    return bool(parsed.netloc and parsed.netloc in SITE_HOSTS)
+    return bool(parsed.netloc and parsed.netloc in HOSTS)
 
 
 def canonicalize_asset_path(path: str, source_dir: Path, docs_root: Path) -> str:
@@ -142,11 +143,11 @@ def rel_path_for_url(url: str, source_dir: Path, docs_root: Path) -> str | None:
     if parsed.scheme in {"mailto", "tel", "javascript", "data"}:
         return None
 
-    if parsed.netloc and parsed.netloc not in SITE_HOSTS:
+    if parsed.netloc and parsed.netloc not in HOSTS:
         return None
 
     if parsed.path.lower().startswith("/historisk/"):
-        return urlunsplit(("https", "www.bygningsreglementet.dk", parsed.path, parsed.query, ""))
+        return urlunsplit(("https", HOST, parsed.path, parsed.query, ""))
 
     path = canonicalize_asset_path(parsed.path or ("/" if parsed.netloc else ""), source_dir, docs_root)
     if not path:

@@ -8,7 +8,8 @@ import re
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 
-from fetch_origin_pages import SITE_ROOT, download
+from audit_br18_parity import SITE
+from fetch_origin_pages import download
 
 CHAPTERS = ("tekniske-bestemmelser/[0-9][0-9]", "ovrige-bestemmelser/[0-9][0-9]", "straf-og-ikrafttraedelse/[0-9][0-9]")
 VEJLEDNING_TAB_RE = re.compile(rb'<a href="([^"]+)"[^>]*class="nav-tab__link[^"]*"[^>]*>\s*Vejledning')
@@ -59,11 +60,11 @@ def build(docs: Path, chapter: str, cache_dir: Path | None) -> None:
     if not krav.exists():
         return
     title, krav_body = title_and_body(krav.read_text(encoding="utf-8"))
-    own = served(f"{SITE_ROOT}/{chapter}/krav/", cache_dir)
+    own = served(f"{SITE}/{chapter}/krav/", cache_dir)
     tab = VEJLEDNING_TAB_RE.search(own[0]) if own else None
     guide = unquote(urlsplit(tab.group(1).decode()).path).strip("/").lower() if tab else None
     brv = docs / chapter / "brv" / "index.md"
-    origin_brv = served(f"{SITE_ROOT}/{chapter}/brv/", cache_dir)
+    origin_brv = served(f"{SITE}/{chapter}/brv/", cache_dir)
     if origin_brv and urlsplit(origin_brv[1]).path.strip("/").lower() == f"{chapter}/brv" and brv.exists():
         brv_body = title_and_body(brv.read_text(encoding="utf-8"))[1]
     elif guide and (docs / guide / "index.md").exists() and guide != f"{chapter}/brv":

@@ -17,7 +17,8 @@ from pathlib import Path
 from urllib.parse import quote, unquote, urldefrag, urljoin, urlsplit, urlunsplit
 
 SITE = "https://www.bygningsreglementet.dk"
-HOSTS = {"www.bygningsreglementet.dk", "bygningsreglementet.dk"}
+HOST = urlsplit(SITE).netloc
+HOSTS = {HOST, HOST.removeprefix("www.")}
 ASSET_EXTS = {".pdf", ".doc", ".docx", ".xls", ".xlsx", ".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg"}
 SKIP_PREFIXES = ("/historisk/",)
 SKIP_HOSTS = {"historisk.bygningsreglementet.dk"}
@@ -170,7 +171,7 @@ def normalize_url(url: str) -> str | None:
     if any(path.lower().startswith(prefix) for prefix in SKIP_PREFIXES):
         return None
     query = "Layout=ShowAll" if p.query == "Layout=ShowAll" else ""
-    return urlunsplit(("https", "www.bygningsreglementet.dk", path, query, ""))
+    return urlunsplit(("https", HOST, path, query, ""))
 
 
 def _case_insensitive_child(parent: Path, name: str) -> Path:
@@ -243,14 +244,11 @@ class OriginFetcher:
         self._pw = None
         self._page = None
 
-    def _cache_file(self, url: str) -> Path:
-        return self.cache_dir / f"{hashlib.sha256(url.encode()).hexdigest()[:32]}.json"
-
     def cached(self, url: str) -> bool:
-        return self._cache_file(url).exists()
+        return cache_file(self.cache_dir, url).exists()
 
     def get(self, url: str) -> dict:
-        target = self._cache_file(url)
+        target = cache_file(self.cache_dir, url)
         if target.exists():
             return json.loads(target.read_text(encoding="utf-8"))
         rec = self._render(url)
@@ -305,6 +303,12 @@ def canonical_page(url: str) -> str:
     if not path.endswith("/") and not Path(path).suffix:
         path += "/"
     return urlunsplit((p.scheme, p.netloc, path, p.query, ""))
+
+
+def cache_file(cache_dir: Path, url: str) -> Path:
+    p = urlsplit(url)
+    key = canonical_page(urlunsplit(("https", HOST, p.path, p.query, "")))
+    return cache_dir / f"{hashlib.sha256(key.encode()).hexdigest()[:32]}.json"
 
 
 def _show_all_html(fetcher: OriginFetcher, url: str, links: list[str]) -> str | None:

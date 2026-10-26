@@ -1,6 +1,5 @@
 from __future__ import annotations
 
-import hashlib
 import json
 import shutil
 import subprocess
@@ -8,6 +7,9 @@ import sys
 import tempfile
 import unittest
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "scripts"))
+from audit_br18_parity import cache_file
 
 SCRIPT = Path(__file__).resolve().parent.parent / "scripts" / "fetch_origin_pages.py"
 SITE = "https://www.bygningsreglementet.dk"
@@ -28,7 +30,7 @@ class FetchFromSnapshotTest(unittest.TestCase):
         cache = tmp / "cache"
         cache.mkdir()
         for record in records:
-            (cache / f"{hashlib.sha256(record['url'].encode()).hexdigest()[:32]}.json").write_text(json.dumps(record))
+            cache_file(cache, record["url"]).write_text(json.dumps(record))
         docs = tmp / "docs"
         subprocess.run(
             [sys.executable, str(SCRIPT), "--docs-root", str(docs), "--cache-dir", str(cache), *(SITE + p for p in paths)],
@@ -78,7 +80,7 @@ class FetchFromSnapshotTest(unittest.TestCase):
         cache = tmp / "cache"
         cache.mkdir()
         record = page("/tekniske-bestemmelser/16/krav/", "kapitlet")
-        (cache / f"{hashlib.sha256(record['url'].encode()).hexdigest()[:32]}.json").write_text(json.dumps(record))
+        cache_file(cache, record["url"]).write_text(json.dumps(record))
 
         result = subprocess.run(
             [sys.executable, str(SCRIPT), "--docs-root", str(tmp / "docs"), "--cache-dir", str(cache),

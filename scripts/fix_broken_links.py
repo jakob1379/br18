@@ -10,6 +10,7 @@ from collections import defaultdict
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 
+from audit_br18_parity import SITE
 from fetch_origin_pages import cached
 
 MARKDOWN_LINK_RE = re.compile(r"(\]\()([^)\s]+)")
@@ -18,7 +19,6 @@ ID_RE = re.compile(r"""\s(?:id|name)\s*=\s*["']([^"']+)["']""")
 HEADING_ID_RE = re.compile(r"^(#{1,6} .*?) \{#([^}\s]+)\}\s*$", re.MULTILINE)
 SKIP_PREFIXES = ("mailto:", "tel:", "javascript:", "data:", "/")
 MAX_UPS = 8
-SITE_URL = "https://www.bygningsreglementet.dk/"
 ORIGIN_DEAD_LINKS = {
     "tekniske-bestemmelser/02/vejledninger/parkering": "tekniske-bestemmelser/20/vejledninger/parkering",
 }
@@ -68,7 +68,7 @@ class Site:
         if not self.cache_dir:
             return None
         try:
-            _, final = cached(self.cache_dir, SITE_URL + rel + "/")
+            _, final = cached(self.cache_dir, f"{SITE}/{rel}/")
         except OSError:
             return None
         return self.resolve_casefold(self.root / urlsplit(final).path.strip("/"))

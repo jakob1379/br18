@@ -1,6 +1,5 @@
 from __future__ import annotations
 
-import hashlib
 import json
 import shutil
 import subprocess
@@ -8,6 +7,9 @@ import sys
 import tempfile
 import unittest
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "scripts"))
+from audit_br18_parity import cache_file
 
 SCRIPT = Path(__file__).resolve().parent.parent / "scripts" / "build_chapter_hubs.py"
 SITE = "https://www.bygningsreglementet.dk"
@@ -28,7 +30,7 @@ class ChapterHubsTest(unittest.TestCase):
     def origin(self, path: str, html: str = "") -> None:
         url = SITE + path
         record = {"url": url, "final": url, "status": 200, "html": f"<html><body><main>{html}</main></body></html>"}
-        (self.cache / f"{hashlib.sha256(url.encode()).hexdigest()[:32]}.json").write_text(json.dumps(record), encoding="utf-8")
+        cache_file(self.cache, url).write_text(json.dumps(record), encoding="utf-8")
 
     def build(self) -> None:
         subprocess.run([sys.executable, str(SCRIPT), "--docs-root", str(self.docs), "--cache-dir", str(self.cache)], check=True, capture_output=True)

@@ -3,16 +3,15 @@
 from __future__ import annotations
 
 import argparse
-import hashlib
 import json
 import re
 import sys
 from pathlib import Path
-from urllib.parse import quote, unquote, urlsplit, urlunsplit
+from urllib.parse import unquote, urlsplit
 from urllib.request import Request, urlopen
 
+from audit_br18_parity import HOSTS, SITE, cache_file
 
-SITE_ROOT = "https://www.bygningsreglementet.dk"
 EXPAND_ALL_RE = re.compile(rb'<a href="([^"]+\?Layout=ShowAll)" class="link--expand-all"')
 TRIGGER_RE = re.compile(rb'<a href="([^"#]*)#[0-9a-f-]{36}"[^>]*class="accordion__trigger')
 
@@ -24,7 +23,7 @@ def is_section_page(html: bytes, url: str) -> bool:
 
 def target_path_for_url(docs_root: Path, url: str) -> Path:
     parsed = urlsplit(url)
-    if parsed.netloc not in {"www.bygningsreglementet.dk", "bygningsreglementet.dk"}:
+    if parsed.netloc not in HOSTS:
         raise SystemExit(f"unsupported host: {url}")
 
     path = unquote(parsed.path).strip("/").lower()
@@ -36,12 +35,7 @@ def target_path_for_url(docs_root: Path, url: str) -> Path:
 
 
 def cached(cache_dir: Path, url: str) -> tuple[bytes, str]:
-    parsed = urlsplit(url)
-    path = quote(unquote(parsed.path).lower(), safe="/")
-    if not path.endswith("/") and not Path(path).suffix:
-        path += "/"
-    key = urlunsplit(("https", "www.bygningsreglementet.dk", path, parsed.query, ""))
-    record = json.loads((cache_dir / f"{hashlib.sha256(key.encode()).hexdigest()[:32]}.json").read_text(encoding="utf-8"))
+    record = json.loads(cache_file(cache_dir, url).read_text(encoding="utf-8"))
     if record["status"] != 200:
         raise OSError(f"HTTP {record['status']} in snapshot: {url}")
     return record["html"].encode(), record["final"]
@@ -76,7 +70,7 @@ def main() -> int:
     docs_root = Path(args.docs_root).resolve()
     failed = 0
     for raw in args.urls:
-        url = raw if raw.startswith("http") else f"{SITE_ROOT.rstrip('/')}/{raw.lstrip('/')}"
+        url = raw if raw.startswith("http") else f"{SITE}/{raw.lstrip('/')}"
         try:
             html, final = download(url, args.cache_dir)
             page = urlsplit(final)._replace(query="", fragment="").geturl()

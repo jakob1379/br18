@@ -10,7 +10,8 @@ from pathlib import Path
 from urllib.error import HTTPError, URLError
 from urllib.parse import quote, urljoin, urlsplit
 
-from fetch_origin_pages import SITE_ROOT, fetch
+from audit_br18_parity import HOSTS, SITE
+from fetch_origin_pages import fetch
 
 
 MARKDOWN_LINK_RE = re.compile(r"\]\(([^)\s]+)")
@@ -39,7 +40,7 @@ def resolve_local_target(source: Path, docs_root: Path, target: str) -> tuple[Pa
 
     parsed = urlsplit(target)
     if parsed.scheme and parsed.netloc:
-        if parsed.netloc not in {"www.bygningsreglementet.dk", "bygningsreglementet.dk"}:
+        if parsed.netloc not in HOSTS:
             return None
         origin_path = canonicalize_asset_path(parsed.path, docs_root)
     else:
@@ -53,12 +54,12 @@ def resolve_local_target(source: Path, docs_root: Path, target: str) -> tuple[Pa
         if not local_path.is_relative_to(docs_root):
             return None
         origin_path = "/" + local_path.relative_to(docs_root).as_posix()
-        return local_path, urljoin(SITE_ROOT, quote(origin_path, safe="/"))
+        return local_path, urljoin(SITE, quote(origin_path, safe="/"))
 
     local_path = (docs_root / origin_path.lstrip("/")).resolve()
     if not local_path.is_relative_to(docs_root):
         return None
-    return local_path, urljoin(SITE_ROOT, quote(origin_path, safe="/"))
+    return local_path, urljoin(SITE, quote(origin_path, safe="/"))
 
 
 def main() -> int:
