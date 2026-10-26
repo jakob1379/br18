@@ -32,8 +32,8 @@ class ChapterHubsTest(unittest.TestCase):
         record = {"url": url, "final": url, "status": 200, "html": f"<html><body><main>{html}</main></body></html>"}
         cache_file(self.cache, url).write_text(json.dumps(record), encoding="utf-8")
 
-    def build(self) -> None:
-        subprocess.run([sys.executable, str(SCRIPT), "--docs-root", str(self.docs), "--cache-dir", str(self.cache)], check=True, capture_output=True)
+    def build(self, *dirs: str) -> None:
+        subprocess.run([sys.executable, str(SCRIPT), "--docs-root", str(self.docs), "--cache-dir", str(self.cache), *dirs], check=True, capture_output=True)
 
     def read(self, rel: str) -> str:
         return (self.docs / rel / "index.md").read_text(encoding="utf-8")
@@ -97,6 +97,17 @@ class ChapterHubsTest(unittest.TestCase):
             "[Krav](./){ .md-button .md-button--primary }\n\nKrav.\n",
         )
         self.assertFalse((self.docs / chapter / "brv").exists())
+
+    def test_only_chapters_under_the_given_docs_dirs_are_rebuilt(self) -> None:
+        for chapter in ("tekniske-bestemmelser/06", "tekniske-bestemmelser/07"):
+            self.doc(chapter, "# Gammel kopi\n")
+            self.doc(f"{chapter}/krav", "# Kapitel\n\nKrav.\n")
+            self.origin(f"/{chapter}/krav/")
+
+        self.build("tekniske-bestemmelser/07")
+
+        self.assertEqual(self.read("tekniske-bestemmelser/06"), "# Gammel kopi\n")
+        self.assertIn("Krav.", self.read("tekniske-bestemmelser/07"))
 
 
 if __name__ == "__main__":

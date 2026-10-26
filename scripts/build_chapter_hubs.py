@@ -96,13 +96,16 @@ def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--docs-root", default="docs")
     parser.add_argument("--cache-dir", type=Path, help="read origin pages from a parity audit snapshot instead of the network")
+    parser.add_argument("dirs", nargs="*", help="rebuild only the chapters under these docs dirs (default: all)")
     args = parser.parse_args()
     docs = Path(args.docs_root).resolve()
     chapters = sorted(p.relative_to(docs).as_posix() for pattern in CHAPTERS for p in docs.glob(pattern))
+    dirs = [d.strip("/") + "/" for d in args.dirs]
+    chapters = [c for c in ["administrative-bestemmelser", *chapters] if not dirs or f"{c}/".startswith(tuple(dirs))]
     with tempfile.TemporaryDirectory() as scratch:
         pages = page_source(args.cache_dir, Path(scratch))
         try:
-            for chapter in ["administrative-bestemmelser", *chapters]:
+            for chapter in chapters:
                 build(docs, chapter, pages)
         finally:
             pages.close()

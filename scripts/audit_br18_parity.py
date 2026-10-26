@@ -12,6 +12,7 @@ import time
 import tomllib
 import unicodedata
 from collections import deque
+from collections.abc import Callable
 from difflib import SequenceMatcher
 from html.parser import HTMLParser
 from pathlib import Path
@@ -340,7 +341,7 @@ def _show_all_html(fetcher: OriginFetcher, url: str, links: list[str]) -> str | 
 
 
 def crawl(
-    fetcher: OriginFetcher, sections: set[str], max_pages: int
+    fetcher: OriginFetcher, in_scope: Callable[[str], bool], max_pages: int
 ) -> tuple[dict[str, str], dict[str, str], dict[str, str], dict[str, str], dict[str, str]]:
     seed = SITE + "/"
     todo = deque([seed])
@@ -356,11 +357,11 @@ def crawl(
         if url in seen:
             continue
         seen.add(url)
-        if section_of(url) not in sections and url != seed and not fetcher.cached(url):
+        if not in_scope(url) and url != seed and not fetcher.cached(url):
             continue
         rec = fetcher.get(url)
         if rec["status"] != 200:
-            if section_of(url) in sections:
+            if in_scope(url):
                 target = errors if rec["status"] is None or rec["status"] >= 500 else origin_broken
                 target[url] = rec.get("error") or f"HTTP {rec['status']}"
             continue
@@ -373,7 +374,7 @@ def crawl(
         seen.update({final, page_url})
         hrefs = parse(rec["html"], "main", None, ORIGIN_SKIP_CLASSES).all_links
         links = [u for u in (normalize_url(urljoin(final, href)) for href in hrefs) if u]
-        if section_of(final) in sections:
+        if in_scope(final):
             show_all = urlsplit(final).query == "Layout=ShowAll"
             pages[page_url] = (None if show_all else _show_all_html(fetcher, final, links)) or rec["html"]
             own[page_url] = rec["html"]
@@ -588,6 +589,8 @@ def main() -> int:
     ap.add_argument("--delay", type=float, default=DEFAULT_DELAY)
     ap.add_argument("--max-pages", type=int, default=2000)
     ap.add_argument("--output", default="state/br18-parity-audit.md")
+    ap.add_argument("--offline", action="store_true", help="read the snapshot in --cache-dir only, never the origin")
+    ap.add_argument("--list-pages", nargs="*", metavar="DOCS_SUBDIR", help="print the origin pages under these docs dirs (default: all) and exit")
     args = ap.parse_args()
     docs_root = Path(args.docs_root).resolve()
     site_dir = Path(args.site_dir).resolve()
@@ -596,9 +599,19 @@ def main() -> int:
         allowlist = load_allowlist(Path(args.allowlist))
     except (ValueError, tomllib.TOMLDecodeError) as exc:
         ap.error(str(exc))
-    fetcher = OriginFetcher(args.origin, Path(args.cache_dir), args.delay)
+    fetcher = OriginFetcher(None if args.offline else args.origin, Path(args.cache_dir), args.delay)
+    if args.list_pages is not None:
+        prefixes = [f"/{d.strip('/').lower()}/" for d in args.list_pages if d.strip("/")]
+        try:
+            pages, _, _, errors, _ = crawl(fetcher, lambda u: not prefixes or urlsplit(u).path.startswith(tuple(prefixes)), args.max_pages)
+        finally:
+            fetcher.close()
+        print("\n".join(sorted(pages)))
+        for url, err in sorted(errors.items()):
+            print(f"not fetched: {url} ({err})", file=sys.stderr)
+        return 1 if errors else 0
     try:
-        pages, own, redirects, errors, origin_broken = crawl(fetcher, set(sections), args.max_pages)
+        pages, own, redirects, errors, origin_broken = crawl(fetcher, lambda u: section_of(u) in sections, args.max_pages)
     finally:
         fetcher.close()
     results: dict[str, list[tuple[str, str]]] = {}
