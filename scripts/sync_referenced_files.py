@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import argparse
 import re
+import signal
 import sys
 import time
 from html import unescape
@@ -75,6 +76,17 @@ def resolve_local_target(source: Path, docs_root: Path, target: str) -> tuple[Pa
 def check_versions(files: dict[Path, str], docs_root: Path, origin: str, delay: float, manifest: Path) -> int:
     rows = [line.split("\t") for line in manifest.read_text(encoding="utf-8").splitlines()[1:]] if manifest.exists() else []
     recorded = {row[0]: tuple(row[1:]) for row in rows if len(row) == 4}
+    signal.signal(signal.SIGTERM, lambda *_: sys.exit(143))
+    try:
+        failed = _check(files, docs_root, origin, delay, recorded)
+    finally:
+        lines = ["path\tcontent-length\tetag\tlast-modified", *("\t".join((rel, *v)) for rel, v in sorted(recorded.items()))]
+        manifest.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    print(f"checked={len(files)} failed={failed}", file=sys.stderr)
+    return 1 if failed else 0
+
+
+def _check(files: dict[Path, str], docs_root: Path, origin: str, delay: float, recorded: dict[str, tuple[str, ...]]) -> int:
     failed = 0
     first = True
     for local_path, origin_url in sorted(files.items()):
@@ -99,10 +111,7 @@ def check_versions(files: dict[Path, str], docs_root: Path, origin: str, delay: 
             print(f"failed version check: {url} -> {rel} ({exc})", file=sys.stderr)
             continue
         recorded[rel] = version
-    lines = ["path\tcontent-length\tetag\tlast-modified", *("\t".join((rel, *v)) for rel, v in sorted(recorded.items()))]
-    manifest.write_text("\n".join(lines) + "\n", encoding="utf-8")
-    print(f"checked={len(files)} failed={failed}", file=sys.stderr)
-    return 1 if failed else 0
+    return failed
 
 
 def main() -> int:
