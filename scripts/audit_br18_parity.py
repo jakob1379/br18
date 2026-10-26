@@ -327,6 +327,7 @@ def crawl(
     seed = SITE + "/"
     todo = deque([seed])
     seen: set[str] = set()
+    linked = {seed}
     pages: dict[str, str] = {}
     own: dict[str, str] = {}
     redirects: dict[str, str] = {}
@@ -358,8 +359,11 @@ def crawl(
             show_all = urlsplit(final).query == "Layout=ShowAll"
             pages[page_url] = (None if show_all else _show_all_html(fetcher, final, links)) or rec["html"]
             own[page_url] = rec["html"]
-        todo.extend(canonical_page(u) for u in links if "?" not in u and not looks_asset(urlsplit(u).path))
-    return pages, own, redirects, errors, origin_broken
+        targets = [canonical_page(u) for u in links if "?" not in u and not looks_asset(urlsplit(u).path)]
+        linked.update(targets)
+        todo.extend(targets)
+        todo.extend(canonical_page(urljoin(page_url, "../" * n)) for n in range(1, urlsplit(page_url).path.count("/") - 1))
+    return pages, own, redirects, errors, {u: e for u, e in origin_broken.items() if u in linked}
 
 
 def _origin_refs(hrefs: list[str], base: str, docs_root: Path, redirects: dict[str, str]) -> tuple[set[str], set[str]]:

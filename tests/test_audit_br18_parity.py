@@ -350,6 +350,34 @@ class AuditTest(unittest.TestCase):
 
         self.assertIn(page, origin.page_requests())
 
+    def test_page_linked_only_from_the_origin_navigation_is_audited(self) -> None:
+        origin = self.two_page_site()
+        origin.pages["/"] = origin_page("<h1>Forside</h1><p>Velkommen til reglementet.</p>").replace(
+            "<header>", '<header><nav class="sitenav__nav"><a href="/bilag/b1/bilag_1/">Bilag 1</a></nav>'
+        )
+        origin.pages["/bilag/b1/bilag_1/"] = origin_page("<h1>Bilag 1</h1><p>Tabeller.</p>")
+
+        self.audit(origin)
+
+        self.assertIn("- missing_page: docs/bilag/b1/bilag_1/index.md", self.report.read_text(encoding="utf-8"))
+
+    def test_unlinked_parent_page_of_a_crawled_page_is_audited(self) -> None:
+        origin = self.two_page_site()
+        guides = "/tekniske-bestemmelser/16/vejledninger/"
+        origin.pages["/"] = origin_page(
+            "<h1>Forside</h1><p>Velkommen til reglementet.</p>", f'<a href="{guides}qa/">Vejledning</a>'
+        )
+        origin.pages[guides + "qa/"] = origin_page("<h1>Spørgsmål og svar</h1>")
+        origin.pages[guides] = origin_page("<h1>Legepladser</h1><p>Se alle vejledninger om legepladser.</p>")
+        self.corpus.add("tekniske-bestemmelser/16/vejledninger/qa", local_page("<h1>Spørgsmål og svar</h1>"))
+
+        self.audit(origin)
+
+        report = self.report.read_text(encoding="utf-8")
+        self.assertIn("- missing_page: docs/tekniske-bestemmelser/16/vejledninger/index.md", report)
+        self.assertNotIn("/tekniske-bestemmelser/16/: HTTP", report)
+        self.assertNotIn("/tekniske-bestemmelser/: HTTP", report)
+
     def test_section_scope_reports_only_that_section(self) -> None:
         origin = self.two_page_site()
         self.corpus.add("administrative-bestemmelser", local_page("<h1>Anvendelsesområde</h1>"))
