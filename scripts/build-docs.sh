@@ -27,6 +27,7 @@ fi
 
 uv run zensical build --strict
 uv run python scripts/keep_anchors.py --check --site-dir "$site_dir"
+uv run python scripts/check_references.py --site-dir "$site_dir"
 
 root_dir="$(cd "$site_dir" && pwd)"
 
@@ -64,6 +65,7 @@ lychee \
   --exclude '^https://brandogkonstruktioner\.dk/' \
   --exclude '^https://www\.brandogkonstruktioner\.dk/' \
   --exclude '^https?://historisk\.bygningsreglementet\.dk/' \
+  --exclude '^https://www\.retsinformation\.dk/eli/lta/[0-9]+/[0-9]+#P' \
   --exclude '^https://www\.radonguiden\.dk/' \
   --exclude '^https://build\.dk/Pages/Vejledning-om-haandtering-af-fugt-i-bygninger\.aspx$' \
   "$site_dir/**/*.html"

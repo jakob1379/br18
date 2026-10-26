@@ -91,6 +91,7 @@ class CheckReferencesTest(unittest.TestCase):
     def test_chapter_link_must_land_on_that_chapters_page(self) -> None:
         self.assert_ok(ref("../krav/", "BR18 kapitel 5", "kapitel 5"))
         self.assert_flagged(ref("../krav/", "BR18 kapitel 6", "kapitel 6"))
+        self.assert_ok(ref("../krav/", "BR18 kapitel 5-7", "kapitel 5-7"))
 
     def test_whole_chapter_range_may_link_the_chapter_page(self) -> None:
         self.assert_ok(ref("../krav/", "BR18 §§ 82-158", "§§ 82-158"))
