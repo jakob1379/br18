@@ -153,10 +153,13 @@ def words(text: str) -> list[str]:
 
 def page_title(html_text: str) -> str:
     def text(m: re.Match[str] | None) -> str:
-        return " ".join(html.unescape(re.sub(r"<[^>]*>|¶", "", m.group(1))).split()) if m else ""
+        return " ".join(html.unescape(re.sub(r"<[^>]*>", "", m.group(1))).replace("¶", "").split()) if m else ""
 
+    site_title = TITLE_SUFFIX.strip(" |")
     title = text(TITLE_RE.search(html_text)).removesuffix(TITLE_SUFFIX)
-    return text(H1_RE.search(html_text)) if title in ("", TITLE_SUFFIX.strip(" |")) else title
+    if title and title != site_title:
+        return title
+    return text(H1_RE.search(html_text, max(html_text.find("<main"), 0))) or site_title
 
 
 def text_diff(origin: list[str], local: list[str]) -> tuple[list[str], list[str]]:
