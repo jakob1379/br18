@@ -83,6 +83,8 @@ class ContentParser(HTMLParser):
         self.root_class = root_class
         self.skip_classes = skip_classes
         self.all_links: list[str] = []
+        self.nav_links: list[str] = []
+        self._navs: list[bool] = []
         self.links: list[str] = []
         self.images: list[str] = []
         self.text: list[str] = []
@@ -92,8 +94,12 @@ class ContentParser(HTMLParser):
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
         attrs_d = {k: v or "" for k, v in attrs}
         classes = set(attrs_d.get("class", "").split())
+        if tag == "nav":
+            self._navs.append("accordion__nav" not in classes)
         if tag == "a" and attrs_d.get("href"):
             self.all_links.append(attrs_d["href"])
+            if any(self._navs) or "md-button" in classes:
+                self.nav_links.append(attrs_d["href"])
         if self._skip:
             if tag == self._skip[0]:
                 self._skip[1] += 1
@@ -119,6 +125,8 @@ class ContentParser(HTMLParser):
             self.links.append(attrs_d["href"])
 
     def handle_endtag(self, tag: str) -> None:
+        if tag == "nav" and self._navs:
+            self._navs.pop()
         if tag in VOID_TAGS:
             return
         if self._skip:
@@ -342,7 +350,7 @@ def _show_all_html(fetcher: OriginFetcher, url: str, links: list[str]) -> str | 
 
 def crawl(
     fetcher: OriginFetcher, in_scope: Callable[[str], bool], max_pages: int
-) -> tuple[dict[str, str], dict[str, str], dict[str, str], dict[str, str], dict[str, str]]:
+) -> tuple[dict[str, str], dict[str, str], dict[str, str], dict[str, str], dict[str, str], set[str]]:
     seed = SITE + "/"
     todo = deque([seed])
     seen: set[str] = set()
@@ -352,6 +360,7 @@ def crawl(
     redirects: dict[str, str] = {}
     errors: dict[str, str] = {}
     origin_broken: dict[str, str] = {}
+    nav_targets: set[str] = set()
     while todo and len(pages) < max_pages:
         url = todo.popleft()
         if url in seen:
@@ -372,8 +381,9 @@ def crawl(
         if page_url != url and page_url in pages:
             continue
         seen.update({final, page_url})
-        hrefs = parse(rec["html"], "main", None, ORIGIN_SKIP_CLASSES).all_links
-        links = [u for u in (normalize_url(urljoin(final, href)) for href in hrefs) if u]
+        parsed = parse(rec["html"], "main", None, ORIGIN_SKIP_CLASSES)
+        links = [u for u in (normalize_url(urljoin(final, href)) for href in parsed.all_links) if u]
+        nav_targets.update(canonical_page(u) for u in (normalize_url(urljoin(final, h)) for h in parsed.nav_links) if u and "?" not in u)
         if in_scope(final):
             show_all = urlsplit(final).query == "Layout=ShowAll"
             pages[page_url] = (None if show_all else _show_all_html(fetcher, final, links)) or rec["html"]
@@ -382,7 +392,21 @@ def crawl(
         linked.update(targets)
         todo.extend(targets)
         todo.extend(canonical_page(urljoin(page_url, "../" * n)) for n in range(1, urlsplit(page_url).path.count("/") - 1))
-    return pages, own, redirects, errors, {u: e for u, e in origin_broken.items() if u in linked}
+    return pages, own, redirects, errors, {u: e for u, e in origin_broken.items() if u in linked}, nav_targets
+
+
+def clone_nav_reach(site_dir: Path) -> set[str]:
+    todo = deque(["index.md"])
+    reached: set[str] = set()
+    while todo:
+        doc = todo.popleft()
+        built = site_dir / doc.removesuffix("index.md") / "index.html"
+        if doc in reached or not built.is_file():
+            continue
+        reached.add(doc)
+        links = parse(built.read_text(encoding="utf-8", errors="replace"), "html", None, set()).nav_links
+        todo.extend(_local_refs(links, "http://local/" + doc.removesuffix("index.md"))[0])
+    return reached
 
 
 def _origin_refs(hrefs: list[str], base: str, docs_root: Path, redirects: dict[str, str]) -> tuple[set[str], set[str]]:
@@ -499,7 +523,7 @@ def alias_roots(pages: dict[str, str]) -> dict[str, str]:
     return roots
 
 
-KINDS = ("missing_page", "wrong_title", "missing_text", "extra_text", "missing_link", "missing_image", "missing_file")
+KINDS = ("missing_page", "wrong_title", "missing_nav", "missing_text", "extra_text", "missing_link", "missing_image", "missing_file")
 
 
 def load_allowlist(path: Path) -> list[dict]:
@@ -603,7 +627,7 @@ def main() -> int:
     if args.list_pages is not None:
         prefixes = [f"/{d.strip('/').lower()}/" for d in args.list_pages if d.strip("/")]
         try:
-            pages, _, _, errors, _ = crawl(fetcher, lambda u: not prefixes or urlsplit(u).path.startswith(tuple(prefixes)), args.max_pages)
+            pages, _, _, errors, _, _ = crawl(fetcher, lambda u: not prefixes or urlsplit(u).path.startswith(tuple(prefixes)), args.max_pages)
         finally:
             fetcher.close()
         print("\n".join(sorted(pages)))
@@ -611,7 +635,7 @@ def main() -> int:
             print(f"not fetched: {url} ({err})", file=sys.stderr)
         return 1 if errors else 0
     try:
-        pages, own, redirects, errors, origin_broken = crawl(fetcher, lambda u: section_of(u) in sections, args.max_pages)
+        pages, own, redirects, errors, origin_broken, nav_targets = crawl(fetcher, lambda u: section_of(u) in sections, args.max_pages)
     finally:
         fetcher.close()
     results: dict[str, list[tuple[str, str]]] = {}
@@ -624,8 +648,12 @@ def main() -> int:
         return page_to_doc(urlsplit(u).path, docs_root).relative_to(docs_root).as_posix()
 
     doc_redirects = {doc_of(a): doc_of(t) for a, t in redirects.items()}
+    reached = {doc_redirects.get(d, d) for d in clone_nav_reach(site_dir)}
+    unreached = {u for u in (redirects.get(t, t) for t in nav_targets) if u in pages and doc_of(u) not in reached}
     for url, html_text in pages.items():
         diffs = compare(url, html_text, docs_root, site_dir, roots.get(url), own.get(url), doc_redirects)
+        if url in unreached:
+            diffs.append(("missing_nav", f"docs/{doc_of(url)}"))
         results[url], allowed[url] = apply_allowlist(url, diffs, allowlist, roots.get(url))
     out = Path(args.output)
     out.parent.mkdir(parents=True, exist_ok=True)

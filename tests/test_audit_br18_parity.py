@@ -23,9 +23,9 @@ def origin_page(body: str, links: str = "", title: str = "BR18") -> str:
 </body></html>"""
 
 
-def local_page(body: str, title: str = "") -> str:
+def local_page(body: str, title: str = "", nav: str = '<a href="/tekniske-bestemmelser/02/">2 Adgangsforhold</a>') -> str:
     return f"""<!doctype html><html><head><title>{title}</title></head><body>
-<nav class="md-nav">Navigation</nav>
+<nav class="md-nav">{nav}</nav>
 <article class="md-content__inner md-typeset">
 {body}
 </article>
@@ -432,6 +432,31 @@ class AuditTest(unittest.TestCase):
 
         report = self.report.read_text(encoding="utf-8")
         self.assertEqual(result.returncode, 0, report)
+
+    def test_page_the_origin_navigation_reaches_but_the_clone_navigation_does_not_is_reported(self) -> None:
+        origin = self.two_page_site()
+        body = "<h1>Adgangsforhold</h1><p>Bygninger skal have adgangsforhold.</p><p>Ramper må højst have en hældning på 1:20.</p>"
+        for rel in ("", "administrative-bestemmelser"):
+            self.corpus.add(rel, local_page("<h1>Forside</h1><p>Velkommen til reglementet.</p>" if not rel else "", nav=""))
+        self.corpus.add("tekniske-bestemmelser/02", local_page(body, nav=""))
+
+        self.audit(origin)
+
+        report = self.report.read_text(encoding="utf-8")
+        self.assertIn("### https://www.bygningsreglementet.dk/tekniske-bestemmelser/02/krav/", report)
+        self.assertIn("- missing_nav: docs/tekniske-bestemmelser/02/index.md", report)
+
+    def test_page_reached_through_a_tab_button_of_a_page_in_the_clone_navigation_is_clean(self) -> None:
+        origin = self.two_page_site()
+        body = "<h1>Adgangsforhold</h1><p>Bygninger skal have adgangsforhold.</p><p>Ramper må højst have en hældning på 1:20.</p>"
+        hub = '<a class="md-button" href="/tekniske-bestemmelser/02/">Krav</a>'
+        self.corpus.add("", local_page("<h1>Forside</h1><p>Velkommen til reglementet.</p>", nav='<a href="/oversigt/">Oversigt</a>'))
+        self.corpus.add("oversigt", local_page(f"<p>{hub}</p>", nav=""))
+        self.corpus.add("tekniske-bestemmelser/02", local_page(body, nav=""))
+
+        result = self.audit(origin)
+
+        self.assertEqual(result.returncode, 0, self.report.read_text(encoding="utf-8"))
 
     def test_section_scope_reports_only_that_section(self) -> None:
         origin = self.two_page_site()
