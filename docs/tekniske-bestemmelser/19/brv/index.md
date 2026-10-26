@@ -1,5 +1,5 @@
 ---
-title: Termisk indeklima og installationer til varme- og køleanlæg (§ 385 - § 392) – Vejledning
+title: "Termisk indeklima og installationer til varme- og køleanlæg (§ 385 - § 392)"
 ---
 
 # Termisk indeklima og installationer til varme- og køleanlæg (§ 385 - § 392)

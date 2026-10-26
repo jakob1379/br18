@@ -1,3 +1,7 @@
+---
+title: "Bygværksprojekterende for de bærende konstruktioner (§ 529 - § 530)"
+---
+
 # Bygværksprojekterende for de bærende konstruktioner (§ 529 - § 530)
 
 [Krav](./){ .md-button .md-button--primary }

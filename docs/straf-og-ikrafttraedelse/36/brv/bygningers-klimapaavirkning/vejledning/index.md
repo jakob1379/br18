@@ -1,4 +1,11 @@
+---
+title: "Straf (§ 564)"
+---
+
 # Straf (§ 564)
+
+[Krav](../../../krav/){ .md-button }
+[](./){ .md-button .md-button--primary }
 
 ## Vejledning om lovliggørelse i forbindelse med bygningers klimapåvirkning
 

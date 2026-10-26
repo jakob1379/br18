@@ -1,5 +1,5 @@
 ---
-title: Lavenergiklasse (§ 473 - § 484) – Vejledning
+title: "Lavenergiklasse (§ 473 - § 484)"
 ---
 
 # Lavenergiklasse (§ 473 - § 484)

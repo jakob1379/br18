@@ -1,3 +1,7 @@
+---
+title: "Certificeret statikers virke (§ 536 - § 544)"
+---
+
 # Certificeret statikers virke (§ 536 - § 544)
 
 [Krav](./){ .md-button .md-button--primary }

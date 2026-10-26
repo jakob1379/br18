@@ -1,4 +1,11 @@
+---
+title: "Energiforbrug og klimapåvirkning (§ 250 - § 298)"
+---
+
 # Energiforbrug og klimapåvirkning (§ 250 - § 298)
+
+[Krav](../../../krav/){ .md-button }
+[Vejledning](./){ .md-button .md-button--primary }
 
 ## Se alle vejledninger om Energiforbrug og klimapåvirkning (§ 250 - § 298)
 

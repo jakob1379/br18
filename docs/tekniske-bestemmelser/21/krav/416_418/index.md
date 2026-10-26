@@ -1,4 +1,11 @@
+---
+title: "Vand (§ 403 - § 419)"
+---
+
 # Vand (§ 403 - § 419)
+
+[Krav](./){ .md-button .md-button--primary }
+[Vejledning](../../vejledninger/){ .md-button }
 
 ## § 403 - § 405 Vand {#1ad18cc3-308a-4055-b520-106d2081d2c2}
 

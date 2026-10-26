@@ -1,4 +1,11 @@
+---
+title: "Adgangsforhold (§ 48 - § 62)"
+---
+
 # Adgangsforhold (§ 48 - § 62)
+
+[Krav](../../../krav/){ .md-button }
+[Vejledning](./){ .md-button .md-button--primary }
 
 ## Se alle vejledninger om Adgangsforhold (§ 48 - § 62)
 

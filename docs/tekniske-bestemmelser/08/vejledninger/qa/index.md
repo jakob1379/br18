@@ -1,4 +1,11 @@
+---
+title: "Byggeret og helhedsvurdering (§ 166 - § 195)"
+---
+
 # Byggeret og helhedsvurdering (§ 166 - § 195)
+
+[Krav](../../krav/){ .md-button }
+[Vejledning](./){ .md-button .md-button--primary }
 
 ## Se alle vejledninger om Byggeret og helhedsvurdering (§ 166 - § 195)
 

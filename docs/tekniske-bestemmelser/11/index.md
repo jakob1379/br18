@@ -1,3 +1,7 @@
+---
+title: "Energiforbrug og klimapåvirkning (§ 250 - § 298)"
+---
+
 # Energiforbrug og klimapåvirkning (§ 250 - § 298)
 
 [Krav](./){ .md-button .md-button--primary }

@@ -1,4 +1,11 @@
+---
+title: "Byggepladsen og udførelsen af Byggearbejder (§ 161 - § 165)"
+---
+
 # Byggepladsen og udførelsen af Byggearbejder (§ 161 - § 165)
+
+[Krav](./){ .md-button .md-button--primary }
+[Vejledning](../vejledninger/){ .md-button }
 
 ## § 161 - § 165 Byggepladsen og udførelse af byggearbejder {#21f70c28-9b34-425f-a740-5eae7d538527}
 

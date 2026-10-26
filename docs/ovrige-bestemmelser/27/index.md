@@ -1,3 +1,7 @@
+---
+title: "Brandklasser (§ 490 - § 493)"
+---
+
 # Brandklasser (§ 490 - § 493)
 
 [Krav](./){ .md-button .md-button--primary }

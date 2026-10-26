@@ -1,4 +1,11 @@
+---
+title: "Certificeret brandrådgivers virke (§ 545 - § 551)"
+---
+
 # Certificeret brandrådgivers virke (§ 545 - § 551)
+
+[Krav](./){ .md-button .md-button--primary }
+[Vejledning](../vejledninger/){ .md-button }
 
 ## § 545 - § 551 Certificeret brandrådgivers virke {#9b0b3347-fdeb-4712-b69c-2b986e3251f9}
 

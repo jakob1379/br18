@@ -1,4 +1,10 @@
+---
+title: "Bygningsreglementets vejledninger"
+---
+
 # Bygningsreglementets vejledninger
+
+[Samlet oversigt](./){ .md-button .md-button--primary }
 
 <span id="administrative-bestemmelser-1-"></span><span id="adgangsforhold-48-"></span><span id="affaldssystemer-63-"></span><span id="aflb-69-"></span>
 

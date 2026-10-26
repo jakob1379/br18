@@ -1,4 +1,11 @@
+---
+title: "Elevatorer (§ 242 - § 249)"
+---
+
 # Elevatorer (§ 242 - § 249)
+
+[Krav](../../krav/){ .md-button }
+[Vejledning](./){ .md-button .md-button--primary }
 
 ## Bygningsreglementets vejledning om elevatorer
 

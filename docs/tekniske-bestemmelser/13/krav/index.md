@@ -1,4 +1,11 @@
+---
+title: "Forureninger (§ 329 - § 333)"
+---
+
 # Forureninger (§ 329 - § 333)
+
+[Krav](./){ .md-button .md-button--primary }
+[Vejledning](../vejledninger/generel_vejledning/){ .md-button }
 
 ## § 329 - § 330 Forureninger {#58939b02-d390-43e9-86e7-42f91b06226a}
 

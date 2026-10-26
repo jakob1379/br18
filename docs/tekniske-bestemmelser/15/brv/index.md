@@ -1,5 +1,5 @@
 ---
-title: Konstruktioner (§ 340 - § 357) – Vejledning
+title: "Konstruktioner (§ 340 - § 357)"
 ---
 
 # Konstruktioner (§ 340 - § 357)

@@ -1,4 +1,11 @@
+---
+title: "Administrative bestemmelser (§ 1 - § 47)"
+---
+
 # Administrative bestemmelser (§ 1 - § 47)
+
+[Krav](../../../krav/){ .md-button }
+[Vejledning](./){ .md-button .md-button--primary }
 
 <span id="administrative-bestemmelser-1-"></span><span id="se-alle-vejledninger-om-administrative-bestemmelser-1-"></span>
 

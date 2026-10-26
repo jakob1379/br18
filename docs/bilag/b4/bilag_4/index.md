@@ -1,4 +1,10 @@
+---
+title: "Fravigelser af de præ-accepterede løsninger i brandklasse 2, jf. § 493, stk. 1, nr. 2"
+---
+
 # Bilag 4: Fravigelser af de præ-accepterede løsninger i brandklasse 2, jf. § 493, stk. 1, nr. 2
+
+[Bilag 4](./){ .md-button .md-button--primary }
 
 <span id="fravigelser-af-de-pr-accepterede-lsninger-i-brandklasse-2-jf-493-stk-1-nr-2"></span>
 

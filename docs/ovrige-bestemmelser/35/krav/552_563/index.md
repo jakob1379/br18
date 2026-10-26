@@ -1,4 +1,10 @@
+---
+title: "Anerkendelse af statikere (§ 552 - § 563)"
+---
+
 # Anerkendelse af statikere (§ 552 - § 563)
+
+[Krav](./){ .md-button .md-button--primary }
 
 ## § 552 - § 563 Anerkendelse af statikere {#619f6ef8-c16c-42d5-9963-28d360580898}
 

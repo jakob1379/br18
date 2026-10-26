@@ -1,4 +1,11 @@
+---
+title: "Certificerede statikers og brandrådgivers virke (§ 531 - § 535)"
+---
+
 # Certificerede statikers og brandrådgivers virke (§ 531 - § 535)
+
+[Krav](./){ .md-button .md-button--primary }
+[Vejledning](../vejledninger/){ .md-button }
 
 ## § 531 - § 535 Certificerede statikers og brandrådgivers virke {#423a7c0b-72a6-4031-a07e-588d9f623919}
 

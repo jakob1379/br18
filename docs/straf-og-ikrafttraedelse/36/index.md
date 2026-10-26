@@ -1,3 +1,7 @@
+---
+title: "Straf (§ 564)"
+---
+
 # Straf (§ 564)
 
 [Krav](./){ .md-button .md-button--primary }

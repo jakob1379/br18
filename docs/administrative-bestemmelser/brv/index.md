@@ -1,5 +1,5 @@
 ---
-title: Administrative bestemmelser (§ 1 - § 47) – Vejledning
+title: "Administrative bestemmelser (§ 1 - § 47)"
 ---
 
 # Administrative bestemmelser (§ 1 - § 47)

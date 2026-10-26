@@ -1,3 +1,7 @@
+---
+title: "Lavenergiklasse (§ 473 - § 484)"
+---
+
 # Lavenergiklasse (§ 473 - § 484)
 
 [Krav](./){ .md-button .md-button--primary }

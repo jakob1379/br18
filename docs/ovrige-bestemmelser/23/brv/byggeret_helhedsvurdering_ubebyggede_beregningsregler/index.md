@@ -1,4 +1,11 @@
+---
+title: "Beregningsregler (§ 453 - § 458)"
+---
+
 # Beregningsregler (§ 453 - § 458)
+
+[Krav](../../krav/){ .md-button }
+[Vejledning](./){ .md-button .md-button--primary }
 
 ## Se alle vejledninger om Beregningsregler (§ 453 - § 458)
 

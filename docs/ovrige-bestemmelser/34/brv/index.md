@@ -1,5 +1,5 @@
 ---
-title: Certificeret brandrådgivers virke (§ 545 - § 551) – Vejledning
+title: "Certificeret brandrådgivers virke (§ 545 - § 551)"
 ---
 
 # Certificeret brandrådgivers virke (§ 545 - § 551)

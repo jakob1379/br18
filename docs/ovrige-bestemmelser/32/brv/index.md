@@ -1,5 +1,5 @@
 ---
-title: Certificerede statikers og brandrådgivers virke (§ 531 - § 535) – Vejledning
+title: "Certificerede statikers og brandrådgivers virke (§ 531 - § 535)"
 ---
 
 # Certificerede statikers og brandrådgivers virke (§ 531 - § 535)

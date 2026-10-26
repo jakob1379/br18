@@ -1,4 +1,11 @@
+---
+title: "Brandklasser (§ 490 - § 493)"
+---
+
 # Brandklasser (§ 490 - § 493)
+
+[Krav](../../krav/){ .md-button }
+[Vejledning](./){ .md-button .md-button--primary }
 
 ## Se alle vejledninger om Brandklasser (§ 490 - § 493)
 

@@ -1,3 +1,7 @@
+---
+title: "Brand (§ 82 - § 158)"
+---
+
 # Brand (§ 82 - § 158)
 
 [Krav](./){ .md-button .md-button--primary }

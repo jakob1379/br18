@@ -1,4 +1,11 @@
+---
+title: "Konstruktionsklasser (§ 485 - § 489)"
+---
+
 # Konstruktionsklasser (§ 485 - § 489)
+
+[Krav](./){ .md-button .md-button--primary }
+[Vejledning](../../brv/){ .md-button }
 
 ## § 485 - § 489 Konstruktionsklasser {#a483f263-578d-4eed-87a0-c3a8efa4942a}
 

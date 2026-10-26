@@ -1,4 +1,11 @@
+---
+title: "Legepladser mv. (§ 358 - § 367)"
+---
+
 # Legepladser mv. (§ 358 - § 367)
+
+[Krav](./){ .md-button .md-button--primary }
+[Vejledning](../../vejledninger/qa/){ .md-button }
 
 ## § 358 Legepladser mv. {#e5b70fb8-9e01-4761-a722-71dc702c5f5b}
 

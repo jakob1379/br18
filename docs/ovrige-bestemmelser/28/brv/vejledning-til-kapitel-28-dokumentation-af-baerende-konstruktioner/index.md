@@ -1,4 +1,11 @@
+---
+title: "Dokumentation af bærende konstruktioner (§ 494 - § 505)"
+---
+
 # Dokumentation af bærende konstruktioner (§ 494 - § 505)
+
+[Krav](../../krav/){ .md-button }
+[Vejledning](./){ .md-button .md-button--primary }
 
 ## Se alle vejledninger om Dokumentation af bærende konstruktioner (§ 494 - § 505)
 

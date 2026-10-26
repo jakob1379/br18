@@ -1,5 +1,5 @@
 ---
-title: Certificeret statikers virke (§ 536 - § 544) – Vejledning
+title: "Certificeret statikers virke (§ 536 - § 544)"
 ---
 
 # Certificeret statikers virke (§ 536 - § 544)

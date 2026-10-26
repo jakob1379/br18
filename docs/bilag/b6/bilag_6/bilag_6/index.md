@@ -1,4 +1,10 @@
+---
+title: "Bilag 6: Lovliggørelse af byggeri i brandklasse 2-4"
+---
+
 # Bilag 6: Lovliggørelse af byggeri i brandklasse 2-4
+
+[Bilag 6](./){ .md-button .md-button--primary }
 
 <span id="lovliggrelse-af-byggeri-i-brandklasse-2-4"></span>
 

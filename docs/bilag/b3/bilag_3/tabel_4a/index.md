@@ -1,4 +1,10 @@
+---
+title: "Bilag 3: Tabeller til kapitel 30 Kontrol af dokumentation for og udførelse af bærende konstruktioner og brandforhold"
+---
+
 # Bilag 3: Tabeller til kapitel 30 Kontrol af dokumentation for og udførelse af bærende konstruktioner og brandforhold
+
+[Bilag 3](./){ .md-button .md-button--primary }
 
 <span id="tabel-1-mindstekrav-til-typer-af-kontrol-afhngig-af-brand-og-konstruktionsklassen-jf-526-og-526-a"></span>
 

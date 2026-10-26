@@ -1,4 +1,11 @@
+---
+title: "Beregningsregler (§ 453 - § 458)"
+---
+
 # Beregningsregler (§ 453 - § 458)
+
+[Krav](./){ .md-button .md-button--primary }
+[Vejledning](../../brv/){ .md-button }
 
 ## § 453 - § 458 Beregningsregler {#2456b4ba-1acf-441e-9606-15cecfdb6566}
 

@@ -1,4 +1,11 @@
+---
+title: "Anvendelse af isoleringsmaterialer, som ikke mindst er materiale klasse D-s2,d2 [klasse B materiale] i bygninger, hvor gulv i øverste etage er højst 22 meter over terræn"
+---
+
 # Brand (§ 82 - § 158)
+
+[Krav](../../../krav/){ .md-button }
+[Vejledning](./){ .md-button .md-button--primary }
 
 ## Se alle vejledninger om Brand (§ 82 - § 158)
 

@@ -1,4 +1,10 @@
+---
+title: "Bilag 5: Lovliggørelse af byggeri i konstruktionsklasse 2-4"
+---
+
 # Bilag 5: Lovliggørelse af byggeri i konstruktionsklasse 2-4
+
+[Bilag 5](./){ .md-button .md-button--primary }
 
 <span id="lovliggrelse-af-byggeri-i-konstruktionsklasse-2-4"></span>
 

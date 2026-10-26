@@ -1,3 +1,7 @@
+---
+title: "Ikrafttrædelse (§ 565)"
+---
+
 # Ikrafttrædelse (§ 565)
 
 [Krav](./){ .md-button .md-button--primary }

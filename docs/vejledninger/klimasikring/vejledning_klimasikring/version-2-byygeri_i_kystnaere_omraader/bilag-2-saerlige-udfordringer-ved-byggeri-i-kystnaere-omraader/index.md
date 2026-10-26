@@ -1,4 +1,10 @@
+---
+title: "Vejledning om klimasikring"
+---
+
 # Vejledning om klimasikring
+
+[Vejledning](./){ .md-button .md-button--primary }
 
 ## Se alle vejledninger om Vejledning om klimasikring
 

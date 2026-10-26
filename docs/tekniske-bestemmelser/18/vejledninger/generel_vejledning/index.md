@@ -1,4 +1,11 @@
+---
+title: "Lys og udsyn (§ 377 - § 384)"
+---
+
 # Lys og udsyn (§ 377 - § 384)
+
+[Krav](../../krav/){ .md-button }
+[Vejledning](./){ .md-button .md-button--primary }
 
 ## Se alle vejledninger om Lys og udsyn (§ 377 - § 384)
 

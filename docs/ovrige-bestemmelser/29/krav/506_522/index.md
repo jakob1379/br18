@@ -1,4 +1,11 @@
+---
+title: "Dokumentation af brandforhold (§ 506 - § 522)"
+---
+
 # Dokumentation af brandforhold (§ 506 - § 522)
+
+[Krav](./){ .md-button .md-button--primary }
+[Vejledning](../../brv/){ .md-button }
 
 ## § 506 - § 522 Dokumentation af brandforhold {#3abf1f6a-4338-4de8-ba56-6f62554edced}
 

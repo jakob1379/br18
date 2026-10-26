@@ -1,4 +1,11 @@
+---
+title: "Andre vejledninger"
+---
+
 # Andre vejledninger
+
+[Samlet oversigt](../../andre_vejledninger/){ .md-button }
+[Vejledninger](./){ .md-button .md-button--primary }
 
 ## Se alle vejledninger om Andre vejledninger
 

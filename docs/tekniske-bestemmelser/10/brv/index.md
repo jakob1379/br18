@@ -1,5 +1,5 @@
 ---
-title: Elevatorer (§ 242 - § 249) – Vejledning
+title: "Elevatorer (§ 242 - § 249)"
 ---
 
 # Elevatorer (§ 242 - § 249)

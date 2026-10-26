@@ -1,5 +1,5 @@
 ---
-title: Ubebyggede arealer ved bebyggelse (§ 393 - § 402) – Vejledning
+title: "https://www.bygningsreglementet.dk/media/5xyjkomj/vejledning-om-parkering.pdf"
 ---
 
 # Ubebyggede arealer ved bebyggelse (§ 393 - § 402)

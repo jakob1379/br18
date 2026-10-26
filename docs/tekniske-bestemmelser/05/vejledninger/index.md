@@ -1,4 +1,11 @@
+---
+title: "Brand (§ 82 - § 158)"
+---
+
 # Brand (§ 82 - § 158)
+
+[Krav](../krav/){ .md-button }
+[Vejledning](./){ .md-button .md-button--primary }
 
 ## Se alle vejledninger om Brand (§ 82 - § 158)
 

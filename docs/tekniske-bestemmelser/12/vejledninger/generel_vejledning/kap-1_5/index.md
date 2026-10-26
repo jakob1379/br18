@@ -1,4 +1,11 @@
+---
+title: "Energiforsyningsanlæg i tilknytning til bygninger (§ 299 - § 328)"
+---
+
 # Energiforsyningsanlæg i tilknytning til bygninger (§ 299 - § 328)
+
+[Krav](../../../krav/){ .md-button }
+[Vejledning](./){ .md-button .md-button--primary }
 
 ## Bygningsreglementets vejledning om energiforsyningsanlæg i tilknytning til bygninger
 

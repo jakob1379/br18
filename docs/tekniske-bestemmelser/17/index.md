@@ -1,3 +1,7 @@
+---
+title: "Lydforhold (§ 368 - § 376)"
+---
+
 # Lydforhold (§ 368 - § 376)
 
 [Krav](./){ .md-button .md-button--primary }
