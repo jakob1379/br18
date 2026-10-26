@@ -26,6 +26,7 @@ if [[ -n "$pandoc_tables" ]]; then
 fi
 
 uv run zensical build --strict
+uv run python scripts/keep_anchors.py --check --site-dir "$site_dir"
 
 root_dir="$(cd "$site_dir" && pwd)"
 
