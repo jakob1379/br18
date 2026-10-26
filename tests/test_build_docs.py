@@ -18,6 +18,7 @@ class BuildCheckTest(unittest.TestCase):
         shutil.copy(REPO / "scripts" / "build-docs.sh", root / "scripts")
         shutil.copy(REPO / "scripts" / "keep_anchors.py", root / "scripts")
         shutil.copy(REPO / "scripts" / "check_references.py", root / "scripts")
+        shutil.copy(REPO / "scripts" / "link_references.py", root / "scripts")
         shutil.copy(REPO / "xref-laws.toml", root)
         (root / "required-anchors.tsv").write_text(required_anchors, encoding="utf-8")
         config = (REPO / "zensical.toml").read_text(encoding="utf-8")
