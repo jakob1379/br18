@@ -28,8 +28,7 @@ class RegenerateTest(unittest.TestCase):
         self.cache = self.root / "cache"
         self.cache.mkdir()
         config = re.sub(r"(?ms)^nav = \[$.*?^\]$\n", "", (REPO / "zensical.toml").read_text(encoding="utf-8"))
-        nav = 'nav = [{ Hjem = "index.md" }, { Oversigt = "vejledninger/oversigt/index.md" }]\n'
-        (self.root / "zensical.toml").write_text(config.replace("[project.validation]", f"{nav}\n[project.validation]", 1), encoding="utf-8")
+        (self.root / "zensical.toml").write_text(config, encoding="utf-8")
         shutil.copytree(REPO / "overrides", self.root / "overrides")
         for theme_dir in ("assets", "stylesheets"):
             shutil.copytree(REPO / "docs" / theme_dir, self.docs / theme_dir)
@@ -39,6 +38,7 @@ class RegenerateTest(unittest.TestCase):
             "xref-page-scope.toml": "",
             "required-anchors.tsv": "",
             "origin-dead-links.toml": "[dead_links]\n",
+            "local-pages.txt": "# pages the origin does not serve\nvejledninger/oversigt/index.md\n",
         }.items():
             (self.root / name).write_text(text, encoding="utf-8")
         self.doc("", "# Forside\n")

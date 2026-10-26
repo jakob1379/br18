@@ -39,12 +39,9 @@ mapfile -t urls <"$work/urls"
 "${py[@]}" "$repo/scripts/fetch_origin_pages.py" --docs-root "$stage" "${cache[@]}" "${urls[@]}" >/dev/null
 "${py[@]}" "$repo/scripts/convert_br18_docs.py" --docs-root "$stage"
 
-grep -o '"[^"]*\.md"' "$project/zensical.toml" | tr -d '"' | sort -u >"$work/nav"
-(cd "$stage" && find . -name index.md | sed 's|^\./||' | sort) >"$work/served"
-(cd "$docs" && find "$@" -name index.md 2>/dev/null | sort || true) | comm -23 - "$work/served" | comm -23 - "$work/nav" >"$work/gone"
-while read -r page; do
-  [[ "$page" =~ /[0-9][0-9]/brv/index\.md$ ]] || rm "$docs/$page"
-done <"$work/gone"
+(cd "$stage" && find . -name index.md | sed 's|^\./||'; grep -v '^#' "$project/local-pages.txt") | sort -u >"$work/keep"
+(cd "$docs" && find "$@" -name index.md 2>/dev/null | sort || true) | comm -23 - "$work/keep" >"$work/gone"
+while read -r page; do rm "$docs/$page"; done <"$work/gone"
 
 cp -r "$stage/." "$docs/"
 "${py[@]}" "$repo/scripts/build_chapter_hubs.py" --docs-root "$docs" "${cache[@]}" "$@"
