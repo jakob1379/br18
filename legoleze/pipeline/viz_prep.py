@@ -15,6 +15,9 @@ KRIT = {"kritik:byggeri-bolig": ["byggeri", "bolig"], "kritik:plan-kultur-kommun
         "kritik:klage-praksis-kilder-eu": ["klage-tilsyn-praksis", "datakilder-standarder", "eu"]}
 REAL = {"byggeri", "bolig", "plan", "kommunalt", "energi", "miljoe", "natur-vand-kyst", "arbejdsmiljoe", "brand", "el-gas-vvs",
         "klage-tilsyn-praksis", "eu", "datakilder-standarder", "baseline"}
+OMR = {o["omraade"]: o["navn"] for o in json.load(open(SP / "dash" / "omraader.json"))}
+NYE = {d for n in m["nodes"] for d in n.get("domaener", [])} & set(OMR) - REAL
+REAL |= NYE
 def doms(ds):
     """Only real research domains; critic tags are kept apart (see kritik())."""
     return [d for d in dict.fromkeys(ds) if d in REAL]
@@ -42,7 +45,7 @@ edges = [[e["from"], e["to"], e["type"], e["sikkerhed"], e.get("beskrivelse", ""
 huller = [{k: h[k] for k in ("emne", "type", "beskrivelse", "noder", "kilder") if k in h} | {"domaener": hdoms(h.get("domaener", []))} for h in m["huller"]]
 out = {"dato": "2026-10-28", "regering": {k: bl["regering"][k] for k in ("navn", "dannet", "partier", "kilder", "sikkerhed")},
        "ressortomlaegninger": bl["ressortomlaegninger"], "omraader": bl["omraader"], "konflikter": bl["uafklarede_konflikter"],
-       "nodes": nodes, "edges": edges, "huller": huller,
+       "nodes": nodes, "edges": edges, "huller": huller, "domnavne": {d: OMR[d] for d in sorted(NYE)},
        "prov": json.load(open(SP / "data" / "provenance_stats.json"))}
 s = json.dumps(out, ensure_ascii=False, separators=(",", ":"))
 (SP / "data" / "viz_data.json").write_text(s, encoding="utf-8")

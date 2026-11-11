@@ -29,6 +29,10 @@ qf = SP / "data" / "ressort_quality.json"
 RQ = json.load(open(qf)) if qf.exists() else {}
 kmet = Counter((d.get("ministerium") or {}).get("metode") for d in kg)
 mins = sorted((n for n in m["nodes"] if n["type"] == "ministerium" and n["status"] == "aktiv"), key=lambda n: n["navn"])
+OMR = {o["omraade"]: o["navn"] for o in json.load(open(SP / "dash" / "omraader.json"))}
+BASIS = {"byggeri", "bolig", "plan", "kommunalt", "energi", "miljoe", "natur-vand-kyst", "arbejdsmiljoe", "brand", "el-gas-vvs", "klage-tilsyn-praksis", "eu", "datakilder-standarder", "baseline"}
+fase7 = sorted({d for n in m["nodes"] for d in n.get("domaener", [])} & set(OMR) - BASIS)
+n7 = sum(1 for n in m["nodes"] if set(n.get("domaener", [])) & set(fase7))
 
 
 def nf(x):
@@ -50,7 +54,7 @@ for o in bl["omraader"]:
 
 doc = f"""# Dansk regulering: kortlægning til RAG
 
-**Kortlagt i dybden (registry):** byggeri · bolig · plan · energi · miljø · arbejdsmiljø · brand · el/gas/VVS. **Bredt (katalog):** hele Lovtidende A – {len(kdocs)} love, lovbekendtgørelser, bekendtgørelser og anordninger, heraf {len(kg)} gældende. **Status pr. 2026-10-28** (katalogets dokumentstatus pr. 2026-06-12).
+**Kortlagt i dybden (registry):** byggeri · bolig · plan · energi · miljø · arbejdsmiljø · brand · el/gas/VVS. **Instanslag tilføjet i fase 7:** {' · '.join(OMR[d].lower() for d in fase7)} ({n7} noder; senest opdateret {m.get('opdateret', 'ukendt')[:10]}). **Bredt (katalog):** hele Lovtidende A – {len(kdocs)} love, lovbekendtgørelser, bekendtgørelser og anordninger, heraf {len(kg)} gældende. **Status pr. 2026-10-28** (katalogets dokumentstatus pr. 2026-06-12).
 
 Kortlægningen dækker myndigheder, retsakter, klage- og tilsynsveje, EU-retsakter og dokumentkilder. Den skal bruges til at bygge et krydsrefereret korpus (udvidelse af `jakob1379/br18`), hvor søgning kan følge hjemmelskæder fra lov til bekendtgørelse til vejledning til praksis. Der er **ikke** hentet dokumenter til korpusset; katalog-laget er metadata og krydsreferencer udledt af en offentlig bulk-høst.
 
@@ -118,10 +122,12 @@ Den fulde liste over ressortomlægninger med datoer og kilder står i `registry.
    - Lovfamilier: historiske lovbekendtgørelser peger på den gældende version (`gaeldende_version`); hvis familiens nyeste version er markeret historisk efter datasættets sidste udstedelse, står den i `nyeste_version_afloeser_mangler`. Ændringslove peger på de love, titlen nævner (`aendrer`).
    - Krydstjek mod registry: 14 registry-noder pegede på versioner, Retsinformation har markeret historiske; de 7 med en gældende afløser i høsten har fået den (`identifikatorer.gaeldende_i_katalog`), resten er markeret med `katalog_note` og listet i huller.
 6. **Proveniensfilter:** Alle kilde-URL'er er tjekket mod de {prov['urls']} URL'er, der faktisk optrådte i sessionens {prov['results']} søgeresultater. {prov['fjernet']} af {prov['kilder']} kilder optrådte ikke og er fjernet, og påstanden er nedgraderet.
+7. **Instanslag uden for de otte domæner (fase 7, fra 2026-11-11):** Én research-agent pr. retsområde kortlægger myndigheder, klage- og tilsynsveje, hjemmelslove og dokumentkilder og leverer hver påstand med kilde-URL og et ordret citat. `pipeline/populate.py` henter derefter selv hver kilde og leder efter citatet, og læser nummer, dato, titel og status for love og bekendtgørelser direkte i Retsinformations metadata. En uafhængig kontrollant bedømmer til sidst, om citatet bærer påstanden. `verificeret` kræver et genfundet citat på en officiel side, som kontrollanten godkender, eller et metadataopslag; ellers bliver påstanden `sandsynlig`. Brief, rå fund, domme og kontroljournaler ligger i `pipeline/populate-brief.md` og `raw/populate/`.
 
 ## Begrænsninger
 
-- **WebFetch var blokeret** af sessionens netværkspolitik for alle eksterne domæner, herunder retsinformation.dk og eur-lex.europa.eu. Al evidens er derfor søgeresultater (titel, URL og uddrag). `verificeret` betyder, at påstanden fremgår af et søgeresultat fra en officiel eller primær kilde, men siden er ikke åbnet direkte. Tillad fx `retsinformation.dk`, `eur-lex.europa.eu`, `ft.dk`, `naevneneshus.dk` og `sbst.dk` i miljøets netværksindstillinger, så kan næste iteration verificere mod selve dokumenterne.
+- **Fase 7 er kontrolleret mod selve siderne, fase 1–6 er ikke.** Kontrollanterne var ikke lige strenge: sundhed, finansiel og udlændinge er bedømt hårdere end skat, så `sandsynlig` betyder dér ofte kun, at en paragraf eller frist i påstanden ikke stod i selve citatet.
+- **WebFetch var blokeret i fase 1–6** af sessionens netværkspolitik for alle eksterne domæner, herunder retsinformation.dk og eur-lex.europa.eu. Al evidens er derfor søgeresultater (titel, URL og uddrag). `verificeret` betyder, at påstanden fremgår af et søgeresultat fra en officiel eller primær kilde, men siden er ikke åbnet direkte. Tillad fx `retsinformation.dk`, `eur-lex.europa.eu`, `ft.dk`, `naevneneshus.dk` og `sbst.dk` i miljøets netværksindstillinger, så kan næste iteration verificere mod selve dokumenterne.
 - **Katalog-lagets kilder er datasættets egne felter**, ikke søgeresultater: hver post citerer den ELI-XML-URL, seed-filen selv angiver, og repoet. Status er Retsinformations status ved høsten 2026-06-10–12 og kan være ændret siden. Dokumenter udstedt efter 2026-02-12 mangler.
 - **URL'er er aldrig konstrueret.** Er en side ikke set i et søgeresultat, står der `ikke fundet`, også når ELI-mønsteret gør adressen forudsigelig. ELI'er for 16 love og bekendtgørelser stammer fra `jakob1379/br18/xref-laws.toml`, som var tjekket mod Retsinformation 2026-10-26.
 - **Sikkerhedsfordeling** over alle påstandsfelter og kanter: verificeret {pct.get('verificeret', 0)} %, sandsynlig {pct.get('sandsynlig', 0)} %, ukendt {pct.get('ukendt', 0)} %.

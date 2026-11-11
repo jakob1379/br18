@@ -57,6 +57,7 @@ const DOMS = [
   ['klage-tilsyn-praksis', 'Klage, tilsyn, praksis'], ['eu', 'EU'], ['datakilder-standarder', 'Datakilder, standarder'], ['baseline', 'Ressort-baseline'],
   ['_ingen', 'Uden domæne (tilføjet af kritiker)'],
 ];
+for (const d of Object.entries(D.domnavne || {})) DOMS.splice(DOMS.length - 1, 0, d);
 const DOM_LABEL = Object.fromEntries(DOMS);
 DOM_LABEL.konsistenstjek = 'Konsistenstjek';
 const KRIT_LABEL = { 'byggeri-bolig': 'byggeri og bolig', 'plan-kultur-kommunalt': 'plan, kultur og kommunalt', 'energi-forsyning': 'energi og forsyning', 'miljoe-natur': 'miljø og natur', 'arbejdsmiljoe-brand-elgasvvs': 'arbejdsmiljø, brand og el/gas/VVS', 'klage-praksis-kilder-eu': 'klage, praksis, kilder og EU' };
