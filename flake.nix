@@ -29,6 +29,7 @@
             http-server
             lychee
             agent-browser
+            git-lfs
           ];
 
           shellHook = ''
