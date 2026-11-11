@@ -1,0 +1,3498 @@
+[
+ {
+  "id": "lta-2024-1106",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "miljoe",
+  "begrundelse": "Indsatsplaner for grundvand/drikkevand, Miljøministeriet."
+ },
+ {
+  "id": "lta-2020-946",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "KUM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "kultur-medier",
+  "begrundelse": "DR, public service."
+ },
+ {
+  "id": "lta-2023-1366",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SOM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "social",
+  "begrundelse": "Ankestyrelsen hører under SOM."
+ },
+ {
+  "id": "lta-2016-877",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MND",
+  "omraade_korrekt": "tvivl",
+  "rettet_o": "natur-vandmiljoe",
+  "begrundelse": "Okker/dræning er vandmiljø; MND under alle omstændigheder."
+ },
+ {
+  "id": "lta-2023-1225",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "undervisning",
+  "begrundelse": "FGU under UVM."
+ },
+ {
+  "id": "lta-2025-1748",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "KUM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "kultur-medier",
+  "begrundelse": "Folkeoplysningsloven, Kulturministeriet."
+ },
+ {
+  "id": "lta-1994-59",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FMN",
+  "omraade_korrekt": "ja",
+  "rettet_o": "forsvar",
+  "begrundelse": "Værnepligt."
+ },
+ {
+  "id": "lta-2008-266",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "STM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "statsret",
+  "begrundelse": "Forretningernes fordeling."
+ },
+ {
+  "id": "lta-2020-1225",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SKM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "sundhed",
+  "begrundelse": "Sundhedsområdet."
+ },
+ {
+  "id": "lta-1987-238",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "OIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "kommuner",
+  "begrundelse": "Frikommuneordning, kommunestyrelse."
+ },
+ {
+  "id": "lta-2005-174",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "finansiel",
+  "begrundelse": "Forsikring er finansiel regulering, SVM fra 2026."
+ },
+ {
+  "id": "lta-2024-1317",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MND",
+  "omraade_korrekt": "ja",
+  "rettet_o": "landbrug-dyr",
+  "begrundelse": "Dyrevelfærd."
+ },
+ {
+  "id": "lta-2021-2412",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "KUM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "kultur-medier",
+  "begrundelse": "Kulturinstitutioner."
+ },
+ {
+  "id": "lta-2026-29",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "arbejdsmarked",
+  "begrundelse": "A-kasser."
+ },
+ {
+  "id": "lta-2017-724",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SOM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "familie-person",
+  "begrundelse": "Ægteskabslovgivning, familieret SOM."
+ },
+ {
+  "id": "lta-2014-511",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "JM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "andet",
+  "begrundelse": "Indsamlingsloven, Justitsministeriet."
+ },
+ {
+  "id": "lta-2019-992",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "miljoe",
+  "begrundelse": "GMO-udsætning, Miljøstyrelsen."
+ },
+ {
+  "id": "lta-1997-4",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FT",
+  "omraade_korrekt": "ja",
+  "rettet_o": "statsret",
+  "begrundelse": "Statsrevisorerne under Folketinget."
+ },
+ {
+  "id": "lta-2009-1152",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "JM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "strafferet-politi",
+  "begrundelse": "Kriminalforsorg."
+ },
+ {
+  "id": "lta-2003-418",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "arbejdsmarked",
+  "begrundelse": "Beskæftigelsesindsats."
+ },
+ {
+  "id": "lta-2006-805",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "undervisning",
+  "begrundelse": "Gymnasial uddannelse."
+ },
+ {
+  "id": "lta-1950-156",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "offentlig-oekonomi",
+  "begrundelse": "Statens normering/budget."
+ },
+ {
+  "id": "lta-2020-1355",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "miljoe",
+  "begrundelse": "Bekæmpelsesmidler under MIM."
+ },
+ {
+  "id": "lta-2015-1871",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FUD",
+  "omraade_korrekt": "ja",
+  "rettet_o": "forskning-videregaaende",
+  "begrundelse": "Uddannelses- og Forskningsministeriet → FUD."
+ },
+ {
+  "id": "lta-2002-410",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "international",
+  "begrundelse": "Udenrigstjeneste og udviklingsbistand."
+ },
+ {
+  "id": "lta-2020-2080",
+  "ministerium_korrekt": "nej",
+  "rettet_m": "BAB",
+  "omraade_korrekt": "nej",
+  "rettet_o": "byggeri",
+  "begrundelse": "Ændring af byggeloven; byggeri hører under BAB."
+ },
+ {
+  "id": "lta-1990-220",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SKM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "sundhed",
+  "begrundelse": "Apoteker."
+ },
+ {
+  "id": "lta-2008-344",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SKM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "sundhed",
+  "begrundelse": "Sundhedspersoners uddannelse."
+ },
+ {
+  "id": "lta-2025-512",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "undervisning",
+  "begrundelse": "Ungdommens uddannelsesvejledning."
+ },
+ {
+  "id": "lta-2022-1288",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MND",
+  "omraade_korrekt": "ja",
+  "rettet_o": "landbrug-dyr",
+  "begrundelse": "Veterinær/pelsdyr, ikke minkerstatning."
+ },
+ {
+  "id": "lta-1999-520",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "fiskeri",
+  "begrundelse": "Fiskeri til MIM fra 3/6/2026."
+ },
+ {
+  "id": "lta-2009-544",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "KUM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "kultur-medier",
+  "begrundelse": "Arkiver."
+ },
+ {
+  "id": "lta-1996-787",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MSB",
+  "omraade_korrekt": "ja",
+  "rettet_o": "beredskab-brand",
+  "begrundelse": "Redningsberedskab."
+ },
+ {
+  "id": "lta-2021-1245",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SKM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "sundhed",
+  "begrundelse": "Covid i sundhedssektoren."
+ },
+ {
+  "id": "lta-2003-1034",
+  "ministerium_korrekt": "tvivl",
+  "rettet_m": "FUD",
+  "omraade_korrekt": "tvivl",
+  "rettet_o": "forskning-videregaaende",
+  "begrundelse": "Universitetsreform-konsekvenser; kan vedrøre UVM-institutioner."
+ },
+ {
+  "id": "lta-2021-2452",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SKM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "sundhed",
+  "begrundelse": "Lægemidler."
+ },
+ {
+  "id": "lta-2025-1734",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "fiskeri",
+  "begrundelse": "Fiskeri til MIM."
+ },
+ {
+  "id": "lta-2025-1354",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "udlaendinge",
+  "begrundelse": "Udlændinge."
+ },
+ {
+  "id": "lta-1977-53",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "arbejdsmarked",
+  "begrundelse": "Statens personale, FM."
+ },
+ {
+  "id": "lta-1961-130",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FMN",
+  "omraade_korrekt": "ja",
+  "rettet_o": "forsvar",
+  "begrundelse": "Militært forsvar."
+ },
+ {
+  "id": "lta-2016-682",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MSB",
+  "omraade_korrekt": "ja",
+  "rettet_o": "beredskab-brand",
+  "begrundelse": "Redningsberedskab → MSB fra 2024."
+ },
+ {
+  "id": "lta-2021-2702",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "JM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "andet",
+  "begrundelse": "Fonde (ikke-erhvervsdrivende) under JM."
+ },
+ {
+  "id": "lta-2017-1234",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "KEFM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "energi-forsyning",
+  "begrundelse": "Vandsektorens økonomi."
+ },
+ {
+  "id": "lta-2004-502",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "STM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "statsret",
+  "begrundelse": "Ressortfordeling."
+ },
+ {
+  "id": "lta-1953-281",
+  "ministerium_korrekt": "tvivl",
+  "rettet_m": "FT",
+  "omraade_korrekt": "ja",
+  "rettet_o": "statsret",
+  "begrundelse": "Folketingets valg til nævn; ressort uklar, FT plausibelt."
+ },
+ {
+  "id": "lta-2010-463",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SKM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "sundhed",
+  "begrundelse": "Lægemidler."
+ },
+ {
+  "id": "lta-2026-107",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BAB",
+  "omraade_korrekt": "ja",
+  "rettet_o": "aeldre",
+  "begrundelse": "Ældreministeriet → BAB."
+ },
+ {
+  "id": "lta-2017-995",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MSB",
+  "omraade_korrekt": "ja",
+  "rettet_o": "beredskab-brand",
+  "begrundelse": "Beredskabsloven."
+ },
+ {
+  "id": "lta-2022-364",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MND",
+  "omraade_korrekt": "ja",
+  "rettet_o": "landbrug-dyr",
+  "begrundelse": "Gødning."
+ },
+ {
+  "id": "lta-2022-885",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "offentlig-oekonomi",
+  "begrundelse": "Udgiftslofter, budgetlov."
+ },
+ {
+  "id": "lta-2024-1263",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "undervisning",
+  "begrundelse": "Folkeskolelovens specialpædagogiske bistand."
+ },
+ {
+  "id": "lta-1984-133",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "offentlig-oekonomi",
+  "begrundelse": "Statsgæld."
+ },
+ {
+  "id": "lta-1995-807",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "arbejdsmarked",
+  "begrundelse": "Tjenestemænd, FM."
+ },
+ {
+  "id": "lta-2019-1031",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "undervisning",
+  "begrundelse": "Folkeskole."
+ },
+ {
+  "id": "lta-2015-1339",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "arbejdsmarked",
+  "begrundelse": "Lønmodtagernes Garantifond."
+ },
+ {
+  "id": "lta-2016-1683",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "OIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "kommuner",
+  "begrundelse": "Kommuneinddeling."
+ },
+ {
+  "id": "lta-2007-1371",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FMN",
+  "omraade_korrekt": "ja",
+  "rettet_o": "forsvar",
+  "begrundelse": "Værnepligt."
+ },
+ {
+  "id": "lta-2023-687",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FUD",
+  "omraade_korrekt": "ja",
+  "rettet_o": "forskning-videregaaende",
+  "begrundelse": "Maritime videregående uddannelser."
+ },
+ {
+  "id": "lta-2025-887",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "OIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "kommuner",
+  "begrundelse": "Kommunal finansiering."
+ },
+ {
+  "id": "lta-2017-1473",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "miljoe",
+  "begrundelse": "Luftforurening."
+ },
+ {
+  "id": "lta-2008-1371",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "undervisning",
+  "begrundelse": "Gymnasial uddannelse."
+ },
+ {
+  "id": "lta-1987-444",
+  "ministerium_korrekt": "nej",
+  "rettet_m": "STM",
+  "omraade_korrekt": "nej",
+  "rettet_o": "statsret",
+  "begrundelse": "Ressortfordelingsbekendtgørelse fra Statsministeriet."
+ },
+ {
+  "id": "lta-2025-1435",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MSB",
+  "omraade_korrekt": "ja",
+  "rettet_o": "beredskab-brand",
+  "begrundelse": "Brandsyn."
+ },
+ {
+  "id": "lta-2019-51",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FUD",
+  "omraade_korrekt": "ja",
+  "rettet_o": "forskning-videregaaende",
+  "begrundelse": "Professionshøjskoler."
+ },
+ {
+  "id": "lta-2025-1756",
+  "ministerium_korrekt": "tvivl",
+  "rettet_m": "OIM",
+  "omraade_korrekt": "tvivl",
+  "rettet_o": "valg",
+  "begrundelse": "Folketingsvalgloven OIM, men emnet er MF-vederlag fremsat af FM."
+ },
+ {
+  "id": "lta-1998-41",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MSB",
+  "omraade_korrekt": "ja",
+  "rettet_o": "beredskab-brand",
+  "begrundelse": "Redningsberedskab."
+ },
+ {
+  "id": "lta-2022-324",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "udlaendinge",
+  "begrundelse": "Opholdstilladelse."
+ },
+ {
+  "id": "lta-2015-927",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FMN",
+  "omraade_korrekt": "ja",
+  "rettet_o": "forsvar",
+  "begrundelse": "Forsvarets uddannelse."
+ },
+ {
+  "id": "lta-2023-1693",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BAB",
+  "omraade_korrekt": "ja",
+  "rettet_o": "byggeri",
+  "begrundelse": "Bygningsreglementet."
+ },
+ {
+  "id": "lta-2021-415",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "udlaendinge",
+  "begrundelse": "Negativ social kontrol/parallelsamfund, UIM."
+ },
+ {
+  "id": "lta-2024-27",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "OIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "valg",
+  "begrundelse": "Kommunale folkeafstemninger."
+ },
+ {
+  "id": "lta-2023-1036",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "JM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "strafferet-politi",
+  "begrundelse": "Våben."
+ },
+ {
+  "id": "lta-2023-749",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BAB",
+  "omraade_korrekt": "ja",
+  "rettet_o": "aeldre",
+  "begrundelse": "Ældreområdet."
+ },
+ {
+  "id": "lta-1947-141",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLT",
+  "omraade_korrekt": "ja",
+  "rettet_o": "transport",
+  "begrundelse": "Jernbane."
+ },
+ {
+  "id": "lta-2015-1454",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "miljoe",
+  "begrundelse": "Luftforurening."
+ },
+ {
+  "id": "lta-2018-288",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "STM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "statsret",
+  "begrundelse": "Forretningernes fordeling."
+ },
+ {
+  "id": "lta-2000-696",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FT",
+  "omraade_korrekt": "ja",
+  "rettet_o": "offentlig-oekonomi",
+  "begrundelse": "Rigsrevisionens eftersyn."
+ },
+ {
+  "id": "lta-2007-1216",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "finansiel",
+  "begrundelse": "Værdipapirer → SVM."
+ },
+ {
+  "id": "lta-2024-966",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SOM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "social",
+  "begrundelse": "Socialpsykiatri."
+ },
+ {
+  "id": "lta-2010-469",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "STM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "statsret",
+  "begrundelse": "Forretningernes fordeling."
+ },
+ {
+  "id": "lta-2024-1646",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "offentlig-oekonomi",
+  "begrundelse": "Udgiftslofter."
+ },
+ {
+  "id": "lta-2015-204",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "STM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "statsret",
+  "begrundelse": "Forretningernes fordeling."
+ },
+ {
+  "id": "lta-2021-1921",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "KEFM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "affald",
+  "begrundelse": "Affald → KEFM."
+ },
+ {
+  "id": "lta-2024-1337",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "miljoe",
+  "begrundelse": "Miljøskade ved kystbeskyttelse, MIM."
+ },
+ {
+  "id": "lta-2009-1114",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "JM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "strafferet-politi",
+  "begrundelse": "Politi."
+ },
+ {
+  "id": "lta-2015-89",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MND",
+  "omraade_korrekt": "ja",
+  "rettet_o": "natur-vandmiljoe",
+  "begrundelse": "Ændret afvanding/vådområder."
+ },
+ {
+  "id": "lta-1980-70",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "international",
+  "begrundelse": "Traktatbekendtgørelse."
+ },
+ {
+  "id": "lta-2019-904",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FUD",
+  "omraade_korrekt": "ja",
+  "rettet_o": "digitalisering-tele",
+  "begrundelse": "Offentlig digitalisering → FUD."
+ },
+ {
+  "id": "lta-2003-593",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "arbejdsmiljoe",
+  "begrundelse": "Arbejdsmiljøafgift."
+ },
+ {
+  "id": "lta-2025-374",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "STM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "statsret",
+  "begrundelse": "Forretningernes fordeling."
+ },
+ {
+  "id": "lta-2024-759",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FT",
+  "omraade_korrekt": "ja",
+  "rettet_o": "statsret",
+  "begrundelse": "MF'eres godtgørelse."
+ },
+ {
+  "id": "lta-2011-1368",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "undervisning",
+  "begrundelse": "Erhvervsuddannelser og elevrefusion."
+ },
+ {
+  "id": "lta-2025-916",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLT",
+  "omraade_korrekt": "ja",
+  "rettet_o": "transport",
+  "begrundelse": "Selvkørende køretøjer."
+ },
+ {
+  "id": "lta-2020-1210",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "offentlig-oekonomi",
+  "begrundelse": "Satsregulering, Finansministeriet."
+ },
+ {
+  "id": "lta-2010-554",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "miljoe",
+  "begrundelse": "Jordforurening."
+ },
+ {
+  "id": "lta-2023-1298",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MND",
+  "omraade_korrekt": "ja",
+  "rettet_o": "landbrug-dyr",
+  "begrundelse": "Landbrugsstøtte."
+ },
+ {
+  "id": "lta-2020-715",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MSB",
+  "omraade_korrekt": "ja",
+  "rettet_o": "beredskab-brand",
+  "begrundelse": "Brandfarlige væsker, beredskab."
+ },
+ {
+  "id": "lta-1923-97",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "international",
+  "begrundelse": "Konvention."
+ },
+ {
+  "id": "lta-2013-100",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "KUM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "kultur-medier",
+  "begrundelse": "Biblioteker."
+ },
+ {
+  "id": "lta-2023-79",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MND",
+  "omraade_korrekt": "ja",
+  "rettet_o": "landbrug-dyr",
+  "begrundelse": "Planteproduktion/landbrugsstøtte."
+ },
+ {
+  "id": "lta-2024-1598",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SKM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "sundhed",
+  "begrundelse": "Medicinsk udstyr."
+ },
+ {
+  "id": "lta-2022-662",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SOM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "social",
+  "begrundelse": "Anbragte børn."
+ },
+ {
+  "id": "lta-2021-736",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "KUM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "kultur-medier",
+  "begrundelse": "Kultur- og idrætsarrangementer."
+ },
+ {
+  "id": "lta-2019-451",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FUD",
+  "omraade_korrekt": "ja",
+  "rettet_o": "forskning-videregaaende",
+  "begrundelse": "Universitetstitler."
+ },
+ {
+  "id": "lta-1974-622",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "offentlig-oekonomi",
+  "begrundelse": "Nationalbanken/mønt, FM."
+ },
+ {
+  "id": "lta-2023-938",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "JM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "strafferet-politi",
+  "begrundelse": "Kriminalforsorg."
+ },
+ {
+  "id": "lta-2018-1102",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "JM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "strafferet-politi",
+  "begrundelse": "Eksplosivstoffer, JM."
+ },
+ {
+  "id": "lta-2022-648",
+  "ministerium_korrekt": "nej",
+  "rettet_m": "FM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "kommuner",
+  "begrundelse": "Udstedt af FM; ikke økonomiaftale, forbliver FM."
+ },
+ {
+  "id": "lta-2023-1245",
+  "ministerium_korrekt": "nej",
+  "rettet_m": "BAB",
+  "omraade_korrekt": "nej",
+  "rettet_o": "byggeri",
+  "begrundelse": "Skorstensfejerbek. under byggeloven, udstedt af boligministeriet → BAB."
+ },
+ {
+  "id": "lta-2024-643",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "offentlig-oekonomi",
+  "begrundelse": "Udgiftslofter."
+ },
+ {
+  "id": "lta-2009-473",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "STM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "statsret",
+  "begrundelse": "Grønlands selvstyre, rigsfællesskab."
+ },
+ {
+  "id": "lta-2023-719",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "JM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "strafferet-politi",
+  "begrundelse": "Straffuldbyrdelse."
+ },
+ {
+  "id": "lta-2022-579",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FT",
+  "omraade_korrekt": "ja",
+  "rettet_o": "statsret",
+  "begrundelse": "Ombudsmanden hører under FT."
+ },
+ {
+  "id": "lta-1994-1146",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "STM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "statsret",
+  "begrundelse": "Ressortfordeling."
+ },
+ {
+  "id": "lta-1990-111",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "offentlig-oekonomi",
+  "begrundelse": "Mønt/Nationalbank, FM."
+ },
+ {
+  "id": "lta-2016-1131",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MSB",
+  "omraade_korrekt": "ja",
+  "rettet_o": "beredskab-brand",
+  "begrundelse": "Redningsberedskab."
+ },
+ {
+  "id": "lta-2018-605",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLT",
+  "omraade_korrekt": "ja",
+  "rettet_o": "transport",
+  "begrundelse": "Motorløb, transportministeriet."
+ },
+ {
+  "id": "lta-2022-1125",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FUD",
+  "omraade_korrekt": "ja",
+  "rettet_o": "forskning-videregaaende",
+  "begrundelse": "Videregående uddannelser."
+ },
+ {
+  "id": "lta-2018-668",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FT",
+  "omraade_korrekt": "ja",
+  "rettet_o": "statsret",
+  "begrundelse": "MF-pension."
+ },
+ {
+  "id": "lta-2014-96",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FT",
+  "omraade_korrekt": "ja",
+  "rettet_o": "statsret",
+  "begrundelse": "Instruks for rigsrevisor."
+ },
+ {
+  "id": "lta-2014-431",
+  "ministerium_korrekt": "tvivl",
+  "rettet_m": "SVM",
+  "omraade_korrekt": "tvivl",
+  "rettet_o": "finansiel",
+  "begrundelse": "Kvoteauktionsforordning, udstedt af EVM; sandsynligvis finansmarkedsregulering → SVM."
+ },
+ {
+  "id": "lta-2023-836",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "arbejdsmarked",
+  "begrundelse": "Efterløn."
+ },
+ {
+  "id": "lta-1969-387",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "EM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "soefart",
+  "begrundelse": "Skibe, Søfartsstyrelsen."
+ },
+ {
+  "id": "lta-1942-542",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLT",
+  "omraade_korrekt": "ja",
+  "rettet_o": "transport",
+  "begrundelse": "Jernbane."
+ },
+ {
+  "id": "lta-2021-570",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SKM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "sundhed",
+  "begrundelse": "Tobak/forebyggelse."
+ },
+ {
+  "id": "lta-2019-1387",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MND",
+  "omraade_korrekt": "ja",
+  "rettet_o": "landbrug-dyr",
+  "begrundelse": "Dyresundhed."
+ },
+ {
+  "id": "lta-2026-244",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "KEFM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "energi-forsyning",
+  "begrundelse": "Energistyrelsen."
+ },
+ {
+  "id": "lta-2001-913",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "STM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "statsret",
+  "begrundelse": "Forretningernes fordeling."
+ },
+ {
+  "id": "lta-2007-1059",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "STM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "statsret",
+  "begrundelse": "Forretningernes fordeling."
+ },
+ {
+  "id": "lta-2024-946",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "KUM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "kultur-medier",
+  "begrundelse": "Mediestøtte."
+ },
+ {
+  "id": "lta-2000-457",
+  "ministerium_korrekt": "nej",
+  "rettet_m": "SVM",
+  "omraade_korrekt": "tvivl",
+  "rettet_o": "skat",
+  "begrundelse": "Dobbeltbeskatningslov fra Skatteministeriet → SVM."
+ },
+ {
+  "id": "lta-2005-428",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "skat",
+  "begrundelse": "Skatteforvaltning."
+ },
+ {
+  "id": "lta-1994-805",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "skat",
+  "begrundelse": "Forskudsregistrering."
+ },
+ {
+  "id": "lta-2024-147",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "miljoe",
+  "begrundelse": "Havmiljøloven, forurening."
+ },
+ {
+  "id": "lta-2017-1672",
+  "ministerium_korrekt": "tvivl",
+  "rettet_m": "JM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "statsret",
+  "begrundelse": "Udstedt af JM; ordningen drives af Folketinget."
+ },
+ {
+  "id": "lta-2018-641",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BAB",
+  "omraade_korrekt": "ja",
+  "rettet_o": "bolig",
+  "begrundelse": "Andelsboliger nu BAB."
+ },
+ {
+  "id": "lta-1985-123",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "arbejdsmarked",
+  "begrundelse": "Arbejdsret/overenskomster."
+ },
+ {
+  "id": "lta-1982-28",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "OIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "kommuner",
+  "begrundelse": "Kommuneinddeling."
+ },
+ {
+  "id": "lta-2013-1547",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "udlaendinge",
+  "begrundelse": "Udlændingeloven."
+ },
+ {
+  "id": "lta-2002-972",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "KUM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "kultur-medier",
+  "begrundelse": "Arkivloven."
+ },
+ {
+  "id": "lta-2018-1320",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "undervisning",
+  "begrundelse": "Naturfagscenter."
+ },
+ {
+  "id": "lta-1910-42",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "international",
+  "begrundelse": "Konvention."
+ },
+ {
+  "id": "lta-2013-28",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLT",
+  "omraade_korrekt": "ja",
+  "rettet_o": "transport",
+  "begrundelse": "Jernbane-interoperabilitet."
+ },
+ {
+  "id": "lta-2025-1003",
+  "ministerium_korrekt": "nej",
+  "rettet_m": "JM",
+  "omraade_korrekt": "nej",
+  "rettet_o": "strafferet-politi",
+  "begrundelse": "Strafafbrydelse/straffuldbyrdelse, udstedt af JM."
+ },
+ {
+  "id": "lta-2022-545",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "KUM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "kultur-medier",
+  "begrundelse": "Biblioteksafgift."
+ },
+ {
+  "id": "lta-1876-74",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "international",
+  "begrundelse": "Udleveringskonvention."
+ },
+ {
+  "id": "lta-2024-1572",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BAB",
+  "omraade_korrekt": "ja",
+  "rettet_o": "boern-dagtilbud",
+  "begrundelse": "Dagtilbud → BAB."
+ },
+ {
+  "id": "lta-2024-11",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SKM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "sundhed",
+  "begrundelse": "Kliniske forsøg."
+ },
+ {
+  "id": "lta-2022-1309",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SOM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "social",
+  "begrundelse": "Opholdssteder."
+ },
+ {
+  "id": "lta-2018-190",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "KUM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "kultur-medier",
+  "begrundelse": "Arkivalier."
+ },
+ {
+  "id": "lta-1925-113",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "international",
+  "begrundelse": "Konvention."
+ },
+ {
+  "id": "lta-2023-916",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "EM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "soefart",
+  "begrundelse": "Skibes besætning."
+ },
+ {
+  "id": "lta-2022-1492",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MND",
+  "omraade_korrekt": "ja",
+  "rettet_o": "landbrug-dyr",
+  "begrundelse": "Dyresundhed."
+ },
+ {
+  "id": "lta-2010-1721",
+  "ministerium_korrekt": "nej",
+  "rettet_m": "UVM",
+  "omraade_korrekt": "tvivl",
+  "rettet_o": "offentlig-oekonomi",
+  "begrundelse": "UVM's egne institutioner, udstedt af UVM."
+ },
+ {
+  "id": "lta-1995-756",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "international",
+  "begrundelse": "Sanktioner."
+ },
+ {
+  "id": "lta-2019-295",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "STM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "statsret",
+  "begrundelse": "Forretningernes fordeling."
+ },
+ {
+  "id": "lta-2023-1526",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "JM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "retspleje",
+  "begrundelse": "Retshjælp."
+ },
+ {
+  "id": "lta-2013-934",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "arbejdsmiljoe",
+  "begrundelse": "Arbejdsmiljø, bygherrepligter."
+ },
+ {
+  "id": "lta-2019-655",
+  "ministerium_korrekt": "tvivl",
+  "rettet_m": "EM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "kommuner",
+  "begrundelse": "LBK udstedt af EM; ingen overførsel nævnt i guiden."
+ },
+ {
+  "id": "lta-2024-1258",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "KEFM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "affald",
+  "begrundelse": "Affald → KEFM."
+ },
+ {
+  "id": "lta-2006-1309",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLT",
+  "omraade_korrekt": "ja",
+  "rettet_o": "transport",
+  "begrundelse": "Kollektiv trafik."
+ },
+ {
+  "id": "lta-2023-505",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "undervisning",
+  "begrundelse": "Gymnasier."
+ },
+ {
+  "id": "lta-2012-684",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "offentlig-oekonomi",
+  "begrundelse": "Nationalbanken → FM."
+ },
+ {
+  "id": "lta-2017-395",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SKM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "sundhed",
+  "begrundelse": "Sygeplejersker."
+ },
+ {
+  "id": "lta-2025-811",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "OIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "valg",
+  "begrundelse": "Regionale valg."
+ },
+ {
+  "id": "lta-2023-1101",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "offentlig-oekonomi",
+  "begrundelse": "Satsregulering."
+ },
+ {
+  "id": "lta-1972-21171",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "international",
+  "begrundelse": "EF-tiltrædelse."
+ },
+ {
+  "id": "lta-2025-959",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "fiskeri",
+  "begrundelse": "Fiskeri → MIM."
+ },
+ {
+  "id": "lta-2008-1108",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "JM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "familie-person",
+  "begrundelse": "Skifte af dødsboer."
+ },
+ {
+  "id": "lta-1934-136",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "offentlig-oekonomi",
+  "begrundelse": "Statens udlån."
+ },
+ {
+  "id": "lta-2016-943",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MND",
+  "omraade_korrekt": "ja",
+  "rettet_o": "natur-vandmiljoe",
+  "begrundelse": "Nationalpark."
+ },
+ {
+  "id": "lta-1991-336",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FMN",
+  "omraade_korrekt": "ja",
+  "rettet_o": "forsvar",
+  "begrundelse": "Militære områder."
+ },
+ {
+  "id": "lta-2025-1024",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MND",
+  "omraade_korrekt": "ja",
+  "rettet_o": "landbrug-dyr",
+  "begrundelse": "EU-landbrugsordning."
+ },
+ {
+  "id": "lta-2025-1134",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "KUM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "kultur-medier",
+  "begrundelse": "Kulturværdier."
+ },
+ {
+  "id": "lta-2014-1377",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FUD",
+  "omraade_korrekt": "ja",
+  "rettet_o": "forskning-videregaaende",
+  "begrundelse": "Universitetsloven."
+ },
+ {
+  "id": "lta-2025-1362",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLT",
+  "omraade_korrekt": "ja",
+  "rettet_o": "transport",
+  "begrundelse": "Jernbaneloven."
+ },
+ {
+  "id": "lta-1990-846",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FMN",
+  "omraade_korrekt": "ja",
+  "rettet_o": "forsvar",
+  "begrundelse": "Forsvarets personel."
+ },
+ {
+  "id": "lta-2019-971",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "OIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "kommuner",
+  "begrundelse": "Kommunal finansiering."
+ },
+ {
+  "id": "lta-2024-330",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BAB",
+  "omraade_korrekt": "ja",
+  "rettet_o": "bolig",
+  "begrundelse": "Andelsboliger."
+ },
+ {
+  "id": "lta-2022-697",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "JM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "retspleje",
+  "begrundelse": "Retsplejeloven, domstole."
+ },
+ {
+  "id": "lta-2010-294",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FMN",
+  "omraade_korrekt": "ja",
+  "rettet_o": "forsvar",
+  "begrundelse": "Militære grader."
+ },
+ {
+  "id": "lta-1972-21149",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "international",
+  "begrundelse": "EF-tiltrædelse."
+ },
+ {
+  "id": "lta-1985-611",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "arbejdsmiljoe",
+  "begrundelse": "Arbejdsmiljøloven."
+ },
+ {
+  "id": "lta-1969-515",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FM",
+  "omraade_korrekt": "tvivl",
+  "rettet_o": "arbejdsmarked",
+  "begrundelse": "Tjenestemænds hovedaftale; arbejdsmarked lige så rimeligt."
+ },
+ {
+  "id": "lta-1954-54",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FT",
+  "omraade_korrekt": "tvivl",
+  "rettet_o": "statsret",
+  "begrundelse": "Folketingsorgan; statsret eller international."
+ },
+ {
+  "id": "lta-2010-1656",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLM",
+  "omraade_korrekt": "tvivl",
+  "rettet_o": "arbejdsmarked",
+  "begrundelse": "Arbejdsskadesikring snarere end arbejdsmiljø."
+ },
+ {
+  "id": "lta-2025-55",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "EM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "soefart",
+  "begrundelse": "Skibe."
+ },
+ {
+  "id": "lta-2025-1176",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "skat",
+  "begrundelse": "Kursgevinstloven."
+ },
+ {
+  "id": "lta-2018-1571",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "udlaendinge",
+  "begrundelse": "Udlændingeloven."
+ },
+ {
+  "id": "lta-2022-993",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLT",
+  "omraade_korrekt": "tvivl",
+  "rettet_o": "transport",
+  "begrundelse": "Indenrigsfærger er kollektiv trafik."
+ },
+ {
+  "id": "lta-2025-681",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "KEFM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "digitalisering-tele",
+  "begrundelse": "Telekommunikation → KEFM efter guiden."
+ },
+ {
+  "id": "lta-2020-2199",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "EM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "erhvervsret",
+  "begrundelse": "Selskabsret."
+ },
+ {
+  "id": "lta-2003-1030",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "KUM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "kultur-medier",
+  "begrundelse": "Radio/tv."
+ },
+ {
+  "id": "lta-2024-234",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SOM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "social",
+  "begrundelse": "Frivillighed."
+ },
+ {
+  "id": "lta-2022-97",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "EM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "erhvervsret",
+  "begrundelse": "Erhvervskompensation, EM."
+ },
+ {
+  "id": "lta-2026-248",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "udlaendinge",
+  "begrundelse": "Udlændingenævnet."
+ },
+ {
+  "id": "lta-2023-603",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FUD",
+  "omraade_korrekt": "ja",
+  "rettet_o": "digitalisering-tele",
+  "begrundelse": "Digital selvbetjening → FUD."
+ },
+ {
+  "id": "lta-2015-957",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "undervisning",
+  "begrundelse": "AMU."
+ },
+ {
+  "id": "lta-2021-2171",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "JM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "familie-person",
+  "begrundelse": "Arv."
+ },
+ {
+  "id": "lta-2020-2064",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FMN",
+  "omraade_korrekt": "ja",
+  "rettet_o": "forsvar",
+  "begrundelse": "Hjemmeværnet."
+ },
+ {
+  "id": "lta-2002-73",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FMN",
+  "omraade_korrekt": "ja",
+  "rettet_o": "forsvar",
+  "begrundelse": "Militære områder."
+ },
+ {
+  "id": "lta-2015-1178",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BAB",
+  "omraade_korrekt": "ja",
+  "rettet_o": "byggeri",
+  "begrundelse": "Byggeri → BAB."
+ },
+ {
+  "id": "lta-2024-550",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLT",
+  "omraade_korrekt": "ja",
+  "rettet_o": "transport",
+  "begrundelse": "Køretøjer."
+ },
+ {
+  "id": "lta-2025-1797",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FT",
+  "omraade_korrekt": "ja",
+  "rettet_o": "statsret",
+  "begrundelse": "MF-vederlag."
+ },
+ {
+  "id": "lta-2017-1193",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "OIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "valg",
+  "begrundelse": "Partistøtte."
+ },
+ {
+  "id": "lta-2024-1219",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "KEFM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "energi-forsyning",
+  "begrundelse": "Elsektor datahub."
+ },
+ {
+  "id": "lta-2025-1231",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SOM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "social",
+  "begrundelse": "Socialtilsyn."
+ },
+ {
+  "id": "lta-2022-1039",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "udlaendinge",
+  "begrundelse": "Opholdstilladelse."
+ },
+ {
+  "id": "lta-2014-1186",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "JM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "strafferet-politi",
+  "begrundelse": "Offererstatning, JM."
+ },
+ {
+  "id": "lta-1970-421",
+  "ministerium_korrekt": "nej",
+  "rettet_m": "STM",
+  "omraade_korrekt": "nej",
+  "rettet_o": "statsret",
+  "begrundelse": "Ressortfordelingsbekendtgørelse, Statsministeriet."
+ },
+ {
+  "id": "lta-2024-284",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SOM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "social",
+  "begrundelse": "Familiehuse, social."
+ },
+ {
+  "id": "lta-1996-999",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MSB",
+  "omraade_korrekt": "ja",
+  "rettet_o": "beredskab-brand",
+  "begrundelse": "Redningsberedskab."
+ },
+ {
+  "id": "lta-1993-934",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MSB",
+  "omraade_korrekt": "ja",
+  "rettet_o": "beredskab-brand",
+  "begrundelse": "Beredskab under krise."
+ },
+ {
+  "id": "lta-2013-1409",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "fiskeri",
+  "begrundelse": "Fiskeri → MIM."
+ },
+ {
+  "id": "lta-1992-311",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "KEFM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "energi-forsyning",
+  "begrundelse": "Elproduktion."
+ },
+ {
+  "id": "lta-2019-575",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SKM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "sundhed",
+  "begrundelse": "Ligsyn, læger."
+ },
+ {
+  "id": "lta-2022-352",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "KUM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "kultur-medier",
+  "begrundelse": "Kulturkompensation."
+ },
+ {
+  "id": "lta-2002-63",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FMN",
+  "omraade_korrekt": "ja",
+  "rettet_o": "forsvar",
+  "begrundelse": "Flådestationer."
+ },
+ {
+  "id": "lta-2015-1573",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "andet",
+  "begrundelse": "Spil og spilafgifter, SVM."
+ },
+ {
+  "id": "lta-2019-1652",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "STM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "statsret",
+  "begrundelse": "Forretningernes fordeling hører under Statsministeriet."
+ },
+ {
+  "id": "lta-1980-428",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FMN",
+  "omraade_korrekt": "ja",
+  "rettet_o": "forsvar",
+  "begrundelse": "Værnepligt hører under Forsvarsministeriet."
+ },
+ {
+  "id": "lta-2016-197",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SOM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "familie-person",
+  "begrundelse": "Ægteskabsret er familieret og hører under SOM."
+ },
+ {
+  "id": "lta-2014-1176",
+  "ministerium_korrekt": "tvivl",
+  "rettet_m": "EM",
+  "omraade_korrekt": "tvivl",
+  "rettet_o": "erhvervsret",
+  "begrundelse": "RSV-registreringen administreres af Erhvervsstyrelsen. Det er uklart, om ressorten stadig er social."
+ },
+ {
+  "id": "lta-2022-794",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "OIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "valg",
+  "begrundelse": "Valgnævnet hører under valgområdet i OIM."
+ },
+ {
+  "id": "lta-2022-1254",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SOM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "social",
+  "begrundelse": "Handicapområdet er socialt område under SOM."
+ },
+ {
+  "id": "lta-2011-1057",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "KEFM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "energi-forsyning",
+  "begrundelse": "Elforsyningsloven hører under KEFM."
+ },
+ {
+  "id": "lta-2018-1361",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLM",
+  "omraade_korrekt": "nej",
+  "rettet_o": "arbejdsmarked",
+  "begrundelse": "ATP-bidrag for modtagere af arbejdsmarkedsydelser er arbejdsmarked, ikke ældre."
+ },
+ {
+  "id": "lta-1974-263",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SOM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "international",
+  "begrundelse": "Guiden placerer nordisk samarbejde under SOM."
+ },
+ {
+  "id": "lta-1989-769",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "OIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "kommuner",
+  "begrundelse": "Kommunestyrelse hører under OIM."
+ },
+ {
+  "id": "lta-2025-1602",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SKM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "sundhed",
+  "begrundelse": "Apoteker og lægemidler hører under SKM."
+ },
+ {
+  "id": "lta-2024-1365",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "KEFM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "affald",
+  "begrundelse": "Affald er overført til KEFM."
+ },
+ {
+  "id": "lta-2023-1645",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "arbejdsmarked",
+  "begrundelse": "ATP og VEU-godtgørelse hører under BLM."
+ },
+ {
+  "id": "lta-1993-910",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FMN",
+  "omraade_korrekt": "ja",
+  "rettet_o": "forsvar",
+  "begrundelse": "Forsvarets personel og hjemmeværnet hører under FMN."
+ },
+ {
+  "id": "lta-2020-1461",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "KUM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "kultur-medier",
+  "begrundelse": "Kompensationsordning på Kulturministeriets område."
+ },
+ {
+  "id": "lta-2023-488",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "udlaendinge",
+  "begrundelse": "Asylområdet hører under UIM."
+ },
+ {
+  "id": "lta-1998-616",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FUD",
+  "omraade_korrekt": "ja",
+  "rettet_o": "forskning-videregaaende",
+  "begrundelse": "Diplomuddannelser er videregående voksenuddannelse under FUD."
+ },
+ {
+  "id": "lta-2020-818",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BAB",
+  "omraade_korrekt": "ja",
+  "rettet_o": "bolig",
+  "begrundelse": "Boligregulering og andelsboliger hører under BAB."
+ },
+ {
+  "id": "lta-2024-1653",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BAB",
+  "omraade_korrekt": "ja",
+  "rettet_o": "aeldre",
+  "begrundelse": "Ældreministeriet er nu en del af BAB."
+ },
+ {
+  "id": "lta-2020-1201",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "EM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "soefart",
+  "begrundelse": "Søfartsstyrelsen hører under EM."
+ },
+ {
+  "id": "lta-2017-173",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "arbejdsmarked",
+  "begrundelse": "Beskæftigelsesindsats hører under BLM."
+ },
+ {
+  "id": "lta-2023-1884",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "arbejdsmiljoe",
+  "begrundelse": "Arbejdsmiljøregulering hører under BLM."
+ },
+ {
+  "id": "lta-1871-25",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "STM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "statsret",
+  "begrundelse": "Regeringsførelse ved kongens forfald er statsret under STM."
+ },
+ {
+  "id": "lta-2023-1883",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "arbejdsmiljoe",
+  "begrundelse": "Arbejdsmiljøregulering hører under BLM."
+ },
+ {
+  "id": "lta-2016-403",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BAB",
+  "omraade_korrekt": "ja",
+  "rettet_o": "bolig",
+  "begrundelse": "Almene boliger hører under BAB."
+ },
+ {
+  "id": "lta-1995-527",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLT",
+  "omraade_korrekt": "ja",
+  "rettet_o": "transport",
+  "begrundelse": "Civil luftfart hører under BLT."
+ },
+ {
+  "id": "lta-2006-1429",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MIM",
+  "omraade_korrekt": "tvivl",
+  "rettet_o": "miljoe",
+  "begrundelse": "Fodertyper i fiskeopdræt var miljøregulering under Miljøministeriet. Området er mere miljø end fiskeri."
+ },
+ {
+  "id": "lta-2024-691",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FUD",
+  "omraade_korrekt": "nej",
+  "rettet_o": "forskning-videregaaende",
+  "begrundelse": "Maritime uddannelser er videregående uddannelse under FUD, ikke søfart."
+ },
+ {
+  "id": "lta-2026-278",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SKM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "sundhed",
+  "begrundelse": "Autorisation af sundhedspersoner hører under SKM."
+ },
+ {
+  "id": "lta-2023-497",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FT",
+  "omraade_korrekt": "ja",
+  "rettet_o": "statsret",
+  "begrundelse": "Ydelser til folketingsmedlemmer hører under Folketinget."
+ },
+ {
+  "id": "lta-2004-123",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BAB",
+  "omraade_korrekt": "ja",
+  "rettet_o": "bolig",
+  "begrundelse": "Byfornyelse hører under BAB."
+ },
+ {
+  "id": "lta-2025-1722",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FUD",
+  "omraade_korrekt": "ja",
+  "rettet_o": "forskning-videregaaende",
+  "begrundelse": "Lektoratsordningen er en universitetsordning under FUD."
+ },
+ {
+  "id": "lta-2010-448",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "udlaendinge",
+  "begrundelse": "Asylområdet hører under UIM."
+ },
+ {
+  "id": "lta-2011-1106",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLM",
+  "omraade_korrekt": "tvivl",
+  "rettet_o": "arbejdsmarked",
+  "begrundelse": "Arbejdsskadesikring er en ydelse, ikke arbejdsmiljø i snæver forstand."
+ },
+ {
+  "id": "lta-2023-1767",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "KEFM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "klima",
+  "begrundelse": "CO2-kvoter hører under KEFM."
+ },
+ {
+  "id": "lta-2015-1913",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MSB",
+  "omraade_korrekt": "ja",
+  "rettet_o": "beredskab-brand",
+  "begrundelse": "Beredskabsstyrelsen hører under MSB."
+ },
+ {
+  "id": "lta-1989-308",
+  "ministerium_korrekt": "nej",
+  "rettet_m": "STM",
+  "omraade_korrekt": "nej",
+  "rettet_o": "statsret",
+  "begrundelse": "Ændring af ministeriernes forretningsområder er ressortfordeling og hører under STM/statsret."
+ },
+ {
+  "id": "lta-2024-827",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SKM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "sundhed",
+  "begrundelse": "Lægemidler hører under SKM."
+ },
+ {
+  "id": "lta-2025-416",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BAB",
+  "omraade_korrekt": "ja",
+  "rettet_o": "aeldre",
+  "begrundelse": "Ældretilsyn hører under BAB."
+ },
+ {
+  "id": "lta-2022-1528",
+  "ministerium_korrekt": "tvivl",
+  "rettet_m": "FUD",
+  "omraade_korrekt": "ja",
+  "rettet_o": "undervisning",
+  "begrundelse": "Udstedt af UFM. Ingen kendt overførsel til UVM, så FUD er sandsynligt."
+ },
+ {
+  "id": "lta-2014-1339",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MSB",
+  "omraade_korrekt": "ja",
+  "rettet_o": "beredskab-brand",
+  "begrundelse": "Brandværn hører under MSB fra 2024."
+ },
+ {
+  "id": "lta-2009-1489",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "skat",
+  "begrundelse": "Skatteministeriets område er nu SVM."
+ },
+ {
+  "id": "lta-2020-189",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SKM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "sundhed",
+  "begrundelse": "Smitsomme sygdomme hører under SKM."
+ },
+ {
+  "id": "lta-2025-1648",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "udlaendinge",
+  "begrundelse": "Udlændingeloven hører under UIM."
+ },
+ {
+  "id": "lta-1997-444",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "skat",
+  "begrundelse": "Energiafgifter er skat under SVM."
+ },
+ {
+  "id": "lta-2016-1552",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FMN",
+  "omraade_korrekt": "ja",
+  "rettet_o": "forsvar",
+  "begrundelse": "Hjemmeværnet hører under FMN."
+ },
+ {
+  "id": "lta-2006-979",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "udlaendinge",
+  "begrundelse": "Udlændingeloven er hovedemnet, så UIM."
+ },
+ {
+  "id": "lta-2005-489",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "OIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "kommuner",
+  "begrundelse": "Kommuneinddeling hører under OIM."
+ },
+ {
+  "id": "lta-2000-1024",
+  "ministerium_korrekt": "nej",
+  "rettet_m": "SVM",
+  "omraade_korrekt": "tvivl",
+  "rettet_o": "skat",
+  "begrundelse": "Loven om dobbeltbeskatningsprotokollen er udstedt af Skatteministeriet og er skatteressort."
+ },
+ {
+  "id": "lta-2018-45",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "miljoe",
+  "begrundelse": "Miljøbeskyttelse og grundvand hører under MIM."
+ },
+ {
+  "id": "lta-1999-306",
+  "ministerium_korrekt": "tvivl",
+  "rettet_m": "KUM",
+  "omraade_korrekt": "tvivl",
+  "rettet_o": "kultur-medier",
+  "begrundelse": "Akademiet som kunstinstitution hører under KUM. Det er uklart, om bekendtgørelsen primært angår uddannelse."
+ },
+ {
+  "id": "lta-1930-196",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "international",
+  "begrundelse": "Traktatbekendtgørelser hører under UM."
+ },
+ {
+  "id": "lta-2019-794",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "STM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "statsret",
+  "begrundelse": "Forretningernes fordeling hører under STM."
+ },
+ {
+  "id": "lta-2017-1335",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SOM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "social",
+  "begrundelse": "Serviceloven hører under SOM."
+ },
+ {
+  "id": "lta-2015-1342",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "arbejdsmiljoe",
+  "begrundelse": "Arbejdsmiljø offshore hører under BLM."
+ },
+ {
+  "id": "lta-2003-245",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "finansiel",
+  "begrundelse": "Finansiel regulering er overført til SVM."
+ },
+ {
+  "id": "lta-2009-274",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "EM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "soefart",
+  "begrundelse": "Sejladsforbud hører under Søfartsstyrelsen, dvs. EM."
+ },
+ {
+  "id": "lta-1997-802",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MND",
+  "omraade_korrekt": "ja",
+  "rettet_o": "landbrug-dyr",
+  "begrundelse": "Jordbrugsstøtte og økologi hører under MND."
+ },
+ {
+  "id": "lta-2016-823",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "OIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "kommuner",
+  "begrundelse": "Tilskud til regioner hører under OIM."
+ },
+ {
+  "id": "lta-2025-1461",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BAB",
+  "omraade_korrekt": "ja",
+  "rettet_o": "byggeri",
+  "begrundelse": "Byggeri hører under BAB."
+ },
+ {
+  "id": "lta-2020-1659",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FMN",
+  "omraade_korrekt": "ja",
+  "rettet_o": "forsvar",
+  "begrundelse": "Center for Cybersikkerhed hører under FMN."
+ },
+ {
+  "id": "lta-1931-279",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SOM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "familie-person",
+  "begrundelse": "Ægteskab, adoption og værgemål er familieret under SOM."
+ },
+ {
+  "id": "lta-2025-1179",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "KEFM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "energi-forsyning",
+  "begrundelse": "Varmeforsyning hører under KEFM."
+ },
+ {
+  "id": "lta-2012-704",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FT",
+  "omraade_korrekt": "ja",
+  "rettet_o": "statsret",
+  "begrundelse": "Ombudsmanden hører under Folketinget."
+ },
+ {
+  "id": "lta-2018-531",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLT",
+  "omraade_korrekt": "ja",
+  "rettet_o": "transport",
+  "begrundelse": "Godstransport hører under BLT."
+ },
+ {
+  "id": "lta-2019-836",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FMN",
+  "omraade_korrekt": "ja",
+  "rettet_o": "forsvar",
+  "begrundelse": "Center for Cybersikkerhed hører under FMN."
+ },
+ {
+  "id": "lta-2020-1544",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MSB",
+  "omraade_korrekt": "ja",
+  "rettet_o": "beredskab-brand",
+  "begrundelse": "Brandfarlige væsker hører under brand og beredskab, dvs. MSB."
+ },
+ {
+  "id": "lta-2024-1748",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "KUM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "kultur-medier",
+  "begrundelse": "Museumsloven hører under KUM."
+ },
+ {
+  "id": "lta-1993-640",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "undervisning",
+  "begrundelse": "Gymnasiale uddannelser hører under UVM."
+ },
+ {
+  "id": "lta-2007-1246",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SKM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "sundhed",
+  "begrundelse": "Sundhedspersoner hører under SKM."
+ },
+ {
+  "id": "lta-1939-475",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FMN",
+  "omraade_korrekt": "ja",
+  "rettet_o": "forsvar",
+  "begrundelse": "Militær indkvartering hører under forsvarsområdet."
+ },
+ {
+  "id": "lta-2025-1741",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MSB",
+  "omraade_korrekt": "ja",
+  "rettet_o": "beredskab-brand",
+  "begrundelse": "Beredskabsloven hører under MSB."
+ },
+ {
+  "id": "lta-1974-252",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MSB",
+  "omraade_korrekt": "ja",
+  "rettet_o": "beredskab-brand",
+  "begrundelse": "Brandværn hører under MSB."
+ },
+ {
+  "id": "lta-2025-1430",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MND",
+  "omraade_korrekt": "ja",
+  "rettet_o": "landbrug-dyr",
+  "begrundelse": "Jordbrugstilskud hører under MND."
+ },
+ {
+  "id": "lta-2016-1125",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MSB",
+  "omraade_korrekt": "ja",
+  "rettet_o": "beredskab-brand",
+  "begrundelse": "Ungdomsbrandkorps hører under beredskab, dvs. MSB."
+ },
+ {
+  "id": "lta-1976-472",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MSB",
+  "omraade_korrekt": "ja",
+  "rettet_o": "beredskab-brand",
+  "begrundelse": "Civilforsvaret svarer til beredskab under MSB."
+ },
+ {
+  "id": "lta-2022-1455",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MND",
+  "omraade_korrekt": "ja",
+  "rettet_o": "landbrug-dyr",
+  "begrundelse": "Dyresundhed og veterinære forhold hører under MND."
+ },
+ {
+  "id": "lta-1997-163",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "OIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "kommuner",
+  "begrundelse": "Kommunal udligning hører under OIM."
+ },
+ {
+  "id": "lta-1997-717",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "KUM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "kultur-medier",
+  "begrundelse": "Kulturinstitutioner hører under KUM."
+ },
+ {
+  "id": "lta-2013-512",
+  "ministerium_korrekt": "tvivl",
+  "rettet_m": "EM",
+  "omraade_korrekt": "tvivl",
+  "rettet_o": "erhvervsret",
+  "begrundelse": "Investeringsfonden for Færøerne er erhvervsfremme, ikke finansiel regulering."
+ },
+ {
+  "id": "lta-2012-254",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FT",
+  "omraade_korrekt": "ja",
+  "rettet_o": "statsret",
+  "begrundelse": "Ydelser til folketingsmedlemmer hører under Folketinget."
+ },
+ {
+  "id": "lta-2021-2697",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "EM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "erhvervsret",
+  "begrundelse": "Erhvervsdrivende fonde hører under EM."
+ },
+ {
+  "id": "lta-1927-99",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "international",
+  "begrundelse": "Traktatbekendtgørelser hører under UM."
+ },
+ {
+  "id": "lta-2018-1230",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "KUM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "kultur-medier",
+  "begrundelse": "Medielicens hører under medieområdet i KUM."
+ },
+ {
+  "id": "lta-2025-425",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MND",
+  "omraade_korrekt": "ja",
+  "rettet_o": "landbrug-dyr",
+  "begrundelse": "Planter og formeringsmateriale hører under MND."
+ },
+ {
+  "id": "lta-2009-463",
+  "ministerium_korrekt": "tvivl",
+  "rettet_m": "FM",
+  "omraade_korrekt": "tvivl",
+  "rettet_o": "offentlig-oekonomi",
+  "begrundelse": "Personalespørgsmål om statsansatte er FM's område, og loven er udstedt af FM."
+ },
+ {
+  "id": "lta-2018-1037",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MND",
+  "omraade_korrekt": "ja",
+  "rettet_o": "landbrug-dyr",
+  "begrundelse": "Efterafgrøder hører under MND."
+ },
+ {
+  "id": "lta-2022-553",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SOM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "social",
+  "begrundelse": "Social puljeordning under SOM."
+ },
+ {
+  "id": "lta-2023-12",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "skat",
+  "begrundelse": "Pensionsafkastbeskatning er skat under SVM."
+ },
+ {
+  "id": "lta-2025-586",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "finansiel",
+  "begrundelse": "Regulering af kapitalmarkedet er overført til SVM."
+ },
+ {
+  "id": "lta-1959-317",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "offentlig-oekonomi",
+  "begrundelse": "Statsgarantier og statsgæld hører under FM."
+ },
+ {
+  "id": "lta-2023-436",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "EM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "foedevarer",
+  "begrundelse": "Fødevaresikkerhed er overført til EM."
+ },
+ {
+  "id": "lta-2016-377",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "JM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "strafferet-politi",
+  "begrundelse": "Udlevering og fuldbyrdelse af straf hører under JM."
+ },
+ {
+  "id": "lta-1914-91",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLT",
+  "omraade_korrekt": "ja",
+  "rettet_o": "transport",
+  "begrundelse": "Jernbaneanlæg hører under BLT."
+ },
+ {
+  "id": "lta-2023-1383",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "EM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "erhvervsret",
+  "begrundelse": "Bogføring og regnskab hører under EM."
+ },
+ {
+  "id": "lta-2021-395",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FUD",
+  "omraade_korrekt": "ja",
+  "rettet_o": "forskning-videregaaende",
+  "begrundelse": "Kunstneriske videregående uddannelser hører under FUD."
+ },
+ {
+  "id": "lta-2006-164",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "finansiel",
+  "begrundelse": "Regulering af investeringsforeninger er nu SVM."
+ },
+ {
+  "id": "lta-2006-490",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "OIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "kommuner",
+  "begrundelse": "Kommunalret hører under OIM."
+ },
+ {
+  "id": "lta-2010-1092",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "finansiel",
+  "begrundelse": "Finansiel regulering hører under SVM."
+ },
+ {
+  "id": "lta-2016-472",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "arbejdsmiljoe",
+  "begrundelse": "Arbejdsmiljø hører under BLM."
+ },
+ {
+  "id": "lta-2024-1109",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MND",
+  "omraade_korrekt": "ja",
+  "rettet_o": "natur-vandmiljoe",
+  "begrundelse": "Vildtreservater hører under jagt og natur i MND."
+ },
+ {
+  "id": "lta-2025-486",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "fiskeri",
+  "begrundelse": "Fiskeri er overført til MIM."
+ },
+ {
+  "id": "lta-1994-589",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "KUM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "kultur-medier",
+  "begrundelse": "Bygningsfredning hører under KUM."
+ },
+ {
+  "id": "lta-2025-1559",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SOM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "social",
+  "begrundelse": "Socialtilsyn hører under SOM."
+ },
+ {
+  "id": "lta-2013-669",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "JM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "retspleje",
+  "begrundelse": "Tinglysning hører under JM."
+ },
+ {
+  "id": "lta-2018-1295",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "skat",
+  "begrundelse": "Skattemæssigt årsregnskab hører under SVM."
+ },
+ {
+  "id": "lta-2024-1543",
+  "ministerium_korrekt": "tvivl",
+  "rettet_m": "JM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "statsret",
+  "begrundelse": "Flagning med fremmede flag reguleres af JM. Guidens flag-regel hos STM gælder Dannebrog og rigsvåben."
+ },
+ {
+  "id": "lta-2025-605",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BAB",
+  "omraade_korrekt": "ja",
+  "rettet_o": "aeldre",
+  "begrundelse": "Friplejeboliger hører under BAB."
+ },
+ {
+  "id": "lta-2010-614",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "STM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "statsret",
+  "begrundelse": "Forretningernes fordeling hører under STM."
+ },
+ {
+  "id": "lta-2022-843",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FT",
+  "omraade_korrekt": "ja",
+  "rettet_o": "statsret",
+  "begrundelse": "Borgerforslagsordningen hører under Folketinget."
+ },
+ {
+  "id": "lta-2023-1710",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "KEFM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "digitalisering-tele",
+  "begrundelse": "Frekvenser og radioudstyr hører under KEFM."
+ },
+ {
+  "id": "lta-2023-955",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MND",
+  "omraade_korrekt": "ja",
+  "rettet_o": "landbrug-dyr",
+  "begrundelse": "EU-landbrugsstøtte hører under MND."
+ },
+ {
+  "id": "lta-2022-968",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FUD",
+  "omraade_korrekt": "ja",
+  "rettet_o": "digitalisering-tele",
+  "begrundelse": "MitID og NemLog-in hører under FUD."
+ },
+ {
+  "id": "lta-2001-940",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLT",
+  "omraade_korrekt": "ja",
+  "rettet_o": "plan-landdistrikter",
+  "begrundelse": "Landdistriktsudvikling hører under BLT."
+ },
+ {
+  "id": "lta-2009-240",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "KEFM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "energi-forsyning",
+  "begrundelse": "Elforsyning hører under KEFM."
+ },
+ {
+  "id": "lta-2017-687",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "skat",
+  "begrundelse": "Afgifter hører under SVM."
+ },
+ {
+  "id": "lta-2023-918",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SOM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "familie-person",
+  "begrundelse": "Underholdsbidrag hører under familieret i SOM."
+ },
+ {
+  "id": "lta-2015-219",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FUD",
+  "omraade_korrekt": "ja",
+  "rettet_o": "forskning-videregaaende",
+  "begrundelse": "Universiteter hører under FUD."
+ },
+ {
+  "id": "lta-1983-473",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "EM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "el-gas-vvs",
+  "begrundelse": "Autorisation af kloakarbejde hører under EM."
+ },
+ {
+  "id": "lta-2021-994",
+  "ministerium_korrekt": "tvivl",
+  "rettet_m": "MND",
+  "omraade_korrekt": "tvivl",
+  "rettet_o": "landbrug-dyr",
+  "begrundelse": "Sundhedsrådgivning for akvakultur er veterinær dyresundhed, dvs. MND, snarere end fiskeri."
+ },
+ {
+  "id": "lta-2004-370",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "offentlig-oekonomi",
+  "begrundelse": "Tjenestemandspension hører under FM."
+ },
+ {
+  "id": "lta-1925-194",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "international",
+  "begrundelse": "Traktatbekendtgørelser hører under UM."
+ },
+ {
+  "id": "lta-2021-1736",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "JM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "strafferet-politi",
+  "begrundelse": "Våbenloven hører under JM."
+ },
+ {
+  "id": "lta-2010-1395",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MSB",
+  "omraade_korrekt": "ja",
+  "rettet_o": "beredskab-brand",
+  "begrundelse": "Redningsberedskab hører under MSB."
+ },
+ {
+  "id": "lta-2024-995",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "miljoe",
+  "begrundelse": "Støjregulering hører under MIM."
+ },
+ {
+  "id": "lta-2020-2184",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "offentlig-oekonomi",
+  "begrundelse": "Udgiftslofter hører under budgetområdet i FM."
+ },
+ {
+  "id": "lta-1865-9999",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "EM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "soefart",
+  "begrundelse": "Skibsfart hører under EM."
+ },
+ {
+  "id": "lta-2010-1233",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SKM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "sundhed",
+  "begrundelse": "Tilskud til sygehusvæsenet hører under sundhed i SKM."
+ },
+ {
+  "id": "lta-2010-636",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "udlaendinge",
+  "begrundelse": "Udlændingeadgang hører under UIM."
+ },
+ {
+  "id": "lta-1994-465",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "international",
+  "begrundelse": "Sanktioner hører under UM."
+ },
+ {
+  "id": "lta-2025-265",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "KEFM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "energi-forsyning",
+  "begrundelse": "Vandsektorens økonomi hører under KEFM."
+ },
+ {
+  "id": "lta-2025-321",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "EM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "erhvervsret",
+  "begrundelse": "Erhvervsdrivende fonde hører under EM."
+ },
+ {
+  "id": "lta-1995-155",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "JM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "strafferet-politi",
+  "begrundelse": "Erstatning til voldsofre hører under JM."
+ },
+ {
+  "id": "lta-2023-1299",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SKM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "kirke",
+  "begrundelse": "Folkekirken hører under SKM."
+ },
+ {
+  "id": "lta-2022-1099",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "arbejdsmiljoe",
+  "begrundelse": "Arbejdsmiljø hører under BLM."
+ },
+ {
+  "id": "lta-2018-704",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "KEFM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "energi-forsyning",
+  "begrundelse": "Energiforsyning hører under KEFM."
+ },
+ {
+  "id": "lta-2026-251",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FUD",
+  "omraade_korrekt": "ja",
+  "rettet_o": "forskning-videregaaende",
+  "begrundelse": "Kunstneriske videregående uddannelser hører under FUD."
+ },
+ {
+  "id": "lta-2025-664",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "udlaendinge",
+  "begrundelse": "Indfødsret hører under UIM."
+ },
+ {
+  "id": "lta-2010-179",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "finansiel",
+  "begrundelse": "Finansielle virksomheder hører under SVM."
+ },
+ {
+  "id": "lta-2024-533",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "undervisning",
+  "begrundelse": "Folkeskolen hører under UVM."
+ },
+ {
+  "id": "lta-1984-460",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "offentlig-oekonomi",
+  "begrundelse": "Statens regnskab hører under FM."
+ },
+ {
+  "id": "lta-2015-1779",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MND",
+  "omraade_korrekt": "ja",
+  "rettet_o": "natur-vandmiljoe",
+  "begrundelse": "Naturforvaltning hører under MND."
+ },
+ {
+  "id": "lta-2020-1080",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLT",
+  "omraade_korrekt": "ja",
+  "rettet_o": "transport",
+  "begrundelse": "Taxikørsel hører under BLT."
+ },
+ {
+  "id": "lta-1973-540",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "STM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "statsret",
+  "begrundelse": "Ændring af forretningsområder er ressortfordeling under STM."
+ },
+ {
+  "id": "lta-2014-634",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "undervisning",
+  "begrundelse": "Erhvervsuddannelser hører under UVM."
+ },
+ {
+  "id": "lta-1964-117",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "STM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "statsret",
+  "begrundelse": "Ministeransvarlighed er statsret."
+ },
+ {
+  "id": "lta-2022-1319",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FMN",
+  "omraade_korrekt": "ja",
+  "rettet_o": "forsvar",
+  "begrundelse": "Flyvestation Skrydstrup hører under FMN."
+ },
+ {
+  "id": "lta-2022-90",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FUD",
+  "omraade_korrekt": "nej",
+  "rettet_o": "forskning-videregaaende",
+  "begrundelse": "Læreruddannelsen på professionshøjskole er videregående uddannelse."
+ },
+ {
+  "id": "lta-2024-680",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SOM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "social",
+  "begrundelse": "Serviceloven og magtanvendelse hører under SOM."
+ },
+ {
+  "id": "lta-2023-857",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "KEFM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "energi-forsyning",
+  "begrundelse": "Vedvarende energi hører under KEFM."
+ },
+ {
+  "id": "lta-2022-1632",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "EM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "erhvervsret",
+  "begrundelse": "COVID-kompensation til virksomheder hører under EM."
+ },
+ {
+  "id": "lta-2015-1222",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "KUM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "kultur-medier",
+  "begrundelse": "Kulturinstitutioner hører under KUM."
+ },
+ {
+  "id": "lta-2021-1456",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "fiskeri",
+  "begrundelse": "Akvakultur efter fiskeriloven hører under MIM."
+ },
+ {
+  "id": "lta-2005-1169",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FMN",
+  "omraade_korrekt": "ja",
+  "rettet_o": "forsvar",
+  "begrundelse": "Militær disciplin hører under FMN."
+ },
+ {
+  "id": "lta-1999-918",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BAB",
+  "omraade_korrekt": "ja",
+  "rettet_o": "aeldre",
+  "begrundelse": "Ældreboliger og plejehjem hører under BAB."
+ },
+ {
+  "id": "lta-1924-91",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FMN",
+  "omraade_korrekt": "ja",
+  "rettet_o": "forsvar",
+  "begrundelse": "Militær indkvartering hører under forsvarsområdet."
+ },
+ {
+  "id": "lta-2009-1413",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BAB",
+  "omraade_korrekt": "ja",
+  "rettet_o": "bolig",
+  "begrundelse": "Almene boliger hører under BAB."
+ },
+ {
+  "id": "lta-2022-161",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "EM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "erhvervsret",
+  "begrundelse": "Erhvervsstyrelsens regionalfondsmidler hører under EM."
+ },
+ {
+  "id": "lta-1976-556",
+  "ministerium_korrekt": "nej",
+  "rettet_m": "STM",
+  "omraade_korrekt": "nej",
+  "rettet_o": "statsret",
+  "begrundelse": "Ændring af forretningsområder er ressortfordeling under STM."
+ },
+ {
+  "id": "lta-1986-88",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MSB",
+  "omraade_korrekt": "ja",
+  "rettet_o": "beredskab-brand",
+  "begrundelse": "Generel forsyningssikkerhed hører under MSB."
+ },
+ {
+  "id": "lta-2023-493",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "udlaendinge",
+  "begrundelse": "Ukrainske fordrevne hører under udlændingeområdet."
+ },
+ {
+  "id": "lta-2023-172",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FUD",
+  "omraade_korrekt": "ja",
+  "rettet_o": "forskning-videregaaende",
+  "begrundelse": "Professionsbacheloruddannelser hører under FUD."
+ },
+ {
+  "id": "lta-2010-400",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "udlaendinge",
+  "begrundelse": "Udlændingeloven hører under UIM."
+ },
+ {
+  "id": "lta-1999-418",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLT",
+  "omraade_korrekt": "ja",
+  "rettet_o": "transport",
+  "begrundelse": "Taxikørsel hører under BLT."
+ },
+ {
+  "id": "lta-2026-194",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "undervisning",
+  "begrundelse": "Erhvervsuddannelser hører under UVM."
+ },
+ {
+  "id": "lta-2019-563",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "undervisning",
+  "begrundelse": "Frie skoler hører under UVM."
+ },
+ {
+  "id": "lta-2021-920",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "EM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "erhvervsret",
+  "begrundelse": "COVID-kompensation hører under EM."
+ },
+ {
+  "id": "lta-2021-216",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "undervisning",
+  "begrundelse": "Guiden placerer højskoler under UVM."
+ },
+ {
+  "id": "lta-1927-163",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "international",
+  "begrundelse": "Konventionsratifikation hører under UM."
+ },
+ {
+  "id": "lta-2014-1082",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FT",
+  "omraade_korrekt": "ja",
+  "rettet_o": "statsret",
+  "begrundelse": "Ydelser til folketingsmedlemmer hører under Folketinget."
+ },
+ {
+  "id": "lta-1985-222",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "STM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "statsret",
+  "begrundelse": "Flag og rigsfællesskabet hører under STM."
+ },
+ {
+  "id": "lta-2008-225",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "OIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "kommuner",
+  "begrundelse": "Kommunal økonomi hører under OIM."
+ },
+ {
+  "id": "lta-2024-1273",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "arbejdsmarked",
+  "begrundelse": "Ferie og feriemidler hører under BLM."
+ },
+ {
+  "id": "lta-2013-349",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FT",
+  "omraade_korrekt": "ja",
+  "rettet_o": "statsret",
+  "begrundelse": "Ombudsmanden hører under Folketinget."
+ },
+ {
+  "id": "lta-2024-1497",
+  "ministerium_korrekt": "nej",
+  "rettet_m": "JM",
+  "omraade_korrekt": "tvivl",
+  "rettet_o": "erhvervsret",
+  "begrundelse": "Brugthandel og pantelånertilladelser er politiret under JM, som også har udstedt bekendtgørelsen."
+ },
+ {
+  "id": "lta-1972-21114",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "international",
+  "begrundelse": "EF-tiltrædelse hører under UM."
+ },
+ {
+  "id": "lta-2013-639",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "JM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "statsret",
+  "begrundelse": "Offentlighed i forvaltningen hører under JM."
+ },
+ {
+  "id": "lta-2013-1578",
+  "ministerium_korrekt": "tvivl",
+  "rettet_m": "BLT",
+  "omraade_korrekt": "tvivl",
+  "rettet_o": "statsret",
+  "begrundelse": "Bekendtgørelsen er udstedt af Transportministeriet for dets egne selskaber, så BLT er sandsynligt."
+ },
+ {
+  "id": "lta-2008-484",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "offentlig-oekonomi",
+  "begrundelse": "Tjenestemænd hører under FM."
+ },
+ {
+  "id": "lta-1995-10",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "fiskeri",
+  "begrundelse": "Fiskeri er overført til MIM."
+ },
+ {
+  "id": "lta-1997-235",
+  "ministerium_korrekt": "tvivl",
+  "rettet_m": "SKM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "familie-person",
+  "begrundelse": "Anmeldelse af fødsler sker til kirkebøgerne. Personregistrering i kirkebøger hører under SKM."
+ },
+ {
+  "id": "lta-2008-1391",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "udlaendinge",
+  "begrundelse": "Indfødsret hører under UIM."
+ },
+ {
+  "id": "lta-2018-214",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "MND",
+  "omraade_korrekt": "ja",
+  "rettet_o": "landbrug-dyr",
+  "begrundelse": "Gødning og kvælstof hører under MND."
+ },
+ {
+  "id": "lta-2010-14",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "EM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "erhvervsret",
+  "begrundelse": "Metrologi hører under EM."
+ },
+ {
+  "id": "lta-1988-55",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FMN",
+  "omraade_korrekt": "ja",
+  "rettet_o": "forsvar",
+  "begrundelse": "Forsvarets skydepladser hører under FMN."
+ },
+ {
+  "id": "lta-2024-1313",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLT",
+  "omraade_korrekt": "ja",
+  "rettet_o": "transport",
+  "begrundelse": "Jernbane og DSB hører under BLT."
+ },
+ {
+  "id": "lta-2018-278",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "skat",
+  "begrundelse": "Ejendomsskat hører under SVM."
+ },
+ {
+  "id": "lta-2004-352",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "JM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "strafferet-politi",
+  "begrundelse": "Straffeloven hører under JM."
+ },
+ {
+  "id": "lta-2020-311",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "finansiel",
+  "begrundelse": "Hvidvask i finanssektoren hører under SVM."
+ },
+ {
+  "id": "lta-2020-1368",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "OIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "valg",
+  "begrundelse": "Partistøtte hører under valgområdet i OIM."
+ },
+ {
+  "id": "lta-2025-1073",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLT",
+  "omraade_korrekt": "ja",
+  "rettet_o": "transport",
+  "begrundelse": "Vejtransport hører under BLT."
+ },
+ {
+  "id": "lta-2003-445",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "international",
+  "begrundelse": "EU-udvidelse hører under UM."
+ },
+ {
+  "id": "lta-2020-75",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BAB",
+  "omraade_korrekt": "ja",
+  "rettet_o": "bolig",
+  "begrundelse": "Almene boliger hører under BAB."
+ },
+ {
+  "id": "lta-1931-300",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "international",
+  "begrundelse": "Internationale konventioner hører under UM."
+ },
+ {
+  "id": "lta-2026-128",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "undervisning",
+  "begrundelse": "Erhvervsuddannelser hører under UVM."
+ },
+ {
+  "id": "lta-2015-1093",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SKM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "sundhed",
+  "begrundelse": "Psykiatri hører under SKM."
+ },
+ {
+  "id": "lta-2019-770",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SOM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "familie-person",
+  "begrundelse": "Separation og skilsmisse er familieret under SOM."
+ },
+ {
+  "id": "lta-2025-1184",
+  "ministerium_korrekt": "nej",
+  "rettet_m": "JM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "forbruger-konkurrence",
+  "begrundelse": "Forbrugeraftaleloven er obligationsret under JM, som også er udsteder."
+ },
+ {
+  "id": "lta-1992-891",
+  "ministerium_korrekt": "nej",
+  "rettet_m": "STM",
+  "omraade_korrekt": "nej",
+  "rettet_o": "statsret",
+  "begrundelse": "Ændring af ministeriernes forretningsområder er ressortfordeling under STM."
+ },
+ {
+  "id": "lta-2001-932",
+  "ministerium_korrekt": "tvivl",
+  "rettet_m": "JM",
+  "omraade_korrekt": "tvivl",
+  "rettet_o": "strafferet-politi",
+  "begrundelse": "Erstatning efter færdselsloven er erstatningsret. Guiden placerer færdselsloven hos JM."
+ },
+ {
+  "id": "lta-2021-2009",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "udlaendinge",
+  "begrundelse": "Reintegrationsbistand hører under UIM."
+ },
+ {
+  "id": "lta-2022-698",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "FT",
+  "omraade_korrekt": "ja",
+  "rettet_o": "statsret",
+  "begrundelse": "Borgerforslagsordningen hører under Folketinget."
+ },
+ {
+  "id": "lta-2011-329",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "EM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "soefart",
+  "begrundelse": "Flagstatskrav hører under søfart i EM."
+ },
+ {
+  "id": "lta-2022-639",
+  "ministerium_korrekt": "nej",
+  "rettet_m": "BLT",
+  "omraade_korrekt": "nej",
+  "rettet_o": "transport",
+  "begrundelse": "Godskørsels- og buskørselslovene samt kontrol af køre-hviletid hører under transport, dvs. BLT."
+ },
+ {
+  "id": "lta-2022-1415",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SOM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "social",
+  "begrundelse": "Døgninstitutioner hører under SOM."
+ },
+ {
+  "id": "lta-2024-627",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "udlaendinge",
+  "begrundelse": "Indfødsret hører under UIM."
+ },
+ {
+  "id": "lta-2016-1094",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "undervisning",
+  "begrundelse": "Frie grundskoler hører under UVM."
+ },
+ {
+  "id": "lta-2021-2532",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "undervisning",
+  "begrundelse": "Gymnasiale uddannelser hører under UVM."
+ },
+ {
+  "id": "lta-2023-1501",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLT",
+  "omraade_korrekt": "ja",
+  "rettet_o": "transport",
+  "begrundelse": "Vejafmærkning hører under BLT."
+ },
+ {
+  "id": "lta-2025-593",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BAB",
+  "omraade_korrekt": "ja",
+  "rettet_o": "aeldre",
+  "begrundelse": "Ældreloven og friplejeboliger hører under BAB."
+ },
+ {
+  "id": "lta-2012-354",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "KEFM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "energi-forsyning",
+  "begrundelse": "Olieberedskab er energiforsyning under KEFM."
+ },
+ {
+  "id": "lta-2025-1075",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "KEFM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "energi-forsyning",
+  "begrundelse": "Energisektoren hører under KEFM."
+ },
+ {
+  "id": "lta-1900-89",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "BLT",
+  "omraade_korrekt": "ja",
+  "rettet_o": "transport",
+  "begrundelse": "Jernbaner hører under BLT."
+ },
+ {
+  "id": "lta-2021-432",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SKM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "kirke",
+  "begrundelse": "Folkekirken hører under SKM."
+ },
+ {
+  "id": "lta-1993-844",
+  "ministerium_korrekt": "tvivl",
+  "rettet_m": "EM",
+  "omraade_korrekt": "tvivl",
+  "rettet_o": "erhvervsret",
+  "begrundelse": "Hjemmeserviceordningen fra 1993 var en erhvervs- og beskæftigelsesordning, ikke en ældreordning."
+ },
+ {
+  "id": "lta-1886-57",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "international",
+  "begrundelse": "Bilateral deklaration hører under UM."
+ },
+ {
+  "id": "lta-2000-728",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "UIM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "udlaendinge",
+  "begrundelse": "Udlændingeloven hører under UIM."
+ },
+ {
+  "id": "lta-2005-53",
+  "ministerium_korrekt": "ja",
+  "rettet_m": "SVM",
+  "omraade_korrekt": "ja",
+  "rettet_o": "finansiel",
+  "begrundelse": "Investeringsregler for værdipapirer hører under finansiel regulering i SVM."
+ }
+]

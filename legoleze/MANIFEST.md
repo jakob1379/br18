@@ -1,0 +1,286 @@
+# Dansk regulering – datapakke
+
+Bygget 2026-11-11 20:25 UTC. Kortlægning af danske myndigheder og retskilder til et RAG-korpus (udvidelse af jakob1379/br18).
+Status for registry'et pr. 2026-10-28; katalogets dokumentstatus pr. 2026-06-12 (udstedelser til 2026-02-12).
+
+## Indhold
+
+| Mappe | Hvad |
+|---|---|
+| `dk-regulering/` | **Leverancen.** `registry.yaml` (sandheden: 615 noder, 1281 kanter, 216 huller), `README.md`, `datakilder.md`, `huller.md`, `diagrammer/` (Mermaid), `reguleringskort.html` (interaktivt kort, kan åbnes direkte i en browser), `scripts/build.py` (validering og views). |
+| `dk-regulering/katalog/` | Katalog over hele Lovtidende A: `retsinformation_lta.jsonl` (62762 dokumenter, 13819 gældende), `kanter.jsonl` (henviser_til, implementerer_EU, ressortansvar), `eu_index.jsonl` (EU-retsakter med CELEX), `README.md` (genereret oversigt). |
+| `dashboard/` | Data og side bag dækningsdashboardet (heatmap pr. retsområde, fremdrift, 69 mangler med status). |
+| `audit/` | Opus-auditten (fire linser + syntese og dækningsmatrix), vurderingen af danskelove.dk og Jurabibliotek, stikprøvekontrollen af ressort-klassifikationen og kvalitetstal. |
+| `intermediate/registry/` | Flettet og efterbehandlet registry som JSON (`final.json`), flettelog, proveniens (alle URL'er set i søgeresultater) og visualiseringsdata. |
+| `intermediate/corpus/` | Udtræk fra de 62.762 seed-filer (`docs.jsonl`: metadata og tekstfeatures), opløste referencer og lovfamilier (`resolved.json`), DocumentId-præfikser, udstedende ministerium, ressort-klassifikationen og de batches, Haiku/Opus klassificerede. |
+| `raw/workflows/` | Rå resultater fra alle 74 agent-workflows (én JSON-linje pr. agent med label og struktureret svar). |
+| `pipeline/` | Al kode: fletning, verifikation, proveniensfilter, katalog, klassifikation, views, HTML og dashboard, plus workflow-scripts. Scriptsene forventer den oprindelige mappestruktur og workflow-stierne fra sessionen; brug dem som opskrift. |
+| `harvest/` | Høster til Retsinformation (sitemap, XML, præambel/hjemmel, ministerium, EU-note), testet offline. Kræver adgang til www.retsinformation.dk og api.retsinformation.dk. |
+
+## Ikke med
+
+- Bulk-høstens 62.762 seed-filer (ca. 1,7 GB): hent dem fra github.com/Ansvar-Systems/danish-law-mcp (commit da22657b7aa604e0a900d69b2b60a7b0c424b0cb, `data/seed/`).
+- Fuld lovtekst: kataloget har metadata og krydsreferencer; teksten ligger i seed-filerne eller hentes med `harvest/`.
+- Sessionens samtale- og agent-transskripter.
+
+## Licens og kilder
+
+- Love, bekendtgørelser og andre offentlige aktstykker er ikke genstand for ophavsret (ophavsretslovens § 9). Bulk-høsten er Apache-2.0 (kode) og "DK-Statutory-PD" (data).
+- Registry'ets påstande har egne kilder (URL'er set i søgeresultater) og sikkerhed (verificeret/sandsynlig/ukendt) pr. felt og kant.
+- Katalog-kilderne er datasættets egne Retsinformation-URL'er.
+
+## Filer (251)
+
+| Fil | Bytes | SHA-256 |
+|---|---:|---|
+| `dk-regulering/README.md` | 21.449 | `b4139b82bfb318b3…` |
+| `dk-regulering/datakilder.md` | 186.375 | `b2d1d91ee1bff56d…` |
+| `dk-regulering/diagrammer/min-beskaeftigelse-og-ligestilling.md` | 18.168 | `05576c56299dc33e…` |
+| `dk-regulering/diagrammer/min-boern-aeldre-og-bolig.md` | 24.850 | `add1026b9b260c2a…` |
+| `dk-regulering/diagrammer/min-by-land-og-kirke.md` | 2.855 | `136ef9a8058137cc…` |
+| `dk-regulering/diagrammer/min-by-land-og-transport.md` | 14.085 | `a0247c500eacfce1…` |
+| `dk-regulering/diagrammer/min-erhverv.md` | 26.694 | `46ea11fac3573979…` |
+| `dk-regulering/diagrammer/min-finans.md` | 804 | `63ca0ec13efaa969…` |
+| `dk-regulering/diagrammer/min-forskning-uddannelse-og-digitalisering.md` | 2.086 | `9cd171f252ccdd38…` |
+| `dk-regulering/diagrammer/min-forsvar.md` | 6.174 | `b85642a59cca7e55…` |
+| `dk-regulering/diagrammer/min-groen-trepart.md` | 2.353 | `f15648d1de95fe18…` |
+| `dk-regulering/diagrammer/min-indenrigs-og-bolig.md` | 1.854 | `7db0dbc65b938afd…` |
+| `dk-regulering/diagrammer/min-justits.md` | 7.346 | `7809c2b321250208…` |
+| `dk-regulering/diagrammer/min-klima-energi-og-forsyning.md` | 29.930 | `01153fa3797b1078…` |
+| `dk-regulering/diagrammer/min-kultur.md` | 4.341 | `58a5a9f60fa08c43…` |
+| `dk-regulering/diagrammer/min-miljoe-og-ligestilling.md` | 5.263 | `6c588c913b57677f…` |
+| `dk-regulering/diagrammer/min-miljoe.md` | 21.933 | `97cf0886959ac8b9…` |
+| `dk-regulering/diagrammer/min-natur-og-dyrevelfaerd.md` | 12.032 | `513f418209c5ad89…` |
+| `dk-regulering/diagrammer/min-oekonomi-og-indenrigs.md` | 2.707 | `cb88a1f76ceb0d6c…` |
+| `dk-regulering/diagrammer/min-samfundssikkerhed-og-beredskab.md` | 8.354 | `118dd1a143202e25…` |
+| `dk-regulering/diagrammer/min-skat-og-vaekst.md` | 1.458 | `2331c32fb6d3d603…` |
+| `dk-regulering/diagrammer/min-social.md` | 9.023 | `00321f7997b72679…` |
+| `dk-regulering/diagrammer/min-statsministeriet.md` | 3.435 | `67cdb4388d85cc63…` |
+| `dk-regulering/diagrammer/min-sundhed-og-kirke.md` | 838 | `ba1adc0c50d7ce81…` |
+| `dk-regulering/diagrammer/min-udenrigs.md` | 810 | `21854252fd3f998a…` |
+| `dk-regulering/diagrammer/min-udlaendinge-og-integration.md` | 868 | `b87568bfea0d302e…` |
+| `dk-regulering/diagrammer/min-undervisning.md` | 824 | `16d9f55b1d6b5351…` |
+| `dk-regulering/diagrammer/oversigt.md` | 13.025 | `931a16924b6d022a…` |
+| `dk-regulering/huller.md` | 180.769 | `768fda0bfd7ead90…` |
+| `dk-regulering/katalog/README.md` | 7.464 | `d9bc836abe8a8a5a…` |
+| `dk-regulering/katalog/eu_index.jsonl` | 699.032 | `4f44c04f07e31b2d…` |
+| `dk-regulering/katalog/kanter.jsonl` | 38.095.368 | `4dc55c92ee536db0…` |
+| `dk-regulering/katalog/retsinformation_lta.jsonl` | 57.144.368 | `dc17a992f91881cf…` |
+| `dk-regulering/registry.yaml` | 3.773.928 | `e314f95887924cd8…` |
+| `dk-regulering/reguleringskort.html` | 6.675.912 | `7d4f7378241fe877…` |
+| `dk-regulering/scripts/build.py` | 25.883 | `95ba48ff8c38232f…` |
+| `dashboard/omraader.json` | 10.474 | `f266265c215f62da…` |
+| `dashboard/maalt.json` | 26.881 | `3f8a6b7cddc8d9d8…` |
+| `dashboard/vurderet.json` | 61.235 | `ae240a58998c1de1…` |
+| `dashboard/fremdrift.json` | 1.505 | `0d9b21db31f38c6a…` |
+| `dashboard/mangler.json` | 102.103 | `7af2f933826de1bd…` |
+| `dashboard/index.html` | 30.183 | `b56a0a220ad5d7ba…` |
+| `audit/audit_raw.json` | 418.631 | `b37ad1e7ca3e0db1…` |
+| `audit/indeks_raw.json` | 98.995 | `f8a882fb6b52036b…` |
+| `audit/ressort_quality.json` | 254 | `63d6e4975a01b392…` |
+| `audit/coverage.json` | 30.226 | `9e194a3043fde9bb…` |
+| `audit/provenance_stats.json` | 65 | `2a4119e015d4b82a…` |
+| `audit/opus_sample.json` | 84.492 | `a13116ac3a8d2d06…` |
+| `intermediate/registry/final.json` | 4.356.706 | `a3f6421e9067ba71…` |
+| `intermediate/registry/merged.json` | 2.079.211 | `de5edae695874801…` |
+| `intermediate/registry/merge_report.json` | 351 | `1893ee09de7e8391…` |
+| `intermediate/registry/seen_urls.json` | 2.126.602 | `c7393eb0c9520c55…` |
+| `intermediate/registry/alias.json` | 1.069 | `39e19dd9d0e66cb9…` |
+| `intermediate/registry/disputed_decisions.json` | 1.678 | `67901926cfc17ec9…` |
+| `intermediate/registry/url_fixes.json` | 485 | `fd37d9d6cc312473…` |
+| `intermediate/registry/replacement_edges.json` | 2.273 | `78e80557bf1c165d…` |
+| `intermediate/registry/v3_removed_edges.json` | 9.866 | `8ea22564aa0e2678…` |
+| `intermediate/registry/viz_data.json` | 3.521.362 | `39af0e4f1af247fe…` |
+| `intermediate/registry/viz_kat.json` | 3.030.418 | `41a8cb7e33fd30a1…` |
+| `intermediate/registry/viz_pos.json` | 21.015 | `6cbafe5b55f23e9d…` |
+| `intermediate/corpus/docs.jsonl` | 63.970.720 | `9f7f43195832b2da…` |
+| `intermediate/corpus/resolved.json` | 76.374.201 | `ff28c4cba16aee7c…` |
+| `intermediate/corpus/prefixes.json` | 146.185 | `b6e3f594cd262dbf…` |
+| `intermediate/corpus/udsteder.json` | 7.995.746 | `a602639f46e74323…` |
+| `intermediate/corpus/ressort.json` | 1.096.625 | `cced24fb4149dec0…` |
+| `intermediate/corpus/jobs/guide.md` | 11.632 | `aacf1af561ce7ade…` |
+| `intermediate/corpus/jobs/guide_v2.md` | 12.374 | `bed82b1160dba681…` |
+| `intermediate/corpus/jobs/recheck/batch_00.jsonl` | 53.631 | `3f359bea650ba1e8…` |
+| `intermediate/corpus/jobs/recheck/batch_01.jsonl` | 54.589 | `8920d7e8cb5d994d…` |
+| `intermediate/corpus/jobs/recheck/batch_02.jsonl` | 52.700 | `ee516d98a0a8e4d0…` |
+| `intermediate/corpus/jobs/recheck/batch_03.jsonl` | 54.906 | `07ff91c23e3598a8…` |
+| `intermediate/corpus/jobs/recheck/batch_04.jsonl` | 57.733 | `0a828b33a9c4ef67…` |
+| `intermediate/corpus/jobs/recheck/batch_05.jsonl` | 50.318 | `f1df392e6858491f…` |
+| `intermediate/corpus/jobs/recheck/batch_06.jsonl` | 47.328 | `c27582226539b64d…` |
+| `intermediate/corpus/jobs/recheck/batch_07.jsonl` | 1.263 | `9272d9be6e9a61eb…` |
+| `intermediate/corpus/jobs/ressort/batch_000.jsonl` | 63.022 | `506842db725596a0…` |
+| `intermediate/corpus/jobs/ressort/batch_001.jsonl` | 62.944 | `f49fe6a7e2e9074e…` |
+| `intermediate/corpus/jobs/ressort/batch_002.jsonl` | 59.677 | `1ad152b02a3951b0…` |
+| `intermediate/corpus/jobs/ressort/batch_003.jsonl` | 64.698 | `af3321687cd7e2f2…` |
+| `intermediate/corpus/jobs/ressort/batch_004.jsonl` | 57.246 | `8c74b49fdde28cda…` |
+| `intermediate/corpus/jobs/ressort/batch_005.jsonl` | 64.603 | `9fd5643f05e57a47…` |
+| `intermediate/corpus/jobs/ressort/batch_006.jsonl` | 59.437 | `a8ac90c53922ffec…` |
+| `intermediate/corpus/jobs/ressort/batch_007.jsonl` | 63.433 | `9f630903dae049bc…` |
+| `intermediate/corpus/jobs/ressort/batch_008.jsonl` | 70.704 | `4024041c2f7f50ed…` |
+| `intermediate/corpus/jobs/ressort/batch_009.jsonl` | 58.645 | `70613068f9279859…` |
+| `intermediate/corpus/jobs/ressort/batch_010.jsonl` | 59.161 | `05f2a1e00592d437…` |
+| `intermediate/corpus/jobs/ressort/batch_011.jsonl` | 55.974 | `ea798074f6147b9f…` |
+| `intermediate/corpus/jobs/ressort/batch_012.jsonl` | 68.781 | `842b433bd52b41ea…` |
+| `intermediate/corpus/jobs/ressort/batch_013.jsonl` | 61.500 | `b8fc235eaf2d90b4…` |
+| `intermediate/corpus/jobs/ressort/batch_014.jsonl` | 60.796 | `9891dbd15ccadc30…` |
+| `intermediate/corpus/jobs/ressort/batch_015.jsonl` | 59.426 | `325266b26bfc9f78…` |
+| `intermediate/corpus/jobs/ressort/batch_016.jsonl` | 57.155 | `9512e14cdedbff86…` |
+| `intermediate/corpus/jobs/ressort/batch_017.jsonl` | 58.935 | `51e697e6a6ae38dc…` |
+| `intermediate/corpus/jobs/ressort/batch_018.jsonl` | 60.354 | `26111fd1e4fe18de…` |
+| `intermediate/corpus/jobs/ressort/batch_019.jsonl` | 60.781 | `632997156d59dc7f…` |
+| `intermediate/corpus/jobs/ressort/batch_020.jsonl` | 60.318 | `62b3aa9af4968eed…` |
+| `intermediate/corpus/jobs/ressort/batch_021.jsonl` | 63.773 | `62daa4c5108e38ce…` |
+| `intermediate/corpus/jobs/ressort/batch_022.jsonl` | 60.137 | `8fdb804ea6fe3172…` |
+| `intermediate/corpus/jobs/ressort/batch_023.jsonl` | 60.205 | `590c54b76f14d2b2…` |
+| `intermediate/corpus/jobs/ressort/batch_024.jsonl` | 57.176 | `7e527e6da1a2207d…` |
+| `intermediate/corpus/jobs/ressort/batch_025.jsonl` | 57.681 | `5db696a8dd3be4ea…` |
+| `intermediate/corpus/jobs/ressort/batch_026.jsonl` | 63.206 | `a5c6001ba551b22a…` |
+| `intermediate/corpus/jobs/ressort/batch_027.jsonl` | 61.878 | `0513c6cff8e6518b…` |
+| `intermediate/corpus/jobs/ressort/batch_028.jsonl` | 60.002 | `238de85625d7b2ed…` |
+| `intermediate/corpus/jobs/ressort/batch_029.jsonl` | 61.603 | `bdcf2795ff757555…` |
+| `intermediate/corpus/jobs/ressort/batch_030.jsonl` | 63.126 | `14ba9fa1dd72cf14…` |
+| `intermediate/corpus/jobs/ressort/batch_031.jsonl` | 65.521 | `fb06225aa02c5032…` |
+| `intermediate/corpus/jobs/ressort/batch_032.jsonl` | 59.595 | `a522991d85b78672…` |
+| `intermediate/corpus/jobs/ressort/batch_033.jsonl` | 78.595 | `9ffb55a96e70d86a…` |
+| `intermediate/corpus/jobs/ressort/batch_034.jsonl` | 55.660 | `cb4d22138005fbaa…` |
+| `intermediate/corpus/jobs/ressort/batch_035.jsonl` | 62.944 | `e248e0087d82997c…` |
+| `intermediate/corpus/jobs/ressort/batch_036.jsonl` | 60.601 | `d6283f6fe3b5518e…` |
+| `intermediate/corpus/jobs/ressort/batch_037.jsonl` | 53.669 | `209435734e488455…` |
+| `intermediate/corpus/jobs/ressort/batch_038.jsonl` | 59.442 | `330e3b9474482adc…` |
+| `intermediate/corpus/jobs/ressort/batch_039.jsonl` | 64.870 | `31df6d3cbf637693…` |
+| `intermediate/corpus/jobs/ressort/batch_040.jsonl` | 63.162 | `e645eaa1ee989690…` |
+| `intermediate/corpus/jobs/ressort/batch_041.jsonl` | 60.216 | `3c3c72b0cd9f64f5…` |
+| `intermediate/corpus/jobs/ressort/batch_042.jsonl` | 59.527 | `5dbf169e78ca9186…` |
+| `intermediate/corpus/jobs/ressort/batch_043.jsonl` | 49.880 | `97f952a267c314e9…` |
+| `intermediate/corpus/jobs/ressort/batch_044.jsonl` | 51.431 | `c6db2933796c8b1e…` |
+| `intermediate/corpus/jobs/ressort/batch_045.jsonl` | 51.573 | `8774fea185315819…` |
+| `intermediate/corpus/jobs/ressort/batch_046.jsonl` | 52.353 | `cca65d995a22d4da…` |
+| `intermediate/corpus/jobs/ressort/batch_047.jsonl` | 58.686 | `21936ab9c66de1b9…` |
+| `intermediate/corpus/jobs/ressort/batch_048.jsonl` | 63.263 | `54f05d83a78e6296…` |
+| `intermediate/corpus/jobs/ressort/batch_049.jsonl` | 22.652 | `0f2ccf8ef780397e…` |
+| `intermediate/corpus/jobs/sample/batch_0.jsonl` | 59.400 | `188a0d997a493fbe…` |
+| `intermediate/corpus/jobs/sample/batch_1.jsonl` | 59.743 | `8010c37d07892671…` |
+| `raw/workflows/wf_071e657e-858.jsonl` | 57.429 | `ccf51ebc43a0878a…` |
+| `raw/workflows/wf_0866a312-5c1.jsonl` | 321.475 | `90d05866c1a01f12…` |
+| `raw/workflows/wf_0d909033-65f.jsonl` | 92.452 | `bbc4ebb8c5a49adb…` |
+| `raw/workflows/wf_116f361d-6aa.jsonl` | 28.886 | `285b788e8e98fd5d…` |
+| `raw/workflows/wf_12b74310-212.jsonl` | 85.244 | `341b44935679550a…` |
+| `raw/workflows/wf_133ea027-108.jsonl` | 867.165 | `f135d607277ce3f1…` |
+| `raw/workflows/wf_144a95b7-6d3.jsonl` | 55.354 | `c291aa418f644c99…` |
+| `raw/workflows/wf_16760e0c-8ea.jsonl` | 106.355 | `398896c42d3b161c…` |
+| `raw/workflows/wf_20880a47-533.jsonl` | 16.507 | `dccb1b6f481c34ef…` |
+| `raw/workflows/wf_2248df8d-a25.jsonl` | 970.803 | `b1bc9fa071bf65bd…` |
+| `raw/workflows/wf_233485d9-0e4.jsonl` | 35.622 | `bad53b30a19962f0…` |
+| `raw/workflows/wf_24c49f2a-cd0.jsonl` | 59.984 | `feaef2a793783e2a…` |
+| `raw/workflows/wf_2847a79c-11f.jsonl` | 379 | `56869d399d2db9eb…` |
+| `raw/workflows/wf_2c421c8d-f7c.jsonl` | 1.354.188 | `1e4420fb4bea2928…` |
+| `raw/workflows/wf_2cd4d0a5-651.jsonl` | 68.390 | `010d0ba886b8055b…` |
+| `raw/workflows/wf_3efb8cfa-c2d.jsonl` | 26.275 | `e359cb840fd719a4…` |
+| `raw/workflows/wf_43e0afa7-699.jsonl` | 24.767 | `83a627d7ccd9f5d8…` |
+| `raw/workflows/wf_46b15121-712.jsonl` | 51.795 | `14e4e3798160a027…` |
+| `raw/workflows/wf_4cf5d5c4-0a4.jsonl` | 239.869 | `2a0006c550d73e67…` |
+| `raw/workflows/wf_5452dbf7-b7d.jsonl` | 57.247 | `c862b8367bf3ca9d…` |
+| `raw/workflows/wf_58d625e0-657.jsonl` | 76.766 | `9fbb23c5f6e6d763…` |
+| `raw/workflows/wf_5ed575c6-457.jsonl` | 54.066 | `5d69dd7bfda20d7a…` |
+| `raw/workflows/wf_61558f7c-b7d.jsonl` | 60.130 | `ed00c9dbd3ac3ef5…` |
+| `raw/workflows/wf_687a21b1-ac1.jsonl` | 59.474 | `fedf58ccd5a23471…` |
+| `raw/workflows/wf_6b06f7d7-d45.jsonl` | 67.608 | `96cad4fa12933638…` |
+| `raw/workflows/wf_6bf57053-453.jsonl` | 388.897 | `748811a011a3c768…` |
+| `raw/workflows/wf_6e1b8b5a-004.jsonl` | 72.804 | `a22b22966e43bb74…` |
+| `raw/workflows/wf_7152a576-cab.jsonl` | 176.416 | `e680f2eb583992f6…` |
+| `raw/workflows/wf_73713aef-3b3.jsonl` | 54.289 | `0c6d143148e04b48…` |
+| `raw/workflows/wf_73e8a5d5-f45.jsonl` | 28.391 | `9040c37436eeae90…` |
+| `raw/workflows/wf_74a591a5-10a.jsonl` | 49.844 | `189e80d1007d8b06…` |
+| `raw/workflows/wf_78cad09e-455.jsonl` | 28.745 | `4f0ed9ab284ff7ea…` |
+| `raw/workflows/wf_7d5cca50-baf.jsonl` | 52.340 | `1bfe592320ddd299…` |
+| `raw/workflows/wf_7d646885-824.jsonl` | 43.338 | `94472487a1fda419…` |
+| `raw/workflows/wf_8072ff40-c0f.jsonl` | 61.280 | `4c2d3fc664a1a554…` |
+| `raw/workflows/wf_8e00beb5-2c4.jsonl` | 64.689 | `a5f3c3305a7e9a98…` |
+| `raw/workflows/wf_93567d18-f52.jsonl` | 61.224 | `9301cb49d09dc024…` |
+| `raw/workflows/wf_95d8d56d-6b0.jsonl` | 52.738 | `e0786eeac3f3ce75…` |
+| `raw/workflows/wf_97db13a1-7ae.jsonl` | 98.229 | `7c7254682e6307e5…` |
+| `raw/workflows/wf_997f5d45-01d.jsonl` | 28.102 | `2ca8f73ed3827113…` |
+| `raw/workflows/wf_9c177447-3f2.jsonl` | 97.645 | `159e2ee091ef64a5…` |
+| `raw/workflows/wf_9c6c102c-2ed.jsonl` | 69.753 | `40d9584be3070cb7…` |
+| `raw/workflows/wf_9cc23364-345.jsonl` | 90.878 | `a2fc4019f026951c…` |
+| `raw/workflows/wf_9d49be1e-420.jsonl` | 55.517 | `5c20e6d91f8f20a7…` |
+| `raw/workflows/wf_9eef439a-f19.jsonl` | 60.297 | `a04601b7a1ae2fc7…` |
+| `raw/workflows/wf_a0be858b-ee2.jsonl` | 54.997 | `3396644604b69b4f…` |
+| `raw/workflows/wf_a4fcd026-73d.jsonl` | 32.245 | `9614a89cc64480a2…` |
+| `raw/workflows/wf_a5875277-6ec.jsonl` | 61.733 | `39a834f121ca9429…` |
+| `raw/workflows/wf_a8e6c505-849.jsonl` | 56.411 | `de6c8155c18c2a78…` |
+| `raw/workflows/wf_aee0ccb5-ba9.jsonl` | 60.463 | `4e97439ac8c374ee…` |
+| `raw/workflows/wf_af25d1a3-de3.jsonl` | 47.716 | `a01641aab26ba597…` |
+| `raw/workflows/wf_af816b50-b42.jsonl` | 44.257 | `9452ab47ecfaa0e6…` |
+| `raw/workflows/wf_b03b4870-e49.jsonl` | 64.387 | `977ba55cb6531d9b…` |
+| `raw/workflows/wf_b34e2e13-60d.jsonl` | 20.577 | `9d65333cc4cbe7e2…` |
+| `raw/workflows/wf_b49d965c-43b.jsonl` | 70.431 | `2e332d72d67c07fe…` |
+| `raw/workflows/wf_b500ac39-797.jsonl` | 90.954 | `af40583fc08d74c0…` |
+| `raw/workflows/wf_b78aacd4-325.jsonl` | 150.199 | `f563c19b2243a6ee…` |
+| `raw/workflows/wf_c25aa041-8b5.jsonl` | 31.155 | `f0954598d42b3fdf…` |
+| `raw/workflows/wf_c5c4d4ae-d31.jsonl` | 366.356 | `f4dafe96f66c91be…` |
+| `raw/workflows/wf_c8d7894e-320.jsonl` | 61.462 | `07ac1d0f992dac78…` |
+| `raw/workflows/wf_cb146e40-2bb.jsonl` | 935.883 | `6baac5ac88cc91e3…` |
+| `raw/workflows/wf_cb4b53eb-4e2.jsonl` | 49.571 | `d90a57ba9dba54ce…` |
+| `raw/workflows/wf_cbd67c1c-b9d.jsonl` | 63.878 | `7485d4555d3d9c8b…` |
+| `raw/workflows/wf_ce801cde-95b.jsonl` | 40.958 | `4f0766bcce71756d…` |
+| `raw/workflows/wf_d02616cb-f61.jsonl` | 68.855 | `9565512c1d39e14b…` |
+| `raw/workflows/wf_d2b55b19-4bc.jsonl` | 227.155 | `906df8105b64aac8…` |
+| `raw/workflows/wf_d3c360a7-9e2.jsonl` | 206.953 | `103091ae9df6811c…` |
+| `raw/workflows/wf_d6572c22-3fe.jsonl` | 799.775 | `e5105a1eb83fc161…` |
+| `raw/workflows/wf_d7345b60-c44.jsonl` | 57.291 | `8053e5d99a62ad87…` |
+| `raw/workflows/wf_e47f9e2f-ff4.jsonl` | 51.795 | `c1418602504ba52e…` |
+| `raw/workflows/wf_ea90c2c3-359.jsonl` | 70.300 | `779de9547e642e61…` |
+| `raw/workflows/wf_eba81705-c45.jsonl` | 77.563 | `0dadd7f64231739d…` |
+| `raw/workflows/wf_effb934a-82c.jsonl` | 246.737 | `502742ecee8ee603…` |
+| `raw/workflows/wf_fb44e96b-74c.jsonl` | 53.005 | `33c43b1470d8b1f2…` |
+| `pipeline/workflows/dk-katalog-ressort-opus-wf_7152a576-cab.js` | 4.104 | `93333d598458dd27…` |
+| `pipeline/workflows/dk-katalog-ressort-wf_20880a47-533.js` | 3.452 | `b8f993494985d46d…` |
+| `pipeline/workflows/dk-reg-baseline-wf_2847a79c-11f.js` | 14.499 | `20d5b6d9bd8d17c3…` |
+| `pipeline/workflows/dk-reg-coverage-audit-wf_6bf57053-453.js` | 12.478 | `f8bd09696811660d…` |
+| `pipeline/workflows/dk-reg-huller-wf_97db13a1-7ae.js` | 2.952 | `e808f08fdf1edc2a…` |
+| `pipeline/workflows/dk-reg-indeks-vurdering-wf_0d909033-65f.js` | 5.876 | `6c2331def6c7a85d…` |
+| `pipeline/workflows/reguleringskort-qa-wf_95d8d56d-6b0.js` | 4.979 | `74c0b077479b4335…` |
+| `pipeline/workflows/dk-reg-domain.js` | 33.121 | `49f93dc2faa80bf7…` |
+| `pipeline/workflows/dk-reg-fill.js` | 7.716 | `a1a61dbbd2edbac0…` |
+| `pipeline/workflows/dk-reg-verify.js` | 18.218 | `eb3abe8469f7952d…` |
+| `pipeline/workflows/dk-reg-verify3.js` | 8.114 | `2e56156a567914f3…` |
+| `pipeline/run_all.sh` | 989 | `631b94499676b462…` |
+| `pipeline/merge.py` | 11.877 | `e8f405954cd3417c…` |
+| `pipeline/finalize.py` | 22.901 | `65d4af52776b1b03…` |
+| `pipeline/seen_urls.py` | 1.503 | `ec3b0d7fdc95d96c…` |
+| `pipeline/provenance.py` | 3.272 | `3a81f4ebf5adc1a0…` |
+| `pipeline/manual_fixes.py` | 1.588 | `556f7ea8d4d8b52a…` |
+| `pipeline/consolidate_huller.py` | 2.755 | `f8695d49ffe1601f…` |
+| `pipeline/registry_sync.py` | 22.682 | `c143e071b4fc478e…` |
+| `pipeline/write_registry.py` | 11.125 | `65067b72f3f03823…` |
+| `pipeline/write_readme.py` | 18.163 | `4462acb0426d5cf1…` |
+| `pipeline/viz_prep.py` | 2.947 | `f8a1267ed6dce89d…` |
+| `pipeline/viz_kat.py` | 2.820 | `50254e1236658c54…` |
+| `pipeline/viz_build.py` | 1.372 | `dfc5f3a6cafbebcb…` |
+| `pipeline/viz_template.html` | 28.491 | `29343788c0c04283…` |
+| `pipeline/viz_script.js` | 72.720 | `e590024632a99b28…` |
+| `pipeline/coverage_prep.py` | 4.774 | `e0bbc191112a1576…` |
+| `pipeline/dash_prep.py` | 12.718 | `b079188b678ca390…` |
+| `pipeline/package.py` | 7.352 | `e18699ee5ce0435d…` |
+| `pipeline/corpus/extract.py` | 7.981 | `78bfdd496bde8af4…` |
+| `pipeline/corpus/prefixes.py` | 3.825 | `2010426567a1d9ba…` |
+| `pipeline/corpus/udsteder.py` | 3.144 | `ff2bf29e07305f23…` |
+| `pipeline/corpus/make_jobs.py` | 1.355 | `320603a1c54011ac…` |
+| `pipeline/corpus/resolve.py` | 10.546 | `ab00b3531770f8fa…` |
+| `pipeline/corpus/resolve_keys.py` | 605 | `eaf947d501e3d202…` |
+| `pipeline/corpus/ressort_import.py` | 2.406 | `5c72a76e586278ac…` |
+| `pipeline/corpus/ressort_quality.py` | 3.083 | `f1c228b7702af78b…` |
+| `pipeline/corpus/katalog.py` | 11.396 | `531d4b16022db32d…` |
+| `pipeline/corpus/census.py` | 1.044 | `6adc72d27bb4c052…` |
+| `pipeline/corpus/run_corpus.sh` | 299 | `76285252fd3ae348…` |
+| `pipeline/mmd/layout.js` | 1.242 | `7448250fe967d116…` |
+| `pipeline/mmd/shot.js` | 2.524 | `de37a0753286cd5a…` |
+| `pipeline/mmd/kshot.js` | 2.337 | `4323856d7cfe431b…` |
+| `pipeline/mmd/kint.js` | 2.975 | `4b211c8bde4b7743…` |
+| `pipeline/mmd/qa2.js` | 5.610 | `5d55301d382c4481…` |
+| `pipeline/mmd/package.json` | 114 | `5db1274d606edb35…` |
+| `harvest/harvest.py` | 12.797 | `25701114ad0f50ba…` |
+| `harvest/run_harvest.sh` | 550 | `6d9e6324809c0483…` |
+| `harvest/README.md` | 1.058 | `d6cf34b9f52fe5c6…` |
+| `harvest/test_harvest.py` | 4.003 | `a2e5cc37a0756266…` |

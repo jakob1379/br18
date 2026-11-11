@@ -1,0 +1,407 @@
+<title>Dansk reguleringskort</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=Newsreader:opsz,wght@6..72,500;6..72,600&display=swap">
+<style>
+/* Layout: et arbejdsbord – fast topbjælke med opsummering, faneblade, og pr. fane et arbejdsområde (filtre | kort | detaljer). */
+:root {
+  --bg: #f4f6f5;
+  --surface: #ffffff;
+  --surface-2: #eaeeec;
+  --ink: #142022;
+  --ink-2: #44514f;
+  --muted: #6e7b79;
+  --line: #d6ddda;
+  --accent: #1c5d6e;
+  --accent-ink: #ffffff;
+  --accent-soft: #d9e9ec;
+  --edge: #8a9794;
+  --s1: #2a78d6; --s2: #eb6834; --s3: #1baf7a; --s4: #eda100; --s5: #e87ba4; --s6: #008300; --s7: #6250d6; --s8: #e34948;
+  --meta: #9aa29f;
+  --good: #0ca30c; --warn: #fab219; --unk: #9aa29f;
+  --good-ink: #0a6e0a; --warn-ink: #8a5a00; --unk-ink: #5d6664;
+  --seq-ink-hi: #ffffff;
+  --seq-1: #cde2fb; --seq-2: #9ec5f4; --seq-3: #6da7ec; --seq-4: #3987e5; --seq-5: #1c5cab; --seq-6: #0d366b;
+  --f-display: "Newsreader", "Iowan Old Style", Georgia, serif;
+  --f-body: "IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
+  --f-mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+  --r: 6px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #101516; --surface: #171e1f; --surface-2: #1f2829; --ink: #e9efed; --ink-2: #b6c2bf; --muted: #8a9794; --line: #2b3536;
+    --accent: #7cc0d1; --accent-ink: #0b1a1d; --accent-soft: #1d3439; --edge: #56625f;
+    --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s5: #d55181; --s6: #008300; --s7: #9085e9; --s8: #e66767;
+    --meta: #6f7a77; --good: #0ca30c; --warn: #fab219; --unk: #6f7a77;
+    --good-ink: #5fd35f; --warn-ink: #fac24d; --unk-ink: #a7b2af;
+    --seq-ink-hi: #0b1a1d;
+  --seq-1: #16314f; --seq-2: #184f95; --seq-3: #256abf; --seq-4: #3987e5; --seq-5: #6da7ec; --seq-6: #b7d3f6;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #101516; --surface: #171e1f; --surface-2: #1f2829; --ink: #e9efed; --ink-2: #b6c2bf; --muted: #8a9794; --line: #2b3536;
+  --accent: #7cc0d1; --accent-ink: #0b1a1d; --accent-soft: #1d3439; --edge: #56625f;
+  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s5: #d55181; --s6: #008300; --s7: #9085e9; --s8: #e66767;
+  --meta: #6f7a77; --good: #0ca30c; --warn: #fab219; --unk: #6f7a77;
+  --good-ink: #5fd35f; --warn-ink: #fac24d; --unk-ink: #a7b2af;
+  --seq-ink-hi: #0b1a1d; --seq-1: #16314f; --seq-2: #184f95; --seq-3: #256abf; --seq-4: #3987e5; --seq-5: #6da7ec; --seq-6: #b7d3f6;
+  color-scheme: dark;
+}
+html, body { height: 100%; }
+body { background: var(--bg); color: var(--ink); font-family: var(--f-body); font-size: 14px; line-height: 1.45; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--surface); }
+a { color: var(--accent); text-underline-offset: 2px; }
+button, input, select { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.wrap { padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+
+/* top */
+.top { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--surface); border-bottom: 1px solid var(--line); }
+.top-inner { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 20px; padding-block: 12px 0; }
+.brand { display: flex; flex-direction: column; gap: 2px; min-width: 0; margin-right: auto; }
+.brand h1 { font-family: var(--f-display); font-weight: 600; font-size: 1.55rem; line-height: 1.1; margin: 0; letter-spacing: -0.01em; text-wrap: balance; }
+.brand .sub { color: var(--ink-2); font-size: 0.86rem; }
+.brand .sub b { font-weight: 600; color: var(--ink); }
+.search { position: relative; flex: 0 1 340px; min-width: 200px; }
+.search input { width: 100%; box-sizing: border-box; padding: 8px 12px 8px 32px; border: 1px solid var(--line); border-radius: var(--r); background: var(--bg); }
+.search svg { position: absolute; left: 10px; top: 50%; transform: translateY(-50%); width: 14px; height: 14px; color: var(--muted); }
+.results { position: absolute; top: calc(100% + 4px); left: 0; right: 0; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); box-shadow: 0 8px 24px rgb(0 0 0 / 0.14); max-height: 360px; overflow: auto; z-index: 20; }
+.results button { display: flex; gap: 8px; align-items: baseline; width: 100%; text-align: left; padding: 7px 10px; border: 0; background: none; cursor: pointer; }
+.results button:hover, .results button[aria-selected="true"] { background: var(--accent-soft); }
+.results .rid { font-family: var(--f-mono); font-size: 0.72rem; color: var(--muted); margin-left: auto; white-space: nowrap; }
+nav.tabs { display: flex; gap: 2px; overflow-x: auto; width: 100%; scrollbar-width: none; }
+nav.tabs a { padding: 10px 14px 9px; text-decoration: none; color: var(--ink-2); border-bottom: 2px solid transparent; white-space: nowrap; font-weight: 500; }
+nav.tabs a[aria-current="page"] { color: var(--ink); border-bottom-color: var(--accent); }
+nav.tabs a:hover { color: var(--ink); }
+
+/* summary strip */
+.summary { display: flex; flex-wrap: wrap; gap: 10px 28px; align-items: center; padding-block: 12px; border-bottom: 1px solid var(--line); }
+.stat { display: flex; align-items: baseline; gap: 6px; }
+.stat b { font-family: var(--f-display); font-size: 1.35rem; font-weight: 600; font-variant-numeric: tabular-nums; }
+.stat span { color: var(--ink-2); }
+.certbar { display: flex; flex-direction: column; gap: 4px; min-width: 240px; flex: 1 1 260px; max-width: 460px; }
+.certbar .bar { display: flex; height: 10px; border-radius: 3px; overflow: hidden; gap: 2px; background: var(--surface); }
+.certbar .bar i { display: block; height: 100%; }
+.certbar .lg { display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: 0.8rem; color: var(--ink-2); }
+
+/* certainty badges */
+.cert { display: inline-flex; align-items: center; gap: 4px; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.02em; padding: 1px 7px 1px 5px; border-radius: 999px; border: 1px solid currentColor; white-space: nowrap; line-height: 1.5; }
+.cert::before { font-weight: 700; }
+.cert.verificeret { color: var(--good-ink); } .cert.verificeret::before { content: "✓"; }
+.cert.sandsynlig { color: var(--warn-ink); } .cert.sandsynlig::before { content: "≈"; }
+.cert.ukendt { color: var(--unk-ink); } .cert.ukendt::before { content: "?"; }
+.dot { display: inline-block; width: 9px; height: 9px; border-radius: 2px; vertical-align: middle; }
+
+/* views */
+main { min-height: 0; }
+.view { padding-block: 16px 40px; }
+.view[hidden] { display: none !important; }
+h2 { font-family: var(--f-display); font-weight: 600; font-size: 1.3rem; margin: 0 0 4px; text-wrap: balance; }
+h3 { font-size: 0.95rem; margin: 0; font-weight: 600; }
+.lede { color: var(--ink-2); max-width: 72ch; margin: 0 0 14px; }
+.eyebrow { font-size: 0.7rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); font-weight: 600; }
+
+/* network view */
+.net { display: grid; grid-template-columns: 236px minmax(0, 1fr) 380px; gap: 14px; align-items: start; }
+.panel { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); }
+.filters-box { max-height: max(460px, calc(100vh - 210px)); overflow: auto; }
+.filters-box > summary { padding: 10px 12px 6px; cursor: pointer; font-weight: 600; font-size: 0.86rem; }
+.filters { padding: 4px 12px 12px; display: flex; flex-direction: column; gap: 14px; }
+.filters fieldset { border: 0; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 4px; }
+.filters legend { padding: 0 0 4px; }
+.chk { display: flex; align-items: center; gap: 7px; cursor: pointer; padding: 2px 0; font-size: 0.86rem; }
+.chk input { margin: 0; accent-color: var(--accent); }
+.chk .n { margin-left: auto; color: var(--muted); font-variant-numeric: tabular-nums; font-size: 0.78rem; }
+.chk svg { flex: none; }
+.chk label { cursor: pointer; }
+.only { border: 0; background: none; color: var(--accent); font-size: 0.72rem; cursor: pointer; padding: 0 2px; margin-left: auto; }
+.only + .n { margin-left: 6px; }
+ul.plain { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 3px; }
+details ol { overflow-wrap: anywhere; font-size: 0.78rem; padding-left: 18px; margin: 4px 0 0; }
+.btnrow { display: flex; flex-wrap: wrap; gap: 6px; }
+.btn { border: 1px solid var(--line); background: var(--surface); border-radius: var(--r); padding: 5px 10px; cursor: pointer; font-size: 0.84rem; }
+.btn:hover { border-color: var(--accent); }
+.btn.primary { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+.graph { position: relative; height: calc(100vh - 210px); min-height: 460px; overflow: hidden; }
+.cy { position: absolute; inset: 0; }
+.graph .hud { position: absolute; left: 10px; bottom: 10px; display: flex; gap: 6px; flex-wrap: wrap; align-items: center; pointer-events: none; }
+.graph .hud > * { pointer-events: auto; }
+.hint { font-size: 0.78rem; color: var(--muted); background: color-mix(in srgb, var(--surface) 88%, transparent); padding: 3px 8px; border-radius: var(--r); }
+.zoom { position: absolute; right: 10px; top: 10px; display: flex; flex-direction: column; gap: 4px; }
+.zoom button { width: 30px; height: 30px; border: 1px solid var(--line); background: var(--surface); border-radius: var(--r); cursor: pointer; font-size: 1rem; line-height: 1; }
+.tip { position: absolute; pointer-events: none; background: var(--ink); color: var(--bg); font-size: 0.8rem; padding: 4px 8px; border-radius: 4px; max-width: 320px; z-index: 3; }
+.detail { padding: 14px; max-height: max(460px, calc(100vh - 210px)); overflow: auto; display: flex; flex-direction: column; gap: 12px; }
+.detail .head { display: flex; flex-direction: column; gap: 6px; }
+.detail .title { font-family: var(--f-display); font-size: 1.2rem; font-weight: 600; line-height: 1.2; margin: 0; }
+.chips { display: flex; flex-wrap: wrap; gap: 4px; }
+.chip { display: inline-flex; align-items: center; gap: 5px; font-size: 0.75rem; padding: 1px 8px; border-radius: 999px; background: var(--surface-2); color: var(--ink-2); white-space: nowrap; }
+.chip.status-nedlagt, .chip.status-ophævet, .chip.status-omdøbt, .chip.hist { background: transparent; border: 1px dashed var(--muted); }
+.chip.bestridt { background: transparent; border: 1px solid var(--warn-ink); color: var(--warn-ink); }
+.mono { font-family: var(--f-mono); font-size: 0.78rem; }
+.idline { color: var(--muted); word-break: break-all; }
+.fields { display: flex; flex-direction: column; gap: 0; border-top: 1px solid var(--line); }
+.field { padding: 8px 0; border-bottom: 1px solid var(--line); display: flex; flex-direction: column; gap: 3px; min-width: 0; }
+.field .fh { display: flex; align-items: center; gap: 8px; }
+.field .fh .eyebrow { margin-right: auto; }
+.field .fv { overflow-wrap: anywhere; }
+.field details summary { cursor: pointer; color: var(--muted); font-size: 0.78rem; }
+.field details ol { margin: 4px 0 0; padding-left: 18px; font-size: 0.78rem; overflow-wrap: anywhere; }
+.knote { font-size: 0.75rem; color: var(--muted); font-style: italic; }
+.rel h3 { margin-bottom: 4px; }
+.rel ul { list-style: none; margin: 0 0 8px; padding: 0; display: flex; flex-direction: column; gap: 2px; }
+.rel li { display: flex; align-items: baseline; gap: 6px; font-size: 0.86rem; min-width: 0; }
+.rel li .et { color: var(--muted); font-size: 0.74rem; white-space: nowrap; min-width: 92px; }
+.rel li button.lnk { flex: 1 1 auto; min-width: 0; text-align: left; }
+.lnk { text-align: left; border: 0; background: none; padding: 0; color: var(--accent); cursor: pointer; text-decoration: underline; text-underline-offset: 2px; overflow-wrap: anywhere; }
+.mk { font-size: 0.72rem; font-weight: 700; width: 12px; flex: none; text-align: center; }
+.mk.verificeret { color: var(--good-ink); } .mk.sandsynlig { color: var(--warn-ink); } .mk.ukendt { color: var(--unk-ink); }
+.empty { color: var(--ink-2); display: flex; flex-direction: column; gap: 10px; }
+.empty ul { margin: 0; padding-left: 18px; }
+
+/* chain */
+.chain-controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: end; margin-bottom: 12px; }
+.chain-controls label { display: flex; flex-direction: column; gap: 3px; font-size: 0.8rem; color: var(--ink-2); min-width: 0; max-width: 100%; flex: 1 1 320px; }
+.chain-controls select { padding: 6px 8px; border: 1px solid var(--line); border-radius: var(--r); background: var(--surface); width: 100%; }
+.chain-grid { display: grid; grid-template-columns: minmax(0, 1fr); gap: 14px; }
+.chain-graph { position: relative; height: 62vh; min-height: 420px; overflow: hidden; }
+.cols { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 12px; }
+.col { padding: 10px 12px; min-width: 0; }
+.col ul { list-style: none; padding: 0; margin: 6px 0 0; display: flex; flex-direction: column; gap: 3px; font-size: 0.85rem; }
+.col li { display: flex; gap: 6px; align-items: baseline; min-width: 0; }
+
+/* ressort */
+.min-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 340px), 1fr)); gap: 12px; }
+.mcard { padding: 14px; display: flex; flex-direction: column; gap: 8px; min-width: 0; }
+.mcard .mh { display: flex; flex-direction: column; gap: 2px; }
+.mcard .mname { font-family: var(--f-display); font-weight: 600; font-size: 1.08rem; line-height: 1.2; color: var(--ink); text-decoration: none; }
+.mcard.old { border-style: dashed; }
+.mcard .mname:hover { text-decoration: underline; }
+.mcard .minister { color: var(--ink-2); font-size: 0.83rem; }
+.mcard .counts { display: flex; gap: 12px; font-size: 0.8rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+.mcard ul { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 2px; font-size: 0.86rem; }
+.mcard li { display: flex; gap: 6px; align-items: baseline; }
+.mcard details summary { cursor: pointer; font-size: 0.83rem; color: var(--ink-2); }
+.areas { font-size: 0.82rem; color: var(--ink-2); border-top: 1px solid var(--line); padding-top: 6px; }
+.timeline { list-style: none; padding: 0; margin: 0; position: relative; display: flex; flex-direction: column; gap: 0; }
+.timeline li { display: grid; grid-template-columns: 110px minmax(0, 1fr); gap: 14px; padding: 10px 0; border-bottom: 1px solid var(--line); }
+.timeline .date { font-family: var(--f-mono); font-size: 0.8rem; color: var(--ink-2); padding-top: 2px; }
+.timeline .what { display: flex; flex-direction: column; gap: 3px; min-width: 0; }
+.timeline .ft { font-size: 0.86rem; color: var(--ink-2); overflow-wrap: anywhere; }
+.timeline .ft b { color: var(--ink); font-weight: 500; }
+.section-gap { margin-top: 28px; }
+
+/* kilder */
+.kgrid { display: grid; grid-template-columns: minmax(0, 340px) minmax(0, 1fr); gap: 18px; align-items: start; }
+.matrix { padding: 14px; }
+.matrix svg { width: 100%; height: auto; display: block; }
+.matrix .cell { cursor: pointer; }
+.matrix .cell:hover rect { stroke: var(--ink); stroke-width: 1.5; }
+.matrix .cell.on rect { stroke: var(--accent); stroke-width: 2.5; }
+.tablewrap { overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; font-size: 0.84rem; }
+th, td { text-align: left; padding: 6px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { font-size: 0.72rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); font-weight: 600; white-space: nowrap; position: sticky; top: 0; background: var(--surface); }
+th button { border: 0; background: none; padding: 0; cursor: pointer; font: inherit; color: inherit; text-transform: inherit; letter-spacing: inherit; }
+th button[aria-sort]::after { content: " ↓"; } th button[aria-sort="ascending"]::after { content: " ↑"; }
+td.num { font-variant-numeric: tabular-nums; text-align: right; white-space: nowrap; }
+td .why { color: var(--ink-2); font-size: 0.8rem; max-width: 52ch; }
+.tool { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-bottom: 10px; }
+.seg { display: inline-flex; flex-wrap: wrap; max-width: 100%; border: 1px solid var(--line); border-radius: var(--r); }
+.seg button { border: 0; background: var(--surface); padding: 5px 10px; cursor: pointer; font-size: 0.82rem; border-right: 1px solid var(--line); }
+.seg button:last-child { border-right: 0; }
+.seg button[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); }
+.tool input[type="search"], .tool select { padding: 5px 9px; border: 1px solid var(--line); border-radius: var(--r); background: var(--surface); }
+
+/* huller */
+.kat-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 420px); gap: 18px; align-items: start; }
+.kat-list { max-height: max(460px, calc(100vh - 260px)); overflow: auto; }
+.kat-list table { width: 100%; }
+.kat-list tr.sel td { background: var(--surface-2); }
+.kat-list td.t { min-width: 260px; }
+.kat-list td.mono { white-space: nowrap; }
+#view-katalog .tool select { max-width: 100%; min-width: 0; }
+a.stat { color: inherit; text-decoration: none; }
+a.stat:hover span, a.stat:focus-visible span { text-decoration: underline; }
+.kat-list button.lnk { border: 0; background: none; padding: 0; color: inherit; text-align: left; cursor: pointer; font: inherit; }
+.kat-list button.lnk:hover, .kat-list button.lnk:focus-visible { text-decoration: underline; }
+.hbars.kat-bars { max-width: none; grid-template-columns: minmax(0, max-content) minmax(48px, 1fr) max-content; }
+.kat-bars > button { min-width: 0; overflow-wrap: anywhere; }
+.kat-bars button { border: 0; background: none; padding: 0; text-align: left; cursor: pointer; color: inherit; font: inherit; }
+.kat-bars button[aria-pressed="true"] { font-weight: 600; color: var(--accent); }
+@media (max-width: 1180px) { .kat-grid { grid-template-columns: minmax(0, 1fr); } .kat-list { max-height: 60vh; } }
+.hbars { padding: 14px; display: grid; grid-template-columns: max-content minmax(0, 1fr) max-content; gap: 6px 10px; align-items: center; font-size: 0.85rem; max-width: 720px; }
+.hbars .track { height: 12px; background: var(--surface-2); border-radius: 3px; }
+.hbars .fill { height: 100%; background: var(--accent); border-radius: 0 3px 3px 0; }
+.hbars .v { font-variant-numeric: tabular-nums; color: var(--ink-2); }
+.hlist { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 420px), 1fr)); gap: 10px; }
+.hcard { padding: 12px 14px; display: flex; flex-direction: column; gap: 6px; min-width: 0; }
+.hcard p { margin: 0; color: var(--ink-2); font-size: 0.86rem; overflow-wrap: anywhere; }
+.hcard .nodes { display: flex; flex-wrap: wrap; gap: 4px 10px; font-size: 0.82rem; }
+.htype { font-size: 0.72rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: var(--ink-2); }
+
+/* om */
+.prose { max-width: 74ch; display: flex; flex-direction: column; gap: 10px; }
+.prose p, .prose li { color: var(--ink-2); }
+.prose table { max-width: 74ch; }
+.foot { color: var(--muted); font-size: 0.78rem; padding-block: 18px; border-top: 1px solid var(--line); }
+
+@media (max-width: 1180px) {
+  .net { grid-template-columns: minmax(0, 1fr); }
+  .filters-box, .detail { max-height: none; }
+  .filters { flex-direction: row; flex-wrap: wrap; gap: 14px 24px; }
+  .filters fieldset { min-width: 180px; }
+  .graph { height: 68vh; }
+  .kgrid { grid-template-columns: minmax(0, 1fr); }
+}
+@media (max-width: 520px) {
+  .brand h1 { font-size: 1.3rem; }
+  .timeline li { grid-template-columns: minmax(0, 1fr); gap: 2px; }
+  .summary { gap: 8px 18px; }
+  .stat b { font-size: 1.15rem; }
+}
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
+</style>
+
+<header class="top">
+  <div class="wrap top-inner">
+    <div class="brand">
+      <h1>Dansk reguleringskort</h1>
+      <div class="sub">Byggeri · bolig · plan · energi · miljø · arbejdsmiljø · brand · el/gas/VVS – plus katalog over hele Lovtidende A. Status pr. <b>28. oktober 2026</b></div>
+    </div>
+    <div class="search" role="search">
+      <svg viewBox="0 0 16 16" aria-hidden="true"><circle cx="7" cy="7" r="5" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M11 11l3.5 3.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+      <input id="q" type="search" placeholder="Søg lov, myndighed, kilde eller id …" autocomplete="off" aria-label="Søg i registret" aria-controls="qres">
+      <div id="qres" class="results" role="listbox" hidden></div>
+    </div>
+    <nav class="tabs" aria-label="Visninger">
+      <a href="#netvaerk" data-view="netvaerk">Netværk</a>
+      <a href="#kaeder" data-view="kaeder">Hjemmelskæder</a>
+      <a href="#katalog" data-view="katalog">Katalog</a>
+      <a href="#ressort" data-view="ressort">Ressort</a>
+      <a href="#kilder" data-view="kilder">Datakilder</a>
+      <a href="#huller" data-view="huller">Huller</a>
+      <a href="#om" data-view="om">Om kortet</a>
+    </nav>
+  </div>
+</header>
+
+<div class="wrap summary" id="summary"></div>
+
+<main>
+  <section class="wrap view" id="view-netvaerk" aria-labelledby="h-net">
+    <h2 id="h-net" class="sr">Netværk</h2>
+    <p class="lede">Alle instanser, retsakter, EU-retsakter og dokumentkilder med deres kanter. Pilene peger fra den aktive part. Fuld streg betyder verificeret, stiplet sandsynlig og prikket ukendt; gule kanter er bestridt. Klik på en node for at se felter, kilder og forbindelser.</p>
+    <div class="net">
+      <details class="panel filters-box" id="filters" open><summary>Filtre</summary><div class="filters">
+        <fieldset id="f-cat"><legend class="eyebrow">Nodetyper</legend></fieldset>
+        <fieldset id="f-dom"><legend class="eyebrow">Domæner</legend></fieldset>
+        <fieldset id="f-edge"><legend class="eyebrow">Kanttyper</legend></fieldset>
+        <fieldset id="f-misc"><legend class="eyebrow">Visning</legend>
+          <label class="chk"><input type="checkbox" id="opt-hist" checked> Nedlagte og historiske</label>
+          <label class="chk"><input type="checkbox" id="opt-unk" checked> Kanter med ukendt sikkerhed</label>
+          <div class="btnrow" style="margin-top:6px"><button class="btn" id="btn-reset" type="button">Nulstil filtre</button></div>
+        </fieldset>
+      </div></details>
+      <div class="panel graph" id="graph">
+        <div class="cy" id="cy" aria-label="Netværksgraf over dansk regulering" role="img"></div>
+        <div class="zoom">
+          <button type="button" id="z-in" aria-label="Zoom ind">+</button>
+          <button type="button" id="z-out" aria-label="Zoom ud">−</button>
+          <button type="button" id="z-fit" aria-label="Tilpas visning" title="Tilpas visning">⤢</button>
+        </div>
+        <div class="hud" id="hud"><span class="hint" id="hint">Rul for at zoome · træk for at panorere · klik for detaljer</span></div>
+        <div class="tip" id="tip" hidden></div>
+      </div>
+      <aside class="panel detail" id="detail" aria-live="polite"></aside>
+    </div>
+  </section>
+
+  <section class="wrap view" id="view-kaeder" hidden aria-labelledby="h-kaeder">
+    <h2 id="h-kaeder">Hjemmelskæder</h2>
+    <p class="lede">Vælg en lov eller bekendtgørelse. Kæden viser ressort og udsteder, hjemmel for 1. og 2. led, vejledninger og praksis der henviser til kæden, og de EU-retsakter den gennemfører.</p>
+    <div class="chain-controls">
+      <label for="chain-root">Udgangspunkt <select id="chain-root"></select></label>
+      <div class="btnrow"><button class="btn" type="button" id="chain-open">Åbn i netværket</button></div>
+    </div>
+    <div class="chain-grid">
+      <div class="panel chain-graph"><div class="cy" id="cy2" role="img" aria-label="Hjemmelskæde"></div></div>
+      <p class="knote" style="margin:0">Hold musen over en node for at se dens forbindelser. Klik på en lov eller bekendtgørelse for at gøre den til udgangspunkt. Andre noder åbnes i netværket. Listerne nedenfor viser det samme som tekst.</p>
+      <div class="cols" id="chain-cols"></div>
+    </div>
+  </section>
+
+  <section class="wrap view" id="view-katalog" hidden aria-labelledby="h-katalog">
+    <h2 id="h-katalog">Katalog: al gældende lovgivning i Lovtidende A</h2>
+    <p class="lede" id="kat-lede"></p>
+    <div class="kat-top">
+      <div class="panel hbars kat-bars" id="kat-bars" aria-label="Gældende dokumenter pr. ressortministerium"></div>
+    </div>
+    <div class="tool section-gap">
+      <input type="search" id="kat-q" placeholder="Søg titel, Lovtidende-nr. eller id …" aria-label="Søg i kataloget" style="flex:1 1 260px">
+      <select id="kat-min" aria-label="Ressortministerium"></select>
+      <select id="kat-omr" aria-label="Retsområde"></select>
+      <select id="kat-type" aria-label="Dokumenttype"></select>
+      <span class="hint" id="kat-count" aria-live="polite"></span>
+    </div>
+    <div class="kat-grid">
+      <div class="panel tablewrap kat-list"><table id="kat-table"></table><div class="btnrow" style="padding:10px"><button class="btn" type="button" id="kat-more" hidden>Vis flere</button></div></div>
+      <aside class="panel detail kat-detail" id="kat-detail" aria-live="polite"></aside>
+    </div>
+  </section>
+
+  <section class="wrap view" id="view-ressort" hidden aria-labelledby="h-ressort">
+    <h2 id="h-ressort">Ressortfordeling pr. 28. oktober 2026</h2>
+    <p class="lede" id="ressort-lede"></p>
+    <div class="min-grid" id="min-grid"></div>
+    <div class="section-gap">
+      <h2>Ressortomlægninger</h2>
+      <p class="lede">Kongelige resolutioner og fusioner, der flyttede opgaver inden for scope, nyeste først.</p>
+      <ol class="timeline panel" id="timeline" style="padding: 0 14px"></ol>
+    </div>
+  </section>
+
+  <section class="wrap view" id="view-kilder" hidden aria-labelledby="h-kilder">
+    <h2 id="h-kilder">Datakilder efter ingest-prioritet</h2>
+    <p class="lede">Prioritet er værdi divideret med besvær, begge på en skala fra 1 til 5. Værdi er nytten for RAG og hjemmelskæder. Besvær går fra 1 (API eller bulk med åben licens) til 5 (betalingsmur eller scannede PDF’er). Klik på en celle i matricen for at filtrere tabellen.</p>
+    <div class="kgrid">
+      <div class="panel matrix" id="matrix"></div>
+      <div style="min-width:0">
+        <div class="tool">
+          <div class="seg" id="k-seg" role="group" aria-label="Kildetype"></div>
+          <input type="search" id="k-q" placeholder="Filtrér …" aria-label="Filtrér datakilder">
+          <span class="hint" id="k-count"></span>
+        </div>
+        <div class="panel tablewrap"><table id="k-table"></table></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="wrap view" id="view-huller" hidden aria-labelledby="h-huller">
+    <h2 id="h-huller">Huller og usikkerheder</h2>
+    <p class="lede">Konsolideret fra 461 rå fund til en liste uden dubletter. Hvert hul peger på de noder, det handler om.</p>
+    <div class="panel hbars" id="hbars"></div>
+    <div class="tool section-gap">
+      <div class="seg" id="h-seg" role="group" aria-label="Type"></div>
+      <select id="h-dom" aria-label="Domæne"></select>
+      <input type="search" id="h-q" placeholder="Filtrér …" aria-label="Filtrér huller">
+      <span class="hint" id="h-count"></span>
+    </div>
+    <div class="hlist" id="hlist"></div>
+  </section>
+
+  <section class="wrap view" id="view-om" hidden aria-labelledby="h-om">
+    <div class="prose" id="om"></div>
+  </section>
+</main>
+<footer class="wrap foot">Kortlægning, ingen dokumenter hentet. Registry-kilder er links fra søgeresultater; katalog-kilder er Retsinformation-URL’er fra bulk-høsten Ansvar-Systems/danish-law-mcp. Sikkerhed er angivet pr. påstand. Data: registry.yaml og katalog/ (dk-regulering).</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/cytoscape@3.30.2/dist/cytoscape.min.js"></script>
+<script type="application/json" id="data">__DATA__</script>
+<script type="application/json" id="pos">__POS__</script>
+<script type="application/json" id="kat">__KAT__</script>
+<script>
+__SCRIPT__
+</script>

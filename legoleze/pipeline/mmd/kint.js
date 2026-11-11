@@ -1,0 +1,33 @@
+const { chromium } = require('playwright'); const path = require('path');
+(async () => {
+  const b = await chromium.launch(); const errs = [];
+  const ctx = await b.newContext({ viewport: { width: 1440, height: 900 } }); const p = await ctx.newPage();
+  p.on('pageerror', e => errs.push('pageerror ' + e.message)); p.on('console', m => { if (m.type() === 'error') errs.push(m.text().slice(0, 200)); });
+  await p.route('https://cdn.jsdelivr.net/npm/cytoscape@3.30.2/dist/cytoscape.min.js', r => r.fulfill({ path: path.resolve(__dirname, 'node_modules/cytoscape/dist/cytoscape.min.js'), contentType: 'application/javascript' }));
+  await p.route('https://fonts.googleapis.com/**', r => r.fulfill({ body: '', contentType: 'text/css' }));
+  await p.goto('file://' + path.resolve(__dirname, 'test.html')); await p.waitForTimeout(1200);
+  await p.fill('#q', 'bygningsreglement'); await p.waitForTimeout(300);
+  const opts = await p.$$eval('#qres button', bs => bs.map(b => b.textContent.slice(0, 80)));
+  console.log('global search options (last 2):', opts.slice(-2));
+  await p.click('#qo-kat'); await p.waitForTimeout(500);
+  console.log('hash', await p.evaluate(() => location.hash), 'count:', await p.textContent('#kat-count'));
+  await p.selectOption('#kat-type', 'bekendtgørelse'); await p.waitForTimeout(300);
+  console.log('after type filter:', await p.textContent('#kat-count'));
+  await p.click('#kat-table tbody tr:first-child button'); await p.waitForTimeout(300);
+  console.log('detail title:', await p.textContent('#kat-detail .title'), '| hash', await p.evaluate(() => location.hash));
+  await p.click('#kat-bars button'); await p.waitForTimeout(300);
+  console.log('after bar click:', await p.textContent('#kat-count'), await p.$eval('#kat-min', s => s.value));
+  await p.fill('#kat-q', ''); await p.selectOption('#kat-type', 'alle'); await p.selectOption('#kat-min', 'alle'); await p.waitForTimeout(400);
+  console.log('reset:', await p.textContent('#kat-count'));
+  await p.click('#kat-more'); await p.waitForTimeout(300);
+  console.log('rows after more:', await p.$$eval('#kat-table tbody tr', r => r.length));
+  await p.goto('file://' + path.resolve(__dirname, 'test.html') + '#node-bek-br18'); await p.waitForTimeout(1200);
+  const katLine = await p.$$eval('#detail .head div', ds => ds.map(d => d.textContent).filter(t => t.startsWith('Katalog')));
+  console.log('registry detail katalog line:', katLine);
+  await p.click('#detail .head button.lnk:last-of-type').catch(() => {});
+  const btn = await p.$('xpath=//div[@id="detail"]//div[starts-with(normalize-space(.),"Katalog")]/button');
+  if (btn) { await btn.click(); await p.waitForTimeout(400); console.log('jumped to', await p.evaluate(() => location.hash), await p.textContent('#kat-detail .title')); }
+  await p.goBack(); await p.waitForTimeout(500); console.log('back ->', await p.evaluate(() => location.hash));
+  console.log(errs.length ? errs.join('\n') : 'no errors');
+  await b.close();
+})();

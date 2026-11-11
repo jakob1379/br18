@@ -1,0 +1,13 @@
+{
+ "registry_n": 189,
+ "registry_match_pct": 88,
+ "registry_n_u": 4,
+ "registry_match_pct_u": 75,
+ "sample_n": 437,
+ "sample_ok_pct": 93,
+ "sample_nej": 15,
+ "sample_tvivl": 17,
+ "sample_omr_ok_pct": 92,
+ "opus_recheck_n": 1755,
+ "opus_recheck_s": 1444
+}

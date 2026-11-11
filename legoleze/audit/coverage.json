@@ -1,0 +1,1344 @@
+{
+ "genereret_af": "coverage_prep.py",
+ "katalog": {
+  "dokumenter": 62762,
+  "gaeldende": 13819,
+  "endnu_ikke_klassificeret": 0,
+  "klassificeret": 13819,
+  "max_udstedt": "2026-02-12",
+  "status_pr": "2026-06-12"
+ },
+ "registry": {
+  "noder": 615,
+  "kanter": 1281,
+  "huller": 216
+ },
+ "omraader": {
+  "statsret": {
+   "katalog": {
+    "gaeldende": 287,
+    "ressort_sandsynlig": 281,
+    "udsteder_kendt": 246,
+    "med_lovhenvisning": 82,
+    "med_eu": 6,
+    "i_registry": 4,
+    "regulering": 237,
+    "love": 48
+   },
+   "katalog_typer": {
+    "lov": 24,
+    "åbent-brev": 2,
+    "bekendtgørelse": 221,
+    "ændringslov": 15,
+    "ændringsbekendtgørelse": 4,
+    "lovbekendtgørelse": 9,
+    "ikrafttrædelsesbekendtgørelse": 1,
+    "ændringsanordning": 2,
+    "ikrafttrædelsesanordning": 7,
+    "anordning": 2
+   },
+   "registry_noder": {},
+   "registry_kanter": {},
+   "registry_huller": 0,
+   "registry_domaene": false
+  },
+  "kommuner": {
+   "katalog": {
+    "gaeldende": 234,
+    "ressort_sandsynlig": 227,
+    "udsteder_kendt": 181,
+    "med_lovhenvisning": 132,
+    "med_eu": 6,
+    "i_registry": 2,
+    "regulering": 184,
+    "love": 50
+   },
+   "katalog_typer": {
+    "ændringslov": 20,
+    "bekendtgørelse": 168,
+    "lov": 15,
+    "ændringsbekendtgørelse": 15,
+    "ikrafttrædelsesbekendtgørelse": 1,
+    "lovbekendtgørelse": 15
+   },
+   "registry_noder": {},
+   "registry_kanter": {},
+   "registry_huller": 0,
+   "registry_domaene": false
+  },
+  "valg": {
+   "katalog": {
+    "gaeldende": 65,
+    "ressort_sandsynlig": 63,
+    "udsteder_kendt": 63,
+    "med_lovhenvisning": 44,
+    "med_eu": 0,
+    "i_registry": 0,
+    "regulering": 51,
+    "love": 12
+   },
+   "katalog_typer": {
+    "lov": 1,
+    "bekendtgørelse": 46,
+    "ændringslov": 4,
+    "ændringsbekendtgørelse": 4,
+    "åbent-brev": 2,
+    "lovbekendtgørelse": 7,
+    "ikrafttrædelsesanordning": 1
+   },
+   "registry_noder": {},
+   "registry_kanter": {},
+   "registry_huller": 0,
+   "registry_domaene": false
+  },
+  "international": {
+   "katalog": {
+    "gaeldende": 441,
+    "ressort_sandsynlig": 439,
+    "udsteder_kendt": 149,
+    "med_lovhenvisning": 92,
+    "med_eu": 12,
+    "i_registry": 0,
+    "regulering": 111,
+    "love": 184
+   },
+   "katalog_typer": {
+    "bekendtgørelse-international": 146,
+    "anordning": 29,
+    "bekendtgørelse": 45,
+    "ikrafttrædelsesanordning": 10,
+    "lov": 140,
+    "ikrafttrædelsesbekendtgørelse": 13,
+    "ændringsbekendtgørelse": 7,
+    "ændringslov": 38,
+    "ændringsanordning": 7,
+    "lovbekendtgørelse": 6
+   },
+   "registry_noder": {},
+   "registry_kanter": {},
+   "registry_huller": 0,
+   "registry_domaene": false
+  },
+  "forsvar": {
+   "katalog": {
+    "gaeldende": 126,
+    "ressort_sandsynlig": 124,
+    "udsteder_kendt": 86,
+    "med_lovhenvisning": 62,
+    "med_eu": 0,
+    "i_registry": 0,
+    "regulering": 80,
+    "love": 46
+   },
+   "katalog_typer": {
+    "anordning": 5,
+    "bekendtgørelse": 62,
+    "ændringslov": 19,
+    "lov": 18,
+    "ændringsbekendtgørelse": 5,
+    "ændringsanordning": 1,
+    "lovbekendtgørelse": 9,
+    "ikrafttrædelsesbekendtgørelse": 4,
+    "ikrafttrædelsesanordning": 3
+   },
+   "registry_noder": {},
+   "registry_kanter": {},
+   "registry_huller": 0,
+   "registry_domaene": false
+  },
+  "beredskab-brand": {
+   "katalog": {
+    "gaeldende": 86,
+    "ressort_sandsynlig": 76,
+    "udsteder_kendt": 44,
+    "med_lovhenvisning": 45,
+    "med_eu": 2,
+    "i_registry": 10,
+    "regulering": 76,
+    "love": 10
+   },
+   "katalog_typer": {
+    "bekendtgørelse": 49,
+    "lov": 4,
+    "ændringsbekendtgørelse": 23,
+    "lovbekendtgørelse": 3,
+    "ikrafttrædelsesbekendtgørelse": 2,
+    "ændringslov": 3,
+    "ikrafttrædelsesanordning": 2
+   },
+   "registry_noder": {
+    "bekendtgørelse": 10,
+    "branchevejledning": 1,
+    "instanser": 9,
+    "praksis": 2,
+    "eu-afgørelse": 1,
+    "eu-direktiv": 4,
+    "eu-forordning": 4,
+    "dokumentkilde": 7,
+    "lov": 3,
+    "ministerium": 1,
+    "privat-organisation": 3,
+    "standardiseringsorgan": 1,
+    "standard": 2,
+    "teknisk-forskrift": 4,
+    "vejledning": 2
+   },
+   "registry_kanter": {
+    "delegation": 2,
+    "henviser_til": 48,
+    "hjemmel_for": 57,
+    "implementerer_EU": 13,
+    "klageinstans": 19,
+    "ressortansvar": 21,
+    "tilsyn": 22,
+    "udsteder": 48
+   },
+   "registry_huller": 24,
+   "registry_domaene": true
+  },
+  "strafferet-politi": {
+   "katalog": {
+    "gaeldende": 631,
+    "ressort_sandsynlig": 630,
+    "udsteder_kendt": 569,
+    "med_lovhenvisning": 404,
+    "med_eu": 13,
+    "i_registry": 0,
+    "regulering": 468,
+    "love": 163
+   },
+   "katalog_typer": {
+    "ændringslov": 111,
+    "anordning": 8,
+    "lovbekendtgørelse": 22,
+    "lov": 30,
+    "bekendtgørelse": 302,
+    "ikrafttrædelsesbekendtgørelse": 18,
+    "ikrafttrædelsesanordning": 28,
+    "ændringsbekendtgørelse": 111,
+    "bekendtgørelse-af-anordning": 1
+   },
+   "registry_noder": {},
+   "registry_kanter": {},
+   "registry_huller": 0,
+   "registry_domaene": false
+  },
+  "retspleje": {
+   "katalog": {
+    "gaeldende": 378,
+    "ressort_sandsynlig": 376,
+    "udsteder_kendt": 300,
+    "med_lovhenvisning": 223,
+    "med_eu": 4,
+    "i_registry": 3,
+    "regulering": 303,
+    "love": 75
+   },
+   "katalog_typer": {
+    "anordning": 5,
+    "lov": 17,
+    "ændringsanordning": 4,
+    "bekendtgørelse": 175,
+    "ændringslov": 45,
+    "ændringsbekendtgørelse": 90,
+    "ikrafttrædelsesbekendtgørelse": 21,
+    "lovbekendtgørelse": 13,
+    "ikrafttrædelsesanordning": 8
+   },
+   "registry_noder": {},
+   "registry_kanter": {},
+   "registry_huller": 0,
+   "registry_domaene": false
+  },
+  "familie-person": {
+   "katalog": {
+    "gaeldende": 202,
+    "ressort_sandsynlig": 201,
+    "udsteder_kendt": 176,
+    "med_lovhenvisning": 164,
+    "med_eu": 8,
+    "i_registry": 0,
+    "regulering": 144,
+    "love": 58
+   },
+   "katalog_typer": {
+    "lov": 9,
+    "ændringslov": 29,
+    "anordning": 2,
+    "ikrafttrædelsesbekendtgørelse": 7,
+    "bekendtgørelse": 102,
+    "ændringsbekendtgørelse": 13,
+    "lovbekendtgørelse": 20,
+    "ikrafttrædelsesanordning": 20
+   },
+   "registry_noder": {},
+   "registry_kanter": {},
+   "registry_huller": 0,
+   "registry_domaene": false
+  },
+  "erhvervsret": {
+   "katalog": {
+    "gaeldende": 893,
+    "ressort_sandsynlig": 861,
+    "udsteder_kendt": 786,
+    "med_lovhenvisning": 677,
+    "med_eu": 135,
+    "i_registry": 8,
+    "regulering": 755,
+    "love": 137
+   },
+   "katalog_typer": {
+    "anordning": 4,
+    "bekendtgørelse": 408,
+    "bekendtgørelse-international": 1,
+    "lov": 34,
+    "ikrafttrædelsesanordning": 50,
+    "ændringsbekendtgørelse": 231,
+    "ændringslov": 48,
+    "ikrafttrædelsesbekendtgørelse": 53,
+    "lovbekendtgørelse": 55,
+    "ændringsanordning": 4,
+    "bekendtgørelse-af-anordning": 5
+   },
+   "registry_noder": {},
+   "registry_kanter": {},
+   "registry_huller": 0,
+   "registry_domaene": false
+  },
+  "finansiel": {
+   "katalog": {
+    "gaeldende": 690,
+    "ressort_sandsynlig": 632,
+    "udsteder_kendt": 644,
+    "med_lovhenvisning": 500,
+    "med_eu": 162,
+    "i_registry": 0,
+    "regulering": 593,
+    "love": 97
+   },
+   "katalog_typer": {
+    "lov": 20,
+    "ændringsbekendtgørelse": 38,
+    "bekendtgørelse": 394,
+    "ikrafttrædelsesbekendtgørelse": 33,
+    "lovbekendtgørelse": 24,
+    "ændringslov": 53,
+    "anordning": 47,
+    "ikrafttrædelsesanordning": 77,
+    "bekendtgørelse-af-anordning": 3,
+    "ændringsanordning": 1
+   },
+   "registry_noder": {},
+   "registry_kanter": {},
+   "registry_huller": 0,
+   "registry_domaene": false
+  },
+  "skat": {
+   "katalog": {
+    "gaeldende": 898,
+    "ressort_sandsynlig": 885,
+    "udsteder_kendt": 775,
+    "med_lovhenvisning": 603,
+    "med_eu": 66,
+    "i_registry": 2,
+    "regulering": 484,
+    "love": 413
+   },
+   "katalog_typer": {
+    "lov": 93,
+    "anordning": 1,
+    "lovbekendtgørelse": 87,
+    "bekendtgørelse": 294,
+    "ændringslov": 233,
+    "ikrafttrædelsesbekendtgørelse": 113,
+    "ændringsbekendtgørelse": 76,
+    "bekendtgørelse-international": 1
+   },
+   "registry_noder": {},
+   "registry_kanter": {},
+   "registry_huller": 0,
+   "registry_domaene": false
+  },
+  "offentlig-oekonomi": {
+   "katalog": {
+    "gaeldende": 144,
+    "ressort_sandsynlig": 140,
+    "udsteder_kendt": 112,
+    "med_lovhenvisning": 69,
+    "med_eu": 1,
+    "i_registry": 0,
+    "regulering": 90,
+    "love": 54
+   },
+   "katalog_typer": {
+    "lov": 17,
+    "ændringslov": 21,
+    "bekendtgørelse": 78,
+    "ikrafttrædelsesbekendtgørelse": 3,
+    "anordning": 3,
+    "lovbekendtgørelse": 16,
+    "ændringsbekendtgørelse": 4,
+    "ikrafttrædelsesanordning": 2
+   },
+   "registry_noder": {},
+   "registry_kanter": {},
+   "registry_huller": 0,
+   "registry_domaene": false
+  },
+  "arbejdsmarked": {
+   "katalog": {
+    "gaeldende": 517,
+    "ressort_sandsynlig": 506,
+    "udsteder_kendt": 471,
+    "med_lovhenvisning": 398,
+    "med_eu": 32,
+    "i_registry": 1,
+    "regulering": 357,
+    "love": 160
+   },
+   "katalog_typer": {
+    "bekendtgørelse": 291,
+    "lov": 39,
+    "ændringslov": 81,
+    "ændringsbekendtgørelse": 55,
+    "ikrafttrædelsesbekendtgørelse": 11,
+    "lovbekendtgørelse": 40
+   },
+   "registry_noder": {},
+   "registry_kanter": {},
+   "registry_huller": 0,
+   "registry_domaene": false
+  },
+  "arbejdsmiljoe": {
+   "katalog": {
+    "gaeldende": 336,
+    "ressort_sandsynlig": 336,
+    "udsteder_kendt": 317,
+    "med_lovhenvisning": 265,
+    "med_eu": 61,
+    "i_registry": 17,
+    "regulering": 305,
+    "love": 31
+   },
+   "katalog_typer": {
+    "bekendtgørelse": 224,
+    "ikrafttrædelsesbekendtgørelse": 3,
+    "ændringsbekendtgørelse": 74,
+    "ikrafttrædelsesanordning": 2,
+    "ændringsanordning": 1,
+    "lov": 3,
+    "lovbekendtgørelse": 7,
+    "ændringslov": 21,
+    "bekendtgørelse-af-anordning": 1
+   },
+   "registry_noder": {
+    "bekendtgørelse": 25,
+    "branchevejledning": 1,
+    "cirkulære": 1,
+    "instanser": 12,
+    "praksis": 3,
+    "eu-direktiv": 12,
+    "eu-forordning": 1,
+    "dokumentkilde": 17,
+    "lov": 1,
+    "ministerium": 4,
+    "privat-organisation": 2,
+    "standard": 1,
+    "vejledning": 3
+   },
+   "registry_kanter": {
+    "delegation": 3,
+    "henviser_til": 39,
+    "hjemmel_for": 63,
+    "implementerer_EU": 20,
+    "klageinstans": 12,
+    "ressortansvar": 50,
+    "tilsyn": 39,
+    "udsteder": 85
+   },
+   "registry_huller": 24,
+   "registry_domaene": true
+  },
+  "social": {
+   "katalog": {
+    "gaeldende": 388,
+    "ressort_sandsynlig": 378,
+    "udsteder_kendt": 379,
+    "med_lovhenvisning": 343,
+    "med_eu": 7,
+    "i_registry": 1,
+    "regulering": 279,
+    "love": 109
+   },
+   "katalog_typer": {
+    "lov": 10,
+    "ændringslov": 75,
+    "bekendtgørelse": 241,
+    "ikrafttrædelsesbekendtgørelse": 10,
+    "ændringsbekendtgørelse": 27,
+    "lovbekendtgørelse": 24,
+    "ikrafttrædelsesanordning": 1
+   },
+   "registry_noder": {},
+   "registry_kanter": {},
+   "registry_huller": 0,
+   "registry_domaene": false
+  },
+  "aeldre": {
+   "katalog": {
+    "gaeldende": 123,
+    "ressort_sandsynlig": 120,
+    "udsteder_kendt": 115,
+    "med_lovhenvisning": 94,
+    "med_eu": 2,
+    "i_registry": 2,
+    "regulering": 101,
+    "love": 22
+   },
+   "katalog_typer": {
+    "bekendtgørelse": 84,
+    "ikrafttrædelsesbekendtgørelse": 2,
+    "ændringsbekendtgørelse": 14,
+    "ændringslov": 12,
+    "ikrafttrædelsesanordning": 1,
+    "lovbekendtgørelse": 2,
+    "lov": 8
+   },
+   "registry_noder": {},
+   "registry_kanter": {},
+   "registry_huller": 0,
+   "registry_domaene": false
+  },
+  "boern-dagtilbud": {
+   "katalog": {
+    "gaeldende": 26,
+    "ressort_sandsynlig": 20,
+    "udsteder_kendt": 24,
+    "med_lovhenvisning": 24,
+    "med_eu": 0,
+    "i_registry": 0,
+    "regulering": 22,
+    "love": 4
+   },
+   "katalog_typer": {
+    "lov": 1,
+    "bekendtgørelse": 16,
+    "ændringslov": 2,
+    "ændringsbekendtgørelse": 6,
+    "lovbekendtgørelse": 1
+   },
+   "registry_noder": {},
+   "registry_kanter": {},
+   "registry_huller": 0,
+   "registry_domaene": false
+  },
+  "sundhed": {
+   "katalog": {
+    "gaeldende": 832,
+    "ressort_sandsynlig": 819,
+    "udsteder_kendt": 776,
+    "med_lovhenvisning": 617,
+    "med_eu": 68,
+    "i_registry": 0,
+    "regulering": 716,
+    "love": 116
+   },
+   "katalog_typer": {
+    "bekendtgørelse": 565,
+    "lov": 30,
+    "ikrafttrædelsesanordning": 26,
+    "ændringslov": 64,
+    "ændringsbekendtgørelse": 109,
+    "lovbekendtgørelse": 22,
+    "ændringsanordning": 1,
+    "ikrafttrædelsesbekendtgørelse": 10,
+    "anordning": 2,
+    "bekendtgørelse-af-anordning": 3
+   },
+   "registry_noder": {},
+   "registry_kanter": {},
+   "registry_huller": 0,
+   "registry_domaene": false
+  },
+  "undervisning": {
+   "katalog": {
+    "gaeldende": 537,
+    "ressort_sandsynlig": 534,
+    "udsteder_kendt": 517,
+    "med_lovhenvisning": 441,
+    "med_eu": 4,
+    "i_registry": 0,
+    "regulering": 452,
+    "love": 85
+   },
+   "katalog_typer": {
+    "bekendtgørelse": 360,
+    "ikrafttrædelsesbekendtgørelse": 5,
+    "lovbekendtgørelse": 19,
+    "ændringslov": 59,
+    "lov": 7,
+    "ændringsbekendtgørelse": 85,
+    "ikrafttrædelsesanordning": 2
+   },
+   "registry_noder": {},
+   "registry_kanter": {},
+   "registry_huller": 0,
+   "registry_domaene": false
+  },
+  "forskning-videregaaende": {
+   "katalog": {
+    "gaeldende": 311,
+    "ressort_sandsynlig": 306,
+    "udsteder_kendt": 291,
+    "med_lovhenvisning": 225,
+    "med_eu": 8,
+    "i_registry": 0,
+    "regulering": 252,
+    "love": 59
+   },
+   "katalog_typer": {
+    "lov": 5,
+    "bekendtgørelse": 190,
+    "ikrafttrædelsesbekendtgørelse": 12,
+    "ændringsbekendtgørelse": 48,
+    "ændringslov": 28,
+    "lovbekendtgørelse": 26,
+    "anordning": 2
+   },
+   "registry_noder": {},
+   "registry_kanter": {},
+   "registry_huller": 0,
+   "registry_domaene": false
+  },
+  "kultur-medier": {
+   "katalog": {
+    "gaeldende": 456,
+    "ressort_sandsynlig": 451,
+    "udsteder_kendt": 417,
+    "med_lovhenvisning": 310,
+    "med_eu": 33,
+    "i_registry": 5,
+    "regulering": 374,
+    "love": 82
+   },
+   "katalog_typer": {
+    "lov": 29,
+    "anordning": 4,
+    "bekendtgørelse": 238,
+    "ændringsbekendtgørelse": 116,
+    "ikrafttrædelsesbekendtgørelse": 12,
+    "ændringslov": 33,
+    "ikrafttrædelsesanordning": 3,
+    "lovbekendtgørelse": 20,
+    "ændringsanordning": 1
+   },
+   "registry_noder": {},
+   "registry_kanter": {},
+   "registry_huller": 0,
+   "registry_domaene": false
+  },
+  "kirke": {
+   "katalog": {
+    "gaeldende": 168,
+    "ressort_sandsynlig": 168,
+    "udsteder_kendt": 106,
+    "med_lovhenvisning": 63,
+    "med_eu": 1,
+    "i_registry": 0,
+    "regulering": 138,
+    "love": 30
+   },
+   "katalog_typer": {
+    "bekendtgørelse": 109,
+    "anordning": 8,
+    "lov": 5,
+    "ikrafttrædelsesanordning": 9,
+    "ændringsanordning": 2,
+    "lovbekendtgørelse": 12,
+    "ændringslov": 13,
+    "ændringsbekendtgørelse": 8,
+    "ikrafttrædelsesbekendtgørelse": 2
+   },
+   "registry_noder": {},
+   "registry_kanter": {},
+   "registry_huller": 0,
+   "registry_domaene": false
+  },
+  "udlaendinge": {
+   "katalog": {
+    "gaeldende": 360,
+    "ressort_sandsynlig": 358,
+    "udsteder_kendt": 308,
+    "med_lovhenvisning": 230,
+    "med_eu": 8,
+    "i_registry": 0,
+    "regulering": 209,
+    "love": 150
+   },
+   "katalog_typer": {
+    "lov": 103,
+    "lovbekendtgørelse": 7,
+    "bekendtgørelse-international": 1,
+    "bekendtgørelse": 142,
+    "anordning": 4,
+    "ikrafttrædelsesbekendtgørelse": 18,
+    "ændringslov": 40,
+    "ændringsbekendtgørelse": 31,
+    "ikrafttrædelsesanordning": 12,
+    "ændringsanordning": 1,
+    "bekendtgørelse-af-anordning": 1
+   },
+   "registry_noder": {},
+   "registry_kanter": {},
+   "registry_huller": 0,
+   "registry_domaene": false
+  },
+  "transport": {
+   "katalog": {
+    "gaeldende": 729,
+    "ressort_sandsynlig": 719,
+    "udsteder_kendt": 615,
+    "med_lovhenvisning": 464,
+    "med_eu": 113,
+    "i_registry": 5,
+    "regulering": 627,
+    "love": 102
+   },
+   "katalog_typer": {
+    "lov": 37,
+    "ikrafttrædelsesanordning": 12,
+    "bekendtgørelse": 453,
+    "ændringslov": 36,
+    "ændringsbekendtgørelse": 128,
+    "ikrafttrædelsesbekendtgørelse": 31,
+    "lovbekendtgørelse": 29,
+    "bekendtgørelse-af-anordning": 3
+   },
+   "registry_noder": {},
+   "registry_kanter": {},
+   "registry_huller": 0,
+   "registry_domaene": false
+  },
+  "soefart": {
+   "katalog": {
+    "gaeldende": 481,
+    "ressort_sandsynlig": 475,
+    "udsteder_kendt": 409,
+    "med_lovhenvisning": 322,
+    "med_eu": 55,
+    "i_registry": 0,
+    "regulering": 427,
+    "love": 53
+   },
+   "katalog_typer": {
+    "anordning": 4,
+    "bekendtgørelse-international": 1,
+    "lov": 16,
+    "bekendtgørelse": 280,
+    "ændringsanordning": 2,
+    "ikrafttrædelsesbekendtgørelse": 37,
+    "ændringsbekendtgørelse": 81,
+    "lovbekendtgørelse": 15,
+    "ændringslov": 22,
+    "ikrafttrædelsesanordning": 21,
+    "bekendtgørelse-af-anordning": 2
+   },
+   "registry_noder": {},
+   "registry_kanter": {},
+   "registry_huller": 0,
+   "registry_domaene": false
+  },
+  "plan-landdistrikter": {
+   "katalog": {
+    "gaeldende": 93,
+    "ressort_sandsynlig": 88,
+    "udsteder_kendt": 89,
+    "med_lovhenvisning": 61,
+    "med_eu": 6,
+    "i_registry": 16,
+    "regulering": 71,
+    "love": 22
+   },
+   "katalog_typer": {
+    "bekendtgørelse": 58,
+    "ændringslov": 10,
+    "ikrafttrædelsesbekendtgørelse": 9,
+    "lovbekendtgørelse": 8,
+    "lov": 4,
+    "ændringsbekendtgørelse": 4
+   },
+   "registry_noder": {
+    "bekendtgørelse": 12,
+    "instanser": 19,
+    "praksis": 7,
+    "eu-direktiv": 6,
+    "dokumentkilde": 10,
+    "lov": 11,
+    "ministerium": 6,
+    "privat-organisation": 2,
+    "plan": 4,
+    "vejledning": 4
+   },
+   "registry_kanter": {
+    "delegation": 9,
+    "henviser_til": 49,
+    "hjemmel_for": 71,
+    "implementerer_EU": 18,
+    "klageinstans": 30,
+    "ressortansvar": 65,
+    "tilsyn": 35,
+    "udsteder": 69
+   },
+   "registry_huller": 25,
+   "registry_domaene": true
+  },
+  "byggeri": {
+   "katalog": {
+    "gaeldende": 94,
+    "ressort_sandsynlig": 86,
+    "udsteder_kendt": 93,
+    "med_lovhenvisning": 79,
+    "med_eu": 8,
+    "i_registry": 9,
+    "regulering": 80,
+    "love": 14
+   },
+   "katalog_typer": {
+    "lov": 3,
+    "bekendtgørelse": 39,
+    "ændringsbekendtgørelse": 40,
+    "ikrafttrædelsesbekendtgørelse": 1,
+    "lovbekendtgørelse": 5,
+    "ændringslov": 6
+   },
+   "registry_noder": {
+    "bekendtgørelse": 9,
+    "eu-direktiv": 3,
+    "eu-forordning": 3,
+    "instanser": 12,
+    "dokumentkilde": 14,
+    "lov": 2,
+    "ministerium": 1,
+    "praksis": 2,
+    "standardiseringsorgan": 1,
+    "standard": 2,
+    "vejledning": 1
+   },
+   "registry_kanter": {
+    "delegation": 4,
+    "henviser_til": 72,
+    "hjemmel_for": 71,
+    "implementerer_EU": 17,
+    "klageinstans": 16,
+    "ressortansvar": 49,
+    "tilsyn": 51,
+    "udsteder": 79
+   },
+   "registry_huller": 21,
+   "registry_domaene": true
+  },
+  "bolig": {
+   "katalog": {
+    "gaeldende": 185,
+    "ressort_sandsynlig": 171,
+    "udsteder_kendt": 163,
+    "med_lovhenvisning": 138,
+    "med_eu": 3,
+    "i_registry": 16,
+    "regulering": 133,
+    "love": 52
+   },
+   "katalog_typer": {
+    "bekendtgørelse": 97,
+    "ændringsbekendtgørelse": 34,
+    "lov": 10,
+    "ændringslov": 34,
+    "ikrafttrædelsesbekendtgørelse": 2,
+    "lovbekendtgørelse": 8
+   },
+   "registry_noder": {
+    "bekendtgørelse": 5,
+    "instanser": 17,
+    "praksis": 6,
+    "eu-afgørelse": 2,
+    "eu-institution": 1,
+    "dokumentkilde": 7,
+    "lov": 12,
+    "privat-organisation": 2,
+    "regulativ": 1,
+    "vejledning": 3
+   },
+   "registry_kanter": {
+    "delegation": 2,
+    "henviser_til": 32,
+    "hjemmel_for": 54,
+    "implementerer_EU": 1,
+    "klageinstans": 20,
+    "ressortansvar": 26,
+    "tilsyn": 40,
+    "udsteder": 57
+   },
+   "registry_huller": 23,
+   "registry_domaene": true
+  },
+  "energi-forsyning": {
+   "katalog": {
+    "gaeldende": 474,
+    "ressort_sandsynlig": 460,
+    "udsteder_kendt": 449,
+    "med_lovhenvisning": 401,
+    "med_eu": 73,
+    "i_registry": 28,
+    "regulering": 385,
+    "love": 89
+   },
+   "katalog_typer": {
+    "lov": 19,
+    "bekendtgørelse": 286,
+    "ikrafttrædelsesbekendtgørelse": 51,
+    "ændringslov": 49,
+    "lovbekendtgørelse": 21,
+    "ændringsbekendtgørelse": 48
+   },
+   "registry_noder": {
+    "bekendtgørelse": 9,
+    "branchevejledning": 1,
+    "instanser": 12,
+    "praksis": 4,
+    "eu-direktiv": 8,
+    "eu-institution": 1,
+    "eu-forordning": 3,
+    "dokumentkilde": 13,
+    "lov": 12,
+    "ministerium": 4,
+    "privat-organisation": 3,
+    "plan": 1,
+    "standard": 1,
+    "teknisk-forskrift": 1,
+    "vejledning": 1
+   },
+   "registry_kanter": {
+    "delegation": 9,
+    "henviser_til": 43,
+    "hjemmel_for": 71,
+    "implementerer_EU": 28,
+    "klageinstans": 27,
+    "ressortansvar": 112,
+    "tilsyn": 42,
+    "udsteder": 65
+   },
+   "registry_huller": 26,
+   "registry_domaene": true
+  },
+  "klima": {
+   "katalog": {
+    "gaeldende": 41,
+    "ressort_sandsynlig": 40,
+    "udsteder_kendt": 41,
+    "med_lovhenvisning": 30,
+    "med_eu": 16,
+    "i_registry": 4,
+    "regulering": 35,
+    "love": 6
+   },
+   "katalog_typer": {
+    "bekendtgørelse": 33,
+    "ikrafttrædelsesbekendtgørelse": 1,
+    "lov": 5,
+    "lovbekendtgørelse": 1,
+    "ændringsbekendtgørelse": 1
+   },
+   "registry_noder": {
+    "bekendtgørelse": 9,
+    "branchevejledning": 1,
+    "instanser": 12,
+    "praksis": 4,
+    "eu-direktiv": 8,
+    "eu-institution": 1,
+    "eu-forordning": 3,
+    "dokumentkilde": 13,
+    "lov": 12,
+    "ministerium": 4,
+    "privat-organisation": 3,
+    "plan": 1,
+    "standard": 1,
+    "teknisk-forskrift": 1,
+    "vejledning": 1
+   },
+   "registry_kanter": {
+    "delegation": 9,
+    "henviser_til": 43,
+    "hjemmel_for": 71,
+    "implementerer_EU": 28,
+    "klageinstans": 27,
+    "ressortansvar": 112,
+    "tilsyn": 42,
+    "udsteder": 65
+   },
+   "registry_huller": 26,
+   "registry_domaene": true
+  },
+  "el-gas-vvs": {
+   "katalog": {
+    "gaeldende": 57,
+    "ressort_sandsynlig": 55,
+    "udsteder_kendt": 53,
+    "med_lovhenvisning": 47,
+    "med_eu": 8,
+    "i_registry": 14,
+    "regulering": 54,
+    "love": 3
+   },
+   "katalog_typer": {
+    "bekendtgørelse": 34,
+    "ændringsbekendtgørelse": 20,
+    "lovbekendtgørelse": 3
+   },
+   "registry_noder": {
+    "bekendtgørelse": 15,
+    "branchevejledning": 2,
+    "eu-direktiv": 4,
+    "eu-forordning": 4,
+    "dokumentkilde": 12,
+    "instanser": 12,
+    "lov": 11,
+    "ministerium": 4,
+    "praksis": 4,
+    "privat-organisation": 3,
+    "standardiseringsorgan": 1,
+    "standard": 6,
+    "vejledning": 2
+   },
+   "registry_kanter": {
+    "delegation": 7,
+    "henviser_til": 77,
+    "hjemmel_for": 145,
+    "implementerer_EU": 32,
+    "klageinstans": 25,
+    "ressortansvar": 99,
+    "tilsyn": 51,
+    "udsteder": 138
+   },
+   "registry_huller": 24,
+   "registry_domaene": true
+  },
+  "miljoe": {
+   "katalog": {
+    "gaeldende": 294,
+    "ressort_sandsynlig": 278,
+    "udsteder_kendt": 261,
+    "med_lovhenvisning": 222,
+    "med_eu": 68,
+    "i_registry": 24,
+    "regulering": 241,
+    "love": 53
+   },
+   "katalog_typer": {
+    "lov": 16,
+    "ændringslov": 22,
+    "bekendtgørelse": 221,
+    "ikrafttrædelsesbekendtgørelse": 6,
+    "ikrafttrædelsesanordning": 3,
+    "ændringsbekendtgørelse": 11,
+    "lovbekendtgørelse": 15
+   },
+   "registry_noder": {
+    "bekendtgørelse": 16,
+    "branchevejledning": 1,
+    "instanser": 16,
+    "praksis": 6,
+    "eu-direktiv": 9,
+    "eu-institution": 1,
+    "eu-forordning": 3,
+    "dokumentkilde": 11,
+    "lov": 8,
+    "ministerium": 3,
+    "plan": 2,
+    "regulativ": 2,
+    "vejledning": 2
+   },
+   "registry_kanter": {
+    "delegation": 7,
+    "henviser_til": 51,
+    "hjemmel_for": 103,
+    "implementerer_EU": 25,
+    "klageinstans": 35,
+    "ressortansvar": 72,
+    "tilsyn": 39,
+    "udsteder": 87
+   },
+   "registry_huller": 31,
+   "registry_domaene": true
+  },
+  "affald": {
+   "katalog": {
+    "gaeldende": 57,
+    "ressort_sandsynlig": 55,
+    "udsteder_kendt": 55,
+    "med_lovhenvisning": 45,
+    "med_eu": 19,
+    "i_registry": 4,
+    "regulering": 50,
+    "love": 7
+   },
+   "katalog_typer": {
+    "bekendtgørelse": 41,
+    "ikrafttrædelsesbekendtgørelse": 2,
+    "ændringslov": 6,
+    "lovbekendtgørelse": 1,
+    "ændringsbekendtgørelse": 7
+   },
+   "registry_noder": {
+    "bekendtgørelse": 16,
+    "branchevejledning": 1,
+    "instanser": 16,
+    "praksis": 6,
+    "eu-direktiv": 9,
+    "eu-institution": 1,
+    "eu-forordning": 3,
+    "dokumentkilde": 11,
+    "lov": 8,
+    "ministerium": 3,
+    "plan": 2,
+    "regulativ": 2,
+    "vejledning": 2
+   },
+   "registry_kanter": {
+    "delegation": 7,
+    "henviser_til": 51,
+    "hjemmel_for": 103,
+    "implementerer_EU": 25,
+    "klageinstans": 35,
+    "ressortansvar": 72,
+    "tilsyn": 39,
+    "udsteder": 87
+   },
+   "registry_huller": 31,
+   "registry_domaene": true
+  },
+  "natur-vandmiljoe": {
+   "katalog": {
+    "gaeldende": 385,
+    "ressort_sandsynlig": 374,
+    "udsteder_kendt": 343,
+    "med_lovhenvisning": 269,
+    "med_eu": 68,
+    "i_registry": 15,
+    "regulering": 359,
+    "love": 26
+   },
+   "katalog_typer": {
+    "bekendtgørelse": 259,
+    "ikrafttrædelsesbekendtgørelse": 18,
+    "ændringslov": 9,
+    "ændringsbekendtgørelse": 82,
+    "lovbekendtgørelse": 14,
+    "lov": 3
+   },
+   "registry_noder": {
+    "bekendtgørelse": 6,
+    "instanser": 18,
+    "praksis": 9,
+    "eu-direktiv": 7,
+    "eu-institution": 1,
+    "eu-forordning": 1,
+    "dokumentkilde": 4,
+    "lov": 12,
+    "ministerium": 3,
+    "plan": 3,
+    "regulativ": 1,
+    "vejledning": 2
+   },
+   "registry_kanter": {
+    "delegation": 7,
+    "henviser_til": 32,
+    "hjemmel_for": 88,
+    "implementerer_EU": 24,
+    "klageinstans": 32,
+    "ressortansvar": 69,
+    "tilsyn": 34,
+    "udsteder": 72
+   },
+   "registry_huller": 30,
+   "registry_domaene": true
+  },
+  "landbrug-dyr": {
+   "katalog": {
+    "gaeldende": 782,
+    "ressort_sandsynlig": 769,
+    "udsteder_kendt": 708,
+    "med_lovhenvisning": 624,
+    "med_eu": 226,
+    "i_registry": 2,
+    "regulering": 745,
+    "love": 37
+   },
+   "katalog_typer": {
+    "bekendtgørelse": 602,
+    "ændringsbekendtgørelse": 115,
+    "ikrafttrædelsesbekendtgørelse": 26,
+    "lov": 7,
+    "ændringslov": 7,
+    "ikrafttrædelsesanordning": 2,
+    "lovbekendtgørelse": 23
+   },
+   "registry_noder": {},
+   "registry_kanter": {},
+   "registry_huller": 0,
+   "registry_domaene": false
+  },
+  "foedevarer": {
+   "katalog": {
+    "gaeldende": 151,
+    "ressort_sandsynlig": 137,
+    "udsteder_kendt": 139,
+    "med_lovhenvisning": 92,
+    "med_eu": 56,
+    "i_registry": 0,
+    "regulering": 147,
+    "love": 4
+   },
+   "katalog_typer": {
+    "bekendtgørelse": 138,
+    "anordning": 1,
+    "ikrafttrædelsesbekendtgørelse": 4,
+    "lovbekendtgørelse": 3,
+    "ikrafttrædelsesanordning": 1,
+    "ændringsbekendtgørelse": 3,
+    "lov": 1
+   },
+   "registry_noder": {},
+   "registry_kanter": {},
+   "registry_huller": 0,
+   "registry_domaene": false
+  },
+  "fiskeri": {
+   "katalog": {
+    "gaeldende": 210,
+    "ressort_sandsynlig": 204,
+    "udsteder_kendt": 162,
+    "med_lovhenvisning": 118,
+    "med_eu": 37,
+    "i_registry": 0,
+    "regulering": 203,
+    "love": 7
+   },
+   "katalog_typer": {
+    "bekendtgørelse": 187,
+    "anordning": 3,
+    "lov": 2,
+    "ikrafttrædelsesbekendtgørelse": 8,
+    "ændringsbekendtgørelse": 5,
+    "lovbekendtgørelse": 5
+   },
+   "registry_noder": {},
+   "registry_kanter": {},
+   "registry_huller": 0,
+   "registry_domaene": false
+  },
+  "digitalisering-tele": {
+   "katalog": {
+    "gaeldende": 166,
+    "ressort_sandsynlig": 161,
+    "udsteder_kendt": 152,
+    "med_lovhenvisning": 124,
+    "med_eu": 34,
+    "i_registry": 3,
+    "regulering": 130,
+    "love": 36
+   },
+   "katalog_typer": {
+    "lov": 15,
+    "ændringslov": 12,
+    "bekendtgørelse": 110,
+    "ikrafttrædelsesanordning": 10,
+    "ændringsbekendtgørelse": 6,
+    "lovbekendtgørelse": 9,
+    "ikrafttrædelsesbekendtgørelse": 4
+   },
+   "registry_noder": {},
+   "registry_kanter": {},
+   "registry_huller": 0,
+   "registry_domaene": false
+  },
+  "persondata": {
+   "katalog": {
+    "gaeldende": 52,
+    "ressort_sandsynlig": 52,
+    "udsteder_kendt": 50,
+    "med_lovhenvisning": 37,
+    "med_eu": 4,
+    "i_registry": 0,
+    "regulering": 44,
+    "love": 8
+   },
+   "katalog_typer": {
+    "bekendtgørelse": 27,
+    "lov": 2,
+    "ikrafttrædelsesbekendtgørelse": 3,
+    "ikrafttrædelsesanordning": 8,
+    "ændringsbekendtgørelse": 5,
+    "ændringslov": 3,
+    "anordning": 1,
+    "lovbekendtgørelse": 3
+   },
+   "registry_noder": {},
+   "registry_kanter": {},
+   "registry_huller": 0,
+   "registry_domaene": false
+  },
+  "forbruger-konkurrence": {
+   "katalog": {
+    "gaeldende": 174,
+    "ressort_sandsynlig": 173,
+    "udsteder_kendt": 166,
+    "med_lovhenvisning": 143,
+    "med_eu": 29,
+    "i_registry": 6,
+    "regulering": 128,
+    "love": 46
+   },
+   "katalog_typer": {
+    "bekendtgørelse": 85,
+    "lovbekendtgørelse": 11,
+    "ændringslov": 23,
+    "lov": 12,
+    "ændringsbekendtgørelse": 38,
+    "ikrafttrædelsesanordning": 4,
+    "ikrafttrædelsesbekendtgørelse": 1
+   },
+   "registry_noder": {},
+   "registry_kanter": {},
+   "registry_huller": 0,
+   "registry_domaene": false
+  },
+  "andet": {
+   "katalog": {
+    "gaeldende": 265,
+    "ressort_sandsynlig": 225,
+    "udsteder_kendt": 227,
+    "med_lovhenvisning": 189,
+    "med_eu": 6,
+    "i_registry": 8,
+    "regulering": 204,
+    "love": 61
+   },
+   "katalog_typer": {
+    "ændringslov": 20,
+    "bekendtgørelse": 142,
+    "lov": 13,
+    "ikrafttrædelsesbekendtgørelse": 13,
+    "ikrafttrædelsesanordning": 10,
+    "lovbekendtgørelse": 28,
+    "ændringsanordning": 1,
+    "anordning": 2,
+    "ændringsbekendtgørelse": 34,
+    "bekendtgørelse-af-anordning": 2
+   },
+   "registry_noder": {},
+   "registry_kanter": {},
+   "registry_huller": 0,
+   "registry_domaene": false
+  }
+ }
+}

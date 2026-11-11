@@ -1,0 +1,1519 @@
+{
+ "research:danskelove": {
+  "site": "https://danskelove.dk",
+  "hvad_er_det": "\"Danske Love\" (danskelove.dk) er et gratis opslagsværk med danske lovtekster. Ifølge vilkårssiden (danskelove.dk/vilkår) drives det af en privatperson, Christian Schmidt, Østerbrogade 35, 2100 København Ø, CVR 21095575. Sitet kalder sig \"et gratis site til at læse dansk lovgivning\", er ikke et advokatfirma og giver ikke rådgivning. Forretningsmodellen er formentlig henvisninger til Legal Desk. Vilkårene har et særligt afsnit om indhold og links fra Legal Desk, og søgeresultaterne viser en Legal Desk-URL med utm_id=Danskelove.dk (legaldesk.dk/juratjek?utm_id=Danskelove.dk). Der er ikke set abonnement eller betalingsmur. Sitet er en sekundær kilde og ikke officielt: vilkårene garanterer ikke, at indholdet er fuldstændigt, korrekt eller svarer til gældende ret.",
+  "dokumenttyper": [
+   {
+    "type": "lov (gældende love, under kortnavn)",
+    "daekket": "ja",
+    "omfang": "Mange centrale love ses i indekset. Med URL i søgeresultaterne: grundloven, straffeloven, tinglysningsloven, lejeloven, erhvervslejeloven, almenlejeloven, byggeloven, arbejdsmiljøloven, funktionærloven, ligningsloven, offentlighedsloven, udlændingeloven, integrationsloven, hjemrejseloven, anerkendelsesloven, lovtidendeloven, retskrivningsloven og firmapensionskasseloven. Det samlede antal er ukendt. Søgningerne gav ingen sider for forvaltningsloven, færdselsloven, serviceloven eller planloven, men det kan skyldes søgemaskinens dækning.",
+    "kilder": [
+     "https://danskelove.dk/straffeloven",
+     "https://danskelove.dk/lejeloven",
+     "https://danskelove.dk/grundloven",
+     "https://danskelove.dk/byggeloven",
+     "https://danskelove.dk/ligningsloven",
+     "https://danskelove.dk/offentlighedsloven"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "type": "ophævede/historiske love",
+    "daekket": "delvist",
+    "omfang": "Persondataloven (lov om behandling af personoplysninger, i kraft 1/7/2000, afløst i 2018) ligger stadig i indekset, både som lovside og som §-sider. Det er ikke set, om ophævede love er markeret som ophævede.",
+    "kilder": [
+     "https://danskelove.dk/persondataloven",
+     "https://danskelove.dk/persondataloven/76"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "type": "lovbekendtgørelse (LBK som version/metadata)",
+    "daekket": "ukendt",
+    "omfang": "Lovene vises under kortnavn og titel ('Lov om …'). Søgeresultaterne viser hverken LBK-nummer, dato eller angivelse af, hvilken konsolideret version teksten bygger på.",
+    "kilder": [
+     "https://danskelove.dk/ligningsloven",
+     "https://danskelove.dk/persondataloven"
+    ],
+    "sikkerhed": "ukendt"
+   },
+   {
+    "type": "bekendtgørelse",
+    "daekket": "nej",
+    "omfang": "Ingen af 4-5 målrettede søgninger gav en BEK-side på danskelove.dk. Bekendtgørelser nævnes kun inde i lovteksten, fx i ikrafttrædelses- og overgangsparagraffer som anerkendelsesloven § 19 og retskrivningsloven.",
+    "kilder": [
+     "https://danskelove.dk/anerkendelsesloven/19",
+     "https://danskelove.dk/retskrivningsloven"
+    ],
+    "sikkerhed": "sandsynlig"
+   },
+   {
+    "type": "cirkulære/vejledning/skrivelse",
+    "daekket": "nej",
+    "omfang": "Ingen fund. Søgninger på vejledning og cirkulære gav kun Lovguiden og Retsinformation.",
+    "kilder": [],
+    "sikkerhed": "sandsynlig"
+   },
+   {
+    "type": "afgørelse/dom/praksis",
+    "daekket": "nej",
+    "omfang": "Ingen fund. Til sammenligning har elov.dk /paragraf/N/afgoerelser bag betalingsmur, og Lovguiden har praksisoversigter.",
+    "kilder": [],
+    "sikkerhed": "sandsynlig"
+   },
+   {
+    "type": "forarbejder (lovforslag/bemærkninger)",
+    "daekket": "nej",
+    "omfang": "Der er ikke set links til lovforslag eller bemærkninger på danskelove.dk.",
+    "kilder": [],
+    "sikkerhed": "sandsynlig"
+   },
+   {
+    "type": "EU-retsakter",
+    "daekket": "ukendt",
+    "omfang": "Ikke undersøgt direkte og ingen fund.",
+    "kilder": [],
+    "sikkerhed": "ukendt"
+   }
+  ],
+  "felter": [
+   {
+    "felt": "kortnavn",
+    "findes": "ja",
+    "eksempel": "URL-slug og sidetitel bruger kortnavn, også uofficielle eller mindre kendte som 'anerkendelsesloven', 'lovtidendeloven', 'almenlejeloven', 'hjemrejseloven' og 'firmapensionskasseloven'. Slug skrives med små bogstaver og æ/ø/å (URL-kodet, fx udl%C3%A6ndingeloven, funktion%C3%A6rloven).",
+    "kilder": [
+     "https://danskelove.dk/anerkendelsesloven/19",
+     "https://danskelove.dk/lovtidendeloven",
+     "https://danskelove.dk/almenlejeloven",
+     "https://danskelove.dk/udl%C3%A6ndingeloven/60"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "felt": "officiel titel",
+    "findes": "ja",
+    "eksempel": "'Persondataloven – Lov om behandling af personoplysninger' og 'Ligningsloven – Lov om påligningen af indkomstskat til staten'",
+    "kilder": [
+     "https://danskelove.dk/persondataloven",
+     "https://danskelove.dk/ligningsloven"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "felt": "§-niveau-sider",
+    "findes": "ja",
+    "eksempel": "danskelove.dk/<kortnavn>/<paragrafnr>, også bogstavparagraffer uden mellemrum: /tinglysningsloven/52a, /hjemrejseloven/1a. Sidetitlen er '<Kortnavn> § N', fx 'Lejeloven § 207', 'Tinglysningsloven § 52 a'.",
+    "kilder": [
+     "https://danskelove.dk/tinglysningsloven/53",
+     "https://danskelove.dk/tinglysningsloven/52a",
+     "https://danskelove.dk/hjemrejseloven/1a",
+     "https://danskelove.dk/lejeloven/207"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "felt": "ændringshistorik/ændringsnoter pr. §",
+    "findes": "delvist",
+    "eksempel": "Ved tinglysningsloven § 53 bestod søgemaskinens udtræk kun af ændringshistorik. Det tyder på ændringsnoter på §-siderne, men formatet er ukendt.",
+    "kilder": [
+     "https://danskelove.dk/tinglysningsloven/53"
+    ],
+    "sikkerhed": "sandsynlig"
+   },
+   {
+    "felt": "stk./nr.-ankre",
+    "findes": "ukendt",
+    "eksempel": "Ikke set i søgeresultaterne. Til sammenligning bruger Lovguiden ?stk=2.",
+    "kilder": [],
+    "sikkerhed": "ukendt"
+   },
+   {
+    "felt": "ministerium/ressort",
+    "findes": "nej",
+    "eksempel": "Hverken lov- eller §-sider viser ressort i søgeresultaterne, fx retskrivningsloven.",
+    "kilder": [
+     "https://danskelove.dk/retskrivningsloven"
+    ],
+    "sikkerhed": "sandsynlig"
+   },
+   {
+    "felt": "Lovtidende-nr./LBK-nr. og dato",
+    "findes": "ukendt",
+    "eksempel": "Ikke set i snippets. Til sammenligning viser Lovguiden 'LBK nr 1500 af 24/11/2025' på hver side.",
+    "kilder": [],
+    "sikkerhed": "ukendt"
+   },
+   {
+    "felt": "ELI/link til Retsinformation",
+    "findes": "ukendt",
+    "eksempel": "Ikke set.",
+    "kilder": [],
+    "sikkerhed": "ukendt"
+   },
+   {
+    "felt": "ikrafttræden",
+    "findes": "delvist",
+    "eksempel": "Kun som lovtekst i ikrafttrædelsesparagraffen, fx lejeloven § 207 ('Loven træder i kraft den 1. juli 2022') og persondataloven § 76 (1/7/2000). Ikke set som metadatafelt.",
+    "kilder": [
+     "https://danskelove.dk/lejeloven/207",
+     "https://danskelove.dk/persondataloven/76"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "felt": "hjemmel (for BEK)",
+    "findes": "nej",
+    "eksempel": "Bekendtgørelser er ikke med, så der er ingen hjemmelskobling.",
+    "kilder": [],
+    "sikkerhed": "sandsynlig"
+   },
+   {
+    "felt": "retsområde/kategori",
+    "findes": "ukendt",
+    "eksempel": "Der er ikke set kategori- eller retsområdesider. URL-rummet ser fladt ud: /<kortnavn>.",
+    "kilder": [],
+    "sikkerhed": "ukendt"
+   },
+   {
+    "felt": "forarbejder/lovforslag-links",
+    "findes": "nej",
+    "eksempel": "Ikke set.",
+    "kilder": [],
+    "sikkerhed": "sandsynlig"
+   },
+   {
+    "felt": "praksis/afgørelser",
+    "findes": "nej",
+    "eksempel": "Ikke set.",
+    "kilder": [],
+    "sikkerhed": "sandsynlig"
+   },
+   {
+    "felt": "krydshenvisninger mellem love",
+    "findes": "delvist",
+    "eksempel": "Integrationsloven § 2 henviser til udlændingelovens §§ 9 i-9 l, i hvert fald i teksten. Om henvisningen er et link, er ukendt.",
+    "kilder": [
+     "https://danskelove.dk/integrationsloven/2"
+    ],
+    "sikkerhed": "sandsynlig"
+   }
+  ],
+  "struktur": "Det flade URL-rum ser sådan ud ud fra søgeresultaterne: (1) Lovside: https://danskelove.dk/<kortnavn>. Den har kortnavn og fuld titel og starter med § 1, ofte med kapitel- og delopdeling. For straffeloven ses 'Almindelig del, kapitel 1 Indledende bestemmelser'. (2) Paragrafside: https://danskelove.dk/<kortnavn>/<nr>, med bogstavsuffiks uden mellemrum (52a, 1a) og titlen '<Kortnavn> § N[ x]'. (3) Info-side: /vilkår. Kortnavne er slugs med små bogstaver og æ/ø/å (URL-kodede). Der er ikke set id-numre, år, LBK-numre, ministerie- eller retsområdemapper i URL'erne. Der er heller ikke fundet en alfabetisk oversigt, et sitemap eller kategorisider via søgning, men de kan sagtens findes. Sitet er kun indekseret i begrænset omfang: site:-operatoren virkede ikke, så fundene kom fra søgninger på '<lovnavn> § N danskelove'.",
+  "eksempel_urler": [
+   {
+    "url": "https://danskelove.dk/tinglysningsloven/53",
+    "titel": "Tinglysningsloven § 53"
+   },
+   {
+    "url": "https://danskelove.dk/tinglysningsloven/52a",
+    "titel": "Tinglysningsloven § 52 a"
+   },
+   {
+    "url": "https://danskelove.dk/retskrivningsloven",
+    "titel": "danskelove.dk – Retskrivningsloven"
+   },
+   {
+    "url": "https://danskelove.dk/grundloven",
+    "titel": "danskelove.dk – Grundloven"
+   },
+   {
+    "url": "https://danskelove.dk/straffeloven",
+    "titel": "danskelove.dk – Straffeloven"
+   },
+   {
+    "url": "https://danskelove.dk/lejeloven/1",
+    "titel": "Lejeloven § 1"
+   },
+   {
+    "url": "https://danskelove.dk/lejeloven/207",
+    "titel": "Lejeloven § 207"
+   },
+   {
+    "url": "https://danskelove.dk/erhvervslejeloven/1",
+    "titel": "Erhvervslejeloven § 1"
+   },
+   {
+    "url": "https://danskelove.dk/almenlejeloven/110",
+    "titel": "Almenlejeloven § 110"
+   },
+   {
+    "url": "https://danskelove.dk/anerkendelsesloven/19",
+    "titel": "Anerkendelsesloven § 19"
+   },
+   {
+    "url": "https://danskelove.dk/lovtidendeloven",
+    "titel": "danskelove.dk – Lovtidendeloven"
+   },
+   {
+    "url": "https://danskelove.dk/arbejdsmilj%C3%B8loven",
+    "titel": "danskelove.dk – Arbejdsmiljøloven"
+   },
+   {
+    "url": "https://danskelove.dk/persondataloven/76",
+    "titel": "Persondataloven § 76"
+   },
+   {
+    "url": "https://danskelove.dk/byggeloven/6",
+    "titel": "Byggeloven § 6"
+   },
+   {
+    "url": "https://danskelove.dk/udl%C3%A6ndingeloven/60",
+    "titel": "Udlændingeloven § 60"
+   },
+   {
+    "url": "https://danskelove.dk/hjemrejseloven/1a",
+    "titel": "Hjemrejseloven § 1 a"
+   },
+   {
+    "url": "https://danskelove.dk/integrationsloven/2",
+    "titel": "Integrationsloven § 2"
+   },
+   {
+    "url": "https://danskelove.dk/funktion%C3%A6rloven/2",
+    "titel": "Funktionærloven § 2"
+   },
+   {
+    "url": "https://danskelove.dk/offentlighedsloven/1",
+    "titel": "Offentlighedsloven § 1"
+   },
+   {
+    "url": "https://danskelove.dk/firmapensionskasseloven/73",
+    "titel": "Firmapensionskasseloven § 73"
+   },
+   {
+    "url": "https://danskelove.dk/ligningsloven",
+    "titel": "danskelove.dk – Ligningsloven"
+   },
+   {
+    "url": "https://danskelove.dk/vilk%C3%A5r",
+    "titel": "Vilkår for brug - Danske Love"
+   }
+  ],
+  "aktualitet": "Usikker og formentlig ujævn. Positive tegn: lejeloven er den nye lov med ikrafttræden 1/7/2022 (§ 207), og hjemrejseloven (2020) og offentlighedsloven (2013) er med. Negative tegn: persondataloven (afløst 25/5/2018) er stadig indekseret. Ingen snippet viser LBK-nummer, versionsdato eller 'senest opdateret', så det kan ikke afgøres, om fx arbejdsmiljølovens LBK 442 af 24/04/2026 eller ligningslovens LBK 1500 af 24/11/2025 er indarbejdet. Der er intet belæg for udstedelser efter 2026-02-12. Opdateringsfrekvensen er ukendt. Vilkårene siger kun, at man 'tilstræber' aktuelt indhold uden garanti.",
+  "adgang": "Kun HTML-sider i søgeresultaterne. Der er ikke fundet API, bulk-download, sitemap eller åbne data, og robots.txt er ikke set, fordi domænet ikke kan hentes. URL-skemaet er dog så forudsigeligt (/<kortnavn>/<nr>), at en tilladt crawl kunne nå §-sider ud fra en liste over kortnavne. Uden direkte adgang er søgemaskinernes dækning tynd: site:-søgning gav nul resultater, og kun omkring 40 sider dukkede op på 33 søgninger.",
+  "licens_vilkaar": "Vilkårene ligger på danskelove.dk/vilkår. De gælder alle sites under DanskeLove.dk-domænet, og brug af sitet regnes som accept af dem. Enhver brug ud over det tilladte kræver forudgående tilladelse fra Danske Love, så systematisk kopiering eller høst til et korpus bør ikke ske uden skriftlig tilladelse. Indhold og links fra Legal Desk er omfattet af Legal Desks egne vilkår. Der er ingen garanti for fuldstændighed eller korrekthed. Dansk ret og dansk værneting gælder. Selve lovteksterne er ikke ophavsretligt beskyttede efter ophavsretslovens § 9, stk. 1, men sitets redaktionelle tilføjelser (kortnavne, struktur, noter) og databasen som helhed kan være beskyttede (katalog-/databasebeskyttelse, § 71). Det er ikke afklaret juridisk.",
+  "kan_lukke": [
+   {
+    "hul": "37 % af de gældende dokumenter mangler tekst",
+    "vurdering": "delvist",
+    "begrundelse": "Danskelove.dk har kun lovtekster, ikke BEK, CIR eller VEJ, og bekendtgørelser udgør formentlig hovedparten af de manglende tekster. Teksterne er uofficielle, uden synlig LBK-version og uden opdateringsgaranti. Kan højst bruges som nødløsning eller krydstjek for love. Retsinformations egne kilder (ELI/API/PDF) bør fortsat være primærkilden."
+   },
+   {
+    "hul": "Præambel/hjemmel og ressortministerium mangler",
+    "vurdering": "nej",
+    "begrundelse": "Der er ikke set ressortfelt, og bekendtgørelser (og dermed deres hjemmelspræambler) er ikke med."
+   },
+   {
+    "hul": "Dokumenter efter 2026-02-12 mangler",
+    "vurdering": "nej",
+    "begrundelse": "Der er intet belæg for versioner eller udstedelser fra 2026, og der vises ingen datoer eller LBK-numre. Selv hvis teksterne er opdaterede, ville sitet ikke give metadata som nummer, dato eller dokumenttype for nye udstedelser."
+   },
+   {
+    "hul": "Cirkulærer, vejledninger, skrivelser og afgørelser mangler",
+    "vurdering": "nej",
+    "begrundelse": "Ingen af dokumenttyperne er fundet på danskelove.dk."
+   },
+   {
+    "hul": "Ingen kobling lov ↔ lovforslag/forarbejder",
+    "vurdering": "nej",
+    "begrundelse": "Der er ikke set links til lovforslag, bemærkninger eller Folketingstidende. Ændringsnoter pr. § (tinglysningsloven § 53) kan måske give lovnumre på ændringslove og dermed en indirekte vej til forarbejder, men det er ikke bekræftet."
+   },
+   {
+    "hul": "Ingen §-ankre",
+    "vurdering": "delvist",
+    "begrundelse": "Sitet har én side pr. paragraf med stabile, læsbare URL'er (/<kortnavn>/<nr>, bogstavsuffiks som 52a), der kan bruges som model eller nøgle til §-ankre og citationsnormalisering ('Lejeloven § 207'). Det gælder kun love, ikke BEK. Stk.- og nr.-ankre er ikke set, og ankrene skal stadig bygges på egen tekst fra Retsinformation."
+   },
+   {
+    "hul": "Kortnavne for love er ufuldstændige (5.252 'lov om …'-fraser kan ikke matches)",
+    "vurdering": "delvist",
+    "begrundelse": "Sitet bruger kortnavne for alle sine love, også uofficielle (anerkendelsesloven, lovtidendeloven, almenlejeloven, firmapensionskasseloven), og parrer dem med den fulde titel 'Lov om …'. Det svarer præcis til den ordbog, vi mangler. Dækningen er dog sandsynligvis kun de mest brugte love (anslået hundreder, ikke tusinder), så kun en del af de 5.252 fraser kan matches. Høst kræver tilladelse efter vilkårene."
+   }
+  ],
+  "noter": [
+   "Søgebudget: 33 af 35 WebSearch-kald er brugt. site:danskelove.dk gav nul træffere, fordi søgemaskinen ignorerede operatoren. Alle fund kom fra søgninger på '<lovnavn> § N danskelove'. Fraværet af dokumenttyper (BEK/VEJ/afgørelser) bygger på negative søgninger og er derfor 'sandsynlig', ikke 'verificeret'.",
+   "Brugerens andet link, https://www.jurabibliotek.dk/danske-lov, kom ikke frem i søgningerne. Ifølge resultaterne er Jurabibliotek et abonnementsprodukt fra Djøf Forlag (nævnt sammen med eLov og under jurabibliotek.ai), altså bag betalingsmur. Det er uden for opgavens scope og ikke kortlagt nærmere.",
+   "Overlap med Lovguiden: Lovguiden (lovguiden.dk/loven/<kortnavn>/<paragraf>) har samme URL-mønster, men viser desuden 'Gældende LBK nr … af …', ressort, VEJ/CIR-dokumenter og praksisoversigter. Den dækker flere af vores huller end danskelove.dk, men er kommerciel og delvist AI-genereret (jf. huller.md).",
+   "Elov.dk (Djøf/Jurabibliotek) har /<kortnavn>/paragraf/<nr>/afgoerelser, altså praksis pr. paragraf, men bag betalingsmur ('14 dages gratis').",
+   "Anbefaling: danskelove.dk er mest værdifuld som kortnavneordbog (kortnavn ↔ 'Lov om …') og som model for §-URL-skema for love. Den er ikke en tekstkilde til RAG-korpusset. Før enhver høst skal der indhentes tilladelse fra operatøren (kontaktoplysninger står på /vilkår).",
+   "Ophævede love (persondataloven) står side om side med gældende uden synlig statusmarkering i snippets. Kortnavne fra sitet skal derfor matches mod vores katalogs gældende-status, så de ikke kobles til forkerte versioner."
+  ]
+ },
+ "research:jurabibliotek": {
+  "site": "https://www.jurabibliotek.dk/danske-lov (ses i søgeresultaterne kun som https://www.jurabibliotek.ai/danske-lov; sitet ligger nu på både jurabibliotek.dk og jurabibliotek.ai med samme URL-struktur)",
+  "hvad_er_det": "Jurabibliotek er Djøf Forlags kommercielle juridiske onlinebibliotek. Det samler 500+ (ifølge en Djøf-medarbejder over 900) e-bøger fra Djøf Forlag, tidsskrifter (fx Juristen og Tidsskrift for Miljø), konsolideret lovgivning (\"over 2.000 konsoliderede love og bekendtgørelser opdateret dagligt\"), forarbejder på §-niveau og en AI-assistent, der bygger på RAG. Forretningsmodellen er abonnement uden en gratis udgave. Jurabibliotek Lovgivning koster ca. 8.190 kr./år, den fulde pakke med bøger og AI ca. 12.475 kr./år, og man skal binde sig i mindst 12 måneder. Der er en gratis prøveperiode på 14 dage. Sitet har for nylig skiftet platform. Den nye platform kører på jurabibliotek.ai, mens den gamle, PubFactory-agtige bogplatform stadig ses under /display/book og /browse på jurabibliotek.dk. Djøf nævner selv en API- og MCP-integration til konsolideret lovgivning, og forlaget har siden maj 2026 et partnerskab med Legora. VIGTIGT: /danske-lov er IKKE et indeks over danske love. Det er siden for Christian V's Danske Lov fra 1683, som sitet angiver som \"Lov nr. 11000 af 15. april 1683\" med ændringer til 2007. Det svarer til Retsinformations ELI 1683/11000. URL'en følger samme slug-mønster som /lejeloven og /aktivloven.",
+  "dokumenttyper": [
+   {
+    "type": "lov/lovbekendtgørelse (konsolideret)",
+    "daekket": "delvist",
+    "omfang": "Ifølge sitet selv 'over 2.000 konsoliderede love og bekendtgørelser' tilsammen, mod vores 13.819 gældende dokumenter. Store love som retsplejeloven, lejeloven, hvidvaskloven og aftaleloven er med, og det samme gælder små som chokoladeafgiftsloven og Danske Lov 1683. Djøf konsoliderer selv ændringslove ind i teksten, ud over Retsinformations LBK, og tilføjer redaktionelle noter. Al tekst ligger bag betalingsmur.",
+    "kilder": [
+     "https://www.jurabibliotek.dk/",
+     "https://www.jurabibliotek.ai/retsplejeloven",
+     "https://www.jurabibliotek.ai/hvidvaskloven",
+     "https://www.jurabibliotek.dk/lejeloven",
+     "https://www.jurabibliotek.dk/lov-om-fondsmaeglerselskaber-og-investeringsservice-og-aktiviteter/kapitel/25",
+     "https://www.jurabibliotek.ai/danske-lov"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "type": "bekendtgørelse",
+    "daekket": "delvist",
+    "omfang": "Mange bekendtgørelser, fx kørekortbekendtgørelsen (20/8 2026), Kriminalregisteret (BEK 589 af 22/6 2026), vejafmærkning, god skik for finansielle virksomheder og bygningsreglementet. De tæller med i de cirka 2.000.",
+    "kilder": [
+     "https://www.jurabibliotek.dk/koerekortbekendtgoerelsen",
+     "https://www.jurabibliotek.dk/bekendtgoerelse-om-behandling-af-personoplysninger-i-det-centrale-kriminalregister-kriminalregisteret/kapitel/6",
+     "https://www.jurabibliotek.ai/bygningsreglementet/paragraf/302",
+     "https://www.jurabibliotek.ai/bekendtgoerelse-om-god-skik-for-finansielle-virksomheder/kapitel/4"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "type": "cirkulære",
+    "daekket": "delvist",
+    "omfang": "Enkelte cirkulærer findes som selvstændige lovsider, fx cirkulære om politiets udrykningskørsel og om kriminalforsorgens tilsyn efter straffelovens §§ 68/69. Andre findes kun som bilag i bøger, fx cirkulære nr. 72/1996 om ligningsloven. Omfanget kendes ikke.",
+    "kilder": [
+     "https://www.jurabibliotek.dk/cirkulaere-om-politiets-udrykningskoersel/paragraf/18",
+     "https://www.jurabibliotek.dk/cirkulaere-om-kriminalforsorgens-tilsyn-med-personer-der-er-idoemt-en-foranstaltning-efter-straffelovens-68-eller-69",
+     "https://www.jurabibliotek.dk/display/book/9788771981841/back-4.xml"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "type": "vejledning (myndighedsvejledning)",
+    "daekket": "nej",
+    "omfang": "Myndighedsvejledninger findes kun som bilag i Djøf-bøger, fx Justitsministeriets vejledning fra 1997 om aktindsigt i personalesager. Der er ingen selvstændig vejledningssamling. (/vejledning/... på jurabibliotek.ai er sitets egen brugervejledning.)",
+    "kilder": [
+     "https://www.jurabibliotek.dk/display/book/9788771984781/back-8.xml",
+     "https://www.jurabibliotek.ai/vejledning/forarbejder-2/forarbejder"
+    ],
+    "sikkerhed": "sandsynlig"
+   },
+   {
+    "type": "forarbejder (lovforslag som fremsat, betænkninger)",
+    "daekket": "ja",
+    "omfang": "Egen sektion /forarbejder/ med 'Lovforslag som fremsat' fra mindst 1984/1 til 2025/1 (LSF 115 af 24/2 2026) og betænkninger (BTL). Teksten er delt op i almindelige og specielle bemærkninger, og de specielle er opdelt pr. §, så de kan kobles til de enkelte paragraffer. Teksten ligger bag betalingsmur.",
+    "kilder": [
+     "https://www.jurabibliotek.dk/forarbejder/lovforslag-som-fremsat-2026-02-24-20251-lsf-115?Retsomr%C3%A5de=7&Indholdstype=forarbejder",
+     "https://www.jurabibliotek.ai/forarbejder/lovforslag-som-fremsat-1985-02-01-19841-lsf-164-a",
+     "https://www.jurabibliotek.dk/forarbejder/betaenkning-over-lovforslag-2011-02-05-20101-btl-83-draft",
+     "https://www.jurabibliotek.ai/vejledning/forarbejder-2/forarbejder",
+     "https://djoefforlag.dk/products/lovgivning"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "type": "afgørelse/dom (praksis)",
+    "daekket": "nej",
+    "omfang": "Der er ingen selvstændig domsdatabase. Praksis optræder kun i bøger ('Oversigt over domme og afgørelser', UfR-henvisninger) og i tidsskriftsrubrikker som TfM 'Domme og afgørelser'. Søgesiden lover 'retspraksis', men ingen retspraksis-indholdstype er set.",
+    "kilder": [
+     "https://www.jurabibliotek.dk/view/book/9788757498554/back-7.xml",
+     "https://www.jurabibliotek.ai/tidsskrifter/TFM/2019/7/tfm7_2019_240-domme-og-afgoerelser?Forfattere=886&Indholdstype=TFM",
+     "https://www.jurabibliotek.ai/sog"
+    ],
+    "sikkerhed": "sandsynlig"
+   },
+   {
+    "type": "juridisk litteratur/tidsskrifter",
+    "daekket": "ja",
+    "omfang": "500-900+ Djøf-bøger samt tidsskrifterne Juristen og Tidsskrift for Miljø. Bøgerne gengiver ofte lovbekendtgørelser, cirkulærer og lovbemærkninger som bilag.",
+    "kilder": [
+     "https://www.jurabibliotek.ai/tidsskrifter/JUR/2025/6/jur6_2025_372-forslag-til-ny-spoergeramme-til-brug-for-udformning-af-digitaliseringsklar-lovgivning",
+     "https://www.jurabibliotek.dk/display/book/9788757496413/back-2.xml"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "type": "EU-retsakter",
+    "daekket": "ukendt",
+    "omfang": "Der er ikke set nogen EU-forordninger eller -direktiver som lovsider. EU-ret findes kun som emne i bøger.",
+    "kilder": [
+     "https://www.jurabibliotek.dk/browse?access=all&archived=current&level=parent&page=3&pageSize=10&sort=datedescending&t=S02000000&t_0=12040000&t_1=04000000&t_2=12000000&t_3=03070000"
+    ],
+    "sikkerhed": "ukendt"
+   }
+  ],
+  "felter": [
+   {
+    "felt": "kortnavn/populærnavn som sidetitel og slug",
+    "findes": "ja",
+    "eksempel": "'Retssikkerhedsbekendtgørelsen' for bekendtgørelse om retssikkerhed og administration på det sociale område; slugs som /lejeloven, /kommunal-og-regionalvalgloven, /cvr-bekendtgoerelsen og /receptbekendtgoerelsen. Love uden kortnavn får titlen som slug, fx /lov-om-danmarks-innovationsfond.",
+    "kilder": [
+     "https://www.jurabibliotek.ai/bekendtgoerelse-om-retssikkerhed-og-administration-paa-det-sociale-omraade/paragraf/5",
+     "https://www.jurabibliotek.ai/cvr-bekendtgoerelsen/paragraf/19",
+     "https://www.jurabibliotek.ai/kommunal-og-regionalvalgloven",
+     "https://www.jurabibliotek.dk/lov-om-danmarks-innovationsfond"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "felt": "grundlov/LBK-nr. og 'som ændret ved'-liste (ændringshistorik)",
+    "findes": "ja",
+    "eksempel": "Hvidvaskloven: LBK 433 af 17. april 2026, som ændret ved lov nr. …, med den nyeste ændring i kraft 15/9 2026. Retsplejeloven: LBK 1298 af 7/11 2025 plus ændringslove fra 2026.",
+    "kilder": [
+     "https://www.jurabibliotek.ai/hvidvaskloven",
+     "https://www.jurabibliotek.ai/retsplejeloven",
+     "https://www.jurabibliotek.ai/sygedagpengeloven"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "felt": "ikrafttræden pr. ændringslov / ikke-ikraftsatte ændringer",
+    "findes": "ja",
+    "eksempel": "Sygedagpengeloven: én ændring træder i kraft 1/12 2026. Våbenloven: en ændring fra 2026 træder i kraft 1/1 2027. Elforsyningsloven markerer, hvilke ændringer der allerede er indarbejdet.",
+    "kilder": [
+     "https://www.jurabibliotek.ai/sygedagpengeloven",
+     "https://www.jurabibliotek.ai/vaabenloven/paragraf/6",
+     "https://www.jurabibliotek.ai/elforsyningsloven"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "felt": "redaktionelle noter (konsolideringsfejl, Retsinformation-fejl)",
+    "findes": "ja",
+    "eksempel": "Aftaleloven: noten oplyser, at en konsolidering fejlagtigt er opdateret til en senere ændring på retsinformation. Fondsmæglerloven: 'Vi har dog indsat denne ændring som nr. 6 i stedet for nr. 4.'",
+    "kilder": [
+     "https://www.jurabibliotek.ai/aftaleloven",
+     "https://www.jurabibliotek.dk/lov-om-fondsmaeglerselskaber-og-investeringsservice-og-aktiviteter/kapitel/25"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "felt": "relaterede bekendtgørelser (lov→BEK-kobling)",
+    "findes": "ja",
+    "eksempel": "Sektionen 'Bekendtgørelser relaterede til Dyrevelfærdsloven' nævner fx cirkusbekendtgørelsen, bekendtgørelse om erhvervsmæssig handel med dyr og aflivningsbekendtgørelsen. Folkeoplysningsloven har en tilsvarende sektion.",
+    "kilder": [
+     "https://www.jurabibliotek.ai/dyrevelfaerdsloven",
+     "https://www.jurabibliotek.ai/folkeoplysningsloven"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "felt": "§-niveau-sider og kapitelsider",
+    "findes": "ja",
+    "eksempel": "/lov-om-finansiel-virksomhed/paragraf/344, /dyrevelfaerdsloven/paragraf/1, /lov-om-kreditservicevirksomheder-og-kreditkoebere/kapitel/3",
+    "kilder": [
+     "https://www.jurabibliotek.dk/lov-om-finansiel-virksomhed/paragraf/344",
+     "https://www.jurabibliotek.ai/dyrevelfaerdsloven/paragraf/1",
+     "https://www.jurabibliotek.dk/lov-om-kreditservicevirksomheder-og-kreditkoebere/kapitel/3"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "felt": "forarbejder koblet på §-niveau",
+    "findes": "ja",
+    "eksempel": "Produktsiden lover 'forarbejder på paragrafniveau' med links til kommentarer og bøger om samme bestemmelse. Lovforslagssiderne har bemærkninger pr. §.",
+    "kilder": [
+     "https://djoefforlag.dk/products/lovgivning",
+     "https://www.jurabibliotek.ai/vejledning/forarbejder-2/forarbejder",
+     "https://www.jurabibliotek.ai/forarbejder/lovforslag-som-fremsat-2018-11-16-20181-lsf-104"
+    ],
+    "sikkerhed": "sandsynlig"
+   },
+   {
+    "felt": "lovforslagsidentifikator (samling + LSF/BTL-nr. + dato)",
+    "findes": "ja",
+    "eksempel": "Slug lovforslag-som-fremsat-2026-02-24-20251-lsf-115 svarer til 2025/1 LSF 115 af 24/2 2026.",
+    "kilder": [
+     "https://www.jurabibliotek.dk/forarbejder/lovforslag-som-fremsat-2026-02-24-20251-lsf-115?Retsomr%C3%A5de=7&Indholdstype=forarbejder"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "felt": "kobling lov → dets lovforslag (fx 'forarbejder til denne lov')",
+    "findes": "ukendt",
+    "eksempel": "Koblingen er lovet på §-niveau, men ingen eksplicit liste over en lovs forarbejder er set i snippets.",
+    "kilder": [
+     "https://djoefforlag.dk/products/lovgivning"
+    ],
+    "sikkerhed": "ukendt"
+   },
+   {
+    "felt": "ressortministerium",
+    "findes": "delvist",
+    "eksempel": "Ministeriet nævnes kun i lovteksten ('Klima-, energi- og bygningsministeren fastsætter tidspunktet for lovens ikrafttræden'). Der er ikke set noget struktureret felt.",
+    "kilder": [
+     "https://www.jurabibliotek.dk/lejeloven"
+    ],
+    "sikkerhed": "sandsynlig"
+   },
+   {
+    "felt": "hjemmel/præambel for bekendtgørelser",
+    "findes": "ukendt",
+    "eksempel": "Der er ikke set noget struktureret hjemmelfelt. Lov→BEK-koblingen findes kun via 'relaterede bekendtgørelser'.",
+    "kilder": [
+     "https://www.jurabibliotek.ai/dyrevelfaerdsloven"
+    ],
+    "sikkerhed": "ukendt"
+   },
+   {
+    "felt": "retsområde/kategori",
+    "findes": "delvist",
+    "eksempel": "Forarbejde-URL'er har ?Retsområde=7&Indholdstype=forarbejder. Den gamle platform har emnekoder som /subject/S12060000 (Dataret) og browse-filtrene t=S05000000 (Obligationsret). Der er ikke set nogen retsområde-oversigt over love.",
+    "kilder": [
+     "https://www.jurabibliotek.dk/forarbejder/lovforslag-som-fremsat-2026-02-24-20251-lsf-115?Retsomr%C3%A5de=7&Indholdstype=forarbejder",
+     "https://www.jurabibliotek.dk/subject/S12060000?access=all&archived=current&level=all&page=15&pageSize=10&sort=datedescending",
+     "https://www.jurabibliotek.dk/browse?level=parent&pageSize=10&sort=datedescending&t0=S05000000"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "felt": "indholdstype-filter i søgning",
+    "findes": "ja",
+    "eksempel": "/sog?Forfattere=736&Indholdstype=lovgivning med typerne 'Konsoliderede love' og 'Love og ændringslove'",
+    "kilder": [
+     "https://www.jurabibliotek.dk/sog?Forfattere=736&Indholdstype=lovgivning"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "felt": "link til Retsinformation / ELI",
+    "findes": "ukendt",
+    "eksempel": "Ikke set i snippets. Retsinformation nævnes kun i redaktionelle noter (aftaleloven).",
+    "kilder": [
+     "https://www.jurabibliotek.ai/aftaleloven"
+    ],
+    "sikkerhed": "ukendt"
+   },
+   {
+    "felt": "Lovtidende-nr. (A-nr.)",
+    "findes": "delvist",
+    "eksempel": "Lov- og BEK-numre med dato (fx 'lov nr. 615 af 30. juni 2026', 'BEK 589 af 22. juni 2026'), men ikke som strukturerede ELI-felter.",
+    "kilder": [
+     "https://www.jurabibliotek.dk/lejeloven",
+     "https://www.jurabibliotek.dk/bekendtgoerelse-om-behandling-af-personoplysninger-i-det-centrale-kriminalregister-kriminalregisteret/kapitel/6"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "felt": "praksis koblet til §",
+    "findes": "nej",
+    "eksempel": "Der er ikke set nogen domme koblet på lovparagraffer. Praksis findes kun i bøger og tidsskrifter.",
+    "kilder": [
+     "https://www.jurabibliotek.dk/view/book/9788757498554/back-7.xml"
+    ],
+    "sikkerhed": "sandsynlig"
+   },
+   {
+    "felt": "fuld tekst offentligt tilgængelig",
+    "findes": "nej",
+    "eksempel": "Siderne viser 'Køb adgang til lovgivning på Jurabibliotek', og AI-chatten er låst. Søgemaskinens snippets viser kun overskrifter, disposition og lidt starttekst.",
+    "kilder": [
+     "https://www.jurabibliotek.ai/retssikkerhedsloven-det-sociale-omraade",
+     "https://www.jurabibliotek.dk/log-ind?redirect=%2Faktivloven%2Fparagraf%2F13e"
+    ],
+    "sikkerhed": "verificeret"
+   }
+  ],
+  "struktur": "Ny platform (jurabibliotek.ai, og samme stier under jurabibliotek.dk): (1) Lov- og bekendtgørelsesside: /<kortnavn-slug>, fx /lejeloven, /danske-lov, /koerekortbekendtgoerelsen og /cirkulaere-om-politiets-udrykningskoersel. Love uden kortnavn bruger den fulde titel som slug (æ→ae, ø→oe, å→aa, 'm.v.'→'mv'), fx /bekendtgoerelse-om-vejafmaerkning. Mindst én side bruger en uregelmæssig translitteration (/bekendtgorelse-om-undervisningsplan-...). (2) Kapitelside: /<slug>/kapitel/<n>. (3) Paragrafside: /<slug>/paragraf/<n>, fx /paragraf/13e og /paragraf/344. (4) Forarbejder: /forarbejder/lovforslag-som-fremsat-<YYYY-MM-DD>-<samling><nr>-lsf-<nr>[-a] og /forarbejder/betaenkning-over-lovforslag-<dato>-<samling>-btl-<nr>-draft. (5) Søgning: /sog med filtrene Indholdstype (lovgivning, forarbejder, TFM …), Retsområde (numerisk) og Forfattere. (6) Bøger: /bog/<ISBN>-<titel-udg>. (7) Tidsskrifter: /tidsskrifter/<JUR|TFM>/<år>/<nr>/<id>. (8) Brugervejledning: /vejledning/... (9) Abonnement: /abonnementer/trial/lovgivning. (10) Vilkår: /betingelser og /privatliv. Hver lovside har en header med grundlov, LBK og 'som ændret ved'-ændringslove med ikrafttræden, derefter kapitel- og §-disposition og nederst 'Bekendtgørelser relaterede til <lov>'. Gammel platform (jurabibliotek.dk, PubFactory-lignende): /display/book/<ISBN>/<del>.xml, /view/book/..., /downloadpdf/... og /previewpdf/..., /browse?t=S05000000… (emnekoder) og /subject/S12060000. Der er IKKE fundet nogen alfabetisk liste over love, ingen oversigt efter ministerium og ingen indeksside for 'danske love'. /danske-lov er lovsiden for Danske Lov 1683.",
+  "eksempel_urler": [
+   {
+    "url": "https://www.jurabibliotek.ai/danske-lov",
+    "titel": "Danske Lov - Jurabibliotek (Christian V's Danske Lov, lov nr. 11000 af 15/4 1683)"
+   },
+   {
+    "url": "https://www.jurabibliotek.dk/lejeloven",
+    "titel": "Lejeloven"
+   },
+   {
+    "url": "https://www.jurabibliotek.ai/hvidvaskloven",
+    "titel": "Hvidvaskloven - Jurabibliotek (LBK 433 af 17/4 2026)"
+   },
+   {
+    "url": "https://www.jurabibliotek.ai/retsplejeloven",
+    "titel": "Retsplejeloven - Jurabibliotek"
+   },
+   {
+    "url": "https://www.jurabibliotek.ai/dyrevelfaerdsloven",
+    "titel": "Dyrevelfærdsloven - Jurabibliotek (med relaterede bekendtgørelser)"
+   },
+   {
+    "url": "https://www.jurabibliotek.dk/lov-om-finansiel-virksomhed/paragraf/344",
+    "titel": "Lov om finansiel virksomhed § 344"
+   },
+   {
+    "url": "https://www.jurabibliotek.dk/lov-om-kreditservicevirksomheder-og-kreditkoebere/kapitel/3",
+    "titel": "Lov om kreditservicevirksomheder og kreditkøbere kapitel 3"
+   },
+   {
+    "url": "https://www.jurabibliotek.dk/koerekortbekendtgoerelsen",
+    "titel": "Kørekortbekendtgørelsen"
+   },
+   {
+    "url": "https://www.jurabibliotek.ai/bekendtgoerelse-om-retssikkerhed-og-administration-paa-det-sociale-omraade/paragraf/5",
+    "titel": "Retssikkerhedsbekendtgørelsen § 5 - Jurabibliotek"
+   },
+   {
+    "url": "https://www.jurabibliotek.dk/cirkulaere-om-politiets-udrykningskoersel/paragraf/18",
+    "titel": "Cirkulære om politiets udrykningskørsel § 18"
+   },
+   {
+    "url": "https://www.jurabibliotek.dk/forarbejder/lovforslag-som-fremsat-2026-02-24-20251-lsf-115?Retsomr%C3%A5de=7&Indholdstype=forarbejder",
+    "titel": "Lovforslag som fremsat nr. 2025/1 LSF 115 af 24. februar 2026"
+   },
+   {
+    "url": "https://www.jurabibliotek.ai/forarbejder/lovforslag-som-fremsat-1985-02-01-19841-lsf-164-a",
+    "titel": "Lovforslag som fremsat nr. 1984/1 LSF 164 A af 01. februar 1985"
+   },
+   {
+    "url": "https://www.jurabibliotek.dk/forarbejder/betaenkning-over-lovforslag-2011-02-05-20101-btl-83-draft",
+    "titel": "Betænkning over lovforslag nr. 2010/1 BTL 83 af 05. februar 2011"
+   },
+   {
+    "url": "https://www.jurabibliotek.ai/vejledning/forarbejder-2/forarbejder",
+    "titel": "Forarbejder (sitets brugervejledning)"
+   },
+   {
+    "url": "https://www.jurabibliotek.dk/sog?Forfattere=736&Indholdstype=lovgivning",
+    "titel": "Søg i indhold (filter: lovgivning)"
+   },
+   {
+    "url": "https://www.jurabibliotek.dk/betingelser",
+    "titel": "Generelle vilkår"
+   },
+   {
+    "url": "https://djoefforlag.dk/products/lovgivning",
+    "titel": "Jurabibliotek Lovgivning (produktside)"
+   },
+   {
+    "url": "https://www.jurabibliotek.dk/",
+    "titel": "Djøf Forlag / Jurabibliotek forside"
+   }
+  ],
+  "aktualitet": "Sitet er meget aktuelt og opdateres ifølge Djøf \"dagligt\". I søgeresultaterne ses dokumenter efter vores katalogs skæringsdato 2026-02-12, bl.a.: Hvidvaskloven LBK 433 af 17/4 2026 med en ændring i kraft 15/9 2026, Lejeloven med ændringer til lov nr. 615 af 30/6 2026, BEK 589 af 22/6 2026 (Kriminalregisteret), Kørekortbekendtgørelsen af 20/8 2026 og LSF 115 af 24/2 2026. Sitet registrerer også fremtidige ikrafttrædelser: sygedagpengeloven 1/12 2026 og våbenloven 1/1 2027. Den nye platform på jurabibliotek.ai er lanceret omkring 2025/26, og den præcise dato er ikke bekræftet. Nogle sider er ældre cachede versioner (fx navneloven).",
+  "adgang": "Der er kun HTML-sider, og den fulde tekst ligger bag login eller betalingsmur. Uden adgang ses kun titel, header (LBK og ændringslove), disposition og lidt starttekst. Djøf omtaler en API- og MCP-integration til konsolideret lovgivning, som er en kommerciel aftale til kunder. Der er ingen offentlig dokumentation, og ingen offentligt API, sitemap eller bulk-download er fundet. Robots.txt er ikke set. Søgemaskiner indekserer lovsider, §-sider og forarbejder, så titler og slugs kan ses via site:-søgning (søgemaskinen i \"extended\"-tilstand gav resultater, standardtilstanden gjorde ikke).",
+  "licens_vilkaar": "Lukket og kommerciel. Generelle vilkår (/betingelser) og Brugervilkår (22/1 2024) forbyder udtrykkeligt brug af indhold til tekst- og datamining, træning af generative sprogmodeller og andre AI-systemer samt embeddings. Al maskinel tilgang til indholdet er forbudt, og det samme er omgåelse af tekniske begrænsninger. Vilkårene siger desuden, at 'Jurabiblioteks lovsamling er en privat, juridisk database, ikke en egentlig retskilde', og at der kan forekomme konsolideringsfejl. Universitetslicenser (fx Lund og SDU) begrænser brugen til personlig og akademisk brug og forbyder kommerciel brug. Selv med et tilladt domæne og et abonnement må indholdet derfor ikke indgå i et RAG-korpus.",
+  "kan_lukke": [
+   {
+    "hul": "37 % af de gældende dokumenter mangler tekst",
+    "vurdering": "nej",
+    "begrundelse": "Teksten ligger bag betalingsmur, og vilkårene forbyder TDM, AI og embeddings. Dækningen er kun ca. 2.000 love og bekendtgørelser mod vores 13.819 gældende dokumenter. Den officielle tekst skal alligevel komme fra Retsinformation."
+   },
+   {
+    "hul": "Præambel/hjemmel og ressortministerium mangler",
+    "vurdering": "delvist",
+    "begrundelse": "Lovsiderne har sektionen 'Bekendtgørelser relaterede til <lov>', som giver en kuratereret lov→BEK-kobling for de ca. 2.000 dokumenter. Der er hverken set et struktureret hjemmelfelt (med § i hjemmelsloven) eller et ministeriefelt. Koblingen kan højst bruges som manuel krydstjek af metadata, ikke høstes."
+   },
+   {
+    "hul": "Dokumenter efter 2026-02-12 mangler",
+    "vurdering": "delvist",
+    "begrundelse": "Sitet har nye LBK'er, BEK'er og ændringslove fra 2026 og fremtidige ikrafttrædelser, men kun for den kuraterede delmængde, og indholdet må ikke høstes. Retsinformation er den rette kilde. Sitet kan højst bruges som kontrolliste."
+   },
+   {
+    "hul": "Cirkulærer, vejledninger, skrivelser og afgørelser mangler",
+    "vurdering": "nej",
+    "begrundelse": "Der er enkelte cirkulærer som lovsider. Vejledninger og afgørelser findes kun som bilag eller omtale i bøger og tidsskrifter (TfM 'Domme og afgørelser'). Ingen samlet vejlednings-, skrivelses- eller afgørelsessamling er set."
+   },
+   {
+    "hul": "Ingen kobling lov ↔ lovforslag/forarbejder",
+    "vurdering": "delvist",
+    "begrundelse": "Sitet har en stærk forarbejdesektion (LSF og BTL fra 1984 til 2026) med bemærkninger pr. § koblet til lovparagraffer, netop den kæde vi mangler. Indholdet er betalt og omfattet af TDM-forbud. Slug-mønstret (samling, LSF-nr. og dato) bekræfter, at koblingen kan bygges fra åbne kilder (Folketinget/ODA og Retsinformations ændringsnoter). Sitet er en model, ikke en datakilde."
+   },
+   {
+    "hul": "Ingen §-ankre",
+    "vurdering": "delvist",
+    "begrundelse": "Mønstret /<slug>/paragraf/<n> og /kapitel/<n> viser en enkel, brugbar ankerkonvention. Selve ankrene kan og bør vi dog generere fra Retsinformations egen tekst. Sitet lukker ikke hullet."
+   },
+   {
+    "hul": "Kortnavne for love er ufuldstændige (5.252 'lov om …'-fraser kan ikke matches)",
+    "vurdering": "delvist",
+    "begrundelse": "Sitet bruger populærnavne som titel og slug for både love og bekendtgørelser, fx 'Retssikkerhedsbekendtgørelsen', 'Receptbekendtgørelsen', 'CVR-bekendtgørelsen' og 'Kommunal- og regionalvalgloven', og love uden kortnavn får titelslugs. Det dækker ca. 2.000 dokumenter og kan supplere en kortnavneliste ved manuelt opslag. Massehøst er i strid med vilkårene, og navnene er Djøfs egne redaktionelle valg, ikke officielle."
+   }
+  ],
+  "noter": [
+   "VIGTIGSTE FUND: Brugerens antagelse om, at /danske-lov er 'et indeks der allerede har det meste', holder ikke. Siden er lovsiden for Christian V's Danske Lov af 15/4 1683 ('Lov nr. 11000'), jf. Retsinformations ELI https://www.retsinformation.dk/eli/retsinfo/1683/11000. Den følger samme slug-mønster som /lejeloven. Der er ikke fundet nogen indeksside for alle danske love på sitet.",
+   "URL'en www.jurabibliotek.dk/danske-lov optrådte ikke i mine søgeresultater, kun www.jurabibliotek.ai/danske-lov. Sitet ligger på begge domæner med samme stier. En domænetilladelse skal derfor dække både jurabibliotek.dk og jurabibliotek.ai, og djoefforlag.dk for produkt- og vilkårssider.",
+   "Omfang: 'over 2.000 konsoliderede love og bekendtgørelser' er en kurateret delmængde. Til sammenligning har vi 13.819 gældende dokumenter i Retsinformation-kataloget. Tallene på forsiden viste '0' (pladsholder).",
+   "Djøf konsoliderer selv ændringslove ind i teksten og skriver redaktionelle noter, også om fejl i Retsinformation (aftaleloven). Det er nyttigt som kvalitetsindikator, men vilkårene kalder lovsamlingen 'en privat, juridisk database, ikke en egentlig retskilde'.",
+   "Vilkårene forbyder udtrykkeligt TDM, AI-træning, embeddings og 'enhver maskinel tilgang'. Selv med et tilladt domæne bør sitet kun bruges til manuel verifikation og inspiration til datamodellen: §-ankre, lovforslag på §-niveau og lov→BEK-relationer.",
+   "Djøf har en kommerciel API- og MCP-integration til konsolideret lovgivning (Legora-partnerskab fra maj 2026). Det er en mulig licenseret vej, hvis budgettet tillader det. Vilkår og pris er ukendte.",
+   "Priser set: Jurabibliotek Lovgivning ca. 8.190 kr./år; fuld pakke ca. 12.475 kr./år; mindst 12 måneders binding; 14 dages prøveperiode.",
+   "Søgebudget: 32 WebSearch-kald brugt. site:-søgninger gav kun resultater i 'extended'-tilstand. Sitet selv er ikke hentet. Alle URL'er stammer fra søgeresultaterne. Snippet-baserede beskrivelser (fx 'relaterede bekendtgørelser') er verificeret i søgemaskinens sammendrag, ikke på selve siden.",
+   "Søgningerne viste andre frie alternativer, der kan undersøges separat: lovkompas.dk/lovgivning (alfabetisk oversigt over gældende love) og lovinfo.dk/love?type=CONSOLIDATED_LAW. danskelove.dk fra brugerens besked indgik ikke i denne opgave."
+  ]
+ },
+ "verify:danskelove": {
+  "site": "https://danskelove.dk",
+  "hvad_er_det": "\"Danske Love\" (danskelove.dk) er et gratis opslagsværk med danske lovtekster. Ifølge vilkårssiden (danskelove.dk/vilkår, bekræftet i egne søgninger) ejes og drives sitet af Christian Schmidt, Østerbrogade 35, 1. tv., 2100 København Ø, CVR 21095575. Sitet kalder sig \"et gratis site til at læse dansk lovgivning\", er ikke et advokatfirma og giver ikke rådgivning pr. mail eller telefon. Vilkårene siger, at Danske Love samarbejder med Legal Desk ApS (CVR 37890235) om adgang til juridisk rådgivning. Adgangen til Legal Desk går gennem en særskilt krypteret forbindelse, som Danske Love hverken vedligeholder eller kontrollerer, og links og artikler fra Legal Desk er omfattet af Legal Desks egne vilkår. Forretningsmodellen er derfor formentlig henvisninger til Legal Desk. En Legal Desk-URL med utm_id=Danskelove.dk er ikke genfundet i kontrollens søgninger. Der er ikke set abonnement eller betalingsmur. Sitet er en sekundær, uofficiel kilde.",
+  "dokumenttyper": [
+   {
+    "type": "lov (gældende love, under kortnavn)",
+    "daekket": "ja",
+    "omfang": "Bekræftet med egne søgninger: forvaltningsloven, databeskyttelsesloven, ferieloven, hvidvaskloven, selskabsloven, tinglysningsloven, anerkendelsesloven, retskrivningsloven, arbejdsmiljøloven og dykkerloven. Det alfabetiske register (/register/a, /register/s) viser desuden almenlejeloven, serviceloven og selskabsloven. Den første kortlægning fandt også bl.a. straffeloven, grundloven, lejeloven, erhvervslejeloven, byggeloven, funktionærloven, ligningsloven, offentlighedsloven, udlændingeloven, integrationsloven, hjemrejseloven, lovtidendeloven og firmapensionskasseloven, men de URL'er er ikke genfundet her. Det samlede antal er ukendt, men et register pr. bogstav tyder på et bredt lovudvalg. Rettelse: forvaltningsloven og serviceloven ER med. Færdselsloven er stadig ikke fundet. Aktieselskabsloven (ophævet 2010) er ikke fundet.",
+    "kilder": [
+     "https://danskelove.dk/forvaltningsloven/1",
+     "https://danskelove.dk/databeskyttelsesloven",
+     "https://danskelove.dk/ferieloven",
+     "https://danskelove.dk/hvidvaskloven",
+     "https://danskelove.dk/selskabsloven/9",
+     "https://danskelove.dk/register/s",
+     "https://danskelove.dk/register/a",
+     "https://danskelove.dk/arbejdsmilj%C3%B8loven",
+     "https://danskelove.dk/dykkerloven/25"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "type": "ophævede/historiske love",
+    "daekket": "delvist",
+    "omfang": "Persondataloven (lov om behandling af personoplysninger, i kraft 1/7/2000) ligger både som lovside og som §-sider (§ 4, § 76). Den er afløst i Danmark af databeskyttelsesloven, som sitet også har. Persondataloven gælder dog fortsat i en version for Grønland (Datatilsynet har en vejledning om persondataloven for Grønland), så den er ikke entydigt 'død'. Om sitet markerer status, er ukendt.",
+    "kilder": [
+     "https://danskelove.dk/persondataloven",
+     "https://danskelove.dk/persondataloven/76",
+     "https://danskelove.dk/persondataloven/4"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "type": "lovbekendtgørelse (LBK som version/metadata)",
+    "daekket": "ukendt",
+    "omfang": "Lovene vises under kortnavn og titel. Ingen snippet viser LBK-nummer, dato eller hvilken konsolidering teksten bygger på. En målrettet søgning efter 'LBK nr'/'lovbekendtgørelse nr' på danskelove.dk gav kun træffere på Lovguiden og Retsinformation.",
+    "kilder": [
+     "https://danskelove.dk/hvidvaskloven",
+     "https://danskelove.dk/persondataloven"
+    ],
+    "sikkerhed": "ukendt"
+   },
+   {
+    "type": "bekendtgørelse",
+    "daekket": "nej",
+    "omfang": "Søgninger på 'bekendtgørelse' og 'Bekendtgørelse af lov om' + danskelove.dk gav kun lovsider (retskrivningsloven, anerkendelsesloven § 19), hvor bekendtgørelser nævnes i lovteksten. Registersiderne viser lovnavne ('-loven'). Fraværet bygger på negative søgninger.",
+    "kilder": [
+     "https://danskelove.dk/anerkendelsesloven/19",
+     "https://danskelove.dk/retskrivningsloven"
+    ],
+    "sikkerhed": "sandsynlig"
+   },
+   {
+    "type": "cirkulære/vejledning/skrivelse",
+    "daekket": "nej",
+    "omfang": "Ingen fund, hverken i den første kortlægning eller i kontrollen.",
+    "kilder": [],
+    "sikkerhed": "sandsynlig"
+   },
+   {
+    "type": "afgørelse/dom/praksis",
+    "daekket": "nej",
+    "omfang": "Ingen fund. Søgningen på straffeloven § 266 b gav praksis fra Lovguiden og Rigsadvokaten, intet fra danskelove.dk.",
+    "kilder": [],
+    "sikkerhed": "sandsynlig"
+   },
+   {
+    "type": "forarbejder (lovforslag/bemærkninger)",
+    "daekket": "nej",
+    "omfang": "Ingen links til lovforslag eller bemærkninger er set. Forarbejder i søgeresultaterne kom fra folketingstidende.dk/ft.dk/eu.dk.",
+    "kilder": [],
+    "sikkerhed": "sandsynlig"
+   },
+   {
+    "type": "EU-retsakter",
+    "daekket": "ukendt",
+    "omfang": "Ikke fundet. Databeskyttelsesloven § 1 henviser til databeskyttelsesforordningen, men der er ikke set EU-retsakter som selvstændige sider.",
+    "kilder": [
+     "https://danskelove.dk/databeskyttelsesloven/1"
+    ],
+    "sikkerhed": "ukendt"
+   }
+  ],
+  "felter": [
+   {
+    "felt": "kortnavn",
+    "findes": "ja",
+    "eksempel": "URL-slug og sidetitel bruger kortnavn med små bogstaver og URL-kodet æ/ø/å, fx 'hvidvaskloven', 'dykkerloven', 'anerkendelsesloven', 'arbejdsmilj%C3%B8loven'. Registeret viser kortnavne alfabetisk (fx 'Almenlejeloven', 'Arbejdsmiljøloven', 'Selskabsloven', 'Serviceloven').",
+    "kilder": [
+     "https://danskelove.dk/hvidvaskloven",
+     "https://danskelove.dk/dykkerloven/25",
+     "https://danskelove.dk/register/a",
+     "https://danskelove.dk/register/s"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "felt": "officiel titel",
+    "findes": "ja",
+    "eksempel": "Persondataloven: 'Lov om behandling af personoplysninger'. Hvidvaskloven: 'Lov om forebyggende foranstaltninger mod hvidvask og finansiering af terrorisme'. Databeskyttelsesloven har sin fulde titel på lovsiden.",
+    "kilder": [
+     "https://danskelove.dk/persondataloven",
+     "https://danskelove.dk/hvidvaskloven",
+     "https://danskelove.dk/databeskyttelsesloven"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "felt": "§-niveau-sider",
+    "findes": "ja",
+    "eksempel": "danskelove.dk/<kortnavn>/<nr>, også bogstavparagraffer uden mellemrum: /hvidvaskloven/46d med titlen 'Hvidvaskloven § 46 d'. Andre eksempler: 'Forvaltningsloven § 1', 'Selskabsloven § 12', 'Tinglysningsloven § 51'.",
+    "kilder": [
+     "https://danskelove.dk/hvidvaskloven/46d",
+     "https://danskelove.dk/forvaltningsloven/1",
+     "https://danskelove.dk/selskabsloven/12",
+     "https://danskelove.dk/tinglysningsloven/51"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "felt": "kapitel-/afsnitsoverskrifter",
+    "findes": "ja",
+    "eksempel": "Ferieloven har § 1 under 'Lovens formål'. Arbejdsmiljøloven har kapitel 1 om formål og anvendelsesområde.",
+    "kilder": [
+     "https://danskelove.dk/ferieloven",
+     "https://danskelove.dk/arbejdsmilj%C3%B8loven"
+    ],
+    "sikkerhed": "sandsynlig"
+   },
+   {
+    "felt": "ændringshistorik/ændringsnoter pr. §",
+    "findes": "ukendt",
+    "eksempel": "RETTET: Udtrækket for tinglysningsloven § 53 er ikke ændringshistorik. Det er lovens egen ophævelsesbestemmelse fra 1926 (ophævelse af bl.a. Danske Lov-bestemmelser og 1920'er-love, 'Endvidere bortfalder hvad der i øvrigt i lovgivningen måtte være stridende mod denne lov'). Der er intet belæg for ændringsnoter.",
+    "kilder": [
+     "https://danskelove.dk/tinglysningsloven/53"
+    ],
+    "sikkerhed": "ukendt"
+   },
+   {
+    "felt": "stk./nr.-ankre",
+    "findes": "ukendt",
+    "eksempel": "Ikke set.",
+    "kilder": [],
+    "sikkerhed": "ukendt"
+   },
+   {
+    "felt": "ministerium/ressort",
+    "findes": "ukendt",
+    "eksempel": "Ikke set i nogen snippet af lov- eller §-sider. Fravær i snippets er ikke bevis, så feltet er nedgraderet fra 'nej' til 'ukendt'.",
+    "kilder": [],
+    "sikkerhed": "ukendt"
+   },
+   {
+    "felt": "Lovtidende-nr./LBK-nr. og dato",
+    "findes": "ukendt",
+    "eksempel": "Ikke set. Målrettet søgning gav ingen danskelove-træffere. Til sammenligning viser Lovguiden fx tinglysningsloven som LBK nr 285 af 31/01/2026.",
+    "kilder": [],
+    "sikkerhed": "ukendt"
+   },
+   {
+    "felt": "ELI/link til Retsinformation",
+    "findes": "ukendt",
+    "eksempel": "Ikke set.",
+    "kilder": [],
+    "sikkerhed": "ukendt"
+   },
+   {
+    "felt": "ikrafttræden",
+    "findes": "delvist",
+    "eksempel": "Kun som lovtekst i ikrafttrædelsesparagraffen, fx persondataloven § 76 (1/7/2000). Ikke set som metadatafelt. Den første kortlægnings eksempel med lejeloven § 207 er ikke genfundet.",
+    "kilder": [
+     "https://danskelove.dk/persondataloven/76"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "felt": "hjemmel (for BEK)",
+    "findes": "nej",
+    "eksempel": "Bekendtgørelser er ikke med, så der er ingen hjemmelskobling. Hjemmelsbestemmelser findes kun som lovtekst, fx selskabsloven § 12 (Erhvervsstyrelsen fastsætter regler).",
+    "kilder": [
+     "https://danskelove.dk/selskabsloven/12"
+    ],
+    "sikkerhed": "sandsynlig"
+   },
+   {
+    "felt": "retsområde/kategori",
+    "findes": "ukendt",
+    "eksempel": "Der er ikke set kategori- eller retsområdesider. RETTET: Der findes et alfabetisk register pr. forbogstav (/register/<bogstav>).",
+    "kilder": [
+     "https://danskelove.dk/register/a",
+     "https://danskelove.dk/register/s"
+    ],
+    "sikkerhed": "ukendt"
+   },
+   {
+    "felt": "forarbejder/lovforslag-links",
+    "findes": "nej",
+    "eksempel": "Ikke set.",
+    "kilder": [],
+    "sikkerhed": "sandsynlig"
+   },
+   {
+    "felt": "praksis/afgørelser",
+    "findes": "nej",
+    "eksempel": "Ikke set.",
+    "kilder": [],
+    "sikkerhed": "sandsynlig"
+   },
+   {
+    "felt": "krydshenvisninger mellem love",
+    "findes": "delvist",
+    "eksempel": "Henvisninger i selve teksten, fx selskabsloven § 15 (regler udstedt i medfør af loven) og databeskyttelsesloven § 1 (forordningen). Om de er links, er ukendt. Integrationsloven § 2 fra den første kortlægning er ikke genfundet.",
+    "kilder": [
+     "https://danskelove.dk/selskabsloven/15",
+     "https://danskelove.dk/databeskyttelsesloven/1"
+    ],
+    "sikkerhed": "sandsynlig"
+   }
+  ],
+  "struktur": "URL-rummet er fladt, ud fra søgeresultaterne. (1) Lovside: https://danskelove.dk/<kortnavn> med kortnavn og fuld titel, derefter lovtekst med kapitel- og formålsoverskrifter. (2) Paragrafside: https://danskelove.dk/<kortnavn>/<nr>, med bogstavsuffiks uden mellemrum (/hvidvaskloven/46d) og titlen '<Kortnavn> § N[ x]'. (3) RETTET: Alfabetisk register: https://danskelove.dk/register/<bogstav> (set for a og s), som lister lovenes kortnavne, fx Almenlejeloven, Arbejdsmiljøloven, Selskabsloven og Serviceloven. Registeret er den oplagte kilde til en komplet liste over kortnavne. (4) Info-side: /vilkår. Kortnavne er slugs med små bogstaver og URL-kodet æ/ø/å. Der er ikke set id-numre, år, LBK-numre, ministerie- eller retsområdemapper i URL'erne. Sitemap og kategorisider er ikke fundet.",
+  "eksempel_urler": [
+   {
+    "url": "https://danskelove.dk/register/a",
+    "titel": "danskelove.dk – register, bogstav A"
+   },
+   {
+    "url": "https://danskelove.dk/register/s",
+    "titel": "danskelove.dk – register, bogstav S"
+   },
+   {
+    "url": "https://danskelove.dk/forvaltningsloven/1",
+    "titel": "Forvaltningsloven § 1"
+   },
+   {
+    "url": "https://danskelove.dk/hvidvaskloven",
+    "titel": "danskelove.dk – Hvidvaskloven"
+   },
+   {
+    "url": "https://danskelove.dk/hvidvaskloven/3",
+    "titel": "Hvidvaskloven § 3"
+   },
+   {
+    "url": "https://danskelove.dk/hvidvaskloven/46d",
+    "titel": "Hvidvaskloven § 46 d"
+   },
+   {
+    "url": "https://danskelove.dk/databeskyttelsesloven",
+    "titel": "danskelove.dk – Databeskyttelsesloven"
+   },
+   {
+    "url": "https://danskelove.dk/databeskyttelsesloven/1",
+    "titel": "Databeskyttelsesloven § 1"
+   },
+   {
+    "url": "https://danskelove.dk/ferieloven",
+    "titel": "danskelove.dk – Ferieloven"
+   },
+   {
+    "url": "https://danskelove.dk/selskabsloven/9",
+    "titel": "Selskabsloven § 9"
+   },
+   {
+    "url": "https://danskelove.dk/selskabsloven/12",
+    "titel": "Selskabsloven § 12"
+   },
+   {
+    "url": "https://danskelove.dk/selskabsloven/14",
+    "titel": "Selskabsloven § 14"
+   },
+   {
+    "url": "https://danskelove.dk/selskabsloven/15",
+    "titel": "Selskabsloven § 15"
+   },
+   {
+    "url": "https://danskelove.dk/tinglysningsloven/51",
+    "titel": "Tinglysningsloven § 51"
+   },
+   {
+    "url": "https://danskelove.dk/tinglysningsloven/53",
+    "titel": "Tinglysningsloven § 53"
+   },
+   {
+    "url": "https://danskelove.dk/anerkendelsesloven/19",
+    "titel": "Anerkendelsesloven § 19"
+   },
+   {
+    "url": "https://danskelove.dk/retskrivningsloven",
+    "titel": "danskelove.dk – Retskrivningsloven"
+   },
+   {
+    "url": "https://danskelove.dk/arbejdsmilj%C3%B8loven",
+    "titel": "danskelove.dk – Arbejdsmiljøloven"
+   },
+   {
+    "url": "https://danskelove.dk/dykkerloven/25",
+    "titel": "Dykkerloven § 25"
+   },
+   {
+    "url": "https://danskelove.dk/persondataloven",
+    "titel": "danskelove.dk – Persondataloven"
+   },
+   {
+    "url": "https://danskelove.dk/persondataloven/4",
+    "titel": "Persondataloven § 4"
+   },
+   {
+    "url": "https://danskelove.dk/persondataloven/76",
+    "titel": "Persondataloven § 76"
+   },
+   {
+    "url": "https://danskelove.dk/vilk%C3%A5r",
+    "titel": "Vilkår for brug - Danske Love"
+   }
+  ],
+  "aktualitet": "Ukendt og ikke målbar via søgning. Ingen snippet viser LBK-nummer, versionsdato eller 'senest opdateret'. En målrettet søgning efter opdateringsdatoer gav ingen danskelove-træffere. Svage positive tegn: databeskyttelsesloven (2018) er med, og ferielovens § 1 står under 'Lovens formål', hvilket formentlig svarer til den nye ferielov (i kraft 1/9/2020) og ikke til ferieloven 2000. Det er dog ikke verificeret ordret. Negative/uafklarede tegn: persondataloven (2000) ligger stadig side om side med databeskyttelsesloven. Lovguiden viser tinglysningsloven som LBK nr 285 af 31/01/2026, og det kan ikke afgøres, om danskelove.dk har indarbejdet den. Der er intet belæg for udstedelser eller konsolideringer efter 2026-02-12. Opdateringsfrekvensen er ukendt.",
+  "adgang": "Kun HTML-sider er set i søgeresultaterne. RETTET: Der findes et alfabetisk register (/register/<bogstav>), som giver en navigerbar liste over alle love og dermed et naturligt udgangspunkt for en tilladt crawl af kortnavne → lovsider → §-sider (/<kortnavn>/<nr>). Der er ikke fundet API, bulk-download, sitemap eller åbne data. robots.txt er ikke set, fordi domænet ikke kan hentes. Søgemaskinernes dækning er tynd, men bredere end først antaget: kontrollen fandt over 20 yderligere sider på 20 søgninger, bl.a. ved søgninger af typen 'danskelove.dk <lovnavn>'.",
+  "licens_vilkaar": "Vilkårene på danskelove.dk/vilkår er bekræftet i egne søgninger. Danske Love ejes og drives af Christian Schmidt (CVR 21095575). Vilkårene har et afsnit om brugsret og immaterielle rettigheder, hvorefter enhver anden brug end den tilladte kræver forudgående tilladelse fra Danske Love. Snippets viste ikke, hvad der regnes som tilladt brug, men systematisk kopiering eller høst til et korpus bør ikke ske uden skriftlig tilladelse. Indhold og links fra Legal Desk ApS er omfattet af Legal Desks egne vilkår. Sitet er ikke advokat eller juridisk rådgiver, og indholdet kan ikke erstatte rådgivning. Dansk ret og dansk værneting (Danske Loves hjemting) gælder. Juridisk vurdering, ikke verificeret ved søgning: selve lovteksterne er ikke ophavsretligt beskyttede (ophavsretslovens § 9), men sitets redaktionelle tilføjelser og databasen som helhed kan være beskyttede (§ 71).",
+  "kan_lukke": [
+   {
+    "hul": "37 % af de gældende dokumenter mangler tekst",
+    "vurdering": "delvist",
+    "begrundelse": "Kun lovtekster, ikke BEK, CIR eller VEJ, som formentlig udgør hovedparten af de manglende tekster. Teksterne er uofficielle, uden synlig LBK-version og med ukendt aktualitet. Kan højst bruges som nødløsning eller krydstjek for love. Retsinformation bør fortsat være primærkilden."
+   },
+   {
+    "hul": "Præambel/hjemmel og ressortministerium mangler",
+    "vurdering": "nej",
+    "begrundelse": "Der er ikke set ressortfelt, og bekendtgørelser (og dermed deres hjemmelspræambler) er ikke med."
+   },
+   {
+    "hul": "Dokumenter efter 2026-02-12 mangler",
+    "vurdering": "nej",
+    "begrundelse": "Der er intet belæg for versioner eller udstedelser fra 2026 og ingen synlige datoer eller LBK-numre. Selv opdaterede tekster ville ikke give metadata for nye udstedelser."
+   },
+   {
+    "hul": "Cirkulærer, vejledninger, skrivelser og afgørelser mangler",
+    "vurdering": "nej",
+    "begrundelse": "Ingen af dokumenttyperne er fundet."
+   },
+   {
+    "hul": "Ingen kobling lov ↔ lovforslag/forarbejder",
+    "vurdering": "nej",
+    "begrundelse": "Der er ikke set links til lovforslag eller bemærkninger. RETTET: Den indirekte vej via 'ændringsnoter' bortfalder, fordi tinglysningsloven § 53 viste sig at være lovens egen ophævelsesbestemmelse og ikke en ændringsnote."
+   },
+   {
+    "hul": "Ingen §-ankre",
+    "vurdering": "delvist",
+    "begrundelse": "Én side pr. paragraf med stabile, læsbare URL'er (/<kortnavn>/<nr>, bogstavsuffiks som 46d) og titlen '<Kortnavn> § N x'. Det kan bruges som model for §-ankre og citationsnormalisering. Det gælder kun love. Stk.- og nr.-ankre er ikke set. Ankrene skal bygges på egen tekst fra Retsinformation."
+   },
+   {
+    "hul": "Kortnavne for love er ufuldstændige (5.252 'lov om …'-fraser kan ikke matches)",
+    "vurdering": "delvist",
+    "begrundelse": "Sitet parrer kortnavn med fuld titel 'Lov om …', og det alfabetiske register (/register/<bogstav>) lister kortnavnene samlet. Det gør en ordbog kortnavn ↔ titel lettere at opbygge end først antaget. Antallet af love er ukendt (formentlig hundreder, ikke tusinder), så kun en del af de 5.252 fraser kan matches. Ophævede love (fx persondataloven) skal filtreres mod katalogets gældende-status. Høst kræver tilladelse efter vilkårene."
+   }
+  ],
+  "noter": [
+   "Kontrol: 20 WebSearch-kald er brugt. Kun URL'er fra kontrollens egne søgeresultater er angivet. Den første kortlægnings URL'er, som ikke er genfundet, er fjernet fra kilder og eksempel_urler: straffeloven, lejeloven (/1, /207), grundloven, byggeloven (/6), ligningsloven, offentlighedsloven (/1), lovtidendeloven, almenlejeloven/110, erhvervslejeloven/1, udlændingeloven/60, hjemrejseloven/1a, integrationsloven/2, funktionærloven/2, firmapensionskasseloven/73 og tinglysningsloven/52a. De er ikke nødvendigvis forkerte, men er ikke efterprøvet.",
+   "RETTET (struktur/adgang): Der findes et alfabetisk register, danskelove.dk/register/<bogstav> (set: /register/a og /register/s). Den første kortlægning skrev, at der ikke var fundet en alfabetisk oversigt.",
+   "RETTET (dokumenttyper): Forvaltningsloven og serviceloven er med. Forvaltningsloven har en §-side, og serviceloven står i register/s. Nye bekræftede love: databeskyttelsesloven, ferieloven, hvidvaskloven, selskabsloven og dykkerloven.",
+   "RETTET (felter): 'Ændringshistorik pr. §' er nedgraderet fra delvist/sandsynlig til ukendt. Udtrækket for tinglysningsloven § 53 er lovens egen ophævelsesbestemmelse fra 1926, ikke en ændringsnote. Dermed bortfalder også den antagne indirekte vej til forarbejder.",
+   "NEDGRADERET: 'Ministerium/ressort' er ændret fra nej/sandsynlig til ukendt, fordi fravær i snippets ikke er bevis. Det er dog fortsat ikke set nogen steder.",
+   "PRÆCISERET (vilkår): Adressen er Østerbrogade 35, 1. tv. CVR 21095575 er bekræftet. Partneren er Legal Desk ApS (CVR 37890235) med en særskilt krypteret forbindelse. Legal Desk-URL'en med utm_id=Danskelove.dk er ikke genfundet og er fjernet som belæg.",
+   "PRÆCISERET (ophævede love): Persondataloven er afløst i Danmark af databeskyttelsesloven (begge findes på sitet), men gælder i en version for Grønland. 'Ophævet' er derfor ikke entydigt. Statusmarkering er ukendt.",
+   "Aktualitet: Lovguiden angiver tinglysningsloven som LBK nr 285 af 31/01/2026, men danskelove.dk viser ingen version. Ferieloven ser ud til at være den nye lov (2020), men det er ikke verificeret ordret.",
+   "Støj: Ahrefs beskriver danskelove.dk som en datingplatform. Det er åbenlyst forkert og er ignoreret.",
+   "Brugerens andet link, https://www.jurabibliotek.dk/danske-lov, er ikke undersøgt i kontrollen. Den første kortlægnings påstand om, at Jurabibliotek er et Djøf-abonnementsprodukt, er ikke efterprøvet.",
+   "Anbefaling (uændret, styrket): Danskelove.dk er mest værdifuld som kortnavneordbog via /register/<bogstav> og som model for §-URL-skema for love. Den er ikke en tekstkilde til RAG-korpusset. Indhent tilladelse fra operatøren (kontakt på /vilkår), før der høstes."
+  ]
+ },
+ "verify:jurabibliotek": {
+  "site": "https://www.jurabibliotek.dk/danske-lov. I søgeresultaterne optræder kun https://www.jurabibliotek.ai/danske-lov. En site:jurabibliotek.dk-søgning på \"danske-lov\" gav ingen side. Til gengæld ligger den nye platforms lovsider også under jurabibliotek.dk, fx /lejeloven, /grundloven og /straffeloven/kapitel/12.",
+  "hvad_er_det": "Jurabibliotek er Djøf Forlags kommercielle juridiske onlinebibliotek. Det indeholder ifølge Djøf selv \"over 500\" e-bøger (en ældre kilde siger 400+), og abonnementet giver ca. 50 nye udgivelser om året. Dertil kommer tidsskrifter som tilvalg: Juristen (online tilbage til 1997), Kendelser om Fast Ejendom, Tidsskrift for Miljø, Klima og Energi, EU-ret & Menneskeret og Nordisk Tidsskrift for Selskabsret, i alt over 10.000 artikler. Lovdelen omfatter \"over 2.000 konsoliderede love og bekendtgørelser opdateret dagligt\" med forarbejder på §-niveau. Der er også en AI-assistent, som ifølge Djøf kun svarer ud fra konsolideret lovgivning og Djøf-litteratur. Forretningsmodellen er abonnement. Jurabibliotek Lovgivning koster ca. 8.190 kr./år (det er uklart, om det er med eller uden moms, og årsvarianten stod som udsolgt/utilgængelig). Det samlede Jurabibliotek koster 12.475 kr./år inkl. moms. Der er mindst 12 måneders binding og 14 dages gratis prøveadgang. Den nye platform kører på jurabibliotek.ai. Den gamle PubFactory-platform ses stadig under /display/book, /view/book, /downloadpdf og /view/journals på jurabibliotek.dk. Djøf og Legora har et partnerskab, der blev annonceret 19. maj 2026. VIGTIGT: /danske-lov er IKKE et indeks over danske love. Det er lovsiden for Christian V's Danske Lov, angivet som \"Lov nr. 11000 af 15. april 1683\" med ændringer til lov nr. 522 af 6. juni 2007. Det svarer til Retsinformations ELI 1683/11000.",
+  "dokumenttyper": [
+   {
+    "type": "lov/lovbekendtgørelse (konsolideret)",
+    "daekket": "delvist",
+    "omfang": "Ifølge Djøf 'over 2.000 konsoliderede love og bekendtgørelser' tilsammen, mod vores 13.819 gældende dokumenter. Bekræftet med egne søgninger: retsplejeloven, hvidvaskloven, lejeloven, almenlejeloven, aftaleloven, renteloven, grundloven, straffeloven, universitetsloven, vandløbsloven, barnets lov, udligningsloven, miljøbeskyttelsesloven, ægteskabsloven (Æ1) og Danske Lov 1683. Djøf konsoliderer selv ændringslove ind i teksten. Djøf har ikke ophavsret til selve lovene, men har rettigheder til redigeringen og samlingen. Teksten ligger bag betalingsmur.",
+    "kilder": [
+     "https://www.jurabibliotek.dk/",
+     "https://djoefforlag.dk/products/lovgivning",
+     "https://www.jurabibliotek.ai/retsplejeloven",
+     "https://www.jurabibliotek.ai/hvidvaskloven",
+     "https://www.jurabibliotek.dk/lejeloven",
+     "https://www.jurabibliotek.ai/danske-lov",
+     "https://www.jurabibliotek.dk/grundloven",
+     "https://www.jurabibliotek.ai/aegteskabsloven-ae1"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "type": "bekendtgørelse",
+    "daekket": "delvist",
+    "omfang": "Mange bekendtgørelser, både med kortnavn og med fuld titel. Bekræftet: arealbekendtgørelsen (BEK 311/1983), strafberegningsbekendtgørelsen (BEK 271 af 11/2 2026), autorisationsbekendtgørelsen (BEK 443 af 24/4 2026), bekendtgørelse om rådighed (BEK 46 af 13/1 2026), bekendtgørelse om cannabismellemprodukter (BEK 1608 af 5/12 2025), udgangsbekendtgørelsen, CVR-bekendtgørelsen og bekendtgørelse om vejafmærkning. De tæller med i de ca. 2.000. Kørekortbekendtgørelsen (20/8 2026) og Kriminalregister-BEK 589 af 22/6 2026 er ikke genbekræftet.",
+    "kilder": [
+     "https://www.jurabibliotek.ai/arealbekendtgoerelsen",
+     "https://www.jurabibliotek.ai/strafberegningsbekendtgoerelsen",
+     "https://www.jurabibliotek.ai/autorisationsbekendtgoerelsen/paragraf/13",
+     "https://www.jurabibliotek.ai/bekendtgoerelse-om-raadighed",
+     "https://www.jurabibliotek.ai/bekendtgoerelse-om-cannabismellemprodukter",
+     "https://www.jurabibliotek.ai/bekendtgoerelse-om-vejafmaerkning/kapitel/2"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "type": "cirkulære",
+    "daekket": "delvist",
+    "omfang": "Nogle cirkulærer findes som selvstændige lovsider med §-sider. Bekræftet: cirkulære om politiets udrykningskørsel (nr. 10206 af 30/6 2021) og cirkulære om våben og ammunition m.v. (nr. 10066 af 29/10 2025). Andre findes kun som bilag i bøger. Det samlede omfang kendes ikke, men er formentlig lille.",
+    "kilder": [
+     "https://www.jurabibliotek.ai/cirkulaere-om-politiets-udrykningskorsel",
+     "https://www.jurabibliotek.ai/cirkulaere-om-politiets-udrykningskoersel/paragraf/12",
+     "https://www.jurabibliotek.ai/cirkulaere-om-vaaben-og-ammunition-mv/paragraf/8"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "type": "vejledning (myndighedsvejledning)",
+    "daekket": "nej",
+    "omfang": "Der er ikke fundet nogen myndighedsvejledninger som selvstændige dokumenter. En site:-søgning på 'vejledning om' gav kun sitets egen brugervejledning (/vejledning/...) og lovtekst, der nævner vejledning. Myndighedsvejledninger findes højst som bilag i Djøf-bøger (ikke genbekræftet).",
+    "kilder": [
+     "https://www.jurabibliotek.ai/vejledning/overblik/vejledning",
+     "https://www.jurabibliotek.ai/vejledning/forarbejder-2/forarbejder"
+    ],
+    "sikkerhed": "sandsynlig"
+   },
+   {
+    "type": "forarbejder (lovforslag som fremsat, betænkninger, lovforslag som vedtaget, ændringslove)",
+    "daekket": "ja",
+    "omfang": "Sektionen /forarbejder/ har flere dokumenttyper end først angivet: 'Lovforslag som fremsat' (LSF, set fra 1984/1, fx 1990/2, 1999/1, 2011/1, 2017/1, 2018/1, 2020/1 og 2025/1 LSF 115 af 24/2 2026), 'Betænkning over lovforslag' (BTL), 'Lovforslaget som vedtaget' (LSV, fx 2025/2 LSV 7, 9, 16, 17 A og 17 B af 4/9 2026), 'Skriftlig fremsættelse af lovforslag' (SF.L, fx 2014/1 L 131) og 'Ændringslov'-sider (fx ændringslov nr. 722 af 20/6 2025). Ændringslovssiden samler lovforslag, betænkning og vedtaget tekst med § 1–5. Navigationen kobler stadierne for samme lovforslag. Teksten ligger bag betalingsmur.",
+    "kilder": [
+     "https://www.jurabibliotek.dk/forarbejder/lovforslag-som-fremsat-2026-02-24-20251-lsf-115?Retsomr%C3%A5de=7&Indholdstype=forarbejder",
+     "https://www.jurabibliotek.dk/forarbejder/lovforslaget-som-vedtaget-2026-09-04-000000-20252-lsv-7-draft?Forfattere=230&Indholdstype=forarbejder",
+     "https://www.jurabibliotek.dk/forarbejder/aendringslov-2025-06-20-722",
+     "https://www.jurabibliotek.dk/forarbejder/skriftlig-fremsaettelse-af-lovforslag-2015-02-06-20141-sfl-l-131-draft",
+     "https://www.jurabibliotek.dk/forarbejder/lovforslag-som-fremsat-1991-01-30-19902-lsf-103",
+     "https://djoefforlag.dk/products/lovgivning"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "type": "afgørelse/dom (praksis)",
+    "daekket": "nej",
+    "omfang": "Der er ingen selvstændig domsdatabase. En site:-søgning på retspraksis, dom og Højesteret gav kun bøger, tidsskriftsartikler (fx Juristens domsanalyser og NTS' 'EU-Domstolens seneste praksis') og lovsider. Der er ikke fundet nogen domme som egne dokumenter.",
+    "kilder": [
+     "https://www.jurabibliotek.ai/tidsskrifter/JUR/2012/6/jur6_2012_274-terror-mod-en-person-hoejesterets-dom-om-drabsforsoeget-paa-en-af-muhammed-tegnerne",
+     "https://www.jurabibliotek.ai/tidsskrifter/TFM/2019/7/tfm7_2019_240-domme-og-afgoerelser?Forfattere=886&Indholdstype=TFM",
+     "https://www.jurabibliotek.ai/bog/9788757466379-retlig-interesse-i-civile-sager-1-udg"
+    ],
+    "sikkerhed": "sandsynlig"
+   },
+   {
+    "type": "juridisk litteratur/tidsskrifter",
+    "daekket": "ja",
+    "omfang": "Over 500 Djøf-bøger (tallet 900+ er ikke bekræftet) og ca. 50 nye om året. Tidsskrifterne er et tilvalg: Juristen (fra 1997), Kendelser om Fast Ejendom, Tidsskrift for Miljø, Klima og Energi, EU-ret & Menneskeret og Nordisk Tidsskrift for Selskabsret, med over 10.000 artikler.",
+    "kilder": [
+     "https://djoefforlag.dk/products/jurabibliotek",
+     "https://www.jurabibliotek.dk/view/journals/jur/jur-overview.xml",
+     "https://www.jurabibliotek.ai/tidsskrifter/JUR/2026/3/jur3_2026_143-konfiskation-af-private-tredjemaends-koeretoej-efter-vanvidskoersel-retstilstanden-og-forholdet-til-ejendomsretten",
+     "https://www.jurabibliotek.ai/tidsskrifter/NTS/2018/1/nts1_2018_54-eu-domstolens-seneste-praksis-om-selskabsret-domme-med-relevans-for-selskabsretten-der-er-afsagt-i-2017"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "type": "EU-retsakter",
+    "daekket": "ukendt",
+    "omfang": "Der er ikke set nogen EU-forordninger eller -direktiver som lovsider. EU-ret findes som bøger (fx EU-retten, 9. udg.) og tidsskrifter (EU-ret & Menneskeret).",
+    "kilder": [
+     "https://www.jurabibliotek.ai/bog/9788757464153-eu-retten-9-udg"
+    ],
+    "sikkerhed": "ukendt"
+   }
+  ],
+  "felter": [
+   {
+    "felt": "kortnavn/populærnavn som sidetitel og slug",
+    "findes": "ja",
+    "eksempel": "Titler og slugs som Strafberegningsbekendtgørelsen, Arealbekendtgørelsen, Autorisationsbekendtgørelsen, Udgangsbekendtgørelsen (/udgangsbekendtgorelsen, uregelmæssig translitteration), CVR-bekendtgørelsen, Barnets lov, Udligningsloven og 'Ægteskabsloven (Æ1)' (/aegteskabsloven-ae1). Dokumenter uden kortnavn får titlen som slug, fx /bekendtgoerelse-om-raadighed.",
+    "kilder": [
+     "https://www.jurabibliotek.ai/strafberegningsbekendtgoerelsen",
+     "https://www.jurabibliotek.ai/udgangsbekendtgorelsen/paragraf/50",
+     "https://www.jurabibliotek.ai/aegteskabsloven-ae1",
+     "https://www.jurabibliotek.ai/barnets-lov",
+     "https://www.jurabibliotek.ai/bekendtgoerelse-om-raadighed"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "felt": "grundlov/LBK-nr. og 'som ændret ved'-liste (ændringshistorik)",
+    "findes": "ja",
+    "eksempel": "Hvidvaskloven: lov nr. 651 af 8/6 2017, LBK 433 af 17/4 2026, som ændret ved bl.a. lov nr. 764 af 8/9 2026. Lejeloven: lov nr. 341 af 22/3 2022, som ændret ved … lov nr. 1641 af 16/12 2025 og lov nr. 615 af 30/6 2026. Bemærk inkonsistens: lejelovens § 7-side nævner ændringslov 263 af 11/2 2026 (i kraft 1/1 2027), som ikke står i hovedsidens header.",
+    "kilder": [
+     "https://www.jurabibliotek.ai/hvidvaskloven",
+     "https://www.jurabibliotek.dk/lejeloven",
+     "https://www.jurabibliotek.ai/lejeloven/paragraf/7",
+     "https://www.jurabibliotek.ai/danske-lov"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "felt": "ikrafttræden pr. ændringslov / ikke-ikraftsatte ændringer",
+    "findes": "ja",
+    "eksempel": "Sygedagpengeloven (LBK 1221 af 9/10 2025): noter på §-siderne om, at ændringslovens § 3, nr. 2-4, 6-19 og 21-27, træder i kraft 1/7 2026. En dato i december 2026 nævnes, men tekststykket var for afkortet til at se, hvilken bestemmelse den gælder. Lejeloven kap. 18: ændringslov 615 i kraft 1/7 2026. Våbenloven 1/1 2027 er ikke genbekræftet.",
+    "kilder": [
+     "https://www.jurabibliotek.ai/sygedagpengeloven",
+     "https://www.jurabibliotek.ai/sygedagpengeloven/paragraf/5",
+     "https://www.jurabibliotek.ai/lejeloven/kapitel/18"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "felt": "redaktionelle noter (konsolideringsfejl, Retsinformation-fejl)",
+    "findes": "ja",
+    "eksempel": "Aftaleloven: noten oplyser, at en konsolidering fejlagtigt er opdateret på retsinformation. Vilkårene siger, at der kan forekomme konsolideringsfejl, og at de kan indberettes.",
+    "kilder": [
+     "https://www.jurabibliotek.ai/aftaleloven",
+     "https://www.jurabibliotek.dk/betingelser"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "felt": "relaterede bekendtgørelser ('Bekendtgørelser relaterede til …')",
+    "findes": "ja",
+    "eksempel": "Overskriften findes ikke kun på lovsider, men også på bekendtgørelsessider og §-sider (fx arealbekendtgørelsen, strafberegningsbekendtgørelsen og autorisationsbekendtgørelsen § 13). Den er altså en skabelon på hele sitet. Hvordan listen er sammensat (hjemmel eller emne), og hvad den indeholder, er ikke set.",
+    "kilder": [
+     "https://www.jurabibliotek.ai/arealbekendtgoerelsen",
+     "https://www.jurabibliotek.ai/strafberegningsbekendtgoerelsen",
+     "https://www.jurabibliotek.ai/autorisationsbekendtgoerelsen/paragraf/13"
+    ],
+    "sikkerhed": "sandsynlig"
+   },
+   {
+    "felt": "§-niveau-sider og kapitelsider",
+    "findes": "ja",
+    "eksempel": "/hvidvaskloven/paragraf/6a, /hvidvaskloven/kapitel/6, /lejeloven/paragraf/146, /danske-lov/paragraf/3, /danske-lov/kapitel/16 og /straffeloven/kapitel/12",
+    "kilder": [
+     "https://www.jurabibliotek.ai/hvidvaskloven/paragraf/6a",
+     "https://www.jurabibliotek.ai/hvidvaskloven/kapitel/6",
+     "https://www.jurabibliotek.dk/lejeloven/paragraf/146",
+     "https://www.jurabibliotek.ai/danske-lov/paragraf/3",
+     "https://www.jurabibliotek.dk/straffeloven/kapitel/12"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "felt": "forarbejder koblet på §-niveau",
+    "findes": "ja",
+    "eksempel": "Produktsiden lover 'forarbejder på paragrafniveau'. Selve koblingen fra en lovparagraf til bemærkningerne er ikke set i snippets.",
+    "kilder": [
+     "https://djoefforlag.dk/products/lovgivning"
+    ],
+    "sikkerhed": "sandsynlig"
+   },
+   {
+    "felt": "lovforslagsidentifikator (samling + LSF/LSV/BTL-nr. + dato)",
+    "findes": "ja",
+    "eksempel": "lovforslag-som-fremsat-2026-02-24-20251-lsf-115 svarer til 2025/1 LSF 115 af 24/2 2026. lovforslaget-som-vedtaget-2026-09-04-000000-20252-lsv-17-a-draft svarer til 2025/2 LSV 17 A af 4/9 2026. aendringslov-2025-06-20-722 svarer til lov nr. 722 af 20/6 2025.",
+    "kilder": [
+     "https://www.jurabibliotek.dk/forarbejder/lovforslag-som-fremsat-2026-02-24-20251-lsf-115?Retsomr%C3%A5de=7&Indholdstype=forarbejder",
+     "https://www.jurabibliotek.dk/forarbejder/lovforslaget-som-vedtaget-2026-09-04-000000-20252-lsv-17-a-draft?Forfattere=161&Indholdstype=forarbejder",
+     "https://www.jurabibliotek.dk/forarbejder/aendringslov-2025-06-20-722"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "felt": "kobling lov → dets lovforslag",
+    "findes": "delvist",
+    "eksempel": "Ændringslovssiderne under /forarbejder/ (fx ændringslov nr. 722 af 20/6 2025) samler lovforslag som fremsat, betænkning og vedtaget tekst. Det er en kobling fra lovnummer til lovforslag, i hvert fald for ændringslove. Om en konsolideret lovside linker til sine forarbejder, er ikke set.",
+    "kilder": [
+     "https://www.jurabibliotek.dk/forarbejder/aendringslov-2025-06-20-722",
+     "https://djoefforlag.dk/products/lovgivning"
+    ],
+    "sikkerhed": "sandsynlig"
+   },
+   {
+    "felt": "ressortministerium",
+    "findes": "delvist",
+    "eksempel": "Ministeriet nævnes kun i fritekst, fx 'Indenrigs- og Sundhedsministeriet kan dispensere' (cannabismellemprodukter) og ministerbeføjelser i landbrugsstøtteloven § 6. Der er ikke set noget struktureret felt.",
+    "kilder": [
+     "https://www.jurabibliotek.ai/bekendtgoerelse-om-cannabismellemprodukter",
+     "https://www.jurabibliotek.ai/landbrugsstoetteloven/paragraf/6"
+    ],
+    "sikkerhed": "sandsynlig"
+   },
+   {
+    "felt": "hjemmel/præambel for bekendtgørelser",
+    "findes": "delvist",
+    "eksempel": "'I medfør af …' står i bekendtgørelsesteksten (fx forældreansvarsbekendtgørelsen, bekendtgørelse om SU-ph.d.-stipendium og bekendtgørelse om beregning af fleksløntilskud), men kun som fritekst. Der er ikke set noget struktureret hjemmelfelt, og det er uklart, om præamblen gengives fuldt ud.",
+    "kilder": [
+     "https://www.jurabibliotek.ai/foraeldreansvarsbekendtgoerelsen/paragraf/7",
+     "https://www.jurabibliotek.ai/bekendtgoerelse-om-su-phd-stipendium/paragraf/1",
+     "https://www.jurabibliotek.ai/bekendtgoerelse-om-beregning-af-og-fradrag-i-fleksloentilskud/paragraf/11"
+    ],
+    "sikkerhed": "sandsynlig"
+   },
+   {
+    "felt": "retsområde/kategori",
+    "findes": "delvist",
+    "eksempel": "Forarbejde-URL'er har ?Retsområde=7&Indholdstype=forarbejder. Den gamle platform har emnekoder (/subject/S…, browse t=S…), som ikke er genbekræftet. Der er ikke fundet nogen retsområde-oversigt over love.",
+    "kilder": [
+     "https://www.jurabibliotek.dk/forarbejder/lovforslag-som-fremsat-2026-02-24-20251-lsf-115?Retsomr%C3%A5de=7&Indholdstype=forarbejder"
+    ],
+    "sikkerhed": "sandsynlig"
+   },
+   {
+    "felt": "indholdstype-filter i søgning",
+    "findes": "ja",
+    "eksempel": "Indholdstype=forarbejder og Indholdstype=TFM i URL'er fra søgeresultaterne. Indholdstype=lovgivning er ikke genbekræftet.",
+    "kilder": [
+     "https://www.jurabibliotek.dk/forarbejder/lovforslaget-som-vedtaget-2026-09-04-000000-20252-lsv-9-draft?Forfattere=748&Indholdstype=forarbejder",
+     "https://www.jurabibliotek.ai/tidsskrifter/TFM/2019/7/tfm7_2019_240-domme-og-afgoerelser?Forfattere=886&Indholdstype=TFM"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "felt": "link til Retsinformation / ELI",
+    "findes": "ukendt",
+    "eksempel": "En site:jurabibliotek.ai-søgning på 'retsinformation.dk' gav ingen links til Retsinformation. Retsinformation nævnes kun i redaktionelle noter (aftaleloven).",
+    "kilder": [
+     "https://www.jurabibliotek.ai/aftaleloven"
+    ],
+    "sikkerhed": "ukendt"
+   },
+   {
+    "felt": "Lovtidende-nr. (A-nr.)",
+    "findes": "delvist",
+    "eksempel": "Lov-, LBK-, BEK- og CIR-numre med dato i headeren (fx 'lovbekendtgørelse nr. 433 af 17. april 2026' og cirkulære '10066 af 29. oktober 2025'), men ikke som strukturerede ELI-felter.",
+    "kilder": [
+     "https://www.jurabibliotek.ai/hvidvaskloven",
+     "https://www.jurabibliotek.ai/cirkulaere-om-vaaben-og-ammunition-mv/paragraf/8"
+    ],
+    "sikkerhed": "verificeret"
+   },
+   {
+    "felt": "praksis koblet til §",
+    "findes": "nej",
+    "eksempel": "Der er ikke set nogen domme koblet på lovparagraffer. Praksis findes kun i bøger og tidsskrifter.",
+    "kilder": [
+     "https://www.jurabibliotek.ai/bog/9788771983531-proceduren-4-udg?Forfattere=208"
+    ],
+    "sikkerhed": "sandsynlig"
+   },
+   {
+    "felt": "fuld tekst offentligt tilgængelig",
+    "findes": "nej",
+    "eksempel": "Siderne viser 'Log ind'/'Køb adgang' og tilbud om 14 dages prøveadgang. Snippets viser kun header, disposition og de første linjer.",
+    "kilder": [
+     "https://www.jurabibliotek.ai/abonnementer/trial/lovgivning",
+     "https://www.jurabibliotek.ai/hvidvaskloven"
+    ],
+    "sikkerhed": "verificeret"
+   }
+  ],
+  "struktur": "Ny platform (jurabibliotek.ai, og samme stier under jurabibliotek.dk):\n(1) Lov-, bekendtgørelses- og cirkulæreside: /<kortnavn-eller-titel-slug>, fx /lejeloven, /danske-lov, /strafberegningsbekendtgoerelsen og /cirkulaere-om-vaaben-og-ammunition-mv. Translitterationen er æ→ae, ø→oe, å→aa og 'm.v.'→'mv', men der er uregelmæssigheder: /udgangsbekendtgorelsen, /bekendtgorelse-om-social-pension-…, og både /cirkulaere-om-politiets-udrykningskorsel og /…-koersel findes.\n(2) Kapitelside: /<slug>/kapitel/<n>.\n(3) Paragrafside: /<slug>/paragraf/<n>, fx /paragraf/6a.\n(4) Forarbejder under /forarbejder/:\n- lovforslag-som-fremsat-<YYYY-MM-DD>-<samling><nr>-lsf-<nr>[-a]\n- lovforslaget-som-vedtaget-<YYYY-MM-DD>-000000-<samling>-lsv-<nr>[-a]-draft\n- betaenkning-over-lovforslag-<dato>-<samling>-btl-<nr>-draft\n- skriftlig-fremsaettelse-af-lovforslag-<dato>-<samling>-sfl-l-<nr>-draft\n- aendringslov-<YYYY-MM-DD>-<nr>\nNavigationen kobler stadierne for samme lovforslag.\n(5) Søgning: /sog med filtrene Indholdstype, Retsområde (numerisk) og Forfattere.\n(6) Bøger: /bog/<ISBN>-<titel-udg>.\n(7) Tidsskrifter: /tidsskrifter/<JUR|TFM|NTS…>/<år>/<nr>/<id>.\n(8) Brugervejledning: /vejledning/....\n(9) Prøveadgang: /abonnementer/trial/lovgivning.\n(10) Vilkår: /betingelser. Kontakt: /kontakt.\nLovsiderne har en header med grundlov, LBK og 'som ændret ved'-liste, derefter kapitel- og §-disposition. Skabelonen 'Bekendtgørelser relaterede til …' går igen på lov-, BEK- og §-sider.\nGammel platform (jurabibliotek.dk): /display/book/<ISBN>/<del>.xml, /view/book/…, /downloadpdf/… og /view/journals/jur/jur-overview.xml.\nDer er IKKE fundet nogen alfabetisk lovliste, ingen ministerieoversigt og ingen indeksside for 'danske love'. /danske-lov er lovsiden for Danske Lov 1683 og har egne kapitel- og §-sider.",
+  "eksempel_urler": [
+   {
+    "url": "https://www.jurabibliotek.ai/danske-lov",
+    "titel": "Danske Lov - Jurabibliotek (lov nr. 11000 af 15/4 1683, ændret til lov 522 af 6/6 2007)"
+   },
+   {
+    "url": "https://www.jurabibliotek.ai/danske-lov/paragraf/3",
+    "titel": "Danske Lov § 3 - Jurabibliotek"
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/retsinfo/1683/11000",
+    "titel": "LOV nr 11000 af 15/04/1683, Justitsministeriet (Retsinformation)"
+   },
+   {
+    "url": "https://www.jurabibliotek.dk/lejeloven",
+    "titel": "Lejeloven (som ændret ved bl.a. lov nr. 615 af 30/6 2026)"
+   },
+   {
+    "url": "https://www.jurabibliotek.ai/hvidvaskloven",
+    "titel": "Hvidvaskloven - Jurabibliotek (LBK 433 af 17/4 2026, ændret ved lov 764 af 8/9 2026)"
+   },
+   {
+    "url": "https://www.jurabibliotek.ai/hvidvaskloven/kapitel/6",
+    "titel": "Hvidvaskloven kapitel 6 - Jurabibliotek"
+   },
+   {
+    "url": "https://www.jurabibliotek.ai/retsplejeloven",
+    "titel": "Retsplejeloven - Jurabibliotek"
+   },
+   {
+    "url": "https://www.jurabibliotek.ai/sygedagpengeloven",
+    "titel": "Sygedagpengeloven - Jurabibliotek"
+   },
+   {
+    "url": "https://www.jurabibliotek.ai/strafberegningsbekendtgoerelsen",
+    "titel": "Strafberegningsbekendtgørelsen - Jurabibliotek (BEK 271 af 11/2 2026)"
+   },
+   {
+    "url": "https://www.jurabibliotek.ai/aegteskabsloven-ae1",
+    "titel": "Ægteskabsloven (Æ1) - Jurabibliotek"
+   },
+   {
+    "url": "https://www.jurabibliotek.ai/cirkulaere-om-vaaben-og-ammunition-mv/paragraf/8",
+    "titel": "Cirkulære om våben og ammunition m.v. § 8 - Jurabibliotek"
+   },
+   {
+    "url": "https://www.jurabibliotek.ai/foraeldreansvarsbekendtgoerelsen/paragraf/7",
+    "titel": "Forældreansvarsbekendtgørelsen § 7 - Jurabibliotek"
+   },
+   {
+    "url": "https://www.jurabibliotek.dk/forarbejder/lovforslag-som-fremsat-2026-02-24-20251-lsf-115?Retsomr%C3%A5de=7&Indholdstype=forarbejder",
+    "titel": "Lovforslag som fremsat nr. 2025/1 LSF 115 af 24. februar 2026"
+   },
+   {
+    "url": "https://www.jurabibliotek.dk/forarbejder/lovforslaget-som-vedtaget-2026-09-04-000000-20252-lsv-7-draft?Forfattere=230&Indholdstype=forarbejder",
+    "titel": "Lovforslaget som vedtaget nr. 2025/2 LSV 7 af 04. september 2026"
+   },
+   {
+    "url": "https://www.jurabibliotek.dk/forarbejder/aendringslov-2025-06-20-722",
+    "titel": "Ændringslov nr. 722 af 20. juni 2025"
+   },
+   {
+    "url": "https://www.jurabibliotek.dk/betingelser",
+    "titel": "Generelle vilkår"
+   },
+   {
+    "url": "https://djoefforlag.dk/products/lovgivning",
+    "titel": "Jurabibliotek Lovgivning (produktside)"
+   },
+   {
+    "url": "https://www.jurabibliotek.ai/abonnementer/trial/lovgivning",
+    "titel": "Prøv Jurabibliotek - Lovgivning gratis i 14 dage"
+   },
+   {
+    "url": "https://legora.com/newsroom/legora-and-dj%C3%B8f-forlag-partner-to-bring-trusted-danish-legal-content-into-ai-platform",
+    "titel": "Legora and Djøf Forlag partner (pressemeddelelse)"
+   }
+  ],
+  "aktualitet": "Sitet er meget aktuelt og opdateres ifølge Djøf \"dagligt\". Bekræftet efter vores skæringsdato 2026-02-12:\n- Hvidvaskloven: LBK 433 af 17/4 2026, ændret ved lov nr. 764 af 8/9 2026 (nyere end først angivet).\n- Lejeloven: ændret ved lov nr. 615 af 30/6 2026 (i kraft 1/7 2026).\n- Strafberegningsbekendtgørelsen: BEK 271 af 11/2 2026 (i kraft 15/2 2026).\n- Autorisationsbekendtgørelsen: BEK 443 af 24/4 2026.\n- Forarbejder: 'Lovforslaget som vedtaget' 2025/2 LSV 7, 9, 16, 17 A og 17 B af 4/9 2026. Det nyeste forarbejde er dermed fra september 2026, ikke LSF 115 af 24/2 2026.\n- Fremtidige ikrafttrædelser registreres, fx lejelovens ændringslov 263 af 11/2 2026 med ikrafttræden 1/1 2027.\nSygedagpengelovens noter om ikrafttræden 1/7 2026 er bekræftet. 1/12 2026-datoen kunne ikke knyttes sikkert til en bestemmelse. Kørekortbekendtgørelsen (20/8 2026), BEK 589 af 22/6 2026 og våbenloven 1/1 2027 er ikke genbekræftet. Ændringshistorikken er ikke altid konsistent mellem hovedside og §-side (lejeloven § 7).",
+  "adgang": "Der er kun HTML-sider, og den fulde tekst ligger bag login eller betalingsmur ('Log ind'/'Køb adgang', 14 dages prøveadgang). Uden adgang ses kun titel, header (grundlov, LBK og ændringslove), disposition og de første linjer. Djøf har en API: et Djøf-oplæg fra oktober 2024 kalder den \"Jura til maskiner\", og et nyere LinkedIn-opslag omtaler en \"API og MCP-integration\", der bringer konsolideret lovgivning ind i kundernes systemer og AI-workflows. Der er ingen offentlig dokumentation, og endpoints og pris kendes ikke. Det er en kommerciel kundeaftale. Siden 19/5 2026 er indholdet også tilgængeligt via Legoras platform for fælles kunder. Der er ikke fundet nogen offentlig API, sitemap eller bulk-download, og robots.txt er ikke set. Søgemaskiner indekserer lov-, §-, kapitel- og forarbejdesider, og site:-søgninger i 'extended'-tilstand giver resultater. Ifølge brugervejledningen er AI-assistenten ikke beregnet til at finde dokumenter ud fra lovnummer.",
+  "licens_vilkaar": "Lukket og kommerciel. Generelle vilkår (/betingelser), verificeret ordlyd: kunder må ikke bruge indhold fra abonnement, e-bøger eller printprodukter \"til tekst- eller datamining eller på anden måde til træning af generative sprogmodeller eller træning af andre AI-modeller, embeddings eller andre teknologier til brug for kunstig intelligens\", og \"Enhver maskinel tilgang til Jurabiblioteks, E-bøgers eller Printprodukters indhold er forbudt\". Djøf Forlags egne servicevilkår gentager forbuddet. Djøf oplyser, at forlaget ikke har ophavsret til selve lovene, men har rettigheder til redigeringen og samlingen som helhed, svarende til en databaseret. Vilkårene siger, at der kan forekomme konsolideringsfejl. Ikke bekræftet: formuleringen \"ikke en egentlig retskilde\", datoen 22/1 2024 for brugervilkårene og universitetslicenser (Lund, SDU). Indholdet må under alle omstændigheder ikke indgå i et RAG-korpus. Lovteksterne skal i stedet hentes fra Retsinformation.",
+  "kan_lukke": [
+   {
+    "hul": "37 % af de gældende dokumenter mangler tekst",
+    "vurdering": "nej",
+    "begrundelse": "Teksten ligger bag betalingsmur, og vilkårene forbyder TDM, AI-træning, embeddings og enhver maskinel tilgang. Dækningen er ca. 2.000 love og bekendtgørelser mod vores 13.819 gældende dokumenter. Den officielle tekst skal komme fra Retsinformation."
+   },
+   {
+    "hul": "Præambel/hjemmel og ressortministerium mangler",
+    "vurdering": "nej",
+    "begrundelse": "Hjemmel ('i medfør af …') og ministerium står kun i bekendtgørelsens fritekst, bag betalingsmur, og der er ingen strukturerede felter. Den samme præambeltekst findes i Retsinformations egne dokumenter. Listen 'Bekendtgørelser relaterede til …' er en skabelon på hele sitet med ukendt logik, så den kan ikke bruges som hjemmelskobling. Vurderingen er nedgraderet fra 'delvist'."
+   },
+   {
+    "hul": "Dokumenter efter 2026-02-12 mangler",
+    "vurdering": "delvist",
+    "begrundelse": "Sitet har ændringslove, LBK'er og BEK'er fra 2026 (fx lov 764 af 8/9 2026 og BEK 443 af 24/4 2026) og LSV'er fra 4/9 2026. Det kan højst bruges som manuel kontrolliste for den kuraterede delmængde, ikke høstes. Retsinformation er den rette kilde."
+   },
+   {
+    "hul": "Cirkulærer, vejledninger, skrivelser og afgørelser mangler",
+    "vurdering": "nej",
+    "begrundelse": "Der er kun enkelte cirkulærer som lovsider (udrykningskørsel, våben og ammunition). Der er ingen samling af myndighedsvejledninger, skrivelser eller afgørelser. Praksis findes kun i bøger og tidsskrifter."
+   },
+   {
+    "hul": "Ingen kobling lov ↔ lovforslag/forarbejder",
+    "vurdering": "delvist",
+    "begrundelse": "Forarbejdesektionen er bredere end først angivet (LSF, BTL, LSV, SF.L og egne ændringslovssider, som samler lovforslag, betænkning og vedtaget tekst). Det er netop den kæde, vi mangler, men indholdet er betalt og omfattet af TDM-forbud. Slug-mønstrene bekræfter, at koblingen kan bygges fra åbne kilder (Folketingets ODA og Retsinformation). Sitet er en model, ikke en datakilde."
+   },
+   {
+    "hul": "Ingen §-ankre",
+    "vurdering": "delvist",
+    "begrundelse": "Konventionen /<slug>/paragraf/<n> (inkl. litra som 6a) og /kapitel/<n> er en brugbar ankermodel. Ankrene bør dog genereres fra Retsinformations tekst. Sitet lukker ikke hullet."
+   },
+   {
+    "hul": "Kortnavne for love er ufuldstændige (5.252 'lov om …'-fraser kan ikke matches)",
+    "vurdering": "delvist",
+    "begrundelse": "Sitet bruger populærnavne som titel og slug, også for bekendtgørelser og med forkortelser (fx 'Ægteskabsloven (Æ1)', 'Strafberegningsbekendtgørelsen', 'Udgangsbekendtgørelsen'). Titlerne kan ses via søgemaskinen og kan bruges til manuelt opslag for ca. 2.000 dokumenter. Massehøst strider mod vilkårene, og navnene er Djøfs egne redaktionelle valg, ikke officielle."
+   }
+  ],
+  "noter": [
+   "HOVEDKONKLUSION BEKRÆFTET: /danske-lov er lovsiden for Christian V's Danske Lov (lov nr. 11000 af 15/4 1683, ændret til lov nr. 522 af 6/6 2007, svarende til Retsinformations ELI 1683/11000) med egne kapitel- og §-sider. Det er ikke et indeks over danske love. Ingen alfabetisk lovliste er fundet. www.jurabibliotek.dk/danske-lov optrådte heller ikke i mine søgninger, kun .ai-varianten.",
+   "RETTET: Forarbejdesektionen er bredere end først angivet. Der findes også 'Lovforslaget som vedtaget' (LSV, nyeste set 4/9 2026), 'Skriftlig fremsættelse af lovforslag' (SF.L) og selvstændige 'Ændringslov'-sider (/forarbejder/aendringslov-<dato>-<nr>), som samler lovforslag, betænkning og vedtaget tekst. Feltet 'kobling lov → lovforslag' er derfor ændret fra ukendt til delvist/sandsynlig.",
+   "RETTET: Hjemmel/præambel er ændret fra ukendt til delvist/sandsynlig. 'I medfør af …' står i bekendtgørelsernes fritekst, men der er ikke set noget struktureret felt. Kan_lukke-vurderingen for hjemmel og ministerium er nedgraderet fra 'delvist' til 'nej'.",
+   "RETTET: Overskriften 'Bekendtgørelser relaterede til …' er en skabelon på hele sitet (også på BEK- og §-sider), ikke en specifik lov→BEK-kobling. Logik og indhold er ikke set, og sikkerheden er nedgraderet til sandsynlig.",
+   "RETTET: Hvidvaskloven er nu ændret ved lov nr. 764 af 8/9 2026, nyere end først angivet. Lejelovens ændring ved lov nr. 615 af 30/6 2026 er bekræftet. Inkonsistens fundet: lejelovens § 7-side nævner ændringslov 263 af 11/2 2026 (i kraft 1/1 2027), som mangler i hovedsidens header.",
+   "NEDGRADERET/IKKE BEKRÆFTET: Formuleringen 'ikke en egentlig retskilde' i vilkårene, brugervilkårenes dato 22/1 2024, universitetslicenserne (Lund, SDU), tallet '900+ e-bøger' (Djøf siger 500+), sygedagpengeloven 1/12 2026 (tekststykket var afkortet; 1/7 2026 er bekræftet), kørekortbekendtgørelsen 20/8 2026, BEK 589 af 22/6 2026 og våbenloven 1/1 2027. Emnekoder på den gamle platform og filteret Indholdstype=lovgivning er heller ikke genbekræftet.",
+   "RETTET: Prisen 12.475 kr./år er Djøfs pris for det samlede Jurabibliotek inkl. moms (en søgeopsummering beskrev den som litteratur, og forsiden siger 'Lovgivning og AI inkluderet'). Lovgivning koster 8.190 kr./år, uklart om med eller uden moms, og årsvarianten stod som udsolgt/utilgængelig. Tidsskrifterne er et tilvalg og omfatter også Kendelser om Fast Ejendom, EU-ret & Menneskeret og Nordisk Tidsskrift for Selskabsret. TfM hedder 'Tidsskrift for Miljø, Klima og Energi'.",
+   "TILFØJET: Djøf oplyser, at forlaget ikke har ophavsret til selve lovene, men har rettigheder til redigeringen og samlingen. TDM-, AI- og maskinforbuddet er verificeret ordret i /betingelser. Legora-partnerskabet (19/5 2026) og API/MCP-omtalen er bekræftet, også via et Djøf-oplæg fra 2024 ('Jura til maskiner'), men der er ingen offentlig dokumentation.",
+   "TILFØJET: Uregelmæssige slugs: /udgangsbekendtgorelsen, /bekendtgorelse-om-social-pension-…, og /cirkulaere-om-politiets-udrykningskorsel ved siden af /…-koersel. Slug-mønstret kan altså ikke bruges til pålideligt at konstruere URL'er.",
+   "FJERNET fra eksempel_urler og kilder: URL'er, jeg ikke selv så i søgeresultaterne og ikke kunne genbekræfte, fx kørekortbekendtgørelsen, Kriminalregister-BEK, /log-ind?redirect…, /browse- og /subject-emnekoder og cirkulæret om udrykningskørsel § 18 på .dk. De er erstattet af URL'er fra mine egne søgninger.",
+   "SIDEFUND: Et resultat på elov.dk (/handelsagentloven/paragraf/10/) havde titlen 'Djøf Forlag'. Det kan være en beslægtet tjeneste og kan undersøges separat. danskelove.dk fra brugerens besked indgik ikke i denne opgave.",
+   "Søgebudget: 20 WebSearch-kald brugt i kontrollen, alle i extended-tilstand. Sitet selv er ikke hentet. Alle URL'er stammer fra søgeresultaterne."
+  ]
+ }
+}
