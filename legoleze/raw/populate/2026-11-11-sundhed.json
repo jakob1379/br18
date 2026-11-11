@@ -1,0 +1,2056 @@
+{
+  "omraade": "sundhed",
+  "noder": [
+    {
+      "id": "sty-sundhedsstyrelsen",
+      "navn": "Sundhedsstyrelsen",
+      "type": "styrelse",
+      "ministerium": "min-sundhed-og-kirke",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://www.sst.dk/",
+        "belaeg": [
+          {
+            "url": "https://www.skim.dk/",
+            "citat": "Lægemiddelstyrelsen Sundhedsstyrelsen Styrelsen for Patientsikkerhed Styrelsen for Patientklager Sundhedsdatastyrelsen Statens Serum Institut"
+          }
+        ]
+      },
+      "hjemmel": {
+        "tekst": "Sundhedslovens § 212, stk. 1: styrelsen bistår ministeren med den centrale forvaltning af sundhedsmæssige anliggender.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/275",
+            "citat": "Sundhedsstyrelsen er en styrelse under indenrigs- og sundhedsministeren, der bistår henholdsvis indenrigs- og sundhedsministeren og ældreministeren med den centrale forvaltning af sundhedsmæssige anliggender"
+          }
+        ]
+      },
+      "note": "Ministeriet hed Indenrigs- og Sundhedsministeriet før regeringsskiftet 3/6/2026; sundhedsloven (LBK 275/2025) bruger endnu det gamle navn. Sundhedsstyrelsens egen om-os-side kunne ikke åbnes (HTTP 429), så ministeriet er belagt via skim.dk. Vejledninger udgives på Retsinformation som VEJ (ikke efterprøvet her)."
+    },
+    {
+      "id": "sty-styrelsen-for-patientsikkerhed",
+      "navn": "Styrelsen for Patientsikkerhed",
+      "type": "styrelse",
+      "ministerium": "min-sundhed-og-kirke",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://stps.dk/",
+        "belaeg": [
+          {
+            "url": "https://stps.dk/da/om-os/",
+            "citat": "Styrelsen for Patientsikkerhed er en del af Sundheds- og Kirkeministeriet"
+          }
+        ]
+      },
+      "hjemmel": {
+        "tekst": "Sundhedslovens § 213, stk. 1: overordnet tilsyn med sundhedsforholdene og den sundhedsfaglige virksomhed. Autorisationslovens § 5: tilsyn med autoriserede sundhedspersoner; §§ 9, 9 b og 10 c: midlertidig fratagelse og forbud.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/275",
+            "citat": "Styrelsen for Patientsikkerhed fører det overordnede tilsyn med sundhedsforholdene og den sundhedsfaglige virksomhed på sundhedsområdet"
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1008",
+            "citat": "Styrelsen for Patientsikkerhed fører tilsyn med faglig virksomhed, der udøves af autoriserede sundhedspersoner og sundhedspersoner, der handler på disses ansvar"
+          }
+        ]
+      },
+      "note": "Tilsyn med sundhedspersoner og behandlingssteder, autorisation, påbud. Afgørelser efter autorisationslovens §§ 9, 9 b og 10 c kan påklages til Ankenævnet for Tilsynsafgørelser (klagelovens § 10 a); påbud efter sundhedslovens § 215 b kan ikke indbringes for anden administrativ myndighed."
+    },
+    {
+      "id": "sty-styrelsen-for-patientklager",
+      "navn": "Styrelsen for Patientklager",
+      "type": "styrelse",
+      "ministerium": "min-sundhed-og-kirke",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://www.stpk.dk/",
+        "belaeg": [
+          {
+            "url": "https://www.skim.dk/",
+            "citat": "Lægemiddelstyrelsen Sundhedsstyrelsen Styrelsen for Patientsikkerhed Styrelsen for Patientklager Sundhedsdatastyrelsen Statens Serum Institut"
+          }
+        ]
+      },
+      "hjemmel": {
+        "tekst": "Klagelovens § 1 og § 11: behandler patienters klager over behandlingssteder; afgørelser kan ikke indbringes for anden administrativ myndighed. Sekretariat for flere nævn (§§ 13, 16 a, 16 e, 58 a).",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+            "citat": "Styrelsen for Patientklager, jf. §§ 11 og 12, behandler klager fra patienter over behandlingssteders sundhedsfaglige virksomhed"
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+            "citat": "Styrelsen for Patientklagers afgørelser efter kapitel 1 kan ikke indbringes for anden administrativ myndighed"
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse",
+            "bindende": "bindende",
+            "note": "klageafgørelser; kritik/ikke kritik"
+          },
+          {
+            "type": "årsrapport",
+            "bindende": "vejledende"
+          },
+          {
+            "type": "praksissammenfatning",
+            "bindende": "vejledende"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.stpk.dk/viden/publikationer/",
+            "citat": "Find årsrapporter og andre publikationer nedenfor"
+          },
+          {
+            "url": "https://www.stpk.dk/viden/praksissammenfatninger/",
+            "citat": "Her på siden finder du forskellig praksissammenfatninger"
+          }
+        ]
+      },
+      "note": "Klagelovens § 11 kalder den endnu en institution under Indenrigs- og Sundhedsministeriet (LBK 1250/2025); ministeriet hedder nu Sundheds- og Kirkeministeriet. stpk.dk linker stadig til \"Sundhedsministeriet\". Sekretariat for Disciplinærnævnet, Tvangsbehandlingsnævnet, Det Psykiatriske Patientklagenævn og ankenævnene.",
+      "krydsref_moenstre": [
+        "Styrelsen for Patientklagers afgørelse af [dato]",
+        "j.nr. [ÅÅÅÅ]-[NNNN]"
+      ]
+    },
+    {
+      "id": "sty-laegemiddelstyrelsen",
+      "navn": "Lægemiddelstyrelsen",
+      "type": "styrelse",
+      "ministerium": "min-sundhed-og-kirke",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://laegemiddelstyrelsen.dk/",
+        "belaeg": [
+          {
+            "url": "https://laegemiddelstyrelsen.dk/da/om-os/",
+            "citat": "Lægemiddelstyrelsen er en del af Sundheds- og Kirkeministeriet"
+          }
+        ]
+      },
+      "hjemmel": {
+        "tekst": "Lægemiddelloven: styrelsen godkender, overvåger og fører tilsyn; § 103 c: ministeren fastsætter regler om klage over styrelsens afgørelser.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/339",
+            "citat": "Sundhedsministeren kan fastsætte regler om klage over Lægemiddelstyrelsens afgørelser, herunder regler om klagefrister"
+          }
+        ]
+      },
+      "note": "Fører tilsyn med lægemiddelvirksomheder, medicinsk udstyr, apoteker og detailforhandlere, godkender kliniske forsøg. Klagevejen over styrelsens afgørelser er ikke kortlagt (se huller)."
+    },
+    {
+      "id": "sty-sundhedsdatastyrelsen",
+      "navn": "Sundhedsdatastyrelsen",
+      "type": "styrelse",
+      "ministerium": "min-sundhed-og-kirke",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://sundhedsdatastyrelsen.dk/da",
+        "belaeg": [
+          {
+            "url": "https://www.skim.dk/",
+            "citat": "Lægemiddelstyrelsen Sundhedsstyrelsen Styrelsen for Patientsikkerhed Styrelsen for Patientklager Sundhedsdatastyrelsen Statens Serum Institut"
+          }
+        ]
+      },
+      "note": "Ingen hjemmel fundet; Sundhedsdatastyrelsens egne sider kunne ikke efterprøves. Ikke led i klage- eller tilsynskæden, men registerholder (bl.a. Lægemiddelstatistikregisteret)."
+    },
+    {
+      "id": "sty-statens-serum-institut",
+      "navn": "Statens Serum Institut",
+      "type": "offentlig-virksomhed",
+      "ministerium": "min-sundhed-og-kirke",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://www.ssi.dk/",
+        "belaeg": [
+          {
+            "url": "https://www.ssi.dk/om-ssi",
+            "citat": "Statens Serum Institut (SSI) er et institut under Sundheds- og Kirkeministeriet"
+          }
+        ]
+      },
+      "note": "Smitteberedskab og diagnostik; ikke led i klage- eller tilsynskæden."
+    },
+    {
+      "id": "naevn-sundhedsvaesenets-disciplinaernaevn",
+      "navn": "Sundhedsvæsenets Disciplinærnævn",
+      "type": "nævn",
+      "ministerium": "min-sundhed-og-kirke",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://www.stpk.dk/afgorelser-og-domme/afgorelser-fra-sundhedsvaesenets-disciplinaernaevn/",
+        "belaeg": [
+          {
+            "url": "https://www.stpk.dk/afgorelser-og-domme/afgorelser-fra-sundhedsvaesenets-disciplinaernaevn/",
+            "citat": "Se udvalgte afgørelser af klager over konkrete sundhedspersoner"
+          }
+        ]
+      },
+      "hjemmel": {
+        "tekst": "Klagelovens §§ 2, 2 a, 3 og 13: behandler klager over autoriserede sundhedspersoner i sager med skærpende omstændigheder og sager indbragt af Styrelsen for Patientsikkerhed eller Lægemiddelstyrelsen; afgørelser kan ikke indbringes for anden administrativ myndighed.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+            "citat": "Sundhedsvæsenets Disciplinærnævn, jf. §§ 13-16, behandler klager fra patienter over autoriserede sundhedspersoners sundhedsfaglige virksomhed"
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+            "citat": "Nævnets afgørelser kan ikke indbringes for anden administrativ myndighed"
+          }
+        ]
+      },
+      "note": "Forretningsorden BEK 1496/2024. Nævnet udtaler kritik med indskærpelse eller søger sanktioner iværksat (§ 3); selve fratagelse af autorisation sker efter autorisationsloven. Årsberetning offentliggøres (§ 16, stk. 2). Anonymiserede afgørelser offentliggøres kun hvis principielle eller af almen interesse (BEK 1496/2024 § 12).",
+      "krydsref_moenstre": [
+        "Sundhedsvæsenets Disciplinærnævns afgørelse af [dato]",
+        "Disciplinærnævnet"
+      ]
+    },
+    {
+      "id": "naevn-ankenaevnet-for-patienterstatningen",
+      "navn": "Ankenævnet for Patienterstatningen",
+      "type": "nævn",
+      "ministerium": "min-sundhed-og-kirke",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://www.stpk.dk/om-os/naevn/ankenaevnet-for-patienterstatningen/",
+        "belaeg": [
+          {
+            "url": "https://www.stpk.dk/om-os/naevn/",
+            "citat": "Læs om, hvordan du kan klage over en afgørelse truffet af Patienterstatningen"
+          }
+        ]
+      },
+      "hjemmel": {
+        "tekst": "Klagelovens § 58 a og § 58 b: afgørelser truffet af Patienterstatningen (§ 33) eller ministeren (§ 55) kan indbringes for ankenævnet, der træffer den endelige administrative afgørelse; § 58 d: ankenævnets afgørelser kan indbringes for retten inden 6 måneder.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+            "citat": "De afgørelser, der træffes efter §§ 33 og 55, kan indbringes for Ankenævnet for Patienterstatningen, der træffer den endelige administrative afgørelse"
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+            "citat": "Ankenævnet for Patienterstatningens afgørelser kan indbringes for retten, der kan stadfæste, ophæve eller ændre afgørelsen"
+          }
+        ]
+      },
+      "note": "Klagefrist 1 måned med opsættende virkning (§ 58 b, stk. 2); 3 måneder for visse tandskader (stk. 4). Styrelsen for Patientklager er sekretariat og kan afgøre sager uden tvivl på nævnets vegne (§ 58 a, stk. 11). Forretningsorden BEK 921/2024."
+    },
+    {
+      "id": "org-patienterstatningen",
+      "navn": "Patienterstatningen",
+      "type": "privat-organisation",
+      "ministerium": "min-sundhed-og-kirke",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Klagelovens § 32 og § 33: forening oprettet af forsikringsselskaber og selvforsikrende regioner og kommuner; modtager, oplyser og afgør alle erstatningssager efter kapitel 3.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+            "citat": "Patienterstatningen modtager, oplyser og afgør alle erstatningssager efter dette kapitel"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://patienterstatningen.dk/",
+        "belaeg": [
+          {
+            "url": "https://patienterstatningen.dk/om-os",
+            "citat": "Patienterstatningen er den myndighed i Danmark, som afgør, om patienter kan få erstatning, hvis de er kommet til skade i sundhedsvæsenet"
+          }
+        ]
+      },
+      "note": "Førsteinstans i erstatningssager (§ 33). Ministeren behandler selv lægemiddelskader men kan bemyndige Patienterstatningen (§ 55). Vedtægter BEK 1724/2024. Klageinstans: Ankenævnet for Patienterstatningen."
+    },
+    {
+      "id": "naevn-tvangsbehandlingsnaevnet",
+      "navn": "Tvangsbehandlingsnævnet",
+      "type": "nævn",
+      "ministerium": "min-sundhed-og-kirke",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://www.stpk.dk/om-os/naevn/",
+        "belaeg": [
+          {
+            "url": "https://www.stpk.dk/om-os/naevn/",
+            "citat": "Læs om, hvordan du kan klage over tvang i fb. med sundhedsfaglig behandling uden for psykiatrien"
+          }
+        ]
+      },
+      "hjemmel": {
+        "tekst": "Klagelovens § 4 og § 16 a: behandler klager over tvang ved somatisk behandling af varigt inhabile; afgørelser kan ikke indbringes for anden administrativ myndighed; § 16 d: indbringes for retten efter retsplejelovens kapitel 43 a.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+            "citat": "Tvangsbehandlingsnævnet, jf. §§ 16 a-16 d, behandler klager over beslutninger truffet efter"
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+            "citat": "Tvangsbehandlingsnævnet skal efter anmodning fra patienten, dennes nærmeste pårørende, værge eller fremtidsfuldmægtig indbringe sine afgørelser"
+          }
+        ]
+      },
+      "note": "Findes stadig i 2026 under samme navn. Forretningsorden BEK 979/2018. Afgørelse inden 14 hverdage i verserende sager (§ 16 c, stk. 3). Dækker lov om anvendelse af tvang ved somatisk behandling af varigt inhabile (LBK 126/2019, ikke kortlagt som lov-node)."
+    },
+    {
+      "id": "naevn-det-psykiatriske-patientklagenaevn",
+      "navn": "Det Psykiatriske Patientklagenævn",
+      "type": "nævn",
+      "ministerium": "min-sundhed-og-kirke",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://www.stpk.dk/om-os/naevn/",
+        "belaeg": [
+          {
+            "url": "https://www.stpk.dk/om-os/naevn/",
+            "citat": "Læs om, hvordan du klager over tvangsindgreb eller tvangsbehandling på en psykiatrisk afdeling"
+          }
+        ]
+      },
+      "hjemmel": {
+        "tekst": "Psykiatrilovens §§ 34-37: patientklagenævn ved Styrelsen for Patientklager behandler klager over tvangsindlæggelse, tvangsbehandling m.v.; afgørelser kan indbringes for Det Psykiatriske Ankenævn (§ 38) og for retten efter retsplejelovens kapitel 43 a (§ 37).",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1045",
+            "citat": "Det Psykiatriske Patientklagenævn ved Styrelsen for Patientklager skal efter anmodning fra patienten eller patientrådgiveren indbringe sine afgørelser"
+          }
+        ]
+      },
+      "note": "Findes stadig. Forretningsorden BEK 171/2023 siger \"ved Nævnenes Hus\"; psykiatriloven (LBK 1045/2024) siger \"ved Styrelsen for Patientklager\": forretningsordenen er forældet på det punkt. En lov af februar 2026 indfører klagefrister (nævnt i LBK 1045/2024s ændringsliste, ikke læst)."
+    },
+    {
+      "id": "naevn-det-psykiatriske-ankenaevn",
+      "navn": "Det Psykiatriske Ankenævn",
+      "type": "nævn",
+      "ministerium": "min-sundhed-og-kirke",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://www.stpk.dk/afgorelser-og-domme/afgorelser-fra-det-psykiatriske-ankenaevn/",
+        "belaeg": [
+          {
+            "url": "https://www.stpk.dk/om-os/naevn/",
+            "citat": "Læs om, hvordan du kan klage over en afgørelse truffet af Det Psykiatriske Patientklagenævn"
+          }
+        ]
+      },
+      "hjemmel": {
+        "tekst": "Psykiatrilovens § 38 og § 38 a: afgørelser fra Det Psykiatriske Patientklagenævn om tvangsbehandling m.v. kan påklages til ankenævnet inden 3 måneder; ankenævnets afgørelser kan ikke indbringes for anden administrativ myndighed.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1045",
+            "citat": "Det Psykiatriske Ankenævns afgørelser kan ikke indbringes for anden administrativ myndighed"
+          }
+        ]
+      },
+      "note": "Forretningsorden BEK 1076/2019. Sekretariat: Styrelsen for Patientklager."
+    },
+    {
+      "id": "naevn-ankenaevnet-for-tilsynsafgoerelser",
+      "navn": "Ankenævnet for Tilsynsafgørelser",
+      "type": "nævn",
+      "ministerium": "min-sundhed-og-kirke",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://www.stpk.dk/om-os/naevn/",
+        "belaeg": [
+          {
+            "url": "https://www.stpk.dk/om-os/naevn/",
+            "citat": "Læs om, hvordan du som autoriseret sundhedsperson kan klage over en tilsynsafgørelse"
+          }
+        ]
+      },
+      "hjemmel": {
+        "tekst": "Klagelovens § 10 a og § 16 e: behandler klager over Styrelsen for Patientsikkerheds afgørelser efter autorisationslovens § 9, § 9 b, stk. 1, og § 10 c, stk. 1; afgørelser kan ikke indbringes for anden administrativ myndighed.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+            "citat": "Ankenævnet for Tilsynsafgørelser, jf. § 16 e, behandler klager over Styrelsen for Patientsikkerheds afgørelser efter § 9, § 9 b, stk. 1, og § 10 c, stk. 1"
+          }
+        ]
+      },
+      "note": "Nyt nævn. Forretningsorden ikke fundet i det lokale katalog (se huller). Resuméer offentliggøres på stpk.dk."
+    },
+    {
+      "id": "raad-laegemiddelnaevnet",
+      "navn": "Lægemiddelnævnet",
+      "type": "råd",
+      "ministerium": "min-sundhed-og-kirke",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Lægemiddellovens § 96: rådgivende nævn for Lægemiddelstyrelsen om markedsføringstilladelser, bivirkninger, risk/benefit og kliniske forsøg. Ikke klageinstans.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/339",
+            "citat": "Lægemiddelstyrelsen kan i sager, der vedrører lægemidler til mennesker og dyr, rådføre sig med Lægemiddelnævnet om"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://laegemiddelstyrelsen.dk/",
+        "belaeg": [
+          {
+            "url": "https://laegemiddelstyrelsen.dk/da/om-os/",
+            "citat": "Lægemiddelstyrelsen er en del af Sundheds- og Kirkeministeriet"
+          }
+        ]
+      },
+      "note": "Auditsporet antog en klagefunktion: forkert, Lægemiddelnævnet er rådgivende. Forretningsorden BEK 1214/2013 (§ 99 giver nu Lægemiddelstyrelsen kompetencen; bekendtgørelsen nævner stadig ministeren for sundhed og forebyggelse). Egen side på laegemiddelstyrelsen.dk ikke åbnet."
+    },
+    {
+      "id": "lov-sundhedsloven",
+      "navn": "Sundhedsloven",
+      "type": "lov",
+      "ministerium": "min-sundhed-og-kirke",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/275",
+            "citat": "Bekendtgørelse af sundhedsloven"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2025/275",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/275",
+            "citat": "Bekendtgørelse af sundhedsloven"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2025/275",
+        "lovtidende": "LBK nr. 275 af 12/03/2025",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/275",
+            "citat": "Bekendtgørelse af sundhedsloven"
+          }
+        ]
+      },
+      "note": "Retsinformations XML markerer LBK 275/2025 som Historic (felt dateret 2026-10-19), dvs. en nyere lovbekendtgørelse kan findes; den blev ikke fundet. Verificér før brug."
+    },
+    {
+      "id": "lov-autorisation-sundhedspersoner",
+      "navn": "Lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed (autorisationsloven)",
+      "type": "lov",
+      "ministerium": "min-sundhed-og-kirke",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1008",
+            "citat": "Bekendtgørelse af lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2024/1008",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1008",
+            "citat": "Bekendtgørelse af lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2024/1008",
+        "lovtidende": "LBK nr. 1008 af 29/08/2024",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1008",
+            "citat": "Bekendtgørelse af lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lov-klage-og-erstatningsloven",
+      "navn": "Lov om klage- og erstatningsadgang inden for sundhedsvæsenet",
+      "type": "lov",
+      "ministerium": "min-sundhed-og-kirke",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+            "citat": "Bekendtgørelse af lov om klage- og erstatningsadgang inden for sundhedsvæsenet"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2025/1250",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+            "citat": "Bekendtgørelse af lov om klage- og erstatningsadgang inden for sundhedsvæsenet"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2025/1250",
+        "lovtidende": "LBK nr. 1250 af 28/10/2025",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+            "citat": "Bekendtgørelse af lov om klage- og erstatningsadgang inden for sundhedsvæsenet"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lov-laegemiddelloven",
+      "navn": "Lov om lægemidler (lægemiddelloven)",
+      "type": "lov",
+      "ministerium": "min-sundhed-og-kirke",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/339",
+            "citat": "Bekendtgørelse af lov om lægemidler"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2023/339",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/339",
+            "citat": "Bekendtgørelse af lov om lægemidler"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2023/339",
+        "lovtidende": "LBK nr. 339 af 15/03/2023",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/339",
+            "citat": "Bekendtgørelse af lov om lægemidler"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lov-psykiatriloven",
+      "navn": "Lov om anvendelse af tvang i psykiatrien m.v. (psykiatriloven)",
+      "type": "lov",
+      "ministerium": "min-sundhed-og-kirke",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1045",
+            "citat": "Bekendtgørelse af lov om anvendelse af tvang i psykiatrien m.v."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2024/1045",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1045",
+            "citat": "Bekendtgørelse af lov om anvendelse af tvang i psykiatrien m.v."
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2024/1045",
+        "lovtidende": "LBK nr. 1045 af 18/09/2024",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1045",
+            "citat": "Bekendtgørelse af lov om anvendelse af tvang i psykiatrien m.v."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bek-forretningsorden-disciplinaernaevn",
+      "navn": "Bekendtgørelse om forretningsorden for Sundhedsvæsenets Disciplinærnævn",
+      "type": "bekendtgørelse",
+      "ministerium": "min-sundhed-og-kirke",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Klagelovens § 2, stk. 6, og § 13, stk. 3.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1496",
+            "citat": "I medfør af § 2, stk. 6, og § 13, stk. 3, i lov om klage- og erstatningsadgang inden for sundhedsvæsenet"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2024/1496",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1496",
+            "citat": "I medfør af § 2, stk. 6, og § 13, stk. 3, i lov om klage- og erstatningsadgang inden for sundhedsvæsenet"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2024/1496",
+        "lovtidende": "BEK nr. 1496 af 06/12/2024",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1496",
+            "citat": "I medfør af § 2, stk. 6, og § 13, stk. 3, i lov om klage- og erstatningsadgang inden for sundhedsvæsenet"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bek-forretningsorden-ankenaevnet-for-patienterstatningen",
+      "navn": "Bekendtgørelse om forretningsorden for Ankenævnet for Patienterstatningen",
+      "type": "bekendtgørelse",
+      "ministerium": "min-sundhed-og-kirke",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Klagelovens § 58 a, stk. 8 og 11.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/921",
+            "citat": "I medfør af § 58 a, stk. 8 og 11"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2024/921",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/921",
+            "citat": "I medfør af § 58 a, stk. 8 og 11"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2024/921",
+        "lovtidende": "BEK nr. 921 af 03/07/2024",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/921",
+            "citat": "I medfør af § 58 a, stk. 8 og 11"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bek-forretningsorden-tvangsbehandlingsnaevnet",
+      "navn": "Bekendtgørelse om forretningsorden for Tvangsbehandlingsnævnet",
+      "type": "bekendtgørelse",
+      "ministerium": "min-sundhed-og-kirke",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Klagelovens § 16 a, stk. 3.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2018/979",
+            "citat": "I medfør af § 16 a, stk. 3, i lov om klage- og erstatningsadgang inden for sundhedsvæsenet"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2018/979",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2018/979",
+            "citat": "I medfør af § 16 a, stk. 3, i lov om klage- og erstatningsadgang inden for sundhedsvæsenet"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2018/979",
+        "lovtidende": "BEK nr. 979 af 28/06/2018",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2018/979",
+            "citat": "I medfør af § 16 a, stk. 3, i lov om klage- og erstatningsadgang inden for sundhedsvæsenet"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bek-forretningsorden-psykiatriske-patientklagenaevn",
+      "navn": "Bekendtgørelse om forretningsorden for Det Psykiatriske Patientklagenævn",
+      "type": "bekendtgørelse",
+      "ministerium": "min-sundhed-og-kirke",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Psykiatrilovens § 36, stk. 4.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/171",
+            "citat": "I medfør af § 36, stk. 4, i lov om anvendelse af tvang i psykiatrien m.v."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2023/171",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/171",
+            "citat": "I medfør af § 36, stk. 4, i lov om anvendelse af tvang i psykiatrien m.v."
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2023/171",
+        "lovtidende": "BEK nr. 171 af 17/02/2023",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/171",
+            "citat": "I medfør af § 36, stk. 4, i lov om anvendelse af tvang i psykiatrien m.v."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bek-forretningsorden-psykiatriske-ankenaevn",
+      "navn": "Bekendtgørelse om forretningsorden for Det Psykiatriske Ankenævn",
+      "type": "bekendtgørelse",
+      "ministerium": "min-sundhed-og-kirke",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Psykiatrilovens § 38 a, stk. 4.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/1076",
+            "citat": "I medfør af § 38 a, stk. 4, i lov om anvendelse af tvang i psykiatrien m.v."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2019/1076",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/1076",
+            "citat": "I medfør af § 38 a, stk. 4, i lov om anvendelse af tvang i psykiatrien m.v."
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2019/1076",
+        "lovtidende": "BEK nr. 1076 af 27/10/2019",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/1076",
+            "citat": "I medfør af § 38 a, stk. 4, i lov om anvendelse af tvang i psykiatrien m.v."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bek-vedtaegter-patienterstatningen",
+      "navn": "Bekendtgørelse om vedtægter for Patienterstatningen",
+      "type": "bekendtgørelse",
+      "ministerium": "min-sundhed-og-kirke",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Klagelovens § 32, stk. 1 og 2.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1724",
+            "citat": "I medfør af § 32, stk. 1 og 2, i lov om klage- og erstatningsadgang inden for sundhedsvæsenet"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2024/1724",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1724",
+            "citat": "I medfør af § 32, stk. 1 og 2, i lov om klage- og erstatningsadgang inden for sundhedsvæsenet"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2024/1724",
+        "lovtidende": "BEK nr. 1724 af 30/12/2024",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1724",
+            "citat": "I medfør af § 32, stk. 1 og 2, i lov om klage- og erstatningsadgang inden for sundhedsvæsenet"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bek-forretningsorden-laegemiddelnaevnet",
+      "navn": "Bekendtgørelse om forretningsorden for Lægemiddelnævnet",
+      "type": "bekendtgørelse",
+      "ministerium": "min-sundhed-og-kirke",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Lægemiddellovens § 99 (dengang jf. LBK 506/2013).",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2013/1214",
+            "citat": "I medfør af § 99 i lov om lægemidler"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2013/1214",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2013/1214",
+            "citat": "I medfør af § 99 i lov om lægemidler"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2013/1214",
+        "lovtidende": "BEK nr. 1214 af 01/10/2013",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2013/1214",
+            "citat": "I medfør af § 99 i lov om lægemidler"
+          }
+        ]
+      },
+      "note": "Fra 2013; udstedt af ministeren, mens § 99 i LBK 339/2023 giver Lægemiddelstyrelsen kompetencen. Aktualitet usikker."
+    },
+    {
+      "id": "bek-patientklager-screening-af-klager",
+      "navn": "Bekendtgørelse om Styrelsen for Patientklagers screening af klager og videregivelse af sagsakter til Styrelsen for Patientsikkerhed",
+      "type": "bekendtgørelse",
+      "ministerium": "min-sundhed-og-kirke",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Klagelovens § 1, stk. 10, § 2, stk. 5, og § 12, stk. 5.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1486",
+            "citat": "I medfør af § 1, stk. 10, § 2, stk. 5, og § 12, stk. 5, i lov om klage og erstatningsadgang inden for sundhedsvæsenet"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2024/1486",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1486",
+            "citat": "I medfør af § 1, stk. 10, § 2, stk. 5, og § 12, stk. 5, i lov om klage og erstatningsadgang inden for sundhedsvæsenet"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2024/1486",
+        "lovtidende": "BEK nr. 1486 af 06/12/2024",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1486",
+            "citat": "I medfør af § 1, stk. 10, § 2, stk. 5, og § 12, stk. 5, i lov om klage og erstatningsadgang inden for sundhedsvæsenet"
+          }
+        ]
+      },
+      "note": "Auditsporet pegede på BEK 1496/2024 som forretningsorden for Styrelsen for Patientklager: forkert, det er forretningsordenen for Disciplinærnævnet. BEK 1486/2024 er den, der binder Patientklager til Patientsikkerhed."
+    },
+    {
+      "id": "bek-ikke-autoriserede-persongrupper-disciplinaernaevn",
+      "navn": "Bekendtgørelse om ikke-autoriserede persongrupper, der er omfattet af Sundhedsvæsenets Disciplinærnævns virksomhed",
+      "type": "bekendtgørelse",
+      "ministerium": "min-sundhed-og-kirke",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Klagelovens § 2, stk. 2.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1663",
+            "citat": "I medfør af § 2, stk. 2, i lov om klage- og erstatningsadgang inden for sundhedsvæsenet"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2025/1663",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1663",
+            "citat": "I medfør af § 2, stk. 2, i lov om klage- og erstatningsadgang inden for sundhedsvæsenet"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2025/1663",
+        "lovtidende": "BEK nr. 1663 af 08/12/2025",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1663",
+            "citat": "I medfør af § 2, stk. 2, i lov om klage- og erstatningsadgang inden for sundhedsvæsenet"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kilde-stpk-disciplinaernaevn-afgoerelser",
+      "navn": "Afgørelser fra Sundhedsvæsenets Disciplinærnævn (stpk.dk)",
+      "type": "dokumentkilde",
+      "ministerium": "min-sundhed-og-kirke",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://www.stpk.dk/afgorelser-og-domme/afgorelser-fra-sundhedsvaesenets-disciplinaernaevn/",
+        "belaeg": [
+          {
+            "url": "https://www.stpk.dk/afgorelser-og-domme/afgorelser-fra-sundhedsvaesenets-disciplinaernaevn/",
+            "citat": "Se udvalgte afgørelser af klager over konkrete sundhedspersoner"
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML"
+        ],
+        "note": "Søgeside med filtre (år, kategori, juridisk tema, speciale, faggruppe, behandlingssted); resultater indlæses dynamisk, så ingen listning kunne læses. Kun udvalgte afgørelser; ingen API fundet. Nummersystem ikke fundet.",
+        "belaeg": [
+          {
+            "url": "https://www.stpk.dk/afgorelser-og-domme/afgorelser-fra-sundhedsvaesenets-disciplinaernaevn/",
+            "citat": "Vælg Kategori Vælg Juridisk tema Vælg Speciale Vælg Faggruppe Vælg Behandlingssted"
+          }
+        ]
+      },
+      "opdatering": {
+        "frekvens": "løbende",
+        "versionshistorik": "udvalgte afgørelser; omfang og startår ikke angivet",
+        "belaeg": [
+          {
+            "url": "https://www.stpk.dk/afgorelser-og-domme/afgorelser-fra-sundhedsvaesenets-disciplinaernaevn/",
+            "citat": "Se udvalgte afgørelser af klager over konkrete sundhedspersoner"
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 3,
+        "besvaer": 3,
+        "begrundelse": "Eneste offentlige praksiskilde for disciplinærnævnet; kun et udvalg, dynamisk søgeside."
+      }
+    },
+    {
+      "id": "kilde-stpk-erstatningsdomme",
+      "navn": "Domme fra erstatningsområdet (stpk.dk)",
+      "type": "dokumentkilde",
+      "ministerium": "min-sundhed-og-kirke",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://www.stpk.dk/afgorelser-og-domme/domme-fra-erstatningsomradet/",
+        "belaeg": [
+          {
+            "url": "https://www.stpk.dk/afgorelser-og-domme/domme-fra-erstatningsomradet/",
+            "citat": "Se domme fra erstatningsområdet"
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML"
+        ],
+        "note": "Søgeside med filtre (år, domstol, område, juridisk tema); resultater indlæses dynamisk. Ankenævnets egne afgørelser er ikke fundet offentliggjort samlet. Nummersystem ikke fundet.",
+        "belaeg": [
+          {
+            "url": "https://www.stpk.dk/afgorelser-og-domme/domme-fra-erstatningsomradet/",
+            "citat": "Vælg Domstol Vælg Område Vælg Juridisk tema"
+          }
+        ]
+      },
+      "opdatering": {
+        "frekvens": "løbende",
+        "versionshistorik": "ikke angivet",
+        "belaeg": [
+          {
+            "url": "https://www.stpk.dk/afgorelser-og-domme/domme-fra-erstatningsomradet/",
+            "citat": "Se domme fra erstatningsområdet"
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 3,
+        "besvaer": 3,
+        "begrundelse": "Domme efter indbringelse af ankenævnets afgørelser; hul for selve ankenævnsafgørelserne."
+      }
+    },
+    {
+      "id": "kilde-stpk-klageafgoerelser",
+      "navn": "Afgørelser fra Styrelsen for Patientklager (stpk.dk)",
+      "type": "dokumentkilde",
+      "ministerium": "min-sundhed-og-kirke",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://www.stpk.dk/afgorelser-og-domme/afgorelser-fra-styrelsen-for-patientklager/",
+        "belaeg": [
+          {
+            "url": "https://www.stpk.dk/afgorelser-og-domme/afgorelser-fra-styrelsen-for-patientklager/",
+            "citat": "Se udvalgte afgørelser af klager over sundhedsfaglige behandlinger"
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML"
+        ],
+        "note": "Søgeside med filtre; dynamisk indlæsning. Samme opbygning på stpk.dk for Det Psykiatriske Ankenævn, Abortnævnet, Abortankenævnet og Ankenævnet for Tilsynsafgørelser (resuméer). Nummersystem ikke fundet.",
+        "belaeg": [
+          {
+            "url": "https://www.stpk.dk/afgorelser-og-domme/afgorelser-fra-styrelsen-for-patientklager/",
+            "citat": "Vælg Kategori Vælg Juridisk tema Vælg Speciale Vælg Faggruppe Vælg Behandlingssted"
+          }
+        ]
+      },
+      "opdatering": {
+        "frekvens": "løbende",
+        "versionshistorik": "ikke angivet",
+        "belaeg": [
+          {
+            "url": "https://www.stpk.dk/afgorelser-og-domme/afgorelser-fra-styrelsen-for-patientklager/",
+            "citat": "Se udvalgte afgørelser af klager over sundhedsfaglige behandlinger"
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 3,
+        "besvaer": 3,
+        "begrundelse": "Udvalgte afgørelser; supplement til årsrapporterne."
+      }
+    },
+    {
+      "id": "kilde-stpk-publikationer",
+      "navn": "Publikationer, årsrapporter og praksissammenfatninger (stpk.dk)",
+      "type": "dokumentkilde",
+      "ministerium": "min-sundhed-og-kirke",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://www.stpk.dk/viden/publikationer/",
+        "belaeg": [
+          {
+            "url": "https://www.stpk.dk/viden/publikationer/",
+            "citat": "Find årsrapporter og andre publikationer nedenfor"
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML",
+          "PDF"
+        ],
+        "note": "Liste over årsrapporter som links; praksissammenfatninger på egen side (stpk.dk/viden/praksissammenfatninger/). Disciplinærnævnets årsberetning er lovpligtig (klagelovens § 16, stk. 2). PDF-format ikke åbnet.",
+        "belaeg": [
+          {
+            "url": "https://www.stpk.dk/viden/publikationer/",
+            "citat": "Årsrapport 2025 Årsrapport 2024 Årsrapport 2023"
+          }
+        ]
+      },
+      "opdatering": {
+        "frekvens": "årligt",
+        "versionshistorik": "årsrapporter 2018 og frem",
+        "belaeg": [
+          {
+            "url": "https://www.stpk.dk/viden/publikationer/",
+            "citat": "Årsrapport 2025 Årsrapport 2024 Årsrapport 2023"
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 2,
+        "besvaer": 3,
+        "begrundelse": "Statistik og narrativ praksis, ikke enkeltsager."
+      }
+    },
+    {
+      "id": "kilde-stps-tilsynsrapporter",
+      "navn": "Tilsynsrapporter (Styrelsen for Patientsikkerhed)",
+      "type": "dokumentkilde",
+      "ministerium": "min-sundhed-og-kirke",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://stps.dk/sundhedsfaglig/tilsyn/tilsynsrapporter",
+        "belaeg": [
+          {
+            "url": "https://stps.dk/sundhedsfaglig/tilsyn/tilsynsrapporter",
+            "citat": "Find tilsynsrapporter for vores årlige tilsyn med behandlingssteder"
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML"
+        ],
+        "note": "Søgbar liste; rapporter slettes efter 3 år, og nyere rapport fra samme behandlingssted erstatter den forrige.",
+        "belaeg": [
+          {
+            "url": "https://stps.dk/sundhedsfaglig/tilsyn/tilsynsrapporter",
+            "citat": "Tilsynsrapporter er offentlige i 3 år"
+          }
+        ]
+      },
+      "opdatering": {
+        "frekvens": "løbende",
+        "versionshistorik": "kun seneste 3 år; ældre slettes",
+        "belaeg": [
+          {
+            "url": "https://stps.dk/sundhedsfaglig/tilsyn/tilsynsrapporter",
+            "citat": "Tilsynsrapporter er offentlige i 3 år"
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 2,
+        "besvaer": 2,
+        "begrundelse": "Rapporter har 3 års levetid; lav korpusværdi, men et tilsynsspor."
+      }
+    }
+  ],
+  "kanter": [
+    {
+      "from": "min-sundhed-og-kirke",
+      "type": "ressortansvar",
+      "to": "sty-sundhedsstyrelsen",
+      "beskrivelse": "Sundhedsstyrelsen er en styrelse under Sundheds- og Kirkeministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.skim.dk/",
+          "citat": "Lægemiddelstyrelsen Sundhedsstyrelsen Styrelsen for Patientsikkerhed Styrelsen for Patientklager Sundhedsdatastyrelsen Statens Serum Institut"
+        }
+      ]
+    },
+    {
+      "from": "min-sundhed-og-kirke",
+      "type": "ressortansvar",
+      "to": "sty-styrelsen-for-patientsikkerhed",
+      "beskrivelse": "Styrelsen for Patientsikkerhed er en styrelse under Sundheds- og Kirkeministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.skim.dk/",
+          "citat": "Lægemiddelstyrelsen Sundhedsstyrelsen Styrelsen for Patientsikkerhed Styrelsen for Patientklager Sundhedsdatastyrelsen Statens Serum Institut"
+        }
+      ]
+    },
+    {
+      "from": "min-sundhed-og-kirke",
+      "type": "ressortansvar",
+      "to": "sty-styrelsen-for-patientklager",
+      "beskrivelse": "Styrelsen for Patientklager er en styrelse under Sundheds- og Kirkeministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.skim.dk/",
+          "citat": "Lægemiddelstyrelsen Sundhedsstyrelsen Styrelsen for Patientsikkerhed Styrelsen for Patientklager Sundhedsdatastyrelsen Statens Serum Institut"
+        }
+      ]
+    },
+    {
+      "from": "min-sundhed-og-kirke",
+      "type": "ressortansvar",
+      "to": "sty-laegemiddelstyrelsen",
+      "beskrivelse": "Lægemiddelstyrelsen er en styrelse under Sundheds- og Kirkeministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.skim.dk/",
+          "citat": "Lægemiddelstyrelsen Sundhedsstyrelsen Styrelsen for Patientsikkerhed Styrelsen for Patientklager Sundhedsdatastyrelsen Statens Serum Institut"
+        }
+      ]
+    },
+    {
+      "from": "min-sundhed-og-kirke",
+      "type": "ressortansvar",
+      "to": "sty-sundhedsdatastyrelsen",
+      "beskrivelse": "Sundhedsdatastyrelsen er en styrelse under Sundheds- og Kirkeministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.skim.dk/",
+          "citat": "Lægemiddelstyrelsen Sundhedsstyrelsen Styrelsen for Patientsikkerhed Styrelsen for Patientklager Sundhedsdatastyrelsen Statens Serum Institut"
+        }
+      ]
+    },
+    {
+      "from": "min-sundhed-og-kirke",
+      "type": "ressortansvar",
+      "to": "sty-statens-serum-institut",
+      "beskrivelse": "SSI er et institut under ministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.ssi.dk/om-ssi",
+          "citat": "Statens Serum Institut (SSI) er et institut under Sundheds- og Kirkeministeriet"
+        }
+      ]
+    },
+    {
+      "from": "min-sundhed-og-kirke",
+      "type": "ressortansvar",
+      "to": "naevn-sundhedsvaesenets-disciplinaernaevn",
+      "beskrivelse": "Nedsættes af sundhedsministeren (lovteksten siger endnu indenrigs- og sundhedsministeren).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+          "citat": "Indenrigs- og sundhedsministeren nedsætter Sundhedsvæsenets Disciplinærnævn, der i sin virksomhed er uafhængigt af instruktioner om den enkelte sags behandling og afgørelse"
+        }
+      ]
+    },
+    {
+      "from": "lov-klage-og-erstatningsloven",
+      "type": "hjemmel_for",
+      "to": "naevn-sundhedsvaesenets-disciplinaernaevn",
+      "beskrivelse": "Oprettelse og kompetence: §§ 2, 2 a, 3, 13-16.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+          "citat": "Indenrigs- og sundhedsministeren nedsætter Sundhedsvæsenets Disciplinærnævn, der i sin virksomhed er uafhængigt af instruktioner om den enkelte sags behandling og afgørelse"
+        }
+      ]
+    },
+    {
+      "from": "min-sundhed-og-kirke",
+      "type": "ressortansvar",
+      "to": "naevn-ankenaevnet-for-patienterstatningen",
+      "beskrivelse": "Nedsættes af sundhedsministeren (lovteksten siger endnu indenrigs- og sundhedsministeren).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+          "citat": "Indenrigs- og sundhedsministeren nedsætter et ankenævn for Patienterstatningen"
+        }
+      ]
+    },
+    {
+      "from": "lov-klage-og-erstatningsloven",
+      "type": "hjemmel_for",
+      "to": "naevn-ankenaevnet-for-patienterstatningen",
+      "beskrivelse": "Oprettelse og kompetence: § 58 a-58 d.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+          "citat": "Indenrigs- og sundhedsministeren nedsætter et ankenævn for Patienterstatningen"
+        }
+      ]
+    },
+    {
+      "from": "min-sundhed-og-kirke",
+      "type": "ressortansvar",
+      "to": "naevn-tvangsbehandlingsnaevnet",
+      "beskrivelse": "Nedsættes af sundhedsministeren (lovteksten siger endnu indenrigs- og sundhedsministeren).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+          "citat": "Indenrigs- og sundhedsministeren nedsætter Tvangsbehandlingsnævnet, der i sin virksomhed er uafhængigt af instruktioner om den enkelte sags behandling og afgørelse"
+        }
+      ]
+    },
+    {
+      "from": "lov-klage-og-erstatningsloven",
+      "type": "hjemmel_for",
+      "to": "naevn-tvangsbehandlingsnaevnet",
+      "beskrivelse": "Oprettelse og kompetence: §§ 4, 16 a-16 d.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+          "citat": "Indenrigs- og sundhedsministeren nedsætter Tvangsbehandlingsnævnet, der i sin virksomhed er uafhængigt af instruktioner om den enkelte sags behandling og afgørelse"
+        }
+      ]
+    },
+    {
+      "from": "min-sundhed-og-kirke",
+      "type": "ressortansvar",
+      "to": "naevn-ankenaevnet-for-tilsynsafgoerelser",
+      "beskrivelse": "Nedsættes af sundhedsministeren (lovteksten siger endnu indenrigs- og sundhedsministeren).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+          "citat": "Indenrigs- og sundhedsministeren nedsætter Ankenævnet for Tilsynsafgørelser, der i sin virksomhed er uafhængigt af instruktioner om den enkelte sags behandling og afgørelse"
+        }
+      ]
+    },
+    {
+      "from": "lov-klage-og-erstatningsloven",
+      "type": "hjemmel_for",
+      "to": "naevn-ankenaevnet-for-tilsynsafgoerelser",
+      "beskrivelse": "Oprettelse og kompetence: § 10 a og § 16 e-16 f.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+          "citat": "Indenrigs- og sundhedsministeren nedsætter Ankenævnet for Tilsynsafgørelser, der i sin virksomhed er uafhængigt af instruktioner om den enkelte sags behandling og afgørelse"
+        }
+      ]
+    },
+    {
+      "from": "lov-klage-og-erstatningsloven",
+      "type": "hjemmel_for",
+      "to": "org-patienterstatningen",
+      "beskrivelse": "§§ 32-33: foreningen Patienterstatningen.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+          "citat": "Patienterstatningen modtager, oplyser og afgør alle erstatningssager efter dette kapitel"
+        }
+      ]
+    },
+    {
+      "from": "min-sundhed-og-kirke",
+      "type": "ressortansvar",
+      "to": "naevn-det-psykiatriske-ankenaevn",
+      "beskrivelse": "Nedsættes af sundhedsministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1045",
+          "citat": "Det Psykiatriske Ankenævn nedsættes af indenrigs- og sundhedsministeren"
+        }
+      ]
+    },
+    {
+      "from": "min-sundhed-og-kirke",
+      "type": "ressortansvar",
+      "to": "naevn-det-psykiatriske-patientklagenaevn",
+      "beskrivelse": "Sekretariat og udgifter ved Styrelsen for Patientklager; ministeren fastsætter forretningsordenen.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1045",
+          "citat": "Indenrigs- og sundhedsministeren fastsætter en forretningsorden for Det Psykiatriske Patientklagenævn ved Styrelsen for Patientklager"
+        }
+      ]
+    },
+    {
+      "from": "min-sundhed-og-kirke",
+      "type": "ressortansvar",
+      "to": "raad-laegemiddelnaevnet",
+      "beskrivelse": "Medlemmer beskikkes af sundhedsministeren (§ 98).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2023/339",
+          "citat": "Medlemmerne af de nævn, der er omtalt i §§ 96 og 97, beskikkes for 4 år ad gangen af Sundhedsministeren efter indstilling fra Lægemiddelstyrelsen"
+        }
+      ]
+    },
+    {
+      "from": "min-sundhed-og-kirke",
+      "type": "ressortansvar",
+      "to": "org-patienterstatningen",
+      "beskrivelse": "Ministeren fastsætter vedtægterne (§ 32, stk. 2).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+          "citat": "Indenrigs- og sundhedsministeren fastsætter vedtægter for foreningens styrelse og virksomhed"
+        }
+      ]
+    },
+    {
+      "from": "min-sundhed-og-kirke",
+      "type": "ressortansvar",
+      "to": "lov-sundhedsloven",
+      "beskrivelse": "Loven hører under sundhedsministeren (lovteksten nævner endnu det gamle ministernavn).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/275",
+          "citat": "Sundhedsstyrelsen er en styrelse under indenrigs- og sundhedsministeren"
+        }
+      ]
+    },
+    {
+      "from": "min-sundhed-og-kirke",
+      "type": "ressortansvar",
+      "to": "lov-autorisation-sundhedspersoner",
+      "beskrivelse": "Loven hører under sundhedsministeren (lovteksten nævner endnu det gamle ministernavn).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1008",
+          "citat": "Indenrigs- og sundhedsministeren kan fastsætte regler om meddelelse af autorisation"
+        }
+      ]
+    },
+    {
+      "from": "min-sundhed-og-kirke",
+      "type": "ressortansvar",
+      "to": "lov-klage-og-erstatningsloven",
+      "beskrivelse": "Loven hører under sundhedsministeren (lovteksten nævner endnu det gamle ministernavn).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+          "citat": "Indenrigs- og sundhedsministeren fastsætter efter forhandling med nævnet dettes forretningsorden"
+        }
+      ]
+    },
+    {
+      "from": "min-sundhed-og-kirke",
+      "type": "ressortansvar",
+      "to": "lov-laegemiddelloven",
+      "beskrivelse": "Loven hører under sundhedsministeren (lovteksten nævner endnu det gamle ministernavn).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2023/339",
+          "citat": "Sundhedsministeren kan fastsætte regler om klage over Lægemiddelstyrelsens afgørelser"
+        }
+      ]
+    },
+    {
+      "from": "min-sundhed-og-kirke",
+      "type": "ressortansvar",
+      "to": "lov-psykiatriloven",
+      "beskrivelse": "Loven hører under sundhedsministeren (lovteksten nævner endnu det gamle ministernavn).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1045",
+          "citat": "Indenrigs- og sundhedsministeren fastsætter en forretningsorden for Det Psykiatriske Patientklagenævn ved Styrelsen for Patientklager"
+        }
+      ]
+    },
+    {
+      "from": "lov-sundhedsloven",
+      "type": "hjemmel_for",
+      "to": "sty-sundhedsstyrelsen",
+      "beskrivelse": "§ 212 opretter Sundhedsstyrelsen som styrelse under ministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/275",
+          "citat": "Sundhedsstyrelsen er en styrelse under indenrigs- og sundhedsministeren, der bistår henholdsvis indenrigs- og sundhedsministeren og ældreministeren med den centrale forvaltning af sundhedsmæssige anliggender"
+        }
+      ]
+    },
+    {
+      "from": "lov-sundhedsloven",
+      "type": "hjemmel_for",
+      "to": "sty-styrelsen-for-patientsikkerhed",
+      "beskrivelse": "§ 213: overordnet tilsyn med sundhedsforholdene og den sundhedsfaglige virksomhed.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/275",
+          "citat": "Styrelsen for Patientsikkerhed fører det overordnede tilsyn med sundhedsforholdene og den sundhedsfaglige virksomhed på sundhedsområdet"
+        }
+      ]
+    },
+    {
+      "from": "lov-autorisation-sundhedspersoner",
+      "type": "hjemmel_for",
+      "to": "sty-styrelsen-for-patientsikkerhed",
+      "beskrivelse": "§ 2: autorisation; § 5: tilsyn med autoriserede sundhedspersoner.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1008",
+          "citat": "Autorisation meddeles af Styrelsen for Patientsikkerhed til personer, der har gennemført en nærmere bestemt uddannelse"
+        }
+      ]
+    },
+    {
+      "from": "lov-klage-og-erstatningsloven",
+      "type": "hjemmel_for",
+      "to": "sty-styrelsen-for-patientklager",
+      "beskrivelse": "§ 1 og § 11: klagebehandling; afgørelser kan ikke indbringes for anden administrativ myndighed.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+          "citat": "Styrelsen for Patientklager er en institution under Indenrigs- og Sundhedsministeriet"
+        }
+      ]
+    },
+    {
+      "from": "lov-psykiatriloven",
+      "type": "hjemmel_for",
+      "to": "naevn-det-psykiatriske-patientklagenaevn",
+      "beskrivelse": "§§ 34-37: oprettelse og klagekompetence.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1045",
+          "citat": "Det Psykiatriske Patientklagenævn ved Styrelsen for Patientklager skal efter anmodning fra patienten eller patientrådgiveren indbringe sine afgørelser"
+        }
+      ]
+    },
+    {
+      "from": "lov-psykiatriloven",
+      "type": "hjemmel_for",
+      "to": "naevn-det-psykiatriske-ankenaevn",
+      "beskrivelse": "§ 38 og § 38 a.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1045",
+          "citat": "Det Psykiatriske Ankenævn nedsættes af indenrigs- og sundhedsministeren"
+        }
+      ]
+    },
+    {
+      "from": "lov-laegemiddelloven",
+      "type": "hjemmel_for",
+      "to": "raad-laegemiddelnaevnet",
+      "beskrivelse": "§§ 96-100.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2023/339",
+          "citat": "Lægemiddelstyrelsen kan i sager, der vedrører lægemidler til mennesker og dyr, rådføre sig med Lægemiddelnævnet om"
+        }
+      ]
+    },
+    {
+      "from": "lov-klage-og-erstatningsloven",
+      "type": "hjemmel_for",
+      "to": "bek-forretningsorden-disciplinaernaevn",
+      "beskrivelse": "Bekendtgørelsens hjemmel.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1496",
+          "citat": "I medfør af § 2, stk. 6, og § 13, stk. 3, i lov om klage- og erstatningsadgang inden for sundhedsvæsenet"
+        }
+      ]
+    },
+    {
+      "from": "bek-forretningsorden-disciplinaernaevn",
+      "type": "hjemmel_for",
+      "to": "naevn-sundhedsvaesenets-disciplinaernaevn",
+      "beskrivelse": "Bekendtgørelsen fastlægger instansens forretningsorden/regler.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1496",
+          "citat": "I medfør af § 2, stk. 6, og § 13, stk. 3, i lov om klage- og erstatningsadgang inden for sundhedsvæsenet"
+        }
+      ]
+    },
+    {
+      "from": "min-sundhed-og-kirke",
+      "type": "ressortansvar",
+      "to": "bek-forretningsorden-disciplinaernaevn",
+      "beskrivelse": "Bekendtgørelse udstedt af sundhedsministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1496",
+          "citat": "I medfør af § 2, stk. 6, og § 13, stk. 3, i lov om klage- og erstatningsadgang inden for sundhedsvæsenet"
+        }
+      ]
+    },
+    {
+      "from": "lov-klage-og-erstatningsloven",
+      "type": "hjemmel_for",
+      "to": "bek-forretningsorden-ankenaevnet-for-patienterstatningen",
+      "beskrivelse": "Bekendtgørelsens hjemmel.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/921",
+          "citat": "I medfør af § 58 a, stk. 8 og 11"
+        }
+      ]
+    },
+    {
+      "from": "bek-forretningsorden-ankenaevnet-for-patienterstatningen",
+      "type": "hjemmel_for",
+      "to": "naevn-ankenaevnet-for-patienterstatningen",
+      "beskrivelse": "Bekendtgørelsen fastlægger instansens forretningsorden/regler.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/921",
+          "citat": "I medfør af § 58 a, stk. 8 og 11"
+        }
+      ]
+    },
+    {
+      "from": "min-sundhed-og-kirke",
+      "type": "ressortansvar",
+      "to": "bek-forretningsorden-ankenaevnet-for-patienterstatningen",
+      "beskrivelse": "Bekendtgørelse udstedt af sundhedsministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/921",
+          "citat": "I medfør af § 58 a, stk. 8 og 11"
+        }
+      ]
+    },
+    {
+      "from": "lov-klage-og-erstatningsloven",
+      "type": "hjemmel_for",
+      "to": "bek-forretningsorden-tvangsbehandlingsnaevnet",
+      "beskrivelse": "Bekendtgørelsens hjemmel.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2018/979",
+          "citat": "I medfør af § 16 a, stk. 3, i lov om klage- og erstatningsadgang inden for sundhedsvæsenet"
+        }
+      ]
+    },
+    {
+      "from": "bek-forretningsorden-tvangsbehandlingsnaevnet",
+      "type": "hjemmel_for",
+      "to": "naevn-tvangsbehandlingsnaevnet",
+      "beskrivelse": "Bekendtgørelsen fastlægger instansens forretningsorden/regler.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2018/979",
+          "citat": "I medfør af § 16 a, stk. 3, i lov om klage- og erstatningsadgang inden for sundhedsvæsenet"
+        }
+      ]
+    },
+    {
+      "from": "min-sundhed-og-kirke",
+      "type": "ressortansvar",
+      "to": "bek-forretningsorden-tvangsbehandlingsnaevnet",
+      "beskrivelse": "Bekendtgørelse udstedt af sundhedsministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2018/979",
+          "citat": "I medfør af § 16 a, stk. 3, i lov om klage- og erstatningsadgang inden for sundhedsvæsenet"
+        }
+      ]
+    },
+    {
+      "from": "lov-psykiatriloven",
+      "type": "hjemmel_for",
+      "to": "bek-forretningsorden-psykiatriske-patientklagenaevn",
+      "beskrivelse": "Bekendtgørelsens hjemmel.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2023/171",
+          "citat": "I medfør af § 36, stk. 4, i lov om anvendelse af tvang i psykiatrien m.v."
+        }
+      ]
+    },
+    {
+      "from": "bek-forretningsorden-psykiatriske-patientklagenaevn",
+      "type": "hjemmel_for",
+      "to": "naevn-det-psykiatriske-patientklagenaevn",
+      "beskrivelse": "Bekendtgørelsen fastlægger instansens forretningsorden/regler.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2023/171",
+          "citat": "I medfør af § 36, stk. 4, i lov om anvendelse af tvang i psykiatrien m.v."
+        }
+      ]
+    },
+    {
+      "from": "min-sundhed-og-kirke",
+      "type": "ressortansvar",
+      "to": "bek-forretningsorden-psykiatriske-patientklagenaevn",
+      "beskrivelse": "Bekendtgørelse udstedt af sundhedsministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2023/171",
+          "citat": "I medfør af § 36, stk. 4, i lov om anvendelse af tvang i psykiatrien m.v."
+        }
+      ]
+    },
+    {
+      "from": "lov-psykiatriloven",
+      "type": "hjemmel_for",
+      "to": "bek-forretningsorden-psykiatriske-ankenaevn",
+      "beskrivelse": "Bekendtgørelsens hjemmel.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2019/1076",
+          "citat": "I medfør af § 38 a, stk. 4, i lov om anvendelse af tvang i psykiatrien m.v."
+        }
+      ]
+    },
+    {
+      "from": "bek-forretningsorden-psykiatriske-ankenaevn",
+      "type": "hjemmel_for",
+      "to": "naevn-det-psykiatriske-ankenaevn",
+      "beskrivelse": "Bekendtgørelsen fastlægger instansens forretningsorden/regler.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2019/1076",
+          "citat": "I medfør af § 38 a, stk. 4, i lov om anvendelse af tvang i psykiatrien m.v."
+        }
+      ]
+    },
+    {
+      "from": "min-sundhed-og-kirke",
+      "type": "ressortansvar",
+      "to": "bek-forretningsorden-psykiatriske-ankenaevn",
+      "beskrivelse": "Bekendtgørelse udstedt af sundhedsministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2019/1076",
+          "citat": "I medfør af § 38 a, stk. 4, i lov om anvendelse af tvang i psykiatrien m.v."
+        }
+      ]
+    },
+    {
+      "from": "lov-klage-og-erstatningsloven",
+      "type": "hjemmel_for",
+      "to": "bek-vedtaegter-patienterstatningen",
+      "beskrivelse": "Bekendtgørelsens hjemmel.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1724",
+          "citat": "I medfør af § 32, stk. 1 og 2, i lov om klage- og erstatningsadgang inden for sundhedsvæsenet"
+        }
+      ]
+    },
+    {
+      "from": "bek-vedtaegter-patienterstatningen",
+      "type": "hjemmel_for",
+      "to": "org-patienterstatningen",
+      "beskrivelse": "Bekendtgørelsen fastlægger instansens forretningsorden/regler.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1724",
+          "citat": "I medfør af § 32, stk. 1 og 2, i lov om klage- og erstatningsadgang inden for sundhedsvæsenet"
+        }
+      ]
+    },
+    {
+      "from": "min-sundhed-og-kirke",
+      "type": "ressortansvar",
+      "to": "bek-vedtaegter-patienterstatningen",
+      "beskrivelse": "Bekendtgørelse udstedt af sundhedsministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1724",
+          "citat": "I medfør af § 32, stk. 1 og 2, i lov om klage- og erstatningsadgang inden for sundhedsvæsenet"
+        }
+      ]
+    },
+    {
+      "from": "lov-laegemiddelloven",
+      "type": "hjemmel_for",
+      "to": "bek-forretningsorden-laegemiddelnaevnet",
+      "beskrivelse": "Bekendtgørelsens hjemmel.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2013/1214",
+          "citat": "I medfør af § 99 i lov om lægemidler"
+        }
+      ]
+    },
+    {
+      "from": "bek-forretningsorden-laegemiddelnaevnet",
+      "type": "hjemmel_for",
+      "to": "raad-laegemiddelnaevnet",
+      "beskrivelse": "Bekendtgørelsen fastlægger instansens forretningsorden/regler.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2013/1214",
+          "citat": "I medfør af § 99 i lov om lægemidler"
+        }
+      ]
+    },
+    {
+      "from": "min-sundhed-og-kirke",
+      "type": "ressortansvar",
+      "to": "bek-forretningsorden-laegemiddelnaevnet",
+      "beskrivelse": "Bekendtgørelse udstedt af sundhedsministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2013/1214",
+          "citat": "I medfør af § 99 i lov om lægemidler"
+        }
+      ]
+    },
+    {
+      "from": "lov-klage-og-erstatningsloven",
+      "type": "hjemmel_for",
+      "to": "bek-patientklager-screening-af-klager",
+      "beskrivelse": "Bekendtgørelsens hjemmel.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1486",
+          "citat": "I medfør af § 1, stk. 10, § 2, stk. 5, og § 12, stk. 5, i lov om klage og erstatningsadgang inden for sundhedsvæsenet"
+        }
+      ]
+    },
+    {
+      "from": "bek-patientklager-screening-af-klager",
+      "type": "hjemmel_for",
+      "to": "sty-styrelsen-for-patientklager",
+      "beskrivelse": "Bekendtgørelsen fastlægger instansens forretningsorden/regler.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1486",
+          "citat": "I medfør af § 1, stk. 10, § 2, stk. 5, og § 12, stk. 5, i lov om klage og erstatningsadgang inden for sundhedsvæsenet"
+        }
+      ]
+    },
+    {
+      "from": "min-sundhed-og-kirke",
+      "type": "ressortansvar",
+      "to": "bek-patientklager-screening-af-klager",
+      "beskrivelse": "Bekendtgørelse udstedt af sundhedsministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1486",
+          "citat": "I medfør af § 1, stk. 10, § 2, stk. 5, og § 12, stk. 5, i lov om klage og erstatningsadgang inden for sundhedsvæsenet"
+        }
+      ]
+    },
+    {
+      "from": "lov-klage-og-erstatningsloven",
+      "type": "hjemmel_for",
+      "to": "bek-ikke-autoriserede-persongrupper-disciplinaernaevn",
+      "beskrivelse": "Bekendtgørelsens hjemmel.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1663",
+          "citat": "I medfør af § 2, stk. 2, i lov om klage- og erstatningsadgang inden for sundhedsvæsenet"
+        }
+      ]
+    },
+    {
+      "from": "bek-ikke-autoriserede-persongrupper-disciplinaernaevn",
+      "type": "hjemmel_for",
+      "to": "naevn-sundhedsvaesenets-disciplinaernaevn",
+      "beskrivelse": "Bekendtgørelsen fastlægger instansens forretningsorden/regler.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1663",
+          "citat": "I medfør af § 2, stk. 2, i lov om klage- og erstatningsadgang inden for sundhedsvæsenet"
+        }
+      ]
+    },
+    {
+      "from": "min-sundhed-og-kirke",
+      "type": "ressortansvar",
+      "to": "bek-ikke-autoriserede-persongrupper-disciplinaernaevn",
+      "beskrivelse": "Bekendtgørelse udstedt af sundhedsministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1663",
+          "citat": "I medfør af § 2, stk. 2, i lov om klage- og erstatningsadgang inden for sundhedsvæsenet"
+        }
+      ]
+    },
+    {
+      "from": "naevn-ankenaevnet-for-patienterstatningen",
+      "type": "klageinstans",
+      "to": "org-patienterstatningen",
+      "beskrivelse": "Klagelovens § 58 b: klage inden 1 måned; ankenævnet træffer den endelige administrative afgørelse; § 58 d: kan indbringes for retten inden 6 måneder.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+          "citat": "De afgørelser, der træffes efter §§ 33 og 55, kan indbringes for Ankenævnet for Patienterstatningen, der træffer den endelige administrative afgørelse"
+        }
+      ]
+    },
+    {
+      "from": "naevn-ankenaevnet-for-tilsynsafgoerelser",
+      "type": "klageinstans",
+      "to": "sty-styrelsen-for-patientsikkerhed",
+      "beskrivelse": "Klagelovens § 10 a: klager over afgørelser efter autorisationslovens § 9, § 9 b, stk. 1, og § 10 c, stk. 1; endelig administrativt (§ 16 e, stk. 2).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+          "citat": "Ankenævnet for Tilsynsafgørelser, jf. § 16 e, behandler klager over Styrelsen for Patientsikkerheds afgørelser efter § 9, § 9 b, stk. 1, og § 10 c, stk. 1"
+        }
+      ]
+    },
+    {
+      "from": "sty-styrelsen-for-patientklager",
+      "type": "klageinstans",
+      "to": "kommune-alle",
+      "beskrivelse": "Klagelovens § 5: kommunalbestyrelsens afgørelser (sundhedskort, lægevalg, tandpleje m.v.) kan påklages til Styrelsen for Patientklager inden 4 uger (§ 10); endelig administrativt (§ 11, stk. 3).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+          "citat": "Kommunalbestyrelsens afgørelser m.v. kan påklages til Styrelsen for Patientklager, når de vedrører"
+        }
+      ]
+    },
+    {
+      "from": "sty-styrelsen-for-patientklager",
+      "type": "klageinstans",
+      "to": "region-alle",
+      "beskrivelse": "Klagelovens § 6: regionsrådets afgørelser (tolkebistand, praksissektor, sygehusbehandling, ventetider m.v.) kan påklages til Styrelsen for Patientklager inden 4 uger; endelig administrativt.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+          "citat": "Regionsrådets afgørelser m.v. kan påklages til Styrelsen for Patientklager, når de vedrører"
+        }
+      ]
+    },
+    {
+      "from": "sty-styrelsen-for-patientklager",
+      "type": "klageinstans",
+      "to": "sty-sundhedsstyrelsen",
+      "beskrivelse": "Klagelovens § 7: Sundhedsstyrelsens afgørelser efter sundhedslovens § 88 kan påklages til Styrelsen for Patientklager.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+          "citat": "Sundhedsstyrelsens afgørelser m.v. efter § 88 i sundhedsloven eller regler fastsat i medfør heraf kan påklages til Styrelsen for Patientklager"
+        }
+      ]
+    },
+    {
+      "from": "naevn-det-psykiatriske-ankenaevn",
+      "type": "klageinstans",
+      "to": "naevn-det-psykiatriske-patientklagenaevn",
+      "beskrivelse": "Psykiatrilovens § 38: klage inden 3 måneder; ankenævnets afgørelser kan ikke indbringes for anden administrativ myndighed.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1045",
+          "citat": "Klage til Det Psykiatriske Ankenævn skal indgives, senest 3 måneder efter at klageren har fået meddelelse om Det Psykiatriske Patientklagenævns afgørelse"
+        }
+      ]
+    },
+    {
+      "from": "sty-styrelsen-for-patientklager",
+      "type": "udsteder",
+      "to": "kilde-stpk-klageafgoerelser",
+      "beskrivelse": "Styrelsen driver afgørelsessiden.",
+      "belaeg": [
+        {
+          "url": "https://www.stpk.dk/afgorelser-og-domme/afgorelser-fra-styrelsen-for-patientklager/",
+          "citat": "Se udvalgte afgørelser af klager over sundhedsfaglige behandlinger"
+        }
+      ]
+    },
+    {
+      "from": "naevn-sundhedsvaesenets-disciplinaernaevn",
+      "type": "udsteder",
+      "to": "kilde-stpk-disciplinaernaevn-afgoerelser",
+      "beskrivelse": "Afgørelser offentliggøres via Styrelsen for Patientklagers hjemmeside.",
+      "belaeg": [
+        {
+          "url": "https://www.stpk.dk/afgorelser-og-domme/afgorelser-fra-sundhedsvaesenets-disciplinaernaevn/",
+          "citat": "Se udvalgte afgørelser af klager over konkrete sundhedspersoner"
+        }
+      ]
+    },
+    {
+      "from": "naevn-ankenaevnet-for-patienterstatningen",
+      "type": "udsteder",
+      "to": "kilde-stpk-erstatningsdomme",
+      "beskrivelse": "Siden samler domme fra erstatningsområdet under nævnets menupunkt.",
+      "belaeg": [
+        {
+          "url": "https://www.stpk.dk/afgorelser-og-domme/domme-fra-erstatningsomradet/",
+          "citat": "Se domme fra erstatningsområdet"
+        }
+      ]
+    },
+    {
+      "from": "sty-styrelsen-for-patientklager",
+      "type": "udsteder",
+      "to": "kilde-stpk-publikationer",
+      "beskrivelse": "Årsrapporter og praksissammenfatninger.",
+      "belaeg": [
+        {
+          "url": "https://www.stpk.dk/viden/publikationer/",
+          "citat": "Find årsrapporter og andre publikationer nedenfor"
+        }
+      ]
+    },
+    {
+      "from": "sty-styrelsen-for-patientsikkerhed",
+      "type": "udsteder",
+      "to": "kilde-stps-tilsynsrapporter",
+      "beskrivelse": "Rapporter fra de årlige tilsyn.",
+      "belaeg": [
+        {
+          "url": "https://stps.dk/sundhedsfaglig/tilsyn/tilsynsrapporter",
+          "citat": "Find tilsynsrapporter for vores årlige tilsyn med behandlingssteder"
+        }
+      ]
+    },
+    {
+      "from": "sty-styrelsen-for-patientsikkerhed",
+      "type": "tilsyn",
+      "to": "region-alle",
+      "beskrivelse": "Sundhedslovens § 213: tilsyn med behandlingssteder (sygehuse m.v.).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/275",
+          "citat": "Styrelsen for Patientsikkerhed gennemfører løbende tilsyn med udvalgte behandlingssteder"
+        }
+      ]
+    },
+    {
+      "from": "sty-styrelsen-for-patientsikkerhed",
+      "type": "tilsyn",
+      "to": "kommune-alle",
+      "beskrivelse": "Sundhedslovens § 220: tilsyn med sundhedsforhold på dag- og døgninstitutioner.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/275",
+          "citat": "Styrelsen for Patientsikkerhed fører tilsyn med de sundhedsmæssige forhold på dag- og døgninstitutioner"
+        }
+      ]
+    }
+  ],
+  "huller": [
+    {
+      "emne": "Klagevej over Lægemiddelstyrelsens afgørelser",
+      "type": "uklart",
+      "beskrivelse": "Lægemiddellovens § 103 c giver kun ministeren hjemmel til at fastsætte klageregler; hvilke klageregler der er udstedt og hvem klageinstansen er, er ikke undersøgt.",
+      "noder": [
+        "sty-laegemiddelstyrelsen",
+        "lov-laegemiddelloven"
+      ],
+      "kilder": [
+        "https://www.retsinformation.dk/eli/lta/2023/339"
+      ]
+    },
+    {
+      "emne": "Aktuel lovbekendtgørelse af sundhedsloven",
+      "type": "uklart",
+      "beskrivelse": "LBK 275/2025 er markeret Historic i Retsinformations XML; en nyere lovbekendtgørelse er ikke fundet. Lægemiddelloven (LBK 339/2023) er Valid men gammel, og klagelovens 2025-ændringer er indarbejdet i LBK 1250/2025.",
+      "noder": [
+        "lov-sundhedsloven"
+      ],
+      "kilder": [
+        "https://www.retsinformation.dk/eli/lta/2025/275"
+      ]
+    },
+    {
+      "emne": "Forretningsorden for Ankenævnet for Tilsynsafgørelser",
+      "type": "ikke-fundet",
+      "beskrivelse": "Ingen bekendtgørelse om forretningsorden for nævnet fundet i det lokale katalog (til 12/2/2026); lov nævner kompetencen i klagelovens § 16 e, stk. 3.",
+      "noder": [
+        "naevn-ankenaevnet-for-tilsynsafgoerelser"
+      ],
+      "kilder": [
+        "https://www.retsinformation.dk/eli/lta/2025/1250"
+      ]
+    },
+    {
+      "emne": "Sundhedsstyrelsens vejledninger og Styrelsen for Patientsikkerheds sundhedsfaglige vejledninger",
+      "type": "ikke-fundet",
+      "beskrivelse": "Antaget udgivet som VEJ på Retsinformation, men ikke efterprøvet (sst.dk svarede 429). Ingen vejl-noder oprettet.",
+      "noder": [
+        "sty-sundhedsstyrelsen",
+        "sty-styrelsen-for-patientsikkerhed"
+      ],
+      "kilder": [
+        "https://stps.dk/da/om-os/"
+      ]
+    },
+    {
+      "emne": "Nummersystem og bulkadgang for stpk.dk-afgørelser",
+      "type": "ingen-api",
+      "beskrivelse": "Afgørelsessiderne indlæser resultater dynamisk; hverken afgørelsesnumre, antal, startår, genbrugsvilkår eller API er fundet.",
+      "noder": [
+        "kilde-stpk-disciplinaernaevn-afgoerelser",
+        "kilde-stpk-klageafgoerelser",
+        "kilde-stpk-erstatningsdomme"
+      ],
+      "kilder": [
+        "https://www.stpk.dk/afgorelser-og-domme/afgorelser-fra-sundhedsvaesenets-disciplinaernaevn/"
+      ]
+    },
+    {
+      "emne": "Ankenævnet for Patienterstatningens egne afgørelser og Patienterstatningens praksis",
+      "type": "ikke-fundet",
+      "beskrivelse": "Kun domme er fundet på stpk.dk; ankenævnets afgørelser og Patienterstatningens praksissamling er ikke lokaliseret.",
+      "noder": [
+        "naevn-ankenaevnet-for-patienterstatningen",
+        "org-patienterstatningen"
+      ],
+      "kilder": [
+        "https://www.stpk.dk/afgorelser-og-domme/domme-fra-erstatningsomradet/"
+      ]
+    },
+    {
+      "emne": "Ministeriebelæg for Sundhedsstyrelsen, Patientklager og Sundhedsdatastyrelsen",
+      "type": "uklart",
+      "beskrivelse": "Egne om-os-sider kunne ikke læses (429/ingen tekst); ministeriet er kun belagt via en linkliste på skim.dk. Ingen omdøbning eller fusion fundet i 2025-2026 for nogen af de seks institutioner.",
+      "noder": [
+        "sty-sundhedsstyrelsen",
+        "sty-styrelsen-for-patientklager",
+        "sty-sundhedsdatastyrelsen"
+      ],
+      "kilder": [
+        "https://www.skim.dk/"
+      ]
+    }
+  ],
+  "noter": "Audit-spor rettet: (1) Lægemiddelnævnet er rådgivende for Lægemiddelstyrelsen (lægemiddelloven § 96), ikke klageinstans. (2) BEK 1496/2024 er forretningsorden for Disciplinærnævnet, ikke for Styrelsen for Patientklager. (3) Ankenævnet for Tilsynsafgørelser (klagelovens § 10 a, § 16 e) fandtes ikke i sporet. (4) Tvangsbehandlingsnævnet og Det Psykiatriske Patientklagenævn findes stadig; BEK 171/2023 siger \"ved Nævnenes Hus\" mod lovens \"ved Styrelsen for Patientklager\". Ministeriet hedder Sundheds- og Kirkeministeriet (skim.dk, ism.dk redirecter dertil); lovtekster fra 2024-2025 siger Indenrigs- og Sundhedsministeriet. Ikke dækket: Abortnævnet, Abortankenævnet, Ankenævnet for Besøgsrestriktioner, Retslægerådet, sundhedsreformens nye regionale organer, tvangsloven for varigt inhabile (LBK 126/2019). Id lov-autorisationsloven er optaget af el/vvs-loven; sundhedsloven om autorisation hedder lov-autorisation-sundhedspersoner. Eksisterende noder min-sundhed-og-kirke: ingen rettelser. Lovtidende-numre for lov/bek læst fra Retsinformations XML. [Orkestrator 2026-11-11: tre kanter fjernet. Disciplinærnævnet behandler sager, som Styrelsen for Patientsikkerhed og Lægemiddelstyrelsen indbringer (klagelovens § 2 a); det er ikke klage over styrelsernes afgørelser, så klageinstans-kanterne var forkert typet. henviser_til mellem to styrelser er ikke en dokumenthenvisning.]"
+}

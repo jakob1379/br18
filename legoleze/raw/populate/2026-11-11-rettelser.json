@@ -1,0 +1,8 @@
+{
+  "omraade": "tvaergaaende",
+  "rettelser": [
+    {"id": "min-sundhed-og-kirke", "felt": "url", "vaerdi": "https://www.skim.dk/",
+     "belaeg": [{"url": "https://www.skim.dk/", "citat": "tiltrådte som sundhedsminister og kirkeminister den 3. juni 2026. Læs mere om ministeren Sundheds- og Kirkeministeriet"}]}
+  ],
+  "noter": "Orkestratorens egne rettelser til eksisterende noder. Sundheds- og Kirkeministeriets side er flyttet til skim.dk (ism.dk viderestiller dertil); registry'et havde sum.dk."
+}

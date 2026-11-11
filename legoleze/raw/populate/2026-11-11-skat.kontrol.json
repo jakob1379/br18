@@ -1,0 +1,2035 @@
+[
+ {
+  "hvor": "sty-skatteforvaltningen.tidligere_navne[Told- og skatteforvaltningen]",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-skatteforvaltningen.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-skatteforvaltningen.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://skatteforvaltningen.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-skattestyrelsen.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-skattestyrelsen.url",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://skatteforvaltningen.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-toldstyrelsen.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-toldstyrelsen.url",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://skatteforvaltningen.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-gaeldsstyrelsen.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-gaeldsstyrelsen.url",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://skatteforvaltningen.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-motorstyrelsen.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-motorstyrelsen.url",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://skatteforvaltningen.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-udviklings-og-forenklingsstyrelsen.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-udviklings-og-forenklingsstyrelsen.url",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://skatteforvaltningen.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-administrations-og-servicestyrelsen.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-administrations-og-servicestyrelsen.url",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://skatteforvaltningen.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-skatteankestyrelsen.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2021/2372",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-skatteankestyrelsen.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/967",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-skatteankestyrelsen.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://skatteankestyrelsen.dk/om-os",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-spillemyndigheden.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1182",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1182",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-spillemyndigheden.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.spillemyndigheden.dk/afgoerelser-og-domme",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-spillemyndigheden.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://spillemyndigheden.dk",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "raad-skatteraadet.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "raad-skatteraadet.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://skatteforvaltningen.dk/skatteraadet",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "raad-skatteraadet.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://skatteforvaltningen.dk/skatteraadet",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-landsskatteretten.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-landsskatteretten.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://skatteankestyrelsen.dk/footer-sider/afgoerelser",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-landsskatteretten.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://skatteankestyrelsen.dk/om-os/landsskatteretten",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-skatteankenaevn.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-skatteankenaevn.url",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://skatteankestyrelsen.dk/om-os/ankenaevn",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-vurderingsankenaevn.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-vurderingsankenaevn.url",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://skatteankestyrelsen.dk/om-os/ankenaevn",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-motorankenaevn.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-motorankenaevn.url",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://skatteankestyrelsen.dk/om-os/ankenaevn",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "tilsyn-it-tilsynet.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2020/2187",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2020/2187",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "lov-skatteforvaltningsloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af skatteforvaltningsloven",
+   "Year": "2025",
+   "DiesSigni": "2025-10-13",
+   "Status": "Valid",
+   "Number": "1228",
+   "PopularTitle": "Skatteforvaltningsloven"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-skatteforvaltningsloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af skatteforvaltningsloven",
+   "Year": "2025",
+   "DiesSigni": "2025-10-13",
+   "Status": "Valid",
+   "Number": "1228",
+   "PopularTitle": "Skatteforvaltningsloven"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-skatteforvaltningsloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af skatteforvaltningsloven",
+   "Year": "2025",
+   "DiesSigni": "2025-10-13",
+   "Status": "Valid",
+   "Number": "1228",
+   "PopularTitle": "Skatteforvaltningsloven"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2025/1228",
+   "lovtidende": "LBK nr. 1228 af 13/10/2025"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-spilleloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af lov om spil",
+   "Year": "2025",
+   "DiesSigni": "2025-09-22",
+   "Status": "Valid",
+   "Number": "1182",
+   "PopularTitle": "Spilleloven"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-spilleloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af lov om spil",
+   "Year": "2025",
+   "DiesSigni": "2025-09-22",
+   "Status": "Valid",
+   "Number": "1182",
+   "PopularTitle": "Spilleloven"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-spilleloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af lov om spil",
+   "Year": "2025",
+   "DiesSigni": "2025-09-22",
+   "Status": "Valid",
+   "Number": "1182",
+   "PopularTitle": "Spilleloven"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2025/1182",
+   "lovtidende": "LBK nr. 1182 af 22/09/2025"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-it-tilsynsloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LOV H#LOKDOK 01",
+   "DocumentTitle": "Lov om Tilsynet med told- og skatteforvaltningens it-område",
+   "Year": "2020",
+   "DiesSigni": "2020-12-29",
+   "Status": "Valid",
+   "Number": "2187",
+   "PopularTitle": "Skatteforvaltnings-it-tilsynsloven "
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-it-tilsynsloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LOV H#LOKDOK 01",
+   "DocumentTitle": "Lov om Tilsynet med told- og skatteforvaltningens it-område",
+   "Year": "2020",
+   "DiesSigni": "2020-12-29",
+   "Status": "Valid",
+   "Number": "2187",
+   "PopularTitle": "Skatteforvaltnings-it-tilsynsloven "
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-it-tilsynsloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LOV H#LOKDOK 01",
+   "DocumentTitle": "Lov om Tilsynet med told- og skatteforvaltningens it-område",
+   "Year": "2020",
+   "DiesSigni": "2020-12-29",
+   "Status": "Valid",
+   "Number": "2187",
+   "PopularTitle": "Skatteforvaltnings-it-tilsynsloven "
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2020/2187",
+   "lovtidende": "LOV nr. 2187 af 29/12/2020"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-skatteforvaltningens-opgaver.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-skatteforvaltningens-opgaver.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "DocumentTitle": "Bekendtgørelse om varetagelsen af told- og skatteforvaltningens opgaver",
+   "Year": "2018",
+   "DiesSigni": "2018-06-20",
+   "Status": "Valid",
+   "Number": "804"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-skatteforvaltningens-opgaver.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "DocumentTitle": "Bekendtgørelse om varetagelsen af told- og skatteforvaltningens opgaver",
+   "Year": "2018",
+   "DiesSigni": "2018-06-20",
+   "Status": "Valid",
+   "Number": "804"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2018/804",
+   "lovtidende": "BEK nr. 804 af 20/06/2018"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-skatteankestyrelsen.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2021/2372",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-skatteankestyrelsen.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "DocumentTitle": "Bekendtgørelse om Skatteankestyrelsen",
+   "Year": "2021",
+   "DiesSigni": "2021-12-10",
+   "Status": "Valid",
+   "Number": "2372"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-skatteankestyrelsen.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "DocumentTitle": "Bekendtgørelse om Skatteankestyrelsen",
+   "Year": "2021",
+   "DiesSigni": "2021-12-10",
+   "Status": "Valid",
+   "Number": "2372"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2021/2372",
+   "lovtidende": "BEK nr. 2372 af 10/12/2021"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-skatteankestyrelsen-visse-klager.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/967",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-skatteankestyrelsen-visse-klager.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "DocumentTitle": "Bekendtgørelse om afgørelse af visse klager i Skatteankestyrelsen",
+   "Year": "2023",
+   "DiesSigni": "2023-06-28",
+   "Status": "Valid",
+   "Number": "967"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-skatteankestyrelsen-visse-klager.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "DocumentTitle": "Bekendtgørelse om afgørelse af visse klager i Skatteankestyrelsen",
+   "Year": "2023",
+   "DiesSigni": "2023-06-28",
+   "Status": "Valid",
+   "Number": "967"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2023/967",
+   "lovtidende": "BEK nr. 967 af 28/06/2023"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-skatteraadet-forretningsorden.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-skatteraadet-forretningsorden.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "Bekendtgørelse",
+   "DocumentTitle": "Bekendtgørelse af forretningsorden for Skatterådet",
+   "Year": "2005",
+   "DiesSigni": "2005-10-25",
+   "Status": "Valid",
+   "Number": "1035"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-skatteraadet-forretningsorden.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "Bekendtgørelse",
+   "DocumentTitle": "Bekendtgørelse af forretningsorden for Skatterådet",
+   "Year": "2005",
+   "DiesSigni": "2005-10-25",
+   "Status": "Valid",
+   "Number": "1035"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2005/1035",
+   "lovtidende": "BEK nr. 1035 af 25/10/2005"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-landsskatteretten-forretningsorden.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2021/2373",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-landsskatteretten-forretningsorden.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "DocumentTitle": "Bekendtgørelse om forretningsorden for Landsskatteretten",
+   "Year": "2021",
+   "DiesSigni": "2021-12-10",
+   "Status": "Valid",
+   "Number": "2373"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-landsskatteretten-forretningsorden.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "DocumentTitle": "Bekendtgørelse om forretningsorden for Landsskatteretten",
+   "Year": "2021",
+   "DiesSigni": "2021-12-10",
+   "Status": "Valid",
+   "Number": "2373"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2021/2373",
+   "lovtidende": "BEK nr. 2373 af 10/12/2021"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-skatteankenaevn-forretningsorden.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2022/1041",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-skatteankenaevn-forretningsorden.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "DocumentTitle": "Bekendtgørelse om forretningsorden for skatteankenævn",
+   "Year": "2022",
+   "DiesSigni": "2022-06-22",
+   "Status": "Valid",
+   "Number": "1041"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-skatteankenaevn-forretningsorden.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "DocumentTitle": "Bekendtgørelse om forretningsorden for skatteankenævn",
+   "Year": "2022",
+   "DiesSigni": "2022-06-22",
+   "Status": "Valid",
+   "Number": "1041"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2022/1041",
+   "lovtidende": "BEK nr. 1041 af 22/06/2022"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-vurderingsankenaevn-forretningsorden.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2021/2289",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-vurderingsankenaevn-forretningsorden.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "DocumentTitle": "Bekendtgørelse om forretningsorden for vurderingsankenævn",
+   "Year": "2021",
+   "DiesSigni": "2021-12-03",
+   "Status": "Valid",
+   "Number": "2289"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-vurderingsankenaevn-forretningsorden.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "DocumentTitle": "Bekendtgørelse om forretningsorden for vurderingsankenævn",
+   "Year": "2021",
+   "DiesSigni": "2021-12-03",
+   "Status": "Valid",
+   "Number": "2289"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2021/2289",
+   "lovtidende": "BEK nr. 2289 af 03/12/2021"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-motorankenaevn-forretningsorden.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2022/1043",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-motorankenaevn-forretningsorden.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "DocumentTitle": "Bekendtgørelse om forretningsorden for motorankenævn",
+   "Year": "2022",
+   "DiesSigni": "2022-06-22",
+   "Status": "Valid",
+   "Number": "1043"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-motorankenaevn-forretningsorden.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "DocumentTitle": "Bekendtgørelse om forretningsorden for motorankenævn",
+   "Year": "2022",
+   "DiesSigni": "2022-06-22",
+   "Status": "Valid",
+   "Number": "1043"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2022/1043",
+   "lovtidende": "BEK nr. 1043 af 22/06/2022"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-spillemyndigheden.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2011/1121",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-spillemyndigheden.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "DocumentTitle": "Bekendtgørelse om spillemyndigheden",
+   "Year": "2011",
+   "DiesSigni": "2011-12-01",
+   "Status": "Valid",
+   "Number": "1121"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-spillemyndigheden.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "DocumentTitle": "Bekendtgørelse om spillemyndigheden",
+   "Year": "2011",
+   "DiesSigni": "2011-12-01",
+   "Status": "Valid",
+   "Number": "1121"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2011/1121",
+   "lovtidende": "BEK nr. 1121 af 01/12/2011"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "kilde-juridisk-vejledning.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://info.skat.dk/data.aspx?oid=80437",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-juridisk-vejledning.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://info.skat.dk/data.aspx?oid=124",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-juridisk-vejledning.adgang",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://info.skat.dk/data.aspx?oid=1898626",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-juridisk-vejledning.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://info.skat.dk/data.aspx?oid=1898626",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-juridisk-vejledning.opdatering",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://info.skat.dk/data.aspx?oid=80436",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://info.skat.dk/data.aspx?oid=1898477",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-skm-databasen.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://info.skat.dk/data.aspx?oid=16010",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-skm-databasen.adgang",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://info.skat.dk/data.aspx?oid=16010",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-skm-databasen.identifikatorer",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://info.skat.dk/data.aspx?oid=16010",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-skm-databasen.opdatering",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://info.skat.dk/data.aspx?oid=80436",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-afgoerelsesdatabasen.url",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://skatteankestyrelsen.dk/footer-sider/afgoerelser",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-spillemyndigheden-afgoerelser.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.spillemyndigheden.dk/afgoerelser-og-domme",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-spillemyndigheden-afgoerelser.adgang",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.spillemyndigheden.dk/afgoerelser-og-domme",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|sty-skatteforvaltningen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://skatteforvaltningen.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|sty-skattestyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://svmn.dk/ministeriet",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|sty-toldstyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://svmn.dk/ministeriet",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|sty-gaeldsstyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://svmn.dk/ministeriet",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|sty-motorstyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://svmn.dk/ministeriet",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|sty-udviklings-og-forenklingsstyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://svmn.dk/ministeriet",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|sty-administrations-og-servicestyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://svmn.dk/ministeriet",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|sty-skatteankestyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://info.skat.dk/data.aspx?oid=80433",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|sty-spillemyndigheden",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://info.skat.dk/data.aspx?oid=80433",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|raad-skatteraadet",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|naevn-landsskatteretten",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://info.skat.dk/data.aspx?oid=80433",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|naevn-skatteankenaevn",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|naevn-vurderingsankenaevn",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|naevn-motorankenaevn",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|tilsyn-it-tilsynet",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://svmn.dk/ministeriet",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|lov-skatteforvaltningsloven",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|lov-spilleloven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1182",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|lov-it-tilsynsloven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2020/2187",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-skatteforvaltningens-opgaver|hjemmel_for|sty-skatteforvaltningen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-skatteforvaltningens-opgaver|hjemmel_for|sty-skattestyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-skatteforvaltningens-opgaver|hjemmel_for|sty-toldstyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-skatteforvaltningens-opgaver|hjemmel_for|sty-gaeldsstyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-skatteforvaltningens-opgaver|hjemmel_for|sty-motorstyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-skatteforvaltningens-opgaver|hjemmel_for|sty-udviklings-og-forenklingsstyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-skatteforvaltningens-opgaver|hjemmel_for|sty-administrations-og-servicestyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-skatteforvaltningens-opgaver|hjemmel_for|sty-vurderingsstyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-skatteforvaltningsloven|hjemmel_for|bek-skatteforvaltningens-opgaver",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-skatteforvaltningsloven|hjemmel_for|sty-skatteankestyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-skatteforvaltningsloven|hjemmel_for|bek-skatteankestyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2021/2372",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-skatteankestyrelsen|hjemmel_for|sty-skatteankestyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2021/2372",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-skatteforvaltningsloven|hjemmel_for|bek-skatteankestyrelsen-visse-klager",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/967",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-skatteankestyrelsen-visse-klager|hjemmel_for|sty-skatteankestyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/967",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-skatteforvaltningsloven|hjemmel_for|raad-skatteraadet",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-skatteforvaltningsloven|hjemmel_for|bek-skatteraadet-forretningsorden",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-skatteraadet-forretningsorden|hjemmel_for|raad-skatteraadet",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2005/1035",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-skatteforvaltningsloven|hjemmel_for|naevn-landsskatteretten",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-skatteforvaltningsloven|hjemmel_for|bek-landsskatteretten-forretningsorden",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-landsskatteretten-forretningsorden|hjemmel_for|naevn-landsskatteretten",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2021/2373",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-skatteforvaltningsloven|hjemmel_for|naevn-skatteankenaevn",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-skatteforvaltningsloven|hjemmel_for|bek-skatteankenaevn-forretningsorden",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2022/1041",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-skatteankenaevn-forretningsorden|hjemmel_for|naevn-skatteankenaevn",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2022/1041",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-skatteforvaltningsloven|hjemmel_for|naevn-vurderingsankenaevn",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-skatteforvaltningsloven|hjemmel_for|bek-vurderingsankenaevn-forretningsorden",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2021/2289",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-vurderingsankenaevn-forretningsorden|hjemmel_for|naevn-vurderingsankenaevn",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2021/2289",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-skatteforvaltningsloven|hjemmel_for|naevn-motorankenaevn",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-skatteforvaltningsloven|hjemmel_for|bek-motorankenaevn-forretningsorden",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2022/1043",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-motorankenaevn-forretningsorden|hjemmel_for|naevn-motorankenaevn",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2022/1043",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-spilleloven|hjemmel_for|sty-spillemyndigheden",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1182",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-spilleloven|hjemmel_for|bek-spillemyndigheden",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2011/1121",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-spillemyndigheden|hjemmel_for|sty-spillemyndigheden",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2011/1121",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-it-tilsynsloven|hjemmel_for|tilsyn-it-tilsynet",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2020/2187",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant naevn-landsskatteretten|klageinstans|sty-skatteforvaltningen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant naevn-landsskatteretten|klageinstans|raad-skatteraadet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant naevn-landsskatteretten|klageinstans|sty-spillemyndigheden",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1182",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-skatteankestyrelsen|klageinstans|sty-skatteforvaltningen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant naevn-skatteankenaevn|klageinstans|sty-skatteforvaltningen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant naevn-vurderingsankenaevn|klageinstans|sty-vurderingsstyrelsen",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant naevn-motorankenaevn|klageinstans|sty-motorstyrelsen",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant dom-byretterne|klageinstans|naevn-landsskatteretten",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant dom-byretterne|klageinstans|sty-skatteforvaltningen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant dom-byretterne|klageinstans|sty-spillemyndigheden",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1182",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant dom-byretterne|klageinstans|naevn-skatteankenaevn",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant dom-byretterne|klageinstans|naevn-vurderingsankenaevn",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant dom-byretterne|klageinstans|naevn-motorankenaevn",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant raad-skatteraadet|tilsyn|naevn-skatteankenaevn",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant raad-skatteraadet|tilsyn|naevn-vurderingsankenaevn",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant raad-skatteraadet|tilsyn|naevn-motorankenaevn",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant tilsyn-it-tilsynet|tilsyn|sty-skatteforvaltningen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://info.skat.dk/data.aspx?oid=2331060",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-skatteforvaltningen|udsteder|kilde-juridisk-vejledning",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://info.skat.dk/data.aspx?oid=80433",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-skatteforvaltningen|udsteder|kilde-skm-databasen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://info.skat.dk/data.aspx?oid=80437",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant naevn-landsskatteretten|udsteder|kilde-afgoerelsesdatabasen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://skatteankestyrelsen.dk/footer-sider/afgoerelser",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-spillemyndigheden|udsteder|kilde-spillemyndigheden-afgoerelser",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.spillemyndigheden.dk/afgoerelser-og-domme",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant kilde-juridisk-vejledning|henviser_til|lov-skatteforvaltningsloven",
+  "sikkerhed": "sandsynlig",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://tax.dk/jv/aa/A_A_3_1.htm",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant kilde-skm-databasen|henviser_til|kilde-juridisk-vejledning",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://info.skat.dk/data.aspx?oid=80436",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ }
+]

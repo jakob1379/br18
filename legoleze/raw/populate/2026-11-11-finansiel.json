@@ -1,0 +1,1468 @@
+{
+  "omraade": "finansiel",
+  "noder": [
+    {
+      "id": "sty-finanstilsynet",
+      "navn": "Finanstilsynet",
+      "type": "styrelse",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Lov om finansiel virksomhed § 344, stk. 1: Finanstilsynet påser overholdelsen af loven, CRR (forordning 575/2013) og de tilhørende regler; § 345, stk. 1: ministeren udpeger Finanstilsynets bestyrelse og direktør; § 345, stk. 12, nr. 4: bestyrelsen træffer beslutning om reaktioner i sager af principiel karakter. Tilsynskompetencen i de øvrige hovedlove står i kapitalmarkedsloven § 211, hvidvaskloven § 47, loven om betalinger § 130 og forsikringsvirksomhedsloven § 259.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/432",
+            "citat": "Finanstilsynet påser overholdelsen af Europa-Parlamentets og Rådets forordning (EU) nr. 575/2013 om tilsynsmæssige krav til kreditinstitutter"
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/432",
+            "citat": "Erhvervsministeren udpeger en bestyrelse og en direktør for Finanstilsynet."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/432",
+            "citat": "træffer beslutning om reaktioner i sager af principiel karakter og i sager, der har videregående betydelige følger"
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "tilsynsreaktion (påbud, påtale, risikooplysning, administrativt bødeforelæg)",
+            "bindende": "bindende",
+            "note": "påbud er bindende; risikooplysning er en advarsel uden lovovertrædelse; offentliggøres efter lov om finansiel virksomhed § 354 a"
+          },
+          {
+            "type": "afgørelse",
+            "bindende": "bindende",
+            "note": "kan påklages til Erhvervsankenævnet inden 4 uger, jf. lov om finansiel virksomhed § 372, stk. 1"
+          },
+          {
+            "type": "inspektionsredegørelse",
+            "bindende": "blandet",
+            "note": "redegørelsen er selve offentliggørelsen af inspektionens resultat og eventuelle reaktioner"
+          },
+          {
+            "type": "vejledning",
+            "bindende": "vejledende",
+            "note": "samlet i Finanstilsynets danske lovsamling og udgivet på Retsinformation"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.finanstilsynet.dk/tilsyn/inspektionsredegoerelser-og-afgoerelser",
+            "citat": "Her finder du et samlet arkiv med Finanstilsynets inspektionsredegørelser og tilsynsreaktioner."
+          },
+          {
+            "url": "https://www.finanstilsynet.dk/tilsyn/typer-af-tilsynsreaktioner",
+            "citat": "Disse spænder fra risikooplysninger til påbud og påtaler for lovovertrædelser og, i de alvorligste tilfælde, politianmeldelser, administrative bødeforelæg"
+          },
+          {
+            "url": "https://www.finanstilsynet.dk/lovgivning/dansk-lovsamling/tvaergaaende",
+            "citat": "Her finder du love, bekendtgørelser, regnskabsbestemmelser og vejledninger."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.finanstilsynet.dk/",
+        "belaeg": [
+          {
+            "url": "https://www.finanstilsynet.dk/tilsyn/typer-af-tilsynsreaktioner",
+            "citat": "Finanstilsynet fører tilsyn med finansielle virksomheder for at sikre, at de overholder lovgivningen, behandler kunderne redeligt og ansvarligt"
+          },
+          {
+            "url": "https://svmn.dk/ministeriet",
+            "citat": "Skatte- og Vækstministeriet (tidligere Skatteministeriet) blev etableret i 1975 og består af et departement og ti styrelser"
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Finanstilsynets (påtale|påbud|afgørelse) (af|til) \\[?[^\\]]{0,60}\\]?",
+        "(lov om finansiel virksomhed|FIL) § \\d+ ?[a-z]?",
+        "§ 354 a",
+        "LBK nr\\.? ?\\d+ af \\d{1,2}/\\d{1,2}/\\d{4}"
+      ],
+      "note": "Ministerium: Skatte- og Vækstministeriet siden regeringsskiftet 3/6/2026 (ressortoverførsel fra Erhvervsministeriet). Lovtekster udstedt før overførslen (fx LBK 432/2026, FIL § 345 og § 343 s) siger stadig 'erhvervsministeren'; læs det som den minister, der har det finansielle område i dag. Finanstilsynets egen hjemmeside nævner ikke ministeriet på de sider, der er set. Finanstilsynets bestyrelse har kompetence til principielle reaktioner; resten er delegeret. Erhvervsstyrelsen er tilsynsmyndighed for visse bestemmelser (FIL § 344, stk. 1, 2. pkt.) og for regnskabsindberetning."
+    },
+    {
+      "id": "org-finansiel-stabilitet",
+      "navn": "Finansiel Stabilitet",
+      "type": "offentlig-virksomhed",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Lov om restrukturering og afvikling af visse finansielle virksomheder § 4: Finansiel Stabilitet iværksætter afviklingsforanstaltninger over for en virksomhed, når betingelserne for afvikling er opfyldt; § 56: Afviklingsformuen administreres af Finansiel Stabilitet. Lov om en indskyder- og investorgarantiordning § 1: Garantiformuen administreres af Finansiel Stabilitet. Garantiformuen og Afviklingsformuen er ikke selvstændige retssubjekter, så de har ingen egen node.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/24",
+            "citat": "Finansiel Stabilitet iværksætter afviklingsforanstaltninger over for en virksomhed, hvis Finansiel Stabilitet vurderer, at følgende betingelser for afvikling er opfyldt:"
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/24",
+            "citat": "Der etableres en afviklingsfinansieringsordning (Afviklingsformuen), som administreres af Finansiel Stabilitet."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/24",
+            "citat": "Afviklingsformuen udgør ikke en selvstændig juridisk person."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/39",
+            "citat": "Garantiformuen administreres af Finansiel Stabilitet i overensstemmelse med denne lov."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse om afvikling og afviklingsforanstaltninger",
+            "bindende": "bindende",
+            "note": "værdiansættelser kan ikke prøves ved domstolene særskilt, jf. restruktureringsloven § 11"
+          },
+          {
+            "type": "afgørelse på vegne af Garantiformuen",
+            "bindende": "bindende",
+            "note": "kan indbringes for Erhvervsankenævnet inden 4 uger, jf. indskyder- og investorgarantiloven § 23 b"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/39",
+            "citat": "Afgørelser truffet af Finansiel Stabilitet på vegne af Garantiformuen i henhold til loven eller regler udstedt i medfør af loven kan af den, som afgørelsen retter sig imod, indbringes for Erhvervsankenævnet, senest 4 uger efter at afgørelsen er meddelt den pågældende."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/24",
+            "citat": "Værdiansættelserne gennemført i medfør af §§ 6 og 7 kan ikke gøres til genstand for særskilt domstolsprøvelse, men kan alene prøves sammen med Finansiel Stabilitets iværksættelse af afviklingsforanstaltninger."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://fs.dk/",
+        "belaeg": [
+          {
+            "url": "https://fs.dk/om-os/om-finansiel-stabilitet",
+            "citat": "Finansiel Stabilitet er en selvstændig offentlig virksomhed, der er ejet af den danske stat gennem Skatte- og Vækstministeriet."
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Finansiel Stabilitet( A/S)?",
+        "Garantiformuen",
+        "Afviklingsformuen",
+        "lov om restrukturering og afvikling af visse finansielle virksomheder"
+      ],
+      "note": "Statsejet selvstændig offentlig virksomhed, afviklingsmyndighed sammen med Finanstilsynet, administrator af Garantiformuen (indskyderdækning) og Afviklingsformuen (fælles fond). Finansiel Stabilitets egen lov (lov om finansiel stabilitet) er ophævet; FS's regelgrundlag-side henviser til 'lov om kapitalmarkeder og om ophævelse af lov om finansiel stabilitet'. Hvilken bestemmelse der i dag etablerer selskabet som sådan, er ikke fundet. Klagevej over afviklingsafgørelser (bortset fra Garantiformuen) er ikke fundet i restruktureringsloven. Finansiel Stabilitet er ikke kreditinstitut, men nævnt i lov om finansiel virksomhed som afviklingsmyndighed (fx § 372, stk. 4: fælles beslutninger kan ikke indbringes for Erhvervsankenævnet)."
+    },
+    {
+      "id": "raad-det-systemiske-risikoraad",
+      "navn": "Det Systemiske Risikoråd",
+      "type": "råd",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Lov om finansiel virksomhed § 343 s: ministeren nedsætter rådet med 10 medlemmer; formanden for Nationalbankens direktion er formand; rådet er rådgivende og kan afgive observationer, advarsler og henstillinger, som kan rettes mod Finanstilsynet og regeringen.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/432",
+            "citat": "Erhvervsministeren nedsætter Det Systemiske Risikoråd, som består af 10 medlemmer."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/432",
+            "citat": "Det Systemiske Risikoråds advarsler og henstillinger givet i medfør af stk. 3, nr. 3 og 4, vil som udgangspunkt kunne rettes mod Finanstilsynet og, hvis det vedrører lovgivning, mod regeringen."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "observation",
+            "bindende": "vejledende"
+          },
+          {
+            "type": "advarsel",
+            "bindende": "vejledende"
+          },
+          {
+            "type": "henstilling",
+            "bindende": "vejledende",
+            "note": "adressaten skal inden 3 måneder følge henstillingen eller forklare, hvorfor den ikke følges (comply or explain)"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.nationalbanken.dk/en/what-we-do/stable-financial-system/macroprudential-policy/the-systemic-risk-council",
+            "citat": "The addressee of the Council’s recommendation is required, within a period of three months, either to comply with the recommendation or to present a statement explaining why the recommendation will not be complied with."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.nationalbanken.dk/en/what-we-do/stable-financial-system/macroprudential-policy/the-systemic-risk-council",
+        "belaeg": [
+          {
+            "url": "https://www.nationalbanken.dk/en/what-we-do/stable-financial-system/macroprudential-policy/the-systemic-risk-council",
+            "citat": "The Systemic Risk Council is an advisory body that aims to prevent and reduce systemic financial risks that may put economic development under stress."
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Det Systemiske Risikoråd",
+        "Risikorådet",
+        "§ 343 s"
+      ],
+      "note": "Rådgivende råd uden egen afgørelsesmyndighed; ikke en klage- eller tilsynsinstans. Nationalbanken er sekretariat. Rådets ministerium er ikke bekræftet på en side, der nævner rådet efter 3/6/2026; placeret under Skatte- og Vækstministeriet, fordi ressortoverførslen omfatter det finansielle område inklusive de dertil hørende institutioner, og fordi lovteksten (FIL § 343 s) peger på den minister, der har loven. Nationalbankens side er på engelsk."
+    },
+    {
+      "id": "org-det-finansielle-ankenaevn",
+      "navn": "Det finansielle ankenævn",
+      "type": "privat-organisation",
+      "ministerium": "ingen",
+      "status": "aktiv",
+      "tidligere_navne": [
+        {
+          "navn": "Pengeinstitutankenævnet, Realkreditankenævnet og Ankenævnet for Investeringsfonde (sammenlagt)",
+          "periode": "1988–31/1/2019",
+          "belaeg": [
+            {
+              "url": "https://fanke.dk/media/1564/dfa_årsberetning-2025_endelig-version.pdf",
+              "citat": "Det finansielle ankenævn blev stiftet pr. 1. februar 2019 af Finans Danmark og Forbrugerrådet Tænk og er en sammenlægning af Pengeinstitutankenævnet (1.8.1988), Realkreditankenævnet (1.1.1992) og Ankenævnet for Investeringsfonde (1.3.2002)."
+            }
+          ]
+        }
+      ],
+      "hjemmel": {
+        "tekst": "Privat ankenævn stiftet af Finans Danmark og Forbrugerrådet Tænk. Godkendes efter forbrugerklagelovens § 6, stk. 1 af den minister, der har lovens område (2025-beretningen: erhvervsministeren): nævnets vedtægter er godkendt pr. 18/9/2025 frem til 31/1/2028. Det er ikke godkendt af Finanstilsynet og hører ikke under lov om finansiel virksomhed.",
+        "belaeg": [
+          {
+            "url": "https://fanke.dk/media/1564/dfa_årsberetning-2025_endelig-version.pdf",
+            "citat": "Ankenævnet er i medfør af § 6 i lov om forbrugerklager godkendt af erhvervsministeren til at behandle klager i overensstemmelse med § 2 i sine vedtægter."
+          },
+          {
+            "url": "https://fanke.dk/media/1564/dfa_årsberetning-2025_endelig-version.pdf",
+            "citat": "Det finansielle ankenævn fik efter forbrugerklageloven § 6, stk. 1, godkendt sine vedtægter pr. 1. februar 2025 af erhvervsministeren for en treårig periode frem til den 31."
+          },
+          {
+            "url": "https://www.fanke.dk/det-finansielle-ankenaevn/",
+            "citat": "Det finansielle ankenævn er efter § 6, stk. 1, i lov om forbrugerklager et godkendt privat ankenævn og behandler klager over pengeinstitutter, realkreditinstitutter og investeringsfonde fortrinsvis fra private forbrugere."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse (ankenævnskendelse)",
+            "bindende": "vejledende",
+            "note": "virksomheden kan vælge ikke at følge afgørelsen (markeres IF i databasen); sagen kan derefter indbringes for domstolene"
+          },
+          {
+            "type": "årsberetning",
+            "bindende": "vejledende"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://fanke.dk/media/1564/dfa_årsberetning-2025_endelig-version.pdf",
+            "citat": "De afgørelser, som en finansiel virksomhed har valgt ikke at følge, jf. Ankenævnets vedtægter § 20, stk. 4, er markeret særskilt (med IF)."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.fanke.dk/",
+        "belaeg": [
+          {
+            "url": "https://www.fanke.dk/det-finansielle-ankenaevn/",
+            "citat": "Det finansielle ankenævn behandler klager fra private kunder over pengeinstitutter, realkreditinstitutter og investeringsfonde."
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Det finansielle ankenævn",
+        "Ankenævnets afgørelse (af|i) sag \\d+/\\d{4}",
+        "sag \\d+/\\d{4}",
+        "Pengeinstitutankenævnet"
+      ],
+      "note": "Rettelse til audit: nævnet er ikke godkendt af Finanstilsynet eller efter lov om finansiel virksomhed, men af ministeren efter lov om forbrugerklager § 6 (Erhvervs- og Vækstministeren i lovteksten; erhvervsministeren i 2025-beretningen). Hvilken minister der godkender efter 3/6/2026, er ikke bekræftet; forbrugerklageområdet (Konkurrence- og Forbrugerstyrelsen) er ikke set flyttet. Nævnet er stiftet 1/2/2019 som sammenlægning, ikke 'godkendt fra 2019' i sig selv. Fra 1/7/2025 er forbrugerklageloven ændret, og nye vedtægter er godkendt. Nævnet behandler kun private kunder; erhvervsklager hører kun til i begrænset omfang."
+    },
+    {
+      "id": "org-ankenaevnet-for-fondsmaeglerselskaber",
+      "navn": "Ankenævnet for Fondsmæglerselskaber",
+      "type": "privat-organisation",
+      "ministerium": "ingen",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Godkendt privat ankenævn efter forbrugerklagelovens § 6, stk. 1; behandler klager over fondsmæglerselskaber. Drives af samme sekretariat og hjemmeside som Det finansielle ankenævn.",
+        "belaeg": [
+          {
+            "url": "https://www.fanke.dk/ankenaevnet-for-fondsmaeglerselskaber/",
+            "citat": "Ankenævnet for Fondsmæglerselskaber er efter § 6, stk. 1, i lov om forbrugerklager et godkendt privat ankenævn og behandler klager over fondsmæglerselskaber, fortrinsvis fra private forbrugere."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.fanke.dk/ankenaevnet-for-fondsmaeglerselskaber/",
+        "belaeg": [
+          {
+            "url": "https://www.fanke.dk/ankenaevnet-for-fondsmaeglerselskaber/",
+            "citat": "Ankenævnet for Fondsmæglerselskaber er efter § 6, stk. 1, i lov om forbrugerklager et godkendt privat ankenævn"
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Ankenævnet for Fondsmæglerselskaber",
+        "AFF"
+      ],
+      "note": "Ikke nævnt i audit. Er adskilt fra Det finansielle ankenævn (der ikke er slået sammen med det), men ligger på samme hjemmeside. Afgørelsesdatabasens dækning af dette nævn er ikke undersøgt."
+    },
+    {
+      "id": "kilde-finanstilsynet-tilsynsreaktioner",
+      "navn": "Finanstilsynets inspektionsredegørelser og tilsynsreaktioner",
+      "type": "dokumentkilde",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Offentliggørelsespligt: lov om finansiel virksomhed § 354 a, stk. 1 (reaktioner efter § 345, stk. 12, nr. 4 og 6, offentliggøres af virksomheden og af Finanstilsynet på tilsynets hjemmeside, virksomheden senest 3 hverdage efter underretning); hvidvaskloven § 55, stk. 2: offentliggjorte reaktioner forbliver på Finanstilsynets hjemmeside i mindst 5 år; på forbrugerområdet offentliggøres den fulde afgørelse, jf. FIL § 354, stk. 3 (Finanstilsynets egen angivelse).",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/432",
+            "citat": "Finanstilsynet skal offentliggøre oplysningerne på tilsynets hjemmeside."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/432",
+            "citat": "Virksomheden skal offentliggøre oplysningerne på sin hjemmeside på et sted, hvor de naturligt hører hjemme, hurtigst muligt, og senest 3 hverdage efter at virksomheden har modtaget underretning om reaktionen"
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/433",
+            "citat": "Offentliggjorte reaktioner forbliver på Finanstilsynets hjemmeside i mindst 5 år efter offentliggørelse."
+          },
+          {
+            "url": "https://www.finanstilsynet.dk/tilsyn/offentliggoerelse-af-tilsynsreaktioner",
+            "citat": "Reglerne fremgår af § 354, stk. 3, i lov om finansiel virksomhed."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.finanstilsynet.dk/tilsyn/inspektionsredegoerelser-og-afgoerelser",
+        "belaeg": [
+          {
+            "url": "https://www.finanstilsynet.dk/tilsyn/inspektionsredegoerelser-og-afgoerelser",
+            "citat": "Her finder du et samlet arkiv med Finanstilsynets inspektionsredegørelser og tilsynsreaktioner."
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML"
+        ],
+        "note": "Søgeside (JavaScript) med filtre; enkeltreaktioner er HTML-sider. Ingen API, RSS eller bulk fundet. Forside har tilmelding til nyheder.",
+        "belaeg": [
+          {
+            "url": "https://www.finanstilsynet.dk/tilsyn/inspektionsredegoerelser-og-afgoerelser",
+            "citat": "Filtrene kan kun kombineres med årstal - øvrige filtre kan ikke kombineres."
+          },
+          {
+            "url": "https://www.finanstilsynet.dk/tilsyn/offentliggoerelse-af-tilsynsreaktioner",
+            "citat": "Du kan filtrere din søgning på tilsynsreaktion, virksomhedstype, inspektionsemne og årstal."
+          }
+        ]
+      },
+      "identifikatorer": {
+        "andet": "Intet fast nummersystem fundet; reaktioner identificeres ved titel og dato (fx 'Påbud til [virksomhed] ...'), og hver reaktion er en HTML-side. Filtrering på tilsynsreaktion, virksomhedstype, inspektionsemne og årstal.",
+        "belaeg": [
+          {
+            "url": "https://www.finanstilsynet.dk/tilsyn/offentliggoerelse-af-tilsynsreaktioner",
+            "citat": "Offentliggørelse sker i form af redegørelser og resuméer af afgørelser, som vi udarbejder i Finanstilsynet"
+          }
+        ]
+      },
+      "opdatering": {
+        "frekvens": "løbende",
+        "versionshistorik": "reaktioner forbliver på hjemmesiden i mindst 5 år (hvidvasklovsreaktioner); ældre inspektionsredegørelser og reaktioner kan være fjernet eller kun i pdf-arkiv",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/433",
+            "citat": "Offentliggjorte reaktioner forbliver på Finanstilsynets hjemmeside i mindst 5 år efter offentliggørelse."
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 5,
+        "besvaer": 4,
+        "begrundelse": "Eneste samlede praksiskilde for tilsyn med finansielle virksomheder; HTML-side uden API, så indhentning kræver crawling af søgeresultater."
+      },
+      "note": "Offentliggørelsen sker som redegørelser og resuméer, ikke som fulde afgørelser (undtagen på forbrugerområdet). Undtagelser fra offentliggørelse: uforholdsmæssig skade eller efterforskningsmæssige hensyn. Lov nr. 764 af 8/9/2026 (i kraft 15/9/2026) indfører en halvårlig oversigt over tidligere offentliggjorte påbud efter DORA-forordningen, der ligeledes lægges på Finanstilsynets hjemmeside."
+    },
+    {
+      "id": "kilde-finanstilsynet-lovsamling",
+      "navn": "Finanstilsynets danske lovsamling (love, bekendtgørelser og vejledninger)",
+      "type": "dokumentkilde",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://www.finanstilsynet.dk/lovgivning/dansk-lovsamling",
+        "belaeg": [
+          {
+            "url": "https://www.finanstilsynet.dk/lovgivning/dansk-lovsamling/tvaergaaende",
+            "citat": "Her finder du love, bekendtgørelser, regnskabsbestemmelser og vejledninger."
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML"
+        ],
+        "note": "Statiske HTML-sider pr. område med links til Retsinformation. Ingen selvstændig tekst; linkene fører til retsinformation.dk.",
+        "belaeg": [
+          {
+            "url": "https://www.finanstilsynet.dk/lovgivning/dansk-lovsamling/tvaergaaende",
+            "citat": "Hvert link fører dig videre til retsinformation.dk."
+          }
+        ]
+      },
+      "identifikatorer": {
+        "andet": "Opdelt i områderne tværgående, kreditinstitut, kapitalmarked, hvidvask, betalingstjeneste, forsikring og andre tilsynslove. Dokumenter nummereres efter Retsinformation (LBK nr. X af dato).",
+        "belaeg": [
+          {
+            "url": "https://www.finanstilsynet.dk/lovgivning/dansk-lovsamling/tvaergaaende",
+            "citat": "Der er alene indsat link til bekendtgørelser, hvoraf senere ændringsbekendtgørelser findes på retsinformation.dk"
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 3,
+        "besvaer": 3,
+        "begrundelse": "Nyttig som kurateret indgang til de gældende lovbekendtgørelser og vejledninger; selve teksten hentes på Retsinformation."
+      },
+      "note": "Bruges til at finde gældende LBK'er: FIL LBK 432 af 16/4/2026, hvidvaskloven LBK 433 af 17/4/2026, lov om betalinger LBK 463 af 24/4/2026, forsikringsvirksomhed LBK 461 af 26/4/2026, kapitalmarkedsloven LBK 464 af 1/5/2026."
+    },
+    {
+      "id": "kilde-dfa-afgoerelser",
+      "navn": "Det finansielle ankenævns afgørelsesdatabase (fanke.dk)",
+      "type": "dokumentkilde",
+      "ministerium": "ingen",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://www.fanke.dk/soeg-i-afgoerelser/",
+        "belaeg": [
+          {
+            "url": "https://fanke.dk/media/1564/dfa_årsberetning-2025_endelig-version.pdf",
+            "citat": "Via hjemmesiden er der adgang til at søge i de over 14.000 afgørelser, som Ankenævnet har truffet siden 1988."
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML",
+          "PDF"
+        ],
+        "note": "Fritekstsøgning og emneregister på hjemmesiden; årsberetninger som PDF; nyhedsbrev om nye afgørelser. Ingen API fundet.",
+        "belaeg": [
+          {
+            "url": "https://fanke.dk/media/1564/dfa_årsberetning-2025_endelig-version.pdf",
+            "citat": "Søgning kan ske via fritekstsøgning eller via et emneregister."
+          },
+          {
+            "url": "https://fanke.dk/media/1564/dfa_årsberetning-2025_endelig-version.pdf",
+            "citat": "Der er mulighed for at tilmelde sig et nyhedsbrev og herved på e-mail modtage oplysning om nye afgørelser fra Ankenævnet."
+          }
+        ]
+      },
+      "identifikatorer": {
+        "andet": "Sagsnummer i formen løbenummer/år (fx sag 100/2005). Afgørelser markeres IF (virksomheden har ikke fulgt afgørelsen), OF (principiel eller særligt interessant) og SD (senere domstolsafgørelse kendt).",
+        "belaeg": [
+          {
+            "url": "https://fanke.dk/media/1564/dfa_årsberetning-2025_endelig-version.pdf",
+            "citat": "Afgørelser, hvor Sekretariatet er blevet bekendt med en efterfølgende domstolsafgørelse, er ligeledes markeret (med SD), og dommen er tilgængelig via hjemmesiden."
+          },
+          {
+            "url": "https://fanke.dk/media/1564/dfa_årsberetning-2025_endelig-version.pdf",
+            "citat": "Ankenævnet har afvist at være kompetent til at behandle en klage vedrørende Danmarks Nationalbank, jf. sag 100/2005."
+          }
+        ]
+      },
+      "opdatering": {
+        "frekvens": "løbende",
+        "versionshistorik": "over 14.000 afgørelser siden 1988; årsberetninger 1988-2018 findes pr. forgænger-nævn, fra 2019 samlet",
+        "belaeg": [
+          {
+            "url": "https://fanke.dk/media/1564/dfa_årsberetning-2025_endelig-version.pdf",
+            "citat": "Årsberetninger fra 2019 omhandlende pengeinstitutter, realkreditinstitutter og investeringsfonde er nu samlet i årsberetninger under Det finansielle ankenævn."
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 4,
+        "besvaer": 4,
+        "begrundelse": "Største samlede praksissamling om forbrugerklager over banker, realkredit og fonde; vejledende, men tungt vejende i praksis."
+      },
+      "note": "Genbrugsvilkår (licens) er ikke fundet. Dækker kun private kunders klager; afgørelser er vejledende for virksomhederne."
+    },
+    {
+      "id": "lov-finansiel-virksomhed",
+      "navn": "Lov om finansiel virksomhed (FIL)",
+      "type": "lov",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/432",
+            "citat": "Bekendtgørelse af lov om finansiel virksomhed"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2026/432",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/432",
+            "citat": "Bekendtgørelse af lov om finansiel virksomhed"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2026/432",
+        "lovtidende": "LBK nr. 432 af 16/04/2026",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/432",
+            "citat": "Herved bekendtgøres lov om finansiel virksomhed, jf. lovbekendtgørelse nr. 1390 af 18. november 2025"
+          },
+          {
+            "url": "https://www.finanstilsynet.dk/lovgivning/dansk-lovsamling/tvaergaaende",
+            "citat": "LBK nr 432 af 16/04/2026"
+          }
+        ]
+      },
+      "note": "Hjemmelslov for Finanstilsynet (§ 344-345), Det Systemiske Risikoråd (§ 343 s), offentliggørelse (§ 354 a, § 354 b ff.), klage til Erhvervsankenævnet (§ 372: 4 uger; 24 timer for visse afgørelser efter § 246 og § 224 a; fælles beslutninger kan ikke påklages) og domstolsprøvelse (fx § 351, stk. 7: påbud om afsættelse af direktør kan kræves indbragt for domstolene inden 4 uger). Ministeransvar: LBK'ens metadata siger Erhvervsministeriet (udstedt før 3/6/2026); lov nr. 764 af 8/9/2026 om ændring af FIL har Skatte- og Vækstministeriet som ministerium og Finanstilsynet som sagsbehandler. Lov nr. 764/2026 (i kraft 15/9/2026) er ikke indarbejdet i LBK 432."
+    },
+    {
+      "id": "lov-kapitalmarkedsloven",
+      "navn": "Lov om kapitalmarkeder (kapitalmarkedsloven)",
+      "type": "lov",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/464",
+            "citat": "Herved bekendtgøres lov om kapitalmarkeder"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2026/464",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/464",
+            "citat": "Herved bekendtgøres lov om kapitalmarkeder"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2026/464",
+        "lovtidende": "LBK nr. 464 af 01/05/2026",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/464",
+            "citat": "Herved bekendtgøres lov om kapitalmarkeder, jf. lovbekendtgørelse nr. 1493 af 18. november 2025"
+          },
+          {
+            "url": "https://www.finanstilsynet.dk/lovgivning/dansk-lovsamling/kapitalmarkedsomraadet",
+            "citat": "LBK nr. 464 af 01/05/2026"
+          }
+        ]
+      },
+      "note": "Tilsyn: § 211. Klage: § 232, stk. 1 (4 uger til Erhvervsankenævnet for afgørelser efter § 211 og § 213, stk. 1-3 og 5, jf. dog stk. 2). Ministeransvar efter 3/6/2026 er ikke bekræftet på lovens egen side; metadata i LBK'en siger Erhvervsministeriet."
+    },
+    {
+      "id": "lov-hvidvaskloven",
+      "navn": "Lov om forebyggende foranstaltninger mod hvidvask og finansiering af terrorisme (hvidvaskloven)",
+      "type": "lov",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/433",
+            "citat": "Herved bekendtgøres lov om forebyggende foranstaltninger mod hvidvask og finansiering af terrorisme (hvidvaskloven)"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2026/433",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/433",
+            "citat": "Herved bekendtgøres lov om forebyggende foranstaltninger mod hvidvask og finansiering af terrorisme (hvidvaskloven)"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2026/433",
+        "lovtidende": "LBK nr. 433 af 17/04/2026",
+        "belaeg": [
+          {
+            "url": "https://www.finanstilsynet.dk/lovgivning/dansk-lovsamling/hvidvaskomraadet",
+            "citat": "LBK nr. 433 af 17/04/2026"
+          }
+        ]
+      },
+      "note": "Tilsyn: § 47 (Finanstilsynet for bl.a. finansielle virksomheder; Erhvervsstyrelsen, Advokatsamfundet og Spillemyndigheden for andre grupper). Offentliggørelse: § 55 (Finanstilsynet; mindst 5 år, stk. 2); § 76: afgørelser fra Finanstilsynet og Erhvervsstyrelsen kan indbringes for Erhvervsankenævnet senest 4 uger efter meddelelsen. Spilområdet klages til Landsskatteretten (§ 77). Fra LOV nr. 764/2026 ændres loven; ikke indarbejdet i LBK 433. Ministeransvar efter 3/6/2026: loven er ændret af lov nr. 764 af 8/9/2026 udstedt af Skatte- og Vækstministeriet, men LBK'ens metadata siger Erhvervsministeriet."
+    },
+    {
+      "id": "lov-lov-om-betalinger",
+      "navn": "Lov om betalinger",
+      "type": "lov",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/463",
+            "citat": "Herved bekendtgøres lov om betalinger, jf. lovbekendtgørelse nr. 651 af 10. juni 2025"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2026/463",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/463",
+            "citat": "Herved bekendtgøres lov om betalinger, jf. lovbekendtgørelse nr. 651 af 10. juni 2025"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2026/463",
+        "lovtidende": "LBK nr. 463 af 24/04/2026",
+        "belaeg": [
+          {
+            "url": "https://www.finanstilsynet.dk/lovgivning/dansk-lovsamling/betalingstjenesteomraadet",
+            "citat": "LBK nr 463 af 24/04/2026"
+          }
+        ]
+      },
+      "note": "Tilsyn: § 130 (Finanstilsynet). Offentliggørelse: § 138. Klage: § 143 (4 uger til Erhvervsankenævnet). Betalingstjenesteområdet er samlet i denne lov (ikke 'betalingsloven', som i registry er spildevandsbetalingsloven). Ministeransvar efter 3/6/2026 som ovenfor."
+    },
+    {
+      "id": "lov-forsikringsvirksomhed",
+      "navn": "Lov om forsikringsvirksomhed i tværgående pensionskasser, livsforsikringsselskaber og skadesforsikringsselskaber m.v. (lov om forsikringsvirksomhed)",
+      "type": "lov",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/461",
+            "citat": "Herved bekendtgøres lov om forsikringsvirksomhed i tværgående pensionskasser, livsforsikringsselskaber og skadesforsikringsselskaber m.v. (lov om forsikringsvirksomhed)"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2026/461",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/461",
+            "citat": "Herved bekendtgøres lov om forsikringsvirksomhed i tværgående pensionskasser, livsforsikringsselskaber og skadesforsikringsselskaber m.v."
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2026/461",
+        "lovtidende": "LBK nr. 461 af 26/04/2026",
+        "belaeg": [
+          {
+            "url": "https://www.finanstilsynet.dk/lovgivning/dansk-lovsamling/forsikringsomraadet",
+            "citat": "LBK nr. 461 af 26/04/2026"
+          }
+        ]
+      },
+      "note": "Tilsyn: § 259 (Finanstilsynet). Klage: § 309, stk. 1 (4 uger til Erhvervsankenævnet); fælles beslutninger kan ikke indbringes. Tilføjet fordi loven selvstændigt fastlægger tilsyns- og klagevej for forsikringsområdet. Firmapensionskasser har egen lov (LBK 427 af 6/4/2026), ikke gennemgået."
+    },
+    {
+      "id": "lov-restrukturering-og-afvikling",
+      "navn": "Lov om restrukturering og afvikling af visse finansielle virksomheder",
+      "type": "lov",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/24",
+            "citat": "om restrukturering og afvikling af visse finansielle virksomheder"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2019/24",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/24",
+            "citat": "om restrukturering og afvikling af visse finansielle virksomheder"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2019/24",
+        "lovtidende": "LBK nr. 24 af 04/01/2019",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/24",
+            "citat": "Herved bekendtgøres lov nr. 333 af 31. marts 2015 om restrukturering og afvikling af visse finansielle virksomheder"
+          }
+        ]
+      },
+      "note": "Hjemmelslov for Finansiel Stabilitet som afviklingsmyndighed (§ 4) og Afviklingsformuen (kapitel 11, § 56). Retsinformation viser LBK 24/2019 som gældende, men loven er ændret flere gange siden (senest set: lov nr. 712 af 20/6/2025); om en nyere lovbekendtgørelse findes, er ikke bekræftet. Ministeransvar efter 3/6/2026 ikke bekræftet på lovens side (metadata: Erhvervsministeriet)."
+    },
+    {
+      "id": "lov-indskyder-og-investorgarantiordning",
+      "navn": "Lov om en indskyder- og investorgarantiordning",
+      "type": "lov",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/39",
+            "citat": "Herved bekendtgøres lov om en indskyder- og investorgarantiordning"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2024/39",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/39",
+            "citat": "Herved bekendtgøres lov om en indskyder- og investorgarantiordning"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2024/39",
+        "lovtidende": "LBK nr. 39 af 09/01/2024",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/39",
+            "citat": "Herved bekendtgøres lov om en indskyder- og investorgarantiordning, jf. lovbekendtgørelse nr. 356 af 2. april 2020"
+          }
+        ]
+      },
+      "note": "Opretter Garantiformuen (administreres af Finansiel Stabilitet, § 1) og § 23 b: Finansiel Stabilitets afgørelser på vegne af Garantiformuen kan indbringes for Erhvervsankenævnet senest 4 uger. Ministeransvar efter 3/6/2026 ikke bekræftet på lovens side."
+    },
+    {
+      "id": "lov-forbrugerklageloven",
+      "navn": "Lov om alternativ tvistløsning i forbindelse med forbrugerklager (forbrugerklageloven)",
+      "type": "lov",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2015/524",
+            "citat": "Lov om alternativ tvistløsning i forbindelse med forbrugerklager (forbrugerklageloven)"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2015/524",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2015/524",
+            "citat": "Lov om alternativ tvistløsning i forbindelse med forbrugerklager (forbrugerklageloven)"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2015/524",
+        "lovtidende": "LOV nr. 524 af 29/04/2015",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2015/524",
+            "citat": "Lov om alternativ tvistløsning i forbindelse med forbrugerklager (forbrugerklageloven)"
+          }
+        ]
+      },
+      "note": "Hjemmel for godkendelse af private ankenævn, herunder Det finansielle ankenævn: § 6, stk. 1-3 (ministeren kan godkende oprettelsen af og vedtægterne for private tvistløsningsorganer; formand og næstformænd skal være dommere). Dokumentet på Retsinformation er den oprindelige lov med senere ændringer i metadata (sidst 2025-10-07); der er ikke fundet en nyere lovbekendtgørelse. Loven er ændret med virkning fra 1/7/2025 (lov nr. 558 af 27/5/2025 ifølge Det finansielle ankenævns beretning) og igen i 2026; § 6's nuværende ordlyd er ikke set. Ministerium er sat til Erhvervsministeriet (Konkurrence- og Forbrugerstyrelsen) og ikke flyttet til Skatte- og Vækstministeriet."
+    },
+    {
+      "id": "eu-reg-2013-575",
+      "navn": "Forordning (EU) nr. 575/2013 om tilsynsmæssige krav til kreditinstitutter og investeringsselskaber (CRR)",
+      "type": "eu-forordning",
+      "ministerium": "ingen",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32013R0575",
+            "citat": "EUROPA-PARLAMENTETS OG RÅDETS FORORDNING (EU) nr. 575/2013"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32013R0575",
+        "belaeg": [
+          {
+            "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32013R0575",
+            "citat": "EUROPA-PARLAMENTETS OG RÅDETS FORORDNING (EU) nr. 575/2013"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "celex": "32013R0575",
+        "belaeg": [
+          {
+            "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32013R0575",
+            "citat": "EUROPA-PARLAMENTETS OG RÅDETS FORORDNING (EU) nr. 575/2013"
+          }
+        ]
+      },
+      "note": "Gælder umiddelbart; Finanstilsynets tilsynskompetence over CRR følger af lov om finansiel virksomhed § 344, stk. 1."
+    },
+    {
+      "id": "eu-dir-2013-36",
+      "navn": "Direktiv 2013/36/EU om adgang til at udøve virksomhed som kreditinstitut og om tilsyn med kreditinstitutter og investeringsselskaber (CRD IV)",
+      "type": "eu-direktiv",
+      "ministerium": "ingen",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32013L0036",
+            "citat": "EUROPA-PARLAMENTETS OG RÅDETS DIREKTIV 2013/36/EU"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32013L0036",
+        "belaeg": [
+          {
+            "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32013L0036",
+            "citat": "EUROPA-PARLAMENTETS OG RÅDETS DIREKTIV 2013/36/EU"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "celex": "32013L0036",
+        "belaeg": [
+          {
+            "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32013L0036",
+            "citat": "EUROPA-PARLAMENTETS OG RÅDETS DIREKTIV 2013/36/EU"
+          }
+        ]
+      },
+      "note": "Ændret ved direktiv (EU) 2024/1619 (CRD VI), som FIL også delvist gennemfører."
+    },
+    {
+      "id": "eu-dir-2009-138",
+      "navn": "Direktiv 2009/138/EF om adgang til og udøvelse af forsikrings- og genforsikringsvirksomhed (Solvens II)",
+      "type": "eu-direktiv",
+      "ministerium": "ingen",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32009L0138",
+            "citat": "Europa-Parlamentets og Rådets direktiv 2009/138/EF af 25. november 2009 om adgang til og udøvelse af forsikrings- og genforsikringsvirksomhed (Solvens II)"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32009L0138",
+        "belaeg": [
+          {
+            "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32009L0138",
+            "citat": "Europa-Parlamentets og Rådets direktiv 2009/138/EF af 25. november 2009 om adgang til og udøvelse af forsikrings- og genforsikringsvirksomhed (Solvens II)"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "celex": "32009L0138",
+        "belaeg": [
+          {
+            "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32009L0138",
+            "citat": "Europa-Parlamentets og Rådets direktiv 2009/138/EF af 25. november 2009 om adgang til og udøvelse af forsikrings- og genforsikringsvirksomhed (Solvens II)"
+          }
+        ]
+      },
+      "note": "Gennemføres i lov om forsikringsvirksomhed (delvist) og lov om finansiel virksomhed."
+    },
+    {
+      "id": "eu-dir-2014-65",
+      "navn": "Direktiv 2014/65/EU om markeder for finansielle instrumenter (MiFID II)",
+      "type": "eu-direktiv",
+      "ministerium": "ingen",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32014L0065",
+            "citat": "EUROPA-PARLAMENTETS OG RÅDETS DIREKTIV 2014/65/EU"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32014L0065",
+        "belaeg": [
+          {
+            "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32014L0065",
+            "citat": "EUROPA-PARLAMENTETS OG RÅDETS DIREKTIV 2014/65/EU"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "celex": "32014L0065",
+        "belaeg": [
+          {
+            "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32014L0065",
+            "citat": "EUROPA-PARLAMENTETS OG RÅDETS DIREKTIV 2014/65/EU"
+          }
+        ]
+      },
+      "note": "Gennemføres hovedsageligt i kapitalmarkedsloven, delvist i lov om finansiel virksomhed."
+    },
+    {
+      "id": "eu-dir-2015-849",
+      "navn": "Direktiv (EU) 2015/849 om forebyggende foranstaltninger mod anvendelse af det finansielle system til hvidvask af penge eller finansiering af terrorisme (4. hvidvaskdirektiv)",
+      "type": "eu-direktiv",
+      "ministerium": "ingen",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32015L0849",
+            "citat": "Europa-Parlamentets og Rådets direktiv (EU) 2015/849 af 20. maj 2015 om forebyggende foranstaltninger mod anvendelse af det finansielle system til hvidvask af penge eller finansiering af terrorisme"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32015L0849",
+        "belaeg": [
+          {
+            "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32015L0849",
+            "citat": "Europa-Parlamentets og Rådets direktiv (EU) 2015/849 af 20. maj 2015 om forebyggende foranstaltninger mod anvendelse af det finansielle system til hvidvask af penge eller finansiering af terrorisme"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "celex": "32015L0849",
+        "belaeg": [
+          {
+            "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32015L0849",
+            "citat": "Europa-Parlamentets og Rådets direktiv (EU) 2015/849 af 20. maj 2015 om forebyggende foranstaltninger mod anvendelse af det finansielle system til hvidvask af penge eller finansiering af terrorisme"
+          }
+        ]
+      },
+      "note": "Ændret og suppleret af direktiv (EU) 2018/843; hvidvaskforordningen (EU) 2024/1624 er ikke medtaget (højst fem retsakter)."
+    }
+  ],
+  "kanter": [
+    {
+      "from": "min-skat-og-vaekst",
+      "type": "ressortansvar",
+      "to": "sty-finanstilsynet",
+      "beskrivelse": "Finanstilsynet er en styrelse under Skatte- og Vækstministeriet efter ressortoverførslen 3/6/2026.",
+      "belaeg": [
+        {
+          "url": "https://svmn.dk/ministeriet",
+          "citat": "Skatte- og Vækstministeriet (tidligere Skatteministeriet) blev etableret i 1975 og består af et departement og ti styrelser"
+        },
+        {
+          "url": "https://fm.dk/media/x3ek3abl/9-skatte-og-vaekstministeriet.pdf",
+          "citat": "Med kongelig resolution af d. 3. juni 2026 er det besluttet, at ressortansvaret for det finansielle område inklusive de til området hørende institutioner, herunder Finanstilsynet og Finansiel Stabilitet"
+        }
+      ]
+    },
+    {
+      "from": "min-skat-og-vaekst",
+      "type": "ressortansvar",
+      "to": "org-finansiel-stabilitet",
+      "beskrivelse": "Finansiel Stabilitet er ejet af staten gennem Skatte- og Vækstministeriet.",
+      "belaeg": [
+        {
+          "url": "https://fs.dk/om-os/om-finansiel-stabilitet",
+          "citat": "Finansiel Stabilitet er en selvstændig offentlig virksomhed, der er ejet af den danske stat gennem Skatte- og Vækstministeriet."
+        },
+        {
+          "url": "https://svmn.dk/ministeriet",
+          "citat": "Derudover er It-tilsynet og Finansiel Stabilitet også en del koncernen."
+        }
+      ]
+    },
+    {
+      "from": "min-skat-og-vaekst",
+      "type": "ressortansvar",
+      "to": "raad-det-systemiske-risikoraad",
+      "beskrivelse": "Rådet nedsættes af ministeren efter FIL § 343 s; ressortoverførslen 3/6/2026 omfatter det finansielle område og de dertil hørende institutioner (rådets placering ikke bekræftet særskilt).",
+      "belaeg": [
+        {
+          "url": "https://fm.dk/media/x3ek3abl/9-skatte-og-vaekstministeriet.pdf",
+          "citat": "Med kongelig resolution af d. 3. juni 2026 er det besluttet, at ressortansvaret for det finansielle område inklusive de til området hørende institutioner, herunder Finanstilsynet og Finansiel Stabilitet"
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/432",
+          "citat": "Erhvervsministeren nedsætter Det Systemiske Risikoråd, som består af 10 medlemmer."
+        }
+      ]
+    },
+    {
+      "from": "min-skat-og-vaekst",
+      "type": "ressortansvar",
+      "to": "lov-finansiel-virksomhed",
+      "beskrivelse": "Loven er ændret ved lov nr. 764 af 8/9/2026 udstedt af Skatte- og Vækstministeriet med Finanstilsynet som sagsbehandler.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/764",
+          "citat": "Skatte- og Vækstministeriet Finanstilsynet Lov om ændring af hvidvaskloven, lov om finansiel virksomhed, lov om betalinger"
+        }
+      ]
+    },
+    {
+      "from": "min-skat-og-vaekst",
+      "type": "ressortansvar",
+      "to": "lov-hvidvaskloven",
+      "beskrivelse": "Loven er ændret ved lov nr. 764 af 8/9/2026 udstedt af Skatte- og Vækstministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/764",
+          "citat": "Skatte- og Vækstministeriet Finanstilsynet Lov om ændring af hvidvaskloven, lov om finansiel virksomhed, lov om betalinger"
+        }
+      ]
+    },
+    {
+      "from": "min-skat-og-vaekst",
+      "type": "ressortansvar",
+      "to": "lov-lov-om-betalinger",
+      "beskrivelse": "Loven er ændret ved lov nr. 764 af 8/9/2026 udstedt af Skatte- og Vækstministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/764",
+          "citat": "Skatte- og Vækstministeriet Finanstilsynet Lov om ændring af hvidvaskloven, lov om finansiel virksomhed, lov om betalinger"
+        }
+      ]
+    },
+    {
+      "from": "min-skat-og-vaekst",
+      "type": "ressortansvar",
+      "to": "lov-kapitalmarkedsloven",
+      "beskrivelse": "Kapitalmarkedsloven hører under det finansielle område, hvis ressortansvar overgik til Skatte- og Vækstministeriet 3/6/2026; lovens egen side bekræfter ikke ministeriet.",
+      "belaeg": [
+        {
+          "url": "https://fm.dk/media/x3ek3abl/9-skatte-og-vaekstministeriet.pdf",
+          "citat": "Med kongelig resolution af d. 3. juni 2026 er det besluttet, at ressortansvaret for det finansielle område inklusive de til området hørende institutioner, herunder Finanstilsynet og Finansiel Stabilitet"
+        }
+      ]
+    },
+    {
+      "from": "min-skat-og-vaekst",
+      "type": "ressortansvar",
+      "to": "lov-forsikringsvirksomhed",
+      "beskrivelse": "Forsikringsområdet hører under det finansielle område (tilsyn ved Finanstilsynet); lovens egen side bekræfter ikke ministeriet efter 3/6/2026.",
+      "belaeg": [
+        {
+          "url": "https://fm.dk/media/x3ek3abl/9-skatte-og-vaekstministeriet.pdf",
+          "citat": "Med kongelig resolution af d. 3. juni 2026 er det besluttet, at ressortansvaret for det finansielle område inklusive de til området hørende institutioner, herunder Finanstilsynet og Finansiel Stabilitet"
+        }
+      ]
+    },
+    {
+      "from": "min-skat-og-vaekst",
+      "type": "ressortansvar",
+      "to": "lov-restrukturering-og-afvikling",
+      "beskrivelse": "Loven bærer Finansiel Stabilitets afviklingsopgave; ressortoverførslen 3/6/2026 omfatter Finansiel Stabilitet.",
+      "belaeg": [
+        {
+          "url": "https://fm.dk/media/x3ek3abl/9-skatte-og-vaekstministeriet.pdf",
+          "citat": "Med kongelig resolution af d. 3. juni 2026 er det besluttet, at ressortansvaret for det finansielle område inklusive de til området hørende institutioner, herunder Finanstilsynet og Finansiel Stabilitet"
+        }
+      ]
+    },
+    {
+      "from": "min-skat-og-vaekst",
+      "type": "ressortansvar",
+      "to": "lov-indskyder-og-investorgarantiordning",
+      "beskrivelse": "Loven bærer Garantiformuen, som Finansiel Stabilitet administrerer; ressortoverførslen 3/6/2026 omfatter Finansiel Stabilitet.",
+      "belaeg": [
+        {
+          "url": "https://fm.dk/media/x3ek3abl/9-skatte-og-vaekstministeriet.pdf",
+          "citat": "Med kongelig resolution af d. 3. juni 2026 er det besluttet, at ressortansvaret for det finansielle område inklusive de til området hørende institutioner, herunder Finanstilsynet og Finansiel Stabilitet"
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "lov-forbrugerklageloven",
+      "beskrivelse": "Erhvervsministeren godkender private ankenævn efter § 6; loven er ikke set flyttet fra Erhvervsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2015/524",
+          "citat": "kan godkende oprettelsen af og vedtægterne for private tvistløsningsorganer, som omfatter bestemte brancher eller andre afgrænsede områder"
+        }
+      ]
+    },
+    {
+      "from": "lov-finansiel-virksomhed",
+      "type": "hjemmel_for",
+      "to": "sty-finanstilsynet",
+      "beskrivelse": "§ 344, stk. 1 giver Finanstilsynet tilsynet; § 345 regulerer bestyrelse og direktør.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/432",
+          "citat": "Finanstilsynet påser overholdelsen af Europa-Parlamentets og Rådets forordning (EU) nr. 575/2013 om tilsynsmæssige krav til kreditinstitutter"
+        }
+      ]
+    },
+    {
+      "from": "lov-finansiel-virksomhed",
+      "type": "hjemmel_for",
+      "to": "raad-det-systemiske-risikoraad",
+      "beskrivelse": "§ 343 s opretter Det Systemiske Risikoråd.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/432",
+          "citat": "Erhvervsministeren nedsætter Det Systemiske Risikoråd, som består af 10 medlemmer."
+        }
+      ]
+    },
+    {
+      "from": "lov-hvidvaskloven",
+      "type": "hjemmel_for",
+      "to": "sty-finanstilsynet",
+      "beskrivelse": "§ 47 giver Finanstilsynet tilsyn med virksomheder og personer omfattet af § 1, stk. 1, nr. 1-12, 18 og 22.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/433",
+          "citat": "Finanstilsynet påser, at virksomheder og personer omfattet af § 1, stk. 1, nr. 1-12, 18 og 22"
+        }
+      ]
+    },
+    {
+      "from": "lov-lov-om-betalinger",
+      "type": "hjemmel_for",
+      "to": "sty-finanstilsynet",
+      "beskrivelse": "§ 130 giver Finanstilsynet tilsyn med loven og regler udstedt efter den.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/463",
+          "citat": "Finanstilsynet påser overholdelsen af loven med undtagelse af § 27 og påser overholdelsen af regler udstedt i medfør af loven"
+        }
+      ]
+    },
+    {
+      "from": "lov-kapitalmarkedsloven",
+      "type": "hjemmel_for",
+      "to": "sty-finanstilsynet",
+      "beskrivelse": "§ 211 giver Finanstilsynet tilsyn med loven; § 232 fastsætter klage til Erhvervsankenævnet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/464",
+          "citat": "Finanstilsynet påser overholdelsen af denne lov og regler fastsat i medfør heraf bortset fra § 9 og reglerne i kapitel 36."
+        }
+      ]
+    },
+    {
+      "from": "lov-forsikringsvirksomhed",
+      "type": "hjemmel_for",
+      "to": "sty-finanstilsynet",
+      "beskrivelse": "§ 259 giver Finanstilsynet tilsyn med loven; § 309 fastsætter klage til Erhvervsankenævnet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/461",
+          "citat": "Finanstilsynet påser overholdelse af denne lov og regler udstedt i medfør af loven undtagen § 24, § 111, stk. 1 og 2, og §§ 137 og 242."
+        }
+      ]
+    },
+    {
+      "from": "lov-restrukturering-og-afvikling",
+      "type": "hjemmel_for",
+      "to": "org-finansiel-stabilitet",
+      "beskrivelse": "§ 4: Finansiel Stabilitet iværksætter afviklingsforanstaltninger; § 56: Afviklingsformuen administreres af Finansiel Stabilitet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2019/24",
+          "citat": "Der etableres en afviklingsfinansieringsordning (Afviklingsformuen), som administreres af Finansiel Stabilitet."
+        }
+      ]
+    },
+    {
+      "from": "lov-indskyder-og-investorgarantiordning",
+      "type": "hjemmel_for",
+      "to": "org-finansiel-stabilitet",
+      "beskrivelse": "§ 1: Garantiformuen administreres af Finansiel Stabilitet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/39",
+          "citat": "Garantiformuen administreres af Finansiel Stabilitet i overensstemmelse med denne lov."
+        }
+      ]
+    },
+    {
+      "from": "lov-forbrugerklageloven",
+      "type": "hjemmel_for",
+      "to": "org-det-finansielle-ankenaevn",
+      "beskrivelse": "§ 6, stk. 1: godkendelse af oprettelsen og vedtægterne for private tvistløsningsorganer; ankenævnets vedtægter er godkendt pr. 18/9/2025 frem til 31/1/2028.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2015/524",
+          "citat": "kan godkende oprettelsen af og vedtægterne for private tvistløsningsorganer, som omfatter bestemte brancher eller andre afgrænsede områder"
+        }
+      ]
+    },
+    {
+      "from": "lov-forbrugerklageloven",
+      "type": "hjemmel_for",
+      "to": "org-ankenaevnet-for-fondsmaeglerselskaber",
+      "beskrivelse": "§ 6, stk. 1: godkendelse af private tvistløsningsorganer, herunder Ankenævnet for Fondsmæglerselskaber.",
+      "belaeg": [
+        {
+          "url": "https://www.fanke.dk/ankenaevnet-for-fondsmaeglerselskaber/",
+          "citat": "Ankenævnet for Fondsmæglerselskaber er efter § 6, stk. 1, i lov om forbrugerklager et godkendt privat ankenævn"
+        }
+      ]
+    },
+    {
+      "from": "naevn-erhvervsankenaevnet",
+      "type": "klageinstans",
+      "to": "sty-finanstilsynet",
+      "beskrivelse": "Lov om finansiel virksomhed § 372, stk. 1: afgørelser kan indbringes af adressaten senest 4 uger efter meddelelsen; stk. 2 og 3: 24 timer for afgørelser efter § 246 og § 224 a; stk. 4: fælles beslutninger med Finansiel Stabilitet m.fl. kan ikke indbringes. Samme frist (4 uger): kapitalmarkedsloven § 232, hvidvaskloven § 76, loven om betalinger § 143, forsikringsvirksomhedsloven § 309, stk. 1. Nævnets afgørelse kan ikke indbringes for anden administrativ myndighed (nævnsloven § 1, stk. 3); klage har ikke opsættende virkning (nævnsloven § 6, stk. 1), medmindre andet er fastsat. Domstolsprøvelse er mulig: FIL § 354 a nævner, at en reaktion kan indbringes for Erhvervsankenævnet eller domstolene.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/432",
+          "citat": "kan af den, som afgørelsen retter sig til, indbringes for Erhvervsankenævnet senest 4 uger efter, at afgørelsen er meddelt den pågældende."
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/432",
+          "citat": "Afgørelser truffet af Finanstilsynet i forbindelse med forhold omfattet af § 246, der ønskes påklaget, skal indbringes for Erhvervsankenævnet senest 24 timer efter, at afgørelsen er meddelt den pågældende."
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2013/1374",
+          "citat": "Ankenævnets afgørelser kan ikke indbringes for anden administrativ myndighed."
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/433",
+          "citat": "kan af den, som afgørelsen retter sig mod, indbringes for Erhvervsankenævnet, senest 4 uger efter at afgørelsen er meddelt den pågældende."
+        }
+      ]
+    },
+    {
+      "from": "naevn-erhvervsankenaevnet",
+      "type": "klageinstans",
+      "to": "org-finansiel-stabilitet",
+      "beskrivelse": "Indskyder- og investorgarantiloven § 23 b: Finansiel Stabilitets afgørelser på vegne af Garantiformuen kan indbringes for Erhvervsankenævnet senest 4 uger efter meddelelsen. Fælles beslutninger med Finanstilsynet kan ikke indbringes (FIL § 372, stk. 4). Klagevej over afviklingsafgørelser efter restruktureringsloven er ikke fundet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/39",
+          "citat": "Afgørelser truffet af Finansiel Stabilitet på vegne af Garantiformuen i henhold til loven eller regler udstedt i medfør af loven kan af den, som afgørelsen retter sig imod, indbringes for Erhvervsankenævnet, senest 4 uger efter at afgørelsen er meddelt den pågældende."
+        }
+      ]
+    },
+    {
+      "from": "sty-finanstilsynet",
+      "type": "udsteder",
+      "to": "kilde-finanstilsynet-tilsynsreaktioner",
+      "beskrivelse": "Finanstilsynet offentliggør inspektionsredegørelser og tilsynsreaktioner på egen hjemmeside (FIL § 354 a; hvidvaskloven § 55).",
+      "belaeg": [
+        {
+          "url": "https://www.finanstilsynet.dk/tilsyn/offentliggoerelse-af-tilsynsreaktioner",
+          "citat": "Finanstilsynet offentliggør tilsynsreaktioner for at sikre åbenhed om tilsynsarbejdet og styrke tilliden til den finansielle sektor."
+        }
+      ]
+    },
+    {
+      "from": "sty-finanstilsynet",
+      "type": "udsteder",
+      "to": "kilde-finanstilsynet-lovsamling",
+      "beskrivelse": "Finanstilsynet driver den danske lovsamling med links til love, bekendtgørelser og vejledninger.",
+      "belaeg": [
+        {
+          "url": "https://www.finanstilsynet.dk/lovgivning/dansk-lovsamling/tvaergaaende",
+          "citat": "Her finder du love, bekendtgørelser, regnskabsbestemmelser og vejledninger."
+        }
+      ]
+    },
+    {
+      "from": "org-det-finansielle-ankenaevn",
+      "type": "udsteder",
+      "to": "kilde-dfa-afgoerelser",
+      "beskrivelse": "Ankenævnet driver afgørelsesdatabasen på fanke.dk.",
+      "belaeg": [
+        {
+          "url": "https://fanke.dk/media/1564/dfa_årsberetning-2025_endelig-version.pdf",
+          "citat": "Via hjemmesiden er der adgang til at søge i de over 14.000 afgørelser, som Ankenævnet har truffet siden 1988."
+        }
+      ]
+    },
+    {
+      "from": "lov-finansiel-virksomhed",
+      "type": "henviser_til",
+      "to": "lov-restrukturering-og-afvikling",
+      "beskrivelse": "FIL henviser til restruktureringsloven for Afviklingsformuen (kapitel 11).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/432",
+          "citat": "Konstateres det, at en kapitalejer eller kreditor, herunder Garantiformuen, har lidt større tab, end den ville have gjort ved konkursbehandling af pengeinstituttet eller realkreditinstituttet, betales forskellen af Afviklingsformuen"
+        }
+      ]
+    },
+    {
+      "from": "lov-finansiel-virksomhed",
+      "type": "implementerer_EU",
+      "to": "eu-reg-2013-575",
+      "beskrivelse": "Supplerer CRR: § 344, stk. 1 tillægger Finanstilsynet tilsynet med forordningen (forordningen gælder umiddelbart).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/432",
+          "citat": "Finanstilsynet påser overholdelsen af Europa-Parlamentets og Rådets forordning (EU) nr. 575/2013 om tilsynsmæssige krav til kreditinstitutter"
+        }
+      ]
+    },
+    {
+      "from": "lov-finansiel-virksomhed",
+      "type": "implementerer_EU",
+      "to": "eu-dir-2013-36",
+      "beskrivelse": "FIL gennemfører dele af CRD IV.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/432",
+          "citat": "dele af Europa-Parlamentets og Rådets direktiv 2013/36/EU af 26. juni 2013 (CRD IV)"
+        }
+      ]
+    },
+    {
+      "from": "lov-forsikringsvirksomhed",
+      "type": "implementerer_EU",
+      "to": "eu-dir-2009-138",
+      "beskrivelse": "Loven gennemfører dele af Solvens II.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/461",
+          "citat": "Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2009/138/EF af 25. november 2009 om adgang til og udøvelse af forsikrings- og genforsikringsvirksomhed (Solvens II)"
+        }
+      ]
+    },
+    {
+      "from": "lov-kapitalmarkedsloven",
+      "type": "implementerer_EU",
+      "to": "eu-dir-2014-65",
+      "beskrivelse": "Loven gennemfører dele af MiFID II.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/464",
+          "citat": "dele af Europa-Parlamentets og Rådets direktiv 2014/65/EU af 15. maj 2014, EU-Tidende 2014"
+        }
+      ]
+    },
+    {
+      "from": "lov-hvidvaskloven",
+      "type": "implementerer_EU",
+      "to": "eu-dir-2015-849",
+      "beskrivelse": "Loven gennemfører dele af 4. hvidvaskdirektiv.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/433",
+          "citat": "Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2015/849/EU af 20. maj 2015 om forebyggende foranstaltninger mod anvendelse af det finansielle system til hvidvask af penge eller finansiering af terrorisme"
+        }
+      ]
+    }
+  ],
+  "huller": [
+    {
+      "emne": "Tilsynsobjekter",
+      "type": "andet",
+      "beskrivelse": "Tilsyn-kanter fra Finanstilsynet til de tilsynsunderlagte (banker, realkreditinstitutter, forsikringsselskaber, fondsmæglerselskaber, betalingsinstitutter) er ikke oprettet, fordi de ikke er instanser i registry'et. Tilsynsvejen står i hjemmelskanterne og i FIL § 344.",
+      "noder": [
+        "sty-finanstilsynet"
+      ],
+      "kilder": [
+        "https://www.retsinformation.dk/eli/lta/2026/432"
+      ]
+    },
+    {
+      "emne": "Enkeltreaktioners adressemønster og nummer",
+      "type": "uklart",
+      "beskrivelse": "Finanstilsynets søgeside er JavaScript med filtre; et fast nummersystem og et stabilt URL-mønster for enkeltreaktioner er ikke bekræftet (søgemaskineresultater viste /tilsyn/inspektion-og-afgoerelser/ÅÅÅÅ/mdr/titel, men to af dem gav 404). Genbrugsvilkår (licens) er ikke fundet på siden.",
+      "noder": [
+        "kilde-finanstilsynet-tilsynsreaktioner"
+      ],
+      "kilder": [
+        "https://www.finanstilsynet.dk/tilsyn/inspektionsredegoerelser-og-afgoerelser"
+      ]
+    },
+    {
+      "emne": "Finanstilsynets vejledninger som selvstændig samling",
+      "type": "uklart",
+      "beskrivelse": "Vejledninger er kun set som links i Finanstilsynets lovsamling og som VEJ på Retsinformation; en samlet vejledningsdatabase eller et eget nummersystem er ikke fundet.",
+      "noder": [
+        "kilde-finanstilsynet-lovsamling"
+      ],
+      "kilder": [
+        "https://www.finanstilsynet.dk/lovgivning/dansk-lovsamling/tvaergaaende"
+      ]
+    },
+    {
+      "emne": "Erhvervsankenævnets kendelser på det finansielle område",
+      "type": "uklart",
+      "beskrivelse": "Nævnets portal er kilde-ean-afgoerelser (allerede i registry). Om finansielle sager (FIL, hvidvask, kapitalmarked) er søgbare adskilt, og om de offentliggøres fuldt, er ikke undersøgt.",
+      "noder": [
+        "kilde-finanstilsynet-tilsynsreaktioner"
+      ],
+      "kilder": [
+        "https://www.retsinformation.dk/eli/lta/2013/1374"
+      ]
+    },
+    {
+      "emne": "Finansiel Stabilitets etablering og klagevej",
+      "type": "ikke-fundet",
+      "beskrivelse": "Lov om finansiel stabilitet er ophævet (FS's regelgrundlag-side); hvilken bestemmelse der etablerer selskabet i dag, og hvem der behandler klager over afviklingsafgørelser efter restruktureringsloven, er ikke fundet. Klage over Garantiformuens afgørelser går til Erhvervsankenævnet (garantiloven § 23 b).",
+      "noder": [
+        "org-finansiel-stabilitet"
+      ],
+      "kilder": [
+        "https://fs.dk/om-os/regelgrundlag"
+      ]
+    },
+    {
+      "emne": "Hvilken minister godkender Det finansielle ankenævn efter 3/6/2026",
+      "type": "uklart",
+      "beskrivelse": "Forbrugerklageloven § 6 og nævnets beretning for 2025 siger erhvervsministeren; en 2026-kilde med ministeransvar for forbrugerklageområdet efter regeringsskiftet er ikke set.",
+      "noder": [
+        "org-det-finansielle-ankenaevn",
+        "lov-forbrugerklageloven"
+      ],
+      "kilder": [
+        "https://www.retsinformation.dk/eli/lta/2015/524"
+      ]
+    },
+    {
+      "emne": "Domstolsprøvelse af Finanstilsynets afgørelser",
+      "type": "uklart",
+      "beskrivelse": "FIL § 372 omtaler kun Erhvervsankenævnet; at afgørelser (og nævnets kendelser) kan indbringes for domstolene, er set i FIL § 354 a og i særbestemmelser (fx § 351, stk. 7: påbud om afsættelse af direktør, anmodning inden 4 uger). Generel frist og fora (byret/Sø- og Handelsretten) er ikke fastlagt i de gennemgåede love.",
+      "noder": [
+        "sty-finanstilsynet"
+      ],
+      "kilder": [
+        "https://www.retsinformation.dk/eli/lta/2026/432"
+      ]
+    },
+    {
+      "emne": "Nationalbankens lov og forhold til ministeriet",
+      "type": "ikke-fundet",
+      "beskrivelse": "Lov om Danmarks Nationalbank er ikke gennemgået; kun rollen i Risikorådet og høringsrollen er belagt.",
+      "noder": [],
+      "kilder": [
+        "https://www.nationalbanken.dk/en/about-us"
+      ]
+    }
+  ],
+  "noter": "Til orkestratoren: (1) Audit-påstand bekræftet: Finanstilsynet og Finansiel Stabilitet hører under Skatte- og Vækstministeriet (ressortoverførsel ved kgl. resolution 3/6/2026; belagt på svmn.dk/ministeriet, fs.dk, FFL 2027 § 9 og lov nr. 764 af 8/9/2026). Lovtekster udstedt før overførslen (FIL LBK 432/2026, hvidvaskloven, betalinger) siger stadig 'erhvervsministeren' eller 'Erhvervsministeriet' i metadata. (2) Audit-påstand rettet: Det finansielle ankenævn er ikke godkendt af Finanstilsynet men af ministeren efter forbrugerklageloven § 6; stiftet 1/2/2019 som sammenlægning. Ankenævnet for Fondsmæglerselskaber er et separat godkendt nævn. (3) Audit-påstand 'FIL § 354 a' bekræftet; 'hvidvaskreaktioner offentlige i mindst 5 år' står i hvidvaskloven § 55, stk. 2 (ikke i FIL). (4) Foreslåede rettelser i eksisterende noder: tilføj klageinstans-kanten naevn-erhvervsankenaevnet → sty-erhvervsstyrelsen om FIL § 372 (4 uger; Erhvervsstyrelsen påser FIL § 15 m.fl.) i beskrivelsen; lov-erhvervsankenaevnsloven (LBK 1374/2013, Valid) har ikke nyere version fundet; Erhvervsankenævnets nævnslov ligger stadig under Erhvervsministeriet. (5) Citatkontrollens PRIMARY-liste mangler svmn.dk, fm.dk, finanstilsynet.dk, fs.dk, nationalbanken.dk og fanke.dk; ressortkanterne har derfor to uafhængige kilder hvor muligt. (6) Det Finansielle Ankenævns beretning er PDF på fanke.dk med URL indeholdende å; hentes som i filen. (7) Gældende lovbekendtgørelser: FIL 432/2026 (16/4/2026), hvidvaskloven 433/2026 (17/4/2026), betalinger 463/2026 (24/4/2026), forsikringsvirksomhed 461/2026 (26/4/2026), kapitalmarkeder 464/2026 (1/5/2026), restrukturering 24/2019, garantiordning 39/2024, forbrugerklageloven (original 524/2015, ingen nyere LBK fundet). Lov nr. 764 af 8/9/2026 ændrer FIL, hvidvaskloven og betalinger (i kraft 15/9/2026) uden at være indarbejdet. Ikke nået: lov om Danmarks Nationalbank, Hvidvasksekretariatet/SØIK, Erhvervsstyrelsens finansielle opgaver, Finanstilsynets bekendtgørelse om forretningsorden, firmapensionskasseloven, lov om fondsmæglerselskaber. [Orkestrator 2026-11-11: noden org-danmarks-nationalbank og kanten org-danmarks-nationalbank|udsteder|raad-det-systemiske-risikoraad er fjernet. Nationalbanken sekretariatsbetjener Det Systemiske Risikoråd, men skemaet har ingen kanttype for det, og udsteder går fra instans til dokument. Nationalbanken har derfor ingen node endnu; se hullet om Nationalbankens lov.]"
+}

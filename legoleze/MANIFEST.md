@@ -3,6 +3,8 @@
 Bygget 2026-11-11 20:25 UTC. Kortlægning af danske myndigheder og retskilder til et RAG-korpus (udvidelse af jakob1379/br18).
 Status for registry'et pr. 2026-10-28; katalogets dokumentstatus pr. 2026-06-12 (udstedelser til 2026-02-12).
 
+**Ændret siden pakningen (fase 7, fra 2026-11-11):** `dk-regulering/registry.yaml` rettes nu direkte med `pipeline/populate.py`, og `pipeline/views.sh` genskaber README, views, `intermediate/registry/final.json`, `viz_data.json` og kortet. Nye filer: `pipeline/populate.py`, `pipeline/populate-brief.md`, `pipeline/views.sh` og `raw/populate/` (agenternes fund, kontrollanternes domme og kontroljournaler). `dashboard/mangler.json` og `fremdrift.json` er rettet i hånden. Filtabellen nederst beskriver den oprindelige pakke; git-historikken viser, hvad der er ændret siden.
+
 ## Indhold
 
 | Mappe | Hvad |
@@ -29,7 +31,7 @@ Status for registry'et pr. 2026-10-28; katalogets dokumentstatus pr. 2026-06-12 
 - Registry'ets påstande har egne kilder (URL'er set i søgeresultater) og sikkerhed (verificeret/sandsynlig/ukendt) pr. felt og kant.
 - Katalog-kilderne er datasættets egne Retsinformation-URL'er.
 
-## Filer (251)
+## Filer i den oprindelige pakke (251)
 
 | Fil | Bytes | SHA-256 |
 |---|---:|---|

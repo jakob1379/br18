@@ -1,0 +1,1400 @@
+[
+ {
+  "hvor": "sty-finanstilsynet.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/432",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/432",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/432",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-finanstilsynet.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.finanstilsynet.dk/tilsyn/inspektionsredegoerelser-og-afgoerelser",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.finanstilsynet.dk/tilsyn/typer-af-tilsynsreaktioner",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.finanstilsynet.dk/lovgivning/dansk-lovsamling/tvaergaaende",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-finanstilsynet.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.finanstilsynet.dk/tilsyn/typer-af-tilsynsreaktioner",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://svmn.dk/ministeriet",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-finansiel-stabilitet.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/24",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/24",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/24",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/39",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-finansiel-stabilitet.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/39",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/24",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-finansiel-stabilitet.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://fs.dk/om-os/om-finansiel-stabilitet",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "raad-det-systemiske-risikoraad.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/432",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/432",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "raad-det-systemiske-risikoraad.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.nationalbanken.dk/en/what-we-do/stable-financial-system/macroprudential-policy/the-systemic-risk-council",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "raad-det-systemiske-risikoraad.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.nationalbanken.dk/en/what-we-do/stable-financial-system/macroprudential-policy/the-systemic-risk-council",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-det-finansielle-ankenaevn.tidligere_navne[Pengeinstitutankenævnet, Realkreditankenævnet og Ankenævnet for Investeringsfonde (sammenlagt)]",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://fanke.dk/media/1564/dfa_årsberetning-2025_endelig-version.pdf",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-det-finansielle-ankenaevn.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://fanke.dk/media/1564/dfa_årsberetning-2025_endelig-version.pdf",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://fanke.dk/media/1564/dfa_årsberetning-2025_endelig-version.pdf",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.fanke.dk/det-finansielle-ankenaevn/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-det-finansielle-ankenaevn.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://fanke.dk/media/1564/dfa_årsberetning-2025_endelig-version.pdf",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-det-finansielle-ankenaevn.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.fanke.dk/det-finansielle-ankenaevn/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-ankenaevnet-for-fondsmaeglerselskaber.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.fanke.dk/ankenaevnet-for-fondsmaeglerselskaber/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-ankenaevnet-for-fondsmaeglerselskaber.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.fanke.dk/ankenaevnet-for-fondsmaeglerselskaber/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-finanstilsynet-tilsynsreaktioner.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/432",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/432",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/433",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.finanstilsynet.dk/tilsyn/offentliggoerelse-af-tilsynsreaktioner",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-finanstilsynet-tilsynsreaktioner.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.finanstilsynet.dk/tilsyn/inspektionsredegoerelser-og-afgoerelser",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-finanstilsynet-tilsynsreaktioner.adgang",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.finanstilsynet.dk/tilsyn/inspektionsredegoerelser-og-afgoerelser",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.finanstilsynet.dk/tilsyn/offentliggoerelse-af-tilsynsreaktioner",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-finanstilsynet-tilsynsreaktioner.identifikatorer",
+  "sikkerhed": "ukendt",
+  "dom": "baerer-ikke",
+  "belaeg": [
+   {
+    "url": "https://www.finanstilsynet.dk/tilsyn/offentliggoerelse-af-tilsynsreaktioner",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-finanstilsynet-tilsynsreaktioner.opdatering",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/433",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-finanstilsynet-lovsamling.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.finanstilsynet.dk/lovgivning/dansk-lovsamling/tvaergaaende",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-finanstilsynet-lovsamling.adgang",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.finanstilsynet.dk/lovgivning/dansk-lovsamling/tvaergaaende",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-finanstilsynet-lovsamling.identifikatorer",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.finanstilsynet.dk/lovgivning/dansk-lovsamling/tvaergaaende",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-dfa-afgoerelser.url",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://fanke.dk/media/1564/dfa_årsberetning-2025_endelig-version.pdf",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-dfa-afgoerelser.adgang",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://fanke.dk/media/1564/dfa_årsberetning-2025_endelig-version.pdf",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://fanke.dk/media/1564/dfa_årsberetning-2025_endelig-version.pdf",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-dfa-afgoerelser.identifikatorer",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://fanke.dk/media/1564/dfa_årsberetning-2025_endelig-version.pdf",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://fanke.dk/media/1564/dfa_årsberetning-2025_endelig-version.pdf",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-dfa-afgoerelser.opdatering",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://fanke.dk/media/1564/dfa_årsberetning-2025_endelig-version.pdf",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "lov-finansiel-virksomhed.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af lov om finansiel virksomhed",
+   "Year": "2026",
+   "DiesSigni": "2026-04-16",
+   "Status": "Valid",
+   "Number": "432"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-finansiel-virksomhed.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af lov om finansiel virksomhed",
+   "Year": "2026",
+   "DiesSigni": "2026-04-16",
+   "Status": "Valid",
+   "Number": "432"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-finansiel-virksomhed.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af lov om finansiel virksomhed",
+   "Year": "2026",
+   "DiesSigni": "2026-04-16",
+   "Status": "Valid",
+   "Number": "432"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2026/432",
+   "lovtidende": "LBK nr. 432 af 16/04/2026"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-kapitalmarkedsloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af lov om kapitalmarkeder",
+   "Year": "2026",
+   "DiesSigni": "2026-05-01",
+   "Status": "Valid",
+   "Number": "464"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-kapitalmarkedsloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af lov om kapitalmarkeder",
+   "Year": "2026",
+   "DiesSigni": "2026-05-01",
+   "Status": "Valid",
+   "Number": "464"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-kapitalmarkedsloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af lov om kapitalmarkeder",
+   "Year": "2026",
+   "DiesSigni": "2026-05-01",
+   "Status": "Valid",
+   "Number": "464"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2026/464",
+   "lovtidende": "LBK nr. 464 af 01/05/2026"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-hvidvaskloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af lov om forebyggende foranstaltninger mod hvidvask og finansiering af terrorisme (hvidvaskloven)",
+   "Year": "2026",
+   "DiesSigni": "2026-04-17",
+   "Status": "Valid",
+   "Number": "433",
+   "PopularTitle": "Hvidvaskloven"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-hvidvaskloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af lov om forebyggende foranstaltninger mod hvidvask og finansiering af terrorisme (hvidvaskloven)",
+   "Year": "2026",
+   "DiesSigni": "2026-04-17",
+   "Status": "Valid",
+   "Number": "433",
+   "PopularTitle": "Hvidvaskloven"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-hvidvaskloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af lov om forebyggende foranstaltninger mod hvidvask og finansiering af terrorisme (hvidvaskloven)",
+   "Year": "2026",
+   "DiesSigni": "2026-04-17",
+   "Status": "Valid",
+   "Number": "433",
+   "PopularTitle": "Hvidvaskloven"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2026/433",
+   "lovtidende": "LBK nr. 433 af 17/04/2026"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-lov-om-betalinger.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af lov om betalinger",
+   "Year": "2026",
+   "DiesSigni": "2026-04-26",
+   "Status": "Valid",
+   "Number": "463"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-lov-om-betalinger.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af lov om betalinger",
+   "Year": "2026",
+   "DiesSigni": "2026-04-26",
+   "Status": "Valid",
+   "Number": "463"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-lov-om-betalinger.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af lov om betalinger",
+   "Year": "2026",
+   "DiesSigni": "2026-04-26",
+   "Status": "Valid",
+   "Number": "463"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2026/463",
+   "lovtidende": "LBK nr. 463 af 24/04/2026"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-forsikringsvirksomhed.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af lov om forsikringsvirksomhed i tværgående pensionskasser, livsforsikringsselskaber og skadesforsikringsselskaber m.v. (lov om forsikringsvirksomhed)",
+   "Year": "2026",
+   "DiesSigni": "2026-04-26",
+   "Status": "Valid",
+   "Number": "461"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-forsikringsvirksomhed.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af lov om forsikringsvirksomhed i tværgående pensionskasser, livsforsikringsselskaber og skadesforsikringsselskaber m.v. (lov om forsikringsvirksomhed)",
+   "Year": "2026",
+   "DiesSigni": "2026-04-26",
+   "Status": "Valid",
+   "Number": "461"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-forsikringsvirksomhed.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af lov om forsikringsvirksomhed i tværgående pensionskasser, livsforsikringsselskaber og skadesforsikringsselskaber m.v. (lov om forsikringsvirksomhed)",
+   "Year": "2026",
+   "DiesSigni": "2026-04-26",
+   "Status": "Valid",
+   "Number": "461"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2026/461",
+   "lovtidende": "LBK nr. 461 af 26/04/2026"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-restrukturering-og-afvikling.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af lov om restrukturering og afvikling af visse finansielle virksomheder",
+   "Year": "2019",
+   "DiesSigni": "2019-01-04",
+   "Status": "Valid",
+   "Number": "24"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-restrukturering-og-afvikling.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af lov om restrukturering og afvikling af visse finansielle virksomheder",
+   "Year": "2019",
+   "DiesSigni": "2019-01-04",
+   "Status": "Valid",
+   "Number": "24"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-restrukturering-og-afvikling.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af lov om restrukturering og afvikling af visse finansielle virksomheder",
+   "Year": "2019",
+   "DiesSigni": "2019-01-04",
+   "Status": "Valid",
+   "Number": "24"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2019/24",
+   "lovtidende": "LBK nr. 24 af 04/01/2019"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-indskyder-og-investorgarantiordning.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af lov om en indskyder- og investorgarantiordning",
+   "Year": "2024",
+   "DiesSigni": "2024-01-09",
+   "Status": "Valid",
+   "Number": "39"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-indskyder-og-investorgarantiordning.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af lov om en indskyder- og investorgarantiordning",
+   "Year": "2024",
+   "DiesSigni": "2024-01-09",
+   "Status": "Valid",
+   "Number": "39"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-indskyder-og-investorgarantiordning.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af lov om en indskyder- og investorgarantiordning",
+   "Year": "2024",
+   "DiesSigni": "2024-01-09",
+   "Status": "Valid",
+   "Number": "39"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2024/39",
+   "lovtidende": "LBK nr. 39 af 09/01/2024"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-forbrugerklageloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LOV H#LOKDOK 01",
+   "DocumentTitle": "Lov om alternativ tvistløsning i forbindelse med forbrugerklager (forbrugerklageloven)",
+   "Year": "2015",
+   "DiesSigni": "2015-04-29",
+   "Status": "Valid",
+   "Number": "524",
+   "PopularTitle": "Forbrugerklageloven"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-forbrugerklageloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LOV H#LOKDOK 01",
+   "DocumentTitle": "Lov om alternativ tvistløsning i forbindelse med forbrugerklager (forbrugerklageloven)",
+   "Year": "2015",
+   "DiesSigni": "2015-04-29",
+   "Status": "Valid",
+   "Number": "524",
+   "PopularTitle": "Forbrugerklageloven"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-forbrugerklageloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LOV H#LOKDOK 01",
+   "DocumentTitle": "Lov om alternativ tvistløsning i forbindelse med forbrugerklager (forbrugerklageloven)",
+   "Year": "2015",
+   "DiesSigni": "2015-04-29",
+   "Status": "Valid",
+   "Number": "524",
+   "PopularTitle": "Forbrugerklageloven"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2015/524",
+   "lovtidende": "LOV nr. 524 af 29/04/2015"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "eu-reg-2013-575.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32013R0575",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "eu-reg-2013-575.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32013R0575",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "eu-reg-2013-575.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32013R0575",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "eu-dir-2013-36.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32013L0036",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "eu-dir-2013-36.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32013L0036",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "eu-dir-2013-36.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32013L0036",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "eu-dir-2009-138.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32009L0138",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "eu-dir-2009-138.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32009L0138",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "eu-dir-2009-138.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32009L0138",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "eu-dir-2014-65.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32014L0065",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "eu-dir-2014-65.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32014L0065",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "eu-dir-2014-65.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32014L0065",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "eu-dir-2015-849.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32015L0849",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "eu-dir-2015-849.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32015L0849",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "eu-dir-2015-849.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/?uri=CELEX:32015L0849",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|sty-finanstilsynet",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://svmn.dk/ministeriet",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://fm.dk/media/x3ek3abl/9-skatte-og-vaekstministeriet.pdf",
+    "status": "ok",
+    "andel": 0.79
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|org-finansiel-stabilitet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://fs.dk/om-os/om-finansiel-stabilitet",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://svmn.dk/ministeriet",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|raad-det-systemiske-risikoraad",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://fm.dk/media/x3ek3abl/9-skatte-og-vaekstministeriet.pdf",
+    "status": "ok",
+    "andel": 0.79
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/432",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|lov-finansiel-virksomhed",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/764",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|lov-hvidvaskloven",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/764",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|lov-lov-om-betalinger",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/764",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|lov-kapitalmarkedsloven",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://fm.dk/media/x3ek3abl/9-skatte-og-vaekstministeriet.pdf",
+    "status": "ok",
+    "andel": 0.79
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|lov-forsikringsvirksomhed",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://fm.dk/media/x3ek3abl/9-skatte-og-vaekstministeriet.pdf",
+    "status": "ok",
+    "andel": 0.79
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|lov-restrukturering-og-afvikling",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://fm.dk/media/x3ek3abl/9-skatte-og-vaekstministeriet.pdf",
+    "status": "ok",
+    "andel": 0.79
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|lov-indskyder-og-investorgarantiordning",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://fm.dk/media/x3ek3abl/9-skatte-og-vaekstministeriet.pdf",
+    "status": "ok",
+    "andel": 0.79
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-forbrugerklageloven",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/524",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-finansiel-virksomhed|hjemmel_for|sty-finanstilsynet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/432",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-finansiel-virksomhed|hjemmel_for|raad-det-systemiske-risikoraad",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/432",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-hvidvaskloven|hjemmel_for|sty-finanstilsynet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/433",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-lov-om-betalinger|hjemmel_for|sty-finanstilsynet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/463",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-kapitalmarkedsloven|hjemmel_for|sty-finanstilsynet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/464",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-forsikringsvirksomhed|hjemmel_for|sty-finanstilsynet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/461",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-restrukturering-og-afvikling|hjemmel_for|org-finansiel-stabilitet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/24",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-indskyder-og-investorgarantiordning|hjemmel_for|org-finansiel-stabilitet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/39",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-forbrugerklageloven|hjemmel_for|org-det-finansielle-ankenaevn",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/524",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-forbrugerklageloven|hjemmel_for|org-ankenaevnet-for-fondsmaeglerselskaber",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.fanke.dk/ankenaevnet-for-fondsmaeglerselskaber/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant naevn-erhvervsankenaevnet|klageinstans|sty-finanstilsynet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/432",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/432",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2013/1374",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/433",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant naevn-erhvervsankenaevnet|klageinstans|org-finansiel-stabilitet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/39",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-finanstilsynet|udsteder|kilde-finanstilsynet-tilsynsreaktioner",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.finanstilsynet.dk/tilsyn/offentliggoerelse-af-tilsynsreaktioner",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-finanstilsynet|udsteder|kilde-finanstilsynet-lovsamling",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.finanstilsynet.dk/lovgivning/dansk-lovsamling/tvaergaaende",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant org-det-finansielle-ankenaevn|udsteder|kilde-dfa-afgoerelser",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://fanke.dk/media/1564/dfa_årsberetning-2025_endelig-version.pdf",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-finansiel-virksomhed|henviser_til|lov-restrukturering-og-afvikling",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/432",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-finansiel-virksomhed|implementerer_EU|eu-reg-2013-575",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/432",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-finansiel-virksomhed|implementerer_EU|eu-dir-2013-36",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/432",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-forsikringsvirksomhed|implementerer_EU|eu-dir-2009-138",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/461",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-kapitalmarkedsloven|implementerer_EU|eu-dir-2014-65",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/464",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-hvidvaskloven|implementerer_EU|eu-dir-2015-849",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/433",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ }
+]

@@ -1,0 +1,2048 @@
+[
+ {
+  "hvor": "sty-sundhedsstyrelsen.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/275",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-sundhedsstyrelsen.url",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.skim.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-styrelsen-for-patientsikkerhed.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/275",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1008",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-styrelsen-for-patientsikkerhed.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://stps.dk/da/om-os/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-styrelsen-for-patientklager.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-styrelsen-for-patientklager.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.stpk.dk/viden/publikationer/",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.stpk.dk/viden/praksissammenfatninger/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-styrelsen-for-patientklager.url",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.skim.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-laegemiddelstyrelsen.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/339",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-laegemiddelstyrelsen.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://laegemiddelstyrelsen.dk/da/om-os/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-sundhedsdatastyrelsen.url",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.skim.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-statens-serum-institut.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.ssi.dk/om-ssi",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-sundhedsvaesenets-disciplinaernaevn.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-sundhedsvaesenets-disciplinaernaevn.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.stpk.dk/afgorelser-og-domme/afgorelser-fra-sundhedsvaesenets-disciplinaernaevn/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-ankenaevnet-for-patienterstatningen.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-ankenaevnet-for-patienterstatningen.url",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.stpk.dk/om-os/naevn/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-patienterstatningen.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-patienterstatningen.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://patienterstatningen.dk/om-os",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-tvangsbehandlingsnaevnet.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-tvangsbehandlingsnaevnet.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.stpk.dk/om-os/naevn/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-det-psykiatriske-patientklagenaevn.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1045",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-det-psykiatriske-patientklagenaevn.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.stpk.dk/om-os/naevn/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-det-psykiatriske-ankenaevn.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1045",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-det-psykiatriske-ankenaevn.url",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.stpk.dk/om-os/naevn/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-ankenaevnet-for-tilsynsafgoerelser.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-ankenaevnet-for-tilsynsafgoerelser.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.stpk.dk/om-os/naevn/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "raad-laegemiddelnaevnet.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/339",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "raad-laegemiddelnaevnet.url",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://laegemiddelstyrelsen.dk/da/om-os/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "lov-sundhedsloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af sundhedsloven",
+   "Year": "2025",
+   "DiesSigni": "2025-03-12",
+   "Status": "Historic",
+   "Number": "275",
+   "PopularTitle": "Sundhedsloven",
+   "DateOfHistoricMark": "2026-10-19"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-sundhedsloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af sundhedsloven",
+   "Year": "2025",
+   "DiesSigni": "2025-03-12",
+   "Status": "Historic",
+   "Number": "275",
+   "PopularTitle": "Sundhedsloven",
+   "DateOfHistoricMark": "2026-10-19"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-sundhedsloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af sundhedsloven",
+   "Year": "2025",
+   "DiesSigni": "2025-03-12",
+   "Status": "Historic",
+   "Number": "275",
+   "PopularTitle": "Sundhedsloven",
+   "DateOfHistoricMark": "2026-10-19"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2025/275",
+   "lovtidende": "LBK nr. 275 af 12/03/2025"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-autorisation-sundhedspersoner.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed",
+   "Year": "2024",
+   "DiesSigni": "2024-08-29",
+   "Status": "Valid",
+   "Number": "1008",
+   "PopularTitle": "Autorisationsloven"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-autorisation-sundhedspersoner.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed",
+   "Year": "2024",
+   "DiesSigni": "2024-08-29",
+   "Status": "Valid",
+   "Number": "1008",
+   "PopularTitle": "Autorisationsloven"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-autorisation-sundhedspersoner.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed",
+   "Year": "2024",
+   "DiesSigni": "2024-08-29",
+   "Status": "Valid",
+   "Number": "1008",
+   "PopularTitle": "Autorisationsloven"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2024/1008",
+   "lovtidende": "LBK nr. 1008 af 29/08/2024"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-klage-og-erstatningsloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af lov om klage- og erstatningsadgang inden for sundhedsvæsenet",
+   "Year": "2025",
+   "DiesSigni": "2025-10-28",
+   "Status": "Valid",
+   "Number": "1250"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-klage-og-erstatningsloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af lov om klage- og erstatningsadgang inden for sundhedsvæsenet",
+   "Year": "2025",
+   "DiesSigni": "2025-10-28",
+   "Status": "Valid",
+   "Number": "1250"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-klage-og-erstatningsloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af lov om klage- og erstatningsadgang inden for sundhedsvæsenet",
+   "Year": "2025",
+   "DiesSigni": "2025-10-28",
+   "Status": "Valid",
+   "Number": "1250"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2025/1250",
+   "lovtidende": "LBK nr. 1250 af 28/10/2025"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-laegemiddelloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af lov om lægemidler",
+   "Year": "2023",
+   "DiesSigni": "2023-03-15",
+   "Status": "Valid",
+   "Number": "339",
+   "PopularTitle": "Lægemiddelloven"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-laegemiddelloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af lov om lægemidler",
+   "Year": "2023",
+   "DiesSigni": "2023-03-15",
+   "Status": "Valid",
+   "Number": "339",
+   "PopularTitle": "Lægemiddelloven"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-laegemiddelloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af lov om lægemidler",
+   "Year": "2023",
+   "DiesSigni": "2023-03-15",
+   "Status": "Valid",
+   "Number": "339",
+   "PopularTitle": "Lægemiddelloven"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2023/339",
+   "lovtidende": "LBK nr. 339 af 15/03/2023"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-psykiatriloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af lov om anvendelse af tvang i psykiatrien m.v.",
+   "Year": "2024",
+   "DiesSigni": "2024-09-18",
+   "Status": "Valid",
+   "Number": "1045",
+   "PopularTitle": "Psykiatriloven"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-psykiatriloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af lov om anvendelse af tvang i psykiatrien m.v.",
+   "Year": "2024",
+   "DiesSigni": "2024-09-18",
+   "Status": "Valid",
+   "Number": "1045",
+   "PopularTitle": "Psykiatriloven"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-psykiatriloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "DocumentTitle": "Bekendtgørelse af lov om anvendelse af tvang i psykiatrien m.v.",
+   "Year": "2024",
+   "DiesSigni": "2024-09-18",
+   "Status": "Valid",
+   "Number": "1045",
+   "PopularTitle": "Psykiatriloven"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2024/1045",
+   "lovtidende": "LBK nr. 1045 af 18/09/2024"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-forretningsorden-disciplinaernaevn.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1496",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-forretningsorden-disciplinaernaevn.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "DocumentTitle": "Bekendtgørelse om forretningsorden for Sundhedsvæsenets Disciplinærnævn",
+   "Year": "2024",
+   "DiesSigni": "2024-12-06",
+   "Status": "Valid",
+   "Number": "1496"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-forretningsorden-disciplinaernaevn.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "DocumentTitle": "Bekendtgørelse om forretningsorden for Sundhedsvæsenets Disciplinærnævn",
+   "Year": "2024",
+   "DiesSigni": "2024-12-06",
+   "Status": "Valid",
+   "Number": "1496"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2024/1496",
+   "lovtidende": "BEK nr. 1496 af 06/12/2024"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-forretningsorden-ankenaevnet-for-patienterstatningen.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/921",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-forretningsorden-ankenaevnet-for-patienterstatningen.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "DocumentTitle": "Bekendtgørelse om forretningsorden for Ankenævnet for Patienterstatningen",
+   "Year": "2024",
+   "DiesSigni": "2024-07-03",
+   "Status": "Valid",
+   "Number": "921"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-forretningsorden-ankenaevnet-for-patienterstatningen.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "DocumentTitle": "Bekendtgørelse om forretningsorden for Ankenævnet for Patienterstatningen",
+   "Year": "2024",
+   "DiesSigni": "2024-07-03",
+   "Status": "Valid",
+   "Number": "921"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2024/921",
+   "lovtidende": "BEK nr. 921 af 03/07/2024"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-forretningsorden-tvangsbehandlingsnaevnet.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2018/979",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-forretningsorden-tvangsbehandlingsnaevnet.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "DocumentTitle": "Bekendtgørelse om forretningsorden for Tvangsbehandlingsnævnet",
+   "Year": "2018",
+   "DiesSigni": "2018-06-28",
+   "Status": "Valid",
+   "Number": "979"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-forretningsorden-tvangsbehandlingsnaevnet.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "DocumentTitle": "Bekendtgørelse om forretningsorden for Tvangsbehandlingsnævnet",
+   "Year": "2018",
+   "DiesSigni": "2018-06-28",
+   "Status": "Valid",
+   "Number": "979"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2018/979",
+   "lovtidende": "BEK nr. 979 af 28/06/2018"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-forretningsorden-psykiatriske-patientklagenaevn.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/171",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-forretningsorden-psykiatriske-patientklagenaevn.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "DocumentTitle": "Bekendtgørelse om forretningsorden for Det Psykiatriske Patientklagenævn",
+   "Year": "2023",
+   "DiesSigni": "2023-02-17",
+   "Status": "Valid",
+   "Number": "171"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-forretningsorden-psykiatriske-patientklagenaevn.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "DocumentTitle": "Bekendtgørelse om forretningsorden for Det Psykiatriske Patientklagenævn",
+   "Year": "2023",
+   "DiesSigni": "2023-02-17",
+   "Status": "Valid",
+   "Number": "171"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2023/171",
+   "lovtidende": "BEK nr. 171 af 17/02/2023"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-forretningsorden-psykiatriske-ankenaevn.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/1076",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-forretningsorden-psykiatriske-ankenaevn.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "DocumentTitle": "Bekendtgørelse om forretningsorden for Det Psykiatriske Ankenævn",
+   "Year": "2019",
+   "DiesSigni": "2019-10-27",
+   "Status": "Valid",
+   "Number": "1076"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-forretningsorden-psykiatriske-ankenaevn.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "DocumentTitle": "Bekendtgørelse om forretningsorden for Det Psykiatriske Ankenævn",
+   "Year": "2019",
+   "DiesSigni": "2019-10-27",
+   "Status": "Valid",
+   "Number": "1076"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2019/1076",
+   "lovtidende": "BEK nr. 1076 af 27/10/2019"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-vedtaegter-patienterstatningen.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1724",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-vedtaegter-patienterstatningen.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "DocumentTitle": "Bekendtgørelse om vedtægter for Patienterstatningen",
+   "Year": "2024",
+   "DiesSigni": "2024-12-30",
+   "Status": "Valid",
+   "Number": "1724"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-vedtaegter-patienterstatningen.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "DocumentTitle": "Bekendtgørelse om vedtægter for Patienterstatningen",
+   "Year": "2024",
+   "DiesSigni": "2024-12-30",
+   "Status": "Valid",
+   "Number": "1724"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2024/1724",
+   "lovtidende": "BEK nr. 1724 af 30/12/2024"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-forretningsorden-laegemiddelnaevnet.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2013/1214",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-forretningsorden-laegemiddelnaevnet.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "DocumentTitle": "Bekendtgørelse om forretningsorden for Lægemiddelnævnet",
+   "Year": "2013",
+   "DiesSigni": "2013-10-01",
+   "Status": "Valid",
+   "Number": "1214"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-forretningsorden-laegemiddelnaevnet.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "DocumentTitle": "Bekendtgørelse om forretningsorden for Lægemiddelnævnet",
+   "Year": "2013",
+   "DiesSigni": "2013-10-01",
+   "Status": "Valid",
+   "Number": "1214"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2013/1214",
+   "lovtidende": "BEK nr. 1214 af 01/10/2013"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-patientklager-screening-af-klager.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1486",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-patientklager-screening-af-klager.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "DocumentTitle": "Bekendtgørelse om Styrelsen for Patientklagers screening af klager og videregivelse af sagsakter og sagsoplysninger fra klagesager til Styrelsen for Patientsikkerhed",
+   "Year": "2024",
+   "DiesSigni": "2024-12-06",
+   "Status": "Valid",
+   "Number": "1486"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-patientklager-screening-af-klager.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "DocumentTitle": "Bekendtgørelse om Styrelsen for Patientklagers screening af klager og videregivelse af sagsakter og sagsoplysninger fra klagesager til Styrelsen for Patientsikkerhed",
+   "Year": "2024",
+   "DiesSigni": "2024-12-06",
+   "Status": "Valid",
+   "Number": "1486"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2024/1486",
+   "lovtidende": "BEK nr. 1486 af 06/12/2024"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-ikke-autoriserede-persongrupper-disciplinaernaevn.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1663",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-ikke-autoriserede-persongrupper-disciplinaernaevn.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "DocumentTitle": "Bekendtgørelse om ikke-autoriserede persongrupper inden for sundhedsvæsenet, der er omfattet af Sundhedsvæsenets Disciplinærnævns virksomhed",
+   "Year": "2025",
+   "DiesSigni": "2025-12-08",
+   "Status": "Valid",
+   "Number": "1663"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-ikke-autoriserede-persongrupper-disciplinaernaevn.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "DocumentTitle": "Bekendtgørelse om ikke-autoriserede persongrupper inden for sundhedsvæsenet, der er omfattet af Sundhedsvæsenets Disciplinærnævns virksomhed",
+   "Year": "2025",
+   "DiesSigni": "2025-12-08",
+   "Status": "Valid",
+   "Number": "1663"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2025/1663",
+   "lovtidende": "BEK nr. 1663 af 08/12/2025"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "kilde-stpk-disciplinaernaevn-afgoerelser.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.stpk.dk/afgorelser-og-domme/afgorelser-fra-sundhedsvaesenets-disciplinaernaevn/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-stpk-disciplinaernaevn-afgoerelser.adgang",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.stpk.dk/afgorelser-og-domme/afgorelser-fra-sundhedsvaesenets-disciplinaernaevn/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-stpk-disciplinaernaevn-afgoerelser.opdatering",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.stpk.dk/afgorelser-og-domme/afgorelser-fra-sundhedsvaesenets-disciplinaernaevn/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-stpk-erstatningsdomme.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.stpk.dk/afgorelser-og-domme/domme-fra-erstatningsomradet/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-stpk-erstatningsdomme.adgang",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.stpk.dk/afgorelser-og-domme/domme-fra-erstatningsomradet/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-stpk-erstatningsdomme.opdatering",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.stpk.dk/afgorelser-og-domme/domme-fra-erstatningsomradet/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-stpk-klageafgoerelser.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.stpk.dk/afgorelser-og-domme/afgorelser-fra-styrelsen-for-patientklager/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-stpk-klageafgoerelser.adgang",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.stpk.dk/afgorelser-og-domme/afgorelser-fra-styrelsen-for-patientklager/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-stpk-klageafgoerelser.opdatering",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.stpk.dk/afgorelser-og-domme/afgorelser-fra-styrelsen-for-patientklager/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-stpk-publikationer.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.stpk.dk/viden/publikationer/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-stpk-publikationer.adgang",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.stpk.dk/viden/publikationer/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-stpk-publikationer.opdatering",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.stpk.dk/viden/publikationer/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-stps-tilsynsrapporter.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://stps.dk/sundhedsfaglig/tilsyn/tilsynsrapporter",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-stps-tilsynsrapporter.adgang",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://stps.dk/sundhedsfaglig/tilsyn/tilsynsrapporter",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-stps-tilsynsrapporter.opdatering",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://stps.dk/sundhedsfaglig/tilsyn/tilsynsrapporter",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|sty-sundhedsstyrelsen",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.skim.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|sty-styrelsen-for-patientsikkerhed",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.skim.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|sty-styrelsen-for-patientklager",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.skim.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|sty-laegemiddelstyrelsen",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.skim.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|sty-sundhedsdatastyrelsen",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.skim.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|sty-statens-serum-institut",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.ssi.dk/om-ssi",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|naevn-sundhedsvaesenets-disciplinaernaevn",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-klage-og-erstatningsloven|hjemmel_for|naevn-sundhedsvaesenets-disciplinaernaevn",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|naevn-ankenaevnet-for-patienterstatningen",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-klage-og-erstatningsloven|hjemmel_for|naevn-ankenaevnet-for-patienterstatningen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|naevn-tvangsbehandlingsnaevnet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-klage-og-erstatningsloven|hjemmel_for|naevn-tvangsbehandlingsnaevnet",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|naevn-ankenaevnet-for-tilsynsafgoerelser",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-klage-og-erstatningsloven|hjemmel_for|naevn-ankenaevnet-for-tilsynsafgoerelser",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-klage-og-erstatningsloven|hjemmel_for|org-patienterstatningen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|naevn-det-psykiatriske-ankenaevn",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1045",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|naevn-det-psykiatriske-patientklagenaevn",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1045",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|raad-laegemiddelnaevnet",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/339",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|org-patienterstatningen",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|lov-sundhedsloven",
+  "sikkerhed": "ukendt",
+  "dom": "baerer-ikke",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/275",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|lov-autorisation-sundhedspersoner",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1008",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|lov-klage-og-erstatningsloven",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|lov-laegemiddelloven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/339",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|lov-psykiatriloven",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1045",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-sundhedsloven|hjemmel_for|sty-sundhedsstyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/275",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-sundhedsloven|hjemmel_for|sty-styrelsen-for-patientsikkerhed",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/275",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-autorisation-sundhedspersoner|hjemmel_for|sty-styrelsen-for-patientsikkerhed",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1008",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-klage-og-erstatningsloven|hjemmel_for|sty-styrelsen-for-patientklager",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-psykiatriloven|hjemmel_for|naevn-det-psykiatriske-patientklagenaevn",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1045",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-psykiatriloven|hjemmel_for|naevn-det-psykiatriske-ankenaevn",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1045",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-laegemiddelloven|hjemmel_for|raad-laegemiddelnaevnet",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/339",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-klage-og-erstatningsloven|hjemmel_for|bek-forretningsorden-disciplinaernaevn",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1496",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-forretningsorden-disciplinaernaevn|hjemmel_for|naevn-sundhedsvaesenets-disciplinaernaevn",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1496",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|bek-forretningsorden-disciplinaernaevn",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1496",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-klage-og-erstatningsloven|hjemmel_for|bek-forretningsorden-ankenaevnet-for-patienterstatningen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/921",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-forretningsorden-ankenaevnet-for-patienterstatningen|hjemmel_for|naevn-ankenaevnet-for-patienterstatningen",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/921",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|bek-forretningsorden-ankenaevnet-for-patienterstatningen",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/921",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-klage-og-erstatningsloven|hjemmel_for|bek-forretningsorden-tvangsbehandlingsnaevnet",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2018/979",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-forretningsorden-tvangsbehandlingsnaevnet|hjemmel_for|naevn-tvangsbehandlingsnaevnet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2018/979",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|bek-forretningsorden-tvangsbehandlingsnaevnet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2018/979",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-psykiatriloven|hjemmel_for|bek-forretningsorden-psykiatriske-patientklagenaevn",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/171",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-forretningsorden-psykiatriske-patientklagenaevn|hjemmel_for|naevn-det-psykiatriske-patientklagenaevn",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/171",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|bek-forretningsorden-psykiatriske-patientklagenaevn",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/171",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-psykiatriloven|hjemmel_for|bek-forretningsorden-psykiatriske-ankenaevn",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/1076",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-forretningsorden-psykiatriske-ankenaevn|hjemmel_for|naevn-det-psykiatriske-ankenaevn",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/1076",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|bek-forretningsorden-psykiatriske-ankenaevn",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/1076",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-klage-og-erstatningsloven|hjemmel_for|bek-vedtaegter-patienterstatningen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1724",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-vedtaegter-patienterstatningen|hjemmel_for|org-patienterstatningen",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1724",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|bek-vedtaegter-patienterstatningen",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1724",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-laegemiddelloven|hjemmel_for|bek-forretningsorden-laegemiddelnaevnet",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2013/1214",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-forretningsorden-laegemiddelnaevnet|hjemmel_for|raad-laegemiddelnaevnet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2013/1214",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|bek-forretningsorden-laegemiddelnaevnet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2013/1214",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-klage-og-erstatningsloven|hjemmel_for|bek-patientklager-screening-af-klager",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1486",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-patientklager-screening-af-klager|hjemmel_for|sty-styrelsen-for-patientklager",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1486",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|bek-patientklager-screening-af-klager",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1486",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-klage-og-erstatningsloven|hjemmel_for|bek-ikke-autoriserede-persongrupper-disciplinaernaevn",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1663",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-ikke-autoriserede-persongrupper-disciplinaernaevn|hjemmel_for|naevn-sundhedsvaesenets-disciplinaernaevn",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1663",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|bek-ikke-autoriserede-persongrupper-disciplinaernaevn",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1663",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant naevn-ankenaevnet-for-patienterstatningen|klageinstans|org-patienterstatningen",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant naevn-ankenaevnet-for-tilsynsafgoerelser|klageinstans|sty-styrelsen-for-patientsikkerhed",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-styrelsen-for-patientklager|klageinstans|kommune-alle",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-styrelsen-for-patientklager|klageinstans|region-alle",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-styrelsen-for-patientklager|klageinstans|sty-sundhedsstyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant naevn-det-psykiatriske-ankenaevn|klageinstans|naevn-det-psykiatriske-patientklagenaevn",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1045",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-styrelsen-for-patientklager|udsteder|kilde-stpk-klageafgoerelser",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.stpk.dk/afgorelser-og-domme/afgorelser-fra-styrelsen-for-patientklager/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant naevn-sundhedsvaesenets-disciplinaernaevn|udsteder|kilde-stpk-disciplinaernaevn-afgoerelser",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.stpk.dk/afgorelser-og-domme/afgorelser-fra-sundhedsvaesenets-disciplinaernaevn/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant naevn-ankenaevnet-for-patienterstatningen|udsteder|kilde-stpk-erstatningsdomme",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.stpk.dk/afgorelser-og-domme/domme-fra-erstatningsomradet/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-styrelsen-for-patientklager|udsteder|kilde-stpk-publikationer",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.stpk.dk/viden/publikationer/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-styrelsen-for-patientsikkerhed|udsteder|kilde-stps-tilsynsrapporter",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://stps.dk/sundhedsfaglig/tilsyn/tilsynsrapporter",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-styrelsen-for-patientsikkerhed|tilsyn|region-alle",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/275",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-styrelsen-for-patientsikkerhed|tilsyn|kommune-alle",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/275",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ }
+]

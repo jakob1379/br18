@@ -1,0 +1,2104 @@
+{
+  "omraade": "skat",
+  "noder": [
+    {
+      "id": "sty-skatteforvaltningen",
+      "navn": "Skatteforvaltningen",
+      "type": "styrelse",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "tidligere_navne": [
+        {
+          "navn": "Told- og skatteforvaltningen",
+          "periode": "betegnelse i skatteforvaltningsloven; opgaverne varetages siden 1/7/2018 af Skatteforvaltningen",
+          "belaeg": [
+            {
+              "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+              "citat": "De opgaver, der ved skatteforvaltningslovens § 1 er tillagt told- og skatteforvaltningen, varetages af Skatteforvaltningen."
+            },
+            {
+              "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+              "citat": "Bekendtgørelsen træder i kraft den 1. juli 2018."
+            }
+          ]
+        }
+      ],
+      "hjemmel": {
+        "tekst": "BEK nr. 804 af 20/06/2018 § 1 (udstedt efter skatteforvaltningslovens § 14, stk. 3): Skatteforvaltningen er én myndighed bestående af syv styrelser og varetager de opgaver, som skatteforvaltningslovens § 1 tillægger 'told- og skatteforvaltningen'.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+            "citat": "Skatteforvaltningen, der er en myndighed, består af Administrations- og Servicestyrelsen, Gældsstyrelsen, Motorstyrelsen, Skattestyrelsen, Toldstyrelsen, Udviklings- og Forenklingsstyrelsen samt Vurderingsstyrelsen."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://skatteforvaltningen.dk/",
+        "belaeg": [
+          {
+            "url": "https://skatteforvaltningen.dk/",
+            "citat": "Skatteforvaltningen er den fælles juridiske myndighed for syv af styrelserne i Skatte- og Vækstministeriets koncern."
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Skatteforvaltningens afgørelse af [dato]",
+        "told- og skatteforvaltningens afgørelse",
+        "SKM\\d{4}\\.\\d+\\.[A-ZÆØÅ]+"
+      ],
+      "note": "Retlig paraply: de syv styrelser (Skattestyrelsen, Toldstyrelsen, Gældsstyrelsen, Motorstyrelsen, Udviklings- og Forenklingsstyrelsen, Administrations- og Servicestyrelsen, Vurderingsstyrelsen) er ét forvaltningsretligt subjekt. Klagelovgivningen taler derfor om 'Skatteforvaltningens afgørelser' (skatteforvaltningsloven bruger stadig 'told- og skatteforvaltningen'), ikke om den enkelte styrelse. Skatteankestyrelsen, Spillemyndigheden og Landsskatteretten er IKKE en del af Skatteforvaltningen, men af ministeriets koncern. Strukturen er uændret i 2025-26; kun ministerienavnet skiftede 3/6/2026 (ministeriets side: ti styrelser inkl. Spillemyndigheden, Skatteankestyrelsen og Finanstilsynet)."
+    },
+    {
+      "id": "sty-skattestyrelsen",
+      "navn": "Skattestyrelsen",
+      "type": "styrelse",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "BEK nr. 804 af 20/06/2018 § 1: del af myndigheden Skatteforvaltningen.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+            "citat": "Skatteforvaltningen, der er en myndighed, består af Administrations- og Servicestyrelsen, Gældsstyrelsen, Motorstyrelsen, Skattestyrelsen, Toldstyrelsen, Udviklings- og Forenklingsstyrelsen samt Vurderingsstyrelsen."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://sktst.dk/",
+        "belaeg": [
+          {
+            "url": "https://skatteforvaltningen.dk/",
+            "citat": "Skattestyrelsen sikrer, at borgere og virksomheder betaler korrekte skatter og afgifter."
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Skattestyrelsens afgørelse af [dato]",
+        "SKM\\d{4}\\.\\d+\\.SKTST"
+      ],
+      "note": "Førsteinstans for hovedparten af skatteafgørelserne (indkomst, moms, selskaber m.v.) og udsteder af styresignaler og vejledende SKM-meddelelser (suffiks SKTST). Afgørelser påklages til skatteankenævn (fysiske personer, dødsboer) eller Landsskatteretten, jf. skatteforvaltningsloven §§ 5 og 35 b. Skatterådets sekretariat er placeret her."
+    },
+    {
+      "id": "sty-toldstyrelsen",
+      "navn": "Toldstyrelsen",
+      "type": "styrelse",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "BEK nr. 804 af 20/06/2018 § 1: del af myndigheden Skatteforvaltningen.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+            "citat": "Skatteforvaltningen, der er en myndighed, består af Administrations- og Servicestyrelsen, Gældsstyrelsen, Motorstyrelsen, Skattestyrelsen, Toldstyrelsen, Udviklings- og Forenklingsstyrelsen samt Vurderingsstyrelsen."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://toldst.dk/",
+        "belaeg": [
+          {
+            "url": "https://skatteforvaltningen.dk/",
+            "citat": "Toldstyrelsen understøtter smidig handel på tværs af grænser og sikrer en effektiv toldkontrol."
+          }
+        ]
+      },
+      "note": "Toldforvaltning og toldkontrol. Toldafgørelser falder uden for skatteankenævnene og påklages efter hovedreglen i skatteforvaltningsloven § 35 b, stk. 2 til Landsskatteretten; Skatterådet bistår ikke på toldområdet (§ 2, stk. 1). Toldlovens egne klagebestemmelser er ikke gennemgået."
+    },
+    {
+      "id": "sty-gaeldsstyrelsen",
+      "navn": "Gældsstyrelsen",
+      "type": "styrelse",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "BEK nr. 804 af 20/06/2018 § 1: del af myndigheden Skatteforvaltningen.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+            "citat": "Skatteforvaltningen, der er en myndighed, består af Administrations- og Servicestyrelsen, Gældsstyrelsen, Motorstyrelsen, Skattestyrelsen, Toldstyrelsen, Udviklings- og Forenklingsstyrelsen samt Vurderingsstyrelsen."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://gaeldst.dk/",
+        "belaeg": [
+          {
+            "url": "https://skatteforvaltningen.dk/",
+            "citat": "Gældsstyrelsens opgave er at sikre, at så mange som muligt betaler deres gæld til det offentlige, og at ny gæld forebygges."
+          }
+        ]
+      },
+      "note": "Inddrivelse af gæld til det offentlige. Klagevejen for inddrivelsesafgørelser (lov om inddrivelse af gæld til det offentlige) er ikke gennemgået; BEK 2372/2021 om Skatteankestyrelsen er også udstedt efter § 17, stk. 3 i inddrivelsesloven."
+    },
+    {
+      "id": "sty-motorstyrelsen",
+      "navn": "Motorstyrelsen",
+      "type": "styrelse",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "BEK nr. 804 af 20/06/2018 § 1: del af myndigheden Skatteforvaltningen.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+            "citat": "Skatteforvaltningen, der er en myndighed, består af Administrations- og Servicestyrelsen, Gældsstyrelsen, Motorstyrelsen, Skattestyrelsen, Toldstyrelsen, Udviklings- og Forenklingsstyrelsen samt Vurderingsstyrelsen."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://motorst.dk/",
+        "belaeg": [
+          {
+            "url": "https://skatteforvaltningen.dk/",
+            "citat": "Motorstyrelsen sikrer, at alle motorkøretøjer er registreret korrekt, og at værdifastsættelse og afgiftsberegning sker ensartet og gennemskueligt."
+          }
+        ]
+      },
+      "note": "Registrering af køretøjer, registreringsafgift og værdifastsættelse. Klager afgøres af motorankenævn (skatteforvaltningsloven § 7) eller Landsskatteretten."
+    },
+    {
+      "id": "sty-udviklings-og-forenklingsstyrelsen",
+      "navn": "Udviklings- og Forenklingsstyrelsen",
+      "type": "styrelse",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "BEK nr. 804 af 20/06/2018 § 1: del af myndigheden Skatteforvaltningen.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+            "citat": "Skatteforvaltningen, der er en myndighed, består af Administrations- og Servicestyrelsen, Gældsstyrelsen, Motorstyrelsen, Skattestyrelsen, Toldstyrelsen, Udviklings- og Forenklingsstyrelsen samt Vurderingsstyrelsen."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://ufst.dk/",
+        "belaeg": [
+          {
+            "url": "https://skatteforvaltningen.dk/",
+            "citat": "Udviklings- og Forenklingsstyrelsen vedligeholde eksisterende it-systemer og udvikle tidssvarende og fremtidsparate it-løsninger."
+          }
+        ]
+      },
+      "note": "It-drift og it-udvikling for koncernen. Ingen afgørelses- eller klagekompetence over for borgere; relevant som tilsynsobjekt for It-tilsynet."
+    },
+    {
+      "id": "sty-administrations-og-servicestyrelsen",
+      "navn": "Administrations- og Servicestyrelsen",
+      "type": "styrelse",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "BEK nr. 804 af 20/06/2018 § 1: del af myndigheden Skatteforvaltningen.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+            "citat": "Skatteforvaltningen, der er en myndighed, består af Administrations- og Servicestyrelsen, Gældsstyrelsen, Motorstyrelsen, Skattestyrelsen, Toldstyrelsen, Udviklings- og Forenklingsstyrelsen samt Vurderingsstyrelsen."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://adst.dk/",
+        "belaeg": [
+          {
+            "url": "https://skatteforvaltningen.dk/",
+            "citat": "Administrations- og Servicestyrelsen sikrer, at Skatteministeriets koncern er understøttet af en effektiv og professionel service og administration."
+          }
+        ]
+      },
+      "note": "Intern service og administration for koncernen; ingen borgerrettet afgørelsespraksis af betydning for korpuset."
+    },
+    {
+      "id": "sty-skatteankestyrelsen",
+      "navn": "Skatteankestyrelsen",
+      "type": "styrelse",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Skatteforvaltningslovens kapitel 2 a (§ 4 a): 'skatteankeforvaltningen' modtager og visiterer alle klager, afgør visse klager selv og er sekretariat for ankenævnene og Landsskatteretten. BEK nr. 2372 af 10/12/2021 § 1 siger, at Skatteankestyrelsen varetager skatteankeforvaltningens opgaver.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2021/2372",
+            "citat": "Skatteankestyrelsen varetager de opgaver, der ved skatteforvaltningslovens kapitel 2 a er tillagt skatteankeforvaltningen."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+            "citat": "Skatteankeforvaltningen stiller sekretariatsbistand til rådighed for skatteankenævnene, vurderingsankenævnene, motorankenævnene og Landsskatteretten."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse i klagesager",
+            "bindende": "bindende",
+            "note": "træffer selv afgørelse i klager over visse afgiftslove m.v., jf. BEK nr. 967 af 28/06/2023, og i genoptagelsessager"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/967",
+            "citat": "Skatteankestyrelsen afgør klager over afgørelser truffet efter de nedenfor nævnte love m.v."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://skatteankestyrelsen.dk/",
+        "belaeg": [
+          {
+            "url": "https://skatteankestyrelsen.dk/om-os",
+            "citat": "Skatteankestyrelsen er en uafhængig klagemyndighed"
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Skatteankestyrelsens afgørelse af [dato]",
+        "SKM\\d{4}\\.\\d+\\.SANST"
+      ],
+      "note": "Kæde: modtager alle klager over Skatteforvaltningens afgørelser (3 måneders frist, skatteforvaltningsloven § 35 a, stk. 3), visiterer dem til sig selv, skatteankenævn, vurderingsankenævn, motorankenævn eller Landsskatteretten (§ 35 b), og er sekretariat for nævnene. Selve ankenævnene og Landsskatteretten er uafhængige og ikke bundet af styrelsens indstilling. Loven siger 'skatteankeforvaltningen'; styrelsens navn er Skatteankestyrelsen (selvstændig myndighed under ministeriet, ikke en del af Skatteforvaltningen). Ældre SKM-suffiks SANST ses i arkivet; tidligere navne er ikke undersøgt."
+    },
+    {
+      "id": "sty-spillemyndigheden",
+      "navn": "Spillemyndigheden",
+      "type": "styrelse",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Spillelovens § 4: skatteministeren, eller den ministeren bemyndiger hertil, er spillemyndighed og giver tilladelser; § 46: Spillemyndigheden fører tilsyn med loven. BEK nr. 1121 af 01/12/2011 § 1 henlægger beføjelserne til Spillemyndigheden som institution.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1182",
+            "citat": "Skatteministeren, eller den ministeren bemyndiger hertil, er spillemyndighed."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1182",
+            "citat": "Spillemyndigheden fører tilsyn med overholdelse af denne lov, regler fastsat i medfør af loven og tilladelsesindehaveres og spilleverandørers overholdelse af vilkår for tilladelse"
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse (tilladelse, påbud, tilbagekaldelse, bødevedtagelse, hvidvaskafgørelse)",
+            "bindende": "bindende"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.spillemyndigheden.dk/afgoerelser-og-domme",
+            "citat": "Spillemyndigheden offentliggør bødevedtagelser, fældende domme og delvis fældende domme for overtrædelse af spillelovgivningen."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.spillemyndigheden.dk/",
+        "belaeg": [
+          {
+            "url": "https://spillemyndigheden.dk",
+            "citat": "Vi bidrager til et fair spilmarked i Danmark med oplyste borgere og ansvarlige spiludbydere."
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Spillemyndighedens afgørelse af [dato]",
+        "spillelovens § \\d+"
+      ],
+      "note": "Klageinstans for Spillemyndighedens afgørelser er Landsskatteretten (spilleloven § 50, medmindre skatteforvaltningslovens § 35 b, stk. 3-regler henlægger til Skatteankestyrelsen); klagen indgives til Skatteankestyrelsen. Domstolsprøvelse inden 3 måneder (§ 55). Spillemyndigheden er ikke en del af Skatteforvaltningen og har sin egen 'juridiske vejledning om spil' (omtalt på Den juridiske vejledning A.A.1.5, adresse ikke verificeret). Afgift af spil opkræves af Skatteforvaltningen."
+    },
+    {
+      "id": "raad-skatteraadet",
+      "navn": "Skatterådet",
+      "type": "råd",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Skatteforvaltningslovens kapitel 2 (§§ 2-4): Skatterådet bistår Skatteforvaltningen, afgør forelagte sager (bl.a. principielle bindende svar efter § 21, stk. 4) og kan ændre åbenbart ulovlige afgørelser fra ankenævn; 19 medlemmer (6 valgt af Folketinget, 13 udnævnt af ministeren).",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+            "citat": "Skatterådet bistår told- og skatteforvaltningen ved forvaltningen af lovgivning om vurdering af landets faste ejendomme, lov om registrering af køretøjer og lovgivning om skatter, bortset fra lovgivning om told."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+            "citat": "Skatterådet afgør sager, som told- og skatteforvaltningen forelægger for Skatterådet til afgørelse"
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse og bindende svar",
+            "bindende": "bindende",
+            "note": "offentliggøres som SKM-meddelelser med suffiks SR"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://skatteforvaltningen.dk/skatteraadet",
+            "citat": "Bindende svar, fastsættelser af satser, andre afgørelser"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://skatteforvaltningen.dk/skatteraadet",
+        "belaeg": [
+          {
+            "url": "https://skatteforvaltningen.dk/skatteraadet",
+            "citat": "Skatterådet er et kollegialt lægmandsorgan, der består af 19 medlemmer"
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Skatterådets afgørelse af [dato]",
+        "SKM\\d{4}\\.\\d+\\.SR"
+      ],
+      "note": "Skatterådets afgørelser (herunder bindende svar) kan påklages til Landsskatteretten (§ 11, stk. 1, nr. 2) eller indbringes for domstolene (§ 48). Forretningsordenen er BEK nr. 1035 af 25/10/2005 (stadig gældende, status Valid)."
+    },
+    {
+      "id": "naevn-landsskatteretten",
+      "navn": "Landsskatteretten",
+      "type": "nævn",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Skatteforvaltningslovens kapitel 5 (§§ 11-14): afgør klager over Skatteforvaltningens afgørelser, der ikke afgøres af andre instanser, samt Skatterådets afgørelser; består af retsformænd, 34 ordinære medlemmer (11 valgt af Folketinget, 23 udnævnt af ministeren) og 4 motorsagkyndige.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+            "citat": "Landsskatteretten afgør, medmindre andet er bestemt af skatteministeren efter § 14, stk. 2, klager over:"
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+            "citat": "Landsskatteretten består af en ledende retsformand, et antal øvrige retsformænd, 34 ordinære medlemmer og 4 særligt motorsagkyndige medlemmer."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse (kendelse)",
+            "bindende": "bindende",
+            "note": "offentliggøres som SKM-meddelelser med suffiks LSR og i Afgørelsesdatabasen"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://skatteankestyrelsen.dk/footer-sider/afgoerelser",
+            "citat": "Landsskatteretten offentliggør sine afgørelser om ligning, moms, told og afgifter i Afgørelsesdatabasen."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://skatteankestyrelsen.dk/om-os/landsskatteretten",
+        "belaeg": [
+          {
+            "url": "https://skatteankestyrelsen.dk/om-os/landsskatteretten",
+            "citat": "Landsskatteretten er et landsdækkende uafhængigt nævn"
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Landsskatterettens afgørelse af [dato]",
+        "Landsskatteretten, j.nr. [\\d-]+",
+        "SKM\\d{4}\\.\\d+\\.LSR"
+      ],
+      "note": "Sidste administrative instans på skatteområdet. Afgørelsen kan indbringes for domstolene inden 3 måneder (skatteforvaltningsloven § 48, stk. 3), og Skatteministeriet kan selv indbringe nævnets afgørelser (§ 49, 3 måneder). Skatteankestyrelsen er nævnets sekretariat. Uafhængigt nævn under ministeriet. Forretningsorden: BEK nr. 2373 af 10/12/2021."
+    },
+    {
+      "id": "naevn-skatteankenaevn",
+      "navn": "Skatteankenævn",
+      "type": "nævn",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Skatteforvaltningslovens § 5: skatteankenævnene afgør klager over Skatteforvaltningens afgørelser om fysiske personers og dødsboers indkomstskat m.v.; § 35 b, stk. 1: visse klager afgøres dog af Landsskatteretten.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+            "citat": "Skatteankenævnene afgør klager over told- og skatteforvaltningens afgørelser vedrørende fysiske personer og dødsboer om:"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://skatteankestyrelsen.dk/om-os/ankenaevn",
+        "belaeg": [
+          {
+            "url": "https://skatteankestyrelsen.dk/om-os/ankenaevn",
+            "citat": "Ankenævnenes sager bliver forberedt af Skatteankestyrelsen, der er sekretariat for dem."
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Skatteankenævnets afgørelse af [dato]",
+        "skatteankenævn [A-ZÆØÅ][a-zæøå]+"
+      ],
+      "note": "Kredsinddelt (BEK nr. 1042 af 22/06/2022, ændret ved BEK nr. 133 af 23/01/2026); forretningsorden BEK nr. 1041 af 22/06/2022, ændret ved BEK nr. 132 af 23/01/2026. Ikke bundet af Den juridiske vejledning (Den juridiske vejledning, Bindende virkning). Skatterådet kan ændre en åbenbart ulovlig afgørelse (§ 2, stk. 3). Afgørelsen kan indbringes for domstolene inden 3 måneder. Ankenævnsafgørelser offentliggøres kun udvalgt (principielle) som SKM-meddelelser."
+    },
+    {
+      "id": "naevn-vurderingsankenaevn",
+      "navn": "Vurderingsankenævn",
+      "type": "nævn",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Skatteforvaltningslovens § 6: vurderingsankenævnene afgør klager over Skatteforvaltningens afgørelser efter vurderingsloven, ejendomsavancebeskatningslovens § 8, stk. 1, nr. 3 og ejendomsvurderingsloven; § 6 a og § 6 b: henvisning til Landsskatteretten eller Skatteankestyrelsen.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+            "citat": "Vurderingsankenævnene afgør klager over told- og skatteforvaltningens afgørelser efter:"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://skatteankestyrelsen.dk/om-os/ankenaevn",
+        "belaeg": [
+          {
+            "url": "https://skatteankestyrelsen.dk/om-os/ankenaevn",
+            "citat": "Ankenævnenes sager bliver forberedt af Skatteankestyrelsen, der er sekretariat for dem."
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Vurderingsankenævnets afgørelse af [dato]",
+        "vurderingsankenævn"
+      ],
+      "note": "Klageinstans over Vurderingsstyrelsens ejendomsvurderinger (loven siger 'Skatteforvaltningens afgørelser'). Retten til at indbringe for domstolene indtræder først, når vurderingsankenævnet har prøvet eller afvist sagen (§ 48, stk. 1, 2. pkt., for vurderinger fra 2013 og frem). Forretningsorden BEK nr. 2289 af 03/12/2021. Kredsinddeling i BEK nr. 1042 af 22/06/2022."
+    },
+    {
+      "id": "naevn-motorankenaevn",
+      "navn": "Motorankenævn",
+      "type": "nævn",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Skatteforvaltningslovens § 7: motorankenævnene afgør klager over Skatteforvaltningens afgørelser om registreringsafgift m.v.; § 35 b, stk. 1: visse klager afgøres af Landsskatteretten.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+            "citat": "Motorankenævnene afgør klager over told- og skatteforvaltningens afgørelser om:"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://skatteankestyrelsen.dk/om-os/ankenaevn",
+        "belaeg": [
+          {
+            "url": "https://skatteankestyrelsen.dk/om-os/ankenaevn",
+            "citat": "Ankenævnenes sager bliver forberedt af Skatteankestyrelsen, der er sekretariat for dem."
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Motorankenævnets afgørelse af [dato]",
+        "motorankenævn"
+      ],
+      "note": "Klageinstans over Motorstyrelsens afgørelser om registreringsafgift. Forretningsorden BEK nr. 1043 af 22/06/2022. De fire motorsagkyndige retsmedlemmer i Landsskatteretten tager sig af motorsager, der ikke afgøres af nævnene."
+    },
+    {
+      "id": "tilsyn-it-tilsynet",
+      "navn": "Tilsynet med told- og skatteforvaltningens it-område (It-tilsynet)",
+      "type": "tilsyn",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Lov nr. 2187 af 29/12/2020 om Tilsynet med told- og skatteforvaltningens it-område, i kraft 1/1/2021: uafhængigt tilsyn med Skatteforvaltningens it-drift og it-udvikling; 5 medlemmer udnævnt af ministeren.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2020/2187",
+            "citat": "Tilsynet udøver sine funktioner i fuld uafhængighed."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2020/2187",
+            "citat": "Tilsynet består af 5 medlemmer med enten it-faglig eller skattefaglig indsigt"
+          }
+        ]
+      },
+      "note": "Kun it-tilsyn; ingen klage- eller afgørelseskompetence over for borgere. Nævnt i skatteforvaltningslovens § 35 som en af myndighederne med digital kommunikation. Eget website ikke fundet."
+    },
+    {
+      "id": "lov-skatteforvaltningsloven",
+      "navn": "Skatteforvaltningsloven",
+      "type": "lov",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+            "citat": "Herved bekendtgøres skatteforvaltningsloven, jf. lovbekendtgørelse nr. 1053 af 20. september 2024"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2025/1228",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+            "citat": "Herved bekendtgøres skatteforvaltningsloven, jf. lovbekendtgørelse nr. 1053 af 20. september 2024"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2025/1228",
+        "lovtidende": "LBK nr. 1228 af 13/10/2025",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+            "citat": "Herved bekendtgøres skatteforvaltningsloven, jf. lovbekendtgørelse nr. 1053 af 20. september 2024"
+          },
+          {
+            "url": "https://tax.dk/jv/aa/A_A_3_1.htm",
+            "citat": "jf. seneste bekendtgjorte skatteforvaltningslov (LBK nr. 1228 af 13/10/2025)"
+          }
+        ]
+      },
+      "note": "Bærer hele klagekæden: § 1-4 (Skatteforvaltningen, Skatterådet), § 4 a (skatteankeforvaltningen), §§ 5-7 (ankenævn), § 10 (ankenævnenes forretningsorden), § 11 (Landsskatteretten), § 35 a (klage skal indgives til skatteankeforvaltningen inden 3 måneder), § 35 b (visitering), § 40 (Skatteministeriets indbringelse af Skatterådets EU-afgørelser), §§ 48-50 (domstolsprøvelse). Retsinformation viser LBK 1228/2025 med slutdato 8/8/2026, men Den juridiske vejledning 2026-2 (1/7/2026) kalder den stadig den seneste; ny konsolideret udgave ikke fundet."
+    },
+    {
+      "id": "lov-spilleloven",
+      "navn": "Spilleloven (lov om spil)",
+      "type": "lov",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1182",
+            "citat": "Herved bekendtgøres lov om spil, jf. lovbekendtgørelse nr. 1303 af 4. september 2020"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2025/1182",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1182",
+            "citat": "Herved bekendtgøres lov om spil, jf. lovbekendtgørelse nr. 1303 af 4. september 2020"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2025/1182",
+        "lovtidende": "LBK nr. 1182 af 22/09/2025",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1182",
+            "citat": "Herved bekendtgøres lov om spil, jf. lovbekendtgørelse nr. 1303 af 4. september 2020"
+          }
+        ]
+      },
+      "note": "§ 4 (spillemyndighed), § 46 (tilsyn), kapitel 10 § 50 (klager over Spillemyndighedens afgørelser afgøres af Landsskatteretten), § 54 og § 54 a (opsættende virkning), kapitel 11 § 55 (domstolsprøvelse inden 3 måneder, ellers er afgørelsen endelig). Retsinformation viser slutdato 23/6/2026 for LBK 1182/2025; ny udgave ikke fundet i kataloget (slutter 12/2/2026)."
+    },
+    {
+      "id": "lov-it-tilsynsloven",
+      "navn": "Lov om Tilsynet med told- og skatteforvaltningens it-område",
+      "type": "lov",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2020/2187",
+            "citat": "Lov om Tilsynet med told- og skatteforvaltningens it-område"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2020/2187",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2020/2187",
+            "citat": "Lov om Tilsynet med told- og skatteforvaltningens it-område"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2020/2187",
+        "lovtidende": "LOV nr. 2187 af 29/12/2020",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2020/2187",
+            "citat": "Lov om Tilsynet med told- og skatteforvaltningens it-område"
+          }
+        ]
+      },
+      "note": "Ikke lovbekendtgjort i kataloget; selve loven angives som gældende."
+    },
+    {
+      "id": "bek-skatteforvaltningens-opgaver",
+      "navn": "Bekendtgørelse om varetagelsen af told- og skatteforvaltningens opgaver (BEK nr. 804 af 20/06/2018)",
+      "type": "bekendtgørelse",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Skatteforvaltningslovens § 14, stk. 3 og § 64.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+            "citat": "I medfør af § 14, stk. 3, og § 64 i skatteforvaltningsloven"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2018/804",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+            "citat": "Bekendtgørelse om varetagelsen af told- og skatteforvaltningens opgaver"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2018/804",
+        "lovtidende": "BEK nr. 804 af 20/06/2018",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+            "citat": "Bekendtgørelse om varetagelsen af told- og skatteforvaltningens opgaver"
+          }
+        ]
+      },
+      "note": "Definerer Skatteforvaltningen som én myndighed med syv styrelser. § 1, stk. 2: Skatteforvaltningens behandling af spørgsmål, som ikke er afgørelser, kan ikke påklages til ministeriets departement."
+    },
+    {
+      "id": "bek-skatteankestyrelsen",
+      "navn": "Bekendtgørelse om Skatteankestyrelsen (BEK nr. 2372 af 10/12/2021)",
+      "type": "bekendtgørelse",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Skatteforvaltningslovens § 4 a, stk. 5, § 35, stk. 1-4, § 35 c, stk. 6 og § 64 samt inddrivelseslovens § 17, stk. 3.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2021/2372",
+            "citat": "I medfør af § 4 a, stk. 5, § 35, stk. 1-4, § 35 c, stk. 6, og § 64 i skatteforvaltningsloven"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2021/2372",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2021/2372",
+            "citat": "Bekendtgørelse om Skatteankestyrelsen"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2021/2372",
+        "lovtidende": "BEK nr. 2372 af 10/12/2021",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2021/2372",
+            "citat": "Bekendtgørelse om Skatteankestyrelsen"
+          }
+        ]
+      },
+      "note": "Regler om klagers indgivelse (digital selvbetjening) og styrelsens funktion."
+    },
+    {
+      "id": "bek-skatteankestyrelsen-visse-klager",
+      "navn": "Bekendtgørelse om afgørelse af visse klager i Skatteankestyrelsen (BEK nr. 967 af 28/06/2023)",
+      "type": "bekendtgørelse",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Skatteforvaltningslovens § 35 b, stk. 3, 1. pkt. (ledende retsformand efter inddragelse af skatteankeforvaltningen).",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/967",
+            "citat": "I medfør af § 35 b, stk. 3, 1. pkt., i skatteforvaltningsloven"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2023/967",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/967",
+            "citat": "Bekendtgørelse om afgørelse af visse klager i Skatteankestyrelsen"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2023/967",
+        "lovtidende": "BEK nr. 967 af 28/06/2023",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/967",
+            "citat": "Bekendtgørelse om afgørelse af visse klager i Skatteankestyrelsen"
+          }
+        ]
+      },
+      "note": "Opregner de afgiftslove m.v., hvor Skatteankestyrelsen selv afgør klagen i stedet for Landsskatteretten."
+    },
+    {
+      "id": "bek-skatteraadet-forretningsorden",
+      "navn": "Bekendtgørelse af forretningsorden for Skatterådet (BEK nr. 1035 af 25/10/2005)",
+      "type": "bekendtgørelse",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Skatteforvaltningslovens § 4, stk. 4: skatteministeren fastsætter en forretningsorden for Skatterådet.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+            "citat": "Skatteministeren fastsætter en forretningsorden for Skatterådet."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2005/1035",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2005/1035",
+            "citat": "Bekendtgørelse af forretningsorden for Skatterådet"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2005/1035",
+        "lovtidende": "BEK nr. 1035 af 25/10/2005",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2005/1035",
+            "citat": "Bekendtgørelse af forretningsorden for Skatterådet"
+          }
+        ]
+      },
+      "note": "Retsinformations XML har kun metadata (ingen brødtekst), så hjemmelsparagraffen i selve bekendtgørelsen er ikke læst."
+    },
+    {
+      "id": "bek-landsskatteretten-forretningsorden",
+      "navn": "Bekendtgørelse om forretningsorden for Landsskatteretten (BEK nr. 2373 af 10/12/2021)",
+      "type": "bekendtgørelse",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Skatteforvaltningslovens § 13, stk. 4 (efter nugældende lov: skatteministeren fastsætter en forretningsorden for Landsskatteretten).",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2021/2373",
+            "citat": "I medfør af § 13, stk. 4, i skatteforvaltningsloven"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2021/2373",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2021/2373",
+            "citat": "Bekendtgørelse om forretningsorden for Landsskatteretten"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2021/2373",
+        "lovtidende": "BEK nr. 2373 af 10/12/2021",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2021/2373",
+            "citat": "Bekendtgørelse om forretningsorden for Landsskatteretten"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bek-skatteankenaevn-forretningsorden",
+      "navn": "Bekendtgørelse om forretningsorden for skatteankenævn (BEK nr. 1041 af 22/06/2022)",
+      "type": "bekendtgørelse",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Skatteforvaltningslovens § 10, stk. 5 og 6.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2022/1041",
+            "citat": "I medfør af § 10, stk. 5 og 6, i skatteforvaltningsloven"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2022/1041",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2022/1041",
+            "citat": "Bekendtgørelse om forretningsorden for skatteankenævn"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2022/1041",
+        "lovtidende": "BEK nr. 1041 af 22/06/2022",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2022/1041",
+            "citat": "Bekendtgørelse om forretningsorden for skatteankenævn"
+          }
+        ]
+      },
+      "note": "Ændret ved BEK nr. 132 af 23/01/2026 (status gældende i kataloget)."
+    },
+    {
+      "id": "bek-vurderingsankenaevn-forretningsorden",
+      "navn": "Bekendtgørelse om forretningsorden for vurderingsankenævn (BEK nr. 2289 af 03/12/2021)",
+      "type": "bekendtgørelse",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Skatteforvaltningslovens § 10 a, stk. 6.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2021/2289",
+            "citat": "I medfør af § 10 a, stk. 6, i skatteforvaltningsloven"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2021/2289",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2021/2289",
+            "citat": "Bekendtgørelse om forretningsorden for vurderingsankenævn"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2021/2289",
+        "lovtidende": "BEK nr. 2289 af 03/12/2021",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2021/2289",
+            "citat": "Bekendtgørelse om forretningsorden for vurderingsankenævn"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bek-motorankenaevn-forretningsorden",
+      "navn": "Bekendtgørelse om forretningsorden for motorankenævn (BEK nr. 1043 af 22/06/2022)",
+      "type": "bekendtgørelse",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Skatteforvaltningslovens § 10, stk. 5 og 6.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2022/1043",
+            "citat": "I medfør af § 10, stk. 5 og 6, i skatteforvaltningsloven"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2022/1043",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2022/1043",
+            "citat": "Bekendtgørelse om forretningsorden for motorankenævn"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2022/1043",
+        "lovtidende": "BEK nr. 1043 af 22/06/2022",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2022/1043",
+            "citat": "Bekendtgørelse om forretningsorden for motorankenævn"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bek-spillemyndigheden",
+      "navn": "Bekendtgørelse om spillemyndigheden (BEK nr. 1121 af 01/12/2011)",
+      "type": "bekendtgørelse",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Spillelovens § 4 (dengang lov nr. 848 af 1/7/2010): beføjelserne udøves af Spillemyndigheden.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2011/1121",
+            "citat": "I medfør af § 4 i lov nr. 848 af 1. juli 2010 om spil"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2011/1121",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2011/1121",
+            "citat": "Bekendtgørelse om spillemyndigheden"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2011/1121",
+        "lovtidende": "BEK nr. 1121 af 01/12/2011",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2011/1121",
+            "citat": "Bekendtgørelse om spillemyndigheden"
+          }
+        ]
+      },
+      "note": "Én paragraf: beføjelser i spilleloven og grønlandsloven om visse spil udøves af Spillemyndigheden."
+    },
+    {
+      "id": "kilde-juridisk-vejledning",
+      "navn": "Den juridiske vejledning (info.skat.dk)",
+      "type": "dokumentkilde",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "vejledning",
+            "bindende": "blandet",
+            "note": "bindende for Skatteforvaltningens medarbejdere medmindre indholdet klart strider mod højere retskilder; skatteankenævnene er ikke bundet; borgere kan støtte ret på tidligere års udgaver"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://info.skat.dk/data.aspx?oid=80437",
+            "citat": "Den juridiske vejledning giver udtryk for Skatteforvaltningens opfattelse af gældende praksis og er bindende for Skatteforvaltningens medarbejdere, medmindre vejledningens indhold klart ikke er i overensstemmelse med højere rangerende retskilder"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://info.skat.dk/data.aspx?oid=124",
+        "belaeg": [
+          {
+            "url": "https://info.skat.dk/data.aspx?oid=124",
+            "citat": "Den juridiske vejledning 2026-2"
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML"
+        ],
+        "note": "Hierarkisk HTML-vejledning på info.skat.dk (afsnit A.A.1.3.2 osv.); ingen API eller bulk fundet. Tredjepartsspejl: tax.dk (Karnov).",
+        "belaeg": [
+          {
+            "url": "https://info.skat.dk/data.aspx?oid=1898626",
+            "citat": "A.A.1.3.2 Skatterådets opgaver og fremgangsmåden ved behandlingen af disse"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "andet": "Afsnitsnummer A.A.1.3.2 (hovedafsnit A-H, fx A.A processuelle regler, C.D selskaber); versioner kaldes ÅÅÅÅ-1 (pr. 1. januar) og ÅÅÅÅ-2 (pr. 1. juli), fx 2026-2.",
+        "belaeg": [
+          {
+            "url": "https://info.skat.dk/data.aspx?oid=1898626",
+            "citat": "A.A.1.3.2 Skatterådets opgaver og fremgangsmåden ved behandlingen af disse"
+          }
+        ]
+      },
+      "opdatering": {
+        "frekvens": "to gange årligt, pr. 1. januar og pr. 1. juli",
+        "versionshistorik": "Afsnittenes kolofon lister versioner med gyldighedsperioder tilbage til 2010 (Version 1.2: 20.07.10-20.01.11); gældende version 2026-2 med ajourføringsdato 1. juli 2026. Nyere praksis linkes løbende som 'offentliggjort efter ajourføringsdatoen'.",
+        "belaeg": [
+          {
+            "url": "https://info.skat.dk/data.aspx?oid=80436",
+            "citat": "Den juridiske vejledning ajourføres to gange årligt, pr. 1. januar og pr. 1. juli med vedtagen lovgivning og med praksis."
+          },
+          {
+            "url": "https://info.skat.dk/data.aspx?oid=1898477",
+            "citat": "Dokumentet gælder fra: Version: 1.2 - 20.07.10 - 20.01.11"
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 5,
+        "besvaer": 5,
+        "begrundelse": "Skatteforvaltningens samlede, bindende fortolkning af skattelovgivningen; ingen API, men stabil URL-struktur (oid) og versionering."
+      },
+      "note": "Har cirkulærestatus. Officiel formulering om bindende virkning findes under 'Bindende virkning' (oid=80437). Spillemyndigheden har en selvstændig vejledning om spil, som ikke er en del af Den juridiske vejledning."
+    },
+    {
+      "id": "kilde-skm-databasen",
+      "navn": "SKM-databasen: afgørelser, domme, styresignaler og SKM-meddelelser (info.skat.dk)",
+      "type": "dokumentkilde",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://info.skat.dk/data.aspx?oid=16010",
+        "belaeg": [
+          {
+            "url": "https://info.skat.dk/data.aspx?oid=16010",
+            "citat": "Afgørelser, domme, styresignaler, kendelser, SKM-meddelelser mv."
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML"
+        ],
+        "note": "Filtrerbar HTML-oversigt pr. år, myndighed (Højesteret, landsretter, byretter, Landsskatteretten, Skatterådet, Ligningsrådet, ministeriet, Skattestyrelsen m.fl.) og emne; RSS-abonnement tilbydes på siden men er ikke maskinelt belagt. Ingen API fundet.",
+        "belaeg": [
+          {
+            "url": "https://info.skat.dk/data.aspx?oid=16010",
+            "citat": "Her findes hele oversigten over afgørelser m.fl. helt tilbage til år 2000."
+          }
+        ]
+      },
+      "identifikatorer": {
+        "andet": "SKM-nummer: SKM<år>.<løbenummer>.<myndighedskode>, fx SKM2025.95.LSR (Landsskatteretten), .SR (Skatterådet), .HR (Højesteret), .BR (byret), .SKTST (Skattestyrelsen/styresignaler), .SANST (Skatteankestyrelsen/SKAT-arkiv).",
+        "belaeg": [
+          {
+            "url": "https://info.skat.dk/data.aspx?oid=16010",
+            "citat": "SKM nummer SKM overskrift Dato for off Dato for afg Emne Type"
+          }
+        ]
+      },
+      "opdatering": {
+        "frekvens": "løbende",
+        "versionshistorik": "Historisk arkiv tilbage til år 2000; nyere afgørelser linkes fra Den juridiske vejledning indtil næste ajourføring.",
+        "belaeg": [
+          {
+            "url": "https://info.skat.dk/data.aspx?oid=80436",
+            "citat": "Afgørelser, domme, styresignaler, kendelser, SKM-meddelelser mv., der offentliggøres efter ajourføringsdatoen den 1. juli 2026, og som har betydning for told- og skatteforvaltningen, vil løbende blive offentliggjort på skat.dk."
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 5,
+        "besvaer": 5,
+        "begrundelse": "Praksiskilden for skatteretten: domme, Landsskatteret, Skatterådets bindende svar og styresignaler med stabilt nummersystem."
+      },
+      "note": "Retningsgivende afgørelser offentliggøres her; ikke alle afgørelser (fx ankenævnsafgørelser) får SKM-nummer. Ombudsmandens notat om afgørelser uden SKM-nummer er ikke gennemgået."
+    },
+    {
+      "id": "kilde-afgoerelsesdatabasen",
+      "navn": "Afgørelsesdatabasen (Landsskatterettens afgørelser)",
+      "type": "dokumentkilde",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://afgoerelsesdatabasen.dk/",
+        "belaeg": [
+          {
+            "url": "https://skatteankestyrelsen.dk/footer-sider/afgoerelser",
+            "citat": "Landsskatteretten offentliggør sine afgørelser om ligning, moms, told og afgifter i Afgørelsesdatabasen."
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 4,
+        "besvaer": 3,
+        "begrundelse": "Landsskatterettens samlede afgørelsesbestand, men webappen er JavaScript-baseret, og adgangsform, nummersystem og vilkår er ikke verificeret."
+      },
+      "note": "Siden afgoerelsesdatabasen.dk indlæses som JavaScript-skal uden tekst; adgangsform (API/HTML), nummersystem og genbrugsvilkår er ikke afklaret. Retningsgivende afgørelser offentliggøres derudover på skat.dk som SKM-meddelelser."
+    },
+    {
+      "id": "kilde-spillemyndigheden-afgoerelser",
+      "navn": "Spillemyndighedens afgørelser og domme (spillemyndigheden.dk)",
+      "type": "dokumentkilde",
+      "ministerium": "min-skat-og-vaekst",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://www.spillemyndigheden.dk/afgoerelser-og-domme",
+        "belaeg": [
+          {
+            "url": "https://www.spillemyndigheden.dk/afgoerelser-og-domme",
+            "citat": "Spillemyndigheden offentliggør bødevedtagelser, fældende domme og delvis fældende domme for overtrædelse af spillelovgivningen."
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML"
+        ],
+        "note": "Oversigten hentes dynamisk ('Henter data...') på siden; ingen API fundet. Resuméer og afgørelser, ikke alle afgørelser.",
+        "belaeg": [
+          {
+            "url": "https://www.spillemyndigheden.dk/afgoerelser-og-domme",
+            "citat": "Her kan du se en oversigt over domme og afgørelser, der er givet på spilområdet eller resuméer heraf."
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 2,
+        "besvaer": 2,
+        "begrundelse": "Lille bestand (bøder, domme, hvidvaskafgørelser); klageafgørelser fra Landsskatteretten ligger i stedet i dennes database."
+      }
+    }
+  ],
+  "kanter": [
+    {
+      "from": "min-skat-og-vaekst",
+      "type": "ressortansvar",
+      "to": "sty-skatteforvaltningen",
+      "beskrivelse": "Skatteforvaltningen er den fælles juridiske myndighed for syv styrelser i ministeriets koncern.",
+      "belaeg": [
+        {
+          "url": "https://skatteforvaltningen.dk/",
+          "citat": "Skatteforvaltningen er den fælles juridiske myndighed for syv af styrelserne i Skatte- og Vækstministeriets koncern."
+        }
+      ]
+    },
+    {
+      "from": "min-skat-og-vaekst",
+      "type": "ressortansvar",
+      "to": "sty-skattestyrelsen",
+      "beskrivelse": "Styrelse under Skatte- og Vækstministeriet (tidligere Skatteministeriet).",
+      "belaeg": [
+        {
+          "url": "https://svmn.dk/ministeriet",
+          "citat": "Skatte- og Vækstministeriet (tidligere Skatteministeriet) blev etableret i 1975 og består af et departement og ti styrelser: Skattestyrelsen, Vurderingsstyrelsen, Motorstyrelsen, Gældsstyrelsen, Toldstyrelsen, Administrations- og Servicestyrelsen, Udviklings- og Forenklingsstyrelsen, Spillemyndigheden, Skatteankestyrelsen og Finanstilsynet."
+        }
+      ]
+    },
+    {
+      "from": "min-skat-og-vaekst",
+      "type": "ressortansvar",
+      "to": "sty-toldstyrelsen",
+      "beskrivelse": "Styrelse under Skatte- og Vækstministeriet.",
+      "belaeg": [
+        {
+          "url": "https://svmn.dk/ministeriet",
+          "citat": "Skatte- og Vækstministeriet (tidligere Skatteministeriet) blev etableret i 1975 og består af et departement og ti styrelser: Skattestyrelsen, Vurderingsstyrelsen, Motorstyrelsen, Gældsstyrelsen, Toldstyrelsen, Administrations- og Servicestyrelsen, Udviklings- og Forenklingsstyrelsen, Spillemyndigheden, Skatteankestyrelsen og Finanstilsynet."
+        }
+      ]
+    },
+    {
+      "from": "min-skat-og-vaekst",
+      "type": "ressortansvar",
+      "to": "sty-gaeldsstyrelsen",
+      "beskrivelse": "Styrelse under Skatte- og Vækstministeriet.",
+      "belaeg": [
+        {
+          "url": "https://svmn.dk/ministeriet",
+          "citat": "Skatte- og Vækstministeriet (tidligere Skatteministeriet) blev etableret i 1975 og består af et departement og ti styrelser: Skattestyrelsen, Vurderingsstyrelsen, Motorstyrelsen, Gældsstyrelsen, Toldstyrelsen, Administrations- og Servicestyrelsen, Udviklings- og Forenklingsstyrelsen, Spillemyndigheden, Skatteankestyrelsen og Finanstilsynet."
+        }
+      ]
+    },
+    {
+      "from": "min-skat-og-vaekst",
+      "type": "ressortansvar",
+      "to": "sty-motorstyrelsen",
+      "beskrivelse": "Styrelse under Skatte- og Vækstministeriet.",
+      "belaeg": [
+        {
+          "url": "https://svmn.dk/ministeriet",
+          "citat": "Skatte- og Vækstministeriet (tidligere Skatteministeriet) blev etableret i 1975 og består af et departement og ti styrelser: Skattestyrelsen, Vurderingsstyrelsen, Motorstyrelsen, Gældsstyrelsen, Toldstyrelsen, Administrations- og Servicestyrelsen, Udviklings- og Forenklingsstyrelsen, Spillemyndigheden, Skatteankestyrelsen og Finanstilsynet."
+        }
+      ]
+    },
+    {
+      "from": "min-skat-og-vaekst",
+      "type": "ressortansvar",
+      "to": "sty-udviklings-og-forenklingsstyrelsen",
+      "beskrivelse": "Styrelse under Skatte- og Vækstministeriet.",
+      "belaeg": [
+        {
+          "url": "https://svmn.dk/ministeriet",
+          "citat": "Skatte- og Vækstministeriet (tidligere Skatteministeriet) blev etableret i 1975 og består af et departement og ti styrelser: Skattestyrelsen, Vurderingsstyrelsen, Motorstyrelsen, Gældsstyrelsen, Toldstyrelsen, Administrations- og Servicestyrelsen, Udviklings- og Forenklingsstyrelsen, Spillemyndigheden, Skatteankestyrelsen og Finanstilsynet."
+        }
+      ]
+    },
+    {
+      "from": "min-skat-og-vaekst",
+      "type": "ressortansvar",
+      "to": "sty-administrations-og-servicestyrelsen",
+      "beskrivelse": "Styrelse under Skatte- og Vækstministeriet.",
+      "belaeg": [
+        {
+          "url": "https://svmn.dk/ministeriet",
+          "citat": "Skatte- og Vækstministeriet (tidligere Skatteministeriet) blev etableret i 1975 og består af et departement og ti styrelser: Skattestyrelsen, Vurderingsstyrelsen, Motorstyrelsen, Gældsstyrelsen, Toldstyrelsen, Administrations- og Servicestyrelsen, Udviklings- og Forenklingsstyrelsen, Spillemyndigheden, Skatteankestyrelsen og Finanstilsynet."
+        }
+      ]
+    },
+    {
+      "from": "min-skat-og-vaekst",
+      "type": "ressortansvar",
+      "to": "sty-skatteankestyrelsen",
+      "beskrivelse": "Selvstændig myndighed under ministeriet, uden for Skatteforvaltningen.",
+      "belaeg": [
+        {
+          "url": "https://info.skat.dk/data.aspx?oid=80433",
+          "citat": "Spillemyndigheden og Skatteankestyrelsen, som er selvstændige myndigheder under Skatte- og Vækstministeriet."
+        }
+      ]
+    },
+    {
+      "from": "min-skat-og-vaekst",
+      "type": "ressortansvar",
+      "to": "sty-spillemyndigheden",
+      "beskrivelse": "Selvstændig myndighed under ministeriet, uden for Skatteforvaltningen.",
+      "belaeg": [
+        {
+          "url": "https://info.skat.dk/data.aspx?oid=80433",
+          "citat": "Spillemyndigheden og Skatteankestyrelsen, som er selvstændige myndigheder under Skatte- og Vækstministeriet."
+        }
+      ]
+    },
+    {
+      "from": "min-skat-og-vaekst",
+      "type": "ressortansvar",
+      "to": "raad-skatteraadet",
+      "beskrivelse": "Ministeren udnævner 13 af 19 medlemmer og udpeger formand; Folketinget vælger 6.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+          "citat": "Folketinget vælger 6 medlemmer, og skatteministeren udnævner 13 medlemmer."
+        }
+      ]
+    },
+    {
+      "from": "min-skat-og-vaekst",
+      "type": "ressortansvar",
+      "to": "naevn-landsskatteretten",
+      "beskrivelse": "Uafhængigt nævn under ministeriet.",
+      "belaeg": [
+        {
+          "url": "https://info.skat.dk/data.aspx?oid=80433",
+          "citat": "Landsskatteretten er et uafhængigt nævn under Skatte- og Vækstministeriet."
+        }
+      ]
+    },
+    {
+      "from": "min-skat-og-vaekst",
+      "type": "ressortansvar",
+      "to": "naevn-skatteankenaevn",
+      "beskrivelse": "Ministeren fastsætter ankenævnenes forretningsorden og vederlag.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+          "citat": "Skatteministeren fastsætter forretningsordenen for ankenævnene."
+        }
+      ]
+    },
+    {
+      "from": "min-skat-og-vaekst",
+      "type": "ressortansvar",
+      "to": "naevn-vurderingsankenaevn",
+      "beskrivelse": "Ministeren fastsætter vurderingsankenævnenes forretningsorden og vederlag.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+          "citat": "Skatteministeren fastsætter en forretningsorden for vurderingsankenævnene, herunder regler for vederlæggelse af vurderingsankenævnenes medlemmer."
+        }
+      ]
+    },
+    {
+      "from": "min-skat-og-vaekst",
+      "type": "ressortansvar",
+      "to": "naevn-motorankenaevn",
+      "beskrivelse": "Ministeren fastsætter ankenævnenes forretningsorden og vederlag.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+          "citat": "Skatteministeren fastsætter forretningsordenen for ankenævnene."
+        }
+      ]
+    },
+    {
+      "from": "min-skat-og-vaekst",
+      "type": "ressortansvar",
+      "to": "tilsyn-it-tilsynet",
+      "beskrivelse": "It-tilsynet er en del af ministeriets koncern; medlemmerne udnævnes af ministeren.",
+      "belaeg": [
+        {
+          "url": "https://svmn.dk/ministeriet",
+          "citat": "Derudover er It-tilsynet og Finansiel Stabilitet også en del koncernen."
+        }
+      ]
+    },
+    {
+      "from": "min-skat-og-vaekst",
+      "type": "ressortansvar",
+      "to": "lov-skatteforvaltningsloven",
+      "beskrivelse": "Loven hører under skatteministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+          "citat": "Skatteministeren kan under ganske særlige omstændigheder afskedige et medlem af Skatterådet."
+        }
+      ]
+    },
+    {
+      "from": "min-skat-og-vaekst",
+      "type": "ressortansvar",
+      "to": "lov-spilleloven",
+      "beskrivelse": "Skatteministeren er spillemyndighed og kan bemyndige.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1182",
+          "citat": "Skatteministeren, eller den ministeren bemyndiger hertil, er spillemyndighed."
+        }
+      ]
+    },
+    {
+      "from": "min-skat-og-vaekst",
+      "type": "ressortansvar",
+      "to": "lov-it-tilsynsloven",
+      "beskrivelse": "Skatteministeren udnævner tilsynets medlemmer.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2020/2187",
+          "citat": "Medlemmerne af tilsynet udnævnes af skatteministeren efter drøftelse med et af Folketinget nedsat udvalg."
+        }
+      ]
+    },
+    {
+      "from": "bek-skatteforvaltningens-opgaver",
+      "type": "hjemmel_for",
+      "to": "sty-skatteforvaltningen",
+      "beskrivelse": "BEK 804/2018 § 1 samler de syv styrelser i én myndighed, Skatteforvaltningen.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+          "citat": "De opgaver, der ved skatteforvaltningslovens § 1 er tillagt told- og skatteforvaltningen, varetages af Skatteforvaltningen."
+        }
+      ]
+    },
+    {
+      "from": "bek-skatteforvaltningens-opgaver",
+      "type": "hjemmel_for",
+      "to": "sty-skattestyrelsen",
+      "beskrivelse": "BEK 804/2018 § 1: Skattestyrelsen er en del af Skatteforvaltningen.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+          "citat": "Skatteforvaltningen, der er en myndighed, består af Administrations- og Servicestyrelsen, Gældsstyrelsen, Motorstyrelsen, Skattestyrelsen, Toldstyrelsen, Udviklings- og Forenklingsstyrelsen samt Vurderingsstyrelsen."
+        }
+      ]
+    },
+    {
+      "from": "bek-skatteforvaltningens-opgaver",
+      "type": "hjemmel_for",
+      "to": "sty-toldstyrelsen",
+      "beskrivelse": "BEK 804/2018 § 1: Toldstyrelsen er en del af Skatteforvaltningen.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+          "citat": "Skatteforvaltningen, der er en myndighed, består af Administrations- og Servicestyrelsen, Gældsstyrelsen, Motorstyrelsen, Skattestyrelsen, Toldstyrelsen, Udviklings- og Forenklingsstyrelsen samt Vurderingsstyrelsen."
+        }
+      ]
+    },
+    {
+      "from": "bek-skatteforvaltningens-opgaver",
+      "type": "hjemmel_for",
+      "to": "sty-gaeldsstyrelsen",
+      "beskrivelse": "BEK 804/2018 § 1: Gældsstyrelsen er en del af Skatteforvaltningen.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+          "citat": "Skatteforvaltningen, der er en myndighed, består af Administrations- og Servicestyrelsen, Gældsstyrelsen, Motorstyrelsen, Skattestyrelsen, Toldstyrelsen, Udviklings- og Forenklingsstyrelsen samt Vurderingsstyrelsen."
+        }
+      ]
+    },
+    {
+      "from": "bek-skatteforvaltningens-opgaver",
+      "type": "hjemmel_for",
+      "to": "sty-motorstyrelsen",
+      "beskrivelse": "BEK 804/2018 § 1: Motorstyrelsen er en del af Skatteforvaltningen.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+          "citat": "Skatteforvaltningen, der er en myndighed, består af Administrations- og Servicestyrelsen, Gældsstyrelsen, Motorstyrelsen, Skattestyrelsen, Toldstyrelsen, Udviklings- og Forenklingsstyrelsen samt Vurderingsstyrelsen."
+        }
+      ]
+    },
+    {
+      "from": "bek-skatteforvaltningens-opgaver",
+      "type": "hjemmel_for",
+      "to": "sty-udviklings-og-forenklingsstyrelsen",
+      "beskrivelse": "BEK 804/2018 § 1: Udviklings- og Forenklingsstyrelsen er en del af Skatteforvaltningen.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+          "citat": "Skatteforvaltningen, der er en myndighed, består af Administrations- og Servicestyrelsen, Gældsstyrelsen, Motorstyrelsen, Skattestyrelsen, Toldstyrelsen, Udviklings- og Forenklingsstyrelsen samt Vurderingsstyrelsen."
+        }
+      ]
+    },
+    {
+      "from": "bek-skatteforvaltningens-opgaver",
+      "type": "hjemmel_for",
+      "to": "sty-administrations-og-servicestyrelsen",
+      "beskrivelse": "BEK 804/2018 § 1: Administrations- og Servicestyrelsen er en del af Skatteforvaltningen.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+          "citat": "Skatteforvaltningen, der er en myndighed, består af Administrations- og Servicestyrelsen, Gældsstyrelsen, Motorstyrelsen, Skattestyrelsen, Toldstyrelsen, Udviklings- og Forenklingsstyrelsen samt Vurderingsstyrelsen."
+        }
+      ]
+    },
+    {
+      "from": "bek-skatteforvaltningens-opgaver",
+      "type": "hjemmel_for",
+      "to": "sty-vurderingsstyrelsen",
+      "beskrivelse": "BEK 804/2018 § 1: Vurderingsstyrelsen er en del af Skatteforvaltningen.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+          "citat": "Skatteforvaltningen, der er en myndighed, består af Administrations- og Servicestyrelsen, Gældsstyrelsen, Motorstyrelsen, Skattestyrelsen, Toldstyrelsen, Udviklings- og Forenklingsstyrelsen samt Vurderingsstyrelsen."
+        }
+      ]
+    },
+    {
+      "from": "lov-skatteforvaltningsloven",
+      "type": "hjemmel_for",
+      "to": "bek-skatteforvaltningens-opgaver",
+      "beskrivelse": "Udstedt efter skatteforvaltningslovens § 14, stk. 3 og § 64.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2018/804",
+          "citat": "I medfør af § 14, stk. 3, og § 64 i skatteforvaltningsloven"
+        }
+      ]
+    },
+    {
+      "from": "lov-skatteforvaltningsloven",
+      "type": "hjemmel_for",
+      "to": "sty-skatteankestyrelsen",
+      "beskrivelse": "Kapitel 2 a (§ 4 a): skatteankeforvaltningen modtager og visiterer klager, afgør visse klager og er sekretariat for nævnene.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+          "citat": "Skatteankeforvaltningen stiller sekretariatsbistand til rådighed for skatteankenævnene, vurderingsankenævnene, motorankenævnene og Landsskatteretten."
+        }
+      ]
+    },
+    {
+      "from": "lov-skatteforvaltningsloven",
+      "type": "hjemmel_for",
+      "to": "bek-skatteankestyrelsen",
+      "beskrivelse": "Udstedt efter §§ 4 a, stk. 5, 35, 35 c og 64.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2021/2372",
+          "citat": "I medfør af § 4 a, stk. 5, § 35, stk. 1-4, § 35 c, stk. 6, og § 64 i skatteforvaltningsloven"
+        }
+      ]
+    },
+    {
+      "from": "bek-skatteankestyrelsen",
+      "type": "hjemmel_for",
+      "to": "sty-skatteankestyrelsen",
+      "beskrivelse": "§ 1: Skatteankestyrelsen varetager skatteankeforvaltningens opgaver.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2021/2372",
+          "citat": "Skatteankestyrelsen varetager de opgaver, der ved skatteforvaltningslovens kapitel 2 a er tillagt skatteankeforvaltningen."
+        }
+      ]
+    },
+    {
+      "from": "lov-skatteforvaltningsloven",
+      "type": "hjemmel_for",
+      "to": "bek-skatteankestyrelsen-visse-klager",
+      "beskrivelse": "Udstedt efter § 35 b, stk. 3, 1. pkt.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2023/967",
+          "citat": "I medfør af § 35 b, stk. 3, 1. pkt., i skatteforvaltningsloven"
+        }
+      ]
+    },
+    {
+      "from": "bek-skatteankestyrelsen-visse-klager",
+      "type": "hjemmel_for",
+      "to": "sty-skatteankestyrelsen",
+      "beskrivelse": "§ 1: Skatteankestyrelsen afgør selv klager efter opregnede love.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2023/967",
+          "citat": "Skatteankestyrelsen afgør klager over afgørelser truffet efter de nedenfor nævnte love m.v."
+        }
+      ]
+    },
+    {
+      "from": "lov-skatteforvaltningsloven",
+      "type": "hjemmel_for",
+      "to": "raad-skatteraadet",
+      "beskrivelse": "Kapitel 2 (§§ 2-4): Skatterådet bistår og afgør forelagte sager; kan ændre åbenbart ulovlige ankenævnsafgørelser.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+          "citat": "Skatterådet afgør sager, som told- og skatteforvaltningen forelægger for Skatterådet til afgørelse"
+        }
+      ]
+    },
+    {
+      "from": "lov-skatteforvaltningsloven",
+      "type": "hjemmel_for",
+      "to": "bek-skatteraadet-forretningsorden",
+      "beskrivelse": "§ 4, stk. 4: ministeren fastsætter forretningsorden for Skatterådet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+          "citat": "Skatteministeren fastsætter en forretningsorden for Skatterådet."
+        }
+      ]
+    },
+    {
+      "from": "bek-skatteraadet-forretningsorden",
+      "type": "hjemmel_for",
+      "to": "raad-skatteraadet",
+      "beskrivelse": "Forretningsorden for Skatterådet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2005/1035",
+          "citat": "Bekendtgørelse af forretningsorden for Skatterådet"
+        }
+      ]
+    },
+    {
+      "from": "lov-skatteforvaltningsloven",
+      "type": "hjemmel_for",
+      "to": "naevn-landsskatteretten",
+      "beskrivelse": "Kapitel 5 (§§ 11-14): Landsskatterettens kompetence og sammensætning.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+          "citat": "Landsskatteretten afgør, medmindre andet er bestemt af skatteministeren efter § 14, stk. 2, klager over:"
+        }
+      ]
+    },
+    {
+      "from": "lov-skatteforvaltningsloven",
+      "type": "hjemmel_for",
+      "to": "bek-landsskatteretten-forretningsorden",
+      "beskrivelse": "Forretningsorden for Landsskatteretten fastsat af ministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+          "citat": "Skatteministeren fastsætter en forretningsorden for Landsskatteretten."
+        }
+      ]
+    },
+    {
+      "from": "bek-landsskatteretten-forretningsorden",
+      "type": "hjemmel_for",
+      "to": "naevn-landsskatteretten",
+      "beskrivelse": "Procesregler for Landsskatterettens behandling af klager.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2021/2373",
+          "citat": "Landsskatteretten behandler klager over administrative afgørelser, der efter lovgivningen afgøres af Landsskatteretten"
+        }
+      ]
+    },
+    {
+      "from": "lov-skatteforvaltningsloven",
+      "type": "hjemmel_for",
+      "to": "naevn-skatteankenaevn",
+      "beskrivelse": "§ 5: skatteankenævnenes kompetence.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+          "citat": "Skatteankenævnene afgør klager over told- og skatteforvaltningens afgørelser vedrørende fysiske personer og dødsboer om:"
+        }
+      ]
+    },
+    {
+      "from": "lov-skatteforvaltningsloven",
+      "type": "hjemmel_for",
+      "to": "bek-skatteankenaevn-forretningsorden",
+      "beskrivelse": "§ 10, stk. 5 og 6: ministeren fastsætter ankenævnenes forretningsorden.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2022/1041",
+          "citat": "I medfør af § 10, stk. 5 og 6, i skatteforvaltningsloven"
+        }
+      ]
+    },
+    {
+      "from": "bek-skatteankenaevn-forretningsorden",
+      "type": "hjemmel_for",
+      "to": "naevn-skatteankenaevn",
+      "beskrivelse": "Forretningsorden for skatteankenævn.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2022/1041",
+          "citat": "Bekendtgørelse om forretningsorden for skatteankenævn"
+        }
+      ]
+    },
+    {
+      "from": "lov-skatteforvaltningsloven",
+      "type": "hjemmel_for",
+      "to": "naevn-vurderingsankenaevn",
+      "beskrivelse": "§ 6: vurderingsankenævnenes kompetence.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+          "citat": "Vurderingsankenævnene afgør klager over told- og skatteforvaltningens afgørelser efter:"
+        }
+      ]
+    },
+    {
+      "from": "lov-skatteforvaltningsloven",
+      "type": "hjemmel_for",
+      "to": "bek-vurderingsankenaevn-forretningsorden",
+      "beskrivelse": "§ 10 a, stk. 6.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2021/2289",
+          "citat": "I medfør af § 10 a, stk. 6, i skatteforvaltningsloven"
+        }
+      ]
+    },
+    {
+      "from": "bek-vurderingsankenaevn-forretningsorden",
+      "type": "hjemmel_for",
+      "to": "naevn-vurderingsankenaevn",
+      "beskrivelse": "Forretningsorden for vurderingsankenævn.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2021/2289",
+          "citat": "Bekendtgørelse om forretningsorden for vurderingsankenævn"
+        }
+      ]
+    },
+    {
+      "from": "lov-skatteforvaltningsloven",
+      "type": "hjemmel_for",
+      "to": "naevn-motorankenaevn",
+      "beskrivelse": "§ 7: motorankenævnenes kompetence.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+          "citat": "Motorankenævnene afgør klager over told- og skatteforvaltningens afgørelser om:"
+        }
+      ]
+    },
+    {
+      "from": "lov-skatteforvaltningsloven",
+      "type": "hjemmel_for",
+      "to": "bek-motorankenaevn-forretningsorden",
+      "beskrivelse": "§ 10, stk. 5 og 6.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2022/1043",
+          "citat": "I medfør af § 10, stk. 5 og 6, i skatteforvaltningsloven"
+        }
+      ]
+    },
+    {
+      "from": "bek-motorankenaevn-forretningsorden",
+      "type": "hjemmel_for",
+      "to": "naevn-motorankenaevn",
+      "beskrivelse": "Forretningsorden for motorankenævn.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2022/1043",
+          "citat": "Bekendtgørelse om forretningsorden for motorankenævn"
+        }
+      ]
+    },
+    {
+      "from": "lov-spilleloven",
+      "type": "hjemmel_for",
+      "to": "sty-spillemyndigheden",
+      "beskrivelse": "§ 4: skatteministeren (eller den, ministeren bemyndiger) er spillemyndighed; § 46: tilsyn.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1182",
+          "citat": "Tilladelse efter denne lov gives af spillemyndigheden, medmindre andet fremgår af lovens enkelte bestemmelser."
+        }
+      ]
+    },
+    {
+      "from": "lov-spilleloven",
+      "type": "hjemmel_for",
+      "to": "bek-spillemyndigheden",
+      "beskrivelse": "Bekendtgørelsen udstedt efter spillelovens § 4.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2011/1121",
+          "citat": "I medfør af § 4 i lov nr. 848 af 1. juli 2010 om spil"
+        }
+      ]
+    },
+    {
+      "from": "bek-spillemyndigheden",
+      "type": "hjemmel_for",
+      "to": "sty-spillemyndigheden",
+      "beskrivelse": "§ 1: beføjelserne udøves af Spillemyndigheden.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2011/1121",
+          "citat": "udøves af Spillemyndigheden."
+        }
+      ]
+    },
+    {
+      "from": "lov-it-tilsynsloven",
+      "type": "hjemmel_for",
+      "to": "tilsyn-it-tilsynet",
+      "beskrivelse": "§ 1: tilsynet oprettes; § 2: fuld uafhængighed.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2020/2187",
+          "citat": "Tilsynet udøver sine funktioner i fuld uafhængighed."
+        }
+      ]
+    },
+    {
+      "from": "naevn-landsskatteretten",
+      "type": "klageinstans",
+      "to": "sty-skatteforvaltningen",
+      "beskrivelse": "Skatteforvaltningsloven § 11, stk. 1, nr. 1 og § 35 b, stk. 2: Landsskatteretten afgør klager over Skatteforvaltningens afgørelser, der ikke afgøres af Skatteankestyrelsen eller et ankenævn (bl.a. selskabsskat, moms, told, afgifter). Klage til Skatteankestyrelsen senest 3 måneder efter modtagelsen (§ 35 a, stk. 3). Kan indbringes for domstolene inden 3 måneder (§ 48, stk. 3).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+          "citat": "Told- og skatteforvaltningens afgørelser, hvor klagen ikke afgøres af skatteankeforvaltningen, et skatteankenævn, et vurderingsankenævn eller et motorankenævn."
+        }
+      ]
+    },
+    {
+      "from": "naevn-landsskatteretten",
+      "type": "klageinstans",
+      "to": "raad-skatteraadet",
+      "beskrivelse": "Skatteforvaltningsloven § 11, stk. 1, nr. 2: Skatterådets afgørelser (herunder bindende svar) kan påklages til Landsskatteretten; Skatteministeriet kan indbringe Skatterådets EU-retlige afgørelser inden 1 måned (§ 40).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+          "citat": "Skatterådets afgørelser."
+        }
+      ]
+    },
+    {
+      "from": "naevn-landsskatteretten",
+      "type": "klageinstans",
+      "to": "sty-spillemyndigheden",
+      "beskrivelse": "Spilleloven § 50: klager over Spillemyndighedens afgørelser afgøres af Landsskatteretten (medmindre Skatteankestyrelsen er tillagt kompetencen efter skatteforvaltningslovens § 35 b, stk. 3). Opsættende virkning efter § 52-54 a for tilbagekaldelser m.v. Domstolsprøvelse inden 3 måneder (§ 55), ellers endelig.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1182",
+          "citat": "Klager over afgørelser truffet af spillemyndigheden afgøres af Landsskatteretten, medmindre andet følger af regler udstedt i medfør af skatteforvaltningslovens § 35 b, stk. 3."
+        }
+      ]
+    },
+    {
+      "from": "sty-skatteankestyrelsen",
+      "type": "klageinstans",
+      "to": "sty-skatteforvaltningen",
+      "beskrivelse": "Skatteforvaltningsloven § 4 a, stk. 2 og § 35 b, stk. 3 samt BEK 967/2023: Skatteankestyrelsen afgør selv klager over Skatteforvaltningens afslag på genoptagelse og klager over visse afgiftsafgørelser; kan henvise principielle sager til Landsskatteretten (§ 4 a, stk. 3).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+          "citat": "Skatteankeforvaltningen træffer afgørelse i klager vedrørende told- og skatteforvaltningens afslag på genoptagelse"
+        }
+      ]
+    },
+    {
+      "from": "naevn-skatteankenaevn",
+      "type": "klageinstans",
+      "to": "sty-skatteforvaltningen",
+      "beskrivelse": "Skatteforvaltningsloven § 5, stk. 1 og § 35 b, stk. 1: klager fra fysiske personer og dødsboer over indkomstskat, ejendomsværdiskat m.v. Landsskatteretten afgør dog klager, hvor betingelserne i § 21, stk. 4 er opfyldt. Domstolsprøvelse inden 3 måneder (§ 48).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+          "citat": "Skatteankenævnene afgør klager over told- og skatteforvaltningens afgørelser vedrørende fysiske personer og dødsboer om:"
+        }
+      ]
+    },
+    {
+      "from": "naevn-vurderingsankenaevn",
+      "type": "klageinstans",
+      "to": "sty-vurderingsstyrelsen",
+      "beskrivelse": "Skatteforvaltningsloven § 6: klager over ejendomsvurderinger (loven nævner 'told- og skatteforvaltningens afgørelser'; Vurderingsstyrelsen er styrelsen med opgaven). Kan henvise principielle sager til Landsskatteretten (§ 6 a) og registeroplysningssager til Skatteankestyrelsen (§ 6 b). Domstolsprøvelse først efter nævnets behandling for vurderinger fra 2013 (§ 48, stk. 1).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+          "citat": "Vurderingsankenævnene afgør klager over told- og skatteforvaltningens afgørelser efter:"
+        }
+      ]
+    },
+    {
+      "from": "naevn-motorankenaevn",
+      "type": "klageinstans",
+      "to": "sty-motorstyrelsen",
+      "beskrivelse": "Skatteforvaltningsloven § 7, stk. 1: klager over afgørelser om registreringsafgift m.v. (loven nævner 'told- og skatteforvaltningens afgørelser'; Motorstyrelsen er styrelsen med opgaven). Landsskatteretten afgør dog visse klager (§ 35 b, stk. 1).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+          "citat": "Motorankenævnene afgør klager over told- og skatteforvaltningens afgørelser om:"
+        }
+      ]
+    },
+    {
+      "from": "dom-byretterne",
+      "type": "klageinstans",
+      "to": "naevn-landsskatteretten",
+      "beskrivelse": "Skatteforvaltningsloven § 48-50: afgørelser kan indbringes for domstolene, senest 3 måneder efter afgørelsen; Skatteministeriet kan indbringe nævnenes afgørelser inden 3 måneder (§ 49). Sagen anlægges ved den retskreds, hvor Skatteministeriets modpart har hjemting (§ 50). Samme frist gælder alle ankenævn og Skatteankestyrelsen.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+          "citat": "En administrativ afgørelse kan ikke indbringes for domstolene senere end 3 måneder efter, at afgørelsen er truffet"
+        }
+      ]
+    },
+    {
+      "from": "dom-byretterne",
+      "type": "klageinstans",
+      "to": "sty-skatteforvaltningen",
+      "beskrivelse": "Skatteforvaltningsloven § 48, stk. 1-2: en afgørelse kan indbringes for domstolene i stedet for at påklages, indtil klageren efter høring har fået oplysning om, hvad sagen vil føre til; ellers efter klageinstansens afgørelse.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+          "citat": "En afgørelse truffet af skattemyndighederne kan indbringes for domstolene eller påklages, medmindre andet er bestemt efter anden lovgivning."
+        }
+      ]
+    },
+    {
+      "from": "dom-byretterne",
+      "type": "klageinstans",
+      "to": "sty-spillemyndigheden",
+      "beskrivelse": "Spilleloven § 55: afgørelser fra Spillemyndigheden, Skatteankestyrelsen og Landsskatteretten kan indbringes for domstolene senest 3 måneder efter afgørelsen; ellers er de endelige. Tilbagekaldelse: forlangt indbragt inden 4 uger (§ 58).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1182",
+          "citat": "Afgørelser truffet af spillemyndigheden, skatteankeforvaltningen og Landsskatteretten kan indbringes for domstolene, senest 3 måneder efter at afgørelse er truffet."
+        }
+      ]
+    },
+    {
+      "from": "dom-byretterne",
+      "type": "klageinstans",
+      "to": "naevn-skatteankenaevn",
+      "beskrivelse": "Skatteforvaltningsloven § 49: Skatteministeriet kan indbringe skatteankenævnets afgørelse for domstolene inden 3 måneder.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+          "citat": "kan Skatteministeriet indbringe for domstolene, senest 3 måneder efter at klageinstansen har truffet afgørelse."
+        }
+      ]
+    },
+    {
+      "from": "dom-byretterne",
+      "type": "klageinstans",
+      "to": "naevn-vurderingsankenaevn",
+      "beskrivelse": "Skatteforvaltningsloven § 49 og § 48, stk. 1: Skatteministeriet kan indbringe nævnets afgørelse inden 3 måneder; borgerens adgang til domstolene for vurderinger fra 2013 er betinget af nævnets behandling.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+          "citat": "kan Skatteministeriet indbringe for domstolene, senest 3 måneder efter at klageinstansen har truffet afgørelse."
+        }
+      ]
+    },
+    {
+      "from": "dom-byretterne",
+      "type": "klageinstans",
+      "to": "naevn-motorankenaevn",
+      "beskrivelse": "Skatteforvaltningsloven § 49: Skatteministeriet kan indbringe nævnets afgørelse for domstolene inden 3 måneder.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+          "citat": "kan Skatteministeriet indbringe for domstolene, senest 3 måneder efter at klageinstansen har truffet afgørelse."
+        }
+      ]
+    },
+    {
+      "from": "raad-skatteraadet",
+      "type": "tilsyn",
+      "to": "naevn-skatteankenaevn",
+      "beskrivelse": "Skatteforvaltningsloven § 2, stk. 3: Skatterådet kan efter indstilling ændre en åbenbart ulovlig afgørelse fra et skatteankenævn og kan indkalde sagens materiale.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+          "citat": "Skatterådet kan efter indstilling fra told- og skatteforvaltningen ændre en åbenbart ulovlig afgørelse, der er truffet af et skatteankenævn, et vurderingsankenævn eller et motorankenævn."
+        }
+      ]
+    },
+    {
+      "from": "raad-skatteraadet",
+      "type": "tilsyn",
+      "to": "naevn-vurderingsankenaevn",
+      "beskrivelse": "Skatteforvaltningsloven § 2, stk. 3: Skatterådet kan ændre en åbenbart ulovlig afgørelse fra et vurderingsankenævn.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+          "citat": "Skatterådet kan efter indstilling fra told- og skatteforvaltningen ændre en åbenbart ulovlig afgørelse, der er truffet af et skatteankenævn, et vurderingsankenævn eller et motorankenævn."
+        }
+      ]
+    },
+    {
+      "from": "raad-skatteraadet",
+      "type": "tilsyn",
+      "to": "naevn-motorankenaevn",
+      "beskrivelse": "Skatteforvaltningsloven § 2, stk. 3: Skatterådet kan ændre en åbenbart ulovlig afgørelse fra et motorankenævn.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+          "citat": "Skatterådet kan efter indstilling fra told- og skatteforvaltningen ændre en åbenbart ulovlig afgørelse, der er truffet af et skatteankenævn, et vurderingsankenævn eller et motorankenævn."
+        }
+      ]
+    },
+    {
+      "from": "tilsyn-it-tilsynet",
+      "type": "tilsyn",
+      "to": "sty-skatteforvaltningen",
+      "beskrivelse": "Lov nr. 2187/2020: tilsyn med Skatteforvaltningens it-drift og it-udvikling; kan kontrollere og udtale sig, Skatteforvaltningen skal udlevere oplysninger.",
+      "belaeg": [
+        {
+          "url": "https://info.skat.dk/data.aspx?oid=2331060",
+          "citat": "It-tilsynet har en række beføjelser til at kontrollere og udtale sig om driften, vedligeholdelsen og udviklingen af Skatteforvaltningens it-område."
+        }
+      ]
+    },
+    {
+      "from": "sty-skatteforvaltningen",
+      "type": "udsteder",
+      "to": "kilde-juridisk-vejledning",
+      "beskrivelse": "Skatteforvaltningen udgiver Den juridiske vejledning (cirkulærestatus).",
+      "belaeg": [
+        {
+          "url": "https://info.skat.dk/data.aspx?oid=80433",
+          "citat": "Den juridiske vejledning giver udtryk for Skatteforvaltningens opfattelse af gældende praksis og har cirkulærestatus."
+        }
+      ]
+    },
+    {
+      "from": "sty-skatteforvaltningen",
+      "type": "udsteder",
+      "to": "kilde-skm-databasen",
+      "beskrivelse": "info.skat.dk er en af Skatteforvaltningens digitale indgange til juridiske informationer; her offentliggøres afgørelser, domme og styresignaler.",
+      "belaeg": [
+        {
+          "url": "https://info.skat.dk/data.aspx?oid=80437",
+          "citat": "info.skat.dk er én af Skatteforvaltningens digitale indgange til juridiske informationer og driftsmeddelelser"
+        }
+      ]
+    },
+    {
+      "from": "naevn-landsskatteretten",
+      "type": "udsteder",
+      "to": "kilde-afgoerelsesdatabasen",
+      "beskrivelse": "Landsskatteretten offentliggør afgørelser om ligning, moms, told og afgifter i Afgørelsesdatabasen.",
+      "belaeg": [
+        {
+          "url": "https://skatteankestyrelsen.dk/footer-sider/afgoerelser",
+          "citat": "Landsskatteretten offentliggør sine afgørelser om ligning, moms, told og afgifter i Afgørelsesdatabasen."
+        }
+      ]
+    },
+    {
+      "from": "sty-spillemyndigheden",
+      "type": "udsteder",
+      "to": "kilde-spillemyndigheden-afgoerelser",
+      "beskrivelse": "Spillemyndigheden offentliggør bødevedtagelser, domme og hvidvaskafgørelser.",
+      "belaeg": [
+        {
+          "url": "https://www.spillemyndigheden.dk/afgoerelser-og-domme",
+          "citat": "Spillemyndigheden offentliggør bødevedtagelser, fældende domme og delvis fældende domme for overtrædelse af spillelovgivningen."
+        }
+      ]
+    },
+    {
+      "from": "kilde-juridisk-vejledning",
+      "type": "henviser_til",
+      "to": "lov-skatteforvaltningsloven",
+      "beskrivelse": "Vejledningen citerer skatteforvaltningsloven som 'seneste bekendtgjorte' LBK 1228/2025 (afsnit A.A om processuelle regler og klage).",
+      "belaeg": [
+        {
+          "url": "https://tax.dk/jv/aa/A_A_3_1.htm",
+          "citat": "jf. seneste bekendtgjorte skatteforvaltningslov (LBK nr. 1228 af 13/10/2025)"
+        }
+      ]
+    },
+    {
+      "from": "kilde-skm-databasen",
+      "type": "henviser_til",
+      "to": "kilde-juridisk-vejledning",
+      "beskrivelse": "Afgørelser offentliggjort efter vejledningens ajourføringsdato linkes fra Den juridiske vejledning.",
+      "belaeg": [
+        {
+          "url": "https://info.skat.dk/data.aspx?oid=80436",
+          "citat": "Afgørelser, domme, styresignaler, kendelser, SKM-meddelelser mv., der offentliggøres efter ajourføringsdatoen den 1. juli 2026, og som har betydning for told- og skatteforvaltningen, vil løbende blive offentliggjort på skat.dk."
+        }
+      ]
+    }
+  ],
+  "huller": [
+    {
+      "emne": "Adgangsform, nummersystem og genbrugsvilkår for Afgørelsesdatabasen",
+      "type": "uklart",
+      "beskrivelse": "afgoerelsesdatabasen.dk er en JavaScript-app uden læsbar tekst; om den har API, bulk-download eller egne vilkår, og hvordan afgørelser nummereres, er ikke afklaret. Landsskatterettens retningsgivende afgørelser findes også som SKM...LSR.",
+      "noder": [
+        "kilde-afgoerelsesdatabasen"
+      ],
+      "kilder": [
+        "https://afgoerelsesdatabasen.dk/",
+        "https://skatteankestyrelsen.dk/footer-sider/afgoerelser"
+      ]
+    },
+    {
+      "emne": "Vilkår for genbrug af Den juridiske vejledning og SKM-databasen",
+      "type": "ikke-fundet",
+      "beskrivelse": "Hverken info.skat.dk-siderne eller Skatteforvaltningens øvrige sider angiver licens eller genbrugsvilkår (offentlig forvaltning; ophavsretslovens § 9 gælder kun forskrifter, ikke vejledninger). Maskinel høst er ikke udtrykkeligt tilladt eller forbudt.",
+      "noder": [
+        "kilde-juridisk-vejledning",
+        "kilde-skm-databasen"
+      ],
+      "kilder": [
+        "https://info.skat.dk/data.aspx?oid=124",
+        "https://info.skat.dk/data.aspx?oid=16010"
+      ]
+    },
+    {
+      "emne": "Ankenævnsafgørelser uden SKM-nummer",
+      "type": "ikke-fundet",
+      "beskrivelse": "Skatteankenævns-, vurderingsankenævns- og motorankenævnsafgørelser offentliggøres kun udvalgt; en samlet søgbar kilde er ikke fundet.",
+      "noder": [
+        "naevn-skatteankenaevn",
+        "naevn-vurderingsankenaevn",
+        "naevn-motorankenaevn"
+      ],
+      "kilder": [
+        "https://skatteankestyrelsen.dk/footer-sider/afgoerelser"
+      ]
+    },
+    {
+      "emne": "Skatterådets forretningsorden: brødtekst og hjemmelsbestemmelse",
+      "type": "uklart",
+      "beskrivelse": "XML for BEK 1035/2005 på Retsinformation indeholder kun metadata; hjemmelen er udledt af skatteforvaltningslovens § 4, stk. 4.",
+      "noder": [
+        "bek-skatteraadet-forretningsorden"
+      ],
+      "kilder": [
+        "https://www.retsinformation.dk/eli/lta/2005/1035"
+      ]
+    },
+    {
+      "emne": "Klageveje for inddrivelse (Gældsstyrelsen) og told (Toldstyrelsen)",
+      "type": "ikke-fundet",
+      "beskrivelse": "Klage- og tilsynsveje efter lov om inddrivelse af gæld til det offentlige og toldloven er ikke gennemgået; kun hovedreglen i skatteforvaltningsloven § 35 b, stk. 2 (Landsskatteretten) er belagt.",
+      "noder": [
+        "sty-gaeldsstyrelsen",
+        "sty-toldstyrelsen"
+      ],
+      "kilder": []
+    },
+    {
+      "emne": "Spillemyndighedens selvstændige vejledning om spil og eget lovsamlings-site",
+      "type": "ikke-fundet",
+      "beskrivelse": "Den juridiske vejledning nævner en selvstændig vejledning om spil fra Spillemyndigheden; den præcise adresse og versionsordning er ikke verificeret.",
+      "noder": [
+        "sty-spillemyndigheden"
+      ],
+      "kilder": [
+        "https://www.spillemyndigheden.dk/"
+      ]
+    },
+    {
+      "emne": "It-tilsynets egen hjemmeside og tilsynsudtalelser",
+      "type": "ikke-fundet",
+      "beskrivelse": "Ingen officiel adresse for It-tilsynets årsredegørelser og udtalelser fundet.",
+      "noder": [
+        "tilsyn-it-tilsynet"
+      ],
+      "kilder": []
+    }
+  ],
+  "noter": "Til orkestratoren: (1) Ministeriet hedder nu Skatte- og Vækstministeriet (svmn.dk; tidligere Skatteministeriet; ministerens CV-side: Jakob Engel-Schmidt siden 3/6/2026). Ministeriets side lister ti styrelser inkl. Finanstilsynet, og Den juridiske vejledning (oid=80433) bekræfter, at Finanstilsynet og Finansiel Stabilitet er flyttet hertil - tjek at registryets noder for Finanstilsynet/Finansiel Stabilitet har min-skat-og-vaekst (ikke oprettet her, uden for området). (2) Retsinformation-metadata på BEK 804/2018, 1121/2011 m.fl. viser stadig 'Skatteministeriet' som udstedende ressort på de gamle dokumenter. (3) Skatteforvaltningen er en juridisk myndighed (BEK 804/2018) - klagekanterne peger derfor på sty-skatteforvaltningen; kanterne fra vurderingsankenævn/motorankenævn til sty-vurderingsstyrelsen/sty-motorstyrelsen er en fagligt begrundet præcisering, ikke lovtekst. (4) Bindende virkning af Den juridiske vejledning er afklaret: oid=80437 siger 'er bindende for Skatteforvaltningens medarbejdere, medmindre vejledningens indhold klart ikke er i overensstemmelse med højere rangerende retskilder'; skatteankenævnene er ikke bundet. (5) Skatterådets forretningsorden BEK 1035/2005, Landsskatterettens BEK 2373/2021, skatteankenævn 1041/2022 (ændret 132/2026), vurderingsankenævn 2289/2021, motorankenævn 1043/2022: alle gældende (Status Valid på Retsinformation). Kredsinddelingsbekendtgørelse BEK 1042/2022 (ændret ved 133/2026) er ikke oprettet som node. (6) Udeladt: toldloven, skattekontrolloven, inddrivelsesloven, ejendomsvurderingsloven (ikke undersøgt for egne klageveje); Folketingets Ombudsmand er nævnt i skatteforvaltningslovens § 48, stk. 4 og Den juridiske vejledning A.A.1.10, men ikke koblet med kant. (7) tax.dk (Karnov) spejler Den juridiske vejledning inkl. arkiv pr. udgave (fx jv-2025-2); kun som sekundær kilde. (8) Brugte 5 WebSearch-kald; øvrige kilder læst direkte. [Orkestrator 2026-11-11: hullet 'Nyere lovbekendtgørelse af skatteforvaltningsloven og spilleloven' er fjernet. Retsinformations metadata viser Status Valid for både LBK nr. 1228 af 13/10/2025 og LBK nr. 1182 af 22/09/2025; slutdatoen i metadata er ikke en historisk-markering.]"
+}

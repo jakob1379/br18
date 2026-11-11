@@ -1,0 +1,507 @@
+[
+ {
+  "hvor": "sty-finanstilsynet.hjemmel",
+  "dom": "delvist",
+  "grund": "§ 344, § 345, § 345 stk. 12 nr. 4 og tilsynsparagraffer i andre love står ikke i citaterne."
+ },
+ {
+  "hvor": "sty-finanstilsynet.dokumenttyper",
+  "dom": "delvist",
+  "grund": "Typen afgørelse med 4-ugers klagefrist og § 354 a står ikke i citaterne."
+ },
+ {
+  "hvor": "sty-finanstilsynet.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "org-finansiel-stabilitet.hjemmel",
+  "dom": "delvist",
+  "grund": "§ 4, § 56 og § 1 står ikke i citaterne; indholdet bæres."
+ },
+ {
+  "hvor": "org-finansiel-stabilitet.dokumenttyper",
+  "dom": "delvist",
+  "grund": "Citatet nævner restruktureringslovens §§ 6 og 7, ikke § 11."
+ },
+ {
+  "hvor": "org-finansiel-stabilitet.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "raad-det-systemiske-risikoraad.hjemmel",
+  "dom": "delvist",
+  "grund": "Formandskab og § 343 s står ikke i citaterne; ministeren og 10 medlemmer bæres."
+ },
+ {
+  "hvor": "raad-det-systemiske-risikoraad.dokumenttyper",
+  "dom": "delvist",
+  "grund": "Citatet bærer henstilling og 3-måneders-reglen; observation, advarsel og vejledende status mangler."
+ },
+ {
+  "hvor": "raad-det-systemiske-risikoraad.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "org-danmarks-nationalbank.hjemmel",
+  "dom": "delvist",
+  "grund": "Høringspligt over for Finanstilsynet og § 343 s står ikke i citaterne; formandskab og sekretariat bæres."
+ },
+ {
+  "hvor": "org-danmarks-nationalbank.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "org-det-finansielle-ankenaevn.tidligere_navne[Pengeinstitutankenævnet, Realkreditankenævnet og Ankenævnet for Investeringsfonde (sammenlagt)]",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "org-det-finansielle-ankenaevn.hjemmel",
+  "dom": "delvist",
+  "grund": "Citatet dater godkendelse og vedtægter til 1. feb. 2025, ikke 18/9/2025."
+ },
+ {
+  "hvor": "org-det-finansielle-ankenaevn.dokumenttyper",
+  "dom": "delvist",
+  "grund": "IF-markering bæres; domstolsadgang og vejledende status står ikke i citaterne."
+ },
+ {
+  "hvor": "org-det-finansielle-ankenaevn.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "org-ankenaevnet-for-fondsmaeglerselskaber.hjemmel",
+  "dom": "delvist",
+  "grund": "Godkendelse og område bæres; samme sekretariat og hjemmeside står ikke i citatet."
+ },
+ {
+  "hvor": "org-ankenaevnet-for-fondsmaeglerselskaber.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-finanstilsynet-tilsynsreaktioner.hjemmel",
+  "dom": "delvist",
+  "grund": "Citatet viser FIL § 354 stk. 3, ikke § 354 a stk. 1; § 55 og § 345 stk. 12 mangler."
+ },
+ {
+  "hvor": "kilde-finanstilsynet-tilsynsreaktioner.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-finanstilsynet-tilsynsreaktioner.adgang",
+  "dom": "delvist",
+  "grund": "Filtrene bæres; JavaScript-påstanden og fraværet af API, RSS og bulk står ikke i citaterne."
+ },
+ {
+  "hvor": "kilde-finanstilsynet-tilsynsreaktioner.identifikatorer",
+  "dom": "baerer-ikke",
+  "grund": "Citatet handler om publiceringsform, ikke om identifikatorer."
+ },
+ {
+  "hvor": "kilde-finanstilsynet-tilsynsreaktioner.opdatering",
+  "dom": "delvist",
+  "grund": "Fem-års-reglen bæres; frekvensen 'løbende' og fjernede ældre redegørelser står ikke i citaterne."
+ },
+ {
+  "hvor": "kilde-finanstilsynet-lovsamling.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-finanstilsynet-lovsamling.adgang",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-finanstilsynet-lovsamling.identifikatorer",
+  "dom": "delvist",
+  "grund": "Områdeopdelingen og LBK-nummereringen står ikke i citatet, som kun handler om links."
+ },
+ {
+  "hvor": "kilde-dfa-afgoerelser.url",
+  "dom": "delvist",
+  "grund": "Citatet bekræfter fanke.dk via en PDF, ikke stien /soeg-i-afgoerelser/."
+ },
+ {
+  "hvor": "kilde-dfa-afgoerelser.adgang",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-dfa-afgoerelser.identifikatorer",
+  "dom": "delvist",
+  "grund": "SD-markering og sag 100/2005 bæres; IF- og OF-markering står ikke i citaterne."
+ },
+ {
+  "hvor": "kilde-dfa-afgoerelser.opdatering",
+  "dom": "delvist",
+  "grund": "Samlingen fra 2019 bæres; frekvensen 'løbende' står ikke i citatet."
+ },
+ {
+  "hvor": "lov-finansiel-virksomhed.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-finansiel-virksomhed.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-finansiel-virksomhed.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-kapitalmarkedsloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-kapitalmarkedsloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-kapitalmarkedsloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-hvidvaskloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-hvidvaskloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-hvidvaskloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-lov-om-betalinger.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-lov-om-betalinger.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-lov-om-betalinger.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-forsikringsvirksomhed.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-forsikringsvirksomhed.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-forsikringsvirksomhed.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-restrukturering-og-afvikling.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-restrukturering-og-afvikling.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-restrukturering-og-afvikling.identifikatorer",
+  "dom": "delvist",
+  "grund": "Dato 04/01/2019 står ikke i citat eller URL; citatet nævner lov nr. 333/2015."
+ },
+ {
+  "hvor": "lov-indskyder-og-investorgarantiordning.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-indskyder-og-investorgarantiordning.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-indskyder-og-investorgarantiordning.identifikatorer",
+  "dom": "delvist",
+  "grund": "Dato 09/01/2024 står ikke i citatet."
+ },
+ {
+  "hvor": "lov-forbrugerklageloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-forbrugerklageloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-forbrugerklageloven.identifikatorer",
+  "dom": "delvist",
+  "grund": "Dato 29/04/2015 står ikke i citat eller URL."
+ },
+ {
+  "hvor": "eu-reg-2013-575.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "eu-reg-2013-575.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "eu-reg-2013-575.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "eu-dir-2013-36.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "eu-dir-2013-36.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "eu-dir-2013-36.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "eu-dir-2009-138.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "eu-dir-2009-138.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "eu-dir-2009-138.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "eu-dir-2014-65.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "eu-dir-2014-65.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "eu-dir-2014-65.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "eu-dir-2015-849.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "eu-dir-2015-849.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "eu-dir-2015-849.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|sty-finanstilsynet",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|org-finansiel-stabilitet",
+  "dom": "delvist",
+  "grund": "Citatet viser ejerskab og koncern, ikke ressortansvar."
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|raad-det-systemiske-risikoraad",
+  "dom": "delvist",
+  "grund": "Rådet nævnes ikke i resolutionen; påstanden erkender selv, at placeringen er ubekræftet."
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|lov-finansiel-virksomhed",
+  "dom": "delvist",
+  "grund": "Dato 8/9/2026 står ikke i citatet; ressort udledes af ændringslovens udstedende ministerium."
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|lov-hvidvaskloven",
+  "dom": "delvist",
+  "grund": "Dato 8/9/2026 står ikke i citatet; ressort udledes af ændringslovens udstedende ministerium."
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|lov-lov-om-betalinger",
+  "dom": "delvist",
+  "grund": "Dato 8/9/2026 står ikke i citatet; ressort udledes af ændringslovens udstedende ministerium."
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|lov-kapitalmarkedsloven",
+  "dom": "delvist",
+  "grund": "Resolutionen dækker det finansielle område, ikke kapitalmarkedsloven specifikt."
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|lov-forsikringsvirksomhed",
+  "dom": "delvist",
+  "grund": "Resolutionen dækker det finansielle område, ikke forsikringsloven specifikt."
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|lov-restrukturering-og-afvikling",
+  "dom": "delvist",
+  "grund": "Resolutionen dækker institutionen FS, ikke restruktureringsloven."
+ },
+ {
+  "hvor": "kant min-skat-og-vaekst|ressortansvar|lov-indskyder-og-investorgarantiordning",
+  "dom": "delvist",
+  "grund": "Resolutionen dækker institutionen FS, ikke indskyderloven."
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-forbrugerklageloven",
+  "dom": "delvist",
+  "grund": "Citatet nævner hverken ministeriet eller påstanden om, at loven ikke er flyttet."
+ },
+ {
+  "hvor": "kant lov-finansiel-virksomhed|hjemmel_for|sty-finanstilsynet",
+  "dom": "delvist",
+  "grund": "§ 344 og § 345 står ikke i citatet; tilsynsopgaven bæres."
+ },
+ {
+  "hvor": "kant lov-finansiel-virksomhed|hjemmel_for|raad-det-systemiske-risikoraad",
+  "dom": "delvist",
+  "grund": "§ 343 s står ikke i citatet; oprettelsen af rådet bæres."
+ },
+ {
+  "hvor": "kant lov-hvidvaskloven|hjemmel_for|sty-finanstilsynet",
+  "dom": "delvist",
+  "grund": "§ 47 står ikke i citatet; tilsynsomfanget bæres."
+ },
+ {
+  "hvor": "kant lov-lov-om-betalinger|hjemmel_for|sty-finanstilsynet",
+  "dom": "delvist",
+  "grund": "§ 130 står ikke i citatet; tilsynet bæres."
+ },
+ {
+  "hvor": "kant lov-kapitalmarkedsloven|hjemmel_for|sty-finanstilsynet",
+  "dom": "delvist",
+  "grund": "§ 211 og § 232 står ikke i citatet; tilsynet bæres."
+ },
+ {
+  "hvor": "kant lov-forsikringsvirksomhed|hjemmel_for|sty-finanstilsynet",
+  "dom": "delvist",
+  "grund": "§ 259 og § 309 står ikke i citatet; tilsynet bæres."
+ },
+ {
+  "hvor": "kant lov-restrukturering-og-afvikling|hjemmel_for|org-finansiel-stabilitet",
+  "dom": "delvist",
+  "grund": "§ 4 står ikke i citatet; administrationen af Afviklingsformuen bæres."
+ },
+ {
+  "hvor": "kant lov-indskyder-og-investorgarantiordning|hjemmel_for|org-finansiel-stabilitet",
+  "dom": "delvist",
+  "grund": "§ 1 står ikke i citatet; indholdet bæres."
+ },
+ {
+  "hvor": "kant lov-forbrugerklageloven|hjemmel_for|org-det-finansielle-ankenaevn",
+  "dom": "delvist",
+  "grund": "Datoerne 18/9/2025 og 31/1/2028 samt § 6 står ikke i citatet; citatet nævner 1/2/2025."
+ },
+ {
+  "hvor": "kant lov-forbrugerklageloven|hjemmel_for|org-ankenaevnet-for-fondsmaeglerselskaber",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant naevn-erhvervsankenaevnet|klageinstans|sty-finanstilsynet",
+  "dom": "delvist",
+  "grund": "4-ugers-fristen bæres; §§ 372 stk. 1 og 4, 224 a, nævnsloven § 6 og domstolsreferencen står ikke i citaterne."
+ },
+ {
+  "hvor": "kant naevn-erhvervsankenaevnet|klageinstans|org-finansiel-stabilitet",
+  "dom": "delvist",
+  "grund": "4-ugers-fristen bæres; § 23 b og FIL § 372 stk. 4 står ikke i citatet."
+ },
+ {
+  "hvor": "kant sty-finanstilsynet|udsteder|kilde-finanstilsynet-tilsynsreaktioner",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant sty-finanstilsynet|udsteder|kilde-finanstilsynet-lovsamling",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant org-det-finansielle-ankenaevn|udsteder|kilde-dfa-afgoerelser",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant org-danmarks-nationalbank|udsteder|raad-det-systemiske-risikoraad",
+  "dom": "delvist",
+  "grund": "Sekretariatet bæres; formandskabet står ikke i citatet."
+ },
+ {
+  "hvor": "kant lov-finansiel-virksomhed|henviser_til|lov-restrukturering-og-afvikling",
+  "dom": "delvist",
+  "grund": "Citatet nævner Afviklingsformuen i FIL, ikke henvisningen til restruktureringsloven."
+ },
+ {
+  "hvor": "kant lov-finansiel-virksomhed|implementerer_EU|eu-reg-2013-575",
+  "dom": "delvist",
+  "grund": "Citatet viser tilsyn med CRR, ikke gennemførelse."
+ },
+ {
+  "hvor": "kant lov-finansiel-virksomhed|implementerer_EU|eu-dir-2013-36",
+  "dom": "delvist",
+  "grund": "Citatet nævner 'dele af' direktivet, men ikke at loven gennemfører det."
+ },
+ {
+  "hvor": "kant lov-forsikringsvirksomhed|implementerer_EU|eu-dir-2009-138",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-kapitalmarkedsloven|implementerer_EU|eu-dir-2014-65",
+  "dom": "delvist",
+  "grund": "Citatet nævner 'dele af' direktivet, men ikke at loven gennemfører det."
+ },
+ {
+  "hvor": "kant lov-hvidvaskloven|implementerer_EU|eu-dir-2015-849",
+  "dom": "baerer",
+  "grund": ""
+ }
+]

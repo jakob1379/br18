@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 45 · kanter: 55
+Noder: 46 · kanter: 56
 
 ```mermaid
 flowchart LR
@@ -27,6 +27,7 @@ flowchart LR
     region_alle["Regionerne (5 regionsråd)"]:::instans
     sty_social_og_boligstyrelsen["Social- og Boligstyrelsen"]:::instans
     org_udbetaling_danmark["Udbetaling Danmark"]:::instans
+    sty_udlaendingestyrelsen["Udlændingestyrelsen"]:::instans
     org_certificeringsorganer["Akkrediterede certificeringsorganer for brandrådgivere (og statikere)"]:::kilde
     org_almene_boligorganisationer["Almene boligorganisationer og afdelinger"]:::kilde
     kilde_ast_amkn["Ankestyrelsen – Arbejdsmiljøklagenævnets publikationer (ast.dk)"]:::kilde
@@ -100,6 +101,7 @@ flowchart LR
     sty_social_og_boligstyrelsen -.->|udsteder| vejl_br18_vejledninger
     sty_social_og_boligstyrelsen -->|udsteder| vejl_satsvejledning_leje_almen
     sty_social_og_boligstyrelsen -->|udsteder| vejl_tilsyn_almen_boligsektor
+    sty_ankestyrelsen -.->|klageinstans| sty_udlaendingestyrelsen
     bek_br18 -->|hjemmel_for| reg_byggesagsgebyr
     bek_byggevarer_cpr2011 -->|hjemmel_for| sty_erhvervsstyrelsen
     bek_byggevarer_cpr2024 -.->|hjemmel_for| sty_erhvervsstyrelsen

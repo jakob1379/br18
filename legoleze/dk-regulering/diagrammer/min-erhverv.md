@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 131 · kanter: 204
+Noder: 136 · kanter: 209
 
 ```mermaid
 flowchart LR
@@ -36,6 +36,8 @@ flowchart LR
     org_energinet["Energinet"]:::instans
     sty_energistyrelsen["Energistyrelsen"]:::instans
     sty_erhvervsstyrelsen["Erhvervsstyrelsen"]:::instans
+    org_finansiel_stabilitet["Finansiel Stabilitet"]:::instans
+    sty_finanstilsynet["Finanstilsynet"]:::instans
     tilsyn_forsyningstilsynet["Forsyningstilsynet"]:::instans
     kommune_alle["Kommunerne (98 kommunalbestyrelser)"]:::instans
     sty_konkurrence_og_forbrugerstyrelsen["Konkurrence- og Forbrugerstyrelsen"]:::instans
@@ -48,10 +50,12 @@ flowchart LR
     raad_el_og_gasteknisk_sikkerhed["Rådet for El- og Gasteknisk Sikkerhed"]:::instans
     sty_groen_arealomlaegning_og_vandmiljoe["Styrelsen for Grøn Arealomlægning og Vandmiljø (SGAV)"]:::instans
     tilsyn_vandsektortilsynet["Vandsektortilsynet"]:::instans
+    org_ankenaevnet_for_fondsmaeglerselskaber["Ankenævnet for Fondsmæglerselskaber"]:::kilde
     kilde_autorisationsregister["Autorisationsregister (el, VVS, kloak, gas, asbest)"]:::kilde
     kilde_bke_afgoerelser["Byggeklageenhedens afgørelser"]:::kilde
     std_ds_en_50110["DS/EN 50110 Drift af elektriske anlæg"]:::kilde
     std_ds_hd_60364["DS/HD 60364 Elektriske lavspændingsinstallationer"]:::kilde
+    org_det_finansielle_ankenaevn["Det finansielle ankenævn"]:::kilde
     kilde_ekn_afgoerelser["Energiklagenævnets afgørelser (ekn.naevneneshus.dk)"]:::kilde
     kilde_ean_afgoerelser["Erhvervsankenævnets kendelser (ean.naevneneshus.dk)"]:::kilde
     kilde_mfkn_afgoerelser["MFKN afgørelsesportal (mfkn.naevneneshus.dk)"]:::kilde
@@ -119,6 +123,7 @@ flowchart LR
     lov_klagenaevn_for_udbud_loven["Lov om Klagenævnet for Udbud (tidl. lov om håndhævelse af udbudsreglerne m.v.)"]:::retsakt
     lov_mfkn_loven["Lov om Miljø- og Fødevareklagenævnet"]:::retsakt
     lov_planklagenaevnsloven["Lov om Planklagenævnet"]:::retsakt
+    lov_forbrugerklageloven["Lov om alternativ tvistløsning i forbindelse med forbrugerklager (forbrugerklageloven)"]:::retsakt
     lov_undergrundsloven["Lov om anvendelse af Danmarks undergrund (undergrundsloven), LBK nr 1461 af 29/11/2023"]:::retsakt
     lov_autorisationsloven["Lov om autorisation af virksomheder på el-, vvs- og kloakinstallationsområdet (autorisationsloven)"]:::retsakt
     lov_elforsyningsloven["Lov om elforsyning (elforsyningsloven)"]:::retsakt
@@ -348,6 +353,11 @@ flowchart LR
     sty_sikkerhedsstyrelsen -->|udsteder| bek_maskinforordning_supplerende
     sty_sikkerhedsstyrelsen -->|udsteder| kilde_sik_dk
     lov_produktloven -->|hjemmel_for| bek_fyrvaerkeri_krav
+    min_erhverv -.->|ressortansvar| lov_forbrugerklageloven
+    lov_forbrugerklageloven -.->|hjemmel_for| org_det_finansielle_ankenaevn
+    lov_forbrugerklageloven -->|hjemmel_for| org_ankenaevnet_for_fondsmaeglerselskaber
+    naevn_erhvervsankenaevnet -.->|klageinstans| sty_finanstilsynet
+    naevn_erhvervsankenaevnet -.->|klageinstans| org_finansiel_stabilitet
     bek_risiko -->|implementerer_EU| eu_dir_2012_18
 ```
 

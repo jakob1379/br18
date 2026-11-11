@@ -1,0 +1,1078 @@
+{
+  "omraade": "udlaendinge",
+  "noder": [
+    {
+      "id": "sty-udlaendingestyrelsen",
+      "navn": "Udlændingestyrelsen",
+      "type": "styrelse",
+      "ministerium": "min-udlaendinge-og-integration",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Udlændingeloven: styrelsen er førsteinstans i sager om asyl, familiesammenføring, visum og permanent ophold; dens afgørelser kan som udgangspunkt påklages til Udlændingenævnet (§ 46 a, stk. 1), asylrelaterede afgørelser til Flygtningenævnet (§ 53 a), og afgørelser om udgifter til sundhedsmæssige ydelser og sociale indsatser til Ankestyrelsen (§ 46 a, stk. 4).",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/953",
+            "citat": "Udlændingestyrelsens, Hjemrejsestyrelsens og Styrelsen for International Rekruttering og Integrations afgørelser efter denne lov kan påklages til Udlændingenævnet"
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse",
+            "bindende": "bindende"
+          },
+          {
+            "type": "statistik og publikationer (Tal og fakta)",
+            "bindende": "vejledende"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://us.dk/",
+            "citat": "Se de seneste tal på udlændinge-området og alle udgaver af publikationen Tal og fakta"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://us.dk/",
+        "belaeg": [
+          {
+            "url": "https://us.dk/",
+            "citat": "Udlændingestyrelsen behandler sager om udlændinges ret til besøg og ophold i Danmark"
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Udlændingestyrelsens afgørelse af [dato]",
+        "Udlændingestyrelsens afgørelse om [afslag|afvisning]",
+        "udlændingelovens § 46 a",
+        "udlændingelovens § 53 a"
+      ],
+      "note": "Førsteinstans for asyl (§§ 7-8), familiesammenføring, visum og permanent ophold. Klagevej afhænger af sagstype: Flygtningenævnet (asylrelaterede, § 53 a), Udlændingenævnet (øvrige, § 46 a, stk. 1), Ankestyrelsen (udgifter til sundhedsydelser og sociale indsatser for asylansøgere, § 46 a, stk. 4); § 46 a, stk. 6 opregner afgørelser, der slet ikke kan påklages. Uddybende vejledning på nyidanmark.dk."
+    },
+    {
+      "id": "sty-siri",
+      "navn": "Styrelsen for International Rekruttering og Integration (SIRI)",
+      "type": "styrelse",
+      "ministerium": "min-udlaendinge-og-integration",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Udlændingeloven § 46 a, stk. 1 og 2: SIRI's afgørelser kan påklages til Udlændingenævnet, herunder SIRI's konstatering af, at en opholdsret efter § 6 er ophørt.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/953",
+            "citat": "Styrelsen for International Rekruttering og Integrations konstatering af, at en opholdsret efter § 6 er ophørt"
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse (opholds- og arbejdstilladelse, EU-opholdsdokument)",
+            "bindende": "bindende"
+          },
+          {
+            "type": "vejledning til kommuner om integrationsindsats",
+            "bindende": "vejledende"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://siri.dk/",
+            "citat": "Find lovgivning, vejledning og inspiration til implementering af reglerne om arbejdspligt i integrations- og beskæftigelsesindsatsen"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://siri.dk/",
+        "belaeg": [
+          {
+            "url": "https://siri.dk/",
+            "citat": "Styrelsen for International Rekruttering og Integration (SIRI)"
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "SIRI's afgørelse af [dato]",
+        "Styrelsen for International Rekruttering og Integrations afgørelse"
+      ],
+      "note": "Førsteinstans for opholds- og arbejdstilladelser (erhverv, studie) og EU-opholdsret; understøtter desuden kommunernes integrationsindsats. Klage til Udlændingenævnet inden 8 uger (§ 46 a, stk. 3). Ingen omdøbning eller fusion fundet i 2025-2026 på uim.dk, siri.dk eller nyidanmark.dk."
+    },
+    {
+      "id": "sty-hjemrejsestyrelsen",
+      "navn": "Hjemrejsestyrelsen",
+      "type": "styrelse",
+      "ministerium": "min-udlaendinge-og-integration",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Hjemrejseloven § 1, stk. 2: Hjemrejsestyrelsen kontrollerer udrejse; § 22, stk. 1: styrelsens afgørelser kan påklages til Udlændingenævnet (med undtagelser i stk. 3, 4, 7 og 8).",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1014",
+            "citat": "Hjemrejsestyrelsens afgørelser efter denne lov kan påklages til Udlændingenævnet"
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse (udsendelse, pligter, hjemrejsestøtte)",
+            "bindende": "bindende"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://hjemst.dk/",
+            "citat": "Du er pålagt pligter Du bor på et udrejse- eller opholdscenter og er blevet pålagt pligter"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://hjemst.dk/",
+        "belaeg": [
+          {
+            "url": "https://hjemst.dk/",
+            "citat": "Vi er en styrelse under Udlændinge- og Integrationsministeriet, der løfter samfundsvigtige opgaver på hjemrejseområdet"
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Hjemrejsestyrelsens afgørelse af [dato]",
+        "hjemrejselovens § 22"
+      ],
+      "note": "Udsendelse, udrejsekontrol, hjemrejsestøtte. Sekretariaterne for både Flygtningenævnet (siden 1. august 2020) og Udlændingenævnet er organisatorisk placeret i Hjemrejsestyrelsen, men nævnene er uafhængige af den. Folketingets Ombudsmand fører tilsyn med tvangsmæssig udsendelse (hjemrejselovens § 19). Tidligere navne og stiftelsesdato ikke belagt."
+    },
+    {
+      "id": "naevn-udlaendingenaevnet",
+      "navn": "Udlændingenævnet",
+      "type": "nævn",
+      "ministerium": "min-udlaendinge-og-integration",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Udlændingeloven § 52 a: nævnets sammensætning og uafhængighed; § 46 a: klageadgang; § 52 a, stk. 8: nævnets afgørelser kan ikke indbringes for anden administrativ myndighed (endelig administrativt, kan prøves ved domstolene).",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/953",
+            "citat": "Udlændingenævnets afgørelser kan ikke indbringes for anden administrativ myndighed"
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse i klagesag",
+            "bindende": "bindende"
+          },
+          {
+            "type": "praksisresumé",
+            "bindende": "vejledende"
+          },
+          {
+            "type": "årsberetning",
+            "bindende": "vejledende"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://udln.dk/da/aarsberetninger/",
+            "citat": "Udlændingenævnets årsberetning 2025. Udlændingenævnets årsberetning 2024."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://udln.dk/",
+        "belaeg": [
+          {
+            "url": "https://udln.dk/om_os/",
+            "citat": "Udlændingenævnet er et uafhængigt kollegialt domstolslignende forvaltningsorgan"
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Udlændingenævnets afgørelse af [dato]",
+        "Udlændingenævnets afgørelse af [dato], j.nr. [prefiks]/[år]/[nr]",
+        "udlændingelovens § 46 a"
+      ],
+      "note": "Klageinstans for Udlændingestyrelsen, SIRI, Hjemrejsestyrelsen, politiet (bl.a. afvisning ved grænsen) og færøsk myndighed (Útlendingastovan). Afgørelser endelige administrativt (§ 52 a, stk. 8); retsprøvelse efter Grundloven § 63 og i visse EU-sager § 52. Forretningsorden: BEK nr. 248 af 5/2/2026. Sekretariat i Hjemrejsestyrelsen."
+    },
+    {
+      "id": "naevn-flygtningenaevnet",
+      "navn": "Flygtningenævnet",
+      "type": "nævn",
+      "ministerium": "min-udlaendinge-og-integration",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Udlændingeloven § 53: nævnets sammensætning og uafhængighed; § 53 a: klager over Udlændingestyrelsens asylrelaterede afgørelser; § 56, stk. 8: nævnets afgørelser er endelige.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/953",
+            "citat": "Nævnets afgørelser er endelige. Stk. 9. Flygtningenævnet fastsætter selv sin forretningsorden"
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse i klagesag",
+            "bindende": "bindende"
+          },
+          {
+            "type": "praksisresumé",
+            "bindende": "vejledende"
+          },
+          {
+            "type": "baggrundsmateriale (landeoplysninger)",
+            "bindende": "vejledende"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://fln.dk/",
+            "citat": "Flygtningnævnet udarbejder løbende resumé af et repræsentativt udvalg af nævnets afgørelser med henblik på offentliggørelse"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://fln.dk/",
+        "belaeg": [
+          {
+            "url": "https://fln.dk/",
+            "citat": "Flygtningenævnet er et uafhængigt kollegialt domstolslignende forvaltningsorgan"
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Flygtningenævnets afgørelse af [dato]",
+        "Flygtningenævnets afgørelse af [dato], [Land]/[år]/[nr]/[initialer]",
+        "udlændingelovens § 53 a"
+      ],
+      "note": "Klageinstans for Udlændingestyrelsens asylrelaterede afgørelser (asyl, Dublin/AM-forordning, bortfald, rejsedokumenter, udsendelse efter §§ 32 b og 49 a). Visse sager anses automatisk for påklaget (§ 53 a, stk. 2). Afgørelser endelige (§ 56, stk. 8). Forretningsorden: BEK nr. 557 af 29/5/2017. Sekretariat siden 1. august 2020 i Hjemrejsestyrelsen."
+    },
+    {
+      "id": "lov-udlaendingeloven",
+      "navn": "Udlændingeloven",
+      "type": "lov",
+      "ministerium": "min-udlaendinge-og-integration",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/953",
+            "citat": "Herved bekendtgøres udlændingeloven, jf. lovbekendtgørelse nr. 1183 af 25. september 2025"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2026/953",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/953",
+            "citat": "Herved bekendtgøres udlændingeloven, jf. lovbekendtgørelse nr. 1183 af 25. september 2025"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2026/953",
+        "lovtidende": "LBK nr. 953 af 04/10/2026",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/953",
+            "citat": "Herved bekendtgøres udlændingeloven, jf. lovbekendtgørelse nr. 1183 af 25. september 2025"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lov-hjemrejseloven",
+      "navn": "Hjemrejseloven (lov om hjemrejse for udlændinge uden lovligt ophold)",
+      "type": "lov",
+      "ministerium": "min-udlaendinge-og-integration",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1014",
+            "citat": "Herved bekendtgøres lov om hjemrejse for udlændinge uden lovligt ophold, jf. lovbekendtgørelse nr. 1139 af 17. august 2023"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2024/1014",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1014",
+            "citat": "Herved bekendtgøres lov om hjemrejse for udlændinge uden lovligt ophold, jf. lovbekendtgørelse nr. 1139 af 17. august 2023"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2024/1014",
+        "lovtidende": "LBK nr. 1014 af 27/08/2024",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1014",
+            "citat": "Herved bekendtgøres lov om hjemrejse for udlændinge uden lovligt ophold, jf. lovbekendtgørelse nr. 1139 af 17. august 2023"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bek-forretningsorden-udlaendingenaevnet",
+      "navn": "Bekendtgørelse om forretningsorden for Udlændingenævnet",
+      "type": "bekendtgørelse",
+      "ministerium": "min-udlaendinge-og-integration",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Udlændingeloven § 52 a, stk. 10: Udlændingenævnet fastsætter selv sin forretningsorden.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/248",
+            "citat": "I medfør af § 52 a, stk. 10, i udlændingeloven, jf. lovbekendtgørelse nr. 1183 af 25. september 2025, fastsættes"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2026/248",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/248",
+            "citat": "Bekendtgørelse om forretningsorden for Udlændingenævnet"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2026/248",
+        "lovtidende": "BEK nr. 248 af 05/02/2026",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/248",
+            "citat": "Bekendtgørelse om forretningsorden for Udlændingenævnet"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bek-forretningsorden-flygtningenaevnet",
+      "navn": "Bekendtgørelse om forretningsorden for Flygtningenævnet",
+      "type": "bekendtgørelse",
+      "ministerium": "min-udlaendinge-og-integration",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Udlændingeloven § 56, stk. 9 (i dag stk. 9 i § 56): Flygtningenævnet fastsætter selv sin forretningsorden.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2017/557",
+            "citat": "I medfør af § 56, stk. 9, i udlændingeloven"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2017/557",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2017/557",
+            "citat": "Bekendtgørelse om forretningsorden for Flygtningenævnet"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2017/557",
+        "lovtidende": "BEK nr. 557 af 29/05/2017",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2017/557",
+            "citat": "Bekendtgørelse om forretningsorden for Flygtningenævnet"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kilde-udln-praksis",
+      "navn": "Udlændingenævnets praksis (udln.dk)",
+      "type": "praksissamling",
+      "ministerium": "min-udlaendinge-og-integration",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://udln.dk/da/prakis/",
+        "belaeg": [
+          {
+            "url": "https://udln.dk/da/prakis/",
+            "citat": "Administrativ udvisning og afvisning ved indrejse Administrativ udvisning og afvisning ved indrejse - Flere links Afvisning af indgivelse af ansøgning eller klage"
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML"
+        ],
+        "note": "Emnetræ (administrativ udvisning, bortfald, erhverv, familiesammenføring, studie, tidsubegrænset ophold, visum m.fl.) på udln.dk; ingen API fundet. Adressen indeholder stavefejlen 'prakis'. Ældre resuméer på www.udln.dk/da/Praksis/... giver nu 404.",
+        "belaeg": [
+          {
+            "url": "https://udln.dk/da/prakis/",
+            "citat": "Familiesammenføring Familiesammenføring - Flere links Forsørgelse, indkvartering og meldepligt Forvaltningsretlige emner"
+          }
+        ]
+      },
+      "opdatering": {
+        "frekvens": "løbende",
+        "versionshistorik": "ikke angivet på siden",
+        "belaeg": [
+          {
+            "url": "https://udln.dk/da/prakis/",
+            "citat": "Tidsubegrænset opholdstilladelse Tidsubegrænset opholdstilladelse - Flere links Visum Visum - Flere links"
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 4,
+        "besvaer": 2,
+        "begrundelse": "Eneste offentlige praksiskilde for Udlændingenævnet; indhold er dynamisk indlæst og nummersystemet i den nye udgave er ikke afklaret, så krawl kræver rendering."
+      }
+    },
+    {
+      "id": "kilde-udln-aarsberetninger",
+      "navn": "Udlændingenævnets årsberetninger",
+      "type": "dokumentkilde",
+      "ministerium": "min-udlaendinge-og-integration",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://udln.dk/da/aarsberetninger/",
+        "belaeg": [
+          {
+            "url": "https://udln.dk/da/aarsberetninger/",
+            "citat": "Udlændingenævnets årsberetning 2025. Udlændingenævnets årsberetning 2024."
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML",
+          "PDF"
+        ],
+        "note": "Listeside på udln.dk; hver beretning er en PDF (fx /media/kw0lninv/aarsberetning-2024.pdf).",
+        "belaeg": [
+          {
+            "url": "https://udln.dk/da/aarsberetninger/",
+            "citat": "Udlændingenævnets årsberetning 2013."
+          }
+        ]
+      },
+      "opdatering": {
+        "frekvens": "årlig",
+        "versionshistorik": "årsberetninger 2013-2025",
+        "belaeg": [
+          {
+            "url": "https://udln.dk/da/aarsberetninger/",
+            "citat": "Udlændingenævnets årsberetning 2013."
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 2,
+        "besvaer": 3,
+        "begrundelse": "Sekundært: statistik og beskrivelse af praksis, ikke selve afgørelser."
+      }
+    },
+    {
+      "id": "kilde-fln-praksis",
+      "navn": "Flygtningenævnets praksis (resuméer)",
+      "type": "praksissamling",
+      "ministerium": "min-udlaendinge-og-integration",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://fln.dk/praksis/",
+        "belaeg": [
+          {
+            "url": "https://fln.dk/praksis/",
+            "citat": "Praksis Praksis Søg i arkivet Søg Asylmotiv Alle"
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML"
+        ],
+        "note": "Søgeside med filtre (asylmotiv, sagsbehandling, sagstype, Dublin/AM-artikel, land, år/måned); resuméer som HTML, ingen API fundet.",
+        "belaeg": [
+          {
+            "url": "https://fln.dk/praksis/",
+            "citat": "Sagsbehandling Alle 40-sager Andre spørgsmål - U Beviskrav og bevisvurdering"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "andet": "Resuméer nummereres [Land]/[år]/[løbenr]/[sagsbehandlerinitialer], fx Syri/2026/39/anjv, Dub-Fran/2026/7/MSI; hver post har desuden en slug som irak20266.",
+        "belaeg": [
+          {
+            "url": "https://fln.dk/praksis/",
+            "citat": "Dub-Fran/2026/7/MSI syri202638 Publiceret 05.11.2026"
+          }
+        ]
+      },
+      "opdatering": {
+        "frekvens": "løbende (resuméer publiceres med dato, fx 05.11.2026)",
+        "versionshistorik": "arkiv med årsfilter",
+        "belaeg": [
+          {
+            "url": "https://fln.dk/praksis/",
+            "citat": "Syri/2026/39/anjv irak20266 Publiceret 05.11.2026 Irak (I) 2026 Oktober"
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 5,
+        "besvaer": 4,
+        "begrundelse": "Centralt praksismateriale for asyl; velstruktureret HTML med faste felter, men siden er meget tung (flere MB) og vilkår for genbrug er ikke angivet."
+      }
+    },
+    {
+      "id": "kilde-fln-baggrundsmateriale",
+      "navn": "Flygtningenævnets baggrundsmateriale",
+      "type": "dokumentkilde",
+      "ministerium": "min-udlaendinge-og-integration",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://fln.dk/baggrundsmateriale/",
+        "belaeg": [
+          {
+            "url": "https://fln.dk/baggrundsmateriale/",
+            "citat": "Flygtningenævnet har en omfattende samling af generelt baggrundsmateriale om dels forholdene i de lande, hvorfra Danmark modtager asylansøgere"
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML",
+          "PDF"
+        ],
+        "note": "Opdelt i land (gruppe I/II), Diverse emner og Generelt Dublin; dokumenter som download.",
+        "belaeg": [
+          {
+            "url": "https://fln.dk/baggrundsmateriale/",
+            "citat": "Landene er opdelt i gruppe I- og gruppe II-lande"
+          }
+        ]
+      },
+      "opdatering": {
+        "frekvens": "løbende for gruppe I-lande; kun ved sager for gruppe II-lande",
+        "versionshistorik": "ikke angivet",
+        "belaeg": [
+          {
+            "url": "https://fln.dk/baggrundsmateriale/",
+            "citat": "Opdatering af baggrundsmaterialet foretages løbende"
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 3,
+        "besvaer": 2,
+        "begrundelse": "Landeoplysninger er kilder til afgørelser, ikke retskilder; stort og blandet (tredjepartsdokumenter med egne rettigheder)."
+      }
+    },
+    {
+      "id": "kilde-nyidanmark",
+      "navn": "Nyidanmark.dk (Udlændingestyrelsen og SIRI)",
+      "type": "dokumentkilde",
+      "ministerium": "min-udlaendinge-og-integration",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://www.nyidanmark.dk/da",
+        "belaeg": [
+          {
+            "url": "https://www.nyidanmark.dk/da",
+            "citat": "Den officielle portal for udlændinge, der ønsker at besøge, bo eller arbejde i Danmark eller Grønland"
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML"
+        ],
+        "note": "Vejledning pr. ansøgningstype samt Lovstof-oversigt (/da/Lovstof) og Tal og statistik; ingen API fundet.",
+        "belaeg": [
+          {
+            "url": "https://www.nyidanmark.dk/da/Lovstof",
+            "citat": "På denne side finder du en oversigt over lovstof på udlændingeområdet"
+          }
+        ]
+      },
+      "opdatering": {
+        "frekvens": "løbende (nyheder dateret, seneste 03-11-2026)",
+        "versionshistorik": "ikke angivet",
+        "belaeg": [
+          {
+            "url": "https://www.nyidanmark.dk/da",
+            "citat": "03-11-2026 Den nationale sanktionsliste opdateret"
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 4,
+        "besvaer": 2,
+        "begrundelse": "Myndighedernes fælles vejledning med løbende ændringer; ingen versionshistorik, så svar kan blive forældede."
+      }
+    }
+  ],
+  "kanter": [
+    {
+      "from": "min-udlaendinge-og-integration",
+      "type": "ressortansvar",
+      "to": "sty-udlaendingestyrelsen",
+      "beskrivelse": "Styrelse under Udlændinge- og Integrationsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://uim.dk/",
+          "citat": "Udlændingestyrelsen Styrelsen behandler sager om asyl, familiesammenføring, besøgsvisum, permanent ophold mv."
+        }
+      ]
+    },
+    {
+      "from": "min-udlaendinge-og-integration",
+      "type": "ressortansvar",
+      "to": "sty-siri",
+      "beskrivelse": "Styrelse under Udlændinge- og Integrationsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://uim.dk/",
+          "citat": "SIRI behandler sager om opholds- og arbejdstilladelse til udlændinge og udsteder opholdsdokument til EU/EØS-borgere"
+        }
+      ]
+    },
+    {
+      "from": "min-udlaendinge-og-integration",
+      "type": "ressortansvar",
+      "to": "sty-hjemrejsestyrelsen",
+      "beskrivelse": "Styrelse under Udlændinge- og Integrationsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://hjemst.dk/",
+          "citat": "Vi er en styrelse under Udlændinge- og Integrationsministeriet, der løfter samfundsvigtige opgaver på hjemrejseområdet"
+        }
+      ]
+    },
+    {
+      "from": "min-udlaendinge-og-integration",
+      "type": "ressortansvar",
+      "to": "naevn-udlaendingenaevnet",
+      "beskrivelse": "Ministeriet stiller sekretariatsbetjening til rådighed; nævnet er selv uafhængigt (§ 52 a, stk. 1).",
+      "belaeg": [
+        {
+          "url": "https://udln.dk/om_os/udlaendingenaevnets_sekretariat/",
+          "citat": "Udlændinge- og Integrationsministeriet stiller sekretariatsbetjening til rådighed for Udlændingenævnet"
+        }
+      ]
+    },
+    {
+      "from": "min-udlaendinge-og-integration",
+      "type": "ressortansvar",
+      "to": "naevn-flygtningenaevnet",
+      "beskrivelse": "Ministeriet stiller sekretariatsbetjening til rådighed; nævnet er selv uafhængigt (§ 53, stk. 1).",
+      "belaeg": [
+        {
+          "url": "https://fln.dk/om_os/flygtningenaevnets_sekretariat/",
+          "citat": "Udlændinge- og Integrationsministeriet stiller sekretariatsbetjening til rådighed for Flygtningenævnet"
+        }
+      ]
+    },
+    {
+      "from": "min-udlaendinge-og-integration",
+      "type": "ressortansvar",
+      "to": "lov-udlaendingeloven",
+      "beskrivelse": "Udlændinge- og integrationsministeren har ressortansvaret for udlændingeloven.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/953",
+          "citat": "Udlændinge- og integrationsministeren kan fastsætte regler om krav til tolke, der anvendes af myndigheder på Udlændinge- og Integrationsministeriets område"
+        }
+      ]
+    },
+    {
+      "from": "min-udlaendinge-og-integration",
+      "type": "ressortansvar",
+      "to": "lov-hjemrejseloven",
+      "beskrivelse": "Udlændinge- og integrationsministeren har ressortansvaret for hjemrejseloven.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1014",
+          "citat": "Udlændinge- og integrationsministeren kan fastsætte nærmere regler om hjælp til hjemrejsen"
+        }
+      ]
+    },
+    {
+      "from": "min-udlaendinge-og-integration",
+      "type": "ressortansvar",
+      "to": "bek-forretningsorden-udlaendingenaevnet",
+      "beskrivelse": "Bekendtgørelse udstedt af ministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/248",
+          "citat": "Bekendtgørelse om forretningsorden for Udlændingenævnet"
+        }
+      ]
+    },
+    {
+      "from": "min-udlaendinge-og-integration",
+      "type": "ressortansvar",
+      "to": "bek-forretningsorden-flygtningenaevnet",
+      "beskrivelse": "Bekendtgørelse udstedt af ministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2017/557",
+          "citat": "Bekendtgørelse om forretningsorden for Flygtningenævnet"
+        }
+      ]
+    },
+    {
+      "from": "lov-udlaendingeloven",
+      "type": "hjemmel_for",
+      "to": "naevn-udlaendingenaevnet",
+      "beskrivelse": "§ 52 a opretter Udlændingenævnet og fastslår dets uafhængighed.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/953",
+          "citat": "Udlændingenævnet består af 1 formand og næstformænd (formandskabet) og andre medlemmer"
+        }
+      ]
+    },
+    {
+      "from": "lov-udlaendingeloven",
+      "type": "hjemmel_for",
+      "to": "naevn-flygtningenaevnet",
+      "beskrivelse": "§ 53 opretter Flygtningenævnet og fastslår dets uafhængighed.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/953",
+          "citat": "Flygtningenævnet består af en formand og næstformænd (formandskabet) og andre medlemmer"
+        }
+      ]
+    },
+    {
+      "from": "lov-udlaendingeloven",
+      "type": "hjemmel_for",
+      "to": "bek-forretningsorden-udlaendingenaevnet",
+      "beskrivelse": "§ 52 a, stk. 10 er hjemmel for forretningsordenen.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/248",
+          "citat": "I medfør af § 52 a, stk. 10, i udlændingeloven"
+        }
+      ]
+    },
+    {
+      "from": "lov-udlaendingeloven",
+      "type": "hjemmel_for",
+      "to": "bek-forretningsorden-flygtningenaevnet",
+      "beskrivelse": "§ 56, stk. 9 er hjemmel for forretningsordenen.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2017/557",
+          "citat": "I medfør af § 56, stk. 9, i udlændingeloven"
+        }
+      ]
+    },
+    {
+      "from": "bek-forretningsorden-udlaendingenaevnet",
+      "type": "hjemmel_for",
+      "to": "naevn-udlaendingenaevnet",
+      "beskrivelse": "Forretningsorden for nævnets sammensætning, organisation og sagsbehandling.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/248",
+          "citat": "Bekendtgørelse om forretningsorden for Udlændingenævnet I medfør af § 52 a, stk. 10"
+        }
+      ]
+    },
+    {
+      "from": "bek-forretningsorden-flygtningenaevnet",
+      "type": "hjemmel_for",
+      "to": "naevn-flygtningenaevnet",
+      "beskrivelse": "Forretningsorden for nævnets sammensætning, organisation og sagsbehandling.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2017/557",
+          "citat": "Bekendtgørelse om forretningsorden for Flygtningenævnet I medfør af § 56, stk. 9"
+        }
+      ]
+    },
+    {
+      "from": "lov-udlaendingeloven",
+      "type": "hjemmel_for",
+      "to": "sty-udlaendingestyrelsen",
+      "beskrivelse": "Loven tillægger Udlændingestyrelsen afgørelseskompetence og regulerer klage over dens afgørelser (§ 46 a, § 53 a).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/953",
+          "citat": "Udlændingestyrelsens, Hjemrejsestyrelsens og Styrelsen for International Rekruttering og Integrations afgørelser efter denne lov kan påklages til Udlændingenævnet"
+        }
+      ]
+    },
+    {
+      "from": "lov-udlaendingeloven",
+      "type": "hjemmel_for",
+      "to": "sty-siri",
+      "beskrivelse": "Loven tillægger SIRI afgørelseskompetence og regulerer klage over dens afgørelser (§ 46 a).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/953",
+          "citat": "Styrelsen for International Rekruttering og Integrations konstatering af, at en opholdsret efter § 6 er ophørt"
+        }
+      ]
+    },
+    {
+      "from": "lov-hjemrejseloven",
+      "type": "hjemmel_for",
+      "to": "sty-hjemrejsestyrelsen",
+      "beskrivelse": "§ 1, stk. 2 og § 22 giver Hjemrejsestyrelsen kontrol- og afgørelsesopgaver og regulerer klage.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1014",
+          "citat": "Hjemrejsestyrelsen foretager kontrol med, om en udlænding er udrejst"
+        }
+      ]
+    },
+    {
+      "from": "naevn-udlaendingenaevnet",
+      "type": "klageinstans",
+      "to": "sty-udlaendingestyrelsen",
+      "beskrivelse": "Udlændingeloven § 46 a, stk. 1: klage til Udlændingenævnet inden 8 uger (stk. 3); undtaget er asylrelaterede afgørelser, der går til Flygtningenævnet (§ 53 a), og afgørelser opregnet i stk. 6.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/953",
+          "citat": "Udlændingestyrelsens, Hjemrejsestyrelsens og Styrelsen for International Rekruttering og Integrations afgørelser efter denne lov kan påklages til Udlændingenævnet"
+        }
+      ]
+    },
+    {
+      "from": "naevn-udlaendingenaevnet",
+      "type": "klageinstans",
+      "to": "sty-siri",
+      "beskrivelse": "Udlændingeloven § 46 a, stk. 1 og 2: SIRI's afgørelser og konstatering af ophørt opholdsret kan påklages til Udlændingenævnet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/953",
+          "citat": "Styrelsen for International Rekruttering og Integrations konstatering af, at en opholdsret efter § 6 er ophørt"
+        }
+      ]
+    },
+    {
+      "from": "naevn-udlaendingenaevnet",
+      "type": "klageinstans",
+      "to": "sty-hjemrejsestyrelsen",
+      "beskrivelse": "Hjemrejseloven § 22, stk. 1 (og udlændingeloven § 46 a, stk. 1): klage inden 8 uger (stk. 2); afgørelser i stk. 3 kan ikke påklages, § 3 a-afgørelser om ikke-udsendelseshindret går til ministeren (stk. 7).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1014",
+          "citat": "Hjemrejsestyrelsens afgørelser efter denne lov kan påklages til Udlændingenævnet"
+        }
+      ]
+    },
+    {
+      "from": "naevn-flygtningenaevnet",
+      "type": "klageinstans",
+      "to": "sty-udlaendingestyrelsen",
+      "beskrivelse": "Udlændingeloven § 53 a, stk. 1: asylrelaterede afgørelser (Dublin/AM-forordning, afslag § 7/§ 8, bortfald, rejsedokumenter, udsendelse efter §§ 32 b og 49 a m.v.); nævnets afgørelser er endelige (§ 56, stk. 8).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/953",
+          "citat": "For Flygtningenævnet kan indbringes klager over afgørelser, som Udlændingestyrelsen har truffet om følgende spørgsmål"
+        }
+      ]
+    },
+    {
+      "from": "sty-ankestyrelsen",
+      "type": "klageinstans",
+      "to": "sty-udlaendingestyrelsen",
+      "beskrivelse": "Udlændingeloven § 46 a, stk. 4: Udlændingestyrelsens afgørelser om afholdelse af udgifter til sundhedsmæssige ydelser og sociale indsatser (§ 42 a) kan påklages til Ankestyrelsen.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/953",
+          "citat": "kan påklages til Ankestyrelsen. Kapitel 9 og 10 i lov om retssikkerhed og administration af det sociale område finder anvendelse på sådanne afgørelser"
+        }
+      ]
+    },
+    {
+      "from": "dom-byretterne",
+      "type": "klageinstans",
+      "to": "naevn-udlaendingenaevnet",
+      "beskrivelse": "Udlændingeloven § 52: i visse EU-/nordiske sager kan udlændingen inden 14 dage kræve endelige administrative afgørelser indbragt for retten (sagen indbringes af Udlændingestyrelsen). Øvrig retsprøvelse følger Grundloven § 63 og er ikke belagt her.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/953",
+          "citat": "Endelige administrative afgørelser efter § 46 kan inden 14 dage efter, at afgørelsen er meddelt udlændingen, af denne kræves indbragt til prøvelse for den ret, hvor udlændingen har bopæl"
+        }
+      ]
+    },
+    {
+      "from": "ombud-folketingets-ombudsmand",
+      "type": "tilsyn",
+      "to": "sty-hjemrejsestyrelsen",
+      "beskrivelse": "Hjemrejseloven § 19: Ombudsmanden fører tilsyn med tvangsmæssig udsendelse på grundlag af indberetninger fra Hjemrejsestyrelsen.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1014",
+          "citat": "Folketingets Ombudsmand fører tilsyn med tvangsmæssig udsendelse"
+        }
+      ]
+    },
+    {
+      "from": "naevn-udlaendingenaevnet",
+      "type": "udsteder",
+      "to": "kilde-udln-praksis",
+      "beskrivelse": "Nævnet udgiver resuméer af udvalgt praksis.",
+      "belaeg": [
+        {
+          "url": "https://udln.dk/da/prakis/",
+          "citat": "Administrativ udvisning og afvisning ved indrejse Administrativ udvisning og afvisning ved indrejse - Flere links"
+        }
+      ]
+    },
+    {
+      "from": "naevn-udlaendingenaevnet",
+      "type": "udsteder",
+      "to": "kilde-udln-aarsberetninger",
+      "beskrivelse": "Nævnet udgiver årsberetninger.",
+      "belaeg": [
+        {
+          "url": "https://udln.dk/da/aarsberetninger/",
+          "citat": "Udlændingenævnets årsberetning 2025. Udlændingenævnets årsberetning 2024."
+        }
+      ]
+    },
+    {
+      "from": "naevn-flygtningenaevnet",
+      "type": "udsteder",
+      "to": "kilde-fln-praksis",
+      "beskrivelse": "Nævnet udarbejder resuméer af et repræsentativt udvalg af afgørelser.",
+      "belaeg": [
+        {
+          "url": "https://fln.dk/",
+          "citat": "Flygtningnævnet udarbejder løbende resumé af et repræsentativt udvalg af nævnets afgørelser med henblik på offentliggørelse"
+        }
+      ]
+    },
+    {
+      "from": "naevn-flygtningenaevnet",
+      "type": "udsteder",
+      "to": "kilde-fln-baggrundsmateriale",
+      "beskrivelse": "Nævnet driver samlingen af baggrundsmateriale.",
+      "belaeg": [
+        {
+          "url": "https://fln.dk/baggrundsmateriale/",
+          "citat": "Flygtningenævnet har en omfattende samling af generelt baggrundsmateriale om dels forholdene i de lande, hvorfra Danmark modtager asylansøgere"
+        }
+      ]
+    },
+    {
+      "from": "sty-udlaendingestyrelsen",
+      "type": "udsteder",
+      "to": "kilde-nyidanmark",
+      "beskrivelse": "Udlændingestyrelsen og SIRI driver portalen i fællesskab.",
+      "belaeg": [
+        {
+          "url": "https://www.nyidanmark.dk/da/Om-nyidanmark",
+          "citat": "Nyidanmark.dk er Udlændingestyrelsens og Styrelsen for International Rekruttering og Integrations officielle internetportal om reglerne for indrejse og ophold i Danmark"
+        }
+      ]
+    },
+    {
+      "from": "sty-siri",
+      "type": "udsteder",
+      "to": "kilde-nyidanmark",
+      "beskrivelse": "Udlændingestyrelsen og SIRI driver portalen i fællesskab.",
+      "belaeg": [
+        {
+          "url": "https://www.nyidanmark.dk/da/Om-nyidanmark",
+          "citat": "Nyidanmark.dk er Udlændingestyrelsens og Styrelsen for International Rekruttering og Integrations officielle internetportal om reglerne for indrejse og ophold i Danmark"
+        }
+      ]
+    }
+  ],
+  "huller": [
+    {
+      "emne": "Retsprøvelse af nævnenes afgørelser",
+      "type": "uklart",
+      "beskrivelse": "Udlændingeloven angiver kun, at nævnenes afgørelser er endelige administrativt (§ 52 a, stk. 8; § 56, stk. 8) og regulerer særlig retsprøvelse i § 52 og kapitel 7 b-7 c. Almindelig domstolsprøvelse (Grundlovens § 63) er ikke belagt fra en kilde, jeg har åbnet.",
+      "noder": [
+        "naevn-udlaendingenaevnet",
+        "naevn-flygtningenaevnet"
+      ],
+      "kilder": [
+        "https://www.retsinformation.dk/eli/lta/2026/953"
+      ]
+    },
+    {
+      "emne": "Politiet og Rigspolitichefen i klagekæden",
+      "type": "andet",
+      "beskrivelse": "Politiets afgørelser kan påklages til Udlændingenævnet (udlændingeloven § 46 a, stk. 2, nr. 3; hjemrejseloven § 22, stk. 5), og politidirektørens afgørelser om frihedsberøvelse efter hjemrejselovens § 16 til Rigspolitichefen (§ 22, stk. 6). Registry'et har ingen politi-node, og jeg kunne ikke belægge politiets ministerium på politi.dk, så der er ingen node og ingen kanter for politiet.",
+      "noder": [
+        "naevn-udlaendingenaevnet"
+      ],
+      "kilder": [
+        "https://www.retsinformation.dk/eli/lta/2024/1014",
+        "https://www.retsinformation.dk/eli/lta/2026/953"
+      ]
+    },
+    {
+      "emne": "Praksis-nummersystem i Udlændingenævnets nye praksisarkiv",
+      "type": "uklart",
+      "beskrivelse": "Gamle resuméer havde journalnumre som FAM/2014/111 og ERH/2016/78 på www.udln.dk/da/Praksis/..., men disse adresser giver nu 404, og den nye /da/prakis/ viser kun emnetræet. Nummersystem og afgørelsesliste i den nye udgave er ikke fundet.",
+      "noder": [
+        "kilde-udln-praksis"
+      ],
+      "kilder": [
+        "https://udln.dk/da/prakis/"
+      ]
+    },
+    {
+      "emne": "Vilkår for genbrug af nævnenes praksis og baggrundsmateriale",
+      "type": "ikke-fundet",
+      "beskrivelse": "Ingen licens- eller genbrugsvilkår er fundet på udln.dk, fln.dk eller nyidanmark.dk.",
+      "noder": [
+        "kilde-udln-praksis",
+        "kilde-fln-praksis",
+        "kilde-fln-baggrundsmateriale",
+        "kilde-nyidanmark"
+      ],
+      "kilder": [
+        "https://fln.dk/praksis/"
+      ]
+    },
+    {
+      "emne": "Integrationsloven, repatrieringsloven og indfødsretsloven",
+      "type": "uklart",
+      "beskrivelse": "Ikke taget med som noder: kataloget (til 12/2/2026) har kun historiske lovbekendtgørelser af integrationsloven (seneste LBK 1146/2020), så den gældende udgave er ikke identificeret; jeg har ikke belagt, at de opretter instanser eller klagevej i kæden. Repatrieringsloven er gældende som LBK 1021/2024.",
+      "noder": [],
+      "kilder": [
+        "https://www.retsinformation.dk/eli/lta/2026/953"
+      ]
+    },
+    {
+      "emne": "Tidligere navne og stiftelsesdatoer for Udlændingestyrelsen, SIRI og Hjemrejsestyrelsen",
+      "type": "ikke-fundet",
+      "beskrivelse": "Ingen omdøbning, fusion eller flytning i 2025-2026 fundet på uim.dk eller styrelsernes sider. Ældre navne (fx Direktoratet for Udlændinge, Udlændingeservice) og perioder er ikke belagt fra en åbnet kilde og udeladt.",
+      "noder": [
+        "sty-udlaendingestyrelsen",
+        "sty-siri",
+        "sty-hjemrejsestyrelsen"
+      ],
+      "kilder": [
+        "https://uim.dk/"
+      ]
+    },
+    {
+      "emne": "Flygtningenævnets og Udlændingenævnets årsberetninger/publikationer",
+      "type": "uklart",
+      "beskrivelse": "fln.dk/publikationer/ er sidst opdateret 09-11-2007 efter eget udsagn; Flygtningenævnets årsberetninger er ikke fundet som selvstændig liste. Udlændingenævnets er dækket af kilde-udln-aarsberetninger.",
+      "noder": [
+        "naevn-flygtningenaevnet"
+      ],
+      "kilder": [
+        "https://fln.dk/publikationer/"
+      ]
+    }
+  ],
+  "noter": "Ministerium: Udlændinge- og Integrationsministeriet bekræftet på uim.dk (minister Morten Bødskov), ingen omdøbning. Rettelser i eksisterende noder: sty-ankestyrelsen har ministerium min-social i registry'et; udlændingelovens § 46 a, stk. 4 gør den til klageinstans for Udlændingestyrelsens udgifter til sundhedsydelser/sociale indsatser (kanten er tilføjet her). Gældende lovbekendtgørelse af udlændingeloven er LBK nr. 953 af 4/10/2026 (accession A20260095329); LBK 1183/2025 er markeret Historic på Retsinformation, så kataloget (til feb. 2026) og fln.dk/lovgivning (viser LBK 1009/2024 og BEK 412/2016) er forældede. Auditsporet 'begge nævn træffer endelige administrative afgørelser' er bekræftet: Udlændingenævnet § 52 a, stk. 8; Flygtningenævnet § 56, stk. 8. Auditsporet 'FLN forretningsorden BEK 557/2017' er bekræftet gældende; Udlændingenævnets er BEK 248/2026. Nævnenes sekretariater er organisatorisk i Hjemrejsestyrelsen (fln.dk: siden 1. august 2020). Nævnenes ministerium sat til UIM efter sekretariatsbetjeningen; nævnene er uafhængige. Ikke nået: Nationalt ID-center, Dansk Flygtningehjælp som rådgiver (§ 53 b), klagekæde på integrationsområdet. [Orkestrator 2026-11-11: kanten sty-hjemrejsestyrelsen|henviser_til|lov-udlaendingeloven er fjernet: henviser_til går fra dokument til dokument.]"
+}
