@@ -1,0 +1,517 @@
+[
+ {
+  "hvor": "sty-patent-og-varemaerkestyrelsen.hjemmel",
+  "dom": "delvist",
+  "grund": "Kernen bæres af §7 og §46; §§24, 34-35 og designloven fremgår ikke."
+ },
+ {
+  "hvor": "sty-patent-og-varemaerkestyrelsen.dokumenttyper",
+  "dom": "delvist",
+  "grund": "Registrering nævnes; bindende afgørelser, afslag og påklagelighed fremgår ikke."
+ },
+ {
+  "hvor": "sty-patent-og-varemaerkestyrelsen.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "naevn-ankenaevnet-patenter-varemaerker.tidligere_navne[Patentankenævnet]",
+  "dom": "delvist",
+  "grund": "Begge navne står i parentes; at Patentankenævnet er et tidligere navn fremgår ikke."
+ },
+ {
+  "hvor": "naevn-ankenaevnet-patenter-varemaerker.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "naevn-ankenaevnet-patenter-varemaerker.dokumenttyper",
+  "dom": "delvist",
+  "grund": "Kendelse fremgår; bindende og domstolsprøvelse fremgår ikke af belægget."
+ },
+ {
+  "hvor": "naevn-ankenaevnet-patenter-varemaerker.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "naevn-revisornaevnet.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "naevn-revisornaevnet.dokumenttyper",
+  "dom": "delvist",
+  "grund": "Kendelser nævnes; sanktionstyper, bindende og domstolsfristen fremgår ikke."
+ },
+ {
+  "hvor": "naevn-revisornaevnet.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "naevn-disciplinaernaevnet-ejendomsmaeglere.hjemmel",
+  "dom": "delvist",
+  "grund": "§52 bærer kernen; §51 fremgår ikke af belægget."
+ },
+ {
+  "hvor": "naevn-disciplinaernaevnet-ejendomsmaeglere.dokumenttyper",
+  "dom": "delvist",
+  "grund": "Offentliggørelse bæres; sanktionstyper, beløb og §64 fremgår ikke."
+ },
+ {
+  "hvor": "naevn-disciplinaernaevnet-ejendomsmaeglere.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "naevn-bygningssagkyndige.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "naevn-bygningssagkyndige.dokumenttyper",
+  "dom": "delvist",
+  "grund": "Sanktionstyper og beløb bæres af §2; noten om domstolsprøvelse fremgår ikke."
+ },
+ {
+  "hvor": "naevn-bygningssagkyndige.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "org-godkendte-revisorer.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-patentloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-patentloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-patentloven.identifikatorer",
+  "dom": "delvist",
+  "grund": "ELI-nummer ses i URL; Lovtidende-nummer og dato fremgår ikke."
+ },
+ {
+  "hvor": "lov-varemaerkeloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-varemaerkeloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-varemaerkeloven.identifikatorer",
+  "dom": "delvist",
+  "grund": "ELI-nummer ses i URL; Lovtidende-nummer og dato fremgår ikke."
+ },
+ {
+  "hvor": "lov-designloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-designloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-designloven.identifikatorer",
+  "dom": "delvist",
+  "grund": "ELI-nummer ses i URL; Lovtidende-nummer og dato fremgår ikke."
+ },
+ {
+  "hvor": "lov-revisorloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-revisorloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-revisorloven.identifikatorer",
+  "dom": "delvist",
+  "grund": "ELI-nummer ses i URL; Lovtidende-nummer og dato fremgår ikke."
+ },
+ {
+  "hvor": "lov-ejendomsformidling.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-ejendomsformidling.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-ejendomsformidling.identifikatorer",
+  "dom": "delvist",
+  "grund": "ELI-nummer ses i URL; Lovtidende-nummer og dato fremgår ikke."
+ },
+ {
+  "hvor": "lov-selskabsloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-selskabsloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-selskabsloven.identifikatorer",
+  "dom": "delvist",
+  "grund": "ELI-nummer ses i URL; Lovtidende-nummer og dato fremgår ikke."
+ },
+ {
+  "hvor": "lov-aarsregnskabsloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-aarsregnskabsloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-aarsregnskabsloven.identifikatorer",
+  "dom": "delvist",
+  "grund": "ELI-nummer ses i URL; Lovtidende-nummer og dato fremgår ikke."
+ },
+ {
+  "hvor": "lov-beskikkede-bygningssagkyndige.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-beskikkede-bygningssagkyndige.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-beskikkede-bygningssagkyndige.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-ankenaevnet-patenter-varemaerker.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-ankenaevnet-patenter-varemaerker.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-ankenaevnet-patenter-varemaerker.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-revisornaevnet.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-revisornaevnet.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-revisornaevnet.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-disciplinaernaevnet-ejendomsmaeglere.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-disciplinaernaevnet-ejendomsmaeglere.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-disciplinaernaevnet-ejendomsmaeglere.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-bygningssagkyndige-naevn.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-bygningssagkyndige-naevn.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-bygningssagkyndige-naevn.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-apv-afgoerelser.dokumenttyper",
+  "dom": "delvist",
+  "grund": "Dokumenttyperne ses; om kendelser og resuméer er bindende eller vejledende, fremgår ikke."
+ },
+ {
+  "hvor": "kilde-apv-afgoerelser.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-apv-afgoerelser.adgang",
+  "dom": "delvist",
+  "grund": "Portalen og PDF-kendelser ses; formater, JavaScript-søgning og fravær af API fremgår ikke."
+ },
+ {
+  "hvor": "kilde-apv-afgoerelser.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-rn-kendelser.dokumenttyper",
+  "dom": "delvist",
+  "grund": "Kendelser ses; bindende-status fremgår ikke af belægget."
+ },
+ {
+  "hvor": "kilde-rn-kendelser.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-rn-kendelser.adgang",
+  "dom": "delvist",
+  "grund": "Portalen ses; PDF/HTML-formater og anonymiserede kendelser fremgår ikke."
+ },
+ {
+  "hvor": "kilde-rn-kendelser.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-dnfe-kendelser.dokumenttyper",
+  "dom": "delvist",
+  "grund": "Kendelser nævnes; bindende-status fremgår ikke af belægget."
+ },
+ {
+  "hvor": "kilde-dnfe-kendelser.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-dnfe-kendelser.adgang",
+  "dom": "delvist",
+  "grund": "Portalen ses; PDF/HTML-formater og anonymisering fremgår ikke."
+ },
+ {
+  "hvor": "kilde-dnfe-kendelser.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|sty-patent-og-varemaerkestyrelsen",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|naevn-ankenaevnet-patenter-varemaerker",
+  "dom": "delvist",
+  "grund": "Lovteksten nævner erhvervsministeren; ressort i dag fremgår ikke."
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|naevn-revisornaevnet",
+  "dom": "delvist",
+  "grund": "Lovteksten viser Erhvervsstyrelsen; ressort til ministeriet fremgår ikke."
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|naevn-disciplinaernaevnet-ejendomsmaeglere",
+  "dom": "delvist",
+  "grund": "Erhvervsstyrelsens udpegning ses; ressort til ministeriet fremgår ikke."
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|naevn-bygningssagkyndige",
+  "dom": "delvist",
+  "grund": "Lovteksten nævner ministeren; ressort i dag fremgår ikke."
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-patentloven",
+  "dom": "delvist",
+  "grund": "Retsinformations ministeriefelt fremgår ikke af belægget."
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-varemaerkeloven",
+  "dom": "delvist",
+  "grund": "Retsinformations ministeriefelt fremgår ikke af belægget."
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-designloven",
+  "dom": "delvist",
+  "grund": "Retsinformations ministeriefelt fremgår ikke af belægget."
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-revisorloven",
+  "dom": "delvist",
+  "grund": "Retsinformations ministeriefelt fremgår ikke af belægget."
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-ejendomsformidling",
+  "dom": "delvist",
+  "grund": "Retsinformations ministeriefelt fremgår ikke af belægget."
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-selskabsloven",
+  "dom": "delvist",
+  "grund": "Retsinformations ministeriefelt fremgår ikke af belægget."
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-aarsregnskabsloven",
+  "dom": "delvist",
+  "grund": "Retsinformations ministeriefelt fremgår ikke af belægget."
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-beskikkede-bygningssagkyndige",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|bek-ankenaevnet-patenter-varemaerker",
+  "dom": "delvist",
+  "grund": "Retsinformations ministeriefelt fremgår ikke af belægget."
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|bek-revisornaevnet",
+  "dom": "delvist",
+  "grund": "Retsinformations ministeriefelt fremgår ikke af belægget."
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|bek-disciplinaernaevnet-ejendomsmaeglere",
+  "dom": "delvist",
+  "grund": "Retsinformations ministeriefelt fremgår ikke af belægget."
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|bek-bygningssagkyndige-naevn",
+  "dom": "delvist",
+  "grund": "Retsinformations ministeriefelt fremgår ikke af belægget."
+ },
+ {
+  "hvor": "kant lov-patentloven|hjemmel_for|sty-patent-og-varemaerkestyrelsen",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-patentloven|hjemmel_for|naevn-ankenaevnet-patenter-varemaerker",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-patentloven|hjemmel_for|bek-ankenaevnet-patenter-varemaerker",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-revisorloven|hjemmel_for|naevn-revisornaevnet",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-revisorloven|hjemmel_for|bek-revisornaevnet",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-revisorloven|hjemmel_for|sty-erhvervsstyrelsen",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-ejendomsformidling|hjemmel_for|naevn-disciplinaernaevnet-ejendomsmaeglere",
+  "dom": "delvist",
+  "grund": "§51 etablerer nævnet; §52, som påstanden nævner, fremgår ikke."
+ },
+ {
+  "hvor": "kant lov-ejendomsformidling|hjemmel_for|bek-disciplinaernaevnet-ejendomsmaeglere",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-beskikkede-bygningssagkyndige|hjemmel_for|naevn-bygningssagkyndige",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-beskikkede-bygningssagkyndige|hjemmel_for|bek-bygningssagkyndige-naevn",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant naevn-ankenaevnet-patenter-varemaerker|klageinstans|sty-patent-og-varemaerkestyrelsen",
+  "dom": "delvist",
+  "grund": "Klagefrist og §25 bæres; designlovens §35 fremgår ikke af belægget."
+ },
+ {
+  "hvor": "kant dom-domstolene|klageinstans|naevn-ankenaevnet-patenter-varemaerker",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant dom-domstolene|klageinstans|naevn-revisornaevnet",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant dom-domstolene|klageinstans|naevn-disciplinaernaevnet-ejendomsmaeglere",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant dom-domstolene|klageinstans|naevn-bygningssagkyndige",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant sty-erhvervsstyrelsen|tilsyn|org-godkendte-revisorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant sty-naevnenes-hus|udsteder|kilde-apv-afgoerelser",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant sty-naevnenes-hus|udsteder|kilde-rn-kendelser",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant sty-naevnenes-hus|udsteder|kilde-dnfe-kendelser",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant naevn-revisornaevnet|udsteder|kilde-rn-kendelser",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant naevn-disciplinaernaevnet-ejendomsmaeglere|udsteder|kilde-dnfe-kendelser",
+  "dom": "baerer",
+  "grund": ""
+ }
+]

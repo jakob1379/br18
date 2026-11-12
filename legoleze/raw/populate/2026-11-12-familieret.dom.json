@@ -1,0 +1,347 @@
+[
+ {
+  "hvor": "sty-familieretshuset.hjemmel",
+  "dom": "delvist",
+  "grund": "Adoptionsbevilling og Ankestyrelsens kompetence er ikke belagt; de øvrige hjemmelsdele bærer."
+ },
+ {
+  "hvor": "sty-familieretshuset.dokumenttyper",
+  "dom": "delvist",
+  "grund": "Klagevejen bærer; bindende-status for afgørelser og registreringer er ikke belagt."
+ },
+ {
+  "hvor": "sty-familieretshuset.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "naevn-adoptionsnaevnet.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "naevn-adoptionsnaevnet.dokumenttyper",
+  "dom": "delvist",
+  "grund": "Belægget viser afgørelser i klagesager, men ikke at de er bindende."
+ },
+ {
+  "hvor": "lov-familieretshusloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-familieretshusloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-familieretshusloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-foraeldreansvarsloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-foraeldreansvarsloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-foraeldreansvarsloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-aegteskabsloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-aegteskabsloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-aegteskabsloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-boerneloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-boerneloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-boerneloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-adoptionsloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-adoptionsloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-adoptionsloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-boerns-forsoergelse.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-boerns-forsoergelse.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-boerns-forsoergelse.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-navneloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-navneloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-navneloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-vaergemaalsloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-vaergemaalsloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-vaergemaalsloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-bidragsopkraevningsloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-bidragsopkraevningsloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-bidragsopkraevningsloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-adoptionsnaevnet-forretningsorden.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-adoptionsnaevnet-forretningsorden.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-adoptionsnaevnet-forretningsorden.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-adoption.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-adoption.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-adoption.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-familieretshuset-lovsamling.dokumenttyper",
+  "dom": "delvist",
+  "grund": "Lovsamlingens indhold er belagt; bindende-status for indholdet er ikke belagt."
+ },
+ {
+  "hvor": "kilde-familieretshuset-lovsamling.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-familieretshuset-lovsamling.adgang",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|sty-familieretshuset",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|naevn-adoptionsnaevnet",
+  "dom": "delvist",
+  "grund": "Lovteksten nævner kun ministeren; den viser ikke, at nævnet hører under ministeriet i dag."
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|lov-familieretshusloven",
+  "dom": "delvist",
+  "grund": "Belægget er kun lovens titel; ministeriefeltet for loven vises ikke."
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|lov-foraeldreansvarsloven",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|lov-aegteskabsloven",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|lov-boerneloven",
+  "dom": "delvist",
+  "grund": "Belægget er kun lovens titel; ministeriefelt eller ressort vises ikke."
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|lov-adoptionsloven",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|lov-boerns-forsoergelse",
+  "dom": "delvist",
+  "grund": "Belægget er kun lovens titel; ministeriefelt eller ressort vises ikke."
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|lov-navneloven",
+  "dom": "delvist",
+  "grund": "Belægget er kun lovens titel; ministeriefelt eller ressort vises ikke."
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|lov-vaergemaalsloven",
+  "dom": "delvist",
+  "grund": "Belægget er kun lovens titel; ressort under justitsministeren vises ikke."
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|lov-bidragsopkraevningsloven",
+  "dom": "delvist",
+  "grund": "Belægget er kun lovens titel; ministeriefelt eller ressort vises ikke."
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|bek-adoptionsnaevnet-forretningsorden",
+  "dom": "delvist",
+  "grund": "Ministeriefeltet siger Social- og Boligministeriet, ikke at ressortet er Socialministeriet i dag."
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|bek-adoption",
+  "dom": "delvist",
+  "grund": "Ministeriefeltet siger Social- og Boligministeriet, ikke at ressortet er Socialministeriet i dag."
+ },
+ {
+  "hvor": "kant lov-familieretshusloven|hjemmel_for|sty-familieretshuset",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-vaergemaalsloven|hjemmel_for|sty-familieretshuset",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-adoptionsloven|hjemmel_for|naevn-adoptionsnaevnet",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-adoptionsloven|hjemmel_for|bek-adoptionsnaevnet-forretningsorden",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-adoptionsloven|hjemmel_for|bek-adoption",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-familieretshusloven|henviser_til|lov-foraeldreansvarsloven",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-familieretshusloven|henviser_til|lov-aegteskabsloven",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-familieretshusloven|henviser_til|lov-boerns-forsoergelse",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-familieretshusloven|henviser_til|lov-bidragsopkraevningsloven",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-familieretshusloven|henviser_til|lov-boerneloven",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-familieretshusloven|henviser_til|lov-navneloven",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant dom-byretterne|klageinstans|sty-familieretshuset",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant sty-civilstyrelsen|klageinstans|sty-familieretshuset",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant naevn-procesbevillingsnaevnet|klageinstans|dom-byretterne",
+  "dom": "baerer-ikke",
+  "grund": "Procesbevillingsnævnet giver kun tilladelse til anke; ankebehandlingen sker ved landsretten, ikke klageinstans."
+ },
+ {
+  "hvor": "kant sty-familieretshuset|udsteder|kilde-familieretshuset-lovsamling",
+  "dom": "baerer",
+  "grund": ""
+ }
+]

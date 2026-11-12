@@ -1,0 +1,1717 @@
+[
+ {
+  "hvor": "sty-patent-og-varemaerkestyrelsen.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/90",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/88",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-patent-og-varemaerkestyrelsen.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.dkpto.dk/om-os",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-patent-og-varemaerkestyrelsen.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.dkpto.dk/om-os",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-ankenaevnet-patenter-varemaerker.tidligere_navne[Patentankenævnet]",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/88",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-ankenaevnet-patenter-varemaerker.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/90",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-ankenaevnet-patenter-varemaerker.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://apv.naevneneshus.dk/media/documents/AN_2023_00025.pdf",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-ankenaevnet-patenter-varemaerker.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://naevneneshus.dk/start-din-klage/ankenaevnet-for-patenter-og-varemaerker/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-revisornaevnet.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/206",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-revisornaevnet.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1264",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-revisornaevnet.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://naevneneshus.dk/naevnsoversigt/revisornaevnet/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-disciplinaernaevnet-ejendomsmaeglere.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2021/510",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-disciplinaernaevnet-ejendomsmaeglere.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/1258",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-disciplinaernaevnet-ejendomsmaeglere.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://naevneneshus.dk/naevnsoversigt/disciplinaernaevnet-for-ejendomsmaeglere/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-bygningssagkyndige.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2011/20",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-bygningssagkyndige.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2011/20",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-bygningssagkyndige.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://naevneneshus.dk/naevnsoversigt/disciplinaer-og-klagenaevnet-for-beskikkede-bygningssagkyndige/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-godkendte-revisorer.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/206",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "lov-patentloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "206465",
+   "DocumentTitle": "Bekendtgørelse af patentloven",
+   "Year": "2019",
+   "DiesSigni": "2019-01-29",
+   "Status": "Valid",
+   "Number": "90",
+   "PopularTitle": "Patentloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-patentloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "206465",
+   "DocumentTitle": "Bekendtgørelse af patentloven",
+   "Year": "2019",
+   "DiesSigni": "2019-01-29",
+   "Status": "Valid",
+   "Number": "90",
+   "PopularTitle": "Patentloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-patentloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "206465",
+   "DocumentTitle": "Bekendtgørelse af patentloven",
+   "Year": "2019",
+   "DiesSigni": "2019-01-29",
+   "Status": "Valid",
+   "Number": "90",
+   "PopularTitle": "Patentloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-patentloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "206465",
+   "DocumentTitle": "Bekendtgørelse af patentloven",
+   "Year": "2019",
+   "DiesSigni": "2019-01-29",
+   "Status": "Valid",
+   "Number": "90",
+   "PopularTitle": "Patentloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2019/90",
+   "lovtidende": "LBK nr. 90 af 29/01/2019"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-varemaerkeloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "206405",
+   "DocumentTitle": "Bekendtgørelse af varemærkeloven",
+   "Year": "2019",
+   "DiesSigni": "2019-01-29",
+   "Status": "Valid",
+   "Number": "88",
+   "PopularTitle": "Varemærkeloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-varemaerkeloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "206405",
+   "DocumentTitle": "Bekendtgørelse af varemærkeloven",
+   "Year": "2019",
+   "DiesSigni": "2019-01-29",
+   "Status": "Valid",
+   "Number": "88",
+   "PopularTitle": "Varemærkeloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-varemaerkeloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "206405",
+   "DocumentTitle": "Bekendtgørelse af varemærkeloven",
+   "Year": "2019",
+   "DiesSigni": "2019-01-29",
+   "Status": "Valid",
+   "Number": "88",
+   "PopularTitle": "Varemærkeloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-varemaerkeloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "206405",
+   "DocumentTitle": "Bekendtgørelse af varemærkeloven",
+   "Year": "2019",
+   "DiesSigni": "2019-01-29",
+   "Status": "Valid",
+   "Number": "88",
+   "PopularTitle": "Varemærkeloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2019/88",
+   "lovtidende": "LBK nr. 88 af 29/01/2019"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-designloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "206407",
+   "DocumentTitle": "Bekendtgørelse af designloven",
+   "Year": "2019",
+   "DiesSigni": "2019-01-29",
+   "Status": "Valid",
+   "Number": "89",
+   "PopularTitle": "Designloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-designloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "206407",
+   "DocumentTitle": "Bekendtgørelse af designloven",
+   "Year": "2019",
+   "DiesSigni": "2019-01-29",
+   "Status": "Valid",
+   "Number": "89",
+   "PopularTitle": "Designloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-designloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "206407",
+   "DocumentTitle": "Bekendtgørelse af designloven",
+   "Year": "2019",
+   "DiesSigni": "2019-01-29",
+   "Status": "Valid",
+   "Number": "89",
+   "PopularTitle": "Designloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-designloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "206407",
+   "DocumentTitle": "Bekendtgørelse af designloven",
+   "Year": "2019",
+   "DiesSigni": "2019-01-29",
+   "Status": "Valid",
+   "Number": "89",
+   "PopularTitle": "Designloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2019/89",
+   "lovtidende": "LBK nr. 89 af 29/01/2019"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-revisorloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "248279",
+   "DocumentTitle": "Bekendtgørelse af lov om godkendte revisorer og revisionsvirksomheder (revisorloven)",
+   "Year": "2025",
+   "DiesSigni": "2025-02-20",
+   "Status": "Valid",
+   "Number": "206",
+   "PopularTitle": "Revisorloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-revisorloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "248279",
+   "DocumentTitle": "Bekendtgørelse af lov om godkendte revisorer og revisionsvirksomheder (revisorloven)",
+   "Year": "2025",
+   "DiesSigni": "2025-02-20",
+   "Status": "Valid",
+   "Number": "206",
+   "PopularTitle": "Revisorloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-revisorloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "248279",
+   "DocumentTitle": "Bekendtgørelse af lov om godkendte revisorer og revisionsvirksomheder (revisorloven)",
+   "Year": "2025",
+   "DiesSigni": "2025-02-20",
+   "Status": "Valid",
+   "Number": "206",
+   "PopularTitle": "Revisorloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-revisorloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "248279",
+   "DocumentTitle": "Bekendtgørelse af lov om godkendte revisorer og revisionsvirksomheder (revisorloven)",
+   "Year": "2025",
+   "DiesSigni": "2025-02-20",
+   "Status": "Valid",
+   "Number": "206",
+   "PopularTitle": "Revisorloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2025/206",
+   "lovtidende": "LBK nr. 206 af 20/02/2025"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-ejendomsformidling.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "221259",
+   "DocumentTitle": "Bekendtgørelse af lov om formidling af fast ejendom m.v.",
+   "Year": "2021",
+   "DiesSigni": "2021-02-24",
+   "Status": "Valid",
+   "Number": "510",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-ejendomsformidling.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "221259",
+   "DocumentTitle": "Bekendtgørelse af lov om formidling af fast ejendom m.v.",
+   "Year": "2021",
+   "DiesSigni": "2021-02-24",
+   "Status": "Valid",
+   "Number": "510",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-ejendomsformidling.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "221259",
+   "DocumentTitle": "Bekendtgørelse af lov om formidling af fast ejendom m.v.",
+   "Year": "2021",
+   "DiesSigni": "2021-02-24",
+   "Status": "Valid",
+   "Number": "510",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-ejendomsformidling.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "221259",
+   "DocumentTitle": "Bekendtgørelse af lov om formidling af fast ejendom m.v.",
+   "Year": "2021",
+   "DiesSigni": "2021-02-24",
+   "Status": "Valid",
+   "Number": "510",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2021/510",
+   "lovtidende": "LBK nr. 510 af 24/02/2021"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-selskabsloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "248916",
+   "DocumentTitle": "Bekendtgørelse af lov om aktie- og anpartsselskaber (selskabsloven)",
+   "Year": "2025",
+   "DiesSigni": "2025-03-20",
+   "Status": "Valid",
+   "Number": "331",
+   "PopularTitle": "Selskabsloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-selskabsloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "248916",
+   "DocumentTitle": "Bekendtgørelse af lov om aktie- og anpartsselskaber (selskabsloven)",
+   "Year": "2025",
+   "DiesSigni": "2025-03-20",
+   "Status": "Valid",
+   "Number": "331",
+   "PopularTitle": "Selskabsloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-selskabsloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "248916",
+   "DocumentTitle": "Bekendtgørelse af lov om aktie- og anpartsselskaber (selskabsloven)",
+   "Year": "2025",
+   "DiesSigni": "2025-03-20",
+   "Status": "Valid",
+   "Number": "331",
+   "PopularTitle": "Selskabsloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-selskabsloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "248916",
+   "DocumentTitle": "Bekendtgørelse af lov om aktie- og anpartsselskaber (selskabsloven)",
+   "Year": "2025",
+   "DiesSigni": "2025-03-20",
+   "Status": "Valid",
+   "Number": "331",
+   "PopularTitle": "Selskabsloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2025/331",
+   "lovtidende": "LBK nr. 331 af 20/03/2025"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-aarsregnskabsloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "255879",
+   "DocumentTitle": "Bekendtgørelse af årsregnskabsloven",
+   "Year": "2026",
+   "DiesSigni": "2026-03-23",
+   "Status": "Valid",
+   "Number": "402",
+   "PopularTitle": "Årsregnskabsloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-aarsregnskabsloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "255879",
+   "DocumentTitle": "Bekendtgørelse af årsregnskabsloven",
+   "Year": "2026",
+   "DiesSigni": "2026-03-23",
+   "Status": "Valid",
+   "Number": "402",
+   "PopularTitle": "Årsregnskabsloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-aarsregnskabsloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "255879",
+   "DocumentTitle": "Bekendtgørelse af årsregnskabsloven",
+   "Year": "2026",
+   "DiesSigni": "2026-03-23",
+   "Status": "Valid",
+   "Number": "402",
+   "PopularTitle": "Årsregnskabsloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-aarsregnskabsloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "255879",
+   "DocumentTitle": "Bekendtgørelse af årsregnskabsloven",
+   "Year": "2026",
+   "DiesSigni": "2026-03-23",
+   "Status": "Valid",
+   "Number": "402",
+   "PopularTitle": "Årsregnskabsloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2026/402",
+   "lovtidende": "LBK nr. 402 af 23/03/2026"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-beskikkede-bygningssagkyndige.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LOV H#LOKDOK01",
+   "UniqueDocumentId": "134700",
+   "DocumentTitle": "Lov om beskikkede bygningssagkyndige m.v.",
+   "Year": "2010",
+   "DiesSigni": "2010-12-21",
+   "Status": "Valid",
+   "Number": "1532",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-beskikkede-bygningssagkyndige.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LOV H#LOKDOK01",
+   "UniqueDocumentId": "134700",
+   "DocumentTitle": "Lov om beskikkede bygningssagkyndige m.v.",
+   "Year": "2010",
+   "DiesSigni": "2010-12-21",
+   "Status": "Valid",
+   "Number": "1532",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-beskikkede-bygningssagkyndige.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LOV H#LOKDOK01",
+   "UniqueDocumentId": "134700",
+   "DocumentTitle": "Lov om beskikkede bygningssagkyndige m.v.",
+   "Year": "2010",
+   "DiesSigni": "2010-12-21",
+   "Status": "Valid",
+   "Number": "1532",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-beskikkede-bygningssagkyndige.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LOV H#LOKDOK01",
+   "UniqueDocumentId": "134700",
+   "DocumentTitle": "Lov om beskikkede bygningssagkyndige m.v.",
+   "Year": "2010",
+   "DiesSigni": "2010-12-21",
+   "Status": "Valid",
+   "Number": "1532",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2010/1532",
+   "lovtidende": "LOV nr. 1532 af 21/12/2010"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-ankenaevnet-patenter-varemaerker.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2009/892",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-ankenaevnet-patenter-varemaerker.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "125551",
+   "DocumentTitle": "Bekendtgørelse om Ankenævnet for Patenter og Varemærker",
+   "Year": "2009",
+   "DiesSigni": "2009-09-21",
+   "Status": "Valid",
+   "Number": "892",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-ankenaevnet-patenter-varemaerker.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "125551",
+   "DocumentTitle": "Bekendtgørelse om Ankenævnet for Patenter og Varemærker",
+   "Year": "2009",
+   "DiesSigni": "2009-09-21",
+   "Status": "Valid",
+   "Number": "892",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-ankenaevnet-patenter-varemaerker.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "125551",
+   "DocumentTitle": "Bekendtgørelse om Ankenævnet for Patenter og Varemærker",
+   "Year": "2009",
+   "DiesSigni": "2009-09-21",
+   "Status": "Valid",
+   "Number": "892",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2009/892",
+   "lovtidende": "BEK nr. 892 af 21/09/2009"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-revisornaevnet.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1264",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-revisornaevnet.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "252080",
+   "DocumentTitle": "Bekendtgørelse om Revisornævnet",
+   "Year": "2025",
+   "DiesSigni": "2025-10-27",
+   "Status": "Valid",
+   "Number": "1264",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-revisornaevnet.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "252080",
+   "DocumentTitle": "Bekendtgørelse om Revisornævnet",
+   "Year": "2025",
+   "DiesSigni": "2025-10-27",
+   "Status": "Valid",
+   "Number": "1264",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-revisornaevnet.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "252080",
+   "DocumentTitle": "Bekendtgørelse om Revisornævnet",
+   "Year": "2025",
+   "DiesSigni": "2025-10-27",
+   "Status": "Valid",
+   "Number": "1264",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2025/1264",
+   "lovtidende": "BEK nr. 1264 af 27/10/2025"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-disciplinaernaevnet-ejendomsmaeglere.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/1258",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-disciplinaernaevnet-ejendomsmaeglere.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "166164",
+   "DocumentTitle": "Bekendtgørelse om Disciplinærnævnet for Ejendomsmæglere",
+   "Year": "2014",
+   "DiesSigni": "2014-11-27",
+   "Status": "Valid",
+   "Number": "1258",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-disciplinaernaevnet-ejendomsmaeglere.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "166164",
+   "DocumentTitle": "Bekendtgørelse om Disciplinærnævnet for Ejendomsmæglere",
+   "Year": "2014",
+   "DiesSigni": "2014-11-27",
+   "Status": "Valid",
+   "Number": "1258",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-disciplinaernaevnet-ejendomsmaeglere.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "166164",
+   "DocumentTitle": "Bekendtgørelse om Disciplinærnævnet for Ejendomsmæglere",
+   "Year": "2014",
+   "DiesSigni": "2014-11-27",
+   "Status": "Valid",
+   "Number": "1258",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2014/1258",
+   "lovtidende": "BEK nr. 1258 af 27/11/2014"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-bygningssagkyndige-naevn.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2011/20",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-bygningssagkyndige-naevn.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "135429",
+   "DocumentTitle": "Bekendtgørelse om disciplinær- og klagenævnet for beskikkede bygningssagkyndige",
+   "Year": "2011",
+   "DiesSigni": "2011-01-12",
+   "Status": "Valid",
+   "Number": "20",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-bygningssagkyndige-naevn.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "135429",
+   "DocumentTitle": "Bekendtgørelse om disciplinær- og klagenævnet for beskikkede bygningssagkyndige",
+   "Year": "2011",
+   "DiesSigni": "2011-01-12",
+   "Status": "Valid",
+   "Number": "20",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-bygningssagkyndige-naevn.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "135429",
+   "DocumentTitle": "Bekendtgørelse om disciplinær- og klagenævnet for beskikkede bygningssagkyndige",
+   "Year": "2011",
+   "DiesSigni": "2011-01-12",
+   "Status": "Valid",
+   "Number": "20",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2011/20",
+   "lovtidende": "BEK nr. 20 af 12/01/2011"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "kilde-apv-afgoerelser.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://apv.naevneneshus.dk/media/documents/AN_2023_00025.pdf",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://apv.naevneneshus.dk/media/attachments/SH-dom_af_29._august_2019.pdf",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-apv-afgoerelser.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://apv.naevneneshus.dk/media/documents/AN_2023_00025.pdf",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-apv-afgoerelser.adgang",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://naevneneshus.dk/start-din-klage/ankenaevnet-for-patenter-og-varemaerker/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-apv-afgoerelser.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://apv.naevneneshus.dk/media/documents/AN_2023_00025.pdf",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-rn-kendelser.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1264",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-rn-kendelser.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://rn.naevneneshus.dk/media/documents/017-2019_Endelig_kendelse_anonymiseret.pdf",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-rn-kendelser.adgang",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://naevneneshus.dk/afgoerelsesportaler/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-rn-kendelser.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://rn.naevneneshus.dk/media/documents/017-2019_Endelig_kendelse_anonymiseret.pdf",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-dnfe-kendelser.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/1258",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-dnfe-kendelser.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://dnfe.naevneneshus.dk/media/documents/Sag_489_-_Kendelse_af_13._december_2019_-_fuld_anonymiseret.pdf",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-dnfe-kendelser.adgang",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://naevneneshus.dk/afgoerelsesportaler/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-dnfe-kendelser.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://dnfe.naevneneshus.dk/media/documents/Sag_489_-_Kendelse_af_13._december_2019_-_fuld_anonymiseret.pdf",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|sty-patent-og-varemaerkestyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.dkpto.dk/om-os",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|naevn-ankenaevnet-patenter-varemaerker",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/90",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|naevn-revisornaevnet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/206",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|naevn-disciplinaernaevnet-ejendomsmaeglere",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2021/510",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|naevn-bygningssagkyndige",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2010/1532",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-patentloven",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/90",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-varemaerkeloven",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/88",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-designloven",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/89",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-revisorloven",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/206",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-ejendomsformidling",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2021/510",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-selskabsloven",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/331",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-aarsregnskabsloven",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/402",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-beskikkede-bygningssagkyndige",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2010/1532",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|bek-ankenaevnet-patenter-varemaerker",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2009/892",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|bek-revisornaevnet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1264",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|bek-disciplinaernaevnet-ejendomsmaeglere",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/1258",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|bek-bygningssagkyndige-naevn",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2011/20",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-patentloven|hjemmel_for|sty-patent-og-varemaerkestyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/90",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-patentloven|hjemmel_for|naevn-ankenaevnet-patenter-varemaerker",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/90",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-patentloven|hjemmel_for|bek-ankenaevnet-patenter-varemaerker",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2009/892",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-revisorloven|hjemmel_for|naevn-revisornaevnet",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/206",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-revisorloven|hjemmel_for|bek-revisornaevnet",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1264",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-revisorloven|hjemmel_for|sty-erhvervsstyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/206",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-ejendomsformidling|hjemmel_for|naevn-disciplinaernaevnet-ejendomsmaeglere",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2021/510",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-ejendomsformidling|hjemmel_for|bek-disciplinaernaevnet-ejendomsmaeglere",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/1258",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-beskikkede-bygningssagkyndige|hjemmel_for|naevn-bygningssagkyndige",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2010/1532",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-beskikkede-bygningssagkyndige|hjemmel_for|bek-bygningssagkyndige-naevn",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2011/20",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant naevn-ankenaevnet-patenter-varemaerker|klageinstans|sty-patent-og-varemaerkestyrelsen",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/90",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/90",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/88",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant dom-domstolene|klageinstans|naevn-ankenaevnet-patenter-varemaerker",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/90",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://apv.naevneneshus.dk/media/attachments/SH-dom_af_29._august_2019.pdf",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant dom-domstolene|klageinstans|naevn-revisornaevnet",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/206",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1264",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/206",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant dom-domstolene|klageinstans|naevn-disciplinaernaevnet-ejendomsmaeglere",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2021/510",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2021/510",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2021/510",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant dom-domstolene|klageinstans|naevn-bygningssagkyndige",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2011/20",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2011/20",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-erhvervsstyrelsen|tilsyn|org-godkendte-revisorer",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/206",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://erhvervsstyrelsen.dk/revisorer-og-revisionsvirksomheder",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-naevnenes-hus|udsteder|kilde-apv-afgoerelser",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://naevneneshus.dk/afgoerelsesportaler/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-naevnenes-hus|udsteder|kilde-rn-kendelser",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://naevneneshus.dk/afgoerelsesportaler/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-naevnenes-hus|udsteder|kilde-dnfe-kendelser",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://naevneneshus.dk/afgoerelsesportaler/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant naevn-revisornaevnet|udsteder|kilde-rn-kendelser",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1264",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant naevn-disciplinaernaevnet-ejendomsmaeglere|udsteder|kilde-dnfe-kendelser",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/1258",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ }
+]

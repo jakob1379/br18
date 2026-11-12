@@ -1,0 +1,1430 @@
+{
+  "omraade": "erhvervsret",
+  "noder": [
+    {
+      "id": "sty-patent-og-varemaerkestyrelsen",
+      "navn": "Patent- og Varemærkestyrelsen",
+      "type": "styrelse",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Patentlovens § 7, stk. 1: patentmyndigheden her i landet er Patent- og Varemærkestyrelsen. Styrelsen træffer afgørelser om patenter, varemærker og design; afgørelserne kan påklages til Ankenævnet for Patenter og Varemærker (patentlovens §§ 24-25, varemærkelovens § 46, designlovens §§ 34-35).",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/90",
+            "citat": "Patentmyndigheden her i landet er Patent- og Varemærkestyrelsen, der ledes af en direktør, og Ankenævnet for Patenter og Varemærker (Patentankenævnet)."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/88",
+            "citat": "Patent- og Varemærkestyrelsens afgørelser efter denne lov kan indbringes for Patentankenævnet (Ankenævnet for Patenter og Varemærker) senest 2 måneder efter, at afgørelsen er meddelt den pågældende."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse (patent, brugsmodel, varemærke, design: registrering, afslag, indsigelse)",
+            "bindende": "bindende",
+            "note": "kan påklages til Ankenævnet for Patenter og Varemærker"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.dkpto.dk/om-os",
+            "citat": "udstede patenter og registrere design, varemærker og brugsmodeller."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.dkpto.dk/",
+        "belaeg": [
+          {
+            "url": "https://www.dkpto.dk/om-os",
+            "citat": "Patent- og Varemærkestyrelsen er en del af Erhvervsministeriet."
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Patent- og Varemærkestyrelsens afgørelse af [dato]",
+        "VA ÅÅÅÅ NNNNN",
+        "PVS"
+      ],
+      "note": "Udsteder patenter og registrerer varemærker, design og brugsmodeller. Styrelsens bekendtgørelser og retningslinjer er ikke kortlagt (se huller). Bekendtgørelserne under patent-, varemærke- og designlovene findes på Retsinformation, fx BEK 1519/2025 og BEK 1578/2016 (kun henvist af Retsinformation, ikke læst)."
+    },
+    {
+      "id": "naevn-ankenaevnet-patenter-varemaerker",
+      "navn": "Ankenævnet for Patenter og Varemærker",
+      "type": "klagenævn",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "tidligere_navne": [
+        {
+          "navn": "Patentankenævnet",
+          "periode": "lovens kortnavn, anvendes stadig i patent-, varemærke- og designloven",
+          "belaeg": [
+            {
+              "url": "https://www.retsinformation.dk/eli/lta/2019/88",
+              "citat": "kan indbringes for Patentankenævnet (Ankenævnet for Patenter og Varemærker) senest 2 måneder efter"
+            }
+          ]
+        }
+      ],
+      "hjemmel": {
+        "tekst": "Patentlovens § 7, stk. 2: nedsættes af erhvervsministeren til behandling af klager over styrelsens afgørelser. Nærmere regler i BEK 892/2009 med hjemmel i patentlovens § 7, stk. 2 og 4.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/90",
+            "citat": "Ankenævnet for Patenter og Varemærker nedsættes af erhvervsministeren til behandling af klager over styrelsens afgørelser, jf. §§ 25 og 67, samt klager over afgørelser efter designloven, varemærkeloven m.v."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "kendelse",
+            "bindende": "bindende",
+            "note": "kan ikke indbringes for højere administrativ myndighed; kan prøves ved domstolene"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://apv.naevneneshus.dk/media/documents/AN_2023_00025.pdf",
+            "citat": "Denne afgørelse blev indbragt for Ankenævnet for Patenter og Varemærker, som stadfæstede styrelsens afgørelse."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://naevneneshus.dk/start-din-klage/ankenaevnet-for-patenter-og-varemaerker/",
+        "belaeg": [
+          {
+            "url": "https://naevneneshus.dk/start-din-klage/ankenaevnet-for-patenter-og-varemaerker/",
+            "citat": "Nævnet behandler klager over afgørelser truffet af Patent- og Varemærkestyrelsen."
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "AN ÅÅÅÅ NNNNN",
+        "Sag AN ÅÅÅÅ NNNNN",
+        "Ankenævnet for Patenter og Varemærkers kendelse af [dato]"
+      ],
+      "note": "Sekretariat i Nævnenes Hus (Viborg). Klagefrist 2 måneder fra underretning, gebyr skal betales inden samme frist; opsættende virkning i varemærke- og designsager. Retsvirkning: sag ved domstolene skal anlægges inden 2 måneder; Sø- og Handelsretten har behandlet sager mod nævnet (BS-1448/2016-SHR)."
+    },
+    {
+      "id": "naevn-revisornaevnet",
+      "navn": "Revisornævnet",
+      "type": "nævn",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Revisorlovens § 43, stk. 1: Erhvervsstyrelsen nedsætter et revisornævn. Nærmere regler i BEK 1264/2025 med hjemmel i revisorlovens § 47, stk. 1.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/206",
+            "citat": "Erhvervsstyrelsen nedsætter et revisornævn."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "kendelse (advarsel, bøde, frakendelse, forbud)",
+            "bindende": "bindende",
+            "note": "kan indbringes for domstolene inden 4 uger, revisorlovens § 52 b"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1264",
+            "citat": "Revisornævnets kendelser i klager, jf. § 1, stk. 1, offentliggøres i henhold til revisorlovens § 47 c og § 47 d."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://naevneneshus.dk/naevnsoversigt/revisornaevnet/",
+        "belaeg": [
+          {
+            "url": "https://naevneneshus.dk/naevnsoversigt/revisornaevnet/",
+            "citat": "Nævnet behandler klager over godkendte revisorer, der har afgivet erklæringer efter revisorlovens § 1, stk. 2 og 3"
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Revisornævnets kendelse af [dato]",
+        "sag nr. NNN/ÅÅÅÅ"
+      ],
+      "note": "Revisortilsynet (2004 til 16. juni 2016) var en uafhængig funktion nedsat af Erhvervsstyrelsen og er ikke et selvstændigt organ i dag. Erhvervsstyrelsen indbringer revisionsvirksomheder for nævnet efter § 43, stk. 5. Revisortilsynet ligger i dag i Erhvervsstyrelsen (revisorlovens § 32)."
+    },
+    {
+      "id": "naevn-disciplinaernaevnet-ejendomsmaeglere",
+      "navn": "Disciplinærnævnet for Ejendomsmæglere",
+      "type": "nævn",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Lov om formidling af fast ejendom m.v. § 51-52: nævnet behandler klager over godkendte ejendomsmæglere. Nærmere regler i BEK 1258/2014.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2021/510",
+            "citat": "Disciplinærnævnet behandler klager over, at en ejendomsmægler, som er godkendt i henhold til § 6, har tilsidesat de pligter, som følger af denne lov."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "kendelse (advarsel, bøde op til 300.000 kr., frakendelse 6 måneder til 5 år)",
+            "bindende": "bindende",
+            "note": "afgørelser om frakendelse kan forlanges indbragt for retten, § 64"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2014/1258",
+            "citat": "Disciplinærnævnet skal offentliggøre nævnets afgørelser. Offentliggørelsen sker i Retsinformationsdatabasen, på nævnets hjemmeside eller begge steder."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://naevneneshus.dk/naevnsoversigt/disciplinaernaevnet-for-ejendomsmaeglere/",
+        "belaeg": [
+          {
+            "url": "https://naevneneshus.dk/naevnsoversigt/disciplinaernaevnet-for-ejendomsmaeglere/",
+            "citat": "Disciplinærnævnet for Ejendomsmæglere behandler klager fra forbrugere over godkendte ejendomsmæglere."
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Disciplinærnævnet for Ejendomsmæglere, sag NNN",
+        "sag NNN – ÅÅ/NNNNN"
+      ],
+      "note": "Klagefrist (forældelse) 5 år. LBK 510/2021 er ikke ajourført med lov 733/2023 om skærpede sanktioner; sanktionsniveauet kan derfor være højere i dag."
+    },
+    {
+      "id": "naevn-bygningssagkyndige",
+      "navn": "Disciplinær- og klagenævnet for beskikkede bygningssagkyndige",
+      "type": "klagenævn",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "BEK 20/2011 § 1 med hjemmel i § 14 i lov om beskikkede bygningssagkyndige m.v.: nævnet behandler sager om pligtbrud og klager over tilstandsrapporter.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2011/20",
+            "citat": "Nævnet behandler sager om, hvorvidt en beskikket bygningssagkyndig har tilsidesat de pligter, der følger af lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom m.v., lov om beskikkede bygningssagkyndige m.v. eller regler fastsat i medfør heraf."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse (påtale, advarsel, bøde op til 100.000 kr., frakendelse)",
+            "bindende": "bindende",
+            "note": "kan ikke indbringes for anden administrativ myndighed; domstolsprøvelse"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2011/20",
+            "citat": "Nævnet kan tildele en beskikket bygningssagkyndig, der har tilsidesat de i § 1, stk. 1, nævnte pligter, en påtale eller en advarsel eller pålægge denne en bøde på maksimalt 100.000 kr."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://naevneneshus.dk/naevnsoversigt/disciplinaer-og-klagenaevnet-for-beskikkede-bygningssagkyndige/",
+        "belaeg": [
+          {
+            "url": "https://naevneneshus.dk/naevnsoversigt/disciplinaer-og-klagenaevnet-for-beskikkede-bygningssagkyndige/",
+            "citat": "behandler klager over tilstandsrapporter, der er udfærdiget under huseftersynsordningen"
+          }
+        ]
+      },
+      "note": "Retsinformation fører loven og bekendtgørelsen under Erhvervsministeriet. Lovens tekst nævner stadig Økonomi- og erhvervsministeren og Erhvervs- og Byggestyrelsen som sekretariat; Nævnenes Hus har portal for nævnet. Sikkerhedsstyrelsen er fra januar 2026 en del af Erhvervsstyrelsen."
+    },
+    {
+      "id": "org-godkendte-revisorer",
+      "navn": "Godkendte revisorer og revisionsvirksomheder",
+      "type": "privat-organisation",
+      "ministerium": "ingen",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Revisorlovens § 32: Erhvervsstyrelsen er ansvarlig for tilsynet med revisorer og revisionsvirksomheder.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/206",
+            "citat": "Erhvervsstyrelsen er ansvarlig for tilsynet med revisorer og revisionsvirksomheder."
+          }
+        ]
+      },
+      "note": "Tilsynsobjekt for Erhvervsstyrelsens tilsyn (kvalitetskontrol, undersøgelser). Ikke en myndighed."
+    },
+    {
+      "id": "lov-patentloven",
+      "navn": "Patentloven",
+      "type": "lov",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/90",
+            "citat": "Herved bekendtgøres patentloven, jf. lovbekendtgørelse nr. 221 af 26. februar 2017, med den ændring, der følger af § 3 i lov nr. 1533 af 18. december 2018"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2019/90",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/90",
+            "citat": "Herved bekendtgøres patentloven, jf. lovbekendtgørelse nr. 221 af 26. februar 2017, med den ændring, der følger af § 3 i lov nr. 1533 af 18. december 2018"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2019/90",
+        "lovtidende": "LBK nr. 90 af 29/01/2019",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/90",
+            "citat": "Herved bekendtgøres patentloven, jf. lovbekendtgørelse nr. 221 af 26. februar 2017, med den ændring, der følger af § 3 i lov nr. 1533 af 18. december 2018"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lov-varemaerkeloven",
+      "navn": "Varemærkeloven",
+      "type": "lov",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/88",
+            "citat": "Herved bekendtgøres varemærkeloven, jf. lovbekendtgørelse nr. 223 af 26. februar 2017, med de ændringer, der følger af § 4 i lov nr. 670 af 8. juni 2017"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2019/88",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/88",
+            "citat": "Herved bekendtgøres varemærkeloven, jf. lovbekendtgørelse nr. 223 af 26. februar 2017, med de ændringer, der følger af § 4 i lov nr. 670 af 8. juni 2017"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2019/88",
+        "lovtidende": "LBK nr. 88 af 29/01/2019",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/88",
+            "citat": "Herved bekendtgøres varemærkeloven, jf. lovbekendtgørelse nr. 223 af 26. februar 2017, med de ændringer, der følger af § 4 i lov nr. 670 af 8. juni 2017"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lov-designloven",
+      "navn": "Designloven",
+      "type": "lov",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/89",
+            "citat": "Herved bekendtgøres designloven, jf. lovbekendtgørelse nr. 219 af 26. februar 2017, med de ændringer, der følger af § 3 i lov nr. 670 af 8. juni 2017"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2019/89",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/89",
+            "citat": "Herved bekendtgøres designloven, jf. lovbekendtgørelse nr. 219 af 26. februar 2017, med de ændringer, der følger af § 3 i lov nr. 670 af 8. juni 2017"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2019/89",
+        "lovtidende": "LBK nr. 89 af 29/01/2019",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/89",
+            "citat": "Herved bekendtgøres designloven, jf. lovbekendtgørelse nr. 219 af 26. februar 2017, med de ændringer, der følger af § 3 i lov nr. 670 af 8. juni 2017"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lov-revisorloven",
+      "navn": "Lov om godkendte revisorer og revisionsvirksomheder (revisorloven)",
+      "type": "lov",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/206",
+            "citat": "Herved bekendtgøres lov om godkendte revisorer og revisionsvirksomheder (revisorloven), jf. lovbekendtgørelse nr. 1219 af 31. august 2022"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2025/206",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/206",
+            "citat": "Herved bekendtgøres lov om godkendte revisorer og revisionsvirksomheder (revisorloven), jf. lovbekendtgørelse nr. 1219 af 31. august 2022"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2025/206",
+        "lovtidende": "LBK nr. 206 af 20/02/2025",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/206",
+            "citat": "Herved bekendtgøres lov om godkendte revisorer og revisionsvirksomheder (revisorloven), jf. lovbekendtgørelse nr. 1219 af 31. august 2022"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lov-ejendomsformidling",
+      "navn": "Lov om formidling af fast ejendom m.v.",
+      "type": "lov",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2021/510",
+            "citat": "Herved bekendtgøres lov nr. 526 af 28. maj 2014 om formidling af fast ejendom m.v. med de ændringer, der følger af § 21 i lov nr. 1871 af 29. december 2015"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2021/510",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2021/510",
+            "citat": "Herved bekendtgøres lov nr. 526 af 28. maj 2014 om formidling af fast ejendom m.v. med de ændringer, der følger af § 21 i lov nr. 1871 af 29. december 2015"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2021/510",
+        "lovtidende": "LBK nr. 510 af 24/02/2021",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2021/510",
+            "citat": "Herved bekendtgøres lov nr. 526 af 28. maj 2014 om formidling af fast ejendom m.v. med de ændringer, der følger af § 21 i lov nr. 1871 af 29. december 2015"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lov-selskabsloven",
+      "navn": "Lov om aktie- og anpartsselskaber (selskabsloven)",
+      "type": "lov",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/331",
+            "citat": "Herved bekendtgøres lov om aktie- og anpartsselskaber (selskabsloven), jf. lovbekendtgørelse nr. 1168 af 1. september 2023"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2025/331",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/331",
+            "citat": "Herved bekendtgøres lov om aktie- og anpartsselskaber (selskabsloven), jf. lovbekendtgørelse nr. 1168 af 1. september 2023"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2025/331",
+        "lovtidende": "LBK nr. 331 af 20/03/2025",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/331",
+            "citat": "Herved bekendtgøres lov om aktie- og anpartsselskaber (selskabsloven), jf. lovbekendtgørelse nr. 1168 af 1. september 2023"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lov-aarsregnskabsloven",
+      "navn": "Årsregnskabsloven",
+      "type": "lov",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/402",
+            "citat": "Herved bekendtgøres årsregnskabsloven, jf. lovbekendtgørelse nr. 1057 af 23. september 2024"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2026/402",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/402",
+            "citat": "Herved bekendtgøres årsregnskabsloven, jf. lovbekendtgørelse nr. 1057 af 23. september 2024"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2026/402",
+        "lovtidende": "LBK nr. 402 af 23/03/2026",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/402",
+            "citat": "Herved bekendtgøres årsregnskabsloven, jf. lovbekendtgørelse nr. 1057 af 23. september 2024"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lov-beskikkede-bygningssagkyndige",
+      "navn": "Lov om beskikkede bygningssagkyndige m.v.",
+      "type": "lov",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2010/1532",
+            "citat": "Lov om beskikkede bygningssagkyndige m.v."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2010/1532",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2010/1532",
+            "citat": "Lov om beskikkede bygningssagkyndige m.v."
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2010/1532",
+        "lovtidende": "LOV nr. 1532 af 21/12/2010",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2010/1532",
+            "citat": "Lov om beskikkede bygningssagkyndige m.v."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bek-ankenaevnet-patenter-varemaerker",
+      "navn": "Bekendtgørelse om Ankenævnet for Patenter og Varemærker",
+      "type": "bekendtgørelse",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Patentlovens § 7, stk. 2 og 4",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2009/892",
+            "citat": "I medfør af patentlovens § 7, stk. 2 og 4, jf. lovbekendtgørelse nr. 91 af 28. januar 2009"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2009/892",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2009/892",
+            "citat": "Bekendtgørelse om Ankenævnet for Patenter og Varemærker"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2009/892",
+        "lovtidende": "BEK nr. 892 af 21/09/2009",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2009/892",
+            "citat": "Bekendtgørelse om Ankenævnet for Patenter og Varemærker"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bek-revisornaevnet",
+      "navn": "Bekendtgørelse om Revisornævnet",
+      "type": "bekendtgørelse",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Revisorlovens § 47, stk. 1",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1264",
+            "citat": "I medfør af § 47, stk. 1, i revisorloven, jf. lovbekendtgørelse nr. 206 af 20. februar 2025"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2025/1264",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1264",
+            "citat": "Bekendtgørelse om Revisornævnet"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2025/1264",
+        "lovtidende": "BEK nr. 1264 af 27/10/2025",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1264",
+            "citat": "Bekendtgørelse om Revisornævnet"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bek-disciplinaernaevnet-ejendomsmaeglere",
+      "navn": "Bekendtgørelse om Disciplinærnævnet for Ejendomsmæglere",
+      "type": "bekendtgørelse",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Lov om formidling af fast ejendom m.v. § 51, stk. 3 (lov nr. 526 af 28. maj 2014)",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2014/1258",
+            "citat": "I medfør af § 51, stk. 3, i lov nr. 526 af 28. maj 2014 om formidling af fast ejendom m.v. fastsættes"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2014/1258",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2014/1258",
+            "citat": "Bekendtgørelse om Disciplinærnævnet for Ejendomsmæglere"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2014/1258",
+        "lovtidende": "BEK nr. 1258 af 27/11/2014",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2014/1258",
+            "citat": "Bekendtgørelse om Disciplinærnævnet for Ejendomsmæglere"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bek-bygningssagkyndige-naevn",
+      "navn": "Bekendtgørelse om disciplinær- og klagenævnet for beskikkede bygningssagkyndige",
+      "type": "bekendtgørelse",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Lov om beskikkede bygningssagkyndige m.v. § 14",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2011/20",
+            "citat": "I medfør af § 14 i lov nr. 1532 af 21. december 2010 om beskikkede bygningssagkyndige m.v."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2011/20",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2011/20",
+            "citat": "Bekendtgørelse om disciplinær- og klagenævnet for beskikkede bygningssagkyndige"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2011/20",
+        "lovtidende": "BEK nr. 20 af 12/01/2011",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2011/20",
+            "citat": "Bekendtgørelse om disciplinær- og klagenævnet for beskikkede bygningssagkyndige"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kilde-apv-afgoerelser",
+      "navn": "Ankenævnet for Patenter og Varemærkers afgørelsesportal (apv.naevneneshus.dk)",
+      "type": "dokumentkilde",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://apv.naevneneshus.dk/",
+        "belaeg": [
+          {
+            "url": "https://apv.naevneneshus.dk/media/documents/AN_2023_00025.pdf",
+            "citat": "Ankenævnet for Patenter og Varemærker KENDELSE afsagt den 7. december 2023 Sag AN 2023 00025"
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "kendelse",
+            "bindende": "bindende"
+          },
+          {
+            "type": "resumé",
+            "bindende": "vejledende"
+          },
+          {
+            "type": "dom fra Sø- og Handelsretten (vedhæftet)",
+            "bindende": "bindende"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://apv.naevneneshus.dk/media/documents/AN_2023_00025.pdf",
+            "citat": "Denne afgørelse blev indbragt for Ankenævnet for Patenter og Varemærker, som stadfæstede styrelsens afgørelse."
+          },
+          {
+            "url": "https://apv.naevneneshus.dk/media/attachments/SH-dom_af_29._august_2019.pdf",
+            "citat": "SØ- OG HANDELSRETTEN DOM afsagt den 29. august 2019 Sag BS-1448/2016-SHR DK Company A/S"
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML",
+          "PDF"
+        ],
+        "note": "Søgeportal (JavaScript) med en PDF pr. kendelse under /media/documents/; API ikke fundet.",
+        "belaeg": [
+          {
+            "url": "https://naevneneshus.dk/start-din-klage/ankenaevnet-for-patenter-og-varemaerker/",
+            "citat": "Tidligere afgørelser Her finder du afgørelser fra nævnet."
+          }
+        ]
+      },
+      "identifikatorer": {
+        "andet": "Kendelser nummereres AN ÅÅÅÅ NNNNN (fx AN 2023 00025); styrelsens sag har nummer VA ÅÅÅÅ NNNNN.",
+        "belaeg": [
+          {
+            "url": "https://apv.naevneneshus.dk/media/documents/AN_2023_00025.pdf",
+            "citat": "RESUMÉ Afslag vedr. VA 2023 00319 SOLID <w> - AN 2023 00025"
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 4,
+        "besvaer": 4,
+        "begrundelse": "Eneste samlede praksiskilde for patent-, varemærke- og designklager; PDF uden kendt API."
+      }
+    },
+    {
+      "id": "kilde-rn-kendelser",
+      "navn": "Revisornævnets kendelser (rn.naevneneshus.dk)",
+      "type": "dokumentkilde",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://rn.naevneneshus.dk/",
+        "belaeg": [
+          {
+            "url": "https://rn.naevneneshus.dk/media/documents/017-2019_Endelig_kendelse_anonymiseret.pdf",
+            "citat": "Den 21. april 2020 blev der i sag nr. 017/2019 Erhvervsstyrelsen (tidl. Revisortilsynet) mod forhenværende statsautoriseret revisor A afsagt sålydende kendelse"
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "kendelse",
+            "bindende": "bindende"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1264",
+            "citat": "Revisornævnets kendelser i klager, jf. § 1, stk. 1, offentliggøres i henhold til revisorlovens § 47 c og § 47 d."
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML",
+          "PDF"
+        ],
+        "note": "Portal med anonymiserede PDF-kendelser; API ikke fundet.",
+        "belaeg": [
+          {
+            "url": "https://naevneneshus.dk/afgoerelsesportaler/",
+            "citat": "Nævnenes Hus afgørelsesportaler: Forbrugerklagenævnet Planklagenævnet Miljø og Fødevareklagenævnet Disciplinær- og klagenævnet for beskikkede bygningssagkyndige Disciplinærnævnet for Ejendomsmæglere Klagenævnet for Udbud Teleklagenævnet Revisornævnet Ankenævnet for Patenter og Varemærker"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "andet": "Sagsnummer NNN/ÅÅÅÅ (fx 017/2019).",
+        "belaeg": [
+          {
+            "url": "https://rn.naevneneshus.dk/media/documents/017-2019_Endelig_kendelse_anonymiseret.pdf",
+            "citat": "Den 21. april 2020 blev der i sag nr. 017/2019 Erhvervsstyrelsen (tidl. Revisortilsynet) mod forhenværende statsautoriseret revisor A afsagt sålydende kendelse"
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 4,
+        "besvaer": 3,
+        "begrundelse": "Disciplinærpraksis for revisorer; anonymiserede PDF'er."
+      }
+    },
+    {
+      "id": "kilde-dnfe-kendelser",
+      "navn": "Disciplinærnævnet for Ejendomsmæglere – kendelser (dnfe.naevneneshus.dk)",
+      "type": "dokumentkilde",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://dnfe.naevneneshus.dk/",
+        "belaeg": [
+          {
+            "url": "https://dnfe.naevneneshus.dk/media/documents/Sag_489_-_Kendelse_af_13._december_2019_-_fuld_anonymiseret.pdf",
+            "citat": "Den 13. december 2019 har Disciplinærnævnet for Ejendomsmæglere i sag 489 – 19/03151"
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "kendelse",
+            "bindende": "bindende"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2014/1258",
+            "citat": "Disciplinærnævnet skal offentliggøre nævnets afgørelser. Offentliggørelsen sker i Retsinformationsdatabasen, på nævnets hjemmeside eller begge steder."
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML",
+          "PDF"
+        ],
+        "note": "Portal med anonymiserede PDF-kendelser; API ikke fundet.",
+        "belaeg": [
+          {
+            "url": "https://naevneneshus.dk/afgoerelsesportaler/",
+            "citat": "Nævnenes Hus afgørelsesportaler: Forbrugerklagenævnet Planklagenævnet Miljø og Fødevareklagenævnet Disciplinær- og klagenævnet for beskikkede bygningssagkyndige Disciplinærnævnet for Ejendomsmæglere Klagenævnet for Udbud Teleklagenævnet Revisornævnet Ankenævnet for Patenter og Varemærker"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "andet": "Sagsnummer NNN efterfulgt af journalnummer (fx sag 489 – 19/03151).",
+        "belaeg": [
+          {
+            "url": "https://dnfe.naevneneshus.dk/media/documents/Sag_489_-_Kendelse_af_13._december_2019_-_fuld_anonymiseret.pdf",
+            "citat": "Den 13. december 2019 har Disciplinærnævnet for Ejendomsmæglere i sag 489 – 19/03151"
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 3,
+        "besvaer": 3,
+        "begrundelse": "Forbrugerklager over ejendomsmæglere; delvist anonymiserede PDF'er."
+      }
+    }
+  ],
+  "kanter": [
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "sty-patent-og-varemaerkestyrelsen",
+      "beskrivelse": "Styrelse under Erhvervsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.dkpto.dk/om-os",
+          "citat": "Patent- og Varemærkestyrelsen er en del af Erhvervsministeriet."
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "naevn-ankenaevnet-patenter-varemaerker",
+      "beskrivelse": "Nedsættes af erhvervsministeren (patentlovens § 7, stk. 2).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2019/90",
+          "citat": "Ankenævnet for Patenter og Varemærker nedsættes af erhvervsministeren til behandling af klager over styrelsens afgørelser"
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "naevn-revisornaevnet",
+      "beskrivelse": "Nedsættes af Erhvervsstyrelsen (revisorlovens § 43), som hører under Erhvervsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/206",
+          "citat": "Erhvervsstyrelsen nedsætter et revisornævn."
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "naevn-disciplinaernaevnet-ejendomsmaeglere",
+      "beskrivelse": "Medlemmer udpeges af Erhvervsstyrelsen (§ 51); nævnet hører under Erhvervsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2021/510",
+          "citat": "Nævnets formand og medlemmer udpeges af Erhvervsstyrelsen, der ligeledes kan udpege en eller flere dommere som næstformænd."
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "naevn-bygningssagkyndige",
+      "beskrivelse": "Lovens § 14: erhvervsministeren fastsætter regler om nævnets virksomhed (lovteksten bruger det tidligere ministernavn).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2010/1532",
+          "citat": "fastsætter regler om nævnets virksomhed og sagsbehandling, klageadgang, opkrævning af gebyr, syn og skøn"
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "lov-patentloven",
+      "beskrivelse": "Retsinformations ministeriefelt: Erhvervsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2019/90",
+          "citat": "Herved bekendtgøres patentloven, jf. lovbekendtgørelse nr. 221 af 26. februar 2017"
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "lov-varemaerkeloven",
+      "beskrivelse": "Retsinformations ministeriefelt: Erhvervsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2019/88",
+          "citat": "Herved bekendtgøres varemærkeloven, jf. lovbekendtgørelse nr. 223 af 26. februar 2017"
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "lov-designloven",
+      "beskrivelse": "Retsinformations ministeriefelt: Erhvervsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2019/89",
+          "citat": "Herved bekendtgøres designloven, jf. lovbekendtgørelse nr. 219 af 26. februar 2017"
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "lov-revisorloven",
+      "beskrivelse": "Retsinformations ministeriefelt: Erhvervsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/206",
+          "citat": "Herved bekendtgøres lov om godkendte revisorer og revisionsvirksomheder (revisorloven), jf. lovbekendtgørelse nr. 1219 af 31. august 2022"
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "lov-ejendomsformidling",
+      "beskrivelse": "Retsinformations ministeriefelt: Erhvervsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2021/510",
+          "citat": "Bekendtgørelse af lov om formidling af fast ejendom m.v."
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "lov-selskabsloven",
+      "beskrivelse": "Retsinformations ministeriefelt: Erhvervsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/331",
+          "citat": "Herved bekendtgøres lov om aktie- og anpartsselskaber (selskabsloven), jf. lovbekendtgørelse nr. 1168 af 1. september 2023"
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "lov-aarsregnskabsloven",
+      "beskrivelse": "Retsinformations ministeriefelt: Erhvervsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/402",
+          "citat": "Herved bekendtgøres årsregnskabsloven, jf. lovbekendtgørelse nr. 1057 af 23. september 2024"
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "lov-beskikkede-bygningssagkyndige",
+      "beskrivelse": "Retsinformations ministeriefelt: Erhvervsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2010/1532",
+          "citat": "Lov om beskikkede bygningssagkyndige m.v."
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "bek-ankenaevnet-patenter-varemaerker",
+      "beskrivelse": "Retsinformations ministeriefelt: Erhvervsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2009/892",
+          "citat": "Bekendtgørelse om Ankenævnet for Patenter og Varemærker"
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "bek-revisornaevnet",
+      "beskrivelse": "Retsinformations ministeriefelt: Erhvervsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1264",
+          "citat": "Bekendtgørelse om Revisornævnet"
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "bek-disciplinaernaevnet-ejendomsmaeglere",
+      "beskrivelse": "Retsinformations ministeriefelt: Erhvervsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2014/1258",
+          "citat": "Bekendtgørelse om Disciplinærnævnet for Ejendomsmæglere"
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "bek-bygningssagkyndige-naevn",
+      "beskrivelse": "Retsinformations ministeriefelt: Erhvervsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2011/20",
+          "citat": "Bekendtgørelse om disciplinær- og klagenævnet for beskikkede bygningssagkyndige"
+        }
+      ]
+    },
+    {
+      "from": "lov-patentloven",
+      "type": "hjemmel_for",
+      "to": "sty-patent-og-varemaerkestyrelsen",
+      "beskrivelse": "Patentlovens § 7, stk. 1: styrelsen er patentmyndighed.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2019/90",
+          "citat": "Patentmyndigheden her i landet er Patent- og Varemærkestyrelsen, der ledes af en direktør"
+        }
+      ]
+    },
+    {
+      "from": "lov-patentloven",
+      "type": "hjemmel_for",
+      "to": "naevn-ankenaevnet-patenter-varemaerker",
+      "beskrivelse": "Patentlovens § 7, stk. 2: nævnet nedsættes til behandling af klager.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2019/90",
+          "citat": "Ankenævnet for Patenter og Varemærker nedsættes af erhvervsministeren til behandling af klager over styrelsens afgørelser"
+        }
+      ]
+    },
+    {
+      "from": "lov-patentloven",
+      "type": "hjemmel_for",
+      "to": "bek-ankenaevnet-patenter-varemaerker",
+      "beskrivelse": "Bekendtgørelsen er udstedt i medfør af patentlovens § 7, stk. 2 og 4.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2009/892",
+          "citat": "I medfør af patentlovens § 7, stk. 2 og 4, jf. lovbekendtgørelse nr. 91 af 28. januar 2009"
+        }
+      ]
+    },
+    {
+      "from": "lov-revisorloven",
+      "type": "hjemmel_for",
+      "to": "naevn-revisornaevnet",
+      "beskrivelse": "Revisorlovens § 43, stk. 1.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/206",
+          "citat": "Erhvervsstyrelsen nedsætter et revisornævn."
+        }
+      ]
+    },
+    {
+      "from": "lov-revisorloven",
+      "type": "hjemmel_for",
+      "to": "bek-revisornaevnet",
+      "beskrivelse": "Revisorlovens § 47, stk. 1.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1264",
+          "citat": "I medfør af § 47, stk. 1, i revisorloven, jf. lovbekendtgørelse nr. 206 af 20. februar 2025"
+        }
+      ]
+    },
+    {
+      "from": "lov-revisorloven",
+      "type": "hjemmel_for",
+      "to": "sty-erhvervsstyrelsen",
+      "beskrivelse": "Revisorlovens § 32: Erhvervsstyrelsen er ansvarlig for tilsynet med revisorer.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/206",
+          "citat": "Erhvervsstyrelsen er ansvarlig for tilsynet med revisorer og revisionsvirksomheder."
+        }
+      ]
+    },
+    {
+      "from": "lov-ejendomsformidling",
+      "type": "hjemmel_for",
+      "to": "naevn-disciplinaernaevnet-ejendomsmaeglere",
+      "beskrivelse": "Lovens § 51-52.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2021/510",
+          "citat": "Disciplinærnævnet for Ejendomsmæglere består af 1 formand, som skal være landsdommer"
+        }
+      ]
+    },
+    {
+      "from": "lov-ejendomsformidling",
+      "type": "hjemmel_for",
+      "to": "bek-disciplinaernaevnet-ejendomsmaeglere",
+      "beskrivelse": "Bekendtgørelsen er udstedt i medfør af § 51, stk. 3 (lov nr. 526/2014).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2014/1258",
+          "citat": "I medfør af § 51, stk. 3, i lov nr. 526 af 28. maj 2014 om formidling af fast ejendom m.v. fastsættes"
+        }
+      ]
+    },
+    {
+      "from": "lov-beskikkede-bygningssagkyndige",
+      "type": "hjemmel_for",
+      "to": "naevn-bygningssagkyndige",
+      "beskrivelse": "Lovens § 14: regler om nævnets virksomhed og klageadgang.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2010/1532",
+          "citat": "fastsætter regler om nævnets virksomhed og sagsbehandling, klageadgang, opkrævning af gebyr, syn og skøn"
+        }
+      ]
+    },
+    {
+      "from": "lov-beskikkede-bygningssagkyndige",
+      "type": "hjemmel_for",
+      "to": "bek-bygningssagkyndige-naevn",
+      "beskrivelse": "Bekendtgørelsen er udstedt i medfør af lovens § 14.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2011/20",
+          "citat": "I medfør af § 14 i lov nr. 1532 af 21. december 2010 om beskikkede bygningssagkyndige m.v."
+        }
+      ]
+    },
+    {
+      "from": "naevn-ankenaevnet-patenter-varemaerker",
+      "type": "klageinstans",
+      "to": "sty-patent-og-varemaerkestyrelsen",
+      "beskrivelse": "Patentlovens § 25: klagefrist 2 måneder, gebyr inden samme frist; nævnets afgørelser kan ikke indbringes for højere administrativ myndighed; varemærkelovens § 46 og designlovens § 35 tilsvarende (opsættende virkning).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2019/90",
+          "citat": "Klage efter § 24 indgives til Ankenævnet for Patenter og Varemærker senest 2 måneder efter, at styrelsen har givet den pågældende underretning om afgørelsen."
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2019/90",
+          "citat": "Stk. 2. Ankenævnets afgørelser kan ikke indbringes for højere administrativ myndighed."
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2019/88",
+          "citat": "Indbringelse for Patentankenævnet har opsættende virkning."
+        }
+      ]
+    },
+    {
+      "from": "dom-domstolene",
+      "type": "klageinstans",
+      "to": "naevn-ankenaevnet-patenter-varemaerker",
+      "beskrivelse": "Patentlovens § 25, stk. 3: søgsmål til prøvelse af afslag eller ugyldighed skal anlægges inden 2 måneder efter underretning om nævnets afgørelse; sagen kan ikke indbringes for domstolene, før nævnets afgørelse foreligger.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2019/90",
+          "citat": "Søgsmål til prøvelse af afgørelser truffet af styrelsen, som kan påklages til Ankenævnet for Patenter og Varemærker, kan ikke indbringes for domstolene, forinden ankenævnets afgørelse foreligger"
+        },
+        {
+          "url": "https://apv.naevneneshus.dk/media/attachments/SH-dom_af_29._august_2019.pdf",
+          "citat": "SØ- OG HANDELSRETTEN DOM afsagt den 29. august 2019 Sag BS-1448/2016-SHR DK Company A/S"
+        }
+      ]
+    },
+    {
+      "from": "dom-domstolene",
+      "type": "klageinstans",
+      "to": "naevn-revisornaevnet",
+      "beskrivelse": "Revisorlovens § 52 b: kendelser kan indbringes for domstolene senest 4 uger efter, at de er meddelt; sanktioner i § 44 (advarsel, bøde, frakendelse, forbud). Nævnets afgørelser kan ikke indbringes for anden administrativ myndighed (BEK 1264/2025 § 19, stk. 5).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/206",
+          "citat": "§ 52 b. Indbringelse af Revisornævnets kendelser for domstolene skal ske, senest 4 uger efter at kendelsen er meddelt den pågældende."
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1264",
+          "citat": "Revisornævnets afgørelser kan ikke indbringes for anden administrativ myndighed."
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/206",
+          "citat": "kan af Revisornævnet tildeles en advarsel eller pålægges en bøde på ikke over 300.000 kr."
+        }
+      ]
+    },
+    {
+      "from": "dom-domstolene",
+      "type": "klageinstans",
+      "to": "naevn-disciplinaernaevnet-ejendomsmaeglere",
+      "beskrivelse": "Lov om formidling af fast ejendom § 64: frakendelse efter § 53, stk. 2 kan forlanges indbragt for retten, begæring senest 4 uger; nævnets afgørelser kan ikke indbringes for anden administrativ myndighed (§ 63, stk. 2).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2021/510",
+          "citat": "En afgørelse efter § 10 og § 53, stk. 2, kan af den, afgørelsen vedrører, forlanges indbragt for retten."
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2021/510",
+          "citat": "Afgørelser truffet af Disciplinærnævnet for Ejendomsmæglere kan ikke indbringes for anden administrativ myndighed."
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2021/510",
+          "citat": "kan disciplinærnævnet begrænse den pågældendes adgang til at udøve ejendomsformidling eller frakende ejendomsmægleren godkendelsen efter § 6 på tid fra 6 måneder til 5 år eller indtil videre."
+        }
+      ]
+    },
+    {
+      "from": "dom-domstolene",
+      "type": "klageinstans",
+      "to": "naevn-bygningssagkyndige",
+      "beskrivelse": "BEK 20/2011 § 15: nævnets afgørelser kan ikke indbringes for anden administrativ myndighed; disciplinærafgørelser skal oplyse om domstolsprøvelse og frist.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2011/20",
+          "citat": "Nævnets afgørelser kan ikke indbringes for anden administrativ myndighed."
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2011/20",
+          "citat": "En afgørelse i en disciplinærsag, jf. § 1, stk. 1, skal indeholde oplysninger om adgangen til domstolsprøvelse og fristen herfor."
+        }
+      ]
+    },
+    {
+      "from": "sty-erhvervsstyrelsen",
+      "type": "tilsyn",
+      "to": "org-godkendte-revisorer",
+      "beskrivelse": "Revisorlovens § 32: Erhvervsstyrelsen er ansvarlig for tilsynet; Revisortilsynet (2004-16. juni 2016) er ikke et selvstændigt organ i dag.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/206",
+          "citat": "Erhvervsstyrelsen er ansvarlig for tilsynet med revisorer og revisionsvirksomheder."
+        },
+        {
+          "url": "https://erhvervsstyrelsen.dk/revisorer-og-revisionsvirksomheder",
+          "citat": "Vi er ansvarlige for det offentlige tilsyn med revisorer og revisionsvirksomheder."
+        }
+      ]
+    },
+    {
+      "from": "sty-naevnenes-hus",
+      "type": "udsteder",
+      "to": "kilde-apv-afgoerelser",
+      "beskrivelse": "Nævnenes Hus driver afgørelsesportalen for nævnet.",
+      "belaeg": [
+        {
+          "url": "https://naevneneshus.dk/afgoerelsesportaler/",
+          "citat": "Nævnenes Hus afgørelsesportaler: Forbrugerklagenævnet Planklagenævnet Miljø og Fødevareklagenævnet Disciplinær- og klagenævnet for beskikkede bygningssagkyndige Disciplinærnævnet for Ejendomsmæglere Klagenævnet for Udbud Teleklagenævnet Revisornævnet Ankenævnet for Patenter og Varemærker"
+        }
+      ]
+    },
+    {
+      "from": "sty-naevnenes-hus",
+      "type": "udsteder",
+      "to": "kilde-rn-kendelser",
+      "beskrivelse": "Nævnenes Hus driver afgørelsesportalen for nævnet.",
+      "belaeg": [
+        {
+          "url": "https://naevneneshus.dk/afgoerelsesportaler/",
+          "citat": "Nævnenes Hus afgørelsesportaler: Forbrugerklagenævnet Planklagenævnet Miljø og Fødevareklagenævnet Disciplinær- og klagenævnet for beskikkede bygningssagkyndige Disciplinærnævnet for Ejendomsmæglere Klagenævnet for Udbud Teleklagenævnet Revisornævnet Ankenævnet for Patenter og Varemærker"
+        }
+      ]
+    },
+    {
+      "from": "sty-naevnenes-hus",
+      "type": "udsteder",
+      "to": "kilde-dnfe-kendelser",
+      "beskrivelse": "Nævnenes Hus driver afgørelsesportalen for nævnet.",
+      "belaeg": [
+        {
+          "url": "https://naevneneshus.dk/afgoerelsesportaler/",
+          "citat": "Nævnenes Hus afgørelsesportaler: Forbrugerklagenævnet Planklagenævnet Miljø og Fødevareklagenævnet Disciplinær- og klagenævnet for beskikkede bygningssagkyndige Disciplinærnævnet for Ejendomsmæglere Klagenævnet for Udbud Teleklagenævnet Revisornævnet Ankenævnet for Patenter og Varemærker"
+        }
+      ]
+    },
+    {
+      "from": "naevn-revisornaevnet",
+      "type": "udsteder",
+      "to": "kilde-rn-kendelser",
+      "beskrivelse": "Kendelser offentliggøres efter revisorlovens § 47 c og § 47 d (BEK 1264/2025 § 20).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1264",
+          "citat": "Revisornævnets kendelser i klager, jf. § 1, stk. 1, offentliggøres i henhold til revisorlovens § 47 c og § 47 d."
+        }
+      ]
+    },
+    {
+      "from": "naevn-disciplinaernaevnet-ejendomsmaeglere",
+      "type": "udsteder",
+      "to": "kilde-dnfe-kendelser",
+      "beskrivelse": "BEK 1258/2014 § 13, stk. 3: nævnet offentliggør afgørelser.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2014/1258",
+          "citat": "Disciplinærnævnet skal offentliggøre nævnets afgørelser."
+        }
+      ]
+    }
+  ],
+  "rettelser": [],
+  "huller": [
+    {
+      "emne": "Antal afgørelser og periode i Ankenævnet for Patenter og Varemærkers portal",
+      "type": "ikke-fundet",
+      "beskrivelse": "Sporet om cirka 280 afgørelser siden 1991 kunne ikke bekræftes; portalen apv.naevneneshus.dk er en JavaScript-skal, og kun afgørelser fra 2018-2024 er set i enkeltsøgninger.",
+      "noder": [
+        "kilde-apv-afgoerelser"
+      ],
+      "kilder": [
+        "https://apv.naevneneshus.dk/"
+      ]
+    },
+    {
+      "emne": "Licens og opdateringsfrekvens for portalerne apv, rn og dnfe",
+      "type": "uklart",
+      "beskrivelse": "Ingen vilkårs-, ophavsrets- eller 'om databasen'-tekst fundet på portalerne; opdateringsfrekvens og versionshistorik ikke angivet.",
+      "noder": [
+        "kilde-apv-afgoerelser",
+        "kilde-rn-kendelser",
+        "kilde-dnfe-kendelser"
+      ],
+      "kilder": [
+        "https://naevneneshus.dk/afgoerelsesportaler/"
+      ]
+    },
+    {
+      "emne": "Patent- og Varemærkestyrelsens bekendtgørelser, retningslinjer og vejledninger",
+      "type": "ikke-fundet",
+      "beskrivelse": "Retsinformation henviser til BEK 1519/2025, 1578/2016 m.fl. under loven, men bekendtgørelsernes indhold og styrelsens retningslinjer (dkpto.dk) er ikke læst eller belagt.",
+      "noder": [
+        "sty-patent-og-varemaerkestyrelsen"
+      ],
+      "kilder": [
+        "https://www.dkpto.dk/om-os"
+      ]
+    },
+    {
+      "emne": "Afgørelsesportal for beskikkede bygningssagkyndige",
+      "type": "ikke-fundet",
+      "beskrivelse": "Nævnenes Hus nævner en portal, men dens adresse, nummersystem og indhold er ikke kortlagt; derfor ingen dokumentkilde-node.",
+      "noder": [
+        "naevn-bygningssagkyndige"
+      ],
+      "kilder": [
+        "https://naevneneshus.dk/afgoerelsesportaler/"
+      ]
+    },
+    {
+      "emne": "Revisortilsynets afvikling",
+      "type": "uklart",
+      "beskrivelse": "Erhvervsstyrelsens redegørelse 2016 siger, at Revisortilsynet var ansvarligt for kvalitetskontrollen 2004 til 16. juni 2016; selve retsgrundlaget for nedlæggelsen er ikke fundet. I dag er tilsynet en funktion i Erhvervsstyrelsen (revisorloven § 32).",
+      "noder": [
+        "sty-erhvervsstyrelsen"
+      ],
+      "kilder": [
+        "https://erhvervsstyrelsen.dk/sites/default/files/2019-02/revisortilsyn_redegoerelse_2016.pdf"
+      ]
+    },
+    {
+      "emne": "Tilsyn med ejendomsmæglere og dokumenttyper for org-godkendte-revisorer",
+      "type": "ikke-fundet",
+      "beskrivelse": "Erhvervsstyrelsen godkender ejendomsmæglere (§ 6) og fører hvidvasktilsyn (§ 62 a); den generelle tilsynshjemmel er ikke belagt, så ingen tilsynskant til ejendomsmæglere.",
+      "noder": [
+        "lov-ejendomsformidling"
+      ],
+      "kilder": [
+        "https://www.retsinformation.dk/eli/lta/2021/510"
+      ]
+    }
+  ],
+  "noter": "Revisortilsynet er ingen selvstændig node (funktion i Erhvervsstyrelsen siden 16/6/2016). Kanten naevn-erhvervsankenaevnet klageinstans sty-erhvervsstyrelsen findes allerede, så den er ikke tilføjet; dens belæg (4 ugers frist, Erhvervsstyrelsens afgørelser kan indbringes for Erhvervsankenævnet) er læst i selskabsloven (§ 371), årsregnskabsloven (§ 163), revisorloven (§ 51) og ejendomsformidlingsloven (§ 63), LBK 402/2026, 206/2025, 331/2025 og 510/2021, og kan bruges til at styrke den eksisterende kant. Ejendomsformidlingsloven LBK 510/2021 er ikke ajourført med lov 733/2023 og lov 729/2026. Lov 729/2026 ændrer alle lovene. Afgrænset væk: finansiel regulering, konkurrenceret, forbrugerret, skat og hvidvask."
+}

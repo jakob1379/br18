@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 180 · kanter: 292
+Noder: 222 · kanter: 372
 
 ```mermaid
 flowchart LR
@@ -16,6 +16,7 @@ flowchart LR
     classDef nedlagt fill:#fff,stroke:#999,color:#999,stroke-dasharray:4 3
     min_erhverv["Erhvervsministeriet"]:::ministerium
     eu_reg_2011_305["Byggevareforordningen (EU) nr. 305/2011 (CPR)"]:::eu
+    eu_dir_2015_849["Direktiv (EU) 2015/849 om forebyggende foranstaltninger mod anvendelse af det finansielle system til hvidvask af penge eller finansiering af terrorisme (4. hvidvaskdirektiv)"]:::eu
     eu_dir_1999_92["Direktiv 1999/92/EF om minimumsforskrifter for sikkerhed og sundhed for arbejdstagere, som kan udsættes for risiko for eksplosiv atmosfære (ATEX-brugerdirektivet)"]:::eu
     eu_dir_2000_54["Direktiv 2000/54/EF om beskyttelse af arbejdstagerne mod risici i forbindelse med at være udsat for biologiske agenser under arbejdet"]:::eu
     eu_dir_2002_44["Direktiv 2002/44/EF om fysiske agenser (vibrationer)"]:::eu
@@ -61,6 +62,7 @@ flowchart LR
     sty_kystdirektoratet["Kystdirektoratet"]:::instans
     sty_miljoestyrelsen["Miljøstyrelsen"]:::instans
     sty_naevnenes_hus["Nævnenes Hus"]:::instans
+    sty_patent_og_varemaerkestyrelsen["Patent- og Varemærkestyrelsen"]:::instans
     sty_plan_og_landdistriktsstyrelsen["Plan- og Landdistriktsstyrelsen"]:::instans
     region_alle["Regionerne (5 regionsråd)"]:::instans
     raad_el_og_gasteknisk_sikkerhed["Rådet for El- og Gasteknisk Sikkerhed"]:::instans
@@ -68,38 +70,58 @@ flowchart LR
     sty_groen_arealomlaegning_og_vandmiljoe["Styrelsen for Grøn Arealomlægning og Vandmiljø (SGAV)"]:::instans
     sty_soefartsstyrelsen["Søfartsstyrelsen"]:::instans
     tilsyn_vandsektortilsynet["Vandsektortilsynet"]:::instans
+    org_ankenaevnet_for_bus_tog_og_metro["Ankenævnet for Bus, Tog og Metro"]:::kilde
     org_ankenaevnet_for_fondsmaeglerselskaber["Ankenævnet for Fondsmæglerselskaber"]:::kilde
+    org_ankenaevnet_for_forsikring["Ankenævnet for Forsikring"]:::kilde
+    kilde_apv_afgoerelser["Ankenævnet for Patenter og Varemærkers afgørelsesportal (apv.naevneneshus.dk)"]:::kilde
     kilde_autorisationsregister["Autorisationsregister (el, VVS, kloak, gas, asbest)"]:::kilde
     kilde_bke_afgoerelser["Byggeklageenhedens afgørelser"]:::kilde
+    org_byggeriets_ankenaevn["Byggeriets Ankenævn"]:::kilde
     std_ds_en_50110["DS/EN 50110 Drift af elektriske anlæg"]:::kilde
     std_ds_hd_60364["DS/HD 60364 Elektriske lavspændingsinstallationer"]:::kilde
     kilde_dmaib_rapporter["Den Maritime Havarikommissions rapporter (dmaib.dk)"]:::kilde
     org_det_finansielle_ankenaevn["Det finansielle ankenævn"]:::kilde
+    kilde_dnfe_kendelser["Disciplinærnævnet for Ejendomsmæglere – kendelser (dnfe.naevneneshus.dk)"]:::kilde
     kilde_ekn_afgoerelser["Energiklagenævnets afgørelser (ekn.naevneneshus.dk)"]:::kilde
     kilde_ean_afgoerelser["Erhvervsankenævnets kendelser (ean.naevneneshus.dk)"]:::kilde
     kilde_findsmiley["Find Smiley (fødevarekontrollens kontrolrapporter)"]:::kilde
+    kilde_fkn_afgoerelser["Forbrugerklagenævnets afgørelser (fkn.naevneneshus.dk)"]:::kilde
+    kilde_forbrugerombudsmanden_retningslinjer["Forbrugerombudsmandens retningslinjer og vejledninger (forbrugerombudsmanden.dk)"]:::kilde
+    kilde_forbrugerombudsmanden_sager["Forbrugerombudsmandens sager (Find sager, forbrugerombudsmanden.dk)"]:::kilde
+    org_godkendte_private_ankenaevn["Godkendte private ankenævn (godkendelsesordningen i forbrugerklagelovens kapitel 3)"]:::kilde
+    org_godkendte_revisorer["Godkendte revisorer og revisionsvirksomheder"]:::kilde
     kilde_mfkn_afgoerelser["MFKN afgørelsesportal (mfkn.naevneneshus.dk)"]:::kilde
     kilde_meddelelser_fra_soefartsstyrelsen["Meddelelser fra Søfartsstyrelsen (tekniske forskrifter A, B, E, F)"]:::kilde
     kilde_mrf["Miljøretlig Forskningsportal (MRF), Københavns Universitet"]:::kilde
     kilde_naevneneshus_afgoerelser["Nævnenes Hus – afgørelser fra øvrige nævn (Energiklagenævnet, Byggeklageenheden, Erhvervsankenævnet m.fl.)"]:::kilde
+    kilde_godkendte_private_ankenaevn_liste["Nævnenes Hus: oversigt over godkendte private ankenævn (naevneneshus.dk)"]:::kilde
     kilde_pkn_afgoerelser["Planklagenævnets afgørelser"]:::kilde
+    kilde_rn_kendelser["Revisornævnets kendelser (rn.naevneneshus.dk)"]:::kilde
     kilde_soefartsstyrelsen_regler["Søfartsstyrelsens regler og bekendtgørelser (soefartsstyrelsen.dk)"]:::kilde
     bv_tekniq_vejledninger["TEKNIQ's branchevejledninger (bl.a. om overtrædelse af autorisationsloven og elektronisk sameksistens/EMC)"]:::kilde
     kilde_tvistighedsnaevnet_kendelser["Tvistighedsnævnets afgørelsesportal (tvist.naevneneshus.dk)"]:::kilde
     kilde_sik_dk["sik.dk (Sikkerhedsstyrelsens site, nu Erhvervsstyrelsen)"]:::kilde
     kilde_virk_nye_regler["virk.dk – Nye regler (oversigt over nye erhvervsrettede regler)"]:::kilde
+    naevn_ankenaevnet_patenter_varemaerker["Ankenævnet for Patenter og Varemærker"]:::klage
     naevn_ankenaevnet_for_soefartsforhold["Ankenævnet for Søfartsforhold"]:::klage
+    naevn_ankenaevnet_paa_energiomraadet["Ankenævnet på Energiområdet"]:::klage
+    naevn_ankenaevn_oplaeringsvirksomheder["Ankenævnet vedrørende Oplæringsvirksomheder (tidl. Ankenævnet vedrørende Praktikvirksomheder)"]:::klage
     naevn_byggeklageenheden["Byggeklageenheden"]:::klage
     dom_byretterne["Byretterne"]:::klage
+    naevn_bygningssagkyndige["Disciplinær- og klagenævnet for beskikkede bygningssagkyndige"]:::klage
+    naevn_disciplinaernaevnet_ejendomsmaeglere["Disciplinærnævnet for Ejendomsmæglere"]:::klage
     dom_domstolene["Domstolene (byret, landsret, Højesteret)"]:::klage
     naevn_energiklagenaevnet["Energiklagenævnet"]:::klage
     naevn_erhvervsankenaevnet["Erhvervsankenævnet"]:::klage
     ombud_folketingets_ombudsmand["Folketingets Ombudsmand"]:::klage
+    naevn_forbrugerklagenaevnet["Forbrugerklagenævnet"]:::klage
+    ombud_forbrugerombudsmanden["Forbrugerombudsmanden"]:::klage
     naevn_fredningsnaevn["Fredningsnævnene"]:::klage
     naevn_klagenaevnet_for_udbud["Klagenævnet for Udbud"]:::klage
     naevn_konkurrenceankenaevnet["Konkurrenceankenævnet"]:::klage
     naevn_miljoe_og_foedevareklagenaevnet["Miljø- og Fødevareklagenævnet"]:::klage
     naevn_planklagenaevnet["Planklagenævnet"]:::klage
+    naevn_revisornaevnet["Revisornævnet"]:::klage
     naevn_taksationskommissionen["Taksationskommissionen (naturbeskyttelsesloven)"]:::klage
     naevn_tvistighedsnaevnet["Tvistighedsnævnet"]:::klage
     min_by_land_og_transport["By-, Land- og Transportministeriet"]:::ministerium
@@ -108,19 +130,27 @@ flowchart LR
     lov_arbejdsmiljoeloven["Arbejdsmiljøloven"]:::retsakt
     bek_skibstilsynsraadet_forretningsorden["Bekendtgørelse af forretningsorden for Skibstilsynsrådet (BEK nr. 883 af 03/10/1996)"]:::retsakt
     bek_klagenaevn_sagsbehandlingslofter["Bekendtgørelse om (mål for) sagsbehandlingslofter i Miljø- og Fødevareklagenævnet, Planklagenævnet og Energiklagenævnet (BEK nr. 1555 af 2025; præcis titel ikke set)"]:::retsakt
+    bek_ankenaevnet_patenter_varemaerker["Bekendtgørelse om Ankenævnet for Patenter og Varemærker"]:::retsakt
+    bek_ankenaevn_praktikvirksomheder["Bekendtgørelse om Ankenævnet vedrørende Praktikvirksomheder (BEK nr. 1517 af 13/12/2007)"]:::retsakt
+    bek_disciplinaernaevnet_ejendomsmaeglere["Bekendtgørelse om Disciplinærnævnet for Ejendomsmæglere"]:::retsakt
     bek_faerdselsstyrelsen_opgaver["Bekendtgørelse om Færdselsstyrelsens opgaver og beføjelser samt klageadgang (BEK nr. 787 af 2025)"]:::retsakt
     bek_klagenaevnet_for_udbud["Bekendtgørelse om Klagenævnet for Udbud (klagenævnsbekendtgørelsen)"]:::retsakt
     bek_konkurrenceankenaevnet["Bekendtgørelse om Konkurrenceankenævnet"]:::retsakt
+    bek_revisornaevnet["Bekendtgørelse om Revisornævnet"]:::retsakt
     bek_raad_el_og_gasteknisk_sikkerhed["Bekendtgørelse om Rådet for El- og Gasteknisk Sikkerhed (2024)"]:::retsakt
     bek_tvistighedsnaevnet["Bekendtgørelse om Tvistighedsnævnet"]:::retsakt
     bek_vandsektortilsynet["Bekendtgørelse om Vandsektortilsynets virksomhed"]:::retsakt
     bek_autorisation["Bekendtgørelse om autorisation og drift af virksomhed på el-, vvs- og kloakinstallationsområdet"]:::retsakt
+    bek_forbrugerklager_naevnenes_hus["Bekendtgørelse om behandling af forbrugerklager i Nævnenes Hus samt Forbrugerklagenævnet (BEK nr. 65 af 16/01/2019)"]:::retsakt
+    bek_bygningssagkyndige_naevn["Bekendtgørelse om disciplinær- og klagenævnet for beskikkede bygningssagkyndige"]:::retsakt
     bek_ankenaevn_soefartsforhold_forretningsorden["Bekendtgørelse om forretningsorden for Ankenævnet for Søfartsforhold (BEK nr. 1121 af 19/09/2013)"]:::retsakt
     bek_ekn_forretningsorden["Bekendtgørelse om forretningsorden for Energiklagenævnet"]:::retsakt
     bek_mfkn_forretningsorden["Bekendtgørelse om forretningsorden for Miljø- og Fødevareklagenævnet"]:::retsakt
     bek_pkn_forretningsorden["Bekendtgørelse om forretningsorden for Planklagenævnet (BEK nr. 20 af 11/01/2024)"]:::retsakt
     bek_pkn_gebyr["Bekendtgørelse om gebyr for indbringelse af klager for Planklagenævnet (BEK nr. 108 af 28/01/2017)"]:::retsakt
     bek_ekn_gebyr["Bekendtgørelse om gebyr ved indbringelse af en klage for Energiklagenævnet (BEK nr 568 af 24/06/2026)"]:::retsakt
+    bek_gebyrer_godkendte_private_ankenaevn["Bekendtgørelse om gebyrer ved godkendte private klage- eller ankenævn (BEK nr. 928 af 26/06/2025)"]:::retsakt
+    bek_godkendelse_private_tvistloesningsorganer["Bekendtgørelse om godkendelse af private tvistløsningsorganer (BEK nr. 1151 af 30/09/2015)"]:::retsakt
     bek_co2_kvoter_henlaeggelse_erst["Bekendtgørelse om henlæggelse af visse beføjelser efter lov om CO2-kvoter til Erhvervsstyrelsen (ikrafttræden 1/1/2026)"]:::retsakt
     bek_soefartsstyrelsen_henlaeggelse["Bekendtgørelse om henlæggelse af visse beføjelser til Søfartsstyrelsen og om klageadgang m.v. (BEK nr. 261 af 23/03/2020)"]:::retsakt
     bek_elevatorer["Bekendtgørelse om indretning m.v. af elevatorer og sikkerhedskomponenter til elevatorer"]:::retsakt
@@ -131,6 +161,7 @@ flowchart LR
     bek_byggevarer_cpr2024["Bekendtgørelse om markedsføring og markedsovervågning af byggevarer efter den reviderede byggevareforordning"]:::retsakt
     bek_maskiner["Bekendtgørelse om maskiner"]:::retsakt
     bek_atex_produkter["Bekendtgørelse om produkter til anvendelse i en potentielt eksplosiv atmosfære (BEK nr. 811 af 03/06/2022)"]:::retsakt
+    bek_forbrugerombudsmandens_virksomhed["Bekendtgørelse om regler for Forbrugerombudsmandens virksomhed (BEK nr. 1249 af 25/11/2014)"]:::retsakt
     bek_drift_elanlaeg["Bekendtgørelse om sikkerhed for drift af elektriske anlæg"]:::retsakt
     bek_elmateriel["Bekendtgørelse om sikkerhed for elektrisk materiel (elmaterielbekendtgørelsen)"]:::retsakt
     bek_gasanlaeg["Bekendtgørelse om sikkerhed for gasanlæg"]:::retsakt
@@ -140,6 +171,7 @@ flowchart LR
     bek_elanlaeg["Bekendtgørelse om sikkerhed for udførelse af elektriske anlæg (elanlægsbekendtgørelsen)"]:::retsakt
     bek_elinstallationer["Bekendtgørelse om sikkerhed for udførelse og drift af elektriske installationer (elinstallationsbekendtgørelsen)"]:::retsakt
     bek_maskinforordning_supplerende["Bekendtgørelse om supplerende bestemmelser til maskinforordningen"]:::retsakt
+    lov_designloven["Designloven"]:::retsakt
     plan_fingerplan_2019["Fingerplan 2019 – Landsplandirektiv for hovedstadsområdets planlægning (BEK nr. 312/2019)"]:::retsakt
     bek_fyrvaerkeri["Fyrværkeribekendtgørelsen (bekendtgørelse om indførsel, fremstilling, opbevaring, overdragelse, erhvervelse og anvendelse af fyrværkeri og andre pyrotekniske artikler), BEK nr. 1798 af 09/09/2021"]:::retsakt
     lov_fyrvaerkeriloven["Fyrværkeriloven (lov om fyrværkeri og andre pyrotekniske artikler)"]:::retsakt
@@ -155,20 +187,27 @@ flowchart LR
     lov_klagenaevn_for_udbud_loven["Lov om Klagenævnet for Udbud (tidl. lov om håndhævelse af udbudsreglerne m.v.)"]:::retsakt
     lov_mfkn_loven["Lov om Miljø- og Fødevareklagenævnet"]:::retsakt
     lov_planklagenaevnsloven["Lov om Planklagenævnet"]:::retsakt
+    lov_selskabsloven["Lov om aktie- og anpartsselskaber (selskabsloven)"]:::retsakt
     lov_forbrugerklageloven["Lov om alternativ tvistløsning i forbindelse med forbrugerklager (forbrugerklageloven)"]:::retsakt
     lov_undergrundsloven["Lov om anvendelse af Danmarks undergrund (undergrundsloven), LBK nr 1461 af 29/11/2023"]:::retsakt
     lov_autorisationsloven["Lov om autorisation af virksomheder på el-, vvs- og kloakinstallationsområdet (autorisationsloven)"]:::retsakt
+    lov_beskikkede_bygningssagkyndige["Lov om beskikkede bygningssagkyndige m.v."]:::retsakt
+    lov_lov_om_betalinger["Lov om betalinger"]:::retsakt
     lov_dyrlaegeloven["Lov om dyrlæger"]:::retsakt
     lov_elforsyningsloven["Lov om elforsyning (elforsyningsloven)"]:::retsakt
     lov_erhvervsuddannelser["Lov om erhvervsuddannelser (erhvervsuddannelsesloven)"]:::retsakt
     lov_masteloven["Lov om etablering og fælles udnyttelse af master til radiokommunikationsformål m.v. (masteloven)"]:::retsakt
+    lov_forbrugeraftaleloven["Lov om forbrugeraftaler (forbrugeraftaleloven)"]:::retsakt
+    lov_ejendomsformidling["Lov om formidling af fast ejendom m.v."]:::retsakt
     lov_energimaerkningsloven["Lov om fremme af energibesparelser i bygninger"]:::retsakt
     lov_ve_loven["Lov om fremme af vedvarende energi (VE-loven)"]:::retsakt
     lov_foedevareloven["Lov om fødevarer (fødevareloven)"]:::retsakt
+    lov_revisorloven["Lov om godkendte revisorer og revisionsvirksomheder (revisorloven)"]:::retsakt
     lov_tilbudsloven["Lov om indhentning af tilbud i bygge- og anlægssektoren (tilbudsloven)"]:::retsakt
     lov_kystbeskyttelsesloven["Lov om kystbeskyttelse (kystbeskyttelsesloven)"]:::retsakt
     lov_lejeloven["Lov om leje (lejeloven)"]:::retsakt
     lov_erhvervslejeloven["Lov om leje af erhvervslokaler m.v. (erhvervslejeloven)"]:::retsakt
+    lov_markedsfoeringsloven["Lov om markedsføring (markedsføringsloven)"]:::retsakt
     lov_miljoebeskyttelsesloven["Lov om miljøbeskyttelse (miljøbeskyttelsesloven)"]:::retsakt
     lov_ecodesignloven["Lov om miljøvenligt design af energirelaterede produkter (ecodesignloven)"]:::retsakt
     lov_miljoevurderingsloven["Lov om miljøvurderinger (miljøvurderingsloven, VVM/SMV)"]:::retsakt
@@ -188,12 +227,15 @@ flowchart LR
     bek_meddelelser_e["Meddelelser fra Søfartsstyrelsen E (fiskeskibes bygning og udstyr), BEK nr. 1459 af 14/12/2010"]:::retsakt
     bek_meddelelser_f["Meddelelser fra Søfartsstyrelsen F (mindre erhvervsfartøjers bygning og udstyr), BEK nr. 1460 af 14/12/2010"]:::retsakt
     lov_museumsloven["Museumsloven"]:::retsakt
+    lov_patentloven["Patentloven"]:::retsakt
     bek_risiko["Risikobekendtgørelsen (bekendtgørelse om kontrol med risikoen for større uheld med farlige stoffer)"]:::retsakt
     vejl_sik_vejledninger["Sikkerhedsstyrelsens/Erhvervsstyrelsens vejledninger og fortolkninger (el, gas, VVS, kloak, asbest, autorisation)"]:::retsakt
     lov_soeloven["Søloven"]:::retsakt
+    lov_varemaerkeloven["Varemærkeloven"]:::retsakt
     vejl_fingerplan_2019["Vejledning om Fingerplan 2019 (VEJ nr. 9281 af 27/03/2019)"]:::retsakt
     vejl_henvisning_standarder["Vejledning om henvisning til visse internationale standarder i lovgivning (Erhvervsstyrelsen)"]:::retsakt
     vejl_planloven_vejledninger["Vejledninger til planloven (samling)"]:::retsakt
+    lov_aarsregnskabsloven["Årsregnskabsloven"]:::retsakt
     min_erhverv -.->|delegation| sty_erhvervsstyrelsen
     min_erhverv -.->|delegation| sty_sikkerhedsstyrelsen
     bek_drift_elanlaeg -->|henviser_til| std_ds_en_50110
@@ -484,6 +526,86 @@ flowchart LR
     lov_sikkerhed_til_soes -->|implementerer_EU| eu_dir_2009_148
     lov_soeloven -->|implementerer_EU| eu_dir_2005_36
     lov_skibes_besaetning -->|implementerer_EU| eu_dir_2005_36
+    min_erhverv -.->|ressortansvar| ombud_forbrugerombudsmanden
+    min_erhverv -.->|ressortansvar| naevn_forbrugerklagenaevnet
+    min_erhverv -.->|ressortansvar| lov_markedsfoeringsloven
+    min_erhverv -->|ressortansvar| bek_forbrugerklager_naevnenes_hus
+    min_erhverv -.->|ressortansvar| bek_godkendelse_private_tvistloesningsorganer
+    min_erhverv -->|ressortansvar| bek_gebyrer_godkendte_private_ankenaevn
+    min_erhverv -->|ressortansvar| bek_forbrugerombudsmandens_virksomhed
+    lov_markedsfoeringsloven -->|hjemmel_for| ombud_forbrugerombudsmanden
+    lov_forbrugeraftaleloven -->|hjemmel_for| ombud_forbrugerombudsmanden
+    lov_lov_om_betalinger -->|hjemmel_for| ombud_forbrugerombudsmanden
+    bek_forbrugerombudsmandens_virksomhed -->|hjemmel_for| ombud_forbrugerombudsmanden
+    lov_markedsfoeringsloven -->|hjemmel_for| bek_forbrugerombudsmandens_virksomhed
+    dom_domstolene -->|klageinstans| ombud_forbrugerombudsmanden
+    lov_forbrugeraftaleloven -->|henviser_til| lov_markedsfoeringsloven
+    ombud_forbrugerombudsmanden -->|udsteder| kilde_forbrugerombudsmanden_sager
+    ombud_forbrugerombudsmanden -->|udsteder| kilde_forbrugerombudsmanden_retningslinjer
+    lov_forbrugerklageloven -->|hjemmel_for| naevn_forbrugerklagenaevnet
+    bek_forbrugerklager_naevnenes_hus -->|hjemmel_for| naevn_forbrugerklagenaevnet
+    dom_domstolene -->|klageinstans| naevn_forbrugerklagenaevnet
+    naevn_forbrugerklagenaevnet -.->|udsteder| kilde_fkn_afgoerelser
+    sty_naevnenes_hus -->|udsteder| kilde_fkn_afgoerelser
+    lov_forbrugerklageloven -->|hjemmel_for| bek_forbrugerklager_naevnenes_hus
+    lov_forbrugerklageloven -->|hjemmel_for| org_godkendte_private_ankenaevn
+    bek_godkendelse_private_tvistloesningsorganer -->|hjemmel_for| org_godkendte_private_ankenaevn
+    bek_gebyrer_godkendte_private_ankenaevn -->|hjemmel_for| org_godkendte_private_ankenaevn
+    sty_naevnenes_hus -->|tilsyn| org_godkendte_private_ankenaevn
+    sty_naevnenes_hus -->|udsteder| kilde_godkendte_private_ankenaevn_liste
+    lov_forbrugerklageloven -.->|hjemmel_for| org_ankenaevnet_for_forsikring
+    lov_forbrugerklageloven -.->|hjemmel_for| org_byggeriets_ankenaevn
+    lov_forbrugerklageloven -.->|hjemmel_for| org_ankenaevnet_for_bus_tog_og_metro
+    lov_forbrugerklageloven -.->|hjemmel_for| naevn_ankenaevnet_paa_energiomraadet
+    min_erhverv -->|ressortansvar| sty_patent_og_varemaerkestyrelsen
+    min_erhverv -.->|ressortansvar| naevn_ankenaevnet_patenter_varemaerker
+    min_erhverv -.->|ressortansvar| naevn_revisornaevnet
+    min_erhverv -.->|ressortansvar| naevn_disciplinaernaevnet_ejendomsmaeglere
+    min_erhverv -.->|ressortansvar| naevn_bygningssagkyndige
+    min_erhverv -.->|ressortansvar| lov_patentloven
+    min_erhverv -.->|ressortansvar| lov_varemaerkeloven
+    min_erhverv -.->|ressortansvar| lov_designloven
+    min_erhverv -.->|ressortansvar| lov_revisorloven
+    min_erhverv -.->|ressortansvar| lov_ejendomsformidling
+    min_erhverv -.->|ressortansvar| lov_selskabsloven
+    min_erhverv -.->|ressortansvar| lov_aarsregnskabsloven
+    min_erhverv -->|ressortansvar| lov_beskikkede_bygningssagkyndige
+    min_erhverv -.->|ressortansvar| bek_ankenaevnet_patenter_varemaerker
+    min_erhverv -.->|ressortansvar| bek_revisornaevnet
+    min_erhverv -.->|ressortansvar| bek_disciplinaernaevnet_ejendomsmaeglere
+    min_erhverv -.->|ressortansvar| bek_bygningssagkyndige_naevn
+    lov_patentloven -->|hjemmel_for| sty_patent_og_varemaerkestyrelsen
+    lov_patentloven -->|hjemmel_for| naevn_ankenaevnet_patenter_varemaerker
+    lov_patentloven -->|hjemmel_for| bek_ankenaevnet_patenter_varemaerker
+    lov_revisorloven -->|hjemmel_for| naevn_revisornaevnet
+    lov_revisorloven -->|hjemmel_for| bek_revisornaevnet
+    lov_revisorloven -->|hjemmel_for| sty_erhvervsstyrelsen
+    lov_ejendomsformidling -.->|hjemmel_for| naevn_disciplinaernaevnet_ejendomsmaeglere
+    lov_ejendomsformidling -->|hjemmel_for| bek_disciplinaernaevnet_ejendomsmaeglere
+    lov_beskikkede_bygningssagkyndige -->|hjemmel_for| naevn_bygningssagkyndige
+    lov_beskikkede_bygningssagkyndige -->|hjemmel_for| bek_bygningssagkyndige_naevn
+    naevn_ankenaevnet_patenter_varemaerker -.->|klageinstans| sty_patent_og_varemaerkestyrelsen
+    dom_domstolene -->|klageinstans| naevn_ankenaevnet_patenter_varemaerker
+    dom_domstolene -->|klageinstans| naevn_revisornaevnet
+    dom_domstolene -->|klageinstans| naevn_disciplinaernaevnet_ejendomsmaeglere
+    dom_domstolene -->|klageinstans| naevn_bygningssagkyndige
+    sty_erhvervsstyrelsen -->|tilsyn| org_godkendte_revisorer
+    sty_naevnenes_hus -->|udsteder| kilde_apv_afgoerelser
+    sty_naevnenes_hus -->|udsteder| kilde_rn_kendelser
+    sty_naevnenes_hus -->|udsteder| kilde_dnfe_kendelser
+    naevn_revisornaevnet -->|udsteder| kilde_rn_kendelser
+    naevn_disciplinaernaevnet_ejendomsmaeglere -->|udsteder| kilde_dnfe_kendelser
+    min_erhverv -.->|ressortansvar| naevn_ankenaevn_oplaeringsvirksomheder
+    min_erhverv -.->|ressortansvar| bek_ankenaevn_praktikvirksomheder
+    lov_erhvervsuddannelser -->|hjemmel_for| naevn_ankenaevn_oplaeringsvirksomheder
+    lov_erhvervsuddannelser -->|hjemmel_for| bek_ankenaevn_praktikvirksomheder
+    bek_ankenaevn_praktikvirksomheder -->|hjemmel_for| naevn_ankenaevn_oplaeringsvirksomheder
+    lov_forbrugerklageloven -->|hjemmel_for| bek_gebyrer_godkendte_private_ankenaevn
+    lov_forbrugerklageloven -->|hjemmel_for| bek_godkendelse_private_tvistloesningsorganer
+    lov_revisorloven -->|implementerer_EU| eu_dir_2005_36
+    lov_ejendomsformidling -->|hjemmel_for| bek_bygningssagkyndige_naevn
+    lov_selskabsloven -->|implementerer_EU| eu_dir_2015_849
+    lov_beskikkede_bygningssagkyndige -->|implementerer_EU| eu_dir_2005_36
     bek_risiko -->|implementerer_EU| eu_dir_2012_18
     bek_faerdselsstyrelsen_opgaver -->|hjemmel_for| sty_faerdselsstyrelsen
 ```

@@ -1,0 +1,964 @@
+[
+ {
+  "hvor": "sty-stuk.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/700",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/624",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-stuk.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://stukuvm.dk/tilsyn/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-stuk.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://stukuvm.dk/om-styrelsen/styrelsens-formaal-og-kerneopgaver/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-stil.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://stil.dk/om-styrelsen/styrelsens-maal-og-opgaver/maal_ansvarsomraader_og_retning/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-stil.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://stil.dk/om-styrelsen/styrelsens-maal-og-opgaver/maal_ansvarsomraader_og_retning/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-stil.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://stil.dk/om-styrelsen/organisation/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-klagenaevnet-specialundervisning.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/870",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/870",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-klagenaevnet-specialundervisning.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://ast.dk/naevn/klagenaevnet-for-specialundervisning/meddelelser-om-praksis-fra-klagenaevnet-for-specialundervisning",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-klagenaevnet-specialundervisning.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://ast.dk/naevn/klagenaevnet-for-specialundervisning",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-forretningsorden-klagenaevnet-specialundervisning.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/998",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-forretningsorden-klagenaevnet-specialundervisning.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "164588",
+   "DocumentTitle": "Bekendtgørelse om forretningsorden for Klagenævnet for Specialundervisning",
+   "Year": "2014",
+   "DiesSigni": "2014-09-15",
+   "Status": "Valid",
+   "Number": "998",
+   "Ministry": "Børne- og Undervisningsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-forretningsorden-klagenaevnet-specialundervisning.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "164588",
+   "DocumentTitle": "Bekendtgørelse om forretningsorden for Klagenævnet for Specialundervisning",
+   "Year": "2014",
+   "DiesSigni": "2014-09-15",
+   "Status": "Valid",
+   "Number": "998",
+   "Ministry": "Børne- og Undervisningsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-forretningsorden-klagenaevnet-specialundervisning.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "164588",
+   "DocumentTitle": "Bekendtgørelse om forretningsorden for Klagenævnet for Specialundervisning",
+   "Year": "2014",
+   "DiesSigni": "2014-09-15",
+   "Status": "Valid",
+   "Number": "998",
+   "Ministry": "Børne- og Undervisningsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2014/998",
+   "lovtidende": "BEK nr 998 af 15/09/2014"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "naevn-ankenaevn-oplaeringsvirksomheder.tidligere_navne[Ankenævnet vedrørende Praktikvirksomheder]",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2007/1517",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-ankenaevn-oplaeringsvirksomheder.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/381",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/381",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-ankenaevn-oplaeringsvirksomheder.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2007/1517",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-ankenaevn-praktikvirksomheder.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2007/1517",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-ankenaevn-praktikvirksomheder.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "113991",
+   "DocumentTitle": "Bekendtgørelse om Ankenævnet vedrørende Praktikvirksomheder",
+   "Year": "2007",
+   "DiesSigni": "2007-12-13",
+   "Status": "Valid",
+   "Number": "1517",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-ankenaevn-praktikvirksomheder.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "113991",
+   "DocumentTitle": "Bekendtgørelse om Ankenævnet vedrørende Praktikvirksomheder",
+   "Year": "2007",
+   "DiesSigni": "2007-12-13",
+   "Status": "Valid",
+   "Number": "1517",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-ankenaevn-praktikvirksomheder.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "113991",
+   "DocumentTitle": "Bekendtgørelse om Ankenævnet vedrørende Praktikvirksomheder",
+   "Year": "2007",
+   "DiesSigni": "2007-12-13",
+   "Status": "Valid",
+   "Number": "1517",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2007/1517",
+   "lovtidende": "BEK nr 1517 af 13/12/2007"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-folkeskoleloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "257891",
+   "DocumentTitle": "Bekendtgørelse af lov om folkeskolen",
+   "Year": "2026",
+   "DiesSigni": "2026-09-29",
+   "Status": "Valid",
+   "Number": "870",
+   "PopularTitle": "Folkeskoleloven",
+   "Ministry": "Undervisningsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-folkeskoleloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "257891",
+   "DocumentTitle": "Bekendtgørelse af lov om folkeskolen",
+   "Year": "2026",
+   "DiesSigni": "2026-09-29",
+   "Status": "Valid",
+   "Number": "870",
+   "PopularTitle": "Folkeskoleloven",
+   "Ministry": "Undervisningsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-folkeskoleloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "257891",
+   "DocumentTitle": "Bekendtgørelse af lov om folkeskolen",
+   "Year": "2026",
+   "DiesSigni": "2026-09-29",
+   "Status": "Valid",
+   "Number": "870",
+   "PopularTitle": "Folkeskoleloven",
+   "Ministry": "Undervisningsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-folkeskoleloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "257891",
+   "DocumentTitle": "Bekendtgørelse af lov om folkeskolen",
+   "Year": "2026",
+   "DiesSigni": "2026-09-29",
+   "Status": "Valid",
+   "Number": "870",
+   "PopularTitle": "Folkeskoleloven",
+   "Ministry": "Undervisningsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2026/870",
+   "lovtidende": "LBK nr 870 af 29/09/2026"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-friskoleloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "257119",
+   "DocumentTitle": "Bekendtgørelse af lov om friskoler og private grundskoler m.v.",
+   "Year": "2026",
+   "DiesSigni": "2026-08-13",
+   "Status": "Valid",
+   "Number": "700",
+   "PopularTitle": "Friskoleloven",
+   "Ministry": "Undervisningsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-friskoleloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "257119",
+   "DocumentTitle": "Bekendtgørelse af lov om friskoler og private grundskoler m.v.",
+   "Year": "2026",
+   "DiesSigni": "2026-08-13",
+   "Status": "Valid",
+   "Number": "700",
+   "PopularTitle": "Friskoleloven",
+   "Ministry": "Undervisningsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-friskoleloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "257119",
+   "DocumentTitle": "Bekendtgørelse af lov om friskoler og private grundskoler m.v.",
+   "Year": "2026",
+   "DiesSigni": "2026-08-13",
+   "Status": "Valid",
+   "Number": "700",
+   "PopularTitle": "Friskoleloven",
+   "Ministry": "Undervisningsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-friskoleloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "257119",
+   "DocumentTitle": "Bekendtgørelse af lov om friskoler og private grundskoler m.v.",
+   "Year": "2026",
+   "DiesSigni": "2026-08-13",
+   "Status": "Valid",
+   "Number": "700",
+   "PopularTitle": "Friskoleloven",
+   "Ministry": "Undervisningsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2026/700",
+   "lovtidende": "LBK nr 700 af 13/08/2026"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-gymnasieloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "256719",
+   "DocumentTitle": "Bekendtgørelse af lov om de gymnasiale uddannelser",
+   "Year": "2026",
+   "DiesSigni": "2026-06-18",
+   "Status": "Valid",
+   "Number": "624",
+   "Ministry": "Undervisningsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-gymnasieloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "256719",
+   "DocumentTitle": "Bekendtgørelse af lov om de gymnasiale uddannelser",
+   "Year": "2026",
+   "DiesSigni": "2026-06-18",
+   "Status": "Valid",
+   "Number": "624",
+   "Ministry": "Undervisningsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-gymnasieloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "256719",
+   "DocumentTitle": "Bekendtgørelse af lov om de gymnasiale uddannelser",
+   "Year": "2026",
+   "DiesSigni": "2026-06-18",
+   "Status": "Valid",
+   "Number": "624",
+   "Ministry": "Undervisningsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-gymnasieloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "256719",
+   "DocumentTitle": "Bekendtgørelse af lov om de gymnasiale uddannelser",
+   "Year": "2026",
+   "DiesSigni": "2026-06-18",
+   "Status": "Valid",
+   "Number": "624",
+   "Ministry": "Undervisningsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2026/624",
+   "lovtidende": "LBK nr 624 af 18/06/2026"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-institutioner-almengymnasiale.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "255850",
+   "DocumentTitle": "Bekendtgørelse af lov om institutioner for almengymnasiale uddannelser og almen voksenuddannelse m.v.",
+   "Year": "2026",
+   "DiesSigni": "2026-03-05",
+   "Status": "Valid",
+   "Number": "366",
+   "Ministry": "Børne- og Undervisningsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-institutioner-almengymnasiale.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "255850",
+   "DocumentTitle": "Bekendtgørelse af lov om institutioner for almengymnasiale uddannelser og almen voksenuddannelse m.v.",
+   "Year": "2026",
+   "DiesSigni": "2026-03-05",
+   "Status": "Valid",
+   "Number": "366",
+   "Ministry": "Børne- og Undervisningsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-institutioner-almengymnasiale.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "255850",
+   "DocumentTitle": "Bekendtgørelse af lov om institutioner for almengymnasiale uddannelser og almen voksenuddannelse m.v.",
+   "Year": "2026",
+   "DiesSigni": "2026-03-05",
+   "Status": "Valid",
+   "Number": "366",
+   "Ministry": "Børne- og Undervisningsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-institutioner-almengymnasiale.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "255850",
+   "DocumentTitle": "Bekendtgørelse af lov om institutioner for almengymnasiale uddannelser og almen voksenuddannelse m.v.",
+   "Year": "2026",
+   "DiesSigni": "2026-03-05",
+   "Status": "Valid",
+   "Number": "366",
+   "Ministry": "Børne- og Undervisningsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2026/366",
+   "lovtidende": "LBK nr 366 af 05/03/2026"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "kilde-k-meddelelser-specialundervisning.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://ast.dk/naevn/klagenaevnet-for-specialundervisning/meddelelser-om-praksis-fra-klagenaevnet-for-specialundervisning",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-k-meddelelser-specialundervisning.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://ast.dk/naevn/klagenaevnet-for-specialundervisning/meddelelser-om-praksis-fra-klagenaevnet-for-specialundervisning",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-k-meddelelser-specialundervisning.adgang",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://ast.dk/naevn/klagenaevnet-for-specialundervisning/meddelelser-om-praksis-fra-klagenaevnet-for-specialundervisning",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-k-meddelelser-specialundervisning.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://ast.dk/naevn/klagenaevnet-for-specialundervisning/meddelelser-om-praksis-fra-klagenaevnet-for-specialundervisning",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-k-meddelelser-specialundervisning.opdatering",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://ast.dk/naevn/klagenaevnet-for-specialundervisning/meddelelser-om-praksis-fra-klagenaevnet-for-specialundervisning",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-stuk-tilsynsberetninger.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://stukuvm.dk/tilsyn/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-stuk-tilsynsberetninger.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://stukuvm.dk/tilsyn/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-stuk-tilsynsberetninger.adgang",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://stukuvm.dk/tilsyn/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-stuk-tilsynsberetninger.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://uvm.dk/aktuelt/nyheder/2025/september/251109-styrelsen-for-undervisning-og-kvalitet-offentliggoer-sin-tilsynsberetning-for-2024/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-stuk-tilsynsberetninger.opdatering",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://uvm.dk/aktuelt/nyheder/2025/september/251109-styrelsen-for-undervisning-og-kvalitet-offentliggoer-sin-tilsynsberetning-for-2024/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-undervisning|ressortansvar|sty-stuk",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://stukuvm.dk/om-styrelsen/organisation/",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://uvm.dk/ministeriet/om-ministeriet/organisationen-i-ministeriet/styrelsen-for-undervisning-og-kvalitets-organisationsdiagram/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-undervisning|ressortansvar|sty-stil",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://stil.dk/om-styrelsen/organisation/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-undervisning|ressortansvar|naevn-klagenaevnet-specialundervisning",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/870",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/998",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-undervisning|ressortansvar|bek-forretningsorden-klagenaevnet-specialundervisning",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/998",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-undervisning|ressortansvar|lov-folkeskoleloven",
+  "sikkerhed": "verificeret",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/870",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "Undervisningsministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-undervisning|ressortansvar|lov-friskoleloven",
+  "sikkerhed": "verificeret",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/700",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "Undervisningsministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-undervisning|ressortansvar|lov-gymnasieloven",
+  "sikkerhed": "verificeret",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/624",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "Undervisningsministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-undervisning|ressortansvar|lov-institutioner-almengymnasiale",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/366",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|naevn-ankenaevn-oplaeringsvirksomheder",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/381",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|bek-ankenaevn-praktikvirksomheder",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2007/1517",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-folkeskoleloven|hjemmel_for|naevn-klagenaevnet-specialundervisning",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/870",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-folkeskoleloven|hjemmel_for|bek-forretningsorden-klagenaevnet-specialundervisning",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/998",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant naevn-klagenaevnet-specialundervisning|klageinstans|kommune-alle",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/870",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-stuk|udsteder|kilde-stuk-tilsynsberetninger",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://stukuvm.dk/tilsyn/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant naevn-klagenaevnet-specialundervisning|udsteder|kilde-k-meddelelser-specialundervisning",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://ast.dk/naevn/klagenaevnet-for-specialundervisning/meddelelser-om-praksis-fra-klagenaevnet-for-specialundervisning",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-erhvervsuddannelser|hjemmel_for|naevn-ankenaevn-oplaeringsvirksomheder",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/381",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-erhvervsuddannelser|hjemmel_for|bek-ankenaevn-praktikvirksomheder",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2007/1517",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-ankenaevn-praktikvirksomheder|hjemmel_for|naevn-ankenaevn-oplaeringsvirksomheder",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2007/1517",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-friskoleloven|hjemmel_for|sty-stuk",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/700",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-gymnasieloven|hjemmel_for|sty-stuk",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/624",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ }
+]

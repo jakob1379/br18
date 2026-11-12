@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 77 · kanter: 123
+Noder: 83 · kanter: 130
 
 ```mermaid
 flowchart LR
@@ -27,6 +27,7 @@ flowchart LR
     sty_politiklagemyndigheden["Den Uafhængige Politiklagemyndighed (Politiklagemyndigheden)"]:::instans
     raad_det_dyreetiske_raad["Det Dyreetiske Råd"]:::instans
     sty_domstolsstyrelsen["Domstolsstyrelsen"]:::instans
+    sty_familieretshuset["Familieretshuset"]:::instans
     sty_politikredsene["Politikredsene (politidirektørerne)"]:::instans
     sty_rigsadvokaten["Rigsadvokaten"]:::instans
     sty_rigspolitiet["Rigspolitiet"]:::instans
@@ -50,6 +51,7 @@ flowchart LR
     dom_byretterne["Byretterne"]:::klage
     dom_domstolene["Domstolene (byret, landsret, Højesteret)"]:::klage
     naevn_erstatningsnaevnet["Erstatningsnævnet"]:::klage
+    ombud_forbrugerombudsmanden["Forbrugerombudsmanden"]:::klage
     dom_hoejesteret["Højesteret"]:::klage
     dom_landsretterne["Landsretterne (Østre og Vestre Landsret)"]:::klage
     naevn_ligebehandlingsnaevnet["Ligebehandlingsnævnet"]:::klage
@@ -76,7 +78,10 @@ flowchart LR
     lov_ungdomskriminalitetsloven["Lov om bekæmpelse af ungdomskriminalitet"]:::retsakt
     lov_dyrevelfaerdsloven["Lov om dyrevelfærd (dyrevelfærdsloven)"]:::retsakt
     lov_offererstatningsloven["Lov om erstatning fra staten til ofre for forbrydelser (offererstatningsloven)"]:::retsakt
+    lov_forbrugeraftaleloven["Lov om forbrugeraftaler (forbrugeraftaleloven)"]:::retsakt
     lov_straffuldbyrdelsesloven["Lov om fuldbyrdelse af straf m.v. (straffuldbyrdelsesloven)"]:::retsakt
+    lov_koebeloven["Lov om køb (købeloven)"]:::retsakt
+    lov_markedsfoeringsloven["Lov om markedsføring (markedsføringsloven)"]:::retsakt
     lov_offentlighedsloven["Lov om offentlighed i forvaltningen (offentlighedsloven)"]:::retsakt
     lov_politiloven["Lov om politiets virksomhed (politiloven)"]:::retsakt
     lov_retssikkerhedsloven_tvangsindgreb["Lov om retssikkerhed ved forvaltningens anvendelse af tvangsindgreb og oplysningspligter"]:::retsakt
@@ -91,6 +96,7 @@ flowchart LR
     vejl_forvaltningsloven["Vejledning om forvaltningsloven (Justitsministeriet)"]:::retsakt
     vejl_offentlighedsloven["Vejledning om lov om offentlighed i forvaltningen (Justitsministeriet)"]:::retsakt
     vejl_lovkvalitet["Vejledning om lovkvalitet (Justitsministeriet)"]:::retsakt
+    lov_vaergemaalsloven["Værgemålsloven"]:::retsakt
     bek_domsdatabasen -->|henviser_til| kilde_domsdatabasen
     cirk_retsinformation_afgoerelser -->|henviser_til| kilde_retsinformation
     cirk_rigsadvokatmeddelelsen_arbejdsmiljoe -->|henviser_til| lov_arbejdsmiljoeloven
@@ -210,6 +216,13 @@ flowchart LR
     lov_forvaltningsloven -->|hjemmel_for| bek_energimaerkning
     lov_forvaltningsloven -->|hjemmel_for| bek_lag
     lov_politiloven -->|hjemmel_for| bek_risiko
+    min_justits -.->|ressortansvar| lov_forbrugeraftaleloven
+    min_justits -->|ressortansvar| lov_koebeloven
+    lov_forbrugeraftaleloven -->|hjemmel_for| ombud_forbrugerombudsmanden
+    lov_forbrugeraftaleloven -->|henviser_til| lov_markedsfoeringsloven
+    min_justits -.->|ressortansvar| lov_vaergemaalsloven
+    lov_vaergemaalsloven -->|hjemmel_for| sty_familieretshuset
+    sty_civilstyrelsen -->|klageinstans| sty_familieretshuset
     bek_energimaerkning -->|implementerer_EU| eu_dir_2010_31
     bek_risiko -->|implementerer_EU| eu_dir_2012_18
     bek_energimaerkning -->|implementerer_EU| eu_dir_2005_36

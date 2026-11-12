@@ -31,12 +31,16 @@ flowchart LR
     min_social["Socialministeriet"]:::ministerium
     min_sundhed_og_kirke["Sundheds- og Kirkeministeriet"]:::ministerium
     min_udlaendinge_og_integration["Udlændinge- og Integrationsministeriet"]:::ministerium
+    min_undervisning["Undervisningsministeriet"]:::ministerium
     min_oekonomi_og_indenrigs["Økonomi- og Indenrigsministeriet"]:::ministerium
     sty_administrations_og_servicestyrelsen["Administrations- og Servicestyrelsen"]:::instans
+    naevn_adoptionsnaevnet["Adoptionsnævnet"]:::klage
     naevn_ankenaevn_atp["Ankenævnet for Arbejdsmarkedets Tillægspension"]:::klage
+    naevn_ankenaevnet_patenter_varemaerker["Ankenævnet for Patenter og Varemærker"]:::klage
     naevn_ankenaevnet_for_patienterstatningen["Ankenævnet for Patienterstatningen"]:::klage
     naevn_ankenaevnet_for_soefartsforhold["Ankenævnet for Søfartsforhold"]:::klage
     naevn_ankenaevnet_for_tilsynsafgoerelser["Ankenævnet for Tilsynsafgørelser"]:::klage
+    naevn_ankenaevn_oplaeringsvirksomheder["Ankenævnet vedrørende Oplæringsvirksomheder (tidl. Ankenævnet vedrørende Praktikvirksomheder)"]:::klage
     sty_ankestyrelsen["Ankestyrelsen"]:::instans
     org_arbejdsmarkedets_erhvervssikring["Arbejdsmarkedets Erhvervssikring (AES)"]:::instans
     org_atp["Arbejdsmarkedets Tillægspension (ATP)"]:::instans
@@ -69,6 +73,8 @@ flowchart LR
     raad_det_systemiske_risikoraad["Det Systemiske Risikoråd"]:::instans
     raad_det_saerlige_bygningssyn["Det Særlige Bygningssyn"]:::instans
     raad_det_veterinaere_sundhedsraad["Det Veterinære Sundhedsråd"]:::instans
+    naevn_bygningssagkyndige["Disciplinær- og klagenævnet for beskikkede bygningssagkyndige"]:::klage
+    naevn_disciplinaernaevnet_ejendomsmaeglere["Disciplinærnævnet for Ejendomsmæglere"]:::klage
     sty_domstolsstyrelsen["Domstolsstyrelsen"]:::instans
     tilsyn_dyreforsoegstilsynet["Dyreforsøgstilsynet og Rådet for Dyreforsøg"]:::instans
     naevn_energiklagenaevnet["Energiklagenævnet"]:::klage
@@ -78,10 +84,13 @@ flowchart LR
     naevn_erhvervsankenaevnet["Erhvervsankenævnet"]:::klage
     sty_erhvervsstyrelsen["Erhvervsstyrelsen"]:::instans
     naevn_erstatningsnaevnet["Erstatningsnævnet"]:::klage
+    sty_familieretshuset["Familieretshuset"]:::instans
     org_finansiel_stabilitet["Finansiel Stabilitet"]:::instans
     sty_finanstilsynet["Finanstilsynet"]:::instans
     naevn_flygtningenaevnet["Flygtningenævnet"]:::klage
     fond_blandede_byer["Fonden for blandede byer"]:::instans
+    naevn_forbrugerklagenaevnet["Forbrugerklagenævnet"]:::klage
+    ombud_forbrugerombudsmanden["Forbrugerombudsmanden"]:::klage
     tilsyn_forsyningstilsynet["Forsyningstilsynet"]:::instans
     naevn_fredningsnaevn["Fredningsnævnene"]:::klage
     sty_faerdselsstyrelsen["Færdselsstyrelsen"]:::instans
@@ -93,6 +102,7 @@ flowchart LR
     sty_hjemrejsestyrelsen["Hjemrejsestyrelsen"]:::instans
     naevn_huslejenaevn["Huslejenævn (kommunale)"]:::klage
     naevn_jernbanenaevnet["Jernbanenævnet"]:::klage
+    naevn_klagenaevnet_specialundervisning["Klagenævnet for Specialundervisning"]:::klage
     naevn_klagenaevnet_for_udbud["Klagenævnet for Udbud"]:::klage
     sty_klimadatastyrelsen["Klimadatastyrelsen"]:::instans
     raad_klimaraadet["Klimarådet"]:::instans
@@ -116,11 +126,13 @@ flowchart LR
     naevn_natur_og_miljoeklagenaevnet["Natur- og Miljøklagenævnet (nedlagt)"]:::nedlagt
     sty_naturstyrelsen["Naturstyrelsen"]:::instans
     sty_naevnenes_hus["Nævnenes Hus"]:::instans
+    sty_patent_og_varemaerkestyrelsen["Patent- og Varemærkestyrelsen"]:::instans
     org_patienterstatningen["Patienterstatningen"]:::kilde
     sty_plan_og_landdistriktsstyrelsen["Plan- og Landdistriktsstyrelsen"]:::instans
     naevn_planklagenaevnet["Planklagenævnet"]:::klage
     sty_planstyrelsen["Planstyrelsen (nedlagt)"]:::nedlagt
     sty_politikredsene["Politikredsene (politidirektørerne)"]:::instans
+    naevn_revisornaevnet["Revisornævnet"]:::klage
     sty_rigsadvokaten["Rigsadvokaten"]:::instans
     sty_rigspolitiet["Rigspolitiet"]:::instans
     raad_el_og_gasteknisk_sikkerhed["Rådet for El- og Gasteknisk Sikkerhed"]:::instans
@@ -142,9 +154,11 @@ flowchart LR
     sty_styrelsen_for_forsyningssikkerhed["Styrelsen for Forsyningssikkerhed (nedlagt)"]:::nedlagt
     sty_groen_arealomlaegning_og_vandmiljoe["Styrelsen for Grøn Arealomlægning og Vandmiljø (SGAV)"]:::instans
     sty_siri["Styrelsen for International Rekruttering og Integration (SIRI)"]:::instans
+    sty_stil["Styrelsen for It og Læring (STIL)"]:::instans
     sty_styrelsen_for_patientklager["Styrelsen for Patientklager"]:::instans
     sty_styrelsen_for_patientsikkerhed["Styrelsen for Patientsikkerhed"]:::instans
     sty_styrelsen_for_samfundssikkerhed["Styrelsen for Samfundssikkerhed"]:::instans
+    sty_stuk["Styrelsen for Undervisning og Kvalitet (STUK)"]:::instans
     sty_sundhedsdatastyrelsen["Sundhedsdatastyrelsen"]:::instans
     sty_sundhedsstyrelsen["Sundhedsstyrelsen"]:::instans
     naevn_sundhedsvaesenets_disciplinaernaevn["Sundhedsvæsenets Disciplinærnævn"]:::klage
@@ -308,6 +322,19 @@ flowchart LR
     min_justits -.->|ressortansvar| naevn_ungdomskriminalitetsnaevnet
     min_erhverv -.->|ressortansvar| naevn_tvistighedsnaevnet
     min_social -->|ressortansvar| naevn_ligebehandlingsnaevnet
+    min_erhverv -.->|ressortansvar| ombud_forbrugerombudsmanden
+    min_erhverv -.->|ressortansvar| naevn_forbrugerklagenaevnet
+    min_erhverv -->|ressortansvar| sty_patent_og_varemaerkestyrelsen
+    min_erhverv -.->|ressortansvar| naevn_ankenaevnet_patenter_varemaerker
+    min_erhverv -.->|ressortansvar| naevn_revisornaevnet
+    min_erhverv -.->|ressortansvar| naevn_disciplinaernaevnet_ejendomsmaeglere
+    min_erhverv -.->|ressortansvar| naevn_bygningssagkyndige
+    min_undervisning -->|ressortansvar| sty_stuk
+    min_undervisning -->|ressortansvar| sty_stil
+    min_undervisning -.->|ressortansvar| naevn_klagenaevnet_specialundervisning
+    min_erhverv -.->|ressortansvar| naevn_ankenaevn_oplaeringsvirksomheder
+    min_social -->|ressortansvar| sty_familieretshuset
+    min_social -.->|ressortansvar| naevn_adoptionsnaevnet
 ```
 
 ## Ministerområder

@@ -1,0 +1,998 @@
+{
+  "omraade": "familie-person",
+  "noder": [
+    {
+      "id": "sty-familieretshuset",
+      "navn": "Familieretshuset",
+      "type": "styrelse",
+      "ministerium": "min-social",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Lov om Familieretshuset § 1, stk. 3: Familieretshuset støtter parterne i at finde egne løsninger og indbringer sagen for byretten, der benævnes familieretten, eller træffer afgørelse. § 2 oplister de love, Familieretshuset behandler sager efter (forældreansvarsloven, ægteskabsloven, lov om børns forsørgelse, lov om opkrævning af underholdsbidrag, børneloven, navneloven m.fl.). Visitation: § 5-sager er enkle sager (kapitel 8), § 6-sager er mindre enkle sager (kapitel 9), § 7-sager er komplekse sager efter forældreansvarsloven (kapitel 10). Værgemålsloven § 14: Familieretshuset foretager værgebeskikkelse. Adoptionsloven: Familieretshuset udfærdiger bevilling til adoption af børn, undtagen adoption uden samtykke efter § 9, som Ankestyrelsen afgør.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+            "citat": "I sager omfattet af denne lov støtter Familieretshuset parterne i at finde egne løsninger. Finder parterne ikke en løsning, skal Familieretshuset enten indbringe sagen for byretten, der benævnes familieretten, eller træffe en afgørelse."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+            "citat": "Familieretshuset behandler efter denne lov sager, i det omfang det følger af nedenstående love og bestemmelser m.v.: 1) Forældreansvarsloven. 2) Lov om ægteskabs indgåelse og opløsning. 3) Lov om børns forsørgelse."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+            "citat": "Enkle sager visiteres til behandling efter bestemmelsen i kapitel 8."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+            "citat": "Mindre enkle sager visiteres til behandling efter bestemmelserne i kapitel 9."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+            "citat": "Komplekse sager efter forældreansvarsloven og sager, der bør behandles sammen med sådanne, visiteres til behandling efter bestemmelserne i kapitel 10."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2021/1122",
+            "citat": "Familieretshuset foretager værgebeskikkelse og ændring heraf."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse",
+            "bindende": "bindende",
+            "note": "kan indbringes for familieretten inden 4 uger, lov om Familieretshuset §§ 39 og 41; kan ikke påklages til højere administrativ myndighed"
+          },
+          {
+            "type": "registrering, notering af aftale og bevilling",
+            "bindende": "bindende",
+            "note": "kan ikke indbringes for familieretten efter lov om Familieretshuset § 40, men Familieretshuset skal efter anmodning genoptage sagen"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+            "citat": "Afgørelse truffet af Familieretshuset indbringes efter anmodning fra en part for familieretten, jf. dog §§ 40 og 41."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+            "citat": "Familieretshusets registrering eller notering af en aftale eller udstedelse af en bevilling kan ikke indbringes for familieretten efter reglerne i denne lov."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://familieretshuset.dk/",
+        "belaeg": [
+          {
+            "url": "https://familieretshuset.dk/om-familieretshuset/",
+            "citat": "Familieretshuset behandler overordnet sager om brud og overgange i familien."
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Familieretshusets afgørelse af [dato]",
+        "Familieretshuset j.nr. [nummer]",
+        "§ 41 i lov om Familieretshuset",
+        "lov om Familieretshuset § 39"
+      ],
+      "note": "Hører organisatorisk under Socialministeriet pr. nov. 2026 (organisationssiden). Familieretshusets forside og Retsinformations ministeriefelt for lov om Familieretshuset og børneloven bruger stadig 'Social- og Boligministeriet'. Hovedkontor Aabenraa. Navngiver også kommunale personregisterføreres klageinstans efter navneloven § 21, stk. 1 (ikke kantmodelleret: personregisterfører er ikke en node). Efterfølger for Statsforvaltningens familieretlige opgaver fra 1/4/2019 (overgangsbestemmelser i loven § 47). Klage til Ankestyrelsen er ikke hjemlet i lov om Familieretshuset; undtagelserne ligger i social-/servicelovgivningen (flytning uden samtykke), uden for dette område."
+    },
+    {
+      "id": "naevn-adoptionsnaevnet",
+      "navn": "Adoptionsnævnet",
+      "type": "nævn",
+      "ministerium": "min-social",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Adoptionsloven § 25 b: nævn med formand, næstformand og andre medlemmer; samrådets afgørelser kan indbringes for nævnet inden 6 måneder, og nævnet fører tilsyn med adoptionssamrådet (stk. 3-4). Bekendtgørelse 1754/2024 (forretningsorden) § 2: nævnet behandler klager over samrådenes afgørelser og fører tilsyn med samrådene.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/669",
+            "citat": "Adoptionsnævnet består af en formand, en næstformand og et antal andre medlemmer."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/669",
+            "citat": "Samrådets afgørelser i medfør af denne lov kan indbringes for Adoptionsnævnet inden 6 måneder efter samrådets afgørelse."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/669",
+            "citat": "Adoptionsnævnet fører tilsyn med samrådet."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1754",
+            "citat": "At behandle klager over afgørelser, der er truffet af adoptionssamrådene, jf. kapitel 4, og føre tilsyn med adoptionssamrådene, jf. kapitel 5."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse i klagesager",
+            "bindende": "bindende"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1754",
+            "citat": "Nævnet træffer i klagesager afgørelse ved mundtlig behandling på plenummøder"
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Adoptionsnævnets afgørelse af [dato]",
+        "BEK nr 1754 af 30/12/2024",
+        "adoptionsloven § 25 b"
+      ],
+      "note": "Ministerium: adoptionsloven (LBK 669/2026) har Socialministeriet som ressort og lader socialministeren fastsætte nævnets forretningsorden; BEK 1754/2024 bærer i Retsinformation stadig 'Social- og Boligministeriet'. Ankestyrelsen yder sekretariatsbistand efter BEK 1754 § 5. Næstformanden skal være jurist ansat i Ankestyrelsen, formanden landsdommer eller højesteretsdommer (adoptionsloven § 25 b). Selve adoptionssamrådene er ikke oprettet som node. Egen hjemmeside ikke fundet (se huller)."
+    },
+    {
+      "id": "lov-familieretshusloven",
+      "navn": "Lov om Familieretshuset",
+      "type": "lov",
+      "ministerium": "min-social",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+            "citat": "Bekendtgørelse af lov om Familieretshuset"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2019/766",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+            "citat": "Bekendtgørelse af lov om Familieretshuset"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2019/766",
+        "lovtidende": "LBK nr. 766 af 07/08/2019",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+            "citat": "Bekendtgørelse af lov om Familieretshuset"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lov-foraeldreansvarsloven",
+      "navn": "Forældreansvarsloven",
+      "type": "lov",
+      "ministerium": "min-social",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/662",
+            "citat": "Bekendtgørelse af forældreansvarsloven"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2026/662",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/662",
+            "citat": "Bekendtgørelse af forældreansvarsloven"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2026/662",
+        "lovtidende": "LBK nr. 662 af 01/07/2026",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/662",
+            "citat": "Bekendtgørelse af forældreansvarsloven"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lov-aegteskabsloven",
+      "navn": "Lov om ægteskabs indgåelse og opløsning",
+      "type": "lov",
+      "ministerium": "min-social",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/663",
+            "citat": "Bekendtgørelse af lov om ægteskabs indgåelse og opløsning"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2026/663",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/663",
+            "citat": "Bekendtgørelse af lov om ægteskabs indgåelse og opløsning"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2026/663",
+        "lovtidende": "LBK nr. 663 af 01/07/2026",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/663",
+            "citat": "Bekendtgørelse af lov om ægteskabs indgåelse og opløsning"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lov-boerneloven",
+      "navn": "Børneloven",
+      "type": "lov",
+      "ministerium": "min-social",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/772",
+            "citat": "Bekendtgørelse af børneloven"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2019/772",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/772",
+            "citat": "Bekendtgørelse af børneloven"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2019/772",
+        "lovtidende": "LBK nr. 772 af 07/08/2019",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/772",
+            "citat": "Bekendtgørelse af børneloven"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lov-adoptionsloven",
+      "navn": "Adoptionsloven",
+      "type": "lov",
+      "ministerium": "min-social",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/669",
+            "citat": "Bekendtgørelse af adoptionsloven"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2026/669",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/669",
+            "citat": "Bekendtgørelse af adoptionsloven"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2026/669",
+        "lovtidende": "LBK nr. 669 af 01/07/2026",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/669",
+            "citat": "Bekendtgørelse af adoptionsloven"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lov-boerns-forsoergelse",
+      "navn": "Lov om børns forsørgelse",
+      "type": "lov",
+      "ministerium": "min-social",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/773",
+            "citat": "Bekendtgørelse af lov om børns forsørgelse"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2019/773",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/773",
+            "citat": "Bekendtgørelse af lov om børns forsørgelse"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2019/773",
+        "lovtidende": "LBK nr. 773 af 07/08/2019",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/773",
+            "citat": "Bekendtgørelse af lov om børns forsørgelse"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lov-navneloven",
+      "navn": "Navneloven",
+      "type": "lov",
+      "ministerium": "min-social",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/1074",
+            "citat": "Bekendtgørelse af navneloven"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2023/1074",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/1074",
+            "citat": "Bekendtgørelse af navneloven"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2023/1074",
+        "lovtidende": "LBK nr. 1074 af 09/08/2023",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/1074",
+            "citat": "Bekendtgørelse af navneloven"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lov-vaergemaalsloven",
+      "navn": "Værgemålsloven",
+      "type": "lov",
+      "ministerium": "min-justits",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2021/1122",
+            "citat": "Bekendtgørelse af værgemålsloven"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2021/1122",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2021/1122",
+            "citat": "Bekendtgørelse af værgemålsloven"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2021/1122",
+        "lovtidende": "LBK nr. 1122 af 28/05/2021",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2021/1122",
+            "citat": "Bekendtgørelse af værgemålsloven"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lov-bidragsopkraevningsloven",
+      "navn": "Lov om opkrævning af underholdsbidrag",
+      "type": "lov",
+      "ministerium": "min-social",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/1092",
+            "citat": "Bekendtgørelse af lov om opkrævning af underholdsbidrag"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2023/1092",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/1092",
+            "citat": "Bekendtgørelse af lov om opkrævning af underholdsbidrag"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2023/1092",
+        "lovtidende": "LBK nr. 1092 af 15/08/2023",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/1092",
+            "citat": "Bekendtgørelse af lov om opkrævning af underholdsbidrag"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bek-adoptionsnaevnet-forretningsorden",
+      "navn": "Bekendtgørelse om forretningsordenen for Adoptionsnævnet (BEK nr. 1754 af 30/12/2024)",
+      "type": "bekendtgørelse",
+      "ministerium": "min-social",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Adoptionsloven § 25, nr. 1 og 2, § 25 b, stk. 1, 5. pkt., stk. 4, 2. pkt., og stk. 5.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1754",
+            "citat": "I medfør af § 25, nr. 1 og 2, § 25 b, stk. 1, 5. pkt., § 25 b, stk. 4, 2. pkt., og § 25 b, stk. 5, i adoptionsloven"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2024/1754",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1754",
+            "citat": "Bekendtgørelse om forretningsordenen for Adoptionsnævnet"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2024/1754",
+        "lovtidende": "BEK nr. 1754 af 30/12/2024",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1754",
+            "citat": "Bekendtgørelse om forretningsordenen for Adoptionsnævnet"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bek-adoption",
+      "navn": "Bekendtgørelse om adoption (BEK nr. 1755 af 30/12/2024)",
+      "type": "bekendtgørelse",
+      "ministerium": "min-social",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Adoptionsloven bl.a. § 4 a, stk. 2, § 8, § 25, nr. 1-5 og § 25 b, stk. 5, samt forældreansvarslovens § 42, nr. 1.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1755",
+            "citat": "I medfør af § 4 a, stk. 2, § 8, stk. 1, 1. pkt., § 8, stk. 5, § 15 c, § 25, nr. 1-5, § 25 b, stk. 5, § 25 c, stk. 2 og 3"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2024/1755",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1755",
+            "citat": "Bekendtgørelse om adoption"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2024/1755",
+        "lovtidende": "BEK nr. 1755 af 30/12/2024",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1755",
+            "citat": "Bekendtgørelse om adoption"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kilde-familieretshuset-lovsamling",
+      "navn": "Familieretshusets lovsamling",
+      "type": "dokumentkilde",
+      "ministerium": "min-social",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://familieretshuset.dk/lovsamling/",
+        "belaeg": [
+          {
+            "url": "https://familieretshuset.dk/lovsamling/",
+            "citat": "På denne side kan du finde en samling af alle love, bekendtgørelser, cirkulæreskrivelser og konventioner for Familieretshusets forskellige fagområder."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "lov",
+            "bindende": "bindende",
+            "note": "oversigt over gældende love, bekendtgørelser, cirkulæreskrivelser og konventioner"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://familieretshuset.dk/lovsamling/",
+            "citat": "På denne side kan du finde en samling af alle love, bekendtgørelser, cirkulæreskrivelser og konventioner for Familieretshusets forskellige fagområder."
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML"
+        ],
+        "note": "Webside med undersider pr. fagområde (adoption, bidrag, faderskab, forældreansvar, navne, skilsmisse og separation, værgemål m.fl.); ingen API set.",
+        "belaeg": [
+          {
+            "url": "https://familieretshuset.dk/lovsamling/",
+            "citat": "Lovsamling adoption. Her kan du finde en samling af alle love, bekendtgørelser, cirkulæreskrivelser og konventioner for adoptionsområdet."
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 2,
+        "besvaer": 2,
+        "begrundelse": "Kun henvisningsside til love, der alligevel ligger på Retsinformation; ingen afgørelser eller vejledningstekst set."
+      }
+    }
+  ],
+  "kanter": [
+    {
+      "from": "min-social",
+      "type": "ressortansvar",
+      "to": "sty-familieretshuset",
+      "beskrivelse": "Styrelse under Socialministeriet.",
+      "belaeg": [
+        {
+          "url": "https://familieretshuset.dk/om-familieretshuset/organisation/",
+          "citat": "Familieretshuset hører organisatorisk under Socialministeriet med Monika Rubin som socialminister."
+        }
+      ]
+    },
+    {
+      "from": "min-social",
+      "type": "ressortansvar",
+      "to": "naevn-adoptionsnaevnet",
+      "beskrivelse": "Adoptionsloven § 25 b: socialministeren fastsætter nævnets forretningsorden.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/669",
+          "citat": "Socialministeren fastsætter forretningsordenen for nævnet."
+        }
+      ]
+    },
+    {
+      "from": "min-social",
+      "type": "ressortansvar",
+      "to": "lov-familieretshusloven",
+      "beskrivelse": "Loven hører under socialministeren. Retsinformations ministeriefelt kan for dette dokument stadig stå som Social- og Boligministeriet (ældre navn); Familieretshusets organisationsside viser Socialministeriet i dag, og lovene fra 1/7/2026 (forældreansvarsloven, ægteskabsloven, adoptionsloven) har Socialministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+          "citat": "Bekendtgørelse af lov om Familieretshuset"
+        }
+      ]
+    },
+    {
+      "from": "min-social",
+      "type": "ressortansvar",
+      "to": "lov-foraeldreansvarsloven",
+      "beskrivelse": "Loven hører under socialministeren. Retsinformations ministeriefelt kan for dette dokument stadig stå som Social- og Boligministeriet (ældre navn); Familieretshusets organisationsside viser Socialministeriet i dag, og lovene fra 1/7/2026 (forældreansvarsloven, ægteskabsloven, adoptionsloven) har Socialministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/662",
+          "citat": "Bekendtgørelse af forældreansvarsloven"
+        }
+      ]
+    },
+    {
+      "from": "min-social",
+      "type": "ressortansvar",
+      "to": "lov-aegteskabsloven",
+      "beskrivelse": "Loven hører under socialministeren. Retsinformations ministeriefelt kan for dette dokument stadig stå som Social- og Boligministeriet (ældre navn); Familieretshusets organisationsside viser Socialministeriet i dag, og lovene fra 1/7/2026 (forældreansvarsloven, ægteskabsloven, adoptionsloven) har Socialministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/663",
+          "citat": "Bekendtgørelse af lov om ægteskabs indgåelse og opløsning"
+        }
+      ]
+    },
+    {
+      "from": "min-social",
+      "type": "ressortansvar",
+      "to": "lov-boerneloven",
+      "beskrivelse": "Loven hører under socialministeren. Retsinformations ministeriefelt kan for dette dokument stadig stå som Social- og Boligministeriet (ældre navn); Familieretshusets organisationsside viser Socialministeriet i dag, og lovene fra 1/7/2026 (forældreansvarsloven, ægteskabsloven, adoptionsloven) har Socialministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2019/772",
+          "citat": "Bekendtgørelse af børneloven"
+        }
+      ]
+    },
+    {
+      "from": "min-social",
+      "type": "ressortansvar",
+      "to": "lov-adoptionsloven",
+      "beskrivelse": "Loven hører under socialministeren. Retsinformations ministeriefelt kan for dette dokument stadig stå som Social- og Boligministeriet (ældre navn); Familieretshusets organisationsside viser Socialministeriet i dag, og lovene fra 1/7/2026 (forældreansvarsloven, ægteskabsloven, adoptionsloven) har Socialministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/669",
+          "citat": "Bekendtgørelse af adoptionsloven"
+        }
+      ]
+    },
+    {
+      "from": "min-social",
+      "type": "ressortansvar",
+      "to": "lov-boerns-forsoergelse",
+      "beskrivelse": "Loven hører under socialministeren. Retsinformations ministeriefelt kan for dette dokument stadig stå som Social- og Boligministeriet (ældre navn); Familieretshusets organisationsside viser Socialministeriet i dag, og lovene fra 1/7/2026 (forældreansvarsloven, ægteskabsloven, adoptionsloven) har Socialministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2019/773",
+          "citat": "Bekendtgørelse af lov om børns forsørgelse"
+        }
+      ]
+    },
+    {
+      "from": "min-social",
+      "type": "ressortansvar",
+      "to": "lov-navneloven",
+      "beskrivelse": "Loven hører under socialministeren. Retsinformations ministeriefelt kan for dette dokument stadig stå som Social- og Boligministeriet (ældre navn); Familieretshusets organisationsside viser Socialministeriet i dag, og lovene fra 1/7/2026 (forældreansvarsloven, ægteskabsloven, adoptionsloven) har Socialministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2023/1074",
+          "citat": "Bekendtgørelse af navneloven"
+        }
+      ]
+    },
+    {
+      "from": "min-justits",
+      "type": "ressortansvar",
+      "to": "lov-vaergemaalsloven",
+      "beskrivelse": "Loven hører under justitsministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2021/1122",
+          "citat": "Bekendtgørelse af værgemålsloven"
+        }
+      ]
+    },
+    {
+      "from": "min-social",
+      "type": "ressortansvar",
+      "to": "lov-bidragsopkraevningsloven",
+      "beskrivelse": "Loven hører under socialministeren. Retsinformations ministeriefelt kan for dette dokument stadig stå som Social- og Boligministeriet (ældre navn); Familieretshusets organisationsside viser Socialministeriet i dag, og lovene fra 1/7/2026 (forældreansvarsloven, ægteskabsloven, adoptionsloven) har Socialministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2023/1092",
+          "citat": "Bekendtgørelse af lov om opkrævning af underholdsbidrag"
+        }
+      ]
+    },
+    {
+      "from": "min-social",
+      "type": "ressortansvar",
+      "to": "bek-adoptionsnaevnet-forretningsorden",
+      "beskrivelse": "Bekendtgørelse udstedt af socialministeren. Retsinformation viser stadig ældre ministerienavn.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1754",
+          "citat": "Bekendtgørelse om forretningsordenen for Adoptionsnævnet"
+        }
+      ]
+    },
+    {
+      "from": "min-social",
+      "type": "ressortansvar",
+      "to": "bek-adoption",
+      "beskrivelse": "Bekendtgørelse udstedt af socialministeren. Retsinformation viser stadig ældre ministerienavn.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1755",
+          "citat": "Bekendtgørelse om adoption"
+        }
+      ]
+    },
+    {
+      "from": "lov-familieretshusloven",
+      "type": "hjemmel_for",
+      "to": "sty-familieretshuset",
+      "beskrivelse": "§ 1, stk. 3 og § 2: Familieretshuset støtter parterne og indbringer eller afgør sagen.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+          "citat": "Finder parterne ikke en løsning, skal Familieretshuset enten indbringe sagen for byretten, der benævnes familieretten, eller træffe en afgørelse."
+        }
+      ]
+    },
+    {
+      "from": "lov-vaergemaalsloven",
+      "type": "hjemmel_for",
+      "to": "sty-familieretshuset",
+      "beskrivelse": "§ 14: Familieretshuset foretager værgebeskikkelse og ændring heraf.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2021/1122",
+          "citat": "Familieretshuset foretager værgebeskikkelse og ændring heraf."
+        }
+      ]
+    },
+    {
+      "from": "lov-adoptionsloven",
+      "type": "hjemmel_for",
+      "to": "naevn-adoptionsnaevnet",
+      "beskrivelse": "§ 25 b: Adoptionsnævnet er klageinstans for adoptionssamrådene og fører tilsyn med dem.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/669",
+          "citat": "Adoptionsnævnet består af en formand, en næstformand og et antal andre medlemmer."
+        }
+      ]
+    },
+    {
+      "from": "lov-adoptionsloven",
+      "type": "hjemmel_for",
+      "to": "bek-adoptionsnaevnet-forretningsorden",
+      "beskrivelse": "Bekendtgørelsen er udstedt i medfør af adoptionsloven § 25 og § 25 b.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1754",
+          "citat": "I medfør af § 25, nr. 1 og 2, § 25 b, stk. 1, 5. pkt., § 25 b, stk. 4, 2. pkt., og § 25 b, stk. 5, i adoptionsloven"
+        }
+      ]
+    },
+    {
+      "from": "lov-adoptionsloven",
+      "type": "hjemmel_for",
+      "to": "bek-adoption",
+      "beskrivelse": "Bekendtgørelsen er udstedt i medfør af adoptionsloven.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1755",
+          "citat": "I medfør af § 4 a, stk. 2, § 8, stk. 1, 1. pkt., § 8, stk. 5, § 15 c, § 25, nr. 1-5, § 25 b, stk. 5, § 25 c, stk. 2 og 3"
+        }
+      ]
+    },
+    {
+      "from": "lov-familieretshusloven",
+      "type": "henviser_til",
+      "to": "lov-foraeldreansvarsloven",
+      "beskrivelse": "§ 2 opregner loven blandt de love, Familieretshuset behandler sager efter.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+          "citat": "Familieretshuset behandler efter denne lov sager, i det omfang det følger af nedenstående love og bestemmelser m.v.: 1) Forældreansvarsloven. 2) Lov om ægteskabs indgåelse og opløsning. 3) Lov om børns forsørgelse. 4) § 56 a i udlændingeloven. 5) Lov om opkrævning af underholdsbidrag. 6) Børneloven. 7) Navneloven."
+        }
+      ]
+    },
+    {
+      "from": "lov-familieretshusloven",
+      "type": "henviser_til",
+      "to": "lov-aegteskabsloven",
+      "beskrivelse": "§ 2 opregner loven blandt de love, Familieretshuset behandler sager efter.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+          "citat": "Familieretshuset behandler efter denne lov sager, i det omfang det følger af nedenstående love og bestemmelser m.v.: 1) Forældreansvarsloven. 2) Lov om ægteskabs indgåelse og opløsning. 3) Lov om børns forsørgelse. 4) § 56 a i udlændingeloven. 5) Lov om opkrævning af underholdsbidrag. 6) Børneloven. 7) Navneloven."
+        }
+      ]
+    },
+    {
+      "from": "lov-familieretshusloven",
+      "type": "henviser_til",
+      "to": "lov-boerns-forsoergelse",
+      "beskrivelse": "§ 2 opregner loven blandt de love, Familieretshuset behandler sager efter.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+          "citat": "Familieretshuset behandler efter denne lov sager, i det omfang det følger af nedenstående love og bestemmelser m.v.: 1) Forældreansvarsloven. 2) Lov om ægteskabs indgåelse og opløsning. 3) Lov om børns forsørgelse. 4) § 56 a i udlændingeloven. 5) Lov om opkrævning af underholdsbidrag. 6) Børneloven. 7) Navneloven."
+        }
+      ]
+    },
+    {
+      "from": "lov-familieretshusloven",
+      "type": "henviser_til",
+      "to": "lov-bidragsopkraevningsloven",
+      "beskrivelse": "§ 2 opregner loven blandt de love, Familieretshuset behandler sager efter.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+          "citat": "Familieretshuset behandler efter denne lov sager, i det omfang det følger af nedenstående love og bestemmelser m.v.: 1) Forældreansvarsloven. 2) Lov om ægteskabs indgåelse og opløsning. 3) Lov om børns forsørgelse. 4) § 56 a i udlændingeloven. 5) Lov om opkrævning af underholdsbidrag. 6) Børneloven. 7) Navneloven."
+        }
+      ]
+    },
+    {
+      "from": "lov-familieretshusloven",
+      "type": "henviser_til",
+      "to": "lov-boerneloven",
+      "beskrivelse": "§ 2 opregner loven blandt de love, Familieretshuset behandler sager efter.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+          "citat": "Familieretshuset behandler efter denne lov sager, i det omfang det følger af nedenstående love og bestemmelser m.v.: 1) Forældreansvarsloven. 2) Lov om ægteskabs indgåelse og opløsning. 3) Lov om børns forsørgelse. 4) § 56 a i udlændingeloven. 5) Lov om opkrævning af underholdsbidrag. 6) Børneloven. 7) Navneloven."
+        }
+      ]
+    },
+    {
+      "from": "lov-familieretshusloven",
+      "type": "henviser_til",
+      "to": "lov-navneloven",
+      "beskrivelse": "§ 2 opregner loven blandt de love, Familieretshuset behandler sager efter.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+          "citat": "Familieretshuset behandler efter denne lov sager, i det omfang det følger af nedenstående love og bestemmelser m.v.: 1) Forældreansvarsloven. 2) Lov om ægteskabs indgåelse og opløsning. 3) Lov om børns forsørgelse. 4) § 56 a i udlændingeloven. 5) Lov om opkrævning af underholdsbidrag. 6) Børneloven. 7) Navneloven."
+        }
+      ]
+    },
+    {
+      "from": "dom-byretterne",
+      "type": "klageinstans",
+      "to": "sty-familieretshuset",
+      "beskrivelse": "Familieretten (byretten, der benævnes familieretten) prøver Familieretshusets afgørelser: lov om Familieretshuset § 39 (afgørelser indbringes efter parts anmodning for familieretten, kan ikke påklages til højere administrativ myndighed) og § 41, stk. 1 (anmodning indgives til Familieretshuset inden 4 uger efter meddelelse om afgørelsen; familieretten kan i særlige tilfælde behandle for sen anmodning). Gælder også afgørelser efter ægteskabsloven, børneloven, lov om børns forsørgelse, navneloven og lov om opkrævning af underholdsbidrag (kapitel 12 i lov om Familieretshuset). Værgemålsloven § 22: Familieretshusets afgørelse efter § 5 eller §§ 7-10 kan indbringes for retten inden fire uger. Undtaget: registrering, notering af aftale og bevilling (§ 40). Afgørelsen er ikke endelig; dom kan kun ankes med Procesbevillingsnævnets tilladelse (retsplejeloven § 453).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+          "citat": "Afgørelse truffet af Familieretshuset indbringes efter anmodning fra en part for familieretten, jf. dog §§ 40 og 41."
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+          "citat": "inden 4 uger efter at parten har fået meddelelse om afgørelsen"
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/663",
+          "citat": "Familieretshusets afgørelser efter denne lov kan indbringes for familieretten efter bestemmelserne i kapitel 12 i lov om Familieretshuset."
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2019/772",
+          "citat": "Familieretshusets afgørelser efter denne lov kan indbringes for familieretten efter bestemmelserne i kapitel 12 i lov om Familieretshuset."
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2019/773",
+          "citat": "Familieretshusets afgørelser efter denne lov kan indbringes for familieretten efter bestemmelserne i kapitel 12 i lov om Familieretshuset."
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2023/1074",
+          "citat": "Familieretshusets afgørelser efter loven kan indbringes for familieretten efter bestemmelserne i kapitel 12 i lov om Familieretshuset."
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2023/1092",
+          "citat": "Familieretshusets afgørelser efter denne lov kan indbringes for familieretten efter bestemmelserne i kapitel 12 i lov om Familieretshuset."
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2021/1122",
+          "citat": "Familieretshusets afgørelse efter § 5 eller §§ 7-10 kan inden fire uger efter, at der er givet meddelelse om afgørelsen, indbringes for retten."
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+          "citat": "Familieretshusets registrering eller notering af en aftale eller udstedelse af en bevilling kan ikke indbringes for familieretten efter reglerne i denne lov."
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+          "citat": "En dom afsagt af familieretten i en sag, hvor en afgørelse truffet af Familieretshuset er indbragt for familieretten, kan kun ankes med Procesbevillingsnævnets tilladelse."
+        }
+      ]
+    },
+    {
+      "from": "sty-civilstyrelsen",
+      "type": "klageinstans",
+      "to": "sty-familieretshuset",
+      "beskrivelse": "Værgemålsloven § 22 a: Familieretshusets øvrige afgørelser efter værgemålsloven kan påklages til Civilstyrelsen, dog ikke afgørelser efter §§ 21 og 22.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2021/1122",
+          "citat": "Familieretshusets afgørelser efter denne lov kan påklages til Civilstyrelsen. Dette gælder dog ikke afgørelser efter §§ 21 og 22."
+        }
+      ]
+    },
+    {
+      "from": "sty-familieretshuset",
+      "type": "udsteder",
+      "to": "kilde-familieretshuset-lovsamling",
+      "beskrivelse": "Familieretshuset driver lovsamlingen på sin hjemmeside.",
+      "belaeg": [
+        {
+          "url": "https://familieretshuset.dk/lovsamling/",
+          "citat": "På denne side kan du finde en samling af alle love, bekendtgørelser, cirkulæreskrivelser og konventioner for Familieretshusets forskellige fagområder."
+        }
+      ]
+    }
+  ],
+  "rettelser": [],
+  "huller": [
+    {
+      "emne": "Familieretshusets praksis og vejledninger",
+      "type": "ikke-fundet",
+      "beskrivelse": "Familieretshuset offentliggør ikke afgørelsespraksis i en søgbar database, jeg kunne finde; emnesiderne (familieretshuset.dk/emner/) er borgervendte. Retsinformation fører vejledninger under forældreansvarsloven (fx VEJ nr 9572 af 10/06/2026 om børnesagkyndige undersøgelser, Socialministeriet) og under ægteskabsloven, men de er ikke oprettet som noder.",
+      "noder": [
+        "sty-familieretshuset"
+      ],
+      "kilder": [
+        "https://familieretshuset.dk/emner/"
+      ]
+    },
+    {
+      "emne": "Adoptionsnævnets og adoptionssamrådenes hjemmeside og praksis",
+      "type": "ikke-fundet",
+      "beskrivelse": "Adoptionsnævnets egen side (www.adoptionsnaevnet.dk) kunne ikke åbnes, og ast.dk-undersiden fandtes ikke. Adoptionssamrådene er ikke oprettet som node.",
+      "noder": [
+        "naevn-adoptionsnaevnet"
+      ],
+      "kilder": []
+    },
+    {
+      "emne": "Familieretlige domme i Domsdatabasen og Ankestyrelsens principmeddelelser på familieområdet",
+      "type": "uklart",
+      "beskrivelse": "Ingen kilde åbnet, der viser, at familieretlige domme eller Ankestyrelsens principmeddelelser om Familieretshuset udgives i de eksisterende kilder; Ankestyrelsen er efter lov om Familieretshuset ikke klageinstans for Familieretshusets afgørelser, så principmeddelelserne vedrører primært social- og adoptionsområdet.",
+      "noder": [
+        "kilde-domsdatabasen",
+        "kilde-ast-principmeddelelser"
+      ],
+      "kilder": []
+    },
+    {
+      "emne": "Klage til Ankestyrelsen over Familieretshusets afgørelser (flytning uden samtykke)",
+      "type": "uklart",
+      "beskrivelse": "Leadet om, at Ankestyrelsen er klageinstans på udvalgte punkter, er kun delvist bekræftet: lov om Familieretshuset indeholder ingen klage til Ankestyrelsen (kun overgangsbestemmelser). Ankestyrelsen er bekræftet som klageinstans for Udbetaling Danmark efter bidragsopkrævningslovens § 23 a og afgør adoption uden samtykke efter adoptionsloven § 9. Flytning uden samtykke (serviceloven) hører til social-/anbringelsesområdet, ikke undersøgt.",
+      "noder": [
+        "sty-ankestyrelsen"
+      ],
+      "kilder": []
+    },
+    {
+      "emne": "Arveloven og skifteretternes bobehandling",
+      "type": "andet",
+      "beskrivelse": "Arveloven (LBK nr. 1347 af 15/06/2021, Justitsministeriet) er ikke oprettet som node; instanslaget for arv er skifteretterne (uden for området). Ingen Civilstyrelsen-kompetence efter arveloven bekræftet.",
+      "noder": [],
+      "kilder": [
+        "https://www.retsinformation.dk/eli/lta/2025/1298"
+      ]
+    },
+    {
+      "emne": "Civilstyrelsens rolle ud over værgemålsloven § 22 a",
+      "type": "uklart",
+      "beskrivelse": "Civilstyrelsens om-os-side nævner fonde og fri proces, men der er ikke oprettet kanter for dem (uden for kerneområdet); retsplejelovens regler om fri proces nævner kun at Civilstyrelsen stiller digital selvbetjening til rådighed. Tilsyn med værgemål er ikke bekræftet.",
+      "noder": [
+        "sty-civilstyrelsen"
+      ],
+      "kilder": [
+        "https://www.civilstyrelsen.dk/om-os"
+      ]
+    },
+    {
+      "emne": "Familieretten som selvstændig ret",
+      "type": "andet",
+      "beskrivelse": "Loven bruger 'byretten, der benævnes familieretten' (lov om Familieretshuset § 1, stk. 3); familieretten er derfor ikke oprettet som egen node, men beskrevet i kanten til dom-byretterne.",
+      "noder": [
+        "dom-byretterne"
+      ],
+      "kilder": [
+        "https://www.retsinformation.dk/eli/lta/2019/766"
+      ]
+    }
+  ],
+  "noter": "Leads bekræftet: Familieretshuset under Socialministeriet (organisationssiden), familieretten som prøvelsesinstans med 4 ugers frist (§§ 39, 41), bidragsopkrævningslovens § 23 a (UDK til Ankestyrelsen, Familieretshuset til familieretten), BEK 1754/2024 = Adoptionsnævnets forretningsorden (BEK 1755/2024 = adoptionsbekendtgørelsen). Afkræftet/nuanceret: navne og værgemål hører ikke begge under Justitsministeriet: værgemålsloven er Justitsministeriet (Civilstyrelsen er klageinstans efter § 22 a), men navneloven er Socialministeriets (Retsinformation: Social- og Boligministeriet). Retsinformations ministeriefelt for lov om Familieretshuset, børneloven, lov om børns forsørgelse, navneloven og bidragsopkrævningsloven viser stadig 'Social- og Boligministeriet'. Loven om Familieretshuset og børneloven bruger i teksten stadig 'Social- og indenrigsministeren'. forældreansvarsloven (LBK 662/2026), ægteskabsloven (LBK 663/2026) og adoptionsloven (LBK 669/2026) er nye konsolideringer pr. 1/7/2026; kataloget viste kun de gamle. Familieretten er ikke oprettet som node. Ikke nået: kilder til domspraksis, Familieretshusets vejledninger som noder, adoptionssamråd, arveloven. [Orkestrator 2026-11-12: fjernet naevn-procesbevillingsnaevnet|klageinstans|dom-byretterne: Procesbevillingsnævnet giver tilladelse til anke (retsplejeloven § 453); anken behandles af landsretten, så nævnet er ikke klageinstans over byretten (kontrollantens indvending).]"
+}

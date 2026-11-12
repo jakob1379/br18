@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 74 · kanter: 95
+Noder: 91 · kanter: 123
 
 ```mermaid
 flowchart LR
@@ -23,10 +23,12 @@ flowchart LR
     sty_ankestyrelsen["Ankestyrelsen"]:::instans
     org_arbejdsmarkedets_erhvervssikring["Arbejdsmarkedets Erhvervssikring (AES)"]:::instans
     raad_boerneraadet["Børnerådet"]:::instans
+    sty_civilstyrelsen["Civilstyrelsen"]:::instans
     fond_danak["DANAK (nationalt akkrediteringsorgan)"]:::instans
     tilsyn_socialtilsynene["De fem socialtilsyn"]:::instans
     raad_det_centrale_handicapraad["Det Centrale Handicapråd"]:::instans
     sty_erhvervsstyrelsen["Erhvervsstyrelsen"]:::instans
+    sty_familieretshuset["Familieretshuset"]:::instans
     kommune_redningsberedskaber["Fælleskommunale redningsberedskaber (§ 60-fællesskaber med fælles beredskabskommission)"]:::instans
     kommune_alle["Kommunerne (98 kommunalbestyrelser)"]:::instans
     region_alle["Regionerne (5 regionsråd)"]:::instans
@@ -41,16 +43,20 @@ flowchart LR
     kilde_ast_principmeddelelser["Ankestyrelsens principmeddelelser og tilsynsudtalelser"]:::kilde
     kilde_ast_tilsynsudtalelser["Ankestyrelsens udtalelsesdatabase (kommunaltilsynet)"]:::kilde
     std_eurocodes["Eurocodes (DS/EN 1990-1999) med danske nationale annekser"]:::kilde
+    kilde_familieretshuset_lovsamling["Familieretshusets lovsamling"]:::kilde
+    kilde_k_meddelelser_specialundervisning["K-meddelelser fra Klagenævnet for Specialundervisning (ast.dk)"]:::kilde
     kilde_ligebehandlingsnaevnet_afgoerelser["Ligebehandlingsnævnets afgørelser (ast.dk og Retsinformation)"]:::kilde
     kilde_parallelsamfundslister["Liste over parallelsamfund og liste over omdannelsesområder (offentliggøres årligt 1. december efter almenboligloven § 61 a)"]:::kilde
     kilde_retsinformation["Retsinformation"]:::kilde
     kilde_tilbudsportalen["Tilbudsportalen"]:::kilde
     kilde_bygningsreglementet_dk["bygningsreglementet.dk"]:::kilde
+    naevn_adoptionsnaevnet["Adoptionsnævnet"]:::klage
     naevn_arbejdsmiljoeklagenaevnet["Arbejdsmiljøklagenævnet"]:::klage
     dom_byretterne["Byretterne"]:::klage
     naevn_boerne_og_ungeudvalg["Børne- og ungeudvalget (kommunalt)"]:::klage
     naevn_socialfaglige_naevn_magtanvendelse["Det Socialfaglige Nævn vedrørende Magtanvendelse over for Borgere med Handicap"]:::klage
     ombud_folketingets_ombudsmand["Folketingets Ombudsmand"]:::klage
+    naevn_klagenaevnet_specialundervisning["Klagenævnet for Specialundervisning"]:::klage
     naevn_ligebehandlingsnaevnet["Ligebehandlingsnævnet"]:::klage
     naevn_ungdomskriminalitetsnaevnet["Ungdomskriminalitetsnævnet"]:::klage
     min_boern_aeldre_og_bolig["Børne-, Ældre- og Boligministeriet"]:::ministerium
@@ -58,36 +64,47 @@ flowchart LR
     eu_dir_2010_31["Direktiv 2010/31/EU om bygningers energimæssige ydeevne (EPBD, som ændret ved 2018/844) (ophævet)"]:::nedlagt
     eu_dir_2012_27["Europa-Parlamentets og Rådets direktiv 2012/27/EU af 25. oktober 2012 om energieffektivitet (EED) (ophævet)"]:::nedlagt
     eu_dec_2012_21["Kommissionens afgørelse 2012/21/EU af 20. december 2011 om SGEI-kompensation (ophævet)"]:::nedlagt
+    lov_adoptionsloven["Adoptionsloven"]:::retsakt
     lov_barnets_lov["Barnets lov"]:::retsakt
     bek_danak_byggevarer["Bekendtgørelse om DANAK's opgaver vedrørende notificerede organer, der fører 3. partskontrol med byggevarer, og om tekniske vurderingsorganer (BEK nr. 1744 af 2025)"]:::retsakt
     bek_sbst_opgaver["Bekendtgørelse om Social- og Boligstyrelsens opgaver og beføjelser samt klageadgang på bolig- og byggeområdet (BEK nr. 519/2023)"]:::retsakt
+    bek_adoption["Bekendtgørelse om adoption (BEK nr. 1755 af 30/12/2024)"]:::retsakt
     bek_br18["Bekendtgørelse om bygningsreglement 2018 (BR18)"]:::retsakt
     bek_certificering["Bekendtgørelse om certificeringsordninger for dokumentation af tekniske forhold i bygningsreglementet (statikere og brandrådgivere)"]:::retsakt
     bek_almen_drift["Bekendtgørelse om drift af almene boliger m.v. (driftsbekendtgørelsen)"]:::retsakt
     bek_forretningsorden_socialfaglige_naevn["Bekendtgørelse om forretningsorden for Det Socialfaglige Nævn vedrørende Magtanvendelse over for Borgere med Handicap (BEK nr. 1413 af 05/12/2024)"]:::retsakt
+    bek_adoptionsnaevnet_forretningsorden["Bekendtgørelse om forretningsordenen for Adoptionsnævnet (BEK nr. 1754 af 30/12/2024)"]:::retsakt
     bek_byggevarer_cpr2011["Bekendtgørelse om markedsføring og markedsovervågning af byggevarer (efter forordning 305/2011)"]:::retsakt
     bek_byggevarer_cpr2024["Bekendtgørelse om markedsføring og markedsovervågning af byggevarer efter den reviderede byggevareforordning"]:::retsakt
     bek_raad_paa_det_sociale_omraade["Bekendtgørelse om råd på det sociale område (BEK nr. 580 af 09/05/2022)"]:::retsakt
     bek_socialtilsyn["Bekendtgørelse om socialtilsyn (BEK nr. 1559 af 05/12/2025)"]:::retsakt
     bek_almen_udlejning["Bekendtgørelse om udlejning af almene boliger m.v."]:::retsakt
     vejl_br18_vejledninger["Bygningsreglementets vejledninger og 'Spørgsmål og svar' (samling)"]:::retsakt
+    lov_boerneloven["Børneloven"]:::retsakt
+    lov_foraeldreansvarsloven["Forældreansvarsloven"]:::retsakt
     reg_byggesagsgebyr["Kommunale gebyrer for byggesagsbehandling (gebyrinstruks/takstblad)"]:::retsakt
     lov_kommunestyrelsesloven["Kommunestyrelsesloven (lov om kommunernes styrelse)"]:::retsakt
+    lov_familieretshusloven["Lov om Familieretshuset"]:::retsakt
     lov_ligebehandlingsnaevnet["Lov om Ligebehandlingsnævnet"]:::retsakt
     lov_seniorpensionsenheden["Lov om Seniorpensionsenheden"]:::retsakt
     lov_udbetaling_danmark["Lov om Udbetaling Danmark"]:::retsakt
+    lov_boerns_forsoergelse["Lov om børns forsørgelse"]:::retsakt
     lov_aktiv_beskaeftigelsesindsats["Lov om en aktiv beskæftigelsesindsats (LAB)"]:::retsakt
     lov_boligstoetteloven["Lov om individuel boligstøtte (boligstøtteloven)"]:::retsakt
+    lov_bidragsopkraevningsloven["Lov om opkrævning af underholdsbidrag"]:::retsakt
     lov_regionsloven["Lov om regioner og om nedlæggelse af amtskommunerne, Hovedstadens Udviklingsråd og Hovedstadens Sygehusfællesskab (regionsloven)"]:::retsakt
     lov_retssikkerhedsloven_social["Lov om retssikkerhed og administration på det sociale område (retssikkerhedsloven)"]:::retsakt
     lov_serviceloven["Lov om social service (serviceloven)"]:::retsakt
     lov_socialtilsynsloven["Lov om socialtilsyn"]:::retsakt
     lov_sygedagpenge["Lov om sygedagpenge (sygedagpengeloven)"]:::retsakt
     lov_voksenansvarsloven["Lov om voksenansvar for anbragte børn og unge (voksenansvarsloven)"]:::retsakt
+    lov_aegteskabsloven["Lov om ægteskabs indgåelse og opløsning"]:::retsakt
+    lov_navneloven["Navneloven"]:::retsakt
     vejl_satsvejledning_leje_almen["Vejledning om regulering af satser i lejelovgivningen og almenboligloven for 2026 (VEJ 9886/2025)"]:::retsakt
     vejl_tilsyn_almen_boligsektor["Vejledning om tilsyn med den almene boligsektor (Social- og Boligstyrelsen, juni 2023)"]:::retsakt
     vejl_almen_vejledninger["Vejledninger på almenområdet fra Social- og Boligstyrelsen og forgængere (samling)"]:::retsakt
     vejl_br18_brandvejledninger["Vejledninger til BR18 kapitel 5 Brand (brandvejledningerne: præaccepterede løsninger, brandklasser, certificerede brandrådgivere, brandteknisk dimensionering, kontrol)"]:::retsakt
+    lov_vaergemaalsloven["Værgemålsloven"]:::retsakt
     min_boern_aeldre_og_bolig -.->|delegation| sty_social_og_boligstyrelsen
     kilde_ast_principmeddelelser -->|henviser_til| lov_boligstoetteloven
     kilde_ast_principmeddelelser -->|henviser_til| lov_kommunestyrelsesloven
@@ -166,6 +183,34 @@ flowchart LR
     naevn_ligebehandlingsnaevnet -->|udsteder| kilde_ligebehandlingsnaevnet_afgoerelser
     naevn_ligebehandlingsnaevnet -->|udsteder| kilde_retsinformation
     lov_serviceloven -->|hjemmel_for| bek_socialtilsyn
+    naevn_klagenaevnet_specialundervisning -->|udsteder| kilde_k_meddelelser_specialundervisning
+    min_social -->|ressortansvar| sty_familieretshuset
+    min_social -.->|ressortansvar| naevn_adoptionsnaevnet
+    min_social -.->|ressortansvar| lov_familieretshusloven
+    min_social -->|ressortansvar| lov_foraeldreansvarsloven
+    min_social -->|ressortansvar| lov_aegteskabsloven
+    min_social -.->|ressortansvar| lov_boerneloven
+    min_social -->|ressortansvar| lov_adoptionsloven
+    min_social -.->|ressortansvar| lov_boerns_forsoergelse
+    min_social -.->|ressortansvar| lov_navneloven
+    min_social -.->|ressortansvar| lov_bidragsopkraevningsloven
+    min_social -.->|ressortansvar| bek_adoptionsnaevnet_forretningsorden
+    min_social -.->|ressortansvar| bek_adoption
+    lov_familieretshusloven -->|hjemmel_for| sty_familieretshuset
+    lov_vaergemaalsloven -->|hjemmel_for| sty_familieretshuset
+    lov_adoptionsloven -->|hjemmel_for| naevn_adoptionsnaevnet
+    lov_adoptionsloven -->|hjemmel_for| bek_adoptionsnaevnet_forretningsorden
+    lov_adoptionsloven -->|hjemmel_for| bek_adoption
+    lov_familieretshusloven -->|henviser_til| lov_foraeldreansvarsloven
+    lov_familieretshusloven -->|henviser_til| lov_aegteskabsloven
+    lov_familieretshusloven -->|henviser_til| lov_boerns_forsoergelse
+    lov_familieretshusloven -->|henviser_til| lov_bidragsopkraevningsloven
+    lov_familieretshusloven -->|henviser_til| lov_boerneloven
+    lov_familieretshusloven -->|henviser_til| lov_navneloven
+    dom_byretterne -->|klageinstans| sty_familieretshuset
+    sty_civilstyrelsen -->|klageinstans| sty_familieretshuset
+    sty_familieretshuset -->|udsteder| kilde_familieretshuset_lovsamling
+    lov_foraeldreansvarsloven -->|hjemmel_for| bek_adoption
     bek_br18 -->|hjemmel_for| reg_byggesagsgebyr
     bek_byggevarer_cpr2011 -->|hjemmel_for| sty_erhvervsstyrelsen
     bek_byggevarer_cpr2024 -.->|hjemmel_for| sty_erhvervsstyrelsen

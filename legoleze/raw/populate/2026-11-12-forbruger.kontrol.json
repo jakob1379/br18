@@ -1,0 +1,1400 @@
+[
+ {
+  "hvor": "ombud-forbrugerombudsmanden.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1420",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1420",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1420",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1420",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1184",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/463",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "ombud-forbrugerombudsmanden.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://forbrugerombudsmanden.dk/publikationer/retningslinjer-og-vejledninger",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1420",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1420",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://forbrugerombudsmanden.dk/find-sager",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "ombud-forbrugerombudsmanden.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://forbrugerombudsmanden.dk/om-os/vores-arbejde/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-forbrugerklagenaevnet.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/524",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/524",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/524",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/65",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-forbrugerklagenaevnet.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/524",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/524",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/524",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/65",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-forbrugerklagenaevnet.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://naevneneshus.dk/start-din-klage/center-for-klageloesning-og-forbrugerklagenaevnet",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-godkendte-private-ankenaevn.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/524",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/524",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/524",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://naevneneshus.dk/om-os/oversigt-over-godkendte-private-ankenaevn/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-godkendte-private-ankenaevn.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/524",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-godkendte-private-ankenaevn.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://naevneneshus.dk/om-os/oversigt-over-godkendte-private-ankenaevn/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-ankenaevnet-for-forsikring.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.ankeforsikring.dk/",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://naevneneshus.dk/om-os/oversigt-over-godkendte-private-ankenaevn/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-ankenaevnet-for-forsikring.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.ankeforsikring.dk/",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/524",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-ankenaevnet-for-forsikring.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.ankeforsikring.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-byggeriets-ankenaevn.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.byggerietsankenaevn.dk/",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.byggerietsankenaevn.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-byggeriets-ankenaevn.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.byggerietsankenaevn.dk/",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/524",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-byggeriets-ankenaevn.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.byggerietsankenaevn.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "lov-markedsfoeringsloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "246620",
+   "DocumentTitle": "Bekendtgørelse af lov om markedsføring",
+   "Year": "2024",
+   "DiesSigni": "2024-12-02",
+   "Status": "Valid",
+   "Number": "1420",
+   "PopularTitle": "Markedsføringsloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-markedsfoeringsloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "246620",
+   "DocumentTitle": "Bekendtgørelse af lov om markedsføring",
+   "Year": "2024",
+   "DiesSigni": "2024-12-02",
+   "Status": "Valid",
+   "Number": "1420",
+   "PopularTitle": "Markedsføringsloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-markedsfoeringsloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "246620",
+   "DocumentTitle": "Bekendtgørelse af lov om markedsføring",
+   "Year": "2024",
+   "DiesSigni": "2024-12-02",
+   "Status": "Valid",
+   "Number": "1420",
+   "PopularTitle": "Markedsføringsloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-markedsfoeringsloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "246620",
+   "DocumentTitle": "Bekendtgørelse af lov om markedsføring",
+   "Year": "2024",
+   "DiesSigni": "2024-12-02",
+   "Status": "Valid",
+   "Number": "1420",
+   "PopularTitle": "Markedsføringsloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2024/1420",
+   "lovtidende": "LBK nr. 1420 af 02/12/2024"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-forbrugeraftaleloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "232299",
+   "DocumentTitle": "Bekendtgørelse af lov om forbrugeraftaler",
+   "Year": "2025",
+   "DiesSigni": "2025-09-28",
+   "Status": "Valid",
+   "Number": "1184",
+   "PopularTitle": "Forbrugeraftaleloven",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-forbrugeraftaleloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "232299",
+   "DocumentTitle": "Bekendtgørelse af lov om forbrugeraftaler",
+   "Year": "2025",
+   "DiesSigni": "2025-09-28",
+   "Status": "Valid",
+   "Number": "1184",
+   "PopularTitle": "Forbrugeraftaleloven",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-forbrugeraftaleloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "232299",
+   "DocumentTitle": "Bekendtgørelse af lov om forbrugeraftaler",
+   "Year": "2025",
+   "DiesSigni": "2025-09-28",
+   "Status": "Valid",
+   "Number": "1184",
+   "PopularTitle": "Forbrugeraftaleloven",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-forbrugeraftaleloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "232299",
+   "DocumentTitle": "Bekendtgørelse af lov om forbrugeraftaler",
+   "Year": "2025",
+   "DiesSigni": "2025-09-28",
+   "Status": "Valid",
+   "Number": "1184",
+   "PopularTitle": "Forbrugeraftaleloven",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2025/1184",
+   "lovtidende": "LBK nr. 1184 af 28/09/2025"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-koebeloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "224254",
+   "DocumentTitle": "Bekendtgørelse af lov om køb",
+   "Year": "2021",
+   "DiesSigni": "2021-09-24",
+   "Status": "Valid",
+   "Number": "1853",
+   "PopularTitle": "Købeloven",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-koebeloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "224254",
+   "DocumentTitle": "Bekendtgørelse af lov om køb",
+   "Year": "2021",
+   "DiesSigni": "2021-09-24",
+   "Status": "Valid",
+   "Number": "1853",
+   "PopularTitle": "Købeloven",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-koebeloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "224254",
+   "DocumentTitle": "Bekendtgørelse af lov om køb",
+   "Year": "2021",
+   "DiesSigni": "2021-09-24",
+   "Status": "Valid",
+   "Number": "1853",
+   "PopularTitle": "Købeloven",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-koebeloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "224254",
+   "DocumentTitle": "Bekendtgørelse af lov om køb",
+   "Year": "2021",
+   "DiesSigni": "2021-09-24",
+   "Status": "Valid",
+   "Number": "1853",
+   "PopularTitle": "Købeloven",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2021/1853",
+   "lovtidende": "LBK nr. 1853 af 24/09/2021"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-forbrugerklager-naevnenes-hus.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/65",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-forbrugerklager-naevnenes-hus.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "206625",
+   "DocumentTitle": "Bekendtgørelse om behandling af forbrugerklager i Nævnenes Hus samt Forbrugerklagenævnet",
+   "Year": "2019",
+   "DiesSigni": "2019-01-16",
+   "Status": "Valid",
+   "Number": "65",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-forbrugerklager-naevnenes-hus.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "206625",
+   "DocumentTitle": "Bekendtgørelse om behandling af forbrugerklager i Nævnenes Hus samt Forbrugerklagenævnet",
+   "Year": "2019",
+   "DiesSigni": "2019-01-16",
+   "Status": "Valid",
+   "Number": "65",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-forbrugerklager-naevnenes-hus.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "206625",
+   "DocumentTitle": "Bekendtgørelse om behandling af forbrugerklager i Nævnenes Hus samt Forbrugerklagenævnet",
+   "Year": "2019",
+   "DiesSigni": "2019-01-16",
+   "Status": "Valid",
+   "Number": "65",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2019/65",
+   "lovtidende": "BEK nr. 65 af 16/01/2019"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-godkendelse-private-tvistloesningsorganer.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/1151",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-godkendelse-private-tvistloesningsorganer.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "174464",
+   "DocumentTitle": "Bekendtgørelse om godkendelse af private tvistløsningsorganer",
+   "Year": "2015",
+   "DiesSigni": "2015-09-30",
+   "Status": "Valid",
+   "Number": "1151",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-godkendelse-private-tvistloesningsorganer.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "174464",
+   "DocumentTitle": "Bekendtgørelse om godkendelse af private tvistløsningsorganer",
+   "Year": "2015",
+   "DiesSigni": "2015-09-30",
+   "Status": "Valid",
+   "Number": "1151",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-godkendelse-private-tvistloesningsorganer.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "174464",
+   "DocumentTitle": "Bekendtgørelse om godkendelse af private tvistløsningsorganer",
+   "Year": "2015",
+   "DiesSigni": "2015-09-30",
+   "Status": "Valid",
+   "Number": "1151",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2015/1151",
+   "lovtidende": "BEK nr. 1151 af 30/09/2015"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-gebyrer-godkendte-private-ankenaevn.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/928",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-gebyrer-godkendte-private-ankenaevn.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "250851",
+   "DocumentTitle": "Bekendtgørelse om gebyrer ved godkendte private klage- eller ankenævn",
+   "Year": "2025",
+   "DiesSigni": "2025-06-26",
+   "Status": "Valid",
+   "Number": "928",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-gebyrer-godkendte-private-ankenaevn.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "250851",
+   "DocumentTitle": "Bekendtgørelse om gebyrer ved godkendte private klage- eller ankenævn",
+   "Year": "2025",
+   "DiesSigni": "2025-06-26",
+   "Status": "Valid",
+   "Number": "928",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-gebyrer-godkendte-private-ankenaevn.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "250851",
+   "DocumentTitle": "Bekendtgørelse om gebyrer ved godkendte private klage- eller ankenævn",
+   "Year": "2025",
+   "DiesSigni": "2025-06-26",
+   "Status": "Valid",
+   "Number": "928",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2025/928",
+   "lovtidende": "BEK nr. 928 af 26/06/2025"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-forbrugerombudsmandens-virksomhed.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/1249",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-forbrugerombudsmandens-virksomhed.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "164810",
+   "DocumentTitle": "Bekendtgørelse om regler for Forbrugerombudsmandens virksomhed",
+   "Year": "2014",
+   "DiesSigni": "2014-11-25",
+   "Status": "Valid",
+   "Number": "1249",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-forbrugerombudsmandens-virksomhed.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "164810",
+   "DocumentTitle": "Bekendtgørelse om regler for Forbrugerombudsmandens virksomhed",
+   "Year": "2014",
+   "DiesSigni": "2014-11-25",
+   "Status": "Valid",
+   "Number": "1249",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-forbrugerombudsmandens-virksomhed.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "164810",
+   "DocumentTitle": "Bekendtgørelse om regler for Forbrugerombudsmandens virksomhed",
+   "Year": "2014",
+   "DiesSigni": "2014-11-25",
+   "Status": "Valid",
+   "Number": "1249",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2014/1249",
+   "lovtidende": "BEK nr. 1249 af 25/11/2014"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "kilde-forbrugerombudsmanden-sager.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://forbrugerombudsmanden.dk/find-sager",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-forbrugerombudsmanden-sager.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://forbrugerombudsmanden.dk/find-sager",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-forbrugerombudsmanden-sager.adgang",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://forbrugerombudsmanden.dk/find-sager",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-forbrugerombudsmanden-sager.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://forbrugerombudsmanden.dk/find-sager/sager/markedsfoeringsloven/sager-efter-markedsfoeringsloven/miljoe-og-etik/2405524-virksomhed-kunne-ikke-dokumentere-miljoemaessige-udsagn-i-markedsfoeringen-af-blomsterbuketter",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-forbrugerombudsmanden-sager.opdatering",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://forbrugerombudsmanden.dk/find-sager",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-forbrugerombudsmanden-retningslinjer.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://forbrugerombudsmanden.dk/publikationer/retningslinjer-og-vejledninger",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-forbrugerombudsmanden-retningslinjer.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://forbrugerombudsmanden.dk/publikationer/retningslinjer-og-vejledninger",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-forbrugerombudsmanden-retningslinjer.adgang",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://forbrugerombudsmanden.dk/publikationer/retningslinjer-og-vejledninger",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-forbrugerombudsmanden-retningslinjer.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://forbrugerombudsmanden.dk/publikationer/retningslinjer-og-vejledninger/vejledninger-longreads/retningslinjer-for-prismarkedsfoering",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-forbrugerombudsmanden-retningslinjer.opdatering",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://forbrugerombudsmanden.dk/publikationer/retningslinjer-og-vejledninger",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-fkn-afgoerelser.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/65",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-fkn-afgoerelser.url",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://naevneneshus.dk/start-din-klage/center-for-klageloesning-og-forbrugerklagenaevnet",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-fkn-afgoerelser.adgang",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://naevneneshus.dk/start-din-klage/center-for-klageloesning-og-forbrugerklagenaevnet",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-fkn-afgoerelser.opdatering",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/65",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-godkendte-private-ankenaevn-liste.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://naevneneshus.dk/om-os/oversigt-over-godkendte-private-ankenaevn/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-godkendte-private-ankenaevn-liste.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://naevneneshus.dk/om-os/oversigt-over-godkendte-private-ankenaevn/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-godkendte-private-ankenaevn-liste.adgang",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://naevneneshus.dk/om-os/oversigt-over-godkendte-private-ankenaevn/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-godkendte-private-ankenaevn-liste.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://naevneneshus.dk/om-os/oversigt-over-godkendte-private-ankenaevn/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|ombud-forbrugerombudsmanden",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://forbrugerombudsmanden.dk/om-os/vores-arbejde/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|naevn-forbrugerklagenaevnet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/524",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-markedsfoeringsloven",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1420",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|lov-forbrugeraftaleloven",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1184",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|lov-koebeloven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2021/1853",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|bek-forbrugerklager-naevnenes-hus",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/65",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|bek-godkendelse-private-tvistloesningsorganer",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/1151",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|bek-gebyrer-godkendte-private-ankenaevn",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/928",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|bek-forbrugerombudsmandens-virksomhed",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/1249",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-markedsfoeringsloven|hjemmel_for|ombud-forbrugerombudsmanden",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1420",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-forbrugeraftaleloven|hjemmel_for|ombud-forbrugerombudsmanden",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1184",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-lov-om-betalinger|hjemmel_for|ombud-forbrugerombudsmanden",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/463",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-forbrugerombudsmandens-virksomhed|hjemmel_for|ombud-forbrugerombudsmanden",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/1249",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-markedsfoeringsloven|hjemmel_for|bek-forbrugerombudsmandens-virksomhed",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/1249",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant dom-domstolene|klageinstans|ombud-forbrugerombudsmanden",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1420",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-forbrugeraftaleloven|henviser_til|lov-markedsfoeringsloven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1184",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant ombud-forbrugerombudsmanden|udsteder|kilde-forbrugerombudsmanden-sager",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://forbrugerombudsmanden.dk/find-sager",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant ombud-forbrugerombudsmanden|udsteder|kilde-forbrugerombudsmanden-retningslinjer",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://forbrugerombudsmanden.dk/publikationer/retningslinjer-og-vejledninger",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-forbrugerklageloven|hjemmel_for|naevn-forbrugerklagenaevnet",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/524",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-forbrugerklager-naevnenes-hus|hjemmel_for|naevn-forbrugerklagenaevnet",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/65",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant dom-domstolene|klageinstans|naevn-forbrugerklagenaevnet",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/524",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant naevn-forbrugerklagenaevnet|udsteder|kilde-fkn-afgoerelser",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/65",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-naevnenes-hus|udsteder|kilde-fkn-afgoerelser",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/65",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-forbrugerklageloven|hjemmel_for|bek-forbrugerklager-naevnenes-hus",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/65",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-forbrugerklageloven|hjemmel_for|org-godkendte-private-ankenaevn",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/524",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-godkendelse-private-tvistloesningsorganer|hjemmel_for|org-godkendte-private-ankenaevn",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/1151",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-gebyrer-godkendte-private-ankenaevn|hjemmel_for|org-godkendte-private-ankenaevn",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/928",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-naevnenes-hus|tilsyn|org-godkendte-private-ankenaevn",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://naevneneshus.dk/om-os/oversigt-over-godkendte-private-ankenaevn/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-naevnenes-hus|udsteder|kilde-godkendte-private-ankenaevn-liste",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://naevneneshus.dk/om-os/oversigt-over-godkendte-private-ankenaevn/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant dom-domstolene|klageinstans|org-godkendte-private-ankenaevn",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/524",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-forbrugerklageloven|hjemmel_for|org-ankenaevnet-for-forsikring",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.ankeforsikring.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-forbrugerklageloven|hjemmel_for|org-byggeriets-ankenaevn",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.byggerietsankenaevn.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-forbrugerklageloven|hjemmel_for|org-ankenaevnet-for-bus-tog-og-metro",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://naevneneshus.dk/om-os/oversigt-over-godkendte-private-ankenaevn/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-forbrugerklageloven|hjemmel_for|naevn-ankenaevnet-paa-energiomraadet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://naevneneshus.dk/om-os/oversigt-over-godkendte-private-ankenaevn/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ }
+]

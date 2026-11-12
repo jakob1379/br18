@@ -1,0 +1,1331 @@
+[
+ {
+  "hvor": "sty-familieretshuset.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2021/1122",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-familieretshuset.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-familieretshuset.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://familieretshuset.dk/om-familieretshuset/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-adoptionsnaevnet.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/669",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/669",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/669",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1754",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-adoptionsnaevnet.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1754",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "lov-familieretshusloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "209687",
+   "DocumentTitle": "Bekendtgørelse af lov om Familieretshuset",
+   "Year": "2019",
+   "DiesSigni": "2019-08-07",
+   "Status": "Valid",
+   "Number": "766",
+   "PopularTitle": "Familieretshusloven",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-familieretshusloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "209687",
+   "DocumentTitle": "Bekendtgørelse af lov om Familieretshuset",
+   "Year": "2019",
+   "DiesSigni": "2019-08-07",
+   "Status": "Valid",
+   "Number": "766",
+   "PopularTitle": "Familieretshusloven",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-familieretshusloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "209687",
+   "DocumentTitle": "Bekendtgørelse af lov om Familieretshuset",
+   "Year": "2019",
+   "DiesSigni": "2019-08-07",
+   "Status": "Valid",
+   "Number": "766",
+   "PopularTitle": "Familieretshusloven",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-familieretshusloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "209687",
+   "DocumentTitle": "Bekendtgørelse af lov om Familieretshuset",
+   "Year": "2019",
+   "DiesSigni": "2019-08-07",
+   "Status": "Valid",
+   "Number": "766",
+   "PopularTitle": "Familieretshusloven",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2019/766",
+   "lovtidende": "LBK nr. 766 af 07/08/2019"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-foraeldreansvarsloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "256522",
+   "DocumentTitle": "Bekendtgørelse af forældreansvarsloven",
+   "Year": "2026",
+   "DiesSigni": "2026-07-01",
+   "Status": "Valid",
+   "Number": "662",
+   "PopularTitle": "Forældreansvarsloven",
+   "Ministry": "Socialministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-foraeldreansvarsloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "256522",
+   "DocumentTitle": "Bekendtgørelse af forældreansvarsloven",
+   "Year": "2026",
+   "DiesSigni": "2026-07-01",
+   "Status": "Valid",
+   "Number": "662",
+   "PopularTitle": "Forældreansvarsloven",
+   "Ministry": "Socialministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-foraeldreansvarsloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "256522",
+   "DocumentTitle": "Bekendtgørelse af forældreansvarsloven",
+   "Year": "2026",
+   "DiesSigni": "2026-07-01",
+   "Status": "Valid",
+   "Number": "662",
+   "PopularTitle": "Forældreansvarsloven",
+   "Ministry": "Socialministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-foraeldreansvarsloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "256522",
+   "DocumentTitle": "Bekendtgørelse af forældreansvarsloven",
+   "Year": "2026",
+   "DiesSigni": "2026-07-01",
+   "Status": "Valid",
+   "Number": "662",
+   "PopularTitle": "Forældreansvarsloven",
+   "Ministry": "Socialministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2026/662",
+   "lovtidende": "LBK nr. 662 af 01/07/2026"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-aegteskabsloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "256526",
+   "DocumentTitle": "Bekendtgørelse af lov om ægteskabs indgåelse og opløsning",
+   "Year": "2026",
+   "DiesSigni": "2026-07-01",
+   "Status": "Valid",
+   "Number": "663",
+   "PopularTitle": "Ægteskabsloven",
+   "Ministry": "Socialministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-aegteskabsloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "256526",
+   "DocumentTitle": "Bekendtgørelse af lov om ægteskabs indgåelse og opløsning",
+   "Year": "2026",
+   "DiesSigni": "2026-07-01",
+   "Status": "Valid",
+   "Number": "663",
+   "PopularTitle": "Ægteskabsloven",
+   "Ministry": "Socialministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-aegteskabsloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "256526",
+   "DocumentTitle": "Bekendtgørelse af lov om ægteskabs indgåelse og opløsning",
+   "Year": "2026",
+   "DiesSigni": "2026-07-01",
+   "Status": "Valid",
+   "Number": "663",
+   "PopularTitle": "Ægteskabsloven",
+   "Ministry": "Socialministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-aegteskabsloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "256526",
+   "DocumentTitle": "Bekendtgørelse af lov om ægteskabs indgåelse og opløsning",
+   "Year": "2026",
+   "DiesSigni": "2026-07-01",
+   "Status": "Valid",
+   "Number": "663",
+   "PopularTitle": "Ægteskabsloven",
+   "Ministry": "Socialministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2026/663",
+   "lovtidende": "LBK nr. 663 af 01/07/2026"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-boerneloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "209771",
+   "DocumentTitle": "Bekendtgørelse af børneloven",
+   "Year": "2019",
+   "DiesSigni": "2019-08-07",
+   "Status": "Valid",
+   "Number": "772",
+   "PopularTitle": "Børneloven",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-boerneloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "209771",
+   "DocumentTitle": "Bekendtgørelse af børneloven",
+   "Year": "2019",
+   "DiesSigni": "2019-08-07",
+   "Status": "Valid",
+   "Number": "772",
+   "PopularTitle": "Børneloven",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-boerneloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "209771",
+   "DocumentTitle": "Bekendtgørelse af børneloven",
+   "Year": "2019",
+   "DiesSigni": "2019-08-07",
+   "Status": "Valid",
+   "Number": "772",
+   "PopularTitle": "Børneloven",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-boerneloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "209771",
+   "DocumentTitle": "Bekendtgørelse af børneloven",
+   "Year": "2019",
+   "DiesSigni": "2019-08-07",
+   "Status": "Valid",
+   "Number": "772",
+   "PopularTitle": "Børneloven",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2019/772",
+   "lovtidende": "LBK nr. 772 af 07/08/2019"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-adoptionsloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "256524",
+   "DocumentTitle": "Bekendtgørelse af adoptionsloven",
+   "Year": "2026",
+   "DiesSigni": "2026-07-01",
+   "Status": "Valid",
+   "Number": "669",
+   "PopularTitle": "Adoptionsloven",
+   "Ministry": "Socialministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-adoptionsloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "256524",
+   "DocumentTitle": "Bekendtgørelse af adoptionsloven",
+   "Year": "2026",
+   "DiesSigni": "2026-07-01",
+   "Status": "Valid",
+   "Number": "669",
+   "PopularTitle": "Adoptionsloven",
+   "Ministry": "Socialministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-adoptionsloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "256524",
+   "DocumentTitle": "Bekendtgørelse af adoptionsloven",
+   "Year": "2026",
+   "DiesSigni": "2026-07-01",
+   "Status": "Valid",
+   "Number": "669",
+   "PopularTitle": "Adoptionsloven",
+   "Ministry": "Socialministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-adoptionsloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "256524",
+   "DocumentTitle": "Bekendtgørelse af adoptionsloven",
+   "Year": "2026",
+   "DiesSigni": "2026-07-01",
+   "Status": "Valid",
+   "Number": "669",
+   "PopularTitle": "Adoptionsloven",
+   "Ministry": "Socialministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2026/669",
+   "lovtidende": "LBK nr. 669 af 01/07/2026"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-boerns-forsoergelse.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "209772",
+   "DocumentTitle": "Bekendtgørelse af lov om børns forsørgelse",
+   "Year": "2019",
+   "DiesSigni": "2019-08-07",
+   "Status": "Valid",
+   "Number": "773",
+   "PopularTitle": "Børnebidragsloven",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-boerns-forsoergelse.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "209772",
+   "DocumentTitle": "Bekendtgørelse af lov om børns forsørgelse",
+   "Year": "2019",
+   "DiesSigni": "2019-08-07",
+   "Status": "Valid",
+   "Number": "773",
+   "PopularTitle": "Børnebidragsloven",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-boerns-forsoergelse.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "209772",
+   "DocumentTitle": "Bekendtgørelse af lov om børns forsørgelse",
+   "Year": "2019",
+   "DiesSigni": "2019-08-07",
+   "Status": "Valid",
+   "Number": "773",
+   "PopularTitle": "Børnebidragsloven",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-boerns-forsoergelse.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "209772",
+   "DocumentTitle": "Bekendtgørelse af lov om børns forsørgelse",
+   "Year": "2019",
+   "DiesSigni": "2019-08-07",
+   "Status": "Valid",
+   "Number": "773",
+   "PopularTitle": "Børnebidragsloven",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2019/773",
+   "lovtidende": "LBK nr. 773 af 07/08/2019"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-navneloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "233664",
+   "DocumentTitle": "Bekendtgørelse af navneloven",
+   "Year": "2023",
+   "DiesSigni": "2023-08-09",
+   "Status": "Valid",
+   "Number": "1074",
+   "PopularTitle": "Navneloven",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-navneloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "233664",
+   "DocumentTitle": "Bekendtgørelse af navneloven",
+   "Year": "2023",
+   "DiesSigni": "2023-08-09",
+   "Status": "Valid",
+   "Number": "1074",
+   "PopularTitle": "Navneloven",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-navneloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "233664",
+   "DocumentTitle": "Bekendtgørelse af navneloven",
+   "Year": "2023",
+   "DiesSigni": "2023-08-09",
+   "Status": "Valid",
+   "Number": "1074",
+   "PopularTitle": "Navneloven",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-navneloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "233664",
+   "DocumentTitle": "Bekendtgørelse af navneloven",
+   "Year": "2023",
+   "DiesSigni": "2023-08-09",
+   "Status": "Valid",
+   "Number": "1074",
+   "PopularTitle": "Navneloven",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2023/1074",
+   "lovtidende": "LBK nr. 1074 af 09/08/2023"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-vaergemaalsloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "202697",
+   "DocumentTitle": "Bekendtgørelse af værgemålsloven",
+   "Year": "2021",
+   "DiesSigni": "2021-05-28",
+   "Status": "Valid",
+   "Number": "1122",
+   "PopularTitle": "Værgemålsloven",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-vaergemaalsloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "202697",
+   "DocumentTitle": "Bekendtgørelse af værgemålsloven",
+   "Year": "2021",
+   "DiesSigni": "2021-05-28",
+   "Status": "Valid",
+   "Number": "1122",
+   "PopularTitle": "Værgemålsloven",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-vaergemaalsloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "202697",
+   "DocumentTitle": "Bekendtgørelse af værgemålsloven",
+   "Year": "2021",
+   "DiesSigni": "2021-05-28",
+   "Status": "Valid",
+   "Number": "1122",
+   "PopularTitle": "Værgemålsloven",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-vaergemaalsloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "202697",
+   "DocumentTitle": "Bekendtgørelse af værgemålsloven",
+   "Year": "2021",
+   "DiesSigni": "2021-05-28",
+   "Status": "Valid",
+   "Number": "1122",
+   "PopularTitle": "Værgemålsloven",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2021/1122",
+   "lovtidende": "LBK nr. 1122 af 28/05/2021"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-bidragsopkraevningsloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "238674",
+   "DocumentTitle": "Bekendtgørelse af lov om opkrævning af underholdsbidrag",
+   "Year": "2023",
+   "DiesSigni": "2023-08-15",
+   "Status": "Valid",
+   "Number": "1092",
+   "PopularTitle": "Bidragsopkrævningsloven",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-bidragsopkraevningsloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "238674",
+   "DocumentTitle": "Bekendtgørelse af lov om opkrævning af underholdsbidrag",
+   "Year": "2023",
+   "DiesSigni": "2023-08-15",
+   "Status": "Valid",
+   "Number": "1092",
+   "PopularTitle": "Bidragsopkrævningsloven",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-bidragsopkraevningsloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "238674",
+   "DocumentTitle": "Bekendtgørelse af lov om opkrævning af underholdsbidrag",
+   "Year": "2023",
+   "DiesSigni": "2023-08-15",
+   "Status": "Valid",
+   "Number": "1092",
+   "PopularTitle": "Bidragsopkrævningsloven",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-bidragsopkraevningsloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "238674",
+   "DocumentTitle": "Bekendtgørelse af lov om opkrævning af underholdsbidrag",
+   "Year": "2023",
+   "DiesSigni": "2023-08-15",
+   "Status": "Valid",
+   "Number": "1092",
+   "PopularTitle": "Bidragsopkrævningsloven",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2023/1092",
+   "lovtidende": "LBK nr. 1092 af 15/08/2023"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-adoptionsnaevnet-forretningsorden.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1754",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-adoptionsnaevnet-forretningsorden.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "246183",
+   "DocumentTitle": "Bekendtgørelse om forretningsordenen for Adoptionsnævnet",
+   "Year": "2024",
+   "DiesSigni": "2024-12-30",
+   "Status": "Valid",
+   "Number": "1754",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-adoptionsnaevnet-forretningsorden.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "246183",
+   "DocumentTitle": "Bekendtgørelse om forretningsordenen for Adoptionsnævnet",
+   "Year": "2024",
+   "DiesSigni": "2024-12-30",
+   "Status": "Valid",
+   "Number": "1754",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-adoptionsnaevnet-forretningsorden.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "246183",
+   "DocumentTitle": "Bekendtgørelse om forretningsordenen for Adoptionsnævnet",
+   "Year": "2024",
+   "DiesSigni": "2024-12-30",
+   "Status": "Valid",
+   "Number": "1754",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2024/1754",
+   "lovtidende": "BEK nr. 1754 af 30/12/2024"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-adoption.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1755",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-adoption.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "246282",
+   "DocumentTitle": "Bekendtgørelse om adoption",
+   "Year": "2024",
+   "DiesSigni": "2024-12-30",
+   "Status": "Valid",
+   "Number": "1755",
+   "PopularTitle": "Adoptionsbekendtgørelsen",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-adoption.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "246282",
+   "DocumentTitle": "Bekendtgørelse om adoption",
+   "Year": "2024",
+   "DiesSigni": "2024-12-30",
+   "Status": "Valid",
+   "Number": "1755",
+   "PopularTitle": "Adoptionsbekendtgørelsen",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-adoption.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "246282",
+   "DocumentTitle": "Bekendtgørelse om adoption",
+   "Year": "2024",
+   "DiesSigni": "2024-12-30",
+   "Status": "Valid",
+   "Number": "1755",
+   "PopularTitle": "Adoptionsbekendtgørelsen",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2024/1755",
+   "lovtidende": "BEK nr. 1755 af 30/12/2024"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "kilde-familieretshuset-lovsamling.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://familieretshuset.dk/lovsamling/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-familieretshuset-lovsamling.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://familieretshuset.dk/lovsamling/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-familieretshuset-lovsamling.adgang",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://familieretshuset.dk/lovsamling/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|sty-familieretshuset",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://familieretshuset.dk/om-familieretshuset/organisation/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|naevn-adoptionsnaevnet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/669",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|lov-familieretshusloven",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|lov-foraeldreansvarsloven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/662",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "Socialministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|lov-aegteskabsloven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/663",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "Socialministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|lov-boerneloven",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/772",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|lov-adoptionsloven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/669",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "Socialministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|lov-boerns-forsoergelse",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/773",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|lov-navneloven",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/1074",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|lov-vaergemaalsloven",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2021/1122",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|lov-bidragsopkraevningsloven",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/1092",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|bek-adoptionsnaevnet-forretningsorden",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1754",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|bek-adoption",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1755",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-familieretshusloven|hjemmel_for|sty-familieretshuset",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-vaergemaalsloven|hjemmel_for|sty-familieretshuset",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2021/1122",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-adoptionsloven|hjemmel_for|naevn-adoptionsnaevnet",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/669",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-adoptionsloven|hjemmel_for|bek-adoptionsnaevnet-forretningsorden",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1754",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-adoptionsloven|hjemmel_for|bek-adoption",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1755",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-familieretshusloven|henviser_til|lov-foraeldreansvarsloven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-familieretshusloven|henviser_til|lov-aegteskabsloven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-familieretshusloven|henviser_til|lov-boerns-forsoergelse",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-familieretshusloven|henviser_til|lov-bidragsopkraevningsloven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-familieretshusloven|henviser_til|lov-boerneloven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-familieretshusloven|henviser_til|lov-navneloven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant dom-byretterne|klageinstans|sty-familieretshuset",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/663",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/772",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/773",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/1074",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/1092",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2021/1122",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/766",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-civilstyrelsen|klageinstans|sty-familieretshuset",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2021/1122",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-familieretshuset|udsteder|kilde-familieretshuset-lovsamling",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://familieretshuset.dk/lovsamling/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ }
+]

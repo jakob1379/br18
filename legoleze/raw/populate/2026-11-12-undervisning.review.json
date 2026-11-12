@@ -1,0 +1,762 @@
+[
+ {
+  "hvor": "sty-stuk.hjemmel",
+  "paastand": "Styrelsen for Undervisning og Kvalitet (STUK) (styrelse, ministerium min-undervisning): hjemmel = {\"tekst\": \"Tilsynskompetencen ligger hos undervisningsministeren, fx friskoleloven § 9 f (tilsyn med at frie grundskoler overholder kravene) og gymnasieloven § 70; STUK udøver tilsynet for ministeriet. Selve bemyndigelsen til STUK er ikke fundet.\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/700",
+    "citat": "Undervisningsministeren fører tilsyn med, at frie grundskoler overholder § 1, stk. 2-4, § 1 a og § 2, stk. 3, 1. pkt.",
+    "genfundet": true,
+    "kontekst": "ultatet af evalueringen og skolens plan for, hvordan der vil blive fulgt op herpå, på skolens hjemmeside på internettet. Stk. 4. Undervisningsministeren fastsætter regler om selvevaluering, herunder om kriterierne for godkendelse af evalueringsmodeller. Statens tilsyn med undervisningen m.v. § 9 f. Undervisningsministeren fører tilsyn med, at frie grundskoler overholder § 1, stk. 2-4, § 1 a og § 2, stk. 3, 1. pkt. Stk. 2. 5) § 9 f, stk. 2, ophæves den 31. juli 2029, jf. § 4, stk. 2, i lov nr. 563 af 7. maj 2019, medmindre andet bestemmes ved lov. Undervisningsministeren kan som led i et tilsyn med en skole pålægge bestyrelsesmedlemmer at underskrive en erklæring om overholdelse af § 1, stk. 2, 2. pkt., og §",
+    "paragraf": "§ 9 f"
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/624",
+    "citat": "Undervisningsministeren har det overordnede ansvar for og fører tilsyn med undervisning, prøver og eksamen i henhold til denne lov.",
+    "genfundet": true,
+    "kontekst": "ghed for at fortsætte på andet år af uddannelsen eller at fortsætte deres uddannelse på international baccalaureate (ib). Stk. 3. Undervisningsministeren kan fravige loven for en enkelt elev eller kursist, hvor helt særlige forhold gør sig gældende. Kapitel 11 Tilsyn, kvalitetssystem og klage § 70. Undervisningsministeren har det overordnede ansvar for og fører tilsyn med undervisning, prøver og eksamen i henhold til denne lov. Stk. 2. Undervisningsministeren kan give påbud til institutionens leder i pædagogiske anligg‌ender. § 71. Institutionens leder fastlægger et system til kvalitetsudvikling og resultatvurdering i forbindelse med uddannelserne og undervisningen. Stk. 2. Undervisningsministeren kan fastsætte regler he",
+    "paragraf": "§ 70"
+   }
+  ]
+ },
+ {
+  "hvor": "sty-stuk.dokumenttyper",
+  "paastand": "Styrelsen for Undervisning og Kvalitet (STUK) (styrelse, ministerium min-undervisning): dokumenttyper = {\"liste\": [{\"type\": \"tilsynsplan\", \"bindende\": \"ukendt\"}, {\"type\": \"tilsynsberetning\", \"bindende\": \"ukendt\", \"note\": \"årlig samlet beretning\"}]}",
+  "belaeg": [
+   {
+    "url": "https://stukuvm.dk/tilsyn/",
+    "citat": "Styrelsens tilsynsstrategi udmøntes i tilsynsplaner og afrapporteres i en samlet tilsynsberetning.",
+    "genfundet": true,
+    "kontekst": "ører tilsyn med Undervisningsministeriets uddannelser, institutioner og øvrig tilskudsforvaltning. Værd at vide om STUK’s tilsyn Styrelsen for Undervisning og Kvalitet (STUK) fører tilsyn for at sikre undervisning af god kvalitet til gavn for elever og kursister. Tilsynsplaner og tilsynsberetninger Styrelsens tilsynsstrategi udmøntes i tilsynsplaner og afrapporteres i en samlet tilsynsberetning. Tilsynsforum I Tilsynsforum sker den overordnede dialog om tilsynet med de forskellige uddannelsesområders aktører. Styrelsen for Undervisning og Kvalitet Kalvebod Brygge 47 1560 København V Kontakt ministeriet CVR: 29634750 Undervisningsministeriet Andre af ministeriets hjemmesider Undervisningsm"
+   }
+  ]
+ },
+ {
+  "hvor": "sty-stuk.url",
+  "paastand": "Styrelsen for Undervisning og Kvalitet (STUK) (styrelse, ministerium min-undervisning): url = {\"vaerdi\": \"https://stukuvm.dk/\"}",
+  "belaeg": [
+   {
+    "url": "https://stukuvm.dk/om-styrelsen/styrelsens-formaal-og-kerneopgaver/",
+    "citat": "Vi varetager tilsyn med kvaliteten på alle landets skoler og uddannelsesinstitutioner",
+    "genfundet": true,
+    "kontekst": "elser. Læs om styrelsen som arbejdsplads Vores kerneopgaver Hver dag arbejder vi for at gøre det lettere at give god undervisning gennem vores seks kerneopgaver: Vi vejleder institutioner og kommuner om god kvalitet i undervisning og dagtilbud Vi bidrager til løbende udvikling af fag og uddannelser Vi varetager tilsyn med kvaliteten på alle landets skoler og uddannelsesinstitutioner Vi understøtter bæredygtig institutionsdrift gennem tilskud, vejledning og økonomisk tilsyn Vi fremmer evalueringskulturen i uddannelserne gennem drift og udvikling af prøver, test og eksaminer Vi bidrager til, at såvel ministerbetjening som sektorvejledning baseres på det bedst mulige vidensgrundl"
+   }
+  ]
+ },
+ {
+  "hvor": "sty-stil.hjemmel",
+  "paastand": "Styrelsen for It og Læring (STIL) (styrelse, ministerium min-undervisning): hjemmel = {\"tekst\": \"Ingen selvstændig lovhjemmel fundet; STIL er en del af ministeriet og driver ministeriets it, data og sikkerhed.\"}",
+  "belaeg": [
+   {
+    "url": "https://stil.dk/om-styrelsen/styrelsens-maal-og-opgaver/maal_ansvarsomraader_og_retning/",
+    "citat": "Styrelsen for It og Læring (STIL) er en del af Undervisningsministeriet.",
+    "genfundet": true,
+    "kontekst": " styrelsen Driftsstatus og support Om styrelsen Nyheder Forside Om styrelsen Styrelsens mål og opgaver Mål, ansvarsområder og retning Styrelsens mål og opgaver Mål, ansvarsområder og retning Styrelsens samfundskritiske it-løsninger It-udvikling der skaber hurtig værdi Mål, ansvarsområder og retning Styrelsen for It og Læring (STIL) er en del af Undervisningsministeriet. Vores overordnede ansvarsområder er it, data og sikkerhed, som udgør fundamentet for digitaliseringen af undervisningsområdet. Vi udfører opgaver inden for de overordnede målsætninger, rammer og regler på ministeriets område. Konkret har vi ansvaret for ministeriets it-infrastruktur og mere end 10"
+   }
+  ]
+ },
+ {
+  "hvor": "sty-stil.dokumenttyper",
+  "paastand": "Styrelsen for It og Læring (STIL) (styrelse, ministerium min-undervisning): dokumenttyper = {\"liste\": [{\"type\": \"data og it-løsninger (Unilogin, Uddannelsesstatistik.dk m.fl.)\", \"bindende\": \"ukendt\", \"note\": \"driftsstyrelse; udsteder ikke regler eller afgørelser i kæden\"}]}",
+  "belaeg": [
+   {
+    "url": "https://stil.dk/om-styrelsen/styrelsens-maal-og-opgaver/maal_ansvarsomraader_og_retning/",
+    "citat": "Børn, unge, voksne samt skoler, uddannelsesinstitutioner og kommuner er blandt brugerne af vores it- og dataløsninger, som Unilogin, digitale test- og prøvesystemer, Optagelse.dk, Uddannelsesguiden.dk og Uddannelsesstatistik.dk.",
+    "genfundet": true,
+    "kontekst": "sondata beskyttes og håndteres efter gældende regler. Vi har ligeledes ansvaret for indsamling, kvalitetssikring og formidling af data på uddannelsesområdet. Data og tilhørende nøgletal er tilgængelige via ministeriets datavarehus og bliver bl.a. anvendt til at understøtte uddannelsernes udvikling. Børn, unge, voksne samt skoler, uddannelsesinstitutioner og kommuner er blandt brugerne af vores it- og dataløsninger, som Unilogin, digitale test- og prøvesystemer, Optagelse.dk, Uddannelsesguiden.dk og Uddannelsesstatistik.dk. Vi arbejder strategisk med vores samlede portefølje af it-løsninger med fokus på at modernisere, forenkle og sikre teknisk robusthed. Hovedparten af it-løsningerne bygger på open source-software, der giver fleksibilitet og understøtter en sammenhængende digital infrastruktur. Mission, vision og ke"
+   }
+  ]
+ },
+ {
+  "hvor": "sty-stil.url",
+  "paastand": "Styrelsen for It og Læring (STIL) (styrelse, ministerium min-undervisning): url = {\"vaerdi\": \"https://stil.dk/\"}",
+  "belaeg": [
+   {
+    "url": "https://stil.dk/om-styrelsen/organisation/",
+    "citat": "Styrelsen for It og Læring er en styrelse under Undervisningsministeriet.",
+    "genfundet": true,
+    "kontekst": "onssikkerhed og databeskyttelse i undervisningssektoren It-driften Uddannelsesvalg og vejledning Digitale test og prøver Administration og infrastruktur Data Informationssikkerhed og it-drift Job i styrelsen Driftsstatus og support Om styrelsen Nyheder Forside Om styrelsen Organisation Organisation Styrelsen for It og Læring er en styrelse under Undervisningsministeriet. Vi er organiseret i to vicedirektørområder med hver en række kontorer. Organisationsdiagram Se vores organisationsdiagram og find link til ministeriets organisation. Direktionen Læs mere om styrelsens direktør og vicedirektører. Kontorer En oversigt over de forskellige kontorer og centre i Styrels"
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-klagenaevnet-specialundervisning.hjemmel",
+  "paastand": "Klagenævnet for Specialundervisning (klagenævn, ministerium min-undervisning): hjemmel = {\"tekst\": \"Folkeskolelovens § 51 a, stk. 1: nævnet nedsættes af undervisningsministeren; klageadgangen følger af § 51, stk. 3-5, 8 og 9 (4 ugers frist), § 51 b (klagen indgives til afgørelsesmyndigheden, som genvurderer) og § 51 c (prøvelsens rækkevidde).\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/870",
+    "citat": "Klagenævnet for Specialundervisning nedsættes af undervisningsministeren.",
+    "genfundet": true,
+    "kontekst": "indbringes for Klagenævnet for Specialundervisning, jf. § 51 a. Det samme gælder kommunalbestyrelsens afgørelser om det nærmere indhold af specialundervisning og anden specialpædagogisk bistand i behandlings- og specialundervisningstilbud og specialundervisningstilbud på børne- og ungehjem. § 51 a. Klagenævnet for Specialundervisning nedsættes af undervisningsministeren. Formanden for nævnet skal være cand. jur. 2 medlemmer beskikkes efter indstilling fra KL, og 2 medlemmer beskikkes efter indstilling fra Danske Handicaporganisationer. Formanden og medlemmerne beskikkes for 4 år. For formanden og medlemmerne beskikkes stedfortrædere. Stk. 2. KL kan udpege en repræ",
+    "paragraf": "§ 51 a"
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/870",
+    "citat": "Afgørelser om henvisning eller afslag på henvisning til specialundervisning i henhold til § 21, stk. 1, samt afgørelse om at tilbagekalde en henvisning kan inden 4 uger fra afgørelsens meddelelse af forældrene, jf. § 54, stk. 1, indbringes for Klagenævnet for Specialundervisning, jf. § 51 a.",
+    "genfundet": true,
+    "kontekst": "yndighed. Stk. 2. Beslutninger og afgørelser, som træffes af kommunalbestyrelsen vedrørende det kommunale skolevæsen, kan ikke indbringes for højere administrativ myndighed, jf. dog stk. 3-6. Undervisningsministeren kan fastsætte regler om, at andre afgørelser kan indbringes for ministeren. Stk. 3. Afgørelser om henvisning eller afslag på henvisning til specialundervisning i henhold til § 21, stk. 1, samt afgørelse om at tilbagekalde en henvisning kan inden 4 uger fra afgørelsens meddelelse af forældrene, jf. § 54, stk. 1, indbringes for Klagenævnet for Specialundervisning, jf. § 51 a. Det samme gælder for afgørelser om henvisning, afslag på henvisning eller tilbagekaldelse af henvisning til specialskoler og specialklasser, jf. § 20, stk. 2. Stk. 4. Afgørelser om det nærmere indhold af foranstaltningen på specialskoler eller i specialklasser kan inden 4 uger fra afgørelsens medd",
+    "paragraf": "§ 51"
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-klagenaevnet-specialundervisning.dokumenttyper",
+  "paastand": "Klagenævnet for Specialundervisning (klagenævn, ministerium min-undervisning): dokumenttyper = {\"liste\": [{\"type\": \"afgørelse\", \"bindende\": \"bindende\"}, {\"type\": \"K-meddelelse\", \"bindende\": \"blandet\", \"note\": \"beskriver principielle afgørelser og vejleder om centrale problemstillinger\"}]}",
+  "belaeg": [
+   {
+    "url": "https://ast.dk/naevn/klagenaevnet-for-specialundervisning/meddelelser-om-praksis-fra-klagenaevnet-for-specialundervisning",
+    "citat": "Klagenævnet udgiver løbende meddelelser om praksis (K-meddelelser). Meddelelserne beskriver i kort form nævnets mere principielle afgørelser og vejleder om centrale problemstillinger.",
+    "genfundet": true,
+    "kontekst": "\" Nævn Adoptionsnævnet Ankenævnet for Statens Uddannelsesstøtteordninger Arbejdsmiljøklagenævnet Klagenævnet for Specialundervisning Ligebehandlingsnævnet Psykolognævnet Gå til \"Nævn\" Du er her: Forside Nævn Klagenævnet for Specialundervisning Meddelelser fra klagenævnet Meddelelser fra klagenævnet Klagenævnet udgiver løbende meddelelser om praksis (K-meddelelser). Meddelelserne beskriver i kort form nævnets mere principielle afgørelser og vejleder om centrale problemstillinger. Bemærk, at lovhenvisningerne i nogle af meddelelserne er historiske. Meddelelser om specialpædagogisk bistand til førskolebørn Meddelelse nr. 45 om genvurderingsfristen i sager om specialpædagogisk bistand til folkeskolebørn Meddelelse nr. 44 om klagenævnets kompetence i klagesager om specialpædag"
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-klagenaevnet-specialundervisning.url",
+  "paastand": "Klagenævnet for Specialundervisning (klagenævn, ministerium min-undervisning): url = {\"vaerdi\": \"https://ast.dk/naevn/klagenaevnet-for-specialundervisning\"}",
+  "belaeg": [
+   {
+    "url": "https://ast.dk/naevn/klagenaevnet-for-specialundervisning",
+    "citat": "Klagenævnet for Specialundervisning behandler klager over afgørelser om specialundervisning til både børn, unge og voksne.",
+    "genfundet": true,
+    "kontekst": "breve Gå til \"Tilsyn\" Nævn Adoptionsnævnet Ankenævnet for Statens Uddannelsesstøtteordninger Arbejdsmiljøklagenævnet Klagenævnet for Specialundervisning Ligebehandlingsnævnet Psykolognævnet Gå til \"Nævn\" Du er her: Forside Nævn Klagenævnet for Specialundervisning Klagenævnet for Specialundervisning Klagenævnet for Specialundervisning behandler klager over afgørelser om specialundervisning til både børn, unge og voksne. Nævnet er en uafhængig klageinstans. Det vil sige, at vi er uafhængige af undervisningsministeren og Ankestyrelsen, når vi behandler og afgør sager. Nævnet bliver betjent af et sekretariat, som er placeret i Ankestyrelsen. Kontakt nævnet Kontaktoplysninger Postadresse: Ankestyrelsen Nytorv 7, 2. s"
+   }
+  ]
+ },
+ {
+  "hvor": "bek-forretningsorden-klagenaevnet-specialundervisning.hjemmel",
+  "paastand": "Bekendtgørelse om forretningsorden for Klagenævnet for Specialundervisning (BEK nr. 998 af 15/09/2014) (bekendtgørelse, ministerium min-undervisning): hjemmel = {\"tekst\": \"Folkeskolelovens § 51 a, stk. 3-5 (forretningsorden, regler om nævnets virksomhed, sekretariatsbistand).\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/998",
+    "citat": "I medfør af § 51 a, stk. 3-5, i lov om folkeskolen, jf. lovbekendtgørelse nr. 665 af 20. juni 2014",
+    "genfundet": true,
+    "kontekst": "cialundervisning Specialundervisning for voksne Specialskole Nej Christine Antorini Ole Hvilsom Larsen Undervisningsministeriet Undervisningsmin., j.nr. 032.77S.541 Børne- og Undervisningsministeriet Undervisningsministeriet Bekendtgørelse om forretningsorden for Klagenævnet for Specialundervisning I medfør af § 51 a, stk. 3-5, i lov om folkeskolen, jf. lovbekendtgørelse nr. 665 af 20. juni 2014, og efter forhandling med ministeren for børn, ligestilling, integration og sociale forhold fastsættes: Sekretariatsbetjeningen m.v. § 1. Sekretariatsbetjeningen af Klagenævnet for Specialundervisning varetages af Ankestyrelsen under Ministeriet for Børn, Ligestilling, Integration og Sociale Forhol"
+   }
+  ]
+ },
+ {
+  "hvor": "bek-forretningsorden-klagenaevnet-specialundervisning.url",
+  "paastand": "Bekendtgørelse om forretningsorden for Klagenævnet for Specialundervisning (BEK nr. 998 af 15/09/2014) (bekendtgørelse, ministerium min-undervisning): url = {\"vaerdi\": \"https://www.retsinformation.dk/eli/lta/2014/998\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/998",
+    "citat": "Bekendtgørelse om forretningsorden for Klagenævnet for Specialundervisning",
+    "genfundet": true,
+    "kontekst": "BEK H#LOKDOK04 B B20140099805 AT004939 164588 Bekendtgørelse om forretningsorden for Klagenævnet for Specialundervisning 2014 2014-09-15 2014-09-19 2026-10-09 Valid 998 Lovtidende A 2014-09-19 A20260087029 2026-09-29 Bekendtgørelse af lov om folkeskolen Klagenævnet for Specialundervisning Klagenævnet Specialundervisning Specialundervisning for voksne Specialskole Nej Christine Antorini Ole Hvilsom Larsen Undervisning"
+   }
+  ]
+ },
+ {
+  "hvor": "bek-forretningsorden-klagenaevnet-specialundervisning.identifikatorer",
+  "paastand": "Bekendtgørelse om forretningsorden for Klagenævnet for Specialundervisning (BEK nr. 998 af 15/09/2014) (bekendtgørelse, ministerium min-undervisning): identifikatorer = {\"eli\": \"https://www.retsinformation.dk/eli/lta/2014/998\", \"lovtidende\": \"BEK nr 998 af 15/09/2014\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/998",
+    "citat": "Bekendtgørelse om forretningsorden for Klagenævnet for Specialundervisning",
+    "genfundet": true,
+    "kontekst": "BEK H#LOKDOK04 B B20140099805 AT004939 164588 Bekendtgørelse om forretningsorden for Klagenævnet for Specialundervisning 2014 2014-09-15 2014-09-19 2026-10-09 Valid 998 Lovtidende A 2014-09-19 A20260087029 2026-09-29 Bekendtgørelse af lov om folkeskolen Klagenævnet for Specialundervisning Klagenævnet Specialundervisning Specialundervisning for voksne Specialskole Nej Christine Antorini Ole Hvilsom Larsen Undervisning"
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-ankenaevn-oplaeringsvirksomheder.tidligere_navne[Ankenævnet vedrørende Praktikvirksomheder]",
+  "paastand": "Ankenævnet vedrørende Oplæringsvirksomheder (tidl. Ankenævnet vedrørende Praktikvirksomheder) (klagenævn, ministerium min-erhverv) hed tidligere Ankenævnet vedrørende Praktikvirksomheder (–ukendt (omdøbt i erhvervsuddannelsesloven; datoen er ikke fundet))",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2007/1517",
+    "citat": "Bekendtgørelse om Ankenævnet vedrørende Praktikvirksomheder",
+    "genfundet": true,
+    "kontekst": "BEK H#LOKDOK04 B B20070151705 AT003192 113991 Bekendtgørelse om Ankenævnet vedrørende Praktikvirksomheder 2007 2007-12-13 2007-12-21 2026-03-18 Valid 1517 Lovtidende A 2007-12-21 A20260038129 2026-03-13 Bekendtgørelse af lov om erhvervsuddannelser Nej P.M.V.\\nE.B.\\nJørgen Torsbjerg Møller Stine Tøfting-Kristiansen Undervisningsministeriet Undervisningsmin., j.nr. 159.134.021 Erhvervsministeriet Undervi"
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-ankenaevn-oplaeringsvirksomheder.hjemmel",
+  "paastand": "Ankenævnet vedrørende Oplæringsvirksomheder (tidl. Ankenævnet vedrørende Praktikvirksomheder) (klagenævn, ministerium min-erhverv): hjemmel = {\"tekst\": \"Erhvervsuddannelseslovens § 47, stk. 1-2: virksomheders klager over afslag på godkendelse som lærested eller tilbagekaldelse (§ 46) behandles af ankenævnet; afgørelserne kan ikke indbringes for anden administrativ myndighed. Nævnet nedsættes af erhvervsministeren.\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/381",
+    "citat": "Afgørelse i henhold til § 46 om, at en virksomhed ikke kan godkendes som lærested, eller afgørelse om hel eller delvis tilbagekaldelse af virksomhedens godkendelse kan af virksomheden indbringes for Ankenævnet vedrørende Oplæringsvirksomheder, hvis afgørelser ikke kan indbringes for anden administrativ myndighed.",
+    "genfundet": true,
+    "kontekst": "ning indsatsen understøtter et tilstrækkeligt lærepladspotentiale. Redegørelsen fremsendes til Børne- og Undervisningsministeriet til orientering. Børne- og undervisningsministeren kan efter indstilling fra Rådet for de Grundlæggende Erhvervsrettede Uddannelser fastsætte nærmere regler herom. § 47. Afgørelse i henhold til § 46 om, at en virksomhed ikke kan godkendes som lærested, eller afgørelse om hel eller delvis tilbagekaldelse af virksomhedens godkendelse kan af virksomheden indbringes for Ankenævnet vedrørende Oplæringsvirksomheder, hvis afgørelser ikke kan indbringes for anden administrativ myndighed. En afgørelse truffet af det faglige udvalg om ikke at tilbagekalde en godkendelse helt eller delvis efter § 46, stk. 3, kan tillige indbringes for Ankenævnet vedrørende Oplæringsvirksomheder af arbejdsgiver- eller arbejdstagerrepræsentanter i det faglige udvalg. Stk. 2. Ankenævnet nedsættes af erh",
+    "paragraf": "§ 47"
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/381",
+    "citat": "Ankenævnet nedsættes af erhvervsministeren.",
+    "genfundet": true,
+    "kontekst": "den administrativ myndighed. En afgørelse truffet af det faglige udvalg om ikke at tilbagekalde en godkendelse helt eller delvis efter § 46, stk. 3, kan tillige indbringes for Ankenævnet vedrørende Oplæringsvirksomheder af arbejdsgiver- eller arbejdstagerrepræsentanter i det faglige udvalg. Stk. 2. Ankenævnet nedsættes af erhvervsministeren. Formanden skal være landsdommer. 1 medlem beskikkes efter indstilling fra Dansk Arbejdsgiverforening og 1 medlem efter indstilling fra Fagbevægelsens Hovedorganisation. Der beskikkes tillige 1 medlem efter fælles indstilling fra Kommunernes Landsforening og Regionerne i Danmark, samt 1 medlem efte",
+    "paragraf": "§ 47"
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-ankenaevn-oplaeringsvirksomheder.dokumenttyper",
+  "paastand": "Ankenævnet vedrørende Oplæringsvirksomheder (tidl. Ankenævnet vedrørende Praktikvirksomheder) (klagenævn, ministerium min-erhverv): dokumenttyper = {\"liste\": [{\"type\": \"afgørelse\", \"bindende\": \"bindende\"}]}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2007/1517",
+    "citat": "Ankenævnet vedrørende Praktikvirksomheder træffer afgørelse af klager over, at en virksomheds ansøgning om godkendelse som praktiksted efter erhvervsuddannelseslovens § 46, stk. 1, ikke fuldt ud er imødekommet.",
+    "genfundet": true,
+    "kontekst": "iet Undervisningsmin., j.nr. 159.134.021 Erhvervsministeriet Undervisningsministeriet Bekendtgørelse om Ankenævnet vedrørende Praktikvirksomheder I medfør af § 47, stk. 4, i lov om erhvervsuddannelser, jf. lovbekendtgørelse nr. 1244 af 23. oktober 2007, fastsættes: Kapitel 1 Ankenævnets opgave § 1. Ankenævnet vedrørende Praktikvirksomheder træffer afgørelse af klager over, at en virksomheds ansøgning om godkendelse som praktiksted efter erhvervsuddannelseslovens § 46, stk. 1, ikke fuldt ud er imødekommet. Stk. 2. Ankenævnet træffer tillige afgørelse i sager, hvor der ankes over et fagligt udvalgs afgørelse truffet i medfør af § 44, stk. 4 og 5 i erhvervsuddannelsesloven. § 2. Nævnet er beslutningsdygtigt, når alle medlemmer i den enkelte sag, jf. erhvervsuddannelseslovens § 47, stk. 3, deltager i s",
+    "paragraf": "§ 1"
+   }
+  ]
+ },
+ {
+  "hvor": "bek-ankenaevn-praktikvirksomheder.hjemmel",
+  "paastand": "Bekendtgørelse om Ankenævnet vedrørende Praktikvirksomheder (BEK nr. 1517 af 13/12/2007) (bekendtgørelse, ministerium min-erhverv): hjemmel = {\"tekst\": \"Erhvervsuddannelseslovens § 47, stk. 4 (dagældende nummerering, LBK 1244/2007).\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2007/1517",
+    "citat": "I medfør af § 47, stk. 4, i lov om erhvervsuddannelser, jf. lovbekendtgørelse nr. 1244 af 23. oktober 2007, fastsættes",
+    "genfundet": true,
+    "kontekst": "60038129 2026-03-13 Bekendtgørelse af lov om erhvervsuddannelser Nej P.M.V.\\nE.B.\\nJørgen Torsbjerg Møller Stine Tøfting-Kristiansen Undervisningsministeriet Undervisningsmin., j.nr. 159.134.021 Erhvervsministeriet Undervisningsministeriet Bekendtgørelse om Ankenævnet vedrørende Praktikvirksomheder I medfør af § 47, stk. 4, i lov om erhvervsuddannelser, jf. lovbekendtgørelse nr. 1244 af 23. oktober 2007, fastsættes: Kapitel 1 Ankenævnets opgave § 1. Ankenævnet vedrørende Praktikvirksomheder træffer afgørelse af klager over, at en virksomheds ansøgning om godkendelse som praktiksted efter erhvervsuddannelseslovens § 46, stk. 1, ikke fuldt ud er imødekommet. Stk. 2. Ankenævnet træffer tillige afgørelse i sager,"
+   }
+  ]
+ },
+ {
+  "hvor": "bek-ankenaevn-praktikvirksomheder.url",
+  "paastand": "Bekendtgørelse om Ankenævnet vedrørende Praktikvirksomheder (BEK nr. 1517 af 13/12/2007) (bekendtgørelse, ministerium min-erhverv): url = {\"vaerdi\": \"https://www.retsinformation.dk/eli/lta/2007/1517\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2007/1517",
+    "citat": "Bekendtgørelse om Ankenævnet vedrørende Praktikvirksomheder",
+    "genfundet": true,
+    "kontekst": "BEK H#LOKDOK04 B B20070151705 AT003192 113991 Bekendtgørelse om Ankenævnet vedrørende Praktikvirksomheder 2007 2007-12-13 2007-12-21 2026-03-18 Valid 1517 Lovtidende A 2007-12-21 A20260038129 2026-03-13 Bekendtgørelse af lov om erhvervsuddannelser Nej P.M.V.\\nE.B.\\nJørgen Torsbjerg Møller Stine Tøfting-Kristiansen Undervisningsministeriet Undervisningsmin., j.nr. 159.134.021 Erhvervsministeriet Undervi"
+   }
+  ]
+ },
+ {
+  "hvor": "bek-ankenaevn-praktikvirksomheder.identifikatorer",
+  "paastand": "Bekendtgørelse om Ankenævnet vedrørende Praktikvirksomheder (BEK nr. 1517 af 13/12/2007) (bekendtgørelse, ministerium min-erhverv): identifikatorer = {\"eli\": \"https://www.retsinformation.dk/eli/lta/2007/1517\", \"lovtidende\": \"BEK nr 1517 af 13/12/2007\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2007/1517",
+    "citat": "Bekendtgørelse om Ankenævnet vedrørende Praktikvirksomheder",
+    "genfundet": true,
+    "kontekst": "BEK H#LOKDOK04 B B20070151705 AT003192 113991 Bekendtgørelse om Ankenævnet vedrørende Praktikvirksomheder 2007 2007-12-13 2007-12-21 2026-03-18 Valid 1517 Lovtidende A 2007-12-21 A20260038129 2026-03-13 Bekendtgørelse af lov om erhvervsuddannelser Nej P.M.V.\\nE.B.\\nJørgen Torsbjerg Møller Stine Tøfting-Kristiansen Undervisningsministeriet Undervisningsmin., j.nr. 159.134.021 Erhvervsministeriet Undervi"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-folkeskoleloven.hjemmel",
+  "paastand": "Folkeskoleloven (lov, ministerium min-undervisning): hjemmel = {\"tekst\": \"ikke relevant\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/870",
+    "citat": "Bekendtgørelse af lov om folkeskolen",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20260087029 DV000033 257891 Bekendtgørelse af lov om folkeskolen 2026 2026-09-29 2026-10-08 2026-11-06 Valid 870 Folkeskoleloven Lovtidende A 2026-10-08 32005L0036 32012R1024 A20240165930 2024-12-30 Lov om ændring af lov om folkeskolen, lov om erhvervsuddannelser og forskellige andre love (Folkeskolens kvalitetsprogram m.v.) Nej P.M.V.\\nOle Hvilsom Larsen Marian"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-folkeskoleloven.url",
+  "paastand": "Folkeskoleloven (lov, ministerium min-undervisning): url = {\"vaerdi\": \"https://www.retsinformation.dk/eli/lta/2026/870\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/870",
+    "citat": "Bekendtgørelse af lov om folkeskolen",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20260087029 DV000033 257891 Bekendtgørelse af lov om folkeskolen 2026 2026-09-29 2026-10-08 2026-11-06 Valid 870 Folkeskoleloven Lovtidende A 2026-10-08 32005L0036 32012R1024 A20240165930 2024-12-30 Lov om ændring af lov om folkeskolen, lov om erhvervsuddannelser og forskellige andre love (Folkeskolens kvalitetsprogram m.v.) Nej P.M.V.\\nOle Hvilsom Larsen Marian"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-folkeskoleloven.identifikatorer",
+  "paastand": "Folkeskoleloven (lov, ministerium min-undervisning): identifikatorer = {\"eli\": \"https://www.retsinformation.dk/eli/lta/2026/870\", \"lovtidende\": \"LBK nr 870 af 29/09/2026\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/870",
+    "citat": "Bekendtgørelse af lov om folkeskolen",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20260087029 DV000033 257891 Bekendtgørelse af lov om folkeskolen 2026 2026-09-29 2026-10-08 2026-11-06 Valid 870 Folkeskoleloven Lovtidende A 2026-10-08 32005L0036 32012R1024 A20240165930 2024-12-30 Lov om ændring af lov om folkeskolen, lov om erhvervsuddannelser og forskellige andre love (Folkeskolens kvalitetsprogram m.v.) Nej P.M.V.\\nOle Hvilsom Larsen Marian"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-friskoleloven.hjemmel",
+  "paastand": "Lov om friskoler og private grundskoler m.v. (friskoleloven) (lov, ministerium min-undervisning): hjemmel = {\"tekst\": \"ikke relevant\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/700",
+    "citat": "Bekendtgørelse af lov om friskoler og private grundskoler m.v.",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20260070029 DV000025 257119 Bekendtgørelse af lov om friskoler og private grundskoler m.v. 2026 2026-08-13 2026-08-26 2026-08-27 Valid 700 Friskoleloven Lovtidende A 2026-08-26 A20180039730 2018-05-02 Lov om ændring af lov om friskoler og private grundskoler m.v. og lov om folkeskolen (Bedre rammer for tilsyn med frie grundskoler m.v.) A20190056330 2019-05-07 Lov om ændring af lov om fr"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-friskoleloven.url",
+  "paastand": "Lov om friskoler og private grundskoler m.v. (friskoleloven) (lov, ministerium min-undervisning): url = {\"vaerdi\": \"https://www.retsinformation.dk/eli/lta/2026/700\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/700",
+    "citat": "Bekendtgørelse af lov om friskoler og private grundskoler m.v.",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20260070029 DV000025 257119 Bekendtgørelse af lov om friskoler og private grundskoler m.v. 2026 2026-08-13 2026-08-26 2026-08-27 Valid 700 Friskoleloven Lovtidende A 2026-08-26 A20180039730 2018-05-02 Lov om ændring af lov om friskoler og private grundskoler m.v. og lov om folkeskolen (Bedre rammer for tilsyn med frie grundskoler m.v.) A20190056330 2019-05-07 Lov om ændring af lov om fr"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-friskoleloven.identifikatorer",
+  "paastand": "Lov om friskoler og private grundskoler m.v. (friskoleloven) (lov, ministerium min-undervisning): identifikatorer = {\"eli\": \"https://www.retsinformation.dk/eli/lta/2026/700\", \"lovtidende\": \"LBK nr 700 af 13/08/2026\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/700",
+    "citat": "Bekendtgørelse af lov om friskoler og private grundskoler m.v.",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20260070029 DV000025 257119 Bekendtgørelse af lov om friskoler og private grundskoler m.v. 2026 2026-08-13 2026-08-26 2026-08-27 Valid 700 Friskoleloven Lovtidende A 2026-08-26 A20180039730 2018-05-02 Lov om ændring af lov om friskoler og private grundskoler m.v. og lov om folkeskolen (Bedre rammer for tilsyn med frie grundskoler m.v.) A20190056330 2019-05-07 Lov om ændring af lov om fr"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-gymnasieloven.hjemmel",
+  "paastand": "Lov om de gymnasiale uddannelser (gymnasieloven) (lov, ministerium min-undervisning): hjemmel = {\"tekst\": \"ikke relevant\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/624",
+    "citat": "Bekendtgørelse af lov om de gymnasiale uddannelser",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20260062429 DV000012 256719 Bekendtgørelse af lov om de gymnasiale uddannelser 2026 2026-06-18 2026-06-30 2026-07-03 Valid 624 Lovtidende A 2026-06-30 A20210253230 2021-12-22 Lov om ændring af lov om institutioner for almengymnasiale uddannelser og almen voksenuddannelse m.v., lov om de gymnasiale uddannelser, lov om private institutioner for gymnasiale uddannelser og lov om "
+   }
+  ]
+ },
+ {
+  "hvor": "lov-gymnasieloven.url",
+  "paastand": "Lov om de gymnasiale uddannelser (gymnasieloven) (lov, ministerium min-undervisning): url = {\"vaerdi\": \"https://www.retsinformation.dk/eli/lta/2026/624\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/624",
+    "citat": "Bekendtgørelse af lov om de gymnasiale uddannelser",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20260062429 DV000012 256719 Bekendtgørelse af lov om de gymnasiale uddannelser 2026 2026-06-18 2026-06-30 2026-07-03 Valid 624 Lovtidende A 2026-06-30 A20210253230 2021-12-22 Lov om ændring af lov om institutioner for almengymnasiale uddannelser og almen voksenuddannelse m.v., lov om de gymnasiale uddannelser, lov om private institutioner for gymnasiale uddannelser og lov om "
+   }
+  ]
+ },
+ {
+  "hvor": "lov-gymnasieloven.identifikatorer",
+  "paastand": "Lov om de gymnasiale uddannelser (gymnasieloven) (lov, ministerium min-undervisning): identifikatorer = {\"eli\": \"https://www.retsinformation.dk/eli/lta/2026/624\", \"lovtidende\": \"LBK nr 624 af 18/06/2026\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/624",
+    "citat": "Bekendtgørelse af lov om de gymnasiale uddannelser",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20260062429 DV000012 256719 Bekendtgørelse af lov om de gymnasiale uddannelser 2026 2026-06-18 2026-06-30 2026-07-03 Valid 624 Lovtidende A 2026-06-30 A20210253230 2021-12-22 Lov om ændring af lov om institutioner for almengymnasiale uddannelser og almen voksenuddannelse m.v., lov om de gymnasiale uddannelser, lov om private institutioner for gymnasiale uddannelser og lov om "
+   }
+  ]
+ },
+ {
+  "hvor": "lov-institutioner-almengymnasiale.hjemmel",
+  "paastand": "Lov om institutioner for almengymnasiale uddannelser og almen voksenuddannelse m.v. (lov, ministerium min-undervisning): hjemmel = {\"tekst\": \"ikke relevant\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/366",
+    "citat": "Bekendtgørelse af lov om institutioner for almengymnasiale uddannelser og almen voksenuddannelse m.v.",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20260036629 DA001799 255850 Bekendtgørelse af lov om institutioner for almengymnasiale uddannelser og almen voksenuddannelse m.v. 2026 2026-03-05 2026-03-06 2026-11-06 Valid 366 Lovtidende A 2026-03-06 A20250071930 2025-06-20 Lov om ændring af lov om regioner og om nedlæggelse af amtskommunerne, Hovedstadens Udviklingsråd og Hovedstadens Sygehusfællesskab (regionsloven) og forskellige andre love (Ny regional forvaltningsmode"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-institutioner-almengymnasiale.url",
+  "paastand": "Lov om institutioner for almengymnasiale uddannelser og almen voksenuddannelse m.v. (lov, ministerium min-undervisning): url = {\"vaerdi\": \"https://www.retsinformation.dk/eli/lta/2026/366\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/366",
+    "citat": "Bekendtgørelse af lov om institutioner for almengymnasiale uddannelser og almen voksenuddannelse m.v.",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20260036629 DA001799 255850 Bekendtgørelse af lov om institutioner for almengymnasiale uddannelser og almen voksenuddannelse m.v. 2026 2026-03-05 2026-03-06 2026-11-06 Valid 366 Lovtidende A 2026-03-06 A20250071930 2025-06-20 Lov om ændring af lov om regioner og om nedlæggelse af amtskommunerne, Hovedstadens Udviklingsråd og Hovedstadens Sygehusfællesskab (regionsloven) og forskellige andre love (Ny regional forvaltningsmode"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-institutioner-almengymnasiale.identifikatorer",
+  "paastand": "Lov om institutioner for almengymnasiale uddannelser og almen voksenuddannelse m.v. (lov, ministerium min-undervisning): identifikatorer = {\"eli\": \"https://www.retsinformation.dk/eli/lta/2026/366\", \"lovtidende\": \"LBK nr 366 af 05/03/2026\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/366",
+    "citat": "Bekendtgørelse af lov om institutioner for almengymnasiale uddannelser og almen voksenuddannelse m.v.",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20260036629 DA001799 255850 Bekendtgørelse af lov om institutioner for almengymnasiale uddannelser og almen voksenuddannelse m.v. 2026 2026-03-05 2026-03-06 2026-11-06 Valid 366 Lovtidende A 2026-03-06 A20250071930 2025-06-20 Lov om ændring af lov om regioner og om nedlæggelse af amtskommunerne, Hovedstadens Udviklingsråd og Hovedstadens Sygehusfællesskab (regionsloven) og forskellige andre love (Ny regional forvaltningsmode"
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-k-meddelelser-specialundervisning.dokumenttyper",
+  "paastand": "K-meddelelser fra Klagenævnet for Specialundervisning (ast.dk) (dokumentkilde, ministerium min-social): dokumenttyper = {\"liste\": [{\"type\": \"K-meddelelse\", \"bindende\": \"blandet\", \"note\": \"principielle afgørelser og vejledning\"}]}",
+  "belaeg": [
+   {
+    "url": "https://ast.dk/naevn/klagenaevnet-for-specialundervisning/meddelelser-om-praksis-fra-klagenaevnet-for-specialundervisning",
+    "citat": "Meddelelserne beskriver i kort form nævnets mere principielle afgørelser og vejleder om centrale problemstillinger.",
+    "genfundet": true,
+    "kontekst": "nger Arbejdsmiljøklagenævnet Klagenævnet for Specialundervisning Ligebehandlingsnævnet Psykolognævnet Gå til \"Nævn\" Du er her: Forside Nævn Klagenævnet for Specialundervisning Meddelelser fra klagenævnet Meddelelser fra klagenævnet Klagenævnet udgiver løbende meddelelser om praksis (K-meddelelser). Meddelelserne beskriver i kort form nævnets mere principielle afgørelser og vejleder om centrale problemstillinger. Bemærk, at lovhenvisningerne i nogle af meddelelserne er historiske. Meddelelser om specialpædagogisk bistand til førskolebørn Meddelelse nr. 45 om genvurderingsfristen i sager om specialpædagogisk bistand til folkeskolebørn Meddelelse nr. 44 om klagenævnets kompetence i klagesager om specialpædag"
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-k-meddelelser-specialundervisning.url",
+  "paastand": "K-meddelelser fra Klagenævnet for Specialundervisning (ast.dk) (dokumentkilde, ministerium min-social): url = {\"vaerdi\": \"https://ast.dk/naevn/klagenaevnet-for-specialundervisning/meddelelser-om-praksis-fra-klagenaevnet-for-specialundervisning\"}",
+  "belaeg": [
+   {
+    "url": "https://ast.dk/naevn/klagenaevnet-for-specialundervisning/meddelelser-om-praksis-fra-klagenaevnet-for-specialundervisning",
+    "citat": "Klagenævnet udgiver løbende meddelelser om praksis (K-meddelelser).",
+    "genfundet": true,
+    "kontekst": "\" Nævn Adoptionsnævnet Ankenævnet for Statens Uddannelsesstøtteordninger Arbejdsmiljøklagenævnet Klagenævnet for Specialundervisning Ligebehandlingsnævnet Psykolognævnet Gå til \"Nævn\" Du er her: Forside Nævn Klagenævnet for Specialundervisning Meddelelser fra klagenævnet Meddelelser fra klagenævnet Klagenævnet udgiver løbende meddelelser om praksis (K-meddelelser). Meddelelserne beskriver i kort form nævnets mere principielle afgørelser og vejleder om centrale problemstillinger. Bemærk, at lovhenvisningerne i nogle af meddelelserne er historiske. Meddelelser om specialpædagogisk bistand til førskolebørn Meddelelse nr. 45 om genvurderingsfristen i sager om s"
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-k-meddelelser-specialundervisning.adgang",
+  "paastand": "K-meddelelser fra Klagenævnet for Specialundervisning (ast.dk) (dokumentkilde, ministerium min-social): adgang = {\"vaerdier\": [\"HTML\"], \"note\": \"Oversigtsside med emneinddelt liste; hver meddelelse er et enkeltdokument (formodet PDF, ikke verificeret).\"}",
+  "belaeg": [
+   {
+    "url": "https://ast.dk/naevn/klagenaevnet-for-specialundervisning/meddelelser-om-praksis-fra-klagenaevnet-for-specialundervisning",
+    "citat": "Klagenævnet udgiver løbende meddelelser om praksis (K-meddelelser).",
+    "genfundet": true,
+    "kontekst": "\" Nævn Adoptionsnævnet Ankenævnet for Statens Uddannelsesstøtteordninger Arbejdsmiljøklagenævnet Klagenævnet for Specialundervisning Ligebehandlingsnævnet Psykolognævnet Gå til \"Nævn\" Du er her: Forside Nævn Klagenævnet for Specialundervisning Meddelelser fra klagenævnet Meddelelser fra klagenævnet Klagenævnet udgiver løbende meddelelser om praksis (K-meddelelser). Meddelelserne beskriver i kort form nævnets mere principielle afgørelser og vejleder om centrale problemstillinger. Bemærk, at lovhenvisningerne i nogle af meddelelserne er historiske. Meddelelser om specialpædagogisk bistand til førskolebørn Meddelelse nr. 45 om genvurderingsfristen i sager om s"
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-k-meddelelser-specialundervisning.identifikatorer",
+  "paastand": "K-meddelelser fra Klagenævnet for Specialundervisning (ast.dk) (dokumentkilde, ministerium min-social): identifikatorer = {\"andet\": \"Løbende nummerering: Meddelelse nr. N om <emne>; listen når mindst nr. 48.\"}",
+  "belaeg": [
+   {
+    "url": "https://ast.dk/naevn/klagenaevnet-for-specialundervisning/meddelelser-om-praksis-fra-klagenaevnet-for-specialundervisning",
+    "citat": "Meddelelse nr. 45 om genvurderingsfristen i sager om specialpædagogisk bistand til folkeskolebørn",
+    "genfundet": true,
+    "kontekst": " udgiver løbende meddelelser om praksis (K-meddelelser). Meddelelserne beskriver i kort form nævnets mere principielle afgørelser og vejleder om centrale problemstillinger. Bemærk, at lovhenvisningerne i nogle af meddelelserne er historiske. Meddelelser om specialpædagogisk bistand til førskolebørn Meddelelse nr. 45 om genvurderingsfristen i sager om specialpædagogisk bistand til folkeskolebørn Meddelelse nr. 44 om klagenævnets kompetence i klagesager om specialpædagogisk bistand til førskolebørn Meddelelser om specialundervisning til folkeskolebørn Meddelelse nr. 48 om specialundervisning i ungdomsskolen Meddelelse nr. 47 om brugen af ”fleksible tilbud” i folkeskolen Meddelelse nr. 42 om"
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-k-meddelelser-specialundervisning.opdatering",
+  "paastand": "K-meddelelser fra Klagenævnet for Specialundervisning (ast.dk) (dokumentkilde, ministerium min-social): opdatering = {\"frekvens\": \"løbende\", \"versionshistorik\": \"meddelelser revideres; lovhenvisninger er i nogle historiske\"}",
+  "belaeg": [
+   {
+    "url": "https://ast.dk/naevn/klagenaevnet-for-specialundervisning/meddelelser-om-praksis-fra-klagenaevnet-for-specialundervisning",
+    "citat": "Bemærk, at lovhenvisningerne i nogle af meddelelserne er historiske.",
+    "genfundet": true,
+    "kontekst": "Du er her: Forside Nævn Klagenævnet for Specialundervisning Meddelelser fra klagenævnet Meddelelser fra klagenævnet Klagenævnet udgiver løbende meddelelser om praksis (K-meddelelser). Meddelelserne beskriver i kort form nævnets mere principielle afgørelser og vejleder om centrale problemstillinger. Bemærk, at lovhenvisningerne i nogle af meddelelserne er historiske. Meddelelser om specialpædagogisk bistand til førskolebørn Meddelelse nr. 45 om genvurderingsfristen i sager om specialpædagogisk bistand til folkeskolebørn Meddelelse nr. 44 om klagenævnets kompetence i klagesager om specialpædagogisk bistand til førskolebørn Meddelelser om specialundervisning til"
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-stuk-tilsynsberetninger.dokumenttyper",
+  "paastand": "STUK: tilsynsplaner og tilsynsberetninger (dokumentkilde, ministerium min-undervisning): dokumenttyper = {\"liste\": [{\"type\": \"tilsynsplan\", \"bindende\": \"ukendt\"}, {\"type\": \"tilsynsberetning\", \"bindende\": \"ukendt\"}]}",
+  "belaeg": [
+   {
+    "url": "https://stukuvm.dk/tilsyn/",
+    "citat": "Styrelsens tilsynsstrategi udmøntes i tilsynsplaner og afrapporteres i en samlet tilsynsberetning.",
+    "genfundet": true,
+    "kontekst": "ører tilsyn med Undervisningsministeriets uddannelser, institutioner og øvrig tilskudsforvaltning. Værd at vide om STUK’s tilsyn Styrelsen for Undervisning og Kvalitet (STUK) fører tilsyn for at sikre undervisning af god kvalitet til gavn for elever og kursister. Tilsynsplaner og tilsynsberetninger Styrelsens tilsynsstrategi udmøntes i tilsynsplaner og afrapporteres i en samlet tilsynsberetning. Tilsynsforum I Tilsynsforum sker den overordnede dialog om tilsynet med de forskellige uddannelsesområders aktører. Styrelsen for Undervisning og Kvalitet Kalvebod Brygge 47 1560 København V Kontakt ministeriet CVR: 29634750 Undervisningsministeriet Andre af ministeriets hjemmesider Undervisningsm"
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-stuk-tilsynsberetninger.url",
+  "paastand": "STUK: tilsynsplaner og tilsynsberetninger (dokumentkilde, ministerium min-undervisning): url = {\"vaerdi\": \"https://stukuvm.dk/tilsyn/\"}",
+  "belaeg": [
+   {
+    "url": "https://stukuvm.dk/tilsyn/",
+    "citat": "Styrelsens tilsynsstrategi udmøntes i tilsynsplaner og afrapporteres i en samlet tilsynsberetning.",
+    "genfundet": true,
+    "kontekst": "ører tilsyn med Undervisningsministeriets uddannelser, institutioner og øvrig tilskudsforvaltning. Værd at vide om STUK’s tilsyn Styrelsen for Undervisning og Kvalitet (STUK) fører tilsyn for at sikre undervisning af god kvalitet til gavn for elever og kursister. Tilsynsplaner og tilsynsberetninger Styrelsens tilsynsstrategi udmøntes i tilsynsplaner og afrapporteres i en samlet tilsynsberetning. Tilsynsforum I Tilsynsforum sker den overordnede dialog om tilsynet med de forskellige uddannelsesområders aktører. Styrelsen for Undervisning og Kvalitet Kalvebod Brygge 47 1560 København V Kontakt ministeriet CVR: 29634750 Undervisningsministeriet Andre af ministeriets hjemmesider Undervisningsm"
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-stuk-tilsynsberetninger.adgang",
+  "paastand": "STUK: tilsynsplaner og tilsynsberetninger (dokumentkilde, ministerium min-undervisning): adgang = {\"vaerdier\": [\"HTML\"], \"note\": \"Sider på stukuvm.dk; selve beretningerne ligger som PDF på uvm.dk (ikke åbnet).\"}",
+  "belaeg": [
+   {
+    "url": "https://stukuvm.dk/tilsyn/",
+    "citat": "Styrelsens tilsynsstrategi udmøntes i tilsynsplaner og afrapporteres i en samlet tilsynsberetning.",
+    "genfundet": true,
+    "kontekst": "ører tilsyn med Undervisningsministeriets uddannelser, institutioner og øvrig tilskudsforvaltning. Værd at vide om STUK’s tilsyn Styrelsen for Undervisning og Kvalitet (STUK) fører tilsyn for at sikre undervisning af god kvalitet til gavn for elever og kursister. Tilsynsplaner og tilsynsberetninger Styrelsens tilsynsstrategi udmøntes i tilsynsplaner og afrapporteres i en samlet tilsynsberetning. Tilsynsforum I Tilsynsforum sker den overordnede dialog om tilsynet med de forskellige uddannelsesområders aktører. Styrelsen for Undervisning og Kvalitet Kalvebod Brygge 47 1560 København V Kontakt ministeriet CVR: 29634750 Undervisningsministeriet Andre af ministeriets hjemmesider Undervisningsm"
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-stuk-tilsynsberetninger.identifikatorer",
+  "paastand": "STUK: tilsynsplaner og tilsynsberetninger (dokumentkilde, ministerium min-undervisning): identifikatorer = {\"andet\": \"Én beretning pr. år, navngivet efter tilsynsåret (fx tilsynsberetning for 2024).\"}",
+  "belaeg": [
+   {
+    "url": "https://uvm.dk/aktuelt/nyheder/2025/september/251109-styrelsen-for-undervisning-og-kvalitet-offentliggoer-sin-tilsynsberetning-for-2024/",
+    "citat": "Styrelsen for Undervisning og Kvalitet (STUK) har netop offentliggjort sin årlige tilsynsberetning for 2024.",
+    "genfundet": true,
+    "kontekst": "sne Grundskole Uddannelse til unge Uddannelse til voksne Aktuelt Ministeriet Institutionsdrift Forside Aktuelt Nyheder Styrelsen for Undervisning og Kvalitet offentliggør sin tilsynsberetning for 2024 Styrelsen for Undervisning og Kvalitet offentliggør sin tilsynsberetning for 2024 11.09.2025 Nyhed Styrelsen for Undervisning og Kvalitet (STUK) har netop offentliggjort sin årlige tilsynsberetning for 2024. Beretningen giver et samlet overblik over STUKs tilsynsaktiviteter på tværs af hele undervisningsområdet under Børne- og Undervisningsministeriet, herunder folkeskoler, frie grundskoler, gymnasier, erhvervsskoler, VUC, AMU-centre og FGU-institutioner. Tilsynsberetningen for 2024 redegør for, hvilk"
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-stuk-tilsynsberetninger.opdatering",
+  "paastand": "STUK: tilsynsplaner og tilsynsberetninger (dokumentkilde, ministerium min-undervisning): opdatering = {\"frekvens\": \"årlig\", \"versionshistorik\": \"beretning for 2024 offentliggjort 11.09.2025\"}",
+  "belaeg": [
+   {
+    "url": "https://uvm.dk/aktuelt/nyheder/2025/september/251109-styrelsen-for-undervisning-og-kvalitet-offentliggoer-sin-tilsynsberetning-for-2024/",
+    "citat": "Styrelsen for Undervisning og Kvalitet (STUK) har netop offentliggjort sin årlige tilsynsberetning for 2024.",
+    "genfundet": true,
+    "kontekst": "sne Grundskole Uddannelse til unge Uddannelse til voksne Aktuelt Ministeriet Institutionsdrift Forside Aktuelt Nyheder Styrelsen for Undervisning og Kvalitet offentliggør sin tilsynsberetning for 2024 Styrelsen for Undervisning og Kvalitet offentliggør sin tilsynsberetning for 2024 11.09.2025 Nyhed Styrelsen for Undervisning og Kvalitet (STUK) har netop offentliggjort sin årlige tilsynsberetning for 2024. Beretningen giver et samlet overblik over STUKs tilsynsaktiviteter på tværs af hele undervisningsområdet under Børne- og Undervisningsministeriet, herunder folkeskoler, frie grundskoler, gymnasier, erhvervsskoler, VUC, AMU-centre og FGU-institutioner. Tilsynsberetningen for 2024 redegør for, hvilk"
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-undervisning|ressortansvar|sty-stuk",
+  "belaeg": [
+   {
+    "url": "https://stukuvm.dk/om-styrelsen/organisation/",
+    "citat": "Styrelsen for Undervisning og Kvalitet er en styrelse under Børne- og Undervisningsministeriet.",
+    "genfundet": true,
+    "kontekst": "ads Ledige stillinger Fra ansøgning til ansættelse Udvikling af fag og uddannelser Kvalitet i undervisningen Prøver, eksamen og test Vejledning og støtte Drift af uddannelsesinstitutioner Tilsyn Job i styrelsen Om styrelsen Job i styrelsen Om styrelsen Forside Om styrelsen Organisation Organisation Styrelsen for Undervisning og Kvalitet er en styrelse under Børne- og Undervisningsministeriet. Styrelsen er organiseret i tre vicedirektørområder med forskellige ansvarsområder. Organisation Se styrelsens organisationsdiagram. Chefgruppen Læs mere om styrelsens chefgruppe. Direktionen Læs mere om styrelsens direktører og vicedirektører. Styrelsen for Undervisning og Kvalitet Kalvebod Brygge"
+   },
+   {
+    "url": "https://uvm.dk/ministeriet/om-ministeriet/organisationen-i-ministeriet/styrelsen-for-undervisning-og-kvalitets-organisationsdiagram/",
+    "citat": "dagtilbuds- og uddannelsesområderne under Undervisningsministeriets ressort",
+    "genfundet": true,
+    "kontekst": "dende grunduddannelse (FGU), ungdomsuddannelserne samt de almene voksenuddannelser. Det sker gennem dialog med og vejledning til sektoren, tilsyn, videns- og erfaringsopsamlinger samt et systematisk arbejde med at identificere udfordringer og udviklingsmuligheder for fag og undervisning på tværs af dagtilbuds- og uddannelsesområderne under Undervisningsministeriets ressort. Forum for uddannelses- og tilskudsadministration Forummet har til formål at sikre et helhedsorienteret og fagligt velfunderet bidrag til udviklingen af en sammenhængende uddannelses- og tilskudsadministration. Forummet sikrer sammenhængende forretningsgange samt forenkling og modning af forretning"
+   }
+  ],
+  "paastand": "min-undervisning —ressortansvar→ Styrelsen for Undervisning og Kvalitet (STUK): Styrelse under Undervisningsministeriet (styrelsens egen side bruger endnu det gamle ministerienavn)."
+ },
+ {
+  "hvor": "kant min-undervisning|ressortansvar|sty-stil",
+  "belaeg": [
+   {
+    "url": "https://stil.dk/om-styrelsen/organisation/",
+    "citat": "Styrelsen for It og Læring er en styrelse under Undervisningsministeriet.",
+    "genfundet": true,
+    "kontekst": "onssikkerhed og databeskyttelse i undervisningssektoren It-driften Uddannelsesvalg og vejledning Digitale test og prøver Administration og infrastruktur Data Informationssikkerhed og it-drift Job i styrelsen Driftsstatus og support Om styrelsen Nyheder Forside Om styrelsen Organisation Organisation Styrelsen for It og Læring er en styrelse under Undervisningsministeriet. Vi er organiseret i to vicedirektørområder med hver en række kontorer. Organisationsdiagram Se vores organisationsdiagram og find link til ministeriets organisation. Direktionen Læs mere om styrelsens direktør og vicedirektører. Kontorer En oversigt over de forskellige kontorer og centre i Styrels"
+   }
+  ],
+  "paastand": "min-undervisning —ressortansvar→ Styrelsen for It og Læring (STIL): Styrelse under Undervisningsministeriet."
+ },
+ {
+  "hvor": "kant min-undervisning|ressortansvar|naevn-klagenaevnet-specialundervisning",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/870",
+    "citat": "Klagenævnet for Specialundervisning nedsættes af undervisningsministeren.",
+    "genfundet": true,
+    "kontekst": "indbringes for Klagenævnet for Specialundervisning, jf. § 51 a. Det samme gælder kommunalbestyrelsens afgørelser om det nærmere indhold af specialundervisning og anden specialpædagogisk bistand i behandlings- og specialundervisningstilbud og specialundervisningstilbud på børne- og ungehjem. § 51 a. Klagenævnet for Specialundervisning nedsættes af undervisningsministeren. Formanden for nævnet skal være cand. jur. 2 medlemmer beskikkes efter indstilling fra KL, og 2 medlemmer beskikkes efter indstilling fra Danske Handicaporganisationer. Formanden og medlemmerne beskikkes for 4 år. For formanden og medlemmerne beskikkes stedfortrædere. Stk. 2. KL kan udpege en repræ",
+    "paragraf": "§ 51 a"
+   }
+  ],
+  "paastand": "min-undervisning —ressortansvar→ Klagenævnet for Specialundervisning: Nævnet nedsættes af undervisningsministeren og får sekretariatsbistand fra ministeren (folkeskoleloven § 51 a)."
+ },
+ {
+  "hvor": "kant min-undervisning|ressortansvar|bek-forretningsorden-klagenaevnet-specialundervisning",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/998",
+    "citat": "Bekendtgørelse om forretningsorden for Klagenævnet for Specialundervisning",
+    "genfundet": true,
+    "kontekst": "BEK H#LOKDOK04 B B20140099805 AT004939 164588 Bekendtgørelse om forretningsorden for Klagenævnet for Specialundervisning 2014 2014-09-15 2014-09-19 2026-10-09 Valid 998 Lovtidende A 2014-09-19 A20260087029 2026-09-29 Bekendtgørelse af lov om folkeskolen Klagenævnet for Specialundervisning Klagenævnet Specialundervisning Specialundervisning for voksne Specialskole Nej Christine Antorini Ole Hvilsom Larsen Undervisning"
+   }
+  ],
+  "paastand": "min-undervisning —ressortansvar→ Bekendtgørelse om forretningsorden for Klagenævnet for Specialundervisning (BEK nr. 998 af 15/09/2014): Bekendtgørelse udstedt af undervisningsministeren; Retsinformations ministeriefelt har endnu det gamle navn Børne- og Undervisningsministeriet."
+ },
+ {
+  "hvor": "kant min-undervisning|ressortansvar|lov-folkeskoleloven",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/870",
+    "citat": "Bekendtgørelse af lov om folkeskolen",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20260087029 DV000033 257891 Bekendtgørelse af lov om folkeskolen 2026 2026-09-29 2026-10-08 2026-11-06 Valid 870 Folkeskoleloven Lovtidende A 2026-10-08 32005L0036 32012R1024 A20240165930 2024-12-30 Lov om ændring af lov om folkeskolen, lov om erhvervsuddannelser og forskellige andre love (Folkeskolens kvalitetsprogram m.v.) Nej P.M.V.\\nOle Hvilsom Larsen Marian"
+   }
+  ],
+  "paastand": "min-undervisning —ressortansvar→ Folkeskoleloven: Loven hører under undervisningsministeren."
+ },
+ {
+  "hvor": "kant min-undervisning|ressortansvar|lov-friskoleloven",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/700",
+    "citat": "Bekendtgørelse af lov om friskoler og private grundskoler m.v.",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20260070029 DV000025 257119 Bekendtgørelse af lov om friskoler og private grundskoler m.v. 2026 2026-08-13 2026-08-26 2026-08-27 Valid 700 Friskoleloven Lovtidende A 2026-08-26 A20180039730 2018-05-02 Lov om ændring af lov om friskoler og private grundskoler m.v. og lov om folkeskolen (Bedre rammer for tilsyn med frie grundskoler m.v.) A20190056330 2019-05-07 Lov om ændring af lov om fr"
+   }
+  ],
+  "paastand": "min-undervisning —ressortansvar→ Lov om friskoler og private grundskoler m.v. (friskoleloven): Loven hører under undervisningsministeren."
+ },
+ {
+  "hvor": "kant min-undervisning|ressortansvar|lov-gymnasieloven",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/624",
+    "citat": "Bekendtgørelse af lov om de gymnasiale uddannelser",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20260062429 DV000012 256719 Bekendtgørelse af lov om de gymnasiale uddannelser 2026 2026-06-18 2026-06-30 2026-07-03 Valid 624 Lovtidende A 2026-06-30 A20210253230 2021-12-22 Lov om ændring af lov om institutioner for almengymnasiale uddannelser og almen voksenuddannelse m.v., lov om de gymnasiale uddannelser, lov om private institutioner for gymnasiale uddannelser og lov om "
+   }
+  ],
+  "paastand": "min-undervisning —ressortansvar→ Lov om de gymnasiale uddannelser (gymnasieloven): Loven hører under undervisningsministeren."
+ },
+ {
+  "hvor": "kant min-undervisning|ressortansvar|lov-institutioner-almengymnasiale",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/366",
+    "citat": "Børne- og undervisningsministeren fører tilsyn med institutionerne.",
+    "genfundet": true,
+    "kontekst": "det beløb, hvormed deltagerbetalingen er forhøjet for de pågældende kursister. Stk. 3. Regler fastsat efter stk. 1 og takstnedsættelse efter stk. 2 kan tidligst have virkning for undervisningsforløb, der påbegyndes 1 måned efter bekendtgørelsens offentliggørelse i Lovtidende. Kapitel 7 Tilsyn § 50. Børne- og undervisningsministeren fører tilsyn med institutionerne. Stk. 2. Finder børne- og undervisningsministeren, at en institutions virksomhed ikke er i overensstemmelse med denne lov eller de regler eller aftaler, der er fastsat eller indgået i henhold til loven, kan ministeren udstede påbud til institutionen om at ændre den pågældende virksomhed. § 51. Hvis",
+    "paragraf": "§ 50"
+   }
+  ],
+  "paastand": "min-undervisning —ressortansvar→ Lov om institutioner for almengymnasiale uddannelser og almen voksenuddannelse m.v.: Loven hører under undervisningsministeren; Retsinformations felt har endnu det gamle navn Børne- og Undervisningsministeriet (omdøbt 3. juni 2026), og loven nævner selv Børne- og undervisningsministeren som tilsynsmyndighed."
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|naevn-ankenaevn-oplaeringsvirksomheder",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/381",
+    "citat": "Ankenævnet nedsættes af erhvervsministeren.",
+    "genfundet": true,
+    "kontekst": "den administrativ myndighed. En afgørelse truffet af det faglige udvalg om ikke at tilbagekalde en godkendelse helt eller delvis efter § 46, stk. 3, kan tillige indbringes for Ankenævnet vedrørende Oplæringsvirksomheder af arbejdsgiver- eller arbejdstagerrepræsentanter i det faglige udvalg. Stk. 2. Ankenævnet nedsættes af erhvervsministeren. Formanden skal være landsdommer. 1 medlem beskikkes efter indstilling fra Dansk Arbejdsgiverforening og 1 medlem efter indstilling fra Fagbevægelsens Hovedorganisation. Der beskikkes tillige 1 medlem efter fælles indstilling fra Kommunernes Landsforening og Regionerne i Danmark, samt 1 medlem efte",
+    "paragraf": "§ 47"
+   }
+  ],
+  "paastand": "min-erhverv —ressortansvar→ Ankenævnet vedrørende Oplæringsvirksomheder (tidl. Ankenævnet vedrørende Praktikvirksomheder): Nævnet nedsættes af erhvervsministeren (erhvervsuddannelsesloven § 47, stk. 2)."
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|bek-ankenaevn-praktikvirksomheder",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2007/1517",
+    "citat": "Bekendtgørelse om Ankenævnet vedrørende Praktikvirksomheder",
+    "genfundet": true,
+    "kontekst": "BEK H#LOKDOK04 B B20070151705 AT003192 113991 Bekendtgørelse om Ankenævnet vedrørende Praktikvirksomheder 2007 2007-12-13 2007-12-21 2026-03-18 Valid 1517 Lovtidende A 2007-12-21 A20260038129 2026-03-13 Bekendtgørelse af lov om erhvervsuddannelser Nej P.M.V.\\nE.B.\\nJørgen Torsbjerg Møller Stine Tøfting-Kristiansen Undervisningsministeriet Undervisningsmin., j.nr. 159.134.021 Erhvervsministeriet Undervi"
+   }
+  ],
+  "paastand": "min-erhverv —ressortansvar→ Bekendtgørelse om Ankenævnet vedrørende Praktikvirksomheder (BEK nr. 1517 af 13/12/2007): Retsinformations ministeriefelt for bekendtgørelsen er Erhvervsministeriet."
+ },
+ {
+  "hvor": "kant lov-folkeskoleloven|hjemmel_for|naevn-klagenaevnet-specialundervisning",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/870",
+    "citat": "Klagenævnet for Specialundervisning nedsættes af undervisningsministeren.",
+    "genfundet": true,
+    "kontekst": "indbringes for Klagenævnet for Specialundervisning, jf. § 51 a. Det samme gælder kommunalbestyrelsens afgørelser om det nærmere indhold af specialundervisning og anden specialpædagogisk bistand i behandlings- og specialundervisningstilbud og specialundervisningstilbud på børne- og ungehjem. § 51 a. Klagenævnet for Specialundervisning nedsættes af undervisningsministeren. Formanden for nævnet skal være cand. jur. 2 medlemmer beskikkes efter indstilling fra KL, og 2 medlemmer beskikkes efter indstilling fra Danske Handicaporganisationer. Formanden og medlemmerne beskikkes for 4 år. For formanden og medlemmerne beskikkes stedfortrædere. Stk. 2. KL kan udpege en repræ",
+    "paragraf": "§ 51 a"
+   }
+  ],
+  "paastand": "Folkeskoleloven —hjemmel_for→ Klagenævnet for Specialundervisning: § 51 a: nævnet nedsættes af ministeren; § 51, stk. 3-5, 8 og 9: afgørelser om specialundervisning m.v. kan indbringes for nævnet inden 4 uger."
+ },
+ {
+  "hvor": "kant lov-folkeskoleloven|hjemmel_for|bek-forretningsorden-klagenaevnet-specialundervisning",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/998",
+    "citat": "I medfør af § 51 a, stk. 3-5, i lov om folkeskolen, jf. lovbekendtgørelse nr. 665 af 20. juni 2014",
+    "genfundet": true,
+    "kontekst": "cialundervisning Specialundervisning for voksne Specialskole Nej Christine Antorini Ole Hvilsom Larsen Undervisningsministeriet Undervisningsmin., j.nr. 032.77S.541 Børne- og Undervisningsministeriet Undervisningsministeriet Bekendtgørelse om forretningsorden for Klagenævnet for Specialundervisning I medfør af § 51 a, stk. 3-5, i lov om folkeskolen, jf. lovbekendtgørelse nr. 665 af 20. juni 2014, og efter forhandling med ministeren for børn, ligestilling, integration og sociale forhold fastsættes: Sekretariatsbetjeningen m.v. § 1. Sekretariatsbetjeningen af Klagenævnet for Specialundervisning varetages af Ankestyrelsen under Ministeriet for Børn, Ligestilling, Integration og Sociale Forhol"
+   }
+  ],
+  "paastand": "Folkeskoleloven —hjemmel_for→ Bekendtgørelse om forretningsorden for Klagenævnet for Specialundervisning (BEK nr. 998 af 15/09/2014): § 51 a, stk. 3-5."
+ },
+ {
+  "hvor": "kant naevn-klagenaevnet-specialundervisning|klageinstans|kommune-alle",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/870",
+    "citat": "Afgørelser om henvisning eller afslag på henvisning til specialundervisning i henhold til § 21, stk. 1, samt afgørelse om at tilbagekalde en henvisning kan inden 4 uger fra afgørelsens meddelelse af forældrene, jf. § 54, stk. 1, indbringes for Klagenævnet for Specialundervisning, jf. § 51 a.",
+    "genfundet": true,
+    "kontekst": "yndighed. Stk. 2. Beslutninger og afgørelser, som træffes af kommunalbestyrelsen vedrørende det kommunale skolevæsen, kan ikke indbringes for højere administrativ myndighed, jf. dog stk. 3-6. Undervisningsministeren kan fastsætte regler om, at andre afgørelser kan indbringes for ministeren. Stk. 3. Afgørelser om henvisning eller afslag på henvisning til specialundervisning i henhold til § 21, stk. 1, samt afgørelse om at tilbagekalde en henvisning kan inden 4 uger fra afgørelsens meddelelse af forældrene, jf. § 54, stk. 1, indbringes for Klagenævnet for Specialundervisning, jf. § 51 a. Det samme gælder for afgørelser om henvisning, afslag på henvisning eller tilbagekaldelse af henvisning til specialskoler og specialklasser, jf. § 20, stk. 2. Stk. 4. Afgørelser om det nærmere indhold af foranstaltningen på specialskoler eller i specialklasser kan inden 4 uger fra afgørelsens medd",
+    "paragraf": "§ 51"
+   }
+  ],
+  "paastand": "Klagenævnet for Specialundervisning —klageinstans→ kommune-alle: Folkeskoleloven § 51, stk. 3-5, 8 og 9: kommunalbestyrelsens afgørelser om henvisning til specialundervisning, specialskoler/-klasser og indholdet heraf kan af forældrene indbringes inden 4 uger; klagen indgives til kommunen, som genvurderer (§ 51 b). Øvrige kommunale skoleafgørelser kan ikke påklages (§ 51, stk. 2)."
+ },
+ {
+  "hvor": "kant sty-stuk|udsteder|kilde-stuk-tilsynsberetninger",
+  "belaeg": [
+   {
+    "url": "https://stukuvm.dk/tilsyn/",
+    "citat": "Styrelsens tilsynsstrategi udmøntes i tilsynsplaner og afrapporteres i en samlet tilsynsberetning.",
+    "genfundet": true,
+    "kontekst": "ører tilsyn med Undervisningsministeriets uddannelser, institutioner og øvrig tilskudsforvaltning. Værd at vide om STUK’s tilsyn Styrelsen for Undervisning og Kvalitet (STUK) fører tilsyn for at sikre undervisning af god kvalitet til gavn for elever og kursister. Tilsynsplaner og tilsynsberetninger Styrelsens tilsynsstrategi udmøntes i tilsynsplaner og afrapporteres i en samlet tilsynsberetning. Tilsynsforum I Tilsynsforum sker den overordnede dialog om tilsynet med de forskellige uddannelsesområders aktører. Styrelsen for Undervisning og Kvalitet Kalvebod Brygge 47 1560 København V Kontakt ministeriet CVR: 29634750 Undervisningsministeriet Andre af ministeriets hjemmesider Undervisningsm"
+   }
+  ],
+  "paastand": "Styrelsen for Undervisning og Kvalitet (STUK) —udsteder→ STUK: tilsynsplaner og tilsynsberetninger: Styrelsen udgiver tilsynsplaner og den årlige tilsynsberetning."
+ },
+ {
+  "hvor": "kant naevn-klagenaevnet-specialundervisning|udsteder|kilde-k-meddelelser-specialundervisning",
+  "belaeg": [
+   {
+    "url": "https://ast.dk/naevn/klagenaevnet-for-specialundervisning/meddelelser-om-praksis-fra-klagenaevnet-for-specialundervisning",
+    "citat": "Klagenævnet udgiver løbende meddelelser om praksis (K-meddelelser).",
+    "genfundet": true,
+    "kontekst": "\" Nævn Adoptionsnævnet Ankenævnet for Statens Uddannelsesstøtteordninger Arbejdsmiljøklagenævnet Klagenævnet for Specialundervisning Ligebehandlingsnævnet Psykolognævnet Gå til \"Nævn\" Du er her: Forside Nævn Klagenævnet for Specialundervisning Meddelelser fra klagenævnet Meddelelser fra klagenævnet Klagenævnet udgiver løbende meddelelser om praksis (K-meddelelser). Meddelelserne beskriver i kort form nævnets mere principielle afgørelser og vejleder om centrale problemstillinger. Bemærk, at lovhenvisningerne i nogle af meddelelserne er historiske. Meddelelser om specialpædagogisk bistand til førskolebørn Meddelelse nr. 45 om genvurderingsfristen i sager om s"
+   }
+  ],
+  "paastand": "Klagenævnet for Specialundervisning —udsteder→ K-meddelelser fra Klagenævnet for Specialundervisning (ast.dk): Nævnet udgiver løbende K-meddelelser om praksis."
+ },
+ {
+  "hvor": "kant lov-erhvervsuddannelser|hjemmel_for|naevn-ankenaevn-oplaeringsvirksomheder",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/381",
+    "citat": "Afgørelse i henhold til § 46 om, at en virksomhed ikke kan godkendes som lærested, eller afgørelse om hel eller delvis tilbagekaldelse af virksomhedens godkendelse kan af virksomheden indbringes for Ankenævnet vedrørende Oplæringsvirksomheder, hvis afgørelser ikke kan indbringes for anden administrativ myndighed.",
+    "genfundet": true,
+    "kontekst": "ning indsatsen understøtter et tilstrækkeligt lærepladspotentiale. Redegørelsen fremsendes til Børne- og Undervisningsministeriet til orientering. Børne- og undervisningsministeren kan efter indstilling fra Rådet for de Grundlæggende Erhvervsrettede Uddannelser fastsætte nærmere regler herom. § 47. Afgørelse i henhold til § 46 om, at en virksomhed ikke kan godkendes som lærested, eller afgørelse om hel eller delvis tilbagekaldelse af virksomhedens godkendelse kan af virksomheden indbringes for Ankenævnet vedrørende Oplæringsvirksomheder, hvis afgørelser ikke kan indbringes for anden administrativ myndighed. En afgørelse truffet af det faglige udvalg om ikke at tilbagekalde en godkendelse helt eller delvis efter § 46, stk. 3, kan tillige indbringes for Ankenævnet vedrørende Oplæringsvirksomheder af arbejdsgiver- eller arbejdstagerrepræsentanter i det faglige udvalg. Stk. 2. Ankenævnet nedsættes af erh",
+    "paragraf": "§ 47"
+   }
+  ],
+  "paastand": "lov-erhvervsuddannelser —hjemmel_for→ Ankenævnet vedrørende Oplæringsvirksomheder (tidl. Ankenævnet vedrørende Praktikvirksomheder): § 47: klage over afslag på/tilbagekaldelse af godkendelse som lærested; afgørelserne kan ikke indbringes for anden administrativ myndighed."
+ },
+ {
+  "hvor": "kant lov-erhvervsuddannelser|hjemmel_for|bek-ankenaevn-praktikvirksomheder",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2007/1517",
+    "citat": "I medfør af § 47, stk. 4, i lov om erhvervsuddannelser, jf. lovbekendtgørelse nr. 1244 af 23. oktober 2007, fastsættes",
+    "genfundet": true,
+    "kontekst": "60038129 2026-03-13 Bekendtgørelse af lov om erhvervsuddannelser Nej P.M.V.\\nE.B.\\nJørgen Torsbjerg Møller Stine Tøfting-Kristiansen Undervisningsministeriet Undervisningsmin., j.nr. 159.134.021 Erhvervsministeriet Undervisningsministeriet Bekendtgørelse om Ankenævnet vedrørende Praktikvirksomheder I medfør af § 47, stk. 4, i lov om erhvervsuddannelser, jf. lovbekendtgørelse nr. 1244 af 23. oktober 2007, fastsættes: Kapitel 1 Ankenævnets opgave § 1. Ankenævnet vedrørende Praktikvirksomheder træffer afgørelse af klager over, at en virksomheds ansøgning om godkendelse som praktiksted efter erhvervsuddannelseslovens § 46, stk. 1, ikke fuldt ud er imødekommet. Stk. 2. Ankenævnet træffer tillige afgørelse i sager,"
+   }
+  ],
+  "paastand": "lov-erhvervsuddannelser —hjemmel_for→ Bekendtgørelse om Ankenævnet vedrørende Praktikvirksomheder (BEK nr. 1517 af 13/12/2007): Bekendtgørelsen udstedt i medfør af § 47, stk. 4 (dagældende)."
+ },
+ {
+  "hvor": "kant bek-ankenaevn-praktikvirksomheder|hjemmel_for|naevn-ankenaevn-oplaeringsvirksomheder",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2007/1517",
+    "citat": "Ankenævnet vedrørende Praktikvirksomheder træffer afgørelse af klager over, at en virksomheds ansøgning om godkendelse som praktiksted efter erhvervsuddannelseslovens § 46, stk. 1, ikke fuldt ud er imødekommet.",
+    "genfundet": true,
+    "kontekst": "iet Undervisningsmin., j.nr. 159.134.021 Erhvervsministeriet Undervisningsministeriet Bekendtgørelse om Ankenævnet vedrørende Praktikvirksomheder I medfør af § 47, stk. 4, i lov om erhvervsuddannelser, jf. lovbekendtgørelse nr. 1244 af 23. oktober 2007, fastsættes: Kapitel 1 Ankenævnets opgave § 1. Ankenævnet vedrørende Praktikvirksomheder træffer afgørelse af klager over, at en virksomheds ansøgning om godkendelse som praktiksted efter erhvervsuddannelseslovens § 46, stk. 1, ikke fuldt ud er imødekommet. Stk. 2. Ankenævnet træffer tillige afgørelse i sager, hvor der ankes over et fagligt udvalgs afgørelse truffet i medfør af § 44, stk. 4 og 5 i erhvervsuddannelsesloven. § 2. Nævnet er beslutningsdygtigt, når alle medlemmer i den enkelte sag, jf. erhvervsuddannelseslovens § 47, stk. 3, deltager i s",
+    "paragraf": "§ 1"
+   }
+  ],
+  "paastand": "Bekendtgørelse om Ankenævnet vedrørende Praktikvirksomheder (BEK nr. 1517 af 13/12/2007) —hjemmel_for→ Ankenævnet vedrørende Oplæringsvirksomheder (tidl. Ankenævnet vedrørende Praktikvirksomheder): Bekendtgørelsen fastlægger nævnets opgave, anke og afgørelsesform (kap. 1-3)."
+ },
+ {
+  "hvor": "kant lov-friskoleloven|hjemmel_for|sty-stuk",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/700",
+    "citat": "Undervisningsministeren fører tilsyn med, at frie grundskoler overholder § 1, stk. 2-4, § 1 a og § 2, stk. 3, 1. pkt.",
+    "genfundet": true,
+    "kontekst": "ultatet af evalueringen og skolens plan for, hvordan der vil blive fulgt op herpå, på skolens hjemmeside på internettet. Stk. 4. Undervisningsministeren fastsætter regler om selvevaluering, herunder om kriterierne for godkendelse af evalueringsmodeller. Statens tilsyn med undervisningen m.v. § 9 f. Undervisningsministeren fører tilsyn med, at frie grundskoler overholder § 1, stk. 2-4, § 1 a og § 2, stk. 3, 1. pkt. Stk. 2. 5) § 9 f, stk. 2, ophæves den 31. juli 2029, jf. § 4, stk. 2, i lov nr. 563 af 7. maj 2019, medmindre andet bestemmes ved lov. Undervisningsministeren kan som led i et tilsyn med en skole pålægge bestyrelsesmedlemmer at underskrive en erklæring om overholdelse af § 1, stk. 2, 2. pkt., og §",
+    "paragraf": "§ 9 f"
+   }
+  ],
+  "paastand": "Lov om friskoler og private grundskoler m.v. (friskoleloven) —hjemmel_for→ Styrelsen for Undervisning og Kvalitet (STUK): § 9 f: ministerens statslige tilsyn med frie grundskoler, som STUK udøver i praksis (bemyndigelse ikke fundet)."
+ },
+ {
+  "hvor": "kant lov-gymnasieloven|hjemmel_for|sty-stuk",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/624",
+    "citat": "Undervisningsministeren har det overordnede ansvar for og fører tilsyn med undervisning, prøver og eksamen i henhold til denne lov.",
+    "genfundet": true,
+    "kontekst": "ghed for at fortsætte på andet år af uddannelsen eller at fortsætte deres uddannelse på international baccalaureate (ib). Stk. 3. Undervisningsministeren kan fravige loven for en enkelt elev eller kursist, hvor helt særlige forhold gør sig gældende. Kapitel 11 Tilsyn, kvalitetssystem og klage § 70. Undervisningsministeren har det overordnede ansvar for og fører tilsyn med undervisning, prøver og eksamen i henhold til denne lov. Stk. 2. Undervisningsministeren kan give påbud til institutionens leder i pædagogiske anligg‌ender. § 71. Institutionens leder fastlægger et system til kvalitetsudvikling og resultatvurdering i forbindelse med uddannelserne og undervisningen. Stk. 2. Undervisningsministeren kan fastsætte regler he",
+    "paragraf": "§ 70"
+   }
+  ],
+  "paastand": "Lov om de gymnasiale uddannelser (gymnasieloven) —hjemmel_for→ Styrelsen for Undervisning og Kvalitet (STUK): § 70: ministerens tilsyn med undervisning, prøver og eksamen på gymnasiale uddannelser, som STUK udøver i praksis (bemyndigelse ikke fundet)."
+ }
+]

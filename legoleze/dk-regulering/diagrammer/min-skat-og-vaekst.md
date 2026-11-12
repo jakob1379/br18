@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 55 · kanter: 111
+Noder: 56 · kanter: 112
 
 ```mermaid
 flowchart LR
@@ -44,6 +44,7 @@ flowchart LR
     kilde_spillemyndigheden_afgoerelser["Spillemyndighedens afgørelser og domme (spillemyndigheden.dk)"]:::kilde
     dom_byretterne["Byretterne"]:::klage
     naevn_erhvervsankenaevnet["Erhvervsankenævnet"]:::klage
+    ombud_forbrugerombudsmanden["Forbrugerombudsmanden"]:::klage
     naevn_landsskatteretten["Landsskatteretten"]:::klage
     naevn_motorankenaevn["Motorankenævn"]:::klage
     naevn_skatteankenaevn["Skatteankenævn"]:::klage
@@ -180,6 +181,7 @@ flowchart LR
     lov_finansiel_virksomhed -->|implementerer_EU| eu_dir_2014_65
     lov_finansiel_virksomhed -->|implementerer_EU| eu_dir_2015_849
     lov_forsikringsvirksomhed -->|implementerer_EU| eu_dir_2015_849
+    lov_lov_om_betalinger -->|hjemmel_for| ombud_forbrugerombudsmanden
 ```
 
 [← Overblik](oversigt.md)

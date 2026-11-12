@@ -1,0 +1,302 @@
+[
+ {
+  "hvor": "sty-stuk.hjemmel",
+  "dom": "delvist",
+  "grund": "Minister-tilsynet (§ 9 f, § 70) belægges; at STUK udøver tilsynet, står ikke i belægget."
+ },
+ {
+  "hvor": "sty-stuk.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "sty-stuk.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "sty-stil.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "sty-stil.dokumenttyper",
+  "dom": "delvist",
+  "grund": "Listen over it- og dataløsninger belægges; at STIL ikke udsteder regler eller afgørelser står ikke i belægget."
+ },
+ {
+  "hvor": "sty-stil.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "naevn-klagenaevnet-specialundervisning.hjemmel",
+  "dom": "delvist",
+  "grund": "Nævnets nedsættelse (§ 51 a) belægges; § 51 b og § 51 c står ikke i belægget."
+ },
+ {
+  "hvor": "naevn-klagenaevnet-specialundervisning.dokumenttyper",
+  "dom": "delvist",
+  "grund": "K-meddelelser (blandet) belægges; afgørelsestypen og bindende-status står ikke i belægget."
+ },
+ {
+  "hvor": "naevn-klagenaevnet-specialundervisning.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-forretningsorden-klagenaevnet-specialundervisning.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-forretningsorden-klagenaevnet-specialundervisning.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-forretningsorden-klagenaevnet-specialundervisning.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "naevn-ankenaevn-oplaeringsvirksomheder.tidligere_navne[Ankenævnet vedrørende Praktikvirksomheder]",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "naevn-ankenaevn-oplaeringsvirksomheder.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "naevn-ankenaevn-oplaeringsvirksomheder.dokumenttyper",
+  "dom": "delvist",
+  "grund": "Nævnets afgørelser ses; at de er bindende står ikke i belægget."
+ },
+ {
+  "hvor": "bek-ankenaevn-praktikvirksomheder.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-ankenaevn-praktikvirksomheder.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-ankenaevn-praktikvirksomheder.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-folkeskoleloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-folkeskoleloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-folkeskoleloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-friskoleloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-friskoleloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-friskoleloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-gymnasieloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-gymnasieloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-gymnasieloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-institutioner-almengymnasiale.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-institutioner-almengymnasiale.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-institutioner-almengymnasiale.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-k-meddelelser-specialundervisning.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-k-meddelelser-specialundervisning.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-k-meddelelser-specialundervisning.adgang",
+  "dom": "delvist",
+  "grund": "Overblikssiden er HTML; meddelelsernes format er ikke verificeret, og værdien HTML dækker dem ikke."
+ },
+ {
+  "hvor": "kilde-k-meddelelser-specialundervisning.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-k-meddelelser-specialundervisning.opdatering",
+  "dom": "delvist",
+  "grund": "Løbende udgivelse og historiske lovhenvisninger belægges; at meddelelser revideres står ikke."
+ },
+ {
+  "hvor": "kilde-stuk-tilsynsberetninger.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-stuk-tilsynsberetninger.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-stuk-tilsynsberetninger.adgang",
+  "dom": "delvist",
+  "grund": "Sidens HTML belægges; at beretningerne ligger som PDF på uvm.dk er ikke åbnet, og værdien HTML dækker dem ikke."
+ },
+ {
+  "hvor": "kilde-stuk-tilsynsberetninger.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-stuk-tilsynsberetninger.opdatering",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-undervisning|ressortansvar|sty-stuk",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-undervisning|ressortansvar|sty-stil",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-undervisning|ressortansvar|naevn-klagenaevnet-specialundervisning",
+  "dom": "delvist",
+  "grund": "Orkestrator: beskrivelsen er rettet efter kontrollantens indvending (sekretariatet ligger i Ankestyrelsen); lovteksten viser kun nedsættelsen."
+ },
+ {
+  "hvor": "kant min-undervisning|ressortansvar|bek-forretningsorden-klagenaevnet-specialundervisning",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-undervisning|ressortansvar|lov-folkeskoleloven",
+  "dom": "delvist",
+  "grund": "Belægget er lovens titel; at loven hører under undervisningsministeren står ikke i belægget."
+ },
+ {
+  "hvor": "kant min-undervisning|ressortansvar|lov-friskoleloven",
+  "dom": "delvist",
+  "grund": "Belægget er lovens titel; at loven hører under undervisningsministeren står ikke i belægget."
+ },
+ {
+  "hvor": "kant min-undervisning|ressortansvar|lov-gymnasieloven",
+  "dom": "delvist",
+  "grund": "Belægget er lovens titel; at loven hører under undervisningsministeren står ikke i belægget."
+ },
+ {
+  "hvor": "kant min-undervisning|ressortansvar|lov-institutioner-almengymnasiale",
+  "dom": "delvist",
+  "grund": "Lovteksten nævner ministeren som tilsynsmyndighed, ikke ressortet; ministeriefeltet står ikke i belægget."
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|naevn-ankenaevn-oplaeringsvirksomheder",
+  "dom": "delvist",
+  "grund": "Lovteksten viser, at erhvervsministeren nedsætter nævnet, ikke at nævnet hører under ressortet i dag."
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|bek-ankenaevn-praktikvirksomheder",
+  "dom": "delvist",
+  "grund": "Ministeriefeltet nævner både Erhvervs- og Undervisningsministeriet; kun Erhvervsministeriet er påstået."
+ },
+ {
+  "hvor": "kant lov-folkeskoleloven|hjemmel_for|naevn-klagenaevnet-specialundervisning",
+  "dom": "delvist",
+  "grund": "§ 51 a belægges; § 51, stk. 3-5, 8 og 9 står ikke i belægget."
+ },
+ {
+  "hvor": "kant lov-folkeskoleloven|hjemmel_for|bek-forretningsorden-klagenaevnet-specialundervisning",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant naevn-klagenaevnet-specialundervisning|klageinstans|kommune-alle",
+  "dom": "delvist",
+  "grund": "Klageadgangen til nævnet ses (§ 51, stk. 3); § 51 b og stk. 5, 8, 9 står ikke i belægget."
+ },
+ {
+  "hvor": "kant sty-stuk|udsteder|kilde-stuk-tilsynsberetninger",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant naevn-klagenaevnet-specialundervisning|udsteder|kilde-k-meddelelser-specialundervisning",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-erhvervsuddannelser|hjemmel_for|naevn-ankenaevn-oplaeringsvirksomheder",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-erhvervsuddannelser|hjemmel_for|bek-ankenaevn-praktikvirksomheder",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant bek-ankenaevn-praktikvirksomheder|hjemmel_for|naevn-ankenaevn-oplaeringsvirksomheder",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-friskoleloven|hjemmel_for|sty-stuk",
+  "dom": "delvist",
+  "grund": "Belægget viser ministerens tilsyn (§ 9 f), ikke at STUK har hjemmel; kanten selv erkender manglende bemyndigelse."
+ },
+ {
+  "hvor": "kant lov-gymnasieloven|hjemmel_for|sty-stuk",
+  "dom": "delvist",
+  "grund": "Belægget viser ministerens tilsyn (§ 70), ikke at STUK udøver det; bemyndigelse er ikke fundet."
+ }
+]

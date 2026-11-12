@@ -1,0 +1,442 @@
+[
+ {
+  "hvor": "ombud-forbrugerombudsmanden.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "ombud-forbrugerombudsmanden.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "ombud-forbrugerombudsmanden.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "naevn-forbrugerklagenaevnet.hjemmel",
+  "dom": "delvist",
+  "grund": "Hjemmel og sekretariat (BEK §6, Nævnenes Hus) belagt; påstandens påstand om, at lovens §24 nævner KFST, fremgår ikke af belæg."
+ },
+ {
+  "hvor": "naevn-forbrugerklagenaevnet.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "naevn-forbrugerklagenaevnet.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "org-godkendte-private-ankenaevn.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "org-godkendte-private-ankenaevn.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "org-godkendte-private-ankenaevn.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "org-ankenaevnet-for-forsikring.hjemmel",
+  "dom": "delvist",
+  "grund": "Godkendelse og 1975-oprettelse belagt; \"efter § 6, stk. 1\" fremgår ikke af belæggene for dette hjemmel-felt."
+ },
+ {
+  "hvor": "org-ankenaevnet-for-forsikring.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "org-ankenaevnet-for-forsikring.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "org-byggeriets-ankenaevn.hjemmel",
+  "dom": "delvist",
+  "grund": "Godkendelse belagt; \"efter forbrugerklagelovens § 6, stk. 1\" fremgår ikke af belæggene."
+ },
+ {
+  "hvor": "org-byggeriets-ankenaevn.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "org-byggeriets-ankenaevn.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-markedsfoeringsloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-markedsfoeringsloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-markedsfoeringsloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-forbrugeraftaleloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-forbrugeraftaleloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-forbrugeraftaleloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-koebeloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-koebeloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-koebeloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-forbrugerklager-naevnenes-hus.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-forbrugerklager-naevnenes-hus.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-forbrugerklager-naevnenes-hus.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-godkendelse-private-tvistloesningsorganer.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-godkendelse-private-tvistloesningsorganer.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-godkendelse-private-tvistloesningsorganer.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-gebyrer-godkendte-private-ankenaevn.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-gebyrer-godkendte-private-ankenaevn.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-gebyrer-godkendte-private-ankenaevn.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-forbrugerombudsmandens-virksomhed.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-forbrugerombudsmandens-virksomhed.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-forbrugerombudsmandens-virksomhed.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-forbrugerombudsmanden-sager.dokumenttyper",
+  "dom": "delvist",
+  "grund": "Resuméer belagt; underkategorierne (indskærpelse, forhåndsbesked, afgørelse uden retsforfølgning) fremgår ikke."
+ },
+ {
+  "hvor": "kilde-forbrugerombudsmanden-sager.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-forbrugerombudsmanden-sager.adgang",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-forbrugerombudsmanden-sager.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-forbrugerombudsmanden-sager.opdatering",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-forbrugerombudsmanden-retningslinjer.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-forbrugerombudsmanden-retningslinjer.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-forbrugerombudsmanden-retningslinjer.adgang",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-forbrugerombudsmanden-retningslinjer.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-forbrugerombudsmanden-retningslinjer.opdatering",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-fkn-afgoerelser.dokumenttyper",
+  "dom": "delvist",
+  "grund": "Publicering af afgørelser (§23) belagt; bindingsreglen og den citerede § 32 fremgår ikke af belægget."
+ },
+ {
+  "hvor": "kilde-fkn-afgoerelser.url",
+  "dom": "delvist",
+  "grund": "Afgørelsesarkivet belagt på naevneneshus.dk; domænet fkn.naevneneshus.dk fremgår ikke af belægget."
+ },
+ {
+  "hvor": "kilde-fkn-afgoerelser.adgang",
+  "dom": "delvist",
+  "grund": "Belægget er en almindelig side; Angular-platform, \"ingen tekst uden JavaScript\" og \"ingen API\" fremgår ikke."
+ },
+ {
+  "hvor": "kilde-fkn-afgoerelser.opdatering",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-godkendte-private-ankenaevn-liste.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-godkendte-private-ankenaevn-liste.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-godkendte-private-ankenaevn-liste.adgang",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-godkendte-private-ankenaevn-liste.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|ombud-forbrugerombudsmanden",
+  "dom": "delvist",
+  "grund": "Udnævnelse af erhvervsministeren belagt; \"organiseret i KFS under Erhvervsministeriet\" og § 25, stk. 3 fremgår ikke."
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|naevn-forbrugerklagenaevnet",
+  "dom": "delvist",
+  "grund": "Belægget er lovtekst fra 2015 (erhvervs- og vækstministeren), højst delvist; \"sekretariatet er Nævnenes Hus under ministeriet\" fremgår ikke."
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-markedsfoeringsloven",
+  "dom": "delvist",
+  "grund": "Ministeriefeltet for markedsføringsloven fremgår ikke af det gemte belæg."
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|lov-forbrugeraftaleloven",
+  "dom": "delvist",
+  "grund": "Ministeriefeltet for forbrugeraftaleloven fremgår ikke af det gemte belæg."
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|lov-koebeloven",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|bek-forbrugerklager-naevnenes-hus",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|bek-godkendelse-private-tvistloesningsorganer",
+  "dom": "delvist",
+  "grund": "Belægget viser kun underskrivende ministerium (2015-navn); ministeriefeltet og nuværende ressort fremgår ikke."
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|bek-gebyrer-godkendte-private-ankenaevn",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|bek-forbrugerombudsmandens-virksomhed",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-markedsfoeringsloven|hjemmel_for|ombud-forbrugerombudsmanden",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-forbrugeraftaleloven|hjemmel_for|ombud-forbrugerombudsmanden",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-lov-om-betalinger|hjemmel_for|ombud-forbrugerombudsmanden",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant bek-forbrugerombudsmandens-virksomhed|hjemmel_for|ombud-forbrugerombudsmanden",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-markedsfoeringsloven|hjemmel_for|bek-forbrugerombudsmandens-virksomhed",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant dom-domstolene|klageinstans|ombud-forbrugerombudsmanden",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-forbrugeraftaleloven|henviser_til|lov-markedsfoeringsloven",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant ombud-forbrugerombudsmanden|udsteder|kilde-forbrugerombudsmanden-sager",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant ombud-forbrugerombudsmanden|udsteder|kilde-forbrugerombudsmanden-retningslinjer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-forbrugerklageloven|hjemmel_for|naevn-forbrugerklagenaevnet",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant bek-forbrugerklager-naevnenes-hus|hjemmel_for|naevn-forbrugerklagenaevnet",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant dom-domstolene|klageinstans|naevn-forbrugerklagenaevnet",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant naevn-forbrugerklagenaevnet|udsteder|kilde-fkn-afgoerelser",
+  "dom": "delvist",
+  "grund": "Belægget siger, at Nævnenes Hus offentliggør nævnets afgørelser; udgiver er Nævnenes Hus, ikke nævnet."
+ },
+ {
+  "hvor": "kant sty-naevnenes-hus|udsteder|kilde-fkn-afgoerelser",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-forbrugerklageloven|hjemmel_for|bek-forbrugerklager-naevnenes-hus",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-forbrugerklageloven|hjemmel_for|org-godkendte-private-ankenaevn",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant bek-godkendelse-private-tvistloesningsorganer|hjemmel_for|org-godkendte-private-ankenaevn",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant bek-gebyrer-godkendte-private-ankenaevn|hjemmel_for|org-godkendte-private-ankenaevn",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant sty-naevnenes-hus|tilsyn|org-godkendte-private-ankenaevn",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant sty-naevnenes-hus|udsteder|kilde-godkendte-private-ankenaevn-liste",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant dom-domstolene|klageinstans|org-godkendte-private-ankenaevn",
+  "dom": "delvist",
+  "grund": "§ 35 er generel (\"en klagesag\"); at den omfatter godkendte private organer fremgår ikke af belægget."
+ },
+ {
+  "hvor": "kant lov-forbrugerklageloven|hjemmel_for|org-ankenaevnet-for-forsikring",
+  "dom": "delvist",
+  "grund": "Godkendelse belagt; forbrugerklagelovens § 6 fremgår ikke af belægget."
+ },
+ {
+  "hvor": "kant lov-forbrugerklageloven|hjemmel_for|org-byggeriets-ankenaevn",
+  "dom": "delvist",
+  "grund": "Godkendelse belagt; forbrugerklagelovens § 6 fremgår ikke af belægget."
+ },
+ {
+  "hvor": "kant lov-forbrugerklageloven|hjemmel_for|org-ankenaevnet-for-bus-tog-og-metro",
+  "dom": "delvist",
+  "grund": "Optagelse på listen over godkendte nævn belagt; § 6 fremgår ikke af belægget."
+ },
+ {
+  "hvor": "kant lov-forbrugerklageloven|hjemmel_for|naevn-ankenaevnet-paa-energiomraadet",
+  "dom": "delvist",
+  "grund": "Optagelse på listen over godkendte nævn belagt; § 6 fremgår ikke af belægget."
+ }
+]
