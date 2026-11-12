@@ -37,7 +37,7 @@ flowchart LR
     min_udlaendinge_og_integration -->|ressortansvar| sty_hjemrejsestyrelsen
     min_udlaendinge_og_integration -->|ressortansvar| naevn_udlaendingenaevnet
     min_udlaendinge_og_integration -->|ressortansvar| naevn_flygtningenaevnet
-    min_udlaendinge_og_integration -.->|ressortansvar| lov_udlaendingeloven
+    min_udlaendinge_og_integration -->|ressortansvar| lov_udlaendingeloven
     min_udlaendinge_og_integration -.->|ressortansvar| lov_hjemrejseloven
     min_udlaendinge_og_integration -.->|ressortansvar| bek_forretningsorden_udlaendingenaevnet
     min_udlaendinge_og_integration -.->|ressortansvar| bek_forretningsorden_flygtningenaevnet

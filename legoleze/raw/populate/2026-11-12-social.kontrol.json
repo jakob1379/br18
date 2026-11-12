@@ -745,8 +745,8 @@
  },
  {
   "hvor": "kant min-social|ressortansvar|lov-socialtilsynsloven",
-  "sikkerhed": "verificeret",
-  "dom": "baerer",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
   "belaeg": [
    {
     "url": "https://www.retsinformation.dk/eli/lta/2026/242",
@@ -757,8 +757,8 @@
  },
  {
   "hvor": "kant min-social|ressortansvar|lov-voksenansvarsloven",
-  "sikkerhed": "verificeret",
-  "dom": "baerer",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
   "belaeg": [
    {
     "url": "https://www.retsinformation.dk/eli/lta/2024/1006",

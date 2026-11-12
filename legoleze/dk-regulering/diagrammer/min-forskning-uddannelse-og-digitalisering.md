@@ -27,7 +27,7 @@ flowchart LR
     lov_radioudstyrsloven -->|implementerer_EU| eu_dir_2014_30
     lov_radioudstyrsloven -->|implementerer_EU| eu_dir_2014_53
     lov_videreanvendelsesloven -->|implementerer_EU| eu_dir_2019_1024
-    min_forskning_uddannelse_og_digitalisering -.->|ressortansvar| lov_videreanvendelsesloven
+    min_forskning_uddannelse_og_digitalisering -->|ressortansvar| lov_videreanvendelsesloven
     org_build_aau -->|udsteder| bv_sbi_anvisninger
 ```
 

@@ -191,13 +191,13 @@
  },
  {
   "hvor": "kant min-social|ressortansvar|lov-socialtilsynsloven",
-  "dom": "baerer",
-  "grund": ""
+  "dom": "delvist",
+  "grund": "Orkestrator: kontrollanten bedømte kun, om belægget handler om loven. Lovteksten nævner social- og boligministeren fra før 3/6/2026, og Retsinformations felt har det gamle ministerienavn."
  },
  {
   "hvor": "kant min-social|ressortansvar|lov-voksenansvarsloven",
-  "dom": "baerer",
-  "grund": ""
+  "dom": "delvist",
+  "grund": "Orkestrator: kontrollanten bedømte kun, om belægget handler om loven. Lovteksten nævner social- og boligministeren fra før 3/6/2026, og Retsinformations felt har det gamle ministerienavn."
  },
  {
   "hvor": "kant min-social|ressortansvar|naevn-socialfaglige-naevn-magtanvendelse",

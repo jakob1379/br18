@@ -91,7 +91,7 @@ flowchart LR
     min_boern_aeldre_og_bolig -.->|klageinstans| sty_social_og_boligstyrelsen
     sty_ankestyrelsen -->|klageinstans| kommune_alle
     sty_ankestyrelsen -->|klageinstans| org_udbetaling_danmark
-    min_social -.->|ressortansvar| lov_retssikkerhedsloven_social
+    min_social -->|ressortansvar| lov_retssikkerhedsloven_social
     min_social -->|ressortansvar| sty_ankestyrelsen
     min_social -.->|ressortansvar| sty_social_og_boligstyrelsen
     min_oekonomi_og_indenrigs -->|tilsyn| sty_ankestyrelsen
@@ -125,8 +125,8 @@ flowchart LR
     sty_ankestyrelsen -.->|klageinstans| sty_udlaendingestyrelsen
     min_social -->|ressortansvar| lov_serviceloven
     min_social -->|ressortansvar| lov_barnets_lov
-    min_social -->|ressortansvar| lov_socialtilsynsloven
-    min_social -->|ressortansvar| lov_voksenansvarsloven
+    min_social -.->|ressortansvar| lov_socialtilsynsloven
+    min_social -.->|ressortansvar| lov_voksenansvarsloven
     min_social -->|ressortansvar| naevn_socialfaglige_naevn_magtanvendelse
     min_social -->|ressortansvar| raad_boerneraadet
     min_social -->|ressortansvar| raad_det_centrale_handicapraad

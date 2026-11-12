@@ -76,7 +76,8 @@ meta:
     metadata. Ellers sandsynlig. Rå fund, domme og kontroljournaler ligger i raw/populate/. Fra 2026-11-12 ser kontrollanten også sidens egen
     tekst omkring citatet og den paragraf, citatet står i; en lov, hvis citerede version er historisk, flyttes til den gældende lovbekendtgørelse
     fra Retsinformations tidslinje; og en ressortansvar-kant til en lov eller bekendtgørelse er verificeret, når Retsinformations ministeriefelt
-    for det gældende dokument er det samme ministerium.'
+    er det samme ministerium og med sikkerhed er sat efter regeringsdannelsen: dokumentet er udstedt efter den, eller ministeriet fik sit navn
+    ved den (feltet på ældre dokumenter er ikke altid ført ajour).'
   begraensninger:
   - WebFetch var blokeret af sessionens netværkspolitik for alle eksterne domæner, herunder retsinformation.dk, eur-lex.europa.eu og ministeriernes
     sider. Al evidens stammer derfor fra WebSearch-resultater (titel, URL, uddrag). En URL markeret verificeret er set i et søgeresultat, men
@@ -1046,6 +1047,8 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2026/40/pdf
     - https://bl.dk/media/yuwlwiiq/hoeringssvar-supplerende-hoering-af-stoettebekendtgoerelsen.pdf
     sikkerhed: verificeret
+    katalog_note: Retsinformation markerer denne version som historisk (2026-09-01); den gældende afløser er ikke identificeret (kontrolleret
+      2026-11-12).
   licens:
     tekst: 'Ikke genstand for ophavsret, jf. ophavsretslovens § 9, stk. 1 (love, administrative forskrifter, retsafgørelser og lignende offentlige
       aktstykker). Teksten kan frit gengives og genbruges. Undtagelse: værker der fremtræder som selvstændige bidrag i aktstykket (fx bilag med
@@ -8355,6 +8358,8 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2023/1865/pdf
     - https://www.retsinformation.dk/eli/lta/2016/372/pdf
     sikkerhed: sandsynlig
+    katalog_note: Retsinformation markerer denne version som historisk (2026-06-29); den gældende afløser er ikke identificeret (kontrolleret
+      2026-11-12).
   licens:
     tekst: 'Ikke genstand for ophavsret, jf. ophavsretslovens § 9, stk. 1 (love, administrative forskrifter, retsafgørelser og lignende offentlige
       aktstykker). Teksten kan frit gengives og genbruges. Undtagelse: værker der fremtræder som selvstændige bidrag i aktstykket (fx bilag med
@@ -8460,6 +8465,8 @@ nodes:
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/1347/pdf
     sikkerhed: verificeret
+    katalog_note: Retsinformation markerer denne version som historisk (2026-06-25); den gældende afløser er ikke identificeret (kontrolleret
+      2026-11-12).
   licens:
     tekst: 'Ikke genstand for ophavsret, jf. ophavsretslovens § 9, stk. 1 (love, administrative forskrifter, retsafgørelser og lignende offentlige
       aktstykker). Teksten kan frit gengives og genbruges. Undtagelse: værker der fremtræder som selvstændige bidrag i aktstykket (fx bilag med
@@ -8833,6 +8840,8 @@ nodes:
     - https://www.retsinformation.dk/api/pdf/244136
     - https://www.lovguiden.dk/loven/bek-nr-494-af-28-05-2026
     sikkerhed: verificeret
+    katalog_note: Retsinformation markerer denne version som historisk (2026-11-03); den gældende afløser er ikke identificeret (kontrolleret
+      2026-11-12).
   licens:
     tekst: 'Ikke genstand for ophavsret, jf. ophavsretslovens § 9, stk. 1 (love, administrative forskrifter, retsafgørelser og lignende offentlige
       aktstykker). Teksten kan frit gengives og genbruges. Undtagelse: værker der fremtræder som selvstændige bidrag i aktstykket (fx bilag med
@@ -10574,6 +10583,8 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2024/1170/pdf
     - https://sik.dk/nyheder/1801?page=1
     sikkerhed: verificeret
+    katalog_note: Retsinformation markerer denne version som historisk (2026-11-04); den gældende afløser er ikke identificeret (kontrolleret
+      2026-11-12).
   licens:
     tekst: 'Ikke genstand for ophavsret, jf. ophavsretslovens § 9, stk. 1 (love, administrative forskrifter, retsafgørelser og lignende offentlige
       aktstykker). Teksten kan frit gengives og genbruges. Undtagelse: værker der fremtræder som selvstændige bidrag i aktstykket (fx bilag med
@@ -11913,6 +11924,8 @@ nodes:
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/1206/pdf
     sikkerhed: verificeret
+    katalog_note: Retsinformation markerer denne version som historisk (2026-10-15); den gældende afløser er ikke identificeret (kontrolleret
+      2026-11-12).
   licens:
     tekst: 'Ikke genstand for ophavsret, jf. ophavsretslovens § 9, stk. 1 (love, administrative forskrifter, retsafgørelser og lignende offentlige
       aktstykker). Teksten kan frit gengives og genbruges. Undtagelse: værker der fremtræder som selvstændige bidrag i aktstykket (fx bilag med
@@ -31741,16 +31754,19 @@ nodes:
     sikkerhed: verificeret
     regel: retsinformation-adgang
   identifikatorer:
-    eli: https://www.retsinformation.dk/eli/lta/2018/1218
-    lovtidende: LBK nr. 1446 af 09/11/2022 (Lovtidende A, udgivet 24/11/2022)
+    eli: https://www.retsinformation.dk/eli/lta/2022/1446
+    lovtidende: LBK nr. 1446 af 09/11/2022
     journalnr: Erhvervsstyrelsen j.nr. 2022-14137
     andet: 'Afløste LBK nr. 1218 af 11/10/2018, som retsinformation nu markerer Historisk (ELI for den historiske version: https://www.retsinformation.dk/eli/lta/2018/1218).
       ELI for LBK 1446/2022 er ikke set i søgeresultaterne. Opr. lov nr. 934 af 20/12/1999.'
     kilder:
+    - https://www.retsinformation.dk/eli/lta/2022/1446
     - https://lovtidende.dk/api/pdf/233542
     - https://www.lovguiden.dk/loven/erhvervslejeloven/1
     - https://www.retsinformation.dk/eli/lta/2018/1218/pdf
     sikkerhed: verificeret
+    katalog_note: Tidligere registreret version LBK nr. 1218 af 11/10/2018 er historisk (2022-11-23); gældende version er læst af Retsinformations
+      tidslinje (2026-11-12).
   licens:
     tekst: 'Ikke genstand for ophavsret, jf. ophavsretslovens § 9, stk. 1 (love, administrative forskrifter, retsafgørelser og lignende offentlige
       aktstykker). Teksten kan frit gengives og genbruges. Undtagelse: værker der fremtræder som selvstændige bidrag i aktstykket (fx bilag med
@@ -32575,14 +32591,17 @@ nodes:
     sikkerhed: verificeret
     regel: retsinformation-adgang
   identifikatorer:
-    eli: eli/lta/2019/1161 (ældre)
-    lovtidende: LBK nr. 123 af 01/02/2024 (opr. lov nr. 522 af 26/05/2010)
+    eli: https://www.retsinformation.dk/eli/lta/2024/123
+    lovtidende: LBK nr. 123 af 01/02/2024
     andet: 'Trafikstyrelsen (2026) henviser til retsinformations 2024/123-post; tekst tilgængelig som lovtidende api/pdf/239007. Ældre: eli/lta/2019/1161.'
     kilder:
+    - https://www.retsinformation.dk/eli/lta/2024/123
     - https://ens.dk/media/7325/download
     - https://cdn.trafikstyrelsen.dk/trafikstyrelsen/Media/639118325591433937/havstrategi.pdf
     - https://leap.unep.org/en/countries/dk/national-legislation/marine-strategy-act-no-522-2010
     sikkerhed: verificeret
+    katalog_note: Tidligere registreret version LBK nr. 1161 af 25/11/2019 er historisk (2024-02-06); gældende version er læst af Retsinformations
+      tidslinje (2026-11-12).
   licens:
     tekst: 'Ikke genstand for ophavsret, jf. ophavsretslovens § 9, stk. 1 (love, administrative forskrifter, retsafgørelser og lignende offentlige
       aktstykker). Teksten kan frit gengives og genbruges. Undtagelse: værker der fremtræder som selvstændige bidrag i aktstykket (fx bilag med
@@ -55314,9 +55333,12 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2025/1228
     sikkerhed: verificeret
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
+    liste:
+    - type: lovbekendtgørelse
+      bindende: bindende
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2025/1228
+    sikkerhed: verificeret
   url:
     vaerdi: https://www.retsinformation.dk/eli/lta/2025/1228
     kilder:
@@ -55404,9 +55426,12 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2025/1182
     sikkerhed: verificeret
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
+    liste:
+    - type: lovbekendtgørelse
+      bindende: bindende
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2025/1182
+    sikkerhed: verificeret
   url:
     vaerdi: https://www.retsinformation.dk/eli/lta/2025/1182
     kilder:
@@ -55493,9 +55518,12 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2020/2187
     sikkerhed: verificeret
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
+    liste:
+    - type: lov
+      bindende: bindende
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2020/2187
+    sikkerhed: verificeret
   url:
     vaerdi: https://www.retsinformation.dk/eli/lta/2020/2187
     kilder:
@@ -55580,9 +55608,12 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2018/804
     sikkerhed: verificeret
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
+    liste:
+    - type: bekendtgørelse
+      bindende: bindende
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2018/804
+    sikkerhed: verificeret
   url:
     vaerdi: https://www.retsinformation.dk/eli/lta/2018/804
     kilder:
@@ -55668,9 +55699,12 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2021/2372
     sikkerhed: verificeret
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
+    liste:
+    - type: bekendtgørelse
+      bindende: bindende
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2021/2372
+    sikkerhed: verificeret
   url:
     vaerdi: https://www.retsinformation.dk/eli/lta/2021/2372
     kilder:
@@ -55755,9 +55789,12 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2023/967
     sikkerhed: verificeret
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
+    liste:
+    - type: bekendtgørelse
+      bindende: bindende
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2023/967
+    sikkerhed: verificeret
   url:
     vaerdi: https://www.retsinformation.dk/eli/lta/2023/967
     kilder:
@@ -55842,9 +55879,12 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2025/1228
     sikkerhed: verificeret
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
+    liste:
+    - type: bekendtgørelse
+      bindende: bindende
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2005/1035
+    sikkerhed: verificeret
   url:
     vaerdi: https://www.retsinformation.dk/eli/lta/2005/1035
     kilder:
@@ -55929,9 +55969,12 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2021/2373
     sikkerhed: verificeret
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
+    liste:
+    - type: bekendtgørelse
+      bindende: bindende
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2021/2373
+    sikkerhed: verificeret
   url:
     vaerdi: https://www.retsinformation.dk/eli/lta/2021/2373
     kilder:
@@ -56016,9 +56059,12 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2022/1041
     sikkerhed: verificeret
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
+    liste:
+    - type: bekendtgørelse
+      bindende: bindende
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2022/1041
+    sikkerhed: verificeret
   url:
     vaerdi: https://www.retsinformation.dk/eli/lta/2022/1041
     kilder:
@@ -56103,9 +56149,12 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2021/2289
     sikkerhed: verificeret
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
+    liste:
+    - type: bekendtgørelse
+      bindende: bindende
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2021/2289
+    sikkerhed: verificeret
   url:
     vaerdi: https://www.retsinformation.dk/eli/lta/2021/2289
     kilder:
@@ -56190,9 +56239,12 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2022/1043
     sikkerhed: verificeret
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
+    liste:
+    - type: bekendtgørelse
+      bindende: bindende
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2022/1043
+    sikkerhed: verificeret
   url:
     vaerdi: https://www.retsinformation.dk/eli/lta/2022/1043
     kilder:
@@ -56277,9 +56329,12 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2011/1121
     sikkerhed: verificeret
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
+    liste:
+    - type: bekendtgørelse
+      bindende: bindende
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2011/1121
+    sikkerhed: verificeret
   url:
     vaerdi: https://www.retsinformation.dk/eli/lta/2011/1121
     kilder:
@@ -57177,12 +57232,16 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2025/275
     sikkerhed: verificeret
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
-  url:
-    vaerdi: https://www.retsinformation.dk/eli/lta/2025/275
+    liste:
+    - type: lovbekendtgørelse
+      bindende: bindende
     kilder:
+    - https://www.retsinformation.dk/eli/lta/2026/896
+    sikkerhed: verificeret
+  url:
+    vaerdi: https://www.retsinformation.dk/eli/lta/2026/896
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2026/896
     - https://www.retsinformation.dk/eli/lta/2025/275
     sikkerhed: verificeret
   adgang:
@@ -57212,11 +57271,12 @@ nodes:
     sikkerhed: verificeret
     regel: retsinformation-adgang
   identifikatorer:
-    eli: https://www.retsinformation.dk/eli/lta/2025/275
-    lovtidende: LBK nr. 275 af 12/03/2025
-    katalog_note: Retsinformation markerer denne version som historisk (2026-10-19); den gældende afløser er ikke identificeret (kontrolleret
-      2026-11-11).
+    eli: https://www.retsinformation.dk/eli/lta/2026/896
+    lovtidende: LBK nr. 896 af 05/10/2026
+    katalog_note: Tidligere registreret version LBK nr. 275 af 12/03/2025 er historisk (2026-10-19); gældende version er læst af Retsinformations
+      tidslinje (2026-11-12).
     kilder:
+    - https://www.retsinformation.dk/eli/lta/2026/896
     - https://www.retsinformation.dk/eli/lta/2025/275
     sikkerhed: verificeret
   licens:
@@ -57267,9 +57327,12 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2024/1008
     sikkerhed: verificeret
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
+    liste:
+    - type: lovbekendtgørelse
+      bindende: bindende
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2024/1008
+    sikkerhed: verificeret
   url:
     vaerdi: https://www.retsinformation.dk/eli/lta/2024/1008
     kilder:
@@ -57354,9 +57417,12 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2025/1250
     sikkerhed: verificeret
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
+    liste:
+    - type: lovbekendtgørelse
+      bindende: bindende
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2025/1250
+    sikkerhed: verificeret
   url:
     vaerdi: https://www.retsinformation.dk/eli/lta/2025/1250
     kilder:
@@ -57441,9 +57507,12 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2023/339
     sikkerhed: verificeret
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
+    liste:
+    - type: lovbekendtgørelse
+      bindende: bindende
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2023/339
+    sikkerhed: verificeret
   url:
     vaerdi: https://www.retsinformation.dk/eli/lta/2023/339
     kilder:
@@ -57528,9 +57597,12 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2024/1045
     sikkerhed: verificeret
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
+    liste:
+    - type: lovbekendtgørelse
+      bindende: bindende
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2024/1045
+    sikkerhed: verificeret
   url:
     vaerdi: https://www.retsinformation.dk/eli/lta/2024/1045
     kilder:
@@ -57615,9 +57687,12 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2024/1496
     sikkerhed: verificeret
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
+    liste:
+    - type: bekendtgørelse
+      bindende: bindende
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2024/1496
+    sikkerhed: verificeret
   url:
     vaerdi: https://www.retsinformation.dk/eli/lta/2024/1496
     kilder:
@@ -57702,9 +57777,12 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2024/921
     sikkerhed: verificeret
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
+    liste:
+    - type: bekendtgørelse
+      bindende: bindende
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2024/921
+    sikkerhed: verificeret
   url:
     vaerdi: https://www.retsinformation.dk/eli/lta/2024/921
     kilder:
@@ -57789,9 +57867,12 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2018/979
     sikkerhed: verificeret
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
+    liste:
+    - type: bekendtgørelse
+      bindende: bindende
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2018/979
+    sikkerhed: verificeret
   url:
     vaerdi: https://www.retsinformation.dk/eli/lta/2018/979
     kilder:
@@ -57876,9 +57957,12 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2023/171
     sikkerhed: verificeret
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
+    liste:
+    - type: bekendtgørelse
+      bindende: bindende
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2023/171
+    sikkerhed: verificeret
   url:
     vaerdi: https://www.retsinformation.dk/eli/lta/2023/171
     kilder:
@@ -57963,9 +58047,12 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2019/1076
     sikkerhed: verificeret
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
+    liste:
+    - type: bekendtgørelse
+      bindende: bindende
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2019/1076
+    sikkerhed: verificeret
   url:
     vaerdi: https://www.retsinformation.dk/eli/lta/2019/1076
     kilder:
@@ -58050,9 +58137,12 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2024/1724
     sikkerhed: verificeret
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
+    liste:
+    - type: bekendtgørelse
+      bindende: bindende
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2024/1724
+    sikkerhed: verificeret
   url:
     vaerdi: https://www.retsinformation.dk/eli/lta/2024/1724
     kilder:
@@ -58137,9 +58227,12 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2013/1214
     sikkerhed: verificeret
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
+    liste:
+    - type: bekendtgørelse
+      bindende: bindende
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2013/1214
+    sikkerhed: verificeret
   url:
     vaerdi: https://www.retsinformation.dk/eli/lta/2013/1214
     kilder:
@@ -58224,9 +58317,12 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2024/1486
     sikkerhed: verificeret
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
+    liste:
+    - type: bekendtgørelse
+      bindende: bindende
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2024/1486
+    sikkerhed: verificeret
   url:
     vaerdi: https://www.retsinformation.dk/eli/lta/2024/1486
     kilder:
@@ -58312,9 +58408,12 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2025/1663
     sikkerhed: verificeret
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
+    liste:
+    - type: bekendtgørelse
+      bindende: bindende
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2025/1663
+    sikkerhed: verificeret
   url:
     vaerdi: https://www.retsinformation.dk/eli/lta/2025/1663
     kilder:
@@ -59095,9 +59194,12 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2026/432
     sikkerhed: verificeret
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
+    liste:
+    - type: lovbekendtgørelse
+      bindende: bindende
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2026/432
+    sikkerhed: verificeret
   url:
     vaerdi: https://www.retsinformation.dk/eli/lta/2026/432
     kilder:
@@ -59186,9 +59288,12 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2026/464
     sikkerhed: verificeret
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
+    liste:
+    - type: lovbekendtgørelse
+      bindende: bindende
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2026/464
+    sikkerhed: verificeret
   url:
     vaerdi: https://www.retsinformation.dk/eli/lta/2026/464
     kilder:
@@ -59274,9 +59379,12 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2026/433
     sikkerhed: verificeret
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
+    liste:
+    - type: lovbekendtgørelse
+      bindende: bindende
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2026/433
+    sikkerhed: verificeret
   url:
     vaerdi: https://www.retsinformation.dk/eli/lta/2026/433
     kilder:
@@ -59365,9 +59473,12 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2026/463
     sikkerhed: verificeret
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
+    liste:
+    - type: lovbekendtgørelse
+      bindende: bindende
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2026/463
+    sikkerhed: verificeret
   url:
     vaerdi: https://www.retsinformation.dk/eli/lta/2026/463
     kilder:
@@ -59453,9 +59564,12 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2026/461
     sikkerhed: verificeret
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
+    liste:
+    - type: lovbekendtgørelse
+      bindende: bindende
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2026/461
+    sikkerhed: verificeret
   url:
     vaerdi: https://www.retsinformation.dk/eli/lta/2026/461
     kilder:
@@ -59542,9 +59656,12 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2019/24
     sikkerhed: verificeret
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
+    liste:
+    - type: lovbekendtgørelse
+      bindende: bindende
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2019/24
+    sikkerhed: verificeret
   url:
     vaerdi: https://www.retsinformation.dk/eli/lta/2019/24
     kilder:
@@ -59631,9 +59748,12 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2024/39
     sikkerhed: verificeret
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
+    liste:
+    - type: lovbekendtgørelse
+      bindende: bindende
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2024/39
+    sikkerhed: verificeret
   url:
     vaerdi: https://www.retsinformation.dk/eli/lta/2024/39
     kilder:
@@ -59719,9 +59839,12 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2015/524
     sikkerhed: verificeret
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
+    liste:
+    - type: lov
+      bindende: bindende
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2015/524
+    sikkerhed: verificeret
   url:
     vaerdi: https://www.retsinformation.dk/eli/lta/2015/524
     kilder:
@@ -60288,9 +60411,12 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2026/953
     sikkerhed: verificeret
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
+    liste:
+    - type: lovbekendtgørelse
+      bindende: bindende
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2026/953
+    sikkerhed: verificeret
   url:
     vaerdi: https://www.retsinformation.dk/eli/lta/2026/953
     kilder:
@@ -60375,9 +60501,12 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2024/1014
     sikkerhed: verificeret
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
+    liste:
+    - type: lovbekendtgørelse
+      bindende: bindende
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2024/1014
+    sikkerhed: verificeret
   url:
     vaerdi: https://www.retsinformation.dk/eli/lta/2024/1014
     kilder:
@@ -60462,9 +60591,12 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2026/248
     sikkerhed: sandsynlig
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
+    liste:
+    - type: bekendtgørelse
+      bindende: bindende
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2026/248
+    sikkerhed: verificeret
   url:
     vaerdi: https://www.retsinformation.dk/eli/lta/2026/248
     kilder:
@@ -60549,9 +60681,12 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2017/557
     sikkerhed: sandsynlig
   dokumenttyper:
-    liste: []
-    kilder: []
-    sikkerhed: ukendt
+    liste:
+    - type: bekendtgørelse
+      bindende: bindende
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2017/557
+    sikkerhed: verificeret
   url:
     vaerdi: https://www.retsinformation.dk/eli/lta/2017/557
     kilder:
@@ -75366,10 +75501,11 @@ edges:
   to: lov-afi-loven
   beskrivelse: Offentligt tilgængelige ladepunkter (AFI-loven/AFIR) hører under By-, Land- og Transportministeriet (baseline, sandsynlig).
   kilder:
+  - https://www.retsinformation.dk/eli/lta/2024/1043
   - https://www.retsinformation.dk/eli/lta/2017/1537/pdf
   - https://www.fstyr.dk/erhverv/afir/afir-krav-til-ladepunkter
   - https://www.ft.dk/samling/20231/lovforslag/l105/bilag/3/2829642.pdf
-  sikkerhed: sandsynlig
+  sikkerhed: verificeret
   domaener:
   - energi
   - eu
@@ -75932,9 +76068,10 @@ edges:
     Uddannelses- og Digitaliseringsministeriet 3/6/2026 (baseline).'
   gyldig_fra: '2026-06-03'
   kilder:
+  - https://www.retsinformation.dk/eli/lta/2021/1764
   - https://ft.dk/samling/20222/almdel/DIU/bilag/3/2642988.pdf
   - https://folketingstidende.dk/samling/20222/lovforslag/L99/20222_L99_fremsaettelsestale.pdf
-  sikkerhed: sandsynlig
+  sikkerhed: verificeret
   domaener:
   - datakilder-standarder
 - type: ressortansvar
@@ -76136,13 +76273,13 @@ edges:
     § 4. KEFM''s affaldsressort omfatter affaldsaktørbekendtgørelsen, affaldsforbrændingssektoren og affaldsvarmeprislofte]'
   gyldig_fra: '2026-06-03'
   kilder:
+  - https://www.retsinformation.dk/eli/lta/2026/810
   - https://stm.dk/media/nishv4wc/kgl-resolution-af-3-juni-2026.pdf
   - https://www.altinget.dk/miljoe/artikel/saadan-flytter-ny-regering-rundt-paa-groenne-ministerier
-  - https://www.retsinformation.dk/eli/lta/2026/810
   - https://mst.dk/media/sgipdr4h/orientering-om-klassificeringskompetencen_opdateret-maj-2025.pdf
   - https://ft.dk/samling/20241/almdel/MOF/bilag/80/2929946.pdf
   - https://www.ft.dk/samling/20241/almdel/kef/bilag/121/2961742.pdf
-  sikkerhed: sandsynlig
+  sikkerhed: verificeret
   domaener:
   - kommunalt
 - type: ressortansvar
@@ -77290,11 +77427,12 @@ edges:
     (og minister for nordisk samarbejde), mens boligområdet blev lagt under en børne-, ældre- og boligminister (Jacob Mark). Retssikkerhedsloven
     følger formentlig socialministerens ressort.
   kilder:
+  - https://www.retsinformation.dk/eli/lta/2026/680
   - https://www.altinget.dk/social/artikel/monika-rubin-bliver-ny-socialminister
   - https://stm.dk/media/nishv4wc/kgl-resolution-af-3-juni-2026.pdf
   - https://www.rigsrevisionen.dk/Media/638930992710187398/18-2024-SM.pdf
   - https://www.retsinformation.dk/eli/lta/2024/261/pdf
-  sikkerhed: sandsynlig
+  sikkerhed: verificeret
   domaener:
   - kritik:klage-praksis-kilder-eu
 - type: ressortansvar
@@ -81115,7 +81253,7 @@ edges:
   beskrivelse: Loven hører under skatteministeren.
   kilder:
   - https://www.retsinformation.dk/eli/lta/2025/1228
-  sikkerhed: sandsynlig
+  sikkerhed: verificeret
   domaener:
   - skat
 - type: ressortansvar
@@ -81834,8 +81972,9 @@ edges:
   to: lov-sundhedsloven
   beskrivelse: Loven hører under sundhedsministeren (lovteksten nævner endnu det gamle ministernavn).
   kilder:
+  - https://www.retsinformation.dk/eli/lta/2026/896
   - https://www.retsinformation.dk/eli/lta/2025/275
-  sikkerhed: ukendt
+  sikkerhed: verificeret
   domaener:
   - sundhed
 - type: ressortansvar
@@ -82655,7 +82794,7 @@ edges:
   beskrivelse: Udlændinge- og integrationsministeren har ressortansvaret for udlændingeloven.
   kilder:
   - https://www.retsinformation.dk/eli/lta/2026/953
-  sikkerhed: sandsynlig
+  sikkerhed: verificeret
   domaener:
   - udlaendinge
 - type: ressortansvar
@@ -82912,7 +83051,7 @@ edges:
   beskrivelse: Loven hører under social- og boligministeren (nu socialministeren).
   kilder:
   - https://www.retsinformation.dk/eli/lta/2026/242
-  sikkerhed: verificeret
+  sikkerhed: sandsynlig
   domaener:
   - social
 - type: ressortansvar
@@ -82921,7 +83060,7 @@ edges:
   beskrivelse: Loven hører under social- og boligministeren (nu socialministeren).
   kilder:
   - https://www.retsinformation.dk/eli/lta/2024/1006
-  sikkerhed: verificeret
+  sikkerhed: sandsynlig
   domaener:
   - social
 - type: ressortansvar
@@ -83957,7 +84096,6 @@ edges:
   to: lov-fiskeriloven
   beskrivelse: 'BEK 514/2026 § 2, nr. 4: ressortansvaret for sager vedrørende fiskeri overført til Miljøministeriet.'
   kilder:
-  - https://www.retsinformation.dk/eli/lta/2023/205
   - https://www.retsinformation.dk/eli/lta/2026/514
   sikkerhed: verificeret
   domaener:

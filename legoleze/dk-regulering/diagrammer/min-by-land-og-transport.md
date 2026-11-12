@@ -159,7 +159,7 @@ flowchart LR
     naevn_planklagenaevnet -.->|klageinstans| sty_plan_og_landdistriktsstyrelsen
     naevn_taksationsmyndighederne -->|klageinstans| kommune_alle
     sty_vejdirektoratet -->|klageinstans| kommune_alle
-    min_by_land_og_transport -.->|ressortansvar| lov_afi_loven
+    min_by_land_og_transport -->|ressortansvar| lov_afi_loven
     min_by_land_og_transport -->|ressortansvar| lov_ekspropriationsprocesloven
     min_by_land_og_transport -.->|ressortansvar| lov_kolonihaveloven
     min_by_land_og_transport -.->|ressortansvar| lov_landdistriktsfonden

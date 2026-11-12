@@ -69,7 +69,7 @@ flowchart LR
     min_sundhed_og_kirke -.->|ressortansvar| naevn_det_psykiatriske_patientklagenaevn
     min_sundhed_og_kirke -->|ressortansvar| raad_laegemiddelnaevnet
     min_sundhed_og_kirke -.->|ressortansvar| org_patienterstatningen
-    min_sundhed_og_kirke -.->|ressortansvar| lov_sundhedsloven
+    min_sundhed_og_kirke -->|ressortansvar| lov_sundhedsloven
     min_sundhed_og_kirke -.->|ressortansvar| lov_autorisation_sundhedspersoner
     min_sundhed_og_kirke -.->|ressortansvar| lov_klage_og_erstatningsloven
     min_sundhed_og_kirke -->|ressortansvar| lov_laegemiddelloven

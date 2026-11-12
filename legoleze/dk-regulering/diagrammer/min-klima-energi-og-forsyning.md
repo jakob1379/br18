@@ -288,7 +288,7 @@ flowchart LR
     naevn_energiklagenaevnet -->|klageinstans| sty_energistyrelsen
     naevn_energiklagenaevnet -->|klageinstans| tilsyn_forsyningstilsynet
     sty_energistyrelsen -->|klageinstans| org_energimaerkningsfirmaer
-    min_klima_energi_og_forsyning -.->|ressortansvar| bek_affald
+    min_klima_energi_og_forsyning -->|ressortansvar| bek_affald
     min_klima_energi_og_forsyning -->|ressortansvar| bek_affaldsaktoer
     min_klima_energi_og_forsyning -.->|ressortansvar| bek_affaldsvarmeprisloft
     min_klima_energi_og_forsyning -->|ressortansvar| lov_adresseloven

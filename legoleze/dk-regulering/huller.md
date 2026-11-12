@@ -464,9 +464,9 @@
 
 | Sikkerhed | Antal |
 |-----------|------:|
-| verificeret | 5156 |
-| sandsynlig | 1273 |
-| ukendt | 656 |
+| verificeret | 5199 |
+| sandsynlig | 1269 |
+| ukendt | 617 |
 
 ### Ukendt hjemmel/URL/adgang (215)
 

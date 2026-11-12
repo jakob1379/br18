@@ -89,7 +89,7 @@ flowchart LR
     min_skat_og_vaekst -->|ressortansvar| naevn_vurderingsankenaevn
     min_skat_og_vaekst -->|ressortansvar| naevn_motorankenaevn
     min_skat_og_vaekst -->|ressortansvar| tilsyn_it_tilsynet
-    min_skat_og_vaekst -.->|ressortansvar| lov_skatteforvaltningsloven
+    min_skat_og_vaekst -->|ressortansvar| lov_skatteforvaltningsloven
     min_skat_og_vaekst -->|ressortansvar| lov_spilleloven
     min_skat_og_vaekst -->|ressortansvar| lov_it_tilsynsloven
     bek_skatteforvaltningens_opgaver -->|hjemmel_for| sty_skatteforvaltningen
