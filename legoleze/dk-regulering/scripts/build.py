@@ -274,7 +274,7 @@ def gen_katalog(reg: dict, kat: dict) -> str:
     th = defaultdict_count(d["type"] for d in docs if d["status"]["vaerdi"] != "gældende")
     for t in sorted(set(tg) | set(th), key=lambda t: -(tg.get(t, 0) + th.get(t, 0))):
         lines.append(f"| {t} | {tg.get(t, 0)} | {th.get(t, 0)} |")
-    lines += ["", "## Gældende dokumenter pr. nuværende ressortministerium (klassifikation)", "",
+    lines += ["", "## Gældende dokumenter pr. nuværende ressortministerium (Retsinformations ressortfelt eller klassifikation)", "",
               "| Ministerium | Antal | heraf sandsynlig | heraf ukendt |", "|---|---:|---:|---:|"]
     by = defaultdict(lambda: [0, 0, 0])
     for d in gd:

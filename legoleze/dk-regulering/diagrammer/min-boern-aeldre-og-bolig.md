@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 103 · kanter: 221
+Noder: 102 · kanter: 221
 
 ```mermaid
 flowchart LR
@@ -67,7 +67,6 @@ flowchart LR
     ombud_folketingets_ombudsmand["Folketingets Ombudsmand"]:::klage
     naevn_huslejenaevn["Huslejenævn (kommunale)"]:::klage
     min_social["Socialministeriet"]:::ministerium
-    sty_bolig_og_planstyrelsen["Bolig- og Planstyrelsen (nedlagt)"]:::nedlagt
     fond_byggeskadefonden_bygningsfornyelse["Byggeskadefonden vedrørende Bygningsfornyelse (nedlagt)"]:::nedlagt
     eu_dir_2018_844["Direktiv (EU) 2018/844 om ændring af direktiv 2010/31/EU om bygningers energimæssige ydeevne og direktiv 2012/27/EU om energieffektivitet (ophævet)"]:::nedlagt
     eu_dir_2010_31["Direktiv 2010/31/EU om bygningers energimæssige ydeevne (EPBD, som ændret ved 2018/844) (ophævet)"]:::nedlagt
@@ -85,7 +84,7 @@ flowchart LR
     bek_almen_drift["Bekendtgørelse om drift af almene boliger m.v. (driftsbekendtgørelsen)"]:::retsakt
     bek_bsf_eftersyn["Bekendtgørelse om eftersyn under Byggeskadefonden (BEK nr. 2137 af 21/12/2020)"]:::retsakt
     bek_friplejeboliger_etablering["Bekendtgørelse om etablering af friplejeboliger (2025-udgave; afløser BEK nr. 1066/2015)"]:::retsakt
-    bek_byggesagsgebyr["Bekendtgørelse om gebyrer på byggeområdet (byggesagsgebyr)"]:::retsakt
+    bek_byggesagsgebyr["Bekendtgørelse om gebyrer på byggeområdet fastsat af Social- og Boligstyrelsen (byggesagsgebyr)"]:::retsakt
     bek_individuel_maaling["Bekendtgørelse om individuel måling af el, gas, vand, varme og køling (BEK nr. 563 af 02/06/2014, ændret ved BEK 1291/2014, 1383/2020 og 1147/2025)"]:::retsakt
     bek_ladestandere["Bekendtgørelse om ladestandere og tomrør i forbindelse med bygninger (ladestanderbekendtgørelsen)"]:::retsakt
     bek_byggevarer_cpr2011["Bekendtgørelse om markedsføring og markedsovervågning af byggevarer (efter forordning 305/2011)"]:::retsakt
@@ -210,7 +209,7 @@ flowchart LR
     lov_boligforholdsloven -->|hjemmel_for| naevn_huslejenaevn
     lov_byfornyelsesloven -.->|hjemmel_for| fond_byggeskadefonden
     lov_byggeloven -->|hjemmel_for| bek_br18
-    lov_byggeloven -.->|hjemmel_for| bek_byggesagsgebyr
+    lov_byggeloven -->|hjemmel_for| bek_byggesagsgebyr
     lov_byggeloven -.->|hjemmel_for| bek_byggevarer_cpr2011
     lov_byggeloven -->|hjemmel_for| bek_byggevarer_cpr2024
     lov_byggeloven -->|hjemmel_for| bek_certificering
@@ -310,7 +309,6 @@ flowchart LR
     min_social -->|udsteder| kilde_parallelsamfundslister
     naevn_byggeklageenheden -->|udsteder| kilde_bke_afgoerelser
     naevn_byggeklageenheden -->|udsteder| kilde_naevneneshus_afgoerelser
-    sty_bolig_og_planstyrelsen -.->|udsteder| bek_byggesagsgebyr
     sty_naevnenes_hus -->|udsteder| kilde_bke_afgoerelser
     sty_social_og_boligstyrelsen -->|udsteder| bek_br18
     sty_social_og_boligstyrelsen -->|udsteder| bek_byggevarer_cpr2011
@@ -338,6 +336,7 @@ flowchart LR
     lov_almenboligloven -->|hjemmel_for| vejl_satsvejledning_leje_almen
     lov_almenlejeloven -->|hjemmel_for| vejl_satsvejledning_leje_almen
     lov_boligforholdsloven -->|hjemmel_for| vejl_satsvejledning_leje_almen
+    sty_social_og_boligstyrelsen -->|udsteder| bek_byggesagsgebyr
 ```
 
 [← Overblik](oversigt.md)

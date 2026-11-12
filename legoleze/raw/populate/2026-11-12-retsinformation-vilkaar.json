@@ -1,0 +1,34 @@
+{
+ "omraade": "tvaergaaende",
+ "dato": "2026-11-12",
+ "noder": [],
+ "kanter": [],
+ "rettelser": [
+  {"id": "kilde-retsinformation", "felt": "licens",
+   "tekst": "Civilstyrelsen giver gratis, ikke-eksklusiv og ubegrænset brugsret til åbne data fra Retsinformation: data må kopieres, distribueres og offentliggøres, ændres og sammensættes med andet materiale og bruges kommercielt og ikke-kommercielt. Love og regler er ikke underlagt ophavsret (ophavsretslovens § 9); selvstændige bidrag som fotografier må gengives sammen med forskriften (§ 9, stk. 2). Vilkår: data må ikke bruges, så det kan fremstå, som om Civilstyrelsen støtter, anbefaler eller markedsfører brugeren, og brugen af services må ikke belaste Civilstyrelsens datagrænseflade uhensigtsmæssigt eller uforholdsmæssigt.",
+   "belaeg": [
+    {"url": "https://www.retsinformation.dk/static/api.html", "citat": "Civilstyrelsen giver gratis, ikke-eksklusiv og ubegrænset brugsret til åbne data fra Retsinformation. Data kan bl.a.: kopieres, distribueres og offentliggøres ændres og sammensættes med andet materiale bruges kommercielt og ikke-kommercielt"},
+    {"url": "https://www.retsinformation.dk/static/api.html", "citat": "Love og regler er ikke underlagt ophavsret, jf. ophavsretslovens § 9. Værker, som f.eks. fotografier, der fremstår som selvstændige bidrag"},
+    {"url": "https://www.retsinformation.dk/static/api.html", "citat": "Data fra Retsinformation må ikke bruges på en måde, så det kan fremstå, som om Civilstyrelsen støtter, anbefaler eller markedsfører brugeren"},
+    {"url": "https://www.retsinformation.dk/static/api.html", "citat": "Brugen af services må ikke belaste Civilstyrelsens datagrænseflade på en uhensigtsmæssig eller uforholdsmæssig måde"}
+   ]},
+  {"id": "kilde-retsinformation", "felt": "adgang",
+   "vaerdier": ["ELI", "HTML", "PDF", "API", "RSS"],
+   "note": "ELI-stier: /eli/lta/ÅÅÅÅ/NNN (love og bekendtgørelser), /eli/retsinfo/ÅÅÅÅ/NNNNN (cirkulærer, vejledninger og afgørelser), /eli/ft/<samling+id> (Folketingstidende) og /eli/fob/ÅÅÅÅ/NNNN (ombudsmandsudtalelser). PDF via /api/pdf/<id>. Civilstyrelsen stiller dokumenterne til rådighed som åbne data ad to kanaler: en REST-høsteservice på api.retsinformation.dk og ELI channels (ELI sitemap og ELI Atom Feed; feedets adresse er ikke set). Høsteservicen (GET /v1/Documents) bruges til dagligt at følge ændringer; datoparameteren skal ligge inden for de seneste 10 dage. Den kan benyttes kl. 03:00–23:45 og må kun kaldes én gang pr. 10 sekunder (ellers HTTP 429). For ELI-kanalerne er der ingen talgrænse, kun vilkåret om ikke at belaste datagrænsefladen uhensigtsmæssigt eller uforholdsmæssigt. Den tidligere SOAP-webservice blev nedlagt i 2022.",
+   "belaeg": [
+    {"url": "https://www.retsinformation.dk/static/api.html", "citat": "Civilstyrelsen stiller disse dokumenter til rådighed som åbne data via en REST API høste-webservice og via ELI channels"},
+    {"url": "https://www.retsinformation.dk/static/api.html", "citat": "ELI channels udstilles under den fælleseuropæiske standard European Legislation Identifier (ELI) og stilles til rådighed som et ELI sitemap og ELI Atom Feed"},
+    {"url": "https://www.retsinformation.dk/static/api.html", "citat": "Høste-webservicen stilles til rådighed via et REST API, der er tilgængeligt på https://api.retsinformation.dk"},
+    {"url": "https://api.retsinformation.dk/swagger/v1/swagger.json", "citat": "Servicen kan benyttes i tidsrummet fra kl. 03:00 til 23:45. Servicen kan desuden kun kaldes en gang pr. 10 sekunder."},
+    {"url": "https://api.retsinformation.dk/swagger/v1/swagger.json", "citat": "Skal ligge inden for de seneste 10 dage. Der hentes dokumenter fra et døgn før og frem til denne dato klokken 03:00"},
+    {"url": "https://api.retsinformation.dk/swagger/v1/swagger.json", "citat": "Servicen er kaldt for ofte. Den må kun kaldes en gang pr. 10 sekunder."},
+    {"url": "https://www.retsinformation.dk/static/api.html", "citat": "Brugen af services må ikke belaste Civilstyrelsens datagrænseflade på en uhensigtsmæssig eller uforholdsmæssig måde"}
+   ]},
+  {"id": "bek-byggesagsgebyr", "felt": "url", "vaerdi": "https://www.retsinformation.dk/eli/lta/2025/1455",
+   "belaeg": [{"url": "https://www.retsinformation.dk/eli/lta/2025/1455", "citat": "Bekendtgørelse om gebyrer på byggeområdet fastsat af Social- og Boligstyrelsen"}]},
+  {"id": "lov-christianialoven", "felt": "url", "vaerdi": "https://www.retsinformation.dk/eli/lta/1989/399",
+   "belaeg": [{"url": "https://www.retsinformation.dk/eli/lta/1989/399", "citat": "Lov om anvendelse af Christianiaområdet"}]}
+ ],
+ "huller": [],
+ "noter": "Orkestratorens egne rettelser efter katalog-ajourføringen 2026-11-12. Vilkårssiden og høsteservicens beskrivelse er læst direkte; de to adresser er fundet i Retsinformations søgeeksport og slået op med populate.py lov."
+}

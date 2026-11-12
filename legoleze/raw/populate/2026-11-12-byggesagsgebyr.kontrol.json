@@ -1,0 +1,26 @@
+[
+ {
+  "hvor": "kant sty-social-og-boligstyrelsen|udsteder|bek-byggesagsgebyr",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1455",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "rettelse bek-byggesagsgebyr.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1455",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ }
+]

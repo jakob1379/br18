@@ -32,20 +32,25 @@ meta:
       kanter: katalog/kanter.jsonl
       eu_index: katalog/eu_index.jsonl
       oversigt: katalog/README.md (genereret)
-    kilde: kilde-danish-law-mcp (https://github.com/Ansvar-Systems/danish-law-mcp, commit da22657b7aa604e0a900d69b2b60a7b0c424b0cb)
+    kilde: kilde-danish-law-mcp (https://github.com/Ansvar-Systems/danish-law-mcp, commit da22657b7aa604e0a900d69b2b60a7b0c424b0cb) for dokumenter
+      udstedt til og med 2026-02-12 og for alle tekstudtræk; kilde-retsinformation (søgeeksporten api/documentsearch/csv, hentet 2026-11-12) for
+      status, senere dokumenter, hjemmel og ressortfelt
     id: lta-<år>-<nummer> (Lovtidende A år og nummer, samme som ELI-stien /eli/lta/<år>/<nummer>)
-    felter: id, navn, type, kilder[ELI-XML-URL fra datasættet], status{vaerdi gældende|historisk, pr, sikkerhed}, identifikatorer{lovtidende,
-      document_id, accession, unique_document_id, sikkerhed}, datoer{udstedt, historisk_markeret, ri_registreret, ri_aendret}, territorium (DK/GL/FO/GL+FO
-      ud fra titlen), dokumentrolle (hoved/ændring/ikrafttræden/ophævelse), udstedt_af{vaerdi, metode, praefiks, sikkerhed}, ministerium{vaerdi,
-      sikkerhed, metode} og retsomraade/domaener (kun gældende), gaeldende_version / nyeste_version_afloeser_mangler / afloeser_mangler, aendrer[],
-      eu_referencer[], registry_ids[], seed_fil, n_paragraffer, n_definitioner
+    felter: id, navn, type, kilder[ELI-XML-URL], status{vaerdi gældende|historisk, pr, sikkerhed}, identifikatorer{lovtidende, document_id, accession,
+      unique_document_id, sikkerhed}, datoer{udstedt, historisk_markeret, ri_registreret, ri_aendret}, territorium (DK/GL/FO/GL+FO ud fra titlen),
+      dokumentrolle (hoved/ændring/ikrafttræden/ophævelse), udstedt_af{vaerdi, metode, praefiks, sikkerhed}, ministerium{vaerdi, sikkerhed, metode,
+      pr} og retsomraade/domaener (kun gældende), gaeldende_version / nyeste_version_afloeser_mangler / afloeser_mangler, aendrer[], eu_referencer[],
+      registry_ids[], seed_fil (kun dokumenter fra bulk-høsten), n_paragraffer, n_definitioner
     kanter: 'Samme kanttyper og påstandsstruktur som registry''et: henviser_til (lov/dokument/EU-retsakt nævnt i teksten; mål = citeret version
       ved nr.+dato, ellers versionen der gjaldt ved udstedelsen, med gaeldende_version ved siden af), implementerer_EU (direktiv + gennemførelsesudsagn
-      i samme bestemmelse), ressortansvar (ministerium → gældende dokument; fra registry-noden når den findes, ellers klassifikation). Endepunkter
-      er katalog-id''er, registry-id''er eller eu_index-id''er.'
-    sikkerhed: verificeret = står direkte i datasættets felter eller tekst (status, Lovtidende-nr., henvisning med nummer og dato, EU-retsakt
-      nævnt). sandsynlig = udledt (udstedende ministerium fra DocumentId-præfiks, titel-/navnematch, ressort klassificeret af Haiku, implementerer_EU
-      fra samforekomst). ukendt = intet grundlag.
+      i samme bestemmelse), hjemmel_for (lov eller forskrift → forskrift, fra Retsinformations hjemmelsfelt; målet er den version, forskriften
+      henviser til, med gaeldende_version ved siden af), ressortansvar (ministerium → gældende dokument; fra Retsinformations ressortfelt, når
+      det med sikkerhed er aktuelt, ellers fra registry-noden, arvet fra hjemmelsloven eller klassificeret). Endepunkter er katalog-id''er, registry-id''er
+      eller eu_index-id''er.'
+    sikkerhed: verificeret = står direkte i datasættets felter eller tekst eller i Retsinformations søgeeksport (status, Lovtidende-nr., henvisning
+      med nummer og dato, EU-retsakt nævnt, hjemmel, ressortfelt der med sikkerhed er aktuelt). sandsynlig = udledt (udstedende ministerium fra
+      DocumentId-præfiks, titel-/navnematch, ministerium arvet fra hjemmelsloven, ressort klassificeret af Haiku, implementerer_EU fra samforekomst).
+      ukendt = intet grundlag.
     datoer_note: Den reelle ikrafttrædelsesdato findes ikke i bulk-kilden (ukendt). ri_registreret er datasættets start_date/in_force_date (Retsinformations
       databasedato; for dokumenter fra før 1990 typisk en dato i 1990'erne), ri_aendret er end_date med udokumenteret betydning – ingen af dem
       må bruges som gyldighedsperiode.
@@ -69,25 +74,37 @@ meta:
     retsområde for gældende dokumenter er klassificeret af Haiku-agenter (effort high) med en ressortguide for kgl. res. 3/6/2026. Krydsreferencer
     er udtrukket med regex og titelmatch mod lovfamilier. Registry-noderne er koblet til katalogposter, og 14 forældede versionshenvisninger er
     markeret eller rettet. Katalog-kilderne er datasættets egne URL''er og falder uden for proveniensfilteret, som kun gælder søgeresultater.'
+  - 'Katalog ajourført 2026-11-12 fra Retsinformations egen søgeeksport (api/documentsearch/csv, pipeline/corpus/eksport.py): status for alle
+    dokumenter i Lovtidende A, de dokumenter bulk-høsten manglede, og hjemmel_for-kanter fra eksportens hjemmelsfelt, som er Retsinformations
+    egen kobling mellem en forskrift og den lovgivning, den vedrører. Ministerium er sat fra Retsinformations ressortfelt for de gældende dokumenter,
+    hvor feltet med sikkerhed er aktuelt (samme regel som for registry''ets ressortkanter). Nye dokumenter uden et sådant felt har arvet ministerium
+    og retsområde fra den lov, de er udstedt efter eller ændrer, og resten er klassificeret af Haiku (sandsynlig). Eksporten for Retsinformations
+    øvrige samlinger (administrative forskrifter og afgørelser, Ministerialtidende, Lovtidende B og C, Folketingstidende og Folketingets Ombudsmand)
+    ligger som metadata i intermediate/corpus/eksport/ og er ikke en del af kataloget.'
   - 'Fase 7 (fra 2026-11-11): Instanslag uden for de otte domæner. Én research-agent pr. retsområde leverer noder og kanter med kilde-URL og ordret
     citat for hver påstand (pipeline/populate-brief.md). pipeline/populate.py henter selv hver kilde og leder efter citatet, læser nummer, dato,
     titel og status for love og bekendtgørelser direkte i Retsinformations metadata, og en uafhængig kontrollant bedømmer, om citatet bærer påstanden.
     For disse påstande betyder verificeret: citatet er genfundet på en officiel side og godkendt af kontrollanten, eller feltet er læst af Retsinformations
     metadata. Ellers sandsynlig. Rå fund, domme og kontroljournaler ligger i raw/populate/. Fra 2026-11-12 ser kontrollanten også sidens egen
     tekst omkring citatet og den paragraf, citatet står i; en lov, hvis citerede version er historisk, flyttes til den gældende lovbekendtgørelse
-    fra Retsinformations tidslinje; og en ressortansvar-kant til en lov eller bekendtgørelse er verificeret, når Retsinformations ministeriefelt
-    er det samme ministerium og med sikkerhed er sat efter regeringsdannelsen: dokumentet er udstedt efter den, eller ministeriet fik sit navn
-    ved den (feltet på ældre dokumenter er ikke altid ført ajour). populate.py ajour slår alle aktive retsakter op hos Retsinformation og skriver
-    gældende version, nummer, dato og senere ændringer samt de hjemmel_for- og implementerer_EU-kanter, Retsinformation selv fører mellem registry''ets
-    noder.'
+    fra Retsinformations tidslinje; en historisk bekendtgørelse, vejledning eller et historisk cirkulære flyttes til det gældende dokument med
+    samme titel blandt dem, Retsinformation fører som senere ændringer; og en ressortansvar-kant til en lov eller bekendtgørelse er verificeret,
+    når Retsinformations ministeriefelt er det samme ministerium og med sikkerhed er sat efter regeringsdannelsen: dokumentet er udstedt efter
+    den, eller ministeriet fik sit navn ved den (feltet på ældre dokumenter er ikke altid ført ajour). populate.py ajour slår alle aktive retsakter
+    op hos Retsinformation og skriver gældende version, nummer, dato og senere ændringer samt de hjemmel_for- og implementerer_EU-kanter, Retsinformation
+    selv fører mellem registry''ets noder.'
   begraensninger:
   - WebFetch var blokeret af sessionens netværkspolitik for alle eksterne domæner, herunder retsinformation.dk, eur-lex.europa.eu og ministeriernes
     sider. Al evidens stammer derfor fra WebSearch-resultater (titel, URL, uddrag). En URL markeret verificeret er set i et søgeresultat, men
     siden er ikke åbnet direkte.
   - URL'er er aldrig konstrueret. Er en side ikke set i søgeresultater, står der 'ikke fundet', også når et mønster (fx ELI) gør adressen forudsigelig.
   - ELI'erne for 16 love/bekendtgørelser stammer fra jakob1379/br18 xref-laws.toml, tjekket mod retsinformation 2026-10-26.
-  - Katalog-laget dækker kun Lovtidende A til og med udstedelser 2026-02-12 og mangler præambel, underskrift og EU-noter; hjemmel_for er derfor
-    ikke udledt for katalog-dokumenter.
+  - 'Katalog-laget dækker kun Lovtidende A. Dokumentliste, status og hjemmel_for-kanter er ført ajour fra Retsinformations søgeeksport 2026-11-12,
+    men tekstudtrækkene (paragraffer, henvisninger i teksten, EU-referencer) stammer fra bulk-høsten, som slutter med udstedelser 2026-02-12 og
+    mangler præambel, underskrift og EU-noter. Dokumenter tilføjet fra eksporten har derfor kun metadata og Retsinformations relationer. hjemmel_for
+    i kataloget er Retsinformations kobling på dokumentniveau, ikke en læsning af præamblens paragrafhenvisning. Status er Retsinformations markering:
+    et dokument kan stå som historisk, før ophævelsen har virkning (BEK nr. 1170 af 14/11/2024 blev markeret historisk 2026-11-04, men ophæves
+    først 1. januar 2027).'
   - Ressortforhold ændrer sig ofte. Seneste kendte ændringer er regeringsdannelsen 2026-06-03 (BEK nr. 514 af 08/06/2026) og ministerskiftet 2026-10-27.
     Se 'ressortomlaegninger' og 'uafklarede_konflikter'.
   sikkerhed:
@@ -612,6 +629,7 @@ nodes:
     i BEK 810/2026 ikke set. | Det er ikke efterprøvet, om kapitelnummereringen for kommunal affaldsplanlægning er den samme i BEK 810/2026. Affaldsregulativer
     og -gebyrer reguleres i 'bekendtgørelse om affaldsregulativer, -gebyrer og -aktører m.v.' (affaldsaktørbekendtgørelsen), hvis nummer ikke
     er fundet.
+  katalog_id: lta-2026-810
 - id: bek-affaldsaktoer
   navn: Bekendtgørelse om affaldsregulativer, -gebyrer og -aktører m.v. (affaldsaktørbekendtgørelsen)
   type: bekendtgørelse
@@ -1111,7 +1129,7 @@ nodes:
     begrundelse: Central for støttet alment byggeri (tilsagn, anskaffelsessum og BygAlment), men URL er ikke set
   note: Ny node for et manglende led i hjemmelskæden almenboligloven → støttebekendtgørelse → eftersyn og indberetning til BygAlment. Nummeret
     bygger på én sekundærkilde (Lovguiden).
-  katalog_id: lta-2026-40
+  katalog_id: lta-2026-735
 - id: bek-almen-udlejning
   navn: Bekendtgørelse om udlejning af almene boliger m.v.
   type: bekendtgørelse
@@ -1483,6 +1501,7 @@ nodes:
   note: Identiteten nr. 609 = 'Bekendtgørelse om arbejdets udførelse' er nu set i Retsinformation-uddrag (udsteder, j.nr., hjemmelsparagraffer).
     Direktøren for Arbejdstilsynet kan tillade afvigelser og fastsætte detailregler. At sammenskrivningerne 1/7/2026 er uden materielle ændringer,
     fremgår af Arbejdstilsynets nyhed.
+  katalog_id: lta-2026-609
 - id: bek-asbest
   navn: Bekendtgørelse om asbest i arbejdsmiljøet
   type: bekendtgørelse
@@ -1789,7 +1808,7 @@ nodes:
   note: Produktsiden af ATEX. Nummer, titel og hjemmel (produktloven) er set på Retsinformation (gældende ved udskrift 14/12/2025); status efter
     denne dato er ikke set. Markedsovervågningen af ATEX-produkter gik fra Arbejdstilsynet til Sikkerhedsstyrelsen 1/12/2018 og ligger siden 1/1/2026
     hos Erhvervsstyrelsen. Den tidligere hjemmel_for-kant fra arbejdsmiljøloven er erstattet af en kant fra lov-produktloven.
-  katalog_id: lta-2022-811
+  katalog_id: lta-2026-484
 - id: bek-autorisation
   navn: Bekendtgørelse om autorisation og drift af virksomhed på el-, vvs- og kloakinstallationsområdet
   type: bekendtgørelse
@@ -1884,7 +1903,7 @@ nodes:
   navn: Bekendtgørelse om brug af autoriserede arbejdsmiljørådgivere
   type: bekendtgørelse
   ministerium: min-beskaeftigelse-og-ligestilling
-  status: ukendt
+  status: ophævet
   domaener:
   - arbejdsmiljoe
   tidligere_navne: []
@@ -1921,9 +1940,9 @@ nodes:
     eli: https://www.retsinformation.dk/eli/lta/2007/259
     lovtidende: BEK nr. 259 af 20/03/2007 (ikke længere gældende – ordningen er afløst)
     andet: Kaldes også rådgivningspåbudsbekendtgørelsen. Afløst af bekendtgørelse om brug af autoriserede rådgivningsvirksomheder på arbejdsmiljøområdet
-      (nummer ikke set), som i 2021 blev erstattet af bekendtgørelse om brug af den nødvendige sagkundskab i forbindelse med kompetencepåbud (rådgivningspåbud
-      erstattet af kompetencepåbud). Seneste kompetencepåbudsbekendtgørelse, BEK nr. 808 af 15/06/2023, er ophævet ved BEK nr. 98/2024. Autorisation
-      af rådgivningsvirksomheder reguleres særskilt (BEK nr. 1867/2023, i kraft 1/2/2024, som ophævede BEK nr. 622 af 08/04/2021).
+      (BEK nr. 59 af 15/01/2013), som i 2021 blev erstattet af bekendtgørelse om brug af den nødvendige sagkundskab i forbindelse med kompetencepåbud
+      (rådgivningspåbud erstattet af kompetencepåbud). Seneste kompetencepåbudsbekendtgørelse, BEK nr. 808 af 15/06/2023, er ophævet ved BEK nr.
+      98/2024. Autorisation af rådgivningsvirksomheder reguleres særskilt (BEK nr. 1867/2023, i kraft 1/2/2024, som ophævede BEK nr. 622 af 08/04/2021).
     kilder:
     - https://ast.dk/publikationer/arbejdsmiljoklagenaevnet-nyhedsbrev-nr-3-2013/@@download/publication
     - https://ft.dk/samling/20201/almdel/BEU/bilag/46/2281042.pdf
@@ -1932,9 +1951,11 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2023/1867/pdf
     - https://www.retsinformation.dk/eli/lta/2021/622/pdf
     - https://www.retsinformation.dk/eli/lta/2007/259/xml
+    - https://www.retsinformation.dk/eli/lta/2013/59
     sikkerhed: sandsynlig
-    katalog_note: Retsinformation-høsten (danish-law-mcp, 2026-06-12) markerer BEK nr. 259 af 20/03/2007 som historisk (markeret 2013-01-28).
-      Afløseren findes ikke i høsten (formentlig udstedt efter datasættets sidste udstedelsesdato 2026-02-12) – ikke fundet.
+    katalog_note: 'Retsinformation markerer BEK nr. 259 af 20/03/2007 som historisk (2013-01-28). Senere ændringer ifølge Retsinformations søgeeksport
+      (2026-11-12): BEK nr 1426 af 27/12/2008, BEK nr 59 af 15/01/2013. BEK nr 59 af 15/01/2013 om brug af autoriserede rådgivningsvirksomheder
+      på arbejdsmiljøområdet fører nr. 259 under ''Ændrer i/ophæver'' (læst 2026-11-12) og er selv historisk (2021-03-08).'
   licens:
     tekst: 'Ikke genstand for ophavsret, jf. ophavsretslovens § 9, stk. 1 (love, administrative forskrifter, retsafgørelser og lignende offentlige
       aktstykker). Teksten kan frit gengives og genbruges. Undtagelse: værker der fremtræder som selvstændige bidrag i aktstykket (fx bilag med
@@ -3075,21 +3096,19 @@ nodes:
     om skiftende arbejdssteder undtager byggepladser omfattet af denne bekendtgørelse.'
   katalog_id: lta-2021-2107
 - id: bek-byggesagsgebyr
-  navn: Bekendtgørelse om gebyrer på byggeområdet (byggesagsgebyr)
+  navn: Bekendtgørelse om gebyrer på byggeområdet fastsat af Social- og Boligstyrelsen (byggesagsgebyr)
   type: bekendtgørelse
   ministerium: min-boern-aeldre-og-bolig
-  status: ukendt
+  status: aktiv
   domaener:
   - byggeri
   tidligere_navne: []
   hjemmel:
-    tekst: Byggelovens § 28 (kommunale byggesagsgebyrer; et mindre fast gebyr med loft fastsat i bekendtgørelsen) og § 25 F, stk. 4 (gebyrer vedr.
-      byggeskadeforsikring) ifølge 2018-udgaven. Præamblen i den gældende udgave er ikke set.
+    tekst: Byggelovens § 25 F, stk. 4, og § 28, stk. 2 og 7 (LBK nr. 1178 af 23/09/2016 med senere ændringer); udstedt af Social- og Boligstyrelsen
+      efter bemyndigelse i § 12 i BEK nr. 519 af 16/05/2023.
     kilder:
-    - https://nohrcon.dk/wp-content/uploads/2018/05/180420-gebyrbekendtgõrelse.pdf
-    - https://www.hedensted.dk/hedensted_data/dagsorden/Oekonomiudvalget_2022/12-12-2022/ID3468/Bilag/Punkt_299_Bilag_3_Bilag_a_til_indstillingsnotat.pdf
-    - https://www.bygningsreglementet.dk/media/0u3nldqc/gebyr.pdf
-    sikkerhed: sandsynlig
+    - https://www.retsinformation.dk/eli/lta/2025/1455
+    sikkerhed: verificeret
   dokumenttyper:
     liste:
     - type: bekendtgørelse
@@ -3101,9 +3120,10 @@ nodes:
     - https://rebild.dk/sites/default/files/2024-01/Takstblad%20for%20byggesagsbehandling%202024.pdf
     sikkerhed: verificeret
   url:
-    vaerdi: ikke fundet
-    kilder: []
-    sikkerhed: ukendt
+    vaerdi: https://www.retsinformation.dk/eli/lta/2025/1455
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2025/1455
+    sikkerhed: verificeret
   adgang:
     identifikator: ELI (fuldt implementeret 2016)
     formater:
@@ -3131,20 +3151,25 @@ nodes:
     sikkerhed: verificeret
     regel: retsinformation-adgang
   identifikatorer:
-    lovtidende: 'Gældende nummer pr. 28/10/2026 ikke fundet. Senest set: BEK nr. 2184 af 26/11/2021 (Bolig- og Planstyrelsen), jf. Hedensted Kommune
-      2022. Et tidligere angivet BEK nr. 1436 af 29/11/2022 er ikke genfundet i denne verifikation.'
+    lovtidende: BEK nr. 1455 af 01/12/2025
     andet: Ældre udgave fra Trafik-, Bygge- og Boligstyrelsen (2018) med hjemmel i byggelovens § 25 F, stk. 4, og § 28; omfatter både forsikringsselskabers
-      gebyrer for byggeskadeforsikring og kommunernes maksimale faste gebyr. Ingen Retsinformation-URL er set for de nyere udgaver (dog ældre
-      BEK 1383/2013 under https://www.retsinformation.dk/eli/lta/2013/1383/dan/pdf).
+      gebyrer for byggeskadeforsikring og kommunernes maksimale faste gebyr.
+    katalog_note: Tidligere registreret version BEK nr. 2184 af 26/11/2021 er historisk (2022-11-30). Afløst i rækkefølge af BEK nr. 1463 af 29/11/2022,
+      BEK nr. 1669 af 12/12/2023, BEK nr. 1519 af 09/12/2024 og den gældende BEK nr. 1455 af 01/12/2025 (Retsinformations 'Senere ændringer',
+      læst 2026-11-12). BEK nr. 1436 af 29/11/2022, som tidligere var angivet, er en anden bekendtgørelse (ophævelse på dyresundhedsområdet).
+    eli: https://www.retsinformation.dk/eli/lta/2025/1455
+    lovtidende_tidligere: 'Gældende nummer pr. 28/10/2026 ikke fundet. Senest set: BEK nr. 2184 af 26/11/2021 (Bolig- og Planstyrelsen), jf. Hedensted
+      Kommune 2022. Et tidligere angivet BEK nr. 1436 af 29/11/2022 er ikke genfundet i denne verifikation.'
+    senere_aendringer: []
+    aendringer_kontrolleret: '2026-11-12'
     kilder:
+    - https://www.retsinformation.dk/eli/lta/2025/1455
     - https://www.hedensted.dk/hedensted_data/dagsorden/Oekonomiudvalget_2022/12-12-2022/ID3468/Bilag/Punkt_299_Bilag_3_Bilag_a_til_indstillingsnotat.pdf
     - https://nohrcon.dk/wp-content/uploads/2018/05/180420-gebyrbekendtgõrelse.pdf
     - https://www.bygningsreglementet.dk/media/0u3nldqc/gebyr.pdf
     - https://horsens.dk/media/o3hb4ko1/gebyrerbyggesag2026.pdf
     - https://www.retsinformation.dk/eli/lta/2021/2184/xml
-    sikkerhed: sandsynlig
-    katalog_note: Retsinformation-høsten (danish-law-mcp, 2026-06-12) markerer BEK nr. 2184 af 26/11/2021 som historisk (markeret 2022-11-30).
-      Afløseren findes ikke i høsten (formentlig udstedt efter datasættets sidste udstedelsesdato 2026-02-12) – ikke fundet.
+    sikkerhed: verificeret
   licens:
     tekst: 'Ikke genstand for ophavsret, jf. ophavsretslovens § 9, stk. 1 (love, administrative forskrifter, retsafgørelser og lignende offentlige
       aktstykker). Teksten kan frit gengives og genbruges. Undtagelse: værker der fremtræder som selvstændige bidrag i aktstykket (fx bilag med
@@ -3189,7 +3214,7 @@ nodes:
     (fx 7/10/2025): https://www.lovguiden.dk/dokument/byggeklageenheden/07-10-2025-byggesagsgebyr-paa-15-167-6-kr-for-ombygning-til-to-boliger-ejerforening-var-rette-adressat-og-kommunens-tidsregistrering-var-tilstraekkeligt-specificeret
     | VERIFIKATION 28/10/2026: To søgninger fandt ikke den gældende bekendtgørelse. Hvis L 77 (2026-27) om udfasning af byggeskadeforsikringen
     vedtages, bortfalder gebyrdelen efter § 25 F (slutning).'
-  katalog_id: lta-2021-2184
+  katalog_id: lta-2025-1455
 - id: bek-byggevarer-cpr2011
   navn: Bekendtgørelse om markedsføring og markedsovervågning af byggevarer (efter forordning 305/2011)
   type: bekendtgørelse
@@ -4457,8 +4482,8 @@ nodes:
     - https://www.brs.dk/globalassets/brs---beredskabsstyrelsen/dokumenter/forebyggelse/2020/-pracisering-af-meddelelse-nr-22-.pdf
     - https://www.retsinformation.dk/eli/lta/2008/212/xml
     sikkerhed: verificeret
-    katalog_note: Retsinformation-høsten (danish-law-mcp, 2026-06-12) markerer BEK nr. 212 af 27/03/2008 som historisk (markeret 2021-12-09).
-      Afløseren findes ikke i høsten (formentlig udstedt efter datasættets sidste udstedelsesdato 2026-02-12) – ikke fundet.
+    katalog_note: 'Retsinformation markerer BEK nr. 212 af 27/03/2008 som historisk (2021-12-09). Senere ændringer ifølge Retsinformations søgeeksport
+      (2026-11-12): BEK nr 2340 af 09/12/2021.'
   licens:
     tekst: 'Ikke genstand for ophavsret, jf. ophavsretslovens § 9, stk. 1 (love, administrative forskrifter, retsafgørelser og lignende offentlige
       aktstykker). Teksten kan frit gengives og genbruges. Undtagelse: værker der fremtræder som selvstændige bidrag i aktstykket (fx bilag med
@@ -8245,6 +8270,7 @@ nodes:
   note: Trådte i kraft 27/6/2026, ikke 1/7/2026. Baseline har den under 'bygge/asbest', men den handler om kemiske agenser. Grænseværdierne står
     i en særskilt bekendtgørelse (BEK 613/2026). CMR-reglerne (direktiv 2004/37/EF) ligger i en særskilt bekendtgørelse, BEK nr. 1347/2025 (bek-kraeftrisiko);
     kanten implementerer_EU til 2004/37 er derfor fjernet herfra.
+  katalog_id: lta-2026-581
 - id: bek-klagenaevn-sagsbehandlingslofter
   navn: Bekendtgørelse om (mål for) sagsbehandlingslofter i Miljø- og Fødevareklagenævnet, Planklagenævnet og Energiklagenævnet (BEK nr. 1555
     af 2025; præcis titel ikke set)
@@ -8647,7 +8673,7 @@ nodes:
     begrundelse: Bindeled i Seveso-kæden for arbejdsmiljø; ELI-PDF på Retsinformation.
   note: Arbejdsmiljødelen af reglerne for risikovirksomheder (Seveso III, 2012/18/EU – faglig slutning). Nummeret er nu fundet på Retsinformation
     (BEK 370/2016); Lovguidens AT-historik (AI-genereret) bruges ikke længere som kilde for nummeret.
-  katalog_id: lta-2016-370
+  katalog_id: lta-2026-600
 - id: bek-kraeftrisiko
   navn: Bekendtgørelse om foranstaltninger til forebyggelse af risikoen ved arbejde med kræftfremkaldende, mutagene eller reproduktionstoksiske
     stoffer og materialer
@@ -8758,7 +8784,7 @@ nodes:
     begrundelse: Bindeled mellem CMR-direktivet og arbejdsmiljøloven; ELI-PDF på Retsinformation.
   note: 'Ny node: CMR-reglerne er ikke indarbejdet i BEK 581/2026 om kemiske agenser men ligger i denne særskilte bekendtgørelse (Retsinformation-uddrag).
     Dato, ikrafttræden og om den er berørt af sammenskrivningerne 1/7/2026, er ikke set. Status efter 2025 ikke set (sandsynlig aktiv).'
-  katalog_id: lta-2025-1347
+  katalog_id: lta-2026-582
 - id: bek-ladestandere
   navn: Bekendtgørelse om ladestandere og tomrør i forbindelse med bygninger (ladestanderbekendtgørelsen)
   type: bekendtgørelse
@@ -9130,7 +9156,7 @@ nodes:
   - forordning (EU) 2023/1230
   note: 'National supplering (ikke gennemførelse) af maskinforordningen (EU) 2023/1230, der anvendes fra 20/1/2027. Konflikten 486/494 er afklaret:
     486 ændrer BEK 727/2024, mens 494 (Lovguiden) ændrer BEK 1094/2021. Hjemmelsloven er ikke set (formentlig produktloven som BEK 1094/2021).'
-  katalog_id: lta-2024-727
+  katalog_id: lta-2026-956
 - id: bek-matrikel
   navn: Bekendtgørelse om matrikulære arbejder (matrikelbekendtgørelsen) (BEK nr. 602 af 28/05/2025)
   type: bekendtgørelse
@@ -9787,6 +9813,7 @@ nodes:
     besvaer: 1
     begrundelse: Styrer hvilke tilsynsafgørelser (påbud) der offentliggøres – relevant for praksislaget.
   note: Ny node. Fundet som Retsinformation-ELI i søgningen om de 19 sammenskrevne bekendtgørelser; datoen er ikke set direkte.
+  katalog_id: lta-2026-611
 - id: bek-olietanke
   navn: Bekendtgørelse om indretning, etablering og drift af olietanke, rørsystemer og pipelines (olietankbekendtgørelsen)
   type: bekendtgørelse
@@ -10821,6 +10848,7 @@ nodes:
   - bekendtgørelse om psykisk arbejdsmiljø
   - bekendtgørelse nr. 605 af 29. juni 2026
   note: En af Arbejdstilsynets 19 sammenskrevne bekendtgørelser fra 1/7/2026 (at.dk). Begrænset relevans for byggeri.
+  katalog_id: lta-2026-605
 - id: bek-raad-el-og-gasteknisk-sikkerhed
   navn: Bekendtgørelse om Rådet for El- og Gasteknisk Sikkerhed (2024)
   type: bekendtgørelse
@@ -10875,8 +10903,9 @@ nodes:
   identifikatorer:
     lovtidende: BEK nr 1170 af 14/11/2024 (Lovtidende A 15/11/2024; i kraft 1/1/2025)
     eli: https://www.retsinformation.dk/eli/lta/2024/1170
-    katalog_note: Retsinformation markerer denne version som historisk (2026-11-04); den gældende afløser er ikke identificeret (kontrolleret
-      2026-11-12).
+    katalog_note: Ophæves med virkning fra 1. januar 2027 ved BEK nr. 962 af 04/11/2026 om ophævelse af bekendtgørelse om Rådet for El- og Gasteknisk
+      Sikkerhed (§§ 1-2, https://www.retsinformation.dk/eli/lta/2026/962). Retsinformation markerer allerede BEK nr. 1170 af 14/11/2024 som historisk
+      (2026-11-04), selv om den gælder året ud. Læst 2026-11-12.
     senere_aendringer:
     - betegnelse: BEK nr 962 af 04/11/2026
       eli: https://www.retsinformation.dk/eli/lta/2026/962
@@ -10885,6 +10914,7 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2024/1170
     - https://www.retsinformation.dk/eli/lta/2024/1170/pdf
     - https://sik.dk/nyheder/1801?page=1
+    - https://www.retsinformation.dk/eli/lta/2026/962
     sikkerhed: verificeret
   licens:
     tekst: 'Ikke genstand for ophavsret, jf. ophavsretslovens § 9, stk. 1 (love, administrative forskrifter, retsafgørelser og lignende offentlige
@@ -12291,7 +12321,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: Forbindelsen mellem lov og Energinets forskrifter manglede. Bekendtgørelsen erstatter BEK nr 1358/2023, som nu er historisk.
-  katalog_id: lta-2025-1206
+  katalog_id: lta-2026-895
 - id: bek-systematisk-arbejdsmiljoearbejde
   navn: Bekendtgørelse om systematisk arbejdsmiljøarbejde
   type: bekendtgørelse
@@ -12383,6 +12413,7 @@ nodes:
   note: Retsinformation viser titlen 'BEK nr 608 af 29/06/2026, Beskæftigelses- og Ligestillingsministeriet', og virk.dk bekræfter titlen, ikrafttræden
     1/7/2026 og Arbejdstilsynet som ansvarlig myndighed. Baseline nævner nr. 608 blandt eksemplerne på de 19 hovedbekendtgørelser. Indeholder
     bl.a. arbejdsmiljøorganisation og arbejdsmiljøuddannelse og gennemfører formentlig dele af rammedirektivet.
+  katalog_id: lta-2026-608
 - id: bek-tekniske-hjaelpemidler-anvendelse
   navn: Bekendtgørelse om anvendelse af tekniske hjælpemidler
   type: bekendtgørelse
@@ -12571,6 +12602,7 @@ nodes:
   - bekendtgørelse nr. 429 af 5. april 2022
   note: Dækker tekniske hjælpemidler uden for de EU-harmoniserede produktregler (ikke-CE-udstyr, nationale krav). Grænsen til Erhvervsministeriets
     bekendtgørelser om maskiner, trykbærende udstyr og elevatorer er ikke efterprøvet i teksten.
+  katalog_id: lta-2026-595
 - id: bek-tilslutning-varme
   navn: Bekendtgørelse om tilslutning m.v. til kollektive varmeforsyningsanlæg (tilslutningsbekendtgørelsen)
   type: bekendtgørelse
@@ -13839,7 +13871,7 @@ nodes:
   krydsref_moenstre: []
   note: Grundbekendtgørelsens nummer er ikke entydigt bekræftet (søgeresultat angav nr. 682 af 30/06/2005). URL er til ændringsbekendtgørelsen
     fra AT.
-  katalog_id: lta-2005-682
+  katalog_id: lta-2023-1882
 - id: bek-vindmoeller
   navn: Bekendtgørelse om planlægning for og tilladelse til opstilling af vindmøller (BEK nr. 923 af 06/09/2019)
   type: bekendtgørelse
@@ -28541,11 +28573,15 @@ nodes:
       PDF via /api/pdf/<id>. Officiel REST-API (''Retsinformation høsteservice'', vejledning v1.3 revideret 13/09/2023): JSON, åbne data uden
       certifikatkrav, tjeneste til hentning af ændrede dokumenter og URL-versionering. Der må højst foretages ét kald pr. 10 sekunder (ellers
       HTTP 429). Åbningstiden er 03.00–23.45 (oplysning fra 2022). Efter nedetid kan man hente tilbage i tid inden for en begrænset periode. Dokumentationen
-      ligger på api.retsinformation.dk. Den tidligere SOAP-webservice blev nedlagt i 2022.'
+      ligger på api.retsinformation.dk. Den tidligere SOAP-webservice blev nedlagt i 2022. Civilstyrelsens betingelser for åbne data nævner to
+      kanaler: høsteservicen på api.retsinformation.dk og ELI channels (ELI sitemap og ELI Atom Feed). Høsteservicens datoparameter skal ligge
+      inden for de seneste 10 dage (læst 2026-11-12).'
     kilder:
     - https://www.retsinformation.dk/offentlig/vejledning/Retsinformation%20REST%20API%20vejledning%20v1.pdf
     - https://lovguiden.dk/det-offentlige/civilstyrelsen/2022-07-04-retsinformation-nedlaegger-webservice-baseret-paa-soap-api
     - https://www.retsinformation.dk/eli/fob/2009/0406/dan/pdf
+    - https://www.retsinformation.dk/static/api.html
+    - https://api.retsinformation.dk/swagger/v1/swagger.json
     sikkerhed: verificeret
   identifikatorer:
     eli: https://www.retsinformation.dk/eli/lta/<år>/<nr> (Lovtidende A-nummer); /eli/retsinfo/<år>/<nr> (vejledninger o.l.); /eli/ft/<samling+id>
@@ -28560,13 +28596,13 @@ nodes:
     - https://www.retsinformation.dk/api/pdf/256544
     sikkerhed: verificeret
   licens:
-    tekst: Retsinformations API (høsteservice) udbydes som åbne data uden certifikatkrav eller særlige forudsætninger. Vilkårene for brug af API'et
-      offentliggøres på retsinformation.dk; selve vilkårsteksten er ikke set. Love, administrative forskrifter og retsafgørelser er ikke genstand
-      for ophavsret (ophavsretslovens § 9, stk. 1, jf. LBK nr. 1093 af 2023), bortset fra selvstændige bidrag (§ 9, stk. 2).
+    tekst: 'Civilstyrelsen giver gratis, ikke-eksklusiv og ubegrænset brugsret til åbne data fra Retsinformation: data må kopieres, distribueres
+      og offentliggøres, ændres og sammensættes med andet materiale og bruges kommercielt og ikke-kommercielt. Love og regler er ikke underlagt
+      ophavsret (ophavsretslovens § 9); selvstændige bidrag som fotografier må gengives sammen med forskriften (§ 9, stk. 2). Vilkår: data må
+      ikke bruges, så det kan fremstå, som om Civilstyrelsen støtter, anbefaler eller markedsfører brugeren, og brugen af services må ikke belaste
+      Civilstyrelsens datagrænseflade uhensigtsmæssigt eller uforholdsmæssigt.'
     kilder:
-    - https://www.retsinformation.dk/offentlig/vejledning/Retsinformation%20REST%20API%20vejledning%20v1.pdf
-    - https://lovguiden.dk/det-offentlige/civilstyrelsen/2022-07-04-retsinformation-nedlaegger-webservice-baseret-paa-soap-api
-    - https://www.retsinformation.dk/eli/lta/2023/1093/pdf
+    - https://www.retsinformation.dk/static/api.html
     sikkerhed: verificeret
   opdatering:
     frekvens: dagligt/løbende
@@ -28619,10 +28655,13 @@ nodes:
   note: 'Drives af Civilstyrelsen (sty-civilstyrelsen, min-justits; sandsynlig i baseline, se udsteder-kanten). Primær kilde for love, lovbekendtgørelser,
     bekendtgørelser og vejledninger i alle domæner og rygraden i hjemmelskæderne. Portalens forside-URL er ikke set i søgeresultater og er derfor
     ikke konstrueret. Tidligere url-værdier pegede på enkeltdokumenter (bl.a. byggelovens og planlovens ELI, almenboliglovens LBK, elsikkerhedslovens
-    PDF og miljøbeskyttelsesloven) og er fjernet. Eksempel-ELI: https://www.retsinformation.dk/eli/lta/2024/927 (naturbeskyttelsesloven). Kun
-    ELI-manifestationer og PDF-endepunktet /api/pdf/<id> er dokumenteret; et officielt høst-API er ikke efterprøvet. Retsinformation og Lovtidende
-    bruger samme dokument-id. VERIFIKATION 28/10/2026 (byggeri): url.sikkerhed er rettet fra ''verificeret'' til ''ukendt'', da værdien er ''ikke
-    fundet''.'
+    PDF og miljøbeskyttelsesloven) og er fjernet. Eksempel-ELI: https://www.retsinformation.dk/eli/lta/2024/927 (naturbeskyttelsesloven). Civilstyrelsens
+    betingelser og høsteservicens beskrivelse er læst 2026-11-12 (se adgang og licens). Sitemap (/sitemap.xml?page=1–21) lister ELI-adresser for
+    alle samlinger med ændringsdato (intermediate/corpus/retsinformation_sitemap.jsonl). Søgeresultater kan eksporteres som CSV (api/documentsearch/csv?ppm=<samling>&yl=<år>&yh=<år>,
+    fundet i sidens JavaScript og afprøvet 2026-11-12): ét kald giver metadata for alle dokumenter i samlingen for årsintervallet. pipeline/corpus/eksport.py
+    hentede alle syv samlinger, 194.553 dokumenter, på 90 kald (intermediate/corpus/eksport/). Sitemap lister 7.671 administrative adresser, som
+    eksporten ikke har; fem prøvede gav 404. Retsinformation og Lovtidende bruger samme dokument-id. VERIFIKATION 28/10/2026 (byggeri): url.sikkerhed
+    er rettet fra ''verificeret'' til ''ukendt'', da værdien er ''ikke fundet''.'
 - id: kilde-sik-dk
   navn: sik.dk (Sikkerhedsstyrelsens site, nu Erhvervsstyrelsen)
   type: dokumentkilde
@@ -29405,6 +29444,7 @@ nodes:
   krydsref_moenstre: []
   note: 'Omskrev AML kap. 12: Arbejdsmiljørådet nedlagt, nyt Arbejdsmarkedsråd rådgiver beskæftigelsesministeren på tværs af beskæftigelses- og
     arbejdsmiljøområdet. Forklarer nedlæggelsen af raad-arbejdsmiljoeraadet.'
+  katalog_id: lta-2024-1656
 - id: lov-adresseloven
   navn: Lov om adresser og adresseregistrering (adresseloven)
   type: lov
@@ -30023,6 +30063,7 @@ nodes:
     Lov nr. 1656 af 30/12/2024 nedlagde Arbejdsmiljørådet og oprettede Arbejdsmarkedsrådet. Produktbekendtgørelserne for maskiner, ATEX-produkter
     og elevatorer har IKKE hjemmel i denne lov (produktloven hhv. lov 155/2013). Lovteksten bruger stadig ''Beskæftigelsesministeriet'' om Arbejdstilsynets
     placering. Klage over Arbejdstilsynets afgørelser går til Arbejdsmiljøklagenævnet.'
+  katalog_id: lta-2026-442
 - id: lov-autorisationsloven
   navn: Lov om autorisation af virksomheder på el-, vvs- og kloakinstallationsområdet (autorisationsloven)
   type: lov
@@ -30613,8 +30654,9 @@ nodes:
     - https://www.retsinformation.dk/eli/lta/2022/342/pdf
     - https://www.retsinformation.dk/eli/lta/2019/929/xml
     sikkerhed: verificeret
-    katalog_note: Retsinformation-høsten (danish-law-mcp, 2026-06-12) markerer LBK nr. 929 af 04/09/2019 som historisk (markeret 2022-03-29).
-      Afløseren findes ikke i høsten (formentlig udstedt efter datasættets sidste udstedelsesdato 2026-02-12) – ikke fundet.
+    katalog_note: 'Retsinformation markerer LBK nr. 929 af 04/09/2019 som historisk (2022-03-29). Senere ændringer ifølge Retsinformations søgeeksport
+      (2026-11-12): LOV nr 134 af 25/02/2020, LOV nr 817 af 09/06/2020, LOV nr 818 af 09/06/2020, LOV nr 819 af 09/06/2020, LOV nr 2076 af 21/12/2020,
+      LOV nr 2077 af 21/12/2020, LOV nr 341 af 22/03/2022.'
   licens:
     tekst: 'Ikke genstand for ophavsret, jf. ophavsretslovens § 9, stk. 1 (love, administrative forskrifter, retsafgørelser og lignende offentlige
       aktstykker). Teksten kan frit gengives og genbruges. Undtagelse: værker der fremtræder som selvstændige bidrag i aktstykket (fx bilag med
@@ -31060,9 +31102,10 @@ nodes:
     - https://www.sbst.dk/Media/638211145911396814/16_aendring-til-christianialoven_2004.pdf
     sikkerhed: verificeret
   url:
-    vaerdi: ikke fundet
-    kilder: []
-    sikkerhed: ukendt
+    vaerdi: https://www.retsinformation.dk/eli/lta/1989/399
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/1989/399
+    sikkerhed: verificeret
   adgang:
     vaerdier:
     - PDF
@@ -31076,16 +31119,20 @@ nodes:
   identifikatorer:
     lovtidende: LOV nr. 399 af 07/06/1989
     andet: Ændret ved LOV nr. 431 af 09/06/2004. Ophævet pr. 15/07/2013 ved lov om ophævelse af lov om anvendelse af Christianiaområdet (L 179,
-      folketingsåret 2012-13, fremsat 13/3/2013 af klima-, energi- og bygningsministeren). Ophævelseslovens nummer (andetsteds angivet som LOV
-      nr. 643 af 12/06/2013) er ikke fundet i nogen kilde ved målrettet søgning og bør ikke anvendes som verificeret.
+      folketingsåret 2012-13, fremsat 13/3/2013 af klima-, energi- og bygningsministeren). Ophævelsesloven er LOV nr. 643 af 12/06/2013 om ophævelse
+      af lov om anvendelse af Christianiaområdet (https://www.retsinformation.dk/eli/lta/2013/643), som Retsinformation fører under 'Ændrer i/ophæver'
+      for LOV nr. 399 af 07/06/1989 (læst 2026-11-12).
     kilder:
+    - https://www.retsinformation.dk/eli/lta/1989/399
+    - https://www.retsinformation.dk/eli/lta/2013/643
     - https://www.ft.dk/samling/20121/lovforslag/L179/bilag/1/1225570.pdf
     - https://socialstyrelsen.dk:443/Media/638206975775000465/20121_L179_som_fremsat.pdf
     - https://socialstyrelsen.dk:443/Media/638211145911396814/16_aendring-til-christianialoven_2004.pdf
     - https://www.retsinformation.dk/eli/lta/1989/399/xml
     sikkerhed: verificeret
-    katalog_note: Retsinformation-høsten (danish-law-mcp, 2026-06-11) markerer LOV nr. 399 af 07/06/1989 som historisk (markeret 2013-06-12).
-      Afløseren findes ikke i høsten (formentlig udstedt efter datasættets sidste udstedelsesdato 2026-02-12) – ikke fundet.
+    katalog_note: 'Retsinformation markerer LOV nr. 399 af 07/06/1989 som historisk (2013-06-12). Senere ændringer ifølge Retsinformations søgeeksport
+      (2026-11-12): LOV nr 431 af 09/06/2004, LOV nr 1541 af 21/12/2010, LOV nr 643 af 12/06/2013. LOV nr 643 af 12/06/2013 er ophævelsesloven.'
+    eli: https://www.retsinformation.dk/eli/lta/1989/399
   licens:
     tekst: 'Ikke genstand for ophavsret, jf. ophavsretslovens § 9, stk. 1 (love, administrative forskrifter, retsafgørelser og lignende offentlige
       aktstykker). Teksten kan frit gengives og genbruges. Undtagelse: værker der fremtræder som selvstændige bidrag i aktstykket (fx bilag med
@@ -31731,8 +31778,6 @@ nodes:
       med senere ændringer, bl.a. LOV nr. 1677 af 30/12/2024 (''Gennemførelse af elmarkedsdirektivet og fremtidssikret regulering af netvirksomheder'',
       også ændringsdirektiv 2024/1711). LOV nr. 1769 af 29/12/2025 ændrede både elforsyningsloven og elsikkerhedsloven. Efter § 78 b offentliggør
       Forsyningstilsynet sine afgørelser på tilsynets hjemmeside.'
-    katalog_note: 'Seneste version i Retsinformation-høsten (dækker udstedelser til 2026-02-12): LBK nr. 1248 af 24/10/2023 (lta-2023-1248, status
-      gældende pr. 2026-06-12); registry''ets nyere identifikator er ikke i høsten.'
     eli: https://www.retsinformation.dk/eli/lta/2026/544
     senere_aendringer:
     - betegnelse: LOV nr 466 af 18/05/2011 § 1
@@ -31785,7 +31830,7 @@ nodes:
     ved flere ændringslove: L 67 (2020-21), LOV 2605/2021 og LOV 1677/2024 (verificeret af verifikator). Loven er snitflade til energidomænet,
     fx ved nettilslutning af solceller, varmepumper og ladestandere. Forsyningstilsynet fører tilsyn, og Energiklagenævnet behandler klager (formandsbemyndigelse
     af 19/12/2025 ''efter lov om elforsyning'').'
-  katalog_id: lta-2023-1248
+  katalog_id: lta-2026-544
 - id: lov-elsikkerhedsloven
   navn: Lov om sikkerhed for elektriske anlæg og elektriske installationer (elsikkerhedsloven)
   type: lov
@@ -35285,8 +35330,6 @@ nodes:
   identifikatorer:
     eli: https://www.retsinformation.dk/eli/lta/2026/842
     lovtidende: LBK nr. 842 af 11/09/2026
-    katalog_note: 'Seneste version i Retsinformation-høsten (dækker udstedelser til 2026-02-12): LBK nr. 1742 af 22/12/2025 (lta-2025-1742, status
-      gældende pr. 2026-06-12); registry''ets nyere identifikator er ikke i høsten.'
     senere_aendringer:
     - betegnelse: LOV nr 45 af 23/01/2018 § 1
       eli: https://www.retsinformation.dk/eli/lta/2018/45
@@ -35360,7 +35403,7 @@ nodes:
     og brugerbetaling. IED 2.0-lovforslaget (høring dec. 2025–jan. 2026) er ikke set fremsat eller vedtaget. Strafskærpelsesforslaget L 137 (2025-26,
     fremsat 26/2/2026 af miljøministeren) er formentlig bortfaldet ved valget 24/3/2026. Paragrafhenvisningerne (§§ 32, 45, 46 c, 65, 69, 91)
     stammer fra afgørelser og kommunale dokumenter 2021-2026 og er ikke efterprøvet mod LBK 842/2026.'
-  katalog_id: lta-2025-1742
+  katalog_id: lta-2026-842
 - id: lov-miljoemaalsloven
   navn: Lov om miljømål m.v. for internationale naturbeskyttelsesområder (miljømålsloven)
   type: lov
@@ -37508,7 +37551,7 @@ nodes:
   krydsref_moenstre: []
   note: Mangler i registry, selvom Ankestyrelsen er med. I dag hviler Ankestyrelsen kun på lov-kommunestyrelsesloven (tilsyn) og lov-regionsloven.
     Kontrollér, om der findes en nyere LBK efter 2024.
-  katalog_id: lta-2025-354
+  katalog_id: lta-2026-680
 - id: lov-retssikkerhedsloven-tvangsindgreb
   navn: Lov om retssikkerhed ved forvaltningens anvendelse af tvangsindgreb og oplysningspligter
   type: lov
@@ -38657,8 +38700,6 @@ nodes:
   identifikatorer:
     eli: https://www.retsinformation.dk/eli/lta/2026/465
     lovtidende: LBK nr. 465 af 07/05/2026 (konsoliderer LBK nr. 124 af 02/02/2024 med ændringer 2024-2025, bl.a. LOV nr. 736, 737 og 738 af 20/06/2025)
-    katalog_note: Retsinformation-høsten (danish-law-mcp, 2026-06-12) markerer LBK nr. 124 af 02/02/2024 som historisk (markeret 2026-05-19).
-      Afløseren findes ikke i høsten (formentlig udstedt efter datasættets sidste udstedelsesdato 2026-02-12) – ikke fundet.
     senere_aendringer: []
     aendringer_kontrolleret: '2026-11-12'
     kilder:
@@ -38705,7 +38746,7 @@ nodes:
     varmeforsyning (§§ 2b–2k), planlægning, ekspropriation og priser (§§ 20–21). §§ 4a og 28 er ophævet. LOV nr. 737/2025 ændrede Forsyningstilsynets
     kompetence. | Kommunalbestyrelsen udfører varmeplanlægning (§ 3, stk. 1) og koordinerer den med kommuneplan, lokalplaner og VVM (§ 3, stk.
     4).
-  katalog_id: lta-2024-124
+  katalog_id: lta-2026-465
 - id: lov-ve-loven
   navn: Lov om fremme af vedvarende energi (VE-loven)
   type: lov
@@ -47031,7 +47072,8 @@ nodes:
   krydsref_moenstre:
   - Rådet for El- og Gasteknisk Sikkerhed
   note: Giver råd ved nye el- og gasforskrifter. Hjemlen er nu identificeret (lov 637/2024 § 3, sekundærkilde). Om rådet videreføres efter 2026,
-    er ukendt.
+    er ukendt. Bekendtgørelsen om rådet (BEK nr. 1170 af 14/11/2024) ophæves pr. 1. januar 2027 ved BEK nr. 962 af 04/11/2026 (https://www.retsinformation.dk/eli/lta/2026/962,
+    læst 2026-11-12); elsikkerhedslovens § 25 er en kan-bestemmelse, og ophævelsesbekendtgørelsen siger ikke, om rådet nedlægges.
 - id: raad-klimaraadet
   navn: Klimarådet
   type: råd
@@ -52949,8 +52991,9 @@ nodes:
     - https://www.retsinformation.dk/eli/retsinfo/2025/10211/pdf
     sikkerhed: verificeret
   url:
-    vaerdi: https://www.retsinformation.dk/eli/retsinfo/2025/10211/pdf
+    vaerdi: https://www.retsinformation.dk/eli/retsinfo/2026/10135
     kilder:
+    - https://www.retsinformation.dk/eli/retsinfo/2026/10135
     - https://www.retsinformation.dk/eli/retsinfo/2025/10211/pdf
     sikkerhed: verificeret
   adgang:
@@ -52962,16 +53005,16 @@ nodes:
     - https://www.retsinformation.dk/eli/retsinfo/2025/10211/pdf
     sikkerhed: verificeret
   identifikatorer:
-    eli: https://www.retsinformation.dk/eli/retsinfo/2025/10211
+    eli: https://www.retsinformation.dk/eli/retsinfo/2026/10135
     andet: VEJ nr. 10211 af 09/12/2025
-    lovtidende: VEJ nr. 10211 af 09/12/2025
-    senere_aendringer:
-    - betegnelse: VEJ nr 10135 af 01/10/2026
-      eli: https://www.retsinformation.dk/eli/retsinfo/2026/10135
+    lovtidende: VEJ nr. 10135 af 01/10/2026
+    senere_aendringer: []
     aendringer_kontrolleret: '2026-11-12'
-    katalog_note: Retsinformation markerer denne version som historisk (2026-10-01); den gældende afløser er ikke identificeret (kontrolleret
-      2026-11-12).
+    katalog_note: Tidligere registreret version VEJ nr. 10211 af 09/12/2025 er historisk (2026-10-01); gældende version er læst hos Retsinformation
+      (2026-11-12).
+    lovtidende_tidligere: VEJ nr. 10211 af 09/12/2025
     kilder:
+    - https://www.retsinformation.dk/eli/retsinfo/2026/10135
     - https://www.retsinformation.dk/eli/retsinfo/2025/10211
     - https://www.retsinformation.dk/eli/retsinfo/2025/10211/pdf
     - https://www.lovguiden.dk/loven/at-vejledning-om-bygge-og-anl%C3%A6gsarbejde/0
@@ -55503,7 +55546,7 @@ nodes:
       bindende: vejledende
     - type: juridisk litteratur og tidsskrifter
       bindende: vejledende
-    note: Djøf angiver over 2.000 konsoliderede love og bekendtgørelser (mod 13.819 gældende Lovtidende A-dokumenter i katalog-laget) og forarbejder
+    note: Djøf angiver over 2.000 konsoliderede love og bekendtgørelser (mod ca. 14.000 gældende Lovtidende A-dokumenter i katalog-laget) og forarbejder
       på paragrafniveau. Ingen myndighedsvejledninger eller afgørelsesdatabase set. Siden /danske-lov er Christian V's Danske Lov (lov nr. 11000
       af 15/4 1683), ikke et indeks over danske love.
     kilder:
@@ -56361,6 +56404,7 @@ nodes:
     forretningsorden), § 11 (Landsskatteretten), § 35 a (klage skal indgives til skatteankeforvaltningen inden 3 måneder), § 35 b (visitering),
     § 40 (Skatteministeriets indbringelse af Skatterådets EU-afgørelser), §§ 48-50 (domstolsprøvelse). Retsinformation viser LBK 1228/2025 med
     slutdato 8/8/2026, men Den juridiske vejledning 2026-2 (1/7/2026) kalder den stadig den seneste; ny konsolideret udgave ikke fundet.'
+  katalog_id: lta-2025-1228
 - id: lov-spilleloven
   navn: Spilleloven (lov om spil)
   type: lov
@@ -56454,9 +56498,11 @@ nodes:
     sikkerhed: verificeret
     regel: retsinformation-opdatering
   krydsref_moenstre: []
-  note: § 4 (spillemyndighed), § 46 (tilsyn), kapitel 10 § 50 (klager over Spillemyndighedens afgørelser afgøres af Landsskatteretten), § 54 og
-    § 54 a (opsættende virkning), kapitel 11 § 55 (domstolsprøvelse inden 3 måneder, ellers er afgørelsen endelig). Retsinformation viser slutdato
-    23/6/2026 for LBK 1182/2025; ny udgave ikke fundet i kataloget (slutter 12/2/2026).
+  note: '§ 4 (spillemyndighed), § 46 (tilsyn), kapitel 10 § 50 (klager over Spillemyndighedens afgørelser afgøres af Landsskatteretten), § 54
+    og § 54 a (opsættende virkning), kapitel 11 § 55 (domstolsprøvelse inden 3 måneder, ellers er afgørelsen endelig). LBK nr. 1182 af 22/09/2025
+    er gældende hos Retsinformation pr. 2026-11-12 (senere ændring: LOV nr. 1780 af 29/12/2025); feltet EndDate i Retsinformations metadata er
+    ikke en ophørsdato.'
+  katalog_id: lta-2025-1182
 - id: lov-it-tilsynsloven
   navn: Lov om Tilsynet med told- og skatteforvaltningens it-område
   type: lov
@@ -56549,6 +56595,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: Ikke lovbekendtgjort i kataloget; selve loven angives som gældende.
+  katalog_id: lta-2020-2187
 - id: bek-skatteforvaltningens-opgaver
   navn: Bekendtgørelse om varetagelsen af told- og skatteforvaltningens opgaver (BEK nr. 804 af 20/06/2018)
   type: bekendtgørelse
@@ -56642,6 +56689,7 @@ nodes:
   krydsref_moenstre: []
   note: 'Definerer Skatteforvaltningen som én myndighed med syv styrelser. § 1, stk. 2: Skatteforvaltningens behandling af spørgsmål, som ikke
     er afgørelser, kan ikke påklages til ministeriets departement.'
+  katalog_id: lta-2018-804
 - id: bek-skatteankestyrelsen
   navn: Bekendtgørelse om Skatteankestyrelsen (BEK nr. 2372 af 10/12/2021)
   type: bekendtgørelse
@@ -56734,6 +56782,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: Regler om klagers indgivelse (digital selvbetjening) og styrelsens funktion.
+  katalog_id: lta-2021-2372
 - id: bek-skatteankestyrelsen-visse-klager
   navn: Bekendtgørelse om afgørelse af visse klager i Skatteankestyrelsen (BEK nr. 967 af 28/06/2023)
   type: bekendtgørelse
@@ -56826,6 +56875,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: Opregner de afgiftslove m.v., hvor Skatteankestyrelsen selv afgør klagen i stedet for Landsskatteretten.
+  katalog_id: lta-2023-967
 - id: bek-skatteraadet-forretningsorden
   navn: Bekendtgørelse af forretningsorden for Skatterådet (BEK nr. 1035 af 25/10/2005)
   type: bekendtgørelse
@@ -56918,6 +56968,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: Retsinformations XML har kun metadata (ingen brødtekst), så hjemmelsparagraffen i selve bekendtgørelsen er ikke læst.
+  katalog_id: lta-2005-1035
 - id: bek-landsskatteretten-forretningsorden
   navn: Bekendtgørelse om forretningsorden for Landsskatteretten (BEK nr. 2373 af 10/12/2021)
   type: bekendtgørelse
@@ -57010,6 +57061,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2021-2373
 - id: bek-skatteankenaevn-forretningsorden
   navn: Bekendtgørelse om forretningsorden for skatteankenævn (BEK nr. 1041 af 22/06/2022)
   type: bekendtgørelse
@@ -57104,6 +57156,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: Ændret ved BEK nr. 132 af 23/01/2026 (status gældende i kataloget).
+  katalog_id: lta-2022-1041
 - id: bek-vurderingsankenaevn-forretningsorden
   navn: Bekendtgørelse om forretningsorden for vurderingsankenævn (BEK nr. 2289 af 03/12/2021)
   type: bekendtgørelse
@@ -57196,6 +57249,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2021-2289
 - id: bek-motorankenaevn-forretningsorden
   navn: Bekendtgørelse om forretningsorden for motorankenævn (BEK nr. 1043 af 22/06/2022)
   type: bekendtgørelse
@@ -57288,6 +57342,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2022-1043
 - id: bek-spillemyndigheden
   navn: Bekendtgørelse om spillemyndigheden (BEK nr. 1121 af 01/12/2011)
   type: bekendtgørelse
@@ -57380,6 +57435,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: 'Én paragraf: beføjelser i spilleloven og grønlandsloven om visse spil udøves af Spillemyndigheden.'
+  katalog_id: lta-2011-1121
 - id: kilde-juridisk-vejledning
   navn: Den juridiske vejledning (info.skat.dk)
   type: dokumentkilde
@@ -58300,6 +58356,7 @@ nodes:
   krydsref_moenstre: []
   note: Retsinformations XML markerer LBK 275/2025 som Historic (felt dateret 2026-10-19), dvs. en nyere lovbekendtgørelse kan findes; den blev
     ikke fundet. Verificér før brug.
+  katalog_id: lta-2026-896
 - id: lov-autorisation-sundhedspersoner
   navn: Lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed (autorisationsloven)
   type: lov
@@ -58398,6 +58455,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2024-1008
 - id: lov-klage-og-erstatningsloven
   navn: Lov om klage- og erstatningsadgang inden for sundhedsvæsenet
   type: lov
@@ -58490,6 +58548,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2025-1250
 - id: lov-laegemiddelloven
   navn: Lov om lægemidler (lægemiddelloven)
   type: lov
@@ -58592,6 +58651,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2023-339
 - id: lov-psykiatriloven
   navn: Lov om anvendelse af tvang i psykiatrien m.v. (psykiatriloven)
   type: lov
@@ -58692,6 +58752,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2024-1045
 - id: bek-forretningsorden-disciplinaernaevn
   navn: Bekendtgørelse om forretningsorden for Sundhedsvæsenets Disciplinærnævn
   type: bekendtgørelse
@@ -58784,6 +58845,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2024-1496
 - id: bek-forretningsorden-ankenaevnet-for-patienterstatningen
   navn: Bekendtgørelse om forretningsorden for Ankenævnet for Patienterstatningen
   type: bekendtgørelse
@@ -58878,6 +58940,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2024-921
 - id: bek-forretningsorden-tvangsbehandlingsnaevnet
   navn: Bekendtgørelse om forretningsorden for Tvangsbehandlingsnævnet
   type: bekendtgørelse
@@ -58970,6 +59033,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2018-979
 - id: bek-forretningsorden-psykiatriske-patientklagenaevn
   navn: Bekendtgørelse om forretningsorden for Det Psykiatriske Patientklagenævn
   type: bekendtgørelse
@@ -59082,6 +59146,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2023-171
 - id: bek-forretningsorden-psykiatriske-ankenaevn
   navn: Bekendtgørelse om forretningsorden for Det Psykiatriske Ankenævn
   type: bekendtgørelse
@@ -59176,6 +59241,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2019-1076
 - id: bek-vedtaegter-patienterstatningen
   navn: Bekendtgørelse om vedtægter for Patienterstatningen
   type: bekendtgørelse
@@ -59268,6 +59334,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2024-1724
 - id: bek-forretningsorden-laegemiddelnaevnet
   navn: Bekendtgørelse om forretningsorden for Lægemiddelnævnet
   type: bekendtgørelse
@@ -59360,6 +59427,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: Fra 2013; udstedt af ministeren, mens § 99 i LBK 339/2023 giver Lægemiddelstyrelsen kompetencen. Aktualitet usikker.
+  katalog_id: lta-2013-1214
 - id: bek-patientklager-screening-af-klager
   navn: Bekendtgørelse om Styrelsen for Patientklagers screening af klager og videregivelse af sagsakter til Styrelsen for Patientsikkerhed
   type: bekendtgørelse
@@ -59453,6 +59521,7 @@ nodes:
   krydsref_moenstre: []
   note: 'Auditsporet pegede på BEK 1496/2024 som forretningsorden for Styrelsen for Patientklager: forkert, det er forretningsordenen for Disciplinærnævnet.
     BEK 1486/2024 er den, der binder Patientklager til Patientsikkerhed.'
+  katalog_id: lta-2024-1486
 - id: bek-ikke-autoriserede-persongrupper-disciplinaernaevn
   navn: Bekendtgørelse om ikke-autoriserede persongrupper, der er omfattet af Sundhedsvæsenets Disciplinærnævns virksomhed
   type: bekendtgørelse
@@ -59545,6 +59614,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2025-1663
 - id: kilde-stpk-disciplinaernaevn-afgoerelser
   navn: Afgørelser fra Sundhedsvæsenets Disciplinærnævn (stpk.dk)
   type: dokumentkilde
@@ -60347,6 +60417,7 @@ nodes:
     stk. 7: påbud om afsættelse af direktør kan kræves indbragt for domstolene inden 4 uger). Ministeransvar: LBK''ens metadata siger Erhvervsministeriet
     (udstedt før 3/6/2026); lov nr. 764 af 8/9/2026 om ændring af FIL har Skatte- og Vækstministeriet som ministerium og Finanstilsynet som sagsbehandler.
     Lov nr. 764/2026 (i kraft 15/9/2026) er ikke indarbejdet i LBK 432.'
+  katalog_id: lta-2026-432
 - id: lov-kapitalmarkedsloven
   navn: Lov om kapitalmarkeder (kapitalmarkedsloven)
   type: lov
@@ -60446,6 +60517,7 @@ nodes:
   krydsref_moenstre: []
   note: 'Tilsyn: § 211. Klage: § 232, stk. 1 (4 uger til Erhvervsankenævnet for afgørelser efter § 211 og § 213, stk. 1-3 og 5, jf. dog stk. 2).
     Ministeransvar efter 3/6/2026 er ikke bekræftet på lovens egen side; metadata i LBK''en siger Erhvervsministeriet.'
+  katalog_id: lta-2026-464
 - id: lov-hvidvaskloven
   navn: Lov om forebyggende foranstaltninger mod hvidvask og finansiering af terrorisme (hvidvaskloven)
   type: lov
@@ -60544,6 +60616,7 @@ nodes:
     Erhvervsankenævnet senest 4 uger efter meddelelsen. Spilområdet klages til Landsskatteretten (§ 77). Fra LOV nr. 764/2026 ændres loven; ikke
     indarbejdet i LBK 433. Ministeransvar efter 3/6/2026: loven er ændret af lov nr. 764 af 8/9/2026 udstedt af Skatte- og Vækstministeriet, men
     LBK''ens metadata siger Erhvervsministeriet.'
+  katalog_id: lta-2026-433
 - id: lov-lov-om-betalinger
   navn: Lov om betalinger
   type: lov
@@ -60643,6 +60716,7 @@ nodes:
   krydsref_moenstre: []
   note: 'Tilsyn: § 130 (Finanstilsynet). Offentliggørelse: § 138. Klage: § 143 (4 uger til Erhvervsankenævnet). Betalingstjenesteområdet er samlet
     i denne lov (ikke ''betalingsloven'', som i registry er spildevandsbetalingsloven). Ministeransvar efter 3/6/2026 som ovenfor.'
+  katalog_id: lta-2026-463
 - id: lov-forsikringsvirksomhed
   navn: Lov om forsikringsvirksomhed i tværgående pensionskasser, livsforsikringsselskaber og skadesforsikringsselskaber m.v. (lov om forsikringsvirksomhed)
   type: lov
@@ -60745,6 +60819,7 @@ nodes:
   note: 'Tilsyn: § 259 (Finanstilsynet). Klage: § 309, stk. 1 (4 uger til Erhvervsankenævnet); fælles beslutninger kan ikke indbringes. Tilføjet
     fordi loven selvstændigt fastlægger tilsyns- og klagevej for forsikringsområdet. Firmapensionskasser har egen lov (LBK 427 af 6/4/2026), ikke
     gennemgået.'
+  katalog_id: lta-2026-461
 - id: lov-restrukturering-og-afvikling
   navn: Lov om restrukturering og afvikling af visse finansielle virksomheder
   type: lov
@@ -60853,6 +60928,7 @@ nodes:
   note: 'Hjemmelslov for Finansiel Stabilitet som afviklingsmyndighed (§ 4) og Afviklingsformuen (kapitel 11, § 56). Retsinformation viser LBK
     24/2019 som gældende, men loven er ændret flere gange siden (senest set: lov nr. 712 af 20/6/2025); om en nyere lovbekendtgørelse findes,
     er ikke bekræftet. Ministeransvar efter 3/6/2026 ikke bekræftet på lovens side (metadata: Erhvervsministeriet).'
+  katalog_id: lta-2019-24
 - id: lov-indskyder-og-investorgarantiordning
   navn: Lov om en indskyder- og investorgarantiordning
   type: lov
@@ -60946,6 +61022,7 @@ nodes:
   krydsref_moenstre: []
   note: 'Opretter Garantiformuen (administreres af Finansiel Stabilitet, § 1) og § 23 b: Finansiel Stabilitets afgørelser på vegne af Garantiformuen
     kan indbringes for Erhvervsankenævnet senest 4 uger. Ministeransvar efter 3/6/2026 ikke bekræftet på lovens side.'
+  katalog_id: lta-2024-39
 - id: lov-forbrugerklageloven
   navn: Lov om alternativ tvistløsning i forbindelse med forbrugerklager (forbrugerklageloven)
   type: lov
@@ -61046,6 +61123,7 @@ nodes:
     lov med senere ændringer i metadata (sidst 2025-10-07); der er ikke fundet en nyere lovbekendtgørelse. Loven er ændret med virkning fra 1/7/2025
     (lov nr. 558 af 27/5/2025 ifølge Det finansielle ankenævns beretning) og igen i 2026; § 6''s nuværende ordlyd er ikke set. Ministerium er
     sat til Erhvervsministeriet (Konkurrence- og Forbrugerstyrelsen) og ikke flyttet til Skatte- og Vækstministeriet.'
+  katalog_id: lta-2015-524
 - id: eu-reg-2013-575
   navn: Forordning (EU) nr. 575/2013 om tilsynsmæssige krav til kreditinstitutter og investeringsselskaber (CRR)
   type: eu-forordning
@@ -61636,6 +61714,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2026-953
 - id: lov-hjemrejseloven
   navn: Hjemrejseloven (lov om hjemrejse for udlændinge uden lovligt ophold)
   type: lov
@@ -61746,6 +61825,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2024-1014
 - id: bek-forretningsorden-udlaendingenaevnet
   navn: Bekendtgørelse om forretningsorden for Udlændingenævnet
   type: bekendtgørelse
@@ -61838,6 +61918,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2026-248
 - id: bek-forretningsorden-flygtningenaevnet
   navn: Bekendtgørelse om forretningsorden for Flygtningenævnet
   type: bekendtgørelse
@@ -61930,6 +62011,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2017-557
 - id: kilde-udln-praksis
   navn: Udlændingenævnets praksis (udln.dk)
   type: praksissamling
@@ -62267,6 +62349,7 @@ nodes:
   krydsref_moenstre: []
   note: Bærer bl.a. magtanvendelsesreglerne for voksne (kap. 24, § 130 a om Det Socialfaglige Nævn, § 131 b) og § 14 om Tilbudsportalen. LBK 641/2026
     er set som gældende (Status Valid, ministerium Socialministeriet). Barnets-regler ligger siden 2024 i barnets lov.
+  katalog_id: lta-2026-641
 - id: lov-barnets-lov
   navn: Barnets lov
   type: lov
@@ -62362,6 +62445,7 @@ nodes:
   krydsref_moenstre: []
   note: Afgørelserne er stadig formuleret med socialministeren og Social- og Boligstyrelsen (efter 3/6/2026), hvilket tyder på, at styrelsen ikke
     er omdøbt.
+  katalog_id: lta-2026-642
 - id: lov-socialtilsynsloven
   navn: Lov om socialtilsyn
   type: lov
@@ -62460,6 +62544,7 @@ nodes:
   krydsref_moenstre: []
   note: § 19 henviser klager over socialtilsynets afgørelser til retssikkerhedslovens kap. 10 (Ankestyrelsen). Loven indeholder i den læste del
     (§§ 1-23 a) ingen bestemmelse om tilsyn med socialtilsynene; se huller.
+  katalog_id: lta-2026-242
 - id: lov-voksenansvarsloven
   navn: Lov om voksenansvar for anbragte børn og unge (voksenansvarsloven)
   type: lov
@@ -62556,6 +62641,7 @@ nodes:
   note: § 23 giver klageadgang til Ankestyrelsen over børne- og ungeudvalgets og kommunalbestyrelsens afgørelser (frist 4 uger, ingen opsættende
     virkning); § 24 giver adgang til at forelægge Ankestyrelsens afgørelse for retten. Klager over selve magtanvendelsen går til kommunalbestyrelsen
     (§ 23, stk. 3). Ministernavnet i teksten er stadig 'social- og boligministeren'.
+  katalog_id: lta-2024-1006
 - id: bek-socialtilsyn
   navn: Bekendtgørelse om socialtilsyn (BEK nr. 1559 af 05/12/2025)
   type: bekendtgørelse
@@ -62651,6 +62737,7 @@ nodes:
   note: '§ 1 udpeger de fem kommuner med socialtilsynsfunktion: Frederiksberg (Region Hovedstaden), Holbæk (Sjælland), Faaborg-Midtfyn (Syddanmark),
     Silkeborg (Midtjylland), Hjørring (Nordjylland). § 1, stk. 2-4 har undtagelser, hvor et socialtilsyn varetager opgaven for en kommune i en
     anden region (fx Frederiksberg Kommune som tilbudsholder).'
+  katalog_id: lta-2025-1559
 - id: bek-forretningsorden-socialfaglige-naevn
   navn: Bekendtgørelse om forretningsorden for Det Socialfaglige Nævn vedrørende Magtanvendelse over for Borgere med Handicap (BEK nr. 1413 af
     05/12/2024)
@@ -62745,6 +62832,7 @@ nodes:
   krydsref_moenstre: []
   note: Forretningsorden, ikke nævnets stiftelsesgrundlag (det er servicelovens § 130 a). Træder i kraft 1/1/2025 (§ 20). Status Valid; metadata
     viser slutdato 2026-08-05, uafklaret.
+  katalog_id: lta-2024-1413
 - id: bek-raad-paa-det-sociale-omraade
   navn: Bekendtgørelse om råd på det sociale område (BEK nr. 580 af 09/05/2022)
   type: bekendtgørelse
@@ -62838,6 +62926,7 @@ nodes:
   krydsref_moenstre: []
   note: Kapitel 1 handicapråd (kommunale), kapitel 2 Det Centrale Handicapråd, kapitel 3 Børnerådet. Metadata viser Status Valid men slutdato
     2026-08-05 og ministerium Social- og Boligministeriet; en afløser fra august 2026 er ikke fundet.
+  katalog_id: lta-2022-580
 - id: naevn-boerne-og-ungeudvalg
   navn: Børne- og ungeudvalget (kommunalt)
   type: nævn
@@ -63393,6 +63482,7 @@ nodes:
   krydsref_moenstre: []
   note: Kapitel 14 (tilsyn, § 88-90) og kapitel 16 (klage, § 98-99). LBK 1077/2025 er historisk siden 2026-11-10 pr. Retsinformation. To ændringer
     med ikrafttræden 1/12/2026 er endnu ikke indarbejdet.
+  katalog_id: lta-2026-808
 - id: lov-aktiv-socialpolitik
   navn: Lov om aktiv socialpolitik (aktivloven)
   type: lov
@@ -63488,6 +63578,7 @@ nodes:
   krydsref_moenstre: []
   note: Kontanthjælp m.v. Klageregler og tilsynsbestemmelser i denne lov er ikke læst; klage over kommunens afgørelser følger retssikkerhedslovens
     kapitel 10 og § 59 a.
+  katalog_id: lta-2026-793
 - id: lov-seniorpensionsenheden
   navn: Lov om Seniorpensionsenheden
   type: lov
@@ -63586,6 +63677,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: Selvstændig lov (ikke lovbekendtgørelse) pr. Retsinformation; status Valid.
+  katalog_id: lta-2020-869
 - id: lov-aktiv-beskaeftigelsesindsats
   navn: Lov om en aktiv beskæftigelsesindsats (LAB)
   type: lov
@@ -63697,6 +63789,7 @@ nodes:
   krydsref_moenstre: []
   note: 'Gældende LBK pr. Retsinformation (lov om status ændret efter LBK: LOV 1750/2025, 303/2026 og 616/2026 er ændringslove efter LBK). Kapitel
     34 (§ 204-205) er klagekapitlet. Lov nr. 1750/2025 afskaffer jobcentrekravet; ændringerne er ikke alle indarbejdet i LBK 280/2024.'
+  katalog_id: lta-2024-280
 - id: lov-organisering-beskaeftigelsesindsatsen
   navn: Lov om organisering og understøttelse af beskæftigelsesindsatsen m.v. (LOB)
   type: lov
@@ -63798,6 +63891,7 @@ nodes:
   krydsref_moenstre: []
   note: Kapitel 3 a (skærpet tilsyn med kommunerne, § 22 a-d) og kapitel 4 a (Tilsynsrådet, § 26 a-c). Lov nr. 1750/2025 ændrer loven; ikke alle
     ændringer er indarbejdet.
+  katalog_id: lta-2024-254
 - id: lov-sygedagpenge
   navn: Lov om sygedagpenge (sygedagpengeloven)
   type: lov
@@ -63897,6 +63991,7 @@ nodes:
   krydsref_moenstre: []
   note: 'Kapitel 28 (§ 77): kommunens afgørelser kan indbringes for Ankestyrelsens Beskæftigelsesudvalg; stk. 2 om Udbetaling Danmarks afgørelser
     (§ 59 b i retssikkerhedsloven).'
+  katalog_id: lta-2025-1221
 - id: lov-social-pension
   navn: Lov om social pension
   type: lov
@@ -63991,6 +64086,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: 'Afløser LBK 1123/2024 (historisk). § 26 d: Seniorpensionsenheden træffer afgørelse om seniorpension.'
+  katalog_id: lta-2026-970
 - id: lov-udbetaling-danmark
   navn: Lov om Udbetaling Danmark
   type: lov
@@ -64084,6 +64180,7 @@ nodes:
   krydsref_moenstre: []
   note: 'Afløser LBK 1034/2024 (historisk). § 19: tilsyn med bestyrelsen udøves af beskæftigelsesministeren. § 12 h henviser udtrykkeligt til
     forordning (EF) nr. 883/2004.'
+  katalog_id: lta-2026-975
 - id: lov-arbejdsskadesikring
   navn: Lov om arbejdsskadesikring (arbejdsskadesikringsloven)
   type: lov
@@ -64176,6 +64273,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: 'Afløser LBK 1279/2025 (historisk). Klagekapitlet: § 44 (Ankestyrelsen, 4 uger) og § 45 (ankenævnet efter ATP-loven § 28 for erhvervssygdomsbidrag).'
+  katalog_id: lta-2026-667
 - id: lov-aes
   navn: Lov om den selvejende institution Arbejdsmarkedets Erhvervssikring
   type: lov
@@ -64268,6 +64366,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: Afløser LBK 980/2019 (historisk).
+  katalog_id: lta-2026-668
 - id: lov-loenmodtagernes-garantifond
   navn: Lov om Lønmodtagernes Garantifond
   type: lov
@@ -64360,6 +64459,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: Gældende LBK pr. Retsinformation.
+  katalog_id: lta-2024-1244
 - id: lov-atp
   navn: Lov om Arbejdsmarkedets Tillægspension (ATP-loven)
   type: lov
@@ -64454,6 +64554,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: Afløser LBK 1142/2024 (historisk). Kapitel 10 (§ 28) Ankenævn.
+  katalog_id: lta-2026-976
 - id: org-arbejdsmarkedets-erhvervssikring
   navn: Arbejdsmarkedets Erhvervssikring (AES)
   type: offentlig-virksomhed
@@ -65342,6 +65443,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2026-169
 - id: bek-banedanmark-opgaver
   navn: Bekendtgørelse om Banedanmarks opgaver og beføjelser (BEK nr. 855 af 2023)
   type: bekendtgørelse
@@ -65436,6 +65538,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2023-855
 - id: bek-jernbanenaevnet
   navn: Bekendtgørelse om Jernbanenævnet (BEK nr. 2424 af 2021)
   type: bekendtgørelse
@@ -65528,6 +65631,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2021-2424
 - id: bek-faerdselsstyrelsen-opgaver
   navn: Bekendtgørelse om Færdselsstyrelsens opgaver og beføjelser samt klageadgang (BEK nr. 787 af 2025)
   type: bekendtgørelse
@@ -65623,6 +65727,7 @@ nodes:
     14-20. Undtagelser uden klage til ministeren eller anden administrativ myndighed: § 14 (færdselsloven, medmindre forskrifterne bestemmer andet),
     § 16 (lov om godkendelse og syn af køretøjer), § 17 (buskørselsloven), § 18 (godskørselsloven), § 19 (taxiloven), § 20 (trafikselskabsloven).
     Ministeriet står som Transportministeriet i § 1.'
+  katalog_id: lta-2025-787
 - id: bek-farligt-gods-vejtransport
   navn: Bekendtgørelse om vejtransport af farligt gods (BEK nr. 915 af 2025)
   type: bekendtgørelse
@@ -65720,6 +65825,7 @@ nodes:
     Eksamensklager afgøres af Færdselsstyrelsen (§ 48, stk. 2, frist 4 uger); synsvirksomheders afgørelser kan indbringes for Færdselsstyrelsen
     (§ 52, frist 4 uger). Beredskabsstyrelsens, Sundhedsstyrelsens og Sikkerhedsstyrelsens afgørelser kan ikke indbringes for anden administrativ
     myndighed (§§ 49-51).'
+  katalog_id: lta-2025-915
 - id: lov-jernbaneloven
   navn: Jernbaneloven
   type: lov
@@ -65822,6 +65928,7 @@ nodes:
   note: Ændret ved LOV 1785/2025 (Fremtidens S-bane m.v.). Retsinformation viser slutdato 31/10/2026 for LBK 1091/2023; en ny LBK er ikke fundet.
     Kap. 13 Havarikommissionen, kap. 16 Jernbanenævnet, § 113 klageadgang (ministeren kan fastsætte, at afgørelser ikke kan påklages), § 115 domstolsprøvelse
     8 uger.
+  katalog_id: lta-2023-1091
 - id: lov-luftfartsloven
   navn: Luftfartsloven
   type: lov
@@ -65921,6 +66028,7 @@ nodes:
   krydsref_moenstre: []
   note: Bemyndiger transportministeren (videredelegeret til Trafikstyrelsen) til at udstede BL; BL kundgøres på trafikstyrelsen.dk (BEK 169/2026
     § 19). Retsinformation viser slutdato 22/10/2026; LBK 570/2025 var gældende ifølge udskrift 18/10/2026.
+  katalog_id: lta-2025-570
 - id: lov-faerdselsloven
   navn: Færdselsloven
   type: lov
@@ -66014,6 +66122,7 @@ nodes:
   krydsref_moenstre: []
   note: Ressortskifte tidligere; metadata på Retsinformation angiver By-, Land- og Transportministeriet i dag. Politiets og anklagemyndighedens
     håndhævelse er uden for dette område.
+  katalog_id: lta-2026-118
 - id: lov-taxiloven
   navn: Taxiloven
   type: lov
@@ -66109,6 +66218,7 @@ nodes:
   krydsref_moenstre: []
   note: § 20, stk. 7 kræver, at taxaselskaber er tilknyttet en klageordning med et uafhængigt landsdækkende klagenævn, som branchen opretter.
     Retsinformation viser slutdato 08/09/2026.
+  katalog_id: lta-2024-1051
 - id: lov-godskoerselsloven
   navn: Lov om godskørsel
   type: lov
@@ -66203,6 +66313,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: Retsinformation viser slutdato 12/11/2026 på LBK 327/2024; ny LBK ikke fundet.
+  katalog_id: lta-2024-327
 - id: lov-buskoerselsloven
   navn: Lov om buskørsel
   type: lov
@@ -66298,6 +66409,7 @@ nodes:
   krydsref_moenstre: []
   note: Ændret ved LOV 306/2025 (regelforenkling for vejtransport); Retsinformation viser slutdato 23/06/2026 på LBK 542/2023, så en nyere LBK
     kan findes.
+  katalog_id: lta-2023-542
 - id: lov-trafikselskabsloven
   navn: Lov om trafikselskaber
   type: lov
@@ -66394,6 +66506,7 @@ nodes:
   note: '§ 1: regionsråd opretter trafikselskaber (Movia, Nordjyllands Trafikselskab, Midttrafik, Sydtrafik, FynBus, Bornholm via kommunen). §
     28 a, stk. 2: Trafikstyrelsen behandler klager efter EU-busforordningen, som Ankenævnet for Bus, Tog og Metro ikke kan. Retsinformation viser
     slutdato 04/11/2026.'
+  katalog_id: lta-2025-537
 - id: lov-postloven
   navn: Postloven
   type: lov
@@ -66489,6 +66602,7 @@ nodes:
   krydsref_moenstre: []
   note: '§ 23, stk. 1: transportministeren fører tilsyn med postvirksomheder (Trafikstyrelsen udfører, jf. stk. 3-4); § 25, stk. 1: transportministeren
     behandler klager over postvirksomheder. Retsinformation viser slutdato 23/06/2026.'
+  katalog_id: lta-2024-151
 - id: sty-foedevarestyrelsen
   navn: Fødevarestyrelsen
   type: styrelse
@@ -66652,6 +66766,7 @@ nodes:
   krydsref_moenstre: []
   note: 'Klage: § 58 a, stk. 1 til Miljø- og Fødevareklagenævnet (nævnsloven § 3, stk. 1, nr. 7: sagkyndige i fødevareforhold). Nyere LBK end
     14/1/2025 er ikke undersøgt.'
+  katalog_id: lta-2025-32
 - id: lov-dyrevelfaerdsloven
   navn: Lov om dyrevelfærd (dyrevelfærdsloven)
   type: lov
@@ -66747,6 +66862,7 @@ nodes:
   note: Ressortansvaret for kontrol med overholdelse af loven ligger hos Justitsministeriet (BEK 514/2026 § 2, nr. 2); loven i øvrigt er henført
     til Ministeriet for Natur og Dyrevelfærd (organisatorisk ressort, ikke bekræftet med eksplicit sætning om loven). LBK 994/2025 har i Retsinformations
     metadata en slutdato 27/3/2026; en nyere LBK er ikke fundet.
+  katalog_id: lta-2025-994
 - id: lov-dyrlaegeloven
   navn: Lov om dyrlæger
   type: lov
@@ -66841,6 +66957,7 @@ nodes:
   krydsref_moenstre: []
   note: Bærer Det Veterinære Sundhedsråd (§§ 28-29) og klage til Miljø- og Fødevareklagenævnet (§ 36 a). Metadata har slutdato 15/4/2026, så en
     nyere LBK kan findes.
+  katalog_id: lta-2024-64
 - id: lov-dyreforsoegsloven
   navn: Lov om dyreforsøg
   type: lov
@@ -66935,6 +67052,7 @@ nodes:
   krydsref_moenstre: []
   note: Ministerium er en antagelse (dyrevelfærd til Ministeriet for Natur og Dyrevelfærd); ressortfordelingen for dyreforsøg er ikke bekræftet
     efter 3/6/2026. Metadata har slutdato 5/10/2024, så en nyere LBK kan findes.
+  katalog_id: lta-2024-63
 - id: lov-fiskeriloven
   navn: Lov om fiskeri og fiskeopdræt (fiskeriloven)
   type: lov
@@ -67031,6 +67149,7 @@ nodes:
   krydsref_moenstre: []
   note: 'Klage: § 110 a, stk. 1 til Miljø- og Fødevareklagenævnet (nævnsloven § 3, stk. 1, nr. 5 og 6); § 110, stk. 1: afgørelser truffet af producent-
     og brancheorganisationer efter delegation kan indbringes inden 4 uger efter, at afgørelsen er meddelt klageren.'
+  katalog_id: lta-2023-205
 - id: lov-landbrugsstoetteloven
   navn: Lov om administration af EU-forordninger om den fælles landbrugspolitik (landbrugsstøtteloven)
   type: lov
@@ -67125,6 +67244,7 @@ nodes:
   krydsref_moenstre: []
   note: 'Klage: § 22 b til Miljø- og Fødevareklagenævnet. Metadata har slutdato 30/6/2026; en nyere LBK er ikke undersøgt. Ministerium er en antagelse
     (landbrug under Ministeriet for Natur og Dyrevelfærd).'
+  katalog_id: lta-2020-115
 - id: lov-landbrugsejendomme
   navn: Lov om landbrugsejendomme
   type: lov
@@ -67221,6 +67341,7 @@ nodes:
   krydsref_moenstre: []
   note: 'Klage: § 38 a til Miljø- og Fødevareklagenævnet. Ministerium er en antagelse. Nyere LBK end 6/2/2020 er ikke undersøgt (metadata nævner
     ændring ref. 29/12/2025).'
+  katalog_id: lta-2020-116
 - id: raad-det-veterinaere-sundhedsraad
   navn: Det Veterinære Sundhedsråd
   type: råd
@@ -67899,6 +68020,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2009-1246
 - id: bek-meddelelser-b
   navn: Meddelelser fra Søfartsstyrelsen B (skibes bygning og udstyr), BEK nr. 1512 af 08/12/2016
   type: bekendtgørelse
@@ -67997,6 +68119,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2016-1512
 - id: bek-meddelelser-e
   navn: Meddelelser fra Søfartsstyrelsen E (fiskeskibes bygning og udstyr), BEK nr. 1459 af 14/12/2010
   type: bekendtgørelse
@@ -68091,6 +68214,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2010-1459
 - id: bek-meddelelser-f
   navn: Meddelelser fra Søfartsstyrelsen F (mindre erhvervsfartøjers bygning og udstyr), BEK nr. 1460 af 14/12/2010
   type: bekendtgørelse
@@ -68185,6 +68309,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2010-1460
 - id: bek-ankenaevn-soefartsforhold-forretningsorden
   navn: Bekendtgørelse om forretningsorden for Ankenævnet for Søfartsforhold (BEK nr. 1121 af 19/09/2013)
   type: bekendtgørelse
@@ -68279,6 +68404,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2013-1121
 - id: bek-skibstilsynsraadet-forretningsorden
   navn: Bekendtgørelse af forretningsorden for Skibstilsynsrådet (BEK nr. 883 af 03/10/1996)
   type: bekendtgørelse
@@ -68371,6 +68497,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-1996-883
 - id: bek-soefartsstyrelsen-henlaeggelse
   navn: Bekendtgørelse om henlæggelse af visse beføjelser til Søfartsstyrelsen og om klageadgang m.v. (BEK nr. 261 af 23/03/2020)
   type: bekendtgørelse
@@ -68466,6 +68593,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2020-261
 - id: lov-sikkerhed-til-soes
   navn: Lov om sikkerhed til søs
   type: lov
@@ -68566,6 +68694,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2022-221
 - id: lov-soeloven
   navn: Søloven
   type: lov
@@ -68668,6 +68797,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2025-776
 - id: lov-skibes-besaetning
   navn: Lov om skibes besætning
   type: lov
@@ -68760,6 +68890,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2025-1001
 - id: lov-soefarendes-ansaettelsesforhold
   navn: Lov om søfarendes ansættelsesforhold m.v.
   type: lov
@@ -68854,6 +68985,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2024-335
 - id: lov-lodsloven
   navn: Lodsloven (Bekendtgørelse af lodslov)
   type: lov
@@ -68948,6 +69080,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2023-346
 - id: lov-dis-loven
   navn: Lov om Dansk Internationalt Skibsregister (DIS-loven)
   type: lov
@@ -69040,6 +69173,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2020-390
 - id: lov-sikkerhedsundersoegelse-soeulykker
   navn: Lov om sikkerhedsundersøgelse af ulykker til søs
   type: lov
@@ -69134,6 +69268,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2011-457
 - id: tilsyn-datatilsynet
   navn: Datatilsynet
   type: tilsyn
@@ -69346,6 +69481,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: Rådets formand forbereder sagerne sammen med sekretariatet (§ 2); rådet afgør inhabilitet endeligt administrativt (§ 6, stk. 3).
+  katalog_id: lta-2019-454
 - id: lov-databeskyttelsesloven
   navn: Databeskyttelsesloven
   type: lov
@@ -69439,6 +69575,7 @@ nodes:
   krydsref_moenstre: []
   note: Gældende LBK pr. Retsinformation (november 2026). Kapitel 10 (Datatilsynet, §§ 27-36) og kapitel 11 (tilsyn med domstolene, §§ 37-38),
     kapitel 12 (retsmidler, § 39). Lovens bilag gengiver GDPR.
+  katalog_id: lta-2024-289
 - id: lov-retshaandhaevelsesloven
   navn: Retshåndhævelsesloven (lov om retshåndhævende myndigheders behandling af personoplysninger)
   type: lov
@@ -69538,6 +69675,7 @@ nodes:
   krydsref_moenstre: []
   note: Ingen lovbekendtgørelse; den oprindelige lov er gældende med ændringer (LOV 503/2018 § 1 og 506/2018 § 2). Kapitel 18 (§§ 37-42) Datatilsynet;
     kapitel 19 (§ 38) Domstolsstyrelsen.
+  katalog_id: lta-2017-410
 - id: lov-tv-overvaagningsloven
   navn: Tv-overvågningsloven
   type: lov
@@ -69635,6 +69773,7 @@ nodes:
   krydsref_moenstre: []
   note: 'Senere ændret ved LOV 665/2024 § 6 og LOV 734/2025 § 4. Underbekendtgørelse: BEK 1087/2018 om behandling af sager om tilladelse til tv-overvågning
     (ikke gennemgået). Databeskyttelseslovens § 2, stk. 4 gør GDPR og loven gældende for tv-overvågning.'
+  katalog_id: lta-2023-182
 - id: eu-reg-2016-679
   navn: Databeskyttelsesforordningen, forordning (EU) 2016/679 (GDPR)
   type: eu-forordning
@@ -70446,6 +70585,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2025-1294
 - id: lov-politiloven
   navn: Lov om politiets virksomhed (politiloven)
   type: lov
@@ -70556,6 +70696,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2019-1270
 - id: lov-straffuldbyrdelsesloven
   navn: Lov om fuldbyrdelse af straf m.v. (straffuldbyrdelsesloven)
   type: lov
@@ -70670,6 +70811,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2023-201
 - id: lov-offererstatningsloven
   navn: Lov om erstatning fra staten til ofre for forbrydelser (offererstatningsloven)
   type: lov
@@ -70762,6 +70904,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2025-1400
 - id: lov-ungdomskriminalitetsloven
   navn: Lov om bekæmpelse af ungdomskriminalitet
   type: lov
@@ -70868,6 +71011,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2018-1705
 - id: bek-erstatningsnaevnets-behandling-af-ansoegninger
   navn: Bekendtgørelse om Erstatningsnævnets behandling af ansøgninger om erstatning fra staten til ofre for forbrydelser
   type: bekendtgørelse
@@ -70960,6 +71104,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2021-772
 - id: bek-forretningsorden-erstatningsnaevnet
   navn: Bekendtgørelse om forretningsorden for Erstatningsnævnet
   type: bekendtgørelse
@@ -71056,6 +71201,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2021-773
 - id: bek-ungekriminalforsorgens-tilsyn
   navn: Bekendtgørelse om ungekriminalforsorgens tilsyn med barnets eller den unges efterlevelse af Ungdomskriminalitetsnævnets afgørelse
   type: bekendtgørelse
@@ -71148,6 +71294,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2024-1115
 - id: bek-ungekriminalforsorgens-reaktioner
   navn: Bekendtgørelse om ungekriminalforsorgens reaktioner ved overtrædelse af Ungdomskriminalitetsnævnets afgørelse
   type: bekendtgørelse
@@ -71240,6 +71387,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2024-1116
 - id: kilde-vidensbasen
   navn: Anklagemyndighedens Vidensbase
   type: dokumentkilde
@@ -71497,6 +71645,7 @@ nodes:
   krydsref_moenstre: []
   note: Afløser LBK nr. 1003 af 24/08/2017 (nu historisk på Retsinformation). Bærer Arbejdsretten (kap. 1) og de faglige voldgiftsretter (kap.
     2); § 34 nævner afskedigelsesnævn. Arbejdsrettens egen regelside (arbejdsretten.dk/arbejdsretten/regler) linker stadig til LBK 1003/2017.
+  katalog_id: lta-2026-705
 - id: lov-forligsmandsloven
   navn: Lov om mægling i arbejdsstridigheder (forligsmandsloven)
   type: lov
@@ -71589,6 +71738,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: Afløser LBK nr. 709 af 20/08/2002 (historisk). Forligsinstitutionens egen side henviser stadig til LBK nr. 192 af 6/3/1997.
+  katalog_id: lta-2025-1290
 - id: lov-ligebehandlingsnaevnet
   navn: Lov om Ligebehandlingsnævnet
   type: lov
@@ -71682,6 +71832,7 @@ nodes:
   krydsref_moenstre: []
   note: 'Afløser LBK nr. 1230 af 02/10/2016 (historisk). Underliggende bekendtgørelse: BEK nr. 883 af 21/06/2023 om forretningsorden (gældende,
     ikke oprettet som node).'
+  katalog_id: lta-2024-1779
 - id: lov-ligebehandlingsloven
   navn: Lov om ligebehandling af mænd og kvinder med hensyn til beskæftigelse m.v. (ligebehandlingsloven)
   type: lov
@@ -71776,6 +71927,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: Materielt forbud mod kønsforskelsbehandling i ansættelsen. Senere ændret ved LOV nr. 1470 af 10/12/2024 § 2 (ifølge Retsinformations henvisninger).
+  katalog_id: lta-2024-942
 - id: lov-forskelsbehandlingsloven
   navn: Lov om forbud mod forskelsbehandling på arbejdsmarkedet m.v. (forskelsbehandlingsloven)
   type: lov
@@ -71868,6 +72020,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: Afløser LBK nr. 1001 af 24/08/2017 (historisk).
+  katalog_id: lta-2024-399
 - id: lov-funktionaerloven
   navn: Lov om retsforholdet mellem arbejdsgivere og funktionærer (funktionærloven)
   type: lov
@@ -71965,6 +72118,7 @@ nodes:
   krydsref_moenstre: []
   note: Materiel lov (opsigelse, godtgørelse). Har ingen egen klageinstans; tvister afgøres ved de almindelige domstole eller fagretligt. Senere
     ændret ved LOV nr. 715 af 20/06/2025 § 8 (Retsinformations henvisninger).
+  katalog_id: lta-2017-1002
 - id: lov-erhvervsuddannelser
   navn: Lov om erhvervsuddannelser (erhvervsuddannelsesloven)
   type: lov
@@ -72061,6 +72215,7 @@ nodes:
   note: Afløser LBK nr. 961 af 16/08/2024 (nu historisk). Retsinformations ministeriefelt (marts 2026) siger Børne- og Undervisningsministeriet;
     ministeriet hedder siden 3/6/2026 Undervisningsministeriet. § 63-65 regulerer forlig og Tvistighedsnævnet. Kun denne lovs tvistighedsbestemmelser
     er kortlagt; resten af erhvervsuddannelsesområdet hører til undervisningsrunden.
+  katalog_id: lta-2026-381
 - id: bek-tvistighedsnaevnet
   navn: Bekendtgørelse om Tvistighedsnævnet
   type: bekendtgørelse
@@ -72156,6 +72311,7 @@ nodes:
   krydsref_moenstre: []
   note: Ændret ved BEK nr. 166 af 27/01/2026. Henviser til LBK 1069/2023; gældende lovbekendtgørelse er LBK nr. 381 af 13/03/2026. Ressortministeriet
     er Erhvervsministeriet (Nævnenes Hus), ikke undervisningsministeriet, som erhvervsuddannelsesloven i øvrigt hører under.
+  katalog_id: lta-2023-1318
 - id: dom-arbejdsretten
   navn: Arbejdsretten
   type: domstol
@@ -73084,6 +73240,7 @@ nodes:
   krydsref_moenstre: []
   note: 'Senere ændringer pr. 12/11/2026 ifølge Retsinformation: LOV 1669/2024 § 7, LOV 558/2025 § 1 og LOV 1322/2025 § 2; ingen nyere lovbekendtgørelse.
     Kapitel 7 (§§ 25-30) bærer Forbrugerombudsmanden, kapitel 9 (§§ 32-36) retsforfølgningen.'
+  katalog_id: lta-2024-1420
 - id: lov-forbrugeraftaleloven
   navn: Lov om forbrugeraftaler (forbrugeraftaleloven)
   type: lov
@@ -73182,6 +73339,7 @@ nodes:
   note: 'Retsinformation fører Justitsministeriet som ministerium (lovbekendtgørelsen er fra 28/9/2025, før regeringsskiftet 3/6/2026; at ressortet
     ligger der i dag, er ikke bekræftet på en 2026-side). Senere ændringer: LOV 558/2025 § 2 og LOV 723/2025 § 1. § 33 a: Forbrugerombudsmanden
     fører tilsyn efter markedsføringslovens regler.'
+  katalog_id: lta-2025-1184
 - id: lov-koebeloven
   navn: Lov om køb (købeloven)
   type: lov
@@ -73278,6 +73436,7 @@ nodes:
   note: 'Ingen tilsynsmyndighed: købelovens regler håndhæves ved domstolene, i forbrugerforhold via Mæglingsteamet/Forbrugerklagenævnet eller
     et privat ankenævn. Retsinformation fører Justitsministeriet som ministerium. Ændret af LOV 723 af 01/09/2026 (ikke gennemgået) uden ny lovbekendtgørelse
     pr. 12/11/2026.'
+  katalog_id: lta-2021-1853
 - id: bek-forbrugerklager-naevnenes-hus
   navn: Bekendtgørelse om behandling af forbrugerklager i Nævnenes Hus samt Forbrugerklagenævnet (BEK nr. 65 af 16/01/2019)
   type: bekendtgørelse
@@ -73373,6 +73532,7 @@ nodes:
   krydsref_moenstre: []
   note: Ændret ved BEK nr. 55 af 15/01/2026. Fastsætter mediationen (kap. 2), Nævnenes Hus som sekretariat (kap. 3), nævnets kompetence (kap.
     4) og offentliggørelse af afgørelser og Firmatjek (kap. 5, §§ 23-24).
+  katalog_id: lta-2019-65
 - id: bek-godkendelse-private-tvistloesningsorganer
   navn: Bekendtgørelse om godkendelse af private tvistløsningsorganer (BEK nr. 1151 af 30/09/2015)
   type: bekendtgørelse
@@ -73466,6 +73626,7 @@ nodes:
   krydsref_moenstre: []
   note: 'Betingelserne for godkendelse: ansøgning til erhvervsministeren, nævnet skal være stiftet af organisationer, der repræsenterer erhvervslivet
     og forbrugerne (§ 2).'
+  katalog_id: lta-2015-1151
 - id: bek-gebyrer-godkendte-private-ankenaevn
   navn: Bekendtgørelse om gebyrer ved godkendte private klage- eller ankenævn (BEK nr. 928 af 26/06/2025)
   type: bekendtgørelse
@@ -73558,6 +73719,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: Fastsætter klagegebyrer nævn for nævn (§§ 1 ff.). Erstatter BEK 413/2022.
+  katalog_id: lta-2025-928
 - id: bek-forbrugerombudsmandens-virksomhed
   navn: Bekendtgørelse om regler for Forbrugerombudsmandens virksomhed (BEK nr. 1249 af 25/11/2014)
   type: bekendtgørelse
@@ -73653,6 +73815,7 @@ nodes:
   krydsref_moenstre: []
   note: 'Ændret ved BEK nr. 6 af 06/01/2020. § 1: ombudsmanden kan optage sager på eget initiativ eller efter klager og er ikke forpligtet til
     at behandle alle klager.'
+  katalog_id: lta-2014-1249
 - id: kilde-forbrugerombudsmanden-sager
   navn: Forbrugerombudsmandens sager (Find sager, forbrugerombudsmanden.dk)
   type: dokumentkilde
@@ -74268,6 +74431,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2019-90
 - id: lov-varemaerkeloven
   navn: Varemærkeloven
   type: lov
@@ -74364,6 +74528,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2019-88
 - id: lov-designloven
   navn: Designloven
   type: lov
@@ -74460,6 +74625,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2019-89
 - id: lov-revisorloven
   navn: Lov om godkendte revisorer og revisionsvirksomheder (revisorloven)
   type: lov
@@ -74556,6 +74722,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2025-206
 - id: lov-ejendomsformidling
   navn: Lov om formidling af fast ejendom m.v.
   type: lov
@@ -74652,6 +74819,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2021-510
 - id: lov-selskabsloven
   navn: Lov om aktie- og anpartsselskaber (selskabsloven)
   type: lov
@@ -74752,6 +74920,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2025-331
 - id: lov-aarsregnskabsloven
   navn: Årsregnskabsloven
   type: lov
@@ -74848,6 +75017,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2026-402
 - id: lov-beskikkede-bygningssagkyndige
   navn: Lov om beskikkede bygningssagkyndige m.v.
   type: lov
@@ -74940,6 +75110,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2010-1532
 - id: bek-ankenaevnet-patenter-varemaerker
   navn: Bekendtgørelse om Ankenævnet for Patenter og Varemærker
   type: bekendtgørelse
@@ -75032,6 +75203,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2009-892
 - id: bek-revisornaevnet
   navn: Bekendtgørelse om Revisornævnet
   type: bekendtgørelse
@@ -75124,6 +75296,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2025-1264
 - id: bek-disciplinaernaevnet-ejendomsmaeglere
   navn: Bekendtgørelse om Disciplinærnævnet for Ejendomsmæglere
   type: bekendtgørelse
@@ -75216,6 +75389,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2014-1258
 - id: bek-bygningssagkyndige-naevn
   navn: Bekendtgørelse om disciplinær- og klagenævnet for beskikkede bygningssagkyndige
   type: bekendtgørelse
@@ -75310,6 +75484,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2011-20
 - id: kilde-apv-afgoerelser
   navn: Ankenævnet for Patenter og Varemærkers afgørelsesportal (apv.naevneneshus.dk)
   type: dokumentkilde
@@ -75715,6 +75890,7 @@ nodes:
   krydsref_moenstre: []
   note: § 1 lægger sekretariatsbetjeningen i Ankestyrelsen (under det dengang bestående Ministeriet for Børn, Ligestilling, Integration og Sociale
     Forhold).
+  katalog_id: lta-2014-998
 - id: naevn-ankenaevn-oplaeringsvirksomheder
   navn: Ankenævnet vedrørende Oplæringsvirksomheder (tidl. Ankenævnet vedrørende Praktikvirksomheder)
   type: klagenævn
@@ -75859,6 +76035,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2007-1517
 - id: lov-folkeskoleloven
   navn: Folkeskoleloven
   type: lov
@@ -75959,6 +76136,7 @@ nodes:
     at andre afgørelser kan indbringes for ministeren. Klage til nævnet indgives til afgørelsesmyndigheden, der genvurderer (§ 51 b). Kommunalbestyrelsen
     fører tilsyn med undervisningen i visse samarbejdsformer; ministeren fører tilsyn med kvalitetsaftaler (§ 57 f). Ingen almindelig statslig
     tilsynsmyndighed for folkeskolens undervisning fundet i loven.'
+  katalog_id: lta-2026-870
 - id: lov-friskoleloven
   navn: Lov om friskoler og private grundskoler m.v. (friskoleloven)
   type: lov
@@ -76056,6 +76234,7 @@ nodes:
   krydsref_moenstre: []
   note: 'Tilsynet er to-leddet: forældrekredsen og de certificerede tilsynsførende (§§ 9-9 d) og statens tilsyn (§ 9 f, skærpet tilsyn). Ingen
     almindelig klagevej fundet i loven.'
+  katalog_id: lta-2026-700
 - id: lov-gymnasieloven
   navn: Lov om de gymnasiale uddannelser (gymnasieloven)
   type: lov
@@ -76153,6 +76332,7 @@ nodes:
   krydsref_moenstre: []
   note: Klage over institutionsleders afgørelser går til undervisningsministeren (§ 72), dog ikke for elever på private institutioner; tilsyn
     efter § 70 (STUK udøver det i praksis, bemyndigelse ikke fundet).
+  katalog_id: lta-2026-624
 - id: lov-institutioner-almengymnasiale
   navn: Lov om institutioner for almengymnasiale uddannelser og almen voksenuddannelse m.v.
   type: lov
@@ -76248,6 +76428,7 @@ nodes:
   krydsref_moenstre: []
   note: Retsinformations ministeriefelt bruger stadig det gamle navn Børne- og Undervisningsministeriet; loven hører under Undervisningsministeriet
     efter regeringsskiftet 3. juni 2026.
+  katalog_id: lta-2026-366
 - id: kilde-k-meddelelser-specialundervisning
   navn: K-meddelelser fra Klagenævnet for Specialundervisning (ast.dk)
   type: dokumentkilde
@@ -76573,6 +76754,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2019-766
 - id: lov-foraeldreansvarsloven
   navn: Forældreansvarsloven
   type: lov
@@ -76665,6 +76847,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2026-662
 - id: lov-aegteskabsloven
   navn: Lov om ægteskabs indgåelse og opløsning
   type: lov
@@ -76757,6 +76940,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2026-663
 - id: lov-boerneloven
   navn: Børneloven
   type: lov
@@ -76857,6 +77041,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2019-772
 - id: lov-adoptionsloven
   navn: Adoptionsloven
   type: lov
@@ -76949,6 +77134,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2026-669
 - id: lov-boerns-forsoergelse
   navn: Lov om børns forsørgelse
   type: lov
@@ -77045,6 +77231,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2019-773
 - id: lov-navneloven
   navn: Navneloven
   type: lov
@@ -77141,6 +77328,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2023-1074
 - id: lov-vaergemaalsloven
   navn: Værgemålsloven
   type: lov
@@ -77241,6 +77429,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2021-1122
 - id: lov-bidragsopkraevningsloven
   navn: Lov om opkrævning af underholdsbidrag
   type: lov
@@ -77337,6 +77526,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2023-1092
 - id: bek-adoptionsnaevnet-forretningsorden
   navn: Bekendtgørelse om forretningsordenen for Adoptionsnævnet (BEK nr. 1754 af 30/12/2024)
   type: bekendtgørelse
@@ -77429,6 +77619,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2024-1754
 - id: bek-adoption
   navn: Bekendtgørelse om adoption (BEK nr. 1755 af 30/12/2024)
   type: bekendtgørelse
@@ -77521,6 +77712,7 @@ nodes:
     regel: retsinformation-opdatering
   krydsref_moenstre: []
   note: ''
+  katalog_id: lta-2024-1755
 - id: kilde-familieretshuset-lovsamling
   navn: Familieretshusets lovsamling
   type: dokumentkilde
@@ -81699,9 +81891,10 @@ edges:
   to: bek-byggesagsgebyr
   beskrivelse: Byggelovens § 28, stk. 1 (gebyr; maksimum for fast gebyr fastsættes i bekendtgørelse)
   kilder:
+  - https://www.retsinformation.dk/eli/lta/2025/1455
   - https://www.hedensted.dk/hedensted_data/dagsorden/Oekonomiudvalget_2022/12-12-2022/ID3468/Bilag/Punkt_299_Bilag_3_Bilag_a_til_indstillingsnotat.pdf
   - https://rebild.dk/sites/default/files/2024-01/Takstblad%20for%20byggesagsbehandling%202024.pdf
-  sikkerhed: sandsynlig
+  sikkerhed: verificeret
   domaener:
   - byggeri
 - type: hjemmel_for
@@ -91610,15 +91803,6 @@ edges:
   - brand
 - type: udsteder
   from: sty-bolig-og-planstyrelsen
-  to: bek-byggesagsgebyr
-  beskrivelse: 'Historisk: fastsatte maksimum for det faste byggesagsgebyr (1.082 kr. pr. sag i 2022) ifølge kommunalt dokument'
-  kilder:
-  - https://www.hedensted.dk/hedensted_data/dagsorden/Oekonomiudvalget_2022/12-12-2022/ID3468/Bilag/Punkt_299_Bilag_3_Bilag_a_til_indstillingsnotat.pdf
-  sikkerhed: sandsynlig
-  domaener:
-  - byggeri
-- type: udsteder
-  from: sty-bolig-og-planstyrelsen
   to: vejl-vindmoeller
   beskrivelse: Vejledningen angiver, at planloven og vindmøllebekendtgørelsen administreres af Bolig- og Planstyrelsen (Indenrigs- og Boligministeriet)
   kilder:
@@ -99067,6 +99251,16 @@ edges:
   - https://www.retsinformation.dk/eli/lta/2026/662
   sikkerhed: verificeret
   domaener: *id073
+- type: udsteder
+  from: sty-social-og-boligstyrelsen
+  to: bek-byggesagsgebyr
+  beskrivelse: Social- og Boligstyrelsen udsteder bekendtgørelsen efter bemyndigelse i § 12 i BEK nr. 519 af 16/05/2023 om styrelsens opgaver
+    og beføjelser.
+  kilder:
+  - https://www.retsinformation.dk/eli/lta/2025/1455
+  sikkerhed: verificeret
+  domaener:
+  - byggeri
 huller:
 - emne: Kommercielle branchevejledninger (SBi/BUILD, DBI, Molio) bag betalingsmur
   type: betalingsmur
@@ -99526,12 +99720,13 @@ huller:
   - 'Plandata: officielle API-endpoints'
 - emne: 'Retsinformation: høst-API, bulk og genbrugsvilkår'
   type: ingen-api
-  beskrivelse: 'Kun ELI-sider, PDF-endpoints (<ELI>/pdf, /dan/pdf, /api/pdf/<id>) og XML for lovforslag er observeret. Et REST-høst-API (døgnændringer,
-    JSON, ét kald pr. 10 s, åbningstid) er beskrevet i Retsinformations vejledning v1.3 af 13/9/2023, men endpoint-detaljer, aktualitet pr. 28/10/2026
-    og ændringsvindue (vejledningen: seneste døgn; Datavejviser: 10 dage) er ikke bekræftet. Bulk-dump til initial høst, tidspunktskonsolidering,
-    ratebegrænsning og officielle genbrugsvilkår for retsinformation.dk/lovtidende.dk er ikke fundet (licens hviler på ophavsretslovens § 9),
-    og forside-URL''erne er ikke set. Heller ingen dokumenteret API for at.dk/regler.at.dk. Konsekvens: fuld høst kræver gennemløb af ELI/XML;
-    ingest-besvær sat til 2 for alle retsakter.'
+  beskrivelse: 'Afklaret 2026-11-12: Civilstyrelsens betingelser (retsinformation.dk/static/api.html) giver gratis, ikke-eksklusiv og ubegrænset
+    brugsret og nævner to kanaler: høsteservicen på api.retsinformation.dk og ELI channels (ELI sitemap og Atom-feed). Høsteservicen giver ændrede
+    dokumenter for ét døgn, datoen skal ligge inden for de seneste 10 dage, åbningstiden er 03:00–23:45, og der må kaldes én gang pr. 10 sekunder.
+    Et egentligt bulk-dump findes ikke, men sidens søgeeksport (api/documentsearch/csv) giver metadata for alle dokumenter i en samling pr. årsinterval;
+    alle syv samlinger er hentet på 90 kald (intermediate/corpus/eksport/). Fuld tekst kræver stadig ét kald pr. dokument (<ELI>/xml). Tilbage:
+    tidspunktskonsolidering (teksten, som den gjaldt på en given dato) er ikke fundet, Atom-feedets adresse er ikke set, og der er ingen dokumenteret
+    API for at.dk/regler.at.dk.'
   noder:
   - kilde-retsinformation
   - kilde-lovtidende
@@ -99547,6 +99742,8 @@ huller:
   - https://www.retsinformation.dk/offentlig/vejledning/Retsinformation%20REST%20API%20vejledning%20v1.pdf
   - https://lovguiden.dk/det-offentlige/civilstyrelsen/2022-07-04-retsinformation-nedlaegger-webservice-baseret-paa-soap-api
   - https://sprogressource.digst.govcloud.dk/dataset/retsinformation
+  - https://www.retsinformation.dk/static/api.html
+  - https://api.retsinformation.dk/swagger/v1/swagger.json
   domaener:
   - natur-vand-kyst
   - byggeri
@@ -102238,12 +102435,12 @@ huller:
   - Fredningsnævnene og fredningsregister
   - Fredningsnævn og Arbejdsmiljøklagenævnet
   - Fredningsnævnenes antal, sekretariat og afgørelser
-- emne: Gebyrbekendtgørelsen for byggesager
+- emne: Gebyrvejledning på bygningsreglementet.dk (gebyr.pdf) er ikke set
   type: ikke-fundet
-  beskrivelse: 'Hverken gældende BEK-nummer eller loftet for det faste gebyr i 2026 er fundet. Senest set: BEK 2184/2021; et tidligere angivet
-    BEK 1436/2022 (kommunale henvisninger, forældede maksimumsbeløb) er ikke genfundet. PDF''er med filnavnet ''gebyr.pdf'' på bygningsreglementet.dk
-    kan være en gebyrvejledning (indhold ikke set). Bekendtgørelsen dækker også gebyrer vedr. byggeskadeforsikring (§ 25 F), som påvirkes af L
-    77.'
+  beskrivelse: 'Gebyrbekendtgørelsen er identificeret: BEK nr. 1455 af 01/12/2025 om gebyrer på byggeområdet fastsat af Social- og Boligstyrelsen,
+    i kraft 1. januar 2026; det faste byggesagsgebyr er højst 1.230 kr. (§ 3, stk. 2) og reguleres årligt. Ikke set: indholdet af PDF''er med
+    filnavnet ''gebyr.pdf'' på bygningsreglementet.dk, som kan være en gebyrvejledning. Bekendtgørelsen dækker også gebyrer vedr. byggeskadeforsikring
+    (byggelovens § 25 F), som påvirkes af L 77.'
   noder:
   - bek-byggesagsgebyr
   - vejl-br18-vejledninger
@@ -102253,6 +102450,7 @@ huller:
   - https://www.bygningsreglementet.dk/media/0u3nldqc/gebyr.pdf
   - https://www.hedensted.dk/hedensted_data/dagsorden/Oekonomiudvalget_2022/12-12-2022/ID3468/Bilag/Punkt_299_Bilag_3_Bilag_a_til_indstillingsnotat.pdf
   - https://nohrcon.dk/wp-content/uploads/2018/05/180420-gebyrbekendtgõrelse.pdf
+  - https://www.retsinformation.dk/eli/lta/2025/1455
   domaener:
   - byggeri
   oprindelige_emner:
@@ -102694,16 +102892,20 @@ huller:
   oprindelige_emner:
   - Retspraksiskilde for EU-Domstolen
 - emne: 'Rådgivningspåbud og autoriserede arbejdsmiljørådgivere: gældende bekendtgørelser'
-  type: ikke-fundet
-  beskrivelse: 'Hverken den gældende rådgivningsbekendtgørelse eller autorisationsbekendtgørelsen (senest set eli/lta/2021/622; fem områder: ergonomi,
-    biologi, kemi, fysik, psykosocialt) er bekræftet pr. 2026. Noden bek-autoriserede-arbejdsmiljoeraadgivere bygger på BEK 259/2007 og har uoverensstemmende
-    hjemmelsangivelser (§ 21 vs. § 13 c).'
+  type: uklart
+  beskrivelse: 'Kæden er fundet hos Retsinformation 2026-11-12: BEK nr. 259 af 20/03/2007 (rådgivningspåbud) blev afløst af BEK nr. 59 af 15/01/2013
+    om brug af autoriserede rådgivningsvirksomheder, den af BEK nr. 354 af 05/03/2021 om kompetencepåbud og siden BEK nr. 808 af 15/06/2023, som
+    blev ophævet ved BEK nr. 98 af 30/01/2024 om ophævelse af bekendtgørelser på Arbejdstilsynets område; ingen gældende bekendtgørelse har ''kompetencepåbud''
+    i titlen. Autorisationsbekendtgørelsen gælder som BEK nr. 1867 af 19/12/2023. Ikke afklaret: nodens uoverensstemmende hjemmelsangivelser (§
+    21 vs. § 13 c), og om org-autoriserede-arbejdsmiljoeraadgivere bør pege på BEK nr. 1867.'
   noder:
   - bek-autoriserede-arbejdsmiljoeraadgivere
   - org-autoriserede-arbejdsmiljoeraadgivere
   kilder:
   - https://www.retsinformation.dk/eli/lta/2021/622/pdf
   - https://www.retsinformation.dk/api/pdf/174420
+  - https://www.retsinformation.dk/eli/lta/2013/59
+  - https://www.retsinformation.dk/eli/lta/2023/1867
   domaener:
   - arbejdsmiljoe
   oprindelige_emner:
@@ -102801,9 +103003,9 @@ huller:
   - Vejledningernes placering efter ressortflytninger
 - emne: Christiania-ordningen efter ophævelsen af Christianialoven
   type: andet
-  beskrivelse: Christianialoven blev ophævet i 2013 (ophævelseslov muligvis LOV 643 af 12/06/2013, ikke set i primærkilde). Aftalerne med Fonden
-    Fristaden Christiania om køb, leje og istandsættelse administreres af SBST og ligger efter baseline A hos BÆBM fra 3/6/2026; aftalerne og
-    fonden er ikke modelleret.
+  beskrivelse: Christianialoven blev ophævet ved LOV nr. 643 af 12/06/2013 om ophævelse af lov om anvendelse af Christianiaområdet (Retsinformation
+    2026-11-12). Aftalerne med Fonden Fristaden Christiania om køb, leje og istandsættelse administreres af SBST og ligger efter baseline A hos
+    BÆBM fra 3/6/2026; aftalerne og fonden er ikke modelleret.
   noder:
   - lov-christianialoven
   - sty-social-og-boligstyrelsen
@@ -102811,6 +103013,7 @@ huller:
   kilder:
   - https://www.sbst.dk/bolig/christiania/lovgivning
   - https://www.ft.dk/samling/20121/lovforslag/l179/index.htm
+  - https://www.retsinformation.dk/eli/lta/2013/643
   domaener:
   - bolig
   oprindelige_emner:
@@ -103145,104 +103348,132 @@ huller:
   - Praksisdatabaser for domstole og Ombudsmanden samt Lovguiden som sekundærkilde
   - Generelle dokumentkilder og ministeriets domæne
 - emne: Retsinformation ud over Lovtidende A er ikke i katalog-laget
-  type: ingen-api
-  beskrivelse: 'Bulk-kilden (danish-law-mcp) rummer kun Lovtidende A: love, lovbekendtgørelser, bekendtgørelser, anordninger. Cirkulærer, vejledninger,
-    skrivelser, Lovtidende B og C, Folketingets Ombudsmands udtalelser og andre afgørelser på Retsinformation mangler. Retsinformations høsteservice
-    (REST, højst ét kald pr. 10 s) kan levere dem, men api.retsinformation.dk var blokeret af sessionens netværkspolitik.'
+  type: andet
+  beskrivelse: 'Kataloget rummer kun Lovtidende A. Metadata for Retsinformations øvrige samlinger er hentet fra søgeeksporten 2026-11-12 og ligger
+    i intermediate/corpus/eksport/: administrative forskrifter og afgørelser (retsinfo, 75.237 dokumenter, 39.868 ikke markeret historiske), Ministerialtidende
+    (6.421), Lovtidende C (4.778), Lovtidende B (45), Folketingstidende (41.730) og Folketingets Ombudsmand (2.869). De er ikke lagt i kataloget:
+    de har ingen katalogposter, ingen klassifikation efter ministerium og retsområde og ingen kanter, og teksten er ikke hentet. Eksportens hjemmelsfelt
+    (udfyldt for 59.410 af de administrative dokumenter) kan koble dem til Lovtidende A.'
   noder:
   - kilde-retsinformation
   - kilde-danish-law-mcp
   kilder:
   - https://github.com/Ansvar-Systems/danish-law-mcp
+  - https://www.retsinformation.dk/static/api.html
   domaener:
   - datakilder-standarder
-- emne: Dokumenter udstedt efter 2026-02-12 mangler i katalog-laget
-  type: ikke-fundet
-  beskrivelse: Datasættets nyeste udstedelse er 2026-02-12, selv om status blev høstet 2026-06-10–12. Nye love og bekendtgørelser fra 13/2/2026
-    og frem (fx arbejdsmiljøreformens bekendtgørelser af 29/6/2026, BEK 514/2026 og nye lovbekendtgørelser) står kun i registry'et, hvor de er
-    fundet ved søgning. 2 registry-noder er koblet til forgængeren i høsten.
+- emne: Katalogdokumenter udstedt efter 2026-02-12 har kun metadata
+  type: andet
+  beskrivelse: Kataloget rækker nu til udstedelser 2026-11-11 (status pr. 2026-11-12). De 711 dokumenter, der er tilføjet fra Retsinformations
+    søgeeksport, har titel, type, nummer, datoer, status, myndighed og Retsinformations relationer (hjemmel, ændrer), men ingen paragraftekst,
+    så henviser_til- og implementerer_EU-kanter fra teksten mangler for dem. Teksten kan hentes fra Retsinformations ELI-XML (ét kald pr. dokument).
   noder:
-  - lov-elforsyningsloven
-  - lov-miljoebeskyttelsesloven
   - kilde-danish-law-mcp
+  - kilde-retsinformation
   kilder:
   - https://github.com/Ansvar-Systems/danish-law-mcp
   domaener:
   - datakilder-standarder
-- emne: Hjemmel (præambel) og EU-noter mangler i bulk-teksten – hjemmel_for kan ikke udledes for katalog-dokumenter
+  oprindelige_emner:
+  - Dokumenter udstedt efter 2026-02-12 mangler i katalog-laget
+- emne: hjemmel_for i kataloget er Retsinformations kobling på dokumentniveau; præambel og EU-noter er ikke læst
   type: uklart
-  beskrivelse: 'Seed-filerne har kun paragraftekst, ikke præamblen ("I medfør af § … i lov om …"), underskrift eller EU-noten ("Bekendtgørelsen
-    indeholder bestemmelser, der gennemfører …"). Katalog-kanterne er derfor henviser_til (loven eller retsakten nævnes i teksten) og implementerer_EU,
-    når et direktiv nævnes i samme bestemmelse som "gennemfører"/"til gennemførelse af". Kun 45 % af de gældende bekendtgørelser nævner overhovedet
-    en lov, der kan genfindes. Afprøvning mod registry''ets 113 kendte hjemmel_for-kanter: den mest nævnte lov var hjemmelsloven i 34, nævnt men
-    ikke flest gange i 26, forkert i 18, og intet kandidatlov i 35. Den mest nævnte lov er derfor IKKE brugt som hjemmel. Præamblen kan hentes
-    fra Retsinformations ELI-XML.'
+  beskrivelse: Seed-filerne har kun paragraftekst, ikke præamblen ("I medfør af § … i lov om …"), underskrift eller EU-noten. hjemmel_for-kanterne
+    i kataloget kommer derfor fra Retsinformations søgeeksport (feltet HjemmelVedroerer, det samme som 'Lovgivning forskriften vedrører' på dokumentets
+    side), ikke fra en læsning af præamblen. Feltet peger på den version af loven, forskriften henviser til, kan også nævne ændringslove og andre
+    forskrifter og har ingen paragraf. 5.867 af 6.502 gældende danske forskrifter (90 %) har mindst én hjemmel_for-kant; resten har et tomt felt
+    eller peger på dokumenter uden for Lovtidende A. implementerer_EU findes stadig kun, hvor bulk-teksten nævner direktivet, eller hvor Retsinformation
+    fører relationen for en registry-node. Til sammenligning ramte den mest nævnte lov i teksten kun hjemmelsloven i 34 af 113 kendte tilfælde
+    og er ikke brugt. Præamblens paragrafhenvisning og EU-noten kan hentes fra Retsinformations ELI-XML.
   noder:
   - kilde-danish-law-mcp
+  - kilde-retsinformation
   kilder:
   - https://github.com/Ansvar-Systems/danish-law-mcp
   domaener:
   - datakilder-standarder
-- emne: 5177 gældende katalog-dokumenter (37 %) har ingen tekst i bulk-høsten
+  oprindelige_emner:
+  - Hjemmel (præambel) og EU-noter mangler i bulk-teksten – hjemmel_for kan ikke udledes for katalog-dokumenter
+- emne: 5726 gældende katalog-dokumenter (41 %) har ingen tekst
   type: ikke-fundet
-  beskrivelse: 36400 af 62762 dokumenter i danish-law-mcp har ingen paragraffer, heraf 5177 gældende. For dem findes kun metadata (titel, nummer,
-    status, datoer, DocumentId), så der kan hverken udtrækkes lovhenvisninger, EU-referencer eller ministertitler. Udsteder kendes stadig fra
-    DocumentId-præfikset. Teksten kan hentes fra Retsinformations ELI-XML.
+  beskrivelse: 36400 af bulk-høstens 62762 dokumenter har ingen paragraffer, og de 711 dokumenter fra søgeeksporten har heller ingen. Pr. 2026-11-12
+    er 5726 af 14078 gældende katalog-dokumenter uden tekst. For dem findes kun metadata (titel, nummer, status, datoer, DocumentId og Retsinformations
+    relationer), så der kan ikke udtrækkes henvisninger i teksten, EU-referencer eller ministertitler. Teksten kan hentes fra Retsinformations
+    ELI-XML.
   noder:
   - kilde-danish-law-mcp
   kilder:
   - https://github.com/Ansvar-Systems/danish-law-mcp
   domaener:
   - datakilder-standarder
-- emne: Nuværende ressort for de 13819 gældende katalog-dokumenter er klassificeret, ikke slået op
+  oprindelige_emner:
+  - 5177 gældende katalog-dokumenter (37 %) har ingen tekst i bulk-høsten
+- emne: Nuværende ressort er klassificeret, ikke slået op, for 10789 af de 14078 gældende katalog-dokumenter
   type: uklart
-  beskrivelse: 'Retsinformation angiver ressortministerium, men feltet er ikke i bulk-kilden. Udstedende ministerium er udledt af DocumentId-præfikset
-    (sandsynlig). Nuværende ressort pr. 2026-10-28 er klassificeret af Haiku-agenter ud fra titel, udsteder og en ressortguide for kgl. res. 3/6/2026
-    (BEK 514/2026), hvis fulde tekst ikke kunne læses; de usikre er klassificeret igen af Opus, og registry-noder med ressortansvar-kant går forud.
-    Målt kvalitet: 88 % af de "sandsynlige" stemmer med registry''et (189 noder); en uafhængig Opus-kontrol af 437 tilfældige "sandsynlige" fandt
-    ministeriet korrekt i 93 %. Kendte usikre zoner: klagenævn betjent af Nævnenes Hus (Erhvervsministeriet eller fagministeriet), fødevarer (delt
-    mellem Erhvervsministeriet og Ministeriet for Natur og Dyrevelfærd), finansiel regulering (flyttet til Skatte- og Vækstministeriet), byggevarer
-    og dagtilbud.'
+  beskrivelse: 'Retsinformations ressortfelt findes i søgeeksporten, men føres ikke altid ajour ved ressortomlægninger: ca. 3.700 gældende dokumenter
+    bærer navnet på et ministerium, der ikke længere findes under det navn. Feltet er derfor kun brugt, når det med sikkerhed er sat efter regeringsdannelsen
+    2026-06-03 (dokumentet er udstedt efter den, eller ministeriet fik sit navn ved den): 3289 gældende dokumenter har ministerium herfra (verificeret).
+    For resten gælder klassifikationen: Haiku-agenter ud fra titel, udsteder og en ressortguide for kgl. res. 3/6/2026 (BEK 514/2026), de usikre
+    igen af Opus, og registry-noder med ressortansvar-kant går forud. Målt kvalitet: mod ressortfeltet stemte klassifikationen for 2532 af 2780
+    dokumenter (91 %), og de 248 afvigende er rettet til feltets ministerium; tidligere målinger gav 88 % mod registry''et (189 noder) og 93 %
+    i en uafhængig Opus-kontrol af 437 tilfældige. Sammenligningen med ressortfeltet er ikke en tilfældig stikprøve: den dækker ministerier, der
+    fik nyt navn i 2026, og dokumenter fra efter regeringsdannelsen. Kendte usikre zoner: klagenævn betjent af Nævnenes Hus (Erhvervsministeriet
+    eller fagministeriet), fødevarer (delt mellem Erhvervsministeriet og Ministeriet for Natur og Dyrevelfærd), finansiel regulering (flyttet
+    til Skatte- og Vækstministeriet), byggevarer og dagtilbud.'
   noder:
   - bek-ressortoverfoersel-bolig-2026
+  - kilde-retsinformation
   kilder:
   - https://www.retsinformation.dk/api/pdf/256544
   - https://stm.dk/media/nishv4wc/kgl-resolution-af-3-juni-2026.pdf
   domaener:
   - datakilder-standarder
-- emne: Registry-noder hvis retsakt er markeret historisk i Retsinformation-høsten
+  oprindelige_emner:
+  - Nuværende ressort for de 13819 gældende katalog-dokumenter er klassificeret, ikke slået op
+- emne: Registry-noder hvis retsakt er markeret historisk hos Retsinformation
   type: uklart
-  beskrivelse: Krydstjek af registry'ets ELI/Lovtidende-numre mod høstens status. For noder med en gældende afløser i høsten er den tilføjet (identifikatorer.gaeldende_i_katalog).
-    For resten er afløseren udstedt efter datasættets dækning; noden bør efterprøves. Se identifikatorer.katalog_note på hver node.
+  beskrivelse: 'Aktive retsakter flyttes til den gældende version af populate.py ajour, og identifikatorer.katalog_note siger hvorfra; fra 2026-11-12
+    gælder det også vejledninger og cirkulærer. Én aktiv node peger stadig på et dokument, Retsinformation markerer historisk: bek-raad-el-og-gasteknisk-sikkerhed,
+    som først ophæves 1. januar 2027. Ophævede retsakter uden afløser (bek-co2-forskningslagring, bek-driftsmaessige-forskrifter, lov-boligreguleringsloven,
+    lov-christianialoven, lov-lejeloven-1979, bek-autoriserede-arbejdsmiljoeraadgivere) har ophævelsen i katalog_note. Fem samlenoder røres ikke,
+    fordi navnet ikke svarer til det dokument, adressen peger på (bek-varme-prisregulering-indberetning, vejl-at-vejledninger, vejl-boligstoette-satser,
+    vejl-habitatvejledning, vejl-planloven-vejledninger); for to af dem er eksempeldokumentet historisk.'
   noder:
-  - bek-atex-produkter
-  - bek-autoriserede-arbejdsmiljoeraadgivere
-  - bek-bekaempelsesmidler
-  - bek-byggesagsgebyr
+  - bek-raad-el-og-gasteknisk-sikkerhed
   - bek-co2-forskningslagring
   - bek-driftsmaessige-forskrifter
-  - bek-gst-opgaver
   - lov-boligreguleringsloven
   - lov-christianialoven
-  - lov-gasforsyningsloven
   - lov-lejeloven-1979
-  - lov-offshoresikkerhedsloven
-  - lov-varmeforsyningsloven
+  - bek-autoriserede-arbejdsmiljoeraadgivere
+  - bek-varme-prisregulering-indberetning
+  - vejl-at-vejledninger
+  - vejl-boligstoette-satser
+  - vejl-habitatvejledning
+  - vejl-planloven-vejledninger
   kilder:
-  - https://github.com/Ansvar-Systems/danish-law-mcp
+  - https://www.retsinformation.dk/eli/lta/2026/962
   domaener:
   - datakilder-standarder
-- emne: Love fra før 1852 (fx Christian V's Danske Lov 1683) er ikke i bulk-høsten
-  type: ikke-fundet
-  beskrivelse: danish-law-mcp starter i 1852, men Retsinformation har ældre gældende retsakter, fx Danske Lov (lov nr. 11000 af 15/4 1683, ændret
-    senest ved lov nr. 522 af 6/6 2007 ifølge Jurabiblioteks lovside). De mangler i katalog-laget og kan hentes fra Retsinformation.
+  oprindelige_emner:
+  - Registry-noder hvis retsakt er markeret historisk i Retsinformation-høsten
+- emne: Love fra før 1852 (fx Christian V's Danske Lov 1683) er ikke i kataloget
+  type: andet
+  beskrivelse: 'Kataloget (Lovtidende A) starter i 1852. Ældre retsakter ligger hos Retsinformation i den administrative samling (eli/retsinfo):
+    64 dokumenter fra før 1852, heraf 37 ikke markeret historiske, bl.a. Danske Lov (eli/retsinfo/1683/11000) og Kongeloven (eli/retsinfo/1665/20001).
+    Metadata er hentet med søgeeksporten 2026-11-12 (intermediate/corpus/eksport/retsinfo.jsonl), men de er ikke katalogposter, og teksten er
+    ikke hentet.'
   noder:
   - kilde-danish-law-mcp
   - kilde-jurabibliotek
+  - kilde-retsinformation
   kilder:
   - https://jurabibliotek.ai/danske-lov
+  - https://www.retsinformation.dk/eli/retsinfo/1683/11000
   domaener:
   - datakilder-standarder
+  oprindelige_emner:
+  - Love fra før 1852 (fx Christian V's Danske Lov 1683) er ikke i bulk-høsten
 - emne: Kobling lov ↔ forarbejder findes kun bag betalingsmur (Jurabibliotek); den åbne vej er Folketingets data
   type: betalingsmur
   beskrivelse: Jurabibliotek kobler love til lovforslag som fremsat, betænkninger og lovforslag som vedtaget, men bag abonnement og med forbud
@@ -103370,8 +103601,8 @@ huller:
   - Aktuel lovbekendtgørelse af sundhedsloven
 - emne: Forretningsorden for Ankenævnet for Tilsynsafgørelser
   type: ikke-fundet
-  beskrivelse: Ingen bekendtgørelse om forretningsorden for nævnet fundet i det lokale katalog (til 12/2/2026); lov nævner kompetencen i klagelovens
-    § 16 e, stk. 3.
+  beskrivelse: 'Ingen bekendtgørelse om forretningsorden for nævnet fundet hos Retsinformation: ingen titel i Lovtidende A eller den administrative
+    samling nævner nævnet (søgeeksport 2026-11-12); lov nævner kompetencen i klagelovens § 16 e, stk. 3.'
   noder:
   - naevn-ankenaevnet-for-tilsynsafgoerelser
   kilder:
@@ -103584,12 +103815,13 @@ huller:
   - Vilkår for genbrug af nævnenes praksis og baggrundsmateriale
 - emne: Integrationsloven, repatrieringsloven og indfødsretsloven
   type: uklart
-  beskrivelse: 'Ikke taget med som noder: kataloget (til 12/2/2026) har kun historiske lovbekendtgørelser af integrationsloven (seneste LBK 1146/2020),
-    så den gældende udgave er ikke identificeret; jeg har ikke belagt, at de opretter instanser eller klagevej i kæden. Repatrieringsloven er
-    gældende som LBK 1021/2024.'
+  beskrivelse: 'Ikke taget med som noder: integrationsloven gælder som LBK nr. 453 af 16/04/2026 (Retsinformation 2026-11-12), og indfødsretsloven
+    som LBK nr. 1656 af 23/12/2022; jeg har ikke belagt, at de opretter instanser eller klagevej i kæden. Repatrieringsloven er gældende som LBK
+    1021/2024.'
   noder: []
   kilder:
   - https://www.retsinformation.dk/eli/lta/2026/953
+  - https://www.retsinformation.dk/eli/lta/2026/453
   domaener:
   - udlaendinge
   oprindelige_emner:
@@ -103971,9 +104203,10 @@ huller:
   - Fusionskæden Fiskeristyrelsen → Landbrugs- og Fiskeristyrelsen → Styrelsen for Fødevarer, Landbrug og Fiskeri har ingen noder
 - emne: Meddelelser fra Søfartsstyrelsen L
   type: ikke-fundet
-  beskrivelse: Ingen bekendtgørelse med titlen 'Meddelelser fra Søfartsstyrelsen L' i Lovtidende-kataloget eller på Retsinformation; kun A, B,
-    E og F (samt ældre Skibstilsynets Meddelelser C) er fundet. Det er uklart, om B og A er erstattet af emnebekendtgørelser (fx BEK 472/2026
-    SOLAS, BEK 1517/2025 om psykisk arbejdsmiljø), da Retsinformation endnu viser A, B, E, F som gældende.
+  beskrivelse: 'Ingen bekendtgørelse med titlen ''Meddelelser fra Søfartsstyrelsen L'' i Lovtidende-kataloget eller på Retsinformation; kun A,
+    B, E og F (samt ældre Skibstilsynets Meddelelser C) er fundet. Det er uklart, om B og A er erstattet af emnebekendtgørelser (fx BEK 472/2026
+    SOLAS, BEK 1517/2025 om psykisk arbejdsmiljø), da Retsinformation endnu viser A, B, E, F som gældende. Kontrolleret 2026-11-12 mod Retsinformations
+    søgeeksport (Lovtidende A og den administrative samling): kun A, B, E og F findes som gældende.'
   noder:
   - kilde-meddelelser-fra-soefartsstyrelsen
   kilder:
@@ -104627,3 +104860,19 @@ huller:
   - familie-person
   oprindelige_emner:
   - Familieretten som selvstændig ret
+- emne: Rådet for El- og Gasteknisk Sikkerhed efter 1. januar 2027
+  type: uklart
+  beskrivelse: BEK nr. 962 af 04/11/2026 ophæver bekendtgørelsen om rådet (BEK nr. 1170 af 14/11/2024) med virkning fra 1. januar 2027. Elsikkerhedslovens
+    § 25 siger kun, at erhvervsministeren kan etablere rådet, og ophævelsesbekendtgørelsen har hverken begrundelse eller afløser. Det er ikke
+    fundet, om rådet nedlægges, eller om det fortsætter på andet grundlag; noderne står som aktive til og med 2026. Retsinformation markerer allerede
+    BEK nr. 1170 som historisk (2026-11-04).
+  noder:
+  - raad-el-og-gasteknisk-sikkerhed
+  - bek-raad-el-og-gasteknisk-sikkerhed
+  - lov-elsikkerhedsloven
+  kilder:
+  - https://www.retsinformation.dk/eli/lta/2026/962
+  domaener:
+  - el-gas-vvs
+  oprindelige_emner:
+  - Rådet for El- og Gasteknisk Sikkerhed efter 1. januar 2027

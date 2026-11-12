@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 6 · kanter: 5
+Noder: 5 · kanter: 4
 
 ```mermaid
 flowchart LR
@@ -17,13 +17,11 @@ flowchart LR
     min_indenrigs_og_bolig["Indenrigs- og Boligministeriet (nedlagt)"]:::nedlagt
     sty_bolig_og_planstyrelsen["Bolig- og Planstyrelsen (nedlagt)"]:::nedlagt
     bek_administration_private_udlejningsejendomme["Bekendtgørelse om administration af private udlejningsejendomme efter § 25 i lov om boligforhold (BEK nr. 750 af 30/05/2022)"]:::retsakt
-    bek_byggesagsgebyr["Bekendtgørelse om gebyrer på byggeområdet (byggesagsgebyr)"]:::retsakt
     bek_vedligeholdelsesplaner["Bekendtgørelse om vedligeholdelsesplaner for private udlejningsejendomme (BEK nr. 752 af 30/05/2022)"]:::retsakt
     vejl_vindmoeller["Vejledning om planlægning for og tilladelse til opstilling af vindmøller (VEJ nr. 9317, januar 2022)"]:::retsakt
     min_indenrigs_og_bolig -->|ressortansvar| sty_bolig_og_planstyrelsen
     min_indenrigs_og_bolig -->|udsteder| bek_administration_private_udlejningsejendomme
     min_indenrigs_og_bolig -->|udsteder| bek_vedligeholdelsesplaner
-    sty_bolig_og_planstyrelsen -.->|udsteder| bek_byggesagsgebyr
     sty_bolig_og_planstyrelsen -->|udsteder| vejl_vindmoeller
 ```
 

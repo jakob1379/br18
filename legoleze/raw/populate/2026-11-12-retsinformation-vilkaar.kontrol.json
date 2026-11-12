@@ -1,0 +1,96 @@
+[
+ {
+  "hvor": "rettelse kilde-retsinformation.licens",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/static/api.html",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/static/api.html",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/static/api.html",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/static/api.html",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "rettelse kilde-retsinformation.adgang",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/static/api.html",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/static/api.html",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/static/api.html",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://api.retsinformation.dk/swagger/v1/swagger.json",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://api.retsinformation.dk/swagger/v1/swagger.json",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://api.retsinformation.dk/swagger/v1/swagger.json",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/static/api.html",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "afvist": "ny sikkerhed sandsynlig er lavere end den eksisterende verificeret"
+ },
+ {
+  "hvor": "rettelse bek-byggesagsgebyr.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1455",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "rettelse lov-christianialoven.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/1989/399",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ }
+]

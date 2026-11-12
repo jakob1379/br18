@@ -1,0 +1,22 @@
+[
+  {
+    "hvor": "rettelse kilde-retsinformation.licens",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "rettelse kilde-retsinformation.adgang",
+    "dom": "delvist",
+    "grund": "Ikke belagt: HTML, PDF, RSS, ELI-stier, /api/pdf-sti, SOAP-nedlæggelse 2022 og ingen talgrænse for ELI; ELI-feedet er Atom."
+  },
+  {
+    "hvor": "rettelse bek-byggesagsgebyr.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "rettelse lov-christianialoven.url",
+    "dom": "baerer",
+    "grund": ""
+  }
+]

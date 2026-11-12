@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 91 · kanter: 123
+Noder: 92 · kanter: 124
 
 ```mermaid
 flowchart LR
@@ -74,6 +74,7 @@ flowchart LR
     bek_almen_drift["Bekendtgørelse om drift af almene boliger m.v. (driftsbekendtgørelsen)"]:::retsakt
     bek_forretningsorden_socialfaglige_naevn["Bekendtgørelse om forretningsorden for Det Socialfaglige Nævn vedrørende Magtanvendelse over for Borgere med Handicap (BEK nr. 1413 af 05/12/2024)"]:::retsakt
     bek_adoptionsnaevnet_forretningsorden["Bekendtgørelse om forretningsordenen for Adoptionsnævnet (BEK nr. 1754 af 30/12/2024)"]:::retsakt
+    bek_byggesagsgebyr["Bekendtgørelse om gebyrer på byggeområdet fastsat af Social- og Boligstyrelsen (byggesagsgebyr)"]:::retsakt
     bek_byggevarer_cpr2011["Bekendtgørelse om markedsføring og markedsovervågning af byggevarer (efter forordning 305/2011)"]:::retsakt
     bek_byggevarer_cpr2024["Bekendtgørelse om markedsføring og markedsovervågning af byggevarer efter den reviderede byggevareforordning"]:::retsakt
     bek_raad_paa_det_sociale_omraade["Bekendtgørelse om råd på det sociale område (BEK nr. 580 af 09/05/2022)"]:::retsakt
@@ -211,6 +212,7 @@ flowchart LR
     sty_civilstyrelsen -->|klageinstans| sty_familieretshuset
     sty_familieretshuset -->|udsteder| kilde_familieretshuset_lovsamling
     lov_foraeldreansvarsloven -->|hjemmel_for| bek_adoption
+    sty_social_og_boligstyrelsen -->|udsteder| bek_byggesagsgebyr
     bek_br18 -->|hjemmel_for| reg_byggesagsgebyr
     bek_byggevarer_cpr2011 -->|hjemmel_for| sty_erhvervsstyrelsen
     bek_byggevarer_cpr2024 -.->|hjemmel_for| sty_erhvervsstyrelsen

@@ -1,0 +1,17 @@
+{
+ "omraade": "byggeri",
+ "dato": "2026-11-12",
+ "noder": [],
+ "kanter": [
+  {"from": "sty-social-og-boligstyrelsen", "type": "udsteder", "to": "bek-byggesagsgebyr",
+   "beskrivelse": "Social- og Boligstyrelsen udsteder bekendtgørelsen efter bemyndigelse i § 12 i BEK nr. 519 af 16/05/2023 om styrelsens opgaver og beføjelser.",
+   "belaeg": [{"url": "https://www.retsinformation.dk/eli/lta/2025/1455", "citat": "fastsættes efter bemyndigelse i henhold til § 12 i bekendtgørelse nr. 519 af 16. maj 2023 om Social- og Boligstyrelsens opgaver og beføjelser samt klageadgang på bolig- og byggeområdet"}]}
+ ],
+ "rettelser": [
+  {"id": "bek-byggesagsgebyr", "felt": "hjemmel",
+   "tekst": "Byggelovens § 25 F, stk. 4, og § 28, stk. 2 og 7 (LBK nr. 1178 af 23/09/2016 med senere ændringer); udstedt af Social- og Boligstyrelsen efter bemyndigelse i § 12 i BEK nr. 519 af 16/05/2023.",
+   "belaeg": [{"url": "https://www.retsinformation.dk/eli/lta/2025/1455", "citat": "I medfør af § 25 F, stk. 4, og § 28, stk. 2 og 7, i byggeloven, jf. lovbekendtgørelse nr. 1178 af 23. september 2016, som ændret ved lov nr. 734 af 8. juni 2018 og lov nr. 1560 af 12. december 2023, fastsættes efter bemyndigelse i henhold til § 12 i bekendtgørelse nr. 519 af 16. maj 2023"}]}
+ ],
+ "huller": [],
+ "noter": "Orkestratorens egne rettelser, efter at noden er flyttet til den gældende BEK nr. 1455 af 01/12/2025. Den tidligere udsteder-kant fra sty-bolig-og-planstyrelsen (nedlagt) gjaldt 2021-udgaven og fjernes fra registry'et, når denne kant er flettet."
+}

@@ -68,6 +68,7 @@ flowchart LR
     ombud_folketingets_ombudsmand["Folketingets Ombudsmand"]:::klage
     naevn_ligebehandlingsnaevnet["Ligebehandlingsnævnet"]:::klage
     raad_arbejdsmiljoeraadet["Arbejdsmiljørådet (nedlagt)"]:::nedlagt
+    bek_autoriserede_arbejdsmiljoeraadgivere["Bekendtgørelse om brug af autoriserede arbejdsmiljørådgivere (ophævet)"]:::nedlagt
     vejl_at_bygge_og_anlaeg["AT-vejledning om bygge- og anlægsarbejde"]:::retsakt
     vejl_at_bygherrens_pligter["AT-vejledning om bygherrens pligter"]:::retsakt
     vejl_at_vejledninger["AT-vejledninger (samling)"]:::retsakt
@@ -82,7 +83,6 @@ flowchart LR
     bek_asbest["Bekendtgørelse om asbest i arbejdsmiljøet"]:::retsakt
     bek_vibrationer["Bekendtgørelse om beskyttelse mod udsættelse for vibrationer i forbindelse med arbejdet (ændret ved BEK nr 1882 af 19/12/2023)"]:::retsakt
     bek_biologiske_agenser["Bekendtgørelse om biologiske agenser og arbejdsmiljø (BEK nr 1652 af 19/11/2020 med senere ændringer 2023 og 2024)"]:::retsakt
-    bek_autoriserede_arbejdsmiljoeraadgivere["Bekendtgørelse om brug af autoriserede arbejdsmiljørådgivere"]:::retsakt
     bek_bygge_og_anlaeg["Bekendtgørelse om bygge- og anlægsarbejde"]:::retsakt
     bek_bygherrens_pligter["Bekendtgørelse om bygherrens pligter"]:::retsakt
     bek_elektromagnetiske_felter["Bekendtgørelse om eksponering for elektromagnetiske felter i forbindelse med arbejdet (BEK nr 472 af 25/05/2016, ændret ved BEK nr 1883 af 19/12/2023)"]:::retsakt

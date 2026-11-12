@@ -1,0 +1,104 @@
+[
+ {
+  "hvor": "rettelse kilde-retsinformation.licens",
+  "paastand": "kilde-retsinformation: licens = {\"tekst\": \"Civilstyrelsen giver gratis, ikke-eksklusiv og ubegrænset brugsret til åbne data fra Retsinformation: data må kopieres, distribueres og offentliggøres, ændres og sammensættes med andet materiale og bruges kommercielt og ikke-kommercielt. Love og regler er ikke underlagt ophavsret (ophavsretslovens § 9); selvstændige bidrag som fotografier må gengives sammen med forskriften (§ 9, stk. 2). Vilkår: data må ikke bruges, så det kan fremstå, som om Civilstyrelsen støtter, anbefaler eller markedsfører brugeren, og brugen af services må ikke belaste Civilstyrelsens datagrænseflade uhensigtsmæssigt eller uforholdsmæssigt.\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/static/api.html",
+    "citat": "Civilstyrelsen giver gratis, ikke-eksklusiv og ubegrænset brugsret til åbne data fra Retsinformation. Data kan bl.a.: kopieres, distribueres og offentliggøres ændres og sammensættes med andet materiale bruges kommercielt og ikke-kommercielt",
+    "genfundet": true,
+    "kontekst": "e, teknisk dokumentation, information om hvordan API’et kaldes, retursvar samt visning af modellerne. ELI channels udstilles under den fælleseuropæiske standard European Legislation Identifier (ELI) og stilles til rådighed som et ELI sitemap og ELI Atom Feed. Læs mere om ELI channels her . Brugsret Civilstyrelsen giver gratis, ikke-eksklusiv og ubegrænset brugsret til åbne data fra Retsinformation. Data kan bl.a.: kopieres, distribueres og offentliggøres ændres og sammensættes med andet materiale bruges kommercielt og ikke-kommercielt Love og regler er ikke underlagt ophavsret, jf. ophavsretslovens § 9. Værker, som f.eks. fotografier, der fremstår som selvstændige bidrag, og som i anden sammenhæng nyder ophavsretlig beskyttelse, må gengives i forbindelse med forskriften, jf. ophavsretslovens § 9, stk. 2. Vilkår Data fra Retsinfo"
+   },
+   {
+    "url": "https://www.retsinformation.dk/static/api.html",
+    "citat": "Love og regler er ikke underlagt ophavsret, jf. ophavsretslovens § 9. Værker, som f.eks. fotografier, der fremstår som selvstændige bidrag",
+    "genfundet": true,
+    "kontekst": " og ELI Atom Feed. Læs mere om ELI channels her . Brugsret Civilstyrelsen giver gratis, ikke-eksklusiv og ubegrænset brugsret til åbne data fra Retsinformation. Data kan bl.a.: kopieres, distribueres og offentliggøres ændres og sammensættes med andet materiale bruges kommercielt og ikke-kommercielt Love og regler er ikke underlagt ophavsret, jf. ophavsretslovens § 9. Værker, som f.eks. fotografier, der fremstår som selvstændige bidrag, og som i anden sammenhæng nyder ophavsretlig beskyttelse, må gengives i forbindelse med forskriften, jf. ophavsretslovens § 9, stk. 2. Vilkår Data fra Retsinformation må ikke bruges på en måde, så det kan fremstå, som om Civilstyrelsen støtter, anbefaler eller markedsfører brugeren, brugerens prod"
+   },
+   {
+    "url": "https://www.retsinformation.dk/static/api.html",
+    "citat": "Data fra Retsinformation må ikke bruges på en måde, så det kan fremstå, som om Civilstyrelsen støtter, anbefaler eller markedsfører brugeren",
+    "genfundet": true,
+    "kontekst": " ikke-kommercielt Love og regler er ikke underlagt ophavsret, jf. ophavsretslovens § 9. Værker, som f.eks. fotografier, der fremstår som selvstændige bidrag, og som i anden sammenhæng nyder ophavsretlig beskyttelse, må gengives i forbindelse med forskriften, jf. ophavsretslovens § 9, stk. 2. Vilkår Data fra Retsinformation må ikke bruges på en måde, så det kan fremstå, som om Civilstyrelsen støtter, anbefaler eller markedsfører brugeren, brugerens produkter eller tjenester. Brugeren er selv ansvarlig for opsætning og brug af Civilstyrelsens services. Civilstyrelsen yder således ikke support til den tekniske brug eller opsætning til eksterne it-systemer. Eventuelle omkostninger forbundet med etablering til services, herunder tilpas"
+   },
+   {
+    "url": "https://www.retsinformation.dk/static/api.html",
+    "citat": "Brugen af services må ikke belaste Civilstyrelsens datagrænseflade på en uhensigtsmæssig eller uforholdsmæssig måde",
+    "genfundet": true,
+    "kontekst": "opsætning og brug af Civilstyrelsens services. Civilstyrelsen yder således ikke support til den tekniske brug eller opsætning til eksterne it-systemer. Eventuelle omkostninger forbundet med etablering til services, herunder tilpasninger i brugerens egne it-systemer, sker for brugerens egen regning. Brugen af services må ikke belaste Civilstyrelsens datagrænseflade på en uhensigtsmæssig eller uforholdsmæssig måde. Civilstyrelsen forbeholder sig retten til at foretage ændringer i måden, hvorpå der udtrækkes dokumenter i Retsinformation, herunder de tekniske forudsætninger for benyttelse af udtræk via Civilstyrelsens services."
+   }
+  ]
+ },
+ {
+  "hvor": "rettelse kilde-retsinformation.adgang",
+  "paastand": "kilde-retsinformation: adgang = {\"vaerdier\": [\"ELI\", \"HTML\", \"PDF\", \"API\", \"RSS\"], \"note\": \"ELI-stier: /eli/lta/ÅÅÅÅ/NNN (love og bekendtgørelser), /eli/retsinfo/ÅÅÅÅ/NNNNN (cirkulærer, vejledninger og afgørelser), /eli/ft/<samling+id> (Folketingstidende) og /eli/fob/ÅÅÅÅ/NNNN (ombudsmandsudtalelser). PDF via /api/pdf/<id>. Civilstyrelsen stiller dokumenterne til rådighed som åbne data ad to kanaler: en REST-høsteservice på api.retsinformation.dk og ELI channels (ELI sitemap og ELI Atom Feed; feedets adresse er ikke set). Høsteservicen (GET /v1/Documents) bruges til dagligt at følge ændringer; datoparameteren skal ligge inden for de seneste 10 dage. Den kan benyttes kl. 03:00–23:45 og må kun kaldes én gang pr. 10 sekunder (ellers HTTP 429). For ELI-kanalerne er der ingen talgrænse, kun vilkåret om ikke at belaste datagrænsefladen uhensigtsmæssigt eller uforholdsmæssigt. Den tidligere SOAP-webservice blev nedlagt i 2022.\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/static/api.html",
+    "citat": "Civilstyrelsen stiller disse dokumenter til rådighed som åbne data via en REST API høste-webservice og via ELI channels",
+    "genfundet": true,
+    "kontekst": "﻿ API Betingelser for anvendelse af Civilstyrelsens åbne data Retsinformation indeholder en stor mængde dokumenter, der er gjort frit tilgængelige for offentligheden. Civilstyrelsen stiller disse dokumenter til rådighed som åbne data via en REST API høste-webservice og via ELI channels. Begge services kan benyttes til dagligt at holde sig ajour med nye og ændrede dokumenter på retsinformation.dk. Services er primært tiltænkt professionelle brugere, men er åbne for enhver. Før du benytter dig af Civilstyrelsens services, skal du være opmærksom på de vilkår, der gælder for anvendel"
+   },
+   {
+    "url": "https://www.retsinformation.dk/static/api.html",
+    "citat": "ELI channels udstilles under den fælleseuropæiske standard European Legislation Identifier (ELI) og stilles til rådighed som et ELI sitemap og ELI Atom Feed",
+    "genfundet": true,
+    "kontekst": "r for anvendelsen af data fra Retsinformation. Adgang Høste-webservicen stilles til rådighed via et REST API, der er tilgængeligt på https://api.retsinformation.dk . Her findes forretningsbeskrivelse, teknisk dokumentation, information om hvordan API’et kaldes, retursvar samt visning af modellerne. ELI channels udstilles under den fælleseuropæiske standard European Legislation Identifier (ELI) og stilles til rådighed som et ELI sitemap og ELI Atom Feed. Læs mere om ELI channels her . Brugsret Civilstyrelsen giver gratis, ikke-eksklusiv og ubegrænset brugsret til åbne data fra Retsinformation. Data kan bl.a.: kopieres, distribueres og offentliggøres ændres og sammensættes med andet materiale bruges kommercielt og ikke-kommercielt Love og regler er"
+   },
+   {
+    "url": "https://www.retsinformation.dk/static/api.html",
+    "citat": "Høste-webservicen stilles til rådighed via et REST API, der er tilgængeligt på https://api.retsinformation.dk",
+    "genfundet": true,
+    "kontekst": "t at holde sig ajour med nye og ændrede dokumenter på retsinformation.dk. Services er primært tiltænkt professionelle brugere, men er åbne for enhver. Før du benytter dig af Civilstyrelsens services, skal du være opmærksom på de vilkår, der gælder for anvendelsen af data fra Retsinformation. Adgang Høste-webservicen stilles til rådighed via et REST API, der er tilgængeligt på https://api.retsinformation.dk . Her findes forretningsbeskrivelse, teknisk dokumentation, information om hvordan API’et kaldes, retursvar samt visning af modellerne. ELI channels udstilles under den fælleseuropæiske standard European Legislation Identifier (ELI) og stilles til rådighed som et ELI sitemap og ELI Atom Feed. Læs m"
+   },
+   {
+    "url": "https://api.retsinformation.dk/swagger/v1/swagger.json",
+    "citat": "Servicen kan benyttes i tidsrummet fra kl. 03:00 til 23:45. Servicen kan desuden kun kaldes en gang pr. 10 sekunder.",
+    "genfundet": true,
+    "kontekst": "gt at angive datoer i et forkert format. 11/9-2022 - Rettelse til en fejl, hvor det var muligt at få forskellige svar fra API´et. 27/6-2022 - Rettelse til en fejl, hvor kun 10 dokumenter blev returneret. Servicen returnerer nu alle relevante resultater. 16/5-2022 - Ændring til servicens åbningstid. Servicen kan benyttes i tidsrummet fra kl. 03:00 til 23:45. Servicen kan desuden kun kaldes en gang pr. 10 sekunder. 3/4-2022 - Første udgave. \", \"version\": \"v1\" }, \"paths\": { \"/v1/Documents\": { \"get\": { \"tags\": [ \"Documents\" ], \"summary\": \"Denne service benyttes til, dagligt at holde sig ajour med ændringer i regler på Retsinformation.\", \"description\": \"\\r\\n Servicen kan kun benyttes i tidsrummet fra kl. 03:00 "
+   },
+   {
+    "url": "https://api.retsinformation.dk/swagger/v1/swagger.json",
+    "citat": "Skal ligge inden for de seneste 10 dage. Der hentes dokumenter fra et døgn før og frem til denne dato klokken 03:00",
+    "genfundet": true,
+    "kontekst": "on vil kun skulle kalde denne service én gang i døgnet uden parametre inden for tidsrummet fra kl. 03:00 til 23:45 \\r\\n Hvis der er behov for at hente data fra en specifik dato, kan date parameteren benyttes. \", \"parameters\": [ { \"name\": \"date\", \"in\": \"query\", \"description\": \"Dato (eks. 2022-09-13) Skal ligge inden for de seneste 10 dage. Der hentes dokumenter fra et døgn før og frem til denne dato klokken 03:00. Angives parameteren ikke , så anvendes dags dato.\", \"schema\": { \"type\": \"string\", \"format\": \"date-time\" } } ], \"responses\": { \"200\": { \"description\": \"Ok\", \"content\": { \"application/json\": { \"schema\": { \"type\": \"array\", \"items\": { \"$ref\": \"#/components/schemas/Document\" } } } } }, \"400\": { \"descri"
+   },
+   {
+    "url": "https://api.retsinformation.dk/swagger/v1/swagger.json",
+    "citat": "Servicen er kaldt for ofte. Den må kun kaldes en gang pr. 10 sekunder.",
+    "genfundet": true,
+    "kontekst": "iption\": \"Ok\", \"content\": { \"application/json\": { \"schema\": { \"type\": \"array\", \"items\": { \"$ref\": \"#/components/schemas/Document\" } } } } }, \"400\": { \"description\": \"Klientfejl, eksempelvis en eller flere af følgende: Kald uden for åbningstiden Ikke-gyldig dato angivet \" }, \"429\": { \"description\": \"Servicen er kaldt for ofte. Den må kun kaldes en gang pr. 10 sekunder. Se evt. response body for detaljer.\" }, \"500\": { \"description\": \"Generel serverfejl\" } } } } }, \"components\": { \"schemas\": { \"Document\": { \"type\": \"object\", \"properties\": { \"documentId\": { \"type\": \"string\", \"description\": \"DocumentId\", \"nullable\": true, \"example\": \"AG001512\" }, \"accessionsnummer\":"
+   },
+   {
+    "url": "https://www.retsinformation.dk/static/api.html",
+    "citat": "Brugen af services må ikke belaste Civilstyrelsens datagrænseflade på en uhensigtsmæssig eller uforholdsmæssig måde",
+    "genfundet": true,
+    "kontekst": "opsætning og brug af Civilstyrelsens services. Civilstyrelsen yder således ikke support til den tekniske brug eller opsætning til eksterne it-systemer. Eventuelle omkostninger forbundet med etablering til services, herunder tilpasninger i brugerens egne it-systemer, sker for brugerens egen regning. Brugen af services må ikke belaste Civilstyrelsens datagrænseflade på en uhensigtsmæssig eller uforholdsmæssig måde. Civilstyrelsen forbeholder sig retten til at foretage ændringer i måden, hvorpå der udtrækkes dokumenter i Retsinformation, herunder de tekniske forudsætninger for benyttelse af udtræk via Civilstyrelsens services."
+   }
+  ]
+ },
+ {
+  "hvor": "rettelse bek-byggesagsgebyr.url",
+  "paastand": "bek-byggesagsgebyr: url = {\"vaerdi\": \"https://www.retsinformation.dk/eli/lta/2025/1455\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1455",
+    "citat": "Bekendtgørelse om gebyrer på byggeområdet fastsat af Social- og Boligstyrelsen",
+    "genfundet": true,
+    "kontekst": "BEK H#LOKDOK04 B B20250145505 DH002831 253928 Bekendtgørelse om gebyrer på byggeområdet fastsat af Social- og Boligstyrelsen 2025 2025-12-01 2025-12-02 2025-12-03 Valid 1455 Gebyrbekendtgørelsen Lovtidende A 2025-12-02 A20160117829 2016-09-23 Bekendtgørelse af byggeloven gebyrer GDV gebyr Byggeskadeforsikring gebyr byggesagsgebyr Nej Lise Aaen Kopperholm Berit Ipsen Social- og Boligstyrelsen Social-, og Boligmin.,\\nSocia"
+   }
+  ]
+ },
+ {
+  "hvor": "rettelse lov-christianialoven.url",
+  "paastand": "lov-christianialoven: url = {\"vaerdi\": \"https://www.retsinformation.dk/eli/lta/1989/399\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/1989/399",
+    "citat": "Lov om anvendelse af Christianiaområdet",
+    "genfundet": true,
+    "kontekst": "Lov A A19890039930 CM000934 42434 Lov om anvendelse af Christianiaområdet 1989 1989-06-07 1997-09-25 2023-04-29 Historic 399 Lovtidende A 2004-11-12 2013-06-12 A20040043130 2004-06-09 Lov om ændring af lov om anvendelse af Christianiaområdet\\n(Ændret formål og ejerskab til området m.v.) A20100154130 2010-12-21 Lov om ændring af lov om anvendelse af Christianiaområdet\\n(Æ"
+   }
+  ]
+ }
+]
