@@ -11,6 +11,7 @@
                                              # én journal pr. kørsel i raw/populate/DATO[TKLOKKESLÆT]-ajour.kontrol.json
     python3 populate.py katalog [N]          # Retsinformations henvisninger for hver gældende lov i kataloget: hjemmel_for-kanter i
                                              # katalog/kanter.jsonl og uddrag i intermediate/corpus/lov_henvisninger.jsonl (N: prøv N love, skriv intet)
+    python3 populate.py sitemap              # Retsinformations sitemap som fortegnelse over alle dokumenter: intermediate/corpus/retsinformation_sitemap.jsonl
     python3 populate.py selftest
 
 En agent leverer noder, kanter og rettelser med belaeg: [{url, citat}]. Sikkerheden sættes her, ikke af agenten:
@@ -92,6 +93,7 @@ FASE7 = ("Fase 7 (fra 2026-11-11): Instanslag uden for de otte domæner. Én res
 RI = "https://www.retsinformation.dk"
 KAT = REG.parent / "katalog"
 UDDRAG = ROOT / "intermediate" / "corpus" / "lov_henvisninger.jsonl"
+SITEMAP = ROOT / "intermediate" / "corpus" / "retsinformation_sitemap.jsonl"
 METODE = "retsinformation-henvisninger"
 FORSKRIFTER = {"bekendtgørelse", "ændringsbekendtgørelse", "ikrafttrædelsesbekendtgørelse", "anordning", "ændringsanordning", "ikrafttrædelsesanordning",
                "bekendtgørelse-af-anordning"}
@@ -736,6 +738,24 @@ def katalog(graense: int = 0) -> dict:
     return stats
 
 
+def sitemap() -> dict:
+    """Skriv Retsinformations sitemap som fortegnelse ({eli, aendret} pr. dokument), og tæl dokumenter pr. samling og de dokumenter i
+    Lovtidende A, kataloget mangler, pr. år. Stopper, hvis en side ikke kan hentes, så fortegnelsen aldrig er ufuldstændig."""
+    poster = {}
+    for side in re.findall(r"<loc>([^<]+)</loc>", get(RI + "/sitemap.xml")[1].decode("utf-8", "replace")):
+        status, raw = get(side.replace("https://retsinformation.dk", RI))
+        if status != "ok":
+            raise SystemExit(f"{side}: {status}")
+        poster.update(re.findall(r"<loc>https://(?:www\.)?retsinformation\.dk(/eli/[^<]+)</loc><lastmod>([^<]*)</lastmod>", raw.decode("utf-8", "replace")))
+    SITEMAP.write_text("".join(json.dumps({"eli": e, "aendret": a}, ensure_ascii=False) + "\n" for e, a in sorted(poster.items())), encoding="utf-8")
+    katalog_ids = {"/eli/" + json.loads(line)["id"].replace("-", "/") for line in (KAT / "retsinformation_lta.jsonl").open(encoding="utf-8")}
+    mangler = sorted(e for e in poster if e.startswith("/eli/lta/") and e not in katalog_ids)
+    samlinger = sorted({e.split("/")[2] for e in poster})
+    return {"dokumenter": len(poster), "pr. samling": {k: sum(e.split("/")[2] == k for e in poster) for k in samlinger},
+            "katalogdokumenter uden for sitemap": len(katalog_ids - set(poster)),
+            "LTA-dokumenter uden for kataloget": len(mangler), "heraf pr. år": {y: sum(e.split("/")[3] == y for e in mangler) for y in sorted({e.split("/")[3] for e in mangler})[-6:]}}
+
+
 class Dumper(yaml.SafeDumper if yaml else object):
     pass
 
@@ -951,6 +971,8 @@ if __name__ == "__main__":
         print(*(text[max(0, m.start() - 300):m.end() + 600] for m in hits[:20]), f"{status}: {len(hits)} træf", sep="\n\n")
     elif cmd == "apply" and args:
         sys.exit(apply(args))
+    elif cmd == "sitemap":
+        print(json.dumps(sitemap(), ensure_ascii=False, indent=1))
     elif cmd == "katalog":
         print(json.dumps(katalog(int(args[0]) if args else 0), ensure_ascii=False, indent=1))
     elif cmd == "ajour":
