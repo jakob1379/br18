@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 58 · kanter: 98
+Noder: 61 · kanter: 109
 
 ```mermaid
 flowchart LR
@@ -16,6 +16,8 @@ flowchart LR
     classDef nedlagt fill:#fff,stroke:#999,color:#999,stroke-dasharray:4 3
     min_natur_og_dyrevelfaerd["Ministeriet for Natur og Dyrevelfærd"]:::ministerium
     eu_dir_2001_42["Direktiv 2001/42/EF om vurdering af bestemte planers og programmers indvirkning på miljøet (SMV)"]:::eu
+    eu_dir_2004_35["Direktiv 2004/35/EF om miljøansvar (miljøansvarsdirektivet)"]:::eu
+    eu_dir_2010_75["Direktiv 2010/75/EU om industrielle emissioner (IED)"]:::eu
     eu_dir_2011_92["Direktiv 2011/92/EU om vurdering af visse offentlige og private projekters indvirkning på miljøet (VVM)"]:::eu
     eu_dir_2014_52["Direktiv 2014/52/EU om ændring af VVM-direktivet"]:::eu
     eu_dir_1992_43["Direktiv 92/43/EØF om bevaring af naturtyper samt vilde dyr og planter (habitatdirektivet)"]:::eu
@@ -41,6 +43,7 @@ flowchart LR
     sty_landbrugsstyrelsen["Landbrugsstyrelsen (nedlagt)"]:::nedlagt
     naevn_natur_og_miljoeklagenaevnet["Natur- og Miljøklagenævnet (nedlagt)"]:::nedlagt
     naevn_naturklagenaevnet["Naturklagenævnet (nedlagt)"]:::nedlagt
+    bek_brugerbetaling_miljoe["Bekendtgørelse om brugerbetaling for godkendelse, tilsyn m.v. (brugerbetalingsbekendtgørelsen)"]:::retsakt
     bek_miljoemaal["Bekendtgørelse om fastlæggelse af miljømål for vandløb, søer, overgangsvande, kystvande og grundvand (miljømålsbekendtgørelsen), 2025"]:::retsakt
     bek_fredningsnaevn_forretningsorden["Bekendtgørelse om forretningsorden for fredningsnævn"]:::retsakt
     bek_husdyrgodkendelse["Bekendtgørelse om godkendelse og tilladelse m.v. af husdyrbrug (husdyrgodkendelsesbekendtgørelsen), BEK nr. 443 af 2023, ændret ved BEK nr. 300 af 2024"]:::retsakt
@@ -127,7 +130,7 @@ flowchart LR
     bek_habitat -->|implementerer_EU| eu_dir_1992_43
     bek_habitat -->|implementerer_EU| eu_dir_2009_147
     bek_miljoemaal -->|implementerer_EU| eu_dir_2000_60
-    bek_miljoevurdering -.->|implementerer_EU| eu_dir_2011_92
+    bek_miljoevurdering -->|implementerer_EU| eu_dir_2011_92
     lov_miljoemaalsloven -->|implementerer_EU| eu_dir_1992_43
     lov_miljoemaalsloven -->|implementerer_EU| eu_dir_2009_147
     lov_miljoevurderingsloven -->|implementerer_EU| eu_dir_2001_42
@@ -170,6 +173,17 @@ flowchart LR
     min_natur_og_dyrevelfaerd -.->|ressortansvar| lov_landbrugsejendomme
     lov_dyrevelfaerdsloven -->|hjemmel_for| raad_det_dyreetiske_raad
     lov_dyreforsoegsloven -.->|hjemmel_for| tilsyn_dyreforsoegstilsynet
+    lov_husdyrbrugloven -->|hjemmel_for| bek_brugerbetaling_miljoe
+    bek_miljoevurdering -->|implementerer_EU| eu_dir_2001_42
+    bek_vandloebsregulativer -->|implementerer_EU| eu_dir_1992_43
+    lov_husdyrbrugloven -->|implementerer_EU| eu_dir_1992_43
+    lov_husdyrbrugloven -->|implementerer_EU| eu_dir_2004_35
+    lov_husdyrbrugloven -->|implementerer_EU| eu_dir_2010_75
+    lov_husdyrbrugloven -->|implementerer_EU| eu_dir_2011_92
+    lov_naturbeskyttelsesloven -->|implementerer_EU| eu_dir_2004_35
+    lov_skovloven -->|implementerer_EU| eu_dir_1992_43
+    lov_skovloven -->|implementerer_EU| eu_dir_2004_35
+    lov_vandplanlaegningsloven -->|implementerer_EU| eu_dir_1992_43
 ```
 
 [← Overblik](oversigt.md)

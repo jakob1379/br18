@@ -1,0 +1,1223 @@
+{
+  "omraade": "arbejdsmarked",
+  "noder": [
+    {
+      "id": "lov-arbejdsretsloven",
+      "navn": "Lov om Arbejdsretten og faglige voldgiftsretter (arbejdsretsloven)",
+      "type": "lov",
+      "ministerium": "min-beskaeftigelse-og-ligestilling",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/705",
+            "citat": "Herved bekendtgøres lov om Arbejdsretten og faglige voldgiftsretter jf. lovbekendtgørelse nr. 1003 af 24. august 2017, med de ændringer, der følger af § 50 i lov nr. 60 af 30. januar 2018"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2026/705",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/705",
+            "citat": "Herved bekendtgøres lov om Arbejdsretten og faglige voldgiftsretter jf. lovbekendtgørelse nr. 1003 af 24. august 2017, med de ændringer, der følger af § 50 i lov nr. 60 af 30. januar 2018"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2026/705",
+        "lovtidende": "LBK nr. 705 af 13/08/2026",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/705",
+            "citat": "Herved bekendtgøres lov om Arbejdsretten og faglige voldgiftsretter jf. lovbekendtgørelse nr. 1003 af 24. august 2017, med de ændringer, der følger af § 50 i lov nr. 60 af 30. januar 2018"
+          }
+        ]
+      },
+      "note": "Afløser LBK nr. 1003 af 24/08/2017 (nu historisk på Retsinformation). Bærer Arbejdsretten (kap. 1) og de faglige voldgiftsretter (kap. 2); § 34 nævner afskedigelsesnævn. Arbejdsrettens egen regelside (arbejdsretten.dk/arbejdsretten/regler) linker stadig til LBK 1003/2017."
+    },
+    {
+      "id": "lov-forligsmandsloven",
+      "navn": "Lov om mægling i arbejdsstridigheder (forligsmandsloven)",
+      "type": "lov",
+      "ministerium": "min-beskaeftigelse-og-ligestilling",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1290",
+            "citat": "Herved bekendtgøres lov om mægling i arbejdsstridigheder, jf. lovbekendtgørelse nr. 709 af 20. august 2002, med de ændringer, der følger af § 5 i lov nr. 502 af 20. maj 2025."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2025/1290",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1290",
+            "citat": "Herved bekendtgøres lov om mægling i arbejdsstridigheder, jf. lovbekendtgørelse nr. 709 af 20. august 2002, med de ændringer, der følger af § 5 i lov nr. 502 af 20. maj 2025."
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2025/1290",
+        "lovtidende": "LBK nr. 1290 af 05/11/2025",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1290",
+            "citat": "Herved bekendtgøres lov om mægling i arbejdsstridigheder, jf. lovbekendtgørelse nr. 709 af 20. august 2002, med de ændringer, der følger af § 5 i lov nr. 502 af 20. maj 2025."
+          }
+        ]
+      },
+      "note": "Afløser LBK nr. 709 af 20/08/2002 (historisk). Forligsinstitutionens egen side henviser stadig til LBK nr. 192 af 6/3/1997."
+    },
+    {
+      "id": "lov-ligebehandlingsnaevnet",
+      "navn": "Lov om Ligebehandlingsnævnet",
+      "type": "lov",
+      "ministerium": "min-beskaeftigelse-og-ligestilling",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1779",
+            "citat": "Herved bekendtgøres lov om Ligebehandlingsnævnet, jf. lovbekendtgørelse nr. 1230 af 2. oktober 2016, med de ændringer, der følger af § 14 i lov nr. 688 af 8. juni 2018, § 3 i lov nr. 2591 af 28. december 2021 og § 3 i lov nr. 879 af 21. juni 2022."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2024/1779",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1779",
+            "citat": "Herved bekendtgøres lov om Ligebehandlingsnævnet, jf. lovbekendtgørelse nr. 1230 af 2. oktober 2016, med de ændringer, der følger af § 14 i lov nr. 688 af 8. juni 2018, § 3 i lov nr. 2591 af 28. december 2021 og § 3 i lov nr. 879 af 21. juni 2022."
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2024/1779",
+        "lovtidende": "LBK nr. 1779 af 25/11/2024",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1779",
+            "citat": "Herved bekendtgøres lov om Ligebehandlingsnævnet, jf. lovbekendtgørelse nr. 1230 af 2. oktober 2016, med de ændringer, der følger af § 14 i lov nr. 688 af 8. juni 2018, § 3 i lov nr. 2591 af 28. december 2021 og § 3 i lov nr. 879 af 21. juni 2022."
+          }
+        ]
+      },
+      "note": "Afløser LBK nr. 1230 af 02/10/2016 (historisk). Underliggende bekendtgørelse: BEK nr. 883 af 21/06/2023 om forretningsorden (gældende, ikke oprettet som node)."
+    },
+    {
+      "id": "lov-ligebehandlingsloven",
+      "navn": "Lov om ligebehandling af mænd og kvinder med hensyn til beskæftigelse m.v. (ligebehandlingsloven)",
+      "type": "lov",
+      "ministerium": "min-beskaeftigelse-og-ligestilling",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/942",
+            "citat": "Herved bekendtgøres lov om ligebehandling af mænd og kvinder med hensyn til beskæftigelse m.v., jf. lovbekendtgørelse nr. 645 af 8. juni 2011 med de ændringer, der følger af § 13 i lov nr. 533 af 18. juni 2012"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2024/942",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/942",
+            "citat": "Herved bekendtgøres lov om ligebehandling af mænd og kvinder med hensyn til beskæftigelse m.v., jf. lovbekendtgørelse nr. 645 af 8. juni 2011 med de ændringer, der følger af § 13 i lov nr. 533 af 18. juni 2012"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2024/942",
+        "lovtidende": "LBK nr. 942 af 19/07/2024",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/942",
+            "citat": "Herved bekendtgøres lov om ligebehandling af mænd og kvinder med hensyn til beskæftigelse m.v., jf. lovbekendtgørelse nr. 645 af 8. juni 2011 med de ændringer, der følger af § 13 i lov nr. 533 af 18. juni 2012"
+          }
+        ]
+      },
+      "note": "Materielt forbud mod kønsforskelsbehandling i ansættelsen. Senere ændret ved LOV nr. 1470 af 10/12/2024 § 2 (ifølge Retsinformations henvisninger)."
+    },
+    {
+      "id": "lov-forskelsbehandlingsloven",
+      "navn": "Lov om forbud mod forskelsbehandling på arbejdsmarkedet m.v. (forskelsbehandlingsloven)",
+      "type": "lov",
+      "ministerium": "min-beskaeftigelse-og-ligestilling",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/399",
+            "citat": "Herved bekendtgøres lov om forbud mod forskelsbehandling på arbejdsmarkedet m.v., jf. lovbekendtgørelse nr. 1001 af 24. august 2017, med de ændringer, der følger af § 2 i lov nr. 2591 af 28. december 2021"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2024/399",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/399",
+            "citat": "Herved bekendtgøres lov om forbud mod forskelsbehandling på arbejdsmarkedet m.v., jf. lovbekendtgørelse nr. 1001 af 24. august 2017, med de ændringer, der følger af § 2 i lov nr. 2591 af 28. december 2021"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2024/399",
+        "lovtidende": "LBK nr. 399 af 05/04/2024",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/399",
+            "citat": "Herved bekendtgøres lov om forbud mod forskelsbehandling på arbejdsmarkedet m.v., jf. lovbekendtgørelse nr. 1001 af 24. august 2017, med de ændringer, der følger af § 2 i lov nr. 2591 af 28. december 2021"
+          }
+        ]
+      },
+      "note": "Afløser LBK nr. 1001 af 24/08/2017 (historisk)."
+    },
+    {
+      "id": "lov-funktionaerloven",
+      "navn": "Lov om retsforholdet mellem arbejdsgivere og funktionærer (funktionærloven)",
+      "type": "lov",
+      "ministerium": "min-beskaeftigelse-og-ligestilling",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2017/1002",
+            "citat": "Herved bekendtgøres lov om retsforholdet mellem arbejdsgivere og funktionærer, jf. lovbekendtgørelse nr. 81 af 3. februar 2009"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2017/1002",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2017/1002",
+            "citat": "Herved bekendtgøres lov om retsforholdet mellem arbejdsgivere og funktionærer, jf. lovbekendtgørelse nr. 81 af 3. februar 2009"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2017/1002",
+        "lovtidende": "LBK nr. 1002 af 24/08/2017",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2017/1002",
+            "citat": "Herved bekendtgøres lov om retsforholdet mellem arbejdsgivere og funktionærer, jf. lovbekendtgørelse nr. 81 af 3. februar 2009"
+          }
+        ]
+      },
+      "note": "Materiel lov (opsigelse, godtgørelse). Har ingen egen klageinstans; tvister afgøres ved de almindelige domstole eller fagretligt. Senere ændret ved LOV nr. 715 af 20/06/2025 § 8 (Retsinformations henvisninger)."
+    },
+    {
+      "id": "lov-erhvervsuddannelser",
+      "navn": "Lov om erhvervsuddannelser (erhvervsuddannelsesloven)",
+      "type": "lov",
+      "ministerium": "min-undervisning",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/381",
+            "citat": "Herved bekendtgøres lov om erhvervsuddannelser, jf. lovbekendtgørelse nr. 961 af 16. august 2024, med de ændringer, der følger af § 2 i lov nr. 1659 af 30. december 2024"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2026/381",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/381",
+            "citat": "Herved bekendtgøres lov om erhvervsuddannelser, jf. lovbekendtgørelse nr. 961 af 16. august 2024, med de ændringer, der følger af § 2 i lov nr. 1659 af 30. december 2024"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2026/381",
+        "lovtidende": "LBK nr. 381 af 13/03/2026",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/381",
+            "citat": "Herved bekendtgøres lov om erhvervsuddannelser, jf. lovbekendtgørelse nr. 961 af 16. august 2024, med de ændringer, der følger af § 2 i lov nr. 1659 af 30. december 2024"
+          }
+        ]
+      },
+      "note": "Afløser LBK nr. 961 af 16/08/2024 (nu historisk). Retsinformations ministeriefelt (marts 2026) siger Børne- og Undervisningsministeriet; ministeriet hedder siden 3/6/2026 Undervisningsministeriet. § 63-65 regulerer forlig og Tvistighedsnævnet. Kun denne lovs tvistighedsbestemmelser er kortlagt; resten af erhvervsuddannelsesområdet hører til undervisningsrunden."
+    },
+    {
+      "id": "bek-tvistighedsnaevnet",
+      "navn": "Bekendtgørelse om Tvistighedsnævnet",
+      "type": "bekendtgørelse",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Erhvervsuddannelseslovens § 64, stk. 6 (bemyndigelse til at fastsætte regler om Tvistighedsnævnets virksomhed).",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/1318",
+            "citat": "I medfør af § 64, stk. 6, i lov om erhvervsuddannelser, jf. lovbekendtgørelse nr. 1069 af 8. august 2023 og efter indstilling fra Tvistighedsnævnet og Rådet for de Grundlæggende Erhvervsrettede Uddannelser, fastsættes:"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2023/1318",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/1318",
+            "citat": "Tvistighedsnævnet behandler tvistigheder mellem elever og lærlinge og oplæringsvirksomheder, jf. erhvervsuddannelseslovens § 65, stk. 1 og 2"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2023/1318",
+        "lovtidende": "BEK nr. 1318 af 22/11/2023",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/1318",
+            "citat": "I medfør af § 64, stk. 6, i lov om erhvervsuddannelser, jf. lovbekendtgørelse nr. 1069 af 8. august 2023 og efter indstilling fra Tvistighedsnævnet og Rådet for de Grundlæggende Erhvervsrettede Uddannelser, fastsættes:"
+          }
+        ]
+      },
+      "note": "Ændret ved BEK nr. 166 af 27/01/2026. Henviser til LBK 1069/2023; gældende lovbekendtgørelse er LBK nr. 381 af 13/03/2026. Ressortministeriet er Erhvervsministeriet (Nævnenes Hus), ikke undervisningsministeriet, som erhvervsuddannelsesloven i øvrigt hører under."
+    },
+    {
+      "id": "dom-arbejdsretten",
+      "navn": "Arbejdsretten",
+      "type": "domstol",
+      "ministerium": "ingen",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Arbejdsretsloven § 1: Arbejdsrettens domsmyndighed omfatter sagerne i § 9 (overtrædelse og fortolkning af hovedaftaler og overenskomster, lovligheden af kollektive kampskridt m.v.).",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/705",
+            "citat": "Arbejdsrettens domsmyndighed omfatter behandlingen og afgørelsen af de i § 9 omhandlede sager."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://arbejdsretten.dk/",
+        "belaeg": [
+          {
+            "url": "https://arbejdsretten.dk/arbejdsmarkedets-hus",
+            "citat": "Arbejdsretten er en statslig specialdomstol uden for det almindelige domstolssystem, hvis afgørelser træffes af højesteretsdommere og en landsdommer"
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "dom",
+            "bindende": "bindende",
+            "note": "Afsiges i offentligt retsmøde med grunde (arbejdsretslovens § 19); endelig, kan ikke appelleres. Retten kan også afgøre sager ved retsformanden alene (§ 16, stk. 3) og ved udeblivelsesdom."
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/705",
+            "citat": "Dommen, der afsiges i et offentligt retsmøde ved oplæsning af domsslutningen, skal ledsages af grunde"
+          },
+          {
+            "url": "https://arbejdsretten.dk/arbejdsretten/sagsbehandling",
+            "citat": "Arbejdsrettens afgørelser, afgørelser truffet ved mæglings-, organisations- og fællesmøder samt afgørelser truffet af faglige voldgiftsretter er endelige."
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Arbejdsrettens dom af \\d+\\. \\w+ \\d{4}",
+        "sag nr\\. \\d{4} ?- ?\\d+",
+        "Arbejdsretten, sag \\d{4}-\\d+"
+      ],
+      "note": "Statslig specialdomstol uden for det almindelige domstolssystem (derfor ikke kant til dom-domstolene). Endeligheden er belagt på Arbejdsrettens egen sagsbehandlingsside; jeg fandt ikke en enkelt paragraf i arbejdsretsloven med ordene 'kan ikke appelleres' (§ 20 regulerer genoptagelse). Prøvesagsordningen (retsplejelovens § 133, møderet for landsret) findes på arbejdsretten.dk/proevesager og er ikke kortlagt. Skal ikke forveksles med Højesteret: ingen anke. Sekretariat i Arbejdsmarkedets Hus deles med Tjenestemandsretterne (uden for området) og Forligsinstitutionen."
+    },
+    {
+      "id": "org-faglige-voldgiftsretter",
+      "navn": "Faglige voldgiftsretter",
+      "type": "privat-organisation",
+      "ministerium": "ingen",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Arbejdsretsloven § 25: en faglig voldgiftsret består af en opmand udpeget af Arbejdsrettens formand og 4 andre medlemmer (2 fra hver side); kap. 2 regulerer sagsbehandlingen.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/705",
+            "citat": "En faglig voldgiftsret består af en opmand, der udpeges af Arbejdsrettens formand, jf. § 27, samt 4 andre medlemmer, hvoraf 2 medlemmer udpeges af lønmodtagerparten og 2 medlemmer af arbejdsgiverparten."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://arbejdsretten.dk/faglige-voldgiftsretter",
+        "belaeg": [
+          {
+            "url": "https://arbejdsretten.dk/faglige-voldgiftsretter",
+            "citat": "Faglige voldgiftsretter behandler især sager om forståelsen af kollektive overenskomster, men efter generel eller konkret aftale mellem parterne også sager, der ellers ville høre under Arbejdsretten"
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "kendelse",
+            "bindende": "bindende",
+            "note": "Endelig; kan fuldbyrdes efter retsplejelovens regler. Offentliggøres efter anonymisering (arbejdsretslovens § 28, stk. 7)."
+          },
+          {
+            "type": "protokollat med tilkendegivelse og forlig",
+            "bindende": "ukendt"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/705",
+            "citat": "Kendelser kan efter anonymisering i henhold til gældende regler offentliggøres."
+          },
+          {
+            "url": "https://arbejdsretten.dk/arbejdsretten/sagsbehandling",
+            "citat": "Arbejdsrettens afgørelser, afgørelser truffet ved mæglings-, organisations- og fællesmøder samt afgørelser truffet af faglige voldgiftsretter er endelige."
+          },
+          {
+            "url": "https://arbejdsretten.dk/",
+            "citat": "Protokollat med tilkendegivelse og forlig af 7. oktober 2026 i FV2026-422"
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Kendelse af \\d+\\. \\w+ \\d{4} i FV\\d{4}-\\d+",
+        "FV\\d{4}-\\d+",
+        "faglig voldgift"
+      ],
+      "note": "Ad hoc-organer, ikke ét organ: oprettes pr. sag eller overenskomst, normalt med en opmand udpeget af Arbejdsrettens formand (anmodning via Arbejdsmarkedets Hus' sekretariat). Typet privat-organisation, fordi de er overenskomstbaserede, men reguleret i lovens kap. 2. Afgørelsernes endelighed og fuldbyrdelse: § 34."
+    },
+    {
+      "id": "org-afskedigelsesnaevnet",
+      "navn": "Afskedigelsesnævnet",
+      "type": "privat-organisation",
+      "ministerium": "ingen",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Hovedaftalen mellem Dansk Arbejdsgiverforening og LO (nu FH), § 4, stk. 3, litra e: klage over påståede urimelige afskedigelser til et af hovedorganisationerne nedsat Afskedigelsesnævn. Anerkendt i arbejdsretslovens § 34 (fuldbyrdelse af afgørelser fra faglige voldgiftsretter, herunder afskedigelsesnævn).",
+        "belaeg": [
+          {
+            "url": "https://arbejdsretten.dk/media/14644/hovedaftale-mellem-dansk-arbejdsgiverforening-og-landsorganisationen-i-danmark.pdf",
+            "citat": "Opnås der ikke herved enighed, har det interesserede fagforbund (eventuelt centralledelse) ret til at indgive klage til et af hovedorganisationerne nedsat Afskedigelsesnævn."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/705",
+            "citat": "samt afgørelser truffet ved mæglings-, organisations- og fællesmøder samt af faglige voldgiftsretter, herunder afskedigelsesnævn, kan fuldbyrdes efter retsplejelovens regler om fuldbyrdelse af domme."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://arbejdsretten.dk/afgoerelser",
+        "belaeg": [
+          {
+            "url": "https://arbejdsretten.dk/media/17742/afskesdigelsesnaevnets-kendelse-af-16-april-2021-i-sag-20201111-anonymiseret.pdf",
+            "citat": "KENDELSE i Afskedigelsesnævnets sag nr.: 20201111."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "kendelse",
+            "bindende": "bindende",
+            "note": "Motiveret kendelse; kan underkende opsigelsen eller tilkende godtgørelse."
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://arbejdsretten.dk/media/14644/hovedaftale-mellem-dansk-arbejdsgiverforening-og-landsorganisationen-i-danmark.pdf",
+            "citat": "Nævnet afsiger en motiveret kendelse. Hvis Nævnet måtte finde, at den foretagne opsigelse er urimelig og ikke begrundet i arbejdstagerens eller virksomhedens forhold, kan Nævnet efter påstand herom underkende opsigelsen"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "andet": "Sagsnumre har formen ÅÅÅÅNNNN, fx 20201111.",
+        "belaeg": [
+          {
+            "url": "https://arbejdsretten.dk/media/17742/afskesdigelsesnaevnets-kendelse-af-16-april-2021-i-sag-20201111-anonymiseret.pdf",
+            "citat": "KENDELSE i Afskedigelsesnævnets sag nr.: 20201111."
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Afskedigelsesnævnets kendelse af \\d+\\. \\w+ \\d{4}",
+        "Afskedigelsesnævnets sag nr\\.:? ?\\d+"
+      ],
+      "note": "Overenskomstbaseret, permanent faglig voldgift under Hovedaftalen (DA/LO, nu FH); ikke oprettet ved lov, men lovens § 34 behandler dets afgørelser som voldgiftsafgørelser. Hovedaftalen på arbejdsretten.dk er udgaven fra 2007 og nævner LO; forretningsorden og nuværende sammensætning er ikke åbnet. Kendelser offentliggøres anonymiseret på arbejdsretten.dk (belagt via én kendelse fra 2021 samt en søgefacet 'Afskedigelsesnævnet' på arbejdsrettens afgørelsessøgning)."
+    },
+    {
+      "id": "sty-forligsinstitutionen",
+      "navn": "Forligsinstitutionen",
+      "type": "styrelse",
+      "ministerium": "ingen",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Forligsmandsloven § 1: beskæftigelsesministeren udnævner efter indstilling fra Arbejdsretten tre forligsmænd for hele landet til at medvirke til bilæggelse af arbejdsstridigheder.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1290",
+            "citat": "Efter indstilling af Arbejdsretten udnævner beskæftigelsesministeren tre forligsmænd for hele landet med det hverv på de i denne lov angivne måder at medvirke til bilæggelse af stridigheder mellem arbejdsgivere og arbejdere."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://forligsinstitutionen.dk/",
+        "belaeg": [
+          {
+            "url": "https://forligsinstitutionen.dk/om-forligsinstitutionen",
+            "citat": "Forligsinstitutionen blev etableret i 1910 og har til opgave at bistå ved interessekonflikter på arbejdsmarkedet."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "vejledning om mægling",
+            "bindende": "vejledende",
+            "note": "Beskrivelse af forligsmandens fremgangsmåde; mæglingsforslag og meddelelser offentliggøres under 'Meddelelser' (ikke gennemgået)."
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://forligsinstitutionen.dk/om-forligsinstitutionen",
+            "citat": "Beskrivelse af forligsmandens fremgangsmåde i forbindelse med mægling m.v."
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "forligsmanden",
+        "mæglingsforslag",
+        "lov om mægling i arbejdsstridigheder"
+      ],
+      "note": "Mægler i interessekonflikter (overenskomstfornyelse), ikke en afgørende instans: ingen klagekæde. Del af Arbejdsmarkedets Hus sammen med Arbejdsretten. Kan ikke belægge et ressortministerium på en side, derfor ministerium ingen; forligsmænd udnævnes af beskæftigelsesministeren (§ 1). Typet styrelse som nærmeste passende type."
+    },
+    {
+      "id": "naevn-ligebehandlingsnaevnet",
+      "navn": "Ligebehandlingsnævnet",
+      "type": "nævn",
+      "ministerium": "min-social",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Lov om Ligebehandlingsnævnet § 1: nævnet behandler klager over forskelsbehandling på grund af køn, race, alder, handicap m.fl. Sekretariat stilles til rådighed af Ankestyrelsen (§ 5).",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1779",
+            "citat": "Ligebehandlingsnævnet behandler klager over forskelsbehandling på grund af køn, race, hudfarve, religion eller tro, politisk anskuelse, seksuel orientering, kønsidentitet, kønsudtryk og kønskarakteristika, alder, handicap eller national, social eller etnisk oprindelse, jf. stk. 2-7."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1779",
+            "citat": "Ankestyrelsen stiller sekretariat til rådighed for nævnet."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.ast.dk/naevn/ligebehandlingsnaevnet",
+        "belaeg": [
+          {
+            "url": "https://www.ast.dk/naevn/ligebehandlingsnaevnet",
+            "citat": "Ligebehandlingsnævnet er et uafhængigt nævn, der træffer afgørelser i sager om forskelsbehandling. Nævnet bistås af et sekretariat i Ankestyrelsen, som forbereder sagerne."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse",
+            "bindende": "bindende",
+            "note": "Kan ikke indbringes for anden administrativ myndighed (§ 9, stk. 1); protokolleres og offentliggøres anonymiseret (§ 9, stk. 2). Kan tilkende godtgørelse og underkende afskedigelse (§ 2)."
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1779",
+            "citat": "Nævnets afgørelser kan ikke indbringes for anden administrativ myndighed."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1779",
+            "citat": "Nævnets afgørelser protokolleres og offentliggøres i anonymiseret form."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1779",
+            "citat": "Nævnet kan tilkende godtgørelse og underkende afskedigelse, i det omfang det følger af de love og kollektive overenskomster, der er nævnt i § 1, stk. 2-7."
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Ligebehandlingsnævnets afgørelse af \\d+\\. \\w+ \\d{4}",
+        "Ligebehandlingsnævnets afgørelse om \\w+",
+        "KEN nr\\. \\d+ af \\d+/\\d+/\\d{4}",
+        "j\\.nr\\. \\d{2}-\\d+"
+      ],
+      "note": "Ressort er uklart: loven hører under Beskæftigelses- og Ligestillingsministeriet (beskæftigelsesministeren beskikker nævnet, § 3), men afgørelser fra august 2026 føres på Retsinformation under Socialministeriet, og sekretariatet er Ankestyrelsen (min-social). Valgt min-social efter Retsinformations KEN-felt; kontrollér mod en ressortliste. Sekretariatsrelationen til sty-ankestyrelsen er ikke en kantType og står derfor kun her. Nævnet kan ikke behandle sager, der verserer ved domstolene (§ 4, stk. 2), og sager kan efter nævnet bringes for domstolene. Ligebehandlingsnævnet har ikke 'Nævnenes Hus' som sekretariat (modsat hvad sporet antog)."
+    },
+    {
+      "id": "naevn-tvistighedsnaevnet",
+      "navn": "Tvistighedsnævnet",
+      "type": "nævn",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Erhvervsuddannelseslovens § 64: Tvistighedsnævnet nedsættes af erhvervsministeren; formand er landsdommer, to faste medlemmer indstilles af DA og FH. Opgaven (tvister mellem elever/lærlinge og oplæringsvirksomheder) følger af § 65, jf. BEK 1318/2023 § 1.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/381",
+            "citat": "Tvistighedsnævnet nedsættes af erhvervsministeren og består af 1 formand, der skal være landsdommer, og 2 faste medlemmer, hvoraf 1 beskikkes efter indstilling fra Dansk Arbejdsgiverforening og 1 efter indstilling fra Fagbevægelsens Hovedorganisation."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/1318",
+            "citat": "Tvistighedsnævnet behandler tvistigheder mellem elever og lærlinge og oplæringsvirksomheder, jf. erhvervsuddannelseslovens § 65, stk. 1 og 2"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://naevneneshus.dk/start-din-klage/tvistighedsnaevnet/",
+        "belaeg": [
+          {
+            "url": "https://naevneneshus.dk/start-din-klage/tvistighedsnaevnet/",
+            "citat": "Nævnets opgave er at afgøre sager om uenigheder mellem elev og praktikvirksomhed på erhvervsuddannelser i forbindelse med elevens praktikophold i virksomheden."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse (kendelse)",
+            "bindende": "bindende",
+            "note": "Tvistigheder kan ikke indbringes for domstolene eller andre myndigheder, jf. dog § 65 (erhvervsuddannelseslovens § 63, stk. 3). Kan også afsluttes ved forlig."
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/381",
+            "citat": "Tvistigheder kan ikke indbringes for domstolene eller i øvrigt for andre myndigheder end dem, der er nævnt i stk. 1 og 2, jf. dog § 65."
+          },
+          {
+            "url": "https://naevneneshus.dk/naevnsoversigt/tvistighedsnaevnet/om-naevnet/",
+            "citat": "En sag, der er indbragt for nævnet, kan enten afgøres med et forlig mellem de to parter, eller ved at nævnet træffer afgørelse i sagen."
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Afsagt af Tvistighedsnævnet den \\d+\\. \\w+ \\d{4} i sag \\d+\\.\\d{4}",
+        "Tvistighedsnævnets kendelse"
+      ],
+      "note": "Sekretariat: Nævnenes Hus (BEK 1318/2023 § 6; sty-naevnenes-hus under Erhvervsministeriet). Kæden før nævnet: det faglige udvalg skal først have forsøgt forlig (bek § 7; erhvervsuddannelseslovens § 63). Erhvervsuddannelsesloven selv hører under min-undervisning; nævnet og bekendtgørelsen hører under min-erhverv. Ingen kilde efter 3/6/2026 bekræfter ressortet: Nævnenes Hus' side og lovens § 64 siger 'erhvervsministeren'. Præcis hvad § 65 giver af adgang til domstolene er ikke læst."
+    },
+    {
+      "id": "kilde-arbejdsretten-afgoerelser",
+      "navn": "Arbejdsretten og de faglige voldgiftsretters afgørelser (arbejdsretten.dk)",
+      "type": "dokumentkilde",
+      "ministerium": "ingen",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://arbejdsretten.dk/afgoerelser",
+        "belaeg": [
+          {
+            "url": "https://arbejdsretten.dk/",
+            "citat": "Arbejdsrettens dom af 22. september 2026 i sag 2024-414"
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "dom",
+            "bindende": "bindende",
+            "note": "Arbejdsretten"
+          },
+          {
+            "type": "kendelse",
+            "bindende": "bindende",
+            "note": "Faglige voldgiftsretter og Afskedigelsesnævnet"
+          },
+          {
+            "type": "protokollat med tilkendegivelse og forlig",
+            "bindende": "ukendt"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://arbejdsretten.dk/",
+            "citat": "Arbejdsrettens dom af 29. september 2026 i sag nr. 2025 - 430"
+          },
+          {
+            "url": "https://arbejdsretten.dk/",
+            "citat": "Protokollat med tilkendegivelse og forlig af 7. oktober 2026 i FV2026-422"
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML",
+          "PDF"
+        ],
+        "note": "Søgeside med facetter pr. instans (Arbejdsretten, Faglige voldgiftsretter, Afskedigelsesnævnet, Tjenestemandsretterne); hver afgørelse er en side med en PDF (fx /media/17742/…pdf). Ingen API fundet.",
+        "belaeg": [
+          {
+            "url": "https://arbejdsretten.dk/",
+            "citat": "Kendelse af 23. oktober 2026 i FV2025-1608"
+          },
+          {
+            "url": "https://arbejdsretten.dk/media/17742/afskesdigelsesnaevnets-kendelse-af-16-april-2021-i-sag-20201111-anonymiseret.pdf",
+            "citat": "KENDELSE i Afskedigelsesnævnets sag nr.: 20201111."
+          }
+        ]
+      },
+      "identifikatorer": {
+        "andet": "Arbejdsretten: sagsnummer ÅÅÅÅ-NNN (skrives både '2024-414' og '2025 - 430'). Faglige voldgiftsretter: FVÅÅÅÅ og et løbenummer på tre eller fire cifre, fx FV2026-422 og FV2025-1608. Afskedigelsesnævnet: ÅÅÅÅNNNN, fx 20201111.",
+        "belaeg": [
+          {
+            "url": "https://arbejdsretten.dk/",
+            "citat": "Arbejdsrettens dom af 22. september 2026 i sag 2024-414"
+          },
+          {
+            "url": "https://arbejdsretten.dk/",
+            "citat": "Protokollat med tilkendegivelse og forlig af 7. oktober 2026 i FV2026-422"
+          },
+          {
+            "url": "https://arbejdsretten.dk/media/17742/afskesdigelsesnaevnets-kendelse-af-16-april-2021-i-sag-20201111-anonymiseret.pdf",
+            "citat": "KENDELSE i Afskedigelsesnævnets sag nr.: 20201111."
+          }
+        ]
+      },
+      "opdatering": {
+        "frekvens": "løbende",
+        "versionshistorik": "Forsiden viser de seneste afgørelser med dato; hvor langt tilbage arkivet går er ikke fastslået.",
+        "belaeg": [
+          {
+            "url": "https://arbejdsretten.dk/",
+            "citat": "Kendelse af 23. oktober 2026 i FV2025-1608"
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 5,
+        "besvaer": 5,
+        "begrundelse": "Eneste samlede kilde til fagretlig praksis (domme, voldgiftskendelser, afskedigelsesnævn); HTML + PDF uden API, anonymiseret. Domme er endelige."
+      },
+      "note": "Statens arbejdsretlige domme på pav.medst.dk blev ikke fundet: pav.medst.dk er Personale Administrativ Vejledning, ikke en domssamling."
+    },
+    {
+      "id": "kilde-ligebehandlingsnaevnet-afgoerelser",
+      "navn": "Ligebehandlingsnævnets afgørelser (ast.dk og Retsinformation)",
+      "type": "dokumentkilde",
+      "ministerium": "min-social",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://www.ast.dk/naevn/ligebehandlingsnaevnet/afgoerelser-fra-ligebehandlingsnaevnet",
+        "belaeg": [
+          {
+            "url": "https://www.ast.dk/naevn/ligebehandlingsnaevnet/afgoerelser-fra-ligebehandlingsnaevnet",
+            "citat": "Her kan du søge i Ligebehandlingsnævnets afgørelser over alle former for forskelsbehandling. Søg tekst, journalnr., emneord, KEN nr."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse",
+            "bindende": "bindende",
+            "note": "Anonymiserede afgørelser med begrundelse; kan ikke indbringes for anden administrativ myndighed."
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1779",
+            "citat": "Nævnets afgørelser protokolleres og offentliggøres i anonymiseret form."
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML",
+          "ELI"
+        ],
+        "note": "Søgeside på ast.dk (fritekst, journalnr., emneord, KEN-nr., årsfilter); afgørelserne offentliggøres også som KEN-dokumenter på Retsinformation med ELI-adresse.",
+        "belaeg": [
+          {
+            "url": "https://www.ast.dk/naevn/ligebehandlingsnaevnet/afgoerelser-fra-ligebehandlingsnaevnet",
+            "citat": "Her kan du søge i Ligebehandlingsnævnets afgørelser over alle former for forskelsbehandling. Søg tekst, journalnr., emneord, KEN nr."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/retsinfo/2026/9954",
+            "citat": "Ligebehandlingsnævnets afgørelse om køn - genoptagelse - afvisning"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "andet": "Journalnummer ÅÅ-NNNNN (fx 26-71233) og KEN-nummer på Retsinformation (fx KEN nr. 9954 af 27/08/2026, ELI /eli/retsinfo/2026/9954).",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/retsinfo/2026/9954",
+            "citat": "Ligebehandlingsnævnets afgørelse om køn - genoptagelse - afvisning"
+          }
+        ]
+      },
+      "opdatering": {
+        "frekvens": "løbende",
+        "versionshistorik": "årsfilter fra 2026 og tilbage",
+        "belaeg": [
+          {
+            "url": "https://www.ast.dk/naevn/ligebehandlingsnaevnet/afgoerelser-fra-ligebehandlingsnaevnet",
+            "citat": "Vælg år 2026 2025 2024 2023 2022 2021 2020 2019 2018 2017 2016 2015"
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 5,
+        "besvaer": 4,
+        "begrundelse": "Eneste samlede praksiskilde for forskelsbehandling i ansættelsen; KEN-dokumenter på Retsinformation giver stabile ELI-adresser."
+      },
+      "note": "Årsfilteret på ast.dk går tilbage til 1949 (omfatter også ældre nævn/ankenævn); det er ikke undersøgt, hvilke ældre afgørelser der ligger der."
+    },
+    {
+      "id": "kilde-tvistighedsnaevnet-kendelser",
+      "navn": "Tvistighedsnævnets afgørelsesportal (tvist.naevneneshus.dk)",
+      "type": "dokumentkilde",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://tvist.naevneneshus.dk/",
+        "belaeg": [
+          {
+            "url": "https://tvist.naevneneshus.dk/media/documents/36.2024_Kendelse.pdf",
+            "citat": "Afsagt af Tvistighedsnævnet den 5. august 2025 i sag 36.2024"
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "kendelse",
+            "bindende": "bindende"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://tvist.naevneneshus.dk/media/documents/36.2024_Kendelse.pdf",
+            "citat": "Afsagt af Tvistighedsnævnet den 5. august 2025 i sag 36.2024"
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML",
+          "PDF"
+        ],
+        "note": "JavaScript-portal (Angular); hver kendelse er en PDF under /media/documents/. Portalen er også linket fra Nævnenes Hus' afgørelsesportal-oversigt.",
+        "belaeg": [
+          {
+            "url": "https://tvist.naevneneshus.dk/media/documents/36.2024_Kendelse.pdf",
+            "citat": "Afsagt af Tvistighedsnævnet den 5. august 2025 i sag 36.2024"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "andet": "Sagsnummer NN.ÅÅÅÅ (løbenummer.indbringelsesår), fx 36.2024; PDF-filer hedder fx 36.2024_Kendelse.pdf.",
+        "belaeg": [
+          {
+            "url": "https://tvist.naevneneshus.dk/media/documents/36.2024_Kendelse.pdf",
+            "citat": "Afsagt af Tvistighedsnævnet den 5. august 2025 i sag 36.2024"
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 3,
+        "besvaer": 3,
+        "begrundelse": "Snæver praksis (lærlingetvister); portal uden API."
+      }
+    }
+  ],
+  "kanter": [
+    {
+      "from": "min-beskaeftigelse-og-ligestilling",
+      "type": "ressortansvar",
+      "to": "lov-arbejdsretsloven",
+      "beskrivelse": "Arbejdsretsloven hører under beskæftigelsesministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/705",
+          "citat": "Herved bekendtgøres lov om Arbejdsretten og faglige voldgiftsretter jf. lovbekendtgørelse nr. 1003 af 24. august 2017, med de ændringer, der følger af § 50 i lov nr. 60 af 30. januar 2018"
+        }
+      ]
+    },
+    {
+      "from": "min-beskaeftigelse-og-ligestilling",
+      "type": "ressortansvar",
+      "to": "lov-forligsmandsloven",
+      "beskrivelse": "Forligsmandsloven hører under beskæftigelsesministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1290",
+          "citat": "Herved bekendtgøres lov om mægling i arbejdsstridigheder, jf. lovbekendtgørelse nr. 709 af 20. august 2002, med de ændringer, der følger af § 5 i lov nr. 502 af 20. maj 2025."
+        }
+      ]
+    },
+    {
+      "from": "min-beskaeftigelse-og-ligestilling",
+      "type": "ressortansvar",
+      "to": "lov-ligebehandlingsnaevnet",
+      "beskrivelse": "Loven om Ligebehandlingsnævnet hører under beskæftigelsesministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1779",
+          "citat": "Herved bekendtgøres lov om Ligebehandlingsnævnet, jf. lovbekendtgørelse nr. 1230 af 2. oktober 2016, med de ændringer, der følger af § 14 i lov nr. 688 af 8. juni 2018, § 3 i lov nr. 2591 af 28. december 2021 og § 3 i lov nr. 879 af 21. juni 2022."
+        }
+      ]
+    },
+    {
+      "from": "min-beskaeftigelse-og-ligestilling",
+      "type": "ressortansvar",
+      "to": "lov-ligebehandlingsloven",
+      "beskrivelse": "Ligebehandlingsloven hører under beskæftigelsesministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/942",
+          "citat": "Herved bekendtgøres lov om ligebehandling af mænd og kvinder med hensyn til beskæftigelse m.v., jf. lovbekendtgørelse nr. 645 af 8. juni 2011 med de ændringer, der følger af § 13 i lov nr. 533 af 18. juni 2012"
+        }
+      ]
+    },
+    {
+      "from": "min-beskaeftigelse-og-ligestilling",
+      "type": "ressortansvar",
+      "to": "lov-forskelsbehandlingsloven",
+      "beskrivelse": "Forskelsbehandlingsloven hører under beskæftigelsesministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/399",
+          "citat": "Herved bekendtgøres lov om forbud mod forskelsbehandling på arbejdsmarkedet m.v., jf. lovbekendtgørelse nr. 1001 af 24. august 2017, med de ændringer, der følger af § 2 i lov nr. 2591 af 28. december 2021"
+        }
+      ]
+    },
+    {
+      "from": "min-beskaeftigelse-og-ligestilling",
+      "type": "ressortansvar",
+      "to": "lov-funktionaerloven",
+      "beskrivelse": "Funktionærloven hører under beskæftigelsesministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2017/1002",
+          "citat": "Herved bekendtgøres lov om retsforholdet mellem arbejdsgivere og funktionærer, jf. lovbekendtgørelse nr. 81 af 3. februar 2009"
+        }
+      ]
+    },
+    {
+      "from": "min-undervisning",
+      "type": "ressortansvar",
+      "to": "lov-erhvervsuddannelser",
+      "beskrivelse": "Erhvervsuddannelsesloven hører under undervisningsministeren; Retsinformations ministeriefelt for LBK 381/2026 siger endnu det tidligere navn Børne- og Undervisningsministeriet (omdøbt 3/6/2026, jf. min-undervisning).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/381",
+          "citat": "Herved bekendtgøres lov om erhvervsuddannelser, jf. lovbekendtgørelse nr. 961 af 16. august 2024, med de ændringer, der følger af § 2 i lov nr. 1659 af 30. december 2024"
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "bek-tvistighedsnaevnet",
+      "beskrivelse": "Bekendtgørelsen er udstedt af Erhvervsministeriet (Nævnenes Hus), selv om erhvervsuddannelsesloven hører under undervisningsministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2023/1318",
+          "citat": "I medfør af § 64, stk. 6, i lov om erhvervsuddannelser, jf. lovbekendtgørelse nr. 1069 af 8. august 2023 og efter indstilling fra Tvistighedsnævnet og Rådet for de Grundlæggende Erhvervsrettede Uddannelser, fastsættes:"
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "naevn-tvistighedsnaevnet",
+      "beskrivelse": "Nævnet nedsættes af erhvervsministeren (erhvervsuddannelseslovens § 64) og er administrativt placeret i Nævnenes Hus.",
+      "belaeg": [
+        {
+          "url": "https://naevneneshus.dk/naevnsoversigt/tvistighedsnaevnet/om-naevnet/",
+          "citat": "Nævnet blev oprettet i 1989 og er nedsat af erhvervsministeren."
+        }
+      ]
+    },
+    {
+      "from": "min-social",
+      "type": "ressortansvar",
+      "to": "naevn-ligebehandlingsnaevnet",
+      "beskrivelse": "Ligebehandlingsnævnets afgørelser føres på Retsinformation under Socialministeriet (KEN nr. 9954 af 27/08/2026), og sekretariatet er i Ankestyrelsen. Loven hører under Beskæftigelses- og Ligestillingsministeriet, som beskikker formandskabet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/retsinfo/2026/9954",
+          "citat": "26-71233 Socialministeriet Ligebehandlingsnævnet Ligebehandlingsnævnets afgørelse om køn - genoptagelse - afvisning"
+        }
+      ]
+    },
+    {
+      "from": "lov-arbejdsretsloven",
+      "type": "hjemmel_for",
+      "to": "dom-arbejdsretten",
+      "beskrivelse": "§ 1: Arbejdsrettens domsmyndighed; § 9 opregner sagerne.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/705",
+          "citat": "Arbejdsrettens domsmyndighed omfatter behandlingen og afgørelsen af de i § 9 omhandlede sager."
+        }
+      ]
+    },
+    {
+      "from": "lov-arbejdsretsloven",
+      "type": "hjemmel_for",
+      "to": "org-faglige-voldgiftsretter",
+      "beskrivelse": "§ 25: faglig voldgiftsrets sammensætning; kap. 2 om sagsbehandling.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/705",
+          "citat": "En faglig voldgiftsret består af en opmand, der udpeges af Arbejdsrettens formand, jf. § 27, samt 4 andre medlemmer, hvoraf 2 medlemmer udpeges af lønmodtagerparten og 2 medlemmer af arbejdsgiverparten."
+        }
+      ]
+    },
+    {
+      "from": "lov-forligsmandsloven",
+      "type": "hjemmel_for",
+      "to": "sty-forligsinstitutionen",
+      "beskrivelse": "§ 1: forligsmændene udnævnes efter indstilling fra Arbejdsretten.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1290",
+          "citat": "Efter indstilling af Arbejdsretten udnævner beskæftigelsesministeren tre forligsmænd for hele landet med det hverv på de i denne lov angivne måder at medvirke til bilæggelse af stridigheder mellem arbejdsgivere og arbejdere."
+        }
+      ]
+    },
+    {
+      "from": "lov-ligebehandlingsnaevnet",
+      "type": "hjemmel_for",
+      "to": "naevn-ligebehandlingsnaevnet",
+      "beskrivelse": "§ 1 (kompetence), § 5 (Ankestyrelsen stiller sekretariat), § 9 (afgørelser kan ikke indbringes for anden administrativ myndighed).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1779",
+          "citat": "Ligebehandlingsnævnet behandler klager over forskelsbehandling på grund af køn, race, hudfarve, religion eller tro, politisk anskuelse, seksuel orientering, kønsidentitet, kønsudtryk og kønskarakteristika, alder, handicap eller national, social eller etnisk oprindelse, jf. stk. 2-7."
+        }
+      ]
+    },
+    {
+      "from": "lov-erhvervsuddannelser",
+      "type": "hjemmel_for",
+      "to": "naevn-tvistighedsnaevnet",
+      "beskrivelse": "§ 64 nedsætter nævnet; § 63, stk. 3 udelukker domstolsprøvelse og anden myndighed, jf. dog § 65.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/381",
+          "citat": "Tvistighedsnævnet nedsættes af erhvervsministeren og består af 1 formand, der skal være landsdommer, og 2 faste medlemmer, hvoraf 1 beskikkes efter indstilling fra Dansk Arbejdsgiverforening og 1 efter indstilling fra Fagbevægelsens Hovedorganisation."
+        }
+      ]
+    },
+    {
+      "from": "lov-erhvervsuddannelser",
+      "type": "hjemmel_for",
+      "to": "bek-tvistighedsnaevnet",
+      "beskrivelse": "Bekendtgørelsen er udstedt i medfør af § 64, stk. 6.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2023/1318",
+          "citat": "I medfør af § 64, stk. 6, i lov om erhvervsuddannelser, jf. lovbekendtgørelse nr. 1069 af 8. august 2023 og efter indstilling fra Tvistighedsnævnet og Rådet for de Grundlæggende Erhvervsrettede Uddannelser, fastsættes:"
+        }
+      ]
+    },
+    {
+      "from": "bek-tvistighedsnaevnet",
+      "type": "hjemmel_for",
+      "to": "naevn-tvistighedsnaevnet",
+      "beskrivelse": "§ 1 fastlægger nævnets opgaver, § 6 sekretariatsbistand fra Nævnenes Hus, § 7 forudgående forlig i det faglige udvalg.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2023/1318",
+          "citat": "Tvistighedsnævnet behandler tvistigheder mellem elever og lærlinge og oplæringsvirksomheder, jf. erhvervsuddannelseslovens § 65, stk. 1 og 2"
+        }
+      ]
+    },
+    {
+      "from": "lov-ligebehandlingsnaevnet",
+      "type": "henviser_til",
+      "to": "lov-ligebehandlingsloven",
+      "beskrivelse": "§ 1, stk. 2, nr. 3: nævnet behandler klager efter ligebehandlingsloven.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1779",
+          "citat": "Nævnet behandler klager over forskelsbehandling på grund af køn efter: 1) §§ 2, 2 a og 2 b i lov om ligestilling af kvinder og mænd. 2) Lov om lige løn til mænd og kvinder. 3) Lov om ligebehandling af mænd og kvinder med hensyn til beskæftigelse m.v."
+        }
+      ]
+    },
+    {
+      "from": "lov-ligebehandlingsnaevnet",
+      "type": "henviser_til",
+      "to": "lov-forskelsbehandlingsloven",
+      "beskrivelse": "§ 1, stk. 7 (og stk. 3-6): nævnet behandler klager efter forskelsbehandlingsloven.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1779",
+          "citat": "eller tilsvarende pligt til ikkeforskelsbehandling som lov om forbud mod forskelsbehandling på arbejdsmarkedet m.v."
+        }
+      ]
+    },
+    {
+      "from": "dom-arbejdsretten",
+      "type": "udsteder",
+      "to": "kilde-arbejdsretten-afgoerelser",
+      "beskrivelse": "Arbejdsretten offentliggør sine domme på arbejdsretten.dk.",
+      "belaeg": [
+        {
+          "url": "https://arbejdsretten.dk/",
+          "citat": "Arbejdsrettens dom af 29. september 2026 i sag nr. 2025 - 430"
+        }
+      ]
+    },
+    {
+      "from": "org-faglige-voldgiftsretter",
+      "type": "udsteder",
+      "to": "kilde-arbejdsretten-afgoerelser",
+      "beskrivelse": "Kendelser fra faglige voldgiftsretter offentliggøres på arbejdsretten.dk.",
+      "belaeg": [
+        {
+          "url": "https://arbejdsretten.dk/",
+          "citat": "Kendelse af 23. oktober 2026 i FV2025-1608"
+        }
+      ]
+    },
+    {
+      "from": "org-afskedigelsesnaevnet",
+      "type": "udsteder",
+      "to": "kilde-arbejdsretten-afgoerelser",
+      "beskrivelse": "Afskedigelsesnævnets kendelser offentliggøres (anonymiseret) på arbejdsretten.dk.",
+      "belaeg": [
+        {
+          "url": "https://arbejdsretten.dk/media/17742/afskesdigelsesnaevnets-kendelse-af-16-april-2021-i-sag-20201111-anonymiseret.pdf",
+          "citat": "KENDELSE i Afskedigelsesnævnets sag nr.: 20201111."
+        }
+      ]
+    },
+    {
+      "from": "naevn-ligebehandlingsnaevnet",
+      "type": "udsteder",
+      "to": "kilde-ligebehandlingsnaevnet-afgoerelser",
+      "beskrivelse": "Nævnets afgørelser offentliggøres i anonymiseret form (§ 9, stk. 2).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1779",
+          "citat": "Nævnets afgørelser protokolleres og offentliggøres i anonymiseret form."
+        }
+      ]
+    },
+    {
+      "from": "naevn-ligebehandlingsnaevnet",
+      "type": "udsteder",
+      "to": "kilde-retsinformation",
+      "beskrivelse": "Afgørelserne udgives som KEN-dokumenter på Retsinformation.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/retsinfo/2026/9954",
+          "citat": "Ligebehandlingsnævnets afgørelse om køn - genoptagelse - afvisning"
+        }
+      ]
+    },
+    {
+      "from": "naevn-tvistighedsnaevnet",
+      "type": "udsteder",
+      "to": "kilde-tvistighedsnaevnet-kendelser",
+      "beskrivelse": "Kendelser offentliggøres på nævnets afgørelsesportal.",
+      "belaeg": [
+        {
+          "url": "https://tvist.naevneneshus.dk/media/documents/36.2024_Kendelse.pdf",
+          "citat": "Afsagt af Tvistighedsnævnet den 5. august 2025 i sag 36.2024"
+        }
+      ]
+    }
+  ],
+  "rettelser": [],
+  "huller": [
+    {
+      "emne": "Statens arbejdsretlige domme og kendelser på pav.medst.dk",
+      "type": "ikke-fundet",
+      "beskrivelse": "pav.medst.dk er Medarbejder- og Kompetencestyrelsens Personale Administrativ Vejledning (36 kapitler om løn og ansættelsesvilkår i staten), ikke en samling af domme. Sporet var forkert; ingen node oprettet. Cirkulærer ligger på cirkulaere.medst.dk (ikke åbnet).",
+      "noder": [],
+      "kilder": [
+        "https://pav.medst.dk/"
+      ]
+    },
+    {
+      "emne": "Vilkår for genbrug af afgørelser på arbejdsretten.dk",
+      "type": "uklart",
+      "beskrivelse": "Siden har kun privatlivspolitik og tilgængelighedserklæring; ingen vilkårs- eller ophavsretstekst fundet. Fuldstændighed (alle domme vs. udvalgte kendelser) og arkivets startår er ikke belagt. Arbejdsretslovens § 28, stk. 7 siger blot, at voldgiftskendelser 'kan' offentliggøres efter anonymisering.",
+      "noder": [
+        "kilde-arbejdsretten-afgoerelser"
+      ],
+      "kilder": [
+        "https://arbejdsretten.dk/"
+      ]
+    },
+    {
+      "emne": "Afskedigelsesnævnets forretningsorden, sammensætning og egen hjemmeside",
+      "type": "uklart",
+      "beskrivelse": "Kun Hovedaftalens bestemmelse (2007-udgaven på arbejdsretten.dk) og én kendelse er læst. Nuværende parter (DA og FH) og forretningsorden (en 2006-udgave findes på fho.dk, ikke åbnet) er ikke verificeret. Afskedigelsesnævnet har ingen egen url; arbejdsretten.dk bruges.",
+      "noder": [
+        "org-afskedigelsesnaevnet"
+      ],
+      "kilder": [
+        "https://arbejdsretten.dk/arbejdsretten/regler"
+      ]
+    },
+    {
+      "emne": "Ligebehandlingsnævnets vilkår for genbrug og afgørelsernes ældste år",
+      "type": "uklart",
+      "beskrivelse": "Ingen licens- eller vilkårstekst fundet på ast.dk-søgesiden; Retsinformations vilkår gælder for KEN-dokumenterne. Søgesiden er JavaScript-baseret, så enkeltafgørelsers adresser på ast.dk er ikke åbnet.",
+      "noder": [
+        "kilde-ligebehandlingsnaevnet-afgoerelser"
+      ],
+      "kilder": [
+        "https://www.ast.dk/naevn/ligebehandlingsnaevnet/afgoerelser-fra-ligebehandlingsnaevnet"
+      ]
+    },
+    {
+      "emne": "Tvistighedsnævnets portal: opdatering og licens",
+      "type": "uklart",
+      "beskrivelse": "Portalen er en JavaScript-app uden tekst i HTML; ingen vilkår, opdateringsfrekvens eller startår fundet.",
+      "noder": [
+        "kilde-tvistighedsnaevnet-kendelser"
+      ],
+      "kilder": [
+        "https://tvist.naevneneshus.dk/"
+      ]
+    },
+    {
+      "emne": "Klageadgang efter Afskedigelsesnævnet, Tvistighedsnævnet og Ligebehandlingsnævnet til domstolene",
+      "type": "uklart",
+      "beskrivelse": "Erhvervsuddannelseslovens § 63, stk. 3 udelukker domstole 'jf. dog § 65', men § 65 er ikke læst. Ligebehandlingsnævnets afgørelser kan ikke indbringes administrativt (§ 9), og domstolsvejen findes ifølge sekundære kilder men er ikke belagt i loven her. Derfor ingen klageinstans-kanter til dom-byretterne.",
+      "noder": [
+        "naevn-tvistighedsnaevnet",
+        "naevn-ligebehandlingsnaevnet",
+        "org-afskedigelsesnaevnet"
+      ],
+      "kilder": [
+        "https://www.retsinformation.dk/eli/lta/2026/381"
+      ]
+    },
+    {
+      "emne": "Ligebehandlingsnævnets ressortministerium",
+      "type": "uklart",
+      "beskrivelse": "Lov om Ligebehandlingsnævnet hører under Beskæftigelses- og Ligestillingsministeriet, mens Retsinformation fører nævnets afgørelser under Socialministeriet, og sekretariatet ligger i Ankestyrelsen. Noden står under Socialministeriet; ingen kilde afgør, hvilket ministerium nævnet hører under i dag.",
+      "noder": [
+        "naevn-ligebehandlingsnaevnet",
+        "lov-ligebehandlingsnaevnet"
+      ],
+      "kilder": []
+    }
+  ],
+  "noter": "Genbrugt uden ny node: min-beskaeftigelse-og-ligestilling, min-undervisning, min-erhverv, min-social, kilde-retsinformation. Ikke brugt som kanter: sty-ankestyrelsen (sekretariat for Ligebehandlingsnævnet, lov § 5), sty-naevnenes-hus (sekretariat for Tvistighedsnævnet, bek § 6) og min-finans, dom-domstolene, dom-byretterne, dom-hoejesteret, sty-star, sty-arbejdstilsynet, raad-arbejdsmarkedsraadet, kilde-domsdatabasen (Arbejdsretten ligger uden for det almindelige domstolssystem og dens domme kan ikke ankes). Spor, der var forkerte: (1) Ligebehandlingsnævnets sekretariat er Ankestyrelsen, ikke Nævnenes Hus (og ligebehandlingsnaevnet.dk svarer ikke; nævnet er på ast.dk); (2) pav.medst.dk er ikke en domssamling; (3) Arbejdsretten offentliggør både domme og faglige voldgiftskendelser samt Afskedigelsesnævnets kendelser på arbejdsretten.dk; 'alle domme' er ikke belagt. Uden for området: Tjenestemandsretterne (samme sekretariat), arbejdsskader, arbejdsmiljø. Ministeriet for Tvistighedsnævnet er min-erhverv (nævnet nedsættes af erhvervsministeren), men erhvervsuddannelsesloven selv hører under min-undervisning. Ligebehandlingsnævnets ressort (min-social vs. min-beskaeftigelse-og-ligestilling) bør afklares. Retsinformation (kontrollerede lov-opslag) viser Børne- og Undervisningsministeriet for LBK 381/2026, Beskæftigelses- og Ligestillingsministeriet for de øvrige love. Forligsinstitutionens egen side henviser stadig til LBK 192/1997. Arbejdsrettens regelside linker stadig til LBK 1003/2017. [Orkestrator 2026-11-12: fjernet min-erhverv|ressortansvar|kilde-tvistighedsnaevnet-kendelser, min-social|ressortansvar|kilde-ligebehandlingsnaevnet-afgoerelser: ressortansvar går til instans eller retsakt, ikke til en dokumentkilde; kilden er koblet med udsteder-kanten.] [Orkestrator 2026-11-12: fjernet lov-arbejdsretsloven|hjemmel_for|org-afskedigelsesnaevnet: arbejdsretslovens § 34 handler om fuldbyrdelse af nævnets afgørelser, ikke om nævnets hjemmel, som er Hovedaftalen (kontrollantens indvending). Nummermønsteret for faglige voldgiftsretter er rettet, fordi belægget viser et firecifret løbenummer. Hullet om Ligebehandlingsnævnets ministerium er tilføjet.] [Orkestrator 2026-11-12: 1 ressortansvar-kanter til bekendtgørelser var afvist alene på kanttypen; de er sat til delvist, fordi typen bruges sådan i registry.]"
+}

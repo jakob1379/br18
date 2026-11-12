@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 141 · kanter: 217
+Noder: 180 · kanter: 292
 
 ```mermaid
 flowchart LR
@@ -16,12 +16,20 @@ flowchart LR
     classDef nedlagt fill:#fff,stroke:#999,color:#999,stroke-dasharray:4 3
     min_erhverv["Erhvervsministeriet"]:::ministerium
     eu_reg_2011_305["Byggevareforordningen (EU) nr. 305/2011 (CPR)"]:::eu
+    eu_dir_1999_92["Direktiv 1999/92/EF om minimumsforskrifter for sikkerhed og sundhed for arbejdstagere, som kan udsættes for risiko for eksplosiv atmosfære (ATEX-brugerdirektivet)"]:::eu
+    eu_dir_2000_54["Direktiv 2000/54/EF om beskyttelse af arbejdstagerne mod risici i forbindelse med at være udsat for biologiske agenser under arbejdet"]:::eu
+    eu_dir_2002_44["Direktiv 2002/44/EF om fysiske agenser (vibrationer)"]:::eu
+    eu_dir_2003_10["Direktiv 2003/10/EF om fysiske agenser (støj)"]:::eu
+    eu_dir_2004_37["Direktiv 2004/37/EF om beskyttelse af arbejdstagerne mod risici for at blive udsat for kræftfremkaldende stoffer, mutagener eller reproduktionstoksiske stoffer under arbejdet (CMRD)"]:::eu
     eu_dir_2006_42["Direktiv 2006/42/EF om maskiner (maskindirektivet)"]:::eu
+    eu_dir_2009_104["Direktiv 2009/104/EF om minimumsforskrifter for arbejdstagernes brug af arbejdsudstyr (arbejdsudstyrsdirektivet)"]:::eu
+    eu_dir_2009_148["Direktiv 2009/148/EF om beskyttelse af arbejdstagerne mod risici for asbestpåvirkning"]:::eu
     eu_dir_2011_92["Direktiv 2011/92/EU om vurdering af visse offentlige og private projekters indvirkning på miljøet (VVM)"]:::eu
     eu_dir_2013_29["Direktiv 2013/29/EU om tilgængeliggørelse af pyrotekniske artikler på markedet (omarbejdning)"]:::eu
     eu_dir_2014_33["Direktiv 2014/33/EU om elevatorer og sikkerhedskomponenter til elevatorer"]:::eu
     eu_dir_2014_34["Direktiv 2014/34/EU om materiel og sikringssystemer til anvendelse i eksplosionsfarlig atmosfære (ATEX-produktdirektivet)"]:::eu
     eu_dir_2014_68["Direktiv 2014/68/EU om trykbærende udstyr (PED)"]:::eu
+    eu_dir_2020_2184["Drikkevandsdirektivet – direktiv (EU) 2020/2184 af 16. december 2020 (omarbejdning)"]:::eu
     eu_dir_2005_36["Europa-Parlamentets og Rådets direktiv 2005/36/EF af 7. september 2005 om anerkendelse af erhvervsmæssige kvalifikationer"]:::eu
     eu_dir_2007_66["Europa-Parlamentets og Rådets direktiv 2007/66/EF om ændring af Rådets direktiv 89/665/EØF og 92/13/EØF om effektiviteten af klageprocedurerne vedrørende indgåelse af offentlige kontrakter (håndhævelsesdirektivet)"]:::eu
     eu_reg_2016_425["Forordning (EU) 2016/425 om personlige værnemidler (PPE-forordningen)"]:::eu
@@ -31,8 +39,13 @@ flowchart LR
     eu_dir_2014_35["Lavspændingsdirektivet 2014/35/EU"]:::eu
     eu_reg_2019_1020["Markedsovervågningsforordningen (EU) 2019/1020"]:::eu
     eu_reg_2024_3110["Revideret byggevareforordning (EU) 2024/3110"]:::eu
+    eu_dir_1989_391["Rådets direktiv 89/391/EØF (rammedirektivet om sikkerhed og sundhed under arbejdet)"]:::eu
+    eu_dir_1989_656["Rådets direktiv 89/656/EØF om minimumsforskrifter for arbejdstagernes brug af personlige værnemidler"]:::eu
+    eu_dir_1994_33["Rådets direktiv 94/33/EF om beskyttelse af unge på arbejdspladsen"]:::eu
+    eu_dir_1998_24["Rådets direktiv 98/24/EF om beskyttelse af arbejdstagernes sikkerhed og sundhed under arbejdet mod risici i forbindelse med kemiske agenser"]:::eu
     eu_dir_2012_18["Seveso III-direktivet (direktiv 2012/18/EU om kontrol med risikoen for større uheld med farlige stoffer)"]:::eu
     sty_arbejdstilsynet["Arbejdstilsynet"]:::instans
+    sty_den_maritime_havarikommission["Den Maritime Havarikommission"]:::instans
     raad_det_veterinaere_sundhedsraad["Det Veterinære Sundhedsråd"]:::instans
     org_energinet["Energinet"]:::instans
     sty_energistyrelsen["Energistyrelsen"]:::instans
@@ -40,6 +53,7 @@ flowchart LR
     org_finansiel_stabilitet["Finansiel Stabilitet"]:::instans
     sty_finanstilsynet["Finanstilsynet"]:::instans
     tilsyn_forsyningstilsynet["Forsyningstilsynet"]:::instans
+    sty_faerdselsstyrelsen["Færdselsstyrelsen"]:::instans
     sty_foedevarestyrelsen["Fødevarestyrelsen"]:::instans
     kommune_alle["Kommunerne (98 kommunalbestyrelser)"]:::instans
     sty_konkurrence_og_forbrugerstyrelsen["Konkurrence- og Forbrugerstyrelsen"]:::instans
@@ -50,24 +64,31 @@ flowchart LR
     sty_plan_og_landdistriktsstyrelsen["Plan- og Landdistriktsstyrelsen"]:::instans
     region_alle["Regionerne (5 regionsråd)"]:::instans
     raad_el_og_gasteknisk_sikkerhed["Rådet for El- og Gasteknisk Sikkerhed"]:::instans
+    raad_skibstilsynsraadet["Skibstilsynsrådet"]:::instans
     sty_groen_arealomlaegning_og_vandmiljoe["Styrelsen for Grøn Arealomlægning og Vandmiljø (SGAV)"]:::instans
+    sty_soefartsstyrelsen["Søfartsstyrelsen"]:::instans
     tilsyn_vandsektortilsynet["Vandsektortilsynet"]:::instans
     org_ankenaevnet_for_fondsmaeglerselskaber["Ankenævnet for Fondsmæglerselskaber"]:::kilde
     kilde_autorisationsregister["Autorisationsregister (el, VVS, kloak, gas, asbest)"]:::kilde
     kilde_bke_afgoerelser["Byggeklageenhedens afgørelser"]:::kilde
     std_ds_en_50110["DS/EN 50110 Drift af elektriske anlæg"]:::kilde
     std_ds_hd_60364["DS/HD 60364 Elektriske lavspændingsinstallationer"]:::kilde
+    kilde_dmaib_rapporter["Den Maritime Havarikommissions rapporter (dmaib.dk)"]:::kilde
     org_det_finansielle_ankenaevn["Det finansielle ankenævn"]:::kilde
     kilde_ekn_afgoerelser["Energiklagenævnets afgørelser (ekn.naevneneshus.dk)"]:::kilde
     kilde_ean_afgoerelser["Erhvervsankenævnets kendelser (ean.naevneneshus.dk)"]:::kilde
     kilde_findsmiley["Find Smiley (fødevarekontrollens kontrolrapporter)"]:::kilde
     kilde_mfkn_afgoerelser["MFKN afgørelsesportal (mfkn.naevneneshus.dk)"]:::kilde
+    kilde_meddelelser_fra_soefartsstyrelsen["Meddelelser fra Søfartsstyrelsen (tekniske forskrifter A, B, E, F)"]:::kilde
     kilde_mrf["Miljøretlig Forskningsportal (MRF), Københavns Universitet"]:::kilde
     kilde_naevneneshus_afgoerelser["Nævnenes Hus – afgørelser fra øvrige nævn (Energiklagenævnet, Byggeklageenheden, Erhvervsankenævnet m.fl.)"]:::kilde
     kilde_pkn_afgoerelser["Planklagenævnets afgørelser"]:::kilde
+    kilde_soefartsstyrelsen_regler["Søfartsstyrelsens regler og bekendtgørelser (soefartsstyrelsen.dk)"]:::kilde
     bv_tekniq_vejledninger["TEKNIQ's branchevejledninger (bl.a. om overtrædelse af autorisationsloven og elektronisk sameksistens/EMC)"]:::kilde
+    kilde_tvistighedsnaevnet_kendelser["Tvistighedsnævnets afgørelsesportal (tvist.naevneneshus.dk)"]:::kilde
     kilde_sik_dk["sik.dk (Sikkerhedsstyrelsens site, nu Erhvervsstyrelsen)"]:::kilde
     kilde_virk_nye_regler["virk.dk – Nye regler (oversigt over nye erhvervsrettede regler)"]:::kilde
+    naevn_ankenaevnet_for_soefartsforhold["Ankenævnet for Søfartsforhold"]:::klage
     naevn_byggeklageenheden["Byggeklageenheden"]:::klage
     dom_byretterne["Byretterne"]:::klage
     dom_domstolene["Domstolene (byret, landsret, Højesteret)"]:::klage
@@ -80,22 +101,28 @@ flowchart LR
     naevn_miljoe_og_foedevareklagenaevnet["Miljø- og Fødevareklagenævnet"]:::klage
     naevn_planklagenaevnet["Planklagenævnet"]:::klage
     naevn_taksationskommissionen["Taksationskommissionen (naturbeskyttelsesloven)"]:::klage
+    naevn_tvistighedsnaevnet["Tvistighedsnævnet"]:::klage
     min_by_land_og_transport["By-, Land- og Transportministeriet"]:::ministerium
     lov_visse_produkter["Lov nr. 155 af 20/02/2013 om indretning m.v. af visse produkter (ophævet)"]:::nedlagt
     sty_sikkerhedsstyrelsen["Sikkerhedsstyrelsen (nedlagt)"]:::nedlagt
     lov_arbejdsmiljoeloven["Arbejdsmiljøloven"]:::retsakt
+    bek_skibstilsynsraadet_forretningsorden["Bekendtgørelse af forretningsorden for Skibstilsynsrådet (BEK nr. 883 af 03/10/1996)"]:::retsakt
     bek_klagenaevn_sagsbehandlingslofter["Bekendtgørelse om (mål for) sagsbehandlingslofter i Miljø- og Fødevareklagenævnet, Planklagenævnet og Energiklagenævnet (BEK nr. 1555 af 2025; præcis titel ikke set)"]:::retsakt
+    bek_faerdselsstyrelsen_opgaver["Bekendtgørelse om Færdselsstyrelsens opgaver og beføjelser samt klageadgang (BEK nr. 787 af 2025)"]:::retsakt
     bek_klagenaevnet_for_udbud["Bekendtgørelse om Klagenævnet for Udbud (klagenævnsbekendtgørelsen)"]:::retsakt
     bek_konkurrenceankenaevnet["Bekendtgørelse om Konkurrenceankenævnet"]:::retsakt
     bek_raad_el_og_gasteknisk_sikkerhed["Bekendtgørelse om Rådet for El- og Gasteknisk Sikkerhed (2024)"]:::retsakt
+    bek_tvistighedsnaevnet["Bekendtgørelse om Tvistighedsnævnet"]:::retsakt
     bek_vandsektortilsynet["Bekendtgørelse om Vandsektortilsynets virksomhed"]:::retsakt
     bek_autorisation["Bekendtgørelse om autorisation og drift af virksomhed på el-, vvs- og kloakinstallationsområdet"]:::retsakt
+    bek_ankenaevn_soefartsforhold_forretningsorden["Bekendtgørelse om forretningsorden for Ankenævnet for Søfartsforhold (BEK nr. 1121 af 19/09/2013)"]:::retsakt
     bek_ekn_forretningsorden["Bekendtgørelse om forretningsorden for Energiklagenævnet"]:::retsakt
     bek_mfkn_forretningsorden["Bekendtgørelse om forretningsorden for Miljø- og Fødevareklagenævnet"]:::retsakt
     bek_pkn_forretningsorden["Bekendtgørelse om forretningsorden for Planklagenævnet (BEK nr. 20 af 11/01/2024)"]:::retsakt
     bek_pkn_gebyr["Bekendtgørelse om gebyr for indbringelse af klager for Planklagenævnet (BEK nr. 108 af 28/01/2017)"]:::retsakt
     bek_ekn_gebyr["Bekendtgørelse om gebyr ved indbringelse af en klage for Energiklagenævnet (BEK nr 568 af 24/06/2026)"]:::retsakt
     bek_co2_kvoter_henlaeggelse_erst["Bekendtgørelse om henlæggelse af visse beføjelser efter lov om CO2-kvoter til Erhvervsstyrelsen (ikrafttræden 1/1/2026)"]:::retsakt
+    bek_soefartsstyrelsen_henlaeggelse["Bekendtgørelse om henlæggelse af visse beføjelser til Søfartsstyrelsen og om klageadgang m.v. (BEK nr. 261 af 23/03/2020)"]:::retsakt
     bek_elevatorer["Bekendtgørelse om indretning m.v. af elevatorer og sikkerhedskomponenter til elevatorer"]:::retsakt
     bek_personlige_vaernemidler_indretning["Bekendtgørelse om indretning m.v. af personlige værnemidler (BEK nr 210 af 14/03/2018)"]:::retsakt
     bek_trykbaerende_udstyr["Bekendtgørelse om indretning m.v. af trykbærende udstyr"]:::retsakt
@@ -119,7 +146,9 @@ flowchart LR
     lov_gassikkerhedsloven["Gassikkerhedsloven (lov om sikkerhed ved gasanlæg, gasinstallationer og rørledninger til gas)"]:::retsakt
     lov_konkurrenceloven["Konkurrenceloven"]:::retsakt
     plan_detailhandel_hovedstadsomraadet["Landsplandirektiv for detailhandel i hovedstadsområdet (bekendtgørelse af 11/12/2018, eli/lta/2018/1488)"]:::retsakt
+    lov_lodsloven["Lodsloven (Bekendtgørelse af lodslov)"]:::retsakt
     lov_co2_kvoteloven["Lov om CO2-kvoter (CO2-kvoteloven), LOV nr 1767 af 28/12/2023"]:::retsakt
+    lov_dis_loven["Lov om Dansk Internationalt Skibsregister (DIS-loven)"]:::retsakt
     lov_energiklagenaevnsloven["Lov om Energiklagenævnet"]:::retsakt
     lov_energinetloven["Lov om Energinet"]:::retsakt
     lov_erhvervsankenaevnsloven["Lov om Erhvervsankenævnet"]:::retsakt
@@ -131,6 +160,7 @@ flowchart LR
     lov_autorisationsloven["Lov om autorisation af virksomheder på el-, vvs- og kloakinstallationsområdet (autorisationsloven)"]:::retsakt
     lov_dyrlaegeloven["Lov om dyrlæger"]:::retsakt
     lov_elforsyningsloven["Lov om elforsyning (elforsyningsloven)"]:::retsakt
+    lov_erhvervsuddannelser["Lov om erhvervsuddannelser (erhvervsuddannelsesloven)"]:::retsakt
     lov_masteloven["Lov om etablering og fælles udnyttelse af master til radiokommunikationsformål m.v. (masteloven)"]:::retsakt
     lov_energimaerkningsloven["Lov om fremme af energibesparelser i bygninger"]:::retsakt
     lov_ve_loven["Lov om fremme af vedvarende energi (VE-loven)"]:::retsakt
@@ -146,12 +176,21 @@ flowchart LR
     lov_planloven["Lov om planlægning (planloven)"]:::retsakt
     lov_produktloven["Lov om produkter og markedsovervågning (produktloven)"]:::retsakt
     lov_elsikkerhedsloven["Lov om sikkerhed for elektriske anlæg og elektriske installationer (elsikkerhedsloven)"]:::retsakt
+    lov_sikkerhed_til_soes["Lov om sikkerhed til søs"]:::retsakt
+    lov_sikkerhedsundersoegelse_soeulykker["Lov om sikkerhedsundersøgelse af ulykker til søs"]:::retsakt
+    lov_skibes_besaetning["Lov om skibes besætning"]:::retsakt
+    lov_soefarendes_ansaettelsesforhold["Lov om søfarendes ansættelsesforhold m.v."]:::retsakt
     lov_vandloebsloven["Lov om vandløb (vandløbsloven)"]:::retsakt
     lov_vandsektorloven["Lov om vandsektorens organisering og økonomiske forhold (vandsektorloven)"]:::retsakt
     lov_varmeforsyningsloven["Lov om varmeforsyning (varmeforsyningsloven)"]:::retsakt
+    bek_meddelelser_a["Meddelelser fra Søfartsstyrelsen A (arbejdsmiljø i skibe), BEK nr. 1246 af 11/12/2009"]:::retsakt
+    bek_meddelelser_b["Meddelelser fra Søfartsstyrelsen B (skibes bygning og udstyr), BEK nr. 1512 af 08/12/2016"]:::retsakt
+    bek_meddelelser_e["Meddelelser fra Søfartsstyrelsen E (fiskeskibes bygning og udstyr), BEK nr. 1459 af 14/12/2010"]:::retsakt
+    bek_meddelelser_f["Meddelelser fra Søfartsstyrelsen F (mindre erhvervsfartøjers bygning og udstyr), BEK nr. 1460 af 14/12/2010"]:::retsakt
     lov_museumsloven["Museumsloven"]:::retsakt
     bek_risiko["Risikobekendtgørelsen (bekendtgørelse om kontrol med risikoen for større uheld med farlige stoffer)"]:::retsakt
     vejl_sik_vejledninger["Sikkerhedsstyrelsens/Erhvervsstyrelsens vejledninger og fortolkninger (el, gas, VVS, kloak, asbest, autorisation)"]:::retsakt
+    lov_soeloven["Søloven"]:::retsakt
     vejl_fingerplan_2019["Vejledning om Fingerplan 2019 (VEJ nr. 9281 af 27/03/2019)"]:::retsakt
     vejl_henvisning_standarder["Vejledning om henvisning til visse internationale standarder i lovgivning (Erhvervsstyrelsen)"]:::retsakt
     vejl_planloven_vejledninger["Vejledninger til planloven (samling)"]:::retsakt
@@ -238,10 +277,10 @@ flowchart LR
     lov_ve_loven -->|hjemmel_for| naevn_energiklagenaevnet
     lov_visse_produkter -->|hjemmel_for| bek_elevatorer
     lov_visse_produkter -->|hjemmel_for| bek_personlige_vaernemidler_indretning
-    bek_atex_produkter -.->|implementerer_EU| eu_dir_2014_34
+    bek_atex_produkter -->|implementerer_EU| eu_dir_2014_34
     bek_elevatorer -->|implementerer_EU| eu_dir_2014_33
     bek_elmateriel -->|implementerer_EU| eu_dir_2014_35
-    bek_fyrvaerkeri -.->|implementerer_EU| eu_dir_2013_29
+    bek_fyrvaerkeri -->|implementerer_EU| eu_dir_2013_29
     bek_fyrvaerkeri_krav -.->|implementerer_EU| eu_dir_2013_29
     bek_gasmateriel -.->|implementerer_EU| eu_reg_2016_426
     bek_maskiner -->|implementerer_EU| eu_dir_2006_42
@@ -371,7 +410,82 @@ flowchart LR
     lov_dyrlaegeloven -.->|hjemmel_for| raad_det_veterinaere_sundhedsraad
     naevn_miljoe_og_foedevareklagenaevnet -->|klageinstans| sty_foedevarestyrelsen
     sty_foedevarestyrelsen -.->|udsteder| kilde_findsmiley
+    min_erhverv -.->|ressortansvar| bek_meddelelser_a
+    lov_sikkerhed_til_soes -->|hjemmel_for| bek_meddelelser_a
+    sty_soefartsstyrelsen -->|udsteder| bek_meddelelser_a
+    min_erhverv -.->|ressortansvar| bek_meddelelser_b
+    lov_sikkerhed_til_soes -->|hjemmel_for| bek_meddelelser_b
+    sty_soefartsstyrelsen -->|udsteder| bek_meddelelser_b
+    min_erhverv -.->|ressortansvar| bek_meddelelser_e
+    lov_sikkerhed_til_soes -->|hjemmel_for| bek_meddelelser_e
+    sty_soefartsstyrelsen -->|udsteder| bek_meddelelser_e
+    min_erhverv -.->|ressortansvar| bek_meddelelser_f
+    lov_sikkerhed_til_soes -->|hjemmel_for| bek_meddelelser_f
+    sty_soefartsstyrelsen -->|udsteder| bek_meddelelser_f
+    min_erhverv -->|ressortansvar| sty_soefartsstyrelsen
+    min_erhverv -.->|ressortansvar| naevn_ankenaevnet_for_soefartsforhold
+    min_erhverv -.->|ressortansvar| raad_skibstilsynsraadet
+    min_erhverv -->|ressortansvar| sty_den_maritime_havarikommission
+    min_erhverv -.->|ressortansvar| bek_ankenaevn_soefartsforhold_forretningsorden
+    min_erhverv -.->|ressortansvar| bek_skibstilsynsraadet_forretningsorden
+    min_erhverv -.->|ressortansvar| lov_sikkerhed_til_soes
+    min_erhverv -.->|ressortansvar| lov_soeloven
+    min_erhverv -->|ressortansvar| lov_skibes_besaetning
+    min_erhverv -.->|ressortansvar| lov_soefarendes_ansaettelsesforhold
+    min_erhverv -->|ressortansvar| lov_dis_loven
+    min_erhverv -.->|ressortansvar| lov_sikkerhedsundersoegelse_soeulykker
+    lov_sikkerhed_til_soes -->|hjemmel_for| sty_soefartsstyrelsen
+    lov_sikkerhed_til_soes -->|hjemmel_for| naevn_ankenaevnet_for_soefartsforhold
+    lov_sikkerhed_til_soes -->|hjemmel_for| raad_skibstilsynsraadet
+    lov_sikkerhed_til_soes -->|hjemmel_for| bek_ankenaevn_soefartsforhold_forretningsorden
+    lov_sikkerhed_til_soes -->|hjemmel_for| bek_skibstilsynsraadet_forretningsorden
+    lov_sikkerhedsundersoegelse_soeulykker -->|hjemmel_for| sty_den_maritime_havarikommission
+    lov_lodsloven -->|hjemmel_for| sty_soefartsstyrelsen
+    lov_sikkerhed_til_soes -->|hjemmel_for| bek_soefartsstyrelsen_henlaeggelse
+    bek_soefartsstyrelsen_henlaeggelse -.->|hjemmel_for| naevn_ankenaevnet_for_soefartsforhold
+    min_erhverv -.->|delegation| sty_soefartsstyrelsen
+    naevn_ankenaevnet_for_soefartsforhold -.->|klageinstans| sty_soefartsstyrelsen
+    dom_domstolene -->|klageinstans| naevn_ankenaevnet_for_soefartsforhold
+    sty_soefartsstyrelsen -->|udsteder| kilde_soefartsstyrelsen_regler
+    sty_soefartsstyrelsen -->|udsteder| kilde_meddelelser_fra_soefartsstyrelsen
+    sty_den_maritime_havarikommission -->|udsteder| kilde_dmaib_rapporter
+    min_erhverv -.->|ressortansvar| bek_tvistighedsnaevnet
+    min_erhverv -.->|ressortansvar| naevn_tvistighedsnaevnet
+    lov_erhvervsuddannelser -->|hjemmel_for| naevn_tvistighedsnaevnet
+    lov_erhvervsuddannelser -->|hjemmel_for| bek_tvistighedsnaevnet
+    bek_tvistighedsnaevnet -.->|hjemmel_for| naevn_tvistighedsnaevnet
+    naevn_tvistighedsnaevnet -->|udsteder| kilde_tvistighedsnaevnet_kendelser
+    bek_autorisation -->|implementerer_EU| eu_dir_2020_2184
+    lov_planklagenaevnsloven -->|hjemmel_for| bek_klagenaevn_sagsbehandlingslofter
+    lov_energiklagenaevnsloven -->|hjemmel_for| bek_klagenaevn_sagsbehandlingslofter
+    lov_produktloven -->|hjemmel_for| bek_maskinforordning_supplerende
+    lov_produktloven -->|hjemmel_for| bek_faerdselsstyrelsen_opgaver
+    lov_produktloven -->|implementerer_EU| eu_dir_2006_42
+    lov_produktloven -->|implementerer_EU| eu_dir_2013_29
+    lov_produktloven -->|implementerer_EU| eu_dir_2014_33
+    lov_produktloven -->|implementerer_EU| eu_dir_2014_34
+    lov_produktloven -->|implementerer_EU| eu_dir_2014_35
+    lov_produktloven -->|implementerer_EU| eu_dir_2014_68
+    lov_produktloven -->|implementerer_EU| eu_dir_2020_2184
+    lov_dis_loven -->|hjemmel_for| bek_soefartsstyrelsen_henlaeggelse
+    lov_soefarendes_ansaettelsesforhold -->|hjemmel_for| bek_soefartsstyrelsen_henlaeggelse
+    lov_soeloven -->|hjemmel_for| bek_soefartsstyrelsen_henlaeggelse
+    lov_skibes_besaetning -->|hjemmel_for| bek_soefartsstyrelsen_henlaeggelse
+    lov_sikkerhed_til_soes -->|implementerer_EU| eu_dir_1989_391
+    lov_sikkerhed_til_soes -->|implementerer_EU| eu_dir_1989_656
+    lov_sikkerhed_til_soes -->|implementerer_EU| eu_dir_1994_33
+    lov_sikkerhed_til_soes -->|implementerer_EU| eu_dir_1998_24
+    lov_sikkerhed_til_soes -->|implementerer_EU| eu_dir_1999_92
+    lov_sikkerhed_til_soes -->|implementerer_EU| eu_dir_2000_54
+    lov_sikkerhed_til_soes -->|implementerer_EU| eu_dir_2002_44
+    lov_sikkerhed_til_soes -->|implementerer_EU| eu_dir_2003_10
+    lov_sikkerhed_til_soes -->|implementerer_EU| eu_dir_2004_37
+    lov_sikkerhed_til_soes -->|implementerer_EU| eu_dir_2009_104
+    lov_sikkerhed_til_soes -->|implementerer_EU| eu_dir_2009_148
+    lov_soeloven -->|implementerer_EU| eu_dir_2005_36
+    lov_skibes_besaetning -->|implementerer_EU| eu_dir_2005_36
     bek_risiko -->|implementerer_EU| eu_dir_2012_18
+    bek_faerdselsstyrelsen_opgaver -->|hjemmel_for| sty_faerdselsstyrelsen
 ```
 
 [← Overblik](oversigt.md)

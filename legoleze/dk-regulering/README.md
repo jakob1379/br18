@@ -1,6 +1,6 @@
 # Dansk regulering: kortlægning til RAG
 
-**Kortlagt i dybden (registry):** byggeri · bolig · plan · energi · miljø · arbejdsmiljø · brand · el/gas/VVS. **Instanslag tilføjet i fase 7:** arbejdsmarked og ydelser · finansiel regulering · fiskeri · fødevarer · landbrug og dyr · skat og afgifter · social · sundhed · transport · udlændinge og integration (167 noder; senest opdateret 2026-11-12). **Bredt (katalog):** hele Lovtidende A – 62762 love, lovbekendtgørelser, bekendtgørelser og anordninger, heraf 13819 gældende. **Status pr. 2026-10-28** (katalogets dokumentstatus pr. 2026-06-12).
+**Kortlagt i dybden (registry):** byggeri · bolig · plan · energi · miljø · arbejdsmiljø · brand · el/gas/VVS. **Instanslag tilføjet i fase 7:** arbejdsmarked og ydelser · finansiel regulering · fiskeri · fødevarer · landbrug og dyr · persondata · skat og afgifter · social · søfart · strafferet og politi · sundhed · transport · udlændinge og integration (237 noder; senest opdateret 2026-11-12). **Bredt (katalog):** hele Lovtidende A – 62762 love, lovbekendtgørelser, bekendtgørelser og anordninger, heraf 13819 gældende. **Status pr. 2026-10-28** (katalogets dokumentstatus pr. 2026-06-12).
 
 Kortlægningen dækker myndigheder, retsakter, klage- og tilsynsveje, EU-retsakter og dokumentkilder. Den skal bruges til at bygge et krydsrefereret korpus (udvidelse af `jakob1379/br18`), hvor søgning kan følge hjemmelskæder fra lov til bekendtgørelse til vejledning til praksis. Der er **ikke** hentet dokumenter til korpusset; katalog-laget er metadata og krydsreferencer udledt af en offentlig bulk-høst.
 
@@ -11,7 +11,7 @@ To lag:
 
 | Fil | Indhold |
 |-----|---------|
-| [`registry.yaml`](registry.yaml) | **Sandheden.** Indeholder meta, regering, ressortomlægninger, uafklarede konflikter, 782 noder, 1611 kanter og 273 huller. |
+| [`registry.yaml`](registry.yaml) | **Sandheden.** Indeholder meta, regering, ressortomlægninger, uafklarede konflikter, 852 noder, 1869 kanter og 301 huller. |
 | [`diagrammer/oversigt.md`](diagrammer/oversigt.md) | Mermaid-overblik over ministerier og instanser, med ét diagram pr. ministerområde (21 aktive ministerier plus nedlagte/omdøbte). |
 | [`datakilder.md`](datakilder.md) | Datakilder sorteret efter ingest-prioritet (værdi ÷ besvær) i tre tabeller: portaler/databaser, udstedende instanser og retsakter/samlinger. |
 | [`huller.md`](huller.md) | Betalingsmur, kun PDF, intet API, uklare forhold og ikke-fundne kilder. |
@@ -112,16 +112,16 @@ Den fulde liste over ressortomlægninger med datoer og kilder står i `registry.
 ## Begrænsninger
 
 - **Fase 7 er kontrolleret mod selve siderne, fase 1–6 er ikke.** I første runde (skat, sundhed, finansiel, udlændinge) så kontrollanterne kun selve citatet og var ikke lige strenge: sundhed, finansiel og udlændinge er bedømt hårdere end skat, så `sandsynlig` betyder dér ofte kun, at en paragraf eller frist i påstanden ikke stod i citatet. Fra anden runde (social, arbejdsmarked, transport, fødevarer) får kontrollanten sidens tekst omkring citatet og paragraffen, så de to runders `sandsynlig` kan ikke sammenlignes direkte. Retsinformations ministeriefelt er ikke ført ajour for alle ældre dokumenter (fødevare- og sociallove står fx stadig under ministerienavne fra før 3/6/2026), så det bruges kun, når feltet med sikkerhed er sat efter regeringsdannelsen.
-- **Gældende version er slået op for retsakterne, ikke for teksten.** Den 12/11/2026 blev de 239 aktive love, bekendtgørelser og vejledninger med en adresse på Retsinformation slået op (`populate.py ajour`): 227 er gældende, 3 love pegede på en historisk lovbekendtgørelse og er flyttet til den gældende (sundhedsloven, erhvervslejeloven og havstrategiloven), og 9 bekendtgørelser er historiske, uden at afløseren er fundet (tidslinjen dækker kun love). Ændringslove, der er kommet efter den gældende lovbekendtgørelse, er ikke registreret. Journal: `raw/populate/2026-11-12-ajour.kontrol.json`.
+- **Retsakterne er slået op hos Retsinformation, teksten er ikke.** `populate.py ajour` slår hver aktiv lov, bekendtgørelse og vejledning med en adresse på Retsinformation op (281 noder, senest 2026-11-12). Historiske versioner flyttes til den gældende, og `identifikatorer.senere_aendringer` lister de ændringer, Retsinformation fører efter den gældende version: 128 retsakter har mindst én, 398 i alt, så den konsoliderede tekst skal læses sammen med dem. Hjemmel- og EU-kanter, som Retsinformation selv fører mellem to noder i registry, er bekræftet eller tilføjet; kanter til retsakter uden for registry er ikke med. Journal: `raw/populate/2026-11-12-ajour.kontrol.json`.
 - **WebFetch var blokeret i fase 1–6** af sessionens netværkspolitik for alle eksterne domæner, herunder retsinformation.dk og eur-lex.europa.eu. Al evidens er derfor søgeresultater (titel, URL og uddrag). `verificeret` betyder, at påstanden fremgår af et søgeresultat fra en officiel eller primær kilde, men siden er ikke åbnet direkte. Tillad fx `retsinformation.dk`, `eur-lex.europa.eu`, `ft.dk`, `naevneneshus.dk` og `sbst.dk` i miljøets netværksindstillinger, så kan næste iteration verificere mod selve dokumenterne.
 - **Katalog-lagets kilder er datasættets egne felter**, ikke søgeresultater: hver post citerer den ELI-XML-URL, seed-filen selv angiver, og repoet. Status er Retsinformations status ved høsten 2026-06-10–12 og kan være ændret siden. Dokumenter udstedt efter 2026-02-12 mangler.
 - **URL'er er aldrig konstrueret.** Er en side ikke set i et søgeresultat, står der `ikke fundet`, også når ELI-mønsteret gør adressen forudsigelig. ELI'er for 16 love og bekendtgørelser stammer fra `jakob1379/br18/xref-laws.toml`, som var tjekket mod Retsinformation 2026-10-26.
-- **Sikkerhedsfordeling** over alle påstandsfelter og kanter: verificeret 73 %, sandsynlig 18 %, ukendt 9 %.
+- **Sikkerhedsfordeling** over alle påstandsfelter og kanter: verificeret 74 %, sandsynlig 17 %, ukendt 9 %.
 - Ressortforhold ændrer sig ofte. Kortlægningen afspejler 2026-10-28, og nedlagte eller omdøbte instanser har `status` samt `tidligere_navne` med perioder.
 
 ## Datamodel (`registry.yaml`)
 
-**Noder** (bekendtgørelse 166, lov 145, dokumentkilde 78, eu-direktiv 68, styrelse 59, vejledning 35, privat-organisation 27, eu-forordning 25, ministerium 25, nævn 22, plan 20, klagenævn 16 …) har disse felter:
+**Noder** (bekendtgørelse 179, lov 167, dokumentkilde 86, eu-direktiv 69, styrelse 66, vejledning 35, privat-organisation 29, eu-forordning 26, nævn 26, ministerium 25, plan 20, klagenævn 17 …) har disse felter:
 
 - `id`, `navn`, `type`, `ministerium` (et ministerie-id eller `ingen`), `status` (aktiv/nedlagt/omdøbt/ophævet) og `domaener`.
 - Påstandsfelter, hver med egne `kilder[]` og `sikkerhed`:
@@ -136,7 +136,7 @@ Den fulde liste over ressortomlægninger med datoer og kilder står i `registry.
 - `krydsref_moenstre[]` med typiske henvisningsmønstre i teksten, nyttige som regex ved ingest.
 - `ingest` (værdi og besvær 1-5), `note` og `baseline`.
 
-**Kanter** (hjemmel_for 460, ressortansvar 315, udsteder 269, henviser_til 253, implementerer_EU 125, klageinstans 95, tilsyn 77, delegation 17) har `from`, `type`, `to`, `beskrivelse`, `kilder[]`, `sikkerhed` og `domaener`. `from` er altid den aktive part:
+**Kanter** (hjemmel_for 539, ressortansvar 361, udsteder 289, henviser_til 256, implementerer_EU 222, klageinstans 103, tilsyn 81, delegation 18) har `from`, `type`, `to`, `beskrivelse`, `kilder[]`, `sikkerhed` og `domaener`. `from` er altid den aktive part:
 
 | Kanttype | Betydning |
 |----------|-----------|
@@ -181,9 +181,9 @@ Id'erne er stabile og kan bruges som nøgler i korpusset.
 
 ## Huller (oversigt)
 
-uklart: 140, ikke-fundet: 88, andet: 20, ingen-api: 13, kun-pdf: 7, betalingsmur: 5. De vigtigste er:
+uklart: 158, ikke-fundet: 97, andet: 21, ingen-api: 13, kun-pdf: 7, betalingsmur: 5. De vigtigste er:
 
 - **Standarder og domspraksis står bag betalingsmur.** Det gælder DS/EN og Eurocodes (dog er de danske nationale annekser gratis på bygningsreglementet.dk), UfR/Karnov, BUILD/SBi, Molio og DBI.
 - **Afgørelsesportaler mangler API.** Nævnenes Hus' portaler (MFKN, PKN, EKN, Byggeklageenheden), Arbejdsmiljøklagenævnets afgørelser og Domsdatabasen (API kræver ansøgning) mangler API, bulk eller indeks. Mange afgørelser findes kun som PDF.
-- **Katalog-laget mangler præambel og EU-noter.** Hjemmel (`hjemmel_for`) kan derfor ikke udledes for de 62.762 katalog-dokumenter; den mest nævnte lov ramte kun hjemmelsloven i 34 af 113 kendte tilfælde og er ikke brugt. Cirkulærer, vejledninger, Lovtidende B/C og afgørelser er ikke i bulk-kilden, og dokumenter efter 2026-02-12 mangler. Retsinformations høsteservice (højst ét kald pr. 10 s) kan lukke hullerne, når netværkspolitikken tillader det.
+- **Katalog-laget mangler præambel og EU-noter.** Hjemmel (`hjemmel_for`) kan derfor ikke udledes for de 62.762 katalog-dokumenter; den mest nævnte lov ramte kun hjemmelsloven i 34 af 113 kendte tilfælde og er ikke brugt. Cirkulærer, vejledninger, Lovtidende B/C og afgørelser er ikke i bulk-kilden, og dokumenter efter 2026-02-12 mangler. Retsinformations høsteservice (højst ét kald pr. 10 s) kan lukke hullerne, når netværkspolitikken tillader det. Hjemmelskoblingen kræver ikke teksten: Retsinformations egne henvisninger (det, `populate.py lov` viser) lister for hver lov de bekendtgørelser, cirkulærer og vejledninger, der er udstedt i medfør af den, også dem fra efter 2026-02-12. Det er læst for registry'ets noder, ikke for kataloget; ét kald pr. gældende lov ville dække det.
 - **Ressort og status er uafklaret flere steder.** Det gælder bl.a. miljøvurderingsloven (Miljøministeriet eller Natur og Dyrevelfærd) og affaldsbekendtgørelsen (KEFM eller Miljøstyrelsen). Det gælder også Social- og Boligstyrelsens opdeling, udfasningen af navnet Kystdirektoratet og den danske gennemførelse af EPBD-recast, IED 2.0 og gasdirektivet 2024/1788.

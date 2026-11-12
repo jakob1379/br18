@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 27 · kanter: 30
+Noder: 28 · kanter: 31
 
 ```mermaid
 flowchart LR
@@ -16,6 +16,7 @@ flowchart LR
     classDef nedlagt fill:#fff,stroke:#999,color:#999,stroke-dasharray:4 3
     min_miljoe_og_ligestilling["Miljø- og Ligestillingsministeriet (2024-3/6/2026) (omdøbt)"]:::nedlagt
     eu_dir_1991_271["Byspildevandsdirektivet – Rådets direktiv 91/271/EØF af 21. maj 1991"]:::eu
+    eu_dir_2020_2184["Drikkevandsdirektivet – direktiv (EU) 2020/2184 af 16. december 2020 (omarbejdning)"]:::eu
     eu_reg_2006_1907["Forordning (EF) nr. 1907/2006 (REACH)"]:::eu
     eu_dir_2012_18["Seveso III-direktivet (direktiv 2012/18/EU om kontrol med risikoen for større uheld med farlige stoffer)"]:::eu
     kommune_alle["Kommunerne (98 kommunalbestyrelser)"]:::instans
@@ -71,6 +72,7 @@ flowchart LR
     bek_spildevand -->|hjemmel_for| plan_spildevandsplan
     bek_risiko -->|implementerer_EU| eu_dir_2012_18
     bek_spildevand -.->|implementerer_EU| eu_dir_1991_271
+    bek_vandindvinding -->|implementerer_EU| eu_dir_2020_2184
 ```
 
 [← Overblik](oversigt.md)

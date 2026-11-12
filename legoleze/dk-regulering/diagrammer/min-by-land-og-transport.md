@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 83 · kanter: 139
+Noder: 92 · kanter: 158
 
 ```mermaid
 flowchart LR
@@ -16,6 +16,7 @@ flowchart LR
     classDef nedlagt fill:#fff,stroke:#999,color:#999,stroke-dasharray:4 3
     min_by_land_og_transport["By-, Land- og Transportministeriet"]:::ministerium
     eu_dir_2024_1275["Direktiv (EU) 2024/1275 om bygningers energimæssige ydeevne (omarbejdning, EPBD)"]:::eu
+    eu_dir_2011_92["Direktiv 2011/92/EU om vurdering af visse offentlige og private projekters indvirkning på miljøet (VVM)"]:::eu
     eu_dir_1992_43["Direktiv 92/43/EØF om bevaring af naturtyper samt vilde dyr og planter (habitatdirektivet)"]:::eu
     eu_reg_2023_1804["Forordning (EU) 2023/1804 om etablering af infrastruktur for alternative drivmidler (AFIR)"]:::eu
     eu_dir_2009_147["Fuglebeskyttelsesdirektivet – direktiv 2009/147/EF af 30. november 2009"]:::eu
@@ -44,8 +45,10 @@ flowchart LR
     sty_by_og_landskabsstyrelsen["By- og Landskabsstyrelsen (nedlagt)"]:::nedlagt
     min_by_land_og_kirke["By-, Land- og Kirkeministeriet (nedlagt)"]:::nedlagt
     eu_dir_2010_31["Direktiv 2010/31/EU om bygningers energimæssige ydeevne (EPBD, som ændret ved 2018/844) (ophævet)"]:::nedlagt
+    eu_dir_2012_27["Europa-Parlamentets og Rådets direktiv 2012/27/EU af 25. oktober 2012 om energieffektivitet (EED) (ophævet)"]:::nedlagt
     eu_dir_2014_94["Europa-Parlamentets og Rådets direktiv 2014/94/EU af 22. oktober 2014 om etablering af infrastruktur for alternative drivmidler (AFID) (ophævet)"]:::nedlagt
     sty_trafik_bygge_og_boligstyrelsen["Trafik-, Bygge- og Boligstyrelsen (omdøbt)"]:::nedlagt
+    bek_klagenaevn_sagsbehandlingslofter["Bekendtgørelse om (mål for) sagsbehandlingslofter i Miljø- og Fødevareklagenævnet, Planklagenævnet og Energiklagenævnet (BEK nr. 1555 af 2025; præcis titel ikke set)"]:::retsakt
     bek_banedanmark_opgaver["Bekendtgørelse om Banedanmarks opgaver og beføjelser (BEK nr. 855 af 2023)"]:::retsakt
     bek_faerdselsstyrelsen_opgaver["Bekendtgørelse om Færdselsstyrelsens opgaver og beføjelser samt klageadgang (BEK nr. 787 af 2025)"]:::retsakt
     bek_jernbanenaevnet["Bekendtgørelse om Jernbanenævnet (BEK nr. 2424 af 2021)"]:::retsakt
@@ -58,8 +61,12 @@ flowchart LR
     bek_projektbekendtgoerelsen["Bekendtgørelse om godkendelse af projekter for kollektive varmeforsyningsanlæg (projektbekendtgørelsen)"]:::retsakt
     bek_plst_henlaeggelse["Bekendtgørelse om henlæggelse af visse opgaver og beføjelser til Plan- og Landdistriktsstyrelsen (BEK nr. 470/2023)"]:::retsakt
     bek_vindmoeller["Bekendtgørelse om planlægning for og tilladelse til opstilling af vindmøller (BEK nr. 923 af 06/09/2019)"]:::retsakt
+    bek_campingreglement["Bekendtgørelse om tilladelse til udlejning af arealer til campering og om indretning og benyttelse af campingpladser (campingreglementet) (BEK nr. 319 af 28/03/2019)"]:::retsakt
+    bek_lag["Bekendtgørelse om tilskud til lokale aktionsgrupper – lokalt styret udvikling (LEADER) (BEK nr. 948 af 2025)"]:::retsakt
     bek_farligt_gods_vejtransport["Bekendtgørelse om vejtransport af farligt gods (BEK nr. 915 af 2025)"]:::retsakt
+    lov_beredskabsloven["Beredskabsloven"]:::retsakt
     plan_fingerplan_2019["Fingerplan 2019 – Landsplandirektiv for hovedstadsområdets planlægning (BEK nr. 312/2019)"]:::retsakt
+    lov_forvaltningsloven["Forvaltningsloven"]:::retsakt
     lov_faerdselsloven["Færdselsloven"]:::retsakt
     bek_habitat["Habitatbekendtgørelsen (bekendtgørelse om udpegning og administration af internationale naturbeskyttelsesområder samt beskyttelse af visse arter)"]:::retsakt
     lov_jernbaneloven["Jernbaneloven"]:::retsakt
@@ -80,10 +87,12 @@ flowchart LR
     lov_godskoerselsloven["Lov om godskørsel"]:::retsakt
     lov_afi_loven["Lov om infrastruktur for alternative drivmidler til transport (AFI-loven)"]:::retsakt
     lov_kolonihaveloven["Lov om kolonihaver (kolonihaveloven)"]:::retsakt
+    lov_miljoebeskyttelsesloven["Lov om miljøbeskyttelse (miljøbeskyttelsesloven)"]:::retsakt
     lov_miljoevurderingsloven["Lov om miljøvurderinger (miljøvurderingsloven, VVM/SMV)"]:::retsakt
     lov_vejloven["Lov om offentlige veje m.v. (vejloven)"]:::retsakt
     lov_planloven["Lov om planlægning (planloven)"]:::retsakt
     lov_privatvejsloven["Lov om private fællesveje (privatvejsloven)"]:::retsakt
+    lov_produktloven["Lov om produkter og markedsovervågning (produktloven)"]:::retsakt
     lov_trafikselskabsloven["Lov om trafikselskaber"]:::retsakt
     lov_sommerhusloven["Lov om udlejning af fast ejendom til ferie- og fritidsformål m.v. og campering m.v. (sommerhusloven)"]:::retsakt
     lov_luftfartsloven["Luftfartsloven"]:::retsakt
@@ -151,7 +160,7 @@ flowchart LR
     bek_planlov_habitat -->|implementerer_EU| eu_dir_1992_43
     lov_afi_loven -->|implementerer_EU| eu_dir_2014_94
     lov_afi_loven -->|implementerer_EU| eu_reg_2023_1804
-    lov_planloven -.->|implementerer_EU| eu_dir_1992_43
+    lov_planloven -->|implementerer_EU| eu_dir_1992_43
     lov_planloven -.->|implementerer_EU| eu_dir_2009_147
     lov_planloven -.->|implementerer_EU| eu_dir_2012_18
     min_by_land_og_transport -->|klageinstans| sty_vejdirektoratet
@@ -215,7 +224,7 @@ flowchart LR
     lov_jernbaneloven -.->|hjemmel_for| sty_trafikstyrelsen
     lov_luftfartsloven -->|hjemmel_for| sty_trafikstyrelsen
     lov_vejloven -->|hjemmel_for| bek_trafikstyrelsen_opgaver
-    lov_jernbaneloven -.->|hjemmel_for| bek_trafikstyrelsen_opgaver
+    lov_jernbaneloven -->|hjemmel_for| bek_trafikstyrelsen_opgaver
     bek_trafikstyrelsen_opgaver -->|hjemmel_for| sty_trafikstyrelsen
     lov_jernbaneloven -->|hjemmel_for| bek_banedanmark_opgaver
     bek_banedanmark_opgaver -->|hjemmel_for| sty_banedanmark
@@ -231,11 +240,30 @@ flowchart LR
     sty_trafikstyrelsen -->|udsteder| kilde_trafikstyrelsen_bl_bj
     naevn_jernbanenaevnet -->|udsteder| kilde_jernbanenaevnet_afgoerelser
     min_by_land_og_transport -.->|klageinstans| sty_banedanmark
+    lov_beredskabsloven -->|hjemmel_for| bek_campingreglement
+    lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_campingreglement
+    lov_planklagenaevnsloven -->|hjemmel_for| bek_klagenaevn_sagsbehandlingslofter
+    lov_forvaltningsloven -->|hjemmel_for| bek_lag
+    lov_landdistriktsfonden -->|hjemmel_for| bek_plst_henlaeggelse
+    lov_jernbaneloven -->|hjemmel_for| bek_vd_opgaver
+    lov_faerdselsloven -->|hjemmel_for| bek_vd_opgaver
+    lov_afi_loven -->|hjemmel_for| bek_faerdselsstyrelsen_opgaver
+    lov_produktloven -->|hjemmel_for| bek_faerdselsstyrelsen_opgaver
+    lov_postloven -->|hjemmel_for| bek_trafikstyrelsen_opgaver
+    lov_trafikselskabsloven -->|hjemmel_for| bek_trafikstyrelsen_opgaver
+    lov_luftfartsloven -->|hjemmel_for| bek_trafikstyrelsen_opgaver
+    lov_faerdselsloven -->|hjemmel_for| bek_trafikstyrelsen_opgaver
+    lov_buskoerselsloven -->|hjemmel_for| bek_faerdselsstyrelsen_opgaver
+    lov_godskoerselsloven -->|hjemmel_for| bek_faerdselsstyrelsen_opgaver
+    lov_taxiloven -->|hjemmel_for| bek_faerdselsstyrelsen_opgaver
+    lov_trafikselskabsloven -->|hjemmel_for| bek_faerdselsstyrelsen_opgaver
+    lov_jernbaneloven -->|implementerer_EU| eu_dir_2011_92
     bek_br18 -->|hjemmel_for| reg_byggesagsgebyr
     bek_br18 -.->|implementerer_EU| eu_dir_2010_31
     bek_br18 -.->|implementerer_EU| eu_dir_2024_1275
     bek_habitat -->|implementerer_EU| eu_dir_1992_43
     bek_habitat -->|implementerer_EU| eu_dir_2009_147
+    bek_br18 -->|implementerer_EU| eu_dir_2012_27
 ```
 
 [← Overblik](oversigt.md)

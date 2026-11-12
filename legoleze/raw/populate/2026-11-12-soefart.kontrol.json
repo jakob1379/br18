@@ -1,0 +1,1791 @@
+[
+ {
+  "hvor": "sty-soefartsstyrelsen.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2022/221",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/346",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-soefartsstyrelsen.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.soefartsstyrelsen.dk/vaekst-and-rammevilkaar/regler-og-cirkulaerer/regler-og-bekendtgoerelser",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.soefartsstyrelsen.dk/vaekst-and-rammevilkaar/regler-og-cirkulaerer",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-soefartsstyrelsen.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.soefartsstyrelsen.dk/om-os",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-ankenaevnet-for-soefartsforhold.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2022/221",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-ankenaevnet-for-soefartsforhold.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2022/221",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-ankenaevnet-for-soefartsforhold.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://naevneneshus.dk/start-din-klage/ankenaevnet-for-soefartsforhold/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "raad-skibstilsynsraadet.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2022/221",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "raad-skibstilsynsraadet.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2022/221",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-den-maritime-havarikommission.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2011/457",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2011/457",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-den-maritime-havarikommission.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2011/457",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://dmaib.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-den-maritime-havarikommission.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://dmaib.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-dmaib-rapporter.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://dmaib.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-dmaib-rapporter.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://dmaib.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-dmaib-rapporter.adgang",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://dmaib.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-dmaib-rapporter.opdatering",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://dmaib.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-soefartsstyrelsen-regler.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.soefartsstyrelsen.dk/vaekst-and-rammevilkaar/regler-og-cirkulaerer/regler-og-bekendtgoerelser",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.soefartsstyrelsen.dk/vaekst-and-rammevilkaar/regler-og-cirkulaerer",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-soefartsstyrelsen-regler.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.soefartsstyrelsen.dk/vaekst-and-rammevilkaar/regler-og-cirkulaerer/regler-og-bekendtgoerelser",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-soefartsstyrelsen-regler.adgang",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.soefartsstyrelsen.dk/vaekst-and-rammevilkaar/regler-og-cirkulaerer/regler-og-bekendtgoerelser",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-soefartsstyrelsen-regler.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.soefartsstyrelsen.dk/vaekst-and-rammevilkaar/regler-og-cirkulaerer/regler-og-bekendtgoerelser",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-soefartsstyrelsen-regler.opdatering",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.soefartsstyrelsen.dk/vaekst-and-rammevilkaar/regler-og-cirkulaerer/regler-og-bekendtgoerelser",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-meddelelser-fra-soefartsstyrelsen.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2010/1459",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-meddelelser-fra-soefartsstyrelsen.url",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2016/1512",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-meddelelser-fra-soefartsstyrelsen.adgang",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2009/1246",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-meddelelser-fra-soefartsstyrelsen.identifikatorer",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/472",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/472",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-meddelelser-a.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2009/1246",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-meddelelser-a.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "129083",
+   "DocumentTitle": "Bekendtgørelse om Meddelelser fra Søfartsstyrelsen A, teknisk forskrift om arbejdsmiljø i skibe",
+   "Year": "2009",
+   "DiesSigni": "2009-12-11",
+   "Status": "Valid",
+   "Number": "1246",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-meddelelser-a.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "129083",
+   "DocumentTitle": "Bekendtgørelse om Meddelelser fra Søfartsstyrelsen A, teknisk forskrift om arbejdsmiljø i skibe",
+   "Year": "2009",
+   "DiesSigni": "2009-12-11",
+   "Status": "Valid",
+   "Number": "1246",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-meddelelser-a.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "129083",
+   "DocumentTitle": "Bekendtgørelse om Meddelelser fra Søfartsstyrelsen A, teknisk forskrift om arbejdsmiljø i skibe",
+   "Year": "2009",
+   "DiesSigni": "2009-12-11",
+   "Status": "Valid",
+   "Number": "1246",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2009/1246",
+   "lovtidende": "BEK nr. 1246 af 11/12/2009"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-meddelelser-b.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2016/1512",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-meddelelser-b.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "185405",
+   "DocumentTitle": "Bekendtgørelse om Meddelelser fra Søfartsstyrelsen B, skibes bygning og udstyr i skibe m.v.",
+   "Year": "2016",
+   "DiesSigni": "2016-12-08",
+   "Status": "Valid",
+   "Number": "1512",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-meddelelser-b.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "185405",
+   "DocumentTitle": "Bekendtgørelse om Meddelelser fra Søfartsstyrelsen B, skibes bygning og udstyr i skibe m.v.",
+   "Year": "2016",
+   "DiesSigni": "2016-12-08",
+   "Status": "Valid",
+   "Number": "1512",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-meddelelser-b.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "185405",
+   "DocumentTitle": "Bekendtgørelse om Meddelelser fra Søfartsstyrelsen B, skibes bygning og udstyr i skibe m.v.",
+   "Year": "2016",
+   "DiesSigni": "2016-12-08",
+   "Status": "Valid",
+   "Number": "1512",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2016/1512",
+   "lovtidende": "BEK nr. 1512 af 08/12/2016"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-meddelelser-e.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2010/1459",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-meddelelser-e.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "134654",
+   "DocumentTitle": "Bekendtgørelse om Meddelelser fra Søfartsstyrelsen E, Teknisk forskrift om fiskeskibes bygning og udstyr m.v.",
+   "Year": "2010",
+   "DiesSigni": "2010-12-14",
+   "Status": "Valid",
+   "Number": "1459",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-meddelelser-e.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "134654",
+   "DocumentTitle": "Bekendtgørelse om Meddelelser fra Søfartsstyrelsen E, Teknisk forskrift om fiskeskibes bygning og udstyr m.v.",
+   "Year": "2010",
+   "DiesSigni": "2010-12-14",
+   "Status": "Valid",
+   "Number": "1459",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-meddelelser-e.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "134654",
+   "DocumentTitle": "Bekendtgørelse om Meddelelser fra Søfartsstyrelsen E, Teknisk forskrift om fiskeskibes bygning og udstyr m.v.",
+   "Year": "2010",
+   "DiesSigni": "2010-12-14",
+   "Status": "Valid",
+   "Number": "1459",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2010/1459",
+   "lovtidende": "BEK nr. 1459 af 14/12/2010"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-meddelelser-f.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2010/1460",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-meddelelser-f.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "134655",
+   "DocumentTitle": "Bekendtgørelse om Meddelelser fra Søfartsstyrelsen F, teknisk forskrift om mindre erhvervsfartøjers bygning og udstyr m.v.",
+   "Year": "2010",
+   "DiesSigni": "2010-12-14",
+   "Status": "Valid",
+   "Number": "1460",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-meddelelser-f.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "134655",
+   "DocumentTitle": "Bekendtgørelse om Meddelelser fra Søfartsstyrelsen F, teknisk forskrift om mindre erhvervsfartøjers bygning og udstyr m.v.",
+   "Year": "2010",
+   "DiesSigni": "2010-12-14",
+   "Status": "Valid",
+   "Number": "1460",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-meddelelser-f.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "134655",
+   "DocumentTitle": "Bekendtgørelse om Meddelelser fra Søfartsstyrelsen F, teknisk forskrift om mindre erhvervsfartøjers bygning og udstyr m.v.",
+   "Year": "2010",
+   "DiesSigni": "2010-12-14",
+   "Status": "Valid",
+   "Number": "1460",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2010/1460",
+   "lovtidende": "BEK nr. 1460 af 14/12/2010"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-ankenaevn-soefartsforhold-forretningsorden.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2013/1121",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-ankenaevn-soefartsforhold-forretningsorden.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "158066",
+   "DocumentTitle": "Bekendtgørelse om forretningsorden for Ankenævnet for Søfartsforhold",
+   "Year": "2013",
+   "DiesSigni": "2013-09-19",
+   "Status": "Valid",
+   "Number": "1121",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-ankenaevn-soefartsforhold-forretningsorden.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "158066",
+   "DocumentTitle": "Bekendtgørelse om forretningsorden for Ankenævnet for Søfartsforhold",
+   "Year": "2013",
+   "DiesSigni": "2013-09-19",
+   "Status": "Valid",
+   "Number": "1121",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-ankenaevn-soefartsforhold-forretningsorden.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "158066",
+   "DocumentTitle": "Bekendtgørelse om forretningsorden for Ankenævnet for Søfartsforhold",
+   "Year": "2013",
+   "DiesSigni": "2013-09-19",
+   "Status": "Valid",
+   "Number": "1121",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2013/1121",
+   "lovtidende": "BEK nr. 1121 af 19/09/2013"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-skibstilsynsraadet-forretningsorden.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2022/221",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-skibstilsynsraadet-forretningsorden.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "Bekendtgørelse",
+   "UniqueDocumentId": "82652",
+   "DocumentTitle": "Bekendtgørelse af forretningsorden for Skibstilsynsrådet ",
+   "Year": "1996",
+   "DiesSigni": "1996-10-03",
+   "Status": "Valid",
+   "Number": "883",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-skibstilsynsraadet-forretningsorden.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "Bekendtgørelse",
+   "UniqueDocumentId": "82652",
+   "DocumentTitle": "Bekendtgørelse af forretningsorden for Skibstilsynsrådet ",
+   "Year": "1996",
+   "DiesSigni": "1996-10-03",
+   "Status": "Valid",
+   "Number": "883",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-skibstilsynsraadet-forretningsorden.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "Bekendtgørelse",
+   "UniqueDocumentId": "82652",
+   "DocumentTitle": "Bekendtgørelse af forretningsorden for Skibstilsynsrådet ",
+   "Year": "1996",
+   "DiesSigni": "1996-10-03",
+   "Status": "Valid",
+   "Number": "883",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/1996/883",
+   "lovtidende": "BEK nr. 883 af 03/10/1996"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-soefartsstyrelsen-henlaeggelse.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2020/261",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-soefartsstyrelsen-henlaeggelse.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "212711",
+   "DocumentTitle": "Bekendtgørelse om henlæggelse af visse beføjelser til Søfartsstyrelsen og om klageadgang m.v.",
+   "Year": "2020",
+   "DiesSigni": "2020-03-23",
+   "Status": "Valid",
+   "Number": "261",
+   "Ministry": "Ministeriet for Samfundssikkerhed og Beredskab"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-soefartsstyrelsen-henlaeggelse.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "212711",
+   "DocumentTitle": "Bekendtgørelse om henlæggelse af visse beføjelser til Søfartsstyrelsen og om klageadgang m.v.",
+   "Year": "2020",
+   "DiesSigni": "2020-03-23",
+   "Status": "Valid",
+   "Number": "261",
+   "Ministry": "Ministeriet for Samfundssikkerhed og Beredskab"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-soefartsstyrelsen-henlaeggelse.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "212711",
+   "DocumentTitle": "Bekendtgørelse om henlæggelse af visse beføjelser til Søfartsstyrelsen og om klageadgang m.v.",
+   "Year": "2020",
+   "DiesSigni": "2020-03-23",
+   "Status": "Valid",
+   "Number": "261",
+   "Ministry": "Ministeriet for Samfundssikkerhed og Beredskab"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2020/261",
+   "lovtidende": "BEK nr. 261 af 23/03/2020"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-sikkerhed-til-soes.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "224736",
+   "DocumentTitle": "Bekendtgørelse af lov om sikkerhed til søs",
+   "Year": "2022",
+   "DiesSigni": "2022-02-11",
+   "Status": "Valid",
+   "Number": "221",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-sikkerhed-til-soes.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "224736",
+   "DocumentTitle": "Bekendtgørelse af lov om sikkerhed til søs",
+   "Year": "2022",
+   "DiesSigni": "2022-02-11",
+   "Status": "Valid",
+   "Number": "221",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-sikkerhed-til-soes.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "224736",
+   "DocumentTitle": "Bekendtgørelse af lov om sikkerhed til søs",
+   "Year": "2022",
+   "DiesSigni": "2022-02-11",
+   "Status": "Valid",
+   "Number": "221",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-sikkerhed-til-soes.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "224736",
+   "DocumentTitle": "Bekendtgørelse af lov om sikkerhed til søs",
+   "Year": "2022",
+   "DiesSigni": "2022-02-11",
+   "Status": "Valid",
+   "Number": "221",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2022/221",
+   "lovtidende": "LBK nr. 221 af 11/02/2022"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-soeloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "250628",
+   "DocumentTitle": "Bekendtgørelse af søloven",
+   "Year": "2025",
+   "DiesSigni": "2025-06-18",
+   "Status": "Valid",
+   "Number": "776",
+   "PopularTitle": "Søloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-soeloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "250628",
+   "DocumentTitle": "Bekendtgørelse af søloven",
+   "Year": "2025",
+   "DiesSigni": "2025-06-18",
+   "Status": "Valid",
+   "Number": "776",
+   "PopularTitle": "Søloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-soeloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "250628",
+   "DocumentTitle": "Bekendtgørelse af søloven",
+   "Year": "2025",
+   "DiesSigni": "2025-06-18",
+   "Status": "Valid",
+   "Number": "776",
+   "PopularTitle": "Søloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-soeloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "250628",
+   "DocumentTitle": "Bekendtgørelse af søloven",
+   "Year": "2025",
+   "DiesSigni": "2025-06-18",
+   "Status": "Valid",
+   "Number": "776",
+   "PopularTitle": "Søloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2025/776",
+   "lovtidende": "LBK nr. 776 af 18/06/2025"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-skibes-besaetning.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "250858",
+   "DocumentTitle": "Bekendtgørelse af lov om skibes besætning",
+   "Year": "2025",
+   "DiesSigni": "2025-06-26",
+   "Status": "Valid",
+   "Number": "1001",
+   "PopularTitle": "Skibsbesætningsloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-skibes-besaetning.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "250858",
+   "DocumentTitle": "Bekendtgørelse af lov om skibes besætning",
+   "Year": "2025",
+   "DiesSigni": "2025-06-26",
+   "Status": "Valid",
+   "Number": "1001",
+   "PopularTitle": "Skibsbesætningsloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-skibes-besaetning.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "250858",
+   "DocumentTitle": "Bekendtgørelse af lov om skibes besætning",
+   "Year": "2025",
+   "DiesSigni": "2025-06-26",
+   "Status": "Valid",
+   "Number": "1001",
+   "PopularTitle": "Skibsbesætningsloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-skibes-besaetning.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "250858",
+   "DocumentTitle": "Bekendtgørelse af lov om skibes besætning",
+   "Year": "2025",
+   "DiesSigni": "2025-06-26",
+   "Status": "Valid",
+   "Number": "1001",
+   "PopularTitle": "Skibsbesætningsloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2025/1001",
+   "lovtidende": "LBK nr. 1001 af 26/06/2025"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-soefarendes-ansaettelsesforhold.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "239122",
+   "DocumentTitle": "Bekendtgørelse af lov om søfarendes ansættelsesforhold m.v.",
+   "Year": "2024",
+   "DiesSigni": "2024-04-09",
+   "Status": "Valid",
+   "Number": "335",
+   "PopularTitle": "Sømandsloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-soefarendes-ansaettelsesforhold.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "239122",
+   "DocumentTitle": "Bekendtgørelse af lov om søfarendes ansættelsesforhold m.v.",
+   "Year": "2024",
+   "DiesSigni": "2024-04-09",
+   "Status": "Valid",
+   "Number": "335",
+   "PopularTitle": "Sømandsloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-soefarendes-ansaettelsesforhold.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "239122",
+   "DocumentTitle": "Bekendtgørelse af lov om søfarendes ansættelsesforhold m.v.",
+   "Year": "2024",
+   "DiesSigni": "2024-04-09",
+   "Status": "Valid",
+   "Number": "335",
+   "PopularTitle": "Sømandsloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-soefarendes-ansaettelsesforhold.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "239122",
+   "DocumentTitle": "Bekendtgørelse af lov om søfarendes ansættelsesforhold m.v.",
+   "Year": "2024",
+   "DiesSigni": "2024-04-09",
+   "Status": "Valid",
+   "Number": "335",
+   "PopularTitle": "Sømandsloven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2024/335",
+   "lovtidende": "LBK nr. 335 af 09/04/2024"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-lodsloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "229273",
+   "DocumentTitle": "Bekendtgørelse af lodslov",
+   "Year": "2023",
+   "DiesSigni": "2023-03-29",
+   "Status": "Valid",
+   "Number": "346",
+   "PopularTitle": "Lodsloven",
+   "Ministry": "Ministeriet for Samfundssikkerhed og Beredskab"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-lodsloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "229273",
+   "DocumentTitle": "Bekendtgørelse af lodslov",
+   "Year": "2023",
+   "DiesSigni": "2023-03-29",
+   "Status": "Valid",
+   "Number": "346",
+   "PopularTitle": "Lodsloven",
+   "Ministry": "Ministeriet for Samfundssikkerhed og Beredskab"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-lodsloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "229273",
+   "DocumentTitle": "Bekendtgørelse af lodslov",
+   "Year": "2023",
+   "DiesSigni": "2023-03-29",
+   "Status": "Valid",
+   "Number": "346",
+   "PopularTitle": "Lodsloven",
+   "Ministry": "Ministeriet for Samfundssikkerhed og Beredskab"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-lodsloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "229273",
+   "DocumentTitle": "Bekendtgørelse af lodslov",
+   "Year": "2023",
+   "DiesSigni": "2023-03-29",
+   "Status": "Valid",
+   "Number": "346",
+   "PopularTitle": "Lodsloven",
+   "Ministry": "Ministeriet for Samfundssikkerhed og Beredskab"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2023/346",
+   "lovtidende": "LBK nr. 346 af 29/03/2023"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-dis-loven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "213859",
+   "DocumentTitle": "Bekendtgørelse af lov om Dansk Internationalt Skibsregister",
+   "Year": "2020",
+   "DiesSigni": "2020-04-01",
+   "Status": "Valid",
+   "Number": "390",
+   "PopularTitle": "DIS-loven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-dis-loven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "213859",
+   "DocumentTitle": "Bekendtgørelse af lov om Dansk Internationalt Skibsregister",
+   "Year": "2020",
+   "DiesSigni": "2020-04-01",
+   "Status": "Valid",
+   "Number": "390",
+   "PopularTitle": "DIS-loven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-dis-loven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "213859",
+   "DocumentTitle": "Bekendtgørelse af lov om Dansk Internationalt Skibsregister",
+   "Year": "2020",
+   "DiesSigni": "2020-04-01",
+   "Status": "Valid",
+   "Number": "390",
+   "PopularTitle": "DIS-loven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-dis-loven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "213859",
+   "DocumentTitle": "Bekendtgørelse af lov om Dansk Internationalt Skibsregister",
+   "Year": "2020",
+   "DiesSigni": "2020-04-01",
+   "Status": "Valid",
+   "Number": "390",
+   "PopularTitle": "DIS-loven",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2020/390",
+   "lovtidende": "LBK nr. 390 af 01/04/2020"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-sikkerhedsundersoegelse-soeulykker.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LOV H#LOKDOK01",
+   "UniqueDocumentId": "137060",
+   "DocumentTitle": "Lov om sikkerhedsundersøgelse af ulykker til søs",
+   "Year": "2011",
+   "DiesSigni": "2011-05-18",
+   "Status": "Valid",
+   "Number": "457",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-sikkerhedsundersoegelse-soeulykker.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LOV H#LOKDOK01",
+   "UniqueDocumentId": "137060",
+   "DocumentTitle": "Lov om sikkerhedsundersøgelse af ulykker til søs",
+   "Year": "2011",
+   "DiesSigni": "2011-05-18",
+   "Status": "Valid",
+   "Number": "457",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-sikkerhedsundersoegelse-soeulykker.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LOV H#LOKDOK01",
+   "UniqueDocumentId": "137060",
+   "DocumentTitle": "Lov om sikkerhedsundersøgelse af ulykker til søs",
+   "Year": "2011",
+   "DiesSigni": "2011-05-18",
+   "Status": "Valid",
+   "Number": "457",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-sikkerhedsundersoegelse-soeulykker.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LOV H#LOKDOK01",
+   "UniqueDocumentId": "137060",
+   "DocumentTitle": "Lov om sikkerhedsundersøgelse af ulykker til søs",
+   "Year": "2011",
+   "DiesSigni": "2011-05-18",
+   "Status": "Valid",
+   "Number": "457",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2011/457",
+   "lovtidende": "LOV nr. 457 af 18/05/2011"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|bek-meddelelser-a",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2009/1246",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-sikkerhed-til-soes|hjemmel_for|bek-meddelelser-a",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2009/1246",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-soefartsstyrelsen|udsteder|bek-meddelelser-a",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2009/1246",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|bek-meddelelser-b",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2016/1512",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-sikkerhed-til-soes|hjemmel_for|bek-meddelelser-b",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2016/1512",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-soefartsstyrelsen|udsteder|bek-meddelelser-b",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2016/1512",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|bek-meddelelser-e",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2010/1459",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-sikkerhed-til-soes|hjemmel_for|bek-meddelelser-e",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2010/1459",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-soefartsstyrelsen|udsteder|bek-meddelelser-e",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2010/1459",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|bek-meddelelser-f",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2010/1460",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-sikkerhed-til-soes|hjemmel_for|bek-meddelelser-f",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2010/1460",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-soefartsstyrelsen|udsteder|bek-meddelelser-f",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2010/1460",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|sty-soefartsstyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.soefartsstyrelsen.dk/om-os",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|naevn-ankenaevnet-for-soefartsforhold",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2022/221",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|raad-skibstilsynsraadet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2022/221",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|sty-den-maritime-havarikommission",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://dmaib.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|bek-ankenaevn-soefartsforhold-forretningsorden",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2013/1121",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|bek-skibstilsynsraadet-forretningsorden",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/1996/883",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-sikkerhed-til-soes",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2022/221",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-soeloven",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/776",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-skibes-besaetning",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1001",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-soefarendes-ansaettelsesforhold",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/335",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-dis-loven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2020/390",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-sikkerhedsundersoegelse-soeulykker",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2011/457",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-samfundssikkerhed-og-beredskab|ressortansvar|lov-lodsloven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/346",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-samfundssikkerhed-og-beredskab|ressortansvar|bek-soefartsstyrelsen-henlaeggelse",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2020/261",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-sikkerhed-til-soes|hjemmel_for|sty-soefartsstyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2022/221",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-sikkerhed-til-soes|hjemmel_for|naevn-ankenaevnet-for-soefartsforhold",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2022/221",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-sikkerhed-til-soes|hjemmel_for|raad-skibstilsynsraadet",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2022/221",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-sikkerhed-til-soes|hjemmel_for|bek-ankenaevn-soefartsforhold-forretningsorden",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2013/1121",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-sikkerhed-til-soes|hjemmel_for|bek-skibstilsynsraadet-forretningsorden",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2022/221",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-sikkerhedsundersoegelse-soeulykker|hjemmel_for|sty-den-maritime-havarikommission",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2011/457",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-lodsloven|hjemmel_for|sty-soefartsstyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/346",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-sikkerhed-til-soes|hjemmel_for|bek-soefartsstyrelsen-henlaeggelse",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2022/221",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-soefartsstyrelsen-henlaeggelse|hjemmel_for|naevn-ankenaevnet-for-soefartsforhold",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2020/261",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|delegation|sty-soefartsstyrelsen",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/472",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant naevn-ankenaevnet-for-soefartsforhold|klageinstans|sty-soefartsstyrelsen",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2020/261",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant dom-domstolene|klageinstans|naevn-ankenaevnet-for-soefartsforhold",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2022/221",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-soefartsstyrelsen|udsteder|kilde-soefartsstyrelsen-regler",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.soefartsstyrelsen.dk/vaekst-and-rammevilkaar/regler-og-cirkulaerer/regler-og-bekendtgoerelser",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-soefartsstyrelsen|udsteder|kilde-meddelelser-fra-soefartsstyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2010/1459",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-den-maritime-havarikommission|udsteder|kilde-dmaib-rapporter",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://dmaib.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ }
+]

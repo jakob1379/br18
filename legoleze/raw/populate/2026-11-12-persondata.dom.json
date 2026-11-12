@@ -1,0 +1,337 @@
+[
+ {
+  "hvor": "tilsyn-datatilsynet.hjemmel",
+  "dom": "delvist",
+  "grund": "Tilsyn og uafhængighed belagt; § 39, stk. 2 (domstolsprøvelse) fremgår ikke af belægget."
+ },
+ {
+  "hvor": "tilsyn-datatilsynet.dokumenttyper",
+  "dom": "delvist",
+  "grund": "Typerne belagt; bindende/vejledende-status, udtalelsen og domstolsprøvelse fremgår ikke af belægget."
+ },
+ {
+  "hvor": "tilsyn-datatilsynet.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "raad-dataraadet.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "raad-dataraadet.dokumenttyper",
+  "dom": "delvist",
+  "grund": "Datarådets afgørelser belagt; bindende-status fremgår ikke af belægget."
+ },
+ {
+  "hvor": "raad-dataraadet.url",
+  "dom": "delvist",
+  "grund": "Belægget er organisationssiden, ikke den påståede Datarådet-adresse /om-datatilsynet/dataraadet."
+ },
+ {
+  "hvor": "bek-dataraadet-forretningsorden.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-dataraadet-forretningsorden.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-dataraadet-forretningsorden.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-databeskyttelsesloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-databeskyttelsesloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-databeskyttelsesloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-retshaandhaevelsesloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-retshaandhaevelsesloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-retshaandhaevelsesloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-tv-overvaagningsloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-tv-overvaagningsloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-tv-overvaagningsloven.identifikatorer",
+  "dom": "delvist",
+  "grund": "Nummer 182 og ELI belagt; datoen 24/02/2023 fremgår ikke af belægget."
+ },
+ {
+  "hvor": "eu-reg-2016-679.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "eu-reg-2016-679.identifikatorer",
+  "dom": "delvist",
+  "grund": "EU-Tidende-henvisningen belagt; CELEX 32016R0679 fremgår ikke af belægget."
+ },
+ {
+  "hvor": "eu-dir-2016-680.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "eu-dir-2016-680.identifikatorer",
+  "dom": "delvist",
+  "grund": "EU-Tidende-henvisningen belagt; CELEX 32016L0680 fremgår ikke af belægget."
+ },
+ {
+  "hvor": "eu-edpb.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "eu-edpb.dokumenttyper",
+  "dom": "delvist",
+  "grund": "Retningslinjer belagt; bindende afgørelser efter art. 65 fremgår ikke af belægget."
+ },
+ {
+  "hvor": "eu-edpb.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-datatilsynet-afgoerelser.dokumenttyper",
+  "dom": "delvist",
+  "grund": "Afgørelser belagt; udtalelser og bindende-status fremgår ikke af kildens belæg."
+ },
+ {
+  "hvor": "kilde-datatilsynet-afgoerelser.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-datatilsynet-afgoerelser.adgang",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-datatilsynet-afgoerelser.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-datatilsynet-afgoerelser.opdatering",
+  "dom": "delvist",
+  "grund": "Årsmapper og historiske afgørelser belagt; 'løbende' og 'kun udvalgte' fremgår ikke af belægget."
+ },
+ {
+  "hvor": "kilde-datatilsynet-vejledninger.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-datatilsynet-vejledninger.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-datatilsynet-vejledninger.adgang",
+  "dom": "delvist",
+  "grund": "HTML og oversigtsside belagt; PDF-adgang og cdn-adressen fremgår ikke af belægget."
+ },
+ {
+  "hvor": "kilde-datatilsynet-vejledninger.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-datatilsynet-vejledninger.opdatering",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-edpb-oss-register.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-edpb-oss-register.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-edpb-oss-register.adgang",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-edpb-oss-register.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-edpb-oss-register.opdatering",
+  "dom": "delvist",
+  "grund": "Registeret belagt; 'løbende' og 'seneste post 10/8/2026' fremgår ikke af dette belæg."
+ },
+ {
+  "hvor": "kilde-edpb-retningslinjer.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-edpb-retningslinjer.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-edpb-retningslinjer.adgang",
+  "dom": "delvist",
+  "grund": "Filtre og høring belagt; PDF-adgang fremgår ikke af belægget."
+ },
+ {
+  "hvor": "kilde-edpb-retningslinjer.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-edpb-retningslinjer.opdatering",
+  "dom": "delvist",
+  "grund": "Høring af udkast belagt; 'løbende' opdatering fremgår ikke af belægget."
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|tilsyn-datatilsynet",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|raad-dataraadet",
+  "dom": "delvist",
+  "grund": "Lovtekst siger at justitsministeren nedsætter Datarådet; ressort i dag fremgår ikke af belægget."
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|lov-databeskyttelsesloven",
+  "dom": "delvist",
+  "grund": "Lovtekst nævner minister; ministeriefelt eller ressort fremgår ikke af dette belæg."
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|lov-retshaandhaevelsesloven",
+  "dom": "delvist",
+  "grund": "Ministeriefeltet Justitsministeriet fremgår ikke af uddraget."
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|lov-tv-overvaagningsloven",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|bek-dataraadet-forretningsorden",
+  "dom": "delvist",
+  "grund": "Orkestrator: kontrollanten afviste kanttypen, men registry bruger ressortansvar til bekendtgørelser (44 kanter i forvejen); belægget viser ikke ministeriet, så kanten er højst sandsynlig."
+ },
+ {
+  "hvor": "kant lov-databeskyttelsesloven|hjemmel_for|tilsyn-datatilsynet",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-databeskyttelsesloven|hjemmel_for|raad-dataraadet",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-databeskyttelsesloven|hjemmel_for|bek-dataraadet-forretningsorden",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-databeskyttelsesloven|hjemmel_for|sty-domstolsstyrelsen",
+  "dom": "delvist",
+  "grund": "Tilsyn med domstolene (§ 37) belagt; § 38 og endelighed fremgår ikke af dette belæg."
+ },
+ {
+  "hvor": "kant lov-retshaandhaevelsesloven|hjemmel_for|tilsyn-datatilsynet",
+  "dom": "delvist",
+  "grund": "Tilsyn (§ 37) belagt; § 42, stk. 2 fremgår ikke af belægget."
+ },
+ {
+  "hvor": "kant lov-retshaandhaevelsesloven|hjemmel_for|sty-domstolsstyrelsen",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-tv-overvaagningsloven|hjemmel_for|tilsyn-datatilsynet",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-databeskyttelsesloven|henviser_til|eu-reg-2016-679",
+  "dom": "delvist",
+  "grund": "Orkestrator: omtypet fra implementerer_EU efter kontrollantens indvending; ikke uafhængigt bedømt."
+ },
+ {
+  "hvor": "kant lov-retshaandhaevelsesloven|implementerer_EU|eu-dir-2016-680",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant eu-reg-2016-679|hjemmel_for|eu-edpb",
+  "dom": "delvist",
+  "grund": "Orkestrator: kontrollanten afviste kanttypen, men registry bruger hjemmel_for fra EU-forordning til EU-organ; belægget er ikke bedømt på indhold."
+ },
+ {
+  "hvor": "kant sty-domstolsstyrelsen|tilsyn|dom-domstolene",
+  "dom": "delvist",
+  "grund": "Tilsyn over domstolene belagt i databeskyttelsesloven; retshåndhævelseslovens § 38 fremgår ikke."
+ },
+ {
+  "hvor": "kant dom-domstolene|klageinstans|tilsyn-datatilsynet",
+  "dom": "delvist",
+  "grund": "Domstolsprøvelse (§ 39, stk. 2) belagt; § 30, stk. 1 fremgår ikke af belægget."
+ },
+ {
+  "hvor": "kant tilsyn-datatilsynet|udsteder|kilde-datatilsynet-afgoerelser",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant tilsyn-datatilsynet|udsteder|kilde-datatilsynet-vejledninger",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant eu-edpb|udsteder|kilde-edpb-oss-register",
+  "dom": "baerer",
+  "grund": "Orkestrator: kontrollanten fandt udgivelsen belagt og afviste kun id-præfikset; EU-institutioner har eu-id'er i registry."
+ },
+ {
+  "hvor": "kant eu-edpb|udsteder|kilde-edpb-retningslinjer",
+  "dom": "baerer",
+  "grund": "Orkestrator: kontrollanten fandt udgivelsen belagt og afviste kun id-præfikset; EU-institutioner har eu-id'er i registry."
+ }
+]

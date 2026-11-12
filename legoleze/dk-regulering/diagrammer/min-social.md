@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 67 · kanter: 86
+Noder: 74 · kanter: 95
 
 ```mermaid
 flowchart LR
@@ -17,6 +17,7 @@ flowchart LR
     min_social["Socialministeriet"]:::ministerium
     eu_reg_2011_305["Byggevareforordningen (EU) nr. 305/2011 (CPR)"]:::eu
     eu_dir_2024_1275["Direktiv (EU) 2024/1275 om bygningers energimæssige ydeevne (omarbejdning, EPBD)"]:::eu
+    eu_dir_2005_36["Europa-Parlamentets og Rådets direktiv 2005/36/EF af 7. september 2005 om anerkendelse af erhvervsmæssige kvalifikationer"]:::eu
     eu_reg_2019_1020["Markedsovervågningsforordningen (EU) 2019/1020"]:::eu
     eu_reg_2024_3110["Revideret byggevareforordning (EU) 2024/3110"]:::eu
     sty_ankestyrelsen["Ankestyrelsen"]:::instans
@@ -40,7 +41,9 @@ flowchart LR
     kilde_ast_principmeddelelser["Ankestyrelsens principmeddelelser og tilsynsudtalelser"]:::kilde
     kilde_ast_tilsynsudtalelser["Ankestyrelsens udtalelsesdatabase (kommunaltilsynet)"]:::kilde
     std_eurocodes["Eurocodes (DS/EN 1990-1999) med danske nationale annekser"]:::kilde
+    kilde_ligebehandlingsnaevnet_afgoerelser["Ligebehandlingsnævnets afgørelser (ast.dk og Retsinformation)"]:::kilde
     kilde_parallelsamfundslister["Liste over parallelsamfund og liste over omdannelsesområder (offentliggøres årligt 1. december efter almenboligloven § 61 a)"]:::kilde
+    kilde_retsinformation["Retsinformation"]:::kilde
     kilde_tilbudsportalen["Tilbudsportalen"]:::kilde
     kilde_bygningsreglementet_dk["bygningsreglementet.dk"]:::kilde
     naevn_arbejdsmiljoeklagenaevnet["Arbejdsmiljøklagenævnet"]:::klage
@@ -48,9 +51,12 @@ flowchart LR
     naevn_boerne_og_ungeudvalg["Børne- og ungeudvalget (kommunalt)"]:::klage
     naevn_socialfaglige_naevn_magtanvendelse["Det Socialfaglige Nævn vedrørende Magtanvendelse over for Borgere med Handicap"]:::klage
     ombud_folketingets_ombudsmand["Folketingets Ombudsmand"]:::klage
+    naevn_ligebehandlingsnaevnet["Ligebehandlingsnævnet"]:::klage
+    naevn_ungdomskriminalitetsnaevnet["Ungdomskriminalitetsnævnet"]:::klage
     min_boern_aeldre_og_bolig["Børne-, Ældre- og Boligministeriet"]:::ministerium
     min_oekonomi_og_indenrigs["Økonomi- og Indenrigsministeriet"]:::ministerium
     eu_dir_2010_31["Direktiv 2010/31/EU om bygningers energimæssige ydeevne (EPBD, som ændret ved 2018/844) (ophævet)"]:::nedlagt
+    eu_dir_2012_27["Europa-Parlamentets og Rådets direktiv 2012/27/EU af 25. oktober 2012 om energieffektivitet (EED) (ophævet)"]:::nedlagt
     eu_dec_2012_21["Kommissionens afgørelse 2012/21/EU af 20. december 2011 om SGEI-kompensation (ophævet)"]:::nedlagt
     lov_barnets_lov["Barnets lov"]:::retsakt
     bek_danak_byggevarer["Bekendtgørelse om DANAK's opgaver vedrørende notificerede organer, der fører 3. partskontrol med byggevarer, og om tekniske vurderingsorganer (BEK nr. 1744 af 2025)"]:::retsakt
@@ -67,6 +73,7 @@ flowchart LR
     vejl_br18_vejledninger["Bygningsreglementets vejledninger og 'Spørgsmål og svar' (samling)"]:::retsakt
     reg_byggesagsgebyr["Kommunale gebyrer for byggesagsbehandling (gebyrinstruks/takstblad)"]:::retsakt
     lov_kommunestyrelsesloven["Kommunestyrelsesloven (lov om kommunernes styrelse)"]:::retsakt
+    lov_ligebehandlingsnaevnet["Lov om Ligebehandlingsnævnet"]:::retsakt
     lov_seniorpensionsenheden["Lov om Seniorpensionsenheden"]:::retsakt
     lov_udbetaling_danmark["Lov om Udbetaling Danmark"]:::retsakt
     lov_aktiv_beskaeftigelsesindsats["Lov om en aktiv beskæftigelsesindsats (LAB)"]:::retsakt
@@ -137,7 +144,7 @@ flowchart LR
     lov_serviceloven -->|hjemmel_for| naevn_socialfaglige_naevn_magtanvendelse
     lov_serviceloven -->|hjemmel_for| bek_forretningsorden_socialfaglige_naevn
     bek_forretningsorden_socialfaglige_naevn -->|hjemmel_for| naevn_socialfaglige_naevn_magtanvendelse
-    lov_retssikkerhedsloven_social -.->|hjemmel_for| bek_raad_paa_det_sociale_omraade
+    lov_retssikkerhedsloven_social -->|hjemmel_for| bek_raad_paa_det_sociale_omraade
     bek_raad_paa_det_sociale_omraade -->|hjemmel_for| raad_boerneraadet
     bek_raad_paa_det_sociale_omraade -->|hjemmel_for| raad_det_centrale_handicapraad
     sty_ankestyrelsen -->|klageinstans| naevn_boerne_og_ungeudvalg
@@ -153,6 +160,12 @@ flowchart LR
     lov_sygedagpenge -->|henviser_til| lov_retssikkerhedsloven_social
     lov_udbetaling_danmark -->|henviser_til| lov_retssikkerhedsloven_social
     sty_ankestyrelsen -.->|klageinstans| org_arbejdsmarkedets_erhvervssikring
+    sty_ankestyrelsen -->|klageinstans| naevn_ungdomskriminalitetsnaevnet
+    min_social -->|ressortansvar| naevn_ligebehandlingsnaevnet
+    lov_ligebehandlingsnaevnet -.->|hjemmel_for| naevn_ligebehandlingsnaevnet
+    naevn_ligebehandlingsnaevnet -->|udsteder| kilde_ligebehandlingsnaevnet_afgoerelser
+    naevn_ligebehandlingsnaevnet -->|udsteder| kilde_retsinformation
+    lov_serviceloven -->|hjemmel_for| bek_socialtilsyn
     bek_br18 -->|hjemmel_for| reg_byggesagsgebyr
     bek_byggevarer_cpr2011 -->|hjemmel_for| sty_erhvervsstyrelsen
     bek_byggevarer_cpr2024 -.->|hjemmel_for| sty_erhvervsstyrelsen
@@ -167,6 +180,9 @@ flowchart LR
     bek_byggevarer_cpr2024 -->|implementerer_EU| eu_reg_2024_3110
     bek_danak_byggevarer -->|implementerer_EU| eu_reg_2011_305
     bek_danak_byggevarer -->|implementerer_EU| eu_reg_2024_3110
+    bek_almen_drift -->|hjemmel_for| vejl_satsvejledning_leje_almen
+    bek_br18 -->|implementerer_EU| eu_dir_2012_27
+    bek_certificering -->|implementerer_EU| eu_dir_2005_36
 ```
 
 [← Overblik](oversigt.md)

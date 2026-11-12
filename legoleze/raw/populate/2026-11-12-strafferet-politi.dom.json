@@ -1,0 +1,492 @@
+[
+ {
+  "hvor": "sty-rigspolitiet.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "sty-rigspolitiet.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "sty-rigspolitiet.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "sty-politikredsene.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "sty-politikredsene.dokumenttyper",
+  "dom": "delvist",
+  "grund": "Rigspolitiet-klagevejen (§109 stk. 2) fremgår ikke af belægget; kun statsadvokat-klage (§101 stk. 2)"
+ },
+ {
+  "hvor": "sty-politikredsene.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "sty-statsadvokaterne.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "sty-statsadvokaterne.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "sty-statsadvokaterne.url",
+  "dom": "delvist",
+  "grund": "Navneliste på anklagemyndigheden.dk viser ikke, at siden er statsadvokaternes adresse"
+ },
+ {
+  "hvor": "sty-politiklagemyndigheden.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "sty-politiklagemyndigheden.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "sty-politiklagemyndigheden.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "sty-danmarks-faengsler.tidligere_navne[Kriminalforsorgen (Direktoratet for Kriminalforsorgen)]",
+  "dom": "delvist",
+  "grund": "Artiklen siger Kriminalforsorgen; navnet Direktoratet for Kriminalforsorgen fremgår ikke"
+ },
+ {
+  "hvor": "sty-danmarks-faengsler.hjemmel",
+  "dom": "delvist",
+  "grund": "Belægget viser bemyndigelse til at fastsætte klageregler (§111 stk. 3), ikke at regler er fastsat"
+ },
+ {
+  "hvor": "sty-danmarks-faengsler.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "sty-danmarks-faengsler.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "naevn-erstatningsnaevnet.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "naevn-erstatningsnaevnet.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "naevn-erstatningsnaevnet.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "naevn-ungdomskriminalitetsnaevnet.hjemmel",
+  "dom": "delvist",
+  "grund": "Klage til Ankestyrelsen (§55-56) fremgår ikke af belæggene"
+ },
+ {
+  "hvor": "naevn-ungdomskriminalitetsnaevnet.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-straffeloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-straffeloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-straffeloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-politiloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-politiloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-politiloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-straffuldbyrdelsesloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-straffuldbyrdelsesloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-straffuldbyrdelsesloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-offererstatningsloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-offererstatningsloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-offererstatningsloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-ungdomskriminalitetsloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-ungdomskriminalitetsloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-ungdomskriminalitetsloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-erstatningsnaevnets-behandling-af-ansoegninger.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-erstatningsnaevnets-behandling-af-ansoegninger.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-erstatningsnaevnets-behandling-af-ansoegninger.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-forretningsorden-erstatningsnaevnet.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-forretningsorden-erstatningsnaevnet.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-forretningsorden-erstatningsnaevnet.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-ungekriminalforsorgens-tilsyn.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-ungekriminalforsorgens-tilsyn.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-ungekriminalforsorgens-tilsyn.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-ungekriminalforsorgens-reaktioner.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-ungekriminalforsorgens-reaktioner.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-ungekriminalforsorgens-reaktioner.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-vidensbasen.dokumenttyper",
+  "dom": "delvist",
+  "grund": "Bindende-vurderingen (blandet; vejledende for domme og praksisoversigter) fremgår ikke af belægget"
+ },
+ {
+  "hvor": "kilde-vidensbasen.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-vidensbasen.adgang",
+  "dom": "delvist",
+  "grund": "\"Ingen dokumenteret API\" og værdien HTML fremgår ikke af belægget; URL'en har /api/-sti"
+ },
+ {
+  "hvor": "kilde-vidensbasen.identifikatorer",
+  "dom": "delvist",
+  "grund": "\"Identificeres ved titel\" fremgår ikke; belægget nævner kun RM-nr. (tidligere) og RI-nr."
+ },
+ {
+  "hvor": "kilde-vidensbasen.opdatering",
+  "dom": "delvist",
+  "grund": "Frekvens \"løbende\" støttes; versionshistorikken (markering af Historisk) fremgår ikke af dette belæg"
+ },
+ {
+  "hvor": "kilde-rigsadvokatmeddelelsen.dokumenttyper",
+  "dom": "delvist",
+  "grund": "Bindende \"blandet\" fremgår ikke af belægget; cirkulære-typen er støttet"
+ },
+ {
+  "hvor": "kilde-rigsadvokatmeddelelsen.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-rigsadvokatmeddelelsen.adgang",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-rigsadvokatmeddelelsen.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-rigsadvokatmeddelelsen.opdatering",
+  "dom": "delvist",
+  "grund": "Ændring ved nye cirkulærer og historiske versioner fremgår ikke af belægget; kun \"løbende\" opdatering"
+ },
+ {
+  "hvor": "kilde-politiklagemyndigheden-udgivelser.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-politiklagemyndigheden-udgivelser.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-politiklagemyndigheden-udgivelser.adgang",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-politiklagemyndigheden-udgivelser.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-politiklagemyndigheden-udgivelser.opdatering",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|sty-rigspolitiet",
+  "dom": "delvist",
+  "grund": "Lovtekst (§108) nævner ministeren, men viser ikke ressortansvar i dag; højst delvist"
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|sty-politikredsene",
+  "dom": "delvist",
+  "grund": "Lovtekst (§108) nævner ministeren, men viser ikke ressortansvar i dag; højst delvist"
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|sty-statsadvokaterne",
+  "dom": "delvist",
+  "grund": "Lovtekst (§98) nævner ministeren, men viser ikke ressortansvar i dag; højst delvist"
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|sty-politiklagemyndigheden",
+  "dom": "delvist",
+  "grund": "Belægget viser ministerens udnævnelse af direktøren; ressortansvar, selvstændighed og §118 fremgår ikke"
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|sty-danmarks-faengsler",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|naevn-erstatningsnaevnet",
+  "dom": "delvist",
+  "grund": "Lovtekst (§11) nævner ministeren; viser ikke ressortansvar i dag"
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|naevn-ungdomskriminalitetsnaevnet",
+  "dom": "baerer-ikke",
+  "grund": "§3 viser uafhængighed fra den beskikkende myndighed; beskrivelsen erkender selv, at ministeriet ikke er belagt"
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|lov-straffeloven",
+  "dom": "delvist",
+  "grund": "Lovtitel uden ministeriefelt; ressortansvar ikke belagt"
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|lov-politiloven",
+  "dom": "delvist",
+  "grund": "Lovtitel uden ministeriefelt; ressortansvar ikke belagt"
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|lov-straffuldbyrdelsesloven",
+  "dom": "delvist",
+  "grund": "Lovtitel uden ministeriefelt; ressortansvar ikke belagt"
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|lov-offererstatningsloven",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|lov-ungdomskriminalitetsloven",
+  "dom": "delvist",
+  "grund": "Lovtitel uden ministeriefelt; ressortansvar ikke belagt"
+ },
+ {
+  "hvor": "kant lov-retsplejeloven|hjemmel_for|sty-rigspolitiet",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-retsplejeloven|hjemmel_for|sty-politikredsene",
+  "dom": "delvist",
+  "grund": "§95 fremgår ikke af belægget; kun §110"
+ },
+ {
+  "hvor": "kant lov-retsplejeloven|hjemmel_for|sty-statsadvokaterne",
+  "dom": "delvist",
+  "grund": "§95 fremgår ikke af belægget; kun §101"
+ },
+ {
+  "hvor": "kant lov-retsplejeloven|hjemmel_for|sty-politiklagemyndigheden",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-straffuldbyrdelsesloven|hjemmel_for|sty-danmarks-faengsler",
+  "dom": "delvist",
+  "grund": "§111-112 fremgår ikke af belægget; kun §2"
+ },
+ {
+  "hvor": "kant lov-offererstatningsloven|hjemmel_for|naevn-erstatningsnaevnet",
+  "dom": "delvist",
+  "grund": "§16 fremgår ikke af belægget; kun §11 (nævnet nedsættes af ministeren)"
+ },
+ {
+  "hvor": "kant lov-ungdomskriminalitetsloven|hjemmel_for|naevn-ungdomskriminalitetsnaevnet",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-offererstatningsloven|hjemmel_for|bek-erstatningsnaevnets-behandling-af-ansoegninger",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-offererstatningsloven|hjemmel_for|bek-forretningsorden-erstatningsnaevnet",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-ungdomskriminalitetsloven|hjemmel_for|bek-ungekriminalforsorgens-tilsyn",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-ungdomskriminalitetsloven|hjemmel_for|bek-ungekriminalforsorgens-reaktioner",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant sty-rigspolitiet|klageinstans|sty-politikredsene",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant sty-statsadvokaterne|klageinstans|sty-politikredsene",
+  "dom": "delvist",
+  "grund": "§724 og §102 fremgår ikke af belægget; kernen (§101 stk. 2) støttes"
+ },
+ {
+  "hvor": "kant sty-rigsadvokaten|klageinstans|sty-statsadvokaterne",
+  "dom": "delvist",
+  "grund": "§102 og §98 stk. 4 fremgår ikke af belægget; kernen (§99 stk. 3) støttes"
+ },
+ {
+  "hvor": "kant sty-ankestyrelsen|klageinstans|naevn-ungdomskriminalitetsnaevnet",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant dom-byretterne|klageinstans|sty-danmarks-faengsler",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant sty-rigspolitiet|tilsyn|sty-politikredsene",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant sty-statsadvokaterne|tilsyn|sty-politikredsene",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant sty-rigsadvokaten|tilsyn|sty-statsadvokaterne",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant sty-rigsadvokaten|udsteder|kilde-rigsadvokatmeddelelsen",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant sty-rigsadvokaten|udsteder|kilde-vidensbasen",
+  "dom": "delvist",
+  "grund": "Rigsadvokaten som udgiver eller driver af Vidensbasen fremgår ikke; belægget nævner kun anklagemyndighedens Vidensbase"
+ },
+ {
+  "hvor": "kant kilde-vidensbasen|henviser_til|kilde-rigsadvokatmeddelelsen",
+  "dom": "baerer-ikke",
+  "grund": "Vidensbasen indeholder Rigsadvokatmeddelelsen; det er ikke en henvisning, så typen henviser_til bæres ikke"
+ },
+ {
+  "hvor": "kant sty-politiklagemyndigheden|udsteder|kilde-politiklagemyndigheden-udgivelser",
+  "dom": "baerer",
+  "grund": ""
+ }
+]

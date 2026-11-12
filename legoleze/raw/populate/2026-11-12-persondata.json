@@ -1,0 +1,1001 @@
+{
+  "omraade": "persondata",
+  "noder": [
+    {
+      "id": "tilsyn-datatilsynet",
+      "navn": "Datatilsynet",
+      "type": "tilsyn",
+      "ministerium": "min-justits",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Databeskyttelseslovens § 27, stk. 1: Datatilsynet (råd og sekretariat) fører tilsyn med enhver behandling omfattet af loven, GDPR og anden lovgivning inden for GDPR's rammer, og udøver sine funktioner i fuld uafhængighed. Retshåndhævelseslovens § 37 giver tilsvarende tilsyn efter den lov. Afgørelser kan ikke indbringes for anden administrativ myndighed (§ 30, stk. 1), men kan indbringes for domstolene (§ 39, stk. 2).",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+            "citat": "Datatilsynet, der består af et råd og et sekretariat, fører i overensstemmelse med databeskyttelsesforordningens kapitel VI og VII tilsyn med enhver behandling"
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+            "citat": "Datatilsynet udøver sine funktioner i fuld uafhængighed."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+            "citat": "Datatilsynets afgørelser kan ikke indbringes for anden administrativ myndighed."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2017/410",
+            "citat": "Datatilsynet, der består af et råd og et sekretariat, fører tilsyn med enhver behandling, der omfattes af loven, jf. dog kapitel 19."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse",
+            "bindende": "bindende",
+            "note": "udvalgte afgørelser offentliggøres; kan ikke indbringes for anden administrativ myndighed, men for domstolene"
+          },
+          {
+            "type": "tilladelse",
+            "bindende": "bindende",
+            "note": "fx kreditoplysningsbureauer og advarselsregistre (databeskyttelseslovens § 26)"
+          },
+          {
+            "type": "udtalelse",
+            "bindende": "vejledende",
+            "note": "obligatorisk høring om love og bekendtgørelser med betydning for persondatabeskyttelse (§ 28)"
+          },
+          {
+            "type": "vejledning",
+            "bindende": "vejledende",
+            "note": "Datatilsynets egne vejledninger og oversatte EDPB-retningslinjer"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.datatilsynet.dk/afgoerelser",
+            "citat": "Derfor offentliggør Datatilsynet løbende udvalgte afgørelser, som kan være med til at forklare praksis inden for forskellige områder."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+            "citat": "Forinden iværksættelse af en behandling, der foretages for en privat dataansvarlig, skal Datatilsynets tilladelse indhentes, når"
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+            "citat": "skal der indhentes en udtalelse fra Datatilsynet."
+          },
+          {
+            "url": "https://www.datatilsynet.dk/regler-og-vejledning",
+            "citat": "Datatilsynet opdaterer og producerer løbende vejledninger."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.datatilsynet.dk/",
+        "belaeg": [
+          {
+            "url": "https://www.datatilsynet.dk/om-datatilsynet/organisation",
+            "citat": "Datatilsynet er en uafhængig tilsynsmyndighed, som har ansvaret for, at reglerne om databeskyttelse bliver overholdt."
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Datatilsynets afgørelse af [dato]",
+        "Datatilsynets j.nr. \\d{4}-\\d{3}-\\d{4}",
+        "journalnummer \\d{4}-\\d{3}-\\d{4}"
+      ],
+      "ingest": {
+        "vaerdi": 5,
+        "besvaer": 5,
+        "begrundelse": "Eneste administrative afgørelsesinstans for GDPR i Danmark; ingen administrativ klageinstans over den."
+      },
+      "note": "Uafhængigt tilsyn (GDPR art. 51) med finanslovsmæssig tilknytning til Justitsministeriet. Består af Datarådet (principielle sager) og et sekretariat. Ministerium: Justitsministeriet pr. 2024-årsrapport, retsinformation (LBK 289/2024, Ministry = Justitsministeriet) og justitsministeriet.dk's menu over justitsvæsenet; ingen side fra efter 3. juni 2026 siger andet. Repræsenterer de danske tilsynsmyndigheder i EDPB (databeskyttelseslovens § 27, stk. 9). Ombudsmandens rolle over for Datatilsynets sagsbehandling er ikke belagt her. Cookiereglerne ligger uden for Datatilsynet og er ikke kortlagt."
+    },
+    {
+      "id": "raad-dataraadet",
+      "navn": "Datarådet",
+      "type": "råd",
+      "ministerium": "min-justits",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Databeskyttelseslovens § 27, stk. 3: justitsministeren nedsætter Datarådet (formand, der er landsdommer eller højesteretsdommer, og 7 medlemmer); stk. 4: rådet fastsætter sin forretningsorden og arbejdsdelingen mellem råd og sekretariat.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+            "citat": "Justitsministeren nedsætter Datarådet, som består af 1 formand, der skal være landsdommer eller højesteretsdommer, og af 7 andre medlemmer."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+            "citat": "Rådet fastsætter sin forretningsorden og de nærmere regler om arbejdets fordeling mellem råd og sekretariat."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.datatilsynet.dk/om-datatilsynet/dataraadet",
+        "belaeg": [
+          {
+            "url": "https://www.datatilsynet.dk/om-datatilsynet/organisation",
+            "citat": "Datarådet træffer afgørelse i konkrete sager af principiel karakter, mens sekretariatet varetager Datatilsynets daglige drift"
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse",
+            "bindende": "bindende",
+            "note": "principielle sager; Datatilsynets øvrige afgørelser træffes af sekretariatet"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.datatilsynet.dk/om-datatilsynet/organisation",
+            "citat": "Datarådet træffer afgørelse i konkrete sager af principiel karakter, mens sekretariatet varetager Datatilsynets daglige drift"
+          }
+        ]
+      },
+      "note": "Rådet er en del af Datatilsynet og ikke en selvstændig klageinstans; rådets afgørelser er Datatilsynets afgørelser (kan ikke indbringes for anden administrativ myndighed, § 30). Sekretariatets forhold til rådet kan ikke udtrykkes som kant (sekretariat er ikke en egen instans). Medlemmer udnævnes af justitsministeren samt to andre ministre (lovteksten nævner erhvervsministeren og ministeren for offentlig innovation; Datatilsynet skrev i 2021, at disse nu er finansministeren, ikke efterprøvet). Referater er ikke offentlige (BEK 454/2019 § 7, stk. 2)."
+    },
+    {
+      "id": "bek-dataraadet-forretningsorden",
+      "navn": "Bekendtgørelse om forretningsorden for Datarådet (BEK nr. 454 af 01/01/2019)",
+      "type": "bekendtgørelse",
+      "ministerium": "min-justits",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Databeskyttelseslovens § 27, stk. 4.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/454",
+            "citat": "I medfør af § 27, stk. 4, i lov nr. 502 af 23. maj 2018 om supplerende bestemmelser til forordning"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2019/454",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/454",
+            "citat": "Bekendtgørelse om forretningsorden for Datarådet"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2019/454",
+        "lovtidende": "BEK nr. 454 af 01/01/2019",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/454",
+            "citat": "Bekendtgørelse om forretningsorden for Datarådet"
+          }
+        ]
+      },
+      "note": "Rådets formand forbereder sagerne sammen med sekretariatet (§ 2); rådet afgør inhabilitet endeligt administrativt (§ 6, stk. 3)."
+    },
+    {
+      "id": "lov-databeskyttelsesloven",
+      "navn": "Databeskyttelsesloven",
+      "type": "lov",
+      "ministerium": "min-justits",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+            "citat": "Bekendtgørelse af lov om supplerende bestemmelser til forordning om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2024/289",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+            "citat": "Bekendtgørelse af lov om supplerende bestemmelser til forordning om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2024/289",
+        "lovtidende": "LBK nr. 289 af 08/03/2024",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+            "citat": "Bekendtgørelse af lov om supplerende bestemmelser til forordning om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger"
+          }
+        ]
+      },
+      "note": "Gældende LBK pr. Retsinformation (november 2026). Kapitel 10 (Datatilsynet, §§ 27-36) og kapitel 11 (tilsyn med domstolene, §§ 37-38), kapitel 12 (retsmidler, § 39). Lovens bilag gengiver GDPR."
+    },
+    {
+      "id": "lov-retshaandhaevelsesloven",
+      "navn": "Retshåndhævelsesloven (lov om retshåndhævende myndigheders behandling af personoplysninger)",
+      "type": "lov",
+      "ministerium": "min-justits",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2017/410",
+            "citat": "Lov om retshåndhævende myndigheders behandling af personoplysninger"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2017/410",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2017/410",
+            "citat": "Lov om retshåndhævende myndigheders behandling af personoplysninger"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2017/410",
+        "lovtidende": "LOV nr. 410 af 27/04/2017",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2017/410",
+            "citat": "Lov om retshåndhævende myndigheders behandling af personoplysninger"
+          }
+        ]
+      },
+      "note": "Ingen lovbekendtgørelse; den oprindelige lov er gældende med ændringer (LOV 503/2018 § 1 og 506/2018 § 2). Kapitel 18 (§§ 37-42) Datatilsynet; kapitel 19 (§ 38) Domstolsstyrelsen."
+    },
+    {
+      "id": "lov-tv-overvaagningsloven",
+      "navn": "Tv-overvågningsloven",
+      "type": "lov",
+      "ministerium": "min-justits",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/182",
+            "citat": "Herved bekendtgøres lov om tv-overvågning, jf. lovbekendtgørelse nr. 1190 af 11. oktober 2007"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2023/182",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/182",
+            "citat": "Herved bekendtgøres lov om tv-overvågning, jf. lovbekendtgørelse nr. 1190 af 11. oktober 2007"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2023/182",
+        "lovtidende": "LBK nr. 182 af 24/02/2023",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/182",
+            "citat": "Herved bekendtgøres lov om tv-overvågning, jf. lovbekendtgørelse nr. 1190 af 11. oktober 2007"
+          }
+        ]
+      },
+      "note": "Senere ændret ved LOV 665/2024 § 6 og LOV 734/2025 § 4. Underbekendtgørelse: BEK 1087/2018 om behandling af sager om tilladelse til tv-overvågning (ikke gennemgået). Databeskyttelseslovens § 2, stk. 4 gør GDPR og loven gældende for tv-overvågning."
+    },
+    {
+      "id": "eu-reg-2016-679",
+      "navn": "Databeskyttelsesforordningen, forordning (EU) 2016/679 (GDPR)",
+      "type": "eu-forordning",
+      "ministerium": "ingen",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+            "citat": "Europa-Parlamentets og Rådets forordning nr. 679 af 27. april 2016 om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "andet": "EU-Tidende 2016, nr. L 119, side 1; CELEX 32016R0679.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+            "citat": "generel forordning om databeskyttelse), EU-Tidende 2016, nr. L 119, side 1."
+          }
+        ]
+      },
+      "note": "Art. 51 (uafhængige tilsynsmyndigheder), art. 68 (EDPB), art. 77-78 (klage og retsmidler). Hverken lov- eller tekstværktøjet kunne hente eur-lex (botmur), derfor ingen eur-lex-url; gengivelsen i databeskyttelseslovens bilag er brugt til citater."
+    },
+    {
+      "id": "eu-dir-2016-680",
+      "navn": "Retshåndhævelsesdirektivet, direktiv (EU) 2016/680",
+      "type": "eu-direktiv",
+      "ministerium": "ingen",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2017/410",
+            "citat": "og om ophævelse af Rådets rammeafgørelse 2008/977/RIA, EU-Tidende 2016, nr. L 119, side 89."
+          }
+        ]
+      },
+      "identifikatorer": {
+        "andet": "EU-Tidende 2016, nr. L 119, side 89; CELEX 32016L0680.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2017/410",
+            "citat": "og om ophævelse af Rådets rammeafgørelse 2008/977/RIA, EU-Tidende 2016, nr. L 119, side 89."
+          }
+        ]
+      },
+      "note": "Gennemføres af retshåndhævelsesloven (Retsinformation: implementerer 32016L0680). Ingen eur-lex-url, se eu-reg-2016-679."
+    },
+    {
+      "id": "eu-edpb",
+      "navn": "Det Europæiske Databeskyttelsesråd (EDPB)",
+      "type": "eu-institution",
+      "ministerium": "ingen",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "GDPR art. 68, stk. 1: oprettet som EU-organ med status som juridisk person; Datatilsynet repræsenterer de danske tilsynsmyndigheder (databeskyttelseslovens § 27, stk. 9).",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+            "citat": "Det Europæiske Databeskyttelsesråd (»Databeskyttelsesrådet«) oprettes herved som et EU-organ med status som juridisk person."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+            "citat": "Datatilsynet repræsenterer tilsynsmyndighederne i Det Europæiske Databeskyttelsesråd i overensstemmelse med databeskyttelsesforordningens kapitel VII, afdeling 1 og 2."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "retningslinjer",
+            "bindende": "vejledende"
+          },
+          {
+            "type": "bindende afgørelse (art. 65)",
+            "bindende": "bindende",
+            "note": "i tvister mellem tilsynsmyndigheder"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.edpb.europa.eu/our-work-tools/general-guidance/guidelines-recommendations-best-practices_en",
+            "citat": "Guidelines 04/2026 on the application of the power to impose administrative fines in relation to other corrective powers under the GDPR"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.edpb.europa.eu/",
+        "belaeg": [
+          {
+            "url": "https://www.edpb.europa.eu/edpb_en",
+            "citat": "We ensure that everyone in Europe benefits from equal data protection rights by providing clear guidance and consistent enforcement."
+          }
+        ]
+      },
+      "note": "Ikke en klageinstans over Datatilsynet. Bindende afgørelser efter art. 65 er kun belagt via forordningens struktur, ikke citeret."
+    },
+    {
+      "id": "kilde-datatilsynet-afgoerelser",
+      "navn": "Datatilsynets afgørelser (datatilsynet.dk/afgoerelser)",
+      "type": "praksissamling",
+      "ministerium": "min-justits",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://www.datatilsynet.dk/afgoerelser",
+        "belaeg": [
+          {
+            "url": "https://www.datatilsynet.dk/afgoerelser",
+            "citat": "Derfor offentliggør Datatilsynet løbende udvalgte afgørelser, som kan være med til at forklare praksis inden for forskellige områder."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse",
+            "bindende": "bindende"
+          },
+          {
+            "type": "udtalelse",
+            "bindende": "vejledende"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.datatilsynet.dk/afgoerelser",
+            "citat": "Her på siden finder du både de principielle sager og de mere simple afgørelser"
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML",
+          "RSS"
+        ],
+        "note": "Søgning/filtrering efter virksomhedsområde, type og emne; RSS-feed; bødesager på egen side. Ingen API fundet.",
+        "belaeg": [
+          {
+            "url": "https://www.datatilsynet.dk/afgoerelser",
+            "citat": "Seneste afgørelser Se alle afgørelser Rss Bødesager I nogle tilfælde indstiller Datatilsynet til bøde."
+          }
+        ]
+      },
+      "identifikatorer": {
+        "journalnr": "ÅÅÅÅ-NNN-NNNN, fx 2020-442-6885",
+        "andet": "Hver afgørelse har en datostemplet sti (/afgoerelser/afgoerelser/ÅÅÅÅ/måned/titel) og et journalnummer.",
+        "belaeg": [
+          {
+            "url": "https://www.datatilsynet.dk/afgoerelser/afgoerelser/2021/maj/ukrypteret-mail-med-personoplysninger-sendt-fra-justitsministeriet",
+            "citat": "Tilsynet udtaler alvorlig kritik og har givet Justitsministeriet påbud om at underrette de registrerede. Journalnummer: 2020-442-6885"
+          }
+        ]
+      },
+      "opdatering": {
+        "frekvens": "løbende; kun udvalgte afgørelser offentliggøres",
+        "versionshistorik": "årsmapper fra 2018 til 2026 samt \"Historiske afgørelser\" (før GDPR)",
+        "belaeg": [
+          {
+            "url": "https://www.datatilsynet.dk/afgoerelser/afgoerelser/2021/maj/ukrypteret-mail-med-personoplysninger-sendt-fra-justitsministeriet",
+            "citat": "2018 2019 2020 2021 jan feb mar apr maj jun jul sep okt nov dec aug 2022 2023 2024 2025 2026 Bødesager Generelt om tilsyn Tilladelser Historiske afgørelser"
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 5,
+        "besvaer": 5,
+        "begrundelse": "Eneste samlede GDPR-praksiskilde i Danmark; HTML uden API, så kræver crawl."
+      }
+    },
+    {
+      "id": "kilde-datatilsynet-vejledninger",
+      "navn": "Datatilsynets vejledninger og regler (datatilsynet.dk/regler-og-vejledning)",
+      "type": "praksissamling",
+      "ministerium": "min-justits",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://www.datatilsynet.dk/regler-og-vejledning",
+        "belaeg": [
+          {
+            "url": "https://www.datatilsynet.dk/regler-og-vejledning",
+            "citat": "Datatilsynet opdaterer og producerer løbende vejledninger."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "vejledning",
+            "bindende": "vejledende"
+          },
+          {
+            "type": "EDPB-retningslinjer (dansk oversættelse)",
+            "bindende": "vejledende"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.datatilsynet.dk/regler-og-vejledning",
+            "citat": "Anvendelse af lokaliseringsdata og kontaktopsporingsværktøjer i forbindelse med Covid-19-udbruddet (Vejledning 4/2020)"
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML",
+          "PDF"
+        ],
+        "note": "Oversigtsside med links; vejledningerne er PDF-filer på cdn.datatilsynet.dk (observeret via søgning, ikke citeret).",
+        "belaeg": [
+          {
+            "url": "https://www.datatilsynet.dk/regler-og-vejledning",
+            "citat": "Datatilsynet opdaterer og producerer løbende vejledninger."
+          }
+        ]
+      },
+      "identifikatorer": {
+        "andet": "Oversatte EDPB-retningslinjer kaldes \"Vejledning NN/ÅÅÅÅ\"; egne vejledninger har kun titel.",
+        "belaeg": [
+          {
+            "url": "https://www.datatilsynet.dk/regler-og-vejledning",
+            "citat": "Anvendelse af lokaliseringsdata og kontaktopsporingsværktøjer i forbindelse med Covid-19-udbruddet (Vejledning 4/2020)"
+          }
+        ]
+      },
+      "opdatering": {
+        "frekvens": "løbende",
+        "versionshistorik": "ikke fundet",
+        "belaeg": [
+          {
+            "url": "https://www.datatilsynet.dk/regler-og-vejledning",
+            "citat": "Datatilsynet opdaterer og producerer løbende vejledninger."
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 4,
+        "besvaer": 4,
+        "begrundelse": "Fortolkningsstof til GDPR; PDF'er uden samlet metadata."
+      }
+    },
+    {
+      "id": "kilde-edpb-oss-register",
+      "navn": "EDPB: register over endelige one-stop-shop-afgørelser",
+      "type": "praksissamling",
+      "ministerium": "ingen",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://www.edpb.europa.eu/our-work-tools/consistency-findings/register-for-article-60-final-decisions_en",
+        "belaeg": [
+          {
+            "url": "https://www.edpb.europa.eu/our-work-tools/consistency-findings/register-for-article-60-final-decisions_en",
+            "citat": "The EDPB promotes transparency by publishing this register of all the final decisions taken by national data protection authorities under the “one-stop-shop” cooperation mechanism"
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "endelig afgørelse fra national tilsynsmyndighed (art. 60)",
+            "bindende": "bindende"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.edpb.europa.eu/our-work-tools/consistency-findings/register-for-article-60-final-decisions_en",
+            "citat": "The EDPB promotes transparency by publishing this register of all the final decisions taken by national data protection authorities under the “one-stop-shop” cooperation mechanism"
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML",
+          "PDF"
+        ],
+        "note": "Filtrerbar liste; hver afgørelse er en redigeret PDF.",
+        "belaeg": [
+          {
+            "url": "https://www.edpb.europa.eu/our-work-tools/consistency-findings/register-for-article-60-final-decisions_en",
+            "citat": "EDPBI:EE:OSS:D:2026:4265 10 August 2026 ee decision4265-1-redacted.pdf PDF, 167.21 KB Download"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "andet": "EDPBI:<land>:OSS:D:<år>:<nr>, fx EDPBI:EE:OSS:D:2026:4265.",
+        "belaeg": [
+          {
+            "url": "https://www.edpb.europa.eu/our-work-tools/consistency-findings/register-for-article-60-final-decisions_en",
+            "citat": "EDPBI:EE:OSS:D:2026:4265 10 August 2026 ee decision4265-1-redacted.pdf"
+          }
+        ]
+      },
+      "opdatering": {
+        "frekvens": "løbende; seneste post 10/8/2026",
+        "versionshistorik": "ikke angivet",
+        "belaeg": [
+          {
+            "url": "https://www.edpb.europa.eu/our-work-tools/consistency-findings/register-for-article-60-final-decisions_en",
+            "citat": "EDPBI:LU:OSS:D:2026:4243 31 July 2026"
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 3,
+        "besvaer": 2,
+        "begrundelse": "Mest fremmedsprogede afgørelser; relevant kun for grænseoverskridende sager."
+      }
+    },
+    {
+      "id": "kilde-edpb-retningslinjer",
+      "navn": "EDPB: retningslinjer, anbefalinger og bedste praksis",
+      "type": "praksissamling",
+      "ministerium": "ingen",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://www.edpb.europa.eu/our-work-tools/general-guidance/guidelines-recommendations-best-practices_en",
+        "belaeg": [
+          {
+            "url": "https://www.edpb.europa.eu/our-work-tools/general-guidance/guidelines-recommendations-best-practices_en",
+            "citat": "Guidelines 04/2026 on the application of the power to impose administrative fines in relation to other corrective powers under the GDPR"
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "retningslinjer",
+            "bindende": "vejledende"
+          },
+          {
+            "type": "anbefalinger",
+            "bindende": "vejledende"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.edpb.europa.eu/our-work-tools/general-guidance/guidelines-recommendations-best-practices_en",
+            "citat": "Guidelines 04/2026 on the application of the power to impose administrative fines in relation to other corrective powers under the GDPR"
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML",
+          "PDF"
+        ],
+        "note": "Liste med filtre på emne; offentlig høring på udkast.",
+        "belaeg": [
+          {
+            "url": "https://www.edpb.europa.eu/our-work-tools/general-guidance/guidelines-recommendations-best-practices_en",
+            "citat": "Open for feedback Guidelines 04/2026 on the application of the power to impose administrative fines"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "andet": "Guidelines NN/ÅÅÅÅ, fx Guidelines 04/2026.",
+        "belaeg": [
+          {
+            "url": "https://www.edpb.europa.eu/our-work-tools/general-guidance/guidelines-recommendations-best-practices_en",
+            "citat": "Guidelines 04/2026 on the application of the power to impose administrative fines"
+          }
+        ]
+      },
+      "opdatering": {
+        "frekvens": "løbende; udkast i høring før vedtagelse",
+        "versionshistorik": "ikke angivet",
+        "belaeg": [
+          {
+            "url": "https://www.edpb.europa.eu/our-work-tools/general-guidance/guidelines-recommendations-best-practices_en",
+            "citat": "Open for feedback Guidelines 04/2026 on the application of the power to impose administrative fines"
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 4,
+        "besvaer": 4,
+        "begrundelse": "Autoritativ fortolkning af GDPR; Datatilsynet oversætter udvalgte."
+      }
+    }
+  ],
+  "kanter": [
+    {
+      "from": "min-justits",
+      "type": "ressortansvar",
+      "to": "tilsyn-datatilsynet",
+      "beskrivelse": "Datatilsynet har finanslovsmæssig tilknytning til Justitsministeriet; tilsynet er funktionelt uafhængigt.",
+      "belaeg": [
+        {
+          "url": "https://cdn.datatilsynet.dk/datatilsynet/Media/638784214676320017/%C3%85rsrapport%202024%20for%20Datatilsynet.pdf",
+          "citat": "Datatilsynet udøver sine funktioner i fuld uafhængighed, men har en finanslovsmæssig tilknytning til Justitsministeriet."
+        }
+      ]
+    },
+    {
+      "from": "min-justits",
+      "type": "ressortansvar",
+      "to": "raad-dataraadet",
+      "beskrivelse": "Justitsministeren nedsætter Datarådet (databeskyttelseslovens § 27, stk. 3).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+          "citat": "Justitsministeren nedsætter Datarådet, som består af 1 formand, der skal være landsdommer eller højesteretsdommer, og af 7 andre medlemmer."
+        }
+      ]
+    },
+    {
+      "from": "min-justits",
+      "type": "ressortansvar",
+      "to": "lov-databeskyttelsesloven",
+      "beskrivelse": "Loven hører under justitsministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+          "citat": "Justitsministeren nedsætter Datarådet, som består af 1 formand"
+        }
+      ]
+    },
+    {
+      "from": "min-justits",
+      "type": "ressortansvar",
+      "to": "lov-retshaandhaevelsesloven",
+      "beskrivelse": "Loven hører under Justitsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2017/410",
+          "citat": "Lov om retshåndhævende myndigheders behandling af personoplysninger"
+        }
+      ]
+    },
+    {
+      "from": "min-justits",
+      "type": "ressortansvar",
+      "to": "lov-tv-overvaagningsloven",
+      "beskrivelse": "Loven hører under Justitsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2023/182",
+          "citat": "Herved bekendtgøres lov om tv-overvågning, jf. lovbekendtgørelse nr. 1190 af 11. oktober 2007"
+        }
+      ]
+    },
+    {
+      "from": "min-justits",
+      "type": "ressortansvar",
+      "to": "bek-dataraadet-forretningsorden",
+      "beskrivelse": "Udstedt af Justitsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2019/454",
+          "citat": "Bekendtgørelse om forretningsorden for Datarådet"
+        }
+      ]
+    },
+    {
+      "from": "lov-databeskyttelsesloven",
+      "type": "hjemmel_for",
+      "to": "tilsyn-datatilsynet",
+      "beskrivelse": "§ 27, stk. 1: Datatilsynet fører tilsyn i fuld uafhængighed.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+          "citat": "Datatilsynet, der består af et råd og et sekretariat, fører i overensstemmelse med databeskyttelsesforordningens kapitel VI og VII tilsyn med enhver behandling"
+        }
+      ]
+    },
+    {
+      "from": "lov-databeskyttelsesloven",
+      "type": "hjemmel_for",
+      "to": "raad-dataraadet",
+      "beskrivelse": "§ 27, stk. 3-4: Datarådet nedsættes af justitsministeren og fastsætter forretningsorden.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+          "citat": "Rådet fastsætter sin forretningsorden og de nærmere regler om arbejdets fordeling mellem råd og sekretariat."
+        }
+      ]
+    },
+    {
+      "from": "lov-databeskyttelsesloven",
+      "type": "hjemmel_for",
+      "to": "bek-dataraadet-forretningsorden",
+      "beskrivelse": "§ 27, stk. 4.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2019/454",
+          "citat": "I medfør af § 27, stk. 4, i lov nr. 502 af 23. maj 2018 om supplerende bestemmelser til forordning"
+        }
+      ]
+    },
+    {
+      "from": "lov-databeskyttelsesloven",
+      "type": "hjemmel_for",
+      "to": "sty-domstolsstyrelsen",
+      "beskrivelse": "§ 37, stk. 1: Domstolsstyrelsen fører tilsyn med domstolenes behandling, når de ikke handler som domstol; § 38: afgørelser er endelige.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+          "citat": "Domstolsstyrelsen fører i overensstemmelse med databeskyttelsesforordningens kapitel VI og VII tilsyn med behandling af oplysninger, der foretages for domstolene, når disse ikke handler i deres egenskab af domstol."
+        }
+      ]
+    },
+    {
+      "from": "lov-retshaandhaevelsesloven",
+      "type": "hjemmel_for",
+      "to": "tilsyn-datatilsynet",
+      "beskrivelse": "§ 37: Datatilsynet fører tilsyn efter retshåndhævelsesloven; § 42, stk. 2: afgørelser kan ikke indbringes for anden administrativ myndighed.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2017/410",
+          "citat": "Datatilsynet, der består af et råd og et sekretariat, fører tilsyn med enhver behandling, der omfattes af loven, jf. dog kapitel 19."
+        }
+      ]
+    },
+    {
+      "from": "lov-retshaandhaevelsesloven",
+      "type": "hjemmel_for",
+      "to": "sty-domstolsstyrelsen",
+      "beskrivelse": "§ 38: tilsyn med domstolenes behandling uden for domstolsfunktionen.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2017/410",
+          "citat": "Domstolsstyrelsen fører tilsyn med behandling af oplysninger, der foretages for domstolene, når disse ikke handler i deres egenskab af domstol."
+        }
+      ]
+    },
+    {
+      "from": "lov-tv-overvaagningsloven",
+      "type": "hjemmel_for",
+      "to": "tilsyn-datatilsynet",
+      "beskrivelse": "§ 4 e: Datatilsynet fører tilsyn med behandling af personoplysninger omfattet af §§ 4 c og 4 d.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2023/182",
+          "citat": "Datatilsynet fører tilsyn med enhver behandling af personoplysninger omfattet af §§ 4 c og 4 d."
+        }
+      ]
+    },
+    {
+      "from": "lov-databeskyttelsesloven",
+      "type": "henviser_til",
+      "to": "eu-reg-2016-679",
+      "beskrivelse": "Loven supplerer databeskyttelsesforordningen, som gælder umiddelbart; lovens bilag gengiver forordningen.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+          "citat": "generel forordning om databeskyttelse), EU-Tidende 2016, nr. L 119, side 1."
+        }
+      ]
+    },
+    {
+      "from": "lov-retshaandhaevelsesloven",
+      "type": "implementerer_EU",
+      "to": "eu-dir-2016-680",
+      "beskrivelse": "Gennemfører direktivet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2017/410",
+          "citat": "og om ophævelse af Rådets rammeafgørelse 2008/977/RIA, EU-Tidende 2016, nr. L 119, side 89."
+        }
+      ]
+    },
+    {
+      "from": "eu-reg-2016-679",
+      "type": "hjemmel_for",
+      "to": "eu-edpb",
+      "beskrivelse": "Art. 68, stk. 1 opretter EDPB.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+          "citat": "Det Europæiske Databeskyttelsesråd (»Databeskyttelsesrådet«) oprettes herved som et EU-organ med status som juridisk person."
+        }
+      ]
+    },
+    {
+      "from": "sty-domstolsstyrelsen",
+      "type": "tilsyn",
+      "to": "dom-domstolene",
+      "beskrivelse": "Databeskyttelseslovens § 37, stk. 1 (og retshåndhævelseslovens § 38) for behandling uden for domstolsfunktionen; Domstolsstyrelsens afgørelser er endelige (§ 38).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+          "citat": "Domstolsstyrelsens afgørelser er endelige."
+        }
+      ]
+    },
+    {
+      "from": "dom-domstolene",
+      "type": "klageinstans",
+      "to": "tilsyn-datatilsynet",
+      "beskrivelse": "Ikke administrativ klage: Datatilsynets afgørelser kan ikke indbringes for anden administrativ myndighed (§ 30, stk. 1), men den registrerede kan indbringe dem for domstolene i den borgerlige retsplejes former (§ 39, stk. 2).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+          "citat": "Tilsynsmyndighedernes afgørelser, undladelser af at behandle en klage fra en registreret eller manglende underretning kan af den registrerede eller dennes repræsentant indbringes for domstolene i den borgerlige retsplejes former"
+        }
+      ]
+    },
+    {
+      "from": "tilsyn-datatilsynet",
+      "type": "udsteder",
+      "to": "kilde-datatilsynet-afgoerelser",
+      "beskrivelse": "Datatilsynet offentliggør udvalgte afgørelser (§ 33).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+          "citat": "Datatilsynet kan offentliggøre sine udtalelser og afgørelser."
+        }
+      ]
+    },
+    {
+      "from": "tilsyn-datatilsynet",
+      "type": "udsteder",
+      "to": "kilde-datatilsynet-vejledninger",
+      "beskrivelse": "Datatilsynet udgiver vejledninger.",
+      "belaeg": [
+        {
+          "url": "https://www.datatilsynet.dk/regler-og-vejledning",
+          "citat": "Datatilsynet opdaterer og producerer løbende vejledninger."
+        }
+      ]
+    },
+    {
+      "from": "eu-edpb",
+      "type": "udsteder",
+      "to": "kilde-edpb-oss-register",
+      "beskrivelse": "EDPB driver registret.",
+      "belaeg": [
+        {
+          "url": "https://www.edpb.europa.eu/our-work-tools/consistency-findings/register-for-article-60-final-decisions_en",
+          "citat": "The EDPB promotes transparency by publishing this register of all the final decisions taken by national data protection authorities"
+        }
+      ]
+    },
+    {
+      "from": "eu-edpb",
+      "type": "udsteder",
+      "to": "kilde-edpb-retningslinjer",
+      "beskrivelse": "EDPB udgiver retningslinjerne.",
+      "belaeg": [
+        {
+          "url": "https://www.edpb.europa.eu/our-work-tools/general-guidance/guidelines-recommendations-best-practices_en",
+          "citat": "Guidelines 04/2026 on the application of the power to impose administrative fines in relation to other corrective powers under the GDPR"
+        }
+      ]
+    }
+  ],
+  "rettelser": [],
+  "huller": [
+    {
+      "emne": "Vilkår for genbrug af Datatilsynets afgørelser og vejledninger",
+      "type": "uklart",
+      "beskrivelse": "Ingen licens-, ophavsrets- eller vilkårstekst fundet på afgørelses- eller vejledningssiderne.",
+      "noder": [
+        "kilde-datatilsynet-afgoerelser",
+        "kilde-datatilsynet-vejledninger"
+      ],
+      "kilder": [
+        "https://www.datatilsynet.dk/afgoerelser"
+      ]
+    },
+    {
+      "emne": "Vilkår for genbrug af EDPB-indhold",
+      "type": "uklart",
+      "beskrivelse": "Registersiden har ingen licensangivelse; footer linker til en Copyright-side, som ikke blev læst.",
+      "noder": [
+        "kilde-edpb-oss-register",
+        "kilde-edpb-retningslinjer"
+      ],
+      "kilder": [
+        "https://www.edpb.europa.eu/our-work-tools/consistency-findings/register-for-article-60-final-decisions_en"
+      ]
+    },
+    {
+      "emne": "eur-lex-url og artikeltekst for GDPR og direktiv 2016/680",
+      "type": "andet",
+      "beskrivelse": "eur-lex gav botmur til tekst-værktøjet og WebFetch; forordningens artikler er derfor citeret fra gengivelsen i databeskyttelseslovens bilag, og eu-noderne mangler url.",
+      "noder": [
+        "eu-reg-2016-679",
+        "eu-dir-2016-680"
+      ],
+      "kilder": [
+        "https://www.retsinformation.dk/eli/lta/2024/289"
+      ]
+    },
+    {
+      "emne": "Tilsynet med cookiereglerne",
+      "type": "ikke-fundet",
+      "beskrivelse": "Ikke undersøgt; kun et gæt (Digitaliseringsstyrelsen eller Erhvervsstyrelsen).",
+      "noder": [],
+      "kilder": []
+    },
+    {
+      "emne": "Antal vejledninger og bekendtgørelser under databeskyttelsesloven",
+      "type": "ikke-fundet",
+      "beskrivelse": "Ikke talt (>30 vejledninger er uverificeret). Bekendtgørelser under loven iflg. Retsinformation: BEK 291/2025, 736/2022, 777/2021, 1509/2019, 454/2019, 594/2018, 1287/2010, 531/2000; kun 454/2019 er oprettet.",
+      "noder": [
+        "lov-databeskyttelsesloven"
+      ],
+      "kilder": [
+        "https://www.retsinformation.dk/eli/lta/2024/289"
+      ]
+    },
+    {
+      "emne": "Ministerium for Datatilsynet efter 3. juni 2026",
+      "type": "uklart",
+      "beskrivelse": "Belægget er 2024-årsrapport og Retsinformations ministeriefelt; justitsministeriet.dk's menu viser Datatilsynet under justitsvæsenet, men uden citerbar sætning.",
+      "noder": [
+        "tilsyn-datatilsynet"
+      ],
+      "kilder": [
+        "https://www.justitsministeriet.dk/ministeriet/justitsvaesenet/"
+      ]
+    }
+  ],
+  "noter": "Ikke nået: cookiereglerne; bekendtgørelser under retshåndhævelsesloven (BEK 589/2026, 291/2025 m.fl.); Ombudsmandens rolle over for Datatilsynet; Datarådets medlemssammensætning i dag (finansministeren i stedet for erhvervs- og offentlig innovation-ministrene, jf. Datatilsynets 2021-beretning, ikke efterprøvet; lovteksten nævner stadig de gamle). Eksisterende registry: ingen fejl set i de genbrugte noder. [Orkestrator 2026-11-12: citatet 'Datatilsynet opdaterer og producerer løbende vejledning' er rettet til sidens ordlyd ('… vejledninger.') i fem belæg; ét bogstav manglede, og citatkontrollen fandt det derfor ikke.] [Orkestrator 2026-11-12: kanten lov-databeskyttelsesloven|implementerer_EU|eu-reg-2016-679 er omtypet til henviser_til: en forordning gælder umiddelbart og implementeres ikke (kontrollantens indvending). Kontrollanten afviste også eu-reg-2016-679|hjemmel_for|eu-edpb og de to udsteder-kanter fra eu-edpb på skemagrunde, som ikke holder: registry har i forvejen eu-reg-2006-1907|hjemmel_for|eu-echa, og EU-institutioner har eu-id'er.] [Orkestrator 2026-11-12: 1 ressortansvar-kanter til bekendtgørelser var afvist alene på kanttypen; de er sat til delvist, fordi typen bruges sådan i registry.]"
+}

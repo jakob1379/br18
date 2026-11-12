@@ -1,0 +1,1461 @@
+{
+  "omraade": "soefart",
+  "noder": [
+    {
+      "id": "sty-soefartsstyrelsen",
+      "navn": "Søfartsstyrelsen",
+      "type": "styrelse",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Lov om sikkerhed til søs § 17, stk. 2: Søfartsstyrelsen varetager administrationen af loven og påser, at loven og de i medfør heraf fastsatte regler overholdes; styrelsen fører efter lodslovens § 24 tilsyn med lodsning, lodser og lodserier.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2022/221",
+            "citat": "Søfartsstyrelsen varetager administrationen af denne lov, jf. dog § 7, stk. 2, § 8 og § 20 a og har til opgave at"
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/346",
+            "citat": "Søfartsstyrelsen fører tilsyn med lodsning, lodser og lodserier."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.soefartsstyrelsen.dk/",
+        "belaeg": [
+          {
+            "url": "https://www.soefartsstyrelsen.dk/om-os",
+            "citat": "Søfartsstyrelsen er en del af Erhvervsministeriet og arbejder for styrkelse af rammebetingelser for de maritime erhverv, sikkerhed og miljø på skibene"
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "bekendtgørelse",
+            "bindende": "bindende",
+            "note": "tekniske forskrifter m.v. udstedt efter bemyndigelse; offentliggøres på Retsinformation"
+          },
+          {
+            "type": "afgørelse",
+            "bindende": "bindende",
+            "note": "fx tilbageholdelse af skibe og besætningsfastsættelse; kan påklages efter BEK 261/2020 § 7"
+          },
+          {
+            "type": "cirkulær",
+            "bindende": "vejledende",
+            "note": "uddybende forklaring af reglerne"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.soefartsstyrelsen.dk/vaekst-and-rammevilkaar/regler-og-cirkulaerer/regler-og-bekendtgoerelser",
+            "citat": "Søfartsstyrelsen har ansvaret for love og bekendtgørelser om søsikkerhed, tekniske forskrifter, maritim arbejds- og socialret (søfartssociale forhold) samt skibsregistrering."
+          },
+          {
+            "url": "https://www.soefartsstyrelsen.dk/vaekst-and-rammevilkaar/regler-og-cirkulaerer",
+            "citat": "Søfartsstyrelsen har udstedt en række cirkulærer, som giver en mere uddybende forklaring på, hvordan en bestemt regel skal forstås."
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Søfartsstyrelsen",
+        "Meddelelser fra Søfartsstyrelsen [A-F]",
+        "Skibstilsynets Meddelelser [A-F]"
+      ],
+      "note": "Styrelsen i Korsør (dma.dk) er førsteinstans for sikkerhed til søs, besætningsfastsættelse, skibsregistrering, søfarendes beviser og lodstilsyn. Hører under Erhvervsministeriet efter regeringsskiftet 3/6/2026 (styrelsens om-os-side og Retsinformations ministerifelt på bekendtgørelser fra 2026). Lodsloven er ressortmæssigt flyttet til Ministeriet for Samfundssikkerhed og Beredskab, men Søfartsstyrelsen udøver stadig lodstilsynet (lodslovens § 24). Mangler: Skibsregistret og Søfartens Arbejdsmiljøråd som selvstændige noder, se huller."
+    },
+    {
+      "id": "naevn-ankenaevnet-for-soefartsforhold",
+      "navn": "Ankenævnet for Søfartsforhold",
+      "type": "klagenævn",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Lov om sikkerhed til søs § 21, stk. 1: erhvervsministeren nedsætter Ankenævnet, der bl.a. behandler klager over tilbageholdelse af skibe, anløbsforbud, besætningsfastsættelse og søfartslægers helbredsafgørelser.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2022/221",
+            "citat": "Erhvervsministeren nedsætter et Ankenævn for Søfartsforhold, der behandler klager over tilbageholdelse af skibe og forbud imod anløb af dansk havn"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://naevneneshus.dk/start-din-klage/ankenaevnet-for-soefartsforhold/",
+        "belaeg": [
+          {
+            "url": "https://naevneneshus.dk/start-din-klage/ankenaevnet-for-soefartsforhold/",
+            "citat": "Nævnet behandler klager over afgørelser om bl.a. godkendelse af søfarendes sundhedsbevis eller sønæringsbevis, skibes besætningsfastsættelse og tilbageholdelse af fartøj i dansk farvand."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse",
+            "bindende": "bindende",
+            "note": "endelig administrativt; kan indbringes for domstolene inden 4 uger"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2022/221",
+            "citat": "Nævnets afgørelser kan ikke indbringes for anden administrativ myndighed. Senest 4 uger efter at nævnet har truffet afgørelse, kan sagen af hver af parterne indbringes for domstolene."
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Ankenævnet for Søfartsforhold",
+        "Ankenævnet for Søfartsforholds afgørelse af [dato]"
+      ],
+      "note": "Formand og stedfortræder er landsdommere; sagkyndige medlemmer indstilles af organisationer. Sekretariatet er i dag Nævnenes Hus i Viborg (nævnets egen side), selvom BEK 1121/2013 § 3 stadig siger, at Søfartsstyrelsen stiller sekretariatsbistand til rådighed. Nævnet er ikke Erhvervsankenævnet. Klagefrister: 8 uger for sundhedsbevis, 4 uger for forhåndsfastsat besætning (BEK 261/2020 § 7, stk. 6 siger 4 uger for stk. 2-4)."
+    },
+    {
+      "id": "raad-skibstilsynsraadet",
+      "navn": "Skibstilsynsrådet",
+      "type": "råd",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Lov om sikkerhed til søs § 26, stk. 1: erhvervsministeren nedsætter Skibstilsynsrådet, der rådgiver Erhvervsministeriet og Søfartsstyrelsen om sikkerhed til søs.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2022/221",
+            "citat": "Erhvervsministeren nedsætter Skibstilsynsrådet, der 1) rådgiver Erhvervsministeriet og Søfartsstyrelsen vedrørende sikkerhed til søs"
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "anbefaling",
+            "bindende": "vejledende",
+            "note": "rådgivning og forslag; rådet træffer ikke afgørelser i enkeltsager"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2022/221",
+            "citat": "fremsætter ønsker og forslag vedrørende lovgivningen om sikkerhed til søs og den dertil knyttede administration"
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Skibstilsynsrådet"
+      ],
+      "note": "Rent rådgivende organ for sikkerhed til søs med repræsentanter for rederier, søfarende og værfter; ingen afgørelser og dermed ingen klagekæde. Rådets egen hjemmeside er ikke fundet. Fastsætter ifølge § 27, stk. 1 regler om udvælgelse af medlemmer til arbejdsmiljøråd."
+    },
+    {
+      "id": "sty-den-maritime-havarikommission",
+      "navn": "Den Maritime Havarikommission",
+      "type": "styrelse",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Lov om sikkerhedsundersøgelse af ulykker til søs § 1: ministeren opretter Den Maritime Havarikommission til at undersøge ulykker og hændelser til søs; § 4: kommissionen virker uafhængigt.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2011/457",
+            "citat": "Økonomi- og erhvervsministeren opretter Den Maritime Havarikommission, der har til opgave at foretage undersøgelse af ulykker og hændelser til søs med henblik på at mindske risikoen for fremtidige ulykker til søs."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2011/457",
+            "citat": "Havarikommissionen skal virke uafhængigt af personer, virksomheder og institutioner, hvis interesser kan være i konflikt med undersøgelsesarbejdet."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://dmaib.dk/",
+        "belaeg": [
+          {
+            "url": "https://dmaib.dk/",
+            "citat": "En selvstændig enhed under Erhvervsministeriet der undersøger ulykker indenfor skibsfart"
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "undersøgelsesrapport",
+            "bindende": "vejledende",
+            "note": "sikkerhedsundersøgelse; tager ikke stilling til skyld eller erstatning"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2011/457",
+            "citat": "Havarikommissionen skal ikke tage stilling til de strafferetlige eller erstatningsretlige aspekter ved ulykkerne eller hændelserne"
+          },
+          {
+            "url": "https://dmaib.dk/",
+            "citat": "Tilmeld nyhedsbrev for at modtage nye rapporter"
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Den Maritime Havarikommission",
+        "Havarikommissionens rapport"
+      ],
+      "note": "Adskilt fra sty-havarikommissionen (luftfart og jernbane). Loven nævner stadig Økonomi- og erhvervsministeren; Retsinformation fører loven under Erhvervsministeriet. Ikke en klageinstans."
+    },
+    {
+      "id": "kilde-dmaib-rapporter",
+      "navn": "Den Maritime Havarikommissions rapporter (dmaib.dk)",
+      "type": "dokumentkilde",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://dmaib.dk/",
+        "belaeg": [
+          {
+            "url": "https://dmaib.dk/",
+            "citat": "Seneste rapporter Gå til arkiv Igangværende undersøgelser"
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "undersøgelsesrapport",
+            "bindende": "vejledende"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://dmaib.dk/",
+            "citat": "Seneste rapporter Gå til arkiv Igangværende undersøgelser"
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML"
+        ],
+        "note": "Rapportarkiv pr. år, 2010-2025, med nyhedsbrev.",
+        "belaeg": [
+          {
+            "url": "https://dmaib.dk/",
+            "citat": "Tilmeld nyhedsbrev for at modtage nye rapporter"
+          }
+        ]
+      },
+      "opdatering": {
+        "frekvens": "løbende",
+        "versionshistorik": "rapportarkiv pr. år fra 2010",
+        "belaeg": [
+          {
+            "url": "https://dmaib.dk/",
+            "citat": "Tilmeld nyhedsbrev for at modtage nye rapporter"
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 3,
+        "besvaer": 3,
+        "begrundelse": "Eneste samling af søulykkesundersøgelser; rapportnumre og vilkår ikke undersøgt."
+      }
+    },
+    {
+      "id": "kilde-soefartsstyrelsen-regler",
+      "navn": "Søfartsstyrelsens regler og bekendtgørelser (soefartsstyrelsen.dk)",
+      "type": "dokumentkilde",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://www.soefartsstyrelsen.dk/vaekst-and-rammevilkaar/regler-og-cirkulaerer/regler-og-bekendtgoerelser",
+        "belaeg": [
+          {
+            "url": "https://www.soefartsstyrelsen.dk/vaekst-and-rammevilkaar/regler-og-cirkulaerer/regler-og-bekendtgoerelser",
+            "citat": "Søfartsstyrelsen har ansvaret for love og bekendtgørelser om søsikkerhed, tekniske forskrifter, maritim arbejds- og socialret (søfartssociale forhold) samt skibsregistrering."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "bekendtgørelse",
+            "bindende": "bindende"
+          },
+          {
+            "type": "cirkulær",
+            "bindende": "vejledende"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.soefartsstyrelsen.dk/vaekst-and-rammevilkaar/regler-og-cirkulaerer/regler-og-bekendtgoerelser",
+            "citat": "Søfartsstyrelsen har ansvaret for love og bekendtgørelser om søsikkerhed, tekniske forskrifter, maritim arbejds- og socialret (søfartssociale forhold) samt skibsregistrering."
+          },
+          {
+            "url": "https://www.soefartsstyrelsen.dk/vaekst-and-rammevilkaar/regler-og-cirkulaerer",
+            "citat": "Søfartsstyrelsen har udstedt en række cirkulærer, som giver en mere uddybende forklaring på, hvordan en bestemt regel skal forstås."
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML"
+        ],
+        "note": "Søgbar liste, der peger videre til Retsinformation, som er autoritativ kilde.",
+        "belaeg": [
+          {
+            "url": "https://www.soefartsstyrelsen.dk/vaekst-and-rammevilkaar/regler-og-cirkulaerer/regler-og-bekendtgoerelser",
+            "citat": "Nedenfor kan du finde de seneste regler på Søfartsstyrelsens område."
+          }
+        ]
+      },
+      "identifikatorer": {
+        "andet": "Bekendtgørelser nummereres BEK nr. N af dd/mm/åååå (Retsinformation).",
+        "belaeg": [
+          {
+            "url": "https://www.soefartsstyrelsen.dk/vaekst-and-rammevilkaar/regler-og-cirkulaerer/regler-og-bekendtgoerelser",
+            "citat": "Bekendtgørelse nr 972 af 28/10/2026 Bekendtgørelse om forsikring eller anden garanti til dækning af ejerens ansvar ved vragfjernelse m.v."
+          }
+        ]
+      },
+      "opdatering": {
+        "frekvens": "løbende",
+        "versionshistorik": "nyeste regler øverst",
+        "belaeg": [
+          {
+            "url": "https://www.soefartsstyrelsen.dk/vaekst-and-rammevilkaar/regler-og-cirkulaerer/regler-og-bekendtgoerelser",
+            "citat": "Nedenfor kan du finde de seneste regler på Søfartsstyrelsens område."
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 3,
+        "besvaer": 3,
+        "begrundelse": "Indgang til gældende regler; selve teksten ligger på Retsinformation."
+      }
+    },
+    {
+      "id": "kilde-meddelelser-fra-soefartsstyrelsen",
+      "navn": "Meddelelser fra Søfartsstyrelsen (tekniske forskrifter A, B, E, F)",
+      "type": "dokumentkilde",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2016/1512",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2016/1512",
+            "citat": "Bekendtgørelse om Meddelelser fra Søfartsstyrelsen B, skibes bygning og udstyr i skibe m.v."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "bekendtgørelse",
+            "bindende": "bindende",
+            "note": "tekniske forskrifter udstedt som bekendtgørelser under lov om sikkerhed til søs"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2010/1459",
+            "citat": "Bekendtgørelse om Meddelelser fra Søfartsstyrelsen E, Teknisk forskrift om fiskeskibes bygning og udstyr m.v."
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "ELI",
+          "HTML"
+        ],
+        "note": "Hver serie er en selvstændig bekendtgørelse på Retsinformation.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2009/1246",
+            "citat": "Bekendtgørelse om Meddelelser fra Søfartsstyrelsen A, teknisk forskrift om arbejdsmiljø i skibe"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "andet": "Serien er bogstavnummereret: Meddelelser fra Søfartsstyrelsen A (arbejdsmiljø), B (bygning og udstyr), E (fiskeskibe), F (mindre erhvervsfartøjer); ældre Skibstilsynets Meddelelser C. Hver er en BEK på Retsinformation.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/472",
+            "citat": "eller som er omfattet af Meddelelser fra Søfartsstyrelsen E"
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/472",
+            "citat": "Skibstilsynets Meddelelser C med senere ændringer"
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 4,
+        "besvaer": 4,
+        "begrundelse": "Bærer de tekniske krav til skibe; krydsrefereres med bogstav. Serien er under afløsning af emnebekendtgørelser (fx SOLAS-bekendtgørelsen BEK 472/2026), så B og A kan være erstattet."
+      }
+    },
+    {
+      "id": "bek-meddelelser-a",
+      "navn": "Meddelelser fra Søfartsstyrelsen A (arbejdsmiljø i skibe), BEK nr. 1246 af 11/12/2009",
+      "type": "bekendtgørelse",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Lov om sikkerhed til søs §§ 1, 3-5, 20, 27 og 32 (bemyndigelse til tekniske forskrifter)",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2009/1246",
+            "citat": "I medfør af § 1, stk. 2 og 3, §§ 3-5, § 20, stk. 4, § 27, stk. 4, og § 32, i lov om sikkerhed til søs, jf. lovbekendtgørelse nr. 903 af 12. juli 2007"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2009/1246",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2009/1246",
+            "citat": "Bekendtgørelse om Meddelelser fra Søfartsstyrelsen A, teknisk forskrift om arbejdsmiljø i skibe"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2009/1246",
+        "lovtidende": "BEK nr. 1246 af 11/12/2009",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2009/1246",
+            "citat": "Bekendtgørelse om Meddelelser fra Søfartsstyrelsen A, teknisk forskrift om arbejdsmiljø i skibe"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bek-meddelelser-b",
+      "navn": "Meddelelser fra Søfartsstyrelsen B (skibes bygning og udstyr), BEK nr. 1512 af 08/12/2016",
+      "type": "bekendtgørelse",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Lov om sikkerhed til søs §§ 1, 3-5 og 32 (bemyndigelse til tekniske forskrifter)",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2016/1512",
+            "citat": "I medfør af § 1, stk. 2 og 4, § 3, § 4, stk. 1 og 2, § 5 og § 32, stk. 8, i lov om sikkerhed til søs, jf. lovbekendtgørelse nr. 72 af 17. januar 2014"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2016/1512",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2016/1512",
+            "citat": "Bekendtgørelse om Meddelelser fra Søfartsstyrelsen B, skibes bygning og udstyr i skibe m.v."
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2016/1512",
+        "lovtidende": "BEK nr. 1512 af 08/12/2016",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2016/1512",
+            "citat": "Bekendtgørelse om Meddelelser fra Søfartsstyrelsen B, skibes bygning og udstyr i skibe m.v."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bek-meddelelser-e",
+      "navn": "Meddelelser fra Søfartsstyrelsen E (fiskeskibes bygning og udstyr), BEK nr. 1459 af 14/12/2010",
+      "type": "bekendtgørelse",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Lov om sikkerhed til søs §§ 1, 3-5, 17, 28 og 32 (bemyndigelse til tekniske forskrifter)",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2010/1459",
+            "citat": "I medfør af § 1, stk. 2, §§ 3-5, § 17, stk. 2 og 5, § 28 og § 32, stk. 8, i lov om sikkerhed til søs, jf. lovbekendtgørelse nr. 654 af 15. juni 2010"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2010/1459",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2010/1459",
+            "citat": "Bekendtgørelse om Meddelelser fra Søfartsstyrelsen E, Teknisk forskrift om fiskeskibes bygning og udstyr m.v."
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2010/1459",
+        "lovtidende": "BEK nr. 1459 af 14/12/2010",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2010/1459",
+            "citat": "Bekendtgørelse om Meddelelser fra Søfartsstyrelsen E, Teknisk forskrift om fiskeskibes bygning og udstyr m.v."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bek-meddelelser-f",
+      "navn": "Meddelelser fra Søfartsstyrelsen F (mindre erhvervsfartøjers bygning og udstyr), BEK nr. 1460 af 14/12/2010",
+      "type": "bekendtgørelse",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Lov om sikkerhed til søs §§ 1, 3-5, 17, 28 og 32 (bemyndigelse til tekniske forskrifter)",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2010/1460",
+            "citat": "I medfør af § 1, stk. 2, §§ 3-5, § 17, stk. 5, § 28 og § 32, stk. 8, i lov om sikkerhed til søs, jf. lovbekendtgørelse nr. 654 af 15. juni 2010"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2010/1460",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2010/1460",
+            "citat": "Bekendtgørelse om Meddelelser fra Søfartsstyrelsen F, teknisk forskrift om mindre erhvervsfartøjers bygning og udstyr m.v."
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2010/1460",
+        "lovtidende": "BEK nr. 1460 af 14/12/2010",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2010/1460",
+            "citat": "Bekendtgørelse om Meddelelser fra Søfartsstyrelsen F, teknisk forskrift om mindre erhvervsfartøjers bygning og udstyr m.v."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bek-ankenaevn-soefartsforhold-forretningsorden",
+      "navn": "Bekendtgørelse om forretningsorden for Ankenævnet for Søfartsforhold (BEK nr. 1121 af 19/09/2013)",
+      "type": "bekendtgørelse",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Lov om sikkerhed til søs § 21, stk. 7",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2013/1121",
+            "citat": "I medfør af § 21, stk. 7, i lov om sikkerhed til søs, jf. lovbekendtgørelse nr. 654 af 15. juni 2010"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2013/1121",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2013/1121",
+            "citat": "Bekendtgørelse om forretningsorden for Ankenævnet for Søfartsforhold"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2013/1121",
+        "lovtidende": "BEK nr. 1121 af 19/09/2013",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2013/1121",
+            "citat": "Bekendtgørelse om forretningsorden for Ankenævnet for Søfartsforhold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bek-skibstilsynsraadet-forretningsorden",
+      "navn": "Bekendtgørelse af forretningsorden for Skibstilsynsrådet (BEK nr. 883 af 03/10/1996)",
+      "type": "bekendtgørelse",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Lov om sikkerhed til søs § 26, stk. 3: erhvervsministeren fastsætter rådets forretningsorden",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2022/221",
+            "citat": "Erhvervsministeren fastsætter rådets forretningsorden."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/1996/883",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/1996/883",
+            "citat": "Bekendtgørelse af forretningsorden for Skibstilsynsrådet"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/1996/883",
+        "lovtidende": "BEK nr. 883 af 03/10/1996",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/1996/883",
+            "citat": "Bekendtgørelse af forretningsorden for Skibstilsynsrådet"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bek-soefartsstyrelsen-henlaeggelse",
+      "navn": "Bekendtgørelse om henlæggelse af visse beføjelser til Søfartsstyrelsen og om klageadgang m.v. (BEK nr. 261 af 23/03/2020)",
+      "type": "bekendtgørelse",
+      "ministerium": "min-samfundssikkerhed-og-beredskab",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Lov om Handelsflådens Arbejdsmiljø- og Velfærdsråd § 8, lov om skibes besætning § 26, stk. 2, lov om sikkerhed til søs § 17, stk. 9 og § 21, stk. 2 m.fl.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2020/261",
+            "citat": "I medfør af § 8 i lov om Handelsflådens Arbejdsmiljø- og Velfærdsråd, jf. lovbekendtgørelse nr. 70 af 17. januar 2014"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2020/261",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2020/261",
+            "citat": "Bekendtgørelse om henlæggelse af visse beføjelser til Søfartsstyrelsen og om klageadgang m.v."
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2020/261",
+        "lovtidende": "BEK nr. 261 af 23/03/2020",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2020/261",
+            "citat": "Bekendtgørelse om henlæggelse af visse beføjelser til Søfartsstyrelsen og om klageadgang m.v."
+          }
+        ]
+      }
+    },
+    {
+      "id": "lov-sikkerhed-til-soes",
+      "navn": "Lov om sikkerhed til søs",
+      "type": "lov",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2022/221",
+            "citat": "Bekendtgørelse af lov om sikkerhed til søs"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2022/221",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2022/221",
+            "citat": "Bekendtgørelse af lov om sikkerhed til søs"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2022/221",
+        "lovtidende": "LBK nr. 221 af 11/02/2022",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2022/221",
+            "citat": "Bekendtgørelse af lov om sikkerhed til søs"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lov-soeloven",
+      "navn": "Søloven",
+      "type": "lov",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/776",
+            "citat": "Bekendtgørelse af søloven"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2025/776",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/776",
+            "citat": "Bekendtgørelse af søloven"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2025/776",
+        "lovtidende": "LBK nr. 776 af 18/06/2025",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/776",
+            "citat": "Bekendtgørelse af søloven"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lov-skibes-besaetning",
+      "navn": "Lov om skibes besætning",
+      "type": "lov",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1001",
+            "citat": "Bekendtgørelse af lov om skibes besætning"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2025/1001",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1001",
+            "citat": "Bekendtgørelse af lov om skibes besætning"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2025/1001",
+        "lovtidende": "LBK nr. 1001 af 26/06/2025",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1001",
+            "citat": "Bekendtgørelse af lov om skibes besætning"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lov-soefarendes-ansaettelsesforhold",
+      "navn": "Lov om søfarendes ansættelsesforhold m.v.",
+      "type": "lov",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/335",
+            "citat": "Bekendtgørelse af lov om søfarendes ansættelsesforhold m.v."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2024/335",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/335",
+            "citat": "Bekendtgørelse af lov om søfarendes ansættelsesforhold m.v."
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2024/335",
+        "lovtidende": "LBK nr. 335 af 09/04/2024",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/335",
+            "citat": "Bekendtgørelse af lov om søfarendes ansættelsesforhold m.v."
+          }
+        ]
+      }
+    },
+    {
+      "id": "lov-lodsloven",
+      "navn": "Lodsloven (Bekendtgørelse af lodslov)",
+      "type": "lov",
+      "ministerium": "min-samfundssikkerhed-og-beredskab",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/346",
+            "citat": "Bekendtgørelse af lodslov"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2023/346",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/346",
+            "citat": "Bekendtgørelse af lodslov"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2023/346",
+        "lovtidende": "LBK nr. 346 af 29/03/2023",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/346",
+            "citat": "Bekendtgørelse af lodslov"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lov-dis-loven",
+      "navn": "Lov om Dansk Internationalt Skibsregister (DIS-loven)",
+      "type": "lov",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2020/390",
+            "citat": "Bekendtgørelse af lov om Dansk Internationalt Skibsregister"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2020/390",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2020/390",
+            "citat": "Bekendtgørelse af lov om Dansk Internationalt Skibsregister"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2020/390",
+        "lovtidende": "LBK nr. 390 af 01/04/2020",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2020/390",
+            "citat": "Bekendtgørelse af lov om Dansk Internationalt Skibsregister"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lov-sikkerhedsundersoegelse-soeulykker",
+      "navn": "Lov om sikkerhedsundersøgelse af ulykker til søs",
+      "type": "lov",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2011/457",
+            "citat": "Lov om sikkerhedsundersøgelse af ulykker til søs"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2011/457",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2011/457",
+            "citat": "Lov om sikkerhedsundersøgelse af ulykker til søs"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2011/457",
+        "lovtidende": "LOV nr. 457 af 18/05/2011",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2011/457",
+            "citat": "Lov om sikkerhedsundersøgelse af ulykker til søs"
+          }
+        ]
+      }
+    }
+  ],
+  "kanter": [
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "bek-meddelelser-a",
+      "beskrivelse": "Bekendtgørelse under erhvervsministeren; Retsinformation fører den under Erhvervsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2009/1246",
+          "citat": "Bekendtgørelse om Meddelelser fra Søfartsstyrelsen A, teknisk forskrift om arbejdsmiljø i skibe"
+        }
+      ]
+    },
+    {
+      "from": "lov-sikkerhed-til-soes",
+      "type": "hjemmel_for",
+      "to": "bek-meddelelser-a",
+      "beskrivelse": "Lov om sikkerhed til søs §§ 1, 3-5, 20, 27 og 32 (bemyndigelse til tekniske forskrifter)",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2009/1246",
+          "citat": "I medfør af § 1, stk. 2 og 3, §§ 3-5, § 20, stk. 4, § 27, stk. 4, og § 32, i lov om sikkerhed til søs, jf. lovbekendtgørelse nr. 903 af 12. juli 2007"
+        }
+      ]
+    },
+    {
+      "from": "sty-soefartsstyrelsen",
+      "type": "udsteder",
+      "to": "bek-meddelelser-a",
+      "beskrivelse": "Søfartsstyrelsen er udsteder (Meddelelser fra Søfartsstyrelsen).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2009/1246",
+          "citat": "Bekendtgørelse om Meddelelser fra Søfartsstyrelsen A, teknisk forskrift om arbejdsmiljø i skibe"
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "bek-meddelelser-b",
+      "beskrivelse": "Bekendtgørelse under erhvervsministeren; Retsinformation fører den under Erhvervsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2016/1512",
+          "citat": "Bekendtgørelse om Meddelelser fra Søfartsstyrelsen B, skibes bygning og udstyr i skibe m.v."
+        }
+      ]
+    },
+    {
+      "from": "lov-sikkerhed-til-soes",
+      "type": "hjemmel_for",
+      "to": "bek-meddelelser-b",
+      "beskrivelse": "Lov om sikkerhed til søs §§ 1, 3-5 og 32 (bemyndigelse til tekniske forskrifter)",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2016/1512",
+          "citat": "I medfør af § 1, stk. 2 og 4, § 3, § 4, stk. 1 og 2, § 5 og § 32, stk. 8, i lov om sikkerhed til søs, jf. lovbekendtgørelse nr. 72 af 17. januar 2014"
+        }
+      ]
+    },
+    {
+      "from": "sty-soefartsstyrelsen",
+      "type": "udsteder",
+      "to": "bek-meddelelser-b",
+      "beskrivelse": "Søfartsstyrelsen er udsteder (Meddelelser fra Søfartsstyrelsen).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2016/1512",
+          "citat": "Bekendtgørelse om Meddelelser fra Søfartsstyrelsen B, skibes bygning og udstyr i skibe m.v."
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "bek-meddelelser-e",
+      "beskrivelse": "Bekendtgørelse under erhvervsministeren; Retsinformation fører den under Erhvervsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2010/1459",
+          "citat": "Bekendtgørelse om Meddelelser fra Søfartsstyrelsen E, Teknisk forskrift om fiskeskibes bygning og udstyr m.v."
+        }
+      ]
+    },
+    {
+      "from": "lov-sikkerhed-til-soes",
+      "type": "hjemmel_for",
+      "to": "bek-meddelelser-e",
+      "beskrivelse": "Lov om sikkerhed til søs §§ 1, 3-5, 17, 28 og 32 (bemyndigelse til tekniske forskrifter)",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2010/1459",
+          "citat": "I medfør af § 1, stk. 2, §§ 3-5, § 17, stk. 2 og 5, § 28 og § 32, stk. 8, i lov om sikkerhed til søs, jf. lovbekendtgørelse nr. 654 af 15. juni 2010"
+        }
+      ]
+    },
+    {
+      "from": "sty-soefartsstyrelsen",
+      "type": "udsteder",
+      "to": "bek-meddelelser-e",
+      "beskrivelse": "Søfartsstyrelsen er udsteder (Meddelelser fra Søfartsstyrelsen).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2010/1459",
+          "citat": "Bekendtgørelse om Meddelelser fra Søfartsstyrelsen E, Teknisk forskrift om fiskeskibes bygning og udstyr m.v."
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "bek-meddelelser-f",
+      "beskrivelse": "Bekendtgørelse under erhvervsministeren; Retsinformation fører den under Erhvervsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2010/1460",
+          "citat": "Bekendtgørelse om Meddelelser fra Søfartsstyrelsen F, teknisk forskrift om mindre erhvervsfartøjers bygning og udstyr m.v."
+        }
+      ]
+    },
+    {
+      "from": "lov-sikkerhed-til-soes",
+      "type": "hjemmel_for",
+      "to": "bek-meddelelser-f",
+      "beskrivelse": "Lov om sikkerhed til søs §§ 1, 3-5, 17, 28 og 32 (bemyndigelse til tekniske forskrifter)",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2010/1460",
+          "citat": "I medfør af § 1, stk. 2, §§ 3-5, § 17, stk. 5, § 28 og § 32, stk. 8, i lov om sikkerhed til søs, jf. lovbekendtgørelse nr. 654 af 15. juni 2010"
+        }
+      ]
+    },
+    {
+      "from": "sty-soefartsstyrelsen",
+      "type": "udsteder",
+      "to": "bek-meddelelser-f",
+      "beskrivelse": "Søfartsstyrelsen er udsteder (Meddelelser fra Søfartsstyrelsen).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2010/1460",
+          "citat": "Bekendtgørelse om Meddelelser fra Søfartsstyrelsen F, teknisk forskrift om mindre erhvervsfartøjers bygning og udstyr m.v."
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "sty-soefartsstyrelsen",
+      "beskrivelse": "Styrelse under Erhvervsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.soefartsstyrelsen.dk/om-os",
+          "citat": "Søfartsstyrelsen er en del af Erhvervsministeriet og arbejder for styrkelse af rammebetingelser for de maritime erhverv, sikkerhed og miljø på skibene"
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "naevn-ankenaevnet-for-soefartsforhold",
+      "beskrivelse": "Nedsættes af erhvervsministeren (sikkerhed til søs § 21, stk. 1).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2022/221",
+          "citat": "Erhvervsministeren nedsætter et Ankenævn for Søfartsforhold, der behandler klager over tilbageholdelse af skibe og forbud imod anløb af dansk havn"
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "raad-skibstilsynsraadet",
+      "beskrivelse": "Nedsættes af erhvervsministeren (sikkerhed til søs § 26, stk. 1).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2022/221",
+          "citat": "Erhvervsministeren nedsætter Skibstilsynsrådet, der 1) rådgiver Erhvervsministeriet og Søfartsstyrelsen vedrørende sikkerhed til søs"
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "sty-den-maritime-havarikommission",
+      "beskrivelse": "Selvstændig enhed under Erhvervsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://dmaib.dk/",
+          "citat": "En selvstændig enhed under Erhvervsministeriet der undersøger ulykker indenfor skibsfart"
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "bek-ankenaevn-soefartsforhold-forretningsorden",
+      "beskrivelse": "Bekendtgørelse under erhvervsministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2013/1121",
+          "citat": "Bekendtgørelse om forretningsorden for Ankenævnet for Søfartsforhold"
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "bek-skibstilsynsraadet-forretningsorden",
+      "beskrivelse": "Bekendtgørelse under erhvervsministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/1996/883",
+          "citat": "Bekendtgørelse af forretningsorden for Skibstilsynsrådet"
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "lov-sikkerhed-til-soes",
+      "beskrivelse": "Loven hører under Erhvervsministeriet (Retsinformations ministerifelt).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2022/221",
+          "citat": "Bekendtgørelse af lov om sikkerhed til søs"
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "lov-soeloven",
+      "beskrivelse": "Loven hører under Erhvervsministeriet (Retsinformations ministerifelt).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/776",
+          "citat": "Bekendtgørelse af søloven"
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "lov-skibes-besaetning",
+      "beskrivelse": "Loven hører under Erhvervsministeriet (Retsinformations ministerifelt).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1001",
+          "citat": "Bekendtgørelse af lov om skibes besætning"
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "lov-soefarendes-ansaettelsesforhold",
+      "beskrivelse": "Loven hører under Erhvervsministeriet (Retsinformations ministerifelt).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/335",
+          "citat": "Bekendtgørelse af lov om søfarendes ansættelsesforhold m.v."
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "lov-dis-loven",
+      "beskrivelse": "Loven hører under Erhvervsministeriet (Retsinformations ministerifelt).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2020/390",
+          "citat": "Bekendtgørelse af lov om Dansk Internationalt Skibsregister"
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "lov-sikkerhedsundersoegelse-soeulykker",
+      "beskrivelse": "Loven hører under Erhvervsministeriet (Retsinformations ministerifelt).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2011/457",
+          "citat": "Lov om sikkerhedsundersøgelse af ulykker til søs"
+        }
+      ]
+    },
+    {
+      "from": "min-samfundssikkerhed-og-beredskab",
+      "type": "ressortansvar",
+      "to": "lov-lodsloven",
+      "beskrivelse": "Retsinformation fører lodsloven under Ministeriet for Samfundssikkerhed og Beredskab, selvom lovens § 33 a stadig nævner erhvervsministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2023/346",
+          "citat": "Ministeriet for Samfundssikkerhed og Beredskab Søfartsstyrelsen Bekendtgørelse af lodslov"
+        }
+      ]
+    },
+    {
+      "from": "min-samfundssikkerhed-og-beredskab",
+      "type": "ressortansvar",
+      "to": "bek-soefartsstyrelsen-henlaeggelse",
+      "beskrivelse": "Retsinformation fører bekendtgørelsen under Ministeriet for Samfundssikkerhed og Beredskab (den dækker også lodsloven), men den er udstedt af erhvervsministeren og delegerer overvejende Erhvervsministeriets beføjelser.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2020/261",
+          "citat": "Bekendtgørelse om henlæggelse af visse beføjelser til Søfartsstyrelsen og om klageadgang m.v."
+        }
+      ]
+    },
+    {
+      "from": "lov-sikkerhed-til-soes",
+      "type": "hjemmel_for",
+      "to": "sty-soefartsstyrelsen",
+      "beskrivelse": "§ 17, stk. 2: Søfartsstyrelsen administrerer loven og påser overholdelsen.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2022/221",
+          "citat": "Søfartsstyrelsen varetager administrationen af denne lov, jf. dog § 7, stk. 2, § 8 og § 20 a og har til opgave at"
+        }
+      ]
+    },
+    {
+      "from": "lov-sikkerhed-til-soes",
+      "type": "hjemmel_for",
+      "to": "naevn-ankenaevnet-for-soefartsforhold",
+      "beskrivelse": "§ 21: Ankenævnet for Søfartsforhold nedsættes og behandler klager.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2022/221",
+          "citat": "Erhvervsministeren nedsætter et Ankenævn for Søfartsforhold, der behandler klager over tilbageholdelse af skibe og forbud imod anløb af dansk havn"
+        }
+      ]
+    },
+    {
+      "from": "lov-sikkerhed-til-soes",
+      "type": "hjemmel_for",
+      "to": "raad-skibstilsynsraadet",
+      "beskrivelse": "§ 26: Skibstilsynsrådet nedsættes af erhvervsministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2022/221",
+          "citat": "Erhvervsministeren nedsætter Skibstilsynsrådet, der 1) rådgiver Erhvervsministeriet og Søfartsstyrelsen vedrørende sikkerhed til søs"
+        }
+      ]
+    },
+    {
+      "from": "lov-sikkerhed-til-soes",
+      "type": "hjemmel_for",
+      "to": "bek-ankenaevn-soefartsforhold-forretningsorden",
+      "beskrivelse": "§ 21, stk. 7: forretningsorden for Ankenævnet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2013/1121",
+          "citat": "I medfør af § 21, stk. 7, i lov om sikkerhed til søs, jf. lovbekendtgørelse nr. 654 af 15. juni 2010"
+        }
+      ]
+    },
+    {
+      "from": "lov-sikkerhed-til-soes",
+      "type": "hjemmel_for",
+      "to": "bek-skibstilsynsraadet-forretningsorden",
+      "beskrivelse": "§ 26, stk. 3: erhvervsministeren fastsætter rådets forretningsorden.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2022/221",
+          "citat": "Erhvervsministeren fastsætter rådets forretningsorden."
+        }
+      ]
+    },
+    {
+      "from": "lov-sikkerhedsundersoegelse-soeulykker",
+      "type": "hjemmel_for",
+      "to": "sty-den-maritime-havarikommission",
+      "beskrivelse": "§ 1: Den Maritime Havarikommission oprettes.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2011/457",
+          "citat": "Økonomi- og erhvervsministeren opretter Den Maritime Havarikommission, der har til opgave at foretage undersøgelse af ulykker og hændelser til søs med henblik på at mindske risikoen for fremtidige ulykker til søs."
+        }
+      ]
+    },
+    {
+      "from": "lov-lodsloven",
+      "type": "hjemmel_for",
+      "to": "sty-soefartsstyrelsen",
+      "beskrivelse": "§ 24: Søfartsstyrelsen fører tilsyn med lodsning, lodser og lodserier.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2023/346",
+          "citat": "Søfartsstyrelsen fører tilsyn med lodsning, lodser og lodserier."
+        }
+      ]
+    },
+    {
+      "from": "lov-sikkerhed-til-soes",
+      "type": "hjemmel_for",
+      "to": "bek-soefartsstyrelsen-henlaeggelse",
+      "beskrivelse": "§ 17, stk. 9 og § 21, stk. 2 giver adgang til at fastsætte klageadgang og henlægge beføjelser; bekendtgørelsen gør det.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2022/221",
+          "citat": "Erhvervsministeren kan fastsætte regler om klageadgang, herunder om at Søfartsstyrelsens og andre offentlige myndigheders afgørelser truffet i medfør af loven ikke kan indbringes for anden administrativ myndighed"
+        }
+      ]
+    },
+    {
+      "from": "bek-soefartsstyrelsen-henlaeggelse",
+      "type": "hjemmel_for",
+      "to": "naevn-ankenaevnet-for-soefartsforhold",
+      "beskrivelse": "§ 7, stk. 2 og 6: afgørelser, der kan indbringes for Ankenævnet; klagefrist 4 uger.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2020/261",
+          "citat": "Følgende afgørelser kan af vedkommende rederi indbringes for Ankenævnet for Søfartsforhold: 1) Afgørelser om tilbageholdelse af skibe og anløbsforbud"
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "delegation",
+      "to": "sty-soefartsstyrelsen",
+      "beskrivelse": "Bekendtgørelse nr. 261 af 23/03/2020 om henlæggelse af visse beføjelser til Søfartsstyrelsen og om klageadgang m.v.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/472",
+          "citat": "fastsættes efter bemyndigelse i henhold til § 1, stk. 1, nr. 3 i bekendtgørelse nr. 261 af 23. marts 2020 om henlæggelse af visse beføjelser til Søfartsstyrelsen og om klageadgang m.v."
+        }
+      ]
+    },
+    {
+      "from": "naevn-ankenaevnet-for-soefartsforhold",
+      "type": "klageinstans",
+      "to": "sty-soefartsstyrelsen",
+      "beskrivelse": "BEK 261/2020 § 7, stk. 2 (tilbageholdelse, anløbsforbud m.fl.), jf. sikkerhed til søs § 21; Søfartsstyrelsens øvrige afgørelser efter loven kan ikke indbringes for højere administrativ myndighed (§ 7, stk. 1). Frist 4 uger efter afgørelsens meddelelse (§ 7, stk. 6), 8 uger for sundhedsbevis. Nævnets afgørelse er endelig administrativt.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2020/261",
+          "citat": "Følgende afgørelser kan af vedkommende rederi indbringes for Ankenævnet for Søfartsforhold: 1) Afgørelser om tilbageholdelse af skibe og anløbsforbud"
+        }
+      ]
+    },
+    {
+      "from": "dom-domstolene",
+      "type": "klageinstans",
+      "to": "naevn-ankenaevnet-for-soefartsforhold",
+      "beskrivelse": "Lov om sikkerhed til søs § 21, stk. 3: nævnets afgørelser kan indbringes for domstolene inden 4 uger.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2022/221",
+          "citat": "Nævnets afgørelser kan ikke indbringes for anden administrativ myndighed. Senest 4 uger efter at nævnet har truffet afgørelse, kan sagen af hver af parterne indbringes for domstolene."
+        }
+      ]
+    },
+    {
+      "from": "sty-soefartsstyrelsen",
+      "type": "udsteder",
+      "to": "kilde-soefartsstyrelsen-regler",
+      "beskrivelse": "Styrelsen driver siden.",
+      "belaeg": [
+        {
+          "url": "https://www.soefartsstyrelsen.dk/vaekst-and-rammevilkaar/regler-og-cirkulaerer/regler-og-bekendtgoerelser",
+          "citat": "Søfartsstyrelsen har ansvaret for love og bekendtgørelser om søsikkerhed, tekniske forskrifter, maritim arbejds- og socialret (søfartssociale forhold) samt skibsregistrering."
+        }
+      ]
+    },
+    {
+      "from": "sty-soefartsstyrelsen",
+      "type": "udsteder",
+      "to": "kilde-meddelelser-fra-soefartsstyrelsen",
+      "beskrivelse": "Styrelsen udsteder serien Meddelelser fra Søfartsstyrelsen.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2010/1459",
+          "citat": "Bekendtgørelse om Meddelelser fra Søfartsstyrelsen E, Teknisk forskrift om fiskeskibes bygning og udstyr m.v."
+        }
+      ]
+    },
+    {
+      "from": "sty-den-maritime-havarikommission",
+      "type": "udsteder",
+      "to": "kilde-dmaib-rapporter",
+      "beskrivelse": "Kommissionen driver dmaib.dk og udgiver rapporterne.",
+      "belaeg": [
+        {
+          "url": "https://dmaib.dk/",
+          "citat": "Tilmeld nyhedsbrev for at modtage nye rapporter"
+        }
+      ]
+    }
+  ],
+  "rettelser": [],
+  "huller": [
+    {
+      "emne": "Meddelelser fra Søfartsstyrelsen L",
+      "type": "ikke-fundet",
+      "beskrivelse": "Ingen bekendtgørelse med titlen 'Meddelelser fra Søfartsstyrelsen L' i Lovtidende-kataloget eller på Retsinformation; kun A, B, E og F (samt ældre Skibstilsynets Meddelelser C) er fundet. Det er uklart, om B og A er erstattet af emnebekendtgørelser (fx BEK 472/2026 SOLAS, BEK 1517/2025 om psykisk arbejdsmiljø), da Retsinformation endnu viser A, B, E, F som gældende.",
+      "noder": [
+        "kilde-meddelelser-fra-soefartsstyrelsen"
+      ],
+      "kilder": [
+        "https://www.retsinformation.dk/eli/lta/2026/472"
+      ]
+    },
+    {
+      "emne": "Skibsregistret og Dansk Internationalt Skibsregister som instans",
+      "type": "ikke-fundet",
+      "beskrivelse": "Skibsregistrator er hjemlet i DIS-loven, og Søfartsstyrelsen er sekretariat (ifølge søgeresultat), men der er ikke taget en node, fordi instansens egen side og et ordret citat om placeringen ikke blev åbnet. Registrering reguleres af BEK 35/2023 (eli/lta/2023/35).",
+      "noder": [
+        "lov-dis-loven"
+      ],
+      "kilder": [
+        "https://www.retsinformation.dk/eli/lta/2020/390",
+        "https://www.retsinformation.dk/eli/lta/2023/35"
+      ]
+    },
+    {
+      "emne": "Søfartens Arbejdsmiljøråd",
+      "type": "uklart",
+      "beskrivelse": "Sammenlagt med Handelsflådens Velfærdsråd i 2018 til Handelsflådens Arbejdsmiljø- og Velfærdsråd (LBK 389/2020, eli/lta/2020/389). Ikke oprettet som node, da rådets egen side og ministerieområde ikke er verificeret.",
+      "noder": [
+        "sty-soefartsstyrelsen"
+      ],
+      "kilder": [
+        "https://www.retsinformation.dk/eli/lta/2020/389"
+      ]
+    },
+    {
+      "emne": "Skibstilsynsrådets hjemmeside",
+      "type": "ikke-fundet",
+      "beskrivelse": "Ingen selvstændig hjemmeside fundet; noden mangler url.",
+      "noder": [
+        "raad-skibstilsynsraadet"
+      ],
+      "kilder": []
+    },
+    {
+      "emne": "Ankenævnet for Søfartsforholds afgørelser som dokumentkilde",
+      "type": "uklart",
+      "beskrivelse": "Ikke afklaret, om nævnets afgørelser offentliggøres i Nævnenes Hus' afgørelsesportal (kilde-naevneneshus-afgoerelser).",
+      "noder": [
+        "naevn-ankenaevnet-for-soefartsforhold"
+      ],
+      "kilder": [
+        "https://naevneneshus.dk/start-din-klage/ankenaevnet-for-soefartsforhold/"
+      ]
+    },
+    {
+      "emne": "Licens og rapportnummerering for dmaib.dk og Søfartsstyrelsens regelside",
+      "type": "uklart",
+      "beskrivelse": "Ingen vilkårs- eller nummereringstekst citeret.",
+      "noder": [
+        "kilde-dmaib-rapporter",
+        "kilde-soefartsstyrelsen-regler"
+      ],
+      "kilder": [
+        "https://dmaib.dk/",
+        "https://www.soefartsstyrelsen.dk/vaekst-and-rammevilkaar/regler-og-cirkulaerer/regler-og-bekendtgoerelser"
+      ]
+    },
+    {
+      "emne": "Ressort for lodsloven og lodstilsyn",
+      "type": "uklart",
+      "beskrivelse": "Retsinformation fører LBK 346/2023 og BEK 261/2020 under Ministeriet for Samfundssikkerhed og Beredskab, men lodslovens tekst nævner stadig erhvervsministeren (§ 33 a). Ressortbekendtgørelse eller 2026-dokument, der bekræfter fordelingen efter 3/6/2026, er ikke fundet. Søfartsstyrelsen (Erhvervsministeriet) fører selv tilsynet efter § 24. DanPilot (lodsvæsen, tilsynsobjekt) er ikke oprettet som node.",
+      "noder": [
+        "lov-lodsloven"
+      ],
+      "kilder": [
+        "https://www.retsinformation.dk/eli/lta/2023/346"
+      ]
+    }
+  ],
+  "noter": "Uden for område: havne, fiskeri (Fiskeriets Arbejdsmiljøråd), havmiljø (havmiljøloven § 51 a klage til Ankenævnet), offshore, kystbeskyttelse. Sø- og Handelsretten er ikke udpeget af lovene i de læste paragraffer. Ankenævnets forretningsorden (BEK 1121/2013 § 1) viser, at nævnet også dækker lov om dykkerarbejde, havmiljøloven, sikkerhedsundersøgelsesloven og lodsloven. BEK 1121/2013 § 3 og § 1, stk. 2 (sekretariat og adresse hos Søfartsstyrelsen) er forældet i forhold til nævnets side. [Orkestrator 2026-11-12: belægget for bek-skibstilsynsraadet-forretningsorden.hjemmel pegede på bekendtgørelsen selv; sætningen står i lov om sikkerhed til søs § 26, stk. 3 (LBK 221/2022), og adressen er rettet dertil.] [Orkestrator 2026-11-12: 7 ressortansvar-kanter til bekendtgørelser var afvist alene på kanttypen; de er sat til delvist, fordi typen bruges sådan i registry.]"
+}

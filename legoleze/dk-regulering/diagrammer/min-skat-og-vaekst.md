@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 55 · kanter: 107
+Noder: 55 · kanter: 111
 
 ```mermaid
 flowchart LR
@@ -122,7 +122,7 @@ flowchart LR
     lov_skatteforvaltningsloven -->|hjemmel_for| bek_motorankenaevn_forretningsorden
     bek_motorankenaevn_forretningsorden -->|hjemmel_for| naevn_motorankenaevn
     lov_spilleloven -->|hjemmel_for| sty_spillemyndigheden
-    lov_spilleloven -.->|hjemmel_for| bek_spillemyndigheden
+    lov_spilleloven -->|hjemmel_for| bek_spillemyndigheden
     bek_spillemyndigheden -->|hjemmel_for| sty_spillemyndigheden
     lov_it_tilsynsloven -->|hjemmel_for| tilsyn_it_tilsynet
     naevn_landsskatteretten -->|klageinstans| sty_skatteforvaltningen
@@ -172,10 +172,14 @@ flowchart LR
     sty_finanstilsynet -->|udsteder| kilde_finanstilsynet_lovsamling
     lov_finansiel_virksomhed -.->|henviser_til| lov_restrukturering_og_afvikling
     lov_finansiel_virksomhed -.->|implementerer_EU| eu_reg_2013_575
-    lov_finansiel_virksomhed -.->|implementerer_EU| eu_dir_2013_36
+    lov_finansiel_virksomhed -->|implementerer_EU| eu_dir_2013_36
     lov_forsikringsvirksomhed -->|implementerer_EU| eu_dir_2009_138
-    lov_kapitalmarkedsloven -.->|implementerer_EU| eu_dir_2014_65
+    lov_kapitalmarkedsloven -->|implementerer_EU| eu_dir_2014_65
     lov_hvidvaskloven -->|implementerer_EU| eu_dir_2015_849
+    lov_finansiel_virksomhed -->|implementerer_EU| eu_dir_2009_138
+    lov_finansiel_virksomhed -->|implementerer_EU| eu_dir_2014_65
+    lov_finansiel_virksomhed -->|implementerer_EU| eu_dir_2015_849
+    lov_forsikringsvirksomhed -->|implementerer_EU| eu_dir_2015_849
 ```
 
 [← Overblik](oversigt.md)

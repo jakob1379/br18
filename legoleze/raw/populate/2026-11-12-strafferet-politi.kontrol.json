@@ -1,0 +1,1587 @@
+[
+ {
+  "hvor": "sty-rigspolitiet.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-rigspolitiet.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-rigspolitiet.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://politi.dk/rigspolitiet",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-politikredsene.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-politikredsene.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-politikredsene.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.politi.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-statsadvokaterne.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-statsadvokaterne.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-statsadvokaterne.url",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://anklagemyndigheden.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-politiklagemyndigheden.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-politiklagemyndigheden.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://politiklagemyndigheden.dk/aarsberetning-og-statistik/",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-politiklagemyndigheden.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://politiklagemyndigheden.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-danmarks-faengsler.tidligere_navne[Kriminalforsorgen (Direktoratet for Kriminalforsorgen)]",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.altinget.dk/artikel/kriminalforsorgen-skifter-navn",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-danmarks-faengsler.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/201",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/201",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/201",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/201",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-danmarks-faengsler.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/201",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-danmarks-faengsler.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://xn--danmarksfngsler-5lb.dk/om-os/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-erstatningsnaevnet.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1400",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1400",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-erstatningsnaevnet.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1400",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.civilstyrelsen.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-erstatningsnaevnet.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.civilstyrelsen.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-ungdomskriminalitetsnaevnet.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2018/1705",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2018/1705",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2018/1705",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2018/1705",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-ungdomskriminalitetsnaevnet.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2018/1705",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2018/1705",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2018/1705",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "lov-straffeloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "251053",
+   "DocumentTitle": "Bekendtgørelse af straffeloven",
+   "Year": "2025",
+   "DiesSigni": "2025-11-07",
+   "Status": "Valid",
+   "Number": "1294",
+   "PopularTitle": "Straffeloven",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-straffeloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "251053",
+   "DocumentTitle": "Bekendtgørelse af straffeloven",
+   "Year": "2025",
+   "DiesSigni": "2025-11-07",
+   "Status": "Valid",
+   "Number": "1294",
+   "PopularTitle": "Straffeloven",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-straffeloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "251053",
+   "DocumentTitle": "Bekendtgørelse af straffeloven",
+   "Year": "2025",
+   "DiesSigni": "2025-11-07",
+   "Status": "Valid",
+   "Number": "1294",
+   "PopularTitle": "Straffeloven",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-straffeloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "251053",
+   "DocumentTitle": "Bekendtgørelse af straffeloven",
+   "Year": "2025",
+   "DiesSigni": "2025-11-07",
+   "Status": "Valid",
+   "Number": "1294",
+   "PopularTitle": "Straffeloven",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2025/1294",
+   "lovtidende": "LBK nr. 1294 af 07/11/2025"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-politiloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "209271",
+   "DocumentTitle": "Bekendtgørelse af lov om politiets virksomhed",
+   "Year": "2019",
+   "DiesSigni": "2019-11-29",
+   "Status": "Valid",
+   "Number": "1270",
+   "PopularTitle": "Politiloven",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-politiloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "209271",
+   "DocumentTitle": "Bekendtgørelse af lov om politiets virksomhed",
+   "Year": "2019",
+   "DiesSigni": "2019-11-29",
+   "Status": "Valid",
+   "Number": "1270",
+   "PopularTitle": "Politiloven",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-politiloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "209271",
+   "DocumentTitle": "Bekendtgørelse af lov om politiets virksomhed",
+   "Year": "2019",
+   "DiesSigni": "2019-11-29",
+   "Status": "Valid",
+   "Number": "1270",
+   "PopularTitle": "Politiloven",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-politiloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "209271",
+   "DocumentTitle": "Bekendtgørelse af lov om politiets virksomhed",
+   "Year": "2019",
+   "DiesSigni": "2019-11-29",
+   "Status": "Valid",
+   "Number": "1270",
+   "PopularTitle": "Politiloven",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2019/1270",
+   "lovtidende": "LBK nr. 1270 af 29/11/2019"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-straffuldbyrdelsesloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "231934",
+   "DocumentTitle": "Bekendtgørelse af lov om fuldbyrdelse af straf m.v.",
+   "Year": "2023",
+   "DiesSigni": "2023-02-28",
+   "Status": "Valid",
+   "Number": "201",
+   "PopularTitle": "Straffuldbyrdelsesloven",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-straffuldbyrdelsesloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "231934",
+   "DocumentTitle": "Bekendtgørelse af lov om fuldbyrdelse af straf m.v.",
+   "Year": "2023",
+   "DiesSigni": "2023-02-28",
+   "Status": "Valid",
+   "Number": "201",
+   "PopularTitle": "Straffuldbyrdelsesloven",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-straffuldbyrdelsesloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "231934",
+   "DocumentTitle": "Bekendtgørelse af lov om fuldbyrdelse af straf m.v.",
+   "Year": "2023",
+   "DiesSigni": "2023-02-28",
+   "Status": "Valid",
+   "Number": "201",
+   "PopularTitle": "Straffuldbyrdelsesloven",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-straffuldbyrdelsesloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "231934",
+   "DocumentTitle": "Bekendtgørelse af lov om fuldbyrdelse af straf m.v.",
+   "Year": "2023",
+   "DiesSigni": "2023-02-28",
+   "Status": "Valid",
+   "Number": "201",
+   "PopularTitle": "Straffuldbyrdelsesloven",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2023/201",
+   "lovtidende": "LBK nr. 201 af 28/02/2023"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-offererstatningsloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "251971",
+   "DocumentTitle": "Bekendtgørelse af lov om erstatning fra staten til ofre for forbrydelser",
+   "Year": "2025",
+   "DiesSigni": "2025-11-26",
+   "Status": "Valid",
+   "Number": "1400",
+   "PopularTitle": "Offererstatningsloven",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-offererstatningsloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "251971",
+   "DocumentTitle": "Bekendtgørelse af lov om erstatning fra staten til ofre for forbrydelser",
+   "Year": "2025",
+   "DiesSigni": "2025-11-26",
+   "Status": "Valid",
+   "Number": "1400",
+   "PopularTitle": "Offererstatningsloven",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-offererstatningsloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "251971",
+   "DocumentTitle": "Bekendtgørelse af lov om erstatning fra staten til ofre for forbrydelser",
+   "Year": "2025",
+   "DiesSigni": "2025-11-26",
+   "Status": "Valid",
+   "Number": "1400",
+   "PopularTitle": "Offererstatningsloven",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-offererstatningsloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "251971",
+   "DocumentTitle": "Bekendtgørelse af lov om erstatning fra staten til ofre for forbrydelser",
+   "Year": "2025",
+   "DiesSigni": "2025-11-26",
+   "Status": "Valid",
+   "Number": "1400",
+   "PopularTitle": "Offererstatningsloven",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2025/1400",
+   "lovtidende": "LBK nr. 1400 af 26/11/2025"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-ungdomskriminalitetsloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LOV H#LOKDOK 01",
+   "UniqueDocumentId": "206275",
+   "DocumentTitle": "Lov om bekæmpelse af ungdomskriminalitet",
+   "Year": "2018",
+   "DiesSigni": "2018-12-27",
+   "Status": "Valid",
+   "Number": "1705",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-ungdomskriminalitetsloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LOV H#LOKDOK 01",
+   "UniqueDocumentId": "206275",
+   "DocumentTitle": "Lov om bekæmpelse af ungdomskriminalitet",
+   "Year": "2018",
+   "DiesSigni": "2018-12-27",
+   "Status": "Valid",
+   "Number": "1705",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-ungdomskriminalitetsloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LOV H#LOKDOK 01",
+   "UniqueDocumentId": "206275",
+   "DocumentTitle": "Lov om bekæmpelse af ungdomskriminalitet",
+   "Year": "2018",
+   "DiesSigni": "2018-12-27",
+   "Status": "Valid",
+   "Number": "1705",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-ungdomskriminalitetsloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LOV H#LOKDOK 01",
+   "UniqueDocumentId": "206275",
+   "DocumentTitle": "Lov om bekæmpelse af ungdomskriminalitet",
+   "Year": "2018",
+   "DiesSigni": "2018-12-27",
+   "Status": "Valid",
+   "Number": "1705",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2018/1705",
+   "lovtidende": "LOV nr. 1705 af 27/12/2018"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-erstatningsnaevnets-behandling-af-ansoegninger.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2021/772",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-erstatningsnaevnets-behandling-af-ansoegninger.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "222653",
+   "DocumentTitle": "Bekendtgørelse om Erstatningsnævnets behandling af ansøgninger om erstatning fra staten til ofre for forbrydelser",
+   "Year": "2021",
+   "DiesSigni": "2021-04-29",
+   "Status": "Valid",
+   "Number": "772",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-erstatningsnaevnets-behandling-af-ansoegninger.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "222653",
+   "DocumentTitle": "Bekendtgørelse om Erstatningsnævnets behandling af ansøgninger om erstatning fra staten til ofre for forbrydelser",
+   "Year": "2021",
+   "DiesSigni": "2021-04-29",
+   "Status": "Valid",
+   "Number": "772",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-erstatningsnaevnets-behandling-af-ansoegninger.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "222653",
+   "DocumentTitle": "Bekendtgørelse om Erstatningsnævnets behandling af ansøgninger om erstatning fra staten til ofre for forbrydelser",
+   "Year": "2021",
+   "DiesSigni": "2021-04-29",
+   "Status": "Valid",
+   "Number": "772",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2021/772",
+   "lovtidende": "BEK nr. 772 af 29/04/2021"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-forretningsorden-erstatningsnaevnet.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2021/773",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-forretningsorden-erstatningsnaevnet.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "222651",
+   "DocumentTitle": "Bekendtgørelse om forretningsorden for Erstatningsnævnet",
+   "Year": "2021",
+   "DiesSigni": "2021-04-29",
+   "Status": "Valid",
+   "Number": "773",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-forretningsorden-erstatningsnaevnet.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "222651",
+   "DocumentTitle": "Bekendtgørelse om forretningsorden for Erstatningsnævnet",
+   "Year": "2021",
+   "DiesSigni": "2021-04-29",
+   "Status": "Valid",
+   "Number": "773",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-forretningsorden-erstatningsnaevnet.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "222651",
+   "DocumentTitle": "Bekendtgørelse om forretningsorden for Erstatningsnævnet",
+   "Year": "2021",
+   "DiesSigni": "2021-04-29",
+   "Status": "Valid",
+   "Number": "773",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2021/773",
+   "lovtidende": "BEK nr. 773 af 29/04/2021"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-ungekriminalforsorgens-tilsyn.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1115",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-ungekriminalforsorgens-tilsyn.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "245602",
+   "DocumentTitle": "Bekendtgørelse om ungekriminalforsorgens tilsyn med barnets eller den unges efterlevelse af Ungdomskriminalitetsnævnets afgørelse",
+   "Year": "2024",
+   "DiesSigni": "2024-10-28",
+   "Status": "Valid",
+   "Number": "1115",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-ungekriminalforsorgens-tilsyn.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "245602",
+   "DocumentTitle": "Bekendtgørelse om ungekriminalforsorgens tilsyn med barnets eller den unges efterlevelse af Ungdomskriminalitetsnævnets afgørelse",
+   "Year": "2024",
+   "DiesSigni": "2024-10-28",
+   "Status": "Valid",
+   "Number": "1115",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-ungekriminalforsorgens-tilsyn.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "245602",
+   "DocumentTitle": "Bekendtgørelse om ungekriminalforsorgens tilsyn med barnets eller den unges efterlevelse af Ungdomskriminalitetsnævnets afgørelse",
+   "Year": "2024",
+   "DiesSigni": "2024-10-28",
+   "Status": "Valid",
+   "Number": "1115",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2024/1115",
+   "lovtidende": "BEK nr. 1115 af 28/10/2024"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-ungekriminalforsorgens-reaktioner.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1116",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-ungekriminalforsorgens-reaktioner.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "245603",
+   "DocumentTitle": "Bekendtgørelse om ungekriminalforsorgens reaktioner ved overtrædelse af Ungdomskriminalitetsnævnets afgørelse",
+   "Year": "2024",
+   "DiesSigni": "2024-10-28",
+   "Status": "Valid",
+   "Number": "1116",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-ungekriminalforsorgens-reaktioner.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "245603",
+   "DocumentTitle": "Bekendtgørelse om ungekriminalforsorgens reaktioner ved overtrædelse af Ungdomskriminalitetsnævnets afgørelse",
+   "Year": "2024",
+   "DiesSigni": "2024-10-28",
+   "Status": "Valid",
+   "Number": "1116",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-ungekriminalforsorgens-reaktioner.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "245603",
+   "DocumentTitle": "Bekendtgørelse om ungekriminalforsorgens reaktioner ved overtrædelse af Ungdomskriminalitetsnævnets afgørelse",
+   "Year": "2024",
+   "DiesSigni": "2024-10-28",
+   "Status": "Valid",
+   "Number": "1116",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2024/1116",
+   "lovtidende": "BEK nr. 1116 af 28/10/2024"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "kilde-vidensbasen.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://vidensbasen.anklagemyndigheden.dk/api/Portals(6e302527-f0b3-4a5e-889a-668aa67e5491)/Print/h/6dfa19d8-18cc-47d6-b4c4-3bd07bc15ec0/VB/239964d2-5b0b-46b7-9685-4919a0d428a0",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://vidensbasen.anklagemyndigheden.dk/api/Portals(6e302527-f0b3-4a5e-889a-668aa67e5491)/Print/h/6dfa19d8-18cc-47d6-b4c4-3bd07bc15ec0/VB/239964d2-5b0b-46b7-9685-4919a0d428a0",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://vidensbasen.anklagemyndigheden.dk/api/Portals(6e302527-f0b3-4a5e-889a-668aa67e5491)/Print/h/6dfa19d8-18cc-47d6-b4c4-3bd07bc15ec0/VB/239964d2-5b0b-46b7-9685-4919a0d428a0",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-vidensbasen.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://vidensbasen.anklagemyndigheden.dk/api/Portals(6e302527-f0b3-4a5e-889a-668aa67e5491)/Print/h/6dfa19d8-18cc-47d6-b4c4-3bd07bc15ec0/VB/239964d2-5b0b-46b7-9685-4919a0d428a0",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-vidensbasen.adgang",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://vidensbasen.anklagemyndigheden.dk/api/Portals(6e302527-f0b3-4a5e-889a-668aa67e5491)/Print/h/6dfa19d8-18cc-47d6-b4c4-3bd07bc15ec0/VB/239964d2-5b0b-46b7-9685-4919a0d428a0",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-vidensbasen.identifikatorer",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://vidensbasen.anklagemyndigheden.dk/api/Portals(6e302527-f0b3-4a5e-889a-668aa67e5491)/Print/h/6dfa19d8-18cc-47d6-b4c4-3bd07bc15ec0/VB/239964d2-5b0b-46b7-9685-4919a0d428a0",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://vidensbasen.anklagemyndigheden.dk/api/Portals(6e302527-f0b3-4a5e-889a-668aa67e5491)/Print/h/6dfa19d8-18cc-47d6-b4c4-3bd07bc15ec0/VB/239964d2-5b0b-46b7-9685-4919a0d428a0",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-vidensbasen.opdatering",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://vidensbasen.anklagemyndigheden.dk/api/Portals(6e302527-f0b3-4a5e-889a-668aa67e5491)/Print/h/6dfa19d8-18cc-47d6-b4c4-3bd07bc15ec0/VB/239964d2-5b0b-46b7-9685-4919a0d428a0",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-rigsadvokatmeddelelsen.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/retsinfo/2026/9478",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-rigsadvokatmeddelelsen.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://vidensbasen.anklagemyndigheden.dk/api/Portals(6e302527-f0b3-4a5e-889a-668aa67e5491)/Print/h/6dfa19d8-18cc-47d6-b4c4-3bd07bc15ec0/VB/239964d2-5b0b-46b7-9685-4919a0d428a0",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-rigsadvokatmeddelelsen.adgang",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/retsinfo/2026/9478",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-rigsadvokatmeddelelsen.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/retsinfo/2026/9478",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-rigsadvokatmeddelelsen.opdatering",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://vidensbasen.anklagemyndigheden.dk/api/Portals(6e302527-f0b3-4a5e-889a-668aa67e5491)/Print/h/6dfa19d8-18cc-47d6-b4c4-3bd07bc15ec0/VB/239964d2-5b0b-46b7-9685-4919a0d428a0",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-politiklagemyndigheden-udgivelser.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://politiklagemyndigheden.dk/aarsberetning-og-statistik/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-politiklagemyndigheden-udgivelser.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://politiklagemyndigheden.dk/aarsberetning-og-statistik/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-politiklagemyndigheden-udgivelser.adgang",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://politiklagemyndigheden.dk/aarsberetning-og-statistik/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-politiklagemyndigheden-udgivelser.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://politiklagemyndigheden.dk/aarsberetning-og-statistik/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-politiklagemyndigheden-udgivelser.opdatering",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://politiklagemyndigheden.dk/aarsberetning-og-statistik/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|sty-rigspolitiet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|sty-politikredsene",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|sty-statsadvokaterne",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|sty-politiklagemyndigheden",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://politiklagemyndigheden.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|sty-danmarks-faengsler",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://xn--danmarksfngsler-5lb.dk/om-os/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|naevn-erstatningsnaevnet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1400",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|naevn-ungdomskriminalitetsnaevnet",
+  "sikkerhed": "ukendt",
+  "dom": "baerer-ikke",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2018/1705",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|lov-straffeloven",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1294",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|lov-politiloven",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/1270",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|lov-straffuldbyrdelsesloven",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/201",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|lov-offererstatningsloven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1400",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|lov-ungdomskriminalitetsloven",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2018/1705",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-retsplejeloven|hjemmel_for|sty-rigspolitiet",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-retsplejeloven|hjemmel_for|sty-politikredsene",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-retsplejeloven|hjemmel_for|sty-statsadvokaterne",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-retsplejeloven|hjemmel_for|sty-politiklagemyndigheden",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-straffuldbyrdelsesloven|hjemmel_for|sty-danmarks-faengsler",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/201",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-offererstatningsloven|hjemmel_for|naevn-erstatningsnaevnet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1400",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-ungdomskriminalitetsloven|hjemmel_for|naevn-ungdomskriminalitetsnaevnet",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2018/1705",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-offererstatningsloven|hjemmel_for|bek-erstatningsnaevnets-behandling-af-ansoegninger",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2021/772",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-offererstatningsloven|hjemmel_for|bek-forretningsorden-erstatningsnaevnet",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2021/773",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-ungdomskriminalitetsloven|hjemmel_for|bek-ungekriminalforsorgens-tilsyn",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1115",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-ungdomskriminalitetsloven|hjemmel_for|bek-ungekriminalforsorgens-reaktioner",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1116",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-rigspolitiet|klageinstans|sty-politikredsene",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-statsadvokaterne|klageinstans|sty-politikredsene",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-rigsadvokaten|klageinstans|sty-statsadvokaterne",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-ankestyrelsen|klageinstans|naevn-ungdomskriminalitetsnaevnet",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2018/1705",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant dom-byretterne|klageinstans|sty-danmarks-faengsler",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/201",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-rigspolitiet|tilsyn|sty-politikredsene",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-statsadvokaterne|tilsyn|sty-politikredsene",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-rigsadvokaten|tilsyn|sty-statsadvokaterne",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-rigsadvokaten|udsteder|kilde-rigsadvokatmeddelelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://vidensbasen.anklagemyndigheden.dk/api/Portals(6e302527-f0b3-4a5e-889a-668aa67e5491)/Print/h/6dfa19d8-18cc-47d6-b4c4-3bd07bc15ec0/VB/239964d2-5b0b-46b7-9685-4919a0d428a0",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-rigsadvokaten|udsteder|kilde-vidensbasen",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://vidensbasen.anklagemyndigheden.dk/api/Portals(6e302527-f0b3-4a5e-889a-668aa67e5491)/Print/h/6dfa19d8-18cc-47d6-b4c4-3bd07bc15ec0/VB/239964d2-5b0b-46b7-9685-4919a0d428a0",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-politiklagemyndigheden|udsteder|kilde-politiklagemyndigheden-udgivelser",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://politiklagemyndigheden.dk/aarsberetning-og-statistik/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ }
+]

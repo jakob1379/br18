@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 1 · kanter: 0
+Noder: 4 · kanter: 4
 
 ```mermaid
 flowchart LR
@@ -15,6 +15,13 @@ flowchart LR
     classDef kilde fill:#eee,stroke:#666,color:#222
     classDef nedlagt fill:#fff,stroke:#999,color:#999,stroke-dasharray:4 3
     min_undervisning["Undervisningsministeriet"]:::ministerium
+    naevn_tvistighedsnaevnet["Tvistighedsnævnet"]:::klage
+    bek_tvistighedsnaevnet["Bekendtgørelse om Tvistighedsnævnet"]:::retsakt
+    lov_erhvervsuddannelser["Lov om erhvervsuddannelser (erhvervsuddannelsesloven)"]:::retsakt
+    min_undervisning -.->|ressortansvar| lov_erhvervsuddannelser
+    lov_erhvervsuddannelser -->|hjemmel_for| naevn_tvistighedsnaevnet
+    lov_erhvervsuddannelser -->|hjemmel_for| bek_tvistighedsnaevnet
+    bek_tvistighedsnaevnet -.->|hjemmel_for| naevn_tvistighedsnaevnet
 ```
 
 [← Overblik](oversigt.md)

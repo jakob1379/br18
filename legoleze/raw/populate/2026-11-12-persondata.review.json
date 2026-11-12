@@ -1,0 +1,876 @@
+[
+ {
+  "hvor": "tilsyn-datatilsynet.hjemmel",
+  "paastand": "Datatilsynet (tilsyn, ministerium min-justits): hjemmel = {\"tekst\": \"Databeskyttelseslovens § 27, stk. 1: Datatilsynet (råd og sekretariat) fører tilsyn med enhver behandling omfattet af loven, GDPR og anden lovgivning inden for GDPR's rammer, og udøver sine funktioner i fuld uafhængighed. Retshåndhævelseslovens § 37 giver tilsvarende tilsyn efter den lov. Afgørelser kan ikke indbringes for anden administrativ myndighed (§ 30, stk. 1), men kan indbringes for domstolene (§ 39, stk. 2).\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+    "citat": "Datatilsynet, der består af et råd og et sekretariat, fører i overensstemmelse med databeskyttelsesforordningens kapitel VI og VII tilsyn med enhver behandling",
+    "genfundet": true,
+    "kontekst": "til beskyttelse af de registreredes privatliv. Stk. 5. Forinden iværksættelse af ændringer i de behandlinger, der er nævnt i stk. 1 eller 3, skal Datatilsynets tilladelse indhentes på ny, hvis der er tale om væsentlige ændringer. Afsnit VI Uafhængige tilsynsmyndigheder Kapitel 10 Datatilsynet § 27. Datatilsynet, der består af et råd og et sekretariat, fører i overensstemmelse med databeskyttelsesforordningens kapitel VI og VII tilsyn med enhver behandling, der omfattes af denne lov, databeskyttelsesforordningen og anden lovgivning, som ligger inden for databeskyttelsesforordningens rammer for særregler om behandling af personoplysninger, jf. dog lovens kapitel 11. Datatilsynet udøver sine funktioner i fuld uafhængighed. Stk. 2. Tilsynets daglige for",
+    "paragraf": "§ 27"
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+    "citat": "Datatilsynet udøver sine funktioner i fuld uafhængighed.",
+    "genfundet": true,
+    "kontekst": "melse med databeskyttelsesforordningens kapitel VI og VII tilsyn med enhver behandling, der omfattes af denne lov, databeskyttelsesforordningen og anden lovgivning, som ligger inden for databeskyttelsesforordningens rammer for særregler om behandling af personoplysninger, jf. dog lovens kapitel 11. Datatilsynet udøver sine funktioner i fuld uafhængighed. Stk. 2. Tilsynets daglige forretninger varetages af et sekretariat, der ledes af en direktør. Stk. 3. Justitsministeren nedsætter Datarådet, som består af 1 formand, der skal være landsdommer eller højesteretsdommer, og af 7 andre medlemmer. Erhvervsministeren og ministeren for offentlig innovatio",
+    "paragraf": "§ 27"
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+    "citat": "Datatilsynets afgørelser kan ikke indbringes for anden administrativ myndighed.",
+    "genfundet": true,
+    "kontekst": " ind under databeskyttelsesforordningens og lovens bestemmelser. Stk. 2. Datatilsynets medlemmer og personale har mod behørig legitimation til enhver tid uden retskendelse adgang til alle lokaler, hvorfra en behandling af personoplysninger foretages. Politiet yder om fornødent bistand hertil. § 30. Datatilsynets afgørelser kan ikke indbringes for anden administrativ myndighed. Stk. 2. Datatilsynet kan indbringe spørgsmål om overtrædelser af denne lov og databeskyttelsesforordningen for retten i den borgerlige retsplejes former. § 31. Er der ikke vedtaget en afgørelse om tilstrækkeligheden af beskyttelsesniveauet efter artikel 45 i databeskyttelsesforordningen, kan Datat",
+    "paragraf": "§ 30"
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2017/410",
+    "citat": "Datatilsynet, der består af et råd og et sekretariat, fører tilsyn med enhver behandling, der omfattes af loven, jf. dog kapitel 19.",
+    "genfundet": true,
+    "kontekst": ", hvortil sidstnævnte udelukkende kan behandle personoply‌snin‌g‍erne, forudsat at denne behandling er nødvendig. Stk. 2. Den overførende kompetente myndighed dokumenterer og underretter tilsynsmyndigheden om overførsler i medfør af stk. 1. Afsnit VIII Tilsynsmyndighed Kapitel 18 Datatilsynet § 37. Datatilsynet, der består af et råd og et sekretariat, fører tilsyn med enhver behandling, der omfattes af loven, jf. dog kapitel 19. Stk. 2. Tilsynets daglige forretninger varetages af et sekretariat, der ledes af en direktør. Stk. 3. Justitsministeren nedsætter Datarådet, som består af 1 formand, der er dommer, og 6 andre medlemmer. Der kan udpeges stedfortrædere for medlemmerne. Formanden og medlemmerne og stedfortræderne for",
+    "paragraf": "§ 37"
+   }
+  ]
+ },
+ {
+  "hvor": "tilsyn-datatilsynet.dokumenttyper",
+  "paastand": "Datatilsynet (tilsyn, ministerium min-justits): dokumenttyper = {\"liste\": [{\"type\": \"afgørelse\", \"bindende\": \"bindende\", \"note\": \"udvalgte afgørelser offentliggøres; kan ikke indbringes for anden administrativ myndighed, men for domstolene\"}, {\"type\": \"tilladelse\", \"bindende\": \"bindende\", \"note\": \"fx kreditoplysningsbureauer og advarselsregistre (databeskyttelseslovens § 26)\"}, {\"type\": \"udtalelse\", \"bindende\": \"vejledende\", \"note\": \"obligatorisk høring om love og bekendtgørelser med betydning for persondatabeskyttelse (§ 28)\"}, {\"type\": \"vejledning\", \"bindende\": \"vejledende\", \"note\": \"Datatilsynets egne vejledninger og oversatte EDPB-retningslinjer\"}]}",
+  "belaeg": [
+   {
+    "url": "https://www.datatilsynet.dk/afgoerelser",
+    "citat": "Derfor offentliggør Datatilsynet løbende udvalgte afgørelser, som kan være med til at forklare praksis inden for forskellige områder.",
+    "genfundet": true,
+    "kontekst": "olen De fælleseuropæiske systemer Databeskyttelse i norden Overførsler til USA Grupper og konferencer i databeskyttelsessamarbejdet One-stop-shop og grænseoverskridende sager Forside Afgørelser Afgørelser Reglerne i GDPR er ofte ret generelle, men i Datatilsynets afgørelser bliver det helt konkret. Derfor offentliggør Datatilsynet løbende udvalgte afgørelser, som kan være med til at forklare praksis inden for forskellige områder. Her på siden finder du både de principielle sager og de mere simple afgørelser, der er gode til at illustrere, hvordan man konkret skal forstå reglerne. Seneste afgørelser Se alle afgørelser Rss Bødesager I nogle tilfælde indstiller Datatilsynet til bøde. Se en oversigt over bødesager her . Find a"
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+    "citat": "Forinden iværksættelse af en behandling, der foretages for en privat dataansvarlig, skal Datatilsynets tilladelse indhentes, når",
+    "genfundet": true,
+    "kontekst": " forbindelse med markedsføring af produkter og om ophævelse af Rådets forordning (EØF) nr. 339/93, er bemyndiget til at akkreditere certificeringsorganer, jf. databeskyttelsesforordningens artikel 43, stk. 1, litra a og b. Afsnit V Tilladelse til behandling Kapitel 9 Tilladelse til behandling § 26. Forinden iværksættelse af en behandling, der foretages for en privat dataansvarlig, skal Datatilsynets tilladelse indhentes, når 1) behandlingen af oplysningerne sker med henblik på at advare andre mod forretningsforbindelser med eller ansættelsesforhold til en registreret, 2) behandlingen sker med henblik på erhvervsmæssig videregivelse af oplysninger til bedømmelse af økonomisk soliditet og kreditværdighed eller 3) behandl",
+    "paragraf": "§ 26"
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+    "citat": "skal der indhentes en udtalelse fra Datatilsynet.",
+    "genfundet": true,
+    "kontekst": "lsesråd i overensstemmelse med databeskyttelsesforordningens kapitel VII, afdeling 1 og 2. § 28. Ved udarbejdelse af lovforslag, bekendtgørelser, cirkulærer eller lignende generelle retsforskrifter, der har betydning for beskyttelsen af privatlivet i forbindelse med behandling af personoplysninger, skal der indhentes en udtalelse fra Datatilsynet. § 29. Datatilsynet kan kræve enhver oplysning, der er af betydning for dets virksomhed, herunder til afgørelse af, om et forhold falder ind under databeskyttelsesforordningens og lovens bestemmelser. Stk. 2. Datatilsynets medlemmer og personale har mod behørig legitimation til enhver tid uden rets",
+    "paragraf": "§ 28"
+   },
+   {
+    "url": "https://www.datatilsynet.dk/regler-og-vejledning",
+    "citat": "Datatilsynet opdaterer og producerer løbende vejledninger.",
+    "genfundet": true,
+    "kontekst": " dette muligt gennem synlig rådgivning og vejledning, dialog og kontrol. Det er Datatilsynets opgave at rådgive om registrering, videregivelse og anden behandling af personoplysninger samt føre tilsyn med, at myndigheder, virksomheder og andre dataansvarlige overholder reglerne for databeskyttelse. Datatilsynet opdaterer og producerer løbende vejledninger. Grundlæggende om GDPR Overblik Grundlæggende begreber Grundlæggende principper Behandlingsgrundlag Hvornår behandler du personoplysninger Lovgivning Registreredes rettigheder Iagttagelse af de registreredes rettigheder Indsigt Indsigt i afdøde børns oplysninger Oplysningspligt Sletning Tidsfrister"
+   }
+  ]
+ },
+ {
+  "hvor": "tilsyn-datatilsynet.url",
+  "paastand": "Datatilsynet (tilsyn, ministerium min-justits): url = {\"vaerdi\": \"https://www.datatilsynet.dk/\"}",
+  "belaeg": [
+   {
+    "url": "https://www.datatilsynet.dk/om-datatilsynet/organisation",
+    "citat": "Datatilsynet er en uafhængig tilsynsmyndighed, som har ansvaret for, at reglerne om databeskyttelse bliver overholdt.",
+    "genfundet": true,
+    "kontekst": "konferencer i databeskyttelsessamarbejdet One-stop-shop og grænseoverskridende sager Forside Om Datatilsynet Organisation Om Datatilsynet Organisation Strategisk grundlag Datarådet Årsberetninger og årsrapporter Sagsbehandlingstider Datatilsynet i tal Den Nationale Whistleblowerordning Organisation Datatilsynet er en uafhængig tilsynsmyndighed, som har ansvaret for, at reglerne om databeskyttelse bliver overholdt. Vi rådgiver og vejleder, behandler klager og gennemfører tilsyn hos myndigheder og virksomheder. Datatilsynets lovbestemte beføjelser, funktioner og pligter stammer fra databeskyttelsesforordningen, databeskyttelsesloven, retshåndhævelsesdirektivet, retshåndhævelsesloven samt tv-overvågningsloven."
+   }
+  ]
+ },
+ {
+  "hvor": "raad-dataraadet.hjemmel",
+  "paastand": "Datarådet (råd, ministerium min-justits): hjemmel = {\"tekst\": \"Databeskyttelseslovens § 27, stk. 3: justitsministeren nedsætter Datarådet (formand, der er landsdommer eller højesteretsdommer, og 7 medlemmer); stk. 4: rådet fastsætter sin forretningsorden og arbejdsdelingen mellem råd og sekretariat.\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+    "citat": "Justitsministeren nedsætter Datarådet, som består af 1 formand, der skal være landsdommer eller højesteretsdommer, og af 7 andre medlemmer.",
+    "genfundet": true,
+    "kontekst": "ning, som ligger inden for databeskyttelsesforordningens rammer for særregler om behandling af personoplysninger, jf. dog lovens kapitel 11. Datatilsynet udøver sine funktioner i fuld uafhængighed. Stk. 2. Tilsynets daglige forretninger varetages af et sekretariat, der ledes af en direktør. Stk. 3. Justitsministeren nedsætter Datarådet, som består af 1 formand, der skal være landsdommer eller højesteretsdommer, og af 7 andre medlemmer. Erhvervsministeren og ministeren for offentlig innovation udnævner hver 1 af de 7 andre medlemmer omfattet af 1. pkt. Justitsministeren kan udnævne stedfortrædere for 5 medlemmer, og erhvervsministeren og ministeren for offentlig innovation kan udnævne hver en af stedfortræderne. Formanden, medlem",
+    "paragraf": "§ 27"
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+    "citat": "Rådet fastsætter sin forretningsorden og de nærmere regler om arbejdets fordeling mellem råd og sekretariat.",
+    "genfundet": true,
+    "kontekst": "isteren for offentlig innovation kan udnævne hver en af stedfortræderne. Formanden, medlemmerne og stedfortræderne for disse udnævnes for 4 år. Der kan ske genudpegning to gange. Udpegelsen af formand, medlemmer og stedfortrædere for disse sker på baggrund af disses faglige kvalifikationer. Stk. 4. Rådet fastsætter sin forretningsorden og de nærmere regler om arbejdets fordeling mellem råd og sekretariat. Stk. 5. Udpegelsen af formand, medlemmer og stedfortrædere for disse er betinget af, at de pågældende sikkerhedsgodkendes, og at godkendelsen opretholdes i hele embedsperioden. Stk. 6. Hvervet som formand, medlem eller stedfortræder ophører ved udgangen af embedsperioden eller ved frivillig fratræ",
+    "paragraf": "§ 27"
+   }
+  ]
+ },
+ {
+  "hvor": "raad-dataraadet.dokumenttyper",
+  "paastand": "Datarådet (råd, ministerium min-justits): dokumenttyper = {\"liste\": [{\"type\": \"afgørelse\", \"bindende\": \"bindende\", \"note\": \"principielle sager; Datatilsynets øvrige afgørelser træffes af sekretariatet\"}]}",
+  "belaeg": [
+   {
+    "url": "https://www.datatilsynet.dk/om-datatilsynet/organisation",
+    "citat": "Datarådet træffer afgørelse i konkrete sager af principiel karakter, mens sekretariatet varetager Datatilsynets daglige drift",
+    "genfundet": true,
+    "kontekst": "af høj kvalitet og dialog med organisationer i den offentlige og private sektor at informere organisationer om, hvordan personoplysninger skal beskyttes at samarbejde med andre databeskyttelsesmyndigheder i EU/EØS Datatilsynets struktur Datatilsynet består af et råd - Datarådet - og et sekretariat. Datarådet træffer afgørelse i konkrete sager af principiel karakter, mens sekretariatet varetager Datatilsynets daglige drift . Tilsynets sekretariat består af ca. 80 dygtige og dedikerede medarbejdere, der varetager Datatilsynets daglige drift under ledelse af direktør Cristina Angela Gulisano. Ansvar og opgaver Direktør og stab Strategi, drift og udvikling Personale/HR Økonomi/budget It-sikkerhed, herunder ISO 27001 Dat"
+   }
+  ]
+ },
+ {
+  "hvor": "raad-dataraadet.url",
+  "paastand": "Datarådet (råd, ministerium min-justits): url = {\"vaerdi\": \"https://www.datatilsynet.dk/om-datatilsynet/dataraadet\"}",
+  "belaeg": [
+   {
+    "url": "https://www.datatilsynet.dk/om-datatilsynet/organisation",
+    "citat": "Datarådet træffer afgørelse i konkrete sager af principiel karakter, mens sekretariatet varetager Datatilsynets daglige drift",
+    "genfundet": true,
+    "kontekst": "af høj kvalitet og dialog med organisationer i den offentlige og private sektor at informere organisationer om, hvordan personoplysninger skal beskyttes at samarbejde med andre databeskyttelsesmyndigheder i EU/EØS Datatilsynets struktur Datatilsynet består af et råd - Datarådet - og et sekretariat. Datarådet træffer afgørelse i konkrete sager af principiel karakter, mens sekretariatet varetager Datatilsynets daglige drift . Tilsynets sekretariat består af ca. 80 dygtige og dedikerede medarbejdere, der varetager Datatilsynets daglige drift under ledelse af direktør Cristina Angela Gulisano. Ansvar og opgaver Direktør og stab Strategi, drift og udvikling Personale/HR Økonomi/budget It-sikkerhed, herunder ISO 27001 Dat"
+   }
+  ]
+ },
+ {
+  "hvor": "bek-dataraadet-forretningsorden.hjemmel",
+  "paastand": "Bekendtgørelse om forretningsorden for Datarådet (BEK nr. 454 af 01/01/2019) (bekendtgørelse, ministerium min-justits): hjemmel = {\"tekst\": \"Databeskyttelseslovens § 27, stk. 4.\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/454",
+    "citat": "I medfør af § 27, stk. 4, i lov nr. 502 af 23. maj 2018 om supplerende bestemmelser til forordning",
+    "genfundet": true,
+    "kontekst": "se med behandling af personoplysninger og om fri udveksling af sådanne oplysninger (databeskyttelsesloven) Nej Kristian Korfits Nielsen Cristina A. Gulisano Datatilsynet Justitsmin.,\\n Datatilsynet, j.nr. 2019-022-0002 Justitsministeriet Datatilsynet Bekendtgørelse om forretningsorden for Datarådet I medfør af § 27, stk. 4, i lov nr. 502 af 23. maj 2018 om supplerende bestemmelser til forordning om beskyttelse af fysiske personer i forbindelse med behandling af perso‌no‌plysninger og om fri udveksling af sådanne oplysninger fastsættes: § 1. Datarådet består af 1 formand, der er landsdommer eller højesteretsdommer, og af 7 andre medlemmer. § 2. Rådets formand forbereder i samarbejde med sek"
+   }
+  ]
+ },
+ {
+  "hvor": "bek-dataraadet-forretningsorden.url",
+  "paastand": "Bekendtgørelse om forretningsorden for Datarådet (BEK nr. 454 af 01/01/2019) (bekendtgørelse, ministerium min-justits): url = {\"vaerdi\": \"https://www.retsinformation.dk/eli/lta/2019/454\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/454",
+    "citat": "Bekendtgørelse om forretningsorden for Datarådet",
+    "genfundet": true,
+    "kontekst": "BEK H#LOKDOK04 B B20190045405 AA011396 208812 Bekendtgørelse om forretningsorden for Datarådet 2019 2019-01-01 2019-04-26 2024-03-22 Valid 454 Lovtidende A 2019-04-26 A20240028929 2024-03-08 Bekendtgørelse af lov om supplerende bestemmelser til forordning om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger (databesk"
+   }
+  ]
+ },
+ {
+  "hvor": "bek-dataraadet-forretningsorden.identifikatorer",
+  "paastand": "Bekendtgørelse om forretningsorden for Datarådet (BEK nr. 454 af 01/01/2019) (bekendtgørelse, ministerium min-justits): identifikatorer = {\"eli\": \"https://www.retsinformation.dk/eli/lta/2019/454\", \"lovtidende\": \"BEK nr. 454 af 01/01/2019\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/454",
+    "citat": "Bekendtgørelse om forretningsorden for Datarådet",
+    "genfundet": true,
+    "kontekst": "BEK H#LOKDOK04 B B20190045405 AA011396 208812 Bekendtgørelse om forretningsorden for Datarådet 2019 2019-01-01 2019-04-26 2024-03-22 Valid 454 Lovtidende A 2019-04-26 A20240028929 2024-03-08 Bekendtgørelse af lov om supplerende bestemmelser til forordning om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger (databesk"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-databeskyttelsesloven.hjemmel",
+  "paastand": "Databeskyttelsesloven (lov, ministerium min-justits): hjemmel = {\"tekst\": \"ikke relevant\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+    "citat": "Bekendtgørelse af lov om supplerende bestemmelser til forordning om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20240028929 AA014041 241483 Bekendtgørelse af lov om supplerende bestemmelser til forordning om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger (databeskyttelsesloven) 2024 2024-03-08 2024-03-21 2025-03-22 Valid 289 Databeskyttelsesloven Lovtidende A 2024-03-21 32016R0679 Nej Peter Hummelgaard Louise Black Mogensen Justitsministeriet Justitsmin., j.nr. 2023-03268 Justitsministeriet Bekendtgørelse"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-databeskyttelsesloven.url",
+  "paastand": "Databeskyttelsesloven (lov, ministerium min-justits): url = {\"vaerdi\": \"https://www.retsinformation.dk/eli/lta/2024/289\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+    "citat": "Bekendtgørelse af lov om supplerende bestemmelser til forordning om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20240028929 AA014041 241483 Bekendtgørelse af lov om supplerende bestemmelser til forordning om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger (databeskyttelsesloven) 2024 2024-03-08 2024-03-21 2025-03-22 Valid 289 Databeskyttelsesloven Lovtidende A 2024-03-21 32016R0679 Nej Peter Hummelgaard Louise Black Mogensen Justitsministeriet Justitsmin., j.nr. 2023-03268 Justitsministeriet Bekendtgørelse"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-databeskyttelsesloven.identifikatorer",
+  "paastand": "Databeskyttelsesloven (lov, ministerium min-justits): identifikatorer = {\"eli\": \"https://www.retsinformation.dk/eli/lta/2024/289\", \"lovtidende\": \"LBK nr. 289 af 08/03/2024\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+    "citat": "Bekendtgørelse af lov om supplerende bestemmelser til forordning om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20240028929 AA014041 241483 Bekendtgørelse af lov om supplerende bestemmelser til forordning om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger (databeskyttelsesloven) 2024 2024-03-08 2024-03-21 2025-03-22 Valid 289 Databeskyttelsesloven Lovtidende A 2024-03-21 32016R0679 Nej Peter Hummelgaard Louise Black Mogensen Justitsministeriet Justitsmin., j.nr. 2023-03268 Justitsministeriet Bekendtgørelse"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-retshaandhaevelsesloven.hjemmel",
+  "paastand": "Retshåndhævelsesloven (lov om retshåndhævende myndigheders behandling af personoplysninger) (lov, ministerium min-justits): hjemmel = {\"tekst\": \"ikke relevant\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2017/410",
+    "citat": "Lov om retshåndhævende myndigheders behandling af personoplysninger",
+    "genfundet": true,
+    "kontekst": "LOV H#LOKDOK 01 A A20170041030 AA010162 189891 Lov om retshåndhævende myndigheders behandling af personoplysninger 2017 2017-04-27 2017-04-28 2026-06-27 Valid 410 Retshåndhævelsesloven Lovtidende A 2019-10-04 32016L0680 A20180050630 2018-05-23 Lov om ændring af lov om tv-overvågning og lov om retshåndhævende myndigheders behandling af personoplysninger (Videreførelse af regler om behandling af personoplysninger"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-retshaandhaevelsesloven.url",
+  "paastand": "Retshåndhævelsesloven (lov om retshåndhævende myndigheders behandling af personoplysninger) (lov, ministerium min-justits): url = {\"vaerdi\": \"https://www.retsinformation.dk/eli/lta/2017/410\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2017/410",
+    "citat": "Lov om retshåndhævende myndigheders behandling af personoplysninger",
+    "genfundet": true,
+    "kontekst": "LOV H#LOKDOK 01 A A20170041030 AA010162 189891 Lov om retshåndhævende myndigheders behandling af personoplysninger 2017 2017-04-27 2017-04-28 2026-06-27 Valid 410 Retshåndhævelsesloven Lovtidende A 2019-10-04 32016L0680 A20180050630 2018-05-23 Lov om ændring af lov om tv-overvågning og lov om retshåndhævende myndigheders behandling af personoplysninger (Videreførelse af regler om behandling af personoplysninger"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-retshaandhaevelsesloven.identifikatorer",
+  "paastand": "Retshåndhævelsesloven (lov om retshåndhævende myndigheders behandling af personoplysninger) (lov, ministerium min-justits): identifikatorer = {\"eli\": \"https://www.retsinformation.dk/eli/lta/2017/410\", \"lovtidende\": \"LOV nr. 410 af 27/04/2017\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2017/410",
+    "citat": "Lov om retshåndhævende myndigheders behandling af personoplysninger",
+    "genfundet": true,
+    "kontekst": "LOV H#LOKDOK 01 A A20170041030 AA010162 189891 Lov om retshåndhævende myndigheders behandling af personoplysninger 2017 2017-04-27 2017-04-28 2026-06-27 Valid 410 Retshåndhævelsesloven Lovtidende A 2019-10-04 32016L0680 A20180050630 2018-05-23 Lov om ændring af lov om tv-overvågning og lov om retshåndhævende myndigheders behandling af personoplysninger (Videreførelse af regler om behandling af personoplysninger"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-tv-overvaagningsloven.hjemmel",
+  "paastand": "Tv-overvågningsloven (lov, ministerium min-justits): hjemmel = {\"tekst\": \"ikke relevant\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/182",
+    "citat": "Herved bekendtgøres lov om tv-overvågning, jf. lovbekendtgørelse nr. 1190 af 11. oktober 2007",
+    "genfundet": true,
+    "kontekst": "ets virksomhed, straffeloven, lov om bekæmpelse af ungdomskriminalitet og forskellige andre love (Styrket indsats mod utryghedsskabende adfærd) Nej Peter Hummelgaard Louise Black Mogensen Justitsministeriet Justitsmin., j.nr. 2020-7910-0030 Justitsministeriet Bekendtgørelse af lov om tv-overvågning Herved bekendtgøres lov om tv-overvågning, jf. lovbekendtgørelse nr. 1190 af 11. oktober 2007, med de ændringer, der følger af lov nr. 713 af 25. juni 2010, § 1 i lov nr. 422 af 10. maj 2011, § 1 i lov nr. 736 af 25. juni 2014, § 5 i lov nr. 1728 af 27. december 2016, § 1 i lov nr. 506 af 23. maj 2018 og lov nr. 802 af 9. juni 2020. § 1. Private må ikke foretage tv-overvågning af gade, vej,"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-tv-overvaagningsloven.url",
+  "paastand": "Tv-overvågningsloven (lov, ministerium min-justits): url = {\"vaerdi\": \"https://www.retsinformation.dk/eli/lta/2023/182\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/182",
+    "citat": "Herved bekendtgøres lov om tv-overvågning, jf. lovbekendtgørelse nr. 1190 af 11. oktober 2007",
+    "genfundet": true,
+    "kontekst": "ets virksomhed, straffeloven, lov om bekæmpelse af ungdomskriminalitet og forskellige andre love (Styrket indsats mod utryghedsskabende adfærd) Nej Peter Hummelgaard Louise Black Mogensen Justitsministeriet Justitsmin., j.nr. 2020-7910-0030 Justitsministeriet Bekendtgørelse af lov om tv-overvågning Herved bekendtgøres lov om tv-overvågning, jf. lovbekendtgørelse nr. 1190 af 11. oktober 2007, med de ændringer, der følger af lov nr. 713 af 25. juni 2010, § 1 i lov nr. 422 af 10. maj 2011, § 1 i lov nr. 736 af 25. juni 2014, § 5 i lov nr. 1728 af 27. december 2016, § 1 i lov nr. 506 af 23. maj 2018 og lov nr. 802 af 9. juni 2020. § 1. Private må ikke foretage tv-overvågning af gade, vej,"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-tv-overvaagningsloven.identifikatorer",
+  "paastand": "Tv-overvågningsloven (lov, ministerium min-justits): identifikatorer = {\"eli\": \"https://www.retsinformation.dk/eli/lta/2023/182\", \"lovtidende\": \"LBK nr. 182 af 24/02/2023\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/182",
+    "citat": "Herved bekendtgøres lov om tv-overvågning, jf. lovbekendtgørelse nr. 1190 af 11. oktober 2007",
+    "genfundet": true,
+    "kontekst": "ets virksomhed, straffeloven, lov om bekæmpelse af ungdomskriminalitet og forskellige andre love (Styrket indsats mod utryghedsskabende adfærd) Nej Peter Hummelgaard Louise Black Mogensen Justitsministeriet Justitsmin., j.nr. 2020-7910-0030 Justitsministeriet Bekendtgørelse af lov om tv-overvågning Herved bekendtgøres lov om tv-overvågning, jf. lovbekendtgørelse nr. 1190 af 11. oktober 2007, med de ændringer, der følger af lov nr. 713 af 25. juni 2010, § 1 i lov nr. 422 af 10. maj 2011, § 1 i lov nr. 736 af 25. juni 2014, § 5 i lov nr. 1728 af 27. december 2016, § 1 i lov nr. 506 af 23. maj 2018 og lov nr. 802 af 9. juni 2020. § 1. Private må ikke foretage tv-overvågning af gade, vej,"
+   }
+  ]
+ },
+ {
+  "hvor": "eu-reg-2016-679.hjemmel",
+  "paastand": "Databeskyttelsesforordningen, forordning (EU) 2016/679 (GDPR) (eu-forordning, ministerium ingen): hjemmel = {\"tekst\": \"ikke relevant\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+    "citat": "Europa-Parlamentets og Rådets forordning nr. 679 af 27. april 2016 om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger",
+    "genfundet": true,
+    "kontekst": "stitsmin., j.nr. 2023-03268 Justitsministeriet Bekendtgørelse af lov om supplerende bestemmelser til forordning om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger (databeskyttelsesloven) 1) Som bilag til loven er medtaget Europa-Parlamentets og Rådets forordning nr. 679 af 27. april 2016 om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger og om ophævelse af direktiv 95/46/EF (generel forordning om databeskyttelse), EU-Tidende 2016, nr. L 119, side 1. Ifølge artikel 288 i EUF-traktaten gælder en forordning umiddelbart i hver medlemsstat. Gengivelsen af forordningen i lovens bilag er således"
+   }
+  ]
+ },
+ {
+  "hvor": "eu-reg-2016-679.identifikatorer",
+  "paastand": "Databeskyttelsesforordningen, forordning (EU) 2016/679 (GDPR) (eu-forordning, ministerium ingen): identifikatorer = {\"andet\": \"EU-Tidende 2016, nr. L 119, side 1; CELEX 32016R0679.\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+    "citat": "generel forordning om databeskyttelse), EU-Tidende 2016, nr. L 119, side 1.",
+    "genfundet": true,
+    "kontekst": "ninger (databeskyttelsesloven) 1) Som bilag til loven er medtaget Europa-Parlamentets og Rådets forordning nr. 679 af 27. april 2016 om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger og om ophævelse af direktiv 95/46/EF (generel forordning om databeskyttelse), EU-Tidende 2016, nr. L 119, side 1. Ifølge artikel 288 i EUF-traktaten gælder en forordning umiddelbart i hver medlemsstat. Gengivelsen af forordningen i lovens bilag er således udelukkende begrundet i praktiske hensyn og berører ikke forordningens umiddelbare gyldighed i Danmark. Herved bekendtgøres lov nr. 502 af 23. maj 2018 om s"
+   }
+  ]
+ },
+ {
+  "hvor": "eu-dir-2016-680.hjemmel",
+  "paastand": "Retshåndhævelsesdirektivet, direktiv (EU) 2016/680 (eu-direktiv, ministerium ingen): hjemmel = {\"tekst\": \"ikke relevant\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2017/410",
+    "citat": "og om ophævelse af Rådets rammeafgørelse 2008/977/RIA, EU-Tidende 2016, nr. L 119, side 89.",
+    "genfundet": true,
+    "kontekst": "27. april 2016 om beskyttelse af fysiske personer i forbindelse med kompetente myndigheders behandling af personoplysninger med henblik på at forebygge, efterforske, afsløre eller retsforfølge strafbare handlinger eller fuldbyrde strafferetlige sanktioner og om fri udveksling af sådanne oplysninger og om ophævelse af Rådets rammeafgørelse 2008/977/RIA, EU-Tidende 2016, nr. L 119, side 89. VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov: Afsnit I Indledende bestemmelser Kapitel 1 Lovens område § 1. Loven gælder for politiets, anklagemyndighedens, herunder den militære anklagemyndigheds, "
+   }
+  ]
+ },
+ {
+  "hvor": "eu-dir-2016-680.identifikatorer",
+  "paastand": "Retshåndhævelsesdirektivet, direktiv (EU) 2016/680 (eu-direktiv, ministerium ingen): identifikatorer = {\"andet\": \"EU-Tidende 2016, nr. L 119, side 89; CELEX 32016L0680.\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2017/410",
+    "citat": "og om ophævelse af Rådets rammeafgørelse 2008/977/RIA, EU-Tidende 2016, nr. L 119, side 89.",
+    "genfundet": true,
+    "kontekst": "27. april 2016 om beskyttelse af fysiske personer i forbindelse med kompetente myndigheders behandling af personoplysninger med henblik på at forebygge, efterforske, afsløre eller retsforfølge strafbare handlinger eller fuldbyrde strafferetlige sanktioner og om fri udveksling af sådanne oplysninger og om ophævelse af Rådets rammeafgørelse 2008/977/RIA, EU-Tidende 2016, nr. L 119, side 89. VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov: Afsnit I Indledende bestemmelser Kapitel 1 Lovens område § 1. Loven gælder for politiets, anklagemyndighedens, herunder den militære anklagemyndigheds, "
+   }
+  ]
+ },
+ {
+  "hvor": "eu-edpb.hjemmel",
+  "paastand": "Det Europæiske Databeskyttelsesråd (EDPB) (eu-institution, ministerium ingen): hjemmel = {\"tekst\": \"GDPR art. 68, stk. 1: oprettet som EU-organ med status som juridisk person; Datatilsynet repræsenterer de danske tilsynsmyndigheder (databeskyttelseslovens § 27, stk. 9).\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+    "citat": "Det Europæiske Databeskyttelsesråd (»Databeskyttelsesrådet«) oprettes herved som et EU-organ med status som juridisk person.",
+    "genfundet": true,
+    "kontekst": "og mellem tilsynsmyndigheder og Databeskyttelsesrådet, navnlig det standardformat, der er omhandlet i artikel 64. Disse gennemførelsesretsakter vedtages efter undersøgelsesproceduren i artikel 93, stk. 2. Afdeling 3 Det Europæiske Databeskyttelsesråd Artikel 68 Det Europæiske Databeskyttelsesråd 1. Det Europæiske Databeskyttelsesråd (»Databeskyttelsesrådet«) oprettes herved som et EU-organ med status som juridisk person. 2. Databeskyttelsesrådet repræsenteres af sin formand. 3. Databeskyttelsesrådet sammensættes af chefen for en tilsynsmyndighed i hver medlemsstat og af Den Europæiske Tilsynsførende for Databeskyttelse eller deres respektive repræsentanter. 4. Hvis mere end én tilsynsmyndighed i en medlemsstat er ",
+    "paragraf": "§ 48"
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+    "citat": "Datatilsynet repræsenterer tilsynsmyndighederne i Det Europæiske Databeskyttelsesråd i overensstemmelse med databeskyttelsesforordningens kapitel VII, afdeling 1 og 2.",
+    "genfundet": true,
+    "kontekst": "ke længere opfylder betingelserne for at varetage hvervet. Stk. 8. Sekretariatets personale samt Datarådets formand og medlemmer og stedfortrædere for disse kan kun have bibeskæftigelse, i det omfang det er foreneligt med udøvelsen af de pligter, der er knyttet til stillingen eller hvervet. Stk. 9. Datatilsynet repræsenterer tilsynsmyndighederne i Det Europæiske Databeskyttelsesråd i overensstemmelse med databeskyttelsesforordningens kapitel VII, afdeling 1 og 2. § 28. Ved udarbejdelse af lovforslag, bekendtgørelser, cirkulærer eller lignende generelle retsforskrifter, der har betydning for beskyttelsen af privatlivet i forbindelse med behandling af personoplysninger, skal der indhentes en udtalelse fra Datatilsynet. § 29. Datatilsynet kan kræve enhver opl",
+    "paragraf": "§ 27"
+   }
+  ]
+ },
+ {
+  "hvor": "eu-edpb.dokumenttyper",
+  "paastand": "Det Europæiske Databeskyttelsesråd (EDPB) (eu-institution, ministerium ingen): dokumenttyper = {\"liste\": [{\"type\": \"retningslinjer\", \"bindende\": \"vejledende\"}, {\"type\": \"bindende afgørelse (art. 65)\", \"bindende\": \"bindende\", \"note\": \"i tvister mellem tilsynsmyndigheder\"}]}",
+  "belaeg": [
+   {
+    "url": "https://www.edpb.europa.eu/our-work-tools/general-guidance/guidelines-recommendations-best-practices_en",
+    "citat": "Guidelines 04/2026 on the application of the power to impose administrative fines in relation to other corrective powers under the GDPR",
+    "genfundet": true,
+    "kontekst": "ublic consultations to gather the views and concerns of all interested stakeholders and citizens. Please note that we will publish your answers on our website. Each consultation will have a privacy statement, which states how we process your personal data and what rights you have. Open for feedback Guidelines 04/2026 on the application of the power to impose administrative fines in relation to other corrective powers under the GDPR Feedback period 21 September - 13 November 2026 Have your say! Consultations closed for feedback 47 items Skip to main content Filter on Filter on question Search Filter on topic Accountability and Compliance tools Accountability Certification Data protection impact assessment AI and technology Ano"
+   }
+  ]
+ },
+ {
+  "hvor": "eu-edpb.url",
+  "paastand": "Det Europæiske Databeskyttelsesråd (EDPB) (eu-institution, ministerium ingen): url = {\"vaerdi\": \"https://www.edpb.europa.eu/\"}",
+  "belaeg": [
+   {
+    "url": "https://www.edpb.europa.eu/edpb_en",
+    "citat": "We ensure that everyone in Europe benefits from equal data protection rights by providing clear guidance and consistent enforcement.",
+    "genfundet": true,
+    "kontekst": "ληνικά ES español ET eesti FI suomi FR français GA Gaeilge HR hrvatski HU magyar IT italiano LT lietuvių LV latviešu MT Malti NL Nederlands PL polski PT português RO română SK slovenčina SL slovenščina SV svenska Close language switcher Filter by question Search Protecting you in our digital world. We ensure that everyone in Europe benefits from equal data protection rights by providing clear guidance and consistent enforcement. EDPB News EDPB adopts statement on review of the Republic of Korea adequacy, processor BCR recommendations, and selects topic for 2027 coordinated enforcement action 11 November 2026 Quick access View latest EDPB documents Data protection guide for small business Coordinated Supervision Committee "
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-datatilsynet-afgoerelser.dokumenttyper",
+  "paastand": "Datatilsynets afgørelser (datatilsynet.dk/afgoerelser) (praksissamling, ministerium min-justits): dokumenttyper = {\"liste\": [{\"type\": \"afgørelse\", \"bindende\": \"bindende\"}, {\"type\": \"udtalelse\", \"bindende\": \"vejledende\"}]}",
+  "belaeg": [
+   {
+    "url": "https://www.datatilsynet.dk/afgoerelser",
+    "citat": "Her på siden finder du både de principielle sager og de mere simple afgørelser",
+    "genfundet": true,
+    "kontekst": "e-stop-shop og grænseoverskridende sager Forside Afgørelser Afgørelser Reglerne i GDPR er ofte ret generelle, men i Datatilsynets afgørelser bliver det helt konkret. Derfor offentliggør Datatilsynet løbende udvalgte afgørelser, som kan være med til at forklare praksis inden for forskellige områder. Her på siden finder du både de principielle sager og de mere simple afgørelser, der er gode til at illustrere, hvordan man konkret skal forstå reglerne. Seneste afgørelser Se alle afgørelser Rss Bødesager I nogle tilfælde indstiller Datatilsynet til bøde. Se en oversigt over bødesager her . Find afgørelser efter typer og emner Virksomhedsområde Offentlige myndigheder Private "
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-datatilsynet-afgoerelser.url",
+  "paastand": "Datatilsynets afgørelser (datatilsynet.dk/afgoerelser) (praksissamling, ministerium min-justits): url = {\"vaerdi\": \"https://www.datatilsynet.dk/afgoerelser\"}",
+  "belaeg": [
+   {
+    "url": "https://www.datatilsynet.dk/afgoerelser",
+    "citat": "Derfor offentliggør Datatilsynet løbende udvalgte afgørelser, som kan være med til at forklare praksis inden for forskellige områder.",
+    "genfundet": true,
+    "kontekst": "olen De fælleseuropæiske systemer Databeskyttelse i norden Overførsler til USA Grupper og konferencer i databeskyttelsessamarbejdet One-stop-shop og grænseoverskridende sager Forside Afgørelser Afgørelser Reglerne i GDPR er ofte ret generelle, men i Datatilsynets afgørelser bliver det helt konkret. Derfor offentliggør Datatilsynet løbende udvalgte afgørelser, som kan være med til at forklare praksis inden for forskellige områder. Her på siden finder du både de principielle sager og de mere simple afgørelser, der er gode til at illustrere, hvordan man konkret skal forstå reglerne. Seneste afgørelser Se alle afgørelser Rss Bødesager I nogle tilfælde indstiller Datatilsynet til bøde. Se en oversigt over bødesager her . Find a"
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-datatilsynet-afgoerelser.adgang",
+  "paastand": "Datatilsynets afgørelser (datatilsynet.dk/afgoerelser) (praksissamling, ministerium min-justits): adgang = {\"vaerdier\": [\"HTML\", \"RSS\"], \"note\": \"Søgning/filtrering efter virksomhedsområde, type og emne; RSS-feed; bødesager på egen side. Ingen API fundet.\"}",
+  "belaeg": [
+   {
+    "url": "https://www.datatilsynet.dk/afgoerelser",
+    "citat": "Seneste afgørelser Se alle afgørelser Rss Bødesager I nogle tilfælde indstiller Datatilsynet til bøde.",
+    "genfundet": true,
+    "kontekst": "elt konkret. Derfor offentliggør Datatilsynet løbende udvalgte afgørelser, som kan være med til at forklare praksis inden for forskellige områder. Her på siden finder du både de principielle sager og de mere simple afgørelser, der er gode til at illustrere, hvordan man konkret skal forstå reglerne. Seneste afgørelser Se alle afgørelser Rss Bødesager I nogle tilfælde indstiller Datatilsynet til bøde. Se en oversigt over bødesager her . Find afgørelser efter typer og emner Virksomhedsområde Offentlige myndigheder Private virksomheder Retshåndhævende myndigheder Sanktion Ingen kritik Kritik Alvorlig kritik Påbud Forbud Advarsel Suspension Politianmeldelse Sagstype Klage Tilsyn / egendriftssag An"
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-datatilsynet-afgoerelser.identifikatorer",
+  "paastand": "Datatilsynets afgørelser (datatilsynet.dk/afgoerelser) (praksissamling, ministerium min-justits): identifikatorer = {\"journalnr\": \"ÅÅÅÅ-NNN-NNNN, fx 2020-442-6885\", \"andet\": \"Hver afgørelse har en datostemplet sti (/afgoerelser/afgoerelser/ÅÅÅÅ/måned/titel) og et journalnummer.\"}",
+  "belaeg": [
+   {
+    "url": "https://www.datatilsynet.dk/afgoerelser/afgoerelser/2021/maj/ukrypteret-mail-med-personoplysninger-sendt-fra-justitsministeriet",
+    "citat": "Tilsynet udtaler alvorlig kritik og har givet Justitsministeriet påbud om at underrette de registrerede. Journalnummer: 2020-442-6885",
+    "genfundet": true,
+    "kontekst": "d Underretning af registrerede ved brud på persondatasikkerheden Usikker transmission Datatilsynet har undersøgt et brud på persondatasikkerheden i Justitsministeriets departement. Tilsynet fandt, at Justitsministeriet ikke havde godtgjort, at oplysningerne var behandlet med den fornødne sikkerhed. Tilsynet udtaler alvorlig kritik og har givet Justitsministeriet påbud om at underrette de registrerede. Journalnummer: 2020-442-6885 Resume Justitsministeriet sendte en e-mail til Advokatsamfundet med oplysninger om 35 personers navn, personnummer og bl.a. rykkerskrivelser vedr. oversendelse til inddrivelse af bøder i SKAT. Mailen var afsendt uden om de normalt krypterede kanaler, og det kunne ikke dokumenteres, om mailen var bl"
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-datatilsynet-afgoerelser.opdatering",
+  "paastand": "Datatilsynets afgørelser (datatilsynet.dk/afgoerelser) (praksissamling, ministerium min-justits): opdatering = {\"frekvens\": \"løbende; kun udvalgte afgørelser offentliggøres\", \"versionshistorik\": \"årsmapper fra 2018 til 2026 samt \\\"Historiske afgørelser\\\" (før GDPR)\"}",
+  "belaeg": [
+   {
+    "url": "https://www.datatilsynet.dk/afgoerelser/afgoerelser/2021/maj/ukrypteret-mail-med-personoplysninger-sendt-fra-justitsministeriet",
+    "citat": "2018 2019 2020 2021 jan feb mar apr maj jun jul sep okt nov dec aug 2022 2023 2024 2025 2026 Bødesager Generelt om tilsyn Tilladelser Historiske afgørelser",
+    "genfundet": true,
+    "kontekst": "n De fælleseuropæiske systemer Databeskyttelse i norden Overførsler til USA Grupper og konferencer i databeskyttelsessamarbejdet One-stop-shop og grænseoverskridende sager Forside Afgørelser Afgørelser 2021 maj Ukrypteret mail med personoplysninger sendt fra Justitsministeriet Afgørelser Afgørelser 2018 2019 2020 2021 jan feb mar apr maj jun jul sep okt nov dec aug 2022 2023 2024 2025 2026 Bødesager Generelt om tilsyn Tilladelser Historiske afgørelser Ukrypteret mail med personoplysninger sendt fra Justitsministeriet Dato: 19-05-2021 Afgørelse Offentlige myndigheder Alvorlig kritik Påbud Anmeldt brud på persondatasikkerheden Behandlingssikkerhed Underretning af registrerede ved brud på persondatasikkerheden Usikker transmission Datatilsynet har "
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-datatilsynet-vejledninger.dokumenttyper",
+  "paastand": "Datatilsynets vejledninger og regler (datatilsynet.dk/regler-og-vejledning) (praksissamling, ministerium min-justits): dokumenttyper = {\"liste\": [{\"type\": \"vejledning\", \"bindende\": \"vejledende\"}, {\"type\": \"EDPB-retningslinjer (dansk oversættelse)\", \"bindende\": \"vejledende\"}]}",
+  "belaeg": [
+   {
+    "url": "https://www.datatilsynet.dk/regler-og-vejledning",
+    "citat": "Anvendelse af lokaliseringsdata og kontaktopsporingsværktøjer i forbindelse med Covid-19-udbruddet (Vejledning 4/2020)",
+    "genfundet": true,
+    "kontekst": "tk. 1, litra a (Vejledning 3/2021) 6, stk. 1, litra b, i databeskyttelsesforordningen som behandlingshjemmel ved udbud af online tjenester (Vejledning 2/2019) Anmeldelse af brud på persondatasikkerheden (Vejledning 9/2022) Ansigtsgenkendelsesteknologi på retshåndhævelsesområdet (Vejledning 05/2022) Anvendelse af lokaliseringsdata og kontaktopsporingsværktøjer i forbindelse med Covid-19-udbruddet (Vejledning 4/2020) Anvendelse og fastsættelse af administrative bøder i henhold til databeskyttelsesforordningen (wp253) Automatiske individuelle afgørelser og profilering (wp251) Behandling af personoplysninger i forbindelse med forbundne køretøjer og mobilitetsrelaterede applikationer (Vejledning 1/2020) Behandlin"
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-datatilsynet-vejledninger.url",
+  "paastand": "Datatilsynets vejledninger og regler (datatilsynet.dk/regler-og-vejledning) (praksissamling, ministerium min-justits): url = {\"vaerdi\": \"https://www.datatilsynet.dk/regler-og-vejledning\"}",
+  "belaeg": [
+   {
+    "url": "https://www.datatilsynet.dk/regler-og-vejledning",
+    "citat": "Datatilsynet opdaterer og producerer løbende vejledninger.",
+    "genfundet": true,
+    "kontekst": " dette muligt gennem synlig rådgivning og vejledning, dialog og kontrol. Det er Datatilsynets opgave at rådgive om registrering, videregivelse og anden behandling af personoplysninger samt føre tilsyn med, at myndigheder, virksomheder og andre dataansvarlige overholder reglerne for databeskyttelse. Datatilsynet opdaterer og producerer løbende vejledninger. Grundlæggende om GDPR Overblik Grundlæggende begreber Grundlæggende principper Behandlingsgrundlag Hvornår behandler du personoplysninger Lovgivning Registreredes rettigheder Iagttagelse af de registreredes rettigheder Indsigt Indsigt i afdøde børns oplysninger Oplysningspligt Sletning Tidsfrister"
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-datatilsynet-vejledninger.adgang",
+  "paastand": "Datatilsynets vejledninger og regler (datatilsynet.dk/regler-og-vejledning) (praksissamling, ministerium min-justits): adgang = {\"vaerdier\": [\"HTML\", \"PDF\"], \"note\": \"Oversigtsside med links; vejledningerne er PDF-filer på cdn.datatilsynet.dk (observeret via søgning, ikke citeret).\"}",
+  "belaeg": [
+   {
+    "url": "https://www.datatilsynet.dk/regler-og-vejledning",
+    "citat": "Datatilsynet opdaterer og producerer løbende vejledninger.",
+    "genfundet": true,
+    "kontekst": " dette muligt gennem synlig rådgivning og vejledning, dialog og kontrol. Det er Datatilsynets opgave at rådgive om registrering, videregivelse og anden behandling af personoplysninger samt føre tilsyn med, at myndigheder, virksomheder og andre dataansvarlige overholder reglerne for databeskyttelse. Datatilsynet opdaterer og producerer løbende vejledninger. Grundlæggende om GDPR Overblik Grundlæggende begreber Grundlæggende principper Behandlingsgrundlag Hvornår behandler du personoplysninger Lovgivning Registreredes rettigheder Iagttagelse af de registreredes rettigheder Indsigt Indsigt i afdøde børns oplysninger Oplysningspligt Sletning Tidsfrister"
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-datatilsynet-vejledninger.identifikatorer",
+  "paastand": "Datatilsynets vejledninger og regler (datatilsynet.dk/regler-og-vejledning) (praksissamling, ministerium min-justits): identifikatorer = {\"andet\": \"Oversatte EDPB-retningslinjer kaldes \\\"Vejledning NN/ÅÅÅÅ\\\"; egne vejledninger har kun titel.\"}",
+  "belaeg": [
+   {
+    "url": "https://www.datatilsynet.dk/regler-og-vejledning",
+    "citat": "Anvendelse af lokaliseringsdata og kontaktopsporingsværktøjer i forbindelse med Covid-19-udbruddet (Vejledning 4/2020)",
+    "genfundet": true,
+    "kontekst": "tk. 1, litra a (Vejledning 3/2021) 6, stk. 1, litra b, i databeskyttelsesforordningen som behandlingshjemmel ved udbud af online tjenester (Vejledning 2/2019) Anmeldelse af brud på persondatasikkerheden (Vejledning 9/2022) Ansigtsgenkendelsesteknologi på retshåndhævelsesområdet (Vejledning 05/2022) Anvendelse af lokaliseringsdata og kontaktopsporingsværktøjer i forbindelse med Covid-19-udbruddet (Vejledning 4/2020) Anvendelse og fastsættelse af administrative bøder i henhold til databeskyttelsesforordningen (wp253) Automatiske individuelle afgørelser og profilering (wp251) Behandling af personoplysninger i forbindelse med forbundne køretøjer og mobilitetsrelaterede applikationer (Vejledning 1/2020) Behandlin"
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-datatilsynet-vejledninger.opdatering",
+  "paastand": "Datatilsynets vejledninger og regler (datatilsynet.dk/regler-og-vejledning) (praksissamling, ministerium min-justits): opdatering = {\"frekvens\": \"løbende\", \"versionshistorik\": \"ikke fundet\"}",
+  "belaeg": [
+   {
+    "url": "https://www.datatilsynet.dk/regler-og-vejledning",
+    "citat": "Datatilsynet opdaterer og producerer løbende vejledninger.",
+    "genfundet": true,
+    "kontekst": " dette muligt gennem synlig rådgivning og vejledning, dialog og kontrol. Det er Datatilsynets opgave at rådgive om registrering, videregivelse og anden behandling af personoplysninger samt føre tilsyn med, at myndigheder, virksomheder og andre dataansvarlige overholder reglerne for databeskyttelse. Datatilsynet opdaterer og producerer løbende vejledninger. Grundlæggende om GDPR Overblik Grundlæggende begreber Grundlæggende principper Behandlingsgrundlag Hvornår behandler du personoplysninger Lovgivning Registreredes rettigheder Iagttagelse af de registreredes rettigheder Indsigt Indsigt i afdøde børns oplysninger Oplysningspligt Sletning Tidsfrister"
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-edpb-oss-register.dokumenttyper",
+  "paastand": "EDPB: register over endelige one-stop-shop-afgørelser (praksissamling, ministerium ingen): dokumenttyper = {\"liste\": [{\"type\": \"endelig afgørelse fra national tilsynsmyndighed (art. 60)\", \"bindende\": \"bindende\"}]}",
+  "belaeg": [
+   {
+    "url": "https://www.edpb.europa.eu/our-work-tools/consistency-findings/register-for-article-60-final-decisions_en",
+    "citat": "The EDPB promotes transparency by publishing this register of all the final decisions taken by national data protection authorities under the “one-stop-shop” cooperation mechanism",
+    "genfundet": true,
+    "kontekst": "uomi FR français GA Gaeilge HR hrvatski HU magyar IT italiano LT lietuvių LV latviešu MT Malti NL Nederlands PL polski PT português RO română SK slovenčina SL slovenščina SV svenska Close language switcher Filter by question Search Breadcrumb Home Registers Register of final one-stop-shop decisions The EDPB promotes transparency by publishing this register of all the final decisions taken by national data protection authorities under the “one-stop-shop” cooperation mechanism , which aims to offer harmonised enforcement on cross-border cases. Under this mechanism, the lead supervisory authority (LSA) and the concerned supervisory authorities (CSA) cooperate to reach consensus. 1597 items Skip to main content Filter on Filter by question Search Filter by lead supervision"
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-edpb-oss-register.url",
+  "paastand": "EDPB: register over endelige one-stop-shop-afgørelser (praksissamling, ministerium ingen): url = {\"vaerdi\": \"https://www.edpb.europa.eu/our-work-tools/consistency-findings/register-for-article-60-final-decisions_en\"}",
+  "belaeg": [
+   {
+    "url": "https://www.edpb.europa.eu/our-work-tools/consistency-findings/register-for-article-60-final-decisions_en",
+    "citat": "The EDPB promotes transparency by publishing this register of all the final decisions taken by national data protection authorities under the “one-stop-shop” cooperation mechanism",
+    "genfundet": true,
+    "kontekst": "uomi FR français GA Gaeilge HR hrvatski HU magyar IT italiano LT lietuvių LV latviešu MT Malti NL Nederlands PL polski PT português RO română SK slovenčina SL slovenščina SV svenska Close language switcher Filter by question Search Breadcrumb Home Registers Register of final one-stop-shop decisions The EDPB promotes transparency by publishing this register of all the final decisions taken by national data protection authorities under the “one-stop-shop” cooperation mechanism , which aims to offer harmonised enforcement on cross-border cases. Under this mechanism, the lead supervisory authority (LSA) and the concerned supervisory authorities (CSA) cooperate to reach consensus. 1597 items Skip to main content Filter on Filter by question Search Filter by lead supervision"
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-edpb-oss-register.adgang",
+  "paastand": "EDPB: register over endelige one-stop-shop-afgørelser (praksissamling, ministerium ingen): adgang = {\"vaerdier\": [\"HTML\", \"PDF\"], \"note\": \"Filtrerbar liste; hver afgørelse er en redigeret PDF.\"}",
+  "belaeg": [
+   {
+    "url": "https://www.edpb.europa.eu/our-work-tools/consistency-findings/register-for-article-60-final-decisions_en",
+    "citat": "EDPBI:EE:OSS:D:2026:4265 10 August 2026 ee decision4265-1-redacted.pdf PDF, 167.21 KB Download",
+    "genfundet": true,
+    "kontekst": " and research Marketing Online platforms Filter on outcome Administrative fine Amicable settlement Compliance order Definitive ban on data processing Dismissal/Rejection of the case Erasure order No sanction No violation Other Reprimand Temporary ban on data processing Warning Filter on date Search EDPBI:EE:OSS:D:2026:4265 10 August 2026 ee decision4265-1-redacted.pdf PDF, 167.21 KB Download decision4265-1-redacted.pdf Main legal reference Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject) Article 15 (Right of access by the data subject) Article 17 (Right to erasure (‘right to be forgotten’)) CSA fr Relevant topics Data"
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-edpb-oss-register.identifikatorer",
+  "paastand": "EDPB: register over endelige one-stop-shop-afgørelser (praksissamling, ministerium ingen): identifikatorer = {\"andet\": \"EDPBI:<land>:OSS:D:<år>:<nr>, fx EDPBI:EE:OSS:D:2026:4265.\"}",
+  "belaeg": [
+   {
+    "url": "https://www.edpb.europa.eu/our-work-tools/consistency-findings/register-for-article-60-final-decisions_en",
+    "citat": "EDPBI:EE:OSS:D:2026:4265 10 August 2026 ee decision4265-1-redacted.pdf",
+    "genfundet": true,
+    "kontekst": " and research Marketing Online platforms Filter on outcome Administrative fine Amicable settlement Compliance order Definitive ban on data processing Dismissal/Rejection of the case Erasure order No sanction No violation Other Reprimand Temporary ban on data processing Warning Filter on date Search EDPBI:EE:OSS:D:2026:4265 10 August 2026 ee decision4265-1-redacted.pdf PDF, 167.21 KB Download decision4265-1-redacted.pdf Main legal reference Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject) Article 15 (Right of access by the data subject) Article 17 (Right to erasure (‘right to be forgotten’)) CSA"
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-edpb-oss-register.opdatering",
+  "paastand": "EDPB: register over endelige one-stop-shop-afgørelser (praksissamling, ministerium ingen): opdatering = {\"frekvens\": \"løbende; seneste post 10/8/2026\", \"versionshistorik\": \"ikke angivet\"}",
+  "belaeg": [
+   {
+    "url": "https://www.edpb.europa.eu/our-work-tools/consistency-findings/register-for-article-60-final-decisions_en",
+    "citat": "EDPBI:LU:OSS:D:2026:4243 31 July 2026",
+    "genfundet": true,
+    "kontekst": "gal reference Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject) Article 15 (Right of access by the data subject) Article 17 (Right to erasure (‘right to be forgotten’)) CSA fr Relevant topics Data subject rights Outcome No sanction EDPBI:LU:OSS:D:2026:4243 31 July 2026 lu decision-no-4243_0.pdf PDF, 420.25 KB Download decision-no-4243_0.pdf Main legal reference Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject) Article 15 (Right of access by the data subject) CSA DE SA (Bavaria) Relevant topics Da"
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-edpb-retningslinjer.dokumenttyper",
+  "paastand": "EDPB: retningslinjer, anbefalinger og bedste praksis (praksissamling, ministerium ingen): dokumenttyper = {\"liste\": [{\"type\": \"retningslinjer\", \"bindende\": \"vejledende\"}, {\"type\": \"anbefalinger\", \"bindende\": \"vejledende\"}]}",
+  "belaeg": [
+   {
+    "url": "https://www.edpb.europa.eu/our-work-tools/general-guidance/guidelines-recommendations-best-practices_en",
+    "citat": "Guidelines 04/2026 on the application of the power to impose administrative fines in relation to other corrective powers under the GDPR",
+    "genfundet": true,
+    "kontekst": "ublic consultations to gather the views and concerns of all interested stakeholders and citizens. Please note that we will publish your answers on our website. Each consultation will have a privacy statement, which states how we process your personal data and what rights you have. Open for feedback Guidelines 04/2026 on the application of the power to impose administrative fines in relation to other corrective powers under the GDPR Feedback period 21 September - 13 November 2026 Have your say! Consultations closed for feedback 47 items Skip to main content Filter on Filter on question Search Filter on topic Accountability and Compliance tools Accountability Certification Data protection impact assessment AI and technology Ano"
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-edpb-retningslinjer.url",
+  "paastand": "EDPB: retningslinjer, anbefalinger og bedste praksis (praksissamling, ministerium ingen): url = {\"vaerdi\": \"https://www.edpb.europa.eu/our-work-tools/general-guidance/guidelines-recommendations-best-practices_en\"}",
+  "belaeg": [
+   {
+    "url": "https://www.edpb.europa.eu/our-work-tools/general-guidance/guidelines-recommendations-best-practices_en",
+    "citat": "Guidelines 04/2026 on the application of the power to impose administrative fines in relation to other corrective powers under the GDPR",
+    "genfundet": true,
+    "kontekst": "ublic consultations to gather the views and concerns of all interested stakeholders and citizens. Please note that we will publish your answers on our website. Each consultation will have a privacy statement, which states how we process your personal data and what rights you have. Open for feedback Guidelines 04/2026 on the application of the power to impose administrative fines in relation to other corrective powers under the GDPR Feedback period 21 September - 13 November 2026 Have your say! Consultations closed for feedback 47 items Skip to main content Filter on Filter on question Search Filter on topic Accountability and Compliance tools Accountability Certification Data protection impact assessment AI and technology Ano"
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-edpb-retningslinjer.adgang",
+  "paastand": "EDPB: retningslinjer, anbefalinger og bedste praksis (praksissamling, ministerium ingen): adgang = {\"vaerdier\": [\"HTML\", \"PDF\"], \"note\": \"Liste med filtre på emne; offentlig høring på udkast.\"}",
+  "belaeg": [
+   {
+    "url": "https://www.edpb.europa.eu/our-work-tools/general-guidance/guidelines-recommendations-best-practices_en",
+    "citat": "Open for feedback Guidelines 04/2026 on the application of the power to impose administrative fines",
+    "genfundet": true,
+    "kontekst": "ions We organise public consultations to gather the views and concerns of all interested stakeholders and citizens. Please note that we will publish your answers on our website. Each consultation will have a privacy statement, which states how we process your personal data and what rights you have. Open for feedback Guidelines 04/2026 on the application of the power to impose administrative fines in relation to other corrective powers under the GDPR Feedback period 21 September - 13 November 2026 Have your say! Consultations closed for feedback 47 items Skip to main content Filter on Filter on question Search Filter on topic Accountability and Compliance tools Accountability Certification D"
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-edpb-retningslinjer.identifikatorer",
+  "paastand": "EDPB: retningslinjer, anbefalinger og bedste praksis (praksissamling, ministerium ingen): identifikatorer = {\"andet\": \"Guidelines NN/ÅÅÅÅ, fx Guidelines 04/2026.\"}",
+  "belaeg": [
+   {
+    "url": "https://www.edpb.europa.eu/our-work-tools/general-guidance/guidelines-recommendations-best-practices_en",
+    "citat": "Guidelines 04/2026 on the application of the power to impose administrative fines",
+    "genfundet": true,
+    "kontekst": "ublic consultations to gather the views and concerns of all interested stakeholders and citizens. Please note that we will publish your answers on our website. Each consultation will have a privacy statement, which states how we process your personal data and what rights you have. Open for feedback Guidelines 04/2026 on the application of the power to impose administrative fines in relation to other corrective powers under the GDPR Feedback period 21 September - 13 November 2026 Have your say! Consultations closed for feedback 47 items Skip to main content Filter on Filter on question Search Filter on topic Accountability and Compliance tools Accountability Certification D"
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-edpb-retningslinjer.opdatering",
+  "paastand": "EDPB: retningslinjer, anbefalinger og bedste praksis (praksissamling, ministerium ingen): opdatering = {\"frekvens\": \"løbende; udkast i høring før vedtagelse\", \"versionshistorik\": \"ikke angivet\"}",
+  "belaeg": [
+   {
+    "url": "https://www.edpb.europa.eu/our-work-tools/general-guidance/guidelines-recommendations-best-practices_en",
+    "citat": "Open for feedback Guidelines 04/2026 on the application of the power to impose administrative fines",
+    "genfundet": true,
+    "kontekst": "ions We organise public consultations to gather the views and concerns of all interested stakeholders and citizens. Please note that we will publish your answers on our website. Each consultation will have a privacy statement, which states how we process your personal data and what rights you have. Open for feedback Guidelines 04/2026 on the application of the power to impose administrative fines in relation to other corrective powers under the GDPR Feedback period 21 September - 13 November 2026 Have your say! Consultations closed for feedback 47 items Skip to main content Filter on Filter on question Search Filter on topic Accountability and Compliance tools Accountability Certification D"
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|tilsyn-datatilsynet",
+  "belaeg": [
+   {
+    "url": "https://cdn.datatilsynet.dk/datatilsynet/Media/638784214676320017/%C3%85rsrapport%202024%20for%20Datatilsynet.pdf",
+    "citat": "Datatilsynet udøver sine funktioner i fuld uafhængighed, men har en finanslovsmæssig tilknytning til Justitsministeriet.",
+    "genfundet": true,
+    "kontekst": "en centrale statslige myndighed, der fører tilsyn med enhver behandling, der er omfattet af databeskyttelsesforordningen og databeskyttelsesloven samt lov om retshåndhævende myndigheders behandling af personoplysninger (retshåndhævelsesloven), bortset fra behandlinger, der foretages for domstolene. Datatilsynet udøver sine funktioner i fuld uafhængighed, men har en finanslovsmæssig tilknytning til Justitsministeriet. Årsrapporten aflægges for § 11.11.61. Datatilsynet (driftsbevilling). Datatilsynet består af et råd, Datarådet, og et sekretariat. Justitsministeren nedsætter Datarådet, der består af en formand og syv andre medlemmer. Datarådet træffer først og fremmest afgørelse i konkrete sager af principiel ka"
+   }
+  ],
+  "paastand": "min-justits —ressortansvar→ Datatilsynet: Datatilsynet har finanslovsmæssig tilknytning til Justitsministeriet; tilsynet er funktionelt uafhængigt."
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|raad-dataraadet",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+    "citat": "Justitsministeren nedsætter Datarådet, som består af 1 formand, der skal være landsdommer eller højesteretsdommer, og af 7 andre medlemmer.",
+    "genfundet": true,
+    "kontekst": "ning, som ligger inden for databeskyttelsesforordningens rammer for særregler om behandling af personoplysninger, jf. dog lovens kapitel 11. Datatilsynet udøver sine funktioner i fuld uafhængighed. Stk. 2. Tilsynets daglige forretninger varetages af et sekretariat, der ledes af en direktør. Stk. 3. Justitsministeren nedsætter Datarådet, som består af 1 formand, der skal være landsdommer eller højesteretsdommer, og af 7 andre medlemmer. Erhvervsministeren og ministeren for offentlig innovation udnævner hver 1 af de 7 andre medlemmer omfattet af 1. pkt. Justitsministeren kan udnævne stedfortrædere for 5 medlemmer, og erhvervsministeren og ministeren for offentlig innovation kan udnævne hver en af stedfortræderne. Formanden, medlem",
+    "paragraf": "§ 27"
+   }
+  ],
+  "paastand": "min-justits —ressortansvar→ Datarådet: Justitsministeren nedsætter Datarådet (databeskyttelseslovens § 27, stk. 3)."
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|lov-databeskyttelsesloven",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+    "citat": "Justitsministeren nedsætter Datarådet, som består af 1 formand",
+    "genfundet": true,
+    "kontekst": "ning, som ligger inden for databeskyttelsesforordningens rammer for særregler om behandling af personoplysninger, jf. dog lovens kapitel 11. Datatilsynet udøver sine funktioner i fuld uafhængighed. Stk. 2. Tilsynets daglige forretninger varetages af et sekretariat, der ledes af en direktør. Stk. 3. Justitsministeren nedsætter Datarådet, som består af 1 formand, der skal være landsdommer eller højesteretsdommer, og af 7 andre medlemmer. Erhvervsministeren og ministeren for offentlig innovation udnævner hver 1 af de 7 andre medlemmer omfattet af 1. pkt. Justitsministeren kan udnævne stedfortrædere for 5 medlemmer, og erhvervsministeren og ministeren for of",
+    "paragraf": "§ 27"
+   }
+  ],
+  "paastand": "min-justits —ressortansvar→ Databeskyttelsesloven: Loven hører under justitsministeren."
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|lov-retshaandhaevelsesloven",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2017/410",
+    "citat": "Lov om retshåndhævende myndigheders behandling af personoplysninger",
+    "genfundet": true,
+    "kontekst": "LOV H#LOKDOK 01 A A20170041030 AA010162 189891 Lov om retshåndhævende myndigheders behandling af personoplysninger 2017 2017-04-27 2017-04-28 2026-06-27 Valid 410 Retshåndhævelsesloven Lovtidende A 2019-10-04 32016L0680 A20180050630 2018-05-23 Lov om ændring af lov om tv-overvågning og lov om retshåndhævende myndigheders behandling af personoplysninger (Videreførelse af regler om behandling af personoplysninger"
+   }
+  ],
+  "paastand": "min-justits —ressortansvar→ Retshåndhævelsesloven (lov om retshåndhævende myndigheders behandling af personoplysninger): Loven hører under Justitsministeriet."
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|lov-tv-overvaagningsloven",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/182",
+    "citat": "Herved bekendtgøres lov om tv-overvågning, jf. lovbekendtgørelse nr. 1190 af 11. oktober 2007",
+    "genfundet": true,
+    "kontekst": "ets virksomhed, straffeloven, lov om bekæmpelse af ungdomskriminalitet og forskellige andre love (Styrket indsats mod utryghedsskabende adfærd) Nej Peter Hummelgaard Louise Black Mogensen Justitsministeriet Justitsmin., j.nr. 2020-7910-0030 Justitsministeriet Bekendtgørelse af lov om tv-overvågning Herved bekendtgøres lov om tv-overvågning, jf. lovbekendtgørelse nr. 1190 af 11. oktober 2007, med de ændringer, der følger af lov nr. 713 af 25. juni 2010, § 1 i lov nr. 422 af 10. maj 2011, § 1 i lov nr. 736 af 25. juni 2014, § 5 i lov nr. 1728 af 27. december 2016, § 1 i lov nr. 506 af 23. maj 2018 og lov nr. 802 af 9. juni 2020. § 1. Private må ikke foretage tv-overvågning af gade, vej,"
+   }
+  ],
+  "paastand": "min-justits —ressortansvar→ Tv-overvågningsloven: Loven hører under Justitsministeriet."
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|bek-dataraadet-forretningsorden",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/454",
+    "citat": "Bekendtgørelse om forretningsorden for Datarådet",
+    "genfundet": true,
+    "kontekst": "BEK H#LOKDOK04 B B20190045405 AA011396 208812 Bekendtgørelse om forretningsorden for Datarådet 2019 2019-01-01 2019-04-26 2024-03-22 Valid 454 Lovtidende A 2019-04-26 A20240028929 2024-03-08 Bekendtgørelse af lov om supplerende bestemmelser til forordning om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger (databesk"
+   }
+  ],
+  "paastand": "min-justits —ressortansvar→ Bekendtgørelse om forretningsorden for Datarådet (BEK nr. 454 af 01/01/2019): Udstedt af Justitsministeriet."
+ },
+ {
+  "hvor": "kant lov-databeskyttelsesloven|hjemmel_for|tilsyn-datatilsynet",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+    "citat": "Datatilsynet, der består af et råd og et sekretariat, fører i overensstemmelse med databeskyttelsesforordningens kapitel VI og VII tilsyn med enhver behandling",
+    "genfundet": true,
+    "kontekst": "til beskyttelse af de registreredes privatliv. Stk. 5. Forinden iværksættelse af ændringer i de behandlinger, der er nævnt i stk. 1 eller 3, skal Datatilsynets tilladelse indhentes på ny, hvis der er tale om væsentlige ændringer. Afsnit VI Uafhængige tilsynsmyndigheder Kapitel 10 Datatilsynet § 27. Datatilsynet, der består af et råd og et sekretariat, fører i overensstemmelse med databeskyttelsesforordningens kapitel VI og VII tilsyn med enhver behandling, der omfattes af denne lov, databeskyttelsesforordningen og anden lovgivning, som ligger inden for databeskyttelsesforordningens rammer for særregler om behandling af personoplysninger, jf. dog lovens kapitel 11. Datatilsynet udøver sine funktioner i fuld uafhængighed. Stk. 2. Tilsynets daglige for",
+    "paragraf": "§ 27"
+   }
+  ],
+  "paastand": "Databeskyttelsesloven —hjemmel_for→ Datatilsynet: § 27, stk. 1: Datatilsynet fører tilsyn i fuld uafhængighed."
+ },
+ {
+  "hvor": "kant lov-databeskyttelsesloven|hjemmel_for|raad-dataraadet",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+    "citat": "Rådet fastsætter sin forretningsorden og de nærmere regler om arbejdets fordeling mellem råd og sekretariat.",
+    "genfundet": true,
+    "kontekst": "isteren for offentlig innovation kan udnævne hver en af stedfortræderne. Formanden, medlemmerne og stedfortræderne for disse udnævnes for 4 år. Der kan ske genudpegning to gange. Udpegelsen af formand, medlemmer og stedfortrædere for disse sker på baggrund af disses faglige kvalifikationer. Stk. 4. Rådet fastsætter sin forretningsorden og de nærmere regler om arbejdets fordeling mellem råd og sekretariat. Stk. 5. Udpegelsen af formand, medlemmer og stedfortrædere for disse er betinget af, at de pågældende sikkerhedsgodkendes, og at godkendelsen opretholdes i hele embedsperioden. Stk. 6. Hvervet som formand, medlem eller stedfortræder ophører ved udgangen af embedsperioden eller ved frivillig fratræ",
+    "paragraf": "§ 27"
+   }
+  ],
+  "paastand": "Databeskyttelsesloven —hjemmel_for→ Datarådet: § 27, stk. 3-4: Datarådet nedsættes af justitsministeren og fastsætter forretningsorden."
+ },
+ {
+  "hvor": "kant lov-databeskyttelsesloven|hjemmel_for|bek-dataraadet-forretningsorden",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2019/454",
+    "citat": "I medfør af § 27, stk. 4, i lov nr. 502 af 23. maj 2018 om supplerende bestemmelser til forordning",
+    "genfundet": true,
+    "kontekst": "se med behandling af personoplysninger og om fri udveksling af sådanne oplysninger (databeskyttelsesloven) Nej Kristian Korfits Nielsen Cristina A. Gulisano Datatilsynet Justitsmin.,\\n Datatilsynet, j.nr. 2019-022-0002 Justitsministeriet Datatilsynet Bekendtgørelse om forretningsorden for Datarådet I medfør af § 27, stk. 4, i lov nr. 502 af 23. maj 2018 om supplerende bestemmelser til forordning om beskyttelse af fysiske personer i forbindelse med behandling af perso‌no‌plysninger og om fri udveksling af sådanne oplysninger fastsættes: § 1. Datarådet består af 1 formand, der er landsdommer eller højesteretsdommer, og af 7 andre medlemmer. § 2. Rådets formand forbereder i samarbejde med sek"
+   }
+  ],
+  "paastand": "Databeskyttelsesloven —hjemmel_for→ Bekendtgørelse om forretningsorden for Datarådet (BEK nr. 454 af 01/01/2019): § 27, stk. 4."
+ },
+ {
+  "hvor": "kant lov-databeskyttelsesloven|hjemmel_for|sty-domstolsstyrelsen",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+    "citat": "Domstolsstyrelsen fører i overensstemmelse med databeskyttelsesforordningens kapitel VI og VII tilsyn med behandling af oplysninger, der foretages for domstolene, når disse ikke handler i deres egenskab af domstol.",
+    "genfundet": true,
+    "kontekst": "Justitsministeren kan endvidere fastsætte nærmere regler om afvisning af henvendelser, der ikke indgives digitalt, og om undtagelser herfra. Justitsministeren kan endelig fastsætte nærmere regler om, hvornår en digital meddelelse anses for at være kommet frem. Kapitel 11 Tilsyn med domstolene § 37. Domstolsstyrelsen fører i overensstemmelse med databeskyttelsesforordningens kapitel VI og VII tilsyn med behandling af oplysninger, der foretages for domstolene, når disse ikke handler i deres egenskab af domstol. Stk. 2. For anden behandling af oplysninger træffes afgørelse af vedkommende ret. Afgørelsen kan kæres til højere ret. For særlige domstole, hvis afgørelser ikke kan indbringes for højere ret, kan den afgørelse, der er nævnt i 1. pkt., kæres til den landsret, i hvis kreds retten er beliggende. Kær",
+    "paragraf": "§ 37"
+   }
+  ],
+  "paastand": "Databeskyttelsesloven —hjemmel_for→ sty-domstolsstyrelsen: § 37, stk. 1: Domstolsstyrelsen fører tilsyn med domstolenes behandling, når de ikke handler som domstol; § 38: afgørelser er endelige."
+ },
+ {
+  "hvor": "kant lov-retshaandhaevelsesloven|hjemmel_for|tilsyn-datatilsynet",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2017/410",
+    "citat": "Datatilsynet, der består af et råd og et sekretariat, fører tilsyn med enhver behandling, der omfattes af loven, jf. dog kapitel 19.",
+    "genfundet": true,
+    "kontekst": ", hvortil sidstnævnte udelukkende kan behandle personoply‌snin‌g‍erne, forudsat at denne behandling er nødvendig. Stk. 2. Den overførende kompetente myndighed dokumenterer og underretter tilsynsmyndigheden om overførsler i medfør af stk. 1. Afsnit VIII Tilsynsmyndighed Kapitel 18 Datatilsynet § 37. Datatilsynet, der består af et råd og et sekretariat, fører tilsyn med enhver behandling, der omfattes af loven, jf. dog kapitel 19. Stk. 2. Tilsynets daglige forretninger varetages af et sekretariat, der ledes af en direktør. Stk. 3. Justitsministeren nedsætter Datarådet, som består af 1 formand, der er dommer, og 6 andre medlemmer. Der kan udpeges stedfortrædere for medlemmerne. Formanden og medlemmerne og stedfortræderne for",
+    "paragraf": "§ 37"
+   }
+  ],
+  "paastand": "Retshåndhævelsesloven (lov om retshåndhævende myndigheders behandling af personoplysninger) —hjemmel_for→ Datatilsynet: § 37: Datatilsynet fører tilsyn efter retshåndhævelsesloven; § 42, stk. 2: afgørelser kan ikke indbringes for anden administrativ myndighed."
+ },
+ {
+  "hvor": "kant lov-retshaandhaevelsesloven|hjemmel_for|sty-domstolsstyrelsen",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2017/410",
+    "citat": "Domstolsstyrelsen fører tilsyn med behandling af oplysninger, der foretages for domstolene, når disse ikke handler i deres egenskab af domstol.",
+    "genfundet": true,
+    "kontekst": "mer og stedfortrædere for disse kan kun have bibeskæftigelse, i det omfang det er foreneligt med udøvelsen af de pligter, der er knyttet til stillingen eller hvervet. Stk. 9. Datatilsynet repræsenterer tilsynsmyndighederne i Det Europæiske Databeskyttelsesråd. Kapitel 19 Tilsyn med domstolene § 38. Domstolsstyrelsen fører tilsyn med behandling af oplysninger, der foretages for domstolene, når disse ikke handler i deres egenskab af domstol. Stk. 2. For anden behandling af oplysninger træffes afgørelse af vedkommende ret. Afgørelsen kan kæres til højere ret. For særlige domstole, hvis afgørelser ikke kan indbringes for højere ret, kan den afgørelse, der er nævnt i 1. pkt., kæres til den landsret, i hvis kreds retten er beliggende. Kær",
+    "paragraf": "§ 38"
+   }
+  ],
+  "paastand": "Retshåndhævelsesloven (lov om retshåndhævende myndigheders behandling af personoplysninger) —hjemmel_for→ sty-domstolsstyrelsen: § 38: tilsyn med domstolenes behandling uden for domstolsfunktionen."
+ },
+ {
+  "hvor": "kant lov-tv-overvaagningsloven|hjemmel_for|tilsyn-datatilsynet",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/182",
+    "citat": "Datatilsynet fører tilsyn med enhver behandling af personoplysninger omfattet af §§ 4 c og 4 d.",
+    "genfundet": true,
+    "kontekst": "ker med henblik på at fremme trygheden for personer, som færdes i det tv-overvågede område. Stk. 2. Optagelser som nævnt i stk. 1 må videregives i de tilfælde, der er nævnt i § 4 c, stk. 1. Stk. 3. Optagelser som nævnt i stk. 1 skal slettes, senest 30 dage efter at optagelserne er foretaget. § 4 e. Datatilsynet fører tilsyn med enhver behandling af personoplysninger omfattet af §§ 4 c og 4 d. § 5. Overtrædelse af § 1, § 3, stk. 1, § 3 a, stk. 1, samt § 2 e straffes med bøde. Stk. 2. Medmindre højere straf er forskyldt efter den øvrige lovgivning, straffes med bøde eller fængsel indtil 6 måneder den, der i forbindelse med en behandling, som udføres for private, overtræder § 4 c. Stk. 3.",
+    "paragraf": "§ 4 e"
+   }
+  ],
+  "paastand": "Tv-overvågningsloven —hjemmel_for→ Datatilsynet: § 4 e: Datatilsynet fører tilsyn med behandling af personoplysninger omfattet af §§ 4 c og 4 d."
+ },
+ {
+  "hvor": "kant lov-databeskyttelsesloven|implementerer_EU|eu-reg-2016-679",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+    "citat": "generel forordning om databeskyttelse), EU-Tidende 2016, nr. L 119, side 1.",
+    "genfundet": true,
+    "kontekst": "ninger (databeskyttelsesloven) 1) Som bilag til loven er medtaget Europa-Parlamentets og Rådets forordning nr. 679 af 27. april 2016 om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger og om ophævelse af direktiv 95/46/EF (generel forordning om databeskyttelse), EU-Tidende 2016, nr. L 119, side 1. Ifølge artikel 288 i EUF-traktaten gælder en forordning umiddelbart i hver medlemsstat. Gengivelsen af forordningen i lovens bilag er således udelukkende begrundet i praktiske hensyn og berører ikke forordningens umiddelbare gyldighed i Danmark. Herved bekendtgøres lov nr. 502 af 23. maj 2018 om s"
+   }
+  ],
+  "paastand": "Databeskyttelsesloven —implementerer_EU→ Databeskyttelsesforordningen, forordning (EU) 2016/679 (GDPR): Supplerer forordningen; bilaget gengiver den."
+ },
+ {
+  "hvor": "kant lov-retshaandhaevelsesloven|implementerer_EU|eu-dir-2016-680",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2017/410",
+    "citat": "og om ophævelse af Rådets rammeafgørelse 2008/977/RIA, EU-Tidende 2016, nr. L 119, side 89.",
+    "genfundet": true,
+    "kontekst": "27. april 2016 om beskyttelse af fysiske personer i forbindelse med kompetente myndigheders behandling af personoplysninger med henblik på at forebygge, efterforske, afsløre eller retsforfølge strafbare handlinger eller fuldbyrde strafferetlige sanktioner og om fri udveksling af sådanne oplysninger og om ophævelse af Rådets rammeafgørelse 2008/977/RIA, EU-Tidende 2016, nr. L 119, side 89. VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov: Afsnit I Indledende bestemmelser Kapitel 1 Lovens område § 1. Loven gælder for politiets, anklagemyndighedens, herunder den militære anklagemyndigheds, "
+   }
+  ],
+  "paastand": "Retshåndhævelsesloven (lov om retshåndhævende myndigheders behandling af personoplysninger) —implementerer_EU→ Retshåndhævelsesdirektivet, direktiv (EU) 2016/680: Gennemfører direktivet."
+ },
+ {
+  "hvor": "kant eu-reg-2016-679|hjemmel_for|eu-edpb",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+    "citat": "Det Europæiske Databeskyttelsesråd (»Databeskyttelsesrådet«) oprettes herved som et EU-organ med status som juridisk person.",
+    "genfundet": true,
+    "kontekst": "og mellem tilsynsmyndigheder og Databeskyttelsesrådet, navnlig det standardformat, der er omhandlet i artikel 64. Disse gennemførelsesretsakter vedtages efter undersøgelsesproceduren i artikel 93, stk. 2. Afdeling 3 Det Europæiske Databeskyttelsesråd Artikel 68 Det Europæiske Databeskyttelsesråd 1. Det Europæiske Databeskyttelsesråd (»Databeskyttelsesrådet«) oprettes herved som et EU-organ med status som juridisk person. 2. Databeskyttelsesrådet repræsenteres af sin formand. 3. Databeskyttelsesrådet sammensættes af chefen for en tilsynsmyndighed i hver medlemsstat og af Den Europæiske Tilsynsførende for Databeskyttelse eller deres respektive repræsentanter. 4. Hvis mere end én tilsynsmyndighed i en medlemsstat er ",
+    "paragraf": "§ 48"
+   }
+  ],
+  "paastand": "Databeskyttelsesforordningen, forordning (EU) 2016/679 (GDPR) —hjemmel_for→ Det Europæiske Databeskyttelsesråd (EDPB): Art. 68, stk. 1 opretter EDPB."
+ },
+ {
+  "hvor": "kant sty-domstolsstyrelsen|tilsyn|dom-domstolene",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+    "citat": "Domstolsstyrelsens afgørelser er endelige.",
+    "genfundet": true,
+    "kontekst": "nges for højere ret, kan den afgørelse, der er nævnt i 1. pkt., kæres til den landsret, i hvis kreds retten er beliggende. Kærefristen er 4 uger, fra den dag afgørelsen er meddelt den pågældende. § 38. For Domstolsstyrelsens udøvelse af tilsyn i henhold til § 37 gælder bestemmelserne i §§ 29 og 34. Domstolsstyrelsens afgørelser er endelige. Afsnit VII Retsmidler, ansvar, sanktioner og afsluttende bestemmelser Kapitel 12 Retsmidler, ansvar og sanktioner § 39. Den registrerede eller dennes repræsentant kan klage til vedkommende tilsynsmyndighed over behandling af oplysninger vedrørende den registrerede, jf. databeskyttelsesforordningen",
+    "paragraf": "§ 38"
+   }
+  ],
+  "paastand": "sty-domstolsstyrelsen —tilsyn→ dom-domstolene: Databeskyttelseslovens § 37, stk. 1 (og retshåndhævelseslovens § 38) for behandling uden for domstolsfunktionen; Domstolsstyrelsens afgørelser er endelige (§ 38)."
+ },
+ {
+  "hvor": "kant dom-domstolene|klageinstans|tilsyn-datatilsynet",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+    "citat": "Tilsynsmyndighedernes afgørelser, undladelser af at behandle en klage fra en registreret eller manglende underretning kan af den registrerede eller dennes repræsentant indbringes for domstolene i den borgerlige retsplejes former",
+    "genfundet": true,
+    "kontekst": "r, ansvar, sanktioner og afsluttende bestemmelser Kapitel 12 Retsmidler, ansvar og sanktioner § 39. Den registrerede eller dennes repræsentant kan klage til vedkommende tilsynsmyndighed over behandling af oplysninger vedrørende den registrerede, jf. databeskyttelsesforordningens artikel 77. Stk. 2. Tilsynsmyndighedernes afgørelser, undladelser af at behandle en klage fra en registreret eller manglende underretning kan af den registrerede eller dennes repræsentant indbringes for domstolene i den borgerlige retsplejes former, jf. databeskyttelsesforordningens artikel 78. Stk. 3. Den registrerede eller dennes repræsentant kan indbringe spørgsmål om dataansvarliges og databehandleres overholdelse af denne lov for domstolene i den borgerlige retsplejes former, jf. databeskyttelsesforordningens artikel 79. § 40. Enhver per",
+    "paragraf": "§ 39"
+   }
+  ],
+  "paastand": "dom-domstolene —klageinstans→ Datatilsynet: Ikke administrativ klage: Datatilsynets afgørelser kan ikke indbringes for anden administrativ myndighed (§ 30, stk. 1), men den registrerede kan indbringe dem for domstolene i den borgerlige retsplejes former (§ 39, stk. 2)."
+ },
+ {
+  "hvor": "kant tilsyn-datatilsynet|udsteder|kilde-datatilsynet-afgoerelser",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/289",
+    "citat": "Datatilsynet kan offentliggøre sine udtalelser og afgørelser.",
+    "genfundet": true,
+    "kontekst": "svarende anvendelse. Stk. 2. Datatilsynet kan videregive oplysninger til tilsynsmyndigheder i andre medlemsstater, i det omfang det er nødvendigt for at påse overholdelsen af bestemmelserne i denne lov, databeskyttelsesforordningen eller den pågældende medlemsstats databeskyttelseslovgivning. § 33. Datatilsynet kan offentliggøre sine udtalelser og afgørelser. Bestemmelsen i § 22 finder anvendelse på offentliggørelsen. § 34. Datatilsynet og Domstolsstyrelsen samarbejder, i det omfang det er nødvendigt for at opfylde deres pligter, navnlig ved at udveksle alle relevante oplysninger. § 35. Justitsministeren kan fastsætte nærmere regler om, at Datatilsynet",
+    "paragraf": "§ 33"
+   }
+  ],
+  "paastand": "Datatilsynet —udsteder→ Datatilsynets afgørelser (datatilsynet.dk/afgoerelser): Datatilsynet offentliggør udvalgte afgørelser (§ 33)."
+ },
+ {
+  "hvor": "kant tilsyn-datatilsynet|udsteder|kilde-datatilsynet-vejledninger",
+  "belaeg": [
+   {
+    "url": "https://www.datatilsynet.dk/regler-og-vejledning",
+    "citat": "Datatilsynet opdaterer og producerer løbende vejledninger.",
+    "genfundet": true,
+    "kontekst": " dette muligt gennem synlig rådgivning og vejledning, dialog og kontrol. Det er Datatilsynets opgave at rådgive om registrering, videregivelse og anden behandling af personoplysninger samt føre tilsyn med, at myndigheder, virksomheder og andre dataansvarlige overholder reglerne for databeskyttelse. Datatilsynet opdaterer og producerer løbende vejledninger. Grundlæggende om GDPR Overblik Grundlæggende begreber Grundlæggende principper Behandlingsgrundlag Hvornår behandler du personoplysninger Lovgivning Registreredes rettigheder Iagttagelse af de registreredes rettigheder Indsigt Indsigt i afdøde børns oplysninger Oplysningspligt Sletning Tidsfrister"
+   }
+  ],
+  "paastand": "Datatilsynet —udsteder→ Datatilsynets vejledninger og regler (datatilsynet.dk/regler-og-vejledning): Datatilsynet udgiver vejledninger."
+ },
+ {
+  "hvor": "kant eu-edpb|udsteder|kilde-edpb-oss-register",
+  "belaeg": [
+   {
+    "url": "https://www.edpb.europa.eu/our-work-tools/consistency-findings/register-for-article-60-final-decisions_en",
+    "citat": "The EDPB promotes transparency by publishing this register of all the final decisions taken by national data protection authorities",
+    "genfundet": true,
+    "kontekst": "uomi FR français GA Gaeilge HR hrvatski HU magyar IT italiano LT lietuvių LV latviešu MT Malti NL Nederlands PL polski PT português RO română SK slovenčina SL slovenščina SV svenska Close language switcher Filter by question Search Breadcrumb Home Registers Register of final one-stop-shop decisions The EDPB promotes transparency by publishing this register of all the final decisions taken by national data protection authorities under the “one-stop-shop” cooperation mechanism , which aims to offer harmonised enforcement on cross-border cases. Under this mechanism, the lead supervisory authority (LSA) and the concerned supervisory authorities (CSA) cooperate to reach consensus. 1597 items Skip to main content Filter on Filt"
+   }
+  ],
+  "paastand": "Det Europæiske Databeskyttelsesråd (EDPB) —udsteder→ EDPB: register over endelige one-stop-shop-afgørelser: EDPB driver registret."
+ },
+ {
+  "hvor": "kant eu-edpb|udsteder|kilde-edpb-retningslinjer",
+  "belaeg": [
+   {
+    "url": "https://www.edpb.europa.eu/our-work-tools/general-guidance/guidelines-recommendations-best-practices_en",
+    "citat": "Guidelines 04/2026 on the application of the power to impose administrative fines in relation to other corrective powers under the GDPR",
+    "genfundet": true,
+    "kontekst": "ublic consultations to gather the views and concerns of all interested stakeholders and citizens. Please note that we will publish your answers on our website. Each consultation will have a privacy statement, which states how we process your personal data and what rights you have. Open for feedback Guidelines 04/2026 on the application of the power to impose administrative fines in relation to other corrective powers under the GDPR Feedback period 21 September - 13 November 2026 Have your say! Consultations closed for feedback 47 items Skip to main content Filter on Filter on question Search Filter on topic Accountability and Compliance tools Accountability Certification Data protection impact assessment AI and technology Ano"
+   }
+  ],
+  "paastand": "Det Europæiske Databeskyttelsesråd (EDPB) —udsteder→ EDPB: retningslinjer, anbefalinger og bedste praksis: EDPB udgiver retningslinjerne."
+ }
+]

@@ -1,0 +1,427 @@
+[
+ {
+  "hvor": "lov-arbejdsretsloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-arbejdsretsloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-arbejdsretsloven.identifikatorer",
+  "dom": "delvist",
+  "grund": "ELI og LBK-nr. 705 ses, men LBK-datoen 13/08/2026 står ikke i belægget"
+ },
+ {
+  "hvor": "lov-forligsmandsloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-forligsmandsloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-forligsmandsloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-ligebehandlingsnaevnet.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-ligebehandlingsnaevnet.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-ligebehandlingsnaevnet.identifikatorer",
+  "dom": "delvist",
+  "grund": "ELI-nummer 1779 ses, men LBK-datoen 25/11/2024 står ikke i belægget"
+ },
+ {
+  "hvor": "lov-ligebehandlingsloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-ligebehandlingsloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-ligebehandlingsloven.identifikatorer",
+  "dom": "delvist",
+  "grund": "ELI 942 ses, men LBK-datoen 19/07/2024 står ikke i belægget"
+ },
+ {
+  "hvor": "lov-forskelsbehandlingsloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-forskelsbehandlingsloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-forskelsbehandlingsloven.identifikatorer",
+  "dom": "delvist",
+  "grund": "ELI 399 ses, men LBK-datoen 05/04/2024 står ikke i belægget"
+ },
+ {
+  "hvor": "lov-funktionaerloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-funktionaerloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-funktionaerloven.identifikatorer",
+  "dom": "delvist",
+  "grund": "ELI 1002 ses, men LBK-datoen 24/08/2017 står ikke i belægget"
+ },
+ {
+  "hvor": "lov-erhvervsuddannelser.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-erhvervsuddannelser.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-erhvervsuddannelser.identifikatorer",
+  "dom": "delvist",
+  "grund": "ELI 381 ses, men LBK-datoen 13/03/2026 står ikke i belægget"
+ },
+ {
+  "hvor": "bek-tvistighedsnaevnet.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-tvistighedsnaevnet.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-tvistighedsnaevnet.identifikatorer",
+  "dom": "delvist",
+  "grund": "ELI 1318 ses, men BEK-datoen 22/11/2023 står ikke i belægget"
+ },
+ {
+  "hvor": "dom-arbejdsretten.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "dom-arbejdsretten.dokumenttyper",
+  "dom": "delvist",
+  "grund": "Dom, grunde og endelighed bæres; § 16, stk. 3 om retsformanden står ikke i belægget"
+ },
+ {
+  "hvor": "dom-arbejdsretten.url",
+  "dom": "delvist",
+  "grund": "Belægget er en underside (arbejdsmarkedets-hus), ikke den påståede forside-url"
+ },
+ {
+  "hvor": "org-faglige-voldgiftsretter.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "org-faglige-voldgiftsretter.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "org-faglige-voldgiftsretter.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "org-afskedigelsesnaevnet.hjemmel",
+  "dom": "delvist",
+  "grund": "Klage til Afskedigelsesnævn ses i litra e; § 4, stk. 3 og nu FH står ikke i belægget"
+ },
+ {
+  "hvor": "org-afskedigelsesnaevnet.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "org-afskedigelsesnaevnet.url",
+  "dom": "delvist",
+  "grund": "Belægget er én kendelse-PDF, ikke adressen /afgoerelser"
+ },
+ {
+  "hvor": "org-afskedigelsesnaevnet.identifikatorer",
+  "dom": "delvist",
+  "grund": "Formen ÅÅÅÅNNNN er udledt af ét eksempel (20201111)"
+ },
+ {
+  "hvor": "sty-forligsinstitutionen.hjemmel",
+  "dom": "delvist",
+  "grund": "§ 1 om forligsmænd bæres, men belægget nævner ikke Forligsinstitutionen"
+ },
+ {
+  "hvor": "sty-forligsinstitutionen.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "sty-forligsinstitutionen.url",
+  "dom": "delvist",
+  "grund": "Belægget er undersiden om-forligsinstitutionen, ikke forsiden"
+ },
+ {
+  "hvor": "naevn-ligebehandlingsnaevnet.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "naevn-ligebehandlingsnaevnet.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "naevn-ligebehandlingsnaevnet.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "naevn-tvistighedsnaevnet.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "naevn-tvistighedsnaevnet.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "naevn-tvistighedsnaevnet.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-arbejdsretten-afgoerelser.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-arbejdsretten-afgoerelser.url",
+  "dom": "delvist",
+  "grund": "Belægget er forsiden, ikke /afgoerelser; adressen ses ikke"
+ },
+ {
+  "hvor": "kilde-arbejdsretten-afgoerelser.adgang",
+  "dom": "delvist",
+  "grund": "PDF pr. afgørelse ses; facetter, ingen API og HTML-adgang står ikke i belægget"
+ },
+ {
+  "hvor": "kilde-arbejdsretten-afgoerelser.identifikatorer",
+  "dom": "delvist",
+  "grund": "FV2025-1608 har fire cifre, ikke NNN; Afskedigelsesnævn-formen udledt af ét eksempel"
+ },
+ {
+  "hvor": "kilde-arbejdsretten-afgoerelser.opdatering",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-ligebehandlingsnaevnet-afgoerelser.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-ligebehandlingsnaevnet-afgoerelser.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-ligebehandlingsnaevnet-afgoerelser.adgang",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-ligebehandlingsnaevnet-afgoerelser.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-ligebehandlingsnaevnet-afgoerelser.opdatering",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-tvistighedsnaevnet-kendelser.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-tvistighedsnaevnet-kendelser.url",
+  "dom": "delvist",
+  "grund": "Belægget er en kendelse-PDF under /media/documents, ikke portalens rod"
+ },
+ {
+  "hvor": "kilde-tvistighedsnaevnet-kendelser.adgang",
+  "dom": "delvist",
+  "grund": "PDF under /media/documents ses; Angular-portal og link fra Nævnenes Hus står ikke i belægget"
+ },
+ {
+  "hvor": "kilde-tvistighedsnaevnet-kendelser.identifikatorer",
+  "dom": "delvist",
+  "grund": "Sagsnummer 36.2024 ses; formen NN.ÅÅÅÅ og løbenummer.år udledt af ét eksempel"
+ },
+ {
+  "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|lov-arbejdsretsloven",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|lov-forligsmandsloven",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|lov-ligebehandlingsnaevnet",
+  "dom": "delvist",
+  "grund": "Lovteksten viser intet ministeriefelt; ressortansvar står ikke i belægget"
+ },
+ {
+  "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|lov-ligebehandlingsloven",
+  "dom": "delvist",
+  "grund": "Lovteksten viser intet ministeriefelt; ressortansvar står ikke i belægget"
+ },
+ {
+  "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|lov-forskelsbehandlingsloven",
+  "dom": "delvist",
+  "grund": "Lovteksten viser intet ministeriefelt; ressortansvar står ikke i belægget"
+ },
+ {
+  "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|lov-funktionaerloven",
+  "dom": "delvist",
+  "grund": "Lovteksten viser intet ministeriefelt; ressortansvar står ikke i belægget"
+ },
+ {
+  "hvor": "kant min-undervisning|ressortansvar|lov-erhvervsuddannelser",
+  "dom": "delvist",
+  "grund": "Ministeriefeltet siger Børne- og Undervisningsministeriet; omdøbning til min-undervisning står ikke i belægget"
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|bek-tvistighedsnaevnet",
+  "dom": "delvist",
+  "grund": "Orkestrator: kontrollanten afviste kanttypen, men registry bruger ressortansvar til bekendtgørelser (44 kanter i forvejen); belægget viser ikke ministeriet, så kanten er højst sandsynlig."
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|naevn-tvistighedsnaevnet",
+  "dom": "delvist",
+  "grund": "Nedsat af erhvervsministeren ses; § 64 og placering i Nævnenes Hus står ikke i belægget"
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|kilde-tvistighedsnaevnet-kendelser",
+  "dom": "baerer-ikke",
+  "grund": "Belægget handler om nævnet, ikke portalens drift; ressortansvar må ikke gå til dokumentkilde"
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|naevn-ligebehandlingsnaevnet",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|kilde-ligebehandlingsnaevnet-afgoerelser",
+  "dom": "baerer-ikke",
+  "grund": "Ankestyrelsen ses som sekretariat, ikke Socialministeriets ansvar; ressortansvar må ikke gå til dokumentkilde"
+ },
+ {
+  "hvor": "kant lov-arbejdsretsloven|hjemmel_for|dom-arbejdsretten",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-arbejdsretsloven|hjemmel_for|org-faglige-voldgiftsretter",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-arbejdsretsloven|hjemmel_for|org-afskedigelsesnaevnet",
+  "dom": "delvist",
+  "grund": "§ 34 regulerer fuldbyrdelse af nævnets afgørelser, ikke nævnets hjemmel"
+ },
+ {
+  "hvor": "kant lov-forligsmandsloven|hjemmel_for|sty-forligsinstitutionen",
+  "dom": "delvist",
+  "grund": "§ 1 om forligsmænd bæres, men belægget nævner ikke Forligsinstitutionen"
+ },
+ {
+  "hvor": "kant lov-ligebehandlingsnaevnet|hjemmel_for|naevn-ligebehandlingsnaevnet",
+  "dom": "delvist",
+  "grund": "Kompetence i § 1 bæres; § 5 og § 9 står ikke i dette belæg"
+ },
+ {
+  "hvor": "kant lov-erhvervsuddannelser|hjemmel_for|naevn-tvistighedsnaevnet",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-erhvervsuddannelser|hjemmel_for|bek-tvistighedsnaevnet",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant bek-tvistighedsnaevnet|hjemmel_for|naevn-tvistighedsnaevnet",
+  "dom": "delvist",
+  "grund": "§ 1 bæres; § 6 og § 7 står ikke i belægget"
+ },
+ {
+  "hvor": "kant lov-ligebehandlingsnaevnet|henviser_til|lov-ligebehandlingsloven",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-ligebehandlingsnaevnet|henviser_til|lov-forskelsbehandlingsloven",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant dom-arbejdsretten|udsteder|kilde-arbejdsretten-afgoerelser",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant org-faglige-voldgiftsretter|udsteder|kilde-arbejdsretten-afgoerelser",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant org-afskedigelsesnaevnet|udsteder|kilde-arbejdsretten-afgoerelser",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant naevn-ligebehandlingsnaevnet|udsteder|kilde-ligebehandlingsnaevnet-afgoerelser",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant naevn-ligebehandlingsnaevnet|udsteder|kilde-retsinformation",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant naevn-tvistighedsnaevnet|udsteder|kilde-tvistighedsnaevnet-kendelser",
+  "dom": "baerer",
+  "grund": ""
+ }
+]

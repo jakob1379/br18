@@ -1,0 +1,537 @@
+[
+ {
+  "hvor": "sty-soefartsstyrelsen.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "sty-soefartsstyrelsen.dokumenttyper",
+  "dom": "delvist",
+  "grund": "Bekendtgørelse og cirkulær belægges; afgørelse-typen, bindende-status og påklagelse efter BEK 261/2020 § 7 fremgår ikke."
+ },
+ {
+  "hvor": "sty-soefartsstyrelsen.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "naevn-ankenaevnet-for-soefartsforhold.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "naevn-ankenaevnet-for-soefartsforhold.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "naevn-ankenaevnet-for-soefartsforhold.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "raad-skibstilsynsraadet.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "raad-skibstilsynsraadet.dokumenttyper",
+  "dom": "delvist",
+  "grund": "Rådgivning og forslag belægges; at rådet ikke træffer afgørelser i enkeltsager og er vejledende fremgår ikke."
+ },
+ {
+  "hvor": "sty-den-maritime-havarikommission.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "sty-den-maritime-havarikommission.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "sty-den-maritime-havarikommission.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-dmaib-rapporter.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-dmaib-rapporter.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-dmaib-rapporter.adgang",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-dmaib-rapporter.opdatering",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-soefartsstyrelsen-regler.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-soefartsstyrelsen-regler.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-soefartsstyrelsen-regler.adgang",
+  "dom": "delvist",
+  "grund": "Søgbar liste belægges; at siden peger videre til Retsinformation som autoritativ kilde fremgår ikke af belægget."
+ },
+ {
+  "hvor": "kilde-soefartsstyrelsen-regler.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-soefartsstyrelsen-regler.opdatering",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-meddelelser-fra-soefartsstyrelsen.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-meddelelser-fra-soefartsstyrelsen.url",
+  "dom": "delvist",
+  "grund": "URL peger på én bekendtgørelse (B-serien), ikke på kilden som helhed; A, E og F dækkes ikke af belægget."
+ },
+ {
+  "hvor": "kilde-meddelelser-fra-soefartsstyrelsen.adgang",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-meddelelser-fra-soefartsstyrelsen.identifikatorer",
+  "dom": "delvist",
+  "grund": "Belægget viser serie E og ældre Skibstilsynets Meddelelser C; serierne A, B og F vises ikke."
+ },
+ {
+  "hvor": "bek-meddelelser-a.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-meddelelser-a.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-meddelelser-a.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-meddelelser-b.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-meddelelser-b.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-meddelelser-b.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-meddelelser-e.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-meddelelser-e.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-meddelelser-e.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-meddelelser-f.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-meddelelser-f.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-meddelelser-f.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-ankenaevn-soefartsforhold-forretningsorden.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-ankenaevn-soefartsforhold-forretningsorden.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-ankenaevn-soefartsforhold-forretningsorden.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-skibstilsynsraadet-forretningsorden.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-skibstilsynsraadet-forretningsorden.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-skibstilsynsraadet-forretningsorden.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-soefartsstyrelsen-henlaeggelse.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-soefartsstyrelsen-henlaeggelse.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-soefartsstyrelsen-henlaeggelse.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-sikkerhed-til-soes.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-sikkerhed-til-soes.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-sikkerhed-til-soes.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-soeloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-soeloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-soeloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-skibes-besaetning.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-skibes-besaetning.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-skibes-besaetning.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-soefarendes-ansaettelsesforhold.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-soefarendes-ansaettelsesforhold.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-soefarendes-ansaettelsesforhold.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-lodsloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-lodsloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-lodsloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-dis-loven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-dis-loven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-dis-loven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-sikkerhedsundersoegelse-soeulykker.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-sikkerhedsundersoegelse-soeulykker.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-sikkerhedsundersoegelse-soeulykker.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|bek-meddelelser-a",
+  "dom": "delvist",
+  "grund": "Orkestrator: kontrollanten afviste kanttypen, men registry bruger ressortansvar til bekendtgørelser (44 kanter i forvejen); belægget viser ikke ministeriet, så kanten er højst sandsynlig."
+ },
+ {
+  "hvor": "kant lov-sikkerhed-til-soes|hjemmel_for|bek-meddelelser-a",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant sty-soefartsstyrelsen|udsteder|bek-meddelelser-a",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|bek-meddelelser-b",
+  "dom": "delvist",
+  "grund": "Orkestrator: kontrollanten afviste kanttypen, men registry bruger ressortansvar til bekendtgørelser (44 kanter i forvejen); belægget viser ikke ministeriet, så kanten er højst sandsynlig."
+ },
+ {
+  "hvor": "kant lov-sikkerhed-til-soes|hjemmel_for|bek-meddelelser-b",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant sty-soefartsstyrelsen|udsteder|bek-meddelelser-b",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|bek-meddelelser-e",
+  "dom": "delvist",
+  "grund": "Orkestrator: kontrollanten afviste kanttypen, men registry bruger ressortansvar til bekendtgørelser (44 kanter i forvejen); belægget viser ikke ministeriet, så kanten er højst sandsynlig."
+ },
+ {
+  "hvor": "kant lov-sikkerhed-til-soes|hjemmel_for|bek-meddelelser-e",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant sty-soefartsstyrelsen|udsteder|bek-meddelelser-e",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|bek-meddelelser-f",
+  "dom": "delvist",
+  "grund": "Orkestrator: kontrollanten afviste kanttypen, men registry bruger ressortansvar til bekendtgørelser (44 kanter i forvejen); belægget viser ikke ministeriet, så kanten er højst sandsynlig."
+ },
+ {
+  "hvor": "kant lov-sikkerhed-til-soes|hjemmel_for|bek-meddelelser-f",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant sty-soefartsstyrelsen|udsteder|bek-meddelelser-f",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|sty-soefartsstyrelsen",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|naevn-ankenaevnet-for-soefartsforhold",
+  "dom": "delvist",
+  "grund": "Belægget er lovteksten fra 2022, som siger \"Erhvervsministeren nedsætter\"; det viser ikke ressortforholdet i dag."
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|raad-skibstilsynsraadet",
+  "dom": "delvist",
+  "grund": "Belægget er lovteksten fra 2022, som siger \"Erhvervsministeren nedsætter\"; det viser ikke ressortforholdet i dag."
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|sty-den-maritime-havarikommission",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|bek-ankenaevn-soefartsforhold-forretningsorden",
+  "dom": "delvist",
+  "grund": "Orkestrator: kontrollanten afviste kanttypen, men registry bruger ressortansvar til bekendtgørelser (44 kanter i forvejen); belægget viser ikke ministeriet, så kanten er højst sandsynlig."
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|bek-skibstilsynsraadet-forretningsorden",
+  "dom": "delvist",
+  "grund": "Orkestrator: kontrollanten afviste kanttypen, men registry bruger ressortansvar til bekendtgørelser (44 kanter i forvejen); belægget viser ikke ministeriet, så kanten er højst sandsynlig."
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-sikkerhed-til-soes",
+  "dom": "delvist",
+  "grund": "Ministeriefeltet fremgår ikke af den afkortede kontekst; kun titlen og ELI-id er synlige."
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-soeloven",
+  "dom": "delvist",
+  "grund": "Ministeriefeltet fremgår ikke af den afkortede kontekst; kun titlen og ELI-id er synlige."
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-skibes-besaetning",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-soefarendes-ansaettelsesforhold",
+  "dom": "delvist",
+  "grund": "Ministeriefeltet fremgår ikke af den afkortede kontekst; kun titlen og ELI-id er synlige."
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-dis-loven",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-sikkerhedsundersoegelse-soeulykker",
+  "dom": "delvist",
+  "grund": "Ministeriefeltet fremgår ikke af den afkortede kontekst; kun titlen og ELI-id er synlige."
+ },
+ {
+  "hvor": "kant min-samfundssikkerhed-og-beredskab|ressortansvar|lov-lodsloven",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-samfundssikkerhed-og-beredskab|ressortansvar|bek-soefartsstyrelsen-henlaeggelse",
+  "dom": "delvist",
+  "grund": "Orkestrator: kontrollanten afviste kanttypen, men registry bruger ressortansvar til bekendtgørelser (44 kanter i forvejen); belægget viser ikke ministeriet, så kanten er højst sandsynlig."
+ },
+ {
+  "hvor": "kant lov-sikkerhed-til-soes|hjemmel_for|sty-soefartsstyrelsen",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-sikkerhed-til-soes|hjemmel_for|naevn-ankenaevnet-for-soefartsforhold",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-sikkerhed-til-soes|hjemmel_for|raad-skibstilsynsraadet",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-sikkerhed-til-soes|hjemmel_for|bek-ankenaevn-soefartsforhold-forretningsorden",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-sikkerhed-til-soes|hjemmel_for|bek-skibstilsynsraadet-forretningsorden",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-sikkerhedsundersoegelse-soeulykker|hjemmel_for|sty-den-maritime-havarikommission",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-lodsloven|hjemmel_for|sty-soefartsstyrelsen",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-sikkerhed-til-soes|hjemmel_for|bek-soefartsstyrelsen-henlaeggelse",
+  "dom": "delvist",
+  "grund": "§ 17 stk. 9 belægges; § 21 stk. 2 fremgår ikke, og henlæggelsen står i § 17 stk. 8."
+ },
+ {
+  "hvor": "kant bek-soefartsstyrelsen-henlaeggelse|hjemmel_for|naevn-ankenaevnet-for-soefartsforhold",
+  "dom": "delvist",
+  "grund": "§ 7 stk. 2 belægges; stk. 6 og 4-ugers-fristen fremgår ikke af belægget."
+ },
+ {
+  "hvor": "kant min-erhverv|delegation|sty-soefartsstyrelsen",
+  "dom": "delvist",
+  "grund": "BEK 261 henlægger beføjelser til Søfartsstyrelsen, men ikke at erhvervsministeriet delegerer; BEK 261s ministeriefelt er Samfundssikkerhed og Beredskab."
+ },
+ {
+  "hvor": "kant naevn-ankenaevnet-for-soefartsforhold|klageinstans|sty-soefartsstyrelsen",
+  "dom": "delvist",
+  "grund": "Kernen belægges (§ 7 stk. 2), men stk. 6, 4-ugers- og 8-ugers-fristerne fremgår ikke af belægget."
+ },
+ {
+  "hvor": "kant dom-domstolene|klageinstans|naevn-ankenaevnet-for-soefartsforhold",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant sty-soefartsstyrelsen|udsteder|kilde-soefartsstyrelsen-regler",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant sty-soefartsstyrelsen|udsteder|kilde-meddelelser-fra-soefartsstyrelsen",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant sty-den-maritime-havarikommission|udsteder|kilde-dmaib-rapporter",
+  "dom": "baerer",
+  "grund": ""
+ }
+]

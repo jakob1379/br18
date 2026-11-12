@@ -1,0 +1,1439 @@
+{
+  "omraade": "strafferet-politi",
+  "noder": [
+    {
+      "id": "sty-rigspolitiet",
+      "navn": "Rigspolitiet",
+      "type": "styrelse",
+      "ministerium": "min-justits",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Retsplejelovens § 108-109: justitsministeren udøver sin beføjelse som politiets øverste foresatte gennem rigspolitichefen; rigspolitichefen har ansvar for politiets virksomhed i hele landet, fører tilsyn med politidirektørerne og behandler klager over politidirektørernes afgørelser (endeligt).",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+            "citat": "Justitsministeren er politiets øverste foresatte og udøver sin beføjelse gennem rigspolitichefen og politidirektørerne."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+            "citat": "Rigspolitichefen har ansvar for politiets virksomhed i hele landet. Rigspolitichefen fører tilsyn med politidirektørerne. Stk. 2. Rigspolitichefens afgørelser i klagesager over afgørelser truffet af politidirektørerne kan ikke påklages til justitsministeren."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://politi.dk/rigspolitiet",
+        "belaeg": [
+          {
+            "url": "https://politi.dk/rigspolitiet",
+            "citat": "Rigspolitiet er politiets øverste myndighed, der understøtter politikredsenes arbejde og koordinerer politiets indsats på landsplan."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse (klagesag over politikredsenes forvaltningsafgørelser)",
+            "bindende": "bindende",
+            "note": "endelig; kan ikke påklages til justitsministeren"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+            "citat": "Rigspolitichefen har ansvar for politiets virksomhed i hele landet. Rigspolitichefen fører tilsyn med politidirektørerne. Stk. 2. Rigspolitichefens afgørelser i klagesager over afgørelser truffet af politidirektørerne kan ikke påklages til justitsministeren."
+          }
+        ]
+      },
+      "note": "Politiets centrale myndighed. Klagevejen for politikredsenes forvaltningsafgørelser er Rigspolitichefen (rpl. § 109, stk. 2), medmindre justitsministeren efter stk. 4 har bestemt, at bestemte afgørelser ikke kan påklages. Tilladelser (våben, vagtvirksomhed, fyrværkeri) og deres klageveje er ikke kortlagt her, se huller.",
+      "krydsref_moenstre": [
+        "Rigspolitiets afgørelse af [dato]",
+        "rigspolitichefens afgørelse"
+      ]
+    },
+    {
+      "id": "sty-politikredsene",
+      "navn": "Politikredsene (politidirektørerne)",
+      "type": "styrelse",
+      "ministerium": "min-justits",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Retsplejelovens § 110: landet inddeles i 12 politikredse, hver ledet af en politidirektør; politidirektørerne er offentlige anklagere (§ 95) og udøver politiets beføjelser under rigspolitichefen (§ 108).",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+            "citat": "Landet inddeles i 12 politikredse."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+            "citat": "De offentlige anklagere er rigsadvokaten, statsadvokaterne, politidirektørerne samt de personer, der er antaget til bistand for disse ved den retlige behandling af straffesager."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.politi.dk/",
+        "belaeg": [
+          {
+            "url": "https://www.politi.dk/",
+            "citat": "Rigsfællesskabet består af i alt 15 politikredse. Danmark er delt op i 12 geografiske politikredse, mens Færøernes Politi og Grønlands Politi hver udgør en politikreds."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse (forvaltning og påtale i 1. instans)",
+            "bindende": "bindende",
+            "note": "klage over forvaltningsafgørelser til Rigspolitiet (§ 109, stk. 2); klage over strafforfølgningsafgørelser til statsadvokaten (§ 101, stk. 2)"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+            "citat": "Statsadvokaterne fører tilsyn med politidirektørernes behandling af straffesager og behandler klager over afgørelser truffet af politidirektørerne vedrørende strafforfølgning. Statsadvokaternes afgørelser i klagesager kan ikke påklages til rigsadvokaten og justitsministeren."
+          }
+        ]
+      },
+      "note": "Én samlet node for de 12 geografiske politikredse (politidirektør i hver). Den 15. politikreds, National enhed for Særlig Kriminalitet, samt Færøernes og Grønlands Politi er ikke modelleret særskilt. Efterretningstjenesterne er uden for området.",
+      "krydsref_moenstre": [
+        "[kreds] Politi",
+        "politidirektørens afgørelse"
+      ]
+    },
+    {
+      "id": "sty-statsadvokaterne",
+      "navn": "Statsadvokaterne",
+      "type": "styrelse",
+      "ministerium": "min-justits",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Retsplejelovens § 101, stk. 2: statsadvokaterne fører tilsyn med politidirektørernes behandling af straffesager og behandler klager over politidirektørernes afgørelser om strafforfølgning; deres klageafgørelser kan ikke påklages videre. Klagefrist 4 uger (§ 102). Påtaleopgivelse kan påklages til den overordnede anklagemyndighed (§ 724).",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+            "citat": "Statsadvokaterne fører tilsyn med politidirektørernes behandling af straffesager og behandler klager over afgørelser truffet af politidirektørerne vedrørende strafforfølgning. Statsadvokaternes afgørelser i klagesager kan ikke påklages til rigsadvokaten og justitsministeren."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+            "citat": "Fristen for klager efter § 98, stk. 4, § 99, stk. 3, 1. pkt., og § 101, stk. 2, 1. pkt., er 4 uger efter, at klageren har fået meddelelse om afgørelsen."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+            "citat": "En afgørelse om påtaleopgivelse kan påklages til den overordnede anklagemyndighed efter reglerne i kapitel 10. Sigtede kan efter samme regler klage over en afgørelse om tiltalefrafald."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://anklagemyndigheden.dk/",
+        "belaeg": [
+          {
+            "url": "https://anklagemyndigheden.dk/",
+            "citat": "Fyn og Jylland Statsadvokaterne Bornholm og Sjælland Rigsadvokaten Færøerne og Grønland"
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse (klagesag om påtale og strafforfølgning)",
+            "bindende": "bindende",
+            "note": "endelig administrativt; kan ikke påklages til rigsadvokaten og justitsministeren"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+            "citat": "Statsadvokaterne fører tilsyn med politidirektørernes behandling af straffesager og behandler klager over afgørelser truffet af politidirektørerne vedrørende strafforfølgning. Statsadvokaternes afgørelser i klagesager kan ikke påklages til rigsadvokaten og justitsministeren."
+          }
+        ]
+      },
+      "note": "Regionale statsadvokater under Rigsadvokaten; modelleret som én node. Justitsministeren er overordnet de offentlige anklagere (§ 98).",
+      "krydsref_moenstre": [
+        "Statsadvokatens afgørelse af [dato]",
+        "retsplejelovens § 101, stk. 2"
+      ]
+    },
+    {
+      "id": "sty-politiklagemyndigheden",
+      "navn": "Den Uafhængige Politiklagemyndighed (Politiklagemyndigheden)",
+      "type": "styrelse",
+      "ministerium": "min-justits",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Retsplejelovens kapitel 11 a (§ 118) og 93 b-c (§ 1019-1020 m.fl.): selvstændig myndighed, der behandler adfærdsklager over politi- og anklagemyndighedspersonale og efterforsker straffesager mod dem; afgørelsen i klagesagen kan ikke indbringes for anden administrativ myndighed.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+            "citat": "Den Uafhængige Politiklagemyndighed (Politiklagemyndigheden) er en selvstændig myndighed, der ledes af Politiklagerådet og en direktør. Stk. 2. Politiklagemyndigheden behandler klager over politiet, jf. kapitel 93 b, og efterforsker straffesager mod politipersonale, jf. kapitel 93 c."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+            "citat": "Politiklagemyndigheden udøver sine funktioner i fuld uafhængighed."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+            "citat": "Den Uafhængige Politiklagemyndighed undersøger og træffer afgørelse vedrørende klager over politipersonale eller andet personale i politiet og anklagemyndigheden, som varetager politimæssige opgaver eller opgaver, der relaterer sig til retshåndhævelse og strafforfølgning, når klagen angår adfærd udvist i tjenesten (adfærdsklager)."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+            "citat": "Politiklagemyndigheden træffer afgørelse i klagesagen. Afgørelsen kan ikke indbringes for anden administrativ myndighed."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+            "citat": "Anmeldelser om strafbare forhold begået i tjenesten af politipersonale eller andet personale i politiet og anklagemyndigheden, som varetager politimæssige opgaver eller opgaver, der relaterer sig til retshåndhævelse og strafforfølgning, indgives til Den Uafhængige Politiklagemyndighed."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://politiklagemyndigheden.dk/",
+        "belaeg": [
+          {
+            "url": "https://politiklagemyndigheden.dk/",
+            "citat": "Politiklagemyndigheden er en uafhængig myndighed, der behandler adfærdsklager og efterforsker straffesager vedrørende politipersonale og personale i anklagemyndigheden."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse i adfærdsklagesag",
+            "bindende": "bindende",
+            "note": "endelig administrativt (§ 1019 m)"
+          },
+          {
+            "type": "årsberetning og årsrapport",
+            "bindende": "vejledende",
+            "note": "offentliggøres på myndighedens hjemmeside"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://politiklagemyndigheden.dk/aarsberetning-og-statistik/",
+            "citat": "Politiklagemyndigheden udgiver hvert år en årsberetning. Årsberetningerne indeholder forskellige artikler om Politiklagemyndigheden og vores sagsbehandling, statistiske oplysninger og korte beskrivelser af udvalgte konkrete sager."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+            "citat": "Politiklagemyndigheden træffer afgørelse i klagesagen. Afgørelsen kan ikke indbringes for anden administrativ myndighed."
+          }
+        ]
+      },
+      "note": "Retsplejelovens kapitel 93 d er ophævet, selvom brief og tidligere spor nævner 93 b-d; opgaverne ligger i 93 b (adfærdsklager) og 93 c (straffesager). Ledes af Politiklagerådet og en direktør (§ 118). Ministerium: justitsministeren udnævner direktøren; myndigheden er selvstændig. Deler hus og ledelse med Bevismiddeltilsynet (§ 118 a), der ikke er oprettet som egen node."
+    },
+    {
+      "id": "sty-danmarks-faengsler",
+      "navn": "Danmarks Fængsler (Styrelsen for Danmarks Fængsler)",
+      "type": "direktorat",
+      "ministerium": "min-justits",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Straffuldbyrdelseslovens § 2 og § 111-112: Kriminalforsorgens direktorat kan overtage et kriminalforsorgsområdes beføjelser; kriminalforsorgens afgørelser kan ikke påklages til højere administrativ myndighed, medmindre justitsministeren har fastsat klage til direktoratet (§ 111, stk. 3); udvalgte endelige afgørelser kan kræves indbragt for retten inden 4 uger (§ 112).",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/201",
+            "citat": "Direktoratet for Kriminalforsorgen kan tilsvarende i sager af større eller principiel betydning beslutte at overtage et kriminalforsorgsområdes beføjelser efter loven."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/201",
+            "citat": "Afgørelser, der træffes af en myndighed inden for kriminalforsorgen, kan ikke påklages til højere administrativ myndighed, jf. dog stk. 3."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/201",
+            "citat": "Justitsministeren kan fastsætte regler om, at afgørelser, der er truffet af kriminalforsorgsområderne, jf. stk. 1, eller af andre myndigheder end kriminalforsorgens myndigheder, jf. stk. 2, kan påklages til Direktoratet for Kriminalforsorgen."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/201",
+            "citat": "Endelige administrative afgørelser kan inden 4 uger efter, at afgørelsen er meddelt den dømte, af denne kræves indbragt til prøvelse for retten, hvis der er tale om"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://xn--danmarksfngsler-5lb.dk/",
+        "belaeg": [
+          {
+            "url": "https://xn--danmarksfngsler-5lb.dk/om-os/",
+            "citat": "Danmarks Fængsler hører under Justitsministeriet og består af Styrelsen for Danmarks Fængsler, Fængselskreds Vest og Fængselskreds Øst med underliggende fængsler, arrester og tilsyn samt Grønlands Fængsler."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse (fuldbyrdelse af straf, disciplinærstraf, klagesager)",
+            "bindende": "bindende",
+            "note": "endelig administrativt; domstolsprøvelse for de i § 112 opregnede afgørelser"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/201",
+            "citat": "Afgørelser, der træffes af en myndighed inden for kriminalforsorgen, kan ikke påklages til højere administrativ myndighed, jf. dog stk. 3."
+          }
+        ]
+      },
+      "note": "Kriminalforsorgen skiftede navn til Danmarks Fængsler i efteråret 2025 (lex.dk: 1. november 2025). Straffuldbyrdelsesloven (LBK 201/2023) bruger stadig 'Direktoratet for Kriminalforsorgen'; direktoratet hedder i dag Styrelsen for Danmarks Fængsler (bekendtgørelsesmetadata fra 2024). Klage til direktoratet sker efter justitsministerens bekendtgørelser (ikke fuldt kortlagt, se huller).",
+      "tidligere_navne": [
+        {
+          "navn": "Kriminalforsorgen (Direktoratet for Kriminalforsorgen)",
+          "periode": "–efteråret 2025",
+          "belaeg": [
+            {
+              "url": "https://www.altinget.dk/artikel/kriminalforsorgen-skifter-navn",
+              "citat": "I efteråret 2025 skifter Kriminalforsorgen, der driver landets fængsler og arresthuse, navn til Danmarks Fængsler."
+            }
+          ]
+        }
+      ],
+      "krydsref_moenstre": [
+        "Direktoratet for Kriminalforsorgen",
+        "Kriminalforsorgens afgørelse",
+        "straffuldbyrdelseslovens § 112"
+      ]
+    },
+    {
+      "id": "naevn-erstatningsnaevnet",
+      "navn": "Erstatningsnævnet",
+      "type": "nævn",
+      "ministerium": "min-justits",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Offererstatningslovens § 11: afgørelse om erstatning træffes af et nævn nedsat af justitsministeren; § 16: nævnet har den endelige administrative afgørelse.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1400",
+            "citat": "Afgørelse om erstatning træffes af et nævn, der nedsættes af justitsministeren."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1400",
+            "citat": "Nævnet har den endelige administrative afgørelse af de sager, der indbringes for nævnet."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.civilstyrelsen.dk/",
+        "belaeg": [
+          {
+            "url": "https://www.civilstyrelsen.dk/",
+            "citat": "Erstatningsnævnet vil fra 2026 løbende offentliggøre resuméer af konkrete afgørelser, der belyser nævnets praksis på offererstatningsområdet"
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse om offererstatning og godtgørelse",
+            "bindende": "bindende",
+            "note": "endelig administrativt (§ 16)"
+          },
+          {
+            "type": "resuméer af konkrete afgørelser",
+            "bindende": "vejledende",
+            "note": "offentliggøres løbende fra 2026"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1400",
+            "citat": "Nævnet har den endelige administrative afgørelse af de sager, der indbringes for nævnet."
+          },
+          {
+            "url": "https://www.civilstyrelsen.dk/",
+            "citat": "Erstatningsnævnet vil fra 2026 løbende offentliggøre resuméer af konkrete afgørelser, der belyser nævnets praksis på offererstatningsområdet"
+          }
+        ]
+      },
+      "note": "Sekretariatet ligger i Civilstyrelsen (sty-civilstyrelsen), der også udbetaler erstatningen. Formand og næstformænd skal være landsdommere (§ 11, stk. 2). Domstolsprøvelse af nævnets afgørelser er ikke belagt, se huller."
+    },
+    {
+      "id": "naevn-ungdomskriminalitetsnaevnet",
+      "navn": "Ungdomskriminalitetsnævnet",
+      "type": "nævn",
+      "ministerium": "min-justits",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Lov om bekæmpelse af ungdomskriminalitet § 3 (sammensætning, nævn i hver politikreds), § 12-13 (straksreaktion, forbedringsforløb) og § 55-56 (klage til Ankestyrelsen for visse afgørelser, derefter retten).",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2018/1705",
+            "citat": "Ungdomskriminalitetsnævnet består af 1 formand og et antal næstformænd (formandskabet) og andre medlemmer."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2018/1705",
+            "citat": "Ungdomskriminalitetsnævnets medlemmer er uafhængige og kan ikke modtage eller søge instruktion fra den beskikkende eller indstillende myndighed eller organisation."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2018/1705",
+            "citat": "Ungdomskriminalitetsnævnet kan pålægge barnet eller den unge en straksreaktion"
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2018/1705",
+            "citat": "Ungdomskriminalitetsnævnet kan fastsætte et forbedringsforløb i form af"
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse (straksreaktion, forbedringsforløb, anbringelse m.v.)",
+            "bindende": "bindende",
+            "note": "kan ikke indbringes for anden administrativ myndighed, dog visse afgørelser til Ankestyrelsen inden 4 uger (§ 55)"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2018/1705",
+            "citat": "Ungdomskriminalitetsnævnet kan pålægge barnet eller den unge en straksreaktion"
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2018/1705",
+            "citat": "Ungdomskriminalitetsnævnet kan fastsætte et forbedringsforløb i form af"
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2018/1705",
+            "citat": "Ungdomskriminalitetsnævnets afgørelser kan ikke indbringes for anden administrativ myndighed, jf. dog stk. 2."
+          }
+        ]
+      },
+      "note": "Uafhængige medlemmer; formand og næstformænd er dommere, øvrige medlemmer fra politi og kommuner (§ 3). Ministerium sat til Justitsministeriet fordi loven hører dér; sekretariatet har været forankret i politiet og er ifølge nævnets årsberetning 2022 flyttet 1/1/2023 (ikke efterprøvet). Hjemmesiden ungdomskriminalitetsnaevnet.dk er ikke åbnet af værktøjet."
+    },
+    {
+      "id": "lov-straffeloven",
+      "navn": "Straffeloven",
+      "type": "lov",
+      "ministerium": "min-justits",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1294",
+            "citat": "Bekendtgørelse af straffeloven"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2025/1294",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1294",
+            "citat": "Bekendtgørelse af straffeloven"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2025/1294",
+        "lovtidende": "LBK nr. 1294 af 07/11/2025",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1294",
+            "citat": "Bekendtgørelse af straffeloven"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lov-politiloven",
+      "navn": "Lov om politiets virksomhed (politiloven)",
+      "type": "lov",
+      "ministerium": "min-justits",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/1270",
+            "citat": "Bekendtgørelse af lov om politiets virksomhed"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2019/1270",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/1270",
+            "citat": "Bekendtgørelse af lov om politiets virksomhed"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2019/1270",
+        "lovtidende": "LBK nr. 1270 af 29/11/2019",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2019/1270",
+            "citat": "Bekendtgørelse af lov om politiets virksomhed"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lov-straffuldbyrdelsesloven",
+      "navn": "Lov om fuldbyrdelse af straf m.v. (straffuldbyrdelsesloven)",
+      "type": "lov",
+      "ministerium": "min-justits",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/201",
+            "citat": "Bekendtgørelse af lov om fuldbyrdelse af straf m.v."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2023/201",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/201",
+            "citat": "Bekendtgørelse af lov om fuldbyrdelse af straf m.v."
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2023/201",
+        "lovtidende": "LBK nr. 201 af 28/02/2023",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/201",
+            "citat": "Bekendtgørelse af lov om fuldbyrdelse af straf m.v."
+          }
+        ]
+      }
+    },
+    {
+      "id": "lov-offererstatningsloven",
+      "navn": "Lov om erstatning fra staten til ofre for forbrydelser (offererstatningsloven)",
+      "type": "lov",
+      "ministerium": "min-justits",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1400",
+            "citat": "Bekendtgørelse af lov om erstatning fra staten til ofre for forbrydelser"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2025/1400",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1400",
+            "citat": "Bekendtgørelse af lov om erstatning fra staten til ofre for forbrydelser"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2025/1400",
+        "lovtidende": "LBK nr. 1400 af 26/11/2025",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1400",
+            "citat": "Bekendtgørelse af lov om erstatning fra staten til ofre for forbrydelser"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lov-ungdomskriminalitetsloven",
+      "navn": "Lov om bekæmpelse af ungdomskriminalitet",
+      "type": "lov",
+      "ministerium": "min-justits",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2018/1705",
+            "citat": "Lov om bekæmpelse af ungdomskriminalitet"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2018/1705",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2018/1705",
+            "citat": "Lov om bekæmpelse af ungdomskriminalitet"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2018/1705",
+        "lovtidende": "LOV nr. 1705 af 27/12/2018",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2018/1705",
+            "citat": "Lov om bekæmpelse af ungdomskriminalitet"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bek-erstatningsnaevnets-behandling-af-ansoegninger",
+      "navn": "Bekendtgørelse om Erstatningsnævnets behandling af ansøgninger om erstatning fra staten til ofre for forbrydelser",
+      "type": "bekendtgørelse",
+      "ministerium": "min-justits",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Offererstatningslovens § 10 a og § 11, stk. 6",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2021/772",
+            "citat": "I medfør af § 10 a og § 11, stk. 6, i lov om erstatning fra staten til ofre for forbrydelser"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2021/772",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2021/772",
+            "citat": "Bekendtgørelse om Erstatningsnævnets behandling af ansøgninger om erstatning fra staten til ofre for forbrydelser"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2021/772",
+        "lovtidende": "BEK nr. 772 af 29/04/2021",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2021/772",
+            "citat": "Bekendtgørelse om Erstatningsnævnets behandling af ansøgninger om erstatning fra staten til ofre for forbrydelser"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bek-forretningsorden-erstatningsnaevnet",
+      "navn": "Bekendtgørelse om forretningsorden for Erstatningsnævnet",
+      "type": "bekendtgørelse",
+      "ministerium": "min-justits",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Offererstatningslovens § 11, stk. 6",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2021/773",
+            "citat": "I medfør af § 11, stk. 6, i lov om erstatning fra staten til ofre for forbrydelser"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2021/773",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2021/773",
+            "citat": "Bekendtgørelse om forretningsorden for Erstatningsnævnet"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2021/773",
+        "lovtidende": "BEK nr. 773 af 29/04/2021",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2021/773",
+            "citat": "Bekendtgørelse om forretningsorden for Erstatningsnævnet"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bek-ungekriminalforsorgens-tilsyn",
+      "navn": "Bekendtgørelse om ungekriminalforsorgens tilsyn med barnets eller den unges efterlevelse af Ungdomskriminalitetsnævnets afgørelse",
+      "type": "bekendtgørelse",
+      "ministerium": "min-justits",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Lov om bekæmpelse af ungdomskriminalitet § 52",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1115",
+            "citat": "I medfør af § 52 i lov nr. 1705 af 27. december 2018 om bekæmpelse af ungdomskriminalitet fastsættes:"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2024/1115",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1115",
+            "citat": "Bekendtgørelse om ungekriminalforsorgens tilsyn med barnets eller den unges efterlevelse af Ungdomskriminalitetsnævnets afgørelse"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2024/1115",
+        "lovtidende": "BEK nr. 1115 af 28/10/2024",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1115",
+            "citat": "Bekendtgørelse om ungekriminalforsorgens tilsyn med barnets eller den unges efterlevelse af Ungdomskriminalitetsnævnets afgørelse"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bek-ungekriminalforsorgens-reaktioner",
+      "navn": "Bekendtgørelse om ungekriminalforsorgens reaktioner ved overtrædelse af Ungdomskriminalitetsnævnets afgørelse",
+      "type": "bekendtgørelse",
+      "ministerium": "min-justits",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Lov om bekæmpelse af ungdomskriminalitet § 52",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1116",
+            "citat": "I medfør af § 52 i lov nr. 1705 af 27. december 2018 om bekæmpelse af ungdomskriminalitet fastsættes:"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2024/1116",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1116",
+            "citat": "Bekendtgørelse om ungekriminalforsorgens reaktioner ved overtrædelse af Ungdomskriminalitetsnævnets afgørelse"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2024/1116",
+        "lovtidende": "BEK nr. 1116 af 28/10/2024",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1116",
+            "citat": "Bekendtgørelse om ungekriminalforsorgens reaktioner ved overtrædelse af Ungdomskriminalitetsnævnets afgørelse"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kilde-vidensbasen",
+      "navn": "Anklagemyndighedens Vidensbase",
+      "type": "dokumentkilde",
+      "ministerium": "min-justits",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://vidensbasen.anklagemyndigheden.dk/",
+        "belaeg": [
+          {
+            "url": "https://vidensbasen.anklagemyndigheden.dk/api/Portals(6e302527-f0b3-4a5e-889a-668aa67e5491)/Print/h/6dfa19d8-18cc-47d6-b4c4-3bd07bc15ec0/VB/239964d2-5b0b-46b7-9685-4919a0d428a0",
+            "citat": "Anklagemyndighedens Vidensbase kan benyttes af alle, uanset om man er logget på som bruger, og størstedelen af Vidensbasens dokumenter er derfor tilgængelige for alle."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "Rigsadvokatmeddelelsen (retningslinjer til anklagemyndigheden)",
+            "bindende": "blandet",
+            "note": "bindende internt for anklagemyndigheden, vejledende for andre"
+          },
+          {
+            "type": "udvalgte domme og kendelser (strafniveau, strafferetlig praksis)",
+            "bindende": "vejledende"
+          },
+          {
+            "type": "praksisoversigter, videnspakker og redegørelser",
+            "bindende": "vejledende"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://vidensbasen.anklagemyndigheden.dk/api/Portals(6e302527-f0b3-4a5e-889a-668aa67e5491)/Print/h/6dfa19d8-18cc-47d6-b4c4-3bd07bc15ec0/VB/239964d2-5b0b-46b7-9685-4919a0d428a0",
+            "citat": "I Vidensbasen finder du Rigsadvokatmeddelelsen, der er det samlede dokument for Rigsadvokatens retningslinjer til anklagemyndigheden."
+          },
+          {
+            "url": "https://vidensbasen.anklagemyndigheden.dk/api/Portals(6e302527-f0b3-4a5e-889a-668aa67e5491)/Print/h/6dfa19d8-18cc-47d6-b4c4-3bd07bc15ec0/VB/239964d2-5b0b-46b7-9685-4919a0d428a0",
+            "citat": "Du kan også finde udvalgte domme, kendelser og andre afgørelse på straffesagsområdet."
+          },
+          {
+            "url": "https://vidensbasen.anklagemyndigheden.dk/api/Portals(6e302527-f0b3-4a5e-889a-668aa67e5491)/Print/h/6dfa19d8-18cc-47d6-b4c4-3bd07bc15ec0/VB/239964d2-5b0b-46b7-9685-4919a0d428a0",
+            "citat": "Vidensbasen indeholder blandt andet også praksisoversigter, videnspakker og redegørelser inden for anklagemyndighedens sagsområder."
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML"
+        ],
+        "note": "Åben for alle uden login; medarbejdere i anklagemyndigheden får ved login også interne dokumenter. Søgning i portal; ingen dokumenteret API.",
+        "belaeg": [
+          {
+            "url": "https://vidensbasen.anklagemyndigheden.dk/api/Portals(6e302527-f0b3-4a5e-889a-668aa67e5491)/Print/h/6dfa19d8-18cc-47d6-b4c4-3bd07bc15ec0/VB/239964d2-5b0b-46b7-9685-4919a0d428a0",
+            "citat": "Anklagemyndighedens Vidensbase kan benyttes af alle, uanset om man er logget på som bruger, og størstedelen af Vidensbasens dokumenter er derfor tilgængelige for alle."
+          }
+        ]
+      },
+      "identifikatorer": {
+        "andet": "Rigsadvokatmeddelelsens afsnit identificeres ved titel (tidligere selvstændige meddelelser havde RM-nr.); ældre retningslinjer kan findes på RI-nr., fx RI 9-2004.",
+        "belaeg": [
+          {
+            "url": "https://vidensbasen.anklagemyndigheden.dk/api/Portals(6e302527-f0b3-4a5e-889a-668aa67e5491)/Print/h/6dfa19d8-18cc-47d6-b4c4-3bd07bc15ec0/VB/239964d2-5b0b-46b7-9685-4919a0d428a0",
+            "citat": "Tidligere var retningslinjerne beskrevet i selvstændige rigsadvokatmeddelelser, der blev identificeret ved et RM-nr."
+          },
+          {
+            "url": "https://vidensbasen.anklagemyndigheden.dk/api/Portals(6e302527-f0b3-4a5e-889a-668aa67e5491)/Print/h/6dfa19d8-18cc-47d6-b4c4-3bd07bc15ec0/VB/239964d2-5b0b-46b7-9685-4919a0d428a0",
+            "citat": "Det er stadig muligt at søge på RI-nr. ved at skrive det i søgefeltet, f.eks. RI 9-2004."
+          }
+        ]
+      },
+      "opdatering": {
+        "frekvens": "løbende",
+        "versionshistorik": "Historiske dokumenter kan vises ved at markere 'Historisk' i søgningen.",
+        "belaeg": [
+          {
+            "url": "https://vidensbasen.anklagemyndigheden.dk/api/Portals(6e302527-f0b3-4a5e-889a-668aa67e5491)/Print/h/6dfa19d8-18cc-47d6-b4c4-3bd07bc15ec0/VB/239964d2-5b0b-46b7-9685-4919a0d428a0",
+            "citat": "Rigsadvokatmeddelelsen opdateres løbende som følge af ny lovgivning, retspraksis mv."
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 5,
+        "besvaer": 5,
+        "begrundelse": "Eneste samlede kilde til Rigsadvokatens retningslinjer og udvalgte strafudmålingsafgørelser; kan hentes uden login."
+      }
+    },
+    {
+      "id": "kilde-rigsadvokatmeddelelsen",
+      "navn": "Rigsadvokatmeddelelsen (samlingen, afsnit for afsnit)",
+      "type": "praksissamling",
+      "ministerium": "min-justits",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://vidensbasen.anklagemyndigheden.dk/",
+        "belaeg": [
+          {
+            "url": "https://vidensbasen.anklagemyndigheden.dk/api/Portals(6e302527-f0b3-4a5e-889a-668aa67e5491)/Print/h/6dfa19d8-18cc-47d6-b4c4-3bd07bc15ec0/VB/239964d2-5b0b-46b7-9685-4919a0d428a0",
+            "citat": "Rigsadvokatmeddelelsen er de samlede centrale retningslinjer for anklagemyndigheden sagsbehandling."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "cirkulære (ét pr. afsnit på Retsinformation, CIR1H)",
+            "bindende": "blandet",
+            "note": "retningslinjer fra Rigsadvokaten til anklagemyndigheden"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/retsinfo/2026/9478",
+            "citat": "Rigsadvokatmeddelelsen, afsnittet: Samfundstjeneste 2026 2026-04-14"
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML",
+          "ELI"
+        ],
+        "note": "Afsnittene udkommer som cirkulærer på Retsinformation og samles i Vidensbasen (kilde-vidensbasen).",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/retsinfo/2026/9478",
+            "citat": "Rigsadvokatmeddelelsen, afsnittet: Samfundstjeneste 2026 2026-04-14"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "andet": "Hvert afsnit er et CIR1H-cirkulære på Retsinformation, fx CIR1H nr 9478 af 14/04/2026, 'Rigsadvokatmeddelelsen, afsnittet: Samfundstjeneste'.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/retsinfo/2026/9478",
+            "citat": "Rigsadvokatmeddelelsen, afsnittet: Samfundstjeneste 2026 2026-04-14"
+          }
+        ]
+      },
+      "opdatering": {
+        "frekvens": "løbende",
+        "versionshistorik": "afsnit erstattes ved nye cirkulærer; ældre versioner historiske",
+        "belaeg": [
+          {
+            "url": "https://vidensbasen.anklagemyndigheden.dk/api/Portals(6e302527-f0b3-4a5e-889a-668aa67e5491)/Print/h/6dfa19d8-18cc-47d6-b4c4-3bd07bc15ec0/VB/239964d2-5b0b-46b7-9685-4919a0d428a0",
+            "citat": "Rigsadvokatmeddelelsen opdateres løbende som følge af ny lovgivning, retspraksis mv."
+          }
+        ]
+      },
+      "note": "Samlingen er ét dokument med mange afsnit; der er bevidst ikke oprettet en node pr. afsnit (cirk-rigsadvokatmeddelelsen-arbejdsmiljoe er ét af dem)."
+    },
+    {
+      "id": "kilde-politiklagemyndigheden-udgivelser",
+      "navn": "Politiklagemyndighedens årsberetninger og årsrapporter",
+      "type": "dokumentkilde",
+      "ministerium": "min-justits",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://politiklagemyndigheden.dk/aarsberetning-og-statistik/",
+        "belaeg": [
+          {
+            "url": "https://politiklagemyndigheden.dk/aarsberetning-og-statistik/",
+            "citat": "Politiklagemyndigheden udgiver hvert år en årsberetning. Årsberetningerne indeholder forskellige artikler om Politiklagemyndigheden og vores sagsbehandling, statistiske oplysninger og korte beskrivelser af udvalgte konkrete sager."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "årsberetning (statistik og udvalgte sager)",
+            "bindende": "vejledende"
+          },
+          {
+            "type": "årsrapport (regnskab og målopfyldelse)",
+            "bindende": "vejledende"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://politiklagemyndigheden.dk/aarsberetning-og-statistik/",
+            "citat": "Politiklagemyndigheden udgiver hvert år en årsberetning. Årsberetningerne indeholder forskellige artikler om Politiklagemyndigheden og vores sagsbehandling, statistiske oplysninger og korte beskrivelser af udvalgte konkrete sager."
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML"
+        ],
+        "note": "Udgivelsesside med link til hver årgang.",
+        "belaeg": [
+          {
+            "url": "https://politiklagemyndigheden.dk/aarsberetning-og-statistik/",
+            "citat": "Politiklagemyndigheden udgiver hvert år en årsberetning. Årsberetningerne indeholder forskellige artikler om Politiklagemyndigheden og vores sagsbehandling, statistiske oplysninger og korte beskrivelser af udvalgte konkrete sager."
+          }
+        ]
+      },
+      "identifikatorer": {
+        "andet": "Pr. årgang (årsberetninger 2012-2025).",
+        "belaeg": [
+          {
+            "url": "https://politiklagemyndigheden.dk/aarsberetning-og-statistik/",
+            "citat": "2025 Tidligere årsberetninger 2024 2023 2022 2021 2020 2019 2018 2017 2016 2015 2014 2013 2012"
+          }
+        ]
+      },
+      "opdatering": {
+        "frekvens": "årlig",
+        "versionshistorik": "årsberetninger fra 2012 og frem",
+        "belaeg": [
+          {
+            "url": "https://politiklagemyndigheden.dk/aarsberetning-og-statistik/",
+            "citat": "Politiklagemyndigheden udgiver hvert år en årsberetning. Årsberetningerne indeholder forskellige artikler om Politiklagemyndigheden og vores sagsbehandling, statistiske oplysninger og korte beskrivelser af udvalgte konkrete sager."
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 3,
+        "besvaer": 3,
+        "begrundelse": "Statistik og udvalgte sager; enkeltafgørelser offentliggøres ikke her (se huller)."
+      }
+    }
+  ],
+  "kanter": [
+    {
+      "from": "min-justits",
+      "type": "ressortansvar",
+      "to": "sty-rigspolitiet",
+      "beskrivelse": "Rigspolitiet er politiets øverste myndighed under justitsministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+          "citat": "Justitsministeren er politiets øverste foresatte og udøver sin beføjelse gennem rigspolitichefen og politidirektørerne."
+        }
+      ]
+    },
+    {
+      "from": "min-justits",
+      "type": "ressortansvar",
+      "to": "sty-politikredsene",
+      "beskrivelse": "Justitsministeren er politiets øverste foresatte (rpl. § 108).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+          "citat": "Justitsministeren er politiets øverste foresatte og udøver sin beføjelse gennem rigspolitichefen og politidirektørerne."
+        }
+      ]
+    },
+    {
+      "from": "min-justits",
+      "type": "ressortansvar",
+      "to": "sty-statsadvokaterne",
+      "beskrivelse": "Justitsministeren er de offentlige anklagere overordnet (rpl. § 98).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+          "citat": "Justitsministeren er de offentlige anklagere overordnet og fører tilsyn med disse."
+        }
+      ]
+    },
+    {
+      "from": "min-justits",
+      "type": "ressortansvar",
+      "to": "sty-politiklagemyndigheden",
+      "beskrivelse": "Justitsministeren udnævner direktøren; myndigheden er selvstændig (rpl. § 118).",
+      "belaeg": [
+        {
+          "url": "https://politiklagemyndigheden.dk/",
+          "citat": "Justitsministeren har efter indstilling fra Politiklagerådet genudnævnt den nuværende direktør for Politiklagemyndigheden og Bevismiddeltilsynet, Charlotte Storgaard, i stillingen."
+        }
+      ]
+    },
+    {
+      "from": "min-justits",
+      "type": "ressortansvar",
+      "to": "sty-danmarks-faengsler",
+      "beskrivelse": "Danmarks Fængsler hører under Justitsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://xn--danmarksfngsler-5lb.dk/om-os/",
+          "citat": "Danmarks Fængsler hører under Justitsministeriet og består af Styrelsen for Danmarks Fængsler, Fængselskreds Vest og Fængselskreds Øst med underliggende fængsler, arrester og tilsyn samt Grønlands Fængsler."
+        }
+      ]
+    },
+    {
+      "from": "min-justits",
+      "type": "ressortansvar",
+      "to": "naevn-erstatningsnaevnet",
+      "beskrivelse": "Nævnet nedsættes af justitsministeren (offererstatningsloven § 11).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1400",
+          "citat": "Afgørelse om erstatning træffes af et nævn, der nedsættes af justitsministeren."
+        }
+      ]
+    },
+    {
+      "from": "min-justits",
+      "type": "ressortansvar",
+      "to": "naevn-ungdomskriminalitetsnaevnet",
+      "beskrivelse": "Loven hører under Justitsministeriet; nævnets medlemmer er uafhængige (§ 3). Ministerium ikke belagt direkte.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2018/1705",
+          "citat": "Ungdomskriminalitetsnævnets medlemmer er uafhængige og kan ikke modtage eller søge instruktion fra den beskikkende eller indstillende myndighed eller organisation."
+        }
+      ]
+    },
+    {
+      "from": "min-justits",
+      "type": "ressortansvar",
+      "to": "lov-straffeloven",
+      "beskrivelse": "Straffeloven hører under justitsministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1294",
+          "citat": "Bekendtgørelse af straffeloven"
+        }
+      ]
+    },
+    {
+      "from": "min-justits",
+      "type": "ressortansvar",
+      "to": "lov-politiloven",
+      "beskrivelse": "Politiloven hører under justitsministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2019/1270",
+          "citat": "Bekendtgørelse af lov om politiets virksomhed"
+        }
+      ]
+    },
+    {
+      "from": "min-justits",
+      "type": "ressortansvar",
+      "to": "lov-straffuldbyrdelsesloven",
+      "beskrivelse": "Straffuldbyrdelsesloven hører under justitsministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2023/201",
+          "citat": "Bekendtgørelse af lov om fuldbyrdelse af straf m.v."
+        }
+      ]
+    },
+    {
+      "from": "min-justits",
+      "type": "ressortansvar",
+      "to": "lov-offererstatningsloven",
+      "beskrivelse": "Offererstatningsloven hører under justitsministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1400",
+          "citat": "Bekendtgørelse af lov om erstatning fra staten til ofre for forbrydelser"
+        }
+      ]
+    },
+    {
+      "from": "min-justits",
+      "type": "ressortansvar",
+      "to": "lov-ungdomskriminalitetsloven",
+      "beskrivelse": "Loven om bekæmpelse af ungdomskriminalitet hører under justitsministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2018/1705",
+          "citat": "Lov om bekæmpelse af ungdomskriminalitet"
+        }
+      ]
+    },
+    {
+      "from": "lov-retsplejeloven",
+      "type": "hjemmel_for",
+      "to": "sty-rigspolitiet",
+      "beskrivelse": "§ 108-109: rigspolitichefen, ansvar og tilsyn.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+          "citat": "Rigspolitichefen har ansvar for politiets virksomhed i hele landet. Rigspolitichefen fører tilsyn med politidirektørerne. Stk. 2. Rigspolitichefens afgørelser i klagesager over afgørelser truffet af politidirektørerne kan ikke påklages til justitsministeren."
+        }
+      ]
+    },
+    {
+      "from": "lov-retsplejeloven",
+      "type": "hjemmel_for",
+      "to": "sty-politikredsene",
+      "beskrivelse": "§ 110: 12 politikredse; § 95: politidirektørerne som anklagere.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+          "citat": "Landet inddeles i 12 politikredse."
+        }
+      ]
+    },
+    {
+      "from": "lov-retsplejeloven",
+      "type": "hjemmel_for",
+      "to": "sty-statsadvokaterne",
+      "beskrivelse": "§ 95 og § 101: statsadvokaternes opgaver og klagekompetence.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+          "citat": "Statsadvokaterne fører tilsyn med politidirektørernes behandling af straffesager og behandler klager over afgørelser truffet af politidirektørerne vedrørende strafforfølgning. Statsadvokaternes afgørelser i klagesager kan ikke påklages til rigsadvokaten og justitsministeren."
+        }
+      ]
+    },
+    {
+      "from": "lov-retsplejeloven",
+      "type": "hjemmel_for",
+      "to": "sty-politiklagemyndigheden",
+      "beskrivelse": "§ 118 og kapitel 93 b-c opretter og tillægger opgaverne.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+          "citat": "Den Uafhængige Politiklagemyndighed (Politiklagemyndigheden) er en selvstændig myndighed, der ledes af Politiklagerådet og en direktør. Stk. 2. Politiklagemyndigheden behandler klager over politiet, jf. kapitel 93 b, og efterforsker straffesager mod politipersonale, jf. kapitel 93 c."
+        }
+      ]
+    },
+    {
+      "from": "lov-straffuldbyrdelsesloven",
+      "type": "hjemmel_for",
+      "to": "sty-danmarks-faengsler",
+      "beskrivelse": "§ 2 og § 111-112: kriminalforsorgens direktorat, klage og domstolsprøvelse.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2023/201",
+          "citat": "Direktoratet for Kriminalforsorgen kan tilsvarende i sager af større eller principiel betydning beslutte at overtage et kriminalforsorgsområdes beføjelser efter loven."
+        }
+      ]
+    },
+    {
+      "from": "lov-offererstatningsloven",
+      "type": "hjemmel_for",
+      "to": "naevn-erstatningsnaevnet",
+      "beskrivelse": "§ 11 og § 16.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1400",
+          "citat": "Afgørelse om erstatning træffes af et nævn, der nedsættes af justitsministeren."
+        }
+      ]
+    },
+    {
+      "from": "lov-ungdomskriminalitetsloven",
+      "type": "hjemmel_for",
+      "to": "naevn-ungdomskriminalitetsnaevnet",
+      "beskrivelse": "§ 3: nævnets sammensætning.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2018/1705",
+          "citat": "Ungdomskriminalitetsnævnet består af 1 formand og et antal næstformænd (formandskabet) og andre medlemmer."
+        }
+      ]
+    },
+    {
+      "from": "lov-offererstatningsloven",
+      "type": "hjemmel_for",
+      "to": "bek-erstatningsnaevnets-behandling-af-ansoegninger",
+      "beskrivelse": "Udstedt i medfør af § 10 a og § 11, stk. 6.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2021/772",
+          "citat": "I medfør af § 10 a og § 11, stk. 6, i lov om erstatning fra staten til ofre for forbrydelser"
+        }
+      ]
+    },
+    {
+      "from": "lov-offererstatningsloven",
+      "type": "hjemmel_for",
+      "to": "bek-forretningsorden-erstatningsnaevnet",
+      "beskrivelse": "Udstedt i medfør af § 11, stk. 6.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2021/773",
+          "citat": "I medfør af § 11, stk. 6, i lov om erstatning fra staten til ofre for forbrydelser"
+        }
+      ]
+    },
+    {
+      "from": "lov-ungdomskriminalitetsloven",
+      "type": "hjemmel_for",
+      "to": "bek-ungekriminalforsorgens-tilsyn",
+      "beskrivelse": "Udstedt i medfør af § 52.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1115",
+          "citat": "I medfør af § 52 i lov nr. 1705 af 27. december 2018 om bekæmpelse af ungdomskriminalitet fastsættes:"
+        }
+      ]
+    },
+    {
+      "from": "lov-ungdomskriminalitetsloven",
+      "type": "hjemmel_for",
+      "to": "bek-ungekriminalforsorgens-reaktioner",
+      "beskrivelse": "Udstedt i medfør af § 52.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1116",
+          "citat": "I medfør af § 52 i lov nr. 1705 af 27. december 2018 om bekæmpelse af ungdomskriminalitet fastsættes:"
+        }
+      ]
+    },
+    {
+      "from": "sty-rigspolitiet",
+      "type": "klageinstans",
+      "to": "sty-politikredsene",
+      "beskrivelse": "Retsplejelovens § 109, stk. 2: klager over politidirektørernes (forvaltnings)afgørelser; Rigspolitichefens afgørelse kan ikke påklages til justitsministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+          "citat": "Rigspolitichefen har ansvar for politiets virksomhed i hele landet. Rigspolitichefen fører tilsyn med politidirektørerne. Stk. 2. Rigspolitichefens afgørelser i klagesager over afgørelser truffet af politidirektørerne kan ikke påklages til justitsministeren."
+        }
+      ]
+    },
+    {
+      "from": "sty-statsadvokaterne",
+      "type": "klageinstans",
+      "to": "sty-politikredsene",
+      "beskrivelse": "Retsplejelovens § 101, stk. 2 og § 724: klager over politidirektørernes afgørelser om strafforfølgning/påtaleopgivelse; frist 4 uger (§ 102); endelig.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+          "citat": "Statsadvokaterne fører tilsyn med politidirektørernes behandling af straffesager og behandler klager over afgørelser truffet af politidirektørerne vedrørende strafforfølgning. Statsadvokaternes afgørelser i klagesager kan ikke påklages til rigsadvokaten og justitsministeren."
+        }
+      ]
+    },
+    {
+      "from": "sty-rigsadvokaten",
+      "type": "klageinstans",
+      "to": "sty-statsadvokaterne",
+      "beskrivelse": "Retsplejelovens § 99, stk. 3: klager over statsadvokaternes afgørelser som 1. instans; frist 4 uger (§ 102); kan ikke påklages til justitsministeren. Justitsministeren behandler klager over Rigsadvokaten som 1. instans (§ 98, stk. 4).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+          "citat": "Rigsadvokaten behandler klager over afgørelser truffet af statsadvokaterne som 1. instans. Rigsadvokatens afgørelse i en klagesag kan ikke påklages til justitsministeren."
+        }
+      ]
+    },
+    {
+      "from": "sty-ankestyrelsen",
+      "type": "klageinstans",
+      "to": "naevn-ungdomskriminalitetsnaevnet",
+      "beskrivelse": "Ungdomskriminalitetslovens § 55, stk. 2: visse afgørelser (bl.a. anbringelse uden samtykke) kan indbringes for Ankestyrelsen inden 4 uger; øvrige afgørelser kan ikke indbringes administrativt (§ 55, stk. 1).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2018/1705",
+          "citat": "Følgende afgørelser kan indbringes for Ankestyrelsen, inden 4 uger efter at klageren har fået meddelelse om afgørelsen:"
+        }
+      ]
+    },
+    {
+      "from": "dom-byretterne",
+      "type": "klageinstans",
+      "to": "sty-danmarks-faengsler",
+      "beskrivelse": "Straffuldbyrdelseslovens § 112: udvalgte endelige administrative afgørelser kan inden 4 uger kræves indbragt for retten.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2023/201",
+          "citat": "Endelige administrative afgørelser kan inden 4 uger efter, at afgørelsen er meddelt den dømte, af denne kræves indbragt til prøvelse for retten, hvis der er tale om"
+        }
+      ]
+    },
+    {
+      "from": "sty-rigspolitiet",
+      "type": "tilsyn",
+      "to": "sty-politikredsene",
+      "beskrivelse": "Retsplejelovens § 109: rigspolitichefen fører tilsyn med politidirektørerne.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+          "citat": "Rigspolitichefen har ansvar for politiets virksomhed i hele landet. Rigspolitichefen fører tilsyn med politidirektørerne. Stk. 2. Rigspolitichefens afgørelser i klagesager over afgørelser truffet af politidirektørerne kan ikke påklages til justitsministeren."
+        }
+      ]
+    },
+    {
+      "from": "sty-statsadvokaterne",
+      "type": "tilsyn",
+      "to": "sty-politikredsene",
+      "beskrivelse": "Retsplejelovens § 101, stk. 2: tilsyn med politidirektørernes behandling af straffesager.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+          "citat": "Statsadvokaterne fører tilsyn med politidirektørernes behandling af straffesager og behandler klager over afgørelser truffet af politidirektørerne vedrørende strafforfølgning. Statsadvokaternes afgørelser i klagesager kan ikke påklages til rigsadvokaten og justitsministeren."
+        }
+      ]
+    },
+    {
+      "from": "sty-rigsadvokaten",
+      "type": "tilsyn",
+      "to": "sty-statsadvokaterne",
+      "beskrivelse": "Retsplejelovens § 99, stk. 2: Rigsadvokaten er de øvrige anklagere overordnet og fører tilsyn.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+          "citat": "Rigsadvokaten er de øvrige offentlige anklagere overordnet og fører tilsyn med disse."
+        }
+      ]
+    },
+    {
+      "from": "sty-rigsadvokaten",
+      "type": "udsteder",
+      "to": "kilde-rigsadvokatmeddelelsen",
+      "beskrivelse": "Rigsadvokaten udsteder Rigsadvokatmeddelelsen (retningslinjer til anklagemyndigheden).",
+      "belaeg": [
+        {
+          "url": "https://vidensbasen.anklagemyndigheden.dk/api/Portals(6e302527-f0b3-4a5e-889a-668aa67e5491)/Print/h/6dfa19d8-18cc-47d6-b4c4-3bd07bc15ec0/VB/239964d2-5b0b-46b7-9685-4919a0d428a0",
+          "citat": "I Vidensbasen finder du Rigsadvokatmeddelelsen, der er det samlede dokument for Rigsadvokatens retningslinjer til anklagemyndigheden."
+        }
+      ]
+    },
+    {
+      "from": "sty-rigsadvokaten",
+      "type": "udsteder",
+      "to": "kilde-vidensbasen",
+      "beskrivelse": "Vidensbasen samler Rigsadvokatens retningslinjer; anklagemyndigheden driver basen (driftsansvar ikke udtrykkeligt belagt).",
+      "belaeg": [
+        {
+          "url": "https://vidensbasen.anklagemyndigheden.dk/api/Portals(6e302527-f0b3-4a5e-889a-668aa67e5491)/Print/h/6dfa19d8-18cc-47d6-b4c4-3bd07bc15ec0/VB/239964d2-5b0b-46b7-9685-4919a0d428a0",
+          "citat": "I Vidensbasen finder du Rigsadvokatmeddelelsen, der er det samlede dokument for Rigsadvokatens retningslinjer til anklagemyndigheden."
+        }
+      ]
+    },
+    {
+      "from": "sty-politiklagemyndigheden",
+      "type": "udsteder",
+      "to": "kilde-politiklagemyndigheden-udgivelser",
+      "beskrivelse": "Politiklagemyndigheden udgiver årsberetninger og årsrapporter.",
+      "belaeg": [
+        {
+          "url": "https://politiklagemyndigheden.dk/aarsberetning-og-statistik/",
+          "citat": "Politiklagemyndigheden udgiver hvert år en årsberetning. Årsberetningerne indeholder forskellige artikler om Politiklagemyndigheden og vores sagsbehandling, statistiske oplysninger og korte beskrivelser af udvalgte konkrete sager."
+        }
+      ]
+    }
+  ],
+  "rettelser": [],
+  "huller": [
+    {
+      "emne": "Politiets tilladelser (våben, vagtvirksomhed, fyrværkeri) og klagevejen",
+      "type": "ikke-fundet",
+      "beskrivelse": "Paragrafferne for politiets tilladelser og klage til Rigspolitiet over dem er ikke kortlagt; kræver våbenloven, lov om vagtvirksomhed (LBK 112/2016) og fyrværkeriloven (LBK 23/2026), som ligger uden for dette pas. Generel klagevej er rpl. § 109, stk. 2.",
+      "noder": [
+        "sty-politikredsene",
+        "sty-rigspolitiet"
+      ],
+      "kilder": [
+        "https://www.retsinformation.dk/eli/lta/2025/1298"
+      ]
+    },
+    {
+      "emne": "Domstolsprøvelse af Erstatningsnævnets afgørelser",
+      "type": "uklart",
+      "beskrivelse": "Offererstatningsloven siger kun, at nævnet har den endelige administrative afgørelse (§ 16); en sekundær kilde nævner prøvelse ved domstolene, men ikke belagt på officiel side.",
+      "noder": [
+        "naevn-erstatningsnaevnet"
+      ],
+      "kilder": [
+        "https://www.retsinformation.dk/eli/lta/2025/1400"
+      ]
+    },
+    {
+      "emne": "Erstatningsnævnets offentliggjorte afgørelsesresuméer",
+      "type": "uklart",
+      "beskrivelse": "Civilstyrelsens forside oplyser, at resuméer offentliggøres fra 2026, men linkadressen til samlingen kunne ikke aflæses, så ingen dokumentkilde er oprettet.",
+      "noder": [
+        "naevn-erstatningsnaevnet"
+      ],
+      "kilder": [
+        "https://www.civilstyrelsen.dk/"
+      ]
+    },
+    {
+      "emne": "Ungdomskriminalitetsnævnets egen hjemmeside og årsberetninger",
+      "type": "uklart",
+      "beskrivelse": "Værktøjet kunne ikke åbne nævnets hjemmeside, så url er udeladt; årsberetninger ligger på domstol.dk ifølge søgeresultater, ikke åbnet.",
+      "noder": [
+        "naevn-ungdomskriminalitetsnaevnet"
+      ],
+      "kilder": [
+        "https://www.retsinformation.dk/eli/lta/2018/1705"
+      ]
+    },
+    {
+      "emne": "Klagefrist og -procedure til Danmarks Fængsler (Direktoratet)",
+      "type": "uklart",
+      "beskrivelse": "Straffuldbyrdelsesloven § 111, stk. 3 bemyndiger klage til direktoratet; frister (to måneder iflg. søgeresultater) ligger i bekendtgørelser, som ikke er åbnet.",
+      "noder": [
+        "sty-danmarks-faengsler"
+      ],
+      "kilder": [
+        "https://www.retsinformation.dk/eli/lta/2023/201"
+      ]
+    },
+    {
+      "emne": "Vilkår for genbrug af Vidensbasen og Rigsadvokatmeddelelsen",
+      "type": "uklart",
+      "beskrivelse": "Ingen vilkårs- eller ophavsrettstekst fundet på de åbnede sider; Retsinformations cirkulærer er omfattet af ophavsretslovens § 9, men Vidensbasen er ikke belagt.",
+      "noder": [
+        "kilde-vidensbasen",
+        "kilde-rigsadvokatmeddelelsen"
+      ],
+      "kilder": [
+        "https://vidensbasen.anklagemyndigheden.dk/api/Portals(6e302527-f0b3-4a5e-889a-668aa67e5491)/Print/h/6dfa19d8-18cc-47d6-b4c4-3bd07bc15ec0/VB/239964d2-5b0b-46b7-9685-4919a0d428a0"
+      ]
+    },
+    {
+      "emne": "Vilkår for genbrug af Politiklagemyndighedens udgivelser og offentliggørelse af enkeltafgørelser",
+      "type": "ikke-fundet",
+      "beskrivelse": "Hjemmesiden nævner kun årsberetninger og -rapporter; ingen offentlig database over adfærdsklageafgørelser fundet.",
+      "noder": [
+        "kilde-politiklagemyndigheden-udgivelser",
+        "sty-politiklagemyndigheden"
+      ],
+      "kilder": [
+        "https://politiklagemyndigheden.dk/aarsberetning-og-statistik/"
+      ]
+    },
+    {
+      "emne": "Nummersystem for domme i Vidensbasen",
+      "type": "ikke-fundet",
+      "beskrivelse": "FAQ'en beskriver RM- og RI-numre, men ikke nummerering af domme/afgørelser.",
+      "noder": [
+        "kilde-vidensbasen"
+      ],
+      "kilder": [
+        "https://vidensbasen.anklagemyndigheden.dk/api/Portals(6e302527-f0b3-4a5e-889a-668aa67e5491)/Print/h/6dfa19d8-18cc-47d6-b4c4-3bd07bc15ec0/VB/239964d2-5b0b-46b7-9685-4919a0d428a0"
+      ]
+    }
+  ],
+  "noter": "Til orkestratoren: (1) Retsplejelovens kapitel 93 d er ophævet; Politiklagemyndighedens opgaver ligger i kapitel 11 a, 93 b og 93 c. (2) Kriminalforsorgen hedder nu Danmarks Fængsler, direktoratet Styrelsen for Danmarks Fængsler; straffuldbyrdelsesloven og BEK 772/773 (2021) henviser stadig til ældre navne/lovbekendtgørelser (Retsinformation har ikke opdateret). (3) Ungdomskriminalitetsloven har ingen gældende lovbekendtgørelse (LBK 976/2019 er historisk), noden peger på LOV 1705/2018. (4) Bevismiddeltilsynet (rpl. § 118 a) og Politiklagerådet er kun nævnt i note, ingen noder. (5) lov-retsplejeloven mangler url/identifikatorer i registry (url ikke fundet); gældende er LBK 1298 af 07/11/2025 (katalog, ikke kørt gennem lov). Straffeloven (LBK 1294/2025) har senere ændringer 2026 (263, 358, 764, 766) ifølge Retsinformation. Erstatningsnævnet-URL peger på Civilstyrelsens forside. Rigsadvokatmeddelelsen-afsnit: sty-rigsadvokaten har ministerium min-justits i forvejen. [Orkestrator 2026-11-12: fjernet kilde-vidensbasen|henviser_til|kilde-rigsadvokatmeddelelsen: Vidensbasen indeholder Rigsadvokatmeddelelsen; det er ikke en dokumenthenvisning (kontrollantens indvending).]"
+}

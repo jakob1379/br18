@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 101 · kanter: 173
+Noder: 113 · kanter: 198
 
 ```mermaid
 flowchart LR
@@ -27,6 +27,8 @@ flowchart LR
     eu_dir_2013_30["Direktiv 2013/30/EU om sikkerhed i forbindelse med offshore olie- og gasaktiviteter (offshoresikkerhedsdirektivet)"]:::eu
     eu_dir_2013_35["Direktiv 2013/35/EU om fysiske agenser (elektromagnetiske felter)"]:::eu
     eu_dir_2014_33["Direktiv 2014/33/EU om elevatorer og sikkerhedskomponenter til elevatorer"]:::eu
+    eu_dir_2015_1535["Europa-Parlamentets og Rådets direktiv (EU) 2015/1535 af 9. september 2015 om en informationsprocedure med hensyn til tekniske forskrifter og forskrifter for informationssamfundets tjenester (informationsproceduredirektivet, TRIS)"]:::eu
+    eu_dir_2005_36["Europa-Parlamentets og Rådets direktiv 2005/36/EF af 7. september 2005 om anerkendelse af erhvervsmæssige kvalifikationer"]:::eu
     eu_reg_2006_1907["Forordning (EF) nr. 1907/2006 (REACH)"]:::eu
     eu_dir_1989_391["Rådets direktiv 89/391/EØF (rammedirektivet om sikkerhed og sundhed under arbejdet)"]:::eu
     eu_dir_1989_654["Rådets direktiv 89/654/EØF om minimumsforskrifter for sikkerhed og sundhed på arbejdsstedet (arbejdsstedsdirektivet)"]:::eu
@@ -41,6 +43,7 @@ flowchart LR
     sty_arbejdstilsynet["Arbejdstilsynet"]:::instans
     org_nfa["Det Nationale Forskningscenter for Arbejdsmiljø (NFA)"]:::instans
     sty_erhvervsstyrelsen["Erhvervsstyrelsen"]:::instans
+    sty_forligsinstitutionen["Forligsinstitutionen"]:::instans
     kommune_alle["Kommunerne (98 kommunalbestyrelser)"]:::instans
     fond_loenmodtagernes_garantifond["Lønmodtagernes Garantifond (LG)"]:::instans
     org_seniorpensionsenheden["Seniorpensionsenheden"]:::instans
@@ -54,13 +57,16 @@ flowchart LR
     org_autoriserede_arbejdsmiljoeraadgivere["Autoriserede arbejdsmiljørådgivere"]:::kilde
     org_bfa_bygge_og_anlaeg["BFA Bygge & Anlæg (Branchefællesskabet for arbejdsmiljø i bygge og anlæg)"]:::kilde
     bv_bfa_branchevejledninger["BFA Bygge & Anlæg – branchevejledninger"]:::kilde
+    org_faglige_voldgiftsretter["Faglige voldgiftsretter"]:::kilde
     kilde_star_love_og_regler["STAR: Love og regler (henvisning til Retsinformation)"]:::kilde
     kilde_at_dk["at.dk (Arbejdstilsynets hjemmeside)"]:::kilde
     kilde_regler_at_dk["regler.at.dk (Arbejdstilsynets regelportal)"]:::kilde
     naevn_ankenaevn_atp["Ankenævnet for Arbejdsmarkedets Tillægspension"]:::klage
     naevn_arbejdsmiljoeklagenaevnet["Arbejdsmiljøklagenævnet"]:::klage
+    dom_arbejdsretten["Arbejdsretten"]:::klage
     dom_domstolene["Domstolene (byret, landsret, Højesteret)"]:::klage
     ombud_folketingets_ombudsmand["Folketingets Ombudsmand"]:::klage
+    naevn_ligebehandlingsnaevnet["Ligebehandlingsnævnet"]:::klage
     raad_arbejdsmiljoeraadet["Arbejdsmiljørådet (nedlagt)"]:::nedlagt
     vejl_at_bygge_og_anlaeg["AT-vejledning om bygge- og anlægsarbejde"]:::retsakt
     vejl_at_bygherrens_pligter["AT-vejledning om bygherrens pligter"]:::retsakt
@@ -97,6 +103,8 @@ flowchart LR
     bek_unges_arbejde["Bekendtgørelse om unges arbejde (ungebekendtgørelsen)"]:::retsakt
     lov_1656_2024_arbejdsmarkedsraad["Lov nr. 1656 af 30/12/2024 om ændring af lov om organisering og understøttelse af beskæftigelsesindsatsen m.v., lov om arbejdsmiljø og forskellige andre love (Nedlæggelse af Arbejdsmiljørådet og oprettelse af nyt Arbejdsmarkedsråd)"]:::retsakt
     lov_atp["Lov om Arbejdsmarkedets Tillægspension (ATP-loven)"]:::retsakt
+    lov_arbejdsretsloven["Lov om Arbejdsretten og faglige voldgiftsretter (arbejdsretsloven)"]:::retsakt
+    lov_ligebehandlingsnaevnet["Lov om Ligebehandlingsnævnet"]:::retsakt
     lov_loenmodtagernes_garantifond["Lov om Lønmodtagernes Garantifond"]:::retsakt
     lov_seniorpensionsenheden["Lov om Seniorpensionsenheden"]:::retsakt
     lov_udbetaling_danmark["Lov om Udbetaling Danmark"]:::retsakt
@@ -106,8 +114,12 @@ flowchart LR
     lov_arbejdsskadesikring["Lov om arbejdsskadesikring (arbejdsskadesikringsloven)"]:::retsakt
     lov_aes["Lov om den selvejende institution Arbejdsmarkedets Erhvervssikring"]:::retsakt
     lov_aktiv_beskaeftigelsesindsats["Lov om en aktiv beskæftigelsesindsats (LAB)"]:::retsakt
+    lov_forskelsbehandlingsloven["Lov om forbud mod forskelsbehandling på arbejdsmarkedet m.v. (forskelsbehandlingsloven)"]:::retsakt
     lov_boligstoetteloven["Lov om individuel boligstøtte (boligstøtteloven)"]:::retsakt
+    lov_ligebehandlingsloven["Lov om ligebehandling af mænd og kvinder med hensyn til beskæftigelse m.v. (ligebehandlingsloven)"]:::retsakt
+    lov_forligsmandsloven["Lov om mægling i arbejdsstridigheder (forligsmandsloven)"]:::retsakt
     lov_organisering_beskaeftigelsesindsatsen["Lov om organisering og understøttelse af beskæftigelsesindsatsen m.v. (LOB)"]:::retsakt
+    lov_funktionaerloven["Lov om retsforholdet mellem arbejdsgivere og funktionærer (funktionærloven)"]:::retsakt
     lov_retssikkerhedsloven_social["Lov om retssikkerhed og administration på det sociale område (retssikkerhedsloven)"]:::retsakt
     lov_offshoresikkerhedsloven["Lov om sikkerhed m.v. for offshoreanlæg til efterforskning, produktion og transport af kulbrinter (offshoresikkerhedsloven)"]:::retsakt
     lov_social_pension["Lov om social pension"]:::retsakt
@@ -146,16 +158,16 @@ flowchart LR
     lov_arbejdsmiljoeloven -.->|hjemmel_for| bek_graensevaerdier_kemiske_agenser
     lov_arbejdsmiljoeloven -.->|hjemmel_for| bek_hvileperiode
     lov_arbejdsmiljoeloven -->|hjemmel_for| bek_kemiske_agenser
-    lov_arbejdsmiljoeloven -.->|hjemmel_for| bek_kontrol_risiko_stoerre_uheld
+    lov_arbejdsmiljoeloven -->|hjemmel_for| bek_kontrol_risiko_stoerre_uheld
     lov_arbejdsmiljoeloven -->|hjemmel_for| bek_kraeftrisiko
-    lov_arbejdsmiljoeloven -.->|hjemmel_for| bek_offentliggoerelse_arbejdsmiljoe
+    lov_arbejdsmiljoeloven -->|hjemmel_for| bek_offentliggoerelse_arbejdsmiljoe
     lov_arbejdsmiljoeloven -.->|hjemmel_for| bek_personlige_vaernemidler
     lov_arbejdsmiljoeloven -->|hjemmel_for| bek_psykisk_arbejdsmiljoe
     lov_arbejdsmiljoeloven -->|hjemmel_for| bek_risiko
     lov_arbejdsmiljoeloven -->|hjemmel_for| bek_skiftende_arbejdssteder
     lov_arbejdsmiljoeloven -->|hjemmel_for| bek_systematisk_arbejdsmiljoearbejde
     lov_arbejdsmiljoeloven -->|hjemmel_for| bek_tekniske_hjaelpemidler_anvendelse
-    lov_arbejdsmiljoeloven -.->|hjemmel_for| bek_tekniske_hjaelpemidler_indretning
+    lov_arbejdsmiljoeloven -->|hjemmel_for| bek_tekniske_hjaelpemidler_indretning
     lov_arbejdsmiljoeloven -.->|hjemmel_for| bek_udvinding_mineralske_materialer
     lov_arbejdsmiljoeloven -->|hjemmel_for| bek_unges_arbejde
     lov_arbejdsmiljoeloven -->|hjemmel_for| bek_vibrationer
@@ -172,19 +184,19 @@ flowchart LR
     bek_asbest -->|implementerer_EU| eu_dir_2009_148
     bek_asbest -->|implementerer_EU| eu_dir_2023_2668
     bek_biologiske_agenser -->|implementerer_EU| eu_dir_2000_54
-    bek_bygge_og_anlaeg -.->|implementerer_EU| eu_dir_1992_57
-    bek_bygherrens_pligter -.->|implementerer_EU| eu_dir_1992_57
+    bek_bygge_og_anlaeg -->|implementerer_EU| eu_dir_1992_57
+    bek_bygherrens_pligter -->|implementerer_EU| eu_dir_1992_57
     bek_eksplosiv_atmosfaere -->|implementerer_EU| eu_dir_1999_92
-    bek_elektromagnetiske_felter -.->|implementerer_EU| eu_dir_2013_35
+    bek_elektromagnetiske_felter -->|implementerer_EU| eu_dir_2013_35
     bek_faste_arbejdssteder -->|implementerer_EU| eu_dir_1989_654
     bek_graensevaerdier_kemiske_agenser -.->|implementerer_EU| eu_dir_1998_24
     bek_graensevaerdier_kemiske_agenser -.->|implementerer_EU| eu_dir_2004_37
     bek_hvileperiode -.->|implementerer_EU| eu_dir_2003_88
     bek_kemiske_agenser -.->|implementerer_EU| eu_dir_1998_24
-    bek_kontrol_risiko_stoerre_uheld -.->|implementerer_EU| eu_dir_2012_18
-    bek_kraeftrisiko -.->|implementerer_EU| eu_dir_2004_37
-    bek_systematisk_arbejdsmiljoearbejde -.->|implementerer_EU| eu_dir_1989_391
-    bek_tekniske_hjaelpemidler_anvendelse -.->|implementerer_EU| eu_dir_2009_104
+    bek_kontrol_risiko_stoerre_uheld -->|implementerer_EU| eu_dir_2012_18
+    bek_kraeftrisiko -->|implementerer_EU| eu_dir_2004_37
+    bek_systematisk_arbejdsmiljoearbejde -->|implementerer_EU| eu_dir_1989_391
+    bek_tekniske_hjaelpemidler_anvendelse -->|implementerer_EU| eu_dir_2009_104
     bek_unges_arbejde -->|implementerer_EU| eu_dir_1994_33
     bek_vibrationer -.->|implementerer_EU| eu_dir_2002_44
     lov_arbejdsmiljoeloven -->|implementerer_EU| eu_dir_1989_391
@@ -286,6 +298,31 @@ flowchart LR
     sty_star -->|tilsyn| kommune_alle
     sty_star -->|udsteder| kilde_star_love_og_regler
     org_arbejdsmarkedets_erhvervssikring -->|udsteder| kilde_aes_love_og_praksis
+    min_beskaeftigelse_og_ligestilling -->|ressortansvar| lov_arbejdsretsloven
+    min_beskaeftigelse_og_ligestilling -->|ressortansvar| lov_forligsmandsloven
+    min_beskaeftigelse_og_ligestilling -->|ressortansvar| lov_ligebehandlingsnaevnet
+    min_beskaeftigelse_og_ligestilling -->|ressortansvar| lov_ligebehandlingsloven
+    min_beskaeftigelse_og_ligestilling -->|ressortansvar| lov_forskelsbehandlingsloven
+    min_beskaeftigelse_og_ligestilling -->|ressortansvar| lov_funktionaerloven
+    lov_arbejdsretsloven -->|hjemmel_for| dom_arbejdsretten
+    lov_arbejdsretsloven -->|hjemmel_for| org_faglige_voldgiftsretter
+    lov_forligsmandsloven -.->|hjemmel_for| sty_forligsinstitutionen
+    lov_ligebehandlingsnaevnet -.->|hjemmel_for| naevn_ligebehandlingsnaevnet
+    lov_ligebehandlingsnaevnet -->|henviser_til| lov_ligebehandlingsloven
+    lov_ligebehandlingsnaevnet -->|henviser_til| lov_forskelsbehandlingsloven
+    bek_arbejdets_udfoerelse -->|implementerer_EU| eu_dir_1989_391
+    bek_at_offshore_opgaver -->|implementerer_EU| eu_dir_2013_30
+    bek_eksisterende_elevatorer -->|implementerer_EU| eu_dir_2015_1535
+    bek_psykisk_arbejdsmiljoe -->|implementerer_EU| eu_dir_1989_391
+    bek_tekniske_hjaelpemidler_indretning -->|implementerer_EU| eu_dir_2009_104
+    lov_arbejdsmiljoeloven -->|hjemmel_for| vejl_at_bygherrens_pligter
+    lov_arbejdsmiljoeloven -->|implementerer_EU| eu_dir_1992_57
+    lov_arbejdsmiljoeloven -->|implementerer_EU| eu_dir_1994_33
+    lov_arbejdsmiljoeloven -->|implementerer_EU| eu_dir_2003_88
+    lov_arbejdsmiljoeloven -->|implementerer_EU| eu_dir_2005_36
+    lov_arbejdsmiljoeloven -->|implementerer_EU| eu_dir_2009_104
+    lov_arbejdsmiljoeloven -->|implementerer_EU| eu_dir_2009_148
+    lov_arbejdsmiljoeloven -->|hjemmel_for| vejl_at_bygge_og_anlaeg
     bek_elevatorer -->|implementerer_EU| eu_dir_2014_33
     bek_risiko -->|implementerer_EU| eu_dir_2012_18
 ```

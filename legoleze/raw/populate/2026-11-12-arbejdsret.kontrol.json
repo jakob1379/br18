@@ -1,0 +1,1365 @@
+[
+ {
+  "hvor": "lov-arbejdsretsloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "256541",
+   "DocumentTitle": "Bekendtgørelse af lov om Arbejdsretten og faglige voldgiftsretter",
+   "Year": "2026",
+   "DiesSigni": "2026-08-13",
+   "Status": "Valid",
+   "Number": "705",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-arbejdsretsloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "256541",
+   "DocumentTitle": "Bekendtgørelse af lov om Arbejdsretten og faglige voldgiftsretter",
+   "Year": "2026",
+   "DiesSigni": "2026-08-13",
+   "Status": "Valid",
+   "Number": "705",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-arbejdsretsloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "256541",
+   "DocumentTitle": "Bekendtgørelse af lov om Arbejdsretten og faglige voldgiftsretter",
+   "Year": "2026",
+   "DiesSigni": "2026-08-13",
+   "Status": "Valid",
+   "Number": "705",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-arbejdsretsloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "256541",
+   "DocumentTitle": "Bekendtgørelse af lov om Arbejdsretten og faglige voldgiftsretter",
+   "Year": "2026",
+   "DiesSigni": "2026-08-13",
+   "Status": "Valid",
+   "Number": "705",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2026/705",
+   "lovtidende": "LBK nr. 705 af 13/08/2026"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-forligsmandsloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "251760",
+   "DocumentTitle": "Bekendtgørelse af lov om mægling i arbejdsstridigheder",
+   "Year": "2025",
+   "DiesSigni": "2025-11-05",
+   "Status": "Valid",
+   "Number": "1290",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-forligsmandsloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "251760",
+   "DocumentTitle": "Bekendtgørelse af lov om mægling i arbejdsstridigheder",
+   "Year": "2025",
+   "DiesSigni": "2025-11-05",
+   "Status": "Valid",
+   "Number": "1290",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-forligsmandsloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "251760",
+   "DocumentTitle": "Bekendtgørelse af lov om mægling i arbejdsstridigheder",
+   "Year": "2025",
+   "DiesSigni": "2025-11-05",
+   "Status": "Valid",
+   "Number": "1290",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-forligsmandsloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "251760",
+   "DocumentTitle": "Bekendtgørelse af lov om mægling i arbejdsstridigheder",
+   "Year": "2025",
+   "DiesSigni": "2025-11-05",
+   "Status": "Valid",
+   "Number": "1290",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2025/1290",
+   "lovtidende": "LBK nr. 1290 af 05/11/2025"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-ligebehandlingsnaevnet.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "245885",
+   "DocumentTitle": "Bekendtgørelse af lov om Ligebehandlingsnævnet",
+   "Year": "2024",
+   "DiesSigni": "2024-11-25",
+   "Status": "Valid",
+   "Number": "1779",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-ligebehandlingsnaevnet.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "245885",
+   "DocumentTitle": "Bekendtgørelse af lov om Ligebehandlingsnævnet",
+   "Year": "2024",
+   "DiesSigni": "2024-11-25",
+   "Status": "Valid",
+   "Number": "1779",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-ligebehandlingsnaevnet.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "245885",
+   "DocumentTitle": "Bekendtgørelse af lov om Ligebehandlingsnævnet",
+   "Year": "2024",
+   "DiesSigni": "2024-11-25",
+   "Status": "Valid",
+   "Number": "1779",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-ligebehandlingsnaevnet.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "245885",
+   "DocumentTitle": "Bekendtgørelse af lov om Ligebehandlingsnævnet",
+   "Year": "2024",
+   "DiesSigni": "2024-11-25",
+   "Status": "Valid",
+   "Number": "1779",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2024/1779",
+   "lovtidende": "LBK nr. 1779 af 25/11/2024"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-ligebehandlingsloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "244552",
+   "DocumentTitle": "Bekendtgørelse af lov om ligebehandling af mænd og kvinder med hensyn til beskæftigelse m.v.",
+   "Year": "2024",
+   "DiesSigni": "2024-07-19",
+   "Status": "Valid",
+   "Number": "942",
+   "PopularTitle": "Ligebehandlingsloven",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-ligebehandlingsloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "244552",
+   "DocumentTitle": "Bekendtgørelse af lov om ligebehandling af mænd og kvinder med hensyn til beskæftigelse m.v.",
+   "Year": "2024",
+   "DiesSigni": "2024-07-19",
+   "Status": "Valid",
+   "Number": "942",
+   "PopularTitle": "Ligebehandlingsloven",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-ligebehandlingsloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "244552",
+   "DocumentTitle": "Bekendtgørelse af lov om ligebehandling af mænd og kvinder med hensyn til beskæftigelse m.v.",
+   "Year": "2024",
+   "DiesSigni": "2024-07-19",
+   "Status": "Valid",
+   "Number": "942",
+   "PopularTitle": "Ligebehandlingsloven",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-ligebehandlingsloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "244552",
+   "DocumentTitle": "Bekendtgørelse af lov om ligebehandling af mænd og kvinder med hensyn til beskæftigelse m.v.",
+   "Year": "2024",
+   "DiesSigni": "2024-07-19",
+   "Status": "Valid",
+   "Number": "942",
+   "PopularTitle": "Ligebehandlingsloven",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2024/942",
+   "lovtidende": "LBK nr. 942 af 19/07/2024"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-forskelsbehandlingsloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "242724",
+   "DocumentTitle": "Bekendtgørelse af lov om forbud mod forskelsbehandling på arbejdsmarkedet m.v.",
+   "Year": "2024",
+   "DiesSigni": "2024-04-05",
+   "Status": "Valid",
+   "Number": "399",
+   "PopularTitle": "Forskelsbehandlingsloven",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-forskelsbehandlingsloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "242724",
+   "DocumentTitle": "Bekendtgørelse af lov om forbud mod forskelsbehandling på arbejdsmarkedet m.v.",
+   "Year": "2024",
+   "DiesSigni": "2024-04-05",
+   "Status": "Valid",
+   "Number": "399",
+   "PopularTitle": "Forskelsbehandlingsloven",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-forskelsbehandlingsloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "242724",
+   "DocumentTitle": "Bekendtgørelse af lov om forbud mod forskelsbehandling på arbejdsmarkedet m.v.",
+   "Year": "2024",
+   "DiesSigni": "2024-04-05",
+   "Status": "Valid",
+   "Number": "399",
+   "PopularTitle": "Forskelsbehandlingsloven",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-forskelsbehandlingsloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "242724",
+   "DocumentTitle": "Bekendtgørelse af lov om forbud mod forskelsbehandling på arbejdsmarkedet m.v.",
+   "Year": "2024",
+   "DiesSigni": "2024-04-05",
+   "Status": "Valid",
+   "Number": "399",
+   "PopularTitle": "Forskelsbehandlingsloven",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2024/399",
+   "lovtidende": "LBK nr. 399 af 05/04/2024"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-funktionaerloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "179871",
+   "DocumentTitle": "Bekendtgørelse af lov om retsforholdet mellem arbejdsgivere og funktionærer",
+   "Year": "2017",
+   "DiesSigni": "2017-08-24",
+   "Status": "Valid",
+   "Number": "1002",
+   "PopularTitle": "Funktionærloven",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-funktionaerloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "179871",
+   "DocumentTitle": "Bekendtgørelse af lov om retsforholdet mellem arbejdsgivere og funktionærer",
+   "Year": "2017",
+   "DiesSigni": "2017-08-24",
+   "Status": "Valid",
+   "Number": "1002",
+   "PopularTitle": "Funktionærloven",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-funktionaerloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "179871",
+   "DocumentTitle": "Bekendtgørelse af lov om retsforholdet mellem arbejdsgivere og funktionærer",
+   "Year": "2017",
+   "DiesSigni": "2017-08-24",
+   "Status": "Valid",
+   "Number": "1002",
+   "PopularTitle": "Funktionærloven",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-funktionaerloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "179871",
+   "DocumentTitle": "Bekendtgørelse af lov om retsforholdet mellem arbejdsgivere og funktionærer",
+   "Year": "2017",
+   "DiesSigni": "2017-08-24",
+   "Status": "Valid",
+   "Number": "1002",
+   "PopularTitle": "Funktionærloven",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2017/1002",
+   "lovtidende": "LBK nr. 1002 af 24/08/2017"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-erhvervsuddannelser.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "255908",
+   "DocumentTitle": "Bekendtgørelse af lov om erhvervsuddannelser",
+   "Year": "2026",
+   "DiesSigni": "2026-03-13",
+   "Status": "Valid",
+   "Number": "381",
+   "PopularTitle": "Erhvervsuddannelsesloven",
+   "Ministry": "Børne- og Undervisningsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-erhvervsuddannelser.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "255908",
+   "DocumentTitle": "Bekendtgørelse af lov om erhvervsuddannelser",
+   "Year": "2026",
+   "DiesSigni": "2026-03-13",
+   "Status": "Valid",
+   "Number": "381",
+   "PopularTitle": "Erhvervsuddannelsesloven",
+   "Ministry": "Børne- og Undervisningsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-erhvervsuddannelser.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "255908",
+   "DocumentTitle": "Bekendtgørelse af lov om erhvervsuddannelser",
+   "Year": "2026",
+   "DiesSigni": "2026-03-13",
+   "Status": "Valid",
+   "Number": "381",
+   "PopularTitle": "Erhvervsuddannelsesloven",
+   "Ministry": "Børne- og Undervisningsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-erhvervsuddannelser.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "255908",
+   "DocumentTitle": "Bekendtgørelse af lov om erhvervsuddannelser",
+   "Year": "2026",
+   "DiesSigni": "2026-03-13",
+   "Status": "Valid",
+   "Number": "381",
+   "PopularTitle": "Erhvervsuddannelsesloven",
+   "Ministry": "Børne- og Undervisningsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2026/381",
+   "lovtidende": "LBK nr. 381 af 13/03/2026"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-tvistighedsnaevnet.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/1318",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-tvistighedsnaevnet.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "240165",
+   "DocumentTitle": "Bekendtgørelse om Tvistighedsnævnet",
+   "Year": "2023",
+   "DiesSigni": "2023-11-22",
+   "Status": "Valid",
+   "Number": "1318",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-tvistighedsnaevnet.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "240165",
+   "DocumentTitle": "Bekendtgørelse om Tvistighedsnævnet",
+   "Year": "2023",
+   "DiesSigni": "2023-11-22",
+   "Status": "Valid",
+   "Number": "1318",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-tvistighedsnaevnet.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "240165",
+   "DocumentTitle": "Bekendtgørelse om Tvistighedsnævnet",
+   "Year": "2023",
+   "DiesSigni": "2023-11-22",
+   "Status": "Valid",
+   "Number": "1318",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2023/1318",
+   "lovtidende": "BEK nr. 1318 af 22/11/2023"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "dom-arbejdsretten.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/705",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "dom-arbejdsretten.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/705",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://arbejdsretten.dk/arbejdsretten/sagsbehandling",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "dom-arbejdsretten.url",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://arbejdsretten.dk/arbejdsmarkedets-hus",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-faglige-voldgiftsretter.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/705",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-faglige-voldgiftsretter.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/705",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://arbejdsretten.dk/arbejdsretten/sagsbehandling",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://arbejdsretten.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-faglige-voldgiftsretter.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://arbejdsretten.dk/faglige-voldgiftsretter",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-afskedigelsesnaevnet.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://arbejdsretten.dk/media/14644/hovedaftale-mellem-dansk-arbejdsgiverforening-og-landsorganisationen-i-danmark.pdf",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/705",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-afskedigelsesnaevnet.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://arbejdsretten.dk/media/14644/hovedaftale-mellem-dansk-arbejdsgiverforening-og-landsorganisationen-i-danmark.pdf",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-afskedigelsesnaevnet.url",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://arbejdsretten.dk/media/17742/afskesdigelsesnaevnets-kendelse-af-16-april-2021-i-sag-20201111-anonymiseret.pdf",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-afskedigelsesnaevnet.identifikatorer",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://arbejdsretten.dk/media/17742/afskesdigelsesnaevnets-kendelse-af-16-april-2021-i-sag-20201111-anonymiseret.pdf",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-forligsinstitutionen.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1290",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-forligsinstitutionen.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://forligsinstitutionen.dk/om-forligsinstitutionen",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-forligsinstitutionen.url",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://forligsinstitutionen.dk/om-forligsinstitutionen",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-ligebehandlingsnaevnet.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1779",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1779",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-ligebehandlingsnaevnet.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1779",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1779",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1779",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-ligebehandlingsnaevnet.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.ast.dk/naevn/ligebehandlingsnaevnet",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-tvistighedsnaevnet.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/381",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/1318",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-tvistighedsnaevnet.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/381",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://naevneneshus.dk/naevnsoversigt/tvistighedsnaevnet/om-naevnet/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-tvistighedsnaevnet.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://naevneneshus.dk/start-din-klage/tvistighedsnaevnet/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-arbejdsretten-afgoerelser.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://arbejdsretten.dk/",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://arbejdsretten.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-arbejdsretten-afgoerelser.url",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://arbejdsretten.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-arbejdsretten-afgoerelser.adgang",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://arbejdsretten.dk/",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://arbejdsretten.dk/media/17742/afskesdigelsesnaevnets-kendelse-af-16-april-2021-i-sag-20201111-anonymiseret.pdf",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-arbejdsretten-afgoerelser.identifikatorer",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://arbejdsretten.dk/",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://arbejdsretten.dk/",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://arbejdsretten.dk/media/17742/afskesdigelsesnaevnets-kendelse-af-16-april-2021-i-sag-20201111-anonymiseret.pdf",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-arbejdsretten-afgoerelser.opdatering",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://arbejdsretten.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-ligebehandlingsnaevnet-afgoerelser.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1779",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-ligebehandlingsnaevnet-afgoerelser.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.ast.dk/naevn/ligebehandlingsnaevnet/afgoerelser-fra-ligebehandlingsnaevnet",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-ligebehandlingsnaevnet-afgoerelser.adgang",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.ast.dk/naevn/ligebehandlingsnaevnet/afgoerelser-fra-ligebehandlingsnaevnet",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/retsinfo/2026/9954",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-ligebehandlingsnaevnet-afgoerelser.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/retsinfo/2026/9954",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-ligebehandlingsnaevnet-afgoerelser.opdatering",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.ast.dk/naevn/ligebehandlingsnaevnet/afgoerelser-fra-ligebehandlingsnaevnet",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-tvistighedsnaevnet-kendelser.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://tvist.naevneneshus.dk/media/documents/36.2024_Kendelse.pdf",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-tvistighedsnaevnet-kendelser.url",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://tvist.naevneneshus.dk/media/documents/36.2024_Kendelse.pdf",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-tvistighedsnaevnet-kendelser.adgang",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://tvist.naevneneshus.dk/media/documents/36.2024_Kendelse.pdf",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-tvistighedsnaevnet-kendelser.identifikatorer",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://tvist.naevneneshus.dk/media/documents/36.2024_Kendelse.pdf",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|lov-arbejdsretsloven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/705",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|lov-forligsmandsloven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1290",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|lov-ligebehandlingsnaevnet",
+  "sikkerhed": "verificeret",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1779",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|lov-ligebehandlingsloven",
+  "sikkerhed": "verificeret",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/942",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|lov-forskelsbehandlingsloven",
+  "sikkerhed": "verificeret",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/399",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|lov-funktionaerloven",
+  "sikkerhed": "verificeret",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2017/1002",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-undervisning|ressortansvar|lov-erhvervsuddannelser",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/381",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|bek-tvistighedsnaevnet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/1318",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|naevn-tvistighedsnaevnet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://naevneneshus.dk/naevnsoversigt/tvistighedsnaevnet/om-naevnet/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|naevn-ligebehandlingsnaevnet",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/retsinfo/2026/9954",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-arbejdsretsloven|hjemmel_for|dom-arbejdsretten",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/705",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-arbejdsretsloven|hjemmel_for|org-faglige-voldgiftsretter",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/705",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-forligsmandsloven|hjemmel_for|sty-forligsinstitutionen",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1290",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-ligebehandlingsnaevnet|hjemmel_for|naevn-ligebehandlingsnaevnet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1779",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-erhvervsuddannelser|hjemmel_for|naevn-tvistighedsnaevnet",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/381",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-erhvervsuddannelser|hjemmel_for|bek-tvistighedsnaevnet",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/1318",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-tvistighedsnaevnet|hjemmel_for|naevn-tvistighedsnaevnet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/1318",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-ligebehandlingsnaevnet|henviser_til|lov-ligebehandlingsloven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1779",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-ligebehandlingsnaevnet|henviser_til|lov-forskelsbehandlingsloven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1779",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant dom-arbejdsretten|udsteder|kilde-arbejdsretten-afgoerelser",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://arbejdsretten.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant org-faglige-voldgiftsretter|udsteder|kilde-arbejdsretten-afgoerelser",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://arbejdsretten.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant org-afskedigelsesnaevnet|udsteder|kilde-arbejdsretten-afgoerelser",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://arbejdsretten.dk/media/17742/afskesdigelsesnaevnets-kendelse-af-16-april-2021-i-sag-20201111-anonymiseret.pdf",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant naevn-ligebehandlingsnaevnet|udsteder|kilde-ligebehandlingsnaevnet-afgoerelser",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1779",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant naevn-ligebehandlingsnaevnet|udsteder|kilde-retsinformation",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/retsinfo/2026/9954",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant naevn-tvistighedsnaevnet|udsteder|kilde-tvistighedsnaevnet-kendelser",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://tvist.naevneneshus.dk/media/documents/36.2024_Kendelse.pdf",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ }
+]

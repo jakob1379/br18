@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 128 · kanter: 224
+Noder: 141 · kanter: 261
 
 ```mermaid
 flowchart LR
@@ -24,16 +24,24 @@ flowchart LR
     eu_dir_2024_1788["Direktiv (EU) 2024/1788 om fælles regler for de indre markeder for vedvarende gas, naturgas og brint, om ændring af direktiv (EU) 2023/1791 og om ophævelse af direktiv 2009/73/EF (gasdirektivet)"]:::eu
     eu_dir_2002_49["Direktiv 2002/49/EF om vurdering og styring af ekstern støj (støjdirektivet)"]:::eu
     eu_dir_2003_87["Direktiv 2003/87/EF om en ordning for handel med kvoter for drivhusgasemissioner (ETS-direktivet)"]:::eu
+    eu_dir_2004_35["Direktiv 2004/35/EF om miljøansvar (miljøansvarsdirektivet)"]:::eu
     eu_dir_2006_7["Direktiv 2006/7/EF om forvaltning af badevandskvalitet (badevandsdirektivet)"]:::eu
     eu_dir_2007_2["Direktiv 2007/2/EF om opbygning af en infrastruktur for geografisk information i Det Europæiske Fællesskab (INSPIRE)"]:::eu
     eu_dir_2008_98["Direktiv 2008/98/EF om affald (affaldsrammedirektivet)"]:::eu
     eu_dir_2009_31["Direktiv 2009/31/EF om geologisk lagring af CO2 (CCS-direktivet)"]:::eu
     eu_dir_2010_75["Direktiv 2010/75/EU om industrielle emissioner (IED)"]:::eu
+    eu_dir_2011_92["Direktiv 2011/92/EU om vurdering af visse offentlige og private projekters indvirkning på miljøet (VVM)"]:::eu
+    eu_dir_2013_30["Direktiv 2013/30/EU om sikkerhed i forbindelse med offshore olie- og gasaktiviteter (offshoresikkerhedsdirektivet)"]:::eu
+    eu_dir_2014_52["Direktiv 2014/52/EU om ændring af VVM-direktivet"]:::eu
+    eu_dir_1992_43["Direktiv 92/43/EØF om bevaring af naturtyper samt vilde dyr og planter (habitatdirektivet)"]:::eu
+    eu_dir_2014_30["EMC-direktivet 2014/30/EU"]:::eu
     eu_kommissionen["Europa-Kommissionen"]:::eu
     eu_dir_2018_2001["Europa-Parlamentets og Rådets direktiv (EU) 2018/2001 af 11. december 2018 om fremme af anvendelsen af energi fra vedvarende energikilder (omarbejdning) (RED II), som ændret ved direktiv (EU) 2023/2413"]:::eu
+    eu_dir_2005_36["Europa-Parlamentets og Rådets direktiv 2005/36/EF af 7. september 2005 om anerkendelse af erhvervsmæssige kvalifikationer"]:::eu
     eu_reg_2019_943["Forordning (EU) 2019/943 om det indre marked for elektricitet (elmarkedsforordningen), som ændret ved 2024/1747"]:::eu
     eu_reg_2011_1227["Forordning (EU) nr. 1227/2011 om integritet og gennemsigtighed på engrosenergimarkederne (REMIT), som ændret ved (EU) 2024/1106"]:::eu
     eu_reg_2019_1020["Markedsovervågningsforordningen (EU) 2019/1020"]:::eu
+    eu_dir_2014_53["Radioudstyrsdirektivet 2014/53/EU (RED)"]:::eu
     eu_dir_2012_18["Seveso III-direktivet (direktiv 2012/18/EU om kontrol med risikoen for større uheld med farlige stoffer)"]:::eu
     org_energinet["Energinet"]:::instans
     sty_energistyrelsen["Energistyrelsen"]:::instans
@@ -67,12 +75,15 @@ flowchart LR
     naevn_landinspektoernaevnet["Landinspektørnævnet"]:::klage
     min_miljoe["Miljøministeriet"]:::ministerium
     bek_co2_forskningslagring["Bekendtgørelse om geologisk lagring af CO2 på under 100 kt til forsknings-, udviklings- eller afprøvningsformål (BEK nr 974 af 22/06/2022) (ophævet)"]:::nedlagt
+    eu_dir_2018_844["Direktiv (EU) 2018/844 om ændring af direktiv 2010/31/EU om bygningers energimæssige ydeevne og direktiv 2012/27/EU om energieffektivitet (ophævet)"]:::nedlagt
     eu_dir_2009_125["Direktiv 2009/125/EF om rammerne for krav til miljøvenligt design af energirelaterede produkter (ecodesigndirektivet) (ophævet)"]:::nedlagt
     eu_dir_2010_31["Direktiv 2010/31/EU om bygningers energimæssige ydeevne (EPBD, som ændret ved 2018/844) (ophævet)"]:::nedlagt
     tilsyn_energitilsynet["Energitilsynet (nedlagt)"]:::nedlagt
+    eu_dir_2012_27["Europa-Parlamentets og Rådets direktiv 2012/27/EU af 25. oktober 2012 om energieffektivitet (EED) (ophævet)"]:::nedlagt
     sty_sikkerhedsstyrelsen["Sikkerhedsstyrelsen (nedlagt)"]:::nedlagt
     bek_co2_kvoter["Bekendtgørelse om CO2-kvoter m.v. (BEK nr 1386 af 02/12/2024, ændret ved BEK nr 1453 af 01/12/2025)"]:::retsakt
     bek_ens_opgaver["Bekendtgørelse om Energistyrelsens opgaver og beføjelser"]:::retsakt
+    bek_gst_opgaver["Bekendtgørelse om Geodatastyrelsens opgaver og beføjelser (BEK nr. 987/2024)"]:::retsakt
     bek_haandbog_energikonsulenter["Bekendtgørelse om Håndbog for Energikonsulenter (HB2023)"]:::retsakt
     bek_vandsektortilsynet["Bekendtgørelse om Vandsektortilsynets virksomhed"]:::retsakt
     bek_affald["Bekendtgørelse om affald (affaldsbekendtgørelsen)"]:::retsakt
@@ -103,12 +114,14 @@ flowchart LR
     bek_affaldsvarmeprisloft["Bekendtgørelse om prisloft for affaldsvarme (affaldsvarmeprisloftbekendtgørelsen), BEK nr 1479 af 02/12/2025"]:::retsakt
     bek_spildevand["Bekendtgørelse om spildevandsplanen og spildevandstilladelser m.v. efter miljøbeskyttelseslovens kapitel 3 og 4 (spildevandsbekendtgørelsen)"]:::retsakt
     bek_systemansvar["Bekendtgørelse om systemansvarlig virksomhed og anvendelse af eltransmissionsnettet m.v. (systemansvarsbekendtgørelsen), 2025-udgave"]:::retsakt
+    bek_campingreglement["Bekendtgørelse om tilladelse til udlejning af arealer til campering og om indretning og benyttelse af campingpladser (campingreglementet) (BEK nr. 319 af 28/03/2019)"]:::retsakt
     bek_tilslutning_varme["Bekendtgørelse om tilslutning m.v. til kollektive varmeforsyningsanlæg (tilslutningsbekendtgørelsen)"]:::retsakt
     bek_udstykningskontrol["Bekendtgørelse om udstykningskontrol (BEK nr. 601 af 28/05/2025)"]:::retsakt
     bek_energinet_oekonomi["Bekendtgørelse om økonomisk regulering af Energinet og dennes helejede datterselskaber (BEK nr 1559 af 06/12/2024)"]:::retsakt
     tf_energinet_forskrifter["Energinets tekniske forskrifter og markedsforskrifter (el og gas)"]:::retsakt
     vejl_ens_energivejledninger["Energistyrelsens vejledninger og fortolkningsbidrag (energimærkning, varmeforsyning, VE, energieffektivitet)"]:::retsakt
     vejl_forsyningstilsynet_vejledninger["Forsyningstilsynets vejledninger og udmeldinger (fx REMIT-vejledning om balanceansvarlige aktører april 2026, årlige prisloftudmeldinger for affalds- og overskudsvarme)"]:::retsakt
+    lov_forvaltningsloven["Forvaltningsloven"]:::retsakt
     plan_affaldsplan["Kommunal affaldsplan (fx Affaldsplan 2025-2036)"]:::retsakt
     plan_varmeplanlaegning["Kommunal varmeplanlægning og projektgodkendelser"]:::retsakt
     reg_affaldsregulativer["Kommunale affaldsregulativer"]:::retsakt
@@ -208,7 +221,7 @@ flowchart LR
     lov_klimaloven -->|hjemmel_for| raad_klimaraadet
     lov_kontinentalsokkelloven -.->|hjemmel_for| sty_energistyrelsen
     lov_landinspektoerloven -->|hjemmel_for| naevn_landinspektoernaevnet
-    lov_miljoebeskyttelsesloven -.->|hjemmel_for| bek_affald
+    lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_affald
     lov_miljoebeskyttelsesloven -.->|hjemmel_for| bek_affaldsaktoer
     lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_affaldstilsyn
     lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_badevand
@@ -232,7 +245,7 @@ flowchart LR
     lov_miljoebeskyttelsesloven -->|hjemmel_for| sty_miljoestyrelsen
     lov_miljoevurderingsloven -->|hjemmel_for| sty_energistyrelsen
     lov_udstykningsloven -.->|hjemmel_for| bek_matrikel
-    lov_udstykningsloven -.->|hjemmel_for| bek_udstykningskontrol
+    lov_udstykningsloven -->|hjemmel_for| bek_udstykningskontrol
     lov_udstykningsloven -->|hjemmel_for| kommune_alle
     lov_udstykningsloven -->|hjemmel_for| sty_geodatastyrelsen
     lov_undergrundsloven -->|hjemmel_for| bek_co2_forskningslagring
@@ -251,13 +264,13 @@ flowchart LR
     lov_ve_loven -->|hjemmel_for| naevn_energiklagenaevnet
     lov_ve_loven -->|hjemmel_for| org_energinet
     lov_ve_loven -->|hjemmel_for| tilsyn_forsyningstilsynet
-    bek_affald -.->|implementerer_EU| eu_dir_2008_98
+    bek_affald -->|implementerer_EU| eu_dir_2008_98
     bek_co2_kvoter -.->|implementerer_EU| eu_dir_2003_87
     bek_energieffektivisering_offentlige -->|implementerer_EU| eu_dir_2023_1791
-    bek_energimaerkning -.->|implementerer_EU| eu_dir_2010_31
-    bek_energisyn -.->|implementerer_EU| eu_dir_2023_1791
-    bek_haandbog_energikonsulenter -.->|implementerer_EU| eu_dir_2010_31
-    bek_projektbekendtgoerelsen -.->|implementerer_EU| eu_dir_2023_1791
+    bek_energimaerkning -->|implementerer_EU| eu_dir_2010_31
+    bek_energisyn -->|implementerer_EU| eu_dir_2023_1791
+    bek_haandbog_energikonsulenter -->|implementerer_EU| eu_dir_2010_31
+    bek_projektbekendtgoerelsen -->|implementerer_EU| eu_dir_2023_1791
     lov_co2_kvoteloven -->|implementerer_EU| eu_dir_2003_87
     lov_co2_kvoteloven -->|implementerer_EU| eu_dir_2023_959
     lov_ecodesignloven -->|implementerer_EU| eu_dir_2009_125
@@ -266,8 +279,8 @@ flowchart LR
     lov_elforsyningsloven -->|implementerer_EU| eu_dir_2018_2001
     lov_elforsyningsloven -->|implementerer_EU| eu_dir_2019_944
     lov_elforsyningsloven -.->|implementerer_EU| eu_reg_2019_943
-    lov_energimaerkningsloven -.->|implementerer_EU| eu_dir_2010_31
-    lov_energinetloven -.->|implementerer_EU| eu_dir_2019_944
+    lov_energimaerkningsloven -->|implementerer_EU| eu_dir_2010_31
+    lov_energinetloven -->|implementerer_EU| eu_dir_2019_944
     lov_forsyningstilsynsloven -.->|implementerer_EU| eu_dir_2019_944
     lov_forsyningstilsynsloven -.->|implementerer_EU| eu_dir_2024_1788
     lov_gasforsyningsloven -.->|implementerer_EU| eu_dir_2024_1788
@@ -276,13 +289,13 @@ flowchart LR
     lov_miljoebeskyttelsesloven -.->|implementerer_EU| eu_dir_2002_49
     lov_miljoebeskyttelsesloven -->|implementerer_EU| eu_dir_2008_98
     lov_miljoebeskyttelsesloven -->|implementerer_EU| eu_dir_2010_75
-    lov_miljoebeskyttelsesloven -.->|implementerer_EU| eu_dir_2012_18
+    lov_miljoebeskyttelsesloven -->|implementerer_EU| eu_dir_2012_18
     lov_miljoebeskyttelsesloven -.->|implementerer_EU| eu_dir_2024_1785
     lov_undergrundsloven -->|implementerer_EU| eu_dir_2009_31
     lov_varmeforsyningsloven -->|implementerer_EU| eu_dir_2018_2001
     lov_varmeforsyningsloven -->|implementerer_EU| eu_dir_2023_1791
     lov_ve_loven -.->|implementerer_EU| eu_dir_2018_2001
-    lov_ve_loven -.->|implementerer_EU| eu_dir_2023_2413
+    lov_ve_loven -->|implementerer_EU| eu_dir_2023_2413
     dom_domstolene -->|klageinstans| sty_geodatastyrelsen
     naevn_energiklagenaevnet -->|klageinstans| org_energinet
     naevn_energiklagenaevnet -->|klageinstans| sty_energistyrelsen
@@ -356,6 +369,43 @@ flowchart LR
     sty_klimadatastyrelsen -->|udsteder| kilde_datafordeleren
     tilsyn_forsyningstilsynet -->|udsteder| kilde_forsyningstilsynet_afgoerelser
     tilsyn_forsyningstilsynet -->|udsteder| vejl_forsyningstilsynet_vejledninger
+    lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_campingreglement
+    bek_energieffektivisering_offentlige -->|implementerer_EU| eu_dir_2018_2001
+    lov_forvaltningsloven -->|hjemmel_for| bek_energimaerkning
+    bek_energimaerkning -->|implementerer_EU| eu_dir_2005_36
+    bek_energimaerkning -->|implementerer_EU| eu_dir_2012_27
+    lov_elforsyningsloven -->|hjemmel_for| bek_energinet_oekonomi
+    lov_landinspektoerloven -->|hjemmel_for| bek_gst_opgaver
+    bek_projektbekendtgoerelsen -->|implementerer_EU| eu_dir_2018_844
+    bek_projektbekendtgoerelsen -->|implementerer_EU| eu_dir_2018_2001
+    bek_projektbekendtgoerelsen -->|implementerer_EU| eu_dir_2019_944
+    bek_systemansvar -->|implementerer_EU| eu_dir_2018_2001
+    bek_systemansvar -->|implementerer_EU| eu_dir_2019_944
+    bek_systemansvar -->|implementerer_EU| eu_dir_2023_1791
+    lov_ecodesignloven -->|implementerer_EU| eu_dir_2014_30
+    lov_ecodesignloven -->|implementerer_EU| eu_dir_2014_53
+    lov_effektiv_energianvendelse -->|implementerer_EU| eu_dir_2012_27
+    lov_elforsyningsloven -->|implementerer_EU| eu_dir_1992_43
+    lov_elforsyningsloven -->|implementerer_EU| eu_dir_2023_1791
+    lov_energimaerkningsloven -->|implementerer_EU| eu_dir_2005_36
+    lov_energimaerkningsloven -->|implementerer_EU| eu_dir_2018_2001
+    lov_energimaerkningsloven -->|implementerer_EU| eu_dir_2023_1791
+    lov_energinetloven -->|implementerer_EU| eu_dir_1992_43
+    lov_energinetloven -->|implementerer_EU| eu_dir_2018_2001
+    lov_kontinentalsokkelloven -->|implementerer_EU| eu_dir_1992_43
+    lov_kontinentalsokkelloven -->|implementerer_EU| eu_dir_2014_52
+    lov_landinspektoerloven -->|implementerer_EU| eu_dir_2005_36
+    lov_miljoebeskyttelsesloven -->|implementerer_EU| eu_dir_1992_43
+    lov_miljoebeskyttelsesloven -->|implementerer_EU| eu_dir_2004_35
+    lov_miljoebeskyttelsesloven -->|implementerer_EU| eu_dir_2011_92
+    lov_undergrundsloven -->|implementerer_EU| eu_dir_1992_43
+    lov_undergrundsloven -->|implementerer_EU| eu_dir_2011_92
+    lov_undergrundsloven -->|implementerer_EU| eu_dir_2013_30
+    lov_undergrundsloven -->|implementerer_EU| eu_dir_2018_2001
+    lov_varmeforsyningsloven -->|implementerer_EU| eu_dir_2010_31
+    lov_ve_loven -->|implementerer_EU| eu_dir_2005_36
+    lov_ve_loven -->|implementerer_EU| eu_dir_2010_31
+    lov_ve_loven -->|implementerer_EU| eu_dir_2012_27
     bek_miljoeaktiviteter -->|hjemmel_for| reg_forskrifter_bygge_anlaeg
     bek_miljoetilsyn -.->|hjemmel_for| kilde_dma
     bek_spildevand -->|hjemmel_for| plan_spildevandsplan

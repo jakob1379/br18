@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 28 · kanter: 60
+Noder: 38 · kanter: 71
 
 ```mermaid
 flowchart LR
@@ -21,7 +21,9 @@ flowchart LR
     kommune_redningsberedskaber["Fælleskommunale redningsberedskaber (§ 60-fællesskaber med fælles beredskabskommission)"]:::instans
     kommune_alle["Kommunerne (98 kommunalbestyrelser)"]:::instans
     sty_styrelsen_for_samfundssikkerhed["Styrelsen for Samfundssikkerhed"]:::instans
+    sty_soefartsstyrelsen["Søfartsstyrelsen"]:::instans
     kilde_brs_dk["brs.dk (Beredskabsstyrelsen)"]:::kilde
+    naevn_ankenaevnet_for_soefartsforhold["Ankenævnet for Søfartsforhold"]:::klage
     dom_domstolene["Domstolene (byret, landsret, Højesteret)"]:::klage
     ombud_folketingets_ombudsmand["Folketingets Ombudsmand"]:::klage
     bek_driftsmaessige_forskrifter["Driftsmæssige forskrifter for hoteller m.v., plejeinstitutioner, forsamlingslokaler, undervisningslokaler, daginstitutioner og butikker (BEK nr. 212 af 27/03/2008), ophævet 1/1/2022 (ophævet)"]:::nedlagt
@@ -31,17 +33,25 @@ flowchart LR
     tf_brandfarlige_vaesker["Bekendtgørelse om brandfarlige og brændbare væsker (BEK nr. 1639 af 06/12/2016), tidligere 'tekniske forskrifter for brandfarlige væsker'"]:::retsakt
     bek_br18["Bekendtgørelse om bygningsreglement 2018 (BR18)"]:::retsakt
     bek_brs_henlaeggelse["Bekendtgørelse om henlæggelse af beføjelsen til at fastsætte regler til Beredskabsstyrelsen og om klageadgang (BEK nr. 1913 af 2015)"]:::retsakt
+    bek_soefartsstyrelsen_henlaeggelse["Bekendtgørelse om henlæggelse af visse beføjelser til Søfartsstyrelsen og om klageadgang m.v. (BEK nr. 261 af 23/03/2020)"]:::retsakt
     bek_eksplosionsfarlige_omraader["Bekendtgørelse om klassifikation af eksplosionsfarlige områder (BEK nr. 590 af 26/06/2003)"]:::retsakt
     bek_brs_ophaevelse_2021["Bekendtgørelse om ophævelse af visse bekendtgørelser på Beredskabsstyrelsens område (BEK nr 2340 af 2021)"]:::retsakt
     bek_risikobaseret_dimensionering["Bekendtgørelse om risikobaseret dimensionering og planer for det kommunale redningsberedskab (dimensioneringsbekendtgørelsen)"]:::retsakt
     tf_braendbare_faste_stoffer["Bekendtgørelse om tekniske forskrifter for brændbare faste stoffer (BEK nr. 1070 af 29/06/2020)"]:::retsakt
     tf_gasser["Bekendtgørelse om tekniske forskrifter for gasser (BEK nr. 1444 af 15/12/2010), herunder F-gas (flaskegas)"]:::retsakt
+    bek_campingreglement["Bekendtgørelse om tilladelse til udlejning af arealer til campering og om indretning og benyttelse af campingpladser (campingreglementet) (BEK nr. 319 af 28/03/2019)"]:::retsakt
     lov_beredskabsloven["Beredskabsloven"]:::retsakt
     vejl_brs_vejledninger["Beredskabsstyrelsens vejledninger og meddelelser (bl.a. om brandsyn, tekniske forskrifter, eksplosionsfarlige områder og risikobaseret dimensionering)"]:::retsakt
     bek_brandsyn["Brandsynsbekendtgørelsen (bekendtgørelse om brandsyn), BEK nr. 2341 af 09/12/2021"]:::retsakt
     lov_byggeloven["Byggeloven (lov om byggeri)"]:::retsakt
+    lov_lodsloven["Lodsloven (Bekendtgørelse af lodslov)"]:::retsakt
+    lov_dis_loven["Lov om Dansk Internationalt Skibsregister (DIS-loven)"]:::retsakt
+    lov_sikkerhed_til_soes["Lov om sikkerhed til søs"]:::retsakt
+    lov_skibes_besaetning["Lov om skibes besætning"]:::retsakt
+    lov_soefarendes_ansaettelsesforhold["Lov om søfarendes ansættelsesforhold m.v."]:::retsakt
     plan_risikobaseret_dimensionering["Plan for risikobaseret dimensionering af det kommunale redningsberedskab"]:::retsakt
     bek_risiko["Risikobekendtgørelsen (bekendtgørelse om kontrol med risikoen for større uheld med farlige stoffer)"]:::retsakt
+    lov_soeloven["Søloven"]:::retsakt
     min_samfundssikkerhed_og_beredskab -->|delegation| sty_beredskabsstyrelsen
     bek_br18 -.->|henviser_til| lov_beredskabsloven
     bek_brandsyn -->|henviser_til| bek_br18
@@ -101,6 +111,17 @@ flowchart LR
     sty_beredskabsstyrelsen -->|udsteder| tf_brandfarlige_vaesker
     sty_beredskabsstyrelsen -->|udsteder| tf_gasser
     sty_beredskabsstyrelsen -->|udsteder| vejl_brs_vejledninger
+    min_samfundssikkerhed_og_beredskab -->|ressortansvar| lov_lodsloven
+    min_samfundssikkerhed_og_beredskab -.->|ressortansvar| bek_soefartsstyrelsen_henlaeggelse
+    lov_lodsloven -->|hjemmel_for| sty_soefartsstyrelsen
+    lov_sikkerhed_til_soes -->|hjemmel_for| bek_soefartsstyrelsen_henlaeggelse
+    bek_soefartsstyrelsen_henlaeggelse -.->|hjemmel_for| naevn_ankenaevnet_for_soefartsforhold
+    lov_beredskabsloven -->|hjemmel_for| bek_campingreglement
+    lov_dis_loven -->|hjemmel_for| bek_soefartsstyrelsen_henlaeggelse
+    lov_lodsloven -->|hjemmel_for| bek_soefartsstyrelsen_henlaeggelse
+    lov_soefarendes_ansaettelsesforhold -->|hjemmel_for| bek_soefartsstyrelsen_henlaeggelse
+    lov_soeloven -->|hjemmel_for| bek_soefartsstyrelsen_henlaeggelse
+    lov_skibes_besaetning -->|hjemmel_for| bek_soefartsstyrelsen_henlaeggelse
     bek_risiko -->|implementerer_EU| eu_dir_2012_18
 ```
 

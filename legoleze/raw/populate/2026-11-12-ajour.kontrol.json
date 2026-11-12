@@ -27,7 +27,8 @@
   "hvor": "bek-almen-stoette.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2026/40",
   "status": "Historic",
-  "ministerium": "Social- og Boligministeriet"
+  "ministerium": "Social- og Boligministeriet",
+  "flyttet_til": "BEK nr. 735 af 01/09/2026 Bekendtgørelse om støtte til almene boliger m.v."
  },
  {
   "hvor": "bek-almen-udlejning.identifikatorer",
@@ -57,7 +58,8 @@
   "hvor": "bek-atex-produkter.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2022/811",
   "status": "Historic",
-  "ministerium": "Erhvervsministeriet"
+  "ministerium": "Erhvervsministeriet",
+  "flyttet_til": "BEK nr. 484 af 28/05/2026 Bekendtgørelse om produkter til anvendelse i en potentielt eksplosiv atmosfære"
  },
  {
   "hvor": "bek-autorisation.identifikatorer",
@@ -75,7 +77,8 @@
   "hvor": "bek-bekaempelsesmidler.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2025/952",
   "status": "Historic",
-  "ministerium": "Miljø- og Ligestillingsministeriet"
+  "ministerium": "Miljø- og Ligestillingsministeriet",
+  "flyttet_til": "BEK nr. 1516 af 02/12/2025 Bekendtgørelse om bekæmpelsesmidler"
  },
  {
   "hvor": "bek-br18.identifikatorer",
@@ -249,7 +252,8 @@
   "hvor": "bek-gst-opgaver.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2024/987",
   "status": "Historic",
-  "ministerium": "Klima-, Energi- og Forsyningsministeriet"
+  "ministerium": "Klima-, Energi- og Forsyningsministeriet",
+  "flyttet_til": "BEK nr. 1791 af 29/12/2025 Bekendtgørelse om henlæggelse af opgaver og beføjelser til Geodatastyrelsen"
  },
  {
   "hvor": "bek-haandbog-energikonsulenter.identifikatorer",
@@ -303,13 +307,15 @@
   "hvor": "bek-kontrol-risiko-stoerre-uheld.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2016/370",
   "status": "Historic",
-  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet",
+  "flyttet_til": "BEK nr. 600 af 29/06/2026 Bekendtgørelse om kontrol med arbejdsmiljøet ved risiko for større uheld med farlige stoffer"
  },
  {
   "hvor": "bek-kraeftrisiko.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2025/1347",
   "status": "Historic",
-  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet",
+  "flyttet_til": "BEK nr. 582 af 25/06/2026 Bekendtgørelse om foranstaltninger til forebyggelse af risikoen ved arbejde med kræftfremkaldende, mutagene eller reproduktionstoksiske stoffer og materialer"
  },
  {
   "hvor": "bek-ladestandere.identifikatorer",
@@ -327,7 +333,8 @@
   "hvor": "bek-maskinforordning-supplerende.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2024/727",
   "status": "Historic",
-  "ministerium": "Erhvervsministeriet"
+  "ministerium": "Erhvervsministeriet",
+  "flyttet_til": "BEK nr. 956 af 03/11/2026 Bekendtgørelse om supplerende bestemmelser til Europa-Parlamentets og Rådets forordning om maskiner"
  },
  {
   "hvor": "bek-miljoeaktiviteter.identifikatorer",
@@ -453,7 +460,8 @@
   "hvor": "bek-systemansvar.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2025/1206",
   "status": "Historic",
-  "ministerium": "Klima-, Energi- og Forsyningsministeriet"
+  "ministerium": "Klima-, Energi- og Forsyningsministeriet",
+  "flyttet_til": "BEK nr. 895 af 09/10/2026 Bekendtgørelse om systemansvarlig virksomhed og anvendelse af eltransmissionsnettet m.v."
  },
  {
   "hvor": "bek-systematisk-arbejdsmiljoearbejde.identifikatorer",
@@ -507,7 +515,8 @@
   "hvor": "bek-varme-prisregulering-indberetning.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2025/852",
   "status": "Valid",
-  "ministerium": "Klima-, Energi- og Forsyningsministeriet"
+  "ministerium": "Klima-, Energi- og Forsyningsministeriet",
+  "titel_afviger": "Bekendtgørelse om ændring af bekendtgørelse om anmeldelse af tariffer, omkostningsfordelinger og andre betingelser for levering af fjernvarme samt varmeproduktionsomkostninger til brug for fastsættelse af prisloft m.v."
  },
  {
   "hvor": "bek-vd-opgaver.identifikatorer",
@@ -667,10 +676,9 @@
  },
  {
   "hvor": "lov-erhvervslejeloven.identifikatorer",
-  "eli": "https://www.retsinformation.dk/eli/lta/2018/1218",
-  "status": "Historic",
-  "ministerium": "Erhvervsministeriet",
-  "flyttet_til": "LBK nr. 1446 af 09/11/2022 Bekendtgørelse af lov om leje af erhvervslokaler m.v. (erhvervslejelov)"
+  "eli": "https://www.retsinformation.dk/eli/lta/2022/1446",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
  },
  {
   "hvor": "lov-forsyningstilsynsloven.identifikatorer",
@@ -716,10 +724,9 @@
  },
  {
   "hvor": "lov-havstrategiloven.identifikatorer",
-  "eli": "https://www.retsinformation.dk/eli/lta/2019/1161",
-  "status": "Historic",
-  "ministerium": "Miljø- og Ligestillingsministeriet",
-  "flyttet_til": "LBK nr. 123 af 01/02/2024 Bekendtgørelse af lov om havstrategi"
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/123",
+  "status": "Valid",
+  "ministerium": "Miljø- og Ligestillingsministeriet"
  },
  {
   "hvor": "lov-husdyrbrugloven.identifikatorer",
@@ -974,271 +981,308 @@
   "ministerium": "Forsknings-, Uddannelses- og Digitaliseringsministeriet"
  },
  {
+  "hvor": "vejl-at-bygge-og-anlaeg.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/retsinfo/2025/10211",
+  "status": "Historic",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "vejl-at-bygherrens-pligter.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/retsinfo/2025/10212",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "vejl-at-vejledninger.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/retsinfo/2025/10211",
+  "status": "Historic",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet",
+  "titel_afviger": "AT-vejledning om bygge- og anlægsarbejde"
+ },
+ {
+  "hvor": "vejl-boligstoette-satser.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/retsinfo/2025/10077",
+  "status": "Historic",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet",
+  "titel_afviger": "Vejledning om regulering pr. 1. januar 2026 af satser på Beskæftigelsesministeriets område"
+ },
+ {
+  "hvor": "vejl-fingerplan-2019.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/retsinfo/2019/9281",
+  "status": "Valid",
+  "ministerium": "By-, Land- og Transportministeriet"
+ },
+ {
+  "hvor": "vejl-habitatvejledning.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/retsinfo/2019/10226",
+  "status": "Valid",
+  "ministerium": "Ministeriet for Natur og Dyrevelfærd",
+  "titel_afviger": "Vejledning om naturbeskyttelseslovens § 3-beskyttede naturtyper"
+ },
+ {
+  "hvor": "vejl-lokalplanlaegning.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/retsinfo/2009/9922",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "vejl-lovkvalitet.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/retsinfo/2023/9964",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet"
+ },
+ {
+  "hvor": "vejl-miljoeoplysningsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/retsinfo/2006/10564",
+  "status": "Valid",
+  "ministerium": "Miljø- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "vejl-offentlighedsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/retsinfo/2013/9847",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet"
+ },
+ {
+  "hvor": "vejl-planloven-vejledninger.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/retsinfo/2019/10076",
+  "status": "Valid",
+  "ministerium": "By-, Land- og Transportministeriet",
+  "titel_afviger": "Vejledning om landzoneadministration Planlovens §§ 34-38"
+ },
+ {
+  "hvor": "vejl-satsvejledning-leje-almen.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/retsinfo/2025/9886",
+  "status": "Valid",
+  "ministerium": "Social- og Boligministeriet"
+ },
+ {
   "hvor": "lov-skatteforvaltningsloven.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2025/1228",
   "status": "Valid",
-  "ministerium": "Skatte- og Vækstministeriet",
-  "dokumenttyper": "lovbekendtgørelse"
+  "ministerium": "Skatte- og Vækstministeriet"
  },
  {
   "hvor": "lov-spilleloven.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2025/1182",
   "status": "Valid",
-  "ministerium": "Skatte- og Vækstministeriet",
-  "dokumenttyper": "lovbekendtgørelse"
+  "ministerium": "Skatte- og Vækstministeriet"
  },
  {
   "hvor": "lov-it-tilsynsloven.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2020/2187",
   "status": "Valid",
-  "ministerium": "Skatte- og Vækstministeriet",
-  "dokumenttyper": "lov"
+  "ministerium": "Skatte- og Vækstministeriet"
  },
  {
   "hvor": "bek-skatteforvaltningens-opgaver.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2018/804",
   "status": "Valid",
-  "ministerium": "Skatte- og Vækstministeriet",
-  "dokumenttyper": "bekendtgørelse"
+  "ministerium": "Skatte- og Vækstministeriet"
  },
  {
   "hvor": "bek-skatteankestyrelsen.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2021/2372",
   "status": "Valid",
-  "ministerium": "Skatte- og Vækstministeriet",
-  "dokumenttyper": "bekendtgørelse"
+  "ministerium": "Skatte- og Vækstministeriet"
  },
  {
   "hvor": "bek-skatteankestyrelsen-visse-klager.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2023/967",
   "status": "Valid",
-  "ministerium": "Skatte- og Vækstministeriet",
-  "dokumenttyper": "bekendtgørelse"
+  "ministerium": "Skatte- og Vækstministeriet"
  },
  {
   "hvor": "bek-skatteraadet-forretningsorden.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2005/1035",
   "status": "Valid",
-  "ministerium": "Skatte- og Vækstministeriet",
-  "dokumenttyper": "bekendtgørelse"
+  "ministerium": "Skatte- og Vækstministeriet"
  },
  {
   "hvor": "bek-landsskatteretten-forretningsorden.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2021/2373",
   "status": "Valid",
-  "ministerium": "Skatte- og Vækstministeriet",
-  "dokumenttyper": "bekendtgørelse"
+  "ministerium": "Skatte- og Vækstministeriet"
  },
  {
   "hvor": "bek-skatteankenaevn-forretningsorden.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2022/1041",
   "status": "Valid",
-  "ministerium": "Skatte- og Vækstministeriet",
-  "dokumenttyper": "bekendtgørelse"
+  "ministerium": "Skatte- og Vækstministeriet"
  },
  {
   "hvor": "bek-vurderingsankenaevn-forretningsorden.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2021/2289",
   "status": "Valid",
-  "ministerium": "Skatte- og Vækstministeriet",
-  "dokumenttyper": "bekendtgørelse"
+  "ministerium": "Skatte- og Vækstministeriet"
  },
  {
   "hvor": "bek-motorankenaevn-forretningsorden.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2022/1043",
   "status": "Valid",
-  "ministerium": "Skatte- og Vækstministeriet",
-  "dokumenttyper": "bekendtgørelse"
+  "ministerium": "Skatte- og Vækstministeriet"
  },
  {
   "hvor": "bek-spillemyndigheden.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2011/1121",
   "status": "Valid",
-  "ministerium": "Skatte- og Vækstministeriet",
-  "dokumenttyper": "bekendtgørelse"
+  "ministerium": "Skatte- og Vækstministeriet"
  },
  {
   "hvor": "lov-sundhedsloven.identifikatorer",
-  "eli": "https://www.retsinformation.dk/eli/lta/2025/275",
-  "status": "Historic",
-  "ministerium": "Indenrigs- og Sundhedsministeriet",
-  "flyttet_til": "LBK nr. 896 af 05/10/2026 Bekendtgørelse af sundhedsloven",
-  "dokumenttyper": "lovbekendtgørelse"
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/896",
+  "status": "Valid",
+  "ministerium": "Sundheds- og Kirkeministeriet"
  },
  {
   "hvor": "lov-autorisation-sundhedspersoner.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2024/1008",
   "status": "Valid",
-  "ministerium": "Indenrigs- og Sundhedsministeriet",
-  "dokumenttyper": "lovbekendtgørelse"
+  "ministerium": "Indenrigs- og Sundhedsministeriet"
  },
  {
   "hvor": "lov-klage-og-erstatningsloven.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2025/1250",
   "status": "Valid",
-  "ministerium": "Indenrigs- og Sundhedsministeriet",
-  "dokumenttyper": "lovbekendtgørelse"
+  "ministerium": "Indenrigs- og Sundhedsministeriet"
  },
  {
   "hvor": "lov-laegemiddelloven.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2023/339",
   "status": "Valid",
-  "ministerium": "Indenrigs- og Sundhedsministeriet",
-  "dokumenttyper": "lovbekendtgørelse"
+  "ministerium": "Indenrigs- og Sundhedsministeriet"
  },
  {
   "hvor": "lov-psykiatriloven.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2024/1045",
   "status": "Valid",
-  "ministerium": "Indenrigs- og Sundhedsministeriet",
-  "dokumenttyper": "lovbekendtgørelse"
+  "ministerium": "Indenrigs- og Sundhedsministeriet"
  },
  {
   "hvor": "bek-forretningsorden-disciplinaernaevn.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2024/1496",
   "status": "Valid",
-  "ministerium": "Indenrigs- og Sundhedsministeriet",
-  "dokumenttyper": "bekendtgørelse"
+  "ministerium": "Indenrigs- og Sundhedsministeriet"
  },
  {
   "hvor": "bek-forretningsorden-ankenaevnet-for-patienterstatningen.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2024/921",
   "status": "Valid",
-  "ministerium": "Indenrigs- og Sundhedsministeriet",
-  "dokumenttyper": "bekendtgørelse"
+  "ministerium": "Indenrigs- og Sundhedsministeriet"
  },
  {
   "hvor": "bek-forretningsorden-tvangsbehandlingsnaevnet.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2018/979",
   "status": "Valid",
-  "ministerium": "Indenrigs- og Sundhedsministeriet",
-  "dokumenttyper": "bekendtgørelse"
+  "ministerium": "Indenrigs- og Sundhedsministeriet"
  },
  {
   "hvor": "bek-forretningsorden-psykiatriske-patientklagenaevn.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2023/171",
   "status": "Valid",
-  "ministerium": "Indenrigs- og Sundhedsministeriet",
-  "dokumenttyper": "bekendtgørelse"
+  "ministerium": "Indenrigs- og Sundhedsministeriet"
  },
  {
   "hvor": "bek-forretningsorden-psykiatriske-ankenaevn.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2019/1076",
   "status": "Valid",
-  "ministerium": "Indenrigs- og Sundhedsministeriet",
-  "dokumenttyper": "bekendtgørelse"
+  "ministerium": "Indenrigs- og Sundhedsministeriet"
  },
  {
   "hvor": "bek-vedtaegter-patienterstatningen.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2024/1724",
   "status": "Valid",
-  "ministerium": "Indenrigs- og Sundhedsministeriet",
-  "dokumenttyper": "bekendtgørelse"
+  "ministerium": "Indenrigs- og Sundhedsministeriet"
  },
  {
   "hvor": "bek-forretningsorden-laegemiddelnaevnet.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2013/1214",
   "status": "Valid",
-  "ministerium": "Indenrigs- og Sundhedsministeriet",
-  "dokumenttyper": "bekendtgørelse"
+  "ministerium": "Indenrigs- og Sundhedsministeriet"
  },
  {
   "hvor": "bek-patientklager-screening-af-klager.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2024/1486",
   "status": "Valid",
-  "ministerium": "Indenrigs- og Sundhedsministeriet",
-  "dokumenttyper": "bekendtgørelse"
+  "ministerium": "Indenrigs- og Sundhedsministeriet"
  },
  {
   "hvor": "bek-ikke-autoriserede-persongrupper-disciplinaernaevn.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2025/1663",
   "status": "Valid",
-  "ministerium": "Indenrigs- og Sundhedsministeriet",
-  "dokumenttyper": "bekendtgørelse"
+  "ministerium": "Indenrigs- og Sundhedsministeriet"
  },
  {
   "hvor": "lov-finansiel-virksomhed.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2026/432",
   "status": "Valid",
-  "ministerium": "Erhvervsministeriet",
-  "dokumenttyper": "lovbekendtgørelse"
+  "ministerium": "Erhvervsministeriet"
  },
  {
   "hvor": "lov-kapitalmarkedsloven.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2026/464",
   "status": "Valid",
-  "ministerium": "Erhvervsministeriet",
-  "dokumenttyper": "lovbekendtgørelse"
+  "ministerium": "Erhvervsministeriet"
  },
  {
   "hvor": "lov-hvidvaskloven.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2026/433",
   "status": "Valid",
-  "ministerium": "Erhvervsministeriet",
-  "dokumenttyper": "lovbekendtgørelse"
+  "ministerium": "Erhvervsministeriet"
  },
  {
   "hvor": "lov-lov-om-betalinger.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2026/463",
   "status": "Valid",
-  "ministerium": "Erhvervsministeriet",
-  "dokumenttyper": "lovbekendtgørelse"
+  "ministerium": "Erhvervsministeriet"
  },
  {
   "hvor": "lov-forsikringsvirksomhed.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2026/461",
   "status": "Valid",
-  "ministerium": "Erhvervsministeriet",
-  "dokumenttyper": "lovbekendtgørelse"
+  "ministerium": "Erhvervsministeriet"
  },
  {
   "hvor": "lov-restrukturering-og-afvikling.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2019/24",
   "status": "Valid",
-  "ministerium": "Erhvervsministeriet",
-  "dokumenttyper": "lovbekendtgørelse"
+  "ministerium": "Erhvervsministeriet"
  },
  {
   "hvor": "lov-indskyder-og-investorgarantiordning.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2024/39",
   "status": "Valid",
-  "ministerium": "Erhvervsministeriet",
-  "dokumenttyper": "lovbekendtgørelse"
+  "ministerium": "Erhvervsministeriet"
  },
  {
   "hvor": "lov-forbrugerklageloven.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2015/524",
   "status": "Valid",
-  "ministerium": "Erhvervsministeriet",
-  "dokumenttyper": "lov"
+  "ministerium": "Erhvervsministeriet"
  },
  {
   "hvor": "lov-udlaendingeloven.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2026/953",
   "status": "Valid",
-  "ministerium": "Udlændinge- og Integrationsministeriet",
-  "dokumenttyper": "lovbekendtgørelse"
+  "ministerium": "Udlændinge- og Integrationsministeriet"
  },
  {
   "hvor": "lov-hjemrejseloven.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2024/1014",
   "status": "Valid",
-  "ministerium": "Udlændinge- og Integrationsministeriet",
-  "dokumenttyper": "lovbekendtgørelse"
+  "ministerium": "Udlændinge- og Integrationsministeriet"
  },
  {
   "hvor": "bek-forretningsorden-udlaendingenaevnet.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2026/248",
   "status": "Valid",
-  "ministerium": "Udlændinge- og Integrationsministeriet",
-  "dokumenttyper": "bekendtgørelse"
+  "ministerium": "Udlændinge- og Integrationsministeriet"
  },
  {
   "hvor": "bek-forretningsorden-flygtningenaevnet.identifikatorer",
   "eli": "https://www.retsinformation.dk/eli/lta/2017/557",
   "status": "Valid",
-  "ministerium": "Udlændinge- og Integrationsministeriet",
-  "dokumenttyper": "bekendtgørelse"
+  "ministerium": "Udlændinge- og Integrationsministeriet"
  },
  {
   "hvor": "lov-serviceloven.identifikatorer",
@@ -1475,45 +1519,881 @@
   "ministerium": "Ministeriet for Fødevarer, Landbrug og Fiskeri"
  },
  {
-  "hvor": "kant min-by-land-og-transport|ressortansvar|lov-afi-loven",
+  "hvor": "bek-meddelelser-a.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2009/1246",
   "status": "Valid",
-  "ministerium": "By-, Land- og Transportministeriet",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-meddelelser-b.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2016/1512",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-meddelelser-e.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2010/1459",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-meddelelser-f.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2010/1460",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-ankenaevn-soefartsforhold-forretningsorden.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2013/1121",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-skibstilsynsraadet-forretningsorden.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/1996/883",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-soefartsstyrelsen-henlaeggelse.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2020/261",
+  "status": "Valid",
+  "ministerium": "Ministeriet for Samfundssikkerhed og Beredskab"
+ },
+ {
+  "hvor": "lov-sikkerhed-til-soes.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2022/221",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-soeloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/776",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-skibes-besaetning.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1001",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-soefarendes-ansaettelsesforhold.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/335",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-lodsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2023/346",
+  "status": "Valid",
+  "ministerium": "Ministeriet for Samfundssikkerhed og Beredskab"
+ },
+ {
+  "hvor": "lov-dis-loven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2020/390",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-sikkerhedsundersoegelse-soeulykker.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2011/457",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-dataraadet-forretningsorden.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2019/454",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet"
+ },
+ {
+  "hvor": "lov-databeskyttelsesloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/289",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet"
+ },
+ {
+  "hvor": "lov-retshaandhaevelsesloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2017/410",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet"
+ },
+ {
+  "hvor": "lov-tv-overvaagningsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2023/182",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet"
+ },
+ {
+  "hvor": "lov-straffeloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1294",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet"
+ },
+ {
+  "hvor": "lov-politiloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2019/1270",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet"
+ },
+ {
+  "hvor": "lov-straffuldbyrdelsesloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2023/201",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet"
+ },
+ {
+  "hvor": "lov-offererstatningsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1400",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet"
+ },
+ {
+  "hvor": "lov-ungdomskriminalitetsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2018/1705",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet"
+ },
+ {
+  "hvor": "bek-erstatningsnaevnets-behandling-af-ansoegninger.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2021/772",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet"
+ },
+ {
+  "hvor": "bek-forretningsorden-erstatningsnaevnet.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2021/773",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet"
+ },
+ {
+  "hvor": "bek-ungekriminalforsorgens-tilsyn.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/1115",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet"
+ },
+ {
+  "hvor": "bek-ungekriminalforsorgens-reaktioner.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/1116",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet"
+ },
+ {
+  "hvor": "lov-arbejdsretsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/705",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "lov-forligsmandsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1290",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "lov-ligebehandlingsnaevnet.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/1779",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "lov-ligebehandlingsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/942",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "lov-forskelsbehandlingsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/399",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "lov-funktionaerloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2017/1002",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "lov-erhvervsuddannelser.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/381",
+  "status": "Valid",
+  "ministerium": "Børne- og Undervisningsministeriet"
+ },
+ {
+  "hvor": "bek-tvistighedsnaevnet.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2023/1318",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "kant lov-miljoebeskyttelsesloven|hjemmel_for|bek-affald",
   "opgraderet_fra": "sandsynlig"
  },
  {
-  "hvor": "kant min-forskning-uddannelse-og-digitalisering|ressortansvar|lov-videreanvendelsesloven",
-  "status": "Valid",
-  "ministerium": "Forsknings-, Uddannelses- og Digitaliseringsministeriet",
+  "hvor": "kant bek-affald|implementerer_EU|eu-dir-2008-98",
   "opgraderet_fra": "sandsynlig"
  },
  {
-  "hvor": "kant min-klima-energi-og-forsyning|ressortansvar|bek-affald",
-  "status": "Valid",
-  "ministerium": "Klima-, Energi- og Forsyningsministeriet",
+  "hvor": "kant lov-almenlejeloven|hjemmel_for|bek-almen-drift",
+  "ny": true
+ },
+ {
+  "hvor": "kant bek-almen-drift|hjemmel_for|vejl-satsvejledning-leje-almen",
+  "ny": true
+ },
+ {
+  "hvor": "kant bek-arbejdets-udfoerelse|implementerer_EU|eu-dir-1989-391",
+  "ny": true
+ },
+ {
+  "hvor": "kant bek-at-offshore-opgaver|implementerer_EU|eu-dir-2013-30",
+  "ny": true
+ },
+ {
+  "hvor": "kant bek-atex-produkter|implementerer_EU|eu-dir-2014-34",
   "opgraderet_fra": "sandsynlig"
  },
  {
-  "hvor": "kant min-social|ressortansvar|lov-retssikkerhedsloven-social",
-  "status": "Valid",
-  "ministerium": "Socialministeriet",
+  "hvor": "kant bek-autorisation|implementerer_EU|eu-dir-2020-2184",
+  "ny": true
+ },
+ {
+  "hvor": "kant bek-br18|implementerer_EU|eu-dir-2012-27",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-husdyrbrugloven|hjemmel_for|bek-brugerbetaling-miljoe",
+  "ny": true
+ },
+ {
+  "hvor": "kant bek-bygge-og-anlaeg|implementerer_EU|eu-dir-1992-57",
   "opgraderet_fra": "sandsynlig"
  },
  {
-  "hvor": "kant min-skat-og-vaekst|ressortansvar|lov-skatteforvaltningsloven",
-  "status": "Valid",
-  "ministerium": "Skatte- og Vækstministeriet",
+  "hvor": "kant bek-bygherrens-pligter|implementerer_EU|eu-dir-1992-57",
   "opgraderet_fra": "sandsynlig"
  },
  {
-  "hvor": "kant min-sundhed-og-kirke|ressortansvar|lov-sundhedsloven",
-  "status": "Valid",
-  "ministerium": "Sundheds- og Kirkeministeriet",
-  "opgraderet_fra": "ukendt"
+  "hvor": "kant lov-beredskabsloven|hjemmel_for|bek-campingreglement",
+  "ny": true
  },
  {
-  "hvor": "kant min-udlaendinge-og-integration|ressortansvar|lov-udlaendingeloven",
-  "status": "Valid",
-  "ministerium": "Udlændinge- og Integrationsministeriet",
+  "hvor": "kant lov-miljoebeskyttelsesloven|hjemmel_for|bek-campingreglement",
+  "ny": true
+ },
+ {
+  "hvor": "kant bek-certificering|implementerer_EU|eu-dir-2005-36",
+  "ny": true
+ },
+ {
+  "hvor": "kant bek-eksisterende-elevatorer|implementerer_EU|eu-dir-2015-1535",
+  "ny": true
+ },
+ {
+  "hvor": "kant bek-elektromagnetiske-felter|implementerer_EU|eu-dir-2013-35",
   "opgraderet_fra": "sandsynlig"
+ },
+ {
+  "hvor": "kant bek-energieffektivisering-offentlige|implementerer_EU|eu-dir-2018-2001",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-forvaltningsloven|hjemmel_for|bek-energimaerkning",
+  "ny": true
+ },
+ {
+  "hvor": "kant bek-energimaerkning|implementerer_EU|eu-dir-2005-36",
+  "ny": true
+ },
+ {
+  "hvor": "kant bek-energimaerkning|implementerer_EU|eu-dir-2010-31",
+  "opgraderet_fra": "sandsynlig"
+ },
+ {
+  "hvor": "kant bek-energimaerkning|implementerer_EU|eu-dir-2012-27",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-elforsyningsloven|hjemmel_for|bek-energinet-oekonomi",
+  "ny": true
+ },
+ {
+  "hvor": "kant bek-energisyn|implementerer_EU|eu-dir-2023-1791",
+  "opgraderet_fra": "sandsynlig"
+ },
+ {
+  "hvor": "kant bek-fyrvaerkeri|implementerer_EU|eu-dir-2013-29",
+  "opgraderet_fra": "sandsynlig"
+ },
+ {
+  "hvor": "kant lov-landinspektoerloven|hjemmel_for|bek-gst-opgaver",
+  "ny": true
+ },
+ {
+  "hvor": "kant bek-haandbog-energikonsulenter|implementerer_EU|eu-dir-2010-31",
+  "opgraderet_fra": "sandsynlig"
+ },
+ {
+  "hvor": "kant lov-planklagenaevnsloven|hjemmel_for|bek-klagenaevn-sagsbehandlingslofter",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-energiklagenaevnsloven|hjemmel_for|bek-klagenaevn-sagsbehandlingslofter",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-arbejdsmiljoeloven|hjemmel_for|bek-kontrol-risiko-stoerre-uheld",
+  "opgraderet_fra": "sandsynlig"
+ },
+ {
+  "hvor": "kant bek-kontrol-risiko-stoerre-uheld|implementerer_EU|eu-dir-2012-18",
+  "opgraderet_fra": "sandsynlig"
+ },
+ {
+  "hvor": "kant bek-kraeftrisiko|implementerer_EU|eu-dir-2004-37",
+  "opgraderet_fra": "sandsynlig"
+ },
+ {
+  "hvor": "kant lov-forvaltningsloven|hjemmel_for|bek-lag",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-produktloven|hjemmel_for|bek-maskinforordning-supplerende",
+  "ny": true
+ },
+ {
+  "hvor": "kant bek-miljoevurdering|implementerer_EU|eu-dir-2001-42",
+  "ny": true
+ },
+ {
+  "hvor": "kant bek-miljoevurdering|implementerer_EU|eu-dir-2011-92",
+  "opgraderet_fra": "sandsynlig"
+ },
+ {
+  "hvor": "kant lov-arbejdsmiljoeloven|hjemmel_for|bek-offentliggoerelse-arbejdsmiljoe",
+  "opgraderet_fra": "sandsynlig"
+ },
+ {
+  "hvor": "kant lov-landdistriktsfonden|hjemmel_for|bek-plst-henlaeggelse",
+  "ny": true
+ },
+ {
+  "hvor": "kant bek-projektbekendtgoerelsen|implementerer_EU|eu-dir-2018-844",
+  "ny": true
+ },
+ {
+  "hvor": "kant bek-projektbekendtgoerelsen|implementerer_EU|eu-dir-2018-2001",
+  "ny": true
+ },
+ {
+  "hvor": "kant bek-projektbekendtgoerelsen|implementerer_EU|eu-dir-2019-944",
+  "ny": true
+ },
+ {
+  "hvor": "kant bek-projektbekendtgoerelsen|implementerer_EU|eu-dir-2023-1791",
+  "opgraderet_fra": "sandsynlig"
+ },
+ {
+  "hvor": "kant bek-psykisk-arbejdsmiljoe|implementerer_EU|eu-dir-1989-391",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-politiloven|hjemmel_for|bek-risiko",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-almenlejeloven|hjemmel_for|bek-sbst-opgaver",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-friplejeboligloven|hjemmel_for|bek-sbst-opgaver",
+  "ny": true
+ },
+ {
+  "hvor": "kant bek-skorstensfejer|implementerer_EU|eu-dir-2005-36",
+  "ny": true
+ },
+ {
+  "hvor": "kant bek-systemansvar|implementerer_EU|eu-dir-2018-2001",
+  "ny": true
+ },
+ {
+  "hvor": "kant bek-systemansvar|implementerer_EU|eu-dir-2019-944",
+  "ny": true
+ },
+ {
+  "hvor": "kant bek-systemansvar|implementerer_EU|eu-dir-2023-1791",
+  "ny": true
+ },
+ {
+  "hvor": "kant bek-systematisk-arbejdsmiljoearbejde|implementerer_EU|eu-dir-1989-391",
+  "opgraderet_fra": "sandsynlig"
+ },
+ {
+  "hvor": "kant bek-tekniske-hjaelpemidler-anvendelse|implementerer_EU|eu-dir-2009-104",
+  "opgraderet_fra": "sandsynlig"
+ },
+ {
+  "hvor": "kant lov-arbejdsmiljoeloven|hjemmel_for|bek-tekniske-hjaelpemidler-indretning",
+  "opgraderet_fra": "sandsynlig"
+ },
+ {
+  "hvor": "kant bek-tekniske-hjaelpemidler-indretning|implementerer_EU|eu-dir-2009-104",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-udstykningsloven|hjemmel_for|bek-udstykningskontrol",
+  "opgraderet_fra": "sandsynlig"
+ },
+ {
+  "hvor": "kant bek-vandindvinding|implementerer_EU|eu-dir-2020-2184",
+  "ny": true
+ },
+ {
+  "hvor": "kant bek-vandloebsregulativer|implementerer_EU|eu-dir-1992-43",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-jernbaneloven|hjemmel_for|bek-vd-opgaver",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-faerdselsloven|hjemmel_for|bek-vd-opgaver",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-afi-loven|hjemmel_for|bek-faerdselsstyrelsen-opgaver",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-almenboligloven|hjemmel_for|vejl-satsvejledning-leje-almen",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-almenlejeloven|hjemmel_for|vejl-satsvejledning-leje-almen",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-arbejdsmiljoeloven|hjemmel_for|vejl-at-bygherrens-pligter",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-arbejdsmiljoeloven|implementerer_EU|eu-dir-1992-57",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-arbejdsmiljoeloven|implementerer_EU|eu-dir-1994-33",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-arbejdsmiljoeloven|implementerer_EU|eu-dir-2003-88",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-arbejdsmiljoeloven|implementerer_EU|eu-dir-2005-36",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-arbejdsmiljoeloven|implementerer_EU|eu-dir-2009-104",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-arbejdsmiljoeloven|implementerer_EU|eu-dir-2009-148",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-boligforholdsloven|hjemmel_for|vejl-satsvejledning-leje-almen",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-ecodesignloven|implementerer_EU|eu-dir-2014-30",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-ecodesignloven|implementerer_EU|eu-dir-2014-53",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-effektiv-energianvendelse|implementerer_EU|eu-dir-2012-27",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-elforsyningsloven|implementerer_EU|eu-dir-1992-43",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-elforsyningsloven|implementerer_EU|eu-dir-2023-1791",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-energimaerkningsloven|implementerer_EU|eu-dir-2005-36",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-energimaerkningsloven|implementerer_EU|eu-dir-2010-31",
+  "opgraderet_fra": "sandsynlig"
+ },
+ {
+  "hvor": "kant lov-energimaerkningsloven|implementerer_EU|eu-dir-2018-2001",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-energimaerkningsloven|implementerer_EU|eu-dir-2023-1791",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-energinetloven|implementerer_EU|eu-dir-1992-43",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-energinetloven|implementerer_EU|eu-dir-2018-2001",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-energinetloven|implementerer_EU|eu-dir-2019-944",
+  "opgraderet_fra": "sandsynlig"
+ },
+ {
+  "hvor": "kant lov-havmiljoeloven|implementerer_EU|eu-dir-1992-43",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-havmiljoeloven|implementerer_EU|eu-dir-2004-35",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-havmiljoeloven|implementerer_EU|eu-dir-2009-31",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-havmiljoeloven|implementerer_EU|eu-dir-2013-30",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-husdyrbrugloven|implementerer_EU|eu-dir-1992-43",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-husdyrbrugloven|implementerer_EU|eu-dir-2004-35",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-husdyrbrugloven|implementerer_EU|eu-dir-2010-75",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-husdyrbrugloven|implementerer_EU|eu-dir-2011-92",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-jagtloven|implementerer_EU|eu-dir-1992-43",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-jagtloven|implementerer_EU|eu-dir-2004-35",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-kontinentalsokkelloven|implementerer_EU|eu-dir-1992-43",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-kontinentalsokkelloven|implementerer_EU|eu-dir-2014-52",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-landinspektoerloven|implementerer_EU|eu-dir-2005-36",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-miljoebeskyttelsesloven|implementerer_EU|eu-dir-1992-43",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-miljoebeskyttelsesloven|implementerer_EU|eu-dir-2004-35",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-miljoebeskyttelsesloven|implementerer_EU|eu-dir-2011-92",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-miljoebeskyttelsesloven|implementerer_EU|eu-dir-2012-18",
+  "opgraderet_fra": "sandsynlig"
+ },
+ {
+  "hvor": "kant lov-miljoeoplysningsloven|hjemmel_for|vejl-miljoeoplysningsloven",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-miljoeskadeloven|implementerer_EU|eu-dir-2013-30",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-naturbeskyttelsesloven|implementerer_EU|eu-dir-2004-35",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-oversvoemmelsesloven|implementerer_EU|eu-dir-1992-43",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-planloven|implementerer_EU|eu-dir-1992-43",
+  "opgraderet_fra": "sandsynlig"
+ },
+ {
+  "hvor": "kant lov-produktloven|hjemmel_for|bek-faerdselsstyrelsen-opgaver",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-produktloven|implementerer_EU|eu-dir-2006-42",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-produktloven|implementerer_EU|eu-dir-2013-29",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-produktloven|implementerer_EU|eu-dir-2014-33",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-produktloven|implementerer_EU|eu-dir-2014-34",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-produktloven|implementerer_EU|eu-dir-2014-35",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-produktloven|implementerer_EU|eu-dir-2014-68",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-produktloven|implementerer_EU|eu-dir-2020-2184",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-retssikkerhedsloven-social|hjemmel_for|bek-raad-paa-det-sociale-omraade",
+  "opgraderet_fra": "sandsynlig"
+ },
+ {
+  "hvor": "kant lov-skovloven|implementerer_EU|eu-dir-1992-43",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-skovloven|implementerer_EU|eu-dir-2004-35",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-undergrundsloven|implementerer_EU|eu-dir-1992-43",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-undergrundsloven|implementerer_EU|eu-dir-2011-92",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-undergrundsloven|implementerer_EU|eu-dir-2013-30",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-undergrundsloven|implementerer_EU|eu-dir-2018-2001",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-vandforsyningsloven|implementerer_EU|eu-dir-1992-43",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-vandforsyningsloven|implementerer_EU|eu-dir-2004-35",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-vandplanlaegningsloven|implementerer_EU|eu-dir-1992-43",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-varmeforsyningsloven|implementerer_EU|eu-dir-2010-31",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-ve-loven|implementerer_EU|eu-dir-2005-36",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-ve-loven|implementerer_EU|eu-dir-2010-31",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-ve-loven|implementerer_EU|eu-dir-2012-27",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-ve-loven|implementerer_EU|eu-dir-2023-2413",
+  "opgraderet_fra": "sandsynlig"
+ },
+ {
+  "hvor": "kant lov-arbejdsmiljoeloven|hjemmel_for|vejl-at-bygge-og-anlaeg",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-spilleloven|hjemmel_for|bek-spillemyndigheden",
+  "opgraderet_fra": "sandsynlig"
+ },
+ {
+  "hvor": "kant lov-finansiel-virksomhed|implementerer_EU|eu-dir-2009-138",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-finansiel-virksomhed|implementerer_EU|eu-dir-2013-36",
+  "opgraderet_fra": "sandsynlig"
+ },
+ {
+  "hvor": "kant lov-finansiel-virksomhed|implementerer_EU|eu-dir-2014-65",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-finansiel-virksomhed|implementerer_EU|eu-dir-2015-849",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-kapitalmarkedsloven|implementerer_EU|eu-dir-2014-65",
+  "opgraderet_fra": "sandsynlig"
+ },
+ {
+  "hvor": "kant lov-forsikringsvirksomhed|implementerer_EU|eu-dir-2015-849",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-serviceloven|hjemmel_for|bek-socialtilsyn",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-jernbaneloven|hjemmel_for|bek-trafikstyrelsen-opgaver",
+  "opgraderet_fra": "sandsynlig"
+ },
+ {
+  "hvor": "kant lov-postloven|hjemmel_for|bek-trafikstyrelsen-opgaver",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-trafikselskabsloven|hjemmel_for|bek-trafikstyrelsen-opgaver",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-luftfartsloven|hjemmel_for|bek-trafikstyrelsen-opgaver",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-faerdselsloven|hjemmel_for|bek-trafikstyrelsen-opgaver",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-buskoerselsloven|hjemmel_for|bek-faerdselsstyrelsen-opgaver",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-godskoerselsloven|hjemmel_for|bek-faerdselsstyrelsen-opgaver",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-taxiloven|hjemmel_for|bek-faerdselsstyrelsen-opgaver",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-trafikselskabsloven|hjemmel_for|bek-faerdselsstyrelsen-opgaver",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-jernbaneloven|implementerer_EU|eu-dir-2011-92",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-fiskeriloven|implementerer_EU|eu-dir-1992-43",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-fiskeriloven|implementerer_EU|eu-dir-2004-35",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-dis-loven|hjemmel_for|bek-soefartsstyrelsen-henlaeggelse",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-sikkerhed-til-soes|hjemmel_for|bek-soefartsstyrelsen-henlaeggelse",
+  "opgraderet_fra": "sandsynlig"
+ },
+ {
+  "hvor": "kant lov-lodsloven|hjemmel_for|bek-soefartsstyrelsen-henlaeggelse",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-soefarendes-ansaettelsesforhold|hjemmel_for|bek-soefartsstyrelsen-henlaeggelse",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-soeloven|hjemmel_for|bek-soefartsstyrelsen-henlaeggelse",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-skibes-besaetning|hjemmel_for|bek-soefartsstyrelsen-henlaeggelse",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-sikkerhed-til-soes|implementerer_EU|eu-dir-1989-391",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-sikkerhed-til-soes|implementerer_EU|eu-dir-1989-656",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-sikkerhed-til-soes|implementerer_EU|eu-dir-1994-33",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-sikkerhed-til-soes|implementerer_EU|eu-dir-1998-24",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-sikkerhed-til-soes|implementerer_EU|eu-dir-1999-92",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-sikkerhed-til-soes|implementerer_EU|eu-dir-2000-54",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-sikkerhed-til-soes|implementerer_EU|eu-dir-2002-44",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-sikkerhed-til-soes|implementerer_EU|eu-dir-2003-10",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-sikkerhed-til-soes|implementerer_EU|eu-dir-2004-37",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-sikkerhed-til-soes|implementerer_EU|eu-dir-2009-104",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-sikkerhed-til-soes|implementerer_EU|eu-dir-2009-148",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-soeloven|implementerer_EU|eu-dir-2005-36",
+  "ny": true
+ },
+ {
+  "hvor": "kant lov-skibes-besaetning|implementerer_EU|eu-dir-2005-36",
+  "ny": true
  }
 ]

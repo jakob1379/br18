@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 101 · kanter: 180
+Noder: 107 · kanter: 201
 
 ```mermaid
 flowchart LR
@@ -23,7 +23,10 @@ flowchart LR
     eu_dir_2006_7["Direktiv 2006/7/EF om forvaltning af badevandskvalitet (badevandsdirektivet)"]:::eu
     eu_dir_2008_56["Direktiv 2008/56/EF om fastlæggelse af en ramme for Fællesskabets havmiljøpolitik (havstrategidirektivet)"]:::eu
     eu_dir_2008_98["Direktiv 2008/98/EF om affald (affaldsrammedirektivet)"]:::eu
+    eu_dir_2009_31["Direktiv 2009/31/EF om geologisk lagring af CO2 (CCS-direktivet)"]:::eu
     eu_dir_2010_75["Direktiv 2010/75/EU om industrielle emissioner (IED)"]:::eu
+    eu_dir_2011_92["Direktiv 2011/92/EU om vurdering af visse offentlige og private projekters indvirkning på miljøet (VVM)"]:::eu
+    eu_dir_2013_30["Direktiv 2013/30/EU om sikkerhed i forbindelse med offshore olie- og gasaktiviteter (offshoresikkerhedsdirektivet)"]:::eu
     eu_dir_1992_43["Direktiv 92/43/EØF om bevaring af naturtyper samt vilde dyr og planter (habitatdirektivet)"]:::eu
     eu_dir_2020_2184["Drikkevandsdirektivet – direktiv (EU) 2020/2184 af 16. december 2020 (omarbejdning)"]:::eu
     eu_reg_2008_1272["Forordning (EF) nr. 1272/2008 (CLP)"]:::eu
@@ -74,6 +77,7 @@ flowchart LR
     bek_miljoeaktiviteter["Bekendtgørelse om miljøregulering af visse aktiviteter (miljøaktivitetsbekendtgørelsen)"]:::retsakt
     bek_miljoetilsyn["Bekendtgørelse om miljøtilsyn (miljøtilsynsbekendtgørelsen)"]:::retsakt
     bek_spildevand["Bekendtgørelse om spildevandsplanen og spildevandstilladelser m.v. efter miljøbeskyttelseslovens kapitel 3 og 4 (spildevandsbekendtgørelsen)"]:::retsakt
+    bek_campingreglement["Bekendtgørelse om tilladelse til udlejning af arealer til campering og om indretning og benyttelse af campingpladser (campingreglementet) (BEK nr. 319 af 28/03/2019)"]:::retsakt
     bek_vandindvinding["Bekendtgørelse om vandindvinding og vandforsyning (BEK nr. 867 af 20/06/2025)"]:::retsakt
     bek_drikkevand["Bekendtgørelse om vandkvalitet og tilsyn med vandforsyningsanlæg (drikkevandsbekendtgørelsen)"]:::retsakt
     bek_oversvoemmelsesrisiko["Bekendtgørelse om vurdering og risikostyring for oversvømmelser fra havet, fjorde eller andre dele af søterritoriet (BEK nr. 894 af 21/06/2016)"]:::retsakt
@@ -92,6 +96,7 @@ flowchart LR
     lov_fiskeriloven["Lov om fiskeri og fiskeopdræt (fiskeriloven)"]:::retsakt
     lov_jordforureningsloven["Lov om forurenet jord (jordforureningsloven)"]:::retsakt
     lov_havstrategiloven["Lov om havstrategi (havstrategiloven)"]:::retsakt
+    lov_husdyrbrugloven["Lov om husdyrbrug og anvendelse af gødning m.v. (husdyrbrugloven; tidl. lov om miljøgodkendelse m.v. af husdyrbrug)"]:::retsakt
     lov_jagtloven["Lov om jagt og vildtforvaltning (jagt- og vildtforvaltningsloven)"]:::retsakt
     lov_kemikalieloven["Lov om kemikalier (kemikalieloven)"]:::retsakt
     lov_kystbeskyttelsesloven["Lov om kystbeskyttelse (kystbeskyttelsesloven)"]:::retsakt
@@ -99,6 +104,7 @@ flowchart LR
     lov_miljoevurderingsloven["Lov om miljøvurderinger (miljøvurderingsloven, VVM/SMV)"]:::retsakt
     lov_naturbeskyttelsesloven["Lov om naturbeskyttelse (naturbeskyttelsesloven)"]:::retsakt
     lov_offentlighedsloven["Lov om offentlighed i forvaltningen (offentlighedsloven)"]:::retsakt
+    lov_politiloven["Lov om politiets virksomhed (politiloven)"]:::retsakt
     lov_raastofloven["Lov om råstoffer (råstofloven)"]:::retsakt
     lov_miljoeskadeloven["Lov om undersøgelse, forebyggelse og afhjælpning af miljøskader (miljøskadeloven)"]:::retsakt
     lov_vandforsyningsloven["Lov om vandforsyning m.v. (vandforsyningsloven)"]:::retsakt
@@ -160,7 +166,7 @@ flowchart LR
     lov_kystbeskyttelsesloven -->|hjemmel_for| kommune_alle
     lov_kystbeskyttelsesloven -.->|hjemmel_for| plan_risikostyringsplaner
     lov_kystbeskyttelsesloven -->|hjemmel_for| sty_kystdirektoratet
-    lov_miljoebeskyttelsesloven -.->|hjemmel_for| bek_affald
+    lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_affald
     lov_miljoebeskyttelsesloven -.->|hjemmel_for| bek_affaldsaktoer
     lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_affaldstilsyn
     lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_badevand
@@ -216,7 +222,7 @@ flowchart LR
     lov_miljoebeskyttelsesloven -.->|implementerer_EU| eu_dir_2002_49
     lov_miljoebeskyttelsesloven -->|implementerer_EU| eu_dir_2008_98
     lov_miljoebeskyttelsesloven -->|implementerer_EU| eu_dir_2010_75
-    lov_miljoebeskyttelsesloven -.->|implementerer_EU| eu_dir_2012_18
+    lov_miljoebeskyttelsesloven -->|implementerer_EU| eu_dir_2012_18
     lov_miljoebeskyttelsesloven -.->|implementerer_EU| eu_dir_2024_1785
     lov_miljoeoplysningsloven -->|implementerer_EU| eu_dir_2003_4
     lov_miljoeskadeloven -->|implementerer_EU| eu_dir_2004_35
@@ -290,9 +296,30 @@ flowchart LR
     sty_miljoestyrelsen -->|udsteder| vejl_naturbeskyttelse_vejledninger
     min_miljoe -->|udsteder| vejl_landzoneadministration
     min_miljoe -->|ressortansvar| lov_fiskeriloven
+    lov_husdyrbrugloven -->|hjemmel_for| bek_brugerbetaling_miljoe
+    lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_campingreglement
+    lov_politiloven -->|hjemmel_for| bek_risiko
+    bek_vandindvinding -->|implementerer_EU| eu_dir_2020_2184
+    lov_havmiljoeloven -->|implementerer_EU| eu_dir_1992_43
+    lov_havmiljoeloven -->|implementerer_EU| eu_dir_2004_35
+    lov_havmiljoeloven -->|implementerer_EU| eu_dir_2009_31
+    lov_havmiljoeloven -->|implementerer_EU| eu_dir_2013_30
+    lov_jagtloven -->|implementerer_EU| eu_dir_1992_43
+    lov_jagtloven -->|implementerer_EU| eu_dir_2004_35
+    lov_miljoebeskyttelsesloven -->|implementerer_EU| eu_dir_1992_43
+    lov_miljoebeskyttelsesloven -->|implementerer_EU| eu_dir_2004_35
+    lov_miljoebeskyttelsesloven -->|implementerer_EU| eu_dir_2011_92
+    lov_miljoeoplysningsloven -->|hjemmel_for| vejl_miljoeoplysningsloven
+    lov_miljoeskadeloven -->|implementerer_EU| eu_dir_2013_30
+    lov_naturbeskyttelsesloven -->|implementerer_EU| eu_dir_2004_35
+    lov_oversvoemmelsesloven -->|implementerer_EU| eu_dir_1992_43
+    lov_vandforsyningsloven -->|implementerer_EU| eu_dir_1992_43
+    lov_vandforsyningsloven -->|implementerer_EU| eu_dir_2004_35
+    lov_fiskeriloven -->|implementerer_EU| eu_dir_1992_43
+    lov_fiskeriloven -->|implementerer_EU| eu_dir_2004_35
     bek_affald -.->|hjemmel_for| plan_affaldsplan
     bek_affaldsaktoer -->|hjemmel_for| reg_affaldsregulativer
-    bek_affald -.->|implementerer_EU| eu_dir_2008_98
+    bek_affald -->|implementerer_EU| eu_dir_2008_98
     bek_habitat -->|implementerer_EU| eu_dir_1992_43
     bek_habitat -->|implementerer_EU| eu_dir_2009_147
 ```

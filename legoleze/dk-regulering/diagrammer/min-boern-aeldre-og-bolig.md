@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 102 · kanter: 211
+Noder: 103 · kanter: 221
 
 ```mermaid
 flowchart LR
@@ -20,6 +20,7 @@ flowchart LR
     eu_dir_2024_1275["Direktiv (EU) 2024/1275 om bygningers energimæssige ydeevne (omarbejdning, EPBD)"]:::eu
     eu_kommissionen["Europa-Kommissionen"]:::eu
     eu_dir_2015_1535["Europa-Parlamentets og Rådets direktiv (EU) 2015/1535 af 9. september 2015 om en informationsprocedure med hensyn til tekniske forskrifter og forskrifter for informationssamfundets tjenester (informationsproceduredirektivet, TRIS)"]:::eu
+    eu_dir_2005_36["Europa-Parlamentets og Rådets direktiv 2005/36/EF af 7. september 2005 om anerkendelse af erhvervsmæssige kvalifikationer"]:::eu
     eu_reg_2019_1020["Markedsovervågningsforordningen (EU) 2019/1020"]:::eu
     eu_reg_2024_3110["Revideret byggevareforordning (EU) 2024/3110"]:::eu
     fond_byggeskadefonden["Byggeskadefonden"]:::instans
@@ -327,6 +328,16 @@ flowchart LR
     sty_trafik_bygge_og_boligstyrelsen -->|udsteder| bek_br18
     sty_trafik_bygge_og_boligstyrelsen -->|udsteder| vejl_individuel_maaling
     sty_social_og_boligstyrelsen -.->|udsteder| kilde_tilbudsportalen
+    lov_almenlejeloven -->|hjemmel_for| bek_almen_drift
+    bek_almen_drift -->|hjemmel_for| vejl_satsvejledning_leje_almen
+    bek_br18 -->|implementerer_EU| eu_dir_2012_27
+    bek_certificering -->|implementerer_EU| eu_dir_2005_36
+    lov_almenlejeloven -->|hjemmel_for| bek_sbst_opgaver
+    lov_friplejeboligloven -->|hjemmel_for| bek_sbst_opgaver
+    bek_skorstensfejer -->|implementerer_EU| eu_dir_2005_36
+    lov_almenboligloven -->|hjemmel_for| vejl_satsvejledning_leje_almen
+    lov_almenlejeloven -->|hjemmel_for| vejl_satsvejledning_leje_almen
+    lov_boligforholdsloven -->|hjemmel_for| vejl_satsvejledning_leje_almen
 ```
 
 [← Overblik](oversigt.md)

@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 25 · kanter: 36
+Noder: 26 · kanter: 37
 
 ```mermaid
 flowchart LR
@@ -34,6 +34,7 @@ flowchart LR
     bek_risikobaseret_dimensionering["Bekendtgørelse om risikobaseret dimensionering og planer for det kommunale redningsberedskab (dimensioneringsbekendtgørelsen)"]:::retsakt
     tf_braendbare_faste_stoffer["Bekendtgørelse om tekniske forskrifter for brændbare faste stoffer (BEK nr. 1070 af 29/06/2020)"]:::retsakt
     tf_gasser["Bekendtgørelse om tekniske forskrifter for gasser (BEK nr. 1444 af 15/12/2010), herunder F-gas (flaskegas)"]:::retsakt
+    bek_campingreglement["Bekendtgørelse om tilladelse til udlejning af arealer til campering og om indretning og benyttelse af campingpladser (campingreglementet) (BEK nr. 319 af 28/03/2019)"]:::retsakt
     lov_beredskabsloven["Beredskabsloven"]:::retsakt
     vejl_brs_vejledninger["Beredskabsstyrelsens vejledninger og meddelelser (bl.a. om brandsyn, tekniske forskrifter, eksplosionsfarlige områder og risikobaseret dimensionering)"]:::retsakt
     bek_brandsyn["Brandsynsbekendtgørelsen (bekendtgørelse om brandsyn), BEK nr. 2341 af 09/12/2021"]:::retsakt
@@ -71,6 +72,7 @@ flowchart LR
     sty_beredskabsstyrelsen -->|udsteder| tf_brandfarlige_vaesker
     sty_beredskabsstyrelsen -->|udsteder| tf_gasser
     sty_beredskabsstyrelsen -->|udsteder| vejl_brs_vejledninger
+    lov_beredskabsloven -->|hjemmel_for| bek_campingreglement
     bek_brandsyn -->|hjemmel_for| kommune_alle
     bek_risikobaseret_dimensionering -->|hjemmel_for| plan_risikobaseret_dimensionering
     bek_eksplosionsfarlige_omraader -.->|implementerer_EU| eu_dir_1999_92
