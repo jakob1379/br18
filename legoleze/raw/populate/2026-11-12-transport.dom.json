@@ -1,0 +1,512 @@
+[
+ {
+  "hvor": "sty-trafikstyrelsen.tidligere_navne[Trafikstyrelsen (første navn, også kaldet Trafikstyrelsen for jernbaner og færger)]",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "sty-trafikstyrelsen.tidligere_navne[Trafik- og Byggestyrelsen]",
+  "dom": "delvist",
+  "grund": "Navneskiftet juli 2015 bekræftes; slutdatoen dec. 2016 fremgår ikke af belægget."
+ },
+ {
+  "hvor": "sty-trafikstyrelsen.tidligere_navne[Trafik-, Bygge- og Boligstyrelsen]",
+  "dom": "delvist",
+  "grund": "Navneskiftet dec. 2016 bekræftes; slutdatoen ca. 2021 fremgår ikke af belægget."
+ },
+ {
+  "hvor": "sty-trafikstyrelsen.hjemmel",
+  "dom": "delvist",
+  "grund": "Bekendtgørelsens § 1 og luftfartsregistret bekræftes; jernbaneloven § 40, stk. 2 (veteranbaner) fremgår ikke."
+ },
+ {
+  "hvor": "sty-trafikstyrelsen.dokumenttyper",
+  "dom": "delvist",
+  "grund": "BL og BJ bekræftes; afgørelsestypen og klageadgang i kap. 4 fremgår ikke af belægget."
+ },
+ {
+  "hvor": "sty-trafikstyrelsen.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "sty-banedanmark.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "sty-banedanmark.dokumenttyper",
+  "dom": "delvist",
+  "grund": "Orkestrator: noten er rettet efter kontrollantens indvending (§ 19 giver klage til ministeren); ikke uafhængigt bedømt."
+ },
+ {
+  "hvor": "sty-banedanmark.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "naevn-jernbanenaevnet.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "naevn-jernbanenaevnet.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "naevn-jernbanenaevnet.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "sty-havarikommissionen.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "sty-havarikommissionen.dokumenttyper",
+  "dom": "delvist",
+  "grund": "Belægget siger kun, at rapporter offentliggøres; vejledende karakter og ingen skyldplacering fremgår ikke."
+ },
+ {
+  "hvor": "sty-havarikommissionen.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "org-ankenaevnet-for-bus-tog-og-metro.dokumenttyper",
+  "dom": "baerer",
+  "grund": "Efterkontrol (siden hentet)"
+ },
+ {
+  "hvor": "org-ankenaevnet-for-bus-tog-og-metro.url",
+  "dom": "baerer",
+  "grund": "Efterkontrol (siden hentet)"
+ },
+ {
+  "hvor": "kilde-trafikstyrelsen-bl-bj.dokumenttyper",
+  "dom": "delvist",
+  "grund": "BJ-punktet bekræftes; BL og typen blandet fremgår ikke af belægget."
+ },
+ {
+  "hvor": "kilde-trafikstyrelsen-bl-bj.url",
+  "dom": "delvist",
+  "grund": "Belægget er en menu med navnet Bestemmelser for jernbane (BJ), ikke bekræftelse af lovlisteside som adresse."
+ },
+ {
+  "hvor": "kilde-trafikstyrelsen-bl-bj.adgang",
+  "dom": "delvist",
+  "grund": "Publikation på hjemmesiden bekræftes; formater (HTML/PDF), filtre og intet API fremgår ikke."
+ },
+ {
+  "hvor": "kilde-trafikstyrelsen-bl-bj.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-trafikstyrelsen-bl-bj.opdatering",
+  "dom": "delvist",
+  "grund": "Udgaver og versionering bekræftes; frekvensen løbende fremgår ikke af belægget."
+ },
+ {
+  "hvor": "kilde-jernbanenaevnet-afgoerelser.dokumenttyper",
+  "dom": "delvist",
+  "grund": "Afgørelser offentliggøres; bindende/vejledende status og årsberetning fremgår ikke."
+ },
+ {
+  "hvor": "kilde-jernbanenaevnet-afgoerelser.url",
+  "dom": "delvist",
+  "grund": "Belægget er forsidens linkmenu, ikke bekræftelse af stien /lister/publikationlisteside."
+ },
+ {
+  "hvor": "kilde-jernbanenaevnet-afgoerelser.adgang",
+  "dom": "delvist",
+  "grund": "Belægget siger intet om formater (HTML/PDF)."
+ },
+ {
+  "hvor": "kilde-abtm-afgoerelser.dokumenttyper",
+  "dom": "baerer",
+  "grund": "Efterkontrol (siden hentet)"
+ },
+ {
+  "hvor": "kilde-abtm-afgoerelser.url",
+  "dom": "delvist",
+  "grund": "Efterkontrol (siden hentet): Belægget er forsiden; stien /afgorelser står hverken i citat eller kontekst."
+ },
+ {
+  "hvor": "kilde-abtm-afgoerelser.adgang",
+  "dom": "baerer",
+  "grund": "Efterkontrol (siden hentet)"
+ },
+ {
+  "hvor": "bek-trafikstyrelsen-opgaver.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-trafikstyrelsen-opgaver.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-trafikstyrelsen-opgaver.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-banedanmark-opgaver.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-banedanmark-opgaver.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-banedanmark-opgaver.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-jernbanenaevnet.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-jernbanenaevnet.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-jernbanenaevnet.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-faerdselsstyrelsen-opgaver.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-faerdselsstyrelsen-opgaver.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-faerdselsstyrelsen-opgaver.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-farligt-gods-vejtransport.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-farligt-gods-vejtransport.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-farligt-gods-vejtransport.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-jernbaneloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-jernbaneloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-jernbaneloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-luftfartsloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-luftfartsloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-luftfartsloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-faerdselsloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-faerdselsloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-faerdselsloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-taxiloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-taxiloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-taxiloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-godskoerselsloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-godskoerselsloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-godskoerselsloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-buskoerselsloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-buskoerselsloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-buskoerselsloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-trafikselskabsloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-trafikselskabsloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-trafikselskabsloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-postloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-postloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-postloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-by-land-og-transport|ressortansvar|sty-trafikstyrelsen",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-by-land-og-transport|ressortansvar|sty-banedanmark",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-by-land-og-transport|ressortansvar|naevn-jernbanenaevnet",
+  "dom": "delvist",
+  "grund": "Belægget om sekretariatets placering i Trafikstyrelsen siger intet om ministeriets ressortansvar."
+ },
+ {
+  "hvor": "kant min-by-land-og-transport|ressortansvar|sty-havarikommissionen",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-by-land-og-transport|ressortansvar|lov-jernbaneloven",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-by-land-og-transport|ressortansvar|lov-luftfartsloven",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-by-land-og-transport|ressortansvar|lov-faerdselsloven",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-by-land-og-transport|ressortansvar|lov-taxiloven",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-by-land-og-transport|ressortansvar|lov-godskoerselsloven",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-by-land-og-transport|ressortansvar|lov-buskoerselsloven",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-by-land-og-transport|ressortansvar|lov-trafikselskabsloven",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-by-land-og-transport|ressortansvar|lov-postloven",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-jernbaneloven|hjemmel_for|sty-banedanmark",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-jernbaneloven|hjemmel_for|naevn-jernbanenaevnet",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-jernbaneloven|hjemmel_for|sty-havarikommissionen",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-jernbaneloven|hjemmel_for|sty-trafikstyrelsen",
+  "dom": "delvist",
+  "grund": "§ 38 o bekræftes; § 40, stk. 2 og § 55, som påstanden nævner, fremgår ikke af belægget."
+ },
+ {
+  "hvor": "kant lov-luftfartsloven|hjemmel_for|sty-trafikstyrelsen",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-vejloven|hjemmel_for|bek-trafikstyrelsen-opgaver",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-jernbaneloven|hjemmel_for|bek-trafikstyrelsen-opgaver",
+  "dom": "delvist",
+  "grund": "Belægget viser jernbaneloven §§ 29 og 56 som hjemmel for BJ-forskrifter, ikke for bekendtgørelsen selv."
+ },
+ {
+  "hvor": "kant bek-trafikstyrelsen-opgaver|hjemmel_for|sty-trafikstyrelsen",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-jernbaneloven|hjemmel_for|bek-banedanmark-opgaver",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant bek-banedanmark-opgaver|hjemmel_for|sty-banedanmark",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-jernbaneloven|hjemmel_for|bek-jernbanenaevnet",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant bek-jernbanenaevnet|hjemmel_for|naevn-jernbanenaevnet",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-faerdselsloven|hjemmel_for|bek-faerdselsstyrelsen-opgaver",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant bek-faerdselsstyrelsen-opgaver|hjemmel_for|sty-faerdselsstyrelsen",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-faerdselsloven|hjemmel_for|bek-farligt-gods-vejtransport",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-godskoerselsloven|hjemmel_for|bek-farligt-gods-vejtransport",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant naevn-jernbanenaevnet|klageinstans|sty-banedanmark",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-by-land-og-transport|klageinstans|sty-faerdselsstyrelsen",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant sty-trafikstyrelsen|tilsyn|sty-banedanmark",
+  "dom": "delvist",
+  "grund": "Tilsynet i § 38 o gælder projekter efter § 38 a, ikke Banedanmark som tilsynsobjekt."
+ },
+ {
+  "hvor": "kant sty-trafikstyrelsen|udsteder|kilde-trafikstyrelsen-bl-bj",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant naevn-jernbanenaevnet|udsteder|kilde-jernbanenaevnet-afgoerelser",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant org-ankenaevnet-for-bus-tog-og-metro|udsteder|kilde-abtm-afgoerelser",
+  "dom": "baerer",
+  "grund": "Efterkontrol (siden hentet)"
+ },
+ {
+  "hvor": "kant min-by-land-og-transport|klageinstans|sty-banedanmark",
+  "dom": "delvist",
+  "grund": "Orkestrator: tilføjet efter kontrollantens indvending; ikke uafhængigt bedømt."
+ }
+]

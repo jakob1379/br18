@@ -1,0 +1,1588 @@
+{
+  "omraade": "arbejdsmarked",
+  "noder": [
+    {
+      "id": "sty-star",
+      "navn": "Styrelsen for Arbejdsmarked og Rekruttering (STAR)",
+      "type": "styrelse",
+      "ministerium": "min-beskaeftigelse-og-ligestilling",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Arbejdsløshedsforsikringslovens § 88, stk. 1: direktøren for STAR fører tilsyn med de anerkendte a-kasser; § 98: klage over a-kassernes afgørelser indbringes for direktøren inden 4 uger; § 99: direktørens afgørelser om medlemmers rettigheder og pligter kan indbringes for Ankestyrelsens Beskæftigelsesudvalg. Styrelsen er en del af Beskæftigelses- og Ligestillingsministeriets koncern; selve oprettelsen er ikke belagt i en lovbestemmelse.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/808",
+            "citat": "Direktøren for Styrelsen for Arbejdsmarked og Rekruttering fører tilsyn med de anerkendte arbejdsløshedskasser."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/808",
+            "citat": "direktøren for Styrelsen for Arbejdsmarked og Rekruttering inden 4 uger efter,"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.star.dk/",
+        "belaeg": [
+          {
+            "url": "https://www.star.dk/om-styrelsen/",
+            "citat": "er en styrelse, der hører under Beskæftigelses-og Ligestillingsministeriet"
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse",
+            "bindende": "bindende",
+            "note": "Direktørens afgørelser som klageinstans over a-kasserne (§ 98) og om medlemmers rettigheder og pligter; behandles i praksis af Center for Klager om Arbejdsløshedsforsikring (CKA)."
+          },
+          {
+            "type": "publikation (analyser, rapporter, evalueringer, tilsynsresultater)",
+            "bindende": "vejledende",
+            "note": "Offentliggøres på star.dk/om-styrelsen/publikationer."
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/808",
+            "citat": "Klage over direktøren for Styrelsen for Arbejdsmarked og Rekrutterings afgørelser om medlemmers rettigheder og pligter"
+          },
+          {
+            "url": "https://star.dk/om-styrelsen/publikationer",
+            "citat": "Her finder du analyser, rapporter, evalueringer mv. om Styrelsen for Arbejdsmarked og Rekrutterings område."
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Styrelsen for Arbejdsmarked og Rekruttering",
+        "STAR",
+        "Center for Klager om Arbejdsløshedsforsikring",
+        "CKA"
+      ],
+      "note": "Tilsyn med a-kasser (ALFL § 88) og opfølgning på kommunernes beskæftigelsesindsats (star.dk/tilsyn-og-opfoelgning-paa-beskaeftigelsesomraadet). Klagekæde for a-kasser: medlem -> a-kassens hovedledelse (genvurdering) -> direktøren for STAR (§ 98, i praksis CKA, en enhed i STAR) -> Ankestyrelsens Beskæftigelsesudvalg (§ 99), hvis afgørelse ikke kan indbringes for anden administrativ myndighed (§ 99, stk. 2). CKA har ikke egen lovhjemmel og er ikke oprettet som node. Beskæftigelsesministeren (ikke STAR) fører tilsyn med bestyrelserne for Udbetaling Danmark og Seniorpensionsenheden (star.dk tilsynssider). BEK 34/2026 og VEJ 10078/2018 er ikke efterprøvet."
+    },
+    {
+      "id": "org-a-kasser",
+      "navn": "Anerkendte arbejdsløshedskasser (a-kasser)",
+      "type": "privat-organisation",
+      "ministerium": "ingen",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Arbejdsløshedsforsikringslovens regler om anerkendte arbejdsløshedskasser; STAR's direktør fører tilsyn med dem efter § 88, stk. 1.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/808",
+            "citat": "Direktøren for Styrelsen for Arbejdsmarked og Rekruttering fører tilsyn med de anerkendte arbejdsløshedskasser."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse (dagpenge, efterløn, medlemskab, rådighed)",
+            "bindende": "bindende",
+            "note": "Kan påklages til STAR's direktør (CKA) og herefter til Ankestyrelsens Beskæftigelsesudvalg."
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.star.dk/media/zgafgoih/aarsstatistik-for-cka-2024.pdf",
+            "citat": "Klagerne kan være over a-kassernes afgørelser, såvel som a-kassernes"
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "a-kassens afgørelse",
+        "arbejdsløshedskasse"
+      ],
+      "note": "Private foreninger (22 anerkendte ved udgangen af 2024 ifølge CKA's årsstatistik) med offentligretlig opgave. Ingen fælles hjemmeside belagt, derfor ingen url."
+    },
+    {
+      "id": "org-seniorpensionsenheden",
+      "navn": "Seniorpensionsenheden",
+      "type": "offentlig-virksomhed",
+      "ministerium": "min-beskaeftigelse-og-ligestilling",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Lov om Seniorpensionsenheden § 1, stk. 1: Seniorpensionsenheden oprettes som en selvejende institution; stk. 2: hjemsted Hillerød Kommune.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2020/869",
+            "citat": "Med denne lov oprettes Seniorpensionsenheden som en selvejende institution."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2020/869",
+            "citat": "Seniorpensionsenhedens hjemsted er Hillerød Kommune."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse om seniorpension",
+            "bindende": "bindende",
+            "note": "Kan indbringes for Ankestyrelsens Beskæftigelsesudvalg (retssikkerhedslovens § 64)."
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/680",
+            "citat": "Afgørelser, der træffes af Seniorpensionsenheden, kan indbringes for Ankestyrelsens Beskæftigelsesudvalg, jf. § 59 a,"
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Seniorpensionsenhedens afgørelse",
+        "seniorpension"
+      ],
+      "note": "Offentligt reguleret, selvejende institution med myndighedsansvar (star.dk). Beskæftigelsesministeren fører tilsyn med bestyrelsen (lovens § 9); Ankestyrelsen afgiver årlig redegørelse om sagsbehandlingen (lovens § 10). Kommunalbestyrelsens afgørelser efter lovens § 6, stk. 1 påklages til Ankestyrelsen (§ 6, stk. 2). Egen hjemmeside ikke fundet, derfor ingen url. Lov om social pension er den materielle hjemmel for seniorpension; gældende LBK ikke fastslået."
+    },
+    {
+      "id": "lov-arbejdsloeshedsforsikring",
+      "navn": "Lov om arbejdsløshedsforsikring m.v. (arbejdsløshedsforsikringsloven)",
+      "type": "lov",
+      "ministerium": "min-beskaeftigelse-og-ligestilling",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/808",
+            "citat": "Bekendtgørelse af lov om arbejdsløshedsforsikring m.v."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2026/808",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/808",
+            "citat": "Bekendtgørelse af lov om arbejdsløshedsforsikring m.v."
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2026/808",
+        "lovtidende": "LBK nr. 808 af 22/09/2026",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/808",
+            "citat": "Herved bekendtgøres lov om arbejdsløshedsforsikring m.v., jf. lovbekendtgørelse nr. 1077 af 28. august 2025"
+          }
+        ]
+      },
+      "note": "Kapitel 14 (tilsyn, § 88-90) og kapitel 16 (klage, § 98-99). LBK 1077/2025 er historisk siden 2026-11-10 pr. Retsinformation. To ændringer med ikrafttræden 1/12/2026 er endnu ikke indarbejdet."
+    },
+    {
+      "id": "lov-aktiv-socialpolitik",
+      "navn": "Lov om aktiv socialpolitik (aktivloven)",
+      "type": "lov",
+      "ministerium": "min-beskaeftigelse-og-ligestilling",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/793",
+            "citat": "Bekendtgørelse af lov om aktiv socialpolitik"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2026/793",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/793",
+            "citat": "Bekendtgørelse af lov om aktiv socialpolitik"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2026/793",
+        "lovtidende": "LBK nr. 793 af 11/09/2026",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/793",
+            "citat": "Herved bekendtgøres lov om aktiv socialpolitik, jf. lovbekendtgørelse nr. 1004 af 30. juni 2025, med de ændringer, der"
+          }
+        ]
+      },
+      "note": "Kontanthjælp m.v. Klageregler og tilsynsbestemmelser i denne lov er ikke læst; klage over kommunens afgørelser følger retssikkerhedslovens kapitel 10 og § 59 a."
+    },
+    {
+      "id": "lov-seniorpensionsenheden",
+      "navn": "Lov om Seniorpensionsenheden",
+      "type": "lov",
+      "ministerium": "min-beskaeftigelse-og-ligestilling",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2020/869",
+            "citat": "Lov om Seniorpensionsenheden"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2020/869",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2020/869",
+            "citat": "Lov om Seniorpensionsenheden"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2020/869",
+        "lovtidende": "LOV nr. 869 af 14/06/2020",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2020/869",
+            "citat": "Lov om Seniorpensionsenheden"
+          }
+        ]
+      },
+      "note": "Selvstændig lov (ikke lovbekendtgørelse) pr. Retsinformation; status Valid."
+    },
+    {
+      "id": "lov-aktiv-beskaeftigelsesindsats",
+      "navn": "Lov om en aktiv beskæftigelsesindsats (LAB)",
+      "type": "lov",
+      "ministerium": "min-beskaeftigelse-og-ligestilling",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/280",
+            "citat": "Bekendtgørelse af lov om en aktiv beskæftigelsesindsats"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2024/280",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/280",
+            "citat": "Bekendtgørelse af lov om en aktiv beskæftigelsesindsats"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2024/280",
+        "lovtidende": "LBK nr. 280 af 01/03/2024",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/280",
+            "citat": "Herved bekendtgøres lov om en aktiv beskæftigelsesindsats, jf. lovbekendtgørelse nr. 701 af 22. maj 2022"
+          }
+        ]
+      },
+      "note": "Gældende LBK pr. Retsinformation (lov om status ændret efter LBK: LOV 1750/2025, 303/2026 og 616/2026 er ændringslove efter LBK). Kapitel 34 (§ 204-205) er klagekapitlet. Lov nr. 1750/2025 afskaffer jobcentrekravet; ændringerne er ikke alle indarbejdet i LBK 280/2024."
+    },
+    {
+      "id": "lov-organisering-beskaeftigelsesindsatsen",
+      "navn": "Lov om organisering og understøttelse af beskæftigelsesindsatsen m.v. (LOB)",
+      "type": "lov",
+      "ministerium": "min-beskaeftigelse-og-ligestilling",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/254",
+            "citat": "Bekendtgørelse af lov om organisering og understøttelse af beskæftigelsesindsatsen m.v."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2024/254",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/254",
+            "citat": "Bekendtgørelse af lov om organisering og understøttelse af beskæftigelsesindsatsen m.v."
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2024/254",
+        "lovtidende": "LBK nr. 254 af 01/03/2024",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/254",
+            "citat": "Herved bekendtgøres lov om organisering og understøttelse af beskæftigelsesindsatsen m.v., jf. lovbekendtgørelse nr. 1294 af 20. september 2022"
+          }
+        ]
+      },
+      "note": "Kapitel 3 a (skærpet tilsyn med kommunerne, § 22 a-d) og kapitel 4 a (Tilsynsrådet, § 26 a-c). Lov nr. 1750/2025 ændrer loven; ikke alle ændringer er indarbejdet."
+    },
+    {
+      "id": "lov-sygedagpenge",
+      "navn": "Lov om sygedagpenge (sygedagpengeloven)",
+      "type": "lov",
+      "ministerium": "min-beskaeftigelse-og-ligestilling",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1221",
+            "citat": "Bekendtgørelse af lov om sygedagpenge"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2025/1221",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1221",
+            "citat": "Bekendtgørelse af lov om sygedagpenge"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2025/1221",
+        "lovtidende": "LBK nr. 1221 af 09/10/2025",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1221",
+            "citat": "Herved bekendtgøres lov om sygedagpenge, jf. lovbekendtgørelse nr. 97 af 29. januar 2025"
+          }
+        ]
+      },
+      "note": "Kapitel 28 (§ 77): kommunens afgørelser kan indbringes for Ankestyrelsens Beskæftigelsesudvalg; stk. 2 om Udbetaling Danmarks afgørelser (§ 59 b i retssikkerhedsloven)."
+    },
+    {
+      "id": "lov-social-pension",
+      "navn": "Lov om social pension",
+      "type": "lov",
+      "ministerium": "min-beskaeftigelse-og-ligestilling",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/970",
+            "citat": "Bekendtgørelse af lov om social pension"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2026/970",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/970",
+            "citat": "Bekendtgørelse af lov om social pension"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2026/970",
+        "lovtidende": "LBK nr. 970 af 06/11/2026",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/970",
+            "citat": "Herved bekendtgøres lov om social pension, jf. lovbekendtgørelse nr. 1123 af 21. oktober 2024"
+          }
+        ]
+      },
+      "note": "Afløser LBK 1123/2024 (historisk). § 26 d: Seniorpensionsenheden træffer afgørelse om seniorpension."
+    },
+    {
+      "id": "lov-udbetaling-danmark",
+      "navn": "Lov om Udbetaling Danmark",
+      "type": "lov",
+      "ministerium": "min-beskaeftigelse-og-ligestilling",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/975",
+            "citat": "Bekendtgørelse af lov om Udbetaling Danmark"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2026/975",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/975",
+            "citat": "Bekendtgørelse af lov om Udbetaling Danmark"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2026/975",
+        "lovtidende": "LBK nr. 975 af 05/11/2026",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/975",
+            "citat": "Herved bekendtgøres lov om Udbetaling Danmark, jf. lovbekendtgørelse nr. 1034 af 2. september 2024"
+          }
+        ]
+      },
+      "note": "Afløser LBK 1034/2024 (historisk). § 19: tilsyn med bestyrelsen udøves af beskæftigelsesministeren. § 12 h henviser udtrykkeligt til forordning (EF) nr. 883/2004."
+    },
+    {
+      "id": "lov-arbejdsskadesikring",
+      "navn": "Lov om arbejdsskadesikring (arbejdsskadesikringsloven)",
+      "type": "lov",
+      "ministerium": "min-beskaeftigelse-og-ligestilling",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/667",
+            "citat": "Bekendtgørelse af lov om arbejdsskadesikring"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2026/667",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/667",
+            "citat": "Bekendtgørelse af lov om arbejdsskadesikring"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2026/667",
+        "lovtidende": "LBK nr. 667 af 08/07/2026",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/667",
+            "citat": "Herved bekendtgøres lov om arbejdsskadesikring, jf. lovbekendtgørelse nr. 1279 af 4. november 2025"
+          }
+        ]
+      },
+      "note": "Afløser LBK 1279/2025 (historisk). Klagekapitlet: § 44 (Ankestyrelsen, 4 uger) og § 45 (ankenævnet efter ATP-loven § 28 for erhvervssygdomsbidrag)."
+    },
+    {
+      "id": "lov-aes",
+      "navn": "Lov om den selvejende institution Arbejdsmarkedets Erhvervssikring",
+      "type": "lov",
+      "ministerium": "min-beskaeftigelse-og-ligestilling",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/668",
+            "citat": "Bekendtgørelse af lov om den selvejende institution Arbejdsmarkedets Erhvervssikring"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2026/668",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/668",
+            "citat": "Bekendtgørelse af lov om den selvejende institution Arbejdsmarkedets Erhvervssikring"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2026/668",
+        "lovtidende": "LBK nr. 668 af 08/07/2026",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/668",
+            "citat": "Herved bekendtgøres lov om den selvejende institution Arbejdsmarkedets Erhvervssikring, jf. lovbekendtgørelse nr. 980 af 9. september 2019"
+          }
+        ]
+      },
+      "note": "Afløser LBK 980/2019 (historisk)."
+    },
+    {
+      "id": "lov-loenmodtagernes-garantifond",
+      "navn": "Lov om Lønmodtagernes Garantifond",
+      "type": "lov",
+      "ministerium": "min-beskaeftigelse-og-ligestilling",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1244",
+            "citat": "Bekendtgørelse af lov om Lønmodtagernes Garantifond"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2024/1244",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1244",
+            "citat": "Bekendtgørelse af lov om Lønmodtagernes Garantifond"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2024/1244",
+        "lovtidende": "LBK nr. 1244 af 27/11/2024",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1244",
+            "citat": "Herved bekendtgøres lov om Lønmodtagernes Garantifond, jf. lovbekendtgørelse nr. 686 af 20. juni 2011"
+          }
+        ]
+      },
+      "note": "Gældende LBK pr. Retsinformation."
+    },
+    {
+      "id": "lov-atp",
+      "navn": "Lov om Arbejdsmarkedets Tillægspension (ATP-loven)",
+      "type": "lov",
+      "ministerium": "min-beskaeftigelse-og-ligestilling",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/976",
+            "citat": "Bekendtgørelse af lov om Arbejdsmarkedets Tillægspension"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2026/976",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/976",
+            "citat": "Bekendtgørelse af lov om Arbejdsmarkedets Tillægspension"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2026/976",
+        "lovtidende": "LBK nr. 976 af 05/11/2026",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/976",
+            "citat": "Herved bekendtgøres lov om Arbejdsmarkedets Tillægspension, jf. lovbekendtgørelse nr. 1142 af 1. november 2024"
+          }
+        ]
+      },
+      "note": "Afløser LBK 1142/2024 (historisk). Kapitel 10 (§ 28) Ankenævn."
+    },
+    {
+      "id": "org-arbejdsmarkedets-erhvervssikring",
+      "navn": "Arbejdsmarkedets Erhvervssikring (AES)",
+      "type": "offentlig-virksomhed",
+      "ministerium": "min-beskaeftigelse-og-ligestilling",
+      "status": "aktiv",
+      "tidligere_navne": [
+        {
+          "navn": "Arbejdsskadestyrelsen",
+          "periode": "indtil 1/7/2016",
+          "belaeg": [
+            {
+              "url": "https://aes.dk/om-arbejdsmarkedets-erhvervssikring",
+              "citat": "Arbejdsmarkedets Erhvervssikring (AES) blev etableret 1. juli 2016 og er en sammenlægning af den tidligere Arbejdsskadestyrelsen og dele af det tidligere Arbejdsmarkedets Erhvervssygdomssikring."
+            }
+          ]
+        }
+      ],
+      "hjemmel": {
+        "tekst": "Lov om AES § 1: oprettes som selvejende institution (hjemsted Hillerød); § 2, stk. 2: varetager sager, der efter tidligere lovgivning var henlagt til Arbejdsskadestyrelsen; arbejdsskadesikringsloven § 44: AES træffer afgørelser efter loven.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/668",
+            "citat": "Med denne lov oprettes Arbejdsmarkedets Erhvervssikring som en selvejende institution."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/668",
+            "citat": "Arbejdsmarkedets Erhvervssikring varetager desuden administrationen af sager, der efter tidligere lovgivning er henlagt til Arbejdsskadestyrelsen"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://aes.dk/",
+        "belaeg": [
+          {
+            "url": "https://aes.dk/om-arbejdsmarkedets-erhvervssikring",
+            "citat": "Arbejdsmarkedets Erhvervssikring (AES) er en selvejende institution administreret af ATP."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse om arbejdsskade",
+            "bindende": "bindende",
+            "note": "Kan indbringes for Ankestyrelsen (arbejdsskadesikringsloven § 44)."
+          },
+          {
+            "type": "vejledning og praksisbeskrivelse",
+            "bindende": "vejledende",
+            "note": "Offentliggøres på aes.dk/love-og-praksis."
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/667",
+            "citat": "Arbejdsmarkedets Erhvervssikrings afgørelser efter § 40 kan indbringes for Ankestyrelsen af"
+          },
+          {
+            "url": "https://aes.dk/love-og-praksis",
+            "citat": "Se de centrale love og bekendtgørelser på arbejdsskadeområdet, og få svar på dine juridiske spørgsmål i vores vejledninger og praksisbeskrivelser."
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Arbejdsmarkedets Erhvervssikring",
+        "AES",
+        "Arbejdsskadestyrelsen"
+      ],
+      "note": "Klagevej: AES-afgørelse efter § 40 -> Ankestyrelsen (4 uger, § 44, stk. 2; AES genvurderer først, stk. 8). Afgiftsklager om erhvervssygdomsbidrag (§§ 55-58 c) -> ankenævnet efter ATP-loven § 28 (§ 45). Administreres af ATP (aes.dk). Ankestyrelsens afgørelse: domstolsprøvelse er ikke efterprøvet."
+    },
+    {
+      "id": "fond-loenmodtagernes-garantifond",
+      "navn": "Lønmodtagernes Garantifond (LG)",
+      "type": "fond",
+      "ministerium": "min-beskaeftigelse-og-ligestilling",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Lov om Lønmodtagernes Garantifond § 1: fonden oprettes til sikring af lønmodtageres krav på løn m.v. ved arbejdsgiverens konkurs, død, ophør eller rekonstruktion; § 11: administreres af ATP.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1244",
+            "citat": "Lønmodtagernes Garantifond oprettes til sikring af lønmodtageres krav på løn m.v. i følgende tilfælde:"
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1244",
+            "citat": "Fonden administreres af Arbejdsmarkedets Tillægspension, jf. kapitel VII i lov om Arbejdsmarkedets Tillægspension."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse om udbetaling fra fonden",
+            "bindende": "bindende",
+            "note": "Ingen administrativ klageinstans for lønkrav; fonden kan henvise lønmodtageren til domstolene (§ 6)."
+          },
+          {
+            "type": "afgørelse om finansieringsbidrag",
+            "bindende": "bindende",
+            "note": "Kan indbringes for Ankenævnet for ATP inden 4 uger (§ 9, stk. 10)."
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1244",
+            "citat": "kan fonden henvise lønmodtageren til at søge kravet fastslået ved domstolene."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1244",
+            "citat": "indbringes for Ankenævnet for Arbejdsmarkedets Tillægspension, jf. § 28 i lov om Arbejdsmarkedets Tillægspension."
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Lønmodtagernes Garantifond",
+        "LG"
+      ],
+      "note": "Fondens egen hjemmeside ikke åbnet (lg.dk kunne ikke hentes), derfor ingen url."
+    },
+    {
+      "id": "org-atp",
+      "navn": "Arbejdsmarkedets Tillægspension (ATP)",
+      "type": "offentlig-virksomhed",
+      "ministerium": "min-beskaeftigelse-og-ligestilling",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ATP-loven § 1, stk. 1-2: oprettes for at udbetale tillægspension og kan varetage administration af ordninger og opgaver henlagt ved anden lov (fx LG og AES); § 20, stk. 2: beskæftigelsesministeren fastsætter vedtægterne.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/976",
+            "citat": "Med det formål at udbetale lønmodtagere m.fl. tillægspension i overensstemmelse med denne lov oprettes Arbejdsmarkedets Tillægspension."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/976",
+            "citat": "Arbejdsmarkedets Tillægspension kan derudover varetage administration af ordninger og opgaver henlagt ved anden lov."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.atp.dk/",
+        "belaeg": [
+          {
+            "url": "https://www.atp.dk/",
+            "citat": "Alle danskere er i berøring med ATP på et eller andet tidspunkt i løbet af livet."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse om medlemskab, bidrag og pension",
+            "bindende": "bindende",
+            "note": "Kan indbringes for ankenævn inden 4 uger (ATP-loven § 28)."
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/976",
+            "citat": "kan – bortset fra beslutninger, der er truffet i henhold til § 15, stk. 1, samt beslutninger omfattet af kapitel 6 – inden for en frist på 4 uger fra den dag, hvor afgørelsen er meddelt, indbringes for et ankenævn."
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Arbejdsmarkedets Tillægspension",
+        "ATP"
+      ],
+      "note": "Finanstilsynet fører tilsyn med ATP (ATP-loven kapitel 9, § 27 a). ATP administrerer LG og AES; fra 1/10/2026 også SU (atp.dk, uden for området). Rollen som administrator er ikke en myndighedsfunktion i ATP's eget navn."
+    },
+    {
+      "id": "naevn-ankenaevn-atp",
+      "navn": "Ankenævnet for Arbejdsmarkedets Tillægspension",
+      "type": "klagenævn",
+      "ministerium": "min-beskaeftigelse-og-ligestilling",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ATP-lovens kapitel 10, § 28: ATP's afgørelser om medlemskab, bidrag og pension kan indbringes for et ankenævn inden 4 uger; stk. 3: 5 medlemmer udnævnt af beskæftigelsesministeren.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/976",
+            "citat": "kan – bortset fra beslutninger, der er truffet i henhold til § 15, stk. 1, samt beslutninger omfattet af kapitel 6 – inden for en frist på 4 uger fra den dag, hvor afgørelsen er meddelt, indbringes for et ankenævn."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse",
+            "bindende": "ukendt",
+            "note": "Endelighed er ikke efterprøvet."
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/976",
+            "citat": "Ankenævnet kan til brug for sin vurdering af sagerne indhente uafhængig sagkyndig bistand."
+          }
+        ]
+      },
+      "note": "Hjemmeside ikke fundet, derfor ingen url. Behandler også klager over LG's finansieringsbidrag (LG-loven § 9, stk. 10) og AES' bidrag til erhvervssygdomme (arbejdsskadesikringsloven § 45)."
+    },
+    {
+      "id": "raad-tilsynsraadet",
+      "navn": "Tilsynsrådet (STAR)",
+      "type": "råd",
+      "ministerium": "min-beskaeftigelse-og-ligestilling",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "LOB § 26 a: Tilsynsrådet er rådgivende for beskæftigelsesministeren om STAR's tilsynsvirksomhed (a-kasser, kommuner, Udbetaling Danmark); § 26 b: 8 medlemmer udpeget af beskæftigelsesministeren.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/254",
+            "citat": "Tilsynsrådet er rådgivende for beskæftigelsesministeren i spørgsmål vedrørende Styrelsen for Arbejdsmarked og Rekrutterings tilsynsvirksomhed"
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/254",
+            "citat": "Tilsynsrådet har 8 medlemmer, hvoraf 1 formand og 1 medlem udpeges af beskæftigelsesministeren."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "rådgivning til ministeren",
+            "bindende": "vejledende"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/254",
+            "citat": "Tilsynsrådet er rådgivende for beskæftigelsesministeren i spørgsmål vedrørende Styrelsen for Arbejdsmarked og Rekrutterings tilsynsvirksomhed"
+          }
+        ]
+      },
+      "note": "Egen hjemmeside ikke fundet, derfor ingen url. Behandler bl.a. rapporter fra STAR-direktøren efter ALFL § 88, stk. 7 (LOB § 26 c, stk. 1)."
+    },
+    {
+      "id": "kilde-star-love-og-regler",
+      "navn": "STAR: Love og regler (henvisning til Retsinformation)",
+      "type": "dokumentkilde",
+      "ministerium": "min-beskaeftigelse-og-ligestilling",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://star.dk/om-styrelsen/love-og-regler",
+        "belaeg": [
+          {
+            "url": "https://star.dk/om-styrelsen/love-og-regler",
+            "citat": "På retsinformation.dk ligger love, lovbekendtgørelser, bekendtgørelser og vejledninger for Styrelsen for Arbejdsmarked og Rekrutterings område."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "lov",
+            "bindende": "bindende"
+          },
+          {
+            "type": "bekendtgørelse",
+            "bindende": "bindende"
+          },
+          {
+            "type": "vejledning",
+            "bindende": "vejledende"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://star.dk/om-styrelsen/love-og-regler",
+            "citat": "På retsinformation.dk ligger love, lovbekendtgørelser, bekendtgørelser og vejledninger for Styrelsen for Arbejdsmarked og Rekrutterings område."
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML"
+        ],
+        "note": "Selve siden er kun en henvisning; teksterne ligger på Retsinformation (ELI/API dér).",
+        "belaeg": [
+          {
+            "url": "https://star.dk/om-styrelsen/love-og-regler",
+            "citat": "Love og regler for Styrelsen for Arbejdsmarked og Rekrutterings område kan du finde på retsinformation.dk"
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 2,
+        "besvaer": 2,
+        "begrundelse": "Kun en peger til Retsinformation; STAR's regler hentes bedre direkte fra kilde-retsinformation."
+      }
+    },
+    {
+      "id": "kilde-aes-love-og-praksis",
+      "navn": "AES: Love og praksis",
+      "type": "dokumentkilde",
+      "ministerium": "min-beskaeftigelse-og-ligestilling",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://aes.dk/love-og-praksis",
+        "belaeg": [
+          {
+            "url": "https://aes.dk/love-og-praksis",
+            "citat": "Se de centrale love og bekendtgørelser på arbejdsskadeområdet, og få svar på dine juridiske spørgsmål i vores vejledninger og praksisbeskrivelser."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "vejledning",
+            "bindende": "vejledende"
+          },
+          {
+            "type": "praksisbeskrivelse",
+            "bindende": "vejledende"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://aes.dk/love-og-praksis",
+            "citat": "Se de centrale love og bekendtgørelser på arbejdsskadeområdet, og få svar på dine juridiske spørgsmål i vores vejledninger og praksisbeskrivelser."
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML"
+        ],
+        "note": "Webside uden API; undersider pr. emne (fx Lov om arbejdsskader 2024, Erhvervssygdomsfortegnelsen).",
+        "belaeg": [
+          {
+            "url": "https://aes.dk/love-og-praksis",
+            "citat": "Lovstof om arbejdsskader Se de centrale love og bekendtgørelser på arbejdsskadeområdet"
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 3,
+        "besvaer": 3,
+        "begrundelse": "Eneste samlede kilde til AES' vejledninger og praksisbeskrivelser; nummersystem, opdateringsfrekvens og licens ikke fundet."
+      }
+    }
+  ],
+  "kanter": [
+    {
+      "from": "min-beskaeftigelse-og-ligestilling",
+      "type": "ressortansvar",
+      "to": "sty-star",
+      "beskrivelse": "STAR er en styrelse under Beskæftigelses- og Ligestillingsministeriet (star.dk skriver 'Beskæftigelses-og').",
+      "belaeg": [
+        {
+          "url": "https://www.star.dk/om-styrelsen/",
+          "citat": "er en styrelse, der hører under Beskæftigelses-og Ligestillingsministeriet"
+        }
+      ]
+    },
+    {
+      "from": "min-beskaeftigelse-og-ligestilling",
+      "type": "ressortansvar",
+      "to": "lov-arbejdsloeshedsforsikring",
+      "beskrivelse": "Loven hører under Beskæftigelses- og Ligestillingsministeriet (Retsinformations ministerfelt).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/808",
+          "citat": "Beskæftigelses- og Ligestillingsministeriet"
+        }
+      ]
+    },
+    {
+      "from": "min-beskaeftigelse-og-ligestilling",
+      "type": "ressortansvar",
+      "to": "lov-aktiv-socialpolitik",
+      "beskrivelse": "Loven hører under Beskæftigelses- og Ligestillingsministeriet (Retsinformations ministerfelt).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/793",
+          "citat": "Beskæftigelses- og Ligestillingsministeriet"
+        }
+      ]
+    },
+    {
+      "from": "min-beskaeftigelse-og-ligestilling",
+      "type": "ressortansvar",
+      "to": "lov-seniorpensionsenheden",
+      "beskrivelse": "Loven hører under Beskæftigelses- og Ligestillingsministeriet (Retsinformations ministerfelt).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2020/869",
+          "citat": "Beskæftigelses- og Ligestillingsministeriet"
+        }
+      ]
+    },
+    {
+      "from": "min-beskaeftigelse-og-ligestilling",
+      "type": "ressortansvar",
+      "to": "org-seniorpensionsenheden",
+      "beskrivelse": "Beskæftigelsesministeren fører tilsyn med bestyrelsen (lovens § 9); ressortforholdet er udledt heraf.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2020/869",
+          "citat": "Beskæftigelsesministeren fører tilsyn med, at bestyrelsen for Seniorpensionsenheden udfører sit hverv"
+        }
+      ]
+    },
+    {
+      "from": "lov-arbejdsloeshedsforsikring",
+      "type": "hjemmel_for",
+      "to": "sty-star",
+      "beskrivelse": "§ 88, stk. 1 giver STAR's direktør tilsynskompetencen; § 98 og § 99 giver klagekompetencen.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/808",
+          "citat": "Direktøren for Styrelsen for Arbejdsmarked og Rekruttering fører tilsyn med de anerkendte arbejdsløshedskasser."
+        }
+      ]
+    },
+    {
+      "from": "lov-arbejdsloeshedsforsikring",
+      "type": "hjemmel_for",
+      "to": "org-a-kasser",
+      "beskrivelse": "Loven regulerer anerkendelse, drift og tilsyn med de anerkendte arbejdsløshedskasser (§ 88).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/808",
+          "citat": "Direktøren for Styrelsen for Arbejdsmarked og Rekruttering fører tilsyn med de anerkendte arbejdsløshedskasser."
+        }
+      ]
+    },
+    {
+      "from": "lov-seniorpensionsenheden",
+      "type": "hjemmel_for",
+      "to": "org-seniorpensionsenheden",
+      "beskrivelse": "§ 1 opretter Seniorpensionsenheden som selvejende institution.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2020/869",
+          "citat": "Med denne lov oprettes Seniorpensionsenheden som en selvejende institution."
+        }
+      ]
+    },
+    {
+      "from": "lov-seniorpensionsenheden",
+      "type": "henviser_til",
+      "to": "lov-retssikkerhedsloven-social",
+      "beskrivelse": "§ 6, stk. 2: kommunalbestyrelsens afgørelser kan påklages til Ankestyrelsen efter retssikkerhedslovens kapitel 10.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2020/869",
+          "citat": "Kommunalbestyrelsens afgørelser efter stk. 1 kan påklages til Ankestyrelsen efter reglerne i kapitel 10"
+        }
+      ]
+    },
+    {
+      "from": "sty-star",
+      "type": "tilsyn",
+      "to": "org-a-kasser",
+      "beskrivelse": "Arbejdsløshedsforsikringslovens § 88, stk. 1: direktøren for STAR fører tilsyn med de anerkendte a-kasser (stk. 2: særligt tilsyn med rådighedsreglerne; stk. 3: kan ændre kassens afgørelser om medlemmers rettigheder og pligter).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/808",
+          "citat": "Direktøren for Styrelsen for Arbejdsmarked og Rekruttering fører tilsyn med de anerkendte arbejdsløshedskasser."
+        },
+        {
+          "url": "https://star.dk/tilsyn-og-opfoelgning-paa-beskaeftigelsesomraadet",
+          "citat": "STAR følger op på, at a-kasserne forvalter dagpengeområdet korrekt og effektivt"
+        }
+      ]
+    },
+    {
+      "from": "sty-star",
+      "type": "klageinstans",
+      "to": "org-a-kasser",
+      "beskrivelse": "Arbejdsløshedsforsikringslovens § 98, stk. 1: klage over a-kassens afgørelser indbringes for STAR's direktør inden 4 uger efter meddelelsen; kassens hovedledelse skal først vurdere sagen. Behandles i Center for Klager om Arbejdsløshedsforsikring (CKA) i STAR. Afgørelsen kan indbringes for Ankestyrelsens Beskæftigelsesudvalg (§ 99).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/808",
+          "citat": "Klage over arbejdsløshedskassernes afgørelser efter denne lov kan af den, afgørelsen vedrører, indbringes for"
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/808",
+          "citat": "direktøren for Styrelsen for Arbejdsmarked og Rekruttering inden 4 uger efter,"
+        },
+        {
+          "url": "https://www.star.dk/media/zgafgoih/aarsstatistik-for-cka-2024.pdf",
+          "citat": "statistik over de sager, som Center for Klager om Arbejdsløshedsforsikring"
+        },
+        {
+          "url": "https://www.star.dk/media/zgafgoih/aarsstatistik-for-cka-2024.pdf",
+          "citat": "CKAs hovedopgave er at behandle klager fra medlemmer af en a-kasse."
+        }
+      ]
+    },
+    {
+      "from": "sty-ankestyrelsen",
+      "type": "klageinstans",
+      "to": "sty-star",
+      "beskrivelse": "Arbejdsløshedsforsikringslovens § 99, stk. 1: klage over STAR-direktørens afgørelser om medlemmers rettigheder og pligter indbringes for Ankestyrelsens Beskæftigelsesudvalg inden 4 uger. Afgørelsen er endelig administrativt: Beskæftigelsesudvalgets afgørelser kan ikke indbringes for anden administrativ myndighed (§ 99, stk. 2). Klagen sendes først til direktøren, der vurderer sagen på ny.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/808",
+          "citat": "Klage over direktøren for Styrelsen for Arbejdsmarked og Rekrutterings afgørelser om medlemmers rettigheder og pligter"
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/808",
+          "citat": "efter denne lov kan af den, afgørelsen vedrører, indbringes for Ankestyrelsens Beskæftigelsesudvalg inden 4 uger"
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/808",
+          "citat": "Beskæftigelsesudvalgets afgørelser kan ikke indbringes for anden administrativ myndighed."
+        },
+        {
+          "url": "https://www.star.dk/media/zgafgoih/aarsstatistik-for-cka-2024.pdf",
+          "citat": "CKAs afgørelser kan påklages til Ankestyrelsens Beskæftigelsesudvalg (AST)."
+        }
+      ]
+    },
+    {
+      "from": "sty-ankestyrelsen",
+      "type": "klageinstans",
+      "to": "org-seniorpensionsenheden",
+      "beskrivelse": "Retssikkerhedslovens § 64, stk. 1: Seniorpensionsenhedens afgørelser kan indbringes for Ankestyrelsens Beskæftigelsesudvalg i det omfang, det er fastsat i lov om social pension.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/680",
+          "citat": "Afgørelser, der træffes af Seniorpensionsenheden, kan indbringes for Ankestyrelsens Beskæftigelsesudvalg, jf. § 59 a,"
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/680",
+          "citat": "af den person, som afgørelsen vedrører, i det omfang det er fastsat i lov om social pension."
+        }
+      ]
+    },
+    {
+      "from": "min-beskaeftigelse-og-ligestilling",
+      "type": "ressortansvar",
+      "to": "lov-aktiv-beskaeftigelsesindsats",
+      "beskrivelse": "Loven hører under Beskæftigelses- og Ligestillingsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/280",
+          "citat": "Bekendtgørelse af lov om en aktiv beskæftigelsesindsats"
+        }
+      ]
+    },
+    {
+      "from": "min-beskaeftigelse-og-ligestilling",
+      "type": "ressortansvar",
+      "to": "lov-organisering-beskaeftigelsesindsatsen",
+      "beskrivelse": "Loven hører under Beskæftigelses- og Ligestillingsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/254",
+          "citat": "Bekendtgørelse af lov om organisering og understøttelse af beskæftigelsesindsatsen m.v."
+        }
+      ]
+    },
+    {
+      "from": "min-beskaeftigelse-og-ligestilling",
+      "type": "ressortansvar",
+      "to": "lov-sygedagpenge",
+      "beskrivelse": "Loven hører under Beskæftigelses- og Ligestillingsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1221",
+          "citat": "Bekendtgørelse af lov om sygedagpenge"
+        }
+      ]
+    },
+    {
+      "from": "min-beskaeftigelse-og-ligestilling",
+      "type": "ressortansvar",
+      "to": "lov-social-pension",
+      "beskrivelse": "Loven hører under Beskæftigelses- og Ligestillingsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/970",
+          "citat": "Bekendtgørelse af lov om social pension"
+        }
+      ]
+    },
+    {
+      "from": "min-beskaeftigelse-og-ligestilling",
+      "type": "ressortansvar",
+      "to": "lov-udbetaling-danmark",
+      "beskrivelse": "Loven hører under Beskæftigelses- og Ligestillingsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/975",
+          "citat": "Bekendtgørelse af lov om Udbetaling Danmark"
+        }
+      ]
+    },
+    {
+      "from": "min-beskaeftigelse-og-ligestilling",
+      "type": "ressortansvar",
+      "to": "lov-arbejdsskadesikring",
+      "beskrivelse": "Loven hører under Beskæftigelses- og Ligestillingsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/667",
+          "citat": "Bekendtgørelse af lov om arbejdsskadesikring"
+        }
+      ]
+    },
+    {
+      "from": "min-beskaeftigelse-og-ligestilling",
+      "type": "ressortansvar",
+      "to": "lov-aes",
+      "beskrivelse": "Loven hører under Beskæftigelses- og Ligestillingsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/668",
+          "citat": "Bekendtgørelse af lov om den selvejende institution Arbejdsmarkedets Erhvervssikring"
+        }
+      ]
+    },
+    {
+      "from": "min-beskaeftigelse-og-ligestilling",
+      "type": "ressortansvar",
+      "to": "lov-loenmodtagernes-garantifond",
+      "beskrivelse": "Loven hører under Beskæftigelses- og Ligestillingsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1244",
+          "citat": "Bekendtgørelse af lov om Lønmodtagernes Garantifond"
+        }
+      ]
+    },
+    {
+      "from": "min-beskaeftigelse-og-ligestilling",
+      "type": "ressortansvar",
+      "to": "lov-atp",
+      "beskrivelse": "Loven hører under Beskæftigelses- og Ligestillingsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/976",
+          "citat": "Bekendtgørelse af lov om Arbejdsmarkedets Tillægspension"
+        }
+      ]
+    },
+    {
+      "from": "min-beskaeftigelse-og-ligestilling",
+      "type": "ressortansvar",
+      "to": "org-arbejdsmarkedets-erhvervssikring",
+      "beskrivelse": "Beskæftigelsesministeren fastsætter regler for AES' fordeling af beløb; ressortforholdet er udledt af AES-loven.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/668",
+          "citat": "Beskæftigelsesministeren fastsætter efter forhandling med Finanstilsynet nærmere regler for den endelige fordeling af beløb vedrørende arbejdsulykker"
+        }
+      ]
+    },
+    {
+      "from": "min-beskaeftigelse-og-ligestilling",
+      "type": "ressortansvar",
+      "to": "fond-loenmodtagernes-garantifond",
+      "beskrivelse": "Beskæftigelsesministeren fastsætter regler for fondens behandling af krav; ressortforholdet er udledt af LG-loven.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1244",
+          "citat": "anmeldelse af krav over for fonden, herunder frist for indgivelse af anmeldelse,"
+        }
+      ]
+    },
+    {
+      "from": "min-beskaeftigelse-og-ligestilling",
+      "type": "ressortansvar",
+      "to": "org-atp",
+      "beskrivelse": "Beskæftigelsesministeren fastsætter ATP's vedtægter (ATP-loven § 20, stk. 2).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/976",
+          "citat": "Beskæftigelsesministeren fastsætter vedtægterne for Arbejdsmarkedets Tillægspension."
+        }
+      ]
+    },
+    {
+      "from": "min-beskaeftigelse-og-ligestilling",
+      "type": "ressortansvar",
+      "to": "naevn-ankenaevn-atp",
+      "beskrivelse": "Medlemmerne udnævnes af beskæftigelsesministeren (ATP-loven § 28, stk. 3).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/976",
+          "citat": "Ankenævnet består af 5 medlemmer, der tillige med en suppleant for hvert medlem udnævnes af beskæftigelsesministeren"
+        }
+      ]
+    },
+    {
+      "from": "min-beskaeftigelse-og-ligestilling",
+      "type": "ressortansvar",
+      "to": "raad-tilsynsraadet",
+      "beskrivelse": "Rådgiver for og udpeges af beskæftigelsesministeren (LOB § 26 a-b).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/254",
+          "citat": "Tilsynsrådet har 8 medlemmer, hvoraf 1 formand og 1 medlem udpeges af beskæftigelsesministeren."
+        }
+      ]
+    },
+    {
+      "from": "lov-arbejdsskadesikring",
+      "type": "hjemmel_for",
+      "to": "org-arbejdsmarkedets-erhvervssikring",
+      "beskrivelse": "§ 44, stk. 1: AES' afgørelser efter § 40 kan indbringes for Ankestyrelsen.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/667",
+          "citat": "Arbejdsmarkedets Erhvervssikrings afgørelser efter § 40 kan indbringes for Ankestyrelsen af"
+        }
+      ]
+    },
+    {
+      "from": "lov-aes",
+      "type": "hjemmel_for",
+      "to": "org-arbejdsmarkedets-erhvervssikring",
+      "beskrivelse": "§ 1 opretter AES som selvejende institution.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/668",
+          "citat": "Med denne lov oprettes Arbejdsmarkedets Erhvervssikring som en selvejende institution."
+        }
+      ]
+    },
+    {
+      "from": "lov-loenmodtagernes-garantifond",
+      "type": "hjemmel_for",
+      "to": "fond-loenmodtagernes-garantifond",
+      "beskrivelse": "§ 1 opretter fonden.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1244",
+          "citat": "Lønmodtagernes Garantifond oprettes til sikring af lønmodtageres krav på løn m.v. i følgende tilfælde:"
+        }
+      ]
+    },
+    {
+      "from": "lov-atp",
+      "type": "hjemmel_for",
+      "to": "org-atp",
+      "beskrivelse": "§ 1 opretter ATP.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/976",
+          "citat": "Med det formål at udbetale lønmodtagere m.fl. tillægspension i overensstemmelse med denne lov oprettes Arbejdsmarkedets Tillægspension."
+        }
+      ]
+    },
+    {
+      "from": "lov-atp",
+      "type": "hjemmel_for",
+      "to": "naevn-ankenaevn-atp",
+      "beskrivelse": "§ 28 (kapitel 10 Ankenævn): afgørelser om medlemskab, bidrag og pension indbringes for et ankenævn inden 4 uger.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/976",
+          "citat": "kan – bortset fra beslutninger, der er truffet i henhold til § 15, stk. 1, samt beslutninger omfattet af kapitel 6 – inden for en frist på 4 uger fra den dag, hvor afgørelsen er meddelt, indbringes for et ankenævn."
+        }
+      ]
+    },
+    {
+      "from": "lov-organisering-beskaeftigelsesindsatsen",
+      "type": "hjemmel_for",
+      "to": "raad-tilsynsraadet",
+      "beskrivelse": "§ 26 a: Tilsynsrådet er rådgivende for ministeren om STAR's tilsyn.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/254",
+          "citat": "Tilsynsrådet er rådgivende for beskæftigelsesministeren i spørgsmål vedrørende Styrelsen for Arbejdsmarked og Rekrutterings tilsynsvirksomhed"
+        }
+      ]
+    },
+    {
+      "from": "lov-social-pension",
+      "type": "hjemmel_for",
+      "to": "org-seniorpensionsenheden",
+      "beskrivelse": "§ 26 d: Seniorpensionsenheden træffer afgørelse om seniorpension.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/970",
+          "citat": "Seniorpensionsenheden træffer afgørelse om seniorpension."
+        }
+      ]
+    },
+    {
+      "from": "lov-aktiv-beskaeftigelsesindsats",
+      "type": "henviser_til",
+      "to": "lov-retssikkerhedsloven-social",
+      "beskrivelse": "§ 204, stk. 1: kommunens (jobcenterets) afgørelser kan indbringes for Ankestyrelsens Beskæftigelsesudvalg, jf. retssikkerhedslovens § 59 a.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/280",
+          "citat": "Kommunens, herunder jobcenterets, afgørelser efter denne lov kan indbringes for Ankestyrelsens Beskæftigelsesudvalg, jf. § 59 a i lov om retssikkerhed og administration på det sociale område."
+        }
+      ]
+    },
+    {
+      "from": "lov-sygedagpenge",
+      "type": "henviser_til",
+      "to": "lov-retssikkerhedsloven-social",
+      "beskrivelse": "§ 77, stk. 1: kommunens afgørelser kan indbringes for Ankestyrelsens Beskæftigelsesudvalg, jf. § 59 a; stk. 2: Udbetaling Danmarks afgørelser om selvstændig indtægt og privat arbejdsgiver, jf. § 59 b.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1221",
+          "citat": "Kommunens afgørelser efter denne lov kan indbringes for Ankestyrelsens Beskæftigelsesudvalg, jf. § 59 a i lov om retssikkerhed og administration på det sociale område."
+        }
+      ]
+    },
+    {
+      "from": "lov-udbetaling-danmark",
+      "type": "henviser_til",
+      "to": "lov-retssikkerhedsloven-social",
+      "beskrivelse": "§ 13, stk. 4: kommunalbestyrelsens afgørelser om fritagelse for obligatorisk digital selvbetjening kan påklages til Ankestyrelsen efter retssikkerhedslovens kapitel 10.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/975",
+          "citat": "kan påklages til Ankestyrelsen efter reglerne i kapitel 10 i lov om retssikkerhed og administration på det sociale område."
+        }
+      ]
+    },
+    {
+      "from": "lov-arbejdsskadesikring",
+      "type": "henviser_til",
+      "to": "lov-atp",
+      "beskrivelse": "§ 45: klager over AES' afgørelser efter §§ 55-58 c indbringes for ankenævnet efter ATP-lovens § 28 inden 4 uger.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/667",
+          "citat": "indbringes for det i henhold til lov om Arbejdsmarkedets Tillægspension § 28 nedsatte ankenævn."
+        }
+      ]
+    },
+    {
+      "from": "lov-loenmodtagernes-garantifond",
+      "type": "henviser_til",
+      "to": "lov-atp",
+      "beskrivelse": "§ 9, stk. 10: afgørelser om finansieringsbidrag indbringes for Ankenævnet for ATP inden 4 uger, jf. ATP-lovens § 28; § 11: fonden administreres af ATP.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1244",
+          "citat": "indbringes for Ankenævnet for Arbejdsmarkedets Tillægspension, jf. § 28 i lov om Arbejdsmarkedets Tillægspension."
+        }
+      ]
+    },
+    {
+      "from": "sty-ankestyrelsen",
+      "type": "klageinstans",
+      "to": "org-arbejdsmarkedets-erhvervssikring",
+      "beskrivelse": "Arbejdsskadesikringslovens § 44: AES' afgørelser efter § 40 kan indbringes for Ankestyrelsen af tilskadekomne m.fl. Klage skal indgives inden 4 uger efter modtagelsen (stk. 2); Ankestyrelsen kan se bort fra fristen ved særlig grund (stk. 3). Ankestyrelsens afgørelser kan ikke indbringes for anden administrativ myndighed (retssikkerhedsloven § 50, stk. 4).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/667",
+          "citat": "Arbejdsmarkedets Erhvervssikrings afgørelser efter § 40 kan indbringes for Ankestyrelsen af"
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/667",
+          "citat": "Klage efter stk. 1 skal indgives inden 4 uger efter, at klageren har modtaget afgørelsen."
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/667",
+          "citat": "Ankestyrelsen kan se bort fra overskridelse af klagefristen, når der er særlig grund hertil."
+        }
+      ]
+    },
+    {
+      "from": "naevn-ankenaevn-atp",
+      "type": "klageinstans",
+      "to": "org-atp",
+      "beskrivelse": "ATP-lovens § 28, stk. 1: ATP's afgørelser om medlemskab, bidrag og pension kan indbringes for et ankenævn inden 4 uger.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/976",
+          "citat": "kan – bortset fra beslutninger, der er truffet i henhold til § 15, stk. 1, samt beslutninger omfattet af kapitel 6 – inden for en frist på 4 uger fra den dag, hvor afgørelsen er meddelt, indbringes for et ankenævn."
+        }
+      ]
+    },
+    {
+      "from": "naevn-ankenaevn-atp",
+      "type": "klageinstans",
+      "to": "fond-loenmodtagernes-garantifond",
+      "beskrivelse": "LG-lovens § 9, stk. 10: afgørelser om finansieringsbidragspligt og finansieringsbidrag kan inden 4 uger indbringes for Ankenævnet for ATP. Lønkrav: ingen administrativ klageinstans; fonden kan henvise til domstolene (§ 6).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1244",
+          "citat": "Afgørelser om finansieringsbidragspligt og finansieringsbidrag, herunder beregning og opkrævning, kan"
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1244",
+          "citat": "indbringes for Ankenævnet for Arbejdsmarkedets Tillægspension, jf. § 28 i lov om Arbejdsmarkedets Tillægspension."
+        }
+      ]
+    },
+    {
+      "from": "naevn-ankenaevn-atp",
+      "type": "klageinstans",
+      "to": "org-arbejdsmarkedets-erhvervssikring",
+      "beskrivelse": "Arbejdsskadesikringslovens § 45: klager over AES' afgørelser efter §§ 55-58 c (erhvervssygdomsbidrag) indbringes inden 4 uger for ankenævnet efter ATP-lovens § 28.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/667",
+          "citat": "indbringes for det i henhold til lov om Arbejdsmarkedets Tillægspension § 28 nedsatte ankenævn."
+        }
+      ]
+    },
+    {
+      "from": "sty-star",
+      "type": "tilsyn",
+      "to": "kommune-alle",
+      "beskrivelse": "LOB § 26 a omtaler STAR's tilsynsvirksomhed, herunder med kommunerne; skærpet tilsyn med kommunernes beskæftigelsesindsats (kapitel 3 a) fastsættes af ministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/254",
+          "citat": "styrelsens øvrige tilsyn, herunder med kommunerne, Udbetaling Danmark og styrelsens puljeforvaltning"
+        },
+        {
+          "url": "https://star.dk/tilsyn-og-opfoelgning-paa-beskaeftigelsesomraadet",
+          "citat": "STAR følger op på kommunernes beskæftigelsesindsats"
+        }
+      ]
+    },
+    {
+      "from": "sty-star",
+      "type": "udsteder",
+      "to": "kilde-star-love-og-regler",
+      "beskrivelse": "STAR driver siden, der henviser til Retsinformation.",
+      "belaeg": [
+        {
+          "url": "https://star.dk/om-styrelsen/love-og-regler",
+          "citat": "På retsinformation.dk ligger love, lovbekendtgørelser, bekendtgørelser og vejledninger for Styrelsen for Arbejdsmarked og Rekrutterings område."
+        }
+      ]
+    },
+    {
+      "from": "org-arbejdsmarkedets-erhvervssikring",
+      "type": "udsteder",
+      "to": "kilde-aes-love-og-praksis",
+      "beskrivelse": "AES driver aes.dk.",
+      "belaeg": [
+        {
+          "url": "https://aes.dk/love-og-praksis",
+          "citat": "Se de centrale love og bekendtgørelser på arbejdsskadeområdet, og få svar på dine juridiske spørgsmål i vores vejledninger og praksisbeskrivelser."
+        }
+      ]
+    }
+  ],
+  "rettelser": [],
+  "huller": [
+    {
+      "emne": "Hjemmesider for a-kasserne og Seniorpensionsenheden",
+      "type": "ikke-fundet",
+      "beskrivelse": "Ingen officiel side fundet, hvor instanserne præsenterer sig selv, derfor mangler url.",
+      "noder": [
+        "org-a-kasser",
+        "org-seniorpensionsenheden"
+      ],
+      "kilder": []
+    },
+    {
+      "emne": "BEK 34/2026, BEK 486/2021, VEJ 10078/2018",
+      "type": "uklart",
+      "beskrivelse": "Ikke efterprøvet; hjemmelsbekendtgørelse og vejledning til klagereglerne er ikke åbnet.",
+      "noder": [],
+      "kilder": []
+    },
+    {
+      "emne": "Hjemmesider: Lønmodtagernes Garantifond, Ankenævnet for ATP, Tilsynsrådet, Seniorpensionsenheden, a-kasserne",
+      "type": "ikke-fundet",
+      "beskrivelse": "lg.dk og seniorpensionsenheden.dk kunne ikke hentes; for ankenævnet og Tilsynsrådet er ingen egen side fundet; a-kasser.dk er en privat guide, ikke instansens egen side. Derfor mangler url på disse noder.",
+      "noder": [
+        "fond-loenmodtagernes-garantifond",
+        "naevn-ankenaevn-atp",
+        "raad-tilsynsraadet",
+        "org-seniorpensionsenheden",
+        "org-a-kasser"
+      ],
+      "kilder": []
+    },
+    {
+      "emne": "EU-forordning (EF) nr. 883/2004 og nr. 987/2009",
+      "type": "andet",
+      "beskrivelse": "Danske love henviser udtrykkeligt til dem (udbetaling Danmark-loven § 12 h; sygedagpengeloven; social pension), men EUR-Lex kunne ikke hentes af værktøjet (JavaScript-skal), så ingen EU-noder uden citérbar side på eur-lex.",
+      "noder": [
+        "lov-udbetaling-danmark",
+        "lov-sygedagpenge",
+        "lov-social-pension"
+      ],
+      "kilder": [
+        "https://www.retsinformation.dk/eli/lta/2026/975",
+        "https://www.retsinformation.dk/eli/lta/2025/1221"
+      ]
+    },
+    {
+      "emne": "Dokumentkilder: CKA's afgørelser/årsstatistik, Ankestyrelsens Beskæftigelsesudvalgs afgørelser, AES' praksis",
+      "type": "uklart",
+      "beskrivelse": "kilde-star-love-og-regler og kilde-aes-love-og-praksis mangler identifikatorer (nummersystem), opdatering og licens: ingen vilkårs- eller nummereringstekst fundet. CKA's årsstatistikker (star.dk/media/.../aarsstatistik-for-cka-2024.pdf) er ikke kortlagt som egen kilde.",
+      "noder": [
+        "kilde-star-love-og-regler",
+        "kilde-aes-love-og-praksis"
+      ],
+      "kilder": [
+        "https://aes.dk/love-og-praksis"
+      ]
+    },
+    {
+      "emne": "Tilsyn med Udbetaling Danmark",
+      "type": "uklart",
+      "beskrivelse": "LOB § 26 a nævner STAR's tilsyn med Udbetaling Danmark, men star.dk skriver, at beskæftigelsesministeren fører tilsyn med bestyrelsen (UDK-loven § 19); kanten er derfor ikke oprettet fra sty-star.",
+      "noder": [
+        "org-udbetaling-danmark"
+      ],
+      "kilder": [
+        "https://www.retsinformation.dk/eli/lta/2026/975"
+      ]
+    }
+  ],
+  "noter": "Til orkestratoren: (1) lov-retssikkerhedsloven-social peger på LBK 354/2025, som Retsinformation viser som historisk (slutdato 2026-10-20); gældende er LBK nr. 680 af 03/08/2026 (Socialministeriet, Valid), https://www.retsinformation.dk/eli/lta/2026/680. Registry-teksten om § 60/§ 66/§ 72/§ 73 er ikke efterprøvet mod LBK 680 ud over § 66. (2) Kæden a-kasse -> STAR (CKA) -> Ankestyrelsens Beskæftigelsesudvalg er belagt, men sporets henvisning til § 99 + BEK 486/2021 er delvist forkert: § 98 er første klageled, § 99 andet; 'Klagecenter' er korrekt navngivet Center for Klager om Arbejdsløshedsforsikring (CKA), en enhed i STAR. (3) Tilsynet med Udbetaling Danmark og Seniorpensionsenheden udøves af beskæftigelsesministeren over bestyrelserne (star.dk), ikke af STAR; ministerium kan ikke være 'from' i en tilsyn-kant. (4) Kanten sty-ankestyrelsen -> org-udbetaling-danmark kan være en dublet af den eksisterende boligstøtte-kant; denne dækker § 64 a generelt. (5) Arbejdsmarkedsrådet mv. ikke berørt. Uden for området og kun nævnt: Arbejdsretten, Ligebehandlingsnævnet, socialtilsyn.  (6) Kanterne sty-ankestyrelsen -> kommune-alle og -> org-udbetaling-danmark findes allerede i registry; belæg fundet i LBK 680/2026: § 59 a stk. 1 (kommuner -> Beskæftigelsesudvalget), § 64 a stk. 1 (UDK, generelt, ikke kun boligstøtte), § 67 stk. 1 (4 uger), § 50 stk. 4 (Ankestyrelsens afgørelser kan ikke indbringes for anden administrativ myndighed). Eksisterende beskrivelser bør udvides. Anden omgang: populate.py lov og tekst fik netværk. LBK 280/2024 (LAB) og 254/2024 (LOB) er stadig Valid; LBK 1221/2025, 1244/2024 også. Afløsere brugt: social pension LBK 970/2026, UDK LBK 975/2026, arbejdsskade LBK 667/2026, AES-loven LBK 668/2026, ATP LBK 976/2026. Første omgangs påstand om at LAB/LOB/LG var afløst var forkert (WebFetch læste EndDate som historisk). AES, LG og ATP er typet offentlig-virksomhed/fond efter nærmeste type; LG har ingen administrativ klageinstans for lønkrav. [Orkestrator 2026-11-12: fjernet min-beskaeftigelse-og-ligestilling|ressortansvar|kilde-star-love-og-regler, min-beskaeftigelse-og-ligestilling|ressortansvar|kilde-aes-love-og-praksis: ressortansvar går til instans eller retsakt, ikke til en dokumentkilde; kilden er koblet med udsteder-kanten.] [Orkestrator 2026-11-12: fjernet lov-udbetaling-danmark|hjemmel_for|org-udbetaling-danmark: belægget (§ 19) handler om ministerens tilsyn med bestyrelsen, ikke om hjemmel; forholdet står i lovnodens note.]"
+}

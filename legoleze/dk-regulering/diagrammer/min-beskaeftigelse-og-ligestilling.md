@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 77 · kanter: 127
+Noder: 101 · kanter: 173
 
 ```mermaid
 flowchart LR
@@ -35,18 +35,29 @@ flowchart LR
     eu_dir_1998_24["Rådets direktiv 98/24/EF om beskyttelse af arbejdstagernes sikkerhed og sundhed under arbejdet mod risici i forbindelse med kemiske agenser"]:::eu
     eu_dir_2012_18["Seveso III-direktivet (direktiv 2012/18/EU om kontrol med risikoen for større uheld med farlige stoffer)"]:::eu
     sty_ankestyrelsen["Ankestyrelsen"]:::instans
+    org_arbejdsmarkedets_erhvervssikring["Arbejdsmarkedets Erhvervssikring (AES)"]:::instans
+    org_atp["Arbejdsmarkedets Tillægspension (ATP)"]:::instans
     raad_arbejdsmarkedsraadet["Arbejdsmarkedsrådet"]:::instans
     sty_arbejdstilsynet["Arbejdstilsynet"]:::instans
     org_nfa["Det Nationale Forskningscenter for Arbejdsmiljø (NFA)"]:::instans
     sty_erhvervsstyrelsen["Erhvervsstyrelsen"]:::instans
+    kommune_alle["Kommunerne (98 kommunalbestyrelser)"]:::instans
+    fond_loenmodtagernes_garantifond["Lønmodtagernes Garantifond (LG)"]:::instans
+    org_seniorpensionsenheden["Seniorpensionsenheden"]:::instans
+    sty_star["Styrelsen for Arbejdsmarked og Rekruttering (STAR)"]:::instans
+    raad_tilsynsraadet["Tilsynsrådet (STAR)"]:::instans
     org_udbetaling_danmark["Udbetaling Danmark"]:::instans
+    kilde_aes_love_og_praksis["AES: Love og praksis"]:::kilde
+    org_a_kasser["Anerkendte arbejdsløshedskasser (a-kasser)"]:::kilde
     kilde_ast_amkn["Ankestyrelsen – Arbejdsmiljøklagenævnets publikationer (ast.dk)"]:::kilde
     kilde_ast_principmeddelelser["Ankestyrelsens principmeddelelser og tilsynsudtalelser"]:::kilde
     org_autoriserede_arbejdsmiljoeraadgivere["Autoriserede arbejdsmiljørådgivere"]:::kilde
     org_bfa_bygge_og_anlaeg["BFA Bygge & Anlæg (Branchefællesskabet for arbejdsmiljø i bygge og anlæg)"]:::kilde
     bv_bfa_branchevejledninger["BFA Bygge & Anlæg – branchevejledninger"]:::kilde
+    kilde_star_love_og_regler["STAR: Love og regler (henvisning til Retsinformation)"]:::kilde
     kilde_at_dk["at.dk (Arbejdstilsynets hjemmeside)"]:::kilde
     kilde_regler_at_dk["regler.at.dk (Arbejdstilsynets regelportal)"]:::kilde
+    naevn_ankenaevn_atp["Ankenævnet for Arbejdsmarkedets Tillægspension"]:::klage
     naevn_arbejdsmiljoeklagenaevnet["Arbejdsmiljøklagenævnet"]:::klage
     dom_domstolene["Domstolene (byret, landsret, Højesteret)"]:::klage
     ombud_folketingets_ombudsmand["Folketingets Ombudsmand"]:::klage
@@ -85,9 +96,22 @@ flowchart LR
     bek_systematisk_arbejdsmiljoearbejde["Bekendtgørelse om systematisk arbejdsmiljøarbejde"]:::retsakt
     bek_unges_arbejde["Bekendtgørelse om unges arbejde (ungebekendtgørelsen)"]:::retsakt
     lov_1656_2024_arbejdsmarkedsraad["Lov nr. 1656 af 30/12/2024 om ændring af lov om organisering og understøttelse af beskæftigelsesindsatsen m.v., lov om arbejdsmiljø og forskellige andre love (Nedlæggelse af Arbejdsmiljørådet og oprettelse af nyt Arbejdsmarkedsråd)"]:::retsakt
+    lov_atp["Lov om Arbejdsmarkedets Tillægspension (ATP-loven)"]:::retsakt
+    lov_loenmodtagernes_garantifond["Lov om Lønmodtagernes Garantifond"]:::retsakt
+    lov_seniorpensionsenheden["Lov om Seniorpensionsenheden"]:::retsakt
+    lov_udbetaling_danmark["Lov om Udbetaling Danmark"]:::retsakt
+    lov_aktiv_socialpolitik["Lov om aktiv socialpolitik (aktivloven)"]:::retsakt
     lov_undergrundsloven["Lov om anvendelse af Danmarks undergrund (undergrundsloven), LBK nr 1461 af 29/11/2023"]:::retsakt
+    lov_arbejdsloeshedsforsikring["Lov om arbejdsløshedsforsikring m.v. (arbejdsløshedsforsikringsloven)"]:::retsakt
+    lov_arbejdsskadesikring["Lov om arbejdsskadesikring (arbejdsskadesikringsloven)"]:::retsakt
+    lov_aes["Lov om den selvejende institution Arbejdsmarkedets Erhvervssikring"]:::retsakt
+    lov_aktiv_beskaeftigelsesindsats["Lov om en aktiv beskæftigelsesindsats (LAB)"]:::retsakt
     lov_boligstoetteloven["Lov om individuel boligstøtte (boligstøtteloven)"]:::retsakt
+    lov_organisering_beskaeftigelsesindsatsen["Lov om organisering og understøttelse af beskæftigelsesindsatsen m.v. (LOB)"]:::retsakt
+    lov_retssikkerhedsloven_social["Lov om retssikkerhed og administration på det sociale område (retssikkerhedsloven)"]:::retsakt
     lov_offshoresikkerhedsloven["Lov om sikkerhed m.v. for offshoreanlæg til efterforskning, produktion og transport af kulbrinter (offshoresikkerhedsloven)"]:::retsakt
+    lov_social_pension["Lov om social pension"]:::retsakt
+    lov_sygedagpenge["Lov om sygedagpenge (sygedagpengeloven)"]:::retsakt
     cirk_rigsadvokatmeddelelsen_arbejdsmiljoe["Rigsadvokatmeddelelsen, afsnittet om arbejdsmiljø"]:::retsakt
     bek_risiko["Risikobekendtgørelsen (bekendtgørelse om kontrol med risikoen for større uheld med farlige stoffer)"]:::retsakt
     vejl_boligstoette_satser["Satsvejledning for 2026 med bl.a. boligstøtte (VEJ nr. 10077 af 10/11/2025)"]:::retsakt
@@ -216,6 +240,52 @@ flowchart LR
     sty_arbejdstilsynet -->|udsteder| vejl_at_bygge_og_anlaeg
     sty_arbejdstilsynet -->|udsteder| vejl_at_bygherrens_pligter
     sty_arbejdstilsynet -->|udsteder| vejl_at_vejledninger
+    min_beskaeftigelse_og_ligestilling -->|ressortansvar| sty_star
+    min_beskaeftigelse_og_ligestilling -->|ressortansvar| lov_arbejdsloeshedsforsikring
+    min_beskaeftigelse_og_ligestilling -->|ressortansvar| lov_aktiv_socialpolitik
+    min_beskaeftigelse_og_ligestilling -->|ressortansvar| lov_seniorpensionsenheden
+    min_beskaeftigelse_og_ligestilling -.->|ressortansvar| org_seniorpensionsenheden
+    lov_arbejdsloeshedsforsikring -.->|hjemmel_for| sty_star
+    lov_arbejdsloeshedsforsikring -->|hjemmel_for| org_a_kasser
+    lov_seniorpensionsenheden -->|hjemmel_for| org_seniorpensionsenheden
+    lov_seniorpensionsenheden -->|henviser_til| lov_retssikkerhedsloven_social
+    sty_star -.->|tilsyn| org_a_kasser
+    sty_star -.->|klageinstans| org_a_kasser
+    sty_ankestyrelsen -->|klageinstans| sty_star
+    sty_ankestyrelsen -->|klageinstans| org_seniorpensionsenheden
+    min_beskaeftigelse_og_ligestilling -->|ressortansvar| lov_aktiv_beskaeftigelsesindsats
+    min_beskaeftigelse_og_ligestilling -->|ressortansvar| lov_organisering_beskaeftigelsesindsatsen
+    min_beskaeftigelse_og_ligestilling -->|ressortansvar| lov_sygedagpenge
+    min_beskaeftigelse_og_ligestilling -->|ressortansvar| lov_social_pension
+    min_beskaeftigelse_og_ligestilling -->|ressortansvar| lov_udbetaling_danmark
+    min_beskaeftigelse_og_ligestilling -->|ressortansvar| lov_arbejdsskadesikring
+    min_beskaeftigelse_og_ligestilling -->|ressortansvar| lov_aes
+    min_beskaeftigelse_og_ligestilling -->|ressortansvar| lov_loenmodtagernes_garantifond
+    min_beskaeftigelse_og_ligestilling -->|ressortansvar| lov_atp
+    min_beskaeftigelse_og_ligestilling -.->|ressortansvar| org_arbejdsmarkedets_erhvervssikring
+    min_beskaeftigelse_og_ligestilling -.->|ressortansvar| fond_loenmodtagernes_garantifond
+    min_beskaeftigelse_og_ligestilling -->|ressortansvar| org_atp
+    min_beskaeftigelse_og_ligestilling -->|ressortansvar| naevn_ankenaevn_atp
+    min_beskaeftigelse_og_ligestilling -.->|ressortansvar| raad_tilsynsraadet
+    lov_arbejdsskadesikring -->|hjemmel_for| org_arbejdsmarkedets_erhvervssikring
+    lov_aes -->|hjemmel_for| org_arbejdsmarkedets_erhvervssikring
+    lov_loenmodtagernes_garantifond -->|hjemmel_for| fond_loenmodtagernes_garantifond
+    lov_atp -->|hjemmel_for| org_atp
+    lov_atp -->|hjemmel_for| naevn_ankenaevn_atp
+    lov_organisering_beskaeftigelsesindsatsen -->|hjemmel_for| raad_tilsynsraadet
+    lov_social_pension -->|hjemmel_for| org_seniorpensionsenheden
+    lov_aktiv_beskaeftigelsesindsats -->|henviser_til| lov_retssikkerhedsloven_social
+    lov_sygedagpenge -->|henviser_til| lov_retssikkerhedsloven_social
+    lov_udbetaling_danmark -->|henviser_til| lov_retssikkerhedsloven_social
+    lov_arbejdsskadesikring -->|henviser_til| lov_atp
+    lov_loenmodtagernes_garantifond -.->|henviser_til| lov_atp
+    sty_ankestyrelsen -.->|klageinstans| org_arbejdsmarkedets_erhvervssikring
+    naevn_ankenaevn_atp -->|klageinstans| org_atp
+    naevn_ankenaevn_atp -.->|klageinstans| fond_loenmodtagernes_garantifond
+    naevn_ankenaevn_atp -->|klageinstans| org_arbejdsmarkedets_erhvervssikring
+    sty_star -->|tilsyn| kommune_alle
+    sty_star -->|udsteder| kilde_star_love_og_regler
+    org_arbejdsmarkedets_erhvervssikring -->|udsteder| kilde_aes_love_og_praksis
     bek_elevatorer -->|implementerer_EU| eu_dir_2014_33
     bek_risiko -->|implementerer_EU| eu_dir_2012_18
 ```

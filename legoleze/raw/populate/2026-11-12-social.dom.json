@@ -1,0 +1,317 @@
+[
+ {
+  "hvor": "lov-serviceloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-serviceloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-serviceloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-barnets-lov.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-barnets-lov.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-barnets-lov.identifikatorer",
+  "dom": "delvist",
+  "grund": "LBK-nummer og afløser belagt; kapitelangivelser (kap. 17, 19, 20) og VISO-tilordning fremgår ikke."
+ },
+ {
+  "hvor": "lov-socialtilsynsloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-socialtilsynsloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-socialtilsynsloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-voksenansvarsloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-voksenansvarsloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-voksenansvarsloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-socialtilsyn.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-socialtilsyn.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-socialtilsyn.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-forretningsorden-socialfaglige-naevn.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-forretningsorden-socialfaglige-naevn.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-forretningsorden-socialfaglige-naevn.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-raad-paa-det-sociale-omraade.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-raad-paa-det-sociale-omraade.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "bek-raad-paa-det-sociale-omraade.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "naevn-boerne-og-ungeudvalg.hjemmel",
+  "dom": "delvist",
+  "grund": "§ 142 og §§ 47/49 belagt; 'uden samtykke' fremgår ikke af belægget."
+ },
+ {
+  "hvor": "naevn-boerne-og-ungeudvalg.dokumenttyper",
+  "dom": "delvist",
+  "grund": "Klage til Ankestyrelsen (§ 146) belagt; § 147, 'tvangsmæssig' og 'bindende' fremgår ikke."
+ },
+ {
+  "hvor": "tilsyn-socialtilsynene.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "tilsyn-socialtilsynene.dokumenttyper",
+  "dom": "delvist",
+  "grund": "§ 19 om klageadgang belagt; afgørelsestyperne og Ankestyrelsen fremgår ikke."
+ },
+ {
+  "hvor": "naevn-socialfaglige-naevn-magtanvendelse.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "naevn-socialfaglige-naevn-magtanvendelse.dokumenttyper",
+  "dom": "delvist",
+  "grund": "Principiel udtalelse (§ 1) belagt; afgørelsestypen og bindende/vejledende fremgår ikke."
+ },
+ {
+  "hvor": "raad-boerneraadet.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "raad-boerneraadet.dokumenttyper",
+  "dom": "delvist",
+  "grund": "Fortaler-rollen (§ 17) belagt; udtalelses-/høringstype og 'vejledende' fremgår ikke."
+ },
+ {
+  "hvor": "raad-boerneraadet.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "raad-det-centrale-handicapraad.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "raad-det-centrale-handicapraad.dokumenttyper",
+  "dom": "delvist",
+  "grund": "Dialogforum (§ 9) belagt; udtalelsestype og rådgivning af regering/Folketing fremgår ikke."
+ },
+ {
+  "hvor": "raad-det-centrale-handicapraad.url",
+  "dom": "baerer",
+  "grund": "Efterkontrol (siden hentet)"
+ },
+ {
+  "hvor": "kilde-tilbudsportalen.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-tilbudsportalen.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-tilbudsportalen.adgang",
+  "dom": "delvist",
+  "grund": "Belægget handler om indhold; HTML-adgangsform og 'ikke set'-noten fremgår ikke."
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|lov-serviceloven",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|lov-barnets-lov",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|lov-socialtilsynsloven",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|lov-voksenansvarsloven",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|naevn-socialfaglige-naevn-magtanvendelse",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|raad-boerneraadet",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|raad-det-centrale-handicapraad",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-socialtilsynsloven|hjemmel_for|tilsyn-socialtilsynene",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-socialtilsynsloven|hjemmel_for|bek-socialtilsyn",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant bek-socialtilsyn|hjemmel_for|tilsyn-socialtilsynene",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-barnets-lov|hjemmel_for|naevn-boerne-og-ungeudvalg",
+  "dom": "delvist",
+  "grund": "§ 142 stk. 1 belagt for §§ 47/49; 'uden samtykke' fremgår ikke af belægget."
+ },
+ {
+  "hvor": "kant lov-serviceloven|hjemmel_for|naevn-socialfaglige-naevn-magtanvendelse",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-serviceloven|hjemmel_for|bek-forretningsorden-socialfaglige-naevn",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant bek-forretningsorden-socialfaglige-naevn|hjemmel_for|naevn-socialfaglige-naevn-magtanvendelse",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-retssikkerhedsloven-social|hjemmel_for|bek-raad-paa-det-sociale-omraade",
+  "dom": "delvist",
+  "grund": "Paragrafferne står i bek. 580 med henvisning til LBK 265/2022; ikke belagt i gældende LBK 680/2026."
+ },
+ {
+  "hvor": "kant bek-raad-paa-det-sociale-omraade|hjemmel_for|raad-boerneraadet",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant bek-raad-paa-det-sociale-omraade|hjemmel_for|raad-det-centrale-handicapraad",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant sty-ankestyrelsen|klageinstans|naevn-boerne-og-ungeudvalg",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant dom-byretterne|klageinstans|sty-ankestyrelsen",
+  "dom": "delvist",
+  "grund": "Orkestrator: retning rettet til Ankestyrelsen efter kontrollantens indvending; ikke uafhængigt bedømt."
+ },
+ {
+  "hvor": "kant sty-ankestyrelsen|klageinstans|tilsyn-socialtilsynene",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-socialtilsynsloven|henviser_til|lov-retssikkerhedsloven-social",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-voksenansvarsloven|henviser_til|lov-retssikkerhedsloven-social",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant sty-social-og-boligstyrelsen|udsteder|kilde-tilbudsportalen",
+  "dom": "delvist",
+  "grund": "Faglig ansvar og drift belagt; 'Servicelovens § 14' fremgår ikke af belægget."
+ },
+ {
+  "hvor": "rettelse lov-retssikkerhedsloven-social.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "rettelse lov-retssikkerhedsloven-social.identifikatorer",
+  "dom": "delvist",
+  "grund": "ELI og LBK 680/354 belagt; kapitelgrænser (kap. 10-11, §§ 60-80) og 'historisk' fremgår ikke."
+ },
+ {
+  "hvor": "rettelse kilde-ast-principmeddelelser.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "rettelse kilde-ast-principmeddelelser.identifikatorer",
+  "dom": "delvist",
+  "grund": "Nummerformat og /2026/-sti belagt; status, KEN-dokument og journalnummer fremgår ikke."
+ }
+]

@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 101 · kanter: 210
+Noder: 102 · kanter: 211
 
 ```mermaid
 flowchart LR
@@ -55,6 +55,7 @@ flowchart LR
     bv_sbi_anvisninger["SBi-/BUILD-anvisninger"]:::kilde
     org_skorstensfejere["Skorstensfejere (lovpligtigt skorstensfejerarbejde)"]:::kilde
     kilde_tris["TRIS – Kommissionens database over notificerede tekniske forskrifter (direktiv (EU) 2015/1535)"]:::kilde
+    kilde_tilbudsportalen["Tilbudsportalen"]:::kilde
     kilde_bygningsreglementet_dk["bygningsreglementet.dk"]:::kilde
     naevn_ankenaevn_koebenhavn["Ankenævnet for huslejenævnene i Københavns Kommune"]:::klage
     naevn_beboerklagenaevn["Beboerklagenævn (kommunale)"]:::klage
@@ -325,6 +326,7 @@ flowchart LR
     sty_social_og_boligstyrelsen -->|udsteder| vejl_tilsyn_almen_boligsektor
     sty_trafik_bygge_og_boligstyrelsen -->|udsteder| bek_br18
     sty_trafik_bygge_og_boligstyrelsen -->|udsteder| vejl_individuel_maaling
+    sty_social_og_boligstyrelsen -.->|udsteder| kilde_tilbudsportalen
 ```
 
 [← Overblik](oversigt.md)

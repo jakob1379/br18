@@ -33,13 +33,17 @@ flowchart LR
     min_udlaendinge_og_integration["Udlændinge- og Integrationsministeriet"]:::ministerium
     min_oekonomi_og_indenrigs["Økonomi- og Indenrigsministeriet"]:::ministerium
     sty_administrations_og_servicestyrelsen["Administrations- og Servicestyrelsen"]:::instans
+    naevn_ankenaevn_atp["Ankenævnet for Arbejdsmarkedets Tillægspension"]:::klage
     naevn_ankenaevnet_for_patienterstatningen["Ankenævnet for Patienterstatningen"]:::klage
     naevn_ankenaevnet_for_tilsynsafgoerelser["Ankenævnet for Tilsynsafgørelser"]:::klage
     sty_ankestyrelsen["Ankestyrelsen"]:::instans
+    org_arbejdsmarkedets_erhvervssikring["Arbejdsmarkedets Erhvervssikring (AES)"]:::instans
+    org_atp["Arbejdsmarkedets Tillægspension (ATP)"]:::instans
     raad_arbejdsmarkedsraadet["Arbejdsmarkedsrådet"]:::instans
     naevn_arbejdsmiljoeklagenaevnet["Arbejdsmiljøklagenævnet"]:::klage
     raad_arbejdsmiljoeraadet["Arbejdsmiljørådet (nedlagt)"]:::nedlagt
     sty_arbejdstilsynet["Arbejdstilsynet"]:::instans
+    sty_banedanmark["Banedanmark"]:::instans
     naevn_beboerklagenaevn["Beboerklagenævn (kommunale)"]:::klage
     sty_beredskabsstyrelsen["Beredskabsstyrelsen"]:::instans
     sty_bolig_og_planstyrelsen["Bolig- og Planstyrelsen (nedlagt)"]:::nedlagt
@@ -47,14 +51,20 @@ flowchart LR
     naevn_byggeklageenheden["Byggeklageenheden"]:::klage
     fond_byggeskadefonden["Byggeskadefonden"]:::instans
     fond_byggeskadefonden_bygningsfornyelse["Byggeskadefonden vedrørende Bygningsfornyelse (nedlagt)"]:::nedlagt
+    raad_boerneraadet["Børnerådet"]:::instans
     sty_civilstyrelsen["Civilstyrelsen"]:::instans
     org_danmarks_miljoeportal["Danmarks Miljøportal"]:::instans
+    raad_det_centrale_handicapraad["Det Centrale Handicapråd"]:::instans
+    raad_det_dyreetiske_raad["Det Dyreetiske Råd"]:::instans
     org_nfa["Det Nationale Forskningscenter for Arbejdsmiljø (NFA)"]:::instans
     naevn_det_psykiatriske_ankenaevn["Det Psykiatriske Ankenævn"]:::klage
     naevn_det_psykiatriske_patientklagenaevn["Det Psykiatriske Patientklagenævn"]:::klage
+    naevn_socialfaglige_naevn_magtanvendelse["Det Socialfaglige Nævn vedrørende Magtanvendelse over for Borgere med Handicap"]:::klage
     raad_det_systemiske_risikoraad["Det Systemiske Risikoråd"]:::instans
     raad_det_saerlige_bygningssyn["Det Særlige Bygningssyn"]:::instans
+    raad_det_veterinaere_sundhedsraad["Det Veterinære Sundhedsråd"]:::instans
     sty_domstolsstyrelsen["Domstolsstyrelsen"]:::instans
+    tilsyn_dyreforsoegstilsynet["Dyreforsøgstilsynet og Rådet for Dyreforsøg"]:::instans
     naevn_energiklagenaevnet["Energiklagenævnet"]:::klage
     org_energinet["Energinet"]:::instans
     sty_energistyrelsen["Energistyrelsen"]:::instans
@@ -68,11 +78,14 @@ flowchart LR
     tilsyn_forsyningstilsynet["Forsyningstilsynet"]:::instans
     naevn_fredningsnaevn["Fredningsnævnene"]:::klage
     sty_faerdselsstyrelsen["Færdselsstyrelsen"]:::instans
+    sty_foedevarestyrelsen["Fødevarestyrelsen"]:::instans
     sty_geodatastyrelsen["Geodatastyrelsen"]:::instans
     fond_grundejernes_investeringsfond["Grundejernes Investeringsfond (GI)"]:::instans
     sty_gaeldsstyrelsen["Gældsstyrelsen"]:::instans
+    sty_havarikommissionen["Havarikommissionen for Civil Luftfart og Jernbane"]:::instans
     sty_hjemrejsestyrelsen["Hjemrejsestyrelsen"]:::instans
     naevn_huslejenaevn["Huslejenævn (kommunale)"]:::klage
+    naevn_jernbanenaevnet["Jernbanenævnet"]:::klage
     naevn_klagenaevnet_for_udbud["Klagenævnet for Udbud"]:::klage
     sty_klimadatastyrelsen["Klimadatastyrelsen"]:::instans
     raad_klimaraadet["Klimarådet"]:::instans
@@ -87,6 +100,7 @@ flowchart LR
     naevn_landsskatteretten["Landsskatteretten"]:::klage
     raad_laegemiddelnaevnet["Lægemiddelnævnet"]:::instans
     sty_laegemiddelstyrelsen["Lægemiddelstyrelsen"]:::instans
+    fond_loenmodtagernes_garantifond["Lønmodtagernes Garantifond (LG)"]:::instans
     naevn_miljoe_og_foedevareklagenaevnet["Miljø- og Fødevareklagenævnet"]:::klage
     sty_miljoestyrelsen["Miljøstyrelsen"]:::instans
     naevn_motorankenaevn["Motorankenævn"]:::klage
@@ -100,6 +114,7 @@ flowchart LR
     sty_planstyrelsen["Planstyrelsen (nedlagt)"]:::nedlagt
     sty_rigsadvokaten["Rigsadvokaten"]:::instans
     raad_el_og_gasteknisk_sikkerhed["Rådet for El- og Gasteknisk Sikkerhed"]:::instans
+    org_seniorpensionsenheden["Seniorpensionsenheden"]:::instans
     sty_sikkerhedsstyrelsen["Sikkerhedsstyrelsen (nedlagt)"]:::nedlagt
     naevn_skatteankenaevn["Skatteankenævn"]:::klage
     sty_skatteankestyrelsen["Skatteankestyrelsen"]:::instans
@@ -111,6 +126,7 @@ flowchart LR
     sty_spillemyndigheden["Spillemyndigheden"]:::instans
     sty_statens_serum_institut["Statens Serum Institut"]:::instans
     org_statsforvaltningen["Statsforvaltningen (nedlagt)"]:::nedlagt
+    sty_star["Styrelsen for Arbejdsmarked og Rekruttering (STAR)"]:::instans
     sty_styrelsen_for_forsyningssikkerhed["Styrelsen for Forsyningssikkerhed (nedlagt)"]:::nedlagt
     sty_groen_arealomlaegning_og_vandmiljoe["Styrelsen for Grøn Arealomlægning og Vandmiljø (SGAV)"]:::instans
     sty_siri["Styrelsen for International Rekruttering og Integration (SIRI)"]:::instans
@@ -123,8 +139,10 @@ flowchart LR
     naevn_taksationskommissionen["Taksationskommissionen (naturbeskyttelsesloven)"]:::klage
     naevn_taksationsmyndighederne["Taksationskommissionerne og overtaksationskommissionerne (efter vejloven)"]:::klage
     tilsyn_it_tilsynet["Tilsynet med told- og skatteforvaltningens it-område (It-tilsynet)"]:::instans
+    raad_tilsynsraadet["Tilsynsrådet (STAR)"]:::instans
     sty_toldstyrelsen["Toldstyrelsen"]:::instans
     sty_trafik_bygge_og_boligstyrelsen["Trafik-, Bygge- og Boligstyrelsen (omdøbt)"]:::nedlagt
+    sty_trafikstyrelsen["Trafikstyrelsen"]:::instans
     naevn_tvangsbehandlingsnaevnet["Tvangsbehandlingsnævnet"]:::klage
     org_udbetaling_danmark["Udbetaling Danmark"]:::instans
     naevn_udlaendingenaevnet["Udlændingenævnet"]:::klage
@@ -242,6 +260,24 @@ flowchart LR
     min_udlaendinge_og_integration -->|ressortansvar| sty_hjemrejsestyrelsen
     min_udlaendinge_og_integration -->|ressortansvar| naevn_udlaendingenaevnet
     min_udlaendinge_og_integration -->|ressortansvar| naevn_flygtningenaevnet
+    min_social -->|ressortansvar| naevn_socialfaglige_naevn_magtanvendelse
+    min_social -->|ressortansvar| raad_boerneraadet
+    min_social -->|ressortansvar| raad_det_centrale_handicapraad
+    min_beskaeftigelse_og_ligestilling -->|ressortansvar| sty_star
+    min_beskaeftigelse_og_ligestilling -.->|ressortansvar| org_seniorpensionsenheden
+    min_beskaeftigelse_og_ligestilling -.->|ressortansvar| org_arbejdsmarkedets_erhvervssikring
+    min_beskaeftigelse_og_ligestilling -.->|ressortansvar| fond_loenmodtagernes_garantifond
+    min_beskaeftigelse_og_ligestilling -->|ressortansvar| org_atp
+    min_beskaeftigelse_og_ligestilling -->|ressortansvar| naevn_ankenaevn_atp
+    min_beskaeftigelse_og_ligestilling -.->|ressortansvar| raad_tilsynsraadet
+    min_by_land_og_transport -->|ressortansvar| sty_trafikstyrelsen
+    min_by_land_og_transport -->|ressortansvar| sty_banedanmark
+    min_by_land_og_transport -.->|ressortansvar| naevn_jernbanenaevnet
+    min_by_land_og_transport -.->|ressortansvar| sty_havarikommissionen
+    min_erhverv -->|ressortansvar| sty_foedevarestyrelsen
+    min_erhverv -.->|ressortansvar| raad_det_veterinaere_sundhedsraad
+    min_natur_og_dyrevelfaerd -.->|ressortansvar| raad_det_dyreetiske_raad
+    min_natur_og_dyrevelfaerd -.->|ressortansvar| tilsyn_dyreforsoegstilsynet
 ```
 
 ## Ministerområder

@@ -1,0 +1,1738 @@
+[
+ {
+  "hvor": "sty-trafikstyrelsen.tidligere_navne[Trafikstyrelsen (første navn, også kaldet Trafikstyrelsen for jernbaner og færger)]",
+  "sikkerhed": "sandsynlig",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://lex.dk/Trafikstyrelsen",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-trafikstyrelsen.tidligere_navne[Trafik- og Byggestyrelsen]",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://fdm.dk/arkiv/2015-07-trafikstyrelsen-faar-nyt-navn",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-trafikstyrelsen.tidligere_navne[Trafik-, Bygge- og Boligstyrelsen]",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://danskcvrapi.dk/en/news/27186386-navneskift-2016-12-14",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-trafikstyrelsen.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/169",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/1091",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/570",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-trafikstyrelsen.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/169",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/169",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-trafikstyrelsen.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.trafikstyrelsen.dk/om-trafikstyrelsen",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-banedanmark.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/1091",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/855",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-banedanmark.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/855",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-banedanmark.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.bane.dk/da/Om-Banedanmark",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-jernbanenaevnet.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/1091",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2021/2424",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-jernbanenaevnet.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2021/2424",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2021/2424",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-jernbanenaevnet.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.jernbanenaevnet.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-havarikommissionen.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/1091",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-havarikommissionen.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/1091",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-havarikommissionen.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://havarikommissionen.dk/vores-arbejde",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-ankenaevnet-for-bus-tog-og-metro.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://abtm.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-ankenaevnet-for-bus-tog-og-metro.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://abtm.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-trafikstyrelsen-bl-bj.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/169",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-trafikstyrelsen-bl-bj.url",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.trafikstyrelsen.dk/lovlisteside/jernbanesikkerhed-love-og-regler",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-trafikstyrelsen-bl-bj.adgang",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/169",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-trafikstyrelsen-bl-bj.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/retsinfo/2023/10120",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-trafikstyrelsen-bl-bj.opdatering",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/retsinfo/2023/10120",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-jernbanenaevnet-afgoerelser.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2021/2424",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-jernbanenaevnet-afgoerelser.url",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.jernbanenaevnet.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-jernbanenaevnet-afgoerelser.adgang",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.jernbanenaevnet.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-abtm-afgoerelser.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://abtm.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-abtm-afgoerelser.url",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://abtm.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-abtm-afgoerelser.adgang",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://abtm.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-trafikstyrelsen-opgaver.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/169",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-trafikstyrelsen-opgaver.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "255195",
+   "DocumentTitle": "Bekendtgørelse om Trafikstyrelsens opgaver og beføjelser, klageadgang og kundgørelse af visse af Trafikstyrelsens forskrifter",
+   "Year": "2026",
+   "DiesSigni": "2026-01-27",
+   "Status": "Valid",
+   "Number": "169",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-trafikstyrelsen-opgaver.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "255195",
+   "DocumentTitle": "Bekendtgørelse om Trafikstyrelsens opgaver og beføjelser, klageadgang og kundgørelse af visse af Trafikstyrelsens forskrifter",
+   "Year": "2026",
+   "DiesSigni": "2026-01-27",
+   "Status": "Valid",
+   "Number": "169",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-trafikstyrelsen-opgaver.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "255195",
+   "DocumentTitle": "Bekendtgørelse om Trafikstyrelsens opgaver og beføjelser, klageadgang og kundgørelse af visse af Trafikstyrelsens forskrifter",
+   "Year": "2026",
+   "DiesSigni": "2026-01-27",
+   "Status": "Valid",
+   "Number": "169",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2026/169",
+   "lovtidende": "BEK nr. 169 af 27/01/2026"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-banedanmark-opgaver.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/855",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-banedanmark-opgaver.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "238303",
+   "DocumentTitle": "Bekendtgørelse om Banedanmarks opgaver og beføjelser",
+   "Year": "2023",
+   "DiesSigni": "2023-06-19",
+   "Status": "Valid",
+   "Number": "855",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-banedanmark-opgaver.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "238303",
+   "DocumentTitle": "Bekendtgørelse om Banedanmarks opgaver og beføjelser",
+   "Year": "2023",
+   "DiesSigni": "2023-06-19",
+   "Status": "Valid",
+   "Number": "855",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-banedanmark-opgaver.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "238303",
+   "DocumentTitle": "Bekendtgørelse om Banedanmarks opgaver og beføjelser",
+   "Year": "2023",
+   "DiesSigni": "2023-06-19",
+   "Status": "Valid",
+   "Number": "855",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2023/855",
+   "lovtidende": "BEK nr. 855 af 19/06/2023"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-jernbanenaevnet.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2021/2424",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-jernbanenaevnet.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "228142",
+   "DocumentTitle": "Bekendtgørelse om Jernbanenævnet",
+   "Year": "2021",
+   "DiesSigni": "2021-12-13",
+   "Status": "Valid",
+   "Number": "2424",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-jernbanenaevnet.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "228142",
+   "DocumentTitle": "Bekendtgørelse om Jernbanenævnet",
+   "Year": "2021",
+   "DiesSigni": "2021-12-13",
+   "Status": "Valid",
+   "Number": "2424",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-jernbanenaevnet.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "228142",
+   "DocumentTitle": "Bekendtgørelse om Jernbanenævnet",
+   "Year": "2021",
+   "DiesSigni": "2021-12-13",
+   "Status": "Valid",
+   "Number": "2424",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2021/2424",
+   "lovtidende": "BEK nr. 2424 af 13/12/2021"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-faerdselsstyrelsen-opgaver.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/787",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-faerdselsstyrelsen-opgaver.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "250754",
+   "DocumentTitle": "Bekendtgørelse om Færdselsstyrelsens opgaver og beføjelser samt klageadgang",
+   "Year": "2025",
+   "DiesSigni": "2025-06-18",
+   "Status": "Valid",
+   "Number": "787",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-faerdselsstyrelsen-opgaver.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "250754",
+   "DocumentTitle": "Bekendtgørelse om Færdselsstyrelsens opgaver og beføjelser samt klageadgang",
+   "Year": "2025",
+   "DiesSigni": "2025-06-18",
+   "Status": "Valid",
+   "Number": "787",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-faerdselsstyrelsen-opgaver.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "250754",
+   "DocumentTitle": "Bekendtgørelse om Færdselsstyrelsens opgaver og beføjelser samt klageadgang",
+   "Year": "2025",
+   "DiesSigni": "2025-06-18",
+   "Status": "Valid",
+   "Number": "787",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2025/787",
+   "lovtidende": "BEK nr. 787 af 18/06/2025"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-farligt-gods-vejtransport.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/915",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-farligt-gods-vejtransport.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "249908",
+   "DocumentTitle": "Bekendtgørelse om vejtransport af farligt gods",
+   "Year": "2025",
+   "DiesSigni": "2025-06-26",
+   "Status": "Valid",
+   "Number": "915",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-farligt-gods-vejtransport.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "249908",
+   "DocumentTitle": "Bekendtgørelse om vejtransport af farligt gods",
+   "Year": "2025",
+   "DiesSigni": "2025-06-26",
+   "Status": "Valid",
+   "Number": "915",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-farligt-gods-vejtransport.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "249908",
+   "DocumentTitle": "Bekendtgørelse om vejtransport af farligt gods",
+   "Year": "2025",
+   "DiesSigni": "2025-06-26",
+   "Status": "Valid",
+   "Number": "915",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2025/915",
+   "lovtidende": "BEK nr. 915 af 26/06/2025"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-jernbaneloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "238718",
+   "DocumentTitle": "Bekendtgørelse af jernbaneloven",
+   "Year": "2023",
+   "DiesSigni": "2023-08-11",
+   "Status": "Valid",
+   "Number": "1091",
+   "PopularTitle": "Jernbaneloven",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-jernbaneloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "238718",
+   "DocumentTitle": "Bekendtgørelse af jernbaneloven",
+   "Year": "2023",
+   "DiesSigni": "2023-08-11",
+   "Status": "Valid",
+   "Number": "1091",
+   "PopularTitle": "Jernbaneloven",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-jernbaneloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "238718",
+   "DocumentTitle": "Bekendtgørelse af jernbaneloven",
+   "Year": "2023",
+   "DiesSigni": "2023-08-11",
+   "Status": "Valid",
+   "Number": "1091",
+   "PopularTitle": "Jernbaneloven",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-jernbaneloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "238718",
+   "DocumentTitle": "Bekendtgørelse af jernbaneloven",
+   "Year": "2023",
+   "DiesSigni": "2023-08-11",
+   "Status": "Valid",
+   "Number": "1091",
+   "PopularTitle": "Jernbaneloven",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2023/1091",
+   "lovtidende": "LBK nr. 1091 af 11/08/2023"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-luftfartsloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "249821",
+   "DocumentTitle": "Bekendtgørelse af lov om luftfart",
+   "Year": "2025",
+   "DiesSigni": "2025-05-19",
+   "Status": "Valid",
+   "Number": "570",
+   "PopularTitle": "Luftfartsloven",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-luftfartsloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "249821",
+   "DocumentTitle": "Bekendtgørelse af lov om luftfart",
+   "Year": "2025",
+   "DiesSigni": "2025-05-19",
+   "Status": "Valid",
+   "Number": "570",
+   "PopularTitle": "Luftfartsloven",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-luftfartsloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "249821",
+   "DocumentTitle": "Bekendtgørelse af lov om luftfart",
+   "Year": "2025",
+   "DiesSigni": "2025-05-19",
+   "Status": "Valid",
+   "Number": "570",
+   "PopularTitle": "Luftfartsloven",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-luftfartsloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "249821",
+   "DocumentTitle": "Bekendtgørelse af lov om luftfart",
+   "Year": "2025",
+   "DiesSigni": "2025-05-19",
+   "Status": "Valid",
+   "Number": "570",
+   "PopularTitle": "Luftfartsloven",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2025/570",
+   "lovtidende": "LBK nr. 570 af 19/05/2025"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-faerdselsloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "254826",
+   "DocumentTitle": "Bekendtgørelse af færdselsloven",
+   "Year": "2026",
+   "DiesSigni": "2026-01-12",
+   "Status": "Valid",
+   "Number": "118",
+   "PopularTitle": "Færdselsloven",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-faerdselsloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "254826",
+   "DocumentTitle": "Bekendtgørelse af færdselsloven",
+   "Year": "2026",
+   "DiesSigni": "2026-01-12",
+   "Status": "Valid",
+   "Number": "118",
+   "PopularTitle": "Færdselsloven",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-faerdselsloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "254826",
+   "DocumentTitle": "Bekendtgørelse af færdselsloven",
+   "Year": "2026",
+   "DiesSigni": "2026-01-12",
+   "Status": "Valid",
+   "Number": "118",
+   "PopularTitle": "Færdselsloven",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-faerdselsloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "254826",
+   "DocumentTitle": "Bekendtgørelse af færdselsloven",
+   "Year": "2026",
+   "DiesSigni": "2026-01-12",
+   "Status": "Valid",
+   "Number": "118",
+   "PopularTitle": "Færdselsloven",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2026/118",
+   "lovtidende": "LBK nr. 118 af 12/01/2026"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-taxiloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "244958",
+   "DocumentTitle": "Bekendtgørelse af taxiloven",
+   "Year": "2024",
+   "DiesSigni": "2024-09-17",
+   "Status": "Valid",
+   "Number": "1051",
+   "PopularTitle": "Taxiloven",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-taxiloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "244958",
+   "DocumentTitle": "Bekendtgørelse af taxiloven",
+   "Year": "2024",
+   "DiesSigni": "2024-09-17",
+   "Status": "Valid",
+   "Number": "1051",
+   "PopularTitle": "Taxiloven",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-taxiloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "244958",
+   "DocumentTitle": "Bekendtgørelse af taxiloven",
+   "Year": "2024",
+   "DiesSigni": "2024-09-17",
+   "Status": "Valid",
+   "Number": "1051",
+   "PopularTitle": "Taxiloven",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-taxiloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "244958",
+   "DocumentTitle": "Bekendtgørelse af taxiloven",
+   "Year": "2024",
+   "DiesSigni": "2024-09-17",
+   "Status": "Valid",
+   "Number": "1051",
+   "PopularTitle": "Taxiloven",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2024/1051",
+   "lovtidende": "LBK nr. 1051 af 17/09/2024"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-godskoerselsloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "242654",
+   "DocumentTitle": "Bekendtgørelse af lov om godskørsel",
+   "Year": "2024",
+   "DiesSigni": "2024-03-23",
+   "Status": "Valid",
+   "Number": "327",
+   "PopularTitle": "Godskørselsloven",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-godskoerselsloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "242654",
+   "DocumentTitle": "Bekendtgørelse af lov om godskørsel",
+   "Year": "2024",
+   "DiesSigni": "2024-03-23",
+   "Status": "Valid",
+   "Number": "327",
+   "PopularTitle": "Godskørselsloven",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-godskoerselsloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "242654",
+   "DocumentTitle": "Bekendtgørelse af lov om godskørsel",
+   "Year": "2024",
+   "DiesSigni": "2024-03-23",
+   "Status": "Valid",
+   "Number": "327",
+   "PopularTitle": "Godskørselsloven",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-godskoerselsloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "242654",
+   "DocumentTitle": "Bekendtgørelse af lov om godskørsel",
+   "Year": "2024",
+   "DiesSigni": "2024-03-23",
+   "Status": "Valid",
+   "Number": "327",
+   "PopularTitle": "Godskørselsloven",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2024/327",
+   "lovtidende": "LBK nr. 327 af 23/03/2024"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-buskoerselsloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "237479",
+   "DocumentTitle": "Bekendtgørelse af lov om buskørsel",
+   "Year": "2023",
+   "DiesSigni": "2023-05-15",
+   "Status": "Valid",
+   "Number": "542",
+   "PopularTitle": "Buskørselsloven",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-buskoerselsloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "237479",
+   "DocumentTitle": "Bekendtgørelse af lov om buskørsel",
+   "Year": "2023",
+   "DiesSigni": "2023-05-15",
+   "Status": "Valid",
+   "Number": "542",
+   "PopularTitle": "Buskørselsloven",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-buskoerselsloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "237479",
+   "DocumentTitle": "Bekendtgørelse af lov om buskørsel",
+   "Year": "2023",
+   "DiesSigni": "2023-05-15",
+   "Status": "Valid",
+   "Number": "542",
+   "PopularTitle": "Buskørselsloven",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-buskoerselsloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "237479",
+   "DocumentTitle": "Bekendtgørelse af lov om buskørsel",
+   "Year": "2023",
+   "DiesSigni": "2023-05-15",
+   "Status": "Valid",
+   "Number": "542",
+   "PopularTitle": "Buskørselsloven",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2023/542",
+   "lovtidende": "LBK nr. 542 af 15/05/2023"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-trafikselskabsloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "249820",
+   "DocumentTitle": "Bekendtgørelse af lov om trafikselskaber",
+   "Year": "2025",
+   "DiesSigni": "2025-05-19",
+   "Status": "Valid",
+   "Number": "537",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-trafikselskabsloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "249820",
+   "DocumentTitle": "Bekendtgørelse af lov om trafikselskaber",
+   "Year": "2025",
+   "DiesSigni": "2025-05-19",
+   "Status": "Valid",
+   "Number": "537",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-trafikselskabsloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "249820",
+   "DocumentTitle": "Bekendtgørelse af lov om trafikselskaber",
+   "Year": "2025",
+   "DiesSigni": "2025-05-19",
+   "Status": "Valid",
+   "Number": "537",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-trafikselskabsloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "249820",
+   "DocumentTitle": "Bekendtgørelse af lov om trafikselskaber",
+   "Year": "2025",
+   "DiesSigni": "2025-05-19",
+   "Status": "Valid",
+   "Number": "537",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2025/537",
+   "lovtidende": "LBK nr. 537 af 19/05/2025"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-postloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "241809",
+   "DocumentTitle": "Bekendtgørelse af postlov",
+   "Year": "2024",
+   "DiesSigni": "2024-02-08",
+   "Status": "Valid",
+   "Number": "151",
+   "PopularTitle": "Postloven",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-postloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "241809",
+   "DocumentTitle": "Bekendtgørelse af postlov",
+   "Year": "2024",
+   "DiesSigni": "2024-02-08",
+   "Status": "Valid",
+   "Number": "151",
+   "PopularTitle": "Postloven",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-postloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "241809",
+   "DocumentTitle": "Bekendtgørelse af postlov",
+   "Year": "2024",
+   "DiesSigni": "2024-02-08",
+   "Status": "Valid",
+   "Number": "151",
+   "PopularTitle": "Postloven",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-postloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "241809",
+   "DocumentTitle": "Bekendtgørelse af postlov",
+   "Year": "2024",
+   "DiesSigni": "2024-02-08",
+   "Status": "Valid",
+   "Number": "151",
+   "PopularTitle": "Postloven",
+   "Ministry": "By-, Land- og Transportministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2024/151",
+   "lovtidende": "LBK nr. 151 af 08/02/2024"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "kant min-by-land-og-transport|ressortansvar|sty-trafikstyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.trafikstyrelsen.dk/om-trafikstyrelsen",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-by-land-og-transport|ressortansvar|sty-banedanmark",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/855",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-by-land-og-transport|ressortansvar|naevn-jernbanenaevnet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2021/2424",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-by-land-og-transport|ressortansvar|sty-havarikommissionen",
+  "sikkerhed": "sandsynlig",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://lex.dk/Havarikommissionen",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-by-land-og-transport|ressortansvar|lov-jernbaneloven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/1091",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "By-, Land- og Transportministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-by-land-og-transport|ressortansvar|lov-luftfartsloven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/570",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "By-, Land- og Transportministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-by-land-og-transport|ressortansvar|lov-faerdselsloven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/118",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "By-, Land- og Transportministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-by-land-og-transport|ressortansvar|lov-taxiloven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1051",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "By-, Land- og Transportministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-by-land-og-transport|ressortansvar|lov-godskoerselsloven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/327",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "By-, Land- og Transportministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-by-land-og-transport|ressortansvar|lov-buskoerselsloven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/542",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "By-, Land- og Transportministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-by-land-og-transport|ressortansvar|lov-trafikselskabsloven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/537",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "By-, Land- og Transportministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-by-land-og-transport|ressortansvar|lov-postloven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/151",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "By-, Land- og Transportministeriet"
+  }
+ },
+ {
+  "hvor": "kant lov-jernbaneloven|hjemmel_for|sty-banedanmark",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/1091",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-jernbaneloven|hjemmel_for|naevn-jernbanenaevnet",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/1091",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-jernbaneloven|hjemmel_for|sty-havarikommissionen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/1091",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-jernbaneloven|hjemmel_for|sty-trafikstyrelsen",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/1091",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-luftfartsloven|hjemmel_for|sty-trafikstyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/570",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-vejloven|hjemmel_for|bek-trafikstyrelsen-opgaver",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/169",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-jernbaneloven|hjemmel_for|bek-trafikstyrelsen-opgaver",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/169",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-trafikstyrelsen-opgaver|hjemmel_for|sty-trafikstyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/169",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-jernbaneloven|hjemmel_for|bek-banedanmark-opgaver",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/855",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-banedanmark-opgaver|hjemmel_for|sty-banedanmark",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/855",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-jernbaneloven|hjemmel_for|bek-jernbanenaevnet",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2021/2424",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-jernbanenaevnet|hjemmel_for|naevn-jernbanenaevnet",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2021/2424",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-faerdselsloven|hjemmel_for|bek-faerdselsstyrelsen-opgaver",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/787",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-faerdselsstyrelsen-opgaver|hjemmel_for|sty-faerdselsstyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/787",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-faerdselsloven|hjemmel_for|bek-farligt-gods-vejtransport",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/915",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-godskoerselsloven|hjemmel_for|bek-farligt-gods-vejtransport",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/915",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant naevn-jernbanenaevnet|klageinstans|sty-banedanmark",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/855",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-by-land-og-transport|klageinstans|sty-faerdselsstyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/787",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-trafikstyrelsen|tilsyn|sty-banedanmark",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/1091",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-trafikstyrelsen|udsteder|kilde-trafikstyrelsen-bl-bj",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/169",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant naevn-jernbanenaevnet|udsteder|kilde-jernbanenaevnet-afgoerelser",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2021/2424",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant org-ankenaevnet-for-bus-tog-og-metro|udsteder|kilde-abtm-afgoerelser",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://abtm.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-by-land-og-transport|klageinstans|sty-banedanmark",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/855",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ }
+]

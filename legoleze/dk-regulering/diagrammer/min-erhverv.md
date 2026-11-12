@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 136 · kanter: 209
+Noder: 141 · kanter: 217
 
 ```mermaid
 flowchart LR
@@ -33,12 +33,14 @@ flowchart LR
     eu_reg_2024_3110["Revideret byggevareforordning (EU) 2024/3110"]:::eu
     eu_dir_2012_18["Seveso III-direktivet (direktiv 2012/18/EU om kontrol med risikoen for større uheld med farlige stoffer)"]:::eu
     sty_arbejdstilsynet["Arbejdstilsynet"]:::instans
+    raad_det_veterinaere_sundhedsraad["Det Veterinære Sundhedsråd"]:::instans
     org_energinet["Energinet"]:::instans
     sty_energistyrelsen["Energistyrelsen"]:::instans
     sty_erhvervsstyrelsen["Erhvervsstyrelsen"]:::instans
     org_finansiel_stabilitet["Finansiel Stabilitet"]:::instans
     sty_finanstilsynet["Finanstilsynet"]:::instans
     tilsyn_forsyningstilsynet["Forsyningstilsynet"]:::instans
+    sty_foedevarestyrelsen["Fødevarestyrelsen"]:::instans
     kommune_alle["Kommunerne (98 kommunalbestyrelser)"]:::instans
     sty_konkurrence_og_forbrugerstyrelsen["Konkurrence- og Forbrugerstyrelsen"]:::instans
     raad_konkurrenceraadet["Konkurrencerådet"]:::instans
@@ -58,6 +60,7 @@ flowchart LR
     org_det_finansielle_ankenaevn["Det finansielle ankenævn"]:::kilde
     kilde_ekn_afgoerelser["Energiklagenævnets afgørelser (ekn.naevneneshus.dk)"]:::kilde
     kilde_ean_afgoerelser["Erhvervsankenævnets kendelser (ean.naevneneshus.dk)"]:::kilde
+    kilde_findsmiley["Find Smiley (fødevarekontrollens kontrolrapporter)"]:::kilde
     kilde_mfkn_afgoerelser["MFKN afgørelsesportal (mfkn.naevneneshus.dk)"]:::kilde
     kilde_mrf["Miljøretlig Forskningsportal (MRF), Københavns Universitet"]:::kilde
     kilde_naevneneshus_afgoerelser["Nævnenes Hus – afgørelser fra øvrige nævn (Energiklagenævnet, Byggeklageenheden, Erhvervsankenævnet m.fl.)"]:::kilde
@@ -126,10 +129,12 @@ flowchart LR
     lov_forbrugerklageloven["Lov om alternativ tvistløsning i forbindelse med forbrugerklager (forbrugerklageloven)"]:::retsakt
     lov_undergrundsloven["Lov om anvendelse af Danmarks undergrund (undergrundsloven), LBK nr 1461 af 29/11/2023"]:::retsakt
     lov_autorisationsloven["Lov om autorisation af virksomheder på el-, vvs- og kloakinstallationsområdet (autorisationsloven)"]:::retsakt
+    lov_dyrlaegeloven["Lov om dyrlæger"]:::retsakt
     lov_elforsyningsloven["Lov om elforsyning (elforsyningsloven)"]:::retsakt
     lov_masteloven["Lov om etablering og fælles udnyttelse af master til radiokommunikationsformål m.v. (masteloven)"]:::retsakt
     lov_energimaerkningsloven["Lov om fremme af energibesparelser i bygninger"]:::retsakt
     lov_ve_loven["Lov om fremme af vedvarende energi (VE-loven)"]:::retsakt
+    lov_foedevareloven["Lov om fødevarer (fødevareloven)"]:::retsakt
     lov_tilbudsloven["Lov om indhentning af tilbud i bygge- og anlægssektoren (tilbudsloven)"]:::retsakt
     lov_kystbeskyttelsesloven["Lov om kystbeskyttelse (kystbeskyttelsesloven)"]:::retsakt
     lov_lejeloven["Lov om leje (lejeloven)"]:::retsakt
@@ -358,6 +363,14 @@ flowchart LR
     lov_forbrugerklageloven -->|hjemmel_for| org_ankenaevnet_for_fondsmaeglerselskaber
     naevn_erhvervsankenaevnet -.->|klageinstans| sty_finanstilsynet
     naevn_erhvervsankenaevnet -.->|klageinstans| org_finansiel_stabilitet
+    min_erhverv -->|ressortansvar| sty_foedevarestyrelsen
+    min_erhverv -->|ressortansvar| lov_foedevareloven
+    min_erhverv -->|ressortansvar| lov_dyrlaegeloven
+    min_erhverv -.->|ressortansvar| raad_det_veterinaere_sundhedsraad
+    lov_foedevareloven -.->|hjemmel_for| sty_foedevarestyrelsen
+    lov_dyrlaegeloven -.->|hjemmel_for| raad_det_veterinaere_sundhedsraad
+    naevn_miljoe_og_foedevareklagenaevnet -->|klageinstans| sty_foedevarestyrelsen
+    sty_foedevarestyrelsen -.->|udsteder| kilde_findsmiley
     bek_risiko -->|implementerer_EU| eu_dir_2012_18
 ```
 

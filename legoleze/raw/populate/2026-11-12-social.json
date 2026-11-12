@@ -1,0 +1,963 @@
+{
+  "omraade": "social",
+  "noder": [
+    {
+      "id": "lov-serviceloven",
+      "navn": "Lov om social service (serviceloven)",
+      "type": "lov",
+      "ministerium": "min-social",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/641",
+            "citat": "Herved bekendtgøres lov om social service, jf. lovbekendtgørelse nr. 1129 af 22. september 2025"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2026/641",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/641",
+            "citat": "Herved bekendtgøres lov om social service, jf. lovbekendtgørelse nr. 1129 af 22. september 2025"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2026/641",
+        "lovtidende": "LBK nr. 641 af 01/07/2026",
+        "andet": "Afløser LBK nr. 1129 af 22/09/2025.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/641",
+            "citat": "Herved bekendtgøres lov om social service, jf. lovbekendtgørelse nr. 1129 af 22. september 2025"
+          }
+        ]
+      },
+      "note": "Bærer bl.a. magtanvendelsesreglerne for voksne (kap. 24, § 130 a om Det Socialfaglige Nævn, § 131 b) og § 14 om Tilbudsportalen. LBK 641/2026 er set som gældende (Status Valid, ministerium Socialministeriet). Barnets-regler ligger siden 2024 i barnets lov."
+    },
+    {
+      "id": "lov-barnets-lov",
+      "navn": "Barnets lov",
+      "type": "lov",
+      "ministerium": "min-social",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/642",
+            "citat": "Herved bekendtgøres barnets lov, jf. lovbekendtgørelse nr. 282 af 17. marts 2025"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2026/642",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/642",
+            "citat": "Herved bekendtgøres barnets lov, jf. lovbekendtgørelse nr. 282 af 17. marts 2025"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2026/642",
+        "lovtidende": "LBK nr. 642 af 01/07/2026",
+        "andet": "Afløser LBK nr. 282 af 17/03/2025. Børne- og ungeudvalg: kap. 17 (§§ 140-151); tilsyn: kap. 19; VISO og Social- og Boligstyrelsen: kap. 20.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/642",
+            "citat": "Herved bekendtgøres barnets lov, jf. lovbekendtgørelse nr. 282 af 17. marts 2025"
+          }
+        ]
+      },
+      "note": "Afgørelserne er stadig formuleret med socialministeren og Social- og Boligstyrelsen (efter 3/6/2026), hvilket tyder på, at styrelsen ikke er omdøbt."
+    },
+    {
+      "id": "lov-socialtilsynsloven",
+      "navn": "Lov om socialtilsyn",
+      "type": "lov",
+      "ministerium": "min-social",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/242",
+            "citat": "Herved bekendtgøres lov om socialtilsyn, jf. lovbekendtgørelse nr. 236 af 25. februar 2025"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2026/242",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/242",
+            "citat": "Herved bekendtgøres lov om socialtilsyn, jf. lovbekendtgørelse nr. 236 af 25. februar 2025"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2026/242",
+        "lovtidende": "LBK nr. 242 af 30/01/2026",
+        "andet": "Afløser LBK nr. 236 af 25/02/2025. Metadata på Retsinformation nævner endnu Social- og Boligministeriet.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/242",
+            "citat": "Herved bekendtgøres lov om socialtilsyn, jf. lovbekendtgørelse nr. 236 af 25. februar 2025"
+          }
+        ]
+      },
+      "note": "§ 19 henviser klager over socialtilsynets afgørelser til retssikkerhedslovens kap. 10 (Ankestyrelsen). Loven indeholder i den læste del (§§ 1-23 a) ingen bestemmelse om tilsyn med socialtilsynene; se huller."
+    },
+    {
+      "id": "lov-voksenansvarsloven",
+      "navn": "Lov om voksenansvar for anbragte børn og unge (voksenansvarsloven)",
+      "type": "lov",
+      "ministerium": "min-social",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1006",
+            "citat": "Herved bekendtgøres lov om voksenansvar for anbragte børn og unge"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2024/1006",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1006",
+            "citat": "Herved bekendtgøres lov om voksenansvar for anbragte børn og unge"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2024/1006",
+        "lovtidende": "LBK nr. 1006 af 30/08/2024",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1006",
+            "citat": "Herved bekendtgøres lov om voksenansvar for anbragte børn og unge"
+          }
+        ]
+      },
+      "note": "§ 23 giver klageadgang til Ankestyrelsen over børne- og ungeudvalgets og kommunalbestyrelsens afgørelser (frist 4 uger, ingen opsættende virkning); § 24 giver adgang til at forelægge Ankestyrelsens afgørelse for retten. Klager over selve magtanvendelsen går til kommunalbestyrelsen (§ 23, stk. 3). Ministernavnet i teksten er stadig 'social- og boligministeren'."
+    },
+    {
+      "id": "bek-socialtilsyn",
+      "navn": "Bekendtgørelse om socialtilsyn (BEK nr. 1559 af 05/12/2025)",
+      "type": "bekendtgørelse",
+      "ministerium": "min-social",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Udstedt i medfør af lov om socialtilsyn § 2, stk. 3 (hvilke kommunalbestyrelser der varetager funktionen som socialtilsyn), § 5, stk. 12, § 7, stk. 8 m.fl. og servicelovens § 14, stk. 8.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1559",
+            "citat": "I medfør af § 2, stk. 3, § 5, stk. 12, § 5 a, stk. 3, § 6, stk. 4, § 7, stk. 8, § 8, stk. 3, § 9, stk. 2, § 12, stk. 6,"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2025/1559",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1559",
+            "citat": "I medfør af § 2, stk. 3, § 5, stk. 12, § 5 a, stk. 3, § 6, stk. 4, § 7, stk. 8, § 8, stk. 3, § 9, stk. 2, § 12, stk. 6,"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2025/1559",
+        "lovtidende": "BEK nr. 1559 af 05/12/2025",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1559",
+            "citat": "I medfør af § 2, stk. 3, § 5, stk. 12, § 5 a, stk. 3, § 6, stk. 4, § 7, stk. 8, § 8, stk. 3, § 9, stk. 2, § 12, stk. 6,"
+          }
+        ]
+      },
+      "note": "§ 1 udpeger de fem kommuner med socialtilsynsfunktion: Frederiksberg (Region Hovedstaden), Holbæk (Sjælland), Faaborg-Midtfyn (Syddanmark), Silkeborg (Midtjylland), Hjørring (Nordjylland). § 1, stk. 2-4 har undtagelser, hvor et socialtilsyn varetager opgaven for en kommune i en anden region (fx Frederiksberg Kommune som tilbudsholder)."
+    },
+    {
+      "id": "bek-forretningsorden-socialfaglige-naevn",
+      "navn": "Bekendtgørelse om forretningsorden for Det Socialfaglige Nævn vedrørende Magtanvendelse over for Borgere med Handicap (BEK nr. 1413 af 05/12/2024)",
+      "type": "bekendtgørelse",
+      "ministerium": "min-social",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Udstedt i medfør af servicelovens § 130 a, stk. 7 og 9.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1413",
+            "citat": "I medfør af § 130 a, stk. 7 og 9, i lov om social service, jf. lovbekendtgørelse nr. 909 af 3. juli 2024, fastsættes:"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2024/1413",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1413",
+            "citat": "I medfør af § 130 a, stk. 7 og 9, i lov om social service, jf. lovbekendtgørelse nr. 909 af 3. juli 2024, fastsættes:"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2024/1413",
+        "lovtidende": "BEK nr. 1413 af 05/12/2024",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1413",
+            "citat": "I medfør af § 130 a, stk. 7 og 9, i lov om social service, jf. lovbekendtgørelse nr. 909 af 3. juli 2024, fastsættes:"
+          }
+        ]
+      },
+      "note": "Forretningsorden, ikke nævnets stiftelsesgrundlag (det er servicelovens § 130 a). Træder i kraft 1/1/2025 (§ 20). Status Valid; metadata viser slutdato 2026-08-05, uafklaret."
+    },
+    {
+      "id": "bek-raad-paa-det-sociale-omraade",
+      "navn": "Bekendtgørelse om råd på det sociale område (BEK nr. 580 af 09/05/2022)",
+      "type": "bekendtgørelse",
+      "ministerium": "min-social",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Udstedt i medfør af retssikkerhedslovens § 37 a, stk. 4, § 87, stk. 2 og § 88, stk. 2, 2. pkt.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2022/580",
+            "citat": "I medfør af § 37 a, stk. 4, § 87, stk. 2, og § 88, stk. 2, 2. pkt., i lov om retssikkerhed og administration"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2022/580",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2022/580",
+            "citat": "I medfør af § 37 a, stk. 4, § 87, stk. 2, og § 88, stk. 2, 2. pkt., i lov om retssikkerhed og administration"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2022/580",
+        "lovtidende": "BEK nr. 580 af 09/05/2022",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2022/580",
+            "citat": "I medfør af § 37 a, stk. 4, § 87, stk. 2, og § 88, stk. 2, 2. pkt., i lov om retssikkerhed og administration"
+          }
+        ]
+      },
+      "note": "Kapitel 1 handicapråd (kommunale), kapitel 2 Det Centrale Handicapråd, kapitel 3 Børnerådet. Metadata viser Status Valid men slutdato 2026-08-05 og ministerium Social- og Boligministeriet; en afløser fra august 2026 er ikke fundet."
+    },
+    {
+      "id": "naevn-boerne-og-ungeudvalg",
+      "navn": "Børne- og ungeudvalget (kommunalt)",
+      "type": "nævn",
+      "ministerium": "ingen",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Barnets lov § 142, stk. 1: børne- og ungeudvalget træffer i et møde afgørelse bl.a. om anbringelse uden for hjemmet uden samtykke (§§ 47 og 49).",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/642",
+            "citat": "Børne- og ungeudvalget træffer i et møde afgørelse efter følgende bestemmelser:"
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/642",
+            "citat": "Anbringelse uden for hjemmet efter §§ 47 eller 49."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse",
+            "bindende": "bindende",
+            "note": "tvangsmæssige foranstaltninger over for børn og unge, fx anbringelse uden samtykke; kan indbringes for Ankestyrelsen (barnets lov § 146) eller kræves forelagt for retten (§ 147)"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/642",
+            "citat": "Afgørelser truffet af børne- og ungeudvalget, jf. § 142, kan indbringes for Ankestyrelsen,"
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "børne- og ungeudvalgets afgørelse af [dato]",
+        "barnets lov § 142"
+      ],
+      "note": "Kommunalt udvalg (kommunalbestyrelsesmedlem, dommer, børnesagkyndige m.fl.), ikke en statslig myndighed. Afgørelser kan påklages til Ankestyrelsen inden 4 uger (§ 146, stk. 1), som har fuld prøvelse; forældre/barn over 10 år kan kræve sagen forelagt byretten via Ankestyrelsen inden 4 uger (§ 147, stk. 1); byrettens afgørelse kan ikke indbringes for landsretten (§ 149, stk. 1). Ankestyrelsen kan desuden tage børnesager op af egen drift (§ 151, stk. 1). Eget web-sted findes ikke; se huller."
+    },
+    {
+      "id": "tilsyn-socialtilsynene",
+      "navn": "De fem socialtilsyn",
+      "type": "tilsyn",
+      "ministerium": "ingen",
+      "status": "aktiv",
+      "tidligere_navne": [],
+      "hjemmel": {
+        "tekst": "Lov om socialtilsyn § 2, stk. 1: kommunalbestyrelser i nærmere fastsatte kommuner har ansvaret for godkendelse og driftsorienteret tilsyn og benævnes socialtilsyn; § 4: socialtilsynet godkender og fører driftsorienteret tilsyn med plejefamilier og tilbud. BEK 1559/2025 § 1 udpeger de fem kommuner.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/242",
+            "citat": "Kommunalbestyrelserne, som varetager denne funktion, benævnes i denne lov socialtilsyn."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/1559",
+            "citat": "Frederiksberg Kommune varetager funktionen som socialtilsyn i Region Hovedstaden."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse",
+            "bindende": "bindende",
+            "note": "godkendelse, skærpet tilsyn, påbud og ophør af godkendelse; kan påklages til Ankestyrelsen (lov om socialtilsyn § 19)"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/242",
+            "citat": "Socialtilsynets afgørelser efter denne lov kan påklages af de personer, tilbud, myndigheder,"
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Socialtilsyn Hovedstaden",
+        "Socialtilsyn Sjælland",
+        "Socialtilsyn Syd",
+        "Socialtilsyn Midt",
+        "Socialtilsyn Nord",
+        "socialtilsynets afgørelse af [dato]"
+      ],
+      "note": "Fem kommunale tilsynsfunktioner: Frederiksberg, Holbæk, Faaborg-Midtfyn, Silkeborg, Hjørring. De officielle navne ('Socialtilsyn Hovedstaden' osv.) er ikke bekræftet på en åbnet side; krydsref_moenstre er et gæt på dagligdags navne. Tilbudsportalen skal opdateres af socialtilsynet (§ 22). Hvem der fører tilsyn med socialtilsynene er uafklaret, se huller."
+    },
+    {
+      "id": "naevn-socialfaglige-naevn-magtanvendelse",
+      "navn": "Det Socialfaglige Nævn vedrørende Magtanvendelse over for Borgere med Handicap",
+      "type": "nævn",
+      "ministerium": "min-social",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Serviceloven § 130 a, stk. 6: nævnet træffer afgørelse efter § 131 b (kameraovervågning, aflåsning af skabe og skuffe, adgang til borgerens bolig) på kommunalbestyrelsens indstilling, senest 2 uger efter modtagelsen. Familieretshuset stiller sekretariatsbistand til rådighed (stk. 8).",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/641",
+            "citat": "Nævnet træffer afgørelse efter § 131 b."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/641",
+            "citat": "Familieretshuset stiller sekretariatsbistand til rådighed for nævnet."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/641",
+            "citat": "Nævnets afgørelse skal træffes senest 2 uger efter modtagelse af kommunalbestyrelsens indstilling."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse",
+            "bindende": "bindende",
+            "note": "tillader tryghedsskabende indgreb efter § 131 b efter kommunens indstilling"
+          },
+          {
+            "type": "principiel udtalelse",
+            "bindende": "vejledende",
+            "note": "om anvendelse af tryghedsskabende velfærdsteknologi"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1413",
+            "citat": "At afgive og offentliggøre principielle udtalelser om anvendelse af tryghedsskabende velfærdsteknologi."
+          }
+        ]
+      },
+      "note": "BEK 1413/2024 findes og er en forretningsorden (ikr. 1/1/2025), ikke nævnets hjemmel. Sekretariat: Familieretshuset, ikke Ankestyrelsen. Nævnets afgørelse træffes ved flertal (§ 130 a, stk. 6). Klageadgang over nævnets afgørelser er ikke afklaret, se huller."
+    },
+    {
+      "id": "raad-boerneraadet",
+      "navn": "Børnerådet",
+      "type": "råd",
+      "ministerium": "min-social",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Bekendtgørelse om råd på det sociale område (BEK 580/2022) kap. 3 med hjemmel i retssikkerhedslovens § 88, stk. 2: rådet består af en formand og 8 medlemmer udpeget af ministeren og er uafhængigt.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2022/580",
+            "citat": "Børnerådet består af 1 formand og 8 medlemmer, der udpeges af social- og ældreministeren."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2022/580",
+            "citat": "I medfør af § 37 a, stk. 4, § 87, stk. 2, og § 88, stk. 2, 2. pkt., i lov om retssikkerhed og administration"
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "udtalelse",
+            "bindende": "vejledende",
+            "note": "høringssvar og rådgivning; rådet er fortaler for børn"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2022/580",
+            "citat": "At være fortaler for alle børn i Danmark"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.boerneraadet.dk/",
+        "belaeg": [
+          {
+            "url": "https://www.boerneraadet.dk/",
+            "citat": "Børnerådet arbejder for, at rettighederne i Børnekonventionen bliver realiseret for alle børn i Danmark."
+          }
+        ]
+      },
+      "note": "Uafhængigt råd uden afgørelsesbeføjelser; ikke klageinstans. Ministeren er navngivet 'social- og ældreministeren' i bekendtgørelsen fra 2022."
+    },
+    {
+      "id": "raad-det-centrale-handicapraad",
+      "navn": "Det Centrale Handicapråd",
+      "type": "råd",
+      "ministerium": "min-social",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Bekendtgørelse om råd på det sociale område (BEK 580/2022) kap. 2 med hjemmel i retssikkerhedslovens § 87, stk. 2: formand og 16 medlemmer udpeget af ministeren; rådet er uafhængigt og forum for dialog på handicapområdet.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2022/580",
+            "citat": "Det Centrale Handicapråd består af en formand og 16 medlemmer, der udpeges af social- og ældreministeren."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2022/580",
+            "citat": "I medfør af § 37 a, stk. 4, § 87, stk. 2, og § 88, stk. 2, 2. pkt., i lov om retssikkerhed og administration"
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "udtalelse",
+            "bindende": "vejledende",
+            "note": "rådgivning af regering og Folketing; ingen afgørelser"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2022/580",
+            "citat": "Det Centrale Handicapråd er forum for dialog mellem centrale aktører på handicapområdet."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.dch.dk/",
+        "belaeg": [
+          {
+            "url": "https://www.dch.dk/",
+            "citat": "Det Centrale Handicapråd samler handicaporganisationer, kommuner, regioner, arbejdsmarkedets parter og vidensinstitutioner"
+          }
+        ]
+      },
+      "note": "Rådgivende, ikke klageinstans."
+    },
+    {
+      "id": "kilde-tilbudsportalen",
+      "navn": "Tilbudsportalen",
+      "type": "dokumentkilde",
+      "ministerium": "min-social",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://tilbudsportalen.dk/",
+        "belaeg": [
+          {
+            "url": "https://tilbudsportalen.dk/tilbudssoegning/artikel/om-tilbudsportalen",
+            "citat": "Tilbudsportalen indeholder oplysninger om plejefamilier og kommunale, regionale og private tilbud."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "tilbudsoplysninger (godkendelser, plejefamilier, tilbud)",
+            "bindende": "ukendt",
+            "note": "register, ikke retskilde; oplysningerne godkendes af den tilsynsførende myndighed"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://tilbudsportalen.dk/tilbudssoegning/artikel/om-tilbudsportalen",
+            "citat": "Alle oplysninger er godkendt af plejefamiliernes og tilbuddenes tilsynsførende myndighed."
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML"
+        ],
+        "note": "Søgeportal; åbne data, API og tilsynsrapporter er ikke set.",
+        "belaeg": [
+          {
+            "url": "https://tilbudsportalen.dk/tilbudssoegning/artikel/om-tilbudsportalen",
+            "citat": "Tilbudsportalen indeholder oplysninger om plejefamilier og kommunale, regionale og private tilbud."
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 2,
+        "besvaer": 2,
+        "begrundelse": "Register over tilbud og plejefamilier, ikke retskilde; relevant for tilsynskæden, men uden fund af API eller tilsynsrapporter."
+      },
+      "note": "Hjemmel: servicelovens § 14 og lov om socialtilsyn § 22 (socialtilsynet registrerer godkendelser og resultater af tilsyn). Driften er hos Erhvervsstyrelsen for Social- og Boligstyrelsen."
+    }
+  ],
+  "kanter": [
+    {
+      "from": "min-social",
+      "type": "ressortansvar",
+      "to": "lov-serviceloven",
+      "beskrivelse": "Loven hører under socialministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/641",
+          "citat": "Socialministeren samler og formidler oplysninger om kommunale, regionale og private tilbud"
+        }
+      ]
+    },
+    {
+      "from": "min-social",
+      "type": "ressortansvar",
+      "to": "lov-barnets-lov",
+      "beskrivelse": "Loven hører under socialministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/642",
+          "citat": "De sagkyndige, der er nævnt i § 148, beskikkes af Domstolsstyrelsen efter forhandling med socialministeren."
+        }
+      ]
+    },
+    {
+      "from": "min-social",
+      "type": "ressortansvar",
+      "to": "lov-socialtilsynsloven",
+      "beskrivelse": "Loven hører under social- og boligministeren (nu socialministeren).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/242",
+          "citat": "Social- og boligministeren fastsætter regler om, hvilke kommunalbestyrelser der varetager funktionen"
+        }
+      ]
+    },
+    {
+      "from": "min-social",
+      "type": "ressortansvar",
+      "to": "lov-voksenansvarsloven",
+      "beskrivelse": "Loven hører under social- og boligministeren (nu socialministeren).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1006",
+          "citat": "Social- og boligministeren kan fastsætte nærmere regler om klageadgang."
+        }
+      ]
+    },
+    {
+      "from": "min-social",
+      "type": "ressortansvar",
+      "to": "naevn-socialfaglige-naevn-magtanvendelse",
+      "beskrivelse": "Nævnets forretningsorden fastsættes af socialministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/641",
+          "citat": "Socialministeren fastsætter en forretningsorden for nævnet."
+        }
+      ]
+    },
+    {
+      "from": "min-social",
+      "type": "ressortansvar",
+      "to": "raad-boerneraadet",
+      "beskrivelse": "Råd under Socialministeriet.",
+      "belaeg": [
+        {
+          "url": "https://sm.dk/ministeriet/organisation",
+          "citat": "Ministeriets tilknyttede styrelser, råd og institutioner"
+        }
+      ]
+    },
+    {
+      "from": "min-social",
+      "type": "ressortansvar",
+      "to": "raad-det-centrale-handicapraad",
+      "beskrivelse": "Råd under Socialministeriet.",
+      "belaeg": [
+        {
+          "url": "https://sm.dk/ministeriet/organisation",
+          "citat": "Ministeriets tilknyttede styrelser, råd og institutioner"
+        }
+      ]
+    },
+    {
+      "from": "lov-socialtilsynsloven",
+      "type": "hjemmel_for",
+      "to": "tilsyn-socialtilsynene",
+      "beskrivelse": "§ 2, stk. 1: kommunalbestyrelserne, der varetager godkendelse og driftsorienteret tilsyn, benævnes socialtilsyn.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/242",
+          "citat": "Kommunalbestyrelserne, som varetager denne funktion, benævnes i denne lov socialtilsyn."
+        }
+      ]
+    },
+    {
+      "from": "lov-socialtilsynsloven",
+      "type": "hjemmel_for",
+      "to": "bek-socialtilsyn",
+      "beskrivelse": "§ 2, stk. 3 m.fl. bemyndiger ministeren til at fastsætte regler, herunder om hvilke kommuner der er socialtilsyn.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1559",
+          "citat": "I medfør af § 2, stk. 3, § 5, stk. 12, § 5 a, stk. 3, § 6, stk. 4, § 7, stk. 8, § 8, stk. 3, § 9, stk. 2, § 12, stk. 6,"
+        }
+      ]
+    },
+    {
+      "from": "bek-socialtilsyn",
+      "type": "hjemmel_for",
+      "to": "tilsyn-socialtilsynene",
+      "beskrivelse": "§ 1 udpeger de fem kommuner, der varetager socialtilsynsfunktionen.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1559",
+          "citat": "Holbæk Kommune varetager funktionen som socialtilsyn i Region Sjælland."
+        }
+      ]
+    },
+    {
+      "from": "lov-barnets-lov",
+      "type": "hjemmel_for",
+      "to": "naevn-boerne-og-ungeudvalg",
+      "beskrivelse": "§ 142, stk. 1: børne- og ungeudvalget træffer afgørelse om bl.a. anbringelse uden samtykke.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/642",
+          "citat": "Børne- og ungeudvalget træffer i et møde afgørelse efter følgende bestemmelser:"
+        }
+      ]
+    },
+    {
+      "from": "lov-serviceloven",
+      "type": "hjemmel_for",
+      "to": "naevn-socialfaglige-naevn-magtanvendelse",
+      "beskrivelse": "§ 130 a, stk. 6: nævnet træffer afgørelse efter § 131 b.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/641",
+          "citat": "Nævnet træffer afgørelse efter § 131 b."
+        }
+      ]
+    },
+    {
+      "from": "lov-serviceloven",
+      "type": "hjemmel_for",
+      "to": "bek-forretningsorden-socialfaglige-naevn",
+      "beskrivelse": "§ 130 a, stk. 9: ministeren fastsætter en forretningsorden for nævnet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1413",
+          "citat": "I medfør af § 130 a, stk. 7 og 9, i lov om social service, jf. lovbekendtgørelse nr. 909 af 3. juli 2024, fastsættes:"
+        }
+      ]
+    },
+    {
+      "from": "bek-forretningsorden-socialfaglige-naevn",
+      "type": "hjemmel_for",
+      "to": "naevn-socialfaglige-naevn-magtanvendelse",
+      "beskrivelse": "§ 1 fastlægger nævnets opgaver.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1413",
+          "citat": "At behandle og træffe afgørelse i sager, som indbringes for nævnet"
+        }
+      ]
+    },
+    {
+      "from": "lov-retssikkerhedsloven-social",
+      "type": "hjemmel_for",
+      "to": "bek-raad-paa-det-sociale-omraade",
+      "beskrivelse": "§ 37 a, stk. 4, § 87, stk. 2 og § 88, stk. 2 er hjemmel for bekendtgørelsen om råd.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2022/580",
+          "citat": "I medfør af § 37 a, stk. 4, § 87, stk. 2, og § 88, stk. 2, 2. pkt., i lov om retssikkerhed og administration"
+        }
+      ]
+    },
+    {
+      "from": "bek-raad-paa-det-sociale-omraade",
+      "type": "hjemmel_for",
+      "to": "raad-boerneraadet",
+      "beskrivelse": "Kapitel 3 om Børnerådet, § 15 om sammensætning og § 17 om uafhængighed.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2022/580",
+          "citat": "Børnerådet består af 1 formand og 8 medlemmer, der udpeges af social- og ældreministeren."
+        }
+      ]
+    },
+    {
+      "from": "bek-raad-paa-det-sociale-omraade",
+      "type": "hjemmel_for",
+      "to": "raad-det-centrale-handicapraad",
+      "beskrivelse": "Kapitel 2 om Det Centrale Handicapråd, § 7 og § 9.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2022/580",
+          "citat": "Det Centrale Handicapråd består af en formand og 16 medlemmer, der udpeges af social- og ældreministeren."
+        }
+      ]
+    },
+    {
+      "from": "sty-ankestyrelsen",
+      "type": "klageinstans",
+      "to": "naevn-boerne-og-ungeudvalg",
+      "beskrivelse": "Barnets lov § 146, stk. 1-2: børne- og ungeudvalgets afgørelser kan indbringes for Ankestyrelsen inden 4 uger af forældremyndighedsindehaveren og barnet/den unge fra 10 år; fuld prøvelse. Ankestyrelsen kan også tage børnesager op af egen drift (§ 151, stk. 1).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/642",
+          "citat": "kan indbringes for Ankestyrelsen, inden 4 uger efter at klageren har fået meddelelse om afgørelsen."
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/642",
+          "citat": "Ankestyrelsen kan af egen drift tage sager om støtte efter denne lov til børn og unge op,"
+        }
+      ]
+    },
+    {
+      "from": "dom-byretterne",
+      "type": "klageinstans",
+      "to": "sty-ankestyrelsen",
+      "beskrivelse": "Barnets lov § 147, stk. 1: Ankestyrelsens afgørelser efter § 146 (klager over børne- og ungeudvalgets afgørelser) og § 151, stk. 3, kan inden 4 uger ved henvendelse til Ankestyrelsen kræves forelagt for retten. Byrettens afgørelse kan ikke indbringes for landsretten, medmindre Procesbevillingsnævnet giver tilladelse (§ 149).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/642",
+          "citat": "kan ved henvendelse til Ankestyrelsen, inden 4 uger efter at klageren har fået meddelelse om afgørelsen, kræves forelagt for retten."
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/642",
+          "citat": "Byrettens afgørelse kan ikke indbringes for landsretten."
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/642",
+          "citat": "Procesbevillingsnævnet kan dog give tilladelse til anke, hvis sagen er af principiel karakter eller særlige grunde i øvrigt taler derfor."
+        }
+      ]
+    },
+    {
+      "from": "sty-ankestyrelsen",
+      "type": "klageinstans",
+      "to": "tilsyn-socialtilsynene",
+      "beskrivelse": "Lov om socialtilsyn § 19, stk. 1: socialtilsynets afgørelser kan påklages efter retssikkerhedslovens kap. 10 (frist 4 uger efter § 67, stk. 1).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/242",
+          "citat": "efter reglerne i kapitel 10 i lov om retssikkerhed og administration på det sociale område."
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/680",
+          "citat": "Klage til Ankestyrelsen skal ske inden 4 uger efter, at klageren har fået meddelelse om afgørelsen."
+        }
+      ]
+    },
+    {
+      "from": "lov-socialtilsynsloven",
+      "type": "henviser_til",
+      "to": "lov-retssikkerhedsloven-social",
+      "beskrivelse": "§ 19, stk. 1: klage over socialtilsynets afgørelser behandles efter retssikkerhedslovens kap. 10.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/242",
+          "citat": "efter reglerne i kapitel 10 i lov om retssikkerhed og administration på det sociale område."
+        }
+      ]
+    },
+    {
+      "from": "lov-voksenansvarsloven",
+      "type": "henviser_til",
+      "to": "lov-retssikkerhedsloven-social",
+      "beskrivelse": "§ 23, stk. 4: klagefristen til Ankestyrelsen er 4 uger, jf. retssikkerhedslovens § 67, stk. 1.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1006",
+          "citat": "Klage til Ankestyrelsen skal ske, inden 4 uger efter at klageren har fået meddelelse om afgørelsen,"
+        }
+      ]
+    },
+    {
+      "from": "sty-social-og-boligstyrelsen",
+      "type": "udsteder",
+      "to": "kilde-tilbudsportalen",
+      "beskrivelse": "Styrelsen har det faglige ansvar; Erhvervsstyrelsen driver portalen teknisk. Servicelovens § 14.",
+      "belaeg": [
+        {
+          "url": "https://www.sbst.dk/tvaergaende-omrader/tilbudsportalen",
+          "citat": "Social- og Boligstyrelsen har det faglige ansvar for Tilbudsportalen."
+        }
+      ]
+    }
+  ],
+  "rettelser": [
+    {
+      "id": "lov-retssikkerhedsloven-social",
+      "felt": "url",
+      "vaerdi": "https://www.retsinformation.dk/eli/lta/2026/680",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/680",
+          "citat": "Herved bekendtgøres lov om retssikkerhed og administration på det sociale område, jf. lovbekendtgørelse nr. 354"
+        }
+      ]
+    },
+    {
+      "id": "lov-retssikkerhedsloven-social",
+      "felt": "identifikatorer",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/680",
+          "citat": "Herved bekendtgøres lov om retssikkerhed og administration på det sociale område, jf. lovbekendtgørelse nr. 354"
+        }
+      ],
+      "eli": "https://www.retsinformation.dk/eli/lta/2026/680",
+      "lovtidende": "LBK nr. 680 af 03/08/2026",
+      "andet": "Afløser LBK nr. 354 af 02/04/2025 (historisk fra 2026-08-04). Kap. 10: klage (§§ 60-74), kap. 11: koordinering af praksis (§§ 76-80)."
+    },
+    {
+      "id": "kilde-ast-principmeddelelser",
+      "felt": "url",
+      "vaerdi": "https://www.ast.dk/for-myndigheder/principmeddelelser",
+      "belaeg": [
+        {
+          "url": "https://www.ast.dk/for-myndigheder/principmeddelelser",
+          "citat": "En principiel afgørelse er en bindende retskilde"
+        }
+      ]
+    },
+    {
+      "id": "kilde-ast-principmeddelelser",
+      "felt": "identifikatorer",
+      "belaeg": [
+        {
+          "url": "https://www.ast.dk/for-myndigheder/principmeddelelser/2026/ankestyrelsens-principmeddelelse-12-26-om-anbringelse-uden-samtykke-genbehandlingsfrist-forkortelse-af-genbehandlingsfrist-fremmoede-i-boerne-og-ungeudvalget",
+          "citat": "Ankestyrelsens principmeddelelse 12-26 om anbringelse uden samtykke"
+        }
+      ],
+      "andet": "Principmeddelelser nummereres '<løbenr>-<åå>' (fx 12-26 fra juli 2026, 22-24, 34-23) med eget journalnummer og lovområde som filter (fx barnets lov). Ligger på ast.dk under /for-myndigheder/principmeddelelser/<år>/ med status Gældende eller Historisk, og som KEN-dokument på Retsinformation."
+    }
+  ],
+  "huller": [
+    {
+      "emne": "Tilsyn med socialtilsynene",
+      "type": "uklart",
+      "beskrivelse": "Lov om socialtilsyn §§ 1-23 a (set) indeholder ingen bestemmelse om, hvem der fører tilsyn med socialtilsynene. Søgeresultater antyder (ikke belagt på åbnet side), at Social- og Boligstyrelsen følger og understøtter socialtilsynenes praksis, og at Ankestyrelsens kommunale tilsyn dækker de fem kommunalbestyrelser; kun sekundære og ældre kilder (ft.dk svar fra 2017). Ikke oprettet som tilsynskant.",
+      "noder": [
+        "tilsyn-socialtilsynene",
+        "sty-social-og-boligstyrelsen",
+        "sty-ankestyrelsen"
+      ],
+      "kilder": [
+        "https://www.retsinformation.dk/eli/lta/2026/242",
+        "https://www.ft.dk/samling/20161/almdel/sou/spm/182/svar/1373990/1710626/index.htm"
+      ]
+    },
+    {
+      "emne": "Egne web-steder for børne- og ungeudvalg, socialtilsyn og Det Socialfaglige Nævn",
+      "type": "ikke-fundet",
+      "beskrivelse": "Krævet felt url mangler: børne- og ungeudvalget er kommunalt, socialtilsynenes og nævnets egne sider (nævnets sekretariat ligger i Familieretshuset) er ikke åbnet.",
+      "noder": [
+        "naevn-boerne-og-ungeudvalg",
+        "tilsyn-socialtilsynene",
+        "naevn-socialfaglige-naevn-magtanvendelse"
+      ],
+      "kilder": []
+    },
+    {
+      "emne": "Klageadgang over Det Socialfaglige Nævns afgørelser",
+      "type": "uklart",
+      "beskrivelse": "En oversigt over serviceloven kap. 24 antyder, at § 134, stk. 1 om klage til Ankestyrelsen gælder afgørelser efter § 131 b; teksten er ikke læst fuldt ud, og endelighed er ikke bekræftet. Ingen klagekant oprettet.",
+      "noder": [
+        "naevn-socialfaglige-naevn-magtanvendelse"
+      ],
+      "kilder": [
+        "https://www.retsinformation.dk/eli/lta/2026/641"
+      ]
+    },
+    {
+      "emne": "Tilbudsportalens identifikatorer, opdatering, licens og API",
+      "type": "uklart",
+      "beskrivelse": "Siderne om Tilbudsportalen på tilbudsportalen.dk og sbst.dk nævner hverken tilbudsnumre, åbne data/API, tilsynsrapporter, opdateringsfrekvens eller brugsvilkår. Socialtilsynsloven § 22 pålægger socialtilsynet at registrere godkendelser og tilsynsresultater. Bekendtgørelse om Tilbudsportalen (BEK nr. 1560 af 05/12/2025) er ikke læst og ikke oprettet som node.",
+      "noder": [
+        "kilde-tilbudsportalen"
+      ],
+      "kilder": [
+        "https://tilbudsportalen.dk/tilbudssoegning/artikel/om-tilbudsportalen",
+        "https://www.sbst.dk/tvaergaende-omrader/tilbudsportalen"
+      ]
+    },
+    {
+      "emne": "Rådet for Socialt Udsatte og Den Uvildige Konsulentordning på Handicapområdet (DUKH)",
+      "type": "ikke-fundet",
+      "beskrivelse": "Rådet for Socialt Udsatte er ikke omfattet af BEK 580/2022 og er kun set på sm.dk som tilknyttet råd. DUKH's hjemmeside (dukh.dk) nævner hverken hjemmel eller ministerium. Ingen noder oprettet.",
+      "noder": [],
+      "kilder": [
+        "https://dukh.dk",
+        "https://sm.dk/ministeriet/organisation"
+      ]
+    },
+    {
+      "emne": "Nedlagte sociale nævn, beskæftigelsesankenævn og Den Sociale Ankestyrelse",
+      "type": "ikke-fundet",
+      "beskrivelse": "Ikke undersøgt i denne runde; ingen belæg for perioder og efterfølgere.",
+      "noder": [
+        "sty-ankestyrelsen"
+      ],
+      "kilder": []
+    },
+    {
+      "emne": "Social- og Boligstyrelsens sociale opgaver (VISO, rolle over for socialtilsynene) i registry-noden",
+      "type": "andet",
+      "beskrivelse": "Barnets lov kap. 20 (§ 160: Social- og Boligstyrelsen skal følge udviklingen i målgrupper, tilbud og indsatser; §§ 165-172 om VISO) viser opgaverne, men nodens hjemmel/dokumenttyper er ikke rettet, fordi en rettelse erstatter hele feltet og kræver mindst samme sikkerhed.",
+      "noder": [
+        "sty-social-og-boligstyrelsen"
+      ],
+      "kilder": [
+        "https://www.retsinformation.dk/eli/lta/2026/642"
+      ]
+    },
+    {
+      "emne": "Principmeddelelsernes vilkår, opdatering og RSS",
+      "type": "uklart",
+      "beskrivelse": "ast.dk-siden for principmeddelelser (set 0-100.000 tegn) viser søgning med filtrene lovområde, status (Gældende/Historisk) og emneord, men ingen vilkår, RSS, API eller opdateringsfrekvens. Principmeddelelse 12-26 er offentliggjort 15/7/2026.",
+      "noder": [
+        "kilde-ast-principmeddelelser"
+      ],
+      "kilder": [
+        "https://www.ast.dk/for-myndigheder/principmeddelelser"
+      ]
+    }
+  ],
+  "noter": "Socialministeriet/SBST-konflikten: sm.dk lister Social- og Boligstyrelsen blandt Socialministeriets tilknyttede styrelser, og LBK 642/2026 (barnets lov, Socialministeriet, 1/7/2026) bruger stadig 'Social- og Boligstyrelsen' i § 160; sbst.dk/om-os siger fortsat 'Social- og Boligministeriets koncern' (forældet). Ingen kilde viser, at styrelsen er delt eller omdøbt; bolig/byggeopgaverne løses for Børne-, Ældre- og Boligministeriet (se eksisterende bek-ressortoverfoersel-bolig-2026). Fejl i eksisterende registry: lov-retssikkerhedsloven-social har url til LBK 261/2024 (historisk) og peger på LBK 354/2025, som er historisk fra 4/8/2026; rettet via rettelser. Retsinformation viser på mange dokumenter (BEK 580/2022, BEK 1366/2023) slutdato 2026-08-05 trods Status Valid; kan skyldes en samlet ændring 5/8/2026 og bør efterses. Lov om socialtilsyn og voksenansvarsloven bærer stadig ministernavnet fra før 2026 i metadata. Uden for område: Familieretshuset (sekretariat for Det Socialfaglige Nævn), ældretilsyn, Ungdomskriminalitetsnævnet. Opdagelser ikke belagt: tilsyn-kant fra SBST til socialtilsynene. Citater fra WebFetch er gengivet af en opsummerende model med 125-tegns grænse; paragrafnumre står derfor i beskrivelserne, ikke i citaterne. Kanten sty-ankestyrelsen->kommune-alle findes allerede; dens beskrivelse bør suppleres med retssikkerhedsloven § 60 og § 67 (frist 4 uger), § 73 (retsplejelovens kap. 43 a) og voksenansvarsloven § 23, stk. 2. [Orkestrator 2026-11-12: kanten dom-byretterne|klageinstans|naevn-boerne-og-ungeudvalg er rettet til dom-byretterne|klageinstans|sty-ankestyrelsen. Barnets lov § 147 lader Ankestyrelsens afgørelser, ikke udvalgets, forelægge for retten (kontrollantens indvending). Den rettede kant er ikke uafhængigt bedømt og er derfor højst sandsynlig.]"
+}

@@ -1,0 +1,1400 @@
+{
+  "omraade": "transport",
+  "noder": [
+    {
+      "id": "sty-trafikstyrelsen",
+      "navn": "Trafikstyrelsen",
+      "type": "styrelse",
+      "ministerium": "min-by-land-og-transport",
+      "status": "aktiv",
+      "tidligere_navne": [
+        {
+          "navn": "Trafikstyrelsen (første navn, også kaldet Trafikstyrelsen for jernbaner og færger)",
+          "periode": "2004–juli 2015",
+          "belaeg": [
+            {
+              "url": "https://lex.dk/Trafikstyrelsen",
+              "citat": "tidl. Trafikstyrelsen for jernbaner og færger, styrelse, oprettet 2004"
+            }
+          ]
+        },
+        {
+          "navn": "Trafik- og Byggestyrelsen",
+          "periode": "juli 2015–ca. dec. 2016",
+          "belaeg": [
+            {
+              "url": "https://fdm.dk/arkiv/2015-07-trafikstyrelsen-faar-nyt-navn",
+              "citat": "Trafikstyrelsen har ændret navn til Trafik- og Byggestyrelsen."
+            }
+          ]
+        },
+        {
+          "navn": "Trafik-, Bygge- og Boligstyrelsen",
+          "periode": "dec. 2016–ca. 2021 (nuværende registry-node: sty-trafik-bygge-og-boligstyrelsen)",
+          "belaeg": [
+            {
+              "url": "https://danskcvrapi.dk/en/news/27186386-navneskift-2016-12-14",
+              "citat": "CVR number 27186386 has been given a new registered name as of 14 December 2016."
+            }
+          ]
+        }
+      ],
+      "hjemmel": {
+        "tekst": "BEK nr. 169/2026 § 1: Trafikstyrelsen er en styrelse under Transportministeriet. Jernbaneloven § 38 o og § 40, stk. 2: tilsyn med statslige jernbaneprojekter og veteranbaner; luftfartsloven § 6, stk. 1: luftfartøjsregisteret. Opgaver og beføjelser fastlægges i BEK 169/2026.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/169",
+            "citat": "Trafikstyrelsen er en styrelse under Transportministeriet."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/1091",
+            "citat": "For projekter, der er omfattet af § 38 a, stk. 1 og 2, fører Trafikstyrelsen tilsyn med overholdelse af bestemmelserne i dette kapitel"
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/570",
+            "citat": "Trafikstyrelsen fører et register over luftfartøjer"
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "Bestemmelser for Civil Luftfart (BL)",
+            "bindende": "bindende",
+            "note": "tekniske forskrifter undtaget fra Lovtidende; kundgøres på trafikstyrelsen.dk, nogle også på Retsinformation (retsinfo-serien)"
+          },
+          {
+            "type": "Bestemmelser for Jernbane (BJ)",
+            "bindende": "bindende",
+            "note": "forskrifter og TSI'er efter jernbaneloven §§ 29 og 56; kundgøres på trafikstyrelsen.dk"
+          },
+          {
+            "type": "afgørelse",
+            "bindende": "bindende",
+            "note": "klageadgang følger BEK 169/2026 kap. 4; hovedregel ingen klage til ministeren"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/169",
+            "citat": "Tekniske forskrifter, der er undtaget fra kundgørelse i Lovtidende, jf. stk. 1, udfærdiges som Bestemmelser for Civil Luftfart (BL), jf. dog stk. 4-8."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/169",
+            "citat": "Forskrifter og tekniske specifikationer, der udstedes af Trafikstyrelsen efter §§ 29 og 56 i jernbaneloven, kan udfærdiges som Bestemmelser for Jernbane (BJ)."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.trafikstyrelsen.dk/",
+        "belaeg": [
+          {
+            "url": "https://www.trafikstyrelsen.dk/om-trafikstyrelsen",
+            "citat": "Trafikstyrelsen er en styrelse under By-, Land- og Transportministeriet med cirka 650 medarbejdere."
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "BL \\d+-\\d+",
+        "BJ[- ]\\d+",
+        "Bestemmelser for Civil Luftfart",
+        "Bestemmelser for Jernbane",
+        "BEK nr\\. \\d+ af \\d+/\\d+/\\d{4} om Trafikstyrelsens"
+      ],
+      "note": "Ministeriet hedder By-, Land- og Transportministeriet på trafikstyrelsen.dk, men BEK 169/2026 § 1 (jan. 2026) og Banedanmarks BEK siger endnu 'Transportministeriet'. Sikkerhedsmyndighed for jernbanen (jernbaneloven § 55) og luftfartsmyndighed. Hovedregel i BEK 169/2026 kap. 4: Trafikstyrelsens afgørelser efter jernbaneloven (§ 20, stk. 1), luftfartsloven (§ 22, stk. 1), færdselsloven (§ 23), trafikselskabsloven (§ 24) og postloven (§ 25) kan ikke påklages til transportministeren eller anden administrativ myndighed, med undtagelser i § 20, stk. 2-4 (jernbane: visse afgørelser kan påklages til ministeren, kun retlige spørgsmål) og § 22, stk. 2 (visse luftfartsafgørelser kan påklages til Trafikstyrelsen). Sekretariat for Jernbanenævnet (BEK 2424/2021 § 12). Havne er også på lovlisten, men uden for dette område. Færdselsstyrelsen (kørekort m.v.) er en separat styrelse."
+    },
+    {
+      "id": "sty-banedanmark",
+      "navn": "Banedanmark",
+      "type": "styrelse",
+      "ministerium": "min-by-land-og-transport",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Jernbaneloven § 16, stk. 1: Banedanmark forvalter statens jernbaneinfrastruktur. Opgaver og beføjelser i BEK 855/2023 (hjemlet i jernbaneloven §§ 102, 112 og 113).",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/1091",
+            "citat": "Banedanmark forvalter statens jernbaneinfrastruktur."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/855",
+            "citat": "I medfør af § 102, stk. 1, § 112, stk. 1, og § 113, stk. 1 og 4, i jernbaneloven"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.bane.dk/",
+        "belaeg": [
+          {
+            "url": "https://www.bane.dk/da/Om-Banedanmark",
+            "citat": "Vi er en styrelse under Transportministeriet"
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse",
+            "bindende": "bindende",
+            "note": "afgørelser efter §§ 6-18 kan påklages til transportministeren (BEK 855/2023 § 19, med undtagelserne i stk. 3 og 4); klage til Jernbanenævnet efter § 20"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/855",
+            "citat": "Afgørelser truffet af Banedanmark i forbindelse med varetagelse af de opgaver, der er nævnt i §§ 6-18,"
+          }
+        ]
+      },
+      "note": "Infrastrukturforvalter for statens jernbanenet (inkl. kapacitetstildeling, trafikstyring og kørestrøm, BEK 2514/2021). Klage over trafikstyring (BEK 855/2023 § 20, stk. 1) og afgørelser efter § 17 (§ 20, stk. 2) går alene til Jernbanenævnet. Sund & Bælt Holding A/S har delegeret kompetence efter jernbanelovens kap. 6 a (BEK 427/2023)."
+    },
+    {
+      "id": "naevn-jernbanenaevnet",
+      "navn": "Jernbanenævnet",
+      "type": "nævn",
+      "ministerium": "min-by-land-og-transport",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Jernbaneloven § 103, stk. 1-2: Jernbanenævnet er en særskilt myndighed med tilsyns- og klagefunktion; afgørelser er bindende. Nærmere regler i BEK 2424/2021.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/1091",
+            "citat": "Jernbanenævnet er en særskilt myndighed, der organisatorisk, funktionelt, hierarkisk"
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2021/2424",
+            "citat": "Jernbanenævnet behandler klager over afgørelser og beslutninger i medfør af §§ 4-8, §§ 17-18 og § 21 i jernbaneloven"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.jernbanenaevnet.dk/",
+        "belaeg": [
+          {
+            "url": "https://www.jernbanenaevnet.dk/",
+            "citat": "Jernbanenævnet blev etableret d. 1. juli 2010 som markeds- og konkurrenceovervågningsorgan på jernbanemarkedet"
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse",
+            "bindende": "bindende",
+            "note": "kan ikke påklages til anden administrativ myndighed; søgsmål inden 8 uger"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2021/2424",
+            "citat": "Jernbanenævnets afgørelser og beslutninger kan ikke påklages til anden administrativ myndighed."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2021/2424",
+            "citat": "Jernbanenævnet offentliggør Jernbanenævnets afgørelser på Jernbanenævnets hjemmeside"
+          }
+        ]
+      },
+      "note": "Sekretariat placeret i Trafikstyrelsen (BEK 2424/2021 § 12). Instruktionsfri over for transportministeren (jernbaneloven § 103, stk. 1). Afgørelser kan prøves ved domstolene senest 8 uger efter (jernbaneloven § 115, stk. 1). Behandler også klager efter passagerrettighedsforordningen uden for Ankenævnet for Bus, Tog og Metros kompetence."
+    },
+    {
+      "id": "sty-havarikommissionen",
+      "navn": "Havarikommissionen for Civil Luftfart og Jernbane",
+      "type": "styrelse",
+      "ministerium": "min-by-land-og-transport",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Jernbaneloven kap. 13, bl.a. § 94, stk. 1: Havarikommissionen er uafhængig og ikke undergivet instruktion fra transportministeren. Luftfartsdelens hjemmel i luftfartsloven er ikke belagt her.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/1091",
+            "citat": "Havarikommissionen er uafhængig og er ikke undergivet instruktionsbeføjelser fra transportministeren."
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://havarikommissionen.dk/",
+        "belaeg": [
+          {
+            "url": "https://havarikommissionen.dk/vores-arbejde",
+            "citat": "Havarikommissionen placerer ikke skyld eller ansvar."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "undersøgelsesrapport og sikkerhedsanbefaling",
+            "bindende": "vejledende",
+            "note": "placerer ikke skyld eller ansvar"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/1091",
+            "citat": "offentliggøres, medmindre afgørende hensyn taler herimod."
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Havarikommissionen[s]? (rapport|undersøgelse)",
+        "Sagsnr\\. \\d{4}-\\d+"
+      ],
+      "note": "Undersøger civile flyveulykker og jernbaneulykker; ikke et tilsyn og ikke en klageinstans. Rapporter søges på havarikommissionen.dk/undersoegelsesresultater (luftfart og jernbane hver for sig). Ressort belagt via lex.dk (sekundær)."
+    },
+    {
+      "id": "org-ankenaevnet-for-bus-tog-og-metro",
+      "navn": "Ankenævnet for Bus, Tog og Metro",
+      "type": "privat-organisation",
+      "ministerium": "ingen",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://www.abtm.dk/",
+        "belaeg": [
+          {
+            "url": "https://abtm.dk/",
+            "citat": "behandler klager fra kunder over problemer oplevet i bus, tog, letbane og metro"
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse",
+            "bindende": "ukendt"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://abtm.dk/",
+            "citat": "Her kan du se alle afgørelser fra ankenævnet."
+          }
+        ]
+      },
+      "note": "Privat ankenævn for kundeklager over trafikvirksomheder; klagen skal først til trafikvirksomheden (Din klage kan kun behandles af ankenævnet, hvis du først har klaget til trafikvirksomheden og modtaget en afgørelse). Bindende karakter og godkendelse efter forbrugerklageloven er ikke belagt. Klager uden for nævnets kompetence går til Jernbanenævnet (jernbane) eller Trafikstyrelsen (bus, trafikselskabsloven § 28 a, stk. 2)."
+    },
+    {
+      "id": "kilde-trafikstyrelsen-bl-bj",
+      "navn": "Trafikstyrelsens love og regler (BL, BJ og øvrige forskrifter)",
+      "type": "dokumentkilde",
+      "ministerium": "min-by-land-og-transport",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://www.trafikstyrelsen.dk/lovlisteside",
+        "belaeg": [
+          {
+            "url": "https://www.trafikstyrelsen.dk/lovlisteside/jernbanesikkerhed-love-og-regler",
+            "citat": "Bestemmelser for jernbane (BJ)"
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "BL (Bestemmelser for Civil Luftfart)",
+            "bindende": "bindende"
+          },
+          {
+            "type": "BJ (Bestemmelser for Jernbane)",
+            "bindende": "bindende"
+          },
+          {
+            "type": "love, bekendtgørelser og vejledninger (filtreret på branche)",
+            "bindende": "blandet"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/169",
+            "citat": "De i stk. 1 nævnte forskrifter og tekniske specifikationer, der udfærdiges som BJ'er, indføres ikke i Lovtidende, men kundgøres ved offentliggørelse på Trafikstyrelsens hjemmeside www.trafikstyrelsen.dk."
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML",
+          "PDF"
+        ],
+        "note": "Lovliste pr. branche med filtre; BL/BJ er PDF-filer på trafikstyrelsen.dk. Intet API fundet. Nogle BL udgives også på Retsinformation (retsinfo-serien, ikke Lovtidende A).",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/169",
+            "citat": "Bestemmelser for Civil Luftfart (BL) kundgøres ved offentliggørelse på Trafikstyrelsens hjemmeside www.trafikstyrelsen.dk."
+          }
+        ]
+      },
+      "identifikatorer": {
+        "andet": "BL nummereres BL serie-løbenr. (fx BL 8-15, BL 6-08, BL 7-1) med udgavenummer og dato; BJ tilsvarende. Retsinformation: dokumenttype BEK, accession B-nummer (BL 8-15: B20231012005).",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/retsinfo/2023/10120",
+            "citat": "BL 8-15 Bestemmelser for civil luftfart, der supplerer EU-forordning 376/2014"
+          }
+        ]
+      },
+      "opdatering": {
+        "frekvens": "løbende",
+        "versionshistorik": "nye udgaver afløser ældre (fx BL 8-15 Udgave 2, 22. november 2023)",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/retsinfo/2023/10120",
+            "citat": "Udgave 2, 22. november 2023"
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 4,
+        "besvaer": 3,
+        "begrundelse": "Eneste samlede kilde til BL/BJ, som ligger uden for Lovtidende A; PDF'er uden API."
+      },
+      "note": "Hjemmel for kundgørelsen: BEK 169/2026 §§ 17-19 (BL: § 19, stk. 3; BJ: § 18, stk. 1-3; ATS-instrukser § 19, stk. 4). BL udstedes med hjemmel i luftfartsloven (fx BL 8-15 i medfør af § 89 b og § 153 b)."
+    },
+    {
+      "id": "kilde-jernbanenaevnet-afgoerelser",
+      "navn": "Jernbanenævnets afgørelser, beretninger m.v.",
+      "type": "dokumentkilde",
+      "ministerium": "min-by-land-og-transport",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://www.jernbanenaevnet.dk/lister/publikationlisteside",
+        "belaeg": [
+          {
+            "url": "https://www.jernbanenaevnet.dk/",
+            "citat": "Seneste afgørelser, beretninger, m.v."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse",
+            "bindende": "bindende"
+          },
+          {
+            "type": "årsberetning",
+            "bindende": "vejledende"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2021/2424",
+            "citat": "Jernbanenævnet offentliggør Jernbanenævnets afgørelser på Jernbanenævnets hjemmeside"
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML",
+          "PDF"
+        ],
+        "note": "Publikationsliste på jernbanenaevnet.dk; afgørelser som PDF.",
+        "belaeg": [
+          {
+            "url": "https://www.jernbanenaevnet.dk/",
+            "citat": "Seneste afgørelser, beretninger, m.v."
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 3,
+        "besvaer": 3,
+        "begrundelse": "Nævnets egen praksis; relevant for jernbaneadgang og passagerrettigheder."
+      }
+    },
+    {
+      "id": "kilde-abtm-afgoerelser",
+      "navn": "Ankenævnet for Bus, Tog og Metros afgørelser",
+      "type": "dokumentkilde",
+      "ministerium": "ingen",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://www.abtm.dk/afgorelser",
+        "belaeg": [
+          {
+            "url": "https://abtm.dk/",
+            "citat": "Her kan du se alle afgørelser fra ankenævnet."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse",
+            "bindende": "ukendt"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://abtm.dk/",
+            "citat": "Her kan du se alle afgørelser fra ankenævnet."
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML"
+        ],
+        "note": "Sorterbar liste pr. trafikvirksomhed og udfald.",
+        "belaeg": [
+          {
+            "url": "https://abtm.dk/",
+            "citat": "Her kan du se alle afgørelser fra ankenævnet."
+          }
+        ]
+      },
+      "ingest": {
+        "vaerdi": 2,
+        "besvaer": 2,
+        "begrundelse": "Forbrugerklager, lav juridisk vægt for RAG-korpus."
+      }
+    },
+    {
+      "id": "bek-trafikstyrelsen-opgaver",
+      "navn": "Bekendtgørelse om Trafikstyrelsens opgaver og beføjelser, klageadgang og kundgørelse af visse af Trafikstyrelsens forskrifter (BEK nr. 169 af 2026)",
+      "type": "bekendtgørelse",
+      "ministerium": "min-by-land-og-transport",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Vejlovens § 131 samt bestemmelser i jernbane-, luftfarts-, færdsels-, trafikselskabs-, post-, havne- og metrolovene (delegation).",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/169",
+            "citat": "I medfør af § 131 i lov om offentlige veje m.v., jf. lovbekendtgørelse nr. 435 af 24. april 2024,"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2026/169",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/169",
+            "citat": "Bekendtgørelse om Trafikstyrelsens opgaver og beføjelser, klageadgang og kundgørelse"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2026/169",
+        "lovtidende": "BEK nr. 169 af 27/01/2026",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/169",
+            "citat": "Bekendtgørelse om Trafikstyrelsens opgaver og beføjelser, klageadgang og kundgørelse"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bek-banedanmark-opgaver",
+      "navn": "Bekendtgørelse om Banedanmarks opgaver og beføjelser (BEK nr. 855 af 2023)",
+      "type": "bekendtgørelse",
+      "ministerium": "min-by-land-og-transport",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Jernbanelovens §§ 102, 112 og 113.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/855",
+            "citat": "I medfør af § 102, stk. 1, § 112, stk. 1, og § 113, stk. 1 og 4, i jernbaneloven,"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2023/855",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/855",
+            "citat": "Bekendtgørelse om Banedanmarks opgaver og beføjelser"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2023/855",
+        "lovtidende": "BEK nr. 855 af 19/06/2023",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/855",
+            "citat": "Bekendtgørelse om Banedanmarks opgaver og beføjelser"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bek-jernbanenaevnet",
+      "navn": "Bekendtgørelse om Jernbanenævnet (BEK nr. 2424 af 2021)",
+      "type": "bekendtgørelse",
+      "ministerium": "min-by-land-og-transport",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Jernbanelovens §§ 102, 103, 111, 113 og 114.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2021/2424",
+            "citat": "I medfør af § 102, stk. 1, § 103, stk. 7, § 111, stk. 8, § 113, stk. 1 og 4, og § 114, i jernbaneloven"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2021/2424",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2021/2424",
+            "citat": "Bekendtgørelse om Jernbanenævnet"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2021/2424",
+        "lovtidende": "BEK nr. 2424 af 13/12/2021",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2021/2424",
+            "citat": "Bekendtgørelse om Jernbanenævnet"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bek-faerdselsstyrelsen-opgaver",
+      "navn": "Bekendtgørelse om Færdselsstyrelsens opgaver og beføjelser samt klageadgang (BEK nr. 787 af 2025)",
+      "type": "bekendtgørelse",
+      "ministerium": "min-by-land-og-transport",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Færdselslovens § 134 a, stk. 1, 2 og 4 samt tilsvarende bemyndigelser i bus-, gods-, taxi- og trafikselskabsloven.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/787",
+            "citat": "I medfør af § 134 a, stk. 1, 2 og 4, i færdselsloven"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2025/787",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/787",
+            "citat": "Bekendtgørelse om Færdselsstyrelsens opgaver og beføjelser samt klageadgang"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2025/787",
+        "lovtidende": "BEK nr. 787 af 18/06/2025",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/787",
+            "citat": "Bekendtgørelse om Færdselsstyrelsens opgaver og beføjelser samt klageadgang"
+          }
+        ]
+      },
+      "note": "Klagevejen: hovedregel § 13, stk. 1: Færdselsstyrelsens afgørelser kan påklages til transportministeren, medmindre andet følger af §§ 14-20. Undtagelser uden klage til ministeren eller anden administrativ myndighed: § 14 (færdselsloven, medmindre forskrifterne bestemmer andet), § 16 (lov om godkendelse og syn af køretøjer), § 17 (buskørselsloven), § 18 (godskørselsloven), § 19 (taxiloven), § 20 (trafikselskabsloven). Ministeriet står som Transportministeriet i § 1."
+    },
+    {
+      "id": "bek-farligt-gods-vejtransport",
+      "navn": "Bekendtgørelse om vejtransport af farligt gods (BEK nr. 915 af 2025)",
+      "type": "bekendtgørelse",
+      "ministerium": "min-by-land-og-transport",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Færdselslovens §§ 82, 118, 134 d og 134 e samt godskørselslovens § 2, stk. 3, og § 17, stk. 2.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/915",
+            "citat": "I medfør af § 82, stk. 4-8 og 10, § 118, stk. 15, 1. pkt., § 134 d, stk. 2, og § 134 e i færdselsloven"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2025/915",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/915",
+            "citat": "Bekendtgørelse om vejtransport af farligt gods"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2025/915",
+        "lovtidende": "BEK nr. 915 af 26/06/2025",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/915",
+            "citat": "Bekendtgørelse om vejtransport af farligt gods"
+          }
+        ]
+      },
+      "note": "Klageafskæring: § 48, stk. 1: Færdselsstyrelsens afgørelser kan ikke indbringes for transportministeren eller anden administrativ myndighed. Eksamensklager afgøres af Færdselsstyrelsen (§ 48, stk. 2, frist 4 uger); synsvirksomheders afgørelser kan indbringes for Færdselsstyrelsen (§ 52, frist 4 uger). Beredskabsstyrelsens, Sundhedsstyrelsens og Sikkerhedsstyrelsens afgørelser kan ikke indbringes for anden administrativ myndighed (§§ 49-51)."
+    },
+    {
+      "id": "lov-jernbaneloven",
+      "navn": "Jernbaneloven",
+      "type": "lov",
+      "ministerium": "min-by-land-og-transport",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/1091",
+            "citat": "Bekendtgørelse af jernbaneloven"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2023/1091",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/1091",
+            "citat": "Bekendtgørelse af jernbaneloven"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2023/1091",
+        "lovtidende": "LBK nr. 1091 af 11/08/2023",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/1091",
+            "citat": "Bekendtgørelse af jernbaneloven"
+          }
+        ]
+      },
+      "note": "Ændret ved LOV 1785/2025 (Fremtidens S-bane m.v.). Retsinformation viser slutdato 31/10/2026 for LBK 1091/2023; en ny LBK er ikke fundet. Kap. 13 Havarikommissionen, kap. 16 Jernbanenævnet, § 113 klageadgang (ministeren kan fastsætte, at afgørelser ikke kan påklages), § 115 domstolsprøvelse 8 uger."
+    },
+    {
+      "id": "lov-luftfartsloven",
+      "navn": "Luftfartsloven",
+      "type": "lov",
+      "ministerium": "min-by-land-og-transport",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/570",
+            "citat": "Bekendtgørelse af lov om luftfart"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2025/570",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/570",
+            "citat": "Bekendtgørelse af lov om luftfart"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2025/570",
+        "lovtidende": "LBK nr. 570 af 19/05/2025",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/570",
+            "citat": "Bekendtgørelse af lov om luftfart"
+          }
+        ]
+      },
+      "note": "Bemyndiger transportministeren (videredelegeret til Trafikstyrelsen) til at udstede BL; BL kundgøres på trafikstyrelsen.dk (BEK 169/2026 § 19). Retsinformation viser slutdato 22/10/2026; LBK 570/2025 var gældende ifølge udskrift 18/10/2026."
+    },
+    {
+      "id": "lov-faerdselsloven",
+      "navn": "Færdselsloven",
+      "type": "lov",
+      "ministerium": "min-by-land-og-transport",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/118",
+            "citat": "Herved bekendtgøres færdselsloven, jf. lovbekendtgørelse nr. 1312 af 26. november 2024"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2026/118",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/118",
+            "citat": "Herved bekendtgøres færdselsloven, jf. lovbekendtgørelse nr. 1312 af 26. november 2024"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2026/118",
+        "lovtidende": "LBK nr. 118 af 12/01/2026",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2026/118",
+            "citat": "Herved bekendtgøres færdselsloven, jf. lovbekendtgørelse nr. 1312 af 26. november 2024"
+          }
+        ]
+      },
+      "note": "Ressortskifte tidligere; metadata på Retsinformation angiver By-, Land- og Transportministeriet i dag. Politiets og anklagemyndighedens håndhævelse er uden for dette område."
+    },
+    {
+      "id": "lov-taxiloven",
+      "navn": "Taxiloven",
+      "type": "lov",
+      "ministerium": "min-by-land-og-transport",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1051",
+            "citat": "Herved bekendtgøres taxiloven, jf. lovbekendtgørelse nr. 434 af 22. april 2023,"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2024/1051",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1051",
+            "citat": "Herved bekendtgøres taxiloven, jf. lovbekendtgørelse nr. 434 af 22. april 2023,"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2024/1051",
+        "lovtidende": "LBK nr. 1051 af 17/09/2024",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/1051",
+            "citat": "Herved bekendtgøres taxiloven, jf. lovbekendtgørelse nr. 434 af 22. april 2023,"
+          }
+        ]
+      },
+      "note": "§ 20, stk. 7 kræver, at taxaselskaber er tilknyttet en klageordning med et uafhængigt landsdækkende klagenævn, som branchen opretter. Retsinformation viser slutdato 08/09/2026."
+    },
+    {
+      "id": "lov-godskoerselsloven",
+      "navn": "Lov om godskørsel",
+      "type": "lov",
+      "ministerium": "min-by-land-og-transport",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/327",
+            "citat": "Herved bekendtgøres lov om godskørsel, jf. lovbekendtgørelse nr. 310 af 12. marts 2023, med de ændringer, der følger af lov"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2024/327",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/327",
+            "citat": "Herved bekendtgøres lov om godskørsel, jf. lovbekendtgørelse nr. 310 af 12. marts 2023, med de ændringer, der følger af lov"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2024/327",
+        "lovtidende": "LBK nr. 327 af 23/03/2024",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/327",
+            "citat": "Herved bekendtgøres lov om godskørsel, jf. lovbekendtgørelse nr. 310 af 12. marts 2023, med de ændringer, der følger af lov"
+          }
+        ]
+      },
+      "note": "Retsinformation viser slutdato 12/11/2026 på LBK 327/2024; ny LBK ikke fundet."
+    },
+    {
+      "id": "lov-buskoerselsloven",
+      "navn": "Lov om buskørsel",
+      "type": "lov",
+      "ministerium": "min-by-land-og-transport",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/542",
+            "citat": "Herved bekendtgøres lov om buskørsel, jf. lovbekendtgørelse nr. 1050 af 12. november 2012"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2023/542",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/542",
+            "citat": "Herved bekendtgøres lov om buskørsel, jf. lovbekendtgørelse nr. 1050 af 12. november 2012"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2023/542",
+        "lovtidende": "LBK nr. 542 af 15/05/2023",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/542",
+            "citat": "Herved bekendtgøres lov om buskørsel, jf. lovbekendtgørelse nr. 1050 af 12. november 2012"
+          }
+        ]
+      },
+      "note": "Ændret ved LOV 306/2025 (regelforenkling for vejtransport); Retsinformation viser slutdato 23/06/2026 på LBK 542/2023, så en nyere LBK kan findes."
+    },
+    {
+      "id": "lov-trafikselskabsloven",
+      "navn": "Lov om trafikselskaber",
+      "type": "lov",
+      "ministerium": "min-by-land-og-transport",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/537",
+            "citat": "Herved bekendtgøres lov om trafikselskaber, jf. lovbekendtgørelse nr. 1041 af 17. september 2024,"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2025/537",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/537",
+            "citat": "Herved bekendtgøres lov om trafikselskaber, jf. lovbekendtgørelse nr. 1041 af 17. september 2024,"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2025/537",
+        "lovtidende": "LBK nr. 537 af 19/05/2025",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/537",
+            "citat": "Herved bekendtgøres lov om trafikselskaber, jf. lovbekendtgørelse nr. 1041 af 17. september 2024,"
+          }
+        ]
+      },
+      "note": "§ 1: regionsråd opretter trafikselskaber (Movia, Nordjyllands Trafikselskab, Midttrafik, Sydtrafik, FynBus, Bornholm via kommunen). § 28 a, stk. 2: Trafikstyrelsen behandler klager efter EU-busforordningen, som Ankenævnet for Bus, Tog og Metro ikke kan. Retsinformation viser slutdato 04/11/2026."
+    },
+    {
+      "id": "lov-postloven",
+      "navn": "Postloven",
+      "type": "lov",
+      "ministerium": "min-by-land-og-transport",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/151",
+            "citat": "Herved bekendtgøres postloven, jf. lovbekendtgørelse nr. 461 af 27. april 2023,"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2024/151",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/151",
+            "citat": "Herved bekendtgøres postloven, jf. lovbekendtgørelse nr. 461 af 27. april 2023,"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2024/151",
+        "lovtidende": "LBK nr. 151 af 08/02/2024",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/151",
+            "citat": "Herved bekendtgøres postloven, jf. lovbekendtgørelse nr. 461 af 27. april 2023,"
+          }
+        ]
+      },
+      "note": "§ 23, stk. 1: transportministeren fører tilsyn med postvirksomheder (Trafikstyrelsen udfører, jf. stk. 3-4); § 25, stk. 1: transportministeren behandler klager over postvirksomheder. Retsinformation viser slutdato 23/06/2026."
+    }
+  ],
+  "kanter": [
+    {
+      "from": "min-by-land-og-transport",
+      "type": "ressortansvar",
+      "to": "sty-trafikstyrelsen",
+      "beskrivelse": "Hører under By-, Land- og Transportministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.trafikstyrelsen.dk/om-trafikstyrelsen",
+          "citat": "Trafikstyrelsen er en styrelse under By-, Land- og Transportministeriet med cirka 650 medarbejdere."
+        }
+      ]
+    },
+    {
+      "from": "min-by-land-og-transport",
+      "type": "ressortansvar",
+      "to": "sty-banedanmark",
+      "beskrivelse": "Hører under By-, Land- og Transportministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2023/855",
+          "citat": "Banedanmark er en styrelse under Transportministeriet."
+        }
+      ]
+    },
+    {
+      "from": "min-by-land-og-transport",
+      "type": "ressortansvar",
+      "to": "naevn-jernbanenaevnet",
+      "beskrivelse": "Hører under By-, Land- og Transportministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2021/2424",
+          "citat": "Jernbanenævnet sekretariatsbetjenes af et selvstændigt sekretariat, som organisatorisk er placeret i Trafikstyrelsen."
+        }
+      ]
+    },
+    {
+      "from": "min-by-land-og-transport",
+      "type": "ressortansvar",
+      "to": "sty-havarikommissionen",
+      "beskrivelse": "Hører under By-, Land- og Transportministeriet.",
+      "belaeg": [
+        {
+          "url": "https://lex.dk/Havarikommissionen",
+          "citat": "er en selvstændig og uafhængig institution under Transportministeriet"
+        }
+      ]
+    },
+    {
+      "from": "min-by-land-og-transport",
+      "type": "ressortansvar",
+      "to": "lov-jernbaneloven",
+      "beskrivelse": "Hører under By-, Land- og Transportministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2023/1091",
+          "citat": "By-, Land- og Transportministeriet"
+        }
+      ]
+    },
+    {
+      "from": "min-by-land-og-transport",
+      "type": "ressortansvar",
+      "to": "lov-luftfartsloven",
+      "beskrivelse": "Hører under By-, Land- og Transportministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/570",
+          "citat": "By-, Land- og Transportministeriet"
+        }
+      ]
+    },
+    {
+      "from": "min-by-land-og-transport",
+      "type": "ressortansvar",
+      "to": "lov-faerdselsloven",
+      "beskrivelse": "Hører under By-, Land- og Transportministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/118",
+          "citat": "By-, Land- og Transportministeriet"
+        }
+      ]
+    },
+    {
+      "from": "min-by-land-og-transport",
+      "type": "ressortansvar",
+      "to": "lov-taxiloven",
+      "beskrivelse": "Hører under By-, Land- og Transportministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1051",
+          "citat": "By-, Land- og Transportministeriet"
+        }
+      ]
+    },
+    {
+      "from": "min-by-land-og-transport",
+      "type": "ressortansvar",
+      "to": "lov-godskoerselsloven",
+      "beskrivelse": "Hører under By-, Land- og Transportministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/327",
+          "citat": "By-, Land- og Transportministeriet"
+        }
+      ]
+    },
+    {
+      "from": "min-by-land-og-transport",
+      "type": "ressortansvar",
+      "to": "lov-buskoerselsloven",
+      "beskrivelse": "Hører under By-, Land- og Transportministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2023/542",
+          "citat": "By-, Land- og Transportministeriet"
+        }
+      ]
+    },
+    {
+      "from": "min-by-land-og-transport",
+      "type": "ressortansvar",
+      "to": "lov-trafikselskabsloven",
+      "beskrivelse": "Hører under By-, Land- og Transportministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/537",
+          "citat": "By-, Land- og Transportministeriet"
+        }
+      ]
+    },
+    {
+      "from": "min-by-land-og-transport",
+      "type": "ressortansvar",
+      "to": "lov-postloven",
+      "beskrivelse": "Hører under By-, Land- og Transportministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/151",
+          "citat": "By-, Land- og Transportministeriet"
+        }
+      ]
+    },
+    {
+      "from": "lov-jernbaneloven",
+      "type": "hjemmel_for",
+      "to": "sty-banedanmark",
+      "beskrivelse": "§ 16, stk. 1: Banedanmark forvalter statens jernbaneinfrastruktur.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2023/1091",
+          "citat": "Banedanmark forvalter statens jernbaneinfrastruktur."
+        }
+      ]
+    },
+    {
+      "from": "lov-jernbaneloven",
+      "type": "hjemmel_for",
+      "to": "naevn-jernbanenaevnet",
+      "beskrivelse": "§ 103: Jernbanenævnet som særskilt tilsyns- og klagemyndighed.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2023/1091",
+          "citat": "Jernbanenævnet er en særskilt myndighed, der organisatorisk, funktionelt, hierarkisk"
+        }
+      ]
+    },
+    {
+      "from": "lov-jernbaneloven",
+      "type": "hjemmel_for",
+      "to": "sty-havarikommissionen",
+      "beskrivelse": "Kap. 13, § 94, stk. 1: Havarikommissionen er uafhængig.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2023/1091",
+          "citat": "Havarikommissionen er uafhængig og er ikke undergivet instruktionsbeføjelser fra transportministeren."
+        }
+      ]
+    },
+    {
+      "from": "lov-jernbaneloven",
+      "type": "hjemmel_for",
+      "to": "sty-trafikstyrelsen",
+      "beskrivelse": "§ 38 o: tilsyn med kap. 6 a; § 40, stk. 2: veteranbaner; § 55: sikkerhedsmyndighed.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2023/1091",
+          "citat": "For projekter, der er omfattet af § 38 a, stk. 1 og 2, fører Trafikstyrelsen tilsyn med overholdelse af bestemmelserne i dette kapitel"
+        }
+      ]
+    },
+    {
+      "from": "lov-luftfartsloven",
+      "type": "hjemmel_for",
+      "to": "sty-trafikstyrelsen",
+      "beskrivelse": "Luftfartsloven (fx § 6, stk. 1) lægger luftfartsmyndighedens opgaver hos Trafikstyrelsen.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/570",
+          "citat": "Trafikstyrelsen fører et register over luftfartøjer"
+        }
+      ]
+    },
+    {
+      "from": "lov-vejloven",
+      "type": "hjemmel_for",
+      "to": "bek-trafikstyrelsen-opgaver",
+      "beskrivelse": "BEK 169/2026 er udstedt i medfør af vejlovens § 131 m.fl.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/169",
+          "citat": "I medfør af § 131 i lov om offentlige veje m.v., jf. lovbekendtgørelse nr. 435 af 24. april 2024,"
+        }
+      ]
+    },
+    {
+      "from": "lov-jernbaneloven",
+      "type": "hjemmel_for",
+      "to": "bek-trafikstyrelsen-opgaver",
+      "beskrivelse": "BEK 169/2026 § 18: BJ udstedes efter jernbanelovens §§ 29 og 56.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/169",
+          "citat": "Forskrifter og tekniske specifikationer, der udstedes af Trafikstyrelsen efter §§ 29 og 56 i jernbaneloven, kan udfærdiges som Bestemmelser for Jernbane (BJ)."
+        }
+      ]
+    },
+    {
+      "from": "bek-trafikstyrelsen-opgaver",
+      "type": "hjemmel_for",
+      "to": "sty-trafikstyrelsen",
+      "beskrivelse": "§ 1: Trafikstyrelsen er en styrelse under Transportministeriet; kap. 3 kundgørelse, kap. 4 klage.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/169",
+          "citat": "Trafikstyrelsen er en styrelse under Transportministeriet."
+        }
+      ]
+    },
+    {
+      "from": "lov-jernbaneloven",
+      "type": "hjemmel_for",
+      "to": "bek-banedanmark-opgaver",
+      "beskrivelse": "BEK 855/2023 er udstedt efter jernbanelovens §§ 102, 112 og 113.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2023/855",
+          "citat": "I medfør af § 102, stk. 1, § 112, stk. 1, og § 113, stk. 1 og 4, i jernbaneloven,"
+        }
+      ]
+    },
+    {
+      "from": "bek-banedanmark-opgaver",
+      "type": "hjemmel_for",
+      "to": "sty-banedanmark",
+      "beskrivelse": "§ 1: Banedanmark er en styrelse under Transportministeriet; § 2 opgaver.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2023/855",
+          "citat": "Banedanmark er en styrelse under Transportministeriet."
+        }
+      ]
+    },
+    {
+      "from": "lov-jernbaneloven",
+      "type": "hjemmel_for",
+      "to": "bek-jernbanenaevnet",
+      "beskrivelse": "BEK 2424/2021 er udstedt efter jernbanelovens §§ 102, 103, 111, 113 og 114.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2021/2424",
+          "citat": "I medfør af § 102, stk. 1, § 103, stk. 7, § 111, stk. 8, § 113, stk. 1 og 4, og § 114, i jernbaneloven"
+        }
+      ]
+    },
+    {
+      "from": "bek-jernbanenaevnet",
+      "type": "hjemmel_for",
+      "to": "naevn-jernbanenaevnet",
+      "beskrivelse": "§ 1: nævnet behandler klager over afgørelser efter jernbanelovens §§ 4-8, 17-18 og 21.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2021/2424",
+          "citat": "Jernbanenævnet behandler klager over afgørelser og beslutninger i medfør af §§ 4-8, §§ 17-18 og § 21 i jernbaneloven"
+        }
+      ]
+    },
+    {
+      "from": "lov-faerdselsloven",
+      "type": "hjemmel_for",
+      "to": "bek-faerdselsstyrelsen-opgaver",
+      "beskrivelse": "BEK 787/2025 er udstedt efter færdselslovens § 134 a, stk. 1, 2 og 4.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/787",
+          "citat": "I medfør af § 134 a, stk. 1, 2 og 4, i færdselsloven"
+        }
+      ]
+    },
+    {
+      "from": "bek-faerdselsstyrelsen-opgaver",
+      "type": "hjemmel_for",
+      "to": "sty-faerdselsstyrelsen",
+      "beskrivelse": "§ 1 og § 2: Færdselsstyrelsens opgaver (kørekort, køretøjer, bus-, gods-, taxitilladelser).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/787",
+          "citat": "Færdselsstyrelsen er en styrelse under Transportministeriet."
+        }
+      ]
+    },
+    {
+      "from": "lov-faerdselsloven",
+      "type": "hjemmel_for",
+      "to": "bek-farligt-gods-vejtransport",
+      "beskrivelse": "BEK 915/2025 er udstedt efter færdselslovens §§ 82, 118, 134 d og 134 e.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/915",
+          "citat": "I medfør af § 82, stk. 4-8 og 10, § 118, stk. 15, 1. pkt., § 134 d, stk. 2, og § 134 e i færdselsloven"
+        }
+      ]
+    },
+    {
+      "from": "lov-godskoerselsloven",
+      "type": "hjemmel_for",
+      "to": "bek-farligt-gods-vejtransport",
+      "beskrivelse": "BEK 915/2025 er også udstedt efter godskørselslovens § 2, stk. 3, og § 17, stk. 2.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/915",
+          "citat": "og § 2, stk. 3, og § 17, stk. 2, 1. pkt., i lov om godskørsel"
+        }
+      ]
+    },
+    {
+      "from": "naevn-jernbanenaevnet",
+      "type": "klageinstans",
+      "to": "sty-banedanmark",
+      "beskrivelse": "BEK 855/2023 § 20, stk. 2: afgørelser efter § 17 kan alene påklages til Jernbanenævnet; stk. 1: klager over trafikstyring. Nævnets afgørelse er endelig administrativt (BEK 2424/2021 § 17), søgsmål inden 8 uger (jernbaneloven § 115).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2023/855",
+          "citat": "Afgørelser og beslutninger truffet af Banedanmark i medfør af § 17 kan alene påklages til Jernbanenævnet."
+        }
+      ]
+    },
+    {
+      "from": "min-by-land-og-transport",
+      "type": "klageinstans",
+      "to": "sty-faerdselsstyrelsen",
+      "beskrivelse": "Hovedregel BEK 787/2025 § 13, stk. 1: Færdselsstyrelsens afgørelser kan påklages til transportministeren, medmindre andet følger af §§ 14-20 (undtagelser bl.a. færdselsloven, bus-, gods-, taxiloven og farligt gods BEK 915/2025 § 48, stk. 1).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/787",
+          "citat": "kan Færdselsstyrelsens afgørelser påklages til transportministeren"
+        }
+      ]
+    },
+    {
+      "from": "sty-trafikstyrelsen",
+      "type": "tilsyn",
+      "to": "sty-banedanmark",
+      "beskrivelse": "Jernbaneloven § 38 o: Trafikstyrelsen fører tilsyn med kap. 6 a for statslige jernbaneprojekter; sikkerhedsmyndighed efter § 55.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2023/1091",
+          "citat": "For projekter, der er omfattet af § 38 a, stk. 1 og 2, fører Trafikstyrelsen tilsyn med overholdelse af bestemmelserne i dette kapitel"
+        }
+      ]
+    },
+    {
+      "from": "sty-trafikstyrelsen",
+      "type": "udsteder",
+      "to": "kilde-trafikstyrelsen-bl-bj",
+      "beskrivelse": "Trafikstyrelsen kundgør BL og BJ på sin hjemmeside.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/169",
+          "citat": "Bestemmelser for Civil Luftfart (BL) kundgøres ved offentliggørelse på Trafikstyrelsens hjemmeside www.trafikstyrelsen.dk."
+        }
+      ]
+    },
+    {
+      "from": "naevn-jernbanenaevnet",
+      "type": "udsteder",
+      "to": "kilde-jernbanenaevnet-afgoerelser",
+      "beskrivelse": "Nævnet offentliggør sine afgørelser på sin hjemmeside.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2021/2424",
+          "citat": "Jernbanenævnet offentliggør Jernbanenævnets afgørelser på Jernbanenævnets hjemmeside"
+        }
+      ]
+    },
+    {
+      "from": "org-ankenaevnet-for-bus-tog-og-metro",
+      "type": "udsteder",
+      "to": "kilde-abtm-afgoerelser",
+      "beskrivelse": "Ankenævnet offentliggør alle afgørelser på abtm.dk.",
+      "belaeg": [
+        {
+          "url": "https://abtm.dk/",
+          "citat": "Her kan du se alle afgørelser fra ankenævnet."
+        }
+      ]
+    },
+    {
+      "from": "min-by-land-og-transport",
+      "type": "klageinstans",
+      "to": "sty-banedanmark",
+      "beskrivelse": "BEK 855/2023 § 19, stk. 1: Banedanmarks afgørelser efter §§ 6-18 kan påklages til transportministeren, jf. dog stk. 3 og 4.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2023/855",
+          "citat": "Afgørelser truffet af Banedanmark i forbindelse med varetagelse af de opgaver, der er nævnt i §§ 6-18, kan påklages til transportministeren jf. dog stk. 3 og 4."
+        }
+      ]
+    }
+  ],
+  "rettelser": [],
+  "huller": [
+    {
+      "emne": "Præcis dato for Trafik-, Bygge- og Boligstyrelsens skifte til Trafikstyrelsen (ca. 2021)",
+      "type": "ikke-fundet",
+      "beskrivelse": "Kun lex.dk, Wikipedia og et aktstykke (403) antyder 2021 efter flytning af boligområdet; ingen officiel side med dato åbnet.",
+      "noder": [
+        "sty-trafikstyrelsen",
+        "sty-trafik-bygge-og-boligstyrelsen"
+      ],
+      "kilder": [
+        "https://lex.dk/Trafikstyrelsen"
+      ]
+    },
+    {
+      "emne": "Licens/genbrugsvilkår for BL/BJ, Jernbanenævnets og Ankenævnets afgørelser; nummersystem og opdatering for Jernbanenævnets og Ankenævnets afgørelser",
+      "type": "uklart",
+      "beskrivelse": "Ingen vilkårs- eller om-databasen-tekst fundet.",
+      "noder": [
+        "kilde-trafikstyrelsen-bl-bj",
+        "kilde-jernbanenaevnet-afgoerelser",
+        "kilde-abtm-afgoerelser"
+      ],
+      "kilder": [
+        "https://www.trafikstyrelsen.dk/lovlisteside"
+      ]
+    },
+    {
+      "emne": "Havarikommissionens hjemmel i luftfartsloven og dokumentkilde (Sagsnr. ÅÅÅÅ-NNN på havarikommissionen.dk/undersoegelsesresultater)",
+      "type": "ikke-fundet",
+      "beskrivelse": "Kun jernbanelovens kap. 13 belagt; luftfartslovens flyvehavarikapitel og citerbar tekst om rapportdatabasen ikke fundet.",
+      "noder": [
+        "sty-havarikommissionen"
+      ],
+      "kilder": [
+        "https://havarikommissionen.dk/undersoegelsesresultater"
+      ]
+    },
+    {
+      "emne": "Klagevej i alkolås-bekendtgørelsen (BEK 1523/2022), køreprøvebekendtgørelsen (BEK 617/2026 er markeret historisk) og chaufførkvalifikationsbekendtgørelsen (BEK 412/2025)",
+      "type": "uklart",
+      "beskrivelse": "Hovedreglen og undtagelserne i BEK 787/2025 samt BEK 915/2025 § 48 er belagt; klage til Trafikstyrelsen i alkolås/køreprøver og afskæring i BEK 412/2025 er ikke efterprøvet (tekst afkortet).",
+      "noder": [
+        "sty-faerdselsstyrelsen",
+        "bek-faerdselsstyrelsen-opgaver"
+      ],
+      "kilder": [
+        "https://www.retsinformation.dk/eli/lta/2025/412"
+      ]
+    },
+    {
+      "emne": "Parkeringsklagenævnet, Naviair, trafikselskaber, DSB, Metroselskabet, Sund & Bælt, Rådet for Sikker Trafik og Kommissarius ved Statens Ekspropriationer",
+      "type": "andet",
+      "beskrivelse": "Ikke oprettet som noder; Parkeringsklagenævnet (parkeringsklagenaevnet.dk, klagegebyr 175 kr., kontrolafgifter fra 1/7/2018) mangler dokumentkilde og belæg for godkendelse.",
+      "noder": [],
+      "kilder": [
+        "https://www.parkeringsklagenaevnet.dk/"
+      ]
+    }
+  ],
+  "noter": "Til orkestratoren: sty-trafik-bygge-og-boligstyrelsen har domaenerne bolig og byggeri, og dens tidligere_navne indeholder allerede Trafikstyrelsen og Trafik- og Byggestyrelsen; den nye node sty-trafikstyrelsen bør evt. kædes med en note. Ministerienavnet i BEK 169/2026, 787/2025 og 855/2023 og på bane.dk er stadig Transportministeriet; trafikstyrelsen.dk siger By-, Land- og Transportministeriet. Kant min-by-land-og-transport klageinstans sty-faerdselsstyrelsen kan blive afvist af typekontrollen (ministerium er ikke instans); flyttes i så fald til note. Retsinformation-slutdatoer ses også på BL 8-15 og BEK 787/2025 (23/06/2026), formentlig en teknisk artefakt ved regeringsskiftet. Citater er udtrukket via WebFetch-resuméer og bør kontrolleres. [Orkestrator 2026-11-12: sty-banedanmark.dokumenttyper sagde 'klage til Jernbanenævnet (BEK 855/2023 § 20); afgørelser efter §§ 6-18 kan ikke påklages til ministeren (§ 19)', men BEK 855/2023 § 19 siger, at afgørelserne kan påklages til transportministeren (kontrollantens indvending); noten er rettet, og kanten min-by-land-og-transport|klageinstans|sty-banedanmark er tilføjet. Begge er ikke uafhængigt bedømt og derfor højst sandsynlige. Fritekst-domænerne ['jernbane', 'luftfart', 'kollektiv trafik', 'post', 'kørekort'] på sty-trafikstyrelsen er fjernet; de er ikke i områdelisten.] [Orkestrator 2026-11-12: hullet 'Gældende LBK pr. 12/11/2026 for jernbane-, luftfarts-, færdsels-, taxi-, gods-, bus-, trafikselskabs- og postloven' er fjernet. Retsinformations metadata viser, at alle de citerede lovbekendtgørelser har status Valid pr. 12/11/2026 (populate.py lov); slutdatoen i metadata er ikke en udløbsdato.]"
+}

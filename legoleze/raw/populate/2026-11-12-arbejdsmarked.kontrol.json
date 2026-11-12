@@ -1,0 +1,1879 @@
+[
+ {
+  "hvor": "sty-star.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/808",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/808",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-star.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/808",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://star.dk/om-styrelsen/publikationer",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-star.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.star.dk/om-styrelsen/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-a-kasser.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/808",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-a-kasser.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.star.dk/media/zgafgoih/aarsstatistik-for-cka-2024.pdf",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-seniorpensionsenheden.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2020/869",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2020/869",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-seniorpensionsenheden.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/680",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "lov-arbejdsloeshedsforsikring.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "257339",
+   "DocumentTitle": "Bekendtgørelse af lov om arbejdsløshedsforsikring m.v.",
+   "Year": "2026",
+   "DiesSigni": "2026-09-22",
+   "Status": "Valid",
+   "Number": "808",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-arbejdsloeshedsforsikring.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "257339",
+   "DocumentTitle": "Bekendtgørelse af lov om arbejdsløshedsforsikring m.v.",
+   "Year": "2026",
+   "DiesSigni": "2026-09-22",
+   "Status": "Valid",
+   "Number": "808",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-arbejdsloeshedsforsikring.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "257339",
+   "DocumentTitle": "Bekendtgørelse af lov om arbejdsløshedsforsikring m.v.",
+   "Year": "2026",
+   "DiesSigni": "2026-09-22",
+   "Status": "Valid",
+   "Number": "808",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-arbejdsloeshedsforsikring.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "257339",
+   "DocumentTitle": "Bekendtgørelse af lov om arbejdsløshedsforsikring m.v.",
+   "Year": "2026",
+   "DiesSigni": "2026-09-22",
+   "Status": "Valid",
+   "Number": "808",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2026/808",
+   "lovtidende": "LBK nr. 808 af 22/09/2026"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-aktiv-socialpolitik.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "257504",
+   "DocumentTitle": "Bekendtgørelse af lov om aktiv socialpolitik",
+   "Year": "2026",
+   "DiesSigni": "2026-09-11",
+   "Status": "Valid",
+   "Number": "793",
+   "PopularTitle": "Aktivloven",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-aktiv-socialpolitik.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "257504",
+   "DocumentTitle": "Bekendtgørelse af lov om aktiv socialpolitik",
+   "Year": "2026",
+   "DiesSigni": "2026-09-11",
+   "Status": "Valid",
+   "Number": "793",
+   "PopularTitle": "Aktivloven",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-aktiv-socialpolitik.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "257504",
+   "DocumentTitle": "Bekendtgørelse af lov om aktiv socialpolitik",
+   "Year": "2026",
+   "DiesSigni": "2026-09-11",
+   "Status": "Valid",
+   "Number": "793",
+   "PopularTitle": "Aktivloven",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-aktiv-socialpolitik.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "257504",
+   "DocumentTitle": "Bekendtgørelse af lov om aktiv socialpolitik",
+   "Year": "2026",
+   "DiesSigni": "2026-09-11",
+   "Status": "Valid",
+   "Number": "793",
+   "PopularTitle": "Aktivloven",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2026/793",
+   "lovtidende": "LBK nr. 793 af 11/09/2026"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-seniorpensionsenheden.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LOV H#LOKDOK 01",
+   "UniqueDocumentId": "215087",
+   "DocumentTitle": "Lov om Seniorpensionsenheden",
+   "Year": "2020",
+   "DiesSigni": "2020-06-14",
+   "Status": "Valid",
+   "Number": "869",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-seniorpensionsenheden.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LOV H#LOKDOK 01",
+   "UniqueDocumentId": "215087",
+   "DocumentTitle": "Lov om Seniorpensionsenheden",
+   "Year": "2020",
+   "DiesSigni": "2020-06-14",
+   "Status": "Valid",
+   "Number": "869",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-seniorpensionsenheden.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LOV H#LOKDOK 01",
+   "UniqueDocumentId": "215087",
+   "DocumentTitle": "Lov om Seniorpensionsenheden",
+   "Year": "2020",
+   "DiesSigni": "2020-06-14",
+   "Status": "Valid",
+   "Number": "869",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-seniorpensionsenheden.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LOV H#LOKDOK 01",
+   "UniqueDocumentId": "215087",
+   "DocumentTitle": "Lov om Seniorpensionsenheden",
+   "Year": "2020",
+   "DiesSigni": "2020-06-14",
+   "Status": "Valid",
+   "Number": "869",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2020/869",
+   "lovtidende": "LOV nr. 869 af 14/06/2020"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-aktiv-beskaeftigelsesindsats.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "242224",
+   "DocumentTitle": "Bekendtgørelse af lov om en aktiv beskæftigelsesindsats",
+   "Year": "2024",
+   "DiesSigni": "2024-03-01",
+   "Status": "Valid",
+   "Number": "280",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-aktiv-beskaeftigelsesindsats.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "242224",
+   "DocumentTitle": "Bekendtgørelse af lov om en aktiv beskæftigelsesindsats",
+   "Year": "2024",
+   "DiesSigni": "2024-03-01",
+   "Status": "Valid",
+   "Number": "280",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-aktiv-beskaeftigelsesindsats.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "242224",
+   "DocumentTitle": "Bekendtgørelse af lov om en aktiv beskæftigelsesindsats",
+   "Year": "2024",
+   "DiesSigni": "2024-03-01",
+   "Status": "Valid",
+   "Number": "280",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-aktiv-beskaeftigelsesindsats.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "242224",
+   "DocumentTitle": "Bekendtgørelse af lov om en aktiv beskæftigelsesindsats",
+   "Year": "2024",
+   "DiesSigni": "2024-03-01",
+   "Status": "Valid",
+   "Number": "280",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2024/280",
+   "lovtidende": "LBK nr. 280 af 01/03/2024"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-organisering-beskaeftigelsesindsatsen.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "242221",
+   "DocumentTitle": "Bekendtgørelse af lov om organisering og understøttelse af beskæftigelsesindsatsen m.v.",
+   "Year": "2024",
+   "DiesSigni": "2024-03-01",
+   "Status": "Valid",
+   "Number": "254",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-organisering-beskaeftigelsesindsatsen.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "242221",
+   "DocumentTitle": "Bekendtgørelse af lov om organisering og understøttelse af beskæftigelsesindsatsen m.v.",
+   "Year": "2024",
+   "DiesSigni": "2024-03-01",
+   "Status": "Valid",
+   "Number": "254",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-organisering-beskaeftigelsesindsatsen.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "242221",
+   "DocumentTitle": "Bekendtgørelse af lov om organisering og understøttelse af beskæftigelsesindsatsen m.v.",
+   "Year": "2024",
+   "DiesSigni": "2024-03-01",
+   "Status": "Valid",
+   "Number": "254",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-organisering-beskaeftigelsesindsatsen.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "242221",
+   "DocumentTitle": "Bekendtgørelse af lov om organisering og understøttelse af beskæftigelsesindsatsen m.v.",
+   "Year": "2024",
+   "DiesSigni": "2024-03-01",
+   "Status": "Valid",
+   "Number": "254",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2024/254",
+   "lovtidende": "LBK nr. 254 af 01/03/2024"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-sygedagpenge.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "251914",
+   "DocumentTitle": "Bekendtgørelse af lov om sygedagpenge",
+   "Year": "2025",
+   "DiesSigni": "2025-10-09",
+   "Status": "Valid",
+   "Number": "1221",
+   "PopularTitle": "Sygedagpengeloven",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-sygedagpenge.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "251914",
+   "DocumentTitle": "Bekendtgørelse af lov om sygedagpenge",
+   "Year": "2025",
+   "DiesSigni": "2025-10-09",
+   "Status": "Valid",
+   "Number": "1221",
+   "PopularTitle": "Sygedagpengeloven",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-sygedagpenge.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "251914",
+   "DocumentTitle": "Bekendtgørelse af lov om sygedagpenge",
+   "Year": "2025",
+   "DiesSigni": "2025-10-09",
+   "Status": "Valid",
+   "Number": "1221",
+   "PopularTitle": "Sygedagpengeloven",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-sygedagpenge.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "251914",
+   "DocumentTitle": "Bekendtgørelse af lov om sygedagpenge",
+   "Year": "2025",
+   "DiesSigni": "2025-10-09",
+   "Status": "Valid",
+   "Number": "1221",
+   "PopularTitle": "Sygedagpengeloven",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2025/1221",
+   "lovtidende": "LBK nr. 1221 af 09/10/2025"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-social-pension.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "257439",
+   "DocumentTitle": "Bekendtgørelse af lov om social pension",
+   "Year": "2026",
+   "DiesSigni": "2026-11-06",
+   "Status": "Valid",
+   "Number": "970",
+   "PopularTitle": "Pensionsloven",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-social-pension.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "257439",
+   "DocumentTitle": "Bekendtgørelse af lov om social pension",
+   "Year": "2026",
+   "DiesSigni": "2026-11-06",
+   "Status": "Valid",
+   "Number": "970",
+   "PopularTitle": "Pensionsloven",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-social-pension.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "257439",
+   "DocumentTitle": "Bekendtgørelse af lov om social pension",
+   "Year": "2026",
+   "DiesSigni": "2026-11-06",
+   "Status": "Valid",
+   "Number": "970",
+   "PopularTitle": "Pensionsloven",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-social-pension.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "257439",
+   "DocumentTitle": "Bekendtgørelse af lov om social pension",
+   "Year": "2026",
+   "DiesSigni": "2026-11-06",
+   "Status": "Valid",
+   "Number": "970",
+   "PopularTitle": "Pensionsloven",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2026/970",
+   "lovtidende": "LBK nr. 970 af 06/11/2026"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-udbetaling-danmark.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "257372",
+   "DocumentTitle": "Bekendtgørelse af lov om Udbetaling Danmark",
+   "Year": "2026",
+   "DiesSigni": "2026-11-05",
+   "Status": "Valid",
+   "Number": "975",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-udbetaling-danmark.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "257372",
+   "DocumentTitle": "Bekendtgørelse af lov om Udbetaling Danmark",
+   "Year": "2026",
+   "DiesSigni": "2026-11-05",
+   "Status": "Valid",
+   "Number": "975",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-udbetaling-danmark.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "257372",
+   "DocumentTitle": "Bekendtgørelse af lov om Udbetaling Danmark",
+   "Year": "2026",
+   "DiesSigni": "2026-11-05",
+   "Status": "Valid",
+   "Number": "975",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-udbetaling-danmark.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "257372",
+   "DocumentTitle": "Bekendtgørelse af lov om Udbetaling Danmark",
+   "Year": "2026",
+   "DiesSigni": "2026-11-05",
+   "Status": "Valid",
+   "Number": "975",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2026/975",
+   "lovtidende": "LBK nr. 975 af 05/11/2026"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-arbejdsskadesikring.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "256942",
+   "DocumentTitle": "Bekendtgørelse af lov om arbejdsskadesikring",
+   "Year": "2026",
+   "DiesSigni": "2026-07-08",
+   "Status": "Valid",
+   "Number": "667",
+   "PopularTitle": "Arbejdsskadesikringsloven",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-arbejdsskadesikring.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "256942",
+   "DocumentTitle": "Bekendtgørelse af lov om arbejdsskadesikring",
+   "Year": "2026",
+   "DiesSigni": "2026-07-08",
+   "Status": "Valid",
+   "Number": "667",
+   "PopularTitle": "Arbejdsskadesikringsloven",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-arbejdsskadesikring.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "256942",
+   "DocumentTitle": "Bekendtgørelse af lov om arbejdsskadesikring",
+   "Year": "2026",
+   "DiesSigni": "2026-07-08",
+   "Status": "Valid",
+   "Number": "667",
+   "PopularTitle": "Arbejdsskadesikringsloven",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-arbejdsskadesikring.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "256942",
+   "DocumentTitle": "Bekendtgørelse af lov om arbejdsskadesikring",
+   "Year": "2026",
+   "DiesSigni": "2026-07-08",
+   "Status": "Valid",
+   "Number": "667",
+   "PopularTitle": "Arbejdsskadesikringsloven",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2026/667",
+   "lovtidende": "LBK nr. 667 af 08/07/2026"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-aes.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "256943",
+   "DocumentTitle": "Bekendtgørelse af lov om den selvejende institution Arbejdsmarkedets Erhvervssikring",
+   "Year": "2026",
+   "DiesSigni": "2026-07-08",
+   "Status": "Valid",
+   "Number": "668",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-aes.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "256943",
+   "DocumentTitle": "Bekendtgørelse af lov om den selvejende institution Arbejdsmarkedets Erhvervssikring",
+   "Year": "2026",
+   "DiesSigni": "2026-07-08",
+   "Status": "Valid",
+   "Number": "668",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-aes.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "256943",
+   "DocumentTitle": "Bekendtgørelse af lov om den selvejende institution Arbejdsmarkedets Erhvervssikring",
+   "Year": "2026",
+   "DiesSigni": "2026-07-08",
+   "Status": "Valid",
+   "Number": "668",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-aes.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "256943",
+   "DocumentTitle": "Bekendtgørelse af lov om den selvejende institution Arbejdsmarkedets Erhvervssikring",
+   "Year": "2026",
+   "DiesSigni": "2026-07-08",
+   "Status": "Valid",
+   "Number": "668",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2026/668",
+   "lovtidende": "LBK nr. 668 af 08/07/2026"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-loenmodtagernes-garantifond.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "245884",
+   "DocumentTitle": "Bekendtgørelse af lov om Lønmodtagernes Garantifond",
+   "Year": "2024",
+   "DiesSigni": "2024-11-27",
+   "Status": "Valid",
+   "Number": "1244",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-loenmodtagernes-garantifond.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "245884",
+   "DocumentTitle": "Bekendtgørelse af lov om Lønmodtagernes Garantifond",
+   "Year": "2024",
+   "DiesSigni": "2024-11-27",
+   "Status": "Valid",
+   "Number": "1244",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-loenmodtagernes-garantifond.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "245884",
+   "DocumentTitle": "Bekendtgørelse af lov om Lønmodtagernes Garantifond",
+   "Year": "2024",
+   "DiesSigni": "2024-11-27",
+   "Status": "Valid",
+   "Number": "1244",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-loenmodtagernes-garantifond.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "245884",
+   "DocumentTitle": "Bekendtgørelse af lov om Lønmodtagernes Garantifond",
+   "Year": "2024",
+   "DiesSigni": "2024-11-27",
+   "Status": "Valid",
+   "Number": "1244",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2024/1244",
+   "lovtidende": "LBK nr. 1244 af 27/11/2024"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-atp.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "258458",
+   "DocumentTitle": "Bekendtgørelse af lov om Arbejdsmarkedets Tillægspension",
+   "Year": "2026",
+   "DiesSigni": "2026-11-05",
+   "Status": "Valid",
+   "Number": "976",
+   "PopularTitle": "ATP-loven",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-atp.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "258458",
+   "DocumentTitle": "Bekendtgørelse af lov om Arbejdsmarkedets Tillægspension",
+   "Year": "2026",
+   "DiesSigni": "2026-11-05",
+   "Status": "Valid",
+   "Number": "976",
+   "PopularTitle": "ATP-loven",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-atp.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "258458",
+   "DocumentTitle": "Bekendtgørelse af lov om Arbejdsmarkedets Tillægspension",
+   "Year": "2026",
+   "DiesSigni": "2026-11-05",
+   "Status": "Valid",
+   "Number": "976",
+   "PopularTitle": "ATP-loven",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-atp.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "258458",
+   "DocumentTitle": "Bekendtgørelse af lov om Arbejdsmarkedets Tillægspension",
+   "Year": "2026",
+   "DiesSigni": "2026-11-05",
+   "Status": "Valid",
+   "Number": "976",
+   "PopularTitle": "ATP-loven",
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2026/976",
+   "lovtidende": "LBK nr. 976 af 05/11/2026"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "org-arbejdsmarkedets-erhvervssikring.tidligere_navne[Arbejdsskadestyrelsen]",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://aes.dk/om-arbejdsmarkedets-erhvervssikring",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-arbejdsmarkedets-erhvervssikring.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/668",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/668",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-arbejdsmarkedets-erhvervssikring.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/667",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://aes.dk/love-og-praksis",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-arbejdsmarkedets-erhvervssikring.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://aes.dk/om-arbejdsmarkedets-erhvervssikring",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "fond-loenmodtagernes-garantifond.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1244",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1244",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "fond-loenmodtagernes-garantifond.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1244",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1244",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-atp.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/976",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/976",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-atp.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/976",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-atp.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.atp.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-ankenaevn-atp.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/976",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-ankenaevn-atp.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/976",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "raad-tilsynsraadet.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/254",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/254",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "raad-tilsynsraadet.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/254",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-star-love-og-regler.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://star.dk/om-styrelsen/love-og-regler",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-star-love-og-regler.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://star.dk/om-styrelsen/love-og-regler",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-star-love-og-regler.adgang",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://star.dk/om-styrelsen/love-og-regler",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-aes-love-og-praksis.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://aes.dk/love-og-praksis",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-aes-love-og-praksis.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://aes.dk/love-og-praksis",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-aes-love-og-praksis.adgang",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://aes.dk/love-og-praksis",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|sty-star",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.star.dk/om-styrelsen/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|lov-arbejdsloeshedsforsikring",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/808",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|lov-aktiv-socialpolitik",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/793",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|lov-seniorpensionsenheden",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2020/869",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|org-seniorpensionsenheden",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2020/869",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-arbejdsloeshedsforsikring|hjemmel_for|sty-star",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/808",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-arbejdsloeshedsforsikring|hjemmel_for|org-a-kasser",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/808",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-seniorpensionsenheden|hjemmel_for|org-seniorpensionsenheden",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2020/869",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-seniorpensionsenheden|henviser_til|lov-retssikkerhedsloven-social",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2020/869",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-star|tilsyn|org-a-kasser",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/808",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://star.dk/tilsyn-og-opfoelgning-paa-beskaeftigelsesomraadet",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-star|klageinstans|org-a-kasser",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/808",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/808",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.star.dk/media/zgafgoih/aarsstatistik-for-cka-2024.pdf",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.star.dk/media/zgafgoih/aarsstatistik-for-cka-2024.pdf",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-ankestyrelsen|klageinstans|sty-star",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/808",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/808",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/808",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.star.dk/media/zgafgoih/aarsstatistik-for-cka-2024.pdf",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-ankestyrelsen|klageinstans|org-seniorpensionsenheden",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/680",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/680",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|lov-aktiv-beskaeftigelsesindsats",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/280",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|lov-organisering-beskaeftigelsesindsatsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/254",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|lov-sygedagpenge",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1221",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|lov-social-pension",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/970",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|lov-udbetaling-danmark",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/975",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|lov-arbejdsskadesikring",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/667",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|lov-aes",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/668",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|lov-loenmodtagernes-garantifond",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1244",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|lov-atp",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/976",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "Beskæftigelses- og Ligestillingsministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|org-arbejdsmarkedets-erhvervssikring",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/668",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|fond-loenmodtagernes-garantifond",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1244",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|org-atp",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/976",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|naevn-ankenaevn-atp",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/976",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|raad-tilsynsraadet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/254",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-arbejdsskadesikring|hjemmel_for|org-arbejdsmarkedets-erhvervssikring",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/667",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-aes|hjemmel_for|org-arbejdsmarkedets-erhvervssikring",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/668",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-loenmodtagernes-garantifond|hjemmel_for|fond-loenmodtagernes-garantifond",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1244",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-atp|hjemmel_for|org-atp",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/976",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-atp|hjemmel_for|naevn-ankenaevn-atp",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/976",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-organisering-beskaeftigelsesindsatsen|hjemmel_for|raad-tilsynsraadet",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/254",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-social-pension|hjemmel_for|org-seniorpensionsenheden",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/970",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-aktiv-beskaeftigelsesindsats|henviser_til|lov-retssikkerhedsloven-social",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/280",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-sygedagpenge|henviser_til|lov-retssikkerhedsloven-social",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1221",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-udbetaling-danmark|henviser_til|lov-retssikkerhedsloven-social",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/975",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-arbejdsskadesikring|henviser_til|lov-atp",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/667",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-loenmodtagernes-garantifond|henviser_til|lov-atp",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1244",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-ankestyrelsen|klageinstans|org-arbejdsmarkedets-erhvervssikring",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/667",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/667",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/667",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant naevn-ankenaevn-atp|klageinstans|org-atp",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/976",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant naevn-ankenaevn-atp|klageinstans|fond-loenmodtagernes-garantifond",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1244",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1244",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant naevn-ankenaevn-atp|klageinstans|org-arbejdsmarkedets-erhvervssikring",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/667",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-star|tilsyn|kommune-alle",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/254",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://star.dk/tilsyn-og-opfoelgning-paa-beskaeftigelsesomraadet",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-star|udsteder|kilde-star-love-og-regler",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://star.dk/om-styrelsen/love-og-regler",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant org-arbejdsmarkedets-erhvervssikring|udsteder|kilde-aes-love-og-praksis",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://aes.dk/love-og-praksis",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ }
+]

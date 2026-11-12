@@ -1,0 +1,292 @@
+[
+ {
+  "hvor": "sty-foedevarestyrelsen.tidligere_navne[Styrelsen for Fødevarer, Landbrug og Fiskeri]",
+  "dom": "delvist",
+  "grund": "Efterkontrol (siden hentet): Start 1/1/2026 og navnet er belagt; slutdatoen 5/7 står ikke, kun 6. juli for ressortomlægningen."
+ },
+ {
+  "hvor": "sty-foedevarestyrelsen.tidligere_navne[Landbrugs- og Fiskeristyrelsen]",
+  "dom": "baerer-ikke",
+  "grund": "Belægget viser LFS og Fødevarestyrelsen som to styrelser, fusioneret 1/1/2026. FVST hed ikke LFS."
+ },
+ {
+  "hvor": "sty-foedevarestyrelsen.tidligere_navne[Fiskeristyrelsen]",
+  "dom": "baerer-ikke",
+  "grund": "Belægget handler om Fiskeristyrelsen, der blev LFS. Intet om at Fødevarestyrelsen hed Fiskeristyrelsen."
+ },
+ {
+  "hvor": "sty-foedevarestyrelsen.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "sty-foedevarestyrelsen.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "sty-foedevarestyrelsen.url",
+  "dom": "baerer",
+  "grund": "Efterkontrol (siden hentet)"
+ },
+ {
+  "hvor": "lov-foedevareloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-foedevareloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-foedevareloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-dyrevelfaerdsloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-dyrevelfaerdsloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-dyrevelfaerdsloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-dyrlaegeloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-dyrlaegeloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-dyrlaegeloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-dyreforsoegsloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-dyreforsoegsloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-dyreforsoegsloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-fiskeriloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-fiskeriloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-fiskeriloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-landbrugsstoetteloven.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-landbrugsstoetteloven.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-landbrugsstoetteloven.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-landbrugsejendomme.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-landbrugsejendomme.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "lov-landbrugsejendomme.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "raad-det-veterinaere-sundhedsraad.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "raad-det-veterinaere-sundhedsraad.dokumenttyper",
+  "dom": "delvist",
+  "grund": "Belægget om rådets uafhængighed. Intet om udtalelser som dokumenttype, bindingsgrad eller politibrug."
+ },
+ {
+  "hvor": "raad-det-veterinaere-sundhedsraad.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "raad-det-dyreetiske-raad.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "raad-det-dyreetiske-raad.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "raad-det-dyreetiske-raad.identifikatorer",
+  "dom": "delvist",
+  "grund": "Nummer og dato bærer. «Afløst af dyrevelfærdsloven» og «dyreværnsloven» står ikke i belægget, og det står Valid."
+ },
+ {
+  "hvor": "tilsyn-dyreforsoegstilsynet.hjemmel",
+  "dom": "delvist",
+  "grund": "Dyreforsøgstilsynet og § 1 bærer. § 13 (ikke indbringes) står ikke i dette belæg."
+ },
+ {
+  "hvor": "tilsyn-dyreforsoegstilsynet.dokumenttyper",
+  "dom": "delvist",
+  "grund": "Godkendelse og påbud er belagt. Dokumenttypen «tilladelse» fremgår ikke af dette belæg."
+ },
+ {
+  "hvor": "tilsyn-dyreforsoegstilsynet.identifikatorer",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-findsmiley.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-findsmiley.url",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kilde-findsmiley.adgang",
+  "dom": "delvist",
+  "grund": "Søgeside belagt. Menupunktet «Hent Smiley-data», HTML-formatet og «set» fremgår ikke."
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|sty-foedevarestyrelsen",
+  "dom": "baerer",
+  "grund": "Efterkontrol (siden hentet)"
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-foedevareloven",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-dyrlaegeloven",
+  "dom": "baerer",
+  "grund": "Efterkontrol (siden hentet)"
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|raad-det-veterinaere-sundhedsraad",
+  "dom": "delvist",
+  "grund": "Efterkontrol (siden hentet): Belægget handler om veterinærområdet generelt; Det Veterinære Sundhedsråd nævnes ikke."
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|kilde-findsmiley",
+  "dom": "delvist",
+  "grund": "Kanten har ugyldig type: ressortansvar må ikke gå til dokumentkilde. Belægget gælder FVST."
+ },
+ {
+  "hvor": "kant min-natur-og-dyrevelfaerd|ressortansvar|lov-dyrevelfaerdsloven",
+  "dom": "baerer",
+  "grund": "Efterkontrol (siden hentet)"
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|lov-dyrevelfaerdsloven",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-natur-og-dyrevelfaerd|ressortansvar|raad-det-dyreetiske-raad",
+  "dom": "delvist",
+  "grund": "Efterkontrol (siden hentet): Belægget handler om dyrevelfærd generelt; Det Dyreetiske Råd nævnes ikke."
+ },
+ {
+  "hvor": "kant min-natur-og-dyrevelfaerd|ressortansvar|tilsyn-dyreforsoegstilsynet",
+  "dom": "baerer-ikke",
+  "grund": "Efterkontrol (siden hentet): Belægget handler om dyrevelfærd; dyreforsøg og Dyreforsøgstilsynet nævnes ikke."
+ },
+ {
+  "hvor": "kant min-natur-og-dyrevelfaerd|ressortansvar|lov-dyreforsoegsloven",
+  "dom": "baerer-ikke",
+  "grund": "Efterkontrol (siden hentet): Belægget handler om dyrevelfærdsloven; dyreforsøgsloven er et andet retsområde."
+ },
+ {
+  "hvor": "kant min-natur-og-dyrevelfaerd|ressortansvar|lov-landbrugsstoetteloven",
+  "dom": "delvist",
+  "grund": "Belægget om det nedlagte ministeriums overførsel. Landbrugsstøtteloven nævnes ikke."
+ },
+ {
+  "hvor": "kant min-natur-og-dyrevelfaerd|ressortansvar|lov-landbrugsejendomme",
+  "dom": "delvist",
+  "grund": "Belægget om det nedlagte ministeriums overførsel. Landbrugsejendomsloven nævnes ikke."
+ },
+ {
+  "hvor": "kant min-miljoe|ressortansvar|lov-fiskeriloven",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-foedevareloven|hjemmel_for|sty-foedevarestyrelsen",
+  "dom": "delvist",
+  "grund": "§ 58 bærer hjemmelen. Belægget nævner ikke Fødevarestyrelsen; det gør BEK 1721 i den første post."
+ },
+ {
+  "hvor": "kant lov-dyrlaegeloven|hjemmel_for|raad-det-veterinaere-sundhedsraad",
+  "dom": "delvist",
+  "grund": "§ 28 bærer. § 29, stk. 1 står ikke i dette belæg."
+ },
+ {
+  "hvor": "kant lov-dyrevelfaerdsloven|hjemmel_for|raad-det-dyreetiske-raad",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-dyreforsoegsloven|hjemmel_for|tilsyn-dyreforsoegstilsynet",
+  "dom": "delvist",
+  "grund": "§ 10 bærer. § 1, stk. 1 står ikke i dette belæg."
+ },
+ {
+  "hvor": "kant naevn-miljoe-og-foedevareklagenaevnet|klageinstans|sty-foedevarestyrelsen",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant sty-foedevarestyrelsen|udsteder|kilde-findsmiley",
+  "dom": "delvist",
+  "grund": "Belægget siger DVFA, ikke Fødevarestyrelsen. Identiteten står ikke i belægget."
+ }
+]

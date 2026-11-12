@@ -1,0 +1,557 @@
+[
+  {
+    "hvor": "sty-star.hjemmel",
+    "dom": "delvist",
+    "grund": "§ 99-klage til Ankestyrelsens Beskæftigelsesudvalg er ikke belagt i denne hvor; § 88 og § 98 bærer."
+  },
+  {
+    "hvor": "sty-star.dokumenttyper",
+    "dom": "delvist",
+    "grund": "Afgørelse og publikation er belagt som typer; CKA-behandling og bindende/vejledende-status fremgår ikke af belægget."
+  },
+  {
+    "hvor": "sty-star.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "org-a-kasser.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "org-a-kasser.dokumenttyper",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "org-seniorpensionsenheden.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "org-seniorpensionsenheden.dokumenttyper",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-arbejdsloeshedsforsikring.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-arbejdsloeshedsforsikring.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-arbejdsloeshedsforsikring.identifikatorer",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-aktiv-socialpolitik.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-aktiv-socialpolitik.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-aktiv-socialpolitik.identifikatorer",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-seniorpensionsenheden.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-seniorpensionsenheden.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-seniorpensionsenheden.identifikatorer",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-aktiv-beskaeftigelsesindsats.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-aktiv-beskaeftigelsesindsats.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-aktiv-beskaeftigelsesindsats.identifikatorer",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-organisering-beskaeftigelsesindsatsen.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-organisering-beskaeftigelsesindsatsen.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-organisering-beskaeftigelsesindsatsen.identifikatorer",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-sygedagpenge.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-sygedagpenge.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-sygedagpenge.identifikatorer",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-social-pension.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-social-pension.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-social-pension.identifikatorer",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-udbetaling-danmark.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-udbetaling-danmark.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-udbetaling-danmark.identifikatorer",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-arbejdsskadesikring.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-arbejdsskadesikring.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-arbejdsskadesikring.identifikatorer",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-aes.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-aes.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-aes.identifikatorer",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-loenmodtagernes-garantifond.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-loenmodtagernes-garantifond.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-loenmodtagernes-garantifond.identifikatorer",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-atp.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-atp.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-atp.identifikatorer",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "org-arbejdsmarkedets-erhvervssikring.tidligere_navne[Arbejdsskadestyrelsen]",
+    "dom": "delvist",
+    "grund": "Belægget siger sammenlægning af Arbejdsskadestyrelsen og dele af Erhvervssygdomssikring, ikke omdøbning."
+  },
+  {
+    "hvor": "org-arbejdsmarkedets-erhvervssikring.hjemmel",
+    "dom": "delvist",
+    "grund": "§ 1 og § 2 stk. 2 bærer; arbejdsskadesikringsloven § 44 er ikke belagt i denne hvor."
+  },
+  {
+    "hvor": "org-arbejdsmarkedets-erhvervssikring.dokumenttyper",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "org-arbejdsmarkedets-erhvervssikring.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "fond-loenmodtagernes-garantifond.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "fond-loenmodtagernes-garantifond.dokumenttyper",
+    "dom": "delvist",
+    "grund": "Domstolshenvisning (§ 6) og Ankenævn-klage (§ 9 stk. 10) er belagt; ingen administrativ klageinstans er ikke."
+  },
+  {
+    "hvor": "org-atp.hjemmel",
+    "dom": "delvist",
+    "grund": "ATP-lovens § 1 bærer; vedtægtsfastsættelsen i § 20 stk. 2 er ikke belagt i denne hvor."
+  },
+  {
+    "hvor": "org-atp.dokumenttyper",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "org-atp.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "naevn-ankenaevn-atp.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "naevn-ankenaevn-atp.dokumenttyper",
+    "dom": "delvist",
+    "grund": "Belægget viser ankenævnets eksistens og klageadgang, ikke at nævnet træffer afgørelser; citatet handler om sagkyndig bistand."
+  },
+  {
+    "hvor": "raad-tilsynsraadet.hjemmel",
+    "dom": "delvist",
+    "grund": "Otte medlemmer og rådgivningsrolle bærer; ministeren udpeger kun to direkte, resten efter indstilling."
+  },
+  {
+    "hvor": "raad-tilsynsraadet.dokumenttyper",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kilde-star-love-og-regler.dokumenttyper",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kilde-star-love-og-regler.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kilde-star-love-og-regler.adgang",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kilde-aes-love-og-praksis.dokumenttyper",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kilde-aes-love-og-praksis.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kilde-aes-love-og-praksis.adgang",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|sty-star",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|lov-arbejdsloeshedsforsikring",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|lov-aktiv-socialpolitik",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|lov-seniorpensionsenheden",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|org-seniorpensionsenheden",
+    "dom": "delvist",
+    "grund": "Belægget viser ministerens tilsyn med bestyrelsen, ikke ressortansvar for instansen; ressortet udledes af påstanden selv."
+  },
+  {
+    "hvor": "kant lov-arbejdsloeshedsforsikring|hjemmel_for|sty-star",
+    "dom": "delvist",
+    "grund": "§ 88 bærer tilsynskompetencen; klagekompetencen i § 98 og § 99 er ikke belagt i denne kant."
+  },
+  {
+    "hvor": "kant lov-arbejdsloeshedsforsikring|hjemmel_for|org-a-kasser",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant lov-seniorpensionsenheden|hjemmel_for|org-seniorpensionsenheden",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant lov-seniorpensionsenheden|henviser_til|lov-retssikkerhedsloven-social",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant sty-star|tilsyn|org-a-kasser",
+    "dom": "delvist",
+    "grund": "§ 88 stk. 1 bærer tilsynet; stk. 2-3 (rådighedstilsyn, ændringsbeføjelse) fremgår ikke af belægget."
+  },
+  {
+    "hvor": "kant sty-star|klageinstans|org-a-kasser",
+    "dom": "delvist",
+    "grund": "§ 98 og CKA bærer klageinstansen; § 99-henvisningen til næste instans er ikke belagt i denne kant."
+  },
+  {
+    "hvor": "kant sty-ankestyrelsen|klageinstans|sty-star",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant sty-ankestyrelsen|klageinstans|org-seniorpensionsenheden",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|lov-aktiv-beskaeftigelsesindsats",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|lov-organisering-beskaeftigelsesindsatsen",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|lov-sygedagpenge",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|lov-social-pension",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|lov-udbetaling-danmark",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|lov-arbejdsskadesikring",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|lov-aes",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|lov-loenmodtagernes-garantifond",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|lov-atp",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|org-arbejdsmarkedets-erhvervssikring",
+    "dom": "delvist",
+    "grund": "§ 9 er en ministerregel om fordeling af beløb, ikke ressortansvar for AES; ressortet udledes af påstanden selv."
+  },
+  {
+    "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|fond-loenmodtagernes-garantifond",
+    "dom": "delvist",
+    "grund": "§ 10 er en ministerregel om fondens krav, ikke ressortansvar; ressortet udledes af påstanden selv."
+  },
+  {
+    "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|org-atp",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|naevn-ankenaevn-atp",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|raad-tilsynsraadet",
+    "dom": "delvist",
+    "grund": "Ministeren udpeger kun to af otte direkte, ikke alle; rådgivningsrollen i § 26 a er ikke i denne kants belæg."
+  },
+  {
+    "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|kilde-star-love-og-regler",
+    "dom": "delvist",
+    "grund": "Belægget bærer STARs ministerrelation, ikke en dokumentkilde; ressortansvar må ikke pege på en dokumentkilde."
+  },
+  {
+    "hvor": "kant min-beskaeftigelse-og-ligestilling|ressortansvar|kilde-aes-love-og-praksis",
+    "dom": "baerer-ikke",
+    "grund": "Belægget (AES-lovens § 9, fordeling af beløb) handler hverken om ressort eller om kilden aes.dk."
+  },
+  {
+    "hvor": "kant lov-arbejdsskadesikring|hjemmel_for|org-arbejdsmarkedets-erhvervssikring",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant lov-aes|hjemmel_for|org-arbejdsmarkedets-erhvervssikring",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant lov-loenmodtagernes-garantifond|hjemmel_for|fond-loenmodtagernes-garantifond",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant lov-atp|hjemmel_for|org-atp",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant lov-atp|hjemmel_for|naevn-ankenaevn-atp",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant lov-organisering-beskaeftigelsesindsatsen|hjemmel_for|raad-tilsynsraadet",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant lov-social-pension|hjemmel_for|org-seniorpensionsenheden",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant lov-udbetaling-danmark|hjemmel_for|org-udbetaling-danmark",
+    "dom": "delvist",
+    "grund": "§ 19 bærer ministerens tilsyn med bestyrelsen; det er ikke hjemmel for UDK, og kanttypen hjemmel_for passer ikke."
+  },
+  {
+    "hvor": "kant lov-aktiv-beskaeftigelsesindsats|henviser_til|lov-retssikkerhedsloven-social",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant lov-sygedagpenge|henviser_til|lov-retssikkerhedsloven-social",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant lov-udbetaling-danmark|henviser_til|lov-retssikkerhedsloven-social",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant lov-arbejdsskadesikring|henviser_til|lov-atp",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant lov-loenmodtagernes-garantifond|henviser_til|lov-atp",
+    "dom": "delvist",
+    "grund": "§ 9 stk. 10 bærer klagefristen; § 11 (ATP administrerer fonden) er ikke belagt i denne kant."
+  },
+  {
+    "hvor": "kant sty-ankestyrelsen|klageinstans|org-arbejdsmarkedets-erhvervssikring",
+    "dom": "delvist",
+    "grund": "Klage til Ankestyrelsen over AES bærer § 44; ikke indbringes for anden myndighed (retssikkerhedsloven § 50 stk. 4) er ikke belagt."
+  },
+  {
+    "hvor": "kant naevn-ankenaevn-atp|klageinstans|org-atp",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant naevn-ankenaevn-atp|klageinstans|fond-loenmodtagernes-garantifond",
+    "dom": "delvist",
+    "grund": "Ankenævnet som klageinstans bærer § 9 stk. 10; belægget siger ikke, at LG træffer afgørelserne, og § 6 mangler."
+  },
+  {
+    "hvor": "kant naevn-ankenaevn-atp|klageinstans|org-arbejdsmarkedets-erhvervssikring",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant sty-star|tilsyn|kommune-alle",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant sty-star|udsteder|kilde-star-love-og-regler",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant org-arbejdsmarkedets-erhvervssikring|udsteder|kilde-aes-love-og-praksis",
+    "dom": "baerer",
+    "grund": ""
+  }
+]

@@ -1,0 +1,877 @@
+{
+  "omraade": "foedevarer",
+  "noder": [
+    {
+      "id": "sty-foedevarestyrelsen",
+      "navn": "Fødevarestyrelsen",
+      "type": "styrelse",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "tidligere_navne": [
+        {
+          "navn": "Styrelsen for Fødevarer, Landbrug og Fiskeri",
+          "periode": "1/1/2026–5/7/2026",
+          "belaeg": [
+            {
+              "url": "https://foedevarestyrelsen.dk/nyheder/webnyheder/2025/dec/sammenlaegning",
+              "citat": "én samlet styrelse med navnet: Styrelsen for Fødevarer, Landbrug og Fiskeri."
+            },
+            {
+              "url": "https://foedevarestyrelsen.dk/nyheder/webnyheder/2026/jul/fvst",
+              "citat": "Hovedparten af fødevare- og veterinærområdet videreføres i Erhvervsministeriet som Fødevarestyrelsen."
+            }
+          ]
+        }
+      ],
+      "hjemmel": {
+        "tekst": "Fødevarelovens § 58, stk. 1: ministeren kan henlægge sine beføjelser efter loven til en myndighed under ministeriet; Fødevarestyrelsens opgaver og beføjelser fastlægges i BEK 1721/2020 (om den stadig er gældende efter ressortomlægningen 2026 er ikke bekræftet).",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/32",
+            "citat": "Henlægger ministeren for fødevarer, landbrug og fiskeri sine beføjelser efter loven til en myndighed under ministeriet"
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2020/1721",
+            "citat": "Bekendtgørelsen omhandler Fødevarestyrelsens opgaver og beføjelser i Danmark."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "afgørelse",
+            "bindende": "bindende",
+            "note": "kan påklages til Miljø- og Fødevareklagenævnet"
+          },
+          {
+            "type": "kontrolrapport",
+            "bindende": "ukendt",
+            "note": "offentliggøres på findsmiley.dk (smiley-ordningen)"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://naevneneshus.dk/start-din-klage/miljoe-og-foedevareklagenaevnet/",
+            "citat": "Nævnet er øverste klagemyndighed for afgørelser truffet af bl.a. Fødevare-, Fiskeri- og Landbrugsstyrelsen"
+          },
+          {
+            "url": "https://www.findsmiley.dk/in-english",
+            "citat": "the inspection results from the recent inspections are made publicly available on findsmiley.dk"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://foedevarestyrelsen.dk/",
+        "belaeg": [
+          {
+            "url": "https://foedevarestyrelsen.dk/",
+            "citat": "Fødevarestyrelsen er en styrelse under Erhvervsministeriet."
+          }
+        ]
+      },
+      "krydsref_moenstre": [
+        "Fødevarestyrelsens afgørelse af [dato]",
+        "Fødevarestyrelsens kontrolrapport",
+        "Styrelsen for Fødevarer, Landbrug og Fiskeri"
+      ],
+      "note": "Ressortomlægning 6/7/2026: Styrelsen for Fødevarer, Landbrug og Fiskeri (SFLF, fusion af Fødevarestyrelsen og Landbrugs- og Fiskeristyrelsen pr. 1/1/2026) er splittet på fem ministerområder. Hovedparten af fødevare- og veterinærområdet fortsætter i Erhvervsministeriet som Fødevarestyrelsen; dyrevelfærdsopgaver er overført til Ministeriet for Natur og Dyrevelfærd, kontrol af dyrevelfærd til Justitsministeriet (§ 2, nr. 2 i BEK 514/2026), fiskeriområdet til Miljøministeriet/Miljøstyrelsen og udbetaling af minkerstatninger til By-, Land- og Transportministeriet. GUDP flyttede fra Ministeriet for Natur og Dyrevelfærd til Erhvervsministeriet ved BEK 806/2026 (kgl. res. 2/9/2026). Det er ikke fundet belæg for, hvor SFLF's øvrige landbrugsopgaver (plantesundhed, øvrige tilskudsordninger) er placeret efter 6/7/2026. Landbrugsstøtte (grundbetaling) ligger hos Styrelsen for Grøn Arealomlægning og Vandmiljø (sty-groen-arealomlaegning-og-vandmiljoe), ikke hos denne styrelse. NaturErhvervstyrelsen og Landbrugsstyrelsen er forgængere til SGAV, ikke til denne styrelse; kun resten af Landbrugsstyrelsen (planter, biosikkerhed og tilskud) blev sep. 2024 overtaget af Fiskeristyrelsen. Politiets rolle i dyreværnssager er ikke undersøgt.",
+      "domaener": [
+        "landbrug-dyr"
+      ]
+    },
+    {
+      "id": "lov-foedevareloven",
+      "navn": "Lov om fødevarer (fødevareloven)",
+      "type": "lov",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/32",
+            "citat": "Bekendtgørelse af lov om fødevarer"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2025/32",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/32",
+            "citat": "Bekendtgørelse af lov om fødevarer"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2025/32",
+        "lovtidende": "LBK nr. 32 af 14/01/2025",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/32",
+            "citat": "Bekendtgørelse af lov om fødevarer"
+          }
+        ]
+      },
+      "note": "Klage: § 58 a, stk. 1 til Miljø- og Fødevareklagenævnet (nævnsloven § 3, stk. 1, nr. 7: sagkyndige i fødevareforhold). Nyere LBK end 14/1/2025 er ikke undersøgt."
+    },
+    {
+      "id": "lov-dyrevelfaerdsloven",
+      "navn": "Lov om dyrevelfærd (dyrevelfærdsloven)",
+      "type": "lov",
+      "ministerium": "min-natur-og-dyrevelfaerd",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/994",
+            "citat": "Bekendtgørelse af lov om dyrevelfærd (dyrevelfærdsloven)"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2025/994",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/994",
+            "citat": "Bekendtgørelse af lov om dyrevelfærd (dyrevelfærdsloven)"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2025/994",
+        "lovtidende": "LBK nr. 994 af 30/06/2025",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/994",
+            "citat": "Bekendtgørelse af lov om dyrevelfærd (dyrevelfærdsloven)"
+          }
+        ]
+      },
+      "note": "Ressortansvaret for kontrol med overholdelse af loven ligger hos Justitsministeriet (BEK 514/2026 § 2, nr. 2); loven i øvrigt er henført til Ministeriet for Natur og Dyrevelfærd (organisatorisk ressort, ikke bekræftet med eksplicit sætning om loven). LBK 994/2025 har i Retsinformations metadata en slutdato 27/3/2026; en nyere LBK er ikke fundet.",
+      "domaener": [
+        "landbrug-dyr"
+      ]
+    },
+    {
+      "id": "lov-dyrlaegeloven",
+      "navn": "Lov om dyrlæger",
+      "type": "lov",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/64",
+            "citat": "Bekendtgørelse af lov om dyrlæger"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2024/64",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/64",
+            "citat": "Bekendtgørelse af lov om dyrlæger"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2024/64",
+        "lovtidende": "LBK nr. 64 af 19/01/2024",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/64",
+            "citat": "Bekendtgørelse af lov om dyrlæger"
+          }
+        ]
+      },
+      "note": "Bærer Det Veterinære Sundhedsråd (§§ 28-29) og klage til Miljø- og Fødevareklagenævnet (§ 36 a). Metadata har slutdato 15/4/2026, så en nyere LBK kan findes.",
+      "domaener": [
+        "landbrug-dyr"
+      ]
+    },
+    {
+      "id": "lov-dyreforsoegsloven",
+      "navn": "Lov om dyreforsøg",
+      "type": "lov",
+      "ministerium": "min-natur-og-dyrevelfaerd",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/63",
+            "citat": "Bekendtgørelse af lov om dyreforsøg"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2024/63",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/63",
+            "citat": "Bekendtgørelse af lov om dyreforsøg"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2024/63",
+        "lovtidende": "LBK nr. 63 af 19/01/2024",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/63",
+            "citat": "Bekendtgørelse af lov om dyreforsøg"
+          }
+        ]
+      },
+      "note": "Ministerium er en antagelse (dyrevelfærd til Ministeriet for Natur og Dyrevelfærd); ressortfordelingen for dyreforsøg er ikke bekræftet efter 3/6/2026. Metadata har slutdato 5/10/2024, så en nyere LBK kan findes.",
+      "domaener": [
+        "landbrug-dyr"
+      ]
+    },
+    {
+      "id": "lov-fiskeriloven",
+      "navn": "Lov om fiskeri og fiskeopdræt (fiskeriloven)",
+      "type": "lov",
+      "ministerium": "min-miljoe",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/205",
+            "citat": "Bekendtgørelse af lov om fiskeri og fiskeopdræt (fiskeriloven)"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2023/205",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/205",
+            "citat": "Bekendtgørelse af lov om fiskeri og fiskeopdræt (fiskeriloven)"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2023/205",
+        "lovtidende": "LBK nr. 205 af 01/03/2023",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2023/205",
+            "citat": "Bekendtgørelse af lov om fiskeri og fiskeopdræt (fiskeriloven)"
+          }
+        ]
+      },
+      "note": "Klage: § 110 a, stk. 1 til Miljø- og Fødevareklagenævnet (nævnsloven § 3, stk. 1, nr. 5 og 6); § 110, stk. 1: afgørelser truffet af producent- og brancheorganisationer efter delegation kan indbringes inden 4 uger efter, at afgørelsen er meddelt klageren.",
+      "domaener": [
+        "fiskeri"
+      ]
+    },
+    {
+      "id": "lov-landbrugsstoetteloven",
+      "navn": "Lov om administration af EU-forordninger om den fælles landbrugspolitik (landbrugsstøtteloven)",
+      "type": "lov",
+      "ministerium": "min-natur-og-dyrevelfaerd",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2020/115",
+            "citat": "(landbrugsstøtteloven)"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2020/115",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2020/115",
+            "citat": "(landbrugsstøtteloven)"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2020/115",
+        "lovtidende": "LBK nr. 115 af 06/02/2020",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2020/115",
+            "citat": "(landbrugsstøtteloven)"
+          }
+        ]
+      },
+      "note": "Klage: § 22 b til Miljø- og Fødevareklagenævnet. Metadata har slutdato 30/6/2026; en nyere LBK er ikke undersøgt. Ministerium er en antagelse (landbrug under Ministeriet for Natur og Dyrevelfærd).",
+      "domaener": [
+        "landbrug-dyr"
+      ]
+    },
+    {
+      "id": "lov-landbrugsejendomme",
+      "navn": "Lov om landbrugsejendomme",
+      "type": "lov",
+      "ministerium": "min-natur-og-dyrevelfaerd",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "ikke relevant",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2020/116",
+            "citat": "Bekendtgørelse af lov om landbrugsejendomme"
+          }
+        ]
+      },
+      "url": {
+        "vaerdi": "https://www.retsinformation.dk/eli/lta/2020/116",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2020/116",
+            "citat": "Bekendtgørelse af lov om landbrugsejendomme"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "eli": "https://www.retsinformation.dk/eli/lta/2020/116",
+        "lovtidende": "LBK nr. 116 af 06/02/2020",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2020/116",
+            "citat": "Bekendtgørelse af lov om landbrugsejendomme"
+          }
+        ]
+      },
+      "note": "Klage: § 38 a til Miljø- og Fødevareklagenævnet. Ministerium er en antagelse. Nyere LBK end 6/2/2020 er ikke undersøgt (metadata nævner ændring ref. 29/12/2025).",
+      "domaener": [
+        "landbrug-dyr"
+      ]
+    },
+    {
+      "id": "raad-det-veterinaere-sundhedsraad",
+      "navn": "Det Veterinære Sundhedsråd",
+      "type": "råd",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Dyrlægelovens § 28, stk. 2: rådet nedsættes af ministeren; § 29, stk. 1: rådet afgiver veterinærfaglige udtalelser og udtalelser vedrørende hold af særlige dyr.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/64",
+            "citat": "Rådet nedsættes af ministeren for fødevarer, landbrug og fiskeri."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/64",
+            "citat": "Det Veterinære Sundhedsråd afgiver veterinærfaglige udtalelser og udtalelser vedrørende hold af særlige dyr"
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "udtalelse",
+            "bindende": "vejledende",
+            "note": "veterinærfaglige udtalelser; også til politi og anklagemyndighed i straffesager"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2015/1711",
+            "citat": "Det Veterinære Sundhedsråd er et uafhængigt og uvildigt organ."
+          }
+        ]
+      },
+      "identifikatorer": {
+        "andet": "Forretningsorden: BEK nr. 1711 af 15/12/2015 (udstedt efter dyrlægeloven § 28, stk. 3 og 4 og § 29, stk. 1).",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2015/1711",
+            "citat": "Bekendtgørelse om forretningsorden for Det Veterinære Sundhedsråd"
+          }
+        ]
+      },
+      "note": "Rådet er aktivt efter dyrlægeloven (LBK 64/2024), men BEK 1711/2015 har en slutdato 24/1/2024 i Retsinformations metadata; om en nyere forretningsorden findes, er ikke afklaret. Rådets egen webside er ikke fundet.",
+      "domaener": [
+        "landbrug-dyr"
+      ]
+    },
+    {
+      "id": "raad-det-dyreetiske-raad",
+      "navn": "Det Dyreetiske Råd",
+      "type": "råd",
+      "ministerium": "min-natur-og-dyrevelfaerd",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Dyrevelfærdslovens § 38, stk. 1: ministeren nedsætter et råd, der ud fra en etisk vurdering følger udviklingen inden for dyrevelfærd og kan afgive udtalelser.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/994",
+            "citat": "nedsætter et råd, der ud fra en etisk vurdering skal følge udviklingen inden for dyrevelfærd"
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2025/994",
+            "citat": "Rådet kan afgive udtalelser om spørgsmål inden for dyrevelfærd og dyreetik"
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "udtalelse",
+            "bindende": "vejledende",
+            "note": "udtalelser og høringssvar"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2015/1260",
+            "citat": "Rådet afgiver ligeledes høringssvar indenfor rådets arbejdsområde."
+          }
+        ]
+      },
+      "identifikatorer": {
+        "andet": "Forretningsorden: BEK nr. 1260 af 16/11/2015, udstedt efter dyreværnsloven (nu afløst af dyrevelfærdsloven).",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2015/1260",
+            "citat": "Bekendtgørelse om forretningsorden for Det Dyreetiske Råd"
+          }
+        ]
+      },
+      "note": "Rådet findes i dyrevelfærdsloven § 38. Forretningsordenen er udstedt efter den tidligere dyreværnslov (metadata slutdato 8/7/2025); en ny forretningsorden er ikke fundet. Rådets egen webside er ikke fundet.",
+      "domaener": [
+        "landbrug-dyr"
+      ]
+    },
+    {
+      "id": "tilsyn-dyreforsoegstilsynet",
+      "navn": "Dyreforsøgstilsynet og Rådet for Dyreforsøg",
+      "type": "tilsyn",
+      "ministerium": "min-natur-og-dyrevelfaerd",
+      "status": "aktiv",
+      "hjemmel": {
+        "tekst": "Dyreforsøgslovens § 10, stk. 1: Dyreforsøgstilsynet ledes af Rådet for Dyreforsøg; § 1, stk. 1: forsøg kræver tilladelse fra Dyreforsøgstilsynet; § 13: afgørelser kan ikke indbringes for anden administrativ myndighed.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/63",
+            "citat": "Dyreforsøgstilsynet ledes af Rådet for Dyreforsøg, der består af en formand, der skal være dommer, og 10 andre medlemmer."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/63",
+            "citat": "må kun ske med tilladelse fra Dyreforsøgstilsynet."
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "tilladelse",
+            "bindende": "bindende",
+            "note": "tilladelse til dyreforsøg og godkendelse af virksomheder"
+          },
+          {
+            "type": "påbud",
+            "bindende": "bindende"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/63",
+            "citat": "skal godkendes og registreres af Dyreforsøgstilsynet."
+          },
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2024/63",
+            "citat": "give påbud om forsøgenes udførelse"
+          }
+        ]
+      },
+      "identifikatorer": {
+        "andet": "Forretningsorden for Rådet for Dyreforsøg: BEK nr. 82 af 29/01/2013.",
+        "belaeg": [
+          {
+            "url": "https://www.retsinformation.dk/eli/lta/2013/82",
+            "citat": "Bekendtgørelse om forretningsorden for Rådet for Dyreforsøg"
+          }
+        ]
+      },
+      "note": "Ministerium er en antagelse; ressortansvaret for dyreforsøg er ikke bekræftet efter 3/6/2026. Tilsynets egen webside er ikke fundet i denne runde. Afgørelser kan ikke påklages administrativt (lovens § 13), så Miljø- og Fødevareklagenævnet er ikke klageinstans.",
+      "domaener": [
+        "landbrug-dyr"
+      ]
+    },
+    {
+      "id": "kilde-findsmiley",
+      "navn": "Find Smiley (fødevarekontrollens kontrolrapporter)",
+      "type": "dokumentkilde",
+      "ministerium": "min-erhverv",
+      "status": "aktiv",
+      "url": {
+        "vaerdi": "https://www.findsmiley.dk/",
+        "belaeg": [
+          {
+            "url": "https://www.findsmiley.dk/in-english",
+            "citat": "the inspection results from the recent inspections are made publicly available on findsmiley.dk"
+          }
+        ]
+      },
+      "dokumenttyper": {
+        "liste": [
+          {
+            "type": "kontrolrapport",
+            "bindende": "ukendt",
+            "note": "kontrolresultater og smiley for fødevarevirksomheder"
+          }
+        ],
+        "belaeg": [
+          {
+            "url": "https://www.findsmiley.dk/in-english",
+            "citat": "the inspection results from the recent inspections are made publicly available on findsmiley.dk"
+          }
+        ]
+      },
+      "adgang": {
+        "vaerdier": [
+          "HTML"
+        ],
+        "note": "Søgeside for fødevarevirksomheder. Menupunktet 'Hent Smiley-data' er set, men dets indhold og format er ikke åbnet.",
+        "belaeg": [
+          {
+            "url": "https://www.findsmiley.dk/in-english",
+            "citat": "their latest inspection results"
+          }
+        ]
+      },
+      "note": "Driftsansvarlig er Fødevarestyrelsen. Nummersystem, opdateringsfrekvens og genbrugsvilkår er ikke belagt (se huller)."
+    }
+  ],
+  "kanter": [
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "sty-foedevarestyrelsen",
+      "beskrivelse": "Fødevare- og veterinærområdet fortsætter i Erhvervsministeriet som Fødevarestyrelsen efter ressortomlægningen 6/7/2026.",
+      "belaeg": [
+        {
+          "url": "https://foedevarestyrelsen.dk/nyheder/webnyheder/2026/jul/fvst",
+          "citat": "Hovedparten af fødevare- og veterinærområdet videreføres i Erhvervsministeriet som Fødevarestyrelsen."
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "lov-foedevareloven",
+      "beskrivelse": "BEK 514/2026 § 2, nr. 1: ressortansvaret for fødevaresikkerhed, fødevaresundhed og fødevareforsyning overført til Erhvervsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/514",
+          "citat": "til Erhvervsministeriet: ressortansvaret for sager vedrørende fødevaresikkerhed"
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "lov-dyrlaegeloven",
+      "beskrivelse": "Veterinærområdet videreføres i Erhvervsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://foedevarestyrelsen.dk/nyheder/webnyheder/2026/jul/fvst",
+          "citat": "Hovedparten af fødevare- og veterinærområdet videreføres i Erhvervsministeriet som Fødevarestyrelsen."
+        }
+      ]
+    },
+    {
+      "from": "min-erhverv",
+      "type": "ressortansvar",
+      "to": "raad-det-veterinaere-sundhedsraad",
+      "beskrivelse": "Rådet hører under det veterinære område, der ligger i Erhvervsministeriet (antagelse udledt af områdets placering).",
+      "belaeg": [
+        {
+          "url": "https://foedevarestyrelsen.dk/nyheder/webnyheder/2026/jul/fvst",
+          "citat": "Hovedparten af fødevare- og veterinærområdet videreføres i Erhvervsministeriet som Fødevarestyrelsen."
+        }
+      ]
+    },
+    {
+      "from": "min-natur-og-dyrevelfaerd",
+      "type": "ressortansvar",
+      "to": "lov-dyrevelfaerdsloven",
+      "beskrivelse": "Dyrevelfærd er overført til Ministeriet for Natur og Dyrevelfærd; kontrollen med loven ligger dog hos Justitsministeriet (BEK 514/2026 § 2, nr. 2).",
+      "belaeg": [
+        {
+          "url": "https://foedevarestyrelsen.dk/nyheder/webnyheder/2026/jul/fvst",
+          "citat": "Opgaver vedrørende dyrevelfærd er overført til Ministeriet for Natur og Dyrevelfærd"
+        }
+      ]
+    },
+    {
+      "from": "min-justits",
+      "type": "ressortansvar",
+      "to": "lov-dyrevelfaerdsloven",
+      "beskrivelse": "BEK 514/2026 § 2, nr. 2: ressortansvaret for kontrol med overholdelse af dyrevelfærdsloven overført til Justitsministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/514",
+          "citat": "til Justitsministeriet: ressortansvaret for sager vedrørende kontrol med overholdelse af reglerne i dyrevelfærdsloven"
+        }
+      ]
+    },
+    {
+      "from": "min-natur-og-dyrevelfaerd",
+      "type": "ressortansvar",
+      "to": "raad-det-dyreetiske-raad",
+      "beskrivelse": "Dyrevelfærdsopgaver overført til Ministeriet for Natur og Dyrevelfærd.",
+      "belaeg": [
+        {
+          "url": "https://foedevarestyrelsen.dk/nyheder/webnyheder/2026/jul/fvst",
+          "citat": "Opgaver vedrørende dyrevelfærd er overført til Ministeriet for Natur og Dyrevelfærd"
+        }
+      ]
+    },
+    {
+      "from": "min-natur-og-dyrevelfaerd",
+      "type": "ressortansvar",
+      "to": "tilsyn-dyreforsoegstilsynet",
+      "beskrivelse": "Antaget som del af dyrevelfærdsområdet; ressortfordelingen for dyreforsøg er ikke bekræftet.",
+      "belaeg": [
+        {
+          "url": "https://foedevarestyrelsen.dk/nyheder/webnyheder/2026/jul/fvst",
+          "citat": "Opgaver vedrørende dyrevelfærd er overført til Ministeriet for Natur og Dyrevelfærd"
+        }
+      ]
+    },
+    {
+      "from": "min-natur-og-dyrevelfaerd",
+      "type": "ressortansvar",
+      "to": "lov-dyreforsoegsloven",
+      "beskrivelse": "Antaget som del af dyrevelfærdsområdet; ressortfordelingen for dyreforsøg er ikke bekræftet.",
+      "belaeg": [
+        {
+          "url": "https://foedevarestyrelsen.dk/nyheder/webnyheder/2026/jul/fvst",
+          "citat": "Opgaver vedrørende dyrevelfærd er overført til Ministeriet for Natur og Dyrevelfærd"
+        }
+      ]
+    },
+    {
+      "from": "min-natur-og-dyrevelfaerd",
+      "type": "ressortansvar",
+      "to": "lov-landbrugsstoetteloven",
+      "beskrivelse": "Det nedlagte Ministeriet for Fødevarer, Landbrug og Fiskeris forretninger overføres til Ministeriet for Grøn Trepart (nu Natur og Dyrevelfærd), bortset fra de udskilte områder.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/514",
+          "citat": "Betegnelsen for Ministeriet for Grøn Trepart ændres til Ministeriet for Natur og Dyrevelfærd."
+        }
+      ]
+    },
+    {
+      "from": "min-natur-og-dyrevelfaerd",
+      "type": "ressortansvar",
+      "to": "lov-landbrugsejendomme",
+      "beskrivelse": "Det nedlagte Ministeriet for Fødevarer, Landbrug og Fiskeris forretninger overføres til Ministeriet for Grøn Trepart (nu Natur og Dyrevelfærd), bortset fra de udskilte områder.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/514",
+          "citat": "Betegnelsen for Ministeriet for Grøn Trepart ændres til Ministeriet for Natur og Dyrevelfærd."
+        }
+      ]
+    },
+    {
+      "from": "min-miljoe",
+      "type": "ressortansvar",
+      "to": "lov-fiskeriloven",
+      "beskrivelse": "BEK 514/2026 § 2, nr. 4: ressortansvaret for sager vedrørende fiskeri overført til Miljøministeriet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/514",
+          "citat": "til Miljøministeriet: ressortansvaret for sager vedrørende fiskeri."
+        }
+      ]
+    },
+    {
+      "from": "lov-foedevareloven",
+      "type": "hjemmel_for",
+      "to": "sty-foedevarestyrelsen",
+      "beskrivelse": "§ 58, stk. 1: ministeren kan henlægge beføjelser efter loven til en myndighed under ministeriet; bruges til at lægge opgaver og beføjelser hos Fødevarestyrelsen.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/32",
+          "citat": "Henlægger ministeren for fødevarer, landbrug og fiskeri sine beføjelser efter loven til en myndighed under ministeriet"
+        }
+      ]
+    },
+    {
+      "from": "lov-dyrlaegeloven",
+      "type": "hjemmel_for",
+      "to": "raad-det-veterinaere-sundhedsraad",
+      "beskrivelse": "§ 28: rådet nedsættes af ministeren; § 29, stk. 1: rådet afgiver veterinærfaglige udtalelser.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/64",
+          "citat": "Rådet nedsættes af ministeren for fødevarer, landbrug og fiskeri."
+        }
+      ]
+    },
+    {
+      "from": "lov-dyrevelfaerdsloven",
+      "type": "hjemmel_for",
+      "to": "raad-det-dyreetiske-raad",
+      "beskrivelse": "§ 38, stk. 1: ministeren nedsætter et dyreetisk råd.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/994",
+          "citat": "nedsætter et råd, der ud fra en etisk vurdering skal følge udviklingen inden for dyrevelfærd"
+        }
+      ]
+    },
+    {
+      "from": "lov-dyreforsoegsloven",
+      "type": "hjemmel_for",
+      "to": "tilsyn-dyreforsoegstilsynet",
+      "beskrivelse": "§ 10, stk. 1: Dyreforsøgstilsynet ledes af Rådet for Dyreforsøg; § 1, stk. 1: forsøg kræver tilladelse fra tilsynet.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/63",
+          "citat": "Dyreforsøgstilsynet ledes af Rådet for Dyreforsøg, der består af en formand, der skal være dommer, og 10 andre medlemmer."
+        }
+      ]
+    },
+    {
+      "from": "naevn-miljoe-og-foedevareklagenaevnet",
+      "type": "klageinstans",
+      "to": "sty-foedevarestyrelsen",
+      "beskrivelse": "Fødevarelovens § 58 a, stk. 1 (dyrevelfærdslovens § 52, stk. 3; dyrlægelovens § 36 a, stk. 1): afgørelser kan påklages til nævnet og kan ikke indbringes for anden administrativ myndighed. Frist 4 uger fra afgørelsen er meddelt, jf. forretningsordenens § 7, stk. 1, medmindre sektorlovgivningen siger andet. Nævnets afgørelse er endelig administrativt.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/32",
+          "citat": "i loven eller i henhold til regler udstedt i medfør heraf, påklages til Miljø- og Fødevareklagenævnet,"
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/32",
+          "citat": "og kan dermed ikke indbringes for anden administrativ myndighed."
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/994",
+          "citat": "påklages til Miljø- og Fødevareklagenævnet, som behandler sagen i afdelingen omhandlet i § 3, stk. 1, nr. 8"
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/64",
+          "citat": "påklages til Miljø- og Fødevareklagenævnet"
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2017/131",
+          "citat": "Klage til nævnet skal indbringes inden 4 uger fra den dag, afgørelsen er meddelt,"
+        }
+      ]
+    },
+    {
+      "from": "sty-foedevarestyrelsen",
+      "type": "udsteder",
+      "to": "kilde-findsmiley",
+      "beskrivelse": "Fødevarestyrelsen driver findsmiley.dk og offentliggør kontrolrapporter der.",
+      "belaeg": [
+        {
+          "url": "https://www.findsmiley.dk/in-english",
+          "citat": "the inspection results from the recent inspections are made publicly available on findsmiley.dk"
+        }
+      ]
+    }
+  ],
+  "rettelser": [],
+  "huller": [
+    {
+      "emne": "Placering af SFLF's landbrugsopgaver efter 6/7/2026",
+      "type": "uklart",
+      "beskrivelse": "Fødevarestyrelsens nyhed af 8/7/2026 nævner fem ministerområder (Erhverv, Natur og Dyrevelfærd, Justits, Miljø, By-, Land- og Transport) men ikke landbrug, plantesundhed eller tilskud ud over GUDP (Erhvervsministeriet efter BEK 806/2026, kgl. res. 2/9/2026). Ministeriet for Natur og Dyrevelfærds organisationsside nævner kun SGAV og Naturstyrelsen. Hvilken styrelse der har plantesundhed, EHFAF-tilskud og landbrugets fonde, er ikke afgjort.",
+      "noder": [
+        "sty-foedevarestyrelsen",
+        "sty-landbrugsstyrelsen"
+      ],
+      "kilder": [
+        "https://foedevarestyrelsen.dk/nyheder/webnyheder/2026/jul/fvst",
+        "https://mgtp.dk/ministeriet/organisationen"
+      ]
+    },
+    {
+      "emne": "Dyrevelfærdskontrollens nye organisation i Justitsministeriet",
+      "type": "uklart",
+      "beskrivelse": "BEK 514/2026 § 2, nr. 2 flytter ressortansvaret for kontrol med dyrevelfærdsloven til Justitsministeriet. Der er ikke fundet en officiel side om den udførende enhed (presseomtale taler om en ny styrelse under Justitsministeriet). Ingen node oprettet.",
+      "noder": [
+        "lov-dyrevelfaerdsloven"
+      ],
+      "kilder": [
+        "https://www.retsinformation.dk/eli/lta/2026/514"
+      ]
+    },
+    {
+      "emne": "Smiley-databasens nummersystem, opdatering og genbrugsvilkår",
+      "type": "uklart",
+      "beskrivelse": "findsmiley.dk har menupunktet 'Hent Smiley-data', men ingen side med vilkår, nummersystem eller opdateringsfrekvens er åbnet. Fødevarekontrolbekendtgørelsen siger ifølge sekundære kilder, at de seneste fire kontrolrapporter offentliggøres; ikke verificeret på Retsinformation.",
+      "noder": [
+        "kilde-findsmiley"
+      ],
+      "kilder": [
+        "https://www.findsmiley.dk/in-english"
+      ]
+    },
+    {
+      "emne": "Fødevarestyrelsens vejledninger og regelsamling som dokumentkilde",
+      "type": "ikke-fundet",
+      "beskrivelse": "Ingen officiel side om styrelsens vejledninger (adgangsform, nummersystem, vilkår) kunne åbnes; foedevarestyrelsen.dk/regler-og-vejledninger gav 404. Vejledningen 'Vejledning om offentliggørelse af kontrolresultater på fødevareområdet' (december 2023) findes som PDF, men er ikke åbnet.",
+      "noder": [
+        "sty-foedevarestyrelsen"
+      ],
+      "kilder": [
+        "https://foedevarestyrelsen.dk/"
+      ]
+    },
+    {
+      "emne": "Det Veterinære Sundhedsråds udtalelser og årsberetninger",
+      "type": "ikke-fundet",
+      "beskrivelse": "Ingen aktuel webside for rådet eller offentliggørelse af udtalelser/årsberetninger fundet; foedevarestyrelsen.dk/DVS gav 404.",
+      "noder": [
+        "raad-det-veterinaere-sundhedsraad"
+      ],
+      "kilder": []
+    },
+    {
+      "emne": "Plantenyhedsnævnet",
+      "type": "uklart",
+      "beskrivelse": "BEK om Plantenyhedsnævnet (lta/2020/1013, hjemmel lov om plantenyheder § 22, stk. 2) træffer afgørelser om sorter og certificering, men metadata har slutdato 13/7/2023 og bekendtgørelsen er underskrevet af Landbrugsstyrelsen. Om nævnet er aktivt i dag og hvor det hører hjemme efter 2024/2026, er ikke afgjort. Ingen node.",
+      "noder": [],
+      "kilder": [
+        "https://www.retsinformation.dk/eli/lta/2020/1013"
+      ]
+    },
+    {
+      "emne": "Jordkøbsnævnene",
+      "type": "uklart",
+      "beskrivelse": "BEK 1220/2007 om jordkøbsnævn (hjemmel jordfordelingsloven; klage til Direktoratet for FødevareErhverv, § 25) bærer en Direktoratet-FødevareErhverv-klagevej, som formentlig er forældet, og metadata har slutdato 13/7/2023. Aktive nævn og nuværende klageinstans er ikke afklaret. Ingen node.",
+      "noder": [],
+      "kilder": [
+        "https://www.retsinformation.dk/eli/lta/2007/1220"
+      ]
+    },
+    {
+      "emne": "Lov om hold af dyr og forordning (EF) nr. 178/2002 m.fl.",
+      "type": "andet",
+      "beskrivelse": "Lov om hold af dyr (LBK 62/2024) og EU-retsakterne er ikke oprettet som noder i denne runde (tid og belægsbudget).",
+      "noder": [],
+      "kilder": []
+    },
+    {
+      "emne": "Fusionskæden Fiskeristyrelsen → Landbrugs- og Fiskeristyrelsen → Styrelsen for Fødevarer, Landbrug og Fiskeri har ingen noder",
+      "type": "uklart",
+      "beskrivelse": "Fiskeristyrelsen blev i september 2024 til Landbrugs- og Fiskeristyrelsen, som 1/1/2026 blev lagt sammen med Fødevarestyrelsen. De to er forgængere, der blev lagt ind i styrelsen, ikke tidligere navne for Fødevarestyrelsen, og hvor fiskerikontrollen og de øvrige landbrugsopgaver ligger efter opdelingen 6/7/2026, er ikke belagt. Navnene kan derfor ikke slås op til en gældende myndighed.",
+      "noder": [
+        "sty-foedevarestyrelsen",
+        "sty-landbrugsstyrelsen"
+      ],
+      "kilder": []
+    }
+  ],
+  "noter": "Til orkestratoren: (1) sty-landbrugsstyrelsen: efterfølgeren SGAV er rigtig for hovedparten (2024), men restopgaverne gik til Fiskeristyrelsen (omdøbt Landbrugs- og Fiskeristyrelsen sep. 2024, jf. årsrapport 2024), som blev fusioneret ind i Styrelsen for Fødevarer, Landbrug og Fiskeri 1/1/2026; ingen rettelse foretaget. Registryets node mangler dette led i tidligere_navne/note. NaturErhvervstyrelsen/Landbrugsstyrelsen hører til SGAV-kæden, ikke til Fødevarestyrelsens kæde. (2) Der er oprettet én node sty-foedevarestyrelsen (ikke en særskilt node for SFLF), fordi SFLF kun bestod 1/1/2026-5/7/2026 og er splittet 6/7/2026; kæden står i tidligere_navne. (3) Ressortfordeling bekræftet: BEK 514/2026 § 2 nr. 1-4 og § 3 (kgl. res. 3/6/2026 på stm.dk: samme ordlyd; fødevaresikkerhed til Erhverv, dyrevelfærdskontrol til Justits, minkerstatning til Transport, fiskeri til Miljø); BEK 806/2026 § 1 (kgl. res. 2/9/2026) flytter GUDP fra Ministeriet for Natur og Dyrevelfærd til Erhvervsministeriet. Sporet om dyrevelfærdsloven til Justitsministeriet gælder KUN kontrollen. (4) Klagecenter for Fødevarer, Landbrug og Fiskeri: registryet har det allerede som nedlagt 1/2/2017; nævnsloven § 24, stk. 6 siger, at verserende sager færdigbehandles af Miljø- og Fødevareklagenævnet. Intet at rette. (5) naevn-miljoe-og-foedevareklagenaevnet har ministerium min-erhverv, og naevn-klagecenter-for-foedevarer-landbrug-og-fiskeri har min-natur-og-dyrevelfaerd, men er nedlagt; uændret. (6) Forrige runde-spor om at MFKN-klagefristen står i § 58 a var forkert: frist 4 uger står i BEK 131/2017 § 7, stk. 1 (forretningsorden); fødevarelovens § 58 a, stk. 2 har kun 3-ugers videresendelsesfrist for myndigheden. (7) Rådet for Dyreforsøg, DDR og VSR har ingen egne websider fundet. (8) Pdf-kilder (årsrapporter, mål- og resultatplan) er læst via cdn2.gopublic.dk-kopier; fvm.dk-URL'erne redirecter dertil. Citaterne fra PDF'erne er hentet fra pdftotext-uddrag og kan have afvigende linjeskift. (9) Kanterne MFKN->SGAV og MFKN->Miljøstyrelsen findes allerede i registry; deres beskrivelser bør suppleres med landbrugsstøttelovens § 22 b, landbrugsejendomslovens § 38 a og fiskerilovens § 110 a (frist 4 uger efter forretningsordenens § 7, stk. 1; fiskeriloven § 110, stk. 1). [Orkestrator 2026-11-12: fjernet min-erhverv|ressortansvar|kilde-findsmiley: ressortansvar går til instans eller retsakt, ikke til en dokumentkilde; kilden er koblet med udsteder-kanten.] [Orkestrator 2026-11-12: fjernet Landbrugs- og Fiskeristyrelsen og Fiskeristyrelsen som tidligere navne på sty-foedevarestyrelsen (kontrollanten: belægget viser to styrelser, der blev lagt sammen, ikke en omdøbning); kæden står som hul. Domænerne landbrug-dyr og fiskeri er sat på de noder, der hører dertil.] [Orkestrator 2026-11-12: hullet 'Nyere lovbekendtgørelser end de citerede' er fjernet. Retsinformations metadata viser, at alle de citerede lovbekendtgørelser har status Valid pr. 12/11/2026 (populate.py lov); slutdatoen i metadata er ikke en udløbsdato.]"
+}

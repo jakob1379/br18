@@ -1,0 +1,200 @@
+[
+  {
+    "hvor": "raad-det-centrale-handicapraad.url",
+    "paastand": "Det Centrale Handicapråd (råd, ministerium min-social): url = {\"vaerdi\": \"https://www.dch.dk/\"}",
+    "belaeg": [
+      {
+        "url": "https://www.dch.dk/",
+        "citat": "Det Centrale Handicapråd samler handicaporganisationer, kommuner, regioner, arbejdsmarkedets parter og vidensinstitutioner",
+        "genfundet": true,
+        "kontekst": "Det Centrale Handicapråd Gå til hovedindhold Søgeord Servicemenu Om rådet Tilgængelighed Kontakt Presse English Hvor kan jeg få hjælp? Hovedmenu Viden og politik Holdninger og fordomme Fælles om et samfund med lige muligheder Det Centrale Handicapråd samler handicaporganisationer, kommuner, regioner, arbejdsmarkedets parter og vidensinstitutioner om at finde fælles løsninger med udgangspunkt i FN’s Handicapkonvention. Vi rådgiver regeringen og Folketinget og bekæmper fordomme, så mennesker med handicap får lige muligheder for at deltage i og bidrage til et stærkere samfund. Læs mere Barrierer for et godt samarbejde mellem borgere med handic"
+      }
+    ]
+  },
+  {
+    "hvor": "org-ankenaevnet-for-bus-tog-og-metro.dokumenttyper",
+    "paastand": "Ankenævnet for Bus, Tog og Metro (privat-organisation, ministerium ingen): dokumenttyper = {\"liste\": [{\"type\": \"afgørelse\", \"bindende\": \"ukendt\"}]}",
+    "belaeg": [
+      {
+        "url": "https://abtm.dk/",
+        "citat": "Her kan du se alle afgørelser fra ankenævnet.",
+        "genfundet": true,
+        "kontekst": "nævnet, skal du benytte vores klageskema, som du kan udfylde her på hjemmesiden: Gå til klageskema Du kan også få tilsendt et klageskema ved at skrive eller ringe til sekretariatet på mail@abtm.dk eller tlf. +45 22 62 65 00 . Telefon åbningstid: Tirsdag 09:30-11:30 Fredag: 09:30-11:30 Se afgørelser Her kan du se alle afgørelser fra ankenævnet. Du kan sortere på trafikselskab og resultat: Se alle afgørelser Abonnér på alle afgørelser Få tilsendt en email, når der er nye afgørelser på siden. Udfyld formularen her: Dit navn (*skal udfyldes) Din e-mail (*skal udfyldes) Tilmeld Jeg giver samtidigt samtykke til, at min e-mailadresse opbevares"
+      }
+    ]
+  },
+  {
+    "hvor": "org-ankenaevnet-for-bus-tog-og-metro.url",
+    "paastand": "Ankenævnet for Bus, Tog og Metro (privat-organisation, ministerium ingen): url = {\"vaerdi\": \"https://www.abtm.dk/\"}",
+    "belaeg": [
+      {
+        "url": "https://abtm.dk/",
+        "citat": "behandler klager fra kunder over problemer oplevet i bus, tog, letbane og metro",
+        "genfundet": true,
+        "kontekst": "OR BUS, TOG OG METRO - Ankenævnet for Bus, Tog og Metro Gå til sidens indhold Ankenævnet for Bus, Tog og Metro Menu Søg Forside Klagevejledning Klageskema Afgørelser Om os English Søg Luk Forside Klagevejledning Klageskema Afgørelser Om os English Velkommen til ABTM Ankenævnet for Bus, Tog og Metro behandler klager fra kunder over problemer oplevet i bus, tog, letbane og metro. Hvornår kan det ikke betale sig at klage? I følgende situationer vil din klage sandsynligvis ikke blive imødekommet, da ankenævnet har en fast praksis: For sent check ind i Rejsekort-appen eller DSB-appen: Hvis du ikke har checket ind inden påstigning, vil du ikke få medhold. Læs afgørelserne her."
+      }
+    ]
+  },
+  {
+    "hvor": "kilde-abtm-afgoerelser.dokumenttyper",
+    "paastand": "Ankenævnet for Bus, Tog og Metros afgørelser (dokumentkilde, ministerium ingen): dokumenttyper = {\"liste\": [{\"type\": \"afgørelse\", \"bindende\": \"ukendt\"}]}",
+    "belaeg": [
+      {
+        "url": "https://abtm.dk/",
+        "citat": "Her kan du se alle afgørelser fra ankenævnet.",
+        "genfundet": true,
+        "kontekst": "nævnet, skal du benytte vores klageskema, som du kan udfylde her på hjemmesiden: Gå til klageskema Du kan også få tilsendt et klageskema ved at skrive eller ringe til sekretariatet på mail@abtm.dk eller tlf. +45 22 62 65 00 . Telefon åbningstid: Tirsdag 09:30-11:30 Fredag: 09:30-11:30 Se afgørelser Her kan du se alle afgørelser fra ankenævnet. Du kan sortere på trafikselskab og resultat: Se alle afgørelser Abonnér på alle afgørelser Få tilsendt en email, når der er nye afgørelser på siden. Udfyld formularen her: Dit navn (*skal udfyldes) Din e-mail (*skal udfyldes) Tilmeld Jeg giver samtidigt samtykke til, at min e-mailadresse opbevares"
+      }
+    ]
+  },
+  {
+    "hvor": "kilde-abtm-afgoerelser.url",
+    "paastand": "Ankenævnet for Bus, Tog og Metros afgørelser (dokumentkilde, ministerium ingen): url = {\"vaerdi\": \"https://www.abtm.dk/afgorelser\"}",
+    "belaeg": [
+      {
+        "url": "https://abtm.dk/",
+        "citat": "Her kan du se alle afgørelser fra ankenævnet.",
+        "genfundet": true,
+        "kontekst": "nævnet, skal du benytte vores klageskema, som du kan udfylde her på hjemmesiden: Gå til klageskema Du kan også få tilsendt et klageskema ved at skrive eller ringe til sekretariatet på mail@abtm.dk eller tlf. +45 22 62 65 00 . Telefon åbningstid: Tirsdag 09:30-11:30 Fredag: 09:30-11:30 Se afgørelser Her kan du se alle afgørelser fra ankenævnet. Du kan sortere på trafikselskab og resultat: Se alle afgørelser Abonnér på alle afgørelser Få tilsendt en email, når der er nye afgørelser på siden. Udfyld formularen her: Dit navn (*skal udfyldes) Din e-mail (*skal udfyldes) Tilmeld Jeg giver samtidigt samtykke til, at min e-mailadresse opbevares"
+      }
+    ]
+  },
+  {
+    "hvor": "kilde-abtm-afgoerelser.adgang",
+    "paastand": "Ankenævnet for Bus, Tog og Metros afgørelser (dokumentkilde, ministerium ingen): adgang = {\"vaerdier\": [\"HTML\"], \"note\": \"Sorterbar liste pr. trafikvirksomhed og udfald.\"}",
+    "belaeg": [
+      {
+        "url": "https://abtm.dk/",
+        "citat": "Her kan du se alle afgørelser fra ankenævnet.",
+        "genfundet": true,
+        "kontekst": "nævnet, skal du benytte vores klageskema, som du kan udfylde her på hjemmesiden: Gå til klageskema Du kan også få tilsendt et klageskema ved at skrive eller ringe til sekretariatet på mail@abtm.dk eller tlf. +45 22 62 65 00 . Telefon åbningstid: Tirsdag 09:30-11:30 Fredag: 09:30-11:30 Se afgørelser Her kan du se alle afgørelser fra ankenævnet. Du kan sortere på trafikselskab og resultat: Se alle afgørelser Abonnér på alle afgørelser Få tilsendt en email, når der er nye afgørelser på siden. Udfyld formularen her: Dit navn (*skal udfyldes) Din e-mail (*skal udfyldes) Tilmeld Jeg giver samtidigt samtykke til, at min e-mailadresse opbevares"
+      }
+    ]
+  },
+  {
+    "hvor": "kant org-ankenaevnet-for-bus-tog-og-metro|udsteder|kilde-abtm-afgoerelser",
+    "belaeg": [
+      {
+        "url": "https://abtm.dk/",
+        "citat": "Her kan du se alle afgørelser fra ankenævnet.",
+        "genfundet": true,
+        "kontekst": "nævnet, skal du benytte vores klageskema, som du kan udfylde her på hjemmesiden: Gå til klageskema Du kan også få tilsendt et klageskema ved at skrive eller ringe til sekretariatet på mail@abtm.dk eller tlf. +45 22 62 65 00 . Telefon åbningstid: Tirsdag 09:30-11:30 Fredag: 09:30-11:30 Se afgørelser Her kan du se alle afgørelser fra ankenævnet. Du kan sortere på trafikselskab og resultat: Se alle afgørelser Abonnér på alle afgørelser Få tilsendt en email, når der er nye afgørelser på siden. Udfyld formularen her: Dit navn (*skal udfyldes) Din e-mail (*skal udfyldes) Tilmeld Jeg giver samtidigt samtykke til, at min e-mailadresse opbevares"
+      }
+    ],
+    "paastand": "Ankenævnet for Bus, Tog og Metro —udsteder→ Ankenævnet for Bus, Tog og Metros afgørelser: Ankenævnet offentliggør alle afgørelser på abtm.dk."
+  },
+  {
+    "hvor": "sty-foedevarestyrelsen.tidligere_navne[Styrelsen for Fødevarer, Landbrug og Fiskeri]",
+    "paastand": "Fødevarestyrelsen (styrelse, ministerium min-erhverv) hed tidligere Styrelsen for Fødevarer, Landbrug og Fiskeri (1/1/2026–5/7/2026)",
+    "belaeg": [
+      {
+        "url": "https://foedevarestyrelsen.dk/nyheder/webnyheder/2025/dec/sammenlaegning",
+        "citat": "én samlet styrelse med navnet: Styrelsen for Fødevarer, Landbrug og Fiskeri.",
+        "genfundet": true,
+        "kontekst": "styrelsen og Landbrugs- og Fiskeristyrelsen er én styrelse fra 1. januar 22-12-2025 Webnyhed ’Styrelsen for Fødevarer, Landbrug og Fiskeri’ får hovedsæde i Glostrup, mens godt 50 årsværk på fiskeriområdet flyttes til Aalborg. Fødevarestyrelsen og Landbrugs- og Fiskeristyrelsen er fra 1. januar 2026 én samlet styrelse med navnet: Styrelsen for Fødevarer, Landbrug og Fiskeri. Af de ca. 2.000 medarbejdere arbejder ca. 20 pct. med landbrug og fiskeri, mens ca. 80 pct. arbejder med fødevareområdet. - De to styrelser har allerede haft et tæt samarbejde og løst mange beslægtede opgaver. Men fusioner er altid en stor opgave, og der vil gå et stykke tid, før vi i praksis er s"
+      },
+      {
+        "url": "https://foedevarestyrelsen.dk/nyheder/webnyheder/2026/jul/fvst",
+        "citat": "Hovedparten af fødevare- og veterinærområdet videreføres i Erhvervsministeriet som Fødevarestyrelsen.",
+        "genfundet": true,
+        "kontekst": "isering Ressortomlægning er trådt i kraft: Fødevarestyrelsen videreføres i Erhvervsministeriet 08-07-2026 Webnyhed Fra den 6. juli 2026 er ressortomlægningen af Styrelsen for Fødevarer, Landbrug og Fiskeri trådt i kraft. Det betyder, at styrelsens opgaver fremover er fordelt på fem ministerområder. Hovedparten af fødevare- og veterinærområdet videreføres i Erhvervsministeriet som Fødevarestyrelsen. Opgaver vedrørende dyrevelfærd er overført til Ministeriet for Natur og Dyrevelfærd, kontrol af dyrevelfærd til Justitsministeriet, Fiskeriområdet til Miljøministeriet samt opgaver vedr. udbetaling af minkerstatninger til By-, Land- og Transportministeriet. Ressortomlægningen ændrer ikke ved den f"
+      }
+    ]
+  },
+  {
+    "hvor": "sty-foedevarestyrelsen.url",
+    "paastand": "Fødevarestyrelsen (styrelse, ministerium min-erhverv): url = {\"vaerdi\": \"https://foedevarestyrelsen.dk/\"}",
+    "belaeg": [
+      {
+        "url": "https://foedevarestyrelsen.dk/",
+        "citat": "Fødevarestyrelsen er en styrelse under Erhvervsministeriet.",
+        "genfundet": true,
+        "kontekst": " højst 5 håndfulde snacks og søde sager om ugen. Find ud af, hvad der tæller med og bliv inspireret til sunde vaner i familien. Nyheder Alle nyheder Tilbagekald Se tilbagekaldte fødevarer, foder og produkter i kontakt med fødevarer. Alle tilbagekaldte produkter Seneste tilbagekald Fødevarestyrelsen Fødevarestyrelsen er en styrelse under Erhvervsministeriet. Styrelsen arbejder med hele fødevarekæden fra jord til bord med fokus på dyresundhed og sikker, sund mad. Vi står bag De officielle Kostråd og smileykontroller, som du kender fra cafeer, restauranter og supermarkeder. Kontakt Fødevarestyrelsen Stationsparken 31-33 2600 Glostrup Tlf. 72 2​​​7 69 00"
+      }
+    ]
+  },
+  {
+    "hvor": "kant min-erhverv|ressortansvar|sty-foedevarestyrelsen",
+    "belaeg": [
+      {
+        "url": "https://foedevarestyrelsen.dk/nyheder/webnyheder/2026/jul/fvst",
+        "citat": "Hovedparten af fødevare- og veterinærområdet videreføres i Erhvervsministeriet som Fødevarestyrelsen.",
+        "genfundet": true,
+        "kontekst": "isering Ressortomlægning er trådt i kraft: Fødevarestyrelsen videreføres i Erhvervsministeriet 08-07-2026 Webnyhed Fra den 6. juli 2026 er ressortomlægningen af Styrelsen for Fødevarer, Landbrug og Fiskeri trådt i kraft. Det betyder, at styrelsens opgaver fremover er fordelt på fem ministerområder. Hovedparten af fødevare- og veterinærområdet videreføres i Erhvervsministeriet som Fødevarestyrelsen. Opgaver vedrørende dyrevelfærd er overført til Ministeriet for Natur og Dyrevelfærd, kontrol af dyrevelfærd til Justitsministeriet, Fiskeriområdet til Miljøministeriet samt opgaver vedr. udbetaling af minkerstatninger til By-, Land- og Transportministeriet. Ressortomlægningen ændrer ikke ved den f"
+      }
+    ],
+    "paastand": "min-erhverv —ressortansvar→ Fødevarestyrelsen: Fødevare- og veterinærområdet fortsætter i Erhvervsministeriet som Fødevarestyrelsen efter ressortomlægningen 6/7/2026."
+  },
+  {
+    "hvor": "kant min-erhverv|ressortansvar|lov-dyrlaegeloven",
+    "belaeg": [
+      {
+        "url": "https://foedevarestyrelsen.dk/nyheder/webnyheder/2026/jul/fvst",
+        "citat": "Hovedparten af fødevare- og veterinærområdet videreføres i Erhvervsministeriet som Fødevarestyrelsen.",
+        "genfundet": true,
+        "kontekst": "isering Ressortomlægning er trådt i kraft: Fødevarestyrelsen videreføres i Erhvervsministeriet 08-07-2026 Webnyhed Fra den 6. juli 2026 er ressortomlægningen af Styrelsen for Fødevarer, Landbrug og Fiskeri trådt i kraft. Det betyder, at styrelsens opgaver fremover er fordelt på fem ministerområder. Hovedparten af fødevare- og veterinærområdet videreføres i Erhvervsministeriet som Fødevarestyrelsen. Opgaver vedrørende dyrevelfærd er overført til Ministeriet for Natur og Dyrevelfærd, kontrol af dyrevelfærd til Justitsministeriet, Fiskeriområdet til Miljøministeriet samt opgaver vedr. udbetaling af minkerstatninger til By-, Land- og Transportministeriet. Ressortomlægningen ændrer ikke ved den f"
+      }
+    ],
+    "paastand": "min-erhverv —ressortansvar→ Lov om dyrlæger: Veterinærområdet videreføres i Erhvervsministeriet."
+  },
+  {
+    "hvor": "kant min-erhverv|ressortansvar|raad-det-veterinaere-sundhedsraad",
+    "belaeg": [
+      {
+        "url": "https://foedevarestyrelsen.dk/nyheder/webnyheder/2026/jul/fvst",
+        "citat": "Hovedparten af fødevare- og veterinærområdet videreføres i Erhvervsministeriet som Fødevarestyrelsen.",
+        "genfundet": true,
+        "kontekst": "isering Ressortomlægning er trådt i kraft: Fødevarestyrelsen videreføres i Erhvervsministeriet 08-07-2026 Webnyhed Fra den 6. juli 2026 er ressortomlægningen af Styrelsen for Fødevarer, Landbrug og Fiskeri trådt i kraft. Det betyder, at styrelsens opgaver fremover er fordelt på fem ministerområder. Hovedparten af fødevare- og veterinærområdet videreføres i Erhvervsministeriet som Fødevarestyrelsen. Opgaver vedrørende dyrevelfærd er overført til Ministeriet for Natur og Dyrevelfærd, kontrol af dyrevelfærd til Justitsministeriet, Fiskeriområdet til Miljøministeriet samt opgaver vedr. udbetaling af minkerstatninger til By-, Land- og Transportministeriet. Ressortomlægningen ændrer ikke ved den f"
+      }
+    ],
+    "paastand": "min-erhverv —ressortansvar→ Det Veterinære Sundhedsråd: Rådet hører under det veterinære område, der ligger i Erhvervsministeriet (antagelse udledt af områdets placering)."
+  },
+  {
+    "hvor": "kant min-natur-og-dyrevelfaerd|ressortansvar|lov-dyrevelfaerdsloven",
+    "belaeg": [
+      {
+        "url": "https://foedevarestyrelsen.dk/nyheder/webnyheder/2026/jul/fvst",
+        "citat": "Opgaver vedrørende dyrevelfærd er overført til Ministeriet for Natur og Dyrevelfærd",
+        "genfundet": true,
+        "kontekst": "026 Webnyhed Fra den 6. juli 2026 er ressortomlægningen af Styrelsen for Fødevarer, Landbrug og Fiskeri trådt i kraft. Det betyder, at styrelsens opgaver fremover er fordelt på fem ministerområder. Hovedparten af fødevare- og veterinærområdet videreføres i Erhvervsministeriet som Fødevarestyrelsen. Opgaver vedrørende dyrevelfærd er overført til Ministeriet for Natur og Dyrevelfærd, kontrol af dyrevelfærd til Justitsministeriet, Fiskeriområdet til Miljøministeriet samt opgaver vedr. udbetaling af minkerstatninger til By-, Land- og Transportministeriet. Ressortomlægningen ændrer ikke ved den fortsatte opgaveløsning. Borgere, virksomheder og samarbejdspartnere kan fortsat benyt"
+      }
+    ],
+    "paastand": "min-natur-og-dyrevelfaerd —ressortansvar→ Lov om dyrevelfærd (dyrevelfærdsloven): Dyrevelfærd er overført til Ministeriet for Natur og Dyrevelfærd; kontrollen med loven ligger dog hos Justitsministeriet (BEK 514/2026 § 2, nr. 2)."
+  },
+  {
+    "hvor": "kant min-natur-og-dyrevelfaerd|ressortansvar|raad-det-dyreetiske-raad",
+    "belaeg": [
+      {
+        "url": "https://foedevarestyrelsen.dk/nyheder/webnyheder/2026/jul/fvst",
+        "citat": "Opgaver vedrørende dyrevelfærd er overført til Ministeriet for Natur og Dyrevelfærd",
+        "genfundet": true,
+        "kontekst": "026 Webnyhed Fra den 6. juli 2026 er ressortomlægningen af Styrelsen for Fødevarer, Landbrug og Fiskeri trådt i kraft. Det betyder, at styrelsens opgaver fremover er fordelt på fem ministerområder. Hovedparten af fødevare- og veterinærområdet videreføres i Erhvervsministeriet som Fødevarestyrelsen. Opgaver vedrørende dyrevelfærd er overført til Ministeriet for Natur og Dyrevelfærd, kontrol af dyrevelfærd til Justitsministeriet, Fiskeriområdet til Miljøministeriet samt opgaver vedr. udbetaling af minkerstatninger til By-, Land- og Transportministeriet. Ressortomlægningen ændrer ikke ved den fortsatte opgaveløsning. Borgere, virksomheder og samarbejdspartnere kan fortsat benyt"
+      }
+    ],
+    "paastand": "min-natur-og-dyrevelfaerd —ressortansvar→ Det Dyreetiske Råd: Dyrevelfærdsopgaver overført til Ministeriet for Natur og Dyrevelfærd."
+  },
+  {
+    "hvor": "kant min-natur-og-dyrevelfaerd|ressortansvar|tilsyn-dyreforsoegstilsynet",
+    "belaeg": [
+      {
+        "url": "https://foedevarestyrelsen.dk/nyheder/webnyheder/2026/jul/fvst",
+        "citat": "Opgaver vedrørende dyrevelfærd er overført til Ministeriet for Natur og Dyrevelfærd",
+        "genfundet": true,
+        "kontekst": "026 Webnyhed Fra den 6. juli 2026 er ressortomlægningen af Styrelsen for Fødevarer, Landbrug og Fiskeri trådt i kraft. Det betyder, at styrelsens opgaver fremover er fordelt på fem ministerområder. Hovedparten af fødevare- og veterinærområdet videreføres i Erhvervsministeriet som Fødevarestyrelsen. Opgaver vedrørende dyrevelfærd er overført til Ministeriet for Natur og Dyrevelfærd, kontrol af dyrevelfærd til Justitsministeriet, Fiskeriområdet til Miljøministeriet samt opgaver vedr. udbetaling af minkerstatninger til By-, Land- og Transportministeriet. Ressortomlægningen ændrer ikke ved den fortsatte opgaveløsning. Borgere, virksomheder og samarbejdspartnere kan fortsat benyt"
+      }
+    ],
+    "paastand": "min-natur-og-dyrevelfaerd —ressortansvar→ Dyreforsøgstilsynet og Rådet for Dyreforsøg: Antaget som del af dyrevelfærdsområdet; ressortfordelingen for dyreforsøg er ikke bekræftet."
+  },
+  {
+    "hvor": "kant min-natur-og-dyrevelfaerd|ressortansvar|lov-dyreforsoegsloven",
+    "belaeg": [
+      {
+        "url": "https://foedevarestyrelsen.dk/nyheder/webnyheder/2026/jul/fvst",
+        "citat": "Opgaver vedrørende dyrevelfærd er overført til Ministeriet for Natur og Dyrevelfærd",
+        "genfundet": true,
+        "kontekst": "026 Webnyhed Fra den 6. juli 2026 er ressortomlægningen af Styrelsen for Fødevarer, Landbrug og Fiskeri trådt i kraft. Det betyder, at styrelsens opgaver fremover er fordelt på fem ministerområder. Hovedparten af fødevare- og veterinærområdet videreføres i Erhvervsministeriet som Fødevarestyrelsen. Opgaver vedrørende dyrevelfærd er overført til Ministeriet for Natur og Dyrevelfærd, kontrol af dyrevelfærd til Justitsministeriet, Fiskeriområdet til Miljøministeriet samt opgaver vedr. udbetaling af minkerstatninger til By-, Land- og Transportministeriet. Ressortomlægningen ændrer ikke ved den fortsatte opgaveløsning. Borgere, virksomheder og samarbejdspartnere kan fortsat benyt"
+      }
+    ],
+    "paastand": "min-natur-og-dyrevelfaerd —ressortansvar→ Lov om dyreforsøg: Antaget som del af dyrevelfærdsområdet; ressortfordelingen for dyreforsøg er ikke bekræftet."
+  }
+]

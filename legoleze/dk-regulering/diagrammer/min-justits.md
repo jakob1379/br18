@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 37 · kanter: 60
+Noder: 39 · kanter: 62
 
 ```mermaid
 flowchart LR
@@ -16,6 +16,7 @@ flowchart LR
     classDef nedlagt fill:#fff,stroke:#999,color:#999,stroke-dasharray:4 3
     min_justits["Justitsministeriet"]:::ministerium
     sty_civilstyrelsen["Civilstyrelsen"]:::instans
+    raad_det_dyreetiske_raad["Det Dyreetiske Råd"]:::instans
     sty_domstolsstyrelsen["Domstolsstyrelsen"]:::instans
     sty_rigsadvokaten["Rigsadvokaten"]:::instans
     kilde_domsdatabasen["Domsdatabasen"]:::kilde
@@ -42,6 +43,7 @@ flowchart LR
     lov_forvaltningsloven["Forvaltningsloven"]:::retsakt
     lov_domstolsstyrelsesloven["Lov om Domstolsstyrelsen"]:::retsakt
     lov_miljoeoplysningsloven["Lov om aktindsigt i miljøoplysninger (miljøoplysningsloven)"]:::retsakt
+    lov_dyrevelfaerdsloven["Lov om dyrevelfærd (dyrevelfærdsloven)"]:::retsakt
     lov_offentlighedsloven["Lov om offentlighed i forvaltningen (offentlighedsloven)"]:::retsakt
     lov_retssikkerhedsloven_tvangsindgreb["Lov om retssikkerhed ved forvaltningens anvendelse af tvangsindgreb og oplysningspligter"]:::retsakt
     lov_lovtidendeloven["Lov om udgivelsen af en Lovtidende (lovtidendeloven)"]:::retsakt
@@ -111,6 +113,8 @@ flowchart LR
     sty_domstolsstyrelsen -->|udsteder| kilde_domsdatabasen
     sty_rigsadvokaten -->|udsteder| cirk_rigsadvokatmeddelelsen_arbejdsmiljoe
     kilde_danish_law_mcp -->|henviser_til| kilde_retsinformation
+    min_justits -->|ressortansvar| lov_dyrevelfaerdsloven
+    lov_dyrevelfaerdsloven -->|hjemmel_for| raad_det_dyreetiske_raad
 ```
 
 [← Overblik](oversigt.md)

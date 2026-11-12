@@ -1,0 +1,754 @@
+[
+ {
+  "hvor": "sty-foedevarestyrelsen.tidligere_navne[Styrelsen for Fødevarer, Landbrug og Fiskeri]",
+  "paastand": "Fødevarestyrelsen (styrelse, ministerium min-erhverv) hed tidligere Styrelsen for Fødevarer, Landbrug og Fiskeri (1/1/2026–5/7/2026)",
+  "belaeg": [
+   {
+    "url": "https://foedevarestyrelsen.dk/nyheder/webnyheder/2025/dec/sammenlaegning",
+    "citat": "én samlet styrelse med navnet: Styrelsen for Fødevarer, Landbrug og Fiskeri.",
+    "genfundet": true,
+    "kontekst": "styrelsen og Landbrugs- og Fiskeristyrelsen er én styrelse fra 1. januar 22-12-2025 Webnyhed ’Styrelsen for Fødevarer, Landbrug og Fiskeri’ får hovedsæde i Glostrup, mens godt 50 årsværk på fiskeriområdet flyttes til Aalborg. Fødevarestyrelsen og Landbrugs- og Fiskeristyrelsen er fra 1. januar 2026 én samlet styrelse med navnet: Styrelsen for Fødevarer, Landbrug og Fiskeri. Af de ca. 2.000 medarbejdere arbejder ca. 20 pct. med landbrug og fiskeri, mens ca. 80 pct. arbejder med fødevareområdet. - De to styrelser har allerede haft et tæt samarbejde og løst mange beslægtede opgaver. Men fusioner er altid en stor opgave, og der vil gå et stykke tid, før vi i praksis er s"
+   },
+   {
+    "url": "https://foedevarestyrelsen.dk/nyheder/webnyheder/2026/jul/fvst",
+    "citat": "Hovedparten af fødevare- og veterinærområdet videreføres i Erhvervsministeriet som Fødevarestyrelsen.",
+    "genfundet": true,
+    "kontekst": "isering Ressortomlægning er trådt i kraft: Fødevarestyrelsen videreføres i Erhvervsministeriet 08-07-2026 Webnyhed Fra den 6. juli 2026 er ressortomlægningen af Styrelsen for Fødevarer, Landbrug og Fiskeri trådt i kraft. Det betyder, at styrelsens opgaver fremover er fordelt på fem ministerområder. Hovedparten af fødevare- og veterinærområdet videreføres i Erhvervsministeriet som Fødevarestyrelsen. Opgaver vedrørende dyrevelfærd er overført til Ministeriet for Natur og Dyrevelfærd, kontrol af dyrevelfærd til Justitsministeriet, Fiskeriområdet til Miljøministeriet samt opgaver vedr. udbetaling af minkerstatninger til By-, Land- og Transportministeriet. Ressortomlægningen ændrer ikke ved den f"
+   }
+  ]
+ },
+ {
+  "hvor": "sty-foedevarestyrelsen.hjemmel",
+  "paastand": "Fødevarestyrelsen (styrelse, ministerium min-erhverv): hjemmel = {\"tekst\": \"Fødevarelovens § 58, stk. 1: ministeren kan henlægge sine beføjelser efter loven til en myndighed under ministeriet; Fødevarestyrelsens opgaver og beføjelser fastlægges i BEK 1721/2020 (om den stadig er gældende efter ressortomlægningen 2026 er ikke bekræftet).\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/32",
+    "citat": "Henlægger ministeren for fødevarer, landbrug og fiskeri sine beføjelser efter loven til en myndighed under ministeriet",
+    "genfundet": true,
+    "kontekst": "dvalg. Udvalget afgiver udtalelser om væsentlige fødevarepolitiske emner, herunder om udkast til ny lovgivning på området. Stk. 2. Ministeren kan fastsætte nærmere regler om udvalgets sammensætning og virksomhed. Ministeren fastsætter udvalgets forretningsorden. Kapitel 15 Klage og delegation § 58. Henlægger ministeren for fødevarer, landbrug og fiskeri sine beføjelser efter loven til en myndighed under ministeriet, kan ministeren fastsætte regler om adgangen til at klage over myndighedens afgørelser, herunder om, at afgørelserne ikke kan indbringes for anden administrativ myndighed, og om myndighedernes adgang til at genoptage en sag, efter at der er indgivet klage. Ministeren kan endvidere fastsætte regler ",
+    "paragraf": "§ 58"
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2020/1721",
+    "citat": "Bekendtgørelsen omhandler Fødevarestyrelsens opgaver og beføjelser i Danmark.",
+    "genfundet": true,
+    "kontekst": ". 1523 af 26. oktober 2020, § 58, stk. 1 og 6, i lov om fødevarer, jf. lovbekendtgørelse nr. 999 af 2. juli 2018, § 52, stk. 1, i lov nr. 133 af 25. februar 2020 om dyrevelfærd (dyrevelfærdsloven), og § 4, stk. 2, i lov om hunde, jf. lovbekendtgørelse nr. 1373 af 30. november 2017, fastsættes: § 1. Bekendtgørelsen omhandler Fødevarestyrelsens opgaver og beføjelser i Danmark. Styrelsens opgaver og beføjelser i Grønland er beskrevet i bekendtgørelse om Fødevarestyrelsens og Grønlands Selvstyres opgaver og beføjelser i Grønland på den del af fødevare- og veterinærområdet, der administreres af miljø- og fødevareministeren. Opgaver § 2. Fødevarestyrelsen er en styrelse und",
+    "paragraf": "§ 1"
+   }
+  ]
+ },
+ {
+  "hvor": "sty-foedevarestyrelsen.dokumenttyper",
+  "paastand": "Fødevarestyrelsen (styrelse, ministerium min-erhverv): dokumenttyper = {\"liste\": [{\"type\": \"afgørelse\", \"bindende\": \"bindende\", \"note\": \"kan påklages til Miljø- og Fødevareklagenævnet\"}, {\"type\": \"kontrolrapport\", \"bindende\": \"ukendt\", \"note\": \"offentliggøres på findsmiley.dk (smiley-ordningen)\"}]}",
+  "belaeg": [
+   {
+    "url": "https://naevneneshus.dk/start-din-klage/miljoe-og-foedevareklagenaevnet/",
+    "citat": "Nævnet er øverste klagemyndighed for afgørelser truffet af bl.a. Fødevare-, Fiskeri- og Landbrugsstyrelsen",
+    "genfundet": true,
+    "kontekst": " Fold søgefelt ud Menu Nævnsoversigt Afgørelsesportaler Nævnsoversigt Afgørelsesportaler Kontakt Webinarer Forside Nævnsoversigt Miljø- og Fødevareklagenævnet Miljø- og Fødevareklagenævnet Nævnet behandler klager over afgørelser truffet efter, natur-, miljø-, landbrug-, fiskeri- og fødevareområdet. Nævnet er øverste klagemyndighed for afgørelser truffet af bl.a. Fødevare-, Fiskeri- og Landbrugsstyrelsen, Miljøstyrelsen og kommunerne. Gå til vejledning inden du klager Typiske sager Fødevarer, Landbrug og Fiskeri Projektstøtte Arealstøtte Landbrugslov Krydsoverensstemmelse Fødevarer Veterinærforhold og dyrevelfærd Fiskeri Planter, foder og økologi Miljø Råstofplaner og tilladelser til råstofindvindi"
+   },
+   {
+    "url": "https://www.findsmiley.dk/in-english",
+    "citat": "the inspection results from the recent inspections are made publicly available on findsmiley.dk",
+    "genfundet": true,
+    "kontekst": " dining out or buying food. It provides an easy-to-understand overview of food safety standards in restaurants, cafés, shops, and other food businesses. What is the Smiley Scheme? The Danish Veterinary and Food Agency (DVFA) inspects food businesses registered with the DVFA. With the Smiley Scheme, the inspection results from the recent inspections are made publicly available on findsmiley.dk. In addition, retail businesses - like restaurants, supermarkets and bakeries - are obliged to display their latest smiley label for consumers to see before entering the premises. Find inspections reports online On findsmiley.dk, you can search for food businesses and view their latest inspection r"
+   }
+  ]
+ },
+ {
+  "hvor": "sty-foedevarestyrelsen.url",
+  "paastand": "Fødevarestyrelsen (styrelse, ministerium min-erhverv): url = {\"vaerdi\": \"https://foedevarestyrelsen.dk/\"}",
+  "belaeg": [
+   {
+    "url": "https://foedevarestyrelsen.dk/",
+    "citat": "Fødevarestyrelsen er en styrelse under Erhvervsministeriet.",
+    "genfundet": true,
+    "kontekst": " højst 5 håndfulde snacks og søde sager om ugen. Find ud af, hvad der tæller med og bliv inspireret til sunde vaner i familien. Nyheder Alle nyheder Tilbagekald Se tilbagekaldte fødevarer, foder og produkter i kontakt med fødevarer. Alle tilbagekaldte produkter Seneste tilbagekald Fødevarestyrelsen Fødevarestyrelsen er en styrelse under Erhvervsministeriet. Styrelsen arbejder med hele fødevarekæden fra jord til bord med fokus på dyresundhed og sikker, sund mad. Vi står bag De officielle Kostråd og smileykontroller, som du kender fra cafeer, restauranter og supermarkeder. Kontakt Fødevarestyrelsen Stationsparken 31-33 2600 Glostrup Tlf. 72 2​​​7 69 00"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-foedevareloven.hjemmel",
+  "paastand": "Lov om fødevarer (fødevareloven) (lov, ministerium min-erhverv): hjemmel = {\"tekst\": \"ikke relevant\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/32",
+    "citat": "Bekendtgørelse af lov om fødevarer",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20250003229 DC001820 247638 Bekendtgørelse af lov om fødevarer 2025 2025-01-14 2025-01-16 2026-10-29 Valid 32 Fødevareloven Lovtidende A 2025-01-16 32024L0048 gebyr Nej Nikolaj Veje Birthe Schubart Haabegaard Fødevarestyrelsen Ministeriet for Fødevarer, Landbrug og Fiskeri,\\nFødevarestyrelsen, j.nr. 2024-24-30-00162 Ministeriet for Fødevarer, Landbrug og Fiske"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-foedevareloven.url",
+  "paastand": "Lov om fødevarer (fødevareloven) (lov, ministerium min-erhverv): url = {\"vaerdi\": \"https://www.retsinformation.dk/eli/lta/2025/32\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/32",
+    "citat": "Bekendtgørelse af lov om fødevarer",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20250003229 DC001820 247638 Bekendtgørelse af lov om fødevarer 2025 2025-01-14 2025-01-16 2026-10-29 Valid 32 Fødevareloven Lovtidende A 2025-01-16 32024L0048 gebyr Nej Nikolaj Veje Birthe Schubart Haabegaard Fødevarestyrelsen Ministeriet for Fødevarer, Landbrug og Fiskeri,\\nFødevarestyrelsen, j.nr. 2024-24-30-00162 Ministeriet for Fødevarer, Landbrug og Fiske"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-foedevareloven.identifikatorer",
+  "paastand": "Lov om fødevarer (fødevareloven) (lov, ministerium min-erhverv): identifikatorer = {\"eli\": \"https://www.retsinformation.dk/eli/lta/2025/32\", \"lovtidende\": \"LBK nr. 32 af 14/01/2025\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/32",
+    "citat": "Bekendtgørelse af lov om fødevarer",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20250003229 DC001820 247638 Bekendtgørelse af lov om fødevarer 2025 2025-01-14 2025-01-16 2026-10-29 Valid 32 Fødevareloven Lovtidende A 2025-01-16 32024L0048 gebyr Nej Nikolaj Veje Birthe Schubart Haabegaard Fødevarestyrelsen Ministeriet for Fødevarer, Landbrug og Fiskeri,\\nFødevarestyrelsen, j.nr. 2024-24-30-00162 Ministeriet for Fødevarer, Landbrug og Fiske"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-dyrevelfaerdsloven.hjemmel",
+  "paastand": "Lov om dyrevelfærd (dyrevelfærdsloven) (lov, ministerium min-natur-og-dyrevelfaerd): hjemmel = {\"tekst\": \"ikke relevant\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/994",
+    "citat": "Bekendtgørelse af lov om dyrevelfærd (dyrevelfærdsloven)",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20250099429 DC001934 250853 Bekendtgørelse af lov om dyrevelfærd (dyrevelfærdsloven) 2025 2025-06-30 2025-07-07 2026-03-27 Valid 994 Dyrevelfærdsloven Lovtidende A 2025-07-07 31998L0058 31999L0022 31999L0074 32008L0119 32008L0120 32005R0001 32007R1523 32009R1099 dyrevelfærdskontrol Gris gebyr uddannelse Nej Nikolaj Veje Birthe Schubart Fødevarestyrelsen Ministeriet for Fødevarer, "
+   }
+  ]
+ },
+ {
+  "hvor": "lov-dyrevelfaerdsloven.url",
+  "paastand": "Lov om dyrevelfærd (dyrevelfærdsloven) (lov, ministerium min-natur-og-dyrevelfaerd): url = {\"vaerdi\": \"https://www.retsinformation.dk/eli/lta/2025/994\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/994",
+    "citat": "Bekendtgørelse af lov om dyrevelfærd (dyrevelfærdsloven)",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20250099429 DC001934 250853 Bekendtgørelse af lov om dyrevelfærd (dyrevelfærdsloven) 2025 2025-06-30 2025-07-07 2026-03-27 Valid 994 Dyrevelfærdsloven Lovtidende A 2025-07-07 31998L0058 31999L0022 31999L0074 32008L0119 32008L0120 32005R0001 32007R1523 32009R1099 dyrevelfærdskontrol Gris gebyr uddannelse Nej Nikolaj Veje Birthe Schubart Fødevarestyrelsen Ministeriet for Fødevarer, "
+   }
+  ]
+ },
+ {
+  "hvor": "lov-dyrevelfaerdsloven.identifikatorer",
+  "paastand": "Lov om dyrevelfærd (dyrevelfærdsloven) (lov, ministerium min-natur-og-dyrevelfaerd): identifikatorer = {\"eli\": \"https://www.retsinformation.dk/eli/lta/2025/994\", \"lovtidende\": \"LBK nr. 994 af 30/06/2025\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/994",
+    "citat": "Bekendtgørelse af lov om dyrevelfærd (dyrevelfærdsloven)",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20250099429 DC001934 250853 Bekendtgørelse af lov om dyrevelfærd (dyrevelfærdsloven) 2025 2025-06-30 2025-07-07 2026-03-27 Valid 994 Dyrevelfærdsloven Lovtidende A 2025-07-07 31998L0058 31999L0022 31999L0074 32008L0119 32008L0120 32005R0001 32007R1523 32009R1099 dyrevelfærdskontrol Gris gebyr uddannelse Nej Nikolaj Veje Birthe Schubart Fødevarestyrelsen Ministeriet for Fødevarer, "
+   }
+  ]
+ },
+ {
+  "hvor": "lov-dyrlaegeloven.hjemmel",
+  "paastand": "Lov om dyrlæger (lov, ministerium min-erhverv): hjemmel = {\"tekst\": \"ikke relevant\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/64",
+    "citat": "Bekendtgørelse af lov om dyrlæger",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20240006429 DC001482 241461 Bekendtgørelse af lov om dyrlæger 2024 2024-01-19 2024-01-23 2026-04-15 Valid 64 Dyrlægeloven Lovtidende A 2024-01-23 Nej Nikolaj Veje Birthe Schubart Fødevarestyrelsen Ministeriet for Fødevarer, Landbrug og Fiskeri,\\nFødevarestyrelsen, j.nr. 2024-24-30-00148 Ministeriet for Fødevarer, Landbrug og Fiskeri Fødevarestyrelsen Bekendtg"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-dyrlaegeloven.url",
+  "paastand": "Lov om dyrlæger (lov, ministerium min-erhverv): url = {\"vaerdi\": \"https://www.retsinformation.dk/eli/lta/2024/64\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/64",
+    "citat": "Bekendtgørelse af lov om dyrlæger",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20240006429 DC001482 241461 Bekendtgørelse af lov om dyrlæger 2024 2024-01-19 2024-01-23 2026-04-15 Valid 64 Dyrlægeloven Lovtidende A 2024-01-23 Nej Nikolaj Veje Birthe Schubart Fødevarestyrelsen Ministeriet for Fødevarer, Landbrug og Fiskeri,\\nFødevarestyrelsen, j.nr. 2024-24-30-00148 Ministeriet for Fødevarer, Landbrug og Fiskeri Fødevarestyrelsen Bekendtg"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-dyrlaegeloven.identifikatorer",
+  "paastand": "Lov om dyrlæger (lov, ministerium min-erhverv): identifikatorer = {\"eli\": \"https://www.retsinformation.dk/eli/lta/2024/64\", \"lovtidende\": \"LBK nr. 64 af 19/01/2024\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/64",
+    "citat": "Bekendtgørelse af lov om dyrlæger",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20240006429 DC001482 241461 Bekendtgørelse af lov om dyrlæger 2024 2024-01-19 2024-01-23 2026-04-15 Valid 64 Dyrlægeloven Lovtidende A 2024-01-23 Nej Nikolaj Veje Birthe Schubart Fødevarestyrelsen Ministeriet for Fødevarer, Landbrug og Fiskeri,\\nFødevarestyrelsen, j.nr. 2024-24-30-00148 Ministeriet for Fødevarer, Landbrug og Fiskeri Fødevarestyrelsen Bekendtg"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-dyreforsoegsloven.hjemmel",
+  "paastand": "Lov om dyreforsøg (lov, ministerium min-natur-og-dyrevelfaerd): hjemmel = {\"tekst\": \"ikke relevant\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/63",
+    "citat": "Bekendtgørelse af lov om dyreforsøg",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20240006329 DC001481 241458 Bekendtgørelse af lov om dyreforsøg 2024 2024-01-19 2024-01-23 2024-10-05 Valid 63 Dyreforsøgsloven Lovtidende A 2024-10-05 32010L0063 Nej Nikolaj Veje Birthe Schubart Fødevarestyrelsen Ministeriet for Fødevarer, Landbrug og Fiskeri,\\nFødevarestyrelsen, j.nr. 2024-24-30-00148 Ministeriet for Fødevarer, Landbrug og Fiskeri Fødevaresty"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-dyreforsoegsloven.url",
+  "paastand": "Lov om dyreforsøg (lov, ministerium min-natur-og-dyrevelfaerd): url = {\"vaerdi\": \"https://www.retsinformation.dk/eli/lta/2024/63\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/63",
+    "citat": "Bekendtgørelse af lov om dyreforsøg",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20240006329 DC001481 241458 Bekendtgørelse af lov om dyreforsøg 2024 2024-01-19 2024-01-23 2024-10-05 Valid 63 Dyreforsøgsloven Lovtidende A 2024-10-05 32010L0063 Nej Nikolaj Veje Birthe Schubart Fødevarestyrelsen Ministeriet for Fødevarer, Landbrug og Fiskeri,\\nFødevarestyrelsen, j.nr. 2024-24-30-00148 Ministeriet for Fødevarer, Landbrug og Fiskeri Fødevaresty"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-dyreforsoegsloven.identifikatorer",
+  "paastand": "Lov om dyreforsøg (lov, ministerium min-natur-og-dyrevelfaerd): identifikatorer = {\"eli\": \"https://www.retsinformation.dk/eli/lta/2024/63\", \"lovtidende\": \"LBK nr. 63 af 19/01/2024\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/63",
+    "citat": "Bekendtgørelse af lov om dyreforsøg",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20240006329 DC001481 241458 Bekendtgørelse af lov om dyreforsøg 2024 2024-01-19 2024-01-23 2024-10-05 Valid 63 Dyreforsøgsloven Lovtidende A 2024-10-05 32010L0063 Nej Nikolaj Veje Birthe Schubart Fødevarestyrelsen Ministeriet for Fødevarer, Landbrug og Fiskeri,\\nFødevarestyrelsen, j.nr. 2024-24-30-00148 Ministeriet for Fødevarer, Landbrug og Fiskeri Fødevaresty"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-fiskeriloven.hjemmel",
+  "paastand": "Lov om fiskeri og fiskeopdræt (fiskeriloven) (lov, ministerium min-miljoe): hjemmel = {\"tekst\": \"ikke relevant\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/205",
+    "citat": "Bekendtgørelse af lov om fiskeri og fiskeopdræt (fiskeriloven)",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20230020529 DC000928 234837 Bekendtgørelse af lov om fiskeri og fiskeopdræt (fiskeriloven) 2023 2023-03-01 2023-03-02 2026-10-30 Valid 205 Fiskeriloven Lovtidende A 2023-03-02 32004L0035 31979L0409 31992L0043 A20240033330 2024-04-09 Lov om ændring af chokoladeafgiftsloven, kildeskatteloven og forskellige andre love (Godtgørelse af dækningsafgift i chokoladeafgiftsloven, præcisering af k"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-fiskeriloven.url",
+  "paastand": "Lov om fiskeri og fiskeopdræt (fiskeriloven) (lov, ministerium min-miljoe): url = {\"vaerdi\": \"https://www.retsinformation.dk/eli/lta/2023/205\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/205",
+    "citat": "Bekendtgørelse af lov om fiskeri og fiskeopdræt (fiskeriloven)",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20230020529 DC000928 234837 Bekendtgørelse af lov om fiskeri og fiskeopdræt (fiskeriloven) 2023 2023-03-01 2023-03-02 2026-10-30 Valid 205 Fiskeriloven Lovtidende A 2023-03-02 32004L0035 31979L0409 31992L0043 A20240033330 2024-04-09 Lov om ændring af chokoladeafgiftsloven, kildeskatteloven og forskellige andre love (Godtgørelse af dækningsafgift i chokoladeafgiftsloven, præcisering af k"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-fiskeriloven.identifikatorer",
+  "paastand": "Lov om fiskeri og fiskeopdræt (fiskeriloven) (lov, ministerium min-miljoe): identifikatorer = {\"eli\": \"https://www.retsinformation.dk/eli/lta/2023/205\", \"lovtidende\": \"LBK nr. 205 af 01/03/2023\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/205",
+    "citat": "Bekendtgørelse af lov om fiskeri og fiskeopdræt (fiskeriloven)",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20230020529 DC000928 234837 Bekendtgørelse af lov om fiskeri og fiskeopdræt (fiskeriloven) 2023 2023-03-01 2023-03-02 2026-10-30 Valid 205 Fiskeriloven Lovtidende A 2023-03-02 32004L0035 31979L0409 31992L0043 A20240033330 2024-04-09 Lov om ændring af chokoladeafgiftsloven, kildeskatteloven og forskellige andre love (Godtgørelse af dækningsafgift i chokoladeafgiftsloven, præcisering af k"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-landbrugsstoetteloven.hjemmel",
+  "paastand": "Lov om administration af EU-forordninger om den fælles landbrugspolitik (landbrugsstøtteloven) (lov, ministerium min-natur-og-dyrevelfaerd): hjemmel = {\"tekst\": \"ikke relevant\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2020/115",
+    "citat": "(landbrugsstøtteloven)",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20200011529 CK002380 212807 Bekendtgørelse af lov om administration af Det Europæiske Fællesskabs forordninger om ordninger under Den Fælles Landbrugspolitik finansieret af Den Europæiske Garantifond for Landbruget m.v. (landbrugsstøtteloven) 2020 2020-02-06 2020-02-07 2026-06-30 Valid 115 Landbrugsstøtteloven Lovtidende A 2020-02-07 Nej Jette Petersen Dorthe Nielsen Landbrugsstyrelsen Miljø- og Fødevaremin.,\\nLandbrugsstyrelsen, j.nr. 20-010-000006 Ministeriet for Fødevarer, Landbrug og Fiskeri Landbrugsstyrelsen Bekendtgørelse af lov"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-landbrugsstoetteloven.url",
+  "paastand": "Lov om administration af EU-forordninger om den fælles landbrugspolitik (landbrugsstøtteloven) (lov, ministerium min-natur-og-dyrevelfaerd): url = {\"vaerdi\": \"https://www.retsinformation.dk/eli/lta/2020/115\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2020/115",
+    "citat": "(landbrugsstøtteloven)",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20200011529 CK002380 212807 Bekendtgørelse af lov om administration af Det Europæiske Fællesskabs forordninger om ordninger under Den Fælles Landbrugspolitik finansieret af Den Europæiske Garantifond for Landbruget m.v. (landbrugsstøtteloven) 2020 2020-02-06 2020-02-07 2026-06-30 Valid 115 Landbrugsstøtteloven Lovtidende A 2020-02-07 Nej Jette Petersen Dorthe Nielsen Landbrugsstyrelsen Miljø- og Fødevaremin.,\\nLandbrugsstyrelsen, j.nr. 20-010-000006 Ministeriet for Fødevarer, Landbrug og Fiskeri Landbrugsstyrelsen Bekendtgørelse af lov"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-landbrugsstoetteloven.identifikatorer",
+  "paastand": "Lov om administration af EU-forordninger om den fælles landbrugspolitik (landbrugsstøtteloven) (lov, ministerium min-natur-og-dyrevelfaerd): identifikatorer = {\"eli\": \"https://www.retsinformation.dk/eli/lta/2020/115\", \"lovtidende\": \"LBK nr. 115 af 06/02/2020\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2020/115",
+    "citat": "(landbrugsstøtteloven)",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20200011529 CK002380 212807 Bekendtgørelse af lov om administration af Det Europæiske Fællesskabs forordninger om ordninger under Den Fælles Landbrugspolitik finansieret af Den Europæiske Garantifond for Landbruget m.v. (landbrugsstøtteloven) 2020 2020-02-06 2020-02-07 2026-06-30 Valid 115 Landbrugsstøtteloven Lovtidende A 2020-02-07 Nej Jette Petersen Dorthe Nielsen Landbrugsstyrelsen Miljø- og Fødevaremin.,\\nLandbrugsstyrelsen, j.nr. 20-010-000006 Ministeriet for Fødevarer, Landbrug og Fiskeri Landbrugsstyrelsen Bekendtgørelse af lov"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-landbrugsejendomme.hjemmel",
+  "paastand": "Lov om landbrugsejendomme (lov, ministerium min-natur-og-dyrevelfaerd): hjemmel = {\"tekst\": \"ikke relevant\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2020/116",
+    "citat": "Bekendtgørelse af lov om landbrugsejendomme",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20200011629 CK002381 212808 Bekendtgørelse af lov om landbrugsejendomme 2020 2020-02-06 2020-02-07 2026-10-20 Valid 116 Landbrugsloven Lovtidende A 2020-02-07 A20250176130 2025-12-29 Lov om ændring af sundhedsloven og forskellige andre love (Flytning af opgaver fra kommuner til regioner, hjemmel vedrørende kvalitetsstandarder, etablering af sundheds- og omsorgspladser,"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-landbrugsejendomme.url",
+  "paastand": "Lov om landbrugsejendomme (lov, ministerium min-natur-og-dyrevelfaerd): url = {\"vaerdi\": \"https://www.retsinformation.dk/eli/lta/2020/116\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2020/116",
+    "citat": "Bekendtgørelse af lov om landbrugsejendomme",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20200011629 CK002381 212808 Bekendtgørelse af lov om landbrugsejendomme 2020 2020-02-06 2020-02-07 2026-10-20 Valid 116 Landbrugsloven Lovtidende A 2020-02-07 A20250176130 2025-12-29 Lov om ændring af sundhedsloven og forskellige andre love (Flytning af opgaver fra kommuner til regioner, hjemmel vedrørende kvalitetsstandarder, etablering af sundheds- og omsorgspladser,"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-landbrugsejendomme.identifikatorer",
+  "paastand": "Lov om landbrugsejendomme (lov, ministerium min-natur-og-dyrevelfaerd): identifikatorer = {\"eli\": \"https://www.retsinformation.dk/eli/lta/2020/116\", \"lovtidende\": \"LBK nr. 116 af 06/02/2020\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2020/116",
+    "citat": "Bekendtgørelse af lov om landbrugsejendomme",
+    "genfundet": true,
+    "kontekst": "LBK H#LOKDOK03 A A20200011629 CK002381 212808 Bekendtgørelse af lov om landbrugsejendomme 2020 2020-02-06 2020-02-07 2026-10-20 Valid 116 Landbrugsloven Lovtidende A 2020-02-07 A20250176130 2025-12-29 Lov om ændring af sundhedsloven og forskellige andre love (Flytning af opgaver fra kommuner til regioner, hjemmel vedrørende kvalitetsstandarder, etablering af sundheds- og omsorgspladser,"
+   }
+  ]
+ },
+ {
+  "hvor": "raad-det-veterinaere-sundhedsraad.hjemmel",
+  "paastand": "Det Veterinære Sundhedsråd (råd, ministerium min-erhverv): hjemmel = {\"tekst\": \"Dyrlægelovens § 28, stk. 2: rådet nedsættes af ministeren; § 29, stk. 1: rådet afgiver veterinærfaglige udtalelser og udtalelser vedrørende hold af særlige dyr.\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/64",
+    "citat": "Rådet nedsættes af ministeren for fødevarer, landbrug og fiskeri.",
+    "genfundet": true,
+    "kontekst": "skeri udsender meddelelse om fratagelse, frakendelse, fraskrivelse eller generhvervelse af autorisationen eller en eller flere rettigheder, jf. § 18, § 19, stk. 5, og §§ 20, 21, 23, 24 og 26. Kapitel 7 Det Veterinære Sundhedsråd § 28. Det Veterinære Sundhedsråd består af mindst 5 medlemmer. Stk. 2. Rådet nedsættes af ministeren for fødevarer, landbrug og fiskeri. Ministeren skal ved sammensætningen af rådet så vidt muligt sikre, at der blandt rådets medlemmer er personer med indsigt i de faglige discipliner, der er af særlig betydning for løsning af de opgaver, der er henlagt til rådet. Ministeren udpeger blandt rådets medlemmer en formand og en næstforman",
+    "paragraf": "§ 28"
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/64",
+    "citat": "Det Veterinære Sundhedsråd afgiver veterinærfaglige udtalelser og udtalelser vedrørende hold af særlige dyr",
+    "genfundet": true,
+    "kontekst": "løsning af de opgaver, der er henlagt til rådet. Ministeren udpeger blandt rådets medlemmer en formand og en næstformand. Stk. 3. Ministeren fastsætter regler om rådets virksomhed. Stk. 4. Ministeren fastsætter regler om oprettelse af et rådssekretariat og om sammensætningen og driften heraf. § 29. Det Veterinære Sundhedsråd afgiver veterinærfaglige udtalelser og udtalelser vedrørende hold af særlige dyr i sager, der forelægges rådet af ministeren for fødevarer, fiskeri og ligestilling. Ministeren kan fastsætte regler om, hvilke myndigheder der over for rådet kan fremsætte begæring om en udtalelse fra rådet, og i hvilke sager dette kan ske. Stk. 2. Rådet skal på begæring af de i stk. 1 nævnte myndi",
+    "paragraf": "§ 29"
+   }
+  ]
+ },
+ {
+  "hvor": "raad-det-veterinaere-sundhedsraad.dokumenttyper",
+  "paastand": "Det Veterinære Sundhedsråd (råd, ministerium min-erhverv): dokumenttyper = {\"liste\": [{\"type\": \"udtalelse\", \"bindende\": \"vejledende\", \"note\": \"veterinærfaglige udtalelser; også til politi og anklagemyndighed i straffesager\"}]}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/1711",
+    "citat": "Det Veterinære Sundhedsråd er et uafhængigt og uvildigt organ.",
+    "genfundet": true,
+    "kontekst": "132 Ministeriet for Fødevarer, Landbrug og Fiskeri Fødevarestyrelsen Bekendtgørelse om forretningsorden for Det Veterinære Sundhedsråd I medfør af § 28, stk. 3 og 4, og § 29, stk. 1, i lov om dyrlæger, jf. lovbekendtgørelse nr. 1149 af 12. september 2015, fastsættes: Det Veterinære Sundhedsråd § 1. Det Veterinære Sundhedsråd er et uafhængigt og uvildigt organ. § 2. Det Veterinære Sundhedsråd består af 6 medlemmer, der har en veterinærvidenskabelig uddannelse. Medlemmerne udnævnes af miljø- og fødevareministeren for 4 år ad gangen. Genudnævnelse kan finde sted. Stk. 2. Københavns Universitet indstiller 4 medlemmer, heraf 3 medlemmer med forskningsbaseret",
+    "paragraf": "§ 1"
+   }
+  ]
+ },
+ {
+  "hvor": "raad-det-veterinaere-sundhedsraad.identifikatorer",
+  "paastand": "Det Veterinære Sundhedsråd (råd, ministerium min-erhverv): identifikatorer = {\"andet\": \"Forretningsorden: BEK nr. 1711 af 15/12/2015 (udstedt efter dyrlægeloven § 28, stk. 3 og 4 og § 29, stk. 1).\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/1711",
+    "citat": "Bekendtgørelse om forretningsorden for Det Veterinære Sundhedsråd",
+    "genfundet": true,
+    "kontekst": "BEK H#LOKDOK04 B B20150171105 CK000153 174905 Bekendtgørelse om forretningsorden for Det Veterinære Sundhedsråd 2015 2015-12-15 2015-12-22 2024-01-24 Valid 1711 Lovtidende A 2015-12-22 A20240006429 2024-01-19 Bekendtgørelse af lov om dyrlæger Nej Eva Kjer Hansen Charlotte Røgild Knudsen Miljø- og Fødevareministeriet Miljø- og Fødevaremin.,\\nFødevarestyrelsen, j.nr, 2015-32-31-00132 Ministeriet for Fødevarer,"
+   }
+  ]
+ },
+ {
+  "hvor": "raad-det-dyreetiske-raad.hjemmel",
+  "paastand": "Det Dyreetiske Råd (råd, ministerium min-natur-og-dyrevelfaerd): hjemmel = {\"tekst\": \"Dyrevelfærdslovens § 38, stk. 1: ministeren nedsætter et råd, der ud fra en etisk vurdering følger udviklingen inden for dyrevelfærd og kan afgive udtalelser.\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/994",
+    "citat": "nedsætter et råd, der ud fra en etisk vurdering skal følge udviklingen inden for dyrevelfærd",
+    "genfundet": true,
+    "kontekst": "øring og kontrol af logbog. Stk. 7. Ministeren kan fastsætte krav om dokumentation og ledsagedokumenter, herunder forevisning på forlangende, oplysningspligt og registrering og opbevaring af dokumenter og oplysninger. Kapitel 12 Det Dyreetiske Råd § 38. Ministeren for fødevarer, landbrug og fiskeri nedsætter et råd, der ud fra en etisk vurdering skal følge udviklingen inden for dyrevelfærd. Rådet kan afgive udtalelser om spørgsmål inden for dyrevelfærd og dyreetik. Rådet skal endvidere på ministerens begæring afgive udtalelse om særlige spørgsmål vedrørende lovgivningen om dyrevelfærd og dyreetik, herunder rådgive ministeren i forbindelse med fastsættelsen af regler efter denne lov. ",
+    "paragraf": "§ 38"
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/994",
+    "citat": "Rådet kan afgive udtalelser om spørgsmål inden for dyrevelfærd og dyreetik",
+    "genfundet": true,
+    "kontekst": "okumenter, herunder forevisning på forlangende, oplysningspligt og registrering og opbevaring af dokumenter og oplysninger. Kapitel 12 Det Dyreetiske Råd § 38. Ministeren for fødevarer, landbrug og fiskeri nedsætter et råd, der ud fra en etisk vurdering skal følge udviklingen inden for dyrevelfærd. Rådet kan afgive udtalelser om spørgsmål inden for dyrevelfærd og dyreetik. Rådet skal endvidere på ministerens begæring afgive udtalelse om særlige spørgsmål vedrørende lovgivningen om dyrevelfærd og dyreetik, herunder rådgive ministeren i forbindelse med fastsættelsen af regler efter denne lov. Stk. 2. Rådet varetager på eget initiativ eller på ministerens begæring info",
+    "paragraf": "§ 38"
+   }
+  ]
+ },
+ {
+  "hvor": "raad-det-dyreetiske-raad.dokumenttyper",
+  "paastand": "Det Dyreetiske Råd (råd, ministerium min-natur-og-dyrevelfaerd): dokumenttyper = {\"liste\": [{\"type\": \"udtalelse\", \"bindende\": \"vejledende\", \"note\": \"udtalelser og høringssvar\"}]}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/1260",
+    "citat": "Rådet afgiver ligeledes høringssvar indenfor rådets arbejdsområde.",
+    "genfundet": true,
+    "kontekst": "rn. Rådet skal endvidere på begæring af miljø- og fødevareministeren afgive udtalelse om særlige spørgsmål vedrørende lovgivningen om dyreværn. Stk. 2. Rådet varetager på eget initiativ eller på ministerens begæring informations- og debatskabende aktiviteter inden for sit virksomhedsområde. Stk. 3. Rådet afgiver ligeledes høringssvar indenfor rådets arbejdsområde. § 3. Det Dyreetiske Råd afholder mindst 3 møder årligt. Stk. 2. Formanden indkalder til møder i rådet. Dagsorden udsendes som udgangspunkt med mindst 5 hverdages varsel. Referatet fra seneste møde udsendes sammen med dagsorden for næste møde. I ekstraordinære tilfælde kan der udsendes ændret dagso",
+    "paragraf": "§ 2"
+   }
+  ]
+ },
+ {
+  "hvor": "raad-det-dyreetiske-raad.identifikatorer",
+  "paastand": "Det Dyreetiske Råd (råd, ministerium min-natur-og-dyrevelfaerd): identifikatorer = {\"andet\": \"Forretningsorden: BEK nr. 1260 af 16/11/2015, udstedt efter dyreværnsloven (nu afløst af dyrevelfærdsloven).\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/1260",
+    "citat": "Bekendtgørelse om forretningsorden for Det Dyreetiske Råd",
+    "genfundet": true,
+    "kontekst": "BEK H#LOKDOK04 B B20150126005 CK000129 174748 Bekendtgørelse om forretningsorden for Det Dyreetiske Råd 2015 2015-11-16 2015-11-19 2025-07-08 Valid 1260 Lovtidende A 2015-11-19 A20250099429 2025-06-30 Bekendtgørelse af lov om dyrevelfærd (dyrevelfærdsloven) Nej Eva Kjer Hansen Cecilie Heerdegen Leth Miljø- og Fødevareministeriet Miljø- og Fødevaremin.,\\nFødevarestyrelsen, j.nr. 2015-32-31-00164 Minis"
+   }
+  ]
+ },
+ {
+  "hvor": "tilsyn-dyreforsoegstilsynet.hjemmel",
+  "paastand": "Dyreforsøgstilsynet og Rådet for Dyreforsøg (tilsyn, ministerium min-natur-og-dyrevelfaerd): hjemmel = {\"tekst\": \"Dyreforsøgslovens § 10, stk. 1: Dyreforsøgstilsynet ledes af Rådet for Dyreforsøg; § 1, stk. 1: forsøg kræver tilladelse fra Dyreforsøgstilsynet; § 13: afgørelser kan ikke indbringes for anden administrativ myndighed.\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/63",
+    "citat": "Dyreforsøgstilsynet ledes af Rådet for Dyreforsøg, der består af en formand, der skal være dommer, og 10 andre medlemmer.",
+    "genfundet": true,
+    "kontekst": "ler tilladelsens indehaver, medmindre anden beslutning er truffet efter § 2, stk. 3. Det kan i reglerne bestemmes, at journal skal føres på edb. Stk. 2. Den, der foretager dyreforsøg, skal endvidere efter tilsynets anmodning give nærmere oplysninger om forsøgene. Kapitel 3 Dyreforsøgstilsynet § 10. Dyreforsøgstilsynet ledes af Rådet for Dyreforsøg, der består af en formand, der skal være dommer, og 10 andre medlemmer. Stk. 2. Ministeren for fødevarer, landbrug og fiskeri udpeger rådets formand og de øvrige medlemmer. Èt medlem udpeges efter udtalelse fra Forskningsrådet for Sundhed og Sygdom, ét medlem efter udtalelse fra Forskningsrådet for Teknologi og Produktion, ét medlem efter udtalelse fra Sundhedsstyrels",
+    "paragraf": "§ 10"
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/63",
+    "citat": "må kun ske med tilladelse fra Dyreforsøgstilsynet.",
+    "genfundet": true,
+    "kontekst": " ændringer, der følger af § 4 i lov nr. 1547 af 12. december 2023. Kapitel 1 Dyreforsøg § 1. Anvendelse af levende ikkemenneskelige hvirveldyr, herunder larveformer, der ernærer sig selv, og fostre af pattedyr i den sidste tredjedel af deres normale udvikling, og levende blæksprutter til dyreforsøg må kun ske med tilladelse fra Dyreforsøgstilsynet. Tilsvarende gælder for anvendelse af levende ikkemenneskelige hvirveldyr, herunder fostre af pattedyr og larveformer til forsøg, hvis dyret befinder sig på et tidligere udviklingsstadium end anført i 1. pkt. og får lov at leve videre efter dette udviklingsstadium og det er sandsynligt, at dyret so",
+    "paragraf": "§ 1"
+   }
+  ]
+ },
+ {
+  "hvor": "tilsyn-dyreforsoegstilsynet.dokumenttyper",
+  "paastand": "Dyreforsøgstilsynet og Rådet for Dyreforsøg (tilsyn, ministerium min-natur-og-dyrevelfaerd): dokumenttyper = {\"liste\": [{\"type\": \"tilladelse\", \"bindende\": \"bindende\", \"note\": \"tilladelse til dyreforsøg og godkendelse af virksomheder\"}, {\"type\": \"påbud\", \"bindende\": \"bindende\"}]}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/63",
+    "citat": "skal godkendes og registreres af Dyreforsøgstilsynet.",
+    "genfundet": true,
+    "kontekst": "n, og 3) er ansvarlig for at sikre, at personalet, der omgås dyrene, er tilstrækkeligt uddannet og kompetent og til stadighed trænes, og at der føres tilsyn med personalet, indtil det besidder de nødvendige kompetencer. § 1 c. En virksomhed eller institution, hvor der ønskes anvendt dyr til forsøg, skal godkendes og registreres af Dyreforsøgstilsynet. Godkendelsen kan gives for en begrænset periode. Hvis der sker betydelig ændring af virksomhedens eller institutionens struktur eller drift, der kan indvirke negativt på dyrenes velfærd, skal godkendelsen fornyes efter ansøgning fra virksomheden eller institutionen. 3) § 1 c finder anvendelse fra ",
+    "paragraf": "§ 1 c"
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/63",
+    "citat": "give påbud om forsøgenes udførelse",
+    "genfundet": true,
+    "kontekst": "brug for tilsynet. Der kan i forbindelse med tilsynet foretages demonstration af det tilladte forsøg. Stk. 2. Den, der leder forsøgene, og personer, der er beskæftiget med forsøgene eller med dyrenes pasning, skal yde tilsynsmyndigheden vejledning og hjælp under tilsyn efter stk. 1. § 12. Rådet kan give påbud om forsøgenes udførelse, dyrenes anvendelse, opstaldning og pasning og forsøgslokalernes indretning. Rådet kan endvidere påbyde, at forsøg ikke må udføres, medmindre repræsentanter for rådet er til stede. 1. og 2. punktum finder anvendelse, uanset hvilke vilkår der er givet for tilladelsen. § 13. Dyreforsøgstilsynets afgø",
+    "paragraf": "§ 12"
+   }
+  ]
+ },
+ {
+  "hvor": "tilsyn-dyreforsoegstilsynet.identifikatorer",
+  "paastand": "Dyreforsøgstilsynet og Rådet for Dyreforsøg (tilsyn, ministerium min-natur-og-dyrevelfaerd): identifikatorer = {\"andet\": \"Forretningsorden for Rådet for Dyreforsøg: BEK nr. 82 af 29/01/2013.\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2013/82",
+    "citat": "Bekendtgørelse om forretningsorden for Rådet for Dyreforsøg",
+    "genfundet": true,
+    "kontekst": "BEK H#LOKDOK04 B B20130008205 AH004831 145224 Bekendtgørelse om forretningsorden for Rådet for Dyreforsøg 2013 2013-01-29 2013-01-31 2024-01-24 Valid 82 Lovtidende A 2013-01-31 A20240006329 2024-01-19 Bekendtgørelse af lov om dyreforsøg forretningsorden rådet dyreforsøg dyreforsøgstilsynet Nej Mette Gjerskov Tanja Andersen Ministeriet for Fødevarer, Landbrug og Fiskeri Fødevaremin.,\\nFødevarestyrelsen,"
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-findsmiley.dokumenttyper",
+  "paastand": "Find Smiley (fødevarekontrollens kontrolrapporter) (dokumentkilde, ministerium min-erhverv): dokumenttyper = {\"liste\": [{\"type\": \"kontrolrapport\", \"bindende\": \"ukendt\", \"note\": \"kontrolresultater og smiley for fødevarevirksomheder\"}]}",
+  "belaeg": [
+   {
+    "url": "https://www.findsmiley.dk/in-english",
+    "citat": "the inspection results from the recent inspections are made publicly available on findsmiley.dk",
+    "genfundet": true,
+    "kontekst": " dining out or buying food. It provides an easy-to-understand overview of food safety standards in restaurants, cafés, shops, and other food businesses. What is the Smiley Scheme? The Danish Veterinary and Food Agency (DVFA) inspects food businesses registered with the DVFA. With the Smiley Scheme, the inspection results from the recent inspections are made publicly available on findsmiley.dk. In addition, retail businesses - like restaurants, supermarkets and bakeries - are obliged to display their latest smiley label for consumers to see before entering the premises. Find inspections reports online On findsmiley.dk, you can search for food businesses and view their latest inspection r"
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-findsmiley.url",
+  "paastand": "Find Smiley (fødevarekontrollens kontrolrapporter) (dokumentkilde, ministerium min-erhverv): url = {\"vaerdi\": \"https://www.findsmiley.dk/\"}",
+  "belaeg": [
+   {
+    "url": "https://www.findsmiley.dk/in-english",
+    "citat": "the inspection results from the recent inspections are made publicly available on findsmiley.dk",
+    "genfundet": true,
+    "kontekst": " dining out or buying food. It provides an easy-to-understand overview of food safety standards in restaurants, cafés, shops, and other food businesses. What is the Smiley Scheme? The Danish Veterinary and Food Agency (DVFA) inspects food businesses registered with the DVFA. With the Smiley Scheme, the inspection results from the recent inspections are made publicly available on findsmiley.dk. In addition, retail businesses - like restaurants, supermarkets and bakeries - are obliged to display their latest smiley label for consumers to see before entering the premises. Find inspections reports online On findsmiley.dk, you can search for food businesses and view their latest inspection r"
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-findsmiley.adgang",
+  "paastand": "Find Smiley (fødevarekontrollens kontrolrapporter) (dokumentkilde, ministerium min-erhverv): adgang = {\"vaerdier\": [\"HTML\"], \"note\": \"Søgeside for fødevarevirksomheder. Menupunktet 'Hent Smiley-data' er set, men dets indhold og format er ikke åbnet.\"}",
+  "belaeg": [
+   {
+    "url": "https://www.findsmiley.dk/in-english",
+    "citat": "their latest inspection results",
+    "genfundet": true,
+    "kontekst": "vailable on findsmiley.dk. In addition, retail businesses - like restaurants, supermarkets and bakeries - are obliged to display their latest smiley label for consumers to see before entering the premises. Find inspections reports online On findsmiley.dk, you can search for food businesses and view their latest inspection results, previous reports, and additional details about their compliance history. Why it matters The scheme increases transparency and trust by: Making inspection results easily accessible Helping consumers compare food businesses Encouraging companies to maintain high food safety standards Kontakt Fødevar"
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|sty-foedevarestyrelsen",
+  "belaeg": [
+   {
+    "url": "https://foedevarestyrelsen.dk/nyheder/webnyheder/2026/jul/fvst",
+    "citat": "Hovedparten af fødevare- og veterinærområdet videreføres i Erhvervsministeriet som Fødevarestyrelsen.",
+    "genfundet": true,
+    "kontekst": "isering Ressortomlægning er trådt i kraft: Fødevarestyrelsen videreføres i Erhvervsministeriet 08-07-2026 Webnyhed Fra den 6. juli 2026 er ressortomlægningen af Styrelsen for Fødevarer, Landbrug og Fiskeri trådt i kraft. Det betyder, at styrelsens opgaver fremover er fordelt på fem ministerområder. Hovedparten af fødevare- og veterinærområdet videreføres i Erhvervsministeriet som Fødevarestyrelsen. Opgaver vedrørende dyrevelfærd er overført til Ministeriet for Natur og Dyrevelfærd, kontrol af dyrevelfærd til Justitsministeriet, Fiskeriområdet til Miljøministeriet samt opgaver vedr. udbetaling af minkerstatninger til By-, Land- og Transportministeriet. Ressortomlægningen ændrer ikke ved den f"
+   }
+  ],
+  "paastand": "min-erhverv —ressortansvar→ Fødevarestyrelsen: Fødevare- og veterinærområdet fortsætter i Erhvervsministeriet som Fødevarestyrelsen efter ressortomlægningen 6/7/2026."
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-foedevareloven",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/514",
+    "citat": "til Erhvervsministeriet: ressortansvaret for sager vedrørende fødevaresikkerhed",
+    "genfundet": true,
+    "kontekst": "ministeriet under ledelse af udenrigsministeren og på dennes ansvar. § 2. Ministeriet for Fødevarer, Landbrug og Fiskeri nedlægges, således at de til dette ministerium hørende forretninger overføres til Ministeriet for Grøn Trepart, dog således at følgende sagsområder overføres på følgende måde: 1) til Erhvervsministeriet: ressortansvaret for sager vedrørende fødevaresikkerhed, føde-varesundhed og fødevareforsyning samt fonden for plantebaserede fødevarer, 2) til Justitsministeriet: ressortansvaret for sager vedrørende kontrol med overholdelse af reglerne i dyrevelfærdsloven, 3) til Transportministeriet: ressortansvaret for sager vedrørende erstatning og kompensation til",
+    "paragraf": "§ 2"
+   }
+  ],
+  "paastand": "min-erhverv —ressortansvar→ Lov om fødevarer (fødevareloven): BEK 514/2026 § 2, nr. 1: ressortansvaret for fødevaresikkerhed, fødevaresundhed og fødevareforsyning overført til Erhvervsministeriet."
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-dyrlaegeloven",
+  "belaeg": [
+   {
+    "url": "https://foedevarestyrelsen.dk/nyheder/webnyheder/2026/jul/fvst",
+    "citat": "Hovedparten af fødevare- og veterinærområdet videreføres i Erhvervsministeriet som Fødevarestyrelsen.",
+    "genfundet": true,
+    "kontekst": "isering Ressortomlægning er trådt i kraft: Fødevarestyrelsen videreføres i Erhvervsministeriet 08-07-2026 Webnyhed Fra den 6. juli 2026 er ressortomlægningen af Styrelsen for Fødevarer, Landbrug og Fiskeri trådt i kraft. Det betyder, at styrelsens opgaver fremover er fordelt på fem ministerområder. Hovedparten af fødevare- og veterinærområdet videreføres i Erhvervsministeriet som Fødevarestyrelsen. Opgaver vedrørende dyrevelfærd er overført til Ministeriet for Natur og Dyrevelfærd, kontrol af dyrevelfærd til Justitsministeriet, Fiskeriområdet til Miljøministeriet samt opgaver vedr. udbetaling af minkerstatninger til By-, Land- og Transportministeriet. Ressortomlægningen ændrer ikke ved den f"
+   }
+  ],
+  "paastand": "min-erhverv —ressortansvar→ Lov om dyrlæger: Veterinærområdet videreføres i Erhvervsministeriet."
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|raad-det-veterinaere-sundhedsraad",
+  "belaeg": [
+   {
+    "url": "https://foedevarestyrelsen.dk/nyheder/webnyheder/2026/jul/fvst",
+    "citat": "Hovedparten af fødevare- og veterinærområdet videreføres i Erhvervsministeriet som Fødevarestyrelsen.",
+    "genfundet": true,
+    "kontekst": "isering Ressortomlægning er trådt i kraft: Fødevarestyrelsen videreføres i Erhvervsministeriet 08-07-2026 Webnyhed Fra den 6. juli 2026 er ressortomlægningen af Styrelsen for Fødevarer, Landbrug og Fiskeri trådt i kraft. Det betyder, at styrelsens opgaver fremover er fordelt på fem ministerområder. Hovedparten af fødevare- og veterinærområdet videreføres i Erhvervsministeriet som Fødevarestyrelsen. Opgaver vedrørende dyrevelfærd er overført til Ministeriet for Natur og Dyrevelfærd, kontrol af dyrevelfærd til Justitsministeriet, Fiskeriområdet til Miljøministeriet samt opgaver vedr. udbetaling af minkerstatninger til By-, Land- og Transportministeriet. Ressortomlægningen ændrer ikke ved den f"
+   }
+  ],
+  "paastand": "min-erhverv —ressortansvar→ Det Veterinære Sundhedsråd: Rådet hører under det veterinære område, der ligger i Erhvervsministeriet (antagelse udledt af områdets placering)."
+ },
+ {
+  "hvor": "kant min-natur-og-dyrevelfaerd|ressortansvar|lov-dyrevelfaerdsloven",
+  "belaeg": [
+   {
+    "url": "https://foedevarestyrelsen.dk/nyheder/webnyheder/2026/jul/fvst",
+    "citat": "Opgaver vedrørende dyrevelfærd er overført til Ministeriet for Natur og Dyrevelfærd",
+    "genfundet": true,
+    "kontekst": "026 Webnyhed Fra den 6. juli 2026 er ressortomlægningen af Styrelsen for Fødevarer, Landbrug og Fiskeri trådt i kraft. Det betyder, at styrelsens opgaver fremover er fordelt på fem ministerområder. Hovedparten af fødevare- og veterinærområdet videreføres i Erhvervsministeriet som Fødevarestyrelsen. Opgaver vedrørende dyrevelfærd er overført til Ministeriet for Natur og Dyrevelfærd, kontrol af dyrevelfærd til Justitsministeriet, Fiskeriområdet til Miljøministeriet samt opgaver vedr. udbetaling af minkerstatninger til By-, Land- og Transportministeriet. Ressortomlægningen ændrer ikke ved den fortsatte opgaveløsning. Borgere, virksomheder og samarbejdspartnere kan fortsat benyt"
+   }
+  ],
+  "paastand": "min-natur-og-dyrevelfaerd —ressortansvar→ Lov om dyrevelfærd (dyrevelfærdsloven): Dyrevelfærd er overført til Ministeriet for Natur og Dyrevelfærd; kontrollen med loven ligger dog hos Justitsministeriet (BEK 514/2026 § 2, nr. 2)."
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|lov-dyrevelfaerdsloven",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/514",
+    "citat": "til Justitsministeriet: ressortansvaret for sager vedrørende kontrol med overholdelse af reglerne i dyrevelfærdsloven",
+    "genfundet": true,
+    "kontekst": "ium hørende forretninger overføres til Ministeriet for Grøn Trepart, dog således at følgende sagsområder overføres på følgende måde: 1) til Erhvervsministeriet: ressortansvaret for sager vedrørende fødevaresikkerhed, føde-varesundhed og fødevareforsyning samt fonden for plantebaserede fødevarer, 2) til Justitsministeriet: ressortansvaret for sager vedrørende kontrol med overholdelse af reglerne i dyrevelfærdsloven, 3) til Transportministeriet: ressortansvaret for sager vedrørende erstatning og kompensation til minkavlere og følgeerhverv som følge af det midlertidige forbud mod hold af mink og 4) til Miljøministeriet: ressortansvaret for sager vedrørende fiskeri. § 3. Betegnelsen for Ministeriet for Grøn Trep",
+    "paragraf": "§ 2"
+   }
+  ],
+  "paastand": "min-justits —ressortansvar→ Lov om dyrevelfærd (dyrevelfærdsloven): BEK 514/2026 § 2, nr. 2: ressortansvaret for kontrol med overholdelse af dyrevelfærdsloven overført til Justitsministeriet."
+ },
+ {
+  "hvor": "kant min-natur-og-dyrevelfaerd|ressortansvar|raad-det-dyreetiske-raad",
+  "belaeg": [
+   {
+    "url": "https://foedevarestyrelsen.dk/nyheder/webnyheder/2026/jul/fvst",
+    "citat": "Opgaver vedrørende dyrevelfærd er overført til Ministeriet for Natur og Dyrevelfærd",
+    "genfundet": true,
+    "kontekst": "026 Webnyhed Fra den 6. juli 2026 er ressortomlægningen af Styrelsen for Fødevarer, Landbrug og Fiskeri trådt i kraft. Det betyder, at styrelsens opgaver fremover er fordelt på fem ministerområder. Hovedparten af fødevare- og veterinærområdet videreføres i Erhvervsministeriet som Fødevarestyrelsen. Opgaver vedrørende dyrevelfærd er overført til Ministeriet for Natur og Dyrevelfærd, kontrol af dyrevelfærd til Justitsministeriet, Fiskeriområdet til Miljøministeriet samt opgaver vedr. udbetaling af minkerstatninger til By-, Land- og Transportministeriet. Ressortomlægningen ændrer ikke ved den fortsatte opgaveløsning. Borgere, virksomheder og samarbejdspartnere kan fortsat benyt"
+   }
+  ],
+  "paastand": "min-natur-og-dyrevelfaerd —ressortansvar→ Det Dyreetiske Råd: Dyrevelfærdsopgaver overført til Ministeriet for Natur og Dyrevelfærd."
+ },
+ {
+  "hvor": "kant min-natur-og-dyrevelfaerd|ressortansvar|tilsyn-dyreforsoegstilsynet",
+  "belaeg": [
+   {
+    "url": "https://foedevarestyrelsen.dk/nyheder/webnyheder/2026/jul/fvst",
+    "citat": "Opgaver vedrørende dyrevelfærd er overført til Ministeriet for Natur og Dyrevelfærd",
+    "genfundet": true,
+    "kontekst": "026 Webnyhed Fra den 6. juli 2026 er ressortomlægningen af Styrelsen for Fødevarer, Landbrug og Fiskeri trådt i kraft. Det betyder, at styrelsens opgaver fremover er fordelt på fem ministerområder. Hovedparten af fødevare- og veterinærområdet videreføres i Erhvervsministeriet som Fødevarestyrelsen. Opgaver vedrørende dyrevelfærd er overført til Ministeriet for Natur og Dyrevelfærd, kontrol af dyrevelfærd til Justitsministeriet, Fiskeriområdet til Miljøministeriet samt opgaver vedr. udbetaling af minkerstatninger til By-, Land- og Transportministeriet. Ressortomlægningen ændrer ikke ved den fortsatte opgaveløsning. Borgere, virksomheder og samarbejdspartnere kan fortsat benyt"
+   }
+  ],
+  "paastand": "min-natur-og-dyrevelfaerd —ressortansvar→ Dyreforsøgstilsynet og Rådet for Dyreforsøg: Antaget som del af dyrevelfærdsområdet; ressortfordelingen for dyreforsøg er ikke bekræftet."
+ },
+ {
+  "hvor": "kant min-natur-og-dyrevelfaerd|ressortansvar|lov-dyreforsoegsloven",
+  "belaeg": [
+   {
+    "url": "https://foedevarestyrelsen.dk/nyheder/webnyheder/2026/jul/fvst",
+    "citat": "Opgaver vedrørende dyrevelfærd er overført til Ministeriet for Natur og Dyrevelfærd",
+    "genfundet": true,
+    "kontekst": "026 Webnyhed Fra den 6. juli 2026 er ressortomlægningen af Styrelsen for Fødevarer, Landbrug og Fiskeri trådt i kraft. Det betyder, at styrelsens opgaver fremover er fordelt på fem ministerområder. Hovedparten af fødevare- og veterinærområdet videreføres i Erhvervsministeriet som Fødevarestyrelsen. Opgaver vedrørende dyrevelfærd er overført til Ministeriet for Natur og Dyrevelfærd, kontrol af dyrevelfærd til Justitsministeriet, Fiskeriområdet til Miljøministeriet samt opgaver vedr. udbetaling af minkerstatninger til By-, Land- og Transportministeriet. Ressortomlægningen ændrer ikke ved den fortsatte opgaveløsning. Borgere, virksomheder og samarbejdspartnere kan fortsat benyt"
+   }
+  ],
+  "paastand": "min-natur-og-dyrevelfaerd —ressortansvar→ Lov om dyreforsøg: Antaget som del af dyrevelfærdsområdet; ressortfordelingen for dyreforsøg er ikke bekræftet."
+ },
+ {
+  "hvor": "kant min-natur-og-dyrevelfaerd|ressortansvar|lov-landbrugsstoetteloven",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/514",
+    "citat": "Betegnelsen for Ministeriet for Grøn Trepart ændres til Ministeriet for Natur og Dyrevelfærd.",
+    "genfundet": true,
+    "kontekst": "rholdelse af reglerne i dyrevelfærdsloven, 3) til Transportministeriet: ressortansvaret for sager vedrørende erstatning og kompensation til minkavlere og følgeerhverv som følge af det midlertidige forbud mod hold af mink og 4) til Miljøministeriet: ressortansvaret for sager vedrørende fiskeri. § 3. Betegnelsen for Ministeriet for Grøn Trepart ændres til Ministeriet for Natur og Dyrevelfærd. § 4. Digitaliseringsministeriet nedlægges, således at de til dette ministerium hørende forretninger overføres til Uddannelses- og Forskningsministeriet. § 5. Betegnelsen for Uddannelses- og Forskningsministeriet ændres til Forsknings-, Uddannelses- og Digitaliseringsministeriet. § 6. By-, Land- og",
+    "paragraf": "§ 3"
+   }
+  ],
+  "paastand": "min-natur-og-dyrevelfaerd —ressortansvar→ Lov om administration af EU-forordninger om den fælles landbrugspolitik (landbrugsstøtteloven): Det nedlagte Ministeriet for Fødevarer, Landbrug og Fiskeris forretninger overføres til Ministeriet for Grøn Trepart (nu Natur og Dyrevelfærd), bortset fra de udskilte områder."
+ },
+ {
+  "hvor": "kant min-natur-og-dyrevelfaerd|ressortansvar|lov-landbrugsejendomme",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/514",
+    "citat": "Betegnelsen for Ministeriet for Grøn Trepart ændres til Ministeriet for Natur og Dyrevelfærd.",
+    "genfundet": true,
+    "kontekst": "rholdelse af reglerne i dyrevelfærdsloven, 3) til Transportministeriet: ressortansvaret for sager vedrørende erstatning og kompensation til minkavlere og følgeerhverv som følge af det midlertidige forbud mod hold af mink og 4) til Miljøministeriet: ressortansvaret for sager vedrørende fiskeri. § 3. Betegnelsen for Ministeriet for Grøn Trepart ændres til Ministeriet for Natur og Dyrevelfærd. § 4. Digitaliseringsministeriet nedlægges, således at de til dette ministerium hørende forretninger overføres til Uddannelses- og Forskningsministeriet. § 5. Betegnelsen for Uddannelses- og Forskningsministeriet ændres til Forsknings-, Uddannelses- og Digitaliseringsministeriet. § 6. By-, Land- og",
+    "paragraf": "§ 3"
+   }
+  ],
+  "paastand": "min-natur-og-dyrevelfaerd —ressortansvar→ Lov om landbrugsejendomme: Det nedlagte Ministeriet for Fødevarer, Landbrug og Fiskeris forretninger overføres til Ministeriet for Grøn Trepart (nu Natur og Dyrevelfærd), bortset fra de udskilte områder."
+ },
+ {
+  "hvor": "kant min-miljoe|ressortansvar|lov-fiskeriloven",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/514",
+    "citat": "til Miljøministeriet: ressortansvaret for sager vedrørende fiskeri.",
+    "genfundet": true,
+    "kontekst": " Justitsministeriet: ressortansvaret for sager vedrørende kontrol med overholdelse af reglerne i dyrevelfærdsloven, 3) til Transportministeriet: ressortansvaret for sager vedrørende erstatning og kompensation til minkavlere og følgeerhverv som følge af det midlertidige forbud mod hold af mink og 4) til Miljøministeriet: ressortansvaret for sager vedrørende fiskeri. § 3. Betegnelsen for Ministeriet for Grøn Trepart ændres til Ministeriet for Natur og Dyrevelfærd. § 4. Digitaliseringsministeriet nedlægges, således at de til dette ministerium hørende forretninger overføres til Uddannelses- og Forskningsministeriet. § 5. Betegnelsen for Uddannelses- og Forskning",
+    "paragraf": "§ 2"
+   }
+  ],
+  "paastand": "min-miljoe —ressortansvar→ Lov om fiskeri og fiskeopdræt (fiskeriloven): BEK 514/2026 § 2, nr. 4: ressortansvaret for sager vedrørende fiskeri overført til Miljøministeriet."
+ },
+ {
+  "hvor": "kant lov-foedevareloven|hjemmel_for|sty-foedevarestyrelsen",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/32",
+    "citat": "Henlægger ministeren for fødevarer, landbrug og fiskeri sine beføjelser efter loven til en myndighed under ministeriet",
+    "genfundet": true,
+    "kontekst": "dvalg. Udvalget afgiver udtalelser om væsentlige fødevarepolitiske emner, herunder om udkast til ny lovgivning på området. Stk. 2. Ministeren kan fastsætte nærmere regler om udvalgets sammensætning og virksomhed. Ministeren fastsætter udvalgets forretningsorden. Kapitel 15 Klage og delegation § 58. Henlægger ministeren for fødevarer, landbrug og fiskeri sine beføjelser efter loven til en myndighed under ministeriet, kan ministeren fastsætte regler om adgangen til at klage over myndighedens afgørelser, herunder om, at afgørelserne ikke kan indbringes for anden administrativ myndighed, og om myndighedernes adgang til at genoptage en sag, efter at der er indgivet klage. Ministeren kan endvidere fastsætte regler ",
+    "paragraf": "§ 58"
+   }
+  ],
+  "paastand": "Lov om fødevarer (fødevareloven) —hjemmel_for→ Fødevarestyrelsen: § 58, stk. 1: ministeren kan henlægge beføjelser efter loven til en myndighed under ministeriet; bruges til at lægge opgaver og beføjelser hos Fødevarestyrelsen."
+ },
+ {
+  "hvor": "kant lov-dyrlaegeloven|hjemmel_for|raad-det-veterinaere-sundhedsraad",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/64",
+    "citat": "Rådet nedsættes af ministeren for fødevarer, landbrug og fiskeri.",
+    "genfundet": true,
+    "kontekst": "skeri udsender meddelelse om fratagelse, frakendelse, fraskrivelse eller generhvervelse af autorisationen eller en eller flere rettigheder, jf. § 18, § 19, stk. 5, og §§ 20, 21, 23, 24 og 26. Kapitel 7 Det Veterinære Sundhedsråd § 28. Det Veterinære Sundhedsråd består af mindst 5 medlemmer. Stk. 2. Rådet nedsættes af ministeren for fødevarer, landbrug og fiskeri. Ministeren skal ved sammensætningen af rådet så vidt muligt sikre, at der blandt rådets medlemmer er personer med indsigt i de faglige discipliner, der er af særlig betydning for løsning af de opgaver, der er henlagt til rådet. Ministeren udpeger blandt rådets medlemmer en formand og en næstforman",
+    "paragraf": "§ 28"
+   }
+  ],
+  "paastand": "Lov om dyrlæger —hjemmel_for→ Det Veterinære Sundhedsråd: § 28: rådet nedsættes af ministeren; § 29, stk. 1: rådet afgiver veterinærfaglige udtalelser."
+ },
+ {
+  "hvor": "kant lov-dyrevelfaerdsloven|hjemmel_for|raad-det-dyreetiske-raad",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/994",
+    "citat": "nedsætter et råd, der ud fra en etisk vurdering skal følge udviklingen inden for dyrevelfærd",
+    "genfundet": true,
+    "kontekst": "øring og kontrol af logbog. Stk. 7. Ministeren kan fastsætte krav om dokumentation og ledsagedokumenter, herunder forevisning på forlangende, oplysningspligt og registrering og opbevaring af dokumenter og oplysninger. Kapitel 12 Det Dyreetiske Råd § 38. Ministeren for fødevarer, landbrug og fiskeri nedsætter et råd, der ud fra en etisk vurdering skal følge udviklingen inden for dyrevelfærd. Rådet kan afgive udtalelser om spørgsmål inden for dyrevelfærd og dyreetik. Rådet skal endvidere på ministerens begæring afgive udtalelse om særlige spørgsmål vedrørende lovgivningen om dyrevelfærd og dyreetik, herunder rådgive ministeren i forbindelse med fastsættelsen af regler efter denne lov. ",
+    "paragraf": "§ 38"
+   }
+  ],
+  "paastand": "Lov om dyrevelfærd (dyrevelfærdsloven) —hjemmel_for→ Det Dyreetiske Råd: § 38, stk. 1: ministeren nedsætter et dyreetisk råd."
+ },
+ {
+  "hvor": "kant lov-dyreforsoegsloven|hjemmel_for|tilsyn-dyreforsoegstilsynet",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/63",
+    "citat": "Dyreforsøgstilsynet ledes af Rådet for Dyreforsøg, der består af en formand, der skal være dommer, og 10 andre medlemmer.",
+    "genfundet": true,
+    "kontekst": "ler tilladelsens indehaver, medmindre anden beslutning er truffet efter § 2, stk. 3. Det kan i reglerne bestemmes, at journal skal føres på edb. Stk. 2. Den, der foretager dyreforsøg, skal endvidere efter tilsynets anmodning give nærmere oplysninger om forsøgene. Kapitel 3 Dyreforsøgstilsynet § 10. Dyreforsøgstilsynet ledes af Rådet for Dyreforsøg, der består af en formand, der skal være dommer, og 10 andre medlemmer. Stk. 2. Ministeren for fødevarer, landbrug og fiskeri udpeger rådets formand og de øvrige medlemmer. Èt medlem udpeges efter udtalelse fra Forskningsrådet for Sundhed og Sygdom, ét medlem efter udtalelse fra Forskningsrådet for Teknologi og Produktion, ét medlem efter udtalelse fra Sundhedsstyrels",
+    "paragraf": "§ 10"
+   }
+  ],
+  "paastand": "Lov om dyreforsøg —hjemmel_for→ Dyreforsøgstilsynet og Rådet for Dyreforsøg: § 10, stk. 1: Dyreforsøgstilsynet ledes af Rådet for Dyreforsøg; § 1, stk. 1: forsøg kræver tilladelse fra tilsynet."
+ },
+ {
+  "hvor": "kant naevn-miljoe-og-foedevareklagenaevnet|klageinstans|sty-foedevarestyrelsen",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/32",
+    "citat": "i loven eller i henhold til regler udstedt i medfør heraf, påklages til Miljø- og Fødevareklagenævnet,",
+    "genfundet": true,
+    "kontekst": "levante forbrugerorganisationers adgang til at påklage afgørelser, der er truffet af tilsynsmyndigheden som følge af en anmeldelse af en mulig overtrædelse af fødevarelovgivningen. § 58 a. Afgørelser truffet i henhold til denne lov eller regler udstedt i medfør heraf kan, hvis ikke andet er fastsat i loven eller i henhold til regler udstedt i medfør heraf, påklages til Miljø- og Fødevareklagenævnet, som behandler sagen i afdelingen omhandlet i § 3, stk. 1, nr. 7, i lov om Miljø- og Fødevareklagenævnet, og kan dermed ikke indbringes for anden administrativ myndighed. Stk. 2. Klage til Miljø- og Fødevareklagenævnet indgives skriftligt til den myndighed, der har truffet afgørelsen, ved anvendels",
+    "paragraf": "§ 58 a"
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/32",
+    "citat": "og kan dermed ikke indbringes for anden administrativ myndighed.",
+    "genfundet": true,
+    "kontekst": "i henhold til denne lov eller regler udstedt i medfør heraf kan, hvis ikke andet er fastsat i loven eller i henhold til regler udstedt i medfør heraf, påklages til Miljø- og Fødevareklagenævnet, som behandler sagen i afdelingen omhandlet i § 3, stk. 1, nr. 7, i lov om Miljø- og Fødevareklagenævnet, og kan dermed ikke indbringes for anden administrativ myndighed. Stk. 2. Klage til Miljø- og Fødevareklagenævnet indgives skriftligt til den myndighed, der har truffet afgørelsen, ved anvendelse af digital selvbetjening, jf. dog § 21, stk. 2-4, i lov om Miljø- og Fødevareklagenævnet. Myndigheden skal, hvis den vil fastholde afgørelsen, snarest og som udgangspun",
+    "paragraf": "§ 58 a"
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/994",
+    "citat": "påklages til Miljø- og Fødevareklagenævnet, som behandler sagen i afdelingen omhandlet i § 3, stk. 1, nr. 8",
+    "genfundet": true,
+    "kontekst": "nden administrativ myndighed, og om myndighedens eller institutionens adgang til at genoptage en sag, efter at der er indgivet klage. Stk. 3. Afgørelser truffet i henhold til denne lov eller regler udstedt i medfør heraf kan, hvis ikke andet er fastsat i loven eller i regler udstedt i medfør heraf, påklages til Miljø- og Fødevareklagenævnet, som behandler sagen i afdelingen omhandlet i § 3, stk. 1, nr. 8, i lov om Miljø- og Fødevareklagenævnet, og kan ikke indbringes for anden administrativ myndighed. Stk. 4. Klage til Miljø- og Fødevareklagenævnet indgives skriftligt til den myndighed, der har truffet afgørelsen, ved anvendelse af digital selvbetjening, jf. dog § 21, stk. 2-4, i lov om Miljø- og F",
+    "paragraf": "§ 52"
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/64",
+    "citat": "påklages til Miljø- og Fødevareklagenævnet",
+    "genfundet": true,
+    "kontekst": "trativ myndighed, og om myndigheders eller institutioners adgang til at genoptage en sag, efter at der er indgivet klage. § 36 a. Afgørelser truffet i henhold til denne lov eller regler udstedt i medfør heraf kan, hvis ikke andet er fastsat i loven eller i henhold til regler udstedt i medfør heraf, påklages til Miljø- og Fødevareklagenævnet, som behandler sagen i afdelingen omhandlet i § 3, stk. 1, nr. 8, i lov om Miljø- og Fødevareklagenævnet, og kan dermed ikke indbringes for anden administrativ myndighed. Stk. 2. Klage til Miljø- og Fødevareklagenævnet indgives skriftligt til den myndighed, der har truffet afgørelsen, ved anvendels",
+    "paragraf": "§ 36 a"
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2017/131",
+    "citat": "Klage til nævnet skal indbringes inden 4 uger fra den dag, afgørelsen er meddelt,",
+    "genfundet": true,
+    "kontekst": "efter godkendelse af formanden udpege stedfortrædere for denne for en periode på op til 2 år ad gangen, med mulighed for genudpegning. Ved udtræden udpeges en ny stedfortræder for den resterende del af perioden. Generelle regler om indbringelse af klage samt sagernes forberedelse og behandling § 7. Klage til nævnet skal indbringes inden 4 uger fra den dag, afgørelsen er meddelt, jf. § 1, stk. 1, i lov om Miljø- og Fødevareklagenævnet, medmindre andet følger af sektorlovgivningen, Er afgørelsen offentligt bekendtgjort, regnes klagefristen dog altid fra bekendtgørelsen. Hvis klagefristen udløber en lørdag eller helligdag, forlænges fristen til den følgende hverdag. Stk. 2. ",
+    "paragraf": "§ 7"
+   }
+  ],
+  "paastand": "naevn-miljoe-og-foedevareklagenaevnet —klageinstans→ Fødevarestyrelsen: Fødevarelovens § 58 a, stk. 1 (dyrevelfærdslovens § 52, stk. 3; dyrlægelovens § 36 a, stk. 1): afgørelser kan påklages til nævnet og kan ikke indbringes for anden administrativ myndighed. Frist 4 uger fra afgørelsen er meddelt, jf. forretningsordenens § 7, stk. 1, medmindre sektorlovgivningen siger andet. Nævnets afgørelse er endelig administrativt."
+ },
+ {
+  "hvor": "kant sty-foedevarestyrelsen|udsteder|kilde-findsmiley",
+  "belaeg": [
+   {
+    "url": "https://www.findsmiley.dk/in-english",
+    "citat": "the inspection results from the recent inspections are made publicly available on findsmiley.dk",
+    "genfundet": true,
+    "kontekst": " dining out or buying food. It provides an easy-to-understand overview of food safety standards in restaurants, cafés, shops, and other food businesses. What is the Smiley Scheme? The Danish Veterinary and Food Agency (DVFA) inspects food businesses registered with the DVFA. With the Smiley Scheme, the inspection results from the recent inspections are made publicly available on findsmiley.dk. In addition, retail businesses - like restaurants, supermarkets and bakeries - are obliged to display their latest smiley label for consumers to see before entering the premises. Find inspections reports online On findsmiley.dk, you can search for food businesses and view their latest inspection r"
+   }
+  ],
+  "paastand": "Fødevarestyrelsen —udsteder→ Find Smiley (fødevarekontrollens kontrolrapporter): Fødevarestyrelsen driver findsmiley.dk og offentliggør kontrolrapporter der."
+ }
+]

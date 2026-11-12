@@ -1,0 +1,1067 @@
+[
+ {
+  "hvor": "lov-serviceloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "256493",
+   "DocumentTitle": "Bekendtgørelse af lov om social service",
+   "Year": "2026",
+   "DiesSigni": "2026-07-01",
+   "Status": "Valid",
+   "Number": "641",
+   "PopularTitle": "Serviceloven",
+   "Ministry": "Socialministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-serviceloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "256493",
+   "DocumentTitle": "Bekendtgørelse af lov om social service",
+   "Year": "2026",
+   "DiesSigni": "2026-07-01",
+   "Status": "Valid",
+   "Number": "641",
+   "PopularTitle": "Serviceloven",
+   "Ministry": "Socialministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-serviceloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "256493",
+   "DocumentTitle": "Bekendtgørelse af lov om social service",
+   "Year": "2026",
+   "DiesSigni": "2026-07-01",
+   "Status": "Valid",
+   "Number": "641",
+   "PopularTitle": "Serviceloven",
+   "Ministry": "Socialministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-serviceloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "256493",
+   "DocumentTitle": "Bekendtgørelse af lov om social service",
+   "Year": "2026",
+   "DiesSigni": "2026-07-01",
+   "Status": "Valid",
+   "Number": "641",
+   "PopularTitle": "Serviceloven",
+   "Ministry": "Socialministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2026/641",
+   "lovtidende": "LBK nr. 641 af 01/07/2026",
+   "andet": "Afløser LBK nr. 1129 af 22/09/2025."
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-barnets-lov.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "256557",
+   "DocumentTitle": "Bekendtgørelse af barnets lov",
+   "Year": "2026",
+   "DiesSigni": "2026-07-01",
+   "Status": "Valid",
+   "Number": "642",
+   "PopularTitle": "",
+   "Ministry": "Socialministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-barnets-lov.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "256557",
+   "DocumentTitle": "Bekendtgørelse af barnets lov",
+   "Year": "2026",
+   "DiesSigni": "2026-07-01",
+   "Status": "Valid",
+   "Number": "642",
+   "PopularTitle": "",
+   "Ministry": "Socialministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-barnets-lov.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "256557",
+   "DocumentTitle": "Bekendtgørelse af barnets lov",
+   "Year": "2026",
+   "DiesSigni": "2026-07-01",
+   "Status": "Valid",
+   "Number": "642",
+   "PopularTitle": "",
+   "Ministry": "Socialministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-barnets-lov.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "256557",
+   "DocumentTitle": "Bekendtgørelse af barnets lov",
+   "Year": "2026",
+   "DiesSigni": "2026-07-01",
+   "Status": "Valid",
+   "Number": "642",
+   "PopularTitle": "",
+   "Ministry": "Socialministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2026/642",
+   "lovtidende": "LBK nr. 642 af 01/07/2026",
+   "andet": "Afløser LBK nr. 282 af 17/03/2025. Børne- og ungeudvalg: kap. 17 (§§ 140-151); tilsyn: kap. 19; VISO og Social- og Boligstyrelsen: kap. 20."
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-socialtilsynsloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "255042",
+   "DocumentTitle": "Bekendtgørelse af lov om socialtilsyn",
+   "Year": "2026",
+   "DiesSigni": "2026-01-30",
+   "Status": "Valid",
+   "Number": "242",
+   "PopularTitle": "Socialtilsynsloven",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-socialtilsynsloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "255042",
+   "DocumentTitle": "Bekendtgørelse af lov om socialtilsyn",
+   "Year": "2026",
+   "DiesSigni": "2026-01-30",
+   "Status": "Valid",
+   "Number": "242",
+   "PopularTitle": "Socialtilsynsloven",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-socialtilsynsloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "255042",
+   "DocumentTitle": "Bekendtgørelse af lov om socialtilsyn",
+   "Year": "2026",
+   "DiesSigni": "2026-01-30",
+   "Status": "Valid",
+   "Number": "242",
+   "PopularTitle": "Socialtilsynsloven",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-socialtilsynsloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "255042",
+   "DocumentTitle": "Bekendtgørelse af lov om socialtilsyn",
+   "Year": "2026",
+   "DiesSigni": "2026-01-30",
+   "Status": "Valid",
+   "Number": "242",
+   "PopularTitle": "Socialtilsynsloven",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2026/242",
+   "lovtidende": "LBK nr. 242 af 30/01/2026",
+   "andet": "Afløser LBK nr. 236 af 25/02/2025. Metadata på Retsinformation nævner endnu Social- og Boligministeriet."
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-voksenansvarsloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "244767",
+   "DocumentTitle": "Bekendtgørelse af lov om voksenansvar for anbragte børn og unge",
+   "Year": "2024",
+   "DiesSigni": "2024-08-30",
+   "Status": "Valid",
+   "Number": "1006",
+   "PopularTitle": "Voksenansvarsloven",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-voksenansvarsloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "244767",
+   "DocumentTitle": "Bekendtgørelse af lov om voksenansvar for anbragte børn og unge",
+   "Year": "2024",
+   "DiesSigni": "2024-08-30",
+   "Status": "Valid",
+   "Number": "1006",
+   "PopularTitle": "Voksenansvarsloven",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-voksenansvarsloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "244767",
+   "DocumentTitle": "Bekendtgørelse af lov om voksenansvar for anbragte børn og unge",
+   "Year": "2024",
+   "DiesSigni": "2024-08-30",
+   "Status": "Valid",
+   "Number": "1006",
+   "PopularTitle": "Voksenansvarsloven",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-voksenansvarsloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "244767",
+   "DocumentTitle": "Bekendtgørelse af lov om voksenansvar for anbragte børn og unge",
+   "Year": "2024",
+   "DiesSigni": "2024-08-30",
+   "Status": "Valid",
+   "Number": "1006",
+   "PopularTitle": "Voksenansvarsloven",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2024/1006",
+   "lovtidende": "LBK nr. 1006 af 30/08/2024"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-socialtilsyn.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1559",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-socialtilsyn.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "253904",
+   "DocumentTitle": "Bekendtgørelse om socialtilsyn",
+   "Year": "2025",
+   "DiesSigni": "2025-12-05",
+   "Status": "Valid",
+   "Number": "1559",
+   "PopularTitle": "Socialtilsynsbekendtgørelsen",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-socialtilsyn.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "253904",
+   "DocumentTitle": "Bekendtgørelse om socialtilsyn",
+   "Year": "2025",
+   "DiesSigni": "2025-12-05",
+   "Status": "Valid",
+   "Number": "1559",
+   "PopularTitle": "Socialtilsynsbekendtgørelsen",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-socialtilsyn.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "253904",
+   "DocumentTitle": "Bekendtgørelse om socialtilsyn",
+   "Year": "2025",
+   "DiesSigni": "2025-12-05",
+   "Status": "Valid",
+   "Number": "1559",
+   "PopularTitle": "Socialtilsynsbekendtgørelsen",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2025/1559",
+   "lovtidende": "BEK nr. 1559 af 05/12/2025"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-forretningsorden-socialfaglige-naevn.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1413",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-forretningsorden-socialfaglige-naevn.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "246887",
+   "DocumentTitle": "Bekendtgørelse om forretningsorden for Det Socialfaglige Nævn vedrørende Magtanvendelse over for Borgere med Handicap",
+   "Year": "2024",
+   "DiesSigni": "2024-12-05",
+   "Status": "Valid",
+   "Number": "1413",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-forretningsorden-socialfaglige-naevn.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "246887",
+   "DocumentTitle": "Bekendtgørelse om forretningsorden for Det Socialfaglige Nævn vedrørende Magtanvendelse over for Borgere med Handicap",
+   "Year": "2024",
+   "DiesSigni": "2024-12-05",
+   "Status": "Valid",
+   "Number": "1413",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-forretningsorden-socialfaglige-naevn.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "246887",
+   "DocumentTitle": "Bekendtgørelse om forretningsorden for Det Socialfaglige Nævn vedrørende Magtanvendelse over for Borgere med Handicap",
+   "Year": "2024",
+   "DiesSigni": "2024-12-05",
+   "Status": "Valid",
+   "Number": "1413",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2024/1413",
+   "lovtidende": "BEK nr. 1413 af 05/12/2024"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-raad-paa-det-sociale-omraade.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2022/580",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-raad-paa-det-sociale-omraade.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "228972",
+   "DocumentTitle": "Bekendtgørelse om råd på det sociale område",
+   "Year": "2022",
+   "DiesSigni": "2022-05-09",
+   "Status": "Valid",
+   "Number": "580",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-raad-paa-det-sociale-omraade.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "228972",
+   "DocumentTitle": "Bekendtgørelse om råd på det sociale område",
+   "Year": "2022",
+   "DiesSigni": "2022-05-09",
+   "Status": "Valid",
+   "Number": "580",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-raad-paa-det-sociale-omraade.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "228972",
+   "DocumentTitle": "Bekendtgørelse om råd på det sociale område",
+   "Year": "2022",
+   "DiesSigni": "2022-05-09",
+   "Status": "Valid",
+   "Number": "580",
+   "Ministry": "Social- og Boligministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2022/580",
+   "lovtidende": "BEK nr. 580 af 09/05/2022"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "naevn-boerne-og-ungeudvalg.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/642",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/642",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-boerne-og-ungeudvalg.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/642",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "tilsyn-socialtilsynene.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/242",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1559",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "tilsyn-socialtilsynene.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/242",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-socialfaglige-naevn-magtanvendelse.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/641",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/641",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/641",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-socialfaglige-naevn-magtanvendelse.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1413",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "raad-boerneraadet.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2022/580",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2022/580",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "raad-boerneraadet.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2022/580",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "raad-boerneraadet.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.boerneraadet.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "raad-det-centrale-handicapraad.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2022/580",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2022/580",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "raad-det-centrale-handicapraad.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2022/580",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "raad-det-centrale-handicapraad.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.dch.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-tilbudsportalen.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://tilbudsportalen.dk/tilbudssoegning/artikel/om-tilbudsportalen",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-tilbudsportalen.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://tilbudsportalen.dk/tilbudssoegning/artikel/om-tilbudsportalen",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-tilbudsportalen.adgang",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://tilbudsportalen.dk/tilbudssoegning/artikel/om-tilbudsportalen",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|lov-serviceloven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/641",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "Socialministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|lov-barnets-lov",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/642",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "Socialministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|lov-socialtilsynsloven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/242",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|lov-voksenansvarsloven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1006",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|naevn-socialfaglige-naevn-magtanvendelse",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/641",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|raad-boerneraadet",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://sm.dk/ministeriet/organisation",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-social|ressortansvar|raad-det-centrale-handicapraad",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://sm.dk/ministeriet/organisation",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-socialtilsynsloven|hjemmel_for|tilsyn-socialtilsynene",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/242",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-socialtilsynsloven|hjemmel_for|bek-socialtilsyn",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1559",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-socialtilsyn|hjemmel_for|tilsyn-socialtilsynene",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1559",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-barnets-lov|hjemmel_for|naevn-boerne-og-ungeudvalg",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/642",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-serviceloven|hjemmel_for|naevn-socialfaglige-naevn-magtanvendelse",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/641",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-serviceloven|hjemmel_for|bek-forretningsorden-socialfaglige-naevn",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1413",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-forretningsorden-socialfaglige-naevn|hjemmel_for|naevn-socialfaglige-naevn-magtanvendelse",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1413",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-retssikkerhedsloven-social|hjemmel_for|bek-raad-paa-det-sociale-omraade",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2022/580",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-raad-paa-det-sociale-omraade|hjemmel_for|raad-boerneraadet",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2022/580",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-raad-paa-det-sociale-omraade|hjemmel_for|raad-det-centrale-handicapraad",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2022/580",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-ankestyrelsen|klageinstans|naevn-boerne-og-ungeudvalg",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/642",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/642",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant dom-byretterne|klageinstans|sty-ankestyrelsen",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/642",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/642",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/642",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-ankestyrelsen|klageinstans|tilsyn-socialtilsynene",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/242",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/680",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-socialtilsynsloven|henviser_til|lov-retssikkerhedsloven-social",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/242",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-voksenansvarsloven|henviser_til|lov-retssikkerhedsloven-social",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1006",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-social-og-boligstyrelsen|udsteder|kilde-tilbudsportalen",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.sbst.dk/tvaergaende-omrader/tilbudsportalen",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "rettelse lov-retssikkerhedsloven-social.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/680",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "rettelse lov-retssikkerhedsloven-social.identifikatorer",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/680",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "rettelse kilde-ast-principmeddelelser.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.ast.dk/for-myndigheder/principmeddelelser",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "rettelse kilde-ast-principmeddelelser.identifikatorer",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.ast.dk/for-myndigheder/principmeddelelser/2026/ankestyrelsens-principmeddelelse-12-26-om-anbringelse-uden-samtykke-genbehandlingsfrist-forkortelse-af-genbehandlingsfrist-fremmoede-i-boerne-og-ungeudvalget",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "afvist": "ny sikkerhed sandsynlig er lavere end den eksisterende verificeret"
+ }
+]

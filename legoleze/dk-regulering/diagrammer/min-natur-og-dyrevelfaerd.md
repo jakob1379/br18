@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 52 · kanter: 90
+Noder: 58 · kanter: 98
 
 ```mermaid
 flowchart LR
@@ -21,6 +21,8 @@ flowchart LR
     eu_dir_1992_43["Direktiv 92/43/EØF om bevaring af naturtyper samt vilde dyr og planter (habitatdirektivet)"]:::eu
     eu_dir_2009_147["Fuglebeskyttelsesdirektivet – direktiv 2009/147/EF af 30. november 2009"]:::eu
     eu_dir_2000_60["Vandrammedirektivet – direktiv 2000/60/EF af 23. oktober 2000"]:::eu
+    raad_det_dyreetiske_raad["Det Dyreetiske Råd"]:::instans
+    tilsyn_dyreforsoegstilsynet["Dyreforsøgstilsynet og Rådet for Dyreforsøg"]:::instans
     sty_energistyrelsen["Energistyrelsen"]:::instans
     kommune_alle["Kommunerne (98 kommunalbestyrelser)"]:::instans
     sty_kystdirektoratet["Kystdirektoratet"]:::instans
@@ -50,8 +52,12 @@ flowchart LR
     vejl_habitatvejledning["Habitatvejledningen (VEJ nr. 10226 af 2019)"]:::retsakt
     plan_affaldsplan["Kommunal affaldsplan (fx Affaldsplan 2025-2036)"]:::retsakt
     reg_vandloebsregulativer["Kommunale vandløbsregulativer"]:::retsakt
+    lov_landbrugsstoetteloven["Lov om administration af EU-forordninger om den fælles landbrugspolitik (landbrugsstøtteloven)"]:::retsakt
+    lov_dyreforsoegsloven["Lov om dyreforsøg"]:::retsakt
+    lov_dyrevelfaerdsloven["Lov om dyrevelfærd (dyrevelfærdsloven)"]:::retsakt
     lov_husdyrbrugloven["Lov om husdyrbrug og anvendelse af gødning m.v. (husdyrbrugloven; tidl. lov om miljøgodkendelse m.v. af husdyrbrug)"]:::retsakt
     lov_kystbeskyttelsesloven["Lov om kystbeskyttelse (kystbeskyttelsesloven)"]:::retsakt
+    lov_landbrugsejendomme["Lov om landbrugsejendomme"]:::retsakt
     lov_miljoemaalsloven["Lov om miljømål m.v. for internationale naturbeskyttelsesområder (miljømålsloven)"]:::retsakt
     lov_miljoevurderingsloven["Lov om miljøvurderinger (miljøvurderingsloven, VVM/SMV)"]:::retsakt
     lov_naturbeskyttelsesloven["Lov om naturbeskyttelse (naturbeskyttelsesloven)"]:::retsakt
@@ -156,6 +162,14 @@ flowchart LR
     sty_groen_arealomlaegning_og_vandmiljoe -.->|udsteder| plan_natura2000_planer
     sty_miljoestyrelsen -->|udsteder| vejl_habitatvejledning
     sty_miljoestyrelsen -->|udsteder| vejl_naturbeskyttelse_vejledninger
+    min_natur_og_dyrevelfaerd -->|ressortansvar| lov_dyrevelfaerdsloven
+    min_natur_og_dyrevelfaerd -.->|ressortansvar| raad_det_dyreetiske_raad
+    min_natur_og_dyrevelfaerd -.->|ressortansvar| tilsyn_dyreforsoegstilsynet
+    min_natur_og_dyrevelfaerd -.->|ressortansvar| lov_dyreforsoegsloven
+    min_natur_og_dyrevelfaerd -.->|ressortansvar| lov_landbrugsstoetteloven
+    min_natur_og_dyrevelfaerd -.->|ressortansvar| lov_landbrugsejendomme
+    lov_dyrevelfaerdsloven -->|hjemmel_for| raad_det_dyreetiske_raad
+    lov_dyreforsoegsloven -.->|hjemmel_for| tilsyn_dyreforsoegstilsynet
 ```
 
 [← Overblik](oversigt.md)

@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 100 · kanter: 179
+Noder: 101 · kanter: 180
 
 ```mermaid
 flowchart LR
@@ -89,6 +89,7 @@ flowchart LR
     plan_risikostyringsplaner["Kommunale risikostyringsplaner for oversvømmelse"]:::retsakt
     lov_miljoeoplysningsloven["Lov om aktindsigt i miljøoplysninger (miljøoplysningsloven)"]:::retsakt
     lov_havmiljoeloven["Lov om beskyttelse af havmiljøet (havmiljøloven)"]:::retsakt
+    lov_fiskeriloven["Lov om fiskeri og fiskeopdræt (fiskeriloven)"]:::retsakt
     lov_jordforureningsloven["Lov om forurenet jord (jordforureningsloven)"]:::retsakt
     lov_havstrategiloven["Lov om havstrategi (havstrategiloven)"]:::retsakt
     lov_jagtloven["Lov om jagt og vildtforvaltning (jagt- og vildtforvaltningsloven)"]:::retsakt
@@ -288,6 +289,7 @@ flowchart LR
     sty_miljoestyrelsen -->|udsteder| vejl_mst_vejledninger
     sty_miljoestyrelsen -->|udsteder| vejl_naturbeskyttelse_vejledninger
     min_miljoe -->|udsteder| vejl_landzoneadministration
+    min_miljoe -->|ressortansvar| lov_fiskeriloven
     bek_affald -.->|hjemmel_for| plan_affaldsplan
     bek_affaldsaktoer -->|hjemmel_for| reg_affaldsregulativer
     bek_affald -.->|implementerer_EU| eu_dir_2008_98

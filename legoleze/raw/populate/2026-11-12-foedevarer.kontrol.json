@@ -1,0 +1,993 @@
+[
+ {
+  "hvor": "sty-foedevarestyrelsen.tidligere_navne[Styrelsen for Fødevarer, Landbrug og Fiskeri]",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://foedevarestyrelsen.dk/nyheder/webnyheder/2025/dec/sammenlaegning",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://foedevarestyrelsen.dk/nyheder/webnyheder/2026/jul/fvst",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-foedevarestyrelsen.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/32",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2020/1721",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-foedevarestyrelsen.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://naevneneshus.dk/start-din-klage/miljoe-og-foedevareklagenaevnet/",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.findsmiley.dk/in-english",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-foedevarestyrelsen.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://foedevarestyrelsen.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "lov-foedevareloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "247638",
+   "DocumentTitle": "Bekendtgørelse af lov om fødevarer",
+   "Year": "2025",
+   "DiesSigni": "2025-01-14",
+   "Status": "Valid",
+   "Number": "32",
+   "PopularTitle": "Fødevareloven",
+   "Ministry": "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-foedevareloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "247638",
+   "DocumentTitle": "Bekendtgørelse af lov om fødevarer",
+   "Year": "2025",
+   "DiesSigni": "2025-01-14",
+   "Status": "Valid",
+   "Number": "32",
+   "PopularTitle": "Fødevareloven",
+   "Ministry": "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-foedevareloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "247638",
+   "DocumentTitle": "Bekendtgørelse af lov om fødevarer",
+   "Year": "2025",
+   "DiesSigni": "2025-01-14",
+   "Status": "Valid",
+   "Number": "32",
+   "PopularTitle": "Fødevareloven",
+   "Ministry": "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-foedevareloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "247638",
+   "DocumentTitle": "Bekendtgørelse af lov om fødevarer",
+   "Year": "2025",
+   "DiesSigni": "2025-01-14",
+   "Status": "Valid",
+   "Number": "32",
+   "PopularTitle": "Fødevareloven",
+   "Ministry": "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2025/32",
+   "lovtidende": "LBK nr. 32 af 14/01/2025"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-dyrevelfaerdsloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "250853",
+   "DocumentTitle": "Bekendtgørelse af lov om dyrevelfærd (dyrevelfærdsloven)",
+   "Year": "2025",
+   "DiesSigni": "2025-06-30",
+   "Status": "Valid",
+   "Number": "994",
+   "PopularTitle": "Dyrevelfærdsloven",
+   "Ministry": "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-dyrevelfaerdsloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "250853",
+   "DocumentTitle": "Bekendtgørelse af lov om dyrevelfærd (dyrevelfærdsloven)",
+   "Year": "2025",
+   "DiesSigni": "2025-06-30",
+   "Status": "Valid",
+   "Number": "994",
+   "PopularTitle": "Dyrevelfærdsloven",
+   "Ministry": "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-dyrevelfaerdsloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "250853",
+   "DocumentTitle": "Bekendtgørelse af lov om dyrevelfærd (dyrevelfærdsloven)",
+   "Year": "2025",
+   "DiesSigni": "2025-06-30",
+   "Status": "Valid",
+   "Number": "994",
+   "PopularTitle": "Dyrevelfærdsloven",
+   "Ministry": "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-dyrevelfaerdsloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "250853",
+   "DocumentTitle": "Bekendtgørelse af lov om dyrevelfærd (dyrevelfærdsloven)",
+   "Year": "2025",
+   "DiesSigni": "2025-06-30",
+   "Status": "Valid",
+   "Number": "994",
+   "PopularTitle": "Dyrevelfærdsloven",
+   "Ministry": "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2025/994",
+   "lovtidende": "LBK nr. 994 af 30/06/2025"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-dyrlaegeloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "241461",
+   "DocumentTitle": "Bekendtgørelse af lov om dyrlæger",
+   "Year": "2024",
+   "DiesSigni": "2024-01-19",
+   "Status": "Valid",
+   "Number": "64",
+   "PopularTitle": "Dyrlægeloven",
+   "Ministry": "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-dyrlaegeloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "241461",
+   "DocumentTitle": "Bekendtgørelse af lov om dyrlæger",
+   "Year": "2024",
+   "DiesSigni": "2024-01-19",
+   "Status": "Valid",
+   "Number": "64",
+   "PopularTitle": "Dyrlægeloven",
+   "Ministry": "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-dyrlaegeloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "241461",
+   "DocumentTitle": "Bekendtgørelse af lov om dyrlæger",
+   "Year": "2024",
+   "DiesSigni": "2024-01-19",
+   "Status": "Valid",
+   "Number": "64",
+   "PopularTitle": "Dyrlægeloven",
+   "Ministry": "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-dyrlaegeloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "241461",
+   "DocumentTitle": "Bekendtgørelse af lov om dyrlæger",
+   "Year": "2024",
+   "DiesSigni": "2024-01-19",
+   "Status": "Valid",
+   "Number": "64",
+   "PopularTitle": "Dyrlægeloven",
+   "Ministry": "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2024/64",
+   "lovtidende": "LBK nr. 64 af 19/01/2024"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-dyreforsoegsloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "241458",
+   "DocumentTitle": "Bekendtgørelse af lov om dyreforsøg",
+   "Year": "2024",
+   "DiesSigni": "2024-01-19",
+   "Status": "Valid",
+   "Number": "63",
+   "PopularTitle": "Dyreforsøgsloven",
+   "Ministry": "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-dyreforsoegsloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "241458",
+   "DocumentTitle": "Bekendtgørelse af lov om dyreforsøg",
+   "Year": "2024",
+   "DiesSigni": "2024-01-19",
+   "Status": "Valid",
+   "Number": "63",
+   "PopularTitle": "Dyreforsøgsloven",
+   "Ministry": "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-dyreforsoegsloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "241458",
+   "DocumentTitle": "Bekendtgørelse af lov om dyreforsøg",
+   "Year": "2024",
+   "DiesSigni": "2024-01-19",
+   "Status": "Valid",
+   "Number": "63",
+   "PopularTitle": "Dyreforsøgsloven",
+   "Ministry": "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-dyreforsoegsloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "241458",
+   "DocumentTitle": "Bekendtgørelse af lov om dyreforsøg",
+   "Year": "2024",
+   "DiesSigni": "2024-01-19",
+   "Status": "Valid",
+   "Number": "63",
+   "PopularTitle": "Dyreforsøgsloven",
+   "Ministry": "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2024/63",
+   "lovtidende": "LBK nr. 63 af 19/01/2024"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-fiskeriloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "234837",
+   "DocumentTitle": "Bekendtgørelse af lov om fiskeri og fiskeopdræt (fiskeriloven)",
+   "Year": "2023",
+   "DiesSigni": "2023-03-01",
+   "Status": "Valid",
+   "Number": "205",
+   "PopularTitle": "Fiskeriloven",
+   "Ministry": "Miljøministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-fiskeriloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "234837",
+   "DocumentTitle": "Bekendtgørelse af lov om fiskeri og fiskeopdræt (fiskeriloven)",
+   "Year": "2023",
+   "DiesSigni": "2023-03-01",
+   "Status": "Valid",
+   "Number": "205",
+   "PopularTitle": "Fiskeriloven",
+   "Ministry": "Miljøministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-fiskeriloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "234837",
+   "DocumentTitle": "Bekendtgørelse af lov om fiskeri og fiskeopdræt (fiskeriloven)",
+   "Year": "2023",
+   "DiesSigni": "2023-03-01",
+   "Status": "Valid",
+   "Number": "205",
+   "PopularTitle": "Fiskeriloven",
+   "Ministry": "Miljøministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-fiskeriloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "234837",
+   "DocumentTitle": "Bekendtgørelse af lov om fiskeri og fiskeopdræt (fiskeriloven)",
+   "Year": "2023",
+   "DiesSigni": "2023-03-01",
+   "Status": "Valid",
+   "Number": "205",
+   "PopularTitle": "Fiskeriloven",
+   "Ministry": "Miljøministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2023/205",
+   "lovtidende": "LBK nr. 205 af 01/03/2023"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-landbrugsstoetteloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "212807",
+   "DocumentTitle": "Bekendtgørelse af lov om administration af Det Europæiske Fællesskabs forordninger om ordninger under Den Fælles Landbrugspolitik finansieret af Den Europæiske Garantifond for Landbruget m.v. (landbrugsstøtteloven)",
+   "Year": "2020",
+   "DiesSigni": "2020-02-06",
+   "Status": "Valid",
+   "Number": "115",
+   "PopularTitle": "Landbrugsstøtteloven",
+   "Ministry": "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-landbrugsstoetteloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "212807",
+   "DocumentTitle": "Bekendtgørelse af lov om administration af Det Europæiske Fællesskabs forordninger om ordninger under Den Fælles Landbrugspolitik finansieret af Den Europæiske Garantifond for Landbruget m.v. (landbrugsstøtteloven)",
+   "Year": "2020",
+   "DiesSigni": "2020-02-06",
+   "Status": "Valid",
+   "Number": "115",
+   "PopularTitle": "Landbrugsstøtteloven",
+   "Ministry": "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-landbrugsstoetteloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "212807",
+   "DocumentTitle": "Bekendtgørelse af lov om administration af Det Europæiske Fællesskabs forordninger om ordninger under Den Fælles Landbrugspolitik finansieret af Den Europæiske Garantifond for Landbruget m.v. (landbrugsstøtteloven)",
+   "Year": "2020",
+   "DiesSigni": "2020-02-06",
+   "Status": "Valid",
+   "Number": "115",
+   "PopularTitle": "Landbrugsstøtteloven",
+   "Ministry": "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-landbrugsstoetteloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "212807",
+   "DocumentTitle": "Bekendtgørelse af lov om administration af Det Europæiske Fællesskabs forordninger om ordninger under Den Fælles Landbrugspolitik finansieret af Den Europæiske Garantifond for Landbruget m.v. (landbrugsstøtteloven)",
+   "Year": "2020",
+   "DiesSigni": "2020-02-06",
+   "Status": "Valid",
+   "Number": "115",
+   "PopularTitle": "Landbrugsstøtteloven",
+   "Ministry": "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2020/115",
+   "lovtidende": "LBK nr. 115 af 06/02/2020"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-landbrugsejendomme.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "212808",
+   "DocumentTitle": "Bekendtgørelse af lov om landbrugsejendomme",
+   "Year": "2020",
+   "DiesSigni": "2020-02-06",
+   "Status": "Valid",
+   "Number": "116",
+   "PopularTitle": "Landbrugsloven",
+   "Ministry": "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-landbrugsejendomme.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "212808",
+   "DocumentTitle": "Bekendtgørelse af lov om landbrugsejendomme",
+   "Year": "2020",
+   "DiesSigni": "2020-02-06",
+   "Status": "Valid",
+   "Number": "116",
+   "PopularTitle": "Landbrugsloven",
+   "Ministry": "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-landbrugsejendomme.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "212808",
+   "DocumentTitle": "Bekendtgørelse af lov om landbrugsejendomme",
+   "Year": "2020",
+   "DiesSigni": "2020-02-06",
+   "Status": "Valid",
+   "Number": "116",
+   "PopularTitle": "Landbrugsloven",
+   "Ministry": "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-landbrugsejendomme.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "212808",
+   "DocumentTitle": "Bekendtgørelse af lov om landbrugsejendomme",
+   "Year": "2020",
+   "DiesSigni": "2020-02-06",
+   "Status": "Valid",
+   "Number": "116",
+   "PopularTitle": "Landbrugsloven",
+   "Ministry": "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2020/116",
+   "lovtidende": "LBK nr. 116 af 06/02/2020"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "raad-det-veterinaere-sundhedsraad.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/64",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/64",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "raad-det-veterinaere-sundhedsraad.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/1711",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "raad-det-veterinaere-sundhedsraad.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/1711",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "raad-det-dyreetiske-raad.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/994",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/994",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "raad-det-dyreetiske-raad.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/1260",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "raad-det-dyreetiske-raad.identifikatorer",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/1260",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "tilsyn-dyreforsoegstilsynet.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/63",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/63",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "tilsyn-dyreforsoegstilsynet.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/63",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/63",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "tilsyn-dyreforsoegstilsynet.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2013/82",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-findsmiley.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.findsmiley.dk/in-english",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-findsmiley.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.findsmiley.dk/in-english",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-findsmiley.adgang",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.findsmiley.dk/in-english",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|sty-foedevarestyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://foedevarestyrelsen.dk/nyheder/webnyheder/2026/jul/fvst",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-foedevareloven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/514",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|lov-dyrlaegeloven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://foedevarestyrelsen.dk/nyheder/webnyheder/2026/jul/fvst",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|raad-det-veterinaere-sundhedsraad",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://foedevarestyrelsen.dk/nyheder/webnyheder/2026/jul/fvst",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-natur-og-dyrevelfaerd|ressortansvar|lov-dyrevelfaerdsloven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://foedevarestyrelsen.dk/nyheder/webnyheder/2026/jul/fvst",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|lov-dyrevelfaerdsloven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/514",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-natur-og-dyrevelfaerd|ressortansvar|raad-det-dyreetiske-raad",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://foedevarestyrelsen.dk/nyheder/webnyheder/2026/jul/fvst",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-natur-og-dyrevelfaerd|ressortansvar|tilsyn-dyreforsoegstilsynet",
+  "sikkerhed": "ukendt",
+  "dom": "baerer-ikke",
+  "belaeg": [
+   {
+    "url": "https://foedevarestyrelsen.dk/nyheder/webnyheder/2026/jul/fvst",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-natur-og-dyrevelfaerd|ressortansvar|lov-dyreforsoegsloven",
+  "sikkerhed": "ukendt",
+  "dom": "baerer-ikke",
+  "belaeg": [
+   {
+    "url": "https://foedevarestyrelsen.dk/nyheder/webnyheder/2026/jul/fvst",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-natur-og-dyrevelfaerd|ressortansvar|lov-landbrugsstoetteloven",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/514",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-natur-og-dyrevelfaerd|ressortansvar|lov-landbrugsejendomme",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/514",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-miljoe|ressortansvar|lov-fiskeriloven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/514",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "Miljøministeriet"
+  }
+ },
+ {
+  "hvor": "kant lov-foedevareloven|hjemmel_for|sty-foedevarestyrelsen",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/32",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-dyrlaegeloven|hjemmel_for|raad-det-veterinaere-sundhedsraad",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/64",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-dyrevelfaerdsloven|hjemmel_for|raad-det-dyreetiske-raad",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/994",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-dyreforsoegsloven|hjemmel_for|tilsyn-dyreforsoegstilsynet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/63",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant naevn-miljoe-og-foedevareklagenaevnet|klageinstans|sty-foedevarestyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/32",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/32",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/994",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/64",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2017/131",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-foedevarestyrelsen|udsteder|kilde-findsmiley",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.findsmiley.dk/in-english",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ }
+]

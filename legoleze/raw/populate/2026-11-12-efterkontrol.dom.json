@@ -1,0 +1,18 @@
+[
+  {"hvor": "raad-det-centrale-handicapraad.url", "dom": "baerer", "grund": ""},
+  {"hvor": "org-ankenaevnet-for-bus-tog-og-metro.dokumenttyper", "dom": "baerer", "grund": ""},
+  {"hvor": "org-ankenaevnet-for-bus-tog-og-metro.url", "dom": "baerer", "grund": ""},
+  {"hvor": "kilde-abtm-afgoerelser.dokumenttyper", "dom": "baerer", "grund": ""},
+  {"hvor": "kilde-abtm-afgoerelser.url", "dom": "delvist", "grund": "Belægget er forsiden; stien /afgorelser står hverken i citat eller kontekst."},
+  {"hvor": "kilde-abtm-afgoerelser.adgang", "dom": "baerer", "grund": ""},
+  {"hvor": "kant org-ankenaevnet-for-bus-tog-og-metro|udsteder|kilde-abtm-afgoerelser", "dom": "baerer", "grund": ""},
+  {"hvor": "sty-foedevarestyrelsen.tidligere_navne[Styrelsen for Fødevarer, Landbrug og Fiskeri]", "dom": "delvist", "grund": "Start 1/1/2026 og navnet er belagt; slutdatoen 5/7 står ikke, kun 6. juli for ressortomlægningen."},
+  {"hvor": "sty-foedevarestyrelsen.url", "dom": "baerer", "grund": ""},
+  {"hvor": "kant min-erhverv|ressortansvar|sty-foedevarestyrelsen", "dom": "baerer", "grund": ""},
+  {"hvor": "kant min-erhverv|ressortansvar|lov-dyrlaegeloven", "dom": "baerer", "grund": ""},
+  {"hvor": "kant min-erhverv|ressortansvar|raad-det-veterinaere-sundhedsraad", "dom": "delvist", "grund": "Belægget handler om veterinærområdet generelt; Det Veterinære Sundhedsråd nævnes ikke."},
+  {"hvor": "kant min-natur-og-dyrevelfaerd|ressortansvar|lov-dyrevelfaerdsloven", "dom": "baerer", "grund": ""},
+  {"hvor": "kant min-natur-og-dyrevelfaerd|ressortansvar|raad-det-dyreetiske-raad", "dom": "delvist", "grund": "Belægget handler om dyrevelfærd generelt; Det Dyreetiske Råd nævnes ikke."},
+  {"hvor": "kant min-natur-og-dyrevelfaerd|ressortansvar|tilsyn-dyreforsoegstilsynet", "dom": "baerer-ikke", "grund": "Belægget handler om dyrevelfærd; dyreforsøg og Dyreforsøgstilsynet nævnes ikke."},
+  {"hvor": "kant min-natur-og-dyrevelfaerd|ressortansvar|lov-dyreforsoegsloven", "dom": "baerer-ikke", "grund": "Belægget handler om dyrevelfærdsloven; dyreforsøgsloven er et andet retsområde."}
+]
