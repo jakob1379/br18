@@ -2,7 +2,7 @@
 
 Du udvider et registry over danske myndigheder og retskilder: en graf, der skal bære et juridisk RAG-korpus, hvor søgning kan følge kæden lov → bekendtgørelse → vejledning → praksis. Registry'et ligger i `legoleze/dk-regulering/registry.yaml`. Det dækker byggeri, bolig, plan, energi, miljø, arbejdsmiljø, brand og el/gas/VVS i dybden og instanslaget for de retsområder, der er tilføjet siden (se `legoleze/dk-regulering/README.md`). Du får ét retsområde, som mangler.
 
-Arbejdsmappe: `/home/jsg/.t3/worktrees/br18/t3-470b1547-0552d078007abcb8`. Dags dato er 2026-11-11. Skriv alle tekstværdier på dansk.
+Arbejdsmappe: `/home/jsg/.t3/worktrees/br18/t3-470b1547-0552d078007abcb8`. Dags dato (`<dato>`) og dit område (`<omraade>`) står i opgaveteksten. Skriv alle tekstværdier på dansk.
 
 ## Opgaven
 
@@ -14,7 +14,7 @@ Kortlæg instanslaget for dit område:
 4. **Hjemmelslovene**: de love, der opretter instanserne eller fastlægger klage- og tilsynsvejen, med gældende lovbekendtgørelse.
 5. **Dokumentkilderne**: hvor afgørelser, praksis og vejledninger offentliggøres (databaser, samlinger), med adgangsform, vilkår og nummersystem.
 
-Sigt efter de 8–20 vigtigste instanser, de 3–10 love, der bærer kæden, og de 3–8 vigtigste dokumentkilder. En komplet kæde er vigtigere end mange noder.
+Sigt efter de 8–15 vigtigste instanser, de 3–10 love, der bærer kæden, og de 3–8 vigtigste dokumentkilder. En komplet kæde og fuldt udfyldte noder er vigtigere end mange noder.
 
 ## Det, der findes i forvejen
 
@@ -56,10 +56,17 @@ Tværgående noder, du ofte får brug for: `sty-ankestyrelsen`, `sty-naevnenes-h
 
       grep -i '"navn":"Bekendtgørelse af skatteforvaltningsloven' legoleze/dk-regulering/katalog/retsinformation_lta.jsonl | jq -c '{id,navn,type,status:.status.vaerdi,udstedt:.datoer.udstedt,gv:.gaeldende_version,eli:.kilder[0]}'
 
-  Status er fra juni 2026, så der kan være kommet en nyere version. Bekræft på Retsinformation, at dokumentet stadig er gældende (`<Status>Valid</Status>` i XML'en).
+  Status er fra juni 2026, så der er ofte kommet en nyere version. Kør `lov`-kommandoen nedenfor på ELI-adressen for at få den gældende.
 - **Web:** Brug WebSearch til at finde sider og WebFetch til at læse dem (indlæs dem med ToolSearch `select:WebSearch,WebFetch`, hvis de ikke er tilgængelige). Bed WebFetch om at gengive passagen "ordret, uden omskrivning".
-- **Retsinformation:** ELI-siden (`https://www.retsinformation.dk/eli/lta/<år>/<nr>`) er en JavaScript-skal uden tekst. Læs teksten på samme adresse med `/xml` bagefter. Lange dokumenter kommer i stykker på 100.000 tegn; læs videre med `offset`. Vent cirka 10 sekunder mellem forskellige dokumenter, og åbn højst cirka 15.
+- **Værktøjet (brug det frem for WebFetch, når du kender adressen).** Det henter siden råt, husker den og holder selv 10 sekunders afstand til Retsinformation. Kommandoerne kræver netværk: sæt `allowed_domains` til sidens vært i Bash-kaldet (fx `["www.retsinformation.dk"]`).
+
+      python3 legoleze/pipeline/populate.py lov https://www.retsinformation.dk/eli/lta/2025/354
+      python3 legoleze/pipeline/populate.py tekst https://www.retsinformation.dk/eli/lta/2026/680 'klage|indbringes'
+
+  `lov` viser, om dokumentet er historisk, den gældende lovbekendtgørelse, Retsinformations ministerium for den og de ændringslove, der er kommet efter. Brug den gældende version i noden; du skal ikke lede efter afløseren på anden vis. `tekst` viser sidens egen tekst omkring hvert træf på et regulært udtryk (alle sider, også PDF), så du kan kopiere citater ordret. Får kommandoerne intet netværk, så skriv det i din afslutning, og brug WebFetch.
+- **Retsinformation via WebFetch (nødløsning):** ELI-siden (`https://www.retsinformation.dk/eli/lta/<år>/<nr>`) er en JavaScript-skal uden tekst; teksten ligger på samme adresse med `/xml`. WebFetch læser gennem en opsummerende model, som forkorter og omskriver, så kontrollér ordlyden, og vent cirka 10 sekunder mellem dokumenter.
 - **Budget:** højst cirka 25 WebSearch-kald (de er en delt, begrænset ressource). Brug hellere WebFetch på officielle sider, du allerede kender.
+- Send aldrig filstier, brugernavne eller projektnavne med i søgninger eller webkald.
 
 ## Belæg: den regel, der betyder mest
 
@@ -70,10 +77,10 @@ Når du er færdig, henter orkestratoren hver URL og leder efter citatet. Et cit
 - Konstruér eller gæt aldrig en URL. Brug kun adresser, du selv har åbnet.
 - Omskriv aldrig et citat. Kopiér ordlyden.
 - Citatet skal bære påstandens kerne. En uafhængig kontrollant læser kun påstand og citat og sænker sikkerheden, hvis citatet ikke viser det, du hævder. Derfor:
-  - Er en paragraf pointen, så tag paragrafnummeret med i citatet (fx "§ 372. Afgørelser truffet af Finanstilsynet … kan indbringes for Erhvervsankenævnet").
+  - Er en paragraf pointen, så vælg et citat, der står i netop den paragraf. Kontrollen finder citatet i dokumentet og viser kontrollanten paragraffen og teksten omkring det, så nummeret behøver ikke stå i selve citatet. Står citatet i en anden paragraf end den, du skriver i `beskrivelse`, falder påstanden.
   - Giv ét citat pr. detalje, du skriver i `tekst` eller `beskrivelse` (frist, endelighed, hvem der kan klage). Skriv ikke detaljer, du ikke citerer.
   - En `url` belægges med et citat fra selve siden (samme domæne), hvor instansen eller kilden præsenterer sig selv. En liste af navne på en anden side beviser ikke adressen.
-  - En `ressortansvar`-kant belægges med en side, der siger, at instansen eller loven hører under ministeriet. En lovtekst, der nævner en minister, gør det ikke alene.
+  - En `ressortansvar`-kant til en instans belægges med en side, der siger, at instansen hører under ministeriet. For love og bekendtgørelser læser kontrollen selv Retsinformations ministeriefelt (det, `lov` viser), så dér er ét citat fra dokumentet nok. Afviger dit ministerium fra feltet, så forklar hvorfor i `beskrivelse`, og citér ressortbekendtgørelsen.
 - Citér den officielle kilde, hvor den findes: retsinformation.dk, instansens egen side, ft.dk eller eur-lex. Sekundære sider (Lovguiden, lex.dk, Wikipedia, danskelove.dk) tæller kun halvt.
 - For dokumenter på Retsinformation citerer du ELI-adressen uden `/xml`; kontrollen læser selv XML'en.
 - Kan du ikke finde belæg, så udelad påstanden, og skriv den under `huller` (type `ikke-fundet` eller `uklart`). Gæt ikke.
@@ -82,9 +89,9 @@ Du sætter ikke selv sikkerhed. Den beregnes af kontrollen.
 
 ## Output
 
-Skriv én JSON-fil til `legoleze/raw/populate/2026-11-11-<omraade>.json`, og kør så:
+Skriv én JSON-fil til `legoleze/raw/populate/<dato>-<omraade>.json`, og kør så:
 
-    python3 legoleze/pipeline/populate.py check legoleze/raw/populate/2026-11-11-<omraade>.json
+    python3 legoleze/pipeline/populate.py check legoleze/raw/populate/<dato>-<omraade>.json
 
 Ret, indtil den skriver `OK`. Redigér ingen andre filer.
 
@@ -167,6 +174,9 @@ Alle værdier, adresser og citater i eksemplet er opdigtede, også rettelsen. Ko
 ### Felter
 
 - **Node:** `id`, `navn`, `type`, `ministerium`, `status` er påkrævet. Derudover de påstandsfelter, du har belæg for: `hjemmel` (`tekst`), `dokumenttyper` (`liste` af `{type, bindende, note}`), `url` (`vaerdi`), `adgang` (`vaerdier`, `note`), `identifikatorer` (`eli`, `lovtidende`, `celex`, `journalnr`, `andet`), `licens` (`tekst`), `opdatering` (`frekvens`, `versionshistorik`). Hvert påstandsfelt skal have `belaeg`; udelad feltet, hvis du ikke har belæg. Frie felter: `tidligere_navne`, `krydsref_moenstre` (typiske henvisningsmønstre i tekst, brugbare som regex), `ingest` (`vaerdi` og `besvaer` 1–5 samt `begrundelse`), `note`, `domaener`.
+- **Mindstekrav pr. nodetype.** Første runde efterlod de fleste af disse felter tomme, så udfyld dem, eller skriv et hul, der siger, hvad du ledte efter:
+  - instans: `hjemmel` (bestemmelsen, der opretter instansen eller giver den kompetencen), `url` og `dokumenttyper` (hvad instansen udsteder: afgørelse, bekendtgørelse, vejledning, principmeddelelse osv., og om det binder).
+  - dokumentkilde og praksissamling: `url`, `dokumenttyper`, `adgang`, `identifikatorer` (nummersystemet, med et eksempel fra siden), `opdatering` og `licens` (vilkår for genbrug: citér sidens vilkårs-, ophavsrets- eller "om databasen"-tekst; findes ingen, er det et hul af typen `uklart`).
 - **Love og bekendtgørelser:** giv `url`, `identifikatorer` og `hjemmel` (for love: `ikke relevant`; for bekendtgørelser: hjemmelsbestemmelsen). `adgang`, `licens` og `opdatering` udfyldes automatisk for dokumenter på Retsinformation.
 - **type:** instanser: `styrelse`, `direktorat`, `nævn`, `klagenævn`, `tilsyn`, `råd`, `fond`, `domstol`, `ombudsmand`, `offentlig-virksomhed`, `eu-institution`, `privat-organisation`. Dokumenter: `dokumentkilde`, `lov`, `bekendtgørelse`, `cirkulære`, `vejledning`, `praksissamling`, `eu-direktiv`, `eu-forordning`, `eu-afgørelse`.
 - **status:** `aktiv`, `nedlagt`, `omdøbt`, `ophævet`, `ukendt`.
@@ -203,22 +213,22 @@ Svar med 5–10 linjer: hvad du tilføjede (antal noder, kanter, huller), hvad d
 
 # Brief til kontrollanten
 
-Du er uafhængig kontrollant. Hent ingen websider, og start ingen agenter. Læs `legoleze/raw/populate/<dato>-<omraade>.review.json`: en liste af påstande med `hvor` (nøgle, gengives uændret), `paastand` og `belaeg` (`{url, citat}`). Citaterne er allerede genfundet maskinelt på siderne. Din eneste opgave er at bedømme, om citaterne bærer påstanden. Brug kun det, der står i filen, og almindelig sprogforståelse; godkend ikke noget på din egen viden om dansk ret.
+Du er uafhængig kontrollant. Hent ingen websider, og start ingen agenter. Læs `legoleze/raw/populate/<dato>-<omraade>.review.json`: en liste af påstande med `hvor` (nøgle, gengives uændret), `paastand` og `belaeg`. Hvert belæg har `url` og `citat` (research-agentens anker) og det, kontrollen selv fandt på siden: `genfundet` (om citatet står der), `kontekst` (sidens egen tekst omkring citatet) og for dokumenter på Retsinformation `paragraf` (den paragraf, citatet står i). Din eneste opgave er at bedømme, om belægget bærer påstanden. Læs citat, kontekst og paragraf under ét: konteksten er hentet maskinelt fra siden og tæller på linje med citatet. Et belæg med `genfundet: false` og feltet `side` kunne ikke hentes (botmur eller timeout) og er derfor uefterprøvet: bedøm citatet alene, og giv højst `delvist`. Et belæg med `genfundet: false` uden `side` er hentet, uden at citatet står der, og tæller ikke. Brug kun det, der står i filen, og almindelig sprogforståelse; godkend ikke noget på din egen viden om dansk ret.
 
-- `baerer`: citaterne siger direkte det, påstanden hævder, inklusive kernen (hvem, hvilken relation, og paragraf eller frist, når det er pointen).
-- `delvist`: citaterne handler om det samme, men fastslår ikke kernen: en navneliste som bevis for en adresse, en instans nævnt uden relationen, forkert retning, en anden paragraf, eller centrale detaljer, som ikke fremgår.
-- `baerer-ikke`: citaterne er irrelevante for påstanden eller modsiger den.
+- `baerer`: belægget siger direkte det, påstanden hævder, inklusive kernen (hvem, hvilken relation, og paragraf eller frist, når det er pointen). Nævner påstanden en paragraf, skal den stemme med `paragraf` eller fremgå af konteksten.
+- `delvist`: belægget handler om det samme, men fastslår ikke kernen: en navneliste som bevis for en adresse, en instans nævnt uden relationen, forkert retning, en anden paragraf, eller centrale detaljer, som ikke fremgår.
+- `baerer-ikke`: belægget er irrelevant for påstanden eller modsiger den.
 
-Kanter har formen `A —type→ B: beskrivelse` med retningen fra tabellen ovenfor. Feltpåstande har formen `Navn (type, ministerium …): felt = {værdi}`. Bedøm kernen, ikke hver bisætning. `hjemmel = "ikke relevant"` for en lov bæres af ethvert citat, der viser, at dokumentet er loven.
+Kanter har formen `A —type→ B: beskrivelse` med retningen fra tabellen ovenfor. Feltpåstande har formen `Navn (type, ministerium …): felt = {værdi}`. Bedøm kernen, ikke hver bisætning. `hjemmel = "ikke relevant"` for en lov bæres af ethvert citat, der viser, at dokumentet er loven. Ministeriet i en `ressortansvar`-kant til en lov eller bekendtgørelse kontrolleres maskinelt bagefter; bedøm dér kun, om belægget handler om den rigtige lov.
 
 Skriv `legoleze/raw/populate/<dato>-<omraade>.dom.json`: en JSON-liste med ét objekt pr. påstand i samme rækkefølge, `{"hvor": …, "dom": "baerer" | "delvist" | "baerer-ikke", "grund": "<højst 20 ord; tom ved baerer>"}`. Svar til sidst med antal pr. dom og de vigtigste problemer.
 
 # Orkestratorens forløb
 
     python3 legoleze/pipeline/populate.py check  FUND.json            # research-agenten har kørt den; kør den igen
-    python3 legoleze/pipeline/populate.py review FUND.json > FUND.review.json   # til kontrollanten (Haiku, effort high), som skriver FUND.dom.json
-    python3 legoleze/pipeline/populate.py hosts  FUND.json...         # værter til netværkstilladelsen
-    uv run --no-project --with pyyaml python legoleze/pipeline/populate.py apply FUND.json...
+    python3 legoleze/pipeline/populate.py hosts  FUND.json...         # værter til netværkstilladelsen (se adresserne igennem først)
+    python3 legoleze/pipeline/populate.py review FUND.json > FUND.review.json   # henter kilderne; til kontrollanten (Haiku, effort high), som skriver FUND.dom.json
+    uv run --no-project --with pyyaml python legoleze/pipeline/populate.py apply FUND.json...   # kilderne ligger i cachen; tidslinjer hentes
     uv run --no-project --with pyyaml bash legoleze/pipeline/views.sh  # README, views, final.json og kortet
 
 Læs kontrollantens indvendinger mod kanterne, før du fletter: en forkert typet kant er værre end en manglende, og den fjernes fra fundet med en note. `git checkout` må ikke bruges på LFS-filerne (`intermediate/`, `reguleringskort.html`, `*.jsonl`) uden `git-lfs` på stien; uden filteret sletter den dem i arbejdstræet.
