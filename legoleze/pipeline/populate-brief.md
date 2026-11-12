@@ -219,7 +219,7 @@ Du er uafhængig kontrollant. Hent ingen websider, og start ingen agenter. Læs 
 - `delvist`: belægget handler om det samme, men fastslår ikke kernen: en navneliste som bevis for en adresse, en instans nævnt uden relationen, forkert retning, en anden paragraf, eller centrale detaljer, som ikke fremgår.
 - `baerer-ikke`: belægget er irrelevant for påstanden eller modsiger den.
 
-Kanter har formen `A —type→ B: beskrivelse` med retningen fra tabellen ovenfor. Feltpåstande har formen `Navn (type, ministerium …): felt = {værdi}`. Bedøm kernen, ikke hver bisætning. `hjemmel = "ikke relevant"` for en lov bæres af ethvert citat, der viser, at dokumentet er loven. Ministeriet i en `ressortansvar`-kant til en lov eller bekendtgørelse kontrolleres maskinelt bagefter; bedøm dér kun, om belægget handler om den rigtige lov.
+Kanter har formen `A —type→ B: beskrivelse` med retningen fra tabellen ovenfor. Feltpåstande har formen `Navn (type, ministerium …): felt = {værdi}`. Bedøm kernen, ikke hver bisætning. `hjemmel = "ikke relevant"` for en lov bæres af ethvert citat, der viser, at dokumentet er loven. En `ressortansvar`-kant bæres kun, når belægget viser, at instansen, loven eller lovens område hører under ministeriet i dag: en ressortbekendtgørelse, ministeriets eller instansens egen side, eller Retsinformations ministeriefelt. En lovtekst, der nævner en minister, viser kun, hvem der havde loven, da teksten blev skrevet, og er højst `delvist`.
 
 Skriv `legoleze/raw/populate/<dato>-<omraade>.dom.json`: en JSON-liste med ét objekt pr. påstand i samme rækkefølge, `{"hvor": …, "dom": "baerer" | "delvist" | "baerer-ikke", "grund": "<højst 20 ord; tom ved baerer>"}`. Svar til sidst med antal pr. dom og de vigtigste problemer.
 
@@ -229,6 +229,7 @@ Skriv `legoleze/raw/populate/<dato>-<omraade>.dom.json`: en JSON-liste med ét o
     python3 legoleze/pipeline/populate.py hosts  FUND.json...         # værter til netværkstilladelsen (se adresserne igennem først)
     python3 legoleze/pipeline/populate.py review FUND.json > FUND.review.json   # henter kilderne; til kontrollanten (Haiku, effort high), som skriver FUND.dom.json
     uv run --no-project --with pyyaml python legoleze/pipeline/populate.py apply FUND.json...   # kilderne ligger i cachen; tidslinjer hentes
+    uv run --no-project --with pyyaml python legoleze/pipeline/populate.py ajour                # alle aktive retsakter: gældende version, dokumenttype og ministerium
     uv run --no-project --with pyyaml bash legoleze/pipeline/views.sh  # README, views, final.json og kortet
 
 Læs kontrollantens indvendinger mod kanterne, før du fletter: en forkert typet kant er værre end en manglende, og den fjernes fra fundet med en note. `git checkout` må ikke bruges på LFS-filerne (`intermediate/`, `reguleringskort.html`, `*.jsonl`) uden `git-lfs` på stien; uden filteret sletter den dem i arbejdstræet.
