@@ -2,12 +2,13 @@
 """Fase 7: flet agent-fund ind i registry.yaml med maskinel citatkontrol.
 
     python3 populate.py check FUND.json      # skematjek uden netværk og uden PyYAML (agenter kører det selv)
-    python3 populate.py lov ELI-ADRESSE      # status, gældende version, ministerium og senere ændringslove fra Retsinformation
+    python3 populate.py lov ELI-ADRESSE      # status, gældende version, ministerium og Retsinformations henvisninger (hjemmel, ændringer, afledte forskrifter)
     python3 populate.py tekst URL MØNSTER    # sidens egen tekst omkring hvert træf på et regulært udtryk (til ordrette citater)
     python3 populate.py hosts FUND.json...   # værter der skal kunne nås af review og apply
     python3 populate.py review FUND.json     # hent kilder; påstand, citat, kontekst og paragraf til en kontrollant, som skriver FUND.dom.json
     python3 populate.py apply FUND.json...   # tjek citater (kilderne ligger i cachen efter review), flet, skriv registry.yaml + FUND.kontrol.json
-    python3 populate.py ajour                # flyt aktive love med historisk version til den gældende; journal i raw/populate/DATO-ajour.kontrol.json
+    python3 populate.py ajour                # slå alle aktive retsakter op: gældende version, senere ændringer og de kanter, Retsinformation fører;
+                                             # journal i raw/populate/DATO-ajour.kontrol.json
     python3 populate.py selftest
 
 En agent leverer noder, kanter og rettelser med belaeg: [{url, citat}]. Sikkerheden sættes her, ikke af agenten:
@@ -84,8 +85,10 @@ FASE7 = ("Fase 7 (fra 2026-11-11): Instanslag uden for de otte domæner. Én res
          "er historisk, flyttes til den gældende lovbekendtgørelse fra Retsinformations tidslinje; og en ressortansvar-kant til en lov eller "
          "bekendtgørelse er verificeret, når Retsinformations ministeriefelt er det samme ministerium og med sikkerhed er sat efter "
          "regeringsdannelsen: dokumentet er udstedt efter den, eller ministeriet fik sit navn ved den (feltet på ældre dokumenter er ikke "
-         "altid ført ajour).")
+         "altid ført ajour). populate.py ajour slår alle aktive retsakter op hos Retsinformation og skriver gældende version, nummer, dato og "
+         "senere ændringer samt de hjemmel_for- og implementerer_EU-kanter, Retsinformation selv fører mellem registry'ets noder.")
 RI = "https://www.retsinformation.dk"
+SENERE, LOVGIVNING, IMPLEMENTERER = "Senere ændringer til forskriften", "Lovgivning forskriften vedrører", "Forskrifter, som implementerer EU direktiv "
 UA = "Mozilla/5.0 (compatible; registry-citatkontrol)"
 CACHE = Path(os.environ.get("TMPDIR", "/tmp")) / "legoleze-citatkontrol"
 OK = 0.6
@@ -283,7 +286,7 @@ def ri_meta(url: str) -> dict:
 
 def betegnelse(meta: dict) -> str:
     y, mo, d = meta["DiesSigni"].split("-")
-    kind = meta["DocumentType"].split()[0]
+    kind = meta["DocumentType"].split("#")[0].split()[0]
     return f"{DOC_KINDS.get(kind, kind)} nr. {meta['Number']} af {d}/{mo}/{y}"
 
 
@@ -326,14 +329,45 @@ def gaeldende(tl: list[dict]) -> dict:
     return max((d for d in tl if (d.get("documentTypeId") == 30 or d.get("isMainLaw")) and not d.get("isHistoric")), key=_dato, default={})
 
 
-def afloeser(meta: dict) -> dict:
-    """Metadata (plus eli) for den gældende version, når en hovedlov eller lovbekendtgørelse er historisk og tidslinjen har en nyere; ellers tom."""
-    kind = meta.get("DocumentType", "").split("#")[0].split()
-    if meta.get("Status") != "Historic" or not kind or DOC_KINDS.get(kind[0], kind[0]) not in ("LBK", "LOV") or "Æ" in kind[1:]:
+def henvisninger(meta: dict) -> dict:
+    """Retsinformations henvisninger for et dokument som {overskrift: [poster]}; tom, hvis de ikke kan læses."""
+    if not meta.get("UniqueDocumentId"):
         return {}
-    ny = gaeldende(tidslinje(meta))
-    ny_meta = ri_meta(RI + ny["href"]) if ny else {}
-    return {**ny_meta, "eli": RI + ny["href"]} if ny_meta else {}
+    status, raw = get(f"{RI}/api/document/{meta['UniqueDocumentId']}/references/1")
+    try:
+        d = json.loads(raw) if status == "ok" else {}
+    except ValueError:
+        return {}
+    grupper = [g for k in ("referenceGroups", "documentLinkGroups") for g in d.get(k) or []] if isinstance(d, dict) else []
+    return {g["header"]: g.get("references") or [] for g in grupper if g.get("header")}
+
+
+def afloeser(meta: dict) -> dict:
+    """Metadata (plus eli) for den gældende version af et historisk dokument; ellers tom. For en hovedlov eller lovbekendtgørelse er det den
+    nyeste gældende i tidslinjen, for en bekendtgørelse den gældende bekendtgørelse med samme titel blandt dem, der har ændret eller ophævet den."""
+    kind = meta.get("DocumentType", "").split("#")[0].split()
+    code = DOC_KINDS.get(kind[0], kind[0]) if kind else ""
+    href = None
+    if meta.get("Status") == "Historic" and "Æ" not in kind[1:] and code in ("LBK", "LOV"):
+        href = gaeldende(tidslinje(meta)).get("href")
+    elif meta.get("Status") == "Historic" and "Æ" not in kind[1:] and code == "BEK":
+        samme = [r for r in henvisninger(meta).get(SENERE, []) if not r.get("isHistorical") and norm(r.get("title", "")) == norm(meta.get("DocumentTitle", ""))]
+        href = max(samme, key=lambda r: r.get("offentliggoerelsesDato", "").split("-")[::-1])["eliPath"] if samme else None
+    ny_meta = ri_meta(RI + href) if href else {}
+    return {**ny_meta, "eli": RI + href} if ny_meta else {}
+
+
+def numre(tekst: str) -> set[str]:
+    """Dokumentnumre nævnt i en tekst: tallet efter "nr." eller efter en dokumenttype som BEK eller VEJ."""
+    return set(re.findall(r"(?:\bnr\.?\s*|\b(?:LOV|LBK|BEK|VEJ|CIR|CIS|SKR)\s+)(\d+)", tekst, re.IGNORECASE))
+
+
+def hedder(navn: str, meta: dict, nummer: bool = True) -> bool:
+    """Om et nodenavn svarer til dokumentet hos Retsinformation: ordene dækker titlen eller populærtitlen, eller navnet nævner dokumentets
+    nummer. Nummeret tæller kun med nummer=True; vejledningers numre forveksles for let."""
+    names = [set(norm(x).split()) - {"bekendtgørelse", "af"} for x in (navn, re.sub(r"\([^)]*\)", " ", navn))]
+    titles = [set(norm(meta.get(k, "")).split()) - {"bekendtgørelse", "af"} for k in ("PopularTitle", "DocumentTitle")]
+    return nummer and meta.get("Number") in numre(navn) or any(t and len(t & name) >= 0.8 * min(len(t), len(name)) for t in titles for name in names)
 
 
 def kontekst(citat: str, text: str, pad: int = 300) -> str | None:
@@ -448,14 +482,12 @@ def merge(f: dict, reg: dict, pages: dict, primary: set, dom: dict | None = None
         own_url[nid] = str((n.get("url") or {}).get("vaerdi"))
         on_ri = n["type"] in RI_TYPES and site(own_url[nid]) == "retsinformation.dk"
         meta = ri_meta(own_url[nid]) if on_ri else {}
-        ny = afloeser(meta) if n["type"] == "lov" else {}
+        ny = afloeser(meta) if n["type"] in ("lov", "bekendtgørelse") else {}
         hist = meta if ny else {}
         if ny:
             own_url[nid], meta = ny["eli"], ny
         ri_min[nid] = ressort(meta, reg)
-        name = set(norm(n["navn"]).split())
-        titles = [set(norm(meta.get(k, "")).split()) - {"bekendtgørelse", "af"} for k in ("PopularTitle", "DocumentTitle")]
-        named = any(t and len(t & name) >= 0.8 * min(len(t), len(name)) for t in titles)
+        named = hedder(n["navn"], meta)
         out = {
             "id": nid, "navn": n["navn"], "type": n["type"], "ministerium": n["ministerium"], "status": n["status"],
             "domaener": list(dict.fromkeys([omr] + n.get("domaener", []))),
@@ -472,8 +504,8 @@ def merge(f: dict, reg: dict, pages: dict, primary: set, dom: dict | None = None
                 ids.update({k: v for k, v in given.items() if k not in ids})
                 if hist:
                     ids["katalog_note"] = (f"Fundet citerede {betegnelse(hist)}, som Retsinformation markerer som historisk "
-                                           f"({hist.get('DateOfHistoricMark', 'dato ukendt')}); gældende version er læst af Retsinformations "
-                                           f"tidslinje ({datetime.date.today()}).")
+                                           f"({hist.get('DateOfHistoricMark', 'dato ukendt')}); gældende version er læst hos Retsinformation "
+                                           f"({datetime.date.today()}).")
                 elif meta.get("Status") == "Historic":
                     ids["katalog_note"] = (f"Retsinformation markerer denne version som historisk ({meta.get('DateOfHistoricMark', 'dato ukendt')}); "
                                            f"den gældende afløser er ikke identificeret (kontrolleret {datetime.date.today()}).")
@@ -554,49 +586,91 @@ def hent(f: dict) -> dict:
 
 
 def ajour(reg: dict) -> list:
-    """Flyt aktive love, hvis registrerede version er historisk, til den gældende version, og bekræft ressortansvar-kanter med
-    Retsinformations ministeriefelt; returnér journalen over alle ELI-noder og de berørte kanter."""
-    journal = []
-    ri_min = {}
+    """Slå hver aktiv retsakt op hos Retsinformation. Historiske versioner flyttes til den gældende; nummer, dato, dokumenttype og senere
+    ændringer skrives fra kilden; og de ressortansvar-, hjemmel_for- og implementerer_EU-kanter, Retsinformation selv fører mellem
+    registry'ets noder, bekræftes eller tilføjes. En node, hvis navn ikke svarer til det dokument, den peger på, røres ikke (titel_afviger).
+    Har noden i forvejen en lovtidende-tekst om samme dokument, beholdes teksten og dens sikkerhed; ellers skrives betegnelsen fra kilden.
+    Returnér journalen over noder og berørte kanter."""
+    journal, ri_min, node_af, relationer = [], {}, {}, []
     for n in reg["nodes"]:
         if n["type"] not in RI_TYPES or n["status"] != "aktiv":
             continue
         ids = n["identifikatorer"]
         url = str(n["url"].get("vaerdi"))
-        found = re.search(r"\blta/\d{4}/\d+", f"{ids.get('eli', '')} {url if site(url) == 'retsinformation.dk' else ''}")
+        found = re.search(r"\b(?:lta|retsinfo|mt)/\d{4}/\d+", f"{ids.get('eli', '')} {url if site(url) == 'retsinformation.dk' else ''}")
         if not found:
             continue
         eli = f"{RI}/eli/{found.group(0)}"
         meta = ri_meta(eli)
-        ny = afloeser(meta) if n["type"] == "lov" else {}
         j = {"hvor": f"{n['id']}.identifikatorer", "eli": eli, "status": meta.get("Status", "ulæselig"), "ministerium": meta.get("Ministry")}
         journal.append(j)
-        ri_min[n["id"]] = (ressort(ny or meta, reg), ny.get("eli", eli))
+        if not meta:
+            continue
+        if not hedder(n["navn"], meta, nummer=n["type"] in ("lov", "bekendtgørelse")):
+            j["titel_afviger"] = meta.get("DocumentTitle")
+            continue
+        ny = afloeser(meta) if n["type"] in ("lov", "bekendtgørelse") else {}
+        nu, nu_eli = ny or meta, ny.get("eli", eli)
+        ri_min[n["id"]] = (ressort(nu, reg), nu_eli)
+        if node_af.setdefault(nu_eli, n["id"]) != n["id"]:
+            j["samme_dokument_som"] = node_af[nu_eli]
+        gammel = str(ids.get("lovtidende") or "")
+        behold = not ny and meta["Number"] in numre(gammel) and gammel != betegnelse(nu)
+        nyt = {"eli": nu_eli} if behold else {"lovtidende": betegnelse(nu), "eli": nu_eli}
+        if gammel and not behold and gammel != betegnelse(nu):
+            nyt["lovtidende_tidligere"] = gammel
+        h = henvisninger(nu)
+        if h:
+            nyt["senere_aendringer"] = [{"betegnelse": r["shortName"].strip(), "eli": RI + r["eliPath"]} for r in h.get(SENERE, [])]
+            nyt["aendringer_kontrolleret"] = str(datetime.date.today())
+            relationer += [(RI + r["eliPath"], "hjemmel_for", nu_eli, nu_eli) for r in h.get(LOVGIVNING, [])]
+            relationer += [(nu_eli, "hjemmel_for", RI + r["eliPath"], nu_eli) for hd, refs in h.items() if hd.startswith("Alle ") and " til denne " in hd for r in refs]
+            relationer += [(nu_eli, "implementerer_EU", hd[len(IMPLEMENTERER):].strip(), nu_eli) for hd, refs in h.items()
+                           if hd.startswith(IMPLEMENTERER) and any(str(r.get("id")) == nu.get("UniqueDocumentId") for r in refs)]
+        aendring = "Æ" in meta.get("DocumentType", "").split("#")[0].split()[1:]
         if ny:
             j["flyttet_til"] = f"{betegnelse(ny)} {ny.get('DocumentTitle')}"
-            note = (f"Tidligere registreret version {betegnelse(meta)} er historisk ({meta.get('DateOfHistoricMark', 'dato ukendt')}); "
-                    f"gældende version er læst af Retsinformations tidslinje ({datetime.date.today()}).")
-            n["identifikatorer"] = {**ids, "eli": ny["eli"], "lovtidende": betegnelse(ny), "katalog_note": note,
-                                    "kilder": list(dict.fromkeys([ny["eli"], *ids.get("kilder", [])])), "sikkerhed": "verificeret"}
+            nyt["katalog_note"] = (f"Tidligere registreret version {betegnelse(meta)} er historisk ({meta.get('DateOfHistoricMark', 'dato ukendt')}); "
+                                   f"gældende version er læst hos Retsinformation ({datetime.date.today()}).")
             if re.sub(r"/(pdf|xml|html)$", "", url.rstrip("/")) == eli:
                 n["url"] = {**n["url"], "vaerdi": ny["eli"], "kilder": list(dict.fromkeys([ny["eli"], *n["url"].get("kilder", [])])), "sikkerhed": "verificeret"}
-        if n["dokumenttyper"]["sikkerhed"] == "ukendt" and not n["dokumenttyper"].get("liste") and doktype(ny or meta):
-            n["dokumenttyper"] = {"liste": doktype(ny or meta), "kilder": [ny.get("eli", eli)], "sikkerhed": "verificeret"}
-            j["dokumenttyper"] = n["dokumenttyper"]["liste"][0]["type"]
-        aendring = "Æ" in meta.get("DocumentType", "").split("#")[0].split()[1:]
-        if not ny and meta.get("Status") == "Historic" and "katalog_note" not in ids and not aendring:
-            ids["katalog_note"] = (f"Retsinformation markerer denne version som historisk ({meta.get('DateOfHistoricMark', 'dato ukendt')}); "
+        elif meta.get("Status") == "Historic" and "katalog_note" not in ids and not aendring:
+            nyt["katalog_note"] = (f"Retsinformation markerer denne version som historisk ({meta.get('DateOfHistoricMark', 'dato ukendt')}); "
                                    f"den gældende afløser er ikke identificeret (kontrolleret {datetime.date.today()}).")
+        n["identifikatorer"] = {**{k: v for k, v in ids.items() if k not in ("kilder", "sikkerhed")}, **nyt,
+                                "kilder": list(dict.fromkeys([nu_eli, *ids.get("kilder", [])])),
+                                "sikkerhed": ids.get("sikkerhed", "ukendt") if behold else "verificeret"}
+        if n["dokumenttyper"]["sikkerhed"] == "ukendt" and not n["dokumenttyper"].get("liste") and doktype(nu):
+            n["dokumenttyper"] = {"liste": doktype(nu), "kilder": [nu_eli], "sikkerhed": "verificeret"}
+            j["dokumenttyper"] = n["dokumenttyper"]["liste"][0]["type"]
     ministre = {n["id"]: n["navn"] for n in reg["nodes"] if n["type"] == "ministerium" and n.get("status") == "aktiv"}
     delt = {(ministre.get(e["from"]), e["to"]) for e in reg.get("edges", []) if e["type"] == "ressortansvar"}
     for e in reg.get("edges", []):
         m, kilde = ri_min.get(e["to"], (None, None)) if e["type"] == "ressortansvar" else (None, None)
         hvor = "kant " + "|".join((e["from"], e["type"], e["to"]))
         if m and m == ministre.get(e["from"]) and e["sikkerhed"] != "verificeret":
-            journal.append({"hvor": hvor, "status": "Valid", "ministerium": m, "opgraderet_fra": e["sikkerhed"]})
+            journal.append({"hvor": hvor, "ministerium": m, "opgraderet_fra": e["sikkerhed"]})
             e["sikkerhed"], e["kilder"] = "verificeret", list(dict.fromkeys([kilde, *e["kilder"]]))
         elif m in ministre.values() and (m, e["to"]) not in delt:
-            journal.append({"hvor": hvor, "status": "Valid", "ministerium": m, "konflikt": f"Retsinformation angiver {m}; registry har {e['from']}"})
+            journal.append({"hvor": hvor, "ministerium": m, "konflikt": f"Retsinformation angiver {m}; registry har {e['from']}"})
+    node_af.update({n["identifikatorer"]["celex"]: n["id"] for n in reg["nodes"] if n["type"] == "eu-direktiv" and n["identifikatorer"].get("celex")})
+    kanter = {(e["from"], e["type"], e["to"]): e for e in reg.get("edges", [])}
+    domaener = {n["id"]: n.get("domaener", []) for n in reg["nodes"]}
+    tekst = {"hjemmel_for": "Retsinformation fører den første som lovgivning, den anden vedrører.",
+             "implementerer_EU": "Retsinformation fører forskriften blandt dem, der implementerer direktivet."}
+    for a, typ, b, kilde in dict.fromkeys(relationer):
+        fra, til = node_af.get(a), node_af.get(b)
+        if not fra or not til or fra == til:
+            continue
+        e, hvor = kanter.get((fra, typ, til)), f"kant {fra}|{typ}|{til}"
+        if e is None:
+            kanter[fra, typ, til] = {"type": typ, "from": fra, "to": til, "beskrivelse": tekst[typ], "kilder": [kilde], "sikkerhed": "verificeret",
+                                     "domaener": domaener[til if typ == "hjemmel_for" else fra]}
+            reg["edges"].append(kanter[fra, typ, til])
+            journal.append({"hvor": hvor, "ny": True})
+        elif e["sikkerhed"] != "verificeret":
+            journal.append({"hvor": hvor, "opgraderet_fra": e["sikkerhed"]})
+            e["sikkerhed"], e["kilder"] = "verificeret", list(dict.fromkeys([kilde, *e["kilder"]]))
     return journal
 
 
@@ -651,6 +725,11 @@ def apply(paths: list[str]) -> int:
 def selftest() -> None:
     global CACHE
     CACHE = Path(tempfile.mkdtemp())
+
+    def offline(*_args, **_kwargs):
+        raise AssertionError("selftest må ikke bruge netværk")
+
+    urllib.request.urlopen = offline
     page = "<p>§ 1. Told- og skatte&shy;forvaltningen udøver forvaltningen af lovgivning om skatter og lov om vurdering.</p>"
     q = "Told- og skatteforvaltningen udøver forvaltningen af lovgivning om skatter"
     assert quoted(q, page) == 1.0 and quoted("noget helt andet som slet ikke står på denne side", page) == 0.0
@@ -703,15 +782,43 @@ def selftest() -> None:
     assert hit["genfundet"] and hit["paragraf"] == "§ 99" and "§ 99. Direktørens" in hit["kontekst"]
     assert paragraf("denne sætning står ikke i dokumentet overhovedet", par) is None and kontekst("står ikke her", par) is None
     assert paragraf("afgørelser kan indbringes for", par) == "§ 98 / § 99" and paragraf("afgørelser kan indbringes for", "<T>afgørelser kan indbringes for</T>" + par) is None
-    gl = {"id": "lov-g", "type": "lov", "status": "aktiv", "identifikatorer": {"eli": "eli/lta/2025/7", "lovtidende": "gammel", "kilder": [old], "sikkerhed": "sandsynlig"},
+    gl = {"id": "lov-g", "navn": "Sundhedsloven", "type": "lov", "status": "aktiv", "domaener": ["d"],
+          "identifikatorer": {"eli": "eli/lta/2025/7", "lovtidende": "gammel", "kilder": [old], "sikkerhed": "sandsynlig"},
           "url": {"vaerdi": old + "/pdf", "kilder": [], "sikkerhed": "ukendt"}, "dokumenttyper": {"liste": [], "kilder": [], "sikkerhed": "ukendt"}}
+    bek = {**copy.deepcopy(gl), "id": "bek-b", "navn": "Noget helt andet", "type": "bekendtgørelse",
+           "identifikatorer": {"eli": RI + "/eli/lta/2026/3", "lovtidende": "BEK nr. 3 af 01/03/2026 (i kraft 1/4/2026)", "kilder": [], "sikkerhed": "sandsynlig"}}
+    eu = {"id": "eu-dir-2012-34", "type": "eu-direktiv", "status": "aktiv", "identifikatorer": {"celex": "32012L0034"}}
+    put(RI + "/eli/lta/2026/3/xml", meta.format(2026, 3, "Valid") + "</Dokument>")
+    put(RI + "/api/document/9/references/1", json.dumps({
+        "referenceGroups": [{"header": SENERE, "references": [{"shortName": "LOV nr 10 af 01/10/2026 § 2 ", "eliPath": "/eli/lta/2026/10"}]}],
+        "documentLinkGroups": [{"header": IMPLEMENTERER + "32012L0034", "references": [{"id": 9}]}, {"header": IMPLEMENTERER + "31999L0001", "references": [{"id": 8}]}]}))
+    put(RI + "/api/document/3/references/1", json.dumps({"referenceGroups": [{"header": LOVGIVNING, "references": [{"eliPath": "/eli/lta/2026/9"}]}]}))
     kant = [{"type": "ressortansvar", "from": m, "to": to, "kilder": [], "sikkerhed": "ukendt"} for m, to in (("min-s", "lov-g"), ("min-a", "lov-g"), ("min-a", "lov-k"))]
     ministre = [n for n in reg0["nodes"] if n["type"] == "ministerium"]
-    log = ajour({"nodes": [gl, {**copy.deepcopy(gl), "id": "lov-k"}, {**copy.deepcopy(gl), "id": "lov-h", "status": "ophævet"}, *ministre], "edges": kant})
-    assert [j["hvor"][:9] for j in log] == ["lov-g.ide", "lov-k.ide", "kant min-", "kant min-"] and "LBK nr. 9" in log[0]["flyttet_til"]
-    assert gl["url"]["vaerdi"] == gl["identifikatorer"]["eli"] == RI + "/eli/lta/2026/9"
-    assert kant[0]["sikkerhed"] == "verificeret" and kant[0]["kilder"] == [RI + "/eli/lta/2026/9"] and log[2]["hvor"].endswith("lov-g")
-    assert "konflikt" in log[3] and log[3]["hvor"].endswith("lov-k") and kant[1]["sikkerhed"] == kant[2]["sikkerhed"] == "ukendt"
+    forkert = {**copy.deepcopy(bek), "id": "bek-f", "navn": "Noget helt andet"}
+    bek["navn"] = "Bekendtgørelse om noget (BEK nr. 3 af 2026)"
+    log = ajour({"nodes": [gl, {**copy.deepcopy(gl), "id": "lov-k"}, {**copy.deepcopy(gl), "id": "lov-h", "status": "ophævet"}, bek, forkert, eu, *ministre], "edges": kant})
+    assert [j["hvor"] for j in log] == ["lov-g.identifikatorer", "lov-k.identifikatorer", "bek-b.identifikatorer", "bek-f.identifikatorer", "kant min-s|ressortansvar|lov-g",
+                                        "kant min-a|ressortansvar|lov-k", "kant lov-g|implementerer_EU|eu-dir-2012-34", "kant lov-g|hjemmel_for|bek-b"]
+    assert "LBK nr. 9" in log[0]["flyttet_til"] and log[1]["samme_dokument_som"] == "lov-g" and "titel_afviger" in log[3] and "titel_afviger" not in log[2]
+    assert gl["url"]["vaerdi"] == gl["identifikatorer"]["eli"] == RI + "/eli/lta/2026/9" and forkert["identifikatorer"]["sikkerhed"] == "sandsynlig"
+    assert "senere_aendringer" not in forkert["identifikatorer"] and gl["identifikatorer"]["lovtidende_tidligere"] == "gammel"
+    assert bek["identifikatorer"]["lovtidende"] == "BEK nr. 3 af 01/03/2026 (i kraft 1/4/2026)" and bek["identifikatorer"]["sikkerhed"] == "sandsynlig"
+    assert gl["identifikatorer"]["senere_aendringer"] == [{"betegnelse": "LOV nr 10 af 01/10/2026 § 2", "eli": RI + "/eli/lta/2026/10"}]
+    assert list(gl["identifikatorer"])[-2:] == ["kilder", "sikkerhed"] and gl["identifikatorer"]["sikkerhed"] == "verificeret" and bek["identifikatorer"]["senere_aendringer"] == []
+    assert kant[0]["sikkerhed"] == "verificeret" and kant[0]["kilder"] == [RI + "/eli/lta/2026/9"] and "konflikt" in log[5]
+    assert kant[1]["sikkerhed"] == kant[2]["sikkerhed"] == "ukendt" and log[6]["ny"] and kant[3]["to"] == "eu-dir-2012-34"
+    assert kant[4] == {"type": "hjemmel_for", "from": "lov-g", "to": "bek-b", "beskrivelse": kant[4]["beskrivelse"], "kilder": [RI + "/eli/lta/2026/3"],
+                       "sikkerhed": "verificeret", "domaener": ["d"]}
+    put(RI + "/eli/lta/2020/4/xml", meta.format(2020, 4, "Historic").replace("LBK H#X", "BEK H#X") + "</Dokument>")
+    put(RI + "/api/document/4/references/1", json.dumps({"referenceGroups": [{"header": SENERE, "references": [
+        {"title": "Bekendtgørelse om ændring af sundhedsloven", "eliPath": "/eli/lta/2026/5", "offentliggoerelsesDato": "02-09-2026"},
+        {"title": "Bekendtgørelse af sundhedsloven", "eliPath": "/eli/lta/2026/9", "offentliggoerelsesDato": "01-09-2026"},
+        {"title": "Bekendtgørelse af sundhedsloven", "eliPath": "/eli/lta/2021/1", "offentliggoerelsesDato": "01-12-2021", "isHistorical": True}]}]}))
+    assert afloeser(ri_meta(RI + "/eli/lta/2020/4"))["eli"] == RI + "/eli/lta/2026/9" and henvisninger({}) == {}
+    vej = {"DocumentType": "VEJ#LOKDOK15", "Number": "10226", "DiesSigni": "2019-12-19", "DocumentTitle": "Vejledning om beskyttede naturtyper"}
+    assert betegnelse(vej) == "VEJ nr. 10226 af 19/12/2019" and hedder("Habitatvejledningen (VEJ nr. 10226 af 2019)", vej)
+    assert not hedder("Habitatvejledningen (VEJ nr. 10226 af 2019)", vej, nummer=False) and hedder("Vejledning om naturtyper (VEJ nr. 1 af 2019)", vej, nummer=False)
     assert gl["identifikatorer"]["kilder"] == [RI + "/eli/lta/2026/9", old] and "LBK nr. 7" in gl["identifikatorer"]["katalog_note"]
     assert gl["dokumenttyper"]["liste"][0]["type"] == "lovbekendtgørelse" and gl["dokumenttyper"]["kilder"] == [RI + "/eli/lta/2026/9"]
     b = [{"url": "https://www.retsinformation.dk/eli/lta/1/1", "citat": q}]
@@ -757,11 +864,16 @@ if __name__ == "__main__":
         doc = ri_meta(args[0])
         tl = tidslinje(doc)
         ny = gaeldende(tl)
+        nu = (ri_meta(RI + ny["href"]) if ny else {}) or afloeser(doc) or doc
         print(json.dumps({
             "citeret": {"betegnelse": betegnelse(doc), **{k: doc.get(k) for k in ("DocumentTitle", "Status", "DateOfHistoricMark", "Ministry")}} if doc else "ikke fundet",
-            "gaeldende": {"betegnelse": ny["shortName"], "eli": RI + ny["href"], "ministerium": ny.get("ressort")} if ny
-            else "tidslinjen kunne ikke læses" if doc.get("Status") == "Valid" else "ikke fundet",
-            "aendringslove_efter_gaeldende": [d["shortName"] for d in tl if ny and d.get("documentTypeId") == 20 and not d.get("isOutOfOrder") and _dato(d) > _dato(ny)],
+            "gaeldende": {"betegnelse": betegnelse(nu), "eli": nu.get("eli") or RI + ny.get("href", urllib.parse.urlsplit(args[0]).path), "ministerium": nu.get("Ministry")}
+            if nu.get("Status") == "Valid" else "ikke fundet",
+            "henvisninger_for_gaeldende": {hd: [f"{r['shortName'].strip()} {RI}{r['eliPath']}" + " (historisk)" * bool(r.get("isHistorical")) for r in refs[:40]]
+                                           + [f"... {len(refs) - 40} flere"] * (len(refs) > 40)
+                                           for hd, refs in henvisninger(nu).items() if refs and not hd.startswith(IMPLEMENTERER)},
+            "implementerer_direktiver": [hd[len(IMPLEMENTERER):].strip() for hd, refs in henvisninger(nu).items()
+                                         if hd.startswith(IMPLEMENTERER) and any(str(r.get("id")) == nu.get("UniqueDocumentId") for r in refs)],
         }, ensure_ascii=False, indent=1))
     elif cmd == "tekst" and len(args) == 2:
         status, text = fetch(args[0])
@@ -776,8 +888,9 @@ if __name__ == "__main__":
         gem(text, registry)
         (ROOT / "raw" / "populate" / f"{datetime.date.today()}-ajour.kontrol.json").write_text(json.dumps(log, ensure_ascii=False, indent=1), encoding="utf-8")
         noder = [j for j in log if not j["hvor"].startswith("kant ")]
+        vis = ("flyttet_til", "konflikt", "titel_afviger", "samme_dokument_som")
         print({k: sum(j["status"] == k for j in noder) for k in ("Valid", "Historic", "ulæselig")},
-              *(f"  {j['hvor']}: {j.get('flyttet_til') or j.get('konflikt') or 'ressort bekræftet (' + j['opgraderet_fra'] + ' → verificeret)'}"
-                for j in log if j.keys() & {"flyttet_til", "konflikt", "opgraderet_fra"}), sep="\n")
+              {k: sum(k in j for j in log) for k in (*vis, "ny", "opgraderet_fra")},
+              *(f"  {j['hvor']}: {' | '.join(f'{k}: {j[k]}' for k in vis if k in j)}" for j in log if j.keys() & set(vis)), sep="\n")
     else:
         sys.exit(__doc__)

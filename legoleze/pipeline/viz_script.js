@@ -296,7 +296,11 @@ function fieldValue(f, v) {
   if (f === 'identifikatorer') {
     const rows = ['eli', 'lovtidende', 'celex', 'journalnr', 'andet'].filter(k => v[k]);
     if (!rows.length) return el('span', { class: 'knote', text: 'ingen' });
-    return el('div', {}, rows.map(k => el('div', {}, el('span', { class: 'eyebrow', text: k + ' ' }), safeUrl(v[k]) ? extLink(v[k]) : el('span', { class: k === 'andet' ? '' : 'mono', text: v[k] }))));
+    const senere = v.senere_aendringer || [];
+    return el('div', {}, rows.map(k => el('div', {}, el('span', { class: 'eyebrow', text: k + ' ' }), safeUrl(v[k]) ? extLink(v[k]) : el('span', { class: k === 'andet' ? '' : 'mono', text: v[k] }))),
+      v.aendringer_kontrolleret ? el('div', {}, el('span', { class: 'eyebrow', text: 'senere ændringer ' }), el('span', { class: 'knote', text: `${senere.length || 'ingen'} hos Retsinformation ${v.aendringer_kontrolleret}` })) : null,
+      senere.length ? el('ul', { style: 'margin:0;padding-left:18px' }, senere.map(x => el('li', {}, extLink(x.eli, x.betegnelse)))) : null,
+      v.katalog_note ? el('div', { class: 'knote', text: v.katalog_note }) : null);
   }
   if (f === 'opdatering') return el('div', {}, el('div', {}, el('b', { text: 'Frekvens: ' }), v.frekvens || 'ukendt'), el('div', {}, el('b', { text: 'Versioner: ' }), v.versionshistorik || 'ukendt'));
   return el('span', { text: v.tekst || '' });

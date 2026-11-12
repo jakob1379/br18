@@ -63,7 +63,7 @@ Tværgående noder, du ofte får brug for: `sty-ankestyrelsen`, `sty-naevnenes-h
       python3 legoleze/pipeline/populate.py lov https://www.retsinformation.dk/eli/lta/2025/354
       python3 legoleze/pipeline/populate.py tekst https://www.retsinformation.dk/eli/lta/2026/680 'klage|indbringes'
 
-  `lov` viser, om dokumentet er historisk, den gældende lovbekendtgørelse, Retsinformations ministerium for den og de ændringslove, der er kommet efter. Brug den gældende version i noden; du skal ikke lede efter afløseren på anden vis. `tekst` viser sidens egen tekst omkring hvert træf på et regulært udtryk (alle sider, også PDF), så du kan kopiere citater ordret. Får kommandoerne intet netværk, så skriv det i din afslutning, og brug WebFetch.
+  `lov` virker på love, lovbekendtgørelser og bekendtgørelser. Den viser, om dokumentet er historisk, den gældende version, Retsinformations ministerium for den og Retsinformations egne henvisninger for den gældende version: "Lovgivning forskriften vedrører" (en bekendtgørelses hjemmelslove), "Senere ændringer til forskriften", "Alle bekendtgørelser m.v. og cirkulærer m.v. til denne lovbekendtgørelse" (det, der er udstedt i medfør af loven), vejledninger, afgørelser og ombudsmandsberetninger, samt de direktiver, dokumentet implementerer. Brug den gældende version i noden, og brug henvisningerne til at finde hjemmelskæden og de vigtigste bekendtgørelser under en lov; gæt dem ikke. `hjemmel_for`-kanter mellem to retsakter, som Retsinformation selv fører, bekræftes maskinelt bagefter, så dér er ét ordret citat fra bekendtgørelsens indledning ("I medfør af § …") nok. `tekst` viser sidens egen tekst omkring hvert træf på et regulært udtryk (alle sider, også PDF), så du kan kopiere citater ordret. Får kommandoerne intet netværk, så skriv det i din afslutning, og brug WebFetch.
 - **Retsinformation via WebFetch (nødløsning):** ELI-siden (`https://www.retsinformation.dk/eli/lta/<år>/<nr>`) er en JavaScript-skal uden tekst; teksten ligger på samme adresse med `/xml`. WebFetch læser gennem en opsummerende model, som forkorter og omskriver, så kontrollér ordlyden, og vent cirka 10 sekunder mellem dokumenter.
 - **Budget:** højst cirka 25 WebSearch-kald (de er en delt, begrænset ressource). Brug hellere WebFetch på officielle sider, du allerede kender.
 - Send aldrig filstier, brugernavne eller projektnavne med i søgninger eller webkald.
@@ -194,7 +194,7 @@ Alle værdier, adresser og citater i eksemplet er opdigtede, også rettelsen. Ko
 
 | Type | Retning |
 |------|---------|
-| `ressortansvar` | ministerium → instans eller lov |
+| `ressortansvar` | ministerium → instans eller retsakt (lov, bekendtgørelse); ikke til dokumentkilder |
 | `delegation` | ministerium/styrelse → styrelse/kommune (delegationsbekendtgørelsen i `beskrivelse`) |
 | `hjemmel_for` | lov/bekendtgørelse → bekendtgørelse/vejledning/instans |
 | `udsteder` | instans → retsakt/vejledning/dokumentkilde (udsteder, udgiver eller driver) |
@@ -219,7 +219,7 @@ Du er uafhængig kontrollant. Hent ingen websider, og start ingen agenter. Læs 
 - `delvist`: belægget handler om det samme, men fastslår ikke kernen: en navneliste som bevis for en adresse, en instans nævnt uden relationen, forkert retning, en anden paragraf, eller centrale detaljer, som ikke fremgår.
 - `baerer-ikke`: belægget er irrelevant for påstanden eller modsiger den.
 
-Kanter har formen `A —type→ B: beskrivelse` med retningen fra tabellen ovenfor. Feltpåstande har formen `Navn (type, ministerium …): felt = {værdi}`. Bedøm kernen, ikke hver bisætning. `hjemmel = "ikke relevant"` for en lov bæres af ethvert citat, der viser, at dokumentet er loven. En `ressortansvar`-kant bæres kun, når belægget viser, at instansen, loven eller lovens område hører under ministeriet i dag: en ressortbekendtgørelse, ministeriets eller instansens egen side, eller Retsinformations ministeriefelt. En lovtekst, der nævner en minister, viser kun, hvem der havde loven, da teksten blev skrevet, og er højst `delvist`.
+Kanter har formen `A —type→ B: beskrivelse` med retningen fra tabellen ovenfor. Endepunkternes nodetyper og id'er er kontrolleret maskinelt, så bedøm dem ikke: EU-institutioner har id'er med `eu-` og er instanser, en EU-forordning kan være `hjemmel_for` et EU-organ, og `ressortansvar` kan gå til en bekendtgørelse. Afvis kun en kant på typen, når belægget viser en anden relation end den, typen står for (fx at noget indeholder eller indbringer, hvor kanten siger henviser eller klager). Feltpåstande har formen `Navn (type, ministerium …): felt = {værdi}`. Bedøm kernen, ikke hver bisætning. `hjemmel = "ikke relevant"` for en lov bæres af ethvert citat, der viser, at dokumentet er loven. En `ressortansvar`-kant bæres kun, når belægget viser, at instansen, loven eller lovens område hører under ministeriet i dag: en ressortbekendtgørelse, ministeriets eller instansens egen side, eller Retsinformations ministeriefelt. En lovtekst, der nævner en minister, viser kun, hvem der havde loven, da teksten blev skrevet, og er højst `delvist`.
 
 Skriv `legoleze/raw/populate/<dato>-<omraade>.dom.json`: en JSON-liste med ét objekt pr. påstand i samme rækkefølge, `{"hvor": …, "dom": "baerer" | "delvist" | "baerer-ikke", "grund": "<højst 20 ord; tom ved baerer>"}`. Svar til sidst med antal pr. dom og de vigtigste problemer.
 
