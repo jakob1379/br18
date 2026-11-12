@@ -1,0 +1,957 @@
+[
+ {
+  "hvor": "sty-digitaliseringsstyrelsen.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/681",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/119",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/333",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-digitaliseringsstyrelsen.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/681",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "sty-digitaliseringsstyrelsen.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://digst.dk/om-os/om-digitaliseringsstyrelsen/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-teleklagenaevnet.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/681",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/681",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-teleklagenaevnet.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2011/383",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/681",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-teleklagenaevnet.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://naevneneshus.dk/start-din-klage/teleklagenaevnet/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-teleankenaevnet.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.teleanke.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "org-teleudbydere.hjemmel",
+  "sikkerhed": "ukendt",
+  "dom": "baerer-ikke",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/681",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-teleklagenaevn-afgoerelser.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://naevneneshus.dk/start-din-klage/teleklagenaevnet/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "lov-teleloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "250483",
+   "DocumentTitle": "Bekendtgørelse af lov om elektroniske kommunikationsnet og -tjenester",
+   "Year": "2025",
+   "DiesSigni": "2025-06-16",
+   "Status": "Valid",
+   "Number": "681",
+   "PopularTitle": "Teleloven",
+   "Ministry": "Forsknings-, Uddannelses- og Digitaliseringsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-teleloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "250483",
+   "DocumentTitle": "Bekendtgørelse af lov om elektroniske kommunikationsnet og -tjenester",
+   "Year": "2025",
+   "DiesSigni": "2025-06-16",
+   "Status": "Valid",
+   "Number": "681",
+   "PopularTitle": "Teleloven",
+   "Ministry": "Forsknings-, Uddannelses- og Digitaliseringsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-teleloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "250483",
+   "DocumentTitle": "Bekendtgørelse af lov om elektroniske kommunikationsnet og -tjenester",
+   "Year": "2025",
+   "DiesSigni": "2025-06-16",
+   "Status": "Valid",
+   "Number": "681",
+   "PopularTitle": "Teleloven",
+   "Ministry": "Forsknings-, Uddannelses- og Digitaliseringsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-teleloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "250483",
+   "DocumentTitle": "Bekendtgørelse af lov om elektroniske kommunikationsnet og -tjenester",
+   "Year": "2025",
+   "DiesSigni": "2025-06-16",
+   "Status": "Valid",
+   "Number": "681",
+   "PopularTitle": "Teleloven",
+   "Ministry": "Forsknings-, Uddannelses- og Digitaliseringsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2025/681",
+   "lovtidende": "LBK nr. 681 af 16/06/2025"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-teleklagenaevnets-virksomhed.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2011/383",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-teleklagenaevnets-virksomhed.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "136635",
+   "DocumentTitle": "Bekendtgørelse om Teleklagenævnets virksomhed",
+   "Year": "2011",
+   "DiesSigni": "2011-04-21",
+   "Status": "Valid",
+   "Number": "383",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-teleklagenaevnets-virksomhed.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "136635",
+   "DocumentTitle": "Bekendtgørelse om Teleklagenævnets virksomhed",
+   "Year": "2011",
+   "DiesSigni": "2011-04-21",
+   "Status": "Valid",
+   "Number": "383",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-teleklagenaevnets-virksomhed.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "136635",
+   "DocumentTitle": "Bekendtgørelse om Teleklagenævnets virksomhed",
+   "Year": "2011",
+   "DiesSigni": "2011-04-21",
+   "Status": "Valid",
+   "Number": "383",
+   "Ministry": "Erhvervsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2011/383",
+   "lovtidende": "BEK nr. 383 af 21/04/2011"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-radiofrekvenser.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "254931",
+   "DocumentTitle": "Bekendtgørelse af lov om radiofrekvenser",
+   "Year": "2026",
+   "DiesSigni": "2026-01-21",
+   "Status": "Valid",
+   "Number": "119",
+   "PopularTitle": "Frekvensloven",
+   "Ministry": "Forsknings-, Uddannelses- og Digitaliseringsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-radiofrekvenser.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "254931",
+   "DocumentTitle": "Bekendtgørelse af lov om radiofrekvenser",
+   "Year": "2026",
+   "DiesSigni": "2026-01-21",
+   "Status": "Valid",
+   "Number": "119",
+   "PopularTitle": "Frekvensloven",
+   "Ministry": "Forsknings-, Uddannelses- og Digitaliseringsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-radiofrekvenser.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "254931",
+   "DocumentTitle": "Bekendtgørelse af lov om radiofrekvenser",
+   "Year": "2026",
+   "DiesSigni": "2026-01-21",
+   "Status": "Valid",
+   "Number": "119",
+   "PopularTitle": "Frekvensloven",
+   "Ministry": "Forsknings-, Uddannelses- og Digitaliseringsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-radiofrekvenser.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "254931",
+   "DocumentTitle": "Bekendtgørelse af lov om radiofrekvenser",
+   "Year": "2026",
+   "DiesSigni": "2026-01-21",
+   "Status": "Valid",
+   "Number": "119",
+   "PopularTitle": "Frekvensloven",
+   "Ministry": "Forsknings-, Uddannelses- og Digitaliseringsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2026/119",
+   "lovtidende": "LBK nr. 119 af 21/01/2026"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-mitid.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "248954",
+   "DocumentTitle": "Bekendtgørelse af lov om MitID og NemLog-in",
+   "Year": "2025",
+   "DiesSigni": "2025-03-19",
+   "Status": "Valid",
+   "Number": "333",
+   "Ministry": "Forsknings-, Uddannelses- og Digitaliseringsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-mitid.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "248954",
+   "DocumentTitle": "Bekendtgørelse af lov om MitID og NemLog-in",
+   "Year": "2025",
+   "DiesSigni": "2025-03-19",
+   "Status": "Valid",
+   "Number": "333",
+   "Ministry": "Forsknings-, Uddannelses- og Digitaliseringsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-mitid.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "248954",
+   "DocumentTitle": "Bekendtgørelse af lov om MitID og NemLog-in",
+   "Year": "2025",
+   "DiesSigni": "2025-03-19",
+   "Status": "Valid",
+   "Number": "333",
+   "Ministry": "Forsknings-, Uddannelses- og Digitaliseringsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-mitid.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "248954",
+   "DocumentTitle": "Bekendtgørelse af lov om MitID og NemLog-in",
+   "Year": "2025",
+   "DiesSigni": "2025-03-19",
+   "Status": "Valid",
+   "Number": "333",
+   "Ministry": "Forsknings-, Uddannelses- og Digitaliseringsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2025/333",
+   "lovtidende": "LBK nr. 333 af 19/03/2025"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-digital-post.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "221823",
+   "DocumentTitle": "Bekendtgørelse af lov om Digital Post fra offentlige afsendere",
+   "Year": "2021",
+   "DiesSigni": "2021-04-15",
+   "Status": "Valid",
+   "Number": "686",
+   "Ministry": "Forsknings-, Uddannelses- og Digitaliseringsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-digital-post.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "221823",
+   "DocumentTitle": "Bekendtgørelse af lov om Digital Post fra offentlige afsendere",
+   "Year": "2021",
+   "DiesSigni": "2021-04-15",
+   "Status": "Valid",
+   "Number": "686",
+   "Ministry": "Forsknings-, Uddannelses- og Digitaliseringsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-digital-post.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "221823",
+   "DocumentTitle": "Bekendtgørelse af lov om Digital Post fra offentlige afsendere",
+   "Year": "2021",
+   "DiesSigni": "2021-04-15",
+   "Status": "Valid",
+   "Number": "686",
+   "Ministry": "Forsknings-, Uddannelses- og Digitaliseringsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-digital-post.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "221823",
+   "DocumentTitle": "Bekendtgørelse af lov om Digital Post fra offentlige afsendere",
+   "Year": "2021",
+   "DiesSigni": "2021-04-15",
+   "Status": "Valid",
+   "Number": "686",
+   "Ministry": "Forsknings-, Uddannelses- og Digitaliseringsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2021/686",
+   "lovtidende": "LBK nr. 686 af 15/04/2021"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-nis2.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LOV H#LOKDOK 01",
+   "UniqueDocumentId": "249467",
+   "DocumentTitle": "Lov om foranstaltninger til sikring af et højt cybersikkerhedsniveau (NIS 2-loven)",
+   "Year": "2025",
+   "DiesSigni": "2025-05-06",
+   "Status": "Valid",
+   "Number": "434",
+   "PopularTitle": "NIS 2-loven",
+   "Ministry": "Ministeriet for Samfundssikkerhed og Beredskab"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-nis2.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LOV H#LOKDOK 01",
+   "UniqueDocumentId": "249467",
+   "DocumentTitle": "Lov om foranstaltninger til sikring af et højt cybersikkerhedsniveau (NIS 2-loven)",
+   "Year": "2025",
+   "DiesSigni": "2025-05-06",
+   "Status": "Valid",
+   "Number": "434",
+   "PopularTitle": "NIS 2-loven",
+   "Ministry": "Ministeriet for Samfundssikkerhed og Beredskab"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-nis2.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LOV H#LOKDOK 01",
+   "UniqueDocumentId": "249467",
+   "DocumentTitle": "Lov om foranstaltninger til sikring af et højt cybersikkerhedsniveau (NIS 2-loven)",
+   "Year": "2025",
+   "DiesSigni": "2025-05-06",
+   "Status": "Valid",
+   "Number": "434",
+   "PopularTitle": "NIS 2-loven",
+   "Ministry": "Ministeriet for Samfundssikkerhed og Beredskab"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-nis2.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LOV H#LOKDOK 01",
+   "UniqueDocumentId": "249467",
+   "DocumentTitle": "Lov om foranstaltninger til sikring af et højt cybersikkerhedsniveau (NIS 2-loven)",
+   "Year": "2025",
+   "DiesSigni": "2025-05-06",
+   "Status": "Valid",
+   "Number": "434",
+   "PopularTitle": "NIS 2-loven",
+   "Ministry": "Ministeriet for Samfundssikkerhed og Beredskab"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2025/434",
+   "lovtidende": "LOV nr. 434 af 06/05/2025",
+   "andet": "Gennemfører direktiv (EU) 2022/2555"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-telesektoren-sikkerhed.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LOV H#LOKDOK 01",
+   "UniqueDocumentId": "249469",
+   "DocumentTitle": "Lov om sikkerhed og beredskab i telesektoren",
+   "Year": "2025",
+   "DiesSigni": "2025-05-06",
+   "Status": "Valid",
+   "Number": "435",
+   "Ministry": "Ministeriet for Samfundssikkerhed og Beredskab"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-telesektoren-sikkerhed.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LOV H#LOKDOK 01",
+   "UniqueDocumentId": "249469",
+   "DocumentTitle": "Lov om sikkerhed og beredskab i telesektoren",
+   "Year": "2025",
+   "DiesSigni": "2025-05-06",
+   "Status": "Valid",
+   "Number": "435",
+   "Ministry": "Ministeriet for Samfundssikkerhed og Beredskab"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-telesektoren-sikkerhed.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LOV H#LOKDOK 01",
+   "UniqueDocumentId": "249469",
+   "DocumentTitle": "Lov om sikkerhed og beredskab i telesektoren",
+   "Year": "2025",
+   "DiesSigni": "2025-05-06",
+   "Status": "Valid",
+   "Number": "435",
+   "Ministry": "Ministeriet for Samfundssikkerhed og Beredskab"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-telesektoren-sikkerhed.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LOV H#LOKDOK 01",
+   "UniqueDocumentId": "249469",
+   "DocumentTitle": "Lov om sikkerhed og beredskab i telesektoren",
+   "Year": "2025",
+   "DiesSigni": "2025-05-06",
+   "Status": "Valid",
+   "Number": "435",
+   "Ministry": "Ministeriet for Samfundssikkerhed og Beredskab"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2025/435",
+   "lovtidende": "LOV nr. 435 af 06/05/2025"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "eu-dir-2022-2555.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://eur-lex.europa.eu/eli/dir/2022/2555/oj",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "eu-dir-2022-2555.identifikatorer",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://eur-lex.europa.eu/eli/dir/2022/2555/oj",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-forskning-uddannelse-og-digitalisering|ressortansvar|sty-digitaliseringsstyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://digst.dk/om-os/om-digitaliseringsstyrelsen/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-forskning-uddannelse-og-digitalisering|ressortansvar|lov-teleloven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/681",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/514",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "Forsknings-, Uddannelses- og Digitaliseringsministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-forskning-uddannelse-og-digitalisering|ressortansvar|lov-radiofrekvenser",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/119",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "Forsknings-, Uddannelses- og Digitaliseringsministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-forskning-uddannelse-og-digitalisering|ressortansvar|lov-radioudstyrsloven",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2022/958",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-forskning-uddannelse-og-digitalisering|ressortansvar|lov-mitid",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/333",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "Forsknings-, Uddannelses- og Digitaliseringsministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-forskning-uddannelse-og-digitalisering|ressortansvar|lov-digital-post",
+  "sikkerhed": "verificeret",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2021/686",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "Forsknings-, Uddannelses- og Digitaliseringsministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-erhverv|ressortansvar|naevn-teleklagenaevnet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/681",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-samfundssikkerhed-og-beredskab|ressortansvar|lov-nis2",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/434",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-samfundssikkerhed-og-beredskab|ressortansvar|lov-telesektoren-sikkerhed",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/435",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-teleloven|hjemmel_for|naevn-teleklagenaevnet",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/681",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-teleloven|hjemmel_for|bek-teleklagenaevnets-virksomhed",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2011/383",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-teleloven|hjemmel_for|sty-digitaliseringsstyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/681",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-radiofrekvenser|hjemmel_for|sty-digitaliseringsstyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/119",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-mitid|hjemmel_for|sty-digitaliseringsstyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/333",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-digital-post|hjemmel_for|sty-digitaliseringsstyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2021/686",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant naevn-teleklagenaevnet|klageinstans|sty-erhvervsstyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/681",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2011/383",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant naevn-teleklagenaevnet|udsteder|kilde-teleklagenaevn-afgoerelser",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://naevneneshus.dk/start-din-klage/teleklagenaevnet/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-digitaliseringsstyrelsen|tilsyn|org-teleudbydere",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/681",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-naevnenes-hus|tilsyn|naevn-teleankenaevnet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://naevneneshus.dk/om-os/oversigt-over-godkendte-private-ankenaevn/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-styrelsen-for-samfundssikkerhed|tilsyn|kommune-alle",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/620",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-sundhedsdatastyrelsen|tilsyn|region-alle",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/620",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-nis2|implementerer_EU|eu-dir-2022-2555",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/434",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-telesektoren-sikkerhed|hjemmel_for|sty-styrelsen-for-samfundssikkerhed",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/435",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ }
+]

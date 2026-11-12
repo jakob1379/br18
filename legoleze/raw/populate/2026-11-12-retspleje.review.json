@@ -1,0 +1,673 @@
+[
+ {
+  "hvor": "org-advokatsamfundet.hjemmel",
+  "paastand": "Det Danske Advokatsamfund (privat-organisation, ministerium ingen): hjemmel = {\"tekst\": \"Retsplejeloven § 143, stk. 1: Advokatsamfundet udgøres af alle danske advokater; samfundet opretter Advokatnævnet (§ 144) og har Advokatrådet som bestyrelse (§ 143, stk. 2).\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "Det Danske Advokatsamfund udgøres af alle danske advokater.",
+    "genfundet": true,
+    "kontekst": "ner og selskaber, der er nævnt i stk. 1 og 4, kan indklages til Advokatnævnet for overtrædelse af de regler, som er fastsat i medfør af § 127, jf. stk. 1. For sagens behandling i Advokatnævnet finder reglerne i kapitel 15 b tilsvarende anvendelse. Kapitel 15 Advokatsamfundet og Advokatnævnet § 143. Det Danske Advokatsamfund udgøres af alle danske advokater. Stk. 2. Advokatrådet, der er Advokatsamfundets bestyrelse, fører tilsyn med advokaterne og deres autoriserede fuldmægtige. Finder rådet, at en advokat ikke har handlet i overensstemmelse med de pligter, stillingen medfører, kan det indklage den pågældende for Advokatnævnet. 1. og 2. pkt. finder ti",
+    "paragraf": "§ 143"
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "Advokatsamfundet opretter et Advokatnævn.",
+    "genfundet": true,
+    "kontekst": "dvokatrådets kontaktpersoner kan udelukkende videregive oplysninger til Advokatnævnet til varetagelsen af dets opgaver efter denne lov og til relevante offentlige myndigheder, herunder anklagemyndigheden, politiet og justitsministeren, til varetagelse af deres opgaver efter deres lovgivning. § 144. Advokatsamfundet opretter et Advokatnævn. Advokatnævnet består af en formand og 2 næstformænd, der alle skal være dommere, samt af 18 andre medlemmer. Formanden og næstformændene udpeges af Højesterets præsident. Af de øvrige medlemmer vælges 9 af Advokatsamfundet blandt advokater, der ikke er medlemmer af Advokatrådet, og 9, der ikke må ",
+    "paragraf": "§ 144"
+   }
+  ]
+ },
+ {
+  "hvor": "raad-advokatraadet.hjemmel",
+  "paastand": "Advokatrådet (råd, ministerium ingen): hjemmel = {\"tekst\": \"Retsplejeloven § 143, stk. 2: Advokatrådet, der er Advokatsamfundets bestyrelse, fører tilsyn med advokaterne og deres autoriserede fuldmægtige og kan indklage en advokat for Advokatnævnet, når rådet finder, at advokaten ikke har handlet i overensstemmelse med sine pligter. Rådet kan kræve oplysninger (§ 143, stk. 3).\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "Advokatrådet, der er Advokatsamfundets bestyrelse, fører tilsyn med advokaterne og deres autoriserede fuldmægtige.",
+    "genfundet": true,
+    "kontekst": "katnævnet for overtrædelse af de regler, som er fastsat i medfør af § 127, jf. stk. 1. For sagens behandling i Advokatnævnet finder reglerne i kapitel 15 b tilsvarende anvendelse. Kapitel 15 Advokatsamfundet og Advokatnævnet § 143. Det Danske Advokatsamfund udgøres af alle danske advokater. Stk. 2. Advokatrådet, der er Advokatsamfundets bestyrelse, fører tilsyn med advokaterne og deres autoriserede fuldmægtige. Finder rådet, at en advokat ikke har handlet i overensstemmelse med de pligter, stillingen medfører, kan det indklage den pågældende for Advokatnævnet. 1. og 2. pkt. finder tilsvarende anvendelse for så vidt angår advokatselskaber, jf. § 124, og fællesskaber af advokater. Stk. 3. Advokatrådet kan ",
+    "paragraf": "§ 143"
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "kan det indklage den pågældende for Advokatnævnet",
+    "genfundet": true,
+    "kontekst": "atnævnet § 143. Det Danske Advokatsamfund udgøres af alle danske advokater. Stk. 2. Advokatrådet, der er Advokatsamfundets bestyrelse, fører tilsyn med advokaterne og deres autoriserede fuldmægtige. Finder rådet, at en advokat ikke har handlet i overensstemmelse med de pligter, stillingen medfører, kan det indklage den pågældende for Advokatnævnet. 1. og 2. pkt. finder tilsvarende anvendelse for så vidt angår advokatselskaber, jf. § 124, og fællesskaber af advokater. Stk. 3. Advokatrådet kan kræve alle oplysninger af advokater og deres autoriserede fuldmægtige, herunder arbejdspapirer, korrespondance og andre dokumenter, der skønnes at være ",
+    "paragraf": "§ 143"
+   }
+  ]
+ },
+ {
+  "hvor": "raad-advokatraadet.dokumenttyper",
+  "paastand": "Advokatrådet (råd, ministerium ingen): dokumenttyper = {\"liste\": [{\"type\": \"indklagelse til Advokatnævnet\", \"bindende\": \"ukendt\", \"note\": \"Ikke en afgørelse; indklagelsen starter disciplinærsagen.\"}]}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "kan det indklage den pågældende for Advokatnævnet",
+    "genfundet": true,
+    "kontekst": "atnævnet § 143. Det Danske Advokatsamfund udgøres af alle danske advokater. Stk. 2. Advokatrådet, der er Advokatsamfundets bestyrelse, fører tilsyn med advokaterne og deres autoriserede fuldmægtige. Finder rådet, at en advokat ikke har handlet i overensstemmelse med de pligter, stillingen medfører, kan det indklage den pågældende for Advokatnævnet. 1. og 2. pkt. finder tilsvarende anvendelse for så vidt angår advokatselskaber, jf. § 124, og fællesskaber af advokater. Stk. 3. Advokatrådet kan kræve alle oplysninger af advokater og deres autoriserede fuldmægtige, herunder arbejdspapirer, korrespondance og andre dokumenter, der skønnes at være ",
+    "paragraf": "§ 143"
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-advokatnaevnet.hjemmel",
+  "paastand": "Advokatnævnet (nævn, ministerium ingen): hjemmel = {\"tekst\": \"Retsplejeloven § 144: Advokatsamfundet opretter Advokatnævnet, med formand og to næstformænd (dommere, udpeget af Højesterets præsident) samt 18 medlemmer. Nævnet behandler disciplinærsager efter § 147 b og tildeler irettesættelse eller bøde på indtil 300.000 kr. efter § 147 c, stk. 1. Justitsministeren fastsætter regler (BEK 1630/2024).\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "Advokatsamfundet opretter et Advokatnævn.",
+    "genfundet": true,
+    "kontekst": "dvokatrådets kontaktpersoner kan udelukkende videregive oplysninger til Advokatnævnet til varetagelsen af dets opgaver efter denne lov og til relevante offentlige myndigheder, herunder anklagemyndigheden, politiet og justitsministeren, til varetagelse af deres opgaver efter deres lovgivning. § 144. Advokatsamfundet opretter et Advokatnævn. Advokatnævnet består af en formand og 2 næstformænd, der alle skal være dommere, samt af 18 andre medlemmer. Formanden og næstformændene udpeges af Højesterets præsident. Af de øvrige medlemmer vælges 9 af Advokatsamfundet blandt advokater, der ikke er medlemmer af Advokatrådet, og 9, der ikke må ",
+    "paragraf": "§ 144"
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "en irettesættelse eller pålægge vedkommende, fællesskabet eller selskabet en bøde på indtil 300.000 kr.",
+    "genfundet": true,
+    "kontekst": "nparter i et advokatselskab, har tilsidesat pligter, der følger af denne lov eller forskrifter fastsat i medfør af loven, kan nævnet tildele advokaten, fællesskabet af advokater, advokatselskabet eller personen, der i medfør af § 124 c, stk. 1, nr. 2, ejer aktier eller anparter i et advokatselskab, en irettesættelse eller pålægge vedkommende, fællesskabet eller selskabet en bøde på indtil 300.000 kr. Er tilsidesættelsen af pligterne af særlig grov karakter, kan Advokatnævnet forhøje bøden op til 600.000 kr. Stk. 2. Advokatnævnet kan under anvendelse af tvangsbøder pålægge en advokat, et fællesskab af advokater, et advokatselskab eller en af de personer, der er nævnt i § 124 c, stk. 1, nr. 2, o",
+    "paragraf": "§ 147 c"
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-advokatnaevnet.dokumenttyper",
+  "paastand": "Advokatnævnet (nævn, ministerium ingen): dokumenttyper = {\"liste\": [{\"type\": \"afgørelse i disciplinærsag (irettesættelse, bøde, betinget eller midlertidig frakendelse)\", \"bindende\": \"bindende\"}, {\"type\": \"kendelse\", \"bindende\": \"bindende\", \"note\": \"sendes til Advokatrådet, jf. BEK 1630/2024 § 24, stk. 4\"}, {\"type\": \"årsberetning\", \"bindende\": \"ukendt\", \"note\": \"skal offentliggøres på nævnets hjemmeside\"}]}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1630",
+    "citat": "Nævnets kendelser sendes desuden til Advokatrådet.",
+    "genfundet": true,
+    "kontekst": "temningen, dog uden angivelse af vedkommende medlemmers navne. Samtidig angives stemmefordelingen. Stk. 3. Nævnets afgørelser i disciplinærsager og i sager om valgbarhed skal indeholde oplysning om adgangen til domstolsprøvelse og fristen herfor. Stk. 4. Nævnets afgørelser sendes til sagens parter. Nævnets kendelser sendes desuden til Advokatrådet. Nævnets afgørelse i disciplinærsager, hvor advokaten pålægges en sanktion, sendes endvidere til Civilstyrelsen. § 25. Advokatnævnet kan af egen drift eller på begæring beslutte at genoptage behandlingen af en sag, hvis særlige grunde taler herfor, herunder særligt hvis der fremkommer nye, væsentli",
+    "paragraf": "§ 24"
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1630",
+    "citat": "Nævnet offentliggør beretningen på sin hjemmeside.",
+    "genfundet": true,
+    "kontekst": "m digital kommunikation. § 6. Advokatnævnet fastsætter en forretningsorden, der bl.a. indeholder nærmere frister for sagsbehandlingsskridt og en målsætning for, hvor lang sagsbehandlingstiden samlet set bør være. § 7. Advokatnævnet afgiver en årlig beretning om sin virksomhed til justitsministeren. Nævnet offentliggør beretningen på sin hjemmeside. Kapitel 2 Inhabilitet § 8. Intet medlem af Advokatnævnet må deltage i behandlingen af en sag, hvis 1) vedkommende selv har en særlig personlig eller økonomisk interesse i sagens udfald eller er eller tidligere i samme sag har været repræsentant for nogen, der har en sådan interesse, 2) vedkommende",
+    "paragraf": "§ 7"
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-advokatnaevnet.adgang",
+  "paastand": "Advokatnævnet (nævn, ministerium ingen): adgang = {\"vaerdier\": [\"ukendt\"], \"note\": \"Afgørelser offentliggøres efter § 147 c, men hvor og hvilke ikke belagt; se hul.\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "Nævnet kan offentliggøre afgørelsen.",
+    "genfundet": true,
+    "kontekst": "il domstolsprøvelse og fristen herfor. Stk. 11. Advokatnævnet sender meddelelse om en afgørelse til klageren, advokaten, fællesskabet af advokater, advokatselskabet, personen, der i medfør af § 124 c, stk. 1, nr. 2, ejer aktier eller anparter i et advokatselskab, Advokatrådet og Justitsministeriet. Nævnet kan offentliggøre afgørelsen. § 147 d. Advokatnævnets afgørelse efter § 147 c, stk. 1 og 2, kan indbringes for retten af advokaten, fællesskabet af advokater, advokatselskabet eller personen, der i medfør af § 124 c, stk. 1, nr. 2, ejer aktier eller anparter i et advokatselskab. Retten kan stadfæste, ophæve eller ændre afgørel",
+    "paragraf": "§ 147 c"
+   }
+  ]
+ },
+ {
+  "hvor": "dom-soe-og-handelsretten.hjemmel",
+  "paastand": "Sø- og Handelsretten (domstol, ministerium ingen): hjemmel = {\"tekst\": \"Retsplejeloven § 1 (almindelig domstol), § 14 (sæde i København, præsident og dommere) og § 15 (1. instans for sager efter §§ 225 og 227, midlertidige forbud og påbud, begrænsningsfonde og rekonstruktion/konkurs/gældssanering i visse områder).\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "Sø- og Handelsretten, der har sit sæde i København, består af en præsident",
+    "genfundet": true,
+    "kontekst": "behandles uden for retskredsen, skal parterne have lejlighed til at udtale sig om spørgsmålet. Stk. 5. 2) Se fodnote 1. Efter begæring sættes retten i en særligt sikret retssal som nævnt i § 27 b, når særlige sikkerhedsmæssige hensyn tilsiger det. Rettens afgørelse herom træffes ved kendelse. § 14. Sø- og Handelsretten, der har sit sæde i København, består af en præsident, 2 vicepræsidenter og mindst 3 andre dommere samt et antal sagkyndige medlemmer. Stk. 2. For at give mulighed for, at dommere eller vicepræsidenter kan overgå til ansættelse på deltid, jf. § 51 a, kan der udnævnes yderligere 1 dommer. Stk. 3. Præsidenten er ansvarlig for varetagelsen af de bevillin",
+    "paragraf": "§ 14"
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "Sø- og Handelsrettens domsmyndighed omfatter behandling og påkendelse i 1. instans af retssager",
+    "genfundet": true,
+    "kontekst": " herunder sørge for en forsvarlig og hensigtsmæssig drift af embedet og skal tage de fornødne initiativer til sikring heraf. Stk. 4. Præsidenten træffer efter forhandling med rettens øvrige dommere bestemmelse om, hvem af disse der skal fungere som præsident under dennes fravær eller forfald. § 15. Sø- og Handelsrettens domsmyndighed omfatter behandling og påkendelse i 1. instans af retssager i det omfang, som følger af §§ 225 og 227. Stk. 2. Til Sø- og Handelsrettens virkekreds hører endvidere 1) midlertidige afgørelser om forbud og påbud i det omfang, som følger af kapitel 40, varemærkelovens § 43 b, stk. 2 og 3, og designlovens § 43, stk. 2 og 3, 2) sager om begrænsningsfonde, jf. sø",
+    "paragraf": "§ 15"
+   }
+  ]
+ },
+ {
+  "hvor": "dom-soe-og-handelsretten.dokumenttyper",
+  "paastand": "Sø- og Handelsretten (domstol, ministerium ingen): dokumenttyper = {\"liste\": [{\"type\": \"dom\", \"bindende\": \"bindende\"}]}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "Domme, der er afsagt af Sø- og Handelsretten, kan af parterne ankes til Højesteret eller landsret.",
+    "genfundet": true,
+    "kontekst": "den 4 uger efter dommens afsigelse. Nævnet kan dog undtagelsesvis meddele tilladelse, hvis ansøgning indgives senere, men inden 1 år efter afsigelsen. Stk. 3. Domme, der er afsagt af en landsret som 1. instans, kan af parterne ankes til Højesteret, for så vidt ikke andet er bestemt ved lov. Stk. 4. Domme, der er afsagt af Sø- og Handelsretten, kan af parterne ankes til Højesteret eller landsret. Anke kan ske til Højesteret, hvis sagen er af principiel karakter og har generel betydning for retsanvendelsen og retsudviklingen eller væsentlig samfundsmæssig rækkevidde i øvrigt, eller hvis andre særlige grunde i øvrigt taler for, at sagen behandles af Højesteret som 2. instans. Anke til landsr",
+    "paragraf": "§ 368"
+   }
+  ]
+ },
+ {
+  "hvor": "dom-tinglysningsretten.hjemmel",
+  "paastand": "Tinglysningsretten (domstol, ministerium ingen): hjemmel = {\"tekst\": \"Retsplejeloven § 1 (almindelig domstol), § 18, stk. 1 (sæde i Hobro, præsident og én dommer) og § 18, stk. 4 (varetager tinglysningen for hele landet og behandler sager om ejendomsdom og mortifikation).\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "Tinglysningsretten, der har sit sæde i Hobro, består af en præsident og 1 anden dommer.",
+    "genfundet": true,
+    "kontekst": "syn til sagens behandling inden for rimelig tid eller af andre særlige grunde. Stk. 6. Inden Sø- og Handelsretten i medfør af stk. 5 træffer afgørelse om, hvorvidt en sag skal behandles uden for det til tingstedet henlagte område, skal parterne have lejlighed til at udtale sig om spørgsmålet. § 18. Tinglysningsretten, der har sit sæde i Hobro, består af en præsident og 1 anden dommer. Præsidenten træffer efter forhandling med den anden dommer bestemmelse om sagernes fordeling mellem dommerne og om sagernes administrative behandling. Stk. 2. Præsidenten er ansvarlig for varetagelsen af de bevillingsmæssige og administrative forhold, der er henlagt til embedet. Præsidenten skal h",
+    "paragraf": "§ 18"
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "Tinglysningsretten varetager tinglysningen for hele landet.",
+    "genfundet": true,
+    "kontekst": "e forhold, der er henlagt til embedet. Præsidenten skal herunder sørge for en forsvarlig og hensigtsmæssig drift af embedet og skal tage de fornødne initiativer til sikring heraf. Stk. 3. Under præsidentens fravær eller forfald fungerer den anden dommer ved Tinglysningsretten som præsident. Stk. 4. Tinglysningsretten varetager tinglysningen for hele landet. Tinglysningsretten behandler endvidere sager om ejendomsdom efter forudgående offentlig indkaldelse og sager om mortifikation af værdipapirer, servitutter, brugsrettigheder og grundbyrder. § 19. Fuldmægtige ved byretterne, Sø- og Handelsretten og Tinglysningsretten kan behandle sager, der hører un",
+    "paragraf": "§ 18"
+   }
+  ]
+ },
+ {
+  "hvor": "dom-tinglysningsretten.dokumenttyper",
+  "paastand": "Tinglysningsretten (domstol, ministerium ingen): dokumenttyper = {\"liste\": [{\"type\": \"dom (mortifikation og ejendomsdom)\", \"bindende\": \"bindende\"}]}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "Tinglysningsrettens domme i sager om mortifikation og ejendomsdom kan ankes til landsretten",
+    "genfundet": true,
+    "kontekst": "ls prøvelse i 2. instans af byretternes og Sø- og Handelsrettens behandlinger og afgørelser overensstemmende med de nævnte regler. Endvidere kan kære rejses for landsretten over byrettens afgørelser vedrørende de i § 11, stk. 2, nr. 2 og 4, omhandlede forhold og over Tinglysningsrettens afgørelser. Tinglysningsrettens domme i sager om mortifikation og ejendomsdom kan ankes til landsretten efter reglerne i kapitel 36 og § 8 i lov om mortifikation af værdipapirer. § 7. I afgørelsen af sager ved landsretterne deltager, medmindre andet er bestemt, mindst 3 dommere. Uden for hovedforhandlingen kan dog en enkelt dommer træffe afgørelse. Præsidenten træffer efter forhandling med rettens øv",
+    "paragraf": "§ 6"
+   }
+  ]
+ },
+ {
+  "hvor": "dom-den-saerlige-klageret.hjemmel",
+  "paastand": "Den Særlige Klageret (domstol, ministerium ingen): hjemmel = {\"tekst\": \"Retsplejeloven § 1 a: Den Særlige Klageret behandler genoptagelsesbegæringer, kæremål om udelukkelse af forsvarer, klager over advarsler, sager om suspension, disciplinærforfølgning og afsked på grund af sygdom m.v. og sager om afsættelse af medlemmer af Domstolsstyrelsens bestyrelse. Klageretten består af 5 medlemmer beskikket af kongen efter indstilling af justitsministeren.\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "Den Særlige Klageret behandler og påkender",
+    "genfundet": true,
+    "kontekst": "landsretterne og byretterne samt Sø- og Handelsretten og Tinglysningsretten. Stk. 2. Denne lovs regler finder alene anvendelse på rettens pleje ved de almindelige domstole, medmindre andet er bestemt i denne eller anden lov. Stk. 3. Militære straffesager behandles efter militær retsplejelov. § 1 a. Den Særlige Klageret behandler og påkender 1) begæringer om genoptagelse af en straffesag, jf. kapitel 86, 2) kæremål vedrørende udelukkelse af en forsvarer, jf. § 737, 3) klager, der henvises efter § 48, 4) klager over advarsler meddelt efter § 48, 5) sager om suspension, disciplinærforfølgning og afsked på grund af sygdom i de i §§ 49, 49",
+    "paragraf": "§ 1 a"
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "Klageretten består af 5 medlemmer, der efter indstilling af justitsministeren beskikkes af kongen for en periode på 10 år.",
+    "genfundet": true,
+    "kontekst": " sygdom i de i §§ 49, 49 a, 50 og 55 nævnte tilfælde, 6) sager efter § 51 f om afsked før tilkaldeperiodens udløb, 7) sager efter § 54 a om afsked og ændring af tjenestested og 8) sager om afsættelse af medlemmer af Domstolsstyrelsens bestyrelse, jf. § 6, stk. 3, i lov om Domstolsstyrelsen. Stk. 2. Klageretten består af 5 medlemmer, der efter indstilling af justitsministeren beskikkes af kongen for en periode på 10 år. Rettens medlemmer kan kun afsættes ved dom. Et medlem udtræder, når betingelserne for medlemmets beskikkelse bortfalder. Beskikkelsen ophører senest ved udgangen af den måned, hvori den pågældende fylder 70 år. Genbeskikkelse kan ikke finde sted. Stk. 3. Klagerettens medlemmer skal være en højeste",
+    "paragraf": "§ 1 a"
+   }
+  ]
+ },
+ {
+  "hvor": "dom-den-saerlige-klageret.dokumenttyper",
+  "paastand": "Den Særlige Klageret (domstol, ministerium ingen): dokumenttyper = {\"liste\": [{\"type\": \"afgørelse\", \"bindende\": \"bindende\"}]}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "Den Særlige Klageret behandler og påkender",
+    "genfundet": true,
+    "kontekst": "landsretterne og byretterne samt Sø- og Handelsretten og Tinglysningsretten. Stk. 2. Denne lovs regler finder alene anvendelse på rettens pleje ved de almindelige domstole, medmindre andet er bestemt i denne eller anden lov. Stk. 3. Militære straffesager behandles efter militær retsplejelov. § 1 a. Den Særlige Klageret behandler og påkender 1) begæringer om genoptagelse af en straffesag, jf. kapitel 86, 2) kæremål vedrørende udelukkelse af en forsvarer, jf. § 737, 3) klager, der henvises efter § 48, 4) klager over advarsler meddelt efter § 48, 5) sager om suspension, disciplinærforfølgning og afsked på grund af sygdom i de i §§ 49, 49",
+    "paragraf": "§ 1 a"
+   }
+  ]
+ },
+ {
+  "hvor": "raad-dommerudnaevnelsesraadet.hjemmel",
+  "paastand": "Dommerudnævnelsesrådet (råd, ministerium ingen): hjemmel = {\"tekst\": \"Retsplejeloven § 43 a: rådet afgiver indstilling til justitsministeren om besættelse af dommerstillinger (højesteret, landsret, Sø- og Handelsretten, byret, Tinglysningsretten). § 43 b: 6 medlemmer (højesteretsdommer som formand, landsdommer, byretsdommer, advokat fra Advokatrådet og to offentlighedsrepræsentanter). § 43 c: fastsætter selv sin forretningsorden (BEK 589/1999). Sekretariat: Domstolsstyrelsen (§ 43 d).\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "Der oprettes et dommerudnævnelsesråd, som afgiver indstilling til justitsministeren om besættelse af stillinger som",
+    "genfundet": true,
+    "kontekst": "ing. Der skal herved lægges afgørende vægt på ansøgernes juridiske og personlige kvalifikationer. Også bredden i ansøgernes juridiske erfaringsgrundlag skal tillægges vægt, ligesom det skal indgå i vurderingen, at der ved domstolene bør være dommere med forskellig juridisk erhvervsbaggrund. § 43 a. Der oprettes et dommerudnævnelsesråd, som afgiver indstilling til justitsministeren om besættelse af stillinger som 1) højesteretsdommer, 2) landsretspræsident og landsdommer, 3) præsident, vicepræsident og dommer i Sø- og Handelsretten, 4) byretspræsident og byretsdommer, 5) præsident og dommer i Tinglysningsretten, 6) midlertidigt beskikket dommer i henhold til § 44 b og 7) midlertidigt beskikket dommer i henh",
+    "paragraf": "§ 43 a"
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "Dommerudnævnelsesrådet består af 6 medlemmer, en højesteretsdommer (formand), en landsdommer, en byretsdommer, en advokat og to repræsentanter for offentligheden.",
+    "genfundet": true,
+    "kontekst": "i rådet er enighed om, hvem af ansøgerne der skal indstilles, afgøres spørgsmålet ved afstemning. Ved stemmelighed gør formandens stemme udslaget. Det skal tilkendegives i rådets indstilling, såfremt der har været uenighed om indstillingen, og de enkelte medlemmers standpunkter skal fremgå. § 43 b. Dommerudnævnelsesrådet består af 6 medlemmer, en højesteretsdommer (formand), en landsdommer, en byretsdommer, en advokat og to repræsentanter for offentligheden. Stk. 2. Dommerne beskikkes af justitsministeren efter indstilling fra henholdsvis Højesteret, landsretterne og Den Danske Dommerforening. Stk. 3. Advokaten beskikkes af justitsministeren efter indstilling fra Advokatrådet. Stk. 4. Offentlighedsrepræsentanterne beskikkes af justitsministeren efter ",
+    "paragraf": "§ 43 b"
+   }
+  ]
+ },
+ {
+  "hvor": "raad-dommerudnaevnelsesraadet.dokumenttyper",
+  "paastand": "Dommerudnævnelsesrådet (råd, ministerium ingen): dokumenttyper = {\"liste\": [{\"type\": \"redegørelse om virksomheden\", \"bindende\": \"ukendt\", \"note\": \"offentliggøres årligt\"}]}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "Dommerudnævnelsesrådet offentliggør hvert år en redegørelse for sin virksomhed.",
+    "genfundet": true,
+    "kontekst": " forretningsorden. Stk. 2. Der kan i forretningsordenen fastsættes bestemmelser om, at formanden kan afgive indstilling i visse, nærmere bestemte sager på rådets vegne, eller at indstillinger kan afgives af 3 af rådets medlemmer, nemlig en dommer, en advokat og en offentlighedsrepræsentant. § 43 d. Dommerudnævnelsesrådet offentliggør hvert år en redegørelse for sin virksomhed. Stk. 2. Dommerudnævnelsesrådets sekretariatsopgaver varetages af Domstolsstyrelsen. § 44. Midlertidig beskikkelse til højesteretsdommer kan ikke finde sted. En pensioneret højesteretsdommer kan dog tilkaldes for at virke som dommer efter § 51 e. En ledig stilling skal besættes inden 6 måneder. Stk",
+    "paragraf": "§ 43 d"
+   }
+  ]
+ },
+ {
+  "hvor": "raad-retslaegeraadet.hjemmel",
+  "paastand": "Retslægerådet (råd, ministerium ingen): hjemmel = {\"tekst\": \"Lov om retslægerådet (LOV nr. 60 af 25/03/1961), gældende; forretningsorden BEK 1068/2001 (senest ændret 2026).\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/1961/60",
+    "citat": "Lov om retslægerådet. 1961 1961-03-25",
+    "genfundet": true,
+    "kontekst": "Lov A A19610006030 CM018247 59295 Lov om retslægerådet. 1961 1961-03-25 1997-09-25 1997-09-25 Valid 60 Lovtidende A 1997-09-25 Nej Justitsmin. j.nr. L.A 117/1960. Justitsministeriet"
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-indsamlingsnaevnet.hjemmel",
+  "paastand": "Indsamlingsnævnet (nævn, ministerium min-justits): hjemmel = {\"tekst\": \"Lov om indsamling m.v. § 3, stk. 1: en indsamling kan først iværksættes, når nævnet har givet tilladelse. Forretningsorden BEK 895/2014 § 1: formand og fire andre medlemmer udnævnt af justitsministeren. Nævnet fører tilsyn med indsamlinger (BEK 895/2014 § 3).\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/867",
+    "citat": "En indsamling kan først iværksættes, når Indsamlingsnævnet har givet tilladelse til indsamlingen",
+    "genfundet": true,
+    "kontekst": " som forestås af vedkommende trossamfund eller mødearrangør. 4) Indsamlinger til støtte for politiske partier. 5) Almennyttige lotterier. Stk. 2. Uanset stk. 1, nr. 4, må indsamlinger til støtte for politiske partier ikke finde sted som hus- og gadeindsamlin‍ger. Kapitel 2 Tilladelseskrav m.v. § 3. En indsamling kan først iværksættes, når Indsamlingsnævnet har givet tilladelse til indsamlingen, jf. dog § 4, stk. 1. Ved ansøgning om tilladelse til en indsamling skal formålet med indsamlingen anføres. Indsamlingsnævnet foretager i forbindelse med ansøgningen en kontrol af det oplyste formål med indsamlingen, jf. § 10. Stk. 2. Indsamlingsnævnet kan afslå en ansøgning om tilladelse efter stk",
+    "paragraf": "§ 3"
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/895",
+    "citat": "Indsamlingsnævnet består af en formand og af fire andre medlemmer, som udnævnes af justitsministeren.",
+    "genfundet": true,
+    "kontekst": "p Thomas Klyver Justitsministeriet Justitsmin., j.nr. 2014-529-0018 Justitsministeriet Justitsministeriet Bekendtgørelse om forretningsorden for Indsamlingsnævnet I medfør af § 13, stk. 2, i lov nr. 511 af 26. maj 2014 om indsamling m.v. fastsættes: Kapitel 1 Indsamlingsnævnet og sekretariatet § 1. Indsamlingsnævnet består af en formand og af fire andre medlemmer, som udnævnes af justitsministeren. Indsamlingsorganisationernes Brancheorganisation (ISOBRO) indstiller to medlemmer af nævnet, mens Dansk Erhverv og Forbrugerrådet TÆNK hver indstiller ét medlem. Stk. 2. Formanden skal være jurist. Stk. 3. Medlemmerne udpeges for en periode på fire år. Genudnævnelse kan finde sted. Udtræder et med",
+    "paragraf": "§ 1"
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-indsamlingsnaevnet.dokumenttyper",
+  "paastand": "Indsamlingsnævnet (nævn, ministerium min-justits): dokumenttyper = {\"liste\": [{\"type\": \"tilladelse til indsamling (afslag og tilbagekaldelse)\", \"bindende\": \"bindende\"}, {\"type\": \"endelig administrativ afgørelse (KEN)\", \"bindende\": \"bindende\", \"note\": \"findes på Retsinformation, jf. katalog; ikke belagt på en side i denne kørsel\"}]}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/867",
+    "citat": "En indsamling kan først iværksættes, når Indsamlingsnævnet har givet tilladelse til indsamlingen",
+    "genfundet": true,
+    "kontekst": " som forestås af vedkommende trossamfund eller mødearrangør. 4) Indsamlinger til støtte for politiske partier. 5) Almennyttige lotterier. Stk. 2. Uanset stk. 1, nr. 4, må indsamlinger til støtte for politiske partier ikke finde sted som hus- og gadeindsamlin‍ger. Kapitel 2 Tilladelseskrav m.v. § 3. En indsamling kan først iværksættes, når Indsamlingsnævnet har givet tilladelse til indsamlingen, jf. dog § 4, stk. 1. Ved ansøgning om tilladelse til en indsamling skal formålet med indsamlingen anføres. Indsamlingsnævnet foretager i forbindelse med ansøgningen en kontrol af det oplyste formål med indsamlingen, jf. § 10. Stk. 2. Indsamlingsnævnet kan afslå en ansøgning om tilladelse efter stk",
+    "paragraf": "§ 3"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-indsamlingsloven.hjemmel",
+  "paastand": "Lov om indsamling m.v. (lov, ministerium min-justits): hjemmel = {\"tekst\": \"ikke relevant\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/867",
+    "citat": "Denne lov finder anvendelse på indsamlinger",
+    "genfundet": true,
+    "kontekst": "ioner m.v.), er ikke indarbejdet i denne lovbekendtgørelse, da ændringen efterfølgende er ophævet, jf. § 2, nr. 1, i lov nr. 743 af 13. juni 2023 om ændring af lov om indsamling m.v. (Ændring af Indsamlingsnævnets sammensætning, øgede kontrolmuligheder m.v.). Kapitel 1 Lovens anvendelsesområde § 1. Denne lov finder anvendelse på indsamlinger, hvorved forstås enhver form for opfordring til at yde bidrag til et forud angivet formål. Stk. 2. § 8 og § 11, stk. 3, finder tilsvarende anvendelse for hjælpeorganisationers hvervning af medlemmer ved personlig eller telefonisk henvendelse. Stk. 3. Salg anses som en indsamling, når det i umiddelb",
+    "paragraf": "§ 1"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-indsamlingsloven.url",
+  "paastand": "Lov om indsamling m.v. (lov, ministerium min-justits): url = {\"vaerdi\": \"https://www.retsinformation.dk/eli/lta/2026/867\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/867",
+    "citat": "Denne lov finder anvendelse på indsamlinger",
+    "genfundet": true,
+    "kontekst": "ioner m.v.), er ikke indarbejdet i denne lovbekendtgørelse, da ændringen efterfølgende er ophævet, jf. § 2, nr. 1, i lov nr. 743 af 13. juni 2023 om ændring af lov om indsamling m.v. (Ændring af Indsamlingsnævnets sammensætning, øgede kontrolmuligheder m.v.). Kapitel 1 Lovens anvendelsesområde § 1. Denne lov finder anvendelse på indsamlinger, hvorved forstås enhver form for opfordring til at yde bidrag til et forud angivet formål. Stk. 2. § 8 og § 11, stk. 3, finder tilsvarende anvendelse for hjælpeorganisationers hvervning af medlemmer ved personlig eller telefonisk henvendelse. Stk. 3. Salg anses som en indsamling, når det i umiddelb",
+    "paragraf": "§ 1"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-indsamlingsloven.identifikatorer",
+  "paastand": "Lov om indsamling m.v. (lov, ministerium min-justits): identifikatorer = {\"eli\": \"https://www.retsinformation.dk/eli/lta/2026/867\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/867",
+    "citat": "Denne lov finder anvendelse på indsamlinger, hvorved forstås enhver form for opfordring til at yde bidrag til et forud angivet formål.",
+    "genfundet": true,
+    "kontekst": "ioner m.v.), er ikke indarbejdet i denne lovbekendtgørelse, da ændringen efterfølgende er ophævet, jf. § 2, nr. 1, i lov nr. 743 af 13. juni 2023 om ændring af lov om indsamling m.v. (Ændring af Indsamlingsnævnets sammensætning, øgede kontrolmuligheder m.v.). Kapitel 1 Lovens anvendelsesområde § 1. Denne lov finder anvendelse på indsamlinger, hvorved forstås enhver form for opfordring til at yde bidrag til et forud angivet formål. Stk. 2. § 8 og § 11, stk. 3, finder tilsvarende anvendelse for hjælpeorganisationers hvervning af medlemmer ved personlig eller telefonisk henvendelse. Stk. 3. Salg anses som en indsamling, når det i umiddelbar tilknytning til salget tilkendegives, at en del af købesummen går til et forud angivet ",
+    "paragraf": "§ 1"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-retslaegeraadet.hjemmel",
+  "paastand": "Lov om retslægerådet (lov, ministerium min-justits): hjemmel = {\"tekst\": \"ikke relevant\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/1961/60",
+    "citat": "Lov om retslægerådet. 1961 1961-03-25",
+    "genfundet": true,
+    "kontekst": "Lov A A19610006030 CM018247 59295 Lov om retslægerådet. 1961 1961-03-25 1997-09-25 1997-09-25 Valid 60 Lovtidende A 1997-09-25 Nej Justitsmin. j.nr. L.A 117/1960. Justitsministeriet"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-retslaegeraadet.url",
+  "paastand": "Lov om retslægerådet (lov, ministerium min-justits): url = {\"vaerdi\": \"https://www.retsinformation.dk/eli/lta/1961/60\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/1961/60",
+    "citat": "Lov om retslægerådet. 1961 1961-03-25",
+    "genfundet": true,
+    "kontekst": "Lov A A19610006030 CM018247 59295 Lov om retslægerådet. 1961 1961-03-25 1997-09-25 1997-09-25 Valid 60 Lovtidende A 1997-09-25 Nej Justitsmin. j.nr. L.A 117/1960. Justitsministeriet"
+   }
+  ]
+ },
+ {
+  "hvor": "lov-retslaegeraadet.identifikatorer",
+  "paastand": "Lov om retslægerådet (lov, ministerium min-justits): identifikatorer = {\"eli\": \"https://www.retsinformation.dk/eli/lta/1961/60\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/1961/60",
+    "citat": "Lov om retslægerådet. 1961 1961-03-25",
+    "genfundet": true,
+    "kontekst": "Lov A A19610006030 CM018247 59295 Lov om retslægerådet. 1961 1961-03-25 1997-09-25 1997-09-25 Valid 60 Lovtidende A 1997-09-25 Nej Justitsmin. j.nr. L.A 117/1960. Justitsministeriet"
+   }
+  ]
+ },
+ {
+  "hvor": "bek-advokatnaevnets-virksomhed.hjemmel",
+  "paastand": "Bekendtgørelse om Advokatnævnets virksomhed ved behandling af klager over advokater m.v. (bekendtgørelse, ministerium min-justits): hjemmel = {\"tekst\": \"I medfør af retsplejelovens § 144, stk. 3, § 147 c, stk. 7, og § 147 h, stk. 4 (sagsbehandling, sanktioner og valgbarhed); hjemmelsloven henviser til LBK nr. 1160/2024, som nu er afløst af LBK 1298/2025.\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1630",
+    "citat": "I medfør af § 144, stk. 3, § 147 c, stk. 7, og § 147 h, stk. 4, i lov om rettens pleje",
+    "genfundet": true,
+    "kontekst": "15 Valid 1630 Lovtidende A 2024-12-20 A20250129829 2025-11-07 Bekendtgørelse af lov om rettens pleje Nej Peter Hummelgaard Troels Sten Nielsen Justitsministeriet Justitsmin., j.nr. 2024-14443 Justitsministeriet Bekendtgørelse om Advokatnævnets virksomhed ved behandling af klager over advokater m.v. I medfør af § 144, stk. 3, § 147 c, stk. 7, og § 147 h, stk. 4, i lov om rettens pleje, jf. lovbekendtgørelse nr. 1160 af 5. november 2024, som ændret ved lov nr. 1464 af 10. december 2024, fastsættes: Kapitel 1 Advokatnævnet § 1. Advokatnævnet har til opgave at behandle klager over, at en advokat har tilsidesat god advokatskik (disciplinærsager), klager, der vedrører det vederlag, s"
+   }
+  ]
+ },
+ {
+  "hvor": "bek-advokatnaevnets-virksomhed.url",
+  "paastand": "Bekendtgørelse om Advokatnævnets virksomhed ved behandling af klager over advokater m.v. (bekendtgørelse, ministerium min-justits): url = {\"vaerdi\": \"https://www.retsinformation.dk/eli/lta/2024/1630\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1630",
+    "citat": "Bekendtgørelse om Advokatnævnets virksomhed ved behandling af klager over advokater m.v.",
+    "genfundet": true,
+    "kontekst": "BEK H#LOKDOK04 B B20240163005 AA014562 247395 Bekendtgørelse om Advokatnævnets virksomhed ved behandling af klager over advokater m.v. 2024 2024-12-19 2024-12-20 2025-11-15 Valid 1630 Lovtidende A 2024-12-20 A20250129829 2025-11-07 Bekendtgørelse af lov om rettens pleje Nej Peter Hummelgaard Troels Sten Nielsen Justitsministeriet Justitsmin., j.nr. 2024-14443 Justitsministeriet Bekendtgørelse om Advokatnævnets virksomhed ved beha"
+   }
+  ]
+ },
+ {
+  "hvor": "bek-advokatnaevnets-virksomhed.identifikatorer",
+  "paastand": "Bekendtgørelse om Advokatnævnets virksomhed ved behandling af klager over advokater m.v. (bekendtgørelse, ministerium min-justits): identifikatorer = {\"eli\": \"https://www.retsinformation.dk/eli/lta/2024/1630\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1630",
+    "citat": "Bekendtgørelse om Advokatnævnets virksomhed ved behandling af klager over advokater m.v.",
+    "genfundet": true,
+    "kontekst": "BEK H#LOKDOK04 B B20240163005 AA014562 247395 Bekendtgørelse om Advokatnævnets virksomhed ved behandling af klager over advokater m.v. 2024 2024-12-19 2024-12-20 2025-11-15 Valid 1630 Lovtidende A 2024-12-20 A20250129829 2025-11-07 Bekendtgørelse af lov om rettens pleje Nej Peter Hummelgaard Troels Sten Nielsen Justitsministeriet Justitsmin., j.nr. 2024-14443 Justitsministeriet Bekendtgørelse om Advokatnævnets virksomhed ved beha"
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-advokatnaevnet-afgoerelser.dokumenttyper",
+  "paastand": "Advokatnævnets offentliggjorte afgørelser og beretninger (dokumentkilde, ministerium ingen): dokumenttyper = {\"liste\": [{\"type\": \"afgørelse i disciplinærsag (offentliggjort efter skøn)\", \"bindende\": \"bindende\"}, {\"type\": \"årsberetning\", \"bindende\": \"ukendt\"}]}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "Nævnet kan offentliggøre afgørelsen.",
+    "genfundet": true,
+    "kontekst": "il domstolsprøvelse og fristen herfor. Stk. 11. Advokatnævnet sender meddelelse om en afgørelse til klageren, advokaten, fællesskabet af advokater, advokatselskabet, personen, der i medfør af § 124 c, stk. 1, nr. 2, ejer aktier eller anparter i et advokatselskab, Advokatrådet og Justitsministeriet. Nævnet kan offentliggøre afgørelsen. § 147 d. Advokatnævnets afgørelse efter § 147 c, stk. 1 og 2, kan indbringes for retten af advokaten, fællesskabet af advokater, advokatselskabet eller personen, der i medfør af § 124 c, stk. 1, nr. 2, ejer aktier eller anparter i et advokatselskab. Retten kan stadfæste, ophæve eller ændre afgørel",
+    "paragraf": "§ 147 c"
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1630",
+    "citat": "Nævnet offentliggør beretningen på sin hjemmeside.",
+    "genfundet": true,
+    "kontekst": "m digital kommunikation. § 6. Advokatnævnet fastsætter en forretningsorden, der bl.a. indeholder nærmere frister for sagsbehandlingsskridt og en målsætning for, hvor lang sagsbehandlingstiden samlet set bør være. § 7. Advokatnævnet afgiver en årlig beretning om sin virksomhed til justitsministeren. Nævnet offentliggør beretningen på sin hjemmeside. Kapitel 2 Inhabilitet § 8. Intet medlem af Advokatnævnet må deltage i behandlingen af en sag, hvis 1) vedkommende selv har en særlig personlig eller økonomisk interesse i sagens udfald eller er eller tidligere i samme sag har været repræsentant for nogen, der har en sådan interesse, 2) vedkommende",
+    "paragraf": "§ 7"
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|lov-indsamlingsloven",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/867",
+    "citat": "Denne lov finder anvendelse på indsamlinger",
+    "genfundet": true,
+    "kontekst": "ioner m.v.), er ikke indarbejdet i denne lovbekendtgørelse, da ændringen efterfølgende er ophævet, jf. § 2, nr. 1, i lov nr. 743 af 13. juni 2023 om ændring af lov om indsamling m.v. (Ændring af Indsamlingsnævnets sammensætning, øgede kontrolmuligheder m.v.). Kapitel 1 Lovens anvendelsesområde § 1. Denne lov finder anvendelse på indsamlinger, hvorved forstås enhver form for opfordring til at yde bidrag til et forud angivet formål. Stk. 2. § 8 og § 11, stk. 3, finder tilsvarende anvendelse for hjælpeorganisationers hvervning af medlemmer ved personlig eller telefonisk henvendelse. Stk. 3. Salg anses som en indsamling, når det i umiddelb",
+    "paragraf": "§ 1"
+   }
+  ],
+  "paastand": "min-justits —ressortansvar→ Lov om indsamling m.v.: Loven hører under justitsministeren (Retsinformations ministeriefelt)."
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|lov-retslaegeraadet",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/1961/60",
+    "citat": "Lov om retslægerådet. 1961 1961-03-25",
+    "genfundet": true,
+    "kontekst": "Lov A A19610006030 CM018247 59295 Lov om retslægerådet. 1961 1961-03-25 1997-09-25 1997-09-25 Valid 60 Lovtidende A 1997-09-25 Nej Justitsmin. j.nr. L.A 117/1960. Justitsministeriet"
+   }
+  ],
+  "paastand": "min-justits —ressortansvar→ Lov om retslægerådet: Loven hører under Justitsministeriet (Retsinformations ministeriefelt)."
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|bek-advokatnaevnets-virksomhed",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1630",
+    "citat": "Bekendtgørelse om Advokatnævnets virksomhed ved behandling af klager over advokater m.v.",
+    "genfundet": true,
+    "kontekst": "BEK H#LOKDOK04 B B20240163005 AA014562 247395 Bekendtgørelse om Advokatnævnets virksomhed ved behandling af klager over advokater m.v. 2024 2024-12-19 2024-12-20 2025-11-15 Valid 1630 Lovtidende A 2024-12-20 A20250129829 2025-11-07 Bekendtgørelse af lov om rettens pleje Nej Peter Hummelgaard Troels Sten Nielsen Justitsministeriet Justitsmin., j.nr. 2024-14443 Justitsministeriet Bekendtgørelse om Advokatnævnets virksomhed ved beha"
+   }
+  ],
+  "paastand": "min-justits —ressortansvar→ Bekendtgørelse om Advokatnævnets virksomhed ved behandling af klager over advokater m.v.: Bekendtgørelsen udstedes af Justitsministeriet (Retsinformations ministeriefelt)."
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|naevn-indsamlingsnaevnet",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/895",
+    "citat": "Justitsministeriet stiller sekretariatsbistand til rådighed for nævnet.",
+    "genfundet": true,
+    "kontekst": "fire år. Genudnævnelse kan finde sted. Udtræder et medlem inden udløbet af en periode, foretages nyudnævnelse alene for den resterende del af perioden. Stk. 4. Der beskikkes en stedfortræder for hver af nævnets medlemmer. Stk. 1-3 finder tilsvarende anvendelse på beskikkelse af stedfortrædere. § 2. Justitsministeriet stiller sekretariatsbistand til rådighed for nævnet. Kapitel 2 Nævnets opgaver § 3. Nævnet fører tilsyn med, at indsamlinger foretages i overensstemmelse med reglerne i indsamlingsloven og indsamlingsbekendtgørelsen. Stk. 2. Nævnet fører endvidere tilsyn med, om indsamlede midler er anvendt i overensstemmelse med det angivne formål, og om formålet e",
+    "paragraf": "§ 2"
+   }
+  ],
+  "paastand": "min-justits —ressortansvar→ Indsamlingsnævnet: Justitsministeriet stiller sekretariat til rådighed og udnævner nævnets medlemmer."
+ },
+ {
+  "hvor": "kant lov-retsplejeloven|hjemmel_for|org-advokatsamfundet",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "Det Danske Advokatsamfund udgøres af alle danske advokater.",
+    "genfundet": true,
+    "kontekst": "ner og selskaber, der er nævnt i stk. 1 og 4, kan indklages til Advokatnævnet for overtrædelse af de regler, som er fastsat i medfør af § 127, jf. stk. 1. For sagens behandling i Advokatnævnet finder reglerne i kapitel 15 b tilsvarende anvendelse. Kapitel 15 Advokatsamfundet og Advokatnævnet § 143. Det Danske Advokatsamfund udgøres af alle danske advokater. Stk. 2. Advokatrådet, der er Advokatsamfundets bestyrelse, fører tilsyn med advokaterne og deres autoriserede fuldmægtige. Finder rådet, at en advokat ikke har handlet i overensstemmelse med de pligter, stillingen medfører, kan det indklage den pågældende for Advokatnævnet. 1. og 2. pkt. finder ti",
+    "paragraf": "§ 143"
+   }
+  ],
+  "paastand": "lov-retsplejeloven —hjemmel_for→ Det Danske Advokatsamfund: § 143, stk. 1: Advokatsamfundet udgøres af alle danske advokater."
+ },
+ {
+  "hvor": "kant lov-retsplejeloven|hjemmel_for|raad-advokatraadet",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "Advokatrådet, der er Advokatsamfundets bestyrelse, fører tilsyn med advokaterne og deres autoriserede fuldmægtige.",
+    "genfundet": true,
+    "kontekst": "katnævnet for overtrædelse af de regler, som er fastsat i medfør af § 127, jf. stk. 1. For sagens behandling i Advokatnævnet finder reglerne i kapitel 15 b tilsvarende anvendelse. Kapitel 15 Advokatsamfundet og Advokatnævnet § 143. Det Danske Advokatsamfund udgøres af alle danske advokater. Stk. 2. Advokatrådet, der er Advokatsamfundets bestyrelse, fører tilsyn med advokaterne og deres autoriserede fuldmægtige. Finder rådet, at en advokat ikke har handlet i overensstemmelse med de pligter, stillingen medfører, kan det indklage den pågældende for Advokatnævnet. 1. og 2. pkt. finder tilsvarende anvendelse for så vidt angår advokatselskaber, jf. § 124, og fællesskaber af advokater. Stk. 3. Advokatrådet kan ",
+    "paragraf": "§ 143"
+   }
+  ],
+  "paastand": "lov-retsplejeloven —hjemmel_for→ Advokatrådet: § 143, stk. 2: Advokatrådet fører tilsyn med advokaterne og kan indklage dem for Advokatnævnet."
+ },
+ {
+  "hvor": "kant lov-retsplejeloven|hjemmel_for|naevn-advokatnaevnet",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "Advokatsamfundet opretter et Advokatnævn.",
+    "genfundet": true,
+    "kontekst": "dvokatrådets kontaktpersoner kan udelukkende videregive oplysninger til Advokatnævnet til varetagelsen af dets opgaver efter denne lov og til relevante offentlige myndigheder, herunder anklagemyndigheden, politiet og justitsministeren, til varetagelse af deres opgaver efter deres lovgivning. § 144. Advokatsamfundet opretter et Advokatnævn. Advokatnævnet består af en formand og 2 næstformænd, der alle skal være dommere, samt af 18 andre medlemmer. Formanden og næstformændene udpeges af Højesterets præsident. Af de øvrige medlemmer vælges 9 af Advokatsamfundet blandt advokater, der ikke er medlemmer af Advokatrådet, og 9, der ikke må ",
+    "paragraf": "§ 144"
+   }
+  ],
+  "paastand": "lov-retsplejeloven —hjemmel_for→ Advokatnævnet: § 144: Advokatsamfundet opretter Advokatnævnet."
+ },
+ {
+  "hvor": "kant bek-advokatnaevnets-virksomhed|hjemmel_for|naevn-advokatnaevnet",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1630",
+    "citat": "Advokatnævnet kan virke samlet eller i afdelinger.",
+    "genfundet": true,
+    "kontekst": "etsplejelovens § 147 h. Stk. 2. Reglerne i denne bekendtgørelse finder tilsvarende anvendelse ved klager over fællesskaber af advokater og advokatselskaber og ved klager over personer, der er nævnt i retsplejelovens § 124 c, stk. 1, nr. 2, og som ejer aktier eller anparter i et advokatselskab. § 2. Advokatnævnet kan virke samlet eller i afdelinger. Stk. 2. Hver afdeling består af 7 medlemmer. § 3. Advokatnævnets formand fordeler sagerne mellem det samlede nævn og afdelingerne. Stk. 2. Sager af principiel karakter, sager, hvor der kan opstå spørgsmål om frakendelse efter retsplejelovens § 147 c, stk. 8 eller 9, og sager om ophævelse af en fra",
+    "paragraf": "§ 2"
+   }
+  ],
+  "paastand": "Bekendtgørelse om Advokatnævnets virksomhed ved behandling af klager over advokater m.v. —hjemmel_for→ Advokatnævnet: BEK 1630/2024 fastsætter Advokatnævnets virksomhed, herunder afdelinger (§ 2)."
+ },
+ {
+  "hvor": "kant lov-retsplejeloven|hjemmel_for|dom-soe-og-handelsretten",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "Sø- og Handelsretten, der har sit sæde i København, består af en præsident",
+    "genfundet": true,
+    "kontekst": "behandles uden for retskredsen, skal parterne have lejlighed til at udtale sig om spørgsmålet. Stk. 5. 2) Se fodnote 1. Efter begæring sættes retten i en særligt sikret retssal som nævnt i § 27 b, når særlige sikkerhedsmæssige hensyn tilsiger det. Rettens afgørelse herom træffes ved kendelse. § 14. Sø- og Handelsretten, der har sit sæde i København, består af en præsident, 2 vicepræsidenter og mindst 3 andre dommere samt et antal sagkyndige medlemmer. Stk. 2. For at give mulighed for, at dommere eller vicepræsidenter kan overgå til ansættelse på deltid, jf. § 51 a, kan der udnævnes yderligere 1 dommer. Stk. 3. Præsidenten er ansvarlig for varetagelsen af de bevillin",
+    "paragraf": "§ 14"
+   }
+  ],
+  "paastand": "lov-retsplejeloven —hjemmel_for→ Sø- og Handelsretten: § 14: Sø- og Handelsretten har sæde i København og består af en præsident og dommere."
+ },
+ {
+  "hvor": "kant lov-retsplejeloven|hjemmel_for|dom-tinglysningsretten",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "Tinglysningsretten, der har sit sæde i Hobro, består af en præsident og 1 anden dommer.",
+    "genfundet": true,
+    "kontekst": "syn til sagens behandling inden for rimelig tid eller af andre særlige grunde. Stk. 6. Inden Sø- og Handelsretten i medfør af stk. 5 træffer afgørelse om, hvorvidt en sag skal behandles uden for det til tingstedet henlagte område, skal parterne have lejlighed til at udtale sig om spørgsmålet. § 18. Tinglysningsretten, der har sit sæde i Hobro, består af en præsident og 1 anden dommer. Præsidenten træffer efter forhandling med den anden dommer bestemmelse om sagernes fordeling mellem dommerne og om sagernes administrative behandling. Stk. 2. Præsidenten er ansvarlig for varetagelsen af de bevillingsmæssige og administrative forhold, der er henlagt til embedet. Præsidenten skal h",
+    "paragraf": "§ 18"
+   }
+  ],
+  "paastand": "lov-retsplejeloven —hjemmel_for→ Tinglysningsretten: § 18: Tinglysningsretten har sæde i Hobro og varetager tinglysningen for hele landet."
+ },
+ {
+  "hvor": "kant lov-retsplejeloven|hjemmel_for|raad-dommerudnaevnelsesraadet",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "Der oprettes et dommerudnævnelsesråd, som afgiver indstilling til justitsministeren om besættelse af stillinger som",
+    "genfundet": true,
+    "kontekst": "ing. Der skal herved lægges afgørende vægt på ansøgernes juridiske og personlige kvalifikationer. Også bredden i ansøgernes juridiske erfaringsgrundlag skal tillægges vægt, ligesom det skal indgå i vurderingen, at der ved domstolene bør være dommere med forskellig juridisk erhvervsbaggrund. § 43 a. Der oprettes et dommerudnævnelsesråd, som afgiver indstilling til justitsministeren om besættelse af stillinger som 1) højesteretsdommer, 2) landsretspræsident og landsdommer, 3) præsident, vicepræsident og dommer i Sø- og Handelsretten, 4) byretspræsident og byretsdommer, 5) præsident og dommer i Tinglysningsretten, 6) midlertidigt beskikket dommer i henhold til § 44 b og 7) midlertidigt beskikket dommer i henh",
+    "paragraf": "§ 43 a"
+   }
+  ],
+  "paastand": "lov-retsplejeloven —hjemmel_for→ Dommerudnævnelsesrådet: § 43 a opretter rådet, som indstiller dommere til justitsministeren."
+ },
+ {
+  "hvor": "kant lov-retsplejeloven|hjemmel_for|dom-den-saerlige-klageret",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "Den Særlige Klageret behandler og påkender",
+    "genfundet": true,
+    "kontekst": "landsretterne og byretterne samt Sø- og Handelsretten og Tinglysningsretten. Stk. 2. Denne lovs regler finder alene anvendelse på rettens pleje ved de almindelige domstole, medmindre andet er bestemt i denne eller anden lov. Stk. 3. Militære straffesager behandles efter militær retsplejelov. § 1 a. Den Særlige Klageret behandler og påkender 1) begæringer om genoptagelse af en straffesag, jf. kapitel 86, 2) kæremål vedrørende udelukkelse af en forsvarer, jf. § 737, 3) klager, der henvises efter § 48, 4) klager over advarsler meddelt efter § 48, 5) sager om suspension, disciplinærforfølgning og afsked på grund af sygdom i de i §§ 49, 49",
+    "paragraf": "§ 1 a"
+   }
+  ],
+  "paastand": "lov-retsplejeloven —hjemmel_for→ Den Særlige Klageret: § 1 a: Den Særlige Klageret behandler de sager, der er opregnet i bestemmelsen."
+ },
+ {
+  "hvor": "kant lov-retslaegeraadet|hjemmel_for|raad-retslaegeraadet",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/1961/60",
+    "citat": "Lov om retslægerådet. 1961 1961-03-25",
+    "genfundet": true,
+    "kontekst": "Lov A A19610006030 CM018247 59295 Lov om retslægerådet. 1961 1961-03-25 1997-09-25 1997-09-25 Valid 60 Lovtidende A 1997-09-25 Nej Justitsmin. j.nr. L.A 117/1960. Justitsministeriet"
+   }
+  ],
+  "paastand": "Lov om retslægerådet —hjemmel_for→ Retslægerådet: Loven om retslægerådet er hjemlen for rådet. Lovteksten er ikke hentet, kun titlen er belagt."
+ },
+ {
+  "hvor": "kant lov-indsamlingsloven|hjemmel_for|naevn-indsamlingsnaevnet",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/867",
+    "citat": "En indsamling kan først iværksættes, når Indsamlingsnævnet har givet tilladelse til indsamlingen",
+    "genfundet": true,
+    "kontekst": " som forestås af vedkommende trossamfund eller mødearrangør. 4) Indsamlinger til støtte for politiske partier. 5) Almennyttige lotterier. Stk. 2. Uanset stk. 1, nr. 4, må indsamlinger til støtte for politiske partier ikke finde sted som hus- og gadeindsamlin‍ger. Kapitel 2 Tilladelseskrav m.v. § 3. En indsamling kan først iværksættes, når Indsamlingsnævnet har givet tilladelse til indsamlingen, jf. dog § 4, stk. 1. Ved ansøgning om tilladelse til en indsamling skal formålet med indsamlingen anføres. Indsamlingsnævnet foretager i forbindelse med ansøgningen en kontrol af det oplyste formål med indsamlingen, jf. § 10. Stk. 2. Indsamlingsnævnet kan afslå en ansøgning om tilladelse efter stk",
+    "paragraf": "§ 3"
+   }
+  ],
+  "paastand": "Lov om indsamling m.v. —hjemmel_for→ Indsamlingsnævnet: § 3, stk. 1: en indsamling kræver nævnets tilladelse."
+ },
+ {
+  "hvor": "kant dom-landsretterne|klageinstans|dom-soe-og-handelsretten",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "Domme, der er afsagt af Sø- og Handelsretten, kan af parterne ankes til Højesteret eller landsret.",
+    "genfundet": true,
+    "kontekst": "den 4 uger efter dommens afsigelse. Nævnet kan dog undtagelsesvis meddele tilladelse, hvis ansøgning indgives senere, men inden 1 år efter afsigelsen. Stk. 3. Domme, der er afsagt af en landsret som 1. instans, kan af parterne ankes til Højesteret, for så vidt ikke andet er bestemt ved lov. Stk. 4. Domme, der er afsagt af Sø- og Handelsretten, kan af parterne ankes til Højesteret eller landsret. Anke kan ske til Højesteret, hvis sagen er af principiel karakter og har generel betydning for retsanvendelsen og retsudviklingen eller væsentlig samfundsmæssig rækkevidde i øvrigt, eller hvis andre særlige grunde i øvrigt taler for, at sagen behandles af Højesteret som 2. instans. Anke til landsr",
+    "paragraf": "§ 368"
+   }
+  ],
+  "paastand": "dom-landsretterne —klageinstans→ Sø- og Handelsretten: Landsretten behandler anke af Sø- og Handelsrettens domme efter § 368, stk. 4."
+ },
+ {
+  "hvor": "kant dom-hoejesteret|klageinstans|dom-soe-og-handelsretten",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "Domme, der er afsagt af Sø- og Handelsretten, kan af parterne ankes til Højesteret eller landsret.",
+    "genfundet": true,
+    "kontekst": "den 4 uger efter dommens afsigelse. Nævnet kan dog undtagelsesvis meddele tilladelse, hvis ansøgning indgives senere, men inden 1 år efter afsigelsen. Stk. 3. Domme, der er afsagt af en landsret som 1. instans, kan af parterne ankes til Højesteret, for så vidt ikke andet er bestemt ved lov. Stk. 4. Domme, der er afsagt af Sø- og Handelsretten, kan af parterne ankes til Højesteret eller landsret. Anke kan ske til Højesteret, hvis sagen er af principiel karakter og har generel betydning for retsanvendelsen og retsudviklingen eller væsentlig samfundsmæssig rækkevidde i øvrigt, eller hvis andre særlige grunde i øvrigt taler for, at sagen behandles af Højesteret som 2. instans. Anke til landsr",
+    "paragraf": "§ 368"
+   }
+  ],
+  "paastand": "dom-hoejesteret —klageinstans→ Sø- og Handelsretten: Højesteret kan behandle anke af Sø- og Handelsrettens domme efter § 368, stk. 4 (alternativ til landsret)."
+ },
+ {
+  "hvor": "kant dom-landsretterne|klageinstans|dom-tinglysningsretten",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "Tinglysningsrettens domme i sager om mortifikation og ejendomsdom kan ankes til landsretten",
+    "genfundet": true,
+    "kontekst": "ls prøvelse i 2. instans af byretternes og Sø- og Handelsrettens behandlinger og afgørelser overensstemmende med de nævnte regler. Endvidere kan kære rejses for landsretten over byrettens afgørelser vedrørende de i § 11, stk. 2, nr. 2 og 4, omhandlede forhold og over Tinglysningsrettens afgørelser. Tinglysningsrettens domme i sager om mortifikation og ejendomsdom kan ankes til landsretten efter reglerne i kapitel 36 og § 8 i lov om mortifikation af værdipapirer. § 7. I afgørelsen af sager ved landsretterne deltager, medmindre andet er bestemt, mindst 3 dommere. Uden for hovedforhandlingen kan dog en enkelt dommer træffe afgørelse. Præsidenten træffer efter forhandling med rettens øv",
+    "paragraf": "§ 6"
+   }
+  ],
+  "paastand": "dom-landsretterne —klageinstans→ Tinglysningsretten: Landsretten behandler anke af Tinglysningsrettens domme i mortifikations- og ejendomsdomssager (§ 6)."
+ },
+ {
+  "hvor": "kant dom-domstolene|klageinstans|naevn-advokatnaevnet",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "Advokatnævnets afgørelse efter § 147 c, stk. 1 og 2, kan indbringes for retten af advokaten",
+    "genfundet": true,
+    "kontekst": ". Advokatnævnet sender meddelelse om en afgørelse til klageren, advokaten, fællesskabet af advokater, advokatselskabet, personen, der i medfør af § 124 c, stk. 1, nr. 2, ejer aktier eller anparter i et advokatselskab, Advokatrådet og Justitsministeriet. Nævnet kan offentliggøre afgørelsen. § 147 d. Advokatnævnets afgørelse efter § 147 c, stk. 1 og 2, kan indbringes for retten af advokaten, fællesskabet af advokater, advokatselskabet eller personen, der i medfør af § 124 c, stk. 1, nr. 2, ejer aktier eller anparter i et advokatselskab. Retten kan stadfæste, ophæve eller ændre afgørelsen. Stk. 2. Indbringelse skal ske inden 4 uger efter, at afgørelsen er meddelt den pågældende. Sagsan",
+    "paragraf": "§ 147 d"
+   }
+  ],
+  "paastand": "dom-domstolene —klageinstans→ Advokatnævnet: Domstolsprøvelse af Advokatnævnets irettesættelse eller bøde efter retsplejelovens § 147 d (indbringes af advokaten inden 4 uger); frakendelse efter § 147 e."
+ },
+ {
+  "hvor": "kant dom-den-saerlige-klageret|klageinstans|dom-domstolene",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "klager over advarsler meddelt efter § 48",
+    "genfundet": true,
+    "kontekst": "eller anden lov. Stk. 3. Militære straffesager behandles efter militær retsplejelov. § 1 a. Den Særlige Klageret behandler og påkender 1) begæringer om genoptagelse af en straffesag, jf. kapitel 86, 2) kæremål vedrørende udelukkelse af en forsvarer, jf. § 737, 3) klager, der henvises efter § 48, 4) klager over advarsler meddelt efter § 48, 5) sager om suspension, disciplinærforfølgning og afsked på grund af sygdom i de i §§ 49, 49 a, 50 og 55 nævnte tilfælde, 6) sager efter § 51 f om afsked før tilkaldeperiodens udløb, 7) sager efter § 54 a om afsked og ændring af tjenestested og 8) sager om afsættelse af medlemmer af Domstolsstyrel",
+    "paragraf": "§ 1 a"
+   }
+  ],
+  "paastand": "Den Særlige Klageret —klageinstans→ dom-domstolene: § 1 a, nr. 4: Den Særlige Klageret behandler klager over advarsler meddelt efter § 48."
+ },
+ {
+  "hvor": "kant naevn-advokatnaevnet|udsteder|kilde-advokatnaevnet-afgoerelser",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "Nævnet kan offentliggøre afgørelsen.",
+    "genfundet": true,
+    "kontekst": "il domstolsprøvelse og fristen herfor. Stk. 11. Advokatnævnet sender meddelelse om en afgørelse til klageren, advokaten, fællesskabet af advokater, advokatselskabet, personen, der i medfør af § 124 c, stk. 1, nr. 2, ejer aktier eller anparter i et advokatselskab, Advokatrådet og Justitsministeriet. Nævnet kan offentliggøre afgørelsen. § 147 d. Advokatnævnets afgørelse efter § 147 c, stk. 1 og 2, kan indbringes for retten af advokaten, fællesskabet af advokater, advokatselskabet eller personen, der i medfør af § 124 c, stk. 1, nr. 2, ejer aktier eller anparter i et advokatselskab. Retten kan stadfæste, ophæve eller ændre afgørel",
+    "paragraf": "§ 147 c"
+   }
+  ],
+  "paastand": "Advokatnævnet —udsteder→ Advokatnævnets offentliggjorte afgørelser og beretninger: Nævnet kan offentliggøre sine afgørelser, herunder i disciplinærsager; hvor og hvordan er ikke belagt."
+ }
+]

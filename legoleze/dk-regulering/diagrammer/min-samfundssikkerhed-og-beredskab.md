@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 38 · kanter: 71
+Noder: 41 · kanter: 77
 
 ```mermaid
 flowchart LR
@@ -16,6 +16,7 @@ flowchart LR
     classDef nedlagt fill:#fff,stroke:#999,color:#999,stroke-dasharray:4 3
     min_samfundssikkerhed_og_beredskab["Ministeriet for Samfundssikkerhed og Beredskab"]:::ministerium
     eu_dir_1999_92["Direktiv 1999/92/EF om minimumsforskrifter for sikkerhed og sundhed for arbejdstagere, som kan udsættes for risiko for eksplosiv atmosfære (ATEX-brugerdirektivet)"]:::eu
+    eu_dir_2022_2555["Europa-Parlamentets og Rådets direktiv (EU) 2022/2555 (NIS 2-direktivet)"]:::eu
     eu_dir_2012_18["Seveso III-direktivet (direktiv 2012/18/EU om kontrol med risikoen for større uheld med farlige stoffer)"]:::eu
     sty_beredskabsstyrelsen["Beredskabsstyrelsen"]:::instans
     kommune_redningsberedskaber["Fælleskommunale redningsberedskaber (§ 60-fællesskaber med fælles beredskabskommission)"]:::instans
@@ -46,6 +47,8 @@ flowchart LR
     lov_byggeloven["Byggeloven (lov om byggeri)"]:::retsakt
     lov_lodsloven["Lodsloven (Bekendtgørelse af lodslov)"]:::retsakt
     lov_dis_loven["Lov om Dansk Internationalt Skibsregister (DIS-loven)"]:::retsakt
+    lov_nis2["Lov om foranstaltninger til sikring af et højt cybersikkerhedsniveau (NIS 2-loven)"]:::retsakt
+    lov_telesektoren_sikkerhed["Lov om sikkerhed og beredskab i telesektoren"]:::retsakt
     lov_sikkerhed_til_soes["Lov om sikkerhed til søs"]:::retsakt
     lov_skibes_besaetning["Lov om skibes besætning"]:::retsakt
     lov_soefarendes_ansaettelsesforhold["Lov om søfarendes ansættelsesforhold m.v."]:::retsakt
@@ -122,6 +125,12 @@ flowchart LR
     lov_soefarendes_ansaettelsesforhold -->|hjemmel_for| bek_soefartsstyrelsen_henlaeggelse
     lov_soeloven -->|hjemmel_for| bek_soefartsstyrelsen_henlaeggelse
     lov_skibes_besaetning -->|hjemmel_for| bek_soefartsstyrelsen_henlaeggelse
+    min_samfundssikkerhed_og_beredskab -->|ressortansvar| lov_nis2
+    min_samfundssikkerhed_og_beredskab -->|ressortansvar| lov_telesektoren_sikkerhed
+    sty_styrelsen_for_samfundssikkerhed -->|tilsyn| kommune_alle
+    lov_nis2 -->|implementerer_EU| eu_dir_2022_2555
+    lov_telesektoren_sikkerhed -.->|hjemmel_for| sty_styrelsen_for_samfundssikkerhed
+    lov_telesektoren_sikkerhed -->|implementerer_EU| eu_dir_2022_2555
     bek_risiko -->|implementerer_EU| eu_dir_2012_18
 ```
 

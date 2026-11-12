@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 83 · kanter: 130
+Noder: 99 · kanter: 149
 
 ```mermaid
 flowchart LR
@@ -19,6 +19,7 @@ flowchart LR
     eu_dir_2005_36["Europa-Parlamentets og Rådets direktiv 2005/36/EF af 7. september 2005 om anerkendelse af erhvervsmæssige kvalifikationer"]:::eu
     eu_dir_2016_680["Retshåndhævelsesdirektivet, direktiv (EU) 2016/680"]:::eu
     eu_dir_2012_18["Seveso III-direktivet (direktiv 2012/18/EU om kontrol med risikoen for større uheld med farlige stoffer)"]:::eu
+    raad_advokatraadet["Advokatrådet"]:::instans
     sty_ankestyrelsen["Ankestyrelsen"]:::instans
     sty_civilstyrelsen["Civilstyrelsen"]:::instans
     sty_danmarks_faengsler["Danmarks Fængsler (Styrelsen for Danmarks Fængsler)"]:::instans
@@ -26,15 +27,18 @@ flowchart LR
     tilsyn_datatilsynet["Datatilsynet"]:::instans
     sty_politiklagemyndigheden["Den Uafhængige Politiklagemyndighed (Politiklagemyndigheden)"]:::instans
     raad_det_dyreetiske_raad["Det Dyreetiske Råd"]:::instans
+    raad_dommerudnaevnelsesraadet["Dommerudnævnelsesrådet"]:::instans
     sty_domstolsstyrelsen["Domstolsstyrelsen"]:::instans
     sty_familieretshuset["Familieretshuset"]:::instans
     sty_politikredsene["Politikredsene (politidirektørerne)"]:::instans
+    raad_retslaegeraadet["Retslægerådet"]:::instans
     sty_rigsadvokaten["Rigsadvokaten"]:::instans
     sty_rigspolitiet["Rigspolitiet"]:::instans
     sty_statsadvokaterne["Statsadvokaterne"]:::instans
     kilde_vidensbasen["Anklagemyndighedens Vidensbase"]:::kilde
     kilde_datatilsynet_afgoerelser["Datatilsynets afgørelser (datatilsynet.dk/afgoerelser)"]:::kilde
     kilde_datatilsynet_vejledninger["Datatilsynets vejledninger og regler (datatilsynet.dk/regler-og-vejledning)"]:::kilde
+    org_advokatsamfundet["Det Danske Advokatsamfund"]:::kilde
     kilde_domsdatabasen["Domsdatabasen"]:::kilde
     kilde_eurlex["EUR-Lex"]:::kilde
     kilde_eurlex_nim["EUR-Lex: nationale gennemførelsesforanstaltninger (NIM) for direktiver"]:::kilde
@@ -43,29 +47,39 @@ flowchart LR
     kilde_lovguiden["Lovguiden (lovguiden.dk)"]:::kilde
     kilde_lovtidende["Lovtidende"]:::kilde
     kilde_politiklagemyndigheden_udgivelser["Politiklagemyndighedens årsberetninger og årsrapporter"]:::kilde
+    kilde_pressenaevnet_kendelser["Pressenævnets kendelser"]:::kilde
     kilde_retsinformation["Retsinformation"]:::kilde
     kilde_rigsadvokatmeddelelsen["Rigsadvokatmeddelelsen (samlingen, afsnit for afsnit)"]:::kilde
     kilde_statstidende["Statstidende"]:::kilde
     kilde_ugeskrift_for_retsvaesen["Ugeskrift for Retsvæsen (UfR, Karnov Group)"]:::kilde
     kilde_danish_law_mcp["danish-law-mcp (Ansvar Systems): bulk-høst af Retsinformation, Lovtidende A"]:::kilde
+    naevn_advokatnaevnet["Advokatnævnet"]:::klage
     dom_byretterne["Byretterne"]:::klage
+    dom_den_saerlige_klageret["Den Særlige Klageret"]:::klage
     dom_domstolene["Domstolene (byret, landsret, Højesteret)"]:::klage
     naevn_erstatningsnaevnet["Erstatningsnævnet"]:::klage
     ombud_forbrugerombudsmanden["Forbrugerombudsmanden"]:::klage
     dom_hoejesteret["Højesteret"]:::klage
+    naevn_indsamlingsnaevnet["Indsamlingsnævnet"]:::klage
     dom_landsretterne["Landsretterne (Østre og Vestre Landsret)"]:::klage
     naevn_ligebehandlingsnaevnet["Ligebehandlingsnævnet"]:::klage
+    naevn_pressenaevnet["Pressenævnet"]:::klage
     naevn_procesbevillingsnaevnet["Procesbevillingsnævnet"]:::klage
+    dom_soe_og_handelsretten["Sø- og Handelsretten"]:::klage
+    dom_tinglysningsretten["Tinglysningsretten"]:::klage
     naevn_ungdomskriminalitetsnaevnet["Ungdomskriminalitetsnævnet"]:::klage
     eu_dir_2010_31["Direktiv 2010/31/EU om bygningers energimæssige ydeevne (EPBD, som ændret ved 2018/844) (ophævet)"]:::nedlagt
     eu_dir_2012_27["Europa-Parlamentets og Rådets direktiv 2012/27/EU af 25. oktober 2012 om energieffektivitet (EED) (ophævet)"]:::nedlagt
     kilde_ministerialtidende["Ministerialtidende (nedlagt)"]:::nedlagt
     lov_arbejdsmiljoeloven["Arbejdsmiljøloven"]:::retsakt
+    lov_medieansvarsloven["Bekendtgørelse af medieansvarsloven"]:::retsakt
+    bek_advokatnaevnets_virksomhed["Bekendtgørelse om Advokatnævnets virksomhed ved behandling af klager over advokater m.v."]:::retsakt
     bek_domsdatabasen["Bekendtgørelse om Domsdatabasen"]:::retsakt
     bek_erstatningsnaevnets_behandling_af_ansoegninger["Bekendtgørelse om Erstatningsnævnets behandling af ansøgninger om erstatning fra staten til ofre for forbrydelser"]:::retsakt
     bek_energimaerkning["Bekendtgørelse om energimærkning af bygninger (energimærkningsbekendtgørelsen)"]:::retsakt
     bek_dataraadet_forretningsorden["Bekendtgørelse om forretningsorden for Datarådet (BEK nr. 454 af 01/01/2019)"]:::retsakt
     bek_forretningsorden_erstatningsnaevnet["Bekendtgørelse om forretningsorden for Erstatningsnævnet"]:::retsakt
+    bek_pressenaevn_forretningsorden["Bekendtgørelse om forretningsorden for Pressenævnet (BEK nr. 86 af 09/02/1998)"]:::retsakt
     bek_lag["Bekendtgørelse om tilskud til lokale aktionsgrupper – lokalt styret udvikling (LEADER) (BEK nr. 948 af 2025)"]:::retsakt
     bek_ungekriminalforsorgens_reaktioner["Bekendtgørelse om ungekriminalforsorgens reaktioner ved overtrædelse af Ungdomskriminalitetsnævnets afgørelse"]:::retsakt
     bek_ungekriminalforsorgens_tilsyn["Bekendtgørelse om ungekriminalforsorgens tilsyn med barnets eller den unges efterlevelse af Ungdomskriminalitetsnævnets afgørelse"]:::retsakt
@@ -80,10 +94,12 @@ flowchart LR
     lov_offererstatningsloven["Lov om erstatning fra staten til ofre for forbrydelser (offererstatningsloven)"]:::retsakt
     lov_forbrugeraftaleloven["Lov om forbrugeraftaler (forbrugeraftaleloven)"]:::retsakt
     lov_straffuldbyrdelsesloven["Lov om fuldbyrdelse af straf m.v. (straffuldbyrdelsesloven)"]:::retsakt
+    lov_indsamlingsloven["Lov om indsamling m.v."]:::retsakt
     lov_koebeloven["Lov om køb (købeloven)"]:::retsakt
     lov_markedsfoeringsloven["Lov om markedsføring (markedsføringsloven)"]:::retsakt
     lov_offentlighedsloven["Lov om offentlighed i forvaltningen (offentlighedsloven)"]:::retsakt
     lov_politiloven["Lov om politiets virksomhed (politiloven)"]:::retsakt
+    lov_retslaegeraadet["Lov om retslægerådet"]:::retsakt
     lov_retssikkerhedsloven_tvangsindgreb["Lov om retssikkerhed ved forvaltningens anvendelse af tvangsindgreb og oplysningspligter"]:::retsakt
     lov_lovtidendeloven["Lov om udgivelsen af en Lovtidende (lovtidendeloven)"]:::retsakt
     lov_retshaandhaevelsesloven["Retshåndhævelsesloven (lov om retshåndhævende myndigheders behandling af personoplysninger)"]:::retsakt
@@ -223,6 +239,25 @@ flowchart LR
     min_justits -.->|ressortansvar| lov_vaergemaalsloven
     lov_vaergemaalsloven -->|hjemmel_for| sty_familieretshuset
     sty_civilstyrelsen -->|klageinstans| sty_familieretshuset
+    min_justits -->|ressortansvar| lov_indsamlingsloven
+    min_justits -->|ressortansvar| lov_retslaegeraadet
+    min_justits -->|ressortansvar| bek_advokatnaevnets_virksomhed
+    min_justits -.->|ressortansvar| naevn_indsamlingsnaevnet
+    lov_retsplejeloven -->|hjemmel_for| org_advokatsamfundet
+    lov_retsplejeloven -->|hjemmel_for| raad_advokatraadet
+    lov_retsplejeloven -->|hjemmel_for| naevn_advokatnaevnet
+    bek_advokatnaevnets_virksomhed -->|hjemmel_for| naevn_advokatnaevnet
+    lov_retsplejeloven -->|hjemmel_for| dom_soe_og_handelsretten
+    lov_retsplejeloven -->|hjemmel_for| dom_tinglysningsretten
+    lov_retsplejeloven -->|hjemmel_for| raad_dommerudnaevnelsesraadet
+    lov_retsplejeloven -->|hjemmel_for| dom_den_saerlige_klageret
+    lov_retslaegeraadet -.->|hjemmel_for| raad_retslaegeraadet
+    lov_indsamlingsloven -->|hjemmel_for| naevn_indsamlingsnaevnet
+    min_justits -.->|ressortansvar| lov_medieansvarsloven
+    min_justits -.->|ressortansvar| naevn_pressenaevnet
+    lov_medieansvarsloven -->|hjemmel_for| naevn_pressenaevnet
+    lov_medieansvarsloven -->|hjemmel_for| bek_pressenaevn_forretningsorden
+    naevn_pressenaevnet -->|udsteder| kilde_pressenaevnet_kendelser
     bek_energimaerkning -->|implementerer_EU| eu_dir_2010_31
     bek_risiko -->|implementerer_EU| eu_dir_2012_18
     bek_energimaerkning -->|implementerer_EU| eu_dir_2005_36

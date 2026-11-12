@@ -1,0 +1,920 @@
+{
+ "omraade": "kirke",
+ "noder": [
+  {
+   "id": "raad-menighedsraadene",
+   "navn": "Menighedsrådene",
+   "type": "råd",
+   "ministerium": "min-sundhed-og-kirke",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "Menighedsrådsloven § 2: menighedsrådet består af mindst fem medlemmer, der vælges efter lov om valg til menighedsråd.",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+      "citat": "Menighedsrådet består af mindst fem medlemmer, der vælges efter lov om valg til menighedsråd"
+     }
+    ]
+   },
+   "dokumenttyper": {
+    "liste": [
+     {
+      "type": "afgørelse",
+      "bindende": "bindende"
+     }
+    ],
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+      "citat": "Menighedsrådets afgørelse efter stk. 1 kan indbringes for biskoppen."
+     }
+    ]
+   },
+   "note": "Et samlet node for alle menighedsråd. Klagevejen går til biskoppen (menighedsrådsloven § 16 stk. 2 og § 15 stk. 8, sidstnævnte med 4 ugers frist), ikke til provstiudvalget. Biskoppens afgørelser i visse sager kan gå videre til kirkeministeren (§ 16 stk. 3). Menighedsrådets offentlige adresse er ikke belagt i denne kørsel."
+  },
+  {
+   "id": "raad-kirkegaardsbestyrelser",
+   "navn": "Kirkegårdsbestyrelser",
+   "type": "råd",
+   "ministerium": "min-sundhed-og-kirke",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "Lov om folkekirkens kirkebygninger og kirkegårde § 22 nævner menighedsrådet eller kirkegårdsbestyrelsen, jf. § 21 stk. 3. Oprettelse og sammensætning er ikke læst.",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2016/1156",
+      "citat": "Menighedsrådet eller kirkegårdsbestyrelsen, jf. § 21, stk. 3, må ikke fjerne registrerede gravminder fra kirkegården."
+     }
+    ]
+   },
+   "note": "Kirkegårdsbestyrelser er fælles organer for flere menighedsråd. Ombudsmanden behandlede i 2025 en udelukkelse fra en kirkegårdsbestyrelse, som biskoppen stadfæstede (FOB 2025-1). Afgørelsesveje for kirkegårdsbestyrelsens egne afgørelser er ikke kortlagt endnu. En klageinstans-kant fra biskopperne er udeladt: i FOB 2025-1 havde biskoppen og ministeriet stadfæstet en kirkegårdsbestyrelses udelukkelse af et medlem, men en generel klageadgang er ikke belagt."
+  },
+  {
+   "id": "tilsyn-biskopperne",
+   "navn": "Biskopperne",
+   "type": "tilsyn",
+   "ministerium": "min-sundhed-og-kirke",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "Menighedsrådsloven § 45: tilsyn med menighedsrådenes funktion i øvrigt udøves af biskoppen. Lov om bestyrelse og brug af folkekirkens kirker m.m. § 23: biskoppens afgørelser efter loven kan påklages til kirkeministeren inden 4 uger.",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+      "citat": "Tilsyn med menighedsrådenes funktion i øvrigt udøves af biskoppen efter reglerne herom."
+     },
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2014/330",
+      "citat": "Biskoppens afgørelser efter loven kan påklages til kirkeministeren."
+     }
+    ]
+   },
+   "dokumenttyper": {
+    "liste": [
+     {
+      "type": "afgørelse",
+      "bindende": "bindende"
+     }
+    ],
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2014/330",
+      "citat": "Biskoppens afgørelser efter loven kan påklages til kirkeministeren."
+     }
+    ]
+   },
+   "note": "Biskop er et embede, ikke en organisation. Typen tilsyn er den nærmeste i typelisten, og noden dækker biskoppen som tilsyns- og klageinstans. Biskoppen er også klageinstans for provstiudvalgets øvrige afgørelser og for menighedsrådets afgørelser. Ministerens rolle som klageinstans for biskoppen er ikke en kant, fordi ministerier ikke kan stå i klageinstans-kanter. Ingen officiel url er belagt."
+  },
+  {
+   "id": "tilsyn-stiftsoevrighederne",
+   "navn": "Stiftsøvrighederne",
+   "type": "tilsyn",
+   "ministerium": "min-sundhed-og-kirke",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "Menighedsrådsloven § 45: stiftsøvrigheden fører tilsyn med menighedsrådenes økonomiske forvaltning. § 46: stiftsøvrigheden kan sætte en menighedsrådsbeslutning ud af kraft, hvis den strider mod lovgivningen og ikke er bragt til udførelse.",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+      "citat": "Tilsynet med menighedsrådenes økonomiske forvaltning varetages af provstiudvalget og stiftsøvrigheden"
+     },
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+      "citat": "kan stiftsøvrigheden sætte beslutningen ud af kraft, hvis den ikke er bragt til udførelse."
+     }
+    ]
+   },
+   "dokumenttyper": {
+    "liste": [
+     {
+      "type": "afgørelse",
+      "bindende": "bindende"
+     }
+    ],
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+      "citat": "Stiftsøvrighedens afgørelser efter § 46, stk. 1, kan af menighedsrådet indbringes for kirkeministeren."
+     }
+    ]
+   },
+   "note": "Ét samlet node for stiftsøvrighederne, ikke en pr. stift. Stiftsøvrighedens afgørelser efter § 46 stk. 1 går til kirkeministeren (§ 47). Sammensætningen er ikke belagt med primærkilde: lex.dk (sekundær) siger biskoppen og stiftsamtmanden, mens en Viborg Stift-publikation fra 2023 (sekundær) nævner direktøren for Ankestyrelsen. Audit-eksemplet stift-stiftsoevrighederne er ikke brugt, fordi id-præfikset følger typen tilsyn. Ingen url belagt."
+  },
+  {
+   "id": "tilsyn-provstiudvalgene",
+   "navn": "Provstiudvalgene",
+   "type": "tilsyn",
+   "ministerium": "min-sundhed-og-kirke",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "Menighedsrådsloven § 45: provstiudvalget fører tilsyn med menighedsrådenes økonomiske forvaltning. Lov om folkekirkens økonomi kapitel 2 a: provstiudvalget kan efter ansøgning bevilge reserven til menighedsrådene.",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+      "citat": "Tilsynet med menighedsrådenes økonomiske forvaltning varetages af provstiudvalget og stiftsøvrigheden"
+     },
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2023/424",
+      "citat": "Provstiudvalget kan efter ansøgning fra menighedsrådene bevilge anvendelse af reserven"
+     }
+    ]
+   },
+   "dokumenttyper": {
+    "liste": [
+     {
+      "type": "afgørelse",
+      "bindende": "bindende"
+     }
+    ],
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2023/435",
+      "citat": "Provstiudvalgets øvrige afgørelser i medfør af denne bekendtgørelse kan påklages til biskoppen."
+     }
+    ]
+   },
+   "note": "Ét samlet node for provstiudvalgene. Typen tilsyn er den nærmeste, fordi udvalget fører økonomisk tilsyn med menighedsråd, men udvalget træffer også budget- og bevillingsafgørelser og er ikke en ren tilsynsmyndighed. Provstiudvalgets afgørelser om rammer, bevillinger og reserve er endelige (BEK 435/2023 § 12 stk. 1). Ingen url belagt."
+  },
+  {
+   "id": "raad-raadgivende-udvalg-trossamfund",
+   "navn": "Det Rådgivende Udvalg vedrørende Trossamfund",
+   "type": "råd",
+   "ministerium": "min-sundhed-og-kirke",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "Trossamfundsloven § 12: kirkeministeren nedsætter et rådgivende udvalg vedrørende trossamfund. § 13: ministeren anmoder udvalget om indstilling i sager om anerkendelse af trossamfund.",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2026/338",
+      "citat": "Kirkeministeren nedsætter et rådgivende udvalg vedrørende trossamfund."
+     },
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2026/338",
+      "citat": "Kirkeministeren anmoder Det Rådgivende Udvalg vedrørende Trossamfund om at afgive indstilling i sager vedrørende anerkendelse af trossamfund."
+     }
+    ]
+   },
+   "dokumenttyper": {
+    "liste": [
+     {
+      "type": "indstilling",
+      "bindende": "vejledende"
+     }
+    ],
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2026/338",
+      "citat": "Kirkeministeren er ikke bundet af udvalgets indstillinger."
+     }
+    ]
+   },
+   "note": "Rådgivende udvalg, ikke en afgørelsesinstans. Det er den nærmeste type i typelisten. Anerkendelse af trossamfund sker ved ministeren, og anerkendelsen indføres i Trossamfundsregistret. Teksten i trossamfundsloven (LBK 338/2026) § 7 stk. 4 og § 11 nævner stadig By-, Land- og Kirkeministeriet, mens Retsinformations ministeriefelt siger Sundheds- og Kirkeministeriet. Der er ikke fundet en klagebestemmelse i loven i denne kørsel."
+  },
+  {
+   "id": "lov-menighedsraadsloven",
+   "navn": "Lov om menighedsråd",
+   "type": "lov",
+   "ministerium": "min-sundhed-og-kirke",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "ikke relevant",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+      "citat": "Bekendtgørelse af lov om menighedsråd"
+     }
+    ]
+   },
+   "url": {
+    "vaerdi": "https://www.retsinformation.dk/eli/lta/2026/675",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+      "citat": "Bekendtgørelse af lov om menighedsråd"
+     }
+    ]
+   },
+   "identifikatorer": {
+    "eli": "https://www.retsinformation.dk/eli/lta/2026/675",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+      "citat": "Bekendtgørelse af lov om menighedsråd"
+     }
+    ]
+   },
+   "note": "Gældende lovbekendtgørelse LBK nr. 675 af 13/07/2026. Klagereglerne er i §§ 15–16, og tilsynet er i §§ 45–47."
+  },
+  {
+   "id": "lov-folkekirkens-oekonomi",
+   "navn": "Lov om folkekirkens økonomi",
+   "type": "lov",
+   "ministerium": "min-sundhed-og-kirke",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "ikke relevant",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2023/424",
+      "citat": "Bekendtgørelse af lov om folkekirkens økonomi"
+     }
+    ]
+   },
+   "url": {
+    "vaerdi": "https://www.retsinformation.dk/eli/lta/2023/424",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2023/424",
+      "citat": "Bekendtgørelse af lov om folkekirkens økonomi"
+     }
+    ]
+   },
+   "identifikatorer": {
+    "eli": "https://www.retsinformation.dk/eli/lta/2023/424",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2023/424",
+      "citat": "Bekendtgørelse af lov om folkekirkens økonomi"
+     }
+    ]
+   },
+   "note": "Gældende LBK nr. 424 af 19/04/2023. Provstiudvalg og budgetudvalg står i kapitel 2 a. Kapitlet indeholder klagevejen for stiftsøvrighedens erstatningsafgørelser over provstiudvalg: den går til kirkeministeren."
+  },
+  {
+   "id": "lov-bestyrelse-og-brug-af-folkekirkens-kirker",
+   "navn": "Lov om bestyrelse og brug af folkekirkens kirker m.m.",
+   "type": "lov",
+   "ministerium": "min-sundhed-og-kirke",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "ikke relevant",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2014/330",
+      "citat": "Bekendtgørelse af lov om bestyrelse og brug af folkekirkens kirker m.m."
+     }
+    ]
+   },
+   "url": {
+    "vaerdi": "https://www.retsinformation.dk/eli/lta/2014/330",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2014/330",
+      "citat": "Bekendtgørelse af lov om bestyrelse og brug af folkekirkens kirker m.m."
+     }
+    ]
+   },
+   "identifikatorer": {
+    "eli": "https://www.retsinformation.dk/eli/lta/2014/330",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2014/330",
+      "citat": "Bekendtgørelse af lov om bestyrelse og brug af folkekirkens kirker m.m."
+     }
+    ]
+   },
+   "note": "Gældende LBK nr. 330 af 29/03/2014. § 23: biskoppens afgørelser efter loven kan påklages til kirkeministeren inden 4 uger. Retsinformation viser senere ændringer ved LOV 1772/2025 § 6."
+  },
+  {
+   "id": "lov-folkekirkens-kirkebygninger-og-kirkegaarde",
+   "navn": "Lov om folkekirkens kirkebygninger og kirkegårde",
+   "type": "lov",
+   "ministerium": "min-sundhed-og-kirke",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "ikke relevant",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2016/1156",
+      "citat": "Bekendtgørelse af lov om folkekirkens kirkebygninger og kirkegårde"
+     }
+    ]
+   },
+   "url": {
+    "vaerdi": "https://www.retsinformation.dk/eli/lta/2016/1156",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2016/1156",
+      "citat": "Bekendtgørelse af lov om folkekirkens kirkebygninger og kirkegårde"
+     }
+    ]
+   },
+   "identifikatorer": {
+    "eli": "https://www.retsinformation.dk/eli/lta/2016/1156",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2016/1156",
+      "citat": "Bekendtgørelse af lov om folkekirkens kirkebygninger og kirkegårde"
+     }
+    ]
+   },
+   "note": "Gældende LBK nr. 1156 af 01/09/2016. Kirkegårdsafgørelser kan gå til biskoppen (fx Nationalmuseets afgørelser om gravminder). Biskoppens afgørelser kan ikke indbringes for anden administrativ myndighed."
+  },
+  {
+   "id": "lov-trossamfundsloven",
+   "navn": "Trossamfundsloven (lov om trossamfund uden for folkekirken)",
+   "type": "lov",
+   "ministerium": "min-sundhed-og-kirke",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "ikke relevant",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2026/338",
+      "citat": "Bekendtgørelse af lov om trossamfund uden for folkekirken (trossamfundsloven)"
+     }
+    ]
+   },
+   "url": {
+    "vaerdi": "https://www.retsinformation.dk/eli/lta/2026/338",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2026/338",
+      "citat": "Bekendtgørelse af lov om trossamfund uden for folkekirken (trossamfundsloven)"
+     }
+    ]
+   },
+   "identifikatorer": {
+    "eli": "https://www.retsinformation.dk/eli/lta/2026/338",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2026/338",
+      "citat": "Bekendtgørelse af lov om trossamfund uden for folkekirken (trossamfundsloven)"
+     }
+    ]
+   },
+   "note": "Gældende LBK nr. 338 af 03/02/2026. Anerkendelse og Trossamfundsregistret ligger hos ministeren. Det rådgivende udvalg er i §§ 12-14. Ingen klagebestemmelse fundet i denne søgning, og den er ikke gennemlæst fuldt ud."
+  },
+  {
+   "id": "lov-ansaettelse-i-stillinger-i-folkekirken",
+   "navn": "Lov om ansættelse i stillinger i folkekirken m.v.",
+   "type": "lov",
+   "ministerium": "min-sundhed-og-kirke",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "ikke relevant",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2026/676",
+      "citat": "Bekendtgørelse af lov om ansættelse i stillinger i folkekirken m.v."
+     }
+    ]
+   },
+   "url": {
+    "vaerdi": "https://www.retsinformation.dk/eli/lta/2026/676",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2026/676",
+      "citat": "Bekendtgørelse af lov om ansættelse i stillinger i folkekirken m.v."
+     }
+    ]
+   },
+   "identifikatorer": {
+    "eli": "https://www.retsinformation.dk/eli/lta/2026/676",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2026/676",
+      "citat": "Bekendtgørelse af lov om ansættelse i stillinger i folkekirken m.v."
+     }
+    ]
+   },
+   "note": "Gældende LBK nr. 676 af 13/07/2026. Hjemlen for BEK 340/2026 (§ 24 a) og for biskoppens rolle i præsteansættelser. Ansættelsesklagerne er endnu ikke kortlagt i detaljer."
+  },
+  {
+   "id": "bek-klageadgang-ansaettelse-praester-provster",
+   "navn": "Bekendtgørelse om afskæring af klageadgang for præsters og provsters ansættelses- og personalesager",
+   "type": "bekendtgørelse",
+   "ministerium": "min-sundhed-og-kirke",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "Hjemmel: § 24 a i lov om ansættelse i stillinger i folkekirken m.v. § 1: biskoppens afgørelser om afslag på præsteansættelse kan ikke påklages til ministeriet.",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2026/340",
+      "citat": "I medfør af § 24 a, i lov om ansættelse i stillinger i folkekirken m.v."
+     },
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2026/340",
+      "citat": "kan ikke påklages til By-, Land- og Kirkeministeriet."
+     }
+    ]
+   },
+   "url": {
+    "vaerdi": "https://www.retsinformation.dk/eli/lta/2026/340",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2026/340",
+      "citat": "Bekendtgørelse om afskæring af klageadgang for visse afgørelser i ansættelses- og personalesager for folkekirkens præster og provster"
+     }
+    ]
+   },
+   "note": "Gældende BEK nr. 340 af 25/02/2026. Teksten nævner By-, Land- og Kirkeministeriet, mens Retsinformations ministeriefelt siger Sundheds- og Kirkeministeriet. Det er et navnesporskifte, ikke en ny myndighed."
+  },
+  {
+   "id": "bek-provstiudvalgenes-og-budgetudvalgenes-virksomhed",
+   "navn": "Bekendtgørelse om provstiudvalgenes og budgetudvalgenes virksomhed",
+   "type": "bekendtgørelse",
+   "ministerium": "min-sundhed-og-kirke",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "§ 12: provstiudvalgets øvrige afgørelser kan påklages til biskoppen. Afgørelser om rammer, bevillinger og reserve er endelige.",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2023/435",
+      "citat": "Provstiudvalgets øvrige afgørelser i medfør af denne bekendtgørelse kan påklages til biskoppen."
+     },
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2023/435",
+      "citat": "Provstiudvalgets afgørelse om størrelsen af de i §§ 6-8 fastsatte rammer, bevillinger og reserve, er endelig."
+     }
+    ]
+   },
+   "url": {
+    "vaerdi": "https://www.retsinformation.dk/eli/lta/2023/435",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2023/435",
+      "citat": "Bekendtgørelse om provstiudvalgenes og budgetudvalgenes virksomhed"
+     }
+    ]
+   },
+   "note": "Gældende BEK nr. 435 af 25/04/2023. Hjemlet i lov om folkekirkens økonomi."
+  }
+ ],
+ "kanter": [
+  {
+   "from": "min-sundhed-og-kirke",
+   "type": "ressortansvar",
+   "to": "raad-menighedsraadene",
+   "beskrivelse": "Folkekirkens sager hører under Sundheds- og Kirkeministeriet.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/api/pdf/256544",
+     "citat": "ressortansvaret for sager vedrørende folkekirken og sager vedrørende trossamfund uden for folkekirken overføres til Indenrigs- og Sundhedsministeriet"
+    },
+    {
+     "url": "https://www.retsinformation.dk/api/pdf/256544",
+     "citat": "Betegnelsen for Indenrigs- og Sundhedsministeriet ændres til Sundheds- og Kirkeministeriet"
+    }
+   ]
+  },
+  {
+   "from": "min-sundhed-og-kirke",
+   "type": "ressortansvar",
+   "to": "raad-kirkegaardsbestyrelser",
+   "beskrivelse": "Folkekirkens sager, herunder kirkegårde, hører under ministeriet.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/api/pdf/256544",
+     "citat": "ressortansvaret for sager vedrørende folkekirken og sager vedrørende trossamfund uden for folkekirken overføres til Indenrigs- og Sundhedsministeriet"
+    },
+    {
+     "url": "https://www.retsinformation.dk/api/pdf/256544",
+     "citat": "Betegnelsen for Indenrigs- og Sundhedsministeriet ændres til Sundheds- og Kirkeministeriet"
+    }
+   ]
+  },
+  {
+   "from": "min-sundhed-og-kirke",
+   "type": "ressortansvar",
+   "to": "tilsyn-biskopperne",
+   "beskrivelse": "Biskopperne er en del af folkekirkens ressort.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/api/pdf/256544",
+     "citat": "ressortansvaret for sager vedrørende folkekirken og sager vedrørende trossamfund uden for folkekirken overføres til Indenrigs- og Sundhedsministeriet"
+    },
+    {
+     "url": "https://www.retsinformation.dk/api/pdf/256544",
+     "citat": "Betegnelsen for Indenrigs- og Sundhedsministeriet ændres til Sundheds- og Kirkeministeriet"
+    }
+   ]
+  },
+  {
+   "from": "min-sundhed-og-kirke",
+   "type": "ressortansvar",
+   "to": "tilsyn-stiftsoevrighederne",
+   "beskrivelse": "Stiftsøvrighederne er en del af folkekirkens ressort.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/api/pdf/256544",
+     "citat": "ressortansvaret for sager vedrørende folkekirken og sager vedrørende trossamfund uden for folkekirken overføres til Indenrigs- og Sundhedsministeriet"
+    },
+    {
+     "url": "https://www.retsinformation.dk/api/pdf/256544",
+     "citat": "Betegnelsen for Indenrigs- og Sundhedsministeriet ændres til Sundheds- og Kirkeministeriet"
+    }
+   ]
+  },
+  {
+   "from": "min-sundhed-og-kirke",
+   "type": "ressortansvar",
+   "to": "tilsyn-provstiudvalgene",
+   "beskrivelse": "Provstiudvalgene er en del af folkekirkens ressort.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/api/pdf/256544",
+     "citat": "ressortansvaret for sager vedrørende folkekirken og sager vedrørende trossamfund uden for folkekirken overføres til Indenrigs- og Sundhedsministeriet"
+    },
+    {
+     "url": "https://www.retsinformation.dk/api/pdf/256544",
+     "citat": "Betegnelsen for Indenrigs- og Sundhedsministeriet ændres til Sundheds- og Kirkeministeriet"
+    }
+   ]
+  },
+  {
+   "from": "min-sundhed-og-kirke",
+   "type": "ressortansvar",
+   "to": "raad-raadgivende-udvalg-trossamfund",
+   "beskrivelse": "Det rådgivende udvalg hører under trossamfundssagerne i ministeriet.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/api/pdf/256544",
+     "citat": "ressortansvaret for sager vedrørende folkekirken og sager vedrørende trossamfund uden for folkekirken overføres til Indenrigs- og Sundhedsministeriet"
+    },
+    {
+     "url": "https://www.retsinformation.dk/api/pdf/256544",
+     "citat": "Betegnelsen for Indenrigs- og Sundhedsministeriet ændres til Sundheds- og Kirkeministeriet"
+    }
+   ]
+  },
+  {
+   "from": "min-sundhed-og-kirke",
+   "type": "ressortansvar",
+   "to": "lov-menighedsraadsloven",
+   "beskrivelse": "Loven hører under kirkeministeren.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+     "citat": "Kirkeministeren fastsætter nærmere regler om oprettelse af fælles menighedsråd, jf. stk. 1"
+    }
+   ]
+  },
+  {
+   "from": "min-sundhed-og-kirke",
+   "type": "ressortansvar",
+   "to": "lov-folkekirkens-oekonomi",
+   "beskrivelse": "Loven hører under kirkeministeren.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2023/424",
+     "citat": "Kirkeministeren kan fastsætte nærmere regler om fastsættelse og udmelding af driftsrammer, anlægsbevillinger og projektbevillinger"
+    }
+   ]
+  },
+  {
+   "from": "min-sundhed-og-kirke",
+   "type": "ressortansvar",
+   "to": "lov-bestyrelse-og-brug-af-folkekirkens-kirker",
+   "beskrivelse": "Loven hører under kirkeministeren.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2014/330",
+     "citat": "Biskoppens afgørelser efter loven kan påklages til kirkeministeren."
+    }
+   ]
+  },
+  {
+   "from": "min-sundhed-og-kirke",
+   "type": "ressortansvar",
+   "to": "lov-folkekirkens-kirkebygninger-og-kirkegaarde",
+   "beskrivelse": "Loven hører under kirkeministeren.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2016/1156",
+     "citat": "Kirkeministeren fastsætter nærmere regler om registreringen."
+    }
+   ]
+  },
+  {
+   "from": "min-sundhed-og-kirke",
+   "type": "ressortansvar",
+   "to": "lov-trossamfundsloven",
+   "beskrivelse": "Loven hører under kirkeministeren.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2026/338",
+     "citat": "Kirkeministeren fastsætter nærmere regler om kravene til anmodning om anerkendelse"
+    }
+   ]
+  },
+  {
+   "from": "min-sundhed-og-kirke",
+   "type": "ressortansvar",
+   "to": "lov-ansaettelse-i-stillinger-i-folkekirken",
+   "beskrivelse": "Loven hører under kirkeministeren.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2026/676",
+     "citat": "Kirkeministeren kan bestemme, at deltagelse i uddannelse på folkekirkens institutioner"
+    }
+   ]
+  },
+  {
+   "from": "min-sundhed-og-kirke",
+   "type": "ressortansvar",
+   "to": "bek-klageadgang-ansaettelse-praester-provster",
+   "beskrivelse": "Bekendtgørelsen hører under kirkeministeren.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2026/340",
+     "citat": "Bekendtgørelse om afskæring af klageadgang for visse afgørelser i ansættelses- og personalesager for folkekirkens præster og provster"
+    }
+   ]
+  },
+  {
+   "from": "min-sundhed-og-kirke",
+   "type": "ressortansvar",
+   "to": "bek-provstiudvalgenes-og-budgetudvalgenes-virksomhed",
+   "beskrivelse": "Bekendtgørelsen hører under kirkeministeren.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2023/435",
+     "citat": "Bekendtgørelse om provstiudvalgenes og budgetudvalgenes virksomhed"
+    }
+   ]
+  },
+  {
+   "from": "tilsyn-biskopperne",
+   "type": "klageinstans",
+   "to": "raad-menighedsraadene",
+   "beskrivelse": "Biskoppen behandler klager over menighedsrådets afgørelser (menighedsrådsloven § 16 stk. 2). Klagen skal ved visse afgørelser indgives inden 4 uger (§ 15 stk. 8).",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+     "citat": "Menighedsrådets afgørelse efter stk. 1 kan indbringes for biskoppen."
+    },
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+     "citat": "Menighedsrådets afgørelse herom kan inden 4 uger indbringes for biskoppen"
+    }
+   ]
+  },
+  {
+   "from": "tilsyn-biskopperne",
+   "type": "klageinstans",
+   "to": "tilsyn-provstiudvalgene",
+   "beskrivelse": "Biskoppen behandler klager over provstiudvalgets øvrige afgørelser efter BEK 435/2023 § 12. Afgørelser om rammer, bevillinger og reserve er endelige.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2023/435",
+     "citat": "Provstiudvalgets øvrige afgørelser i medfør af denne bekendtgørelse kan påklages til biskoppen."
+    },
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2023/435",
+     "citat": "Provstiudvalgets afgørelse om størrelsen af de i §§ 6-8 fastsatte rammer, bevillinger og reserve, er endelig."
+    }
+   ]
+  },
+  {
+   "from": "tilsyn-biskopperne",
+   "type": "tilsyn",
+   "to": "raad-menighedsraadene",
+   "beskrivelse": "Biskoppen fører tilsyn med menighedsrådenes funktion i øvrigt (§ 45).",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+     "citat": "Tilsyn med menighedsrådenes funktion i øvrigt udøves af biskoppen efter reglerne herom."
+    }
+   ]
+  },
+  {
+   "from": "tilsyn-stiftsoevrighederne",
+   "type": "tilsyn",
+   "to": "raad-menighedsraadene",
+   "beskrivelse": "Stiftsøvrigheden fører tilsyn med menighedsrådenes økonomiske forvaltning (§ 45).",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+     "citat": "Tilsynet med menighedsrådenes økonomiske forvaltning varetages af provstiudvalget og stiftsøvrigheden"
+    }
+   ]
+  },
+  {
+   "from": "tilsyn-provstiudvalgene",
+   "type": "tilsyn",
+   "to": "raad-menighedsraadene",
+   "beskrivelse": "Provstiudvalget fører tilsyn med menighedsrådenes økonomiske forvaltning (§ 45).",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+     "citat": "Tilsynet med menighedsrådenes økonomiske forvaltning varetages af provstiudvalget og stiftsøvrigheden"
+    }
+   ]
+  },
+  {
+   "from": "lov-menighedsraadsloven",
+   "type": "hjemmel_for",
+   "to": "raad-menighedsraadene",
+   "beskrivelse": "§ 2 fastsætter menighedsrådets sammensætning.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+     "citat": "Menighedsrådet består af mindst fem medlemmer, der vælges efter lov om valg til menighedsråd"
+    }
+   ]
+  },
+  {
+   "from": "lov-menighedsraadsloven",
+   "type": "hjemmel_for",
+   "to": "tilsyn-stiftsoevrighederne",
+   "beskrivelse": "§ 46 giver stiftsøvrigheden kompetence til at sætte menighedsrådets beslutninger ud af kraft.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+     "citat": "kan stiftsøvrigheden sætte beslutningen ud af kraft, hvis den ikke er bragt til udførelse."
+    }
+   ]
+  },
+  {
+   "from": "lov-menighedsraadsloven",
+   "type": "hjemmel_for",
+   "to": "tilsyn-provstiudvalgene",
+   "beskrivelse": "§ 45 giver provstiudvalget tilsynet med menighedsrådets økonomi.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+     "citat": "Tilsynet med menighedsrådenes økonomiske forvaltning varetages af provstiudvalget og stiftsøvrigheden"
+    }
+   ]
+  },
+  {
+   "from": "lov-menighedsraadsloven",
+   "type": "hjemmel_for",
+   "to": "tilsyn-biskopperne",
+   "beskrivelse": "§ 45 giver biskoppen tilsynet med menighedsrådets funktion i øvrigt.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+     "citat": "Tilsyn med menighedsrådenes funktion i øvrigt udøves af biskoppen efter reglerne herom."
+    }
+   ]
+  },
+  {
+   "from": "lov-folkekirkens-kirkebygninger-og-kirkegaarde",
+   "type": "hjemmel_for",
+   "to": "raad-kirkegaardsbestyrelser",
+   "beskrivelse": "Loven nævner kirkegårdsbestyrelsen og dens ansvar for gravminder.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2016/1156",
+     "citat": "Menighedsrådet eller kirkegårdsbestyrelsen, jf. § 21, stk. 3, må ikke fjerne registrerede gravminder fra kirkegården."
+    }
+   ]
+  },
+  {
+   "from": "lov-trossamfundsloven",
+   "type": "hjemmel_for",
+   "to": "raad-raadgivende-udvalg-trossamfund",
+   "beskrivelse": "§ 12 hjemler det rådgivende udvalg.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2026/338",
+     "citat": "Kirkeministeren nedsætter et rådgivende udvalg vedrørende trossamfund."
+    }
+   ]
+  },
+  {
+   "from": "lov-folkekirkens-oekonomi",
+   "type": "hjemmel_for",
+   "to": "tilsyn-provstiudvalgene",
+   "beskrivelse": "Loven giver provstiudvalget reservebevillingen til menighedsråd.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2023/424",
+     "citat": "Provstiudvalget kan efter ansøgning fra menighedsrådene bevilge anvendelse af reserven"
+    }
+   ]
+  },
+  {
+   "from": "bek-provstiudvalgenes-og-budgetudvalgenes-virksomhed",
+   "type": "hjemmel_for",
+   "to": "tilsyn-provstiudvalgene",
+   "beskrivelse": "Bekendtgørelsen fastlægger provstiudvalgets rammer, bevillinger og reserve.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2023/435",
+     "citat": "Provstiudvalgets afgørelse om størrelsen af de i §§ 6-8 fastsatte rammer, bevillinger og reserve, er endelig."
+    }
+   ]
+  },
+  {
+   "from": "lov-bestyrelse-og-brug-af-folkekirkens-kirker",
+   "type": "hjemmel_for",
+   "to": "tilsyn-biskopperne",
+   "beskrivelse": "Loven gør biskoppens afgørelser om kirkerne påklagelige til kirkeministeren (§ 23).",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2014/330",
+     "citat": "Biskoppens afgørelser efter loven kan påklages til kirkeministeren."
+    }
+   ]
+  }
+ ],
+ "rettelser": [],
+ "huller": [
+  {
+   "emne": "Officielle adresser for menighedsråd, kirkegårdsbestyrelser, biskopper, stiftsøvrigheder og provstiudvalg",
+   "type": "ikke-fundet",
+   "beskrivelse": "Ingen url er belagt for de seks nye noder. WebSearch fandt ingen samlet official side, og folkekirken.dk-søgningen gav kun referater fra bispemøder.",
+   "noder": [
+    "raad-menighedsraadene",
+    "raad-kirkegaardsbestyrelser",
+    "tilsyn-biskopperne",
+    "tilsyn-stiftsoevrighederne",
+    "tilsyn-provstiudvalgene"
+   ],
+   "kilder": [
+    "https://folkekirken.dk"
+   ]
+  },
+  {
+   "emne": "Stiftsøvrighedens sammensætning",
+   "type": "uklart",
+   "beskrivelse": "Kilderne er uenige. Lex.dk (sekundær) siger biskoppen og stiftsamtmanden. En Viborg Stift-publikation fra 2023 (sekundær) nævner direktøren for Ankestyrelsen. Retsinformation-tekstsøgning i LBK 2007/24 og LBK 2014/330 gav ingen træf.",
+   "noder": [
+    "tilsyn-stiftsoevrighederne"
+   ],
+   "kilder": [
+    "https://lex.dk/stift"
+   ]
+  },
+  {
+   "emne": "Ministeriets egne afgørelser og vejledninger som dokumentkilde",
+   "type": "ikke-fundet",
+   "beskrivelse": "Ministeriet ser ud til at offentliggøre enkelte afgørelser som PDF'er på km.dk (fx om biskoppens tilsyn med menighedsråd). De fire søgte PDF'er gav HTTP 404 ved WebFetch, og der er ingen kilde-node for dem. Cirkulærer og vejledninger ligger på Retsinformation.",
+   "noder": [],
+   "kilder": [
+    "https://www.km.dk/fileadmin/share/dokumenter/Afgoerelse_om_biskoppens_varetagelse_af_tilsyn_med_menighedsraad.pdf"
+   ]
+  },
+  {
+   "emne": "Trossamfundsregistret: offentlig adgang og adresse",
+   "type": "ikke-fundet",
+   "beskrivelse": "Trossamfundsregistret er hjemlet i trossamfundsloven § 7 stk. 4, og BEK 1592/2025 (Bekendtgørelse om Trossamfundsregistret) regulerer det. Ingen offentlig url er belagt, og registret er ikke oprettet som dokumentkilde-node.",
+   "noder": [
+    "raad-raadgivende-udvalg-trossamfund"
+   ],
+   "kilder": []
+  },
+  {
+   "emne": "Klage over trossamfundsloven-afgørelser (anerkendelse og tilbagekaldelse)",
+   "type": "uklart",
+   "beskrivelse": "Søgningen efter påklag, indbringes og klageadgang i LBK 338/2026 gav ingen træf, men teksten er ikke læst fuldt ud. Det er ikke afgjort, om der er klageadgang.",
+   "noder": [
+    "lov-trossamfundsloven"
+   ],
+   "kilder": []
+  },
+  {
+   "emne": "Kirkeministerens egne afgørelser i disse sager",
+   "type": "andet",
+   "beskrivelse": "Biskoppens og stiftsøvrighedens afgørelser kan gå til kirkeministeren, men et ministerium kan ikke være endepunkt i en klageinstans-kant. Det står i noterne, ikke som kant. Ministerens afgørelser er ikke kortlagt.",
+   "noder": [
+    "tilsyn-biskopperne",
+    "tilsyn-stiftsoevrighederne"
+   ],
+   "kilder": []
+  },
+  {
+   "emne": "Folketingets Ombudsmand som tilsyn med folkekirkens organer",
+   "type": "uklart",
+   "beskrivelse": "Ombudsmanden har behandlet folkekirkesager (FOB 2025-1 og fx 2014-33), men der er ikke belagt et tilsynsforhold mellem ombudsmanden og menighedsråd eller stifter.",
+   "noder": [
+    "ombud-folketingets-ombudsmand"
+   ],
+   "kilder": [
+    "https://www.retsinformation.dk/eli/fob/2025/1"
+   ]
+  },
+  {
+   "emne": "Nationalmuseets afgørelser om gravminder (påklages til biskoppen)",
+   "type": "andet",
+   "beskrivelse": "Lov om folkekirkens kirkebygninger og kirkegårde (LBK 1156/2016) siger, at Nationalmuseets afgørelse kan påklages til biskoppen. Nationalmuseet er ikke oprettet som node, og ressorten for museet er ikke belagt.",
+   "noder": [
+    "lov-folkekirkens-kirkebygninger-og-kirkegaarde"
+   ],
+   "kilder": []
+  }
+ ],
+ "noter": "Til orkestratoren: Fire ting i audit-sporene er forkerte eller ikke belagt. (1) Klagevejen går ikke menighedsråd -> provstiudvalg -> stiftsøvrighed -> ministeriet. Menighedsrådets afgørelser går til biskoppen (LBK 675/2026 § 16 stk. 2, § 15 stk. 8), biskoppens afgørelser i visse sager til kirkeministeren (§ 16 stk. 3). Stiftsøvrighedens afgørelser efter § 46 stk. 1 går til kirkeministeren (§ 47). Provstiudvalgets øvrige afgørelser går til biskoppen, og biskoppens afgørelser kan ikke gå videre (BEK 435/2023 § 12). (2) CIR 9138/2015 er ikke en klageregel. Titlen i kataloget er 'Cirkulære om fremgangsmåden ved salg af fast ejendom under menighedsrådenes bestyrelse'. Den står blandt henvisningerne til LBK 424/2023, men er ikke en klageregel. 4-ugers-fristen står i menighedsrådsloven § 15 stk. 8 og kirkeloven § 23 stk. 2. (3) Ministeriets navn er Sundheds- og Kirkeministeriet i Retsinformations ministeriefelt for 2026-dokumenterne, men lovtekster og bekendtgørelser fra 2023-2026 nævner By-, Land- og Kirkeministeriet (BEK 340, LBK 338), og BEK 514/2026 § 6 siger Indenrigs- og Sundhedsministeriet før § 8 omdøber det. (4) Trossamfundsloven har ingen klagebestemmelse, som søgningen fandt. Mangler: Stiftsøvrighedens sammensætning er uklar (kilderne er uenige). Ingen officielle url'er er belagt for nye instanser. Der er ikke oprettet dokumentkilde-noder for ministeriets afgørelser, fordi km.dk-PDF'erne gav 404. Kirkeministeren kan ikke være klageinstans-node, så den kæde står i noten. Antallet af instanser er 6, under målet på 8, fordi kun seks har fuldt belagt hjemmel og klagevej. Der er ikke rettet eksisterende noder. min-sundhed-og-kirke har url https://www.skim.dk/, som ikke er bekræftet i denne kørsel."
+}

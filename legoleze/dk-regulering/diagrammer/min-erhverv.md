@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 222 · kanter: 372
+Noder: 227 · kanter: 378
 
 ```mermaid
 flowchart LR
@@ -99,6 +99,7 @@ flowchart LR
     kilde_rn_kendelser["Revisornævnets kendelser (rn.naevneneshus.dk)"]:::kilde
     kilde_soefartsstyrelsen_regler["Søfartsstyrelsens regler og bekendtgørelser (soefartsstyrelsen.dk)"]:::kilde
     bv_tekniq_vejledninger["TEKNIQ's branchevejledninger (bl.a. om overtrædelse af autorisationsloven og elektronisk sameksistens/EMC)"]:::kilde
+    kilde_teleklagenaevn_afgoerelser["Teleklagenævnets afgørelsesportal"]:::kilde
     kilde_tvistighedsnaevnet_kendelser["Tvistighedsnævnets afgørelsesportal (tvist.naevneneshus.dk)"]:::kilde
     kilde_sik_dk["sik.dk (Sikkerhedsstyrelsens site, nu Erhvervsstyrelsen)"]:::kilde
     kilde_virk_nye_regler["virk.dk – Nye regler (oversigt over nye erhvervsrettede regler)"]:::kilde
@@ -123,6 +124,8 @@ flowchart LR
     naevn_planklagenaevnet["Planklagenævnet"]:::klage
     naevn_revisornaevnet["Revisornævnet"]:::klage
     naevn_taksationskommissionen["Taksationskommissionen (naturbeskyttelsesloven)"]:::klage
+    naevn_teleankenaevnet["Teleankenævnet"]:::klage
+    naevn_teleklagenaevnet["Teleklagenævnet"]:::klage
     naevn_tvistighedsnaevnet["Tvistighedsnævnet"]:::klage
     min_by_land_og_transport["By-, Land- og Transportministeriet"]:::ministerium
     lov_visse_produkter["Lov nr. 155 af 20/02/2013 om indretning m.v. af visse produkter (ophævet)"]:::nedlagt
@@ -138,6 +141,7 @@ flowchart LR
     bek_konkurrenceankenaevnet["Bekendtgørelse om Konkurrenceankenævnet"]:::retsakt
     bek_revisornaevnet["Bekendtgørelse om Revisornævnet"]:::retsakt
     bek_raad_el_og_gasteknisk_sikkerhed["Bekendtgørelse om Rådet for El- og Gasteknisk Sikkerhed (2024)"]:::retsakt
+    bek_teleklagenaevnets_virksomhed["Bekendtgørelse om Teleklagenævnets virksomhed"]:::retsakt
     bek_tvistighedsnaevnet["Bekendtgørelse om Tvistighedsnævnet"]:::retsakt
     bek_vandsektortilsynet["Bekendtgørelse om Vandsektortilsynets virksomhed"]:::retsakt
     bek_autorisation["Bekendtgørelse om autorisation og drift af virksomhed på el-, vvs- og kloakinstallationsområdet"]:::retsakt
@@ -194,6 +198,7 @@ flowchart LR
     lov_beskikkede_bygningssagkyndige["Lov om beskikkede bygningssagkyndige m.v."]:::retsakt
     lov_lov_om_betalinger["Lov om betalinger"]:::retsakt
     lov_dyrlaegeloven["Lov om dyrlæger"]:::retsakt
+    lov_teleloven["Lov om elektroniske kommunikationsnet og -tjenester (teleloven)"]:::retsakt
     lov_elforsyningsloven["Lov om elforsyning (elforsyningsloven)"]:::retsakt
     lov_erhvervsuddannelser["Lov om erhvervsuddannelser (erhvervsuddannelsesloven)"]:::retsakt
     lov_masteloven["Lov om etablering og fælles udnyttelse af master til radiokommunikationsformål m.v. (masteloven)"]:::retsakt
@@ -606,6 +611,12 @@ flowchart LR
     lov_ejendomsformidling -->|hjemmel_for| bek_bygningssagkyndige_naevn
     lov_selskabsloven -->|implementerer_EU| eu_dir_2015_849
     lov_beskikkede_bygningssagkyndige -->|implementerer_EU| eu_dir_2005_36
+    min_erhverv -.->|ressortansvar| naevn_teleklagenaevnet
+    lov_teleloven -->|hjemmel_for| naevn_teleklagenaevnet
+    lov_teleloven -->|hjemmel_for| bek_teleklagenaevnets_virksomhed
+    naevn_teleklagenaevnet -->|klageinstans| sty_erhvervsstyrelsen
+    naevn_teleklagenaevnet -.->|udsteder| kilde_teleklagenaevn_afgoerelser
+    sty_naevnenes_hus -.->|tilsyn| naevn_teleankenaevnet
     bek_risiko -->|implementerer_EU| eu_dir_2012_18
     bek_faerdselsstyrelsen_opgaver -->|hjemmel_for| sty_faerdselsstyrelsen
 ```

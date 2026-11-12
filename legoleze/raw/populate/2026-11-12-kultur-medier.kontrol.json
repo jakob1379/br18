@@ -1,0 +1,940 @@
+[
+ {
+  "hvor": "naevn-pressenaevnet.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/914",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/914",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/914",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-pressenaevnet.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/914",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/914",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-pressenaevnet.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.pressenaevnet.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "lov-medieansvarsloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "143047",
+   "DocumentTitle": "Bekendtgørelse af medieansvarsloven ",
+   "Year": "2014",
+   "DiesSigni": "2014-08-11",
+   "Status": "Valid",
+   "Number": "914",
+   "PopularTitle": "Medieansvarsloven",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-medieansvarsloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "143047",
+   "DocumentTitle": "Bekendtgørelse af medieansvarsloven ",
+   "Year": "2014",
+   "DiesSigni": "2014-08-11",
+   "Status": "Valid",
+   "Number": "914",
+   "PopularTitle": "Medieansvarsloven",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-medieansvarsloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "143047",
+   "DocumentTitle": "Bekendtgørelse af medieansvarsloven ",
+   "Year": "2014",
+   "DiesSigni": "2014-08-11",
+   "Status": "Valid",
+   "Number": "914",
+   "PopularTitle": "Medieansvarsloven",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-medieansvarsloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "143047",
+   "DocumentTitle": "Bekendtgørelse af medieansvarsloven ",
+   "Year": "2014",
+   "DiesSigni": "2014-08-11",
+   "Status": "Valid",
+   "Number": "914",
+   "PopularTitle": "Medieansvarsloven",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2014/914",
+   "lovtidende": "LBK nr. 914 af 11/08/2014"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-pressenaevn-forretningsorden.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/914",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-pressenaevn-forretningsorden.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "Bekendtgørelse",
+   "UniqueDocumentId": "86836",
+   "DocumentTitle": "Bekendtgørelse om forretningsorden for Pressenævnet ",
+   "Year": "1998",
+   "DiesSigni": "1998-02-09",
+   "Status": "Valid",
+   "Number": "86",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-pressenaevn-forretningsorden.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "Bekendtgørelse",
+   "UniqueDocumentId": "86836",
+   "DocumentTitle": "Bekendtgørelse om forretningsorden for Pressenævnet ",
+   "Year": "1998",
+   "DiesSigni": "1998-02-09",
+   "Status": "Valid",
+   "Number": "86",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-pressenaevn-forretningsorden.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "Bekendtgørelse",
+   "UniqueDocumentId": "86836",
+   "DocumentTitle": "Bekendtgørelse om forretningsorden for Pressenævnet ",
+   "Year": "1998",
+   "DiesSigni": "1998-02-09",
+   "Status": "Valid",
+   "Number": "86",
+   "Ministry": "Justitsministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/1998/86",
+   "lovtidende": "BEK nr. 86 af 09/02/1998"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "kilde-pressenaevnet-kendelser.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.pressenaevnet.dk/faeldede-kendelser/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-pressenaevnet-kendelser.adgang",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.pressenaevnet.dk/faeldede-kendelser/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kilde-pressenaevnet-kendelser.licens",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.pressenaevnet.dk/faeldede-kendelser/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "lov-radio-og-fjernsynsloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "216269",
+   "DocumentTitle": "Bekendtgørelse af lov om radio- og fjernsynsvirksomhed m.v.",
+   "Year": "2020",
+   "DiesSigni": "2020-09-04",
+   "Status": "Valid",
+   "Number": "1350",
+   "Ministry": "Kulturministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-radio-og-fjernsynsloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "216269",
+   "DocumentTitle": "Bekendtgørelse af lov om radio- og fjernsynsvirksomhed m.v.",
+   "Year": "2020",
+   "DiesSigni": "2020-09-04",
+   "Status": "Valid",
+   "Number": "1350",
+   "Ministry": "Kulturministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-radio-og-fjernsynsloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "216269",
+   "DocumentTitle": "Bekendtgørelse af lov om radio- og fjernsynsvirksomhed m.v.",
+   "Year": "2020",
+   "DiesSigni": "2020-09-04",
+   "Status": "Valid",
+   "Number": "1350",
+   "Ministry": "Kulturministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-radio-og-fjernsynsloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "216269",
+   "DocumentTitle": "Bekendtgørelse af lov om radio- og fjernsynsvirksomhed m.v.",
+   "Year": "2020",
+   "DiesSigni": "2020-09-04",
+   "Status": "Valid",
+   "Number": "1350",
+   "Ministry": "Kulturministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2020/1350",
+   "lovtidende": "LBK nr. 1350 af 04/09/2020"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-kulturbidragsloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LOV H#LOKDOK 01",
+   "UniqueDocumentId": "243842",
+   "DocumentTitle": "Lov om visse medietjenesteudbyderes bidrag til fremme af dansk kultur (kulturbidragsloven)",
+   "Year": "2024",
+   "DiesSigni": "2024-06-11",
+   "Status": "Valid",
+   "Number": "615",
+   "PopularTitle": "Kulturbidragsloven",
+   "Ministry": "Kulturministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-kulturbidragsloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LOV H#LOKDOK 01",
+   "UniqueDocumentId": "243842",
+   "DocumentTitle": "Lov om visse medietjenesteudbyderes bidrag til fremme af dansk kultur (kulturbidragsloven)",
+   "Year": "2024",
+   "DiesSigni": "2024-06-11",
+   "Status": "Valid",
+   "Number": "615",
+   "PopularTitle": "Kulturbidragsloven",
+   "Ministry": "Kulturministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-kulturbidragsloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LOV H#LOKDOK 01",
+   "UniqueDocumentId": "243842",
+   "DocumentTitle": "Lov om visse medietjenesteudbyderes bidrag til fremme af dansk kultur (kulturbidragsloven)",
+   "Year": "2024",
+   "DiesSigni": "2024-06-11",
+   "Status": "Valid",
+   "Number": "615",
+   "PopularTitle": "Kulturbidragsloven",
+   "Ministry": "Kulturministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-kulturbidragsloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LOV H#LOKDOK 01",
+   "UniqueDocumentId": "243842",
+   "DocumentTitle": "Lov om visse medietjenesteudbyderes bidrag til fremme af dansk kultur (kulturbidragsloven)",
+   "Year": "2024",
+   "DiesSigni": "2024-06-11",
+   "Status": "Valid",
+   "Number": "615",
+   "PopularTitle": "Kulturbidragsloven",
+   "Ministry": "Kulturministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2024/615",
+   "lovtidende": "LOV nr. 615 af 11/06/2024"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "naevn-radio-og-tv-naevnet.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2020/1350",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/615",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-radio-og-tv-naevnet.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://slks.dk/fileadmin/user_upload/SLKS/Omraader/Medier/Radio-_og_tv-naevnet/AArsberetninger/Radio-_og_tv-naevnets_aarsberetning_2024.pdf",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://slks.dk/fileadmin/user_upload/SLKS/Omraader/Medier/Radio-_og_tv-naevnet/AArsberetninger/Radio-_og_tv-naevnets_aarsberetning_2024.pdf",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-radio-og-tv-naevnet.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://slks.dk/omraader/medier/naevn-og-udvalg/radio-og-tv-naevnet/moededatoer-og-dagsordener",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-ophavsretslicensnaevnet.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/1093",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/1093",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-ophavsretslicensnaevnet.dokumenttyper",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/1093",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-biblioteksafgiftsnaevnet.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2008/683",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-biblioteksafgiftsnaevnet.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2008/683",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "raad-dansk-sprognaevn.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/217",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/217",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "raad-dansk-sprognaevn.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/217",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "raad-dansk-sprognaevn.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://dsn.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "lov-dansk-sprognaevn.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "167989",
+   "DocumentTitle": "Bekendtgørelse af lov om Dansk Sprognævn",
+   "Year": "2015",
+   "DiesSigni": "2015-02-13",
+   "Status": "Valid",
+   "Number": "217",
+   "Ministry": "Kulturministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-dansk-sprognaevn.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "167989",
+   "DocumentTitle": "Bekendtgørelse af lov om Dansk Sprognævn",
+   "Year": "2015",
+   "DiesSigni": "2015-02-13",
+   "Status": "Valid",
+   "Number": "217",
+   "Ministry": "Kulturministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-dansk-sprognaevn.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "167989",
+   "DocumentTitle": "Bekendtgørelse af lov om Dansk Sprognævn",
+   "Year": "2015",
+   "DiesSigni": "2015-02-13",
+   "Status": "Valid",
+   "Number": "217",
+   "Ministry": "Kulturministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-dansk-sprognaevn.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "167989",
+   "DocumentTitle": "Bekendtgørelse af lov om Dansk Sprognævn",
+   "Year": "2015",
+   "DiesSigni": "2015-02-13",
+   "Status": "Valid",
+   "Number": "217",
+   "Ministry": "Kulturministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2015/217",
+   "lovtidende": "LBK nr. 217 af 13/02/2015"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-dansk-sprognaevns-virksomhed.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1059",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-dansk-sprognaevns-virksomhed.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "245051",
+   "DocumentTitle": "Bekendtgørelse om Dansk Sprognævns virksomhed og sammensætning",
+   "Year": "2024",
+   "DiesSigni": "2024-09-22",
+   "Status": "Valid",
+   "Number": "1059",
+   "Ministry": "Kulturministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-dansk-sprognaevns-virksomhed.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "245051",
+   "DocumentTitle": "Bekendtgørelse om Dansk Sprognævns virksomhed og sammensætning",
+   "Year": "2024",
+   "DiesSigni": "2024-09-22",
+   "Status": "Valid",
+   "Number": "1059",
+   "Ministry": "Kulturministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-dansk-sprognaevns-virksomhed.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "245051",
+   "DocumentTitle": "Bekendtgørelse om Dansk Sprognævns virksomhed og sammensætning",
+   "Year": "2024",
+   "DiesSigni": "2024-09-22",
+   "Status": "Valid",
+   "Number": "1059",
+   "Ministry": "Kulturministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2024/1059",
+   "lovtidende": "BEK nr. 1059 af 22/09/2024"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "kilde-retskrivningsordbogen.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://dsn.dk/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|lov-medieansvarsloven",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/914",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|naevn-pressenaevnet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/914",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-medieansvarsloven|hjemmel_for|naevn-pressenaevnet",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/914",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/914",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/914",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/914",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-medieansvarsloven|hjemmel_for|bek-pressenaevn-forretningsorden",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/914",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant naevn-pressenaevnet|udsteder|kilde-pressenaevnet-kendelser",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.pressenaevnet.dk/faeldede-kendelser/",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-kultur|ressortansvar|lov-radio-og-fjernsynsloven",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2020/1350",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-kultur|ressortansvar|lov-kulturbidragsloven",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/615",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-kultur|ressortansvar|naevn-radio-og-tv-naevnet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2020/1350",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-radio-og-fjernsynsloven|hjemmel_for|naevn-radio-og-tv-naevnet",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2020/1350",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-kulturbidragsloven|hjemmel_for|naevn-radio-og-tv-naevnet",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/615",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/615",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-kulturbidragsloven|hjemmel_for|sty-slots-og-kulturstyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/615",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant naevn-radio-og-tv-naevnet|klageinstans|sty-slots-og-kulturstyrelsen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://slks.dk/fileadmin/user_upload/SLKS/Omraader/Medier/Radio-_og_tv-naevnet/AArsberetninger/Radio-_og_tv-naevnets_aarsberetning_2024.pdf",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/615",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-kultur|ressortansvar|naevn-ophavsretslicensnaevnet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/1093",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-ophavsretsloven|hjemmel_for|naevn-ophavsretslicensnaevnet",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/1093",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/1093",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-kultur|ressortansvar|naevn-biblioteksafgiftsnaevnet",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2008/683",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-kultur|ressortansvar|lov-dansk-sprognaevn",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/217",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-kultur|ressortansvar|raad-dansk-sprognaevn",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/217",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-dansk-sprognaevn|hjemmel_for|raad-dansk-sprognaevn",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/217",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/217",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-dansk-sprognaevn|hjemmel_for|bek-dansk-sprognaevns-virksomhed",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2024/1059",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant raad-dansk-sprognaevn|udsteder|kilde-retskrivningsordbogen",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2015/217",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ }
+]

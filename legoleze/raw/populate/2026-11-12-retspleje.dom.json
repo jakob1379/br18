@@ -1,0 +1,237 @@
+[
+  {
+    "hvor": "org-advokatsamfundet.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "raad-advokatraadet.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "raad-advokatraadet.dokumenttyper",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "naevn-advokatnaevnet.hjemmel",
+    "dom": "delvist",
+    "grund": "§ 147 b (disciplinærsager) fremgår ikke af belægget; kun §§ 144 og 147 c er belagt."
+  },
+  {
+    "hvor": "naevn-advokatnaevnet.dokumenttyper",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "naevn-advokatnaevnet.adgang",
+    "dom": "delvist",
+    "grund": "Belægget siger, at nævnet kan offentliggøre afgørelser, ikke at de offentliggøres; hvor og hvilke er ukendt."
+  },
+  {
+    "hvor": "dom-soe-og-handelsretten.hjemmel",
+    "dom": "delvist",
+    "grund": "Kernen (§§ 14 og 15) er belagt; § 1 om almindelig domstol står ikke i belægget."
+  },
+  {
+    "hvor": "dom-soe-og-handelsretten.dokumenttyper",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "dom-tinglysningsretten.hjemmel",
+    "dom": "delvist",
+    "grund": "Kernen (§ 18, stk. 1 og 4) er belagt; § 1 om almindelig domstol står ikke i belægget."
+  },
+  {
+    "hvor": "dom-tinglysningsretten.dokumenttyper",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "dom-den-saerlige-klageret.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "dom-den-saerlige-klageret.dokumenttyper",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "raad-dommerudnaevnelsesraadet.hjemmel",
+    "dom": "delvist",
+    "grund": "Råd, sammensætning og indstilling belagt (§§ 43 a, 43 b); §§ 43 c og 43 d står ikke i belægget."
+  },
+  {
+    "hvor": "raad-dommerudnaevnelsesraadet.dokumenttyper",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "raad-retslaegeraadet.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "naevn-indsamlingsnaevnet.hjemmel",
+    "dom": "delvist",
+    "grund": "Tilladelseskrav belagt; BEK 895/2014 § 3 om tilsyn står ikke i belægget."
+  },
+  {
+    "hvor": "naevn-indsamlingsnaevnet.dokumenttyper",
+    "dom": "delvist",
+    "grund": "Afslag og tilladelse belagt; tilbagekaldelse ikke i belægget, og KEN-afgørelsen er ubelagt, som påstanden selv indrømmer."
+  },
+  {
+    "hvor": "lov-indsamlingsloven.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-indsamlingsloven.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-indsamlingsloven.identifikatorer",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-retslaegeraadet.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-retslaegeraadet.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-retslaegeraadet.identifikatorer",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "bek-advokatnaevnets-virksomhed.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "bek-advokatnaevnets-virksomhed.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "bek-advokatnaevnets-virksomhed.identifikatorer",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kilde-advokatnaevnet-afgoerelser.dokumenttyper",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant min-justits|ressortansvar|lov-indsamlingsloven",
+    "dom": "delvist",
+    "grund": "Ministeriefeltet står ikke i belægget; kun § 1 om lovens anvendelse er citeret."
+  },
+  {
+    "hvor": "kant min-justits|ressortansvar|lov-retslaegeraadet",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant min-justits|ressortansvar|bek-advokatnaevnets-virksomhed",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant min-justits|ressortansvar|naevn-indsamlingsnaevnet",
+    "dom": "delvist",
+    "grund": "Belægget viser sekretariatsbistand, ikke at nævnet hører under ministeriet; udnævnelse mangler."
+  },
+  {
+    "hvor": "kant lov-retsplejeloven|hjemmel_for|org-advokatsamfundet",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant lov-retsplejeloven|hjemmel_for|raad-advokatraadet",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant lov-retsplejeloven|hjemmel_for|naevn-advokatnaevnet",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant bek-advokatnaevnets-virksomhed|hjemmel_for|naevn-advokatnaevnet",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant lov-retsplejeloven|hjemmel_for|dom-soe-og-handelsretten",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant lov-retsplejeloven|hjemmel_for|dom-tinglysningsretten",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant lov-retsplejeloven|hjemmel_for|raad-dommerudnaevnelsesraadet",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant lov-retsplejeloven|hjemmel_for|dom-den-saerlige-klageret",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant lov-retslaegeraadet|hjemmel_for|raad-retslaegeraadet",
+    "dom": "delvist",
+    "grund": "Kun lovtitlen er belagt; at loven er hjemmel for rådet, står ikke i belægget."
+  },
+  {
+    "hvor": "kant lov-indsamlingsloven|hjemmel_for|naevn-indsamlingsnaevnet",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant dom-landsretterne|klageinstans|dom-soe-og-handelsretten",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant dom-hoejesteret|klageinstans|dom-soe-og-handelsretten",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant dom-landsretterne|klageinstans|dom-tinglysningsretten",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant dom-domstolene|klageinstans|naevn-advokatnaevnet",
+    "dom": "delvist",
+    "grund": "Domstolsprøvelse og fristen er belagt (§ 147 d); frakendelse efter § 147 e står ikke i belægget."
+  },
+  {
+    "hvor": "kant dom-den-saerlige-klageret|klageinstans|dom-domstolene",
+    "dom": "delvist",
+    "grund": "Klageretten behandler klager over advarsler efter § 48; belægget viser ikke, at domstolene meddeler dem."
+  },
+  {
+    "hvor": "kant naevn-advokatnaevnet|udsteder|kilde-advokatnaevnet-afgoerelser",
+    "dom": "baerer",
+    "grund": ""
+  }
+]

@@ -1,0 +1,783 @@
+{
+ "omraade": "retspleje",
+ "noder": [
+  {
+   "id": "org-advokatsamfundet",
+   "navn": "Det Danske Advokatsamfund",
+   "type": "privat-organisation",
+   "ministerium": "ingen",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "Retsplejeloven § 143, stk. 1: Advokatsamfundet udgøres af alle danske advokater; samfundet opretter Advokatnævnet (§ 144) og har Advokatrådet som bestyrelse (§ 143, stk. 2).",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+      "citat": "Det Danske Advokatsamfund udgøres af alle danske advokater."
+     },
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+      "citat": "Advokatsamfundet opretter et Advokatnævn."
+     }
+    ]
+   },
+   "note": "Selvstyrende samfund, ikke en del af den offentlige forvaltning. Kredsbestyrelser findes ikke i gældende retsplejelov; BEK 1630/2024 § 26, stk. 2 ophæver BEK 548/2020, der regulerede kredsbestyrelsernes klagebehandling. Kredsbestyrelser er derfor historiske og ikke noder. Hjemmeside-URL ikke belagt i denne kørsel."
+  },
+  {
+   "id": "raad-advokatraadet",
+   "navn": "Advokatrådet",
+   "type": "råd",
+   "ministerium": "ingen",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "Retsplejeloven § 143, stk. 2: Advokatrådet, der er Advokatsamfundets bestyrelse, fører tilsyn med advokaterne og deres autoriserede fuldmægtige og kan indklage en advokat for Advokatnævnet, når rådet finder, at advokaten ikke har handlet i overensstemmelse med sine pligter. Rådet kan kræve oplysninger (§ 143, stk. 3).",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+      "citat": "Advokatrådet, der er Advokatsamfundets bestyrelse, fører tilsyn med advokaterne og deres autoriserede fuldmægtige."
+     },
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+      "citat": "kan det indklage den pågældende for Advokatnævnet"
+     }
+    ]
+   },
+   "dokumenttyper": {
+    "liste": [
+     {
+      "type": "indklagelse til Advokatnævnet",
+      "bindende": "ukendt",
+      "note": "Ikke en afgørelse; indklagelsen starter disciplinærsagen."
+     }
+    ],
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+      "citat": "kan det indklage den pågældende for Advokatnævnet"
+     }
+    ]
+   },
+   "note": "Tilsynsfunktionen er retsplejelovens § 143, stk. 2. Tilsynsobjektet (advokater) er ikke en node, så tilsynskanten kan ikke udtrykkes. Hjemmeside-URL og årsberetninger ikke belagt; tilsynsrapporter fra 2025 fandtes via WebSearch men PDF'en var ikke læsbar."
+  },
+  {
+   "id": "naevn-advokatnaevnet",
+   "navn": "Advokatnævnet",
+   "type": "nævn",
+   "ministerium": "ingen",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "Retsplejeloven § 144: Advokatsamfundet opretter Advokatnævnet, med formand og to næstformænd (dommere, udpeget af Højesterets præsident) samt 18 medlemmer. Nævnet behandler disciplinærsager efter § 147 b og tildeler irettesættelse eller bøde på indtil 300.000 kr. efter § 147 c, stk. 1. Justitsministeren fastsætter regler (BEK 1630/2024).",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+      "citat": "Advokatsamfundet opretter et Advokatnævn."
+     },
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+      "citat": "en irettesættelse eller pålægge vedkommende, fællesskabet eller selskabet en bøde på indtil 300.000 kr."
+     }
+    ]
+   },
+   "dokumenttyper": {
+    "liste": [
+     {
+      "type": "afgørelse i disciplinærsag (irettesættelse, bøde, betinget eller midlertidig frakendelse)",
+      "bindende": "bindende"
+     },
+     {
+      "type": "kendelse",
+      "bindende": "bindende",
+      "note": "sendes til Advokatrådet, jf. BEK 1630/2024 § 24, stk. 4"
+     },
+     {
+      "type": "årsberetning",
+      "bindende": "ukendt",
+      "note": "skal offentliggøres på nævnets hjemmeside"
+     }
+    ],
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2024/1630",
+      "citat": "Nævnets kendelser sendes desuden til Advokatrådet."
+     },
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2024/1630",
+      "citat": "Nævnet offentliggør beretningen på sin hjemmeside."
+     }
+    ]
+   },
+   "adgang": {
+    "vaerdier": [
+     "ukendt"
+    ],
+    "note": "Afgørelser offentliggøres efter § 147 c, men hvor og hvilke ikke belagt; se hul.",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+      "citat": "Nævnet kan offentliggøre afgørelsen."
+     }
+    ]
+   },
+   "krydsref_moenstre": [
+    "Advokatnævnets afgørelse af [dato]",
+    "kendelse fra Advokatnævnet"
+   ],
+   "note": "Første instans for disciplinær- og salærsager og valgbarhedssager. Klage kan indgives af enhver efter § 147 b (1 år). Advokatrådet kan indklage (§ 143, stk. 2). Appel: irettesættelse og bøde ved retten efter § 147 d (4 uger, advokaten selv); frakendelse ved retten efter § 147 e (anmodning til justitsministeren inden 4 uger, som anlægger sag); parter i klagesager kan gå til domstolene efter § 147 a. Afgørelser er ikke prøvet for anden administrativ myndighed (BEK 1630/2024 § 23). Sanktionerede afgørelser sendes til Civilstyrelsen (BEK 1630/2024 § 24, stk. 4). Møder er ikke offentlige (BEK 1630/2024 § 21)."
+  },
+  {
+   "id": "dom-soe-og-handelsretten",
+   "navn": "Sø- og Handelsretten",
+   "type": "domstol",
+   "ministerium": "ingen",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "Retsplejeloven § 1 (almindelig domstol), § 14 (sæde i København, præsident og dommere) og § 15 (1. instans for sager efter §§ 225 og 227, midlertidige forbud og påbud, begrænsningsfonde og rekonstruktion/konkurs/gældssanering i visse områder).",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+      "citat": "Sø- og Handelsretten, der har sit sæde i København, består af en præsident"
+     },
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+      "citat": "Sø- og Handelsrettens domsmyndighed omfatter behandling og påkendelse i 1. instans af retssager"
+     }
+    ]
+   },
+   "dokumenttyper": {
+    "liste": [
+     {
+      "type": "dom",
+      "bindende": "bindende"
+     }
+    ],
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+      "citat": "Domme, der er afsagt af Sø- og Handelsretten, kan af parterne ankes til Højesteret eller landsret."
+     }
+    ]
+   },
+   "note": "Ankevej: landsret eller Højesteret efter § 368, stk. 4. Højesteret kan udvælge sagen, hvis den er principiel eller af samfundsmæssig rækkevidde, jf. § 368, stk. 4, 2. pkt. (sagen er ikke uafhængigt verificeret i øvrige bestemmelser). Registry-noden dom-hoejesteret siger, at Højesteret behandler sager fra Sø- og Handelsretten; det er upræcist, fordi landsretten også kan være appelinstans. URL og adgang ikke belagt."
+  },
+  {
+   "id": "dom-tinglysningsretten",
+   "navn": "Tinglysningsretten",
+   "type": "domstol",
+   "ministerium": "ingen",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "Retsplejeloven § 1 (almindelig domstol), § 18, stk. 1 (sæde i Hobro, præsident og én dommer) og § 18, stk. 4 (varetager tinglysningen for hele landet og behandler sager om ejendomsdom og mortifikation).",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+      "citat": "Tinglysningsretten, der har sit sæde i Hobro, består af en præsident og 1 anden dommer."
+     },
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+      "citat": "Tinglysningsretten varetager tinglysningen for hele landet."
+     }
+    ]
+   },
+   "dokumenttyper": {
+    "liste": [
+     {
+      "type": "dom (mortifikation og ejendomsdom)",
+      "bindende": "bindende"
+     }
+    ],
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+      "citat": "Tinglysningsrettens domme i sager om mortifikation og ejendomsdom kan ankes til landsretten"
+     }
+    ]
+   },
+   "note": "Ankevej: landsretten for dommene (§ 6). Kendelser om tinglysning (de fleste af rettens afgørelser) er ikke belagt. Den generelle kæreret til landsret i § 6 står i en tekst, der ikke kunne citeres uden et blødt bindestreg (U+00AD), så den er ikke citeret. Tinglysningsloven er ikke noderet i dette område; tilsyn og ressort er ikke belagt."
+  },
+  {
+   "id": "dom-den-saerlige-klageret",
+   "navn": "Den Særlige Klageret",
+   "type": "domstol",
+   "ministerium": "ingen",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "Retsplejeloven § 1 a: Den Særlige Klageret behandler genoptagelsesbegæringer, kæremål om udelukkelse af forsvarer, klager over advarsler, sager om suspension, disciplinærforfølgning og afsked på grund af sygdom m.v. og sager om afsættelse af medlemmer af Domstolsstyrelsens bestyrelse. Klageretten består af 5 medlemmer beskikket af kongen efter indstilling af justitsministeren.",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+      "citat": "Den Særlige Klageret behandler og påkender"
+     },
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+      "citat": "Klageretten består af 5 medlemmer, der efter indstilling af justitsministeren beskikkes af kongen for en periode på 10 år."
+     }
+    ]
+   },
+   "dokumenttyper": {
+    "liste": [
+     {
+      "type": "afgørelse",
+      "bindende": "bindende"
+     }
+    ],
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+      "citat": "Den Særlige Klageret behandler og påkender"
+     }
+    ]
+   },
+   "note": "Klagevej: klager over advarsler efter § 48 (§ 1 a, nr. 4). Ministerium er ikke belagt som ressort, så noden er sat til ingen. Klageretten er et kollegialt organ med dommere og en advokat; type klagenævn er et valg, ikke en fast afgrænsning. URL og afgørelsespraksis ikke belagt. Orkestratoren har ændret typen fra klagenævn til domstol: klageretten står i retsplejelovens første bog om retterne og er sammensat af dommere, en professor og en advokat. En klageinstans-kant til domstolene er udeladt: § 1 a, nr. 4, viser, at klageretten behandler klager over advarsler efter § 48, men ikke hvem der meddeler dem."
+  },
+  {
+   "id": "raad-dommerudnaevnelsesraadet",
+   "navn": "Dommerudnævnelsesrådet",
+   "type": "råd",
+   "ministerium": "ingen",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "Retsplejeloven § 43 a: rådet afgiver indstilling til justitsministeren om besættelse af dommerstillinger (højesteret, landsret, Sø- og Handelsretten, byret, Tinglysningsretten). § 43 b: 6 medlemmer (højesteretsdommer som formand, landsdommer, byretsdommer, advokat fra Advokatrådet og to offentlighedsrepræsentanter). § 43 c: fastsætter selv sin forretningsorden (BEK 589/1999). Sekretariat: Domstolsstyrelsen (§ 43 d).",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+      "citat": "Der oprettes et dommerudnævnelsesråd, som afgiver indstilling til justitsministeren om besættelse af stillinger som"
+     },
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+      "citat": "Dommerudnævnelsesrådet består af 6 medlemmer, en højesteretsdommer (formand), en landsdommer, en byretsdommer, en advokat og to repræsentanter for offentligheden."
+     }
+    ]
+   },
+   "dokumenttyper": {
+    "liste": [
+     {
+      "type": "redegørelse om virksomheden",
+      "bindende": "ukendt",
+      "note": "offentliggøres årligt"
+     }
+    ],
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+      "citat": "Dommerudnævnelsesrådet offentliggør hvert år en redegørelse for sin virksomhed."
+     }
+    ]
+   },
+   "note": "Rådet indstiller, afgør ikke. Ingen klagevej i paragrafferne. Forretningsorden: BEK 589/1999, hvis tekst ikke var tilgængelig i Retsinformations XML (kun metadata); hjemmel og indhold er derfor ikke belagt. Justitsministeriet er ressort efter BEK 589-metadata, men kædens ressortkant er ikke belagt med en side, der siger det; ministerium er derfor sat til ingen."
+  },
+  {
+   "id": "raad-retslaegeraadet",
+   "navn": "Retslægerådet",
+   "type": "råd",
+   "ministerium": "ingen",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "Lov om retslægerådet (LOV nr. 60 af 25/03/1961), gældende; forretningsorden BEK 1068/2001 (senest ændret 2026).",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/1961/60",
+      "citat": "Lov om retslægerådet. 1961 1961-03-25"
+     }
+    ]
+   },
+   "note": "Lovens og forretningsordenens bestemmelser er ikke tilgængelige i Retsinformations XML; kun metadata kunne hentes, og det er ikke belagt, hvad rådet afgiver eller hvordan det er sammensat. Klagevej og domstolsprøvelse er ikke belagt. Ministerium er sat til ingen, fordi ressort ikke er belagt med en side, der siger det."
+  },
+  {
+   "id": "naevn-indsamlingsnaevnet",
+   "navn": "Indsamlingsnævnet",
+   "type": "nævn",
+   "ministerium": "min-justits",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "Lov om indsamling m.v. § 3, stk. 1: en indsamling kan først iværksættes, når nævnet har givet tilladelse. Forretningsorden BEK 895/2014 § 1: formand og fire andre medlemmer udnævnt af justitsministeren. Nævnet fører tilsyn med indsamlinger (BEK 895/2014 § 3).",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2026/867",
+      "citat": "En indsamling kan først iværksættes, når Indsamlingsnævnet har givet tilladelse til indsamlingen"
+     },
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2014/895",
+      "citat": "Indsamlingsnævnet består af en formand og af fire andre medlemmer, som udnævnes af justitsministeren."
+     }
+    ]
+   },
+   "dokumenttyper": {
+    "liste": [
+     {
+      "type": "tilladelse til indsamling (afslag og tilbagekaldelse)",
+      "bindende": "bindende"
+     },
+     {
+      "type": "endelig administrativ afgørelse (KEN)",
+      "bindende": "bindende",
+      "note": "findes på Retsinformation, jf. katalog; ikke belagt på en side i denne kørsel"
+     }
+    ],
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2026/867",
+      "citat": "En indsamling kan først iværksættes, når Indsamlingsnævnet har givet tilladelse til indsamlingen"
+     }
+    ]
+   },
+   "note": "Ministerium er sat til min-justits med ressortkant, der er belagt med BEK 895/2014: Justitsministeriet stiller sekretariatsbistand til rådighed for nævnet. Klagevej og domstolsprøvelse er ikke belagt; WebSearch-resultater nævnte uafhængighed, men de kunne ikke citeres verbatim."
+  },
+  {
+   "id": "lov-indsamlingsloven",
+   "navn": "Lov om indsamling m.v.",
+   "type": "lov",
+   "ministerium": "min-justits",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "ikke relevant",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2026/867",
+      "citat": "Denne lov finder anvendelse på indsamlinger"
+     }
+    ]
+   },
+   "url": {
+    "vaerdi": "https://www.retsinformation.dk/eli/lta/2026/867",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2026/867",
+      "citat": "Denne lov finder anvendelse på indsamlinger"
+     }
+    ]
+   },
+   "identifikatorer": {
+    "eli": "https://www.retsinformation.dk/eli/lta/2026/867",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2026/867",
+      "citat": "Denne lov finder anvendelse på indsamlinger, hvorved forstås enhver form for opfordring til at yde bidrag til et forud angivet formål."
+     }
+    ]
+   },
+   "note": "Lovbekendtgørelse LBK nr. 867 af 02/10/2026 (gældende ved opslag 12/11/2026, jf. lov-opslag). Ændret ved LOV nr. 764 af 08/09/2026."
+  },
+  {
+   "id": "lov-retslaegeraadet",
+   "navn": "Lov om retslægerådet",
+   "type": "lov",
+   "ministerium": "min-justits",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "ikke relevant",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/1961/60",
+      "citat": "Lov om retslægerådet. 1961 1961-03-25"
+     }
+    ]
+   },
+   "url": {
+    "vaerdi": "https://www.retsinformation.dk/eli/lta/1961/60",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/1961/60",
+      "citat": "Lov om retslægerådet. 1961 1961-03-25"
+     }
+    ]
+   },
+   "identifikatorer": {
+    "eli": "https://www.retsinformation.dk/eli/lta/1961/60",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/1961/60",
+      "citat": "Lov om retslægerådet. 1961 1961-03-25"
+     }
+    ]
+   },
+   "note": "LOV nr. 60 af 25/03/1961, gældende ved opslag (Retsinformation: Valid). Lovtekst ikke tilgængelig i XML; kun metadata."
+  },
+  {
+   "id": "bek-advokatnaevnets-virksomhed",
+   "navn": "Bekendtgørelse om Advokatnævnets virksomhed ved behandling af klager over advokater m.v.",
+   "type": "bekendtgørelse",
+   "ministerium": "min-justits",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "I medfør af retsplejelovens § 144, stk. 3, § 147 c, stk. 7, og § 147 h, stk. 4 (sagsbehandling, sanktioner og valgbarhed); hjemmelsloven henviser til LBK nr. 1160/2024, som nu er afløst af LBK 1298/2025.",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2024/1630",
+      "citat": "I medfør af § 144, stk. 3, § 147 c, stk. 7, og § 147 h, stk. 4, i lov om rettens pleje"
+     }
+    ]
+   },
+   "url": {
+    "vaerdi": "https://www.retsinformation.dk/eli/lta/2024/1630",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2024/1630",
+      "citat": "Bekendtgørelse om Advokatnævnets virksomhed ved behandling af klager over advokater m.v."
+     }
+    ]
+   },
+   "identifikatorer": {
+    "eli": "https://www.retsinformation.dk/eli/lta/2024/1630",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2024/1630",
+      "citat": "Bekendtgørelse om Advokatnævnets virksomhed ved behandling af klager over advokater m.v."
+     }
+    ]
+   },
+   "note": "BEK nr. 1630 af 19/12/2024, gældende ved opslag (Retsinformation: Valid). Ophæver BEK 548/2020 om Advokatnævnets og kredsbestyrelsernes virksomhed (§ 26, stk. 2)."
+  },
+  {
+   "id": "kilde-advokatnaevnet-afgoerelser",
+   "navn": "Advokatnævnets offentliggjorte afgørelser og beretninger",
+   "type": "dokumentkilde",
+   "ministerium": "ingen",
+   "status": "aktiv",
+   "dokumenttyper": {
+    "liste": [
+     {
+      "type": "afgørelse i disciplinærsag (offentliggjort efter skøn)",
+      "bindende": "bindende"
+     },
+     {
+      "type": "årsberetning",
+      "bindende": "ukendt"
+     }
+    ],
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+      "citat": "Nævnet kan offentliggøre afgørelsen."
+     },
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2024/1630",
+      "citat": "Nævnet offentliggør beretningen på sin hjemmeside."
+     }
+    ]
+   },
+   "note": "Offentliggørelse er en kan-regel (§ 147 c), ikke en pligt. Hjemmeside-URL, adgangsform og nummersystem er ikke belagt. Advokatsamfundet.dk har Advokatnævnets årsberetninger som PDF (fundet via WebSearch, ikke læst). Den 2019-retningslinje om offentliggørelse med navn (bøder over 20.000 kr., 12 måneders visning) er ikke verificeret, fordi PDF'en ikke kunne læses."
+  }
+ ],
+ "kanter": [
+  {
+   "from": "min-justits",
+   "type": "ressortansvar",
+   "to": "lov-indsamlingsloven",
+   "beskrivelse": "Loven hører under justitsministeren (Retsinformations ministeriefelt).",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2026/867",
+     "citat": "Denne lov finder anvendelse på indsamlinger"
+    }
+   ]
+  },
+  {
+   "from": "min-justits",
+   "type": "ressortansvar",
+   "to": "lov-retslaegeraadet",
+   "beskrivelse": "Loven hører under Justitsministeriet (Retsinformations ministeriefelt).",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/1961/60",
+     "citat": "Lov om retslægerådet. 1961 1961-03-25"
+    }
+   ]
+  },
+  {
+   "from": "min-justits",
+   "type": "ressortansvar",
+   "to": "bek-advokatnaevnets-virksomhed",
+   "beskrivelse": "Bekendtgørelsen udstedes af Justitsministeriet (Retsinformations ministeriefelt).",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2024/1630",
+     "citat": "Bekendtgørelse om Advokatnævnets virksomhed ved behandling af klager over advokater m.v."
+    }
+   ]
+  },
+  {
+   "from": "min-justits",
+   "type": "ressortansvar",
+   "to": "naevn-indsamlingsnaevnet",
+   "beskrivelse": "Justitsministeriet stiller sekretariat til rådighed og udnævner nævnets medlemmer.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2014/895",
+     "citat": "Justitsministeriet stiller sekretariatsbistand til rådighed for nævnet."
+    }
+   ]
+  },
+  {
+   "from": "lov-retsplejeloven",
+   "type": "hjemmel_for",
+   "to": "org-advokatsamfundet",
+   "beskrivelse": "§ 143, stk. 1: Advokatsamfundet udgøres af alle danske advokater.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+     "citat": "Det Danske Advokatsamfund udgøres af alle danske advokater."
+    }
+   ]
+  },
+  {
+   "from": "lov-retsplejeloven",
+   "type": "hjemmel_for",
+   "to": "raad-advokatraadet",
+   "beskrivelse": "§ 143, stk. 2: Advokatrådet fører tilsyn med advokaterne og kan indklage dem for Advokatnævnet.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+     "citat": "Advokatrådet, der er Advokatsamfundets bestyrelse, fører tilsyn med advokaterne og deres autoriserede fuldmægtige."
+    }
+   ]
+  },
+  {
+   "from": "lov-retsplejeloven",
+   "type": "hjemmel_for",
+   "to": "naevn-advokatnaevnet",
+   "beskrivelse": "§ 144: Advokatsamfundet opretter Advokatnævnet.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+     "citat": "Advokatsamfundet opretter et Advokatnævn."
+    }
+   ]
+  },
+  {
+   "from": "bek-advokatnaevnets-virksomhed",
+   "type": "hjemmel_for",
+   "to": "naevn-advokatnaevnet",
+   "beskrivelse": "BEK 1630/2024 fastsætter Advokatnævnets virksomhed, herunder afdelinger (§ 2).",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2024/1630",
+     "citat": "Advokatnævnet kan virke samlet eller i afdelinger."
+    }
+   ]
+  },
+  {
+   "from": "lov-retsplejeloven",
+   "type": "hjemmel_for",
+   "to": "dom-soe-og-handelsretten",
+   "beskrivelse": "§ 14: Sø- og Handelsretten har sæde i København og består af en præsident og dommere.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+     "citat": "Sø- og Handelsretten, der har sit sæde i København, består af en præsident"
+    }
+   ]
+  },
+  {
+   "from": "lov-retsplejeloven",
+   "type": "hjemmel_for",
+   "to": "dom-tinglysningsretten",
+   "beskrivelse": "§ 18: Tinglysningsretten har sæde i Hobro og varetager tinglysningen for hele landet.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+     "citat": "Tinglysningsretten, der har sit sæde i Hobro, består af en præsident og 1 anden dommer."
+    }
+   ]
+  },
+  {
+   "from": "lov-retsplejeloven",
+   "type": "hjemmel_for",
+   "to": "raad-dommerudnaevnelsesraadet",
+   "beskrivelse": "§ 43 a opretter rådet, som indstiller dommere til justitsministeren.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+     "citat": "Der oprettes et dommerudnævnelsesråd, som afgiver indstilling til justitsministeren om besættelse af stillinger som"
+    }
+   ]
+  },
+  {
+   "from": "lov-retsplejeloven",
+   "type": "hjemmel_for",
+   "to": "dom-den-saerlige-klageret",
+   "beskrivelse": "§ 1 a: Den Særlige Klageret behandler de sager, der er opregnet i bestemmelsen.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+     "citat": "Den Særlige Klageret behandler og påkender"
+    }
+   ]
+  },
+  {
+   "from": "lov-retslaegeraadet",
+   "type": "hjemmel_for",
+   "to": "raad-retslaegeraadet",
+   "beskrivelse": "Loven om retslægerådet er hjemlen for rådet. Lovteksten er ikke hentet, kun titlen er belagt.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/1961/60",
+     "citat": "Lov om retslægerådet. 1961 1961-03-25"
+    }
+   ]
+  },
+  {
+   "from": "lov-indsamlingsloven",
+   "type": "hjemmel_for",
+   "to": "naevn-indsamlingsnaevnet",
+   "beskrivelse": "§ 3, stk. 1: en indsamling kræver nævnets tilladelse.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2026/867",
+     "citat": "En indsamling kan først iværksættes, når Indsamlingsnævnet har givet tilladelse til indsamlingen"
+    }
+   ]
+  },
+  {
+   "from": "dom-landsretterne",
+   "type": "klageinstans",
+   "to": "dom-soe-og-handelsretten",
+   "beskrivelse": "Landsretten behandler anke af Sø- og Handelsrettens domme efter § 368, stk. 4.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+     "citat": "Domme, der er afsagt af Sø- og Handelsretten, kan af parterne ankes til Højesteret eller landsret."
+    }
+   ]
+  },
+  {
+   "from": "dom-hoejesteret",
+   "type": "klageinstans",
+   "to": "dom-soe-og-handelsretten",
+   "beskrivelse": "Højesteret kan behandle anke af Sø- og Handelsrettens domme efter § 368, stk. 4 (alternativ til landsret).",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+     "citat": "Domme, der er afsagt af Sø- og Handelsretten, kan af parterne ankes til Højesteret eller landsret."
+    }
+   ]
+  },
+  {
+   "from": "dom-landsretterne",
+   "type": "klageinstans",
+   "to": "dom-tinglysningsretten",
+   "beskrivelse": "Landsretten behandler anke af Tinglysningsrettens domme i mortifikations- og ejendomsdomssager (§ 6).",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+     "citat": "Tinglysningsrettens domme i sager om mortifikation og ejendomsdom kan ankes til landsretten"
+    }
+   ]
+  },
+  {
+   "from": "dom-domstolene",
+   "type": "klageinstans",
+   "to": "naevn-advokatnaevnet",
+   "beskrivelse": "Domstolsprøvelse af Advokatnævnets irettesættelse eller bøde efter retsplejelovens § 147 d (indbringes af advokaten inden 4 uger); frakendelse efter § 147 e.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+     "citat": "Advokatnævnets afgørelse efter § 147 c, stk. 1 og 2, kan indbringes for retten af advokaten"
+    }
+   ]
+  },
+  {
+   "from": "naevn-advokatnaevnet",
+   "type": "udsteder",
+   "to": "kilde-advokatnaevnet-afgoerelser",
+   "beskrivelse": "Nævnet kan offentliggøre sine afgørelser, herunder i disciplinærsager; hvor og hvordan er ikke belagt.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+     "citat": "Nævnet kan offentliggøre afgørelsen."
+    }
+   ]
+  }
+ ],
+ "rettelser": [],
+ "huller": [
+  {
+   "emne": "Advokatnævnets publikationspraksis og hjemmeside",
+   "type": "uklart",
+   "beskrivelse": "Retsplejeloven § 147 c giver kun en kan-regel. Hvor afgørelserne står, hvilke der offentliggøres, og hvor længe, er ikke belagt. En WebSearch fandt en 2019-retningslinje (bøder på 20.000 kr. eller derover, fjernes efter 12 måneder); den kunne ikke læses, og den kan være forældet.",
+   "noder": [
+    "naevn-advokatnaevnet",
+    "kilde-advokatnaevnet-afgoerelser"
+   ],
+   "kilder": [
+    "https://www.advokatsamfundet.dk/media/043p31ig/retningslinjer-for-offentliggørelse-af-advokatnæ-vnets-afgørelser-med-advokatens-navn-august-2019.pdf"
+   ]
+  },
+  {
+   "emne": "Hjemmesider for Advokatsamfundet, Advokatrådet og Advokatnævnet",
+   "type": "ikke-fundet",
+   "beskrivelse": "Ingen af de tre instansers egne hjemmesider er fundet og læst. BEK 1630/2024 henviser til nævnets hjemmeside, men ingen URL er belagt.",
+   "noder": [
+    "org-advokatsamfundet",
+    "raad-advokatraadet",
+    "naevn-advokatnaevnet"
+   ],
+   "kilder": []
+  },
+  {
+   "emne": "Advokatrådets tilsynsobjekt og indklagelsesrelation",
+   "type": "andet",
+   "beskrivelse": "Tilsynet over advokater og indklagelsen til Advokatnævnet kan ikke udtrykkes med kanttyperne, fordi advokater ikke er en node. Kæden er derfor kun dokumenteret i noderne, ikke som kant.",
+   "noder": [
+    "raad-advokatraadet",
+    "naevn-advokatnaevnet"
+   ],
+   "kilder": []
+  },
+  {
+   "emne": "Lovtekst for Retslægerådet og dets forretningsorden",
+   "type": "uklart",
+   "beskrivelse": "Retsinformations XML for LOV 60/1961 og BEK 1068/2001 indeholder kun metadata. Operative bestemmelser, sammensætning og hjemmel kan ikke citeres i denne kørsel.",
+   "noder": [
+    "raad-retslaegeraadet",
+    "lov-retslaegeraadet"
+   ],
+   "kilder": [
+    "https://www.retsinformation.dk/eli/lta/1961/60",
+    "https://www.retsinformation.dk/eli/lta/2001/1068"
+   ]
+  },
+  {
+   "emne": "Dommerudnævnelsesrådets forretningsorden og redegørelse",
+   "type": "ikke-fundet",
+   "beskrivelse": "BEK 589/1999 har kun metadata i XML, og rådets årlige redegørelse er ikke fundet online. Det er ikke belagt, hvor den publiceres.",
+   "noder": [
+    "raad-dommerudnaevnelsesraadet"
+   ],
+   "kilder": [
+    "https://www.retsinformation.dk/eli/lta/1999/589"
+   ]
+  },
+  {
+   "emne": "Sø- og Handelsrettens og Tinglysningsrettens egne sider og afgørelsespraksis",
+   "type": "ikke-fundet",
+   "beskrivelse": "Ingen URL, adgangsform eller afgørelsesdatabase er belagt. Sø- og Handelsrettens og Tinglysningsrettens afgørelser findes muligvis i Domsdatabasen, men det er ikke kontrolleret her.",
+   "noder": [
+    "dom-soe-og-handelsretten",
+    "dom-tinglysningsretten"
+   ],
+   "kilder": [
+    "https://www.domstol.dk/"
+   ]
+  },
+  {
+   "emne": "Den Særlige Klageret: url og afgørelsespraksis",
+   "type": "ikke-fundet",
+   "beskrivelse": "Klageretten har ingen belagt URL eller offentlig afgørelsesdatabase.",
+   "noder": [
+    "dom-den-saerlige-klageret"
+   ],
+   "kilder": []
+  },
+  {
+   "emne": "Indsamlingsnævnets klagevej og afgørelsesdatabase",
+   "type": "uklart",
+   "beskrivelse": "Klagevej og domstolsprøvelse er ikke belagt. Afgørelser ligger på Retsinformation (KEN), men det er ikke kontrolleret, om de er offentliggjort efter en fast praksis.",
+   "noder": [
+    "naevn-indsamlingsnaevnet"
+   ],
+   "kilder": [
+    "https://www.retsinformation.dk/eli/lta/2026/867"
+   ]
+  }
+ ],
+ "noter": "Kæden er: lov-retsplejeloven (LBK 1298/2025, gældende, ELI https://www.retsinformation.dk/eli/lta/2025/1298) bærer tilsynet (§ 143), Advokatnævnet (§ 144, BEK 1630/2024), sanktioner (§ 147 c) og domstolsprøvelse (§ 147 a, d, e). Registry'et havde lov-retsplejeloven med identifikatoren 'ELI for LBK 1298/2025 er ikke set'; den ELI er nu set i Retsinformation, så noden kan opdateres. Registry-fejl: dom-hoejesteret siger, at Højesteret behandler sager fra Sø- og Handelsretten; § 368, stk. 4 giver valget mellem Højesteret og landsret, så teksten er upræcis. Registry'et mangler også kilde-advokatnaevnet-afgoerelser og naevn-advokatnaevnet, som er nye. Kredsbestyrelser er historiske (BEK 548/2020 ophævet ved BEK 1630/2024 § 26). Sanktionerede afgørelser sendes til Civilstyrelsen (BEK 1630/2024 § 24, stk. 4), men der er ingen kanttype for det, så det er dokumenteret i noten. Ikke fundet: Retslægerådets og Dommerudnævnelsesrådets forretningsorder i læsbar form, Advokatnævnets offentliggørelsesside, instansernes URL'er, Tinglysningsrettens egen kæreregel i § 6 (teksten står efter et blødt bindestreg)."
+}

@@ -1,0 +1,839 @@
+{
+ "omraade": "digitalisering-tele",
+ "noder": [
+  {
+   "id": "sty-digitaliseringsstyrelsen",
+   "navn": "Digitaliseringsstyrelsen",
+   "type": "styrelse",
+   "ministerium": "min-forskning-uddannelse-og-digitalisering",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "Tilsynskompetence over teleudbydere (teleloven § 20), tilsyn efter frekvensloven (§ 41), MitID-løsningen (MitID-loven § 3) og dataansvar for Digital Post (§ 2). Ingen oprettelseslov set.",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/681",
+      "citat": "Digitaliseringsstyrelsen fører tilsyn med overholdelse af reglerne i §§ 3-6, § 10, stk. 1 og 2, og §§ 11 og 14-19 og regler og vilkår udstedt i medfør heraf."
+     },
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2026/119",
+      "citat": "Digitaliseringsstyrelsen fører tilsyn med overholdelse af loven og af regler og vilkår, der er fastsat i medfør af loven."
+     },
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/333",
+      "citat": "Digitaliseringsstyrelsen stiller MitID-løsningen til rådighed for offentlige myndigheder, offentligretlige organer og juridiske enheder."
+     }
+    ]
+   },
+   "dokumenttyper": {
+    "liste": [
+     {
+      "type": "afgørelse (tilsyn)",
+      "bindende": "bindende",
+      "note": "Afgørelser efter tilsynskompetencen i teleloven § 20 og frekvensloven § 41. Hvor og i hvilken form de offentliggøres, er ikke fundet."
+     }
+    ],
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/681",
+      "citat": "Digitaliseringsstyrelsen fører tilsyn med overholdelse af reglerne i §§ 3-6, § 10, stk. 1 og 2, og §§ 11 og 14-19 og regler og vilkår udstedt i medfør heraf."
+     }
+    ]
+   },
+   "url": {
+    "vaerdi": "https://digst.dk/om-os/om-digitaliseringsstyrelsen/",
+    "belaeg": [
+     {
+      "url": "https://digst.dk/om-os/om-digitaliseringsstyrelsen/",
+      "citat": "Digitaliseringsstyrelsen er en styrelse under Forsknings-, Uddannelses- og Digitaliseringsministeriet"
+     }
+    ]
+   },
+   "note": "Tele- og bredbåndsopgaver flyttet fra SDFI til Digitaliseringsstyrelsen pr. 29/8/2024 (teleloven, kongelig resolution). Teleloven § 20 og frekvensloven § 41 giver tilsynet. Teleloven § 69 og § 70 (klage til Teleklagenævnet) gælder Erhvervsstyrelsens afgørelser; Erhvervsstyrelsen har kapitel 11-14 og 16-18. Digitaliseringsstyrelsen er også kompetent myndighed for DNS- og topdomæneudbydere under NIS 2 (BEK 620/2025 § 6), se hul. Ikke set: klageinstans for Digitaliseringsstyrelsens egne afgørelser."
+  },
+  {
+   "id": "naevn-teleklagenaevnet",
+   "navn": "Teleklagenævnet",
+   "type": "klagenævn",
+   "ministerium": "min-erhverv",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "Erhvervsministeren nedsætter nævnet (teleloven § 68). Nævnet behandler sager, der ved lov eller regler er henlagt til det (§ 70 stk. 1).",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/681",
+      "citat": "Erhvervsministeren nedsætter et Teleklagenævn."
+     },
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/681",
+      "citat": "Teleklagenævnet behandler sager, som ved lov eller regler udstedt i medfør heraf er henlagt til nævnet."
+     }
+    ]
+   },
+   "dokumenttyper": {
+    "liste": [
+     {
+      "type": "afgørelse",
+      "bindende": "bindende",
+      "note": "Endelig administrativ afgørelse (BEK 383/2011 § 1). Kan indbringes for domstolene inden 8 uger (teleloven § 71 stk. 2)."
+     }
+    ],
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2011/383",
+      "citat": "Teleklagenævnet træffer endelig administrativ afgørelse i sager, som ved lov eller regler udstedt i medfør heraf er henlagt til nævnet."
+     },
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/681",
+      "citat": "Teleklagenævnets afgørelse kan indbringes for domstolene, senest 8 uger efter at afgørelsen er meddelt den pågældende."
+     }
+    ]
+   },
+   "url": {
+    "vaerdi": "https://naevneneshus.dk/start-din-klage/teleklagenaevnet/",
+    "belaeg": [
+     {
+      "url": "https://naevneneshus.dk/start-din-klage/teleklagenaevnet/",
+      "citat": "Det er primært erhvervsdrivende, der kan klage."
+     }
+    ]
+   },
+   "note": "Nævnets side (naevneneshus.dk) siger, at nævnet behandler klager over Erhvervsstyrelsens og Energistyrelsens afgørelser. Teleloven § 69 nævner kun Erhvervsstyrelsen; Energistyrelsen er ikke belagt, se hul. Klagefrist fire uger (BEK 383/2011 § 2 stk. 1). Ressort: Erhvervsministeriet siden 1/1/2017; BEK 383 er i Retsinformation under Erhvervsministeriet. Teleankenævnet er et andet nævn for forbrugere."
+  },
+  {
+   "id": "naevn-teleankenaevnet",
+   "navn": "Teleankenævnet",
+   "type": "nævn",
+   "ministerium": "ingen",
+   "status": "aktiv",
+   "url": {
+    "vaerdi": "https://www.teleanke.dk/",
+    "belaeg": [
+     {
+      "url": "https://www.teleanke.dk/",
+      "citat": "Teleankenævnet er et uafhængigt godkendt forbrugerklagenævn der behandler klager på teleområdet"
+     }
+    ]
+   },
+   "note": "Privat forbrugerklagenævn, godkendt under Nævnenes Hus (ordning efter forbrugerklageloven), ikke et statsligt nævn. Teleloven LBK 681/2025 nævner ikke Teleankenævnet (tekstsøgning uden træf). Teleankenævnets hjemmel er derfor ikke belagt, se hul. Det hører ikke under Teleklagenævnet."
+  },
+  {
+   "id": "org-teleudbydere",
+   "navn": "Udbydere af elektroniske kommunikationsnet og -tjenester (teleudbydere)",
+   "type": "privat-organisation",
+   "ministerium": "ingen",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "Tilsynsobjekt for Digitaliseringsstyrelsen efter teleloven § 20. Udbydere af offentlige elektroniske kommunikationsnet eller -tjenester.",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/681",
+      "citat": "udbyderne af offentlige elektroniske kommunikationsnet eller -tjenester stilles, som om den endelige afgørelse havde haft virkning"
+     }
+    ]
+   },
+   "note": "Samlebetegnelse for en gruppe, ikke en organisation. Ingen url eller dokumenttyper belagt; se hul."
+  },
+  {
+   "id": "kilde-teleklagenaevn-afgoerelser",
+   "navn": "Teleklagenævnets afgørelsesportal",
+   "type": "dokumentkilde",
+   "ministerium": "min-erhverv",
+   "status": "aktiv",
+   "dokumenttyper": {
+    "liste": [
+     {
+      "type": "afgørelse",
+      "bindende": "bindende",
+      "note": "Afgørelser i fuld længde fra Teleklagenævnet. Adgangsform og nummersystem er ikke verificeret."
+     }
+    ],
+    "belaeg": [
+     {
+      "url": "https://naevneneshus.dk/start-din-klage/teleklagenaevnet/",
+      "citat": "Her finder du afgørelser fra nævnet."
+     }
+    ]
+   },
+   "note": "Portalen tele.naevneneshus.dk har kun overskriften 'Afgørelsesportal' i den hentede side. Derfor er url ikke belagt. Afgørelsernes adgangsform, licens og sagsnummer er ikke læst, se hul."
+  },
+  {
+   "id": "lov-teleloven",
+   "navn": "Lov om elektroniske kommunikationsnet og -tjenester (teleloven)",
+   "type": "lov",
+   "ministerium": "min-forskning-uddannelse-og-digitalisering",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "ikke relevant",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/681",
+      "citat": "Bekendtgørelse af lov om elektroniske kommunikationsnet og -tjenester"
+     }
+    ]
+   },
+   "url": {
+    "vaerdi": "https://www.retsinformation.dk/eli/lta/2025/681",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/681",
+      "citat": "Bekendtgørelse af lov om elektroniske kommunikationsnet og -tjenester"
+     }
+    ]
+   },
+   "identifikatorer": {
+    "eli": "https://www.retsinformation.dk/eli/lta/2025/681",
+    "lovtidende": "LBK nr. 681 af 16/06/2025",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/681",
+      "citat": "Bekendtgørelse af lov om elektroniske kommunikationsnet og -tjenester"
+     }
+    ]
+   },
+   "note": "Gældende lovbekendtgørelse. Implementerer EECC (2018/1972), ifølge Retsinformation. Afsnit VII om Teleklagenævnet i §§ 68-72."
+  },
+  {
+   "id": "bek-teleklagenaevnets-virksomhed",
+   "navn": "Bekendtgørelse om Teleklagenævnets virksomhed",
+   "type": "bekendtgørelse",
+   "ministerium": "min-erhverv",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "Teleloven § 69 stk. 1 (dengang lov nr. 169 af 3. marts 2011; i dag LBK 681/2025).",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2011/383",
+      "citat": "I medfør af § 69, stk. 1, i lov nr. 169 af 3. marts 2011 om elektroniske kommunikationsnet og -tjenester fastsættes:"
+     }
+    ]
+   },
+   "url": {
+    "vaerdi": "https://www.retsinformation.dk/eli/lta/2011/383",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2011/383",
+      "citat": "Bekendtgørelse om Teleklagenævnets virksomhed"
+     }
+    ]
+   },
+   "identifikatorer": {
+    "eli": "https://www.retsinformation.dk/eli/lta/2011/383",
+    "lovtidende": "BEK nr. 383 af 21/04/2011",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2011/383",
+      "citat": "Bekendtgørelse om Teleklagenævnets virksomhed"
+     }
+    ]
+   },
+   "note": "Indeholder klagefrist (§ 2 stk. 1: fire uger), endelig administrativ afgørelse (§ 1) og klagegebyr (§ 3: 4.000 kr., 150 kr. for private)."
+  },
+  {
+   "id": "lov-radiofrekvenser",
+   "navn": "Lov om radiofrekvenser (frekvensloven)",
+   "type": "lov",
+   "ministerium": "min-forskning-uddannelse-og-digitalisering",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "ikke relevant",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2026/119",
+      "citat": "Bekendtgørelse af lov om radiofrekvenser"
+     }
+    ]
+   },
+   "url": {
+    "vaerdi": "https://www.retsinformation.dk/eli/lta/2026/119",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2026/119",
+      "citat": "Bekendtgørelse af lov om radiofrekvenser"
+     }
+    ]
+   },
+   "identifikatorer": {
+    "eli": "https://www.retsinformation.dk/eli/lta/2026/119",
+    "lovtidende": "LBK nr. 119 af 21/01/2026",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2026/119",
+      "citat": "Bekendtgørelse af lov om radiofrekvenser"
+     }
+    ]
+   },
+   "note": "Gennemfører dele af EECC (2018/1972), ifølge Retsinformation. Tilsyn i § 41 hos Digitaliseringsstyrelsen. Udstedt af Digitaliseringsstyrelsen (j.nr. 2026-471) under Digitaliseringsministeriet før 3/6/2026."
+  },
+  {
+   "id": "lov-mitid",
+   "navn": "Lov om MitID og NemLog-in",
+   "type": "lov",
+   "ministerium": "min-forskning-uddannelse-og-digitalisering",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "ikke relevant",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/333",
+      "citat": "Bekendtgørelse af lov om MitID og NemLog-in"
+     }
+    ]
+   },
+   "url": {
+    "vaerdi": "https://www.retsinformation.dk/eli/lta/2025/333",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/333",
+      "citat": "Bekendtgørelse af lov om MitID og NemLog-in"
+     }
+    ]
+   },
+   "identifikatorer": {
+    "eli": "https://www.retsinformation.dk/eli/lta/2025/333",
+    "lovtidende": "LBK nr. 333 af 19/03/2025",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/333",
+      "citat": "Bekendtgørelse af lov om MitID og NemLog-in"
+     }
+    ]
+   },
+   "note": "Forløber: lov nr. 783 af 4. maj 2021 om MitID og NemLog-in (ifølge teksten). Digitaliseringsstyrelsen stiller MitID til rådighed og forvalter den."
+  },
+  {
+   "id": "lov-digital-post",
+   "navn": "Lov om Digital Post fra offentlige afsendere",
+   "type": "lov",
+   "ministerium": "min-forskning-uddannelse-og-digitalisering",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "ikke relevant",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2021/686",
+      "citat": "Bekendtgørelse af lov om Digital Post fra offentlige afsendere"
+     }
+    ]
+   },
+   "url": {
+    "vaerdi": "https://www.retsinformation.dk/eli/lta/2021/686",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2021/686",
+      "citat": "Bekendtgørelse af lov om Digital Post fra offentlige afsendere"
+     }
+    ]
+   },
+   "identifikatorer": {
+    "eli": "https://www.retsinformation.dk/eli/lta/2021/686",
+    "lovtidende": "LBK nr. 686 af 15/04/2021",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2021/686",
+      "citat": "Bekendtgørelse af lov om Digital Post fra offentlige afsendere"
+     }
+    ]
+   },
+   "note": "Ændret 2020/2021 med hjemtagelse til Digitaliseringsstyrelsen af dataansvar og beslutningskompetence for Digital Post. Tilsyn med Digital Post: ikke set."
+  },
+  {
+   "id": "lov-nis2",
+   "navn": "Lov om foranstaltninger til sikring af et højt cybersikkerhedsniveau (NIS 2-loven)",
+   "type": "lov",
+   "ministerium": "min-samfundssikkerhed-og-beredskab",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "ikke relevant",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/434",
+      "citat": "Lov om foranstaltninger til sikring af et højt cybersikkerhedsniveau (NIS 2-loven)"
+     }
+    ]
+   },
+   "url": {
+    "vaerdi": "https://www.retsinformation.dk/eli/lta/2025/434",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/434",
+      "citat": "Lov om foranstaltninger til sikring af et højt cybersikkerhedsniveau (NIS 2-loven)"
+     }
+    ]
+   },
+   "identifikatorer": {
+    "eli": "https://www.retsinformation.dk/eli/lta/2025/434",
+    "lovtidende": "LOV nr. 434 af 06/05/2025",
+    "andet": "Gennemfører direktiv (EU) 2022/2555",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/434",
+      "citat": "Loven gennemfører Europa-Parlamentets og Rådets direktiv (EU) 2022/2555"
+     }
+    ]
+   },
+   "note": "Kompetente myndigheder udpeges i BEK nr. 620/2025 (Styrelsen for Samfundssikkerhed, Sundhedsdatastyrelsen, Digitaliseringsstyrelsen m.fl.). CFCS' placering: se hul."
+  },
+  {
+   "id": "lov-telesektoren-sikkerhed",
+   "navn": "Lov om sikkerhed og beredskab i telesektoren",
+   "type": "lov",
+   "ministerium": "min-samfundssikkerhed-og-beredskab",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "ikke relevant",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/435",
+      "citat": "Lov om sikkerhed og beredskab i telesektoren"
+     }
+    ]
+   },
+   "url": {
+    "vaerdi": "https://www.retsinformation.dk/eli/lta/2025/435",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/435",
+      "citat": "Lov om sikkerhed og beredskab i telesektoren"
+     }
+    ]
+   },
+   "identifikatorer": {
+    "eli": "https://www.retsinformation.dk/eli/lta/2025/435",
+    "lovtidende": "LOV nr. 435 af 06/05/2025",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2025/435",
+      "citat": "Lov om sikkerhed og beredskab i telesektoren"
+     }
+    ]
+   },
+   "note": "Implementerer EECC (2018/1972) og NIS 2 (2022/2555), ifølge Retsinformation. Styrelsen for Samfundssikkerhed er myndighed."
+  },
+  {
+   "id": "eu-dir-2022-2555",
+   "navn": "Europa-Parlamentets og Rådets direktiv (EU) 2022/2555 (NIS 2-direktivet)",
+   "type": "eu-direktiv",
+   "ministerium": "ingen",
+   "status": "aktiv",
+   "url": {
+    "vaerdi": "https://eur-lex.europa.eu/eli/dir/2022/2555/oj",
+    "belaeg": [
+     {
+      "url": "https://eur-lex.europa.eu/eli/dir/2022/2555/oj",
+      "citat": "Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December 2022 on measures for a high common"
+     }
+    ]
+   },
+   "identifikatorer": {
+    "celex": "32022L2555",
+    "belaeg": [
+     {
+      "url": "https://eur-lex.europa.eu/eli/dir/2022/2555/oj",
+      "citat": "Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December 2022"
+     }
+    ]
+   }
+  }
+ ],
+ "kanter": [
+  {
+   "from": "min-forskning-uddannelse-og-digitalisering",
+   "type": "ressortansvar",
+   "to": "sty-digitaliseringsstyrelsen",
+   "beskrivelse": "Digitaliseringsstyrelsen hører under Forsknings-, Uddannelses- og Digitaliseringsministeriet.",
+   "belaeg": [
+    {
+     "url": "https://digst.dk/om-os/om-digitaliseringsstyrelsen/",
+     "citat": "Digitaliseringsstyrelsen er en styrelse under Forsknings-, Uddannelses- og Digitaliseringsministeriet"
+    }
+   ]
+  },
+  {
+   "from": "min-forskning-uddannelse-og-digitalisering",
+   "type": "ressortansvar",
+   "to": "lov-teleloven",
+   "beskrivelse": "Ressortansvaret for teleloven er overført til Digitaliseringsministeriet i 2024; Digitaliseringsministeriet er lagt ind i Forsknings-, Uddannelses- og Digitaliseringsministeriet pr. 3/6/2026.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2025/681",
+     "citat": "blev ressortansvaret for lov om elektroniske kommunikationsnet og -tjenester (teleloven), bortset fra de opgaver, der efter telelovens kapitel 11-14 og 16-18 varetages af Erhvervsstyrelsen, overført fra Klima-, Energi- og Forsyningsministeriet til Digitaliseringsministeriet"
+    },
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2026/514",
+     "citat": "Digitaliseringsministeriet nedlægges, således at de til dette ministerium hørende forretninger overføres til Uddannelses- og Forskningsministeriet"
+    }
+   ]
+  },
+  {
+   "from": "min-forskning-uddannelse-og-digitalisering",
+   "type": "ressortansvar",
+   "to": "lov-radiofrekvenser",
+   "beskrivelse": "Retsinformation fører loven under Forsknings-, Uddannelses- og Digitaliseringsministeriet.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2026/119",
+     "citat": "Bekendtgørelse af lov om radiofrekvenser"
+    }
+   ]
+  },
+  {
+   "from": "min-forskning-uddannelse-og-digitalisering",
+   "type": "ressortansvar",
+   "to": "lov-radioudstyrsloven",
+   "beskrivelse": "Retsinformation fører radioudstyrsloven under Forsknings-, Uddannelses- og Digitaliseringsministeriet. Kanten manglede i registry.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2022/958",
+     "citat": "Bekendtgørelse af lov om radioudstyr og elektromagnetiske forhold"
+    }
+   ]
+  },
+  {
+   "from": "min-forskning-uddannelse-og-digitalisering",
+   "type": "ressortansvar",
+   "to": "lov-mitid",
+   "beskrivelse": "Retsinformation fører loven under Forsknings-, Uddannelses- og Digitaliseringsministeriet.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2025/333",
+     "citat": "Bekendtgørelse af lov om MitID og NemLog-in"
+    }
+   ]
+  },
+  {
+   "from": "min-forskning-uddannelse-og-digitalisering",
+   "type": "ressortansvar",
+   "to": "lov-digital-post",
+   "beskrivelse": "Retsinformation fører loven under Forsknings-, Uddannelses- og Digitaliseringsministeriet.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2021/686",
+     "citat": "Bekendtgørelse af lov om Digital Post fra offentlige afsendere"
+    }
+   ]
+  },
+  {
+   "from": "min-erhverv",
+   "type": "ressortansvar",
+   "to": "naevn-teleklagenaevnet",
+   "beskrivelse": "Ressortansvaret for Teleklagenævnet er overført til Erhvervsministeriet pr. 1/1/2017.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2025/681",
+     "citat": "blev ressortansvaret for Teleklagenævnet, herunder afsnit VII i lov om elektroniske kommunikationsnet og -tjenester, pr. 1. januar 2017 overført fra Klima-, Energi- og Forsyningsministeriet til Erhvervsministeriet"
+    }
+   ]
+  },
+  {
+   "from": "min-samfundssikkerhed-og-beredskab",
+   "type": "ressortansvar",
+   "to": "lov-nis2",
+   "beskrivelse": "Retsinformation fører NIS 2-loven under Ministeriet for Samfundssikkerhed og Beredskab.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2025/434",
+     "citat": "Lov om foranstaltninger til sikring af et højt cybersikkerhedsniveau (NIS 2-loven)"
+    }
+   ]
+  },
+  {
+   "from": "min-samfundssikkerhed-og-beredskab",
+   "type": "ressortansvar",
+   "to": "lov-telesektoren-sikkerhed",
+   "beskrivelse": "Retsinformation fører loven om sikkerhed og beredskab i telesektoren under Ministeriet for Samfundssikkerhed og Beredskab.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2025/435",
+     "citat": "Lov om sikkerhed og beredskab i telesektoren"
+    }
+   ]
+  },
+  {
+   "from": "lov-teleloven",
+   "type": "hjemmel_for",
+   "to": "naevn-teleklagenaevnet",
+   "beskrivelse": "Teleloven § 68 nedsætter nævnet, § 70 henlægger sager til det.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2025/681",
+     "citat": "Erhvervsministeren nedsætter et Teleklagenævn."
+    }
+   ]
+  },
+  {
+   "from": "lov-teleloven",
+   "type": "hjemmel_for",
+   "to": "bek-teleklagenaevnets-virksomhed",
+   "beskrivelse": "BEK 383/2011 er udstedt efter teleloven § 69 stk. 1 (dengang lov nr. 169 af 2011).",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2011/383",
+     "citat": "I medfør af § 69, stk. 1, i lov nr. 169 af 3. marts 2011 om elektroniske kommunikationsnet og -tjenester fastsættes:"
+    }
+   ]
+  },
+  {
+   "from": "lov-teleloven",
+   "type": "hjemmel_for",
+   "to": "sty-digitaliseringsstyrelsen",
+   "beskrivelse": "Teleloven § 20 giver Digitaliseringsstyrelsen tilsynet med teleudbydere.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2025/681",
+     "citat": "Digitaliseringsstyrelsen fører tilsyn med overholdelse af reglerne i §§ 3-6, § 10, stk. 1 og 2, og §§ 11 og 14-19 og regler og vilkår udstedt i medfør heraf."
+    }
+   ]
+  },
+  {
+   "from": "lov-radiofrekvenser",
+   "type": "hjemmel_for",
+   "to": "sty-digitaliseringsstyrelsen",
+   "beskrivelse": "Frekvensloven § 41 giver Digitaliseringsstyrelsen tilsynet med loven.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2026/119",
+     "citat": "Digitaliseringsstyrelsen fører tilsyn med overholdelse af loven og af regler og vilkår, der er fastsat i medfør af loven."
+    }
+   ]
+  },
+  {
+   "from": "lov-mitid",
+   "type": "hjemmel_for",
+   "to": "sty-digitaliseringsstyrelsen",
+   "beskrivelse": "MitID-loven § 3 og § 4 giver Digitaliseringsstyrelsen tilrådighedsstillelse og forvaltning af MitID.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2025/333",
+     "citat": "Digitaliseringsstyrelsen stiller MitID-løsningen til rådighed for offentlige myndigheder, offentligretlige organer og juridiske enheder."
+    }
+   ]
+  },
+  {
+   "from": "lov-digital-post",
+   "type": "hjemmel_for",
+   "to": "sty-digitaliseringsstyrelsen",
+   "beskrivelse": "Digitaliseringsstyrelsen er dataansvarlig for Digital Post.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2021/686",
+     "citat": "Digitaliseringsstyrelsen er dataansvarlig for Digital Post, jf. § 2."
+    }
+   ]
+  },
+  {
+   "from": "naevn-teleklagenaevnet",
+   "type": "klageinstans",
+   "to": "sty-erhvervsstyrelsen",
+   "beskrivelse": "Teleklagenævnet behandler klager over Erhvervsstyrelsens afgørelser (teleloven § 69 stk. 1 nr. 2, § 70 stk. 2). Klagefrist fire uger (BEK 383/2011 § 2 stk. 1). Afgørelsen er endelig administrativt; domstolene inden 8 uger (teleloven § 71).",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2025/681",
+     "citat": "klager over en afgørelse, som Erhvervsstyrelsen har truffet, skal indgives til Teleklagenævnet inden for nærmere fastsatte tidsfrister"
+    },
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2011/383",
+     "citat": "En klage, der indbringes for Teleklagenævnet, skal være modtaget i nævnet senest fire uger efter, at den afgørelse, der klages over, er truffet."
+    }
+   ]
+  },
+  {
+   "from": "naevn-teleklagenaevnet",
+   "type": "udsteder",
+   "to": "kilde-teleklagenaevn-afgoerelser",
+   "beskrivelse": "Nævnet offentliggør sine afgørelser på tele.naevneneshus.dk.",
+   "belaeg": [
+    {
+     "url": "https://naevneneshus.dk/start-din-klage/teleklagenaevnet/",
+     "citat": "Her finder du afgørelser fra nævnet."
+    }
+   ]
+  },
+  {
+   "from": "sty-digitaliseringsstyrelsen",
+   "type": "tilsyn",
+   "to": "org-teleudbydere",
+   "beskrivelse": "Tilsyn med teleudbydere efter teleloven § 20.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2025/681",
+     "citat": "Digitaliseringsstyrelsen fører tilsyn med overholdelse af reglerne i §§ 3-6, § 10, stk. 1 og 2, og §§ 11 og 14-19 og regler og vilkår udstedt i medfør heraf."
+    }
+   ]
+  },
+  {
+   "from": "sty-naevnenes-hus",
+   "type": "tilsyn",
+   "to": "naevn-teleankenaevnet",
+   "beskrivelse": "Nævnenes Hus fører tilsyn med de godkendte private ankenævn, herunder Teleankenævnet.",
+   "belaeg": [
+    {
+     "url": "https://naevneneshus.dk/om-os/oversigt-over-godkendte-private-ankenaevn/",
+     "citat": "Nævnenes Hus fører på erhvervsministerens vegne et overordnet tilsyn med"
+    }
+   ]
+  },
+  {
+   "from": "sty-styrelsen-for-samfundssikkerhed",
+   "type": "tilsyn",
+   "to": "kommune-alle",
+   "beskrivelse": "NIS 2: kompetent myndighed for kommunerne (BEK 620/2025 § 1 nr. 1).",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2025/620",
+     "citat": "Styrelsen for Samfundssikkerhed er kompetent myndighed for følgende"
+    }
+   ]
+  },
+  {
+   "from": "sty-sundhedsdatastyrelsen",
+   "type": "tilsyn",
+   "to": "region-alle",
+   "beskrivelse": "NIS 2: kompetent myndighed for regionerne (BEK 620/2025 § 2 nr. 1).",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2025/620",
+     "citat": "Sundhedsdatastyrelsen er kompetent myndighed for følgende"
+    }
+   ]
+  },
+  {
+   "from": "lov-nis2",
+   "type": "implementerer_EU",
+   "to": "eu-dir-2022-2555",
+   "beskrivelse": "NIS 2-loven gennemfører direktiv (EU) 2022/2555.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2025/434",
+     "citat": "Loven gennemfører Europa-Parlamentets og Rådets direktiv (EU) 2022/2555"
+    }
+   ]
+  },
+  {
+   "from": "lov-telesektoren-sikkerhed",
+   "type": "hjemmel_for",
+   "to": "sty-styrelsen-for-samfundssikkerhed",
+   "beskrivelse": "Styrelsen for Samfundssikkerhed træffer afgørelse om vigtige teleudbydere (§ 4, stk. 2).",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2025/435",
+     "citat": "Styrelsen for Samfundssikkerhed kan træffe afgørelse om, at en teleudbyder, der er omfattet af § 3, stk. 2, nr. 1-4, skal anses som en vigtig teleudbyder."
+    }
+   ]
+  }
+ ],
+ "rettelser": [],
+ "huller": [
+  {
+   "emne": "Teleankenævnets hjemmel",
+   "type": "uklart",
+   "beskrivelse": "Nævnet er et godkendt privat forbrugerklagenævn under Nævnenes Hus. Teleloven LBK 681/2025 nævner det ikke (tekstsøgning: 0 træf). Den 'teleloven § 93 a', som en kilde nævner, er ikke bekræftet. Hjemmel for godkendelsen er ikke belagt med citat.",
+   "noder": [
+    "naevn-teleankenaevnet",
+    "sty-naevnenes-hus"
+   ],
+   "kilder": [
+    "https://www.teleanke.dk/",
+    "https://www.retsinformation.dk/eli/lta/2025/681"
+   ]
+  },
+  {
+   "emne": "Teleklagenævnets kompetence over Energistyrelsen og Digitaliseringsstyrelsen",
+   "type": "uklart",
+   "beskrivelse": "Nævnets side siger, at det behandler klager over Erhvervsstyrelsens og Energistyrelsens afgørelser. Teleloven § 69 nævner kun Erhvervsstyrelsen. Ingen kilde fundet for klager over Digitaliseringsstyrelsens afgørelser (nummer, frekvens).",
+   "noder": [
+    "naevn-teleklagenaevnet",
+    "sty-energistyrelsen",
+    "sty-digitaliseringsstyrelsen"
+   ],
+   "kilder": [
+    "https://naevneneshus.dk/start-din-klage/teleklagenaevnet/",
+    "https://www.retsinformation.dk/eli/lta/2025/681"
+   ]
+  },
+  {
+   "emne": "Afgørelsesportal: adgangsform, licens og sagsnummer",
+   "type": "uklart",
+   "beskrivelse": "tele.naevneneshus.dk gav kun overskriften 'Afgørelsesportal' ved hentning. Adgangsform (HTML/PDF), licens og nummersystem er ikke læst. Et eksempel på en PDF-afgørelse (sag_23-05150) er set i en søgning, ikke åbnet.",
+   "noder": [
+    "kilde-teleklagenaevn-afgoerelser"
+   ],
+   "kilder": [
+    "https://tele.naevneneshus.dk/"
+   ]
+  },
+  {
+   "emne": "DNS- og topdomæneudbydere under NIS 2",
+   "type": "ikke-fundet",
+   "beskrivelse": "BEK 620/2025 § 6 gør Digitaliseringsstyrelsen til kompetent myndighed for DNS-tjenesteudbydere og topdomænenavneadministratorer. Der er ingen node for dem, og tilsynskanten mangler.",
+   "noder": [
+    "sty-digitaliseringsstyrelsen"
+   ],
+   "kilder": [
+    "https://www.retsinformation.dk/eli/lta/2025/620"
+   ]
+  },
+  {
+   "emne": "Center for Cybersikkerhed: placering efter NIS 2",
+   "type": "uklart",
+   "beskrivelse": "Kilder oplyser forskellige datoer (1. eller 29. januar 2025) for CFCS' placering under Styrelsen for Samfundssikkerhed. Ikke bekræftet på en officiel side. Center for Cybersikkerhed er ikke oprettet som node.",
+   "noder": [
+    "sty-styrelsen-for-samfundssikkerhed"
+   ],
+   "kilder": [
+    "https://www.cfcs.dk/globalassets/cfcs/dokumenter/nis2/SAMSIK-vejledning-til-implementering-af-cybersikkerhedsforanstaltninger-juni-2025.pdf"
+   ]
+  },
+  {
+   "emne": "Styrelsen for Samfundssikkerhed: tilsyn og håndhævelse over teleudbydere (lov 435/2025)",
+   "type": "uklart",
+   "beskrivelse": "Lov 435/2025 § 2 stk. 2 og § 10 er læst. Kapitel 4 og §§ 20-23 om påbud og håndhævelse, som registry-noden nævner, er ikke læst i denne kørsel. Tilsynskanten til teleudbydere er derfor ikke oprettet.",
+   "noder": [
+    "sty-styrelsen-for-samfundssikkerhed",
+    "lov-telesektoren-sikkerhed",
+    "org-teleudbydere"
+   ],
+   "kilder": [
+    "https://www.retsinformation.dk/eli/lta/2025/435"
+   ]
+  },
+  {
+   "emne": "Frekvens-, radioudstyrs- og MitID-afgørelser: klageinstans og dokumentkilde",
+   "type": "uklart",
+   "beskrivelse": "Ingen klageinstans eller publiceringskilde for Digitaliseringsstyrelsens afgørelser efter frekvensloven, radioudstyrsloven, MitID-loven og Digital Post er fundet. Tilsynskompetencen er belagt, men ikke adgangen til at klage.",
+   "noder": [
+    "sty-digitaliseringsstyrelsen",
+    "lov-radiofrekvenser",
+    "lov-mitid",
+    "lov-digital-post"
+   ],
+   "kilder": [
+    "https://www.retsinformation.dk/eli/lta/2026/119",
+    "https://digst.dk/om-os/om-digitaliseringsstyrelsen/"
+   ]
+  },
+  {
+   "emne": "Teleudbydere: url og dokumenttyper",
+   "type": "uklart",
+   "beskrivelse": "Samlebetegnelsen har ingen officiel url og ingen dokumenttyper belagt. Noden fungerer kun som tilsynsobjekt for kanten fra Digitaliseringsstyrelsen.",
+   "noder": [
+    "org-teleudbydere"
+   ],
+   "kilder": [
+    "https://www.retsinformation.dk/eli/lta/2025/681"
+   ]
+  },
+  {
+   "emne": "Styrelsen for Samfundssikkerheds rolle efter NIS 2-loven",
+   "type": "uklart",
+   "beskrivelse": "Research-agenten foreslog en hjemmel_for-kant fra NIS 2-loven til styrelsen med henvisning til en koordinerende rolle efter lovens § 20, stk. 2. Belægget (BEK 620/2025 § 2, nr. 2) siger noget andet: Sundhedsdatastyrelsen er kompetent myndighed for Ministeriet for Samfundssikkerhed og Beredskab og Styrelsen for Samfundssikkerhed, jf. NIS 2-lovens § 20, stk. 2. Kanten er derfor ikke oprettet (orkestratoren, 2026-11-12). Lovens § 20 og styrelsens egen rolle som koordinerende myndighed er ikke læst.",
+   "noder": [
+    "lov-nis2",
+    "sty-styrelsen-for-samfundssikkerhed"
+   ],
+   "kilder": [
+    "https://www.retsinformation.dk/eli/lta/2025/620"
+   ]
+  }
+ ],
+ "noter": "Brief-noder oprettet: sty-digitaliseringsstyrelsen, naevn-teleklagenaevnet, naevn-teleankenaevnet, org-teleudbydere (tilsynsobjekt), kilde-teleklagenaevn-afgoerelser, lov-teleloven, bek-teleklagenaevnets-virksomhed, lov-radiofrekvenser, lov-mitid, lov-digital-post, lov-nis2, lov-telesektoren-sikkerhed, eu-dir-2022-2555. Ikke oprettet: Teleankenævnets retsgrundlag og afgørelsesdatabase, EECC (direktiv 2018/1972, implementeret af teleloven ifølge Retsinformation) og NIS 2-bekendtgørelsens titel. Registry-fund: lov-radioudstyrsloven havde ministerium min-forskning-uddannelse-og-digitalisering uden ressortkant, rettet med en kant. Node sty-styrelsen-for-samfundssikkerhed har i hjemmel-teksten telesektor-beføjelser, som ikke er kanter i registry. sty-dataforsyning-og-infrastruktur er ikke oprettet igen. Bekendtgørelse om ressortoverførsel 514/2026 og lta-2026-512 bekræfter Forsknings-, Uddannelses- og Digitaliseringsministeriet pr. 8/6/2026. Ikke lavet: bek-noder for DIGST-bekendtgørelser (radiogrænseflader BEK 941/2025 og .dk-domæne)."
+}

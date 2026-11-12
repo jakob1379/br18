@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 56 · kanter: 112
+Noder: 57 · kanter: 113
 
 ```mermaid
 flowchart LR
@@ -19,6 +19,7 @@ flowchart LR
     eu_dir_2009_138["Direktiv 2009/138/EF om adgang til og udøvelse af forsikrings- og genforsikringsvirksomhed (Solvens II)"]:::eu
     eu_dir_2013_36["Direktiv 2013/36/EU om adgang til at udøve virksomhed som kreditinstitut og om tilsyn med kreditinstitutter og investeringsselskaber (CRD IV)"]:::eu
     eu_dir_2014_65["Direktiv 2014/65/EU om markeder for finansielle instrumenter (MiFID II)"]:::eu
+    eu_dir_2022_2555["Europa-Parlamentets og Rådets direktiv (EU) 2022/2555 (NIS 2-direktivet)"]:::eu
     eu_reg_2013_575["Forordning (EU) nr. 575/2013 om tilsynsmæssige krav til kreditinstitutter og investeringsselskaber (CRR)"]:::eu
     sty_administrations_og_servicestyrelsen["Administrations- og Servicestyrelsen"]:::instans
     raad_det_systemiske_risikoraad["Det Systemiske Risikoråd"]:::instans
@@ -182,6 +183,7 @@ flowchart LR
     lov_finansiel_virksomhed -->|implementerer_EU| eu_dir_2015_849
     lov_forsikringsvirksomhed -->|implementerer_EU| eu_dir_2015_849
     lov_lov_om_betalinger -->|hjemmel_for| ombud_forbrugerombudsmanden
+    lov_finansiel_virksomhed -->|implementerer_EU| eu_dir_2022_2555
 ```
 
 [← Overblik](oversigt.md)

@@ -1,0 +1,277 @@
+[
+  {
+    "hvor": "naevn-pressenaevnet.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "naevn-pressenaevnet.dokumenttyper",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "naevn-pressenaevnet.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-medieansvarsloven.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-medieansvarsloven.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-medieansvarsloven.identifikatorer",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "bek-pressenaevn-forretningsorden.hjemmel",
+    "dom": "delvist",
+    "grund": "Citerer lovens § 52 om forretningsorden; BEK 86/1998 udstedes ikke vist i medfør heraf."
+  },
+  {
+    "hvor": "bek-pressenaevn-forretningsorden.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "bek-pressenaevn-forretningsorden.identifikatorer",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kilde-pressenaevnet-kendelser.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kilde-pressenaevnet-kendelser.adgang",
+    "dom": "delvist",
+    "grund": "Siden lister kendelser år for år; HTML-format for kendelserne er ikke belagt."
+  },
+  {
+    "hvor": "kilde-pressenaevnet-kendelser.licens",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-radio-og-fjernsynsloven.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-radio-og-fjernsynsloven.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-radio-og-fjernsynsloven.identifikatorer",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-kulturbidragsloven.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-kulturbidragsloven.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-kulturbidragsloven.identifikatorer",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "naevn-radio-og-tv-naevnet.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "naevn-radio-og-tv-naevnet.dokumenttyper",
+    "dom": "delvist",
+    "grund": "Årsberetningen viser klageafgørelser og public service-udtalelser; bindende/vejledende status fremgår ikke."
+  },
+  {
+    "hvor": "naevn-radio-og-tv-naevnet.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "naevn-ophavsretslicensnaevnet.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "naevn-ophavsretslicensnaevnet.dokumenttyper",
+    "dom": "delvist",
+    "grund": "Belægget viser afgørelseskompetence og endelighed, men ikke at afgørelserne gælder vederlag eller vilkår."
+  },
+  {
+    "hvor": "naevn-biblioteksafgiftsnaevnet.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "naevn-biblioteksafgiftsnaevnet.dokumenttyper",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "raad-dansk-sprognaevn.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "raad-dansk-sprognaevn.dokumenttyper",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "raad-dansk-sprognaevn.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-dansk-sprognaevn.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-dansk-sprognaevn.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-dansk-sprognaevn.identifikatorer",
+    "dom": "delvist",
+    "grund": "ELI 2015/217 og titel vises; LBK-nummer og dato 13/02/2015 står ikke i belægget."
+  },
+  {
+    "hvor": "bek-dansk-sprognaevns-virksomhed.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "bek-dansk-sprognaevns-virksomhed.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "bek-dansk-sprognaevns-virksomhed.identifikatorer",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kilde-retskrivningsordbogen.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant min-justits|ressortansvar|lov-medieansvarsloven",
+    "dom": "delvist",
+    "grund": "Lovtekst nævner justitsministeren; ministeriefeltet for loven står ikke i dette belæg."
+  },
+  {
+    "hvor": "kant min-justits|ressortansvar|naevn-pressenaevnet",
+    "dom": "delvist",
+    "grund": "Lovtekst om, at ministeren beskikker medlemmer; intet belæg for ressort i dag."
+  },
+  {
+    "hvor": "kant lov-medieansvarsloven|hjemmel_for|naevn-pressenaevnet",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant lov-medieansvarsloven|hjemmel_for|bek-pressenaevn-forretningsorden",
+    "dom": "delvist",
+    "grund": "Citerer lovens § 52; BEK 86/1998s egen indledning med hjemmel citeres ikke."
+  },
+  {
+    "hvor": "kant naevn-pressenaevnet|udsteder|kilde-pressenaevnet-kendelser",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant min-kultur|ressortansvar|lov-radio-og-fjernsynsloven",
+    "dom": "delvist",
+    "grund": "Lovtekst om ministerens bemyndigelser; ministeriefeltet for loven står ikke i dette belæg."
+  },
+  {
+    "hvor": "kant min-kultur|ressortansvar|lov-kulturbidragsloven",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant min-kultur|ressortansvar|naevn-radio-og-tv-naevnet",
+    "dom": "delvist",
+    "grund": "Lovtekst om ministerens regler; intet belæg for at nævnet hører under ministeriet i dag."
+  },
+  {
+    "hvor": "kant lov-radio-og-fjernsynsloven|hjemmel_for|naevn-radio-og-tv-naevnet",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant lov-kulturbidragsloven|hjemmel_for|naevn-radio-og-tv-naevnet",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant lov-kulturbidragsloven|hjemmel_for|sty-slots-og-kulturstyrelsen",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant naevn-radio-og-tv-naevnet|klageinstans|sty-slots-og-kulturstyrelsen",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant min-kultur|ressortansvar|naevn-ophavsretslicensnaevnet",
+    "dom": "delvist",
+    "grund": "Lovtekst siger, at kulturministeren nedsætter nævnet; ikke belæg for ressort i dag."
+  },
+  {
+    "hvor": "kant lov-ophavsretsloven|hjemmel_for|naevn-ophavsretslicensnaevnet",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant min-kultur|ressortansvar|naevn-biblioteksafgiftsnaevnet",
+    "dom": "delvist",
+    "grund": "Nævnets adresse hos Kulturministeriet viser nærhed, ikke ressortansvar i dag."
+  },
+  {
+    "hvor": "kant min-kultur|ressortansvar|lov-dansk-sprognaevn",
+    "dom": "delvist",
+    "grund": "Lovtekst om ministerens regler for Sprognævnet; ministeriefelt står ikke i dette belæg."
+  },
+  {
+    "hvor": "kant min-kultur|ressortansvar|raad-dansk-sprognaevn",
+    "dom": "delvist",
+    "grund": "Samme lovtekst som for loven; intet belæg for ressort over rådet i dag."
+  },
+  {
+    "hvor": "kant lov-dansk-sprognaevn|hjemmel_for|raad-dansk-sprognaevn",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant lov-dansk-sprognaevn|hjemmel_for|bek-dansk-sprognaevns-virksomhed",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant raad-dansk-sprognaevn|udsteder|kilde-retskrivningsordbogen",
+    "dom": "baerer",
+    "grund": ""
+  }
+]

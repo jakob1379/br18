@@ -17,6 +17,7 @@ flowchart LR
     min_by_land_og_transport["By-, Land- og Transportministeriet"]:::ministerium
     min_boern_aeldre_og_bolig["Børne-, Ældre- og Boligministeriet"]:::ministerium
     min_erhverv["Erhvervsministeriet"]:::ministerium
+    min_forskning_uddannelse_og_digitalisering["Forsknings-, Uddannelses- og Digitaliseringsministeriet"]:::ministerium
     min_forsvar["Forsvarsministeriet"]:::ministerium
     min_indenrigs_og_bolig["Indenrigs- og Boligministeriet (nedlagt)"]:::nedlagt
     min_justits["Justitsministeriet"]:::ministerium
@@ -51,6 +52,8 @@ flowchart LR
     sty_banedanmark["Banedanmark"]:::instans
     naevn_beboerklagenaevn["Beboerklagenævn (kommunale)"]:::klage
     sty_beredskabsstyrelsen["Beredskabsstyrelsen"]:::instans
+    naevn_biblioteksafgiftsnaevnet["Biblioteksafgiftsnævnet"]:::klage
+    tilsyn_biskopperne["Biskopperne"]:::instans
     sty_bolig_og_planstyrelsen["Bolig- og Planstyrelsen (nedlagt)"]:::nedlagt
     sty_by_og_landskabsstyrelsen["By- og Landskabsstyrelsen (nedlagt)"]:::nedlagt
     naevn_byggeklageenheden["Byggeklageenheden"]:::klage
@@ -60,6 +63,7 @@ flowchart LR
     sty_civilstyrelsen["Civilstyrelsen"]:::instans
     sty_danmarks_faengsler["Danmarks Fængsler (Styrelsen for Danmarks Fængsler)"]:::instans
     org_danmarks_miljoeportal["Danmarks Miljøportal"]:::instans
+    raad_dansk_sprognaevn["Dansk Sprognævn"]:::instans
     raad_dataraadet["Datarådet"]:::instans
     tilsyn_datatilsynet["Datatilsynet"]:::instans
     sty_den_maritime_havarikommission["Den Maritime Havarikommission"]:::instans
@@ -69,10 +73,12 @@ flowchart LR
     org_nfa["Det Nationale Forskningscenter for Arbejdsmiljø (NFA)"]:::instans
     naevn_det_psykiatriske_ankenaevn["Det Psykiatriske Ankenævn"]:::klage
     naevn_det_psykiatriske_patientklagenaevn["Det Psykiatriske Patientklagenævn"]:::klage
+    raad_raadgivende_udvalg_trossamfund["Det Rådgivende Udvalg vedrørende Trossamfund"]:::instans
     naevn_socialfaglige_naevn_magtanvendelse["Det Socialfaglige Nævn vedrørende Magtanvendelse over for Borgere med Handicap"]:::klage
     raad_det_systemiske_risikoraad["Det Systemiske Risikoråd"]:::instans
     raad_det_saerlige_bygningssyn["Det Særlige Bygningssyn"]:::instans
     raad_det_veterinaere_sundhedsraad["Det Veterinære Sundhedsråd"]:::instans
+    sty_digitaliseringsstyrelsen["Digitaliseringsstyrelsen"]:::instans
     naevn_bygningssagkyndige["Disciplinær- og klagenævnet for beskikkede bygningssagkyndige"]:::klage
     naevn_disciplinaernaevnet_ejendomsmaeglere["Disciplinærnævnet for Ejendomsmæglere"]:::klage
     sty_domstolsstyrelsen["Domstolsstyrelsen"]:::instans
@@ -101,7 +107,9 @@ flowchart LR
     sty_havarikommissionen["Havarikommissionen for Civil Luftfart og Jernbane"]:::instans
     sty_hjemrejsestyrelsen["Hjemrejsestyrelsen"]:::instans
     naevn_huslejenaevn["Huslejenævn (kommunale)"]:::klage
+    naevn_indsamlingsnaevnet["Indsamlingsnævnet"]:::klage
     naevn_jernbanenaevnet["Jernbanenævnet"]:::klage
+    raad_kirkegaardsbestyrelser["Kirkegårdsbestyrelser"]:::instans
     naevn_klagenaevnet_specialundervisning["Klagenævnet for Specialundervisning"]:::klage
     naevn_klagenaevnet_for_udbud["Klagenævnet for Udbud"]:::klage
     sty_klimadatastyrelsen["Klimadatastyrelsen"]:::instans
@@ -119,6 +127,7 @@ flowchart LR
     raad_laegemiddelnaevnet["Lægemiddelnævnet"]:::instans
     sty_laegemiddelstyrelsen["Lægemiddelstyrelsen"]:::instans
     fond_loenmodtagernes_garantifond["Lønmodtagernes Garantifond (LG)"]:::instans
+    raad_menighedsraadene["Menighedsrådene"]:::instans
     naevn_miljoe_og_foedevareklagenaevnet["Miljø- og Fødevareklagenævnet"]:::klage
     sty_miljoestyrelsen["Miljøstyrelsen"]:::instans
     naevn_motorankenaevn["Motorankenævn"]:::klage
@@ -126,12 +135,16 @@ flowchart LR
     naevn_natur_og_miljoeklagenaevnet["Natur- og Miljøklagenævnet (nedlagt)"]:::nedlagt
     sty_naturstyrelsen["Naturstyrelsen"]:::instans
     sty_naevnenes_hus["Nævnenes Hus"]:::instans
+    naevn_ophavsretslicensnaevnet["Ophavsretslicensnævnet"]:::klage
     sty_patent_og_varemaerkestyrelsen["Patent- og Varemærkestyrelsen"]:::instans
     org_patienterstatningen["Patienterstatningen"]:::kilde
     sty_plan_og_landdistriktsstyrelsen["Plan- og Landdistriktsstyrelsen"]:::instans
     naevn_planklagenaevnet["Planklagenævnet"]:::klage
     sty_planstyrelsen["Planstyrelsen (nedlagt)"]:::nedlagt
     sty_politikredsene["Politikredsene (politidirektørerne)"]:::instans
+    naevn_pressenaevnet["Pressenævnet"]:::klage
+    tilsyn_provstiudvalgene["Provstiudvalgene"]:::instans
+    naevn_radio_og_tv_naevnet["Radio- og tv-nævnet"]:::klage
     naevn_revisornaevnet["Revisornævnet"]:::klage
     sty_rigsadvokaten["Rigsadvokaten"]:::instans
     sty_rigspolitiet["Rigspolitiet"]:::instans
@@ -150,6 +163,7 @@ flowchart LR
     sty_statens_serum_institut["Statens Serum Institut"]:::instans
     sty_statsadvokaterne["Statsadvokaterne"]:::instans
     org_statsforvaltningen["Statsforvaltningen (nedlagt)"]:::nedlagt
+    tilsyn_stiftsoevrighederne["Stiftsøvrighederne"]:::instans
     sty_star["Styrelsen for Arbejdsmarked og Rekruttering (STAR)"]:::instans
     sty_styrelsen_for_forsyningssikkerhed["Styrelsen for Forsyningssikkerhed (nedlagt)"]:::nedlagt
     sty_groen_arealomlaegning_og_vandmiljoe["Styrelsen for Grøn Arealomlægning og Vandmiljø (SGAV)"]:::instans
@@ -165,6 +179,7 @@ flowchart LR
     sty_soefartsstyrelsen["Søfartsstyrelsen"]:::instans
     naevn_taksationskommissionen["Taksationskommissionen (naturbeskyttelsesloven)"]:::klage
     naevn_taksationsmyndighederne["Taksationskommissionerne og overtaksationskommissionerne (efter vejloven)"]:::klage
+    naevn_teleklagenaevnet["Teleklagenævnet"]:::klage
     tilsyn_it_tilsynet["Tilsynet med told- og skatteforvaltningens it-område (It-tilsynet)"]:::instans
     raad_tilsynsraadet["Tilsynsrådet (STAR)"]:::instans
     sty_toldstyrelsen["Toldstyrelsen"]:::instans
@@ -335,6 +350,20 @@ flowchart LR
     min_erhverv -.->|ressortansvar| naevn_ankenaevn_oplaeringsvirksomheder
     min_social -->|ressortansvar| sty_familieretshuset
     min_social -.->|ressortansvar| naevn_adoptionsnaevnet
+    min_forskning_uddannelse_og_digitalisering -->|ressortansvar| sty_digitaliseringsstyrelsen
+    min_erhverv -.->|ressortansvar| naevn_teleklagenaevnet
+    min_justits -.->|ressortansvar| naevn_indsamlingsnaevnet
+    min_sundhed_og_kirke -->|ressortansvar| raad_menighedsraadene
+    min_sundhed_og_kirke -->|ressortansvar| raad_kirkegaardsbestyrelser
+    min_sundhed_og_kirke -->|ressortansvar| tilsyn_biskopperne
+    min_sundhed_og_kirke -->|ressortansvar| tilsyn_stiftsoevrighederne
+    min_sundhed_og_kirke -->|ressortansvar| tilsyn_provstiudvalgene
+    min_sundhed_og_kirke -->|ressortansvar| raad_raadgivende_udvalg_trossamfund
+    min_justits -.->|ressortansvar| naevn_pressenaevnet
+    min_kultur -.->|ressortansvar| naevn_radio_og_tv_naevnet
+    min_kultur -.->|ressortansvar| naevn_ophavsretslicensnaevnet
+    min_kultur -.->|ressortansvar| naevn_biblioteksafgiftsnaevnet
+    min_kultur -.->|ressortansvar| raad_dansk_sprognaevn
 ```
 
 ## Ministerområder

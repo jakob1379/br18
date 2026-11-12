@@ -1,0 +1,1103 @@
+[
+ {
+  "hvor": "raad-menighedsraadene.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "raad-menighedsraadene.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "raad-kirkegaardsbestyrelser.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2016/1156",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "tilsyn-biskopperne.hjemmel",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/330",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "tilsyn-biskopperne.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/330",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "tilsyn-stiftsoevrighederne.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "tilsyn-stiftsoevrighederne.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "tilsyn-provstiudvalgene.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/424",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "tilsyn-provstiudvalgene.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/435",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "raad-raadgivende-udvalg-trossamfund.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/338",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/338",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "raad-raadgivende-udvalg-trossamfund.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/338",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "lov-menighedsraadsloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "257019",
+   "DocumentTitle": "Bekendtgørelse af lov om menighedsråd",
+   "Year": "2026",
+   "DiesSigni": "2026-07-13",
+   "Status": "Valid",
+   "Number": "675",
+   "Ministry": "Sundheds- og Kirkeministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-menighedsraadsloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "257019",
+   "DocumentTitle": "Bekendtgørelse af lov om menighedsråd",
+   "Year": "2026",
+   "DiesSigni": "2026-07-13",
+   "Status": "Valid",
+   "Number": "675",
+   "Ministry": "Sundheds- og Kirkeministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-menighedsraadsloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "257019",
+   "DocumentTitle": "Bekendtgørelse af lov om menighedsråd",
+   "Year": "2026",
+   "DiesSigni": "2026-07-13",
+   "Status": "Valid",
+   "Number": "675",
+   "Ministry": "Sundheds- og Kirkeministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-menighedsraadsloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "257019",
+   "DocumentTitle": "Bekendtgørelse af lov om menighedsråd",
+   "Year": "2026",
+   "DiesSigni": "2026-07-13",
+   "Status": "Valid",
+   "Number": "675",
+   "Ministry": "Sundheds- og Kirkeministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2026/675"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-folkekirkens-oekonomi.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "235953",
+   "DocumentTitle": "Bekendtgørelse af lov om folkekirkens økonomi",
+   "Year": "2023",
+   "DiesSigni": "2023-04-19",
+   "Status": "Valid",
+   "Number": "424",
+   "Ministry": "Sundheds- og Kirkeministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-folkekirkens-oekonomi.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "235953",
+   "DocumentTitle": "Bekendtgørelse af lov om folkekirkens økonomi",
+   "Year": "2023",
+   "DiesSigni": "2023-04-19",
+   "Status": "Valid",
+   "Number": "424",
+   "Ministry": "Sundheds- og Kirkeministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-folkekirkens-oekonomi.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "235953",
+   "DocumentTitle": "Bekendtgørelse af lov om folkekirkens økonomi",
+   "Year": "2023",
+   "DiesSigni": "2023-04-19",
+   "Status": "Valid",
+   "Number": "424",
+   "Ministry": "Sundheds- og Kirkeministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-folkekirkens-oekonomi.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "235953",
+   "DocumentTitle": "Bekendtgørelse af lov om folkekirkens økonomi",
+   "Year": "2023",
+   "DiesSigni": "2023-04-19",
+   "Status": "Valid",
+   "Number": "424",
+   "Ministry": "Sundheds- og Kirkeministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2023/424"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-bestyrelse-og-brug-af-folkekirkens-kirker.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "162459",
+   "DocumentTitle": "Bekendtgørelse af lov om bestyrelse og brug af folkekirkens kirker m.m.",
+   "Year": "2014",
+   "DiesSigni": "2014-03-29",
+   "Status": "Valid",
+   "Number": "330",
+   "Ministry": "Sundheds- og Kirkeministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-bestyrelse-og-brug-af-folkekirkens-kirker.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "162459",
+   "DocumentTitle": "Bekendtgørelse af lov om bestyrelse og brug af folkekirkens kirker m.m.",
+   "Year": "2014",
+   "DiesSigni": "2014-03-29",
+   "Status": "Valid",
+   "Number": "330",
+   "Ministry": "Sundheds- og Kirkeministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-bestyrelse-og-brug-af-folkekirkens-kirker.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "162459",
+   "DocumentTitle": "Bekendtgørelse af lov om bestyrelse og brug af folkekirkens kirker m.m.",
+   "Year": "2014",
+   "DiesSigni": "2014-03-29",
+   "Status": "Valid",
+   "Number": "330",
+   "Ministry": "Sundheds- og Kirkeministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-bestyrelse-og-brug-af-folkekirkens-kirker.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "162459",
+   "DocumentTitle": "Bekendtgørelse af lov om bestyrelse og brug af folkekirkens kirker m.m.",
+   "Year": "2014",
+   "DiesSigni": "2014-03-29",
+   "Status": "Valid",
+   "Number": "330",
+   "Ministry": "Sundheds- og Kirkeministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2014/330"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-folkekirkens-kirkebygninger-og-kirkegaarde.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "183757",
+   "DocumentTitle": "Bekendtgørelse af lov om folkekirkens kirkebygninger og kirkegårde",
+   "Year": "2016",
+   "DiesSigni": "2016-09-01",
+   "Status": "Valid",
+   "Number": "1156",
+   "Ministry": "Sundheds- og Kirkeministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-folkekirkens-kirkebygninger-og-kirkegaarde.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "183757",
+   "DocumentTitle": "Bekendtgørelse af lov om folkekirkens kirkebygninger og kirkegårde",
+   "Year": "2016",
+   "DiesSigni": "2016-09-01",
+   "Status": "Valid",
+   "Number": "1156",
+   "Ministry": "Sundheds- og Kirkeministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-folkekirkens-kirkebygninger-og-kirkegaarde.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "183757",
+   "DocumentTitle": "Bekendtgørelse af lov om folkekirkens kirkebygninger og kirkegårde",
+   "Year": "2016",
+   "DiesSigni": "2016-09-01",
+   "Status": "Valid",
+   "Number": "1156",
+   "Ministry": "Sundheds- og Kirkeministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-folkekirkens-kirkebygninger-og-kirkegaarde.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "183757",
+   "DocumentTitle": "Bekendtgørelse af lov om folkekirkens kirkebygninger og kirkegårde",
+   "Year": "2016",
+   "DiesSigni": "2016-09-01",
+   "Status": "Valid",
+   "Number": "1156",
+   "Ministry": "Sundheds- og Kirkeministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2016/1156"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-trossamfundsloven.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "255450",
+   "DocumentTitle": "Bekendtgørelse af lov om trossamfund uden for folkekirken (trossamfundsloven)",
+   "Year": "2026",
+   "DiesSigni": "2026-02-03",
+   "Status": "Valid",
+   "Number": "338",
+   "PopularTitle": "Trossamfundsloven",
+   "Ministry": "Sundheds- og Kirkeministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-trossamfundsloven.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "255450",
+   "DocumentTitle": "Bekendtgørelse af lov om trossamfund uden for folkekirken (trossamfundsloven)",
+   "Year": "2026",
+   "DiesSigni": "2026-02-03",
+   "Status": "Valid",
+   "Number": "338",
+   "PopularTitle": "Trossamfundsloven",
+   "Ministry": "Sundheds- og Kirkeministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-trossamfundsloven.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "255450",
+   "DocumentTitle": "Bekendtgørelse af lov om trossamfund uden for folkekirken (trossamfundsloven)",
+   "Year": "2026",
+   "DiesSigni": "2026-02-03",
+   "Status": "Valid",
+   "Number": "338",
+   "PopularTitle": "Trossamfundsloven",
+   "Ministry": "Sundheds- og Kirkeministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-trossamfundsloven.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "255450",
+   "DocumentTitle": "Bekendtgørelse af lov om trossamfund uden for folkekirken (trossamfundsloven)",
+   "Year": "2026",
+   "DiesSigni": "2026-02-03",
+   "Status": "Valid",
+   "Number": "338",
+   "PopularTitle": "Trossamfundsloven",
+   "Ministry": "Sundheds- og Kirkeministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2026/338"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-ansaettelse-i-stillinger-i-folkekirken.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "257022",
+   "DocumentTitle": "Bekendtgørelse af lov om ansættelse i stillinger i folkekirken m.v.",
+   "Year": "2026",
+   "DiesSigni": "2026-07-13",
+   "Status": "Valid",
+   "Number": "676",
+   "Ministry": "Sundheds- og Kirkeministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-ansaettelse-i-stillinger-i-folkekirken.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "257022",
+   "DocumentTitle": "Bekendtgørelse af lov om ansættelse i stillinger i folkekirken m.v.",
+   "Year": "2026",
+   "DiesSigni": "2026-07-13",
+   "Status": "Valid",
+   "Number": "676",
+   "Ministry": "Sundheds- og Kirkeministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-ansaettelse-i-stillinger-i-folkekirken.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "257022",
+   "DocumentTitle": "Bekendtgørelse af lov om ansættelse i stillinger i folkekirken m.v.",
+   "Year": "2026",
+   "DiesSigni": "2026-07-13",
+   "Status": "Valid",
+   "Number": "676",
+   "Ministry": "Sundheds- og Kirkeministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "lov-ansaettelse-i-stillinger-i-folkekirken.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "LBK H#LOKDOK03",
+   "UniqueDocumentId": "257022",
+   "DocumentTitle": "Bekendtgørelse af lov om ansættelse i stillinger i folkekirken m.v.",
+   "Year": "2026",
+   "DiesSigni": "2026-07-13",
+   "Status": "Valid",
+   "Number": "676",
+   "Ministry": "Sundheds- og Kirkeministeriet"
+  },
+  "agent": {
+   "eli": "https://www.retsinformation.dk/eli/lta/2026/676"
+  },
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-klageadgang-ansaettelse-praester-provster.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/340",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/340",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-klageadgang-ansaettelse-praester-provster.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "255781",
+   "DocumentTitle": "Bekendtgørelse om afskæring af klageadgang for visse afgørelser i ansættelses- og personalesager for folkekirkens præster og provster",
+   "Year": "2026",
+   "DiesSigni": "2026-02-25",
+   "Status": "Valid",
+   "Number": "340",
+   "Ministry": "Sundheds- og Kirkeministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-klageadgang-ansaettelse-praester-provster.url",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/340",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-klageadgang-ansaettelse-praester-provster.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "255781",
+   "DocumentTitle": "Bekendtgørelse om afskæring af klageadgang for visse afgørelser i ansættelses- og personalesager for folkekirkens præster og provster",
+   "Year": "2026",
+   "DiesSigni": "2026-02-25",
+   "Status": "Valid",
+   "Number": "340",
+   "Ministry": "Sundheds- og Kirkeministeriet"
+  },
+  "agent": {},
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-provstiudvalgenes-og-budgetudvalgenes-virksomhed.hjemmel",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/435",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/435",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "bek-provstiudvalgenes-og-budgetudvalgenes-virksomhed.dokumenttyper",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "237094",
+   "DocumentTitle": "Bekendtgørelse om provstiudvalgenes og budgetudvalgenes virksomhed",
+   "Year": "2023",
+   "DiesSigni": "2023-04-25",
+   "Status": "Valid",
+   "Number": "435",
+   "Ministry": "Sundheds- og Kirkeministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-provstiudvalgenes-og-budgetudvalgenes-virksomhed.url",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "237094",
+   "DocumentTitle": "Bekendtgørelse om provstiudvalgenes og budgetudvalgenes virksomhed",
+   "Year": "2023",
+   "DiesSigni": "2023-04-25",
+   "Status": "Valid",
+   "Number": "435",
+   "Ministry": "Sundheds- og Kirkeministeriet"
+  },
+  "agent": null,
+  "belaeg": []
+ },
+ {
+  "hvor": "bek-provstiudvalgenes-og-budgetudvalgenes-virksomhed.identifikatorer",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "metadata": {
+   "DocumentType": "BEK H#LOKDOK04",
+   "UniqueDocumentId": "237094",
+   "DocumentTitle": "Bekendtgørelse om provstiudvalgenes og budgetudvalgenes virksomhed",
+   "Year": "2023",
+   "DiesSigni": "2023-04-25",
+   "Status": "Valid",
+   "Number": "435",
+   "Ministry": "Sundheds- og Kirkeministeriet"
+  },
+  "agent": {},
+  "belaeg": []
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|raad-menighedsraadene",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/api/pdf/256544",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/api/pdf/256544",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|raad-kirkegaardsbestyrelser",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/api/pdf/256544",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/api/pdf/256544",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|tilsyn-biskopperne",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/api/pdf/256544",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/api/pdf/256544",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|tilsyn-stiftsoevrighederne",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/api/pdf/256544",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/api/pdf/256544",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|tilsyn-provstiudvalgene",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/api/pdf/256544",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/api/pdf/256544",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|raad-raadgivende-udvalg-trossamfund",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/api/pdf/256544",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/api/pdf/256544",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|lov-menighedsraadsloven",
+  "sikkerhed": "verificeret",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "Sundheds- og Kirkeministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|lov-folkekirkens-oekonomi",
+  "sikkerhed": "verificeret",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/424",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "Sundheds- og Kirkeministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|lov-bestyrelse-og-brug-af-folkekirkens-kirker",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/330",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|lov-folkekirkens-kirkebygninger-og-kirkegaarde",
+  "sikkerhed": "sandsynlig",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2016/1156",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|lov-trossamfundsloven",
+  "sikkerhed": "verificeret",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/338",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "Sundheds- og Kirkeministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|lov-ansaettelse-i-stillinger-i-folkekirken",
+  "sikkerhed": "verificeret",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/676",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "Sundheds- og Kirkeministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|bek-klageadgang-ansaettelse-praester-provster",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/340",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "Sundheds- og Kirkeministeriet"
+  }
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|bek-provstiudvalgenes-og-budgetudvalgenes-virksomhed",
+  "sikkerhed": "verificeret",
+  "dom": "delvist",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/435",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ],
+  "metadata": {
+   "Ministry": "Sundheds- og Kirkeministeriet"
+  }
+ },
+ {
+  "hvor": "kant tilsyn-biskopperne|klageinstans|raad-menighedsraadene",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant tilsyn-biskopperne|klageinstans|tilsyn-provstiudvalgene",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/435",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/435",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant tilsyn-biskopperne|tilsyn|raad-menighedsraadene",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant tilsyn-stiftsoevrighederne|tilsyn|raad-menighedsraadene",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant tilsyn-provstiudvalgene|tilsyn|raad-menighedsraadene",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-menighedsraadsloven|hjemmel_for|raad-menighedsraadene",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-menighedsraadsloven|hjemmel_for|tilsyn-stiftsoevrighederne",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-menighedsraadsloven|hjemmel_for|tilsyn-provstiudvalgene",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-menighedsraadsloven|hjemmel_for|tilsyn-biskopperne",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-folkekirkens-kirkebygninger-og-kirkegaarde|hjemmel_for|raad-kirkegaardsbestyrelser",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2016/1156",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-trossamfundsloven|hjemmel_for|raad-raadgivende-udvalg-trossamfund",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/338",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-folkekirkens-oekonomi|hjemmel_for|tilsyn-provstiudvalgene",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/424",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant bek-provstiudvalgenes-og-budgetudvalgenes-virksomhed|hjemmel_for|tilsyn-provstiudvalgene",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/435",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant lov-bestyrelse-og-brug-af-folkekirkens-kirker|hjemmel_for|tilsyn-biskopperne",
+  "sikkerhed": "verificeret",
+  "dom": "baerer",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2014/330",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ }
+]

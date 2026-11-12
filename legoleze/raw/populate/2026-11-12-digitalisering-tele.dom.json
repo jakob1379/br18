@@ -1,0 +1,282 @@
+[
+  {
+    "hvor": "sty-digitaliseringsstyrelsen.hjemmel",
+    "dom": "delvist",
+    "grund": "Tilsyn og MitID belagt; Digital Post-dataansvar (§ 2) står ikke i dette belæg."
+  },
+  {
+    "hvor": "sty-digitaliseringsstyrelsen.dokumenttyper",
+    "dom": "delvist",
+    "grund": "Belægget viser tilsynskompetence, ikke at tilsyn udmønter bindende afgørelser."
+  },
+  {
+    "hvor": "sty-digitaliseringsstyrelsen.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "naevn-teleklagenaevnet.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "naevn-teleklagenaevnet.dokumenttyper",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "naevn-teleklagenaevnet.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "naevn-teleankenaevnet.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "org-teleudbydere.hjemmel",
+    "dom": "baerer-ikke",
+    "grund": "Citatet handler om efterregulering af priser (§ 55), ikke tilsyn efter § 20."
+  },
+  {
+    "hvor": "kilde-teleklagenaevn-afgoerelser.dokumenttyper",
+    "dom": "delvist",
+    "grund": "Siden viser, at nævnet har afgørelser; databasen på tele.naevneneshus.dk og fuld længde er ikke belagt."
+  },
+  {
+    "hvor": "lov-teleloven.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-teleloven.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-teleloven.identifikatorer",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "bek-teleklagenaevnets-virksomhed.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "bek-teleklagenaevnets-virksomhed.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "bek-teleklagenaevnets-virksomhed.identifikatorer",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-radiofrekvenser.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-radiofrekvenser.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-radiofrekvenser.identifikatorer",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-mitid.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-mitid.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-mitid.identifikatorer",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-digital-post.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-digital-post.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-digital-post.identifikatorer",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-nis2.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-nis2.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-nis2.identifikatorer",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-telesektoren-sikkerhed.hjemmel",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-telesektoren-sikkerhed.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "lov-telesektoren-sikkerhed.identifikatorer",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "eu-dir-2022-2555.url",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "eu-dir-2022-2555.identifikatorer",
+    "dom": "delvist",
+    "grund": "Citatet viser direktivnummeret, ikke CELEX-nummeret 32022L2555."
+  },
+  {
+    "hvor": "kant min-forskning-uddannelse-og-digitalisering|ressortansvar|sty-digitaliseringsstyrelsen",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant min-forskning-uddannelse-og-digitalisering|ressortansvar|lov-teleloven",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant min-forskning-uddannelse-og-digitalisering|ressortansvar|lov-radiofrekvenser",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant min-forskning-uddannelse-og-digitalisering|ressortansvar|lov-radioudstyrsloven",
+    "dom": "delvist",
+    "grund": "Kun lovtitlen belagt; ministeriefeltet står ikke i det viste udsnit."
+  },
+  {
+    "hvor": "kant min-forskning-uddannelse-og-digitalisering|ressortansvar|lov-mitid",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant min-forskning-uddannelse-og-digitalisering|ressortansvar|lov-digital-post",
+    "dom": "delvist",
+    "grund": "Kun lovtitlen belagt; ministeriefeltet står ikke i det viste udsnit."
+  },
+  {
+    "hvor": "kant min-erhverv|ressortansvar|naevn-teleklagenaevnet",
+    "dom": "delvist",
+    "grund": "Belægget viser overførsel i 2017, ikke at nævnet hører under Erhvervsministeriet i dag."
+  },
+  {
+    "hvor": "kant min-samfundssikkerhed-og-beredskab|ressortansvar|lov-nis2",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant min-samfundssikkerhed-og-beredskab|ressortansvar|lov-telesektoren-sikkerhed",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant lov-teleloven|hjemmel_for|naevn-teleklagenaevnet",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant lov-teleloven|hjemmel_for|bek-teleklagenaevnets-virksomhed",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant lov-teleloven|hjemmel_for|sty-digitaliseringsstyrelsen",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant lov-radiofrekvenser|hjemmel_for|sty-digitaliseringsstyrelsen",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant lov-mitid|hjemmel_for|sty-digitaliseringsstyrelsen",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant lov-digital-post|hjemmel_for|sty-digitaliseringsstyrelsen",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant naevn-teleklagenaevnet|klageinstans|sty-erhvervsstyrelsen",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant naevn-teleklagenaevnet|udsteder|kilde-teleklagenaevn-afgoerelser",
+    "dom": "delvist",
+    "grund": "Siden viser, at nævnet har afgørelser, men ikke at databasen ligger på tele.naevneneshus.dk."
+  },
+  {
+    "hvor": "kant sty-digitaliseringsstyrelsen|tilsyn|org-teleudbydere",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant sty-naevnenes-hus|tilsyn|naevn-teleankenaevnet",
+    "dom": "delvist",
+    "grund": "Belægget viser tilsyn med godkendte ankenævn generelt; Teleankenævnet står ikke på belægget."
+  },
+  {
+    "hvor": "kant sty-styrelsen-for-samfundssikkerhed|tilsyn|kommune-alle",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant sty-sundhedsdatastyrelsen|tilsyn|region-alle",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant lov-nis2|hjemmel_for|sty-styrelsen-for-samfundssikkerhed",
+    "dom": "delvist",
+    "grund": "§ 20 stk. 2 nævnes, men belægget viser ikke en koordinerende rolle for SFS."
+  },
+  {
+    "hvor": "kant lov-nis2|implementerer_EU|eu-dir-2022-2555",
+    "dom": "baerer",
+    "grund": ""
+  },
+  {
+    "hvor": "kant lov-telesektoren-sikkerhed|hjemmel_for|sty-styrelsen-for-samfundssikkerhed",
+    "dom": "delvist",
+    "grund": "Kernen står, men afgørelsesbeføjelsen står i § 4 stk. 2, ikke § 2 stk. 2."
+  }
+]

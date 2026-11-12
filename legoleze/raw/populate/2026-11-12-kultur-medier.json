@@ -1,0 +1,829 @@
+{
+ "omraade": "kultur-medier",
+ "noder": [
+  {
+   "id": "naevn-pressenaevnet",
+   "navn": "Pressenævnet",
+   "type": "nævn",
+   "ministerium": "min-justits",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "Medieansvarsloven §§ 41–52: nævnet beskikkes af justitsministeren (§ 41), træffer afgørelse i sager om god presseskik og genmæle (§ 43), og nævnets kendelser kan ikke indbringes for anden administrativ myndighed (§ 50).",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2014/914",
+      "citat": "Der oprettes et Pressenævn bestående af en formand og en næstformand og 6 andre medlemmer, der beskikkes af justitsministeren."
+     },
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2014/914",
+      "citat": "Pressenævnet træffer afgørelse i sager om"
+     },
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2014/914",
+      "citat": "Nævnets kendelser kan ikke indbringes for anden administrativ myndighed."
+     }
+    ]
+   },
+   "dokumenttyper": {
+    "liste": [
+     {
+      "type": "kendelse om god presseskik og genmæle (kan pålægge offentliggørelse)",
+      "bindende": "bindende"
+     }
+    ],
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2014/914",
+      "citat": "Nævnets kendelser kan ikke indbringes for anden administrativ myndighed."
+     },
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2014/914",
+      "citat": "Nævnet kan pålægge redaktøren for det indklagede massemedie snarest muligt at offentliggøre en kendelse i et af nævnet nærmere fastlagt omfang."
+     }
+    ]
+   },
+   "url": {
+    "vaerdi": "https://www.pressenaevnet.dk/",
+    "belaeg": [
+     {
+      "url": "https://www.pressenaevnet.dk/",
+      "citat": "Medier under medieansvarsloven er underlagt Pressenævnets kompetence."
+     }
+    ]
+   },
+   "krydsref_moenstre": [
+    "Kendelse afsagt den",
+    "Sag nr."
+   ],
+   "note": "Klagevej (medieansvarsloven § 34 stk. 2): klage rettes til mediet selv eller direkte til nævnet inden 12 uger; mediets afgørelse kan indbringes for nævnet. Nævnets sekretariat: § 52 stk. 2. Forretningsorden: BEK nr. 86 af 09/02/1998, ministeriefelt Justitsministeriet (lov-kommandoen). Kendelser ligger også som KEN-poster på Retsinformation (set i lov-kommandoen for LBK 914/2014). Audit-påstanden om over 4.000 kendelser er ikke talt op."
+  },
+  {
+   "id": "lov-medieansvarsloven",
+   "navn": "Bekendtgørelse af medieansvarsloven",
+   "type": "lov",
+   "ministerium": "min-justits",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "ikke relevant",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2014/914",
+      "citat": "Bekendtgørelse af medieansvarsloven"
+     }
+    ]
+   },
+   "url": {
+    "vaerdi": "https://www.retsinformation.dk/eli/lta/2014/914",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2014/914",
+      "citat": "Bekendtgørelse af medieansvarsloven"
+     }
+    ]
+   },
+   "identifikatorer": {
+    "eli": "https://www.retsinformation.dk/eli/lta/2014/914",
+    "lovtidende": "LBK nr. 914 af 11/08/2014",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2014/914",
+      "citat": "Bekendtgørelse af medieansvarsloven"
+     }
+    ]
+   },
+   "note": "Gældende version pr. 2026-11-12 ifølge lov-kommandoen: LBK nr. 914 af 11/08/2014 (ministeriefelt Justitsministeriet). Senere ændring: LOV nr. 1719 af 27/12/2018 § 4."
+  },
+  {
+   "id": "bek-pressenaevn-forretningsorden",
+   "navn": "Bekendtgørelse om forretningsorden for Pressenævnet (BEK nr. 86 af 09/02/1998)",
+   "type": "bekendtgørelse",
+   "ministerium": "min-justits",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "Medieansvarsloven § 52: justitsministeren fastsætter Pressenævnets forretningsorden efter forhandling med nævnet.",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2014/914",
+      "citat": "Justitsministeren fastsætter Pressenævnets forretningsorden efter forhandling med nævnet."
+     }
+    ]
+   },
+   "url": {
+    "vaerdi": "https://www.retsinformation.dk/eli/lta/1998/86",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/1998/86",
+      "citat": "Bekendtgørelse om forretningsorden for Pressenævnet"
+     }
+    ]
+   },
+   "identifikatorer": {
+    "eli": "https://www.retsinformation.dk/eli/lta/1998/86",
+    "lovtidende": "BEK nr. 86 af 09/02/1998",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/1998/86",
+      "citat": "Bekendtgørelse om forretningsorden for Pressenævnet"
+     }
+    ]
+   },
+   "note": "Status Valid og ministeriefelt Justitsministeriet ifølge lov-kommandoen (2026-11-12). Pressenævnets egen side henviser til samme bekendtgørelse."
+  },
+  {
+   "id": "kilde-pressenaevnet-kendelser",
+   "navn": "Pressenævnets kendelser",
+   "type": "dokumentkilde",
+   "ministerium": "min-justits",
+   "status": "aktiv",
+   "url": {
+    "vaerdi": "https://www.pressenaevnet.dk/faeldede-kendelser/",
+    "belaeg": [
+     {
+      "url": "https://www.pressenaevnet.dk/faeldede-kendelser/",
+      "citat": "KENDELSER 2020 – 2026 2025 2024 2023 2022 2021 2020 2010 – 2019 2019 2018 2017 2016 2015 2014 2013 2012 2011 2010 2000 – 2009"
+     }
+    ]
+   },
+   "adgang": {
+    "vaerdier": [
+     "HTML"
+    ],
+    "note": "Kendelser listes år for år på nævnets hjemmeside; PDF-format for den enkelte kendelse er set i søgning, ikke læst.",
+    "belaeg": [
+     {
+      "url": "https://www.pressenaevnet.dk/faeldede-kendelser/",
+      "citat": "KENDELSER 2020 – 2026 2025 2024 2023 2022 2021 2020 2010 – 2019 2019 2018 2017 2016 2015 2014 2013 2012 2011 2010 2000 – 2009"
+     }
+    ]
+   },
+   "licens": {
+    "tekst": "Det er tilladt at citere kendelser fuldt eller delvis med korrekt kildehenvisning til Pressenævnet.",
+    "belaeg": [
+     {
+      "url": "https://www.pressenaevnet.dk/faeldede-kendelser/",
+      "citat": "Det er tilladt at citere kendelser fuldt eller delvis med korrekt kildehenvisning til Pressenævnet."
+     }
+    ]
+   },
+   "ingest": {
+    "vaerdi": 4,
+    "besvaer": 3,
+    "begrundelse": "Samlet arkiv af presseklagekendelser fra 1999 og frem; kendelserne ligger også som KEN-poster på Retsinformation."
+   }
+  },
+  {
+   "id": "lov-radio-og-fjernsynsloven",
+   "navn": "Bekendtgørelse af lov om radio- og fjernsynsvirksomhed m.v.",
+   "type": "lov",
+   "ministerium": "min-kultur",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "ikke relevant",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2020/1350",
+      "citat": "Bekendtgørelse af lov om radio- og fjernsynsvirksomhed m.v."
+     }
+    ]
+   },
+   "url": {
+    "vaerdi": "https://www.retsinformation.dk/eli/lta/2020/1350",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2020/1350",
+      "citat": "Bekendtgørelse af lov om radio- og fjernsynsvirksomhed m.v."
+     }
+    ]
+   },
+   "identifikatorer": {
+    "eli": "https://www.retsinformation.dk/eli/lta/2020/1350",
+    "lovtidende": "LBK nr. 1350 af 04/09/2020",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2020/1350",
+      "citat": "Bekendtgørelse af lov om radio- og fjernsynsvirksomhed m.v."
+     }
+    ]
+   },
+   "note": "Gældende version ifølge lov-kommandoen: LBK nr. 1350 af 04/09/2020, ministeriefelt Kulturministeriet. Senere ændringer inkl. LOV nr. 740 og 741 af 20/06/2025. Nævnets sammensætning og §§ 40–44 d er ikke læst i teksten; hjemmel er kun belagt med § 3 og udtrykket om kulturministerens regler."
+  },
+  {
+   "id": "lov-kulturbidragsloven",
+   "navn": "Lov om visse medietjenesteudbyderes bidrag til fremme af dansk kultur (kulturbidragsloven)",
+   "type": "lov",
+   "ministerium": "min-kultur",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "ikke relevant",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2024/615",
+      "citat": "Lov om visse medietjenesteudbyderes bidrag til fremme af dansk kultur (kulturbidragsloven)"
+     }
+    ]
+   },
+   "url": {
+    "vaerdi": "https://www.retsinformation.dk/eli/lta/2024/615",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2024/615",
+      "citat": "Lov om visse medietjenesteudbyderes bidrag til fremme af dansk kultur (kulturbidragsloven)"
+     }
+    ]
+   },
+   "identifikatorer": {
+    "eli": "https://www.retsinformation.dk/eli/lta/2024/615",
+    "lovtidende": "LOV nr. 615 af 11/06/2024",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2024/615",
+      "citat": "Lov om visse medietjenesteudbyderes bidrag til fremme af dansk kultur (kulturbidragsloven)"
+     }
+    ]
+   },
+   "note": "Status Valid, ministeriefelt Kulturministeriet. Klagekompetencen for Radio- og tv-nævnet står i stk. 3."
+  },
+  {
+   "id": "naevn-radio-og-tv-naevnet",
+   "navn": "Radio- og tv-nævnet",
+   "type": "nævn",
+   "ministerium": "min-kultur",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "Nævnet meddeler distributionstilladelser efter udbud (radio- og fjernsynsloven § 3) og er klageinstans over Slots- og Kulturstyrelsens kulturbidrag-afgørelser (kulturbidragsloven stk. 3).",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2020/1350",
+      "citat": "Tilladelse meddeles af Radio- og tv-nævnet efter udbud."
+     },
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2024/615",
+      "citat": "Afgørelser truffet af Slots- og Kulturstyrelsen i henhold til denne lov eller regler udstedt i medfør heraf kan indbringes for Radio- og tv-nævnet"
+     }
+    ]
+   },
+   "dokumenttyper": {
+    "liste": [
+     {
+      "type": "afgørelse i klage over Slots- og Kulturstyrelsens kulturbidrag-afgørelser",
+      "bindende": "bindende"
+     },
+     {
+      "type": "udtalelse om public service hos DR, TV 2/Danmark A/S og de regionale TV 2-virksomheder",
+      "bindende": "vejledende"
+     }
+    ],
+    "belaeg": [
+     {
+      "url": "https://slks.dk/fileadmin/user_upload/SLKS/Omraader/Medier/Radio-_og_tv-naevnet/AArsberetninger/Radio-_og_tv-naevnets_aarsberetning_2024.pdf",
+      "citat": "Radio- og tv-nævnet agerer klageinstans over for afgørelser truffet af Slots- og Kulturstyrelsen"
+     },
+     {
+      "url": "https://slks.dk/fileadmin/user_upload/SLKS/Omraader/Medier/Radio-_og_tv-naevnet/AArsberetninger/Radio-_og_tv-naevnets_aarsberetning_2024.pdf",
+      "citat": "Radio- og tv-nævnet skal hvert år afgive udtalelse om henholdsvis DR, TV 2/Danmark A/S"
+     }
+    ]
+   },
+   "url": {
+    "vaerdi": "https://slks.dk/omraader/medier/naevn-og-udvalg/radio-og-tv-naevnet/moededatoer-og-dagsordener",
+    "belaeg": [
+     {
+      "url": "https://slks.dk/omraader/medier/naevn-og-udvalg/radio-og-tv-naevnet/moededatoer-og-dagsordener",
+      "citat": "Her kan du orientere dig om Radio- og tv-nævnets planlagte mødedatoer og se dagsordenen forud for et møde."
+     }
+    ]
+   },
+   "note": "Sekretariat: Slots- og Kulturstyrelsen, jf. nævnets årsberetning 2024 (sekretariatsrelation, derfor ikke en kant). Nævnet blev beskikket på ny pr. 1. januar 2025 til 31. december 2028 (årsberetning 2024). Reklameklager (radio/tv-reklame, jf. medieansvarsloven § 35) hører under radio- og fjernsynsloven, men nævnet har ingen førsteinstans-node i registry. Tilsynsobjekter (radio- og tv-udbydere) er ikke noder og er derfor ikke kanter."
+  },
+  {
+   "id": "naevn-ophavsretslicensnaevnet",
+   "navn": "Ophavsretslicensnævnet",
+   "type": "nævn",
+   "ministerium": "min-kultur",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "Ophavsretsloven § 47: kulturministeren nedsætter nævnet, der består af en formand (højesteretsdommer) og 2 medlemmer. Nævnet træffer afgørelser i tvister efter ophavsretsloven, bl.a. om vederlag og vilkår, og nævnets afgørelser kan ikke indbringes for anden administrativ myndighed.",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2023/1093",
+      "citat": "Kulturministeren nedsætter Ophavsretslicensnævnet. Nævnet består af en formand og 2 medlemmer, som udpeges af kulturministeren. Formanden skal være højesteretsdommer."
+     },
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2023/1093",
+      "citat": "Nævnets afgørelser kan ikke indbringes for anden administrativ myndighed."
+     }
+    ]
+   },
+   "dokumenttyper": {
+    "liste": [
+     {
+      "type": "afgørelse om vilkår eller vederlag i tvister efter ophavsretsloven",
+      "bindende": "bindende"
+     }
+    ],
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2023/1093",
+      "citat": "Ophavsretslicensnævnet kan træffe afgørelse i henhold til § 11 c, stk. 3, § 13, § 13 a, stk. 5, og § 14,"
+     }
+    ]
+   },
+   "krydsref_moenstre": [
+    "Ophavsretslicensnævnets kendelse i sag nr."
+   ],
+   "note": "Ingen hjemmeside-url belagt: slks.dk og kum.dk optræder i søgning med årsberetninger og kendelser, men ingen forside er åbnet. Sagsnummer- og adgangsforhold ikke verificeret. Kulturministerens bemyndigelse til nærmere regler (§ 47 stk. 3) er ikke fulgt op; BEK 25/2004 fra søgning er ikke verificeret."
+  },
+  {
+   "id": "naevn-biblioteksafgiftsnaevnet",
+   "navn": "Biblioteksafgiftsnævnet",
+   "type": "nævn",
+   "ministerium": "min-kultur",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "Nævnet er nedsat i henhold til § 7 i lovbekendtgørelse nr. 1175 af 17. december 2002 om biblioteksafgift.",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2008/683",
+      "citat": "Biblioteksafgiftsnævnet er nedsat i henhold til § 7 i lovbekendtgørelse nr. 1175 af 17. december 2002 om biblioteksafgift."
+     }
+    ]
+   },
+   "dokumenttyper": {
+    "liste": [
+     {
+      "type": "endelig administrativ afgørelse i klager over fordelingen af den almindelige biblioteksafgift",
+      "bindende": "bindende"
+     }
+    ],
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2008/683",
+      "citat": "Nævnets opgave er at træffe den endelige administrative afgørelse vedrørende klager over afgørelser truffet af Styrelsen for Bibliotek og Medier"
+     }
+    ]
+   },
+   "note": "BEK nr. 683 af 27/06/2008 er Valid pr. 2026-11-12 (lov-kommandoen). Førsteinstansen i bekendtgørelsen er Styrelsen for Bibliotek og Medier, som ikke er en registry-node; efterfølgeren er ikke fastlagt. Nævnets adresse er Kulturministeriet (§ 1 stk. 2). Ingen egen hjemmeside belagt."
+  },
+  {
+   "id": "raad-dansk-sprognaevn",
+   "navn": "Dansk Sprognævn",
+   "type": "råd",
+   "ministerium": "min-kultur",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "Lov om Dansk Sprognævn § 1: nævnet er en statsinstitution, der skal fastlægge den danske retskrivning; § 2: nævnet udgiver den officielle retskrivningsordbog.",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2015/217",
+      "citat": "Dansk Sprognævn er en statsinstitution, som har til opgave at følge det danske sprogs udvikling, at give råd og oplysninger om det danske sprog og at fastlægge den danske retskrivning."
+     },
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2015/217",
+      "citat": "Dansk Sprognævn redigerer og udgiver den officielle danske retskrivningsordbog."
+     }
+    ]
+   },
+   "dokumenttyper": {
+    "liste": [
+     {
+      "type": "retskrivningsordbog (officiel udgave)",
+      "bindende": "ukendt",
+      "note": "Bindende virkning for offentlige myndigheder er ikke belagt; se hul."
+     }
+    ],
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2015/217",
+      "citat": "Dansk Sprognævn redigerer og udgiver den officielle danske retskrivningsordbog."
+     }
+    ]
+   },
+   "url": {
+    "vaerdi": "https://dsn.dk/",
+    "belaeg": [
+     {
+      "url": "https://dsn.dk/",
+      "citat": "Vi fastlægger dansk retskrivning, rådgiver og oplyser om dansk sprog og sprogbrug og følger udviklingen af det danske sprog."
+     }
+    ]
+   },
+   "note": "Typen råd er valgt af mangel på bedre type; loven kalder nævnet en statsinstitution. Retskrivningsbekendtgørelsen BEK nr. 1059 af 22/09/2024 handler om Sprognævnets virksomhed og sammensætning, ikke om bindende virkning for myndigheder (tjekket med tekst-kommandoen)."
+  },
+  {
+   "id": "lov-dansk-sprognaevn",
+   "navn": "Bekendtgørelse af lov om Dansk Sprognævn",
+   "type": "lov",
+   "ministerium": "min-kultur",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "ikke relevant",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2015/217",
+      "citat": "Dansk Sprognævn er en statsinstitution, som har til opgave at følge det danske sprogs udvikling, at give råd og oplysninger om det danske sprog og at fastlægge den danske retskrivning."
+     }
+    ]
+   },
+   "url": {
+    "vaerdi": "https://www.retsinformation.dk/eli/lta/2015/217",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2015/217",
+      "citat": "Dansk Sprognævn er en statsinstitution, som har til opgave at følge det danske sprogs udvikling, at give råd og oplysninger om det danske sprog og at fastlægge den danske retskrivning."
+     }
+    ]
+   },
+   "identifikatorer": {
+    "eli": "https://www.retsinformation.dk/eli/lta/2015/217",
+    "lovtidende": "LBK nr. 217 af 13/02/2015",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2015/217",
+      "citat": "Dansk Sprognævn er en statsinstitution, som har til opgave at følge det danske sprogs udvikling, at give råd og oplysninger om det danske sprog og at fastlægge den danske retskrivning."
+     }
+    ]
+   },
+   "note": "Lovbekendtgørelsen er ikke set via lov-kommandoen; ELI og lovtidende-nummer er hentet fra BEK nr. 1059/2024 og tekst-kommandoen på ELI-adressen."
+  },
+  {
+   "id": "bek-dansk-sprognaevns-virksomhed",
+   "navn": "Bekendtgørelse om Dansk Sprognævns virksomhed og sammensætning (BEK nr. 1059 af 22/09/2024)",
+   "type": "bekendtgørelse",
+   "ministerium": "min-kultur",
+   "status": "aktiv",
+   "hjemmel": {
+    "tekst": "Udstedt i medfør af § 1, stk. 5, i lov om Dansk Sprognævn.",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2024/1059",
+      "citat": "I medfør af § 1, stk. 5, i lov om Dansk Sprognævn, jf. lovbekendtgørelse nr. 217 af 13. februar 2015, fastsættes:"
+     }
+    ]
+   },
+   "url": {
+    "vaerdi": "https://www.retsinformation.dk/eli/lta/2024/1059",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2024/1059",
+      "citat": "Bekendtgørelse om Dansk Sprognævns virksomhed og sammensætning"
+     }
+    ]
+   },
+   "identifikatorer": {
+    "eli": "https://www.retsinformation.dk/eli/lta/2024/1059",
+    "lovtidende": "BEK nr. 1059 af 22/09/2024",
+    "belaeg": [
+     {
+      "url": "https://www.retsinformation.dk/eli/lta/2024/1059",
+      "citat": "Bekendtgørelse om Dansk Sprognævns virksomhed og sammensætning"
+     }
+    ]
+   },
+   "note": "Status Valid, ministeriefelt Kulturministeriet (tekst-kommandoen). Erstatter BEK nr. 178 af 2009 (katalog)."
+  },
+  {
+   "id": "kilde-retskrivningsordbogen",
+   "navn": "Retskrivningsordbogen",
+   "type": "dokumentkilde",
+   "ministerium": "min-kultur",
+   "status": "aktiv",
+   "url": {
+    "vaerdi": "https://dsn.dk/",
+    "belaeg": [
+     {
+      "url": "https://dsn.dk/",
+      "citat": "Ordbøger Retskrivningsordbogen"
+     }
+    ]
+   },
+   "note": "Ikke undersøgt udover forsiden: adgangsform, licens og nummersystem er ikke belagt og er derfor ikke udfyldt."
+  }
+ ],
+ "kanter": [
+  {
+   "from": "min-justits",
+   "type": "ressortansvar",
+   "to": "lov-medieansvarsloven",
+   "beskrivelse": "Justitsministeren fastsætter nævnets forretningsorden, dvs. loven hører under justitsministeren.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2014/914",
+     "citat": "Justitsministeren fastsætter Pressenævnets forretningsorden efter forhandling med nævnet."
+    }
+   ]
+  },
+  {
+   "from": "min-justits",
+   "type": "ressortansvar",
+   "to": "naevn-pressenaevnet",
+   "beskrivelse": "Justitsministeren beskikker nævnets medlemmer (§ 41).",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2014/914",
+     "citat": "Der oprettes et Pressenævn bestående af en formand og en næstformand og 6 andre medlemmer, der beskikkes af justitsministeren."
+    }
+   ]
+  },
+  {
+   "from": "lov-medieansvarsloven",
+   "type": "hjemmel_for",
+   "to": "naevn-pressenaevnet",
+   "beskrivelse": "§ 41 opretter nævnet; § 34 stk. 2 giver klagevejen direkte til nævnet eller via mediet, senest 12 uger; § 43 giver afgørelse om god presseskik og genmæle; § 50 gør kendelserne endelige administrativt.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2014/914",
+     "citat": "Der oprettes et Pressenævn bestående af en formand og en næstformand og 6 andre medlemmer, der beskikkes af justitsministeren."
+    },
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2014/914",
+     "citat": "Klager over overtrædelse af stk. 1 kan rettes til det pågældende massemedie selv eller direkte til Pressenævnet, jf. dog stk. 3."
+    },
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2014/914",
+     "citat": "Pressenævnet træffer afgørelse i sager om"
+    },
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2014/914",
+     "citat": "Nævnets kendelser kan ikke indbringes for anden administrativ myndighed."
+    }
+   ]
+  },
+  {
+   "from": "lov-medieansvarsloven",
+   "type": "hjemmel_for",
+   "to": "bek-pressenaevn-forretningsorden",
+   "beskrivelse": "§ 52: justitsministeren fastsætter forretningsorden for nævnet.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2014/914",
+     "citat": "Justitsministeren fastsætter Pressenævnets forretningsorden efter forhandling med nævnet."
+    }
+   ]
+  },
+  {
+   "from": "naevn-pressenaevnet",
+   "type": "udsteder",
+   "to": "kilde-pressenaevnet-kendelser",
+   "beskrivelse": "Nævnet udgiver sine kendelser på sin hjemmeside.",
+   "belaeg": [
+    {
+     "url": "https://www.pressenaevnet.dk/faeldede-kendelser/",
+     "citat": "KENDELSER 2020 – 2026 2025 2024 2023 2022 2021 2020 2010 – 2019 2019 2018 2017 2016 2015 2014 2013 2012 2011 2010 2000 – 2009"
+    }
+   ]
+  },
+  {
+   "from": "min-kultur",
+   "type": "ressortansvar",
+   "to": "lov-radio-og-fjernsynsloven",
+   "beskrivelse": "Kulturministeren har bemyndigelser i loven, dvs. loven hører under kulturministeren.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2020/1350",
+     "citat": "Kulturministeren kan fastsætte regler om udbudsforretninger i henhold til stk. 2"
+    }
+   ]
+  },
+  {
+   "from": "min-kultur",
+   "type": "ressortansvar",
+   "to": "lov-kulturbidragsloven",
+   "beskrivelse": "Loven hører under kulturministeren (ministeriefelt Kulturministeriet).",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2024/615",
+     "citat": "Lov om visse medietjenesteudbyderes bidrag til fremme af dansk kultur (kulturbidragsloven)"
+    }
+   ]
+  },
+  {
+   "from": "min-kultur",
+   "type": "ressortansvar",
+   "to": "naevn-radio-og-tv-naevnet",
+   "beskrivelse": "Nævnet hører under Kulturministeriet, som også fører radio- og fjernsynsloven. Ressortbelægget er svagt: citatet taler om kulturministerens regler, ikke om nævnets placering.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2020/1350",
+     "citat": "Kulturministeren kan fastsætte regler om udbudsforretninger i henhold til stk. 2"
+    }
+   ]
+  },
+  {
+   "from": "lov-radio-og-fjernsynsloven",
+   "type": "hjemmel_for",
+   "to": "naevn-radio-og-tv-naevnet",
+   "beskrivelse": "§ 3: distributionstilladelser meddeles af nævnet efter udbud.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2020/1350",
+     "citat": "Tilladelse meddeles af Radio- og tv-nævnet efter udbud."
+    }
+   ]
+  },
+  {
+   "from": "lov-kulturbidragsloven",
+   "type": "hjemmel_for",
+   "to": "naevn-radio-og-tv-naevnet",
+   "beskrivelse": "Stk. 3: klage over Slots- og Kulturstyrelsens afgørelser inden 4 uger; nævnets afgørelser kan ikke indbringes for anden administrativ myndighed.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2024/615",
+     "citat": "Afgørelser truffet af Slots- og Kulturstyrelsen i henhold til denne lov eller regler udstedt i medfør heraf kan indbringes for Radio- og tv-nævnet"
+    },
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2024/615",
+     "citat": "Nævnets afgørelser efter denne lov kan ikke indbringes for anden administrativ myndighed."
+    }
+   ]
+  },
+  {
+   "from": "lov-kulturbidragsloven",
+   "type": "hjemmel_for",
+   "to": "sty-slots-og-kulturstyrelsen",
+   "beskrivelse": "Loven giver Slots- og Kulturstyrelsen afgørelseskompetencen (stk. 3).",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2024/615",
+     "citat": "Afgørelser truffet af Slots- og Kulturstyrelsen i henhold til denne lov eller regler udstedt i medfør heraf"
+    }
+   ]
+  },
+  {
+   "from": "naevn-radio-og-tv-naevnet",
+   "type": "klageinstans",
+   "to": "sty-slots-og-kulturstyrelsen",
+   "beskrivelse": "Kulturbidragsloven stk. 3: klage over Slots- og Kulturstyrelsens afgørelser inden 4 uger. Gælder kulturbidrag-afgørelser, ikke alle styrelsens afgørelser.",
+   "belaeg": [
+    {
+     "url": "https://slks.dk/fileadmin/user_upload/SLKS/Omraader/Medier/Radio-_og_tv-naevnet/AArsberetninger/Radio-_og_tv-naevnets_aarsberetning_2024.pdf",
+     "citat": "Radio- og tv-nævnet agerer klageinstans over for afgørelser truffet af Slots- og Kulturstyrelsen"
+    },
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2024/615",
+     "citat": "senest 4 uger efter at styrelsens afgørelse er meddelt medietjenesteudbyderen"
+    }
+   ]
+  },
+  {
+   "from": "min-kultur",
+   "type": "ressortansvar",
+   "to": "naevn-ophavsretslicensnaevnet",
+   "beskrivelse": "Kulturministeren nedsætter nævnet.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2023/1093",
+     "citat": "Kulturministeren nedsætter Ophavsretslicensnævnet."
+    }
+   ]
+  },
+  {
+   "from": "lov-ophavsretsloven",
+   "type": "hjemmel_for",
+   "to": "naevn-ophavsretslicensnaevnet",
+   "beskrivelse": "§ 47 opretter nævnet og giver det afgørelseskompetence i tvister efter ophavsretsloven.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2023/1093",
+     "citat": "Kulturministeren nedsætter Ophavsretslicensnævnet."
+    },
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2023/1093",
+     "citat": "Ophavsretslicensnævnet kan træffe afgørelse i henhold til § 11 c, stk. 3, § 13, § 13 a, stk. 5, og § 14,"
+    }
+   ]
+  },
+  {
+   "from": "min-kultur",
+   "type": "ressortansvar",
+   "to": "naevn-biblioteksafgiftsnaevnet",
+   "beskrivelse": "Nævnets adresse er Kulturministeriet; ressortforholdet er ikke udtrykkeligt belagt.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2008/683",
+     "citat": "Nævnets adresse er Kulturministeriet, Nybrogade 2, 1203 København K."
+    }
+   ]
+  },
+  {
+   "from": "min-kultur",
+   "type": "ressortansvar",
+   "to": "lov-dansk-sprognaevn",
+   "beskrivelse": "Kulturministeren fastsætter regler om Sprognævnets virksomhed.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2015/217",
+     "citat": "Kulturministeren fastsætter nærmere regler om grundlaget for Sprognævnets virksomhed."
+    }
+   ]
+  },
+  {
+   "from": "min-kultur",
+   "type": "ressortansvar",
+   "to": "raad-dansk-sprognaevn",
+   "beskrivelse": "Kulturministeren fastsætter regler om Sprognævnets grundlag; ministeriefelt for BEK 1059/2024 er Kulturministeriet.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2015/217",
+     "citat": "Kulturministeren fastsætter nærmere regler om grundlaget for Sprognævnets virksomhed."
+    }
+   ]
+  },
+  {
+   "from": "lov-dansk-sprognaevn",
+   "type": "hjemmel_for",
+   "to": "raad-dansk-sprognaevn",
+   "beskrivelse": "§ 1 og § 2: nævnets opgave og retskrivningsordbog.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2015/217",
+     "citat": "Dansk Sprognævn er en statsinstitution, som har til opgave at følge det danske sprogs udvikling"
+    },
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2015/217",
+     "citat": "Dansk Sprognævn redigerer og udgiver den officielle danske retskrivningsordbog."
+    }
+   ]
+  },
+  {
+   "from": "lov-dansk-sprognaevn",
+   "type": "hjemmel_for",
+   "to": "bek-dansk-sprognaevns-virksomhed",
+   "beskrivelse": "BEK nr. 1059/2024 er udstedt i medfør af § 1, stk. 5.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2024/1059",
+     "citat": "I medfør af § 1, stk. 5, i lov om Dansk Sprognævn, jf. lovbekendtgørelse nr. 217 af 13. februar 2015, fastsættes:"
+    }
+   ]
+  },
+  {
+   "from": "raad-dansk-sprognaevn",
+   "type": "udsteder",
+   "to": "kilde-retskrivningsordbogen",
+   "beskrivelse": "Nævnet redigerer og udgiver den officielle retskrivningsordbog.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2015/217",
+     "citat": "Dansk Sprognævn redigerer og udgiver den officielle danske retskrivningsordbog."
+    }
+   ]
+  }
+ ],
+ "rettelser": [],
+ "huller": [
+  {
+   "emne": "Medierådet for Børn og Unge: bekendtgørelse om rådet og aldersvurdering",
+   "type": "ikke-fundet",
+   "beskrivelse": "Bekendtgørelsen ligger efter søgning under filmloven (LBK nr. 1354/2020 i katalog) men er ikke fundet med ELI. Tekstsøgningen 'Medierådet for Børn og Unge består' på filmlovens ELI gav ingen træf. Node er ikke oprettet.",
+   "noder": [],
+   "kilder": []
+  },
+  {
+   "emne": "Ophavsretslicensnævnets egen hjemmeside og afgørelsesdatabase",
+   "type": "uklart",
+   "beskrivelse": "Ingen forside er åbnet. Søgning gav årsberetninger og kendelser på slks.dk og kum.dk, men adresse, adgangsform og nummersystem er ikke verificeret, så dokumentkilde og url er ikke oprettet.",
+   "noder": [
+    "naevn-ophavsretslicensnaevnet"
+   ],
+   "kilder": []
+  },
+  {
+   "emne": "Biblioteksafgift: gældende hjemmelslov og efterfølger for Styrelsen for Bibliotek og Medier",
+   "type": "ikke-fundet",
+   "beskrivelse": "BEK nr. 683/2008 hjemler nævnet i LBK nr. 1175/2002. Tekstsøgning efter 'Biblioteksafgiftsnævn' på LBK 1175/2002 gav ingen træf, så gældende version er ikke fastlagt. Efterfølger for den nedlagte førsteinstans er ikke fastlagt, og der er ingen klagekant.",
+   "noder": [
+    "naevn-biblioteksafgiftsnaevnet"
+   ],
+   "kilder": []
+  },
+  {
+   "emne": "Bindende virkning af retskrivningen for offentlige myndigheder",
+   "type": "uklart",
+   "beskrivelse": "Audit-sporet siger, at BEK nr. 1059/2024 gør retskrivningen bindende. Det er ikke belagt: BEK 1059/2024 og lov om Dansk Sprognævn (LBK 217/2015) har ikke sådan bestemmelse, og søgning peger på en retskrivningslov, som ikke er fundet med ELI. Ingen kant er tegnet.",
+   "noder": [
+    "raad-dansk-sprognaevn",
+    "bek-dansk-sprognaevns-virksomhed"
+   ],
+   "kilder": []
+  },
+  {
+   "emne": "Radio- og tv-nævnets afgørelser som dokumentkilde",
+   "type": "uklart",
+   "beskrivelse": "Nævnets afgørelser og udtalelser ligger på slks.dk under 'Afgørelser og udtalelser', men siden er ikke læst. Adgangsform, licens og sagsnummersystem er ikke belagt, så ingen dokumentkilde-node er oprettet.",
+   "noder": [
+    "naevn-radio-og-tv-naevnet"
+   ],
+   "kilder": []
+  },
+  {
+   "emne": "Pressenævnets førsteinstans: massemediernes egne afgørelser",
+   "type": "andet",
+   "beskrivelse": "Medier med egen klagebehandling (§ 34 stk. 2) er ikke noder i registry, og de kan derfor ikke være klageinstans-endepunkter. DR, TV 2 og de regionale TV 2-virksomheder har særregler i § 34 stk. 3, som ikke er indarbejdet.",
+   "noder": [
+    "naevn-pressenaevnet"
+   ],
+   "kilder": []
+  }
+ ],
+ "noter": "Til orkestratoren: (1) Audit-sporet om 'kun to instansnoder' er forkert: registry har også sty-kulturstyrelsen, sty-kulturarvsstyrelsen (begge nedlagt), raad-det-saerlige-bygningssyn m.fl. (2) sty-slots-og-kulturstyrelsen: navnet 'Slots- og Kulturstyrelsen' er bekræftet på slks.dk. Ministeriet er ikke angivet udtrykkeligt på siden ('faglig rådgivning til kulturministeren'), og den er ikke rettet. Kulturbidragsloven og Radio- og tv-nævnets årsberetning 2024 bekræfter styrelsens rolle. (3) min-kultur-noten taler om scope 'bygningsfredning og bevaring'; det er forældet, da Kulturministeriet også fører radio- og fjernsynsloven, kulturbidragsloven, BEK 1059/2024 og BEK 683/2008. Noten er ikke rettet, da den ikke er et påstandsfelt. (4) Ikke undersøgt: Pressenævnets 4.000+ kendelser (ikke talt), Medierådets bekendtgørelse, Ophavsretslicensnævnets BEK fra 2004 (kun søgeresultat), Dansk Sprognævns retskrivningslov (ELI ikke fundet). (5) Radio-tv-lovens nævnsparagraffer (§§ 40–44 d) er ikke læst i teksten. Hjemmel er kun belagt med § 3 og kulturbidrag-stk. 3. (6) Hjemmel-kæden for Pressenævnet er fuldt belagt med tekst fra LBK 914/2014; sekundære sider er ikke brugt som belæg."
+}
