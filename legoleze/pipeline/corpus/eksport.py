@@ -2,7 +2,7 @@
 """Retsinformations søgeeksport som kilde til kataloget og til fortegnelsen over administrative forskrifter.
 
     python3 eksport.py hent       # metadata for alle dokumenter pr. samling -> intermediate/corpus/eksport/<samling>.jsonl
-    python3 eksport.py katalog    # ajourfør katalog/retsinformation_lta.jsonl og kanter.jsonl fra eksporten (kræver PyYAML)
+    python3 eksport.py katalog    # ajourfør katalog/retsinformation_<samling>.jsonl og kanter.jsonl fra eksporten (kræver PyYAML)
     python3 eksport.py selftest
 
 Eksporten er sidens egen "Eksportér søgeresultat" (api/documentsearch/csv). Ét kald giver alle dokumenter i en samling for et
@@ -15,6 +15,12 @@ peger lovfamilier på den nyeste gældende version; skriver hjemmel_for-kanter f
 Retsinformations ressortfelt på alle gældende dokumenter, hvor feltet med sikkerhed er aktuelt (populate.ressort). Nye gældende
 dokumenter uden et sådant felt får ministerium og retsområde fra den lov, de er udstedt efter eller ændrer. Resten står i
 eksport/klassifikation_job.json; svarene læses fra eksport/klassifikation.json. Ressortkanter til dokumenter, der ikke længere gælder, fjernes.
+
+De øvrige samlinger (ANDRE: Lovtidende B og C, Ministerialtidende, administrative forskrifter og afgørelser, Folketingets Ombudsmand og
+Folketingstidende) skrives som katalog/retsinformation_<samling>.jsonl direkte fra eksporten. Hjemmelsfeltet kobler dem til lovgivningen
+(hjemmelkant), og gældende dokumenter får ministerium fra ressortfeltet efter samme regel eller arver ministerium og retsområde fra den
+lovgivning, de vedrører. I Folketingstidende har alle dokumenter om samme lovforslag samme nøgle i feltet lovforslag, og den vedtagne tekst
+har feltet lov: den lov, den blev til (lovkobling). Lovforslagets dokumenter får en henviser_til-kant til loven (forarbejde, sandsynlig).
 """
 from __future__ import annotations
 
@@ -46,6 +52,8 @@ L = HERE.parents[1]
 KAT = L / "dk-regulering" / "katalog"
 EKS = L / "intermediate" / "corpus" / "eksport"
 SAMLINGER = {"lta": 1, "ltb": 2, "ltc": 3, "mt": 4, "retsinfo": 5, "ft": 6, "fob": 7}
+ANDRE = ("ltb", "ltc", "mt", "retsinfo", "fob", "ft")
+PRAKSIS = {"endelig-adm-afgørelse", "afgørelse", "udtalelse", "udtalelser", "dom", "kommentar"}
 METODE = "retsinformation-eksport"
 TYPER = {"Anordningsbekendtgørelse": "bekendtgørelse-af-anordning"}
 LOVE = ("lov", "lovbekendtgørelse")
@@ -65,6 +73,11 @@ def intervaller(aar: dict, loft: int = 3000) -> list[tuple[str, str, int]]:
         n += aar[y]
     start += [(cur[0], n)] if cur else []
     return [("" if i == 0 else fra, str(int(start[i + 1][0]) - 1) if i + 1 < len(start) else "", antal) for i, (fra, antal) in enumerate(start)]
+
+
+def linje(d: dict) -> str:
+    """Én JSON-linje. NEL, U+2028 og U+2029 skrives som escapes, så læsere, der regner dem for linjeskift (str.splitlines), ikke deler posten."""
+    return json.dumps(d, ensure_ascii=False).translate({0x85: "\\u0085", 0x2028: "\\u2028", 0x2029: "\\u2029"}) + "\n"
 
 
 def raekker(raw: bytes) -> list[dict]:
@@ -87,7 +100,7 @@ def hent() -> dict:
             if status != "ok":
                 raise SystemExit(f"{navn} {y1}-{y2}: {status}")
             ud.update((r["EliUrl"], r) for r in raekker(raw) if r.get("EliUrl"))
-        (EKS / f"{navn}.jsonl").write_text("".join(json.dumps(ud[k], ensure_ascii=False) + "\n" for k in sorted(ud)), encoding="utf-8")
+        (EKS / f"{navn}.jsonl").write_text("".join(linje(ud[k]) for k in sorted(ud)), encoding="utf-8")
         stats[navn] = {"eksport": len(ud), "sitemap": sum(aar[navn].values()), "gældende": sum(r.get("Historisk") != "True" for r in ud.values())}
     return stats
 
@@ -97,7 +110,7 @@ def dato(s: str | None) -> str | None:
 
 
 def nid(eli: str) -> str:
-    return "lta-" + "-".join(eli.rstrip("/").split("/")[-2:])
+    return eli.rstrip("/").split("/eli/")[1].replace("/", "-")
 
 
 def titelnoegle(navn: str) -> str:
@@ -111,26 +124,63 @@ def henvist(tekst: str | None, ids: dict) -> list[str]:
 
 
 def post(r: dict, idag: str) -> dict:
-    """En katalogpost for et dokument i Lovtidende A ud fra eksportens række."""
+    """En katalogpost ud fra eksportens række. Lovtidende-betegnelse, dokumentrolle og tekstfelter findes kun for Lovtidende A; i de
+    andre samlinger er typen Retsinformations egen dokumenttype, når den ikke er en af katalogets. I Folketingstidende er id'et år og
+    samling (5 cifre), en art (et ciffer for dokumenter om et lovforslag), et bogstav og et løbenummer; feltet lovforslag er år og samling
+    plus lovforslagets nummer, så fremsat og vedtaget tekst, betænkninger og ændringsforslag om samme lovforslag får samme nøgle."""
+    i = nid(r["EliUrl"])
+    samling, *_, nr = i.split("-")
+    aar, lta = i.split("-")[1][:4], samling == "lta"
     typ = TYPER.get(r["DokumentType"]) or X.norm_type(r["DokumentType"], r["Titel"])
-    aar, nr = r["EliUrl"].rstrip("/").split("/")[-2:]
-    u = dato(r.get("UnderskriftDato")) or f"{aar}-01-01"
-    omraade = {"Kun Grønland": "GL", "Kun Færøerne": "FO"}.get(r.get("GeografiskDækning"))
+    if typ == "ukendt" and not lta:
+        typ = re.sub(r"[^a-zæøå0-9]+", "-", re.sub(r"\(\d sp\)", "", r["DokumentType"].lower())).strip("-")
+    u = dato(r.get("UnderskriftDato")) or (f"{aar}-01-01" if lta else None)
+    sag = re.search(r"\d+", r.get("Nummer", "")) if samling == "ft" and nr[5].isdigit() else None
+    omraade = {"Kun Grønland": "GL", "Kun Færøerne": "FO", "Kun Grønland og Færøerne": "GL+FO"}.get(r.get("GeografiskDækning"))
     udsteder = r.get("AdministrerendeMyndighed") or r.get("Ressort")
     datoer = {"udstedt": u, "historisk_markeret": dato(r.get("HistoriskDato")), "ri_registreret": dato(r.get("PubliceretTidspunkt")),
               "ri_aendret": dato(r.get("SidstPubliceretTidspunkt"))}
     return {
-        "id": f"lta-{aar}-{nr}", "navn": r["Titel"], "type": typ, "kilder": [f"{P.RI}/eli/lta/{aar}/{nr}/xml"],
+        "id": i, "navn": r["Titel"], "type": typ, "kilder": [f"{P.RI}/eli/{i.replace('-', '/')}" + "/xml" * lta],
         "status": {"vaerdi": "historisk" if r.get("Historisk") == "True" else "gældende", "pr": idag, "sikkerhed": "verificeret"},
-        "identifikatorer": {"lovtidende": f"{X.ABBR[typ]} nr. {nr} af {u[8:]}/{u[5:7]}/{u[:4]}", "document_id": r.get("DokumentId"),
+        "identifikatorer": {**({"lovtidende": f"{X.ABBR[typ]} nr. {nr} af {u[8:]}/{u[5:7]}/{u[:4]}"} if lta else {}), "document_id": r.get("DokumentId"),
                             "accession": r.get("ACCN"), "sikkerhed": "verificeret"},
         "datoer": {k: v for k, v in datoer.items() if v},
         "territorium": omraade if omraade and K.territorium(r["Titel"]) == "DK" else K.territorium(r["Titel"]),
-        "dokumentrolle": K.rolle({"type": typ, "titel": r["Titel"]}),
+        **({"dokumentrolle": K.rolle({"type": typ, "titel": r["Titel"]})} if lta else {}),
         "udstedt_af": {"vaerdi": udsteder or "ukendt", "metode": METODE if udsteder else "ingen", "praefiks": (r.get("DokumentId") or "")[:2],
                        "sikkerhed": "verificeret" if udsteder else "ukendt"},
-        "n_paragraffer": 0, "n_definitioner": 0,
+        **({"n_paragraffer": 0, "n_definitioner": 0} if lta else {}),
+        **({"lovforslag": f"{nr[:5]}-{int(sag[0])}"} if sag else {}),
     }
+
+
+def lovkobling(ft: list[dict], love: list[dict]) -> dict:
+    """{id på den vedtagne tekst: lov-id}: den lov, hvis titel er den vedtagne teksts uden "Forslag til", og som er underskrevet fra 3 dage
+    før til 60 dage efter vedtagelsen. Vedtagne tekster med ingen eller flere sådanne love kobles ikke."""
+    titel = lambda t: re.sub(r"\W+", " ", re.sub(r"(?i)^\s*forslag\s+til\s+", "", t.replace("\\n", " ")).lower()).strip()
+    dag = lambda d: datetime.date.fromisoformat(d["datoer"]["udstedt"])
+    kand = collections.defaultdict(list)
+    for d in love:
+        kand[titel(d["navn"])].append(d)
+    ud = {}
+    for d in ft:
+        if d["type"] == "lovforslag-som-vedtaget" and d["datoer"].get("udstedt"):
+            hit = [x["id"] for x in kand.get(titel(d["navn"]), []) if -3 <= (dag(x) - dag(d)).days <= 60]
+            if len(hit) == 1:
+                ud[d["id"]] = hit[0]
+    return ud
+
+
+def hjemmelkant(d: dict, lov: dict) -> dict:
+    """Kanten mellem et dokument og den lovgivning, Retsinformation fører det under: hjemmel_for fra loven til forskrifter og vejledninger,
+    henviser_til fra afgørelser, udtalelser og domme (PRAKSIS) til loven."""
+    praksis, gv = d["type"] in PRAKSIS, lov.get("gaeldende_version")
+    tekst = ("hjemmel ifølge Retsinformation (den version, forskriften henviser til)" if d["id"].startswith("lta-")
+             else "lovgivning, dokumentet vedrører, ifølge Retsinformation (den version, dokumentet henviser til)")
+    return {"from": d["id"] if praksis else lov["id"], "type": "henviser_til" if praksis else "hjemmel_for", "to": lov["id"] if praksis else d["id"],
+            "beskrivelse": tekst, "kilder": [f"{P.RI}/eli/{d['id'].replace('-', '/')}"], "sikkerhed": "verificeret", "metode": METODE,
+            **({"gaeldende_version": gv} if gv else {})}
 
 
 def familier(docs: list[dict], blev_historisk: set) -> dict:
@@ -256,7 +306,7 @@ def dashboard(tal: dict, docs: list[dict], reg: dict) -> None:
 
 def katalog() -> dict:
     idag = str(datetime.date.today())
-    eks = {nid(r["EliUrl"]): r for r in map(json.loads, (EKS / "lta.jsonl").open(encoding="utf-8"))}
+    eks = {nid(r["EliUrl"]): r for s in ("lta", *ANDRE) for r in map(json.loads, (EKS / f"{s}.jsonl").open(encoding="utf-8"))}
     docs = [d for d in map(json.loads, (KAT / "retsinformation_lta.jsonl").open(encoding="utf-8")) if "seed_fil" in d]
     stats = collections.Counter(katalog_foer=len(docs))
     blev_historisk = set()
@@ -274,14 +324,17 @@ def katalog() -> dict:
                 d["datoer"]["historisk_markeret"] = dato(r["HistoriskDato"])
         d["status"] = {**d["status"], "vaerdi": ny, "pr": idag}
     kendte = {d["id"] for d in docs}
-    nye = [post(r, idag) for i, r in sorted(eks.items()) if i not in kendte]
+    fra_eksport = [post(r, idag) for i, r in sorted(eks.items()) if i not in kendte]
+    nye = [d for d in fra_eksport if d["id"].startswith("lta-")]
+    andre = [d for d in fra_eksport if not d["id"].startswith("lta-")]
     stats["nye med ukendt type (udeladt)"] = sum(d["type"] == "ukendt" for d in nye)
     nye = [d for d in nye if d["type"] != "ukendt"]
     stats["nye dokumenter"] = len(nye)
     stats["heraf gældende"] = sum(d["status"]["vaerdi"] == "gældende" for d in nye)
     docs += nye
-    ids = {d["id"]: d for d in docs}
-    accession = {d["identifikatorer"].get("accession"): d["id"] for d in docs}
+    alle = andre + docs
+    ids = {d["id"]: d for d in alle}
+    accession = {d["identifikatorer"].get("accession"): d["id"] for d in alle}
     for d in nye:
         if d["dokumentrolle"] == "ændring" and (maal := henvist(eks[d["id"]].get("ÆndrerI"), ids)):
             d["aendrer"] = maal
@@ -298,16 +351,22 @@ def katalog() -> dict:
         aeldre = [v for v in versioner[titelnoegle(d["navn"])] if v["datoer"].get("udstedt", "") < d["datoer"].get("udstedt", "")] if d["type"] in LOVE else []
         return [max(aeldre, key=lambda v: v["datoer"]["udstedt"])["id"]] if aeldre else []
 
-    foraeldre = {d["id"]: [*hjemmel.get(d["id"], []), *d.get("aendrer", []), *forgaenger(d)] for d in nye}
+    kob = lovkobling(andre, [d for d in docs if d["type"] in ("lov", "ændringslov") and d["datoer"].get("udstedt")])
+    sag = collections.defaultdict(list)
+    for i, lov in kob.items():
+        ids[i]["lov"] = lov
+        sag[ids[i]["lovforslag"]].append(lov)
+    stats["lovforslag koblet til lov"] = len(sag)
+    foraeldre = {d["id"]: [*hjemmel.get(d["id"], []), *d.get("aendrer", []), *forgaenger(d), *sag.get(d.get("lovforslag"), [])] for d in nye + andre}
     reg = P.yaml.load(P.REG.read_text(encoding="utf-8"), Loader=P.yaml.CSafeLoader)
     svarfil = EKS / "klassifikation.json"
     omraader = {o["omraade"] for o in json.loads((L / "dashboard" / "omraader.json").read_text(encoding="utf-8"))}
     svar = json.loads(svarfil.read_text(encoding="utf-8")) if svarfil.exists() else {}
-    foer = {d["id"]: (d.get("ministerium") or {}).get("vaerdi") for d in docs}
-    rest = klassificer(docs, foraeldre, eks, reg, {i: {**v, "retsomraade": v.get("retsomraade") if v.get("retsomraade") in omraader else None} for i, v in svar.items()}, idag)
+    foer = {d["id"]: (d.get("ministerium") or {}).get("vaerdi") for d in alle}
+    rest = [d for d in klassificer(alle, foraeldre, eks, reg, {i: {**v, "retsomraade": v.get("retsomraade") if v.get("retsomraade") in omraader else None} for i, v in svar.items()}, idag) if d["id"].startswith("lta-")]
     stats["gældende uden fuld klassifikation"] = len(rest)
-    ri = {d["id"] for d in docs if d["status"]["vaerdi"] == "gældende" and (d.get("ministerium") or {}).get("metode") == "retsinformation"}
-    stats["ministerium fra Retsinformations ressortfelt"] = len(ri)
+    ri = {d["id"] for d in alle if d["status"]["vaerdi"] == "gældende" and (d.get("ministerium") or {}).get("metode") == "retsinformation"}
+    stats["ministerium fra Retsinformations ressortfelt"] = sum(i.startswith("lta-") for i in ri)
     stats["heraf rettet fra et andet ministerium"] = sum(foer[i] not in (None, ids[i]["ministerium"]["vaerdi"]) for i in ri)
     (EKS / "klassifikation_job.json").write_text(json.dumps(
         [{"id": d["id"], "navn": d["navn"], "type": d["type"], "ressortfelt": eks.get(d["id"], {}).get("Ressort"), "myndighed": eks.get(d["id"], {}).get("AdministrerendeMyndighed"),
@@ -319,13 +378,14 @@ def katalog() -> dict:
         if e["type"] == "henviser_til" and (e.get("gaeldende_version") or e["to"]) in ompeg:
             e["gaeldende_version"] = ompeg[e.get("gaeldende_version") or e["to"]]
     for i in sorted(hjemmel):
-        for lov in dict.fromkeys(hjemmel[i]):
-            if ids[i]["type"] in FORSKRIFTER:
-                gv = ids[lov].get("gaeldende_version")
-                kanter.append({"from": lov, "type": "hjemmel_for", "to": i, "beskrivelse": "hjemmel ifølge Retsinformation (den version, forskriften henviser til)",
-                               "kilder": [f"{P.RI}/eli/{i.replace('-', '/')}"], "sikkerhed": "verificeret", "metode": METODE, **({"gaeldende_version": gv} if gv else {})})
+        if ids[i]["type"] in FORSKRIFTER or not i.startswith("lta-"):
+            kanter += [hjemmelkant(ids[i], ids[lov]) for lov in dict.fromkeys(hjemmel[i])]
+    for d in andre:
+        love = [d["lov"]] if "lov" in d else [] if d["type"] == "lovforslag-som-vedtaget" else sag.get(d.get("lovforslag"), [])
+        kanter += [{"from": d["id"], "type": "henviser_til", "to": lov, "beskrivelse": "forarbejde til loven (koblet på den vedtagne teksts titel og dato)",
+                    "kilder": d["kilder"], "sikkerhed": "sandsynlig", "metode": METODE} for lov in dict.fromkeys(love)]
     nye_ids = {d["id"] for d in nye}
-    for d in docs:
+    for d in alle:
         m = d.get("ministerium") or {}
         if d["status"]["vaerdi"] == "gældende" and m.get("vaerdi") and (d["id"] in ri or d["id"] in nye_ids):
             kanter.append({"from": m["vaerdi"], "type": "ressortansvar", "to": d["id"], "beskrivelse": f"Nuværende ressort ({m['metode']})",
@@ -336,7 +396,7 @@ def katalog() -> dict:
     for n in reg["nodes"]:
         if n.get("katalog_id") in ids:
             ids[n["katalog_id"]].setdefault("registry_ids", []).append(n["id"])
-    stats["dokumenter koblet til registry"] = sum("registry_ids" in d for d in docs)
+    stats["dokumenter koblet til registry"] = sum("registry_ids" in d for d in alle)
 
     med = {e["to"] for e in kanter if e["type"] == "hjemmel_for"}
     kid = {n["id"]: n.get("katalog_id") for n in reg["nodes"]}
@@ -345,14 +405,23 @@ def katalog() -> dict:
     stats["gældende danske forskrifter"] = sum(c["regulering"] for c in tal.values())
     stats["heraf med hjemmel_for"] = sum(c["hjemmel"] for c in tal.values())
     dashboard(tal, docs, reg)
-    (KAT / "retsinformation_lta.jsonl").write_text("".join(json.dumps(d, ensure_ascii=False) + "\n" for d in docs), encoding="utf-8")
-    (KAT / "kanter.jsonl").write_text("".join(json.dumps(e, ensure_ascii=False) + "\n" for e in kanter), encoding="utf-8")
+    (KAT / "retsinformation_lta.jsonl").write_text("".join(map(linje, docs)), encoding="utf-8")
+    (KAT / "kanter.jsonl").write_text("".join(map(linje, kanter)), encoding="utf-8")
+    koblet = {e["from"] if e["type"] == "henviser_til" else e["to"] for e in kanter if e.get("metode") == METODE and e["type"] != "ressortansvar"}
+    for s in ANDRE:
+        ds = [d for d in andre if d["id"].startswith(s + "-")]
+        gd = [d for d in ds if d["status"]["vaerdi"] == "gældende"]
+        (KAT / f"retsinformation_{s}.jsonl").write_text("".join(map(linje, ds)), encoding="utf-8")
+        stats[s] = {"dokumenter": len(ds), "gældende": len(gd), "gældende koblet til lovgivning": sum(d["id"] in koblet for d in gd),
+                    "ministerium": dict(collections.Counter((d.get("ministerium") or {}).get("metode", "ingen") for d in gd)),
+                    "med retsområde": sum(bool(d.get("retsomraade")) for d in gd), "koblet til registry": sum("registry_ids" in d for d in ds)}
     return dict(stats)
 
 
 def selftest() -> None:
     assert intervaller({"2001": 2000, "2002": 900, "2004": 2500, "2005": 100}) == [("", "2003", 2900), ("2004", "", 2600)]
     assert intervaller({}) == [] and intervaller({"1999": 5}) == [("", "", 5)]
+    assert linje({"a": "æ\u2029b\x85c"}) == '{"a": "æ\\u2029b\\u0085c"}\n' and json.loads(linje({"a": "æ\u2029b"})) == {"a": "æ\u2029b"}
     csvtekst = '"Rank";"DokumentType";"Titel";"Historisk";"EliUrl"\r\n"B";"Bekendtgørelse";"Bekendtgørelse om æbler";"";"https://retsinformation.dk/eli/lta/2026/5"\r\n'
     assert raekker(csvtekst.encode("utf-16-le")) == [{"DokumentType": "Bekendtgørelse", "Titel": "Bekendtgørelse om æbler", "EliUrl": "https://retsinformation.dk/eli/lta/2026/5"}]
     r = {"DokumentType": "Ændringsbekendtgørelse", "Titel": "Bekendtgørelse om ændring af bekendtgørelse om æbler for Grønland", "Ressort": "Æbleministeriet", "Nummer": "5",
@@ -363,6 +432,27 @@ def selftest() -> None:
     assert d["identifikatorer"]["lovtidende"] == "BEK nr. 5 af 02/07/2026" and d["datoer"] == {"udstedt": "2026-07-02", "historisk_markeret": "2026-10-01", "ri_registreret": "2026-07-04"}
     assert d["udstedt_af"] == {"vaerdi": "Æbleministeriet", "metode": METODE, "praefiks": "AB", "sikkerhed": "verificeret"} and "seed_fil" not in d
     assert post({**r, "DokumentType": "Anordningsbekendtgørelse", "GeografiskDækning": ""}, "x")["type"] == "bekendtgørelse-af-anordning"
+    v = post({"DokumentType": "Cirkulære (1 sp)", "Titel": "Cirkulære om æbler", "Ressort": "Æbleministeriet", "DokumentId": "AB000002", "ACCN": "C20260990109",
+              "UnderskriftDato": "20260702", "Historisk": "False", "EliUrl": "https://retsinformation.dk/eli/retsinfo/2026/9901"}, "2026-11-12")
+    assert (v["id"], v["type"], v["kilder"]) == ("retsinfo-2026-9901", "cirkulære", [P.RI + "/eli/retsinfo/2026/9901"])
+    assert "dokumentrolle" not in v and "lovtidende" not in v["identifikatorer"] and v["datoer"] == {"udstedt": "2026-07-02"}
+    afg = post({**r, "DokumentType": "Endelig adm. afgørelse", "UnderskriftDato": "", "EliUrl": "https://retsinformation.dk/eli/mt/2001/12"}, "x")
+    assert (afg["id"], afg["type"], "udstedt" in afg["datoer"]) == ("mt-2001-12", "endelig-adm-afgørelse", False)
+    lov = {"id": "lta-2020-7", "gaeldende_version": "lta-2024-1031"}
+    assert [(k["from"], k["type"], k["to"], k.get("gaeldende_version")) for k in (hjemmelkant(v, lov), hjemmelkant(afg, lov), hjemmelkant(d, {"id": "lta-2019-1"}))] == [
+        ("lta-2020-7", "hjemmel_for", "retsinfo-2026-9901", "lta-2024-1031"), ("mt-2001-12", "henviser_til", "lta-2020-7", "lta-2024-1031"),
+        ("lta-2019-1", "hjemmel_for", "lta-2026-5", None)]
+    assert hjemmelkant(d, lov)["beskrivelse"].startswith("hjemmel ifølge") and hjemmelkant(afg, lov)["kilder"] == [P.RI + "/eli/mt/2001/12"]
+    ft = [post({"DokumentType": t, "Titel": n, "Nummer": nr, "UnderskriftDato": u, "EliUrl": "https://retsinformation.dk/eli/ft/" + k}, "x")
+          for t, n, nr, u, k in (("Lovforslag som vedtaget", "Forslag til Lov om æbler\\n(Flere æbler)", "17 B", "20260601", "202523LB0017"),
+                                 ("Lovforslag som fremsat", "Forslag til Lov om æbler og pærer", "17", "20260301", "202522L00017"),
+                                 ("Lovforslag som vedtaget", "Forslag til Lov om pærer", "18", "20260601", "202523L00018"),
+                                 ("Beslutningsforslag som fremsat", "Forslag til folketingsbeslutning om æbler", "17", "20260301", "20252BB00017"))]
+    assert [(x["id"], x["type"], x.get("lovforslag")) for x in ft[:2]] == [("ft-202523LB0017", "lovforslag-som-vedtaget", "20252-17"), ("ft-202522L00017", "lovforslag-som-fremsat", "20252-17")]
+    assert ft[0]["kilder"] == [P.RI + "/eli/ft/202523LB0017"] and "lovforslag" not in ft[3] and nid("https://retsinformation.dk/eli/lta/2026/5/") == "lta-2026-5"
+    love = [{"id": i, "navn": n, "datoer": {"udstedt": u}} for i, n, u in (("l1", "Lov om æbler (Flere æbler)", "2026-06-09"), ("l2", "Lov om pærer", "2026-06-02"),
+                                                                           ("l3", "Lov om pærer", "2026-06-20"), ("l4", "Lov om æbler (Flere æbler)", "2025-06-09"))]
+    assert lovkobling(ft, love) == {"ft-202523LB0017": "l1"}
     assert henvist("LBK nr 1031 af 06/09/2024,VEJ nr 9139 af 25/02/2019,LOV nr 7 af 01/01/2020", {"lta-2024-1031": 1, "lta-2020-7": 1}) == ["lta-2024-1031", "lta-2020-7"]
 
     def lov(i, navn, aar, status, **mere):

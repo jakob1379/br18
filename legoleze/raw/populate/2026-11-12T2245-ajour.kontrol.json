@@ -1,0 +1,1953 @@
+[
+ {
+  "hvor": "bek-administration-private-udlejningsejendomme.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2022/750",
+  "status": "Valid",
+  "ministerium": "Social- og Boligministeriet"
+ },
+ {
+  "hvor": "bek-affald.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/810",
+  "status": "Valid",
+  "ministerium": "Klima-, Energi- og Forsyningsministeriet"
+ },
+ {
+  "hvor": "bek-affaldstilsyn.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/1221",
+  "status": "Valid",
+  "ministerium": "Miljø- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "bek-almen-drift.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2023/1642",
+  "status": "Valid",
+  "ministerium": "Social- og Boligministeriet"
+ },
+ {
+  "hvor": "bek-almen-stoette.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/735",
+  "status": "Valid",
+  "ministerium": "Børne-, Ældre- og Boligministeriet"
+ },
+ {
+  "hvor": "bek-almen-udlejning.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/977",
+  "status": "Valid",
+  "ministerium": "Social- og Boligministeriet"
+ },
+ {
+  "hvor": "bek-amkn-forretningsorden.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/25",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "bek-arbejdets-udfoerelse.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/609",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "bek-at-offshore-opgaver.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2019/1354",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "bek-atex-produkter.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/484",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-autorisation.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/722",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-badevand.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2016/917",
+  "status": "Valid",
+  "ministerium": "Miljø- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "bek-bekaempelsesmidler.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1516",
+  "status": "Valid",
+  "ministerium": "Miljø- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "bek-br18.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2019/1399",
+  "status": "Valid",
+  "ministerium": "Social- og Boligministeriet"
+ },
+ {
+  "hvor": "bek-brandsyn.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2021/2341",
+  "status": "Valid",
+  "ministerium": "Ministeriet for Samfundssikkerhed og Beredskab"
+ },
+ {
+  "hvor": "bek-brs-ophaevelse-2021.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2021/2340",
+  "status": "Valid",
+  "ministerium": "Ministeriet for Samfundssikkerhed og Beredskab"
+ },
+ {
+  "hvor": "bek-brugerbetaling-miljoe.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1466",
+  "status": "Valid",
+  "ministerium": "Miljø- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "bek-bsf-eftersyn.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2020/2137",
+  "status": "Valid",
+  "ministerium": "Social- og Boligministeriet"
+ },
+ {
+  "hvor": "bek-bygge-og-anlaeg.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2021/2107",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "bek-byggesagsgebyr.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1455",
+  "status": "Valid",
+  "ministerium": "Social- og Boligministeriet"
+ },
+ {
+  "hvor": "bek-byggevarer-cpr2024.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1831",
+  "status": "Valid",
+  "ministerium": "Social- og Boligministeriet"
+ },
+ {
+  "hvor": "bek-bygherrens-pligter.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2013/117",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "bek-bygningsfredning-arbejder.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/1565",
+  "status": "Valid",
+  "ministerium": "Kulturministeriet"
+ },
+ {
+  "hvor": "bek-campingreglement.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2019/319",
+  "status": "Valid",
+  "ministerium": "By-, Land- og Transportministeriet"
+ },
+ {
+  "hvor": "bek-certificering.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2023/1693",
+  "status": "Valid",
+  "ministerium": "Social- og Boligministeriet"
+ },
+ {
+  "hvor": "bek-co2-kvoter-henlaeggelse-erst.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1525",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-danak-byggevarer.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1744",
+  "status": "Valid",
+  "ministerium": "Social- og Boligministeriet"
+ },
+ {
+  "hvor": "bek-domsdatabasen.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2021/2708",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet"
+ },
+ {
+  "hvor": "bek-drift-elanlaeg.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2017/1608",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-ekn-forretningsorden.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/824",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-eksisterende-elevatorer.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2021/1448",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "bek-elanlaeg.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2016/1114",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-elektromagnetiske-felter.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2016/472",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "bek-elinstallationer.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2016/1082",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-energieffektivisering-offentlige.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1193",
+  "status": "Valid",
+  "ministerium": "Klima-, Energi- og Forsyningsministeriet"
+ },
+ {
+  "hvor": "bek-energimaerkning.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2023/549",
+  "status": "Valid",
+  "ministerium": "Klima-, Energi- og Forsyningsministeriet"
+ },
+ {
+  "hvor": "bek-energinet-oekonomi.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/1559",
+  "status": "Valid",
+  "ministerium": "Klima-, Energi- og Forsyningsministeriet"
+ },
+ {
+  "hvor": "bek-energisyn.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1138",
+  "status": "Valid",
+  "ministerium": "Klima-, Energi- og Forsyningsministeriet"
+ },
+ {
+  "hvor": "bek-friplejeboliger-etablering.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/611",
+  "status": "Valid",
+  "ministerium": "Social- og Boligministeriet"
+ },
+ {
+  "hvor": "bek-fyrvaerkeri.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2021/1798",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-gasanlaeg.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1702",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-gasinstallationer.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2018/247",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-gst-opgaver.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1791",
+  "status": "Valid",
+  "ministerium": "Klima-, Energi- og Forsyningsministeriet"
+ },
+ {
+  "hvor": "bek-haandbog-energikonsulenter.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2023/548",
+  "status": "Valid",
+  "ministerium": "Klima-, Energi- og Forsyningsministeriet"
+ },
+ {
+  "hvor": "bek-individuel-maaling.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2014/563",
+  "status": "Valid",
+  "ministerium": "Social- og Boligministeriet"
+ },
+ {
+  "hvor": "bek-indtaegtsrammer-el.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/168",
+  "status": "Valid",
+  "ministerium": "Klima-, Energi- og Forsyningsministeriet"
+ },
+ {
+  "hvor": "bek-jordflytning.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2015/1452",
+  "status": "Valid",
+  "ministerium": "Miljø- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "bek-kemiske-agenser.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/581",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "bek-klagenaevn-sagsbehandlingslofter.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1555",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-klagenaevnet-for-udbud.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2011/887",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-konkurrenceankenaevnet.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2021/496",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-kontrol-risiko-stoerre-uheld.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/600",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "bek-kraeftrisiko.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/582",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "bek-ladestandere.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2020/181",
+  "status": "Valid",
+  "ministerium": "Social- og Boligministeriet"
+ },
+ {
+  "hvor": "bek-lag.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/948",
+  "status": "Valid",
+  "ministerium": "By-, Land- og Transportministeriet"
+ },
+ {
+  "hvor": "bek-maskinforordning-supplerende.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/956",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-miljoeaktiviteter.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2017/844",
+  "status": "Valid",
+  "ministerium": "Miljø- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "bek-miljoemaal.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1668",
+  "status": "Valid",
+  "ministerium": "Ministeriet for Natur og Dyrevelfærd"
+ },
+ {
+  "hvor": "bek-miljoevurdering.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/1608",
+  "status": "Valid",
+  "ministerium": "Ministeriet for Natur og Dyrevelfærd"
+ },
+ {
+  "hvor": "bek-offentliggoerelse-arbejdsmiljoe.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/611",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "bek-olietanke.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2019/1257",
+  "status": "Valid",
+  "ministerium": "Miljø- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "bek-oversvoemmelsesrisiko.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2016/894",
+  "status": "Valid",
+  "ministerium": "Miljø- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "bek-pkn-forretningsorden.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/20",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-pkn-gebyr.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2017/108",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-plandata.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/508",
+  "status": "Valid",
+  "ministerium": "By-, Land- og Transportministeriet"
+ },
+ {
+  "hvor": "bek-plst-henlaeggelse.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2023/470",
+  "status": "Valid",
+  "ministerium": "By-, Land- og Transportministeriet"
+ },
+ {
+  "hvor": "bek-projektbekendtgoerelsen.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1091",
+  "status": "Valid",
+  "ministerium": "Klima-, Energi- og Forsyningsministeriet"
+ },
+ {
+  "hvor": "bek-psykisk-arbejdsmiljoe.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/605",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "bek-raad-el-og-gasteknisk-sikkerhed.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/1170",
+  "status": "Historic",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-restprodukter.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2016/1672",
+  "status": "Valid",
+  "ministerium": "Miljø- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "bek-risiko.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2016/372",
+  "status": "Valid",
+  "ministerium": "Miljø- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "bek-risikobaseret-dimensionering.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1211",
+  "status": "Valid",
+  "ministerium": "Ministeriet for Samfundssikkerhed og Beredskab"
+ },
+ {
+  "hvor": "bek-sbst-opgaver.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2023/519",
+  "status": "Valid",
+  "ministerium": "Social- og Boligministeriet"
+ },
+ {
+  "hvor": "bek-sideaktiviteter-almene.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/953",
+  "status": "Valid",
+  "ministerium": "Social- og Boligministeriet"
+ },
+ {
+  "hvor": "bek-skorstensfejer.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2017/541",
+  "status": "Valid",
+  "ministerium": "Social- og Boligministeriet"
+ },
+ {
+  "hvor": "bek-stoejkortlaegning.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2021/2092",
+  "status": "Valid",
+  "ministerium": "Miljø- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "bek-systemansvar.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/895",
+  "status": "Valid",
+  "ministerium": "Klima-, Energi- og Forsyningsministeriet"
+ },
+ {
+  "hvor": "bek-systematisk-arbejdsmiljoearbejde.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/608",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "bek-tekniske-hjaelpemidler-anvendelse.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2022/428",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "bek-tekniske-hjaelpemidler-indretning.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/595",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "bek-udledning-forurenende-stoffer.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2017/1433",
+  "status": "Valid",
+  "ministerium": "Miljø- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "bek-udstykningskontrol.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/601",
+  "status": "Valid",
+  "ministerium": "Klima-, Energi- og Forsyningsministeriet"
+ },
+ {
+  "hvor": "bek-vandindvinding.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/867",
+  "status": "Valid",
+  "ministerium": "Miljø- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "bek-vandloebsregulativer.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2016/919",
+  "status": "Valid",
+  "ministerium": "Ministeriet for Natur og Dyrevelfærd"
+ },
+ {
+  "hvor": "bek-vandsektortilsynet.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/792",
+  "status": "Valid",
+  "ministerium": "Klima-, Energi- og Forsyningsministeriet"
+ },
+ {
+  "hvor": "bek-varme-prisregulering-indberetning.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/852",
+  "status": "Valid",
+  "ministerium": "Klima-, Energi- og Forsyningsministeriet",
+  "titel_afviger": "Bekendtgørelse om ændring af bekendtgørelse om anmeldelse af tariffer, omkostningsfordelinger og andre betingelser for levering af fjernvarme samt varmeproduktionsomkostninger til brug for fastsættelse af prisloft m.v."
+ },
+ {
+  "hvor": "bek-vd-opgaver.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/845",
+  "status": "Valid",
+  "ministerium": "By-, Land- og Transportministeriet"
+ },
+ {
+  "hvor": "bek-vibrationer.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2023/1882",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "bek-vindmoeller.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2019/923",
+  "status": "Valid",
+  "ministerium": "By-, Land- og Transportministeriet"
+ },
+ {
+  "hvor": "lov-1656-2024-arbejdsmarkedsraad.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/1656",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "lov-adresseloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2017/136",
+  "status": "Valid",
+  "ministerium": "Klima-, Energi- og Forsyningsministeriet"
+ },
+ {
+  "hvor": "lov-afi-loven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/1043",
+  "status": "Valid",
+  "ministerium": "By-, Land- og Transportministeriet"
+ },
+ {
+  "hvor": "lov-almenboligloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/207",
+  "status": "Valid",
+  "ministerium": "Social- og Boligministeriet"
+ },
+ {
+  "hvor": "lov-almenlejeloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2019/928",
+  "status": "Valid",
+  "ministerium": "Social- og Boligministeriet"
+ },
+ {
+  "hvor": "lov-arbejdsmiljoeloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/442",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "lov-autorisationsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2019/30",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-beredskabsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1741",
+  "status": "Valid",
+  "ministerium": "Ministeriet for Samfundssikkerhed og Beredskab"
+ },
+ {
+  "hvor": "lov-betalingsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1243",
+  "status": "Valid",
+  "ministerium": "Klima-, Energi- og Forsyningsministeriet"
+ },
+ {
+  "hvor": "lov-boligforholdsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2022/342",
+  "status": "Valid",
+  "ministerium": "Social- og Boligministeriet"
+ },
+ {
+  "hvor": "lov-byggeloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2016/1178",
+  "status": "Valid",
+  "ministerium": "Social- og Boligministeriet"
+ },
+ {
+  "hvor": "lov-bygningsfredningsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2018/219",
+  "status": "Valid",
+  "ministerium": "Kulturministeriet"
+ },
+ {
+  "hvor": "lov-co2-kvoteloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2023/1767",
+  "status": "Valid",
+  "ministerium": "Klima-, Energi- og Forsyningsministeriet"
+ },
+ {
+  "hvor": "lov-domstolsstyrelsesloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2017/390",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet"
+ },
+ {
+  "hvor": "lov-ecodesignloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2021/2166",
+  "status": "Valid",
+  "ministerium": "Klima-, Energi- og Forsyningsministeriet"
+ },
+ {
+  "hvor": "lov-effektiv-energianvendelse.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/1036",
+  "status": "Valid",
+  "ministerium": "Klima-, Energi- og Forsyningsministeriet"
+ },
+ {
+  "hvor": "lov-ekspropriationsprocesloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2023/386",
+  "status": "Valid",
+  "ministerium": "By-, Land- og Transportministeriet"
+ },
+ {
+  "hvor": "lov-elforsyningsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/544",
+  "status": "Valid",
+  "ministerium": "Klima-, Energi- og Forsyningsministeriet"
+ },
+ {
+  "hvor": "lov-elsikkerhedsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/57",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-energiklagenaevnsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/468",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-energimaerkningsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1253",
+  "status": "Valid",
+  "ministerium": "Klima-, Energi- og Forsyningsministeriet"
+ },
+ {
+  "hvor": "lov-energinetloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2023/271",
+  "status": "Valid",
+  "ministerium": "Klima-, Energi- og Forsyningsministeriet"
+ },
+ {
+  "hvor": "lov-erhvervsankenaevnsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2013/1374",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-erhvervslejeloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2022/1446",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-forsyningstilsynsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2018/690",
+  "status": "Valid",
+  "ministerium": "Klima-, Energi- og Forsyningsministeriet"
+ },
+ {
+  "hvor": "lov-forvaltningsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2014/433",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet"
+ },
+ {
+  "hvor": "lov-friplejeboligloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1254",
+  "status": "Valid",
+  "ministerium": "Social- og Boligministeriet"
+ },
+ {
+  "hvor": "lov-fyrvaerkeriloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/23",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-gassikkerhedsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/257",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-grundloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/1953/169",
+  "status": "Valid",
+  "ministerium": "Statsministeriet"
+ },
+ {
+  "hvor": "lov-havmiljoeloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/147",
+  "status": "Valid",
+  "ministerium": "Miljø- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "lov-havstrategiloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/123",
+  "status": "Valid",
+  "ministerium": "Miljø- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "lov-husdyrbrugloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1065",
+  "status": "Valid",
+  "ministerium": "Ministeriet for Natur og Dyrevelfærd"
+ },
+ {
+  "hvor": "lov-inspire-loven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2017/746",
+  "status": "Valid",
+  "ministerium": "Klima-, Energi- og Forsyningsministeriet"
+ },
+ {
+  "hvor": "lov-jagtloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2023/639",
+  "status": "Valid",
+  "ministerium": "Ministeriet for Natur og Dyrevelfærd"
+ },
+ {
+  "hvor": "lov-kemikalieloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1200",
+  "status": "Valid",
+  "ministerium": "Miljø- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "lov-klagenaevn-for-udbud-loven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/448",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-klimaloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2021/2580",
+  "status": "Valid",
+  "ministerium": "Klima-, Energi- og Forsyningsministeriet"
+ },
+ {
+  "hvor": "lov-kommunestyrelsesloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/13",
+  "status": "Valid",
+  "ministerium": "Indenrigs- og Sundhedsministeriet"
+ },
+ {
+  "hvor": "lov-konkurrenceloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/1150",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-kontinentalsokkelloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/199",
+  "status": "Valid",
+  "ministerium": "Klima-, Energi- og Forsyningsministeriet"
+ },
+ {
+  "hvor": "lov-kystbeskyttelsesloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/245",
+  "status": "Valid",
+  "ministerium": "Miljø- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "lov-landdistriktsfonden.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2020/114",
+  "status": "Valid",
+  "ministerium": "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+ },
+ {
+  "hvor": "lov-landinspektoerloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2013/680",
+  "status": "Valid",
+  "ministerium": "Klima-, Energi- og Forsyningsministeriet"
+ },
+ {
+  "hvor": "lov-lovtidendeloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2016/1098",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet"
+ },
+ {
+  "hvor": "lov-mfkn-loven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2016/1715",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-miljoebeskyttelsesloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/842",
+  "status": "Valid",
+  "ministerium": "Miljøministeriet"
+ },
+ {
+  "hvor": "lov-miljoemaalsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2023/692",
+  "status": "Valid",
+  "ministerium": "Ministeriet for Natur og Dyrevelfærd"
+ },
+ {
+  "hvor": "lov-miljoeoplysningsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2017/980",
+  "status": "Valid",
+  "ministerium": "Miljø- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "lov-miljoeskadeloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/923",
+  "status": "Valid",
+  "ministerium": "Miljø- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "lov-miljoevurderingsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2023/4",
+  "status": "Valid",
+  "ministerium": "Ministeriet for Natur og Dyrevelfærd"
+ },
+ {
+  "hvor": "lov-museumsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1017",
+  "status": "Valid",
+  "ministerium": "Kulturministeriet"
+ },
+ {
+  "hvor": "lov-nationalparkloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2023/685",
+  "status": "Valid",
+  "ministerium": "Miljø- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "lov-naturbeskyttelsesloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/927",
+  "status": "Valid",
+  "ministerium": "Ministeriet for Natur og Dyrevelfærd"
+ },
+ {
+  "hvor": "lov-ombudsmandsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2013/349",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet"
+ },
+ {
+  "hvor": "lov-ophavsretsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2023/1093",
+  "status": "Valid",
+  "ministerium": "Kulturministeriet"
+ },
+ {
+  "hvor": "lov-oversvoemmelsesloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/72",
+  "status": "Valid",
+  "ministerium": "Miljø- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "lov-planklagenaevnsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2016/1658",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-planloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/572",
+  "status": "Valid",
+  "ministerium": "By-, Land- og Transportministeriet"
+ },
+ {
+  "hvor": "lov-produktloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/22",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-radioudstyrsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2022/958",
+  "status": "Valid",
+  "ministerium": "Forsknings-, Uddannelses- og Digitaliseringsministeriet"
+ },
+ {
+  "hvor": "lov-regionsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1031",
+  "status": "Valid",
+  "ministerium": "Indenrigs- og Sundhedsministeriet"
+ },
+ {
+  "hvor": "lov-retssikkerhedsloven-social.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/680",
+  "status": "Valid",
+  "ministerium": "Socialministeriet"
+ },
+ {
+  "hvor": "lov-retssikkerhedsloven-tvangsindgreb.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2019/1121",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet"
+ },
+ {
+  "hvor": "lov-skovloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2023/690",
+  "status": "Valid",
+  "ministerium": "Ministeriet for Natur og Dyrevelfærd"
+ },
+ {
+  "hvor": "lov-tilbudsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2007/1410",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-udstykningsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/53",
+  "status": "Valid",
+  "ministerium": "Klima-, Energi- og Forsyningsministeriet"
+ },
+ {
+  "hvor": "lov-undergrundsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2023/1461",
+  "status": "Valid",
+  "ministerium": "Klima-, Energi- og Forsyningsministeriet"
+ },
+ {
+  "hvor": "lov-vandforsyningsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/1149",
+  "status": "Valid",
+  "ministerium": "Miljø- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "lov-vandplanlaegningsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2017/126",
+  "status": "Valid",
+  "ministerium": "Ministeriet for Natur og Dyrevelfærd"
+ },
+ {
+  "hvor": "lov-vandsektorloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/265",
+  "status": "Valid",
+  "ministerium": "Klima-, Energi- og Forsyningsministeriet"
+ },
+ {
+  "hvor": "lov-varmeforsyningsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/465",
+  "status": "Valid",
+  "ministerium": "Klima-, Energi- og Forsyningsministeriet"
+ },
+ {
+  "hvor": "lov-ve-loven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/1031",
+  "status": "Valid",
+  "ministerium": "Klima-, Energi- og Forsyningsministeriet"
+ },
+ {
+  "hvor": "lov-videreanvendelsesloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2021/1764",
+  "status": "Valid",
+  "ministerium": "Forsknings-, Uddannelses- og Digitaliseringsministeriet"
+ },
+ {
+  "hvor": "vejl-at-bygge-og-anlaeg.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/retsinfo/2026/10135",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet",
+  "katalog_id": "retsinfo-2026-10135"
+ },
+ {
+  "hvor": "vejl-at-bygherrens-pligter.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/retsinfo/2025/10212",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet",
+  "katalog_id": "retsinfo-2025-10212"
+ },
+ {
+  "hvor": "vejl-at-vejledninger.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/retsinfo/2025/10211",
+  "status": "Historic",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet",
+  "titel_afviger": "AT-vejledning om bygge- og anlægsarbejde"
+ },
+ {
+  "hvor": "vejl-boligstoette-satser.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/retsinfo/2025/10077",
+  "status": "Historic",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet",
+  "titel_afviger": "Vejledning om regulering pr. 1. januar 2026 af satser på Beskæftigelsesministeriets område"
+ },
+ {
+  "hvor": "vejl-fingerplan-2019.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/retsinfo/2019/9281",
+  "status": "Valid",
+  "ministerium": "By-, Land- og Transportministeriet",
+  "katalog_id": "retsinfo-2019-9281"
+ },
+ {
+  "hvor": "vejl-habitatvejledning.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/retsinfo/2019/10226",
+  "status": "Valid",
+  "ministerium": "Ministeriet for Natur og Dyrevelfærd",
+  "titel_afviger": "Vejledning om naturbeskyttelseslovens § 3-beskyttede naturtyper"
+ },
+ {
+  "hvor": "vejl-lokalplanlaegning.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/retsinfo/2009/9922",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet",
+  "katalog_id": "retsinfo-2009-9922"
+ },
+ {
+  "hvor": "vejl-lovkvalitet.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/retsinfo/2023/9964",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet",
+  "katalog_id": "retsinfo-2023-9964"
+ },
+ {
+  "hvor": "vejl-miljoeoplysningsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/retsinfo/2006/10564",
+  "status": "Valid",
+  "ministerium": "Miljø- og Ligestillingsministeriet",
+  "katalog_id": "retsinfo-2006-10564"
+ },
+ {
+  "hvor": "vejl-offentlighedsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/retsinfo/2013/9847",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet",
+  "katalog_id": "retsinfo-2013-9847"
+ },
+ {
+  "hvor": "vejl-planloven-vejledninger.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/retsinfo/2019/10076",
+  "status": "Valid",
+  "ministerium": "By-, Land- og Transportministeriet",
+  "titel_afviger": "Vejledning om landzoneadministration Planlovens §§ 34-38"
+ },
+ {
+  "hvor": "vejl-satsvejledning-leje-almen.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/retsinfo/2025/9886",
+  "status": "Valid",
+  "ministerium": "Social- og Boligministeriet",
+  "katalog_id": "retsinfo-2025-9886"
+ },
+ {
+  "hvor": "lov-skatteforvaltningsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1228",
+  "status": "Valid",
+  "ministerium": "Skatte- og Vækstministeriet"
+ },
+ {
+  "hvor": "lov-spilleloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1182",
+  "status": "Valid",
+  "ministerium": "Skatte- og Vækstministeriet"
+ },
+ {
+  "hvor": "lov-it-tilsynsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2020/2187",
+  "status": "Valid",
+  "ministerium": "Skatte- og Vækstministeriet"
+ },
+ {
+  "hvor": "bek-skatteforvaltningens-opgaver.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2018/804",
+  "status": "Valid",
+  "ministerium": "Skatte- og Vækstministeriet"
+ },
+ {
+  "hvor": "bek-skatteankestyrelsen.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2021/2372",
+  "status": "Valid",
+  "ministerium": "Skatte- og Vækstministeriet"
+ },
+ {
+  "hvor": "bek-skatteankestyrelsen-visse-klager.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2023/967",
+  "status": "Valid",
+  "ministerium": "Skatte- og Vækstministeriet"
+ },
+ {
+  "hvor": "bek-skatteraadet-forretningsorden.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2005/1035",
+  "status": "Valid",
+  "ministerium": "Skatte- og Vækstministeriet"
+ },
+ {
+  "hvor": "bek-landsskatteretten-forretningsorden.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2021/2373",
+  "status": "Valid",
+  "ministerium": "Skatte- og Vækstministeriet"
+ },
+ {
+  "hvor": "bek-skatteankenaevn-forretningsorden.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2022/1041",
+  "status": "Valid",
+  "ministerium": "Skatte- og Vækstministeriet"
+ },
+ {
+  "hvor": "bek-vurderingsankenaevn-forretningsorden.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2021/2289",
+  "status": "Valid",
+  "ministerium": "Skatte- og Vækstministeriet"
+ },
+ {
+  "hvor": "bek-motorankenaevn-forretningsorden.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2022/1043",
+  "status": "Valid",
+  "ministerium": "Skatte- og Vækstministeriet"
+ },
+ {
+  "hvor": "bek-spillemyndigheden.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2011/1121",
+  "status": "Valid",
+  "ministerium": "Skatte- og Vækstministeriet"
+ },
+ {
+  "hvor": "lov-sundhedsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/896",
+  "status": "Valid",
+  "ministerium": "Sundheds- og Kirkeministeriet"
+ },
+ {
+  "hvor": "lov-autorisation-sundhedspersoner.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/1008",
+  "status": "Valid",
+  "ministerium": "Indenrigs- og Sundhedsministeriet"
+ },
+ {
+  "hvor": "lov-klage-og-erstatningsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1250",
+  "status": "Valid",
+  "ministerium": "Indenrigs- og Sundhedsministeriet"
+ },
+ {
+  "hvor": "lov-laegemiddelloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2023/339",
+  "status": "Valid",
+  "ministerium": "Indenrigs- og Sundhedsministeriet"
+ },
+ {
+  "hvor": "lov-psykiatriloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/1045",
+  "status": "Valid",
+  "ministerium": "Indenrigs- og Sundhedsministeriet"
+ },
+ {
+  "hvor": "bek-forretningsorden-disciplinaernaevn.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/1496",
+  "status": "Valid",
+  "ministerium": "Indenrigs- og Sundhedsministeriet"
+ },
+ {
+  "hvor": "bek-forretningsorden-ankenaevnet-for-patienterstatningen.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/921",
+  "status": "Valid",
+  "ministerium": "Indenrigs- og Sundhedsministeriet"
+ },
+ {
+  "hvor": "bek-forretningsorden-tvangsbehandlingsnaevnet.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2018/979",
+  "status": "Valid",
+  "ministerium": "Indenrigs- og Sundhedsministeriet"
+ },
+ {
+  "hvor": "bek-forretningsorden-psykiatriske-patientklagenaevn.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2023/171",
+  "status": "Valid",
+  "ministerium": "Indenrigs- og Sundhedsministeriet"
+ },
+ {
+  "hvor": "bek-forretningsorden-psykiatriske-ankenaevn.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2019/1076",
+  "status": "Valid",
+  "ministerium": "Indenrigs- og Sundhedsministeriet"
+ },
+ {
+  "hvor": "bek-vedtaegter-patienterstatningen.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/1724",
+  "status": "Valid",
+  "ministerium": "Indenrigs- og Sundhedsministeriet"
+ },
+ {
+  "hvor": "bek-forretningsorden-laegemiddelnaevnet.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2013/1214",
+  "status": "Valid",
+  "ministerium": "Indenrigs- og Sundhedsministeriet"
+ },
+ {
+  "hvor": "bek-patientklager-screening-af-klager.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/1486",
+  "status": "Valid",
+  "ministerium": "Indenrigs- og Sundhedsministeriet"
+ },
+ {
+  "hvor": "bek-ikke-autoriserede-persongrupper-disciplinaernaevn.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1663",
+  "status": "Valid",
+  "ministerium": "Indenrigs- og Sundhedsministeriet"
+ },
+ {
+  "hvor": "lov-finansiel-virksomhed.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/432",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-kapitalmarkedsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/464",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-hvidvaskloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/433",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-lov-om-betalinger.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/463",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-forsikringsvirksomhed.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/461",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-restrukturering-og-afvikling.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2019/24",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-indskyder-og-investorgarantiordning.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/39",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-forbrugerklageloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2015/524",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-udlaendingeloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/953",
+  "status": "Valid",
+  "ministerium": "Udlændinge- og Integrationsministeriet"
+ },
+ {
+  "hvor": "lov-hjemrejseloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/1014",
+  "status": "Valid",
+  "ministerium": "Udlændinge- og Integrationsministeriet"
+ },
+ {
+  "hvor": "bek-forretningsorden-udlaendingenaevnet.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/248",
+  "status": "Valid",
+  "ministerium": "Udlændinge- og Integrationsministeriet"
+ },
+ {
+  "hvor": "bek-forretningsorden-flygtningenaevnet.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2017/557",
+  "status": "Valid",
+  "ministerium": "Udlændinge- og Integrationsministeriet"
+ },
+ {
+  "hvor": "lov-serviceloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/641",
+  "status": "Valid",
+  "ministerium": "Socialministeriet"
+ },
+ {
+  "hvor": "lov-barnets-lov.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/642",
+  "status": "Valid",
+  "ministerium": "Socialministeriet"
+ },
+ {
+  "hvor": "lov-socialtilsynsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/242",
+  "status": "Valid",
+  "ministerium": "Social- og Boligministeriet"
+ },
+ {
+  "hvor": "lov-voksenansvarsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/1006",
+  "status": "Valid",
+  "ministerium": "Social- og Boligministeriet"
+ },
+ {
+  "hvor": "bek-socialtilsyn.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1559",
+  "status": "Valid",
+  "ministerium": "Social- og Boligministeriet"
+ },
+ {
+  "hvor": "bek-forretningsorden-socialfaglige-naevn.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/1413",
+  "status": "Valid",
+  "ministerium": "Social- og Boligministeriet"
+ },
+ {
+  "hvor": "bek-raad-paa-det-sociale-omraade.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2022/580",
+  "status": "Valid",
+  "ministerium": "Social- og Boligministeriet"
+ },
+ {
+  "hvor": "lov-arbejdsloeshedsforsikring.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/808",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "lov-aktiv-socialpolitik.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/793",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "lov-seniorpensionsenheden.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2020/869",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "lov-aktiv-beskaeftigelsesindsats.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/280",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "lov-organisering-beskaeftigelsesindsatsen.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/254",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "lov-sygedagpenge.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1221",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "lov-social-pension.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/970",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "lov-udbetaling-danmark.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/975",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "lov-arbejdsskadesikring.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/667",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "lov-aes.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/668",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "lov-loenmodtagernes-garantifond.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/1244",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "lov-atp.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/976",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "bek-trafikstyrelsen-opgaver.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/169",
+  "status": "Valid",
+  "ministerium": "By-, Land- og Transportministeriet"
+ },
+ {
+  "hvor": "bek-banedanmark-opgaver.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2023/855",
+  "status": "Valid",
+  "ministerium": "By-, Land- og Transportministeriet"
+ },
+ {
+  "hvor": "bek-jernbanenaevnet.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2021/2424",
+  "status": "Valid",
+  "ministerium": "By-, Land- og Transportministeriet"
+ },
+ {
+  "hvor": "bek-faerdselsstyrelsen-opgaver.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/787",
+  "status": "Valid",
+  "ministerium": "By-, Land- og Transportministeriet"
+ },
+ {
+  "hvor": "bek-farligt-gods-vejtransport.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/915",
+  "status": "Valid",
+  "ministerium": "By-, Land- og Transportministeriet"
+ },
+ {
+  "hvor": "lov-jernbaneloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2023/1091",
+  "status": "Valid",
+  "ministerium": "By-, Land- og Transportministeriet"
+ },
+ {
+  "hvor": "lov-luftfartsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/570",
+  "status": "Valid",
+  "ministerium": "By-, Land- og Transportministeriet"
+ },
+ {
+  "hvor": "lov-faerdselsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/118",
+  "status": "Valid",
+  "ministerium": "By-, Land- og Transportministeriet"
+ },
+ {
+  "hvor": "lov-taxiloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/1051",
+  "status": "Valid",
+  "ministerium": "By-, Land- og Transportministeriet"
+ },
+ {
+  "hvor": "lov-godskoerselsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/327",
+  "status": "Valid",
+  "ministerium": "By-, Land- og Transportministeriet"
+ },
+ {
+  "hvor": "lov-buskoerselsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2023/542",
+  "status": "Valid",
+  "ministerium": "By-, Land- og Transportministeriet"
+ },
+ {
+  "hvor": "lov-trafikselskabsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/537",
+  "status": "Valid",
+  "ministerium": "By-, Land- og Transportministeriet"
+ },
+ {
+  "hvor": "lov-postloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/151",
+  "status": "Valid",
+  "ministerium": "By-, Land- og Transportministeriet"
+ },
+ {
+  "hvor": "lov-foedevareloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/32",
+  "status": "Valid",
+  "ministerium": "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+ },
+ {
+  "hvor": "lov-dyrevelfaerdsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/994",
+  "status": "Valid",
+  "ministerium": "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+ },
+ {
+  "hvor": "lov-dyrlaegeloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/64",
+  "status": "Valid",
+  "ministerium": "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+ },
+ {
+  "hvor": "lov-dyreforsoegsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/63",
+  "status": "Valid",
+  "ministerium": "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+ },
+ {
+  "hvor": "lov-fiskeriloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2023/205",
+  "status": "Valid",
+  "ministerium": "Miljøministeriet"
+ },
+ {
+  "hvor": "lov-landbrugsstoetteloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2020/115",
+  "status": "Valid",
+  "ministerium": "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+ },
+ {
+  "hvor": "lov-landbrugsejendomme.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2020/116",
+  "status": "Valid",
+  "ministerium": "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+ },
+ {
+  "hvor": "bek-meddelelser-a.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2009/1246",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-meddelelser-b.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2016/1512",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-meddelelser-e.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2010/1459",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-meddelelser-f.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2010/1460",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-ankenaevn-soefartsforhold-forretningsorden.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2013/1121",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-skibstilsynsraadet-forretningsorden.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/1996/883",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-soefartsstyrelsen-henlaeggelse.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2020/261",
+  "status": "Valid",
+  "ministerium": "Ministeriet for Samfundssikkerhed og Beredskab"
+ },
+ {
+  "hvor": "lov-sikkerhed-til-soes.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2022/221",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-soeloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/776",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-skibes-besaetning.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1001",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-soefarendes-ansaettelsesforhold.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/335",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-lodsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2023/346",
+  "status": "Valid",
+  "ministerium": "Ministeriet for Samfundssikkerhed og Beredskab"
+ },
+ {
+  "hvor": "lov-dis-loven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2020/390",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-sikkerhedsundersoegelse-soeulykker.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2011/457",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-dataraadet-forretningsorden.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2019/454",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet"
+ },
+ {
+  "hvor": "lov-databeskyttelsesloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/289",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet"
+ },
+ {
+  "hvor": "lov-retshaandhaevelsesloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2017/410",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet"
+ },
+ {
+  "hvor": "lov-tv-overvaagningsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2023/182",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet"
+ },
+ {
+  "hvor": "lov-straffeloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1294",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet"
+ },
+ {
+  "hvor": "lov-politiloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2019/1270",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet"
+ },
+ {
+  "hvor": "lov-straffuldbyrdelsesloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2023/201",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet"
+ },
+ {
+  "hvor": "lov-offererstatningsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1400",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet"
+ },
+ {
+  "hvor": "lov-ungdomskriminalitetsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2018/1705",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet"
+ },
+ {
+  "hvor": "bek-erstatningsnaevnets-behandling-af-ansoegninger.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2021/772",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet"
+ },
+ {
+  "hvor": "bek-forretningsorden-erstatningsnaevnet.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2021/773",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet"
+ },
+ {
+  "hvor": "bek-ungekriminalforsorgens-tilsyn.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/1115",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet"
+ },
+ {
+  "hvor": "bek-ungekriminalforsorgens-reaktioner.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/1116",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet"
+ },
+ {
+  "hvor": "lov-arbejdsretsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/705",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "lov-forligsmandsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1290",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "lov-ligebehandlingsnaevnet.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/1779",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "lov-ligebehandlingsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/942",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "lov-forskelsbehandlingsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/399",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "lov-funktionaerloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2017/1002",
+  "status": "Valid",
+  "ministerium": "Beskæftigelses- og Ligestillingsministeriet"
+ },
+ {
+  "hvor": "lov-erhvervsuddannelser.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/381",
+  "status": "Valid",
+  "ministerium": "Børne- og Undervisningsministeriet"
+ },
+ {
+  "hvor": "bek-tvistighedsnaevnet.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2023/1318",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-markedsfoeringsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/1420",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-forbrugeraftaleloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1184",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet"
+ },
+ {
+  "hvor": "lov-koebeloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2021/1853",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet"
+ },
+ {
+  "hvor": "bek-forbrugerklager-naevnenes-hus.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2019/65",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-godkendelse-private-tvistloesningsorganer.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2015/1151",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-gebyrer-godkendte-private-ankenaevn.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/928",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-forbrugerombudsmandens-virksomhed.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2014/1249",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-patentloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2019/90",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-varemaerkeloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2019/88",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-designloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2019/89",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-revisorloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/206",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-ejendomsformidling.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2021/510",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-selskabsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/331",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-aarsregnskabsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/402",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-beskikkede-bygningssagkyndige.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2010/1532",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-ankenaevnet-patenter-varemaerker.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2009/892",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-revisornaevnet.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2025/1264",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-disciplinaernaevnet-ejendomsmaeglere.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2014/1258",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-bygningssagkyndige-naevn.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2011/20",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "bek-forretningsorden-klagenaevnet-specialundervisning.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2014/998",
+  "status": "Valid",
+  "ministerium": "Børne- og Undervisningsministeriet"
+ },
+ {
+  "hvor": "bek-ankenaevn-praktikvirksomheder.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2007/1517",
+  "status": "Valid",
+  "ministerium": "Erhvervsministeriet"
+ },
+ {
+  "hvor": "lov-folkeskoleloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/870",
+  "status": "Valid",
+  "ministerium": "Undervisningsministeriet"
+ },
+ {
+  "hvor": "lov-friskoleloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/700",
+  "status": "Valid",
+  "ministerium": "Undervisningsministeriet"
+ },
+ {
+  "hvor": "lov-gymnasieloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/624",
+  "status": "Valid",
+  "ministerium": "Undervisningsministeriet"
+ },
+ {
+  "hvor": "lov-institutioner-almengymnasiale.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/366",
+  "status": "Valid",
+  "ministerium": "Børne- og Undervisningsministeriet"
+ },
+ {
+  "hvor": "lov-familieretshusloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2019/766",
+  "status": "Valid",
+  "ministerium": "Social- og Boligministeriet"
+ },
+ {
+  "hvor": "lov-foraeldreansvarsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/662",
+  "status": "Valid",
+  "ministerium": "Socialministeriet"
+ },
+ {
+  "hvor": "lov-aegteskabsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/663",
+  "status": "Valid",
+  "ministerium": "Socialministeriet"
+ },
+ {
+  "hvor": "lov-boerneloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2019/772",
+  "status": "Valid",
+  "ministerium": "Social- og Boligministeriet"
+ },
+ {
+  "hvor": "lov-adoptionsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2026/669",
+  "status": "Valid",
+  "ministerium": "Socialministeriet"
+ },
+ {
+  "hvor": "lov-boerns-forsoergelse.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2019/773",
+  "status": "Valid",
+  "ministerium": "Social- og Boligministeriet"
+ },
+ {
+  "hvor": "lov-navneloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2023/1074",
+  "status": "Valid",
+  "ministerium": "Social- og Boligministeriet"
+ },
+ {
+  "hvor": "lov-vaergemaalsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2021/1122",
+  "status": "Valid",
+  "ministerium": "Justitsministeriet"
+ },
+ {
+  "hvor": "lov-bidragsopkraevningsloven.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2023/1092",
+  "status": "Valid",
+  "ministerium": "Social- og Boligministeriet"
+ },
+ {
+  "hvor": "bek-adoptionsnaevnet-forretningsorden.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/1754",
+  "status": "Valid",
+  "ministerium": "Social- og Boligministeriet"
+ },
+ {
+  "hvor": "bek-adoption.identifikatorer",
+  "eli": "https://www.retsinformation.dk/eli/lta/2024/1755",
+  "status": "Valid",
+  "ministerium": "Social- og Boligministeriet"
+ }
+]

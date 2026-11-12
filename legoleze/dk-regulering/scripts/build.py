@@ -174,7 +174,11 @@ CAT_TYPES = {
     "lov", "ændringslov", "lovbekendtgørelse", "bekendtgørelse", "ændringsbekendtgørelse", "ikrafttrædelsesbekendtgørelse",
     "bekendtgørelse-international", "anordning", "ændringsanordning", "ikrafttrædelsesanordning", "bekendtgørelse-af-anordning", "åbent-brev",
 }
-CAT_ID = re.compile(r"^lta-\d{4}-\d+$")
+CAT_ID = re.compile(r"^((lta|ltb|ltc|mt|retsinfo|fob)-\d{4}-\d+|ft-\d{5}[0-9A-Z]{7})$")
+CAT_TYPE = re.compile(r"^[a-zæøå0-9]+(?:-[a-zæøå0-9]+)*$")
+CAT_SAMLINGER = {"ltb": "Lovtidende B", "ltc": "Lovtidende C", "mt": "Ministerialtidende",
+                 "retsinfo": "Retsinformation (administrative forskrifter og afgørelser)", "fob": "Folketingets Ombudsmand",
+                 "ft": "Folketingstidende (lovforslag, betænkninger, beslutningsforslag)"}
 EU_ID = re.compile(r"^eu-(dir|reg|dec)-\d{4}-\d+$")
 CELEX = re.compile(r"^3\d{4}[LRD]\d{4,}$")
 
@@ -184,7 +188,8 @@ def load_katalog() -> dict | None:
     if not f.exists():
         return None
     rd = lambda p: [json.loads(l) for l in p.open(encoding="utf-8")] if p.exists() else []
-    return {"docs": rd(f), "edges": rd(KATALOG_DIR / "kanter.jsonl"), "eu": rd(KATALOG_DIR / "eu_index.jsonl")}
+    docs = [d for p in sorted(KATALOG_DIR.glob("retsinformation_*.jsonl")) for d in rd(p)]
+    return {"docs": docs, "edges": rd(KATALOG_DIR / "kanter.jsonl"), "eu": rd(KATALOG_DIR / "eu_index.jsonl")}
 
 
 def validate_katalog(reg: dict, kat: dict) -> list[str]:
@@ -201,7 +206,7 @@ def validate_katalog(reg: dict, kat: dict) -> list[str]:
             err(f"katalog {i}: dublet")
         docs[i] = d
     for i, d in docs.items():
-        if d.get("type") not in CAT_TYPES:
+        if d.get("type") not in CAT_TYPES and (str(i).startswith("lta-") or not CAT_TYPE.match(str(d.get("type")))):
             err(f"katalog {i}: ukendt type {d.get('type')!r}")
         kilder = d.get("kilder")
         if not isinstance(kilder, list) or any(not URL_RE.match(str(k)) for k in kilder):
@@ -223,7 +228,7 @@ def validate_katalog(reg: dict, kat: dict) -> list[str]:
         for r in d.get("registry_ids") or []:
             if r not in reg_ids:
                 err(f"katalog {i}: registry_id {r!r} findes ikke")
-        for t in [d.get("gaeldende_version")] + list(d.get("aendrer") or []):
+        for t in [d.get("gaeldende_version"), d.get("lov")] + list(d.get("aendrer") or []):
             if t and t not in docs:
                 err(f"katalog {i}: henvisning til ukendt dokument {t!r}")
     eus = set()
@@ -251,19 +256,21 @@ def validate_katalog(reg: dict, kat: dict) -> list[str]:
 
 
 def gen_katalog(reg: dict, kat: dict) -> str:
-    docs = kat["docs"]
+    docs = [d for d in kat["docs"] if d["id"].startswith("lta-")]
+    andre = [d for d in kat["docs"] if not d["id"].startswith("lta-")]
     C = lambda it: sorted(defaultdict_count(it).items(), key=lambda x: (-x[1], str(x[0])))
     reg_names = {n["id"]: n["navn"] for n in reg["nodes"]}
     gd = [d for d in docs if d["status"]["vaerdi"] == "gældende"]
     lines = [
-        "# Katalog: hele Lovtidende A fra Retsinformation",
+        "# Katalog: Retsinformations dokumenter",
         "",
         "> Genereret af `scripts/build.py` fra `katalog/*.jsonl`. Redigér ikke i hånden.",
         "",
-        f"- Dokumenter: **{len(docs)}** (gældende: {len(gd)}, historiske: {len(docs) - len(gd)})",
+        f"- Lovtidende A: **{len(docs)}** dokumenter (gældende: {len(gd)}, historiske: {len(docs) - len(gd)}); tabellerne herunder gælder Lovtidende A, hvor andet ikke står",
+        f"- Øvrige samlinger: **{len(andre)}** dokumenter (cirkulærer, vejledninger, afgørelser m.m., se nederst)",
         f"- Seneste udstedelsesdato i datasættet: {max(d['datoer'].get('udstedt') or '' for d in docs)}",
         f"- Status høstet: {min(d['status']['pr'] or '9' for d in docs)} – {max(d['status']['pr'] or '' for d in docs)}",
-        f"- Kanter: {len(kat['edges'])} · EU-retsakter refereret: {len(kat['eu'])} · koblet til registry-noder: {sum(len(d.get('registry_ids') or []) for d in docs)}",
+        f"- Kanter: {len(kat['edges'])} · EU-retsakter refereret: {len(kat['eu'])} · koblet til registry-noder: {sum(len(d.get('registry_ids') or []) for d in kat['docs'])}",
         "",
         "## Dokumenttyper",
         "",
@@ -294,6 +301,27 @@ def gen_katalog(reg: dict, kat: dict) -> str:
         ec[e["type"]][e["sikkerhed"]] += 1
     for t, c in sorted(ec.items()):
         lines.append(f"| {t} | {c['verificeret']} | {c['sandsynlig']} | {c['ukendt']} |")
+    koblet = {e["from"] if e["type"] == "henviser_til" else e["to"] for e in kat["edges"]
+              if e.get("metode") == "retsinformation-eksport" and e["type"] in ("hjemmel_for", "henviser_til")}
+    lines += ["", "## Øvrige samlinger", "",
+              ("Dokumenter uden for Lovtidende A, direkte fra Retsinformations søgeeksport (kun metadata). Koblet til lovgivning: dokumentet har mindst én kant fra "
+               "eksportens hjemmelsfelt, `hjemmel_for` fra loven til forskrifter og vejledninger og `henviser_til` fra afgørelser, udtalelser og domme til loven. "
+               "I Folketingstidende har alle dokumenter om samme lovforslag samme nøgle i feltet `lovforslag`, og den vedtagne tekst har feltet `lov`: den lov, "
+               "den blev til (samme titel, underskrevet højst 60 dage efter vedtagelsen); lovforslagets dokumenter har så en `henviser_til`-kant til loven (sandsynlig). "
+               "Ministerium er Retsinformations ressortfelt, når det med sikkerhed er aktuelt, og ellers arvet fra den lovgivning, dokumentet vedrører (sandsynlig)."), "",
+              "| Samling | Fil | Dokumenter | Gældende | heraf koblet til lovgivning | med ministerium | heraf sandsynlig | med retsområde |", "|---|---|---:|---:|---:|---:|---:|---:|"]
+    for s, navn in CAT_SAMLINGER.items():
+        ds = [d for d in andre if d["id"].startswith(s + "-")]
+        g = [d for d in ds if d["status"]["vaerdi"] == "gældende"]
+        mins = [d["ministerium"]["sikkerhed"] for d in g if d.get("ministerium")]
+        lines.append(f"| {navn} | `retsinformation_{s}.jsonl` | {len(ds)} | {len(g)} | {sum(d['id'] in koblet for d in g)} | {len(mins)} | {mins.count('sandsynlig')} "
+                     f"| {sum(bool(d.get('retsomraade')) for d in g)} |")
+    ag = defaultdict_count(d["type"] for d in andre if d["status"]["vaerdi"] == "gældende")
+    ah = defaultdict_count(d["type"] for d in andre if d["status"]["vaerdi"] != "gældende")
+    ak = defaultdict_count(d["type"] for d in andre if d["status"]["vaerdi"] == "gældende" and d["id"] in koblet)
+    typer = sorted(set(ag) | set(ah), key=lambda t: (-(ag.get(t, 0) + ah.get(t, 0)), t))
+    lines += ["", f"### Dokumenttyper i de øvrige samlinger (top 30 af {len(typer)})", "", "| Type | Gældende | Historisk | Gældende koblet til lovgivning |", "|------|---------:|----------:|---------:|"]
+    lines += [f"| {t} | {ag.get(t, 0)} | {ah.get(t, 0)} | {ak.get(t, 0)} |" for t in typer[:30]]
     lines += ["", "## Mest refererede EU-retsakter (top 30)", "", "| Id | CELEX | Dokumenter | heraf gældende | Gennemførelses-kanter | I registry |", "|---|---|---:|---:|---:|---|"]
     for e in kat["eu"][:30]:
         lines.append(f"| `{e['id']}` | {e['identifikatorer']['celex']} | {e['n_dok']} | {e['n_gaeldende']} | {e['n_implementerer']} | {'ja' if e.get('registry_id') else ''} |")

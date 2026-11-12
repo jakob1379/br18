@@ -649,8 +649,8 @@ def ajour(reg: dict, kataloget: frozenset = frozenset()) -> list:
         n["identifikatorer"] = {**{k: v for k, v in ids.items() if k not in ("kilder", "sikkerhed")}, **nyt,
                                 "kilder": list(dict.fromkeys([nu_eli, *ids.get("kilder", [])])),
                                 "sikkerhed": ids.get("sikkerhed", "ukendt") if behold else "verificeret"}
-        kid = "lta-" + "-".join(nu_eli.split("/")[-2:])
-        if "/eli/lta/" in nu_eli and kid in kataloget and n.get("katalog_id") != kid:
+        kid = "-".join(nu_eli.split("/")[-3:])
+        if kid in kataloget and n.get("katalog_id") != kid:
             n["katalog_id"] = j["katalog_id"] = kid
         if n["dokumenttyper"]["sikkerhed"] == "ukendt" and not n["dokumenttyper"].get("liste") and doktype(nu):
             n["dokumenttyper"] = {"liste": doktype(nu), "kilder": [nu_eli], "sikkerhed": "verificeret"}
@@ -920,8 +920,7 @@ if __name__ == "__main__":
     elif cmd == "ajour":
         text = REG.read_text(encoding="utf-8")
         registry = yaml.load(text, Loader=yaml.CSafeLoader)
-        fil = KAT / "retsinformation_lta.jsonl"
-        log = ajour(registry, frozenset(re.findall(r'^\{"id": "([^"]+)"', fil.read_text(encoding="utf-8"), re.MULTILINE)) if fil.exists() else frozenset())
+        log = ajour(registry, frozenset(i for fil in KAT.glob("retsinformation_*.jsonl") for i in re.findall(r'^\{"id": "([^"]+)"', fil.read_text(encoding="utf-8"), re.MULTILINE)))
         gem(text, registry)
         (ROOT / "raw" / "populate" / f"{datetime.datetime.now():%Y-%m-%dT%H%M}-ajour.kontrol.json").write_text(json.dumps(log, ensure_ascii=False, indent=1), encoding="utf-8")
         noder = [j for j in log if not j["hvor"].startswith("kant ")]

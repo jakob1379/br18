@@ -1,11 +1,12 @@
-# Katalog: hele Lovtidende A fra Retsinformation
+# Katalog: Retsinformations dokumenter
 
 > Genereret af `scripts/build.py` fra `katalog/*.jsonl`. Redigér ikke i hånden.
 
-- Dokumenter: **63473** (gældende: 14078, historiske: 49395)
+- Lovtidende A: **63473** dokumenter (gældende: 14078, historiske: 49395); tabellerne herunder gælder Lovtidende A, hvor andet ikke står
+- Øvrige samlinger: **131080** dokumenter (cirkulærer, vejledninger, afgørelser m.m., se nederst)
 - Seneste udstedelsesdato i datasættet: 2026-11-11
 - Status høstet: 2026-11-12 – 2026-11-12
-- Kanter: 185553 · EU-retsakter refereret: 1778 · koblet til registry-noder: 381
+- Kanter: 307061 · EU-retsakter refereret: 1778 · koblet til registry-noder: 389
 
 ## Dokumenttyper
 
@@ -148,10 +149,58 @@
 
 | Kanttype | verificeret | sandsynlig | ukendt |
 |---|---:|---:|---:|
-| henviser_til | 47751 | 73732 | 0 |
-| hjemmel_for | 48736 | 0 | 0 |
+| henviser_til | 95179 | 92122 | 0 |
+| hjemmel_for | 88181 | 0 | 0 |
 | implementerer_EU | 0 | 1279 | 0 |
-| ressortansvar | 3337 | 10471 | 247 |
+| ressortansvar | 19582 | 10471 | 247 |
+
+## Øvrige samlinger
+
+Dokumenter uden for Lovtidende A, direkte fra Retsinformations søgeeksport (kun metadata). Koblet til lovgivning: dokumentet har mindst én kant fra eksportens hjemmelsfelt, `hjemmel_for` fra loven til forskrifter og vejledninger og `henviser_til` fra afgørelser, udtalelser og domme til loven. I Folketingstidende har alle dokumenter om samme lovforslag samme nøgle i feltet `lovforslag`, og den vedtagne tekst har feltet `lov`: den lov, den blev til (samme titel, underskrevet højst 60 dage efter vedtagelsen); lovforslagets dokumenter har så en `henviser_til`-kant til loven (sandsynlig). Ministerium er Retsinformations ressortfelt, når det med sikkerhed er aktuelt, og ellers arvet fra den lovgivning, dokumentet vedrører (sandsynlig).
+
+| Samling | Fil | Dokumenter | Gældende | heraf koblet til lovgivning | med ministerium | heraf sandsynlig | med retsområde |
+|---|---|---:|---:|---:|---:|---:|---:|
+| Lovtidende B | `retsinformation_ltb.jsonl` | 45 | 7 | 0 | 2 | 1 | 1 |
+| Lovtidende C | `retsinformation_ltc.jsonl` | 4778 | 4416 | 1 | 305 | 1 | 1 |
+| Ministerialtidende | `retsinformation_mt.jsonl` | 6421 | 1080 | 735 | 800 | 582 | 662 |
+| Retsinformation (administrative forskrifter og afgørelser) | `retsinformation_retsinfo.jsonl` | 75237 | 39868 | 30597 | 33766 | 18861 | 26852 |
+| Folketingets Ombudsmand | `retsinformation_fob.jsonl` | 2869 | 2869 | 241 | 241 | 241 | 241 |
+| Folketingstidende (lovforslag, betænkninger, beslutningsforslag) | `retsinformation_ft.jsonl` | 41730 | 41730 | 17839 | 7032 | 6215 | 6268 |
+
+### Dokumenttyper i de øvrige samlinger (top 30 af 85)
+
+| Type | Gældende | Historisk | Gældende koblet til lovgivning |
+|------|---------:|----------:|---------:|
+| endelig-adm-afgørelse | 24015 | 5953 | 21152 |
+| cirkulære | 1783 | 9276 | 732 |
+| lovforslag-som-fremsat | 9820 | 0 | 5412 |
+| betænkning-over-lovforslag | 8154 | 0 | 5345 |
+| vejledning | 1698 | 6044 | 1343 |
+| beslutningsforslag-som-fremsat | 6553 | 0 | 0 |
+| afgørelse | 5723 | 330 | 4778 |
+| lovforslag-som-vedtaget | 5844 | 0 | 5621 |
+| skrivelse | 1725 | 3973 | 1082 |
+| skriftlig-fremsættelse-af-lovforslag | 5357 | 0 | 0 |
+| bekendtgørelse-international | 4438 | 370 | 1 |
+| registerforskriftsbekendtgørelse | 0 | 4550 | 0 |
+| cirkulæreskrivelse | 713 | 3089 | 411 |
+| bekendtgørelse | 309 | 2436 | 292 |
+| stor-vejledning | 2411 | 0 | 0 |
+| udtalelser | 2396 | 0 | 241 |
+| betænkning-over-beslutningsforslag | 2209 | 0 | 0 |
+| udtalelse | 1432 | 101 | 1182 |
+| meddelelse | 150 | 1011 | 133 |
+| skriftlig-fremsættelse | 775 | 0 | 0 |
+| tillægsbetænkning-over-lovforslag | 634 | 0 | 587 |
+| ændr-cirkulære | 100 | 518 | 2 |
+| datasammenskrivning | 21 | 550 | 0 |
+| ændringsforslag-til-2-behandling-l | 467 | 0 | 431 |
+| ændringsforslag-til-3-behandling | 463 | 0 | 429 |
+| beretning-over-beslutningsforslag | 456 | 0 | 0 |
+| dom | 400 | 17 | 36 |
+| selvstændig-beretning | 385 | 0 | 0 |
+| beslutningsforslag-som-vedtaget | 372 | 0 | 0 |
+| regel | 13 | 350 | 11 |
 
 ## Mest refererede EU-retsakter (top 30)
 

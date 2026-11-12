@@ -28,29 +28,39 @@ meta:
       i katalog-laget (katalog/), uanset domæne. Registry''et forbliver den dybe, verificerede graf for de otte domæner.'
   katalog:
     filer:
-      dokumenter: katalog/retsinformation_lta.jsonl
+      dokumenter: katalog/retsinformation_lta.jsonl (Lovtidende A) og katalog/retsinformation_<samling>.jsonl for ltb, ltc, mt, retsinfo, fob
+        og ft
       kanter: katalog/kanter.jsonl
       eu_index: katalog/eu_index.jsonl
       oversigt: katalog/README.md (genereret)
     kilde: kilde-danish-law-mcp (https://github.com/Ansvar-Systems/danish-law-mcp, commit da22657b7aa604e0a900d69b2b60a7b0c424b0cb) for dokumenter
       udstedt til og med 2026-02-12 og for alle tekstudtræk; kilde-retsinformation (søgeeksporten api/documentsearch/csv, hentet 2026-11-12) for
-      status, senere dokumenter, hjemmel og ressortfelt
-    id: lta-<år>-<nummer> (Lovtidende A år og nummer, samme som ELI-stien /eli/lta/<år>/<nummer>)
+      status, senere dokumenter, hjemmel og ressortfelt og for alle dokumenter uden for Lovtidende A
+    id: '<samling>-<år>-<nummer>, samme som ELI-stien /eli/<samling>/<år>/<nummer>; samling er lta (Lovtidende A), ltb, ltc, mt (Ministerialtidende),
+      retsinfo (administrative forskrifter og afgørelser) eller fob (Folketingets Ombudsmand). Folketingstidende: ft-<Retsinformations id>, samme
+      som ELI-stien /eli/ft/<id>'
     felter: id, navn, type, kilder[ELI-XML-URL], status{vaerdi gældende|historisk, pr, sikkerhed}, identifikatorer{lovtidende, document_id, accession,
       unique_document_id, sikkerhed}, datoer{udstedt, historisk_markeret, ri_registreret, ri_aendret}, territorium (DK/GL/FO/GL+FO ud fra titlen),
       dokumentrolle (hoved/ændring/ikrafttræden/ophævelse), udstedt_af{vaerdi, metode, praefiks, sikkerhed}, ministerium{vaerdi, sikkerhed, metode,
       pr} og retsomraade/domaener (kun gældende), gaeldende_version / nyeste_version_afloeser_mangler / afloeser_mangler, aendrer[], eu_referencer[],
-      registry_ids[], seed_fil (kun dokumenter fra bulk-høsten), n_paragraffer, n_definitioner
+      registry_ids[], seed_fil (kun dokumenter fra bulk-høsten), n_paragraffer, n_definitioner. Dokumenter uden for Lovtidende A har id, navn,
+      type (Retsinformations egen dokumenttype med små bogstaver og bindestreger, når den ikke er en af katalogets), kilder[ELI-URL], status,
+      identifikatorer{document_id, accession, sikkerhed}, datoer, territorium, udstedt_af og registry_ids[] samt, for gældende dokumenter, ministerium
+      og retsomraade, når de kan sættes fra ressortfeltet eller arves fra den lovgivning, dokumentet vedrører. Folketingstidende har desuden lovforslag
+      (år og samling plus lovforslagets nummer, fælles for fremsat og vedtaget tekst, betænkninger og ændringsforslag om samme lovforslag) og,
+      på den vedtagne tekst, lov (katalog-id for den lov, den blev til)
     kanter: 'Samme kanttyper og påstandsstruktur som registry''et: henviser_til (lov/dokument/EU-retsakt nævnt i teksten; mål = citeret version
-      ved nr.+dato, ellers versionen der gjaldt ved udstedelsen, med gaeldende_version ved siden af), implementerer_EU (direktiv + gennemførelsesudsagn
-      i samme bestemmelse), hjemmel_for (lov eller forskrift → forskrift, fra Retsinformations hjemmelsfelt; målet er den version, forskriften
-      henviser til, med gaeldende_version ved siden af), ressortansvar (ministerium → gældende dokument; fra Retsinformations ressortfelt, når
-      det med sikkerhed er aktuelt, ellers fra registry-noden, arvet fra hjemmelsloven eller klassificeret). Endepunkter er katalog-id''er, registry-id''er
-      eller eu_index-id''er.'
+      ved nr.+dato, ellers versionen der gjaldt ved udstedelsen, med gaeldende_version ved siden af; for afgørelser, udtalelser, domme og kommentarer
+      uden for Lovtidende A er det den lovgivning, Retsinformations hjemmelsfelt fører dokumentet under, metode retsinformation-eksport; fra et
+      lovforslags dokumenter i Folketingstidende til den lov, lovforslaget blev til, med beskrivelsen ''forarbejde til loven'', sandsynlig), implementerer_EU
+      (direktiv + gennemførelsesudsagn i samme bestemmelse), hjemmel_for (lov eller forskrift → forskrift, cirkulære, vejledning eller andet dokument,
+      der ikke er en afgørelse, fra Retsinformations hjemmelsfelt; loven er den version, dokumentet henviser til, med gaeldende_version ved siden
+      af), ressortansvar (ministerium → gældende dokument; fra Retsinformations ressortfelt, når det med sikkerhed er aktuelt, ellers fra registry-noden,
+      arvet fra hjemmelsloven eller klassificeret). Endepunkter er katalog-id''er, registry-id''er eller eu_index-id''er.'
     sikkerhed: verificeret = står direkte i datasættets felter eller tekst eller i Retsinformations søgeeksport (status, Lovtidende-nr., henvisning
       med nummer og dato, EU-retsakt nævnt, hjemmel, ressortfelt der med sikkerhed er aktuelt). sandsynlig = udledt (udstedende ministerium fra
-      DocumentId-præfiks, titel-/navnematch, ministerium arvet fra hjemmelsloven, ressort klassificeret af Haiku, implementerer_EU fra samforekomst).
-      ukendt = intet grundlag.
+      DocumentId-præfiks, titel-/navnematch, ministerium arvet fra hjemmelsloven, lovforslag koblet til loven på titel og underskriftsdato, ressort
+      klassificeret af Haiku, implementerer_EU fra samforekomst). ukendt = intet grundlag.
     datoer_note: Den reelle ikrafttrædelsesdato findes ikke i bulk-kilden (ukendt). ri_registreret er datasættets start_date/in_force_date (Retsinformations
       databasedato; for dokumenter fra før 1990 typisk en dato i 1990'erne), ri_aendret er end_date med udokumenteret betydning – ingen af dem
       må bruges som gyldighedsperiode.
@@ -78,9 +88,15 @@ meta:
     dokumenter i Lovtidende A, de dokumenter bulk-høsten manglede, og hjemmel_for-kanter fra eksportens hjemmelsfelt, som er Retsinformations
     egen kobling mellem en forskrift og den lovgivning, den vedrører. Ministerium er sat fra Retsinformations ressortfelt for de gældende dokumenter,
     hvor feltet med sikkerhed er aktuelt (samme regel som for registry''ets ressortkanter). Nye dokumenter uden et sådant felt har arvet ministerium
-    og retsområde fra den lov, de er udstedt efter eller ændrer, og resten er klassificeret af Haiku (sandsynlig). Eksporten for Retsinformations
-    øvrige samlinger (administrative forskrifter og afgørelser, Ministerialtidende, Lovtidende B og C, Folketingstidende og Folketingets Ombudsmand)
-    ligger som metadata i intermediate/corpus/eksport/ og er ikke en del af kataloget.'
+    og retsområde fra den lov, de er udstedt efter eller ændrer, og resten er klassificeret af Haiku (sandsynlig). Retsinformations øvrige samlinger
+    (administrative forskrifter og afgørelser, Ministerialtidende, Lovtidende B og C og Folketingets Ombudsmand) er lagt i kataloget fra samme
+    eksport, én fil pr. samling. Hjemmelsfeltet giver hjemmel_for fra loven til forskrifter og vejledninger og henviser_til fra afgørelser, udtalelser
+    og domme til loven. Gældende dokumenter har ministerium fra ressortfeltet efter samme regel eller arver ministerium og retsområde fra den
+    lovgivning, de vedrører (sandsynlig). Koblingen er kontrolleret mod de syv hjemmel_for-kanter fra lov til vejledning, som populate.py ajour
+    har læst i Retsinformations henvisninger: alle syv findes også i eksporten. Folketingstidende er lagt i kataloget på samme måde. Dokumenter
+    om samme lovforslag har fælles nøgle (år og samling plus nummer), og den vedtagne tekst er koblet til den lov, den blev til, når netop én
+    lov har samme titel og er underskrevet fra 3 dage før til 60 dage efter vedtagelsen: 5.413 lovforslag og 5.618 love, dvs. 5.542 af de 5.723
+    love og ændringslove udstedt fra 1999 (97 %).'
   - 'Fase 7 (fra 2026-11-11): Instanslag uden for de otte domæner. Én research-agent pr. retsområde leverer noder og kanter med kilde-URL og ordret
     citat for hver påstand (pipeline/populate-brief.md). pipeline/populate.py henter selv hver kilde og leder efter citatet, læser nummer, dato,
     titel og status for love og bekendtgørelser direkte i Retsinformations metadata, og en uafhængig kontrollant bedømmer, om citatet bærer påstanden.
@@ -99,12 +115,14 @@ meta:
     siden er ikke åbnet direkte.
   - URL'er er aldrig konstrueret. Er en side ikke set i søgeresultater, står der 'ikke fundet', også når et mønster (fx ELI) gør adressen forudsigelig.
   - ELI'erne for 16 love/bekendtgørelser stammer fra jakob1379/br18 xref-laws.toml, tjekket mod retsinformation 2026-10-26.
-  - 'Katalog-laget dækker kun Lovtidende A. Dokumentliste, status og hjemmel_for-kanter er ført ajour fra Retsinformations søgeeksport 2026-11-12,
-    men tekstudtrækkene (paragraffer, henvisninger i teksten, EU-referencer) stammer fra bulk-høsten, som slutter med udstedelser 2026-02-12 og
-    mangler præambel, underskrift og EU-noter. Dokumenter tilføjet fra eksporten har derfor kun metadata og Retsinformations relationer. hjemmel_for
-    i kataloget er Retsinformations kobling på dokumentniveau, ikke en læsning af præamblens paragrafhenvisning. Status er Retsinformations markering:
-    et dokument kan stå som historisk, før ophævelsen har virkning (BEK nr. 1170 af 14/11/2024 blev markeret historisk 2026-11-04, men ophæves
-    først 1. januar 2027).'
+  - 'Katalog-laget har kun tekstudtræk for Lovtidende A. Dokumentliste, status og hjemmel_for-kanter er ført ajour fra Retsinformations søgeeksport
+    2026-11-12, men tekstudtrækkene (paragraffer, henvisninger i teksten, EU-referencer) stammer fra bulk-høsten, som slutter med udstedelser
+    2026-02-12 og mangler præambel, underskrift og EU-noter. Dokumenter tilføjet fra eksporten, herunder alle cirkulærer, vejledninger, afgørelser
+    og andre dokumenter uden for Lovtidende A, har derfor kun metadata og Retsinformations relationer. hjemmel_for og henviser_til fra eksporten
+    er Retsinformations kobling på dokumentniveau, ikke en læsning af præamblens paragrafhenvisning eller af afgørelsens tekst. Lovforslag er
+    koblet til loven på titel og underskriftsdato, ikke på en henvisning i loven, og kun hvor Retsinformation har den vedtagne tekst (fra 1998).
+    Status er Retsinformations markering: et dokument kan stå som historisk, før ophævelsen har virkning (BEK nr. 1170 af 14/11/2024 blev markeret
+    historisk 2026-11-04, men ophæves først 1. januar 2027).'
   - Ressortforhold ændrer sig ofte. Seneste kendte ændringer er regeringsdannelsen 2026-06-03 (BEK nr. 514 af 08/06/2026) og ministerskiftet 2026-10-27.
     Se 'ressortomlaegninger' og 'uafklarede_konflikter'.
   sikkerhed:
@@ -53038,6 +53056,7 @@ nodes:
   - AT-vejledning om bygge- og anlægsarbejde
   - VEJ nr 10211 af 09/12/2025
   note: Fortolker udvalgte arbejdsmiljøregler for bygge- og anlægsarbejde. Kun /pdf-formen af ELI'en er observeret, og den er angivet som eli.
+  katalog_id: retsinfo-2026-10135
 - id: vejl-at-bygherrens-pligter
   navn: AT-vejledning om bygherrens pligter
   type: vejledning
@@ -53097,6 +53116,7 @@ nodes:
   - VEJ nr 10212 af 09/12/2025
   note: Dækker udpegning og kompetencekrav for koordinator, indholdet af PSS og byggepladsens størrelse. Kun /pdf-formen af ELI'en er observeret,
     og den er angivet som eli.
+  katalog_id: retsinfo-2025-10212
 - id: vejl-at-vejledninger
   navn: AT-vejledninger (samling)
   type: vejledning
@@ -53680,6 +53700,7 @@ nodes:
   krydsref_moenstre: []
   note: Registreret som gældende i januar 2026. Ministeren for byer og landdistrikter igangsatte den 10/3/2025 en revision af Fingerplan 2019.
     En ny Fingerplan var ikke set pr. søgedatoen.
+  katalog_id: retsinfo-2019-9281
 - id: vejl-fob-myndighedsguiden
   navn: Folketingets Ombudsmands Myndighedsguide
   type: vejledning
@@ -54370,6 +54391,7 @@ nodes:
   krydsref_moenstre: []
   note: Udgivet af Miljøministeriet i 2009 og fortsat registreret som gældende på Retsinformation. Har ikke været opdateret siden 2009, hvilket
     et folketingsspørgsmål i 2023 påpegede. Dækker lokalplanens indhold, retsvirkninger, dispensation, klage og ekspropriation.
+  katalog_id: retsinfo-2009-9922
 - id: vejl-lovkvalitet
   navn: Vejledning om lovkvalitet (Justitsministeriet)
   type: vejledning
@@ -54436,6 +54458,7 @@ nodes:
     sikkerhed: verificeret
   krydsref_moenstre: []
   note: Findes også på lovkvalitet.dk og i Retsinformation. Forklarer kæden lov → bemyndigelse → bekendtgørelse.
+  katalog_id: retsinfo-2023-9964
 - id: vejl-miljoeoplysningsloven
   navn: Vejledning om aktindsigt i miljøoplysninger (VEJ nr. 10564 af 2006)
   type: vejledning
@@ -54499,6 +54522,7 @@ nodes:
     sikkerhed: sandsynlig
   krydsref_moenstre: []
   note: Markeret gældende på Retsinformation, men fra 2006 og muligvis delvist forældet.
+  katalog_id: retsinfo-2006-10564
 - id: vejl-miljoevurdering-planer
   navn: Vejledning om miljøvurdering af planer og programmer
   type: vejledning
@@ -54873,6 +54897,7 @@ nodes:
     sikkerhed: verificeret
   krydsref_moenstre: []
   note: Opdateringen er udskudt, fordi et lovforberedende udvalg (politisk aftale af 11/01/2024) skal foreslå ændringer af offentlighedsloven.
+  katalog_id: retsinfo-2013-9847
 - id: vejl-planloven-vejledninger
   navn: Vejledninger til planloven (samling)
   type: vejledning
@@ -55023,6 +55048,7 @@ nodes:
     besvaer: 2
     begrundelse: Årlige satser; tilgængelig som VEJ på Retsinformation
   note: ''
+  katalog_id: retsinfo-2025-9886
 - id: vejl-save
   navn: SAVE – Kortlægning og registrering af bymiljøers og bygningers bevaringsværdi (Naturstyrelsen 1997; revideret af Kulturstyrelsen 2011)
   type: vejledning
@@ -103347,13 +103373,18 @@ huller:
   - Tværgående dokumentkilder ikke oprettet i miljø-domænet
   - Praksisdatabaser for domstole og Ombudsmanden samt Lovguiden som sekundærkilde
   - Generelle dokumentkilder og ministeriets domæne
-- emne: Retsinformation ud over Lovtidende A er ikke i katalog-laget
+- emne: Retsinformations øvrige samlinger er kun i kataloget som metadata; tekst og fuld klassifikation mangler
   type: andet
-  beskrivelse: 'Kataloget rummer kun Lovtidende A. Metadata for Retsinformations øvrige samlinger er hentet fra søgeeksporten 2026-11-12 og ligger
-    i intermediate/corpus/eksport/: administrative forskrifter og afgørelser (retsinfo, 75.237 dokumenter, 39.868 ikke markeret historiske), Ministerialtidende
-    (6.421), Lovtidende C (4.778), Lovtidende B (45), Folketingstidende (41.730) og Folketingets Ombudsmand (2.869). De er ikke lagt i kataloget:
-    de har ingen katalogposter, ingen klassifikation efter ministerium og retsområde og ingen kanter, og teksten er ikke hentet. Eksportens hjemmelsfelt
-    (udfyldt for 59.410 af de administrative dokumenter) kan koble dem til Lovtidende A.'
+  beskrivelse: 'Siden 2026-11-12 har kataloget én post pr. dokument i Retsinformations øvrige samlinger, skrevet direkte fra søgeeksporten (katalog/retsinformation_<samling>.jsonl):
+    administrative forskrifter og afgørelser (retsinfo, 75.237 dokumenter, 39.868 ikke markeret historiske), Ministerialtidende (6.421), Lovtidende
+    C (4.778), Lovtidende B (45) og Folketingets Ombudsmand (2.869). Eksportens hjemmelsfelt kobler 64.485 af de 89.350 dokumenter til den lovgivning,
+    de vedrører: hjemmel_for fra loven til forskrifter og vejledninger og henviser_til fra afgørelser, udtalelser og domme til loven. Tallene
+    i (2) og (3) gælder disse fem samlinger. Det mangler: (1) teksten, så koblingen er på dokumentniveau uden paragraf; (2) kobling for 16.666
+    af de 48.240 ikke-historiske dokumenter, hvis hjemmelsfelt er tomt eller peger uden for kataloget; (3) ministerium for 13.126 og retsområde
+    for 20.483 af de ikke-historiske, fordi ressortfeltet ikke med sikkerhed er aktuelt, og der ikke er en lov at arve fra; (4) i Folketingstidende
+    (41.730 dokumenter, katalog/retsinformation_ft.jsonl) er 5.413 lovforslag koblet til den lov, de blev til, på titel og underskriftsdato (17.839
+    dokumenter); skriftlige fremsættelser, beslutningsforslag og lovforslag uden vedtaget tekst hos Retsinformation (før 1998) er ikke koblet,
+    og bemærkningerne er ikke delt op pr. paragraf; (5) de 7.671 administrative adresser, som sitemap lister, men eksporten ikke har.'
   noder:
   - kilde-retsinformation
   - kilde-danish-law-mcp
@@ -103362,6 +103393,8 @@ huller:
   - https://www.retsinformation.dk/static/api.html
   domaener:
   - datakilder-standarder
+  oprindelige_emner:
+  - Retsinformation ud over Lovtidende A er ikke i katalog-laget
 - emne: Katalogdokumenter udstedt efter 2026-02-12 har kun metadata
   type: andet
   beskrivelse: Kataloget rækker nu til udstedelser 2026-11-11 (status pr. 2026-11-12). De 711 dokumenter, der er tilføjet fra Retsinformations
@@ -103381,10 +103414,11 @@ huller:
   beskrivelse: Seed-filerne har kun paragraftekst, ikke præamblen ("I medfør af § … i lov om …"), underskrift eller EU-noten. hjemmel_for-kanterne
     i kataloget kommer derfor fra Retsinformations søgeeksport (feltet HjemmelVedroerer, det samme som 'Lovgivning forskriften vedrører' på dokumentets
     side), ikke fra en læsning af præamblen. Feltet peger på den version af loven, forskriften henviser til, kan også nævne ændringslove og andre
-    forskrifter og har ingen paragraf. 5.867 af 6.502 gældende danske forskrifter (90 %) har mindst én hjemmel_for-kant; resten har et tomt felt
-    eller peger på dokumenter uden for Lovtidende A. implementerer_EU findes stadig kun, hvor bulk-teksten nævner direktivet, eller hvor Retsinformation
-    fører relationen for en registry-node. Til sammenligning ramte den mest nævnte lov i teksten kun hjemmelsloven i 34 af 113 kendte tilfælde
-    og er ikke brugt. Præamblens paragrafhenvisning og EU-noten kan hentes fra Retsinformations ELI-XML.
+    forskrifter og har ingen paragraf. 6.166 af 6.502 gældende danske forskrifter (95 %) har mindst én hjemmel_for-kant, heraf 299 kun til dokumenter
+    uden for Lovtidende A (297 af dem tekstanmærkninger til finansloven); resten har et tomt felt eller peger på dokumenter uden for kataloget.
+    implementerer_EU findes stadig kun, hvor bulk-teksten nævner direktivet, eller hvor Retsinformation fører relationen for en registry-node.
+    Til sammenligning ramte den mest nævnte lov i teksten kun hjemmelsloven i 34 af 113 kendte tilfælde og er ikke brugt. Præamblens paragrafhenvisning
+    og EU-noten kan hentes fra Retsinformations ELI-XML.
   noder:
   - kilde-danish-law-mcp
   - kilde-retsinformation
@@ -103457,12 +103491,12 @@ huller:
   - datakilder-standarder
   oprindelige_emner:
   - Registry-noder hvis retsakt er markeret historisk i Retsinformation-høsten
-- emne: Love fra før 1852 (fx Christian V's Danske Lov 1683) er ikke i kataloget
+- emne: Love fra før 1852 (fx Christian V's Danske Lov 1683) er kun i kataloget som metadata
   type: andet
-  beskrivelse: 'Kataloget (Lovtidende A) starter i 1852. Ældre retsakter ligger hos Retsinformation i den administrative samling (eli/retsinfo):
-    64 dokumenter fra før 1852, heraf 37 ikke markeret historiske, bl.a. Danske Lov (eli/retsinfo/1683/11000) og Kongeloven (eli/retsinfo/1665/20001).
-    Metadata er hentet med søgeeksporten 2026-11-12 (intermediate/corpus/eksport/retsinfo.jsonl), men de er ikke katalogposter, og teksten er
-    ikke hentet.'
+  beskrivelse: 'Lovtidende A starter i 1852. Ældre retsakter ligger hos Retsinformation i den administrative samling (eli/retsinfo): 64 dokumenter
+    fra før 1852, heraf 37 ikke markeret historiske, bl.a. Danske Lov (eli/retsinfo/1683/11000) og Kongeloven (eli/retsinfo/1665/20001). De er
+    katalogposter siden 2026-11-12 (katalog/retsinformation_retsinfo.jsonl, fx retsinfo-1683-11000), men teksten er ikke hentet, og de indgår
+    ikke i lovfamilierne.'
   noder:
   - kilde-danish-law-mcp
   - kilde-jurabibliotek
@@ -103474,11 +103508,14 @@ huller:
   - datakilder-standarder
   oprindelige_emner:
   - Love fra før 1852 (fx Christian V's Danske Lov 1683) er ikke i bulk-høsten
+  - Love fra før 1852 (fx Christian V's Danske Lov 1683) er ikke i kataloget
 - emne: Kobling lov ↔ forarbejder findes kun bag betalingsmur (Jurabibliotek); den åbne vej er Folketingets data
   type: betalingsmur
-  beskrivelse: Jurabibliotek kobler love til lovforslag som fremsat, betænkninger og lovforslag som vedtaget, men bag abonnement og med forbud
+  beskrivelse: 'Jurabibliotek kobler love til lovforslag som fremsat, betænkninger og lovforslag som vedtaget, men bag abonnement og med forbud
     mod maskinel brug og AI. danskelove.dk har ingen forarbejder. Koblingen bør bygges fra Folketingstidende/Folketingets Åbne Data og Retsinformations
-    henvisninger.
+    henvisninger. Bygget 2026-11-12 fra Retsinformations egne data: kataloget kobler 5.413 lovforslag (fremsat og vedtaget tekst, betænkninger
+    og ændringsforslag, 17.839 dokumenter) til 5.618 love på titel og underskriftsdato. Udvalgsspørgsmål, ministersvar og høringssvar ligger kun
+    hos Folketinget og er ikke med.'
   noder:
   - kilde-jurabibliotek
   - kilde-danskelove

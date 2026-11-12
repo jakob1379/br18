@@ -52,11 +52,15 @@ Tværgående noder, du ofte får brug for: `sty-ankestyrelsen`, `sty-naevnenes-h
 
 ## Kilder
 
-- **Lokalt katalog (gratis, uden web):** `legoleze/dk-regulering/katalog/retsinformation_lta.jsonl` har én JSON-linje pr. dokument i Lovtidende A til og med 12/2/2026. Find gældende lovbekendtgørelse sådan:
+- **Lokalt katalog (gratis, uden web):** `legoleze/dk-regulering/katalog/retsinformation_lta.jsonl` har én JSON-linje pr. dokument i Lovtidende A til og med 11/11/2026 med Retsinformations status pr. 12/11/2026. Find gældende lovbekendtgørelse sådan:
 
-      grep -i '"navn":"Bekendtgørelse af skatteforvaltningsloven' legoleze/dk-regulering/katalog/retsinformation_lta.jsonl | jq -c '{id,navn,type,status:.status.vaerdi,udstedt:.datoer.udstedt,gv:.gaeldende_version,eli:.kilder[0]}'
+      grep -i '"navn": "Bekendtgørelse af skatteforvaltningsloven' legoleze/dk-regulering/katalog/retsinformation_lta.jsonl | jq -c '{id,navn,type,status:.status.vaerdi,udstedt:.datoer.udstedt,gv:.gaeldende_version,eli:.kilder[0]}'
 
-  Status er fra juni 2026, så der er ofte kommet en nyere version. Kør `lov`-kommandoen nedenfor på ELI-adressen for at få den gældende.
+  Cirkulærer, vejledninger, afgørelser og domme, som Retsinformation har, står på samme måde i `retsinformation_retsinfo.jsonl` (og ældre i `retsinformation_mt.jsonl`), ombudsmandsudtalelser i `retsinformation_fob.jsonl`:
+
+      grep -i '"navn": "Vejledning om landzoneadministration' legoleze/dk-regulering/katalog/retsinformation_retsinfo.jsonl | jq -c '{id,navn,type,status:.status.vaerdi,udstedt:.datoer.udstedt,myndighed:.udstedt_af.vaerdi,eli:.kilder[0]}'
+
+  Kataloget er metadata, ikke belæg: kør `lov`-kommandoen nedenfor på ELI-adressen, og citér Retsinformation.
 - **Web:** Brug WebSearch til at finde sider og WebFetch til at læse dem (indlæs dem med ToolSearch `select:WebSearch,WebFetch`, hvis de ikke er tilgængelige). Bed WebFetch om at gengive passagen "ordret, uden omskrivning".
 - **Værktøjet (brug det frem for WebFetch, når du kender adressen).** Det henter siden råt, husker den og holder selv 10 sekunders afstand til Retsinformation. Kommandoerne kræver netværk: sæt `allowed_domains` til sidens vært i Bash-kaldet (fx `["www.retsinformation.dk"]`).
 
