@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 227 · kanter: 378
+Noder: 227 · kanter: 379
 
 ```mermaid
 flowchart LR
@@ -328,7 +328,7 @@ flowchart LR
     bek_elevatorer -->|implementerer_EU| eu_dir_2014_33
     bek_elmateriel -->|implementerer_EU| eu_dir_2014_35
     bek_fyrvaerkeri -->|implementerer_EU| eu_dir_2013_29
-    bek_fyrvaerkeri_krav -.->|implementerer_EU| eu_dir_2013_29
+    bek_fyrvaerkeri_krav -->|implementerer_EU| eu_dir_2013_29
     bek_gasmateriel -.->|implementerer_EU| eu_reg_2016_426
     bek_maskiner -->|implementerer_EU| eu_dir_2006_42
     bek_maskinforordning_supplerende -->|implementerer_EU| eu_reg_2023_1230
@@ -617,6 +617,7 @@ flowchart LR
     naevn_teleklagenaevnet -->|klageinstans| sty_erhvervsstyrelsen
     naevn_teleklagenaevnet -.->|udsteder| kilde_teleklagenaevn_afgoerelser
     sty_naevnenes_hus -.->|tilsyn| naevn_teleankenaevnet
+    lov_produktloven -->|hjemmel_for| bek_personlige_vaernemidler_indretning
     bek_risiko -->|implementerer_EU| eu_dir_2012_18
     bek_faerdselsstyrelsen_opgaver -->|hjemmel_for| sty_faerdselsstyrelsen
 ```

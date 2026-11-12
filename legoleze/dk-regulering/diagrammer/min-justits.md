@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 99 · kanter: 149
+Noder: 100 · kanter: 154
 
 ```mermaid
 flowchart LR
@@ -80,6 +80,7 @@ flowchart LR
     bek_dataraadet_forretningsorden["Bekendtgørelse om forretningsorden for Datarådet (BEK nr. 454 af 01/01/2019)"]:::retsakt
     bek_forretningsorden_erstatningsnaevnet["Bekendtgørelse om forretningsorden for Erstatningsnævnet"]:::retsakt
     bek_pressenaevn_forretningsorden["Bekendtgørelse om forretningsorden for Pressenævnet (BEK nr. 86 af 09/02/1998)"]:::retsakt
+    bek_drikkevand_byggevarer["Bekendtgørelse om markedsføring og salg af byggevarer i kontakt med drikkevand (GDV-ordningen)"]:::retsakt
     bek_lag["Bekendtgørelse om tilskud til lokale aktionsgrupper – lokalt styret udvikling (LEADER) (BEK nr. 948 af 2025)"]:::retsakt
     bek_ungekriminalforsorgens_reaktioner["Bekendtgørelse om ungekriminalforsorgens reaktioner ved overtrædelse af Ungdomskriminalitetsnævnets afgørelse"]:::retsakt
     bek_ungekriminalforsorgens_tilsyn["Bekendtgørelse om ungekriminalforsorgens tilsyn med barnets eller den unges efterlevelse af Ungdomskriminalitetsnævnets afgørelse"]:::retsakt
@@ -258,6 +259,11 @@ flowchart LR
     lov_medieansvarsloven -->|hjemmel_for| naevn_pressenaevnet
     lov_medieansvarsloven -->|hjemmel_for| bek_pressenaevn_forretningsorden
     naevn_pressenaevnet -->|udsteder| kilde_pressenaevnet_kendelser
+    lov_forvaltningsloven -->|hjemmel_for| bek_drikkevand_byggevarer
+    lov_offentlighedsloven -->|hjemmel_for| bek_drikkevand_byggevarer
+    lov_offentlighedsloven -->|hjemmel_for| bek_lag
+    lov_offentlighedsloven -->|hjemmel_for| vejl_offentlighedsloven
+    lov_retsplejeloven -->|hjemmel_for| bek_advokatnaevnets_virksomhed
     bek_energimaerkning -->|implementerer_EU| eu_dir_2010_31
     bek_risiko -->|implementerer_EU| eu_dir_2012_18
     bek_energimaerkning -->|implementerer_EU| eu_dir_2005_36

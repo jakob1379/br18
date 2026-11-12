@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 61 · kanter: 109
+Noder: 69 · kanter: 125
 
 ```mermaid
 flowchart LR
@@ -16,6 +16,7 @@ flowchart LR
     classDef nedlagt fill:#fff,stroke:#999,color:#999,stroke-dasharray:4 3
     min_natur_og_dyrevelfaerd["Ministeriet for Natur og Dyrevelfærd"]:::ministerium
     eu_dir_2001_42["Direktiv 2001/42/EF om vurdering af bestemte planers og programmers indvirkning på miljøet (SMV)"]:::eu
+    eu_dir_2003_4["Direktiv 2003/4/EF om offentlig adgang til miljøoplysninger"]:::eu
     eu_dir_2004_35["Direktiv 2004/35/EF om miljøansvar (miljøansvarsdirektivet)"]:::eu
     eu_dir_2010_75["Direktiv 2010/75/EU om industrielle emissioner (IED)"]:::eu
     eu_dir_2011_92["Direktiv 2011/92/EU om vurdering af visse offentlige og private projekters indvirkning på miljøet (VVM)"]:::eu
@@ -32,6 +33,7 @@ flowchart LR
     sty_naturstyrelsen["Naturstyrelsen"]:::instans
     sty_groen_arealomlaegning_og_vandmiljoe["Styrelsen for Grøn Arealomlægning og Vandmiljø (SGAV)"]:::instans
     kilde_miljoeportal["Danmarks Miljøportal (miljoeportal.dk, DKjord, Danmarks Arealinformation)"]:::kilde
+    kilde_dma["Digital MiljøAdministration (DMA, dma.mst.dk)"]:::kilde
     kilde_kgl_res_2024_08_29["Kongelig resolution af 29. august 2024 (oprettelse af Ministeriet for Grøn Trepart)"]:::kilde
     kilde_kgl_res_2026_06_03["Kongelig resolution af 3. juni 2026 (ressortændringer ved dannelsen af S-SF-M-RV-regeringen)"]:::kilde
     kilde_mfkn_afgoerelser["MFKN afgørelsesportal (mfkn.naevneneshus.dk)"]:::kilde
@@ -43,12 +45,14 @@ flowchart LR
     sty_landbrugsstyrelsen["Landbrugsstyrelsen (nedlagt)"]:::nedlagt
     naevn_natur_og_miljoeklagenaevnet["Natur- og Miljøklagenævnet (nedlagt)"]:::nedlagt
     naevn_naturklagenaevnet["Naturklagenævnet (nedlagt)"]:::nedlagt
+    bek_ens_opgaver["Bekendtgørelse om Energistyrelsens opgaver og beføjelser"]:::retsakt
     bek_brugerbetaling_miljoe["Bekendtgørelse om brugerbetaling for godkendelse, tilsyn m.v. (brugerbetalingsbekendtgørelsen)"]:::retsakt
     bek_miljoemaal["Bekendtgørelse om fastlæggelse af miljømål for vandløb, søer, overgangsvande, kystvande og grundvand (miljømålsbekendtgørelsen), 2025"]:::retsakt
     bek_fredningsnaevn_forretningsorden["Bekendtgørelse om forretningsorden for fredningsnævn"]:::retsakt
     bek_husdyrgodkendelse["Bekendtgørelse om godkendelse og tilladelse m.v. af husdyrbrug (husdyrgodkendelsesbekendtgørelsen), BEK nr. 443 af 2023, ændret ved BEK nr. 300 af 2024"]:::retsakt
     bek_indsatsprogrammer["Bekendtgørelse om indsatsprogrammer for vandområdedistrikter"]:::retsakt
     bek_udledning_forurenende_stoffer["Bekendtgørelse om krav til udledning af visse forurenende stoffer til vandløb, søer, overgangsvande, kystvande og havområder (BEK nr. 1433 af 21/11/2017)"]:::retsakt
+    bek_miljoetilsyn["Bekendtgørelse om miljøtilsyn (miljøtilsynsbekendtgørelsen)"]:::retsakt
     bek_miljoevurdering["Bekendtgørelse om miljøvurdering af planer og programmer og af konkrete projekter (miljøvurderingsbekendtgørelsen)"]:::retsakt
     bek_vandloebsregulativer["Bekendtgørelse om regulativer for offentlige vandløb (BEK nr. 919 af 27/06/2016)"]:::retsakt
     bek_habitat["Habitatbekendtgørelsen (bekendtgørelse om udpegning og administration af internationale naturbeskyttelsesområder samt beskyttelse af visse arter)"]:::retsakt
@@ -56,17 +60,21 @@ flowchart LR
     plan_affaldsplan["Kommunal affaldsplan (fx Affaldsplan 2025-2036)"]:::retsakt
     reg_vandloebsregulativer["Kommunale vandløbsregulativer"]:::retsakt
     lov_landbrugsstoetteloven["Lov om administration af EU-forordninger om den fælles landbrugspolitik (landbrugsstøtteloven)"]:::retsakt
+    lov_havmiljoeloven["Lov om beskyttelse af havmiljøet (havmiljøloven)"]:::retsakt
     lov_dyreforsoegsloven["Lov om dyreforsøg"]:::retsakt
     lov_dyrevelfaerdsloven["Lov om dyrevelfærd (dyrevelfærdsloven)"]:::retsakt
     lov_husdyrbrugloven["Lov om husdyrbrug og anvendelse af gødning m.v. (husdyrbrugloven; tidl. lov om miljøgodkendelse m.v. af husdyrbrug)"]:::retsakt
+    lov_jagtloven["Lov om jagt og vildtforvaltning (jagt- og vildtforvaltningsloven)"]:::retsakt
     lov_kystbeskyttelsesloven["Lov om kystbeskyttelse (kystbeskyttelsesloven)"]:::retsakt
     lov_landbrugsejendomme["Lov om landbrugsejendomme"]:::retsakt
+    lov_miljoebeskyttelsesloven["Lov om miljøbeskyttelse (miljøbeskyttelsesloven)"]:::retsakt
     lov_miljoemaalsloven["Lov om miljømål m.v. for internationale naturbeskyttelsesområder (miljømålsloven)"]:::retsakt
     lov_miljoevurderingsloven["Lov om miljøvurderinger (miljøvurderingsloven, VVM/SMV)"]:::retsakt
     lov_naturbeskyttelsesloven["Lov om naturbeskyttelse (naturbeskyttelsesloven)"]:::retsakt
     lov_planloven["Lov om planlægning (planloven)"]:::retsakt
     lov_raastofloven["Lov om råstoffer (råstofloven)"]:::retsakt
     lov_skovloven["Lov om skove (skovloven)"]:::retsakt
+    lov_vandforsyningsloven["Lov om vandforsyning m.v. (vandforsyningsloven)"]:::retsakt
     lov_vandloebsloven["Lov om vandløb (vandløbsloven)"]:::retsakt
     lov_vandplanlaegningsloven["Lov om vandplanlægning"]:::retsakt
     plan_natura2000_planer["Natura 2000-planer (3. planperiode 2022-2027)"]:::retsakt
@@ -110,7 +118,7 @@ flowchart LR
     lov_miljoevurderingsloven -->|hjemmel_for| sty_energistyrelsen
     lov_miljoevurderingsloven -.->|hjemmel_for| sty_miljoestyrelsen
     lov_naturbeskyttelsesloven -->|hjemmel_for| bek_fredningsnaevn_forretningsorden
-    lov_naturbeskyttelsesloven -.->|hjemmel_for| bek_habitat
+    lov_naturbeskyttelsesloven -->|hjemmel_for| bek_habitat
     lov_naturbeskyttelsesloven -->|hjemmel_for| kommune_alle
     lov_naturbeskyttelsesloven -->|hjemmel_for| naevn_fredningsnaevn
     lov_naturbeskyttelsesloven -->|hjemmel_for| naevn_taksationskommissionen
@@ -118,8 +126,8 @@ flowchart LR
     lov_naturbeskyttelsesloven -->|hjemmel_for| sty_kystdirektoratet
     lov_naturbeskyttelsesloven -->|hjemmel_for| sty_miljoestyrelsen
     lov_planloven -.->|hjemmel_for| bek_habitat
-    lov_raastofloven -.->|hjemmel_for| bek_habitat
-    lov_skovloven -.->|hjemmel_for| bek_habitat
+    lov_raastofloven -->|hjemmel_for| bek_habitat
+    lov_skovloven -->|hjemmel_for| bek_habitat
     lov_skovloven -->|hjemmel_for| plan_natura2000_planer
     lov_vandloebsloven -->|hjemmel_for| bek_vandloebsregulativer
     lov_vandloebsloven -->|hjemmel_for| kommune_alle
@@ -184,6 +192,22 @@ flowchart LR
     lov_skovloven -->|implementerer_EU| eu_dir_1992_43
     lov_skovloven -->|implementerer_EU| eu_dir_2004_35
     lov_vandplanlaegningsloven -->|implementerer_EU| eu_dir_1992_43
+    lov_vandloebsloven -->|hjemmel_for| bek_ens_opgaver
+    lov_miljoevurderingsloven -->|hjemmel_for| bek_ens_opgaver
+    lov_vandloebsloven -->|hjemmel_for| bek_habitat
+    lov_miljoevurderingsloven -->|hjemmel_for| bek_habitat
+    lov_jagtloven -->|hjemmel_for| bek_habitat
+    lov_miljoemaalsloven -->|hjemmel_for| bek_habitat
+    lov_havmiljoeloven -->|hjemmel_for| bek_habitat
+    lov_vandforsyningsloven -->|hjemmel_for| bek_habitat
+    lov_husdyrbrugloven -->|hjemmel_for| bek_habitat
+    lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_habitat
+    lov_husdyrbrugloven -->|hjemmel_for| bek_miljoetilsyn
+    lov_vandloebsloven -->|implementerer_EU| eu_dir_1992_43
+    lov_vandloebsloven -->|implementerer_EU| eu_dir_2004_35
+    bek_miljoetilsyn -.->|hjemmel_for| kilde_dma
+    bek_miljoetilsyn -->|implementerer_EU| eu_dir_2010_75
+    bek_miljoetilsyn -->|implementerer_EU| eu_dir_2003_4
 ```
 
 [← Overblik](oversigt.md)

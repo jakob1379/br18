@@ -73,7 +73,7 @@ flowchart LR
     lov_spilleloven["Spilleloven (lov om spil)"]:::retsakt
     lov_bbr_loven -->|hjemmel_for| bek_bbr_ajourfoering
     lov_bbr_loven -->|hjemmel_for| kommune_alle
-    min_skat_og_vaekst -.->|ressortansvar| lov_bbr_loven
+    min_skat_og_vaekst -->|ressortansvar| lov_bbr_loven
     min_skat_og_vaekst -->|ressortansvar| sty_vurderingsstyrelsen
     sty_vurderingsstyrelsen -->|tilsyn| kommune_alle
     min_skat_og_vaekst -->|ressortansvar| sty_skatteforvaltningen

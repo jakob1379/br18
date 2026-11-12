@@ -10,6 +10,8 @@ Eksporten er sidens egen "Eksportér søgeresultat" (api/documentsearch/csv). É
 efter sitemap-fortegnelsen (populate.py sitemap), så hvert kald giver ca. 3.000 dokumenter, og alle samlinger hentes på under 100 kald.
 Kaldene går gennem populate.get, som holder 10,5 sekunder mellem kald til Retsinformation og husker svarene.
 
+Status og ressortfelt dateres med den dag, eksporten blev hentet (eksport/hentet), ikke med den dag, kataloget bygges.
+
 katalog gør fem ting med Lovtidende A: tilføjer de dokumenter, kataloget mangler; sætter status for alle dokumenter til eksportens;
 peger lovfamilier på den nyeste gældende version; skriver hjemmel_for-kanter fra eksportens hjemmelsfelt; og sætter ministerium fra
 Retsinformations ressortfelt på alle gældende dokumenter, hvor feltet med sikkerhed er aktuelt (populate.ressort). Nye gældende
@@ -102,6 +104,7 @@ def hent() -> dict:
             ud.update((r["EliUrl"], r) for r in raekker(raw) if r.get("EliUrl"))
         (EKS / f"{navn}.jsonl").write_text("".join(linje(ud[k]) for k in sorted(ud)), encoding="utf-8")
         stats[navn] = {"eksport": len(ud), "sitemap": sum(aar[navn].values()), "gældende": sum(r.get("Historisk") != "True" for r in ud.values())}
+    (EKS / "hentet").write_text(str(datetime.date.today()), encoding="utf-8")
     return stats
 
 
@@ -305,7 +308,7 @@ def dashboard(tal: dict, docs: list[dict], reg: dict) -> None:
 
 
 def katalog() -> dict:
-    idag = str(datetime.date.today())
+    idag = (EKS / "hentet").read_text(encoding="utf-8").strip()
     eks = {nid(r["EliUrl"]): r for s in ("lta", *ANDRE) for r in map(json.loads, (EKS / f"{s}.jsonl").open(encoding="utf-8"))}
     docs = [d for d in map(json.loads, (KAT / "retsinformation_lta.jsonl").open(encoding="utf-8")) if "seed_fil" in d]
     stats = collections.Counter(katalog_foer=len(docs))

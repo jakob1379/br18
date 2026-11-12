@@ -89,7 +89,8 @@ FASE7 = ("Fase 7 (fra 2026-11-11): Instanslag uden for de otte domæner. Én res
          "bekendtgørelse er verificeret, når Retsinformations ministeriefelt er det samme ministerium og med sikkerhed er sat efter "
          "regeringsdannelsen: dokumentet er udstedt efter den, eller ministeriet fik sit navn ved den (feltet på ældre dokumenter er ikke "
          "altid ført ajour). populate.py ajour slår alle aktive retsakter op hos Retsinformation og skriver gældende version, nummer, dato og "
-         "senere ændringer samt de hjemmel_for- og implementerer_EU-kanter, Retsinformation selv fører mellem registry'ets noder.")
+         "senere ændringer samt de hjemmel_for- og implementerer_EU-kanter, Retsinformation selv fører mellem registry'ets noder; en retsakt uden "
+         "adresse på Retsinformation slås op på det dokument, dens katalog_id peger på.")
 RI = "https://www.retsinformation.dk"
 KAT = REG.parent / "katalog"
 SITEMAP = ROOT / "intermediate" / "corpus" / "retsinformation_sitemap.jsonl"
@@ -598,7 +599,8 @@ def ajour(reg: dict, kataloget: frozenset = frozenset()) -> list:
     ændringer skrives fra kilden; og de ressortansvar-, hjemmel_for- og implementerer_EU-kanter, Retsinformation selv fører mellem
     registry'ets noder, bekræftes eller tilføjes. En node, hvis navn ikke svarer til det dokument, den peger på, røres ikke (titel_afviger).
     Har noden i forvejen en lovtidende-tekst om samme dokument, beholdes teksten og dens sikkerhed; ellers skrives betegnelsen fra kilden.
-    Står det gældende dokument i kataloget (kataloget: dets id'er), peger nodens katalog_id på det.
+    Står det gældende dokument i kataloget (kataloget: dets id'er), peger nodens katalog_id på det. En node uden adresse på Retsinformation
+    slås op på det dokument, dens katalog_id peger på.
     Returnér journalen over noder og berørte kanter."""
     journal, ri_min, node_af, relationer = [], {}, {}, []
     for n in reg["nodes"]:
@@ -606,7 +608,8 @@ def ajour(reg: dict, kataloget: frozenset = frozenset()) -> list:
             continue
         ids = n["identifikatorer"]
         url = str(n["url"].get("vaerdi"))
-        found = re.search(r"\b(?:lta|retsinfo|mt)/\d{4}/\d+", f"{ids.get('eli', '')} {url if site(url) == 'retsinformation.dk' else ''}")
+        found = re.search(r"\b(?:lta|retsinfo|mt)/\d{4}/\d+", f"{ids.get('eli', '')} {url if site(url) == 'retsinformation.dk' else ''} "
+                                                              f"{str(n.get('katalog_id') or '').replace('-', '/')}")
         if not found:
             continue
         eli = f"{RI}/eli/{found.group(0)}"
@@ -855,6 +858,10 @@ def selftest() -> None:
     assert not hedder("Habitatvejledningen (VEJ nr. 10226 af 2019)", vej, nummer=False) and hedder("Vejledning om naturtyper (VEJ nr. 1 af 2019)", vej, nummer=False)
     assert gl["identifikatorer"]["kilder"] == [RI + "/eli/lta/2026/9", old] and "LBK nr. 7" in gl["identifikatorer"]["katalog_note"]
     assert gl["dokumenttyper"]["liste"][0]["type"] == "lovbekendtgørelse" and gl["dokumenttyper"]["kilder"] == [RI + "/eli/lta/2026/9"]
+    kun_katalog = {**copy.deepcopy(gl), "id": "lov-c", "katalog_id": "lta-2026-9", "url": {"vaerdi": "ikke fundet", "kilder": [], "sikkerhed": "ukendt"},
+                   "identifikatorer": {"lovtidende": "LBK nr. 9 af 01/09/2026 med senere ændringer", "kilder": [], "sikkerhed": "sandsynlig"}}
+    assert ajour({"nodes": [kun_katalog], "edges": []})[0]["status"] == "Valid" and kun_katalog["identifikatorer"]["eli"] == RI + "/eli/lta/2026/9"
+    assert kun_katalog["identifikatorer"]["lovtidende"] == "LBK nr. 9 af 01/09/2026 med senere ændringer" and kun_katalog["identifikatorer"]["sikkerhed"] == "sandsynlig"
     b = [{"url": "https://www.retsinformation.dk/eli/lta/1/1", "citat": q}]
     assert certainty(b, PRIMARY, {b[0]["url"]: ("ok", page)})[0] == "verificeret"
     assert certainty(b, set(), {b[0]["url"]: ("ok", page)})[0] == "sandsynlig"

@@ -6,7 +6,7 @@
 - Øvrige samlinger: **131080** dokumenter (cirkulærer, vejledninger, afgørelser m.m., se nederst)
 - Seneste udstedelsesdato i datasættet: 2026-11-11
 - Status høstet: 2026-11-12 – 2026-11-12
-- Kanter: 307061 · EU-retsakter refereret: 1778 · koblet til registry-noder: 389
+- Kanter: 307061 · EU-retsakter refereret: 1778 · koblet til registry-noder: 413
 
 ## Dokumenttyper
 

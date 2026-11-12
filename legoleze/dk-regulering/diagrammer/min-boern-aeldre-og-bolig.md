@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 102 · kanter: 221
+Noder: 104 · kanter: 227
 
 ```mermaid
 flowchart LR
@@ -98,6 +98,7 @@ flowchart LR
     bek_brandsyn["Brandsynsbekendtgørelsen (bekendtgørelse om brandsyn), BEK nr. 2341 af 09/12/2021"]:::retsakt
     lov_byggeloven["Byggeloven (lov om byggeri)"]:::retsakt
     vejl_br18_vejledninger["Bygningsreglementets vejledninger og 'Spørgsmål og svar' (samling)"]:::retsakt
+    lov_forvaltningsloven["Forvaltningsloven"]:::retsakt
     reg_byggesagsgebyr["Kommunale gebyrer for byggesagsbehandling (gebyrinstruks/takstblad)"]:::retsakt
     reg_lbf_regulativer["Landsbyggefondens regulativer (samling)"]:::retsakt
     lov_almenboligloven["Lov om almene boliger m.v. (almenboligloven)"]:::retsakt
@@ -109,6 +110,7 @@ flowchart LR
     lov_lejeloven["Lov om leje (lejeloven)"]:::retsakt
     lov_almenlejeloven["Lov om leje af almene boliger (almenlejeloven)"]:::retsakt
     lov_erhvervslejeloven["Lov om leje af erhvervslokaler m.v. (erhvervslejeloven)"]:::retsakt
+    lov_offentlighedsloven["Lov om offentlighed i forvaltningen (offentlighedsloven)"]:::retsakt
     bek_skorstensfejer["Skorstensfejerbekendtgørelsen (brandværnsforanstaltninger for aftrækssystemer og fyringsanlæg)"]:::retsakt
     bek_almen_stoette["Støttebekendtgørelsen (bekendtgørelse om støtte til almene boliger m.v.)"]:::retsakt
     vejl_individuel_maaling["Vejledning om individuel måling (VEJ nr. 9880 af 03/12/2020)"]:::retsakt
@@ -210,7 +212,7 @@ flowchart LR
     lov_byfornyelsesloven -.->|hjemmel_for| fond_byggeskadefonden
     lov_byggeloven -->|hjemmel_for| bek_br18
     lov_byggeloven -->|hjemmel_for| bek_byggesagsgebyr
-    lov_byggeloven -.->|hjemmel_for| bek_byggevarer_cpr2011
+    lov_byggeloven -->|hjemmel_for| bek_byggevarer_cpr2011
     lov_byggeloven -->|hjemmel_for| bek_byggevarer_cpr2024
     lov_byggeloven -->|hjemmel_for| bek_certificering
     lov_byggeloven -->|hjemmel_for| bek_danak_byggevarer
@@ -337,6 +339,12 @@ flowchart LR
     lov_almenlejeloven -->|hjemmel_for| vejl_satsvejledning_leje_almen
     lov_boligforholdsloven -->|hjemmel_for| vejl_satsvejledning_leje_almen
     sty_social_og_boligstyrelsen -->|udsteder| bek_byggesagsgebyr
+    lov_forvaltningsloven -->|hjemmel_for| bek_drikkevand_byggevarer
+    lov_offentlighedsloven -->|hjemmel_for| bek_drikkevand_byggevarer
+    lov_andelsboligloven -->|hjemmel_for| bek_sbst_opgaver
+    lov_byfornyelsesloven -->|hjemmel_for| bek_sbst_opgaver
+    lov_byfornyelsesloven -->|hjemmel_for| vejl_satsvejledning_leje_almen
+    lov_lejeloven -->|hjemmel_for| vejl_satsvejledning_leje_almen
 ```
 
 [← Overblik](oversigt.md)

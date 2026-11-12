@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 92 · kanter: 158
+Noder: 93 · kanter: 162
 
 ```mermaid
 flowchart LR
@@ -90,6 +90,7 @@ flowchart LR
     lov_miljoebeskyttelsesloven["Lov om miljøbeskyttelse (miljøbeskyttelsesloven)"]:::retsakt
     lov_miljoevurderingsloven["Lov om miljøvurderinger (miljøvurderingsloven, VVM/SMV)"]:::retsakt
     lov_vejloven["Lov om offentlige veje m.v. (vejloven)"]:::retsakt
+    lov_offentlighedsloven["Lov om offentlighed i forvaltningen (offentlighedsloven)"]:::retsakt
     lov_planloven["Lov om planlægning (planloven)"]:::retsakt
     lov_privatvejsloven["Lov om private fællesveje (privatvejsloven)"]:::retsakt
     lov_produktloven["Lov om produkter og markedsovervågning (produktloven)"]:::retsakt
@@ -153,7 +154,7 @@ flowchart LR
     lov_planloven -->|hjemmel_for| plan_kyst_sommerhusomraader_2025
     lov_planloven -->|hjemmel_for| plan_kyst_udviklingsomraader_2025
     lov_planloven -->|hjemmel_for| plan_lokalplan
-    lov_privatvejsloven -.->|hjemmel_for| bek_vd_opgaver
+    lov_privatvejsloven -->|hjemmel_for| bek_vd_opgaver
     lov_privatvejsloven -->|hjemmel_for| kommune_alle
     lov_sommerhusloven -->|hjemmel_for| bek_plst_henlaeggelse
     lov_vejloven -->|hjemmel_for| naevn_taksationsmyndighederne
@@ -174,7 +175,7 @@ flowchart LR
     min_by_land_og_transport -.->|ressortansvar| lov_landdistriktsfonden
     min_by_land_og_transport -->|ressortansvar| lov_planloven
     min_by_land_og_transport -->|ressortansvar| lov_privatvejsloven
-    min_by_land_og_transport -.->|ressortansvar| lov_sommerhusloven
+    min_by_land_og_transport -->|ressortansvar| lov_sommerhusloven
     min_by_land_og_transport -->|ressortansvar| lov_vejloven
     min_by_land_og_transport -->|ressortansvar| naevn_taksationsmyndighederne
     min_by_land_og_transport -->|ressortansvar| sty_faerdselsstyrelsen
@@ -258,6 +259,10 @@ flowchart LR
     lov_taxiloven -->|hjemmel_for| bek_faerdselsstyrelsen_opgaver
     lov_trafikselskabsloven -->|hjemmel_for| bek_faerdselsstyrelsen_opgaver
     lov_jernbaneloven -->|implementerer_EU| eu_dir_2011_92
+    lov_sommerhusloven -->|hjemmel_for| bek_campingreglement
+    lov_offentlighedsloven -->|hjemmel_for| bek_lag
+    lov_vejloven -->|hjemmel_for| bek_vd_opgaver
+    lov_vejloven -->|implementerer_EU| eu_dir_2011_92
     bek_br18 -->|hjemmel_for| reg_byggesagsgebyr
     bek_br18 -.->|implementerer_EU| eu_dir_2010_31
     bek_br18 -.->|implementerer_EU| eu_dir_2024_1275

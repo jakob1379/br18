@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 113 · kanter: 198
+Noder: 113 · kanter: 202
 
 ```mermaid
 flowchart LR
@@ -148,7 +148,7 @@ flowchart LR
     lov_arbejdsmiljoeloven -->|hjemmel_for| bek_arbejdets_udfoerelse
     lov_arbejdsmiljoeloven -->|hjemmel_for| bek_asbest
     lov_arbejdsmiljoeloven -.->|hjemmel_for| bek_autoriserede_arbejdsmiljoeraadgivere
-    lov_arbejdsmiljoeloven -.->|hjemmel_for| bek_biologiske_agenser
+    lov_arbejdsmiljoeloven -->|hjemmel_for| bek_biologiske_agenser
     lov_arbejdsmiljoeloven -->|hjemmel_for| bek_bygge_og_anlaeg
     lov_arbejdsmiljoeloven -->|hjemmel_for| bek_bygherrens_pligter
     lov_arbejdsmiljoeloven -->|hjemmel_for| bek_eksisterende_elevatorer
@@ -206,7 +206,7 @@ flowchart LR
     sty_ankestyrelsen -->|klageinstans| org_udbetaling_danmark
     min_beskaeftigelse_og_ligestilling -->|ressortansvar| lov_arbejdsmiljoeloven
     min_beskaeftigelse_og_ligestilling -->|ressortansvar| lov_boligstoetteloven
-    min_beskaeftigelse_og_ligestilling -.->|ressortansvar| lov_offshoresikkerhedsloven
+    min_beskaeftigelse_og_ligestilling -->|ressortansvar| lov_offshoresikkerhedsloven
     min_beskaeftigelse_og_ligestilling -->|ressortansvar| naevn_arbejdsmiljoeklagenaevnet
     min_beskaeftigelse_og_ligestilling -->|ressortansvar| org_nfa
     min_beskaeftigelse_og_ligestilling -->|ressortansvar| org_udbetaling_danmark
@@ -323,6 +323,10 @@ flowchart LR
     lov_arbejdsmiljoeloven -->|implementerer_EU| eu_dir_2009_104
     lov_arbejdsmiljoeloven -->|implementerer_EU| eu_dir_2009_148
     lov_arbejdsmiljoeloven -->|hjemmel_for| vejl_at_bygge_og_anlaeg
+    lov_offshoresikkerhedsloven -->|implementerer_EU| eu_dir_1989_391
+    lov_offshoresikkerhedsloven -->|implementerer_EU| eu_dir_2003_88
+    lov_offshoresikkerhedsloven -->|implementerer_EU| eu_dir_2005_36
+    lov_offshoresikkerhedsloven -->|implementerer_EU| eu_dir_2006_42
     bek_elevatorer -->|implementerer_EU| eu_dir_2014_33
     bek_risiko -->|implementerer_EU| eu_dir_2012_18
 ```

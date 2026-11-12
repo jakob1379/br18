@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 107 · kanter: 201
+Noder: 109 · kanter: 223
 
 ```mermaid
 flowchart LR
@@ -29,6 +29,7 @@ flowchart LR
     eu_dir_2013_30["Direktiv 2013/30/EU om sikkerhed i forbindelse med offshore olie- og gasaktiviteter (offshoresikkerhedsdirektivet)"]:::eu
     eu_dir_1992_43["Direktiv 92/43/EØF om bevaring af naturtyper samt vilde dyr og planter (habitatdirektivet)"]:::eu
     eu_dir_2020_2184["Drikkevandsdirektivet – direktiv (EU) 2020/2184 af 16. december 2020 (omarbejdning)"]:::eu
+    eu_dir_2018_2001["Europa-Parlamentets og Rådets direktiv (EU) 2018/2001 af 11. december 2018 om fremme af anvendelsen af energi fra vedvarende energikilder (omarbejdning) (RED II), som ændret ved direktiv (EU) 2023/2413"]:::eu
     eu_reg_2008_1272["Forordning (EF) nr. 1272/2008 (CLP)"]:::eu
     eu_reg_2006_1907["Forordning (EF) nr. 1907/2006 (REACH)"]:::eu
     eu_reg_2012_528["Forordning (EU) nr. 528/2012 om tilgængeliggørelse på markedet og anvendelse af biocidholdige produkter (biocidforordningen)"]:::eu
@@ -59,6 +60,7 @@ flowchart LR
     naevn_naturklagenaevnet["Naturklagenævnet (nedlagt)"]:::nedlagt
     sty_planstyrelsen["Planstyrelsen (nedlagt)"]:::nedlagt
     lov_arbejdsmiljoeloven["Arbejdsmiljøloven"]:::retsakt
+    bek_ens_opgaver["Bekendtgørelse om Energistyrelsens opgaver og beføjelser"]:::retsakt
     bek_affald["Bekendtgørelse om affald (affaldsbekendtgørelsen)"]:::retsakt
     bek_affaldsaktoer["Bekendtgørelse om affaldsregulativer, -gebyrer og -aktører m.v. (affaldsaktørbekendtgørelsen)"]:::retsakt
     bek_affaldstilsyn["Bekendtgørelse om affaldstilsyn (affaldstilsynsbekendtgørelsen)"]:::retsakt
@@ -154,7 +156,7 @@ flowchart LR
     lov_beredskabsloven -->|hjemmel_for| bek_risiko
     lov_fyrvaerkeriloven -->|hjemmel_for| bek_risiko
     lov_jordforureningsloven -->|hjemmel_for| bek_jordflytning
-    lov_jordforureningsloven -.->|hjemmel_for| bek_miljoetilsyn
+    lov_jordforureningsloven -->|hjemmel_for| bek_miljoetilsyn
     lov_jordforureningsloven -->|hjemmel_for| bek_olietanke
     lov_jordforureningsloven -->|hjemmel_for| bek_restprodukter
     lov_jordforureningsloven -->|hjemmel_for| kommune_alle
@@ -167,7 +169,7 @@ flowchart LR
     lov_kystbeskyttelsesloven -.->|hjemmel_for| plan_risikostyringsplaner
     lov_kystbeskyttelsesloven -->|hjemmel_for| sty_kystdirektoratet
     lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_affald
-    lov_miljoebeskyttelsesloven -.->|hjemmel_for| bek_affaldsaktoer
+    lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_affaldsaktoer
     lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_affaldstilsyn
     lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_badevand
     lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_bekaempelsesmidler
@@ -175,7 +177,7 @@ flowchart LR
     lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_godkendelse
     lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_jordflytning
     lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_miljoeaktiviteter
-    lov_miljoebeskyttelsesloven -.->|hjemmel_for| bek_miljoetilsyn
+    lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_miljoetilsyn
     lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_olietanke
     lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_restprodukter
     lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_risiko
@@ -190,7 +192,7 @@ flowchart LR
     lov_miljoebeskyttelsesloven -->|hjemmel_for| sty_miljoestyrelsen
     lov_miljoevurderingsloven -.->|hjemmel_for| sty_miljoestyrelsen
     lov_naturbeskyttelsesloven -->|hjemmel_for| bek_fredningsnaevn_forretningsorden
-    lov_naturbeskyttelsesloven -.->|hjemmel_for| bek_habitat
+    lov_naturbeskyttelsesloven -->|hjemmel_for| bek_habitat
     lov_naturbeskyttelsesloven -->|hjemmel_for| kommune_alle
     lov_naturbeskyttelsesloven -->|hjemmel_for| naevn_fredningsnaevn
     lov_naturbeskyttelsesloven -->|hjemmel_for| naevn_taksationskommissionen
@@ -198,10 +200,10 @@ flowchart LR
     lov_naturbeskyttelsesloven -->|hjemmel_for| sty_kystdirektoratet
     lov_naturbeskyttelsesloven -->|hjemmel_for| sty_miljoestyrelsen
     lov_oversvoemmelsesloven -->|hjemmel_for| plan_risikostyringsplaner
-    lov_raastofloven -.->|hjemmel_for| bek_habitat
+    lov_raastofloven -->|hjemmel_for| bek_habitat
     lov_raastofloven -->|hjemmel_for| plan_raastofplan
     lov_raastofloven -->|hjemmel_for| region_alle
-    lov_vandforsyningsloven -.->|hjemmel_for| bek_drikkevand
+    lov_vandforsyningsloven -->|hjemmel_for| bek_drikkevand
     lov_vandforsyningsloven -->|hjemmel_for| bek_vandindvinding
     lov_vandforsyningsloven -->|hjemmel_for| kommune_alle
     lov_vandforsyningsloven -->|hjemmel_for| plan_indsatsplan_grundvand
@@ -209,10 +211,10 @@ flowchart LR
     bek_badevand -->|implementerer_EU| eu_dir_2006_7
     bek_drikkevand -->|implementerer_EU| eu_dir_2020_2184
     bek_godkendelse -->|implementerer_EU| eu_dir_2010_75
-    bek_miljoetilsyn -.->|implementerer_EU| eu_dir_2010_75
+    bek_miljoetilsyn -->|implementerer_EU| eu_dir_2010_75
     bek_oversvoemmelsesrisiko -->|implementerer_EU| eu_dir_2007_60
     bek_risiko -->|implementerer_EU| eu_dir_2012_18
-    bek_spildevand -.->|implementerer_EU| eu_dir_1991_271
+    bek_spildevand -->|implementerer_EU| eu_dir_1991_271
     bek_stoejkortlaegning -->|implementerer_EU| eu_dir_2002_49
     lov_havstrategiloven -->|implementerer_EU| eu_dir_2008_56
     lov_jagtloven -.->|implementerer_EU| eu_dir_2009_147
@@ -317,11 +319,33 @@ flowchart LR
     lov_vandforsyningsloven -->|implementerer_EU| eu_dir_2004_35
     lov_fiskeriloven -->|implementerer_EU| eu_dir_1992_43
     lov_fiskeriloven -->|implementerer_EU| eu_dir_2004_35
+    lov_vandforsyningsloven -->|hjemmel_for| bek_ens_opgaver
+    lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_ens_opgaver
+    lov_jordforureningsloven -->|hjemmel_for| bek_godkendelse
+    bek_godkendelse -->|implementerer_EU| eu_dir_1991_271
+    bek_godkendelse -->|implementerer_EU| eu_dir_2008_98
+    bek_godkendelse -->|implementerer_EU| eu_dir_2009_31
+    bek_godkendelse -->|implementerer_EU| eu_dir_2011_92
+    bek_godkendelse -->|implementerer_EU| eu_dir_2012_18
+    lov_jagtloven -->|hjemmel_for| bek_habitat
+    lov_havmiljoeloven -->|hjemmel_for| bek_habitat
+    lov_vandforsyningsloven -->|hjemmel_for| bek_habitat
+    lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_habitat
+    lov_husdyrbrugloven -->|hjemmel_for| bek_miljoetilsyn
+    bek_miljoetilsyn -->|implementerer_EU| eu_dir_2003_4
+    bek_spildevand -->|implementerer_EU| eu_dir_2010_75
+    bek_spildevand -->|implementerer_EU| eu_dir_2018_2001
+    lov_jordforureningsloven -->|implementerer_EU| eu_dir_1992_43
+    lov_jordforureningsloven -->|implementerer_EU| eu_dir_2004_35
+    lov_jordforureningsloven -->|implementerer_EU| eu_dir_2010_75
+    lov_raastofloven -->|implementerer_EU| eu_dir_1992_43
+    lov_raastofloven -->|implementerer_EU| eu_dir_2004_35
     bek_affald -.->|hjemmel_for| plan_affaldsplan
     bek_affaldsaktoer -->|hjemmel_for| reg_affaldsregulativer
     bek_affald -->|implementerer_EU| eu_dir_2008_98
     bek_habitat -->|implementerer_EU| eu_dir_1992_43
     bek_habitat -->|implementerer_EU| eu_dir_2009_147
+    bek_affaldsaktoer -->|implementerer_EU| eu_dir_2008_98
 ```
 
 [← Overblik](oversigt.md)

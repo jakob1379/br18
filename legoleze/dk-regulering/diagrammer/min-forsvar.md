@@ -48,7 +48,7 @@ flowchart LR
     lov_beredskabsloven -->|hjemmel_for| bek_brs_henlaeggelse
     lov_beredskabsloven -.->|hjemmel_for| bek_brs_ophaevelse_2021
     lov_beredskabsloven -.->|hjemmel_for| bek_driftsmaessige_forskrifter
-    lov_beredskabsloven -.->|hjemmel_for| bek_eksplosionsfarlige_omraader
+    lov_beredskabsloven -->|hjemmel_for| bek_eksplosionsfarlige_omraader
     lov_beredskabsloven -->|hjemmel_for| bek_risiko
     lov_beredskabsloven -->|hjemmel_for| bek_risikobaseret_dimensionering
     lov_beredskabsloven -->|hjemmel_for| kommune_alle
@@ -75,7 +75,7 @@ flowchart LR
     lov_beredskabsloven -->|hjemmel_for| bek_campingreglement
     bek_brandsyn -->|hjemmel_for| kommune_alle
     bek_risikobaseret_dimensionering -->|hjemmel_for| plan_risikobaseret_dimensionering
-    bek_eksplosionsfarlige_omraader -.->|implementerer_EU| eu_dir_1999_92
+    bek_eksplosionsfarlige_omraader -->|implementerer_EU| eu_dir_1999_92
     bek_risiko -->|implementerer_EU| eu_dir_2012_18
 ```
 

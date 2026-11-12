@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 50 · kanter: 102
+Noder: 50 · kanter: 103
 
 ```mermaid
 flowchart LR
@@ -166,6 +166,7 @@ flowchart LR
     lov_bestyrelse_og_brug_af_folkekirkens_kirker -->|hjemmel_for| tilsyn_biskopperne
     lov_folkekirkens_oekonomi -->|hjemmel_for| bek_provstiudvalgenes_og_budgetudvalgenes_virksomhed
     lov_ansaettelse_i_stillinger_i_folkekirken -->|hjemmel_for| bek_provstiudvalgenes_og_budgetudvalgenes_virksomhed
+    lov_ansaettelse_i_stillinger_i_folkekirken -->|hjemmel_for| bek_klageadgang_ansaettelse_praester_provster
 ```
 
 [← Overblik](oversigt.md)

@@ -75,7 +75,7 @@ flowchart LR
     lov_beredskabsloven -->|hjemmel_for| bek_brs_henlaeggelse
     lov_beredskabsloven -.->|hjemmel_for| bek_brs_ophaevelse_2021
     lov_beredskabsloven -.->|hjemmel_for| bek_driftsmaessige_forskrifter
-    lov_beredskabsloven -.->|hjemmel_for| bek_eksplosionsfarlige_omraader
+    lov_beredskabsloven -->|hjemmel_for| bek_eksplosionsfarlige_omraader
     lov_beredskabsloven -->|hjemmel_for| bek_risiko
     lov_beredskabsloven -->|hjemmel_for| bek_risikobaseret_dimensionering
     lov_beredskabsloven -->|hjemmel_for| kommune_alle
@@ -85,7 +85,7 @@ flowchart LR
     lov_beredskabsloven -.->|hjemmel_for| tf_brandfarlig_virksomhed_og_oplag
     lov_beredskabsloven -->|hjemmel_for| tf_brandfarlige_vaesker
     lov_beredskabsloven -->|hjemmel_for| tf_gasser
-    bek_eksplosionsfarlige_omraader -.->|implementerer_EU| eu_dir_1999_92
+    bek_eksplosionsfarlige_omraader -->|implementerer_EU| eu_dir_1999_92
     dom_domstolene -.->|klageinstans| sty_beredskabsstyrelsen
     min_samfundssikkerhed_og_beredskab -->|ressortansvar| bek_brandsyn
     min_samfundssikkerhed_og_beredskab -.->|ressortansvar| bek_brs_henlaeggelse

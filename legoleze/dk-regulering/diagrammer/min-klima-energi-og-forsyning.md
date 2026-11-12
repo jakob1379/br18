@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 141 · kanter: 261
+Noder: 146 · kanter: 292
 
 ```mermaid
 flowchart LR
@@ -23,6 +23,7 @@ flowchart LR
     eu_dir_2024_1785["Direktiv (EU) 2024/1785 om ændring af IE-direktivet"]:::eu
     eu_dir_2024_1788["Direktiv (EU) 2024/1788 om fælles regler for de indre markeder for vedvarende gas, naturgas og brint, om ændring af direktiv (EU) 2023/1791 og om ophævelse af direktiv 2009/73/EF (gasdirektivet)"]:::eu
     eu_dir_2002_49["Direktiv 2002/49/EF om vurdering og styring af ekstern støj (støjdirektivet)"]:::eu
+    eu_dir_2003_4["Direktiv 2003/4/EF om offentlig adgang til miljøoplysninger"]:::eu
     eu_dir_2003_87["Direktiv 2003/87/EF om en ordning for handel med kvoter for drivhusgasemissioner (ETS-direktivet)"]:::eu
     eu_dir_2004_35["Direktiv 2004/35/EF om miljøansvar (miljøansvarsdirektivet)"]:::eu
     eu_dir_2006_7["Direktiv 2006/7/EF om forvaltning af badevandskvalitet (badevandsdirektivet)"]:::eu
@@ -40,6 +41,7 @@ flowchart LR
     eu_dir_2005_36["Europa-Parlamentets og Rådets direktiv 2005/36/EF af 7. september 2005 om anerkendelse af erhvervsmæssige kvalifikationer"]:::eu
     eu_reg_2019_943["Forordning (EU) 2019/943 om det indre marked for elektricitet (elmarkedsforordningen), som ændret ved 2024/1747"]:::eu
     eu_reg_2011_1227["Forordning (EU) nr. 1227/2011 om integritet og gennemsigtighed på engrosenergimarkederne (REMIT), som ændret ved (EU) 2024/1106"]:::eu
+    eu_dir_2009_147["Fuglebeskyttelsesdirektivet – direktiv 2009/147/EF af 30. november 2009"]:::eu
     eu_reg_2019_1020["Markedsovervågningsforordningen (EU) 2019/1020"]:::eu
     eu_dir_2014_53["Radioudstyrsdirektivet 2014/53/EU (RED)"]:::eu
     eu_dir_2012_18["Seveso III-direktivet (direktiv 2012/18/EU om kontrol med risikoen for større uheld med farlige stoffer)"]:::eu
@@ -122,6 +124,7 @@ flowchart LR
     vejl_ens_energivejledninger["Energistyrelsens vejledninger og fortolkningsbidrag (energimærkning, varmeforsyning, VE, energieffektivitet)"]:::retsakt
     vejl_forsyningstilsynet_vejledninger["Forsyningstilsynets vejledninger og udmeldinger (fx REMIT-vejledning om balanceansvarlige aktører april 2026, årlige prisloftudmeldinger for affalds- og overskudsvarme)"]:::retsakt
     lov_forvaltningsloven["Forvaltningsloven"]:::retsakt
+    bek_habitat["Habitatbekendtgørelsen (bekendtgørelse om udpegning og administration af internationale naturbeskyttelsesområder samt beskyttelse af visse arter)"]:::retsakt
     plan_affaldsplan["Kommunal affaldsplan (fx Affaldsplan 2025-2036)"]:::retsakt
     plan_varmeplanlaegning["Kommunal varmeplanlægning og projektgodkendelser"]:::retsakt
     reg_affaldsregulativer["Kommunale affaldsregulativer"]:::retsakt
@@ -148,6 +151,8 @@ flowchart LR
     lov_offshoresikkerhedsloven["Lov om sikkerhed m.v. for offshoreanlæg til efterforskning, produktion og transport af kulbrinter (offshoresikkerhedsloven)"]:::retsakt
     lov_udstykningsloven["Lov om udstykning og anden registrering i matriklen (udstykningsloven)"]:::retsakt
     lov_miljoeskadeloven["Lov om undersøgelse, forebyggelse og afhjælpning af miljøskader (miljøskadeloven)"]:::retsakt
+    lov_vandforsyningsloven["Lov om vandforsyning m.v. (vandforsyningsloven)"]:::retsakt
+    lov_vandloebsloven["Lov om vandløb (vandløbsloven)"]:::retsakt
     lov_vandsektorloven["Lov om vandsektorens organisering og økonomiske forhold (vandsektorloven)"]:::retsakt
     lov_varmeforsyningsloven["Lov om varmeforsyning (varmeforsyningsloven)"]:::retsakt
     plan_national_bygningsrenoveringsplan["National bygningsrenoveringsplan (NBRP) efter EPBD 2024/1275"]:::retsakt
@@ -195,7 +200,7 @@ flowchart LR
     bek_systemansvar -.->|hjemmel_for| tf_energinet_forskrifter
     bek_vandsektortilsynet -->|hjemmel_for| tilsyn_vandsektortilsynet
     lov_adresseloven -->|hjemmel_for| kommune_alle
-    lov_co2_kvoteloven -.->|hjemmel_for| bek_co2_kvoter
+    lov_co2_kvoteloven -->|hjemmel_for| bek_co2_kvoter
     lov_co2_kvoteloven -->|hjemmel_for| bek_co2_kvoter_henlaeggelse_erst
     lov_co2_kvoteloven -->|hjemmel_for| sty_energistyrelsen
     lov_co2_kvoteloven -->|hjemmel_for| sty_erhvervsstyrelsen
@@ -222,7 +227,7 @@ flowchart LR
     lov_kontinentalsokkelloven -.->|hjemmel_for| sty_energistyrelsen
     lov_landinspektoerloven -->|hjemmel_for| naevn_landinspektoernaevnet
     lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_affald
-    lov_miljoebeskyttelsesloven -.->|hjemmel_for| bek_affaldsaktoer
+    lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_affaldsaktoer
     lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_affaldstilsyn
     lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_badevand
     lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_bekaempelsesmidler
@@ -230,7 +235,7 @@ flowchart LR
     lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_godkendelse
     lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_jordflytning
     lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_miljoeaktiviteter
-    lov_miljoebeskyttelsesloven -.->|hjemmel_for| bek_miljoetilsyn
+    lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_miljoetilsyn
     lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_olietanke
     lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_restprodukter
     lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_risiko
@@ -244,7 +249,7 @@ flowchart LR
     lov_miljoebeskyttelsesloven -->|hjemmel_for| reg_affaldsregulativer
     lov_miljoebeskyttelsesloven -->|hjemmel_for| sty_miljoestyrelsen
     lov_miljoevurderingsloven -->|hjemmel_for| sty_energistyrelsen
-    lov_udstykningsloven -.->|hjemmel_for| bek_matrikel
+    lov_udstykningsloven -->|hjemmel_for| bek_matrikel
     lov_udstykningsloven -->|hjemmel_for| bek_udstykningskontrol
     lov_udstykningsloven -->|hjemmel_for| kommune_alle
     lov_udstykningsloven -->|hjemmel_for| sty_geodatastyrelsen
@@ -265,7 +270,7 @@ flowchart LR
     lov_ve_loven -->|hjemmel_for| org_energinet
     lov_ve_loven -->|hjemmel_for| tilsyn_forsyningstilsynet
     bek_affald -->|implementerer_EU| eu_dir_2008_98
-    bek_co2_kvoter -.->|implementerer_EU| eu_dir_2003_87
+    bek_co2_kvoter -->|implementerer_EU| eu_dir_2003_87
     bek_energieffektivisering_offentlige -->|implementerer_EU| eu_dir_2023_1791
     bek_energimaerkning -->|implementerer_EU| eu_dir_2010_31
     bek_energisyn -->|implementerer_EU| eu_dir_2023_1791
@@ -406,16 +411,47 @@ flowchart LR
     lov_ve_loven -->|implementerer_EU| eu_dir_2005_36
     lov_ve_loven -->|implementerer_EU| eu_dir_2010_31
     lov_ve_loven -->|implementerer_EU| eu_dir_2012_27
+    bek_affaldsaktoer -->|implementerer_EU| eu_dir_2008_98
+    lov_gasforsyningsloven -->|hjemmel_for| bek_energinet_oekonomi
+    lov_vandloebsloven -->|hjemmel_for| bek_ens_opgaver
+    lov_ecodesignloven -->|hjemmel_for| bek_ens_opgaver
+    lov_miljoevurderingsloven -->|hjemmel_for| bek_ens_opgaver
+    lov_energinetloven -->|hjemmel_for| bek_ens_opgaver
+    lov_undergrundsloven -->|hjemmel_for| bek_ens_opgaver
+    lov_co2_kvoteloven -->|hjemmel_for| bek_ens_opgaver
+    lov_ve_loven -->|hjemmel_for| bek_ens_opgaver
+    lov_effektiv_energianvendelse -->|hjemmel_for| bek_ens_opgaver
+    lov_vandforsyningsloven -->|hjemmel_for| bek_ens_opgaver
+    lov_vandsektorloven -->|hjemmel_for| bek_ens_opgaver
+    lov_energimaerkningsloven -->|hjemmel_for| bek_ens_opgaver
+    lov_betalingsloven -->|hjemmel_for| bek_ens_opgaver
+    lov_gasforsyningsloven -->|hjemmel_for| bek_ens_opgaver
+    lov_varmeforsyningsloven -->|hjemmel_for| bek_ens_opgaver
+    lov_elforsyningsloven -->|hjemmel_for| bek_ens_opgaver
+    lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_ens_opgaver
+    lov_miljoebeskyttelsesloven -->|hjemmel_for| bek_habitat
+    lov_gasforsyningsloven -->|implementerer_EU| eu_dir_2018_2001
+    lov_gasforsyningsloven -->|implementerer_EU| eu_dir_2023_1791
     bek_miljoeaktiviteter -->|hjemmel_for| reg_forskrifter_bygge_anlaeg
     bek_miljoetilsyn -.->|hjemmel_for| kilde_dma
     bek_spildevand -->|hjemmel_for| plan_spildevandsplan
     bek_stoejkortlaegning -->|hjemmel_for| plan_stoejhandlingsplaner
     bek_badevand -->|implementerer_EU| eu_dir_2006_7
     bek_godkendelse -->|implementerer_EU| eu_dir_2010_75
-    bek_miljoetilsyn -.->|implementerer_EU| eu_dir_2010_75
+    bek_habitat -->|implementerer_EU| eu_dir_1992_43
+    bek_habitat -->|implementerer_EU| eu_dir_2009_147
+    bek_miljoetilsyn -->|implementerer_EU| eu_dir_2010_75
     bek_risiko -->|implementerer_EU| eu_dir_2012_18
-    bek_spildevand -.->|implementerer_EU| eu_dir_1991_271
+    bek_spildevand -->|implementerer_EU| eu_dir_1991_271
     bek_stoejkortlaegning -->|implementerer_EU| eu_dir_2002_49
+    bek_godkendelse -->|implementerer_EU| eu_dir_1991_271
+    bek_godkendelse -->|implementerer_EU| eu_dir_2008_98
+    bek_godkendelse -->|implementerer_EU| eu_dir_2009_31
+    bek_godkendelse -->|implementerer_EU| eu_dir_2011_92
+    bek_godkendelse -->|implementerer_EU| eu_dir_2012_18
+    bek_miljoetilsyn -->|implementerer_EU| eu_dir_2003_4
+    bek_spildevand -->|implementerer_EU| eu_dir_2010_75
+    bek_spildevand -->|implementerer_EU| eu_dir_2018_2001
 ```
 
 [← Overblik](oversigt.md)
