@@ -189,7 +189,7 @@ def load_katalog() -> dict | None:
         return None
     rd = lambda p: [json.loads(l) for l in p.open(encoding="utf-8")] if p.exists() else []
     docs = [d for p in sorted(KATALOG_DIR.glob("retsinformation_*.jsonl")) for d in rd(p)]
-    return {"docs": docs, "edges": rd(KATALOG_DIR / "kanter.jsonl"), "eu": rd(KATALOG_DIR / "eu_index.jsonl")}
+    return {"docs": docs, "edges": rd(KATALOG_DIR / "kanter.jsonl"), "eu": rd(KATALOG_DIR / "eu_index.jsonl"), "tekst": rd(KATALOG_DIR / "tekst.jsonl")}
 
 
 def validate_katalog(reg: dict, kat: dict) -> list[str]:
@@ -252,6 +252,15 @@ def validate_katalog(reg: dict, kat: dict) -> list[str]:
             err(f"katalog-kant {label}: dublet")
         seen.add(key)
         errors.extend(_check_claim(f"katalog-kant {label}", e))
+        if "from_bestemmelse" in e and not (e["from_bestemmelse"] and all(str(b).startswith("§") for b in e["from_bestemmelse"])):
+            err(f"katalog-kant {label}: from_bestemmelse skal være en ikke-tom liste af bestemmelser")
+        if e.get("citeret_version") and e["citeret_version"] not in docs:
+            err(f"katalog-kant {label}: citeret_version {e['citeret_version']!r} findes ikke")
+    for t in kat["tekst"]:
+        if t.get("id") not in docs:
+            err(f"tekst {t.get('id')}: dokumentet findes ikke i kataloget")
+        if not (ROOT.parent / str(t.get("xml"))).is_file():
+            err(f"tekst {t.get('id')}: XML-filen {t.get('xml')!r} findes ikke")
     return errors[:200] + ([f"... {len(errors) - 200} flere"] if len(errors) > 200 else [])
 
 
@@ -322,6 +331,17 @@ def gen_katalog(reg: dict, kat: dict) -> str:
     typer = sorted(set(ag) | set(ah), key=lambda t: (-(ag.get(t, 0) + ah.get(t, 0)), t))
     lines += ["", f"### Dokumenttyper i de øvrige samlinger (top 30 af {len(typer)})", "", "| Type | Gældende | Historisk | Gældende koblet til lovgivning |", "|------|---------:|----------:|---------:|"]
     lines += [f"| {t} | {ag.get(t, 0)} | {ah.get(t, 0)} | {ak.get(t, 0)} |" for t in typer[:30]]
+    med = {t["id"]: t for t in kat["tekst"]}
+    lines += ["", "## Tekst", "",
+              ("Retsinformations XML er hentet for et udsnit af kataloget med `pipeline/corpus/tekst.py`: de dokumenter, registry'ets noder peger på, og gældende "
+               "dokumenter i de otte domæner. `tekst.jsonl` har én linje pr. hentet dokument med stien til XML-filen (`intermediate/corpus/xml/`), hentedato, omfang, "
+               "præambel, fodnoter, underskriftssted og de EU-retsakter, Retsinformation fører på dokumentet. Alle andre dokumenter har kun metadata."), "",
+              "| Samling | Dokumenter med tekst | heraf gældende | Tegn (mio.) | med præambel | med EU-retsakt |", "|---|---:|---:|---:|---:|---:|"]
+    for s, navn in {"lta": "Lovtidende A", **CAT_SAMLINGER}.items():
+        ts = [(d, med[d["id"]]) for d in kat["docs"] if d["id"].startswith(s + "-") and d["id"] in med]
+        if ts:
+            lines.append(f"| {navn} | {len(ts)} | {sum(d['status']['vaerdi'] == 'gældende' for d, _ in ts)} | {sum(t['n_tegn'] for _, t in ts) / 1e6:.1f} "
+                         f"| {sum('praeambel' in t for _, t in ts)} | {sum('eu' in t for _, t in ts)} |")
     lines += ["", "## Mest refererede EU-retsakter (top 30)", "", "| Id | CELEX | Dokumenter | heraf gældende | Gennemførelses-kanter | I registry |", "|---|---|---:|---:|---:|---|"]
     for e in kat["eu"][:30]:
         lines.append(f"| `{e['id']}` | {e['identifikatorer']['celex']} | {e['n_dok']} | {e['n_gaeldende']} | {e['n_implementerer']} | {'ja' if e.get('registry_id') else ''} |")

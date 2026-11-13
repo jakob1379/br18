@@ -18,11 +18,13 @@ etypes = Counter(e["type"] for e in m["edges"])
 gaps = Counter(h["type"] for h in m["huller"])
 KD = SP / "dk-regulering" / "katalog"
 kdocs = [json.loads(l) for l in open(KD / "retsinformation_lta.jsonl", encoding="utf-8")]
-ktyper, kkoblet = Counter(), set()
+ktyper, kkoblet, kbest = Counter(), set(), Counter()
 for l in open(KD / "kanter.jsonl", encoding="utf-8"):
     e = json.loads(l)
     ktyper[e["type"]] += 1
-    if e.get("metode") == "retsinformation-eksport" and e["type"] != "ressortansvar":
+    if "from_bestemmelse" in e:
+        kbest[e.get("metode")] += 1
+    if e.get("metode") == "retsinformation-eksport" and e["type"] in ("hjemmel_for", "henviser_til"):
         kkoblet.add(e["from"] if e["type"] == "henviser_til" else e["to"])
 kandre = [(d["id"], d["status"]["vaerdi"] == "gældende", (d.get("ministerium") or {}).get("metode"), len(d.get("registry_ids") or []), d.get("lovforslag"), d.get("lov"))
           for s in ("ltb", "ltc", "mt", "retsinfo", "fob", "ft") for d in map(json.loads, (KD / f"retsinformation_{s}.jsonl").open(encoding="utf-8"))]
@@ -36,7 +38,9 @@ kedges = sum(ktyper.values())
 keu = sum(1 for _ in open(KD / "eu_index.jsonl", encoding="utf-8"))
 kg = [d for d in kdocs if d["status"]["vaerdi"] == "gældende"]
 ksenest = max(d["status"]["pr"] for d in kdocs)
-kuden = sum(not d.get("n_paragraffer") for d in kg)
+ktekst = [json.loads(l) for l in open(KD / "tekst.jsonl", encoding="utf-8")]
+kxml = {t["id"] for t in ktekst}
+kuden = sum(not d.get("n_paragraffer") and d["id"] not in kxml for d in kg)
 kres = Counter((d.get("ministerium") or {}).get("sikkerhed", "ingen") for d in kg)
 kreg = sum(len(d.get("registry_ids") or []) for d in kdocs) + sum(x[3] for x in kandre)
 RES = json.load(open(SP / "corpus" / "data" / "resolved.json"))
@@ -80,7 +84,7 @@ Kortlægningen dækker myndigheder, retsakter, klage- og tilsynsveje, EU-retsakt
 To lag:
 
 - **Registry** (`registry.yaml`): håndkurateret og verificeret graf over myndigheder, centrale retsakter, klage-/tilsynsveje, EU-retsakter og datakilder for de otte domæner.
-- **Katalog** (`katalog/`): én post pr. dokument hos Retsinformation. Lovtidende A ({len(kdocs)}) er bygget fra bulk-høsten `Ansvar-Systems/danish-law-mcp` og ført ajour fra Retsinformations søgeeksport {ksenest}; hver post har Lovtidende-nr., DocumentId, status, datoer, udstedende ministerium og, for gældende dokumenter, nuværende ressortministerium og retsområde. De øvrige samlinger ({len(kandre)} dokumenter: administrative forskrifter og afgørelser, Ministerialtidende, Lovtidende B og C, Folketingets Ombudsmand og Folketingstidende) kommer direkte fra søgeeksporten og har kun metadata; {kakob} af de {len(kag)} ikke-historiske er koblet til den lovgivning, de vedrører, herunder {kftdok} dokumenter om lovforslag til de {klove} love, de blev til. {kedges} kanter (`henviser_til`, `hjemmel_for`, `implementerer_EU`, `ressortansvar`) og {keu} refererede EU-retsakter med CELEX. {kreg} registry-noder er koblet til deres katalogpost (`katalog_id` ↔ `registry_ids`).
+- **Katalog** (`katalog/`): én post pr. dokument hos Retsinformation. Lovtidende A ({len(kdocs)}) er bygget fra bulk-høsten `Ansvar-Systems/danish-law-mcp` og ført ajour fra Retsinformations søgeeksport {ksenest}; hver post har Lovtidende-nr., DocumentId, status, datoer, udstedende ministerium og, for gældende dokumenter, nuværende ressortministerium og retsområde. De øvrige samlinger ({len(kandre)} dokumenter: administrative forskrifter og afgørelser, Ministerialtidende, Lovtidende B og C, Folketingets Ombudsmand og Folketingstidende) kommer direkte fra søgeeksporten og har kun metadata; {kakob} af de {len(kag)} ikke-historiske er koblet til den lovgivning, de vedrører, herunder {kftdok} dokumenter om lovforslag til de {klove} love, de blev til. {kedges} kanter (`henviser_til`, `hjemmel_for`, `implementerer_EU`, `ressortansvar` og `udsteder`: {ktyper['udsteder']} afgørelser og udtalelser er koblet til den myndighed, Retsinformation fører dem under, når den er en instans i registry'et) og {keu} refererede EU-retsakter med CELEX. {kreg} registry-noder er koblet til deres katalogpost (`katalog_id` ↔ `registry_ids`). **Tekst:** Retsinformations XML er hentet for {len(ktekst)} dokumenter (de dokumenter, registry'et peger på, og gældende dokumenter i de otte domæner; `katalog/tekst.jsonl` og `intermediate/corpus/xml/`). {sum(kbest.values())} `hjemmel_for`-kanter har derfra de bestemmelser i loven, forskriftens præambel nævner (`from_bestemmelse`).
 
 | Fil | Indhold |
 |-----|---------|
@@ -91,6 +95,7 @@ To lag:
 | [`katalog/retsinformation_lta.jsonl`](katalog/retsinformation_lta.jsonl) | Katalog-laget: én JSON-linje pr. Lovtidende A-dokument ({len(kdocs)}). |
 | [`katalog/retsinformation_retsinfo.jsonl`](katalog/retsinformation_retsinfo.jsonl) m.fl. | De øvrige samlinger, én fil pr. samling (`retsinfo`, `mt`, `ltb`, `ltc`, `fob`, `ft`): {len(kandre)} cirkulærer, vejledninger, afgørelser, traktatbekendtgørelser, ombudsmandsudtalelser, lovforslag og betænkninger. |
 | [`katalog/kanter.jsonl`](katalog/kanter.jsonl) | {kedges} kanter fra katalog-dokumenter (kun de tilladte kanttyper). |
+| [`katalog/tekst.jsonl`](katalog/tekst.jsonl) | Tekstlagets indeks: én linje pr. dokument, hvis XML er hentet fra Retsinformation ({len(ktekst)}), med sti til XML-filen, hentedato, omfang, præambel, fodnoter, underskriftssted og EU-retsakter. |
 | [`katalog/eu_index.jsonl`](katalog/eu_index.jsonl) | {keu} EU-retsakter nævnt i dansk lovtekst, med CELEX og antal danske dokumenter. |
 | [`katalog/README.md`](katalog/README.md) | Genereret oversigt over katalog-laget (typer, ressort, retsområder, kanter, top EU-retsakter). |
 | [`scripts/build.py`](scripts/build.py) | Validerer `registry.yaml` og katalog-laget og genererer views ovenfor. Kør `python3 scripts/build.py`, og brug `--check` i CI. |
@@ -221,7 +226,7 @@ Id'erne er stabile og kan bruges som nøgler i korpusset.
 
 - **Standarder og domspraksis står bag betalingsmur.** Det gælder DS/EN og Eurocodes (dog er de danske nationale annekser gratis på bygningsreglementet.dk), UfR/Karnov, BUILD/SBi, Molio og DBI.
 - **Afgørelsesportaler mangler API.** Nævnenes Hus' portaler (MFKN, PKN, EKN, Byggeklageenheden), Arbejdsmiljøklagenævnets afgørelser og Domsdatabasen (API kræver ansøgning) mangler API, bulk eller indeks. Mange afgørelser findes kun som PDF.
-- **Katalog-laget har hjemmel på dokumentniveau, men hverken præambel eller EU-noter.** `hjemmel_for` i kataloget er Retsinformations egen kobling fra søgeeksporten ({ktyper['hjemmel_for']} kanter). Paragrafhenvisningen i præamblen er ikke læst, og den mest nævnte lov i teksten ramte kun hjemmelsloven i {HE.get('top', 0)} af {sum(HE.values())} kendte tilfælde og er ikke brugt. {kuden} af de {len(kg)} gældende dokumenter i Lovtidende A har ingen tekst, og ingen dokumenter i de øvrige samlinger har. For dem er koblingen til lovgivningen Retsinformations felt for hjemmel og vedrørt lovgivning: det siger ikke, hvilken paragraf dokumentet angår, og {len(kag) - kakob} af de {len(kag)} ikke-historiske har ingen kobling. Lovforslag er koblet til loven på titel og dato, ikke på en henvisning i loven: for love fra før 1998 har Retsinformation ikke den vedtagne tekst, så de er ikke koblet, og skriftlige fremsættelser og beslutningsforslag har ingen kobling. Teksten kan hentes fra Retsinformations ELI-XML med ét kald pr. dokument (værktøjerne holder 10,5 sekunder mellem kald).
+- **Katalog-laget har hjemmel på dokumentniveau; præambel og EU-noter er kun læst for tekstlagets udsnit.** `hjemmel_for` i kataloget er Retsinformations egen kobling fra søgeeksporten ({ktyper['hjemmel_for']} kanter). Feltet peger på den version af loven, Retsinformation fører forskriften under; for et flertal af kanterne er den udstedt senere end forskriften selv og er altså ikke den version, forskriften citerer. Paragrafhenvisningen i præamblen er læst for de {len(ktekst)} dokumenter, hvis XML er hentet: {kbest.get('retsinformation-eksport', 0)} af kanterne har lovens bestemmelser i `from_bestemmelse` (og den citerede version i `citeret_version`, når den er en anden), og {kbest.get('praeambel', 0)} kanter findes kun i præamblen. Den mest nævnte lov i teksten ramte kun hjemmelsloven i {HE.get('top', 0)} af {sum(HE.values())} kendte tilfælde og er ikke brugt. {kuden} af de {len(kg)} gældende dokumenter i Lovtidende A har ingen tekst, hverken i bulk-høsten eller i tekstlaget, og i de øvrige samlinger har kun de {sum(not i.startswith('lta-') for i in kxml)} hentede dokumenter tekst. For resten er koblingen til lovgivningen Retsinformations felt for hjemmel og vedrørt lovgivning: det siger ikke, hvilken paragraf dokumentet angår, og {len(kag) - kakob} af de {len(kag)} ikke-historiske har ingen kobling. Lovforslag er koblet til loven på titel og dato, ikke på en henvisning i loven: for love fra før 1998 har Retsinformation ikke den vedtagne tekst, så de er ikke koblet, og skriftlige fremsættelser og beslutningsforslag har ingen kobling. Teksten kan hentes fra Retsinformations ELI-XML med ét kald pr. dokument (værktøjerne holder 10,5 sekunder mellem kald).
 - **Ressort og status er uafklaret flere steder.** Det gælder bl.a. miljøvurderingsloven (Miljøministeriet eller Natur og Dyrevelfærd) og affaldsbekendtgørelsen (KEFM eller Miljøstyrelsen). Det gælder også Social- og Boligstyrelsens opdeling, udfasningen af navnet Kystdirektoratet og den danske gennemførelse af EPBD-recast, IED 2.0 og gasdirektivet 2024/1788.
 """
 (SP / "dk-regulering" / "README.md").write_text(doc, encoding="utf-8")

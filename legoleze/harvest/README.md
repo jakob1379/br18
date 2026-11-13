@@ -12,3 +12,5 @@ Kræver adgang til `www.retsinformation.dk` og `api.retsinformation.dk`.
     python3 harvest.py status                              # fremdrift
     python3 harvest.py fetch --max-pri 2                   # kun prioritet 1-2
     python3 harvest.py parse                               # XML -> data/parsed.jsonl
+
+`pipeline/corpus/tekst.py` henter XML for et udsnit af kataloget i stedet for hele sitemappet og bruger herfra kun tekstudtrækket (`text_of`, `meta_of`) og åbningstiden.

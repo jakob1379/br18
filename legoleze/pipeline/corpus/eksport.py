@@ -23,6 +23,12 @@ Folketingstidende) skrives som katalog/retsinformation_<samling>.jsonl direkte f
 (hjemmelkant), og gældende dokumenter får ministerium fra ressortfeltet efter samme regel eller arver ministerium og retsområde fra den
 lovgivning, de vedrører. I Folketingstidende har alle dokumenter om samme lovforslag samme nøgle i feltet lovforslag, og den vedtagne tekst
 har feltet lov: den lov, den blev til (lovkobling). Lovforslagets dokumenter får en henviser_til-kant til loven (forarbejde, sandsynlig).
+Afgørelser, udtalelser og domme får en udsteder-kant fra den instans i registry'et, der har samme navn som eksportens AdministrerendeMyndighed
+(myndigheder). For bekendtgørelser bruges feltet ikke: dér er det den myndighed, der administrerer reglerne, ikke altid den, der har udstedt dem.
+
+katalog læser også katalog/tekst.jsonl (tekst.py). For forskrifter, hvis XML er hentet, lægges de bestemmelser i loven, præamblen nævner, på
+hjemmel_for-kanten (from_bestemmelse, og citeret_version når præamblen citerer en anden version end Retsinformations), og en lov eller
+bekendtgørelse, der kun nævnes i præamblen, får sin egen hjemmel_for-kant (metode praeambel).
 """
 from __future__ import annotations
 
@@ -57,6 +63,7 @@ SAMLINGER = {"lta": 1, "ltb": 2, "ltc": 3, "mt": 4, "retsinfo": 5, "ft": 6, "fob
 ANDRE = ("ltb", "ltc", "mt", "retsinfo", "fob", "ft")
 PRAKSIS = {"endelig-adm-afgørelse", "afgørelse", "udtalelse", "udtalelser", "dom", "kommentar"}
 METODE = "retsinformation-eksport"
+PRAEAMBEL = "praeambel"
 TYPER = {"Anordningsbekendtgørelse": "bekendtgørelse-af-anordning"}
 LOVE = ("lov", "lovbekendtgørelse")
 FORSKRIFTER = {"bekendtgørelse", "ændringsbekendtgørelse", "ikrafttrædelsesbekendtgørelse", "anordning", "ændringsanordning", "ikrafttrædelsesanordning",
@@ -175,15 +182,37 @@ def lovkobling(ft: list[dict], love: list[dict]) -> dict:
     return ud
 
 
-def hjemmelkant(d: dict, lov: dict) -> dict:
+def hjemmelkant(d: dict, lov: dict, citeret: list | None = None) -> dict:
     """Kanten mellem et dokument og den lovgivning, Retsinformation fører det under: hjemmel_for fra loven til forskrifter og vejledninger,
-    henviser_til fra afgørelser, udtalelser og domme (PRAKSIS) til loven."""
+    henviser_til fra afgørelser, udtalelser og domme (PRAKSIS) til loven. citeret er præamblens henvisninger til samme lov (populate.praeambelhjemmel):
+    bestemmelserne skrives i from_bestemmelse og den citerede version i citeret_version, når den er en anden end Retsinformations."""
     praksis, gv = d["type"] in PRAKSIS, lov.get("gaeldende_version")
-    tekst = ("hjemmel ifølge Retsinformation (den version, forskriften henviser til)" if d["id"].startswith("lta-")
-             else "lovgivning, dokumentet vedrører, ifølge Retsinformation (den version, dokumentet henviser til)")
+    tekst = ("hjemmel ifølge Retsinformation (den lovversion, Retsinformation fører forskriften under)" if d["id"].startswith("lta-")
+             else "lovgivning, dokumentet vedrører, ifølge Retsinformation (den version, Retsinformation fører dokumentet under)")
+    fra = {"from_bestemmelse": list(dict.fromkeys(b for _, bs in citeret for b in bs)),
+           **({"citeret_version": citeret[0][0]} if citeret[0][0] != lov["id"] else {})} if citeret and not praksis else {}
     return {"from": d["id"] if praksis else lov["id"], "type": "henviser_til" if praksis else "hjemmel_for", "to": lov["id"] if praksis else d["id"],
             "beskrivelse": tekst, "kilder": [f"{P.RI}/eli/{d['id'].replace('-', '/')}"], "sikkerhed": "verificeret", "metode": METODE,
-            **({"gaeldende_version": gv} if gv else {})}
+            **({"gaeldende_version": gv} if gv else {}), **fra}
+
+
+def myndigheder(reg: dict) -> dict:
+    """{normaliseret navn: (node-id, er det nuværende navn)} for registry'ets instanser, med og uden parentes i navnet og med tidligere navne.
+    Et navn, flere instanser deler, er udeladt."""
+    ud = collections.defaultdict(set)
+    for n in reg["nodes"]:
+        if n["type"] in P.B.INSTANCE_TYPES:
+            for navn, nu in [(n["navn"], True), *((t["navn"], False) for t in n.get("tidligere_navne") or [])]:
+                ud[P.norm(navn)].add((n["id"], nu))
+                ud[P.norm(re.sub(r"\([^)]*\)", "", navn))].add((n["id"], nu))
+    return {k: max(v, key=lambda x: x[1]) for k, v in ud.items() if k and len({i for i, _ in v}) == 1}
+
+
+def udstederkant(d: dict, node: str, nuvaerende: bool) -> dict:
+    """udsteder fra den instans, Retsinformation fører som administrerende myndighed for en afgørelse eller udtalelse; sandsynlig, når navnet er et
+    tidligere navn. Feltet føres ajour: en ældre afgørelse kan stå under den myndighed, der har overtaget området."""
+    return {"from": node, "type": "udsteder", "to": d["id"], "kilder": d["kilder"], "sikkerhed": "verificeret" if nuvaerende else "sandsynlig", "metode": METODE,
+            "beskrivelse": "administrerende myndighed for afgørelsen eller udtalelsen ifølge Retsinformation" + ("" if nuvaerende else " (under et tidligere navn)")}
 
 
 def familier(docs: list[dict], blev_historisk: set) -> dict:
@@ -375,18 +404,43 @@ def katalog() -> dict:
         [{"id": d["id"], "navn": d["navn"], "type": d["type"], "ressortfelt": eks.get(d["id"], {}).get("Ressort"), "myndighed": eks.get(d["id"], {}).get("AdministrerendeMyndighed"),
           "ministerium": (d.get("ministerium") or {}).get("vaerdi"), "retsomraade": d.get("retsomraade")} for d in rest], ensure_ascii=False, indent=1), encoding="utf-8")
 
-    kanter = [e for e in map(json.loads, (KAT / "kanter.jsonl").open(encoding="utf-8")) if e.get("metode") != METODE
+    kanter = [e for e in map(json.loads, (KAT / "kanter.jsonl").open(encoding="utf-8")) if e.get("metode") not in (METODE, PRAEAMBEL)
               and not (e["type"] == "ressortansvar" and (e["to"] in ri or ids.get(e["to"], {}).get("status", {}).get("vaerdi") == "historisk"))]
     for e in kanter:
         if e["type"] == "henviser_til" and (e.get("gaeldende_version") or e["to"]) in ompeg:
             e["gaeldende_version"] = ompeg[e.get("gaeldende_version") or e["to"]]
+    tekstfil = KAT / "tekst.jsonl"
+    praeambel = {t["id"]: t["praeambel"] for t in map(json.loads, tekstfil.open(encoding="utf-8")) if "praeambel" in t} if tekstfil.exists() else {}
+    familie = lambda i: ids[i].get("gaeldende_version") or ids[i].get("nyeste_version_afloeser_mangler") or i
+    findes = {(e["from"], e["type"], e["to"]) for e in kanter}
     for i in sorted(hjemmel):
         if ids[i]["type"] in FORSKRIFTER or not i.startswith("lta-"):
-            kanter += [hjemmelkant(ids[i], ids[lov]) for lov in dict.fromkeys(hjemmel[i])]
+            citeret = [(c, b) for c, b in P.praeambelhjemmel(praeambel.get(i, "")) if c in ids and c != i]
+            love = list(dict.fromkeys(hjemmel[i]))
+            kanter += [hjemmelkant(ids[i], ids[lov], [x for x in citeret if familie(x[0]) == familie(lov)]) for lov in love]
+            stats["præamblens henvisninger"] += len(citeret)
+            stats["hjemmelsfeltets dokumenter uden for præamblen"] += sum(all(familie(c) != familie(lov) for c, _ in citeret) for lov in love) if citeret else 0
+            stats["forskrifter med læst præambel"] += bool(citeret)
+            stats["præamblens henvisninger genfundet i hjemmelsfeltet"] += sum(any(familie(c) == familie(lov) for lov in love) for c, _ in citeret)
+            kun = collections.defaultdict(list)
+            for c, b in citeret:
+                if (c, "hjemmel_for", i) not in findes and all(familie(c) != familie(lov) for lov in love):
+                    kun[c] += b
+            kanter += [{"from": c, "type": "hjemmel_for", "to": i, "beskrivelse": "hjemmel ifølge forskriftens præambel", "kilder": ids[i]["kilder"][:1],
+                        "sikkerhed": "verificeret", "metode": PRAEAMBEL, **({"gaeldende_version": gv} if (gv := ids[c].get("gaeldende_version")) else {}),
+                        "from_bestemmelse": list(dict.fromkeys(b))} for c, b in kun.items()]
+    stats["hjemmel_for med bestemmelser"] = sum("from_bestemmelse" in e for e in kanter)
+    stats["heraf kun fra præamblen"] = sum(e.get("metode") == PRAEAMBEL for e in kanter)
     for d in andre:
         love = [d["lov"]] if "lov" in d else [] if d["type"] == "lovforslag-som-vedtaget" else sag.get(d.get("lovforslag"), [])
         kanter += [{"from": d["id"], "type": "henviser_til", "to": lov, "beskrivelse": "forarbejde til loven (koblet på den vedtagne teksts titel og dato)",
                     "kilder": d["kilder"], "sikkerhed": "sandsynlig", "metode": METODE} for lov in dict.fromkeys(love)]
+    instans = myndigheder(reg)
+    for d in andre:
+        fra = instans.get(P.norm(eks[d["id"]].get("AdministrerendeMyndighed", ""))) if d["type"] in PRAKSIS or d["id"].startswith("fob-") else None
+        if fra:
+            kanter.append(udstederkant(d, *fra))
+    stats["udsteder-kanter"] = sum(e["type"] == "udsteder" for e in kanter)
     nye_ids = {d["id"] for d in nye}
     for d in alle:
         m = d.get("ministerium") or {}
@@ -410,7 +464,7 @@ def katalog() -> dict:
     dashboard(tal, docs, reg)
     (KAT / "retsinformation_lta.jsonl").write_text("".join(map(linje, docs)), encoding="utf-8")
     (KAT / "kanter.jsonl").write_text("".join(map(linje, kanter)), encoding="utf-8")
-    koblet = {e["from"] if e["type"] == "henviser_til" else e["to"] for e in kanter if e.get("metode") == METODE and e["type"] != "ressortansvar"}
+    koblet = {e["from"] if e["type"] == "henviser_til" else e["to"] for e in kanter if e.get("metode") == METODE and e["type"] in ("hjemmel_for", "henviser_til")}
     for s in ANDRE:
         ds = [d for d in andre if d["id"].startswith(s + "-")]
         gd = [d for d in ds if d["status"]["vaerdi"] == "gældende"]
@@ -446,6 +500,9 @@ def selftest() -> None:
         ("lta-2020-7", "hjemmel_for", "retsinfo-2026-9901", "lta-2024-1031"), ("mt-2001-12", "henviser_til", "lta-2020-7", "lta-2024-1031"),
         ("lta-2019-1", "hjemmel_for", "lta-2026-5", None)]
     assert hjemmelkant(d, lov)["beskrivelse"].startswith("hjemmel ifølge") and hjemmelkant(afg, lov)["kilder"] == [P.RI + "/eli/mt/2001/12"]
+    med = hjemmelkant(d, lov, [("lta-2010-3", ["§ 1", "§ 2"]), ("lta-2010-3", ["§ 2", "§ 4"])])
+    assert (med["from_bestemmelse"], med["citeret_version"]) == (["§ 1", "§ 2", "§ 4"], "lta-2010-3") and "from_bestemmelse" not in hjemmelkant(afg, lov, [("lta-2020-7", ["§ 1"])])
+    assert "citeret_version" not in hjemmelkant(d, lov, [("lta-2020-7", ["§ 1"])]) and "from_bestemmelse" not in hjemmelkant(d, lov, [])
     ft = [post({"DokumentType": t, "Titel": n, "Nummer": nr, "UnderskriftDato": u, "EliUrl": "https://retsinformation.dk/eli/ft/" + k}, "x")
           for t, n, nr, u, k in (("Lovforslag som vedtaget", "Forslag til Lov om æbler\\n(Flere æbler)", "17 B", "20260601", "202523LB0017"),
                                  ("Lovforslag som fremsat", "Forslag til Lov om æbler og pærer", "17", "20260301", "202522L00017"),
@@ -468,6 +525,13 @@ def selftest() -> None:
     assert [x.get("gaeldende_version") for x in fam] == ["c", "c", None, None, None, None] and fam[3]["nyeste_version_afloeser_mangler"] == "q"
     assert fam[4]["afloeser_mangler"] and fam[5]["afloeser_mangler"] and "afloeser_mangler" not in fam[1]
     reg = {"regering": {"dannet": "2026-06-03"}, "nodes": [{"id": "min-ae", "type": "ministerium", "status": "aktiv", "navn": "Æbleministeriet"}]}
+    inst = [{"id": "naevn-ae", "type": "nævn", "navn": "Æblenævnet (ÆN)", "tidligere_navne": [{"navn": "Frugtnævnet"}, {"navn": "Det Gamle Nævn"}]},
+            {"id": "naevn-p", "type": "nævn", "navn": "Pærenævnet", "tidligere_navne": [{"navn": "Det Gamle Nævn"}]}, {"id": "lov-x", "type": "lov", "navn": "Lovnævnet"}]
+    uk = [udstederkant(afg, "naevn-ae", nu) for nu in (True, False)]
+    assert [(k["from"], k["to"], k["sikkerhed"], k["beskrivelse"].endswith("Retsinformation")) for k in uk] == [("naevn-ae", "mt-2001-12", "verificeret", True),
+                                                                                                                ("naevn-ae", "mt-2001-12", "sandsynlig", False)]
+    assert uk[1]["beskrivelse"] == uk[0]["beskrivelse"] + " (under et tidligere navn)" and uk[0]["kilder"] == [P.RI + "/eli/mt/2001/12"]
+    assert myndigheder({"nodes": inst}) == {"æblenævnet æn": ("naevn-ae", True), "æblenævnet": ("naevn-ae", True), "frugtnævnet": ("naevn-ae", False), "pærenævnet": ("naevn-p", True)}
     ny = [{"id": "n1", "status": {"vaerdi": "gældende"}, "datoer": {"udstedt": "2026-07-02"}}, {"id": "n2", "status": {"vaerdi": "gældende"}, "datoer": {"udstedt": "2026-01-02"}},
           {"id": "n3", "status": {"vaerdi": "gældende"}, "datoer": {"udstedt": "2026-01-02"}}, {"id": "c", "status": {"vaerdi": "gældende"}, "datoer": {},
                                                                                               "ministerium": {"vaerdi": "min-ae"}, "retsomraade": "frugt"}]

@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 93 · kanter: 162
+Noder: 93 · kanter: 160
 
 ```mermaid
 flowchart LR
@@ -139,7 +139,6 @@ flowchart LR
     lov_planklagenaevnsloven -->|hjemmel_for| bek_pkn_forretningsorden
     lov_planklagenaevnsloven -->|hjemmel_for| bek_pkn_gebyr
     lov_planklagenaevnsloven -->|hjemmel_for| naevn_planklagenaevnet
-    lov_planloven -.->|hjemmel_for| bek_habitat
     lov_planloven -->|hjemmel_for| bek_plandata
     lov_planloven -->|hjemmel_for| bek_planlov_habitat
     lov_planloven -->|hjemmel_for| bek_plst_henlaeggelse
@@ -263,11 +262,10 @@ flowchart LR
     lov_offentlighedsloven -->|hjemmel_for| bek_lag
     lov_vejloven -->|hjemmel_for| bek_vd_opgaver
     lov_vejloven -->|implementerer_EU| eu_dir_2011_92
+    bek_faerdselsstyrelsen_opgaver -->|hjemmel_for| bek_farligt_gods_vejtransport
     bek_br18 -->|hjemmel_for| reg_byggesagsgebyr
     bek_br18 -.->|implementerer_EU| eu_dir_2010_31
     bek_br18 -.->|implementerer_EU| eu_dir_2024_1275
-    bek_habitat -->|implementerer_EU| eu_dir_1992_43
-    bek_habitat -->|implementerer_EU| eu_dir_2009_147
     bek_br18 -->|implementerer_EU| eu_dir_2012_27
 ```
 

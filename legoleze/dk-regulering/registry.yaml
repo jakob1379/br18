@@ -32,6 +32,7 @@ meta:
         og ft
       kanter: katalog/kanter.jsonl
       eu_index: katalog/eu_index.jsonl
+      tekst: katalog/tekst.jsonl (indeks over de dokumenter, hvis XML er hentet fra Retsinformation; XML-filerne ligger i intermediate/corpus/xml/<samling>/)
       oversigt: katalog/README.md (genereret)
     kilde: kilde-danish-law-mcp (https://github.com/Ansvar-Systems/danish-law-mcp, commit da22657b7aa604e0a900d69b2b60a7b0c424b0cb) for dokumenter
       udstedt til og med 2026-02-12 og for alle tekstudtræk; kilde-retsinformation (søgeeksporten api/documentsearch/csv, hentet 2026-11-12) for
@@ -54,9 +55,13 @@ meta:
       uden for Lovtidende A er det den lovgivning, Retsinformations hjemmelsfelt fører dokumentet under, metode retsinformation-eksport; fra et
       lovforslags dokumenter i Folketingstidende til den lov, lovforslaget blev til, med beskrivelsen ''forarbejde til loven'', sandsynlig), implementerer_EU
       (direktiv + gennemførelsesudsagn i samme bestemmelse), hjemmel_for (lov eller forskrift → forskrift, cirkulære, vejledning eller andet dokument,
-      der ikke er en afgørelse, fra Retsinformations hjemmelsfelt; loven er den version, dokumentet henviser til, med gaeldende_version ved siden
-      af), ressortansvar (ministerium → gældende dokument; fra Retsinformations ressortfelt, når det med sikkerhed er aktuelt, ellers fra registry-noden,
-      arvet fra hjemmelsloven eller klassificeret). Endepunkter er katalog-id''er, registry-id''er eller eu_index-id''er.'
+      der ikke er en afgørelse, fra Retsinformations hjemmelsfelt; loven er den version, Retsinformation fører dokumentet under, med gaeldende_version
+      ved siden af; for 53.592 af de 88.181 kanter er den udstedt senere end dokumentet selv og er altså ikke den version, dokumentet citerer.
+      For forskrifter, hvis XML er hentet, står de bestemmelser i loven, præamblen nævner, i from_bestemmelse, og den citerede version i citeret_version,
+      når den er en anden end Retsinformations. En henvisning, der kun står i præamblen, er en egen hjemmel_for-kant med metode praeambel), ressortansvar
+      (ministerium → gældende dokument; fra Retsinformations ressortfelt, når det med sikkerhed er aktuelt, ellers fra registry-noden, arvet fra
+      hjemmelsloven eller klassificeret), udsteder (instans i registry''et → afgørelse, udtalelse eller dom, når Retsinformations felt for administrerende
+      myndighed er instansens navn; sandsynlig, når det er et tidligere navn). Endepunkter er katalog-id''er, registry-id''er eller eu_index-id''er.'
     sikkerhed: verificeret = står direkte i datasættets felter eller tekst eller i Retsinformations søgeeksport (status, Lovtidende-nr., henvisning
       med nummer og dato, EU-retsakt nævnt, hjemmel, ressortfelt der med sikkerhed er aktuelt). sandsynlig = udledt (udstedende ministerium fra
       DocumentId-præfiks, titel-/navnematch, ministerium arvet fra hjemmelsloven, lovforslag koblet til loven på titel og underskriftsdato, ressort
@@ -64,6 +69,12 @@ meta:
     datoer_note: Den reelle ikrafttrædelsesdato findes ikke i bulk-kilden (ukendt). ri_registreret er datasættets start_date/in_force_date (Retsinformations
       databasedato; for dokumenter fra før 1990 typisk en dato i 1990'erne), ri_aendret er end_date med udokumenteret betydning – ingen af dem
       må bruges som gyldighedsperiode.
+    tekst: 'Retsinformations XML (ELI-adressen plus /xml) er hentet for et udsnit med pipeline/corpus/tekst.py: de dokumenter, registry''ets noder
+      peger på, og de gældende dokumenter i de otte domæner, i rækkefølgen registry, Lovtidende A uden tekst i bulk-høsten, vejledninger og cirkulærer,
+      lovforslag som fremsat til udsnittets love, praksis og til sidst Lovtidende A med tekst i bulk-høsten. Felter i tekst.jsonl: id, xml (sti
+      fra legoleze/), hentet, n_tegn, n_paragraffer, praeambel (indledningen uden fodnoter), noter (fodnoterne, herunder EU-noten og noter om
+      ressortoverførsler), underskrevet_af (Meta-feltet PlaceOfSignature) og eu (CELEX-numre fra Meta-feltet EuReferences). katalog/README.md
+      viser, hvor mange dokumenter der er hentet pr. samling.'
   metode:
   - 'Fase 1: To uafhængige agenter kortlagde regering, ministerier og område → myndighed pr. 2026-10-28. En tredje afstemte dem til en baseline
     med kanoniske id''er.'
@@ -97,6 +108,10 @@ meta:
     om samme lovforslag har fælles nøgle (år og samling plus nummer), og den vedtagne tekst er koblet til den lov, den blev til, når netop én
     lov har samme titel og er underskrevet fra 3 dage før til 60 dage efter vedtagelsen: 5.413 lovforslag og 5.618 love, dvs. 5.542 af de 5.723
     love og ændringslove udstedt fra 1999 (97 %).'
+  - 'Tekstlag (fra 2026-11-13): pipeline/corpus/tekst.py henter Retsinformations XML for et udsnit af kataloget (meta.katalog.tekst) gennem samme
+    kø som de øvrige opslag (10,5 sekunder mellem kald, kun kl. 03:00-23:45) og skriver katalog/tekst.jsonl. eksport.py katalog læser præamblerne
+    derfra: bestemmelserne i ''I medfør af § … i lov …, jf. lovbekendtgørelse nr. … af …'' lægges på den hjemmel_for-kant fra Retsinformations
+    hjemmelsfelt, der gælder samme lov (samme lovfamilie), og en lov, der kun nævnes i præamblen, får sin egen kant.'
   - 'Fase 7 (fra 2026-11-11): Instanslag uden for de otte domæner. Én research-agent pr. retsområde leverer noder og kanter med kilde-URL og ordret
     citat for hver påstand (pipeline/populate-brief.md). pipeline/populate.py henter selv hver kilde og leder efter citatet, læser nummer, dato,
     titel og status for love og bekendtgørelser direkte i Retsinformations metadata, og en uafhængig kontrollant bedømmer, om citatet bærer påstanden.
@@ -108,19 +123,27 @@ meta:
     når Retsinformations ministeriefelt er det samme ministerium og med sikkerhed er sat efter regeringsdannelsen: dokumentet er udstedt efter
     den, eller ministeriet fik sit navn ved den (feltet på ældre dokumenter er ikke altid ført ajour). populate.py ajour slår alle aktive retsakter
     op hos Retsinformation og skriver gældende version, nummer, dato og senere ændringer samt de hjemmel_for- og implementerer_EU-kanter, Retsinformation
-    selv fører mellem registry''ets noder; en retsakt uden adresse på Retsinformation slås op på det dokument, dens katalog_id peger på.'
+    selv fører mellem registry''ets noder; en retsakt uden adresse på Retsinformation slås op på det dokument, dens katalog_id peger på. Fra 2026-11-13
+    læser ajour også præamblen i hver forskrift: en lov eller bekendtgørelse, præamblen nævner som hjemmel, og som er en node, får en hjemmel_for-kant
+    (verificeret, med bestemmelserne i beskrivelsen). En hjemmel_for-kant fra en node, præamblen ikke nævner (heller ikke i en version fra lovens
+    tidslinje hos Retsinformation), noteres i journalen; hviler den kun på Retsinformations relation ''lovgivning, forskriften vedrører'', bliver
+    den sandsynlig.'
   begraensninger:
   - WebFetch var blokeret af sessionens netværkspolitik for alle eksterne domæner, herunder retsinformation.dk, eur-lex.europa.eu og ministeriernes
     sider. Al evidens stammer derfor fra WebSearch-resultater (titel, URL, uddrag). En URL markeret verificeret er set i et søgeresultat, men
     siden er ikke åbnet direkte.
   - URL'er er aldrig konstrueret. Er en side ikke set i søgeresultater, står der 'ikke fundet', også når et mønster (fx ELI) gør adressen forudsigelig.
   - ELI'erne for 16 love/bekendtgørelser stammer fra jakob1379/br18 xref-laws.toml, tjekket mod retsinformation 2026-10-26.
-  - 'Katalog-laget har kun tekstudtræk for Lovtidende A. Dokumentliste, status og hjemmel_for-kanter er ført ajour fra Retsinformations søgeeksport
-    2026-11-12, men tekstudtrækkene (paragraffer, henvisninger i teksten, EU-referencer) stammer fra bulk-høsten, som slutter med udstedelser
-    2026-02-12 og mangler præambel, underskrift og EU-noter. Dokumenter tilføjet fra eksporten, herunder alle cirkulærer, vejledninger, afgørelser
-    og andre dokumenter uden for Lovtidende A, har derfor kun metadata og Retsinformations relationer. hjemmel_for og henviser_til fra eksporten
-    er Retsinformations kobling på dokumentniveau, ikke en læsning af præamblens paragrafhenvisning eller af afgørelsens tekst. Lovforslag er
-    koblet til loven på titel og underskriftsdato, ikke på en henvisning i loven, og kun hvor Retsinformation har den vedtagne tekst (fra 1998).
+  - 'Katalog-laget har kun tekstudtræk for Lovtidende A og for tekstlagets udsnit (meta.katalog.tekst). Dokumentliste, status og hjemmel_for-kanter
+    er ført ajour fra Retsinformations søgeeksport 2026-11-12, men tekstudtrækkene (paragraffer, henvisninger i teksten, EU-referencer) stammer
+    fra bulk-høsten, som slutter med udstedelser 2026-02-12 og mangler præambel, underskrift og EU-noter. Dokumenter tilføjet fra eksporten, herunder
+    alle cirkulærer, vejledninger, afgørelser og andre dokumenter uden for Lovtidende A, har derfor kun metadata og Retsinformations relationer,
+    medmindre deres XML er hentet til tekstlaget. hjemmel_for og henviser_til fra eksporten er Retsinformations kobling på dokumentniveau til
+    den version af loven, Retsinformation fører dokumentet under, ikke en læsning af afgørelsens tekst; præamblens paragrafhenvisning er kun læst
+    for forskrifter i tekstlaget. Præamblen læses med et regulært udtryk: en liste af bestemmelser knyttes til det første dokument, der citeres
+    med nummer og dato efter den, og lister i ''som ændret ved …'' springes over, så en hjemmel i en ændringslov, der nævnes lige efter en sådan
+    vending, kan mangle. Bestemmelserne er dem, den citerede version havde; paragrafnumre kan være flyttet i den gældende version. Lovforslag
+    er koblet til loven på titel og underskriftsdato, ikke på en henvisning i loven, og kun hvor Retsinformation har den vedtagne tekst (fra 1998).
     Status er Retsinformations markering: et dokument kan stå som historisk, før ophævelsen har virkning (BEK nr. 1170 af 14/11/2024 blev markeret
     historisk 2026-11-04, men ophæves først 1. januar 2027).'
   - Ressortforhold ændrer sig ofte. Seneste kendte ændringer er regeringsdannelsen 2026-06-03 (BEK nr. 514 af 08/06/2026) og ministerskiftet 2026-10-27.
@@ -492,7 +515,7 @@ nodes:
     eli: https://www.retsinformation.dk/eli/lta/2022/750
     andet: eli er PDF-manifestationen. Der er ikke fundet ændringer, og Lovguiden viser stadig BEK 750/2022 (søgning okt. 2026).
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2022/750
     - https://www.retsinformation.dk/eli/lta/2022/750/pdf
@@ -600,7 +623,7 @@ nodes:
     eli: https://www.retsinformation.dk/eli/lta/2026/810
     lovtidende: BEK nr. 810 af 22/09/2026 (Lovtidende A 26/09/2026)
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2026/810
     sikkerhed: verificeret
@@ -710,7 +733,7 @@ nodes:
       er affaldsregisterbekendtgørelsen (BEK 1066 af 26/08/2025), ikke denne.'
     eli: https://www.retsinformation.dk/eli/lta/2024/1743
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2024/1743
     - https://www.lovguiden.dk/loven/affaldsaktørbekendtgørelsen/1
@@ -806,7 +829,7 @@ nodes:
       25/12/2025)
     eli: https://www.retsinformation.dk/eli/lta/2024/1221
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2024/1221
     - https://www.retsinformation.dk/api/pdf/245458
@@ -916,7 +939,7 @@ nodes:
       1/1/2026; ophæver BEK nr 1066 af 27/09/2024'
     eli: https://www.retsinformation.dk/eli/lta/2025/1479
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/1479
     - https://forsyningstilsynet.dk/Media/639015831518825683/Bilag%201%20-%20Retsgrundlag.pdf
@@ -1005,7 +1028,7 @@ nodes:
     senere_aendringer:
     - betegnelse: BEK nr 934 af 26/06/2025
       eli: https://www.retsinformation.dk/eli/lta/2025/934
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2023/1642
     - https://www.retsinformation.dk/eli/lta/2023/1642/pdf
@@ -1061,7 +1084,7 @@ nodes:
   type: bekendtgørelse
   ministerium: min-boern-aeldre-og-bolig
   status: aktiv
-  domaener:
+  domaener: &id093
   - bolig
   tidligere_navne: []
   hjemmel:
@@ -1110,7 +1133,7 @@ nodes:
     senere_aendringer:
     - betegnelse: BEK nr 803 af 23/09/2026
       eli: https://www.retsinformation.dk/eli/lta/2026/803
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2026/735
     - https://www.retsinformation.dk/eli/lta/2026/40/pdf
@@ -1163,7 +1186,7 @@ nodes:
   type: bekendtgørelse
   ministerium: min-boern-aeldre-og-bolig
   status: aktiv
-  domaener:
+  domaener: &id094
   - bolig
   tidligere_navne: []
   hjemmel:
@@ -1206,7 +1229,7 @@ nodes:
     senere_aendringer:
     - betegnelse: BEK nr 848 af 18/06/2025
       eli: https://www.retsinformation.dk/eli/lta/2025/848
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2024/977
     - https://www.retsinformation.dk/eli/lta/2024/977/pdf
@@ -1296,7 +1319,7 @@ nodes:
       ændret ved BEK af 2025 nr. 232 (ikrafttræden 1/3/2025, fjernede henvisningen til Arbejdsmiljørådet i § 18). Værks-ELI''en uden /pdf er ikke
       set.'
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2026/25
     - https://www.retsinformation.dk/eli/lta/2026/25/pdf
@@ -1487,7 +1510,7 @@ nodes:
     andet: Udstedt af Beskæftigelses- og Ligestillingsministeriet med Arbejdstilsynet som myndighed. Afløser formentlig BEK nr. 1234 af 2018 (eli/lta/2018/1234).
       Kun /pdf-formen af ELI'en er set.
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2026/609
     - https://www.retsinformation.dk/eli/lta/2026/609/pdf
@@ -1584,7 +1607,7 @@ nodes:
       bekendtgørelser 1/7/2026. ELI er ikke observeret.'
     eli: https://www.retsinformation.dk/eli/lta/2025/1328
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/1328
     - https://www.retsinformation.dk/api/pdf/252542
@@ -1690,7 +1713,7 @@ nodes:
     lovtidende: BEK nr 1354 af 11/12/2019
     eli: https://www.retsinformation.dk/eli/lta/2019/1354
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2019/1354
     - https://www.retsinformation.dk/eli/lta/2019/1354/pdf
@@ -1793,7 +1816,7 @@ nodes:
       (2026-11-12).
     lovtidende_tidligere: BEK nr. 811 af 03/06/2022 (gældende ved udskrift 14/12/2025)
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2026/484
     - https://www.retsinformation.dk/eli/lta/2022/811/pdf
@@ -1888,7 +1911,7 @@ nodes:
     senere_aendringer:
     - betegnelse: BEK nr 295 af 21/03/2025
       eli: https://www.retsinformation.dk/eli/lta/2025/295
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2024/722
     - https://www.retsinformation.dk/eli/lta/2024/722/pdf
@@ -2072,7 +2095,7 @@ nodes:
     eli: https://www.retsinformation.dk/eli/lta/2016/917
     lovtidende: BEK nr. 917 af 2016
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2016/917
     - https://www.retsinformation.dk/eli/lta/2016/917/pdf
@@ -2162,7 +2185,7 @@ nodes:
       eli: https://www.retsinformation.dk/eli/lta/2016/74
     - betegnelse: BEK nr 1315 af 11/11/2016
       eli: https://www.retsinformation.dk/eli/lta/2016/1315
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2012/1010
     - https://www.retsinformation.dk/api/pdf/143662
@@ -2257,7 +2280,7 @@ nodes:
       (2026-11-12).
     lovtidende_tidligere: BEK nr. 952 af 2025
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/1516
     - https://www.retsinformation.dk/eli/lta/2025/952/pdf
@@ -2360,7 +2383,7 @@ nodes:
       af 19/12/2023
     eli: https://www.retsinformation.dk/eli/lta/2024/1270
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2024/1270
     - https://www.retsinformation.dk/api/pdf/217602
@@ -2488,7 +2511,7 @@ nodes:
       eli: https://www.retsinformation.dk/eli/lta/2025/851
     - betegnelse: BEK nr 1485 af 01/12/2025
       eli: https://www.retsinformation.dk/eli/lta/2025/1485
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2019/1399
     - https://www.retsinformation.dk/eli/lta/2025/1485
@@ -2618,7 +2641,7 @@ nodes:
     senere_aendringer:
     - betegnelse: BEK nr 1435 af 27/11/2025
       eli: https://www.retsinformation.dk/eli/lta/2025/1435
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2021/2341
     - https://www.retsinformation.dk/api/pdf/228015
@@ -2833,7 +2856,7 @@ nodes:
     lovtidende: BEK nr 2340 af 09/12/2021 (Lovtidende A 10/12/2021; i kraft 1/1/2022)
     eli: https://www.retsinformation.dk/eli/lta/2021/2340
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2021/2340
     - https://www.retsinformation.dk/eli/lta/2021/2340/pdf
@@ -2922,7 +2945,7 @@ nodes:
     eli: https://www.retsinformation.dk/eli/lta/2025/1466
     journalnr: MST-2025-49474
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/1466
     - https://www.retsinformation.dk/eli/lta/2025/1466/pdf
@@ -3000,7 +3023,7 @@ nodes:
     andet: 'PDF-manifestation; værks-ELI''en er ikke set. Hjemmel: § 160 i lov om almene boliger m.v. Dækker byggeri og renovering efter almenboliglovens
       §§ 151 og 151 a. BEK 402/2025 og 403/2025 (i kraft 1/5/2025) ændrer støttereglerne om indberetning til BygAlment.dk, ikke eftersynsbekendtgørelsen.'
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2020/2137
     - https://www.retsinformation.dk/eli/lta/2020/2137/pdf
@@ -3100,7 +3123,7 @@ nodes:
       2026-sammenskrivninger (602, 605, 607, 608, 609 …), og ingen 2026-afløser er fundet. AT-vejledning VEJ nr. 10211 af 09/12/2025 (gældende
       fra 15/12/2025) fortolker den. Forgængere: BEK nr. 1516 af 16/12/2010 (senest ændret bl.a. ved BEK 1805/2015) og BEK nr. 1989 af 2020.'
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2021/2107
     - https://www.retsinformation.dk/eli/lta/2021/2107/pdf
@@ -3153,7 +3176,7 @@ nodes:
   type: bekendtgørelse
   ministerium: min-boern-aeldre-og-bolig
   status: aktiv
-  domaener:
+  domaener: &id095
   - byggeri
   tidligere_navne: []
   hjemmel:
@@ -3214,7 +3237,7 @@ nodes:
     lovtidende_tidligere: 'Gældende nummer pr. 28/10/2026 ikke fundet. Senest set: BEK nr. 2184 af 26/11/2021 (Bolig- og Planstyrelsen), jf. Hedensted
       Kommune 2022. Et tidligere angivet BEK nr. 1436 af 29/11/2022 er ikke genfundet i denne verifikation.'
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/1455
     - https://www.hedensted.dk/hedensted_data/dagsorden/Oekonomiudvalget_2022/12-12-2022/ID3468/Bilag/Punkt_299_Bilag_3_Bilag_a_til_indstillingsnotat.pdf
@@ -3341,7 +3364,7 @@ nodes:
     senere_aendringer:
     - betegnelse: BEK nr 10 af 06/01/2026
       eli: https://www.retsinformation.dk/eli/lta/2026/10
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/1832
     - https://www.retsinformation.dk/eli/lta/2026/10/pdf
@@ -3450,7 +3473,7 @@ nodes:
     senere_aendringer:
     - betegnelse: BEK nr 11 af 06/01/2026
       eli: https://www.retsinformation.dk/eli/lta/2026/11
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/1831
     - https://www.retsinformation.dk/eli/lta/2025/1831/pdf
@@ -3554,7 +3577,7 @@ nodes:
     senere_aendringer:
     - betegnelse: BEK nr 1849 af 19/12/2023
       eli: https://www.retsinformation.dk/eli/lta/2023/1849
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2013/117
     - https://www.retsinformation.dk/eli/lta/2013/117/pdf
@@ -3644,7 +3667,7 @@ nodes:
     eli: https://www.retsinformation.dk/eli/lta/2024/1565
     andet: Ophævede BEK nr. 1588 af 28/06/2021; underretninger efter de gamle regler gælder i 5 år. Kun /pdf-formen af ELI'en er set.
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2024/1565
     - https://www.retsinformation.dk/eli/lta/2024/1565/pdf
@@ -3742,7 +3765,7 @@ nodes:
       eli: https://www.retsinformation.dk/eli/lta/2019/531
     - betegnelse: BEK nr 1108 af 22/08/2023
       eli: https://www.retsinformation.dk/eli/lta/2023/1108
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2019/319
     - https://www.retsinformation.dk/eli/lta/2019/319/pdf
@@ -3840,7 +3863,7 @@ nodes:
     senere_aendringer:
     - betegnelse: BEK nr 286 af 18/03/2024
       eli: https://www.retsinformation.dk/eli/lta/2024/286
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2023/1693
     - https://github.com/jakob1379/br18/blob/main/xref-laws.toml
@@ -4053,7 +4076,7 @@ nodes:
       afleveringspligt først fra 1/1/2028.
     eli: https://www.retsinformation.dk/eli/lta/2025/1453
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/1453
     - https://www.retsinformation.dk/api/pdf/246038
@@ -4153,7 +4176,7 @@ nodes:
     journalnr: 2025-11299
     andet: Offentliggjort i Lovtidende A 6/12/2025; ikrafttræden 1/1/2026; ophæver BEK nr 1357 af 17/12/2012
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/1525
     - https://www.retsinformation.dk/eli/lta/2025/1525/pdf
@@ -4243,7 +4266,7 @@ nodes:
     andet: Ophæver BEK nr. 1420 af 4/12/2017 om DANAK's opgaver vedrørende notificerede organer, der fører 3. partskontrol med byggevarer og tekniske
       vurderingsorganer. Udkastet var i høring i efteråret 2025.
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/1744
     - https://www.retsinformation.dk/eli/lta/2025/1744/pdf
@@ -4342,7 +4365,7 @@ nodes:
       prioritering af, hvilke domme der offentliggøres (§ 1), publicering og undladelse af hensyn til persondata (§ 2), pseudonymisering med Domstolsstyrelsen
       som dataansvarlig (§ 3) og adgang for ansøgere med et sagligt formål (§§ 4-5).
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2021/2708
     - https://www.retsinformation.dk/eli/lta/2021/2708/pdf
@@ -4433,7 +4456,7 @@ nodes:
       er set. Kanonisk HTML-ELI er ikke set og er ikke konstrueret.
     eli: https://www.retsinformation.dk/eli/lta/2017/1608
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2017/1608
     - https://www.retsinformation.dk/eli/lta/2017/1608/pdf
@@ -4637,7 +4660,7 @@ nodes:
       af 31/10/2025. ELI for BEK 1272 er ikke set.
     eli: https://www.retsinformation.dk/eli/lta/2025/1272
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/1272
     - https://www.retsinformation.dk/api/pdf/252184
@@ -4752,7 +4775,7 @@ nodes:
       eli: https://www.retsinformation.dk/eli/lta/2023/656
     - betegnelse: BEK nr 887 af 12/10/2026
       eli: https://www.retsinformation.dk/eli/lta/2026/887
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2016/1007
     - https://www.retsinformation.dk/eli/lta/2023/656/pdf
@@ -4852,7 +4875,7 @@ nodes:
       form. Lovguiden angiver Erhvervsministeriet som udsteder, mens høringsmaterialet lå i KEF (alm. del bilag 231); det stemmer med, at bekendtgørelsen
       er forhandlet med KEFM.
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/824
     - https://www.retsinformation.dk/eli/lta/2025/824/pdf
@@ -5050,7 +5073,7 @@ nodes:
     senere_aendringer:
     - betegnelse: BEK nr 1872 af 19/12/2023
       eli: https://www.retsinformation.dk/eli/lta/2023/1872
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2021/1448
     - https://www.retsinformation.dk/eli/lta/2021/1448/pdf
@@ -5163,7 +5186,7 @@ nodes:
       ELI er ikke set.'
     eli: https://www.retsinformation.dk/eli/lta/2003/590
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2003/590
     - https://www.lovguiden.dk/loven/bekendtgørelse-om-klassifikation-af-eksplosionsfarlige-områder/1
@@ -5283,7 +5306,7 @@ nodes:
     senere_aendringer:
     - betegnelse: BEK nr 1878 af 19/12/2023
       eli: https://www.retsinformation.dk/eli/lta/2023/1878
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2003/478
     - https://www.retsinformation.dk/eli/lta/2023/1878/pdf
@@ -5377,7 +5400,7 @@ nodes:
     senere_aendringer:
     - betegnelse: BEK nr 811 af 14/08/2019
       eli: https://www.retsinformation.dk/eli/lta/2019/811
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2016/1114
     - https://www.retsinformation.dk/eli/lta/2016/1114/pdf
@@ -5479,7 +5502,7 @@ nodes:
     senere_aendringer:
     - betegnelse: BEK nr 1883 af 19/12/2023
       eli: https://www.retsinformation.dk/eli/lta/2023/1883
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2016/472
     - https://www.retsinformation.dk/eli/lta/2016/472/pdf
@@ -5652,7 +5675,7 @@ nodes:
     senere_aendringer:
     - betegnelse: BEK nr 639 af 02/06/2017
       eli: https://www.retsinformation.dk/eli/lta/2017/639
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2016/1082
     - https://www.retsinformation.dk/eli/lta/2016/1082/pdf
@@ -5765,7 +5788,7 @@ nodes:
     senere_aendringer:
     - betegnelse: BEK nr 487 af 28/05/2026
       eli: https://www.retsinformation.dk/eli/lta/2026/487
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2021/2516
     - https://www.retsinformation.dk/api/pdf/228212
@@ -5867,7 +5890,7 @@ nodes:
     lovtidende: BEK nr 1193 af 02/10/2025
     celex: 32023L1791
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/1193
     - https://www.retsinformation.dk/eli/lta/2025/1193/pdf
@@ -5958,7 +5981,7 @@ nodes:
     eli: https://www.retsinformation.dk/eli/lta/2023/549
     andet: Afløste BEK nr 1651 af 18/11/2020, som nu er 'Historisk' (api/pdf/217355).
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2023/549
     - https://www.retsinformation.dk/eli/lta/2023/549/pdf
@@ -6045,7 +6068,7 @@ nodes:
     lovtidende: BEK nr. 313 af 19/03/2025 (gældende ved udskrift 21/10/2026)
     eli: https://www.retsinformation.dk/eli/lta/2025/313
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/313
     - https://www.retsinformation.dk/api/pdf/248558
@@ -6145,7 +6168,7 @@ nodes:
     journalnr: Energistyrelsen j.nr. 2024-13270
     andet: Offentliggjort i Lovtidende 17/12/2024; afløste BEK nr 1605 af 28/12/2022
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2024/1559
     - https://www.lovtidende.dk/api/pdf/246961
@@ -6231,7 +6254,7 @@ nodes:
       til ikke-offentlige institutioner. Energistyrelsens FAQ fra marts 2026 henviser stadig til BEK 1138/2025 og nævner desuden LOV nr. 669 af
       11/06/2024.'
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/1138
     - https://www.retsinformation.dk/eli/lta/2025/1138/pdf
@@ -6345,7 +6368,7 @@ nodes:
       Energy Agency''s functions and powers''.'
     eli: https://www.retsinformation.dk/eli/lta/2026/244
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2026/244
     - https://leap.unep.org/en/countries/dk/national-legislation/order-no-244-energy-agencys-functions-and-powers
@@ -6624,7 +6647,7 @@ nodes:
   type: bekendtgørelse
   ministerium: min-boern-aeldre-og-bolig
   status: aktiv
-  domaener:
+  domaener: &id096
   - kritik:byggeri-bolig
   tidligere_navne: []
   hjemmel:
@@ -6680,7 +6703,7 @@ nodes:
     andet: Afløser BEK nr 1066/2015. lta/2025/1254 er ikke etableringsbekendtgørelsen, men ifølge søgeresultat en ny lovbekendtgørelse af lov
       om friplejeboliger.
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/611
     - https://www.retsinformation.dk/eli/lta/2025/611/pdf
@@ -6771,7 +6794,7 @@ nodes:
     senere_aendringer:
     - betegnelse: BEK nr 730 af 12/06/2024
       eli: https://www.retsinformation.dk/eli/lta/2024/730
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2021/1798
     - https://www.retsinformation.dk/eli/lta/2021/1798/pdf
@@ -6887,7 +6910,7 @@ nodes:
     senere_aendringer:
     - betegnelse: BEK nr 729 af 12/06/2024
       eli: https://www.retsinformation.dk/eli/lta/2024/729
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2021/1799
     - https://www.lovguiden.dk/loven/bekendtgørelse-om-krav-til-fyrværkeri-og-andre-pyrotekniske-artikler/1
@@ -6981,7 +7004,7 @@ nodes:
     andet: 'I kraft 1/1/2026; ''Gældende'' ved retsinformation-udskrift 23/10/2026 med ministerium Erhvervsministeriet. PDF-manifestation: https://www.retsinformation.dk/eli/lta/2025/1702/pdf.'
     eli: https://www.retsinformation.dk/eli/lta/2025/1702
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/1702
     - https://www.retsinformation.dk/api/pdf/254204
@@ -7067,7 +7090,7 @@ nodes:
     lovtidende: BEK nr 247 af 26/03/2018
     eli: https://www.retsinformation.dk/eli/lta/2018/247
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2018/247
     - https://www.retsinformation.dk/api/pdf/200367
@@ -7241,7 +7264,7 @@ nodes:
     lovtidende: BEK nr. 1027 af 02/09/2024 (markeret gældende ved Retsinformation-udskrift 15/6/2026)
     eli: https://www.retsinformation.dk/eli/lta/2024/1027
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2024/1027
     - https://www.retsinformation.dk/api/pdf/243410
@@ -7470,7 +7493,7 @@ nodes:
       (2026-11-12).
     lovtidende_tidligere: BEK nr. 987 af 27/08/2024
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/1791
     - https://www.retsinformation.dk/eli/lta/2024/987/pdf
@@ -7554,7 +7577,7 @@ nodes:
     eli: https://www.retsinformation.dk/eli/lta/2023/548
     lovtidende: BEK nr. 548 af 2023 (i kraft 1/7/2023)
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2023/548
     - https://www.retsinformation.dk/eli/lta/2023/548/pdf
@@ -7665,7 +7688,7 @@ nodes:
     senere_aendringer:
     - betegnelse: BEK nr 1058 af 22/08/2025
       eli: https://www.retsinformation.dk/eli/lta/2025/1058
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2023/1098
     - https://www.lovguiden.dk/loven/habitatbekendtg%C3%B8relsen/bilag-8
@@ -7724,7 +7747,9 @@ nodes:
     Grøn Trepart. Habitatvejledningerne VEJ 10226/2019 og VEJ 9925/2020 knytter sig hertil. Gældende version pr. 28/10/2026 er uafklaret: BEK
     640/2026 kunne ikke bekræftes som ny habitatbekendtgørelse, og konditionalitetsbekendtgørelsen BEK 580/2026 henviser stadig til BEK 1098/2023.
     Hovedbehandling hos natur-agenten. | Retsinformation-opslag 2026-11-12 via katalogposten: BEK nr. 1098 af 21/08/2023 er gældende (lta/2023/1098).
-    Ældre forbehold i noden om manglende ELI eller ubekræftet version er dermed overhalet.'
+    Ældre forbehold i noden om manglende ELI eller ubekræftet version er dermed overhalet. | Præamblen i BEK nr. 1098 af 21/08/2023 er læst hos
+    Retsinformation 2026-11-13 (https://www.retsinformation.dk/eli/lta/2023/1098): den nævner 14 love som hjemmel, og planloven er ikke blandt
+    dem. Kanten hjemmel_for fra lov-planloven byggede på 2016-udgaven og er fjernet.'
   katalog_id: lta-2023-1098
 - id: bek-husdyrgodkendelse
   navn: Bekendtgørelse om godkendelse og tilladelse m.v. af husdyrbrug (husdyrgodkendelsesbekendtgørelsen), BEK nr. 443 af 2023, ændret ved BEK
@@ -7995,7 +8020,7 @@ nodes:
       eli: https://www.retsinformation.dk/eli/lta/2020/1383
     - betegnelse: BEK nr 1147 af 16/09/2025
       eli: https://www.retsinformation.dk/eli/lta/2025/1147
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2014/563
     - https://www.retsinformation.dk/eli/lta/2014/563/pdf
@@ -8099,7 +8124,7 @@ nodes:
       VEJ nr. 10254 af 18/12/2025. Afgørelser efter bekendtgørelsen kan ikke påklages (§ 11).'
     eli: https://www.retsinformation.dk/eli/lta/2025/1669
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/1669
     - https://sgavmst.dk/media/1xkhzh2c/saerlige-forhold-vedr-straekningsbaseret-indsatsbehov.docx
@@ -8196,7 +8221,7 @@ nodes:
     andet: Ophæver BEK nr. 1737 af 30/12/2024. Tidligere versioner er BEK 714/2024, 444/2023 og 1127/2021. Ifølge overgangsreglerne anvendes de
       fortsat på sager om ældre reguleringsår (2023-2024 efter 714/2024, 2022 efter 444/2023).
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2026/168
     - https://www.retsinformation.dk/eli/lta/2026/168/pdf
@@ -8285,7 +8310,7 @@ nodes:
     eli: https://www.retsinformation.dk/eli/lta/2015/1452
     lovtidende: BEK nr. 1452 af 07/12/2015
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2015/1452
     - https://www.retsinformation.dk/api/pdf/175829
@@ -8367,7 +8392,7 @@ nodes:
     eli: https://www.retsinformation.dk/eli/lta/2026/581
     lovtidende: BEK nr. 581 af 25/06/2026 (Lovtidende 26/06/2026)
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2026/581
     - https://www.retsinformation.dk/eli/lta/2026/581/pdf
@@ -8453,7 +8478,7 @@ nodes:
     eli: https://www.retsinformation.dk/eli/lta/2025/1555
     lovtidende: BEK nr. 1555 af december 2025 (underskrevet i Erhvervsministeriet 5/12/2025; i kraft 1/1/2026)
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/1555
     - https://www.retsinformation.dk/eli/lta/2025/1555/pdf
@@ -8558,7 +8583,7 @@ nodes:
       eli: https://www.retsinformation.dk/eli/lta/2013/550
     - betegnelse: BEK nr 178 af 11/02/2016
       eli: https://www.retsinformation.dk/eli/lta/2016/178
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2011/887
     - https://naevneneshus.dk/media/i40banao/aarsberetning-2025.pdf
@@ -8651,7 +8676,7 @@ nodes:
     senere_aendringer:
     - betegnelse: BEK nr 672 af 15/06/2025
       eli: https://www.retsinformation.dk/eli/lta/2025/672
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2021/496
     - https://www.retsinformation.dk/eli/lta/2025/672/pdf
@@ -8755,7 +8780,7 @@ nodes:
     lovtidende_tidligere: BEK nr. 370 af 19/04/2016 (i kraft 1/5/2016; afløste BEK nr. 20 af 12/01/2006), ændret ved BEK nr. 1865 af 19/12/2023
       (i kraft 1/2/2024; sletter 'eller forbud' i § 13, stk. 1, nr. 2)
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2026/600
     - https://www.retsinformation.dk/eli/lta/2016/370/pdf
@@ -8869,7 +8894,7 @@ nodes:
       (2026-11-12).
     lovtidende_tidligere: BEK nr. 1347 af 2025 (dato ikke set)
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2026/582
     - https://www.retsinformation.dk/eli/lta/2025/1347/pdf
@@ -8960,7 +8985,7 @@ nodes:
     eli: https://www.retsinformation.dk/eli/lta/2020/181
     lovtidende: BEK nr. 181 af 05/03/2020
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2020/181
     - https://github.com/jakob1379/br18/blob/main/xref-laws.toml
@@ -9060,7 +9085,7 @@ nodes:
     andet: 'Officiel titel: Bekendtgørelse om LAG-tilskud til projekter. Udstedt af By-, Land- og Kirkeministeriet / Plan- og Landdistriktsstyrelsen;
       ikrafttræden 1/7/2025. Forgænger: BEK nr. 462 af 02/05/2023 (historisk). Særskilt driftsbekendtgørelse for LAG: BEK nr. 143/2023.'
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/948
     - https://www.retsinformation.dk/eli/lta/2025/948/pdf
@@ -9107,7 +9132,7 @@ nodes:
   type: bekendtgørelse
   ministerium: min-erhverv
   status: aktiv
-  domaener: &id093
+  domaener: &id099
   - arbejdsmiljoe
   tidligere_navne: []
   hjemmel:
@@ -9167,7 +9192,7 @@ nodes:
       eli: https://www.retsinformation.dk/eli/lta/2026/494
     - betegnelse: BEK nr 961 af 04/11/2026
       eli: https://www.retsinformation.dk/eli/lta/2026/961
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     katalog_note: Ophæves med virkning fra 20. januar 2027 ved BEK nr. 961 af 04/11/2026 om ophævelse af bekendtgørelse om maskiner (§§ 1-2, https://www.retsinformation.dk/eli/lta/2026/961).
       Retsinformation markerer allerede BEK nr. 1094 af 01/06/2021 som historisk (2026-11-04), selv om den gælder til da. BEK nr. 494 af 28/05/2026
       står hos Retsinformation blandt de senere ændringer. Læst 2026-11-13.
@@ -9269,7 +9294,7 @@ nodes:
       (2026-11-12).
     lovtidende_tidligere: 'BEK nr. 727 af 13/06/2024 (Retsinformation: ''Gældende'' ved udskrift 17/06/2026), ændret ved BEK nr. 486 af 28/05/2026'
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2026/956
     - https://www.retsinformation.dk/eli/lta/2024/727/pdf
@@ -9368,7 +9393,7 @@ nodes:
       api/pdf/250149 (ELI-sti ikke set).'
     eli: https://www.retsinformation.dk/eli/lta/2025/602
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/602
     - https://www.retsinformation.dk/api/pdf/250149
@@ -9557,7 +9582,7 @@ nodes:
     eli: https://www.retsinformation.dk/eli/lta/2017/844
     lovtidende: BEK nr. 844 af 23/06/2017
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2017/844
     - https://www.retsinformation.dk/eli/lta/2017/844/pdf
@@ -9661,7 +9686,7 @@ nodes:
     andet: Ikrafttræden 1/1/2026. Ophæver BEK nr. 796 af 13/06/2023 (ikke BEK 833/2016). Udstedt af Styrelsen for Grøn Arealomlægning og Vandmiljø
       for Ministeriet for Grøn Trepart. Gennemfører dele af dir. 2000/60/EF og 2014/101/EU.
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/1668
     - https://www.retsinformation.dk/eli/lta/2025/1668/pdf
@@ -9739,7 +9764,7 @@ nodes:
     lovtidende: BEK nr. 1536 af 09/12/2019
     eli: https://www.retsinformation.dk/eli/lta/2019/1536
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2019/1536
     - https://gentofte.dk/media/03jl5js4/miljoetilsynsplan-2026-29tlg.pdf
@@ -9838,7 +9863,7 @@ nodes:
     senere_aendringer:
     - betegnelse: BEK nr 430 af 02/05/2025
       eli: https://www.retsinformation.dk/eli/lta/2025/430
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2024/1608
     - https://www.retsinformation.dk/eli/lta/2024/1608/pdf
@@ -9927,7 +9952,7 @@ nodes:
     lovtidende: BEK nr. 611 af 2026 (formentlig 29/06/2026)
     andet: Ældre udgave set på regler.at.dk som '...-877'
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2026/611
     - https://www.retsinformation.dk/eli/lta/2026/611/dan/pdf
@@ -10028,7 +10053,7 @@ nodes:
     andet: '''Gældende'' ved Retsinformation-udskrift dec. 2025; udstedt under Miljø- og Fødevareministeriet (ressortefterfølger min-miljoe).
       Status pr. 28/10/2026 er ikke set direkte.'
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2019/1257
     - https://www.retsinformation.dk/eli/lta/2019/1257/pdf
@@ -10118,7 +10143,7 @@ nodes:
       udpegning af risikoområder, herunder revurderingen i 3. planperiode 2022-2027. Status på Retsinformation pr. 28/10/2026 er ikke set, og
       ingen ændrings- eller afløsnings-BEK er fundet.
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2016/894
     - https://www.retsinformation.dk/eli/lta/2016/894/pdf
@@ -10342,7 +10367,7 @@ nodes:
     senere_aendringer:
     - betegnelse: BEK nr 488 af 28/05/2026
       eli: https://www.retsinformation.dk/eli/lta/2026/488
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2018/210
     - https://ft.dk/samling/20171/almdel/BEU/bilag/234/1869842.pdf
@@ -10427,7 +10452,7 @@ nodes:
     lovtidende: BEK nr. 20 af 11/01/2024 (i kraft 15/1/2024)
     andet: 'Udstedt af Erhvervsministeriet; sekretariat og administration: Nævnenes Hus.'
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2024/20
     - https://www.retsinformation.dk/eli/lta/2024/20/pdf
@@ -10518,7 +10543,7 @@ nodes:
     eli: https://www.retsinformation.dk/eli/lta/2017/108
     lovtidende: BEK nr. 108 af 28/01/2017 (i kraft 1/2/2017)
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2017/108
     - https://www.retsinformation.dk/eli/lta/2017/108/pdf
@@ -10609,7 +10634,7 @@ nodes:
     eli: https://www.retsinformation.dk/eli/lta/2025/508
     lovtidende: BEK nr. 508 af 16/05/2025
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/508
     - https://www.retsinformation.dk/eli/lta/2025/508/pdf
@@ -10792,7 +10817,7 @@ nodes:
     andet: '§ 1: PLST varetager administrationen af bl.a. planloven, sommerhus-/campingloven og kolonihaveloven (ifølge Lovguiden også landdistriktsfondsloven).
       Kun /pdf-formen af ELI''en er set.'
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2023/470
     - https://www.retsinformation.dk/eli/lta/2023/470/pdf
@@ -10881,7 +10906,7 @@ nodes:
     eli: https://www.retsinformation.dk/eli/lta/2025/1091
     andet: Udstedt af Klima-, Energi- og Forsyningsministeriet. Verserende ansøgninger behandles efter de gamle regler.
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/1091
     - https://www.retsinformation.dk/eli/lta/2025/1091/pdf
@@ -10980,7 +11005,7 @@ nodes:
     lovtidende: BEK nr. 605 af 29/06/2026
     andet: En af de 19 sammenskrevne bekendtgørelser; sammenskriver hovedbekendtgørelsen fra 2020 og senere ændringer
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2026/605
     - https://www.retsinformation.dk/eli/lta/2026/605/pdf
@@ -11075,7 +11100,7 @@ nodes:
     senere_aendringer:
     - betegnelse: BEK nr 962 af 04/11/2026
       eli: https://www.retsinformation.dk/eli/lta/2026/962
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2024/1170
     - https://www.retsinformation.dk/eli/lta/2024/1170/pdf
@@ -11266,7 +11291,7 @@ nodes:
     senere_aendringer:
     - betegnelse: BEK nr 1928 af 04/10/2021
       eli: https://www.retsinformation.dk/eli/lta/2021/1928
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2016/1672
     - https://www.retsinformation.dk/eli/lta/2016/1672/pdf
@@ -11361,7 +11386,7 @@ nodes:
     andet: I kraft 1/5/2016; ophævede BEK nr. 1666 af 14/12/2006. Retsinformation-udskrift fra dec. 2025 viser den som gældende under Miljø- og
       Ligestillingsministeriet (nu Miljøministeriet). Ingen nyere risikobekendtgørelse fundet.
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2016/372
     - https://retsinformation.dk/api/pdf/179901
@@ -11461,7 +11486,7 @@ nodes:
       af 3/4/2017 (beredskabsloven), ikke en tidligere dimensioneringsbekendtgørelse.'
     lovtidende: BEK nr. 1211 af 13/10/2025, i kraft 15/10/2025
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/1211
     - https://www.retsinformation.dk/eli/lta/2025/1211/pdf
@@ -11574,7 +11599,7 @@ nodes:
     andet: I kraft 1/1/2026; 'Gældende' ved udskrift 8/8/2026 med ministerium Erhvervsministeriet
     eli: https://www.retsinformation.dk/eli/lta/2025/1703
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/1703
     - https://www.retsinformation.dk/api/pdf/254205
@@ -11657,7 +11682,7 @@ nodes:
     andet: 'Forgængere: BEK nr. 945/2022 (Bolig- og Planstyrelsen) og en 2018-bekendtgørelse om Trafik-, Bygge- og Boligstyrelsen (BEK 982/2018
       optræder i søgeresultaterne). Ikke at forveksle med BEK nr. 509 af 16/05/2023 om delegation af social- og boligministerens beføjelser.'
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2023/519
     - https://www.retsinformation.dk/eli/lta/2023/519/pdf
@@ -11751,7 +11776,7 @@ nodes:
     lovtidende: BEK nr. 496 af 21/05/2024 (markeret gældende ved Retsinformation-udskrift 11/1/2026)
     eli: https://www.retsinformation.dk/eli/lta/2024/496
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2024/496
     - https://retsinformation.dk/api/pdf/243016
@@ -11806,7 +11831,7 @@ nodes:
   type: bekendtgørelse
   ministerium: min-boern-aeldre-og-bolig
   status: aktiv
-  domaener:
+  domaener: &id097
   - kritik:byggeri-bolig
   tidligere_navne: []
   hjemmel:
@@ -11859,7 +11884,7 @@ nodes:
     eli: https://www.retsinformation.dk/eli/lta/2025/953
     andet: Ikrafttræden 1/7/2025; ophævede BEK nr 451 af 13/04/2015; ledsagende vejledning VEJ nr 9593 af 27/06/2025
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/953
     - https://www.retsinformation.dk/eli/lta/2025/953/pdf
@@ -12047,7 +12072,7 @@ nodes:
     senere_aendringer:
     - betegnelse: BEK nr 1245 af 17/10/2023
       eli: https://www.retsinformation.dk/eli/lta/2023/1245
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2017/541
     - https://github.com/jakob1379/br18/blob/main/xref-laws.toml
@@ -12160,7 +12185,7 @@ nodes:
       § 3 forbeholder ministeren bl.a. regeludstedelse, og § 4 giver ministeren adgang til at overtage sager. Retsinformation-ELI er ikke set.
     eli: https://www.retsinformation.dk/eli/lta/2024/1566
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2024/1566
     - https://www.lovtidende.dk/api/pdf/247042
@@ -12285,7 +12310,7 @@ nodes:
       for BEK 1446 er ikke set. Vejledning: retsinfo/2020/9568.'
     eli: https://www.retsinformation.dk/eli/lta/2025/1446
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/1446
     - https://mst.dk/media/zoqdhnxr/udkast-til-afgraensningsnotat-spildevandsbekendtgoerelsen.pdf
@@ -12382,7 +12407,7 @@ nodes:
     lovtidende: BEK nr. 2092 af 18/11/2021 (afløste BEK 1065/2017)
     eli: https://www.retsinformation.dk/eli/lta/2021/2092
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2021/2092
     - https://www.retsinformation.dk/eli/lta/2021/2092/pdf
@@ -12470,7 +12495,7 @@ nodes:
       (2026-11-12).
     lovtidende: BEK nr. 895 af 09/10/2026
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2026/895
     - https://www.retsinformation.dk/eli/lta/2025/1206/pdf
@@ -12557,7 +12582,7 @@ nodes:
     eli: https://www.retsinformation.dk/eli/lta/2026/608
     lovtidende: BEK nr. 608 af 29/06/2026
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2026/608
     - https://virk.dk/nye-regler/bekendtgoerelse-om-systematisk-arbejdsmiljoearbejde/
@@ -12663,7 +12688,7 @@ nodes:
     senere_aendringer:
     - betegnelse: BEK nr 1876 af 19/12/2023
       eli: https://www.retsinformation.dk/eli/lta/2023/1876
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2022/428
     - https://www.retsinformation.dk/api/pdf/230269
@@ -12757,7 +12782,7 @@ nodes:
     eli: https://www.retsinformation.dk/eli/lta/2026/595
     lovtidende: BEK nr. 595 af 29/06/2026 (Lovtidende A 30/06/2026)
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2026/595
     sikkerhed: verificeret
@@ -12892,7 +12917,7 @@ nodes:
   type: bekendtgørelse
   ministerium: min-erhverv
   status: aktiv
-  domaener: &id094
+  domaener: &id100
   - arbejdsmiljoe
   tidligere_navne: []
   hjemmel:
@@ -12954,7 +12979,7 @@ nodes:
       eli: https://www.retsinformation.dk/eli/lta/2026/493
     - betegnelse: BEK nr 959 af 04/11/2026
       eli: https://www.retsinformation.dk/eli/lta/2026/959
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     katalog_note: 'Retsinformation markerer BEK nr. 190 af 19/02/2015 som historisk (2026-11-04). Hjemmelsloven, lov nr. 155 af 20/02/2013 om
       indretning m.v. af visse produkter, ophæves 1. januar 2027: BEK nr. 959 af 04/11/2026 sætter § 40 i lov om produkter og markedsovervågning
       (LBK nr. 22 af 08/01/2026) i kraft den dag. Efter lovens § 41 forbliver regler udstedt efter den ophævede lov i kraft, indtil de ophæves
@@ -13076,7 +13101,7 @@ nodes:
     eli: https://www.retsinformation.dk/eli/lta/2017/1433
     lovtidende: BEK nr. 1433 af 21/11/2017
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2017/1433
     - https://www.retsinformation.dk/eli/lta/2017/1433/pdf
@@ -13173,7 +13198,7 @@ nodes:
     lovtidende: BEK nr. 601 af 28/05/2025 (i kraft 1/7/2025)
     eli: https://www.retsinformation.dk/eli/lta/2025/601
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/601
     - https://www.retsinformation.dk/eli/lta/2025/601/pdf
@@ -13368,7 +13393,7 @@ nodes:
       til direktiv 94/33/EF (EFT 1994 L 216 s. 12), senest ændret ved direktiv 2014/27/EU. Retsinformation-ELI for nr. 1713 er ikke set.
     eli: https://www.retsinformation.dk/eli/lta/2025/1713
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/1713
     - https://www.lovtidende.dk/api/pdf/254571
@@ -13469,7 +13494,7 @@ nodes:
     eli: https://www.retsinformation.dk/eli/lta/2025/867
     lovtidende: BEK nr. 867 af 20/06/2025
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/867
     - https://www.retsinformation.dk/eli/lta/2025/867/pdf
@@ -13569,7 +13594,7 @@ nodes:
     andet: Ophævede BEK nr. 1830 af 16/12/2015. Kommunale regulativredegørelser citerer den som gældende grundlag (bl.a. Kolding 2023 og Tønder
       2025). Status på Retsinformation pr. 28/10/2026 er ikke set direkte, og ingen afløser er fundet.
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2016/919
     - https://www.retsinformation.dk/eli/lta/2016/919/pdf
@@ -13662,7 +13687,7 @@ nodes:
       og ophævede bekendtgørelsen om Forsyningssekretariatets virksomhed (Forsyningssekretariatet blev omdøbt til Vandsektortilsynet).
     journalnr: Klima-, Energi- og Forsyningsmin., Energistyrelsen, j.nr. 2023-7486
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2024/792
     - https://www.retsinformation.dk/eli/lta/2024/792/pdf
@@ -13847,7 +13872,7 @@ nodes:
     eli: https://www.retsinformation.dk/eli/lta/2025/845
     lovtidende: BEK nr. 845 af 25/06/2025 (i kraft 1/7/2025; ophævede BEK nr. 1541 af 09/12/2024)
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/845
     - https://www.retsinformation.dk/eli/lta/2025/845/pdf
@@ -13947,7 +13972,7 @@ nodes:
     lovtidende: BEK nr 752 af 30/05/2022
     eli: https://www.retsinformation.dk/eli/lta/2022/752
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2022/752
     - https://www.retsinformation.dk/eli/lta/2016/28/dan/pdf
@@ -14046,7 +14071,7 @@ nodes:
     andet: 'Ændringsbekendtgørelsen 1882/2023 er udstedt af Arbejdstilsynet: eli/lta/2023/1882'
     eli: https://www.retsinformation.dk/eli/lta/2023/1882
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2023/1882
     - https://www.retsinformation.dk/eli/lta/2023/1882/pdf
@@ -14129,7 +14154,7 @@ nodes:
     eli: https://www.retsinformation.dk/eli/lta/2019/923
     lovtidende: BEK nr. 923 af 06/09/2019
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2019/923
     - https://www.retsinformation.dk/eli/lta/2019/923/pdf
@@ -29617,7 +29642,7 @@ nodes:
     senere_aendringer:
     - betegnelse: LOV nr 198 af 25/02/2025 § 7
       eli: https://www.retsinformation.dk/eli/lta/2025/198
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2024/1656
     - https://www.retsinformation.dk/eli/lta/2024/1656/pdf
@@ -29726,7 +29751,7 @@ nodes:
     eli: https://www.retsinformation.dk/eli/lta/2017/136
     lovtidende: LOV nr 136 af 01/02/2017
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2017/136
     - https://www.retsinformation.dk/eli/lta/2017/136/pdf
@@ -29813,7 +29838,7 @@ nodes:
       for at gennemføre AFIR (EU) 2023/1804). Den oprindelige AFI-lov var LOV nr. 1537 af 19/12/2017 (L 27, 2017-18). Efter BEK nr. 787 af 18/06/2025
       udøver Færdselsstyrelsen transportministerens beføjelser efter §§ 11, 12, 12 a, 14, 15, 16, 17 og 18. Der er ikke fundet en nyere LBK.
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2024/1043
     - https://www.retsinformation.dk/eli/lta/2024/1043/pdf
@@ -29915,7 +29940,7 @@ nodes:
     senere_aendringer:
     - betegnelse: LOV nr 724 af 01/09/2026 § 1
       eli: https://www.retsinformation.dk/eli/lta/2026/724
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2026/207
     - https://www.retsinformation.dk/eli/lta/2026/207/pdf
@@ -30045,7 +30070,7 @@ nodes:
       eli: https://www.retsinformation.dk/eli/lta/2026/263
     - betegnelse: LOV nr 724 af 01/09/2026 § 2
       eli: https://www.retsinformation.dk/eli/lta/2026/724
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2019/928
     - https://www.retsinformation.dk/eli/lta/2019/928/pdf
@@ -30143,7 +30168,7 @@ nodes:
       eli: https://www.retsinformation.dk/eli/lta/2024/330
     - betegnelse: LOV nr 1641 af 16/12/2025 § 4
       eli: https://www.retsinformation.dk/eli/lta/2025/1641
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2020/1281
     - https://retsinformation.dk/api/pdf/216034
@@ -30226,7 +30251,7 @@ nodes:
     senere_aendringer:
     - betegnelse: LOV nr 804 af 24/09/2026 § 17
       eli: https://www.retsinformation.dk/eli/lta/2026/804
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2026/442
     - https://github.com/jakob1379/br18/blob/main/xref-laws.toml
@@ -30332,7 +30357,7 @@ nodes:
       fundet.
     eli: https://www.retsinformation.dk/eli/lta/2019/30
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2019/30
     - https://www.retsinformation.dk/eli/lta/2019/30/pdf
@@ -30442,7 +30467,7 @@ nodes:
       by, bolig og landdistrikter; BEK 925/2021 er udstedt af Skatteministeriet.'
     eli: https://www.retsinformation.dk/eli/lta/2019/797
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2019/797
     - https://www.retsinformation.dk/eli/lta/2021/925/pdf
@@ -30538,7 +30563,7 @@ nodes:
     lovtidende: LBK nr. 1741 af 19/12/2025 (Ministeriet for Samfundssikkerhed og Beredskab)
     andet: 'Forrige konsolidering: LBK nr. 314 af 03/04/2017; før det LBK nr. 660 af 10/06/2009.'
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/1741
     - https://github.com/jakob1379/br18/blob/main/xref-laws.toml
@@ -30647,7 +30672,7 @@ nodes:
       og kalder loven 'spildevandsbetalingsloven'. Tidligere LBK 553/2020 og 1775/2021 (historiske) samt LBK 633/2010. Kun PDF-manifestationen
       er set, ikke værks-ELI'en.
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/1243
     - https://www.retsinformation.dk/eli/lta/2025/1243/pdf
@@ -30763,7 +30788,7 @@ nodes:
       eli: https://www.retsinformation.dk/eli/lta/2023/1793
     - betegnelse: LOV nr 719 af 20/06/2025 § 18
       eli: https://www.retsinformation.dk/eli/lta/2025/719
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2022/342
     - https://www.retsinformation.dk/eli/lta/2022/342/pdf
@@ -30959,7 +30984,7 @@ nodes:
     senere_aendringer:
     - betegnelse: LOV nr 1628 af 16/12/2025 § 4
       eli: https://www.retsinformation.dk/eli/lta/2025/1628
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2025/995
     - https://www.retsinformation.dk/api/pdf/250195
@@ -31057,7 +31082,7 @@ nodes:
       eli: https://www.retsinformation.dk/eli/lta/2022/889
     - betegnelse: LOV nr 679 af 03/06/2023 § 27
       eli: https://www.retsinformation.dk/eli/lta/2023/679
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2021/794
     - https://www.lovtidende.dk/api/pdf/222304
@@ -31170,7 +31195,7 @@ nodes:
       eli: https://www.retsinformation.dk/eli/lta/2023/1560
     - betegnelse: LOV nr 412 af 23/04/2024 § 2
       eli: https://www.retsinformation.dk/eli/lta/2024/412
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2016/1178
     - https://github.com/jakob1379/br18/blob/main/xref-laws.toml
@@ -31280,7 +31305,7 @@ nodes:
     eli: https://www.retsinformation.dk/eli/lta/2018/219
     lovtidende: LBK nr. 219 af 06/03/2018 (citeret som hjemmel i BEK 1565/2024)
     senere_aendringer: []
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2018/219
     - https://github.com/jakob1379/br18/blob/main/xref-laws.toml
@@ -31480,7 +31505,7 @@ nodes:
     senere_aendringer:
     - betegnelse: LOV nr 468 af 14/05/2025 § 23
       eli: https://www.retsinformation.dk/eli/lta/2025/468
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2023/1767
     - https://www.retsinformation.dk/eli/lta/2023/1767/pdf
@@ -31567,7 +31592,7 @@ nodes:
     senere_aendringer:
     - betegnelse: LOV nr 697 af 24/05/2022 § 2
       eli: https://www.retsinformation.dk/eli/lta/2022/697
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2017/390
     - https://www.retsinformation.dk/eli/lta/2017/390/pdf
@@ -31651,7 +31676,7 @@ nodes:
     senere_aendringer:
     - betegnelse: LOV nr 431 af 06/05/2025 § 23
       eli: https://www.retsinformation.dk/eli/lta/2025/431
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2021/2166
     - https://www.retsinformation.dk/eli/lta/2021/2166/pdf
@@ -31759,7 +31784,7 @@ nodes:
       eli: https://www.retsinformation.dk/eli/lta/2025/468
     - betegnelse: LOV nr 736 af 20/06/2025 § 1
       eli: https://www.retsinformation.dk/eli/lta/2025/736
-    aendringer_kontrolleret: '2026-11-12'
+    aendringer_kontrolleret: '2026-11-13'
     kilder:
     - https://www.retsinformation.dk/eli/lta/2024/1036
     - https://www.retsinformation.dk/eli/lta/2024/1036/pdf
@@ -66147,7 +66172,7 @@ nodes:
   type: bekendtgørelse
   ministerium: min-by-land-og-transport
   status: aktiv
-  domaener:
+  domaener: &id098
   - transport
   tidligere_navne: []
   hjemmel:
@@ -84808,9 +84833,10 @@ edges:
   beskrivelse: 'Delegationsgrundlag: § 12 i BEK nr. 519 af 16/05/2023 om SBST''s opgaver og beføjelser samt klageadgang på bolig- og byggeområdet
     (gengivet i søgeopsummering af præamblen).'
   kilder:
+  - https://www.retsinformation.dk/eli/lta/2025/1832
   - https://www.lovguiden.dk/loven/bekendtgørelse-om-markedsføring-og-markedsovervågning-af-byggevarer/1
   - https://www.retsinformation.dk/eli/lta/2025/1831/pdf
-  sikkerhed: sandsynlig
+  sikkerhed: verificeret
   domaener:
   - byggeri
 - type: hjemmel_for
@@ -84819,8 +84845,9 @@ edges:
   beskrivelse: BEK 1831/2025 er også udstedt efter § 12 i bekendtgørelse nr. 519 af 2023 om Social- og Boligstyrelsens opgaver og beføjelser.
     Forudsætter, at noden bek-sbst-opgaver dækker BEK 519/2023 (ikke efterprøvet).
   kilder:
+  - https://www.retsinformation.dk/eli/lta/2025/1831
   - https://www.retsinformation.dk/eli/lta/2025/1831/pdf
-  sikkerhed: sandsynlig
+  sikkerhed: verificeret
   domaener:
   - datakilder-standarder
 - type: hjemmel_for
@@ -87680,23 +87707,6 @@ edges:
   - klage-tilsyn-praksis
   - kommunalt
   - miljoe
-  - plan
-- type: hjemmel_for
-  from: lov-planloven
-  to: bek-habitat
-  beskrivelse: 'Habitatbekendtgørelsen fra 2016 (BEK 926/2016) angav planlovens § 3, stk. 3 blandt sine hjemler (også i et udkast fra 2017); om
-    den gældende habitatbekendtgørelse (BEK 1098/2023 med ændringer) gør det samme, er ikke set [BESTRIDT af completeness-kritiker: Planlovens
-    regler om administration i og ved internationale naturbeskyttelsesområder blev taget ud af den generelle habitatbekendtgørelse ved ressortomlægningen
-    i 2015-16. I stedet kom en særskilt bekendtgørelse (BEK 1383/2016, hjemmel planloven § 3, stk. 1 og 3), som ifølge Planklagenævnets oversig]'
-  kilder:
-  - https://ft.dk/samling/20171/almdel/MOF/bilag/618/1929534.pdf
-  - https://www.retsinformation.dk/api/pdf/182030
-  - https://ft.dk/samling/20151/almdel/ERU/bilag/346/1656567.pdf
-  - https://www.retsinformation.dk/eli/lta/2016/1383/pdf
-  - https://naevneneshus.dk/media/wvcimu0w/nomo-oversigt-pkn.pdf
-  sikkerhed: sandsynlig
-  domaener:
-  - eu
   - plan
 - type: hjemmel_for
   from: lov-planloven
@@ -103273,10 +103283,11 @@ edges:
 - type: hjemmel_for
   from: lov-ejendomsformidling
   to: bek-bygningssagkyndige-naevn
-  beskrivelse: Retsinformation fører den første som lovgivning, den anden vedrører.
+  beskrivelse: Retsinformation fører den første som lovgivning, den anden vedrører. Loven er ikke genfundet blandt de dokumenter, forskriftens
+    præambel citerer som hjemmel (den kan være citeret i en version, kataloget ikke kobler til den gældende).
   kilder:
   - https://www.retsinformation.dk/eli/lta/2021/510
-  sikkerhed: verificeret
+  sikkerhed: sandsynlig
   domaener: *id069
 - type: implementerer_EU
   from: lov-selskabsloven
@@ -104481,10 +104492,11 @@ edges:
 - type: hjemmel_for
   from: lov-produktloven
   to: bek-personlige-vaernemidler-indretning
-  beskrivelse: Retsinformation fører den første som lovgivning, den anden vedrører.
+  beskrivelse: Retsinformation fører den første som lovgivning, den anden vedrører. Loven er ikke genfundet blandt de dokumenter, forskriftens
+    præambel citerer som hjemmel (den kan være citeret i en version, kataloget ikke kobler til den gældende).
   kilder:
   - https://www.retsinformation.dk/eli/lta/2018/210
-  sikkerhed: verificeret
+  sikkerhed: sandsynlig
   domaener: *id082
 - type: hjemmel_for
   from: lov-andelsboligloven
@@ -104678,6 +104690,54 @@ edges:
   - https://www.retsinformation.dk/eli/lta/2026/676
   sikkerhed: verificeret
   domaener: *id092
+- type: hjemmel_for
+  from: bek-sbst-opgaver
+  to: bek-almen-stoette
+  beskrivelse: Forskriftens præambel nævner § 2 som hjemmel.
+  kilder:
+  - https://www.retsinformation.dk/eli/lta/2026/735
+  sikkerhed: verificeret
+  domaener: *id093
+- type: hjemmel_for
+  from: bek-sbst-opgaver
+  to: bek-almen-udlejning
+  beskrivelse: Forskriftens præambel nævner § 8, stk. 1 som hjemmel.
+  kilder:
+  - https://www.retsinformation.dk/eli/lta/2024/977
+  sikkerhed: verificeret
+  domaener: *id094
+- type: hjemmel_for
+  from: bek-sbst-opgaver
+  to: bek-byggesagsgebyr
+  beskrivelse: Forskriftens præambel nævner § 12 som hjemmel.
+  kilder:
+  - https://www.retsinformation.dk/eli/lta/2025/1455
+  sikkerhed: verificeret
+  domaener: *id095
+- type: hjemmel_for
+  from: bek-sbst-opgaver
+  to: bek-friplejeboliger-etablering
+  beskrivelse: Forskriftens præambel nævner § 3 som hjemmel.
+  kilder:
+  - https://www.retsinformation.dk/eli/lta/2025/611
+  sikkerhed: verificeret
+  domaener: *id096
+- type: hjemmel_for
+  from: bek-sbst-opgaver
+  to: bek-sideaktiviteter-almene
+  beskrivelse: Forskriftens præambel nævner § 2, stk. 1 som hjemmel.
+  kilder:
+  - https://www.retsinformation.dk/eli/lta/2025/953
+  sikkerhed: verificeret
+  domaener: *id097
+- type: hjemmel_for
+  from: bek-faerdselsstyrelsen-opgaver
+  to: bek-farligt-gods-vejtransport
+  beskrivelse: Forskriftens præambel nævner § 3, stk. 1, § 7 som hjemmel.
+  kilder:
+  - https://www.retsinformation.dk/eli/lta/2025/915
+  sikkerhed: verificeret
+  domaener: *id098
 huller:
 - emne: Kommercielle branchevejledninger (SBi/BUILD, DBI, Molio) bag betalingsmur
   type: betalingsmur
@@ -108802,16 +108862,19 @@ huller:
   - datakilder-standarder
   oprindelige_emner:
   - Dokumenter udstedt efter 2026-02-12 mangler i katalog-laget
-- emne: hjemmel_for i kataloget er Retsinformations kobling på dokumentniveau; præambel og EU-noter er ikke læst
+- emne: hjemmel_for i kataloget er Retsinformations kobling på dokumentniveau; præambel og EU-noter er kun læst for tekstlagets udsnit
   type: uklart
   beskrivelse: Seed-filerne har kun paragraftekst, ikke præamblen ("I medfør af § … i lov om …"), underskrift eller EU-noten. hjemmel_for-kanterne
     i kataloget kommer derfor fra Retsinformations søgeeksport (feltet HjemmelVedroerer, det samme som 'Lovgivning forskriften vedrører' på dokumentets
-    side), ikke fra en læsning af præamblen. Feltet peger på den version af loven, forskriften henviser til, kan også nævne ændringslove og andre
-    forskrifter og har ingen paragraf. 6.166 af 6.502 gældende danske forskrifter (95 %) har mindst én hjemmel_for-kant, heraf 299 kun til dokumenter
-    uden for Lovtidende A (297 af dem tekstanmærkninger til finansloven); resten har et tomt felt eller peger på dokumenter uden for kataloget.
-    implementerer_EU findes stadig kun, hvor bulk-teksten nævner direktivet, eller hvor Retsinformation fører relationen for en registry-node.
-    Til sammenligning ramte den mest nævnte lov i teksten kun hjemmelsloven i 34 af 113 kendte tilfælde og er ikke brugt. Præamblens paragrafhenvisning
-    og EU-noten kan hentes fra Retsinformations ELI-XML.
+    side), ikke fra en læsning af præamblen. Feltet peger på den version af loven, Retsinformation fører forskriften under (for 53.592 af 88.181
+    kanter udstedt senere end forskriften selv, så det er ikke den version, forskriften citerer), kan også nævne ændringslove og andre forskrifter
+    og har ingen paragraf. 6.166 af 6.502 gældende danske forskrifter (95 %) har mindst én hjemmel_for-kant, heraf 299 kun til dokumenter uden
+    for Lovtidende A (297 af dem tekstanmærkninger til finansloven); resten har et tomt felt eller peger på dokumenter uden for kataloget. implementerer_EU
+    findes stadig kun, hvor bulk-teksten nævner direktivet, eller hvor Retsinformation fører relationen for en registry-node. Til sammenligning
+    ramte den mest nævnte lov i teksten kun hjemmelsloven i 34 af 113 kendte tilfælde og er ikke brugt. Fra 2026-11-13 hentes XML for tekstlagets
+    udsnit (pipeline/corpus/tekst.py), og for de forskrifter står præamblens bestemmelser på kanten (from_bestemmelse, citeret_version). EU-noten
+    og Meta-feltet EuReferences ligger i katalog/tekst.jsonl, men er ikke omsat til implementerer_EU-kanter. Uden for udsnittet er præamblen ikke
+    læst.
   noder:
   - kilde-danish-law-mcp
   - kilde-retsinformation
@@ -110698,7 +110761,7 @@ huller:
   - bek-maskiner
   kilder:
   - https://www.retsinformation.dk/eli/lta/2026/961
-  domaener: *id093
+  domaener: *id099
 - emne: 'Trykbærende udstyr: bekendtgørelsens status efter 1. januar 2027'
   type: uklart
   beskrivelse: Retsinformation markerer BEK nr. 190 af 19/02/2015 om indretning m.v. af trykbærende udstyr som historisk (2026-11-04). Hjemmelsloven
@@ -110710,4 +110773,19 @@ huller:
   kilder:
   - https://www.retsinformation.dk/eli/lta/2026/959
   - https://www.retsinformation.dk/eli/lta/2026/22
-  domaener: *id094
+  domaener: *id100
+- emne: Planhabitatbekendtgørelsen (BEK nr. 1383 af 26/11/2016) er ikke en node
+  type: andet
+  beskrivelse: 'Bekendtgørelse om administration af planloven i forbindelse med internationale naturbeskyttelsesområder samt beskyttelse af visse
+    arter (BEK nr. 1383 af 26/11/2016) er gældende ifølge Retsinformation og ført under planloven; kataloget har den som lta-2016-1383. Det er
+    den, ikke habitatbekendtgørelsen (BEK nr. 1098 af 21/08/2023), der bærer planlovens habitatregler: habitatbekendtgørelsens præambel nævner
+    ikke planloven. Bekendtgørelsens egen tekst er ikke læst.'
+  noder:
+  - bek-habitat
+  - lov-planloven
+  kilder:
+  - https://www.retsinformation.dk/eli/lta/2016/1383
+  - https://www.retsinformation.dk/eli/lta/2023/1098
+  domaener: *id080
+  oprindelige_emner:
+  - Planhabitatbekendtgørelsen (BEK nr. 1383 af 26/11/2016) er ikke en node

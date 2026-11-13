@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 69 · kanter: 125
+Noder: 69 · kanter: 124
 
 ```mermaid
 flowchart LR
@@ -125,7 +125,6 @@ flowchart LR
     lov_naturbeskyttelsesloven -.->|hjemmel_for| sty_groen_arealomlaegning_og_vandmiljoe
     lov_naturbeskyttelsesloven -->|hjemmel_for| sty_kystdirektoratet
     lov_naturbeskyttelsesloven -->|hjemmel_for| sty_miljoestyrelsen
-    lov_planloven -.->|hjemmel_for| bek_habitat
     lov_raastofloven -->|hjemmel_for| bek_habitat
     lov_skovloven -->|hjemmel_for| bek_habitat
     lov_skovloven -->|hjemmel_for| plan_natura2000_planer

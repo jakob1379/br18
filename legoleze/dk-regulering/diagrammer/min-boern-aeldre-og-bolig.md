@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 104 · kanter: 227
+Noder: 104 · kanter: 232
 
 ```mermaid
 flowchart LR
@@ -183,8 +183,8 @@ flowchart LR
     bek_byggevarer_cpr2024 -.->|hjemmel_for| sty_erhvervsstyrelsen
     bek_certificering -->|hjemmel_for| org_certificeringsorganer
     bek_danak_byggevarer -->|hjemmel_for| fond_danak
-    bek_sbst_opgaver -.->|hjemmel_for| bek_byggevarer_cpr2011
-    bek_sbst_opgaver -.->|hjemmel_for| bek_byggevarer_cpr2024
+    bek_sbst_opgaver -->|hjemmel_for| bek_byggevarer_cpr2011
+    bek_sbst_opgaver -->|hjemmel_for| bek_byggevarer_cpr2024
     bek_sbst_opgaver -->|hjemmel_for| bek_certificering
     bek_sbst_opgaver -->|hjemmel_for| bek_danak_byggevarer
     bek_sbst_opgaver -->|hjemmel_for| sty_social_og_boligstyrelsen
@@ -345,6 +345,11 @@ flowchart LR
     lov_byfornyelsesloven -->|hjemmel_for| bek_sbst_opgaver
     lov_byfornyelsesloven -->|hjemmel_for| vejl_satsvejledning_leje_almen
     lov_lejeloven -->|hjemmel_for| vejl_satsvejledning_leje_almen
+    bek_sbst_opgaver -->|hjemmel_for| bek_almen_stoette
+    bek_sbst_opgaver -->|hjemmel_for| bek_almen_udlejning
+    bek_sbst_opgaver -->|hjemmel_for| bek_byggesagsgebyr
+    bek_sbst_opgaver -->|hjemmel_for| bek_friplejeboliger_etablering
+    bek_sbst_opgaver -->|hjemmel_for| bek_sideaktiviteter_almene
 ```
 
 [← Overblik](oversigt.md)

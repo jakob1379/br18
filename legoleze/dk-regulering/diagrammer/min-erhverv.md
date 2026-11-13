@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 227 · kanter: 379
+Noder: 228 · kanter: 380
 
 ```mermaid
 flowchart LR
@@ -175,6 +175,7 @@ flowchart LR
     bek_elanlaeg["Bekendtgørelse om sikkerhed for udførelse af elektriske anlæg (elanlægsbekendtgørelsen)"]:::retsakt
     bek_elinstallationer["Bekendtgørelse om sikkerhed for udførelse og drift af elektriske installationer (elinstallationsbekendtgørelsen)"]:::retsakt
     bek_maskinforordning_supplerende["Bekendtgørelse om supplerende bestemmelser til maskinforordningen"]:::retsakt
+    bek_farligt_gods_vejtransport["Bekendtgørelse om vejtransport af farligt gods (BEK nr. 915 af 2025)"]:::retsakt
     lov_designloven["Designloven"]:::retsakt
     plan_fingerplan_2019["Fingerplan 2019 – Landsplandirektiv for hovedstadsområdets planlægning (BEK nr. 312/2019)"]:::retsakt
     bek_fyrvaerkeri["Fyrværkeribekendtgørelsen (bekendtgørelse om indførsel, fremstilling, opbevaring, overdragelse, erhvervelse og anvendelse af fyrværkeri og andre pyrotekniske artikler), BEK nr. 1798 af 09/09/2021"]:::retsakt
@@ -608,7 +609,7 @@ flowchart LR
     lov_forbrugerklageloven -->|hjemmel_for| bek_gebyrer_godkendte_private_ankenaevn
     lov_forbrugerklageloven -->|hjemmel_for| bek_godkendelse_private_tvistloesningsorganer
     lov_revisorloven -->|implementerer_EU| eu_dir_2005_36
-    lov_ejendomsformidling -->|hjemmel_for| bek_bygningssagkyndige_naevn
+    lov_ejendomsformidling -.->|hjemmel_for| bek_bygningssagkyndige_naevn
     lov_selskabsloven -->|implementerer_EU| eu_dir_2015_849
     lov_beskikkede_bygningssagkyndige -->|implementerer_EU| eu_dir_2005_36
     min_erhverv -.->|ressortansvar| naevn_teleklagenaevnet
@@ -617,9 +618,10 @@ flowchart LR
     naevn_teleklagenaevnet -->|klageinstans| sty_erhvervsstyrelsen
     naevn_teleklagenaevnet -.->|udsteder| kilde_teleklagenaevn_afgoerelser
     sty_naevnenes_hus -.->|tilsyn| naevn_teleankenaevnet
-    lov_produktloven -->|hjemmel_for| bek_personlige_vaernemidler_indretning
+    lov_produktloven -.->|hjemmel_for| bek_personlige_vaernemidler_indretning
     bek_risiko -->|implementerer_EU| eu_dir_2012_18
     bek_faerdselsstyrelsen_opgaver -->|hjemmel_for| sty_faerdselsstyrelsen
+    bek_faerdselsstyrelsen_opgaver -->|hjemmel_for| bek_farligt_gods_vejtransport
 ```
 
 [← Overblik](oversigt.md)

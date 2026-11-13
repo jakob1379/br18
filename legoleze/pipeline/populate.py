@@ -23,6 +23,7 @@ og baerer-ikke til ukendt. Kør scripts/build.py bagefter.
 """
 from __future__ import annotations
 
+import collections
 import copy
 import datetime
 import fcntl
@@ -90,14 +91,21 @@ FASE7 = ("Fase 7 (fra 2026-11-11): Instanslag uden for de otte domæner. Én res
          "regeringsdannelsen: dokumentet er udstedt efter den, eller ministeriet fik sit navn ved den (feltet på ældre dokumenter er ikke "
          "altid ført ajour). populate.py ajour slår alle aktive retsakter op hos Retsinformation og skriver gældende version, nummer, dato og "
          "senere ændringer samt de hjemmel_for- og implementerer_EU-kanter, Retsinformation selv fører mellem registry'ets noder; en retsakt uden "
-         "adresse på Retsinformation slås op på det dokument, dens katalog_id peger på.")
+         "adresse på Retsinformation slås op på det dokument, dens katalog_id peger på. Fra 2026-11-13 læser ajour også præamblen i hver forskrift: "
+         "en lov eller bekendtgørelse, præamblen nævner som hjemmel, og som er en node, får en hjemmel_for-kant (verificeret, med bestemmelserne i "
+         "beskrivelsen). En hjemmel_for-kant fra en node, præamblen ikke nævner (heller ikke i en version fra lovens tidslinje hos Retsinformation), "
+         "noteres i journalen; hviler den kun på Retsinformations relation 'lovgivning, forskriften vedrører', bliver den sandsynlig.")
 RI = "https://www.retsinformation.dk"
 KAT = REG.parent / "katalog"
 SITEMAP = ROOT / "intermediate" / "corpus" / "retsinformation_sitemap.jsonl"
+UDEN_FOR = ("Retsinformation fører den første som lovgivning, den anden vedrører. Loven er ikke genfundet blandt de dokumenter, forskriftens præambel citerer "
+            "som hjemmel (den kan være citeret i en version, kataloget ikke kobler til den gældende).")
 SENERE, LOVGIVNING, IMPLEMENTERER = "Senere ændringer til forskriften", "Lovgivning forskriften vedrører", "Forskrifter, som implementerer EU direktiv "
 UA = "Mozilla/5.0 (compatible; registry-citatkontrol)"
 CACHE = Path(os.environ.get("TMPDIR", "/tmp")) / "legoleze-citatkontrol"
 OK = 0.6
+LISTE = re.compile(r"(§(?:\s|§|\d+|[a-zæøåA-ZÆØÅ]\b|stk\.|nr\.|pkt\.|litra|og|samt|[,.\-–])+?),?\s+(?:i\s+(?=[a-zæøåA-ZÆØÅ])|jf\.\s+(?=lov))")
+CITAT = re.compile(r"\b(?:lovbekendtgørelse|lov|bekendtgørelse|anordning)(?: nr\.?)? (\d+)\.? af \d+\. \w+,? (\d{4})")
 
 
 def site(url: str) -> str:
@@ -350,6 +358,35 @@ def henvisninger(meta: dict) -> dict:
     return {g["header"]: g.get("references") or [] for g in grupper if g.get("header")}
 
 
+def praeambel(xml: str) -> str:
+    """Indledningen i et dokuments XML ("I medfør af …") uden fodnoter og på én linje; tom, hvis dokumentet ingen har."""
+    led = re.findall(r"(?s)<Indledning\b[^>]*>(.*?)</Indledning>", re.sub(r"(?s)<Nota\b.*?</Nota>", "", xml))
+    return re.sub(r" ([,.;:])", r"\1", " ".join(html.unescape(re.sub(r"<[^>]+>", " ", " ".join(led))).split()))
+
+
+def praeambelhjemmel(praeambel: str) -> list[tuple[str, list[str]]]:
+    """[(katalog-id for det citerede dokument, bestemmelser)] fra en præambel "I medfør af § … i lov …, jf. lovbekendtgørelse nr. … af …,
+    fastsættes efter bemyndigelse i henhold til § … i bekendtgørelse nr. … af …". En liste af bestemmelser hører til det første dokument,
+    der citeres med nummer og dato efter den. Efter "som ændret ved …" og "med de ændringer, der følger af …" nævnes ændringslove, ikke
+    hjemmel: dér springes lister over, indtil en lov igen nævnes ved navn eller med nummer, dato og titel ("lov nr. … af … om …")."""
+    ud = []
+    for del_ in re.split(r"\b(?:fastsættes|bestemmes)\b", praeambel, maxsplit=1):
+        slut, aendring = 0, False
+        for m in LISTE.finditer(del_):
+            if m.start() < slut:
+                continue
+            aendring = aendring or "ændr" in del_[slut:m.start()]
+            c, naeste = CITAT.search(del_, m.end()), LISTE.search(del_, m.end())
+            if not c or (naeste and c.start() > naeste.start()):
+                continue
+            slut = c.end()
+            if c.start() > m.end() or re.match(r" om (?!ændring)", del_[c.end():]):
+                aendring = False
+            if not aendring:
+                ud.append((f"lta-{c[2]}-{c[1]}", [re.sub(r"(?:,|\s|\bog\b|\bsamt\b)+$", "", "§" + b).strip() for b in m[1].split("§")[1:] if b.strip()]))
+    return ud
+
+
 def afloeser(meta: dict) -> dict:
     """Metadata (plus eli) for den gældende version af et historisk dokument; ellers tom. For en hovedlov eller lovbekendtgørelse er det den
     nyeste gældende i tidslinjen, for andre dokumenter (bekendtgørelse, vejledning, cirkulære) det gældende dokument med samme titel blandt dem,
@@ -594,15 +631,20 @@ def hent(f: dict) -> dict:
     return pages
 
 
-def ajour(reg: dict, kataloget: frozenset = frozenset()) -> list:
+def ajour(reg: dict, kataloget: dict | frozenset = frozenset()) -> list:
     """Slå hver aktiv retsakt op hos Retsinformation. Historiske versioner flyttes til den gældende; nummer, dato, dokumenttype og senere
     ændringer skrives fra kilden; og de ressortansvar-, hjemmel_for- og implementerer_EU-kanter, Retsinformation selv fører mellem
     registry'ets noder, bekræftes eller tilføjes. En node, hvis navn ikke svarer til det dokument, den peger på, røres ikke (titel_afviger).
     Har noden i forvejen en lovtidende-tekst om samme dokument, beholdes teksten og dens sikkerhed; ellers skrives betegnelsen fra kilden.
     Står det gældende dokument i kataloget (kataloget: dets id'er), peger nodens katalog_id på det. En node uden adresse på Retsinformation
     slås op på det dokument, dens katalog_id peger på.
+    Er kataloget {id: lovfamilie}, læses også præamblen i hver forskrift: en lov eller bekendtgørelse, præamblen nævner som hjemmel, og
+    som er en node (samme lovfamilie som nodens katalog_id), får en hjemmel_for-kant, eller kanten bekræftes. En hjemmel_for-kant til
+    forskriften fra en node, hvis lovfamilie præamblen ikke nævner, prøves mod lovens tidslinje hos Retsinformation: citerer præamblen en
+    version derfra, bekræftes kanten. Ellers står den i journalen med ikke_i_praeamblen; hviler den kun på Retsinformations relation,
+    bliver den sandsynlig med beskrivelsen UDEN_FOR, ellers røres den ikke.
     Returnér journalen over noder og berørte kanter."""
-    journal, ri_min, node_af, relationer = [], {}, {}, []
+    journal, ri_min, node_af, relationer, citeret, opslag = [], {}, {}, [], {}, {}
     for n in reg["nodes"]:
         if n["type"] not in RI_TYPES or n["status"] != "aktiv":
             continue
@@ -623,7 +665,7 @@ def ajour(reg: dict, kataloget: frozenset = frozenset()) -> list:
             continue
         ny = afloeser(meta)
         nu, nu_eli = ny or meta, ny.get("eli", eli)
-        ri_min[n["id"]] = (ressort(nu, reg), nu_eli)
+        ri_min[n["id"]], opslag[n["id"]] = (ressort(nu, reg), nu_eli), nu
         if node_af.setdefault(nu_eli, n["id"]) != n["id"]:
             j["samme_dokument_som"] = node_af[nu_eli]
         gammel = str(ids.get("lovtidende") or "")
@@ -639,6 +681,8 @@ def ajour(reg: dict, kataloget: frozenset = frozenset()) -> list:
             relationer += [(nu_eli, "hjemmel_for", RI + r["eliPath"], nu_eli) for hd, refs in h.items() if hd.startswith("Alle ") and " til denne " in hd for r in refs]
             relationer += [(nu_eli, "implementerer_EU", hd[len(IMPLEMENTERER):].strip(), nu_eli) for hd, refs in h.items()
                            if hd.startswith(IMPLEMENTERER) and any(str(r.get("id")) == nu.get("UniqueDocumentId") for r in refs)]
+        if n["type"] != "lov" and isinstance(kataloget, dict):
+            citeret[n["id"]] = (nu_eli, praeambelhjemmel(praeambel(get(nu_eli)[1].decode("utf-8", "replace"))))
         aendring = "Æ" in meta.get("DocumentType", "").split("#")[0].split()[1:]
         if ny:
             j["flyttet_til"] = f"{betegnelse(ny)} {ny.get('DocumentTitle')}"
@@ -673,19 +717,45 @@ def ajour(reg: dict, kataloget: frozenset = frozenset()) -> list:
     domaener = {n["id"]: n.get("domaener", []) for n in reg["nodes"]}
     tekst = {"hjemmel_for": "Retsinformation fører den første som lovgivning, den anden vedrører.",
              "implementerer_EU": "Retsinformation fører forskriften blandt dem, der implementerer direktivet."}
-    for a, typ, b, kilde in dict.fromkeys(relationer):
-        fra, til = node_af.get(a), node_af.get(b)
-        if not fra or not til or fra == til:
-            continue
+
+    def skriv(fra: str, typ: str, til: str, kilde: str, beskrivelse: str, **ekstra) -> None:
         e, hvor = kanter.get((fra, typ, til)), f"kant {fra}|{typ}|{til}"
         if e is None:
-            kanter[fra, typ, til] = {"type": typ, "from": fra, "to": til, "beskrivelse": tekst[typ], "kilder": [kilde], "sikkerhed": "verificeret",
+            kanter[fra, typ, til] = {"type": typ, "from": fra, "to": til, "beskrivelse": beskrivelse, "kilder": [kilde], "sikkerhed": "verificeret",
                                      "domaener": domaener[til if typ == "hjemmel_for" else fra]}
             reg["edges"].append(kanter[fra, typ, til])
-            journal.append({"hvor": hvor, "ny": True})
-        elif e["sikkerhed"] != "verificeret":
-            journal.append({"hvor": hvor, "opgraderet_fra": e["sikkerhed"]})
+            journal.append({"hvor": hvor, "ny": True, **ekstra})
+        elif e["sikkerhed"] != "verificeret" and e.get("beskrivelse") != UDEN_FOR:
+            journal.append({"hvor": hvor, "opgraderet_fra": e["sikkerhed"], **ekstra})
             e["sikkerhed"], e["kilder"] = "verificeret", list(dict.fromkeys([kilde, *e["kilder"]]))
+
+    for a, typ, b, kilde in dict.fromkeys(relationer):
+        fra, til = node_af.get(a), node_af.get(b)
+        if fra and til and fra != til:
+            skriv(fra, typ, til, kilde, tekst[typ])
+    familie = kataloget if isinstance(kataloget, dict) else {}
+    i_familie = {familie[n["katalog_id"]]: n["id"] for n in reg["nodes"] if n.get("status") == "aktiv" and n.get("katalog_id") in familie}
+    kid = {n["id"]: n.get("katalog_id") for n in reg["nodes"]}
+    for til, (kilde, henvist) in citeret.items():
+        nævnt = {familie.get(c) for c, _ in henvist}
+        for e in [e for e in reg["edges"] if henvist and e["type"] == "hjemmel_for" and e["to"] == til and kid.get(e["from"]) in familie]:
+            if familie[kid[e["from"]]] in nævnt:
+                continue
+            versioner = {"-".join(str(d.get("href")).split("/")[-3:]) for d in tidslinje(opslag.get(e["from"], {}))}
+            i_tidslinjen = list(dict.fromkeys(b for c, bs in henvist if c in versioner for b in bs))
+            if i_tidslinjen:
+                e["beskrivelse"] = tekst["hjemmel_for"] if e.get("beskrivelse") == UDEN_FOR else e.get("beskrivelse")
+                skriv(e["from"], "hjemmel_for", til, kilde, "", praeambel=i_tidslinjen)
+                continue
+            journal.append({"hvor": "kant " + "|".join((e["from"], e["type"], til)), "ikke_i_praeamblen": sorted(c for c, _ in henvist)})
+            if e.get("beskrivelse") == tekst["hjemmel_for"]:
+                e["beskrivelse"], e["sikkerhed"], journal[-1]["nedgraderet_fra"] = UDEN_FOR, "sandsynlig", e["sikkerhed"]
+        bestemmelser = collections.defaultdict(list)
+        for c, b in henvist:
+            if i_familie.get(familie.get(c), til) != til:
+                bestemmelser[i_familie[familie[c]]] += b
+        for fra, b in bestemmelser.items():
+            skriv(fra, "hjemmel_for", til, kilde, f"Forskriftens præambel nævner {', '.join(dict.fromkeys(b))} som hjemmel.", praeambel=list(dict.fromkeys(b)))
     return journal
 
 
@@ -862,6 +932,41 @@ def selftest() -> None:
                    "identifikatorer": {"lovtidende": "LBK nr. 9 af 01/09/2026 med senere ændringer", "kilder": [], "sikkerhed": "sandsynlig"}}
     assert ajour({"nodes": [kun_katalog], "edges": []})[0]["status"] == "Valid" and kun_katalog["identifikatorer"]["eli"] == RI + "/eli/lta/2026/9"
     assert kun_katalog["identifikatorer"]["lovtidende"] == "LBK nr. 9 af 01/09/2026 med senere ændringer" and kun_katalog["identifikatorer"]["sikkerhed"] == "sandsynlig"
+    indl = ("<Indledning><Char>I medfør af § 5, stk. 2, i sundhedsloven,</Char><Nota><Char>1) Note.</Char></Nota><Char>jf. lovbekendtgørelse nr. 7 af 1. juli 2025, "
+            "og § 3 i lov nr. 44 af 1. april 2020 om pærer fastsættes:</Char></Indledning></Dokument>")
+    assert praeambel(indl) == "I medfør af § 5, stk. 2, i sundhedsloven, jf. lovbekendtgørelse nr. 7 af 1. juli 2025, og § 3 i lov nr. 44 af 1. april 2020 om pærer fastsættes:"
+    assert praeambelhjemmel(praeambel(indl)) == [("lta-2025-7", ["§ 5, stk. 2"]), ("lta-2020-44", ["§ 3"])] and praeambel("<Dokument/>") == ""
+    pr = ("I medfør af § 9, stk. 3, § 16 C, § 22, og § 30, stk. 2, i vandsektorloven, jf. lovbekendtgørelse nr. 1693 af 16. august 2021, som ændret ved § 1 i lov nr. 668 "
+          "af 11. juni 2024 og § 2 i lov nr. 7 af 1. januar 2025, § 3 i lov om fremme af energibesparelser i bygninger, jf. lovbekendtgørelse 1923 af 8. oktober 2021, "
+          "og § 5, stk. 1, nr. 2, stk. 2 og 3, og § 6 i lov nr. 61 af 30. januar 2018 om gas fastsættes efter bemyndigelse i henhold til § 4, stk. 1, i bekendtgørelse "
+          "nr. 1366 af 28. september 2022 om Energistyrelsens opgaver og beføjelser:")
+    assert praeambelhjemmel(pr) == [("lta-2021-1693", ["§ 9, stk. 3", "§ 16 C", "§ 22", "§ 30, stk. 2"]), ("lta-2021-1923", ["§ 3"]),
+                                    ("lta-2018-61", ["§ 5, stk. 1, nr. 2, stk. 2 og 3", "§ 6"]), ("lta-2022-1366", ["§ 4, stk. 1"])]
+    assert praeambelhjemmel("I medfør af § 22, stk. 2, i lov nr. 1715 af 27. december 2016 om æblenævnet, som ændret ved lov nr. 640 af 11. juni 2024 og § 4 i lov nr. 9 af 2. maj "
+                            "2025, § 9, stk. 2, i lov nr. 1658 af 20. december 2016 om pærenævnet, og patentlovens § 7, stk. 2 og 4, jf. lovbekendtgørelse nr. 91 af 28. januar "
+                            "2009, fastsættes efter bemyndigelse i henhold til § 31 D, stk. 1:") == [("lta-2016-1715", ["§ 22, stk. 2"]), ("lta-2016-1658", ["§ 9, stk. 2"]),
+                                                                                                      ("lta-2009-91", ["§ 7, stk. 2 og 4"])]
+    assert praeambelhjemmel("Herved bekendtgøres lov om æbler, jf. lovbekendtgørelse nr. 1 af 1. januar 2020, med de ændringer, der følger af § 2 i lov nr. 5 af 1. maj 2021.") == []
+    assert praeambelhjemmel("I medfør af tekstanmærkning nr. 206 ad 23.24.54. til § 23 på finansloven for finansåret 2026 fastsættes:") == []
+    put(RI + "/eli/lta/2026/11/xml", meta.format(2026, 11, "Valid").replace("LBK H#X", "BEK H#X") + indl)
+    put(RI + "/api/document/11/references/1", "{}")
+    bekp = {**copy.deepcopy(bek), "id": "bek-p", "navn": "Bekendtgørelse om pærer (BEK nr. 11 af 2026)", "identifikatorer": {"eli": RI + "/eli/lta/2026/11", "kilder": [], "sikkerhed": "ukendt"}}
+    lovq = {"id": "lov-q", "type": "lov", "status": "ophævet", "katalog_id": "lta-2026-8"}
+    put(RI + "/eli/lta/2026/12/xml", meta.format(2026, 12, "Valid") + "</Dokument>")
+    put(RI + "/api/document/12/references/1", "{}")
+    put(RI + "/api/document/12/timeline", json.dumps([{"href": "/eli/lta/2020/44"}, {"href": "/eli/lta/2026/12"}]))
+    lovr = {**copy.deepcopy(kun_katalog), "id": "lov-r", "katalog_id": "lta-2026-12", "identifikatorer": {"kilder": [], "sikkerhed": "sandsynlig"}}
+    relation = "Retsinformation fører den første som lovgivning, den anden vedrører."
+    hjemler = [{"type": "hjemmel_for", "from": "lov-q", "to": "bek-p", "beskrivelse": relation, "kilder": [], "sikkerhed": "verificeret"},
+               {"type": "hjemmel_for", "from": "lov-r", "to": "bek-p", "beskrivelse": UDEN_FOR, "kilder": [], "sikkerhed": "sandsynlig"}]
+    log = ajour({"nodes": [kun_katalog, lovq, lovr, bekp], "edges": hjemler},
+                {"lta-2025-7": "lta-2026-9", "lta-2026-9": "lta-2026-9", "lta-2026-8": "lta-2026-8", "lta-2026-11": "lta-2026-11", "lta-2026-12": "lta-2026-12"})
+    assert log[-3] == {"hvor": "kant lov-q|hjemmel_for|bek-p", "ikke_i_praeamblen": ["lta-2020-44", "lta-2025-7"], "nedgraderet_fra": "verificeret"}
+    assert (hjemler[0]["sikkerhed"], hjemler[0]["beskrivelse"]) == ("sandsynlig", UDEN_FOR)
+    assert log[-2] == {"hvor": "kant lov-r|hjemmel_for|bek-p", "opgraderet_fra": "sandsynlig", "praeambel": ["§ 3"]}
+    assert (hjemler[1]["sikkerhed"], hjemler[1]["beskrivelse"], hjemler[1]["kilder"]) == ("verificeret", relation, [RI + "/eli/lta/2026/11"])
+    assert log[-1] == {"hvor": "kant lov-c|hjemmel_for|bek-p", "ny": True, "praeambel": ["§ 5, stk. 2"]} and hjemler[2]["kilder"] == [RI + "/eli/lta/2026/11"]
+    assert hjemler[2]["beskrivelse"] == "Forskriftens præambel nævner § 5, stk. 2 som hjemmel." and len(hjemler) == 3
     b = [{"url": "https://www.retsinformation.dk/eli/lta/1/1", "citat": q}]
     assert certainty(b, PRIMARY, {b[0]["url"]: ("ok", page)})[0] == "verificeret"
     assert certainty(b, set(), {b[0]["url"]: ("ok", page)})[0] == "sandsynlig"
@@ -927,11 +1032,15 @@ if __name__ == "__main__":
     elif cmd == "ajour":
         text = REG.read_text(encoding="utf-8")
         registry = yaml.load(text, Loader=yaml.CSafeLoader)
-        log = ajour(registry, frozenset(i for fil in KAT.glob("retsinformation_*.jsonl") for i in re.findall(r'^\{"id": "([^"]+)"', fil.read_text(encoding="utf-8"), re.MULTILINE)))
+        familie = {}
+        for fil in KAT.glob("retsinformation_*.jsonl"):
+            with fil.open(encoding="utf-8") as fh:
+                familie.update((d["id"], d.get("gaeldende_version") or d.get("nyeste_version_afloeser_mangler") or d["id"]) for d in map(json.loads, fh))
+        log = ajour(registry, familie)
         gem(text, registry)
         (ROOT / "raw" / "populate" / f"{datetime.datetime.now():%Y-%m-%dT%H%M}-ajour.kontrol.json").write_text(json.dumps(log, ensure_ascii=False, indent=1), encoding="utf-8")
         noder = [j for j in log if not j["hvor"].startswith("kant ")]
-        vis = ("flyttet_til", "konflikt", "titel_afviger", "samme_dokument_som")
+        vis = ("flyttet_til", "konflikt", "titel_afviger", "samme_dokument_som", "ikke_i_praeamblen")
         print({k: sum(j["status"] == k for j in noder) for k in ("Valid", "Historic", "ulæselig")},
               {k: sum(k in j for j in log) for k in (*vis, "ny", "opgraderet_fra")},
               *(f"  {j['hvor']}: {' | '.join(f'{k}: {j[k]}' for k in vis if k in j)}" for j in log if j.keys() & set(vis)), sep="\n")
