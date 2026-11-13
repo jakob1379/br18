@@ -63,6 +63,7 @@ Udsnittet er de dokumenter, registry'ets noder peger på, og de gældende dokume
 
 Forbehold:
 
+- XML-filen har ikke altid tekst. Af de første 973 hentede dokumenter har 225 kun metadata (`n_tegn` er 0), næsten alle fra før 2010; det er især de gældende dokumenter, bulk-høsten heller ikke havde tekst til. Ét opslag på `api/pdf/<UniqueDocumentId>` for et sådant dokument gav 404; om teksten findes som PDF andetsteds, er ikke undersøgt.
 - Teksten er dokumentet, som det blev udstedt. En bekendtgørelse, der senere er ændret, har ændringerne i egne dokumenter; kun lovbekendtgørelser er sammenskrevne.
 - `praeambel` læses af `eksport.py katalog` med et regulært udtryk (se `praeambelhjemmel`). Bestemmelserne er dem, den citerede lovversion havde.
 - `eu` og `noter` er ikke omsat til `implementerer_EU`-kanter, og `underskrevet_af` er ikke omsat til `udsteder`-kanter.

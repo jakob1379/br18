@@ -6,7 +6,7 @@
 - Øvrige samlinger: **131080** dokumenter (cirkulærer, vejledninger, afgørelser m.m., se nederst)
 - Seneste udstedelsesdato i datasættet: 2026-11-11
 - Status høstet: 2026-11-12 – 2026-11-12
-- Kanter: 337497 · EU-retsakter refereret: 1778 · koblet til registry-noder: 413
+- Kanter: 337500 · EU-retsakter refereret: 1778 · koblet til registry-noder: 413
 
 ## Dokumenttyper
 
@@ -150,7 +150,7 @@
 | Kanttype | verificeret | sandsynlig | ukendt |
 |---|---:|---:|---:|
 | henviser_til | 95179 | 92122 | 0 |
-| hjemmel_for | 88322 | 0 | 0 |
+| hjemmel_for | 88325 | 0 | 0 |
 | implementerer_EU | 0 | 1279 | 0 |
 | ressortansvar | 19582 | 10471 | 247 |
 | udsteder | 29635 | 660 | 0 |
@@ -205,12 +205,12 @@ Dokumenter uden for Lovtidende A, direkte fra Retsinformations søgeeksport (kun
 
 ## Tekst
 
-Retsinformations XML er hentet for et udsnit af kataloget med `pipeline/corpus/tekst.py`: de dokumenter, registry'ets noder peger på, og gældende dokumenter i de otte domæner. `tekst.jsonl` har én linje pr. hentet dokument med stien til XML-filen (`intermediate/corpus/xml/`), hentedato, omfang, præambel, fodnoter, underskriftssted og de EU-retsakter, Retsinformation fører på dokumentet. Alle andre dokumenter har kun metadata.
+Retsinformations XML er hentet for et udsnit af kataloget med `pipeline/corpus/tekst.py`: de dokumenter, registry'ets noder peger på, og gældende dokumenter i de otte domæner. `tekst.jsonl` har én linje pr. hentet dokument med stien til XML-filen (`intermediate/corpus/xml/`), hentedato, omfang, præambel, fodnoter, underskriftssted og de EU-retsakter, Retsinformation fører på dokumentet. For en del ældre dokumenter har XML-filen kun metadata og ingen tekst (`n_tegn` er 0). Alle andre dokumenter har kun metadata.
 
-| Samling | Dokumenter med tekst | heraf gældende | Tegn (mio.) | med præambel | med EU-retsakt |
-|---|---:|---:|---:|---:|---:|
-| Lovtidende A | 965 | 957 | 33.4 | 517 | 235 |
-| Retsinformation (administrative forskrifter og afgørelser) | 8 | 8 | 1.6 | 0 | 1 |
+| Samling | XML hentet | heraf med tekst | heraf gældende med tekst | Tegn (mio.) | med præambel | med EU-retsakt |
+|---|---:|---:|---:|---:|---:|---:|
+| Lovtidende A | 1147 | 741 | 735 | 33.4 | 517 | 235 |
+| Retsinformation (administrative forskrifter og afgørelser) | 378 | 258 | 258 | 18.2 | 5 | 14 |
 
 ## Mest refererede EU-retsakter (top 30)
 

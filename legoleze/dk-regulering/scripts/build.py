@@ -335,12 +335,14 @@ def gen_katalog(reg: dict, kat: dict) -> str:
     lines += ["", "## Tekst", "",
               ("Retsinformations XML er hentet for et udsnit af kataloget med `pipeline/corpus/tekst.py`: de dokumenter, registry'ets noder peger på, og gældende "
                "dokumenter i de otte domæner. `tekst.jsonl` har én linje pr. hentet dokument med stien til XML-filen (`intermediate/corpus/xml/`), hentedato, omfang, "
-               "præambel, fodnoter, underskriftssted og de EU-retsakter, Retsinformation fører på dokumentet. Alle andre dokumenter har kun metadata."), "",
-              "| Samling | Dokumenter med tekst | heraf gældende | Tegn (mio.) | med præambel | med EU-retsakt |", "|---|---:|---:|---:|---:|---:|"]
+               "præambel, fodnoter, underskriftssted og de EU-retsakter, Retsinformation fører på dokumentet. For en del ældre dokumenter har XML-filen kun metadata og "
+               "ingen tekst (`n_tegn` er 0). Alle andre dokumenter har kun metadata."), "",
+              "| Samling | XML hentet | heraf med tekst | heraf gældende med tekst | Tegn (mio.) | med præambel | med EU-retsakt |", "|---|---:|---:|---:|---:|---:|---:|"]
     for s, navn in {"lta": "Lovtidende A", **CAT_SAMLINGER}.items():
         ts = [(d, med[d["id"]]) for d in kat["docs"] if d["id"].startswith(s + "-") and d["id"] in med]
         if ts:
-            lines.append(f"| {navn} | {len(ts)} | {sum(d['status']['vaerdi'] == 'gældende' for d, _ in ts)} | {sum(t['n_tegn'] for _, t in ts) / 1e6:.1f} "
+            lines.append(f"| {navn} | {len(ts)} | {sum(t['n_tegn'] > 0 for _, t in ts)} | {sum(d['status']['vaerdi'] == 'gældende' and t['n_tegn'] > 0 for d, t in ts)} "
+                         f"| {sum(t['n_tegn'] for _, t in ts) / 1e6:.1f} "
                          f"| {sum('praeambel' in t for _, t in ts)} | {sum('eu' in t for _, t in ts)} |")
     lines += ["", "## Mest refererede EU-retsakter (top 30)", "", "| Id | CELEX | Dokumenter | heraf gældende | Gennemførelses-kanter | I registry |", "|---|---|---:|---:|---:|---|"]
     for e in kat["eu"][:30]:

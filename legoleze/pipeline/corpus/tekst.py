@@ -13,7 +13,8 @@ Lovtidende A, der ikke er praksis; lovforslag som fremsat til de gældende love 
 til sidst Lovtidende A med tekst i bulk-høsten, fordi den tekst ikke ligger i dette repo.
 
 Kaldene går gennem populate.get: 10,5 sekunder mellem kald til Retsinformation, delt med alle andre opslag, og svar fra de seneste syv
-dage genbruges (hentedatoen kan derfor være op til syv dage senere end selve kaldet). hent stopper uden for høsterens åbningstid
+dage genbruges (hentedatoen kan derfor være op til syv dage senere end selve kaldet). Nogle ældre dokumenter har kun metadata i XML-filen;
+de står i indekset med n_tegn 0. hent stopper uden for høsterens åbningstid
 (03:00-23:45 dansk tid) og efter fem fejl i træk. Hvert forsøg står i xml/hentet.jsonl; adresser, der er døde eller ikke giver XML,
 prøves ikke igen.
 """

@@ -27,6 +27,7 @@ import collections
 import copy
 import datetime
 import fcntl
+import gzip
 import hashlib
 import html
 import http.client
@@ -256,9 +257,10 @@ def get(url: str) -> tuple[str, bytes]:
             time.sleep(wait)
         try:
             accept = {"Accept": "application/json"} if p.path.startswith("/api/") else {}
-            req = urllib.request.Request(urllib.parse.quote(target, safe=":/?&=%#@+,;~()!*'[]$"), headers={"User-Agent": UA, "Accept-Language": "da", **accept})
+            req = urllib.request.Request(urllib.parse.quote(target, safe=":/?&=%#@+,;~()!*'[]$"), headers={"User-Agent": UA, "Accept-Language": "da", "Accept-Encoding": "gzip", **accept})
             with urllib.request.urlopen(req, timeout=45) as r:
                 raw = r.read(30_000_000)
+                raw = gzip.decompress(raw) if r.headers.get("Content-Encoding") == "gzip" else raw
         except urllib.error.HTTPError as ex:
             return ("død" if ex.code in (404, 410) else "ukendt"), f"HTTP {ex.code}".encode()
         except (OSError, http.client.HTTPException, ValueError) as ex:
@@ -361,7 +363,8 @@ def henvisninger(meta: dict) -> dict:
 def praeambel(xml: str) -> str:
     """Indledningen i et dokuments XML ("I medfør af …") uden fodnoter og på én linje; tom, hvis dokumentet ingen har."""
     led = re.findall(r"(?s)<Indledning\b[^>]*>(.*?)</Indledning>", re.sub(r"(?s)<Nota\b.*?</Nota>", "", xml))
-    return re.sub(r" ([,.;:])", r"\1", " ".join(html.unescape(re.sub(r"<[^>]+>", " ", " ".join(led))).split()))
+    tekst = re.sub(r"[\u200b-\u200d\u2060\ufeff\u00ad]", "", html.unescape(re.sub(r"<[^>]+>", " ", " ".join(led))))
+    return re.sub(r" ([,.;:])", r"\1", " ".join(tekst.split()))
 
 
 def praeambelhjemmel(praeambel: str) -> list[tuple[str, list[str]]]:
@@ -936,6 +939,7 @@ def selftest() -> None:
             "og § 3 i lov nr. 44 af 1. april 2020 om pærer fastsættes:</Char></Indledning></Dokument>")
     assert praeambel(indl) == "I medfør af § 5, stk. 2, i sundhedsloven, jf. lovbekendtgørelse nr. 7 af 1. juli 2025, og § 3 i lov nr. 44 af 1. april 2020 om pærer fastsættes:"
     assert praeambelhjemmel(praeambel(indl)) == [("lta-2025-7", ["§ 5, stk. 2"]), ("lta-2020-44", ["§ 3"])] and praeambel("<Dokument/>") == ""
+    assert praeambel("<Indledning>I medfør af §\u200d\u200d 84 i lov</Indledning>") == "I medfør af § 84 i lov"
     pr = ("I medfør af § 9, stk. 3, § 16 C, § 22, og § 30, stk. 2, i vandsektorloven, jf. lovbekendtgørelse nr. 1693 af 16. august 2021, som ændret ved § 1 i lov nr. 668 "
           "af 11. juni 2024 og § 2 i lov nr. 7 af 1. januar 2025, § 3 i lov om fremme af energibesparelser i bygninger, jf. lovbekendtgørelse 1923 af 8. oktober 2021, "
           "og § 5, stk. 1, nr. 2, stk. 2 og 3, og § 6 i lov nr. 61 af 30. januar 2018 om gas fastsættes efter bemyndigelse i henhold til § 4, stk. 1, i bekendtgørelse "
