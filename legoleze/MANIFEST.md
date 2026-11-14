@@ -46,7 +46,7 @@ Forbehold:
 
 ## Tekstlaget (`intermediate/corpus/xml/`)
 
-Hentet fra 2026-11-13 med `pipeline/corpus/tekst.py hent`: dokumentets XML fra ELI-adressen plus `/xml`, ét kald pr. dokument gennem samme kø som de øvrige opslag (10,5 sekunder mellem kald, kun kl. 03:00-23:45). Filerne ligger som `xml/<samling>/<resten af katalog-id'et>.xml.gz`, fx `xml/lta/2019-1399.xml.gz` for `lta-2019-1399`, uændrede bortset fra gzip. `xml/hentet.jsonl` har én linje pr. forsøg (id, status, dato); svar fra de seneste syv dages opslag er genbrugt, så datoen kan være op til syv dage senere end selve kaldet.
+Hentet 2026-11-13 og 2026-11-14 med `pipeline/corpus/tekst.py hent`: dokumentets XML fra ELI-adressen plus `/xml`, ét kald pr. dokument gennem samme kø som de øvrige opslag (10,5 sekunder mellem kald, kun kl. 03:00-23:45). Filerne ligger som `xml/<samling>/<resten af katalog-id'et>.xml.gz`, fx `xml/lta/2019-1399.xml.gz` for `lta-2019-1399`, uændrede bortset fra gzip. `xml/hentet.jsonl` har én linje pr. forsøg (id, status, dato); svar fra de seneste syv dages opslag er genbrugt, så datoen kan være op til syv dage senere end selve kaldet.
 
 Udsnittet er de dokumenter, registry'ets noder peger på, og de gældende dokumenter i de otte domæner (retsområder med domæne i `katalog.SCOPE`). `tekst.py plan` viser, hvor langt hentningen er, og `katalog/README.md` tæller de hentede dokumenter pr. samling.
 
@@ -59,11 +59,11 @@ Udsnittet er de dokumenter, registry'ets noder peger på, og de gældende dokume
 | `praksis` | 738 | Gældende afgørelser, udtalelser og domme |
 | `med-tekst` | 1.180 | Gældende dokumenter i Lovtidende A med tekst i bulk-høsten (den tekst ligger ikke i dette repo) |
 
-`tekst.py indeks` skriver `dk-regulering/katalog/tekst.jsonl` med én linje pr. hentet dokument: `id`, `xml` (sti fra `legoleze/`), `hentet`, `n_tegn`, `n_paragraffer`, `praeambel` (indledningen uden fodnoter), `noter` (fodnoterne, herunder EU-noten), `underskrevet_af` (Meta-feltet `PlaceOfSignature`) og `eu` (CELEX-numre fra Meta-feltet `EuReferences`). `tekst.py fuld` skriver hele teksten som JSON-linjer (`id`, `tekst`) på stdout; den ligger ikke i repo'et, fordi den er en ren funktion af XML-filerne.
+`tekst.py indeks` skriver `dk-regulering/katalog/tekst.jsonl` med én linje pr. hentet dokument: `id`, `xml` (sti fra `legoleze/`), `hentet`, `n_tegn`, `n_paragraffer`, `praeambel` (indledningen uden fodnoter), `noter` (fodnoterne, herunder EU-noten), `underskrevet_af` (Meta-feltet `PlaceOfSignature`) og `eu` (CELEX-numre fra Meta-feltet `EuReferences`). `tekst.py fuld` skriver hele teksten som JSON-linjer på stdout, én linje pr. paragraf (`id`, `paragraf` som den står i dokumentet, fx `§ 16 C`, og `tekst`); et dokument uden paragraffer er én linje med `paragraf` null. Bestemmelserne i en kants `from_bestemmelse` kan slås op dér i den citerede lovversion. Filen ligger ikke i repo'et, fordi den er en ren funktion af XML-filerne.
 
 Forbehold:
 
-- XML-filen har ikke altid tekst. Af de første 973 hentede dokumenter har 225 kun metadata (`n_tegn` er 0), næsten alle fra før 2010; det er især de gældende dokumenter, bulk-høsten heller ikke havde tekst til. Ét opslag på `api/pdf/<UniqueDocumentId>` for et sådant dokument gav 404; om teksten findes som PDF andetsteds, er ikke undersøgt.
+- XML-filen har ikke altid tekst. Af udsnittets 3.871 dokumenter har 1.004 kun metadata (`n_tegn` er 0): 898 af de 913 fra før 2005, 106 af de 331 fra 2005-2009 og ingen af de 2.627 fra 2010 og frem. Af de 745 gældende dokumenter i Lovtidende A, bulk-høsten ikke havde tekst til, har XML-filen tekst for 348; af vejledninger og cirkulærer 268 af 598, af lovforslagene 176 af 198 og af afgørelser og udtalelser 493 af 738. Ét opslag på `api/pdf/<UniqueDocumentId>` for et sådant dokument gav 404; om teksten findes som PDF andetsteds, er ikke undersøgt.
 - Teksten er dokumentet, som det blev udstedt. En bekendtgørelse, der senere er ændret, har ændringerne i egne dokumenter; kun lovbekendtgørelser er sammenskrevne.
 - `praeambel` læses af `eksport.py katalog` med et regulært udtryk (se `praeambelhjemmel`). Bestemmelserne er dem, den citerede lovversion havde.
 - `eu` og `noter` er ikke omsat til `implementerer_EU`-kanter, og `underskrevet_af` er ikke omsat til `udsteder`-kanter.

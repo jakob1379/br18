@@ -6,7 +6,7 @@
 - Øvrige samlinger: **131080** dokumenter (cirkulærer, vejledninger, afgørelser m.m., se nederst)
 - Seneste udstedelsesdato i datasættet: 2026-11-11
 - Status høstet: 2026-11-12 – 2026-11-12
-- Kanter: 337500 · EU-retsakter refereret: 1778 · koblet til registry-noder: 413
+- Kanter: 337849 · EU-retsakter refereret: 1778 · koblet til registry-noder: 413
 
 ## Dokumenttyper
 
@@ -150,7 +150,7 @@
 | Kanttype | verificeret | sandsynlig | ukendt |
 |---|---:|---:|---:|
 | henviser_til | 95179 | 92122 | 0 |
-| hjemmel_for | 88325 | 0 | 0 |
+| hjemmel_for | 88674 | 0 | 0 |
 | implementerer_EU | 0 | 1279 | 0 |
 | ressortansvar | 19582 | 10471 | 247 |
 | udsteder | 29635 | 660 | 0 |
@@ -209,8 +209,11 @@ Retsinformations XML er hentet for et udsnit af kataloget med `pipeline/corpus/t
 
 | Samling | XML hentet | heraf med tekst | heraf gældende med tekst | Tegn (mio.) | med præambel | med EU-retsakt |
 |---|---:|---:|---:|---:|---:|---:|
-| Lovtidende A | 1147 | 741 | 735 | 33.4 | 517 | 235 |
-| Retsinformation (administrative forskrifter og afgørelser) | 378 | 258 | 258 | 18.2 | 5 | 14 |
+| Lovtidende A | 2329 | 1922 | 1916 | 95.3 | 1434 | 605 |
+| Ministerialtidende | 120 | 16 | 16 | 0.7 | 2 | 0 |
+| Retsinformation (administrative forskrifter og afgørelser) | 1205 | 734 | 734 | 24.8 | 5 | 14 |
+| Folketingets Ombudsmand | 19 | 19 | 19 | 0.9 | 0 | 0 |
+| Folketingstidende (lovforslag, betænkninger, beslutningsforslag) | 198 | 176 | 176 | 42.8 | 0 | 0 |
 
 ## Mest refererede EU-retsakter (top 30)
 

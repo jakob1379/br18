@@ -4,7 +4,7 @@
     python3 tekst.py plan             # udsnittet pr. trin: dokumenter i alt og hvor mange der er hentet
     python3 tekst.py hent [MINUTTER]  # hent manglende dokumenter i højst MINUTTER (105) -> intermediate/corpus/xml/<samling>/<resten af id>.xml.gz
     python3 tekst.py indeks           # katalog/tekst.jsonl: sti, hentedato, omfang, præambel, fodnoter, underskriftssted og EU-retsakter pr. hentet dokument
-    python3 tekst.py fuld             # hele teksten som JSON-linjer på stdout: id og tekst
+    python3 tekst.py fuld             # hele teksten som JSON-linjer på stdout: id, paragraf og tekst, én linje pr. paragraf
     python3 tekst.py selftest
 
 Udsnittet er de dokumenter, registry'ets noder peger på, og de gældende dokumenter i de otte domæner (katalog.SCOPE over retsområdet).
@@ -116,6 +116,16 @@ def tekst(xml: str) -> str:
     return H.text_of(re.sub(r"<Meta[^>]*>.*?</Meta>", "", xml, flags=re.DOTALL))
 
 
+def afsnit(xml: str) -> list[tuple[str | None, str]]:
+    """(paragraf, tekst) for hver paragraf i dokumentet, med paragraffens betegnelse som den står ("§ 5", "§ 16 C"). Et dokument uden
+    paragraffer giver hele teksten som ét afsnit uden betegnelse, og et dokument uden tekst giver ingen."""
+    ud = []
+    for blok in re.findall(r"<Paragraf\b[^>]*>(.*?)</Paragraf>", xml, re.DOTALL):
+        navn = re.search(r"<Explicatus\b[^>]*>(.*?)</Explicatus>", blok, re.DOTALL)
+        ud.append((" ".join(H.text_of(navn[1]).split()).rstrip(". ") if navn else None, "\n".join(linje.strip() for linje in H.text_of(blok).splitlines())))
+    return ud or [(None, t) for t in [tekst(xml)] if t]
+
+
 def hentede():
     """(katalog-id, sti, XML) for hvert hentet dokument."""
     for f in sorted(XML.glob("*/*.xml.gz")):
@@ -150,6 +160,10 @@ def selftest() -> None:
     assert u["noter"] == ["1) Ressortansvaret er overført."] and u["underskrevet_af"] == "Æblestyrelsen" and u["eu"] == ["32010L0031"]
     assert "Æbler er frugt." in tekst(xml) and "Bekendtgørelse om æbler" not in tekst(xml) and u["n_tegn"] == len(tekst(xml))
     assert udtraek("<Dokument><Paragraf>x</Paragraf></Dokument>") == {"n_tegn": 1, "n_paragraffer": 1}
+    assert afsnit(xml) == [("§ 1", "§ 1.\nÆbler er frugt.")] and afsnit("<Dokument><Meta><Year>1996</Year></Meta></Dokument>") == []
+    assert afsnit("<Dokument><Meta/><TekstGruppe><Exitus><Char>En afgørelse.</Char></Exitus></TekstGruppe></Dokument>") == [(None, "En afgørelse.")]
+    to = "<Paragraf localId='16C'><Explicatus>§ 16 C. </Explicatus><Stk><Char>A</Char></Stk></Paragraf><Paragraf><Stk><Char>B</Char></Stk></Paragraf>"
+    assert [x for x, _ in afsnit(to)] == ["§ 16 C", None]
     print("selftest ok")
 
 
@@ -165,6 +179,6 @@ if __name__ == "__main__":
         print(json.dumps(indeks(), ensure_ascii=False))
     elif kommando == "fuld":
         for i, _, xml in hentede():
-            sys.stdout.write(E.linje({"id": i, "tekst": tekst(xml)}))
+            sys.stdout.writelines(E.linje({"id": i, "paragraf": p, "tekst": t}) for p, t in afsnit(xml))
     else:
         sys.exit(__doc__)
