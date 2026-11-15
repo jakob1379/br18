@@ -14,7 +14,8 @@ være præcist frem for fyldigt.
 ## Felter
 
 `TYPE` i filens hoved afgør, hvilke felter der er relevante. For en bekendtgørelse udfyldes `hjemmel`, `eu`, `klage` og `tilsyn`, og
-`henviser` er tom. For en vejledning udfyldes kun `henviser`.
+`henviser` er tom. For en lov eller lovbekendtgørelse udfyldes `eu`, `klage` og `tilsyn`, og `hjemmel` og `henviser` er tomme. For en vejledning
+udfyldes kun `henviser`.
 
 ### hjemmel
 

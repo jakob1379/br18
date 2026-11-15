@@ -1,0 +1,114 @@
+[
+  {
+    "id": "lta-2010-1712",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2012-519",
+    "hjemmel": [
+      {"type": "lov", "nr": 520, "aar": 2005, "bestemmelser": ["§ 2, stk. 1 og 4"], "citat": "lov nr. 520 af 21. juni 2005"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2015-847",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 831, "aar": 2015, "bestemmelser": ["§ 55, stk. 1", "§ 72, stk. 1"], "citat": "lovbekendtgørelse nr. 831 af 1. juli 2015"}
+    ],
+    "eu": [
+      {"type": "direktiv", "aar": 2002, "nr": 44, "citat": "direktiv 2002/44/EF"},
+      {"type": "direktiv", "aar": 2013, "nr": 30, "citat": "direktiv 2013/30/EU"}
+    ],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2017-626",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1123, "aar": 2015, "bestemmelser": ["§ 4 a, stk. 2 og 3", "§ 4 b"], "citat": "lovbekendtgørelse nr. 1123 af 22. september 2015"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [
+      {"myndighed": "Sikkerhedsstyrelsen", "bestemmelse": "§ 2", "citat": "gennemfører tilsyn med udarbejdede elinstallationsrapporter"},
+      {"myndighed": "Sikkerhedsstyrelsen", "bestemmelse": "§ 16", "citat": "Sikkerhedsstyrelsen fører et løbende tilsyn med overholdelse af denne bekendtgørelse"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2019-1399",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1178, "aar": 2016, "bestemmelser": ["§ 2, stk. 4", "§ 3", "§ 4 B, stk. 1", "§ 4 C", "§ 5", "§ 6, stk. 1, litra a-d, f, g, j og k", "§ 6, stk. 2 og 3", "§ 7, stk. 1", "§ 8, stk. 1 og 2", "§ 9, stk. 1", "§ 10, stk. 1", "§ 12, stk. 6", "§ 16 A", "§ 16 B, stk. 1", "§ 16 C, stk. 9", "§ 18, stk. 5", "§ 21, stk. 1 og 3", "§ 22, stk. 9", "§ 28, stk. 3, 4 og 7", "§ 30, stk. 2", "§ 30 A", "§ 30 C"], "citat": "lovbekendtgørelse nr. 1178 af 23. september 2016"},
+      {"type": "bekendtgørelse", "nr": 1197, "aar": 2018, "bestemmelser": ["§ 18"], "citat": "bekendtgørelse nr. 1197 af 28. september 2018"}
+    ],
+    "eu": [
+      {"type": "direktiv", "aar": 2018, "nr": 844, "citat": "direktiv 2018/844/EU"},
+      {"type": "forordning", "aar": 2018, "nr": 1999, "citat": "forordning 2018/1999/EU"},
+      {"type": "direktiv", "aar": 2012, "nr": 27, "citat": "direktiv 2012/27/EU"},
+      {"type": "direktiv", "aar": 2010, "nr": 31, "citat": "direktiv 2010/31/EU"},
+      {"type": "direktiv", "aar": 2009, "nr": 125, "citat": "direktiv 2009/125/EF"},
+      {"type": "direktiv", "aar": 1992, "nr": 43, "citat": "direktiv 92/43/EØF"},
+      {"type": "direktiv", "aar": 2005, "nr": 36, "citat": "direktiv 2005/36/EF"},
+      {"type": "direktiv", "aar": 2009, "nr": 28, "citat": "direktiv 2009/28/EF"}
+    ],
+    "klage": [],
+    "tilsyn": [
+      {"myndighed": "kommunalbestyrelsen", "bestemmelse": "§ 43", "citat": "kommunalbestyrelsen kontrollere, at ansøgeren har indsendt dokumentation for overholdelse af de krav i bygningsreglementet"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2020-2139",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1203, "aar": 2020, "bestemmelser": ["§ 113", "§ 160"], "citat": "lovbekendtgørelse nr. 1203 af 3. august 2020"},
+      {"type": "lovbekendtgørelse", "nr": 1162, "aar": 2017, "bestemmelser": ["§ 25, stk. 3"], "citat": "lovbekendtgørelse nr. 1162 af 26. oktober 2017"},
+      {"type": "lovbekendtgørelse", "nr": 144, "aar": 2020, "bestemmelser": ["§ 100"], "citat": "lovbekendtgørelse nr. 144 af 21. februar 2020"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2020-908",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2024-1222",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 794, "aar": 2021, "bestemmelser": ["§ 7, stk. 3", "§ 100"], "citat": "lovbekendtgørelse nr. 794 af 27. april 2021"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2024-613",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2025-432",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  }
+]

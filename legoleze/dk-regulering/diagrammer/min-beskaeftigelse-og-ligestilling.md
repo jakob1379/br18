@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 113 · kanter: 202
+Noder: 114 · kanter: 203
 
 ```mermaid
 flowchart LR
@@ -65,6 +65,7 @@ flowchart LR
     naevn_arbejdsmiljoeklagenaevnet["Arbejdsmiljøklagenævnet"]:::klage
     dom_arbejdsretten["Arbejdsretten"]:::klage
     dom_domstolene["Domstolene (byret, landsret, Højesteret)"]:::klage
+    naevn_energiklagenaevnet["Energiklagenævnet"]:::klage
     ombud_folketingets_ombudsmand["Folketingets Ombudsmand"]:::klage
     naevn_ligebehandlingsnaevnet["Ligebehandlingsnævnet"]:::klage
     raad_arbejdsmiljoeraadet["Arbejdsmiljørådet (nedlagt)"]:::nedlagt
@@ -327,6 +328,7 @@ flowchart LR
     lov_offshoresikkerhedsloven -->|implementerer_EU| eu_dir_2003_88
     lov_offshoresikkerhedsloven -->|implementerer_EU| eu_dir_2005_36
     lov_offshoresikkerhedsloven -->|implementerer_EU| eu_dir_2006_42
+    naevn_energiklagenaevnet -->|klageinstans| sty_arbejdstilsynet
     bek_elevatorer -->|implementerer_EU| eu_dir_2014_33
     bek_risiko -->|implementerer_EU| eu_dir_2012_18
 ```

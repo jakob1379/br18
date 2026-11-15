@@ -1,0 +1,53 @@
+[
+ {
+  "hvor": "kant naevn-energiklagenaevnet|klageinstans|sty-arbejdstilsynet",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2018/9",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2023/1043",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant tilsyn-forsyningstilsynet|klageinstans|org-energinet",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/544",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/895",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ },
+ {
+  "hvor": "kant sty-ankestyrelsen|klageinstans|sty-familieretshuset",
+  "sikkerhed": "verificeret",
+  "dom": null,
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/669",
+    "status": "ok",
+    "andel": 1.0
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/641",
+    "status": "ok",
+    "andel": 1.0
+   }
+  ]
+ }
+]

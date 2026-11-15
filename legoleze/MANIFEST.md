@@ -60,7 +60,7 @@ Udsnittet er de dokumenter, registry'ets noder peger på, og de gældende dokume
 | `praksis` | 738 | Gældende afgørelser, udtalelser og domme |
 | `med-tekst` | 1.180 | Gældende dokumenter i Lovtidende A med tekst i bulk-høsten (den tekst ligger ikke i dette repo) |
 
-`tekst.py indeks` skriver `dk-regulering/katalog/tekst.jsonl` med én linje pr. hentet dokument: `id`, `xml` (sti fra `legoleze/`), `hentet`, `n_tegn`, `n_paragraffer`, `praeambel` (indledningen uden fodnoter), `noter` (fodnoterne, herunder EU-noten), `naevner` (love og bekendtgørelser nævnt med nummer og dato: `{"katalog-id|dato": antal}`), `underskrevet_af` (Meta-feltet `PlaceOfSignature`) og `eu` (CELEX-numre fra Meta-feltet `EuReferences`). `tekst.py fuld` skriver hele teksten som JSON-linjer på stdout, én linje pr. paragraf (`id`, `paragraf` som den står i dokumentet, fx `§ 16 C`, og `tekst`); et dokument uden paragraffer er én linje med `paragraf` null. Bestemmelserne i en kants `from_bestemmelse` kan slås op dér i den citerede lovversion. Filen ligger ikke i repo'et, fordi den er en ren funktion af XML-filerne.
+`tekst.py indeks` skriver `dk-regulering/katalog/tekst.jsonl` med én linje pr. hentet dokument: `id`, `xml` (sti fra `legoleze/`), `hentet`, `n_tegn`, `n_paragraffer`, `praeambel` (indledningen uden fodnoter), `noter` (fodnoterne, herunder EU-noten), `naevner` (love og bekendtgørelser nævnt med nummer og dato: `{"katalog-id|dato": antal}`), `klage_tilsyn` (`[paragraf, sætning]` for sætninger med et klage- eller tilsynsudsagn), `underskrevet_af` (Meta-feltet `PlaceOfSignature`) og `eu` (CELEX-numre fra Meta-feltet `EuReferences`). `tekst.py fuld` skriver hele teksten som JSON-linjer på stdout, én linje pr. paragraf (`id`, `paragraf` som den står i dokumentet, fx `§ 16 C`, og `tekst`); et dokument uden paragraffer er én linje med `paragraf` null. Bestemmelserne i en kants `from_bestemmelse` kan slås op dér i den citerede lovversion. Filen ligger ikke i repo'et, fordi den er en ren funktion af XML-filerne.
 
 Forbehold:
 
@@ -68,8 +68,15 @@ Forbehold:
 - Teksten er dokumentet, som det blev udstedt. En bekendtgørelse, der senere er ændret, har ændringerne i egne dokumenter; kun lovbekendtgørelser er sammenskrevne.
 - `praeambel` læses af `eksport.py katalog` med et regulært udtryk (se `praeambelhjemmel`). Bestemmelserne er dem, den citerede lovversion havde.
 - `noter` er omsat til `implementerer_EU`-kanter (metode `fodnote`, 1.292 kanter) og `naevner` til `henviser_til`-kanter for dokumenter uden tekst i bulk-høsten (metode `xml-tekst`, 6.418 kanter; kun når nummer og dato passer på et dokument i Lovtidende A). `eu` er ikke brugt: feltet fører alle EU-retsakter, dokumentet nævner. `underskrevet_af` er ikke omsat til `udsteder`-kanter.
+- `klage_tilsyn` er omsat til `klageinstans`- og `tilsyn`-kanter fra instans til dokument for hoveddokumenter i Lovtidende A (metode `bestemmelse`, `sandsynlig`: 430 og 365 kanter), når sætningen navngiver en instans, der er en node i registry'et. Kanten gengiver teksten, som dokumentet er udstedt; en klageadgang, der er flyttet ved en senere ændringslov, ses ikke.
 - De ældre `implementerer_EU`-kanter fra bulk-teksten (metode `tekst-samforekomst`) er fjernet for dokumenter med hentet tekst (115) og sat til `ukendt` for resten (1.164).
 - Uden for udsnittet er der stadig kun metadata.
+
+## Lovenes tidslinjer (`intermediate/corpus/tidslinjer.jsonl`)
+
+Hentet fra 2026-11-15 med `pipeline/corpus/tekst.py tidslinjer`: Retsinformations tidslinje for en lov (`api/document/<UniqueDocumentId>/timeline`), ét kald pr. lov gennem samme kø som de øvrige opslag. Tidslinjen er den samme for alle versioner af en lov, så en version, der står i en hentet tidslinje, hentes ikke selv. Hver linje har `id` (det dokument, kaldet blev gjort for), `status`, `hentet` og `tidslinje` med fem af Retsinformations felter pr. dokument: `href`, `documentTypeId` (10 hovedlov, 20 ændringslov, 30 lovbekendtgørelse), `isMainLaw`, `isHistoric` og `signatureDate`.
+
+`eksport.py katalog` samler lovens egne versioner (lovbekendtgørelserne og den hovedlov, der har `isMainLaw`) til én familie og sætter `gaeldende_version` efter den, med `familie_metode: tidslinje` på katalogposten. Love uden hentet tidslinje samles som før på titlen. Ændringslovene i tidslinjen er ikke brugt.
 
 ## Evalueringssæt (`dk-regulering/eval/`)
 
@@ -79,6 +86,7 @@ Lavet 2026-11-15 med `pipeline/corpus/eval.py`. `udtag` trækker pr. domæne et 
 |---|---:|---|
 | 1 | 118 | Udvikling: afvigelserne er gennemgået, og udtrækkene rettet efter dem |
 | 2 | 71 | Kontrol: trukket efter rettelserne; første måling i `kontrol-2.json` |
+| 3 | 64 | Kontrol af klage og tilsyn pr. forskrift: love og lovbekendtgørelser i stedet for vejledninger, trukket efter at læseren var skrevet; første måling i `kontrol-3.json` |
 
 Kontrolrundens første måling: `hjemmel_for` 96 % præcision og 100 % genfinding (kun Retsinformations felt: 84 % genfinding), paragrafnumre 274 af 275, `implementerer_EU` 90 % og 96 %, vejledningers henvisninger 45 af 45. Før rettelserne fandt kataloget i runde 1 én af 38 gennemførte EU-retsakter og 11 % af vejledningernes henvisninger.
 
@@ -87,7 +95,8 @@ Forbehold:
 - Annotatoren er en sprogmodel. Kontrollen er mekanisk (citat, nummer, år og paragraf står i teksten); kun afvigelserne er læst efter.
 - Tre dokumenter i facit er rettet efter gennemsyn (`rettelser.json` med begrundelse). Efter kontrolrunden er der rettet én fejl i læsningen af fodnoter ("EU-tidende" med lille t) og fjernet ældre EU-kanter; den nuværende stand står ved siden af første måling i `README.md`.
 - De tilbageværende forkerte `hjemmel_for`-kanter er to fejl i Retsinformations hjemmelsfelt og tre kanter til den gældende version af en lov, kataloget ikke kobler til den citerede version.
-- Klage og tilsyn måles kun som "myndigheden er en node under dette navn" og "der er en klagekant mellem de to myndigheder".
+- Klage og tilsyn pr. forskrift (katalogets kanter med metode `bestemmelse`) er kun målt uafhængigt i runde 3: klageinstans 23 rigtige, 1 forkert, ingen manglende; afgørende myndighed 12 af 14; tilsyn 15 rigtige, ingen forkerte, 11 manglende. Læseren er rettet til efter afvigelserne i runde 1 og 2, så deres tal for de mål er til den pæne side.
+- Seks dokumenter i facit er nu rettet efter gennemsyn (tre i første omgang, tre klage- og tilsynsled 2026-11-15).
 - Udtaget er de otte domæner og dokumenter fra 2010 og frem. Praksis, lovforslag og de 34 øvrige retsområder er ikke med.
 
 ## Ikke med

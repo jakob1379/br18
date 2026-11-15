@@ -1,0 +1,151 @@
+[
+  {
+    "id": "lta-2011-20",
+    "hjemmel": [
+      {"type": "lov", "nr": 1532, "aar": 2010, "bestemmelser": ["§ 14"], "citat": "lov nr. 1532 af 21. december 2010"},
+      {"type": "bekendtgørelse", "nr": 1633, "aar": 2010, "bestemmelser": [], "citat": "bekendtgørelse nr. 1633 af 21. december 2010"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [
+      {"myndighed": "Disciplinær- og klagenævnet for beskikkede bygningssagkyndige", "bestemmelse": "§ 12", "citat": "udtager nævnets sekretariat årligt en række tilstandsrapporter til nærmere kontrol"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2013-659",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 587, "aar": 2013, "bestemmelser": ["§ 3, stk. 1", "§ 5 m, stk. 6, nr. 4"], "citat": "lovbekendtgørelse nr. 587 af 27. maj 2013"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2014-548",
+    "hjemmel": [
+      {"type": "lov", "nr": 401, "aar": 2014, "bestemmelser": ["§ 3, stk. 1, nr. 1 og 2", "§ 6, nr. 2"], "citat": "lov nr. 401 af 28. april 2014"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2014-823",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1329, "aar": 2013, "bestemmelser": ["§ 71 a, stk. 3", "§ 72, stk. 7", "§ 76, stk. 5", "§ 88, stk. 1"], "citat": "lovbekendtgørelse nr. 1329 af 25. november 2013"}
+    ],
+    "eu": [
+      {"type": "direktiv", "aar": 2009, "nr": 72, "citat": "direktiv 2009/72/EF"}
+    ],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2019-228",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 270, "aar": 2018, "bestemmelser": ["§ 33, stk. 1", "§ 49, stk. 1 og 3", "§ 52, stk. 4, nr. 2 og 3", "§ 54, stk. 3"], "citat": "lovbekendtgørelse nr. 270 af 12. april 2018"}
+    ],
+    "eu": [
+      {"type": "direktiv", "aar": 1992, "nr": 43, "citat": "direktiv 92/43/EØF"},
+      {"type": "direktiv", "aar": 2009, "nr": 147, "citat": "direktiv 2009/147/EF"}
+    ],
+    "klage": [],
+    "tilsyn": [
+      {"myndighed": "Naturstyrelsen", "bestemmelse": "§ 10", "citat": "Naturstyrelsen fører tilsyn med"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2020-400",
+    "hjemmel": [],
+    "eu": [
+      {"type": "direktiv", "aar": 2014, "nr": 89, "citat": "direktiv 2014/89/EU"}
+    ],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2024-1027",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 928, "aar": 2024, "bestemmelser": ["§ 3, stk. 3", "§ 7 b", "§ 35", "§ 35 c", "§ 37, stk. 2", "§ 39, stk. 3 og 4", "§ 40", "§ 41 a, stk. 3 og 4", "§ 41 b, stk. 1 og 3", "§ 73, stk. 3", "§ 74, stk. 2", "§ 78 a, stk. 2", "§ 79", "§ 79 b, stk. 1", "§ 79 c", "§ 79 d", "§ 80, stk. 1 og 2", "§ 89 b", "§ 90", "§ 92", "§ 110, stk. 3"], "citat": "lovbekendtgørelse nr. 928 af 28. juni 2024"},
+      {"type": "lovbekendtgørelse", "nr": 282, "aar": 2017, "bestemmelser": ["§ 38 k, stk. 4 og 5", "§ 38 l, stk. 5", "§ 38 m, stk. 3"], "citat": "lovbekendtgørelse nr. 282 af 27. marts 2017"}
+    ],
+    "eu": [
+      {"type": "direktiv", "aar": 2012, "nr": 18, "citat": "direktiv 2012/18/EU"},
+      {"type": "direktiv", "aar": 1999, "nr": 31, "citat": "direktiv 1999/31/EF"},
+      {"type": "direktiv", "aar": 2008, "nr": 98, "citat": "direktiv 2008/98/EF"},
+      {"type": "direktiv", "aar": 2011, "nr": 92, "citat": "direktiv 2011/92/EU"},
+      {"type": "direktiv", "aar": 2006, "nr": 21, "citat": "direktiv 2006/21/EF"},
+      {"type": "direktiv", "aar": 2006, "nr": 123, "citat": "direktiv 2006/123/EF"},
+      {"type": "direktiv", "aar": 2009, "nr": 31, "citat": "direktiv 2009/31/EF"},
+      {"type": "direktiv", "aar": 1991, "nr": 271, "citat": "direktiv 91/271/EØF"}
+    ],
+    "klage": [
+      {"afgoerelse_af": "godkendelsesmyndigheden", "klageinstans": "Miljø- og Fødevareklagenævnet", "bestemmelse": "§ 60", "citat": "kan påklages til Miljø- og Fødevareklagenævnet, hvis spørgsmålet drejer sig om"},
+      {"afgoerelse_af": "kommunalbestyrelsen", "klageinstans": "Miljø- og Fødevareklagenævnet", "bestemmelse": "§ 60", "citat": "kan påklages til Miljø- og Fødevareklagenævnet, hvis afgørelsen vedrører"},
+      {"afgoerelse_af": "tilsynsmyndigheden", "klageinstans": "Miljø- og Fødevareklagenævnet", "bestemmelse": "§ 60", "citat": "kan påklages særskilt til Miljø- og Fødevareklagenævnet"}
+    ],
+    "tilsyn": [
+      {"myndighed": "Miljøstyrelsen", "bestemmelse": "§ 5", "citat": "er Miljøstyrelsen godkendelses- og tilsynsmyndighed for alle godkendelsespligtige anlæg"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2024-1036",
+    "hjemmel": [],
+    "eu": [
+      {"type": "direktiv", "aar": 2012, "nr": 27, "citat": "direktiv 2012/27/EU"}
+    ],
+    "klage": [
+      {"afgoerelse_af": "klima-, energi- og forsyningsministeren", "klageinstans": "Energiklagenævnet", "bestemmelse": "§ 20", "citat": "Energiklagenævnet behandler klager over afgørelser truffet af klima-, energi- og forsyningsministeren"},
+      {"afgoerelse_af": "Forsyningstilsynet", "klageinstans": "Energiklagenævnet", "bestemmelse": "§ 18", "citat": "Forsyningstilsynets afgørelser kan påklages til Energiklagenævnet"}
+    ],
+    "tilsyn": [
+      {"myndighed": "klima-, energi- og forsyningsministeren", "bestemmelse": "§ 9", "citat": "Klima-, energi- og forsyningsministeren fører kontrol med"},
+      {"myndighed": "Forsyningstilsynet", "bestemmelse": "§ 18", "citat": "de virksomheder, som Forsyningstilsynet fører tilsyn med"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2024-1445",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [
+      {"afgoerelse_af": "Arbejdstilsynet", "klageinstans": "Arbejdsmiljøklagenævnet", "bestemmelse": "§ 9", "citat": "kan indbringes for Arbejdsmiljøklagenævnet"}
+    ],
+    "tilsyn": [
+      {"myndighed": "Arbejdstilsynet", "bestemmelse": "§ 2", "citat": "påser Arbejdstilsynet overholdelsen af denne lov"},
+      {"myndighed": "Arbejdstilsynet", "bestemmelse": "§ 4", "citat": "Arbejdstilsynet fører tilsyn med"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2025-1701",
+    "hjemmel": [
+      {"type": "lov", "nr": 61, "aar": 2018, "bestemmelser": ["§ 29, stk. 4"], "citat": "lov nr. 61 af 30. januar 2018"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2026-57",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [
+      {"afgoerelse_af": "den, som Erhvervsstyrelsen i medfør af § 24, stk. 1, har bemyndiget til at udføre kontrol", "klageinstans": "Erhvervsstyrelsen", "bestemmelse": "§ 33", "citat": "kan indbringes for Erhvervsstyrelsen"}
+    ],
+    "tilsyn": [
+      {"myndighed": "Erhvervsstyrelsen", "bestemmelse": "§ 13", "citat": "Erhvervsstyrelsen fører kontrol med"},
+      {"myndighed": "Erhvervsstyrelsen", "bestemmelse": "§ 14", "citat": "Erhvervsstyrelsen kan i kontroløjemed foretage registersamkøring"},
+      {"myndighed": "Erhvervsstyrelsen", "bestemmelse": "§ 15", "citat": "Erhvervsstyrelsen eller den, styrelsen bemyndiger dertil, har til enhver tid"}
+    ],
+    "henviser": []
+  }
+]

@@ -254,6 +254,11 @@ def validate_katalog(reg: dict, kat: dict) -> list[str]:
         errors.extend(_check_claim(f"katalog-kant {label}", e))
         if "from_bestemmelse" in e and not (e["from_bestemmelse"] and all(str(b).startswith("§") for b in e["from_bestemmelse"])):
             err(f"katalog-kant {label}: from_bestemmelse skal være en ikke-tom liste af bestemmelser")
+        if "to_bestemmelse" in e and not (e["to_bestemmelse"] and all(str(b).startswith("§") for b in e["to_bestemmelse"])):
+            err(f"katalog-kant {label}: to_bestemmelse skal være en ikke-tom liste af bestemmelser")
+        for a in e.get("afgoerelse_af") or []:
+            if a not in reg_ids:
+                err(f"katalog-kant {label}: afgoerelse_af {a!r} findes ikke")
         if e.get("citeret_version") and e["citeret_version"] not in docs:
             err(f"katalog-kant {label}: citeret_version {e['citeret_version']!r} findes ikke")
     for t in kat["tekst"]:

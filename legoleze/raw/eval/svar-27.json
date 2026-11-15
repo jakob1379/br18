@@ -1,0 +1,125 @@
+[
+  {
+    "id": "lta-2009-1298",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 1204, "aar": 2009, "bestemmelser": ["§ 12, stk. 3"], "citat": "lovbekendtgørelse nr. 1204 af 10. december 2009"}],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2012-227",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 884, "aar": 2011, "bestemmelser": ["§ 75 m"], "citat": "lovbekendtgørelse nr. 884 af 10. august 2011"}],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2014-69",
+    "hjemmel": [],
+    "eu": [
+      {"type": "direktiv", "aar": 1989, "nr": 48, "citat": "Rådets direktiv nr. 89/48/EØF"},
+      {"type": "direktiv", "aar": 1992, "nr": 51, "citat": "Rådets direktiv nr. 92/51 EØF"},
+      {"type": "direktiv", "aar": 2006, "nr": 123, "citat": "direktiv 2006/123/EF"}
+    ],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2016-1178",
+    "hjemmel": [],
+    "eu": [{"type": "direktiv", "aar": 2010, "nr": 31, "citat": "direktiv 2010/31/EU"}],
+    "klage": [
+      {"afgoerelse_af": "kommunalbestyrelsen", "klageinstans": "Statsforvaltningen", "bestemmelse": "§ 23", "citat": "påklages til statsforvaltningen"},
+      {"afgoerelse_af": "kommunalbestyrelsen", "klageinstans": "Statsforvaltningen", "bestemmelse": "§ 24", "citat": "påklages til statsforvaltningen"}
+    ],
+    "tilsyn": [
+      {"myndighed": "kommunalbestyrelsen", "bestemmelse": "§ 16 C", "citat": "Kommunalbestyrelsen påser, at påbud efter loven eller regler fastsat i medfør heraf efterkommes"},
+      {"myndighed": "transport- og bygningsministeren", "bestemmelse": "§ 31 A", "citat": "kan fastsætte regler om tilsyn og kontrol med"},
+      {"myndighed": "transport- og bygningsministeren", "bestemmelse": "§ 31 B", "citat": "har som led i kontrollen efter reglerne udstedt i medfør af § 31 og § 31 A"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2016-447",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 418, "aar": 2016, "bestemmelser": ["§ 63 a, stk. 1, 4 og 7", "§ 68 a, stk. 1", "§ 88", "§ 90"], "citat": "lovbekendtgørelse nr. 418 af 25. april 2016"}],
+    "eu": [{"type": "direktiv", "aar": 2012, "nr": 27, "citat": "direktiv nr. 2012/27/EU"}],
+    "klage": [{"afgoerelse_af": "den systemansvarlige virksomhed", "klageinstans": "Energiklagenævnet", "bestemmelse": "§ 13", "citat": "til Energiklagenævnet"}],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2017-131",
+    "hjemmel": [{"type": "lov", "nr": 1715, "aar": 2016, "bestemmelser": ["§ 7, stk. 2", "§ 13", "§ 22"], "citat": "lov nr. 1715 af 27. december 2016"}],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2017-224",
+    "hjemmel": [],
+    "eu": [{"type": "direktiv", "aar": 2000, "nr": 53, "citat": "direktiv 2000/53/EF"}],
+    "klage": [],
+    "tilsyn": [{"myndighed": "miljø- og fødevareministeren", "bestemmelse": "§ 8 b", "citat": "Miljø- og fødevareministeren kan fastsætte regler om tilsyn med"}],
+    "henviser": []
+  },
+  {
+    "id": "lta-2018-210",
+    "hjemmel": [{"type": "lov", "nr": 155, "aar": 2013, "bestemmelser": ["§ 3 a, stk. 2", "§ 20, stk. 2 og 3", "§ 21, stk. 1", "§ 27, stk. 4"], "citat": "lov nr. 155 af 20. februar 2013"}],
+    "eu": [],
+    "klage": [{"afgoerelse_af": "det bemyndigede organ", "klageinstans": "Arbejdstilsynet", "bestemmelse": "§ 8", "citat": "kan indbringes for Arbejdstilsynet"}],
+    "tilsyn": [{"myndighed": "Arbejdstilsynet", "bestemmelse": "§ 6", "citat": "Arbejdstilsynet kan føre kontrol og tilsyn med"}],
+    "henviser": []
+  },
+  {
+    "id": "lta-2023-4",
+    "hjemmel": [],
+    "eu": [
+      {"type": "direktiv", "aar": 2001, "nr": 42, "citat": "direktiv 2001/42/EF"},
+      {"type": "direktiv", "aar": 2011, "nr": 92, "citat": "direktiv 2011/92/EU"},
+      {"type": "direktiv", "aar": 2014, "nr": 52, "citat": "direktiv 2014/52/EU"}
+    ],
+    "klage": [
+      {"afgoerelse_af": "myndigheden", "klageinstans": "Miljø- og Fødevareklagenævnet", "bestemmelse": "§ 48", "citat": "påklages til Miljø- og Fødevareklagenævnet"},
+      {"afgoerelse_af": "myndigheden", "klageinstans": "Miljø- og Fødevareklagenævnet", "bestemmelse": "§ 49", "citat": "kan påklages til Miljø- og Fødevareklagenævnet"},
+      {"afgoerelse_af": "klima-, energi- og forsyningsministeren", "klageinstans": "Energiklagenævnet", "bestemmelse": "§ 49", "citat": "påklages til Energiklagenævnet"},
+      {"afgoerelse_af": "myndigheden", "klageinstans": "Miljø- og Fødevareklagenævnet", "bestemmelse": "§ 52", "citat": "Klage til Miljø- og Fødevareklagenævnet indgives skriftligt"}
+    ],
+    "tilsyn": [{"myndighed": "den i henhold til § 17 kompetente myndighed", "bestemmelse": "§ 46", "citat": "Den i henhold til § 17 kompetente myndighed er tilsynsmyndighed"}],
+    "henviser": []
+  },
+  {
+    "id": "lta-2025-1280",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 114, "aar": 2020, "bestemmelser": ["§ 2, stk. 1", "§ 13, stk. 3"], "citat": "lovbekendtgørelse nr. 114 af 6. februar 2020"},
+      {"type": "lov", "nr": 316, "aar": 2007, "bestemmelser": ["§ 3", "§ 5"], "citat": "lov nr. 316 af 31. marts 2007"},
+      {"type": "bekendtgørelse", "nr": 1273, "aar": 2017, "bestemmelser": ["§ 5, stk. 1, nr. 31"], "citat": "bekendtgørelse nr. 1273 af 27. november 2017"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2025-995",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [
+      {"afgoerelse_af": "kommunalbestyrelsen", "klageinstans": "Ankestyrelsen", "bestemmelse": "§ 73", "citat": "kan påklages til Ankestyrelsen"},
+      {"afgoerelse_af": "Udbetaling Danmark", "klageinstans": "Ankestyrelsen", "bestemmelse": "§ 73 a", "citat": "kan påklages til Ankestyrelsen"}
+    ],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2026-736",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 207, "aar": 2026, "bestemmelser": ["§ 98 e, stk. 11"], "citat": "lovbekendtgørelse nr. 207 af 25. januar 2026"}],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [{"myndighed": "Social- og Boligstyrelsen", "bestemmelse": "§ 13", "citat": "Social- og Boligstyrelsens kontrol med, at de fastsatte vilkår overholdes"}],
+    "henviser": []
+  }
+]

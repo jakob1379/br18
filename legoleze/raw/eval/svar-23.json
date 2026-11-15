@@ -1,0 +1,88 @@
+[
+  {
+    "id": "lta-2008-464",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2015-1304",
+    "hjemmel": [{"type": "lov", "nr": 155, "aar": 2013, "bestemmelser": ["§ 2, stk. 2", "§ 4, stk. 3", "§ 6, stk. 3", "§ 7, stk. 2", "§ 8, stk. 3", "§ 9, stk. 3", "§ 11", "§ 13", "§ 17, stk. 4", "§ 20, stk. 2", "§ 21, stk. 1", "§ 27, stk. 4"], "citat": "lov nr. 155 af 20. februar 2013"}],
+    "eu": [{"type": "direktiv", "aar": 2014, "nr": 29, "citat": "direktiv 2014/29/EU"}],
+    "klage": [{"afgoerelse_af": "bemyndiget organ", "klageinstans": "Arbejdstilsynet", "bestemmelse": "§ 8", "citat": "kan indbringes for Arbejdstilsynet"}],
+    "tilsyn": [{"myndighed": "Arbejdstilsynet", "bestemmelse": "§ 6", "citat": "Arbejdstilsynet kan føre kontrol og tilsyn med"}],
+    "henviser": []
+  },
+  {
+    "id": "lta-2017-1608",
+    "hjemmel": [
+      {"type": "lov", "nr": 525, "aar": 2015, "bestemmelser": ["§ 5, stk. 1, nr. 1, og stk. 2", "§ 7, stk. 3", "§ 29, stk. 1 og 2", "§ 31, stk. 1 og 2", "§ 34, stk. 2", "§ 39"], "citat": "lov nr. 525 af 29. april 2015"},
+      {"type": "bekendtgørelse", "nr": 545, "aar": 2017, "bestemmelser": ["§ 5, nr. 1 og 2"], "citat": "bekendtgørelse nr. 545 af 29. maj 2017"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2021-1917",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 1157, "aar": 2020, "bestemmelser": ["§ 3, stk. 1", "§ 5 b, stk. 2"], "citat": "lovbekendtgørelse nr. 1157 af 1. juli 2020"}],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2021-2516",
+    "hjemmel": [{"type": "lov", "nr": 799, "aar": 2020, "bestemmelser": ["§ 8", "§ 31, stk. 1 og 2", "§ 32", "§ 37, stk. 6"], "citat": "lov nr. 799 af 9. juni 2020"}],
+    "eu": [{"type": "direktiv", "aar": 2014, "nr": 35, "citat": "direktiv 2014/35/EU"}],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2021-857",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 1157, "aar": 2020, "bestemmelser": ["§ 3, stk. 1", "§ 5 b, stk. 6"], "citat": "lovbekendtgørelse nr. 1157 af 1. juli 2020"}],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2022-1064",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 1877, "aar": 2021, "bestemmelser": ["§ 98 d, stk. 7"], "citat": "lovbekendtgørelse nr. 1877 af 27. september 2021"}],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [{"myndighed": "Bolig- og Planstyrelsen", "bestemmelse": "§ 22", "citat": "styrelsens kontrol med, at de fastsatte vilkår overholdes"}],
+    "henviser": []
+  },
+  {
+    "id": "lta-2025-313",
+    "hjemmel": [{"type": "lov", "nr": 1923, "aar": 2021, "bestemmelser": ["§ 24, stk. 3, nr. 1-3", "§ 29, stk. 4, nr. 1 og 2"], "citat": "lov nr. 1923 af 8. oktober 2021"}],
+    "eu": [],
+    "klage": [{"afgoerelse_af": "certificeret energimærkningsfirma", "klageinstans": "Energistyrelsen", "bestemmelse": "§ 12", "citat": "kan indbringes for Energistyrelsen"}],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2026-667",
+    "hjemmel": [],
+    "eu": [{"type": "direktiv", "aar": 1985, "nr": 374, "citat": "direktiv 85/374/EØF"}],
+    "klage": [
+      {"afgoerelse_af": "Arbejdsmarkedets Erhvervssikring", "klageinstans": "Ankestyrelsen", "bestemmelse": "§ 44", "citat": "kan indbringes for Ankestyrelsen"},
+      {"afgoerelse_af": "forsikringsselskab", "klageinstans": "Arbejdstilsynet", "bestemmelse": "§ 49 b", "citat": "kan påklages til Arbejdstilsynet"},
+      {"afgoerelse_af": "Finanstilsynet", "klageinstans": "Erhvervsankenævnet", "bestemmelse": "§ 76", "citat": "indbringes for Erhvervsankenævnet"},
+      {"afgoerelse_af": "Det Færøske Ulykkesforsikringsråd", "klageinstans": "Ankestyrelsen", "bestemmelse": "§ 83", "citat": "indbringes for Ankestyrelsen"}
+    ],
+    "tilsyn": [
+      {"myndighed": "Finanstilsynet", "bestemmelse": "§ 65 l", "citat": "kan Finanstilsynet 1) yde vejledning, 2) påtale overtrædelser"},
+      {"myndighed": "Finanstilsynet", "bestemmelse": "§ 71", "citat": "Finanstilsynet påser overholdelsen af"},
+      {"myndighed": "Finanstilsynet", "bestemmelse": "§ 72", "citat": "som Finanstilsynet fører tilsyn med"},
+      {"myndighed": "Finanstilsynet", "bestemmelse": "§ 73", "citat": "Finanstilsynet kan til enhver tid mod behørig legitimation"},
+      {"myndighed": "Finanstilsynet", "bestemmelse": "§ 74", "citat": "en årlig beretning om tilsynet med Arbejdsmarkedets Erhvervssikring"}
+    ],
+    "henviser": []
+  }
+]

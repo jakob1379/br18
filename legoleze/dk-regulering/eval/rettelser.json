@@ -44,5 +44,43 @@
    }
   ],
   "begrundelse": "Indledningen nævner de samme paragraffer to gange: i loven og i loven \"som sat i kraft for Grønland ved anordning nr. 71 af 29. januar 2013\". Anordningen er hjemmel for den grønlandske del og manglede i annotatorens svar."
+ },
+ "lta-2025-1179": {
+  "klage": [
+   {
+    "klageinstans": "Energiklagenævnet",
+    "bestemmelse": "§ 12",
+    "citat": "Energiklagenævnet behandler klager over afgørelser truffet efter denne bekendtgørelse"
+   }
+  ],
+  "begrundelse": "§ 12 siger, at Energiklagenævnet behandler klager over afgørelser efter bekendtgørelsen. Annotatoren havde ingen klageled."
+ },
+ "lta-2025-1744": {
+  "tilsyn": [
+   {
+    "myndighed": "Social- og Boligstyrelsen",
+    "bestemmelse": "§ 4",
+    "citat": "Social- og Boligstyrelsen fører tilsyn med, at DANAK overholder kravene"
+   }
+  ],
+  "begrundelse": "§ 4 siger, at Social- og Boligstyrelsen fører tilsyn med DANAK's overholdelse af kravene. Annotatoren havde ingen tilsynsled."
+ },
+ "lta-2025-1063": {
+  "klage": [
+   {
+    "afgoerelse_af": "bemyndiget organ",
+    "klageinstans": "DANAK",
+    "bestemmelse": "§ 11",
+    "citat": "kan påklages til DANAK"
+   }
+  ],
+  "tilsyn": [
+   {
+    "myndighed": "DANAK",
+    "bestemmelse": "§ 6",
+    "citat": "DANAK påser, om bemyndigede organer til stadighed opfylder betingelserne"
+   }
+  ],
+  "begrundelse": "Paragrafferne skriver DANAK; annotatoren satte titlens fulde navn (\"DANAK Den Danske Akkrediteringsfond\") ind, som ikke er et navn på noden."
  }
 }

@@ -3,6 +3,7 @@
 
     python3 tekst.py plan             # udsnittet pr. trin: dokumenter i alt og hvor mange der er hentet
     python3 tekst.py hent [MINUTTER]  # hent manglende dokumenter i højst MINUTTER (105) -> intermediate/corpus/xml/<samling>/<resten af id>.xml.gz
+    python3 tekst.py tidslinjer [MIN] # hent Retsinformations tidslinje pr. lov i højst MIN (105) minutter -> intermediate/corpus/tidslinjer.jsonl
     python3 tekst.py indeks           # katalog/tekst.jsonl: sti, hentedato, omfang, præambel, fodnoter, nævnte retsakter, underskriftssted og EU-retsakter pr. hentet dokument
     python3 tekst.py fuld             # hele teksten som JSON-linjer på stdout: id, paragraf og tekst, én linje pr. paragraf
     python3 tekst.py selftest
@@ -17,6 +18,10 @@ dage genbruges (hentedatoen kan derfor være op til syv dage senere end selve ka
 de står i indekset med n_tegn 0. hent stopper uden for høsterens åbningstid
 (03:00-23:45 dansk tid) og efter fem fejl i træk. Hvert forsøg står i xml/hentet.jsonl; adresser, der er døde eller ikke giver XML,
 prøves ikke igen.
+
+tidslinjer henter lovens versionskæde (hovedlov, ændringslove og lovbekendtgørelser) for hver lov og lovbekendtgørelse i Lovtidende A gennem
+samme kø. Kæden er den samme for alle versioner af en lov, så der bruges ét kald pr. lov. eksport.py katalog læser filen og samler
+lovfamilierne efter den i stedet for efter titlen.
 """
 from __future__ import annotations
 
@@ -104,6 +109,38 @@ def hent(minutter: float) -> dict:
     return dict(tal)
 
 
+def tidslinjer(minutter: float) -> dict:
+    """Henter tidslinjen for de love og lovbekendtgørelser, der ikke står i en allerede hentet tidslinje; gældende og nyeste først."""
+    with (E.KAT / "retsinformation_lta.jsonl").open(encoding="utf-8") as f:
+        love = [d for d in map(json.loads, f) if d["type"] in E.LOVE and d["dokumentrolle"] == "hoved" and d["identifikatorer"].get("unique_document_id")]
+    love.sort(key=lambda d: (d["status"]["vaerdi"] == "gældende", d["datoer"].get("udstedt", "")), reverse=True)
+    kendt = {i for r in E.tidslinjer(("ok", "død", "ikke-json")) for i in (r["id"], *E.lovversioner(r.get("tidslinje", [])))}
+    start, tal, fejl = time.monotonic(), collections.Counter(), 0
+    for d in love:
+        if d["id"] in kendt:
+            continue
+        if time.monotonic() - start >= minutter * 60 or fejl >= 5 or not aaben():
+            break
+        status, raw = E.P.get(f"{E.P.RI}/api/document/{d['identifikatorer']['unique_document_id']}/timeline")
+        try:
+            tl = json.loads(raw) if status == "ok" else None
+        except ValueError:
+            tl = None
+        if status == "ok" and not isinstance(tl, list):
+            status = "ikke-json"
+        raekke = {"id": d["id"], "status": status, "hentet": str(datetime.date.today())}
+        if status == "ok":
+            raekke["tidslinje"] = [{k: e.get(k) for k in E.TIDSLINJEFELTER} for e in tl]
+            kendt.update(E.lovversioner(raekke["tidslinje"]))
+        with E.TL.open("a", encoding="utf-8") as f:
+            f.write(E.linje(raekke))
+        tal[status] += 1
+        fejl = fejl + 1 if status == "ukendt" else 0
+        if fejl:
+            time.sleep(30 * 2**fejl)
+    return {**tal, "mangler": sum(d["id"] not in kendt for d in love)}
+
+
 def udtraek(xml: str) -> dict:
     """Omfang, præambel uden fodnoter, fodnoter, de love og bekendtgørelser teksten nævner med nummer og dato ({"katalog-id|dato": antal})
     og, fra Meta, underskriftssted og EU-retsakter (CELEX); tomme felter udelades."""
@@ -112,7 +149,9 @@ def udtraek(xml: str) -> dict:
     liste = lambda v: [v] if isinstance(v, str) else v or []
     naevner = collections.Counter(f"lta-{m[4] or m[7]}-{int(m[1])}|{m[4] or m[7]}-{E.X.MONTHS[m[3].lower()] if m[3] else int(m[6]):02d}-{int(m[2] or m[5]):02d}"
                                   for m in NAEVNT.finditer(tekst(xml)))
-    felter = {"praeambel": E.P.praeambel(xml), "noter": led("Nota", xml), "naevner": dict(sorted(naevner.items())),
+    instansled = [[par, s[:600]] for par, t in afsnit(xml) if par for s in E.SAETNING.split(" ".join(re.sub(r"[\u200b-\u200d\u2060\ufeff\u00ad]", "", t).split()))
+           if any(r.search(s) for r in E.LED)]
+    felter = {"praeambel": E.P.praeambel(xml), "klage_tilsyn": instansled[:80], "noter": led("Nota", xml), "naevner": dict(sorted(naevner.items())),
               "underskrevet_af": "; ".join(liste(meta.get("PlaceOfSignature"))), "eu": liste(meta.get("EuReferences"))}
     return {"n_tegn": len(tekst(xml)), "n_paragraffer": len(re.findall(r"<Paragraf\b", xml)), **{k: v for k, v in felter.items() if v}}
 
@@ -165,6 +204,8 @@ def selftest() -> None:
     assert u["naevner"] == {"lta-2020-7|2020-01-01": 1}
     naevnt = udtraek("<Dokument><Char>Se LBK nr. 943 af 16. oktober 2000, ændringsbekendtgørelsen nr. 1434 af 25/11/2025 og lov nr. 5 af 3. maj 2021. Jf. lov nr. 5 af 3.5.2021.</Char></Dokument>")
     assert naevnt["naevner"] == {"lta-2000-943|2000-10-16": 1, "lta-2021-5|2021-05-03": 2, "lta-2025-1434|2025-11-25": 1}
+    klage = udtraek("<Dokument><Paragraf><Explicatus>§ 9.</Explicatus><Char>Reglerne gælder for æbler. Afgørelser kan påklages til Frugtklagenævnet. Nævnet fører tilsyn.</Char></Paragraf></Dokument>")
+    assert klage["klage_tilsyn"] == [["§ 9", "Afgørelser kan påklages til Frugtklagenævnet."], ["§ 9", "Nævnet fører tilsyn."]] and "klage_tilsyn" not in u
     assert u["noter"] == ["1) Ressortansvaret er overført."] and u["underskrevet_af"] == "Æblestyrelsen" and u["eu"] == ["32010L0031"]
     assert "Æbler er frugt." in tekst(xml) and "Bekendtgørelse om æbler" not in tekst(xml) and u["n_tegn"] == len(tekst(xml))
     assert udtraek("<Dokument><Paragraf>x</Paragraf></Dokument>") == {"n_tegn": 1, "n_paragraffer": 1}
@@ -183,6 +224,8 @@ if __name__ == "__main__":
         print(json.dumps({t: {"dokumenter": len(ids), "hentet": sum(sti(i).exists() for i in ids)} for t, ids in plan().items()}, ensure_ascii=False, indent=1))
     elif kommando == "hent":
         print(json.dumps(hent(float(sys.argv[2]) if len(sys.argv) > 2 else 105), ensure_ascii=False))
+    elif kommando == "tidslinjer":
+        print(json.dumps(tidslinjer(float(sys.argv[2]) if len(sys.argv) > 2 else 105), ensure_ascii=False))
     elif kommando == "indeks":
         print(json.dumps(indeks(), ensure_ascii=False))
     elif kommando == "fuld":

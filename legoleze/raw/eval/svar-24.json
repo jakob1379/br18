@@ -1,0 +1,137 @@
+[
+  {
+    "id": "lta-2010-1532",
+    "hjemmel": [],
+    "eu": [
+      {"type": "direktiv", "aar": 2005, "nr": 36, "citat": "direktiv 2005/36/EF"},
+      {"type": "direktiv", "aar": 2006, "nr": 123, "citat": "direktiv 2006/123/EF"}
+    ],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2010-562",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 268, "aar": 2005, "bestemmelser": ["§ 15 a, stk. 5", "§ 39", "§ 43", "§ 46", "§ 57", "§ 63", "§ 73", "§ 84"], "citat": "lovbekendtgørelse nr. 268 af 18. marts 2005"}
+    ],
+    "eu": [
+      {"type": "direktiv", "aar": 2006, "nr": 25, "citat": "direktiv 2006/25/EF"}
+    ],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2019-312",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 287, "aar": 2018, "bestemmelser": ["§ 3, stk. 1", "§ 5 j, stk. 4"], "citat": "lovbekendtgørelse nr. 287 af 16. april 2018"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2020-2140",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1203, "aar": 2020, "bestemmelser": ["§ 160"], "citat": "lovbekendtgørelse nr. 1203 af 3. august 2020"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2022-1387",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2024-1149",
+    "hjemmel": [],
+    "eu": [
+      {"type": "direktiv", "aar": 1991, "nr": 676, "citat": "direktiv 91/676/EØF"},
+      {"type": "direktiv", "aar": 1992, "nr": 43, "citat": "direktiv 92/43/EØF"},
+      {"type": "direktiv", "aar": 2000, "nr": 60, "citat": "direktiv 2000/60/EF"},
+      {"type": "direktiv", "aar": 2004, "nr": 35, "citat": "direktiv 2004/35/EF"},
+      {"type": "direktiv", "aar": 2009, "nr": 147, "citat": "direktiv 2009/147/EF"},
+      {"type": "direktiv", "aar": 2020, "nr": 2184, "citat": "direktiv (EU) 2020/2184"}
+    ],
+    "klage": [
+      {"afgoerelse_af": "kommunalbestyrelsen", "klageinstans": "Miljø- og Fødevareklagenævnet", "bestemmelse": "§ 75", "citat": "kan påklages til Miljø- og Fødevareklagenævnet"},
+      {"afgoerelse_af": "miljøministeren", "klageinstans": "Miljø- og Fødevareklagenævnet", "bestemmelse": "§ 75", "citat": "kan påklages til Miljø- og Fødevareklagenævnet"}
+    ],
+    "tilsyn": [
+      {"myndighed": "kommunalbestyrelsen", "bestemmelse": "§ 57", "citat": "Kommunalbestyrelsen fører tilsyn med indretningen og driften af vandforsyningsanlæg"},
+      {"myndighed": "kommunalbestyrelsen", "bestemmelse": "§ 58", "citat": "Kommunalbestyrelsen fører tilsyn med indvundne vandmængder"},
+      {"myndighed": "kommunalbestyrelsen", "bestemmelse": "§ 60", "citat": "Kommunalbestyrelsen fører tilsyn med kvaliteten af vandet"},
+      {"myndighed": "miljøministeren", "bestemmelse": "§ 61", "citat": "fører miljøministeren tilsyn med indretning og drift af vandforsyningsanlægget"},
+      {"myndighed": "kommunalbestyrelsen", "bestemmelse": "§ 65", "citat": "Kommunalbestyrelsen påser, at loven og de regler"},
+      {"myndighed": "miljøministeren", "bestemmelse": "§ 65 a", "citat": "Miljøministeren påser, at § 25 og de regler"},
+      {"myndighed": "miljøministeren", "bestemmelse": "§ 65 b", "citat": "Miljøministeren fører tilsyn med overholdelsen af regler"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2024-1731",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 124, "aar": 2024, "bestemmelser": ["§ 2 g, stk. 1"], "citat": "lovbekendtgørelse nr. 124 af 2. februar 2024"},
+      {"type": "bekendtgørelse", "nr": 1705, "aar": 2024, "bestemmelser": ["§ 4, stk. 1"], "citat": "bekendtgørelse nr. 1705 af 30. december 2024"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2024-718",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 132, "aar": 2024, "bestemmelser": ["§ 6, stk. 7", "§ 6 a, stk. 7", "§ 7, stk. 6", "§ 9, stk. 11", "§ 14 a, stk. 2", "§ 58 b, stk. 1"], "citat": "lovbekendtgørelse nr. 132 af 6. februar 2024"},
+      {"type": "bekendtgørelse", "nr": 1366, "aar": 2022, "bestemmelser": ["§ 4, stk. 1"], "citat": "bekendtgørelse nr. 1366 af 28. september 2022"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2025-1138",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1036, "aar": 2024, "bestemmelser": ["§ 2 a", "§ 15", "§ 16", "§ 17", "§ 18 a", "§ 20, stk. 4, nr. 2", "§ 21, stk. 3 og 4", "§ 21 a", "§ 21 b", "§ 22, stk. 2"], "citat": "lovbekendtgørelse nr. 1036 af 12. september 2024"},
+      {"type": "bekendtgørelse", "nr": 840, "aar": 2025, "bestemmelser": ["§ 5, stk. 1"], "citat": "bekendtgørelse nr. 840 af 25. juni 2025"}
+    ],
+    "eu": [
+      {"type": "direktiv", "aar": 2023, "nr": 1791, "citat": "direktiv 2023/1791/EU"}
+    ],
+    "klage": [
+      {"afgoerelse_af": "Energistyrelsen", "klageinstans": "Energiklagenævnet", "bestemmelse": "§ 27", "citat": "kan indbringes for Energiklagenævnet"},
+      {"afgoerelse_af": "Teknologisk Institut", "klageinstans": "Energistyrelsen", "bestemmelse": "§ 27", "citat": "kan indbringes for Energistyrelsen"}
+    ],
+    "tilsyn": [
+      {"myndighed": "Energistyrelsen", "bestemmelse": "§ 22", "citat": "Energistyrelsen fører tilsyn med virksomheder"},
+      {"myndighed": "Energistyrelsen", "bestemmelse": "§ 23", "citat": "Energistyrelsen fører tilsyn med virksomheder omfattet af forpligtelserne"},
+      {"myndighed": "Teknologisk Institut", "bestemmelse": "§ 25", "citat": "Energistyrelsens beføjelser jf. § 22 til at føre tilsyn med godkendelsesordningen"},
+      {"myndighed": "Energistyrelsen", "bestemmelse": "§ 25", "citat": "Energistyrelsen fører tilsyn med Teknologisk Instituts brug af bemyndigelsen"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2026-257",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [
+      {"afgoerelse_af": "gasdistributionsselskab", "klageinstans": "Erhvervsstyrelsen", "bestemmelse": "§ 30", "citat": "kan indbringes for Erhvervsstyrelsen"}
+    ],
+    "tilsyn": [
+      {"myndighed": "Erhvervsstyrelsen", "bestemmelse": "§ 12", "citat": "Erhvervsstyrelsen fører kontrol med, at denne lov"},
+      {"myndighed": "gasdistributionsselskab", "bestemmelse": "§ 24", "citat": "Gasdistributionsselskaber skal føre kontrol med gasanlæg"},
+      {"myndighed": "Erhvervsstyrelsen", "bestemmelse": "§ 14", "citat": "for at føre en effektiv kontrol efter denne lov"},
+      {"myndighed": "gasdistributionsselskab", "bestemmelse": "§ 14", "citat": "for at føre en effektiv kontrol efter denne lov"}
+    ],
+    "henviser": []
+  }
+]

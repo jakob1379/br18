@@ -1,0 +1,18 @@
+{
+  "omraade": "klagepar-fra-forskrifter",
+  "noder": [],
+  "kanter": [
+    {"from": "naevn-energiklagenaevnet", "type": "klageinstans", "to": "sty-arbejdstilsynet",
+     "beskrivelse": "Offshoreområdet: Arbejdstilsynets afgørelser efter bekendtgørelser udstedt i medfør af offshoresikkerhedsloven kan påklages til Energiklagenævnet.",
+     "belaeg": [{"url": "https://www.retsinformation.dk/eli/lta/2018/9", "citat": "Arbejdstilsynets afgørelser efter denne bekendtgørelse kan påklages til Energiklagenævnet efter § 67 i offshoresikkerhedsloven."},
+                {"url": "https://www.retsinformation.dk/eli/lta/2023/1043", "citat": "Afgørelser truffet af Arbejdstilsynet efter denne bekendtgørelse kan påklages til Energiklagenævnet efter § 67 i offshoresikkerhedsloven."}]},
+    {"from": "tilsyn-forsyningstilsynet", "type": "klageinstans", "to": "org-energinet",
+     "beskrivelse": "Energinets afgørelser efter elforsyningsloven og bekendtgørelsen om systemansvarlig virksomhed kan indbringes for Forsyningstilsynet.",
+     "belaeg": [{"url": "https://www.retsinformation.dk/eli/lta/2026/544", "citat": "Afgørelser truffet af Energinet efter denne bestemmelse kan indbringes for Forsyningstilsynet"},
+                {"url": "https://www.retsinformation.dk/eli/lta/2026/895", "citat": "Energinets afgørelser i henhold til stk. 1 kan påklages til Forsyningstilsynet."}]},
+    {"from": "sty-ankestyrelsen", "type": "klageinstans", "to": "sty-familieretshuset",
+     "beskrivelse": "Familieretshusets afgørelser efter adoptionsloven og dets afgørelser om optagelse i botilbud efter serviceloven kan påklages til Ankestyrelsen.",
+     "belaeg": [{"url": "https://www.retsinformation.dk/eli/lta/2026/669", "citat": "Familieretshusets afgørelser efter denne lov kan påklages til Ankestyrelsen."},
+                {"url": "https://www.retsinformation.dk/eli/lta/2026/641", "citat": "Familieretshusets afgørelser efter §§ 131 og 131 a om optagelse i botilbud"}]}
+  ]
+}

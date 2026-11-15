@@ -6,7 +6,7 @@
 - Øvrige samlinger: **131080** dokumenter (cirkulærer, vejledninger, afgørelser m.m., se nederst)
 - Seneste udstedelsesdato i datasættet: 2026-11-11
 - Status høstet: 2026-11-12 – 2026-11-12
-- Kanter: 345451 · EU-retsakter refereret: 1933 · koblet til registry-noder: 413
+- Kanter: 346220 · EU-retsakter refereret: 1933 · koblet til registry-noder: 413
 
 ## Dokumenttyper
 
@@ -150,9 +150,11 @@
 | Kanttype | verificeret | sandsynlig | ukendt |
 |---|---:|---:|---:|
 | henviser_til | 101597 | 92122 | 0 |
-| hjemmel_for | 88676 | 0 | 0 |
+| hjemmel_for | 88650 | 0 | 0 |
 | implementerer_EU | 0 | 1292 | 1164 |
+| klageinstans | 0 | 430 | 0 |
 | ressortansvar | 19582 | 10471 | 247 |
+| tilsyn | 0 | 365 | 0 |
 | udsteder | 29640 | 660 | 0 |
 
 ## Øvrige samlinger
@@ -163,10 +165,10 @@ Dokumenter uden for Lovtidende A, direkte fra Retsinformations søgeeksport (kun
 |---|---|---:|---:|---:|---:|---:|---:|
 | Lovtidende B | `retsinformation_ltb.jsonl` | 45 | 7 | 0 | 2 | 1 | 1 |
 | Lovtidende C | `retsinformation_ltc.jsonl` | 4778 | 4416 | 1 | 305 | 1 | 1 |
-| Ministerialtidende | `retsinformation_mt.jsonl` | 6421 | 1080 | 735 | 800 | 582 | 662 |
-| Retsinformation (administrative forskrifter og afgørelser) | `retsinformation_retsinfo.jsonl` | 75237 | 39868 | 30597 | 33766 | 18861 | 26852 |
+| Ministerialtidende | `retsinformation_mt.jsonl` | 6421 | 1080 | 735 | 801 | 583 | 664 |
+| Retsinformation (administrative forskrifter og afgørelser) | `retsinformation_retsinfo.jsonl` | 75237 | 39868 | 30597 | 33781 | 18876 | 26891 |
 | Folketingets Ombudsmand | `retsinformation_fob.jsonl` | 2869 | 2869 | 241 | 241 | 241 | 241 |
-| Folketingstidende (lovforslag, betænkninger, beslutningsforslag) | `retsinformation_ft.jsonl` | 41730 | 41730 | 17839 | 7032 | 6215 | 6268 |
+| Folketingstidende (lovforslag, betænkninger, beslutningsforslag) | `retsinformation_ft.jsonl` | 41730 | 41730 | 17839 | 7072 | 6255 | 6308 |
 
 ### Dokumenttyper i de øvrige samlinger (top 30 af 85)
 

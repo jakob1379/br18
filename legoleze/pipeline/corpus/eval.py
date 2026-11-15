@@ -37,13 +37,13 @@ import eksport as E
 import tekst as T
 
 EVAL, UD, SVAR = E.L / "intermediate" / "eval", E.L / "dk-regulering" / "eval", E.L / "raw" / "eval"
-RUNDER = ((20261115, {"forskrift-registry": 5, "forskrift": 7, "vejledning": 3}), (20261116, {"forskrift-registry": 3, "forskrift": 5, "vejledning": 2}))
+RUNDER = ((20261115, {"forskrift-registry": 5, "forskrift": 7, "vejledning": 3}), (20261116, {"forskrift-registry": 3, "forskrift": 5, "vejledning": 2}),
+          (20261117, {"forskrift-registry": 2, "forskrift": 4, "lov": 3}))
 VEJLEDNING = "vejledning → retsakt"
-SOEG = re.compile(r"klage|indbring|\banke|tilsyn|kontrolmyndighed", re.IGNORECASE)
+SOEG = re.compile(r"klage|indbring|\banke|tilsyn|\bkontrol", re.IGNORECASE)  # runde 1 og 2 blev trukket med "kontrolmyndighed" i stedet for "kontrol"
 BEGYNDELSE, LOFT = 10000, 1500
 EU = {"direktiv": "dir", "forordning": "reg", "afgørelse": "dec", "beslutning": "dec"}
 FELTER = ("hjemmel", "eu", "klage", "tilsyn", "henviser")
-ALIAS = {"kommunalbestyrelsen": "kommune-alle", "kommunen": "kommune-alle"}
 
 
 def gruppe(d: dict, t: dict) -> str | None:
@@ -51,6 +51,8 @@ def gruppe(d: dict, t: dict) -> str | None:
         return None
     if d["id"].startswith("lta-") and d["type"] == "bekendtgørelse" and d.get("dokumentrolle") == "hoved":
         return "forskrift-registry" if d.get("registry_ids") else "forskrift"
+    if d["id"].startswith("lta-") and d["type"] in E.LOVE and d.get("dokumentrolle") == "hoved":
+        return "lov"
     return "vejledning" if d["type"] == "vejledning" else None
 
 
@@ -61,7 +63,7 @@ def udtag(poster: list[tuple[dict, dict]], n: dict, froe: int) -> dict:
         if (g := gruppe(d, t)) and (dom := E.K.SCOPE.get(d.get("retsomraade"))):
             puljer[f"{dom}/{g}"].append(d["id"])
     r = random.Random(froe)
-    return {k: sorted(r.sample(sorted(ids), min(n[k.rpartition("/")[2]], len(ids)))) for k, ids in sorted(puljer.items())}
+    return {k: sorted(r.sample(sorted(ids), min(n[k.rpartition("/")[2]], len(ids)))) for k, ids in sorted(puljer.items()) if n.get(k.rpartition("/")[2])}
 
 
 def flad(s: str) -> str:
@@ -180,7 +182,7 @@ def maal(facit: list[dict], docs: dict, kanter: list[dict], reg: dict, tx: dict)
         ud[k["from"]].append(k)
     navne = E.myndigheder(reg)
     klage = {(k["from"], k["to"]) for k in reg["edges"] if k["type"] == "klageinstans"}
-    node = lambda navn: ALIAS.get(navn.lower()) or (navne.get(E.P.norm(navn)) or (None,))[0] if navn else None
+    node = lambda navn: E.ALIAS.get(navn.lower()) or (navne.get(E.P.norm(navn)) or (None,))[0] if navn else None
     t, afv = collections.defaultdict(collections.Counter), []
 
     def saet(maal_: str, i: str, facit_: set, fundet: dict) -> None:
@@ -198,7 +200,7 @@ def maal(facit: list[dict], docs: dict, kanter: list[dict], reg: dict, tx: dict)
             saet(VEJLEDNING, i, g, {n: {x for x in g if fam(x) == fam(n)} for n in naboer})
             continue
         g = {x["dok"]: x for x in f["hjemmel"]}
-        hj = [k for k in ind[i] if k["type"] == "hjemmel_for" and k["from"].startswith("lta-")]
+        hj = [k for k in ind[i] if k["type"] == "hjemmel_for" and k["from"].startswith("lta-") and f["gruppe"] != "lov"]
         traef = {k["from"]: {x for x in g if fam(x) == fam(k["from"]) or x == k.get("citeret_version")} for k in hj}
         saet("hjemmel_for", i, set(g), traef)
         saet("hjemmel_for, kun Retsinformations felt", i, set(g), {k["from"]: traef[k["from"]] for k in hj if k["metode"] == E.METODE})
@@ -217,6 +219,12 @@ def maal(facit: list[dict], docs: dict, kanter: list[dict], reg: dict, tx: dict)
                 t["klagekant mellem de to noder"].update(tp=(til, fra) in klage, fn=(til, fra) not in klage, fundet=(til, fra) in klage)
             if not til:
                 afv.append({"id": i, "maal": "klage", "art": "facit uden node", "led": x.get("klageinstans")})
+        g = {node(x.get("klageinstans")) for x in f["klage"]} - {None}
+        saet("klageinstans pr. forskrift", i, g, {k["from"]: {k["from"]} & g for k in ind[i] if k["type"] == "klageinstans"})
+        g = {f"{til} ← {fra}" for til, fra in ((node(x.get("klageinstans")), node(x.get("afgoerelse_af"))) for x in f["klage"]) if til and fra}
+        saet("afgørende myndighed på klagekanten", i, g, {p: {p} & g for k in ind[i] if k["type"] == "klageinstans" for p in (f"{k['from']} ← {a}" for a in k.get("afgoerelse_af", []))})
+        g = {node(x.get("myndighed")) for x in f["tilsyn"]} - {None}
+        saet("tilsynsmyndighed pr. forskrift", i, g, {k["from"]: {k["from"]} & g for k in ind[i] if k["type"] == "tilsyn"})
         for x in f["tilsyn"]:
             t["tilsynsmyndighed er en node"].update(tp=bool(node(x.get("myndighed"))), fn=not node(x.get("myndighed")), fundet=bool(node(x.get("myndighed"))))
     return {m: pr(c["tp"], c["fp"], c["fn"], c["fundet"]) | ({"forkerte": None, "praecision": None} if m == VEJLEDNING else {}) for m, c in t.items()}, [
@@ -236,7 +244,8 @@ def readme(tal: dict, facit: list[dict], foerste: dict | None = None) -> str:
     r = ["# Evalueringssæt for kæderne", "",
          "Genereret af `pipeline/corpus/eval.py maal`. Facit står i `facit.jsonl`: ét dokument pr. linje med de led, en annotator har læst i dokumentets egen tekst, hvert med et ordret citat.",
          "", "## Udtag", "", f"{len(facit)} gældende danske dokumenter med hentet tekst, trukket tilfældigt pr. domæne: hovedbekendtgørelser med og uden registry-node og vejledninger.",
-         "Runde 1 er brugt til at finde og rette fejl i udtrækkene, så dens tal er til den pæne side. Runde 2 er trukket bagefter; dens første måling, før noget blev rettet efter den, står i `kontrol-2.json` og i tabellen nedenfor.", "",
+         "Runde 1 er brugt til at finde og rette fejl i udtrækkene, så dens tal er til den pæne side. Runde 2 er trukket bagefter; dens første måling, før noget blev rettet efter den, står i `kontrol-2.json` og i tabellen nedenfor.",
+         "Runde 3 er trukket, efter at læseren af klage- og tilsynsbestemmelser var skrevet, og har love og lovbekendtgørelser med i stedet for vejledninger; dens første måling står i `kontrol-3.json`.", "",
          "| Domæne | " + " | ".join(f"Runde {n}" for n in tal) + " |", "|---|" + "---:|" * len(tal)]
     r += [f"| {d} | " + " | ".join(str(antal[d, n]) for n in tal) + " |" for d in domaener]
     r += ["", "Led i facit: " + ", ".join(f"{k} {v}" for k, v in led.items()) + f". Frafaldet i kontrollen: {sum(f['frafald'] for f in facit)} led eller paragraffer."
@@ -251,8 +260,10 @@ def readme(tal: dict, facit: list[dict], foerste: dict | None = None) -> str:
           "", "## Forbehold", "",
           "- Annotatoren er en sprogmodel (Haiku), ikke en jurist. Hvert led er kontrolleret mekanisk: citatet står ordret i dokumentet, nummer og år står i citatet, og paragrafferne står i indledningen. At citatet betyder det, leddet siger, er kun set efter for de afvigelser, der står som rettet.",
           f"- Annotatoren ser indledning og fodnoter og, for forskrifter, de paragraffer, der indeholder et af ordene i `SOEG`; for vejledninger de første {BEGYNDELSE} tegn. En klagebestemmelse med andre ord, eller en henvisning længere nede i en vejledning, er ikke i facit.",
-          "- Klage og tilsyn måler kun, om myndigheden findes som node under samme navn, og om der er en klagekant mellem de to myndigheder. Registry'et knytter ikke klageadgangen til den enkelte forskrift.",
-          "- En hjemmelskant til den gældende version af en omdøbt lov tæller som forkert, når kataloget ikke kobler den citerede version til den gældende. Det samme gælder vejledningernes kanter, som Retsinformation fører under lovens gældende version.",
+          "- Klage og tilsyn pr. forskrift måler katalogets kanter fra dokumentets egne bestemmelser (metode `bestemmelse`). En kant tæller kun med, når mindst én af dens paragraffer blev vist for annotatoren; kanter fra paragraffer uden et af ordene i `SOEG` (fx \"fører kontrol med\") kan facit ikke indeholde. Facit-led, hvis myndighed ikke er en node, tælles under \"er en node\" og ikke her.",
+          "- Læseren af klage- og tilsynsbestemmelser er rettet til efter afvigelserne i begge runder, så ingen af runderne er en uafhængig kontrol af den.",
+          "- \"Klagekant mellem de to noder\" måler registry'ets kanter mellem myndigheder, ikke katalogets kanter til den enkelte forskrift.",
+          "- En hjemmelskant til den gældende version af en omdøbt lov tæller som forkert, når kataloget ikke kobler den citerede version til den gældende (love uden hentet tidslinje kobles på titlen). Det samme gælder vejledningernes kanter, som Retsinformation fører under lovens gældende version.",
           "- Hjemmel i en tekstanmærkning til finansloven eller et aktstykke er ikke i facit og tælles ikke.",
           "- Udtaget er dokumenter fra 2010 og frem i de otte domæner, fordi ældre dokumenter sjældent har tekst i XML. Tallene siger ikke noget om resten af kataloget.", ""]
     return "\n".join(r)
@@ -321,7 +332,9 @@ if __name__ == "__main__":
         facit = [json.loads(x) for x in (UD / "facit.jsonl").open(encoding="utf-8")]
         with (E.KAT / "kanter.jsonl").open(encoding="utf-8") as f:
             ids = {x["id"] for x in facit}
-            kanter = [k for k in map(json.loads, f) if k["from"] in ids or k["to"] in ids]
+            vist = {i: set(re.findall(r"^\[([^\]]+)\]", (EVAL / "opgaver" / f"{i}.txt").read_text(encoding="utf-8"), re.MULTILINE)) for i in ids}
+            kanter = [k for k in map(json.loads, f) if (k["from"] in ids or k["to"] in ids)
+                      and (k.get("metode") != E.BESTEMMELSE or set(k["to_bestemmelse"]) & vist[k["to"]])]
         reg = E.P.yaml.load(E.P.REG.read_text(encoding="utf-8"), Loader=E.P.yaml.CSafeLoader)
         maalt = {n: maal([f for f in facit if f["runde"] == n], docs, kanter, reg, tx) for n in sorted({f["runde"] for f in facit})}
         tal = {n: t for n, (t, _) in maalt.items()}

@@ -64,6 +64,8 @@ K = modul("katalog", HERE / "katalog.py")
 L = HERE.parents[1]
 KAT = L / "dk-regulering" / "katalog"
 EKS = L / "intermediate" / "corpus" / "eksport"
+TL = L / "intermediate" / "corpus" / "tidslinjer.jsonl"
+TIDSLINJEFELTER = ("href", "documentTypeId", "isMainLaw", "isHistoric", "signatureDate")
 SAMLINGER = {"lta": 1, "ltb": 2, "ltc": 3, "mt": 4, "retsinfo": 5, "ft": 6, "fob": 7}
 ANDRE = ("ltb", "ltc", "mt", "retsinfo", "fob", "ft")
 PRAKSIS = {"endelig-adm-afgørelse", "afgørelse", "udtalelse", "udtalelser", "dom", "kommentar"}
@@ -72,6 +74,7 @@ PRAEAMBEL = "praeambel"
 FODNOTE = "fodnote"
 XMLTEKST = "xml-tekst"
 SAMFOREKOMST = "tekst-samforekomst"
+BESTEMMELSE = "bestemmelse"
 TYPER = {"Anordningsbekendtgørelse": "bekendtgørelse-af-anordning"}
 LOVE = ("lov", "lovbekendtgørelse")
 FORSKRIFTER = {"bekendtgørelse", "ændringsbekendtgørelse", "ikrafttrædelsesbekendtgørelse", "anordning", "ændringsanordning", "ikrafttrædelsesanordning",
@@ -217,6 +220,65 @@ def myndigheder(reg: dict) -> dict:
     return {k: max(v, key=lambda x: x[1]) for k, v in valg.items() if k and len({i for i, _ in v}) == 1}
 
 
+ALIAS = {"kommunalbestyrelsen": "kommune-alle", "kommunen": "kommune-alle"}
+SAETNING = re.compile(r"(?<=[.;])\s+(?=[A-ZÆØÅ])")
+KLAGE = re.compile(r"(?:\b(?:påklages?|klages|indbringes?|anke[sr]?)\b(?P<m>[^.;]{0,160}?)\b(?:til|for)|\bklager? til)\s+(?P<end>(?:en\s+)?anden administrativ myndighed end\s+)?",
+                   re.IGNORECASE)
+SAG = re.compile(r"\b(?:sag(?:en|er|erne)?|tvist(?:en|er|erne)?|spørgsmål(?:et)?)\b", re.IGNORECASE)
+BEHANDLER = re.compile(r"\s+(?:behandler|afgør|træffer afgørelse (?:i|om)) klager\b", re.IGNORECASE)
+TILSYN = re.compile(r"\b(?:(?:kan|skal)\s+)?(?:fører?|udøver|varetager)\s+(?P<m>(?:[\w,-]+\s+){0,7}?)(?:tilsyn|kontrol)(?:et|len)?\b", re.IGNORECASE)
+TILSYN_AF = re.compile(r"\b(?:tilsyn|kontrol)(?:et|len)?\b[^.;]{0,120}?\b(?:føres|udøves|varetages|foretages|udføres)\s+af\s+", re.IGNORECASE)
+LED = (KLAGE, BEHANDLER, TILSYN, TILSYN_AF)
+
+
+def laeser(reg: dict):
+    """(klager, tilsyn): to funktioner, der læser én sætning mod registry'ets instansnavne (med ALIAS og genitiv-s).
+    klager(sætning) giver [(klageinstans, afgørende myndighed eller None)] for "kan påklages til X", "kan indbringes for X", "klage til X",
+    "ikke … anden administrativ myndighed end X" og "X behandler klager"; ikke for "kan ikke påklages til X", ikke for domstolene under ét, ikke når
+    det er en sag eller en tvist, der indbringes, og ikke for en sætning, der opregner andre forskrifter. Den afgørende myndighed er en instans i samme sætning i formen "X's afgørelser"
+    eller "truffet af X". tilsyn(sætning) giver instanserne i "X fører tilsyn", "X kan føre kontrol", "fører X tilsyn" og "tilsynet føres af X"."""
+    navne = {**{k: v[0] for k, v in myndigheder(reg).items()}, **ALIAS}
+    laengde = max(len(k.split()) for k in navne)
+
+    def ved(w: list[str], i: int) -> tuple[str | None, int, bool]:
+        for n in range(min(laengde, len(w) - i), 0, -1):
+            k = " ".join(w[i:i + n])
+            if k in navne or k.removesuffix("s") in navne:
+                return navne.get(k) or navne[k.removesuffix("s")], n, k not in navne
+        return None, 0, False
+
+    def sidst(tekst: str) -> str | None:
+        w = P.norm(tekst).split()
+        return next((ved(w, i)[0] for i in range(max(0, len(w) - laengde), len(w)) if ved(w, i)[1] == len(w) - i), None)
+
+    def foerst(tekst: str) -> str | None:
+        return ved(P.norm(tekst[:200]).split(), 0)[0]
+
+    def afgoerer(saetning: str, til: str) -> str | None:
+        w = P.norm(saetning).split()
+        for i in range(len(w)):
+            node, n, genitiv = ved(w, i)
+            if node and node != til and ((genitiv and any(x.startswith("afgørelse") for x in w[i + n:i + n + 4]))
+                                         or w[max(0, i - 2):i] in (["truffet", "af"], ["afgørelser", "af"], ["afgørelse", "af"], ["meddelt", "af"])):
+                return node
+        return None
+
+    def klager(saetning: str) -> list[tuple[str, str | None]]:
+        if re.match(r"(?:Bekendtgørelse|Lov|Lovbekendtgørelse) nr\.", saetning):
+            return []
+        til = [foerst(saetning[m.end():]) for m in KLAGE.finditer(saetning)
+               if m["end"] or not (re.search(r"\bikke\b[^,]{0,40}$", saetning[:m.start()]) or re.search(r"\bikke\b", m["m"] or "") or SAG.search(saetning[:m.end()]))]
+        til += [sidst(saetning[:m.start()]) for m in BEHANDLER.finditer(saetning)]
+        return [(t, afgoerer(saetning, t)) for t in dict.fromkeys(til) if t and t != "dom-domstolene"]
+
+    def tilsyn(saetning: str) -> list[str]:
+        ud = [foerst(m["m"]) if len(m["m"].split()) > 2 or foerst(m["m"]) else sidst(saetning[:m.start()]) for m in TILSYN.finditer(saetning)]
+        ud += [foerst(saetning[m.end():]) for m in TILSYN_AF.finditer(saetning)]
+        return [x for x in dict.fromkeys(ud) if x]
+
+    return klager, tilsyn
+
+
 EUNAEVNT = re.compile("|".join(r.pattern for r in (X.R_DIR, X.R_REG_OLD, X.R_REG_NEW, X.R_DEC)), re.IGNORECASE)
 SLUT = re.compile(r"notificeret|medtaget visse|Ifølge artikel")
 KAEDE = re.compile(r"ændret ved|senest ved|og ved\b")
@@ -270,9 +332,27 @@ def udstederkant(d: dict, node: str, nuvaerende: bool) -> dict:
             "beskrivelse": "administrerende myndighed for afgørelsen eller udtalelsen ifølge Retsinformation" + ("" if nuvaerende else " (under et tidligere navn)")}
 
 
-def familier(docs: list[dict], blev_historisk: set) -> dict:
-    """Peg lovfamilier på den nyeste gældende lov eller lovbekendtgørelse med samme titel; returnér {gammel version: ny version}."""
+def tidslinjer(statusser: tuple = ("ok",)) -> list[dict]:
+    """Rækkerne i den hentede tidslinjefil med en af statusserne; tom, når filen ikke findes."""
+    return [r for r in map(json.loads, TL.open(encoding="utf-8")) if r["status"] in statusser] if TL.exists() else []
+
+
+def lovversioner(tl: list[dict]) -> list[str]:
+    """Katalog-id'er for lovens egne versioner i en tidslinje: hovedloven og lovbekendtgørelserne. Ændringslove og andre hovedlove, der har
+    ændret loven, står også i tidslinjen, men er ikke versioner af den."""
+    return [nid(e["href"]) for e in tl if (e.get("documentTypeId") == 30 or e.get("isMainLaw")) and "/eli/" in (e.get("href") or "")]
+
+
+def familier(docs: list[dict], blev_historisk: set, kaeder: list[list[str]] = ()) -> dict:
+    """Peg lovfamilier på den nyeste gældende version; returnér {gammel version: ny version} for dem, der er flyttet på titlen. En lov med
+    hentet tidslinje (kaeder: versionerne pr. lov) samles efter den og får familie_metode "tidslinje": er ingen version gældende, peger de
+    ældre på den nyeste. Andre love samles på titlen."""
     ids = {d["id"]: d for d in docs}
+    hoved = {}
+    for kaede in kaeder:
+        v = [i for i in kaede if i in ids]
+        nu = max([i for i in v if ids[i]["status"]["vaerdi"] == "gældende"] or v, key=lambda i: ids[i]["datoer"].get("udstedt", ""), default=None)
+        hoved.update(dict.fromkeys(v, nu))
     gaeldende = collections.defaultdict(list)
     for d in docs:
         if d["status"]["vaerdi"] == "gældende" and d["type"] in LOVE and d["dokumentrolle"] == "hoved":
@@ -284,6 +364,13 @@ def familier(docs: list[dict], blev_historisk: set) -> dict:
 
     ompeg = {}
     for d in docs:
+        if d["id"] in hoved:
+            for k in ("gaeldende_version", "nyeste_version_afloeser_mangler", "afloeser_mangler"):
+                d.pop(k, None)
+            d["familie_metode"] = "tidslinje"
+            if (nu := hoved[d["id"]]) != d["id"]:
+                d["gaeldende_version" if ids[nu]["status"]["vaerdi"] == "gældende" else "nyeste_version_afloeser_mangler"] = nu
+            continue
         g = d.get("gaeldende_version") or d.pop("nyeste_version_afloeser_mangler", None)
         if not g and d["status"]["vaerdi"] == "historisk" and d["type"] in LOVE and (d.get("afloeser_mangler") or d["id"] in blev_historisk):
             g = d["id"]
@@ -425,8 +512,10 @@ def katalog() -> dict:
     for d in nye:
         if d["dokumentrolle"] == "ændring" and (maal := henvist(eks[d["id"]].get("ÆndrerI"), ids)):
             d["aendrer"] = maal
-    ompeg = familier(docs, blev_historisk)
+    familie = lambda i: ids[i].get("gaeldende_version") or ids[i].get("nyeste_version_afloeser_mangler") or i
+    ompeg = familier(docs, blev_historisk, [lovversioner(r["tidslinje"]) for r in tidslinjer()])
     stats["lovfamilier flyttet til ny gældende version"] = len(ompeg)
+    stats["love samlet efter Retsinformations tidslinje"] = sum(d.get("familie_metode") == "tidslinje" for d in docs)
 
     hjemmel = {i: [accession[a] for a in r.get("HjemmelVedroerer", "").split(",") if a in accession and accession[a] != i] for i, r in eks.items() if i in ids}
     versioner = collections.defaultdict(list)
@@ -459,15 +548,19 @@ def katalog() -> dict:
         [{"id": d["id"], "navn": d["navn"], "type": d["type"], "ressortfelt": eks.get(d["id"], {}).get("Ressort"), "myndighed": eks.get(d["id"], {}).get("AdministrerendeMyndighed"),
           "ministerium": (d.get("ministerium") or {}).get("vaerdi"), "retsomraade": d.get("retsomraade")} for d in rest], ensure_ascii=False, indent=1), encoding="utf-8")
 
-    kanter = [e for e in map(json.loads, (KAT / "kanter.jsonl").open(encoding="utf-8")) if e.get("metode") not in (METODE, PRAEAMBEL, FODNOTE, XMLTEKST)
+    kanter = [e for e in map(json.loads, (KAT / "kanter.jsonl").open(encoding="utf-8")) if e.get("metode") not in (METODE, PRAEAMBEL, FODNOTE, XMLTEKST, BESTEMMELSE)
               and not (e["type"] == "ressortansvar" and (e["to"] in ri or ids.get(e["to"], {}).get("status", {}).get("vaerdi") == "historisk"))]
     for e in kanter:
         if e["type"] == "henviser_til" and (e.get("gaeldende_version") or e["to"]) in ompeg:
             e["gaeldende_version"] = ompeg[e.get("gaeldende_version") or e["to"]]
+        if ids.get(e["to"], {}).get("familie_metode") == "tidslinje" and e["type"] == "henviser_til":
+            for k in ("gaeldende_version", "nyeste_version_afloeser_mangler"):
+                e.pop(k, None)
+                if ids[e["to"]].get(k):
+                    e[k] = ids[e["to"]][k]
     tekstfil = KAT / "tekst.jsonl"
     hentet = [t for t in map(json.loads, tekstfil.open(encoding="utf-8")) if t["id"] in ids] if tekstfil.exists() else []
     praeambel = {t["id"]: t["praeambel"] for t in hentet if "praeambel" in t}
-    familie = lambda i: ids[i].get("gaeldende_version") or ids[i].get("nyeste_version_afloeser_mangler") or i
     findes = {(e["from"], e["type"], e["to"]) for e in kanter}
     for i in sorted(hjemmel):
         if ids[i]["type"] in FORSKRIFTER or not i.startswith("lta-"):
@@ -507,6 +600,22 @@ def katalog() -> dict:
                 kanter.append({"from": i, "type": "henviser_til", "to": c, "beskrivelse": f"nævner dokumentet (nr. og dato) {n} gang(e) i den hentede tekst",
                                "kilder": d["kilder"][:1], "sikkerhed": "verificeret", "metode": XMLTEKST,
                                **({"gaeldende_version": gv} if (gv := ids[c].get("gaeldende_version")) else {})})
+    klager, tilsyn = laeser(reg)
+    for t in hentet:
+        led = collections.defaultdict(lambda: collections.defaultdict(list))
+        for par, saetning in t.get("klage_tilsyn", []) if t["id"].startswith("lta-") and ids[t["id"]].get("dokumentrolle") == "hoved" else ():
+            for til, fra in klager(saetning):
+                led[til, "klageinstans"]["afgoerelse_af"] += [fra] if fra else []
+                led[til, "klageinstans"]["her"].append((par, saetning))
+            for myndighed in tilsyn(saetning):
+                led[myndighed, "tilsyn"]["her"].append((par, saetning))
+        kanter += [{"from": node, "type": type_, "to": t["id"], "beskrivelse": x["her"][0][1][:400], "kilder": ids[t["id"]]["kilder"][:1], "sikkerhed": "sandsynlig",
+                    "metode": BESTEMMELSE, "to_bestemmelse": list(dict.fromkeys(par for par, _ in x["her"])),
+                    **({"afgoerelse_af": list(dict.fromkeys(x["afgoerelse_af"]))} if x["afgoerelse_af"] else {})}
+                   for (node, type_), x in led.items() if (node, type_, t["id"]) not in findes]
+    stats["klageinstans fra dokumentets bestemmelser"] = sum(e.get("metode") == BESTEMMELSE and e["type"] == "klageinstans" for e in kanter)
+    stats["heraf med afgørende myndighed"] = sum(e.get("metode") == BESTEMMELSE and "afgoerelse_af" in e for e in kanter)
+    stats["tilsyn fra dokumentets bestemmelser"] = sum(e.get("metode") == BESTEMMELSE and e["type"] == "tilsyn" for e in kanter)
     stats["implementerer_EU fra fodnoter"] = sum(e.get("metode") == FODNOTE for e in kanter)
     stats["henviser_til fra hentet tekst"] = sum(e.get("metode") == XMLTEKST for e in kanter)
     euindeks(kanter, ids)
@@ -599,6 +708,29 @@ def selftest() -> None:
     assert familier(fam, {"b", "k"}) == {"b": "c"}
     assert [x.get("gaeldende_version") for x in fam] == ["c", "c", None, None, None, None] and fam[3]["nyeste_version_afloeser_mangler"] == "q"
     assert fam[4]["afloeser_mangler"] and fam[5]["afloeser_mangler"] and "afloeser_mangler" not in fam[1]
+    tl = [{"href": "/eli/lta/1998/452", "documentTypeId": 30}, {"href": "/eli/lta/2001/228", "documentTypeId": 20}, {"href": "/eli/lta/1996/485", "documentTypeId": 10, "isMainLaw": False},
+          {"href": "/eli/lta/1975/323", "documentTypeId": 10, "isMainLaw": True}, {"href": None, "documentTypeId": 30}]
+    klager, tilsyn = laeser({"nodes": [{"id": "naevn-frugt", "type": "nævn", "navn": "Frugtklagenævnet"}, {"id": "sty-aeble", "type": "styrelse", "navn": "Æblestyrelsen"},
+                                       {"id": "dom-domstolene", "type": "domstol", "navn": "Domstolene"}, {"id": "naevn-ae-og-p", "type": "nævn", "navn": "Æble- og Pærenævnet"}]})
+    for saetning, ventet in (("Æblestyrelsens afgørelser efter § 4 kan påklages til Frugtklagenævnet.", [("naevn-frugt", "sty-aeble")]),
+                             ("Afgørelser efter bekendtgørelsen kan indbringes for Æble- og Pærenævnet inden 4 uger.", [("naevn-ae-og-p", None)]),
+                             ("Afgørelser efter § 4 kan ikke påklages til Frugtklagenævnet.", []),
+                             ("Afgørelser kan ikke indbringes for anden administrativ myndighed end Frugtklagenævnet.", [("naevn-frugt", None)]),
+                             ("Frugtklagenævnet behandler klager over afgørelser truffet af kommunalbestyrelsen.", [("naevn-frugt", "kommune-alle")]),
+                             ("Klage til Frugtklagenævnet over kommunalbestyrelsens afgørelser indgives skriftligt.", [("naevn-frugt", "kommune-alle")]),
+                             ("Klagen sendes til Æblestyrelsen.", []), ("Kommunalbestyrelsen skal indbringe en sag for Frugtklagenævnet.", []), ("Afgørelsen kan indbringes for domstolene.", []),
+                             ("Bekendtgørelse nr. 3 af 2. maj 2017 om klage til Frugtklagenævnet ophæves.", [])):
+        assert klager(saetning) == ventet, (saetning, klager(saetning))
+    for saetning, ventet in (("Æblestyrelsen fører tilsyn med, at reglerne overholdes.", ["sty-aeble"]), ("I disse sager fører kommunalbestyrelsen tilsyn med anlægget.", ["kommune-alle"]),
+                             ("Tilsynet med overholdelsen føres af Æblestyrelsen.", ["sty-aeble"]), ("Æblestyrelsen varetager tilsynet.", ["sty-aeble"]),
+                             ("Virksomheder under tilsyn af Æblestyrelsen skal indberette.", []), ("Den, der fører tilsyn, skal have adgang.", []), ("Æblestyrelsen kan føre kontrol og tilsyn med frugten.", ["sty-aeble"])):
+        assert tilsyn(saetning) == ventet, (saetning, tilsyn(saetning))
+    assert lovversioner(tl) == ["lta-1998-452", "lta-1975-323"]
+    omdoebt = [lov("s", "Bekendtgørelse af lov om sommerhuse", 2013, "historisk", afloeser_mangler=True), lov("u", "Bekendtgørelse af lov om udlejning", 2024, "gældende"),
+               lov("g", "Bekendtgørelse af gammel lov", 1990, "historisk", gaeldende_version="u"), lov("h", "Bekendtgørelse af den gamle lov", 1995, "historisk")]
+    assert familier(omdoebt, set(), [["s", "u", "findes-ikke"], ["g", "h"]]) == {}
+    assert [(x.get("gaeldende_version"), x.get("nyeste_version_afloeser_mangler"), x.get("afloeser_mangler")) for x in omdoebt] == [("u", None, None), (None, None, None), (None, "h", None), (None, None, None)]
+    assert all(x["familie_metode"] == "tidslinje" for x in omdoebt) and "familie_metode" not in fam[0]
     reg = {"regering": {"dannet": "2026-06-03"}, "nodes": [{"id": "min-ae", "type": "ministerium", "status": "aktiv", "navn": "Æbleministeriet"}]}
     inst = [{"id": "naevn-ae", "type": "nævn", "navn": "Æblenævnet (ÆN)", "tidligere_navne": [{"navn": "Frugtnævnet"}, {"navn": "Det Gamle Nævn"}]},
             {"id": "naevn-p", "type": "nævn", "navn": "Pærenævnet", "tidligere_navne": [{"navn": "Det Gamle Nævn"}]}, {"id": "lov-x", "type": "lov", "navn": "Lovnævnet"}]

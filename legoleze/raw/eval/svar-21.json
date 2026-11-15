@@ -1,0 +1,28 @@
+[
+  {
+    "id": "lta-2026-544",
+    "hjemmel": [],
+    "eu": [
+      {"type": "direktiv", "aar": 1992, "nr": 43, "citat": "direktiv 92/43/EØF"},
+      {"type": "direktiv", "aar": 2008, "nr": 99, "citat": "direktiv 2008/99/EF"},
+      {"type": "direktiv", "aar": 2009, "nr": 147, "citat": "direktiv 2009/147/EF"},
+      {"type": "direktiv", "aar": 2018, "nr": 2001, "citat": "direktiv 2018/2001/EU"},
+      {"type": "direktiv", "aar": 2019, "nr": 944, "citat": "direktiv 2019/944/EU"},
+      {"type": "direktiv", "aar": 2023, "nr": 1791, "citat": "direktiv (EU) 2023/1791"}
+    ],
+    "klage": [
+      {"afgoerelse_af": "Energinet", "klageinstans": "Forsyningstilsynet", "bestemmelse": "§ 31", "citat": "kan indbringes for Forsyningstilsynet"},
+      {"afgoerelse_af": "kollektive elforsyningsvirksomheder", "klageinstans": "klima-, energi- og forsyningsministeren", "bestemmelse": "§ 68 a", "citat": "kan påklages til klima-, energi- og forsyningsministeren"},
+      {"afgoerelse_af": "klima-, energi- og forsyningsministeren", "klageinstans": "Energiklagenævnet", "bestemmelse": "§ 89", "citat": "Energiklagenævnet behandler klager over afgørelser truffet af klima-, energi- og forsyningsministeren"}
+    ],
+    "tilsyn": [
+      {"myndighed": "Forsyningstilsynet", "bestemmelse": "§ 19 d", "citat": "Forsyningstilsynet fører tilsyn med"},
+      {"myndighed": "Forsyningstilsynet", "bestemmelse": "§ 20 b", "citat": "Forsyningstilsynet fører tilsyn med"},
+      {"myndighed": "klima-, energi- og forsyningsministeren", "bestemmelse": "§ 50 a", "citat": "Klima-, energi- og forsyningsministeren fører tilsyn med"},
+      {"myndighed": "klima-, energi- og forsyningsministeren", "bestemmelse": "§ 51", "citat": "Klima-, energi- og forsyningsministeren fører tilsyn med"},
+      {"myndighed": "Forsyningstilsynet", "bestemmelse": "§ 78", "citat": "Forsyningstilsynet fører tilsyn med"},
+      {"myndighed": "Forsyningstilsynet", "bestemmelse": "§ 81", "citat": "til brug for tilsynet efter loven"}
+    ],
+    "henviser": []
+  }
+]

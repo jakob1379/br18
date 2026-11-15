@@ -1,0 +1,147 @@
+[
+  {
+    "id": "lta-2012-545",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 933, "aar": 2009, "bestemmelser": ["§ 51, stk. 1", "§ 70", "§ 73, stk. 3", "§ 78, stk. 6", "§ 89, stk. 3"], "citat": "lovbekendtgørelse nr. 933 af 24. september 2009"},
+      {"type": "lovbekendtgørelse", "nr": 930, "aar": 2009, "bestemmelser": ["§ 33", "§ 49, stk. 1 og 3", "§ 54, stk. 3"], "citat": "lovbekendtgørelse nr. 930 af 24. september 2009"}
+    ],
+    "eu": [
+      {"type": "direktiv", "aar": 2009, "nr": 147, "citat": "direktiv nr. 2009/147/EF"},
+      {"type": "direktiv", "aar": 1992, "nr": 43, "citat": "direktiv 92/43/EØF"}
+    ],
+    "klage": [],
+    "tilsyn": [
+      {"myndighed": "Naturstyrelsen", "bestemmelse": "§ 14", "citat": "Naturstyrelsen fører tilsyn med at bestemmelserne overholdes"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2013-118",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1712, "aar": 2010, "bestemmelser": ["§ 2, stk. 1", "§ 5, stk. 1", "§ 8", "§ 8 a"], "citat": "lovbekendtgørelse nr. 1712 af 16. december 2010"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2017-1407",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 831, "aar": 2015, "bestemmelser": ["§ 4 a", "§ 18, stk. 7", "§§ 43-44", "§ 61, stk. 4", "§ 72, stk. 1"], "citat": "lovbekendtgørelse nr. 831 af 1. juli 2015"},
+      {"type": "bekendtgørelse", "nr": 1193, "aar": 2015, "bestemmelser": ["§ 3, stk. 1"], "citat": "bekendtgørelse nr. 1193 af 9. oktober 2015"}
+    ],
+    "eu": [
+      {"type": "direktiv", "aar": 1989, "nr": 391, "citat": "direktiv 89/391/EØF"},
+      {"type": "direktiv", "aar": 1992, "nr": 85, "citat": "direktiv 92/85/EØF"},
+      {"type": "direktiv", "aar": 2007, "nr": 30, "citat": "direktiv 2007/30/EF"},
+      {"type": "direktiv", "aar": 1992, "nr": 91, "citat": "direktiv 92/91/EØF"},
+      {"type": "direktiv", "aar": 2010, "nr": 35, "citat": "direktiv 2010/35/EU"},
+      {"type": "direktiv", "aar": 2014, "nr": 35, "citat": "direktiv 2014/35/EU"},
+      {"type": "direktiv", "aar": 2006, "nr": 96, "citat": "direktiv 2006/96/EF"}
+    ],
+    "klage": [],
+    "tilsyn": [
+      {"myndighed": "Arbejdstilsynet", "bestemmelse": "§ 114", "citat": "Arbejdstilsynet fører tilsyn med forhold omfattet af stk. 1-3"},
+      {"myndighed": "Arbejdstilsynet", "bestemmelse": "§ 157", "citat": "Arbejdstilsynet fører tilsyn med forhold omfattet af denne bekendtgørelses bestemmelser"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2018-1488",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 287, "aar": 2018, "bestemmelser": ["§ 3, stk. 1", "§ 5 m, stk. 4"], "citat": "lovbekendtgørelse nr. 287 af 16. april 2018"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2018-649",
+    "hjemmel": [
+      {"type": "lov", "nr": 401, "aar": 2014, "bestemmelser": ["§ 3, stk. 1, nr. 3", "§ 3, stk. 3", "§ 6, stk. 1, nr. 3", "§ 6, stk. 2", "§ 12, nr. 4", "§ 36, stk. 2"], "citat": "lov nr. 401 af 28. april 2014"},
+      {"type": "bekendtgørelse", "nr": 545, "aar": 2017, "bestemmelser": ["§ 4, nr. 1, 3, 4, 5, 9 og 23"], "citat": "bekendtgørelse nr. 545 af 29. maj 2017"}
+    ],
+    "eu": [
+      {"type": "direktiv", "aar": 2005, "nr": 36, "citat": "direktiv 2005/36/EF"}
+    ],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2019-30",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [
+      {"afgoerelse_af": "Sikkerhedsstyrelsen", "klageinstans": "Erhvervsankenævnet", "bestemmelse": "§ 35", "citat": "kan dog indbringes for Erhvervsankenævnet"}
+    ],
+    "tilsyn": [
+      {"myndighed": "Sikkerhedsstyrelsen", "bestemmelse": "§ 26", "citat": "Sikkerhedsstyrelsen fører tilsyn med, at denne lov og regler fastsat i medfør af denne lov overholdes"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2021-159",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [
+      {"myndighed": "Arbejdstilsynet", "bestemmelse": "§ 4", "citat": "Arbejdstilsynet kan føre tilsyn med"},
+      {"myndighed": "kommunalbestyrelsen", "bestemmelse": "§ 7", "citat": "Kommunalbestyrelsen fører på baggrund af Arbejdstilsynets underretning, jf. § 4, stk. 3, tilsyn med"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2022-428",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 2062, "aar": 2021, "bestemmelser": ["§ 17, stk. 3", "§ 41, nr. 1", "§ 41 b", "§ 46", "§ 74, stk. 2", "§ 84"], "citat": "lovbekendtgørelse nr. 2062 af 16. november 2021"}
+    ],
+    "eu": [
+      {"type": "direktiv", "aar": 2009, "nr": 104, "citat": "direktiv 2009/104/EF"}
+    ],
+    "klage": [
+      {"afgoerelse_af": "Arbejdstilsynet", "klageinstans": "Arbejdsmiljøklagenævnet", "bestemmelse": "§ 119", "citat": "kan påklages til Arbejdsmiljøklagenævnet"}
+    ],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2023-1670",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1178, "aar": 2016, "bestemmelser": ["§ 6 E"], "citat": "lovbekendtgørelse nr. 1178 af 23. september 2016"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2025-1741",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [
+      {"afgoerelse_af": "Disciplinarnævnet", "klageinstans": "Ankenævnet", "bestemmelse": "§ 65", "citat": "forlanges forelagt et ankenævn til afgørelse"},
+      {"afgoerelse_af": "taksationskommissionen", "klageinstans": "overtaksationskommissionen", "bestemmelse": "§ 38", "citat": "prøvelse ved overtaksationskommission"}
+    ],
+    "tilsyn": [
+      {"myndighed": "Ministeren for samfundssikkerhed og beredskab", "bestemmelse": "§ 4", "citat": "Ministeren for samfundssikkerhed og beredskab fører tilsyn med det kommunale redningsberedskab"},
+      {"myndighed": "kommunalbestyrelsen", "bestemmelse": "§ 37", "citat": "Kommunalbestyrelsen fører tilsyn med bedriftværn"},
+      {"myndighed": "Beredskabsstyrelsen", "bestemmelse": "§ 37 c", "citat": "Beredskabsstyrelsen fører tilsyn med overholdelse af forpligtelserne efter §§ 37 a og 37 b"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2025-433",
+    "hjemmel": [],
+    "eu": [
+      {"type": "direktiv", "aar": 2022, "nr": 2557, "citat": "direktiv (EU) 2022/2557"}
+    ],
+    "klage": [],
+    "tilsyn": [
+      {"myndighed": "den kompetente myndighed", "bestemmelse": "§ 14", "citat": "Den kompetente myndighed fører på sit område tilsyn med kritiske enheders overholdelse af denne lov"}
+    ],
+    "henviser": []
+  }
+]

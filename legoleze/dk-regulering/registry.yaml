@@ -43,7 +43,8 @@ meta:
     felter: id, navn, type, kilder[ELI-XML-URL], status{vaerdi gældende|historisk, pr, sikkerhed}, identifikatorer{lovtidende, document_id, accession,
       unique_document_id, sikkerhed}, datoer{udstedt, historisk_markeret, ri_registreret, ri_aendret}, territorium (DK/GL/FO/GL+FO ud fra titlen),
       dokumentrolle (hoved/ændring/ikrafttræden/ophævelse), udstedt_af{vaerdi, metode, praefiks, sikkerhed}, ministerium{vaerdi, sikkerhed, metode,
-      pr} og retsomraade/domaener (kun gældende), gaeldende_version / nyeste_version_afloeser_mangler / afloeser_mangler, aendrer[], eu_referencer[],
+      pr} og retsomraade/domaener (kun gældende), gaeldende_version / nyeste_version_afloeser_mangler / afloeser_mangler, familie_metode (tidslinje,
+      når lovens versioner er samlet efter Retsinformations tidslinje for loven; uden feltet er de samlet på titlen), aendrer[], eu_referencer[],
       registry_ids[], seed_fil (kun dokumenter fra bulk-høsten), n_paragraffer, n_definitioner. Dokumenter uden for Lovtidende A har id, navn,
       type (Retsinformations egen dokumenttype med små bogstaver og bindestreger, når den ikke er en af katalogets), kilder[ELI-URL], status,
       identifikatorer{document_id, accession, sikkerhed}, datoer, territorium, udstedt_af og registry_ids[] samt, for gældende dokumenter, ministerium
@@ -65,7 +66,12 @@ meta:
       når den er en anden end Retsinformations. En henvisning, der kun står i præamblen, er en egen hjemmel_for-kant med metode praeambel), ressortansvar
       (ministerium → gældende dokument; fra Retsinformations ressortfelt, når det med sikkerhed er aktuelt, ellers fra registry-noden, arvet fra
       hjemmelsloven eller klassificeret), udsteder (instans i registry''et → afgørelse, udtalelse eller dom, når Retsinformations felt for administrerende
-      myndighed er instansens navn; sandsynlig, når det er et tidligere navn). Endepunkter er katalog-id''er, registry-id''er eller eu_index-id''er.'
+      myndighed er instansens navn; sandsynlig, når det er et tidligere navn)., klageinstans og tilsyn (instans i registry''et → lov eller forskrift
+      i Lovtidende A, hvis XML er hentet og som ikke er et ændringsdokument: den instans, dokumentets egne bestemmelser siger, afgørelser kan
+      påklages til eller indbringes for, og den instans, der fører tilsyn eller kontrol; metode bestemmelse, sandsynlig, med paragrafferne i to_bestemmelse,
+      den første sætning ordret i beskrivelse og, på klageinstans, afgoerelse_af, når sætningen navngiver den myndighed, der træffer afgørelsen.
+      Kanten gengiver dokumentets tekst, som den er udstedt: en lovbekendtgørelse har ikke senere ændringslove indarbejdet, så klageinstansen
+      kan være ændret siden). Endepunkter er katalog-id''er, registry-id''er eller eu_index-id''er.'
     sikkerhed: verificeret = står direkte i datasættets felter eller tekst eller i Retsinformations søgeeksport (status, Lovtidende-nr., henvisning
       med nummer og dato, EU-retsakt nævnt, hjemmel, ressortfelt der med sikkerhed er aktuelt). sandsynlig = udledt (udstedende ministerium fra
       DocumentId-præfiks, titel-/navnematch, ministerium arvet fra hjemmelsloven, lovforslag koblet til loven på titel og underskriftsdato, ressort
@@ -77,9 +83,9 @@ meta:
       peger på, og de gældende dokumenter i de otte domæner, i rækkefølgen registry, Lovtidende A uden tekst i bulk-høsten, vejledninger og cirkulærer,
       lovforslag som fremsat til udsnittets love, praksis og til sidst Lovtidende A med tekst i bulk-høsten. Felter i tekst.jsonl: id, xml (sti
       fra legoleze/), hentet, n_tegn, n_paragraffer, praeambel (indledningen uden fodnoter), noter (fodnoterne, herunder EU-noten og noter om
-      ressortoverførsler), naevner (de love, lovbekendtgørelser, bekendtgørelser og anordninger, teksten nævner med nummer og dato, med antal),
-      underskrevet_af (Meta-feltet PlaceOfSignature) og eu (CELEX-numre fra Meta-feltet EuReferences). katalog/README.md viser, hvor mange dokumenter
-      der er hentet pr. samling.'
+      ressortoverførsler), klage_tilsyn ([paragraf, sætning] for de sætninger i dokumentets paragraffer, der har et klage- eller tilsynsudsagn),
+      naevner (de love, lovbekendtgørelser, bekendtgørelser og anordninger, teksten nævner med nummer og dato, med antal), underskrevet_af (Meta-feltet
+      PlaceOfSignature) og eu (CELEX-numre fra Meta-feltet EuReferences). katalog/README.md viser, hvor mange dokumenter der er hentet pr. samling.'
   metode:
   - 'Fase 1: To uafhængige agenter kortlagde regering, ministerier og område → myndighed pr. 2026-10-28. En tredje afstemte dem til en baseline
     med kanoniske id''er.'
@@ -117,6 +123,14 @@ meta:
     kø som de øvrige opslag (10,5 sekunder mellem kald, kun kl. 03:00-23:45) og skriver katalog/tekst.jsonl. eksport.py katalog læser præamblerne
     derfra: bestemmelserne i ''I medfør af § … i lov …, jf. lovbekendtgørelse nr. … af …'' lægges på den hjemmel_for-kant fra Retsinformations
     hjemmelsfelt, der gælder samme lov (samme lovfamilie), og en lov, der kun nævnes i præamblen, får sin egen kant.'
+  - 'Klage og tilsyn pr. forskrift og lovenes tidslinjer (fra 2026-11-15): pipeline/corpus/tekst.py gemmer de sætninger i hvert hentet dokuments
+    paragraffer, der har et klage- eller tilsynsudsagn (klage_tilsyn), og eksport.py læser dem mod registry''ets instansnavne (laeser): ''kan
+    påklages til X'', ''kan indbringes for X'', ''klage til X'', ''ikke anden administrativ myndighed end X'' og ''X behandler klager'' giver
+    en klageinstans-kant fra X til dokumentet; ''X fører tilsyn'', ''X kan føre kontrol'', ''fører X tilsyn'' og ''tilsynet føres af X'' giver
+    en tilsyn-kant. ''Kan ikke påklages til X'', domstolene under ét, sager, tvister og spørgsmål, der indbringes, og ændringsdokumenter giver
+    ingen kant. tekst.py tidslinjer henter Retsinformations tidslinje (api/document/<id>/timeline) én gang pr. lov; eksport.py samler lovens hovedlov
+    og lovbekendtgørelser efter den i stedet for efter titlen (familie_metode tidslinje), så en omdøbt lovs ældre versioner peger på den gældende.
+    Ændringslove og andre hovedlove i tidslinjen er ikke versioner og bruges ikke.'
   - 'Evaluering (fra 2026-11-15): pipeline/corpus/eval.py trækker et tilfældigt udtag af gældende forskrifter og vejledninger, lader annotatorer
     læse dokumenternes egen tekst og måler katalogets hjemmel_for-, implementerer_EU- og henviser_til-kanter og registry''ets klage- og tilsynsinstanser
     mod deres svar (meta.evaluering). Målingen førte til tre nye udtræk fra tekstlaget: implementerer_EU fra fodnoterne, henviser_til fra teksten
@@ -200,14 +214,15 @@ meta:
     standarder: std-<slug>
     branchevejledninger: bv-<slug>
     kommunalt: kommune-alle, region-alle (aggregerede)
-  evaluering: 'dk-regulering/eval/ er et evalueringssæt for katalogets kæder (pipeline/corpus/eval.py). 189 gældende danske dokumenter med hentet
-    tekst er trukket tilfældigt pr. domæne i to runder (118 og 71: hovedbekendtgørelser med og uden registry-node og vejledninger). En annotator
-    (Haiku) har læst hvert dokuments indledning, fodnoter og bestemmelser om klage og tilsyn uden at se katalog eller registry og skrevet hjemmel
-    med bestemmelser, gennemførte EU-retsakter, klageinstans, tilsynsmyndighed og, for vejledninger, de retsakter teksten nævner (instruks.md).
-    Hvert led har et ordret citat, som er kontrolleret maskinelt mod teksten; facit.jsonl har leddene, rettelser.json de tre dokumenter, hvor
-    facit er rettet efter gennemsyn, og README.md målingen. Runde 1 er brugt til at finde og rette fejl i udtrækkene; runde 2 er trukket bagefter,
-    og dens første måling står i kontrol-2.json. Annotatoren er en sprogmodel, ikke en jurist, og udtaget dækker kun dokumenter fra 2010 og frem
-    i de otte domæner.'
+  evaluering: 'dk-regulering/eval/ er et evalueringssæt for katalogets kæder (pipeline/corpus/eval.py). 253 gældende danske dokumenter med hentet
+    tekst er trukket tilfældigt pr. domæne i tre runder (118, 71 og 64: hovedbekendtgørelser med og uden registry-node, vejledninger i runde 1
+    og 2, love og lovbekendtgørelser i runde 3). En annotator (Haiku) har læst hvert dokuments indledning, fodnoter og bestemmelser om klage og
+    tilsyn uden at se katalog eller registry og skrevet hjemmel med bestemmelser, gennemførte EU-retsakter, klageinstans, tilsynsmyndighed og,
+    for vejledninger, de retsakter teksten nævner (instruks.md). Hvert led har et ordret citat, som er kontrolleret maskinelt mod teksten; facit.jsonl
+    har leddene, rettelser.json de seks dokumenter, hvor facit er rettet efter gennemsyn, og README.md målingen. Runde 1 er brugt til at finde
+    og rette fejl i udtrækkene; runde 2 og 3 er trukket bagefter, og deres første målinger står i kontrol-2.json og kontrol-3.json. Runde 3 er
+    den eneste uafhængige måling af klage- og tilsynskanterne pr. forskrift. Annotatoren er en sprogmodel, ikke en jurist, og udtaget dækker kun
+    dokumenter fra 2010 og frem i de otte domæner.'
 regering:
   navn: Regeringen Mette Frederiksen III
   dannet: '2026-06-03'
@@ -104756,6 +104771,40 @@ edges:
   - https://www.retsinformation.dk/eli/lta/2025/915
   sikkerhed: verificeret
   domaener: *id098
+- type: klageinstans
+  from: naevn-energiklagenaevnet
+  to: sty-arbejdstilsynet
+  beskrivelse: 'Offshoreområdet: Arbejdstilsynets afgørelser efter bekendtgørelser udstedt i medfør af offshoresikkerhedsloven kan påklages til
+    Energiklagenævnet.'
+  kilder:
+  - https://www.retsinformation.dk/eli/lta/2018/9
+  - https://www.retsinformation.dk/eli/lta/2023/1043
+  sikkerhed: verificeret
+  domaener:
+  - arbejdsmiljoe
+  - energi
+- type: klageinstans
+  from: tilsyn-forsyningstilsynet
+  to: org-energinet
+  beskrivelse: Energinets afgørelser efter elforsyningsloven og bekendtgørelsen om systemansvarlig virksomhed kan indbringes for Forsyningstilsynet.
+  kilder:
+  - https://www.retsinformation.dk/eli/lta/2026/544
+  - https://www.retsinformation.dk/eli/lta/2026/895
+  sikkerhed: verificeret
+  domaener:
+  - energi
+- type: klageinstans
+  from: sty-ankestyrelsen
+  to: sty-familieretshuset
+  beskrivelse: Familieretshusets afgørelser efter adoptionsloven og dets afgørelser om optagelse i botilbud efter serviceloven kan påklages til
+    Ankestyrelsen.
+  kilder:
+  - https://www.retsinformation.dk/eli/lta/2026/669
+  - https://www.retsinformation.dk/eli/lta/2026/641
+  sikkerhed: verificeret
+  domaener:
+  - familie-person
+  - social
 huller:
 - emne: Kommercielle branchevejledninger (SBi/BUILD, DBI, Molio) bag betalingsmur
   type: betalingsmur
@@ -110814,13 +110863,14 @@ huller:
   - Planhabitatbekendtgørelsen (BEK nr. 1383 af 26/11/2016) er ikke en node
 - emne: 'Lovfamilier kobles på titel: en ældre version af en lov kobles ikke altid til den gældende'
   type: andet
-  beskrivelse: 'Kataloget samler en lovs versioner på titlen. Når titlen er ændret eller skrevet anderledes, står den ældre version uden gaeldende_version.
+  beskrivelse: Kataloget samler en lovs versioner på titlen. Når titlen er ændret eller skrevet anderledes, står den ældre version uden gaeldende_version.
     I evalueringssættet (dk-regulering/eval/) gælder det lov om sommerhuse og campering m.v. (LBK nr. 949 af 03/07/2013), som i dag er lov om
     udlejning af fast ejendom til ferie- og fritidsformål m.v. og campering m.v. (LBK nr. 400 af 2024), og byggeloven i LBK nr. 452 af 24/06/1998
     over for LBK nr. 1178 af 23/09/2016. Følgen er to kanter til samme lov, én til den citerede version fra præamblen og én til den gældende fra
     Retsinformations felt, uden kobling imellem; de står for 3 af de 5 hjemmel_for-kanter, målingen tæller som forkerte, og for vejledningernes
-    kanter til gældende lovversioner, som facit kun kender i den citerede version. Retsinformations tidslinje pr. lov (brugt af populate.py ajour
-    for registry''ets noder) giver versionerne, men er ikke hentet for kataloget: ét kald pr. lov.'
+    kanter til gældende lovversioner, som facit kun kender i den citerede version. Fra 2026-11-15 hentes Retsinformations tidslinje pr. lov (pipeline/corpus/tekst.py
+    tidslinjer, ét kald pr. lov), og love med hentet tidslinje samles efter den (familie_metode tidslinje); byggelovens versioner fra 1986 til
+    2016 er dermed én familie. Hentningen er ikke færdig, og love uden hentet tidslinje samles stadig på titlen.
   noder:
   - kilde-retsinformation
   kilder:
@@ -110832,3 +110882,31 @@ huller:
   - datakilder-standarder
   oprindelige_emner:
   - 'Lovfamilier kobles på titel: en ældre version af en lov kobles ikke altid til den gældende'
+- emne: Klage- og tilsynskanter pr. forskrift er læst mekanisk af dokumentets egen tekst og kun for tekstlagets udsnit
+  type: andet
+  beskrivelse: 'Kataloget har 430 klageinstans-kanter og 365 tilsyn-kanter fra instans til lov eller forskrift (metode bestemmelse, sandsynlig),
+    læst med regulære udtryk af de hentede dokumenters paragraffer. I evalueringssættets runde 3, trukket efter at læseren var skrevet, var 23
+    af 24 klageinstanser rigtige og ingen manglede; den myndighed, der træffer afgørelsen, stod på kanten i 12 af 14 tilfælde; for tilsyn var
+    15 af 15 rigtige, men 11 af facits 26 manglede, fordi læseren kun kender få formuleringer (''påser'', ''kontrollerer'', ''er tilsynsmyndighed''
+    og ''styrelsens kontrol med'' læses ikke). I et håndgennemsyn af 52 tilfældige klageinstans-kanter uden for evalueringssættet var 2 forkerte
+    (en sag, ikke en klage, blev indbragt for instansen); det mønster er siden udelukket. Tre forbehold: en instans uden node i registry''et giver
+    ingen kant (ministre, ''ankenævnet'', ''overtaksationskommissionen''); kanten gengiver dokumentets tekst, som den er udstedt, så byggeloven
+    i LBK nr. 1178 af 2016 stadig peger på statsforvaltningen, selv om klageadgangen er flyttet ved en senere ændringslov; og uden for tekstlagets
+    udsnit (de otte domæner og registry''ets dokumenter) er teksten ikke hentet. 28 par af klageinstans og afgørende myndighed fra kanterne findes
+    ikke som klageinstans-kant mellem de to instanser i registry''et; tre med to uafhængige dokumenter bag er lagt ind 2026-11-15 (Energiklagenævnet
+    over Arbejdstilsynet på offshoreområdet, Forsyningstilsynet over Energinet, Ankestyrelsen over Familieretshuset), resten er ikke gennemgået,
+    og flere af dem navngiver en forkert afgørende myndighed eller en nedlagt instans.'
+  noder:
+  - kilde-retsinformation
+  - naevn-energiklagenaevnet
+  - tilsyn-forsyningstilsynet
+  - sty-ankestyrelsen
+  kilder:
+  - https://www.retsinformation.dk/eli/lta/2016/1178
+  - https://www.retsinformation.dk/eli/lta/2018/9
+  - https://www.retsinformation.dk/eli/lta/2026/544
+  - https://www.retsinformation.dk/eli/lta/2026/669
+  domaener:
+  - klage-tilsyn-praksis
+  oprindelige_emner:
+  - Klage- og tilsynskanter pr. forskrift er læst mekanisk af dokumentets egen tekst og kun for tekstlagets udsnit
