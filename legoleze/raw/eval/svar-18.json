@@ -1,0 +1,84 @@
+[
+  {
+    "id": "lta-2021-2107",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 2062, "aar": 2021, "bestemmelser": ["§ 15 a, stk. 4", "§ 20, stk. 2", "§ 20 a, stk. 2", "§ 39, stk. 1", "§ 43", "§ 84"], "citat": "lovbekendtgørelse nr. 2062 af 16. november 2021"}],
+    "eu": [{"type": "direktiv", "aar": 1992, "nr": 57, "citat": "direktiv 92/57/EØF"}],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2025-398",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2017-541",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 1178, "aar": 2016, "bestemmelser": ["§ 15", "§ 16 C, stk. 6", "§ 28, stk. 4", "§ 30, stk. 2", "§ 30 C"], "citat": "lovbekendtgørelse nr. 1178 af 23. september 2016"}],
+    "eu": [{"type": "direktiv", "aar": 2005, "nr": 36, "citat": "direktiv 2005/36/EF"}, {"type": "direktiv", "aar": 2006, "nr": 123, "citat": "direktiv nr. 2006/123/EF"}],
+    "klage": [{"afgoerelse_af": "kommunalbestyrelsen", "klageinstans": "statsforvaltningen", "bestemmelse": "§ 24", "citat": "kan klages til statsforvaltningen"}],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2020-181",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 1178, "aar": 2016, "bestemmelser": ["§ 4 D", "§ 30, stk. 2"], "citat": "lovbekendtgørelse nr. 1178 af 23. september 2016"}],
+    "eu": [{"type": "direktiv", "aar": 2018, "nr": 844, "citat": "direktiv 2018/844/EU"}],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2024-724",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 30, "aar": 2019, "bestemmelser": ["§ 20, stk. 3, nr. 5 og 6", "§ 34, stk. 1 og 2"], "citat": "lovbekendtgørelse nr. 30 af 11. januar 2019"},
+      {"type": "lovbekendtgørelse", "nr": 2062, "aar": 2021, "bestemmelser": ["§ 49 i, stk. 3", "§ 49 o", "§ 49 p, stk. 1"], "citat": "lovbekendtgørelse nr. 2062 af 16. november 2021"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2025-1575",
+    "hjemmel": [
+      {"type": "lov", "nr": 1767, "aar": 2023, "bestemmelser": ["§ 22"], "citat": "lov nr. 1767 af 28. december 2023"},
+      {"type": "lovbekendtgørelse", "nr": 1204, "aar": 2013, "bestemmelser": ["§ 5, stk. 2", "§ 10, stk. 2"], "citat": "lovbekendtgørelse nr. 1204 af 14. oktober 2013"},
+      {"type": "bekendtgørelse", "nr": 1525, "aar": 2025, "bestemmelser": ["§ 1, stk. 1"], "citat": "bekendtgørelse nr. 1525 af 4. december 2025"}
+    ],
+    "eu": [],
+    "klage": [{"afgoerelse_af": "Erhvervsstyrelsen", "klageinstans": "Energiklagenævnet", "bestemmelse": "§ 24", "citat": "kan indbringes for Energiklagenævnet"}],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2016-932",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1532, "aar": 2015, "bestemmelser": ["§ 13, stk. 2", "§ 15", "§ 17", "§ 18, stk. 2"], "citat": "lovbekendtgørelse nr. 1532 af 10. december 2015"},
+      {"type": "bekendtgørelse", "nr": 350, "aar": 2016, "bestemmelser": ["§ 2, stk. 1"], "citat": "bekendtgørelse nr. 350 af 26. marts 2016"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [{"myndighed": "Naturstyrelsen", "bestemmelse": "§ 7", "citat": "Naturstyrelsen fører tilsyn med"}],
+    "henviser": []
+  },
+  {
+    "id": "lta-2007-1116",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 813, "aar": 2007, "bestemmelser": ["§ 13, stk. 6", "§ 54"], "citat": "lovbekendtgørelse nr. 813 af 21. juni 2007"}],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "retsinfo-2019-9281",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  }
+]

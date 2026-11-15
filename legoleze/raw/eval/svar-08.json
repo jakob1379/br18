@@ -1,0 +1,118 @@
+[
+  {
+    "id": "lta-2021-1448",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 674, "aar": 2020, "bestemmelser": ["§ 35, stk. 1", "§ 43", "§ 46", "§ 74, stk. 1 og 2", "§ 76, stk. 4", "§ 84"], "citat": "lovbekendtgørelse nr. 674 af 25. maj 2020"}
+    ],
+    "eu": [],
+    "klage": [
+      {"afgoerelse_af": "Arbejdstilsynet", "klageinstans": "Arbejdsmiljøklagenævnet", "bestemmelse": "§ 283", "citat": "kan påklages til Arbejdsmiljøklagenævnet"}
+    ],
+    "tilsyn": [
+      {"myndighed": "Arbejdstilsynet", "bestemmelse": "§ 281", "citat": "Arbejdstilsynets medarbejdere har, uden retskendelse, mod behørig legitimation til enhver tid adgang til at føre kontrol og tilsyn"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2020-2119",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 144, "aar": 2020, "bestemmelser": ["§ 7, stk. 3", "§ 100", "§ 109, stk. 1, 4. pkt."], "citat": "lovbekendtgørelse nr. 144 af 21. februar 2020"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2010-1424",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 660, "aar": 2009, "bestemmelser": ["§ 33 a, stk. 3-5"], "citat": "lovbekendtgørelse nr. 660 af 10. juni 2009"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "retsinfo-2023-9409",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2025-1832",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1178, "aar": 2016, "bestemmelser": ["§ 30, stk. 2", "§ 30 C", "§ 31, stk. 1, 1. pkt.", "§ 31 A, stk. 1", "§ 31 B, stk. 5", "§ 31 C, stk. 1", "§ 31 D"], "citat": "lovbekendtgørelse nr. 1178 af 23. september 2016"},
+      {"type": "bekendtgørelse", "nr": 519, "aar": 2023, "bestemmelser": ["§ 12"], "citat": "bekendtgørelse nr. 519 af 16. maj 2023"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [
+      {"myndighed": "Sikkerhedsstyrelsen", "bestemmelse": "§ 4", "citat": "Sikkerhedsstyrelsen fører tilsyn med"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2016-1114",
+    "hjemmel": [
+      {"type": "lov", "nr": 525, "aar": 2015, "bestemmelser": ["§ 5, stk. 1, nr. 1", "§ 5, stk. 2", "§ 7, stk. 3", "§ 31, stk. 1-2", "§ 34, stk. 2", "§ 39"], "citat": "lov nr. 525 af 29. april 2015"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2025-485",
+    "hjemmel": [
+      {"type": "lov", "nr": 136, "aar": 2017, "bestemmelser": ["§ 19, stk. 1"], "citat": "lov nr. 136 af 1. februar 2017"},
+      {"type": "lov", "nr": 380, "aar": 2017, "bestemmelser": ["§ 18, stk. 1"], "citat": "lov nr. 380 af 26. april 2017"},
+      {"type": "lovbekendtgørelse", "nr": 746, "aar": 2017, "bestemmelser": ["§ 11"], "citat": "lovbekendtgørelse nr. 746 af 15. juni 2017"},
+      {"type": "lov", "nr": 564, "aar": 2022, "bestemmelser": ["§ 26, stk. 1"], "citat": "lov nr. 564 af 10. maj 2022"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2022-789",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 100, "aar": 2022, "bestemmelser": ["§ 7, stk. 1, nr. 1, 2, 5 og 8", "§ 7 a, stk. 1-5", "§ 67", "§ 79 b, stk. 1, nr. 11", "§ 80", "§ 88, stk. 1 og 2", "§ 89 b", "§ 110, stk. 3"], "citat": "lovbekendtgørelse nr. 100 af 19. januar 2022"},
+      {"type": "lovbekendtgørelse", "nr": 2062, "aar": 2021, "bestemmelser": ["§ 46", "§ 72, stk. 1, nr. 4", "§ 74, stk. 1 og 2"], "citat": "lovbekendtgørelse nr. 2062 af 16. november 2021"},
+      {"type": "bekendtgørelse", "nr": 1076, "aar": 2011, "bestemmelser": ["§ 2"], "citat": "bekendtgørelse nr. 1076 af 25. november 2011"}
+    ],
+    "eu": [
+      {"type": "direktiv", "aar": 2009, "nr": 128, "citat": "direktiv nr. 2009/128/EF"},
+      {"type": "direktiv", "aar": 2006, "nr": 123, "citat": "direktiv 2006/123/EF"}
+    ],
+    "klage": [
+      {"afgoerelse_af": "synsvirksomhed", "klageinstans": "Miljøstyrelsen", "bestemmelse": "§ 13", "citat": "kan indbringes for Miljøstyrelsen"},
+      {"afgoerelse_af": "synsvirksomhed", "klageinstans": "Miljøstyrelsen", "bestemmelse": "§ 23", "citat": "kan indbringes for Miljøstyrelsen"}
+    ],
+    "tilsyn": [
+      {"myndighed": "Miljøstyrelsen", "bestemmelse": "§ 19", "citat": "Miljøstyrelsen fører tilsyn med synsvirksomheder"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2013-406",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 937, "aar": 2009, "bestemmelser": ["§ 4, stk. 2"], "citat": "lovbekendtgørelse nr. 937 af 24. september 2009"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "retsinfo-2010-9290",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  }
+]

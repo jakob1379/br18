@@ -1,0 +1,111 @@
+[
+  {
+    "id": "lta-2026-596",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 125, "aar": 2018, "bestemmelser": ["§ 60, stk. 2, 4 og 5"], "citat": "lovbekendtgørelse nr. 125 af 6. februar 2018"},
+      {"type": "bekendtgørelse", "nr": 1354, "aar": 2019, "bestemmelser": ["§ 2, stk. 1"], "citat": "bekendtgørelse nr. 1354 af 11. december 2019"}
+    ],
+    "eu": [{"type": "direktiv", "aar": 2013, "nr": 30, "citat": "direktiv 2013/30/EU"}],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2015-1165",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "retsinfo-2018-9225",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": [
+      {"type": "lov", "nr": 1559, "aar": 2016, "citat": "lov nr. 1559 af 13. december 2016"},
+      {"type": "bekendtgørelse", "nr": 423, "aar": 2017, "citat": "bekendtgørelse nr. 423 af 28. april 2017"}
+    ]
+  },
+  {
+    "id": "lta-2021-2341",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 314, "aar": 2017, "bestemmelser": ["§ 4, stk. 2", "§ 36, stk. 1-3", "§ 36 a", "§ 70, stk. 4"], "citat": "lovbekendtgørelse nr. 314 af 3. april 2017"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2025-1744",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1178, "aar": 2016, "bestemmelser": ["§ 31, stk. 1, 1. og 2. pkt., og stk. 3, 1. og 2. pkt."], "citat": "lovbekendtgørelse nr. 1178 af 23. september 2016"},
+      {"type": "bekendtgørelse", "nr": 519, "aar": 2023, "bestemmelser": ["§ 12"], "citat": "bekendtgørelse nr. 519 af 16. maj 2023"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2024-726",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 30, "aar": 2019, "bestemmelser": ["§ 15, nr. 4", "§ 18, stk. 2", "§ 36, stk. 2"], "citat": "lovbekendtgørelse nr. 30 af 11. januar 2019"},
+      {"type": "lovbekendtgørelse", "nr": 2062, "aar": 2021, "bestemmelser": ["§ 49 p, stk. 2"], "citat": "lovbekendtgørelse nr. 2062 af 16. november 2021"}
+    ],
+    "eu": [{"type": "direktiv", "aar": 2005, "nr": 36, "citat": "direktiv 2005/36/EF"}],
+    "klage": [{"afgoerelse_af": "Sikkerhedsstyrelsen", "klageinstans": "Erhvervsankenævnet", "bestemmelse": "§ 31", "citat": "kan dog indbringes for Erhvervsankenævnet"}],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2025-1169",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 124, "aar": 2024, "bestemmelser": ["§ 2 a", "§ 20 d, stk. 2", "§ 24 c, stk. 2 og 3", "§ 34, stk. 2"], "citat": "lovbekendtgørelse nr. 124 af 2. februar 2024"},
+      {"type": "lovbekendtgørelse", "nr": 221, "aar": 2023, "bestemmelser": ["§ 1 a", "§ 6 a stk. 1, 2. pkt., og stk. 3", "§ 9, stk. 2"], "citat": "lovbekendtgørelse nr. 221 af 6. marts 2023"},
+      {"type": "lovbekendtgørelse", "nr": 1036, "aar": 2024, "bestemmelser": ["§ 2 a", "§ 6, stk. 3", "§ 21 a, stk. 1 og 2"], "citat": "lovbekendtgørelse nr. 1036 af 12. september 2024"},
+      {"type": "bekendtgørelse", "nr": 840, "aar": 2025, "bestemmelser": ["§ 5, stk. 1"], "citat": "bekendtgørelse nr. 840 af 25. juni 2025"}
+    ],
+    "eu": [{"type": "direktiv", "aar": 2023, "nr": 1791, "citat": "direktiv (EU) 2023/1791"}],
+    "klage": [],
+    "tilsyn": [{"myndighed": "Energistyrelsen", "bestemmelse": "§ 14", "citat": "Energistyrelsen fører tilsyn med"}],
+    "henviser": []
+  },
+  {
+    "id": "lta-2017-585",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 118, "aar": 2017, "bestemmelser": ["§ 33", "§ 49, stk. 1 og 3", "§ 54, stk. 3"], "citat": "lovbekendtgørelse nr. 118 af 26. januar 2017"}
+    ],
+    "eu": [
+      {"type": "direktiv", "aar": 2009, "nr": 147, "citat": "direktiv nr. 2009/147/EF"},
+      {"type": "direktiv", "aar": 1992, "nr": 43, "citat": "direktiv 92/43/EØF"}
+    ],
+    "klage": [],
+    "tilsyn": [{"myndighed": "Naturstyrelsen", "bestemmelse": "§ 11", "citat": "Naturstyrelsen fører tilsyn med"}],
+    "henviser": []
+  },
+  {
+    "id": "retsinfo-2024-10342",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": [
+      {"type": "bekendtgørelse", "nr": 792, "aar": 1988, "citat": "bekendtgørelse nr. 792 af 15. december 1988"},
+      {"type": "bekendtgørelse", "nr": 1454, "aar": 2015, "citat": "bekendtgørelse nr. 1454 af 7. december 2015"}
+    ]
+  },
+  {
+    "id": "lta-2024-20",
+    "hjemmel": [
+      {"type": "lov", "nr": 1658, "aar": 2016, "bestemmelser": ["§ 9"], "citat": "lov nr. 1658 af 20. december 2016"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  }
+]

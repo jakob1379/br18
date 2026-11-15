@@ -1,0 +1,150 @@
+[
+  {
+    "id": "lta-2018-161",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1149, "aar": 2017, "bestemmelser": ["§ 40 g, stk. 1 og 2", "§ 149, stk. 10"], "citat": "lovbekendtgørelse nr. 1149 af 13. oktober 2017"}
+    ],
+    "eu": [
+      {"type": "direktiv", "aar": 1989, "nr": 656, "citat": "direktiv 89/656/EØF"},
+      {"type": "direktiv", "aar": 1989, "nr": 686, "citat": "direktiv 89/686/EØF"}
+    ],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "retsinfo-2015-10993",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2025-336",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1281, "aar": 2020, "bestemmelser": ["§ 6, stk. 2 og 4, 1. pkt.", "§ 6 c, stk. 4"], "citat": "lovbekendtgørelse nr. 1281 af 28. august 2020"},
+      {"type": "lovbekendtgørelse", "nr": 610, "aar": 2018, "bestemmelser": ["§ 3 a"], "citat": "lovbekendtgørelse nr. 610 af 30. maj 2018"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2015-1913",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 660, "aar": 2009, "bestemmelser": ["§ 33 a, stk. 1 og 2"], "citat": "lovbekendtgørelse nr. 660 af 10. juni 2009"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2020-1587",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1123, "aar": 2015, "bestemmelser": ["§ 2 a, stk. 2", "§ 4, stk. 2"], "citat": "lovbekendtgørelse nr. 1123 af 22. september 2015"},
+      {"type": "lov", "nr": 1532, "aar": 2010, "bestemmelser": ["§ 1, stk. 2"], "citat": "lov nr. 1532 af 21. december 2010"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2017-1230",
+    "hjemmel": [
+      {"type": "lov", "nr": 401, "aar": 2014, "bestemmelser": ["§ 15, nr. 3"], "citat": "lov nr. 401 af 28. april 2014"},
+      {"type": "bekendtgørelse", "nr": 545, "aar": 2017, "bestemmelser": ["§ 4, nr. 10"], "citat": "bekendtgørelse nr. 545 af 29. maj 2017"}
+    ],
+    "eu": [],
+    "klage": [
+      {"afgoerelse_af": "uddannelsesstedet", "klageinstans": "eksamensudvalget", "bestemmelse": "§ 9", "citat": "kan indbringes for eksamensudvalget"},
+      {"afgoerelse_af": "eksamensudvalget", "klageinstans": "Sikkerhedsstyrelsen", "bestemmelse": "§ 35", "citat": "kan indbringe eksamensudvalgets klageafgørelse til Sikkerhedsstyrelsen"}
+    ],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2016-1441",
+    "hjemmel": [
+      {"type": "lov", "nr": 736, "aar": 2015, "bestemmelser": ["§ 1, stk. 2", "§ 2, stk. 1, 2, 4 og 5", "§ 4, stk. 4", "§ 5", "§ 7, stk. 2"], "citat": "lov nr. 736 af 1. juni 2015"}
+    ],
+    "eu": [],
+    "klage": [
+      {"afgoerelse_af": "Rådet", "klageinstans": "klima-, energi-, og bygningsministeren", "bestemmelse": "§ 9", "citat": "kan påklages til klima-, energi-, og bygningsministeren"}
+    ],
+    "tilsyn": [
+      {"myndighed": "Energistyrelsen", "bestemmelse": "§ 22", "citat": "Energistyrelsen fører tilsyn med"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "retsinfo-2012-10149",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": [
+      {"type": "lovbekendtgørelse", "nr": 932, "aar": 2009, "citat": "Lovbekendtgørelse nr. 932 af 24. september 2009"},
+      {"type": "lov", "nr": 960, "aar": 2011, "citat": "lov nr. 960 af 13. september 2011"},
+      {"type": "lov", "nr": 1273, "aar": 2011, "citat": "lov nr. 1273 af 21. december 2011"},
+      {"type": "bekendtgørelse", "nr": 1102, "aar": 2009, "citat": "Bekendtgørelse nr. 1102 af 20. november 2009"},
+      {"type": "lovbekendtgørelse", "nr": 936, "aar": 2009, "citat": "Lovbekendtgørelse nr. 936 af 24. september 2009"},
+      {"type": "lovbekendtgørelse", "nr": 937, "aar": 2009, "citat": "Lovbekendtgørelse nr. 937 af 24. september 2009"},
+      {"type": "bekendtgørelse", "nr": 1510, "aar": 2010, "citat": "bekendtgørelse nr. 1510 af 15. december 2010"},
+      {"type": "bekendtgørelse", "nr": 408, "aar": 2007, "citat": "Bekendtgørelse nr. 408 af 1. maj 2007"},
+      {"type": "lovbekendtgørelse", "nr": 1365, "aar": 2007, "citat": "Lovbekendtgørelse nr. 1365 af 7. december 2007"},
+      {"type": "lovbekendtgørelse", "nr": 1505, "aar": 2006, "citat": "Lovbekendtgørelse nr. 1505 af 14. december 2006"},
+      {"type": "lovbekendtgørelse", "nr": 945, "aar": 2009, "citat": "Lovbekendtgørelse nr. 945 af 24. september 2009"},
+      {"type": "lovbekendtgørelse", "nr": 635, "aar": 2010, "citat": "Lovbekendtgørelse nr. 635 af 7. juni 2010"},
+      {"type": "bekendtgørelse", "nr": 486, "aar": 2012, "citat": "Bekendtgørelse nr. 486 af 25. maj 2012"},
+      {"type": "lovbekendtgørelse", "nr": 879, "aar": 2010, "citat": "Lovbekendtgørelse nr. 879 af 26. juni 2010"},
+      {"type": "lovbekendtgørelse", "nr": 879, "aar": 2009, "citat": "Lovbekendtgørelse nr. 879 af 26. juni 2009"},
+      {"type": "lovbekendtgørelse", "nr": 1427, "aar": 2009, "citat": "Lovbekendtgørelse nr. 1427 af 4. december 2009"},
+      {"type": "bekendtgørelse", "nr": 1440, "aar": 2007, "citat": "Bekendtgørelse nr. 1440 af 11. december 2007"},
+      {"type": "lovbekendtgørelse", "nr": 933, "aar": 2009, "citat": "Lovbekendtgørelse nr. 933 af 24. september 2009"},
+      {"type": "lovbekendtgørelse", "nr": 1048, "aar": 2011, "citat": "Lovbekendtgørelse nr. 1048 af 3. november 2011"},
+      {"type": "lovbekendtgørelse", "nr": 1537, "aar": 2010, "citat": "Lovbekendtgørelse nr. 1537 af 21. december 2010"},
+      {"type": "lovbekendtgørelse", "nr": 1249, "aar": 2010, "citat": "Lovbekendtgørelse nr. 1249 af 11. november 2010"},
+      {"type": "lovbekendtgørelse", "nr": 927, "aar": 2009, "citat": "Lovbekendtgørelse nr. 927 af 24. september 2009"},
+      {"type": "lovbekendtgørelse", "nr": 662, "aar": 2003, "citat": "Lovbekendtgørelse nr. 662 af 10. juli 2003"},
+      {"type": "bekendtgørelse", "nr": 414, "aar": 1988, "citat": "bekendtgørelse nr. 414 af 8. juli 1988"},
+      {"type": "lovbekendtgørelse", "nr": 1185, "aar": 2010, "citat": "Lovbekendtgørelse nr. 1185 af 14. oktober 2010"},
+      {"type": "bekendtgørelse", "nr": 810, "aar": 2010, "citat": "Bekendtgørelse nr. 810 af 28. juni 2010"},
+      {"type": "lovbekendtgørelse", "nr": 616, "aar": 2010, "citat": "Lovbekendtgørelse nr. 616 af 1. juni 2010"},
+      {"type": "lovbekendtgørelse", "nr": 494, "aar": 2003, "citat": "Lovbekendtgørelse nr. 494 af 12. juni 2003"},
+      {"type": "lovbekendtgørelse", "nr": 1275, "aar": 2010, "citat": "Lovbekendtgørelse nr. 1275 af 2. november 2010"},
+      {"type": "lovbekendtgørelse", "nr": 1047, "aar": 2011, "citat": "Lovbekendtgørelse nr. 1047 af 24. oktober 2011"},
+      {"type": "bekendtgørelse", "nr": 877, "aar": 2005, "citat": "Bekendtgørelse nr. 877 af 16. september 2005"},
+      {"type": "lovbekendtgørelse", "nr": 311, "aar": 2011, "citat": "Lovbekendtgørelse nr. 311 af 1. april 2011"},
+      {"type": "lov", "nr": 483, "aar": 2010, "citat": "Lov nr. 483 af 11. maj 2010"},
+      {"type": "lov", "nr": 1608, "aar": 2010, "citat": "lov nr. 1608 af 22. december 2010"},
+      {"type": "lov", "nr": 580, "aar": 2012, "citat": "lov nr. 580 af 18. juni 2012"},
+      {"type": "lov", "nr": 169, "aar": 1953, "citat": "LOV nr. 169 af 5. juni 1953"},
+      {"type": "lov", "nr": 1333, "aar": 2008, "citat": "lov nr. 1333 af 19. december 2008"}
+    ]
+  },
+  {
+    "id": "lta-2025-1466",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1093, "aar": 2024, "bestemmelser": ["§ 73, stk. 3", "§ 79 b, stk. 1, nr. 17 og nr. 18", "§ 79 c, stk. 2", "§ 88, stk. 1", "§ 92"], "citat": "lovbekendtgørelse nr. 1093 af 11. oktober 2024"},
+      {"type": "lovbekendtgørelse", "nr": 1065, "aar": 2025, "bestemmelser": ["§ 54, stk. 3", "§ 69, stk. 1", "§ 69 a", "§ 72, stk. 1", "§ 78"], "citat": "lovbekendtgørelse nr. 1065 af 21. august 2025"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2023-140",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1157, "aar": 2020, "bestemmelser": ["§ 3, stk. 1 og 2"], "citat": "lovbekendtgørelse nr. 1157 af 1. juli 2020"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  }
+]

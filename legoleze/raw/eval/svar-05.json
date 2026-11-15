@@ -1,0 +1,116 @@
+[
+  {
+    "id": "lta-2026-565",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 433, "aar": 2014, "bestemmelser": ["§ 32 a"], "citat": "lovbekendtgørelse nr. 433 af 22. april 2014"},
+      {"type": "lovbekendtgørelse", "nr": 442, "aar": 2026, "bestemmelser": ["§ 2 a", "§ 75, stk. 1, 3 og 4", "§ 81 c, stk. 1 og 2", "§ 84"], "citat": "lovbekendtgørelse nr. 442 af 24. april 2026"}
+    ],
+    "eu": [
+      {"type": "direktiv", "aar": 1989, "nr": 391, "citat": "direktiv 89/391/EØF"}
+    ],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2013-718",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 810, "aar": 2012, "bestemmelser": ["§ 163 a"], "citat": "lovbekendtgørelse nr. 810 af 19. juli 2012"}
+    ],
+    "eu": [],
+    "klage": [
+      {"afgoerelse_af": "kommunalbestyrelsen", "klageinstans": "Ankestyrelsen", "bestemmelse": "§ 9", "citat": "kan indbringes for Ankestyrelsen"}
+    ],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "retsinfo-2016-9857",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2020-1070",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 314, "aar": 2017, "bestemmelser": ["§ 33, stk. 1 og stk. 6, nr. 2", "§ 70, stk. 4"], "citat": "lovbekendtgørelse nr. 314 af 3. april 2017"},
+      {"type": "bekendtgørelse", "nr": 1913, "aar": 2015, "bestemmelser": ["§ 1"], "citat": "bekendtgørelse nr. 1913 af 15. december 2015"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2023-1693",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1178, "aar": 2016, "bestemmelser": ["§ 15 B", "§ 30, stk. 2"], "citat": "lovbekendtgørelse nr. 1178 af 23. september 2016"},
+      {"type": "bekendtgørelse", "nr": 519, "aar": 2023, "bestemmelser": ["§ 12"], "citat": "bekendtgørelse nr. 519 af 15. maj 2023"}
+    ],
+    "eu": [
+      {"type": "direktiv", "aar": 2005, "nr": 36, "citat": "direktiv 2005/36/EF"},
+      {"type": "direktiv", "aar": 2013, "nr": 55, "citat": "direktiv 2013/55/EU"}
+    ],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2024-725",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 30, "aar": 2019, "bestemmelser": ["§ 20, stk. 3, nr. 1-4"], "citat": "lovbekendtgørelse nr. 30 af 11. januar 2019"},
+      {"type": "lovbekendtgørelse", "nr": 2062, "aar": 2021, "bestemmelser": ["§ 49 i, stk. 1", "§ 49 p, stk. 1"], "citat": "lovbekendtgørelse nr. 2062 af 16. november 2021"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2025-1075",
+    "hjemmel": [
+      {"type": "lov", "nr": 258, "aar": 2025, "bestemmelser": ["§ 16, stk. 2", "§ 26, stk. 2", "§ 30, stk. 1", "§ 32, stk. 1", "§ 34"], "citat": "lov nr. 258 af 6. marts 2025"},
+      {"type": "bekendtgørelse", "nr": 840, "aar": 2025, "bestemmelser": ["§ 4, stk. 1, nr. 34"], "citat": "bekendtgørelse nr. 840 af 25. juni 2025"}
+    ],
+    "eu": [
+      {"type": "direktiv", "aar": 2022, "nr": 2557, "citat": "direktiv (EU) 2022/2557"}
+    ],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2015-1092",
+    "hjemmel": [
+      {"type": "lov", "nr": 130, "aar": 2015, "bestemmelser": ["§ 10", "§ 17, stk. 5", "§ 18", "§ 21, stk. 2"], "citat": "lov nr. 130 af 10. februar 2015"}
+    ],
+    "eu": [],
+    "klage": [
+      {"afgoerelse_af": "Miljøstyrelsen", "klageinstans": "Natur- og Miljøklagenævnet", "bestemmelse": "§ 16", "citat": "kan indbringes for Natur- og Miljøklagenævnet"}
+    ],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "retsinfo-2010-9473",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": [
+      {"type": "bekendtgørelse", "nr": 1650, "aar": 2006, "citat": "bekendtgørelse nr. 1650 af 13. december 2006"}
+    ]
+  },
+  {
+    "id": "lta-2019-923",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 287, "aar": 2018, "bestemmelser": ["§ 3, stk. 1"], "citat": "lovbekendtgørelse nr. 287 af 16. april 2018"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  }
+]

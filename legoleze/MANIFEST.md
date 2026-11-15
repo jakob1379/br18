@@ -11,6 +11,7 @@ Status for registry'et pr. 2026-10-28, med retsakternes version slået op hos Re
 |---|---|
 | `dk-regulering/` | **Leverancen.** `registry.yaml` (sandheden: 615 noder, 1281 kanter, 216 huller), `README.md`, `datakilder.md`, `huller.md`, `diagrammer/` (Mermaid), `reguleringskort.html` (interaktivt kort, kan åbnes direkte i en browser), `scripts/build.py` (validering og views). |
 | `dk-regulering/katalog/` | Katalog over Retsinformations dokumenter: `retsinformation_lta.jsonl` (hele Lovtidende A: 63473 dokumenter, 14078 gældende pr. 2026-11-12), `retsinformation_retsinfo.jsonl`, `_mt`, `_ltb`, `_ltc`, `_fob` og `_ft` (de øvrige samlinger: 131080 cirkulærer, vejledninger, afgørelser, lovforslag m.m., kun metadata), `kanter.jsonl` (henviser_til, hjemmel_for, implementerer_EU, ressortansvar, udsteder), `eu_index.jsonl` (EU-retsakter med CELEX), `tekst.jsonl` (indeks over de dokumenter, hvis XML er hentet, med præambel, fodnoter, underskriftssted og EU-retsakter), `README.md` (genereret oversigt). |
+| `dk-regulering/eval/` | Evalueringssæt for kæderne: `facit.jsonl` (189 dokumenter læst af annotatorer, hvert led med ordret citat), `instruks.md`, `rettelser.json`, `kontrol-2.json` og den genererede `README.md` med målingen. Se afsnittet nedenfor. |
 | `dashboard/` | Data og side bag dækningsdashboardet (heatmap pr. retsområde, fremdrift, 69 mangler med status). |
 | `audit/` | Opus-auditten (fire linser + syntese og dækningsmatrix), vurderingen af danskelove.dk og Jurabibliotek, stikprøvekontrollen af ressort-klassifikationen og kvalitetstal. |
 | `intermediate/registry/` | Flettet og efterbehandlet registry som JSON (`final.json`), flettelog, proveniens (alle URL'er set i søgeresultater) og visualiseringsdata. |
@@ -59,15 +60,35 @@ Udsnittet er de dokumenter, registry'ets noder peger på, og de gældende dokume
 | `praksis` | 738 | Gældende afgørelser, udtalelser og domme |
 | `med-tekst` | 1.180 | Gældende dokumenter i Lovtidende A med tekst i bulk-høsten (den tekst ligger ikke i dette repo) |
 
-`tekst.py indeks` skriver `dk-regulering/katalog/tekst.jsonl` med én linje pr. hentet dokument: `id`, `xml` (sti fra `legoleze/`), `hentet`, `n_tegn`, `n_paragraffer`, `praeambel` (indledningen uden fodnoter), `noter` (fodnoterne, herunder EU-noten), `underskrevet_af` (Meta-feltet `PlaceOfSignature`) og `eu` (CELEX-numre fra Meta-feltet `EuReferences`). `tekst.py fuld` skriver hele teksten som JSON-linjer på stdout, én linje pr. paragraf (`id`, `paragraf` som den står i dokumentet, fx `§ 16 C`, og `tekst`); et dokument uden paragraffer er én linje med `paragraf` null. Bestemmelserne i en kants `from_bestemmelse` kan slås op dér i den citerede lovversion. Filen ligger ikke i repo'et, fordi den er en ren funktion af XML-filerne.
+`tekst.py indeks` skriver `dk-regulering/katalog/tekst.jsonl` med én linje pr. hentet dokument: `id`, `xml` (sti fra `legoleze/`), `hentet`, `n_tegn`, `n_paragraffer`, `praeambel` (indledningen uden fodnoter), `noter` (fodnoterne, herunder EU-noten), `naevner` (love og bekendtgørelser nævnt med nummer og dato: `{"katalog-id|dato": antal}`), `underskrevet_af` (Meta-feltet `PlaceOfSignature`) og `eu` (CELEX-numre fra Meta-feltet `EuReferences`). `tekst.py fuld` skriver hele teksten som JSON-linjer på stdout, én linje pr. paragraf (`id`, `paragraf` som den står i dokumentet, fx `§ 16 C`, og `tekst`); et dokument uden paragraffer er én linje med `paragraf` null. Bestemmelserne i en kants `from_bestemmelse` kan slås op dér i den citerede lovversion. Filen ligger ikke i repo'et, fordi den er en ren funktion af XML-filerne.
 
 Forbehold:
 
 - XML-filen har ikke altid tekst. Af udsnittets 3.871 dokumenter har 1.004 kun metadata (`n_tegn` er 0): 898 af de 913 fra før 2005, 106 af de 331 fra 2005-2009 og ingen af de 2.627 fra 2010 og frem. Af de 745 gældende dokumenter i Lovtidende A, bulk-høsten ikke havde tekst til, har XML-filen tekst for 348; af vejledninger og cirkulærer 268 af 598, af lovforslagene 176 af 198 og af afgørelser og udtalelser 493 af 738. Ét opslag på `api/pdf/<UniqueDocumentId>` for et sådant dokument gav 404; om teksten findes som PDF andetsteds, er ikke undersøgt.
 - Teksten er dokumentet, som det blev udstedt. En bekendtgørelse, der senere er ændret, har ændringerne i egne dokumenter; kun lovbekendtgørelser er sammenskrevne.
 - `praeambel` læses af `eksport.py katalog` med et regulært udtryk (se `praeambelhjemmel`). Bestemmelserne er dem, den citerede lovversion havde.
-- `eu` og `noter` er ikke omsat til `implementerer_EU`-kanter, og `underskrevet_af` er ikke omsat til `udsteder`-kanter.
+- `noter` er omsat til `implementerer_EU`-kanter (metode `fodnote`, 1.292 kanter) og `naevner` til `henviser_til`-kanter for dokumenter uden tekst i bulk-høsten (metode `xml-tekst`, 6.418 kanter; kun når nummer og dato passer på et dokument i Lovtidende A). `eu` er ikke brugt: feltet fører alle EU-retsakter, dokumentet nævner. `underskrevet_af` er ikke omsat til `udsteder`-kanter.
+- De ældre `implementerer_EU`-kanter fra bulk-teksten (metode `tekst-samforekomst`) er fjernet for dokumenter med hentet tekst (115) og sat til `ukendt` for resten (1.164).
 - Uden for udsnittet er der stadig kun metadata.
+
+## Evalueringssæt (`dk-regulering/eval/`)
+
+Lavet 2026-11-15 med `pipeline/corpus/eval.py`. `udtag` trækker pr. domæne et antal gældende danske dokumenter med hentet tekst (hovedbekendtgørelser med og uden registry-node og vejledninger) og skriver én opgave pr. dokument i `intermediate/eval/opgaver/`: indledning, fodnoter og de paragraffer, der nævner klage eller tilsyn; for vejledninger tekstens første 10.000 tegn. Annotatorerne (Haiku, 20 hold) fik kun opgaven og `instruks.md` og skrev svarene i `raw/eval/svar-*.json`. `saml` beholder de led, hvis citat står ordret i opgaven, og skriver `facit.jsonl`; `maal` måler kataloget og registry'et mod det og skriver `README.md` og `intermediate/eval/afvigelser.jsonl`.
+
+| Runde | Dokumenter | Brug |
+|---|---:|---|
+| 1 | 118 | Udvikling: afvigelserne er gennemgået, og udtrækkene rettet efter dem |
+| 2 | 71 | Kontrol: trukket efter rettelserne; første måling i `kontrol-2.json` |
+
+Kontrolrundens første måling: `hjemmel_for` 96 % præcision og 100 % genfinding (kun Retsinformations felt: 84 % genfinding), paragrafnumre 274 af 275, `implementerer_EU` 90 % og 96 %, vejledningers henvisninger 45 af 45. Før rettelserne fandt kataloget i runde 1 én af 38 gennemførte EU-retsakter og 11 % af vejledningernes henvisninger.
+
+Forbehold:
+
+- Annotatoren er en sprogmodel. Kontrollen er mekanisk (citat, nummer, år og paragraf står i teksten); kun afvigelserne er læst efter.
+- Tre dokumenter i facit er rettet efter gennemsyn (`rettelser.json` med begrundelse). Efter kontrolrunden er der rettet én fejl i læsningen af fodnoter ("EU-tidende" med lille t) og fjernet ældre EU-kanter; den nuværende stand står ved siden af første måling i `README.md`.
+- De tilbageværende forkerte `hjemmel_for`-kanter er to fejl i Retsinformations hjemmelsfelt og tre kanter til den gældende version af en lov, kataloget ikke kobler til den citerede version.
+- Klage og tilsyn måles kun som "myndigheden er en node under dette navn" og "der er en klagekant mellem de to myndigheder".
+- Udtaget er de otte domæner og dokumenter fra 2010 og frem. Praksis, lovforslag og de 34 øvrige retsområder er ikke med.
 
 ## Ikke med
 

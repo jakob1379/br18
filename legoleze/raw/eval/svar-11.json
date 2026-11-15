@@ -1,0 +1,236 @@
+[
+  {
+    "id": "lta-2026-600",
+    "hjemmel": [
+      {
+        "type": "lovbekendtgørelse",
+        "nr": 442,
+        "aar": 2026,
+        "bestemmelser": ["§ 6", "§ 6 d, stk. 4", "§ 6 e", "§ 7, stk. 3", "§ 7 a, stk. 3", "§ 7 b", "§ 22, stk. 1", "§ 35, stk. 1", "§ 39", "§ 40", "§ 43, stk. 1", "§ 46", "§ 49, stk. 1", "§ 74, stk. 1 og 2", "§ 84"],
+        "citat": "lovbekendtgørelse nr. 442 af 24. april 2026"
+      }
+    ],
+    "eu": [
+      {
+        "type": "direktiv",
+        "aar": 2012,
+        "nr": 18,
+        "citat": "direktiv 2012/18/EU"
+      }
+    ],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2022-752",
+    "hjemmel": [
+      {
+        "type": "lov",
+        "nr": 341,
+        "aar": 2022,
+        "bestemmelser": ["§ 113, stk. 4"],
+        "citat": "lov nr. 341 af 22. marts 2022"
+      }
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2016-1762",
+    "hjemmel": [
+      {
+        "type": "lovbekendtgørelse",
+        "nr": 660,
+        "aar": 2009,
+        "bestemmelser": ["§ 37 c, stk. 2", "§ 70, stk. 5"],
+        "citat": "lovbekendtgørelse nr. 660 af 10. juni 2009"
+      }
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2011-477",
+    "hjemmel": [
+      {
+        "type": "lovbekendtgørelse",
+        "nr": 103,
+        "aar": 2011,
+        "bestemmelser": ["§ 113, stk. 2", "§ 185, stk. 2 og 3"],
+        "citat": "lovbekendtgørelse nr. 103 af 11. februar 2011"
+      },
+      {
+        "type": "bekendtgørelse",
+        "nr": 1633,
+        "aar": 2010,
+        "bestemmelser": ["§ 1"],
+        "citat": "bekendtgørelse nr. 1633 af 21. december 2010"
+      }
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "retsinfo-2026-9272",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": [
+      {
+        "type": "bekendtgørelse",
+        "nr": 1179,
+        "aar": 2013,
+        "citat": "bekendtgørelse nr. 1179 af 4. oktober 2013"
+      },
+      {
+        "type": "bekendtgørelse",
+        "nr": 1434,
+        "aar": 2025,
+        "citat": "ændringsbekendtgørelsen nr. 1434 af 25/11/2025"
+      }
+    ]
+  },
+  {
+    "id": "lta-2024-722",
+    "hjemmel": [
+      {
+        "type": "lovbekendtgørelse",
+        "nr": 30,
+        "aar": 2019,
+        "bestemmelser": ["§ 12, nr. 1 og 2", "§ 15, nr. 1", "§ 17, stk. 2", "§ 18, stk. 2", "§ 31", "§ 32, stk. 1 og 2", "§ 33", "§ 36, stk. 2"],
+        "citat": "lovbekendtgørelse nr. 30 af 11. januar 2019"
+      }
+    ],
+    "eu": [
+      {
+        "type": "direktiv",
+        "aar": 2006,
+        "nr": 123,
+        "citat": "direktiv 2006/123/EF"
+      }
+    ],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2025-1453",
+    "hjemmel": [
+      {
+        "type": "lov",
+        "nr": 1767,
+        "aar": 2023,
+        "bestemmelser": ["§ 21, stk. 1, nr. 1-4, og stk. 3", "§ 26, stk. 4"],
+        "citat": "lov nr. 1767 af 28. december 2023"
+      },
+      {
+        "type": "bekendtgørelse",
+        "nr": 840,
+        "aar": 2025,
+        "bestemmelser": ["§ 4, stk. 1, nr. 9"],
+        "citat": "bekendtgørelse nr. 840 af 25. juni 2025"
+      }
+    ],
+    "eu": [
+      {
+        "type": "direktiv",
+        "aar": 2003,
+        "nr": 87,
+        "citat": "direktiv 2003/87/EF"
+      }
+    ],
+    "klage": [
+      {
+        "afgoerelse_af": "Energistyrelsen",
+        "klageinstans": "Energiklagenævnet",
+        "bestemmelse": "§ 37",
+        "citat": "Energiklagenævnet behandler klager over afgørelser truffet efter denne bekendtgørelse"
+      },
+      {
+        "afgoerelse_af": "Energistyrelsen",
+        "klageinstans": "Energiklagenævnet",
+        "bestemmelse": "§ 37",
+        "citat": "kan uanset stk. 2 indbringes for Energiklagenævnet"
+      }
+    ],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2025-1465",
+    "hjemmel": [
+      {
+        "type": "lovbekendtgørelse",
+        "nr": 1093,
+        "aar": 2024,
+        "bestemmelser": ["§ 46 a, stk. 1 og 2", "§ 67", "§ 79 b, stk. 1, nr. 13", "§ 80, stk. 1 og 2", "§ 89 b", "§ 110, stk. 3"],
+        "citat": "lovbekendtgørelse nr. 1093 af 11. oktober 2024"
+      }
+    ],
+    "eu": [
+      {
+        "type": "direktiv",
+        "aar": 2008,
+        "nr": 98,
+        "citat": "direktiv 2008/98/EF"
+      },
+      {
+        "type": "direktiv",
+        "aar": 1994,
+        "nr": 62,
+        "citat": "direktiv 94/62/EF"
+      },
+      {
+        "type": "direktiv",
+        "aar": 2012,
+        "nr": 19,
+        "citat": "direktiv 2012/19/EU"
+      },
+      {
+        "type": "direktiv",
+        "aar": 1999,
+        "nr": 31,
+        "citat": "direktiv 1999/31/EF"
+      },
+      {
+        "type": "direktiv",
+        "aar": 2006,
+        "nr": 123,
+        "citat": "direktiv 2006/123/EF"
+      }
+    ],
+    "klage": [],
+    "tilsyn": [
+      {
+        "myndighed": "Miljøstyrelsen",
+        "bestemmelse": "§ 16",
+        "citat": "Miljøstyrelsen fører tilsyn med"
+      }
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2018-274",
+    "hjemmel": [
+      {
+        "type": "lovbekendtgørelse",
+        "nr": 50,
+        "aar": 2018,
+        "bestemmelser": ["§ 3, stk. 1 og 2"],
+        "citat": "lovbekendtgørelse nr. 50 af 19. januar 2018"
+      }
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  }
+]

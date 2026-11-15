@@ -1,0 +1,121 @@
+[
+  {
+    "id": "lta-2025-973",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2012-911",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 884, "aar": 2011, "bestemmelser": ["§ 101 a, stk. 5", "§ 169, stk. 2", "§ 184"], "citat": "lovbekendtgørelse nr. 884 af 10. august 2011"}],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "retsinfo-2013-9440",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": [
+      {"type": "lovbekendtgørelse", "nr": 963, "aar": 2010, "citat": "lovbekendtgørelse nr. 963 af 11. august 2010"},
+      {"type": "lovbekendtgørelse", "nr": 962, "aar": 2010, "citat": "lovbekendtgørelse nr. 962 af 11. august 2010"},
+      {"type": "lov", "nr": 406, "aar": 2000, "citat": "lov nr. 406 af 31. maj 2000"},
+      {"type": "lov", "nr": 470, "aar": 2004, "citat": "lov nr. 470 af 9. juni 2004"},
+      {"type": "lov", "nr": 286, "aar": 2009, "citat": "lov nr. 286 af 15. april 2009"},
+      {"type": "lov", "nr": 270, "aar": 2013, "citat": "lov nr. 270 af 19. marts 2013"},
+      {"type": "bekendtgørelse", "nr": 709, "aar": 1997, "citat": "bekendtgørelse nr. 709 af 9. september 1997"},
+      {"type": "lovbekendtgørelse", "nr": 961, "aar": 2010, "citat": "lovbekendtgørelse nr. 961 af 11. august 2010"},
+      {"type": "lovbekendtgørelse", "nr": 1714, "aar": 2010, "citat": "lovbekendtgørelse nr. 1714 af 16. december 2010"},
+      {"type": "bekendtgørelse", "nr": 1307, "aar": 2009, "citat": "bekendtgørelse nr. 1307 af 15. december 2009"},
+      {"type": "lov", "nr": 490, "aar": 2009, "citat": "lov nr. 490 af 12. juni 2009"}
+    ]
+  },
+  {
+    "id": "lta-2016-372",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1317, "aar": 2015, "bestemmelser": ["§ 7, stk. 1, nr. 1, 2, 7 og 9", "§ 7 a, stk. 1", "§ 33, stk. 3", "§ 35, stk. 2", "§ 35 d", "§ 39, stk. 3 og 4", "§ 67", "§ 73, stk. 1 og 3", "§ 79", "§ 79 b, stk. 1, nr. 1, 4, 5, 7, 10 og 13", "§ 79 c", "§ 80, stk. 1 og 2", "§ 89 b", "§ 110, stk. 3"], "citat": "lovbekendtgørelse nr. 1317 af 19. november 2015"},
+      {"type": "lovbekendtgørelse", "nr": 1072, "aar": 2010, "bestemmelser": ["§ 74, stk. 1", "§ 78 a, stk. 3", "§ 80"], "citat": "lovbekendtgørelse nr. 1072 af 7. september 2010"},
+      {"type": "lovbekendtgørelse", "nr": 660, "aar": 2009, "bestemmelser": ["§ 33, stk. 1-4, og stk. 6, nr. 2", "§ 36, stk. 2", "§ 70, stk. 4"], "citat": "lovbekendtgørelse nr. 660 af 10. juni 2009"},
+      {"type": "lovbekendtgørelse", "nr": 363, "aar": 2013, "bestemmelser": ["§ 3, nr. 1, 6, 7, 11, 12 og 13", "§ 3 a, stk. 4", "§ 7, stk. 2"], "citat": "lovbekendtgørelse nr. 363 af 9. april 2013"},
+      {"type": "lovbekendtgørelse", "nr": 1005, "aar": 2012, "bestemmelser": ["§ 1, stk. 6"], "citat": "lovbekendtgørelse nr. 1005 af 22. oktober 2012"},
+      {"type": "lovbekendtgørelse", "nr": 956, "aar": 2015, "bestemmelser": ["§ 23, stk. 1 og 3"], "citat": "lovbekendtgørelse nr. 956 af 20. august 2015"}
+    ],
+    "eu": [{"type": "direktiv", "aar": 2012, "nr": 18, "citat": "direktiv 2012/18/EU"}],
+    "klage": [],
+    "tilsyn": [
+      {"myndighed": "risikomyndighed", "bestemmelse": "§ 21", "citat": "Risikomyndighederne fører inden for hvert deres område tilsyn"},
+      {"myndighed": "politiet", "bestemmelse": "§ 29", "citat": "ikke giver politiet adgang til at foretage tilsyn efter § 11, stk. 8"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2020-2137",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 1203, "aar": 2020, "bestemmelser": ["§ 160"], "citat": "lovbekendtgørelse nr. 1203 af 3. august 2020"}],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2018-598",
+    "hjemmel": [
+      {"type": "lov", "nr": 525, "aar": 2015, "bestemmelser": ["§ 5, stk. 1, nr. 1", "§ 34, stk. 2"], "citat": "lov nr. 525 af 29. april 2015"},
+      {"type": "bekendtgørelse", "nr": 545, "aar": 2017, "bestemmelser": ["§ 5, nr. 1 og 12"], "citat": "bekendtgørelse nr. 545 af 29. maj 2017"}
+    ],
+    "eu": [{"type": "direktiv", "aar": 2005, "nr": 36, "citat": "direktiv 2005/36/EF"}],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2024-695",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1248, "aar": 2023, "bestemmelser": ["§ 22, stk. 5", "§ 28, stk. 2", "§ 87, stk. 1, nr. 7 og 9", "§ 90, nr. 1"], "citat": "lovbekendtgørelse nr. 1248 af 24. oktober 2023"},
+      {"type": "bekendtgørelse", "nr": 1366, "aar": 2022, "bestemmelser": ["§ 4, stk. 1"], "citat": "bekendtgørelse nr. 1366 af 28. september 2022"}
+    ],
+    "eu": [],
+    "klage": [{"afgoerelse_af": "Energistyrelsen", "klageinstans": "Energiklagenævnet", "bestemmelse": "§ 17", "citat": "kan påklages til Energiklagenævnet"}],
+    "tilsyn": [
+      {"myndighed": "Energistyrelsen", "bestemmelse": "§ 15", "citat": "Energistyrelsen fører tilsyn med efterlevelsen af påbud"},
+      {"myndighed": "Energistyrelsen", "bestemmelse": "§ 16", "citat": "Energistyrelsen fører tilsyn med den overordnede overholdelse af denne bekendtgørelse"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "retsinfo-2026-10274",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": [
+      {"type": "lov", "nr": 2210, "aar": 2020, "citat": "Lov nr. 2210 af 29. december 2020"},
+      {"type": "lov", "nr": 742, "aar": 2025, "citat": "Lov nr. 742 af 20. juni 2025"},
+      {"type": "bekendtgørelse", "nr": 105, "aar": 2026, "citat": "Bekendtgørelse nr. 105 af 20. januar 2026"}
+    ]
+  },
+  {
+    "id": "lta-2025-867",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 1149, "aar": 2024, "bestemmelser": ["§ 5, stk. 1 og 2", "§ 6", "§ 8", "§ 70", "§ 78, stk. 5"], "citat": "lovbekendtgørelse nr. 1149 af 28. oktober 2024"}],
+    "eu": [{"type": "direktiv", "aar": 2020, "nr": 2184, "citat": "direktiv (EU) 2020/2184"}],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2019-319",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 949, "aar": 2013, "bestemmelser": ["§ 2, stk. 2 og 3", "§ 3", "§ 10 a, stk. 5", "§ 10 b, stk. 2"], "citat": "lovbekendtgørelse nr. 949 af 3. juli 2013"},
+      {"type": "lovbekendtgørelse", "nr": 241, "aar": 2019, "bestemmelser": ["§ 16, stk. 1", "§ 92", "§ 110, stk. 3 og 4"], "citat": "lovbekendtgørelse nr. 241 af 13. marts 2019"},
+      {"type": "lovbekendtgørelse", "nr": 314, "aar": 2017, "bestemmelser": ["§ 33, stk. 6", "§ 33 a, stk. 2", "§ 70, stk. 4 og 6"], "citat": "lovbekendtgørelse nr. 314 af 3. april 2017"}
+    ],
+    "eu": [],
+    "klage": [{"afgoerelse_af": "kommunalbestyrelsen", "klageinstans": "Planklagenævnet", "bestemmelse": "§ 21", "citat": "kan påklages til Planklagenævnet"}],
+    "tilsyn": [{"myndighed": "kommunalbestyrelsen", "bestemmelse": "§ 19", "citat": "Kommunalbestyrelsen påser overholdelsen af denne bekendtgørelse"}],
+    "henviser": []
+  }
+]

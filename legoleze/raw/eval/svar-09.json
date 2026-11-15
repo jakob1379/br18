@@ -1,0 +1,112 @@
+[
+  {
+    "id": "lta-2026-25",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1108, "aar": 2025, "bestemmelser": ["§ 81 a, stk. 12"], "citat": "lovbekendtgørelse nr. 1108 af 15. september 2025"}
+    ],
+    "eu": [],
+    "klage": [
+      {"afgoerelse_af": "Arbejdstilsynet", "klageinstans": "Arbejdsmiljøklagenævnet", "bestemmelse": "§ 1", "citat": "Arbejdsmiljøklagenævnet behandler klager over afgørelser truffet af Arbejdstilsynet"},
+      {"afgoerelse_af": "Arbejdstilsynet", "klageinstans": "Arbejdsmiljøklagenævnet", "bestemmelse": "§ 2", "citat": "videresendes klagen til Arbejdsmiljøklagenævnet"}
+    ],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2021-1989",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2014-1339",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 660, "aar": 2009, "bestemmelser": ["§ 33, stk. 6", "§ 70, stk. 4 og 5"], "citat": "lovbekendtgørelse nr. 660 af 10. juni 2009"},
+      {"type": "bekendtgørelse", "nr": 1557, "aar": 2009, "bestemmelser": ["§ 1"], "citat": "bekendtgørelse nr. 1557 af 11. december 2009"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2009-280",
+    "hjemmel": [
+      {"type": "lov", "nr": 275, "aar": 2009, "bestemmelser": [], "citat": "lov nr. 275 af 7. april 2009"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "mt-2008-46",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": [
+      {"type": "lovbekendtgørelse", "nr": 188, "aar": 2007, "citat": "Lovbekendtgørelse nr. 188 af 27. februar 2007"},
+      {"type": "lovbekendtgørelse", "nr": 452, "aar": 1998, "citat": "Lovbekendtgørelse nr. 452 af 24. juni 1998"}
+    ]
+  },
+  {
+    "id": "lta-2018-239",
+    "hjemmel": [
+      {"type": "lov", "nr": 61, "aar": 2018, "bestemmelser": ["§ 5, stk. 1, nr. 3, stk. 2 og 4", "§ 8, stk. 3", "§ 26, stk. 1", "§ 28", "§ 31, stk. 2"], "citat": "lov nr. 61 af 30. januar 2018"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2024-792",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1693, "aar": 2021, "bestemmelser": ["§ 9, stk. 3", "§ 10, stk. 11", "§ 11, stk. 4", "§ 11 a, stk. 5", "§ 11 b", "§ 22", "§ 30, stk. 2"], "citat": "lovbekendtgørelse nr. 1693 af 16. august 2021"},
+      {"type": "bekendtgørelse", "nr": 1366, "aar": 2022, "bestemmelser": ["§ 4, stk. 1"], "citat": "bekendtgørelse nr. 1366 af 28. september 2022"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2024-769",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 116, "aar": 2024, "bestemmelser": ["§ 1 a", "§ 18, stk. 2 og 3"], "citat": "lovbekendtgørelse nr. 116 af 24. januar 2024"},
+      {"type": "bekendtgørelse", "nr": 1625, "aar": 2023, "bestemmelser": ["§ 10, stk. 2"], "citat": "bekendtgørelse nr. 1625 af 12. december 2023"}
+    ],
+    "eu": [
+      {"type": "direktiv", "aar": 2004, "nr": 35, "citat": "direktiv 2004/35/EF"}
+    ],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2017-735",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1529, "aar": 2015, "bestemmelser": ["§ 54 b, stk. 6 og 7"], "citat": "lovbekendtgørelse nr. 1529 af 23. november 2015"},
+      {"type": "bekendtgørelse", "nr": 1137, "aar": 2015, "bestemmelser": ["§ 2, stk. 1, nr. 10"], "citat": "bekendtgørelse nr. 1137 af 24. september 2015"}
+    ],
+    "eu": [],
+    "klage": [
+      {"afgoerelse_af": "kommunalbestyrelsen", "klageinstans": "Planklagenævnet", "bestemmelse": "§ 2", "citat": "Planklagenævnets afgørelse om opretholdelse af tilladelsen"}
+    ],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "retsinfo-2014-9580",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": [
+      {"type": "lov", "nr": 579, "aar": 2012, "citat": "lov nr. 579 af 18. juni 2012"}
+    ]
+  }
+]

@@ -28,7 +28,12 @@ Afgørelser, udtalelser og domme får en udsteder-kant fra den instans i registr
 
 katalog læser også katalog/tekst.jsonl (tekst.py). For forskrifter, hvis XML er hentet, lægges de bestemmelser i loven, præamblen nævner, på
 hjemmel_for-kanten (from_bestemmelse, og citeret_version når præamblen citerer en anden version end Retsinformations), og en lov eller
-bekendtgørelse, der kun nævnes i præamblen, får sin egen hjemmel_for-kant (metode praeambel).
+bekendtgørelse, der kun nævnes i præamblen, får sin egen hjemmel_for-kant (metode praeambel). Et dokument i Lovtidende A får en
+implementerer_EU-kant til hver EU-retsakt, dets fodnote siger, det gennemfører (gennemfoerer, metode fodnote, sandsynlig). Et hentet dokument
+uden tekst i bulk-høsten får en henviser_til-kant til hvert dokument, dets tekst nævner med nummer og den rigtige dato (metode xml-tekst).
+katalog/eu_index.jsonl ajourføres med de retsakter, kun fodnoterne nævner (euindeks). De ældre implementerer_EU-kanter fra bulk-høsten (metode
+tekst-samforekomst: retsakten står i samme bestemmelse som "gennemfører") fjernes for dokumenter, hvis tekst er hentet, fordi fodnoten dér er læst,
+og sættes ellers til ukendt: i evalueringssættet (eval.py) var de kun rigtige, når fodnoten også nævnte retsakten.
 """
 from __future__ import annotations
 
@@ -64,6 +69,9 @@ ANDRE = ("ltb", "ltc", "mt", "retsinfo", "fob", "ft")
 PRAKSIS = {"endelig-adm-afgørelse", "afgørelse", "udtalelse", "udtalelser", "dom", "kommentar"}
 METODE = "retsinformation-eksport"
 PRAEAMBEL = "praeambel"
+FODNOTE = "fodnote"
+XMLTEKST = "xml-tekst"
+SAMFOREKOMST = "tekst-samforekomst"
 TYPER = {"Anordningsbekendtgørelse": "bekendtgørelse-af-anordning"}
 LOVE = ("lov", "lovbekendtgørelse")
 FORSKRIFTER = {"bekendtgørelse", "ændringsbekendtgørelse", "ikrafttrædelsesbekendtgørelse", "anordning", "ændringsanordning", "ikrafttrædelsesanordning",
@@ -198,14 +206,61 @@ def hjemmelkant(d: dict, lov: dict, citeret: list | None = None) -> dict:
 
 def myndigheder(reg: dict) -> dict:
     """{normaliseret navn: (node-id, er det nuværende navn)} for registry'ets instanser, med og uden parentes i navnet og med tidligere navne.
-    Et navn, flere instanser deler, er udeladt."""
+    Instansens eget navn går forud for et tidligere navn på en anden instans; et navn, flere instanser ellers deler, er udeladt."""
     ud = collections.defaultdict(set)
     for n in reg["nodes"]:
         if n["type"] in P.B.INSTANCE_TYPES:
             for navn, nu in [(n["navn"], True), *((t["navn"], False) for t in n.get("tidligere_navne") or [])]:
                 ud[P.norm(navn)].add((n["id"], nu))
                 ud[P.norm(re.sub(r"\([^)]*\)", "", navn))].add((n["id"], nu))
-    return {k: max(v, key=lambda x: x[1]) for k, v in ud.items() if k and len({i for i, _ in v}) == 1}
+    valg = {k: nu if len(nu := {x for x in v if x[1]}) == 1 else v for k, v in ud.items()}
+    return {k: max(v, key=lambda x: x[1]) for k, v in valg.items() if k and len({i for i, _ in v}) == 1}
+
+
+EUNAEVNT = re.compile("|".join(r.pattern for r in (X.R_DIR, X.R_REG_OLD, X.R_REG_NEW, X.R_DEC)), re.IGNORECASE)
+SLUT = re.compile(r"notificeret|medtaget visse|Ifølge artikel")
+KAEDE = re.compile(r"ændret ved|senest ved|og ved\b")
+TITEL = re.compile(r"ændring af|ophævelse af|i henhold til")
+
+
+def gennemfoerer(noter: list[str]) -> list[str]:
+    """EU-retsakter (katalog-id), som en fodnote siger, at dokumentet gennemfører. Læst fra "gennemfører" til notens slutning eller til
+    informationsproceduren ("notificeret") og gengivne forordninger ("medtaget visse bestemmelser"). En retsakt efter "som ændret ved" eller
+    "senest ved" er en ændringsretsakt og er ikke med, og det er de følgende heller ikke, før teksten igen siger "dele af" eller "gennemfører",
+    eller der efter en henvisning til EU-Tidende kommer en retsakt, hvis egen titel ikke begynder med "om ændring af".
+    Retsakter i en anden retsakts titel (efter "om ændring af", "om ophævelse af" eller "i henhold til" og frem til henvisningen til EU-Tidende
+    eller en slutparentes) er heller ikke med."""
+    ud = []
+    for note in noter:
+        for start in (m.end() for m in X.R_GF.finditer(note)):
+            slut = SLUT.search(note, start)
+            led, pos, kaede, titel = note[start:slut.start() if slut else len(note)], 0, False, False
+            for m in EUNAEVNT.finditer(led):
+                mellem, pos = led[pos:m.start()], m.end()
+                aendrer = re.match(r"[^,;]{0,60}?\bom ændring af", led[m.end():])
+                efter = re.split(r"(?i)tidende", mellem)
+                kaede = bool(KAEDE.search(mellem)) or (kaede and not re.search(r"dele af|gennemfører", mellem) and (len(efter) == 1 or bool(aendrer)))
+                titel = bool(TITEL.search(efter[-1])) or (titel and len(efter) == 1 and ")" not in mellem)
+                if not kaede and not titel:
+                    ud += [K.eu_id(k)[0] for k in X.eu_refs(m[0])]
+    return list(dict.fromkeys(ud))
+
+
+def euindeks(kanter: list[dict], ids: dict) -> None:
+    """Ajourfører katalog/eu_index.jsonl: antal implementerer_EU-kanter pr. retsakt, og en post for hver retsakt, kun en fodnote nævner
+    (fra: fodnote; n_dok og n_gaeldende tæller dér de dokumenter, hvis fodnote nævner den)."""
+    fra = collections.defaultdict(set)
+    for e in kanter:
+        if e["type"] == "implementerer_EU":
+            fra[e["to"]].add(e["from"])
+    eu = {r["id"]: r for r in map(json.loads, (KAT / "eu_index.jsonl").open(encoding="utf-8")) if r.get("fra") != FODNOTE}
+    for eid in sorted(set(fra) - set(eu)):
+        t, aar, nr = eid.split("-")[1:]
+        eu[eid] = {"id": eid, "type": {"dir": "eu-direktiv", "reg": "eu-forordning", "dec": "eu-afgørelse"}[t],
+                   "identifikatorer": {"celex": K.eu_id(f"{t}:{aar}/{nr}")[1], "kilder": [K.CELEX_HELP], "sikkerhed": "verificeret",
+                                       "kilde_note": "CELEX afledt af den citerede retsakts år og nummer efter EUR-Lex' CELEX-syntaks (sektor 3)."},
+                   "registry_id": None, "n_dok": len(fra[eid]), "n_gaeldende": sum(ids[i]["status"]["vaerdi"] == "gældende" for i in fra[eid]), "fra": FODNOTE}
+    (KAT / "eu_index.jsonl").write_text("".join(linje({**r, "n_implementerer": len(fra.get(r["id"], ()))}) for r in eu.values()), encoding="utf-8")
 
 
 def udstederkant(d: dict, node: str, nuvaerende: bool) -> dict:
@@ -404,13 +459,14 @@ def katalog() -> dict:
         [{"id": d["id"], "navn": d["navn"], "type": d["type"], "ressortfelt": eks.get(d["id"], {}).get("Ressort"), "myndighed": eks.get(d["id"], {}).get("AdministrerendeMyndighed"),
           "ministerium": (d.get("ministerium") or {}).get("vaerdi"), "retsomraade": d.get("retsomraade")} for d in rest], ensure_ascii=False, indent=1), encoding="utf-8")
 
-    kanter = [e for e in map(json.loads, (KAT / "kanter.jsonl").open(encoding="utf-8")) if e.get("metode") not in (METODE, PRAEAMBEL)
+    kanter = [e for e in map(json.loads, (KAT / "kanter.jsonl").open(encoding="utf-8")) if e.get("metode") not in (METODE, PRAEAMBEL, FODNOTE, XMLTEKST)
               and not (e["type"] == "ressortansvar" and (e["to"] in ri or ids.get(e["to"], {}).get("status", {}).get("vaerdi") == "historisk"))]
     for e in kanter:
         if e["type"] == "henviser_til" and (e.get("gaeldende_version") or e["to"]) in ompeg:
             e["gaeldende_version"] = ompeg[e.get("gaeldende_version") or e["to"]]
     tekstfil = KAT / "tekst.jsonl"
-    praeambel = {t["id"]: t["praeambel"] for t in map(json.loads, tekstfil.open(encoding="utf-8")) if "praeambel" in t} if tekstfil.exists() else {}
+    hentet = [t for t in map(json.loads, tekstfil.open(encoding="utf-8")) if t["id"] in ids] if tekstfil.exists() else []
+    praeambel = {t["id"]: t["praeambel"] for t in hentet if "praeambel" in t}
     familie = lambda i: ids[i].get("gaeldende_version") or ids[i].get("nyeste_version_afloeser_mangler") or i
     findes = {(e["from"], e["type"], e["to"]) for e in kanter}
     for i in sorted(hjemmel):
@@ -435,6 +491,25 @@ def katalog() -> dict:
         love = [d["lov"]] if "lov" in d else [] if d["type"] == "lovforslag-som-vedtaget" else sag.get(d.get("lovforslag"), [])
         kanter += [{"from": d["id"], "type": "henviser_til", "to": lov, "beskrivelse": "forarbejde til loven (koblet på den vedtagne teksts titel og dato)",
                     "kilder": d["kilder"], "sikkerhed": "sandsynlig", "metode": METODE} for lov in dict.fromkeys(love)]
+    laest = {t["id"] for t in hentet if t.get("n_tegn") and t["id"].startswith("lta-")}
+    stats["implementerer_EU fra samforekomst fjernet (fodnoten er læst)"] = sum(e.get("metode") == SAMFOREKOMST and e["from"] in laest for e in kanter)
+    kanter = [{**e, "sikkerhed": "ukendt"} if e.get("metode") == SAMFOREKOMST else e for e in kanter if not (e.get("metode") == SAMFOREKOMST and e["from"] in laest)]
+    findes = {(e["from"], e["type"], e["to"]) for e in kanter}
+    for t in hentet:
+        i, d = t["id"], ids[t["id"]]
+        for eid in gennemfoerer(t.get("noter", [])) if i.startswith("lta-") else ():
+            if (i, "implementerer_EU", eid) not in findes:
+                kanter.append({"from": i, "type": "implementerer_EU", "to": eid, "beskrivelse": "dokumentets fodnote siger, at det gennemfører retsakten",
+                               "kilder": d["kilder"][:1], "sikkerhed": "sandsynlig", "metode": FODNOTE})
+        for noegle, n in (t.get("naevner") or {}).items() if not d.get("n_paragraffer") else ():
+            c, dag = noegle.split("|")
+            if c in ids and c != i and ids[c]["datoer"].get("udstedt") == dag and (i, "henviser_til", c) not in findes:
+                kanter.append({"from": i, "type": "henviser_til", "to": c, "beskrivelse": f"nævner dokumentet (nr. og dato) {n} gang(e) i den hentede tekst",
+                               "kilder": d["kilder"][:1], "sikkerhed": "verificeret", "metode": XMLTEKST,
+                               **({"gaeldende_version": gv} if (gv := ids[c].get("gaeldende_version")) else {})})
+    stats["implementerer_EU fra fodnoter"] = sum(e.get("metode") == FODNOTE for e in kanter)
+    stats["henviser_til fra hentet tekst"] = sum(e.get("metode") == XMLTEKST for e in kanter)
+    euindeks(kanter, ids)
     instans = myndigheder(reg)
     for d in andre:
         fra = instans.get(P.norm(eks[d["id"]].get("AdministrerendeMyndighed", ""))) if d["type"] in PRAKSIS or d["id"].startswith("fob-") else None
@@ -531,6 +606,27 @@ def selftest() -> None:
     assert [(k["from"], k["to"], k["sikkerhed"], k["beskrivelse"].endswith("Retsinformation")) for k in uk] == [("naevn-ae", "mt-2001-12", "verificeret", True),
                                                                                                                 ("naevn-ae", "mt-2001-12", "sandsynlig", False)]
     assert uk[1]["beskrivelse"] == uk[0]["beskrivelse"] + " (under et tidligere navn)" and uk[0]["kilder"] == [P.RI + "/eli/mt/2001/12"]
+    note = ("1) Bekendtgørelsen indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2012/27/EU af 25. oktober 2012 om energieffektivitet, "
+            "om ændring af direktiv 2009/125/EF og 2010/30/EU samt om ophævelse af direktiv 2004/8/EF og 2006/32/EF, EU-Tidende 2012, nr. L 315, side 1, som ændret ved "
+            "Rådets direktiv 2013/12/EU af 13. maj 2013, EU-Tidende 2013, nr. L 141, side 28, og senest ved Europa-Parlamentets og Rådets direktiv 2018/2002/EU, og dele "
+            "af Rådets direktiv 98/24/EF af 7. april 1998 (fjortende særdirektiv i henhold til direktiv 89/391/EØF, artikel 16, stk. 1), EF-Tidende 1998, nr. L 131, "
+            "side 11. I bekendtgørelsen er der medtaget visse bestemmelser fra forordning (EU) 2016/426. Bekendtgørelsen har som udkast været notificeret i "
+            "overensstemmelse med Europa-Parlamentets og Rådets direktiv (EU) 2015/1535.")
+    assert gennemfoerer([note, "2) Ressortansvaret er overført."]) == ["eu-dir-2012-27", "eu-dir-1998-24"] and gennemfoerer([]) == []
+    assert gennemfoerer([("1) Bekendtgørelsen gennemfører direktiv 2018/2001/EU om vedvarende energi, EU-Tidende 2018, nr. L 328, s. 82, og direktiv (EU) 2023/2413 om ændring af "
+                         "direktiv (EU) 2018/2001, forordning (EU) 2018/1999 og direktiv 98/70/EF og om ophævelse af direktiv (EU) 2015/652, EU-Tidende, L af 31. oktober 2023, "
+                         "som ændret ved direktiv (EU) 2023/958 om passende gennemførelse af en ordning, EU-Tidende 2023, side 115 og ved direktiv (EU) 2023/959.")]) == ["eu-dir-2018-2001", "eu-dir-2023-2413"]
+    assert gennemfoerer([("1) Bekendtgørelsen gennemfører direktiv 2013/64/EU om ændring af direktiv 91/271/EØF og direktiv 2000/60/EF, EU-tidende 2013, nr. L 353, side 8, dele af "
+                         "direktiv 2000/60/EF om vandpolitiske foranstaltninger, EF-Tidende 2000, nr. L 327, side 1.")]) == ["eu-dir-2013-64", "eu-dir-2000-60"]
+    assert gennemfoerer([("1) Bekendtgørelsen gennemfører direktiv 89/656/EØF (tredje særdirektiv i henhold til artikel 16, stk. 1, i direktiv 89/391/EØF), EF-Tidende 1989, nr. L 393, "
+                         "side 18, som ændret ved direktiv 2007/30/EF af 20. juni 2007 om ændring af Rådets direktiv 89/391/EØF, EU-Tidende 2007, nr. L 165, side 21, og Rådets "
+                         "direktiv 89/686/EØF af 21. december 1989 om personlige værnemidler, EF-Tidende 1989, nr. L 399, side 18.")]) == ["eu-dir-1989-656", "eu-dir-1989-686"]
+    assert gennemfoerer([("1) Bekendtgørelsen gennemfører dele af direktiv 2005/36/EF, EU-tidende 2005, nr. L 255, side 22, som ændret ved Kommissionens forordning (EU) nr. "
+                         "623/2012, EU-tidende 2012 nr. L 180, side 9 og Europa-Parlamentets og Rådets direktiv 2013/55/EU af 20. november 2013 om ændring af direktiv 2005/36/EF.")]) == ["eu-dir-2005-36"]
+    delt = [{"id": "naevn-nm", "type": "klagenævn", "navn": "Frugtklagenævnet"}, {"id": "naevn-ny", "type": "klagenævn", "navn": "Æbleklagenævnet",
+                                                                                "tidligere_navne": [{"navn": "Frugtklagenævnet (æblesager)"}, {"navn": "Bærnævnet"}]},
+            {"id": "naevn-ny2", "type": "klagenævn", "navn": "Pæreklagenævnet", "tidligere_navne": [{"navn": "Bærnævnet"}]}]
+    assert myndigheder({"nodes": delt})["frugtklagenævnet"] == ("naevn-nm", True) and "bærnævnet" not in myndigheder({"nodes": delt})
     assert myndigheder({"nodes": inst}) == {"æblenævnet æn": ("naevn-ae", True), "æblenævnet": ("naevn-ae", True), "frugtnævnet": ("naevn-ae", False), "pærenævnet": ("naevn-p", True)}
     ny = [{"id": "n1", "status": {"vaerdi": "gældende"}, "datoer": {"udstedt": "2026-07-02"}}, {"id": "n2", "status": {"vaerdi": "gældende"}, "datoer": {"udstedt": "2026-01-02"}},
           {"id": "n3", "status": {"vaerdi": "gældende"}, "datoer": {"udstedt": "2026-01-02"}}, {"id": "c", "status": {"vaerdi": "gældende"}, "datoer": {},

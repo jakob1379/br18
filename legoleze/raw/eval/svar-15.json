@@ -1,0 +1,134 @@
+[
+  {
+    "id": "lta-2020-1410",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 674, "aar": 2020, "bestemmelser": ["§ 72 b"], "citat": "lovbekendtgørelse nr. 674 af 25. maj 2020"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2009-1297",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1204, "aar": 2009, "bestemmelser": ["§ 12, stk. 3"], "citat": "lovbekendtgørelse nr. 1204 af 10. december 2009"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "retsinfo-2023-9705",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": [
+      {"type": "bekendtgørelse", "nr": 748, "aar": 2022, "citat": "bekendtgørelse nr. 748 af 30. maj 2022"},
+      {"type": "bekendtgørelse", "nr": 70, "aar": 2018, "citat": "bekendtgørelse nr. 70 af 26. januar 2018"},
+      {"type": "bekendtgørelse", "nr": 772, "aar": 2011, "citat": "bekendtgørelse nr. 772 af 27. juni 2011"},
+      {"type": "bekendtgørelse", "nr": 340, "aar": 1993, "citat": "bekendtgørelse nr. 340 af 1. juni 1993"}
+    ]
+  },
+  {
+    "id": "lta-2024-721",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1178, "aar": 2016, "bestemmelser": ["§ 4F", "§ 30, stk. 2"], "citat": "lovbekendtgørelse nr. 1178 af 23. september 2016"}
+    ],
+    "eu": [
+      {"type": "direktiv", "aar": 2020, "nr": 2184, "citat": "direktiv (EU) 2020/2184"}
+    ],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2018-1391",
+    "hjemmel": [
+      {"type": "lov", "nr": 401, "aar": 2014, "bestemmelser": ["§ 15, nr. 4", "§ 18, stk. 2", "§ 36, stk. 2"], "citat": "lov nr. 401 af 28. april 2014"},
+      {"type": "bekendtgørelse", "nr": 545, "aar": 2017, "bestemmelser": ["§ 4, nr. 10, 12 og 23"], "citat": "bekendtgørelse nr. 545 af 29. maj 2017"}
+    ],
+    "eu": [
+      {"type": "direktiv", "aar": 2005, "nr": 36, "citat": "direktiv 2005/36/EF"}
+    ],
+    "klage": [
+      {"afgoerelse_af": "Sikkerhedsstyrelsen", "klageinstans": "Erhvervsankenævnet", "bestemmelse": "§ 24", "citat": "kan dog indbringes for Erhvervsankenævnet"}
+    ],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2017-1619",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1288, "aar": 2016, "bestemmelser": ["§ 65 stk. 2"], "citat": "lovbekendtgørelse nr. 1288 af 27. oktober 2016"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "retsinfo-2026-9578",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": [
+      {"type": "lov", "nr": 700, "aar": 2025, "citat": "Lov nr. 700 af 20. juni 2025"},
+      {"type": "bekendtgørelse", "nr": 881, "aar": 2025, "citat": "Bekendtgørelse nr. 881 af 24. juni 2025"},
+      {"type": "bekendtgørelse", "nr": 880, "aar": 2025, "citat": "Bekendtgørelse nr. 880 af 24. juni 2025"},
+      {"type": "bekendtgørelse", "nr": 823, "aar": 2025, "citat": "Bekendtgørelse nr. 823 af 24. juni 2025"},
+      {"type": "lovbekendtgørelse", "nr": 1243, "aar": 2025, "citat": "lovbekendtgørelse nr. 1243 af 27. oktober 2025"},
+      {"type": "lovbekendtgørelse", "nr": 265, "aar": 2025, "citat": "lovbekendtgørelse nr. 265 af 6. marts 2025"},
+      {"type": "lov", "nr": 1242, "aar": 2025, "citat": "lov nr. 1242 af 27. oktober 2025"},
+      {"type": "lovbekendtgørelse", "nr": 1149, "aar": 2024, "citat": "lovbekendtgørelse nr. 1149 af 28. oktober 2024"},
+      {"type": "bekendtgørelse", "nr": 1272, "aar": 2025, "citat": "bekendtgørelse nr. 1272 af 31. oktober 2025"},
+      {"type": "lov", "nr": 331, "aar": 2025, "citat": "lov nr. 331 af 20. marts 2025"}
+    ]
+  },
+  {
+    "id": "lta-2025-1446",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1093, "aar": 2024, "bestemmelser": ["§ 7, stk. 1, nr. 1-3, 5 og 8-9", "§ 7 a, stk. 1", "§ 16", "§ 18, stk. 1", "§ 19, stk. 4 og 5", "§ 27, stk. 3", "§ 29", "§ 32, stk. 5", "§ 67", "§ 73, stk. 1 og 3", "§ 79 b, stk. 1, nr. 3, 4, 6 og 13", "§ 79 c, stk. 2", "§ 80, stk. 1 og 2", "§ 83, stk. 3", "§ 88, stk. 1", "§ 89 b", "§ 92", "§ 110, stk. 3"], "citat": "lovbekendtgørelse nr. 1093 af 11. oktober 2024"},
+      {"type": "lovbekendtgørelse", "nr": 831, "aar": 2018, "bestemmelser": ["§ 5"], "citat": "lovbekendtgørelse nr. 831 af 25. juni 2018"}
+    ],
+    "eu": [
+      {"type": "direktiv", "aar": 1991, "nr": 271, "citat": "direktiv 91/271/EØF"},
+      {"type": "direktiv", "aar": 2013, "nr": 64, "citat": "direktiv 2013/64/EU"},
+      {"type": "direktiv", "aar": 2000, "nr": 60, "citat": "direktiv 2000/60/EF"},
+      {"type": "direktiv", "aar": 2014, "nr": 101, "citat": "direktiv 2014/101/EU"},
+      {"type": "direktiv", "aar": 2006, "nr": 118, "citat": "direktiv 2006/118/EF"},
+      {"type": "direktiv", "aar": 2010, "nr": 75, "citat": "direktiv 2010/75/EU"},
+      {"type": "direktiv", "aar": 2018, "nr": 2001, "citat": "direktiv 2018/2001/EU"}
+    ],
+    "klage": [],
+    "tilsyn": [
+      {"myndighed": "Miljøstyrelsen", "bestemmelse": "§ 27", "citat": "Miljøstyrelsen kontrollerer"},
+      {"myndighed": "Miljøstyrelsen", "bestemmelse": "§ 69", "citat": "Miljøstyrelsens omkostninger til at føre tilsyn med selskabernes spildevandsudledninger efter § 27 i denne bekendtgørelse"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2023-470",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1157, "aar": 2020, "bestemmelser": ["§ 52, stk. 3 og 4"], "citat": "lovbekendtgørelse nr. 1157 af 1. juli 2020"},
+      {"type": "lovbekendtgørelse", "nr": 949, "aar": 2013, "bestemmelser": ["§ 10 d"], "citat": "lovbekendtgørelse nr. 949 af 3. juli 2013"},
+      {"type": "lovbekendtgørelse", "nr": 790, "aar": 2007, "bestemmelser": ["§ 13 a"], "citat": "lovbekendtgørelse nr. 790 af 21. juni 2007"},
+      {"type": "lovbekendtgørelse", "nr": 791, "aar": 2007, "bestemmelser": ["§ 6 a, stk. 1 og 2"], "citat": "lovbekendtgørelse nr. 791 af 21. juni 2007"},
+      {"type": "lovbekendtgørelse", "nr": 1069, "aar": 2018, "bestemmelser": ["§ 25, stk. 1 og 2"], "citat": "lovbekendtgørelse nr. 1069 af 21. august 2018"},
+      {"type": "lovbekendtgørelse", "nr": 787, "aar": 2007, "bestemmelser": ["§ 5, stk. 1 og 2"], "citat": "lovbekendtgørelse nr. 787 af 21. juni 2007"},
+      {"type": "lovbekendtgørelse", "nr": 114, "aar": 2020, "bestemmelser": ["§ 11, stk. 1 og 3"], "citat": "lovbekendtgørelse nr. 114 af 6. februar 2020"},
+      {"type": "lovbekendtgørelse", "nr": 19, "aar": 2017, "bestemmelser": ["§ 11, stk. 1 og 3"], "citat": "lovbekendtgørelse nr. 19 af 4. januar 2017"},
+      {"type": "lov", "nr": 1590, "aar": 2022, "bestemmelser": ["§ 24, stk. 1 og 4"], "citat": "lov nr. 1590 af 28. december 2022"}
+    ],
+    "eu": [],
+    "klage": [
+      {"afgoerelse_af": "kommunalbestyrelsen", "klageinstans": "Planklagenævnet", "bestemmelse": "§ 4", "citat": "Klage til Planklagenævnet over kommunalbestyrelsens afgørelser"},
+      {"afgoerelse_af": "lokale aktionsgrupper", "klageinstans": "Plan- og Landdistriktsstyrelsen", "bestemmelse": "§ 13", "citat": "kan påklages til Plan- og Landdistriktsstyrelsen"}
+    ],
+    "tilsyn": [],
+    "henviser": []
+  }
+]

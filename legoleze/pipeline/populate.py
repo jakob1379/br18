@@ -105,7 +105,7 @@ SENERE, LOVGIVNING, IMPLEMENTERER = "Senere ændringer til forskriften", "Lovgiv
 UA = "Mozilla/5.0 (compatible; registry-citatkontrol)"
 CACHE = Path(os.environ.get("TMPDIR", "/tmp")) / "legoleze-citatkontrol"
 OK = 0.6
-LISTE = re.compile(r"(§(?:\s|§|\d+|[a-zæøåA-ZÆØÅ]\b|stk\.|nr\.|pkt\.|litra|og|samt|[,.\-–])+?),?\s+(?:i\s+(?=[a-zæøåA-ZÆØÅ])|jf\.\s+(?=lov))")
+LISTE = re.compile(r"(§(?:\s|§|\d+|[a-zæøåA-ZÆØÅ]\b|stk\.?|nr\.?|pkt\.?|litra|og|samt|[,.\-–])+?),?\s+(?:i\s+(?=[a-zæøåA-ZÆØÅ])|jf\.\s+(?=lov))")
 CITAT = re.compile(r"\b(?:lovbekendtgørelse|lov|bekendtgørelse|anordning)(?: nr\.?)? (\d+)\.? af \d+\. \w+,? (\d{4})")
 
 
@@ -371,14 +371,16 @@ def praeambelhjemmel(praeambel: str) -> list[tuple[str, list[str]]]:
     """[(katalog-id for det citerede dokument, bestemmelser)] fra en præambel "I medfør af § … i lov …, jf. lovbekendtgørelse nr. … af …,
     fastsættes efter bemyndigelse i henhold til § … i bekendtgørelse nr. … af …". En liste af bestemmelser hører til det første dokument,
     der citeres med nummer og dato efter den. Efter "som ændret ved …" og "med de ændringer, der følger af …" nævnes ændringslove, ikke
-    hjemmel: dér springes lister over, indtil en lov igen nævnes ved navn eller med nummer, dato og titel ("lov nr. … af … om …")."""
+    hjemmel: dér springes lister over, indtil en lov igen nævnes ved navn eller med nummer, dato og titel ("lov nr. … af … om …"), eller
+    teksten begynder forfra med "i medfør af" eller "efter bemyndigelse i henhold til"."""
     ud = []
     for del_ in re.split(r"\b(?:fastsættes|bestemmes)\b", praeambel, maxsplit=1):
         slut, aendring = 0, False
         for m in LISTE.finditer(del_):
             if m.start() < slut:
                 continue
-            aendring = aendring or "ændr" in del_[slut:m.start()]
+            mellem = del_[slut:m.start()]
+            aendring = (aendring or "ændr" in mellem) and not re.search(r"bemyndigelse|medfør af", mellem.rpartition("ændr")[2])
             c, naeste = CITAT.search(del_, m.end()), LISTE.search(del_, m.end())
             if not c or (naeste and c.start() > naeste.start()):
                 continue
@@ -951,6 +953,9 @@ def selftest() -> None:
                             "2009, fastsættes efter bemyndigelse i henhold til § 31 D, stk. 1:") == [("lta-2016-1715", ["§ 22, stk. 2"]), ("lta-2016-1658", ["§ 9, stk. 2"]),
                                                                                                       ("lta-2009-91", ["§ 7, stk. 2 og 4"])]
     assert praeambelhjemmel("Herved bekendtgøres lov om æbler, jf. lovbekendtgørelse nr. 1 af 1. januar 2020, med de ændringer, der følger af § 2 i lov nr. 5 af 1. maj 2021.") == []
+    assert praeambelhjemmel("I medfør af § 54 b, stk 6 og 7, i lov om æbler, jf. lovbekendtgørelse nr. 1529 af 23. november 2015, som ændret ved lov nr. 668 af 6. juni "
+                            "2017, og efter bemyndigelse i henhold til § 2, stk. 1, nr. 10, i bekendtgørelse nr. 1137 af 24. september 2015, som ændret ved "
+                            "bekendtgørelse nr. 734 af 13. juni 2017, fastsættes:") == [("lta-2015-1529", ["§ 54 b, stk 6 og 7"]), ("lta-2015-1137", ["§ 2, stk. 1, nr. 10"])]
     assert praeambelhjemmel("I medfør af tekstanmærkning nr. 206 ad 23.24.54. til § 23 på finansloven for finansåret 2026 fastsættes:") == []
     put(RI + "/eli/lta/2026/11/xml", meta.format(2026, 11, "Valid").replace("LBK H#X", "BEK H#X") + indl)
     put(RI + "/api/document/11/references/1", "{}")

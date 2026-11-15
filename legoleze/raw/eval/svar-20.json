@@ -1,0 +1,87 @@
+[
+  {
+    "id": "lta-2026-595",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 442, "aar": 2026, "bestemmelser": ["§ 35, stk. 1", "§ 46", "§ 84", "§ 86"], "citat": "lovbekendtgørelse nr. 442 af 24. april 2026"}],
+    "eu": [{"type": "direktiv", "aar": 2009, "nr": 104, "citat": "direktiv 2009/104/EF"}],
+    "klage": [{"afgoerelse_af": "Arbejdstilsynet", "klageinstans": "Arbejdsmiljøklagenævnet", "bestemmelse": "§ 49", "citat": "kan påklages til Arbejdsmiljøklagenævnet"}],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2022-750",
+    "hjemmel": [{"type": "lov", "nr": 342, "aar": 2022, "bestemmelser": ["§ 25, stk. 4"], "citat": "lov nr. 342 af 22. marts 2022"}],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2007-1292",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 452, "aar": 1998, "bestemmelser": ["§ 25 B, stk. 7", "§ 25 C, stk. 5", "25 E, stk. 4", "§ 25 F, stk. 4 og 5"], "citat": "lovbekendtgørelse nr. 452 af 24. juni 1998"},
+      {"type": "bekendtgørelse", "nr": 359, "aar": 2005, "bestemmelser": ["§ 1"], "citat": "bekendtgørelse nr. 359 af 23. maj 2005"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "retsinfo-2013-9186",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": [{"type": "bekendtgørelse", "nr": 119, "aar": 2013, "citat": "bekendtgørelse nr. 119 af 7."}]
+  },
+  {
+    "id": "lta-2025-1702",
+    "hjemmel": [{"type": "lov", "nr": 61, "aar": 2018, "bestemmelser": ["§ 5, stk. 1, nr. 1 og 3, og stk. 2 og 3", "§ 7, stk. 3", "§ 8, stk. 2", "§ 26, stk. 1 og 2", "§ 27", "§ 28", "§ 31, stk. 2"], "citat": "lov nr. 61 af 30. januar 2018"}],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2023-549",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1923, "aar": 2021, "bestemmelser": ["§ 2, stk. 4", "§ 3, stk. 7", "§ 4, stk. 1-4", "§ 5, stk. 3", "§ 7, stk. 3", "§ 10, stk. 2", "§ 12, stk. 1", "§ 14", "§ 15", "§ 24, stk. 1, nr. 1", "§ 24, stk. 2", "§ 24, stk. 3, nr. 4", "§ 24 a", "§ 25, stk. 1", "§ 28, stk. 3", "§ 28 a, stk. 1 og 2", "§ 29, stk. 4, nr. 1 og 2", "§ 31, stk. 2", "§ 32, stk. 3", "§ 35, stk. 2"], "citat": "lovbekendtgørelse nr. 1923 af 8. oktober 2021"},
+      {"type": "lovbekendtgørelse", "nr": 433, "aar": 2014, "bestemmelser": ["§ 32 a"], "citat": "lovbekendtgørelse nr. 433 af 22. april 2014"},
+      {"type": "bekendtgørelse", "nr": 1366, "aar": 2022, "bestemmelser": ["§ 4, stk. 1"], "citat": "bekendtgørelse nr. 1366 af 28. september 2022"}
+    ],
+    "eu": [
+      {"type": "direktiv", "aar": 2005, "nr": 36, "citat": "direktiv 2005/36/EF"},
+      {"type": "direktiv", "aar": 2006, "nr": 123, "citat": "direktiv nr. 2006/123/EF"},
+      {"type": "direktiv", "aar": 2010, "nr": 31, "citat": "direktiv 2010/31/EU"},
+      {"type": "direktiv", "aar": 2012, "nr": 27, "citat": "direktiv 2012/27/EU"}
+    ],
+    "klage": [
+      {"afgoerelse_af": "certificeret energimærkningsfirma", "klageinstans": "Energistyrelsen", "bestemmelse": "§ 38", "citat": "kan denne afgørelse påklages til Energistyrelsen"},
+      {"afgoerelse_af": "uvildig ekspert", "klageinstans": "Energistyrelsen", "bestemmelse": "§ 39", "citat": "behandles af Energistyrelsen"},
+      {"afgoerelse_af": "Energistyrelsen", "klageinstans": "Energiklagenævnet", "bestemmelse": "§ 40", "citat": "kan påklages til Energiklagenævnet"},
+      {"afgoerelse_af": "Energistyrelsen", "klageinstans": "Energiklagenævnet", "bestemmelse": "§ 47", "citat": "kan påklages til Energiklagenævnet"}
+    ],
+    "tilsyn": [
+      {"myndighed": "Energistyrelsen", "bestemmelse": "§ 37", "citat": "Energistyrelsen fører tilsyn med"},
+      {"myndighed": "Energistyrelsen", "bestemmelse": "§ 41", "citat": "Energistyrelsen kan udtage certificerede energimærkningsfirmaer til skærpet kontrol"},
+      {"myndighed": "Energistyrelsen", "bestemmelse": "§ 43", "citat": "Energistyrelsen kan udtage uvildige eksperter til skærpet kontrol"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2024-929",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 520, "aar": 2019, "bestemmelser": ["§ 5 a, stk. 1"], "citat": "lovbekendtgørelse nr. 520 af 1. maj 2019"}],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2019-968",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 287, "aar": 2018, "bestemmelser": ["§ 3, stk. 1", "§ 5 b, stk. 2"], "citat": "lovbekendtgørelse nr. 287 af 16. april 2018"}],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  }
+]

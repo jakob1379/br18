@@ -3,7 +3,7 @@
 
     python3 tekst.py plan             # udsnittet pr. trin: dokumenter i alt og hvor mange der er hentet
     python3 tekst.py hent [MINUTTER]  # hent manglende dokumenter i højst MINUTTER (105) -> intermediate/corpus/xml/<samling>/<resten af id>.xml.gz
-    python3 tekst.py indeks           # katalog/tekst.jsonl: sti, hentedato, omfang, præambel, fodnoter, underskriftssted og EU-retsakter pr. hentet dokument
+    python3 tekst.py indeks           # katalog/tekst.jsonl: sti, hentedato, omfang, præambel, fodnoter, nævnte retsakter, underskriftssted og EU-retsakter pr. hentet dokument
     python3 tekst.py fuld             # hele teksten som JSON-linjer på stdout: id, paragraf og tekst, én linje pr. paragraf
     python3 tekst.py selftest
 
@@ -34,6 +34,8 @@ import eksport as E
 
 H = E.modul("harvest", E.L / "harvest" / "harvest.py")
 XML = E.L / "intermediate" / "corpus" / "xml"
+NAEVNT = re.compile(r"(?:lovbekendtgørelse|bekendtgørelse|lov|anordning|LBK|BEK)(?:n|en)?\s+nr\.?\s*(\d+)\s+af\s+(?:(\d{1,2})\.? ?(" + "|".join(E.X.MONTHS)
+                    + r") (\d{4})|(\d{1,2})[./-](\d{1,2})[./-](\d{4}))", re.IGNORECASE)
 TRIN = ("registry", "uden-tekst", "vejledning", "lovforslag", "praksis", "med-tekst")
 
 
@@ -103,11 +105,14 @@ def hent(minutter: float) -> dict:
 
 
 def udtraek(xml: str) -> dict:
-    """Omfang, præambel uden fodnoter, fodnoter og, fra Meta, underskriftssted og EU-retsakter (CELEX); tomme felter udelades."""
+    """Omfang, præambel uden fodnoter, fodnoter, de love og bekendtgørelser teksten nævner med nummer og dato ({"katalog-id|dato": antal})
+    og, fra Meta, underskriftssted og EU-retsakter (CELEX); tomme felter udelades."""
     led = lambda navn, x: [t for t in (re.sub(r"\s+", " ", H.text_of(m)) for m in re.findall(rf"<{navn}\b[^>]*>(.*?)</{navn}>", x, re.DOTALL)) if t]
     meta = H.meta_of(xml)
     liste = lambda v: [v] if isinstance(v, str) else v or []
-    felter = {"praeambel": E.P.praeambel(xml), "noter": led("Nota", xml),
+    naevner = collections.Counter(f"lta-{m[4] or m[7]}-{int(m[1])}|{m[4] or m[7]}-{E.X.MONTHS[m[3].lower()] if m[3] else int(m[6]):02d}-{int(m[2] or m[5]):02d}"
+                                  for m in NAEVNT.finditer(tekst(xml)))
+    felter = {"praeambel": E.P.praeambel(xml), "noter": led("Nota", xml), "naevner": dict(sorted(naevner.items())),
               "underskrevet_af": "; ".join(liste(meta.get("PlaceOfSignature"))), "eu": liste(meta.get("EuReferences"))}
     return {"n_tegn": len(tekst(xml)), "n_paragraffer": len(re.findall(r"<Paragraf\b", xml)), **{k: v for k, v in felter.items() if v}}
 
@@ -157,6 +162,9 @@ def selftest() -> None:
 </DokumentIndhold><UnderskriftGruppe><UnderskriftStedDato /><Underskriver /></UnderskriftGruppe></Dokument>"""
     u = udtraek(xml)
     assert u["praeambel"] == "I medfør af § 5, stk. 2, i lov om æbler, jf. lovbekendtgørelse nr. 7 af 1. januar 2020, fastsættes:" and u["n_paragraffer"] == 1
+    assert u["naevner"] == {"lta-2020-7|2020-01-01": 1}
+    naevnt = udtraek("<Dokument><Char>Se LBK nr. 943 af 16. oktober 2000, ændringsbekendtgørelsen nr. 1434 af 25/11/2025 og lov nr. 5 af 3. maj 2021. Jf. lov nr. 5 af 3.5.2021.</Char></Dokument>")
+    assert naevnt["naevner"] == {"lta-2000-943|2000-10-16": 1, "lta-2021-5|2021-05-03": 2, "lta-2025-1434|2025-11-25": 1}
     assert u["noter"] == ["1) Ressortansvaret er overført."] and u["underskrevet_af"] == "Æblestyrelsen" and u["eu"] == ["32010L0031"]
     assert "Æbler er frugt." in tekst(xml) and "Bekendtgørelse om æbler" not in tekst(xml) and u["n_tegn"] == len(tekst(xml))
     assert udtraek("<Dokument><Paragraf>x</Paragraf></Dokument>") == {"n_tegn": 1, "n_paragraffer": 1}

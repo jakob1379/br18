@@ -1,0 +1,118 @@
+[
+  {
+    "id": "lta-2009-1012",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 848, "aar": 2009, "bestemmelser": ["§ 63 a, stk. 7"], "citat": "lovbekendtgørelse nr. 848 af 7. september 2009"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "retsinfo-2009-10167",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2024-977",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1343, "aar": 2023, "bestemmelser": ["§ 54 a, stk. 3", "§ 58 e", "§ 64, stk. 1"], "citat": "lovbekendtgørelse nr. 1343 af 24. november 2023"},
+      {"type": "bekendtgørelse", "nr": 519, "aar": 2023, "bestemmelser": ["§ 8, stk. 1"], "citat": "bekendtgørelse nr. 519 af 16. maj 2023"}
+    ],
+    "eu": [],
+    "klage": [
+      {"afgoerelse_af": "kommunalbestyrelsen", "klageinstans": "Ankestyrelsen", "bestemmelse": "§ 24", "citat": "kan indbringes for Ankestyrelsen"}
+    ],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2026-936",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2015-146",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1185, "aar": 2010, "bestemmelser": ["§ 22, stk. 6", "§ 30, stk. 2"], "citat": "lovbekendtgørelse nr. 1185 af 14. oktober 2010"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2016-1112",
+    "hjemmel": [
+      {"type": "lov", "nr": 525, "aar": 2015, "bestemmelser": ["§ 5, stk. 1, nr. 4", "§ 34, stk. 2"], "citat": "lov nr. 525 af 29. april 2015"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "retsinfo-2018-9578",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2026-895",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 544, "aar": 2026, "bestemmelser": ["§ 2 a", "§ 20, stk. 6", "§ 24, stk. 3", "§ 26, stk. 3 og 4", "§ 27 c, stk. 8", "§ 27 d, stk. 1 og 2", "§ 28, stk. 2", "§ 47 a, stk. 1", "§ 67", "§ 68 a", "§ 71 a, stk. 6", "§ 78, stk. 6 og 7", "§ 84, stk. 9", "§ 85 a", "§ 90", "§ 92 a"], "citat": "lovbekendtgørelse nr. 544 af 16. juni 2026"},
+      {"type": "lovbekendtgørelse", "nr": 1031, "aar": 2024, "bestemmelser": ["§ 70"], "citat": "lovbekendtgørelse nr. 1031 af 6. september 2024"},
+      {"type": "lovbekendtgørelse", "nr": 271, "aar": 2023, "bestemmelser": ["§ 4, stk. 8 og 10", "§ 4 e, stk. 3", "§ 19 a, stk. 1", "§ 21, stk. 2"], "citat": "lovbekendtgørelse nr. 271 af 9. marts 2023"}
+    ],
+    "eu": [
+      {"type": "direktiv", "aar": 2019, "nr": 944, "citat": "direktiv 2019/944/EU"},
+      {"type": "direktiv", "aar": 2018, "nr": 2001, "citat": "direktiv 2018/2001/EU"},
+      {"type": "direktiv", "aar": 2023, "nr": 1791, "citat": "direktiv (EU) 2023/1791"}
+    ],
+    "klage": [
+      {"afgoerelse_af": "Energinet", "klageinstans": "Forsyningstilsynet", "bestemmelse": "§ 7", "citat": "kan påklages til Forsyningstilsynet"},
+      {"afgoerelse_af": "Energinet", "klageinstans": "Forsyningstilsynet", "bestemmelse": "§ 9", "citat": "kan indbringes for Forsyningstilsynet"},
+      {"afgoerelse_af": "Energistyrelsen", "klageinstans": "Energiklagenævnet", "bestemmelse": "§ 63", "citat": "kan påklages til Energiklagenævnet"}
+    ],
+    "tilsyn": [
+      {"myndighed": "Forsyningstilsynet", "bestemmelse": "§ 8", "citat": "Forsyningstilsynet fører tilsyn med"},
+      {"myndighed": "Forsyningstilsynet", "bestemmelse": "§ 9", "citat": "Forsyningstilsynet fører tilsyn med"},
+      {"myndighed": "Forsyningstilsynet", "bestemmelse": "§ 11", "citat": "Forsyningstilsynet overvåger, at kriterierne for driftssikkerhed overholdes"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2024-496",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 48, "aar": 2024, "bestemmelser": ["§ 44, stk. 1", "§ 45 c, stk. 1", "§ 46 a, stk. 2", "§ 67", "§ 79 b, stk. 1", "§ 88, stk. 1", "§ 92", "§ 110, stk. 3"], "citat": "lovbekendtgørelse nr. 48 af 12. januar 2024"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [
+      {"myndighed": "kommunalbestyrelsen", "bestemmelse": "§ 38", "citat": "Kommunalbestyrelsen fører tilsyn med"},
+      {"myndighed": "Miljøstyrelsen", "bestemmelse": "§ 38", "citat": "fører Miljøstyrelsen tilsyn med overholdelsen af disse afgørelser"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2022-710",
+    "hjemmel": [
+      {"type": "lov", "nr": 114, "aar": 2020, "bestemmelser": ["§ 2", "§ 4, stk. 2", "§ 6, stk. 1 og 2", "§ 9, stk. 4", "§ 11"], "citat": "lov nr. 114 af 6. februar 2020"},
+      {"type": "lov", "nr": 19, "aar": 2017, "bestemmelser": ["§ 2", "§ 4, stk. 2", "§ 6, stk. 1 og 2", "§ 9, stk. 4", "§ 11"], "citat": "lov nr. 19 af 4. januar 2017"},
+      {"type": "bekendtgørelse", "nr": 331, "aar": 2021, "bestemmelser": ["§ 7", "§ 8"], "citat": "bekendtgørelse nr. 331 af 22. februar 2021"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "id": "lta-2016-1481",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 278, "aar": 2013, "bestemmelser": ["§ 3, stk. 1, nr. 3"], "citat": "lovbekendtgørelse nr. 278 af 14. marts 2013"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "retsinfo-2007-10238",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": [
+      {"type": "bekendtgørelse", "nr": 100, "aar": 2007, "citat": "Bekendtgørelse nr. 100 af 31. januar 2007"},
+      {"type": "bekendtgørelse", "nr": 289, "aar": 2001, "citat": "Bekendtgørelse nr. 289 af 24. april 2001"},
+      {"type": "bekendtgørelse", "nr": 414, "aar": 1988, "citat": "Bekendtgørelse nr. 414 af 8. juli 1988"},
+      {"type": "bekendtgørelse", "nr": 743, "aar": 1999, "citat": "Bekendtgørelse nr. 743 af 23. september 1999"},
+      {"type": "bekendtgørelse", "nr": 565, "aar": 1994, "citat": "Bekendtgørelse nr. 565 af 24. juni 1994"},
+      {"type": "bekendtgørelse", "nr": 99, "aar": 2007, "citat": "Bekendtgørelse nr. 99 af 31. januar 2007"}
+    ]
+  },
+  {
+    "id": "lta-2023-519",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1877, "aar": 2021, "bestemmelser": ["§ 184 a"], "citat": "lovbekendtgørelse nr. 1877 af 27. september 2021"},
+      {"type": "lovbekendtgørelse", "nr": 1162, "aar": 2017, "bestemmelser": ["§ 99 c"], "citat": "lovbekendtgørelse nr. 1162 af 26. oktober 2017"},
+      {"type": "lovbekendtgørelse", "nr": 903, "aar": 2011, "bestemmelser": ["§ 90"], "citat": "lovbekendtgørelse nr. 903 af 18. august 2011"},
+      {"type": "lovbekendtgørelse", "nr": 666, "aar": 2010, "bestemmelser": ["§ 31"], "citat": "lovbekendtgørelse nr. 666 af 17. juni 2010"},
+      {"type": "lov", "nr": 1089, "aar": 2002, "bestemmelser": ["§ 25, stk. 1"], "citat": "lov nr. 1089 af 17. december 2002"},
+      {"type": "lov", "nr": 342, "aar": 2022, "bestemmelser": ["§ 101"], "citat": "lov nr. 342 af 22. marts 2022"},
+      {"type": "lovbekendtgørelse", "nr": 794, "aar": 2021, "bestemmelser": ["§ 101"], "citat": "lovbekendtgørelse nr. 794 af 27. april 2021"},
+      {"type": "lovbekendtgørelse", "nr": 928, "aar": 2019, "bestemmelser": ["§ 108 a"], "citat": "lovbekendtgørelse nr. 928 af 4. september 2019"},
+      {"type": "lovbekendtgørelse", "nr": 1281, "aar": 2020, "bestemmelser": ["§ 18"], "citat": "lovbekendtgørelse nr. 1281 af 28. august 2020"},
+      {"type": "lovbekendtgørelse", "nr": 1178, "aar": 2016, "bestemmelser": ["§ 31 D"], "citat": "lovbekendtgørelse nr. 1178 af 23. september 2016"}
+    ],
+    "eu": [],
+    "klage": [
+      {"afgoerelse_af": "Social- og Boligstyrelsen", "klageinstans": "social- og boligministeren", "bestemmelse": "§ 15", "citat": "påklages til social- og boligministeren"}
+    ],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2013-1179",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1712, "aar": 2010, "bestemmelser": ["§ 2, stk. 1", "§ 5, stk. 1", "§ 8", "§ 8 a"], "citat": "lovbekendtgørelse nr. 1712 af 16. december 2010"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "retsinfo-2013-9188",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": [
+      {"type": "bekendtgørelse", "nr": 118, "aar": 2013, "citat": "bekendtgørelse nr. 118 af 6. februar 2013"}
+    ]
+  },
+  {
+    "id": "lta-2025-1703",
+    "hjemmel": [
+      {"type": "lov", "nr": 61, "aar": 2018, "bestemmelser": ["§ 5, stk. 1, nr. 3, og stk. 2 og 3", "§ 7, stk. 3", "§ 8, stk. 2", "§ 26, stk. 1 og 2", "§ 27", "§ 28", "§ 31, stk. 2"], "citat": "lov nr. 61 af 30. januar 2018"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2025-824",
+    "hjemmel": [
+      {"type": "lov", "nr": 468, "aar": 2025, "bestemmelser": ["§ 2, stk. 6", "§ 3, stk. 2", "§ 6, stk. 6", "§ 12, stk. 1"], "citat": "lov nr. 468 af 14. maj 2025"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2016-1672",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1189, "aar": 2016, "bestemmelser": ["§ 7, stk. 1, nr. 3 og 8", "§ 7 a, stk. 1", "§ 16", "§ 19, stk. 5", "§ 27, stk. 3", "§ 44, stk. 1", "§ 46 a, stk. 2", "§ 67", "§ 80, stk. 1 og 2", "§ 92", "§ 110, stk. 3"], "citat": "lovbekendtgørelse nr. 1189 af 27. september 2016"},
+      {"type": "lovbekendtgørelse", "nr": 1190, "aar": 2016, "bestemmelser": ["§ 50, stk. 3", "§ 51", "§ 88, stk. 3"], "citat": "lovbekendtgørelse nr. 1190 af 27. september 2016"}
+    ],
+    "eu": [],
+    "klage": [
+      {"afgoerelse_af": "kommunalbestyrelsen", "klageinstans": "Natur- og Miljøklagenævnet", "bestemmelse": "§ 19", "citat": "kan påklages til Natur- og Miljøklagenævnet"}
+    ],
+    "tilsyn": [
+      {"myndighed": "kommunalbestyrelsen", "bestemmelse": "§ 18", "citat": "Kommunalbestyrelsen fører tilsyn med"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2024-1072",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 572, "aar": 2024, "bestemmelser": ["§ 3, stk. 1 og 2"], "citat": "lovbekendtgørelse nr. 572 af 29. maj 2024"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  }
+]

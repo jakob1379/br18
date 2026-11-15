@@ -1,0 +1,93 @@
+[
+  {
+    "id": "lta-2021-1978",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 674, "aar": 2020, "bestemmelser": ["§ 41", "§ 41 b", "§ 74, stk. 1 og 2", "§ 84"], "citat": "lovbekendtgørelse nr. 674 af 25. maj 2020"}],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2016-403",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 1278, "aar": 2015, "bestemmelser": ["§ 143, stk. 3", "§ 142 b"], "citat": "lovbekendtgørelse nr. 1278 af 18. november 2015"}],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "retsinfo-2024-9695",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": [
+      {"type": "bekendtgørelse", "nr": 748, "aar": 2022, "citat": "bekendtgørelse nr. 748 af 30. maj 2022"},
+      {"type": "bekendtgørelse", "nr": 1642, "aar": 2023, "citat": "bekendtgørelse nr. 1642 af 7. december 2023"},
+      {"type": "bekendtgørelse", "nr": 772, "aar": 2011, "citat": "bekendtgørelse nr. 772 af 27. juni 2011"},
+      {"type": "bekendtgørelse", "nr": 340, "aar": 1993, "citat": "bekendtgørelse nr. 340 af 1. juni 1993"}
+    ]
+  },
+  {
+    "id": "lta-2024-723",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 2062, "aar": 2021, "bestemmelser": ["§ 49 f", "§ 49 g, stk. 1 og 2", "§ 49 h, stk. 1 og 2", "§ 49 j", "§ 49 k", "§ 49 m, stk. 1 og 3", "§ 49 n", "§ 49 p, stk. 1"], "citat": "lovbekendtgørelse nr. 2062 af 16. november 2021"}],
+    "eu": [{"type": "direktiv", "aar": 2006, "nr": 123, "citat": "direktiv 2006/123/EF"}],
+    "klage": [{"afgoerelse_af": "Sikkerhedsstyrelsen", "klageinstans": "Erhvervsankenævnet", "bestemmelse": "§ 29", "citat": "kan dog indbringes for Erhvervsankenævnet"}],
+    "tilsyn": [{"myndighed": "Sikkerhedsstyrelsen", "bestemmelse": "§ 28", "citat": "Sikkerhedsstyrelsen fører tilsyn med"}],
+    "henviser": []
+  },
+  {
+    "id": "lta-2018-1415",
+    "hjemmel": [
+      {"type": "lov", "nr": 401, "aar": 2014, "bestemmelser": ["§ 11, stk. 3", "§ 12, nr. 3", "§ 15, nr. 2", "§ 18, stk. 2", "§ 31", "§ 32, stk. 1 og 2"], "citat": "lov nr. 401 af 28. april 2014"},
+      {"type": "bekendtgørelse", "nr": 545, "aar": 2017, "bestemmelser": ["§ 4, nr. 8-10, 12 og 15-17"], "citat": "bekendtgørelse nr. 545 af 29. maj 2017"}
+    ],
+    "eu": [{"type": "direktiv", "aar": 2006, "nr": 123, "citat": "direktiv 2006/123/EF"}],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2023-1400",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 1248, "aar": 2023, "bestemmelser": ["§ 71, stk. 1 og stk. 4", "§ 71 b, stk. 2"], "citat": "lovbekendtgørelse nr. 1248 af 24. oktober 2023"}],
+    "eu": [],
+    "klage": [{"afgoerelse_af": "Forsyningstilsynet", "klageinstans": "Energiklagenævnet", "bestemmelse": "§ 29", "citat": "end Energiklagenævnet"}],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2015-1369",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 849, "aar": 2014, "bestemmelser": ["§ 22, stk. 3", "§ 30", "§ 45, stk. 1", "§ 59, stk. 4"], "citat": "lovbekendtgørelse nr. 849 af 24. juni 2014"}],
+    "eu": [{"type": "direktiv", "aar": 2004, "nr": 42, "citat": "direktiv 2004/42/EF"}],
+    "klage": [],
+    "tilsyn": [{"myndighed": "Miljøstyrelsen", "bestemmelse": "§ 6", "citat": "Tilsyn og kontrol med overholdelse af reglerne i denne bekendtgørelse udøves af Miljøstyrelsen"}],
+    "henviser": []
+  },
+  {
+    "id": "retsinfo-2017-9320",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": [
+      {"type": "lovbekendtgørelse", "nr": 1529, "aar": 2015, "citat": "lovbekendtgørelse nr. 1529 af 23. november 2015"},
+      {"type": "lovbekendtgørelse", "nr": 1533, "aar": 2015, "citat": "Lovbekendtgørelse nr. 1533 af 10. december 2015"},
+      {"type": "lov", "nr": 425, "aar": 2016, "citat": "Lov nr. 425 af 18. maj 2016"},
+      {"type": "bekendtgørelse", "nr": 246, "aar": 2017, "citat": "Bekendtgørelse nr. 246 af 15. marts 2017"},
+      {"type": "bekendtgørelse", "nr": 794, "aar": 2016, "citat": "Bekendtgørelse nr. 794 af 24. juni 2016"},
+      {"type": "lovbekendtgørelse", "nr": 1204, "aar": 2016, "citat": "Lovbekendtgørelse nr. 1204 af 28. september 2016"},
+      {"type": "bekendtgørelse", "nr": 1697, "aar": 2016, "citat": "Bekendtgørelse nr. 1697 af 21. december 2016"},
+      {"type": "lovbekendtgørelse", "nr": 1189, "aar": 2016, "citat": "Lovbekendtgørelse nr. 1189 af 27. september 2016"},
+      {"type": "bekendtgørelse", "nr": 1312, "aar": 2012, "citat": "Bekendtgørelse nr. 1312 af 19. december 2012"},
+      {"type": "bekendtgørelse", "nr": 130, "aar": 2014, "citat": "Bekendtgørelse nr. 130 af 6. februar 2014"}
+    ]
+  },
+  {
+    "id": "lta-2025-508",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 572, "aar": 2024, "bestemmelser": ["§ 31 a", "§ 52, stk. 3", "§ 54 b, stk. 4–8"], "citat": "lovbekendtgørelse nr. 572 af 29. maj 2024"}],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  }
+]

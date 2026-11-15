@@ -1,0 +1,91 @@
+[
+  {
+    "id": "lta-2026-295",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 1108, "aar": 2025, "bestemmelser": ["§ 82 a, stk. 1"], "citat": "lovbekendtgørelse nr. 1108 af 15. september 2025"}],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2022-1129",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 794, "aar": 2021, "bestemmelser": ["§ 7, stk. 3", "§ 100"], "citat": "lovbekendtgørelse nr. 794 af 27. april 2021"}],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2014-642",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 72, "aar": 2014, "bestemmelser": ["§ 1, stk. 2", "§ 3, stk. 1, nr. 1, 6 og 8", "§ 32, stk. 8"], "citat": "lovbekendtgørelse nr. 72 af 17. januar 2014"}],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2016-1007",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1185, "aar": 2010, "bestemmelser": ["§ 28, stk. 2", "§ 30, stk. 2", "§ 31, stk. 1", "§ 31 A, stk. 1"], "citat": "lovbekendtgørelse nr. 1185 af 14. oktober 2010"},
+      {"type": "lovbekendtgørelse", "nr": 433, "aar": 2014, "bestemmelser": ["§ 1, stk. 3"], "citat": "lovbekendtgørelse nr. 433 af 22. april 2014"},
+      {"type": "lov", "nr": 606, "aar": 2013, "bestemmelser": ["§ 5, stk. 3"], "citat": "lov nr. 606 af 12. juni 2013"}
+    ],
+    "eu": [],
+    "klage": [{"afgoerelse_af": "godkendelsessekretariatet", "klageinstans": "Trafik- og Byggestyrelsen", "bestemmelse": "§ 20", "citat": "kan påklages til Trafik- og Byggestyrelsen"}],
+    "tilsyn": [{"myndighed": "Trafik- og Byggestyrelsen", "bestemmelse": "§ 18", "citat": "Trafik- og Byggestyrelsen fører tilsyn med"}],
+    "henviser": []
+  },
+  {
+    "id": "lta-2019-1119",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 26, "aar": 2019, "bestemmelser": ["§ 5, stk. 1, nr. 2", "§ 5, stk. 2", "§ 34, stk. 2"], "citat": "lovbekendtgørelse nr. 26 af 10. januar 2019"},
+      {"type": "bekendtgørelse", "nr": 545, "aar": 2017, "bestemmelser": ["§ 5, nr. 1, 2 og 12"], "citat": "bekendtgørelse nr. 545 af 29. maj 2017"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2024-1269",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1031, "aar": 2024, "bestemmelser": ["§ 22 a, stk. 2"], "citat": "lovbekendtgørelse 1031 af 6. september 2024"},
+      {"type": "bekendtgørelse", "nr": 910, "aar": 2024, "bestemmelser": ["§ 3, stk. 1, nr. 4"], "citat": "bekendtgørelse nr. 910 af 26. juni 2024"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2016-1175",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 1317, "aar": 2015, "bestemmelser": ["§ 7, stk. 1, nr. 1, 2 og 6", "§ 7 a, stk. 1", "§ 80, stk. 1 og 2", "§ 92", "§ 110, stk. 3"], "citat": "lovbekendtgørelse nr. 1317 af 19. november 2015"}],
+    "eu": [
+      {"type": "direktiv", "aar": 2009, "nr": 126, "citat": "direktiv 2009/126/EF"},
+      {"type": "direktiv", "aar": 2014, "nr": 99, "citat": "direktiv 2014/99 EU"}
+    ],
+    "klage": [],
+    "tilsyn": [{"myndighed": "kommunalbestyrelsen", "bestemmelse": "§ 13", "citat": "Kommunalbestyrelsen fører tilsyn med"}],
+    "henviser": []
+  },
+  {
+    "id": "retsinfo-2022-10428",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2025-948",
+    "hjemmel": [
+      {"type": "lov", "nr": 407, "aar": 2023, "bestemmelser": ["§ 2, stk. 1-4", "§ 3", "§ 4", "§ 13", "§ 19, stk. 1 og 2", "§ 21, stk. 2", "§ 24, stk. 4"], "citat": "lov nr. 407 af 25. april 2023"},
+      {"type": "lovbekendtgørelse", "nr": 433, "aar": 2014, "bestemmelser": ["§ 1, stk. 3"], "citat": "lovbekendtgørelse nr. 433 af 22. april 2014"},
+      {"type": "lovbekendtgørelse", "nr": 145, "aar": 2020, "bestemmelser": ["§ 5, stk. 3"], "citat": "lovbekendtgørelse nr. 145 af 24. februar 2020"}
+    ],
+    "eu": [],
+    "klage": [{"afgoerelse_af": "bestyrelsen for den lokale aktionsgruppe", "klageinstans": "Plan- og Landdistriktsstyrelsen", "bestemmelse": "§ 75", "citat": "kan påklages til Plan- og Landdistriktsstyrelsen"}],
+    "tilsyn": [],
+    "henviser": []
+  }
+]

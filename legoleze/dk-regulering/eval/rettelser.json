@@ -1,0 +1,48 @@
+{
+ "lta-2023-1693": {
+  "eu": [
+   {
+    "type": "direktiv",
+    "aar": 2005,
+    "nr": 36,
+    "citat": "direktiv 2005/36/EF"
+   }
+  ],
+  "begrundelse": "Direktiv 2013/55/EU står i fodnoten efter \"som ændret ved\" og har titlen \"om ændring af direktiv 2005/36/EF\"; det er en ændringsretsakt, som instruksen udelader."
+ },
+ "retsinfo-2012-10149": {
+  "fjern": {
+   "henviser": [
+    "lta-2009-879"
+   ]
+  },
+  "begrundelse": "Vejledningen skriver \"Lovbekendtgørelse nr. 879 af 26. juni 2009\", men nr. 879 fra 2009 er en bekendtgørelse af 9. september 2009 om lodstakster. Vejledningens årstal er forkert, så henvisningen kan ikke knyttes til et dokument."
+ },
+ "lta-2014-642": {
+  "hjemmel": [
+   {
+    "type": "lovbekendtgørelse",
+    "nr": 72,
+    "aar": 2014,
+    "bestemmelser": [
+     "§ 1, stk. 2",
+     "§ 3, stk. 1, nr. 1, 6 og 8",
+     "§ 32, stk. 8"
+    ],
+    "citat": "lovbekendtgørelse nr. 72 af 17. januar 2014"
+   },
+   {
+    "type": "anordning",
+    "nr": 71,
+    "aar": 2013,
+    "bestemmelser": [
+     "§ 1, stk. 2",
+     "§ 3, stk. 1, nr. 1, 6 og 8",
+     "§ 32, stk. 8"
+    ],
+    "citat": "anordning nr. 71 af 29. januar 2013"
+   }
+  ],
+  "begrundelse": "Indledningen nævner de samme paragraffer to gange: i loven og i loven \"som sat i kraft for Grønland ved anordning nr. 71 af 29. januar 2013\". Anordningen er hjemmel for den grønlandske del og manglede i annotatorens svar."
+ }
+}

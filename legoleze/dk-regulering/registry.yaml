@@ -4,7 +4,7 @@ meta:
   titel: 'Kortlægning af dansk regulering: byggeri, bolig, plan, energi, miljø, arbejdsmiljø, brand, el/gas/VVS – plus katalog over hele Lovtidende
     A'
   dato: '2026-10-28'
-  opdateret: '2026-11-13 (fase 7: instanslag uden for de otte domæner, flettet med pipeline/populate.py)'
+  opdateret: '2026-11-15 (fase 7: instanslag uden for de otte domæner, flettet med pipeline/populate.py)'
   formaal: Kortlægning (ikke indhentning) af myndigheder, retsakter, klage-/tilsynsveje, EU-retsakter og dokumentkilder til et krydsrefereret
     RAG-korpus (udvidelse af jakob1379/br18), så søgning kan følge hjemmelskæder lov → bekendtgørelse → vejledning → praksis.
   scope:
@@ -53,8 +53,12 @@ meta:
     kanter: 'Samme kanttyper og påstandsstruktur som registry''et: henviser_til (lov/dokument/EU-retsakt nævnt i teksten; mål = citeret version
       ved nr.+dato, ellers versionen der gjaldt ved udstedelsen, med gaeldende_version ved siden af; for afgørelser, udtalelser, domme og kommentarer
       uden for Lovtidende A er det den lovgivning, Retsinformations hjemmelsfelt fører dokumentet under, metode retsinformation-eksport; fra et
-      lovforslags dokumenter i Folketingstidende til den lov, lovforslaget blev til, med beskrivelsen ''forarbejde til loven'', sandsynlig), implementerer_EU
-      (direktiv + gennemførelsesudsagn i samme bestemmelse), hjemmel_for (lov eller forskrift → forskrift, cirkulære, vejledning eller andet dokument,
+      lovforslags dokumenter i Folketingstidende til den lov, lovforslaget blev til, med beskrivelsen ''forarbejde til loven'', sandsynlig; fra
+      et hentet dokument uden tekst i bulk-høsten til hvert dokument i Lovtidende A, dets tekst nævner med nummer og den rigtige dato, metode
+      xml-tekst), implementerer_EU (for dokumenter i Lovtidende A, hvis XML er hentet: de EU-retsakter, fodnoten siger dokumentet gennemfører,
+      uden ændringsretsakter og uden retsakter, der kun står i en anden retsakts titel, metode fodnote, sandsynlig. For øvrige dokumenter: direktiv
+      og gennemførelsesudsagn i samme bestemmelse i bulk-teksten, metode tekst-samforekomst, sat til ukendt, fordi de i evalueringssættet kun
+      var rigtige, når fodnoten også nævnte retsakten), hjemmel_for (lov eller forskrift → forskrift, cirkulære, vejledning eller andet dokument,
       der ikke er en afgørelse, fra Retsinformations hjemmelsfelt; loven er den version, Retsinformation fører dokumentet under, med gaeldende_version
       ved siden af; for 53.592 af de 88.181 kanter er den udstedt senere end dokumentet selv og er altså ikke den version, dokumentet citerer.
       For forskrifter, hvis XML er hentet, står de bestemmelser i loven, præamblen nævner, i from_bestemmelse, og den citerede version i citeret_version,
@@ -73,8 +77,9 @@ meta:
       peger på, og de gældende dokumenter i de otte domæner, i rækkefølgen registry, Lovtidende A uden tekst i bulk-høsten, vejledninger og cirkulærer,
       lovforslag som fremsat til udsnittets love, praksis og til sidst Lovtidende A med tekst i bulk-høsten. Felter i tekst.jsonl: id, xml (sti
       fra legoleze/), hentet, n_tegn, n_paragraffer, praeambel (indledningen uden fodnoter), noter (fodnoterne, herunder EU-noten og noter om
-      ressortoverførsler), underskrevet_af (Meta-feltet PlaceOfSignature) og eu (CELEX-numre fra Meta-feltet EuReferences). katalog/README.md
-      viser, hvor mange dokumenter der er hentet pr. samling.'
+      ressortoverførsler), naevner (de love, lovbekendtgørelser, bekendtgørelser og anordninger, teksten nævner med nummer og dato, med antal),
+      underskrevet_af (Meta-feltet PlaceOfSignature) og eu (CELEX-numre fra Meta-feltet EuReferences). katalog/README.md viser, hvor mange dokumenter
+      der er hentet pr. samling.'
   metode:
   - 'Fase 1: To uafhængige agenter kortlagde regering, ministerier og område → myndighed pr. 2026-10-28. En tredje afstemte dem til en baseline
     med kanoniske id''er.'
@@ -112,6 +117,11 @@ meta:
     kø som de øvrige opslag (10,5 sekunder mellem kald, kun kl. 03:00-23:45) og skriver katalog/tekst.jsonl. eksport.py katalog læser præamblerne
     derfra: bestemmelserne i ''I medfør af § … i lov …, jf. lovbekendtgørelse nr. … af …'' lægges på den hjemmel_for-kant fra Retsinformations
     hjemmelsfelt, der gælder samme lov (samme lovfamilie), og en lov, der kun nævnes i præamblen, får sin egen kant.'
+  - 'Evaluering (fra 2026-11-15): pipeline/corpus/eval.py trækker et tilfældigt udtag af gældende forskrifter og vejledninger, lader annotatorer
+    læse dokumenternes egen tekst og måler katalogets hjemmel_for-, implementerer_EU- og henviser_til-kanter og registry''ets klage- og tilsynsinstanser
+    mod deres svar (meta.evaluering). Målingen førte til tre nye udtræk fra tekstlaget: implementerer_EU fra fodnoterne, henviser_til fra teksten
+    i hentede dokumenter uden bulk-tekst, og to rettelser i læsningen af præamblen (en bemyndigelse efter en ændringsrække; ''stk'' uden punktum).
+    Et instansnavn, der også er et tidligere navn på en anden instans, slås nu op som instansens eget.'
   - 'Fase 7 (fra 2026-11-11): Instanslag uden for de otte domæner. Én research-agent pr. retsområde leverer noder og kanter med kilde-URL og ordret
     citat for hver påstand (pipeline/populate-brief.md). pipeline/populate.py henter selv hver kilde og leder efter citatet, læser nummer, dato,
     titel og status for love og bekendtgørelser direkte i Retsinformations metadata, og en uafhængig kontrollant bedømmer, om citatet bærer påstanden.
@@ -190,6 +200,14 @@ meta:
     standarder: std-<slug>
     branchevejledninger: bv-<slug>
     kommunalt: kommune-alle, region-alle (aggregerede)
+  evaluering: 'dk-regulering/eval/ er et evalueringssæt for katalogets kæder (pipeline/corpus/eval.py). 189 gældende danske dokumenter med hentet
+    tekst er trukket tilfældigt pr. domæne i to runder (118 og 71: hovedbekendtgørelser med og uden registry-node og vejledninger). En annotator
+    (Haiku) har læst hvert dokuments indledning, fodnoter og bestemmelser om klage og tilsyn uden at se katalog eller registry og skrevet hjemmel
+    med bestemmelser, gennemførte EU-retsakter, klageinstans, tilsynsmyndighed og, for vejledninger, de retsakter teksten nævner (instruks.md).
+    Hvert led har et ordret citat, som er kontrolleret maskinelt mod teksten; facit.jsonl har leddene, rettelser.json de tre dokumenter, hvor
+    facit er rettet efter gennemsyn, og README.md målingen. Runde 1 er brugt til at finde og rette fejl i udtrækkene; runde 2 er trukket bagefter,
+    og dens første måling står i kontrol-2.json. Annotatoren er en sprogmodel, ikke en jurist, og udtaget dækker kun dokumenter fra 2010 og frem
+    i de otte domæner.'
 regering:
   navn: Regeringen Mette Frederiksen III
   dannet: '2026-06-03'
@@ -108862,19 +108880,24 @@ huller:
   - datakilder-standarder
   oprindelige_emner:
   - Dokumenter udstedt efter 2026-02-12 mangler i katalog-laget
-- emne: hjemmel_for i kataloget er Retsinformations kobling på dokumentniveau; præambel og EU-noter er kun læst for tekstlagets udsnit
+- emne: hjemmel_for i kataloget er Retsinformations kobling på dokumentniveau; præambel, EU-noter og henvisninger er kun læst for tekstlagets
+    udsnit
   type: uklart
-  beskrivelse: Seed-filerne har kun paragraftekst, ikke præamblen ("I medfør af § … i lov om …"), underskrift eller EU-noten. hjemmel_for-kanterne
-    i kataloget kommer derfor fra Retsinformations søgeeksport (feltet HjemmelVedroerer, det samme som 'Lovgivning forskriften vedrører' på dokumentets
-    side), ikke fra en læsning af præamblen. Feltet peger på den version af loven, Retsinformation fører forskriften under (for 53.592 af 88.181
-    kanter udstedt senere end forskriften selv, så det er ikke den version, forskriften citerer), kan også nævne ændringslove og andre forskrifter
-    og har ingen paragraf. 6.166 af 6.502 gældende danske forskrifter (95 %) har mindst én hjemmel_for-kant, heraf 299 kun til dokumenter uden
-    for Lovtidende A (297 af dem tekstanmærkninger til finansloven); resten har et tomt felt eller peger på dokumenter uden for kataloget. implementerer_EU
-    findes stadig kun, hvor bulk-teksten nævner direktivet, eller hvor Retsinformation fører relationen for en registry-node. Til sammenligning
-    ramte den mest nævnte lov i teksten kun hjemmelsloven i 34 af 113 kendte tilfælde og er ikke brugt. Fra 2026-11-13 hentes XML for tekstlagets
-    udsnit (pipeline/corpus/tekst.py), og for de forskrifter står præamblens bestemmelser på kanten (from_bestemmelse, citeret_version). EU-noten
-    og Meta-feltet EuReferences ligger i katalog/tekst.jsonl, men er ikke omsat til implementerer_EU-kanter. Uden for udsnittet er præamblen ikke
-    læst.
+  beskrivelse: 'Seed-filerne har kun paragraftekst, ikke præamblen ("I medfør af § … i lov om …"), underskrift eller EU-noten. hjemmel_for-kanterne
+    i kataloget kommer derfor fra Retsinformations søgeeksport (feltet HjemmelVedroerer, det samme som ''Lovgivning forskriften vedrører'' på
+    dokumentets side), ikke fra en læsning af præamblen. Feltet peger på den version af loven, Retsinformation fører forskriften under (for 53.592
+    af 88.181 kanter udstedt senere end forskriften selv, så det er ikke den version, forskriften citerer), kan også nævne ændringslove og andre
+    forskrifter og har ingen paragraf. 6.166 af 6.502 gældende danske forskrifter (95 %) har mindst én hjemmel_for-kant, heraf 299 kun til dokumenter
+    uden for Lovtidende A (297 af dem tekstanmærkninger til finansloven); resten har et tomt felt eller peger på dokumenter uden for kataloget.
+    implementerer_EU findes stadig kun, hvor bulk-teksten nævner direktivet, eller hvor Retsinformation fører relationen for en registry-node.
+    Til sammenligning ramte den mest nævnte lov i teksten kun hjemmelsloven i 34 af 113 kendte tilfælde og er ikke brugt. Fra 2026-11-13 hentes
+    XML for tekstlagets udsnit (pipeline/corpus/tekst.py), og for de forskrifter står præamblens bestemmelser på kanten (from_bestemmelse, citeret_version).
+    Fra 2026-11-15 er EU-noten omsat til implementerer_EU-kanter (metode fodnote) for udsnittets dokumenter i Lovtidende A, og de ældre kanter
+    fra bulk-teksten er fjernet for de dokumenter og sat til ukendt for resten. Meta-feltet EuReferences er ikke brugt: det fører alle EU-retsakter,
+    dokumentet nævner, også ændringsretsakter og informationsproceduren, og ramte i evalueringssættet kun de gennemførte retsakter i 56 og 84
+    % af tilfældene. Retsinformations hjemmelsfelt har fejl: lov om formidling af fast ejendom (LBK nr. 510 af 2021) står som hjemmel for to bekendtgørelser
+    i evalueringssættet (BEK nr. 477 af 2011 og BEK nr. 1292 af 2007), hvis præambler nævner lov om almene boliger og byggeloven. Uden for udsnittet
+    er præamblen ikke læst.'
   noder:
   - kilde-danish-law-mcp
   - kilde-retsinformation
@@ -110789,3 +110812,23 @@ huller:
   domaener: *id080
   oprindelige_emner:
   - Planhabitatbekendtgørelsen (BEK nr. 1383 af 26/11/2016) er ikke en node
+- emne: 'Lovfamilier kobles på titel: en ældre version af en lov kobles ikke altid til den gældende'
+  type: andet
+  beskrivelse: 'Kataloget samler en lovs versioner på titlen. Når titlen er ændret eller skrevet anderledes, står den ældre version uden gaeldende_version.
+    I evalueringssættet (dk-regulering/eval/) gælder det lov om sommerhuse og campering m.v. (LBK nr. 949 af 03/07/2013), som i dag er lov om
+    udlejning af fast ejendom til ferie- og fritidsformål m.v. og campering m.v. (LBK nr. 400 af 2024), og byggeloven i LBK nr. 452 af 24/06/1998
+    over for LBK nr. 1178 af 23/09/2016. Følgen er to kanter til samme lov, én til den citerede version fra præamblen og én til den gældende fra
+    Retsinformations felt, uden kobling imellem; de står for 3 af de 5 hjemmel_for-kanter, målingen tæller som forkerte, og for vejledningernes
+    kanter til gældende lovversioner, som facit kun kender i den citerede version. Retsinformations tidslinje pr. lov (brugt af populate.py ajour
+    for registry''ets noder) giver versionerne, men er ikke hentet for kataloget: ét kald pr. lov.'
+  noder:
+  - kilde-retsinformation
+  kilder:
+  - https://www.retsinformation.dk/eli/lta/2013/949
+  - https://www.retsinformation.dk/eli/lta/2024/400
+  - https://www.retsinformation.dk/eli/lta/1998/452
+  - https://www.retsinformation.dk/eli/lta/2016/1178
+  domaener:
+  - datakilder-standarder
+  oprindelige_emner:
+  - 'Lovfamilier kobles på titel: en ældre version af en lov kobles ikke altid til den gældende'

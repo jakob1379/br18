@@ -1,0 +1,90 @@
+[
+  {
+    "id": "lta-2026-611",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 442, "aar": 2026, "bestemmelser": ["§ 78 a"], "citat": "lovbekendtgørelse nr. 442 af 24. april 2026"}],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2023-1642",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1343, "aar": 2023, "bestemmelser": ["§ 25, stk. 1 og 4", "§ 32", "§ 44, stk. 1", "§ 50", "§ 75, stk. 1", "§ 169, stk. 2", "§ 177", "§ 184"], "citat": "lovbekendtgørelse nr. 1343 af 24. november 2023"},
+      {"type": "lovbekendtgørelse", "nr": 928, "aar": 2019, "bestemmelser": ["§ 13", "§ 31", "§ 42", "§ 51"], "citat": "lovbekendtgørelse nr. 928 af 4. september 2019"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [
+      {"myndighed": "Landsbyggefonden", "bestemmelse": "§ 49", "citat": "Landsbyggefonden tilser, at strategien nævnt i stk. 2"},
+      {"myndighed": "kommunalbestyrelsen", "bestemmelse": "§ 110", "citat": "Tilsyn med boligorganisationen og den selvejende institution føres af kommunalbestyrelsen"},
+      {"myndighed": "kommunalbestyrelsen", "bestemmelse": "§ 111", "citat": "Den kommunalbestyrelse, der fører tilsyn med henholdsvis boligorganisationen og afdelingerne, påser"},
+      {"myndighed": "kommunalbestyrelsen", "bestemmelse": "§ 125", "citat": "fører kommunalbestyrelsen i den kommune, hvor boligorganisationen har hjemsted, tilsyn med administrators virksomhed"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2022-1001",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 1270, "aar": 2019, "bestemmelser": ["§ 22 a", "§ 22 b"], "citat": "lovbekendtgørelse nr. 1270 af 29. november 2019"}],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2011-772",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 103, "aar": 2011, "bestemmelser": ["§ 160"], "citat": "lovbekendtgørelse nr. 103 af 11. februar 2011"}],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2014-542",
+    "hjemmel": [{"type": "lov", "nr": 401, "aar": 2014, "bestemmelser": ["§ 10, stk. 3"], "citat": "lov nr. 401 af 28. april 2014"}],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "retsinfo-2001-9005",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": [{"type": "bekendtgørelse", "nr": 414, "aar": 1988, "citat": "bekendtgørelse nr. 414 af 8. juli 1988"}]
+  },
+  {
+    "id": "lta-2026-261",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1461, "aar": 2023, "bestemmelser": ["§ 23 x, stk. 1", "§ 23 y, stk. 3", "§ 24 e, stk. 6"], "citat": "lovbekendtgørelse nr. 1461 af 29. november 2023"},
+      {"type": "bekendtgørelse", "nr": 244, "aar": 2026, "bestemmelser": ["§ 5, stk. 1"], "citat": "bekendtgørelse nr. 244 af 3. februar 2026"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2021-2092",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 1218, "aar": 2019, "bestemmelser": ["§ 14 a"], "citat": "lovbekendtgørelse nr. 1218 af 25. november 2019"}],
+    "eu": [
+      {"type": "direktiv", "aar": 2002, "nr": 49, "citat": "direktiv 2002/49/EF"},
+      {"type": "direktiv", "aar": 2015, "nr": 996, "citat": "direktiv 2015/996/EU"},
+      {"type": "direktiv", "aar": 2020, "nr": 367, "citat": "direktiv (EU) 2020/367"},
+      {"type": "direktiv", "aar": 2021, "nr": 1226, "citat": "direktiv (EU) 2021/1226"}
+    ],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2018-275",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 50, "aar": 2018, "bestemmelser": ["§ 3, stk. 1 og 2"], "citat": "lovbekendtgørelse nr. 50 af 19. januar 2018"}],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  }
+]

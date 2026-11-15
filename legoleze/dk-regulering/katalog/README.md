@@ -6,7 +6,7 @@
 - Øvrige samlinger: **131080** dokumenter (cirkulærer, vejledninger, afgørelser m.m., se nederst)
 - Seneste udstedelsesdato i datasættet: 2026-11-11
 - Status høstet: 2026-11-12 – 2026-11-12
-- Kanter: 337849 · EU-retsakter refereret: 1778 · koblet til registry-noder: 413
+- Kanter: 345451 · EU-retsakter refereret: 1933 · koblet til registry-noder: 413
 
 ## Dokumenttyper
 
@@ -149,11 +149,11 @@
 
 | Kanttype | verificeret | sandsynlig | ukendt |
 |---|---:|---:|---:|
-| henviser_til | 95179 | 92122 | 0 |
-| hjemmel_for | 88674 | 0 | 0 |
-| implementerer_EU | 0 | 1279 | 0 |
+| henviser_til | 101597 | 92122 | 0 |
+| hjemmel_for | 88676 | 0 | 0 |
+| implementerer_EU | 0 | 1292 | 1164 |
 | ressortansvar | 19582 | 10471 | 247 |
-| udsteder | 29635 | 660 | 0 |
+| udsteder | 29640 | 660 | 0 |
 
 ## Øvrige samlinger
 
@@ -219,33 +219,33 @@ Retsinformations XML er hentet for et udsnit af kataloget med `pipeline/corpus/t
 
 | Id | CELEX | Dokumenter | heraf gældende | Gennemførelses-kanter | I registry |
 |---|---|---:|---:|---:|---|
-| `eu-reg-2004-883` | 32004R0883 | 298 | 48 | 0 |  |
+| `eu-reg-2004-883` | 32004R0883 | 298 | 48 | 1 |  |
 | `eu-reg-2004-853` | 32004R0853 | 183 | 20 | 0 |  |
 | `eu-reg-2016-429` | 32016R0429 | 160 | 37 | 0 |  |
 | `eu-reg-2013-575` | 32013R0575 | 159 | 70 | 0 |  |
-| `eu-dir-1992-43` | 31992L0043 | 151 | 44 | 14 | ja |
+| `eu-dir-1992-43` | 31992L0043 | 151 | 44 | 106 | ja |
 | `eu-reg-2014-651` | 32014R0651 | 151 | 68 | 0 |  |
 | `eu-reg-2009-987` | 32009R0987 | 140 | 23 | 0 |  |
-| `eu-dir-2005-36` | 32005L0036 | 127 | 48 | 25 | ja |
+| `eu-dir-2005-36` | 32005L0036 | 127 | 48 | 64 | ja |
 | `eu-reg-2002-178` | 32002R0178 | 108 | 19 | 0 |  |
-| `eu-dir-2009-138` | 32009L0138 | 106 | 31 | 16 |  |
+| `eu-dir-2009-138` | 32009L0138 | 106 | 31 | 18 |  |
 | `eu-reg-2009-1069` | 32009R1069 | 104 | 30 | 0 |  |
 | `eu-reg-2001-999` | 32001R0999 | 103 | 13 | 0 |  |
 | `eu-reg-2008-1272` | 32008R1272 | 100 | 22 | 0 | ja |
-| `eu-reg-2005-1698` | 32005R1698 | 99 | 27 | 0 |  |
+| `eu-reg-2005-1698` | 32005R1698 | 99 | 27 | 1 |  |
 | `eu-reg-2009-1107` | 32009R1107 | 98 | 13 | 0 |  |
 | `eu-reg-2013-1308` | 32013R1308 | 94 | 28 | 0 |  |
 | `eu-reg-1994-2100` | 31994R2100 | 92 | 6 | 0 |  |
 | `eu-dir-1979-117` | 31979L0117 | 92 | 13 | 5 |  |
-| `eu-dir-2009-65` | 32009L0065 | 91 | 19 | 45 |  |
-| `eu-dir-2003-87` | 32003L0087 | 89 | 13 | 21 | ja |
+| `eu-dir-2009-65` | 32009L0065 | 91 | 19 | 46 |  |
+| `eu-dir-2003-87` | 32003L0087 | 89 | 13 | 22 | ja |
 | `eu-dir-2004-39` | 32004L0039 | 88 | 13 | 43 |  |
 | `eu-reg-2014-808` | 32014R0808 | 88 | 29 | 0 |  |
-| `eu-dir-2013-36` | 32013L0036 | 87 | 30 | 31 |  |
+| `eu-dir-2013-36` | 32013L0036 | 87 | 30 | 32 |  |
 | `eu-reg-2013-1307` | 32013R1307 | 85 | 20 | 0 |  |
 | `eu-reg-2013-1407` | 32013R1407 | 82 | 38 | 0 |  |
 | `eu-reg-2017-625` | 32017R0625 | 82 | 18 | 0 |  |
-| `eu-dir-2014-65` | 32014L0065 | 80 | 24 | 46 |  |
+| `eu-dir-2014-65` | 32014L0065 | 80 | 24 | 48 |  |
 | `eu-reg-2004-882` | 32004R0882 | 79 | 1 | 0 |  |
 | `eu-reg-2004-852` | 32004R0852 | 75 | 4 | 0 |  |
 | `eu-reg-2013-1306` | 32013R1306 | 73 | 20 | 0 |  |

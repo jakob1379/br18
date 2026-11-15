@@ -1,0 +1,65 @@
+{
+ "hjemmel_for": {
+  "rigtige": 99,
+  "forkerte": 4,
+  "mangler": 0,
+  "praecision": 96,
+  "genfinding": 100
+ },
+ "hjemmel_for, kun Retsinformations felt": {
+  "rigtige": 83,
+  "forkerte": 3,
+  "mangler": 16,
+  "praecision": 97,
+  "genfinding": 84
+ },
+ "bestemmelser (paragrafnummer)": {
+  "rigtige": 274,
+  "forkerte": 1,
+  "mangler": 0,
+  "praecision": 100,
+  "genfinding": 100
+ },
+ "implementerer_EU": {
+  "rigtige": 27,
+  "forkerte": 3,
+  "mangler": 1,
+  "praecision": 90,
+  "genfinding": 96
+ },
+ "EU-retsakter i XML-metadata (ikke brugt til kanter)": {
+  "rigtige": 27,
+  "forkerte": 5,
+  "mangler": 1,
+  "praecision": 84,
+  "genfinding": 96
+ },
+ "tilsynsmyndighed er en node": {
+  "rigtige": 11,
+  "forkerte": 0,
+  "mangler": 1,
+  "praecision": 100,
+  "genfinding": 92
+ },
+ "klageinstans er en node": {
+  "rigtige": 15,
+  "forkerte": 0,
+  "mangler": 2,
+  "praecision": 100,
+  "genfinding": 88
+ },
+ "klagekant mellem de to noder": {
+  "rigtige": 6,
+  "forkerte": 0,
+  "mangler": 4,
+  "praecision": 100,
+  "genfinding": 60
+ },
+ "vejledning → retsakt": {
+  "rigtige": 45,
+  "forkerte": null,
+  "mangler": 0,
+  "praecision": null,
+  "genfinding": 100
+ }
+}
