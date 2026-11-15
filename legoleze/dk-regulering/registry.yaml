@@ -110861,16 +110861,18 @@ huller:
   domaener: *id080
   oprindelige_emner:
   - Planhabitatbekendtgørelsen (BEK nr. 1383 af 26/11/2016) er ikke en node
-- emne: 'Lovfamilier kobles på titel: en ældre version af en lov kobles ikke altid til den gældende'
+- emne: Lovfamilier følger Retsinformations tidslinje for gældende love; ophævede love og afløserlove kobles ikke
   type: andet
-  beskrivelse: Kataloget samler en lovs versioner på titlen. Når titlen er ændret eller skrevet anderledes, står den ældre version uden gaeldende_version.
-    I evalueringssættet (dk-regulering/eval/) gælder det lov om sommerhuse og campering m.v. (LBK nr. 949 af 03/07/2013), som i dag er lov om
-    udlejning af fast ejendom til ferie- og fritidsformål m.v. og campering m.v. (LBK nr. 400 af 2024), og byggeloven i LBK nr. 452 af 24/06/1998
-    over for LBK nr. 1178 af 23/09/2016. Følgen er to kanter til samme lov, én til den citerede version fra præamblen og én til den gældende fra
-    Retsinformations felt, uden kobling imellem; de står for 3 af de 5 hjemmel_for-kanter, målingen tæller som forkerte, og for vejledningernes
-    kanter til gældende lovversioner, som facit kun kender i den citerede version. Fra 2026-11-15 hentes Retsinformations tidslinje pr. lov (pipeline/corpus/tekst.py
-    tidslinjer, ét kald pr. lov), og love med hentet tidslinje samles efter den (familie_metode tidslinje); byggelovens versioner fra 1986 til
-    2016 er dermed én familie. Hentningen er ikke færdig, og love uden hentet tidslinje samles stadig på titlen.
+  beskrivelse: 'Indtil 2026-11-15 samlede kataloget en lovs versioner på titlen, så en omdøbt lov stod uden kobling til den gældende version (byggeloven
+    hed ''byggelov'' til 2010; lov om sommerhuse og campering m.v. hedder i dag lov om udlejning af fast ejendom til ferie- og fritidsformål m.v.
+    og campering m.v.). Nu er Retsinformations tidslinje hentet for alle love med en gældende version (pipeline/corpus/tekst.py tidslinjer, 1.408
+    kald), og 4.435 love og lovbekendtgørelser er samlet efter den (familie_metode tidslinje); 3.837 historiske versioner peger på en gældende
+    lov mod 3.338 før. I evalueringssættet faldt de forkerte hjemmel_for-kanter fra 2 til 1 i runde 1 og fra 3 til 1 i runde 2; de tilbageværende
+    er fejl i Retsinformations hjemmelsfelt. To ting er ikke løst. De 3.125 historiske love og lovbekendtgørelser, hvis lov ikke har nogen gældende
+    version, er ikke hentet og er stadig samlet på titlen. Og en lov, der er afløst af en ny hovedlov, har sin egen tidslinje: lov om indretning
+    m.v. af visse produkter (lov nr. 155 af 20/02/2013) er afløst af lov om produkter og markedsovervågning, og Retsinformation fører bekendtgørelsen
+    om personlige værnemidler (BEK nr. 210 af 2018) under den nye lov, mens præamblen citerer den gamle; kataloget har ingen kant mellem de to
+    love. 126 gældende love er uden tidslinje, de fleste fordi kataloget ikke har Retsinformations dokument-id for dem.'
   noder:
   - kilde-retsinformation
   kilder:
@@ -110878,6 +110880,9 @@ huller:
   - https://www.retsinformation.dk/eli/lta/2024/400
   - https://www.retsinformation.dk/eli/lta/1998/452
   - https://www.retsinformation.dk/eli/lta/2016/1178
+  - https://www.retsinformation.dk/eli/lta/2013/155
+  - https://www.retsinformation.dk/eli/lta/2026/22
+  - https://www.retsinformation.dk/eli/lta/2018/210
   domaener:
   - datakilder-standarder
   oprindelige_emner:

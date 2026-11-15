@@ -76,7 +76,7 @@ Forbehold:
 
 Hentet fra 2026-11-15 med `pipeline/corpus/tekst.py tidslinjer`: Retsinformations tidslinje for en lov (`api/document/<UniqueDocumentId>/timeline`), ét kald pr. lov gennem samme kø som de øvrige opslag. Tidslinjen er den samme for alle versioner af en lov, så en version, der står i en hentet tidslinje, hentes ikke selv. Hver linje har `id` (det dokument, kaldet blev gjort for), `status`, `hentet` og `tidslinje` med fem af Retsinformations felter pr. dokument: `href`, `documentTypeId` (10 hovedlov, 20 ændringslov, 30 lovbekendtgørelse), `isMainLaw`, `isHistoric` og `signatureDate`.
 
-`eksport.py katalog` samler lovens egne versioner (lovbekendtgørelserne og den hovedlov, der har `isMainLaw`) til én familie og sætter `gaeldende_version` efter den, med `familie_metode: tidslinje` på katalogposten. Love uden hentet tidslinje samles som før på titlen. Ændringslovene i tidslinjen er ikke brugt.
+`eksport.py katalog` samler lovens egne versioner (lovbekendtgørelserne og den hovedlov, der har `isMainLaw`) til én familie og sætter `gaeldende_version` efter den, med `familie_metode: tidslinje` på katalogposten. Hentet er 1.408 tidslinjer: alle love med en gældende version (4.435 love og lovbekendtgørelser). De 3.125 historiske love og lovbekendtgørelser uden gældende version er ikke hentet og samles som før på titlen. Ændringslovene i tidslinjen er ikke brugt, og en lov, der er afløst af en ny hovedlov, har sin egen tidslinje og kobles ikke til afløseren.
 
 ## Evalueringssæt (`dk-regulering/eval/`)
 

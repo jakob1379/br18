@@ -27,8 +27,8 @@ Led i facit: hjemmel 304, eu 128, klage 76, tilsyn 103, henviser 118. Frafaldet 
 
 | Mål | Rigtige | Forkerte | Mangler | Præcision | Genfinding |
 |---|---:|---:|---:|---:|---:|
-| hjemmel_for | 150 | 2 | 0 | 99 % | 100 % |
-| hjemmel_for, kun Retsinformations felt | 119 | 2 | 31 | 98 % | 79 % |
+| hjemmel_for | 150 | 1 | 0 | 99 % | 100 % |
+| hjemmel_for, kun Retsinformations felt | 120 | 1 | 30 | 99 % | 80 % |
 | bestemmelser (paragrafnummer) | 451 | 0 | 0 | 100 % | 100 % |
 | implementerer_EU | 37 | 0 | 0 | 100 % | 100 % |
 | EU-retsakter i XML-metadata (ikke brugt til kanter) | 36 | 28 | 1 | 56 % | 97 % |
@@ -37,15 +37,15 @@ Led i facit: hjemmel 304, eu 128, klage 76, tilsyn 103, henviser 118. Frafaldet 
 | tilsynsmyndighed pr. forskrift | 16 | 0 | 7 | 100 % | 70 % |
 | tilsynsmyndighed er en node | 29 | 0 | 4 | 100 % | 88 % |
 | klageinstans er en node | 22 | 0 | 2 | 100 % | 92 % |
-| klagekant mellem de to noder | 11 | 0 | 5 | 100 % | 69 % |
-| vejledning → retsakt | 80 | – | 0 | – | 100 % |
+| klagekant mellem de to noder | 13 | 0 | 3 | 100 % | 81 % |
+| vejledning → retsakt | 81 | – | 0 | – | 100 % |
 
 ### Runde 2 (kontrol, nuværende stand)
 
 | Mål | Rigtige | Forkerte | Mangler | Præcision | Genfinding |
 |---|---:|---:|---:|---:|---:|
-| hjemmel_for | 100 | 3 | 0 | 97 % | 100 % |
-| hjemmel_for, kun Retsinformations felt | 83 | 3 | 17 | 97 % | 83 % |
+| hjemmel_for | 100 | 1 | 0 | 99 % | 100 % |
+| hjemmel_for, kun Retsinformations felt | 85 | 1 | 15 | 99 % | 85 % |
 | bestemmelser (paragrafnummer) | 278 | 0 | 0 | 100 % | 100 % |
 | implementerer_EU | 28 | 0 | 0 | 100 % | 100 % |
 | EU-retsakter i XML-metadata (ikke brugt til kanter) | 27 | 5 | 1 | 84 % | 96 % |
@@ -85,7 +85,7 @@ Led i facit: hjemmel 304, eu 128, klage 76, tilsyn 103, henviser 118. Frafaldet 
 | bestemmelser (paragrafnummer) | 173 | 0 | 4 | 100 % | 98 % |
 | tilsynsmyndighed er en node | 44 | 0 | 14 | 100 % | 76 % |
 | klageinstans er en node | 32 | 0 | 3 | 100 % | 91 % |
-| klagekant mellem de to noder | 10 | 0 | 5 | 100 % | 67 % |
+| klagekant mellem de to noder | 11 | 0 | 4 | 100 % | 73 % |
 
 ### Runde 3 (kontrol, første måling før rettelser efter runden)
 
@@ -112,6 +112,6 @@ Rigtige og forkerte tæller katalogets eller registry'ets led, mangler tæller f
 - Klage og tilsyn pr. forskrift måler katalogets kanter fra dokumentets egne bestemmelser (metode `bestemmelse`). En kant tæller kun med, når mindst én af dens paragraffer blev vist for annotatoren; kanter fra paragraffer uden et af ordene i `SOEG` (fx "fører kontrol med") kan facit ikke indeholde. Facit-led, hvis myndighed ikke er en node, tælles under "er en node" og ikke her.
 - Læseren af klage- og tilsynsbestemmelser er rettet til efter afvigelserne i begge runder, så ingen af runderne er en uafhængig kontrol af den.
 - "Klagekant mellem de to noder" måler registry'ets kanter mellem myndigheder, ikke katalogets kanter til den enkelte forskrift.
-- En hjemmelskant til den gældende version af en omdøbt lov tæller som forkert, når kataloget ikke kobler den citerede version til den gældende (love uden hentet tidslinje kobles på titlen). Det samme gælder vejledningernes kanter, som Retsinformation fører under lovens gældende version.
+- En hjemmelskant til den gældende version af en omdøbt lov tæller som forkert, når kataloget ikke kobler den citerede version til den gældende. Fra 2026-11-15 kobles gældende loves versioner efter Retsinformations tidslinje; en lov, der er afløst af en ny hovedlov, kobles ikke til afløseren. Det samme gælder vejledningernes kanter, som Retsinformation fører under lovens gældende version.
 - Hjemmel i en tekstanmærkning til finansloven eller et aktstykke er ikke i facit og tælles ikke.
 - Udtaget er dokumenter fra 2010 og frem i de otte domæner, fordi ældre dokumenter sjældent har tekst i XML. Tallene siger ikke noget om resten af kataloget.

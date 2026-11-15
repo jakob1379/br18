@@ -6,7 +6,7 @@
 - Øvrige samlinger: **131080** dokumenter (cirkulærer, vejledninger, afgørelser m.m., se nederst)
 - Seneste udstedelsesdato i datasættet: 2026-11-11
 - Status høstet: 2026-11-12 – 2026-11-12
-- Kanter: 346220 · EU-retsakter refereret: 1933 · koblet til registry-noder: 413
+- Kanter: 346202 · EU-retsakter refereret: 1933 · koblet til registry-noder: 413
 
 ## Dokumenttyper
 
@@ -30,7 +30,7 @@
 | Ministerium | Antal | heraf sandsynlig | heraf ukendt |
 |---|---:|---:|---:|
 | Erhvervsministeriet (`min-erhverv`) | 1713 | 1603 | 110 |
-| Skatte- og Vækstministeriet (`min-skat-og-vaekst`) | 1676 | 681 | 995 |
+| Skatte- og Vækstministeriet (`min-skat-og-vaekst`) | 1673 | 678 | 995 |
 | Justitsministeriet (`min-justits`) | 1470 | 1414 | 56 |
 | Ministeriet for Natur og Dyrevelfærd (`min-natur-og-dyrevelfaerd`) | 1179 | 1029 | 150 |
 | Beskæftigelses- og Ligestillingsministeriet (`min-beskaeftigelse-og-ligestilling`) | 1032 | 77 | 955 |
@@ -52,6 +52,7 @@
 | Ministeriet for Samfundssikkerhed og Beredskab (`min-samfundssikkerhed-og-beredskab`) | 87 | 77 | 10 |
 | ingen (`ingen`) | 18 | 17 | 1 |
 | ukendt (`ukendt`) | 5 | 0 | 5 |
+| ikke klassificeret (`ikke klassificeret`) | 3 | 0 | 3 |
 
 ## Gældende dokumenter pr. retsområde
 
@@ -62,7 +63,7 @@
 | sundhed | 852 |
 | landbrug-dyr | 816 |
 | transport | 741 |
-| finansiel | 704 |
+| finansiel | 701 |
 | strafferet-politi | 636 |
 | undervisning | 556 |
 | arbejdsmarked | 523 |
@@ -99,6 +100,7 @@
 | persondata | 52 |
 | klima | 44 |
 | boern-dagtilbud | 25 |
+| ikke klassificeret | 3 |
 
 ## Udstedende ministerium (historisk navn, alle dokumenter, top 40)
 
@@ -150,10 +152,10 @@
 | Kanttype | verificeret | sandsynlig | ukendt |
 |---|---:|---:|---:|
 | henviser_til | 101597 | 92122 | 0 |
-| hjemmel_for | 88650 | 0 | 0 |
+| hjemmel_for | 88635 | 0 | 0 |
 | implementerer_EU | 0 | 1292 | 1164 |
 | klageinstans | 0 | 430 | 0 |
-| ressortansvar | 19582 | 10471 | 247 |
+| ressortansvar | 19582 | 10468 | 247 |
 | tilsyn | 0 | 365 | 0 |
 | udsteder | 29640 | 660 | 0 |
 
@@ -166,9 +168,9 @@ Dokumenter uden for Lovtidende A, direkte fra Retsinformations søgeeksport (kun
 | Lovtidende B | `retsinformation_ltb.jsonl` | 45 | 7 | 0 | 2 | 1 | 1 |
 | Lovtidende C | `retsinformation_ltc.jsonl` | 4778 | 4416 | 1 | 305 | 1 | 1 |
 | Ministerialtidende | `retsinformation_mt.jsonl` | 6421 | 1080 | 735 | 801 | 583 | 664 |
-| Retsinformation (administrative forskrifter og afgørelser) | `retsinformation_retsinfo.jsonl` | 75237 | 39868 | 30597 | 33781 | 18876 | 26891 |
+| Retsinformation (administrative forskrifter og afgørelser) | `retsinformation_retsinfo.jsonl` | 75237 | 39868 | 30597 | 33942 | 19037 | 27145 |
 | Folketingets Ombudsmand | `retsinformation_fob.jsonl` | 2869 | 2869 | 241 | 241 | 241 | 241 |
-| Folketingstidende (lovforslag, betænkninger, beslutningsforslag) | `retsinformation_ft.jsonl` | 41730 | 41730 | 17839 | 7072 | 6255 | 6308 |
+| Folketingstidende (lovforslag, betænkninger, beslutningsforslag) | `retsinformation_ft.jsonl` | 41730 | 41730 | 17839 | 7238 | 6421 | 6476 |
 
 ### Dokumenttyper i de øvrige samlinger (top 30 af 85)
 
