@@ -13,3 +13,17 @@
 ## references
 use context 7 or the @librarian of simply websearch
 - make full usage of the features in [zensical](https://zensical.org/docs/authoring/) to make a similar layout as the origin
+
+## Agent skills
+
+### Issue tracker
+
+Issues live in Linear: team `Jgalabs`, label `br18`, project `Legoleze` for legoleze work. Open issues are the list of what to do next, also after a context compaction. See `.agents/issue-tracker.md`.
+
+### Triage labels
+
+The five default triage labels, in the Linear label group `triage`. See `.agents/triage-labels.md`.
+
+### Domain docs
+
+Single-context, with ADRs in `adr/` at the repo root because `docs/` is the published site. See `.agents/domain.md`.
