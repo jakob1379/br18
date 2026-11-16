@@ -343,6 +343,18 @@ def lovversioner(tl: list[dict]) -> list[str]:
     return [nid(e["href"]) for e in tl if (e.get("documentTypeId") == 30 or e.get("isMainLaw")) and "/eli/" in (e.get("href") or "")]
 
 
+def senere_aendret(udstedt: str, tl: list[dict] | None, felt: str | None, ids: dict) -> list[str]:
+    """Katalog-id'er for de love, der har ændret dokumentet og er underskrevet efter udstedt. Med tidslinje: ændringslovene (documentTypeId 20)
+    og de andre hovedlove, der har ændret loven (10 uden isMainLaw); ikrafttrædelsesbekendtgørelser (90) og lovens egne versioner tæller ikke.
+    Uden tidslinje (bekendtgørelser): eksportens felt SenereAendringer."""
+    if tl is not None:
+        kand = [(nid(e["href"]), "-".join(reversed(e["signatureDate"].split("/")))) for e in tl
+                if (e.get("documentTypeId") == 20 or (e.get("documentTypeId") == 10 and not e.get("isMainLaw"))) and "/eli/" in (e.get("href") or "")]
+    else:
+        kand = [(i, ids[i]["datoer"].get("udstedt", "")) for i in henvist(felt, ids)]
+    return list(dict.fromkeys(i for i, u in kand if i in ids and u > udstedt))
+
+
 def familier(docs: list[dict], blev_historisk: set, kaeder: list[list[str]] = ()) -> dict:
     """Peg lovfamilier på den nyeste gældende version; returnér {gammel version: ny version} for dem, der er flyttet på titlen. En lov med
     hentet tidslinje (kaeder: versionerne pr. lov) samles efter den og får familie_metode "tidslinje": er ingen version gældende, peger de
@@ -513,7 +525,8 @@ def katalog() -> dict:
         if d["dokumentrolle"] == "ændring" and (maal := henvist(eks[d["id"]].get("ÆndrerI"), ids)):
             d["aendrer"] = maal
     familie = lambda i: ids[i].get("gaeldende_version") or ids[i].get("nyeste_version_afloeser_mangler") or i
-    ompeg = familier(docs, blev_historisk, [lovversioner(r["tidslinje"]) for r in tidslinjer()])
+    tls = [r["tidslinje"] for r in tidslinjer()]
+    ompeg = familier(docs, blev_historisk, [lovversioner(tl) for tl in tls])
     stats["lovfamilier flyttet til ny gældende version"] = len(ompeg)
     stats["love samlet efter Retsinformations tidslinje"] = sum(d.get("familie_metode") == "tidslinje" for d in docs)
 
@@ -601,6 +614,7 @@ def katalog() -> dict:
                                "kilder": d["kilder"][:1], "sikkerhed": "verificeret", "metode": XMLTEKST,
                                **({"gaeldende_version": gv} if (gv := ids[c].get("gaeldende_version")) else {})})
     klager, tilsyn = laeser(reg)
+    tidslinje_for = {i: tl for tl in tls for i in lovversioner(tl)}
     for t in hentet:
         led = collections.defaultdict(lambda: collections.defaultdict(list))
         for par, saetning in t.get("klage_tilsyn", []) if t["id"].startswith("lta-") and ids[t["id"]].get("dokumentrolle") == "hoved" else ():
@@ -609,13 +623,15 @@ def katalog() -> dict:
                 led[til, "klageinstans"]["her"].append((par, saetning))
             for myndighed in tilsyn(saetning):
                 led[myndighed, "tilsyn"]["her"].append((par, saetning))
+        senere = senere_aendret(ids[t["id"]]["datoer"].get("udstedt", ""), tidslinje_for.get(t["id"]), eks.get(t["id"], {}).get("SenereAendringer"), ids) if led else []
         kanter += [{"from": node, "type": type_, "to": t["id"], "beskrivelse": x["her"][0][1][:400], "kilder": ids[t["id"]]["kilder"][:1], "sikkerhed": "sandsynlig",
                     "metode": BESTEMMELSE, "to_bestemmelse": list(dict.fromkeys(par for par, _ in x["her"])),
-                    **({"afgoerelse_af": list(dict.fromkeys(x["afgoerelse_af"]))} if x["afgoerelse_af"] else {})}
+                    **({"afgoerelse_af": list(dict.fromkeys(x["afgoerelse_af"]))} if x["afgoerelse_af"] else {}), **({"senere_aendret_ved": senere} if senere else {})}
                    for (node, type_), x in led.items() if (node, type_, t["id"]) not in findes]
     stats["klageinstans fra dokumentets bestemmelser"] = sum(e.get("metode") == BESTEMMELSE and e["type"] == "klageinstans" for e in kanter)
     stats["heraf med afgørende myndighed"] = sum(e.get("metode") == BESTEMMELSE and "afgoerelse_af" in e for e in kanter)
     stats["tilsyn fra dokumentets bestemmelser"] = sum(e.get("metode") == BESTEMMELSE and e["type"] == "tilsyn" for e in kanter)
+    stats["heraf klage og tilsyn fra en tekst, der siden er ændret"] = sum(e.get("metode") == BESTEMMELSE and "senere_aendret_ved" in e for e in kanter)
     stats["implementerer_EU fra fodnoter"] = sum(e.get("metode") == FODNOTE for e in kanter)
     stats["henviser_til fra hentet tekst"] = sum(e.get("metode") == XMLTEKST for e in kanter)
     euindeks(kanter, ids)
@@ -726,6 +742,15 @@ def selftest() -> None:
                              ("Virksomheder under tilsyn af Æblestyrelsen skal indberette.", []), ("Den, der fører tilsyn, skal have adgang.", []), ("Æblestyrelsen kan føre kontrol og tilsyn med frugten.", ["sty-aeble"])):
         assert tilsyn(saetning) == ventet, (saetning, tilsyn(saetning))
     assert lovversioner(tl) == ["lta-1998-452", "lta-1975-323"]
+    byg = [{"href": "/eli/lta/2016/1178", "documentTypeId": 30, "signatureDate": "25/09/2016"}, {"href": "/eli/lta/2014/1", "documentTypeId": 20, "signatureDate": "01/01/2014"},
+           {"href": "/eli/lta/2018/734", "documentTypeId": 20, "signatureDate": "08/06/2018"}, {"href": "/eli/lta/2019/9", "documentTypeId": 10, "isMainLaw": False, "signatureDate": "01/03/2019"},
+           {"href": "/eli/lta/2020/5", "documentTypeId": 90, "signatureDate": "01/01/2020"}, {"href": "/eli/lta/2018/734", "documentTypeId": 20, "signatureDate": "08/06/2018"},
+           {"href": "/eli/lta/2021/7", "documentTypeId": 20, "signatureDate": "01/01/2021"}, {"href": "/eli/lta/2025/1", "documentTypeId": 30, "signatureDate": "01/01/2025"}]
+    kendt = {i: {"datoer": {"udstedt": u}} for i, u in (("lta-2014-1", "2014-01-01"), ("lta-2018-734", "2018-06-08"), ("lta-2019-9", "2019-03-01"), ("lta-2020-5", "2020-01-01"),
+                                                        ("lta-2025-1", "2025-01-01"), ("lta-2024-3", "2024-03-01"), ("lta-2010-2", "2010-01-01"))}
+    assert senere_aendret("2016-09-25", byg, None, kendt) == ["lta-2018-734", "lta-2019-9"]
+    assert senere_aendret("2025-01-01", byg, "LOV nr 3 af 01/03/2024", kendt) == []
+    assert senere_aendret("2020-01-01", None, "BEK nr 3 af 01/03/2024,BEK nr 2 af 01/01/2010", kendt) == ["lta-2024-3"] and senere_aendret("2020-01-01", None, None, kendt) == []
     omdoebt = [lov("s", "Bekendtgørelse af lov om sommerhuse", 2013, "historisk", afloeser_mangler=True), lov("u", "Bekendtgørelse af lov om udlejning", 2024, "gældende"),
                lov("g", "Bekendtgørelse af gammel lov", 1990, "historisk", gaeldende_version="u"), lov("h", "Bekendtgørelse af den gamle lov", 1995, "historisk")]
     assert familier(omdoebt, set(), [["s", "u", "findes-ikke"], ["g", "h"]]) == {}

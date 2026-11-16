@@ -159,6 +159,8 @@
 | tilsyn | 0 | 365 | 0 |
 | udsteder | 29640 | 660 | 0 |
 
+Klageinstans- og tilsynskanter fra dokumentets egne bestemmelser, hvor dokumentet siden er ændret (`senere_aendret_ved`): 260 af 795.
+
 ## Øvrige samlinger
 
 Dokumenter uden for Lovtidende A, direkte fra Retsinformations søgeeksport (kun metadata). Koblet til lovgivning: dokumentet har mindst én kant fra eksportens hjemmelsfelt, `hjemmel_for` fra loven til forskrifter og vejledninger og `henviser_til` fra afgørelser, udtalelser og domme til loven. I Folketingstidende har alle dokumenter om samme lovforslag samme nøgle i feltet `lovforslag`, og den vedtagne tekst har feltet `lov`: den lov, den blev til (samme titel, underskrevet højst 60 dage efter vedtagelsen); lovforslagets dokumenter har så en `henviser_til`-kant til loven (sandsynlig). Ministerium er Retsinformations ressortfelt, når det med sikkerhed er aktuelt, og ellers arvet fra den lovgivning, dokumentet vedrører (sandsynlig).

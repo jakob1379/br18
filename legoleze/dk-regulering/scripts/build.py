@@ -7,6 +7,7 @@ must not be edited by hand.
 
     python3 dk-regulering/scripts/build.py            # validate + write views
     python3 dk-regulering/scripts/build.py --check    # validate + fail if views are stale
+    python3 dk-regulering/scripts/build.py --selftest
 
 Requires PyYAML.
 """
@@ -259,6 +260,8 @@ def validate_katalog(reg: dict, kat: dict) -> list[str]:
         for a in e.get("afgoerelse_af") or []:
             if a not in reg_ids:
                 err(f"katalog-kant {label}: afgoerelse_af {a!r} findes ikke")
+        if "senere_aendret_ved" in e and not (isinstance(e["senere_aendret_ved"], list) and e["senere_aendret_ved"] and all(a in docs for a in e["senere_aendret_ved"])):
+            err(f"katalog-kant {label}: senere_aendret_ved skal være en ikke-tom liste af dokumenter i kataloget")
         if e.get("citeret_version") and e["citeret_version"] not in docs:
             err(f"katalog-kant {label}: citeret_version {e['citeret_version']!r} findes ikke")
     for t in kat["tekst"]:
@@ -315,6 +318,9 @@ def gen_katalog(reg: dict, kat: dict) -> str:
         ec[e["type"]][e["sikkerhed"]] += 1
     for t, c in sorted(ec.items()):
         lines.append(f"| {t} | {c['verificeret']} | {c['sandsynlig']} | {c['ukendt']} |")
+    laest = [e for e in kat["edges"] if e.get("metode") == "bestemmelse"]
+    lines += ["", (f"Klageinstans- og tilsynskanter fra dokumentets egne bestemmelser, hvor dokumentet siden er ændret (`senere_aendret_ved`): "
+                   f"{sum('senere_aendret_ved' in e for e in laest)} af {len(laest)}.")]
     koblet = {e["from"] if e["type"] == "henviser_til" else e["to"] for e in kat["edges"]
               if e.get("metode") == "retsinformation-eksport" and e["type"] in ("hjemmel_for", "henviser_til")}
     lines += ["", "## Øvrige samlinger", "",
@@ -643,10 +649,26 @@ def outputs(reg: dict, kat: dict | None = None) -> dict[Path, str]:
     return out
 
 
+def selftest() -> None:
+    reg = {"nodes": [{"id": "naevn-x", "type": "nævn"}]}
+    doc = lambda i: {"id": i, "type": "lov", "kilder": [], "status": {"vaerdi": "gældende", "sikkerhed": "sandsynlig"}}
+    kant = {"from": "naevn-x", "type": "klageinstans", "to": "lta-2016-1178", "kilder": [], "sikkerhed": "sandsynlig"}
+    kat = lambda **e: {"docs": [doc("lta-2016-1178"), doc("lta-2018-734")], "edges": [{**kant, **e}], "eu": [], "tekst": []}
+    assert validate_katalog(reg, kat()) == [] and validate_katalog(reg, kat(senere_aendret_ved=["lta-2018-734"])) == []
+    for galt in ("lta-2018-734", [], ["lta-2099-1"]):
+        fejl = validate_katalog(reg, kat(senere_aendret_ved=galt))
+        assert len(fejl) == 1 and "senere_aendret_ved" in fejl[0], (galt, fejl)
+    print("selftest ok")
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     ap.add_argument("--check", action="store_true", help="fail if generated files differ from registry.yaml")
+    ap.add_argument("--selftest", action="store_true", help="run the self-checks and exit")
     args = ap.parse_args()
+    if args.selftest:
+        selftest()
+        return 0
 
     reg = load()
     kat = load_katalog()

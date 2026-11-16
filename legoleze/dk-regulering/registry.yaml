@@ -71,7 +71,9 @@ meta:
       påklages til eller indbringes for, og den instans, der fører tilsyn eller kontrol; metode bestemmelse, sandsynlig, med paragrafferne i to_bestemmelse,
       den første sætning ordret i beskrivelse og, på klageinstans, afgoerelse_af, når sætningen navngiver den myndighed, der træffer afgørelsen.
       Kanten gengiver dokumentets tekst, som den er udstedt: en lovbekendtgørelse har ikke senere ændringslove indarbejdet, så klageinstansen
-      kan være ændret siden). Endepunkter er katalog-id''er, registry-id''er eller eu_index-id''er.'
+      kan være ændret siden. senere_aendret_ved lister da de love, der har ændret dokumentet og er underskrevet efter det: for en lov fra
+      Retsinformations tidslinje (ændringslove og andre hovedlove, der har ændret den), for en bekendtgørelse fra eksportens felt SenereAendringer;
+      uden feltet er ingen senere ændring fundet). Endepunkter er katalog-id''er, registry-id''er eller eu_index-id''er.'
     sikkerhed: verificeret = står direkte i datasættets felter eller tekst eller i Retsinformations søgeeksport (status, Lovtidende-nr., henvisning
       med nummer og dato, EU-retsakt nævnt, hjemmel, ressortfelt der med sikkerhed er aktuelt). sandsynlig = udledt (udstedende ministerium fra
       DocumentId-præfiks, titel-/navnematch, ministerium arvet fra hjemmelsloven, lovforslag koblet til loven på titel og underskriftsdato, ressort
