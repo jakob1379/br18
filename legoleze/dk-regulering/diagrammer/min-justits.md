@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 100 · kanter: 154
+Noder: 101 · kanter: 156
 
 ```mermaid
 flowchart LR
@@ -21,6 +21,7 @@ flowchart LR
     eu_dir_2012_18["Seveso III-direktivet (direktiv 2012/18/EU om kontrol med risikoen for større uheld med farlige stoffer)"]:::eu
     raad_advokatraadet["Advokatrådet"]:::instans
     sty_ankestyrelsen["Ankestyrelsen"]:::instans
+    tilsyn_bevismiddeltilsynet["Bevismiddeltilsynet (Det Uafhængige Tilsyn med Bevismidler)"]:::instans
     sty_civilstyrelsen["Civilstyrelsen"]:::instans
     sty_danmarks_faengsler["Danmarks Fængsler (Styrelsen for Danmarks Fængsler)"]:::instans
     raad_dataraadet["Datarådet"]:::instans
@@ -264,6 +265,8 @@ flowchart LR
     lov_offentlighedsloven -->|hjemmel_for| bek_lag
     lov_offentlighedsloven -->|hjemmel_for| vejl_offentlighedsloven
     lov_retsplejeloven -->|hjemmel_for| bek_advokatnaevnets_virksomhed
+    min_justits -.->|ressortansvar| tilsyn_bevismiddeltilsynet
+    lov_retsplejeloven -->|hjemmel_for| tilsyn_bevismiddeltilsynet
     bek_energimaerkning -->|implementerer_EU| eu_dir_2010_31
     bek_risiko -->|implementerer_EU| eu_dir_2012_18
     bek_energimaerkning -->|implementerer_EU| eu_dir_2005_36

@@ -1,0 +1,62 @@
+[
+ {
+  "hvor": "naevn-abortnaevnet.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "naevn-abortnaevnet.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "naevn-abortankenaevnet.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "naevn-abortankenaevnet.dokumenttyper",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "tilsyn-bevismiddeltilsynet.hjemmel",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|naevn-abortnaevnet",
+  "dom": "delvist",
+  "grund": "lovtekst nævner sundhedsministeren; viser ikke nuværende ressort"
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|naevn-abortankenaevnet",
+  "dom": "delvist",
+  "grund": "lovtekst nævner sundhedsministeren; viser ikke nuværende ressort"
+ },
+ {
+  "hvor": "kant lov-sundhedsloven|hjemmel_for|naevn-abortnaevnet",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant lov-sundhedsloven|hjemmel_for|naevn-abortankenaevnet",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant naevn-abortankenaevnet|klageinstans|naevn-abortnaevnet",
+  "dom": "baerer",
+  "grund": ""
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|tilsyn-bevismiddeltilsynet",
+  "dom": "delvist",
+  "grund": "citatet viser selvstændig myndighed, ikke ministeriet"
+ },
+ {
+  "hvor": "kant lov-retsplejeloven|hjemmel_for|tilsyn-bevismiddeltilsynet",
+  "dom": "baerer",
+  "grund": ""
+ }
+]

@@ -4,7 +4,7 @@ meta:
   titel: 'Kortlægning af dansk regulering: byggeri, bolig, plan, energi, miljø, arbejdsmiljø, brand, el/gas/VVS – plus katalog over hele Lovtidende
     A'
   dato: '2026-10-28'
-  opdateret: '2026-11-15 (fase 7: instanslag uden for de otte domæner, flettet med pipeline/populate.py)'
+  opdateret: '2026-11-16 (fase 7: instanslag uden for de otte domæner, flettet med pipeline/populate.py)'
   formaal: Kortlægning (ikke indhentning) af myndigheder, retsakter, klage-/tilsynsveje, EU-retsakter og dokumentkilder til et krydsrefereret
     RAG-korpus (udvidelse af jakob1379/br18), så søgning kan følge hjemmelskæder lov → bekendtgørelse → vejledning → praksis.
   scope:
@@ -71,9 +71,9 @@ meta:
       påklages til eller indbringes for, og den instans, der fører tilsyn eller kontrol; metode bestemmelse, sandsynlig, med paragrafferne i to_bestemmelse,
       den første sætning ordret i beskrivelse og, på klageinstans, afgoerelse_af, når sætningen navngiver den myndighed, der træffer afgørelsen.
       Kanten gengiver dokumentets tekst, som den er udstedt: en lovbekendtgørelse har ikke senere ændringslove indarbejdet, så klageinstansen
-      kan være ændret siden. senere_aendret_ved lister da de love, der har ændret dokumentet og er underskrevet efter det: for en lov fra
-      Retsinformations tidslinje (ændringslove og andre hovedlove, der har ændret den), for en bekendtgørelse fra eksportens felt SenereAendringer;
-      uden feltet er ingen senere ændring fundet). Endepunkter er katalog-id''er, registry-id''er eller eu_index-id''er.'
+      kan være ændret siden. senere_aendret_ved lister da de love, der har ændret dokumentet og er underskrevet efter det: for en lov fra Retsinformations
+      tidslinje (ændringslove og andre hovedlove, der har ændret den), for en bekendtgørelse fra eksportens felt SenereAendringer; uden feltet
+      er ingen senere ændring fundet). Endepunkter er katalog-id''er, registry-id''er eller eu_index-id''er.'
     sikkerhed: verificeret = står direkte i datasættets felter eller tekst eller i Retsinformations søgeeksport (status, Lovtidende-nr., henvisning
       med nummer og dato, EU-retsakt nævnt, hjemmel, ressortfelt der med sikkerhed er aktuelt). sandsynlig = udledt (udstedende ministerium fra
       DocumentId-præfiks, titel-/navnematch, ministerium arvet fra hjemmelsloven, lovforslag koblet til loven på titel og underskriftsdato, ressort
@@ -81862,6 +81862,140 @@ nodes:
     sikkerhed: ukendt
   krydsref_moenstre: []
   note: 'Ikke undersøgt udover forsiden: adgangsform, licens og nummersystem er ikke belagt og er derfor ikke udfyldt.'
+- id: naevn-abortnaevnet
+  navn: Abortnævnet
+  type: nævn
+  ministerium: min-sundhed-og-kirke
+  status: aktiv
+  domaener:
+  - sundhed
+  tidligere_navne: []
+  hjemmel:
+    tekst: 'Sundhedslovens § 97: sundhedsministeren opretter Abortnævnet, der træffer afgørelse om tilladelse til abort og fosterreduktion; nævnet
+      er uafhængigt af instruktioner.'
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2026/896
+    sikkerhed: verificeret
+  dokumenttyper:
+    liste:
+    - type: afgørelse
+      bindende: bindende
+      note: tilladelse til abort og fosterreduktion; kan indbringes for Abortankenævnet
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2026/896
+    sikkerhed: verificeret
+  url:
+    vaerdi: ikke fundet
+    kilder: []
+    sikkerhed: ukendt
+  adgang:
+    vaerdier:
+    - ukendt
+    kilder: []
+    sikkerhed: ukendt
+  identifikatorer:
+    kilder: []
+    sikkerhed: ukendt
+  licens:
+    tekst: ikke relevant (instans)
+    kilder: []
+    sikkerhed: sandsynlig
+  opdatering:
+    frekvens: ukendt
+    versionshistorik: ukendt
+    kilder: []
+    sikkerhed: ukendt
+  krydsref_moenstre: []
+  note: Oprettet ved lov nr. 405 af 29. april 2025 (Oprettelse af et nyt abortnævn m.v.). Styrelsen for Patientklager er sekretariat (sundhedslovens
+    § 97, stk. 2). Fundet via fortegnelsen over navne, klage- og tilsynslæseren ikke kendte (JGA-136).
+- id: naevn-abortankenaevnet
+  navn: Abortankenævnet
+  type: klagenævn
+  ministerium: min-sundhed-og-kirke
+  status: aktiv
+  domaener:
+  - sundhed
+  tidligere_navne: []
+  hjemmel:
+    tekst: 'Sundhedslovens § 98: sundhedsministeren opretter Abortankenævnet, der træffer afgørelse i sager indbragt efter § 97, stk. 3; nævnets
+      afgørelser kan ikke indbringes for anden administrativ myndighed.'
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2026/896
+    sikkerhed: verificeret
+  dokumenttyper:
+    liste:
+    - type: afgørelse
+      bindende: bindende
+      note: endelig administrativt
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2026/896
+    sikkerhed: verificeret
+  url:
+    vaerdi: ikke fundet
+    kilder: []
+    sikkerhed: ukendt
+  adgang:
+    vaerdier:
+    - ukendt
+    kilder: []
+    sikkerhed: ukendt
+  identifikatorer:
+    kilder: []
+    sikkerhed: ukendt
+  licens:
+    tekst: ikke relevant (instans)
+    kilder: []
+    sikkerhed: sandsynlig
+  opdatering:
+    frekvens: ukendt
+    versionshistorik: ukendt
+    kilder: []
+    sikkerhed: ukendt
+  krydsref_moenstre: []
+  note: Formand og næstformænd skal være dommere (sundhedslovens § 98 a). Styrelsen for Patientklager er sekretariat (§ 98, stk. 2). Fundet via
+    fortegnelsen over navne, klage- og tilsynslæseren ikke kendte (JGA-136).
+- id: tilsyn-bevismiddeltilsynet
+  navn: Bevismiddeltilsynet (Det Uafhængige Tilsyn med Bevismidler)
+  type: tilsyn
+  ministerium: min-justits
+  status: aktiv
+  domaener:
+  - strafferet-politi
+  tidligere_navne: []
+  hjemmel:
+    tekst: 'Retsplejelovens § 118 a: Bevismiddeltilsynet er en selvstændig myndighed, ledet af Politiklagerådet og en direktør, og fører tilsyn
+      med politiets og anklagemyndighedens behandling af tekniske beviser.'
+    kilder:
+    - https://www.retsinformation.dk/eli/lta/2025/1298
+    sikkerhed: verificeret
+  dokumenttyper:
+    liste: []
+    kilder: []
+    sikkerhed: ukendt
+  url:
+    vaerdi: ikke fundet
+    kilder: []
+    sikkerhed: ukendt
+  adgang:
+    vaerdier:
+    - ukendt
+    kilder: []
+    sikkerhed: ukendt
+  identifikatorer:
+    kilder: []
+    sikkerhed: ukendt
+  licens:
+    tekst: ikke relevant (instans)
+    kilder: []
+    sikkerhed: sandsynlig
+  opdatering:
+    frekvens: ukendt
+    versionshistorik: ukendt
+    kilder: []
+    sikkerhed: ukendt
+  krydsref_moenstre: []
+  note: Politiklagerådet er fælles øverste ledelse for Politiklagemyndigheden og Bevismiddeltilsynet (retsplejelovens § 118 b). Fundet via fortegnelsen
+    over navne, klage- og tilsynslæseren ikke kendte (JGA-136).
 edges:
 - type: delegation
   from: kommune-alle
@@ -104807,6 +104941,70 @@ edges:
   domaener:
   - familie-person
   - social
+- type: ressortansvar
+  from: min-sundhed-og-kirke
+  to: naevn-abortnaevnet
+  beskrivelse: Sundhedsministeren opretter nævnet og beskikker dets medlemmer (sundhedslovens §§ 97 og 97 a).
+  kilder:
+  - https://www.retsinformation.dk/eli/lta/2026/896
+  sikkerhed: sandsynlig
+  domaener:
+  - sundhed
+- type: ressortansvar
+  from: min-sundhed-og-kirke
+  to: naevn-abortankenaevnet
+  beskrivelse: Sundhedsministeren opretter nævnet og beskikker dets medlemmer (sundhedslovens §§ 98 og 98 a).
+  kilder:
+  - https://www.retsinformation.dk/eli/lta/2026/896
+  sikkerhed: sandsynlig
+  domaener:
+  - sundhed
+- type: hjemmel_for
+  from: lov-sundhedsloven
+  to: naevn-abortnaevnet
+  beskrivelse: § 97 opretter Abortnævnet.
+  kilder:
+  - https://www.retsinformation.dk/eli/lta/2026/896
+  sikkerhed: verificeret
+  domaener:
+  - sundhed
+- type: hjemmel_for
+  from: lov-sundhedsloven
+  to: naevn-abortankenaevnet
+  beskrivelse: § 98 opretter Abortankenævnet.
+  kilder:
+  - https://www.retsinformation.dk/eli/lta/2026/896
+  sikkerhed: verificeret
+  domaener:
+  - sundhed
+- type: klageinstans
+  from: naevn-abortankenaevnet
+  to: naevn-abortnaevnet
+  beskrivelse: 'Sundhedslovens § 97, stk. 3: Abortnævnets afgørelser kan indbringes for Abortankenævnet; dets afgørelser er endelige administrativt
+    (§ 98, stk. 3).'
+  kilder:
+  - https://www.retsinformation.dk/eli/lta/2026/896
+  sikkerhed: verificeret
+  domaener:
+  - sundhed
+- type: ressortansvar
+  from: min-justits
+  to: tilsyn-bevismiddeltilsynet
+  beskrivelse: Selvstændig myndighed efter retsplejelovens § 118 a; retsplejeloven hører under justitsministeren.
+  kilder:
+  - https://www.retsinformation.dk/eli/lta/2025/1298
+  sikkerhed: sandsynlig
+  domaener:
+  - strafferet-politi
+- type: hjemmel_for
+  from: lov-retsplejeloven
+  to: tilsyn-bevismiddeltilsynet
+  beskrivelse: § 118 a opretter Bevismiddeltilsynet og giver det tilsynet med tekniske beviser.
+  kilder:
+  - https://www.retsinformation.dk/eli/lta/2025/1298
+  sikkerhed: verificeret
+  domaener:
+  - strafferet-politi
 huller:
 - emne: Kommercielle branchevejledninger (SBi/BUILD, DBI, Molio) bag betalingsmur
   type: betalingsmur
@@ -110891,18 +111089,20 @@ huller:
   - 'Lovfamilier kobles på titel: en ældre version af en lov kobles ikke altid til den gældende'
 - emne: Klage- og tilsynskanter pr. forskrift er læst mekanisk af dokumentets egen tekst og kun for tekstlagets udsnit
   type: andet
-  beskrivelse: 'Kataloget har 430 klageinstans-kanter og 365 tilsyn-kanter fra instans til lov eller forskrift (metode bestemmelse, sandsynlig),
+  beskrivelse: 'Kataloget har 488 klageinstans-kanter og 431 tilsyn-kanter fra instans til lov eller forskrift (metode bestemmelse, sandsynlig),
     læst med regulære udtryk af de hentede dokumenters paragraffer. I evalueringssættets runde 3, trukket efter at læseren var skrevet, var 23
     af 24 klageinstanser rigtige og ingen manglede; den myndighed, der træffer afgørelsen, stod på kanten i 12 af 14 tilfælde; for tilsyn var
     15 af 15 rigtige, men 11 af facits 26 manglede, fordi læseren kun kender få formuleringer (''påser'', ''kontrollerer'', ''er tilsynsmyndighed''
     og ''styrelsens kontrol med'' læses ikke). I et håndgennemsyn af 52 tilfældige klageinstans-kanter uden for evalueringssættet var 2 forkerte
     (en sag, ikke en klage, blev indbragt for instansen); det mønster er siden udelukket. Tre forbehold: en instans uden node i registry''et giver
-    ingen kant (ministre, ''ankenævnet'', ''overtaksationskommissionen''); kanten gengiver dokumentets tekst, som den er udstedt, så byggeloven
+    ingen kant (''ankenævnet'', ''det i henhold til … nedsatte ankenævn''; ministerens titel læses siden 2026-11-16 som ministeriet, og fortegnelsen over
+    navne uden node står i raw/populate/2026-11-16-unavngivne.tsv); kanten gengiver dokumentets tekst, som den er udstedt, så byggeloven
     i LBK nr. 1178 af 2016 stadig peger på statsforvaltningen, selv om klageadgangen er flyttet ved en senere ændringslov; og uden for tekstlagets
     udsnit (de otte domæner og registry''ets dokumenter) er teksten ikke hentet. 28 par af klageinstans og afgørende myndighed fra kanterne findes
     ikke som klageinstans-kant mellem de to instanser i registry''et; tre med to uafhængige dokumenter bag er lagt ind 2026-11-15 (Energiklagenævnet
     over Arbejdstilsynet på offshoreområdet, Forsyningstilsynet over Energinet, Ankestyrelsen over Familieretshuset), resten er ikke gennemgået,
-    og flere af dem navngiver en forkert afgørende myndighed eller en nedlagt instans.'
+    og flere af dem navngiver en forkert afgørende myndighed eller en nedlagt instans. Efter at ministerens titel læses som ministeriet,
+    er der 47 sådanne par.'
   noder:
   - kilde-retsinformation
   - naevn-energiklagenaevnet
@@ -110917,3 +111117,26 @@ huller:
   - klage-tilsyn-praksis
   oprindelige_emner:
   - Klage- og tilsynskanter pr. forskrift er læst mekanisk af dokumentets egen tekst og kun for tekstlagets udsnit
+- emne: Abortnævnets og Abortankenævnets egne sider
+  type: ikke-fundet
+  beskrivelse: Nævnenes adresse og offentliggjorte afgørelser er ikke fundet; fortegnelsen blev lavet uden websøgning.
+  noder:
+  - naevn-abortnaevnet
+  - naevn-abortankenaevnet
+  kilder:
+  - https://www.retsinformation.dk/eli/lta/2026/896
+  domaener:
+  - sundhed
+  oprindelige_emner:
+  - Abortnævnets og Abortankenævnets egne sider
+- emne: Bevismiddeltilsynets egen side
+  type: ikke-fundet
+  beskrivelse: Tilsynets adresse og udgivelser er ikke fundet; fortegnelsen blev lavet uden websøgning.
+  noder:
+  - tilsyn-bevismiddeltilsynet
+  kilder:
+  - https://www.retsinformation.dk/eli/lta/2025/1298
+  domaener:
+  - strafferet-politi
+  oprindelige_emner:
+  - Bevismiddeltilsynets egen side

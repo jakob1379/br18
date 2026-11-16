@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 50 · kanter: 103
+Noder: 52 · kanter: 108
 
 ```mermaid
 flowchart LR
@@ -36,6 +36,8 @@ flowchart LR
     org_patienterstatningen["Patienterstatningen"]:::kilde
     kilde_stpk_publikationer["Publikationer, årsrapporter og praksissammenfatninger (stpk.dk)"]:::kilde
     kilde_stps_tilsynsrapporter["Tilsynsrapporter (Styrelsen for Patientsikkerhed)"]:::kilde
+    naevn_abortankenaevnet["Abortankenævnet"]:::klage
+    naevn_abortnaevnet["Abortnævnet"]:::klage
     naevn_ankenaevnet_for_patienterstatningen["Ankenævnet for Patienterstatningen"]:::klage
     naevn_ankenaevnet_for_tilsynsafgoerelser["Ankenævnet for Tilsynsafgørelser"]:::klage
     naevn_det_psykiatriske_ankenaevn["Det Psykiatriske Ankenævn"]:::klage
@@ -167,6 +169,11 @@ flowchart LR
     lov_folkekirkens_oekonomi -->|hjemmel_for| bek_provstiudvalgenes_og_budgetudvalgenes_virksomhed
     lov_ansaettelse_i_stillinger_i_folkekirken -->|hjemmel_for| bek_provstiudvalgenes_og_budgetudvalgenes_virksomhed
     lov_ansaettelse_i_stillinger_i_folkekirken -->|hjemmel_for| bek_klageadgang_ansaettelse_praester_provster
+    min_sundhed_og_kirke -.->|ressortansvar| naevn_abortnaevnet
+    min_sundhed_og_kirke -.->|ressortansvar| naevn_abortankenaevnet
+    lov_sundhedsloven -->|hjemmel_for| naevn_abortnaevnet
+    lov_sundhedsloven -->|hjemmel_for| naevn_abortankenaevnet
+    naevn_abortankenaevnet -->|klageinstans| naevn_abortnaevnet
 ```
 
 [← Overblik](oversigt.md)

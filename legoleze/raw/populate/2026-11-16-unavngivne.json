@@ -1,0 +1,67 @@
+{
+  "omraade": "unavngivne-klage-tilsyn",
+  "noder": [
+    {
+      "id": "naevn-abortnaevnet",
+      "navn": "Abortnævnet",
+      "type": "nævn",
+      "ministerium": "min-sundhed-og-kirke",
+      "status": "aktiv",
+      "domaener": ["sundhed"],
+      "hjemmel": {"tekst": "Sundhedslovens § 97: sundhedsministeren opretter Abortnævnet, der træffer afgørelse om tilladelse til abort og fosterreduktion; nævnet er uafhængigt af instruktioner.",
+                  "belaeg": [{"url": "https://www.retsinformation.dk/eli/lta/2026/896", "citat": "Sundhedsministeren opretter Abortnævnet, der træffer afgørelse i sager om anmodning om tilladelse til abort og fosterreduktion"}]},
+      "dokumenttyper": {"liste": [{"type": "afgørelse", "bindende": "bindende", "note": "tilladelse til abort og fosterreduktion; kan indbringes for Abortankenævnet"}],
+                        "belaeg": [{"url": "https://www.retsinformation.dk/eli/lta/2026/896", "citat": "Abortnævnets afgørelser kan indbringes for Abortankenævnet, jf. § 98."}]},
+      "note": "Oprettet ved lov nr. 405 af 29. april 2025 (Oprettelse af et nyt abortnævn m.v.). Styrelsen for Patientklager er sekretariat (sundhedslovens § 97, stk. 2). Fundet via fortegnelsen over navne, klage- og tilsynslæseren ikke kendte (JGA-136)."
+    },
+    {
+      "id": "naevn-abortankenaevnet",
+      "navn": "Abortankenævnet",
+      "type": "klagenævn",
+      "ministerium": "min-sundhed-og-kirke",
+      "status": "aktiv",
+      "domaener": ["sundhed"],
+      "hjemmel": {"tekst": "Sundhedslovens § 98: sundhedsministeren opretter Abortankenævnet, der træffer afgørelse i sager indbragt efter § 97, stk. 3; nævnets afgørelser kan ikke indbringes for anden administrativ myndighed.",
+                  "belaeg": [{"url": "https://www.retsinformation.dk/eli/lta/2026/896", "citat": "Sundhedsministeren opretter Abortankenævnet, der træffer afgørelse i sager, som er indbragt efter § 97, stk. 3."}]},
+      "dokumenttyper": {"liste": [{"type": "afgørelse", "bindende": "bindende", "note": "endelig administrativt"}],
+                        "belaeg": [{"url": "https://www.retsinformation.dk/eli/lta/2026/896", "citat": "Abortankenævnets afgørelser kan ikke indbringes for anden administrativ myndighed."}]},
+      "note": "Formand og næstformænd skal være dommere (sundhedslovens § 98 a). Styrelsen for Patientklager er sekretariat (§ 98, stk. 2). Fundet via fortegnelsen over navne, klage- og tilsynslæseren ikke kendte (JGA-136)."
+    },
+    {
+      "id": "tilsyn-bevismiddeltilsynet",
+      "navn": "Bevismiddeltilsynet (Det Uafhængige Tilsyn med Bevismidler)",
+      "type": "tilsyn",
+      "ministerium": "min-justits",
+      "status": "aktiv",
+      "domaener": ["strafferet-politi"],
+      "hjemmel": {"tekst": "Retsplejelovens § 118 a: Bevismiddeltilsynet er en selvstændig myndighed, ledet af Politiklagerådet og en direktør, og fører tilsyn med politiets og anklagemyndighedens behandling af tekniske beviser.",
+                  "belaeg": [{"url": "https://www.retsinformation.dk/eli/lta/2025/1298", "citat": "Det Uafhængige Tilsyn med Bevismidler (Bevismiddeltilsynet) er en selvstændig myndighed, der ledes af Politiklagerådet og en direktør."},
+                             {"url": "https://www.retsinformation.dk/eli/lta/2025/1298", "citat": "Bevismiddeltilsynet fører tilsyn med politiets og anklagemyndighedens behandling af tekniske beviser."}]},
+      "note": "Politiklagerådet er fælles øverste ledelse for Politiklagemyndigheden og Bevismiddeltilsynet (retsplejelovens § 118 b). Fundet via fortegnelsen over navne, klage- og tilsynslæseren ikke kendte (JGA-136)."
+    }
+  ],
+  "kanter": [
+    {"from": "min-sundhed-og-kirke", "type": "ressortansvar", "to": "naevn-abortnaevnet", "beskrivelse": "Sundhedsministeren opretter nævnet og beskikker dets medlemmer (sundhedslovens §§ 97 og 97 a).",
+     "belaeg": [{"url": "https://www.retsinformation.dk/eli/lta/2026/896", "citat": "Sundhedsministeren beskikker Abortnævnets formand og næstformænd, som skal have bestået juridisk kandidateksamen."}]},
+    {"from": "min-sundhed-og-kirke", "type": "ressortansvar", "to": "naevn-abortankenaevnet", "beskrivelse": "Sundhedsministeren opretter nævnet og beskikker dets medlemmer (sundhedslovens §§ 98 og 98 a).",
+     "belaeg": [{"url": "https://www.retsinformation.dk/eli/lta/2026/896", "citat": "Sundhedsministeren beskikker Abortankenævnets formand og næstformænd, som skal være dommere."}]},
+    {"from": "lov-sundhedsloven", "type": "hjemmel_for", "to": "naevn-abortnaevnet", "beskrivelse": "§ 97 opretter Abortnævnet.",
+     "belaeg": [{"url": "https://www.retsinformation.dk/eli/lta/2026/896", "citat": "Sundhedsministeren opretter Abortnævnet, der træffer afgørelse i sager om anmodning om tilladelse til abort og fosterreduktion"}]},
+    {"from": "lov-sundhedsloven", "type": "hjemmel_for", "to": "naevn-abortankenaevnet", "beskrivelse": "§ 98 opretter Abortankenævnet.",
+     "belaeg": [{"url": "https://www.retsinformation.dk/eli/lta/2026/896", "citat": "Sundhedsministeren opretter Abortankenævnet, der træffer afgørelse i sager, som er indbragt efter § 97, stk. 3."}]},
+    {"from": "naevn-abortankenaevnet", "type": "klageinstans", "to": "naevn-abortnaevnet", "beskrivelse": "Sundhedslovens § 97, stk. 3: Abortnævnets afgørelser kan indbringes for Abortankenævnet; dets afgørelser er endelige administrativt (§ 98, stk. 3).",
+     "belaeg": [{"url": "https://www.retsinformation.dk/eli/lta/2026/896", "citat": "Abortnævnets afgørelser kan indbringes for Abortankenævnet, jf. § 98."},
+                {"url": "https://www.retsinformation.dk/eli/lta/2026/896", "citat": "Abortankenævnets afgørelser kan ikke indbringes for anden administrativ myndighed."}]},
+    {"from": "min-justits", "type": "ressortansvar", "to": "tilsyn-bevismiddeltilsynet", "beskrivelse": "Selvstændig myndighed efter retsplejelovens § 118 a; retsplejeloven hører under justitsministeren.",
+     "belaeg": [{"url": "https://www.retsinformation.dk/eli/lta/2025/1298", "citat": "Det Uafhængige Tilsyn med Bevismidler (Bevismiddeltilsynet) er en selvstændig myndighed, der ledes af Politiklagerådet og en direktør."}]},
+    {"from": "lov-retsplejeloven", "type": "hjemmel_for", "to": "tilsyn-bevismiddeltilsynet", "beskrivelse": "§ 118 a opretter Bevismiddeltilsynet og giver det tilsynet med tekniske beviser.",
+     "belaeg": [{"url": "https://www.retsinformation.dk/eli/lta/2025/1298", "citat": "Bevismiddeltilsynet fører tilsyn med politiets og anklagemyndighedens behandling af tekniske beviser."}]}
+  ],
+  "huller": [
+    {"emne": "Abortnævnets og Abortankenævnets egne sider", "type": "ikke-fundet", "beskrivelse": "Nævnenes adresse og offentliggjorte afgørelser er ikke fundet; fortegnelsen blev lavet uden websøgning.",
+     "noder": ["naevn-abortnaevnet", "naevn-abortankenaevnet"], "kilder": ["https://www.retsinformation.dk/eli/lta/2026/896"]},
+    {"emne": "Bevismiddeltilsynets egen side", "type": "ikke-fundet", "beskrivelse": "Tilsynets adresse og udgivelser er ikke fundet; fortegnelsen blev lavet uden websøgning.",
+     "noder": ["tilsyn-bevismiddeltilsynet"], "kilder": ["https://www.retsinformation.dk/eli/lta/2025/1298"]}
+  ],
+  "noter": "Noderne er fundet via eksport.py unavngivne (JGA-136). Belæg er læst i den lokale tekst af LBK 896/2026 og LBK 1298/2025 og genfindes af review."
+}

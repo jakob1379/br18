@@ -1,0 +1,172 @@
+[
+ {
+  "hvor": "naevn-abortnaevnet.hjemmel",
+  "paastand": "Abortnævnet (nævn, ministerium min-sundhed-og-kirke): hjemmel = {\"tekst\": \"Sundhedslovens § 97: sundhedsministeren opretter Abortnævnet, der træffer afgørelse om tilladelse til abort og fosterreduktion; nævnet er uafhængigt af instruktioner.\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/896",
+    "citat": "Sundhedsministeren opretter Abortnævnet, der træffer afgørelse i sager om anmodning om tilladelse til abort og fosterreduktion",
+    "genfundet": true,
+    "kontekst": " antallet af fostre, hvis indgrebet er nødvendigt for at afværge fare for dennes liv eller for en alvorlig forringelse af dennes fysiske eller psykiske helbred og denne fare udelukkende eller ganske overvejende er lægefagligt begrundet. Kapitel 27 Nævn og ankenævn for abort og fosterreduktion § 97. Sundhedsministeren opretter Abortnævnet, der træffer afgørelse i sager om anmodning om tilladelse til abort og fosterreduktion efter § 94, § 95, stk. 2 og 3, og § 99 a, stk. 1 og 2. Abortnævnet er i sin virksomhed uafhængigt af instruktioner om den enkelte sags behandling og afgørelse. Stk. 2. Styrelsen for Patientklager stiller sekretariatsbistand til rådighed for Abortnævnet. Stk. 3. Abortnævnets afgørelser kan indbringe",
+    "paragraf": "§ 97"
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-abortnaevnet.dokumenttyper",
+  "paastand": "Abortnævnet (nævn, ministerium min-sundhed-og-kirke): dokumenttyper = {\"liste\": [{\"type\": \"afgørelse\", \"bindende\": \"bindende\", \"note\": \"tilladelse til abort og fosterreduktion; kan indbringes for Abortankenævnet\"}]}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/896",
+    "citat": "Abortnævnets afgørelser kan indbringes for Abortankenævnet, jf. § 98.",
+    "genfundet": true,
+    "kontekst": "lladelse til abort og fosterreduktion efter § 94, § 95, stk. 2 og 3, og § 99 a, stk. 1 og 2. Abortnævnet er i sin virksomhed uafhængigt af instruktioner om den enkelte sags behandling og afgørelse. Stk. 2. Styrelsen for Patientklager stiller sekretariatsbistand til rådighed for Abortnævnet. Stk. 3. Abortnævnets afgørelser kan indbringes for Abortankenævnet, jf. § 98. Stk. 4. Sundhedsministeren fastsætter efter forhandling med Abortnævnet en forretningsorden for nævnet. § 97 a. Abortnævnet består af 1 formand, et antal næstformænd og øvrige medlemmer. Sundhedsministeren fastsætter antallet af næstformænd og øvrige medlemmer. Stk. 2. Sundhedsministeren beskikker",
+    "paragraf": "§ 97"
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-abortankenaevnet.hjemmel",
+  "paastand": "Abortankenævnet (klagenævn, ministerium min-sundhed-og-kirke): hjemmel = {\"tekst\": \"Sundhedslovens § 98: sundhedsministeren opretter Abortankenævnet, der træffer afgørelse i sager indbragt efter § 97, stk. 3; nævnets afgørelser kan ikke indbringes for anden administrativ myndighed.\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/896",
+    "citat": "Sundhedsministeren opretter Abortankenævnet, der træffer afgørelse i sager, som er indbragt efter § 97, stk. 3.",
+    "genfundet": true,
+    "kontekst": "næstformand og 2 øvrige medlemmer. Sekretariatet for Abortnævnet beslutter, hvilke medlemmer der skal deltage i nævnets afgørelse af den enkelte sag. Stk. 6. Afgørelse i Abortnævnet træffes ved stemmeflertal. Ved dissens skal afgørelsen indeholde en tilkendegivelse af mindretallets vurdering. § 98. Sundhedsministeren opretter Abortankenævnet, der træffer afgørelse i sager, som er indbragt efter § 97, stk. 3. Abortankenævnet er i sin virksomhed uafhængigt af instruktioner om den enkelte sags behandling og afgørelse. Stk. 2. Styrelsen for Patientklager stiller sekretariatsbistand til rådighed for Abortankenævnet. Stk. 3. Abortankenævnets afgørelser kan ikke indbringes for anden administrativ myndighed. ",
+    "paragraf": "§ 98"
+   }
+  ]
+ },
+ {
+  "hvor": "naevn-abortankenaevnet.dokumenttyper",
+  "paastand": "Abortankenævnet (klagenævn, ministerium min-sundhed-og-kirke): dokumenttyper = {\"liste\": [{\"type\": \"afgørelse\", \"bindende\": \"bindende\", \"note\": \"endelig administrativt\"}]}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/896",
+    "citat": "Abortankenævnets afgørelser kan ikke indbringes for anden administrativ myndighed.",
+    "genfundet": true,
+    "kontekst": " Abortankenævnet, der træffer afgørelse i sager, som er indbragt efter § 97, stk. 3. Abortankenævnet er i sin virksomhed uafhængigt af instruktioner om den enkelte sags behandling og afgørelse. Stk. 2. Styrelsen for Patientklager stiller sekretariatsbistand til rådighed for Abortankenævnet. Stk. 3. Abortankenævnets afgørelser kan ikke indbringes for anden administrativ myndighed. Stk. 4. Sundhedsministeren fastsætter efter forhandling med Abortankenævnet en forretningsorden for nævnet. § 98 a. Abortankenævnet består af 1 formand, et antal næstformænd og øvrige medlemmer. Sundhedsministeren fastsætter antallet af næstformænd og øvrige medlemmer. Stk. 2. Sundhedsministeren b",
+    "paragraf": "§ 98"
+   }
+  ]
+ },
+ {
+  "hvor": "tilsyn-bevismiddeltilsynet.hjemmel",
+  "paastand": "Bevismiddeltilsynet (Det Uafhængige Tilsyn med Bevismidler) (tilsyn, ministerium min-justits): hjemmel = {\"tekst\": \"Retsplejelovens § 118 a: Bevismiddeltilsynet er en selvstændig myndighed, ledet af Politiklagerådet og en direktør, og fører tilsyn med politiets og anklagemyndighedens behandling af tekniske beviser.\"}",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "Det Uafhængige Tilsyn med Bevismidler (Bevismiddeltilsynet) er en selvstændig myndighed, der ledes af Politiklagerådet og en direktør.",
+    "genfundet": true,
+    "kontekst": "3 b, og efterforsker straffesager mod andet personale i politiet og anklagemyndigheden, jf. kapitel 93 c, som varetager politimæssige opgaver eller opgaver, der relaterer sig til retshåndhævelse og strafforfølgning. Stk. 3. Politiklagemyndigheden udøver sine funktioner i fuld uafhængighed. § 118 a. Det Uafhængige Tilsyn med Bevismidler (Bevismiddeltilsynet) er en selvstændig myndighed, der ledes af Politiklagerådet og en direktør. Stk. 2. Bevismiddeltilsynet fører tilsyn med politiets og anklagemyndighedens behandling af tekniske beviser. Politiets Efterretningstjeneste er ikke omfattet af tilsynets virksomhed. Stk. 3. Politiet og anklagemyndigheden er forpligtet til at meddele Bevismiddeltilsynet de oplysninger og udlevere",
+    "paragraf": "§ 118 a"
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "Bevismiddeltilsynet fører tilsyn med politiets og anklagemyndighedens behandling af tekniske beviser.",
+    "genfundet": true,
+    "kontekst": "ller opgaver, der relaterer sig til retshåndhævelse og strafforfølgning. Stk. 3. Politiklagemyndigheden udøver sine funktioner i fuld uafhængighed. § 118 a. Det Uafhængige Tilsyn med Bevismidler (Bevismiddeltilsynet) er en selvstændig myndighed, der ledes af Politiklagerådet og en direktør. Stk. 2. Bevismiddeltilsynet fører tilsyn med politiets og anklagemyndighedens behandling af tekniske beviser. Politiets Efterretningstjeneste er ikke omfattet af tilsynets virksomhed. Stk. 3. Politiet og anklagemyndigheden er forpligtet til at meddele Bevismiddeltilsynet de oplysninger og udlevere de dokumenter m.v., som Bevismiddeltilsynet forlanger. Politiet og anklagemyndigheden orienterer af egen drif",
+    "paragraf": "§ 118 a"
+   }
+  ]
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|naevn-abortnaevnet",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/896",
+    "citat": "Sundhedsministeren beskikker Abortnævnets formand og næstformænd, som skal have bestået juridisk kandidateksamen.",
+    "genfundet": true,
+    "kontekst": "or Abortankenævnet, jf. § 98. Stk. 4. Sundhedsministeren fastsætter efter forhandling med Abortnævnet en forretningsorden for nævnet. § 97 a. Abortnævnet består af 1 formand, et antal næstformænd og øvrige medlemmer. Sundhedsministeren fastsætter antallet af næstformænd og øvrige medlemmer. Stk. 2. Sundhedsministeren beskikker Abortnævnets formand og næstformænd, som skal have bestået juridisk kandidateksamen. Stk. 3. Sundhedsministeren beskikker nævnets øvrige medlemmer med henholdsvis lægefaglige og socialfaglige kompetencer. Nævnets lægefaglige medlemmer skal være speciallæger i gynækologi og obstetrik eller psykiatri og beskikkes efter indstilling fra Lægeforeningen. Nævnets socialfaglige medlemmer ",
+    "paragraf": "§ 97 a"
+   }
+  ],
+  "paastand": "min-sundhed-og-kirke —ressortansvar→ Abortnævnet: Sundhedsministeren opretter nævnet og beskikker dets medlemmer (sundhedslovens §§ 97 og 97 a)."
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|ressortansvar|naevn-abortankenaevnet",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/896",
+    "citat": "Sundhedsministeren beskikker Abortankenævnets formand og næstformænd, som skal være dommere.",
+    "genfundet": true,
+    "kontekst": "inistrativ myndighed. Stk. 4. Sundhedsministeren fastsætter efter forhandling med Abortankenævnet en forretningsorden for nævnet. § 98 a. Abortankenævnet består af 1 formand, et antal næstformænd og øvrige medlemmer. Sundhedsministeren fastsætter antallet af næstformænd og øvrige medlemmer. Stk. 2. Sundhedsministeren beskikker Abortankenævnets formand og næstformænd, som skal være dommere. Stk. 3. Sundhedsministeren beskikker nævnets øvrige medlemmer med henholdsvis lægefaglige og socialfaglige kompetencer. Nævnets lægefaglige medlemmer skal være speciallæger i gynækologi og obstetrik eller psykiatri og beskikkes efter indstilling fra Lægeforeningen. Nævnets socialfaglige medlemmer ",
+    "paragraf": "§ 98 a"
+   }
+  ],
+  "paastand": "min-sundhed-og-kirke —ressortansvar→ Abortankenævnet: Sundhedsministeren opretter nævnet og beskikker dets medlemmer (sundhedslovens §§ 98 og 98 a)."
+ },
+ {
+  "hvor": "kant lov-sundhedsloven|hjemmel_for|naevn-abortnaevnet",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/896",
+    "citat": "Sundhedsministeren opretter Abortnævnet, der træffer afgørelse i sager om anmodning om tilladelse til abort og fosterreduktion",
+    "genfundet": true,
+    "kontekst": " antallet af fostre, hvis indgrebet er nødvendigt for at afværge fare for dennes liv eller for en alvorlig forringelse af dennes fysiske eller psykiske helbred og denne fare udelukkende eller ganske overvejende er lægefagligt begrundet. Kapitel 27 Nævn og ankenævn for abort og fosterreduktion § 97. Sundhedsministeren opretter Abortnævnet, der træffer afgørelse i sager om anmodning om tilladelse til abort og fosterreduktion efter § 94, § 95, stk. 2 og 3, og § 99 a, stk. 1 og 2. Abortnævnet er i sin virksomhed uafhængigt af instruktioner om den enkelte sags behandling og afgørelse. Stk. 2. Styrelsen for Patientklager stiller sekretariatsbistand til rådighed for Abortnævnet. Stk. 3. Abortnævnets afgørelser kan indbringe",
+    "paragraf": "§ 97"
+   }
+  ],
+  "paastand": "lov-sundhedsloven —hjemmel_for→ Abortnævnet: § 97 opretter Abortnævnet."
+ },
+ {
+  "hvor": "kant lov-sundhedsloven|hjemmel_for|naevn-abortankenaevnet",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/896",
+    "citat": "Sundhedsministeren opretter Abortankenævnet, der træffer afgørelse i sager, som er indbragt efter § 97, stk. 3.",
+    "genfundet": true,
+    "kontekst": "næstformand og 2 øvrige medlemmer. Sekretariatet for Abortnævnet beslutter, hvilke medlemmer der skal deltage i nævnets afgørelse af den enkelte sag. Stk. 6. Afgørelse i Abortnævnet træffes ved stemmeflertal. Ved dissens skal afgørelsen indeholde en tilkendegivelse af mindretallets vurdering. § 98. Sundhedsministeren opretter Abortankenævnet, der træffer afgørelse i sager, som er indbragt efter § 97, stk. 3. Abortankenævnet er i sin virksomhed uafhængigt af instruktioner om den enkelte sags behandling og afgørelse. Stk. 2. Styrelsen for Patientklager stiller sekretariatsbistand til rådighed for Abortankenævnet. Stk. 3. Abortankenævnets afgørelser kan ikke indbringes for anden administrativ myndighed. ",
+    "paragraf": "§ 98"
+   }
+  ],
+  "paastand": "lov-sundhedsloven —hjemmel_for→ Abortankenævnet: § 98 opretter Abortankenævnet."
+ },
+ {
+  "hvor": "kant naevn-abortankenaevnet|klageinstans|naevn-abortnaevnet",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/896",
+    "citat": "Abortnævnets afgørelser kan indbringes for Abortankenævnet, jf. § 98.",
+    "genfundet": true,
+    "kontekst": "lladelse til abort og fosterreduktion efter § 94, § 95, stk. 2 og 3, og § 99 a, stk. 1 og 2. Abortnævnet er i sin virksomhed uafhængigt af instruktioner om den enkelte sags behandling og afgørelse. Stk. 2. Styrelsen for Patientklager stiller sekretariatsbistand til rådighed for Abortnævnet. Stk. 3. Abortnævnets afgørelser kan indbringes for Abortankenævnet, jf. § 98. Stk. 4. Sundhedsministeren fastsætter efter forhandling med Abortnævnet en forretningsorden for nævnet. § 97 a. Abortnævnet består af 1 formand, et antal næstformænd og øvrige medlemmer. Sundhedsministeren fastsætter antallet af næstformænd og øvrige medlemmer. Stk. 2. Sundhedsministeren beskikker",
+    "paragraf": "§ 97"
+   },
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2026/896",
+    "citat": "Abortankenævnets afgørelser kan ikke indbringes for anden administrativ myndighed.",
+    "genfundet": true,
+    "kontekst": " Abortankenævnet, der træffer afgørelse i sager, som er indbragt efter § 97, stk. 3. Abortankenævnet er i sin virksomhed uafhængigt af instruktioner om den enkelte sags behandling og afgørelse. Stk. 2. Styrelsen for Patientklager stiller sekretariatsbistand til rådighed for Abortankenævnet. Stk. 3. Abortankenævnets afgørelser kan ikke indbringes for anden administrativ myndighed. Stk. 4. Sundhedsministeren fastsætter efter forhandling med Abortankenævnet en forretningsorden for nævnet. § 98 a. Abortankenævnet består af 1 formand, et antal næstformænd og øvrige medlemmer. Sundhedsministeren fastsætter antallet af næstformænd og øvrige medlemmer. Stk. 2. Sundhedsministeren b",
+    "paragraf": "§ 98"
+   }
+  ],
+  "paastand": "Abortankenævnet —klageinstans→ Abortnævnet: Sundhedslovens § 97, stk. 3: Abortnævnets afgørelser kan indbringes for Abortankenævnet; dets afgørelser er endelige administrativt (§ 98, stk. 3)."
+ },
+ {
+  "hvor": "kant min-justits|ressortansvar|tilsyn-bevismiddeltilsynet",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "Det Uafhængige Tilsyn med Bevismidler (Bevismiddeltilsynet) er en selvstændig myndighed, der ledes af Politiklagerådet og en direktør.",
+    "genfundet": true,
+    "kontekst": "3 b, og efterforsker straffesager mod andet personale i politiet og anklagemyndigheden, jf. kapitel 93 c, som varetager politimæssige opgaver eller opgaver, der relaterer sig til retshåndhævelse og strafforfølgning. Stk. 3. Politiklagemyndigheden udøver sine funktioner i fuld uafhængighed. § 118 a. Det Uafhængige Tilsyn med Bevismidler (Bevismiddeltilsynet) er en selvstændig myndighed, der ledes af Politiklagerådet og en direktør. Stk. 2. Bevismiddeltilsynet fører tilsyn med politiets og anklagemyndighedens behandling af tekniske beviser. Politiets Efterretningstjeneste er ikke omfattet af tilsynets virksomhed. Stk. 3. Politiet og anklagemyndigheden er forpligtet til at meddele Bevismiddeltilsynet de oplysninger og udlevere",
+    "paragraf": "§ 118 a"
+   }
+  ],
+  "paastand": "min-justits —ressortansvar→ Bevismiddeltilsynet (Det Uafhængige Tilsyn med Bevismidler): Selvstændig myndighed efter retsplejelovens § 118 a; retsplejeloven hører under justitsministeren."
+ },
+ {
+  "hvor": "kant lov-retsplejeloven|hjemmel_for|tilsyn-bevismiddeltilsynet",
+  "belaeg": [
+   {
+    "url": "https://www.retsinformation.dk/eli/lta/2025/1298",
+    "citat": "Bevismiddeltilsynet fører tilsyn med politiets og anklagemyndighedens behandling af tekniske beviser.",
+    "genfundet": true,
+    "kontekst": "ller opgaver, der relaterer sig til retshåndhævelse og strafforfølgning. Stk. 3. Politiklagemyndigheden udøver sine funktioner i fuld uafhængighed. § 118 a. Det Uafhængige Tilsyn med Bevismidler (Bevismiddeltilsynet) er en selvstændig myndighed, der ledes af Politiklagerådet og en direktør. Stk. 2. Bevismiddeltilsynet fører tilsyn med politiets og anklagemyndighedens behandling af tekniske beviser. Politiets Efterretningstjeneste er ikke omfattet af tilsynets virksomhed. Stk. 3. Politiet og anklagemyndigheden er forpligtet til at meddele Bevismiddeltilsynet de oplysninger og udlevere de dokumenter m.v., som Bevismiddeltilsynet forlanger. Politiet og anklagemyndigheden orienterer af egen drif",
+    "paragraf": "§ 118 a"
+   }
+  ],
+  "paastand": "lov-retsplejeloven —hjemmel_for→ Bevismiddeltilsynet (Det Uafhængige Tilsyn med Bevismidler): § 118 a opretter Bevismiddeltilsynet og giver det tilsynet med tekniske beviser."
+ }
+]

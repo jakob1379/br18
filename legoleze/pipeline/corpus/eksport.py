@@ -3,6 +3,7 @@
 
     python3 eksport.py hent       # metadata for alle dokumenter pr. samling -> intermediate/corpus/eksport/<samling>.jsonl
     python3 eksport.py katalog    # ajourfør katalog/retsinformation_<samling>.jsonl og kanter.jsonl fra eksporten (kræver PyYAML)
+    python3 eksport.py unavngivne # de navne i klage- og tilsynssætningerne, registry'et ikke har, som TSV (navn, sætninger, dokumenter, eksempel)
     python3 eksport.py selftest
 
 Eksporten er sidens egen "Eksportér søgeresultat" (api/documentsearch/csv). Ét kald giver alle dokumenter i en samling for et
@@ -208,7 +209,7 @@ def hjemmelkant(d: dict, lov: dict, citeret: list | None = None) -> dict:
 
 
 def myndigheder(reg: dict) -> dict:
-    """{normaliseret navn: (node-id, er det nuværende navn)} for registry'ets instanser, med og uden parentes i navnet og med tidligere navne.
+    """{normaliseret navn: (node-id, er det nuværende navn)} for registry'ets instanser, med og uden parentes i navnet, med tidligere navne og med ministerens titel for hvert ministerium.
     Instansens eget navn går forud for et tidligere navn på en anden instans; et navn, flere instanser ellers deler, er udeladt."""
     ud = collections.defaultdict(set)
     for n in reg["nodes"]:
@@ -217,10 +218,14 @@ def myndigheder(reg: dict) -> dict:
                 ud[P.norm(navn)].add((n["id"], nu))
                 ud[P.norm(re.sub(r"\([^)]*\)", "", navn))].add((n["id"], nu))
     valg = {k: nu if len(nu := {x for x in v if x[1]}) == 1 else v for k, v in ud.items()}
-    return {k: max(v, key=lambda x: x[1]) for k, v in valg.items() if k and len({i for i, _ in v}) == 1}
+    navne = {k: max(v, key=lambda x: x[1]) for k, v in valg.items() if k and len({i for i, _ in v}) == 1}
+    return {**{re.sub(r"ministeriet\b", "ministeren", k): v for k, v in navne.items() if v[0].startswith("min-")}, **navne}
 
 
-ALIAS = {"kommunalbestyrelsen": "kommune-alle", "kommunen": "kommune-alle"}
+ALIAS = {"kommunalbestyrelsen": "kommune-alle", "kommunen": "kommune-alle", "kommunalbestyrelserne": "kommune-alle", "regionsrådet": "region-alle",
+         "rigspolitichefen": "sty-rigspolitiet", "biskoppen": "tilsyn-biskopperne", "socialtilsynet": "tilsyn-socialtilsynene",
+         "ankestyrelsens beskæftigelsesudvalg": "sty-ankestyrelsen", "taksationsmyndighederne": "naevn-taksationsmyndighederne",
+         "overtaksationskommissionen": "naevn-taksationsmyndighederne"}
 SAETNING = re.compile(r"(?<=[.;])\s+(?=[A-ZÆØÅ])")
 KLAGE = re.compile(r"(?:\b(?:påklages?|klages|indbringes?|anke[sr]?)\b(?P<m>[^.;]{0,160}?)\b(?:til|for)|\bklager? til)\s+(?P<end>(?:en\s+)?anden administrativ myndighed end\s+)?",
                    re.IGNORECASE)
@@ -231,12 +236,33 @@ TILSYN_AF = re.compile(r"\b(?:tilsyn|kontrol)(?:et|len)?\b[^.;]{0,120}?\b(?:før
 LED = (KLAGE, BEHANDLER, TILSYN, TILSYN_AF)
 
 
+FORLED = {"den", "det", "de", "en", "et", "anden", "andre", "vedkommende", "pågældende", "kompetente", "relevante", "overordnede"}
+
+
+def frase(tekst: str, bagfra: bool = False) -> str:
+    """Det navn, der står forrest (eller bagerst) i tekst, normaliseret: ord med stort begyndelsesbogstav, ord efter bindestreg, "og" og "for" mellem dem,
+    og ordet efter et forled som "den" eller "kompetente". Til fortegnelsen over de navne, læseren ikke kender."""
+    w = re.findall(r"[\w/]+-?|[^\w\s]", re.sub(r"-\s*,", "-", tekst[-200:] if bagfra else tekst[:200]))[::-1 if bagfra else 1]
+    w = w[:next((i for i, x in enumerate(w) if not re.match(r"\w", x)), len(w))]
+    ud = w[:1]
+    for x in w[1:]:
+        a = x if bagfra else ud[-1]
+        if not (x[:1].isupper() or a.endswith("-") or x in ("og", "for") or (not bagfra and a.lower() in FORLED)
+                or (not bagfra and ud[-1] == "og" and len(ud) > 1 and ud[-2].endswith("-"))):
+            break
+        ud.append(x)
+    while ud and ud[-1] in ("og", "for"):
+        ud.pop()
+    return P.norm(" ".join(ud[::-1] if bagfra else ud))
+
+
 def laeser(reg: dict):
-    """(klager, tilsyn): to funktioner, der læser én sætning mod registry'ets instansnavne (med ALIAS og genitiv-s).
+    """(klager, tilsyn, ukendte): tre funktioner, der læser én sætning mod registry'ets instansnavne (myndigheder, med ALIAS og genitiv-s).
     klager(sætning) giver [(klageinstans, afgørende myndighed eller None)] for "kan påklages til X", "kan indbringes for X", "klage til X",
     "ikke … anden administrativ myndighed end X" og "X behandler klager"; ikke for "kan ikke påklages til X", ikke for domstolene under ét, ikke når
     det er en sag eller en tvist, der indbringes, og ikke for en sætning, der opregner andre forskrifter. Den afgørende myndighed er en instans i samme sætning i formen "X's afgørelser"
-    eller "truffet af X". tilsyn(sætning) giver instanserne i "X fører tilsyn", "X kan føre kontrol", "fører X tilsyn" og "tilsynet føres af X"."""
+    eller "truffet af X". tilsyn(sætning) giver instanserne i "X fører tilsyn", "X kan føre kontrol", "fører X tilsyn" og "tilsynet føres af X".
+    ukendte(sætning) giver navnet (frase) de steder, hvor klager eller tilsyn venter en instans, men ikke finder én i registry'et."""
     navne = {**{k: v[0] for k, v in myndigheder(reg).items()}, **ALIAS}
     laengde = max(len(k.split()) for k in navne)
 
@@ -254,6 +280,9 @@ def laeser(reg: dict):
     def foerst(tekst: str) -> str | None:
         return ved(P.norm(tekst[:200]).split(), 0)[0]
 
+    def navn(tekst: str, bagfra: bool) -> str | None:
+        return sidst(tekst) if bagfra else foerst(tekst)
+
     def afgoerer(saetning: str, til: str) -> str | None:
         w = P.norm(saetning).split()
         for i in range(len(w)):
@@ -263,20 +292,25 @@ def laeser(reg: dict):
                 return node
         return None
 
+    def steder(saetning: str) -> tuple[list[tuple[str, bool]], list[tuple[str, bool]]]:
+        klage = [] if re.match(r"(?:Bekendtgørelse|Lov|Lovbekendtgørelse) nr\.", saetning) else [
+            *((saetning[m.end():], False) for m in KLAGE.finditer(saetning)
+              if m["end"] or not (re.search(r"\bikke\b[^,]{0,40}$", saetning[:m.start()]) or re.search(r"\bikke\b", m["m"] or "") or SAG.search(saetning[:m.end()]))),
+            *((saetning[:m.start()], True) for m in BEHANDLER.finditer(saetning))]
+        tils = [(m["m"], False) if len(m["m"].split()) > 2 or foerst(m["m"]) else (saetning[:m.start()], True) for m in TILSYN.finditer(saetning)]
+        return klage, tils + [(saetning[m.end():], False) for m in TILSYN_AF.finditer(saetning)]
+
     def klager(saetning: str) -> list[tuple[str, str | None]]:
-        if re.match(r"(?:Bekendtgørelse|Lov|Lovbekendtgørelse) nr\.", saetning):
-            return []
-        til = [foerst(saetning[m.end():]) for m in KLAGE.finditer(saetning)
-               if m["end"] or not (re.search(r"\bikke\b[^,]{0,40}$", saetning[:m.start()]) or re.search(r"\bikke\b", m["m"] or "") or SAG.search(saetning[:m.end()]))]
-        til += [sidst(saetning[:m.start()]) for m in BEHANDLER.finditer(saetning)]
+        til = [navn(*x) for x in steder(saetning)[0]]
         return [(t, afgoerer(saetning, t)) for t in dict.fromkeys(til) if t and t != "dom-domstolene"]
 
     def tilsyn(saetning: str) -> list[str]:
-        ud = [foerst(m["m"]) if len(m["m"].split()) > 2 or foerst(m["m"]) else sidst(saetning[:m.start()]) for m in TILSYN.finditer(saetning)]
-        ud += [foerst(saetning[m.end():]) for m in TILSYN_AF.finditer(saetning)]
-        return [x for x in dict.fromkeys(ud) if x]
+        return [x for x in dict.fromkeys(navn(*x) for x in steder(saetning)[1]) if x]
 
-    return klager, tilsyn
+    def ukendte(saetning: str) -> list[str]:
+        return [f for f in dict.fromkeys(frase(*x) for led in steder(saetning) for x in led if not navn(*x)) if f]
+
+    return klager, tilsyn, ukendte
 
 
 EUNAEVNT = re.compile("|".join(r.pattern for r in (X.R_DIR, X.R_REG_OLD, X.R_REG_NEW, X.R_DEC)), re.IGNORECASE)
@@ -613,7 +647,7 @@ def katalog() -> dict:
                 kanter.append({"from": i, "type": "henviser_til", "to": c, "beskrivelse": f"nævner dokumentet (nr. og dato) {n} gang(e) i den hentede tekst",
                                "kilder": d["kilder"][:1], "sikkerhed": "verificeret", "metode": XMLTEKST,
                                **({"gaeldende_version": gv} if (gv := ids[c].get("gaeldende_version")) else {})})
-    klager, tilsyn = laeser(reg)
+    klager, tilsyn, _ = laeser(reg)
     tidslinje_for = {i: tl for tl in tls for i in lovversioner(tl)}
     for t in hentet:
         led = collections.defaultdict(lambda: collections.defaultdict(list))
@@ -675,6 +709,23 @@ def katalog() -> dict:
     return dict(stats)
 
 
+def unavngivne() -> str:
+    """Navnene på de steder i klage- og tilsynssætningerne (tekst.jsonl), hvor læseren venter en instans uden at finde én, for de dokumenter, katalog læser:
+    antal sætninger og dokumenter pr. navn, flest dokumenter først, og et eksempel."""
+    reg = P.yaml.load(P.REG.read_text(encoding="utf-8"), Loader=P.yaml.CSafeLoader)
+    hoved = {d["id"] for d in map(json.loads, (KAT / "retsinformation_lta.jsonl").open(encoding="utf-8")) if d.get("dokumentrolle") == "hoved"}
+    ukendte = laeser(reg)[2]
+    saetninger, dok, eks = collections.Counter(), collections.defaultdict(set), {}
+    for t in map(json.loads, (KAT / "tekst.jsonl").open(encoding="utf-8")):
+        for par, saetning in t.get("klage_tilsyn", []) if t["id"] in hoved else ():
+            for f in ukendte(saetning):
+                saetninger[f] += 1
+                dok[f].add(t["id"])
+                eks.setdefault(f, f"{t['id']} {par}: {saetning[:200]}")
+    raekker = sorted(saetninger, key=lambda f: (-len(dok[f]), -saetninger[f], f))
+    return "navn\tsætninger\tdokumenter\teksempel\n" + "".join(f"{f}\t{saetninger[f]}\t{len(dok[f])}\t{eks[f]}\n" for f in raekker)
+
+
 def selftest() -> None:
     assert intervaller({"2001": 2000, "2002": 900, "2004": 2500, "2005": 100}) == [("", "2003", 2900), ("2004", "", 2600)]
     assert intervaller({}) == [] and intervaller({"1999": 5}) == [("", "", 5)]
@@ -726,7 +777,7 @@ def selftest() -> None:
     assert fam[4]["afloeser_mangler"] and fam[5]["afloeser_mangler"] and "afloeser_mangler" not in fam[1]
     tl = [{"href": "/eli/lta/1998/452", "documentTypeId": 30}, {"href": "/eli/lta/2001/228", "documentTypeId": 20}, {"href": "/eli/lta/1996/485", "documentTypeId": 10, "isMainLaw": False},
           {"href": "/eli/lta/1975/323", "documentTypeId": 10, "isMainLaw": True}, {"href": None, "documentTypeId": 30}]
-    klager, tilsyn = laeser({"nodes": [{"id": "naevn-frugt", "type": "nævn", "navn": "Frugtklagenævnet"}, {"id": "sty-aeble", "type": "styrelse", "navn": "Æblestyrelsen"},
+    klager, tilsyn, _ = laeser({"nodes": [{"id": "naevn-frugt", "type": "nævn", "navn": "Frugtklagenævnet"}, {"id": "sty-aeble", "type": "styrelse", "navn": "Æblestyrelsen"},
                                        {"id": "dom-domstolene", "type": "domstol", "navn": "Domstolene"}, {"id": "naevn-ae-og-p", "type": "nævn", "navn": "Æble- og Pærenævnet"}]})
     for saetning, ventet in (("Æblestyrelsens afgørelser efter § 4 kan påklages til Frugtklagenævnet.", [("naevn-frugt", "sty-aeble")]),
                              ("Afgørelser efter bekendtgørelsen kan indbringes for Æble- og Pærenævnet inden 4 uger.", [("naevn-ae-og-p", None)]),
@@ -741,6 +792,19 @@ def selftest() -> None:
                              ("Tilsynet med overholdelsen føres af Æblestyrelsen.", ["sty-aeble"]), ("Æblestyrelsen varetager tilsynet.", ["sty-aeble"]),
                              ("Virksomheder under tilsyn af Æblestyrelsen skal indberette.", []), ("Den, der fører tilsyn, skal have adgang.", []), ("Æblestyrelsen kan føre kontrol og tilsyn med frugten.", ["sty-aeble"])):
         assert tilsyn(saetning) == ventet, (saetning, tilsyn(saetning))
+    klager, tilsyn, ukendte = laeser({"nodes": [{"id": "naevn-frugt", "type": "nævn", "navn": "Frugtklagenævnet"}, {"id": "min-ae", "type": "ministerium", "navn": "Æbleministeriet",
+                                                "tidligere_navne": [{"navn": "Frugt- og Bærministeriet"}]}, {"id": "min-p", "type": "ministerium", "navn": "Ministeriet for Pærer"}]})
+    for saetning, ventet in (("Afgørelser kan påklages til Pærestyrelsen inden 4 uger.", ["pærestyrelsen"]), ("Afgørelser kan påklages til Frugtklagenævnet.", []),
+                             ("Afgørelser efter § 4 kan ikke påklages til Pærestyrelsen.", []), ("Styrelsen for Pæresikkerhed behandler klager over afgørelser.", ["styrelsen for pæresikkerhed"]),
+                             ("Tilsynet føres af den kompetente myndighed.", ["den kompetente myndighed"]), ("Kirsebær-, blomme- og sveskeministeren fører tilsyn med loven.", ["kirsebær blomme og sveskeministeren"]),
+                             ("Afgørelsen kan påklages til Rigsfrugtchefen, og Pærenævnet fører tilsyn.", ["rigsfrugtchefen", "pærenævnet"]), ("Afgørelsen kan påklages til æbleministeren.", []),
+                             ("Tilsynet føres af (jf. § 3) Pærestyrelsen.", [])):
+        assert ukendte(saetning) == ventet, (saetning, ukendte(saetning))
+    assert klager("Afgørelsen kan påklages til frugt- og bærministeren.") == [("min-ae", None)] and tilsyn("Ministeren for Pærer fører tilsyn.") == ["min-p"]
+    assert klager("Æbleministerens afgørelser kan påklages til Frugtklagenævnet.") == [("naevn-frugt", "min-ae")]
+    assert klager("Klage til taksationsmyndighederne skal være indgivet inden 4 uger.") == [("naevn-taksationsmyndighederne", None)]
+    assert klager("Regionsrådets afgørelser kan påklages til Frugtklagenævnet.") == [("naevn-frugt", "region-alle")]
+    assert tilsyn("Tilsyn med menighedsrådenes funktion udøves af biskoppen.") == ["tilsyn-biskopperne"] and tilsyn("Rigspolitichefen fører tilsyn med politidirektørerne.") == ["sty-rigspolitiet"]
     assert lovversioner(tl) == ["lta-1998-452", "lta-1975-323"]
     byg = [{"href": "/eli/lta/2016/1178", "documentTypeId": 30, "signatureDate": "25/09/2016"}, {"href": "/eli/lta/2014/1", "documentTypeId": 20, "signatureDate": "01/01/2014"},
            {"href": "/eli/lta/2018/734", "documentTypeId": 20, "signatureDate": "08/06/2018"}, {"href": "/eli/lta/2019/9", "documentTypeId": 10, "isMainLaw": False, "signatureDate": "01/03/2019"},
@@ -784,6 +848,8 @@ def selftest() -> None:
                                                                                 "tidligere_navne": [{"navn": "Frugtklagenævnet (æblesager)"}, {"navn": "Bærnævnet"}]},
             {"id": "naevn-ny2", "type": "klagenævn", "navn": "Pæreklagenævnet", "tidligere_navne": [{"navn": "Bærnævnet"}]}]
     assert myndigheder({"nodes": delt})["frugtklagenævnet"] == ("naevn-nm", True) and "bærnævnet" not in myndigheder({"nodes": delt})
+    assert myndigheder({"nodes": [{"id": "min-ae", "type": "ministerium", "navn": "Æbleministeriet", "tidligere_navne": [{"navn": "Frugtministeriet"}]}]}) == {
+        "æbleministeriet": ("min-ae", True), "frugtministeriet": ("min-ae", False), "æbleministeren": ("min-ae", True), "frugtministeren": ("min-ae", False)}
     assert myndigheder({"nodes": inst}) == {"æblenævnet æn": ("naevn-ae", True), "æblenævnet": ("naevn-ae", True), "frugtnævnet": ("naevn-ae", False), "pærenævnet": ("naevn-p", True)}
     ny = [{"id": "n1", "status": {"vaerdi": "gældende"}, "datoer": {"udstedt": "2026-07-02"}}, {"id": "n2", "status": {"vaerdi": "gældende"}, "datoer": {"udstedt": "2026-01-02"}},
           {"id": "n3", "status": {"vaerdi": "gældende"}, "datoer": {"udstedt": "2026-01-02"}}, {"id": "c", "status": {"vaerdi": "gældende"}, "datoer": {},
@@ -813,5 +879,7 @@ if __name__ == "__main__":
         selftest()
     elif kommando in ("hent", "katalog"):
         print(json.dumps({"hent": hent, "katalog": katalog}[kommando](), ensure_ascii=False, indent=1))
+    elif kommando == "unavngivne":
+        sys.stdout.write(unavngivne())
     else:
         sys.exit(__doc__)

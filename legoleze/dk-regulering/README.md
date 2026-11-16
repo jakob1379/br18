@@ -1,23 +1,23 @@
 # Dansk regulering: kortlægning til RAG
 
-**Kortlagt i dybden (registry):** byggeri · bolig · plan · energi · miljø · arbejdsmiljø · brand · el/gas/VVS. **Instanslag tilføjet i fase 7:** arbejdsmarked og ydelser · digitalisering og tele · erhvervsret · familie- og personret · finansiel regulering · fiskeri · fødevarer · forbruger og konkurrence · kirke og trossamfund · kultur og medier · landbrug og dyr · persondata · retspleje og domstole · skat og afgifter · social · søfart · strafferet og politi · sundhed · transport · udlændinge og integration · undervisning (353 noder; senest opdateret 2026-11-15). **Bredt (katalog):** hele Lovtidende A – 63473 love, lovbekendtgørelser, bekendtgørelser og anordninger, heraf 14078 gældende, og Retsinformations øvrige samlinger – 131080 cirkulærer, vejledninger, afgørelser, lovforslag m.m., heraf 89970 ikke markeret historiske. **Status pr. 2026-10-28** (katalogets dokumentstatus pr. 2026-11-12).
+**Kortlagt i dybden (registry):** byggeri · bolig · plan · energi · miljø · arbejdsmiljø · brand · el/gas/VVS. **Instanslag tilføjet i fase 7:** arbejdsmarked og ydelser · digitalisering og tele · erhvervsret · familie- og personret · finansiel regulering · fiskeri · fødevarer · forbruger og konkurrence · kirke og trossamfund · kultur og medier · landbrug og dyr · persondata · retspleje og domstole · skat og afgifter · social · søfart · strafferet og politi · sundhed · transport · udlændinge og integration · undervisning (356 noder; senest opdateret 2026-11-16). **Bredt (katalog):** hele Lovtidende A – 63473 love, lovbekendtgørelser, bekendtgørelser og anordninger, heraf 14078 gældende, og Retsinformations øvrige samlinger – 131080 cirkulærer, vejledninger, afgørelser, lovforslag m.m., heraf 89970 ikke markeret historiske. **Status pr. 2026-10-28** (katalogets dokumentstatus pr. 2026-11-12).
 
 Kortlægningen dækker myndigheder, retsakter, klage- og tilsynsveje, EU-retsakter og dokumentkilder. Den skal bruges til at bygge et krydsrefereret korpus (udvidelse af `jakob1379/br18`), hvor søgning kan følge hjemmelskæder fra lov til bekendtgørelse til vejledning til praksis. Der er **ikke** hentet dokumenter til korpusset; katalog-laget er metadata og krydsreferencer udledt af en offentlig bulk-høst.
 
 To lag:
 
 - **Registry** (`registry.yaml`): håndkurateret og verificeret graf over myndigheder, centrale retsakter, klage-/tilsynsveje, EU-retsakter og datakilder for de otte domæner.
-- **Katalog** (`katalog/`): én post pr. dokument hos Retsinformation. Lovtidende A (63473) er bygget fra bulk-høsten `Ansvar-Systems/danish-law-mcp` og ført ajour fra Retsinformations søgeeksport 2026-11-12; hver post har Lovtidende-nr., DocumentId, status, datoer, udstedende ministerium og, for gældende dokumenter, nuværende ressortministerium og retsområde. De øvrige samlinger (131080 dokumenter: administrative forskrifter og afgørelser, Ministerialtidende, Lovtidende B og C, Folketingets Ombudsmand og Folketingstidende) kommer direkte fra søgeeksporten og har kun metadata; 49413 af de 89970 ikke-historiske er koblet til den lovgivning, de vedrører, herunder 17842 dokumenter om lovforslag til de 5618 love, de blev til. 346202 kanter (`henviser_til`, `hjemmel_for`, `implementerer_EU`, `ressortansvar` og `udsteder`: 30300 afgørelser og udtalelser er koblet til den myndighed, Retsinformation fører dem under, når den er en instans i registry'et) og 1933 refererede EU-retsakter med CELEX. 413 registry-noder er koblet til deres katalogpost (`katalog_id` ↔ `registry_ids`). **Tekst:** Retsinformations XML er hentet for 3871 dokumenter (de dokumenter, registry'et peger på, og gældende dokumenter i de otte domæner; `katalog/tekst.jsonl` og `intermediate/corpus/xml/`); 1004 af dem har ingen tekst i XML-filen, kun metadata. 1813 `hjemmel_for`-kanter har derfra de bestemmelser i loven, forskriftens præambel nævner (`from_bestemmelse`).
+- **Katalog** (`katalog/`): én post pr. dokument hos Retsinformation. Lovtidende A (63473) er bygget fra bulk-høsten `Ansvar-Systems/danish-law-mcp` og ført ajour fra Retsinformations søgeeksport 2026-11-12; hver post har Lovtidende-nr., DocumentId, status, datoer, udstedende ministerium og, for gældende dokumenter, nuværende ressortministerium og retsområde. De øvrige samlinger (131080 dokumenter: administrative forskrifter og afgørelser, Ministerialtidende, Lovtidende B og C, Folketingets Ombudsmand og Folketingstidende) kommer direkte fra søgeeksporten og har kun metadata; 49413 af de 89970 ikke-historiske er koblet til den lovgivning, de vedrører, herunder 17842 dokumenter om lovforslag til de 5618 love, de blev til. 346328 kanter (`henviser_til`, `hjemmel_for`, `implementerer_EU`, `ressortansvar` og `udsteder`: 30302 afgørelser og udtalelser er koblet til den myndighed, Retsinformation fører dem under, når den er en instans i registry'et) og 1933 refererede EU-retsakter med CELEX. 413 registry-noder er koblet til deres katalogpost (`katalog_id` ↔ `registry_ids`). **Tekst:** Retsinformations XML er hentet for 3871 dokumenter (de dokumenter, registry'et peger på, og gældende dokumenter i de otte domæner; `katalog/tekst.jsonl` og `intermediate/corpus/xml/`); 1004 af dem har ingen tekst i XML-filen, kun metadata. 1813 `hjemmel_for`-kanter har derfra de bestemmelser i loven, forskriftens præambel nævner (`from_bestemmelse`).
 
 | Fil | Indhold |
 |-----|---------|
-| [`registry.yaml`](registry.yaml) | **Sandheden.** Indeholder meta, regering, ressortomlægninger, uafklarede konflikter, 968 noder, 2161 kanter og 364 huller. |
+| [`registry.yaml`](registry.yaml) | **Sandheden.** Indeholder meta, regering, ressortomlægninger, uafklarede konflikter, 971 noder, 2168 kanter og 366 huller. |
 | [`diagrammer/oversigt.md`](diagrammer/oversigt.md) | Mermaid-overblik over ministerier og instanser, med ét diagram pr. ministerområde (21 aktive ministerier plus nedlagte/omdøbte). |
 | [`datakilder.md`](datakilder.md) | Datakilder sorteret efter ingest-prioritet (værdi ÷ besvær) i tre tabeller: portaler/databaser, udstedende instanser og retsakter/samlinger. |
 | [`huller.md`](huller.md) | Betalingsmur, kun PDF, intet API, uklare forhold og ikke-fundne kilder. |
 | [`katalog/retsinformation_lta.jsonl`](katalog/retsinformation_lta.jsonl) | Katalog-laget: én JSON-linje pr. Lovtidende A-dokument (63473). |
 | [`katalog/retsinformation_retsinfo.jsonl`](katalog/retsinformation_retsinfo.jsonl) m.fl. | De øvrige samlinger, én fil pr. samling (`retsinfo`, `mt`, `ltb`, `ltc`, `fob`, `ft`): 131080 cirkulærer, vejledninger, afgørelser, traktatbekendtgørelser, ombudsmandsudtalelser, lovforslag og betænkninger. |
-| [`katalog/kanter.jsonl`](katalog/kanter.jsonl) | 346202 kanter fra katalog-dokumenter (kun de tilladte kanttyper). |
+| [`katalog/kanter.jsonl`](katalog/kanter.jsonl) | 346328 kanter fra katalog-dokumenter (kun de tilladte kanttyper). |
 | [`katalog/tekst.jsonl`](katalog/tekst.jsonl) | Tekstlagets indeks: én linje pr. dokument, hvis XML er hentet fra Retsinformation (3871), med sti til XML-filen, hentedato, omfang, præambel, fodnoter, underskriftssted og EU-retsakter. |
 | [`katalog/eu_index.jsonl`](katalog/eu_index.jsonl) | 1933 EU-retsakter nævnt i dansk lovtekst, med CELEX og antal danske dokumenter. |
 | [`katalog/README.md`](katalog/README.md) | Genereret oversigt over katalog-laget (typer, ressort, retsområder, kanter, top EU-retsakter). |
@@ -124,7 +124,7 @@ Den fulde liste over ressortomlægninger med datoer og kilder står i `registry.
 
 ## Datamodel (`registry.yaml`)
 
-**Noder** (lov 209, bekendtgørelse 197, dokumentkilde 100, styrelse 71, eu-direktiv 70, nævn 36, privat-organisation 35, vejledning 35, eu-forordning 26, ministerium 25, klagenævn 23, råd 23 …) har disse felter:
+**Noder** (lov 209, bekendtgørelse 197, dokumentkilde 100, styrelse 71, eu-direktiv 70, nævn 37, privat-organisation 35, vejledning 35, eu-forordning 26, ministerium 25, klagenævn 24, råd 23 …) har disse felter:
 
 - `id`, `navn`, `type`, `ministerium` (et ministerie-id eller `ingen`), `status` (aktiv/nedlagt/omdøbt/ophævet) og `domaener`.
 - Påstandsfelter, hver med egne `kilder[]` og `sikkerhed`:
@@ -139,7 +139,7 @@ Den fulde liste over ressortomlægninger med datoer og kilder står i `registry.
 - `krydsref_moenstre[]` med typiske henvisningsmønstre i teksten, nyttige som regex ved ingest.
 - `ingest` (værdi og besvær 1-5), `note` og `baseline`.
 
-**Kanter** (hjemmel_for 661, ressortansvar 446, udsteder 306, henviser_til 263, implementerer_EU 252, klageinstans 125, tilsyn 90, delegation 18) har `from`, `type`, `to`, `beskrivelse`, `kilder[]`, `sikkerhed` og `domaener`. `from` er altid den aktive part:
+**Kanter** (hjemmel_for 664, ressortansvar 449, udsteder 306, henviser_til 263, implementerer_EU 252, klageinstans 126, tilsyn 90, delegation 18) har `from`, `type`, `to`, `beskrivelse`, `kilder[]`, `sikkerhed` og `domaener`. `from` er altid den aktive part:
 
 | Kanttype | Betydning |
 |----------|-----------|
@@ -184,7 +184,7 @@ Id'erne er stabile og kan bruges som nøgler i korpusset.
 
 ## Huller (oversigt)
 
-uklart: 189, ikke-fundet: 114, andet: 37, ingen-api: 12, kun-pdf: 7, betalingsmur: 5. De vigtigste er:
+uklart: 189, ikke-fundet: 116, andet: 37, ingen-api: 12, kun-pdf: 7, betalingsmur: 5. De vigtigste er:
 
 - **Standarder og domspraksis står bag betalingsmur.** Det gælder DS/EN og Eurocodes (dog er de danske nationale annekser gratis på bygningsreglementet.dk), UfR/Karnov, BUILD/SBi, Molio og DBI.
 - **Afgørelsesportaler mangler API.** Nævnenes Hus' portaler (MFKN, PKN, EKN, Byggeklageenheden), Arbejdsmiljøklagenævnets afgørelser og Domsdatabasen (API kræver ansøgning) mangler API, bulk eller indeks. Mange afgørelser findes kun som PDF.

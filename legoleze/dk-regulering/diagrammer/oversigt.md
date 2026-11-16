@@ -34,6 +34,8 @@ flowchart LR
     min_udlaendinge_og_integration["Udlændinge- og Integrationsministeriet"]:::ministerium
     min_undervisning["Undervisningsministeriet"]:::ministerium
     min_oekonomi_og_indenrigs["Økonomi- og Indenrigsministeriet"]:::ministerium
+    naevn_abortankenaevnet["Abortankenævnet"]:::klage
+    naevn_abortnaevnet["Abortnævnet"]:::klage
     sty_administrations_og_servicestyrelsen["Administrations- og Servicestyrelsen"]:::instans
     naevn_adoptionsnaevnet["Adoptionsnævnet"]:::klage
     naevn_ankenaevn_atp["Ankenævnet for Arbejdsmarkedets Tillægspension"]:::klage
@@ -52,6 +54,7 @@ flowchart LR
     sty_banedanmark["Banedanmark"]:::instans
     naevn_beboerklagenaevn["Beboerklagenævn (kommunale)"]:::klage
     sty_beredskabsstyrelsen["Beredskabsstyrelsen"]:::instans
+    tilsyn_bevismiddeltilsynet["Bevismiddeltilsynet (Det Uafhængige Tilsyn med Bevismidler)"]:::instans
     naevn_biblioteksafgiftsnaevnet["Biblioteksafgiftsnævnet"]:::klage
     tilsyn_biskopperne["Biskopperne"]:::instans
     sty_bolig_og_planstyrelsen["Bolig- og Planstyrelsen (nedlagt)"]:::nedlagt
@@ -364,6 +367,9 @@ flowchart LR
     min_kultur -.->|ressortansvar| naevn_ophavsretslicensnaevnet
     min_kultur -.->|ressortansvar| naevn_biblioteksafgiftsnaevnet
     min_kultur -.->|ressortansvar| raad_dansk_sprognaevn
+    min_sundhed_og_kirke -.->|ressortansvar| naevn_abortnaevnet
+    min_sundhed_og_kirke -.->|ressortansvar| naevn_abortankenaevnet
+    min_justits -.->|ressortansvar| tilsyn_bevismiddeltilsynet
 ```
 
 ## Ministerområder
