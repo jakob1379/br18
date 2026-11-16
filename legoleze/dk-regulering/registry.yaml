@@ -128,9 +128,11 @@ meta:
   - 'Klage og tilsyn pr. forskrift og lovenes tidslinjer (fra 2026-11-15): pipeline/corpus/tekst.py gemmer de sætninger i hvert hentet dokuments
     paragraffer, der har et klage- eller tilsynsudsagn (klage_tilsyn), og eksport.py læser dem mod registry''ets instansnavne (laeser): ''kan
     påklages til X'', ''kan indbringes for X'', ''klage til X'', ''ikke anden administrativ myndighed end X'' og ''X behandler klager'' giver
-    en klageinstans-kant fra X til dokumentet; ''X fører tilsyn'', ''X kan føre kontrol'', ''fører X tilsyn'' og ''tilsynet føres af X'' giver
-    en tilsyn-kant. ''Kan ikke påklages til X'', domstolene under ét, sager, tvister og spørgsmål, der indbringes, og ændringsdokumenter giver
-    ingen kant. tekst.py tidslinjer henter Retsinformations tidslinje (api/document/<id>/timeline) én gang pr. lov; eksport.py samler lovens hovedlov
+    en klageinstans-kant fra X til dokumentet med hver afgørende myndighed, sætningen nævner (''X''s afgørelser'', ''truffet af X eller af Y'');
+    ''X fører tilsyn'', ''X kan føre kontrol'', ''fører X tilsyn'', ''tilsynet føres af X'' og, fra 2026-11-16, ''X er tilsynsmyndighed'',
+    ''X''s kontrol (tilsyn) med'', ''X påser, at'' og ''X kontrollerer'' giver en tilsyn-kant; ''påser'' og ''kontrollerer'' kun, når sætningen
+    taler om at overholde eller efterleve noget eller om lovlighed. ''Styrelsens kontrol med'' er den styrelse, sætningen har nævnt før. ''Kan ikke påklages til X'', domstolene
+    under ét, sager, tvister og spørgsmål, der indbringes, og ændringsdokumenter giver ingen kant. tekst.py tidslinjer henter Retsinformations tidslinje (api/document/<id>/timeline) én gang pr. lov; eksport.py samler lovens hovedlov
     og lovbekendtgørelser efter den i stedet for efter titlen (familie_metode tidslinje), så en omdøbt lovs ældre versioner peger på den gældende.
     Ændringslove og andre hovedlove i tidslinjen er ikke versioner og bruges ikke.'
   - 'Evaluering (fra 2026-11-15): pipeline/corpus/eval.py trækker et tilfældigt udtag af gældende forskrifter og vejledninger, lader annotatorer
@@ -111089,12 +111091,21 @@ huller:
   - 'Lovfamilier kobles på titel: en ældre version af en lov kobles ikke altid til den gældende'
 - emne: Klage- og tilsynskanter pr. forskrift er læst mekanisk af dokumentets egen tekst og kun for tekstlagets udsnit
   type: andet
-  beskrivelse: 'Kataloget har 488 klageinstans-kanter og 431 tilsyn-kanter fra instans til lov eller forskrift (metode bestemmelse, sandsynlig),
+  beskrivelse: 'Kataloget har 490 klageinstans-kanter og 516 tilsyn-kanter fra instans til lov eller forskrift (metode bestemmelse, sandsynlig),
     læst med regulære udtryk af de hentede dokumenters paragraffer. I evalueringssættets runde 3, trukket efter at læseren var skrevet, var 23
     af 24 klageinstanser rigtige og ingen manglede; den myndighed, der træffer afgørelsen, stod på kanten i 12 af 14 tilfælde; for tilsyn var
-    15 af 15 rigtige, men 11 af facits 26 manglede, fordi læseren kun kender få formuleringer (''påser'', ''kontrollerer'', ''er tilsynsmyndighed''
-    og ''styrelsens kontrol med'' læses ikke). I et håndgennemsyn af 52 tilfældige klageinstans-kanter uden for evalueringssættet var 2 forkerte
-    (en sag, ikke en klage, blev indbragt for instansen); det mønster er siden udelukket. Tre forbehold: en instans uden node i registry''et giver
+    15 af 15 rigtige, men 11 af facits 26 manglede, fordi læseren kun kendte få formuleringer. Fra 2026-11-16 læses også ''påser, at'', ''kontrollerer'',
+    ''er tilsynsmyndighed'' og ''styrelsens kontrol med'' (JGA-134); runde 3 giver derefter 27 rigtige, 2 forkerte og 4 manglende tilsynsmyndigheder,
+    men runde 3 er nu brugt til at rette læseren. De 2 forkerte står i teksten (''Kommunalbestyrelsen eller regionsrådet er dog tilsynsmyndighed'',
+    ''Energinets tilsyn med overholdelse af forskrifterne''), men ikke i facit. Af de 80 nye tilsyn-kanter er alle gennemset i hånden: højst 3 er
+    forkerte (sagsbehandling, ikke tilsyn: ''påse, om betingelserne er opfyldt''); før ''påser'' og ''kontrollerer'' blev begrænset til sætninger om
+    at overholde noget, var 18 af 50 tilfældige nye kanter forkerte. I et håndgennemsyn af 52 tilfældige klageinstans-kanter uden for evalueringssættet var 2 forkerte
+    (en sag, ikke en klage, blev indbragt for instansen); det mønster er siden udelukket. Læseren gemmer alle afgørende myndigheder i sætningen
+    (''truffet af ministeren eller af Forsyningstilsynet''), men kun den første i en opregning med komma. ''Kirkeministeren'' er Sundheds- og
+    Kirkeministeriet, der har kirkeområdet i dag, og ''Direktoratet for Kriminalforsorgen'' er Danmarks Fængsler. Titlen på et nedlagt ministerium,
+    hvis område er delt (''by-, land- og kirkeministeren'', ''indenrigs- og boligministeren''), peger stadig på det nedlagte ministerium, og ''Trafik-
+    og Byggestyrelsen'' læses ikke, fordi det er tidligere navn for både Trafikstyrelsen og Trafik-, Bygge- og Boligstyrelsen, og hvilken der menes,
+    afhænger af området. Tre forbehold: en instans uden node i registry''et giver
     ingen kant (''ankenævnet'', ''det i henhold til … nedsatte ankenævn''; ministerens titel læses siden 2026-11-16 som ministeriet, og fortegnelsen over
     navne uden node står i raw/populate/2026-11-16-unavngivne.tsv); kanten gengiver dokumentets tekst, som den er udstedt, så byggeloven
     i LBK nr. 1178 af 2016 stadig peger på statsforvaltningen, selv om klageadgangen er flyttet ved en senere ændringslov; og uden for tekstlagets
@@ -111102,7 +111113,7 @@ huller:
     ikke som klageinstans-kant mellem de to instanser i registry''et; tre med to uafhængige dokumenter bag er lagt ind 2026-11-15 (Energiklagenævnet
     over Arbejdstilsynet på offshoreområdet, Forsyningstilsynet over Energinet, Ankestyrelsen over Familieretshuset), resten er ikke gennemgået,
     og flere af dem navngiver en forkert afgørende myndighed eller en nedlagt instans. Efter at ministerens titel læses som ministeriet,
-    er der 47 sådanne par.'
+    er der 47 sådanne par, og 50, efter at læseren gemmer alle afgørende myndigheder.'
   noder:
   - kilde-retsinformation
   - naevn-energiklagenaevnet

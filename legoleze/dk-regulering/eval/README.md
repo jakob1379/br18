@@ -51,7 +51,7 @@ Led i facit: hjemmel 304, eu 128, klage 76, tilsyn 103, henviser 118. Frafaldet 
 | EU-retsakter i XML-metadata (ikke brugt til kanter) | 27 | 5 | 1 | 84 % | 96 % |
 | klageinstans pr. forskrift | 14 | 0 | 0 | 100 % | 100 % |
 | afgørende myndighed på klagekanten | 7 | 0 | 3 | 100 % | 70 % |
-| tilsynsmyndighed pr. forskrift | 7 | 0 | 1 | 100 % | 88 % |
+| tilsynsmyndighed pr. forskrift | 8 | 0 | 0 | 100 % | 100 % |
 | tilsynsmyndighed er en node | 11 | 0 | 1 | 100 % | 92 % |
 | klageinstans er en node | 16 | 0 | 1 | 100 % | 94 % |
 | klagekant mellem de to noder | 6 | 0 | 5 | 100 % | 55 % |
@@ -81,7 +81,7 @@ Led i facit: hjemmel 304, eu 128, klage 76, tilsyn 103, henviser 118. Frafaldet 
 | EU-retsakter i XML-metadata (ikke brugt til kanter) | 55 | 4 | 8 | 93 % | 87 % |
 | klageinstans pr. forskrift | 24 | 0 | 1 | 100 % | 96 % |
 | afgørende myndighed på klagekanten | 14 | 1 | 5 | 93 % | 74 % |
-| tilsynsmyndighed pr. forskrift | 23 | 0 | 8 | 100 % | 74 % |
+| tilsynsmyndighed pr. forskrift | 27 | 2 | 4 | 93 % | 87 % |
 | bestemmelser (paragrafnummer) | 173 | 0 | 4 | 100 % | 98 % |
 | tilsynsmyndighed er en node | 52 | 0 | 6 | 100 % | 90 % |
 | klageinstans er en node | 34 | 0 | 1 | 100 % | 97 % |

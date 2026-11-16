@@ -225,7 +225,8 @@ def myndigheder(reg: dict) -> dict:
 ALIAS = {"kommunalbestyrelsen": "kommune-alle", "kommunen": "kommune-alle", "kommunalbestyrelserne": "kommune-alle", "regionsrådet": "region-alle",
          "rigspolitichefen": "sty-rigspolitiet", "biskoppen": "tilsyn-biskopperne", "socialtilsynet": "tilsyn-socialtilsynene",
          "ankestyrelsens beskæftigelsesudvalg": "sty-ankestyrelsen", "taksationsmyndighederne": "naevn-taksationsmyndighederne",
-         "overtaksationskommissionen": "naevn-taksationsmyndighederne"}
+         "overtaksationskommissionen": "naevn-taksationsmyndighederne", "kirkeministeren": "min-sundhed-og-kirke",
+         "direktoratet for kriminalforsorgen": "sty-danmarks-faengsler"}
 SAETNING = re.compile(r"(?<=[.;])\s+(?=[A-ZÆØÅ])")
 KLAGE = re.compile(r"(?:\b(?:påklages?|klages|indbringes?|anke[sr]?)\b(?P<m>[^.;]{0,160}?)\b(?:til|for)|\bklager? til)\s+(?P<end>(?:en\s+)?anden administrativ myndighed end\s+)?",
                    re.IGNORECASE)
@@ -233,7 +234,10 @@ SAG = re.compile(r"\b(?:sag(?:en|er|erne)?|tvist(?:en|er|erne)?|spørgsmål(?:et
 BEHANDLER = re.compile(r"\s+(?:behandler|afgør|træffer afgørelse (?:i|om)) klager\b", re.IGNORECASE)
 TILSYN = re.compile(r"\b(?:(?:kan|skal)\s+)?(?:fører?|udøver|varetager)\s+(?P<m>(?:[\w,-]+\s+){0,7}?)(?:tilsyn|kontrol)(?:et|len)?\b", re.IGNORECASE)
 TILSYN_AF = re.compile(r"\b(?:tilsyn|kontrol)(?:et|len)?\b[^.;]{0,120}?\b(?:føres|udøves|varetages|foretages|udføres)\s+af\s+", re.IGNORECASE)
-LED = (KLAGE, BEHANDLER, TILSYN, TILSYN_AF)
+KONTROL = re.compile(r"\b(?:(?:kan|skal)\s+)?(?:(?:påser?|kontrollerer?)(?=.*?\b(?:overhold|efterlev|lovlig))|er\s+(?:\w+\s+){0,2}?tilsynsmyndighed(?:en)?)\b|(?<=s)\s+(?:tilsyn|kontrol)\s+med\b",
+                     re.IGNORECASE)
+LED = (KLAGE, BEHANDLER, TILSYN, TILSYN_AF, KONTROL)
+TILBAGE = {"styrelsens": "sty-", "nævnets": "naevn-", "tilsynets": "tilsyn-"}
 
 
 FORLED = {"den", "det", "de", "en", "et", "anden", "andre", "vedkommende", "pågældende", "kompetente", "relevante", "overordnede"}
@@ -260,8 +264,11 @@ def laeser(reg: dict):
     """(klager, tilsyn, ukendte): tre funktioner, der læser én sætning mod registry'ets instansnavne (myndigheder, med ALIAS og genitiv-s).
     klager(sætning) giver [(klageinstans, afgørende myndighed eller None)] for "kan påklages til X", "kan indbringes for X", "klage til X",
     "ikke … anden administrativ myndighed end X" og "X behandler klager"; ikke for "kan ikke påklages til X", ikke for domstolene under ét, ikke når
-    det er en sag eller en tvist, der indbringes, og ikke for en sætning, der opregner andre forskrifter. Den afgørende myndighed er en instans i samme sætning i formen "X's afgørelser"
-    eller "truffet af X". tilsyn(sætning) giver instanserne i "X fører tilsyn", "X kan føre kontrol", "fører X tilsyn" og "tilsynet føres af X".
+    det er en sag eller en tvist, der indbringes, og ikke for en sætning, der opregner andre forskrifter. De afgørende myndigheder er instanserne i samme sætning i formen "X's afgørelser"
+    eller "truffet af X", og en instans, der står lige efter en af dem med "og" eller "eller"; én tupel pr. afgørende myndighed. tilsyn(sætning) giver instanserne i "X fører tilsyn",
+    "X kan føre kontrol", "fører X tilsyn", "tilsynet føres af X", "X påser, at", "X kontrollerer", "kontrollerer X" (efter et komma
+    eller uden instans foran), "X er tilsynsmyndighed" og "X's kontrol (tilsyn) med", hvor "styrelsens", "nævnets" og "tilsynets" er den sidste
+    styrelse, det sidste nævn eller tilsyn, sætningen har nævnt før; "påser" og "kontrollerer" kun, når sætningen taler om at overholde eller efterleve noget, eller om lovlighed.
     ukendte(sætning) giver navnet (frase) de steder, hvor klager eller tilsyn venter en instans, men ikke finder én i registry'et."""
     navne = {**{k: v[0] for k, v in myndigheder(reg).items()}, **ALIAS}
     laengde = max(len(k.split()) for k in navne)
@@ -275,6 +282,13 @@ def laeser(reg: dict):
 
     def sidst(tekst: str) -> str | None:
         w = P.norm(tekst).split()
+        if w and w[-1] in TILBAGE:
+            ud, i = None, 0
+            while i < len(w) - 1:
+                node, n, _ = ved(w, i)
+                ud = node if node and node.startswith(TILBAGE[w[-1]]) else ud
+                i += n or 1
+            return ud
         return next((ved(w, i)[0] for i in range(max(0, len(w) - laengde), len(w)) if ved(w, i)[1] == len(w) - i), None)
 
     def foerst(tekst: str) -> str | None:
@@ -283,26 +297,31 @@ def laeser(reg: dict):
     def navn(tekst: str, bagfra: bool) -> str | None:
         return sidst(tekst) if bagfra else foerst(tekst)
 
-    def afgoerer(saetning: str, til: str) -> str | None:
-        w = P.norm(saetning).split()
-        for i in range(len(w)):
+    def afgoerer(saetning: str, til: str) -> list[str]:
+        w, ud, i, slut = P.norm(saetning).split(), [], 0, -1
+        while i < len(w):
             node, n, genitiv = ved(w, i)
-            if node and node != til and ((genitiv and any(x.startswith("afgørelse") for x in w[i + n:i + n + 4]))
+            if node and node != til and ((genitiv and any(x.startswith("afgørelse") for x in w[i + n:i + n + 4])) or (ud and w[slut:i] in (["og"], ["eller"], ["og", "af"], ["eller", "af"]))
                                          or w[max(0, i - 2):i] in (["truffet", "af"], ["afgørelser", "af"], ["afgørelse", "af"], ["meddelt", "af"])):
-                return node
-        return None
+                ud.append(node)
+                slut = i + n
+            i += n or 1
+        return list(dict.fromkeys(ud))
 
     def steder(saetning: str) -> tuple[list[tuple[str, bool]], list[tuple[str, bool]]]:
-        klage = [] if re.match(r"(?:Bekendtgørelse|Lov|Lovbekendtgørelse) nr\.", saetning) else [
+        ophaever = re.match(r"(?:Bekendtgørelse|Lov|Lovbekendtgørelse) nr\.", saetning)
+        klage = [] if ophaever else [
             *((saetning[m.end():], False) for m in KLAGE.finditer(saetning)
               if m["end"] or not (re.search(r"\bikke\b[^,]{0,40}$", saetning[:m.start()]) or re.search(r"\bikke\b", m["m"] or "") or SAG.search(saetning[:m.end()]))),
             *((saetning[:m.start()], True) for m in BEHANDLER.finditer(saetning))]
         tils = [(m["m"], False) if len(m["m"].split()) > 2 or foerst(m["m"]) else (saetning[:m.start()], True) for m in TILSYN.finditer(saetning)]
-        return klage, tils + [(saetning[m.end():], False) for m in TILSYN_AF.finditer(saetning)]
+        paa = [(saetning[m.end():], False) if m[0].lower().endswith(("påse", "påser", "kontrollere", "kontrollerer")) and (saetning[:m.start()].rstrip().endswith(",")
+               or not sidst(saetning[:m.start()]) and foerst(saetning[m.end():])) else (saetning[:m.start()], True) for m in KONTROL.finditer(saetning) if not ophaever]
+        return klage, tils + [(saetning[m.end():], False) for m in TILSYN_AF.finditer(saetning)] + paa
 
     def klager(saetning: str) -> list[tuple[str, str | None]]:
         til = [navn(*x) for x in steder(saetning)[0]]
-        return [(t, afgoerer(saetning, t)) for t in dict.fromkeys(til) if t and t != "dom-domstolene"]
+        return [(t, a) for t in dict.fromkeys(til) if t and t != "dom-domstolene" for a in afgoerer(saetning, t) or [None]]
 
     def tilsyn(saetning: str) -> list[str]:
         return [x for x in dict.fromkeys(navn(*x) for x in steder(saetning)[1]) if x]
@@ -786,11 +805,24 @@ def selftest() -> None:
                              ("Frugtklagenævnet behandler klager over afgørelser truffet af kommunalbestyrelsen.", [("naevn-frugt", "kommune-alle")]),
                              ("Klage til Frugtklagenævnet over kommunalbestyrelsens afgørelser indgives skriftligt.", [("naevn-frugt", "kommune-alle")]),
                              ("Klagen sendes til Æblestyrelsen.", []), ("Kommunalbestyrelsen skal indbringe en sag for Frugtklagenævnet.", []), ("Afgørelsen kan indbringes for domstolene.", []),
-                             ("Bekendtgørelse nr. 3 af 2. maj 2017 om klage til Frugtklagenævnet ophæves.", [])):
+                             ("Bekendtgørelse nr. 3 af 2. maj 2017 om klage til Frugtklagenævnet ophæves.", []),
+                             ("Frugtklagenævnet behandler klager over afgørelser truffet af kommunalbestyrelsen eller af Æblestyrelsen.", [("naevn-frugt", "kommune-alle"), ("naevn-frugt", "sty-aeble")]),
+                             ("Kommunalbestyrelsens og Æblestyrelsens afgørelser kan ikke indbringes for anden administrativ myndighed end Frugtklagenævnet.",
+                              [("naevn-frugt", "kommune-alle"), ("naevn-frugt", "sty-aeble")]),
+                             ("Afgørelser truffet af Æblestyrelsen eller kommunalbestyrelsen kan påklages til Frugtklagenævnet.", [("naevn-frugt", "sty-aeble"), ("naevn-frugt", "kommune-alle")])):
         assert klager(saetning) == ventet, (saetning, klager(saetning))
     for saetning, ventet in (("Æblestyrelsen fører tilsyn med, at reglerne overholdes.", ["sty-aeble"]), ("I disse sager fører kommunalbestyrelsen tilsyn med anlægget.", ["kommune-alle"]),
                              ("Tilsynet med overholdelsen føres af Æblestyrelsen.", ["sty-aeble"]), ("Æblestyrelsen varetager tilsynet.", ["sty-aeble"]),
-                             ("Virksomheder under tilsyn af Æblestyrelsen skal indberette.", []), ("Den, der fører tilsyn, skal have adgang.", []), ("Æblestyrelsen kan føre kontrol og tilsyn med frugten.", ["sty-aeble"])):
+                             ("Virksomheder under tilsyn af Æblestyrelsen skal indberette.", []), ("Den, der fører tilsyn, skal have adgang.", []), ("Æblestyrelsen kan føre kontrol og tilsyn med frugten.", ["sty-aeble"]),
+                             ("Æblestyrelsen påser, at reglerne overholdes.", ["sty-aeble"]), ("Æblestyrelsen kontrollerer, at kravet overholdes.", ["sty-aeble"]),
+                             ("Ved syn kontrollerer Æblestyrelsen, at kravene overholdes.", ["sty-aeble"]), ("Æblestyrelsen påser, at ansøgningen indeholder oplysningerne.", []),
+                             ("Æblestyrelsen påser, at betingelserne for tilskud er opfyldt.", []), ("Bekendtgørelse nr. 3 af 2. maj 2017 om Æblestyrelsens tilsyn med frugt ophæves.", []),
+                             ("Når en afgørelse er indbragt for Frugtklagenævnet, påser Æblestyrelsen, at fristen overholdes.", ["sty-aeble"]), ("Enhver, der ejer eller kontrollerer virksomheden, skal oplyse det.", []),
+                             ("Æblestyrelsen er dog tilsynsmyndighed for frugtplantager.", ["sty-aeble"]),
+                             ("Modtageren skal give de oplysninger, der har betydning for Æblestyrelsens kontrol med, at vilkårene overholdes.", ["sty-aeble"]),
+                             ("Æblestyrelsens tilsyn med plantagerne sker ved stikprøver.", ["sty-aeble"]),
+                             ("Avleren skal efter anmodning fra Æblestyrelsen give de oplysninger, der har betydning for styrelsens kontrol med, at vilkårene overholdes.", ["sty-aeble"]),
+                             ("Kommunalbestyrelsen skal give de oplysninger, der har betydning for styrelsens kontrol med, at vilkårene overholdes.", []), ("Avlerens kontrol med egen frugt dokumenteres.", [])):
         assert tilsyn(saetning) == ventet, (saetning, tilsyn(saetning))
     klager, tilsyn, ukendte = laeser({"nodes": [{"id": "naevn-frugt", "type": "nævn", "navn": "Frugtklagenævnet"}, {"id": "min-ae", "type": "ministerium", "navn": "Æbleministeriet",
                                                 "tidligere_navne": [{"navn": "Frugt- og Bærministeriet"}]}, {"id": "min-p", "type": "ministerium", "navn": "Ministeriet for Pærer"}]})
@@ -802,6 +834,10 @@ def selftest() -> None:
         assert ukendte(saetning) == ventet, (saetning, ukendte(saetning))
     assert klager("Afgørelsen kan påklages til frugt- og bærministeren.") == [("min-ae", None)] and tilsyn("Ministeren for Pærer fører tilsyn.") == ["min-p"]
     assert klager("Æbleministerens afgørelser kan påklages til Frugtklagenævnet.") == [("naevn-frugt", "min-ae")]
+    to = laeser({"nodes": [{"id": "sty-ae-og-p", "type": "styrelse", "navn": "Æble- og Pærestyrelsen"}, {"id": "sty-p", "type": "styrelse", "navn": "Pærestyrelsen"}]})[1]
+    assert to("Avleren skal efter anmodning fra Æble- og Pærestyrelsen give oplysninger til styrelsens kontrol med, at vilkårene overholdes.") == ["sty-ae-og-p"]
+    kirke = {"nodes": [{"id": "min-by-land-og-kirke", "type": "ministerium", "navn": "By-, Land- og Kirkeministeriet", "status": "nedlagt", "tidligere_navne": [{"navn": "Kirkeministeriet"}]}]}
+    assert laeser(kirke)[1]("Kirkeministeren fører tilsyn med provstiudvalgene.") == ["min-sundhed-og-kirke"] and laeser(kirke)[1]("Direktoratet for Kriminalforsorgen fører tilsyn.") == ["sty-danmarks-faengsler"]
     assert klager("Klage til taksationsmyndighederne skal være indgivet inden 4 uger.") == [("naevn-taksationsmyndighederne", None)]
     assert klager("Regionsrådets afgørelser kan påklages til Frugtklagenævnet.") == [("naevn-frugt", "region-alle")]
     assert tilsyn("Tilsyn med menighedsrådenes funktion udøves af biskoppen.") == ["tilsyn-biskopperne"] and tilsyn("Rigspolitichefen fører tilsyn med politidirektørerne.") == ["sty-rigspolitiet"]
