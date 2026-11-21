@@ -132,7 +132,9 @@ meta:
     ''X fører tilsyn'', ''X kan føre kontrol'', ''fører X tilsyn'', ''tilsynet føres af X'' og, fra 2026-11-16, ''X er tilsynsmyndighed'', ''X''s
     kontrol (tilsyn) med'', ''X påser, at'' og ''X kontrollerer'' giver en tilsyn-kant; ''påser'' og ''kontrollerer'' kun, når sætningen taler
     om at overholde eller efterleve noget eller om lovlighed. ''Styrelsens kontrol med'' er den styrelse, sætningen har nævnt før. ''Kan ikke
-    påklages til X'', domstolene under ét, sager, tvister og spørgsmål, der indbringes, og ændringsdokumenter giver ingen kant. tekst.py tidslinjer
+    påklages til X'', domstolene under ét, sager, tvister og spørgsmål, der indbringes, og ændringsdokumenter giver ingen kant; fra 2026-11-21
+    (JGA-137) heller ikke en overgangsregel (''færdigbehandles''), en dom, der ankes til en domstol, eller ''til brug for X''s tilsyn med'', og
+    ''X''s afgørelseskompetence'' gør ikke X til afgørende myndighed. tekst.py tidslinjer
     henter Retsinformations tidslinje (api/document/<id>/timeline) én gang pr. lov; eksport.py samler lovens hovedlov og lovbekendtgørelser efter
     den i stedet for efter titlen (familie_metode tidslinje), så en omdøbt lovs ældre versioner peger på den gældende. Ændringslove og andre hovedlove
     i tidslinjen er ikke versioner og bruges ikke.'
@@ -175,6 +177,31 @@ meta:
     er koblet til loven på titel og underskriftsdato, ikke på en henvisning i loven, og kun hvor Retsinformation har den vedtagne tekst (fra 1998).
     Status er Retsinformations markering: et dokument kan stå som historisk, før ophævelsen har virkning (BEK nr. 1170 af 14/11/2024 blev markeret
     historisk 2026-11-04, men ophæves først 1. januar 2027).'
+  - 'Kendte fejl i læseren af klage- og tilsynsbestemmelser (eksport.laeser), fundet i stikprøven uden for de otte domæner (dk-regulering/eval/stikproeve-domme.jsonl,
+    2026-11-21; antal i stikprøven i parentes), i runde 4 (JGA-134) og i gennemsynet af klageparrene (JGA-135). De er ikke rettet, fordi en rettelse
+    ville være bred eller kunne fjerne rigtige kanter. Klageinstans: en bestemmelse, der afgrænser et klageorgans kompetence, læses som klagevej
+    (3; LBK nr. 1374 af 2013 § 4, ''Klager over de afgørelser, der træffes i medfør af § 1, stk. 1, skal indbringes for Erhvervsankenævnet'',
+    i nævnets egen lov; LBK nr. 537 af 2025 § 28 a, stk. 2, og BEK nr. 2424 af 2021 § 2 om kompetencen over for Ankenævnet for Bus, Tog og Metro);
+    klage over en privat virksomheds eller et massemedies afgørelse eller en tvist mellem private læses som klage over en myndigheds afgørelse
+    (4; LBK nr. 914 af 2014 § 34, ''Massemediets afgørelse kan … indbringes for Pressenævnet''; LBK nr. 464 af 2026 § 233 om markedspladsoperatørers
+    afgørelser; LBK nr. 524 af 2015 § 19 om forbrugeres klager over erhvervsdrivende); ministerens bemyndigelse til at fastsætte regler om klageadgang
+    læses som klagevej (2; LBK nr. 1298 af 2025, ''Ministeren kan … fastsætte regler om, at afgørelser … kan påklages til Direktoratet for Kriminalforsorgen'');
+    en frist- eller klageberettigelsesregel, der forudsætter en klage, læses som klagevej (2; LBK nr. 448 af 2025 § 6, ''Klage til Klagenævnet
+    for Udbud kan indgives af''; LBK nr. 1228 af 2025 § 48 om søgsmålsfrist efter klage til Folketingets Ombudsmand); klageinstansen tages fra
+    et andet sætningsled (2; BEK nr. 967 af 2023, ''afgørelser, der kan påklages til Landsskatteretten …, afgøres af Skatteankestyrelsen'';
+    LBK nr. 242 af 2026 § 19, ''adressater for socialtilsynets afgørelser''); en klagevej, som ''jf. dog'' lægger hos et andet organ (1; LBK nr.
+    975 af 2026 § 13, stk. 4 og 5); en erstatning, der indbringes, læses som klage (runde 4; LBK nr. 572 af 2024 § 46, ''indbringe erstatningsspørgsmålet
+    for taksationsmyndighederne''). Afgørende myndighed: den tages fra det forkerte sætningsled (LBK nr. 365 af 2025 § 11, stk. 5: told- og skatteforvaltningens
+    pålæg, ikke ministerens), og titlen på en tidligere minister peger på det ministerium, der har titlens andet område i dag (''social- og boligministeren''
+    om boliger læses som Socialministeriet, ''indenrigs- og sundhedsministeren'' i kommunestyrelsesloven som Sundheds- og Kirkeministeriet). Tilsyn:
+    omtale af et tilsyn efter anden lovgivning (1; BEK nr. 1249 af 2014 § 2, ''den lovgivning, som Forbrugerombudsmanden fører tilsyn med''; runde
+    4: BEK nr. 798 af 2017 § 1, ''finder anvendelse på Arbejdstilsynets tilsyn med''); tilsyn med en dømt eller en person under strafferetlige
+    vilkår (2; LBK nr. 201 af 2023 § 78 d, ''fører kriminalforsorgen tilsyn med den dømte''; LBK nr. 680 af 2026 § 16 a); kontrol som led i behandlingen
+    af en anmeldelse eller en udbetaling (2; BEK nr. 1089 af 2024 § 21, stk. 3, ''skal påse, at det anmeldte overholder''; LBK nr. 1228 af 2025
+    § 58 a om kontrol med udbetaling af omkostningsgodtgørelse); oplysninger, der videregives til et tilsyn efter en anden lov, uden ''til brug
+    for'' (BEK nr. 1486 af 2024 § 5, ''relevante for Styrelsen for Patientsikkerheds tilsyn''). Tilsyn, læseren ikke ser (runde 4): ''forestår
+    … kontrol'', ''gennemfører rutineinspektioner'', et subjekt, der ikke står lige før ''påser'', ''Ministeren'' uden titel og den anden instans
+    i en opregning.'
   - Ressortforhold ændrer sig ofte. Seneste kendte ændringer er regeringsdannelsen 2026-06-03 (BEK nr. 514 af 08/06/2026) og ministerskiftet 2026-10-27.
     Se 'ressortomlaegninger' og 'uafklarede_konflikter'.
   sikkerhed:
@@ -231,7 +258,14 @@ meta:
     20 rigtige, 1 forkert og 6 manglende. Registry''ets klageinstans-kanter mellem myndighederne (''klagekant mellem de to noder'') er målt igen
     2026-11-21, efter at 11 kanter fra klageparrene var lagt ind (raw/populate/2026-11-21-klagepar.*): runde 1 13 af 16, runde 2 7 af 11, runde
     3 15 af 20 og runde 4 17 af 20 (før 13 af 16, 6 af 11, 11 af 20 og 14 af 20); ingen forkerte. Kanterne er lagt ind efter katalogets par, så
-    tallet er til den pæne side. Annotatoren er en sprogmodel, ikke en jurist, og udtaget dækker kun dokumenter fra 2010 og frem i de otte domæner.'
+    tallet er til den pæne side. Annotatoren er en sprogmodel, ikke en jurist, og udtaget dækker kun dokumenter fra 2010 og frem i de otte domæner.
+    Uden for de otte domæner er katalogets klage- og tilsynskanter fra dokumenternes egne bestemmelser målt i en stikprøve (eval.py stikproeve,
+    frø 20261121, 2026-11-21): 100 klageinstans- og 100 tilsyn-kanter, hver dømt af uafhængige dommere mod den sætning, den er læst af, og de
+    forkerte og uafgjorte gennemset igen (10 domme ændret; stikproeve.jsonl og stikproeve-domme.jsonl). Målt på læseren før rettelserne efter
+    stikprøven: klageinstans 80 rigtige, 19 forkerte og 1, der ikke kan afgøres (præcision 81 %, n = 100); den afgørende myndighed er rigtig
+    på 39 af 40 kanter, der har en (98 %); tilsyn 92 rigtige og 8 forkerte (præcision 92 %, n = 100). Dommernes egne domme før gennemsynet giver
+    78 % og 90 %. Fejlene er sorteret i klasser i README.md; fire er rettet i læseren 2026-11-21 (se meta.metode), resten står i meta.begraensninger.
+    Rettelserne er lavet efter runde 4 og stikprøven, så begge er fra nu af data, læseren er rettet efter, og ikke uafhængige kontroller.'
 regering:
   navn: Regeringen Mette Frederiksen III
   dannet: '2026-06-03'
@@ -111241,7 +111275,7 @@ huller:
   - 'Lovfamilier kobles på titel: en ældre version af en lov kobles ikke altid til den gældende'
 - emne: Klage- og tilsynskanter pr. forskrift er læst mekanisk af dokumentets egen tekst og kun for tekstlagets udsnit
   type: andet
-  beskrivelse: 'Kataloget har 490 klageinstans-kanter og 516 tilsyn-kanter fra instans til lov eller forskrift (metode bestemmelse, sandsynlig),
+  beskrivelse: 'Kataloget har 483 klageinstans-kanter og 513 tilsyn-kanter fra instans til lov eller forskrift (metode bestemmelse, sandsynlig),
     læst med regulære udtryk af de hentede dokumenters paragraffer. I evalueringssættets runde 3, trukket efter at læseren var skrevet, var 23
     af 24 klageinstanser rigtige og ingen manglede; den myndighed, der træffer afgørelsen, stod på kanten i 12 af 14 tilfælde; for tilsyn var
     15 af 15 rigtige, men 11 af facits 26 manglede, fordi læseren kun kendte få formuleringer. Fra 2026-11-16 læses også ''påser, at'', ''kontrollerer'',
@@ -111276,7 +111310,13 @@ huller:
     over Konkurrence- og Forbrugerstyrelsen (§ 19 handler om forbrugeres klager over erhvervsdrivende), Landsskatteretten over klima-, energi-
     og forsyningsministeren (§ 11, stk. 5, handler om told- og skatteforvaltningens pålæg); ''social- og boligministeren'' læses som Socialministeriet
     og ''indenrigs- og sundhedsministeren'' som Sundheds- og Kirkeministeriet, selv om området nu ligger hos Børne-, Ældre- og Boligministeriet
-    og Økonomi- og Indenrigsministeriet.'
+    og Økonomi- og Indenrigsministeriet. Uden for de otte domæner er præcisionen målt i en stikprøve med fast frø (20261121, 2026-11-21, JGA-137):
+    klageinstans 80 rigtige og 19 forkerte af 100 (81 %; 1 kan ikke afgøres), afgørende myndighed rigtig på 39 af 40, tilsyn 92 rigtige og 8 forkerte
+    af 100 (92 %), målt før rettelserne (dk-regulering/eval/README.md). Fire fejlklasser er rettet i læseren (dom, der ankes til en domstol;
+    overgangsregel; ''til brug for X''s tilsyn med''; ''X''s afgørelseskompetence''): 7 klageinstans- og 3 tilsyn-kanter er fjernet, ingen tilføjet,
+    og én forkert afgørende myndighed er fjernet; de 7 af stikprøvens kanter, der forsvandt, var alle dømt forkerte. De øvrige fejlklasser står
+    i meta.begraensninger med eksempler. Det betyder, at omkring hver femte klageinstans-kant og hver tolvte tilsyn-kant uden for de otte domæner
+    må antages at være forkert, oftest fordi sætningen nævner klageorganet uden at give klageadgang over en myndigheds afgørelse efter dokumentet.'
   noder:
   - kilde-retsinformation
   - naevn-energiklagenaevnet

@@ -238,6 +238,9 @@ KONTROL = re.compile(r"\b(?:(?:kan|skal)\s+)?(?:(?:påser?|kontrollerer?)(?=.*?\
                      re.IGNORECASE)
 LED = (KLAGE, BEHANDLER, TILSYN, TILSYN_AF, KONTROL)
 TILBAGE = {"styrelsens": "sty-", "nævnets": "naevn-", "tilsynets": "tilsyn-"}
+AFGOERELSE = {"afgørelse", "afgørelsen", "afgørelser", "afgørelserne"}
+OVERGANG = re.compile(r"\bfærdigbehandles\b", re.IGNORECASE)
+TIL_BRUG = re.compile(r"\btil brug for\s+(?:[^\s,;]+\s+){0,5}[^\s,;]+$", re.IGNORECASE)
 
 
 FORLED = {"den", "det", "de", "en", "et", "anden", "andre", "vedkommende", "pågældende", "kompetente", "relevante", "overordnede"}
@@ -264,10 +267,11 @@ def laeser(reg: dict):
     """(klager, tilsyn, ukendte): tre funktioner, der læser én sætning mod registry'ets instansnavne (myndigheder, med ALIAS og genitiv-s).
     klager(sætning) giver [(klageinstans, afgørende myndighed eller None)] for "kan påklages til X", "kan indbringes for X", "klage til X",
     "ikke … anden administrativ myndighed end X" og "X behandler klager"; ikke for "kan ikke påklages til X", ikke for domstolene under ét, ikke når
-    det er en sag eller en tvist, der indbringes, og ikke for en sætning, der opregner andre forskrifter. De afgørende myndigheder er instanserne i samme sætning i formen "X's afgørelser"
+    det er en sag eller en tvist, der indbringes, ikke for en sætning, der opregner andre forskrifter, ikke i en overgangsregel ("færdigbehandles") og ikke for en dom, der ankes til
+    en domstol. De afgørende myndigheder er instanserne i samme sætning i formen "X's afgørelser" (ikke et sammensat ord som "X's afgørelseskompetence")
     eller "truffet af X", og en instans, der står lige efter en af dem med "og" eller "eller"; én tupel pr. afgørende myndighed. tilsyn(sætning) giver instanserne i "X fører tilsyn",
     "X kan føre kontrol", "fører X tilsyn", "tilsynet føres af X", "X påser, at", "X kontrollerer", "kontrollerer X" (efter et komma
-    eller uden instans foran), "X er tilsynsmyndighed" og "X's kontrol (tilsyn) med", hvor "styrelsens", "nævnets" og "tilsynets" er den sidste
+    eller uden instans foran), "X er tilsynsmyndighed" og "X's kontrol (tilsyn) med" (ikke "til brug for X's tilsyn med"), hvor "styrelsens", "nævnets" og "tilsynets" er den sidste
     styrelse, det sidste nævn eller tilsyn, sætningen har nævnt før; "påser" og "kontrollerer" kun, når sætningen taler om at overholde eller efterleve noget, eller om lovlighed.
     ukendte(sætning) giver navnet (frase) de steder, hvor klager eller tilsyn venter en instans, men ikke finder én i registry'et."""
     navne = {**{k: v[0] for k, v in myndigheder(reg).items()}, **ALIAS}
@@ -301,7 +305,7 @@ def laeser(reg: dict):
         w, ud, i, slut = P.norm(saetning).split(), [], 0, -1
         while i < len(w):
             node, n, genitiv = ved(w, i)
-            if node and node != til and ((genitiv and any(x.startswith("afgørelse") for x in w[i + n:i + n + 4])) or (ud and w[slut:i] in (["og"], ["eller"], ["og", "af"], ["eller", "af"]))
+            if node and node != til and ((genitiv and any(x in AFGOERELSE for x in w[i + n:i + n + 4])) or (ud and w[slut:i] in (["og"], ["eller"], ["og", "af"], ["eller", "af"]))
                                          or w[max(0, i - 2):i] in (["truffet", "af"], ["afgørelser", "af"], ["afgørelse", "af"], ["meddelt", "af"])):
                 ud.append(node)
                 slut = i + n
@@ -310,13 +314,15 @@ def laeser(reg: dict):
 
     def steder(saetning: str) -> tuple[list[tuple[str, bool]], list[tuple[str, bool]]]:
         ophaever = re.match(r"(?:Bekendtgørelse|Lov|Lovbekendtgørelse) nr\.", saetning)
-        klage = [] if ophaever else [
+        klage = [] if ophaever or OVERGANG.search(saetning) else [
             *((saetning[m.end():], False) for m in KLAGE.finditer(saetning)
-              if m["end"] or not (re.search(r"\bikke\b[^,]{0,40}$", saetning[:m.start()]) or re.search(r"\bikke\b", m["m"] or "") or SAG.search(saetning[:m.end()]))),
+              if (m["end"] or not (re.search(r"\bikke\b[^,]{0,40}$", saetning[:m.start()]) or re.search(r"\bikke\b", m["m"] or "") or SAG.search(saetning[:m.end()])))
+              and not (m[0][:4].lower() == "anke" and (foerst(saetning[m.end():]) or "").startswith("dom-"))),
             *((saetning[:m.start()], True) for m in BEHANDLER.finditer(saetning))]
         tils = [(m["m"], False) if len(m["m"].split()) > 2 or foerst(m["m"]) else (saetning[:m.start()], True) for m in TILSYN.finditer(saetning)]
         paa = [(saetning[m.end():], False) if m[0].lower().endswith(("påse", "påser", "kontrollere", "kontrollerer")) and (saetning[:m.start()].rstrip().endswith(",")
-               or not sidst(saetning[:m.start()]) and foerst(saetning[m.end():])) else (saetning[:m.start()], True) for m in KONTROL.finditer(saetning) if not ophaever]
+               or not sidst(saetning[:m.start()]) and foerst(saetning[m.end():])) else (saetning[:m.start()], True) for m in KONTROL.finditer(saetning)
+               if not (ophaever or re.fullmatch(r"\s+(?:tilsyn|kontrol)\s+med", m[0], re.IGNORECASE) and TIL_BRUG.search(saetning[:m.start()]))]
         return klage, tils + [(saetning[m.end():], False) for m in TILSYN_AF.finditer(saetning)] + paa
 
     def klager(saetning: str) -> list[tuple[str, str | None]]:
@@ -809,7 +815,9 @@ def selftest() -> None:
                              ("Frugtklagenævnet behandler klager over afgørelser truffet af kommunalbestyrelsen eller af Æblestyrelsen.", [("naevn-frugt", "kommune-alle"), ("naevn-frugt", "sty-aeble")]),
                              ("Kommunalbestyrelsens og Æblestyrelsens afgørelser kan ikke indbringes for anden administrativ myndighed end Frugtklagenævnet.",
                               [("naevn-frugt", "kommune-alle"), ("naevn-frugt", "sty-aeble")]),
-                             ("Afgørelser truffet af Æblestyrelsen eller kommunalbestyrelsen kan påklages til Frugtklagenævnet.", [("naevn-frugt", "sty-aeble"), ("naevn-frugt", "kommune-alle")])):
+                             ("Afgørelser truffet af Æblestyrelsen eller kommunalbestyrelsen kan påklages til Frugtklagenævnet.", [("naevn-frugt", "sty-aeble"), ("naevn-frugt", "kommune-alle")]),
+                             ("Frugtklagenævnet behandler klager over frugt, der falder uden for Æblestyrelsens afgørelseskompetence.", [("naevn-frugt", None)]),
+                             ("Klager over afgørelser truffet før den 1. januar 2007, som indbringes for Frugtklagenævnet, færdigbehandles efter de hidtil gældende regler.", [])):
         assert klager(saetning) == ventet, (saetning, klager(saetning))
     for saetning, ventet in (("Æblestyrelsen fører tilsyn med, at reglerne overholdes.", ["sty-aeble"]), ("I disse sager fører kommunalbestyrelsen tilsyn med anlægget.", ["kommune-alle"]),
                              ("Tilsynet med overholdelsen føres af Æblestyrelsen.", ["sty-aeble"]), ("Æblestyrelsen varetager tilsynet.", ["sty-aeble"]),
@@ -822,7 +830,8 @@ def selftest() -> None:
                              ("Modtageren skal give de oplysninger, der har betydning for Æblestyrelsens kontrol med, at vilkårene overholdes.", ["sty-aeble"]),
                              ("Æblestyrelsens tilsyn med plantagerne sker ved stikprøver.", ["sty-aeble"]),
                              ("Avleren skal efter anmodning fra Æblestyrelsen give de oplysninger, der har betydning for styrelsens kontrol med, at vilkårene overholdes.", ["sty-aeble"]),
-                             ("Kommunalbestyrelsen skal give de oplysninger, der har betydning for styrelsens kontrol med, at vilkårene overholdes.", []), ("Avlerens kontrol med egen frugt dokumenteres.", [])):
+                             ("Kommunalbestyrelsen skal give de oplysninger, der har betydning for styrelsens kontrol med, at vilkårene overholdes.", []), ("Avlerens kontrol med egen frugt dokumenteres.", []),
+                             ("Afgørelsen sendes desuden til Æblestyrelsen til brug for Æblestyrelsens tilsyn med frugt efter frugtloven.", [])):
         assert tilsyn(saetning) == ventet, (saetning, tilsyn(saetning))
     klager, tilsyn, ukendte = laeser({"nodes": [{"id": "naevn-frugt", "type": "nævn", "navn": "Frugtklagenævnet"}, {"id": "min-ae", "type": "ministerium", "navn": "Æbleministeriet",
                                                 "tidligere_navne": [{"navn": "Frugt- og Bærministeriet"}]}, {"id": "min-p", "type": "ministerium", "navn": "Ministeriet for Pærer"}]})
@@ -836,6 +845,10 @@ def selftest() -> None:
     assert klager("Æbleministerens afgørelser kan påklages til Frugtklagenævnet.") == [("naevn-frugt", "min-ae")]
     to = laeser({"nodes": [{"id": "sty-ae-og-p", "type": "styrelse", "navn": "Æble- og Pærestyrelsen"}, {"id": "sty-p", "type": "styrelse", "navn": "Pærestyrelsen"}]})[1]
     assert to("Avleren skal efter anmodning fra Æble- og Pærestyrelsen give oplysninger til styrelsens kontrol med, at vilkårene overholdes.") == ["sty-ae-og-p"]
+    assert to("Sagen sendes til brug for Æble- og Pærestyrelsens tilsyn med frugt efter frugtloven.") == []
+    ret = laeser({"nodes": [{"id": "dom-hoejesteret", "type": "domstol", "navn": "Højesteret"}, {"id": "naevn-frugt", "type": "nævn", "navn": "Frugtklagenævnet"}]})[0]
+    assert ret("Dommen kan ankes til Højesteret.") == [] == ret("Fristen for ansøgning om tilladelse til anke til Højesteret er udløbet.")
+    assert ret("Klagerettens afgørelse kan indbringes for Højesteret efter reglerne om kære.") == [("dom-hoejesteret", None)] and ret("Afgørelsen kan ankes til Frugtklagenævnet.") == [("naevn-frugt", None)]
     kirke = {"nodes": [{"id": "min-by-land-og-kirke", "type": "ministerium", "navn": "By-, Land- og Kirkeministeriet", "status": "nedlagt", "tidligere_navne": [{"navn": "Kirkeministeriet"}]}]}
     assert laeser(kirke)[1]("Kirkeministeren fører tilsyn med provstiudvalgene.") == ["min-sundhed-og-kirke"] and laeser(kirke)[1]("Direktoratet for Kriminalforsorgen fører tilsyn.") == ["sty-danmarks-faengsler"]
     assert klager("Klage til taksationsmyndighederne skal være indgivet inden 4 uger.") == [("naevn-taksationsmyndighederne", None)]

@@ -3,7 +3,8 @@
 
     python3 eval.py udtag     # trækker de runder, der mangler -> intermediate/eval/udtag.json og én opgave pr. dokument i intermediate/eval/opgaver/<id>.txt
     python3 eval.py saml      # annotatorernes svar (raw/eval/svar-*.json) -> dk-regulering/eval/facit.jsonl, hvert led kontrolleret mod opgaven
-    python3 eval.py maal      # katalogets og registry'ets kanter mod facit -> dk-regulering/eval/README.md, intermediate/eval/afvigelser.jsonl, tal på stdout
+    python3 eval.py maal      # katalogets og registry'ets kanter mod facit og stikprøvens domme (stikproeve-domme.jsonl) -> dk-regulering/eval/README.md, intermediate/eval/afvigelser.jsonl, tal på stdout
+    python3 eval.py stikproeve  # klage- og tilsynskanter uden for de otte domæner -> dk-regulering/eval/stikproeve.jsonl (skrives kun, når filen mangler)
     python3 eval.py selftest
 
 Udtaget er pr. domæne (katalog.SCOPE over retsområdet) et antal gældende danske dokumenter med hentet tekst: hovedbekendtgørelser
@@ -21,6 +22,12 @@ maal tæller mikro-gennemsnit pr. runde. For vejledninger måles kun genfinding,
 er facit-dokumentets; kanter fra dokumenter uden for Lovtidende A (tekstanmærkninger til finansloven) tælles ikke, fordi facit kun har love,
 lovbekendtgørelser, bekendtgørelser og anordninger. Paragraffer sammenlignes på paragrafnummer ("§ 6"). Klage- og tilsynsmyndigheder slås
 op på navn i registry'et (eksport.myndigheder; ALIAS for kommunalbestyrelsen).
+
+stikproeve trækker med frøet i STIKPROEVE op til det antal klage- og tilsynskanter (metode bestemmelse) fra dokumenter uden for de otte
+domæner, hvor udtaget ikke kommer. Hvert led står alene: dokumentet, myndighedens og den afgørende myndigheds navn som i registry'et,
+sætningen kanten er læst fra og bestemmelsernes fulde tekst fra tekstlaget. Filen fryses, så domme over den ikke skifter grund.
+Dommene står i dk-regulering/eval/stikproeve-domme.jsonl (samme id pr. led; dommerens dom, sætning og grund uændret, gennemsynets dom i feltet
+gennemsyn); maal skriver præcisionen pr. kanttype og fejlklasserne (KLASSER) i README.md.
 """
 from __future__ import annotations
 
@@ -44,6 +51,7 @@ SOEG = re.compile(r"klage|indbring|\banke|tilsyn|\bkontrol|\bpåse", re.IGNORECA
 BEGYNDELSE, LOFT = 10000, 1500
 EU = {"direktiv": "dir", "forordning": "reg", "afgørelse": "dec", "beslutning": "dec"}
 FELTER = ("hjemmel", "eu", "klage", "tilsyn", "henviser")
+STIKPROEVE = (20261121, 100)
 
 
 def gruppe(d: dict, t: dict) -> str | None:
@@ -236,7 +244,86 @@ def celex(c: str) -> str | None:
     return E.K.eu_id(f"{ {'L': 'dir', 'R': 'reg', 'D': 'dec'}[m[2]] }:{m[1]}/{int(m[3])}")[0] if m else None
 
 
-def readme(tal: dict, facit: list[dict], foerste: dict | None = None) -> str:
+def stikproeve(kanter: list[dict], docs: dict, navne: dict, afsnit, n: int, froe: int) -> list[dict]:
+    """Op til n tilfældige klage- og n tilsynskanter fra dokumenternes egne bestemmelser i dokumenter uden for de otte domæner, hver med alt en bedømmer skal bruge."""
+    ud = []
+    for type_ in ("klageinstans", "tilsyn"):
+        pulje = sorted((k for k in kanter if k["type"] == type_ and k.get("metode") == E.BESTEMMELSE and not E.K.SCOPE.get(docs[k["to"]].get("retsomraade"))),
+                       key=lambda k: (k["to"], k["from"]))
+        for k in sorted(random.Random(froe).sample(pulje, min(n, len(pulje))), key=lambda k: (k["to"], k["from"])):
+            d, (_, aar, nr) = docs[k["to"]], k["to"].split("-")
+            tekst = {}
+            for p, t in afsnit(d["id"]):
+                tekst.setdefault(p, []).append(t)
+            assert all(p in tekst for p in k["to_bestemmelse"]), (k["to"], k["to_bestemmelse"])
+            ud.append({"id": f"{type_}|{k['to']}|{k['from']}", "type": type_, "dokument": {"id": d["id"], "type": d["type"], "nr": int(nr), "aar": int(aar), "titel": d["navn"]},
+                       "myndighed": navne[k["from"]], **({"afgoerelse_af": [navne[a] for a in k["afgoerelse_af"]]} if k.get("afgoerelse_af") else {}),
+                       "saetning": k["beskrivelse"], "bestemmelser": [{"bestemmelse": p, "tekst": "\n\n".join(tekst[p])} for p in k["to_bestemmelse"]]})
+    return ud
+
+
+KLASSER = {"kompetenceafgraensning": ("en bestemmelse, der afgrænser et klageorgans kompetence (i dets egen lov eller forretningsorden eller over for et andet organ), læst som klagevej", False),
+           "klage-over-privat": ("klage over en privat virksomheds eller et massemedies afgørelse eller en tvist mellem private læst som klage over en myndigheds afgørelse", False),
+           "domstolsanke": ("anke af en dom til en domstol læst som klagevej", True),
+           "bemyndigelse": ("ministerens bemyndigelse til at fastsætte regler om klageadgang læst som klagevej", False),
+           "overgangsregel": ("overgangsregel for verserende eller ældre klagesager (\"færdigbehandles\")", True),
+           "frist-eller-klageberettigelse": ("frist- eller klageberettigelsesregel, der forudsætter en klage, men ikke giver klageadgang over dokumentets afgørelser", False),
+           "forkert-saetningsled": ("klageinstansen taget fra et andet sætningsled (en relativsætning, \"adressater for X's afgørelser\")", False),
+           "undtagelse-jf-dog": ("klagevej, som \"jf. dog\" lægger hos et andet organ", False),
+           "afgoerelse-sammensat-ord": ("afgørende myndighed læst af et sammensat ord (\"X's afgørelseskompetence\")", True),
+           "til-brug-for-tilsyn": ("\"til brug for X's tilsyn med\": oplysninger videregives til et tilsyn efter en anden lov", True),
+           "henvisning-til-andet-tilsyn": ("omtale af et tilsyn efter anden lovgivning (\"den lovgivning, som X fører tilsyn med\")", False),
+           "tilsyn-med-person": ("tilsyn med en dømt eller en person under strafferetlige vilkår, ikke med at lovens regler overholdes", False),
+           "godkendelse-eller-udbetaling": ("kontrol som led i behandlingen af en anmeldelse eller en udbetaling", False)}
+
+
+def stikproevetal(domme: list[dict], findes: set | None = None) -> dict:
+    """Præcision pr. kanttype i stikprøven: gennemsynets dom, hvor der er en, ellers dommerens; findes er de kanter (id'er), kataloget har nu."""
+    egen = lambda d, k: d.get("gennemsyn", d)[k]
+    procent = lambda r, f: round(100 * r / (r + f)) if r + f else None
+    ud = {}
+    for type_ in ("klageinstans", "tilsyn"):
+        ds = [d for d in domme if d["id"].split("|")[0] == type_]
+        c, raa = collections.Counter(egen(d, "dom") for d in ds), collections.Counter(d["dom"] for d in ds)
+        t = {"n": len(ds), "rigtige": c["right"], "forkerte": c["wrong"], "kan ikke afgøres": c["cannot-tell"], "praecision": procent(c["right"], c["wrong"]),
+             "dommernes praecision": procent(raa["right"], raa["wrong"])}
+        if a := collections.Counter(egen(d, "afgoerelse") for d in ds if egen(d, "afgoerelse") != "none"):
+            t["afgørende myndighed"] = {"rigtige": a["right"], "forkerte": a["wrong"]}
+        if findes is not None:
+            rest = collections.Counter(egen(d, "dom") for d in ds if d["id"] in findes)
+            t["efter rettelser"] = {"n": sum(rest.values()), "rigtige": rest["right"], "forkerte": rest["wrong"], "praecision": procent(rest["right"], rest["wrong"])}
+        ud[type_] = t
+    ud["ændrede domme"] = sum(egen(d, "dom") != d["dom"] or egen(d, "afgoerelse") != d["afgoerelse"] for d in domme if "gennemsyn" in d)
+    ud["klasser"] = dict(collections.Counter(d["gennemsyn"]["klasse"] for d in domme if "klasse" in d.get("gennemsyn", {})
+                                             and "wrong" in (d["gennemsyn"]["dom"], d["gennemsyn"]["afgoerelse"])))
+    return ud
+
+
+def stikproeveafsnit(st: dict) -> list[str]:
+    n = sum(st[t]["n"] for t in ("klageinstans", "tilsyn"))
+    r = ["", "## Stikprøve uden for de otte domæner", "",
+         (f"`stikproeve.jsonl` har {n} kanter fra dokumenternes egne bestemmelser (metode `bestemmelse`) i dokumenter uden for de otte domæner, trukket med frø {STIKPROEVE[0]}"
+         f" ({STIKPROEVE[1]} pr. type). Uafhængige dommere har givet hver kant en dom (rigtig, forkert, kan ikke afgøres) med den sætning, dommen hviler på, i `stikproeve-domme.jsonl`;"
+         " de forkerte, de uafgjorte og dem med forkert afgørende myndighed er gennemset igen mod bestemmelsernes tekst, og gennemsynets dom står i feltet `gennemsyn` ved siden af dommerens."
+         f" {st['ændrede domme']} domme er ændret ved gennemsyn. Tallene er målt på læseren, som den var, da stikprøven blev trukket (2026-11-21), før rettelserne efter den."), "",
+         "| Kanttype | Kanter | Rigtige | Forkerte | Kan ikke afgøres | Præcision | Dommernes præcision | Afgørende myndighed rigtig |", "|---|---:|---:|---:|---:|---:|---:|---:|"]
+    for t in ("klageinstans", "tilsyn"):
+        v, a = st[t], st[t].get("afgørende myndighed")
+        afg = f"{a['rigtige']} af {a['rigtige'] + a['forkerte']} ({round(100 * a['rigtige'] / (a['rigtige'] + a['forkerte']))} %)" if a else "–"
+        r.append(f"| {t} | {v['n']} | {v['rigtige']} | {v['forkerte']} | {v['kan ikke afgøres']} | {v['praecision']} % | {v['dommernes praecision']} % | {afg} |")
+    r += ["", "Præcision er rigtige af rigtige plus forkerte; \"kan ikke afgøres\" tæller ikke med. Den afgørende myndighed er kun bedømt for de kanter, der har en.", "",
+          "| Fejlklasse | Kanter | Beskrivelse | Behandling |", "|---|---:|---|---|"]
+    r += [f"| {k} | {v} | {KLASSER[k][0]} | {'rettet i læseren' if KLASSER[k][1] else 'kendt grænse (registry meta)'} |"
+          for k, v in sorted(st["klasser"].items(), key=lambda x: (-x[1], x[0]))]
+    if "efter rettelser" in st["klageinstans"]:
+        r += ["", "Efter rettelserne i læseren findes " + " og ".join(
+            f"{v['efter rettelser']['n']} af stikprøvens {v['n']} {t}-kanter stadig i kataloget ({v['efter rettelser']['rigtige']} rigtige, {v['efter rettelser']['forkerte']} forkerte,"
+            f" præcision {v['efter rettelser']['praecision']} %)" for t, v in ((t, st[t]) for t in ("klageinstans", "tilsyn"))) + "."
+            " Rettelserne er lavet efter stikprøven, så dette tal er til den pæne side: stikprøven og runde 4 er fra nu af data, læseren er rettet efter, ikke uafhængige kontroller."]
+    return r
+
+
+def readme(tal: dict, facit: list[dict], foerste: dict | None = None, stik: dict | None = None) -> str:
     """tal: {runde: maal(...)[0]}; foerste: en kontrolrundes første måling, før noget blev rettet efter den."""
     antal = collections.Counter((f["domaene"], f["runde"]) for f in facit)
     domaener = sorted({d for d, _ in antal})
@@ -246,7 +333,7 @@ def readme(tal: dict, facit: list[dict], foerste: dict | None = None) -> str:
          "", "## Udtag", "", f"{len(facit)} gældende danske dokumenter med hentet tekst, trukket tilfældigt pr. domæne: hovedbekendtgørelser med og uden registry-node og vejledninger.",
          "Runde 1 er brugt til at finde og rette fejl i udtrækkene, så dens tal er til den pæne side. Runde 2 er trukket bagefter; dens første måling, før noget blev rettet efter den, står i `kontrol-2.json` og i tabellen nedenfor.",
          "Runde 3 er trukket, efter at læseren af klage- og tilsynsbestemmelser var skrevet, og har love og lovbekendtgørelser med i stedet for vejledninger; dens første måling står i `kontrol-3.json`.",
-         "Runde 4 har samme grupper som runde 3 og er trukket, efter at læseren var rettet efter runde 1-3 (\"påser\", \"kontrollerer\", \"er tilsynsmyndighed\", \"styrelsens kontrol med\"); dens første måling står i `kontrol-4.json`.", "",
+         "Runde 4 har samme grupper som runde 3 og er trukket, efter at læseren var rettet efter runde 1-3 (\"påser\", \"kontrollerer\", \"er tilsynsmyndighed\", \"styrelsens kontrol med\"); dens første måling står i `kontrol-4.json`. Læseren er siden rettet efter runde 4 og stikprøven nedenfor (2026-11-21), så runde 4 er nu også data, læseren er rettet efter.", "",
          "| Domæne | " + " | ".join(f"Runde {n}" for n in tal) + " |", "|---|" + "---:|" * len(tal)]
     r += [f"| {d} | " + " | ".join(str(antal[d, n]) for n in tal) + " |" for d in domaener]
     r += ["", "Led i facit: " + ", ".join(f"{k} {v}" for k, v in led.items()) + f". Frafaldet i kontrollen: {sum(f['frafald'] for f in facit)} led eller paragraffer."
@@ -258,11 +345,11 @@ def readme(tal: dict, facit: list[dict], foerste: dict | None = None) -> str:
         r += ["", f"### Runde {n} ({navn})", "", "| Mål | Rigtige | Forkerte | Mangler | Præcision | Genfinding |", "|---|---:|---:|---:|---:|---:|"]
         r += [f"| {m} | {v['rigtige']} | {'–' if v['forkerte'] is None else v['forkerte']} | {v['mangler']} | {pct(v['praecision'])} | {pct(v['genfinding'])} |" for m, v in maalt.items()]
     r += ["", "Rigtige og forkerte tæller katalogets eller registry'ets led, mangler tæller facit-led uden modstykke. Præcision er rigtige af rigtige plus forkerte, genfinding er andelen af facit-leddene, der har et modstykke. For vejledninger er kun genfinding målt.",
-          "", "## Forbehold", "",
+          *(stikproeveafsnit(stik) if stik else []), "", "## Forbehold", "",
           "- Annotatoren er en sprogmodel (Haiku), ikke en jurist. Hvert led er kontrolleret mekanisk: citatet står ordret i dokumentet, nummer og år står i citatet, og paragrafferne står i indledningen. At citatet betyder det, leddet siger, er kun set efter for de afvigelser, der står som rettet.",
           f"- Annotatoren ser indledning og fodnoter og, for forskrifter, de paragraffer, der indeholder et af ordene i `SOEG`; for vejledninger de første {BEGYNDELSE} tegn. En klagebestemmelse med andre ord, eller en henvisning længere nede i en vejledning, er ikke i facit.",
           "- Klage og tilsyn pr. forskrift måler katalogets kanter fra dokumentets egne bestemmelser (metode `bestemmelse`). En kant tæller kun med, når mindst én af dens paragraffer blev vist for annotatoren; kanter fra paragraffer uden et af ordene i `SOEG` (fx \"fører kontrol med\") kan facit ikke indeholde. Facit-led, hvis myndighed ikke er en node, tælles under \"er en node\" og ikke her.",
-          "- Læseren af klage- og tilsynsbestemmelser er rettet til efter afvigelserne i runde 1-3, så kun den første måling af runde 4 er en uafhængig kontrol af den.",
+          "- Læseren af klage- og tilsynsbestemmelser er rettet til efter afvigelserne i runde 1-3 og, 2026-11-21, efter runde 4 og stikprøven uden for de otte domæner. Den første måling af runde 4 (`kontrol-4.json`) og stikprøvens domme er målt før de rettelser og var de uafhængige kontroller; fra nu af er begge data, læseren er rettet efter, og en ny uafhængig måling kræver en ny runde eller stikprøve.",
           "- \"Klagekant mellem de to noder\" måler registry'ets kanter mellem myndigheder, ikke katalogets kanter til den enkelte forskrift.",
           "- En hjemmelskant til den gældende version af en omdøbt lov tæller som forkert, når kataloget ikke kobler den citerede version til den gældende. Fra 2026-11-15 kobles gældende loves versioner efter Retsinformations tidslinje; en lov, der er afløst af en ny hovedlov, kobles ikke til afløseren. Det samme gælder vejledningernes kanter, som Retsinformation fører under lovens gældende version.",
           "- Hjemmel i en tekstanmærkning til finansloven eller et aktstykke er ikke i facit og tælles ikke.",
@@ -317,6 +404,32 @@ def selftest() -> None:
     assert {"id": "lta-2020-9", "maal": "bestemmelser", "art": "facit uden kant", "led": "lta-2020-7: § 16 c"} in afv and "| hjemmel_for | 1 | 1 | 0 | 50 % | 100 % |" in readme({1: tal}, facit)
     assert f"| {VEJLEDNING} | 1 | – | 1 | – | 50 % |" in readme({1: tal}, facit) and "### Runde 1 (udvikling)" in readme({1: tal}, facit)
     assert "### Runde 2 (kontrol, første måling før rettelser efter runden)" in readme({1: tal, 2: tal}, facit, {2: tal})
+    docs = {f"lta-2020-{n}": {"id": f"lta-2020-{n}", "navn": f"Lov om pærer {n}", "type": "lovbekendtgørelse", "retsomraade": "skat"} for n in range(1, 5)}
+    docs["lta-2021-5"] = {"id": "lta-2021-5", "navn": "Bekendtgørelse om æbler", "type": "bekendtgørelse", "retsomraade": "byggeri"}
+    kant = lambda fra, type_, til, **x: {"from": fra, "type": type_, "to": til, "beskrivelse": "Sætningen.", "metode": E.BESTEMMELSE, "to_bestemmelse": ["§ 9"], **x}
+    kanter = [kant("naevn-frugt", "klageinstans", f"lta-2020-{n}", afgoerelse_af=["sty-aeble"]) for n in (1, 2, 3)] + [
+        kant("naevn-frugt", "klageinstans", "lta-2021-5"), {**kant("naevn-frugt", "klageinstans", "lta-2020-4"), "metode": E.METODE},
+        kant("sty-aeble", "tilsyn", "lta-2020-4", to_bestemmelse=["§ 2", "§ 9"])]
+    afsnit = {i: [("§ 2", "§ 2. Styrelsen fører tilsyn."), ("§ 9", "§ 9. Klage."), ("§ 9", "§ 9. Ny klage.")] for i in docs}.get
+    navne = {"naevn-frugt": "Frugtklagenævnet", "sty-aeble": "Æblestyrelsen"}
+    s = stikproeve(kanter, docs, navne, afsnit, 2, 7)
+    assert s == stikproeve(kanter[::-1], docs, navne, afsnit, 2, 7) and [x["type"] for x in s] == ["klageinstans", "klageinstans", "tilsyn"]
+    assert {x["dokument"]["id"] for x in s[:2]} < {"lta-2020-1", "lta-2020-2", "lta-2020-3"} and len({x["id"] for x in s}) == 3
+    assert len({tuple(x["id"] for x in stikproeve(kanter, docs, navne, afsnit, 2, f)) for f in range(20)}) > 1 and s[0]["afgoerelse_af"] == ["Æblestyrelsen"]
+    assert s[2] == {"id": "tilsyn|lta-2020-4|sty-aeble", "type": "tilsyn", "dokument": {"id": "lta-2020-4", "type": "lovbekendtgørelse", "nr": 4, "aar": 2020, "titel": "Lov om pærer 4"},
+                    "myndighed": "Æblestyrelsen", "saetning": "Sætningen.", "bestemmelser": [{"bestemmelse": "§ 2", "tekst": "§ 2. Styrelsen fører tilsyn."},
+                                                                                             {"bestemmelse": "§ 9", "tekst": "§ 9. Klage.\n\n§ 9. Ny klage."}]}
+    domme = [{"id": "klageinstans|a|x", "dom": "right", "afgoerelse": "right"}, {"id": "klageinstans|b|x", "dom": "wrong", "afgoerelse": "none"},
+             {"id": "klageinstans|c|x", "dom": "cannot-tell", "afgoerelse": "wrong", "gennemsyn": {"dom": "right", "afgoerelse": "wrong", "klasse": "afgoerelse-sammensat-ord"}},
+             {"id": "klageinstans|d|x", "dom": "wrong", "afgoerelse": "none", "gennemsyn": {"dom": "wrong", "afgoerelse": "none", "klasse": "domstolsanke"}},
+             {"id": "tilsyn|a|y", "dom": "wrong", "afgoerelse": "none", "gennemsyn": {"dom": "right", "afgoerelse": "none"}}, {"id": "tilsyn|b|y", "dom": "cannot-tell", "afgoerelse": "none"}]
+    st = stikproevetal(domme, {"klageinstans|a|x", "klageinstans|c|x", "tilsyn|a|y", "tilsyn|b|y"})
+    assert st["klageinstans"] == {"n": 4, "rigtige": 2, "forkerte": 2, "kan ikke afgøres": 0, "praecision": 50, "dommernes praecision": 33,
+                                  "afgørende myndighed": {"rigtige": 1, "forkerte": 1}, "efter rettelser": {"n": 2, "rigtige": 2, "forkerte": 0, "praecision": 100}}
+    assert st["tilsyn"]["praecision"] == 100 and st["tilsyn"]["kan ikke afgøres"] == 1 and st["tilsyn"]["dommernes praecision"] == 0 and "afgørende myndighed" not in st["tilsyn"]
+    assert st["ændrede domme"] == 2 and st["klasser"] == {"domstolsanke": 1, "afgoerelse-sammensat-ord": 1}
+    md = readme({1: tal}, facit, None, st)
+    assert "| klageinstans | 4 | 2 | 2 | 0 | 50 % | 33 % | 1 af 2 (50 %) |" in md and "| domstolsanke | 1 |" in md and "2 domme er ændret ved gennemsyn" in md
     print("selftest ok")
 
 
@@ -334,16 +447,30 @@ if __name__ == "__main__":
         with (E.KAT / "kanter.jsonl").open(encoding="utf-8") as f:
             ids = {x["id"] for x in facit}
             vist = {i: set(re.findall(r"^\[([^\]]+)\]", (EVAL / "opgaver" / f"{i}.txt").read_text(encoding="utf-8"), re.MULTILINE)) for i in ids}
-            kanter = [k for k in map(json.loads, f) if (k["from"] in ids or k["to"] in ids)
-                      and (k.get("metode") != E.BESTEMMELSE or set(k["to_bestemmelse"]) & vist[k["to"]])]
+            kanter, findes = [], set()
+            for k in map(json.loads, f):
+                if k.get("metode") == E.BESTEMMELSE:
+                    findes.add(f"{k['type']}|{k['to']}|{k['from']}")
+                if (k["from"] in ids or k["to"] in ids) and (k.get("metode") != E.BESTEMMELSE or set(k["to_bestemmelse"]) & vist[k["to"]]):
+                    kanter.append(k)
         reg = E.P.yaml.load(E.P.REG.read_text(encoding="utf-8"), Loader=E.P.yaml.CSafeLoader)
         maalt = {n: maal([f for f in facit if f["runde"] == n], docs, kanter, reg, tx) for n in sorted({f["runde"] for f in facit})}
         tal = {n: t for n, (t, _) in maalt.items()}
         for n in [n for n in tal if n > 1 and not (UD / f"kontrol-{n}.json").exists()]:
             (UD / f"kontrol-{n}.json").write_text(json.dumps(tal[n], ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
         foerste = {n: json.loads(f.read_text(encoding="utf-8")) for n in tal if (f := UD / f"kontrol-{n}.json").exists()}
-        (UD / "README.md").write_text(readme(tal, facit, foerste), encoding="utf-8")
+        stik = stikproevetal(list(map(json.loads, f.open(encoding="utf-8"))), findes) if (f := UD / "stikproeve-domme.jsonl").exists() else None
+        (UD / "README.md").write_text(readme(tal, facit, foerste, stik), encoding="utf-8")
         (EVAL / "afvigelser.jsonl").write_text("".join(E.linje({"runde": n, **a}) for n, (_, afv) in maalt.items() for a in afv), encoding="utf-8")
-        print(json.dumps(tal, ensure_ascii=False, indent=1))
+        print(json.dumps({**tal, **({"stikprøve": stik} if stik else {})}, ensure_ascii=False, indent=1))
+    elif kommando == "stikproeve":
+        if not (f := UD / "stikproeve.jsonl").exists():
+            docs, _ = poster()
+            reg = E.P.yaml.load(E.P.REG.read_text(encoding="utf-8"), Loader=E.P.yaml.CSafeLoader)
+            froe, n = STIKPROEVE
+            s = stikproeve(list(map(json.loads, (E.KAT / "kanter.jsonl").open(encoding="utf-8"))), docs, {x["id"]: x["navn"] for x in reg["nodes"]},
+                           lambda i: T.afsnit(gzip.decompress(T.sti(i).read_bytes()).decode("utf-8", "replace")), n, froe)
+            f.write_text("".join(map(E.linje, s)), encoding="utf-8")
+        print(json.dumps(collections.Counter(json.loads(x)["type"] for x in f.open(encoding="utf-8")), ensure_ascii=False))
     else:
         sys.exit(__doc__)

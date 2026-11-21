@@ -6,7 +6,7 @@
 - Øvrige samlinger: **131080** dokumenter (cirkulærer, vejledninger, afgørelser m.m., se nederst)
 - Seneste udstedelsesdato i datasættet: 2026-11-11
 - Status høstet: 2026-11-12 – 2026-11-12
-- Kanter: 346415 · EU-retsakter refereret: 1933 · koblet til registry-noder: 413
+- Kanter: 346405 · EU-retsakter refereret: 1933 · koblet til registry-noder: 413
 
 ## Dokumenttyper
 
@@ -154,12 +154,12 @@
 | henviser_til | 101597 | 92122 | 0 |
 | hjemmel_for | 88635 | 0 | 0 |
 | implementerer_EU | 0 | 1292 | 1164 |
-| klageinstans | 0 | 490 | 0 |
+| klageinstans | 0 | 483 | 0 |
 | ressortansvar | 19582 | 10468 | 247 |
-| tilsyn | 0 | 516 | 0 |
+| tilsyn | 0 | 513 | 0 |
 | udsteder | 29640 | 662 | 0 |
 
-Klageinstans- og tilsynskanter fra dokumentets egne bestemmelser, hvor dokumentet siden er ændret (`senere_aendret_ved`): 345 af 1006.
+Klageinstans- og tilsynskanter fra dokumentets egne bestemmelser, hvor dokumentet siden er ændret (`senere_aendret_ved`): 340 af 996.
 
 ## Øvrige samlinger
 
