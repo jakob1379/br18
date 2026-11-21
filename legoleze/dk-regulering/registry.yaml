@@ -131,8 +131,16 @@ meta:
     en klageinstans-kant fra X til dokumentet med hver afgørende myndighed, sætningen nævner (''X''s afgørelser'', ''truffet af X eller af Y'');
     ''X fører tilsyn'', ''X kan føre kontrol'', ''fører X tilsyn'', ''tilsynet føres af X'' og, fra 2026-11-16, ''X er tilsynsmyndighed'', ''X''s
     kontrol (tilsyn) med'', ''X påser, at'' og ''X kontrollerer'' giver en tilsyn-kant; ''påser'' og ''kontrollerer'' kun, når sætningen taler
-    om at overholde eller efterleve noget eller om lovlighed. ''Styrelsens kontrol med'' er den styrelse, sætningen har nævnt før. ''Kan ikke
-    påklages til X'', domstolene under ét, sager, tvister og spørgsmål, der indbringes, og ændringsdokumenter giver ingen kant; fra 2026-11-21
+    om at overholde eller efterleve noget eller om lovlighed, og fra 2026-11-21 kun i verbets eget sætningsled eller den at-sætning, der følger
+    det (''kontrollerer ansøgningen, og ansøgeren skal overholde fristen'' giver ingen kant); ''påser ikke'' og ''er ikke tilsynsmyndighed'' giver
+    ingen kant. ''Styrelsens kontrol med'' er den styrelse, sætningen har nævnt før; ''nævnets'' det sidste nævn og ''tilsynets'' det sidste tilsyn,
+    også en styrelse, hvis navn ender på ''tilsynet'' (Arbejdstilsynet, Finanstilsynet). ''X''s kontrol (tilsyn) med'' læses bevidst for enhver
+    instans i genitiv, ikke kun for tilbagehenvisningen, som JGA-134 bad om; det giver to kendte forkerte kanter: LBK nr. 544 af 2026 §§ 26 og 28
+    (''herunder om Energinets tilsyn med overholdelse af forskrifterne'', en bemyndigelse) og BEK nr. 798 af 2017 § 1 (''finder anvendelse på
+    Arbejdstilsynets tilsyn med''). Af de 28 klageinstans-kanter, der skiftede afgørende myndighed med JGA-136, fik 5 deres tilbage 2026-11-16
+    (JGA-134); at de 23 andre og 14, der fik en afgørende myndighed, er sammenholdt med deres sætninger, står kun som en sætning i commit f5f91a453,
+    og der er ikke gemt en dom pr. kant.
+    ''Kan ikke påklages til X'', domstolene under ét, sager, tvister og spørgsmål, der indbringes, og ændringsdokumenter giver ingen kant; fra 2026-11-21
     (JGA-137) heller ikke en overgangsregel (''færdigbehandles''), en dom, der ankes til en domstol, eller ''til brug for X''s tilsyn med'', og
     ''X''s afgørelseskompetence'' gør ikke X til afgørende myndighed. tekst.py tidslinjer
     henter Retsinformations tidslinje (api/document/<id>/timeline) én gang pr. lov; eksport.py samler lovens hovedlov og lovbekendtgørelser efter
@@ -193,7 +201,10 @@ meta:
     975 af 2026 § 13, stk. 4 og 5); en erstatning, der indbringes, læses som klage (runde 4; LBK nr. 572 af 2024 § 46, ''indbringe erstatningsspørgsmålet
     for taksationsmyndighederne''). Afgørende myndighed: den tages fra det forkerte sætningsled (LBK nr. 365 af 2025 § 11, stk. 5: told- og skatteforvaltningens
     pålæg, ikke ministerens), og titlen på en tidligere minister peger på det ministerium, der har titlens andet område i dag (''social- og boligministeren''
-    om boliger læses som Socialministeriet, ''indenrigs- og sundhedsministeren'' i kommunestyrelsesloven som Sundheds- og Kirkeministeriet). Tilsyn:
+    om boliger læses som Socialministeriet, ''indenrigs- og sundhedsministeren'' i kommunestyrelsesloven som Sundheds- og Kirkeministeriet); en instans
+    lige efter en afgørende myndighed med ''og'' eller ''eller'' tages med uden at se på ordene efter den (''truffet af kommunalbestyrelsen og
+    Æblestyrelsen fører tilsyn'' giver også Æblestyrelsen); i en kæde (''A''s afgørelser kan påklages til B, og B''s afgørelser kan indbringes for
+    C'') får C både A og B som afgørende myndighed. Tilsyn:
     omtale af et tilsyn efter anden lovgivning (1; BEK nr. 1249 af 2014 § 2, ''den lovgivning, som Forbrugerombudsmanden fører tilsyn med''; runde
     4: BEK nr. 798 af 2017 § 1, ''finder anvendelse på Arbejdstilsynets tilsyn med''); tilsyn med en dømt eller en person under strafferetlige
     vilkår (2; LBK nr. 201 af 2023 § 78 d, ''fører kriminalforsorgen tilsyn med den dømte''; LBK nr. 680 af 2026 § 16 a); kontrol som led i behandlingen
@@ -111288,8 +111299,9 @@ huller:
     for taksationsmyndighederne''). Den forkerte tilsynsmyndighed står i en sætning om bekendtgørelsens anvendelsesområde (''finder anvendelse
     på Arbejdstilsynets tilsyn med''). De manglende tilsynsmyndigheder står i formuleringer, læseren ikke kender (''forestår … kontrol'', ''gennemfører
     rutineinspektioner'', ''er … bygningsmyndighed og påser'', ''Ministeren fører tilsyn'' uden titel, ''ministerens omkostninger forbundet med
-    tilsyn'', adgang til ejendom ''for at kontrollere''). Af de 80 nye tilsyn-kanter er alle gennemset i hånden: højst 3 er forkerte (sagsbehandling,
-    ikke tilsyn: ''påse, om betingelserne er opfyldt''); før ''påser'' og ''kontrollerer'' blev begrænset til sætninger om at overholde noget,
+    tilsyn'', adgang til ejendom ''for at kontrollere''). JGA-134 gav 85 nye tilsyn-kanter (431 til 516); commit f5f91a453 siger, at 80 nye kanter
+    er gennemset i hånden, og at højst 3 er forkerte (sagsbehandling, ikke tilsyn: ''påse, om betingelserne er opfyldt''), men hvilke 80 er ikke gemt,
+    så 5 er måske ikke gennemset, og der er ingen dom pr. kant; før ''påser'' og ''kontrollerer'' blev begrænset til sætninger om at overholde noget,
     var 18 af 50 tilfældige nye kanter forkerte. I et håndgennemsyn af 52 tilfældige klageinstans-kanter uden for evalueringssættet var 2 forkerte
     (en sag, ikke en klage, blev indbragt for instansen); det mønster er siden udelukket. Læseren gemmer alle afgørende myndigheder i sætningen
     (''truffet af ministeren eller af Forsyningstilsynet''), men kun den første i en opregning med komma. ''Kirkeministeren'' er Sundheds- og

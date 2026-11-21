@@ -234,7 +234,7 @@ SAG = re.compile(r"\b(?:sag(?:en|er|erne)?|tvist(?:en|er|erne)?|spørgsmål(?:et
 BEHANDLER = re.compile(r"\s+(?:behandler|afgør|træffer afgørelse (?:i|om)) klager\b", re.IGNORECASE)
 TILSYN = re.compile(r"\b(?:(?:kan|skal)\s+)?(?:fører?|udøver|varetager)\s+(?P<m>(?:[\w,-]+\s+){0,7}?)(?:tilsyn|kontrol)(?:et|len)?\b", re.IGNORECASE)
 TILSYN_AF = re.compile(r"\b(?:tilsyn|kontrol)(?:et|len)?\b[^.;]{0,120}?\b(?:føres|udøves|varetages|foretages|udføres)\s+af\s+", re.IGNORECASE)
-KONTROL = re.compile(r"\b(?:(?:kan|skal)\s+)?(?:(?:påser?|kontrollerer?)(?=.*?\b(?:overhold|efterlev|lovlig))|er\s+(?:\w+\s+){0,2}?tilsynsmyndighed(?:en)?)\b|(?<=s)\s+(?:tilsyn|kontrol)\s+med\b",
+KONTROL = re.compile(r"\b(?:(?:kan|skal)\s+)?(?:(?:påser?|kontrollerer?)(?!\s+ikke\b)(?=(?:(?!,\s+(?:og|men|eller|samt)\s).)*?\b(?:at\b.*?\b)?(?:overhold|efterlev|lovlig))|er\s+(?:(?!ikke\b)\w+\s+){0,2}?tilsynsmyndighed(?:en)?)\b|(?<=s)\s+(?:tilsyn|kontrol)\s+med\b",
                      re.IGNORECASE)
 LED = (KLAGE, BEHANDLER, TILSYN, TILSYN_AF, KONTROL)
 TILBAGE = {"styrelsens": "sty-", "nævnets": "naevn-", "tilsynets": "tilsyn-"}
@@ -272,7 +272,8 @@ def laeser(reg: dict):
     eller "truffet af X", og en instans, der står lige efter en af dem med "og" eller "eller"; én tupel pr. afgørende myndighed. tilsyn(sætning) giver instanserne i "X fører tilsyn",
     "X kan føre kontrol", "fører X tilsyn", "tilsynet føres af X", "X påser, at", "X kontrollerer", "kontrollerer X" (efter et komma
     eller uden instans foran), "X er tilsynsmyndighed" og "X's kontrol (tilsyn) med" (ikke "til brug for X's tilsyn med"), hvor "styrelsens", "nævnets" og "tilsynets" er den sidste
-    styrelse, det sidste nævn eller tilsyn, sætningen har nævnt før; "påser" og "kontrollerer" kun, når sætningen taler om at overholde eller efterleve noget, eller om lovlighed.
+    styrelse, det sidste nævn eller tilsyn (også en instans, hvis navn ender på "tilsynet"), sætningen har nævnt før; "påser" og "kontrollerer" kun, når verbets sætningsled
+    eller den at-sætning, der følger det, taler om at overholde eller efterleve noget, eller om lovlighed; ikke "påser ikke" og "er ikke tilsynsmyndighed".
     ukendte(sætning) giver navnet (frase) de steder, hvor klager eller tilsyn venter en instans, men ikke finder én i registry'et."""
     navne = {**{k: v[0] for k, v in myndigheder(reg).items()}, **ALIAS}
     laengde = max(len(k.split()) for k in navne)
@@ -290,7 +291,7 @@ def laeser(reg: dict):
             ud, i = None, 0
             while i < len(w) - 1:
                 node, n, _ = ved(w, i)
-                ud = node if node and node.startswith(TILBAGE[w[-1]]) else ud
+                ud = node if node and (node.startswith(TILBAGE[w[-1]]) or w[-1] == "tilsynets" and w[i + n - 1].removesuffix("s").endswith("tilsynet")) else ud
                 i += n or 1
             return ud
         return next((ved(w, i)[0] for i in range(max(0, len(w) - laengde), len(w)) if ved(w, i)[1] == len(w) - i), None)
@@ -405,7 +406,9 @@ def lovversioner(tl: list[dict]) -> list[str]:
 def senere_aendret(udstedt: str, tl: list[dict] | None, felt: str | None, ids: dict) -> list[str]:
     """Katalog-id'er for de love, der har ændret dokumentet og er underskrevet efter udstedt. Med tidslinje: ændringslovene (documentTypeId 20)
     og de andre hovedlove, der har ændret loven (10 uden isMainLaw); ikrafttrædelsesbekendtgørelser (90) og lovens egne versioner tæller ikke.
-    Uden tidslinje (bekendtgørelser): eksportens felt SenereAendringer."""
+    Uden tidslinje (bekendtgørelser): eksportens felt SenereAendringer. Ingen, når udstedt mangler."""
+    if not udstedt:
+        return []
     if tl is not None:
         kand = [(nid(e["href"]), "-".join(reversed(e["signatureDate"].split("/")))) for e in tl
                 if (e.get("documentTypeId") == 20 or (e.get("documentTypeId") == 10 and not e.get("isMainLaw"))) and "/eli/" in (e.get("href") or "")]
@@ -827,6 +830,8 @@ def selftest() -> None:
                              ("Æblestyrelsen påser, at betingelserne for tilskud er opfyldt.", []), ("Bekendtgørelse nr. 3 af 2. maj 2017 om Æblestyrelsens tilsyn med frugt ophæves.", []),
                              ("Når en afgørelse er indbragt for Frugtklagenævnet, påser Æblestyrelsen, at fristen overholdes.", ["sty-aeble"]), ("Enhver, der ejer eller kontrollerer virksomheden, skal oplyse det.", []),
                              ("Æblestyrelsen er dog tilsynsmyndighed for frugtplantager.", ["sty-aeble"]),
+                             ("Kommunalbestyrelsen er ikke tilsynsmyndighed for frugtplantager.", []), ("Æblestyrelsen påser ikke, at reglerne overholdes.", []),
+                             ("Æblestyrelsen kontrollerer ansøgningen, og ansøgeren skal overholde fristen.", []),
                              ("Modtageren skal give de oplysninger, der har betydning for Æblestyrelsens kontrol med, at vilkårene overholdes.", ["sty-aeble"]),
                              ("Æblestyrelsens tilsyn med plantagerne sker ved stikprøver.", ["sty-aeble"]),
                              ("Avleren skal efter anmodning fra Æblestyrelsen give de oplysninger, der har betydning for styrelsens kontrol med, at vilkårene overholdes.", ["sty-aeble"]),
@@ -846,6 +851,9 @@ def selftest() -> None:
     to = laeser({"nodes": [{"id": "sty-ae-og-p", "type": "styrelse", "navn": "Æble- og Pærestyrelsen"}, {"id": "sty-p", "type": "styrelse", "navn": "Pærestyrelsen"}]})[1]
     assert to("Avleren skal efter anmodning fra Æble- og Pærestyrelsen give oplysninger til styrelsens kontrol med, at vilkårene overholdes.") == ["sty-ae-og-p"]
     assert to("Sagen sendes til brug for Æble- og Pærestyrelsens tilsyn med frugt efter frugtloven.") == []
+    assert tilsyn("Avleren giver Æblestyrelsen og Frugtklagenævnet de oplysninger, der har betydning for nævnets kontrol med, at vilkårene overholdes.") == ["naevn-frugt"]
+    ft = laeser({"nodes": [{"id": "sty-frugttilsynet", "type": "styrelse", "navn": "Frugttilsynet"}, {"id": "sty-p", "type": "styrelse", "navn": "Pærestyrelsen"}]})[1]
+    assert ft("Avleren giver Frugttilsynet og Pærestyrelsen de oplysninger, der har betydning for tilsynets kontrol med, at vilkårene overholdes.") == ["sty-frugttilsynet"]
     ret = laeser({"nodes": [{"id": "dom-hoejesteret", "type": "domstol", "navn": "Højesteret"}, {"id": "naevn-frugt", "type": "nævn", "navn": "Frugtklagenævnet"}]})[0]
     assert ret("Dommen kan ankes til Højesteret.") == [] == ret("Fristen for ansøgning om tilladelse til anke til Højesteret er udløbet.")
     assert ret("Klagerettens afgørelse kan indbringes for Højesteret efter reglerne om kære.") == [("dom-hoejesteret", None)] and ret("Afgørelsen kan ankes til Frugtklagenævnet.") == [("naevn-frugt", None)]
@@ -864,6 +872,7 @@ def selftest() -> None:
     assert senere_aendret("2016-09-25", byg, None, kendt) == ["lta-2018-734", "lta-2019-9"]
     assert senere_aendret("2025-01-01", byg, "LOV nr 3 af 01/03/2024", kendt) == []
     assert senere_aendret("2020-01-01", None, "BEK nr 3 af 01/03/2024,BEK nr 2 af 01/01/2010", kendt) == ["lta-2024-3"] and senere_aendret("2020-01-01", None, None, kendt) == []
+    assert senere_aendret("", byg, None, kendt) == [] == senere_aendret("", None, "BEK nr 3 af 01/03/2024", kendt)
     omdoebt = [lov("s", "Bekendtgørelse af lov om sommerhuse", 2013, "historisk", afloeser_mangler=True), lov("u", "Bekendtgørelse af lov om udlejning", 2024, "gældende"),
                lov("g", "Bekendtgørelse af gammel lov", 1990, "historisk", gaeldende_version="u"), lov("h", "Bekendtgørelse af den gamle lov", 1995, "historisk")]
     assert familier(omdoebt, set(), [["s", "u", "findes-ikke"], ["g", "h"]]) == {}

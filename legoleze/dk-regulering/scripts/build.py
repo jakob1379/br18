@@ -260,7 +260,7 @@ def validate_katalog(reg: dict, kat: dict) -> list[str]:
         for a in e.get("afgoerelse_af") or []:
             if a not in reg_ids:
                 err(f"katalog-kant {label}: afgoerelse_af {a!r} findes ikke")
-        if "senere_aendret_ved" in e and not (isinstance(e["senere_aendret_ved"], list) and e["senere_aendret_ved"] and all(a in docs for a in e["senere_aendret_ved"])):
+        if "senere_aendret_ved" in e and not (isinstance(e["senere_aendret_ved"], list) and e["senere_aendret_ved"] and all(isinstance(a, str) and a in docs for a in e["senere_aendret_ved"])):
             err(f"katalog-kant {label}: senere_aendret_ved skal være en ikke-tom liste af dokumenter i kataloget")
         if e.get("citeret_version") and e["citeret_version"] not in docs:
             err(f"katalog-kant {label}: citeret_version {e['citeret_version']!r} findes ikke")
@@ -655,7 +655,7 @@ def selftest() -> None:
     kant = {"from": "naevn-x", "type": "klageinstans", "to": "lta-2016-1178", "kilder": [], "sikkerhed": "sandsynlig"}
     kat = lambda **e: {"docs": [doc("lta-2016-1178"), doc("lta-2018-734")], "edges": [{**kant, **e}], "eu": [], "tekst": []}
     assert validate_katalog(reg, kat()) == [] and validate_katalog(reg, kat(senere_aendret_ved=["lta-2018-734"])) == []
-    for galt in ("lta-2018-734", [], ["lta-2099-1"]):
+    for galt in ("lta-2018-734", [], ["lta-2099-1"], [["lta-2018-734"]]):
         fejl = validate_katalog(reg, kat(senere_aendret_ved=galt))
         assert len(fejl) == 1 and "senere_aendret_ved" in fejl[0], (galt, fejl)
     print("selftest ok")
