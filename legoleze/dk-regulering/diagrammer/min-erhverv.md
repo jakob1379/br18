@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 228 · kanter: 381
+Noder: 231 · kanter: 385
 
 ```mermaid
 flowchart LR
@@ -69,6 +69,7 @@ flowchart LR
     raad_skibstilsynsraadet["Skibstilsynsrådet"]:::instans
     sty_groen_arealomlaegning_og_vandmiljoe["Styrelsen for Grøn Arealomlægning og Vandmiljø (SGAV)"]:::instans
     sty_soefartsstyrelsen["Søfartsstyrelsen"]:::instans
+    org_udbetaling_danmark["Udbetaling Danmark"]:::instans
     tilsyn_vandsektortilsynet["Vandsektortilsynet"]:::instans
     org_ankenaevnet_for_bus_tog_og_metro["Ankenævnet for Bus, Tog og Metro"]:::kilde
     org_ankenaevnet_for_fondsmaeglerselskaber["Ankenævnet for Fondsmæglerselskaber"]:::kilde
@@ -128,6 +129,8 @@ flowchart LR
     naevn_teleklagenaevnet["Teleklagenævnet"]:::klage
     naevn_tvistighedsnaevnet["Tvistighedsnævnet"]:::klage
     min_by_land_og_transport["By-, Land- og Transportministeriet"]:::ministerium
+    min_klima_energi_og_forsyning["Klima-, Energi- og Forsyningsministeriet"]:::ministerium
+    min_miljoe["Miljøministeriet"]:::ministerium
     lov_visse_produkter["Lov nr. 155 af 20/02/2013 om indretning m.v. af visse produkter (ophævet)"]:::nedlagt
     sty_sikkerhedsstyrelsen["Sikkerhedsstyrelsen (nedlagt)"]:::nedlagt
     lov_arbejdsmiljoeloven["Arbejdsmiljøloven"]:::retsakt
@@ -620,6 +623,10 @@ flowchart LR
     sty_naevnenes_hus -.->|tilsyn| naevn_teleankenaevnet
     lov_produktloven -.->|hjemmel_for| bek_personlige_vaernemidler_indretning
     naevn_energiklagenaevnet -->|klageinstans| sty_arbejdstilsynet
+    naevn_energiklagenaevnet -->|klageinstans| min_klima_energi_og_forsyning
+    naevn_miljoe_og_foedevareklagenaevnet -.->|klageinstans| min_miljoe
+    naevn_energiklagenaevnet -.->|klageinstans| sty_erhvervsstyrelsen
+    naevn_miljoe_og_foedevareklagenaevnet -->|klageinstans| org_udbetaling_danmark
     bek_risiko -->|implementerer_EU| eu_dir_2012_18
     bek_faerdselsstyrelsen_opgaver -->|hjemmel_for| sty_faerdselsstyrelsen
     bek_faerdselsstyrelsen_opgaver -->|hjemmel_for| bek_farligt_gods_vejtransport

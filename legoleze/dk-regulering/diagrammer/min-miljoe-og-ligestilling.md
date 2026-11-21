@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 30 · kanter: 33
+Noder: 30 · kanter: 34
 
 ```mermaid
 flowchart LR
@@ -71,6 +71,7 @@ flowchart LR
     sty_miljoestyrelsen -->|udsteder| vejl_miljoeoplysningsloven
     sty_miljoestyrelsen -->|udsteder| vejl_mst_vejledninger
     sty_miljoestyrelsen -->|udsteder| vejl_naturbeskyttelse_vejledninger
+    min_miljoe -->|klageinstans| sty_miljoestyrelsen
     bek_spildevand -->|hjemmel_for| plan_spildevandsplan
     bek_risiko -->|implementerer_EU| eu_dir_2012_18
     bek_spildevand -->|implementerer_EU| eu_dir_1991_271

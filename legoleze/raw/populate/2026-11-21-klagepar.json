@@ -1,0 +1,198 @@
+{
+  "omraade": "klagepar-fra-forskrifter",
+  "noder": [],
+  "kanter": [
+    {
+      "from": "naevn-energiklagenaevnet",
+      "type": "klageinstans",
+      "to": "min-klima-energi-og-forsyning",
+      "beskrivelse": "Energiklagenævnet behandler klager over klima-, energi- og forsyningsministerens afgørelser efter bl.a. elforsyningsloven (§ 89), gasforsyningsloven (§ 51) og lov om fremme af energibesparelser i bygninger (§ 29).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/544",
+          "citat": "Energiklagenævnet behandler klager over afgørelser truffet af klima-, energi- og forsyningsministeren eller af Forsyningstilsynet efter denne lov eller regler udstedt i henhold til loven."
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1286",
+          "citat": "Energiklagenævnet behandler klager over afgørelser truffet af klima-, energi- og forsyningsministeren eller af Forsyningstilsynet efter denne lov eller regler udstedt i henhold til loven."
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1253",
+          "citat": "Energiklagenævnet behandler klager over afgørelser truffet af klima-, energi- og forsyningsministeren efter loven eller regler udstedt i henhold til loven."
+        }
+      ]
+    },
+    {
+      "from": "naevn-miljoe-og-foedevareklagenaevnet",
+      "type": "klageinstans",
+      "to": "min-miljoe",
+      "beskrivelse": "Miljøministerens afgørelser efter bl.a. kystbeskyttelsesloven (§ 18), råstofloven (§ 26, stk. 1) og jordforureningsloven (§ 77, stk. 1, nr. 2) kan påklages til Miljø- og Fødevareklagenævnet; klageadgangen gælder de afgørelser, hver lov opregner.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/245",
+          "citat": "Afgørelser efter loven, der er truffet af kommunalbestyrelsen eller miljøministeren, eller efter bemyndigelse fra miljøministeren, jf. § 18 c, stk. 1, kan påklages til Miljø- og Fødevareklagenævnet"
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1230",
+          "citat": "Afgørelser truffet af miljøministeren efter kapitel 7 a kan påklages til Miljø- og Fødevareklagenævnet"
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/964",
+          "citat": "Miljøministerens afgørelser efter kapitel 4 a og 4 b, § 39, stk. 2, § 72, § 73, stk. 2, 2. pkt., § 73 a og § 73 b."
+        }
+      ]
+    },
+    {
+      "from": "min-klima-energi-og-forsyning",
+      "type": "klageinstans",
+      "to": "sty-energistyrelsen",
+      "beskrivelse": "Energistyrelsens afgørelser efter en række tilskudsbekendtgørelser (bl.a. tilskud til eldrevne varmepumper og solvarmeanlæg til fjernvarmeproduktion, til teknologier, der reducerer drivhusgasudledningen i landbruget, og til energiforbedringer i kommunale og regionale bygninger) kan påklages til klima-, energi- og forsyningsministeren.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2022/937",
+          "citat": "Energistyrelsens afgørelser efter denne bekendtgørelse kan påklages til klima-, energi- og forsyningsministeren"
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2022/25",
+          "citat": "Energistyrelsens afgørelser efter denne bekendtgørelse kan påklages til klima-, energi- og forsyningsministeren."
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1096",
+          "citat": "Energistyrelsens afgørelser efter denne bekendtgørelse kan påklages til klima-, energi- og forsyningsministeren."
+        }
+      ]
+    },
+    {
+      "from": "min-sundhed-og-kirke",
+      "type": "klageinstans",
+      "to": "tilsyn-biskopperne",
+      "beskrivelse": "Biskoppens afgørelser efter lov om bestyrelse og brug af folkekirkens kirker m.m. (§ 23) og visse af biskoppens afgørelser efter menighedsrådsloven (§ 16, stk. 3) kan påklages til kirkeministeren. Kirkeområdet hører siden 3/6/2026 under Sundheds- og Kirkeministeriet; By-, Land- og Kirkeministeriet er tidligere navn for kirkeområdets ministerium (jf. min-by-land-og-kirke).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2014/330",
+          "citat": "Biskoppens afgørelser efter loven kan påklages til kirkeministeren."
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/675",
+          "citat": "Biskoppens afgørelse efter stk. 1, 2. pkt., og efter stk. 2 kan indbringes for kirkeministeren."
+        }
+      ]
+    },
+    {
+      "from": "naevn-energiklagenaevnet",
+      "type": "klageinstans",
+      "to": "sty-erhvervsstyrelsen",
+      "beskrivelse": "Erhvervsstyrelsens afgørelser om konti i EU's CO2-kvoteregister og Det Danske Kyotoregister (BEK 1575/2025 § 24) og om konti og transaktioner i CBAM-registeret (BEK 351/2026 § 2, stk. 2) kan indbringes for Energiklagenævnet. Det samme gælder afgørelser efter bekendtgørelsen om miljøvenligt design af energirelaterede produkter (BEK 1321/2021 § 15), som bekendtgørelsen tillægger Sikkerhedsstyrelsen (tidligere navn: Sikkerhedsstyrelsen blev fusioneret ind i Erhvervsstyrelsen 1/1/2026, jf. sty-erhvervsstyrelsen).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1575",
+          "citat": "Følgende afgørelser truffet af Erhvervsstyrelsen efter denne bekendtgørelse samt forordningen kan indbringes for Energiklagenævnet"
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/351",
+          "citat": "Energiklagenævnet behandler klager over afgørelser truffet af Erhvervsstyrelsen om konti og transaktioner i CBAM-registeret"
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2021/1321",
+          "citat": "Sikkerhedsstyrelsens afgørelser efter denne bekendtgørelse kan påklages til Energiklagenævnet."
+        }
+      ]
+    },
+    {
+      "from": "min-by-land-og-transport",
+      "type": "klageinstans",
+      "to": "kommune-alle",
+      "beskrivelse": "Kommunalbestyrelsens afgørelser efter vejloven og privatvejsloven kan påklages til transportministeren, for så vidt angår retlige spørgsmål; afgørelser om ekspropriation efter privatvejslovens § 29 og § 72, stk. 3, kan påklages fuldt ud. Transportministeren er tidligere navn: ministeriet hedder siden 3/6/2026 By-, Land- og Transportministeriet (jf. min-by-land-og-transport).",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/435",
+          "citat": "Kommunalbestyrelsernes afgørelser efter denne lov kan påklages til transportministeren, for så vidt angår retlige spørgsmål"
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/1050",
+          "citat": "Kommunalbestyrelsens øvrige afgørelser efter denne lov kan påklages til transportministeren, for så vidt angår retlige spørgsmål."
+        }
+      ]
+    },
+    {
+      "from": "min-miljoe",
+      "type": "klageinstans",
+      "to": "sty-miljoestyrelsen",
+      "beskrivelse": "Miljøstyrelsens afgørelser efter bekendtgørelsen om vandkvalitet på visse søgående passagerskibe, der afsalter havvand, og efter § 14 i bekendtgørelsen om indvinding af vand til drikkevandsforsyning gennem afsaltning af havvand kan påklages til miljøministeren efter vandforsyningslovens regler.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2024/768",
+          "citat": "Miljøstyrelsens afgørelser efter denne bekendtgørelse kan påklages til miljøministeren i henhold til vandforsyningslovens regler herom."
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1274",
+          "citat": "Miljøstyrelsens afgørelser efter § 14 kan påklages til miljøministeren i henhold til vandforsyningslovens regler herom."
+        }
+      ]
+    },
+    {
+      "from": "naevn-miljoe-og-foedevareklagenaevnet",
+      "type": "klageinstans",
+      "to": "org-udbetaling-danmark",
+      "beskrivelse": "Udbetaling Danmarks afgørelser efter § 18, stk. 2, i lov om visse landdistriktsrelaterede tilskudsordninger kan påklages til Miljø- og Fødevareklagenævnet; lov om Udbetaling Danmark (§ 4 a) nævner nævnet blandt de klageinstanser, der behandler påklagede afgørelser på Udbetaling Danmarks myndighedsområder.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2017/34",
+          "citat": "Udbetaling Danmarks afgørelser efter § 18, stk. 2, kan påklages til Miljø- og Fødevareklagenævnet."
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/975",
+          "citat": "Forbuddet gælder også ved mundtlig kommunikation med Ankestyrelsen, Ankestyrelsens Beskæftigelsesudvalg, Ankenævnet for Statens Uddannelsesstøtteordninger, Miljø- og Fødevareklagenævnet og Styrelsen for Patientklager ved behandling af påklagede afgørelser på Udbetaling Danmarks myndighedsområder"
+        }
+      ]
+    },
+    {
+      "from": "naevn-vurderingsankenaevn",
+      "type": "klageinstans",
+      "to": "sty-skatteforvaltningen",
+      "beskrivelse": "Vurderingsankenævnene afgør klager over Skatteforvaltningens afgørelser efter ejendomsvurderingsloven, lov om vurdering af landets faste ejendomme og ejendomsavancebeskatningslovens § 8, stk. 1, nr. 3, medmindre klagen henvises til Landsskatteretten eller skatteankeforvaltningen (skatteforvaltningslovens § 6). Loven bruger betegnelsen told- og skatteforvaltningen, som registry'et fører som tidligere navn for Skatteforvaltningen.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+          "citat": "Vurderingsankenævnene afgør klager over told- og skatteforvaltningens afgørelser efter"
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2021/2289",
+          "citat": "Vurderingsankenævn afgør klager over Skatteforvaltningens afgørelser, jf. skatteforvaltningslovens § 6, stk. 1, jf. dog § 6, stk. 2."
+        }
+      ]
+    },
+    {
+      "from": "naevn-motorankenaevn",
+      "type": "klageinstans",
+      "to": "sty-skatteforvaltningen",
+      "beskrivelse": "Motorankenævnene afgør klager over Skatteforvaltningens afgørelser om den afgiftspligtige værdi af nye og brugte køretøjer og om godtgørelse efter registreringsafgiftsloven, medmindre sagen visiteres til Landsskatteretten (skatteforvaltningslovens § 7). Loven bruger betegnelsen told- og skatteforvaltningen, som registry'et fører som tidligere navn for Skatteforvaltningen.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+          "citat": "Motorankenævnene afgør klager over told- og skatteforvaltningens afgørelser om"
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2022/1043",
+          "citat": "Motorankenævn afgør klager over Skatteforvaltnin‍g­ens afgørelser, jf. skatteforvaltningslovens § 7, stk. 1, jf. dog § 35 b, stk. 1, 2. og 3. pkt."
+        }
+      ]
+    },
+    {
+      "from": "sty-styrelsen-for-patientklager",
+      "type": "klageinstans",
+      "to": "org-udbetaling-danmark",
+      "beskrivelse": "Udbetaling Danmarks afgørelser om særligt sundhedskort, indplacering i sikringsgruppe og begravelseshjælp efter sundhedsloven kan påklages til Styrelsen for Patientklager (klage- og erstatningslovens § 5 a); lov om Udbetaling Danmark (§ 4 a) nævner styrelsen blandt de klageinstanser, der behandler påklagede afgørelser på Udbetaling Danmarks myndighedsområder.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2025/1250",
+          "citat": "Udbetaling Danmarks afgørelser kan påklages til Styrelsen for Patientklager, når de vedrører"
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/975",
+          "citat": "Forbuddet gælder også ved mundtlig kommunikation med Ankestyrelsen, Ankestyrelsens Beskæftigelsesudvalg, Ankenævnet for Statens Uddannelsesstøtteordninger, Miljø- og Fødevareklagenævnet og Styrelsen for Patientklager ved behandling af påklagede afgørelser på Udbetaling Danmarks myndighedsområder"
+        }
+      ]
+    }
+  ]
+}

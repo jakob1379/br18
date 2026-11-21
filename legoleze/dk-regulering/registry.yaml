@@ -4,7 +4,7 @@ meta:
   titel: 'Kortlægning af dansk regulering: byggeri, bolig, plan, energi, miljø, arbejdsmiljø, brand, el/gas/VVS – plus katalog over hele Lovtidende
     A'
   dato: '2026-10-28'
-  opdateret: '2026-11-16 (fase 7: instanslag uden for de otte domæner, flettet med pipeline/populate.py)'
+  opdateret: '2026-11-21 (fase 7: instanslag uden for de otte domæner, flettet med pipeline/populate.py)'
   formaal: Kortlægning (ikke indhentning) af myndigheder, retsakter, klage-/tilsynsveje, EU-retsakter og dokumentkilder til et krydsrefereret
     RAG-korpus (udvidelse af jakob1379/br18), så søgning kan følge hjemmelskæder lov → bekendtgørelse → vejledning → praksis.
   scope:
@@ -129,12 +129,13 @@ meta:
     paragraffer, der har et klage- eller tilsynsudsagn (klage_tilsyn), og eksport.py læser dem mod registry''ets instansnavne (laeser): ''kan
     påklages til X'', ''kan indbringes for X'', ''klage til X'', ''ikke anden administrativ myndighed end X'' og ''X behandler klager'' giver
     en klageinstans-kant fra X til dokumentet med hver afgørende myndighed, sætningen nævner (''X''s afgørelser'', ''truffet af X eller af Y'');
-    ''X fører tilsyn'', ''X kan føre kontrol'', ''fører X tilsyn'', ''tilsynet føres af X'' og, fra 2026-11-16, ''X er tilsynsmyndighed'',
-    ''X''s kontrol (tilsyn) med'', ''X påser, at'' og ''X kontrollerer'' giver en tilsyn-kant; ''påser'' og ''kontrollerer'' kun, når sætningen
-    taler om at overholde eller efterleve noget eller om lovlighed. ''Styrelsens kontrol med'' er den styrelse, sætningen har nævnt før. ''Kan ikke påklages til X'', domstolene
-    under ét, sager, tvister og spørgsmål, der indbringes, og ændringsdokumenter giver ingen kant. tekst.py tidslinjer henter Retsinformations tidslinje (api/document/<id>/timeline) én gang pr. lov; eksport.py samler lovens hovedlov
-    og lovbekendtgørelser efter den i stedet for efter titlen (familie_metode tidslinje), så en omdøbt lovs ældre versioner peger på den gældende.
-    Ændringslove og andre hovedlove i tidslinjen er ikke versioner og bruges ikke.'
+    ''X fører tilsyn'', ''X kan føre kontrol'', ''fører X tilsyn'', ''tilsynet føres af X'' og, fra 2026-11-16, ''X er tilsynsmyndighed'', ''X''s
+    kontrol (tilsyn) med'', ''X påser, at'' og ''X kontrollerer'' giver en tilsyn-kant; ''påser'' og ''kontrollerer'' kun, når sætningen taler
+    om at overholde eller efterleve noget eller om lovlighed. ''Styrelsens kontrol med'' er den styrelse, sætningen har nævnt før. ''Kan ikke
+    påklages til X'', domstolene under ét, sager, tvister og spørgsmål, der indbringes, og ændringsdokumenter giver ingen kant. tekst.py tidslinjer
+    henter Retsinformations tidslinje (api/document/<id>/timeline) én gang pr. lov; eksport.py samler lovens hovedlov og lovbekendtgørelser efter
+    den i stedet for efter titlen (familie_metode tidslinje), så en omdøbt lovs ældre versioner peger på den gældende. Ændringslove og andre hovedlove
+    i tidslinjen er ikke versioner og bruges ikke.'
   - 'Evaluering (fra 2026-11-15): pipeline/corpus/eval.py trækker et tilfældigt udtag af gældende forskrifter og vejledninger, lader annotatorer
     læse dokumenternes egen tekst og måler katalogets hjemmel_for-, implementerer_EU- og henviser_til-kanter og registry''ets klage- og tilsynsinstanser
     mod deres svar (meta.evaluering). Målingen førte til tre nye udtræk fra tekstlaget: implementerer_EU fra fodnoterne, henviser_til fra teksten
@@ -219,16 +220,19 @@ meta:
     branchevejledninger: bv-<slug>
     kommunalt: kommune-alle, region-alle (aggregerede)
   evaluering: 'dk-regulering/eval/ er et evalueringssæt for katalogets kæder (pipeline/corpus/eval.py). 302 gældende danske dokumenter med hentet
-    tekst er trukket tilfældigt pr. domæne i fire runder (118, 71, 64 og 49: hovedbekendtgørelser med og uden registry-node, vejledninger i runde 1
-    og 2, love og lovbekendtgørelser i runde 3 og 4). En annotator (Haiku) har læst hvert dokuments indledning, fodnoter og bestemmelser om klage og
-    tilsyn uden at se katalog eller registry og skrevet hjemmel med bestemmelser, gennemførte EU-retsakter, klageinstans, tilsynsmyndighed og,
-    for vejledninger, de retsakter teksten nævner (instruks.md). Hvert led har et ordret citat, som er kontrolleret maskinelt mod teksten; facit.jsonl
-    har leddene, rettelser.json de seks dokumenter, hvor facit er rettet efter gennemsyn, og README.md målingen. Runde 1 er brugt til at finde
-    og rette fejl i udtrækkene; runde 2, 3 og 4 er trukket bagefter, og deres første målinger står i kontrol-2.json, kontrol-3.json og
-    kontrol-4.json. Runde 1-3 er brugt til at rette læseren af klage- og tilsynsbestemmelser, så den første måling af runde 4 (2026-11-21) er den
-    eneste uafhængige måling af klage- og tilsynskanterne pr. forskrift: klageinstans 16 rigtige, 4 forkerte og 2 manglende; tilsynsmyndighed 20
-    rigtige, 1 forkert og 6 manglende. Annotatoren er en sprogmodel, ikke en jurist, og udtaget dækker kun
-    dokumenter fra 2010 og frem i de otte domæner.'
+    tekst er trukket tilfældigt pr. domæne i fire runder (118, 71, 64 og 49: hovedbekendtgørelser med og uden registry-node, vejledninger i runde
+    1 og 2, love og lovbekendtgørelser i runde 3 og 4). En annotator (Haiku) har læst hvert dokuments indledning, fodnoter og bestemmelser om
+    klage og tilsyn uden at se katalog eller registry og skrevet hjemmel med bestemmelser, gennemførte EU-retsakter, klageinstans, tilsynsmyndighed
+    og, for vejledninger, de retsakter teksten nævner (instruks.md). Hvert led har et ordret citat, som er kontrolleret maskinelt mod teksten;
+    facit.jsonl har leddene, rettelser.json de seks dokumenter, hvor facit er rettet efter gennemsyn, og README.md målingen. Runde 1 er brugt
+    til at finde og rette fejl i udtrækkene; runde 2, 3 og 4 er trukket bagefter, og deres første målinger står i kontrol-2.json, kontrol-3.json
+    og kontrol-4.json. Runde 1-3 er brugt til at rette læseren af klage- og tilsynsbestemmelser, så den første måling af runde 4 (2026-11-21)
+    er den eneste uafhængige måling af klage- og tilsynskanterne pr. forskrift: klageinstans 16 rigtige, 4 forkerte og 2 manglende; tilsynsmyndighed
+    20 rigtige, 1 forkert og 6 manglende. Registry''ets klageinstans-kanter mellem myndighederne (''klagekant mellem de to noder'') er målt
+    igen 2026-11-21, efter at 11 kanter fra klageparrene var lagt ind (raw/populate/2026-11-21-klagepar.*): runde 1 13 af 16, runde 2 7 af 11,
+    runde 3 15 af 20 og runde 4 17 af 20 (før 13 af 16, 6 af 11, 11 af 20 og 14 af 20); ingen forkerte. Kanterne er lagt ind efter katalogets
+    par, så tallet er til den pæne side. Annotatoren er en sprogmodel, ikke en jurist, og udtaget dækker kun dokumenter fra 2010 og frem i de
+    otte domæner.'
 regering:
   navn: Regeringen Mette Frederiksen III
   dannet: '2026-06-03'
@@ -105009,6 +105013,145 @@ edges:
   sikkerhed: verificeret
   domaener:
   - strafferet-politi
+- type: klageinstans
+  from: naevn-energiklagenaevnet
+  to: min-klima-energi-og-forsyning
+  beskrivelse: Energiklagenævnet behandler klager over klima-, energi- og forsyningsministerens afgørelser efter bl.a. elforsyningsloven (§ 89),
+    gasforsyningsloven (§ 51) og lov om fremme af energibesparelser i bygninger (§ 29).
+  kilder:
+  - https://www.retsinformation.dk/eli/lta/2026/544
+  - https://www.retsinformation.dk/eli/lta/2025/1286
+  - https://www.retsinformation.dk/eli/lta/2025/1253
+  sikkerhed: verificeret
+  domaener:
+  - energi
+- type: klageinstans
+  from: naevn-miljoe-og-foedevareklagenaevnet
+  to: min-miljoe
+  beskrivelse: Miljøministerens afgørelser efter bl.a. kystbeskyttelsesloven (§ 18), råstofloven (§ 26, stk. 1) og jordforureningsloven (§ 77,
+    stk. 1, nr. 2) kan påklages til Miljø- og Fødevareklagenævnet; klageadgangen gælder de afgørelser, hver lov opregner.
+  kilder:
+  - https://www.retsinformation.dk/eli/lta/2025/245
+  - https://www.retsinformation.dk/eli/lta/2024/1230
+  - https://www.retsinformation.dk/eli/lta/2026/964
+  sikkerhed: sandsynlig
+  domaener:
+  - miljoe
+  - natur-vand-kyst
+- type: klageinstans
+  from: min-klima-energi-og-forsyning
+  to: sty-energistyrelsen
+  beskrivelse: Energistyrelsens afgørelser efter en række tilskudsbekendtgørelser (bl.a. tilskud til eldrevne varmepumper og solvarmeanlæg til
+    fjernvarmeproduktion, til teknologier, der reducerer drivhusgasudledningen i landbruget, og til energiforbedringer i kommunale og regionale
+    bygninger) kan påklages til klima-, energi- og forsyningsministeren.
+  kilder:
+  - https://www.retsinformation.dk/eli/lta/2022/937
+  - https://www.retsinformation.dk/eli/lta/2022/25
+  - https://www.retsinformation.dk/eli/lta/2024/1096
+  sikkerhed: verificeret
+  domaener:
+  - energi
+- type: klageinstans
+  from: min-sundhed-og-kirke
+  to: tilsyn-biskopperne
+  beskrivelse: Biskoppens afgørelser efter lov om bestyrelse og brug af folkekirkens kirker m.m. (§ 23) og visse af biskoppens afgørelser efter
+    menighedsrådsloven (§ 16, stk. 3) kan påklages til kirkeministeren. Kirkeområdet hører siden 3/6/2026 under Sundheds- og Kirkeministeriet;
+    By-, Land- og Kirkeministeriet er tidligere navn for kirkeområdets ministerium (jf. min-by-land-og-kirke).
+  kilder:
+  - https://www.retsinformation.dk/eli/lta/2014/330
+  - https://www.retsinformation.dk/eli/lta/2026/675
+  sikkerhed: verificeret
+  domaener:
+  - kirke
+- type: klageinstans
+  from: naevn-energiklagenaevnet
+  to: sty-erhvervsstyrelsen
+  beskrivelse: 'Erhvervsstyrelsens afgørelser om konti i EU''s CO2-kvoteregister og Det Danske Kyotoregister (BEK 1575/2025 § 24) og om konti
+    og transaktioner i CBAM-registeret (BEK 351/2026 § 2, stk. 2) kan indbringes for Energiklagenævnet. Det samme gælder afgørelser efter bekendtgørelsen
+    om miljøvenligt design af energirelaterede produkter (BEK 1321/2021 § 15), som bekendtgørelsen tillægger Sikkerhedsstyrelsen (tidligere navn:
+    Sikkerhedsstyrelsen blev fusioneret ind i Erhvervsstyrelsen 1/1/2026, jf. sty-erhvervsstyrelsen).'
+  kilder:
+  - https://www.retsinformation.dk/eli/lta/2025/1575
+  - https://www.retsinformation.dk/eli/lta/2026/351
+  - https://www.retsinformation.dk/eli/lta/2021/1321
+  sikkerhed: sandsynlig
+  domaener:
+  - energi
+  - eu
+- type: klageinstans
+  from: min-by-land-og-transport
+  to: kommune-alle
+  beskrivelse: 'Kommunalbestyrelsens afgørelser efter vejloven og privatvejsloven kan påklages til transportministeren, for så vidt angår retlige
+    spørgsmål; afgørelser om ekspropriation efter privatvejslovens § 29 og § 72, stk. 3, kan påklages fuldt ud. Transportministeren er tidligere
+    navn: ministeriet hedder siden 3/6/2026 By-, Land- og Transportministeriet (jf. min-by-land-og-transport).'
+  kilder:
+  - https://www.retsinformation.dk/eli/lta/2024/435
+  - https://www.retsinformation.dk/eli/lta/2024/1050
+  sikkerhed: verificeret
+  domaener:
+  - kommunalt
+  - transport
+- type: klageinstans
+  from: min-miljoe
+  to: sty-miljoestyrelsen
+  beskrivelse: Miljøstyrelsens afgørelser efter bekendtgørelsen om vandkvalitet på visse søgående passagerskibe, der afsalter havvand, og efter
+    § 14 i bekendtgørelsen om indvinding af vand til drikkevandsforsyning gennem afsaltning af havvand kan påklages til miljøministeren efter
+    vandforsyningslovens regler.
+  kilder:
+  - https://www.retsinformation.dk/eli/lta/2024/768
+  - https://www.retsinformation.dk/eli/lta/2025/1274
+  sikkerhed: verificeret
+  domaener:
+  - miljoe
+  - natur-vand-kyst
+- type: klageinstans
+  from: naevn-miljoe-og-foedevareklagenaevnet
+  to: org-udbetaling-danmark
+  beskrivelse: Udbetaling Danmarks afgørelser efter § 18, stk. 2, i lov om visse landdistriktsrelaterede tilskudsordninger kan påklages til Miljø-
+    og Fødevareklagenævnet; lov om Udbetaling Danmark (§ 4 a) nævner nævnet blandt de klageinstanser, der behandler påklagede afgørelser på Udbetaling
+    Danmarks myndighedsområder.
+  kilder:
+  - https://www.retsinformation.dk/eli/lta/2017/34
+  - https://www.retsinformation.dk/eli/lta/2026/975
+  sikkerhed: verificeret
+  domaener:
+  - plan
+- type: klageinstans
+  from: naevn-vurderingsankenaevn
+  to: sty-skatteforvaltningen
+  beskrivelse: Vurderingsankenævnene afgør klager over Skatteforvaltningens afgørelser efter ejendomsvurderingsloven, lov om vurdering af landets
+    faste ejendomme og ejendomsavancebeskatningslovens § 8, stk. 1, nr. 3, medmindre klagen henvises til Landsskatteretten eller skatteankeforvaltningen
+    (skatteforvaltningslovens § 6). Loven bruger betegnelsen told- og skatteforvaltningen, som registry'et fører som tidligere navn for Skatteforvaltningen.
+  kilder:
+  - https://www.retsinformation.dk/eli/lta/2025/1228
+  - https://www.retsinformation.dk/eli/lta/2021/2289
+  sikkerhed: verificeret
+  domaener:
+  - skat
+- type: klageinstans
+  from: naevn-motorankenaevn
+  to: sty-skatteforvaltningen
+  beskrivelse: Motorankenævnene afgør klager over Skatteforvaltningens afgørelser om den afgiftspligtige værdi af nye og brugte køretøjer og om
+    godtgørelse efter registreringsafgiftsloven, medmindre sagen visiteres til Landsskatteretten (skatteforvaltningslovens § 7). Loven bruger
+    betegnelsen told- og skatteforvaltningen, som registry'et fører som tidligere navn for Skatteforvaltningen.
+  kilder:
+  - https://www.retsinformation.dk/eli/lta/2025/1228
+  - https://www.retsinformation.dk/eli/lta/2022/1043
+  sikkerhed: sandsynlig
+  domaener:
+  - skat
+- type: klageinstans
+  from: sty-styrelsen-for-patientklager
+  to: org-udbetaling-danmark
+  beskrivelse: Udbetaling Danmarks afgørelser om særligt sundhedskort, indplacering i sikringsgruppe og begravelseshjælp efter sundhedsloven kan
+    påklages til Styrelsen for Patientklager (klage- og erstatningslovens § 5 a); lov om Udbetaling Danmark (§ 4 a) nævner styrelsen blandt de
+    klageinstanser, der behandler påklagede afgørelser på Udbetaling Danmarks myndighedsområder.
+  kilder:
+  - https://www.retsinformation.dk/eli/lta/2025/1250
+  - https://www.retsinformation.dk/eli/lta/2026/975
+  sikkerhed: verificeret
+  domaener:
+  - sundhed
 huller:
 - emne: Kommercielle branchevejledninger (SBi/BUILD, DBI, Molio) bag betalingsmur
   type: betalingsmur
@@ -111099,30 +111242,36 @@ huller:
     15 af 15 rigtige, men 11 af facits 26 manglede, fordi læseren kun kendte få formuleringer. Fra 2026-11-16 læses også ''påser, at'', ''kontrollerer'',
     ''er tilsynsmyndighed'' og ''styrelsens kontrol med'' (JGA-134); runde 3 giver derefter 27 rigtige, 2 forkerte og 4 manglende tilsynsmyndigheder,
     men runde 3 er nu brugt til at rette læseren. De 2 forkerte står i teksten (''Kommunalbestyrelsen eller regionsrådet er dog tilsynsmyndighed'',
-    ''Energinets tilsyn med overholdelse af forskrifterne''), men ikke i facit. Runde 1-3 er dermed alle brugt til at rette læseren, og
-    runde 4 er trukket bagefter (49 dokumenter, samme grupper som runde 3). Dens første måling (kontrol-4.json, 2026-11-21) er den uafhængige:
-    klageinstans 16 rigtige, 4 forkerte og 2 manglende; afgørende myndighed 11 rigtige, 1 forkert og 7 manglende; tilsynsmyndighed 20 rigtige,
-    1 forkert og 6 manglende. 3 af de 4 forkerte klageinstanser står i teksten, men ikke i facit; den fjerde er en erstatning, ikke en klage
-    (''indbringe erstatningsspørgsmålet for taksationsmyndighederne''). Den forkerte tilsynsmyndighed står i en sætning om bekendtgørelsens
-    anvendelsesområde (''finder anvendelse på Arbejdstilsynets tilsyn med''). De manglende tilsynsmyndigheder står i formuleringer, læseren ikke
-    kender (''forestår … kontrol'', ''gennemfører rutineinspektioner'', ''er … bygningsmyndighed og påser'', ''Ministeren fører tilsyn'' uden
-    titel, ''ministerens omkostninger forbundet med tilsyn'', adgang til ejendom ''for at kontrollere''). Af de 80 nye tilsyn-kanter er alle gennemset i hånden: højst 3 er
-    forkerte (sagsbehandling, ikke tilsyn: ''påse, om betingelserne er opfyldt''); før ''påser'' og ''kontrollerer'' blev begrænset til sætninger om
-    at overholde noget, var 18 af 50 tilfældige nye kanter forkerte. I et håndgennemsyn af 52 tilfældige klageinstans-kanter uden for evalueringssættet var 2 forkerte
+    ''Energinets tilsyn med overholdelse af forskrifterne''), men ikke i facit. Runde 1-3 er dermed alle brugt til at rette læseren, og runde
+    4 er trukket bagefter (49 dokumenter, samme grupper som runde 3). Dens første måling (kontrol-4.json, 2026-11-21) er den uafhængige: klageinstans
+    16 rigtige, 4 forkerte og 2 manglende; afgørende myndighed 11 rigtige, 1 forkert og 7 manglende; tilsynsmyndighed 20 rigtige, 1 forkert og
+    6 manglende. 3 af de 4 forkerte klageinstanser står i teksten, men ikke i facit; den fjerde er en erstatning, ikke en klage (''indbringe erstatningsspørgsmålet
+    for taksationsmyndighederne''). Den forkerte tilsynsmyndighed står i en sætning om bekendtgørelsens anvendelsesområde (''finder anvendelse
+    på Arbejdstilsynets tilsyn med''). De manglende tilsynsmyndigheder står i formuleringer, læseren ikke kender (''forestår … kontrol'', ''gennemfører
+    rutineinspektioner'', ''er … bygningsmyndighed og påser'', ''Ministeren fører tilsyn'' uden titel, ''ministerens omkostninger forbundet med
+    tilsyn'', adgang til ejendom ''for at kontrollere''). Af de 80 nye tilsyn-kanter er alle gennemset i hånden: højst 3 er forkerte (sagsbehandling,
+    ikke tilsyn: ''påse, om betingelserne er opfyldt''); før ''påser'' og ''kontrollerer'' blev begrænset til sætninger om at overholde noget,
+    var 18 af 50 tilfældige nye kanter forkerte. I et håndgennemsyn af 52 tilfældige klageinstans-kanter uden for evalueringssættet var 2 forkerte
     (en sag, ikke en klage, blev indbragt for instansen); det mønster er siden udelukket. Læseren gemmer alle afgørende myndigheder i sætningen
     (''truffet af ministeren eller af Forsyningstilsynet''), men kun den første i en opregning med komma. ''Kirkeministeren'' er Sundheds- og
     Kirkeministeriet, der har kirkeområdet i dag, og ''Direktoratet for Kriminalforsorgen'' er Danmarks Fængsler. Titlen på et nedlagt ministerium,
     hvis område er delt (''by-, land- og kirkeministeren'', ''indenrigs- og boligministeren''), peger stadig på det nedlagte ministerium, og ''Trafik-
-    og Byggestyrelsen'' læses ikke, fordi det er tidligere navn for både Trafikstyrelsen og Trafik-, Bygge- og Boligstyrelsen, og hvilken der menes,
-    afhænger af området. Tre forbehold: en instans uden node i registry''et giver
-    ingen kant (''ankenævnet'', ''det i henhold til … nedsatte ankenævn''; ministerens titel læses siden 2026-11-16 som ministeriet, og fortegnelsen over
-    navne uden node står i raw/populate/2026-11-16-unavngivne.tsv); kanten gengiver dokumentets tekst, som den er udstedt, så byggeloven
-    i LBK nr. 1178 af 2016 stadig peger på statsforvaltningen, selv om klageadgangen er flyttet ved en senere ændringslov; og uden for tekstlagets
-    udsnit (de otte domæner og registry''ets dokumenter) er teksten ikke hentet. 28 par af klageinstans og afgørende myndighed fra kanterne findes
-    ikke som klageinstans-kant mellem de to instanser i registry''et; tre med to uafhængige dokumenter bag er lagt ind 2026-11-15 (Energiklagenævnet
-    over Arbejdstilsynet på offshoreområdet, Forsyningstilsynet over Energinet, Ankestyrelsen over Familieretshuset), resten er ikke gennemgået,
-    og flere af dem navngiver en forkert afgørende myndighed eller en nedlagt instans. Efter at ministerens titel læses som ministeriet,
-    er der 47 sådanne par, og 50, efter at læseren gemmer alle afgørende myndigheder.'
+    og Byggestyrelsen'' læses ikke, fordi det er tidligere navn for både Trafikstyrelsen og Trafik-, Bygge- og Boligstyrelsen, og hvilken der
+    menes, afhænger af området. Tre forbehold: en instans uden node i registry''et giver ingen kant (''ankenævnet'', ''det i henhold til … nedsatte
+    ankenævn''; ministerens titel læses siden 2026-11-16 som ministeriet, og fortegnelsen over navne uden node står i raw/populate/2026-11-16-unavngivne.tsv);
+    kanten gengiver dokumentets tekst, som den er udstedt, så byggeloven i LBK nr. 1178 af 2016 stadig peger på statsforvaltningen, selv om klageadgangen
+    er flyttet ved en senere ændringslov; og uden for tekstlagets udsnit (de otte domæner og registry''ets dokumenter) er teksten ikke hentet.
+    28 par af klageinstans og afgørende myndighed fra kanterne findes ikke som klageinstans-kant mellem de to instanser i registry''et; tre med
+    to uafhængige dokumenter bag er lagt ind 2026-11-15 (Energiklagenævnet over Arbejdstilsynet på offshoreområdet, Forsyningstilsynet over Energinet,
+    Ankestyrelsen over Familieretshuset), og flere af de øvrige navngiver en forkert afgørende myndighed eller en nedlagt instans. Efter at ministerens
+    titel læses som ministeriet, er der 47 sådanne par, og 50, efter at læseren gemmer alle afgørende myndigheder. De 50 er gennemgået 2026-11-21
+    (raw/populate/2026-11-21-klagepar.tsv): 12 par er lagt ind som 11 kanter (8 verificeret, 3 sandsynlig efter kontrollantens dom), 26 er afvist
+    (nedlagt eller forkert myndighed, smal afgørelsestype, læsefejl), og 12 står åbne, fordi kun én forskrift nævner ruten, eller fordi den nuværende
+    myndighed ikke er afklaret. Læsefejl i kanterne: Jernbanenævnet over Ankenævnet for Bus, Tog og Metro (sætningen afgrænser kompetencen),
+    Forbrugerklagenævnet over Konkurrence- og Forbrugerstyrelsen (§ 19 handler om forbrugeres klager over erhvervsdrivende), Landsskatteretten over
+    klima-, energi- og forsyningsministeren (§ 11, stk. 5, handler om told- og skatteforvaltningens pålæg); ''social- og boligministeren'' læses
+    som Socialministeriet og ''indenrigs- og sundhedsministeren'' som Sundheds- og Kirkeministeriet, selv om området nu ligger hos Børne-,
+    Ældre- og Boligministeriet og Økonomi- og Indenrigsministeriet.'
   noder:
   - kilde-retsinformation
   - naevn-energiklagenaevnet

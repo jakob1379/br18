@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 146 · kanter: 293
+Noder: 146 · kanter: 295
 
 ```mermaid
 flowchart LR
@@ -433,6 +433,8 @@ flowchart LR
     lov_gasforsyningsloven -->|implementerer_EU| eu_dir_2018_2001
     lov_gasforsyningsloven -->|implementerer_EU| eu_dir_2023_1791
     tilsyn_forsyningstilsynet -->|klageinstans| org_energinet
+    naevn_energiklagenaevnet -->|klageinstans| min_klima_energi_og_forsyning
+    min_klima_energi_og_forsyning -->|klageinstans| sty_energistyrelsen
     bek_miljoeaktiviteter -->|hjemmel_for| reg_forskrifter_bygge_anlaeg
     bek_miljoetilsyn -.->|hjemmel_for| kilde_dma
     bek_spildevand -->|hjemmel_for| plan_spildevandsplan

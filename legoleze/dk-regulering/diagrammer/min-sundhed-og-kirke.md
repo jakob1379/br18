@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 52 · kanter: 108
+Noder: 53 · kanter: 110
 
 ```mermaid
 flowchart LR
@@ -30,6 +30,7 @@ flowchart LR
     sty_styrelsen_for_patientsikkerhed["Styrelsen for Patientsikkerhed"]:::instans
     sty_sundhedsdatastyrelsen["Sundhedsdatastyrelsen"]:::instans
     sty_sundhedsstyrelsen["Sundhedsstyrelsen"]:::instans
+    org_udbetaling_danmark["Udbetaling Danmark"]:::instans
     kilde_stpk_klageafgoerelser["Afgørelser fra Styrelsen for Patientklager (stpk.dk)"]:::kilde
     kilde_stpk_disciplinaernaevn_afgoerelser["Afgørelser fra Sundhedsvæsenets Disciplinærnævn (stpk.dk)"]:::kilde
     kilde_stpk_erstatningsdomme["Domme fra erstatningsområdet (stpk.dk)"]:::kilde
@@ -174,6 +175,8 @@ flowchart LR
     lov_sundhedsloven -->|hjemmel_for| naevn_abortnaevnet
     lov_sundhedsloven -->|hjemmel_for| naevn_abortankenaevnet
     naevn_abortankenaevnet -->|klageinstans| naevn_abortnaevnet
+    min_sundhed_og_kirke -->|klageinstans| tilsyn_biskopperne
+    sty_styrelsen_for_patientklager -->|klageinstans| org_udbetaling_danmark
 ```
 
 [← Overblik](oversigt.md)

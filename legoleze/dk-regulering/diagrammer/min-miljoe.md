@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 109 · kanter: 223
+Noder: 109 · kanter: 225
 
 ```mermaid
 flowchart LR
@@ -340,6 +340,8 @@ flowchart LR
     lov_jordforureningsloven -->|implementerer_EU| eu_dir_2010_75
     lov_raastofloven -->|implementerer_EU| eu_dir_1992_43
     lov_raastofloven -->|implementerer_EU| eu_dir_2004_35
+    naevn_miljoe_og_foedevareklagenaevnet -.->|klageinstans| min_miljoe
+    min_miljoe -->|klageinstans| sty_miljoestyrelsen
     bek_affald -.->|hjemmel_for| plan_affaldsplan
     bek_affaldsaktoer -->|hjemmel_for| reg_affaldsregulativer
     bek_affald -->|implementerer_EU| eu_dir_2008_98

@@ -55,7 +55,7 @@ Led i facit: hjemmel 371, eu 181, klage 104, tilsyn 154, henviser 118. Frafaldet
 | tilsynsmyndighed pr. forskrift | 8 | 0 | 0 | 100 % | 100 % |
 | tilsynsmyndighed er en node | 11 | 0 | 1 | 100 % | 92 % |
 | klageinstans er en node | 16 | 0 | 1 | 100 % | 94 % |
-| klagekant mellem de to noder | 6 | 0 | 5 | 100 % | 55 % |
+| klagekant mellem de to noder | 7 | 0 | 4 | 100 % | 64 % |
 | vejledning → retsakt | 45 | – | 0 | – | 100 % |
 
 ### Runde 2 (kontrol, første måling før rettelser efter runden)
@@ -86,7 +86,7 @@ Led i facit: hjemmel 371, eu 181, klage 104, tilsyn 154, henviser 118. Frafaldet
 | bestemmelser (paragrafnummer) | 173 | 0 | 4 | 100 % | 98 % |
 | tilsynsmyndighed er en node | 52 | 0 | 6 | 100 % | 90 % |
 | klageinstans er en node | 34 | 0 | 1 | 100 % | 97 % |
-| klagekant mellem de to noder | 11 | 0 | 9 | 100 % | 55 % |
+| klagekant mellem de to noder | 15 | 0 | 5 | 100 % | 75 % |
 
 ### Runde 3 (kontrol, første måling før rettelser efter runden)
 
@@ -118,7 +118,7 @@ Led i facit: hjemmel 371, eu 181, klage 104, tilsyn 154, henviser 118. Frafaldet
 | tilsynsmyndighed er en node | 45 | 0 | 6 | 100 % | 88 % |
 | klageinstans er en node | 24 | 0 | 4 | 100 % | 86 % |
 | bestemmelser (paragrafnummer) | 157 | 0 | 0 | 100 % | 100 % |
-| klagekant mellem de to noder | 14 | 0 | 6 | 100 % | 70 % |
+| klagekant mellem de to noder | 17 | 0 | 3 | 100 % | 85 % |
 
 ### Runde 4 (kontrol, første måling før rettelser efter runden)
 

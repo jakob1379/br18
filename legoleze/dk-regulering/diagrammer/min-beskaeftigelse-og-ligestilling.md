@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 114 · kanter: 203
+Noder: 116 · kanter: 205
 
 ```mermaid
 flowchart LR
@@ -48,6 +48,7 @@ flowchart LR
     fond_loenmodtagernes_garantifond["Lønmodtagernes Garantifond (LG)"]:::instans
     org_seniorpensionsenheden["Seniorpensionsenheden"]:::instans
     sty_star["Styrelsen for Arbejdsmarked og Rekruttering (STAR)"]:::instans
+    sty_styrelsen_for_patientklager["Styrelsen for Patientklager"]:::instans
     raad_tilsynsraadet["Tilsynsrådet (STAR)"]:::instans
     org_udbetaling_danmark["Udbetaling Danmark"]:::instans
     kilde_aes_love_og_praksis["AES: Love og praksis"]:::kilde
@@ -68,6 +69,7 @@ flowchart LR
     naevn_energiklagenaevnet["Energiklagenævnet"]:::klage
     ombud_folketingets_ombudsmand["Folketingets Ombudsmand"]:::klage
     naevn_ligebehandlingsnaevnet["Ligebehandlingsnævnet"]:::klage
+    naevn_miljoe_og_foedevareklagenaevnet["Miljø- og Fødevareklagenævnet"]:::klage
     raad_arbejdsmiljoeraadet["Arbejdsmiljørådet (nedlagt)"]:::nedlagt
     bek_autoriserede_arbejdsmiljoeraadgivere["Bekendtgørelse om brug af autoriserede arbejdsmiljørådgivere (ophævet)"]:::nedlagt
     vejl_at_bygge_og_anlaeg["AT-vejledning om bygge- og anlægsarbejde"]:::retsakt
@@ -329,6 +331,8 @@ flowchart LR
     lov_offshoresikkerhedsloven -->|implementerer_EU| eu_dir_2005_36
     lov_offshoresikkerhedsloven -->|implementerer_EU| eu_dir_2006_42
     naevn_energiklagenaevnet -->|klageinstans| sty_arbejdstilsynet
+    naevn_miljoe_og_foedevareklagenaevnet -->|klageinstans| org_udbetaling_danmark
+    sty_styrelsen_for_patientklager -->|klageinstans| org_udbetaling_danmark
     bek_elevatorer -->|implementerer_EU| eu_dir_2014_33
     bek_risiko -->|implementerer_EU| eu_dir_2012_18
 ```

@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 57 · kanter: 113
+Noder: 57 · kanter: 115
 
 ```mermaid
 flowchart LR
@@ -184,6 +184,8 @@ flowchart LR
     lov_forsikringsvirksomhed -->|implementerer_EU| eu_dir_2015_849
     lov_lov_om_betalinger -->|hjemmel_for| ombud_forbrugerombudsmanden
     lov_finansiel_virksomhed -->|implementerer_EU| eu_dir_2022_2555
+    naevn_vurderingsankenaevn -->|klageinstans| sty_skatteforvaltningen
+    naevn_motorankenaevn -.->|klageinstans| sty_skatteforvaltningen
 ```
 
 [← Overblik](oversigt.md)

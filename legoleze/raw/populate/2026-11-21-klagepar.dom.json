@@ -1,0 +1,57 @@
+[
+ {
+  "hvor": "kant naevn-energiklagenaevnet|klageinstans|min-klima-energi-og-forsyning",
+  "dom": "baerer",
+  "grund": "Alle tre citater (§ 89, § 51 og § 29) siger, at klima-, energi- og forsyningsministerens afgørelser kan påklages til Energiklagenævnet, og § 29 stk. 2 udelukker anden administrativ klageinstans. Lovnavnene står ikke i citaterne, men paragrafnumrene matcher claimen."
+ },
+ {
+  "hvor": "kant naevn-miljoe-og-foedevareklagenaevnet|klageinstans|min-miljoe",
+  "dom": "delvist",
+  "grund": "Citaterne bærer kun ruten for miljøministerens afgørelser opregnet i den enkelte lov, og § 18 i 2025/245 er begrænset til retlige spørgsmål, en begrænsning claimen ikke nævner. Citatet siger heller ikke, at det er kystbeskyttelsesloven."
+ },
+ {
+  "hvor": "kant min-klima-energi-og-forsyning|klageinstans|sty-energistyrelsen",
+  "dom": "baerer",
+  "grund": "De tre citater siger ordret, at Energistyrelsens afgørelser efter den enkelte tilskudsbekendtgørelse kan påklages til klima-, energi- og forsyningsministeren, og formuleringen er den samme i alle tre. Claimens konkrete tilskudseksempler står ikke i citaterne, men de ændrer ikke klageruten."
+ },
+ {
+  "hvor": "kant min-sundhed-og-kirke|klageinstans|tilsyn-biskopperne",
+  "dom": "baerer",
+  "grund": "§ 23 i 2014/330 siger, at biskoppens afgørelser efter loven kan påklages til kirkeministeren, og 2026/675 § 16 stk. 3 dækker den delvise menighedsrådsroute. Lovnavnet står ikke i citatet, og omdøbningen pr. 3/6/2026 er ikke dokumenteret i citaterne."
+ },
+ {
+  "hvor": "kant naevn-energiklagenaevnet|klageinstans|sty-erhvervsstyrelsen",
+  "dom": "delvist",
+  "grund": "Citaterne bærer ruten for Erhvervsstyrelsens afgørelser om konti og transaktioner i CO2-kvoteregistret og CBAM-registeret, men ikke generelt. Citatet fra 2021/1321 § 15 peger på Sikkerhedsstyrelsen, og sammenlægningen med Erhvervsstyrelsen pr. 1/1/2026 står ikke i citaterne."
+ },
+ {
+  "hvor": "kant min-by-land-og-transport|klageinstans|kommune-alle",
+  "dom": "baerer",
+  "grund": "§ 132 i 2024/435 og § 87 stk. 2 i 2024/1050 siger, at kommunalbestyrelsens afgørelser kan påklages til transportministeren for retlige spørgsmål, og § 87 stk. 1 giver fuld klageadgang for ekspropriation efter § 29 og § 72 stk. 3. Det matcher claimen. Lovnavnene står ikke i citaterne."
+ },
+ {
+  "hvor": "kant min-miljoe|klageinstans|sty-miljoestyrelsen",
+  "dom": "baerer",
+  "grund": "§ 12 i 2024/768 og § 21 i 2025/1274 siger, at Miljøstyrelsens afgørelser kan påklages til miljøministeren efter vandforsyningslovens regler, og 2025/1274 er entydigt om afsaltningsbekendtgørelsens § 14. Titlen på den første bekendtgørelse står ikke i citatet."
+ },
+ {
+  "hvor": "kant naevn-miljoe-og-foedevareklagenaevnet|klageinstans|org-udbetaling-danmark",
+  "dom": "baerer",
+  "grund": "§ 19 stk. 3 i 2017/34 siger ordret, at Udbetaling Danmarks afgørelser efter § 18 stk. 2 kan påklages til Miljø- og Fødevareklagenævnet, og det er samme snævre omfang som claimen. Den anden kilde (§ 4 a i 2026/975) nævner nævnet kun i en bisætning om tolkeforbud og understøtter ruten indirekte."
+ },
+ {
+  "hvor": "kant naevn-vurderingsankenaevn|klageinstans|sty-skatteforvaltningen",
+  "dom": "baerer",
+  "grund": "§ 6 stk. 1 og 2 i 2025/1228 siger, at vurderingsankenævnene afgør klager over told- og skatteforvaltningens afgørelser efter de tre love, med undtagelse af klager henvist til Landsskatteretten eller skatteankeforvaltningen. 2021/2289 § 1 bekræfter ruten. Citaterne bekræfter ikke, at 'told- og skatteforvaltningen' og 'Skatteforvaltningen' er samme myndighed."
+ },
+ {
+  "hvor": "kant naevn-motorankenaevn|klageinstans|sty-skatteforvaltningen",
+  "dom": "delvist",
+  "grund": "§ 7 i 2025/1228 og § 1 i 2022/1043 bærer ruten for afgørelser om afgiftspligtig værdi og godtgørelse efter registreringsafgiftsloven. Ingen af citaterne siger dog, at sager visiteres til Landsskatteretten, og 2022/1043 henviser til en anden undtagelse (§ 35 b)."
+ },
+ {
+  "hvor": "kant sty-styrelsen-for-patientklager|klageinstans|org-udbetaling-danmark",
+  "dom": "baerer",
+  "grund": "§ 5 a i 2025/1250 siger ordret, at Udbetaling Danmarks afgørelser om særligt sundhedskort, sikringsgruppe og begravelseshjælp kan påklages til Styrelsen for Patientklager. Lovhenvisningen til klage- og erstatningsloven står ikke i citatet, og 2026/975 er kun en bisætning."
+ }
+]
