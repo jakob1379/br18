@@ -1,0 +1,56 @@
+[
+  {
+    "id": "lta-2025-1152",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 572, "aar": 2024, "bestemmelser": ["§ 3, stk. 1 og 2", "§ 5 b, stk. 4 og 8"], "citat": "lovbekendtgørelse nr. 572 af 29. maj 2024"}],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2020-114",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [
+      {"myndighed": "Ministeren for fødevarer, fiskeri og ligestilling", "bestemmelse": "§ 9", "citat": "Ministeren for fødevarer, fiskeri og ligestilling og erhvervsministeren har hver for sig"},
+      {"myndighed": "erhvervsministeren", "bestemmelse": "§ 9", "citat": "Ministeren for fødevarer, fiskeri og ligestilling og erhvervsministeren har hver for sig"},
+      {"myndighed": "Ministeren for fødevarer, fiskeri og ligestilling", "bestemmelse": "§ 10", "citat": "Ministeren for fødevarer, fiskeri og ligestilling og erhvervsministeren kan hver for sig"},
+      {"myndighed": "erhvervsministeren", "bestemmelse": "§ 10", "citat": "Ministeren for fødevarer, fiskeri og ligestilling og erhvervsministeren kan hver for sig"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2024-400",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [
+      {"afgoerelse_af": "ministeren for byer og landdistrikter", "klageinstans": "Planklagenævnet", "bestemmelse": "§ 10 e", "citat": "kan påklages til Planklagenævnet"},
+      {"afgoerelse_af": "kommunalbestyrelsen", "klageinstans": "Planklagenævnet", "bestemmelse": "§ 10 e", "citat": "kan påklages til Planklagenævnet"}
+    ],
+    "tilsyn": [
+      {"myndighed": "Ministeren for byer og landdistrikter", "bestemmelse": "§ 10 a", "citat": "Ministeren for byer og landdistrikter påser overholdelsen af denne lov"},
+      {"myndighed": "kommunalbestyrelsen", "bestemmelse": "§ 10 a", "citat": "Kommunalbestyrelsen påser overholdelsen af § 4"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2024-572",
+    "hjemmel": [],
+    "eu": [
+      {"type": "direktiv", "aar": 1992, "nr": 43, "citat": "direktiv 92/43/EØF"},
+      {"type": "direktiv", "aar": 2009, "nr": 147, "citat": "direktiv 2009/147/EF"},
+      {"type": "direktiv", "aar": 2018, "nr": 1972, "citat": "direktiv 2018/1972/EU"}
+    ],
+    "klage": [
+      {"afgoerelse_af": "kommunalbestyrelsen", "klageinstans": "Planklagenævnet", "bestemmelse": "§ 58", "citat": "Til Planklagenævnet kan påklages"},
+      {"afgoerelse_af": "forening", "klageinstans": "kommunalbestyrelsen", "bestemmelse": "§ 58 a", "citat": "kan påklages til kommunalbestyrelsen"}
+    ],
+    "tilsyn": [
+      {"myndighed": "kommunalbestyrelsen", "bestemmelse": "§ 38", "citat": "Kommunalbestyrelsen skal påse, om betingelserne efter § 37 er opfyldt"},
+      {"myndighed": "kommunalbestyrelsen", "bestemmelse": "§ 51", "citat": "Kommunalbestyrelsen påser overholdelsen af denne lov"},
+      {"myndighed": "kommunalbestyrelsen", "bestemmelse": "§ 57", "citat": "Kommunalbestyrelsens personale og personer med bemyndigelse fra kommunalbestyrelsen har uden retskendelse adgang til enhver ejendom i tilsynsøjemed"}
+    ],
+    "henviser": []
+  }
+]

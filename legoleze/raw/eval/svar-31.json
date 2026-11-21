@@ -1,0 +1,151 @@
+[
+  {
+    "id": "lta-2025-1091",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 124, "aar": 2024, "bestemmelser": ["§ 2, stk. 6", "§ 2 a", "§ 3, stk. 2", "§ 4, stk. 2", "§ 5, stk. 1", "§ 9, stk. 1", "§ 15", "§ 23 p", "§ 26 a", "§ 34, stk. 2"], "citat": "lovbekendtgørelse nr. 124 af 2. februar 2024"},
+      {"type": "bekendtgørelse", "nr": 840, "aar": 2025, "bestemmelser": ["§ 5, stk. 1"], "citat": "bekendtgørelse nr. 840 af 25. juni 2025"}
+    ],
+    "eu": [
+      {"type": "direktiv", "aar": 2018, "nr": 844, "citat": "direktiv 2018/844"},
+      {"type": "direktiv", "aar": 2018, "nr": 2001, "citat": "direktiv 2018/2001/EU"},
+      {"type": "direktiv", "aar": 2019, "nr": 944, "citat": "direktiv 2019/944"},
+      {"type": "direktiv", "aar": 2023, "nr": 1791, "citat": "direktiv (EU) 2023/1791"}
+    ],
+    "klage": [
+      {"afgoerelse_af": "kommunalbestyrelsen", "klageinstans": "Energiklagenævnet", "bestemmelse": "§ 30", "citat": "Energiklagenævnet behandler klager over afgørelser truffet efter denne bekendtgørelse"},
+      {"afgoerelse_af": "Energistyrelsen", "klageinstans": "Energiklagenævnet", "bestemmelse": "§ 30", "citat": "Energiklagenævnet behandler klager over afgørelser truffet efter denne bekendtgørelse"}
+    ],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2026-244",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 263, "aar": 1989, "bestemmelser": ["§ 3, stk. 3"], "citat": "lovbekendtgørelse nr. 263 af 27. april 1989"},
+      {"type": "lovbekendtgørelse", "nr": 1461, "aar": 2023, "bestemmelser": ["§ 37"], "citat": "lovbekendtgørelse nr. 1461 af 29. november 2023"},
+      {"type": "lovbekendtgørelse", "nr": 1031, "aar": 2024, "bestemmelser": ["§ 68, nr. 1", "§ 70"], "citat": "lovbekendtgørelse nr. 1031 af 6. september 2024"},
+      {"type": "lovbekendtgørelse", "nr": 1248, "aar": 2023, "bestemmelser": ["§ 90, nr. 1", "§ 92"], "citat": "lovbekendtgørelse nr. 1248 af 24. oktober 2023"},
+      {"type": "lovbekendtgørelse", "nr": 1286, "aar": 2025, "bestemmelser": ["§ 24, stk. 2", "§ 52, nr. 2", "§ 54"], "citat": "lovbekendtgørelse nr. 1286 af 3. november 2025"},
+      {"type": "lovbekendtgørelse", "nr": 124, "aar": 2024, "bestemmelser": ["§ 24 b, stk. 1", "§ 26 a, nr. 2"], "citat": "lovbekendtgørelse nr. 124 af 2. februar 2024"},
+      {"type": "lovbekendtgørelse", "nr": 221, "aar": 2023, "bestemmelser": ["§ 8 d, stk. 1"], "citat": "lovbekendtgørelse nr. 221 af 6. marts 2023"},
+      {"type": "lov", "nr": 1767, "aar": 2023, "bestemmelser": ["§ 20, stk. 1 og 2"], "citat": "lov nr. 1767 af 28. december 2023"},
+      {"type": "lov", "nr": 354, "aar": 2012, "bestemmelser": ["§ 21, stk. 5"], "citat": "lov nr. 354 af 24. april 2012"},
+      {"type": "lovbekendtgørelse", "nr": 2167, "aar": 2021, "bestemmelser": ["§ 9, stk. 1 og 2"], "citat": "lovbekendtgørelse nr. 2167 af 29. november 2021"},
+      {"type": "lovbekendtgørelse", "nr": 1036, "aar": 2024, "bestemmelser": ["§ 19", "§ 20, stk. 4, nr. 2"], "citat": "lovbekendtgørelse nr. 1036 af 12. september 2024"},
+      {"type": "lovbekendtgørelse", "nr": 2166, "aar": 2021, "bestemmelser": ["§ 13, stk. 2"], "citat": "lovbekendtgørelse nr. 2166 af 29. november 2021"},
+      {"type": "lovbekendtgørelse", "nr": 186, "aar": 2022, "bestemmelser": ["§ 7, stk. 1", "§ 11, stk. 5"], "citat": "lovbekendtgørelse nr. 186 af 2. februar 2022"},
+      {"type": "lovbekendtgørelse", "nr": 1253, "aar": 2025, "bestemmelser": ["§ 29, stk. 4, nr. 2", "§ 31, stk. 1"], "citat": "lovbekendtgørelse nr. 1253 af 22. oktober 2025"},
+      {"type": "lovbekendtgørelse", "nr": 271, "aar": 2023, "bestemmelser": ["§ 21"], "citat": "lovbekendtgørelse nr. 271 af 9. marts 2023"},
+      {"type": "lovbekendtgørelse", "nr": 94, "aar": 2017, "bestemmelser": ["§ 10, stk. 1"], "citat": "lovbekendtgørelse nr. 94 af 26. januar 2017"},
+      {"type": "lovbekendtgørelse", "nr": 265, "aar": 2025, "bestemmelser": ["§ 25"], "citat": "lovbekendtgørelse nr. 265 af 6. marts 2025"},
+      {"type": "lovbekendtgørelse", "nr": 1243, "aar": 2025, "bestemmelser": ["§ 9 a"], "citat": "lovbekendtgørelse nr. 1243 af 27. oktober 2025"},
+      {"type": "lovbekendtgørelse", "nr": 1742, "aar": 2025, "bestemmelser": ["§ 80"], "citat": "lovbekendtgørelse nr. 1742 af 22. december 2025"},
+      {"type": "lov", "nr": 261, "aar": 2016, "bestemmelser": ["§ 4"], "citat": "lov nr. 261 af 16. marts 2016"},
+      {"type": "lovbekendtgørelse", "nr": 1149, "aar": 2024, "bestemmelser": ["§ 5, stk. 1 og 2"], "citat": "lovbekendtgørelse nr. 1149 af 28. oktober 2024"},
+      {"type": "lovbekendtgørelse", "nr": 1217, "aar": 2019, "bestemmelser": ["§ 78, stk. 1 og 3"], "citat": "lovbekendtgørelse nr. 1217 af 25. november 2019"},
+      {"type": "lovbekendtgørelse", "nr": 4, "aar": 2023, "bestemmelser": ["§ 43"], "citat": "lovbekendtgørelse nr. 4 af 3. januar 2023"},
+      {"type": "lov", "nr": 2379, "aar": 2021, "bestemmelser": ["§ 10, stk. 1"], "citat": "lov nr. 2379 af 14. december 2021"},
+      {"type": "lov", "nr": 612, "aar": 2024, "bestemmelser": ["§ 16"], "citat": "lov nr. 612 af 11. juni 2024"},
+      {"type": "lov", "nr": 1452, "aar": 2024, "bestemmelser": ["§ 3"], "citat": "lov nr. 1452 af 10. december 2024"},
+      {"type": "lov", "nr": 1453, "aar": 2024, "bestemmelser": ["§ 3"], "citat": "lov nr. 1453 af 10. december 2024"},
+      {"type": "lov", "nr": 258, "aar": 2025, "bestemmelser": ["§ 33"], "citat": "lov nr. 258 af 6. marts 2025"},
+      {"type": "lov", "nr": 431, "aar": 2025, "bestemmelser": ["§ 4, stk. 1"], "citat": "lov nr. 431 af 6. maj 2025"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2021-2580",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2023-1461",
+    "hjemmel": [],
+    "eu": [
+      {"type": "direktiv", "aar": 1994, "nr": 22, "citat": "direktiv 94/22/EF"},
+      {"type": "direktiv", "aar": 1992, "nr": 43, "citat": "direktiv 92/43/EØF"},
+      {"type": "direktiv", "aar": 2008, "nr": 99, "citat": "direktiv 2008/99/EF"},
+      {"type": "direktiv", "aar": 2018, "nr": 2001, "citat": "direktiv 2018/2001/EU"},
+      {"type": "direktiv", "aar": 2009, "nr": 31, "citat": "direktiv 2009/31/EF"},
+      {"type": "direktiv", "aar": 2009, "nr": 147, "citat": "direktiv 2009/147/EF"}
+    ],
+    "klage": [
+      {"afgoerelse_af": "klima-, energi- og forsyningsministeren", "klageinstans": "Energiklagenævnet", "bestemmelse": "§ 37 a", "citat": "Energiklagenævnet"}
+    ],
+    "tilsyn": [
+      {"myndighed": "klima-, energi- og forsyningsministeren", "bestemmelse": "§ 25", "citat": "Klima-, energi- og forsyningsministeren fører tilsyn med"},
+      {"myndighed": "klima-, energi- og forsyningsministeren", "bestemmelse": "§ 26", "citat": "klima-, energi- og forsyningsministerens tilsyn med deres virksomhed efter denne lov"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2024-614",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2015-1208",
+    "hjemmel": [
+      {"type": "lov", "nr": 1360, "aar": 2014, "bestemmelser": ["§ 2, stk. 1 og 2", "§ 4, stk. 2", "§ 6, stk. 1 og 2", "§ 9, stk. 4", "§ 11, stk. 1"], "citat": "lov nr. 1360 af 16. december 2014"},
+      {"type": "bekendtgørelse", "nr": 512, "aar": 2015, "bestemmelser": ["§ 5, stk. 1, nr. 40"], "citat": "bekendtgørelse nr. 512 af 23. april 2015"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [
+      {"myndighed": "NaturErhvervstyrelsen", "bestemmelse": "§ 4", "citat": "NaturErhvervstyrelsen forestår den fysiske og administrative kontrol"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2016-934",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1578, "aar": 2015, "bestemmelser": ["§ 51, stk. 1", "§ 70", "§ 73, stk. 3", "§ 78, stk. 6", "§ 89, stk. 3"], "citat": "lovbekendtgørelse nr. 1578 af 8. december 2015"},
+      {"type": "bekendtgørelse", "nr": 350, "aar": 2016, "bestemmelser": ["§ 2, stk. 1"], "citat": "bekendtgørelse nr. 350 af 26. marts 2016"}
+    ],
+    "eu": [
+      {"type": "direktiv", "aar": 2009, "nr": 147, "citat": "direktiv nr. 2009/147/EF"},
+      {"type": "direktiv", "aar": 1992, "nr": 43, "citat": "direktiv 92/43/EØF"}
+    ],
+    "klage": [],
+    "tilsyn": [
+      {"myndighed": "Naturstyrelsen", "bestemmelse": "§ 13", "citat": "Naturstyrelsen fører tilsyn med"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2024-1435",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 639, "aar": 2023, "bestemmelser": ["§ 37, stk. 1 og 3", "§ 49, stk. 3", "§ 52 c, stk. 1", "§ 54, stk. 3"], "citat": "lovbekendtgørelse nr. 639 af 26. maj 2023"}
+    ],
+    "eu": [
+      {"type": "direktiv", "aar": 2009, "nr": 147, "citat": "direktiv 2009/147/EF"},
+      {"type": "direktiv", "aar": 1992, "nr": 43, "citat": "direktiv 92/43/EØF"}
+    ],
+    "klage": [],
+    "tilsyn": [
+      {"myndighed": "Naturstyrelsen", "bestemmelse": "§ 7", "citat": "Naturstyrelsen fører tilsyn med"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2025-1552",
+    "hjemmel": [
+      {"type": "lov", "nr": 1375, "aar": 2012, "bestemmelser": ["§ 7, stk. 2", "§ 10, stk. 2", "§ 11, stk. 3-5"], "citat": "lov nr. 1375 af 23. december 2012"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [
+      {"myndighed": "Miljøstyrelsen", "bestemmelse": "§ 15", "citat": "Tilsyn og kontrol med overholdelse af reglerne i bekendtgørelsen udøves af Miljøstyrelsen"}
+    ],
+    "henviser": []
+  }
+]

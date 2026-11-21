@@ -1,0 +1,122 @@
+[
+  {
+    "id": "lta-2014-481",
+    "hjemmel": [{"type": "lov", "nr": 87, "aar": 2007, "bestemmelser": ["§ 3, stk. 2"], "citat": "lov nr. 87 af 30. januar 2007"}],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2017-798",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 1048, "aar": 2005, "bestemmelser": ["§ 57 b, stk. 1 og 4"], "citat": "lovbekendtgørelse nr. 1048 af 26. oktober 2005"}],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2021-1399",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 674, "aar": 2020, "bestemmelser": ["§ 15 a, stk. 4", "§ 17, stk. 3", "§ 39", "§ 43", "§ 49", "§ 49 c, stk. 1", "§ 84"], "citat": "lovbekendtgørelse nr. 674 af 25. maj 2020"}],
+    "eu": [],
+    "klage": [{"afgoerelse_af": "Arbejdstilsynet", "klageinstans": "Arbejdsmiljøklagenævnet", "bestemmelse": "§ 33", "citat": "kan påklages til Arbejdsmiljøklagenævnet"}],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2026-612",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 442, "aar": 2026, "bestemmelser": ["§ 35, stk. 1", "§ 39, stk. 2", "§ 43, stk. 1", "§ 57", "§ 84"], "citat": "lovbekendtgørelse nr. 442 af 24. april 2026"}],
+    "eu": [
+      {"type": "direktiv", "aar": 1989, "nr": 656, "citat": "direktiv 89/656/EØF"},
+      {"type": "direktiv", "aar": 2010, "nr": 32, "citat": "direktiv 2010/32/EU"},
+      {"type": "direktiv", "aar": 2019, "nr": 1832, "citat": "direktiv (EU) 2019/1832"}
+    ],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2013-117",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 1072, "aar": 2010, "bestemmelser": ["§ 37, stk. 2, 3, 5 og 6", "§ 73, 1. pkt.", "§ 84"], "citat": "lovbekendtgørelse nr. 1072 af 7. september 2010"}],
+    "eu": [{"type": "direktiv", "aar": 1992, "nr": 57, "citat": "direktiv 92/57/EØF"}],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2026-609",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 442, "aar": 2026, "bestemmelser": ["§ 12", "§ 17, stk. 3", "§ 20, stk. 2", "§ 39, stk. 1", "§ 40", "§ 41", "§ 57", "§ 63, stk. 1-3", "§ 84"], "citat": "lovbekendtgørelse nr. 442 af 24. april 2026"}],
+    "eu": [
+      {"type": "direktiv", "aar": 1989, "nr": 391, "citat": "direktiv 89/391/EØF"},
+      {"type": "direktiv", "aar": 1991, "nr": 383, "citat": "direktiv 91/383/EØF"},
+      {"type": "direktiv", "aar": 1992, "nr": 85, "citat": "direktiv 92/85/EØF"},
+      {"type": "direktiv", "aar": 2010, "nr": 32, "citat": "direktiv 2010/32/EU"}
+    ],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2026-442",
+    "hjemmel": [],
+    "eu": [
+      {"type": "direktiv", "aar": 1989, "nr": 391, "citat": "direktiv 89/391/EØF"},
+      {"type": "direktiv", "aar": 1992, "nr": 57, "citat": "direktiv 92/57/EØF"},
+      {"type": "direktiv", "aar": 1994, "nr": 33, "citat": "direktiv 94/33/EØF"},
+      {"type": "direktiv", "aar": 2003, "nr": 88, "citat": "direktiv 2003/88/EF"},
+      {"type": "direktiv", "aar": 2005, "nr": 36, "citat": "direktiv 2005/36/EF"},
+      {"type": "direktiv", "aar": 2009, "nr": 104, "citat": "direktiv 2009/104/EF"},
+      {"type": "direktiv", "aar": 2009, "nr": 148, "citat": "direktiv 2009/148/EF"}
+    ],
+    "klage": [
+      {"afgoerelse_af": "Arbejdstilsynet", "klageinstans": "Arbejdsmiljøklagenævnet", "bestemmelse": "§ 79 a", "citat": "kan indbringes for Arbejdsmiljøklagenævnet"},
+      {"afgoerelse_af": "Arbejdstilsynet", "klageinstans": "Arbejdsmiljøklagenævnet", "bestemmelse": "§ 81", "citat": "kan indbringes for Arbejdsmiljøklagenævnet"},
+      {"afgoerelse_af": "Arbejdstilsynet", "klageinstans": "beskæftigelsesministeren", "bestemmelse": "§ 81", "citat": "kan indbringes for beskæftigelsesministeren"},
+      {"afgoerelse_af": "privat virksomhed", "klageinstans": "Arbejdstilsynet", "bestemmelse": "§ 81 b", "citat": "kan indbringes for Arbejdstilsynet"}
+    ],
+    "tilsyn": [
+      {"myndighed": "Arbejdstilsynet", "bestemmelse": "§ 72", "citat": "påse, at loven og de forskrifter, der gives med hjemmel i loven, overholdes"},
+      {"myndighed": "Arbejdstilsynet", "bestemmelse": "§ 72 b", "citat": "har Arbejdstilsynet til opgave at påse overholdelsen af reglerne"},
+      {"myndighed": "Arbejdstilsynet", "bestemmelse": "§ 76", "citat": "Arbejdstilsynet fortsat kan føre kontrol og tilsyn med"},
+      {"myndighed": "Sikkerhedsstyrelsen", "bestemmelse": "§ 49 l", "citat": "Sikkerhedsstyrelsen fører tilsyn med"},
+      {"myndighed": "Sikkerhedsstyrelsen", "bestemmelse": "§ 49 m", "citat": "Sikkerhedsstyrelsens tilsyn med"},
+      {"myndighed": "Sikkerhedsstyrelsen", "bestemmelse": "§ 49 q", "citat": "Sikkerhedsstyrelsen fører tilsyn med"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2026-794",
+    "hjemmel": [],
+    "eu": [
+      {"type": "direktiv", "aar": 1989, "nr": 391, "citat": "direktiv 89/391/EØF"},
+      {"type": "direktiv", "aar": 1992, "nr": 91, "citat": "direktiv 92/91/EØF"},
+      {"type": "direktiv", "aar": 2003, "nr": 88, "citat": "direktiv 2003/88/EF"},
+      {"type": "direktiv", "aar": 2005, "nr": 36, "citat": "direktiv 2005/36/EF"},
+      {"type": "direktiv", "aar": 2006, "nr": 25, "citat": "direktiv 2006/25/EF"},
+      {"type": "direktiv", "aar": 2006, "nr": 42, "citat": "direktiv 2006/42/EF"},
+      {"type": "direktiv", "aar": 2013, "nr": 30, "citat": "direktiv 2013/30/EU"}
+    ],
+    "klage": [
+      {"afgoerelse_af": "beskæftigelsesministeren", "klageinstans": "Energiklagenævnet", "bestemmelse": "§ 66 a", "citat": "kan indbringes for Energiklagenævnet"},
+      {"afgoerelse_af": "beskæftigelsesministeren", "klageinstans": "Energiklagenævnet", "bestemmelse": "§ 67", "citat": "Energiklagenævnet behandler klager over afgørelser truffet af beskæftigelsesministeren"}
+    ],
+    "tilsyn": [
+      {"myndighed": "beskæftigelsesministeren", "bestemmelse": "§ 61", "citat": "Beskæftigelsesministeren fører tilsyn med"},
+      {"myndighed": "tilsynsmyndigheden", "bestemmelse": "§ 61", "citat": "Tilsynsmyndigheden fører tilsyn med sådanne opgaver"},
+      {"myndighed": "tilsynsmyndigheden", "bestemmelse": "§ 63", "citat": "har tilsynsmyndigheden til opgave at påse overholdelsen af reglerne"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2026-804",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [
+      {"afgoerelse_af": "Arbejdstilsynet", "klageinstans": "Arbejdsmiljøklagenævnet", "bestemmelse": "§ 14", "citat": "kan indbringes for Arbejdsmiljøklagenævnet"}
+    ],
+    "tilsyn": [
+      {"myndighed": "Arbejdstilsynet", "bestemmelse": "§ 10", "citat": "Arbejdstilsynet fører tilsyn med"}
+    ],
+    "henviser": []
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "lta-2022-1325",
+    "hjemmel": [{"type": "lov", "nr": 341, "aar": 2022, "bestemmelser": ["§ 53 a, stk. 6"], "citat": "lov nr. 341 af 22. marts 2022"}],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2022-748",
+    "hjemmel": [{"type": "lov", "nr": 341, "aar": 2022, "bestemmelser": ["§ 192, stk. 10"], "citat": "lov nr. 341 af 22. marts 2022"}],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2026-737",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 207, "aar": 2026, "bestemmelser": ["§ 98 f, stk. 10"], "citat": "lovbekendtgørelse nr. 207 af 25. januar 2026"},
+      {"type": "bekendtgørelse", "nr": 519, "aar": 2023, "bestemmelser": ["§ 2"], "citat": "bekendtgørelse nr. 519 af 16. maj 2023"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [{"myndighed": "Social- og Boligstyrelsen", "bestemmelse": "§ 12", "citat": "Social- og Boligstyrelsens kontrol med, at de fastsatte vilkår overholdes"}],
+    "henviser": []
+  },
+  {
+    "id": "lta-2026-738",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 207, "aar": 2026, "bestemmelser": ["§ 119 a, stk. 11"], "citat": "lovbekendtgørelse nr. 207 af 25. januar 2026"},
+      {"type": "bekendtgørelse", "nr": 519, "aar": 2023, "bestemmelser": ["§ 2"], "citat": "bekendtgørelse nr. 519 af 16. maj 2023"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [{"myndighed": "Landsbyggefonden", "bestemmelse": "§ 12", "citat": "Landsbyggefondens kontrol med, at vilkår for lånet overholdes"}],
+    "henviser": []
+  },
+  {
+    "id": "lta-2019-928",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [
+      {"afgoerelse_af": "beboerklagenævnet", "klageinstans": "boligretten", "bestemmelse": "§ 106", "citat": "kan af hver af parterne indbringes for boligretten"},
+      {"afgoerelse_af": "boligretten", "klageinstans": "landsretten", "bestemmelse": "§ 108", "citat": "sker til landsretten"}
+    ],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2020-1281",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2022-341",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [{"afgoerelse_af": "Grundejernes Investeringsfond", "klageinstans": "huslejenævnet", "bestemmelse": "§ 123", "citat": "kan indbringes for huslejenævnet"}],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2011-770",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 103, "aar": 2011, "bestemmelser": ["§ 160"], "citat": "lovbekendtgørelse nr. 103 af 11. februar 2011"}],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [{"myndighed": "kommunalbestyrelsen", "bestemmelse": "§ 7", "citat": "Kommunalbestyrelsen påser som tilsynsmyndighed"}],
+    "henviser": []
+  },
+  {
+    "id": "lta-2011-771",
+    "hjemmel": [{"type": "lovbekendtgørelse", "nr": 103, "aar": 2011, "bestemmelser": ["§ 160"], "citat": "lovbekendtgørelse nr. 103 af 11. februar 2011"}],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  }
+]

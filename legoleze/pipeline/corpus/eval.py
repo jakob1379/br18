@@ -38,9 +38,9 @@ import tekst as T
 
 EVAL, UD, SVAR = E.L / "intermediate" / "eval", E.L / "dk-regulering" / "eval", E.L / "raw" / "eval"
 RUNDER = ((20261115, {"forskrift-registry": 5, "forskrift": 7, "vejledning": 3}), (20261116, {"forskrift-registry": 3, "forskrift": 5, "vejledning": 2}),
-          (20261117, {"forskrift-registry": 2, "forskrift": 4, "lov": 3}))
+          (20261117, {"forskrift-registry": 2, "forskrift": 4, "lov": 3}), (20261118, {"forskrift-registry": 2, "forskrift": 4, "lov": 3}))
 VEJLEDNING = "vejledning → retsakt"
-SOEG = re.compile(r"klage|indbring|\banke|tilsyn|\bkontrol", re.IGNORECASE)  # runde 1 og 2 blev trukket med "kontrolmyndighed" i stedet for "kontrol"
+SOEG = re.compile(r"klage|indbring|\banke|tilsyn|\bkontrol|\bpåse", re.IGNORECASE)  # runde 1 og 2 blev trukket med "kontrolmyndighed" i stedet for "kontrol", runde 1-3 uden "påse"
 BEGYNDELSE, LOFT = 10000, 1500
 EU = {"direktiv": "dir", "forordning": "reg", "afgørelse": "dec", "beslutning": "dec"}
 FELTER = ("hjemmel", "eu", "klage", "tilsyn", "henviser")
@@ -245,7 +245,8 @@ def readme(tal: dict, facit: list[dict], foerste: dict | None = None) -> str:
          "Genereret af `pipeline/corpus/eval.py maal`. Facit står i `facit.jsonl`: ét dokument pr. linje med de led, en annotator har læst i dokumentets egen tekst, hvert med et ordret citat.",
          "", "## Udtag", "", f"{len(facit)} gældende danske dokumenter med hentet tekst, trukket tilfældigt pr. domæne: hovedbekendtgørelser med og uden registry-node og vejledninger.",
          "Runde 1 er brugt til at finde og rette fejl i udtrækkene, så dens tal er til den pæne side. Runde 2 er trukket bagefter; dens første måling, før noget blev rettet efter den, står i `kontrol-2.json` og i tabellen nedenfor.",
-         "Runde 3 er trukket, efter at læseren af klage- og tilsynsbestemmelser var skrevet, og har love og lovbekendtgørelser med i stedet for vejledninger; dens første måling står i `kontrol-3.json`.", "",
+         "Runde 3 er trukket, efter at læseren af klage- og tilsynsbestemmelser var skrevet, og har love og lovbekendtgørelser med i stedet for vejledninger; dens første måling står i `kontrol-3.json`.",
+         "Runde 4 har samme grupper som runde 3 og er trukket, efter at læseren var rettet efter runde 1-3 (\"påser\", \"kontrollerer\", \"er tilsynsmyndighed\", \"styrelsens kontrol med\"); dens første måling står i `kontrol-4.json`.", "",
          "| Domæne | " + " | ".join(f"Runde {n}" for n in tal) + " |", "|---|" + "---:|" * len(tal)]
     r += [f"| {d} | " + " | ".join(str(antal[d, n]) for n in tal) + " |" for d in domaener]
     r += ["", "Led i facit: " + ", ".join(f"{k} {v}" for k, v in led.items()) + f". Frafaldet i kontrollen: {sum(f['frafald'] for f in facit)} led eller paragraffer."
@@ -261,7 +262,7 @@ def readme(tal: dict, facit: list[dict], foerste: dict | None = None) -> str:
           "- Annotatoren er en sprogmodel (Haiku), ikke en jurist. Hvert led er kontrolleret mekanisk: citatet står ordret i dokumentet, nummer og år står i citatet, og paragrafferne står i indledningen. At citatet betyder det, leddet siger, er kun set efter for de afvigelser, der står som rettet.",
           f"- Annotatoren ser indledning og fodnoter og, for forskrifter, de paragraffer, der indeholder et af ordene i `SOEG`; for vejledninger de første {BEGYNDELSE} tegn. En klagebestemmelse med andre ord, eller en henvisning længere nede i en vejledning, er ikke i facit.",
           "- Klage og tilsyn pr. forskrift måler katalogets kanter fra dokumentets egne bestemmelser (metode `bestemmelse`). En kant tæller kun med, når mindst én af dens paragraffer blev vist for annotatoren; kanter fra paragraffer uden et af ordene i `SOEG` (fx \"fører kontrol med\") kan facit ikke indeholde. Facit-led, hvis myndighed ikke er en node, tælles under \"er en node\" og ikke her.",
-          "- Læseren af klage- og tilsynsbestemmelser er rettet til efter afvigelserne i begge runder, så ingen af runderne er en uafhængig kontrol af den.",
+          "- Læseren af klage- og tilsynsbestemmelser er rettet til efter afvigelserne i runde 1-3, så kun den første måling af runde 4 er en uafhængig kontrol af den.",
           "- \"Klagekant mellem de to noder\" måler registry'ets kanter mellem myndigheder, ikke katalogets kanter til den enkelte forskrift.",
           "- En hjemmelskant til den gældende version af en omdøbt lov tæller som forkert, når kataloget ikke kobler den citerede version til den gældende. Fra 2026-11-15 kobles gældende loves versioner efter Retsinformations tidslinje; en lov, der er afløst af en ny hovedlov, kobles ikke til afløseren. Det samme gælder vejledningernes kanter, som Retsinformation fører under lovens gældende version.",
           "- Hjemmel i en tekstanmærkning til finansloven eller et aktstykke er ikke i facit og tælles ikke.",

@@ -11,7 +11,7 @@ Status for registry'et pr. 2026-10-28, med retsakternes version slået op hos Re
 |---|---|
 | `dk-regulering/` | **Leverancen.** `registry.yaml` (sandheden: 615 noder, 1281 kanter, 216 huller), `README.md`, `datakilder.md`, `huller.md`, `diagrammer/` (Mermaid), `reguleringskort.html` (interaktivt kort, kan åbnes direkte i en browser), `scripts/build.py` (validering og views). |
 | `dk-regulering/katalog/` | Katalog over Retsinformations dokumenter: `retsinformation_lta.jsonl` (hele Lovtidende A: 63473 dokumenter, 14078 gældende pr. 2026-11-12), `retsinformation_retsinfo.jsonl`, `_mt`, `_ltb`, `_ltc`, `_fob` og `_ft` (de øvrige samlinger: 131080 cirkulærer, vejledninger, afgørelser, lovforslag m.m., kun metadata), `kanter.jsonl` (henviser_til, hjemmel_for, implementerer_EU, ressortansvar, udsteder), `eu_index.jsonl` (EU-retsakter med CELEX), `tekst.jsonl` (indeks over de dokumenter, hvis XML er hentet, med præambel, fodnoter, underskriftssted og EU-retsakter), `README.md` (genereret oversigt). |
-| `dk-regulering/eval/` | Evalueringssæt for kæderne: `facit.jsonl` (189 dokumenter læst af annotatorer, hvert led med ordret citat), `instruks.md`, `rettelser.json`, `kontrol-2.json` og den genererede `README.md` med målingen. Se afsnittet nedenfor. |
+| `dk-regulering/eval/` | Evalueringssæt for kæderne: `facit.jsonl` (302 dokumenter læst af annotatorer, hvert led med ordret citat), `instruks.md`, `rettelser.json`, `kontrol-2.json` til `kontrol-4.json` og den genererede `README.md` med målingen. Se afsnittet nedenfor. |
 | `dashboard/` | Data og side bag dækningsdashboardet (heatmap pr. retsområde, fremdrift, 69 mangler med status). |
 | `audit/` | Opus-auditten (fire linser + syntese og dækningsmatrix), vurderingen af danskelove.dk og Jurabibliotek, stikprøvekontrollen af ressort-klassifikationen og kvalitetstal. |
 | `intermediate/registry/` | Flettet og efterbehandlet registry som JSON (`final.json`), flettelog, proveniens (alle URL'er set i søgeresultater) og visualiseringsdata. |
@@ -87,6 +87,7 @@ Lavet 2026-11-15 med `pipeline/corpus/eval.py`. `udtag` trækker pr. domæne et 
 | 1 | 118 | Udvikling: afvigelserne er gennemgået, og udtrækkene rettet efter dem |
 | 2 | 71 | Kontrol: trukket efter rettelserne; første måling i `kontrol-2.json` |
 | 3 | 64 | Kontrol af klage og tilsyn pr. forskrift: love og lovbekendtgørelser i stedet for vejledninger, trukket efter at læseren var skrevet; første måling i `kontrol-3.json` |
+| 4 | 49 | Uafhængig kontrol af klage og tilsyn pr. forskrift: samme grupper som runde 3, trukket efter at læseren var rettet efter runde 1-3; første måling i `kontrol-4.json` |
 
 Kontrolrundens første måling: `hjemmel_for` 96 % præcision og 100 % genfinding (kun Retsinformations felt: 84 % genfinding), paragrafnumre 274 af 275, `implementerer_EU` 90 % og 96 %, vejledningers henvisninger 45 af 45. Før rettelserne fandt kataloget i runde 1 én af 38 gennemførte EU-retsakter og 11 % af vejledningernes henvisninger.
 
@@ -95,7 +96,7 @@ Forbehold:
 - Annotatoren er en sprogmodel. Kontrollen er mekanisk (citat, nummer, år og paragraf står i teksten); kun afvigelserne er læst efter.
 - Tre dokumenter i facit er rettet efter gennemsyn (`rettelser.json` med begrundelse). Efter kontrolrunden er der rettet én fejl i læsningen af fodnoter ("EU-tidende" med lille t) og fjernet ældre EU-kanter; den nuværende stand står ved siden af første måling i `README.md`.
 - De tilbageværende forkerte `hjemmel_for`-kanter er to fejl i Retsinformations hjemmelsfelt og tre kanter til den gældende version af en lov, kataloget ikke kobler til den citerede version.
-- Klage og tilsyn pr. forskrift (katalogets kanter med metode `bestemmelse`) er kun målt uafhængigt i runde 3: klageinstans 23 rigtige, 1 forkert, ingen manglende; afgørende myndighed 12 af 14; tilsyn 15 rigtige, ingen forkerte, 11 manglende. Læseren er rettet til efter afvigelserne i runde 1 og 2, så deres tal for de mål er til den pæne side.
+- Klage og tilsyn pr. forskrift (katalogets kanter med metode `bestemmelse`) er målt uafhængigt i runde 4 (første måling 2026-11-21): klageinstans 16 rigtige, 4 forkerte, 2 manglende; afgørende myndighed 11 rigtige, 1 forkert, 7 manglende; tilsyn 20 rigtige, 1 forkert, 6 manglende. 3 af de 4 forkerte klageinstanser står i teksten, men mangler i facit. Runde 3's første måling var klageinstans 23 rigtige, 1 forkert, ingen manglende og tilsyn 15 rigtige, ingen forkerte, 11 manglende. Læseren er rettet til efter afvigelserne i runde 1-3, så deres tal for de mål er til den pæne side.
 - Seks dokumenter i facit er nu rettet efter gennemsyn (tre i første omgang, tre klage- og tilsynsled 2026-11-15).
 - Udtaget er de otte domæner og dokumenter fra 2010 og frem. Praksis, lovforslag og de 34 øvrige retsområder er ikke med.
 

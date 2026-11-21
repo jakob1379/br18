@@ -1,0 +1,102 @@
+[
+  {
+    "id": "lta-2019-673",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1178, "aar": 2016, "bestemmelser": ["§ 2, stk. 4", "§ 15 A, stk. 2 og 3", "§ 30, stk. 2, 1. pkt."], "citat": "lovbekendtgørelse nr. 1178 af 23. september 2016"},
+      {"type": "bekendtgørelse", "nr": 1197, "aar": 2018, "bestemmelser": ["§ 18"], "citat": "bekendtgørelse nr. 1197 af 28. september 2018"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [
+      {"myndighed": "kommunalbestyrelsen", "bestemmelse": "§ 21", "citat": "Kommunalbestyrelsen er i henhold til byggeloven bygningsmyndighed og påser, at reglerne i denne bekendtgørelse overholdes"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2020-2138",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1203, "aar": 2020, "bestemmelser": ["§ 160"], "citat": "lovbekendtgørelse nr. 1203 af 3. august 2020"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2009-275",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [
+      {"myndighed": "Erhvervs- og Byggestyrelsen", "bestemmelse": "§ 11", "citat": "Erhvervs- og Byggestyrelsen fører tilsyn med"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2010-1710",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [
+      {"afgoerelse_af": "boligtilsynet", "klageinstans": "Boligtilsynsrådet", "bestemmelse": "§ 8", "citat": "kan påklage boligtilsynets forbud efter § 7, stk. 3, til boligtilsynsrådet"}
+    ],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2011-903",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [
+      {"myndighed": "kommunalbestyrelsen", "bestemmelse": "§ 7", "citat": "Ved sin godkendelse skal kommunalbestyrelsen navnlig påse overholdelse af stk. 1"},
+      {"myndighed": "kommunalbestyrelsen", "bestemmelse": "§ 76", "citat": "Kommunalbestyrelsen fører tilsyn med"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2013-1359",
+    "hjemmel": [
+      {"type": "lov", "nr": 354, "aar": 2012, "bestemmelser": ["§ 20", "§ 23, stk. 2"], "citat": "olieberedskabslov nr. 354 af 24. april 2012"},
+      {"type": "lovbekendtgørelse", "nr": 988, "aar": 2012, "bestemmelser": ["§ 1, stk. 3"], "citat": "lovbekendtgørelse nr. 988 af 9. oktober 2012"},
+      {"type": "lov", "nr": 442, "aar": 2004, "bestemmelser": ["§ 1, stk. 4"], "citat": "lov nr. 442 af 9. juni 2004"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2022-934",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1165, "aar": 2019, "bestemmelser": ["§ 25, stk. 3"], "citat": "lovbekendtgørelse nr. 1165 af 25. november 2019"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2024-845",
+    "hjemmel": [
+      {"type": "lovbekendtgørelse", "nr": 1461, "aar": 2023, "bestemmelser": ["§ 2 a", "§ 23 b, stk. 5", "§ 23 d, stk. 6", "§ 23 f, stk. 4", "§ 23 g, stk. 2", "§ 23 h, stk. 2", "§ 23 i, stk. 2", "§ 23 k, stk. 4", "§ 23 l, stk. 2", "§ 23 m, stk. 2", "§ 23 o, stk. 2", "§ 23 p, stk. 2", "§ 23 q, stk. 3", "§ 23 r, stk. 2", "§ 23 t, stk. 5 og 6", "§ 23 v", "§ 25, stk. 2", "§ 34 a, stk. 2"], "citat": "lovbekendtgørelse nr. 1461 af 29. november 2023"}
+    ],
+    "eu": [
+      {"type": "direktiv", "aar": 2009, "nr": 31, "citat": "direktiv 2009/31/EF"}
+    ],
+    "klage": [],
+    "tilsyn": [
+      {"myndighed": "klima-, energi- og forsyningsministeren", "bestemmelse": "§ 13", "citat": "Klima-, energi- og forsyningsministeren gennemfører rutineinspektioner"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2025-510",
+    "hjemmel": [
+      {"type": "lov", "nr": 614, "aar": 2024, "bestemmelser": ["§ 3, stk. 1"], "citat": "lov nr. 614 af 11. juni 2024"}
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  }
+]

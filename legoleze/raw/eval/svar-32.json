@@ -1,0 +1,174 @@
+[
+  {
+    "id": "lta-2017-844",
+    "hjemmel": [
+      {
+        "type": "lovbekendtgørelse",
+        "nr": 1189,
+        "aar": 2016,
+        "bestemmelser": ["§ 7, stk. 1, nr. 10", "§ 7 b", "§ 16, stk. 1 og 3", "§ 18, stk. 1", "§ 89 b", "§ 92", "§ 110, stk. 3"],
+        "citat": "lovbekendtgørelse nr. 1189 af 27. september 2016"
+      }
+    ],
+    "eu": [
+      {"type": "direktiv", "aar": 2006, "nr": 123, "citat": "direktiv 2006/123/EF"}
+    ],
+    "klage": [
+      {"afgoerelse_af": "kommunalbestyrelsen", "klageinstans": "Miljø- og Fødevareklagenævnet", "bestemmelse": "§ 23", "citat": "kan der til Miljø- og Fødevareklagenævnet påklages"}
+    ],
+    "tilsyn": [
+      {"myndighed": "kommunalbestyrelsen", "bestemmelse": "§ 11", "citat": "Kommunalbestyrelsen fører tilsyn med"},
+      {"myndighed": "kommunalbestyrelsen", "bestemmelse": "§ 17", "citat": "Kommunalbestyrelsen fører tilsyn med"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2025-1272",
+    "hjemmel": [
+      {
+        "type": "lovbekendtgørelse",
+        "nr": 1149,
+        "aar": 2024,
+        "bestemmelser": ["§ 5", "§ 8", "§ 8 a", "§ 9 a", "§ 52 c, stk. 2 og 4", "§ 56", "§ 56 e", "§ 57, stk. 2", "§ 58, stk. 3 og 4", "§ 59, stk. 1 og 3", "§ 59 b, stk. 2 og 3", "§ 60, stk. 2", "§ 62 a", "§ 69 a", "§ 71 a", "§ 84, stk. 2"],
+        "citat": "lovbekendtgørelse nr. 1149 af 28. oktober 2024"
+      }
+    ],
+    "eu": [
+      {"type": "direktiv", "aar": 2000, "nr": 60, "citat": "direktiv 2000/60/EF"},
+      {"type": "direktiv", "aar": 2013, "nr": 51, "citat": "direktiv 2013/51/EURATOM"},
+      {"type": "direktiv", "aar": 2020, "nr": 2184, "citat": "direktiv (EU) 2020/2184"}
+    ],
+    "klage": [
+      {"afgoerelse_af": "kommunalbestyrelsen", "klageinstans": "Miljø- og Fødevareklagenævnet", "bestemmelse": "§ 46", "citat": "kan påklages til Miljø- og Fødevareklagenævnet"}
+    ],
+    "tilsyn": [
+      {"myndighed": "kommunalbestyrelsen", "bestemmelse": "§ 12", "citat": "skal udføre kontrol af, om drikkevandet i disse ejendomme overholder kvalitetskrav til bly"},
+      {"myndighed": "kommunalbestyrelsen", "bestemmelse": "§ 14", "citat": "Tilsyn med kvaliteten af vandet i vandforsyningssystemer føres af kommunalbestyrelsen"},
+      {"myndighed": "kommunalbestyrelsen", "bestemmelse": "§ 36", "citat": "Kommunalbestyrelsen fører tilsyn med"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2014-1518",
+    "hjemmel": [],
+    "eu": [
+      {"type": "direktiv", "aar": 2003, "nr": 4, "citat": "direktiv 2003/4/EF"}
+    ],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2025-245",
+    "hjemmel": [],
+    "eu": [],
+    "klage": [
+      {"afgoerelse_af": "kommunalbestyrelsen", "klageinstans": "Miljø- og Fødevareklagenævnet", "bestemmelse": "§ 18", "citat": "kan påklages til Miljø- og Fødevareklagenævnet"},
+      {"afgoerelse_af": "miljøministeren", "klageinstans": "Miljø- og Fødevareklagenævnet", "bestemmelse": "§ 18", "citat": "kan påklages til Miljø- og Fødevareklagenævnet"}
+    ],
+    "tilsyn": [
+      {"myndighed": "kommunalbestyrelsen", "bestemmelse": "§ 19", "citat": "Kommunalbestyrelsen påser overholdelsen af denne lov"},
+      {"myndighed": "miljøministeren", "bestemmelse": "§ 19", "citat": "Miljøministeren påser overholdelsen af reglerne i § 3"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2026-842",
+    "hjemmel": [],
+    "eu": [
+      {"type": "direktiv", "aar": 2011, "nr": 92, "citat": "direktiv 2011/92/EU"},
+      {"type": "direktiv", "aar": 1991, "nr": 676, "citat": "direktiv 91/676/EØF"},
+      {"type": "direktiv", "aar": 1992, "nr": 43, "citat": "direktiv 92/43/EØF"},
+      {"type": "direktiv", "aar": 1994, "nr": 62, "citat": "direktiv 94/62/EF"},
+      {"type": "direktiv", "aar": 1999, "nr": 31, "citat": "direktiv 1999/31/EF"},
+      {"type": "direktiv", "aar": 2000, "nr": 53, "citat": "direktiv 2000/53/EF"},
+      {"type": "direktiv", "aar": 2000, "nr": 60, "citat": "direktiv 2000/60/EF"},
+      {"type": "direktiv", "aar": 2002, "nr": 96, "citat": "direktiv 2002/96/EF"}
+    ],
+    "klage": [
+      {"afgoerelse_af": "kommunalbestyrelsen", "klageinstans": "Miljø- og Fødevareklagenævnet", "bestemmelse": "§ 91", "citat": "påklages til Miljø- og Fødevareklagenævnet"},
+      {"afgoerelse_af": "miljøministeren", "klageinstans": "Miljø- og Fødevareklagenævnet", "bestemmelse": "§ 91", "citat": "Tilsvarende gælder for afgørelser truffet af miljøministeren"},
+      {"afgoerelse_af": "Forsyningstilsynet", "klageinstans": "Energiklagenævnet", "bestemmelse": "§ 100 b", "citat": "kan påklages til Energiklagenævnet"},
+      {"afgoerelse_af": "kommunalbestyrelsen", "klageinstans": "taksationsmyndighederne", "bestemmelse": "§ 64 e", "citat": "kan indbringes af grundejeren og vandforsyningen for de taksationsmyndigheder"},
+      {"afgoerelse_af": "kommunalbestyrelsen", "klageinstans": "særlige taksationskommissioner og overtaksationskommissioner", "bestemmelse": "§ 64 f", "citat": "særlige taksationskommissioner og overtaksationskommissioner, som kan behandle klager over afgørelser, som er truffet af kommunalbestyrelsen i henhold til § 64 e, stk. 2"}
+    ],
+    "tilsyn": [
+      {"myndighed": "kommunalbestyrelsen", "bestemmelse": "§ 7 a", "citat": "kommunalbestyrelsen som tilsynsmyndighed"},
+      {"myndighed": "klima-, energi- og forsyningsministeren", "bestemmelse": "§ 9 æ", "citat": "ministerens omkostninger forbundet med tilsyn med"},
+      {"myndighed": "Forsyningstilsynet", "bestemmelse": "§ 45 g", "citat": "Forsyningstilsynet fører tilsyn med"},
+      {"myndighed": "Forsyningstilsynet", "bestemmelse": "§ 46 b", "citat": "Forsyningstilsynet fører tilsyn med"},
+      {"myndighed": "Forsyningstilsynet", "bestemmelse": "§ 48 a", "citat": "Forsyningstilsynet fører tilsyn med"},
+      {"myndighed": "Forsyningstilsynet", "bestemmelse": "§ 49 c", "citat": "Forsyningstilsynet af egen drift eller på grundlag af en klage skal føre tilsyn med"},
+      {"myndighed": "Forsyningstilsynet", "bestemmelse": "§ 49 h", "citat": "Forsyningstilsynet fører af egen drift eller på grundlag af en klage tilsyn med"},
+      {"myndighed": "kommunalbestyrelsen", "bestemmelse": "§ 65", "citat": "Kommunalbestyrelsen fører generelt tilsyn med"},
+      {"myndighed": "miljøministeren", "bestemmelse": "§ 66", "citat": "Ministeren fører tilsyn som nævnt i § 65, stk. 1 og 2"},
+      {"myndighed": "kommunalbestyrelsen", "bestemmelse": "§ 89 a", "citat": "Tilsyn med overholdelse af forordninger udøves af kommunalbestyrelsen og ministeren"},
+      {"myndighed": "miljøministeren", "bestemmelse": "§ 89 a", "citat": "Tilsyn med overholdelse af forordninger udøves af kommunalbestyrelsen og ministeren"}
+    ],
+    "henviser": []
+  },
+  {
+    "id": "lta-2017-940",
+    "hjemmel": [
+      {
+        "type": "lovbekendtgørelse",
+        "nr": 1529,
+        "aar": 2015,
+        "bestemmelser": ["§ 11 a, stk. 12"],
+        "citat": "lovbekendtgørelse nr. 1529 af 23. november 2015"
+      }
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2020-1560",
+    "hjemmel": [
+      {
+        "type": "lovbekendtgørelse",
+        "nr": 1157,
+        "aar": 2020,
+        "bestemmelser": ["§ 3, stk. 1 og 2"],
+        "citat": "lovbekendtgørelse nr. 1157 af 1. juli 2020"
+      }
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2022-600",
+    "hjemmel": [
+      {
+        "type": "lovbekendtgørelse",
+        "nr": 1157,
+        "aar": 2020,
+        "bestemmelser": ["§ 3, stk. 1 og 2"],
+        "citat": "lovbekendtgørelse nr. 1157 af 1. juli 2020"
+      }
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  },
+  {
+    "id": "lta-2023-1762",
+    "hjemmel": [
+      {
+        "type": "lov",
+        "nr": 871,
+        "aar": 2022,
+        "bestemmelser": ["§ 10"],
+        "citat": "lov nr. 871 af 21. juni 2022"
+      }
+    ],
+    "eu": [],
+    "klage": [],
+    "tilsyn": [],
+    "henviser": []
+  }
+]
