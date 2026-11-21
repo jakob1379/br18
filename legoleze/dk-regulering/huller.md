@@ -587,7 +587,7 @@
 
 | Sikkerhed | Antal |
 |-----------|------:|
-| verificeret | 6567 |
+| verificeret | 6568 |
 | sandsynlig | 1475 |
 | ukendt | 934 |
 

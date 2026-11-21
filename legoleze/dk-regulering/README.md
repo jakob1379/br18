@@ -11,7 +11,7 @@ To lag:
 
 | Fil | Indhold |
 |-----|---------|
-| [`registry.yaml`](registry.yaml) | **Sandheden.** Indeholder meta, regering, ressortomlægninger, uafklarede konflikter, 971 noder, 2179 kanter og 366 huller. |
+| [`registry.yaml`](registry.yaml) | **Sandheden.** Indeholder meta, regering, ressortomlægninger, uafklarede konflikter, 971 noder, 2180 kanter og 366 huller. |
 | [`diagrammer/oversigt.md`](diagrammer/oversigt.md) | Mermaid-overblik over ministerier og instanser, med ét diagram pr. ministerområde (21 aktive ministerier plus nedlagte/omdøbte). |
 | [`datakilder.md`](datakilder.md) | Datakilder sorteret efter ingest-prioritet (værdi ÷ besvær) i tre tabeller: portaler/databaser, udstedende instanser og retsakter/samlinger. |
 | [`huller.md`](huller.md) | Betalingsmur, kun PDF, intet API, uklare forhold og ikke-fundne kilder. |
@@ -115,7 +115,7 @@ Den fulde liste over ressortomlægninger med datoer og kilder står i `registry.
 ## Begrænsninger
 
 - **Fase 7 er kontrolleret mod selve siderne, fase 1–6 er ikke.** I første runde (skat, sundhed, finansiel, udlændinge) så kontrollanterne kun selve citatet og var ikke lige strenge: sundhed, finansiel og udlændinge er bedømt hårdere end skat, så `sandsynlig` betyder dér ofte kun, at en paragraf eller frist i påstanden ikke stod i citatet. Fra anden runde (social, arbejdsmarked, transport, fødevarer) får kontrollanten sidens tekst omkring citatet og paragraffen, så de to runders `sandsynlig` kan ikke sammenlignes direkte. Retsinformations ministeriefelt er ikke ført ajour for alle ældre dokumenter (fødevare- og sociallove står fx stadig under ministerienavne fra før 3/6/2026), så det bruges kun, når feltet med sikkerhed er sat efter regeringsdannelsen.
-- **Retsakterne er slået op hos Retsinformation, teksten er ikke.** `populate.py ajour` slår hver aktiv lov, bekendtgørelse og vejledning med en adresse på Retsinformation eller en katalogpost op (389 noder, senest 2026-11-13). Historiske versioner flyttes til den gældende, og `identifikatorer.senere_aendringer` lister de ændringer, Retsinformation fører efter den gældende version: 181 retsakter har mindst én, 530 i alt, så den konsoliderede tekst skal læses sammen med dem. Hjemmel- og EU-kanter, som Retsinformation selv fører mellem to noder i registry, er bekræftet eller tilføjet; kanter til retsakter uden for registry er ikke med. Hver kørsel skriver sin journal i `raw/populate/*-ajour.kontrol.json`.
+- **Retsakterne er slået op hos Retsinformation, teksten er ikke.** `populate.py ajour` slår hver aktiv lov, bekendtgørelse og vejledning med en adresse på Retsinformation eller en katalogpost op (389 noder, senest 2026-11-21). Historiske versioner flyttes til den gældende, og `identifikatorer.senere_aendringer` lister de ændringer, Retsinformation fører efter den gældende version: 179 retsakter har mindst én, 521 i alt, så den konsoliderede tekst skal læses sammen med dem. Hjemmel- og EU-kanter, som Retsinformation selv fører mellem to noder i registry, er bekræftet eller tilføjet; kanter til retsakter uden for registry er ikke med. Hver kørsel skriver sin journal i `raw/populate/*-ajour.kontrol.json`.
 - **WebFetch var blokeret i fase 1–6** af sessionens netværkspolitik for alle eksterne domæner, herunder retsinformation.dk og eur-lex.europa.eu. Al evidens er derfor søgeresultater (titel, URL og uddrag). `verificeret` betyder, at påstanden fremgår af et søgeresultat fra en officiel eller primær kilde, men siden er ikke åbnet direkte. Tillad fx `retsinformation.dk`, `eur-lex.europa.eu`, `ft.dk`, `naevneneshus.dk` og `sbst.dk` i miljøets netværksindstillinger, så kan næste iteration verificere mod selve dokumenterne.
 - **Katalog-lagets kilder er datasættets egne felter**, ikke søgeresultater: hver post citerer dokumentets ELI-XML-URL (for høstens dokumenter den, seed-filen selv angiver) og repoet. Status er Retsinformations markering pr. 2026-11-12 (søgeeksporten) og kan være ændret siden; et dokument kan stå som historisk, før ophævelsen har virkning. Dokumenter udstedt efter 2026-02-12 og alle dokumenter uden for Lovtidende A er tilføjet fra eksporten og har kun metadata.
 - **URL'er er aldrig konstrueret.** Er en side ikke set i et søgeresultat, står der `ikke fundet`, også når ELI-mønsteret gør adressen forudsigelig. ELI'er for 16 love og bekendtgørelser stammer fra `jakob1379/br18/xref-laws.toml`, som var tjekket mod Retsinformation 2026-10-26.
@@ -139,7 +139,7 @@ Den fulde liste over ressortomlægninger med datoer og kilder står i `registry.
 - `krydsref_moenstre[]` med typiske henvisningsmønstre i teksten, nyttige som regex ved ingest.
 - `ingest` (værdi og besvær 1-5), `note` og `baseline`.
 
-**Kanter** (hjemmel_for 664, ressortansvar 449, udsteder 306, henviser_til 263, implementerer_EU 252, klageinstans 137, tilsyn 90, delegation 18) har `from`, `type`, `to`, `beskrivelse`, `kilder[]`, `sikkerhed` og `domaener`. `from` er altid den aktive part:
+**Kanter** (hjemmel_for 665, ressortansvar 449, udsteder 306, henviser_til 263, implementerer_EU 252, klageinstans 137, tilsyn 90, delegation 18) har `from`, `type`, `to`, `beskrivelse`, `kilder[]`, `sikkerhed` og `domaener`. `from` er altid den aktive part:
 
 | Kanttype | Betydning |
 |----------|-----------|

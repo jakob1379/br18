@@ -205,7 +205,7 @@ flowchart LR
     min_justits -.->|ressortansvar| naevn_ungdomskriminalitetsnaevnet
     min_justits -.->|ressortansvar| lov_straffeloven
     min_justits -.->|ressortansvar| lov_politiloven
-    min_justits -.->|ressortansvar| lov_straffuldbyrdelsesloven
+    min_justits -->|ressortansvar| lov_straffuldbyrdelsesloven
     min_justits -->|ressortansvar| lov_offererstatningsloven
     min_justits -.->|ressortansvar| lov_ungdomskriminalitetsloven
     lov_retsplejeloven -->|hjemmel_for| sty_rigspolitiet
