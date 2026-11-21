@@ -132,8 +132,8 @@ meta:
     ''X fører tilsyn'', ''X kan føre kontrol'', ''fører X tilsyn'', ''tilsynet føres af X'' og, fra 2026-11-16, ''X er tilsynsmyndighed'', ''X''s
     kontrol (tilsyn) med'', ''X påser, at'' og ''X kontrollerer'' giver en tilsyn-kant; ''påser'' og ''kontrollerer'' kun, når sætningen taler
     om at overholde eller efterleve noget eller om lovlighed, og fra 2026-11-21 kun i verbets eget sætningsled eller den at-sætning, der følger
-    det (''kontrollerer ansøgningen, og ansøgeren skal overholde fristen'' giver ingen kant); ''påser ikke'' og ''er ikke tilsynsmyndighed'' giver
-    ingen kant. ''Styrelsens kontrol med'' er den styrelse, sætningen har nævnt før; ''nævnets'' det sidste nævn og ''tilsynets'' det sidste tilsyn,
+    det (''kontrollerer ansøgningen, og ansøgeren skal overholde fristen'' giver ingen kant); ''påser ikke'', ''er ikke tilsynsmyndighed'' og,
+    fra JGA-142, ''fører ikke tilsyn'' og ''fører hverken tilsyn'' giver ingen kant. ''Styrelsens kontrol med'' er den styrelse, sætningen har nævnt før; ''nævnets'' det sidste nævn og ''tilsynets'' det sidste tilsyn,
     også en styrelse, hvis navn ender på ''tilsynet'' (Arbejdstilsynet, Finanstilsynet). ''X''s kontrol (tilsyn) med'' læses bevidst for enhver
     instans i genitiv, ikke kun for tilbagehenvisningen, som JGA-134 bad om; det giver to kendte forkerte kanter: LBK nr. 544 af 2026 §§ 26 og 28
     (''herunder om Energinets tilsyn med overholdelse af forskrifterne'', en bemyndigelse) og BEK nr. 798 af 2017 § 1 (''finder anvendelse på
@@ -111286,7 +111286,7 @@ huller:
   - 'Lovfamilier kobles på titel: en ældre version af en lov kobles ikke altid til den gældende'
 - emne: Klage- og tilsynskanter pr. forskrift er læst mekanisk af dokumentets egen tekst og kun for tekstlagets udsnit
   type: andet
-  beskrivelse: 'Kataloget har 483 klageinstans-kanter og 513 tilsyn-kanter fra instans til lov eller forskrift (metode bestemmelse, sandsynlig),
+  beskrivelse: 'Kataloget har 483 klageinstans-kanter og 512 tilsyn-kanter fra instans til lov eller forskrift (metode bestemmelse, sandsynlig),
     læst med regulære udtryk af de hentede dokumenters paragraffer. I evalueringssættets runde 3, trukket efter at læseren var skrevet, var 23
     af 24 klageinstanser rigtige og ingen manglede; den myndighed, der træffer afgørelsen, stod på kanten i 12 af 14 tilfælde; for tilsyn var
     15 af 15 rigtige, men 11 af facits 26 manglede, fordi læseren kun kendte få formuleringer. Fra 2026-11-16 læses også ''påser, at'', ''kontrollerer'',

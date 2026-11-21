@@ -232,7 +232,7 @@ KLAGE = re.compile(r"(?:\b(?:påklages?|klages|indbringes?|anke[sr]?)\b(?P<m>[^.
                    re.IGNORECASE)
 SAG = re.compile(r"\b(?:sag(?:en|er|erne)?|tvist(?:en|er|erne)?|spørgsmål(?:et)?)\b", re.IGNORECASE)
 BEHANDLER = re.compile(r"\s+(?:behandler|afgør|træffer afgørelse (?:i|om)) klager\b", re.IGNORECASE)
-TILSYN = re.compile(r"\b(?:(?:kan|skal)\s+)?(?:fører?|udøver|varetager)\s+(?P<m>(?:[\w,-]+\s+){0,7}?)(?:tilsyn|kontrol)(?:et|len)?\b", re.IGNORECASE)
+TILSYN = re.compile(r"\b(?:(?:kan|skal)\s+)?(?:fører?|udøver|varetager)\s+(?P<m>(?:(?!ikke\b|hverken\b)[\w,-]+\s+){0,7}?)(?:tilsyn|kontrol)(?:et|len)?\b", re.IGNORECASE)
 TILSYN_AF = re.compile(r"\b(?:tilsyn|kontrol)(?:et|len)?\b[^.;]{0,120}?\b(?:føres|udøves|varetages|foretages|udføres)\s+af\s+", re.IGNORECASE)
 KONTROL = re.compile(r"\b(?:(?:kan|skal)\s+)?(?:(?:påser?|kontrollerer?)(?!\s+ikke\b)(?=(?:(?!,\s+(?:og|men|eller|samt)\s).)*?\b(?:at\b.*?\b)?(?:overhold|efterlev|lovlig))|er\s+(?:(?!ikke\b)\w+\s+){0,2}?tilsynsmyndighed(?:en)?)\b|(?<=s)\s+(?:tilsyn|kontrol)\s+med\b",
                      re.IGNORECASE)
@@ -273,7 +273,7 @@ def laeser(reg: dict):
     "X kan føre kontrol", "fører X tilsyn", "tilsynet føres af X", "X påser, at", "X kontrollerer", "kontrollerer X" (efter et komma
     eller uden instans foran), "X er tilsynsmyndighed" og "X's kontrol (tilsyn) med" (ikke "til brug for X's tilsyn med"), hvor "styrelsens", "nævnets" og "tilsynets" er den sidste
     styrelse, det sidste nævn eller tilsyn (også en instans, hvis navn ender på "tilsynet"), sætningen har nævnt før; "påser" og "kontrollerer" kun, når verbets sætningsled
-    eller den at-sætning, der følger det, taler om at overholde eller efterleve noget, eller om lovlighed; ikke "påser ikke" og "er ikke tilsynsmyndighed".
+    eller den at-sætning, der følger det, taler om at overholde eller efterleve noget, eller om lovlighed; ikke "påser ikke", "er ikke tilsynsmyndighed", "fører ikke tilsyn" og "fører hverken tilsyn".
     ukendte(sætning) giver navnet (frase) de steder, hvor klager eller tilsyn venter en instans, men ikke finder én i registry'et."""
     navne = {**{k: v[0] for k, v in myndigheder(reg).items()}, **ALIAS}
     laengde = max(len(k.split()) for k in navne)
@@ -832,6 +832,8 @@ def selftest() -> None:
                              ("Æblestyrelsen er dog tilsynsmyndighed for frugtplantager.", ["sty-aeble"]),
                              ("Kommunalbestyrelsen er ikke tilsynsmyndighed for frugtplantager.", []), ("Æblestyrelsen påser ikke, at reglerne overholdes.", []),
                              ("Æblestyrelsen kontrollerer ansøgningen, og ansøgeren skal overholde fristen.", []),
+                             ("Æblestyrelsen fører ikke tilsyn med frugtplantager.", []), ("Tilsynet med frugtplantager udøves ikke af Æblestyrelsen.", []),
+                             ("Æblestyrelsen fører ikke længere tilsyn med frugtplantager.", []), ("Æblestyrelsen fører hverken tilsyn eller kontrol med frugten.", []),
                              ("Modtageren skal give de oplysninger, der har betydning for Æblestyrelsens kontrol med, at vilkårene overholdes.", ["sty-aeble"]),
                              ("Æblestyrelsens tilsyn med plantagerne sker ved stikprøver.", ["sty-aeble"]),
                              ("Avleren skal efter anmodning fra Æblestyrelsen give de oplysninger, der har betydning for styrelsens kontrol med, at vilkårene overholdes.", ["sty-aeble"]),
