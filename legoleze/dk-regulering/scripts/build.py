@@ -229,7 +229,13 @@ def validate_katalog(reg: dict, kat: dict) -> list[str]:
         for r in d.get("registry_ids") or []:
             if r not in reg_ids:
                 err(f"katalog {i}: registry_id {r!r} findes ikke")
-        for t in [d.get("gaeldende_version"), d.get("lov")] + list(d.get("aendrer") or []):
+        if (af := d.get("afloeser")) is not None:
+            tekst, ophaevelse = (" ".join(str(af.get(k) or "").split()) for k in ("paragraf_tekst", "ophaevelse"))
+            if (af.get("vaerdi") not in docs or af.get("sikkerhed") != "verificeret" or not af.get("kilder") or any(not URL_RE.match(str(k)) for k in af["kilder"])
+                    or not ophaevelse or ophaevelse not in tekst or "ophæves" not in tekst or f"nr. {str(i).split('-')[-1]} " not in ophaevelse
+                    or not isinstance(af.get("bevarer_regler"), (str, type(None)))):
+                err(f"katalog {i}: ugyldigt afloeser-felt (afløser i kataloget, verificeret, kilde og ordret ophævelse af nr. og dato i paragraffen)")
+        for t in [d.get("gaeldende_version"), d.get("lov"), d.get("afloeser_fra")] + list(d.get("aendrer") or []):
             if t and t not in docs:
                 err(f"katalog {i}: henvisning til ukendt dokument {t!r}")
     eus = set()
@@ -658,6 +664,14 @@ def selftest() -> None:
     for galt in ("lta-2018-734", [], ["lta-2099-1"], [["lta-2018-734"]]):
         fejl = validate_katalog(reg, kat(senere_aendret_ved=galt))
         assert len(fejl) == 1 and "senere_aendret_ved" in fejl[0], (galt, fejl)
+    af = {"vaerdi": "lta-2018-734", "ophaevelse": "Lov nr. 1178 af 25. september 2016 ophæves.", "paragraf": "§ 9", "paragraf_tekst": "§ 9. Lov nr. 1178 af 25. september 2016 ophæves.",
+          "kilder": ["https://www.retsinformation.dk/eli/lta/2018/734/xml"], "sikkerhed": "verificeret", "metode": "ophaevelsesbestemmelse", "bevarer_regler": None}
+    med = lambda **f: {**kat(), "docs": [{**doc("lta-2016-1178"), **f}, doc("lta-2018-734")]}
+    assert validate_katalog(reg, med(afloeser=af, afloeser_fra="lta-2016-1178", gaeldende_version="lta-2018-734")) == []
+    for galt in ({**af, "vaerdi": "lta-2099-1"}, {**af, "sikkerhed": "sandsynlig"}, {**af, "kilder": []}, {**af, "ophaevelse": "Lov nr. 1178 ophæves."}, {**af, "bevarer_regler": 1}):
+        fejl = validate_katalog(reg, med(afloeser=galt))
+        assert len(fejl) == 1 and "afloeser" in fejl[0], (galt, fejl)
+    assert len(validate_katalog(reg, med(afloeser_fra="lta-2099-1"))) == 1
     print("selftest ok")
 
 

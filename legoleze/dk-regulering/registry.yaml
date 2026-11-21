@@ -44,7 +44,8 @@ meta:
       unique_document_id, sikkerhed}, datoer{udstedt, historisk_markeret, ri_registreret, ri_aendret}, territorium (DK/GL/FO/GL+FO ud fra titlen),
       dokumentrolle (hoved/ændring/ikrafttræden/ophævelse), udstedt_af{vaerdi, metode, praefiks, sikkerhed}, ministerium{vaerdi, sikkerhed, metode,
       pr} og retsomraade/domaener (kun gældende), gaeldende_version / nyeste_version_afloeser_mangler / afloeser_mangler, familie_metode (tidslinje,
-      når lovens versioner er samlet efter Retsinformations tidslinje for loven; uden feltet er de samlet på titlen), aendrer[], eu_referencer[],
+      når lovens versioner er samlet efter Retsinformations tidslinje for loven; uden feltet er de samlet på titlen), afloeser{vaerdi, ophaevelse,
+      paragraf, paragraf_tekst, bevarer_regler, kilder, sikkerhed, metode} og afloeser_fra (den afløste families nyeste version), aendrer[], eu_referencer[],
       registry_ids[], seed_fil (kun dokumenter fra bulk-høsten), n_paragraffer, n_definitioner. Dokumenter uden for Lovtidende A har id, navn,
       type (Retsinformations egen dokumenttype med små bogstaver og bindestreger, når den ikke er en af katalogets), kilder[ELI-URL], status,
       identifikatorer{document_id, accession, sikkerhed}, datoer, territorium, udstedt_af og registry_ids[] samt, for gældende dokumenter, ministerium
@@ -145,7 +146,13 @@ meta:
     ''X''s afgørelseskompetence'' gør ikke X til afgørende myndighed. tekst.py tidslinjer
     henter Retsinformations tidslinje (api/document/<id>/timeline) én gang pr. lov; eksport.py samler lovens hovedlov og lovbekendtgørelser efter
     den i stedet for efter titlen (familie_metode tidslinje), så en omdøbt lovs ældre versioner peger på den gældende. Ændringslove og andre hovedlove
-    i tidslinjen er ikke versioner og bruges ikke.'
+    i tidslinjen er ikke versioner og bruges ikke. Fra 2026-11-21 (JGA-139) fortsætter en historisk lovs familie til en ny hovedlov, når
+    hovedloven står i lovens liste over senere ændringer, selv nævner loven i sin liste over love, den ændrer, og i sin egen tekst har en
+    ophævelsesbestemmelse, der nævner loven med nummer og dato (feltet afloeser, verificeret, med bestemmelsen ordret). Ikke en ophævelse: en
+    bemyndigelse (''kan''), en delvis ophævelse (''bortset fra'', enkelte paragraffer), et nummer fra ''som affattet ved'' eller ''som ændret ved'',
+    en bestemmelse i en lovbekendtgørelse og en ren ophævelseslov. En lov, der kun rydder en forældet lov op, er heller ikke afløser; de læste par
+    står i raw/populate/2026-11-21-afloeser-oprydning.tsv. Familien følger afløserens gældende version (gaeldende_version og afloeser_fra), også
+    på hjemmel_for-kanterne; paragrafnumre fra præamblen lægges kun på kanten fra samme lov, ikke fra afløseren (eksport.lovled).'
   - 'Evaluering (fra 2026-11-15): pipeline/corpus/eval.py trækker et tilfældigt udtag af gældende forskrifter og vejledninger, lader annotatorer
     læse dokumenternes egen tekst og måler katalogets hjemmel_for-, implementerer_EU- og henviser_til-kanter og registry''ets klage- og tilsynsinstanser
     mod deres svar (meta.evaluering). Målingen førte til tre nye udtræk fra tekstlaget: implementerer_EU fra fodnoterne, henviser_til fra teksten
@@ -111258,18 +111265,30 @@ huller:
   domaener: *id080
   oprindelige_emner:
   - Planhabitatbekendtgørelsen (BEK nr. 1383 af 26/11/2016) er ikke en node
-- emne: Lovfamilier følger Retsinformations tidslinje for gældende love; ophævede love og afløserlove kobles ikke
+- emne: Lovfamilier følger Retsinformations tidslinje for gældende love; en ophævet lov kobles kun til sin afløser, når afløserens tekst er hentet
   type: andet
   beskrivelse: 'Indtil 2026-11-15 samlede kataloget en lovs versioner på titlen, så en omdøbt lov stod uden kobling til den gældende version (byggeloven
     hed ''byggelov'' til 2010; lov om sommerhuse og campering m.v. hedder i dag lov om udlejning af fast ejendom til ferie- og fritidsformål m.v.
     og campering m.v.). Nu er Retsinformations tidslinje hentet for alle love med en gældende version (pipeline/corpus/tekst.py tidslinjer, 1.408
     kald), og 4.435 love og lovbekendtgørelser er samlet efter den (familie_metode tidslinje); 3.837 historiske versioner peger på en gældende
     lov mod 3.338 før. I evalueringssættet faldt de forkerte hjemmel_for-kanter fra 2 til 1 i runde 1 og fra 3 til 1 i runde 2; de tilbageværende
-    er fejl i Retsinformations hjemmelsfelt. To ting er ikke løst. De 3.125 historiske love og lovbekendtgørelser, hvis lov ikke har nogen gældende
-    version, er ikke hentet og er stadig samlet på titlen. Og en lov, der er afløst af en ny hovedlov, har sin egen tidslinje: lov om indretning
-    m.v. af visse produkter (lov nr. 155 af 20/02/2013) er afløst af lov om produkter og markedsovervågning, og Retsinformation fører bekendtgørelsen
-    om personlige værnemidler (BEK nr. 210 af 2018) under den nye lov, mens præamblen citerer den gamle; kataloget har ingen kant mellem de to
-    love. 126 gældende love er uden tidslinje, de fleste fordi kataloget ikke har Retsinformations dokument-id for dem.'
+    er fejl i Retsinformations hjemmelsfelt. De 3.125 historiske love og lovbekendtgørelser, hvis lov ikke har nogen gældende version, er ikke
+    hentet og er stadig samlet på titlen. En lov, der er afløst af en ny hovedlov, har sin egen tidslinje; fra 2026-11-21 (JGA-139) kobles
+    den til afløseren (meta.metode og eksport.py): 918 historiske love og lovbekendtgørelser uden gældende version har afløserkandidater i
+    Retsinformations lister over senere ændringer. 126 peger nu på en afløser, hvis egen ophævelsesbestemmelse nævner dem med nummer og dato
+    (45 af dem med en bestemmelse om, at reglerne efter den gamle lov forbliver i kraft), og 344 katalogdokumenter følger afløserens gældende
+    version. Eksempel: lov nr. 155 af 20/02/2013 om indretning m.v. af visse produkter er afløst af lov om produkter og markedsovervågning
+    (lov nr. 799 af 2020, § 40) og følger LBK nr. 22 af 2026; bekendtgørelsen om personlige værnemidler (BEK nr. 210 af 2018), som Retsinformation
+    fører under den nye lov og hvis præambel citerer den gamle, tæller nu rigtigt i evalueringens runde 3 (hjemmel_for 54 rigtige og 1 forkert
+    mod 53 og 2). En stikprøve på 40 af de første 137 bekræftede par blev læst af uafhængige dommere (dk-regulering/eval/afloeser-stikproeve.jsonl
+    og -domme.jsonl): 36 rigtige og 4 delvise (90 %); 4 var oprydning, hvor afløseren kun rydder en forældet lov op. De 4 delvise er overgangsregler
+    for gamle aftaler og sager, ikke delvise ophævelser, og tæller ved gennemsynet som rigtige; som afløser for lovfamilien var 36 af 40 rigtige
+    (90 %). Oprydningerne (10 par, læst på titel og bestemmelse) står i raw/populate/2026-11-21-afloeser-oprydning.tsv, og en ren ophævelseslov
+    afvises; familien fortsætter ikke til dem. Ikke løst: 255 love har en kandidat, hvis tekst ikke er hentet (172 kandidatlove i
+    tekst.py-trinnet afloeser), og 481 har kun kandidater, hvis hentede XML er uden tekst (mest love fra før 2005); dem kan metoden ikke bekræfte.
+    Nye bekræftelser efter en hentning er ikke læst for oprydning. Hentningen genoptages mellem 03:00 og 23:40 dansk tid med
+    tekst.py hent <minutter> (værten www.retsinformation.dk skal være tilladt), derefter eksport.py katalog, eval.py saml og maal og views.sh.
+    126 gældende love er uden tidslinje, de fleste fordi kataloget ikke har Retsinformations dokument-id for dem.'
   noder:
   - kilde-retsinformation
   kilder:
@@ -111278,6 +111297,7 @@ huller:
   - https://www.retsinformation.dk/eli/lta/1998/452
   - https://www.retsinformation.dk/eli/lta/2016/1178
   - https://www.retsinformation.dk/eli/lta/2013/155
+  - https://www.retsinformation.dk/eli/lta/2020/799
   - https://www.retsinformation.dk/eli/lta/2026/22
   - https://www.retsinformation.dk/eli/lta/2018/210
   domaener:

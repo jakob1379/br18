@@ -170,9 +170,9 @@ Dokumenter uden for Lovtidende A, direkte fra Retsinformations søgeeksport (kun
 | Lovtidende B | `retsinformation_ltb.jsonl` | 45 | 7 | 0 | 2 | 1 | 1 |
 | Lovtidende C | `retsinformation_ltc.jsonl` | 4778 | 4416 | 1 | 305 | 1 | 1 |
 | Ministerialtidende | `retsinformation_mt.jsonl` | 6421 | 1080 | 735 | 801 | 583 | 664 |
-| Retsinformation (administrative forskrifter og afgørelser) | `retsinformation_retsinfo.jsonl` | 75237 | 39868 | 30597 | 33942 | 19037 | 27145 |
+| Retsinformation (administrative forskrifter og afgørelser) | `retsinformation_retsinfo.jsonl` | 75237 | 39868 | 30597 | 34000 | 19095 | 27232 |
 | Folketingets Ombudsmand | `retsinformation_fob.jsonl` | 2869 | 2869 | 241 | 241 | 241 | 241 |
-| Folketingstidende (lovforslag, betænkninger, beslutningsforslag) | `retsinformation_ft.jsonl` | 41730 | 41730 | 17839 | 7238 | 6421 | 6476 |
+| Folketingstidende (lovforslag, betænkninger, beslutningsforslag) | `retsinformation_ft.jsonl` | 41730 | 41730 | 17839 | 7411 | 6594 | 6652 |
 
 ### Dokumenttyper i de øvrige samlinger (top 30 af 85)
 

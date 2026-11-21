@@ -9,7 +9,8 @@
     python3 tekst.py selftest
 
 Udsnittet er de dokumenter, registry'ets noder peger på, og de gældende dokumenter i de otte domæner (katalog.SCOPE over retsområdet).
-Trinene (TRIN) hentes i rækkefølge: registry; Lovtidende A uden tekst i bulk-høsten; vejledninger, cirkulærer og andre dokumenter uden for
+Trinene (TRIN) hentes i rækkefølge: registry; afløserkandidaterne (eksport.kandidatplan: de hovedlove, en historisk lov uden gældende
+version kan være afløst af, først dem for love, gældende forskrifter har hjemmel i); Lovtidende A uden tekst i bulk-høsten; vejledninger, cirkulærer og andre dokumenter uden for
 Lovtidende A, der ikke er praksis; lovforslag som fremsat til de gældende love i udsnittet; praksis (afgørelser, udtalelser, domme); og
 til sidst Lovtidende A med tekst i bulk-høsten, fordi den tekst ikke ligger i dette repo.
 
@@ -41,7 +42,7 @@ H = E.modul("harvest", E.L / "harvest" / "harvest.py")
 XML = E.L / "intermediate" / "corpus" / "xml"
 NAEVNT = re.compile(r"(?:lovbekendtgørelse|bekendtgørelse|lov|anordning|LBK|BEK)(?:n|en)?\s+nr\.?\s*(\d+)\s+af\s+(?:(\d{1,2})\.? ?(" + "|".join(E.X.MONTHS)
                     + r") (\d{4})|(\d{1,2})[./-](\d{1,2})[./-](\d{4}))", re.IGNORECASE)
-TRIN = ("registry", "uden-tekst", "vejledning", "lovforslag", "praksis", "med-tekst")
+TRIN = ("registry", "afloeser", "uden-tekst", "vejledning", "lovforslag", "praksis", "med-tekst")
 
 
 def trin(d: dict) -> str | None:
@@ -68,7 +69,8 @@ def plan() -> dict:
                     love |= {d["id"]} if d["status"]["vaerdi"] == "gældende" else set()
     sager = {sag for _, _, sag, lov in ft if lov in love}
     ud["lovforslag"] = [i for i, t, sag, _ in ft if t == "lovforslag-som-fremsat" and sag in sager]
-    return {t: sorted(v, reverse=True) for t, v in ud.items()}
+    ud = {t: sorted(v, reverse=True) for t, v in ud.items()}
+    return {**ud, "afloeser": [i for i in E.kandidatplan() if i not in ud["registry"]]}
 
 
 def sti(i: str) -> Path:

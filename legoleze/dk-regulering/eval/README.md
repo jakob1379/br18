@@ -76,8 +76,8 @@ Led i facit: hjemmel 371, eu 181, klage 104, tilsyn 154, henviser 118. Frafaldet
 
 | Mål | Rigtige | Forkerte | Mangler | Præcision | Genfinding |
 |---|---:|---:|---:|---:|---:|
-| hjemmel_for | 53 | 2 | 1 | 96 % | 98 % |
-| hjemmel_for, kun Retsinformations felt | 44 | 2 | 10 | 96 % | 81 % |
+| hjemmel_for | 54 | 1 | 1 | 98 % | 98 % |
+| hjemmel_for, kun Retsinformations felt | 45 | 1 | 9 | 98 % | 83 % |
 | implementerer_EU | 62 | 3 | 1 | 95 % | 98 % |
 | EU-retsakter i XML-metadata (ikke brugt til kanter) | 55 | 4 | 8 | 93 % | 87 % |
 | klageinstans pr. forskrift | 24 | 0 | 1 | 100 % | 96 % |

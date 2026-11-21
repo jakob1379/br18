@@ -20,7 +20,8 @@ resten tælles som frafald. dk-regulering/eval/rettelser.json retter facit efter
 
 maal tæller mikro-gennemsnit pr. runde. For vejledninger måles kun genfinding, fordi facit kun dækker tekstens begyndelse. En hjemmelskant rammer, når lovens familie (gældende version) eller den citerede version
 er facit-dokumentets; kanter fra dokumenter uden for Lovtidende A (tekstanmærkninger til finansloven) tælles ikke, fordi facit kun har love,
-lovbekendtgørelser, bekendtgørelser og anordninger. Paragraffer sammenlignes på paragrafnummer ("§ 6"). Klage- og tilsynsmyndigheder slås
+lovbekendtgørelser, bekendtgørelser og anordninger. Paragraffer sammenlignes på paragrafnummer ("§ 6"), kun inden for samme lov: en lov og dens
+afløser er samme familie, men to led (eksport.lovled). Klage- og tilsynsmyndigheder slås
 op på navn i registry'et (eksport.myndigheder; eksport.ALIAS for navne, der ikke står i registry'et, som kommunalbestyrelsen).
 
 stikproeve trækker med frøet i STIKPROEVE op til det antal klage- og tilsynskanter (metode bestemmelse) fra dokumenter uden for de otte
@@ -213,7 +214,7 @@ def maal(facit: list[dict], docs: dict, kanter: list[dict], reg: dict, tx: dict)
         saet("hjemmel_for", i, set(g), traef)
         saet("hjemmel_for, kun Retsinformations felt", i, set(g), {k["from"]: traef[k["from"]] for k in hj if k["metode"] == E.METODE})
         for k in hj:
-            for x in traef[k["from"]] if k.get("from_bestemmelse") else ():
+            for x in (x for x in traef[k["from"]] if E.lovled(docs, x) == E.lovled(docs, k["from"]) or x == k.get("citeret_version")) if k.get("from_bestemmelse") else ():
                 a, b = {paragraf(p) for p in k["from_bestemmelse"]}, {paragraf(p) for p in g[x]["bestemmelser"]}
                 t["bestemmelser (paragrafnummer)"].update(tp=len(a & b), fp=len(a - b), fn=len(b - a), fundet=len(a & b))
                 afv.extend({"id": i, "maal": "bestemmelser", "art": art, "led": f"{x}: {p}"} for art, s in (("kant uden facit", a - b), ("facit uden kant", b - a)) for p in sorted(s))
@@ -409,6 +410,12 @@ def selftest() -> None:
     assert {"id": "lta-2020-9", "maal": "bestemmelser", "art": "facit uden kant", "led": "lta-2020-7: § 16 c"} in afv and "| hjemmel_for | 1 | 1 | 0 | 50 % | 100 % |" in readme({1: tal}, facit)
     assert f"| {VEJLEDNING} | 1 | – | 1 | – | 50 % |" in readme({1: tal}, facit) and "### Runde 1 (udvikling)" in readme({1: tal}, facit)
     assert "### Runde 2 (kontrol, første måling før rettelser efter runden)" in readme({1: tal, 2: tal}, facit, {2: tal})
+    afl = {"lta-2007-1": {"gaeldende_version": "lta-2020-2", "afloeser_fra": "lta-2007-1"}, "lta-2020-2": {}}
+    f2 = [{"id": "lta-2025-9", "runde": 1, "gruppe": "forskrift", "hjemmel": [{"dok": "lta-2020-2", "bestemmelser": ["§ 2"]}, {"dok": "lta-2007-1", "bestemmelser": ["§ 3"]}],
+           "eu": [], "klage": [], "tilsyn": []}]
+    k2 = [{"from": lov, "type": "hjemmel_for", "to": "lta-2025-9", "metode": E.METODE, "from_bestemmelse": [b]} for lov, b in (("lta-2007-1", "§ 3"), ("lta-2020-2", "§ 2"))]
+    tal2, _ = maal(f2, afl, k2, reg, {})
+    assert tal2["hjemmel_for"] == pr(2, 0, 0) and tal2["bestemmelser (paragrafnummer)"] == pr(2, 0, 0), tal2
     docs = {f"lta-2020-{n}": {"id": f"lta-2020-{n}", "navn": f"Lov om pærer {n}", "type": "lovbekendtgørelse", "retsomraade": "skat"} for n in range(1, 5)}
     docs["lta-2021-5"] = {"id": "lta-2021-5", "navn": "Bekendtgørelse om æbler", "type": "bekendtgørelse", "retsomraade": "byggeri"}
     kant = lambda fra, type_, til, **x: {"from": fra, "type": type_, "to": til, "beskrivelse": "Sætningen.", "metode": E.BESTEMMELSE, "to_bestemmelse": ["§ 9"], **x}

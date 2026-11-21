@@ -35,6 +35,12 @@ uden tekst i bulk-høsten får en henviser_til-kant til hvert dokument, dets tek
 katalog/eu_index.jsonl ajourføres med de retsakter, kun fodnoterne nævner (euindeks). De ældre implementerer_EU-kanter fra bulk-høsten (metode
 tekst-samforekomst: retsakten står i samme bestemmelse som "gennemfører") fjernes for dokumenter, hvis tekst er hentet, fordi fodnoten dér er læst,
 og sættes ellers til ukendt: i evalueringssættet (eval.py) var de kun rigtige, når fodnoten også nævnte retsakten.
+
+En historisk lov eller lovbekendtgørelse uden gældende version får feltet afloeser, når en af dens kandidater (kandidater: hovedlove i dens
+SenereAendringer, der selv nævner den i ÆndrerI) har en ophævelsesbestemmelse, der nævner den med nummer og dato (afloeser, i kandidatens hentede
+tekst). Lovfamilien fortsætter så til afløserens gældende version (foelg_afloeser: gaeldende_version og afloeser_fra), også på hjemmel_for-kanterne.
+Kandidater uden hentet tekst hentes af tekst.py hent (trinnet afloeser) og står indtil da ubekræftede. En lov, der kun rydder en forældet lov
+op, er ikke afløser: de læste par står i raw/populate/2026-11-21-afloeser-oprydning.tsv, og familien fortsætter ikke til dem.
 """
 from __future__ import annotations
 
@@ -64,6 +70,7 @@ K = modul("katalog", HERE / "katalog.py")
 
 L = HERE.parents[1]
 KAT = L / "dk-regulering" / "katalog"
+OPRYDNING = L / "raw" / "populate" / "2026-11-21-afloeser-oprydning.tsv"
 EKS = L / "intermediate" / "corpus" / "eksport"
 TL = L / "intermediate" / "corpus" / "tidslinjer.jsonl"
 TIDSLINJEFELTER = ("href", "documentTypeId", "isMainLaw", "isHistoric", "signatureDate")
@@ -466,6 +473,127 @@ def familier(docs: list[dict], blev_historisk: set, kaeder: list[list[str]] = ()
     return {g: ny for g, ny in ompeg.items() if ny}
 
 
+def kandidater(ids: dict, eks: dict) -> dict:
+    """{historisk lov eller lovbekendtgørelse uden gældende version: de hovedlove (type lov), der står i dens SenereAendringer og selv nævner
+    den i ÆndrerI}. Listerne skelner ikke ophævelse fra ændring; afløseren bekræftes af ophævelsesbestemmelsen (afloeser)."""
+    ud = {}
+    for i, d in ids.items():
+        if i.startswith("lta-") and d["type"] in LOVE and d["status"]["vaerdi"] == "historisk" and not d.get("gaeldende_version"):
+            k = [c for c in henvist(eks.get(i, {}).get("SenereAendringer"), ids) if ids[c]["type"] == "lov" and i in henvist(eks.get(c, {}).get("ÆndrerI"), ids)]
+            ud.update({i: k} if k else {})
+    return ud
+
+
+LOVNR = re.compile(r"\b(lov|lovbekendtgørelse)\s+nr\.\s*(\d+)\s+af\s+(\d{1,2})\.\s*(" + "|".join(X.MONTHS) + r")\s+(\d{4})", re.IGNORECASE)
+LISTE = re.compile(r"\bophæves\b[^.]*:\s*$")
+DELVIS = re.compile(r"§|\bkapitel\b|\bafsnit\b|\bstk\.", re.IGNORECASE)
+UNDTAGEN = re.compile(r"\bbortset fra\b|\bmed undtagelse af\b", re.IGNORECASE)
+GENNEM = re.compile(r"\b(?:affattet|ændret)\s+ved\s*$", re.IGNORECASE)
+BEVAR = re.compile(r"\b(?:fastsat|udstedt)\s+(?:i henhold til|i medfør af|efter|med hjemmel i)\b.*\bforbliver i kraft\b", re.IGNORECASE)
+
+
+def afloeser(gammel: dict, kandidat: dict, afsnit: list[tuple[str | None, str]]) -> dict | str:
+    """Afløserfeltet til den gamle lov, når kandidatens egen tekst (afsnit: tekst.afsnit) har en ophævelsesbestemmelse, der nævner den med
+    nummer og dato: "Lov nr. X af <dato> ... ophæves", "Lov om ..., jf. lovbekendtgørelse nr. X af <dato>, ophæves" eller et punkt under
+    "... ophæves ...:". Ikke en ophævelse: en bemyndigelse (kan), en delvis ophævelse (bortset fra, med undtagelse af, enkelte paragraffer) og et
+    nummer fra "som affattet ved" eller "som ændret ved". En lovbekendtgørelse gentager bestemmelser fra de love, der har ændret den, så kun
+    en hovedlov (type lov) kan være afløser, og ikke en ren ophævelseslov ("Lov om ophævelse af ..."). bevarer_regler er den sætning, der lader
+    regler fastsat efter den gamle lov forblive i kraft. Returnerer "uden-tekst" uden afsnit og ellers "afvist", når ingen bestemmelse holder."""
+    if not afsnit:
+        return "uden-tekst"
+    if kandidat["type"] != "lov" or kandidat["navn"].startswith("Lov om ophævelse af"):
+        return "afvist"
+    nr, dag = gammel["id"].split("-")[2], gammel["datoer"].get("udstedt")
+    nyt = lambda m: m[2] == nr and f"{m[5]}-{X.MONTHS[m[4].lower()]:02d}-{int(m[3]):02d}" == dag and {"lov": "lov"}.get(m[1].lower(), "lovbekendtgørelse") == gammel["type"]
+    fund = bevar = None
+    for par, tekst in afsnit:
+        linjer = []
+        for x in tekst.split("\n"):
+            if linjer and not re.match(r"\d+\)", x) and not re.search(r"[.:;]\s*$", linjer[-1]):
+                linjer[-1] += " " + x
+            else:
+                linjer.append(x)
+        for n, linje in enumerate(linjer):
+            for s in SAETNING.split(linje):
+                if BEVAR.search(s) and not bevar and any(nyt(m) for m in LOVNR.finditer(s)):
+                    bevar = s
+                for m in LOVNR.finditer(s) if not fund else ():
+                    intro = next((x for x in reversed(linjer[:n]) if not re.match(r"\d+\)", x)), "")
+                    liste = "ophæves" not in s and LISTE.search(intro) and re.match(r"\d+\)", linje)
+                    pre = s[:m.start()]
+                    if (nyt(m) and ("ophæves" in s or liste) and not GENNEM.search(pre) and not DELVIS.search(re.split(LOVNR.pattern + r"|\bophæves\b|\bsamt\b|:|;", pre, flags=re.IGNORECASE)[-1])
+                            and not UNDTAGEN.search(s) and not re.search(r"\bkan\b", s + (intro if liste else ""))):
+                        fund = (s, par, tekst)
+    if not fund:
+        return "afvist"
+    if not bevar:
+        bevar = next((s for p, t in afsnit if p == fund[1] for s in SAETNING.split(" ".join(t.split())) if BEVAR.search(s)), None)
+    return {"vaerdi": kandidat["id"], "ophaevelse": fund[0], "paragraf": fund[1], "paragraf_tekst": fund[2], "kilder": kandidat["kilder"][:1], "sikkerhed": "verificeret",
+            "metode": "ophaevelsesbestemmelse", "bevarer_regler": bevar}
+
+
+def foelg_afloeser(ids: dict, fund: dict) -> int:
+    """Skriv afløserfeltet (fund: {gammel lov: afloeser}) og lad lovfamilien fortsætte: den gamle lovs familie (den selv eller den version,
+    nyeste_version_afloeser_mangler peger på, og dens øvrige versioner) får afløserens gældende version som gaeldende_version og afloeser_fra
+    (familiens nyeste version), også gennem flere afløsere i træk. Returnerer antallet af dokumenter, der har fået en gældende version."""
+    hoved = lambda i: ids[i].get("nyeste_version_afloeser_mangler") or i
+    videre = {hoved(o): f["vaerdi"] for o, f in fund.items()}
+    medlem = collections.defaultdict(list)
+    for d in ids.values():
+        if d.get("nyeste_version_afloeser_mangler") in videre:
+            medlem[d["nyeste_version_afloeser_mangler"]].append(d)
+
+    def maal(s: str) -> str | None:
+        for _ in range(20):
+            d = ids[s]
+            if d["status"]["vaerdi"] == "gældende" or d.get("gaeldende_version"):
+                return d.get("gaeldende_version") or s
+            if hoved(s) not in videre:
+                return None
+            s = videre[hoved(s)]
+        return None
+
+    for o, f in fund.items():
+        ids[o]["afloeser"] = f
+    flyttet = 0
+    for h, s in videre.items():
+        if t := maal(s):
+            for d in [ids[h], *medlem[h]]:
+                d.pop("afloeser_mangler", None)
+                d.pop("nyeste_version_afloeser_mangler", None)
+                d.update(gaeldende_version=t, afloeser_fra=h)
+                flyttet += 1
+    return flyttet
+
+
+def lovled(ids: dict, i: str) -> str:
+    """Lovfamilien, men med en lov og dens afløser som to led: paragrafnumre gælder kun inden for samme lov."""
+    d = ids.get(i) or {}
+    return d.get("afloeser_fra") or d.get("gaeldende_version") or d.get("nyeste_version_afloeser_mangler") or i
+
+
+def nulstil_afloeser(docs: list[dict]) -> None:
+    """Fjern sidste kørsels afløserfelter, så familier og afloeser regner forfra."""
+    for d in docs:
+        d.pop("afloeser", None)
+        if h := d.pop("afloeser_fra", None):
+            d.pop("gaeldende_version", None)
+            d.update({"afloeser_mangler": True} if h == d["id"] else {"nyeste_version_afloeser_mangler": h})
+
+
+def kandidatplan() -> list[str]:
+    """Kandidatlovene fra det skrevne katalog i hente-rækkefølge: først kandidaterne til de gamle love, en gældende forskrift har hjemmel i
+    (hjemmel_for til en lovfamilie uden gældende version, og love med afloeser_mangler), så resten; nyeste først inden for hver."""
+    ids = {d["id"]: d for d in map(json.loads, (KAT / "retsinformation_lta.jsonl").open(encoding="utf-8"))}
+    kand = kandidater(ids, {nid(r["EliUrl"]): r for r in map(json.loads, (EKS / "lta.jsonl").open(encoding="utf-8"))})
+    brugt = {d["id"] for d in ids.values() if d.get("afloeser_mangler")}
+    for e in map(json.loads, (KAT / "kanter.jsonl").open(encoding="utf-8")):
+        if e["type"] == "hjemmel_for" and e["from"] in kand and not e.get("gaeldende_version") and ids.get(e["to"], {}).get("status", {}).get("vaerdi") == "gældende":
+            brugt |= {e["from"], ids[e["from"]].get("nyeste_version_afloeser_mangler")}
+    foerst = sorted({c for g in brugt & kand.keys() for c in kand[g]}, reverse=True)
+    return foerst + sorted({c for k in kand.values() for c in k} - set(foerst), reverse=True)
+
+
 def klassificer(docs: list[dict], foraeldre: dict, eks: dict, reg: dict, svar: dict, idag: str) -> list[dict]:
     """Sæt ministerium fra Retsinformations ressortfelt på alle gældende dokumenter, hvor feltet med sikkerhed er aktuelt, også når en
     klassifikation siger noget andet. Giv derefter gældende dokumenter uden klassifikation ministerium og retsområde fra forældre og svar;
@@ -588,9 +716,21 @@ def katalog() -> dict:
             d["aendrer"] = maal
     familie = lambda i: ids[i].get("gaeldende_version") or ids[i].get("nyeste_version_afloeser_mangler") or i
     tls = [r["tidslinje"] for r in tidslinjer()]
+    nulstil_afloeser(docs)
     ompeg = familier(docs, blev_historisk, [lovversioner(tl) for tl in tls])
     stats["lovfamilier flyttet til ny gældende version"] = len(ompeg)
     stats["love samlet efter Retsinformations tidslinje"] = sum(d.get("familie_metode") == "tidslinje" for d in docs)
+    T, fund, udfald = modul("tekst", HERE / "tekst.py"), {}, collections.Counter()
+    oprydning = {tuple(r.split("\t")[:2]) for r in OPRYDNING.read_text(encoding="utf-8").splitlines()[1:]}
+    for o, cs in kandidater(ids, eks).items():
+        u = [afloeser(ids[o], ids[c], T.afsnit(T.gzip.decompress(T.sti(c).read_bytes()).decode("utf-8", "replace"))) if T.sti(c).exists() else "ikke-hentet" for c in cs]
+        bek = [x for x in u if isinstance(x, dict)]
+        ok = sorted((x for x in bek if (o, x["vaerdi"]) not in oprydning), key=lambda x: ids[x["vaerdi"]]["datoer"].get("udstedt", ""))
+        fund.update({o: ok[0]} if ok else {})
+        udfald["bekræftet" if ok else "oprydning" if bek else "ikke-hentet" if "ikke-hentet" in u else "uden-tekst" if "uden-tekst" in u else "afvist"] += 1
+        udfald["flere bekræftede"] += len(ok) > 1
+    stats["love med afløserkandidater"] = dict(udfald)
+    stats["dokumenter ført videre til afløserens gældende version"] = foelg_afloeser(ids, fund)
 
     hjemmel = {i: [accession[a] for a in r.get("HjemmelVedroerer", "").split(",") if a in accession and accession[a] != i] for i, r in eks.items() if i in ids}
     versioner = collections.defaultdict(list)
@@ -628,7 +768,7 @@ def katalog() -> dict:
     for e in kanter:
         if e["type"] == "henviser_til" and (e.get("gaeldende_version") or e["to"]) in ompeg:
             e["gaeldende_version"] = ompeg[e.get("gaeldende_version") or e["to"]]
-        if ids.get(e["to"], {}).get("familie_metode") == "tidslinje" and e["type"] == "henviser_til":
+        if (ids.get(e["to"], {}).get("familie_metode") == "tidslinje" or "afloeser_fra" in ids.get(e["to"], {})) and e["type"] == "henviser_til":
             for k in ("gaeldende_version", "nyeste_version_afloeser_mangler"):
                 e.pop(k, None)
                 if ids[e["to"]].get(k):
@@ -641,14 +781,14 @@ def katalog() -> dict:
         if ids[i]["type"] in FORSKRIFTER or not i.startswith("lta-"):
             citeret = [(c, b) for c, b in P.praeambelhjemmel(praeambel.get(i, "")) if c in ids and c != i]
             love = list(dict.fromkeys(hjemmel[i]))
-            kanter += [hjemmelkant(ids[i], ids[lov], [x for x in citeret if familie(x[0]) == familie(lov)]) for lov in love]
+            kanter += [hjemmelkant(ids[i], ids[lov], [x for x in citeret if lovled(ids, x[0]) == lovled(ids, lov)]) for lov in love]
             stats["præamblens henvisninger"] += len(citeret)
             stats["hjemmelsfeltets dokumenter uden for præamblen"] += sum(all(familie(c) != familie(lov) for c, _ in citeret) for lov in love) if citeret else 0
             stats["forskrifter med læst præambel"] += bool(citeret)
             stats["præamblens henvisninger genfundet i hjemmelsfeltet"] += sum(any(familie(c) == familie(lov) for lov in love) for c, _ in citeret)
             kun = collections.defaultdict(list)
             for c, b in citeret:
-                if (c, "hjemmel_for", i) not in findes and all(familie(c) != familie(lov) for lov in love):
+                if (c, "hjemmel_for", i) not in findes and all(lovled(ids, c) != lovled(ids, lov) for lov in love):
                     kun[c] += b
             kanter += [{"from": c, "type": "hjemmel_for", "to": i, "beskrivelse": "hjemmel ifølge forskriftens præambel", "kilder": ids[i]["kilder"][:1],
                         "sikkerhed": "verificeret", "metode": PRAEAMBEL, **({"gaeldende_version": gv} if (gv := ids[c].get("gaeldende_version")) else {}),
@@ -880,6 +1020,60 @@ def selftest() -> None:
     assert familier(omdoebt, set(), [["s", "u", "findes-ikke"], ["g", "h"]]) == {}
     assert [(x.get("gaeldende_version"), x.get("nyeste_version_afloeser_mangler"), x.get("afloeser_mangler")) for x in omdoebt] == [("u", None, None), (None, None, None), (None, "h", None), (None, None, None)]
     assert all(x["familie_metode"] == "tidslinje" for x in omdoebt) and "familie_metode" not in fam[0]
+    gl = {"lta-2013-155": {**lov("lta-2013-155", "Lov om visse produkter", 2013, "historisk"), "type": "lov"},
+          "lta-2010-9": lov("lta-2010-9", "Bekendtgørelse af æbleloven", 2010, "historisk", gaeldende_version="lta-2024-1"),
+          "lta-2024-500": {**lov("lta-2024-500", "Lov om produkter", 2024, "gældende"), "type": "lov"},
+          "lta-2015-10": {**lov("lta-2015-10", "Lov om ændring af lov om visse produkter", 2015, "historisk"), "type": "ændringslov", "dokumentrolle": "ændring"},
+          "lta-2020-3": {**lov("lta-2020-3", "Lov om pærer", 2020, "gældende"), "type": "lov"}, "lta-2024-1": lov("lta-2024-1", "Bekendtgørelse af æbleloven", 2024, "gældende")}
+    rows = {"lta-2013-155": {"SenereAendringer": "LOV nr 10 af 01/01/2015,LOV nr 3 af 01/01/2020,LOV nr 500 af 01/01/2024"},
+            "lta-2010-9": {"SenereAendringer": "LOV nr 500 af 01/01/2024"}, "lta-2015-10": {"ÆndrerI": "LOV nr 155 af 01/01/2013"},
+            "lta-2020-3": {"ÆndrerI": "LOV nr 1 af 01/01/2019"}, "lta-2024-500": {"ÆndrerI": "LOV nr 155 af 01/01/2013,LBK nr 9 af 01/01/2010"}}
+    assert kandidater(gl, rows) == {"lta-2013-155": ["lta-2024-500"]}
+    gammel, ny, lbk = gl["lta-2013-155"] | {"datoer": {"udstedt": "2013-02-20"}}, gl["lta-2024-500"] | {"kilder": [P.RI + "/eli/lta/2024/500/xml"]}, gl["lta-2010-9"] | {"datoer": {"udstedt": "2010-03-04"}}
+    bevar = "Regler, der er fastsat i henhold til lov nr. 155 af 20. februar 2013, forbliver i kraft, indtil de ophæves."
+    for tekster, gl_, kand, ventet in (
+            ([("§ 40", f"§ 40. Loven træder i kraft den 1. juli 2024.\nStk. 2. Lov nr. 155 af 20. februar 2013 om visse produkter ophæves.\nStk. 3. {bevar}")], gammel, ny,
+             ("Lov nr. 155 af 20. februar 2013 om visse produkter ophæves.", "§ 40", bevar)),
+            ([("§ 9", "§ 9. Lov om æbler, jf. lovbekendtgørelse nr. 9 af 4. marts 2010, ophæves.")], lbk, ny, ("Lov om æbler, jf. lovbekendtgørelse nr. 9 af 4. marts 2010, ophæves.", "§ 9", None)),
+            ([("§ 9", "§ 9. Samtidig ophæves:\n1) lov nr. 3 af 1. maj 1999 om pærer,\n2) lov om æbler, jf. lovbekendtgørelse nr. 9 af 4. marts 2010.")], lbk, ny,
+             ("2) lov om æbler, jf. lovbekendtgørelse nr. 9 af 4. marts 2010.", "§ 9", None)),
+            ([("§ 9", "§ 9. Følgende love ophæves ved lovens ikrafttræden:\n1) Lov om æbler, jf. lovbekendtgørelse nr. 9 af 4. marts 2010.")], lbk, ny,
+             ("1) Lov om æbler, jf. lovbekendtgørelse nr. 9 af 4. marts 2010.", "§ 9", None)),
+            ([("§ 9", "§ 9. Ministeren kan fastsætte, at lov nr. 155 af 20. februar 2013 ophæves.")], gammel, ny, "afvist"),
+            ([("§ 9", "§ 9. Lov om æbler, jf. lovbekendtgørelse nr. 9 af 4. marts 2010, ophæves, bortset fra §§ 8-11.")], lbk, ny, "afvist"),
+            ([("§ 9", "§ 9. Lov om æbler, jf. lovbekendtgørelse nr. 9 af 4. marts 2010, ophæves med undtagelse af § 3.")], lbk, ny, "afvist"),
+            ([("§ 9", "§ 9. § 2 og § 5 i lov nr. 155 af 20. februar 2013 ophæves.")], gammel, ny, "afvist"),
+            ([("§ 9", "§ 9. Retsplejelovens § 7, jf. lovbekendtgørelse nr. 9 af 4. marts 2010, ophæves.")], lbk, ny, "afvist"),
+            ([("§ 9", "§ 9. § 14\ni lov om æbler og pærer, jf. lovbekendtgørelse nr. 9 af 4. marts 2010, ophæves.")], lbk, ny, "afvist"),
+            ([("§ 9", ("§ 9. Lov om pærer, jf. lovbekendtgørelse nr. 2 af 4. marts 2009, som ændret ved § 3 i lov nr. 1 af 1. maj 2009, og lov om æbler og\n"
+                       "pærer, jf. lovbekendtgørelse nr. 9 af 4. marts 2010, ophæves."))], lbk, ny,
+             ("Lov om pærer, jf. lovbekendtgørelse nr. 2 af 4. marts 2009, som ændret ved § 3 i lov nr. 1 af 1. maj 2009, og lov om æbler og pærer, jf. lovbekendtgørelse nr. 9 af 4. marts 2010, ophæves.", "§ 9", None)),
+            ([("§ 9", "§ 9. Lov om visse produkter, som affattet ved lov nr. 155 af 20. februar 2013, ophæves.")], gammel, ny, "afvist"),
+            ([("§ 9", "§ 9. Lov om visse produkter, som ændret ved lov nr. 155 af 20. februar 2013, ophæves.")], gammel, ny, "afvist"),
+            ([("§ 9", "§ 9. Lov nr. 155 af 20. februar 2013 om visse produkter ophæves.")], gammel, gl["lta-2024-1"], "afvist"),
+            ([("§ 1", "§ 1. Lov nr. 155 af 20. februar 2013 om visse produkter ophæves.")], gammel, ny | {"navn": "Lov om ophævelse af lov om visse produkter"}, "afvist"),
+            ([("§ 9", "§ 9. Lov nr. 155 af 20. februar 2012 om visse produkter ophæves.")], gammel, ny, "afvist"),
+            ([], gammel, ny, "uden-tekst")):
+        u = afloeser(gl_, kand, tekster)
+        assert (u if isinstance(u, str) else (u["ophaevelse"], u["paragraf"], u.get("bevarer_regler"))) == ventet, (tekster, u)
+    u = afloeser(gammel, ny, [("§ 40", "§ 40. Lov nr. 155 af 20. februar 2013 om visse produkter ophæves.")])
+    assert u == {"vaerdi": "lta-2024-500", "ophaevelse": "Lov nr. 155 af 20. februar 2013 om visse produkter ophæves.", "paragraf": "§ 40",
+                 "paragraf_tekst": "§ 40. Lov nr. 155 af 20. februar 2013 om visse produkter ophæves.", "kilder": [P.RI + "/eli/lta/2024/500/xml"],
+                 "sikkerhed": "verificeret", "metode": "ophaevelsesbestemmelse", "bevarer_regler": None}
+    pdl = [{**lov("lta-2000-429", "Lov om behandling af personoplysninger", 2000, "historisk", afloeser_mangler=True), "type": "lov"},
+           lov("lta-2001-1", "Bekendtgørelse af lov om behandling af personoplysninger", 2001, "historisk", nyeste_version_afloeser_mangler="lta-2000-429"),
+           {**lov("lta-2018-502", "Databeskyttelsesloven", 2018, "historisk", gaeldende_version="lta-2024-289"), "type": "lov"},
+           lov("lta-2024-289", "Bekendtgørelse af databeskyttelsesloven", 2024, "gældende"), {**lov("lta-1990-5", "Lov om x", 1990, "historisk", afloeser_mangler=True), "type": "lov"}]
+    pids = {d["id"]: d for d in pdl}
+    fund = {"lta-2001-1": {"vaerdi": "lta-2018-502"}, "lta-1990-5": {"vaerdi": "lta-2000-429"}}
+    assert foelg_afloeser(pids, fund) == 3
+    assert [(d.get("gaeldende_version"), d.get("afloeser_fra"), "afloeser_mangler" in d or "nyeste_version_afloeser_mangler" in d) for d in pdl] == [
+        ("lta-2024-289", "lta-2000-429", False), ("lta-2024-289", "lta-2000-429", False), ("lta-2024-289", None, False), (None, None, False), ("lta-2024-289", "lta-1990-5", False)]
+    assert pdl[1]["afloeser"] == {"vaerdi": "lta-2018-502"} and "afloeser" not in pdl[0]
+    assert [lovled(pids, i) for i in pids] == ["lta-2000-429", "lta-2000-429", "lta-2024-289", "lta-2024-289", "lta-1990-5"] and lovled(pids, "x") == "x"
+    nulstil_afloeser(pdl)
+    assert [(d.get("gaeldende_version"), d.get("afloeser_mangler"), d.get("nyeste_version_afloeser_mangler"), "afloeser" in d) for d in pdl] == [
+        (None, True, None, False), (None, None, "lta-2000-429", False), ("lta-2024-289", None, None, False), (None, None, None, False), (None, True, None, False)]
     reg = {"regering": {"dannet": "2026-06-03"}, "nodes": [{"id": "min-ae", "type": "ministerium", "status": "aktiv", "navn": "Æbleministeriet"}]}
     inst = [{"id": "naevn-ae", "type": "nævn", "navn": "Æblenævnet (ÆN)", "tidligere_navne": [{"navn": "Frugtnævnet"}, {"navn": "Det Gamle Nævn"}]},
             {"id": "naevn-p", "type": "nævn", "navn": "Pærenævnet", "tidligere_navne": [{"navn": "Det Gamle Nævn"}]}, {"id": "lov-x", "type": "lov", "navn": "Lovnævnet"}]
