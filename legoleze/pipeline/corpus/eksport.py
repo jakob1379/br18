@@ -2,7 +2,7 @@
 """Retsinformations søgeeksport som kilde til kataloget og til fortegnelsen over administrative forskrifter.
 
     python3 eksport.py hent       # metadata for alle dokumenter pr. samling -> intermediate/corpus/eksport/<samling>.jsonl
-    python3 eksport.py hent lta 2025 [TIL]  # ét kald: samlingens dokumenter fra året (til og med TIL) flettes ind i <samling>.jsonl med feltet Hentet (dagens dato)
+    python3 eksport.py hent lta 2025 [TIL]  # ét kald: samlingens dokumenter fra året (til og med TIL) flettes ind i <samling>.jsonl med feltet Hentet (den dag, svaret blev hentet)
     python3 eksport.py katalog    # ajourfør katalog/retsinformation_<samling>.jsonl og kanter.jsonl fra eksporten (kræver PyYAML)
     python3 eksport.py unavngivne # de navne i klage- og tilsynssætningerne, registry'et ikke har, som TSV (navn, sætninger, dokumenter, eksempel)
     python3 eksport.py selftest
@@ -13,7 +13,8 @@ efter sitemap-fortegnelsen (populate.py sitemap), så hvert kald giver ca. 3.000
 Kaldene går gennem populate.get, som holder 10,5 sekunder mellem kald til Retsinformation og husker svarene.
 
 Status og ressortfelt dateres med den dag, eksporten blev hentet (eksport/hentet), ikke med den dag, kataloget bygges. En række fra en
-delvis hentning har sin egen dato i feltet Hentet, og den bruges i stedet; eksport/hentet ændres ikke af den.
+delvis hentning har sin egen dato i feltet Hentet, og den bruges i stedet; eksport/hentet ændres ikke af den. Datoen er den dag, populate.get
+hentede svaret (cachedag), så et svar fra cachen dateres med den dag, det blev hentet; eksport/hentet er den ældste af kaldenes datoer.
 
 katalog gør fem ting med Lovtidende A: tilføjer de dokumenter, kataloget mangler; sætter status for alle dokumenter til eksportens;
 peger lovfamilier på den nyeste gældende version; skriver hjemmel_for-kanter fra eksportens hjemmelsfelt; og sætter ministerium fra
@@ -49,10 +50,13 @@ from __future__ import annotations
 import collections
 import csv
 import datetime
+import hashlib
 import importlib.util
 import io
 import json
+import os
 import re
+import shutil
 import sys
 import tempfile
 from pathlib import Path
@@ -117,14 +121,29 @@ def raekker(raw: bytes) -> list[dict]:
     return [{k: v for k, v in r.items() if v and k != "Rank"} for r in csv.DictReader(io.StringIO(text), delimiter=";")]
 
 
+def cachedag(url: str) -> str:
+    """Den dag, populate.get hentede svaret: cachefilens tid. Et svar fra cachen kan være op til syv dage gammelt."""
+    return str(datetime.date.fromtimestamp((P.CACHE / (hashlib.sha1(url.encode()).hexdigest() + ".raw")).stat().st_mtime))
+
+
+def hentedag(r: dict | None, idag: str) -> str:
+    """Datoen for en eksportrække: feltet Hentet fra en delvis hentning, ellers den fulde eksports dato."""
+    return (r or {}).get("Hentet", idag)
+
+
 def hent(samling: str | None = None, fra: str | None = None, til: str | None = None) -> dict:
     if samling:
-        status, raw = P.get(f"{P.RI}/api/documentsearch/csv?ppm={SAMLINGER[samling]}&yl={fra}" + f"&yh={til}" * bool(til))
+        fil = EKS / f"{samling}.jsonl"
+        if samling not in SAMLINGER or not fra:
+            raise SystemExit(f"brug: eksport.py hent SAMLING ÅR [TIL], SAMLING en af {', '.join(SAMLINGER)}")
+        if not fil.exists():
+            raise SystemExit(f"{fil} findes ikke: en delvis hentning fletter ind i den fulde eksport, så kør først eksport.py hent")
+        url = f"{P.RI}/api/documentsearch/csv?ppm={SAMLINGER[samling]}&yl={fra}" + f"&yh={til}" * bool(til)
+        status, raw = P.get(url)
         if status != "ok":
             raise SystemExit(f"{samling} {fra}-{til or ''}: {status}")
-        fil = EKS / f"{samling}.jsonl"
         ud = {r["EliUrl"]: r for r in map(json.loads, fil.open(encoding="utf-8"))}
-        nye = {r["EliUrl"]: {**r, "Hentet": str(datetime.date.today())} for r in raekker(raw) if r.get("EliUrl")}
+        nye = {r["EliUrl"]: {**r, "Hentet": cachedag(url)} for r in raekker(raw) if r.get("EliUrl")}
         stats = {samling: {"nye": len(nye.keys() - ud.keys()), "ajourført": len(nye.keys() & ud.keys()), "uændrede": len(ud.keys() - nye.keys())}}
         ud.update(nye)
         fil.write_text("".join(linje(ud[k]) for k in sorted(ud)), encoding="utf-8")
@@ -134,17 +153,18 @@ def hent(samling: str | None = None, fra: str | None = None, til: str | None = N
         dele = json.loads(line)["eli"].split("/")
         aar[dele[2]][dele[3][:4]] += 1
     EKS.mkdir(parents=True, exist_ok=True)
-    stats = {}
+    stats, dage = {}, [str(datetime.date.today())]
     for navn, ppm in SAMLINGER.items():
         ud = {}
         for y1, y2, _ in intervaller(aar[navn]):
-            status, raw = P.get(f"{P.RI}/api/documentsearch/csv?ppm={ppm}" + f"&yl={y1}" * bool(y1) + f"&yh={y2}" * bool(y2))
+            status, raw = P.get(url := f"{P.RI}/api/documentsearch/csv?ppm={ppm}" + f"&yl={y1}" * bool(y1) + f"&yh={y2}" * bool(y2))
             if status != "ok":
                 raise SystemExit(f"{navn} {y1}-{y2}: {status}")
+            dage.append(cachedag(url))
             ud.update((r["EliUrl"], r) for r in raekker(raw) if r.get("EliUrl"))
         (EKS / f"{navn}.jsonl").write_text("".join(linje(ud[k]) for k in sorted(ud)), encoding="utf-8")
         stats[navn] = {"eksport": len(ud), "sitemap": sum(aar[navn].values()), "gældende": sum(r.get("Historisk") != "True" for r in ud.values())}
-    (EKS / "hentet").write_text(str(datetime.date.today()), encoding="utf-8")
+    (EKS / "hentet").write_text(min(dage), encoding="utf-8")
     return stats
 
 
@@ -185,7 +205,7 @@ def post(r: dict, idag: str) -> dict:
               "ri_aendret": dato(r.get("SidstPubliceretTidspunkt"))}
     return {
         "id": i, "navn": r["Titel"], "type": typ, "kilder": [f"{P.RI}/eli/{i.replace('-', '/')}" + "/xml" * lta],
-        "status": {"vaerdi": "historisk" if r.get("Historisk") == "True" else "gældende", "pr": r.get("Hentet", idag), "sikkerhed": "verificeret"},
+        "status": {"vaerdi": "historisk" if r.get("Historisk") == "True" else "gældende", "pr": hentedag(r, idag), "sikkerhed": "verificeret"},
         "identifikatorer": {**({"lovtidende": f"{X.ABBR[typ]} nr. {nr} af {u[8:]}/{u[5:7]}/{u[:4]}"} if lta else {}), "document_id": r.get("DokumentId"),
                             "accession": r.get("ACCN"), "sikkerhed": "verificeret"},
         "datoer": {k: v for k, v in datoer.items() if v},
@@ -441,19 +461,20 @@ def senere_aendret(udstedt: str, tl: list[dict] | None, felt: str | None, ids: d
 def familier(docs: list[dict], blev_historisk: set, kaeder: list[list[str]] = ()) -> dict:
     """Peg lovfamilier på den nyeste gældende version; returnér {gammel version: ny version} for dem, der er flyttet på titlen. En lov med
     hentet tidslinje (kaeder: versionerne pr. lov) samles efter den og får familie_metode "tidslinje": er ingen version gældende, peger de
-    ældre på den nyeste. En gældende version med samme titel, nyere end tidslinjen og ikke i nogen tidslinje (udstedt efter at tidslinjen
-    blev hentet), bliver tidslinjens gældende version. Andre love samles på titlen."""
+    ældre på den nyeste. Er ingen af tidslinjens versioner gældende, bliver en gældende version med samme titel, nyere end tidslinjen og ikke i
+    nogen tidslinje (udstedt efter at tidslinjen blev hentet), tidslinjens gældende version. Andre love samles på titlen."""
     ids = {d["id"]: d for d in docs}
     gaeldende = collections.defaultdict(list)
     for d in docs:
         if d["status"]["vaerdi"] == "gældende" and d["type"] in LOVE and d["dokumentrolle"] == "hoved":
             gaeldende[titelnoegle(d["navn"])].append(d)
     hoved, i_kaede = {}, {i for kaede in kaeder for i in kaede}
+    udstedt = lambda i: ids[i]["datoer"].get("udstedt", "")
     for kaede in kaeder:
         v = [i for i in kaede if i in ids]
-        udstedt = lambda i: ids[i]["datoer"].get("udstedt", "")
-        nu = max([i for i in v if ids[i]["status"]["vaerdi"] == "gældende"] or v, key=udstedt, default=None)
-        senere = [d["id"] for d in gaeldende[titelnoegle(ids[nu]["navn"])] if d["id"] not in i_kaede and udstedt(d["id"]) > max(map(udstedt, v))] if nu else []
+        g = [i for i in v if ids[i]["status"]["vaerdi"] == "gældende"]
+        nu = max(g or v, key=udstedt, default=None)
+        senere = [d["id"] for d in gaeldende[titelnoegle(ids[nu]["navn"])] if d["id"] not in i_kaede and udstedt(d["id"]) > max(map(udstedt, v))] if nu and not g else []
         hoved.update(dict.fromkeys(v, max(senere, key=udstedt, default=nu)))
 
     def nyere(g: dict) -> str | None:
@@ -620,7 +641,7 @@ def klassificer(docs: list[dict], foraeldre: dict, eks: dict, reg: dict, svar: d
     for d in docs:
         felt = P.ressort({"Status": "Valid", "Ministry": eks.get(d["id"], {}).get("Ressort"), "DiesSigni": d["datoer"].get("udstedt", "")}, reg)
         if d["status"]["vaerdi"] == "gældende" and ministerier.get(felt):
-            d["ministerium"] = {"vaerdi": ministerier[felt], "sikkerhed": "verificeret", "metode": "retsinformation", "pr": eks.get(d["id"], {}).get("Hentet", idag)}
+            d["ministerium"] = {"vaerdi": ministerier[felt], "sikkerhed": "verificeret", "metode": "retsinformation", "pr": hentedag(eks.get(d["id"]), idag)}
     mangler = [d for d in docs if d["status"]["vaerdi"] == "gældende" and not ((d.get("ministerium") or {}).get("vaerdi") and d.get("retsomraade"))]
 
     def klasse(i: str) -> tuple:
@@ -715,7 +736,7 @@ def katalog() -> dict:
             d["datoer"].pop("historisk_markeret", None)
             if ny == "historisk" and dato(r.get("HistoriskDato")):
                 d["datoer"]["historisk_markeret"] = dato(r["HistoriskDato"])
-        d["status"] = {**d["status"], "vaerdi": ny, "pr": r.get("Hentet", idag)}
+        d["status"] = {**d["status"], "vaerdi": ny, "pr": hentedag(r, idag)}
     kendte = {d["id"] for d in docs}
     fra_eksport = [post(r, idag) for i, r in sorted(eks.items()) if i not in kendte]
     nye = [d for d in fra_eksport if d["id"].startswith("lta-")]
@@ -918,18 +939,40 @@ def selftest() -> None:
     csvtekst = '"Rank";"DokumentType";"Titel";"Historisk";"EliUrl"\r\n"B";"Bekendtgørelse";"Bekendtgørelse om æbler";"";"https://retsinformation.dk/eli/lta/2026/5"\r\n'
     assert raekker(csvtekst.encode("utf-16-le")) == [{"DokumentType": "Bekendtgørelse", "Titel": "Bekendtgørelse om æbler", "EliUrl": "https://retsinformation.dk/eli/lta/2026/5"}]
     global EKS
-    EKS, gem_get, kald = Path(tempfile.mkdtemp()), P.get, []
-    (EKS / "hentet").write_text("2026-11-12", encoding="utf-8")
-    (EKS / "lta.jsonl").write_text(linje({"EliUrl": "https://retsinformation.dk/eli/lta/2026/5", "Historisk": "False"}) + linje({"EliUrl": "https://retsinformation.dk/eli/lta/2001/2"}), encoding="utf-8")
-    P.get = lambda url: kald.append(url) or ("ok", (csvtekst + '"A";"Bekendtgørelse";"Bekendtgørelse om pærer";"";"https://retsinformation.dk/eli/lta/2026/6"\r\n').encode("utf-16-le"))
+    gem, tmp, kald = (EKS, P.get, P.CACHE, P.SITEMAP), Path(tempfile.mkdtemp()), []
+    EKS, P.CACHE, P.SITEMAP = tmp / "eksport", tmp / "cache", tmp / "sitemap.jsonl"
+    tre_dage = (datetime.datetime.now() - datetime.timedelta(days=3)).timestamp()
+
+    def falsk(url: str) -> tuple[str, bytes]:
+        kald.append(url)
+        P.CACHE.mkdir(exist_ok=True)
+        f = P.CACHE / (hashlib.sha1(url.encode()).hexdigest() + ".raw")
+        f.write_bytes(b"")
+        os.utime(f, (tre_dage, tre_dage))
+        return "ok", (csvtekst + '"A";"Bekendtgørelse";"Bekendtgørelse om pærer";"";"https://retsinformation.dk/eli/lta/2026/6"\r\n').encode("utf-16-le")
+
+    P.get = falsk
     try:
+        for args in (("lta",), ("x", "2025"), ("lta", "2025")):
+            try:
+                hent(*args)
+                raise AssertionError(args)
+            except SystemExit as ex:
+                assert "eksport.py hent" in str(ex) and not kald
+        EKS.mkdir()
+        (EKS / "hentet").write_text("2026-11-12", encoding="utf-8")
+        (EKS / "lta.jsonl").write_text(linje({"EliUrl": "https://retsinformation.dk/eli/lta/2026/5", "Historisk": "False"}) + linje({"EliUrl": "https://retsinformation.dk/eli/lta/2001/2"}), encoding="utf-8")
         assert hent("lta", "2025") == {"lta": {"nye": 1, "ajourført": 1, "uændrede": 1}} and kald == [P.RI + "/api/documentsearch/csv?ppm=1&yl=2025"]
         flettet = {r["EliUrl"][-6:]: r for r in map(json.loads, (EKS / "lta.jsonl").open(encoding="utf-8"))}
-        assert flettet["2026/5"] == {"DokumentType": "Bekendtgørelse", "Titel": "Bekendtgørelse om æbler", "EliUrl": "https://retsinformation.dk/eli/lta/2026/5", "Hentet": str(datetime.date.today())}
+        assert flettet["2026/5"] == {"DokumentType": "Bekendtgørelse", "Titel": "Bekendtgørelse om æbler", "EliUrl": "https://retsinformation.dk/eli/lta/2026/5",
+                                     "Hentet": str(datetime.date.fromtimestamp(tre_dage))}
         assert flettet["2001/2"] == {"EliUrl": "https://retsinformation.dk/eli/lta/2001/2"} and (EKS / "hentet").read_text(encoding="utf-8") == "2026-11-12"
         assert hent("lta", "2013", "2013")["lta"]["nye"] == 0 and kald[-1] == P.RI + "/api/documentsearch/csv?ppm=1&yl=2013&yh=2013"
+        P.SITEMAP.write_text(json.dumps({"eli": "/eli/lta/2026/5"}) + "\n", encoding="utf-8")
+        assert hent()["lta"]["eksport"] == 2 and (EKS / "hentet").read_text(encoding="utf-8") == str(datetime.date.fromtimestamp(tre_dage))
     finally:
-        P.get = gem_get
+        EKS, P.get, P.CACHE, P.SITEMAP = gem
+        shutil.rmtree(tmp)
     assert post({**flettet["2026/5"], "Hentet": "2026-11-23"}, "2026-11-12")["status"]["pr"] == "2026-11-23"
     r = {"DokumentType": "Ændringsbekendtgørelse", "Titel": "Bekendtgørelse om ændring af bekendtgørelse om æbler for Grønland", "Ressort": "Æbleministeriet", "Nummer": "5",
          "DokumentId": "AB000001", "ACCN": "B20260000505", "UnderskriftDato": "20260702", "PubliceretTidspunkt": "20260704", "Historisk": "True", "HistoriskDato": "20261001",
@@ -1055,7 +1098,9 @@ def selftest() -> None:
              lov("f3", "Bekendtgørelse af lov om fuldbyrdelse af straf m.v.", 2026, "gældende"), lov("f0", "Bekendtgørelse af lov om fuldbyrdelse af straf m.v.", 2010, "gældende"),
              lov("z1", "Bekendtgørelse af lov om zoner", 2020, "gældende"), lov("z2", "Bekendtgørelse af lov om zoner", 2026, "gældende")]
     assert familier(straf, set(), [["f1", "f2"], ["z1"]]) == {}
-    assert [x.get("gaeldende_version") for x in straf] == ["f3", "f3", None, None, "z2", None] and "familie_metode" not in straf[2]
+    assert [x.get("gaeldende_version") for x in straf] == ["f3", "f3", None, None, None, None] and "familie_metode" not in straf[2]
+    indfoed = [{**lov(f"i{n}", "Lov om indfødsrets meddelelse", aar, "gældende"), "type": "lov"} for n, aar in ((1, 2024), (2, 2025), (3, 2026))]
+    assert familier(indfoed, set(), [["i1"], ["i2"]]) == {} and [x.get("gaeldende_version") for x in indfoed] == [None, None, None]
     gl = {"lta-2013-155": {**lov("lta-2013-155", "Lov om visse produkter", 2013, "historisk"), "type": "lov"},
           "lta-2010-9": lov("lta-2010-9", "Bekendtgørelse af æbleloven", 2010, "historisk", gaeldende_version="lta-2024-1"),
           "lta-2024-500": {**lov("lta-2024-500", "Lov om produkter", 2024, "gældende"), "type": "lov"},
@@ -1170,7 +1215,7 @@ if __name__ == "__main__":
     if kommando == "selftest":
         selftest()
     elif kommando in ("hent", "katalog"):
-        print(json.dumps({"hent": hent, "katalog": katalog}[kommando](*sys.argv[2:5]), ensure_ascii=False, indent=1))
+        print(json.dumps(hent(*sys.argv[2:5]) if kommando == "hent" else katalog(), ensure_ascii=False, indent=1))
     elif kommando == "unavngivne":
         sys.stdout.write(unavngivne())
     else:

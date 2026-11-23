@@ -1,8 +1,8 @@
 [
  {
   "hvor": "kant lov-produktloven|hjemmel_for|bek-trykbaerende-udstyr",
-  "dom": "baerer",
-  "grund": "Implementørens egen vurdering (ingen uafhængig kontrollant i denne kørsel; dommerne læser $TMPDIR/jga143/review.json). BEK 493/2026 § 1 ændrer BEK 190/2015 og affatter dens indledning, så den citerer produktloven (LBK 22/2026) som hjemmel. Produktlovens § 40 ophæver lov 155/2013, som den oprindelige indledning citerede, og § 41 holder reglerne efter den i kraft. Kanten bærer også uden Retsinformations relation."
+  "dom": "delvist",
+  "grund": "De to uafhængige dommeres dom (raw/populate/2026-11-23-jga143.domme.json, jga143-2-produktloven-trykbaerende): begge delvist. Kun BEK nr. 493 af 2026 § 1, nr. 2, angiver relationen; LBK nr. 22 af 2026 §§ 40-41 handler om lov nr. 155 af 2013 og reglerne efter den, ikke om BEK nr. 190 af 2015. Erstatter implementørens egen dom (baerer) efter review 2026-11-23."
  },
  {
   "hvor": "kant naevn-miljoe-og-foedevareklagenaevnet|klageinstans|sty-naturstyrelsen",

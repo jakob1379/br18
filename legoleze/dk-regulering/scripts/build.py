@@ -349,11 +349,15 @@ def gen_katalog(reg: dict, kat: dict) -> str:
     lines += ["", f"### Dokumenttyper i de øvrige samlinger (top 30 af {len(typer)})", "", "| Type | Gældende | Historisk | Gældende koblet til lovgivning |", "|------|---------:|----------:|---------:|"]
     lines += [f"| {t} | {ag.get(t, 0)} | {ah.get(t, 0)} | {ak.get(t, 0)} |" for t in typer[:30]]
     med = {t["id"]: t for t in kat["tekst"]}
+    gaeldende = {d["id"] for d in kat["docs"] if d["status"]["vaerdi"] == "gældende"}
     lines += ["", "## Tekst", "",
-              ("Retsinformations XML er hentet for et udsnit af kataloget med `pipeline/corpus/tekst.py`: de dokumenter, registry'ets noder peger på, og gældende "
-               "dokumenter i de otte domæner. `tekst.jsonl` har én linje pr. hentet dokument med stien til XML-filen (`intermediate/corpus/xml/`), hentedato, omfang, "
+              ("Retsinformations XML er hentet for et udsnit af kataloget med `pipeline/corpus/tekst.py`: de dokumenter, registry'ets noder peger på, gældende "
+               "dokumenter i de otte domæner og, fra 2026-11-21, afløserkandidaternes lovtekster (de hovedlove, der kan have afløst en historisk lov), de fleste "
+               "ophævede. `tekst.jsonl` har én linje pr. hentet dokument med stien til XML-filen (`intermediate/corpus/xml/`), hentedato, omfang, "
                "præambel, fodnoter, underskriftssted og de EU-retsakter, Retsinformation fører på dokumentet. For en del ældre dokumenter har XML-filen kun metadata og "
-               "ingen tekst (`n_tegn` er 0). Alle andre dokumenter har kun metadata."), "",
+               "ingen tekst (`n_tegn` er 0). Alle andre dokumenter har kun metadata. "
+               f"{sum(e['to'] not in gaeldende for e in laest)} af de {len(laest)} klageinstans- og tilsynskanter fra dokumentets egne bestemmelser (metode `bestemmelse`) "
+               "står på dokumenter, der ikke er gældende: de gengiver loven, som den var."), "",
               "| Samling | XML hentet | heraf med tekst | heraf gældende med tekst | Tegn (mio.) | med præambel | med EU-retsakt |", "|---|---:|---:|---:|---:|---:|---:|"]
     for s, navn in {"lta": "Lovtidende A", **CAT_SAMLINGER}.items():
         ts = [(d, med[d["id"]]) for d in kat["docs"] if d["id"].startswith(s + "-") and d["id"] in med]
@@ -672,6 +676,10 @@ def selftest() -> None:
         fejl = validate_katalog(reg, med(afloeser=galt))
         assert len(fejl) == 1 and "afloeser" in fejl[0], (galt, fejl)
     assert len(validate_katalog(reg, med(afloeser_fra="lta-2099-1"))) == 1
+    d2 = lambda i, s: {**doc(i), "status": {"vaerdi": s, "pr": "2026-11-23"}, "datoer": {"udstedt": "2016-09-25"}, "udstedt_af": {"vaerdi": "X"}}
+    laest = [{**kant, "metode": "bestemmelse"}, {**kant, "type": "tilsyn", "metode": "bestemmelse", "to": "lta-2018-734"}, kant]
+    tekst = gen_katalog({"nodes": [{"id": "naevn-x", "type": "nævn", "navn": "X"}]}, {**kat(), "docs": [d2("lta-2016-1178", "historisk"), d2("lta-2018-734", "gældende")], "edges": laest})
+    assert "afløserkandidaternes lovtekster" in tekst and "1 af de 2 klageinstans- og tilsynskanter fra dokumentets egne bestemmelser" in tekst
     print("selftest ok")
 
 

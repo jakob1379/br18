@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 234 · kanter: 391
+Noder: 234 · kanter: 389
 
 ```mermaid
 flowchart LR
@@ -630,10 +630,8 @@ flowchart LR
     naevn_miljoe_og_foedevareklagenaevnet -.->|klageinstans| min_miljoe
     naevn_energiklagenaevnet -.->|klageinstans| sty_erhvervsstyrelsen
     naevn_miljoe_og_foedevareklagenaevnet -.->|klageinstans| org_udbetaling_danmark
-    lov_produktloven -->|hjemmel_for| bek_trykbaerende_udstyr
+    lov_produktloven -.->|hjemmel_for| bek_trykbaerende_udstyr
     naevn_miljoe_og_foedevareklagenaevnet -.->|klageinstans| sty_naturstyrelsen
-    naevn_forbrugerklagenaevnet -.->|klageinstans| sty_konkurrence_og_forbrugerstyrelsen
-    naevn_konkurrenceankenaevnet -.->|klageinstans| raad_konkurrenceraadet
     naevn_miljoe_og_foedevareklagenaevnet -.->|klageinstans| min_kultur
     naevn_teleklagenaevnet -.->|klageinstans| sty_digitaliseringsstyrelsen
     bek_risiko -->|implementerer_EU| eu_dir_2012_18

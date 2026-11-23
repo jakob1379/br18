@@ -12,9 +12,9 @@
    }
   ],
   "gennemsyn": {
-   "enighed": "uenig",
-   "udfald": "beholdt verificeret",
-   "grund": "For hjemmel_for er bekendtgørelsens egen indledning kilden (populate.ajour opgraderer på præamblen alene). BEK nr. 493 af 2026 § 1, nr. 2, affatter BEK nr. 190 af 2015s indledning, så den citerer produktloven; citatet er kontrolleret af apply. Dommerne brugte klagevejenes krav om én kilde mere; for en hjemmel er der kun én indledning."
+   "enighed": "enig",
+   "udfald": "sænket til sandsynlig",
+   "grund": "Efter review 2026-11-23: begge dommere delvist, og populate.py sænker en kant med en delvis dom til højst sandsynlig. Kun BEK nr. 493 af 2026 § 1, nr. 2, angiver relationen."
   }
  },
  {
@@ -84,9 +84,9 @@
    }
   ],
   "gennemsyn": {
-   "enighed": "enig",
-   "udfald": "lagt ind, sandsynlig",
-   "grund": "Forbrugerklageloven § 43, stk. 2; om styrelsen stadig træffer afgørelserne efter at mediationen er flyttet til Nævnenes Hus, er ikke fundet og står i beskrivelsen."
+   "enighed": "uenig",
+   "udfald": "åben",
+   "grund": "Lagt ind som sandsynlig og fjernet igen efter review 2026-11-23: kilden er LOV nr. 524 af 2015 som udstedt, ændringslovene (LOV nr. 640 af 2024 og LOV nr. 558 af 2025) er ikke læst, citatet nævner nævnets formand, og BEK nr. 65 af 2019 nævner Nævnenes Hus, så den afgørende myndighed er sandsynligvis forkert."
   }
  },
  {
@@ -138,9 +138,9 @@
    }
   ],
   "gennemsyn": {
-   "enighed": "enig",
-   "udfald": "lagt ind, sandsynlig",
-   "grund": "BEK nr. 496 af 2021 § 1, stk. 1."
+   "enighed": "uenig",
+   "udfald": "åben",
+   "grund": "Lagt ind som sandsynlig og fjernet igen efter review 2026-11-23: eneste kilde er nævnets egen bekendtgørelse (BEK nr. 496 af 2021 § 1) med 'i det omfang det er fastsat i konkurrenceloven', en bestemmelse, der afgrænser klageorganets kompetence (en kendt fejlklasse i meta.begraensninger), og konkurrenceloven angiver ikke selv ruten."
   }
  },
  {

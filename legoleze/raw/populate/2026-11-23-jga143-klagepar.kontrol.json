@@ -17,36 +17,12 @@
   ]
  },
  {
-  "hvor": "kant naevn-forbrugerklagenaevnet|klageinstans|sty-konkurrence-og-forbrugerstyrelsen",
-  "sikkerhed": "sandsynlig",
-  "dom": "delvist",
-  "belaeg": [
-   {
-    "url": "https://www.retsinformation.dk/eli/lta/2015/524",
-    "status": "ok",
-    "andel": 1.0
-   }
-  ]
- },
- {
   "hvor": "kant naevn-landsskatteretten|klageinstans|sty-skattestyrelsen",
   "sikkerhed": "sandsynlig",
   "dom": "delvist",
   "belaeg": [
    {
     "url": "https://www.retsinformation.dk/eli/lta/2020/1660",
-    "status": "ok",
-    "andel": 1.0
-   }
-  ]
- },
- {
-  "hvor": "kant naevn-konkurrenceankenaevnet|klageinstans|raad-konkurrenceraadet",
-  "sikkerhed": "sandsynlig",
-  "dom": "delvist",
-  "belaeg": [
-   {
-    "url": "https://www.retsinformation.dk/eli/lta/2021/496",
     "status": "ok",
     "andel": 1.0
    }

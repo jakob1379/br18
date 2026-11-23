@@ -13,30 +13,12 @@
    ]
   },
   {
-   "from": "naevn-forbrugerklagenaevnet",
-   "type": "klageinstans",
-   "to": "sty-konkurrence-og-forbrugerstyrelsen",
-   "beskrivelse": "Klage over Konkurrence- og Forbrugerstyrelsens afgørelser efter forbrugerklageloven kan indbringes for Forbrugerklagenævnets formand (LOV nr. 524 af 29/04/2015 § 43, stk. 2). Kun loven angiver ruten. Mediationen ligger nu hos Nævnenes Hus (BEK nr. 65 af 16/01/2019 § 3), og hvilke afgørelser styrelsen stadig træffer efter loven, er ikke fundet; ændringslovene LOV nr. 640 af 2024 og LOV nr. 558 af 2025 er ikke læst. Lagt ind som sandsynlig 2026-11-23 efter dommernes gennemsyn i JGA-143.",
-   "belaeg": [
-    {"url": "https://www.retsinformation.dk/eli/lta/2015/524", "citat": "Klage over afgørelser truffet af Konkurrence- og Forbrugerstyrelsen, jf. stk. 1, kan indbringes for Forbrugerklagenævnets formand."}
-   ]
-  },
-  {
    "from": "naevn-landsskatteretten",
    "type": "klageinstans",
    "to": "sty-skattestyrelsen",
    "beskrivelse": "Skattestyrelsens afgørelser efter bekendtgørelsen om gebyr og tilskud til nyttiggørelse af dæk kan indbringes for Landsskatteretten efter skatteforvaltningslovens § 11 (BEK nr. 1660 af 13/11/2020 § 26, stk. 2). Kun den ene bekendtgørelse nævner Skattestyrelsen; den generelle rute står i registry'et som Landsskatteretten over Skatteforvaltningen (skatteforvaltningslovens § 11). Lagt ind som sandsynlig 2026-11-23 efter dommernes gennemsyn i JGA-143.",
    "belaeg": [
     {"url": "https://www.retsinformation.dk/eli/lta/2020/1660", "citat": "Afgørelser, truffet af Skattestyrelsen, kan indbringes for Landsskatteretten efter skatteforvaltningslovens § 11."}
-   ]
-  },
-  {
-   "from": "naevn-konkurrenceankenaevnet",
-   "type": "klageinstans",
-   "to": "raad-konkurrenceraadet",
-   "beskrivelse": "Konkurrenceankenævnet behandler klager over Konkurrencerådets afgørelser i det omfang, konkurrenceloven fastsætter det (BEK nr. 496 af 2021 § 1, stk. 1). Konkurrencelovens § 15, stk. 3, siger kun, at rådet træffer afgørelser i sager af principiel eller særlig stor betydning, og angiver ikke selv ruten. Lagt ind som sandsynlig 2026-11-23 efter dommernes gennemsyn i JGA-143.",
-   "belaeg": [
-    {"url": "https://www.retsinformation.dk/eli/lta/2021/496", "citat": "Konkurrenceankenævnet behandler klager over afgørelser, der er truffet af Konkurrencerådet og Konkurrence- og Forbrugerstyrelsen, i det omfang det er fastsat i konkurrenceloven."}
    ]
   },
   {

@@ -211,7 +211,7 @@ Dokumenter uden for Lovtidende A, direkte fra Retsinformations søgeeksport (kun
 
 ## Tekst
 
-Retsinformations XML er hentet for et udsnit af kataloget med `pipeline/corpus/tekst.py`: de dokumenter, registry'ets noder peger på, og gældende dokumenter i de otte domæner. `tekst.jsonl` har én linje pr. hentet dokument med stien til XML-filen (`intermediate/corpus/xml/`), hentedato, omfang, præambel, fodnoter, underskriftssted og de EU-retsakter, Retsinformation fører på dokumentet. For en del ældre dokumenter har XML-filen kun metadata og ingen tekst (`n_tegn` er 0). Alle andre dokumenter har kun metadata.
+Retsinformations XML er hentet for et udsnit af kataloget med `pipeline/corpus/tekst.py`: de dokumenter, registry'ets noder peger på, gældende dokumenter i de otte domæner og, fra 2026-11-21, afløserkandidaternes lovtekster (de hovedlove, der kan have afløst en historisk lov), de fleste ophævede. `tekst.jsonl` har én linje pr. hentet dokument med stien til XML-filen (`intermediate/corpus/xml/`), hentedato, omfang, præambel, fodnoter, underskriftssted og de EU-retsakter, Retsinformation fører på dokumentet. For en del ældre dokumenter har XML-filen kun metadata og ingen tekst (`n_tegn` er 0). Alle andre dokumenter har kun metadata. 101 af de 1113 klageinstans- og tilsynskanter fra dokumentets egne bestemmelser (metode `bestemmelse`) står på dokumenter, der ikke er gældende: de gengiver loven, som den var.
 
 | Samling | XML hentet | heraf med tekst | heraf gældende med tekst | Tegn (mio.) | med præambel | med EU-retsakt |
 |---|---:|---:|---:|---:|---:|---:|
