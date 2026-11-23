@@ -1,0 +1,46 @@
+{
+  "omraade": "jga143",
+  "noder": [],
+  "kanter": [
+    {
+      "from": "lov-produktloven",
+      "type": "hjemmel_for",
+      "to": "bek-trykbaerende-udstyr",
+      "beskrivelse": "Bekendtgørelsens indledning er ved BEK nr. 493 af 28/05/2026 affattet, så den citerer § 8, § 26, stk. 2, § 31, stk. 1 og 2, og § 37, stk. 3, i lov om produkter og markedsovervågning (LBK nr. 22 af 08/01/2026). Den oprindelige hjemmel, lov nr. 155 af 20. februar 2013 om indretning m.v. af visse produkter, er ophævet ved produktlovens § 40, og § 41 holder regler fastsat efter den i kraft, indtil de ophæves eller erstattes af regler efter produktloven.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/493",
+          "citat": "I bekendtgørelse nr. 190 af 19. februar 2015 om indretning m.v. af trykbærende udstyr, som ændret ved bekendtgørelse nr. 480 af 25. maj 2016, foretages følgende ændringer"
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/493",
+          "citat": "Indledningen affattes således: I medfør af § 8, § 26, stk. 2, § 31, stk. 1 og 2, og § 37, stk. 3, i lov om produkter og markedsovervågning, jf. lovbekendtgørelse nr. 22 af 8. januar 2026, fastsættes efter bemyndigelse"
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/22",
+          "citat": "Lov nr. 155 af 20. februar 2013 om indretning m.v. af visse produkter ophæves."
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/22",
+          "citat": "og lov nr. 155 af 20. februar 2013 om indretning m.v. af visse produkter forbliver i kraft, indtil de ophæves eller erstattes af regler fastsat i medfør af denne lov."
+        }
+      ]
+    },
+    {
+      "from": "naevn-miljoe-og-foedevareklagenaevnet",
+      "type": "klageinstans",
+      "to": "sty-naturstyrelsen",
+      "beskrivelse": "Naturstyrelsens afgørelser efter henlæggelsesbekendtgørelsens §§ 12-18 kan påklages til Miljø- og Fødevareklagenævnet i det omfang, det fremgår af loven (BEK nr. 269 af 06/03/2020 § 28), og afgørelser efter klitfredningsbekendtgørelsens §§ 3 og 4 til Natur- og Miljøklagenævnet, som Miljø- og Fødevareklagenævnet har overtaget (BEK nr. 1061 af 21/08/2018 § 5). Ruten gælder kun de afgørelser, loven giver klageadgang for; mange af Naturstyrelsens afgørelser efter vildtreservat- og færdselsbekendtgørelser kan ikke påklages.",
+      "belaeg": [
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2020/269",
+          "citat": "Afgørelser truffet af Naturstyrelsen efter bekendtgørelsens §§ 12-18 kan ikke påklages til ministeren. Afgørelserne kan påklages til Miljø- og Fødevareklagenævnet eller en taksationskommission i det omfang, det fremgår af loven."
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2018/1061",
+          "citat": "Afgørelser truffet af Naturstyrelsen efter §§ 3 og 4, kan påklages til Natur- og Miljøklagenævnet efter reglerne i naturbeskyttelseslovens kapitel 12."
+        }
+      ]
+    }
+  ]
+}

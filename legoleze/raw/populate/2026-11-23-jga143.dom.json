@@ -1,0 +1,12 @@
+[
+ {
+  "hvor": "kant lov-produktloven|hjemmel_for|bek-trykbaerende-udstyr",
+  "dom": "baerer",
+  "grund": "Implementørens egen vurdering (ingen uafhængig kontrollant i denne kørsel; dommerne læser $TMPDIR/jga143/review.json). BEK 493/2026 § 1 ændrer BEK 190/2015 og affatter dens indledning, så den citerer produktloven (LBK 22/2026) som hjemmel. Produktlovens § 40 ophæver lov 155/2013, som den oprindelige indledning citerede, og § 41 holder reglerne efter den i kraft. Kanten bærer også uden Retsinformations relation."
+ },
+ {
+  "hvor": "kant naevn-miljoe-og-foedevareklagenaevnet|klageinstans|sty-naturstyrelsen",
+  "dom": "delvist",
+  "grund": "Implementørens egen vurdering (ingen uafhængig kontrollant i denne kørsel). To forskrifter angiver selv ruten fra Naturstyrelsen, men BEK 269/2020 § 28 kun 'i det omfang, det fremgår af loven', og BEK 1061/2018 § 5 nævner Natur- og Miljøklagenævnet, som Miljø- og Fødevareklagenævnet har overtaget (registry'ets tidligere navn, ikke citeret her). Mange af Naturstyrelsens afgørelser kan ikke påklages (vildtreservat- og færdselsbekendtgørelserne). Derfor sandsynlig, som for Miljø- og Fødevareklagenævnet over miljøministeren i 2026-11-21-klagepar."
+ }
+]

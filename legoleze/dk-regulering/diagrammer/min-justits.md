@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 101 · kanter: 156
+Noder: 101 · kanter: 157
 
 ```mermaid
 flowchart LR
@@ -267,6 +267,7 @@ flowchart LR
     lov_retsplejeloven -->|hjemmel_for| bek_advokatnaevnets_virksomhed
     min_justits -.->|ressortansvar| tilsyn_bevismiddeltilsynet
     lov_retsplejeloven -->|hjemmel_for| tilsyn_bevismiddeltilsynet
+    min_justits -.->|klageinstans| sty_rigsadvokaten
     bek_energimaerkning -->|implementerer_EU| eu_dir_2010_31
     bek_risiko -->|implementerer_EU| eu_dir_2012_18
     bek_energimaerkning -->|implementerer_EU| eu_dir_2005_36

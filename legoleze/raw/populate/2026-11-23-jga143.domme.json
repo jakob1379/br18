@@ -1,0 +1,272 @@
+[
+ {
+  "id": "jga143-2-produktloven-trykbaerende",
+  "dommere": [
+   {
+    "dom": "partly",
+    "grund": "BEK 493 § 1 nr. 2 states the new basis in the Product Act, but only one source states that relation; the BEK 190 preamble gives the old Act 155 basis and LBK 22 §§ 40-41 cover repeal and transition without naming BEK 190, so 'verificeret' is too high and 'sandsynlig' fits."
+   },
+   {
+    "dom": "partly",
+    "grund": "Only BEK 493 (§ 1 nr. 2, rewritten preamble of BEK 190 citing the Product Act) states the relation; the BEK 493 intro is the same act, and LBK 22 § 40/§ 41 concern Act 155 and its regulations, not BEK 190's basis. One act supports sandsynlig, not verificeret."
+   }
+  ],
+  "gennemsyn": {
+   "enighed": "uenig",
+   "udfald": "beholdt verificeret",
+   "grund": "For hjemmel_for er bekendtgørelsens egen indledning kilden (populate.ajour opgraderer på præamblen alene). BEK nr. 493 af 2026 § 1, nr. 2, affatter BEK nr. 190 af 2015s indledning, så den citerer produktloven; citatet er kontrolleret af apply. Dommerne brugte klagevejenes krav om én kilde mere; for en hjemmel er der kun én indledning."
+  }
+ },
+ {
+  "id": "jga143-3-mfkn-udbetaling-danmark",
+  "dommere": [
+   {
+    "dom": "supported",
+    "grund": "LBK 34/2017 § 19 stk. 3 states that UD decisions under § 18 stk. 2 go to MFKN, which is one source and fits 'sandsynlig'; UD § 4 a names MFKN only in passing in a list. The stated route covers only § 18 stk. 2 decisions, which the edge should carry as scope."
+   },
+   {
+    "dom": "supported",
+    "grund": "LBK 34 § 19 stk. 3 states the UD-to-MFKN route (for § 18 stk. 2 decisions only); UD Act § 4 a names MFKN only in a passing clause about oral communication, so one source at sandsynlig is the correct level."
+   }
+  ],
+  "gennemsyn": {
+   "enighed": "enig",
+   "udfald": "sandsynlig, uændret",
+   "grund": "Begge dommere: baerer. Beskrivelsen har allerede afgrænsningen til § 18, stk. 2."
+  }
+ },
+ {
+  "id": "jga143-3-patientklager-udbetaling-danmark",
+  "dommere": [
+   {
+    "dom": "supported",
+    "grund": "Health Complaints Act § 5 a states that UD decisions can be appealed to Styrelsen for Patientklager, one source that fits 'sandsynlig'; the health-card order § 12 names the agency without naming UD, and UD § 4 a is a passing mention. The quote is cut off mid-sentence, so the scope condition is unseen."
+   },
+   {
+    "dom": "supported",
+    "grund": "Health Complaints Act § 5 a states that UD decisions can be complained to Styrelsen for Patientklager; UD Act § 4 a is a passing mention and the health-card order § 12 does not name UD, so one source at sandsynlig is right."
+   }
+  ],
+  "gennemsyn": {
+   "enighed": "enig",
+   "udfald": "sandsynlig, uændret",
+   "grund": "Begge dommere: baerer. Beskrivelsen nævner afgørelsestyperne (sundhedskort, sikringsgruppe, begravelseshjælp)."
+  }
+ },
+ {
+  "id": "jga143-4-p13-miljoestyrelsen-danak",
+  "dommere": [
+   {
+    "dom": "not-supported",
+    "grund": "GLP chemicals § 15 stk. 4 literally states that DANAK decisions can be appealed to Miljøstyrelsen, which is one source and enough for 'sandsynlig'. The food GLP order covers a different regime, so its MFKN route does not 'instead' remove the chemicals route, and LBK kemikalier § 45 only enables appeal rules."
+   },
+   {
+    "dom": "not-supported",
+    "grund": "GLP chemicals § 15 stk. 4 states that DANAK lab-inspection decisions go to Miljøstyrelsen; one source is enough for sandsynlig, and the food GLP route to MFKN covers a different regime, so 'only one act' does not justify withholding the edge."
+   }
+  ],
+  "gennemsyn": {
+   "enighed": "enig",
+   "udfald": "lagt ind, sandsynlig",
+   "grund": "BEK nr. 1389 af 2015 § 15, stk. 4, og § 22, stk. 4 (raw/populate/2026-11-23-jga143-klagepar.*)."
+  }
+ },
+ {
+  "id": "jga143-4-p14-forbrugerklagenaevnet-kfst",
+  "dommere": [
+   {
+    "dom": "not-supported",
+    "grund": "Consumer Complaints Act § 43 stk. 2 literally states that KFST decisions can be brought to the Forbrugerklagenævnets formand, which is one source and enough for 'sandsynlig'. BEK 65 § 3 concerns mediation by Nævnenes Hus, a different function, so it does not remove the complaint route."
+   },
+   {
+    "dom": "not-supported",
+    "grund": "Forbrugerklageloven § 43 stk. 2 states that KFST decisions go to the FKN chairman, which is one source and enough for sandsynlig; BEK 65/2019 § 3 concerns mediation, not the complaint route, so it does not defeat the edge."
+   }
+  ],
+  "gennemsyn": {
+   "enighed": "enig",
+   "udfald": "lagt ind, sandsynlig",
+   "grund": "Forbrugerklageloven § 43, stk. 2; om styrelsen stadig træffer afgørelserne efter at mediationen er flyttet til Nævnenes Hus, er ikke fundet og står i beskrivelsen."
+  }
+ },
+ {
+  "id": "jga143-4-p20-mfkn-naturstyrelsen",
+  "dommere": [
+   {
+    "dom": "partly",
+    "grund": "BEK 269 § 28 literally states the NST route to MFKN with the 'i det omfang' limit, so 'sandsynlig' is right. The second quote names Natur- og Miljøklagenævnet, not MFKN, and nothing in the quotes makes it MFKN's predecessor, so 'two orders that state the route' overstates the basis."
+   },
+   {
+    "dom": "supported",
+    "grund": "BEK 269 § 28 literally states NST decisions can go to MFKN 'i det omfang det fremgår af loven', which matches sandsynlig; BEK 1061 § 5 names Natur- og Miljøklagenævnet, and the predecessor link to MFKN is not in the quotes, so the 'two orders' wording overstates the second source."
+   }
+  ],
+  "gennemsyn": {
+   "enighed": "enig",
+   "udfald": "sandsynlig, beskrivelsen rettet",
+   "grund": "Beskrivelsen siger nu, at kun BEK nr. 269 af 2020 nævner Miljø- og Fødevareklagenævnet, og at BEK nr. 1061 af 2018 nævner det tidligere navn."
+  }
+ },
+ {
+  "id": "jga143-4-p22-landsskatteretten-skattestyrelsen",
+  "dommere": [
+   {
+    "dom": "not-supported",
+    "grund": "BEK 1660/2020 § 26 stk. 2 literally states the Skattestyrelsen-to-Landsskatteretten route, which is one source and enough for 'sandsynlig'. Removing the edge because only one order states it does not follow under the file's own rule."
+   },
+   {
+    "dom": "not-supported",
+    "grund": "BEK 1660/2020 § 26 stk. 2 states that Skattestyrelsen decisions go to Landsskatteretten; one source suffices for sandsynlig, so withholding the edge on 'only one order' does not follow."
+   }
+  ],
+  "gennemsyn": {
+   "enighed": "enig",
+   "udfald": "lagt ind, sandsynlig",
+   "grund": "BEK nr. 1660 af 2020 § 26, stk. 2."
+  }
+ },
+ {
+  "id": "jga143-4-p25-konkurrenceankenaevnet-konkurrenceraadet",
+  "dommere": [
+   {
+    "dom": "not-supported",
+    "grund": "BEK 496 § 1 stk. 1 literally states that Konkurrenceankenævnet handles complaints about Konkurrencerådet decisions, which is one source and enough for 'sandsynlig'. Competition Act § 15 stk. 3 is not a complaint provision, and it names the council as decider, so the claim's description of it is wrong."
+   },
+   {
+    "dom": "not-supported",
+    "grund": "BEK 496/2021 § 1 stk. 1 states that Konkurrenceankenævnet hears complaints about Konkurrencerådet decisions; that is one source, enough for sandsynlig. Competition Act § 15 stk. 3 only says the Council decides principled cases and does not reject the route."
+   }
+  ],
+  "gennemsyn": {
+   "enighed": "enig",
+   "udfald": "lagt ind, sandsynlig",
+   "grund": "BEK nr. 496 af 2021 § 1, stk. 1."
+  }
+ },
+ {
+  "id": "jga143-4-p27-teleklagenaevnet-klimadatastyrelsen",
+  "dommere": [
+   {
+    "dom": "partly",
+    "grund": "Radio Equipment Act § 45 stk. 1 literally states the route for Styrelsen for Dataforsyning og Infrastruktur, not Klimadatastyrelsen. The no-edge conclusion depends on an unquoted rename; if the successor link holds, one source gives 'sandsynlig', not no edge."
+   },
+   {
+    "dom": "supported",
+    "grund": "LBK 958/2022 § 45 stk. 1 states the route only for Styrelsen for Dataforsyning og Infrastruktur; the quotes never name Klimadatastyrelsen, so the claim that no edge is added rests on an unverified succession that the quotes do not state."
+   }
+  ],
+  "gennemsyn": {
+   "enighed": "enig",
+   "udfald": "åben",
+   "grund": "Styrelsen for Dataforsyning og Infrastruktur er tidligere navn for Klimadatastyrelsen i registryet, men Retsinformation fører LBK nr. 958 af 2022 under digitaliseringsområdet, så hvilken styrelse der træffer afgørelserne i dag, er ikke fundet. Dommerens betingelse (at efterfølgeren holder) er ikke opfyldt."
+  }
+ },
+ {
+  "id": "jga143-4-p28-energiklagenaevnet-erhvervsministeriet",
+  "dommere": [
+   {
+    "dom": "partly",
+    "grund": "CO2 Quota Act § 24 stk. 1 literally names erhvervsministeren as a deciding body for Energiklagenævnet complaints, which is one source and enough for 'sandsynlig'. BEK 1525 § 3 excludes only Erhvervsstyrelsen decisions from ministerial appeal, and its title says 'visse beføjelser' (certain powers), so the claim that all the minister's powers are delegated is not shown."
+   },
+   {
+    "dom": "not-supported",
+    "grund": "CO2 Quota Act § 24 stk. 1 states that Energiklagenævnet hears complaints about decisions of erhvervsministeren, so one source is enough for sandsynlig; BEK 1525 § 3 only excludes Erhvervsstyrelsen decisions, not the minister's own decisions."
+   }
+  ],
+  "gennemsyn": {
+   "enighed": "uenig",
+   "udfald": "åben",
+   "grund": "BEK nr. 1525 af 2025 § 1, stk. 1: \"Beføjelser, som efter lov om CO2-kvoter er tillagt erhvervsministeren, udøves af Erhvervsstyrelsen, jf. dog stk. 2\"; stk. 2 forbeholder kun delegationshjemlen. Alle afgørelser træffes altså af styrelsen, og registryet har Energiklagenævnet over Erhvervsstyrelsen. Dommerne så kun § 3 og titlen."
+  }
+ },
+ {
+  "id": "jga143-4-p33-mfkn-kulturministeriet",
+  "dommere": [
+   {
+    "dom": "not-supported",
+    "grund": "Museum Act § 29 t stk. 2 literally states the route from the minister's decisions under §§ 29 h(2) and 29 q(2) to MFKN, which is one source and enough for 'sandsynlig'. BEK 876/2026 § 5 covers agency decisions going to the minister, a different relation that does not remove the minister's route."
+   },
+   {
+    "dom": "not-supported",
+    "grund": "Museum Act § 29 t stk. 2 states that the culture minister's decisions under § 29 h/§ 29 q go to MFKN, so one source suffices for sandsynlig; BEK 876 § 5 concerns Slots- og Kulturstyrelsen decisions to the minister and does not show that the § 29 h/q powers were moved to the agency."
+   }
+  ],
+  "gennemsyn": {
+   "enighed": "enig",
+   "udfald": "lagt ind, sandsynlig",
+   "grund": "Museumslovens § 29 t, stk. 2; BEK nr. 876 af 2026 § 1 henlægger kapitel 6, 6 a, 7 a, 9, 11 og 12, ikke kapitel 8 a, så ministeren træffer afgørelserne."
+  }
+ },
+ {
+  "id": "jga143-4-p37-justitsministeriet-rigsadvokaten",
+  "dommere": [
+   {
+    "dom": "not-supported",
+    "grund": "Administration of Justice Act § 98 stk. 4 literally states that the Justice Minister hears complaints about rigsadvokaten decisions at first instance, which is one source and enough for 'sandsynlig'. Withholding the edge because no second act was found does not follow under the file's own rule."
+   },
+   {
+    "dom": "not-supported",
+    "grund": "RPL § 98 stk. 4 literally states that Justitsministeren hears complaints about rigsadvokaten decisions at first instance, which is one source enough for sandsynlig; 'no second act' is not a reason to withhold the edge."
+   }
+  ],
+  "gennemsyn": {
+   "enighed": "enig",
+   "udfald": "lagt ind, sandsynlig",
+   "grund": "Retsplejelovens § 98, stk. 4."
+  }
+ },
+ {
+  "id": "jga143-4-p42-teleklagenaevnet-digitaliseringsstyrelsen",
+  "dommere": [
+   {
+    "dom": "not-supported",
+    "grund": "Radio Frequencies Act § 47 stk. 1 literally states the route from Digitaliseringsstyrelsen decisions to Teleklagenævnet, which is one source and enough for 'sandsynlig'. The Telecommunications Act § 76 names Erhvervsstyrelsen, a different body, and the 2026 orders having no route does not remove the DigSt edge."
+   },
+   {
+    "dom": "not-supported",
+    "grund": "Radio Frequencies Act § 47 stk. 1 states that Digitaliseringsstyrelsen decisions go to Teleklagenævnet, one source enough for sandsynlig; the Telecom Act § 76 concerns Erhvervsstyrelsen, a different body, so it does not rebut the DIGST route."
+   }
+  ],
+  "gennemsyn": {
+   "enighed": "enig",
+   "udfald": "lagt ind, sandsynlig",
+   "grund": "Radiofrekvenslovens § 47, stk. 1."
+  }
+ },
+ {
+  "id": "jga143-4-p47-ankestyrelsen-socialfagligt-naevn",
+  "dommere": [
+   {
+    "dom": "not-supported",
+    "grund": "Social Services Act § 134 stk. 1 literally states that Det Socialfaglige Nævn decisions under § 131 b can be brought to Ankestyrelsen, which is one source and enough for 'sandsynlig'. The absence of a route in the nævn's rules and the use-of-force order is not a removal reason."
+   },
+   {
+    "dom": "not-supported",
+    "grund": "Social Services Act § 134 stk. 1 states that Det Socialfaglige Nævn decisions under § 131 b go to Ankestyrelsen, one source enough for sandsynlig; the absence of a route in the rules of procedure does not override it."
+   }
+  ],
+  "gennemsyn": {
+   "enighed": "enig",
+   "udfald": "lagt ind, sandsynlig",
+   "grund": "Servicelovens § 134, stk. 1."
+  }
+ },
+ {
+  "id": "jga143-4-p49-energiklagenaevnet-beskaeftigelsesministeriet",
+  "dommere": [
+   {
+    "dom": "not-supported",
+    "grund": "Offshore Safety Act §§ 66 a(4) and 67(1) both literally state that Energiklagenævnet hears complaints about the employment minister's decisions, but they come from one act, so they are not independent and give 'sandsynlig'. Absence of mention in the local orders is not a removal reason."
+   },
+   {
+    "dom": "not-supported",
+    "grund": "Offshore Safety Act § 67 stk. 1 and § 66 a stk. 4 both state that the employment minister's decisions go to Energiklagenævnet; these are two paragraphs of one act, so they are not independent, but they still meet the one-source bar for sandsynlig, so withholding the edge is not supported."
+   }
+  ],
+  "gennemsyn": {
+   "enighed": "uenig",
+   "udfald": "åben",
+   "grund": "BEK nr. 1354 af 2019 § 2, stk. 1: \"Hvor beskæftigelsesministeren i henhold til offshoresikkerhedsloven tillægges beføjelser, udøver Arbejdstilsynet disse beføjelser på ministerens vegne\"; kun gebyrregler og delegationshjemlen er undtaget. Afgørelserne træffes af Arbejdstilsynet, og registryet har Energiklagenævnet over Arbejdstilsynet på offshoreområdet. Dommerne så ikke § 2."
+  }
+ }
+]

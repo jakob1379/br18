@@ -1,0 +1,42 @@
+[
+ {
+  "hvor": "kant sty-miljoestyrelsen|klageinstans|fond-danak",
+  "dom": "delvist",
+  "grund": "To uafhængige dommere (2026-11-23, JGA-143): baerer-ikke for at lade ruten stå åben; én forskrift, der selv angiver ruten, er nok til sandsynlig. p13. BEK 1389/2015 § 15, stk. 4, og § 22, stk. 4, angiver ruten; GLP-bekendtgørelsen for fødevarer er en anden ordning og fjerner den ikke. Kun én retsakt angiver ruten, så højst sandsynlig."
+ },
+ {
+  "hvor": "kant naevn-forbrugerklagenaevnet|klageinstans|sty-konkurrence-og-forbrugerstyrelsen",
+  "dom": "delvist",
+  "grund": "To uafhængige dommere (2026-11-23, JGA-143): baerer-ikke for at lade ruten stå åben; én forskrift, der selv angiver ruten, er nok til sandsynlig. p14. Forbrugerklageloven § 43, stk. 2, angiver ruten; BEK 65/2019 § 3 handler om mediation, ikke om klageruten. Om styrelsen stadig træffer afgørelserne, er ikke fundet. Kun én retsakt angiver ruten, så højst sandsynlig."
+ },
+ {
+  "hvor": "kant naevn-landsskatteretten|klageinstans|sty-skattestyrelsen",
+  "dom": "delvist",
+  "grund": "To uafhængige dommere (2026-11-23, JGA-143): baerer-ikke for at lade ruten stå åben; én forskrift, der selv angiver ruten, er nok til sandsynlig. p22. BEK 1660/2020 § 26, stk. 2, angiver ruten. Kun én retsakt angiver ruten, så højst sandsynlig."
+ },
+ {
+  "hvor": "kant naevn-konkurrenceankenaevnet|klageinstans|raad-konkurrenceraadet",
+  "dom": "delvist",
+  "grund": "To uafhængige dommere (2026-11-23, JGA-143): baerer-ikke for at lade ruten stå åben; én forskrift, der selv angiver ruten, er nok til sandsynlig. p25. BEK 496/2021 § 1, stk. 1, angiver ruten; konkurrencelovens § 15, stk. 3, er ikke en klagebestemmelse. Kun én retsakt angiver ruten, så højst sandsynlig."
+ },
+ {
+  "hvor": "kant naevn-miljoe-og-foedevareklagenaevnet|klageinstans|min-kultur",
+  "dom": "delvist",
+  "grund": "To uafhængige dommere (2026-11-23, JGA-143): baerer-ikke for at lade ruten stå åben; én forskrift, der selv angiver ruten, er nok til sandsynlig. p33. Museumslovens § 29 t, stk. 2, angiver ruten; BEK 876/2026 § 1 henlægger ikke kapitel 8 a til styrelsen (gennemsyn). Kun én retsakt angiver ruten, så højst sandsynlig."
+ },
+ {
+  "hvor": "kant min-justits|klageinstans|sty-rigsadvokaten",
+  "dom": "delvist",
+  "grund": "To uafhængige dommere (2026-11-23, JGA-143): baerer-ikke for at lade ruten stå åben; én forskrift, der selv angiver ruten, er nok til sandsynlig. p37. Retsplejelovens § 98, stk. 4, angiver ruten. Kun én retsakt angiver ruten, så højst sandsynlig."
+ },
+ {
+  "hvor": "kant naevn-teleklagenaevnet|klageinstans|sty-digitaliseringsstyrelsen",
+  "dom": "delvist",
+  "grund": "To uafhængige dommere (2026-11-23, JGA-143): baerer-ikke for at lade ruten stå åben; én forskrift, der selv angiver ruten, er nok til sandsynlig. p42. Radiofrekvenslovens § 47, stk. 1, angiver ruten; telelovens § 76 handler om Erhvervsstyrelsen. Kun én retsakt angiver ruten, så højst sandsynlig."
+ },
+ {
+  "hvor": "kant sty-ankestyrelsen|klageinstans|naevn-socialfaglige-naevn-magtanvendelse",
+  "dom": "delvist",
+  "grund": "To uafhængige dommere (2026-11-23, JGA-143): baerer-ikke for at lade ruten stå åben; én forskrift, der selv angiver ruten, er nok til sandsynlig. p47. Servicelovens § 134, stk. 1, angiver ruten. Kun én retsakt angiver ruten, så højst sandsynlig."
+ }
+]

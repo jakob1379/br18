@@ -176,7 +176,7 @@ flowchart LR
     lov_sundhedsloven -->|hjemmel_for| naevn_abortankenaevnet
     naevn_abortankenaevnet -->|klageinstans| naevn_abortnaevnet
     min_sundhed_og_kirke -->|klageinstans| tilsyn_biskopperne
-    sty_styrelsen_for_patientklager -->|klageinstans| org_udbetaling_danmark
+    sty_styrelsen_for_patientklager -.->|klageinstans| org_udbetaling_danmark
 ```
 
 [← Overblik](oversigt.md)

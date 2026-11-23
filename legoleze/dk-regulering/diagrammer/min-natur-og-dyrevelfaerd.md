@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 69 · kanter: 124
+Noder: 69 · kanter: 125
 
 ```mermaid
 flowchart LR
@@ -204,6 +204,7 @@ flowchart LR
     lov_husdyrbrugloven -->|hjemmel_for| bek_miljoetilsyn
     lov_vandloebsloven -->|implementerer_EU| eu_dir_1992_43
     lov_vandloebsloven -->|implementerer_EU| eu_dir_2004_35
+    naevn_miljoe_og_foedevareklagenaevnet -.->|klageinstans| sty_naturstyrelsen
     bek_miljoetilsyn -.->|hjemmel_for| kilde_dma
     bek_miljoetilsyn -->|implementerer_EU| eu_dir_2010_75
     bek_miljoetilsyn -->|implementerer_EU| eu_dir_2003_4

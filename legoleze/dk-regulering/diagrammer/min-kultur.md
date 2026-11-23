@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 27 · kanter: 42
+Noder: 27 · kanter: 43
 
 ```mermaid
 flowchart LR
@@ -83,6 +83,7 @@ flowchart LR
     lov_dansk_sprognaevn -->|hjemmel_for| raad_dansk_sprognaevn
     lov_dansk_sprognaevn -->|hjemmel_for| bek_dansk_sprognaevns_virksomhed
     raad_dansk_sprognaevn -->|udsteder| kilde_retskrivningsordbogen
+    naevn_miljoe_og_foedevareklagenaevnet -.->|klageinstans| min_kultur
 ```
 
 [← Overblik](oversigt.md)

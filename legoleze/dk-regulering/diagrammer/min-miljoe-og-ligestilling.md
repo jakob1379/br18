@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 30 · kanter: 34
+Noder: 31 · kanter: 35
 
 ```mermaid
 flowchart LR
@@ -21,6 +21,7 @@ flowchart LR
     eu_dir_2018_2001["Europa-Parlamentets og Rådets direktiv (EU) 2018/2001 af 11. december 2018 om fremme af anvendelsen af energi fra vedvarende energikilder (omarbejdning) (RED II), som ændret ved direktiv (EU) 2023/2413"]:::eu
     eu_reg_2006_1907["Forordning (EF) nr. 1907/2006 (REACH)"]:::eu
     eu_dir_2012_18["Seveso III-direktivet (direktiv 2012/18/EU om kontrol med risikoen for større uheld med farlige stoffer)"]:::eu
+    fond_danak["DANAK (nationalt akkrediteringsorgan)"]:::instans
     kommune_alle["Kommunerne (98 kommunalbestyrelser)"]:::instans
     sty_kystdirektoratet["Kystdirektoratet"]:::instans
     sty_miljoestyrelsen["Miljøstyrelsen"]:::instans
@@ -72,6 +73,7 @@ flowchart LR
     sty_miljoestyrelsen -->|udsteder| vejl_mst_vejledninger
     sty_miljoestyrelsen -->|udsteder| vejl_naturbeskyttelse_vejledninger
     min_miljoe -->|klageinstans| sty_miljoestyrelsen
+    sty_miljoestyrelsen -.->|klageinstans| fond_danak
     bek_spildevand -->|hjemmel_for| plan_spildevandsplan
     bek_risiko -->|implementerer_EU| eu_dir_2012_18
     bek_spildevand -->|implementerer_EU| eu_dir_1991_271

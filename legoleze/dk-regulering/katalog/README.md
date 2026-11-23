@@ -2,22 +2,22 @@
 
 > Genereret af `scripts/build.py` fra `katalog/*.jsonl`. Redigér ikke i hånden.
 
-- Lovtidende A: **63473** dokumenter (gældende: 14078, historiske: 49395); tabellerne herunder gælder Lovtidende A, hvor andet ikke står
+- Lovtidende A: **63515** dokumenter (gældende: 14101, historiske: 49414); tabellerne herunder gælder Lovtidende A, hvor andet ikke står
 - Øvrige samlinger: **131080** dokumenter (cirkulærer, vejledninger, afgørelser m.m., se nederst)
-- Seneste udstedelsesdato i datasættet: 2026-11-11
-- Status høstet: 2026-11-12 – 2026-11-12
-- Kanter: 346404 · EU-retsakter refereret: 1933 · koblet til registry-noder: 413
+- Seneste udstedelsesdato i datasættet: 2026-11-20
+- Status høstet: 2026-11-12 – 2026-11-23
+- Kanter: 346691 · EU-retsakter refereret: 1943 · koblet til registry-noder: 413
 
 ## Dokumenttyper
 
 | Type | Gældende | Historisk |
 |------|---------:|----------:|
-| bekendtgørelse | 8102 | 26821 |
-| ændringsbekendtgørelse | 1880 | 9898 |
-| ændringslov | 1299 | 5505 |
-| lovbekendtgørelse | 703 | 4601 |
+| bekendtgørelse | 8117 | 26835 |
+| ændringsbekendtgørelse | 1888 | 9897 |
+| ændringslov | 1298 | 5508 |
+| lovbekendtgørelse | 703 | 4604 |
 | lov | 827 | 1618 |
-| ikrafttrædelsesbekendtgørelse | 577 | 660 |
+| ikrafttrædelsesbekendtgørelse | 578 | 660 |
 | ikrafttrædelsesanordning | 348 | 74 |
 | anordning | 138 | 178 |
 | bekendtgørelse-international | 149 | 12 |
@@ -29,18 +29,18 @@
 
 | Ministerium | Antal | heraf sandsynlig | heraf ukendt |
 |---|---:|---:|---:|
-| Erhvervsministeriet (`min-erhverv`) | 1713 | 1603 | 110 |
-| Skatte- og Vækstministeriet (`min-skat-og-vaekst`) | 1673 | 678 | 995 |
-| Justitsministeriet (`min-justits`) | 1470 | 1414 | 56 |
-| Ministeriet for Natur og Dyrevelfærd (`min-natur-og-dyrevelfaerd`) | 1179 | 1029 | 150 |
-| Beskæftigelses- og Ligestillingsministeriet (`min-beskaeftigelse-og-ligestilling`) | 1032 | 77 | 955 |
-| Sundheds- og Kirkeministeriet (`min-sundhed-og-kirke`) | 1010 | 946 | 64 |
+| Erhvervsministeriet (`min-erhverv`) | 1719 | 1603 | 116 |
+| Skatte- og Vækstministeriet (`min-skat-og-vaekst`) | 1678 | 678 | 1000 |
+| Justitsministeriet (`min-justits`) | 1473 | 1409 | 64 |
+| Ministeriet for Natur og Dyrevelfærd (`min-natur-og-dyrevelfaerd`) | 1181 | 1029 | 152 |
+| Beskæftigelses- og Ligestillingsministeriet (`min-beskaeftigelse-og-ligestilling`) | 1035 | 80 | 955 |
+| Sundheds- og Kirkeministeriet (`min-sundhed-og-kirke`) | 1011 | 943 | 68 |
 | By-, Land- og Transportministeriet (`min-by-land-og-transport`) | 844 | 468 | 376 |
-| Klima-, Energi- og Forsyningsministeriet (`min-klima-energi-og-forsyning`) | 620 | 569 | 51 |
+| Klima-, Energi- og Forsyningsministeriet (`min-klima-energi-og-forsyning`) | 623 | 569 | 54 |
 | Forsknings-, Uddannelses- og Digitaliseringsministeriet (`min-forskning-uddannelse-og-digitalisering`) | 547 | 39 | 508 |
-| Undervisningsministeriet (`min-undervisning`) | 523 | 483 | 40 |
-| Miljøministeriet (`min-miljoe`) | 482 | 422 | 60 |
-| Kulturministeriet (`min-kultur`) | 450 | 443 | 7 |
+| Undervisningsministeriet (`min-undervisning`) | 522 | 481 | 41 |
+| Miljøministeriet (`min-miljoe`) | 483 | 422 | 61 |
+| Kulturministeriet (`min-kultur`) | 450 | 442 | 8 |
 | Socialministeriet (`min-social`) | 395 | 362 | 33 |
 | Udlændinge- og Integrationsministeriet (`min-udlaendinge-og-integration`) | 369 | 346 | 23 |
 | Udenrigsministeriet (`min-udenrigs`) | 368 | 366 | 2 |
@@ -58,17 +58,17 @@
 
 | Retsområde | Antal |
 |---|---:|
-| skat | 905 |
-| erhvervsret | 901 |
-| sundhed | 852 |
-| landbrug-dyr | 816 |
+| skat | 910 |
+| erhvervsret | 904 |
+| sundhed | 855 |
+| landbrug-dyr | 821 |
 | transport | 741 |
 | finansiel | 701 |
-| strafferet-politi | 636 |
-| undervisning | 556 |
+| strafferet-politi | 634 |
+| undervisning | 555 |
 | arbejdsmarked | 523 |
 | soefart | 492 |
-| energi-forsyning | 488 |
+| energi-forsyning | 490 |
 | kultur-medier | 462 |
 | international | 446 |
 | social | 402 |
@@ -76,14 +76,14 @@
 | retspleje | 382 |
 | udlaendinge | 372 |
 | forskning-videregaaende | 338 |
-| arbejdsmiljoe | 307 |
-| miljoe | 298 |
+| arbejdsmiljoe | 306 |
+| miljoe | 299 |
 | statsret | 293 |
 | andet | 263 |
 | kommuner | 238 |
-| familie-person | 213 |
-| fiskeri | 212 |
-| bolig | 187 |
+| familie-person | 214 |
+| fiskeri | 213 |
+| bolig | 188 |
 | forbruger-konkurrence | 183 |
 | digitalisering-tele | 172 |
 | kirke | 171 |
@@ -100,7 +100,7 @@
 | persondata | 52 |
 | klima | 44 |
 | boern-dagtilbud | 25 |
-| ikke klassificeret | 3 |
+| ikke klassificeret | 8 |
 
 ## Udstedende ministerium (historisk navn, alle dokumenter, top 40)
 
@@ -108,18 +108,18 @@
 |---|---:|
 | ukendt | 17187 |
 | Beskæftigelsesministeriet | 3868 |
-| Justitsministeriet | 3248 |
+| Justitsministeriet | 3253 |
 | Fødevareministeriet / Ministeriet for Fødevarer, Landbrug og Fiskeri | 3146 |
-| Undervisningsministeriet | 3036 |
+| Undervisningsministeriet | 3037 |
 | Skatteministeriet | 2652 |
-| Erhvervsministeriet | 2482 |
+| Erhvervsministeriet | 2483 |
 | Økonomi- og Erhvervsministeriet | 2202 |
 | Miljøministeriet | 2198 |
 | Indenrigs- og Sundhedsministeriet | 2082 |
 | Miljø- og Fødevareministeriet | 1796 |
 | Ministeriet for Fødevarer, Landbrug og Fiskeri | 1473 |
 | Børne- og Undervisningsministeriet | 1313 |
-| Kulturministeriet | 1186 |
+| Kulturministeriet | 1187 |
 | Transportministeriet | 1121 |
 | Erhvervs- og Vækstministeriet | 1068 |
 | Klima-, Energi- og Forsyningsministeriet | 777 |
@@ -151,15 +151,15 @@
 
 | Kanttype | verificeret | sandsynlig | ukendt |
 |---|---:|---:|---:|
-| henviser_til | 101597 | 92122 | 0 |
-| hjemmel_for | 88635 | 0 | 0 |
-| implementerer_EU | 0 | 1292 | 1164 |
-| klageinstans | 0 | 483 | 0 |
-| ressortansvar | 19582 | 10468 | 247 |
-| tilsyn | 0 | 512 | 0 |
+| henviser_til | 101611 | 92122 | 0 |
+| hjemmel_for | 88680 | 0 | 0 |
+| implementerer_EU | 0 | 1402 | 1141 |
+| klageinstans | 0 | 542 | 0 |
+| ressortansvar | 19613 | 10460 | 247 |
+| tilsyn | 0 | 571 | 0 |
 | udsteder | 29640 | 662 | 0 |
 
-Klageinstans- og tilsynskanter fra dokumentets egne bestemmelser, hvor dokumentet siden er ændret (`senere_aendret_ved`): 340 af 995.
+Klageinstans- og tilsynskanter fra dokumentets egne bestemmelser, hvor dokumentet siden er ændret (`senere_aendret_ved`): 448 af 1113.
 
 ## Øvrige samlinger
 
@@ -215,7 +215,7 @@ Retsinformations XML er hentet for et udsnit af kataloget med `pipeline/corpus/t
 
 | Samling | XML hentet | heraf med tekst | heraf gældende med tekst | Tegn (mio.) | med præambel | med EU-retsakt |
 |---|---:|---:|---:|---:|---:|---:|
-| Lovtidende A | 2329 | 1922 | 1916 | 95.3 | 1434 | 605 |
+| Lovtidende A | 2934 | 2047 | 1957 | 103.0 | 1434 | 668 |
 | Ministerialtidende | 120 | 16 | 16 | 0.7 | 2 | 0 |
 | Retsinformation (administrative forskrifter og afgørelser) | 1205 | 734 | 734 | 24.8 | 5 | 14 |
 | Folketingets Ombudsmand | 19 | 19 | 19 | 0.9 | 0 | 0 |
@@ -229,10 +229,10 @@ Retsinformations XML er hentet for et udsnit af kataloget med `pipeline/corpus/t
 | `eu-reg-2004-853` | 32004R0853 | 183 | 20 | 0 |  |
 | `eu-reg-2016-429` | 32016R0429 | 160 | 37 | 0 |  |
 | `eu-reg-2013-575` | 32013R0575 | 159 | 70 | 0 |  |
-| `eu-dir-1992-43` | 31992L0043 | 151 | 44 | 106 | ja |
+| `eu-dir-1992-43` | 31992L0043 | 151 | 44 | 108 | ja |
 | `eu-reg-2014-651` | 32014R0651 | 151 | 68 | 0 |  |
 | `eu-reg-2009-987` | 32009R0987 | 140 | 23 | 0 |  |
-| `eu-dir-2005-36` | 32005L0036 | 127 | 48 | 64 | ja |
+| `eu-dir-2005-36` | 32005L0036 | 127 | 48 | 66 | ja |
 | `eu-reg-2002-178` | 32002R0178 | 108 | 19 | 0 |  |
 | `eu-dir-2009-138` | 32009L0138 | 106 | 31 | 18 |  |
 | `eu-reg-2009-1069` | 32009R1069 | 104 | 30 | 0 |  |
@@ -243,9 +243,9 @@ Retsinformations XML er hentet for et udsnit af kataloget med `pipeline/corpus/t
 | `eu-reg-2013-1308` | 32013R1308 | 94 | 28 | 0 |  |
 | `eu-reg-1994-2100` | 31994R2100 | 92 | 6 | 0 |  |
 | `eu-dir-1979-117` | 31979L0117 | 92 | 13 | 5 |  |
-| `eu-dir-2009-65` | 32009L0065 | 91 | 19 | 46 |  |
-| `eu-dir-2003-87` | 32003L0087 | 89 | 13 | 22 | ja |
-| `eu-dir-2004-39` | 32004L0039 | 88 | 13 | 43 |  |
+| `eu-dir-2009-65` | 32009L0065 | 91 | 19 | 45 |  |
+| `eu-dir-2003-87` | 32003L0087 | 89 | 13 | 21 | ja |
+| `eu-dir-2004-39` | 32004L0039 | 88 | 13 | 42 |  |
 | `eu-reg-2014-808` | 32014R0808 | 88 | 29 | 0 |  |
 | `eu-dir-2013-36` | 32013L0036 | 87 | 30 | 32 |  |
 | `eu-reg-2013-1307` | 32013R1307 | 85 | 20 | 0 |  |

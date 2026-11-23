@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 17 · kanter: 19
+Noder: 17 · kanter: 20
 
 ```mermaid
 flowchart LR
@@ -50,6 +50,7 @@ flowchart LR
     lov_mitid -->|hjemmel_for| sty_digitaliseringsstyrelsen
     lov_digital_post -->|hjemmel_for| sty_digitaliseringsstyrelsen
     sty_digitaliseringsstyrelsen -->|tilsyn| org_teleudbydere
+    naevn_teleklagenaevnet -.->|klageinstans| sty_digitaliseringsstyrelsen
 ```
 
 [← Overblik](oversigt.md)

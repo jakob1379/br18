@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 92 · kanter: 125
+Noder: 92 · kanter: 126
 
 ```mermaid
 flowchart LR
@@ -214,6 +214,7 @@ flowchart LR
     lov_foraeldreansvarsloven -->|hjemmel_for| bek_adoption
     sty_social_og_boligstyrelsen -->|udsteder| bek_byggesagsgebyr
     sty_ankestyrelsen -->|klageinstans| sty_familieretshuset
+    sty_ankestyrelsen -.->|klageinstans| naevn_socialfaglige_naevn_magtanvendelse
     bek_br18 -->|hjemmel_for| reg_byggesagsgebyr
     bek_byggevarer_cpr2011 -->|hjemmel_for| sty_erhvervsstyrelsen
     bek_byggevarer_cpr2024 -.->|hjemmel_for| sty_erhvervsstyrelsen

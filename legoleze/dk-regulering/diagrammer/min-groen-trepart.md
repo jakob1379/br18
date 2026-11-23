@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 9 · kanter: 9
+Noder: 9 · kanter: 10
 
 ```mermaid
 flowchart LR
@@ -32,6 +32,7 @@ flowchart LR
     min_groen_trepart -.->|ressortansvar| sty_groen_arealomlaegning_og_vandmiljoe
     min_groen_trepart -->|ressortansvar| sty_naturstyrelsen
     sty_groen_arealomlaegning_og_vandmiljoe -.->|udsteder| plan_natura2000_planer
+    naevn_miljoe_og_foedevareklagenaevnet -.->|klageinstans| sty_naturstyrelsen
 ```
 
 [← Overblik](oversigt.md)

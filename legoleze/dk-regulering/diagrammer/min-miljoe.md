@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 109 · kanter: 225
+Noder: 110 · kanter: 226
 
 ```mermaid
 flowchart LR
@@ -36,6 +36,7 @@ flowchart LR
     eu_dir_2009_147["Fuglebeskyttelsesdirektivet – direktiv 2009/147/EF af 30. november 2009"]:::eu
     eu_dir_2007_60["Oversvømmelsesdirektivet – direktiv 2007/60/EF af 23. oktober 2007"]:::eu
     eu_dir_2012_18["Seveso III-direktivet (direktiv 2012/18/EU om kontrol med risikoen for større uheld med farlige stoffer)"]:::eu
+    fond_danak["DANAK (nationalt akkrediteringsorgan)"]:::instans
     org_danmarks_miljoeportal["Danmarks Miljøportal"]:::instans
     kommune_alle["Kommunerne (98 kommunalbestyrelser)"]:::instans
     sty_kystdirektoratet["Kystdirektoratet"]:::instans
@@ -342,6 +343,7 @@ flowchart LR
     lov_raastofloven -->|implementerer_EU| eu_dir_2004_35
     naevn_miljoe_og_foedevareklagenaevnet -.->|klageinstans| min_miljoe
     min_miljoe -->|klageinstans| sty_miljoestyrelsen
+    sty_miljoestyrelsen -.->|klageinstans| fond_danak
     bek_affald -.->|hjemmel_for| plan_affaldsplan
     bek_affaldsaktoer -->|hjemmel_for| reg_affaldsregulativer
     bek_affald -->|implementerer_EU| eu_dir_2008_98
