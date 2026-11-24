@@ -268,6 +268,10 @@ def validate_katalog(reg: dict, kat: dict) -> list[str]:
                 err(f"katalog-kant {label}: afgoerelse_af {a!r} findes ikke")
         if "senere_aendret_ved" in e and not (isinstance(e["senere_aendret_ved"], list) and e["senere_aendret_ved"] and all(isinstance(a, str) and a in docs for a in e["senere_aendret_ved"])):
             err(f"katalog-kant {label}: senere_aendret_ved skal være en ikke-tom liste af dokumenter i kataloget")
+        if "dokumentstatus" in e and e["dokumentstatus"] != "historisk":
+            err(f"katalog-kant {label}: dokumentstatus skal være 'historisk', fik {e['dokumentstatus']!r}")
+        elif ("dokumentstatus" in e) != (e.get("metode") == "bestemmelse" and ((docs.get(e.get("to")) or {}).get("status") or {}).get("vaerdi") != "gældende"):
+            err(f"katalog-kant {label}: dokumentstatus skal stå på netop de bestemmelse-kanter, hvis dokument ikke er gældende")
         if e.get("citeret_version") and e["citeret_version"] not in docs:
             err(f"katalog-kant {label}: citeret_version {e['citeret_version']!r} findes ikke")
     for t in kat["tekst"]:
@@ -349,15 +353,14 @@ def gen_katalog(reg: dict, kat: dict) -> str:
     lines += ["", f"### Dokumenttyper i de øvrige samlinger (top 30 af {len(typer)})", "", "| Type | Gældende | Historisk | Gældende koblet til lovgivning |", "|------|---------:|----------:|---------:|"]
     lines += [f"| {t} | {ag.get(t, 0)} | {ah.get(t, 0)} | {ak.get(t, 0)} |" for t in typer[:30]]
     med = {t["id"]: t for t in kat["tekst"]}
-    gaeldende = {d["id"] for d in kat["docs"] if d["status"]["vaerdi"] == "gældende"}
     lines += ["", "## Tekst", "",
               ("Retsinformations XML er hentet for et udsnit af kataloget med `pipeline/corpus/tekst.py`: de dokumenter, registry'ets noder peger på, gældende "
                "dokumenter i de otte domæner og, fra 2026-11-21, afløserkandidaternes lovtekster (de hovedlove, der kan have afløst en historisk lov), de fleste "
                "ophævede. `tekst.jsonl` har én linje pr. hentet dokument med stien til XML-filen (`intermediate/corpus/xml/`), hentedato, omfang, "
                "præambel, fodnoter, underskriftssted og de EU-retsakter, Retsinformation fører på dokumentet. For en del ældre dokumenter har XML-filen kun metadata og "
                "ingen tekst (`n_tegn` er 0). Alle andre dokumenter har kun metadata. "
-               f"{sum(e['to'] not in gaeldende for e in laest)} af de {len(laest)} klageinstans- og tilsynskanter fra dokumentets egne bestemmelser (metode `bestemmelse`) "
-               "står på dokumenter, der ikke er gældende: de gengiver loven, som den var."), "",
+               f"{sum('dokumentstatus' in e for e in laest)} af de {len(laest)} klageinstans- og tilsynskanter fra dokumentets egne bestemmelser (metode `bestemmelse`) "
+               "står på dokumenter, der ikke er gældende, og er mærket med dokumentets status (`dokumentstatus`): de gengiver loven, som den var."), "",
               "| Samling | XML hentet | heraf med tekst | heraf gældende med tekst | Tegn (mio.) | med præambel | med EU-retsakt |", "|---|---:|---:|---:|---:|---:|---:|"]
     for s, navn in {"lta": "Lovtidende A", **CAT_SAMLINGER}.items():
         ts = [(d, med[d["id"]]) for d in kat["docs"] if d["id"].startswith(s + "-") and d["id"] in med]
@@ -668,6 +671,12 @@ def selftest() -> None:
     for galt in ("lta-2018-734", [], ["lta-2099-1"], [["lta-2018-734"]]):
         fejl = validate_katalog(reg, kat(senere_aendret_ved=galt))
         assert len(fejl) == 1 and "senere_aendret_ved" in fejl[0], (galt, fejl)
+    hist = lambda **e: {**kat(metode="bestemmelse", **e), "docs": [{**doc("lta-2016-1178"), "status": {"vaerdi": "historisk", "sikkerhed": "sandsynlig"}}, doc("lta-2018-734")]}
+    assert validate_katalog(reg, hist(dokumentstatus="historisk")) == [] == validate_katalog(reg, kat(metode="bestemmelse"))
+    for galt in (hist(dokumentstatus="gældende"), hist(dokumentstatus="ophævet"), hist(dokumentstatus=["historisk"]), hist(dokumentstatus=None), hist(),
+                 kat(metode="bestemmelse", dokumentstatus="historisk"), kat(dokumentstatus="historisk")):
+        fejl = validate_katalog(reg, galt)
+        assert len(fejl) == 1 and "dokumentstatus" in fejl[0], (galt["edges"], fejl)
     af = {"vaerdi": "lta-2018-734", "ophaevelse": "Lov nr. 1178 af 25. september 2016 ophæves.", "paragraf": "§ 9", "paragraf_tekst": "§ 9. Lov nr. 1178 af 25. september 2016 ophæves.",
           "kilder": ["https://www.retsinformation.dk/eli/lta/2018/734/xml"], "sikkerhed": "verificeret", "metode": "ophaevelsesbestemmelse", "bevarer_regler": None}
     med = lambda **f: {**kat(), "docs": [{**doc("lta-2016-1178"), **f}, doc("lta-2018-734")]}
@@ -677,9 +686,10 @@ def selftest() -> None:
         assert len(fejl) == 1 and "afloeser" in fejl[0], (galt, fejl)
     assert len(validate_katalog(reg, med(afloeser_fra="lta-2099-1"))) == 1
     d2 = lambda i, s: {**doc(i), "status": {"vaerdi": s, "pr": "2026-11-23"}, "datoer": {"udstedt": "2016-09-25"}, "udstedt_af": {"vaerdi": "X"}}
-    laest = [{**kant, "metode": "bestemmelse"}, {**kant, "type": "tilsyn", "metode": "bestemmelse", "to": "lta-2018-734"}, kant]
+    laest = [{**kant, "metode": "bestemmelse", "dokumentstatus": "historisk"}, {**kant, "type": "tilsyn", "metode": "bestemmelse", "to": "lta-2018-734"},
+             {**kant, "type": "henviser_til", "metode": "bestemmelse"}, kant]
     tekst = gen_katalog({"nodes": [{"id": "naevn-x", "type": "nævn", "navn": "X"}]}, {**kat(), "docs": [d2("lta-2016-1178", "historisk"), d2("lta-2018-734", "gældende")], "edges": laest})
-    assert "afløserkandidaternes lovtekster" in tekst and "1 af de 2 klageinstans- og tilsynskanter fra dokumentets egne bestemmelser" in tekst
+    assert "afløserkandidaternes lovtekster" in tekst and "1 af de 3 klageinstans- og tilsynskanter fra dokumentets egne bestemmelser" in tekst and "(`dokumentstatus`)" in tekst
     print("selftest ok")
 
 

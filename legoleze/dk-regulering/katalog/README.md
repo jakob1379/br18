@@ -6,7 +6,7 @@
 - Øvrige samlinger: **131080** dokumenter (cirkulærer, vejledninger, afgørelser m.m., se nederst)
 - Seneste udstedelsesdato i datasættet: 2026-11-20
 - Status høstet: 2026-11-12 – 2026-11-23
-- Kanter: 346691 · EU-retsakter refereret: 1943 · koblet til registry-noder: 413
+- Kanter: 346773 · EU-retsakter refereret: 1944 · koblet til registry-noder: 413
 
 ## Dokumenttyper
 
@@ -151,15 +151,15 @@
 
 | Kanttype | verificeret | sandsynlig | ukendt |
 |---|---:|---:|---:|
-| henviser_til | 101611 | 92122 | 0 |
-| hjemmel_for | 88680 | 0 | 0 |
-| implementerer_EU | 0 | 1402 | 1141 |
+| henviser_til | 101677 | 92122 | 0 |
+| hjemmel_for | 88685 | 0 | 0 |
+| implementerer_EU | 0 | 1411 | 1141 |
 | klageinstans | 0 | 542 | 0 |
 | ressortansvar | 19613 | 10460 | 247 |
-| tilsyn | 0 | 571 | 0 |
+| tilsyn | 0 | 573 | 0 |
 | udsteder | 29640 | 662 | 0 |
 
-Klageinstans- og tilsynskanter fra dokumentets egne bestemmelser, hvor dokumentet siden er ændret (`senere_aendret_ved`): 448 af 1113.
+Klageinstans- og tilsynskanter fra dokumentets egne bestemmelser, hvor dokumentet siden er ændret (`senere_aendret_ved`): 448 af 1115.
 
 ## Øvrige samlinger
 
@@ -211,13 +211,13 @@ Dokumenter uden for Lovtidende A, direkte fra Retsinformations søgeeksport (kun
 
 ## Tekst
 
-Retsinformations XML er hentet for et udsnit af kataloget med `pipeline/corpus/tekst.py`: de dokumenter, registry'ets noder peger på, gældende dokumenter i de otte domæner og, fra 2026-11-21, afløserkandidaternes lovtekster (de hovedlove, der kan have afløst en historisk lov), de fleste ophævede. `tekst.jsonl` har én linje pr. hentet dokument med stien til XML-filen (`intermediate/corpus/xml/`), hentedato, omfang, præambel, fodnoter, underskriftssted og de EU-retsakter, Retsinformation fører på dokumentet. For en del ældre dokumenter har XML-filen kun metadata og ingen tekst (`n_tegn` er 0). Alle andre dokumenter har kun metadata. 101 af de 1113 klageinstans- og tilsynskanter fra dokumentets egne bestemmelser (metode `bestemmelse`) står på dokumenter, der ikke er gældende: de gengiver loven, som den var.
+Retsinformations XML er hentet for et udsnit af kataloget med `pipeline/corpus/tekst.py`: de dokumenter, registry'ets noder peger på, gældende dokumenter i de otte domæner og, fra 2026-11-21, afløserkandidaternes lovtekster (de hovedlove, der kan have afløst en historisk lov), de fleste ophævede. `tekst.jsonl` har én linje pr. hentet dokument med stien til XML-filen (`intermediate/corpus/xml/`), hentedato, omfang, præambel, fodnoter, underskriftssted og de EU-retsakter, Retsinformation fører på dokumentet. For en del ældre dokumenter har XML-filen kun metadata og ingen tekst (`n_tegn` er 0). Alle andre dokumenter har kun metadata. 101 af de 1115 klageinstans- og tilsynskanter fra dokumentets egne bestemmelser (metode `bestemmelse`) står på dokumenter, der ikke er gældende, og er mærket med dokumentets status (`dokumentstatus`): de gengiver loven, som den var.
 
 | Samling | XML hentet | heraf med tekst | heraf gældende med tekst | Tegn (mio.) | med præambel | med EU-retsakt |
 |---|---:|---:|---:|---:|---:|---:|
-| Lovtidende A | 2934 | 2047 | 1957 | 103.0 | 1434 | 668 |
+| Lovtidende A | 2945 | 2058 | 1968 | 103.9 | 1444 | 672 |
 | Ministerialtidende | 120 | 16 | 16 | 0.7 | 2 | 0 |
-| Retsinformation (administrative forskrifter og afgørelser) | 1205 | 734 | 734 | 24.8 | 5 | 14 |
+| Retsinformation (administrative forskrifter og afgørelser) | 1245 | 735 | 735 | 24.8 | 5 | 14 |
 | Folketingets Ombudsmand | 19 | 19 | 19 | 0.9 | 0 | 0 |
 | Folketingstidende (lovforslag, betænkninger, beslutningsforslag) | 198 | 176 | 176 | 42.8 | 0 | 0 |
 

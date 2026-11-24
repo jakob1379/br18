@@ -433,6 +433,16 @@ def udstederkant(d: dict, node: str, nuvaerende: bool) -> dict:
             "beskrivelse": "administrerende myndighed for afgørelsen eller udtalelsen ifølge Retsinformation" + ("" if nuvaerende else " (under et tidligere navn)")}
 
 
+def bestemmelseskant(d: dict, node: str, type_: str, x: dict, senere: list[str]) -> dict:
+    """Klageinstans- eller tilsynskanten fra node til dokumentet d, læst i dets egne bestemmelser (x: her er (bestemmelse, sætning)-parrene,
+    afgoerelse_af de myndigheder, hvis afgørelser klagen gælder; senere: senere_aendret). Er d ikke gældende efter katalogets status (pr. statusdatoen),
+    får kanten dokumentstatus med dokumentets status, så den kan frasorteres uden opslag i dokumentet."""
+    return {"from": node, "type": type_, "to": d["id"], "beskrivelse": x["her"][0][1][:400], "kilder": d["kilder"][:1], "sikkerhed": "sandsynlig",
+            "metode": BESTEMMELSE, "to_bestemmelse": list(dict.fromkeys(par for par, _ in x["her"])),
+            **({"afgoerelse_af": list(dict.fromkeys(x["afgoerelse_af"]))} if x["afgoerelse_af"] else {}), **({"senere_aendret_ved": senere} if senere else {}),
+            **({"dokumentstatus": d["status"]["vaerdi"]} if d["status"]["vaerdi"] != "gældende" else {})}
+
+
 def tidslinjer(statusser: tuple = ("ok",)) -> list[dict]:
     """Rækkerne i den hentede tidslinjefil med en af statusserne; tom, når filen ikke findes."""
     return [r for r in map(json.loads, TL.open(encoding="utf-8")) if r["status"] in statusser] if TL.exists() else []
@@ -864,14 +874,12 @@ def katalog() -> dict:
             for myndighed in tilsyn(saetning):
                 led[myndighed, "tilsyn"]["her"].append((par, saetning))
         senere = senere_aendret(ids[t["id"]]["datoer"].get("udstedt", ""), tidslinje_for.get(t["id"]), eks.get(t["id"], {}).get("SenereAendringer"), ids) if led else []
-        kanter += [{"from": node, "type": type_, "to": t["id"], "beskrivelse": x["her"][0][1][:400], "kilder": ids[t["id"]]["kilder"][:1], "sikkerhed": "sandsynlig",
-                    "metode": BESTEMMELSE, "to_bestemmelse": list(dict.fromkeys(par for par, _ in x["her"])),
-                    **({"afgoerelse_af": list(dict.fromkeys(x["afgoerelse_af"]))} if x["afgoerelse_af"] else {}), **({"senere_aendret_ved": senere} if senere else {})}
-                   for (node, type_), x in led.items() if (node, type_, t["id"]) not in findes]
+        kanter += [bestemmelseskant(ids[t["id"]], node, type_, x, senere) for (node, type_), x in led.items() if (node, type_, t["id"]) not in findes]
     stats["klageinstans fra dokumentets bestemmelser"] = sum(e.get("metode") == BESTEMMELSE and e["type"] == "klageinstans" for e in kanter)
     stats["heraf med afgørende myndighed"] = sum(e.get("metode") == BESTEMMELSE and "afgoerelse_af" in e for e in kanter)
     stats["tilsyn fra dokumentets bestemmelser"] = sum(e.get("metode") == BESTEMMELSE and e["type"] == "tilsyn" for e in kanter)
     stats["heraf klage og tilsyn fra en tekst, der siden er ændret"] = sum(e.get("metode") == BESTEMMELSE and "senere_aendret_ved" in e for e in kanter)
+    stats["heraf klage og tilsyn fra et dokument, der ikke er gældende"] = sum(e.get("metode") == BESTEMMELSE and "dokumentstatus" in e for e in kanter)
     stats["implementerer_EU fra fodnoter"] = sum(e.get("metode") == FODNOTE for e in kanter)
     stats["henviser_til fra hentet tekst"] = sum(e.get("metode") == XMLTEKST for e in kanter)
     euindeks(kanter, ids)
@@ -1162,6 +1170,13 @@ def selftest() -> None:
     assert [(k["from"], k["to"], k["sikkerhed"], k["beskrivelse"].endswith("Retsinformation")) for k in uk] == [("naevn-ae", "mt-2001-12", "verificeret", True),
                                                                                                                 ("naevn-ae", "mt-2001-12", "sandsynlig", False)]
     assert uk[1]["beskrivelse"] == uk[0]["beskrivelse"] + " (under et tidligere navn)" and uk[0]["kilder"] == [P.RI + "/eli/mt/2001/12"]
+    her = {"her": [("§ 5", "Afgørelser kan påklages til Æblenævnet."), ("§ 6", "Klage over Pærenævnet indgives til Æblenævnet."), ("§ 5", "x")], "afgoerelse_af": ["naevn-p", "naevn-p"]}
+    lov12 = {"id": "lta-2012-1", "kilder": ["k1", "k2"], "status": {"vaerdi": "gældende", "pr": "2026-11-23"}}
+    assert bestemmelseskant(lov12, "naevn-ae", "klageinstans", her, ["lta-2018-734"]) == {
+        "from": "naevn-ae", "type": "klageinstans", "to": "lta-2012-1", "beskrivelse": "Afgørelser kan påklages til Æblenævnet.", "kilder": ["k1"], "sikkerhed": "sandsynlig",
+        "metode": BESTEMMELSE, "to_bestemmelse": ["§ 5", "§ 6"], "afgoerelse_af": ["naevn-p"], "senere_aendret_ved": ["lta-2018-734"]}
+    ophaevet = bestemmelseskant({**lov12, "status": {"vaerdi": "historisk", "pr": "2026-11-23"}}, "naevn-ae", "tilsyn", {"her": her["her"][:1], "afgoerelse_af": []}, [])
+    assert ophaevet["dokumentstatus"] == "historisk" and not {"afgoerelse_af", "senere_aendret_ved"} & set(ophaevet)
     note = ("1) Bekendtgørelsen indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2012/27/EU af 25. oktober 2012 om energieffektivitet, "
             "om ændring af direktiv 2009/125/EF og 2010/30/EU samt om ophævelse af direktiv 2004/8/EF og 2006/32/EF, EU-Tidende 2012, nr. L 315, side 1, som ændret ved "
             "Rådets direktiv 2013/12/EU af 13. maj 2013, EU-Tidende 2013, nr. L 141, side 28, og senest ved Europa-Parlamentets og Rådets direktiv 2018/2002/EU, og dele "

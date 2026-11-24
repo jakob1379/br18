@@ -4,7 +4,7 @@ meta:
   titel: 'Kortlægning af dansk regulering: byggeri, bolig, plan, energi, miljø, arbejdsmiljø, brand, el/gas/VVS – plus katalog over hele Lovtidende
     A'
   dato: '2026-10-28'
-  opdateret: '2026-11-23 (fase 7: instanslag uden for de otte domæner, flettet med pipeline/populate.py)'
+  opdateret: '2026-11-24 (fase 7: instanslag uden for de otte domæner, flettet med pipeline/populate.py)'
   formaal: Kortlægning (ikke indhentning) af myndigheder, retsakter, klage-/tilsynsveje, EU-retsakter og dokumentkilder til et krydsrefereret
     RAG-korpus (udvidelse af jakob1379/br18), så søgning kan følge hjemmelskæder lov → bekendtgørelse → vejledning → praksis.
   scope:
@@ -75,7 +75,9 @@ meta:
       Kanten gengiver dokumentets tekst, som den er udstedt: en lovbekendtgørelse har ikke senere ændringslove indarbejdet, så klageinstansen
       kan være ændret siden. senere_aendret_ved lister da de love, der har ændret dokumentet og er underskrevet efter det: for en lov fra Retsinformations
       tidslinje (ændringslove og andre hovedlove, der har ændret den), for en bekendtgørelse fra eksportens felt SenereAendringer; uden feltet
-      er ingen senere ændring fundet). Endepunkter er katalog-id''er, registry-id''er eller eu_index-id''er.'
+      er ingen senere ændring fundet. dokumentstatus står på netop de kanter, hvis dokument ikke er gældende efter katalogets status, med dokumentets
+      status (historisk), så en søgning efter gældende ret kan frasortere dem på kanten alene; feltet viser status pr. katalogets statusdato (status.pr
+      på dokumentet), ikke den dag, en bestemmelse holdt op med at gælde, og scripts/build.py kræver det på netop de kanter). Endepunkter er katalog-id''er, registry-id''er eller eu_index-id''er.'
     sikkerhed: verificeret = står direkte i datasættets felter eller tekst eller i Retsinformations søgeeksport (status, Lovtidende-nr., henvisning
       med nummer og dato, EU-retsakt nævnt, hjemmel, ressortfelt der med sikkerhed er aktuelt). sandsynlig = udledt (udstedende ministerium fra
       DocumentId-præfiks, titel-/navnematch, ministerium arvet fra hjemmelsloven, lovforslag koblet til loven på titel og underskriftsdato, ressort
@@ -111394,7 +111396,7 @@ huller:
     par, læst på titel og bestemmelse) står i raw/populate/2026-11-21-afloeser-oprydning.tsv, og en ren ophævelseslov afvises; familien fortsætter
     ikke til dem. Hentningen af kandidatlovene er gjort færdig 2026-11-23 (JGA-144): 171 hentet, men alle 171 XML-filer har kun metadata, så ingen
     ny afløser er bekræftet, og ingen nye par skulle læses for oprydning; 126 bekræftede, 10 oprydning og 46 afvist er uændrede. Ikke løst: 4
-    love har en kandidat, hvis tekst ikke er hentet (lta-1992-396 og lta-2001-967 venter på lta-2002-405, som gav HTTP 500 to gange; lta-1989-583
+    love har en kandidat, hvis tekst ikke er hentet (lta-1992-396 og lta-2001-967 venter på lta-2002-405, som gav HTTP 500 tre gange, senest 2026-11-24 (JGA-198); lta-1989-583
     og lta-1992-251 hentes ikke, fordi de allerede har en gældende version gennem et nyere familiemedlem, men tælles med, fordi kandidaterne
     tælles, før afløserne fører familierne videre), og 732 har kun kandidater, hvis hentede XML er uden tekst (mest love fra før 2005; 481 før
     hentningen); dem kan metoden ikke bekræfte. Tekstindekset over de hentede kandidatlove ventedes at flytte evalueringens tal, fordi det gav
@@ -111421,9 +111423,9 @@ huller:
   - 'Lovfamilier kobles på titel: en ældre version af en lov kobles ikke altid til den gældende'
 - emne: Klage- og tilsynskanter pr. forskrift er læst mekanisk af dokumentets egen tekst og kun for tekstlagets udsnit
   type: andet
-  beskrivelse: 'Kataloget har 542 klageinstans-kanter og 571 tilsyn-kanter fra instans til lov eller forskrift (metode bestemmelse, sandsynlig;
-    483 og 512 før 2026-11-23, da tekstindekset fik 605 nye dokumenter, JGA-144; 93 af de 118 nye kanter står på love, der ikke længere gælder,
-    og kun dokumentets status viser det), læst med regulære udtryk af de hentede dokumenters paragraffer. I evalueringssættets runde 3, trukket
+  beskrivelse: 'Kataloget har 542 klageinstans-kanter og 573 tilsyn-kanter fra instans til lov eller forskrift (metode bestemmelse, sandsynlig;
+    483 og 512 før 2026-11-23, da tekstindekset fik 605 nye dokumenter, JGA-144, og 542 og 571 før 2026-11-24, da teksten til tre nye versioner
+    og 48 andre dokumenter kom med, JGA-198), læst med regulære udtryk af de hentede dokumenters paragraffer. I evalueringssættets runde 3, trukket
     efter at læseren var skrevet, var 23 af 24 klageinstanser rigtige og ingen manglede; den myndighed, der træffer afgørelsen, stod på kanten
     i 12 af 14 tilfælde; for tilsyn var 15 af 15 rigtige, men 11 af facits 26 manglede, fordi læseren kun kendte få formuleringer. Fra 2026-11-16
     læses også ''påser, at'', ''kontrollerer'', ''er tilsynsmyndighed'' og ''styrelsens kontrol med'' (JGA-134); runde 3 giver derefter 27 rigtige,
@@ -111480,7 +111482,13 @@ huller:
     7 klageinstans- og 3 tilsyn-kanter er fjernet, ingen tilføjet, og én forkert afgørende myndighed er fjernet; de 7 af stikprøvens kanter, der
     forsvandt, var alle dømt forkerte. De øvrige fejlklasser står i meta.begraensninger med eksempler. Det betyder, at omkring hver femte klageinstans-kant
     og hver tolvte tilsyn-kant uden for de otte domæner må antages at være forkert, oftest fordi sætningen nævner klageorganet uden at give klageadgang
-    over en myndigheds afgørelse efter dokumentet.'
+    over en myndigheds afgørelse efter dokumentet. Løst 2026-11-24 (JGA-199, mulighed 2: mærk kanten): kanter læst af et dokument, der ikke er
+    gældende, mest afløserkandidaternes ophævede love fra JGA-144, viste før kun deres status gennem dokumentet, så en søgning, der fulgte kanterne
+    uden at slå dokumentet op, kunne vise en ophævet klagevej som gældende. Nu har de 101 af de 1.115 kanter feltet dokumentstatus (historisk),
+    og scripts/build.py kræver det på netop de kanter. Feltet viser status pr. katalogets statusdato, ikke den dag, bestemmelsen holdt op med
+    at gælde. Åbent: ''Styrelsen for Danmarks Fængsler'' findes ikke af læseren (nodens navn er ''Danmarks Fængsler (Styrelsen for Danmarks
+    Fængsler)''), så LBK nr. 982 af 2026 § 111 giver ingen klageinstans-kant, og klageruten står kun på den historiske LBK nr. 201 af 2023, hvis
+    § 111 siger ''Direktoratet for Kriminalforsorgen'' (JGA-198).'
   noder:
   - kilde-retsinformation
   - naevn-energiklagenaevnet
