@@ -153,7 +153,7 @@ def udtraek(xml: str) -> dict:
                                   for m in NAEVNT.finditer(tekst(xml)))
     instansled = [[par, s[:600]] for par, t in afsnit(xml) if par for s in E.SAETNING.split(" ".join(re.sub(r"[\u200b-\u200d\u2060\ufeff\u00ad]", "", t).split()))
            if any(r.search(s) for r in E.LED)]
-    felter = {"praeambel": E.P.praeambel(xml), "klage_tilsyn": instansled[:80], "noter": led("Nota", xml), "naevner": dict(sorted(naevner.items())),
+    felter = {"praeambel": E.P.praeambel(xml), "klage_tilsyn": instansled[:80], "noter": led("Nota", E.P.NYTEKST.sub("", xml)), "naevner": dict(sorted(naevner.items())),
               "underskrevet_af": "; ".join(liste(meta.get("PlaceOfSignature"))), "eu": liste(meta.get("EuReferences"))}
     return {"n_tegn": len(tekst(xml)), "n_paragraffer": len(re.findall(r"<Paragraf\b", xml)), **{k: v for k, v in felter.items() if v}}
 
@@ -211,6 +211,8 @@ def selftest() -> None:
     assert u["noter"] == ["1) Ressortansvaret er overført."] and u["underskrevet_af"] == "Æblestyrelsen" and u["eu"] == ["32010L0031"]
     assert "Æbler er frugt." in tekst(xml) and "Bekendtgørelse om æbler" not in tekst(xml) and u["n_tegn"] == len(tekst(xml))
     assert udtraek("<Dokument><Paragraf>x</Paragraf></Dokument>") == {"n_tegn": 1, "n_paragraffer": 1}
+    nyt = udtraek("<Dokument><Nota><Char>1) Egen note.</Char></Nota><Paragraf><AendringNyTekst><Nota><Char>1) Hovedbekendtgørelsens nye note.</Char></Nota></AendringNyTekst></Paragraf></Dokument>")
+    assert nyt["noter"] == ["1) Egen note."]
     assert afsnit(xml) == [("§ 1", "§ 1.\nÆbler er frugt.")] and afsnit("<Dokument><Meta><Year>1996</Year></Meta></Dokument>") == []
     assert afsnit("<Dokument><Meta/><TekstGruppe><Exitus><Char>En afgørelse.</Char></Exitus></TekstGruppe></Dokument>") == [(None, "En afgørelse.")]
     to = "<Paragraf localId='16C'><Explicatus>§ 16 C. </Explicatus><Stk><Char>A</Char></Stk></Paragraf><Paragraf><Stk><Char>B</Char></Stk></Paragraf>"

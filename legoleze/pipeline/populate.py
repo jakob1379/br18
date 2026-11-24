@@ -360,9 +360,13 @@ def henvisninger(meta: dict) -> dict:
     return {g["header"]: g.get("references") or [] for g in grupper if g.get("header")}
 
 
+NYTEKST = re.compile(r"(?s)<AendringNyTekst\b[^>/]*>.*?</AendringNyTekst>")
+
+
 def praeambel(xml: str) -> str:
-    """Indledningen i et dokuments XML ("I medfør af …") uden fodnoter og på én linje; tom, hvis dokumentet ingen har."""
-    led = re.findall(r"(?s)<Indledning\b[^>]*>(.*?)</Indledning>", re.sub(r"(?s)<Nota\b.*?</Nota>", "", xml))
+    """Indledningen i et dokuments XML ("I medfør af …") uden fodnoter og på én linje; tom, hvis dokumentet ingen har.
+    Den nye tekst, en ændringsforskrift sætter ind i en anden forskrift (AendringNyTekst), er ikke forskriftens egen og er ikke med."""
+    led = re.findall(r"(?s)<Indledning\b[^>]*>(.*?)</Indledning>", re.sub(r"(?s)<Nota\b.*?</Nota>", "", NYTEKST.sub("", xml)))
     tekst = re.sub(r"[\u200b-\u200d\u2060\ufeff\u00ad]", "", html.unescape(re.sub(r"<[^>]+>", " ", " ".join(led))))
     return re.sub(r" ([,.;:])", r"\1", " ".join(tekst.split()))
 
@@ -942,6 +946,7 @@ def selftest() -> None:
     assert praeambel(indl) == "I medfør af § 5, stk. 2, i sundhedsloven, jf. lovbekendtgørelse nr. 7 af 1. juli 2025, og § 3 i lov nr. 44 af 1. april 2020 om pærer fastsættes:"
     assert praeambelhjemmel(praeambel(indl)) == [("lta-2025-7", ["§ 5, stk. 2"]), ("lta-2020-44", ["§ 3"])] and praeambel("<Dokument/>") == ""
     assert praeambel("<Indledning>I medfør af §\u200d\u200d 84 i lov</Indledning>") == "I medfør af § 84 i lov"
+    assert praeambel("<Dokument><AendringNyTekst><Indledning>I medfør af § 4 i lov om æbler</Indledning></AendringNyTekst><AendringNyTekst /></Dokument>") == ""
     pr = ("I medfør af § 9, stk. 3, § 16 C, § 22, og § 30, stk. 2, i vandsektorloven, jf. lovbekendtgørelse nr. 1693 af 16. august 2021, som ændret ved § 1 i lov nr. 668 "
           "af 11. juni 2024 og § 2 i lov nr. 7 af 1. januar 2025, § 3 i lov om fremme af energibesparelser i bygninger, jf. lovbekendtgørelse 1923 af 8. oktober 2021, "
           "og § 5, stk. 1, nr. 2, stk. 2 og 3, og § 6 i lov nr. 61 af 30. januar 2018 om gas fastsættes efter bemyndigelse i henhold til § 4, stk. 1, i bekendtgørelse "

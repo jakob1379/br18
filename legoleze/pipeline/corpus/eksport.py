@@ -381,14 +381,14 @@ def laeser(reg: dict):
 
 
 EUNAEVNT = re.compile("|".join(r.pattern for r in (X.R_DIR, X.R_REG_OLD, X.R_REG_NEW, X.R_DEC)), re.IGNORECASE)
-SLUT = re.compile(r"notificeret|medtaget visse|Ifølge artikel")
+SLUT = re.compile(r"notificeret|(?:medtaget|henvist til) visse|Ifølge artikel")
 KAEDE = re.compile(r"ændret ved|senest ved|og ved\b")
 TITEL = re.compile(r"ændring af|ophævelse af|i henhold til")
 
 
 def gennemfoerer(noter: list[str]) -> list[str]:
     """EU-retsakter (katalog-id), som en fodnote siger, at dokumentet gennemfører. Læst fra "gennemfører" til notens slutning eller til
-    informationsproceduren ("notificeret") og gengivne forordninger ("medtaget visse bestemmelser"). En retsakt efter "som ændret ved" eller
+    informationsproceduren ("notificeret") og gengivne forordninger ("medtaget" eller "henvist til visse bestemmelser"). En retsakt efter "som ændret ved" eller
     "senest ved" er en ændringsretsakt og er ikke med, og det er de følgende heller ikke, før teksten igen siger "dele af" eller "gennemfører",
     eller der efter en henvisning til EU-Tidende kommer en retsakt, hvis egen titel ikke begynder med "om ændring af".
     Retsakter i en anden retsakts titel (efter "om ændring af", "om ophævelse af" eller "i henhold til" og frem til henvisningen til EU-Tidende
@@ -1185,6 +1185,8 @@ def selftest() -> None:
             "side 11. I bekendtgørelsen er der medtaget visse bestemmelser fra forordning (EU) 2016/426. Bekendtgørelsen har som udkast været notificeret i "
             "overensstemmelse med Europa-Parlamentets og Rådets direktiv (EU) 2015/1535.")
     assert gennemfoerer([note, "2) Ressortansvaret er overført."]) == ["eu-dir-2012-27", "eu-dir-1998-24"] and gennemfoerer([]) == []
+    assert gennemfoerer(["1) Bekendtgørelsen gennemfører dele af direktiv 2012/19/EU, EU-Tidende 2012, nr. L 197, side 38. I bekendtgørelsen er der henvist til visse "
+                         "bestemmelser fra forordning (EU) 2024/1157, EU-Tidende 2024, nr. L 190, side 1."]) == ["eu-dir-2012-19"]
     assert gennemfoerer([("1) Bekendtgørelsen gennemfører direktiv 2018/2001/EU om vedvarende energi, EU-Tidende 2018, nr. L 328, s. 82, og direktiv (EU) 2023/2413 om ændring af "
                          "direktiv (EU) 2018/2001, forordning (EU) 2018/1999 og direktiv 98/70/EF og om ophævelse af direktiv (EU) 2015/652, EU-Tidende, L af 31. oktober 2023, "
                          "som ændret ved direktiv (EU) 2023/958 om passende gennemførelse af en ordning, EU-Tidende 2023, side 115 og ved direktiv (EU) 2023/959.")]) == ["eu-dir-2018-2001", "eu-dir-2023-2413"]

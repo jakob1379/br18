@@ -6,7 +6,7 @@
 - Øvrige samlinger: **131080** dokumenter (cirkulærer, vejledninger, afgørelser m.m., se nederst)
 - Seneste udstedelsesdato i datasættet: 2026-11-20
 - Status høstet: 2026-11-12 – 2026-11-23
-- Kanter: 346774 · EU-retsakter refereret: 1944 · koblet til registry-noder: 413
+- Kanter: 346571 · EU-retsakter refereret: 1943 · koblet til registry-noder: 413
 
 ## Dokumenttyper
 
@@ -152,8 +152,8 @@
 | Kanttype | verificeret | sandsynlig | ukendt |
 |---|---:|---:|---:|
 | henviser_til | 101677 | 92122 | 0 |
-| hjemmel_for | 88685 | 0 | 0 |
-| implementerer_EU | 0 | 1411 | 1141 |
+| hjemmel_for | 88573 | 0 | 0 |
+| implementerer_EU | 0 | 1320 | 1141 |
 | klageinstans | 0 | 543 | 0 |
 | ressortansvar | 19613 | 10460 | 247 |
 | tilsyn | 0 | 573 | 0 |
@@ -215,9 +215,9 @@ Retsinformations XML er hentet for et udsnit af kataloget med `pipeline/corpus/t
 
 | Samling | XML hentet | heraf med tekst | heraf gældende med tekst | Tegn (mio.) | med præambel | med EU-retsakt |
 |---|---:|---:|---:|---:|---:|---:|
-| Lovtidende A | 2945 | 2058 | 1968 | 103.9 | 1444 | 672 |
+| Lovtidende A | 2945 | 2058 | 1968 | 103.9 | 1386 | 672 |
 | Ministerialtidende | 120 | 16 | 16 | 0.7 | 2 | 0 |
-| Retsinformation (administrative forskrifter og afgørelser) | 1245 | 735 | 735 | 24.8 | 5 | 14 |
+| Retsinformation (administrative forskrifter og afgørelser) | 1293 | 735 | 735 | 24.8 | 5 | 14 |
 | Folketingets Ombudsmand | 19 | 19 | 19 | 0.9 | 0 | 0 |
 | Folketingstidende (lovforslag, betænkninger, beslutningsforslag) | 198 | 176 | 176 | 42.8 | 0 | 0 |
 
@@ -229,10 +229,10 @@ Retsinformations XML er hentet for et udsnit af kataloget med `pipeline/corpus/t
 | `eu-reg-2004-853` | 32004R0853 | 183 | 20 | 0 |  |
 | `eu-reg-2016-429` | 32016R0429 | 160 | 37 | 0 |  |
 | `eu-reg-2013-575` | 32013R0575 | 159 | 70 | 0 |  |
-| `eu-dir-1992-43` | 31992L0043 | 151 | 44 | 108 | ja |
+| `eu-dir-1992-43` | 31992L0043 | 151 | 44 | 104 | ja |
 | `eu-reg-2014-651` | 32014R0651 | 151 | 68 | 0 |  |
 | `eu-reg-2009-987` | 32009R0987 | 140 | 23 | 0 |  |
-| `eu-dir-2005-36` | 32005L0036 | 127 | 48 | 66 | ja |
+| `eu-dir-2005-36` | 32005L0036 | 127 | 48 | 59 | ja |
 | `eu-reg-2002-178` | 32002R0178 | 108 | 19 | 0 |  |
 | `eu-dir-2009-138` | 32009L0138 | 106 | 31 | 18 |  |
 | `eu-reg-2009-1069` | 32009R1069 | 104 | 30 | 0 |  |
@@ -244,7 +244,7 @@ Retsinformations XML er hentet for et udsnit af kataloget med `pipeline/corpus/t
 | `eu-reg-1994-2100` | 31994R2100 | 92 | 6 | 0 |  |
 | `eu-dir-1979-117` | 31979L0117 | 92 | 13 | 5 |  |
 | `eu-dir-2009-65` | 32009L0065 | 91 | 19 | 45 |  |
-| `eu-dir-2003-87` | 32003L0087 | 89 | 13 | 21 | ja |
+| `eu-dir-2003-87` | 32003L0087 | 89 | 13 | 20 | ja |
 | `eu-dir-2004-39` | 32004L0039 | 88 | 13 | 42 |  |
 | `eu-reg-2014-808` | 32014R0808 | 88 | 29 | 0 |  |
 | `eu-dir-2013-36` | 32013L0036 | 87 | 30 | 32 |  |

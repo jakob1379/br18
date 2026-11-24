@@ -111397,7 +111397,7 @@ huller:
     par, læst på titel og bestemmelse) står i raw/populate/2026-11-21-afloeser-oprydning.tsv, og en ren ophævelseslov afvises; familien fortsætter
     ikke til dem. Hentningen af kandidatlovene er gjort færdig 2026-11-23 (JGA-144): 171 hentet, men alle 171 XML-filer har kun metadata, så ingen
     ny afløser er bekræftet, og ingen nye par skulle læses for oprydning; 126 bekræftede, 10 oprydning og 46 afvist er uændrede. Ikke løst: 4
-    love har en kandidat, hvis tekst ikke er hentet (lta-1992-396 og lta-2001-967 venter på lta-2002-405, som gav HTTP 500 tre gange, senest 2026-11-24 (JGA-198); lta-1989-583
+    love har en kandidat, hvis tekst ikke er hentet (lta-1992-396 og lta-2001-967 venter på lta-2002-405, som gav HTTP 500 fire gange, senest 2026-11-24; lta-1989-583
     og lta-1992-251 hentes ikke, fordi de allerede har en gældende version gennem et nyere familiemedlem, men tælles med, fordi kandidaterne
     tælles, før afløserne fører familierne videre), og 732 har kun kandidater, hvis hentede XML er uden tekst (mest love fra før 2005; 481 før
     hentningen); dem kan metoden ikke bekræfte. Tekstindekset over de hentede kandidatlove ventedes at flytte evalueringens tal, fordi det gav
