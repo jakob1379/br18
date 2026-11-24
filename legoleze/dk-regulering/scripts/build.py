@@ -270,7 +270,7 @@ def validate_katalog(reg: dict, kat: dict) -> list[str]:
             err(f"katalog-kant {label}: senere_aendret_ved skal være en ikke-tom liste af dokumenter i kataloget")
         if "dokumentstatus" in e and e["dokumentstatus"] != "historisk":
             err(f"katalog-kant {label}: dokumentstatus skal være 'historisk', fik {e['dokumentstatus']!r}")
-        elif ("dokumentstatus" in e) != (e.get("metode") == "bestemmelse" and ((docs.get(e.get("to")) or {}).get("status") or {}).get("vaerdi") != "gældende"):
+        elif e.get("to") in docs and ("dokumentstatus" in e) != (e.get("metode") == "bestemmelse" and (docs[e["to"]].get("status") or {}).get("vaerdi") != "gældende"):
             err(f"katalog-kant {label}: dokumentstatus skal stå på netop de bestemmelse-kanter, hvis dokument ikke er gældende")
         if e.get("citeret_version") and e["citeret_version"] not in docs:
             err(f"katalog-kant {label}: citeret_version {e['citeret_version']!r} findes ikke")
@@ -677,7 +677,9 @@ def selftest() -> None:
                  kat(metode="bestemmelse", dokumentstatus="historisk"), kat(dokumentstatus="historisk")):
         fejl = validate_katalog(reg, galt)
         assert len(fejl) == 1 and "dokumentstatus" in fejl[0], (galt["edges"], fejl)
-    af = {"vaerdi": "lta-2018-734", "ophaevelse": "Lov nr. 1178 af 25. september 2016 ophæves.", "paragraf": "§ 9", "paragraf_tekst": "§ 9. Lov nr. 1178 af 25. september 2016 ophæves.",
+    fejl = validate_katalog(reg, kat(metode="bestemmelse", to="lta-2099-1"))
+    assert len(fejl) == 1 and "to-node findes ikke" in fejl[0], fejl
+    af ={"vaerdi": "lta-2018-734", "ophaevelse": "Lov nr. 1178 af 25. september 2016 ophæves.", "paragraf": "§ 9", "paragraf_tekst": "§ 9. Lov nr. 1178 af 25. september 2016 ophæves.",
           "kilder": ["https://www.retsinformation.dk/eli/lta/2018/734/xml"], "sikkerhed": "verificeret", "metode": "ophaevelsesbestemmelse", "bevarer_regler": None}
     med = lambda **f: {**kat(), "docs": [{**doc("lta-2016-1178"), **f}, doc("lta-2018-734")]}
     assert validate_katalog(reg, med(afloeser=af, afloeser_fra="lta-2016-1178", gaeldende_version="lta-2018-734")) == []
@@ -685,11 +687,13 @@ def selftest() -> None:
         fejl = validate_katalog(reg, med(afloeser=galt))
         assert len(fejl) == 1 and "afloeser" in fejl[0], (galt, fejl)
     assert len(validate_katalog(reg, med(afloeser_fra="lta-2099-1"))) == 1
-    d2 = lambda i, s: {**doc(i), "status": {"vaerdi": s, "pr": "2026-11-23"}, "datoer": {"udstedt": "2016-09-25"}, "udstedt_af": {"vaerdi": "X"}}
+    d2 = lambda i, s: {**doc(i), "status": {"vaerdi": s, "pr": "2026-11-23", "sikkerhed": "sandsynlig"}, "datoer": {"udstedt": "2016-09-25"}, "udstedt_af": {"vaerdi": "X", "sikkerhed": "sandsynlig"}}
     laest = [{**kant, "metode": "bestemmelse", "dokumentstatus": "historisk"}, {**kant, "type": "tilsyn", "metode": "bestemmelse", "to": "lta-2018-734"},
-             {**kant, "type": "henviser_til", "metode": "bestemmelse"}, kant]
-    tekst = gen_katalog({"nodes": [{"id": "naevn-x", "type": "nævn", "navn": "X"}]}, {**kat(), "docs": [d2("lta-2016-1178", "historisk"), d2("lta-2018-734", "gældende")], "edges": laest})
-    assert "afløserkandidaternes lovtekster" in tekst and "1 af de 3 klageinstans- og tilsynskanter fra dokumentets egne bestemmelser" in tekst and "(`dokumentstatus`)" in tekst
+             {**kant, "type": "tilsyn", "metode": "bestemmelse", "dokumentstatus": "historisk"}, {**kant, "to": "lta-2018-734"}]
+    blandet = {**kat(), "docs": [d2("lta-2016-1178", "historisk"), d2("lta-2018-734", "gældende")], "edges": laest}
+    tekst = gen_katalog({"nodes": [{"id": "naevn-x", "type": "nævn", "navn": "X"}]}, blandet)
+    assert validate_katalog(reg, blandet) == []
+    assert "afløserkandidaternes lovtekster" in tekst and "2 af de 3 klageinstans- og tilsynskanter fra dokumentets egne bestemmelser" in tekst and "(`dokumentstatus`)" in tekst
     print("selftest ok")
 
 

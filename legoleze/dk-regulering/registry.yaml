@@ -86,7 +86,8 @@ meta:
       databasedato; for dokumenter fra før 1990 typisk en dato i 1990'erne), ri_aendret er end_date med udokumenteret betydning – ingen af dem
       må bruges som gyldighedsperiode.
     tekst: 'Retsinformations XML (ELI-adressen plus /xml) er hentet for et udsnit med pipeline/corpus/tekst.py: de dokumenter, registry''ets noder
-      peger på, og de gældende dokumenter i de otte domæner, i rækkefølgen registry, Lovtidende A uden tekst i bulk-høsten, vejledninger og cirkulærer,
+      peger på, de gældende dokumenter i de otte domæner og, fra 2026-11-21, afløserkandidaternes lovtekster, i rækkefølgen registry, afløserkandidaterne,
+      Lovtidende A uden tekst i bulk-høsten, vejledninger og cirkulærer,
       lovforslag som fremsat til udsnittets love, praksis og til sidst Lovtidende A med tekst i bulk-høsten. Felter i tekst.jsonl: id, xml (sti
       fra legoleze/), hentet, n_tegn, n_paragraffer, praeambel (indledningen uden fodnoter), noter (fodnoterne, herunder EU-noten og noter om
       ressortoverførsler), klage_tilsyn ([paragraf, sætning] for de sætninger i dokumentets paragraffer, der har et klage- eller tilsynsudsagn),
@@ -111423,9 +111424,9 @@ huller:
   - 'Lovfamilier kobles på titel: en ældre version af en lov kobles ikke altid til den gældende'
 - emne: Klage- og tilsynskanter pr. forskrift er læst mekanisk af dokumentets egen tekst og kun for tekstlagets udsnit
   type: andet
-  beskrivelse: 'Kataloget har 542 klageinstans-kanter og 573 tilsyn-kanter fra instans til lov eller forskrift (metode bestemmelse, sandsynlig;
-    483 og 512 før 2026-11-23, da tekstindekset fik 605 nye dokumenter, JGA-144, og 542 og 571 før 2026-11-24, da teksten til tre nye versioner
-    og 48 andre dokumenter kom med, JGA-198), læst med regulære udtryk af de hentede dokumenters paragraffer. I evalueringssættets runde 3, trukket
+  beskrivelse: 'Kataloget har 543 klageinstans-kanter og 573 tilsyn-kanter fra instans til lov eller forskrift (metode bestemmelse, sandsynlig;
+    483 og 512 før 2026-11-23, da tekstindekset fik 605 nye dokumenter, JGA-144, 542 og 571 før 2026-11-24, da teksten til tre nye versioner
+    og 48 andre dokumenter kom med, JGA-198, og 542 og 573, før læseren samme dag fik navnet ''Styrelsen for Danmarks Fængsler''), læst med regulære udtryk af de hentede dokumenters paragraffer. I evalueringssættets runde 3, trukket
     efter at læseren var skrevet, var 23 af 24 klageinstanser rigtige og ingen manglede; den myndighed, der træffer afgørelsen, stod på kanten
     i 12 af 14 tilfælde; for tilsyn var 15 af 15 rigtige, men 11 af facits 26 manglede, fordi læseren kun kendte få formuleringer. Fra 2026-11-16
     læses også ''påser, at'', ''kontrollerer'', ''er tilsynsmyndighed'' og ''styrelsens kontrol med'' (JGA-134); runde 3 giver derefter 27 rigtige,
@@ -111443,7 +111444,7 @@ huller:
     blev begrænset til sætninger om at overholde noget, var 18 af 50 tilfældige nye kanter forkerte. I et håndgennemsyn af 52 tilfældige klageinstans-kanter
     uden for evalueringssættet var 2 forkerte (en sag, ikke en klage, blev indbragt for instansen); det mønster er siden udelukket. Læseren gemmer
     alle afgørende myndigheder i sætningen (''truffet af ministeren eller af Forsyningstilsynet''), men kun den første i en opregning med komma.
-    ''Kirkeministeren'' er Sundheds- og Kirkeministeriet, der har kirkeområdet i dag, og ''Direktoratet for Kriminalforsorgen'' er Danmarks Fængsler.
+    ''Kirkeministeren'' er Sundheds- og Kirkeministeriet, der har kirkeområdet i dag, og ''Direktoratet for Kriminalforsorgen'' og ''Styrelsen for Danmarks Fængsler'' er Danmarks Fængsler.
     Titlen på et nedlagt ministerium, hvis område er delt (''by-, land- og kirkeministeren'', ''indenrigs- og boligministeren''), peger stadig
     på det nedlagte ministerium, og ''Trafik- og Byggestyrelsen'' læses ikke, fordi det er tidligere navn for både Trafikstyrelsen og Trafik-,
     Bygge- og Boligstyrelsen, og hvilken der menes, afhænger af området. Tre forbehold: en instans uden node i registry''et giver ingen kant (''ankenævnet'',
@@ -111484,11 +111485,17 @@ huller:
     og hver tolvte tilsyn-kant uden for de otte domæner må antages at være forkert, oftest fordi sætningen nævner klageorganet uden at give klageadgang
     over en myndigheds afgørelse efter dokumentet. Løst 2026-11-24 (JGA-199, mulighed 2: mærk kanten): kanter læst af et dokument, der ikke er
     gældende, mest afløserkandidaternes ophævede love fra JGA-144, viste før kun deres status gennem dokumentet, så en søgning, der fulgte kanterne
-    uden at slå dokumentet op, kunne vise en ophævet klagevej som gældende. Nu har de 101 af de 1.115 kanter feltet dokumentstatus (historisk),
+    uden at slå dokumentet op, kunne vise en ophævet klagevej som gældende. Nu har de 101 af de 1.116 kanter feltet dokumentstatus (historisk),
     og scripts/build.py kræver det på netop de kanter. Feltet viser status pr. katalogets statusdato, ikke den dag, bestemmelsen holdt op med
-    at gælde. Åbent: ''Styrelsen for Danmarks Fængsler'' findes ikke af læseren (nodens navn er ''Danmarks Fængsler (Styrelsen for Danmarks
-    Fængsler)''), så LBK nr. 982 af 2026 § 111 giver ingen klageinstans-kant, og klageruten står kun på den historiske LBK nr. 201 af 2023, hvis
-    § 111 siger ''Direktoratet for Kriminalforsorgen'' (JGA-198).'
+    at gælde. Løst 2026-11-24 (JGA-198, efter review): ''Styrelsen for Danmarks Fængsler'' blev ikke fundet af læseren, fordi nodens navn er
+    ''Danmarks Fængsler (Styrelsen for Danmarks Fængsler)'', og myndigheder() kun tager navnet med og uden parentesen, ikke teksten i den. Navnet
+    står nu i eksport.ALIAS, og LBK nr. 982 af 2026 § 111 giver klageinstans-kanten fra Danmarks Fængsler, så klageruten ikke længere kun står
+    på den historiske LBK nr. 201 af 2023 (''Direktoratet for Kriminalforsorgen''). Aliaset gav ingen andre kanter i kataloget. Kendt begrænsning:
+    51 instansnoder har et navn på formen ''X (Y)'', og i 49 af dem er Y ikke en nøgle for læseren (i de to andre, KL og Danmarks Fængsler,
+    er det). De fleste er forkortelser (ECHA, DS, STAR) eller præciseringer (''kommunale'', ''efter vejloven'', ''98 kommunalbestyrelser''),
+    som ville blive falske nøgler, hvis læseren tog teksten i parentesen med. Omkring seks er rigtige alternative navne: Politiklagemyndigheden,
+    Det Uafhængige Tilsyn med Bevismidler, Branchefællesskabet for arbejdsmiljø i bygge og anlæg, Dansk Vand- og Spildevandsforening, ladepunktsoperatører
+    og teleudbydere. De står ikke i ALIAS, så en sætning, der kun bruger et af dem, giver ingen kant.'
   noder:
   - kilde-retsinformation
   - naevn-energiklagenaevnet

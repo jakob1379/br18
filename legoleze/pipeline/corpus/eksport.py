@@ -267,7 +267,7 @@ ALIAS = {"kommunalbestyrelsen": "kommune-alle", "kommunen": "kommune-alle", "kom
          "rigspolitichefen": "sty-rigspolitiet", "biskoppen": "tilsyn-biskopperne", "socialtilsynet": "tilsyn-socialtilsynene",
          "ankestyrelsens beskæftigelsesudvalg": "sty-ankestyrelsen", "taksationsmyndighederne": "naevn-taksationsmyndighederne",
          "overtaksationskommissionen": "naevn-taksationsmyndighederne", "kirkeministeren": "min-sundhed-og-kirke",
-         "direktoratet for kriminalforsorgen": "sty-danmarks-faengsler"}
+         "direktoratet for kriminalforsorgen": "sty-danmarks-faengsler", "styrelsen for danmarks fængsler": "sty-danmarks-faengsler"}
 SAETNING = re.compile(r"(?<=[.;])\s+(?=[A-ZÆØÅ])")
 KLAGE = re.compile(r"(?:\b(?:påklages?|klages|indbringes?|anke[sr]?)\b(?P<m>[^.;]{0,160}?)\b(?:til|for)|\bklager? til)\s+(?P<end>(?:en\s+)?anden administrativ myndighed end\s+)?",
                    re.IGNORECASE)
@@ -433,13 +433,13 @@ def udstederkant(d: dict, node: str, nuvaerende: bool) -> dict:
             "beskrivelse": "administrerende myndighed for afgørelsen eller udtalelsen ifølge Retsinformation" + ("" if nuvaerende else " (under et tidligere navn)")}
 
 
-def bestemmelseskant(d: dict, node: str, type_: str, x: dict, senere: list[str]) -> dict:
-    """Klageinstans- eller tilsynskanten fra node til dokumentet d, læst i dets egne bestemmelser (x: her er (bestemmelse, sætning)-parrene,
+def bestemmelseskant(d: dict, node: str, type_: str, udsagn: dict, senere: list[str]) -> dict:
+    """Klageinstans- eller tilsynskanten fra node til dokumentet d, læst i dets egne bestemmelser (udsagn: her er (bestemmelse, sætning)-parrene,
     afgoerelse_af de myndigheder, hvis afgørelser klagen gælder; senere: senere_aendret). Er d ikke gældende efter katalogets status (pr. statusdatoen),
     får kanten dokumentstatus med dokumentets status, så den kan frasorteres uden opslag i dokumentet."""
-    return {"from": node, "type": type_, "to": d["id"], "beskrivelse": x["her"][0][1][:400], "kilder": d["kilder"][:1], "sikkerhed": "sandsynlig",
-            "metode": BESTEMMELSE, "to_bestemmelse": list(dict.fromkeys(par for par, _ in x["her"])),
-            **({"afgoerelse_af": list(dict.fromkeys(x["afgoerelse_af"]))} if x["afgoerelse_af"] else {}), **({"senere_aendret_ved": senere} if senere else {}),
+    return {"from": node, "type": type_, "to": d["id"], "beskrivelse": udsagn["her"][0][1][:400], "kilder": d["kilder"][:1], "sikkerhed": "sandsynlig",
+            "metode": BESTEMMELSE, "to_bestemmelse": list(dict.fromkeys(par for par, _ in udsagn["her"])),
+            **({"afgoerelse_af": list(dict.fromkeys(udsagn["afgoerelse_af"]))} if udsagn["afgoerelse_af"] else {}), **({"senere_aendret_ved": senere} if senere else {}),
             **({"dokumentstatus": d["status"]["vaerdi"]} if d["status"]["vaerdi"] != "gældende" else {})}
 
 
@@ -874,7 +874,7 @@ def katalog() -> dict:
             for myndighed in tilsyn(saetning):
                 led[myndighed, "tilsyn"]["her"].append((par, saetning))
         senere = senere_aendret(ids[t["id"]]["datoer"].get("udstedt", ""), tidslinje_for.get(t["id"]), eks.get(t["id"], {}).get("SenereAendringer"), ids) if led else []
-        kanter += [bestemmelseskant(ids[t["id"]], node, type_, x, senere) for (node, type_), x in led.items() if (node, type_, t["id"]) not in findes]
+        kanter += [bestemmelseskant(ids[t["id"]], node, type_, udsagn, senere) for (node, type_), udsagn in led.items() if (node, type_, t["id"]) not in findes]
     stats["klageinstans fra dokumentets bestemmelser"] = sum(e.get("metode") == BESTEMMELSE and e["type"] == "klageinstans" for e in kanter)
     stats["heraf med afgørende myndighed"] = sum(e.get("metode") == BESTEMMELSE and "afgoerelse_af" in e for e in kanter)
     stats["tilsyn fra dokumentets bestemmelser"] = sum(e.get("metode") == BESTEMMELSE and e["type"] == "tilsyn" for e in kanter)
@@ -1083,6 +1083,7 @@ def selftest() -> None:
     assert ret("Klagerettens afgørelse kan indbringes for Højesteret efter reglerne om kære.") == [("dom-hoejesteret", None)] and ret("Afgørelsen kan ankes til Frugtklagenævnet.") == [("naevn-frugt", None)]
     kirke = {"nodes": [{"id": "min-by-land-og-kirke", "type": "ministerium", "navn": "By-, Land- og Kirkeministeriet", "status": "nedlagt", "tidligere_navne": [{"navn": "Kirkeministeriet"}]}]}
     assert laeser(kirke)[1]("Kirkeministeren fører tilsyn med provstiudvalgene.") == ["min-sundhed-og-kirke"] and laeser(kirke)[1]("Direktoratet for Kriminalforsorgen fører tilsyn.") == ["sty-danmarks-faengsler"]
+    assert laeser(kirke)[0]("Afgørelsen kan påklages til Styrelsen for Danmarks Fængsler.") == [("sty-danmarks-faengsler", None)]
     assert klager("Klage til taksationsmyndighederne skal være indgivet inden 4 uger.") == [("naevn-taksationsmyndighederne", None)]
     assert klager("Regionsrådets afgørelser kan påklages til Frugtklagenævnet.") == [("naevn-frugt", "region-alle")]
     assert tilsyn("Tilsyn med menighedsrådenes funktion udøves af biskoppen.") == ["tilsyn-biskopperne"] and tilsyn("Rigspolitichefen fører tilsyn med politidirektørerne.") == ["sty-rigspolitiet"]
