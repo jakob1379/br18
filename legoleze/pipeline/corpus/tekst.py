@@ -151,9 +151,9 @@ def udtraek(xml: str) -> dict:
     liste = lambda v: [v] if isinstance(v, str) else v or []
     naevner = collections.Counter(f"lta-{m[4] or m[7]}-{int(m[1])}|{m[4] or m[7]}-{E.X.MONTHS[m[3].lower()] if m[3] else int(m[6]):02d}-{int(m[2] or m[5]):02d}"
                                   for m in NAEVNT.finditer(tekst(xml)))
-    instansled = [[par, s[:600]] for par, t in afsnit(xml) if par for s in E.SAETNING.split(" ".join(re.sub(r"[\u200b-\u200d\u2060\ufeff\u00ad]", "", t).split()))
-           if any(r.search(s) for r in E.LED)]
-    felter = {"praeambel": E.P.praeambel(xml), "klage_tilsyn": instansled[:80], "noter": led("Nota", E.P.NYTEKST.sub("", xml)), "naevner": dict(sorted(naevner.items())),
+    saetninger = [(par, s) for par, t in afsnit(xml) if par for s in E.SAETNING.split(" ".join(re.sub(r"[\u200b-\u200d\u2060\ufeff\u00ad]", "", t).split()))]
+    instansled = [[par, s[:600]] for par, s in saetninger if any(r.search(s) for r in E.LED)]
+    felter = {"praeambel": E.P.praeambel(xml), "klage_tilsyn": instansled[:80], "domstol": [[par, s[:600]] for par, s in saetninger if E.DOMSTOLSLED.search(s)][:80], "noter": led("Nota", E.P.NYTEKST.sub("", xml)), "naevner": dict(sorted(naevner.items())),
               "underskrevet_af": "; ".join(liste(meta.get("PlaceOfSignature"))), "eu": liste(meta.get("EuReferences"))}
     return {"n_tegn": len(tekst(xml)), "n_paragraffer": len(re.findall(r"<Paragraf\b", xml)), **{k: v for k, v in felter.items() if v}}
 
@@ -208,6 +208,8 @@ def selftest() -> None:
     assert naevnt["naevner"] == {"lta-2000-943|2000-10-16": 1, "lta-2021-5|2021-05-03": 2, "lta-2025-1434|2025-11-25": 1}
     klage = udtraek("<Dokument><Paragraf><Explicatus>§ 9.</Explicatus><Char>Reglerne gælder for æbler. Afgørelser kan påklages til Frugtklagenævnet. Nævnet fører tilsyn.</Char></Paragraf></Dokument>")
     assert klage["klage_tilsyn"] == [["§ 9", "Afgørelser kan påklages til Frugtklagenævnet."], ["§ 9", "Nævnet fører tilsyn."]] and "klage_tilsyn" not in u
+    ret = udtraek("<Dokument><Paragraf><Explicatus>§ 3.</Explicatus><Char>Afgørelsen kan forlanges indbragt for domstolene. Retten til æbler består.</Char></Paragraf></Dokument>")
+    assert ret["domstol"] == [["§ 3", "Afgørelsen kan forlanges indbragt for domstolene."]] and "klage_tilsyn" not in ret and "domstol" not in klage
     assert u["noter"] == ["1) Ressortansvaret er overført."] and u["underskrevet_af"] == "Æblestyrelsen" and u["eu"] == ["32010L0031"]
     assert "Æbler er frugt." in tekst(xml) and "Bekendtgørelse om æbler" not in tekst(xml) and u["n_tegn"] == len(tekst(xml))
     assert udtraek("<Dokument><Paragraf>x</Paragraf></Dokument>") == {"n_tegn": 1, "n_paragraffer": 1}

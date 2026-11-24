@@ -202,14 +202,15 @@ Alle værdier, adresser og citater i eksemplet er opdigtede, også rettelsen. Ko
 | `delegation` | ministerium/styrelse → styrelse/kommune (delegationsbekendtgørelsen i `beskrivelse`) |
 | `hjemmel_for` | lov/bekendtgørelse → bekendtgørelse/vejledning/instans |
 | `udsteder` | instans → retsakt/vejledning/dokumentkilde (udsteder, udgiver eller driver) |
-| `klageinstans` | klageinstans → førsteinstans (`from` behandler klager over `to`'s afgørelser; lov og § i `beskrivelse`) |
+| `klageinstans` | klageinstans → førsteinstans (`from` behandler klager over `to`'s afgørelser; lov og § i `beskrivelse`). Også anke fra én domstol til en anden. Ikke en domstols prøvelse af en myndigheds afgørelse |
+| `domstolsproevelse` | domstol → instans eller retsakt: `to`'s afgørelser, eller afgørelser efter `to`, kan indbringes for domstolen ad en særlig vej (en bestemt domstol, en frist, et krav om indbringelse eller myndighedens pligt til at indbringe sagen; lov og § i `beskrivelse`). Ikke den almindelige adgang efter grundlovens § 63 |
 | `tilsyn` | tilsynsmyndighed → tilsynsobjekt |
 | `implementerer_EU` | dansk retsakt → EU-retsakt |
 | `henviser_til` | dokument → dokument |
 
 Hver instans og hver lov skal have en `ressortansvar`-kant fra sit ministerium (medmindre `ministerium` er `ingen`), og hver ny node skal have mindst én kant.
 
-Endepunkterne kontrolleres. Instans betyder en nodetype fra instanslisten, dokument en fra dokumentlisten: `klageinstans` og `delegation` går fra instans til instans, `udsteder` fra instans til dokument, `hjemmel_for` fra dokument, `tilsyn` fra instans, og `henviser_til` og `implementerer_EU` fra dokument til dokument. Passer en relation ikke i en type (fx at en instans er sekretariat for en anden, eller indbringer sager for et nævn), så skriv den i `note`, ikke som kant.
+Endepunkterne kontrolleres. Instans betyder en nodetype fra instanslisten, dokument en fra dokumentlisten: `klageinstans` og `delegation` går fra instans til instans, `domstolsproevelse` fra en domstol, `udsteder` fra instans til dokument, `hjemmel_for` fra dokument, `tilsyn` fra instans, og `henviser_til` og `implementerer_EU` fra dokument til dokument. Passer en relation ikke i en type (fx at en instans er sekretariat for en anden, eller indbringer sager for et nævn), så skriv den i `note`, ikke som kant.
 
 ## Afslutning
 

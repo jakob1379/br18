@@ -10,7 +10,7 @@ import yaml
 SP = Path(__file__).resolve().parent
 WF = Path("/root/.claude/projects/-home-user-ai-job-search-fork/9c9ad245-1536-5d87-980d-1a4837c57ed1/subagents/workflows")
 RANK = {"verificeret": 2, "sandsynlig": 1, "ukendt": 0}
-EDGE_TYPES = {"ressortansvar", "delegation", "hjemmel_for", "udsteder", "klageinstans", "tilsyn", "implementerer_EU", "henviser_til"}
+EDGE_TYPES = {"ressortansvar", "delegation", "hjemmel_for", "udsteder", "klageinstans", "domstolsproevelse", "tilsyn", "implementerer_EU", "henviser_til"}
 NODE_TYPES = {
     "ministerium", "styrelse", "direktorat", "nævn", "klagenævn", "tilsyn", "råd", "fond", "domstol", "ombudsmand",
     "kommune", "region", "offentlig-virksomhed", "eu-institution", "privat-organisation", "standardiseringsorgan",

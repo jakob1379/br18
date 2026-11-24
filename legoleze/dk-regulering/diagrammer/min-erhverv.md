@@ -345,12 +345,12 @@ flowchart LR
     lov_gassikkerhedsloven -.->|implementerer_EU| eu_reg_2016_426
     lov_klagenaevn_for_udbud_loven -->|implementerer_EU| eu_dir_2007_66
     lov_produktloven -->|implementerer_EU| eu_reg_2019_1020
-    dom_byretterne -->|klageinstans| naevn_energiklagenaevnet
-    dom_byretterne -->|klageinstans| naevn_miljoe_og_foedevareklagenaevnet
-    dom_byretterne -->|klageinstans| naevn_planklagenaevnet
-    dom_domstolene -->|klageinstans| naevn_energiklagenaevnet
-    dom_domstolene -.->|klageinstans| naevn_klagenaevnet_for_udbud
-    dom_domstolene -->|klageinstans| naevn_miljoe_og_foedevareklagenaevnet
+    dom_byretterne -->|domstolsproevelse| naevn_energiklagenaevnet
+    dom_byretterne -->|domstolsproevelse| naevn_miljoe_og_foedevareklagenaevnet
+    dom_byretterne -->|domstolsproevelse| naevn_planklagenaevnet
+    dom_domstolene -->|domstolsproevelse| naevn_energiklagenaevnet
+    dom_domstolene -.->|domstolsproevelse| naevn_klagenaevnet_for_udbud
+    dom_domstolene -->|domstolsproevelse| naevn_miljoe_og_foedevareklagenaevnet
     naevn_energiklagenaevnet -->|klageinstans| kommune_alle
     naevn_energiklagenaevnet -->|klageinstans| org_energinet
     naevn_energiklagenaevnet -->|klageinstans| sty_energistyrelsen
@@ -499,7 +499,7 @@ flowchart LR
     bek_soefartsstyrelsen_henlaeggelse -.->|hjemmel_for| naevn_ankenaevnet_for_soefartsforhold
     min_erhverv -.->|delegation| sty_soefartsstyrelsen
     naevn_ankenaevnet_for_soefartsforhold -.->|klageinstans| sty_soefartsstyrelsen
-    dom_domstolene -->|klageinstans| naevn_ankenaevnet_for_soefartsforhold
+    dom_domstolene -->|domstolsproevelse| naevn_ankenaevnet_for_soefartsforhold
     sty_soefartsstyrelsen -->|udsteder| kilde_soefartsstyrelsen_regler
     sty_soefartsstyrelsen -->|udsteder| kilde_meddelelser_fra_soefartsstyrelsen
     sty_den_maritime_havarikommission -->|udsteder| kilde_dmaib_rapporter
@@ -550,13 +550,13 @@ flowchart LR
     lov_lov_om_betalinger -->|hjemmel_for| ombud_forbrugerombudsmanden
     bek_forbrugerombudsmandens_virksomhed -->|hjemmel_for| ombud_forbrugerombudsmanden
     lov_markedsfoeringsloven -->|hjemmel_for| bek_forbrugerombudsmandens_virksomhed
-    dom_domstolene -->|klageinstans| ombud_forbrugerombudsmanden
+    dom_domstolene -->|domstolsproevelse| ombud_forbrugerombudsmanden
     lov_forbrugeraftaleloven -->|henviser_til| lov_markedsfoeringsloven
     ombud_forbrugerombudsmanden -->|udsteder| kilde_forbrugerombudsmanden_sager
     ombud_forbrugerombudsmanden -->|udsteder| kilde_forbrugerombudsmanden_retningslinjer
     lov_forbrugerklageloven -->|hjemmel_for| naevn_forbrugerklagenaevnet
     bek_forbrugerklager_naevnenes_hus -->|hjemmel_for| naevn_forbrugerklagenaevnet
-    dom_domstolene -->|klageinstans| naevn_forbrugerklagenaevnet
+    dom_domstolene -->|domstolsproevelse| naevn_forbrugerklagenaevnet
     naevn_forbrugerklagenaevnet -.->|udsteder| kilde_fkn_afgoerelser
     sty_naevnenes_hus -->|udsteder| kilde_fkn_afgoerelser
     lov_forbrugerklageloven -->|hjemmel_for| bek_forbrugerklager_naevnenes_hus
@@ -597,10 +597,10 @@ flowchart LR
     lov_beskikkede_bygningssagkyndige -->|hjemmel_for| naevn_bygningssagkyndige
     lov_beskikkede_bygningssagkyndige -->|hjemmel_for| bek_bygningssagkyndige_naevn
     naevn_ankenaevnet_patenter_varemaerker -.->|klageinstans| sty_patent_og_varemaerkestyrelsen
-    dom_domstolene -->|klageinstans| naevn_ankenaevnet_patenter_varemaerker
-    dom_domstolene -->|klageinstans| naevn_revisornaevnet
-    dom_domstolene -->|klageinstans| naevn_disciplinaernaevnet_ejendomsmaeglere
-    dom_domstolene -->|klageinstans| naevn_bygningssagkyndige
+    dom_domstolene -->|domstolsproevelse| naevn_ankenaevnet_patenter_varemaerker
+    dom_domstolene -->|domstolsproevelse| naevn_revisornaevnet
+    dom_domstolene -->|domstolsproevelse| naevn_disciplinaernaevnet_ejendomsmaeglere
+    dom_domstolene -->|domstolsproevelse| naevn_bygningssagkyndige
     sty_erhvervsstyrelsen -->|tilsyn| org_godkendte_revisorer
     sty_naevnenes_hus -->|udsteder| kilde_apv_afgoerelser
     sty_naevnenes_hus -->|udsteder| kilde_rn_kendelser

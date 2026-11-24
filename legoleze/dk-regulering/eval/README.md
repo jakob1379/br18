@@ -165,7 +165,24 @@ Præcision er rigtige af rigtige plus forkerte; "kan ikke afgøres" tæller ikke
 | henvisning-til-andet-tilsyn | 1 | omtale af et tilsyn efter anden lovgivning ("den lovgivning, som X fører tilsyn med") | kendt grænse (registry meta) |
 | undtagelse-jf-dog | 1 | klagevej, som "jf. dog" lægger hos et andet organ | kendt grænse (registry meta) |
 
-Efter rettelserne i læseren findes 95 af stikprøvens 100 klageinstans-kanter stadig i kataloget (80 rigtige, 14 forkerte, præcision 85 %) og 98 af stikprøvens 100 tilsyn-kanter stadig i kataloget (92 rigtige, 6 forkerte, præcision 94 %). Rettelserne er lavet efter stikprøven, så dette tal er til den pæne side: stikprøven og runde 4 er fra nu af data, læseren er rettet efter, ikke uafhængige kontroller.
+Efter rettelserne i læseren findes 94 af stikprøvens 100 klageinstans-kanter stadig i kataloget (79 rigtige, 14 forkerte, præcision 85 %) og 98 af stikprøvens 100 tilsyn-kanter stadig i kataloget (92 rigtige, 6 forkerte, præcision 94 %). Rettelserne er lavet efter stikprøven, så dette tal er til den pæne side: stikprøven og runde 4 er fra nu af data, læseren er rettet efter, ikke uafhængige kontroller.
+
+## Domstolsprøvelse
+
+`domstolsproevelse-stikproeve.jsonl` har 87 `domstolsproevelse`-kanter på gældende dokumenter (metode `bestemmelse`, alle domæner), trukket med frø 20261124 (højst 100). Kanten siger, at dokumentet giver en særlig vej til domstolen for en myndigheds eller et nævns afgørelse: en bestemt domstol, en frist, et krav om indbringelse eller en pligt for myndigheden til at indbringe sagen. To uafhængige dommere har bedømt hver kant mod bestemmelsernes tekst; hvor de var uenige, eller en af dem ikke sagde rigtig, har et gennemsyn afgjort det (`domstolsproevelse-stikproeve-domme.jsonl`, feltet `gennemsyn`). 5 domme er ændret ved gennemsyn. Tallene er målt på læseren, som den var, da stikprøven blev trukket (2026-11-24).
+
+| Kanter | Rigtige | Forkerte | Kan ikke afgøres | Præcision | Første dommers præcision | Afgørende myndighed rigtig |
+|---:|---:|---:|---:|---:|---:|---:|
+| 87 | 83 | 4 | 0 | 95 % | 92 % | 22 af 24 (92 %) |
+
+| Fejlklasse | Kanter | Beskrivelse | Behandling |
+|---|---:|---|---|
+| forkert-afgoerende-myndighed | 2 | afgørende myndighed læst af "klager over afgørelser truffet af X", hvor kun klageinstansens afgørelse kan indbringes | rettet i læseren |
+| forkert-domstol | 2 | "retten" sat til en domstol, som en anden sætning i dokumentet nævner uden at give en vej til den | rettet i læseren |
+| generel-adgang | 1 | omtale af den almindelige adgang til domstolene uden bestemt domstol, frist, krav eller pligt | rettet i læseren |
+| privat-afgoerelse | 1 | afgørelse truffet af private i en tvist mellem private læst som en myndigheds afgørelse (skønsmænd og revisorer er rettet i læseren) | kendt grænse (registry meta) |
+
+Efter rettelserne i læseren er de kanter, der er nye eller har fået andet indhold (bestemmelser, første sætning eller afgørende myndighed), bedømt igen: 24 domme med feltet `runde` i de to filer, hver afsagt af to dommere eller af én dommer og et gennemsyn. Den seneste dom pr. kant gælder. Af de kanter, der har en dom, findes 94 i kataloget nu: 94 rigtige, 0 forkerte og 0, der ikke kan afgøres (præcision 100 %). Rettelserne er lavet efter den første måling, så dette tal er til den pæne side. Genfindingen er ikke målt: en vej til domstolen med andre ord end læserens, eller til en domstol uden node (skifteretten), giver ingen kant.
 
 ## Forbehold
 

@@ -166,7 +166,7 @@ flowchart LR
     bek_raad_paa_det_sociale_omraade -->|hjemmel_for| raad_boerneraadet
     bek_raad_paa_det_sociale_omraade -->|hjemmel_for| raad_det_centrale_handicapraad
     sty_ankestyrelsen -->|klageinstans| naevn_boerne_og_ungeudvalg
-    dom_byretterne -.->|klageinstans| sty_ankestyrelsen
+    dom_byretterne -.->|domstolsproevelse| sty_ankestyrelsen
     sty_ankestyrelsen -->|klageinstans| tilsyn_socialtilsynene
     lov_socialtilsynsloven -->|henviser_til| lov_retssikkerhedsloven_social
     lov_voksenansvarsloven -->|henviser_til| lov_retssikkerhedsloven_social
@@ -208,7 +208,7 @@ flowchart LR
     lov_familieretshusloven -->|henviser_til| lov_bidragsopkraevningsloven
     lov_familieretshusloven -->|henviser_til| lov_boerneloven
     lov_familieretshusloven -->|henviser_til| lov_navneloven
-    dom_byretterne -->|klageinstans| sty_familieretshuset
+    dom_byretterne -->|domstolsproevelse| sty_familieretshuset
     sty_civilstyrelsen -->|klageinstans| sty_familieretshuset
     sty_familieretshuset -->|udsteder| kilde_familieretshuset_lovsamling
     lov_foraeldreansvarsloven -->|hjemmel_for| bek_adoption

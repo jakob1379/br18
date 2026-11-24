@@ -55,7 +55,7 @@ flowchart LR
     naevn_udlaendingenaevnet -->|klageinstans| sty_hjemrejsestyrelsen
     naevn_flygtningenaevnet -->|klageinstans| sty_udlaendingestyrelsen
     sty_ankestyrelsen -.->|klageinstans| sty_udlaendingestyrelsen
-    dom_byretterne -.->|klageinstans| naevn_udlaendingenaevnet
+    dom_byretterne -.->|domstolsproevelse| naevn_udlaendingenaevnet
     ombud_folketingets_ombudsmand -.->|tilsyn| sty_hjemrejsestyrelsen
     naevn_udlaendingenaevnet -->|udsteder| kilde_udln_praksis
     naevn_udlaendingenaevnet -->|udsteder| kilde_udln_aarsberetninger

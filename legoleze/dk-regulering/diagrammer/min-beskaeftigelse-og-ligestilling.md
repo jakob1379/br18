@@ -204,7 +204,7 @@ flowchart LR
     bek_vibrationer -.->|implementerer_EU| eu_dir_2002_44
     lov_arbejdsmiljoeloven -->|implementerer_EU| eu_dir_1989_391
     lov_offshoresikkerhedsloven -->|implementerer_EU| eu_dir_2013_30
-    dom_domstolene -->|klageinstans| naevn_arbejdsmiljoeklagenaevnet
+    dom_domstolene -->|domstolsproevelse| naevn_arbejdsmiljoeklagenaevnet
     naevn_arbejdsmiljoeklagenaevnet -->|klageinstans| sty_arbejdstilsynet
     sty_ankestyrelsen -->|klageinstans| org_udbetaling_danmark
     min_beskaeftigelse_og_ligestilling -->|ressortansvar| lov_arbejdsmiljoeloven

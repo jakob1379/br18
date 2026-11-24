@@ -90,6 +90,7 @@ FODNOTE = "fodnote"
 XMLTEKST = "xml-tekst"
 SAMFOREKOMST = "tekst-samforekomst"
 BESTEMMELSE = "bestemmelse"
+PROEVELSE = "domstolsproevelse"
 TYPER = {"Anordningsbekendtgørelse": "bekendtgørelse-af-anordning"}
 LOVE = ("lov", "lovbekendtgørelse")
 FORSKRIFTER = {"bekendtgørelse", "ændringsbekendtgørelse", "ikrafttrædelsesbekendtgørelse", "anordning", "ændringsanordning", "ikrafttrædelsesanordning",
@@ -278,6 +279,26 @@ TILSYN_AF = re.compile(r"\b(?:tilsyn|kontrol)(?:et|len)?\b[^.;]{0,120}?\b(?:før
 KONTROL = re.compile(r"\b(?:(?:kan|skal)\s+)?(?:(?:påser?|kontrollerer?)(?!\s+ikke\b)(?=(?:(?!,\s+(?:og|men|eller|samt)\s).)*?\b(?:at\b.*?\b)?(?:overhold|efterlev|lovlig))|er\s+(?:(?!ikke\b)\w+\s+){0,2}?tilsynsmyndighed(?:en)?)\b|(?<=s)\s+(?:tilsyn|kontrol)\s+med\b",
                      re.IGNORECASE)
 LED = (KLAGE, BEHANDLER, TILSYN, TILSYN_AF, KONTROL)
+UBESTEMT = ("dom-domstolene", "retten")
+RETSVERBUM = r"indbringe[sr]?|indbragt|prøve[st]|forelagt|forelægges"
+DOMSTOLSLED = re.compile(rf"\b(?P<v>{RETSVERBUM})\b(?P<m>(?:(?!\b(?:{RETSVERBUM})\b)[^.;]){{0,200}}?)(?:\b(?:for|ved|af)|(?<=forelagt)|(?<=forelægges))\s+"
+                         r"(?=(?:(?:de|den|en)\s+)?(?:almindelige\s+|særlige\s+|københavns\s+|østre\s+|vestre\s+)?(?:\w+-\s+og\s+)?\w*(?:domstol|ret(?:ten|terne)?\b))", re.IGNORECASE)
+RET = {"retten": "retten", "den ret": "retten", "byretten": "dom-byretterne", "byret": "dom-byretterne", "københavns byret": "dom-byretterne", "landsretten": "dom-landsretterne",
+       "landsret": "dom-landsretterne", "østre landsret": "dom-landsretterne", "vestre landsret": "dom-landsretterne", "almindelige domstole": "dom-domstolene",
+       "familieretten": "dom-byretterne", "familieret": "dom-byretterne"}
+KRAEVER = re.compile(r"\b(?:forlange|kræve|begære)s?\b(?:,\s+at\b[^,]*|[^;]{0,160})$", re.IGNORECASE)
+BISAETNING = re.compile(r"\s*(?:hvis|såfremt|når|uanset\s+(?:om|at)|indtil|medmindre)\b(?!.*,\s+(?:kan|skal)\b)", re.IGNORECASE)
+BEMYNDIGELSE = re.compile(r"\bfastsætte[rs]?\b[^.;]*\b(?:regler|bestemmelser)\b|\b(?:regler|bestemmelser)\s+om\b", re.IGNORECASE)
+BETINGET = re.compile(r"\b(?:hvis|såfremt|når|(?:inden|før)(?!\s+(?:\d|for\b|en\b|et\b|to\b|tre\b|fire\b|fem\b|seks\b|otte\b))|medmindre|indtil|hvorvidt|uanset om)\b|\b(?:der|som|hvor|(?<!efter )at)\b(?![^,]*\b(?:kan|skal)\b)", re.IGNORECASE)
+GRAENSE = re.compile(r"\b(?:ikke|først|tidligst|kun|på ny|fornyet)\b", re.IGNORECASE)
+RETSMIDDEL = re.compile(r"\b(?:kære|anke(?!styrelse|nævn))", re.IGNORECASE)
+RETSAFGJORT = re.compile(r"\bdom(?:me|men|mens)?\b|(?<!skatte)rette(?:n|r)s\s+(?:afgørelse|beslutning|kendelse)", re.IGNORECASE)
+PRIVAT = re.compile(r"\b(?:skønsm[aæ]nd|revisor)(?:en|er|erne|ene)?s\s+(?:afgørelse|vurdering)", re.IGNORECASE)
+KLAGER_OVER = re.compile(r"\bklager?\s+over\b.*?(?=\b(?:kan|skal)\b|$)", re.IGNORECASE)
+RETSSAG = re.compile(r"\bsagen\b", re.IGNORECASE)
+TIL_AFGOERELSE = re.compile(r"\btil\s+afgørelse\b", re.IGNORECASE)
+AFGJORT = re.compile(r"\b(?:afgørelse|beslutning|påbud|forbud|afslag|afslå|pålæg|tilbagekaldelse|inddragelse|fratagelse|frihedsberøvelse|kendelse|lovlighed)", re.IGNORECASE)
+FRIST = re.compile(r"\b(?:senest|inden)\b[^.;]{0,80}?\b(?:dage|uger?|måned(?:er)?|år|døgn|søgnedage)\b", re.IGNORECASE)
 TILBAGE = {"styrelsens": "sty-", "nævnets": "naevn-", "tilsynets": "tilsyn-"}
 AFGOERELSE = {"afgørelse", "afgørelsen", "afgørelser", "afgørelserne"}
 OVERGANG = re.compile(r"\bfærdigbehandles\b", re.IGNORECASE)
@@ -308,16 +329,31 @@ def laeser(reg: dict):
     """(klager, tilsyn, ukendte): tre funktioner, der læser én sætning mod registry'ets instansnavne (myndigheder, med ALIAS og genitiv-s).
     klager(sætning) giver [(klageinstans, afgørende myndighed eller None)] for "kan påklages til X", "kan indbringes for X", "klage til X",
     "ikke … anden administrativ myndighed end X" og "X behandler klager"; ikke for "kan ikke påklages til X", ikke for domstolene under ét, ikke når
-    det er en sag eller en tvist, der indbringes, ikke for en sætning, der opregner andre forskrifter, ikke i en overgangsregel ("færdigbehandles") og ikke for en dom, der ankes til
-    en domstol. De afgørende myndigheder er instanserne i samme sætning i formen "X's afgørelser" (ikke et sammensat ord som "X's afgørelseskompetence")
+    det er en sag eller en tvist, der indbringes, ikke for en sætning, der opregner andre forskrifter, ikke i en overgangsregel ("færdigbehandles") og ikke for det, der ankes til
+    eller indbringes for en domstol (det sidste er domstolsprøvelse, ikke klage; "kan påklages til" en domstol er stadig klage). De afgørende myndigheder er instanserne i samme sætning i formen "X's afgørelser" (ikke et sammensat ord som "X's afgørelseskompetence")
     eller "truffet af X", og en instans, der står lige efter en af dem med "og" eller "eller"; én tupel pr. afgørende myndighed. tilsyn(sætning) giver instanserne i "X fører tilsyn",
     "X kan føre kontrol", "fører X tilsyn", "tilsynet føres af X", "X påser, at", "X kontrollerer", "kontrollerer X" (efter et komma
     eller uden instans foran), "X er tilsynsmyndighed" og "X's kontrol (tilsyn) med" (ikke "til brug for X's tilsyn med"), hvor "styrelsens", "nævnets" og "tilsynets" er den sidste
     styrelse, det sidste nævn eller tilsyn (også en instans, hvis navn ender på "tilsynet"), sætningen har nævnt før; "påser" og "kontrollerer" kun, når verbets sætningsled
     eller den at-sætning, der følger det, taler om at overholde eller efterleve noget, eller om lovlighed; ikke "påser ikke", "er ikke tilsynsmyndighed", "fører ikke tilsyn" og "fører hverken tilsyn".
-    ukendte(sætning) giver navnet (frase) de steder, hvor klager eller tilsyn venter en instans, men ikke finder én i registry'et."""
+    ukendte(sætning) giver navnet (frase) de steder, hvor klager eller tilsyn venter en instans, men ikke finder én i registry'et.
+    proevelse(sætning) giver [(domstol, afgørende myndighed eller None)], hvor sætningen giver en særlig vej til en domstol for en afgørelse (DOMSTOLSLED: indbringes for,
+    forlanges indbragt for, prøvet af eller ved, forelægges): "kan (af X) indbringes for boligretten", "kan forlanges (kræves, begæres) indbragt for domstolene", "skal på begæring
+    indbringes for domstolene af anklagemyndigheden", "indbringes efter anmodning for retten", "kan kræve, at beslutningen forelægges retten". Domstolen er en domstolsnode, en af formerne
+    i RET (familieretten er byretten, jf. registry'ets kant fra byretterne til Familieretshuset) eller "retten": den, der kalder, sætter "retten" til den ene bestemte domstol, dokumentets
+    øvrige veje og procesregler nævner, og ellers til domstolene under ét. Domstolene under ét og "retten" er kun med, når sætningen har et krav ("forlanges indbragt"), en pligt
+    (skal, eller nutid uden "kan") eller en frist (FRIST); "kan indbringes for domstolene" alene er den almindelige adgang efter grundlovens § 63. Ikke med: sætninger uden et ord for en afgørelse
+    (AFGJORT; "sager kan indbringes for Arbejdsretten"), grænser (GRAENSE: ikke, først, tidligst, kun, på ny), betingelses- og relativsætninger (BETINGET, BISAETNING: "hvis afgørelsen indbringes",
+    "inden sagen indbringes", "fristen for at indbringe", "Indbringes afgørelsen …,"), bemyndigelser til at fastsætte regler (BEMYNDIGELSE) og vejen fra én domstol til en anden (RETSMIDDEL: anke og
+    kære; RETSAFGJORT: en dom eller rettens afgørelse; PRIVAT: skønsmænds og revisorers afgørelse i en tvist mellem private) og "til afgørelse" som eneste ord for en afgørelse
+    (retten afgør sagen i første instans). Læsningen begynder ved det sidste verbum før domstolen ("kan ikke indbringes for anden administrativ myndighed, men kan forlanges indbragt
+    for domstolene" er en vej). Den afgørende myndighed læses som i klager, uden det, der
+    står efter "klager over" ("Ankestyrelsens afgørelse i sager om klager over afgørelser truffet af X": kun Ankestyrelsen). led="sag" giver i stedet tillæggene: de sætninger, hvor det er
+    sagen, der indbringes ("Sagen indbringes for retten af styrelsen"; ikke "til afgørelse", hvor retten afgør sagen i første instans), og dem, hvor en afgørelse kan indbringes for "retten"
+    uden krav, pligt eller frist. De tæller kun sammen med en vej fra samme dokument til samme domstol."""
     navne = {**{k: v[0] for k, v in myndigheder(reg).items()}, **ALIAS}
     laengde = max(len(k.split()) for k in navne)
+    retter = {**{k: v for k, v in navne.items() if v.startswith("dom-")}, **{k: v for k, v in RET.items() if v in {"retten"} | {n["id"] for n in reg["nodes"]}}}
 
     def ved(w: list[str], i: int) -> tuple[str | None, int, bool]:
         for n in range(min(laengde, len(w) - i), 0, -1):
@@ -359,7 +395,7 @@ def laeser(reg: dict):
         klage = [] if ophaever or OVERGANG.search(saetning) else [
             *((saetning[m.end():], False) for m in KLAGE.finditer(saetning)
               if (m["end"] or not (re.search(r"\bikke\b[^,]{0,40}$", saetning[:m.start()]) or re.search(r"\bikke\b", m["m"] or "") or SAG.search(saetning[:m.end()])))
-              and not (m[0][:4].lower() == "anke" and (foerst(saetning[m.end():]) or "").startswith("dom-"))),
+              and not (m[0][:4].lower() in ("anke", "indb") and (foerst(saetning[m.end():]) or "").startswith("dom-"))),
             *((saetning[:m.start()], True) for m in BEHANDLER.finditer(saetning))]
         tils = [(m["m"], False) if len(m["m"].split()) > 2 or foerst(m["m"]) else (saetning[:m.start()], True) for m in TILSYN.finditer(saetning)]
         paa = [(saetning[m.end():], False) if m[0].lower().endswith(("påse", "påser", "kontrollere", "kontrollerer")) and (saetning[:m.start()].rstrip().endswith(",")
@@ -377,7 +413,32 @@ def laeser(reg: dict):
     def ukendte(saetning: str) -> list[str]:
         return [f for f in dict.fromkeys(frase(*x) for led in steder(saetning) for x in led if not navn(*x)) if f]
 
-    return klager, tilsyn, ukendte
+    def ret(tekst: str) -> str | None:
+        w = P.norm(tekst[:80]).split()
+        til = next((retter[k] for a in range(1 + (w[:1] in (["de"], ["den"], ["en"]))) for n in (3, 2, 1) if (k := " ".join(w[a:a + n])) in retter), None)
+        return None if til == "retten" and w[1:3] == ["til", "at"] else til
+
+    def proevelse(saetning: str, led: str = "afgoerelse") -> list[tuple[str, str | None]]:
+        ud = []
+        for m in DOMSTOLSLED.finditer(saetning):
+            til, foer, hertil, v = ret(saetning[m.end():]), saetning[:m.start()], saetning[:m.end()], m["v"].lower()
+            if not til:
+                continue
+            sidst, modal = foer.rsplit(",", 1)[-1], list(re.finditer(r"\b(?:kan|skal|kunne)\b", foer, re.IGNORECASE))
+            krav = bool(re.search(r"\bkan\b", foer, re.IGNORECASE) and KRAEVER.search(foer))
+            maade = krav or v not in ("indbragt", "prøvet", "forelagt") and bool(foer.strip()) and not BETINGET.search(sidst) and sidst.strip() not in ("eller", "og") and (
+                bool(modal) or v in ("indbringes", "indbringer", "forelægges"))
+            pligt = not krav and (not modal or modal[-1][0].lower() == "skal")
+            efter = foer[modal[-1].start():].split(",")[0] if modal else ""
+            saerlig = til not in UBESTEMT or krav or pligt or bool(FRIST.search(saetning))
+            afgjort = AFGJORT.search(TIL_AFGOERELSE.sub("", hertil))
+            emne = afgjort and saerlig if led == "afgoerelse" else RETSSAG.search(hertil) and saerlig and not TIL_AFGOERELSE.search(saetning) or til == "retten" and afgjort
+            if (maade and emne and not RETSMIDDEL.search(saetning) and not RETSAFGJORT.search(hertil) and not PRIVAT.search(saetning)
+                    and not BISAETNING.match(foer) and not BEMYNDIGELSE.search(hertil) and not GRAENSE.search(f"{efter} {sidst} {m['m']}")):
+                ud += [(til, a) for a in [x for x in afgoerer(KLAGER_OVER.sub("", saetning), til) if not x.startswith("dom-")] or [None]]
+        return list(dict.fromkeys(ud))
+
+    return klager, tilsyn, ukendte, proevelse
 
 
 EUNAEVNT = re.compile("|".join(r.pattern for r in (X.R_DIR, X.R_REG_OLD, X.R_REG_NEW, X.R_DEC)), re.IGNORECASE)
@@ -434,7 +495,7 @@ def udstederkant(d: dict, node: str, nuvaerende: bool) -> dict:
 
 
 def bestemmelseskant(d: dict, node: str, type_: str, udsagn: dict, senere: list[str]) -> dict:
-    """Klageinstans- eller tilsynskanten fra node til dokumentet d, læst i dets egne bestemmelser (udsagn: her er (bestemmelse, sætning)-parrene,
+    """Klageinstans-, tilsyns- eller domstolsprøvelseskanten fra node til dokumentet d, læst i dets egne bestemmelser (udsagn: her er (bestemmelse, sætning)-parrene,
     afgoerelse_af de myndigheder, hvis afgørelser klagen gælder; senere: senere_aendret). Er d ikke gældende efter katalogets status (pr. statusdatoen),
     får kanten dokumentstatus med dokumentets status, så den kan frasorteres uden opslag i dokumentet."""
     return {"from": node, "type": type_, "to": d["id"], "beskrivelse": udsagn["her"][0][1][:400], "kilder": d["kilder"][:1], "sikkerhed": "sandsynlig",
@@ -863,7 +924,7 @@ def katalog() -> dict:
                 kanter.append({"from": i, "type": "henviser_til", "to": c, "beskrivelse": f"nævner dokumentet (nr. og dato) {n} gang(e) i den hentede tekst",
                                "kilder": d["kilder"][:1], "sikkerhed": "verificeret", "metode": XMLTEKST,
                                **({"gaeldende_version": gv} if (gv := ids[c].get("gaeldende_version")) else {})})
-    klager, tilsyn, _ = laeser(reg)
+    klager, tilsyn, _, proevelse = laeser(reg)
     tidslinje_for = {i: tl for tl in tls for i in lovversioner(tl)}
     for t in hentet:
         led = collections.defaultdict(lambda: collections.defaultdict(list))
@@ -873,11 +934,24 @@ def katalog() -> dict:
                 led[til, "klageinstans"]["her"].append((par, saetning))
             for myndighed in tilsyn(saetning):
                 led[myndighed, "tilsyn"]["her"].append((par, saetning))
+        retsled = t.get("domstol", []) if t["id"].startswith("lta-") and ids[t["id"]].get("dokumentrolle") == "hoved" else []
+        navngivne = {til for _, saetning in retsled for led_ in ("afgoerelse", "sag") for til, _ in proevelse(saetning, led_)} - {"retten", "dom-domstolene"}
+        retten = {"retten": next(iter(navngivne)) if len(navngivne) == 1 else "dom-domstolene"}
+        for par, saetning in retsled:
+            for til, fra in proevelse(saetning):
+                led[retten.get(til, til), PROEVELSE]["afgoerelse_af"] += [fra] if fra else []
+                led[retten.get(til, til), PROEVELSE]["her"].append((par, saetning))
+        for par, saetning in retsled:
+            for til, fra in proevelse(saetning, "sag"):
+                if (noegle := (retten.get(til, til), PROEVELSE)) in led and (par, saetning) not in led[noegle]["her"]:
+                    led[noegle]["afgoerelse_af"] += [fra] if fra else []
+                    led[noegle]["her"].append((par, saetning))
         senere = senere_aendret(ids[t["id"]]["datoer"].get("udstedt", ""), tidslinje_for.get(t["id"]), eks.get(t["id"], {}).get("SenereAendringer"), ids) if led else []
         kanter += [bestemmelseskant(ids[t["id"]], node, type_, udsagn, senere) for (node, type_), udsagn in led.items() if (node, type_, t["id"]) not in findes]
     stats["klageinstans fra dokumentets bestemmelser"] = sum(e.get("metode") == BESTEMMELSE and e["type"] == "klageinstans" for e in kanter)
-    stats["heraf med afgørende myndighed"] = sum(e.get("metode") == BESTEMMELSE and "afgoerelse_af" in e for e in kanter)
+    stats["heraf med afgørende myndighed"] = sum(e.get("metode") == BESTEMMELSE and e["type"] == "klageinstans" and "afgoerelse_af" in e for e in kanter)
     stats["tilsyn fra dokumentets bestemmelser"] = sum(e.get("metode") == BESTEMMELSE and e["type"] == "tilsyn" for e in kanter)
+    stats["domstolsproevelse fra dokumentets bestemmelser"] = sum(e.get("metode") == BESTEMMELSE and e["type"] == PROEVELSE for e in kanter)
     stats["heraf klage og tilsyn fra en tekst, der siden er ændret"] = sum(e.get("metode") == BESTEMMELSE and "senere_aendret_ved" in e for e in kanter)
     stats["heraf klage og tilsyn fra et dokument, der ikke er gældende"] = sum(e.get("metode") == BESTEMMELSE and "dokumentstatus" in e for e in kanter)
     stats["implementerer_EU fra fodnoter"] = sum(e.get("metode") == FODNOTE for e in kanter)
@@ -1027,7 +1101,7 @@ def selftest() -> None:
     assert fam[4]["afloeser_mangler"] and fam[5]["afloeser_mangler"] and "afloeser_mangler" not in fam[1]
     tl = [{"href": "/eli/lta/1998/452", "documentTypeId": 30}, {"href": "/eli/lta/2001/228", "documentTypeId": 20}, {"href": "/eli/lta/1996/485", "documentTypeId": 10, "isMainLaw": False},
           {"href": "/eli/lta/1975/323", "documentTypeId": 10, "isMainLaw": True}, {"href": None, "documentTypeId": 30}]
-    klager, tilsyn, _ = laeser({"nodes": [{"id": "naevn-frugt", "type": "nævn", "navn": "Frugtklagenævnet"}, {"id": "sty-aeble", "type": "styrelse", "navn": "Æblestyrelsen"},
+    klager, tilsyn, _, _ = laeser({"nodes": [{"id": "naevn-frugt", "type": "nævn", "navn": "Frugtklagenævnet"}, {"id": "sty-aeble", "type": "styrelse", "navn": "Æblestyrelsen"},
                                        {"id": "dom-domstolene", "type": "domstol", "navn": "Domstolene"}, {"id": "naevn-ae-og-p", "type": "nævn", "navn": "Æble- og Pærenævnet"}]})
     for saetning, ventet in (("Æblestyrelsens afgørelser efter § 4 kan påklages til Frugtklagenævnet.", [("naevn-frugt", "sty-aeble")]),
                              ("Afgørelser efter bekendtgørelsen kan indbringes for Æble- og Pærenævnet inden 4 uger.", [("naevn-ae-og-p", None)]),
@@ -1062,7 +1136,7 @@ def selftest() -> None:
                              ("Kommunalbestyrelsen skal give de oplysninger, der har betydning for styrelsens kontrol med, at vilkårene overholdes.", []), ("Avlerens kontrol med egen frugt dokumenteres.", []),
                              ("Afgørelsen sendes desuden til Æblestyrelsen til brug for Æblestyrelsens tilsyn med frugt efter frugtloven.", [])):
         assert tilsyn(saetning) == ventet, (saetning, tilsyn(saetning))
-    klager, tilsyn, ukendte = laeser({"nodes": [{"id": "naevn-frugt", "type": "nævn", "navn": "Frugtklagenævnet"}, {"id": "min-ae", "type": "ministerium", "navn": "Æbleministeriet",
+    klager, tilsyn, ukendte, _ = laeser({"nodes": [{"id": "naevn-frugt", "type": "nævn", "navn": "Frugtklagenævnet"}, {"id": "min-ae", "type": "ministerium", "navn": "Æbleministeriet",
                                                 "tidligere_navne": [{"navn": "Frugt- og Bærministeriet"}]}, {"id": "min-p", "type": "ministerium", "navn": "Ministeriet for Pærer"}]})
     for saetning, ventet in (("Afgørelser kan påklages til Pærestyrelsen inden 4 uger.", ["pærestyrelsen"]), ("Afgørelser kan påklages til Frugtklagenævnet.", []),
                              ("Afgørelser efter § 4 kan ikke påklages til Pærestyrelsen.", []), ("Styrelsen for Pæresikkerhed behandler klager over afgørelser.", ["styrelsen for pæresikkerhed"]),
@@ -1080,7 +1154,60 @@ def selftest() -> None:
     assert ft("Avleren giver Frugttilsynet og Pærestyrelsen de oplysninger, der har betydning for tilsynets kontrol med, at vilkårene overholdes.") == ["sty-frugttilsynet"]
     ret = laeser({"nodes": [{"id": "dom-hoejesteret", "type": "domstol", "navn": "Højesteret"}, {"id": "naevn-frugt", "type": "nævn", "navn": "Frugtklagenævnet"}]})[0]
     assert ret("Dommen kan ankes til Højesteret.") == [] == ret("Fristen for ansøgning om tilladelse til anke til Højesteret er udløbet.")
-    assert ret("Klagerettens afgørelse kan indbringes for Højesteret efter reglerne om kære.") == [("dom-hoejesteret", None)] and ret("Afgørelsen kan ankes til Frugtklagenævnet.") == [("naevn-frugt", None)]
+    assert ret("Klagerettens afgørelse kan indbringes for Højesteret efter reglerne om kære.") == [] and ret("Afgørelsen kan ankes til Frugtklagenævnet.") == [("naevn-frugt", None)]
+    assert ret("Frugtklagenævnets afgørelse kan indbringes for Højesteret.") == [] and ret("En advarsel kan påklages til Højesteret.") == [("dom-hoejesteret", None)]
+    proevelse = laeser({"nodes": [{"id": "dom-hoejesteret", "type": "domstol", "navn": "Højesteret"}, {"id": "naevn-frugt", "type": "nævn", "navn": "Frugtklagenævnet"},
+                                  {"id": "dom-domstolene", "type": "domstol", "navn": "Domstolene (byret, landsret, Højesteret)"}, {"id": "dom-byretterne", "type": "domstol", "navn": "Byretterne"},
+                                  {"id": "dom-soe", "type": "domstol", "navn": "Sø- og Handelsretten"}]})[3]
+    for saetning, ventet in (("Frugtklagenævnets afgørelse kan af hver af parterne indbringes for Højesteret.", [("dom-hoejesteret", "naevn-frugt")]),
+                             ("En afgørelse efter stk. 1 kan af den, afgørelsen vedrører, forlanges indbragt for domstolene.", [("dom-domstolene", None)]),
+                             ("Afgørelsen kan indbringes for domstolene.", []), ("Afgørelsen kan indbringes for domstolene senest 8 uger efter, at den er meddelt.", [("dom-domstolene", None)]),
+                             ("Afgørelser kan ikke indbringes for domstolene, før den endelige administrative afgørelse foreligger.", []),
+                             ("Hvis afgørelsen indbringes for domstolene, kan offentliggørelse ikke ske.", []), ("Indbringes afgørelsen for byretten, skal nævnet orienteres.", []),
+                             ("Klageren vejledes om fristen for at indbringe afgørelsen for domstolene.", []), ("Sager om æbler kan indbringes for Sø- og Handelsretten.", []),
+                             ("Klagerettens afgørelse kan indbringes for Højesteret efter reglerne om kære.", []), ("Byrettens afgørelse kan indbringes for Højesteret.", []),
+                             ("En afgørelse om tilbagekaldelse skal på begæring indbringes for domstolene af anklagemyndigheden.", [("dom-domstolene", None)]),
+                             ("Tilsynsmyndighedens afgørelse om forlængelse indbringes efter anmodning fra den dømte for retten.", [("retten", None)]),
+                             ("Politiet skal, hvis blokeringen ikke ophæves, inden 24 timer indbringe spørgsmålet om lovligheden af beslutningen for byretten.", [("dom-byretterne", None)]),
+                             ("Den, hvis førerret er inddraget, kan forlange inddragelsen prøvet af retten.", [("retten", None)]),
+                             ("Klageren kan kræve Frugtklagenævnets afgørelse forelagt retten.", [("retten", "naevn-frugt")]),
+                             ("Afgørelser efter § 112 kan ikke på ny indbringes for retten.", []), ("Afslag kan tidligst indbringes for domstolene 1 år efter afgørelsen.", []),
+                             ("Udlændingen kan kræve, at politiets beslutning om isolation forelægges retten til afgørelse.", [("retten", None)]),
+                             ("Afgørelsen kan indbringes for Sø- og Handelsretten.", [("dom-soe", None)]), ("Afgørelsen om retten til at føre skib kan prøves af retten til at føre skib.", []),
+                             ("Uanset om den pågældende har krævet afgørelsen forelagt for retten, anses forældrene som parter.", []),
+                             ("Hvis en afgørelse, som er sendt til nævnet, påklages eller indbringes for domstolene inden 4 uger, skal nævnet orienteres.", []),
+                             ("Hvis ansøgningen afslås, kan ansøgeren forlange afgørelsen prøvet ved domstolene.", [("dom-domstolene", None)]),
+                             ("Der kan beskikkes en advokat for den, der kræver en afgørelse om opholdsforbud indbragt for retten.", []),
+                             ("Ministeren kan fastsætte regler om, at tilbagekaldelse skal kunne forlanges indbragt for domstolene.", []),
+                             ("Offentliggøres afgørelsen inden fristens udløb, eller indbringes afgørelsen for domstolene, skal det fremgå.", []),
+                             ("Modtager nævnet anmodning om, at afgørelsen prøves af retten, indbringer nævnet afgørelsen for retten.", [("retten", None)]),
+                             ("Afslår ministeren at meddele beskikkelse, kan den pågældende forlange spørgsmålet indbragt for retten.", [("retten", None)]),
+                             ("Påbud kan af virksomheden og den person, som påbuddet vedrører, forlanges indbragt for domstolene.", [("dom-domstolene", None)])):
+        assert proevelse(saetning) == ventet, (saetning, proevelse(saetning))
+    for saetning, ventet in (("Er den indsatte overført, kan sagen i stedet indbringes for byretten i den retskreds, hvor institutionen ligger.", [("dom-byretterne", None)]),
+                             ("Er den dømte ikke frihedsberøvet, indbringes sagen for byretten.", [("dom-byretterne", None)]), ("Sagen kan indbringes for domstolene.", []), ("Sagen kan indbringes for retten.", []),
+                             ("Æblestyrelsen indbringer sagen for domstolene inden 4 uger efter modtagelse af anmodning herom.", [("dom-domstolene", None)]),
+                             ("Hvis beløbet ikke er betalt, indbringer selskabet sagen for domstolene.", []), ("Sagen kan ikke indbringes for retten.", []),
+                             ("Frugtklagenævnets afgørelse kan indbringes for retten af den sagkyndige.", [("retten", "naevn-frugt")]),
+                             ("Styrelsen skal indbringe sagen for byretten til afgørelse efter kapitel 13.", [])):
+        assert proevelse(saetning) == [] and proevelse(saetning, "sag") == ventet, (saetning, proevelse(saetning, "sag"))
+    for saetning, ventet in (("Afgørelser truffet af sekretariatet vil i lighed med andre afgørelser kunne indbringes for retten.", []), ("Skønsmændenes afgørelse kan indbringes for byretten.", []),
+                             ("Frugtklagenævnets afgørelse i sager om klager over afgørelser truffet af kommunalbestyrelsen kan inden 4 uger kræves forelagt for retten.", [("retten", "naevn-frugt")]),
+                             ("Nævnets afgørelse kan indbringes for retten af den sagkyndige.", []), ("Nævnets afgørelse kan inden 4 uger indbringes for retten.", [("retten", None)]),
+                             ("Styrelsens afgørelse efter § 5 kan indbringes for familieretten.", [("dom-byretterne", None)]),
+                             ("Frugtklagenævnets afgørelse kan af den sagkyndige indbringes eller begæres indbragt for retten.", [("retten", "naevn-frugt")]),
+                             ("En afgørelse kan ikke indbringes for anden administrativ myndighed, men kan af den, afgørelsen vedrører, forlanges indbragt for domstolene.", [("dom-domstolene", None)]),
+                             ("Afgørelser efter kapitel 2 kan alene indbringes for Københavns Byret.", [("dom-byretterne", None)]), ("Afgørelsen kan inden 4 uger indbringes for byretterne.", [("dom-byretterne", None)]),
+                             ("Styrelsens afgørelse kan af den dømte forlanges indbragt for den ret, der har påkendt sagen.", [("retten", None)]),
+                             ("Politiets nægtelse af at ophæve et pålæg skal efter begæring forelægges retten.", [("retten", None)]),
+                             ("Nævnets afgørelse kan senest 4 uger efter at den er meddelt indbringes for byretten.", [("dom-byretterne", None)]),
+                             ("Uanset stk. 1 kan nævnets afgørelse indbringes for byretten.", [("dom-byretterne", None)]),
+                             ("Frugtklagenævnets afgørelse kan af den sagkyndige forlanges indbragt for retten.", [("retten", "naevn-frugt")]),
+                             ("Afgørelsen kan indbringes for retten senest 2 uger efter modtagelsen af revisorernes afgørelse.", []),
+                             ("Styrelsen skal indbringe sagen til afgørelse for byretten efter kapitel 13.", [])):
+        assert proevelse(saetning) == ventet, (saetning, proevelse(saetning))
+    assert proevelse("Sagen kan efter ankefristens udløb indbringes for byretten.", "sag") == [] == proevelse("Er der strid mellem flere retters afgørelser, kan det indbringes for byretten.")
+    assert proevelse("Ankenævnets afgørelse kan indbringes for byretten.") == [("dom-byretterne", None)]
     kirke = {"nodes": [{"id": "min-by-land-og-kirke", "type": "ministerium", "navn": "By-, Land- og Kirkeministeriet", "status": "nedlagt", "tidligere_navne": [{"navn": "Kirkeministeriet"}]}]}
     assert laeser(kirke)[1]("Kirkeministeren fører tilsyn med provstiudvalgene.") == ["min-sundhed-og-kirke"] and laeser(kirke)[1]("Direktoratet for Kriminalforsorgen fører tilsyn.") == ["sty-danmarks-faengsler"]
     assert laeser(kirke)[0]("Afgørelsen kan påklages til Styrelsen for Danmarks Fængsler.") == [("sty-danmarks-faengsler", None)]

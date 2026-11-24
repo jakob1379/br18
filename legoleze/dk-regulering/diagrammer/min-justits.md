@@ -193,7 +193,7 @@ flowchart LR
     lov_databeskyttelsesloven -.->|henviser_til| eu_reg_2016_679
     lov_retshaandhaevelsesloven -->|implementerer_EU| eu_dir_2016_680
     sty_domstolsstyrelsen -.->|tilsyn| dom_domstolene
-    dom_domstolene -.->|klageinstans| tilsyn_datatilsynet
+    dom_domstolene -.->|domstolsproevelse| tilsyn_datatilsynet
     tilsyn_datatilsynet -->|udsteder| kilde_datatilsynet_afgoerelser
     tilsyn_datatilsynet -->|udsteder| kilde_datatilsynet_vejledninger
     min_justits -.->|ressortansvar| sty_rigspolitiet
@@ -223,7 +223,7 @@ flowchart LR
     sty_statsadvokaterne -.->|klageinstans| sty_politikredsene
     sty_rigsadvokaten -.->|klageinstans| sty_statsadvokaterne
     sty_ankestyrelsen -->|klageinstans| naevn_ungdomskriminalitetsnaevnet
-    dom_byretterne -->|klageinstans| sty_danmarks_faengsler
+    dom_byretterne -->|domstolsproevelse| sty_danmarks_faengsler
     sty_rigspolitiet -->|tilsyn| sty_politikredsene
     sty_statsadvokaterne -->|tilsyn| sty_politikredsene
     sty_rigsadvokaten -->|tilsyn| sty_statsadvokaterne

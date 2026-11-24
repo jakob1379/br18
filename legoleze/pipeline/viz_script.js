@@ -65,12 +65,12 @@ const domsOf = n => n.dom && n.dom.length ? n.dom : ['_ingen'];
 const ETYPES = [
   ['ressortansvar', 'ressortansvar', 'ministerium → instans/lov'], ['delegation', 'delegation', 'ministerium/styrelse → styrelse/kommune'],
   ['hjemmel_for', 'hjemmel for', 'lov/bek. → bek./vejledning/instans/plan'], ['udsteder', 'udsteder', 'instans → retsakt/vejledning/kilde'],
-  ['klageinstans', 'klageinstans', 'klageinstans → førsteinstans'], ['tilsyn', 'tilsyn', 'tilsynsmyndighed → tilsynsobjekt'],
+  ['klageinstans', 'klageinstans', 'klageinstans → førsteinstans'], ['domstolsproevelse', 'domstolsprøvelse', 'domstol → instans/lov'], ['tilsyn', 'tilsyn', 'tilsynsmyndighed → tilsynsobjekt'],
   ['implementerer_EU', 'gennemfører EU', 'dansk retsakt → EU-retsakt'], ['henviser_til', 'henviser til', 'dokument → dokument'],
 ];
 const ET_LABEL = Object.fromEntries(ETYPES.map(e => [e[0], e[1]]));
-const ET_OUT = { ressortansvar: 'har ressort for', delegation: 'delegerer til', hjemmel_for: 'giver hjemmel til', udsteder: 'udsteder', klageinstans: 'klageinstans for', tilsyn: 'fører tilsyn med', implementerer_EU: 'gennemfører', henviser_til: 'henviser til' };
-const ET_IN = { ressortansvar: 'ressort hos', delegation: 'delegeret fra', hjemmel_for: 'hjemmel i', udsteder: 'udstedt af', klageinstans: 'påklages til', tilsyn: 'under tilsyn af', implementerer_EU: 'gennemført ved', henviser_til: 'omtalt i' };
+const ET_OUT = { ressortansvar: 'har ressort for', delegation: 'delegerer til', hjemmel_for: 'giver hjemmel til', udsteder: 'udsteder', klageinstans: 'klageinstans for', domstolsproevelse: 'prøver afgørelser fra', tilsyn: 'fører tilsyn med', implementerer_EU: 'gennemfører', henviser_til: 'henviser til' };
+const ET_IN = { ressortansvar: 'ressort hos', delegation: 'delegeret fra', hjemmel_for: 'hjemmel i', udsteder: 'udstedt af', klageinstans: 'påklages til', domstolsproevelse: 'kan indbringes for', tilsyn: 'under tilsyn af', implementerer_EU: 'gennemført ved', henviser_til: 'omtalt i' };
 const inLabel = e => e.type === 'klageinstans' && NODES.get(e.from)?.type === 'domstol' ? 'kan indbringes for' : ET_IN[e.type];
 const FIELDS = [['hjemmel', 'Hjemmel / oprettelse'], ['dokumenttyper', 'Dokumenttyper'], ['url', 'Kanonisk URL'], ['adgang', 'Adgang'], ['identifikatorer', 'Identifikatorer'], ['licens', 'Licens og genbrug'], ['opdatering', 'Opdatering og versioner']];
 const HTYPES = [['betalingsmur', 'Betalingsmur'], ['kun-pdf', 'Kun PDF'], ['ingen-api', 'Ingen API'], ['uklart', 'Uklart'], ['ikke-fundet', 'Ikke fundet'], ['andet', 'Andet']];
@@ -404,7 +404,7 @@ function initSearch() {
 let chainRoot = null;
 const HUB = new Set(['kommune-alle', 'region-alle']);
 const isDoc = n => ['lov', 'bek', 'vejledning', 'eu', 'kilde', 'meta'].includes(catOf(n).key);
-const COLS = ['Hjemmel i', 'Ressort og udsteder', 'Udgangspunkt', 'Hjemmel 1. led', 'Hjemmel 2. led', 'Instanser med hjemmel i kæden', 'Klageinstanser', 'Vejledning og praksis', 'Retsakter der henviser hertil', 'Henviser til (standarder m.m.)', 'EU-retsakter'];
+const COLS = ['Hjemmel i', 'Ressort og udsteder', 'Udgangspunkt', 'Hjemmel 1. led', 'Hjemmel 2. led', 'Instanser med hjemmel i kæden', 'Klage og domstolsprøvelse', 'Vejledning og praksis', 'Retsakter der henviser hertil', 'Henviser til (standarder m.m.)', 'EU-retsakter'];
 function chainCandidates() {
   return D.nodes.filter(n => CHAIN_TYPES.has(n.type)).sort((a, b) => (a.type === b.type ? 0 : a.type === 'lov' ? -1 : 1) || a.navn.localeCompare(b.navn, 'da'));
 }
@@ -420,14 +420,14 @@ function buildChain(root) {
   const l2 = [];
   for (const id of l1) for (const e of OUT.get(id) || []) if (e.type === 'hjemmel_for' && !col.has(e.to)) { const t = NODES.get(e.to); if (!t) continue; if (isDoc(t)) { add(e.to, 4); l2.push(e.to); } else add(e.to, 5); }
   const chainIds = [root, ...l1, ...l2];
-  for (const id of chainIds) for (const e of INC.get(id) || []) if (e.type === 'klageinstans') add(e.from, 6);
+  for (const id of chainIds) for (const e of INC.get(id) || []) if (['klageinstans', 'domstolsproevelse'].includes(e.type)) add(e.from, 6);
   for (const id of chainIds) for (const e of INC.get(id) || []) if (e.type === 'henviser_til' && !HUB.has(e.from)) {
     const s = NODES.get(e.from); if (!s) continue;
     add(e.from, ['lov', 'bek'].includes(catOf(s).key) ? 8 : 7);
   }
   for (const id of [root, ...l1]) for (const e of OUT.get(id) || []) if (e.type === 'henviser_til') add(e.to, 9);
   for (const id of chainIds) for (const e of OUT.get(id) || []) if (e.type === 'implementerer_EU') add(e.to, 10);
-  for (const id of [...col.keys()]) if (col.get(id) === 5 && !HUB.has(id)) for (const e of INC.get(id) || []) if (e.type === 'klageinstans' && !HUB.has(e.from)) add(e.from, 6);
+  for (const id of [...col.keys()]) if (col.get(id) === 5 && !HUB.has(id)) for (const e of INC.get(id) || []) if (['klageinstans', 'domstolsproevelse'].includes(e.type) && !HUB.has(e.from)) add(e.from, 6);
   return col;
 }
 function fitChain() {

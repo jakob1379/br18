@@ -34,6 +34,7 @@ EDGE_TYPES = {
     "hjemmel_for",
     "udsteder",
     "klageinstans",
+    "domstolsproevelse",
     "tilsyn",
     "implementerer_EU",
     "henviser_til",
@@ -329,7 +330,7 @@ def gen_katalog(reg: dict, kat: dict) -> str:
     for t, c in sorted(ec.items()):
         lines.append(f"| {t} | {c['verificeret']} | {c['sandsynlig']} | {c['ukendt']} |")
     laest = [e for e in kat["edges"] if e.get("metode") == "bestemmelse"]
-    lines += ["", (f"Klageinstans- og tilsynskanter fra dokumentets egne bestemmelser, hvor dokumentet siden er ændret (`senere_aendret_ved`): "
+    lines += ["", (f"Klageinstans-, tilsyns- og domstolsprøvelseskanter fra dokumentets egne bestemmelser, hvor dokumentet siden er ændret (`senere_aendret_ved`): "
                    f"{sum('senere_aendret_ved' in e for e in laest)} af {len(laest)}.")]
     koblet = {e["from"] if e["type"] == "henviser_til" else e["to"] for e in kat["edges"]
               if e.get("metode") == "retsinformation-eksport" and e["type"] in ("hjemmel_for", "henviser_til")}
@@ -359,7 +360,7 @@ def gen_katalog(reg: dict, kat: dict) -> str:
                "ophævede. `tekst.jsonl` har én linje pr. hentet dokument med stien til XML-filen (`intermediate/corpus/xml/`), hentedato, omfang, "
                "præambel, fodnoter, underskriftssted og de EU-retsakter, Retsinformation fører på dokumentet. For en del ældre dokumenter har XML-filen kun metadata og "
                "ingen tekst (`n_tegn` er 0). Alle andre dokumenter har kun metadata. "
-               f"{sum('dokumentstatus' in e for e in laest)} af de {len(laest)} klageinstans- og tilsynskanter fra dokumentets egne bestemmelser (metode `bestemmelse`) "
+               f"{sum('dokumentstatus' in e for e in laest)} af de {len(laest)} klageinstans-, tilsyns- og domstolsprøvelseskanter fra dokumentets egne bestemmelser (metode `bestemmelse`) "
                "står på dokumenter, der ikke er gældende, og er mærket med dokumentets status (`dokumentstatus`): de gengiver loven, som den var."), "",
               "| Samling | XML hentet | heraf med tekst | heraf gældende med tekst | Tegn (mio.) | med præambel | med EU-retsakt |", "|---|---:|---:|---:|---:|---:|---:|"]
     for s, navn in {"lta": "Lovtidende A", **CAT_SAMLINGER}.items():
@@ -693,7 +694,7 @@ def selftest() -> None:
     blandet = {**kat(), "docs": [d2("lta-2016-1178", "historisk"), d2("lta-2018-734", "gældende")], "edges": laest}
     tekst = gen_katalog({"nodes": [{"id": "naevn-x", "type": "nævn", "navn": "X"}]}, blandet)
     assert validate_katalog(reg, blandet) == []
-    assert "afløserkandidaternes lovtekster" in tekst and "2 af de 3 klageinstans- og tilsynskanter fra dokumentets egne bestemmelser" in tekst and "(`dokumentstatus`)" in tekst
+    assert "afløserkandidaternes lovtekster" in tekst and "2 af de 3 klageinstans-, tilsyns- og domstolsprøvelseskanter fra dokumentets egne bestemmelser" in tekst and "(`dokumentstatus`)" in tekst
     print("selftest ok")
 
 

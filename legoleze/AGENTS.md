@@ -34,7 +34,8 @@ Each script lists its commands in its docstring and has a `selftest` command. Ne
 ## Claims in the registry
 
 - Every node and edge has a source and a certainty mark: `verificeret`, `sandsynlig` or `ukendt`. `verificeret` needs a verbatim quote that `populate.py apply` has checked against the source.
-- Edge types: `ressortansvar`, `delegation`, `hjemmel_for`, `udsteder`, `klageinstans`, `tilsyn`, `implementerer_EU`, `henviser_til`. A `klageinstans` edge between authorities runs from the complaint body to the deciding body.
+- Edge types: `ressortansvar`, `delegation`, `hjemmel_for`, `udsteder`, `klageinstans`, `domstolsproevelse`, `tilsyn`, `implementerer_EU`, `henviser_til`. A `klageinstans` edge between authorities runs from the complaint body to the deciding body.
+- `domstolsproevelse` is court review of a decision by an authority or board, and runs from the court to the body or the act. It is not a complaint: use it only where an act gives a special route (a named court, a deadline, a right to demand the case brought, or a duty on the authority). An appeal from one court to another stays `klageinstans`.
 - An abolished or renamed body is recorded on its successor with "tidligere navn".
 - Registry text is in Danish.
 - `populate.py apply` writes the findings file's `omraade` as the edge's domain tag; replace it with real domain tags afterwards.

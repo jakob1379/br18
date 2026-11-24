@@ -58,7 +58,7 @@ flowchart LR
     lov_beredskabsloven -.->|hjemmel_for| tf_brandfarlig_virksomhed_og_oplag
     lov_beredskabsloven -->|hjemmel_for| tf_brandfarlige_vaesker
     lov_beredskabsloven -->|hjemmel_for| tf_gasser
-    dom_domstolene -.->|klageinstans| sty_beredskabsstyrelsen
+    dom_domstolene -.->|domstolsproevelse| sty_beredskabsstyrelsen
     min_forsvar -.->|ressortansvar| lov_beredskabsloven
     min_forsvar -->|ressortansvar| sty_beredskabsstyrelsen
     ombud_folketingets_ombudsmand -.->|tilsyn| sty_beredskabsstyrelsen

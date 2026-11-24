@@ -242,11 +242,11 @@ flowchart LR
     bek_ladestandere -->|implementerer_EU| eu_dir_2018_844
     lov_byggeloven -->|implementerer_EU| eu_dir_2018_844
     lov_byggeloven -.->|implementerer_EU| eu_dir_2024_1275
-    dom_boligretten -->|klageinstans| naevn_ankenaevn_koebenhavn
-    dom_boligretten -->|klageinstans| naevn_beboerklagenaevn
-    dom_boligretten -->|klageinstans| naevn_huslejenaevn
-    dom_byretterne -->|klageinstans| naevn_byggeklageenheden
-    dom_domstolene -->|klageinstans| naevn_byggeklageenheden
+    dom_boligretten -->|domstolsproevelse| naevn_ankenaevn_koebenhavn
+    dom_boligretten -->|domstolsproevelse| naevn_beboerklagenaevn
+    dom_boligretten -->|domstolsproevelse| naevn_huslejenaevn
+    dom_byretterne -->|domstolsproevelse| naevn_byggeklageenheden
+    dom_domstolene -->|domstolsproevelse| naevn_byggeklageenheden
     min_boern_aeldre_og_bolig -.->|klageinstans| sty_social_og_boligstyrelsen
     naevn_ankenaevn_koebenhavn -->|klageinstans| naevn_huslejenaevn
     naevn_byggeklageenheden -->|klageinstans| kommune_alle

@@ -86,7 +86,7 @@ flowchart LR
     lov_beredskabsloven -->|hjemmel_for| tf_brandfarlige_vaesker
     lov_beredskabsloven -->|hjemmel_for| tf_gasser
     bek_eksplosionsfarlige_omraader -->|implementerer_EU| eu_dir_1999_92
-    dom_domstolene -.->|klageinstans| sty_beredskabsstyrelsen
+    dom_domstolene -.->|domstolsproevelse| sty_beredskabsstyrelsen
     min_samfundssikkerhed_og_beredskab -->|ressortansvar| bek_brandsyn
     min_samfundssikkerhed_og_beredskab -.->|ressortansvar| bek_brs_henlaeggelse
     min_samfundssikkerhed_og_beredskab -.->|ressortansvar| bek_eksplosionsfarlige_omraader

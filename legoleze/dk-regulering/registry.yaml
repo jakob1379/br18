@@ -70,14 +70,18 @@ meta:
       hjemmelsloven eller klassificeret), udsteder (instans i registry''et → afgørelse, udtalelse eller dom, når Retsinformations felt for administrerende
       myndighed er instansens navn; sandsynlig, når det er et tidligere navn)., klageinstans og tilsyn (instans i registry''et → lov eller forskrift
       i Lovtidende A, hvis XML er hentet og som ikke er et ændringsdokument: den instans, dokumentets egne bestemmelser siger, afgørelser kan
-      påklages til eller indbringes for, og den instans, der fører tilsyn eller kontrol; metode bestemmelse, sandsynlig, med paragrafferne i to_bestemmelse,
-      den første sætning ordret i beskrivelse og, på klageinstans, afgoerelse_af, når sætningen navngiver den myndighed, der træffer afgørelsen.
-      Kanten gengiver dokumentets tekst, som den er udstedt: en lovbekendtgørelse har ikke senere ændringslove indarbejdet, så klageinstansen
-      kan være ændret siden. senere_aendret_ved lister da de love, der har ændret dokumentet og er underskrevet efter det: for en lov fra Retsinformations
-      tidslinje (ændringslove og andre hovedlove, der har ændret den), for en bekendtgørelse fra eksportens felt SenereAendringer; uden feltet
-      er ingen senere ændring fundet. dokumentstatus står på netop de kanter, hvis dokument ikke er gældende efter katalogets status, med dokumentets
-      status (historisk), så en søgning efter gældende ret kan frasortere dem på kanten alene; feltet viser status pr. katalogets statusdato (status.pr
-      på dokumentet), ikke den dag, en bestemmelse holdt op med at gælde, og scripts/build.py kræver det på netop de kanter). Endepunkter er katalog-id''er, registry-id''er eller eu_index-id''er.'
+      påklages til eller, når den ikke er en domstol, indbringes for, og den instans, der fører tilsyn eller kontrol; metode bestemmelse, sandsynlig,
+      med paragrafferne i to_bestemmelse, den første sætning ordret i beskrivelse og, på klageinstans, afgoerelse_af, når sætningen navngiver
+      den myndighed, der træffer afgørelsen. Kanten gengiver dokumentets tekst, som den er udstedt: en lovbekendtgørelse har ikke senere ændringslove
+      indarbejdet, så klageinstansen kan være ændret siden. senere_aendret_ved lister da de love, der har ændret dokumentet og er underskrevet
+      efter det: for en lov fra Retsinformations tidslinje (ændringslove og andre hovedlove, der har ændret den), for en bekendtgørelse fra eksportens
+      felt SenereAendringer; uden feltet er ingen senere ændring fundet. dokumentstatus står på netop de kanter, hvis dokument ikke er gældende
+      efter katalogets status, med dokumentets status (historisk), så en søgning efter gældende ret kan frasortere dem på kanten alene; feltet
+      viser status pr. katalogets statusdato (status.pr på dokumentet), ikke den dag, en bestemmelse holdt op med at gælde, og scripts/build.py
+      kræver det på netop de kanter). og domstolsproevelse (domstol i registry''et → samme slags dokument: den domstol, dokumentets egne bestemmelser
+      giver en særlig vej til for en myndigheds eller et nævns afgørelse, læst af feltet domstol i tekst.jsonl; metode bestemmelse, sandsynlig,
+      med de samme felter som klagekanterne; reglerne står i meta.metode under Domstolsprøvelse). Endepunkter er katalog-id''er, registry-id''er
+      eller eu_index-id''er.'
     sikkerhed: verificeret = står direkte i datasættets felter eller tekst eller i Retsinformations søgeeksport (status, Lovtidende-nr., henvisning
       med nummer og dato, EU-retsakt nævnt, hjemmel, ressortfelt der med sikkerhed er aktuelt). sandsynlig = udledt (udstedende ministerium fra
       DocumentId-præfiks, titel-/navnematch, ministerium arvet fra hjemmelsloven, lovforslag koblet til loven på titel og underskriftsdato, ressort
@@ -87,12 +91,13 @@ meta:
       må bruges som gyldighedsperiode.
     tekst: 'Retsinformations XML (ELI-adressen plus /xml) er hentet for et udsnit med pipeline/corpus/tekst.py: de dokumenter, registry''ets noder
       peger på, de gældende dokumenter i de otte domæner og, fra 2026-11-21, afløserkandidaternes lovtekster, i rækkefølgen registry, afløserkandidaterne,
-      Lovtidende A uden tekst i bulk-høsten, vejledninger og cirkulærer,
-      lovforslag som fremsat til udsnittets love, praksis og til sidst Lovtidende A med tekst i bulk-høsten. Felter i tekst.jsonl: id, xml (sti
-      fra legoleze/), hentet, n_tegn, n_paragraffer, praeambel (indledningen uden fodnoter), noter (fodnoterne, herunder EU-noten og noter om
-      ressortoverførsler), klage_tilsyn ([paragraf, sætning] for de sætninger i dokumentets paragraffer, der har et klage- eller tilsynsudsagn),
-      naevner (de love, lovbekendtgørelser, bekendtgørelser og anordninger, teksten nævner med nummer og dato, med antal), underskrevet_af (Meta-feltet
-      PlaceOfSignature) og eu (CELEX-numre fra Meta-feltet EuReferences). katalog/README.md viser, hvor mange dokumenter der er hentet pr. samling.'
+      Lovtidende A uden tekst i bulk-høsten, vejledninger og cirkulærer, lovforslag som fremsat til udsnittets love, praksis og til sidst Lovtidende
+      A med tekst i bulk-høsten. Felter i tekst.jsonl: id, xml (sti fra legoleze/), hentet, n_tegn, n_paragraffer, praeambel (indledningen uden
+      fodnoter), noter (fodnoterne, herunder EU-noten og noter om ressortoverførsler), klage_tilsyn ([paragraf, sætning] for de sætninger i dokumentets
+      paragraffer, der har et klage- eller tilsynsudsagn), domstol ([paragraf, sætning] for de sætninger, hvor noget indbringes for, kræves indbragt
+      for, prøves af eller forelægges en domstol, højst 80 pr. dokument), naevner (de love, lovbekendtgørelser, bekendtgørelser og anordninger,
+      teksten nævner med nummer og dato, med antal), underskrevet_af (Meta-feltet PlaceOfSignature) og eu (CELEX-numre fra Meta-feltet EuReferences).
+      katalog/README.md viser, hvor mange dokumenter der er hentet pr. samling.'
   metode:
   - 'Fase 1: To uafhængige agenter kortlagde regering, ministerier og område → myndighed pr. 2026-10-28. En tredje afstemte dem til en baseline
     med kanoniske id''er.'
@@ -152,14 +157,40 @@ meta:
     peger på den gældende. Fra 2026-11-23 bliver en gældende version med samme titel, nyere end tidslinjen og ikke i nogen tidslinje (en lovbekendtgørelse
     udstedt efter at tidslinjen blev hentet), tidslinjens gældende version, når ingen af tidslinjens egne versioner er gældende, så en ny lov
     med en titel, mange love deler (''Lov om indfødsrets meddelelse''), ikke overtager deres tidslinjer; det flyttede straffuldbyrdelsesloven
-    til LBK nr. 982 af 2026 (selskabsskatteloven og STU-loven fulgte LBK nr. 984 og 983 af 2026 gennem deres egne tidslinjer). Ændringslove og andre hovedlove i tidslinjen er
-    ikke versioner og bruges ikke. Fra 2026-11-21 (JGA-139) fortsætter en historisk lovs familie til en ny hovedlov, når hovedloven står i lovens
-    liste over senere ændringer, selv nævner loven i sin liste over love, den ændrer, og i sin egen tekst har en ophævelsesbestemmelse, der nævner
-    loven med nummer og dato (feltet afloeser, verificeret, med bestemmelsen ordret). Ikke en ophævelse: en bemyndigelse (''kan''), en delvis
-    ophævelse (''bortset fra'', enkelte paragraffer), et nummer fra ''som affattet ved'' eller ''som ændret ved'', en bestemmelse i en lovbekendtgørelse
-    og en ren ophævelseslov. En lov, der kun rydder en forældet lov op, er heller ikke afløser; de læste par står i raw/populate/2026-11-21-afloeser-oprydning.tsv.
-    Familien følger afløserens gældende version (gaeldende_version og afloeser_fra), også på hjemmel_for-kanterne; paragrafnumre fra præamblen
-    lægges kun på kanten fra samme lov, ikke fra afløseren (eksport.lovled).'
+    til LBK nr. 982 af 2026 (selskabsskatteloven og STU-loven fulgte LBK nr. 984 og 983 af 2026 gennem deres egne tidslinjer). Ændringslove og
+    andre hovedlove i tidslinjen er ikke versioner og bruges ikke. Fra 2026-11-21 (JGA-139) fortsætter en historisk lovs familie til en ny hovedlov,
+    når hovedloven står i lovens liste over senere ændringer, selv nævner loven i sin liste over love, den ændrer, og i sin egen tekst har en
+    ophævelsesbestemmelse, der nævner loven med nummer og dato (feltet afloeser, verificeret, med bestemmelsen ordret). Ikke en ophævelse: en
+    bemyndigelse (''kan''), en delvis ophævelse (''bortset fra'', enkelte paragraffer), et nummer fra ''som affattet ved'' eller ''som ændret
+    ved'', en bestemmelse i en lovbekendtgørelse og en ren ophævelseslov. En lov, der kun rydder en forældet lov op, er heller ikke afløser; de
+    læste par står i raw/populate/2026-11-21-afloeser-oprydning.tsv. Familien følger afløserens gældende version (gaeldende_version og afloeser_fra),
+    også på hjemmel_for-kanterne; paragrafnumre fra præamblen lægges kun på kanten fra samme lov, ikke fra afløseren (eksport.lovled).'
+  - 'Domstolsprøvelse (fra 2026-11-24, JGA-204): kanttypen domstolsproevelse går fra en domstol til den instans eller det dokument, hvis afgørelser
+    har en særlig vej til domstolen; den er ikke klage. Registry''ets 35 kanter fra en domstol til en myndighed eller et nævn stod før som klageinstans
+    og har fået typen; de 6 kanter fra én domstol til en anden (anke) er stadig klageinstans. Nogle af de 35 (fx til kommune-alle og sty-beredskabsstyrelsen)
+    gengiver kun den almindelige adgang efter grundlovens § 63; de er ikke gennemgået mod typens afgrænsning. I kataloget gemmer tekst.py de sætninger,
+    hvor noget indbringes for, kræves indbragt for, prøves af eller forelægges en domstol (feltet domstol, eksport.DOMSTOLSLED), og eksport.py
+    læser dem for hoveddokumenter i Lovtidende A (laeser, proevelse): en kant fra domstolen til dokumentet, metode bestemmelse, sandsynlig, med
+    to_bestemmelse, afgoerelse_af, senere_aendret_ved og dokumentstatus som på klagekanterne; 113 kanter, heraf 94 på gældende dokumenter. En
+    sætning giver en kant, når den taler om en afgørelse (afgørelse, beslutning, påbud, forbud, afslag, pålæg, tilbagekaldelse, inddragelse, fratagelse,
+    frihedsberøvelse, kendelse, lovlighed) og nævner en bestemt domstol eller, for domstolene under ét og ''retten'', har et krav (''kan forlanges
+    indbragt''), en pligt (''skal indbringes'', ''indbringes efter anmodning'') eller en frist. ''Retten'' sættes til den ene bestemte domstol,
+    dokumentets øvrige veje og procesregler nævner (straffuldbyrdelseslovens § 113: byretten), ellers til dom-domstolene; familieretten og Københavns
+    Byret er byretterne, Østre og Vestre Landsret landsretterne. Ingen kant: ''kan indbringes for domstolene'' uden frist, grænser (''kan ikke
+    indbringes, før'', ''først'', ''tidligst'', ''på ny''), betingelses- og relativsætninger, bemyndigelser, anke og kære, en doms eller rettens
+    egen afgørelse, skønsmænds og revisorers afgørelser og ''til afgørelse'' som eneste ord for en afgørelse. Sætninger om, at sagen indbringes,
+    og ''kan indbringes for retten'' uden frist tæller kun som tillæg til en vej til samme domstol i samme dokument. De fire klageinstans-kanter
+    fra boligretten er nu domstolsproevelse, og kanten fra Højesteret til retsplejeloven (kære af Den Særlige Klagerets afgørelse) er udgået;
+    ''kan påklages til Den Særlige Klageret'' er stadig klageinstans. Målt 2026-11-24 på alle 87 kanter, der da stod på gældende dokumenter, af
+    to uafhængige dommere og et gennemsyn (dk-regulering/eval/domstolsproevelse-stikproeve.jsonl og -stikproeve-domme.jsonl): 83 rigtige og 4
+    forkerte (95 %). Læseren er rettet efter målingen og igen efter et review af ændringen, og de kanter, der var nye eller havde fået andet indhold,
+    er bedømt igen (runde 2 og 3); alle 94 kanter på gældende dokumenter har nu en dom over deres nuværende indhold, alle rigtige, men det tal
+    er målt på de data, læseren er rettet efter. Kendte grænser: genfindingen er ikke målt; skifteretten, fogedretten og voldgiftsretter har ingen
+    node og giver ingen kant; en privat parts afgørelse kan, ud over skønsmænds og revisorers, ikke skelnes fra en myndigheds, og en foranstaltning
+    fastsat ved dom (straffelovens § 236) ikke fra en myndigheds afgørelse, når sætningen ikke nævner dommen; et tillæg kan være en regel om,
+    at en sag indbringes til afgørelse i første instans (lov om Familieretshuset § 14, retsplejelovens § 458); kantens beskrivelse er den første
+    sætning i paragrafrækkefølge og kan være et led i en opregning; tekst.jsonl gemmer højst 80 domstolssætninger pr. dokument, og retsplejeloven
+    (LBK nr. 1298 af 2025) når loftet; kanten gengiver teksten, som dokumentet er udstedt.'
   - 'Evaluering (fra 2026-11-15): pipeline/corpus/eval.py trækker et tilfældigt udtag af gældende forskrifter og vejledninger, lader annotatorer
     læse dokumenternes egen tekst og måler katalogets hjemmel_for-, implementerer_EU- og henviser_til-kanter og registry''ets klage- og tilsynsinstanser
     mod deres svar (meta.evaluering). Målingen førte til tre nye udtræk fra tekstlaget: implementerer_EU fra fodnoterne, henviser_til fra teksten
@@ -239,6 +270,8 @@ meta:
     hjemmel_for: 'lov/bekendtgørelse → bekendtgørelse/vejledning/instans/plan: giver hjemmel til / opretter'
     udsteder: 'instans → retsakt/vejledning/dokumentkilde: udsteder, udgiver eller driver'
     klageinstans: 'klageinstans → førsteinstans: from behandler klager over to''s afgørelser (lov i beskrivelse)'
+    domstolsproevelse: 'domstol → instans/lov: to''s afgørelser, eller afgørelser efter to, kan indbringes for from ad en særlig vej (bestemt
+      domstol, frist, krav om indbringelse eller myndighedens pligt); ikke administrativ klage'
     tilsyn: tilsynsmyndighed → tilsynsobjekt
     implementerer_EU: dansk retsakt → EU-retsakt
     henviser_til: 'dokument → dokument: typisk krydsreference i teksten'
@@ -15268,10 +15301,10 @@ nodes:
   note: 'Domstolene er ikke administrativ klageinstans; kanten til MFKN er domstolsprøvelse (grl. § 63). | Nyt id (samlenode). Kan erstattes af
     de enkelte domstolsnoder fra andre domæner. Prøvelsen af Energiklagenævnets afgørelser sker ved søgsmål, ikke ved administrativ klage. | Prøver
     MFKN''s afgørelser. Domsdatabasen (Domstolsstyrelsen) dækker udvalgte domme fra 2022; UfR/MAD bag betalingsmur. | Generisk domstolsnode, fælles
-    med andre domæner. Domstolene er ikke administrativ klageinstans; kanterne af typen ''klageinstans'' betegner domstolsprøvelse (grl. § 63).
-    | Domstolene er uafhængige. Bødeniveauet er uafklaret: DI angiver, at grundbøderne steg 50 % fra 1/7/2025 (til 36.900–66.900 kr.), mens Lovguidens
-    tidslinje omtaler samme stigning som foreslået i et lovudkast i høring sammen med fængselsstraf for grove asbestovertrædelser. Vedtagelse
-    og lovnummer er ikke fundet.'
+    med andre domæner. Domstolene er ikke administrativ klageinstans; kanterne af typen ''domstolsproevelse'' er domstolsprøvelse (grl. § 63),
+    ikke klage. | Domstolene er uafhængige. Bødeniveauet er uafklaret: DI angiver, at grundbøderne steg 50 % fra 1/7/2025 (til 36.900–66.900 kr.),
+    mens Lovguidens tidslinje omtaler samme stigning som foreslået i et lovudkast i høring sammen med fængselsstraf for grove asbestovertrædelser.
+    Vedtagelse og lovnummer er ikke fundet.'
 - id: dom-hoejesteret
   navn: Højesteret
   type: domstol
@@ -90080,7 +90113,7 @@ edges:
   sikkerhed: sandsynlig
   domaener:
   - natur-vand-kyst
-- type: klageinstans
+- type: domstolsproevelse
   from: dom-boligretten
   to: naevn-ankenaevn-koebenhavn
   beskrivelse: Ankenævnets afgørelser kan indbringes inden 4 uger (lov om boligforhold)
@@ -90090,7 +90123,7 @@ edges:
   sikkerhed: verificeret
   domaener:
   - bolig
-- type: klageinstans
+- type: domstolsproevelse
   from: dom-boligretten
   to: naevn-beboerklagenaevn
   beskrivelse: 'Almenlejeloven § 106: frist 4 uger (juli tæller ikke med), undtagelsesvis inden 1 år'
@@ -90105,7 +90138,7 @@ edges:
   - bolig
   - klage-tilsyn-praksis
   - kommunalt
-- type: klageinstans
+- type: domstolsproevelse
   from: dom-boligretten
   to: naevn-huslejenaevn
   beskrivelse: Uden for København indbringes huslejenævnets afgørelse direkte for boligretten inden 4 uger med fuld prøvelse; der kan dispenseres
@@ -90121,7 +90154,7 @@ edges:
   - bolig
   - klage-tilsyn-praksis
   - kommunalt
-- type: klageinstans
+- type: domstolsproevelse
   from: dom-byretterne
   to: naevn-byggeklageenheden
   beskrivelse: 'Domstolsprøvelse: søgsmål skal anlægges inden 6 mdr. efter modtagelsen af afgørelsen (byggelovens § 25, stk. 1). Byretten er 1.
@@ -90137,7 +90170,7 @@ edges:
   sikkerhed: verificeret
   domaener:
   - klage-tilsyn-praksis
-- type: klageinstans
+- type: domstolsproevelse
   from: dom-byretterne
   to: naevn-energiklagenaevnet
   beskrivelse: 'Domstolsprøvelse: nævnets afgørelser kan indbringes for domstolene inden 6 mdr. Byretten er 1. instans efter retsplejelovens §
@@ -90151,7 +90184,7 @@ edges:
   sikkerhed: verificeret
   domaener:
   - klage-tilsyn-praksis
-- type: klageinstans
+- type: domstolsproevelse
   from: dom-byretterne
   to: naevn-miljoe-og-foedevareklagenaevnet
   beskrivelse: 'Domstolsprøvelse: afgørelserne er administrativt endelige. Søgsmålsfristen er 6 mdr. (fx naturbeskyttelseslovens § 88, stk. 1
@@ -90166,7 +90199,7 @@ edges:
   sikkerhed: verificeret
   domaener:
   - klage-tilsyn-praksis
-- type: klageinstans
+- type: domstolsproevelse
   from: dom-byretterne
   to: naevn-planklagenaevnet
   beskrivelse: 'Domstolsprøvelse: søgsmål skal anlægges inden 6 mdr. (planlovens § 62, stk. 1). Byretten er 1. instans efter retsplejelovens §
@@ -90179,7 +90212,7 @@ edges:
   domaener:
   - klage-tilsyn-praksis
   - plan
-- type: klageinstans
+- type: domstolsproevelse
   from: dom-domstolene
   to: kommune-alle
   beskrivelse: Domstolsprøvelse af kommunale afgørelser efter grundlovens § 63; ikke administrativ klage.
@@ -90188,7 +90221,7 @@ edges:
   sikkerhed: sandsynlig
   domaener:
   - brand
-- type: klageinstans
+- type: domstolsproevelse
   from: dom-domstolene
   to: naevn-arbejdsmiljoeklagenaevnet
   beskrivelse: 'Domstolsprøvelse, ikke administrativ rekurs. Arbejdsmiljøklagenævnet er øverste administrative klageinstans, og dets afgørelser
@@ -90201,7 +90234,7 @@ edges:
   sikkerhed: verificeret
   domaener:
   - arbejdsmiljoe
-- type: klageinstans
+- type: domstolsproevelse
   from: dom-domstolene
   to: naevn-byggeklageenheden
   beskrivelse: 'Domstolsprøvelse: søgsmål om Byggeklageenhedens afgørelser skal anlægges inden 6 måneder fra modtagelsen (byggelovens § 25, stk.
@@ -90216,7 +90249,7 @@ edges:
   sikkerhed: verificeret
   domaener:
   - brand
-- type: klageinstans
+- type: domstolsproevelse
   from: dom-domstolene
   to: naevn-energiklagenaevnet
   beskrivelse: Domstolsprøvelse, ikke administrativ klage. Efter lov om Energiklagenævnet (Lovtidende A 2025 nr. 468) kan nævnets afgørelser ikke
@@ -90231,7 +90264,7 @@ edges:
   sikkerhed: verificeret
   domaener:
   - energi
-- type: klageinstans
+- type: domstolsproevelse
   from: dom-domstolene
   to: naevn-klagenaevnet-for-udbud
   beskrivelse: Klagenævnets kendelser kan indbringes for domstolene inden for lovens søgsmålsfrist. Sager kan ikke indbringes for domstolene,
@@ -90242,7 +90275,7 @@ edges:
   sikkerhed: sandsynlig
   domaener:
   - kritik:klage-praksis-kilder-eu
-- type: klageinstans
+- type: domstolsproevelse
   from: dom-domstolene
   to: naevn-miljoe-og-foedevareklagenaevnet
   beskrivelse: 'Domstolsprøvelse (grundlovens § 63), ikke administrativ klageinstans. MFKN''s afgørelser er endelige og kan ikke indbringes for
@@ -90260,7 +90293,7 @@ edges:
   domaener:
   - miljoe
   - natur-vand-kyst
-- type: klageinstans
+- type: domstolsproevelse
   from: dom-domstolene
   to: sty-beredskabsstyrelsen
   beskrivelse: Domstolsprøvelse efter grundlovens § 63; ikke administrativ klage.
@@ -90269,7 +90302,7 @@ edges:
   sikkerhed: sandsynlig
   domaener:
   - brand
-- type: klageinstans
+- type: domstolsproevelse
   from: dom-domstolene
   to: sty-geodatastyrelsen
   beskrivelse: Geodatastyrelsens afgørelser efter udstykningsloven (gældende LBK nr. 53 af 17/01/2024) kan ikke påklages til anden administrativ
@@ -97644,7 +97677,7 @@ edges:
   sikkerhed: sandsynlig
   domaener:
   - skat
-- type: klageinstans
+- type: domstolsproevelse
   from: dom-byretterne
   to: naevn-landsskatteretten
   beskrivelse: 'Skatteforvaltningsloven § 48-50: afgørelser kan indbringes for domstolene, senest 3 måneder efter afgørelsen; Skatteministeriet
@@ -97655,7 +97688,7 @@ edges:
   sikkerhed: sandsynlig
   domaener:
   - skat
-- type: klageinstans
+- type: domstolsproevelse
   from: dom-byretterne
   to: sty-skatteforvaltningen
   beskrivelse: 'Skatteforvaltningsloven § 48, stk. 1-2: en afgørelse kan indbringes for domstolene i stedet for at påklages, indtil klageren efter
@@ -97665,7 +97698,7 @@ edges:
   sikkerhed: verificeret
   domaener:
   - skat
-- type: klageinstans
+- type: domstolsproevelse
   from: dom-byretterne
   to: sty-spillemyndigheden
   beskrivelse: 'Spilleloven § 55: afgørelser fra Spillemyndigheden, Skatteankestyrelsen og Landsskatteretten kan indbringes for domstolene senest
@@ -97675,7 +97708,7 @@ edges:
   sikkerhed: verificeret
   domaener:
   - skat
-- type: klageinstans
+- type: domstolsproevelse
   from: dom-byretterne
   to: naevn-skatteankenaevn
   beskrivelse: 'Skatteforvaltningsloven § 49: Skatteministeriet kan indbringe skatteankenævnets afgørelse for domstolene inden 3 måneder.'
@@ -97684,7 +97717,7 @@ edges:
   sikkerhed: sandsynlig
   domaener:
   - skat
-- type: klageinstans
+- type: domstolsproevelse
   from: dom-byretterne
   to: naevn-vurderingsankenaevn
   beskrivelse: 'Skatteforvaltningsloven § 49 og § 48, stk. 1: Skatteministeriet kan indbringe nævnets afgørelse inden 3 måneder; borgerens adgang
@@ -97694,7 +97727,7 @@ edges:
   sikkerhed: sandsynlig
   domaener:
   - skat
-- type: klageinstans
+- type: domstolsproevelse
   from: dom-byretterne
   to: naevn-motorankenaevn
   beskrivelse: 'Skatteforvaltningsloven § 49: Skatteministeriet kan indbringe nævnets afgørelse for domstolene inden 3 måneder.'
@@ -98954,7 +98987,7 @@ edges:
   sikkerhed: sandsynlig
   domaener:
   - udlaendinge
-- type: klageinstans
+- type: domstolsproevelse
   from: dom-byretterne
   to: naevn-udlaendingenaevnet
   beskrivelse: 'Udlændingeloven § 52: i visse EU-/nordiske sager kan udlændingen inden 14 dage kræve endelige administrative afgørelser indbragt
@@ -99191,7 +99224,7 @@ edges:
   sikkerhed: verificeret
   domaener:
   - social
-- type: klageinstans
+- type: domstolsproevelse
   from: dom-byretterne
   to: sty-ankestyrelsen
   beskrivelse: 'Barnets lov § 147, stk. 1: Ankestyrelsens afgørelser efter § 146 (klager over børne- og ungeudvalgets afgørelser) og § 151, stk.
@@ -100498,7 +100531,7 @@ edges:
   sikkerhed: sandsynlig
   domaener:
   - soefart
-- type: klageinstans
+- type: domstolsproevelse
   from: dom-domstolene
   to: naevn-ankenaevnet-for-soefartsforhold
   beskrivelse: 'Lov om sikkerhed til søs § 21, stk. 3: nævnets afgørelser kan indbringes for domstolene inden 4 uger.'
@@ -100690,7 +100723,7 @@ edges:
   sikkerhed: sandsynlig
   domaener:
   - persondata
-- type: klageinstans
+- type: domstolsproevelse
   from: dom-domstolene
   to: tilsyn-datatilsynet
   beskrivelse: 'Ikke administrativ klage: Datatilsynets afgørelser kan ikke indbringes for anden administrativ myndighed (§ 30, stk. 1), men den
@@ -100984,7 +101017,7 @@ edges:
   sikkerhed: verificeret
   domaener:
   - strafferet-politi
-- type: klageinstans
+- type: domstolsproevelse
   from: dom-byretterne
   to: sty-danmarks-faengsler
   beskrivelse: 'Straffuldbyrdelseslovens § 112: udvalgte endelige administrative afgørelser kan inden 4 uger kræves indbragt for retten.'
@@ -102490,7 +102523,7 @@ edges:
   sikkerhed: verificeret
   domaener:
   - forbruger-konkurrence
-- type: klageinstans
+- type: domstolsproevelse
   from: dom-domstolene
   to: ombud-forbrugerombudsmanden
   beskrivelse: 'Markedsføringslovens § 25, stk. 4: ingen administrativ klage; § 32, stk. 3: et påbud kan forlanges indbragt for domstolene inden
@@ -102545,7 +102578,7 @@ edges:
   sikkerhed: verificeret
   domaener:
   - forbruger-konkurrence
-- type: klageinstans
+- type: domstolsproevelse
   from: dom-domstolene
   to: naevn-forbrugerklagenaevnet
   beskrivelse: 'Forbrugerklagelovens § 35: når nævnet har truffet afgørelse, kan hver af parterne indbringe sagen for domstolene. Ikke en egentlig
@@ -102627,7 +102660,7 @@ edges:
   sikkerhed: verificeret
   domaener:
   - forbruger-konkurrence
-- type: klageinstans
+- type: domstolsproevelse
   from: dom-domstolene
   to: org-godkendte-private-ankenaevn
   beskrivelse: 'Forbrugerklagelovens § 35: når et godkendt privat tvistløsningsorgan har truffet afgørelse, kan hver af parterne indbringe sagen
@@ -102927,7 +102960,7 @@ edges:
   sikkerhed: sandsynlig
   domaener:
   - erhvervsret
-- type: klageinstans
+- type: domstolsproevelse
   from: dom-domstolene
   to: naevn-ankenaevnet-patenter-varemaerker
   beskrivelse: 'Patentlovens § 25, stk. 3: søgsmål til prøvelse af afslag eller ugyldighed skal anlægges inden 2 måneder efter underretning om
@@ -102938,7 +102971,7 @@ edges:
   sikkerhed: verificeret
   domaener:
   - erhvervsret
-- type: klageinstans
+- type: domstolsproevelse
   from: dom-domstolene
   to: naevn-revisornaevnet
   beskrivelse: 'Revisorlovens § 52 b: kendelser kan indbringes for domstolene senest 4 uger efter, at de er meddelt; sanktioner i § 44 (advarsel,
@@ -102949,7 +102982,7 @@ edges:
   sikkerhed: verificeret
   domaener:
   - erhvervsret
-- type: klageinstans
+- type: domstolsproevelse
   from: dom-domstolene
   to: naevn-disciplinaernaevnet-ejendomsmaeglere
   beskrivelse: 'Lov om formidling af fast ejendom § 64: frakendelse efter § 53, stk. 2 kan forlanges indbragt for retten, begæring senest 4 uger;
@@ -102959,7 +102992,7 @@ edges:
   sikkerhed: verificeret
   domaener:
   - erhvervsret
-- type: klageinstans
+- type: domstolsproevelse
   from: dom-domstolene
   to: naevn-bygningssagkyndige
   beskrivelse: 'BEK 20/2011 § 15: nævnets afgørelser kan ikke indbringes for anden administrativ myndighed; disciplinærafgørelser skal oplyse
@@ -103446,7 +103479,7 @@ edges:
   sikkerhed: verificeret
   domaener:
   - familie-person
-- type: klageinstans
+- type: domstolsproevelse
   from: dom-byretterne
   to: sty-familieretshuset
   beskrivelse: 'Familieretten (byretten, der benævnes familieretten) prøver Familieretshusets afgørelser: lov om Familieretshuset § 39 (afgørelser
@@ -103926,7 +103959,7 @@ edges:
   sikkerhed: verificeret
   domaener:
   - retspleje
-- type: klageinstans
+- type: domstolsproevelse
   from: dom-domstolene
   to: naevn-advokatnaevnet
   beskrivelse: Domstolsprøvelse af Advokatnævnets irettesættelse eller bøde efter retsplejelovens § 147 d (indbringes af advokaten inden 4 uger);
@@ -111397,16 +111430,17 @@ huller:
     par, læst på titel og bestemmelse) står i raw/populate/2026-11-21-afloeser-oprydning.tsv, og en ren ophævelseslov afvises; familien fortsætter
     ikke til dem. Hentningen af kandidatlovene er gjort færdig 2026-11-23 (JGA-144): 171 hentet, men alle 171 XML-filer har kun metadata, så ingen
     ny afløser er bekræftet, og ingen nye par skulle læses for oprydning; 126 bekræftede, 10 oprydning og 46 afvist er uændrede. Ikke løst: 4
-    love har en kandidat, hvis tekst ikke er hentet (lta-1992-396 og lta-2001-967 venter på lta-2002-405, som gav HTTP 500 fire gange, senest 2026-11-24; lta-1989-583
-    og lta-1992-251 hentes ikke, fordi de allerede har en gældende version gennem et nyere familiemedlem, men tælles med, fordi kandidaterne
-    tælles, før afløserne fører familierne videre), og 732 har kun kandidater, hvis hentede XML er uden tekst (mest love fra før 2005; 481 før
-    hentningen); dem kan metoden ikke bekræfte. Tekstindekset over de hentede kandidatlove ventedes at flytte evalueringens tal, fordi det gav
-    nye klage-, tilsyns-, EU- og henvisningskanter; det holdt ikke: ingen runde er trukket blandt de nye tekster, og ingen af de nye kanter starter
-    eller ender i et dokument i facit, så alle runder gav de samme tal før og efter (eval/README.md byte for byte den samme). Fra 2026-11-23
-    bliver en nyere gældende version med samme titel, som ikke står i nogen tidslinje, tidslinjens gældende version, men kun når ingen af tidslinjens
-    egne versioner er gældende (straffuldbyrdelsesloven: LBK nr. 201 af 2023 → LBK nr. 982 af 2026). lta-2002-405 prøves igen ved næste tekst.py hent <minutter> mellem
-    03:00 og 23:40 dansk tid (værten www.retsinformation.dk skal være tilladt), derefter eksport.py katalog, eval.py saml og maal og views.sh.
-    126 gældende love er uden tidslinje, de fleste fordi kataloget ikke har Retsinformations dokument-id for dem.'
+    love har en kandidat, hvis tekst ikke er hentet (lta-1992-396 og lta-2001-967 venter på lta-2002-405, som gav HTTP 500 fire gange, senest
+    2026-11-24; lta-1989-583 og lta-1992-251 hentes ikke, fordi de allerede har en gældende version gennem et nyere familiemedlem, men tælles
+    med, fordi kandidaterne tælles, før afløserne fører familierne videre), og 732 har kun kandidater, hvis hentede XML er uden tekst (mest love
+    fra før 2005; 481 før hentningen); dem kan metoden ikke bekræfte. Tekstindekset over de hentede kandidatlove ventedes at flytte evalueringens
+    tal, fordi det gav nye klage-, tilsyns-, EU- og henvisningskanter; det holdt ikke: ingen runde er trukket blandt de nye tekster, og ingen
+    af de nye kanter starter eller ender i et dokument i facit, så alle runder gav de samme tal før og efter (eval/README.md byte for byte den
+    samme). Fra 2026-11-23 bliver en nyere gældende version med samme titel, som ikke står i nogen tidslinje, tidslinjens gældende version, men
+    kun når ingen af tidslinjens egne versioner er gældende (straffuldbyrdelsesloven: LBK nr. 201 af 2023 → LBK nr. 982 af 2026). lta-2002-405
+    prøves igen ved næste tekst.py hent <minutter> mellem 03:00 og 23:40 dansk tid (værten www.retsinformation.dk skal være tilladt), derefter
+    eksport.py katalog, eval.py saml og maal og views.sh. 126 gældende love er uden tidslinje, de fleste fordi kataloget ikke har Retsinformations
+    dokument-id for dem.'
   noder:
   - kilde-retsinformation
   kilder:
@@ -111424,29 +111458,31 @@ huller:
   - 'Lovfamilier kobles på titel: en ældre version af en lov kobles ikke altid til den gældende'
 - emne: Klage- og tilsynskanter pr. forskrift er læst mekanisk af dokumentets egen tekst og kun for tekstlagets udsnit
   type: andet
-  beskrivelse: 'Kataloget har 543 klageinstans-kanter og 573 tilsyn-kanter fra instans til lov eller forskrift (metode bestemmelse, sandsynlig;
-    483 og 512 før 2026-11-23, da tekstindekset fik 605 nye dokumenter, JGA-144, 542 og 571 før 2026-11-24, da teksten til tre nye versioner
-    og 48 andre dokumenter kom med, JGA-198, og 542 og 573, før læseren samme dag fik navnet ''Styrelsen for Danmarks Fængsler''), læst med regulære udtryk af de hentede dokumenters paragraffer. I evalueringssættets runde 3, trukket
-    efter at læseren var skrevet, var 23 af 24 klageinstanser rigtige og ingen manglede; den myndighed, der træffer afgørelsen, stod på kanten
-    i 12 af 14 tilfælde; for tilsyn var 15 af 15 rigtige, men 11 af facits 26 manglede, fordi læseren kun kendte få formuleringer. Fra 2026-11-16
-    læses også ''påser, at'', ''kontrollerer'', ''er tilsynsmyndighed'' og ''styrelsens kontrol med'' (JGA-134); runde 3 giver derefter 27 rigtige,
-    2 forkerte og 4 manglende tilsynsmyndigheder, men runde 3 er nu brugt til at rette læseren. De 2 forkerte står i teksten (''Kommunalbestyrelsen
-    eller regionsrådet er dog tilsynsmyndighed'', ''Energinets tilsyn med overholdelse af forskrifterne''), men ikke i facit. Runde 1-3 er dermed
-    alle brugt til at rette læseren, og runde 4 er trukket bagefter (49 dokumenter, samme grupper som runde 3). Dens første måling (kontrol-4.json,
-    2026-11-21) er den uafhængige: klageinstans 16 rigtige, 4 forkerte og 2 manglende; afgørende myndighed 11 rigtige, 1 forkert og 7 manglende;
-    tilsynsmyndighed 20 rigtige, 1 forkert og 6 manglende. 3 af de 4 forkerte klageinstanser står i teksten, men ikke i facit; den fjerde er en
-    erstatning, ikke en klage (''indbringe erstatningsspørgsmålet for taksationsmyndighederne''). Den forkerte tilsynsmyndighed står i en sætning
-    om bekendtgørelsens anvendelsesområde (''finder anvendelse på Arbejdstilsynets tilsyn med''). De manglende tilsynsmyndigheder står i formuleringer,
-    læseren ikke kender (''forestår … kontrol'', ''gennemfører rutineinspektioner'', ''er … bygningsmyndighed og påser'', ''Ministeren fører tilsyn''
-    uden titel, ''ministerens omkostninger forbundet med tilsyn'', adgang til ejendom ''for at kontrollere''). JGA-134 gav 85 nye tilsyn-kanter
-    (431 til 516); commit f5f91a453 siger, at 80 nye kanter er gennemset i hånden, og at højst 3 er forkerte (sagsbehandling, ikke tilsyn: ''påse,
-    om betingelserne er opfyldt''), men hvilke 80 er ikke gemt, så 5 er måske ikke gennemset, og der er ingen dom pr. kant; før ''påser'' og ''kontrollerer''
-    blev begrænset til sætninger om at overholde noget, var 18 af 50 tilfældige nye kanter forkerte. I et håndgennemsyn af 52 tilfældige klageinstans-kanter
-    uden for evalueringssættet var 2 forkerte (en sag, ikke en klage, blev indbragt for instansen); det mønster er siden udelukket. Læseren gemmer
-    alle afgørende myndigheder i sætningen (''truffet af ministeren eller af Forsyningstilsynet''), men kun den første i en opregning med komma.
-    ''Kirkeministeren'' er Sundheds- og Kirkeministeriet, der har kirkeområdet i dag, og ''Direktoratet for Kriminalforsorgen'' og ''Styrelsen for Danmarks Fængsler'' er Danmarks Fængsler.
-    Titlen på et nedlagt ministerium, hvis område er delt (''by-, land- og kirkeministeren'', ''indenrigs- og boligministeren''), peger stadig
-    på det nedlagte ministerium, og ''Trafik- og Byggestyrelsen'' læses ikke, fordi det er tidligere navn for både Trafikstyrelsen og Trafik-,
+  beskrivelse: 'Kataloget har 538 klageinstans-kanter og 573 tilsyn-kanter fra instans til lov eller forskrift (metode bestemmelse, sandsynlig;
+    543 og 573 før 2026-11-24, da fire kanter fra boligretten blev til domstolsproevelse og kanten fra Højesteret til retsplejeloven udgik, JGA-204;
+    483 og 512 før 2026-11-23, da tekstindekset fik 605 nye dokumenter, JGA-144, 542 og 571 før 2026-11-24, da teksten til tre nye versioner og
+    48 andre dokumenter kom med, JGA-198, og 542 og 573, før læseren samme dag fik navnet ''Styrelsen for Danmarks Fængsler''), læst med regulære
+    udtryk af de hentede dokumenters paragraffer. I evalueringssættets runde 3, trukket efter at læseren var skrevet, var 23 af 24 klageinstanser
+    rigtige og ingen manglede; den myndighed, der træffer afgørelsen, stod på kanten i 12 af 14 tilfælde; for tilsyn var 15 af 15 rigtige, men
+    11 af facits 26 manglede, fordi læseren kun kendte få formuleringer. Fra 2026-11-16 læses også ''påser, at'', ''kontrollerer'', ''er tilsynsmyndighed''
+    og ''styrelsens kontrol med'' (JGA-134); runde 3 giver derefter 27 rigtige, 2 forkerte og 4 manglende tilsynsmyndigheder, men runde 3 er nu
+    brugt til at rette læseren. De 2 forkerte står i teksten (''Kommunalbestyrelsen eller regionsrådet er dog tilsynsmyndighed'', ''Energinets
+    tilsyn med overholdelse af forskrifterne''), men ikke i facit. Runde 1-3 er dermed alle brugt til at rette læseren, og runde 4 er trukket
+    bagefter (49 dokumenter, samme grupper som runde 3). Dens første måling (kontrol-4.json, 2026-11-21) er den uafhængige: klageinstans 16 rigtige,
+    4 forkerte og 2 manglende; afgørende myndighed 11 rigtige, 1 forkert og 7 manglende; tilsynsmyndighed 20 rigtige, 1 forkert og 6 manglende.
+    3 af de 4 forkerte klageinstanser står i teksten, men ikke i facit; den fjerde er en erstatning, ikke en klage (''indbringe erstatningsspørgsmålet
+    for taksationsmyndighederne''). Den forkerte tilsynsmyndighed står i en sætning om bekendtgørelsens anvendelsesområde (''finder anvendelse
+    på Arbejdstilsynets tilsyn med''). De manglende tilsynsmyndigheder står i formuleringer, læseren ikke kender (''forestår … kontrol'', ''gennemfører
+    rutineinspektioner'', ''er … bygningsmyndighed og påser'', ''Ministeren fører tilsyn'' uden titel, ''ministerens omkostninger forbundet med
+    tilsyn'', adgang til ejendom ''for at kontrollere''). JGA-134 gav 85 nye tilsyn-kanter (431 til 516); commit f5f91a453 siger, at 80 nye kanter
+    er gennemset i hånden, og at højst 3 er forkerte (sagsbehandling, ikke tilsyn: ''påse, om betingelserne er opfyldt''), men hvilke 80 er ikke
+    gemt, så 5 er måske ikke gennemset, og der er ingen dom pr. kant; før ''påser'' og ''kontrollerer'' blev begrænset til sætninger om at overholde
+    noget, var 18 af 50 tilfældige nye kanter forkerte. I et håndgennemsyn af 52 tilfældige klageinstans-kanter uden for evalueringssættet var
+    2 forkerte (en sag, ikke en klage, blev indbragt for instansen); det mønster er siden udelukket. Læseren gemmer alle afgørende myndigheder
+    i sætningen (''truffet af ministeren eller af Forsyningstilsynet''), men kun den første i en opregning med komma. ''Kirkeministeren'' er Sundheds-
+    og Kirkeministeriet, der har kirkeområdet i dag, og ''Direktoratet for Kriminalforsorgen'' og ''Styrelsen for Danmarks Fængsler'' er Danmarks
+    Fængsler. Titlen på et nedlagt ministerium, hvis område er delt (''by-, land- og kirkeministeren'', ''indenrigs- og boligministeren''), peger
+    stadig på det nedlagte ministerium, og ''Trafik- og Byggestyrelsen'' læses ikke, fordi det er tidligere navn for både Trafikstyrelsen og Trafik-,
     Bygge- og Boligstyrelsen, og hvilken der menes, afhænger af området. Tre forbehold: en instans uden node i registry''et giver ingen kant (''ankenævnet'',
     ''det i henhold til … nedsatte ankenævn''; ministerens titel læses siden 2026-11-16 som ministeriet, og fortegnelsen over navne uden node
     står i raw/populate/2026-11-16-unavngivne.tsv); kanten gengiver dokumentets tekst, som den er udstedt, så byggeloven i LBK nr. 1178 af 2016
@@ -111461,41 +111497,41 @@ huller:
     og to uafhængige dommere har læst hver påstand (raw/populate/2026-11-23-jga143.domme.json): én forskrift, der selv angiver ruten, er nok til
     sandsynlig. 7 er lagt ind som sandsynlig: Miljø- og Fødevareklagenævnet over Naturstyrelsen (BEK nr. 269 af 2020 § 28) og 6 i raw/populate/2026-11-23-jga143-klagepar.*
     (Miljøstyrelsen over DANAK, Landsskatteretten over Skattestyrelsen, Miljø- og Fødevareklagenævnet over Kulturministeriet, Justitsministeriet
-    over Rigsadvokaten, Teleklagenævnet over Digitaliseringsstyrelsen, Ankestyrelsen over Det Socialfaglige Nævn vedrørende Magtanvendelse).
-    5 står åbne. Konkurrenceankenævnet over Konkurrencerådet og Forbrugerklagenævnet over Konkurrence- og Forbrugerstyrelsen blev lagt ind og
-    fjernet igen efter review samme dag: den første hviler kun på nævnets egen bekendtgørelse (BEK nr. 496 af 2021 § 1, ''i det omfang det
-    er fastsat i konkurrenceloven''), en bestemmelse, der afgrænser klageorganets kompetence (en kendt fejlklasse i meta.begraensninger), og
-    konkurrenceloven angiver ikke selv ruten; den anden hviler på forbrugerklageloven som udstedt (LOV nr. 524 af 2015 § 43, stk. 2), uden
-    at ændringslovene er læst, citatet nævner nævnets formand, og BEK nr. 65 af 2019 nævner Nævnenes Hus, så den afgørende myndighed er sandsynligvis
-    forkert. Teleklagenævnet over Klimadatastyrelsen står åben, fordi radioudstyrsloven
-    nævner Styrelsen for Dataforsyning og Infrastruktur, og Retsinformation fører loven under digitaliseringsområdet, så hvilken styrelse der
-    træffer afgørelserne i dag, er ikke fundet; Energiklagenævnet over Erhvervsministeriet og over Beskæftigelses- og Ligestillingsministeriet,
-    fordi ministerens beføjelser efter CO2-kvoteloven og offshoresikkerhedsloven udøves af Erhvervsstyrelsen og Arbejdstilsynet (BEK nr. 1525
-    af 2025 § 1, BEK nr. 1354 af 2019 § 2), og registry''et har Energiklagenævnet over de to styrelser. De to kanter til Udbetaling Danmark er
-    sænket til sandsynlig, fordi lov om Udbetaling Danmark § 4 a ikke selv angiver klageruten. Læsefejl i kanterne: Jernbanenævnet over Ankenævnet
-    for Bus, Tog og Metro (sætningen afgrænser kompetencen), Forbrugerklagenævnet over Konkurrence- og Forbrugerstyrelsen (§ 19 handler om forbrugeres
-    klager over erhvervsdrivende), Landsskatteretten over klima-, energi- og forsyningsministeren (§ 11, stk. 5, handler om told- og skatteforvaltningens
-    pålæg); ''social- og boligministeren'' læses som Socialministeriet og ''indenrigs- og sundhedsministeren'' som Sundheds- og Kirkeministeriet,
-    selv om området nu ligger hos Børne-, Ældre- og Boligministeriet og Økonomi- og Indenrigsministeriet. Uden for de otte domæner er præcisionen
-    målt i en stikprøve med fast frø (20261121, 2026-11-21, JGA-137): klageinstans 80 rigtige og 19 forkerte af 100 (81 %; 1 kan ikke afgøres),
-    afgørende myndighed rigtig på 39 af 40, tilsyn 92 rigtige og 8 forkerte af 100 (92 %), målt før rettelserne (dk-regulering/eval/README.md).
-    Fire fejlklasser er rettet i læseren (dom, der ankes til en domstol; overgangsregel; ''til brug for X''s tilsyn med''; ''X''s afgørelseskompetence''):
-    7 klageinstans- og 3 tilsyn-kanter er fjernet, ingen tilføjet, og én forkert afgørende myndighed er fjernet; de 7 af stikprøvens kanter, der
-    forsvandt, var alle dømt forkerte. De øvrige fejlklasser står i meta.begraensninger med eksempler. Det betyder, at omkring hver femte klageinstans-kant
-    og hver tolvte tilsyn-kant uden for de otte domæner må antages at være forkert, oftest fordi sætningen nævner klageorganet uden at give klageadgang
-    over en myndigheds afgørelse efter dokumentet. Løst 2026-11-24 (JGA-199, mulighed 2: mærk kanten): kanter læst af et dokument, der ikke er
-    gældende, mest afløserkandidaternes ophævede love fra JGA-144, viste før kun deres status gennem dokumentet, så en søgning, der fulgte kanterne
-    uden at slå dokumentet op, kunne vise en ophævet klagevej som gældende. Nu har de 101 af de 1.116 kanter feltet dokumentstatus (historisk),
-    og scripts/build.py kræver det på netop de kanter. Feltet viser status pr. katalogets statusdato, ikke den dag, bestemmelsen holdt op med
-    at gælde. Løst 2026-11-24 (JGA-198, efter review): ''Styrelsen for Danmarks Fængsler'' blev ikke fundet af læseren, fordi nodens navn er
-    ''Danmarks Fængsler (Styrelsen for Danmarks Fængsler)'', og myndigheder() kun tager navnet med og uden parentesen, ikke teksten i den. Navnet
-    står nu i eksport.ALIAS, og LBK nr. 982 af 2026 § 111 giver klageinstans-kanten fra Danmarks Fængsler, så klageruten ikke længere kun står
-    på den historiske LBK nr. 201 af 2023 (''Direktoratet for Kriminalforsorgen''). Aliaset gav ingen andre kanter i kataloget. Kendt begrænsning:
-    51 instansnoder har et navn på formen ''X (Y)'', og i 49 af dem er Y ikke en nøgle for læseren (i de to andre, KL og Danmarks Fængsler,
-    er det). De fleste er forkortelser (ECHA, DS, STAR) eller præciseringer (''kommunale'', ''efter vejloven'', ''98 kommunalbestyrelser''),
-    som ville blive falske nøgler, hvis læseren tog teksten i parentesen med. Omkring seks er rigtige alternative navne: Politiklagemyndigheden,
-    Det Uafhængige Tilsyn med Bevismidler, Branchefællesskabet for arbejdsmiljø i bygge og anlæg, Dansk Vand- og Spildevandsforening, ladepunktsoperatører
-    og teleudbydere. De står ikke i ALIAS, så en sætning, der kun bruger et af dem, giver ingen kant.'
+    over Rigsadvokaten, Teleklagenævnet over Digitaliseringsstyrelsen, Ankestyrelsen over Det Socialfaglige Nævn vedrørende Magtanvendelse). 5
+    står åbne. Konkurrenceankenævnet over Konkurrencerådet og Forbrugerklagenævnet over Konkurrence- og Forbrugerstyrelsen blev lagt ind og fjernet
+    igen efter review samme dag: den første hviler kun på nævnets egen bekendtgørelse (BEK nr. 496 af 2021 § 1, ''i det omfang det er fastsat
+    i konkurrenceloven''), en bestemmelse, der afgrænser klageorganets kompetence (en kendt fejlklasse i meta.begraensninger), og konkurrenceloven
+    angiver ikke selv ruten; den anden hviler på forbrugerklageloven som udstedt (LOV nr. 524 af 2015 § 43, stk. 2), uden at ændringslovene er
+    læst, citatet nævner nævnets formand, og BEK nr. 65 af 2019 nævner Nævnenes Hus, så den afgørende myndighed er sandsynligvis forkert. Teleklagenævnet
+    over Klimadatastyrelsen står åben, fordi radioudstyrsloven nævner Styrelsen for Dataforsyning og Infrastruktur, og Retsinformation fører loven
+    under digitaliseringsområdet, så hvilken styrelse der træffer afgørelserne i dag, er ikke fundet; Energiklagenævnet over Erhvervsministeriet
+    og over Beskæftigelses- og Ligestillingsministeriet, fordi ministerens beføjelser efter CO2-kvoteloven og offshoresikkerhedsloven udøves af
+    Erhvervsstyrelsen og Arbejdstilsynet (BEK nr. 1525 af 2025 § 1, BEK nr. 1354 af 2019 § 2), og registry''et har Energiklagenævnet over de to
+    styrelser. De to kanter til Udbetaling Danmark er sænket til sandsynlig, fordi lov om Udbetaling Danmark § 4 a ikke selv angiver klageruten.
+    Læsefejl i kanterne: Jernbanenævnet over Ankenævnet for Bus, Tog og Metro (sætningen afgrænser kompetencen), Forbrugerklagenævnet over Konkurrence-
+    og Forbrugerstyrelsen (§ 19 handler om forbrugeres klager over erhvervsdrivende), Landsskatteretten over klima-, energi- og forsyningsministeren
+    (§ 11, stk. 5, handler om told- og skatteforvaltningens pålæg); ''social- og boligministeren'' læses som Socialministeriet og ''indenrigs-
+    og sundhedsministeren'' som Sundheds- og Kirkeministeriet, selv om området nu ligger hos Børne-, Ældre- og Boligministeriet og Økonomi- og
+    Indenrigsministeriet. Uden for de otte domæner er præcisionen målt i en stikprøve med fast frø (20261121, 2026-11-21, JGA-137): klageinstans
+    80 rigtige og 19 forkerte af 100 (81 %; 1 kan ikke afgøres), afgørende myndighed rigtig på 39 af 40, tilsyn 92 rigtige og 8 forkerte af 100
+    (92 %), målt før rettelserne (dk-regulering/eval/README.md). Fire fejlklasser er rettet i læseren (dom, der ankes til en domstol; overgangsregel;
+    ''til brug for X''s tilsyn med''; ''X''s afgørelseskompetence''): 7 klageinstans- og 3 tilsyn-kanter er fjernet, ingen tilføjet, og én forkert
+    afgørende myndighed er fjernet; de 7 af stikprøvens kanter, der forsvandt, var alle dømt forkerte. De øvrige fejlklasser står i meta.begraensninger
+    med eksempler. Det betyder, at omkring hver femte klageinstans-kant og hver tolvte tilsyn-kant uden for de otte domæner må antages at være
+    forkert, oftest fordi sætningen nævner klageorganet uden at give klageadgang over en myndigheds afgørelse efter dokumentet. Løst 2026-11-24
+    (JGA-199, mulighed 2: mærk kanten): kanter læst af et dokument, der ikke er gældende, mest afløserkandidaternes ophævede love fra JGA-144,
+    viste før kun deres status gennem dokumentet, så en søgning, der fulgte kanterne uden at slå dokumentet op, kunne vise en ophævet klagevej
+    som gældende. Nu har de 100 af de 1.111 kanter feltet dokumentstatus (historisk), og scripts/build.py kræver det på netop de kanter. Feltet
+    viser status pr. katalogets statusdato, ikke den dag, bestemmelsen holdt op med at gælde. Løst 2026-11-24 (JGA-198, efter review): ''Styrelsen
+    for Danmarks Fængsler'' blev ikke fundet af læseren, fordi nodens navn er ''Danmarks Fængsler (Styrelsen for Danmarks Fængsler)'', og myndigheder()
+    kun tager navnet med og uden parentesen, ikke teksten i den. Navnet står nu i eksport.ALIAS, og LBK nr. 982 af 2026 § 111 giver klageinstans-kanten
+    fra Danmarks Fængsler, så klageruten ikke længere kun står på den historiske LBK nr. 201 af 2023 (''Direktoratet for Kriminalforsorgen'').
+    Aliaset gav ingen andre kanter i kataloget. Kendt begrænsning: 51 instansnoder har et navn på formen ''X (Y)'', og i 49 af dem er Y ikke en
+    nøgle for læseren (i de to andre, KL og Danmarks Fængsler, er det). De fleste er forkortelser (ECHA, DS, STAR) eller præciseringer (''kommunale'',
+    ''efter vejloven'', ''98 kommunalbestyrelser''), som ville blive falske nøgler, hvis læseren tog teksten i parentesen med. Omkring seks er
+    rigtige alternative navne: Politiklagemyndigheden, Det Uafhængige Tilsyn med Bevismidler, Branchefællesskabet for arbejdsmiljø i bygge og
+    anlæg, Dansk Vand- og Spildevandsforening, ladepunktsoperatører og teleudbydere. De står ikke i ALIAS, så en sætning, der kun bruger et af
+    dem, giver ingen kant.'
   noder:
   - kilde-retsinformation
   - naevn-energiklagenaevnet

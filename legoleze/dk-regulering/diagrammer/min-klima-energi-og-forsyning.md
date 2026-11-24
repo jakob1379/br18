@@ -301,7 +301,7 @@ flowchart LR
     lov_varmeforsyningsloven -->|implementerer_EU| eu_dir_2023_1791
     lov_ve_loven -.->|implementerer_EU| eu_dir_2018_2001
     lov_ve_loven -->|implementerer_EU| eu_dir_2023_2413
-    dom_domstolene -->|klageinstans| sty_geodatastyrelsen
+    dom_domstolene -->|domstolsproevelse| sty_geodatastyrelsen
     naevn_energiklagenaevnet -->|klageinstans| org_energinet
     naevn_energiklagenaevnet -->|klageinstans| sty_energistyrelsen
     naevn_energiklagenaevnet -->|klageinstans| tilsyn_forsyningstilsynet

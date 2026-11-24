@@ -134,12 +134,12 @@ flowchart LR
     naevn_skatteankenaevn -->|klageinstans| sty_skatteforvaltningen
     naevn_vurderingsankenaevn -.->|klageinstans| sty_vurderingsstyrelsen
     naevn_motorankenaevn -.->|klageinstans| sty_motorstyrelsen
-    dom_byretterne -.->|klageinstans| naevn_landsskatteretten
-    dom_byretterne -->|klageinstans| sty_skatteforvaltningen
-    dom_byretterne -->|klageinstans| sty_spillemyndigheden
-    dom_byretterne -.->|klageinstans| naevn_skatteankenaevn
-    dom_byretterne -.->|klageinstans| naevn_vurderingsankenaevn
-    dom_byretterne -.->|klageinstans| naevn_motorankenaevn
+    dom_byretterne -.->|domstolsproevelse| naevn_landsskatteretten
+    dom_byretterne -->|domstolsproevelse| sty_skatteforvaltningen
+    dom_byretterne -->|domstolsproevelse| sty_spillemyndigheden
+    dom_byretterne -.->|domstolsproevelse| naevn_skatteankenaevn
+    dom_byretterne -.->|domstolsproevelse| naevn_vurderingsankenaevn
+    dom_byretterne -.->|domstolsproevelse| naevn_motorankenaevn
     raad_skatteraadet -->|tilsyn| naevn_skatteankenaevn
     raad_skatteraadet -->|tilsyn| naevn_vurderingsankenaevn
     raad_skatteraadet -->|tilsyn| naevn_motorankenaevn

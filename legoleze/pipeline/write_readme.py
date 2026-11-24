@@ -186,6 +186,7 @@ Den fulde liste over ressortomlægninger med datoer og kilder står i `registry.
 | `hjemmel_for` | lov/bekendtgørelse → bekendtgørelse/vejledning/instans/plan |
 | `udsteder` | instans → retsakt/vejledning/dokumentkilde |
 | `klageinstans` | klageinstans → førsteinstans |
+| `domstolsproevelse` | domstol → instans/lov, hvis afgørelser har en særlig vej til domstolen |
 | `tilsyn` | tilsynsmyndighed → tilsynsobjekt |
 | `implementerer_EU` | dansk retsakt → EU-retsakt |
 | `henviser_til` | dokument → dokument |

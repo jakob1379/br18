@@ -75,6 +75,7 @@ PUBLIC = B.INSTANCE_TYPES - {"privat-organisation", "standardiseringsorgan"}
 ENDS = {
     "ressortansvar": ({"ministerium"}, None), "delegation": (B.INSTANCE_TYPES, B.INSTANCE_TYPES), "hjemmel_for": (B.DOCUMENT_TYPES, None),
     "udsteder": (B.INSTANCE_TYPES, B.DOCUMENT_TYPES), "klageinstans": (B.INSTANCE_TYPES, B.INSTANCE_TYPES), "tilsyn": (B.INSTANCE_TYPES, None),
+    "domstolsproevelse": ({"domstol"}, None),
     "implementerer_EU": (B.DOCUMENT_TYPES, B.DOCUMENT_TYPES), "henviser_til": (B.DOCUMENT_TYPES, B.DOCUMENT_TYPES),
 }
 PRIMARY = {"retsinformation.dk", "lovtidende.dk", "ft.dk", "europa.eu", "domstol.dk", "stm.dk", "regeringen.dk"}
@@ -207,7 +208,7 @@ def check(f: dict, ids: dict, edges: set) -> list[str]:
         linked.update(key)
         for end, allowed in zip(("from", "to"), ENDS.get(e.get("type"), (None, None))):
             if allowed and known.get(e.get(end)) not in allowed | {None}:
-                kind = "ministerium" if allowed == {"ministerium"} else "instans" if allowed == B.INSTANCE_TYPES else "dokument"
+                kind = "ministerium" if allowed == {"ministerium"} else "domstol" if allowed == {"domstol"} else "instans" if allowed == B.INSTANCE_TYPES else "dokument"
                 err(f"kant {lab}: {end} skal være {kind}, men {e.get(end)} er {known.get(e.get(end))}")
         if not e.get("beskrivelse"):
             err(f"kant {lab}: beskrivelse mangler")

@@ -73,6 +73,7 @@ META = {
         "hjemmel_for": "lov/bekendtgørelse → bekendtgørelse/vejledning/instans/plan: giver hjemmel til / opretter",
         "udsteder": "instans → retsakt/vejledning/dokumentkilde: udsteder, udgiver eller driver",
         "klageinstans": "klageinstans → førsteinstans: from behandler klager over to's afgørelser (lov i beskrivelse)",
+        "domstolsproevelse": "domstol → instans/lov: to's afgørelser, eller afgørelser efter to, kan indbringes for from ad en særlig vej (bestemt domstol, frist, krav om indbringelse eller myndighedens pligt); ikke administrativ klage",
         "tilsyn": "tilsynsmyndighed → tilsynsobjekt",
         "implementerer_EU": "dansk retsakt → EU-retsakt",
         "henviser_til": "dokument → dokument: typisk krydsreference i teksten",
