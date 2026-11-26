@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 78 960 272" width="960" height="272" role="img" aria-labelledby="t d">
+<title id="t">BR18 mirror pipeline</title>
+<desc id="d">Pages from bygningsreglementet.dk are fetched, converted to Markdown, cross-linked by paragraph reference and built with Zensical. Each page lands on the part of a building section it regulates: Konstruktioner, Brand, Lys og udsyn and Ventilation.</desc>
+<style>
+svg{--bg:#F3F6F9;--grid:#E3EAF1;--ink:#17324D;--mute:#56708A;--line:#9DB2C6;--wall:#CBD7E2;--acc:#B2400A;--soft:#F8DCCB;--paper:#FFFFFF}
+@media (prefers-color-scheme:dark){svg{--bg:#0D2238;--grid:#15304D;--ink:#D8E6F3;--mute:#9DB6CE;--line:#4C6C8E;--wall:#27466A;--acc:#FF9F5A;--soft:#4A2D1E;--paper:#123253}}
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:var(--ink)}
+.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.n{font-size:12.5px;font-weight:600}
+.s{font-size:10.5px;fill:var(--mute)}
+.ln{stroke:var(--ink);fill:none;stroke-width:1.5}
+.th{stroke:var(--line);fill:none;stroke-width:1}
+.dash{stroke-dasharray:3 3}
+.wall{fill:var(--wall);stroke:var(--ink);stroke-width:1}
+.hot *{stroke:var(--acc)}
+.hot text{fill:var(--acc);stroke:var(--bg);stroke-width:3px;paint-order:stroke}
+.k0{--d:0s}.k1{--d:-12s}.k2{--d:-8s}.k3{--d:-4s}
+.sheet,.sheet *,.hot,.row{animation-duration:16s;animation-iteration-count:infinite;animation-delay:var(--d);animation-timing-function:ease-in-out}
+.sheet{animation-name:move;opacity:0}
+.html{animation-name:html}.md{animation-name:md;opacity:0}.lk{animation-name:lk;opacity:0}.ok{animation-name:ok;opacity:0}
+.hot{animation-name:hot;opacity:0}
+.row{animation-name:row;opacity:0}
+.pulse{animation:pulse 4s ease-out infinite;opacity:0}
+@keyframes move{0%{opacity:0;transform:translateX(0)}2%{opacity:1;transform:translateX(0)}4%,5.5%{transform:translateX(64px)}8%,9.5%{transform:translateX(152px)}12%,13.5%{transform:translateX(240px)}16%,17.5%{transform:translateX(328px)}20%{opacity:1;transform:translateX(424px)}23%{opacity:0;transform:translateX(436px)}24%,100%{opacity:0;transform:translateX(0)}}
+@keyframes html{0%,8.6%{opacity:1}9%,100%{opacity:0}}
+@keyframes md{0%,8.6%{opacity:0}9%,100%{opacity:1}}
+@keyframes lk{0%,12.6%{opacity:0}13%,100%{opacity:1}}
+@keyframes ok{0%,16.6%{opacity:0}17%,100%{opacity:1}}
+@keyframes hot{0%,19.5%{opacity:0}22%,42%{opacity:1}47%,100%{opacity:0}}
+@keyframes row{0%{opacity:0}1.5%,5%{opacity:1}10%,100%{opacity:0}}
+@keyframes pulse{0%,14%{opacity:0}17%,22%{opacity:1}32%,100%{opacity:0}}
+@media (prefers-reduced-motion:reduce){
+*{animation:none!important}
+.sheet{opacity:1}
+.k0.sheet{transform:translateX(108px)}.k1.sheet{transform:translateX(196px)}.k2.sheet{transform:translateX(284px)}.k3.sheet{transform:translateX(380px)}
+.k1 .html,.k2 .html,.k3 .html{opacity:0}
+.k1 .md,.k2 .md,.k3 .md,.k2 .lk,.k3 .lk,.k3 .ok{opacity:1}
+.hot{opacity:1}
+}
+</style>
+<defs>
+<pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse"><path d="M16 0H0V16" fill="none" stroke-width="1" style="stroke:var(--grid)"/></pattern>
+<pattern id="earth" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 8L8 0" stroke-width="1" style="stroke:var(--line)"/></pattern>
+<g id="sh">
+<path d="M-11-14H5L11-8V14H-11Z" stroke-width="1.2" style="fill:var(--paper);stroke:var(--ink)"/>
+<path d="M5-14V-8H11" fill="none" stroke-width="1" style="stroke:var(--ink)"/>
+</g>
+</defs>
+
+<rect x="0" y="78" width="960" height="272" style="fill:var(--bg)"/>
+<rect x="0" y="78" width="960" height="272" fill="url(#grid)"/>
+
+<!-- origin site -->
+<rect x="24" y="110" width="176" height="180" rx="6" stroke-width="1.2" style="fill:var(--paper);stroke:var(--ink)"/>
+<path d="M24 132H200" class="th"/>
+<text x="36" y="125" class="m" font-size="10.5">bygningsreglementet.dk</text>
+<g>
+<rect class="row k0" x="30" y="140" width="164" height="28" rx="3" style="fill:var(--soft)"/>
+<rect class="row k1" x="30" y="174" width="164" height="28" rx="3" style="fill:var(--soft)"/>
+<rect class="row k2" x="30" y="208" width="164" height="28" rx="3" style="fill:var(--soft)"/>
+<rect class="row k3" x="30" y="242" width="164" height="28" rx="3" style="fill:var(--soft)"/>
+</g>
+<g font-size="11">
+<text x="38" y="158" class="m">§ 340</text><text x="38" y="192" class="m">§ 82</text><text x="38" y="226" class="m">§ 377</text><text x="38" y="260" class="m">§ 420</text>
+</g>
+<g class="th" stroke-linecap="round" stroke-width="3">
+<path d="M88 150H184M88 160H158M88 184H178M88 194H140M88 218H182M88 228H150M88 252H176M88 262H146"/>
+</g>
+
+<!-- track and stations -->
+<path d="M206 200H644" class="th dash"/>
+<g>
+<circle class="pulse" cx="280" cy="200" r="13" style="fill:var(--soft);stroke:var(--acc)"/>
+<circle class="pulse" cx="368" cy="200" r="13" style="fill:var(--soft);stroke:var(--acc);animation-delay:-3.36s"/>
+<circle class="pulse" cx="456" cy="200" r="13" style="fill:var(--soft);stroke:var(--acc);animation-delay:-2.72s"/>
+<circle class="pulse" cx="544" cy="200" r="13" style="fill:var(--soft);stroke:var(--acc);animation-delay:-2.08s"/>
+</g>
+<g stroke-width="1.5" style="fill:var(--bg);stroke:var(--ink)">
+<circle cx="280" cy="200" r="5"/><circle cx="368" cy="200" r="5"/><circle cx="456" cy="200" r="5"/><circle cx="544" cy="200" r="5"/>
+</g>
+<path d="M280 172V184M456 172V184M368 216V228M544 216V228" class="th"/>
+<g text-anchor="middle">
+<text x="280" y="148" class="n">Fetch</text><text x="280" y="164" class="s m">fetch_origin_pages.py</text>
+<text x="456" y="148" class="n">Link § references</text><text x="456" y="164" class="s m">link_references.py</text>
+<text x="368" y="244" class="n">Convert to Markdown</text><text x="368" y="260" class="s m">convert_br18_docs.py</text>
+<text x="544" y="244" class="n">Build and check</text><text x="544" y="260" class="s m">zensical build --strict</text>
+</g>
+
+<!-- building section -->
+<rect x="648" y="300" width="188" height="10" fill="url(#earth)"/>
+<path d="M648 300H836" class="ln"/>
+<path d="M660 152L747 98L834 152" class="ln" stroke-width="2" stroke-linejoin="round"/>
+<g class="wall">
+<rect x="666" y="300" width="18" height="22"/><rect x="810" y="300" width="18" height="22"/>
+<rect x="672" y="150" width="6" height="150"/>
+<rect x="816" y="150" width="6" height="12"/><rect x="816" y="186" width="6" height="26"/><rect x="816" y="236" width="6" height="26"/><rect x="816" y="286" width="6" height="14"/>
+<rect x="672" y="146" width="150" height="5"/><rect x="672" y="198" width="150" height="5"/><rect x="672" y="248" width="150" height="5"/><rect x="672" y="296" width="150" height="5"/>
+</g>
+<path d="M817 162V186M821 162V186M817 212V236M821 212V236M817 262V286M821 262V286" class="th"/>
+<path d="M690 296h10v-9h10v-9h10v-9h10v-9h10v-9M690 248h10v-9h10v-9h10v-9h10v-9h10v-9M690 198h10v-9h10v-9h10v-9h10v-9h10v-7" class="ln" stroke-width="1.2"/>
+<path d="M816 174L772 194M816 224L772 244M816 274L772 294" class="th dash"/>
+<path d="M748 210H800V203M748 260H800V253M748 260V203M751 260V90M754 210V90" class="th"/>
+<path d="M744 90H761M746 85H759" class="ln" stroke-width="1.2"/>
+
+<!-- callouts -->
+<path d="M761 90H846M822 174H846M742 232H846M828 316H846" class="th dash"/>
+<g>
+<text x="852" y="94" class="n">Ventilation</text><text x="852" y="108" class="s">§ 420–452</text>
+<text x="852" y="178" class="n">Lys og udsyn</text><text x="852" y="192" class="s">§ 377–384</text>
+<text x="852" y="236" class="n">Brand</text><text x="852" y="250" class="s">§ 82–158</text>
+<text x="852" y="320" class="n">Konstruktioner</text><text x="852" y="334" class="s">§ 340–357</text>
+</g>
+
+<!-- highlights: each arriving page lights the part of the building it regulates -->
+<g class="hot k0" fill="none" stroke-width="2">
+<path d="M666 322V300H684V322ZM810 322V300H828V322ZM672 300V146H822M672 201H822M672 251H822M672 299H822M816 150V300M828 316H846"/>
+<text x="852" y="320" class="n">Konstruktioner</text><text x="852" y="334" class="s">§ 340–357</text>
+</g>
+<g class="hot k1" fill="none" stroke-width="2">
+<path d="M690 296h10v-9h10v-9h10v-9h10v-9h10v-9M690 248h10v-9h10v-9h10v-9h10v-9h10v-9M690 198h10v-9h10v-9h10v-9h10v-9h10v-7M742 232H846"/>
+<text x="852" y="236" class="n">Brand</text><text x="852" y="250" class="s">§ 82–158</text>
+</g>
+<g class="hot k2" fill="none" stroke-width="2">
+<path d="M819 162V186M819 212V236M819 262V286M822 174H846"/>
+<path d="M816 174L772 194M816 224L772 244M816 274L772 294" stroke-dasharray="3 3"/>
+<text x="852" y="178" class="n">Lys og udsyn</text><text x="852" y="192" class="s">§ 377–384</text>
+</g>
+<g class="hot k3" fill="none" stroke-width="2">
+<path d="M748 210H800V203M748 260H800V253M748 260V203M751 260V90M754 210V90M744 90H761M746 85H759M761 90H846"/>
+<text x="852" y="94" class="n">Ventilation</text><text x="852" y="108" class="s">§ 420–452</text>
+</g>
+
+<!-- pages in flight: HTML until converted, Markdown after, linked §, checked build -->
+<g id="pg">
+<g class="sheet k0"><use href="#sh" x="216" y="200"/><text class="html m" x="216" y="203" font-size="8" text-anchor="middle">&lt;/&gt;</text><g class="md"><text x="216" y="200" font-size="11" font-weight="700" text-anchor="middle">§</text><path d="M209 206H223" class="th"/></g><path class="lk" d="M210 203H222" stroke-width="1.6" style="stroke:var(--acc)"/><g class="ok"><circle cx="227" cy="186" r="6" style="fill:var(--acc)"/><path d="M224 186l2 2 4-4" fill="none" stroke-width="1.5" style="stroke:var(--paper)"/></g></g>
+<g class="sheet k1"><use href="#sh" x="216" y="200"/><text class="html m" x="216" y="203" font-size="8" text-anchor="middle">&lt;/&gt;</text><g class="md"><text x="216" y="200" font-size="11" font-weight="700" text-anchor="middle">§</text><path d="M209 206H223" class="th"/></g><path class="lk" d="M210 203H222" stroke-width="1.6" style="stroke:var(--acc)"/><g class="ok"><circle cx="227" cy="186" r="6" style="fill:var(--acc)"/><path d="M224 186l2 2 4-4" fill="none" stroke-width="1.5" style="stroke:var(--paper)"/></g></g>
+<g class="sheet k2"><use href="#sh" x="216" y="200"/><text class="html m" x="216" y="203" font-size="8" text-anchor="middle">&lt;/&gt;</text><g class="md"><text x="216" y="200" font-size="11" font-weight="700" text-anchor="middle">§</text><path d="M209 206H223" class="th"/></g><path class="lk" d="M210 203H222" stroke-width="1.6" style="stroke:var(--acc)"/><g class="ok"><circle cx="227" cy="186" r="6" style="fill:var(--acc)"/><path d="M224 186l2 2 4-4" fill="none" stroke-width="1.5" style="stroke:var(--paper)"/></g></g>
+<g class="sheet k3"><use href="#sh" x="216" y="200"/><text class="html m" x="216" y="203" font-size="8" text-anchor="middle">&lt;/&gt;</text><g class="md"><text x="216" y="200" font-size="11" font-weight="700" text-anchor="middle">§</text><path d="M209 206H223" class="th"/></g><path class="lk" d="M210 203H222" stroke-width="1.6" style="stroke:var(--acc)"/><g class="ok"><circle cx="227" cy="186" r="6" style="fill:var(--acc)"/><path d="M224 186l2 2 4-4" fill="none" stroke-width="1.5" style="stroke:var(--paper)"/></g></g>
+</g>
+</svg>
