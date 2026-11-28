@@ -4,7 +4,7 @@
     python3 tekst.py plan             # udsnittet pr. trin: dokumenter i alt og hvor mange der er hentet
     python3 tekst.py hent [MINUTTER]  # hent manglende dokumenter i højst MINUTTER (105) -> intermediate/corpus/xml/<samling>/<resten af id>.xml.gz
     python3 tekst.py tidslinjer [MIN] # hent Retsinformations tidslinje pr. lov i højst MIN (105) minutter -> intermediate/corpus/tidslinjer.jsonl
-    python3 tekst.py indeks           # katalog/tekst.jsonl: sti, hentedato, omfang, præambel, fodnoter, nævnte retsakter, underskriftssted og EU-retsakter pr. hentet dokument
+    python3 tekst.py indeks           # katalog/tekst.jsonl: sti, hentedato, omfang, præambel, fodnoter, nævnte retsakter, underskriftssted, EU-retsakter og indsatte indledninger og titelfodnoter pr. hentet dokument
     python3 tekst.py fuld             # hele teksten som JSON-linjer på stdout: id, paragraf og tekst, én linje pr. paragraf
     python3 tekst.py selftest
 
@@ -144,8 +144,9 @@ def tidslinjer(minutter: float) -> dict:
 
 
 def udtraek(xml: str) -> dict:
-    """Omfang, præambel uden fodnoter, fodnoter, de love og bekendtgørelser teksten nævner med nummer og dato ({"katalog-id|dato": antal})
-    og, fra Meta, underskriftssted og EU-retsakter (CELEX); tomme felter udelades."""
+    """Omfang, præambel uden fodnoter, fodnoter (n_titelnoter: hvor mange af de første der står ved titlen), de love og bekendtgørelser teksten nævner med nummer og dato
+    ({"katalog-id|dato": antal}), fra Meta underskriftssted og EU-retsakter (CELEX) og, for en ændringsforskrift, de indledninger og titelfodnoter, den sætter ind i andre forskrifter
+    (indsat: [{"i": "katalog-id|dato", "praeambel": tekst} eller {"i": ..., "noter": [tekst]}], se eksport.indsat; en fodnote, der udgår, har en tom liste); tomme felter udelades."""
     led = lambda navn, x: [t for t in (re.sub(r"\s+", " ", H.text_of(m)) for m in re.findall(rf"<{navn}\b[^>]*>(.*?)</{navn}>", x, re.DOTALL)) if t]
     meta = H.meta_of(xml)
     liste = lambda v: [v] if isinstance(v, str) else v or []
@@ -154,7 +155,9 @@ def udtraek(xml: str) -> dict:
     saetninger = [(par, s) for par, t in afsnit(xml) if par for s in E.SAETNING.split(" ".join(re.sub(r"[\u200b-\u200d\u2060\ufeff\u00ad]", "", t).split()))]
     instansled = [[par, s[:600]] for par, s in saetninger if any(r.search(s) for r in E.LED)]
     felter = {"praeambel": E.P.praeambel(xml), "klage_tilsyn": instansled[:80], "domstol": [[par, s[:600]] for par, s in saetninger if E.DOMSTOLSLED.search(s)][:80], "noter": led("Nota", E.P.NYTEKST.sub("", xml)), "naevner": dict(sorted(naevner.items())),
-              "underskrevet_af": "; ".join(liste(meta.get("PlaceOfSignature"))), "eu": liste(meta.get("EuReferences"))}
+              "n_titelnoter": len(led("Nota", " ".join(re.findall(r"(?s)<TitelGruppe\b.*?</TitelGruppe>", E.P.NYTEKST.sub("", xml))))),
+              "underskrevet_af": "; ".join(liste(meta.get("PlaceOfSignature"))), "eu": liste(meta.get("EuReferences")),
+              "indsat": [{"i": i, felt: E.P.praeambel(f"<Indledning>{x}</Indledning>") if felt == "praeambel" else led("Nota", x) or led("Ny", f"<Ny>{x}</Ny>")} for i, felt, x in E.indsat(xml)]}
     return {"n_tegn": len(tekst(xml)), "n_paragraffer": len(re.findall(r"<Paragraf\b", xml)), **{k: v for k, v in felter.items() if v}}
 
 
@@ -214,7 +217,16 @@ def selftest() -> None:
     assert "Æbler er frugt." in tekst(xml) and "Bekendtgørelse om æbler" not in tekst(xml) and u["n_tegn"] == len(tekst(xml))
     assert udtraek("<Dokument><Paragraf>x</Paragraf></Dokument>") == {"n_tegn": 1, "n_paragraffer": 1}
     nyt = udtraek("<Dokument><Nota><Char>1) Egen note.</Char></Nota><Paragraf><AendringNyTekst><Nota><Char>1) Hovedbekendtgørelsens nye note.</Char></Nota></AendringNyTekst></Paragraf></Dokument>")
-    assert nyt["noter"] == ["1) Egen note."]
+    assert nyt["noter"] == ["1) Egen note."] and "indsat" not in nyt and "n_titelnoter" not in nyt
+    aen = lambda d, x: f"<AendringDefinition><Linea><Char>{d}</Char></Linea></AendringDefinition><AendringNyTekst>{x}</AendringNyTekst>"
+    ind = udtraek("<Dokument><TitelGruppe><Nota><Char>1) Titelnote.</Char></Nota></TitelGruppe><Linea><Char>I bekendtgørelse nr. 7 af 1. januar 2020 om æbler foretages følgende ændringer:</Char></Linea>"
+                  + aen("Fodnoten til bekendtgørelsens titel affattes således:", "<Nota><Char>1) Ny titelnote.</Char></Nota>")
+                  + aen("Indledningen affattes således:", "<Exitus><Linea><Char>I medfør af § 5 i lov om æbler fastsættes:</Char></Linea></Exitus>")
+                  + aen("Som fodnote til bekendtgørelsens titel indsættes:", "<Indentatio><Char>1) Uden</Char><Char>notemærke.</Char></Indentatio>")
+                  + aen("§ 3 affattes således:", "<Paragraf><Nota><Char>2) Note til § 3.</Char></Nota></Paragraf>") + "<Paragraf><Nota><Char>2) Egen note.</Char></Nota></Paragraf></Dokument>")
+    assert ind["indsat"] == [{"i": "lta-2020-7|2020-01-01", "noter": ["1) Ny titelnote."]}, {"i": "lta-2020-7|2020-01-01", "praeambel": "I medfør af § 5 i lov om æbler fastsættes:"},
+                             {"i": "lta-2020-7|2020-01-01", "noter": ["1) Uden notemærke."]}]
+    assert ind["noter"] == ["1) Titelnote.", "2) Egen note."] and ind["n_titelnoter"] == 1 and "praeambel" not in ind
     assert afsnit(xml) == [("§ 1", "§ 1.\nÆbler er frugt.")] and afsnit("<Dokument><Meta><Year>1996</Year></Meta></Dokument>") == []
     assert afsnit("<Dokument><Meta/><TekstGruppe><Exitus><Char>En afgørelse.</Char></Exitus></TekstGruppe></Dokument>") == [(None, "En afgørelse.")]
     to = "<Paragraf localId='16C'><Explicatus>§ 16 C. </Explicatus><Stk><Char>A</Char></Stk></Paragraf><Paragraf><Stk><Char>B</Char></Stk></Paragraf>"

@@ -6,7 +6,7 @@
 - Øvrige samlinger: **131080** dokumenter (cirkulærer, vejledninger, afgørelser m.m., se nederst)
 - Seneste udstedelsesdato i datasættet: 2026-11-20
 - Status høstet: 2026-11-12 – 2026-11-23
-- Kanter: 346679 · EU-retsakter refereret: 1943 · koblet til registry-noder: 413
+- Kanter: 346726 · EU-retsakter refereret: 1943 · koblet til registry-noder: 413
 
 ## Dokumenttyper
 
@@ -153,14 +153,14 @@
 |---|---:|---:|---:|
 | domstolsproevelse | 0 | 113 | 0 |
 | henviser_til | 101677 | 92122 | 0 |
-| hjemmel_for | 88573 | 0 | 0 |
-| implementerer_EU | 0 | 1320 | 1141 |
-| klageinstans | 0 | 538 | 0 |
+| hjemmel_for | 88597 | 0 | 0 |
+| implementerer_EU | 0 | 1353 | 1141 |
+| klageinstans | 0 | 530 | 0 |
 | ressortansvar | 19613 | 10460 | 247 |
-| tilsyn | 0 | 573 | 0 |
+| tilsyn | 0 | 571 | 0 |
 | udsteder | 29640 | 662 | 0 |
 
-Klageinstans-, tilsyns- og domstolsprøvelseskanter fra dokumentets egne bestemmelser, hvor dokumentet siden er ændret (`senere_aendret_ved`): 515 af 1224.
+Klageinstans-, tilsyns- og domstolsprøvelseskanter fra dokumentets egne bestemmelser, hvor dokumentet siden er ændret (`senere_aendret_ved`): 508 af 1214. 14 af dem følger et gennemgående navneskift i en senere ændringsforskrift, der er trådt i kraft (`omdoebt_ved`: kanten går fra den nye instans; beskrivelsen er stadig den oprindelige sætning). 182 `hjemmel_for`- og `implementerer_EU`-kanter står på en forskrift, hvis indledning eller titelfodnote en senere ændringsforskrift har affattet på ny (`affattet_ved`: bestemmelser og EU-retsakter er læst af den nye tekst); 37 dokumenter, hvis titelfodnote en ændringsforskrift har affattet på ny eller ophævet, har ændringsforskriften i feltet `titelfodnote_affattet_ved`, også når der ikke er nogen kant.
 
 ## Øvrige samlinger
 
@@ -212,7 +212,7 @@ Dokumenter uden for Lovtidende A, direkte fra Retsinformations søgeeksport (kun
 
 ## Tekst
 
-Retsinformations XML er hentet for et udsnit af kataloget med `pipeline/corpus/tekst.py`: de dokumenter, registry'ets noder peger på, gældende dokumenter i de otte domæner og, fra 2026-11-21, afløserkandidaternes lovtekster (de hovedlove, der kan have afløst en historisk lov), de fleste ophævede. `tekst.jsonl` har én linje pr. hentet dokument med stien til XML-filen (`intermediate/corpus/xml/`), hentedato, omfang, præambel, fodnoter, underskriftssted og de EU-retsakter, Retsinformation fører på dokumentet. For en del ældre dokumenter har XML-filen kun metadata og ingen tekst (`n_tegn` er 0). Alle andre dokumenter har kun metadata. 119 af de 1224 klageinstans-, tilsyns- og domstolsprøvelseskanter fra dokumentets egne bestemmelser (metode `bestemmelse`) står på dokumenter, der ikke er gældende, og er mærket med dokumentets status (`dokumentstatus`): de gengiver loven, som den var.
+Retsinformations XML er hentet for et udsnit af kataloget med `pipeline/corpus/tekst.py`: de dokumenter, registry'ets noder peger på, gældende dokumenter i de otte domæner og, fra 2026-11-21, afløserkandidaternes lovtekster (de hovedlove, der kan have afløst en historisk lov), de fleste ophævede. `tekst.jsonl` har én linje pr. hentet dokument med stien til XML-filen (`intermediate/corpus/xml/`), hentedato, omfang, præambel, fodnoter, underskriftssted og de EU-retsakter, Retsinformation fører på dokumentet. For en del ældre dokumenter har XML-filen kun metadata og ingen tekst (`n_tegn` er 0). Alle andre dokumenter har kun metadata. 114 af de 1214 klageinstans-, tilsyns- og domstolsprøvelseskanter fra dokumentets egne bestemmelser (metode `bestemmelse`) står på dokumenter, der ikke er gældende, og er mærket med dokumentets status (`dokumentstatus`): de gengiver loven, som den var.
 
 | Samling | XML hentet | heraf med tekst | heraf gældende med tekst | Tegn (mio.) | med præambel | med EU-retsakt |
 |---|---:|---:|---:|---:|---:|---:|
@@ -230,10 +230,10 @@ Retsinformations XML er hentet for et udsnit af kataloget med `pipeline/corpus/t
 | `eu-reg-2004-853` | 32004R0853 | 183 | 20 | 0 |  |
 | `eu-reg-2016-429` | 32016R0429 | 160 | 37 | 0 |  |
 | `eu-reg-2013-575` | 32013R0575 | 159 | 70 | 0 |  |
-| `eu-dir-1992-43` | 31992L0043 | 151 | 44 | 104 | ja |
+| `eu-dir-1992-43` | 31992L0043 | 151 | 44 | 109 | ja |
 | `eu-reg-2014-651` | 32014R0651 | 151 | 68 | 0 |  |
 | `eu-reg-2009-987` | 32009R0987 | 140 | 23 | 0 |  |
-| `eu-dir-2005-36` | 32005L0036 | 127 | 48 | 59 | ja |
+| `eu-dir-2005-36` | 32005L0036 | 127 | 48 | 60 | ja |
 | `eu-reg-2002-178` | 32002R0178 | 108 | 19 | 0 |  |
 | `eu-dir-2009-138` | 32009L0138 | 106 | 31 | 18 |  |
 | `eu-reg-2009-1069` | 32009R1069 | 104 | 30 | 0 |  |

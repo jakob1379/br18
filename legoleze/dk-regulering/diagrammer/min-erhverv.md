@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 234 · kanter: 389
+Noder: 233 · kanter: 386
 
 ```mermaid
 flowchart LR
@@ -111,7 +111,6 @@ flowchart LR
     naevn_ankenaevnet_paa_energiomraadet["Ankenævnet på Energiområdet"]:::klage
     naevn_ankenaevn_oplaeringsvirksomheder["Ankenævnet vedrørende Oplæringsvirksomheder (tidl. Ankenævnet vedrørende Praktikvirksomheder)"]:::klage
     naevn_byggeklageenheden["Byggeklageenheden"]:::klage
-    dom_byretterne["Byretterne"]:::klage
     naevn_bygningssagkyndige["Disciplinær- og klagenævnet for beskikkede bygningssagkyndige"]:::klage
     naevn_disciplinaernaevnet_ejendomsmaeglere["Disciplinærnævnet for Ejendomsmæglere"]:::klage
     dom_domstolene["Domstolene (byret, landsret, Højesteret)"]:::klage
@@ -345,9 +344,7 @@ flowchart LR
     lov_gassikkerhedsloven -.->|implementerer_EU| eu_reg_2016_426
     lov_klagenaevn_for_udbud_loven -->|implementerer_EU| eu_dir_2007_66
     lov_produktloven -->|implementerer_EU| eu_reg_2019_1020
-    dom_byretterne -->|domstolsproevelse| naevn_energiklagenaevnet
-    dom_byretterne -->|domstolsproevelse| naevn_miljoe_og_foedevareklagenaevnet
-    dom_byretterne -->|domstolsproevelse| naevn_planklagenaevnet
+    dom_domstolene -->|domstolsproevelse| naevn_planklagenaevnet
     dom_domstolene -->|domstolsproevelse| naevn_energiklagenaevnet
     dom_domstolene -.->|domstolsproevelse| naevn_klagenaevnet_for_udbud
     dom_domstolene -->|domstolsproevelse| naevn_miljoe_og_foedevareklagenaevnet
@@ -556,7 +553,6 @@ flowchart LR
     ombud_forbrugerombudsmanden -->|udsteder| kilde_forbrugerombudsmanden_retningslinjer
     lov_forbrugerklageloven -->|hjemmel_for| naevn_forbrugerklagenaevnet
     bek_forbrugerklager_naevnenes_hus -->|hjemmel_for| naevn_forbrugerklagenaevnet
-    dom_domstolene -->|domstolsproevelse| naevn_forbrugerklagenaevnet
     naevn_forbrugerklagenaevnet -.->|udsteder| kilde_fkn_afgoerelser
     sty_naevnenes_hus -->|udsteder| kilde_fkn_afgoerelser
     lov_forbrugerklageloven -->|hjemmel_for| bek_forbrugerklager_naevnenes_hus

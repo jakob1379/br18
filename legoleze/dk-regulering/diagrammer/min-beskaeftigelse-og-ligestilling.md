@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 116 · kanter: 205
+Noder: 115 · kanter: 204
 
 ```mermaid
 flowchart LR
@@ -65,7 +65,6 @@ flowchart LR
     naevn_ankenaevn_atp["Ankenævnet for Arbejdsmarkedets Tillægspension"]:::klage
     naevn_arbejdsmiljoeklagenaevnet["Arbejdsmiljøklagenævnet"]:::klage
     dom_arbejdsretten["Arbejdsretten"]:::klage
-    dom_domstolene["Domstolene (byret, landsret, Højesteret)"]:::klage
     naevn_energiklagenaevnet["Energiklagenævnet"]:::klage
     ombud_folketingets_ombudsmand["Folketingets Ombudsmand"]:::klage
     naevn_ligebehandlingsnaevnet["Ligebehandlingsnævnet"]:::klage
@@ -204,7 +203,6 @@ flowchart LR
     bek_vibrationer -.->|implementerer_EU| eu_dir_2002_44
     lov_arbejdsmiljoeloven -->|implementerer_EU| eu_dir_1989_391
     lov_offshoresikkerhedsloven -->|implementerer_EU| eu_dir_2013_30
-    dom_domstolene -->|domstolsproevelse| naevn_arbejdsmiljoeklagenaevnet
     naevn_arbejdsmiljoeklagenaevnet -->|klageinstans| sty_arbejdstilsynet
     sty_ankestyrelsen -->|klageinstans| org_udbetaling_danmark
     min_beskaeftigelse_og_ligestilling -->|ressortansvar| lov_arbejdsmiljoeloven

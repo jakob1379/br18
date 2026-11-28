@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 101 · kanter: 157
+Noder: 101 · kanter: 156
 
 ```mermaid
 flowchart LR
@@ -193,7 +193,6 @@ flowchart LR
     lov_databeskyttelsesloven -.->|henviser_til| eu_reg_2016_679
     lov_retshaandhaevelsesloven -->|implementerer_EU| eu_dir_2016_680
     sty_domstolsstyrelsen -.->|tilsyn| dom_domstolene
-    dom_domstolene -.->|domstolsproevelse| tilsyn_datatilsynet
     tilsyn_datatilsynet -->|udsteder| kilde_datatilsynet_afgoerelser
     tilsyn_datatilsynet -->|udsteder| kilde_datatilsynet_vejledninger
     min_justits -.->|ressortansvar| sty_rigspolitiet

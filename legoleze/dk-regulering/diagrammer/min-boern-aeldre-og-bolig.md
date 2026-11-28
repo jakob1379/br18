@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 104 · kanter: 232
+Noder: 103 · kanter: 231
 
 ```mermaid
 flowchart LR
@@ -62,7 +62,6 @@ flowchart LR
     naevn_beboerklagenaevn["Beboerklagenævn (kommunale)"]:::klage
     dom_boligretten["Boligretten (ved byretterne)"]:::klage
     naevn_byggeklageenheden["Byggeklageenheden"]:::klage
-    dom_byretterne["Byretterne"]:::klage
     dom_domstolene["Domstolene (byret, landsret, Højesteret)"]:::klage
     ombud_folketingets_ombudsmand["Folketingets Ombudsmand"]:::klage
     naevn_huslejenaevn["Huslejenævn (kommunale)"]:::klage
@@ -245,7 +244,6 @@ flowchart LR
     dom_boligretten -->|domstolsproevelse| naevn_ankenaevn_koebenhavn
     dom_boligretten -->|domstolsproevelse| naevn_beboerklagenaevn
     dom_boligretten -->|domstolsproevelse| naevn_huslejenaevn
-    dom_byretterne -->|domstolsproevelse| naevn_byggeklageenheden
     dom_domstolene -->|domstolsproevelse| naevn_byggeklageenheden
     min_boern_aeldre_og_bolig -.->|klageinstans| sty_social_og_boligstyrelsen
     naevn_ankenaevn_koebenhavn -->|klageinstans| naevn_huslejenaevn

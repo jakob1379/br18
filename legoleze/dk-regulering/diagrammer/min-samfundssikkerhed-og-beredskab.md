@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 41 · kanter: 77
+Noder: 40 · kanter: 76
 
 ```mermaid
 flowchart LR
@@ -25,7 +25,6 @@ flowchart LR
     sty_soefartsstyrelsen["Søfartsstyrelsen"]:::instans
     kilde_brs_dk["brs.dk (Beredskabsstyrelsen)"]:::kilde
     naevn_ankenaevnet_for_soefartsforhold["Ankenævnet for Søfartsforhold"]:::klage
-    dom_domstolene["Domstolene (byret, landsret, Højesteret)"]:::klage
     ombud_folketingets_ombudsmand["Folketingets Ombudsmand"]:::klage
     bek_driftsmaessige_forskrifter["Driftsmæssige forskrifter for hoteller m.v., plejeinstitutioner, forsamlingslokaler, undervisningslokaler, daginstitutioner og butikker (BEK nr. 212 af 27/03/2008), ophævet 1/1/2022 (ophævet)"]:::nedlagt
     sty_styrelsen_for_forsyningssikkerhed["Styrelsen for Forsyningssikkerhed (nedlagt)"]:::nedlagt
@@ -86,7 +85,6 @@ flowchart LR
     lov_beredskabsloven -->|hjemmel_for| tf_brandfarlige_vaesker
     lov_beredskabsloven -->|hjemmel_for| tf_gasser
     bek_eksplosionsfarlige_omraader -->|implementerer_EU| eu_dir_1999_92
-    dom_domstolene -.->|domstolsproevelse| sty_beredskabsstyrelsen
     min_samfundssikkerhed_og_beredskab -->|ressortansvar| bek_brandsyn
     min_samfundssikkerhed_og_beredskab -.->|ressortansvar| bek_brs_henlaeggelse
     min_samfundssikkerhed_og_beredskab -.->|ressortansvar| bek_eksplosionsfarlige_omraader

@@ -82,5 +82,28 @@
    }
   ],
   "begrundelse": "Paragrafferne skriver DANAK; annotatoren satte titlens fulde navn (\"DANAK Den Danske Akkrediteringsfond\") ind, som ikke er et navn på noden."
+ },
+ "lta-2023-4": {
+  "klage": [
+   {
+    "afgoerelse_af": "myndigheden",
+    "klageinstans": "Miljø- og Fødevareklagenævnet",
+    "bestemmelse": "§ 48",
+    "citat": "påklages til Miljø- og Fødevareklagenævnet"
+   },
+   {
+    "afgoerelse_af": "myndigheden",
+    "klageinstans": "Miljø- og Fødevareklagenævnet",
+    "bestemmelse": "§ 49",
+    "citat": "kan påklages til Miljø- og Fødevareklagenævnet"
+   },
+   {
+    "afgoerelse_af": "myndigheden",
+    "klageinstans": "Miljø- og Fødevareklagenævnet",
+    "bestemmelse": "§ 52",
+    "citat": "Klage til Miljø- og Fødevareklagenævnet indgives skriftligt"
+   }
+  ],
+  "begrundelse": "§ 49, stk. 5, er en bemyndigelse: klima-, energi- og forsyningsministeren kan fastsætte regler om, at ministerens afgørelser påklages til Energiklagenævnet. Loven giver ikke selv den klagevej; den står i bekendtgørelse nr. 576 af 2025, som er udstedt efter bestemmelsen. Annotatoren havde leddet med som klagevej; de tre led om Miljø- og Fødevareklagenævnet er uændrede."
  }
 }

@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 26 · kanter: 37
+Noder: 25 · kanter: 36
 
 ```mermaid
 flowchart LR
@@ -21,7 +21,6 @@ flowchart LR
     kommune_redningsberedskaber["Fælleskommunale redningsberedskaber (§ 60-fællesskaber med fælles beredskabskommission)"]:::instans
     kommune_alle["Kommunerne (98 kommunalbestyrelser)"]:::instans
     kilde_brs_dk["brs.dk (Beredskabsstyrelsen)"]:::kilde
-    dom_domstolene["Domstolene (byret, landsret, Højesteret)"]:::klage
     ombud_folketingets_ombudsmand["Folketingets Ombudsmand"]:::klage
     min_samfundssikkerhed_og_beredskab["Ministeriet for Samfundssikkerhed og Beredskab"]:::ministerium
     bek_driftsmaessige_forskrifter["Driftsmæssige forskrifter for hoteller m.v., plejeinstitutioner, forsamlingslokaler, undervisningslokaler, daginstitutioner og butikker (BEK nr. 212 af 27/03/2008), ophævet 1/1/2022 (ophævet)"]:::nedlagt
@@ -58,7 +57,6 @@ flowchart LR
     lov_beredskabsloven -.->|hjemmel_for| tf_brandfarlig_virksomhed_og_oplag
     lov_beredskabsloven -->|hjemmel_for| tf_brandfarlige_vaesker
     lov_beredskabsloven -->|hjemmel_for| tf_gasser
-    dom_domstolene -.->|domstolsproevelse| sty_beredskabsstyrelsen
     min_forsvar -.->|ressortansvar| lov_beredskabsloven
     min_forsvar -->|ressortansvar| sty_beredskabsstyrelsen
     ombud_folketingets_ombudsmand -.->|tilsyn| sty_beredskabsstyrelsen

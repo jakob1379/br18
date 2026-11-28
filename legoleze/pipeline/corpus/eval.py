@@ -23,7 +23,7 @@ maal tæller mikro-gennemsnit pr. runde. For vejledninger måles kun genfinding,
 er facit-dokumentets; kanter fra dokumenter uden for Lovtidende A (tekstanmærkninger til finansloven) tælles ikke, fordi facit kun har love,
 lovbekendtgørelser, bekendtgørelser og anordninger. Paragraffer sammenlignes på paragrafnummer ("§ 6"), kun inden for samme lov: en lov og dens
 afløser er samme familie, men to led (eksport.lovled). Klage- og tilsynsmyndigheder slås
-op på navn i registry'et (eksport.myndigheder; eksport.ALIAS for navne, der ikke står i registry'et, som kommunalbestyrelsen).
+op på navn som i læseren (eksport.instansnavne: registry'ets navne og eksport.ALIAS for navne, der ikke står i registry'et, som kommunalbestyrelsen).
 
 stikproeve trækker med frøet i STIKPROEVE op til det antal klage- og tilsynskanter (metode bestemmelse) fra dokumenter uden for de otte
 domæner, hvor udtaget ikke kommer. Hvert led står alene: dokumentet, myndighedens og den afgørende myndigheds navn som i registry'et,
@@ -34,6 +34,15 @@ gennemsyn); maal skriver præcisionen pr. kanttype og fejlklasserne (KLASSER) i 
 Domstolsprøvelseskanterne (eksport.PROEVELSE) har deres egen stikprøve, domstolsproevelse-stikproeve.jsonl med dommene i domstolsproevelse-stikproeve-domme.jsonl: op til
 PROEVE[1] kanter på gældende dokumenter i alle domæner, fordi facit kun har domstolsprøvelse, når en bestemt domstol er nævnt, og da under klage. I målingen pr. forskrift
 tæller en domstolsprøvelseskant fra en bestemt domstol derfor som klagekant; kanter fra domstolene under ét tæller ikke, fordi facit ikke kan have dem.
+
+Facit er dokumentets egen tekst, som den er udstedt. Læser kataloget de kanter, et mål sammenligner, af en senere ændringsforskrift, holdes dokumentet ude af målet (arten UDE i afvigelser.jsonl med
+ændringsforskriften som led, optalt pr. runde i README.md): hjemmel_for med paragrafnumre og implementerer_EU, når en af kanterne har feltet affattet_ved; klageinstans pr. forskrift med afgørende
+myndighed og tilsynsmyndighed pr. forskrift, når en af dem har omdoebt_ved. "hjemmel_for, kun Retsinformations felt" sammenligner kun, hvilke love Retsinformations hjemmelsfelt nævner, og det ændrer en
+ændringsforskrift ikke; det mål, målene mod registry'et ("er en node", "klagekant mellem de to noder") og XML-metadata har alle dokumenter med. En titelfodnote, en ændringsforskrift har ophævet
+uden at sætte en retsakt i stedet, efterlader ingen kant med feltet; dokumentet holdes da ude af implementerer_EU på katalogpostens felt titelfodnote_affattet_ved (eksport.katalog).
+Det, kataloget læser af ændringsforskrifterne, er i stedet bedømt blindt mod de ordrette tekster: dk-regulering/eval/aendringer-domme.jsonl har én dom pr. led (slags omdoebt og laeser: én kant;
+indledning og titelfodnote: én forskrift; id, dom, forkerte, mangler, citat, grund, de to dommeres egne domme og gennemsyn på dem, et gennemsyn afgjorde). maal tæller dommene i README.md
+(aendringsdomme); den sidste dom pr. slags og id gælder, så en ny dom over et ændret led føjes til som en ny linje med feltet runde.
 """
 from __future__ import annotations
 
@@ -53,6 +62,9 @@ EVAL, UD, SVAR = E.L / "intermediate" / "eval", E.L / "dk-regulering" / "eval", 
 RUNDER = ((20261115, {"forskrift-registry": 5, "forskrift": 7, "vejledning": 3}), (20261116, {"forskrift-registry": 3, "forskrift": 5, "vejledning": 2}),
           (20261117, {"forskrift-registry": 2, "forskrift": 4, "lov": 3}), (20261118, {"forskrift-registry": 2, "forskrift": 4, "lov": 3}))
 VEJLEDNING = "vejledning → retsakt"
+UDE = "holdt ude"
+AENDRING = {"omdoebt": ("gennemgående navneskift", "kanter"), "indledning": ("ny indledning", "forskrifter"), "titelfodnote": ("ny eller ophævet titelfodnote", "forskrifter"),
+            "laeser": ("læserens rettelser 2026-11-27 (JGA-201 og JGA-203)", "kanter")}
 SOEG = re.compile(r"klage|indbring|\banke|tilsyn|\bkontrol|\bpåse", re.IGNORECASE)  # runde 1 og 2 blev trukket med "kontrolmyndighed" i stedet for "kontrol", runde 1-3 uden "påse"
 BEGYNDELSE, LOFT = 10000, 1500
 EU = {"direktiv": "dir", "forordning": "reg", "afgørelse": "dec", "beslutning": "dec"}
@@ -189,16 +201,16 @@ def pr(tp: int, fp: int, fn: int, fundet: int | None = None) -> dict:
 
 
 def maal(facit: list[dict], docs: dict, kanter: list[dict], reg: dict, tx: dict) -> tuple[dict, list[dict]]:
-    """Tal pr. mål og listen over afvigelser (kant uden facit, facit uden kant)."""
+    """Tal pr. mål og listen over afvigelser (kant uden facit, facit uden kant, og UDE for et dokument, der er holdt ude af et mål)."""
     fam = lambda i: (docs.get(i) or {}).get("gaeldende_version") or (docs.get(i) or {}).get("nyeste_version_afloeser_mangler") or i
     ind, ud = collections.defaultdict(list), collections.defaultdict(list)
     for k in kanter:
         ind[k["to"]].append(k)
         ud[k["from"]].append(k)
-    navne = E.myndigheder(reg)
+    navne = E.instansnavne(reg)
     klage = {(k["from"], k["to"]) for k in reg["edges"] if k["type"] in ("klageinstans", E.PROEVELSE)}
     klagekant = lambda k: k["type"] == "klageinstans" or k["type"] == E.PROEVELSE and k["from"] != "dom-domstolene"
-    node = lambda navn: E.ALIAS.get(navn.lower()) or (navne.get(E.P.norm(navn)) or (None,))[0] if navn else None
+    node = lambda navn: navne.get(E.P.norm(navn)) if navn else None
     t, afv = collections.defaultdict(collections.Counter), []
 
     def saet(maal_: str, i: str, facit_: set, fundet: dict) -> None:
@@ -207,6 +219,13 @@ def maal(facit: list[dict], docs: dict, kanter: list[dict], reg: dict, tx: dict)
         t[maal_].update(tp=sum(bool(v) for v in fundet.values()), fp=sum(not v for v in fundet.values()), fn=len(facit_ - ramt), fundet=len(facit_ & ramt))
         afv.extend({"id": i, "maal": maal_, "art": "kant uden facit", "led": k} for k, v in fundet.items() if not v)
         afv.extend({"id": i, "maal": maal_, "art": "facit uden kant", "led": k} for k in sorted(facit_ - ramt))
+
+    def ude(maal_: str, i: str, ks: list[dict], felt: str) -> bool:
+        """Om dokumentet holdes ude af målet: en af de kanter, målet sammenligner, er læst af en senere ændringsforskrift (felt; for implementerer_EU også katalogpostens
+        titelfodnote_affattet_ved, lagt ind som en kant uden andet), og facit er teksten, som den er udstedt."""
+        ved = sorted({a for k in ks if felt in k for a in ([k[felt]] if isinstance(k[felt], str) else k[felt])})
+        afv.extend([{"id": i, "maal": maal_, "art": UDE, "led": ", ".join(ved)}] if ved else [])
+        return bool(ved)
 
     for f in facit:
         i = f["id"]
@@ -218,15 +237,17 @@ def maal(facit: list[dict], docs: dict, kanter: list[dict], reg: dict, tx: dict)
         g = {x["dok"]: x for x in f["hjemmel"]}
         hj = [k for k in ind[i] if k["type"] == "hjemmel_for" and k["from"].startswith("lta-") and f["gruppe"] != "lov"]
         traef = {k["from"]: {x for x in g if fam(x) == fam(k["from"]) or x == k.get("citeret_version")} for k in hj}
-        saet("hjemmel_for", i, set(g), traef)
+        if not (holdt := ude("hjemmel_for", i, hj, "affattet_ved")):
+            saet("hjemmel_for", i, set(g), traef)
         saet("hjemmel_for, kun Retsinformations felt", i, set(g), {k["from"]: traef[k["from"]] for k in hj if k["metode"] == E.METODE})
-        for k in hj:
+        for k in hj if not holdt else ():
             for x in (x for x in traef[k["from"]] if E.lovled(docs, x) == E.lovled(docs, k["from"]) or x == k.get("citeret_version")) if k.get("from_bestemmelse") else ():
                 a, b = {paragraf(p) for p in k["from_bestemmelse"]}, {paragraf(p) for p in g[x]["bestemmelser"]}
                 t["bestemmelser (paragrafnummer)"].update(tp=len(a & b), fp=len(a - b), fn=len(b - a), fundet=len(a & b))
                 afv.extend({"id": i, "maal": "bestemmelser", "art": art, "led": f"{x}: {p}"} for art, s in (("kant uden facit", a - b), ("facit uden kant", b - a)) for p in sorted(s))
-        g = {x["retsakt"] for x in f["eu"]}
-        saet("implementerer_EU", i, g, {k["to"]: {k["to"]} & g for k in ud[i] if k["type"] == "implementerer_EU"})
+        g, eu = {x["retsakt"] for x in f["eu"]}, [k for k in ud[i] if k["type"] == "implementerer_EU"]
+        if not ude("implementerer_EU", i, [*eu, {"affattet_ved": (docs.get(i) or {}).get("titelfodnote_affattet_ved", [])}], "affattet_ved"):
+            saet("implementerer_EU", i, g, {k["to"]: {k["to"]} & g for k in eu})
         saet("EU-retsakter i XML-metadata (ikke brugt til kanter)", i, g, {e: {e} & g for e in map(celex, tx.get(i, {}).get("eu", [])) if e})
         for x in f["klage"]:
             til, fra = node(x.get("klageinstans")), node(x.get("afgoerelse_af"))
@@ -235,12 +256,15 @@ def maal(facit: list[dict], docs: dict, kanter: list[dict], reg: dict, tx: dict)
                 t["klagekant mellem de to noder"].update(tp=(til, fra) in klage, fn=(til, fra) not in klage, fundet=(til, fra) in klage)
             if not til:
                 afv.append({"id": i, "maal": "klage", "art": "facit uden node", "led": x.get("klageinstans")})
-        g = {node(x.get("klageinstans")) for x in f["klage"]} - {None}
-        saet("klageinstans pr. forskrift", i, g, {k["from"]: {k["from"]} & g for k in ind[i] if klagekant(k)})
-        g = {f"{til} ← {fra}" for til, fra in ((node(x.get("klageinstans")), node(x.get("afgoerelse_af"))) for x in f["klage"]) if til and fra}
-        saet("afgørende myndighed på klagekanten", i, g, {p: {p} & g for k in ind[i] if klagekant(k) for p in (f"{k['from']} ← {a}" for a in k.get("afgoerelse_af", []))})
-        g = {node(x.get("myndighed")) for x in f["tilsyn"]} - {None}
-        saet("tilsynsmyndighed pr. forskrift", i, g, {k["from"]: {k["from"]} & g for k in ind[i] if k["type"] == "tilsyn"})
+        kl, ti = [k for k in ind[i] if klagekant(k)], [k for k in ind[i] if k["type"] == "tilsyn"]
+        if not ude("klageinstans pr. forskrift", i, kl, "omdoebt_ved"):
+            g = {node(x.get("klageinstans")) for x in f["klage"]} - {None}
+            saet("klageinstans pr. forskrift", i, g, {k["from"]: {k["from"]} & g for k in kl})
+            g = {f"{til} ← {fra}" for til, fra in ((node(x.get("klageinstans")), node(x.get("afgoerelse_af"))) for x in f["klage"]) if til and fra}
+            saet("afgørende myndighed på klagekanten", i, g, {p: {p} & g for k in kl for p in (f"{k['from']} ← {a}" for a in k.get("afgoerelse_af", []))})
+        if not ude("tilsynsmyndighed pr. forskrift", i, ti, "omdoebt_ved"):
+            g = {node(x.get("myndighed")) for x in f["tilsyn"]} - {None}
+            saet("tilsynsmyndighed pr. forskrift", i, g, {k["from"]: {k["from"]} & g for k in ti})
         for x in f["tilsyn"]:
             t["tilsynsmyndighed er en node"].update(tp=bool(node(x.get("myndighed"))), fn=not node(x.get("myndighed")), fundet=bool(node(x.get("myndighed"))))
     return {m: pr(c["tp"], c["fp"], c["fn"], c["fundet"]) | ({"forkerte": None, "praecision": None} if m == VEJLEDNING else {}) for m, c in t.items()}, [
@@ -282,7 +306,7 @@ def stikproeve(kanter: list[dict], docs: dict, navne: dict, afsnit, n: int, froe
 KLASSER = {"kompetenceafgraensning": ("en bestemmelse, der afgrænser et klageorgans kompetence (i dets egen lov eller forretningsorden eller over for et andet organ), læst som klagevej", False),
            "klage-over-privat": ("klage over en privat virksomheds eller et massemedies afgørelse eller en tvist mellem private læst som klage over en myndigheds afgørelse", False),
            "domstolsanke": ("anke af en dom til en domstol læst som klagevej", True),
-           "bemyndigelse": ("ministerens bemyndigelse til at fastsætte regler om klageadgang læst som klagevej", False),
+           "bemyndigelse": ("ministerens bemyndigelse til at fastsætte regler om klageadgang læst som klagevej (formen \"fastsætte regler om, at … kan påklages til X\" er rettet i læseren 2026-11-27)", False),
            "overgangsregel": ("overgangsregel for verserende eller ældre klagesager (\"færdigbehandles\")", True),
            "frist-eller-klageberettigelse": ("frist- eller klageberettigelsesregel, der forudsætter en klage, men ikke giver klageadgang over dokumentets afgørelser", False),
            "forkert-saetningsled": ("klageinstansen taget fra et andet sætningsled (en relativsætning, \"adressater for X's afgørelser\")", False),
@@ -290,7 +314,7 @@ KLASSER = {"kompetenceafgraensning": ("en bestemmelse, der afgrænser et klageor
            "afgoerelse-sammensat-ord": ("afgørende myndighed læst af et sammensat ord (\"X's afgørelseskompetence\")", True),
            "til-brug-for-tilsyn": ("\"til brug for X's tilsyn med\": oplysninger videregives til et tilsyn efter en anden lov", True),
            "henvisning-til-andet-tilsyn": ("omtale af et tilsyn efter anden lovgivning (\"den lovgivning, som X fører tilsyn med\")", False),
-           "tilsyn-med-person": ("tilsyn med en dømt eller en person under strafferetlige vilkår, ikke med at lovens regler overholdes", False),
+           "tilsyn-med-person": ("tilsyn med en dømt eller en person under strafferetlige vilkår, ikke med at lovens regler overholdes (\"fører tilsyn med den dømte\" og \"med, at den dømte\" er rettet i læseren 2026-11-27)", False),
            "godkendelse-eller-udbetaling": ("kontrol som led i behandlingen af en anmeldelse eller en udbetaling", False),
            "forkert-domstol": ("\"retten\" sat til en domstol, som en anden sætning i dokumentet nævner uden at give en vej til den", True),
            "forkert-afgoerende-myndighed": ("afgørende myndighed læst af \"klager over afgørelser truffet af X\", hvor kun klageinstansens afgørelse kan indbringes", True),
@@ -373,8 +397,36 @@ def proevelsesafsnit(st: dict) -> list[str]:
                      " Genfindingen er ikke målt: en vej til domstolen med andre ord end læserens, eller til en domstol uden node (skifteretten), giver ingen kant.")]
 
 
-def readme(tal: dict, facit: list[dict], foerste: dict | None = None, stik: dict | None = None, proeve: dict | None = None) -> str:
-    """tal: {runde: maal(...)[0]}; foerste: en kontrolrundes første måling, før noget blev rettet efter den."""
+def aendringsdomme(domme: list[dict], ude: list[dict]) -> str:
+    """README-sætningen om den blinde bedømmelse af det, kataloget læser af senere ændringsforskrifter (aendringer-domme.jsonl). Den sidste dom pr. slags og id gælder.
+    ude: afvigelserne med arten UDE; et dokument holdt ude af hjemmel_for har sin dom under slags indledning, af implementerer_EU under titelfodnote, og af klage og tilsyn under omdoebt, hvis id ender på type, instans og dokument."""
+    if not domme:
+        return " de er ikke målt på anden måde."
+    sidst = {(d["slags"], d["id"]): d for d in domme}
+    pr_slags = collections.defaultdict(list)
+    for (slags, _), d in sidst.items():
+        pr_slags[slags].append(d)
+    forkerte = [d for d in sidst.values() if d["dom"] != "right"]
+    mangler, kant = [d["id"] for d in forkerte if not d["forkerte"]], [d["id"] for d in forkerte if d["forkerte"]]
+    slag = {"hjemmel_for": "indledning", "implementerer_EU": "titelfodnote"}
+    type_ = {"klageinstans pr. forskrift": "klageinstans", "tilsynsmyndighed pr. forskrift": "tilsyn"}
+    par = [[d for (slags, i), d in sidst.items() if (slags, i) == (slag.get(a["maal"]), a["id"]) or (slags == "omdoebt" and i.endswith(":" + a["id"]) and i.split(":")[1] == type_.get(a["maal"]))] for a in ude]
+    holdt, uden = [d for p in par for d in p], sum(not p for p in par)
+    en, igen = sum(None in (d.get("dommer_a", ""), d.get("dommer_b", "")) for d in sidst.values()), sum("runde" in d for d in domme)
+    return (" De læsninger er i stedet bedømt blindt mod de ordrette tekster (`aendringer-domme.jsonl`): leddene er dømt af to sprogmodeller hver for sig (en Haiku-agent og en agent på sessionens hovedmodel"
+            + (f"; {en} led har kun den ene models dom" if en else "") + f"), og de {sum('gennemsyn' in d for d in sidst.values())} led, hvor de ikke begge sagde rigtig, er afgjort af et gennemsyn. "
+            + "; ".join(f"{navn[0].upper() + navn[1:] if n == 0 else navn}: {sum(d['dom'] == 'right' for d in pr_slags[slags])} af {len(pr_slags[slags])} {enhed} rigtige"
+                        for n, (slags, (navn, enhed)) in enumerate((s, a) for s, a in AENDRING.items() if s in pr_slags)) + "."
+            + (f" I {len(mangler)} af de {len(forkerte)} forkerte mangler et led, uden at nogen kant er forkert ({', '.join(mangler)})." if mangler else "")
+            + (f" I {len(kant)} er en kant forkert ({', '.join(kant)})." if kant else "")
+            + (f" På de dokumenter og mål, der er holdt ude her, er {sum(d['dom'] == 'right' for d in holdt)} af {len(holdt)} domme rigtige" + (f"; {uden} af dem har ingen dom" if uden else "") + "." if ude else "")
+            + " Bedømmelsen dækker alle forskrifter og kanter med de to felter, ikke kun dem i facit. Den måler, om det læste er rigtigt, ikke genfinding: en ændringsforskrift, hvis tekst ikke er hentet, ses ikke."
+            " Dommene er afsagt 2026-11-28" + (f"; de led, rettelserne samme dag ændrede, er dømt igen ({igen} linjer med `runde`; `MANIFEST.md`, evalueringsafsnittet, nævner rettelserne)" if igen else "")
+            + ". Den seneste dom pr. led står sidst i filen og gælder.")
+
+
+def readme(tal: dict, facit: list[dict], foerste: dict | None = None, stik: dict | None = None, proeve: dict | None = None, ude: list[dict] = (), domme: list[dict] = ()) -> str:
+    """tal: {runde: maal(...)[0]}; foerste: en kontrolrundes første måling, før noget blev rettet efter den; ude: afvigelserne med arten UDE, hver med sin runde; domme: linjerne i aendringer-domme.jsonl."""
     antal = collections.Counter((f["domaene"], f["runde"]) for f in facit)
     domaener = sorted({d for d, _ in antal})
     led = {k: sum(len(f[k]) for f in facit) for k in FELTER}
@@ -383,23 +435,31 @@ def readme(tal: dict, facit: list[dict], foerste: dict | None = None, stik: dict
          "", "## Udtag", "", f"{len(facit)} gældende danske dokumenter med hentet tekst, trukket tilfældigt pr. domæne: hovedbekendtgørelser med og uden registry-node og vejledninger.",
          "Runde 1 er brugt til at finde og rette fejl i udtrækkene, så dens tal er til den pæne side. Runde 2 er trukket bagefter; dens første måling, før noget blev rettet efter den, står i `kontrol-2.json` og i tabellen nedenfor.",
          "Runde 3 er trukket, efter at læseren af klage- og tilsynsbestemmelser var skrevet, og har love og lovbekendtgørelser med i stedet for vejledninger; dens første måling står i `kontrol-3.json`.",
-         "Runde 4 har samme grupper som runde 3 og er trukket, efter at læseren var rettet efter runde 1-3 (\"påser\", \"kontrollerer\", \"er tilsynsmyndighed\", \"styrelsens kontrol med\"); dens første måling står i `kontrol-4.json`. Læseren er siden rettet efter runde 4 og stikprøven nedenfor (2026-11-21), så runde 4 er nu også data, læseren er rettet efter.", "",
+         "Runde 4 har samme grupper som runde 3 og er trukket, efter at læseren var rettet efter runde 1-3 (\"påser\", \"kontrollerer\", \"er tilsynsmyndighed\", \"styrelsens kontrol med\"); dens første måling står i `kontrol-4.json`. Læseren er siden rettet efter runde 4 og stikprøven nedenfor (2026-11-21 og, for to af stikprøvens fejlklasser, 2026-11-27), så runde 4 er nu også data, læseren er rettet efter.", "",
          "| Domæne | " + " | ".join(f"Runde {n}" for n in tal) + " |", "|---|" + "---:|" * len(tal)]
     r += [f"| {d} | " + " | ".join(str(antal[d, n]) for n in tal) + " |" for d in domaener]
     r += ["", "Led i facit: " + ", ".join(f"{k} {v}" for k, v in led.items()) + f". Frafaldet i kontrollen: {sum(f['frafald'] for f in facit)} led eller paragraffer."
           + f" Rettet efter gennemsyn: {sum('rettet' in f for f in facit)} dokumenter.", "",
           "## Måling"]
     pct = lambda v: "–" if v is None else f"{v} %"
+    holdt = collections.defaultdict(collections.Counter)
+    for a in ude:
+        holdt[a["maal"]][a["runde"]] += 1
     for n, navn, maalt in [x for nr, t in tal.items() for x in ((nr, "udvikling" if nr == 1 else "kontrol, nuværende stand", t),
                                                                *([(nr, "kontrol, første måling før rettelser efter runden", foerste[nr])] if nr in (foerste or {}) else []))]:
         r += ["", f"### Runde {n} ({navn})", "", "| Mål | Rigtige | Forkerte | Mangler | Præcision | Genfinding |", "|---|---:|---:|---:|---:|---:|"]
         r += [f"| {m} | {v['rigtige']} | {'–' if v['forkerte'] is None else v['forkerte']} | {v['mangler']} | {pct(v['praecision'])} | {pct(v['genfinding'])} |" for m, v in maalt.items()]
     r += ["", "Rigtige og forkerte tæller katalogets eller registry'ets led, mangler tæller facit-led uden modstykke. Præcision er rigtige af rigtige plus forkerte, genfinding er andelen af facit-leddene, der har et modstykke. For vejledninger er kun genfinding målt.",
+          *(["", f"Facit er teksten, som den er udstedt, så {len({a['id'] for a in ude})} af de {len(facit)} dokumenter er holdt ude af de mål, hvor kataloget læser kanterne af en senere ændringsforskrift"
+             " (feltet `affattet_ved`: hjemmel_for med paragrafnumre og implementerer_EU, det sidste også på katalogpostens `titelfodnote_affattet_ved`, når den nye titelfodnote ikke giver nogen kant;"
+             " feltet `omdoebt_ved`: klageinstans pr. forskrift med afgørende myndighed og tilsynsmyndighed pr. forskrift);"
+             " de måles ikke mod facit. \"hjemmel_for, kun Retsinformations felt\" og målene mod registry'et har alle dokumenter med. Holdt ude pr. mål: " + "; ".join(
+                 f"{m} {sum(c.values())} (" + ", ".join(f"runde {n}: {c[n]}" for n in tal) + ")" for m, c in sorted(holdt.items())) + "." + aendringsdomme(domme, ude)] if holdt else []),
           *(stikproeveafsnit(stik) if stik else []), *(proevelsesafsnit(proeve) if proeve else []), "", "## Forbehold", "",
           "- Annotatoren er en sprogmodel (Haiku), ikke en jurist. Hvert led er kontrolleret mekanisk: citatet står ordret i dokumentet, nummer og år står i citatet, og paragrafferne står i indledningen. At citatet betyder det, leddet siger, er kun set efter for de afvigelser, der står som rettet.",
           f"- Annotatoren ser indledning og fodnoter og, for forskrifter, de paragraffer, der indeholder et af ordene i `SOEG`; for vejledninger de første {BEGYNDELSE} tegn. En klagebestemmelse med andre ord, eller en henvisning længere nede i en vejledning, er ikke i facit.",
           "- Klage og tilsyn pr. forskrift måler katalogets kanter fra dokumentets egne bestemmelser (metode `bestemmelse`). En kant tæller kun med, når mindst én af dens paragraffer blev vist for annotatoren; kanter fra paragraffer uden et af ordene i `SOEG` (fx \"fører kontrol med\") kan facit ikke indeholde. Facit-led, hvis myndighed ikke er en node, tælles under \"er en node\" og ikke her.",
-          "- Læseren af klage- og tilsynsbestemmelser er rettet til efter afvigelserne i runde 1-3 og, 2026-11-21, efter runde 4 og stikprøven uden for de otte domæner. Den første måling af runde 4 (`kontrol-4.json`) og stikprøvens domme er målt før de rettelser og var de uafhængige kontroller; fra nu af er begge data, læseren er rettet efter, og en ny uafhængig måling kræver en ny runde eller stikprøve.",
+          "- Læseren af klage- og tilsynsbestemmelser er rettet til efter afvigelserne i runde 1-3 og, 2026-11-21 og 2026-11-27, efter runde 4 og stikprøven uden for de otte domæner. Den første måling af runde 4 (`kontrol-4.json`) og stikprøvens domme er målt før de rettelser og var de uafhængige kontroller; fra nu af er begge data, læseren er rettet efter, og en ny uafhængig måling kræver en ny runde eller stikprøve.",
           "- \"Klagekant mellem de to noder\" måler registry'ets kanter mellem myndigheder, ikke katalogets kanter til den enkelte forskrift.",
           "- En hjemmelskant til den gældende version af en omdøbt lov tæller som forkert, når kataloget ikke kobler den citerede version til den gældende. Fra 2026-11-15 kobles gældende loves versioner efter Retsinformations tidslinje; en lov, der er afløst af en ny hovedlov, kobles ikke til afløseren. Det samme gælder vejledningernes kanter, som Retsinformation fører under lovens gældende version.",
           "- Hjemmel i en tekstanmærkning til finansloven eller et aktstykke er ikke i facit og tælles ikke.",
@@ -454,6 +514,39 @@ def selftest() -> None:
     assert {"id": "lta-2020-9", "maal": "bestemmelser", "art": "facit uden kant", "led": "lta-2020-7: § 16 c"} in afv and "| hjemmel_for | 1 | 1 | 0 | 50 % | 100 % |" in readme({1: tal}, facit)
     assert f"| {VEJLEDNING} | 1 | – | 1 | – | 50 % |" in readme({1: tal}, facit) and "### Runde 1 (udvikling)" in readme({1: tal}, facit)
     assert "### Runde 2 (kontrol, første måling før rettelser efter runden)" in readme({1: tal, 2: tal}, facit, {2: tal})
+    skift = [{**kanter[0], "affattet_ved": "lta-2026-1"}, *kanter[1:], {"from": "naevn-frugt", "type": "klageinstans", "to": "lta-2020-9", "omdoebt_ved": ["lta-2026-3", "lta-2026-2"]},
+             {"from": "sty-aeble", "type": "tilsyn", "to": "lta-2020-9"}]
+    tal3, afv3 = maal(facit, docs, skift, reg, {})
+    assert not {"hjemmel_for", "bestemmelser (paragrafnummer)", "klageinstans pr. forskrift", "afgørende myndighed på klagekanten"} & set(tal3)
+    assert tal3["hjemmel_for, kun Retsinformations felt"] == tal["hjemmel_for, kun Retsinformations felt"] == pr(0, 1, 1)
+    assert tal3["implementerer_EU"] == pr(1, 1, 0) and tal3["klageinstans er en node"] == pr(1, 0, 0) and tal3["tilsynsmyndighed pr. forskrift"] == pr(0, 1, 0) and tal3[VEJLEDNING] == tal[VEJLEDNING]
+    holdt = [{"runde": 1, **a} for a in afv3 if a["art"] == UDE]
+    assert holdt == [{"runde": 1, "id": "lta-2020-9", "maal": "hjemmel_for", "art": UDE, "led": "lta-2026-1"}, {"runde": 1, "id": "lta-2020-9", "maal": "klageinstans pr. forskrift", "art": UDE, "led": "lta-2026-2, lta-2026-3"}]
+    assert not any(a["art"] == UDE for a in afv) and UDE not in readme({1: tal}, facit)
+    assert "så 1 af de 2 dokumenter er holdt ude" in readme({1: tal3}, facit, ude=holdt) and "Holdt ude pr. mål: hjemmel_for 1 (runde 1: 1); klageinstans pr. forskrift 1 (runde 1: 1)." in readme({1: tal3}, facit, ude=holdt)
+    assert readme({1: tal3}, facit, ude=holdt).endswith("klageinstans pr. forskrift 1 (runde 1: 1). de er ikke målt på anden måde.\n\n## Forbehold" + readme({1: tal}, facit).split("## Forbehold")[1])
+    dom = lambda slags, i, d="right", forkerte=(), **x: {"slags": slags, "id": i, "dom": d, "forkerte": list(forkerte), "mangler": [], **x}
+    liste = [dom("indledning", "lta-2020-9", "wrong", gennemsyn=True), dom("indledning", "lta-2020-8"), dom("omdoebt", "A:klageinstans:naevn-frugt:lta-2020-9", dommer_a={}, dommer_b={}),
+             dom("omdoebt", "A:tilsyn:sty-aeble:lta-2020-9", "wrong", ["sty-aeble"]), dom("laeser", "D:203:tilsyn:sty-aeble:lta-2020-7", dommer_a=None, dommer_b={}),
+             dom("indledning", "lta-2020-8", "wrong", gennemsyn=True, dommer_a={}, dommer_b=None), dom("indledning", "lta-2020-9", runde=2, dommer_a={}, dommer_b={})]
+    bedoemt = aendringsdomme(liste, holdt)
+    assert "de 1 led, hvor de ikke begge sagde rigtig" in bedoemt and "Gennemgående navneskift: 1 af 2 kanter rigtige; ny indledning: 1 af 2 forskrifter rigtige; læserens rettelser 2026-11-27 (JGA-201 og JGA-203): 1 af 1 kanter rigtige." in bedoemt
+    assert "I 1 af de 2 forkerte mangler et led, uden at nogen kant er forkert (lta-2020-8). I 1 er en kant forkert (A:tilsyn:sty-aeble:lta-2020-9). På de dokumenter og mål, der er holdt ude her, er 2 af 2 domme rigtige." in bedoemt
+    assert "er 0 af 0 domme rigtige; 2 af dem har ingen dom." in aendringsdomme([dom("laeser", "x")], holdt) and "holdt ude her" not in aendringsdomme(liste, [])
+    assert "sessionens hovedmodel; 2 led har kun den ene models dom), og de 1 led" in bedoemt and bedoemt.endswith(" Dommene er afsagt 2026-11-28; de led, rettelserne samme dag ændrede, er dømt igen (1 linjer med `runde`;"
+                                                                                                                     " `MANIFEST.md`, evalueringsafsnittet, nævner rettelserne). Den seneste dom pr. led står sidst i filen og gælder.")
+    assert aendringsdomme([dom("laeser", "x", dommer_a={}, dommer_b={})], []).endswith("sessionens hovedmodel), og de 0 led, hvor de ikke begge sagde rigtig, er afgjort af et gennemsyn. Læserens rettelser 2026-11-27 (JGA-201 og JGA-203):"
+        " 1 af 1 kanter rigtige. Bedømmelsen dækker alle forskrifter og kanter med de to felter, ikke kun dem i facit. Den måler, om det læste er rigtigt, ikke genfinding: en ændringsforskrift, hvis tekst ikke er hentet, ses ikke."
+        " Dommene er afsagt 2026-11-28. Den seneste dom pr. led står sidst i filen og gælder.")
+    assert bedoemt in readme({1: tal3}, facit, ude=holdt, domme=liste) and "ikke målt på anden måde" not in readme({1: tal3}, facit, ude=holdt, domme=liste)
+    tal5, afv5 = maal(facit, docs, [*kanter[:2], {**kanter[2], "affattet_ved": "lta-2026-4"}, *kanter[3:], {"from": "sty-aeble", "type": "tilsyn", "to": "lta-2020-9", "omdoebt_ved": ["lta-2026-5"]}], reg, {})
+    assert not {"implementerer_EU", "tilsynsmyndighed pr. forskrift"} & set(tal5) and tal5["hjemmel_for"] == tal["hjemmel_for"] and tal5["klageinstans pr. forskrift"] == tal["klageinstans pr. forskrift"]
+    assert [(a["maal"], a["led"]) for a in afv5 if a["art"] == UDE] == [("implementerer_EU", "lta-2026-4"), ("tilsynsmyndighed pr. forskrift", "lta-2026-5")]
+    tal6, afv6 = maal(facit, {**docs, "lta-2020-9": {"titelfodnote_affattet_ved": "lta-2026-6"}}, kanter, reg, {})
+    assert "implementerer_EU" not in tal6 and tal6["hjemmel_for"] == tal["hjemmel_for"] and [(a["maal"], a["led"]) for a in afv6 if a["art"] == UDE] == [("implementerer_EU", "lta-2026-6")]
+    navn = lambda *x: [{"id": "lta-2025-9", "runde": 1, "gruppe": "forskrift", "hjemmel": [], "eu": [], "tilsyn": [], "klage": [{"klageinstans": n} for n in x]}]
+    tal7, _ = maal(navn("Dansk Vand- og Spildevandsforening", "Kommunalbestyrelsen", "Pærenævnet"), {}, [{"from": "org-danva", "type": "klageinstans", "to": "lta-2025-9"}], reg, {})
+    assert tal7["klageinstans er en node"] == pr(2, 0, 1) and tal7["klageinstans pr. forskrift"] == pr(1, 0, 1)
     afl = {"lta-2007-1": {"gaeldende_version": "lta-2020-2", "afloeser_fra": "lta-2007-1"}, "lta-2020-2": {}}
     f2 = [{"id": "lta-2025-9", "runde": 1, "gruppe": "forskrift", "hjemmel": [{"dok": "lta-2020-2", "bestemmelser": ["§ 2"]}, {"dok": "lta-2007-1", "bestemmelser": ["§ 3"]}],
            "eu": [], "klage": [], "tilsyn": []}]
@@ -526,9 +619,11 @@ if __name__ == "__main__":
         foerste = {n: json.loads(f.read_text(encoding="utf-8")) for n in tal if (f := UD / f"kontrol-{n}.json").exists()}
         stik = stikproevetal(list(map(json.loads, f.open(encoding="utf-8"))), findes) if (f := UD / "stikproeve-domme.jsonl").exists() else None
         proeve = stikproevetal(list(map(json.loads, f.open(encoding="utf-8"))), findes, (E.PROEVELSE,)) if (f := UD / f"{E.PROEVELSE}-stikproeve-domme.jsonl").exists() else None
-        (UD / "README.md").write_text(readme(tal, facit, foerste, stik, proeve), encoding="utf-8")
-        (EVAL / "afvigelser.jsonl").write_text("".join(E.linje({"runde": n, **a}) for n, (_, afv) in maalt.items() for a in afv), encoding="utf-8")
-        print(json.dumps({**tal, **({"stikprøve": stik} if stik else {}), **({"domstolsprøvelse": proeve} if proeve else {})}, ensure_ascii=False, indent=1))
+        afvigelser = [{"runde": n, **a} for n, (_, afv) in maalt.items() for a in afv]
+        domme = list(map(json.loads, f.open(encoding="utf-8"))) if (f := UD / "aendringer-domme.jsonl").exists() else []
+        (UD / "README.md").write_text(readme(tal, facit, foerste, stik, proeve, [a for a in afvigelser if a["art"] == UDE], domme), encoding="utf-8")
+        (EVAL / "afvigelser.jsonl").write_text("".join(map(E.linje, afvigelser)), encoding="utf-8")
+        print(json.dumps({**tal, UDE: dict(collections.Counter(f"runde {a['runde']}, {a['maal']}" for a in afvigelser if a["art"] == UDE)), **({"stikprøve": stik} if stik else {}), **({"domstolsprøvelse": proeve} if proeve else {})}, ensure_ascii=False, indent=1))
     elif kommando == "stikproeve":
         proeve = sys.argv[2:] == [E.PROEVELSE]
         if not (f := UD / (f"{E.PROEVELSE}-stikproeve.jsonl" if proeve else "stikproeve.jsonl")).exists():

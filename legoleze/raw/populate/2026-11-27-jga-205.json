@@ -1,0 +1,93 @@
+{
+ "omraade": "jga-205",
+ "kanter": [
+  {
+   "from": "dom-domstolene",
+   "type": "domstolsproevelse",
+   "to": "naevn-planklagenaevnet",
+   "beskrivelse": "Lov om Planklagenævnet § 3, stk. 4: nævnets afgørelser kan indbringes for domstolene senest 6 måneder efter, at afgørelsen er truffet, medmindre andet følger af den lovgivning, afgørelsen er truffet efter. For afgørelser om forhold omfattet af planloven skal søgsmål være anlagt inden 6 måneder efter, at afgørelsen er meddelt (planlovens § 62, stk. 1). Lovene nævner ingen bestemt domstol.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2016/1658",
+     "citat": "Planklagenævnets afgørelser kan indbringes for domstolene, senest 6 måneder efter at nævnets afgørelse er truffet, medmindre andet følger af den lovgivning, som afgørelsen er truffet efter."
+    },
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2024/572",
+     "citat": "Søgsmål til prøvelse af afgørelser om forhold, der er omfattet af denne lov, skal være anlagt inden 6 måneder efter, at afgørelsen er meddelt."
+    }
+   ]
+  },
+  {
+   "from": "dom-domstolene",
+   "type": "domstolsproevelse",
+   "to": "sty-skatteforvaltningen",
+   "beskrivelse": "Skatteforvaltningsloven § 48, stk. 3: en administrativ afgørelse kan ikke indbringes for domstolene senere end 3 måneder efter, at den er truffet (stk. 4: 1 måned efter, at Folketingets Ombudsmand har afsluttet sin behandling, dog aldrig kortere end 3 måneder). Efter stk. 1 kan en afgørelse truffet af skattemyndighederne indbringes for domstolene eller påklages; loven nævner ingen bestemt domstol.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+     "citat": "En administrativ afgørelse kan ikke indbringes for domstolene senere end 3 måneder efter, at afgørelsen er truffet, jf. dog stk. 4."
+    },
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+     "citat": "kan ikke indbringes for domstolene, senere end 1 måned efter at Folketingets Ombudsmand har afsluttet sin behandling af sagen."
+    },
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2025/1228",
+     "citat": "En afgørelse truffet af skattemyndighederne kan indbringes for domstolene eller påklages, medmindre andet er bestemt efter anden lovgivning."
+    }
+   ]
+  },
+  {
+   "from": "dom-domstolene",
+   "type": "domstolsproevelse",
+   "to": "sty-spillemyndigheden",
+   "beskrivelse": "Spilleloven § 55: afgørelser truffet af spillemyndigheden kan indbringes for domstolene senest 3 måneder efter, at afgørelsen er truffet; ellers er afgørelsen endelig. § 58: tilbagekaldelse af en tilladelse til udbud af spil eller som spilleverandør kan forlanges indbragt for domstolene; anmodningen fremsættes over for spillemyndigheden inden 4 uger efter, at afgørelsen er meddelt, og spillemyndigheden anlægger sagen.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2025/1182",
+     "citat": "Afgørelser truffet af spillemyndigheden, skatteankeforvaltningen og Landsskatteretten kan indbringes for domstolene, senest 3 måneder efter at afgørelse er truffet."
+    },
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2025/1182",
+     "citat": "kan af den, afgørelsen vedrører, forlanges indbragt for domstolene."
+    },
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2025/1182",
+     "citat": "Anmodning om domstolsprøvelse skal, inden 4 uger efter at afgørelsen er meddelt den pågældende, fremsættes over for spillemyndigheden."
+    },
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2025/1182",
+     "citat": "Spillemyndigheden anlægger sag mod tilladelsesindehaveren i den borgerlige retsplejes former."
+    }
+   ]
+  },
+  {
+   "from": "dom-domstolene",
+   "type": "domstolsproevelse",
+   "to": "naevn-bygningssagkyndige",
+   "beskrivelse": "Lov om beskikkede bygningssagkyndige m.v. (lov nr. 1532 af 21/12/2010) § 11: nævnets afgørelse efter § 3, stk. 2 (påtale, advarsel, bøde), kan indbringes for retten af den bygningssagkyndige inden 4 uger efter, at afgørelsen er meddelt, ved den ret, i hvis kreds den bygningssagkyndige har forretningssted. § 12: frakendelse efter § 3, stk. 3, kan forlanges indbragt for retten; anmodningen fremsættes over for Erhvervs- og Byggestyrelsen (lovens ordlyd) inden 4 uger, og styrelsen anlægger sagen.",
+   "belaeg": [
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2010/1532",
+     "citat": "Nævnets afgørelse efter § 3, stk. 2, kan indbringes for retten af den bygningssagkyndige."
+    },
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2010/1532",
+     "citat": "Indbringelse skal ske, inden 4 uger efter at afgørelsen er meddelt den pågældende."
+    },
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2010/1532",
+     "citat": "Sagen anlægges ved den ret, i hvis kreds den bygningssagkyndige har sit forretningssted."
+    },
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2010/1532",
+     "citat": "Den bygningssagkyndige kan forlange en afgørelse efter § 3, stk. 3, indbragt for retten."
+    },
+    {
+     "url": "https://www.retsinformation.dk/eli/lta/2010/1532",
+     "citat": "Erhvervs- og Byggestyrelsen anlægger herefter sag i den borgerlige retsplejes former mod den bygningssagkyndige."
+    }
+   ]
+  }
+ ]
+}

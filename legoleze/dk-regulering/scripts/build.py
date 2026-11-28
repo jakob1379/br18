@@ -236,7 +236,7 @@ def validate_katalog(reg: dict, kat: dict) -> list[str]:
                     or not ophaevelse or ophaevelse not in tekst or "ophæves" not in tekst or f"nr. {str(i).split('-')[-1]} " not in ophaevelse
                     or not isinstance(af.get("bevarer_regler"), (str, type(None)))):
                 err(f"katalog {i}: ugyldigt afloeser-felt (afløser i kataloget, verificeret, kilde og ordret ophævelse af nr. og dato i paragraffen)")
-        for t in [d.get("gaeldende_version"), d.get("lov"), d.get("afloeser_fra")] + list(d.get("aendrer") or []):
+        for t in [d.get("gaeldende_version"), d.get("lov"), d.get("afloeser_fra"), d.get("titelfodnote_affattet_ved")] + list(d.get("aendrer") or []):
             if t and t not in docs:
                 err(f"katalog {i}: henvisning til ukendt dokument {t!r}")
     eus = set()
@@ -269,6 +269,12 @@ def validate_katalog(reg: dict, kat: dict) -> list[str]:
                 err(f"katalog-kant {label}: afgoerelse_af {a!r} findes ikke")
         if "senere_aendret_ved" in e and not (isinstance(e["senere_aendret_ved"], list) and e["senere_aendret_ved"] and all(isinstance(a, str) and a in docs for a in e["senere_aendret_ved"])):
             err(f"katalog-kant {label}: senere_aendret_ved skal være en ikke-tom liste af dokumenter i kataloget")
+        if "omdoebt_ved" in e and not (isinstance(e["omdoebt_ved"], list) and e["omdoebt_ved"] and all(isinstance(a, str) and a in docs for a in e["omdoebt_ved"])
+                                       and e.get("metode") == "bestemmelse" and set(e["omdoebt_ved"]) <= set(e.get("senere_aendret_ved") or [])):
+            err(f"katalog-kant {label}: omdoebt_ved skal være en ikke-tom liste af dokumenter i kataloget, der også står i senere_aendret_ved, på en bestemmelse-kant")
+        if "affattet_ved" in e and not (isinstance(e["affattet_ved"], str) and e["affattet_ved"] in docs and e.get("type") in ("hjemmel_for", "implementerer_EU")
+                                        and e["affattet_ved"] != e.get("to" if e["type"] == "hjemmel_for" else "from")):
+            err(f"katalog-kant {label}: affattet_ved skal være et andet dokument i kataloget på en hjemmel_for- eller implementerer_EU-kant")
         if "dokumentstatus" in e and e["dokumentstatus"] != "historisk":
             err(f"katalog-kant {label}: dokumentstatus skal være 'historisk', fik {e['dokumentstatus']!r}")
         elif e.get("to") in docs and ("dokumentstatus" in e) != (e.get("metode") == "bestemmelse" and (docs[e["to"]].get("status") or {}).get("vaerdi") != "gældende"):
@@ -331,7 +337,11 @@ def gen_katalog(reg: dict, kat: dict) -> str:
         lines.append(f"| {t} | {c['verificeret']} | {c['sandsynlig']} | {c['ukendt']} |")
     laest = [e for e in kat["edges"] if e.get("metode") == "bestemmelse"]
     lines += ["", (f"Klageinstans-, tilsyns- og domstolsprøvelseskanter fra dokumentets egne bestemmelser, hvor dokumentet siden er ændret (`senere_aendret_ved`): "
-                   f"{sum('senere_aendret_ved' in e for e in laest)} af {len(laest)}.")]
+                   f"{sum('senere_aendret_ved' in e for e in laest)} af {len(laest)}. "
+                   f"{sum('omdoebt_ved' in e for e in kat['edges'])} af dem følger et gennemgående navneskift i en senere ændringsforskrift, der er trådt i kraft (`omdoebt_ved`: kanten går fra den nye instans; "
+                   f"beskrivelsen er stadig den oprindelige sætning). {sum('affattet_ved' in e for e in kat['edges'])} `hjemmel_for`- og `implementerer_EU`-kanter står på en forskrift, hvis indledning eller "
+                   "titelfodnote en senere ændringsforskrift har affattet på ny (`affattet_ved`: bestemmelser og EU-retsakter er læst af den nye tekst); "
+                   f"{sum('titelfodnote_affattet_ved' in d for d in docs)} dokumenter, hvis titelfodnote en ændringsforskrift har affattet på ny eller ophævet, har ændringsforskriften i feltet `titelfodnote_affattet_ved`, også når der ikke er nogen kant.")]
     koblet = {e["from"] if e["type"] == "henviser_til" else e["to"] for e in kat["edges"]
               if e.get("metode") == "retsinformation-eksport" and e["type"] in ("hjemmel_for", "henviser_til")}
     lines += ["", "## Øvrige samlinger", "",
@@ -672,6 +682,17 @@ def selftest() -> None:
     for galt in ("lta-2018-734", [], ["lta-2099-1"], [["lta-2018-734"]]):
         fejl = validate_katalog(reg, kat(senere_aendret_ved=galt))
         assert len(fejl) == 1 and "senere_aendret_ved" in fejl[0], (galt, fejl)
+    assert validate_katalog(reg, kat(metode="bestemmelse", senere_aendret_ved=["lta-2018-734"], omdoebt_ved=["lta-2018-734"])) == [] == validate_katalog(reg, kat(type="hjemmel_for", affattet_ved="lta-2018-734"))
+    for galt in (kat(metode="bestemmelse", omdoebt_ved=["lta-2018-734"]), kat(senere_aendret_ved=["lta-2018-734"], omdoebt_ved=["lta-2018-734"]),
+                 *(kat(metode="bestemmelse", senere_aendret_ved=["lta-2018-734"], omdoebt_ved=x) for x in ([], "lta-2018-734", ["lta-2099-1"], [["lta-2018-734"]]))):
+        fejl = validate_katalog(reg, galt)
+        assert len(fejl) == 1 and "omdoebt_ved" in fejl[0], (galt["edges"], fejl)
+    assert len(validate_katalog(reg, kat(metode="bestemmelse", senere_aendret_ved=["lta-2018-734", "lta-2099-1"], omdoebt_ved=["lta-2099-1"]))) == 2
+    for galt in ("lta-2099-1", ["lta-2018-734"], None, "lta-2016-1178"):
+        fejl = validate_katalog(reg, kat(type="hjemmel_for", affattet_ved=galt))
+        assert len(fejl) == 1 and "affattet_ved" in fejl[0], (galt, fejl)
+    assert "affattet_ved" in validate_katalog(reg, kat(affattet_ved="lta-2018-734"))[0] and validate_katalog(reg, {**kat(), "docs": [{**doc("lta-2016-1178"), "titelfodnote_affattet_ved": "lta-2018-734"}, doc("lta-2018-734")]}) == []
+    assert len(validate_katalog(reg, {**kat(), "docs": [{**doc("lta-2016-1178"), "titelfodnote_affattet_ved": "lta-2099-1"}, doc("lta-2018-734")]})) == 1
     hist = lambda **e: {**kat(metode="bestemmelse", **e), "docs": [{**doc("lta-2016-1178"), "status": {"vaerdi": "historisk", "sikkerhed": "sandsynlig"}}, doc("lta-2018-734")]}
     assert validate_katalog(reg, hist(dokumentstatus="historisk")) == [] == validate_katalog(reg, kat(metode="bestemmelse"))
     for galt in (hist(dokumentstatus="gældende"), hist(dokumentstatus="ophævet"), hist(dokumentstatus=["historisk"]), hist(dokumentstatus=None), hist(),
@@ -694,6 +715,11 @@ def selftest() -> None:
     blandet = {**kat(), "docs": [d2("lta-2016-1178", "historisk"), d2("lta-2018-734", "gældende")], "edges": laest}
     tekst = gen_katalog({"nodes": [{"id": "naevn-x", "type": "nævn", "navn": "X"}]}, blandet)
     assert validate_katalog(reg, blandet) == []
+    assert "0 af dem følger et gennemgående navneskift" in tekst and "0 `hjemmel_for`- og `implementerer_EU`-kanter står på en forskrift" in tekst and "0 dokumenter, hvis titelfodnote en ændringsforskrift har affattet på ny eller ophævet, har ændringsforskriften" in tekst
+    ved = {**blandet, "docs": [{**d2("lta-2016-1178", "historisk"), "titelfodnote_affattet_ved": "lta-2018-734"}, d2("lta-2018-734", "gældende")],
+           "edges": [{**laest[0], "senere_aendret_ved": ["lta-2018-734"], "omdoebt_ved": ["lta-2018-734"]}, {**kant, "type": "hjemmel_for", "affattet_ved": "lta-2018-734"}]}
+    assert validate_katalog(reg, ved) == [] and "1 af dem følger et gennemgående navneskift" in (t2 := gen_katalog({"nodes": [{"id": "naevn-x", "type": "nævn", "navn": "X"}]}, ved))
+    assert "1 `hjemmel_for`- og `implementerer_EU`-kanter står på en forskrift" in t2 and "læst af den nye tekst); 1 dokumenter, hvis titelfodnote en ændringsforskrift har affattet på ny eller ophævet, har ændringsforskriften i feltet `titelfodnote_affattet_ved`, også når der ikke er nogen kant." in t2
     assert "afløserkandidaternes lovtekster" in tekst and "2 af de 3 klageinstans-, tilsyns- og domstolsprøvelseskanter fra dokumentets egne bestemmelser" in tekst and "(`dokumentstatus`)" in tekst
     print("selftest ok")
 

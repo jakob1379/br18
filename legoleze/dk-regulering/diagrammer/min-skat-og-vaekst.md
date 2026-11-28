@@ -43,7 +43,7 @@ flowchart LR
     kilde_finanstilsynet_tilsynsreaktioner["Finanstilsynets inspektionsredegørelser og tilsynsreaktioner"]:::kilde
     kilde_skm_databasen["SKM-databasen: afgørelser, domme, styresignaler og SKM-meddelelser (info.skat.dk)"]:::kilde
     kilde_spillemyndigheden_afgoerelser["Spillemyndighedens afgørelser og domme (spillemyndigheden.dk)"]:::kilde
-    dom_byretterne["Byretterne"]:::klage
+    dom_domstolene["Domstolene (byret, landsret, Højesteret)"]:::klage
     naevn_erhvervsankenaevnet["Erhvervsankenævnet"]:::klage
     ombud_forbrugerombudsmanden["Forbrugerombudsmanden"]:::klage
     naevn_landsskatteretten["Landsskatteretten"]:::klage
@@ -134,12 +134,12 @@ flowchart LR
     naevn_skatteankenaevn -->|klageinstans| sty_skatteforvaltningen
     naevn_vurderingsankenaevn -.->|klageinstans| sty_vurderingsstyrelsen
     naevn_motorankenaevn -.->|klageinstans| sty_motorstyrelsen
-    dom_byretterne -.->|domstolsproevelse| naevn_landsskatteretten
-    dom_byretterne -->|domstolsproevelse| sty_skatteforvaltningen
-    dom_byretterne -->|domstolsproevelse| sty_spillemyndigheden
-    dom_byretterne -.->|domstolsproevelse| naevn_skatteankenaevn
-    dom_byretterne -.->|domstolsproevelse| naevn_vurderingsankenaevn
-    dom_byretterne -.->|domstolsproevelse| naevn_motorankenaevn
+    dom_domstolene -.->|domstolsproevelse| naevn_landsskatteretten
+    dom_domstolene -->|domstolsproevelse| sty_skatteforvaltningen
+    dom_domstolene -->|domstolsproevelse| sty_spillemyndigheden
+    dom_domstolene -.->|domstolsproevelse| naevn_skatteankenaevn
+    dom_domstolene -.->|domstolsproevelse| naevn_vurderingsankenaevn
+    dom_domstolene -.->|domstolsproevelse| naevn_motorankenaevn
     raad_skatteraadet -->|tilsyn| naevn_skatteankenaevn
     raad_skatteraadet -->|tilsyn| naevn_vurderingsankenaevn
     raad_skatteraadet -->|tilsyn| naevn_motorankenaevn

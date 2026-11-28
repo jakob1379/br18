@@ -39,6 +39,21 @@ katalog/eu_index.jsonl ajourføres med de retsakter, kun fodnoterne nævner (eui
 tekst-samforekomst: retsakten står i samme bestemmelse som "gennemfører") fjernes for dokumenter, hvis tekst er hentet, fordi fodnoten dér er læst,
 og sættes ellers til ukendt: i evalueringssættet (eval.py) var de kun rigtige, når fodnoten også nævnte retsakten.
 
+Har en gældende ændringsforskrift i Lovtidende A, der efter sin egen tekst er trådt i kraft (i_kraft), affattet en gældende forskrifts indledning eller titelfodnote på ny (tekstindeksets felt
+indsat; indsat og affattet), læses hjemmel og EU-retsakter af den nye tekst i stedet for forskriftens egen. Forskriftens hjemmel_for-kanter og de implementerer_EU-kanter, den nye fodnote giver, har
+så feltet affattet_ved med ændringsforskriften. For kanter med metode praeambel og fodnote er den kilden, og for kanter fra hjemmelsfeltet, hvis bestemmelser er læst af den nye indledning, står den som
+kilde efter forskriftens egen side (hjemmelkant, praeambelkant). Forskriften skal stå i ændringsforskriften med nummer og den dato, kataloget har (en ændring, der kun falder på datoen, tælles og
+opregnes i katalogs tal), og den seneste ændringsforskrift gælder. Forskriftens fodnoter uden for titlen læses stadig, undtagen en fodnote med samme ordlyd som en erstattet titelfodnote
+(fodnotekanter), og forskriften har ændringsforskriften i feltet titelfodnote_affattet_ved, også når den nye fodnote ikke giver nogen kant. Et par i FORKERT_FODNOTE (forskrift, EU-retsakt) giver ingen
+kant: den nye fodnotes ordlyd er forvansket i kilden. En ændring af en del af indledningen ("I indledningen ændres »A« til: »B«") læses kun, når den er udstedt efter den nye affattelse, er trådt i
+kraft og kan sættes ind ordret (delaendret; så er den også kilde); ellers, og for fodnoter, læses den ikke. En ændringsforskrift uden hentet tekst ses ikke.
+
+Klageinstans-, tilsyns- og domstolsprøvelseskanterne læses af dokumentets tekst, som den er udstedt. Har en senere ændringsforskrift (senere_aendret, hentet tekst) omdøbt en instans
+overalt i dokumentet ("Overalt i bekendtgørelsen ændres »A« til: »B«", omdoebninger), og er ændringsforskriften efter sin egen tekst trådt i kraft senest den dag, eksporten er hentet
+(i_kraft: en dato eller "dagen efter bekendtgørelsen i Lovtidende" med eksportens BekendtgørelsesDato), går kanten fra den nye instans og har feltet omdoebt_ved med ændringsforskriften (omdoeb); beskrivelsen er stadig den oprindelige sætning. Det samme gælder instanserne i
+afgoerelse_af. Ændringer af en enkelt bestemmelse læses ikke, et navneskift med en undtagelse, der ikke er en opregning af enkelte bestemmelser ("bortset fra §§ 5-7", "bortset fra kapitel 3"), bruges ikke
+(katalogs tal opregner ændringsforskriften), og en ændringsforskrift uden hentet tekst ses ikke: dér er senere_aendret_ved stadig eneste advarsel.
+
 En historisk lov eller lovbekendtgørelse uden gældende version får feltet afloeser, når en af dens kandidater (kandidater: hovedlove i dens
 SenereAendringer, der selv nævner den i ÆndrerI) har en ophævelsesbestemmelse, der nævner den med nummer og dato (afloeser, i kandidatens hentede
 tekst). Lovfamilien fortsætter så til afløserens gældende version (foelg_afloeser: gaeldende_version og afloeser_fra), også på hjemmel_for-kanterne.
@@ -236,18 +251,27 @@ def lovkobling(ft: list[dict], love: list[dict]) -> dict:
     return ud
 
 
-def hjemmelkant(d: dict, lov: dict, citeret: list | None = None) -> dict:
+def hjemmelkant(d: dict, lov: dict, citeret: list | None = None, ved: list | None = None) -> dict:
     """Kanten mellem et dokument og den lovgivning, Retsinformation fører det under: hjemmel_for fra loven til forskrifter og vejledninger,
     henviser_til fra afgørelser, udtalelser og domme (PRAKSIS) til loven. citeret er præamblens henvisninger til samme lov (populate.praeambelhjemmel):
-    bestemmelserne skrives i from_bestemmelse og den citerede version i citeret_version, når den er en anden end Retsinformations."""
+    bestemmelserne skrives i from_bestemmelse og den citerede version i citeret_version, når den er en anden end Retsinformations. ved er katalogposterne for den ændringsforskrift,
+    der har affattet præamblen på ny, og de senere, der har ændret en del af den (katalog): kanten får affattet_ved med den første, og er bestemmelserne læst af den nye præambel,
+    står ændringsforskrifterne som kilder efter dokumentets egen side."""
     praksis, gv = d["type"] in PRAKSIS, lov.get("gaeldende_version")
     tekst = ("hjemmel ifølge Retsinformation (den lovversion, Retsinformation fører forskriften under)" if d["id"].startswith("lta-")
              else "lovgivning, dokumentet vedrører, ifølge Retsinformation (den version, Retsinformation fører dokumentet under)")
     fra = {"from_bestemmelse": list(dict.fromkeys(b for _, bs in citeret for b in bs)),
            **({"citeret_version": citeret[0][0]} if citeret[0][0] != lov["id"] else {})} if citeret and not praksis else {}
     return {"from": d["id"] if praksis else lov["id"], "type": "henviser_til" if praksis else "hjemmel_for", "to": lov["id"] if praksis else d["id"],
-            "beskrivelse": tekst, "kilder": [f"{P.RI}/eli/{d['id'].replace('-', '/')}"], "sikkerhed": "verificeret", "metode": METODE,
-            **({"gaeldende_version": gv} if gv else {}), **fra}
+            "beskrivelse": tekst, "kilder": [f"{P.RI}/eli/{d['id'].replace('-', '/')}", *(k for v in (ved or []) if fra for k in v["kilder"][:1])], "sikkerhed": "verificeret", "metode": METODE,
+            **({"gaeldende_version": gv} if gv else {}), **fra, **({"affattet_ved": ved[0]["id"]} if ved else {})}
+
+
+def praeambelkant(d: dict, lov: dict, bestemmelser: list[str], ved: list | None = None) -> dict:
+    """hjemmel_for fra en lov eller bekendtgørelse, som kun dokumentets præambel nævner (metode praeambel). ved som i hjemmelkant: så er ændringsforskrifterne kilden i stedet for dokumentet."""
+    return {"from": lov["id"], "type": "hjemmel_for", "to": d["id"], "beskrivelse": "hjemmel ifølge forskriftens præambel" + (", som en ændringsforskrift har affattet den" if ved else ""),
+            "kilder": [k for v in ved or [d] for k in v["kilder"][:1]], "sikkerhed": "verificeret", "metode": PRAEAMBEL,
+            **({"gaeldende_version": gv} if (gv := lov.get("gaeldende_version")) else {}), "from_bestemmelse": list(dict.fromkeys(bestemmelser)), **({"affattet_ved": ved[0]["id"]} if ved else {})}
 
 
 def myndigheder(reg: dict) -> dict:
@@ -264,11 +288,18 @@ def myndigheder(reg: dict) -> dict:
     return {**{re.sub(r"ministeriet\b", "ministeren", k): v for k, v in navne.items() if v[0].startswith("min-")}, **navne}
 
 
+def instansnavne(reg: dict) -> dict:
+    """{normaliseret navn: node-id} for de navne, læseren kender: myndigheder og ALIAS."""
+    return {**{k: v[0] for k, v in myndigheder(reg).items()}, **ALIAS}
+
+
 ALIAS = {"kommunalbestyrelsen": "kommune-alle", "kommunen": "kommune-alle", "kommunalbestyrelserne": "kommune-alle", "regionsrådet": "region-alle",
          "rigspolitichefen": "sty-rigspolitiet", "biskoppen": "tilsyn-biskopperne", "socialtilsynet": "tilsyn-socialtilsynene",
          "ankestyrelsens beskæftigelsesudvalg": "sty-ankestyrelsen", "taksationsmyndighederne": "naevn-taksationsmyndighederne",
          "overtaksationskommissionen": "naevn-taksationsmyndighederne", "kirkeministeren": "min-sundhed-og-kirke",
-         "direktoratet for kriminalforsorgen": "sty-danmarks-faengsler", "styrelsen for danmarks fængsler": "sty-danmarks-faengsler"}
+         "direktoratet for kriminalforsorgen": "sty-danmarks-faengsler", "styrelsen for danmarks fængsler": "sty-danmarks-faengsler",
+         "politiklagemyndigheden": "sty-politiklagemyndigheden", "det uafhængige tilsyn med bevismidler": "tilsyn-bevismiddeltilsynet",
+         "dansk vand og spildevandsforening": "org-danva"}
 SAETNING = re.compile(r"(?<=[.;])\s+(?=[A-ZÆØÅ])")
 KLAGE = re.compile(r"(?:\b(?:påklages?|klages|indbringes?|anke[sr]?)\b(?P<m>[^.;]{0,160}?)\b(?:til|for)|\bklager? til)\s+(?P<end>(?:en\s+)?anden administrativ myndighed end\s+)?",
                    re.IGNORECASE)
@@ -303,6 +334,9 @@ TILBAGE = {"styrelsens": "sty-", "nævnets": "naevn-", "tilsynets": "tilsyn-"}
 AFGOERELSE = {"afgørelse", "afgørelsen", "afgørelser", "afgørelserne"}
 OVERGANG = re.compile(r"\bfærdigbehandles\b", re.IGNORECASE)
 TIL_BRUG = re.compile(r"\btil brug for\s+(?:[^\s,;]+\s+){0,5}[^\s,;]+$", re.IGNORECASE)
+DOEMT = re.compile(r"\s+med,?\s+(?:at\s+)?(?:den\s+(?:betinget\s+)?(?:dømte|prøveløsladte|indsatte)s?|dømtes)\b", re.IGNORECASE)
+NYT_LED = r"(?:(?!,\s+og\s+(?!om\b|regler\b)).)*?"
+REGLER_OM_AT = re.compile(rf"\bfastsætte[rs]?\b{NYT_LED}\b(?:regler|bestemmelser)\b{NYT_LED}\b(?:om|herunder),?\s+(?:at|hvorvidt)\b", re.IGNORECASE)
 
 
 FORLED = {"den", "det", "de", "en", "et", "anden", "andre", "vedkommende", "pågældende", "kompetente", "relevante", "overordnede"}
@@ -329,13 +363,18 @@ def laeser(reg: dict):
     """(klager, tilsyn, ukendte): tre funktioner, der læser én sætning mod registry'ets instansnavne (myndigheder, med ALIAS og genitiv-s).
     klager(sætning) giver [(klageinstans, afgørende myndighed eller None)] for "kan påklages til X", "kan indbringes for X", "klage til X",
     "ikke … anden administrativ myndighed end X" og "X behandler klager"; ikke for "kan ikke påklages til X", ikke for domstolene under ét, ikke når
-    det er en sag eller en tvist, der indbringes, ikke for en sætning, der opregner andre forskrifter, ikke i en overgangsregel ("færdigbehandles") og ikke for det, der ankes til
+    det er en sag eller en tvist, der indbringes, ikke for en sætning, der opregner andre forskrifter, ikke i en overgangsregel ("færdigbehandles"),
+    ikke i en bemyndigelse til at åbne klageadgangen (REGLER_OM_AT: "ministeren kan fastsætte regler om, at afgørelser kan påklages til X"; "afgørelser efter regler fastsat i medfør af § 5
+    kan påklages til X" er en klageadgang, og det er et nyt led efter ", og" også: "ministeren fastsætter regler om gebyr, og X's afgørelser om, at gebyret ikke er betalt, kan påklages til Y"; kun ", og om" og ", og regler" fører bemyndigelsen videre) og ikke for det, der ankes til
     eller indbringes for en domstol (det sidste er domstolsprøvelse, ikke klage; "kan påklages til" en domstol er stadig klage). De afgørende myndigheder er instanserne i samme sætning i formen "X's afgørelser" (ikke et sammensat ord som "X's afgørelseskompetence")
     eller "truffet af X", og en instans, der står lige efter en af dem med "og" eller "eller"; én tupel pr. afgørende myndighed. tilsyn(sætning) giver instanserne i "X fører tilsyn",
     "X kan føre kontrol", "fører X tilsyn", "tilsynet føres af X", "X påser, at", "X kontrollerer", "kontrollerer X" (efter et komma
     eller uden instans foran), "X er tilsynsmyndighed" og "X's kontrol (tilsyn) med" (ikke "til brug for X's tilsyn med"), hvor "styrelsens", "nævnets" og "tilsynets" er den sidste
     styrelse, det sidste nævn eller tilsyn (også en instans, hvis navn ender på "tilsynet"), sætningen har nævnt før; "påser" og "kontrollerer" kun, når verbets sætningsled
-    eller den at-sætning, der følger det, taler om at overholde eller efterleve noget, eller om lovlighed; ikke "påser ikke", "er ikke tilsynsmyndighed", "fører ikke tilsyn" og "fører hverken tilsyn".
+    eller den at-sætning, der følger det, taler om at overholde eller efterleve noget, eller om lovlighed; ikke "påser ikke", "er ikke tilsynsmyndighed", "fører ikke tilsyn" og "fører hverken tilsyn",
+    og ikke "fører tilsyn (kontrol) med den dømte", "med, at den dømte", "den betinget dømte", "den prøveløsladte" eller "den indsatte", heller ikke i genitiv ("den dømtes overholdelse af",
+    "dømtes overholdelse af"; DOEMT): det er tilsyn med en person under straffuldbyrdelse, ikke med at regler overholdes. Kun ordene lige efter "med" læses, så "den indsatte kapital" falder også fra.
+    Flertal ("de indsatte", "de indsattes forhold i institutionerne") og "tilsyn og kontrol med den dømte" er ikke med i reglen og giver stadig en kant.
     ukendte(sætning) giver navnet (frase) de steder, hvor klager eller tilsyn venter en instans, men ikke finder én i registry'et.
     proevelse(sætning) giver [(domstol, afgørende myndighed eller None)], hvor sætningen giver en særlig vej til en domstol for en afgørelse (DOMSTOLSLED: indbringes for,
     forlanges indbragt for, prøvet af eller ved, forelægges): "kan (af X) indbringes for boligretten", "kan forlanges (kræves, begæres) indbragt for domstolene", "skal på begæring
@@ -351,7 +390,7 @@ def laeser(reg: dict):
     står efter "klager over" ("Ankestyrelsens afgørelse i sager om klager over afgørelser truffet af X": kun Ankestyrelsen). led="sag" giver i stedet tillæggene: de sætninger, hvor det er
     sagen, der indbringes ("Sagen indbringes for retten af styrelsen"; ikke "til afgørelse", hvor retten afgør sagen i første instans), og dem, hvor en afgørelse kan indbringes for "retten"
     uden krav, pligt eller frist. De tæller kun sammen med en vej fra samme dokument til samme domstol."""
-    navne = {**{k: v[0] for k, v in myndigheder(reg).items()}, **ALIAS}
+    navne = instansnavne(reg)
     laengde = max(len(k.split()) for k in navne)
     retter = {**{k: v for k, v in navne.items() if v.startswith("dom-")}, **{k: v for k, v in RET.items() if v in {"retten"} | {n["id"] for n in reg["nodes"]}}}
 
@@ -395,9 +434,9 @@ def laeser(reg: dict):
         klage = [] if ophaever or OVERGANG.search(saetning) else [
             *((saetning[m.end():], False) for m in KLAGE.finditer(saetning)
               if (m["end"] or not (re.search(r"\bikke\b[^,]{0,40}$", saetning[:m.start()]) or re.search(r"\bikke\b", m["m"] or "") or SAG.search(saetning[:m.end()])))
-              and not (m[0][:4].lower() in ("anke", "indb") and (foerst(saetning[m.end():]) or "").startswith("dom-"))),
-            *((saetning[:m.start()], True) for m in BEHANDLER.finditer(saetning))]
-        tils = [(m["m"], False) if len(m["m"].split()) > 2 or foerst(m["m"]) else (saetning[:m.start()], True) for m in TILSYN.finditer(saetning)]
+              and not (m[0][:4].lower() in ("anke", "indb") and (foerst(saetning[m.end():]) or "").startswith("dom-")) and not REGLER_OM_AT.search(saetning[:m.start()])),
+            *((saetning[:m.start()], True) for m in BEHANDLER.finditer(saetning) if not REGLER_OM_AT.search(saetning[:m.start()]))]
+        tils = [(m["m"], False) if len(m["m"].split()) > 2 or foerst(m["m"]) else (saetning[:m.start()], True) for m in TILSYN.finditer(saetning) if not DOEMT.match(saetning, m.end())]
         paa = [(saetning[m.end():], False) if m[0].lower().endswith(("påse", "påser", "kontrollere", "kontrollerer")) and (saetning[:m.start()].rstrip().endswith(",")
                or not sidst(saetning[:m.start()]) and foerst(saetning[m.end():])) else (saetning[:m.start()], True) for m in KONTROL.finditer(saetning)
                if not (ophaever or re.fullmatch(r"\s+(?:tilsyn|kontrol)\s+med", m[0], re.IGNORECASE) and TIL_BRUG.search(saetning[:m.start()]))]
@@ -444,15 +483,15 @@ def laeser(reg: dict):
 EUNAEVNT = re.compile("|".join(r.pattern for r in (X.R_DIR, X.R_REG_OLD, X.R_REG_NEW, X.R_DEC)), re.IGNORECASE)
 SLUT = re.compile(r"notificeret|(?:medtaget|henvist til) visse|Ifølge artikel")
 KAEDE = re.compile(r"ændret ved|senest ved|og ved\b")
-TITEL = re.compile(r"ændring af|ophævelse af|i henhold til")
+TITEL = re.compile(r"ændring af|ophævelse af|i henhold til|\b(?:for|om) gennemførelse af")
 
 
 def gennemfoerer(noter: list[str]) -> list[str]:
     """EU-retsakter (katalog-id), som en fodnote siger, at dokumentet gennemfører. Læst fra "gennemfører" til notens slutning eller til
     informationsproceduren ("notificeret") og gengivne forordninger ("medtaget" eller "henvist til visse bestemmelser"). En retsakt efter "som ændret ved" eller
-    "senest ved" er en ændringsretsakt og er ikke med, og det er de følgende heller ikke, før teksten igen siger "dele af" eller "gennemfører",
+    "senest ved" er en ændringsretsakt og er ikke med, og det er de følgende heller ikke, før teksten igen siger "dele af" eller "gennemfører" (også når ændringsretsakten ikke selv genkendes: "forordning 2019/1381/EU"),
     eller der efter en henvisning til EU-Tidende kommer en retsakt, hvis egen titel ikke begynder med "om ændring af".
-    Retsakter i en anden retsakts titel (efter "om ændring af", "om ophævelse af" eller "i henhold til" og frem til henvisningen til EU-Tidende
+    Retsakter i en anden retsakts titel (efter "om ændring af", "om ophævelse af", "i henhold til" eller "om (for) gennemførelse af" og frem til henvisningen til EU-Tidende
     eller en slutparentes) er heller ikke med."""
     ud = []
     for note in noter:
@@ -463,11 +502,24 @@ def gennemfoerer(noter: list[str]) -> list[str]:
                 mellem, pos = led[pos:m.start()], m.end()
                 aendrer = re.match(r"[^,;]{0,60}?\bom ændring af", led[m.end():])
                 efter = re.split(r"(?i)tidende", mellem)
-                kaede = bool(KAEDE.search(mellem)) or (kaede and not re.search(r"dele af|gennemfører", mellem) and (len(efter) == 1 or bool(aendrer)))
+                hale = re.split(r"dele af|gennemfører", mellem)[-1]
+                kaede = bool(KAEDE.search(hale)) or (kaede and hale == mellem and (len(efter) == 1 or bool(aendrer)))
                 titel = bool(TITEL.search(efter[-1])) or (titel and len(efter) == 1 and ")" not in mellem)
                 if not kaede and not titel:
                     ud += [K.eu_id(k)[0] for k in X.eu_refs(m[0])]
     return list(dict.fromkeys(ud))
+
+
+def fodnotekanter(t: dict, ny: tuple | None) -> tuple[dict, list[str]]:
+    """({EU-retsakt: ændringsforskrift eller None}, udeladte retsakter) for ét dokument: de retsakter, dets fodnoter siger, det gennemfører (t: tekstindeksets række; ny: (ændringsforskrift,
+    nye titelfodnoter) fra affattet, eller None). Har en ændringsforskrift affattet eller ophævet titelfodnoten, læses de nye titelfodnoter i stedet for dokumentets egne (de første n_titelnoter),
+    og en fodnote længere nede med samme ordlyd som en af de erstattede læses heller ikke: en lovbekendtgørelse gengiver den ændringslov, der satte fodnoten ind, med dens egen titelfodnote.
+    Retsakterne fra den nye fodnote har ændringsforskriften som værdi. Et par i FORKERT_FODNOTE (dokument, retsakt) er udeladt: fodnotens ordlyd i kilden er forvansket, og retsakten er læst forkert."""
+    ved, titel = ny or (None, [])
+    n, uden = t.get("n_titelnoter", 0) if ved else 0, lambda x: re.sub(r"^\d+\)\s*", "", x)
+    gamle = {uden(x) for x in t.get("noter", [])[:n]}
+    alle = {**dict.fromkeys(gennemfoerer([x for x in t.get("noter", [])[n:] if uden(x) not in gamle])), **dict.fromkeys(gennemfoerer(titel), ved)}
+    return {e: a for e, a in alle.items() if (t["id"], e) not in FORKERT_FODNOTE}, [e for e in alle if (t["id"], e) in FORKERT_FODNOTE]
 
 
 def euindeks(kanter: list[dict], ids: dict) -> None:
@@ -496,12 +548,22 @@ def udstederkant(d: dict, node: str, nuvaerende: bool) -> dict:
 
 def bestemmelseskant(d: dict, node: str, type_: str, udsagn: dict, senere: list[str]) -> dict:
     """Klageinstans-, tilsyns- eller domstolsprøvelseskanten fra node til dokumentet d, læst i dets egne bestemmelser (udsagn: her er (bestemmelse, sætning)-parrene,
-    afgoerelse_af de myndigheder, hvis afgørelser klagen gælder; senere: senere_aendret). Er d ikke gældende efter katalogets status (pr. statusdatoen),
+    afgoerelse_af de myndigheder, hvis afgørelser klagen gælder, omdoebt_ved de ændringsforskrifter, hvis gennemgående navneskift har flyttet kanten eller en afgørende myndighed til en anden
+    instans end den, sætningen nævner (omdoeb); senere: senere_aendret). Er d ikke gældende efter katalogets status (pr. statusdatoen),
     får kanten dokumentstatus med dokumentets status, så den kan frasorteres uden opslag i dokumentet."""
     return {"from": node, "type": type_, "to": d["id"], "beskrivelse": udsagn["her"][0][1][:400], "kilder": d["kilder"][:1], "sikkerhed": "sandsynlig",
             "metode": BESTEMMELSE, "to_bestemmelse": list(dict.fromkeys(par for par, _ in udsagn["her"])),
             **({"afgoerelse_af": list(dict.fromkeys(udsagn["afgoerelse_af"]))} if udsagn["afgoerelse_af"] else {}), **({"senere_aendret_ved": senere} if senere else {}),
+            **({"omdoebt_ved": list(dict.fromkeys(o))} if (o := udsagn.get("omdoebt_ved")) else {}),
             **({"dokumentstatus": d["status"]["vaerdi"]} if d["status"]["vaerdi"] != "gældende" else {})}
+
+
+def foej(led: dict, skift: list, navne: dict, type_: str, til: str, fra: str | None, par: str, saetning: str) -> None:
+    """Lægger ét læst udsagn (sætningen i par: instansen til, den afgørende myndighed fra) i led under den instans, til er blevet til efter navneskiftene i skift (omdoeb), til bestemmelseskant."""
+    (til, v), (fra, w) = omdoeb(til, par, saetning, skift, navne), omdoeb(fra, par, saetning, skift, navne)
+    led[til, type_]["afgoerelse_af"] += [fra] if fra else []
+    led[til, type_]["her"].append((par, saetning))
+    led[til, type_]["omdoebt_ved"] += v + w
 
 
 def tidslinjer(statusser: tuple = ("ok",)) -> list[dict]:
@@ -527,6 +589,174 @@ def senere_aendret(udstedt: str, tl: list[dict] | None, felt: str | None, ids: d
     else:
         kand = [(i, ids[i]["datoer"].get("udstedt", "")) for i in henvist(felt, ids)]
     return list(dict.fromkeys(i for i, u in kand if i in ids and u > udstedt))
+
+
+NAVNEPAR = r"»([^«»]*)«(?: ændres)? til: »([^«»]*)«"
+OVERALT = re.compile(rf"Overalt i (?:denne )?(?:lov|bekendtgørelse)(?:n|en)?(?P<u>,? bortset fra [^»]*?)?,? ændres (?P<par>{NAVNEPAR}(?:(?:,? og|,) {NAVNEPAR})*)")
+UNDTAGET = re.compile(r",? bortset fra(?: i)?(?:,? (?:og )?(?:§ \d+(?: [a-z])?|stk\. \d+|nr\. \d+|\d+\. pkt\.|litra [a-z]))+")
+INDLEDT = re.compile(r"foretages\b.*følgende ændring")
+BASIS = re.compile(r"\bnr\. ?(\d+)\.? af (\d{1,2})\. ?(\w+) (\d{4})")
+DELAENDRING = re.compile(rf"I indledningen ændres {NAVNEPAR}(?:(?:,? og|,) {NAVNEPAR})*\.?")
+IKRAFT = re.compile(r"træder (?:(?:(?:nr|stk|pkt|jf|\d)\.|[^.;»«]){0,80}? )??i kraft(?: (?:den\.? )?(\d{1,2})\. (" + "|".join(X.MONTHS) + r") (\d{4})| (dagen efter bekendtgørelsen i Lovtidende))?")
+AFFATTET = re.compile(r"(?P<praeambel>Indledningen(?: til bekendtgørelsen)? affattes)|Fodnoten(?: til (?:lovens|bekendtgørelse\w*) titel)? affattes"
+                      r"|Som fodnote til (?:lovens|bekendtgørelsens) (?:titel|overskrift) indsættes|(?P<udgaar>Fodnoten til (?:lovens|bekendtgørelsens) titel (?:udgår|ophæves))")
+MINISTERDATO = re.compile(r"fastsætter? tidspunktet for|ikrafttræde\w* fastsættes")
+FORKERT_FODNOTE = {("lta-2020-357", "eu-dir-2013-17")}
+
+
+def egen(xml: str) -> str:
+    """En ændringsforskrifts egen XML: uden den tekst, den indsætter i andre forskrifter (AendringNyTekst), og uden bilag."""
+    return re.sub(r"(?s)<Bilag\b.*", "", P.NYTEKST.sub("", xml))
+
+
+def ren(xml: str) -> str:
+    """Teksten i et stykke XML på én linje, uden mærker og uden usynlige tegn (de står også inde i citerede navne)."""
+    return " ".join(re.sub(r"[\u200b-\u200d\u2060\ufeff\u00ad]", "", re.sub(r"<[^>]+>", " ", xml)).split())
+
+
+def basisforskrift(indledning: str) -> tuple[str, str] | None:
+    """(katalog-id, dato) for den forskrift, linjen "I ... foretages (efter bemyndigelse) følgende ændring(er):" ændrer: nummer og dato efter "jf. lovbekendtgørelse", ellers de første i linjen
+    ("I lov om tillæg til lov nr. 475 af 1. oktober 1945 ..., jf. lovbekendtgørelse nr. 282 af 14. marts 2013" er lovbekendtgørelsen; "nr. 41. af" læses som nr. 41), læst før "som ændret ved" og
+    "med de ændringer". None, når linjen ikke har nummer og dato, og for en forskrift "som sat i kraft for" Grønland eller Færøerne: den ændrede tekst er ikke den danske forskrifts."""
+    foer = re.split(r"ændret|med de ændringer", indledning)[0]
+    b = None if "sat i kraft for" in indledning else re.search(r"jf\. lovbekendtgørelse " + BASIS.pattern, foer) or BASIS.search(foer)
+    return b and (f"lta-{b[4]}-{int(b[1])}", f"{b[4]}-{X.MONTHS.get(b[3].lower(), 0):02d}-{int(b[2]):02d}")
+
+
+def omdoebninger(xml: str) -> list[tuple[str, set | None, str, str]]:
+    """De gennemgående navneskift i en ændringsforskrift: (basis, undtagne paragrafnumre, gammelt navn, nyt navn) for hvert par i en ændring med ordlyden
+    "Overalt i loven (bekendtgørelsen)[, bortset fra § N,] ændres »A« til: »B«[, og »As« (ændres) til: »Bs«]". basis er katalog-id'et for den forskrift, ændringen står under
+    (basisforskrift, i linjen "I ... foretages følgende ændring(er):" før den i samme paragraf), så en forskrift, der ændrer flere, kun omdøber i den, navneskiftet står under; uden en sådan
+    linje i paragraffen læses navneskiftet ikke.
+    "I § 3 og § 7 ændres" og "Overalt i § 60 ændres" er ikke gennemgående og er ikke med. Af en opregning læses parrene, så langt de står som »A« til: »B«
+    (»A« og »As« til: »B« og »Bs« læses ikke, og heller ikke et par, hvor et anførselstegn mangler). Undtagelsen læses kun som en opregning af enkelte bestemmelser (UNDTAGET: "bortset fra i § 22 og § 8, stk. 3");
+    hvert tal i den tæller som en undtaget paragraf. Er den noget andet (et interval "§§ 5-7", et kapitel, et bilag), er de undtagne None, og navneskiftet må ikke bruges."""
+    ud, basis = [], None
+    for m in re.finditer(r"(?s)<AendringDefinition\b[^>/]*>(.*?)</AendringDefinition>|<Linea\b[^>/]*>(.*?)</Linea>|<(?:AendringCentreret)?Paragraf\b", egen(xml)):
+        if m[2] is not None and INDLEDT.search(indledning := ren(m[2])):
+            basis = (b := basisforskrift(indledning)) and b[0]
+        elif m[1] is None and m[2] is None:
+            basis = None
+        elif m[1] is not None and basis and (o := OVERALT.match(ren(m[1]))):
+            ud += [(basis, set(re.findall(r"\d+", o["u"] or "")) if not o["u"] or UNDTAGET.fullmatch(o["u"]) else None, g, n) for g, n in re.findall(NAVNEPAR, o["par"])]
+    return ud
+
+
+def gaeldende_skift(senere: list[str], navneskift: dict, basis: set) -> tuple[list, set, set]:
+    """Et dokuments navneskift til omdoeb: (skift, de ændringsforskrifter, der ikke kan læses som trådt i kraft, og dem, hvis undtagelse ikke kan læses). senere er dokumentets senere
+    ændringsforskrifter, ældste først, navneskift {ændringsforskrift: (i_kraft, omdoebninger)} og basis dokumentet og dets versioner. Med i skift er kun de navneskift, der står under dokumentet,
+    i en ændringsforskrift, der er trådt i kraft, og hvis undtagelse kan læses."""
+    par = [(a, [x[1:] for x in navneskift[a][1] if x[0] in basis]) for a in senere]
+    return ([(a, l) for a, k in par if (l := [x for x in k if x[0] is not None]) and navneskift[a][0]], {a for a, k in par if k and not navneskift[a][0]},
+            {a for a, k in par if any(x[0] is None for x in k)})
+
+
+def delaendret(xml: str, basis: str, indledning: str) -> tuple[str, bool]:
+    """En indledning efter de ændringer af en del af den, ændringsforskriften xml har under forskriften basis ("katalog-id|dato"): (indledningen, om en ændring ikke kunne læses).
+    En ændring læses kun, når hele dens ordlyd er "I indledningen ændres »A« til: »B«[, og »C« til: »D«]" (DELAENDRING), og hvert »A« står netop ét sted i indledningen; ellers
+    ("... og efter »X« indsættes: »Y«", "udgår", et »A«, der ikke står der) er indledningen uændret af den."""
+    b, ulaest = None, False
+    for m in re.finditer(r"(?s)<AendringDefinition\b[^>/]*>(.*?)</AendringDefinition>|<Linea\b[^>/]*>(.*?)</Linea>|<(?:AendringCentreret)?Paragraf\b", egen(xml)):
+        if m[2] is not None and INDLEDT.search(linje_ := ren(m[2])):
+            b = "|".join(basisforskrift(linje_) or ())
+        elif m[1] is None and m[2] is None:
+            b = None
+        elif m[1] is not None and b == basis and (d := ren(m[1])).startswith("I indledningen"):
+            par = re.findall(NAVNEPAR, d) if DELAENDRING.fullmatch(d) else []
+            ulaest |= not (ok := bool(par) and all(indledning.count(g) == 1 for g, _ in par))
+            for g, n in par if ok else ():
+                indledning = indledning.replace(g, n)
+    return indledning, ulaest
+
+
+def indsat(xml: str) -> list[tuple[str, str, str]]:
+    """De nye indledninger og titelfodnoter, en ændringsforskrift sætter ind i en anden forskrift: (basis, "praeambel" eller "noter", den indsatte XML) for hver ændring med ordlyden
+    "Indledningen (til bekendtgørelsen) affattes således:", "Fodnoten (til lovens/bekendtgørelsens titel) affattes således:", "Som fodnote til lovens (bekendtgørelsens) titel indsættes:" eller
+    "Fodnoten til lovens (bekendtgørelsens) titel udgår (ophæves)" (tom XML). basis er "katalog-id|dato" for den forskrift, ændringen står under (basisforskrift, i linjen
+    "I ... foretages følgende ændring(er):" i samme paragraf). Står forskriften dér uden nummer og dato, læses ændringen ikke. Den nye tekst er ændringens
+    AendringNyTekst eller, når den mangler, citatet efter » i ændringens egen ordlyd. Ændringer i en del af indledningen eller fodnoten ("I indledningen ændres »A« til: »B«") og af
+    en indledning eller fodnote inde i forskriften ("I bilag 1 affattes indledningen til pkt. 2", "Fodnoten til § 5 affattes") læses ikke."""
+    ud, basis, venter = [], None, None
+    for m in re.finditer(r"(?s)<AendringNyTekst\b[^>/]*>(.*?)</AendringNyTekst>|<AendringDefinition\b[^>/]*>(.*?)</AendringDefinition>|<Linea\b[^>/]*>(.*?)</Linea>|<(?:AendringCentreret)?Paragraf\b", xml):
+        if m[3] is not None:
+            if INDLEDT.search(indledning := ren(m[3])):
+                basis = "|".join(basisforskrift(indledning) or ()) or None
+        elif m[2] is not None:
+            a = AFFATTET.match(ren(m[2])) if basis else None
+            felt, ny = a and ("praeambel" if a["praeambel"] else "noter"), re.sub(r"«(?:\s|<[^>]+>)*$", "", m[2].partition("»")[2])
+            ud += [(basis, felt, ny)] if a and (ny.strip() or a["udgaar"]) else []
+            venter = (basis, felt) if a and not ny.strip() and not a["udgaar"] else None
+        elif m[1] is None:
+            basis = None
+        elif venter and m[1].strip():
+            ud, venter = [*ud, (*venter, m[1])], None
+    return ud
+
+
+def affattet(hentet: list[dict], ids: dict, kraft: set) -> dict:
+    """{"praeambel": {forskrift: (ændringsforskrift, ny indledning)}, "noter": {forskrift: (ændringsforskrift, nye titelfodnoter)}, "fejldateret": [...]} fra tekstindeksets felt indsat (tekst.py, indsat):
+    den indledning og de titelfodnoter, en gældende forskrift har fået ved en gældende ændringsforskrift i Lovtidende A, der er trådt i kraft (kraft: de ændringsforskrifter, i_kraft siger ja til;
+    et lovforslag i Folketingstidende har samme ordlyd, men er ikke en ændringsforskrift).
+    Forskriften skal stå i kataloget med det nummer og den dato, ændringsforskriften nævner, og være gældende, og dens gældende version må ikke være udstedt efter ændringsforskriften
+    (så har den nye version selv teksten). Har flere ændringsforskrifter affattet samme indledning eller fodnote, gælder den senest udstedte, og af to fra samme dag den med det højeste nummer.
+    En fodnote, der udgår, giver en tom liste. "fejldateret" opregner de ændringer, der ikke er læst, alene fordi ændringsforskriften nævner forskriften med en anden dato end katalogets."""
+    ud, udstedt = {"praeambel": {}, "noter": {}, "fejldateret": []}, lambda i: ids[i]["datoer"].get("udstedt", "")
+    for t in sorted((t for t in hentet if t.get("indsat") and t["id"].startswith("lta-") and t["id"] in kraft and ids[t["id"]]["status"]["vaerdi"] == "gældende"),
+                    key=lambda t: (udstedt(t["id"]), *map(int, t["id"].split("-")[1:]))):
+        for p in t["indsat"]:
+            b, dag = p["i"].split("|")
+            ok = b in ids and b != t["id"] and ids[b]["status"]["vaerdi"] == "gældende" and udstedt(ids[b].get("gaeldende_version") or b) <= udstedt(t["id"])
+            ud["fejldateret"] += [f"{t['id']} i {b}: {'indledning' if 'praeambel' in p else 'titelfodnote'}, forskriften dateret {dag}"] if ok and udstedt(b) != dag else []
+            if ok and udstedt(b) == dag:
+                ud["praeambel"].update({b: (t["id"], p["praeambel"])} if p.get("praeambel") else {})
+                ud["noter"].update({b: (t["id"], p["noter"])} if "noter" in p else {})
+    return ud
+
+
+def delaendringer(tekst: str, basis: str, efter: str, senere: list[dict], xml, idag: str, bekendtgjort) -> tuple[str, list[str], set]:
+    """En ny indledning efter de senere ændringer af en del af den: (indledningen, de ændringsforskrifter, der er læst ind, ældste først, og dem, hvis ændring ikke kan læses eller ikke er trådt i kraft).
+    tekst er indledningen, som en ændringsforskrift har affattet den, efter den dag, den ændringsforskrift er udstedt, basis forskriften ("katalog-id|dato") og senere katalogposterne for
+    forskriftens senere ændringsforskrifter. Kun en ændringsforskrift, der er udstedt efter den dag, er gældende og er hentet (xml(id) giver dens XML, None når den ikke er hentet), læses (delaendret), og kun en, der er trådt i kraft
+    (i_kraft; bekendtgjort(id) giver dens bekendtgørelsesdato), ændrer indledningen."""
+    dag, ved, fejl = lambda d: d["datoer"].get("udstedt", ""), [], set()
+    for c in sorted((d for d in senere if dag(d) > efter and d["status"]["vaerdi"] == "gældende"), key=dag):
+        if (x := xml(c["id"])) is not None:
+            nyt, ulaest = delaendret(x, basis, tekst)
+            traadt = nyt != tekst and i_kraft(x, idag, bekendtgjort(c["id"]))
+            fejl |= {c["id"]} if ulaest or nyt != tekst and not traadt else set()
+            if traadt:
+                tekst, ved = nyt, [*ved, c["id"]]
+    return tekst, ved, fejl
+
+
+def i_kraft(xml: str, idag: str, bekendtgjort: str | None = None) -> bool:
+    """Om en ændringsforskrift efter sin egen tekst er trådt i kraft i sin helhed senest idag: hvert "træder i kraft" i teksten (egen), også med ord imellem ("træder dog først i kraft",
+    "træder tidligst i kraft", "Dog træder § 1, nr. 4, i kraft"; IKRAFT: op til 80 tegn i samme sætning, med punktum kun i "nr.", "stk.", "pkt.", "jf." og efter et ciffer), har lige efter sig en dato ("den 30. maj 2026" eller "1. oktober 2019"), der ikke ligger
+    efter idag, eller ordlyden "dagen efter bekendtgørelsen i Lovtidende", når forskriften er bekendtgjort før idag (bekendtgjort: eksportens BekendtgørelsesDato; katalog bruger udstedelsesdatoen
+    for de rækker fra før 2010, der mangler den, og en forskrift er aldrig bekendtgjort før den dag), og ingen del er overladt til ministeren ("fastsætter tidspunktet for", "ikrafttræden fastsættes af").
+    False også uden bekendtgjort, for "træder i kraft på forskellige tidspunkter", "træder dog i kraft efter ministerens nærmere bestemmelse" og en dato før "i kraft" ("træder den 1. juli 2027 i kraft"),
+    og for en forskrift, hvor kun en anden del end den, der spørges om, venter: teksten læses under ét, ikke paragraf for paragraf. Ord imellem, der ikke er en ikrafttræden ("Udlægget træder således i kraft, hvis"),
+    giver også False. Ikke læst, så en senere dato dér ikke ses: et "træder" med et andet forkortelsespunktum ("m.v.", "kap.") eller mere end 80 tegn før "i kraft"."""
+    t = ren(egen(xml))
+    led = IKRAFT.findall(t)
+    return bool(led) and all(f"{aar}-{X.MONTHS[md]:02d}-{int(dag):02d}" <= idag if aar else bool(efter and bekendtgjort) and bekendtgjort < idag for dag, md, aar, efter in led) and not MINISTERDATO.search(t)
+
+
+def omdoeb(node: str | None, par: str | None, saetning: str, skift: list[tuple[str, list[tuple[set, str, str]]]], navne: dict) -> tuple[str | None, list[str]]:
+    """Den instans, node er blevet til efter de gennemgående navneskift i skift ([(ændringsforskrift, [(undtagne paragrafnumre, gammelt navn, nyt navn)])], ældste først; navne: instansnavne),
+    og de ændringsforskrifter, der har flyttet den. Et navneskift flytter noden, når det gamle navn er nodens og står i sætningen, det nye navn er en anden node, og paragraffen ikke er
+    undtaget ("bortset fra § 22"). Det næste navneskift læses mod det nye navn (A til B, senere B til C). Er det nye navn et andet navn på samme node, eller kendes det ikke, bliver noden stående,
+    men sætningen har nu det nye navn, så et senere navneskift fra det navn til en anden node flytter den (A til A2, senere A2 til C); de ændringsforskrifter, der kun skiftede navnet, står da
+    også i listen. Flytter et af en ændringsforskrifts navneskift noden, går det forud for dem, der kun skifter navnet."""
+    s, ved, nr, egne, lag = f" {P.norm(saetning)} ", [], (re.findall(r"\d+", par or "") or [""])[0], set(), []
+    for a, klausuler in skift:
+        kand = [(g, n) for u, g, n in ((u, P.norm(g), P.norm(n)) for u, g, n in klausuler) if node and (navne.get(g) == node or g in egne) and g != n and f" {g}" in s and nr not in u]
+        hop = next((x for x in kand if navne.get(x[1], node) != node), kand[0] if kand else None)
+        if hop:
+            s, egne, lag = s.replace(f" {hop[0]}", f" {hop[1]}"), {hop[1]}, [*lag, a]
+            if navne.get(hop[1], node) != node:
+                node, ved, egne, lag = navne[hop[1]], [*ved, *lag], set(), []
+    return node, ved
 
 
 def familier(docs: list[dict], blev_historisk: set, kaeder: list[list[str]] = ()) -> dict:
@@ -884,13 +1114,34 @@ def katalog() -> dict:
                     e[k] = ids[e["to"]][k]
     tekstfil = KAT / "tekst.jsonl"
     hentet = [t for t in map(json.loads, tekstfil.open(encoding="utf-8")) if t["id"] in ids] if tekstfil.exists() else []
-    praeambel = {t["id"]: t["praeambel"] for t in hentet if "praeambel" in t}
+    aendrer = [t["id"] for t in hentet if t.get("indsat") and t["id"].startswith("lta-") and ids[t["id"]]["status"]["vaerdi"] == "gældende"]
+    bekendtgjort = lambda a: dato(eks.get(a, {}).get("BekendtgørelsesDato")) or ids[a]["datoer"].get("udstedt")
+    kraft = {a for a in aendrer if i_kraft(T.gzip.decompress(T.sti(a).read_bytes()).decode("utf-8", "replace"), idag, bekendtgjort(a))}
+    ny = affattet(hentet, ids, kraft)
+    udstedt, dele, delfejl = lambda i: ids[i]["datoer"].get("udstedt", ""), {}, set()
+    laes = lambda c: T.gzip.decompress(T.sti(c).read_bytes()).decode("utf-8", "replace") if T.sti(c).exists() else None
+    for b, (a, tekst) in sorted(ny["praeambel"].items()):
+        tekst, ved, fejl = delaendringer(tekst, f"{b}|{udstedt(b)}", udstedt(a), [ids[c] for c in senere_aendret(udstedt(b), None, eks.get(b, {}).get("SenereAendringer"), ids)], laes, idag, bekendtgjort)
+        dele.update({b: ved} if ved else {})
+        delfejl |= {f"{c} i {b}" for c in fejl}
+        ny["praeambel"][b] = (a, tekst)
+    for d in docs:
+        d.pop("titelfodnote_affattet_ved", None)
+    for b, (a, _) in ny["noter"].items():
+        ids[b]["titelfodnote_affattet_ved"] = a
+    stats["forskrifter med indledning affattet ved en ændringsforskrift"] = len(ny["praeambel"])
+    stats["heraf med en senere ændring af en del af den nye indledning læst ind"] = dele
+    stats["senere ændringer af en del af en ny indledning, der ikke kan læses eller ikke er trådt i kraft"] = sorted(delfejl)
+    stats["forskrifter med titelfodnote affattet ved en ændringsforskrift"] = len(ny["noter"])
+    stats["ændringsforskrifter med ny indledning eller titelfodnote, der ikke kan læses som trådt i kraft"] = sorted(set(aendrer) - kraft)
+    stats["nye indledninger og titelfodnoter, der ikke er læst, fordi ændringsforskriften daterer forskriften forkert"] = {"antal": len(ny["fejldateret"]), "ændringer": ny["fejldateret"]}
+    praeambel = {**{t["id"]: t["praeambel"] for t in hentet if "praeambel" in t}, **{b: x for b, (_, x) in ny["praeambel"].items()}}
     findes = {(e["from"], e["type"], e["to"]) for e in kanter}
     for i in sorted(hjemmel):
         if ids[i]["type"] in FORSKRIFTER or not i.startswith("lta-"):
             citeret = [(c, b) for c, b in P.praeambelhjemmel(praeambel.get(i, "")) if c in ids and c != i]
-            love = list(dict.fromkeys(hjemmel[i]))
-            kanter += [hjemmelkant(ids[i], ids[lov], [x for x in citeret if lovled(ids, x[0]) == lovled(ids, lov)]) for lov in love]
+            love, ved = list(dict.fromkeys(hjemmel[i])), [ids[a] for a in (ny["praeambel"][i][0], *dele.get(i, []))] if i in ny["praeambel"] else None
+            kanter += [hjemmelkant(ids[i], ids[lov], [x for x in citeret if lovled(ids, x[0]) == lovled(ids, lov)], ved) for lov in love]
             stats["præamblens henvisninger"] += len(citeret)
             stats["hjemmelsfeltets dokumenter uden for præamblen"] += sum(all(familie(c) != familie(lov) for c, _ in citeret) for lov in love) if citeret else 0
             stats["forskrifter med læst præambel"] += bool(citeret)
@@ -899,25 +1150,25 @@ def katalog() -> dict:
             for c, b in citeret:
                 if (c, "hjemmel_for", i) not in findes and all(lovled(ids, c) != lovled(ids, lov) for lov in love):
                     kun[c] += b
-            kanter += [{"from": c, "type": "hjemmel_for", "to": i, "beskrivelse": "hjemmel ifølge forskriftens præambel", "kilder": ids[i]["kilder"][:1],
-                        "sikkerhed": "verificeret", "metode": PRAEAMBEL, **({"gaeldende_version": gv} if (gv := ids[c].get("gaeldende_version")) else {}),
-                        "from_bestemmelse": list(dict.fromkeys(b))} for c, b in kun.items()]
+            kanter += [praeambelkant(ids[i], ids[c], b, ved) for c, b in kun.items()]
     stats["hjemmel_for med bestemmelser"] = sum("from_bestemmelse" in e for e in kanter)
     stats["heraf kun fra præamblen"] = sum(e.get("metode") == PRAEAMBEL for e in kanter)
     for d in andre:
         love = [d["lov"]] if "lov" in d else [] if d["type"] == "lovforslag-som-vedtaget" else sag.get(d.get("lovforslag"), [])
         kanter += [{"from": d["id"], "type": "henviser_til", "to": lov, "beskrivelse": "forarbejde til loven (koblet på den vedtagne teksts titel og dato)",
                     "kilder": d["kilder"], "sikkerhed": "sandsynlig", "metode": METODE} for lov in dict.fromkeys(love)]
-    laest = {t["id"] for t in hentet if t.get("n_tegn") and t["id"].startswith("lta-")}
+    laest = {t["id"] for t in hentet if t.get("n_tegn") and t["id"].startswith("lta-")} | set(ny["noter"])
     stats["implementerer_EU fra samforekomst fjernet (fodnoten er læst)"] = sum(e.get("metode") == SAMFOREKOMST and e["from"] in laest for e in kanter)
     kanter = [{**e, "sikkerhed": "ukendt"} if e.get("metode") == SAMFOREKOMST else e for e in kanter if not (e.get("metode") == SAMFOREKOMST and e["from"] in laest)]
     findes = {(e["from"], e["type"], e["to"]) for e in kanter}
-    for t in hentet:
+    for t in [*hentet, *({"id": b} for b in sorted(ny["noter"].keys() - {t["id"] for t in hentet}))]:
         i, d = t["id"], ids[t["id"]]
-        for eid in gennemfoerer(t.get("noter", [])) if i.startswith("lta-") else ():
+        eu, fejl = fodnotekanter(t, ny["noter"].get(i)) if i.startswith("lta-") else ({}, [])
+        stats["implementerer_EU udeladt som kendt fejl i fodnotens ordlyd (FORKERT_FODNOTE)"] += len(fejl)
+        for eid, a in eu.items():
             if (i, "implementerer_EU", eid) not in findes:
-                kanter.append({"from": i, "type": "implementerer_EU", "to": eid, "beskrivelse": "dokumentets fodnote siger, at det gennemfører retsakten",
-                               "kilder": d["kilder"][:1], "sikkerhed": "sandsynlig", "metode": FODNOTE})
+                kanter.append({"from": i, "type": "implementerer_EU", "to": eid, "beskrivelse": "dokumentets fodnote siger, at det gennemfører retsakten" + (" (titelfodnoten, som en ændringsforskrift har affattet den)" if a else ""),
+                               "kilder": ids[a or i]["kilder"][:1], "sikkerhed": "sandsynlig", "metode": FODNOTE, **({"affattet_ved": a} if a else {})})
         for noegle, n in (t.get("naevner") or {}).items() if not d.get("n_paragraffer") else ():
             c, dag = noegle.split("|")
             if c in ids and c != i and ids[c]["datoer"].get("udstedt") == dag and (i, "henviser_til", c) not in findes:
@@ -926,27 +1177,35 @@ def katalog() -> dict:
                                **({"gaeldende_version": gv} if (gv := ids[c].get("gaeldende_version")) else {})})
     klager, tilsyn, _, proevelse = laeser(reg)
     tidslinje_for = {i: tl for tl in tls for i in lovversioner(tl)}
+    navne, navneskift, uden_node, venter, undtaget = instansnavne(reg), {}, set(), set(), set()
     for t in hentet:
         led = collections.defaultdict(lambda: collections.defaultdict(list))
-        for par, saetning in t.get("klage_tilsyn", []) if t["id"].startswith("lta-") and ids[t["id"]].get("dokumentrolle") == "hoved" else ():
+        hoved = t["id"].startswith("lta-") and ids[t["id"]].get("dokumentrolle") == "hoved"
+        senere = senere_aendret(ids[t["id"]]["datoer"].get("udstedt", ""), tidslinje_for.get(t["id"]), eks.get(t["id"], {}).get("SenereAendringer"), ids) if hoved else []
+        basis = {t["id"], *lovversioner(tidslinje_for.get(t["id"], []))}
+        ordnet = sorted(senere, key=udstedt) if t.get("klage_tilsyn") or t.get("domstol") else []
+        for a in ordnet:
+            if a not in navneskift:
+                xml = T.gzip.decompress(T.sti(a).read_bytes()).decode("utf-8", "replace") if T.sti(a).exists() else ""
+                navneskift[a] = (i_kraft(xml, idag, bekendtgjort(a)), omdoebninger(xml))
+        skift, v, u = gaeldende_skift(ordnet, navneskift, basis)
+        venter, undtaget = venter | v, undtaget | u
+        uden_node |= {f"{g} → {n} ({a} i {t['id']})" for a, klausuler in skift for _, g, n in klausuler if bool(navne.get(P.norm(g))) != bool(navne.get(P.norm(n)))}
+        for par, saetning in t.get("klage_tilsyn", []) if hoved else ():
             for til, fra in klager(saetning):
-                led[til, "klageinstans"]["afgoerelse_af"] += [fra] if fra else []
-                led[til, "klageinstans"]["her"].append((par, saetning))
+                foej(led, skift, navne, "klageinstans", til, fra, par, saetning)
             for myndighed in tilsyn(saetning):
-                led[myndighed, "tilsyn"]["her"].append((par, saetning))
-        retsled = t.get("domstol", []) if t["id"].startswith("lta-") and ids[t["id"]].get("dokumentrolle") == "hoved" else []
+                foej(led, skift, navne, "tilsyn", myndighed, None, par, saetning)
+        retsled = t.get("domstol", []) if hoved else []
         navngivne = {til for _, saetning in retsled for led_ in ("afgoerelse", "sag") for til, _ in proevelse(saetning, led_)} - {"retten", "dom-domstolene"}
         retten = {"retten": next(iter(navngivne)) if len(navngivne) == 1 else "dom-domstolene"}
         for par, saetning in retsled:
             for til, fra in proevelse(saetning):
-                led[retten.get(til, til), PROEVELSE]["afgoerelse_af"] += [fra] if fra else []
-                led[retten.get(til, til), PROEVELSE]["her"].append((par, saetning))
+                foej(led, skift, navne, PROEVELSE, retten.get(til, til), fra, par, saetning)
         for par, saetning in retsled:
             for til, fra in proevelse(saetning, "sag"):
                 if (noegle := (retten.get(til, til), PROEVELSE)) in led and (par, saetning) not in led[noegle]["her"]:
-                    led[noegle]["afgoerelse_af"] += [fra] if fra else []
-                    led[noegle]["her"].append((par, saetning))
-        senere = senere_aendret(ids[t["id"]]["datoer"].get("udstedt", ""), tidslinje_for.get(t["id"]), eks.get(t["id"], {}).get("SenereAendringer"), ids) if led else []
+                    foej(led, skift, navne, PROEVELSE, noegle[0], fra, par, saetning)
         kanter += [bestemmelseskant(ids[t["id"]], node, type_, udsagn, senere) for (node, type_), udsagn in led.items() if (node, type_, t["id"]) not in findes]
     stats["klageinstans fra dokumentets bestemmelser"] = sum(e.get("metode") == BESTEMMELSE and e["type"] == "klageinstans" for e in kanter)
     stats["heraf med afgørende myndighed"] = sum(e.get("metode") == BESTEMMELSE and e["type"] == "klageinstans" and "afgoerelse_af" in e for e in kanter)
@@ -954,6 +1213,11 @@ def katalog() -> dict:
     stats["domstolsproevelse fra dokumentets bestemmelser"] = sum(e.get("metode") == BESTEMMELSE and e["type"] == PROEVELSE for e in kanter)
     stats["heraf klage og tilsyn fra en tekst, der siden er ændret"] = sum(e.get("metode") == BESTEMMELSE and "senere_aendret_ved" in e for e in kanter)
     stats["heraf klage og tilsyn fra et dokument, der ikke er gældende"] = sum(e.get("metode") == BESTEMMELSE and "dokumentstatus" in e for e in kanter)
+    stats["heraf med en instans omdøbt overalt ved en senere ændring"] = sum("omdoebt_ved" in e for e in kanter)
+    stats["heraf omdøbt i et gældende dokument"] = sum("omdoebt_ved" in e and "dokumentstatus" not in e for e in kanter)
+    stats["gennemgående navneskift med en instans uden node"] = {"antal": len(uden_node), "navne": sorted(uden_node)}
+    stats["ændringsforskrifter med navneskift, der ikke kan læses som trådt i kraft"] = sorted(venter)
+    stats["ændringsforskrifter med navneskift, hvis undtagelse ikke kan læses"] = sorted(undtaget)
     stats["implementerer_EU fra fodnoter"] = sum(e.get("metode") == FODNOTE for e in kanter)
     stats["henviser_til fra hentet tekst"] = sum(e.get("metode") == XMLTEKST for e in kanter)
     euindeks(kanter, ids)
@@ -1078,6 +1342,16 @@ def selftest() -> None:
     med = hjemmelkant(d, lov, [("lta-2010-3", ["§ 1", "§ 2"]), ("lta-2010-3", ["§ 2", "§ 4"])])
     assert (med["from_bestemmelse"], med["citeret_version"]) == (["§ 1", "§ 2", "§ 4"], "lta-2010-3") and "from_bestemmelse" not in hjemmelkant(afg, lov, [("lta-2020-7", ["§ 1"])])
     assert "citeret_version" not in hjemmelkant(d, lov, [("lta-2020-7", ["§ 1"])]) and "from_bestemmelse" not in hjemmelkant(d, lov, [])
+    aendr = [{"id": "lta-2026-7", "kilder": ["k7", "x"]}, {"id": "lta-2026-8", "kilder": ["k8"]}]
+    ny = hjemmelkant(d, lov, [("lta-2010-3", ["§ 1"])], aendr)
+    assert (ny["kilder"], ny["affattet_ved"], ny["citeret_version"]) == ([P.RI + "/eli/lta/2026/5", "k7", "k8"], "lta-2026-7", "lta-2010-3") and list(ny)[-1] == "affattet_ved"
+    assert hjemmelkant(d, lov, [], aendr)["kilder"] == [P.RI + "/eli/lta/2026/5"] and hjemmelkant(d, lov, [], aendr)["affattet_ved"] == "lta-2026-7"
+    assert med["kilder"] == [P.RI + "/eli/lta/2026/5"] and "affattet_ved" not in med
+    pk = praeambelkant(d, lov, ["§ 5", "§ 5", "§ 6"], aendr[:1])
+    assert (pk["from"], pk["to"], pk["kilder"], pk["affattet_ved"], pk["from_bestemmelse"], pk["gaeldende_version"]) == ("lta-2020-7", "lta-2026-5", ["k7"], "lta-2026-7", ["§ 5", "§ 6"], "lta-2024-1031")
+    assert pk["beskrivelse"] == "hjemmel ifølge forskriftens præambel, som en ændringsforskrift har affattet den" and praeambelkant(d, lov, ["§ 5"], aendr)["kilder"] == ["k7", "k8"]
+    pk = praeambelkant(d, {"id": "lta-2019-1"}, ["§ 5"])
+    assert pk["kilder"] == d["kilder"][:1] and pk["beskrivelse"] == "hjemmel ifølge forskriftens præambel" and not {"affattet_ved", "gaeldende_version"} & set(pk) and pk["metode"] == PRAEAMBEL
     ft = [post({"DokumentType": t, "Titel": n, "Nummer": nr, "UnderskriftDato": u, "EliUrl": "https://retsinformation.dk/eli/ft/" + k}, "x")
           for t, n, nr, u, k in (("Lovforslag som vedtaget", "Forslag til Lov om æbler\\n(Flere æbler)", "17 B", "20260601", "202523LB0017"),
                                  ("Lovforslag som fremsat", "Forslag til Lov om æbler og pærer", "17", "20260301", "202522L00017"),
@@ -1116,7 +1390,19 @@ def selftest() -> None:
                               [("naevn-frugt", "kommune-alle"), ("naevn-frugt", "sty-aeble")]),
                              ("Afgørelser truffet af Æblestyrelsen eller kommunalbestyrelsen kan påklages til Frugtklagenævnet.", [("naevn-frugt", "sty-aeble"), ("naevn-frugt", "kommune-alle")]),
                              ("Frugtklagenævnet behandler klager over frugt, der falder uden for Æblestyrelsens afgørelseskompetence.", [("naevn-frugt", None)]),
-                             ("Klager over afgørelser truffet før den 1. januar 2007, som indbringes for Frugtklagenævnet, færdigbehandles efter de hidtil gældende regler.", [])):
+                             ("Klager over afgørelser truffet før den 1. januar 2007, som indbringes for Frugtklagenævnet, færdigbehandles efter de hidtil gældende regler.", []),
+                             ("Æbleministeren kan fastsætte regler om, at afgørelser, der er truffet af Æblestyrelsen, jf. stk. 1, kan påklages til Frugtklagenævnet.", []),
+                             ("Æbleministeren fastsætter nærmere regler om klageadgang, herunder om, at Frugtklagenævnet behandler klager over Æblestyrelsens afgørelser.", []),
+                             ("Æbleministeren kan fastsætte regler om klageadgang, herunder at klager ikke kan indbringes for anden administrativ myndighed end Frugtklagenævnet.", []),
+                             ("Æbleministeren kan fastsætte regler om klageadgang, herunder hvorvidt afgørelser kan indbringes for Frugtklagenævnet.", []),
+                             ("Æbleministeren kan fastsætte bestemmelser om, at afgørelser kan påklages til Frugtklagenævnet.", []), ("Der fastsættes regler om, at afgørelser kan påklages til Frugtklagenævnet.", []),
+                             ("Æbleministeren kan fastsætte regler om gebyr, og om, at afgørelser kan påklages til Frugtklagenævnet.", []),
+                             ("Æbleministeren kan fastsætte regler om, i hvilke tilfælde tilladelse kan meddeles, og regler om, at afgørelser kan påklages til Frugtklagenævnet.", []),
+                             ("Æbleministeren fastsætter regler om gebyr, og Æblestyrelsens afgørelser om, at gebyret ikke er betalt, kan påklages til Frugtklagenævnet.", [("naevn-frugt", "sty-aeble")]),
+                             ("Afgørelser efter § 5, hvorefter ministeren fastsætter regler om gebyrer, og afgørelser om, at en tilladelse bortfalder, kan påklages til Frugtklagenævnet.", [("naevn-frugt", None)]),
+                             ("Klage over afgørelser truffet efter regler fastsat i medfør af § 5 kan påklages til Frugtklagenævnet.", [("naevn-frugt", None)]),
+                             ("Klager over afgørelser om opgaver, som Æblestyrelsen i medfør af § 5 kan fastsætte regler om, kan indbringes for Frugtklagenævnet.", [("naevn-frugt", None)]),
+                             ("Æblestyrelsens afgørelser kan påklages til Frugtklagenævnet, og æbleministeren kan fastsætte regler om, at klagen har opsættende virkning.", [("naevn-frugt", "sty-aeble")])):
         assert klager(saetning) == ventet, (saetning, klager(saetning))
     for saetning, ventet in (("Æblestyrelsen fører tilsyn med, at reglerne overholdes.", ["sty-aeble"]), ("I disse sager fører kommunalbestyrelsen tilsyn med anlægget.", ["kommune-alle"]),
                              ("Tilsynet med overholdelsen føres af Æblestyrelsen.", ["sty-aeble"]), ("Æblestyrelsen varetager tilsynet.", ["sty-aeble"]),
@@ -1134,7 +1420,14 @@ def selftest() -> None:
                              ("Æblestyrelsens tilsyn med plantagerne sker ved stikprøver.", ["sty-aeble"]),
                              ("Avleren skal efter anmodning fra Æblestyrelsen give de oplysninger, der har betydning for styrelsens kontrol med, at vilkårene overholdes.", ["sty-aeble"]),
                              ("Kommunalbestyrelsen skal give de oplysninger, der har betydning for styrelsens kontrol med, at vilkårene overholdes.", []), ("Avlerens kontrol med egen frugt dokumenteres.", []),
-                             ("Afgørelsen sendes desuden til Æblestyrelsen til brug for Æblestyrelsens tilsyn med frugt efter frugtloven.", [])):
+                             ("Afgørelsen sendes desuden til Æblestyrelsen til brug for Æblestyrelsens tilsyn med frugt efter frugtloven.", []),
+                             ("Under fuldbyrdelsen fører Æblestyrelsen tilsyn med den dømte, herunder med overholdelsen af vilkårene for tilladelsen.", []),
+                             ("Æblestyrelsen skal føre kontrol med, at den betinget dømte udfører den fastsatte samfundstjeneste.", []),
+                             ("Æblestyrelsen fører tilsyn med den prøveløsladte.", []), ("Æblestyrelsen fører kontrol med, at den indsatte overholder vilkårene.", []),
+                             ("Æblestyrelsen fører tilsyn med den dømtes overholdelse af forbud efter stk. 1.", []), ("Æblestyrelsen fører tilsyn med dømtes overholdelse af forbud efter stk. 1.", []),
+                             ("Æblestyrelsen fører tilsyn med de indsattes forhold i institutionerne.", ["sty-aeble"]), ("Æblestyrelsen fører tilsyn med den indsattegruppe, der arbejder i plantagen.", ["sty-aeble"]),
+                             ("Æblestyrelsen fører tilsyn med dømte personers arbejdsgivere.", ["sty-aeble"]), ("Æblestyrelsen fører tilsyn med de indsatser, kommunen iværksætter.", ["sty-aeble"]),
+                             ("Æblestyrelsen fører tilsyn med de institutioner, hvor den dømte afsoner.", ["sty-aeble"])):
         assert tilsyn(saetning) == ventet, (saetning, tilsyn(saetning))
     klager, tilsyn, ukendte, _ = laeser({"nodes": [{"id": "naevn-frugt", "type": "nævn", "navn": "Frugtklagenævnet"}, {"id": "min-ae", "type": "ministerium", "navn": "Æbleministeriet",
                                                 "tidligere_navne": [{"navn": "Frugt- og Bærministeriet"}]}, {"id": "min-p", "type": "ministerium", "navn": "Ministeriet for Pærer"}]})
@@ -1211,6 +1504,11 @@ def selftest() -> None:
     kirke = {"nodes": [{"id": "min-by-land-og-kirke", "type": "ministerium", "navn": "By-, Land- og Kirkeministeriet", "status": "nedlagt", "tidligere_navne": [{"navn": "Kirkeministeriet"}]}]}
     assert laeser(kirke)[1]("Kirkeministeren fører tilsyn med provstiudvalgene.") == ["min-sundhed-og-kirke"] and laeser(kirke)[1]("Direktoratet for Kriminalforsorgen fører tilsyn.") == ["sty-danmarks-faengsler"]
     assert laeser(kirke)[0]("Afgørelsen kan påklages til Styrelsen for Danmarks Fængsler.") == [("sty-danmarks-faengsler", None)]
+    assert laeser(kirke)[0]("Politiklagemyndigheden behandler klager over politiet, jf. kapitel 93 b.") == [("sty-politiklagemyndigheden", None)]
+    assert laeser(kirke)[1]("Det Uafhængige Tilsyn med Bevismidler fører tilsyn med politiets behandling af tekniske beviser.") == ["tilsyn-bevismiddeltilsynet"]
+    assert laeser(kirke)[0]("Afgørelser truffet af Dansk Vand- og Spildevandsforening kan påklages til Politiklagemyndigheden.") == [("sty-politiklagemyndigheden", "org-danva")]
+    assert laeser(kirke)[0]("Afgørelser truffet af Branchefællesskabet for arbejdsmiljø i bygge og anlæg kan påklages til Politiklagemyndigheden.") == [("sty-politiklagemyndigheden", None)]
+    assert laeser(kirke)[0]("Afgørelsen kan påklages til branchefællesskabet.") == [] == laeser(kirke)[1]("Tilsynsmyndigheden kontrollerer teleudbyderes overholdelse af loven.") == laeser(kirke)[1]("Ladepunktsoperatører kontrollerer, at ladepunktet overholder kravene.")
     assert klager("Klage til taksationsmyndighederne skal være indgivet inden 4 uger.") == [("naevn-taksationsmyndighederne", None)]
     assert klager("Regionsrådets afgørelser kan påklages til Frugtklagenævnet.") == [("naevn-frugt", "region-alle")]
     assert tilsyn("Tilsyn med menighedsrådenes funktion udøves af biskoppen.") == ["tilsyn-biskopperne"] and tilsyn("Rigspolitichefen fører tilsyn med politidirektørerne.") == ["sty-rigspolitiet"]
@@ -1305,6 +1603,123 @@ def selftest() -> None:
         "metode": BESTEMMELSE, "to_bestemmelse": ["§ 5", "§ 6"], "afgoerelse_af": ["naevn-p"], "senere_aendret_ved": ["lta-2018-734"]}
     ophaevet = bestemmelseskant({**lov12, "status": {"vaerdi": "historisk", "pr": "2026-11-23"}}, "naevn-ae", "tilsyn", {"her": her["her"][:1], "afgoerelse_af": []}, [])
     assert ophaevet["dokumentstatus"] == "historisk" and not {"afgoerelse_af", "senere_aendret_ved"} & set(ophaevet)
+    assert bestemmelseskant(lov12, "naevn-ae", "tilsyn", {**her, "omdoebt_ved": ["lta-2026-7", "lta-2026-7"]}, ["lta-2026-7"])["omdoebt_ved"] == ["lta-2026-7"]
+    aen = lambda d, nyt="": f"<AendringsNummer><Aendring><AendringDefinition><Exitus>{d}</Exitus></AendringDefinition><AendringAktion><AendringNyTekst>{nyt}</AendringNyTekst></AendringAktion></Aendring></AendringsNummer>"
+    ikr = lambda x: f"<IkraftCentreretParagraf><Stk><Exitus><Linea><Char>{x}</Char></Linea></Exitus></Stk></IkraftCentreretParagraf><Bilag><Char>Direktivet træder i kraft på tyvendedagen.</Char></Bilag>"
+    aexml = ("<Linea><Char>I bekendtgørelse nr. 12 af 3. marts 2015 om æbler, som ændret ved bekendtgørelse nr. 40 af 1. maj 2019, foretages følgende ændringer:</Char></Linea>"
+             + aen("<Linea><Char>Overalt i bekendtgørelsen ændres »Frugt\u200dstyrelsen« til:</Char></Linea><Linea><Char>»Æblestyrelsen«, og »Frugtstyrelsens« ændres til: »Æblestyrelsens«.</Char></Linea>")
+             + aen('<Linea><Char>I </Char><Char signiChar="AendringURN">§ 3</Char><Char> og § 7 ændres »Æblestyrelsen« til: »Pærestyrelsen«.</Char></Linea>')
+             + aen("<Linea><Char>§ 9 affattes således:</Char></Linea>", "<Paragraf><Char>Overalt i loven ændres »Æblestyrelsen« til: »Pærestyrelsen«. Reglen træder i kraft den 1. januar 2030.</Char></Paragraf>")
+             + "<Linea><Char>I lov om pærer, jf. lovbekendtgørelse nr. 77 af 2. februar 2020, foretages følgende ændring:</Char></Linea>"
+             + aen('<Linea><Char>Overalt i</Char><Char signiChar="AendringURN">§ 60</Char><Char>ændres »Frugtnævnet« til: »Pærenævnet«.</Char></Linea>')
+             + aen("<Linea><Char>Overalt i loven, bortset fra i § 22 og § 8, stk. 3, ændres »Frugtnævnet« til: »Pærenævnet«, »Nævnet« og »nævnet« til: »Klagenævnet«.</Char></Linea>")
+             + "<Linea><Char>I lov om blommer foretages følgende ændring:</Char></Linea>" + aen("<Linea><Char>Overalt i loven ændres »Frugtnævnet« til: »Pærenævnet«.</Char></Linea>"))
+    assert omdoebninger(aexml) == [("lta-2015-12", set(), "Frugtstyrelsen", "Æblestyrelsen"), ("lta-2015-12", set(), "Frugtstyrelsens", "Æblestyrelsens"),
+                                   ("lta-2020-77", {"22", "8", "3"}, "Frugtnævnet", "Pærenævnet")]
+    assert omdoebninger(aen("<Linea><Char>Overalt i loven ændres »Frugtnævnet« til: »Pærenævnet«.</Char></Linea>")) == []
+    assert [basisforskrift(x) for x in (
+        "I bekendtgørelse nr. 41. af 21. januar 1998 om personel i redningsberedskabet som ændret ved § 7, stk. 2, i bekendtgørelse nr. 49 af 27. januar 2006 foretages følgende ændring:",
+        "I lov om tillæg til lov nr. 475 af 1. oktober 1945 om erstatning til besættelsestidens ofre, jf. lovbekendtgørelse nr. 282 af 14. marts 2013, foretages følgende ændring:",
+        "I lov om dykkerarbejde og dykkermateriel m.v., jf. lovbekendtgørelse nr. 18 af 7. januar 2000, som sat i kraft for Grønland ved anordning nr. 728 af 19. august 2003, foretages følgende ændringer:",
+        "I bekendtgørelse nr. 1289 af 15. november 2013 om æbler foretages efter bemyndigelse følgende ændringer:", "I lov om blommer foretages følgende ændring:",
+        "I bekendtgørelse nr. 12 af 3. marts 2015 om æbler udstedt i medfør af lov om frugt, som ændret ved lov nr. 5 af 3. maj 2021, jf. lovbekendtgørelse nr. 9 af 1. juni 2021, foretages følgende ændring:")] == [
+            ("lta-1998-41", "1998-01-21"), ("lta-2013-282", "2013-03-14"), None, ("lta-2013-1289", "2013-11-15"), None, ("lta-2015-12", "2015-03-03")]
+    par = lambda x: f"<AendringCentreretParagraf><Linea><Char>{x}</Char></Linea>"
+    overalt = lambda u="": aen(f"<Linea><Char>Overalt i bekendtgørelsen{u} ændres »Frugtstyrelsen« til: »Æblestyrelsen«.</Char></Linea>")
+    frugt = lambda b, u=set(): [(b, u, "Frugtstyrelsen", "Æblestyrelsen")]
+    assert omdoebninger(par("I bekendtgørelse nr. 1289 af 15. november 2013 om æbler foretages efter bemyndigelse følgende ændringer:") + overalt()) == frugt("lta-2013-1289")
+    assert omdoebninger(par("I bekendtgørelse nr. 12 af 3. marts 2015 om æbler foretages følgende ændring:") + overalt() + par("Bekendtgørelse nr. 77 af 2. februar 2020 om pærer ændres således:") + overalt()) == frugt("lta-2015-12")
+    assert omdoebninger(par("I lov om dykkerarbejde, jf. lovbekendtgørelse nr. 18 af 7. januar 2000, som sat i kraft for Grønland ved anordning nr. 728 af 19. august 2003, foretages følgende ændring:") + overalt()) == []
+    assert omdoebninger(par("I bekendtgørelse nr. 12 af 3. marts 2015 om æbler foretages følgende ændringer:") + aen(
+        "<Linea><Char>§ 9 affattes således:</Char></Linea>", "<Linea><Char>I bekendtgørelse nr. 99 af 1. maj 2019 om pærer foretages følgende ændring:</Char></Linea>") + overalt()) == frugt("lta-2015-12")
+    assert [omdoebninger(par("I bekendtgørelse nr. 12 af 3. marts 2015 om æbler foretages følgende ændring:") + overalt(u))[0][1] for u in (
+        ", bortset fra § 10 a,", ", bortset fra i § 2, nr. 14, 1. pkt., og nr. 18, 3. pkt.,", ", bortset fra §§ 5-7,", ", bortset fra §§ 5 til 7,", ", bortset fra i kapitel 3,", ", bortset fra i bilag 1,")] == [
+            {"10"}, {"2", "14", "1", "18", "3"}, None, None, None, None]
+    ns = {"lta-2025-6": (True, []), "lta-2026-7": (True, [*frugt("lta-2015-12"), *frugt("lta-2020-77"), *frugt("lta-2015-12", None)]), "lta-2027-1": (False, frugt("lta-2015-12"))}
+    assert gaeldende_skift(["lta-2025-6", "lta-2026-7", "lta-2027-1"], ns, {"lta-2015-12"}) == ([("lta-2026-7", [(set(), "Frugtstyrelsen", "Æblestyrelsen")])], {"lta-2027-1"}, {"lta-2026-7"})
+    assert gaeldende_skift(["lta-2026-7"], ns, {"lta-2019-1"}) == ([], set(), set()) == gaeldende_skift([], ns, {"lta-2015-12"})
+    assert i_kraft(aexml + ikr("Bekendtgørelsen træder i kraft den 30. maj 2026."), "2026-11-12") and not i_kraft(aexml + ikr("Bekendtgørelsen træder i kraft den 1. januar 2027."), "2026-11-12")
+    assert i_kraft(aexml + ikr("Loven træder i kraft den 1. juli 2024, jf. dog stk. 2. Stk. 2. § 2 træder i kraft den 1. januar 2025."), "2026-11-12") and not i_kraft(aexml, "2026-11-12")
+    efter = "Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende"
+    assert not any(i_kraft(aexml + ikr(x), "2026-11-12", "2021-03-28") for x in (
+        "Loven træder i kraft den 1. juli 2024, jf. dog stk. 2. Stk. 2. § 2 træder i kraft den 1. januar 2027.", efter + ", jf. dog stk. 2. Stk. 2. § 2 træder i kraft den 1. januar 2027.",
+        "Loven træder i kraft den 1. juli 2024. Stk. 2. Ministeren fastsætter tidspunktet for ikrafttræden af § 2.", "Tidspunktet for lovens ikrafttræden fastsættes af ministeren.",
+        efter + ". Stk. 2. Ministeren fastsætter tidspunktet for ikrafttræden af § 2.", "Loven træder i kraft ved bekendtgørelsen i Lovtidende.", "§ 2 træder i kraft på forskellige tidspunkter.",
+        "Loven træder i kraft den 1. juli 2024. Stk. 2. § 2 træder dog først i kraft den 1. januar 2030.", "Loven træder i kraft den 1. juli 2024. Stk. 2. § 1, nr. 4, træder dog i kraft den 1. januar 2030.",
+        "Loven træder i kraft den 1. juli 2024. Stk. 2. § 2 træder tidligst i kraft den 1. januar 2030.", "Bekendtgørelsen træder i kraft den 12. november 2008. Dog træder § 1, nr. 4, i kraft den 1. juli 2027.",
+        "Loven træder i kraft den 1. marts 2012. §§ 70 og 71 træder dog i kraft efter justitsministerens nærmere bestemmelse.", "Loven træder i kraft den 1. juli 2024. Dog træder § 2, stk. 1, 1. pkt., i kraft den 1. januar 2030.",
+        "Loven træder i kraft den 1. juli 2024. Stk. 2. § 2 træder den 1. januar 2030 i kraft.", "Loven træder i kraft den 1. juli 2024. Stk. 2. § 2 træder " + "æ" * 80 + " i kraft den 1. januar 2030."))
+    assert all(i_kraft(aexml + ikr(f"Loven træder i kraft den 1. juli 2024. Stk. 2. § 2 træder {x} i kraft den 1. januar 2030."), "2026-11-12") for x in ("æ" * 81, "for så vidt angår gebyrer m.v.", "sammen med kap. 3"))
+    assert all(i_kraft(aexml + ikr(x), "2026-11-12") for x in (
+        "Loven træder i kraft den 1. juli 2024. Stk. 2. § 2 træder dog først i kraft den 1. januar 2025.", "Bekendtgørelsen træder i kraft den 12. november 2008. Dog træder § 1, nr. 4, i kraft den 1. juli 2009.",
+        "Bekendtgørelsen træder i stedet for bekendtgørelse nr. 5. Den træder i kraft den 12. november 2026.", "Bekendtgørelsen træder i kraft den 12. november 2026."))
+    assert [i_kraft(aexml + ikr(efter + "."), "2026-11-12", dag) for dag in ("2021-03-28", "2026-11-11", "2026-11-12", "2026-11-13", None)] == [True, True, False, False, False]
+    assert i_kraft(aexml + ikr(efter + ", jf. dog stk. 2. Stk. 2. § 1 træder i kraft den 1. februar 2026."), "2026-11-12", "2026-01-20") and not i_kraft(aexml + ikr(efter + "."), "2026-11-12")
+    assert i_kraft(aexml + ikr("Bekendtgørelsen træder i kraft 1. oktober 2019."), "2026-11-12") and not i_kraft(aexml + ikr("Bekendtgørelsen træder i kraft 1. januar 2027."), "2026-11-12")
+    indl = lambda x: f"<AendringCentreretParagraf><Linea><Char>{x}</Char></Linea>"
+    nyxml = (indl("I bekendtgørelsen nr. 12 af 3. marts 2015 om æbler, som ændret ved bekendtgørelse nr. 40 af 1. maj 2019, foretages efter bemyndigelse følgende ændringer:")
+             + aen("<Linea><Char>Indledningen</Char><Char> affattes således:</Char></Linea>", "<Indledning><Char>I medfør af § 5 i lov om æbler fastsættes:</Char></Indledning>")
+             + aen("<Linea><Char>Fodnoten til bekendtgørelsens titel affattes således:</Char></Linea>").replace("<AendringNyTekst>", "<AendringNyTekst /><AendringNyTekst><Nota>1) Ny note.</Nota>")
+             + aen("<Linea><Char>I indledningen ændres »§ 5« til: »§ 6«.</Char></Linea>") + aen("<Linea><Char>I bilag 1 affattes indledningen til pkt. 2 således:</Char></Linea>", "<Char>x</Char>")
+             + aen("<Linea><Char>Fodnoten til § 5 affattes således:</Char></Linea>", "<Nota>2) y</Nota>") + aen("<Linea><Char>§ 9 affattes således:</Char></Linea>", "<Paragraf><Indledning>z</Indledning></Paragraf>")
+             + indl("I lov om pærer, jf. lovbekendtgørelse nr. 77 af 2. februar 2020, foretages følgende ændringer:") + aen("<Linea><Char>Fodnoten til lovens titel ophæves.</Char></Linea>")
+             + aen("<Linea><Char>Indledningen affattes således: »I medfør af § 1 fastsættes:«</Char></Linea>")
+             + indl("Bekendtgørelsen træder i kraft den 1. juli 2026.") + aen("<Linea><Char>Indledningen affattes således:</Char></Linea>", "<Indledning>u</Indledning>")
+             + indl("I lov om blommer, som ændret ved lov nr. 5 af 3. maj 2021, foretages følgende ændring:") + aen("<Linea><Char>Fodnoten til lovens titel affattes således: »1) Loven gennemfører direktiv 2012/27/EU.«</Char></Linea>"))
+    assert indsat(nyxml) == [("lta-2015-12|2015-03-03", "praeambel", "<Indledning><Char>I medfør af § 5 i lov om æbler fastsættes:</Char></Indledning>"), ("lta-2015-12|2015-03-03", "noter", "<Nota>1) Ny note.</Nota>"),
+                             ("lta-2020-77|2020-02-02", "noter", ""), ("lta-2020-77|2020-02-02", "praeambel", "I medfør af § 1 fastsættes:")] and indsat(aexml) == []
+    tom = indl("I bekendtgørelse nr. 12 af 3. marts 2015 om æbler foretages følgende ændringer:") + aen("<Linea><Char>Indledningen affattes således:</Char></Linea>")
+    assert indsat(tom + aen("<Linea><Char>§ 9 affattes således:</Char></Linea>", "<Paragraf>z</Paragraf>")) == []
+    assert indsat(tom.replace("<AendringNyTekst>", "<AendringNyTekst></AendringNyTekst><AendringNyTekst>a</AendringNyTekst><AendringNyTekst>b")) == [("lta-2015-12|2015-03-03", "praeambel", "a")]
+    assert indsat(indl("I lov om dykkerarbejde, jf. lovbekendtgørelse nr. 18 af 7. januar 2000, som sat i kraft for Grønland ved anordning nr. 728 af 19. august 2003, foretages følgende ændring:")
+                  + aen("<Linea><Char>Fodnoten til lovens titel ophæves.</Char></Linea>")) == []
+    dele = lambda x: indl("I bekendtgørelse nr. 12 af 3. marts 2015 om æbler, som ændret ved bekendtgørelse nr. 40 af 1. maj 2019, foretages følgende ændringer:") + aen(f"<Linea><Char>{x}</Char></Linea>")
+    gl, en = "I medfør af § 5 i lov om æbler, jf. lovbekendtgørelse nr. 7 af 1. januar 2020, fastsættes:", dele("I indledningen ændres »jf. lovbekendtgørelse nr. 7 af 1. januar 2020« til: »jf. lovbekendtgørelse nr. 9 af 2. februar 2024«.")
+    assert delaendret(en, "lta-2015-12|2015-03-03", gl) == ("I medfør af § 5 i lov om æbler, jf. lovbekendtgørelse nr. 9 af 2. februar 2024, fastsættes:", False)
+    assert delaendret(en, "lta-2020-77|2020-02-02", gl) == (gl, False) == delaendret(dele("I § 3 ændres »§ 5« til: »§ 6«."), "lta-2015-12|2015-03-03", gl) == delaendret(aexml, "lta-2015-12|2015-03-03", gl)
+    assert delaendret(dele("I indledningen ændres »§ 5« til: »§ 6«, og »nr. 7« ændres til: »nr. 8«."), "lta-2015-12|2015-03-03", gl) == (gl.replace("§ 5", "§ 6").replace("nr. 7", "nr. 8"), False)
+    assert all(delaendret(dele(x), "lta-2015-12|2015-03-03", gl) == (gl, True) for x in (
+        "I indledningen ændres »§ 5« til: »§ 6«, og efter »æbler« indsættes: »og pærer«.", "I indledningen ændres »§ 8« til: »§ 9«.", "I indledningen ændres »lov« til: »anordning«.", "I indledningen udgår »§ 5 i«."))
+    dok = lambda i, dag, status="gældende", **mere: {"id": i, "status": {"vaerdi": status}, "datoer": {"udstedt": dag}, **mere}
+    kat = {d["id"]: d for d in (dok("lta-2015-12", "2015-03-03"), dok("lta-2020-77", "2020-02-02", gaeldende_version="lta-2026-9"), dok("lta-2026-9", "2026-09-01"), dok("lta-2014-3", "2014-01-01", "historisk"),
+                                dok("lta-2026-8", "2026-06-01"), dok("lta-2026-7", "2026-05-01"), dok("lta-2025-6", "2025-06-01"), dok("lta-2024-5", "2024-05-01", "historisk"), dok("ft-20261L00009", "2026-10-01"))}
+    ind = lambda a, *poster: {"id": a, "indsat": [{"i": i, felt: v} for i, felt, v in poster]}
+    aeb = "lta-2015-12|2015-03-03"
+    sen, ny9 = [kat[i] for i in ("lta-2026-8", "lta-2026-7", "lta-2025-6", "lta-2024-5")], gl.replace("nr. 7 af 1. januar 2020", "nr. 9 af 2. februar 2024")
+    dl = lambda efter, ikraft, hentet=("lta-2026-8", "lta-2026-7", "lta-2025-6", "lta-2024-5"): delaendringer(gl, aeb, efter, sen, {i: en + ikr(ikraft) for i in hentet}.get, "2026-11-12", lambda c: None)
+    assert dl("2026-05-01", "Bekendtgørelsen træder i kraft den 1. juli 2026.") == (ny9, ["lta-2026-8"], set()) and dl("2026-06-01", "Bekendtgørelsen træder i kraft den 1. juli 2026.") == (gl, [], set())
+    assert dl("2026-05-01", "Bekendtgørelsen træder i kraft den 1. januar 2027.") == (gl, [], {"lta-2026-8"}) and dl("2026-05-01", "Bekendtgørelsen træder i kraft den 1. juli 2026.", ("lta-2026-7", "lta-2025-6")) == (gl, [], set())
+    assert dl("2024-01-01", "Bekendtgørelsen træder i kraft den 1. juli 2026.") == (ny9, ["lta-2025-6"], {"lta-2026-7", "lta-2026-8"})
+    rk = [ind("lta-2026-8", (aeb, "praeambel", "ny 8")), {"id": "lta-2015-12", "praeambel": "gammel", "noter": ["1) gammel"]}, ind("lta-2024-5", (aeb, "praeambel", "historisk ændringsforskrift")),
+          ind("ft-20261L00009", (aeb, "praeambel", "lovforslag")),
+          ind("lta-2026-7", (aeb, "praeambel", "ny 7"), (aeb, "noter", ["n7"]), ("lta-2015-12|2015-03-04", "praeambel", "forkert dato"), ("lta-2019-1|2019-01-01", "noter", ["ikke i kataloget"]),
+              ("lta-2014-3|2014-01-01", "noter", ["historisk forskrift"]), ("lta-2020-77|2020-02-02", "noter", ["nyere version"]), ("lta-2026-7|2026-05-01", "noter", ["sig selv"])),
+          ind("lta-2025-6", (aeb, "praeambel", "ny 6"), (aeb, "noter", []))]
+    assert affattet(rk, kat, {"lta-2026-7", "lta-2025-6", "lta-2024-5", "ft-20261L00009"}) == {"praeambel": {"lta-2015-12": ("lta-2026-7", "ny 7")}, "noter": {"lta-2015-12": ("lta-2026-7", ["n7"])},
+                                                                                               "fejldateret": ["lta-2026-7 i lta-2015-12: indledning, forskriften dateret 2015-03-04"]}
+    assert affattet(rk, kat, {"lta-2026-8", "lta-2026-7"})["praeambel"] == {"lta-2015-12": ("lta-2026-8", "ny 8")} and affattet(rk, kat, set()) == {"praeambel": {}, "noter": {}, "fejldateret": []}
+    assert affattet(rk, kat, {"lta-2025-6"}) == {"praeambel": {"lta-2015-12": ("lta-2025-6", "ny 6")}, "noter": {"lta-2015-12": ("lta-2025-6", [])}, "fejldateret": []} and affattet(rk, kat, {"lta-2024-5"}) == affattet(rk, kat, set())
+    samme = {**kat, "lta-2026-100": dok("lta-2026-100", "2026-07-01"), "lta-2026-11": dok("lta-2026-11", "2026-07-01")}
+    assert affattet([ind("lta-2026-100", (aeb, "praeambel", "nr. 100")), ind("lta-2026-11", (aeb, "praeambel", "nr. 11"))], samme, {"lta-2026-100", "lta-2026-11"})["praeambel"] == {"lta-2015-12": ("lta-2026-100", "nr. 100")}
+    nv = {"frugtstyrelsen": "sty-frugt", "frugtkontoret": "sty-frugt", "æblestyrelsen": "sty-aeble", "pærestyrelsen": "sty-p"}
+    skift = [("lta-2026-7", [(set(), "Frugtstyrelsen", "Æblestyrelsen"), (set(), "Frugtstyrelsens", "Æblestyrelsens")])]
+    assert omdoeb("sty-frugt", "§ 6", "Frugtstyrelsen fører tilsyn.", skift, nv) == ("sty-aeble", ["lta-2026-7"]) == omdoeb("sty-frugt", "§ 8", "Frugtstyrelsens afgørelser kan påklages.", skift, nv)
+    assert omdoeb("sty-frugt", "§ 6", "Frugtkontoret fører tilsyn.", skift, nv) == ("sty-frugt", []) and omdoeb("sty-p", "§ 6", "Pærestyrelsen og Frugtstyrelsen fører tilsyn.", skift, nv) == ("sty-p", [])
+    assert omdoeb(None, "§ 6", "Frugtstyrelsen fører tilsyn.", skift, nv) == (None, []) and omdoeb("sty-frugt", "§ 6", "Frugtstyrelsen fører tilsyn.", [], nv) == ("sty-frugt", [])
+    assert omdoeb("sty-frugt", "§ 22", "Frugtstyrelsen fører tilsyn.", [("lta-2026-7", [({"22"}, "Frugtstyrelsen", "Æblestyrelsen")])], nv) == ("sty-frugt", [])
+    assert omdoeb("sty-frugt", "§ 6", "Frugtstyrelsen fører tilsyn.", [("lta-2026-7", [(set(), "Frugtstyrelsen", "Bærstyrelsen")])], nv) == ("sty-frugt", [])
+    assert omdoeb("sty-frugt", "§ 6", "Frugtstyrelsen fører tilsyn.", [*skift, ("lta-2027-1", [(set(), "Æblestyrelsen", "Pærestyrelsen")])], nv) == ("sty-p", ["lta-2026-7", "lta-2027-1"])
+    til_p = lambda mellem: [("lta-2020-1", [(set(), "Frugtstyrelsen", mellem)]), ("lta-2024-1", [(set(), mellem, "Pærestyrelsen")])]
+    assert omdoeb("sty-frugt", "§ 6", "Frugtstyrelsen fører tilsyn.", til_p("Frugtkontoret"), nv) == ("sty-p", ["lta-2020-1", "lta-2024-1"]) == omdoeb("sty-frugt", "§ 6", "Frugtstyrelsen fører tilsyn.", til_p("Bærstyrelsen"), nv)
+    assert omdoeb("sty-frugt", "§ 6", "Frugtstyrelsen fører tilsyn.", til_p("Frugtkontoret")[:1], nv) == ("sty-frugt", []) == omdoeb("sty-frugt", "§ 6", "Frugtkontoret fører tilsyn.", [("lta-2026-7", [(set(), "Frugtkontoret", "Frugtstyrelsen")])], nv)
+    assert omdoeb("sty-frugt", "§ 6", "Frugtstyrelsen og Bærstyrelsen fører tilsyn.", [("lta-2026-7", [(set(), "Bærstyrelsen", "Pærestyrelsen")])], nv) == ("sty-frugt", [])
+    assert omdoeb("sty-frugt", "§ 6", "Frugtstyrelsen og Frugtkontoret fører tilsyn.", [("lta-2026-7", [(set(), "Frugtkontoret", "Frugtstyrelsen"), (set(), "Frugtstyrelsen", "Æblestyrelsen")])], nv) == ("sty-aeble", ["lta-2026-7"])
+    led = collections.defaultdict(lambda: collections.defaultdict(list))
+    foej(led, skift, nv, "tilsyn", "sty-frugt", None, "§ 6", "Frugtstyrelsen fører tilsyn.")
+    foej(led, skift, nv, "klageinstans", "sty-p", "sty-frugt", "§ 8", "Frugtstyrelsens afgørelser kan påklages til Pærestyrelsen.")
+    foej(led, [], nv, "klageinstans", "sty-p", "sty-frugt", "§ 9", "Frugtstyrelsens afgørelser kan også påklages til Pærestyrelsen.")
+    assert {k: dict(v) for k, v in led.items()} == {("sty-aeble", "tilsyn"): {"afgoerelse_af": [], "her": [("§ 6", "Frugtstyrelsen fører tilsyn.")], "omdoebt_ved": ["lta-2026-7"]}, ("sty-p", "klageinstans"): {
+        "afgoerelse_af": ["sty-aeble", "sty-frugt"], "her": [("§ 8", "Frugtstyrelsens afgørelser kan påklages til Pærestyrelsen."), ("§ 9", "Frugtstyrelsens afgørelser kan også påklages til Pærestyrelsen.")], "omdoebt_ved": ["lta-2026-7"]}}
     note = ("1) Bekendtgørelsen indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2012/27/EU af 25. oktober 2012 om energieffektivitet, "
             "om ændring af direktiv 2009/125/EF og 2010/30/EU samt om ophævelse af direktiv 2004/8/EF og 2006/32/EF, EU-Tidende 2012, nr. L 315, side 1, som ændret ved "
             "Rådets direktiv 2013/12/EU af 13. maj 2013, EU-Tidende 2013, nr. L 141, side 28, og senest ved Europa-Parlamentets og Rådets direktiv 2018/2002/EU, og dele "
@@ -1324,6 +1739,21 @@ def selftest() -> None:
                          "direktiv 89/686/EØF af 21. december 1989 om personlige værnemidler, EF-Tidende 1989, nr. L 399, side 18.")]) == ["eu-dir-1989-656", "eu-dir-1989-686"]
     assert gennemfoerer([("1) Bekendtgørelsen gennemfører dele af direktiv 2005/36/EF, EU-tidende 2005, nr. L 255, side 22, som ændret ved Kommissionens forordning (EU) nr. "
                          "623/2012, EU-tidende 2012 nr. L 180, side 9 og Europa-Parlamentets og Rådets direktiv 2013/55/EU af 20. november 2013 om ændring af direktiv 2005/36/EF.")]) == ["eu-dir-2005-36"]
+    assert gennemfoerer([("1) Loven gennemfører direktiv 2002/15/EF, EF-Tidende 2002, nr. L 80, side 35, og dele af direktiv 2006/22/EF om minimumsbetingelser for gennemførelse af forordning (EF) nr. 561/2006 "
+                         "samt direktiv 2002/15/EF, EU-Tidende 2006, nr. L 102, side 35, og bekendtgørelsen er udstedt til gennemførelse af direktiv 2014/67/EU.")]) == ["eu-dir-2002-15", "eu-dir-2006-22", "eu-dir-2014-67"]
+    assert gennemfoerer([("1) Bekendtgørelsen indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv(EU) 2023/1791 af 13. september 2023 om energieffektivitet og om ændring af "
+                         "forordning (EU) 2023/995 (omarbejdning)EU-Tidende 2023, nr. L 231, side 1, samt ophævelse af direktiv 2012/27/EU af 25. oktober 2012 om energieffektivitet.")]) == ["eu-dir-2023-1791"]
+    uden = "1) Loven gennemfører dele af direktiv 2001/18/EF, EF-Tidende 2001, nr. L 106, side 1, som ændret senest ved Europa-Parlamentets og Rådets forordning 2019/1381/EU, EU-Tidende 2019, nr. L 231, side 1, "
+    assert gennemfoerer([uden + "dele af direktiv 2004/35/EF, EU-Tidende 2004, nr. L 143, side 56, som ændret senest ved forordning 2019/1010/EU, EU-Tidende 2019, nr. L 170, side 115, og dele af direktiv 2009/41/EF."]) == [
+        "eu-dir-2001-18", "eu-dir-2004-35", "eu-dir-2009-41"] and gennemfoerer([uden + "og Rådets direktiv 2013/17/EU af 13. maj 2013 om ændring af visse direktiver, EU-Tidende 2013, nr. L 158, side 193."]) == ["eu-dir-2001-18"]
+    biler = "Loven indeholder bestemmelser, der gennemfører direktiv 2000/53/EF om udrangerede køretøjer, EF-Tidende 2000, nr. L 269, side 34."
+    lbk = {"id": "lta-2017-224", "n_titelnoter": 1, "noter": [f"1) {biler}", "2) Kapitel 3 a er ophævet.", f"4) {biler}", "5) Loven gennemfører direktiv 2012/19/EU, EU-Tidende 2012, nr. L 197, side 38."]}
+    ny27 = ("lta-2026-7", ["1) Loven gennemfører direktiv 2012/27/EU, EU-Tidende 2012, nr. L 315, side 1, og direktiv 2012/19/EU, EU-Tidende 2012, nr. L 197, side 38."])
+    assert fodnotekanter(lbk, None) == ({"eu-dir-2000-53": None, "eu-dir-2012-19": None}, []) and fodnotekanter(lbk, ("lta-2025-1773", [])) == ({"eu-dir-2012-19": None}, [])
+    assert fodnotekanter(lbk, ny27) == ({"eu-dir-2012-19": "lta-2026-7", "eu-dir-2012-27": "lta-2026-7"}, []) == fodnotekanter({"id": "lta-2020-9"}, ny27)
+    assert fodnotekanter({**lbk, "n_titelnoter": 0}, ("lta-2025-1773", [])) == fodnotekanter(lbk, None) and fodnotekanter({"id": "lta-2020-9"}, None) == ({}, [])
+    assert fodnotekanter({"id": "lta-2020-357"}, ("lta-2024-474", [f"1) {biler[:-1]}, og Rådets direktiv 2013/17/EU af 13. maj 2013."])) == ({"eu-dir-2000-53": "lta-2024-474"}, ["eu-dir-2013-17"])
+    assert fodnotekanter({"id": "lta-2020-358", "noter": [f"1) {biler[:-1]}, og Rådets direktiv 2013/17/EU af 13. maj 2013."]}, None) == ({"eu-dir-2000-53": None, "eu-dir-2013-17": None}, [])
     delt = [{"id": "naevn-nm", "type": "klagenævn", "navn": "Frugtklagenævnet"}, {"id": "naevn-ny", "type": "klagenævn", "navn": "Æbleklagenævnet",
                                                                                 "tidligere_navne": [{"navn": "Frugtklagenævnet (æblesager)"}, {"navn": "Bærnævnet"}]},
             {"id": "naevn-ny2", "type": "klagenævn", "navn": "Pæreklagenævnet", "tidligere_navne": [{"navn": "Bærnævnet"}]}]

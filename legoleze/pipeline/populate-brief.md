@@ -203,7 +203,7 @@ Alle værdier, adresser og citater i eksemplet er opdigtede, også rettelsen. Ko
 | `hjemmel_for` | lov/bekendtgørelse → bekendtgørelse/vejledning/instans |
 | `udsteder` | instans → retsakt/vejledning/dokumentkilde (udsteder, udgiver eller driver) |
 | `klageinstans` | klageinstans → førsteinstans (`from` behandler klager over `to`'s afgørelser; lov og § i `beskrivelse`). Også anke fra én domstol til en anden. Ikke en domstols prøvelse af en myndigheds afgørelse |
-| `domstolsproevelse` | domstol → instans eller retsakt: `to`'s afgørelser, eller afgørelser efter `to`, kan indbringes for domstolen ad en særlig vej (en bestemt domstol, en frist, et krav om indbringelse eller myndighedens pligt til at indbringe sagen; lov og § i `beskrivelse`). Ikke den almindelige adgang efter grundlovens § 63 |
+| `domstolsproevelse` | domstol → instans eller retsakt: `to`'s afgørelser, eller afgørelser efter `to`, kan indbringes for domstolen ad en særlig vej (en bestemt domstol, en frist, et krav om indbringelse eller myndighedens pligt til at indbringe sagen; lov og § i `beskrivelse`). Ikke den almindelige adgang efter grundlovens § 63. `from` er den domstol, loven selv nævner: siger loven "domstolene", eller "retten" uden at loven viser hvilken ret, er det `dom-domstolene`. Brug kun `dom-byretterne`, `dom-boligretten` osv., når loven nævner netop den ret; slut ikke byretten af retsplejelovens § 224. Én kant pr. domstol og instans |
 | `tilsyn` | tilsynsmyndighed → tilsynsobjekt |
 | `implementerer_EU` | dansk retsakt → EU-retsakt |
 | `henviser_til` | dokument → dokument |

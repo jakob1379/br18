@@ -3,7 +3,7 @@
 > Genereret af `scripts/build.py` fra `registry.yaml` (dato 2026-10-28). Redigér ikke i hånden.
 > Fuldt optrukne pile = `verificeret`; stiplede = `sandsynlig`/`ukendt`. Grå stiplede bokse = nedlagt/omdøbt/ophævet.
 
-Noder: 146 · kanter: 295
+Noder: 145 · kanter: 294
 
 ```mermaid
 flowchart LR
@@ -71,7 +71,6 @@ flowchart LR
     org_praktiserende_landinspektoerer["Praktiserende (beskikkede) landinspektører"]:::kilde
     bv_videncentret_selektiv_nedrivning["Verdibyg-vejledning om selektiv nedrivning (udgivet via GI)"]:::kilde
     kilde_ens_dk["ens.dk (Energistyrelsens website)"]:::kilde
-    dom_domstolene["Domstolene (byret, landsret, Højesteret)"]:::klage
     naevn_energiklagenaevnet["Energiklagenævnet"]:::klage
     ombud_folketingets_ombudsmand["Folketingets Ombudsmand"]:::klage
     naevn_landinspektoernaevnet["Landinspektørnævnet"]:::klage
@@ -301,7 +300,6 @@ flowchart LR
     lov_varmeforsyningsloven -->|implementerer_EU| eu_dir_2023_1791
     lov_ve_loven -.->|implementerer_EU| eu_dir_2018_2001
     lov_ve_loven -->|implementerer_EU| eu_dir_2023_2413
-    dom_domstolene -->|domstolsproevelse| sty_geodatastyrelsen
     naevn_energiklagenaevnet -->|klageinstans| org_energinet
     naevn_energiklagenaevnet -->|klageinstans| sty_energistyrelsen
     naevn_energiklagenaevnet -->|klageinstans| tilsyn_forsyningstilsynet

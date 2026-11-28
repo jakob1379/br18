@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
-"""Pass 1: Retsinformation LTA seeds (danish-law-mcp) -> data/docs.jsonl (meta + text features)."""
+"""Pass 1: Retsinformation LTA seeds (danish-law-mcp) -> data/docs.jsonl (meta + text features).
+
+    python3 extract.py <seed-dir>
+    python3 extract.py selftest
+"""
 import json, os, re, sys
 from collections import Counter
 from multiprocessing import Pool
@@ -37,7 +41,7 @@ R_KORT = re.compile(r'\b([a-zæøå][a-zæøå\-]{3,}loven)\b')
 R_MIN = re.compile(r'\b((?:[a-zæøå]+-,? )*(?:[a-zæøå]+- og )?[a-zæøå]*ministeren)\b', re.I)
 R_MINFOR = re.compile(r'\bministeren for ((?:[a-zæøå\-]+(?:,| og)? ){0,6}[a-zæøå\-]+)', re.I)
 R_STY = re.compile(r'\b([A-ZÆØÅ][a-zæøå\-]+styrelsen|Styrelsen for (?:[A-ZÆØÅa-zæøå\-]+(?:,| og)? ){0,5}[A-ZÆØÅa-zæøå\-]+|[A-ZÆØÅ][a-zæøå\-]+tilsynet|[A-ZÆØÅ][a-zæøå\-]+direktoratet)\b')
-R_DIR = re.compile(r'direktiv(?:et|er|erne)?\s+(?:nr\.\s*)?(?:\((EU|EF|EØF|Euratom)\)\s*(?:nr\.\s*)?)?(\d{2,4})/(\d{1,4})(?:/(EØF|EF|EU|Euratom|EURATOM))?', re.I)
+R_DIR = re.compile(r'direktiv(?:et|er|erne)?(?:\s+|(?=\())(?:nr\.\s*)?(?:\((EU|EF|EØF|Euratom)\)\s*(?:nr\.\s*)?)?(\d{2,4})/(\d{1,4})(?:/(EØF|EF|EU|Euratom|EURATOM))?', re.I)
 R_REG_OLD = re.compile(r'forordning(?:en|er|erne)?\s+\((EU|EF|EØF|Euratom)\)\s+nr\.\s*(\d{1,5})/(\d{2,4})', re.I)
 R_REG_NEW = re.compile(r'forordning(?:en|er|erne)?\s+\((EU|Euratom)\)\s+(\d{4})/(\d{1,5})', re.I)
 R_DEC = re.compile(r'(?:afgørelse|beslutning)\s+(?:\((EU|EF)\)\s+)?(\d{4})/(\d{1,4})(?:/(EU|EF|EØF))?', re.I)
@@ -114,6 +118,11 @@ def process(f):
     }
 
 if __name__ == '__main__':
+    if SEED == 'selftest':
+        assert eu_refs('direktiv(EU) 2023/1791 af 13. september 2023 samt ophævelse af direktiv 2012/27/EU') == {'dir:2023/1791': 1, 'dir:2012/27': 1}
+        assert eu_refs('direktiv (EU) 2023/1791, direktivet(EU) 2018/2001 og direktiv nr. 98/24/EF') == {'dir:2023/1791': 1, 'dir:2018/2001': 1, 'dir:1998/24': 1}
+        assert not eu_refs('direktiv2012/27/EU, direktivforslag (EU) 2023/1791 og direktiv(er) 2012/27')
+        print('selftest ok'); sys.exit()
     files = sorted(x for x in os.listdir(SEED) if x.endswith('.json'))
     n = 0; errs = []
     with Pool(4) as p, open(OUT, 'w', encoding='utf-8') as fh:
